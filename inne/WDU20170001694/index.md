@@ -1,0 +1,114 @@
+---
+title: Rozporządzenie Prezesa Rady Ministrów z dnia 4 września 2017 r. zmieniające rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego
+address: WDU20170001694
+eli: DU/2017/1694
+publisher: DU
+year: 2017
+pos: 1694
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Prezesa Rady Ministrówz dnia 4 września 2017 r. zmieniające rozporządzenie w sprawie nakładania grzywien w drodze mandatu karnego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1694 |
+| ISAP | WDU20170001694 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-09-04 |
+| Data wydania | 2017-09-05 |
+| Wejście w życie | 2017-09-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1694/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1694) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wzór formularza mandatu karnego](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 96 § 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2016 r. poz. 1713](https://api.sejm.gov.pl/eli/acts/DU/2016/1713/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477 i 1543.](#gloss-0:1:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Prezesa Rady Ministrów z dnia 22 lutego 2002 r. w sprawie nakładania grzywien w drodze mandatu karnego ([Dz. U. z 2017 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2017/613/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 4:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+na odcinku „A” formularza wpisuje wysokość nałożonej grzywny; wysokości grzywny nie wpisuje się, jeżeli sprawca wykroczenia uiścił ją w formie bezgotówkowej za pomocą karty płatniczej lub innego instrumentu płatniczego;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawca wykroczenia ukarany mandatem karnym kredytowanym otrzymuje odcinki „A”, „B” i „C” formularza. W przypadku gdy grzywna została uiszczona w formie bezgotówkowej za pomocą karty płatniczej lub innego instrumentu płatniczego, sprawca wykroczenia otrzymuje wyłącznie odcinek „C” formularza.
+
+” ;
+
+### 2)
+
+po § 5 dodaje się § 5a w brzmieniu:
+
+„
+
+### § 5a.
+
+Jeżeli grzywna nałożona w drodze mandatu karnego, o którym mowa w § 4 ust. 1 albo § 5 ust. 1, została uiszczona przez sprawcę wykroczenia w formie bezgotówkowej za pomocą karty płatniczej lub innego instrumentu płatniczego, funkcjonariusz:
+
+### 1)
+
+na odcinku „C” formularza zaznacza także znakiem X pole „płatność kartą lub innym instrumentem płatniczym”;
+
+### 2)
+
+do odcinka „D” formularza dołącza potwierdzenie dokonania płatności uzyskane z urządzenia do autoryzacji rozliczeń.
+
+” ;
+
+### 3)
+
+załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+### § 2.
+
+### 1.
+
+Formularze mandatów karnych wydane na podstawie dotychczasowych przepisów mogą być używane do czasu wyczerpania ich nakładu, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+### 2.
+
+W przypadku gdy grzywna nałożona mandatem karnym kredytowanym albo gotówkowym została uiszczona przez sprawcę wykroczenia w formie bezgotówkowej za pomocą karty płatniczej lub innego instrumentu płatniczego, na formularzach, o których mowa w ust. 1, na odcinku „C” formularza po wyrazach „kredytowany/gotówkowy/zaoczny - zaznaczyć właściwy” dopisuje się wyrazy „płatność kartą” lub „płatność instrumentem płatniczym”.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 oraz z 2017 r. poz. 708, 962, 966, 1477 i 1543.
+
+## Załącznik - Wzór formularza mandatu karnego
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2017/1694/text.pdf)

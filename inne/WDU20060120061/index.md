@@ -8,11 +8,9 @@ pos: 61
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# Funduszu Kolejowym
-
-*USTAWA z dnia 16 grudnia 2005 r.*
+# Ustawa z dnia 16 grudnia 2005 r. o Funduszu Kolejowym [1) Niniejszą ustawą zmienia się ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -23,228 +21,311 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2005-12-16 |
 | Data wydania | 2006-01-25 |
-| Ostatnia zmiana | 2024-09-04 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060120061) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/61/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/61/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/61) |
 
-**Art. 1.** Ustawa reguluje utworzenie Funduszu Kolejowego, zwanego dalej „Funduszem”, zasady gromadzenia środków Funduszu oraz zasady finansowania zadań ze środków Funduszu.
+## Treść ustawy
 
-**Art. 2.** Fundusz tworzy się Banku Gospodarstwa Krajowego.
+### Art. 1.
 
-**Art. 3.**
+Ustawa reguluje utworzenie Funduszu Kolejowego, zwanego dalej „Funduszem”, zasady gromadzenia środków Funduszu oraz zasady finansowania zadań ze środków Funduszu.
 
-1. Fundusz:
+### Art. 2.
 
-- **1)** gromadzi środki finansowe na przygotowanie oraz realizację budowy i przebudowy linii kolejowych, remonty i utrzymanie linii kolejowych, likwidację zbędnych linii kolejowych oraz wydatki bieżące PKP Polskich Linii Kolejowych Spółki Akcyjnej związane z zadaniami zarządcy infrastruktury kolejowej;
-- **2)** finansuje realizację zadań, których mowa pkt 1.
+Fundusz tworzy się w Banku Gospodarstwa Krajowego.
 
-2. (uchylony)
+### Art. 3.
 
-3. Środki Funduszu przeznacza się na spłaty kredytów i pożyczek wraz z odsetkami oraz innymi kosztami obsługi kredytów i pożyczek, a także na pokrycie kosztów emisji i wykupu obligacji, których mowa art. 7 ust. 1, oraz spłaty zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, których mowa art. 7 ust. 2.
+### 1.
 
-3a. Środki Funduszu mogą być przeznaczone na sfinansowanie nabycia od Polskich Kolei Państwowych Spółka Akcyjna, zwanych dalej „PKP SA”, przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw transportu, akcji PKP Polskich Linii Kolejowych Spółka Akcyjna, zwanych dalej „PKP PLK SA”.
+Fundusz:
 
-3b. Nabycie akcji, których mowa ust. 3a, następuje na podstawie umowy zawartej między Skarbem Państwa, reprezentowanym przez ministra właściwego do przeznaczonych do diagnostyki, utrzymania, naprawy lub budowy infrastruktury kolejowej oraz do prowadzenia działań ratowniczych.
+### 1)
 
-3e. Środki Funduszu mogą być przeznaczone na dofinansowanie działalności zarządców infrastruktury kolejowej, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej.
+gromadzi środki finansowe na przygotowanie oraz realizację budowy i przebudowy linii kolejowych, remonty i utrzymanie linii kolejowych, likwidację zbędnych linii kolejowych;
 
-3f. Dofinansowanie, którym mowa ust. 3e, odbywa się na podstawie przepisów rozdziału 7 ustawy z dnia 28 marca 2003 r. transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731).
+### 2)
 
-3g. Środki Funduszu mogą być przeznaczone na finansowanie usług doradczych.
+finansuje realizację zadań, o których mowa w pkt 1.
 
-3h. Środki Funduszu przeznacza się na finansowanie, realizowanych przez PKP PLK SA inwestycji kapitałowych, polegających szczególności na podwyższeniu kapitału zakładowego spółek zależnych PKP PLK SA rozumieniu ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) i objęciu przez PKP PLK SA nowo utworzonych udziałów podwyższonym kapitale zakładowym.
+### 2.
 
-3i. Wielkość środków, których mowa ust. 3h, wynosi danym roku budżetowym nie mniej niż 200 mln zł.
+Środki Funduszu przeznacza się na pokrycie utraconych w latach 2002-2003 przez przewoźników kolejowych przychodów z tytułu obowiązujących ustawowych ulg taryfowych w krajowych przewozach pasażerskich, niepokrytych dotychczas wypłaconymi dotacjami przekazanymi z tego tytułu.
 
-3j. Środki, których mowa ust. 3h, niewykorzystane przez PKP PLK SA danym roku budżetowym mogą być wykorzystane latach następnych.
+### 3.
 
-3k. Środki Funduszu mogą być przeznaczone na przygotowanie oraz realizację budowy i przebudowy linii kolejowych przez Spółkę Celową, której mowa art. 2 pkt 10 ustawy z dnia 10 maja 2018 r. Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 545 i 834), lub spółkę, której mowa art. 15 ust. 1 tej ustawy.
+Środki Funduszu przeznacza się na spłaty kredytów i pożyczek wraz z odsetkami oraz innymi kosztami obsługi kredytów i pożyczek, a także na pokrycie kosztów emisji i wykupu obligacji, o których mowa w art. 7 ust. 1, oraz spłaty zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, o których mowa w art. 7 ust. 2.
 
-4. Środki Funduszu latach 2009–2015 przeznacza się na finansowanie lub współfinansowanie przez samorządy województw, zwane dalej „województwami”, zadań zakresie zakupu, modernizacji oraz napraw pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy świadczenie usług publicznych, której mowa art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. transporcie kolejowym.
+### Art. 4.
 
-5. Wielkość środków, których mowa ust. 4, danym roku budżetowym wynosi 100 mln zł, z zastrzeżeniem ust. 6. Środki te województwa otrzymują częściach równych.
+Środki przeznaczone na finansowanie zadań, o których mowa w art. 3 ust. 1 pkt 1, mogą być przekazywane tylko na rzecz zarządców infrastruktury kolejowej zapewniających przewoźnikom kolejowym dostęp do tej infrastruktury na podstawie przepisów rozdziału 6 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. Nr 86, poz. 789](https://api.sejm.gov.pl/eli/acts/DU/2003/789/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420.](#gloss-0:2:)), chyba że odrębne przepisy nakładają na przedsiębiorcę niebędącego zarządcą infrastruktury obowiązek likwidacji zbędnych linii kolejowych; w takim przypadku przepisy ustawy stosuje się odpowiednio.
 
-6. W 2009 r. wielkość środków na zadania określone ust. 4 wynosi 200 mln zł.
+### Art. 5.
 
-7. Wielkość środków, których mowa ust. 4a, danym roku budżetowym wynosi 110 mln zł. Z tej kwoty 100 mln zł otrzymują województwa zgodnie z zasadami określonymi ust. 8, natomiast 10 mln zł przypada równych częściach województwom, które otrzymały przy takim podziale kwotę niższą niż 3 mln zł rocznie.
+Środki Funduszu pochodzą z:
 
-8. Środki, których mowa ust. 4a, będą każdego roku dzielone między województwa zgodnie z udziałem procentowym każdego z nich łącznej kwocie części wyrównawczej subwencji ogólnej przyznanej województwom 2015 r. na podstawie art. 24 ustawy z dnia 13 listopada 2003 r. dochodach jednostek samorządu terytorialnego (Dz. U. z 2024 r. poz. 356).
+### 1)
 
-8a. W latach 2023 i 2024 środki Funduszu mogą być przekazane PKP PLK SA z przeznaczeniem na sfinansowanie nabycia udziałów kapitale zakładowym CARGOTOR spółka z ograniczoną odpowiedzialnością.
+20% wpływów z opłaty paliwowej, pobieranych zgodnie z ustawą z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2004 r. Nr 256, poz. 2571](https://api.sejm.gov.pl/eli/acts/DU/2004/2571/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html) oraz z [2005 r. Nr 155, poz. 1297](https://api.sejm.gov.pl/eli/acts/DU/2005/1297/text.html) i [Nr 172, poz. 1440](https://api.sejm.gov.pl/eli/acts/DU/2005/1440/text.html));
 
-8b. Nabycie udziałów, których mowa ust. 8a, następuje według ich wartości rynkowej, wynikającej z wyceny sporządzonej przez niezależnego zewnętrznego doradcę.
+### 2)
 
-9. Środki Funduszu mogą być przeznaczone na finansowanie lub współfinansowanie przez województwa zadań zakresie zakupu, modernizacji oraz napraw pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy świadczenie usług publicznych, której mowa art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. transporcie kolejowym, pod warunkiem zapewnienia organizowania przez te województwa wojewódzkich przewozów pasażerskich transporcie kolejowym, szczególności zapewniających połączenia komunikacyjne między sąsiednimi województwami, uwzględnionych planie zrównoważonego rozwoju publicznego transportu zbiorowego, których mowa komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2024 r. poz. 561).
+odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu w bankach;
 
-11. Środki Funduszu mogą być przeznaczone na sfinansowanie nabycia od PKP SA przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw transportu, prawa własności nieruchomości lub użytkowania wieczystego gruntów niezbędnych do realizacji inwestycji, której mowa art. 33z ust. 5 ustawy z dnia 8 września 2000 r. komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”.
+### 3)
 
-**Art. 3a.**
+przychodów z akcji w spółkach przekazanych ministrowi właściwemu do spraw transportu przez Skarb Państwa w celu zasilenia Funduszu;
 
-1. W 2012 r. środki Funduszu kwocie 150 mln zł pochodzące z wpływów, których mowa art. 5 ust. 1 pkt 1, będą przeznaczone na współfinansowanie zadań własnych województw zakresie organizowania regionalnych kolejowych przewozów pasażerskich wykonywanych na podstawie umów świadczenie usług publicznych, których mowa art. 4 pkt 19 ustawy z dnia 28 marca 2003 r. transporcie kolejowym.
+### 4)
 
-2. Udział województw środkach, których mowa ust. 1, będzie proporcjonalny do liczby udziałów objętych spółce Przewozy Regionalne sp. z o.o., zwanej dalej „PR”, przez poszczególne województwa zgodnie z przepisami wydanymi na podstawie art. 33u ust. 3 ustawy z dnia 8 września 2000 r. komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”.
+przychodów ze sprzedaży akcji, o których mowa w art. 6;
 
-3. Sposób i terminy przekazania środków stanowiących udział województw kwocie 150 mln zł, której mowa ust. 1, określą umowy zawarte między ministrem właściwym do spraw transportu a marszałkami województw. W umowach mogą zostać określone dodatkowe warunki przekazania tych środków dotyczące szczególności ich przeznaczenia.
+### 5)
 
-**Art. 3b.**
+środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
 
-1. W 2010 r. środki Funduszu mogą być przeznaczone na sfinansowanie nabycia od PKP SA przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw transportu, udziałów kapitale zakładowym PR objętych przez PKP SA
+### 6)
 
-**Art. 3c.** (uchylony)
+wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
 
-**Art. 4.** Środki przeznaczone na finansowanie zadań, których mowa art. 3 ust. 1 pkt 1, mogą być przekazywane tylko na rzecz zarządców infrastruktury kolejowej zapewniających przewoźnikom kolejowym dostęp do tej infrastruktury na podstawie przepisów rozdziału 6 ustawy z dnia 28 marca 2003 r. transporcie kolejowym, chyba że odrębne przepisy nakładają na przedsiębiorcę niebędącego zarządcą infrastruktury obowiązek likwidacji zbędnych linii kolejowych; takim przypadku przepisy ustawy stosuje się odpowiednio.
+### 7)
 
-**Art. 5.**
+inwestycji środków Funduszu w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539.](#gloss-0:3:));
 
-1. Środki Funduszu pochodzą z:
+### 8)
 
-- **1)** 19,45 % wpływów z opłaty paliwowej, pobieranych zgodnie z przepisami ustawy z dnia 27 października 1994 r. autostradach płatnych oraz Krajowym Funduszu Drogowym (Dz. U. z 2024 r. poz. 321);
-- **2)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu bankach;
-- **3)** przychodów z akcji spółkach przekazanych ministrowi właściwemu do spraw transportu przez Skarb Państwa celu zasilenia Funduszu;
-- **4)** (uchylony)
-- **5)** środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **6)** wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **7)** inwestycji środków Funduszu jednostki uczestnictwa funduszy rynku pieniężnego, których mowa art. 178 ustawy z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034);
-- **8)** darowizn i zapisów;
-- **9)** wpływów z innych środków publicznych. bieżących wpływów z opłaty paliwowej.
+darowizn i zapisów;
 
-4. W 2015 r. środki, których mowa ust. 1 pkt 1, powiększa się kwotę 500 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej.
+### 9)
 
-5. W latach 2016–2019 środki, których mowa ust. 1 pkt 1, powiększa się corocznie kwotę 400 mln zł, przekazywaną przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej.
+wpływów z innych środków publicznych.
 
-6. W roku 2021 środki Funduszu pochodzą również z wpłaty z budżetu państwa, przekazywanej przez ministra właściwego do spraw transportu, wysokości:
+### Art. 6.
 
-- **1)** 4 507 700 tys. zł – z przeznaczeniem na wsparcie zadań zarządców infrastruktury kolejowej, tym zakresie utrzymania i remontów infrastruktury kolejowej;
-- **2)** 70 000 tys. zł – z przeznaczeniem na inwestycje kapitałowe;
-- **3)** 600 000 tys. zł – z przeznaczeniem na sfinansowanie nabycia akcji, którym mowa art. 3 ust. 3a.
+### 1.
 
-7. W 2023 r. środki Funduszu mogą pochodzić również z wpływów ze skarbowych papierów wartościowych, których mowa art. 5b.
+W celu zasilenia Funduszu minister właściwy do spraw Skarbu Państwa może, w imieniu Skarbu Państwa, na wniosek ministra właściwego do spraw transportu, przekazać nieodpłatnie temu ministrowi akcje w spółkach publicznych, stanowiące własność Skarbu Państwa, z uwzględnieniem zakresu finansowania ze środków Funduszu przewidzianego w Programie rzeczowo-finansowym, o którym mowa w art. 7 ust. 1, oraz wartości tych akcji.
 
-**Art. 5a.**
+### 2.
 
-1. Sposób i terminy przekazywania kwoty 200 mln zł, której mowa art. 5 ust. 2, oraz kwoty 100 mln zł, której mowa art. 5 ust. 3, zostaną określone umowie, której mowa art. 12.
+Akcje Skarbu Państwa, o których mowa w ust. 1, minister właściwy do spraw Skarbu Państwa zbywa na wniosek ministra właściwego do spraw transportu, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych.
 
-2. Sposób i terminy przekazywania kwoty 500 mln zł, której mowa art. 5 ust. 4, oraz kwoty 400 mln zł, której mowa art. 5 ust. 5, zostaną określone umowie, której mowa art. 12.
+### 3.
 
-**Art. 5b.**
+Do przekazania akcji, o których mowa w ust. 1, oraz do ich zbywania nie stosuje się przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ([Dz. U. z 2002 r. Nr 171, poz. 1397](https://api.sejm.gov.pl/eli/acts/DU/2002/1397/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539.](#gloss-0:4:)) oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ([Dz. U. Nr 106, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/1996/493/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538.](#gloss-0:5:)).
 
-1. W 2023 r. minister właściwy do spraw budżetu, na wniosek ministra właściwego do spraw transportu, może przekazać Funduszowi skarbowe papiery wartościowe na dofinansowanie zadań, których mowa art. 3 ust. 3a.
+### Art. 7.
 
-2. Łączna wartość nominalna zobowiązań z tytułu wyemitowanych skarbowych papierów wartościowych przekazanych Funduszowi nie może przekroczyć kwoty 1 500 000 tys. zł.
+### 1.
 
-- **2)** powołanie podstawy prawnej emisji;
-- **3)** jednostkową wartość nominalną złotych;
-- **4)** cenę zbycia lub sposób jej ustalenia;
-- **5)** stopę procentową lub sposób jej obliczania;
-- **6)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
-- **7)** datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
-- **8)** termin wykupu oraz zastrzeżenia przedmiocie możliwości wcześniejszego wykupu.
+Bank Gospodarstwa Krajowego może zaciągać kredyty i pożyczki oraz emitować obligacje w kraju i za granicą na rzecz Funduszu, z przeznaczeniem na realizację zadań inwestycyjnych wynikających z Programu rzeczowo-finansowego wykorzystania środków Funduszu, zwanego dalej „Programem”.
 
-5. Emisja skarbowych papierów wartościowych następuje z dniem zarejestrowania skarbowych papierów wartościowych depozycie papierów wartościowych oraz kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
+### 2.
 
-6. Do emisji skarbowych papierów wartościowych nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) oraz przepisów wydanych na podstawie art. 97 tej ustawy.
+W celu realizacji zadań wynikających z Programu na zobowiązania Banku Gospodarstwa Krajowego z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. z 2003 r. Nr 174, poz. 1689](https://api.sejm.gov.pl/eli/acts/DU/2003/1689/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785 oraz z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538.](#gloss-0:6:)).
 
-7. Rozporządzanie skarbowymi papierami wartościowymi przekazanymi Funduszowi wymaga zgody ministra właściwego do spraw finansów publicznych.
+### 3.
 
-8. Koszty związane z operacjami na skarbowych papierach wartościowych, których mowa ust. 1, tym prowadzeniem rachunku papierów wartościowych, pokrywane są ze środków Funduszu.
+Gwarancje i poręczenia, o których mowa w ust. 2, są zwolnione z opłat prowizyjnych.
 
-**Art. 6.** (uchylony)
+### 4.
 
-**Art. 7.**
+Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umowy poręczenia lub gwarancji zawartej pod warunkiem przeznaczenia kredytu, pożyczki lub środków pochodzących z emisji obligacji na realizację zadań wynikających z Programu na zasadach określonych przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyłączeniem art. 43 tej ustawy, oraz dochodzi spłaty tych kwot ze środków Funduszu, z zastrzeżeniem ust. 5.
 
-1. Bank Gospodarstwa Krajowego może zaciągać kredyty i pożyczki oraz emitować obligacje kraju i za granicą na rzecz Funduszu, z przeznaczeniem na realizację zadań inwestycyjnych finansowanych ze środków Funduszu. oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291).
+### 5.
 
-3. Gwarancje i poręczenia, których mowa ust. 2, są zwolnione z opłat prowizyjnych.
+Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
 
-4. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umowy poręczenia lub gwarancji zawartej pod warunkiem przeznaczenia kredytu, pożyczki lub środków pochodzących z emisji obligacji na realizację zadań wynikających z planu finansowego Funduszu, którym mowa art. 9a, na zasadach określonych ustawie z dnia 8 maja 1997 r. poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyłączeniem art. 43 tej ustawy, oraz dochodzi spłaty tych kwot ze środków Funduszu, z zastrzeżeniem ust. 5.
+### Art. 8.
 
-5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność całości lub części.
+### 1.
 
-6. (uchylony)
+Okresowo wolne środki Funduszu, z zastrzeżeniem ust. 2 i 3, Bank Gospodarstwa Krajowego może lokować:
 
-7. (uchylony)
+### 1)
 
-**Art. 8.**
+w papiery wartościowe emitowane przez Skarb Państwa lub NBP;
 
-1. Okresowo wolne środki Funduszu, z zastrzeżeniem ust. 2 i 3, Bank Gospodarstwa Krajowego może lokować:
+### 2)
 
-- **1)** papiery wartościowe emitowane przez Skarb Państwa lub NBP;
-- **2)** papiery wartościowe gwarantowane lub poręczane przez Skarb Państwa;
-- **3)** listy zastawne emitowane na podstawie ustawy z dnia 29 sierpnia 1997 r. listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110);
-- **4)** jednostkach uczestnictwa funduszy rynku pieniężnego, których mowa art. 178 ustawy z dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi;
-- **5)** na rachunkach lokat terminowych bankach posiadających fundusze własne wysokości nie mniejszej niż równowartość złotych kwoty 10 000 000 euro, lokowanych jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie nie może przekroczyć 25 % tych środków.
+w papiery wartościowe gwarantowane lub poręczane przez Skarb Państwa;
 
-3. Wysokość środków Funduszu przeznaczonych do lokowania na podstawie ust. 1, Bank Gospodarstwa Krajowego uzgadnia z ministrem właściwym do spraw transportu.
+### 3)
 
-**Art. 9.** (uchylony)
+w listy zastawne emitowane na podstawie ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych ([Dz. U. z 2003 r. Nr 99, poz. 919](https://api.sejm.gov.pl/eli/acts/DU/2003/919/text.html) oraz z [2005 r. Nr 184, poz. 1539](https://api.sejm.gov.pl/eli/acts/DU/2005/1539/text.html) i [Nr 249, poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2005/2104/text.html));
 
-**Art. 9a.**
+### 4)
 
-1. Bank Gospodarstwa Krajowego wyodrębnia swoim planie finansowym plan finansowy Funduszu.
+w jednostkach uczestnictwa funduszy inwestycyjnych rynku pieniężnego, o których mowa w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych;
 
-2. Plan finansowy Funduszu określa szczególności:
+### 5)
 
-- **1)** przewidywaną wysokość środków przeznaczonych na:
-    - **a)** przygotowanie i realizację budowy i przebudowy linii kolejowych, remonty i utrzymanie linii kolejowych, likwidację zbędnych linii kolejowych oraz wydatki bieżące PKP PLK SA związane z zarządzaniem infrastrukturą kolejową,
-    - **b)** obsługę kredytów, pożyczek i obligacji,
-    - **c)** realizację programu wieloletniego, którym mowa art. 38a ust. 2 ustawy z dnia 28 marca 2003 r. transporcie kolejowym,
-    - **d)** inwestycje kapitałowe realizowane przez PKP PLK SA;
+na rachunkach lokat terminowych w bankach posiadających fundusze własne w wysokości nie mniejszej niż równowartość w złotych kwoty 10 000 000 euro, przeliczonej według kursu średniego ogłaszanego przez NBP, z zastrzeżeniem, że suma lokat w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie nie może przekroczyć 10% okresowo wolnych środków Funduszu.
 
-- **2)** przychody Funduszu;
-- **3)** (uchylony)
-- **4)** przewidywane wydatki z tytułu spłaty zobowiązań wynikających z wykonania przez Skarb Państwa umowy gwarancji lub poręczenia, której mowa art. 7 ust. 2.
+### 2.
 
-3. Bank Gospodarstwa Krajowego, nie później niż do dnia 15 czerwca roku poprzedzającego rok, którym plan finansowy Funduszu ma obowiązywać, przedstawia projekt tego planu do uzgodnienia:
+Suma okresowo wolnych środków Funduszu, o których mowa w ust. 1, lokowanych w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie nie może przekroczyć 25% tych środków.
 
-- **1)** ministrowi właściwemu do spraw transportu;
+### 3.
 
-5. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu oraz podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, których mowa art. 7 ust. 1.
+Wysokość środków Funduszu przeznaczonych do lokowania na podstawie ust. 1, Bank Gospodarstwa Krajowego uzgadnia z ministrem właściwym do spraw transportu.
 
-6. Bank Gospodarstwa Krajowego:
+### Art. 9.
 
-- **1)** składa ministrom wskazanym ust. 3, terminie do końca miesiąca następującego po każdym kwartale, informację realizacji planu finansowego Funduszu;
-- **2)** składa ministrowi właściwemu do spraw transportu oraz ministrowi właściwemu do spraw finansów publicznych sprawozdanie z realizacji planu finansowego Funduszu za poprzedni rok do dnia 30 kwietnia.
+### 1.
 
-**Art. 10.**
+Projekt Programu opracowuje minister właściwy do spraw transportu w porozumieniu z Bankiem Gospodarstwa Krajowego na okres od roku do lat sześciu.
 
-1. W umowach zawieranych przez zarządców infrastruktury kolejowej z ministrem właściwym do spraw transportu określa się warunki finansowania lub współfinansowania ze środków Funduszu, zgodnie z ustaleniami planu finansowego Funduszu, którym mowa art. 9a, odniesieniu do:
+### 2.
 
-- **1)** projektów inwestycyjnych zakresie budowy i przebudowy linii kolejowych;
-- **2)** zadań z zakresu remontów i utrzymania linii kolejowych;
-- **3)** zadań z zakresu likwidacji zbędnych linii kolejowych, przewidzianych do realizacji przez zarządców infrastruktury kolejowej;
-- **4)** wydatków bieżących PKP PLK SA związanych z zadaniami zarządcy infrastruktury kolejowej;
-- **5)** zakupu i modernizacji przez PKP PLK SA pojazdów kolejowych przeznaczonych do diagnostyki, utrzymania, naprawy lub budowy infrastruktury kolejowej oraz do prowadzenia działań ratowniczych;
-- **6)** działalności zarządców infrastruktury kolejowej, która nie może być sfinansowana z opłat za korzystanie z infrastruktury kolejowej.
+Program określa:
 
-2. Sposób wykorzystania i wysokość środków przeznaczonych na sfinansowanie nabycia od PKP SA na podstawie decyzji ministra właściwego do spraw transportu zgodnie z planem finansowym Funduszu, którym mowa art. 9a, przez Skarb których mowa art. 10 ust. 1;
+### 1)
 
-- **2)** województw, zgodnie z ustaleniami planu finansowego Funduszu, którym mowa art. 9a;
-- **3)** PKP SA, zgodnie z ustaleniami planu finansowego Funduszu, którym mowa art. 9a.
+wykaz zadań w zakresie remontów i utrzymania infrastruktury kolejowej, ze wskazaniem przewidywanej wysokości finansowania ze środków Funduszu oraz pozostałych źródeł finansowania tych zadań;
 
-**Art. 11a.**
+### 2)
 
-1. Minister właściwy do spraw transportu informuje pisemnie województwa tym, jakiej wysokości środki Funduszu przeznaczy na zadania, których mowa art. 3 ust. 4, 4a i 9, danym roku budżetowym, do dnia 15 marca roku poprzedzającego dany rok budżetowy.
+wykaz poszczególnych kolejowych projektów inwestycyjnych, ze wskazaniem przewidywanej wysokości finansowania ze środków Funduszu oraz pozostałych źródeł finansowania tych projektów;
 
-2. Województwa, na podstawie informacji, której mowa ust. 1, przedkładają corocznie, do dnia 15 kwietnia roku poprzedzającego dany rok budżetowy, ministrowi właściwemu do spraw transportu projekty planów rzeczowo-finansowych wydatkowania środków, których mowa ust. 1. W projekcie planu rzeczowo-finansowego ujmuje się wyłącznie zadania określone przez zarząd województwa drodze uchwały, przedkładanej łącznie z projektem planu.
+### 3)
 
-3. Minister właściwy do spraw transportu zgłasza zastrzeżenia, jeżeli środki nie są przeznaczane na zadania, których mowa art. 3 ust. 4, 4a i 9, do dnia 30 kwietnia roku poprzedzającego dany rok budżetowy.
+wykaz zbędnych linii kolejowych przewidywanych do likwidacji, ze wskazaniem przewidywanej wysokości finansowania ze środków Funduszu;
 
-4. Województwa przedkładają ministrowi właściwemu do spraw transportu plany rzeczowo-finansowe uwzględniające zastrzeżenia, których mowa ust. 3, terminie do dnia 15 maja roku poprzedzającego dany rok budżetowy.
+### 4)
 
-5. W przypadku gdy województwo nie uwzględni planie rzeczowo-finansowym zastrzeżeń, których mowa ust. 3, minister właściwy do spraw transportu przyjmuje plan rzeczowo-finansowy z pominięciem wydatków niezgodnych z zadaniami określonymi art. 3 ust. 4, 4a i 9, czym informuje województwo terminie do dnia 30 maja roku poprzedzającego dany rok budżetowy. art. 3 ust. 9.
+wykaz zobowiązań powstałych w wyniku braku pełnego pokrycia przez budżet państwa utraconych w latach 2002-2003 przez przewoźników kolejowych przychodów z tytułu obowiązujących ustawowych ulg taryfowych w krajowych przewozach pasażerskich.
 
-7. Województwa składają ministrowi właściwemu do spraw transportu oraz ministrowi właściwemu do spraw finansów publicznych coroczne sprawozdanie z wydatkowania przyznanych planie finansowym Funduszu, którym mowa art. 9a, środków przeznaczonych na finansowanie lub współfinansowanie zadań zakresie zakupu, modernizacji oraz naprawy pojazdów kolejowych przeznaczonych do przewozów pasażerskich wykonywanych na podstawie umowy świadczenie usług publicznych, terminie do dnia 28 lutego roku następnego.
+### 3.
 
-8. Niezłożenie przez województwo sprawozdania terminie określonym ust. 7 powoduje wstrzymanie wypłaty środków z Funduszu do czasu jego przekazania.
+Program zatwierdza Rada Ministrów.
 
-**Art. 12.** Minister właściwy do spraw transportu zawiera z Bankiem Gospodarstwa Krajowego umowę określającą:
+### 4.
 
-**Art. 13.** (uchylony)
+Zatwierdzony Program ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 14.**
+### Art. 10.
 
-1. Bankowi Gospodarstwa Krajowego przysługuje wynagrodzenie prowizyjne z tytułu prowadzenia Funduszu. Wynagrodzenie finansowane jest ze środków Funduszu.
+Warunki finansowania ze środków Funduszu, zgodnie z ustaleniami Programu w odniesieniu do projektów, o których mowa w art. 9 ust. 2 pkt 1-3, przewidzianych do realizacji przez zarządców infrastruktury - określa się w umowach zawieranych przez zarządców infrastruktury z ministrem właściwym do spraw transportu.
 
-2. Rada Ministrów określi, drodze rozporządzenia, wysokość wynagrodzenia, którym mowa ust. 1, oraz sposób i terminy jego wypłaty, uwzględniając koszty Banku Gospodarstwa Krajowego ponoszone związku z prowadzeniem Funduszu.
+### Art. 11.
 
-**Art. 15.** (pominięty)
+Bank Gospodarstwa Krajowego, na wniosek ministra właściwego do spraw transportu, dokonuje wypłat ze środków Funduszu na rzecz zarządców infrastruktury w wysokości i terminach wynikających z umów, o których mowa w art. 10, oraz na rzecz przewoźników kolejowych zgodnie z ustaleniami Programu dokonanymi na podstawie art. 9 ust. 2 pkt 4.
 
+### Art. 12.
+
+Minister właściwy do spraw transportu zawiera z Bankiem Gospodarstwa Krajowego umowę określającą:
+
+### 1)
+
+szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu;
+
+### 2)
+
+sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokowania wolnych środków Funduszu, o których mowa w art. 8 ust. 1;
+
+### 3)
+
+sposób i terminy zwrotu nadpłaty opłaty paliwowej, o której mowa w art. 37o ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+### Art. 13.
+
+Bank Gospodarstwa Krajowego:
+
+### 1)
+
+wyodrębnia w swoim planie finansowym plan finansowy Funduszu opracowany zgodnie z Programem, w porozumieniu z ministrem właściwym do spraw transportu;
+
+### 2)
+
+sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego tego banku;
+
+### 3)
+
+składa ministrowi właściwemu do spraw transportu, w terminie do końca miesiąca następującego po każdym kwartale, informacje o realizacji planu finansowego Funduszu.
+
+### Art. 14.
+
+### 1.
+
+Bankowi Gospodarstwa Krajowego przysługuje wynagrodzenie prowizyjne z tytułu prowadzenia Funduszu. Wynagrodzenie finansowane jest ze środków Funduszu.
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, wysokość wynagrodzenia, o którym mowa w ust. 1, oraz sposób i terminy jego wypłaty, uwzględniając koszty Banku Gospodarstwa Krajowego ponoszone w związku z prowadzeniem Funduszu.
+
+### Art. 15.
+
+W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2004 r. Nr 256, poz. 2571](https://api.sejm.gov.pl/eli/acts/DU/2004/2571/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html) oraz z [2005 r. Nr 155, poz. 1297](https://api.sejm.gov.pl/eli/acts/DU/2005/1297/text.html) i [Nr 172, poz. 1440](https://api.sejm.gov.pl/eli/acts/DU/2005/1440/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 37i otrzymuje brzmienie:
+
+„
+
+### Art. 37i.
+
+Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego i Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2006 r. Nr 12, poz. 61), z tym że kwota stanowiąca 80% opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, a kwota stanowiąca 20% tej opłaty - przychód Funduszu Kolejowego.
+
+” ;
+
+### 2)
+
+w art. 37o ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W razie powstania nadpłaty w opłacie paliwowej Bank Gospodarstwa Krajowego dokonuje zwrotu tej nadpłaty ze środków należnych Krajowemu Funduszowi Drogowemu i Funduszowi Kolejowemu.
+
+” ;
+
+### 3)
+
+art. 37p otrzymuje brzmienie:
+
+„
+
+### Art. 37p.
+
+### 1.
+
+Dyrektor izby celnej, o którym mowa w art. 37o ust. 1, przekazuje kwoty pobranej opłaty paliwowej na wyodrębniony rachunek w Banku Gospodarstwa Krajowego, w terminie 14 dni od dnia jej pobrania.
+
+### 2.
+
+Bank Gospodarstwa Krajowego przekazuje środki, o których mowa w ust. 1, w terminie 7 dni od dnia wpływu na rachunek w Banku Gospodarstwa Krajowego, w wysokości określonej w art. 37i, na rachunek Krajowego Funduszu Drogowego oraz na rachunek Funduszu Kolejowego, chyba że zachodzi przypadek, o którym mowa w art. 37o ust. 2.
+
+” ;
+
+### 4)
+
+w art. 39b w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+opłaty paliwowej, w wysokości określonej w art. 37i;
+
+” ;
+
+### 5)
+
+w art. 39f ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Ze środków Funduszu dokonuje się spłaty kredytów i pożyczek wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek, a także pokrycia kosztów emisji i wykupu obligacji, o których mowa w art. 39d ust. 1, oraz spłaty zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, o których mowa w art. 39d ust. 2.
+
+” .
+
+### Art. 16.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418, Nr 178, poz. 1479 i Nr 184, poz. 1539. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785 oraz z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538.

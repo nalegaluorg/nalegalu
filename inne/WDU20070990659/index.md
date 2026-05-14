@@ -8,11 +8,9 @@ pos: 659
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy „Śląski Uniwersytet Medyczny w Katowicach”
-
-*USTAWA z dnia 30 marca 2007 r.*
+# Ustawa z dnia 30 marca 2007 r. o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy „Śląski Uniwersytet Medyczny w Katowicach”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2007-03-30 |
 | Data wydania | 2007-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990659) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/659/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/659/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/659) |
 
-**Art. 1.** Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nadaje się nazwę „Śląski Uniwersytet Medyczny w Katowicach”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nadaje się nazwę „Śląski Uniwersytet Medyczny w Katowicach”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

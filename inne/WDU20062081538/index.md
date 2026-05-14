@@ -8,11 +8,9 @@ pos: 1538
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu nowej nazwy Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach
-
-*USTAWA z dnia 18 października 2006 r.*
+# Ustawa z dnia 18 października 2006 r. o nadaniu nowej nazwy Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-11-21 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1538/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/1538/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/1538) |
 
-**Art. 1.** Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach nadaje się nazwę „Politechnika Śląska”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Politechnice Śląskiej im. Wincentego Pstrowskiego w Gliwicach nadaje się nazwę „Politechnika Śląska”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

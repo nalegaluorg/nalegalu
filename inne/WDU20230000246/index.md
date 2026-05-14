@@ -1,0 +1,79 @@
+---
+title: Obwieszczenie Ministra Infrastruktury z dnia 25 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego
+address: WDU20230000246
+eli: DU/2023/246
+publisher: DU
+year: 2023
+pos: 246
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Infrastrukturyz dnia 25 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Infrastruktury w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 246 |
+| ISAP | WDU20230000246 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-01-25 |
+| Data wydania | 2023-02-07 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/246/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/246) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Infrastruktury z dnia 14 kwietnia 2004 r. w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Infrastruktury z dnia 14 kwietnia 2004 r. w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego ([Dz. U. poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2004/1157/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury z dnia 22 października 2021 r. zmieniającym rozporządzenie w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego ([Dz. U. poz. 2026](https://api.sejm.gov.pl/eli/acts/DU/2021/2026/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Infrastruktury z dnia 22 października 2021 r. zmieniającego rozporządzenie w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego ([Dz. U. poz. 2026](https://api.sejm.gov.pl/eli/acts/DU/2021/2026/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Infrastruktury z dnia 14 kwietnia 2004 r. w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego[1) Minister Infrastruktury kieruje działem administracji rządowej - gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937).](#gloss-0:1:)
+
+Na podstawie art. 64 § 6 ustawy z dnia 18 września 2001 r. - Kodeks morski ([Dz. U. z 2018 r. poz. 2175](https://api.sejm.gov.pl/eli/acts/DU/2018/2175/text.html) oraz [z 2022 r. poz. 2642](https://api.sejm.gov.pl/eli/acts/DU/2022/2642/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Za przyjęcie protestu morskiego izby morskie albo sądy rejonowe pobierają opłatę o równowartości 250 jednostek obliczeniowych.
+
+### 2.
+
+Jednostką obliczeniową jest wartość złotowa 1 SDR - Specjalnego Prawa Ciągnienia (SDR), liczona według cen średniego kursu walutowego podanego w tabelach kursowych Narodowego Banku Polskiego.
+
+### § 2[2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 22 października 2021 r. zmieniającego rozporządzenie w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego (Dz. U. poz. 2026), które weszło w życie z dniem 24 listopada 2021 r.](#gloss-0:2:).
+
+Za przyjęcie protestu morskiego polskie urzędy konsularne pobierają opłatę w wysokości określonej w przepisach wydanych na podstawie art. 118 ustawy z dnia 25 czerwca 2015 r. - Prawo konsularne ([Dz. U. z 2023 r. poz. 199](https://api.sejm.gov.pl/eli/acts/DU/2023/199/text.html)).
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[3) Rozporządzenie zostało ogłoszone w dniu 12 maja 2004 r.](#gloss-0:3:).[4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 3 września 1996 r. w sprawie opłat pobieranych za przyjęcie protestu morskiego (Dz. U. poz. 525 oraz z 1998 r. poz. 19), które zgodnie z art. 3 ustawy z dnia 18 września 2001 r. - Przepisy wprowadzające ustawę - Kodeks morski (Dz. U. poz. 1546) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.](#gloss-0:4:)
+
+1) Minister Infrastruktury kieruje działem administracji rządowej - gospodarka morska, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 22 października 2021 r. zmieniającego rozporządzenie w sprawie wysokości opłat pobieranych za przyjęcie protestu morskiego (Dz. U. poz. 2026), które weszło w życie z dniem 24 listopada 2021 r. 3) Rozporządzenie zostało ogłoszone w dniu 12 maja 2004 r. 4) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Transportu i Gospodarki Morskiej z dnia 3 września 1996 r. w sprawie opłat pobieranych za przyjęcie protestu morskiego (Dz. U. poz. 525 oraz z 1998 r. poz. 19), które zgodnie z art. 3 ustawy z dnia 18 września 2001 r. - Przepisy wprowadzające ustawę - Kodeks morski (Dz. U. poz. 1546) utraciło moc z dniem wejścia w życie niniejszego rozporządzenia.

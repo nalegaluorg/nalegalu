@@ -8,11 +8,9 @@ pos: 907
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o wykonywaniu mandatu posła i senatora
-
-*USTAWA z dnia 9 maja 1996 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wykonywaniu mandatu posła i senatora
 
 | Pole | Wartość |
 |---|---|
@@ -24,636 +22,1336 @@ domain: null
 | Data ogłoszenia | 2024-05-23 |
 | Data wydania | 2024-06-19 |
 | Ostatnia zmiana | 2026-04-30 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000907) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/907/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/907/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/907) |
 
-Art. 48–55. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.**
+- [Załącznik - Tekst jednolity ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Immunitet parlamentarny](#chpt_2) [Rozdział 3 - Prawa i obowiązki posłów i senatorów w Sejmie i w Senacie](#chpt_3) [Rozdział 4 - Inne prawa i obowiązki posłów i senatorów](#chpt_4) [Rozdział 5 - Warunki wykonywania mandatu](#chpt_5) [Rozdział 6 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_6)
 
-1. Posłowie i senatorowie wykonują swój mandat kierując się dobrem Narodu.
+- [Załącznik - Oświadczenie o stanie majątkowym (wzór)](#part_3)
 
-2. Posłowie i senatorowie powinni informować wyborców o swojej pracy i działalności organu, do którego zostali wybrani.
+TOC
 
-**Art. 2.**
+## Treść obwieszczenia
 
-1. Przed przystąpieniem do wykonywania mandatu poseł składa na posiedzeniu ślubowanie następującej treści: „Ślubuję uroczyście jako poseł na Sejm Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
+### 1.
 
-2. Przed przystąpieniem do wykonywania mandatu senator składa na posiedzeniu Senatu ślubowanie następującej treści: „Ślubuję uroczyście jako senator Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ([Dz. U. z 2022 r. poz. 1339](https://api.sejm.gov.pl/eli/acts/DU/2022/1339/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel ([Dz. U. poz. 1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2024 r.
 
-3. Odmowa złożenia ślubowania powoduje wygaśnięcie mandatu posła lub senatora.
+### 2.
 
-4. Uchylanie się od złożenia ślubowania w terminie trzech miesięcy od pierwszego posiedzenia lub Senatu jest równoznaczne ze zrzeczeniem się mandatu posła lub senatora.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 84 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel ([Dz. U. poz. 1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)), który stanowi:
 
-5. Sposób złożenia ślubowania oraz tryb rozpatrywania spraw posłów i senatorów, którzy nie złożyli ślubowania w terminie trzech miesięcy od uzyskania mandatu, określają regulaminy i Senatu.
+„
 
-**Art. 3.** Podstawowym prawem i obowiązkiem posła i senatora jest czynne uczestnictwo w pracach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów.
+### Art. 84.
 
-**Art. 4.** Posłom i senatorom zapewnia się warunki niezbędne do skutecznej realizacji ich obowiązków oraz ochronę praw wynikających ze sprawowania mandatu.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 5.** Tryb rozpatrywania spraw posłów lub senatorów niewykonujących obowiązków poselskich lub senatorskich, jak również zasady odpowiedzialności regulaminowej posłów lub senatorów określają regulaminy lub Senatu.
+### 1)
 
-**Art. 5a.** Poseł lub senator w czasie pozbawienia wolności nie wykonuje praw i obowiązków wynikających z niniejszej ustawy.
+art. 3 ust. 1 pkt 7, art. 4 ust. 1 pkt 2 i 3 oraz ust. 2-6, art. 10 ust. 4 pkt 2 i art. 19 ust. 1 pkt 7 lit. b, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 73 ust. 1;
 
-#### Rozdział 2 Immunitet parlamentarny
+### 2)
 
-**Art. 6.**
+art. 23, art. 31 pkt 1 i 3-7, art. 39, art. 48, art. 51, art. 68 i art. 72, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 77 ust. 1;
 
-1. Poseł lub senator nie może być pociągnięty do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania mandatu ani w czasie jego trwania, ani po jego wygaśnięciu, z zastrzeżeniem art. 6a. Za taką działalność poseł lub senator odpowiada tylko przed Sejmem lub Senatem.
+### 3)
 
-2. Działalność, o której mowa w ust. 1, obejmuje zgłaszanie wniosków, wystąpienia lub głosowania na posiedzeniach Sejmu, Senatu lub Zgromadzenia Narodowego oraz ich organów, na posiedzeniach klubów, kół i zespołów poselskich, senackich lub parlamentarnych, a także inną działalność związaną nieodłącznie ze sprawowaniem mandatu.
+art. 24, art. 25, art. 40 pkt 1-4, art. 52 pkt 4 w zakresie art. 113c, i art. 61-67, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 74 ust. 1;
 
-3. Za działalność, o której mowa w ust. 1, poseł lub senator ponosi odpowiedzialność dyscyplinarną lub finansową na zasadach określonych w ustawie oraz w regulaminach lub Senatu.
+### 4)
 
-**Art. 6a.** Poseł lub senator, który, podejmując działania wchodzące w zakres sprawowania mandatu, narusza prawa osób trzecich, może być pociągnięty do odpowiedzialności sądowej tylko za zgodą lub Senatu.
+art. 29, art. 36, art. 42, art. 45, art. 50, art. 52 pkt 4 w zakresie art. 113d, art. 55 i art. 59, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 76 ust. 1;
 
-**Art. 7.**
+### 5)
 
-1. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł lub senator nie może być pociągnięty do odpowiedzialności karnej bez zgody lub Senatu, z zastrzeżeniem art. 8 oraz art. 10b ust. 2.
+art. 32 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 78 ust. 1;
 
-2. Zakaz, o którym mowa w ust. 1, dotyczy czynów popełnionych do dnia wygaśnięcia mandatu, w tym czynów popełnionych przed dniem ogłoszenia wyników wyborów.
+### 6)
 
-3. Przepis ust. 1 nie ma zastosowania w postępowaniu karnym, wszczętym przed dniem ogłoszenia wyników wyborów, wobec osoby, która została wybrana na posła lub senatora.
+art. 39 pkt 4, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 80 ust. 1;
 
-4. Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, który był podstawą wyrażenia zgody przez Sejm lub Senat. Pociągnięcie posła lub senatora do odpowiedzialności za inny czyn wymaga odrębnej zgody lub Senatu.
+### 7)
 
-**Art. 7a.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+art. 37 pkt 1-4 i 6-11, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 75 ust. 1;
 
-**Art. 7b.**
+### 8)
 
-1. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+art. 49 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 81 ust. 1.
 
-2. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+” .
 
-3. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+## Załącznik - Tekst jednolity ustawy z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora
 
-4. Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia posła lub senatora;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie.
+### Art. 1.
 
-5. Przepisy ust. 2–4 stosuje się odpowiednio do wniosku o wyrażenie zgody na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej w sprawach, o których mowa w art. 6a.
+### 1.
 
-**Art. 7c.**
+Posłowie i senatorowie wykonują swój mandat kierując się dobrem Narodu.
 
-1. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej składa się Marszałkowi lub Marszałkowi Senatu.
+### 2.
 
-1a. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek lub Marszałek Senatu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek lub Marszałek Senatu postanawia o pozostawieniu wniosku bez biegu.
+Posłowie i senatorowie powinni informować wyborców o swojej pracy i działalności organu, do którego zostali wybrani.
 
-1b. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek lub Marszałek Senatu kieruje go do organu właściwego do rozpatrzenia wniosku na podstawie regulaminów lub Senatu, zawiadamiając jednocześnie posła lub senatora o treści wniosku.
+### Art. 2.
 
-2. Organ właściwy do rozpatrzenia wniosku, o którym mowa w ust. 1, powiadamia posła lub senatora, którego wniosek dotyczy, o terminie rozpatrzenia wniosku.
+### 1.
 
-3. Na żądanie organu właściwego do rozpatrzenia wniosku, o którym mowa w ust. 1, sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec posła lub senatora, udostępnia akta postępowania.
+Przed przystąpieniem do wykonywania mandatu poseł składa na posiedzeniu Sejmu ślubowanie następującej treści: „ Ślubuję uroczyście jako poseł na Sejm Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej. ” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
 
-4. Poseł lub senator, którego wniosek dotyczy, przedstawia organowi właściwemu do rozpatrzenia wniosku, o którym mowa w ust. 1, wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+### 2.
 
-5. Po rozpatrzeniu sprawy organ właściwy do rozpatrzenia wniosku, o którym mowa w ust. 1, uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+Przed przystąpieniem do wykonywania mandatu senator składa na posiedzeniu Senatu ślubowanie następującej treści: „ Ślubuję uroczyście jako senator Rzeczypospolitej Polskiej rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności Ojczyzny i dobra obywateli, przestrzegać porządku prawnego Rzeczypospolitej Polskiej. ” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”.
 
-6. Sejm lub Senat wyraża zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością głosów ustawowej liczby posłów lub senatorów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej.
+### 3.
 
-7. Przepisy ust. 1–6 oraz art. 10a stosuje się odpowiednio do rozpatrzenia wniosku, o którym mowa w art. 7b ust. 5.
+Odmowa złożenia ślubowania powoduje wygaśnięcie mandatu posła lub senatora.
 
-**Art. 8.**
+### 4.
 
-1. W zawiadomieniu, o którym mowa w art. 7c ust. 1, Marszałek lub Marszałek Senatu wyznacza termin na złożenie przez posła lub senatora oświadczenia o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej.
+Uchylanie się od złożenia ślubowania w terminie trzech miesięcy od pierwszego posiedzenia Sejmu lub Senatu jest równoznaczne ze zrzeczeniem się mandatu posła lub senatora.
 
-2. Jeżeli poseł lub senator złoży oświadczenie, o którym mowa w ust. 1, przepisów art. 7c ust. 2–6 nie stosuje się.
+### 5.
 
-3. Oświadczenie, o którym mowa w ust. 1, poseł lub senator kieruje, w formie pisemnej, do Marszałka lub Marszałka Senatu, który zwraca się do organu właściwego do rozpatrzenia wniosku, o którym mowa w art. 7c ust. 1, o przedstawienie opinii co do formalnej poprawności tego oświadczenia.
+Sposób złożenia ślubowania oraz tryb rozpatrywania spraw posłów i senatorów, którzy nie złożyli ślubowania w terminie trzech miesięcy od uzyskania mandatu, określają regulaminy Sejmu i Senatu.
 
-4. Marszałek lub Marszałek Senatu może zwrócić się do posła lub senatora o uściślenie treści oświadczenia w wyznaczonym terminie. Nieuściślenie treści w tym terminie powoduje pozostawienie oświadczenia bez biegu; w takim przypadku mają zastosowanie przepisy art. 7c ust. 2–6.
+### Art. 3.
 
-5. Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, co do którego poseł lub senator wyraził zgodę w trybie określonym w ust. 1–4. Pociągnięcie do odpowiedzialności za inny czyn wymaga odrębnej zgody, wyrażonej w trybie określonym w ust. 1–4 albo w trybie określonym w art. 7c.
+Podstawowym prawem i obowiązkiem posła i senatora jest czynne uczestnictwo w pracach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów.
 
-6. W przypadku gdy poseł lub senator wyrazi zgodę na pociągnięcie go do odpowiedzialności karnej za część czynów wskazanych we wniosku, w pozostałym zakresie wniosek jest rozpatrywany w trybie określonym w art. 7c.
+### Art. 4.
 
-7. O złożeniu przez posła lub senatora oświadczenia, o którym mowa w ust. 1, Marszałek lub Marszałek Senatu niezwłocznie informuje Sejm lub Senat.
+Posłom i senatorom zapewnia się warunki niezbędne do skutecznej realizacji ich obowiązków oraz ochronę praw wynikających ze sprawowania mandatu.
 
-8. Wycofanie zgody, o której mowa w ust. 1, jest prawnie bezskuteczne.
+### Art. 5.
 
-9. Przepisy ust. 1–8 nie mają zastosowania do spraw, o których mowa w art. 6a.
+Tryb rozpatrywania spraw posłów lub senatorów niewykonujących obowiązków poselskich lub senatorskich, jak również zasady odpowiedzialności regulaminowej posłów lub senatorów określają regulaminy Sejmu lub Senatu.
 
-**Art. 9.**
+### Art. 5a.
 
-1. Prokurator Generalny w terminie 60 dni od dnia ogłoszenia wyników wyborów informuje Marszałka lub Marszałka Senatu o toczących się przeciwko posłom lub senatorom postępowaniach karnych wszczętych przed dniem ogłoszenia wyników wyborów.
+Poseł lub senator w czasie pozbawienia wolności nie wykonuje praw i obowiązków wynikających z niniejszej ustawy.
 
-2. W przypadku uzyskania przez posła lub senatora mandatu w trakcie kadencji lub Senatu przepis ust. 1 stosuje się odpowiednio.
+### Rozdział 2 Immunitet parlamentarny
 
-3. Poseł lub senator, przeciwko któremu toczy się postępowanie karne wszczęte przed dniem wyboru, może wystąpić do lub Senatu z wnioskiem o zażądanie przez Sejm lub Senat zawieszenia postępowania karnego do czasu wygaśnięcia mandatu. Wniosek nie może dotyczyć wykonania kary orzeczonej prawomocnym wyrokiem sądu.
+### Art. 6.
 
-4. Wniosek, o którym mowa w ust. 3, składa się do Marszałka lub Marszałka Senatu.
+### 1.
 
-5. Wniosek, o którym mowa w ust. 3, zawiera w szczególności: dokładne oznaczenie sprawy karnej, ze wskazaniem organu, przed którym toczy się postępowanie, uzasadnienie wniosku oraz podpis wnioskodawcy.
+Poseł lub senator nie może być pociągnięty do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania mandatu ani w czasie jego trwania, ani po jego wygaśnięciu, z zastrzeżeniem art. 6a. Za taką działalność poseł lub senator odpowiada tylko przed Sejmem lub Senatem.
 
-6. Jeżeli wniosek, o którym mowa w ust. 3, nie odpowiada warunkom określonym w ust. 3 i 5, Marszałek lub Marszałek Senatu, po zasięgnięciu opinii Prezydium lub Prezydium Senatu, zwraca go wnioskodawcy w celu uzupełnienia.
+### 2.
 
-7. Jeżeli wniosek, o którym mowa w ust. 3, odpowiada warunkom określonym w ust. 3 i 5, Marszałek lub Marszałek Senatu kieruje ten wniosek do rozpatrzenia przez organ właściwy na podstawie regulaminów lub Senatu.
+Działalność, o której mowa w ust. 1, obejmuje zgłaszanie wniosków, wystąpienia lub głosowania na posiedzeniach Sejmu, Senatu lub Zgromadzenia Narodowego oraz ich organów, na posiedzeniach klubów, kół i zespołów poselskich, senackich lub parlamentarnych, a także inną działalność związaną nieodłącznie ze sprawowaniem mandatu.
 
-8. Do postępowania z wnioskiem, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 7c ust. 2–5.
+### 3.
 
-9. Sejm lub Senat żąda zawieszenia postępowania karnego, o którym mowa w ust. 3, w drodze uchwały podjętej większością 3/5 głosów ustawowej liczby posłów lub senatorów.
+Za działalność, o której mowa w ust. 1, poseł lub senator ponosi odpowiedzialność dyscyplinarną lub finansową na zasadach określonych w ustawie oraz w regulaminach Sejmu lub Senatu.
 
-10. Poseł lub senator może złożyć Marszałkowi lub Marszałkowi Senatu oświadczenie, że nie będzie występował z wnioskiem, o którym mowa w ust. 3. Przepisy ust. 5 i 6 oraz art. 8 ust. 7 stosuje się odpowiednio.
+### Art. 6a.
 
-**Art. 10.**
+Poseł lub senator, który, podejmując działania wchodzące w zakres sprawowania mandatu, narusza prawa osób trzecich, może być pociągnięty do odpowiedzialności sądowej tylko za zgodą Sejmu lub Senatu.
 
-1. Poseł lub senator nie może być zatrzymany lub aresztowany bez zgody lub Senatu, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania.
+### Art. 7.
 
-2. Zakaz zatrzymania, o którym mowa w ust. 1, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej posła lub senatora przez organy stosujące przymus.
+### 1.
 
-3. O zatrzymaniu posła lub senatora, o którym mowa w ust. 1, należy niezwłocznie powiadomić Marszałka lub Marszałka Senatu. Na żądanie Marszałka lub Marszałka Senatu poseł lub senator musi być natychmiast zwolniony.
+Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł lub senator nie może być pociągnięty do odpowiedzialności karnej bez zgody Sejmu lub Senatu, z zastrzeżeniem art. 8 oraz art. 10b ust. 2.
 
-4. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora składa się za pośrednictwem Prokuratora Generalnego.
+### 2.
 
-5. Wniosek, o którym mowa w ust. 4, powinien zawierać:
+Zakaz, o którym mowa w ust. 1, dotyczy czynów popełnionych do dnia wygaśnięcia mandatu, w tym czynów popełnionych przed dniem ogłoszenia wyników wyborów.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia posła lub senatora;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+### 3.
 
-6. Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora przepisy art. 7c ust. 1–5 stosuje się odpowiednio.
+Przepis ust. 1 nie ma zastosowania w postępowaniu karnym, wszczętym przed dniem ogłoszenia wyników wyborów, wobec osoby, która została wybrana na posła lub senatora.
 
-7. Sejm lub Senat wyraża zgodę na zatrzymanie lub aresztowanie posła lub senatora w drodze uchwały podjętej bezwzględną większością głosów ustawowej liczby posłów lub senatorów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie posła lub senatora.
+### 4.
 
-8. Wymóg uzyskania zgody lub Senatu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, który był podstawą wyrażenia zgody przez Sejm lub Senat. Pociągnięcie posła lub senatora do odpowiedzialności za inny czyn wymaga odrębnej zgody Sejmu lub Senatu.
 
-**Art. 10a.**
+### Art. 7a.
 
-1. Marszałek lub Marszałek Senatu przesyła niezwłocznie uchwałę, o której mowa w art. 7c ust. 6, art. 9 ust. 9 i art. 10 ust. 7, albo oświadczenie posła lub senatora, o którym mowa w art. 8 ust. 1, wnioskodawcy.
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
-2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### Art. 7b.
 
-**Art. 10b.**
+### 1.
 
-1. Przepisy ustawy dotyczące odpowiedzialności karnej posłów lub senatorów stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
 
-2. W przypadku popełnienia przez posła lub senatora wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119), przyjęcie przez posła lub senatora mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
+### 2.
 
-**Art. 11.**
+Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
 
-1. W odniesieniu do posłów uzyskujących mandat w trakcie kadencji Sejmu, przepisy niniejszego rozdziału mają odpowiednie zastosowanie od dnia obsadzenia mandatu w trybie określonym w przepisach ustawy z dnia 12 kwietnia 2001 r. – Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. poz. 1360, z 2008 r. poz. 1056, z 2009 r. poz. 999 oraz z 2010 r. poz. 1385) .
+### 3.
 
-2. W odniesieniu do senatorów uzyskujących mandat w wyniku wyborów uzupełniających do Senatu przepisy niniejszego rozdziału stosuje się od dnia ogłoszenia wyników tych wyborów.
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
 
-3. Uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej, uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej za działalność wchodzącą w zakres sprawowania mandatu, która narusza prawa osób trzecich, oraz oświadczenie posła lub senatora o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej są skuteczne także w przypadku, gdy poseł lub senator zostanie wybrany do lub Senatu następnej kadencji.
+### 4.
 
-4. Jeżeli po nadaniu biegu wnioskowi, o którym mowa w art. 7b ust. 1, 2 albo 5 lub w art. 10 ust. 4, a przed podjęciem przez Sejm lub Senat rozstrzygnięcia w tych sprawach, upłynie kadencja Sejmu, postępowanie w danej sprawie toczy się nadal w Sejmie lub w Senacie następnej kadencji, o ile poseł lub senator, którego wniosek dotyczy, został wybrany na tę kadencję.
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
 
-**Art. 12.** Szczegółowy tryb postępowania w sprawach uregulowanych w niniejszym rozdziale określają regulaminy i Senatu.
+### 1)
 
-#### Rozdział 3 Prawa i obowiązki posłów i senatorów w Sejmie i w Senacie
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
 
-**Art. 13.**
+### 2)
 
-1. Posła i senatora obowiązuje obecność oraz czynny udział w posiedzeniach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, do których zostali wybrani.
+imię i nazwisko oraz datę i miejsce urodzenia posła lub senatora;
 
-2. Zasady usprawiedliwiania nieobecności posłów lub senatorów nieuczestniczących w posiedzeniach lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy lub Senatu.
+### 3)
 
-**Art. 14.**
+wskazanie podstawy prawnej wniosku;
 
-1. W wykonywaniu obowiązków poselskich poseł w szczególności ma prawo:
+### 4)
 
-- **1)** wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach i jego organów;
-- **2)** wybierać i być wybieranym do organów Sejmu;
-- **3)** zwracać się do Prezydium o rozpatrzenie określonej sprawy przez Sejm lub komisję sejmową;
-- **4)** zwracać się do komisji sejmowej o rozpatrzenie określonej sprawy;
-- **5)** uczestniczyć w podejmowaniu poselskich inicjatyw ustawodawczych i uchwałodawczych oraz w rozpatrywaniu projektów ustaw i uchwał Sejmu;
-- **6)** uczestniczyć w dyskusji nad sprawami rozpatrywanymi przez Sejm lub komisje sejmowe;
-- **7)** wnosić interpelacje i zapytania poselskie.
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
 
-2. Zasady i tryb korzystania z praw, o których mowa w ust. 1, oraz z innych uprawnień poselskich w Sejmie, a także tryb i formy udzielania odpowiedzi na interpelacje i zapytania poselskie oraz ich rozpatrywania przez Sejm, określa regulamin Sejmu.
+### 5)
 
-**Art. 15.**
+uzasadnienie.
 
-1. W wykonywaniu obowiązków senatorskich senator w szczególności ma prawo:
+### 5.
 
-- **1)** wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach Senatu i jego organów;
-- **2)** wybierać i być wybieranym do organów Senatu;
-- **3)** zwracać się do Prezydium Senatu o rozpatrzenie określonej sprawy przez Senat lub komisję senacką;
-- **4)** zwracać się do komisji senackiej o rozpatrzenie określonej sprawy;
-- **5)** uczestniczyć w podejmowaniu inicjatyw ustawodawczych i uchwałodawczych Senatu;
-- **6)** uczestniczyć w dyskusji nad sprawami rozpatrywanymi przez Senat lub komisje senackie.
+Przepisy ust. 2-4 stosuje się odpowiednio do wniosku o wyrażenie zgody na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej w sprawach, o których mowa w art. 6a.
 
-2. Zasady i tryb korzystania z praw, o których mowa w ust. 1, oraz z innych uprawnień senatorskich w Senacie określa regulamin Senatu.
+### Art. 7c.
 
-**Art. 16.**
+### 1.
 
-1. Posłowie i senatorowie mają prawo uzyskiwać od członków Rady Ministrów oraz przedstawicieli właściwych organów i instytucji państwowych i samorządowych informacje i wyjaśnienia w sprawach wynikających z wykonywania obowiązków poselskich lub senatorskich.
+Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej składa się Marszałkowi Sejmu lub Marszałkowi Senatu.
 
-2. Członkowie Rady Ministrów oraz przedstawiciele właściwych organów i instytucji państwowych i samorządowych, organizacji społecznych, zakładów i przedsiębiorstw państwowych i samorządowych, spółek prawa handlowego z udziałem państwowych lub komunalnych osób prawnych są obowiązani przedstawiać informacje i wyjaśnienia na żądanie stałych i nadzwyczajnych komisji sejmowych i senackich, w sprawach będących przedmiotem ich zakresu działania.
+### 1a.
 
-**Art. 17.**
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu lub Marszałek Senatu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu lub Marszałek Senatu postanawia o pozostawieniu wniosku bez biegu.
 
-1. Na zasadach określonych w regulaminie posłowie mogą tworzyć w Sejmie kluby lub koła poselskie.
+### 1b.
 
-2. Na zasadach określonych w regulaminie Senatu senatorowie mogą tworzyć w Senacie kluby lub koła senackie.
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu lub Marszałek Senatu kieruje go do organu właściwego do rozpatrzenia wniosku na podstawie regulaminów Sejmu lub Senatu, zawiadamiając jednocześnie posła lub senatora o treści wniosku.
 
-3. Posłowie wraz z senatorami mogą tworzyć wspólne kluby lub koła parlamentarne.
+### 2.
 
-4. Nazwa, skrót nazwy i symbol graficzny klubu lub koła, o których mowa w ust. 1–3, korzystają z ochrony prawnej przewidzianej dla dóbr osobistych.
+Organ właściwy do rozpatrzenia wniosku, o którym mowa w ust. 1, powiadamia posła lub senatora, którego wniosek dotyczy, o terminie rozpatrzenia wniosku.
 
-**Art. 18.**
+### 3.
 
-1. Do obsługi swojej działalności parlamentarnej kluby i koła, o których mowa w art. 17, mogą tworzyć biura klubów i kół.
+Na żądanie organu właściwego do rozpatrzenia wniosku, o którym mowa w ust. 1, sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec posła lub senatora, udostępnia akta postępowania.
 
-2. Kluby i koła otrzymują środki finansowe na pokrycie kosztów swojej działalności, w tym na pokrycie kosztów działalności biur klubów i kół, w wysokości i na zasadach określonych wspólnie przez Marszałka i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
+### 4.
 
-3. Przewodniczący klubu lub koła może zatrudniać w biurze pracowników na czas określony, nie dłuższy niż okres działalności klubu lub koła. Działalność klubów, kół i ich biur może być wspierana przez społecznych współpracowników.
+Poseł lub senator, którego wniosek dotyczy, przedstawia organowi właściwemu do rozpatrzenia wniosku, o którym mowa w ust. 1, wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
 
-3a. Przewodniczący klubu lub koła jest obowiązany podać odpowiednio Marszałkowi albo Marszałkowi Senatu następujące dane dotyczące pracowników biura klubu lub koła oraz społecznych współpracowników:
+### 5.
 
-- **1)** imię (imiona) i nazwisko;
-- **2)** datę urodzenia;
-- **3)** miejsce zatrudnienia w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem;
-- **4)** źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem;
-- **5)** informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem.
+Po rozpatrzeniu sprawy organ właściwy do rozpatrzenia wniosku, o którym mowa w ust. 1, uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
 
-3b. Dane, o których mowa w ust. 3a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+### 6.
 
-4. Przewodniczący klubu lub koła, w ramach środków, o których mowa w ust. 2, ustala sposób wynagradzania pracowników biur klubów i kół.
+Sejm lub Senat wyraża zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością głosów ustawowej liczby posłów lub senatorów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej.
 
-5. Pracownikom, o których mowa w ust. 3, zatrudnionym na podstawie umowy o pracę, przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek i Marszałek Senatu.
+### 7.
 
-6. Pracownikom zatrudnionym w biurach klubów i kół na podstawie umowy o pracę przysługuje nagroda za wieloletnią pracę w wysokości:
+Przepisy ust. 1-6 oraz art. 10a stosuje się odpowiednio do rozpatrzenia wniosku, o którym mowa w art. 7b ust. 5.
 
-- **1)** po 20 latach pracy – 75 % wynagrodzenia miesięcznego;
-- **2)** po 25 latach pracy – 100 % wynagrodzenia miesięcznego;
-- **3)** po 30 latach pracy – 150 % wynagrodzenia miesięcznego;
-- **4)** po 35 latach pracy – 200 % wynagrodzenia miesięcznego;
-- **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
-- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
+### Art. 8.
 
-7. Pracownikom biur klubów i kół, zatrudnionym w dniu zakończenia kadencji i Senatu, przysługuje odprawa w związku z zakończeniem kadencji i Senatu:
+### 1.
 
-- **1)** jeżeli pracownik był zatrudniony w biurze co najmniej połowę okresu trwania kadencji – w wysokości jednomiesięcznego wynagrodzenia;
-- **2)** jeżeli pracownik był zatrudniony w biurze krócej niż połowę okresu trwania kadencji – w wysokości odpowiadającej części jednomiesięcznego wynagrodzenia obliczonego za każdy przepracowany miesiąc, proporcjonalnie do przepracowanego okresu.
+W zawiadomieniu, o którym mowa w art. 7c ust. 1, Marszałek Sejmu lub Marszałek Senatu wyznacza termin na złożenie przez posła lub senatora oświadczenia o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej.
 
-8. Tryb obliczania oraz wypłacania nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji i Senatu pracownikom, o których mowa w ust. 3, określają odpowiednio Marszałek i Marszałek Senatu.
+### 2.
 
-9. Środki na cele, o których mowa w ust. 5–7, zapewnia się w budżetach odpowiednio Kancelarii i Kancelarii Senatu.
+Jeżeli poseł lub senator złoży oświadczenie, o którym mowa w ust. 1, przepisów art. 7c ust. 2-6 nie stosuje się.
 
-10. Przewodniczący klubów i kół są obowiązani złożyć odpowiednio w Kancelarii i Kancelarii Senatu w okresach rocznych oraz na zakończenie działalności klubu i koła rozliczenie środków przeznaczonych na pokrycie kosztów działalności klubów i kół, w tym na pokrycie kosztów działalności biur klubów i kół.
+### 3.
 
-11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek i Marszałek Senatu.
+Oświadczenie, o którym mowa w ust. 1, poseł lub senator kieruje, w formie pisemnej, do Marszałka Sejmu lub Marszałka Senatu, który zwraca się do organu właściwego do rozpatrzenia wniosku, o którym mowa w art. 7c ust. 1, o przedstawienie opinii co do formalnej poprawności tego oświadczenia.
 
-**Art. 18a.**
+### 4.
 
-1. Na zasadach określonych w regulaminie posłowie mogą tworzyć zespoły poselskie.
+Marszałek Sejmu lub Marszałek Senatu może zwrócić się do posła lub senatora o uściślenie treści oświadczenia w wyznaczonym terminie. Nieuściślenie treści w tym terminie powoduje pozostawienie oświadczenia bez biegu; w takim przypadku mają zastosowanie przepisy art. 7c ust. 2-6.
 
-2. Na zasadach określonych w regulaminie Senatu senatorowie mogą tworzyć zespoły senackie.
+### 5.
 
-3. Na zasadach określonych w regulaminie posłowie i senatorowie mogą tworzyć zespoły parlamentarne działające w Sejmie.
+Pociągnięcie do odpowiedzialności karnej może nastąpić tylko za czyn wskazany we wniosku, co do którego poseł lub senator wyraził zgodę w trybie określonym w ust. 1-4. Pociągnięcie do odpowiedzialności za inny czyn wymaga odrębnej zgody, wyrażonej w trybie określonym w ust. 1-4 albo w trybie określonym w art. 7c.
 
-4. Na zasadach określonych w regulaminie Senatu senatorowie i posłowie mogą tworzyć zespoły parlamentarne działające w Senacie.
+### 6.
 
-5. Warunki organizacyjno-techniczne funkcjonowania zespołów, o których mowa w ust. 1–4, określają odpowiednio Prezydium albo Prezydium Senatu.
+W przypadku gdy poseł lub senator wyrazi zgodę na pociągnięcie go do odpowiedzialności karnej za część czynów wskazanych we wniosku, w pozostałym zakresie wniosek jest rozpatrywany w trybie określonym w art. 7c.
 
-#### Rozdział 4 Inne prawa i obowiązki posłów i senatorów
+### 7.
 
-**Art. 19.**
+O złożeniu przez posła lub senatora oświadczenia, o którym mowa w ust. 1, Marszałek Sejmu lub Marszałek Senatu niezwłocznie informuje Sejm lub Senat.
 
-1. W wykonywaniu mandatu poseł lub senator ma prawo, jeżeli nie narusza dóbr osobistych innych osób, do uzyskiwania informacji i materiałów, wstępu do pomieszczeń, w których znajdują się te informacje i materiały, oraz wglądu w działalność organów administracji rządowej i samorządu terytorialnego, a także spółek z udziałem Skarbu Państwa oraz zakładów i przedsiębiorstw państwowych i samorządowych, z zachowaniem przepisów o tajemnicy prawnie chronionej.
+### 8.
 
-2. Zasady i tryb udostępniania posłom i senatorom informacji niejawnych określają przepisy o ochronie informacji niejawnych.
+Wycofanie zgody, o której mowa w ust. 1, jest prawnie bezskuteczne.
 
-**Art. 20.**
+### 9.
 
-1. Poseł lub senator ma prawo podjąć – w wykonywaniu swoich obowiązków poselskich lub senatorskich – interwencję w organie administracji rządowej i samorządu terytorialnego, zakładzie lub przedsiębiorstwie państwowym oraz organizacji społecznej, a także w jednostkach gospodarki niepaństwowej dla załatwienia sprawy, którą wnosi we własnym imieniu albo w imieniu wyborcy lub wyborców, jak również zaznajamiać się z tokiem jej rozpatrywania.
+Przepisy ust. 1-8 nie mają zastosowania do spraw, o których mowa w art. 6a.
 
-2. Organy i jednostki, wymienione w ust. 1, wobec których poseł lub senator podjął interwencję, są obowiązane najpóźniej w ciągu czternastu dni powiadomić posła lub senatora o stanie rozpatrywania sprawy i w terminie uzgodnionym z posłem lub senatorem ostatecznie ją załatwić.
+### Art. 9.
 
-3. Kierownicy organów i jednostek, o których mowa w ust. 1, są obowiązani niezwłocznie przyjąć posła lub senatora, który przybył w związku ze sprawą wynikającą z wykonywania jego mandatu, oraz udzielić informacji i wyjaśnień dotyczących sprawy.
+### 1.
 
-4. Legitymacja poselska lub senatorska upoważnia parlamentarzystę do wstępu na teren jednostek, o których mowa w ust. 1.
+Prokurator Generalny w terminie 60 dni od dnia ogłoszenia wyników wyborów informuje Marszałka Sejmu lub Marszałka Senatu o toczących się przeciwko posłom lub senatorom postępowaniach karnych wszczętych przed dniem ogłoszenia wyników wyborów.
 
-**Art. 21.**
+### 2.
 
-1. Posłowie i senatorowie przyjmują opinie, postulaty, wnioski wyborców oraz ich organizacji i biorą je pod uwagę w swej działalności parlamentarnej.
+W przypadku uzyskania przez posła lub senatora mandatu w trakcie kadencji Sejmu lub Senatu przepis ust. 1 stosuje się odpowiednio.
 
-2. Poseł lub senator nie może być zobowiązany do udzielania informacji o osobie, która przekazała mu określone informacje lub przedstawiła opinię. Przepisu art. 163 Kodeksu postępowania karnego nie stosuje się.
+### 3.
 
-**Art. 22.**
+Poseł lub senator, przeciwko któremu toczy się postępowanie karne wszczęte przed dniem wyboru, może wystąpić do Sejmu lub Senatu z wnioskiem o zażądanie przez Sejm lub Senat zawieszenia postępowania karnego do czasu wygaśnięcia mandatu. Wniosek nie może dotyczyć wykonania kary orzeczonej prawomocnym wyrokiem sądu.
 
-1. Poseł ma prawo uczestniczyć w sesjach sejmików województw, rad powiatów i rad gmin, właściwych dla okręgu wyborczego, z którego został wybrany, lub właściwych ze względu na siedzibę biura posła.
+### 4.
 
-2. Senator ma prawo uczestniczyć w sesjach sejmików województw, rad powiatów i rad gmin, właściwych dla okręgu wyborczego, z którego został wybrany.
+Wniosek, o którym mowa w ust. 3, składa się do Marszałka Sejmu lub Marszałka Senatu.
 
-3. Uczestnicząc w sesjach, o których mowa w ust. 1 i 2, poseł i senator może zgłaszać swoje uwagi i wnioski.
+### 5.
 
-4. Warunki do realizacji praw posła i senatora, o których mowa w ust. 1–3, zapewniają przewodniczący sejmików województw oraz przewodniczący rad powiatów i rad gmin.
+Wniosek, o którym mowa w ust. 3, zawiera w szczególności: dokładne oznaczenie sprawy karnej, ze wskazaniem organu, przed którym toczy się postępowanie, uzasadnienie wniosku oraz podpis wnioskodawcy.
 
-5. (uchylony)
+### 6.
 
-6. W odniesieniu do Rady miasta stołecznego Warszawy i rad dzielnic gmin warszawskich przepisy ust. 1–4 stosuje się odpowiednio.
+Jeżeli wniosek, o którym mowa w ust. 3, nie odpowiada warunkom określonym w ust. 3 i 5, Marszałek Sejmu lub Marszałek Senatu, po zasięgnięciu opinii Prezydium Sejmu lub Prezydium Senatu, zwraca go wnioskodawcy w celu uzupełnienia.
 
-**Art. 23.**
+### 7.
 
-1. Posłowie i senatorowie tworzą biura poselskie, senatorskie lub poselsko-senatorskie w celu obsługi swojej działalności w terenie.
+Jeżeli wniosek, o którym mowa w ust. 3, odpowiada warunkom określonym w ust. 3 i 5, Marszałek Sejmu lub Marszałek Senatu kieruje ten wniosek do rozpatrzenia przez organ właściwy na podstawie regulaminów Sejmu lub Senatu.
 
-2. Poseł i senator mogą realizować swoją działalność terenową w wybranym okręgu lub okręgach wyborczych.
+### 8.
 
-3. Posłowi i senatorowi przysługuje ryczałt na pokrycie kosztów związanych z funkcjonowaniem biur, na zasadach i w wysokości określonych wspólnie przez Marszałka i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
+Do postępowania z wnioskiem, o którym mowa w ust. 3, stosuje się odpowiednio przepisy art. 7c ust. 2-5.
 
-4. Poseł lub senator może zatrudniać pracowników w biurze we własnym imieniu na czas określony, nie dłuższy niż czas sprawowania mandatu. Działalność posła lub senatora może być wspierana przez społecznych współpracowników.
+### 9.
 
-4a. Poseł lub senator jest obowiązany podać odpowiednio Marszałkowi albo Marszałkowi Senatu następujące dane dotyczące pracowników biura oraz społecznych współpracowników:
+Sejm lub Senat żąda zawieszenia postępowania karnego, o którym mowa w ust. 3, w drodze uchwały podjętej większością 3/5 głosów ustawowej liczby posłów lub senatorów.
 
-- **1)** imię (imiona) i nazwisko;
-- **2)** datę urodzenia;
-- **3)** miejsce zatrudnienia w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem;
-- **4)** źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem;
-- **5)** informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem.
+### 10.
 
-4b. Dane, o których mowa w ust. 4a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+Poseł lub senator może złożyć Marszałkowi Sejmu lub Marszałkowi Senatu oświadczenie, że nie będzie występował z wnioskiem, o którym mowa w ust. 3. Przepisy ust. 5 i 6 oraz art. 8 ust. 7 stosuje się odpowiednio.
 
-5. Poseł lub senator, w ramach środków, o których mowa w ust. 3, ustala wynagrodzenie pracowników biur.
+### Art. 10.
 
-6. Pracownikom biur przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek i Marszałek Senatu.
+### 1.
 
-7. Pracownikom, o których mowa w ust. 4, zatrudnionym na podstawie umowy o pracę, przysługuje nagroda za wieloletnią pracę oraz odprawa w związku z zakończeniem kadencji i Senatu na zasadach określonych w art. 18 ust. 6 i 7.
+Poseł lub senator nie może być zatrzymany lub aresztowany bez zgody Sejmu lub Senatu, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania.
 
-8. Tryb obliczania oraz wypłacania pracownikom biur nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji i Senatu określają odpowiednio Marszałek i Marszałek Senatu.
+### 2.
 
-9. Środki na cele, o których mowa w ust. 6 i 7, zapewnia się w budżetach odpowiednio Kancelarii i Kancelarii Senatu.
+Zakaz zatrzymania, o którym mowa w ust. 1, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej posła lub senatora przez organy stosujące przymus.
 
-10. Poseł i senator są obowiązani złożyć odpowiednio w Kancelarii i Kancelarii Senatu w okresach rocznych, w związku z wygaśnięciem mandatu oraz na koniec kadencji, rozliczenie kwot ryczałtów przeznaczonych na prowadzenie biura.
+### 3.
 
-10a. W razie śmierci posła lub senatora oraz w przypadku, o którym mowa w art. 5a, prawa i obowiązki posła i senatora wynikające z funkcjonowania i znoszenia biura przechodzą odpowiednio na Marszałka lub Marszałka Senatu.
+O zatrzymaniu posła lub senatora, o którym mowa w ust. 1, należy niezwłocznie powiadomić Marszałka Sejmu lub Marszałka Senatu. Na żądanie Marszałka Sejmu lub Marszałka Senatu poseł lub senator musi być natychmiast zwolniony.
 
-11. Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek i Marszałek Senatu.
+### 4.
 
-**Art. 24.**
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora składa się za pośrednictwem Prokuratora Generalnego.
 
-1. Organy administracji rządowej i samorządu terytorialnego są obowiązane udzielać posłom i senatorom wszechstronnej pomocy w wykonywaniu ich funkcji.
+### 5.
 
-2. Organy administracji rządowej i samorządu terytorialnego są obowiązane udostępnić posłowi lub senatorowi lokal na czas odbycia doraźnego dyżuru poselskiego lub senatorskiego w miejscowości, w której poseł lub senator nie otworzył biura określonego w art. 23 ust. 1.
+Wniosek, o którym mowa w ust. 4, powinien zawierać:
 
-#### Rozdział 5 Warunki wykonywania mandatu
+### 1)
 
-**Art. 25.**
+oznaczenie wnioskodawcy;
 
-1. Posłom i senatorom w okresie sprawowania mandatu, licząc od pierwszego posiedzenia lub Senatu, przysługuje uposażenie poselskie lub senatorskie, zwane dalej „uposażeniem”, wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
+### 2)
 
-2. Uposażenie odpowiada 80 % wysokości wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat.
+imię i nazwisko oraz datę i miejsce urodzenia posła lub senatora;
 
-3. Posłowi lub senatorowi, który nie korzysta z urlopu bezpłatnego, o którym mowa w art. 29 ust. 1, albo prowadzi działalność gospodarczą samodzielnie lub wspólnie z innymi osobami, albo nie zawiesił prawa do emerytury lub renty, uposażenie, o którym mowa w ust. 1 i 2, nie przysługuje, z zastrzeżeniem ust. 3a.
+### 3)
 
-3a. Posłowi lub senatorowi uprawnionemu do emerytury na podstawie:
+dokładne określenie czynu oraz jego kwalifikację prawną;
 
-- **1)** ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672) lub ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90), który osiągnął wiek emerytalny wynoszący 60 lat dla kobiet i 65 lat dla mężczyzn,
-- **2)** ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z 2024 r. poz. 242) albo ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834), którego emerytura stanowi 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą – uposażenie, o którym mowa w ust. 1 i 2, przysługuje również w razie pobierania emerytury.
+### 4)
 
-4. W uzasadnionych przypadkach Prezydium lub Prezydium Senatu może podjąć decyzję o przyznaniu, na wniosek posła lub senatora, o którym mowa w ust. 3, uposażenia w całości lub w części.
+podstawę prawną zastosowania określonego środka;
 
-5. Zasady obniżania uposażenia posłów i senatorów:
+### 5)
 
-- **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **3)** naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
-- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
 
-6. Szczegółowe zasady wypłacania uposażenia posłom lub senatorom, w tym:
+### 6.
 
-- **1)** obejmującym mandat w trakcie trwania kadencji,
-- **2)** którzy nie złożyli ślubowania na pierwszym posiedzeniu lub Senatu – określa Prezydium i Prezydium Senatu.
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora przepisy art. 7c ust. 1-5 stosuje się odpowiednio.
 
-**Art. 26.**
+### 7.
 
-1. Do uposażenia przysługują dodatki w wysokości:
+Sejm lub Senat wyraża zgodę na zatrzymanie lub aresztowanie posła lub senatora w drodze uchwały podjętej bezwzględną większością głosów ustawowej liczby posłów lub senatorów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie posła lub senatora.
 
-- **1)** 20 % uposażenia – dla pełniących funkcję przewodniczącego komisji;
-- **2)** 15 % uposażenia – dla pełniących funkcję zastępcy przewodniczącego komisji;
-- **3)** 10 % uposażenia – dla pełniących funkcję przewodniczących stałych podkomisji.
+### 8.
 
-2. Prezydium oraz Prezydium Senatu mogą:
+Wymóg uzyskania zgody Sejmu lub Senatu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
-- **1)** określać inne, niż przewidziane w ust. 1, okoliczności uzasadniające wypłacanie dodatków do uposażenia oraz ustalać ich wysokość;
-- **2)** określać komisje poselskie lub senackie, których członkowie otrzymują także inne, niż wymienione w ust. 1, dodatki do uposażenia, oraz ustalać ich wysokość;
-- **3)** określać tryb wypłaty dodatków.
+### Art. 10a.
 
-3. W razie zbiegu uprawnień do dwóch lub więcej dodatków, wypłaca się je miesięcznie w łącznej wysokości nieprzekraczającej 35 % uposażenia.
+### 1.
 
-**Art. 27.** Uposażenie oraz dodatki, o których mowa w art. 26, są traktowane jako wynagrodzenie ze stosunku pracy.
+Marszałek Sejmu lub Marszałek Senatu przesyła niezwłocznie uchwałę, o której mowa w art. 7c ust. 6, art. 9 ust. 9 i art. 10 ust. 7, albo oświadczenie posła lub senatora, o którym mowa w art. 8 ust. 1, wnioskodawcy.
 
-**Art. 28.**
+### 2.
 
-1. Okres pobierania uposażenia jest traktowany jak okres zatrudnienia. Okres ten zalicza się również do stażu pracy, od którego zależą wszelkie uprawnienia pracownicze, w tym także uprawnienia szczególne, uzależnione od zatrudnienia w określonym zawodzie, branży lub zakładzie pracy.
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-2. Posłowi lub senatorowi, który uległ wypadkowi przy wykonywaniu mandatu, przysługują świadczenia na zasadach i w wysokości określonych przepisami o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych.
+### Art. 10b.
 
-2a. Świadczenia, o których mowa w ust. 2, dla posła lub senatora niepobierającego uposażenia są finansowane z budżetu państwa.
+### 1.
 
-3. (uchylony)
+Przepisy ustawy dotyczące odpowiedzialności karnej posłów lub senatorów stosuje się odpowiednio do odpowiedzialności za wykroczenia.
 
-4. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka i Marszałka Senatu, określa, w drodze rozporządzenia:
+### 2.
 
-- **1)** wzór dokumentu potwierdzającego okres i wysokość pobieranego uposażenia, dodatków do uposażenia i składek od tych świadczeń;
-- **2)** skład zespołu powypadkowego badającego okoliczności i przyczyny wypadku przy sprawowaniu mandatu oraz zakres zadań Kancelarii i Kancelarii Senatu w stosunku do poszkodowanych w tych wypadkach posłów i senatorów, uwzględniając w szczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych z tytułu wypadku.
+W przypadku popełnienia przez posła lub senatora wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. z 2023 r. poz. 2119](https://api.sejm.gov.pl/eli/acts/DU/2023/2119/text.html)), przyjęcie przez posła lub senatora mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2022 r. poz. 1124](https://api.sejm.gov.pl/eli/acts/DU/2022/1124/text.html) oraz [z 2023 r. poz. 1963](https://api.sejm.gov.pl/eli/acts/DU/2023/1963/text.html)), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
 
-**Art. 29.**
+### Art. 11.
 
-1. Poseł lub senator pozostający w stosunku pracy z pracodawcami innymi, niż wymienieni w art. 30 ust. 1 i 1a, otrzymuje urlop bezpłatny, na swój wniosek, na okres sprawowania mandatu oraz trzech miesięcy po jego wygaśnięciu – bez względu na rodzaj i okres trwania stosunku pracy. Stosunek pracy zawarty na czas określony, który ustałby przed terminem zakończenia urlopu bezpłatnego, przedłuża się do trzech miesięcy po zakończeniu tego urlopu.
+### 1.
 
-2. Pracodawca zatrudniający posła lub senatora, który nie skorzystał z prawa do urlopu bezpłatnego, jest obowiązany udzielić posłowi lub senatorowi zwolnienia od pracy w celu wykonywania obowiązków poselskich i senatorskich.
+W odniesieniu do posłów uzyskujących mandat w trakcie kadencji Sejmu, przepisy niniejszego rozdziału mają odpowiednie zastosowanie od dnia obsadzenia mandatu w trybie określonym w przepisach ustawy z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([Dz. U. z 2007 r. poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2007/1360/text.html), [z 2008 r. poz. 1056](https://api.sejm.gov.pl/eli/acts/DU/2008/1056/text.html), [z 2009 r. poz. 999](https://api.sejm.gov.pl/eli/acts/DU/2009/999/text.html) oraz [z 2010 r. poz. 1385](https://api.sejm.gov.pl/eli/acts/DU/2010/1385/text.html))[1) Ustawa utraciła moc z dniem 1 sierpnia 2011 r. na podstawie art. 10 pkt 3 ustawy z dnia 5 stycznia 2011 r. - Przepisy wprowadzające ustawę - Kodeks wyborczy (Dz. U. poz. 113), która weszła w życie z dniem 1 sierpnia 2011 r.](#gloss-0:1:).
 
-**Art. 30.**
+### 2.
 
-1. W okresie wykonywania mandatu posłowie i senatorowie nie mogą wykonywać pracy na podstawie stosunku pracy: w Kancelarii Sejmu, w Kancelarii Senatu, w Kancelarii Prezydenta Rzeczypospolitej Polskiej, w Kancelarii Trybunału Konstytucyjnego, w Biurze Służby Prawnej Trybunału Konstytucyjnego, w Najwyższej Izbie Kontroli, w Biurze Rzecznika Praw Obywatelskich, w Biurze Rzecznika Praw Dziecka, w Biurze Krajowej Rady Radiofonii i Telewizji, w Krajowym Biurze Wyborczym, w Państwowej Inspekcji Pracy, w administracji rządowej i samorządu terytorialnego – z wyjątkiem stosunku pracy z wyboru – oraz nie mogą wykonywać pracy w charakterze sędziego, asesora sądowego i prokuratora, pracownika administracyjnego sądu i prokuratury, a także nie mogą pełnić zawodowej służby wojskowej.
+W odniesieniu do senatorów uzyskujących mandat w wyniku wyborów uzupełniających do Senatu przepisy niniejszego rozdziału stosuje się od dnia ogłoszenia wyników tych wyborów.
 
-1a. W okresie wykonywania mandatu posłowie i senatorowie nie mogą być również zatrudnieni lub wykonywać innych zajęć w spółkach prawa handlowego, w których Skarb Państwa lub jednostka samorządu terytorialnego posiadają bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów.
+### 3.
 
-2. Przepis art. 29 ust. 1 stosuje się odpowiednio, z tym że urlop jest udzielany z urzędu.
+Uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do odpowiedzialności karnej, uchwała wyrażająca zgodę na pociągnięcie posła lub senatora do cywilnej odpowiedzialności sądowej za działalność wchodzącą w zakres sprawowania mandatu, która narusza prawa osób trzecich, oraz oświadczenie posła lub senatora o wyrażeniu zgody na pociągnięcie do odpowiedzialności karnej są skuteczne także w przypadku, gdy poseł lub senator zostanie wybrany do Sejmu lub Senatu następnej kadencji.
 
-3. W przypadku gdy w okresie wykonywania mandatu posła lub senatora Skarb Państwa lub jednostka samorządu terytorialnego nabędzie bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów w spółce, w której ten poseł lub senator wykonuje pracę na podstawie stosunku pracy, otrzymuje on urlop bezpłatny na okres wykonywania mandatu oraz trzech miesięcy po jego zakończeniu, licząc od dnia, w którym Skarb Państwa lub jednostka samorządu terytorialnego nabyła bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów w tej spółce.
+### 4.
 
-4. Urlop bezpłatny udzielony w przypadkach, o których mowa w ust. 1a i 3, ulega skróceniu do trzech miesięcy, licząc od dnia, w którym Skarb Państwa lub jednostka samorządu terytorialnego przestaną posiadać w spółce prawa handlowego bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów.
+Jeżeli po nadaniu biegu wnioskowi, o którym mowa w art. 7b ust. 1, 2 albo 5 lub w art. 10 ust. 4, a przed podjęciem przez Sejm lub Senat rozstrzygnięcia w tych sprawach, upłynie kadencja Sejmu, postępowanie w danej sprawie toczy się nadal w Sejmie lub w Senacie następnej kadencji, o ile poseł lub senator, którego wniosek dotyczy, został wybrany na tę kadencję.
 
-**Art. 31.**
+### Art. 12.
 
-1. Pracodawca, u którego poseł lub senator otrzymał urlop bezpłatny, jest obowiązany zatrudnić go po zakończeniu urlopu bezpłatnego lub – w razie jego gotowości do pracy – po wygaśnięciu mandatu, na tym samym lub równorzędnym pod względem płacowym stanowisku pracy, z wynagrodzeniem, jakie otrzymywałby poseł lub senator, gdyby nie skorzystał z urlopu bezpłatnego.
+Szczegółowy tryb postępowania w sprawach uregulowanych w niniejszym rozdziale określają regulaminy Sejmu i Senatu.
 
-2. Rozwiązanie przez pracodawcę stosunku pracy z posłem lub senatorem, o którym mowa w ust. 1, z wyjątkiem stosunku pracy z wyboru, oraz zmiana warunków jego pracy lub płacy w ciągu dwóch lat po wygaśnięciu mandatu może nastąpić tylko za zgodą Prezydium lub Prezydium Senatu.
+### Rozdział 3 Prawa i obowiązki posłów i senatorów w Sejmie i w Senacie
 
-3. Stosunek pracy z nauczycielem lub nauczycielem akademickim nie może wygasnąć wcześniej niż z końcem roku szkolnego lub akademickiego, następującym po upływie okresu, o którym mowa w art. 29 ust. 1.
+### Art. 13.
 
-**Art. 32.**
+### 1.
 
-1. Do posła i senatora zajmującego jednocześnie kierownicze stanowisko państwowe nie stosuje się przepisów art. 25–27, art. 28 ust. 1 i art. 29–31.
+Posła i senatora obowiązuje obecność oraz czynny udział w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, do których zostali wybrani.
 
-2. Przez kierownicze stanowiska państwowe rozumie się stanowiska wymienione w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
+### 2.
 
-**Art. 33.**
+Zasady usprawiedliwiania nieobecności posłów lub senatorów nieuczestniczących w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy Sejmu lub Senatu.
 
-1. Poseł lub senator jest obowiązany powiadomić odpowiednio Marszałka lub Marszałka Senatu o zamiarze podjęcia dodatkowych zajęć, z wyjątkiem działalności podlegającej prawu autorskiemu i prawom pokrewnym.
+### Art. 14.
 
-2. Posłowie i senatorowie nie mogą podejmować dodatkowych zajęć ani otrzymywać darowizn, mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 1 ust. 1.
+### 1.
 
-3. Posłowie i senatorowie nie mogą powoływać się na swój mandat ani posługiwać tytułem posła lub senatora w związku z podjętymi dodatkowymi zajęciami bądź działalnością gospodarczą prowadzoną na własny rachunek lub wspólnie z innymi osobami.
+W wykonywaniu obowiązków poselskich poseł w szczególności ma prawo:
 
-4. Naruszenie przez posła lub senatora przepisu ust. 1, 2 lub 3 powoduje odpowiedzialność regulaminową.
+### 1)
 
-**Art. 34.**
+wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach Sejmu i jego organów;
 
-1. Posłowie i senatorowie nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia państwowego lub komunalnego, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności.
+### 2)
 
-2. Posłowie i senatorowie nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami handlowymi przedsiębiorców z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Wybór lub powołanie posła lub senatora do tych władz jest z mocy prawa nieważny.
+wybierać i być wybieranym do organów Sejmu;
 
-3. Jeżeli wybór lub powołanie, o którym mowa w ust. 2, miało miejsce przed rozpoczęciem wykonywania mandatu, poseł i senator jest obowiązany zrzec się stanowiska lub funkcji. W razie niezrzeczenia się stanowiska lub funkcji, poseł i senator traci je z mocy prawa po upływie trzech miesięcy od dnia złożenia ślubowania, o którym mowa w art. 2.
+### 3)
 
-4. Posłowie i senatorowie nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez posła lub senatora przed pierwszym posiedzeniem lub Senatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwu lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
+zwracać się do Prezydium Sejmu o rozpatrzenie określonej sprawy przez Sejm lub komisję sejmową;
 
-5. Naruszenie przez posła lub senatora przepisów ust. 1–3 powoduje odpowiedzialność regulaminową.
+### 4)
 
-**Art. 35.**
+zwracać się do komisji sejmowej o rozpatrzenie określonej sprawy;
 
-1. Posłowie i senatorowie są obowiązani do złożenia oświadczenia o swoim stanie majątkowym. Oświadczenie o stanie majątkowym dotyczy majątku odrębnego oraz objętego małżeńską wspólnością majątkową. Oświadczenie to zawiera w szczególności informacje o:
+### 5)
 
-- **1)** zasobach pieniężnych, nieruchomościach, uczestnictwie w spółkach cywilnych lub w osobowych spółkach handlowych, udziałach i akcjach w spółkach handlowych, o nabytym od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub komunalnej osoby prawnej, mieniu, które podlegało zbyciu w drodze przetargu, a także o prowadzonej działalności gospodarczej i stanowiskach zajmowanych w spółkach handlowych;
-- **2)** dochodach osiąganych z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu;
-- **3)** mieniu ruchomym o wartości powyżej 10 000 złotych;
-- **4)** zobowiązaniach pieniężnych o wartości powyżej 10 000 złotych, w tym zaciągniętych kredytach i pożyczkach oraz warunkach, na jakich zostały udzielone.
+uczestniczyć w podejmowaniu poselskich inicjatyw ustawodawczych i uchwałodawczych oraz w rozpatrywaniu projektów ustaw i uchwał Sejmu;
 
-2. Wzór oświadczenia o stanie majątkowym stanowi załącznik do ustawy.
+### 6)
 
-3. Oświadczenie o stanie majątkowym składa się w dwóch egzemplarzach odpowiednio Marszałkowi albo Marszałkowi Senatu w następujących terminach:
+uczestniczyć w dyskusji nad sprawami rozpatrywanymi przez Sejm lub komisje sejmowe;
 
-- **1)** do dnia złożenia ślubowania, wraz z informacją o sposobie i terminach zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem majątku Skarbu Państwa lub samorządu terytorialnego w związku z wyborem na posła albo senatora oraz z informacją o posiadaniu majątku Skarbu Państwa lub samorządu terytorialnego;
-- **2)** do dnia 30 kwietnia każdego roku, według stanu na dzień 31 grudnia roku poprzedniego, dołączając kopię rocznego zeznania podatkowego (PIT);
-- **3)** w terminie miesiąca od dnia zarządzenia nowych wyborów do i Senatu.
+### 7)
 
-4. Jeden egzemplarz oświadczenia o stanie majątkowym Marszałek albo Marszałek Senatu przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania posła lub senatora.
+wnosić interpelacje i zapytania poselskie.
 
-5. Informacje zawarte w oświadczeniu o stanie majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania posła albo senatora oraz o miejscu położenia nieruchomości. Jawne informacje zawarte w oświadczeniu o stanie majątkowym są podawane do wiadomości publicznej odpowiednio przez Marszałka albo Marszałka Senatu w formie zapisu elektronicznego.
+### 2.
 
-6. Analizy danych zawartych w oświadczeniach o stanie majątkowym dokonują właściwe komisje powołane odpowiednio przez Sejm albo Senat w trybie określonym w regulaminach odpowiednio albo Senatu oraz właściwe urzędy skarbowe. Podmiot dokonujący analizy danych zawartych w oświadczeniu jest uprawniony do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy przedstawia się odpowiednio Prezydium albo Prezydium Senatu.
+Zasady i tryb korzystania z praw, o których mowa w ust. 1, oraz z innych uprawnień poselskich w Sejmie, a także tryb i formy udzielania odpowiedzi na interpelacje i zapytania poselskie oraz ich rozpatrywania przez Sejm, określa regulamin Sejmu.
 
-6a. Kontroli rzetelności i prawdziwości oświadczeń o stanie majątkowym, o których mowa w ust. 1, dokonuje Centralne Biuro Antykorupcyjne w trybie i na zasadach określonych w rozdz. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184).
+### Art. 15.
 
-7. Oświadczenie o stanie majątkowym przechowuje się przez 6 lat.
+### 1.
 
-8. Niezłożenie oświadczenia o stanie majątkowym powoduje odpowiedzialność regulaminową oraz utratę, do czasu złożenia oświadczenia, prawa do uposażenia.
+W wykonywaniu obowiązków senatorskich senator w szczególności ma prawo:
 
-9. Podanie nieprawdy lub zatajenie prawdy w oświadczeniu o stanie majątkowym powoduje odpowiedzialność na podstawie art. 233 § 1 Kodeksu karnego.
+### 1)
 
-**Art. 35a.**
+wyrażać swoje stanowisko oraz zgłaszać wnioski w sprawach rozpatrywanych na posiedzeniach Senatu i jego organów;
 
-1. Tworzy się Rejestr Korzyści, zwany dalej „Rejestrem”.
+### 2)
 
-2. W Rejestrze ujawniane są korzyści uzyskiwane przez posłów, senatorów lub ich małżonków.
+wybierać i być wybieranym do organów Senatu;
 
-3. Do Rejestru należy zgłaszać informacje o:
+### 3)
 
-- **1)** wszystkich stanowiskach i zajęciach wykonywanych zarówno w administracji publicznej, jak i w instytucjach prywatnych, z tytułu których pobiera się wynagrodzenie, oraz pracy zawodowej wykonywanej na własny rachunek;
-- **2)** faktach materialnego wspierania działalności publicznej prowadzonej przez zgłaszającego;
-- **3)** darowiźnie otrzymanej od podmiotów krajowych lub zagranicznych, jeżeli jej wartość przekracza 50 % najniższego wynagrodzenia pracowników za pracę , obowiązującego w grudniu roku poprzedzającego, określonego przez Ministra Pracy i Polityki Socjalnej na podstawie Kodeksu pracy;
-- **4)** wyjazdach krajowych lub zagranicznych niezwiązanych z pełnioną funkcją publiczną, jeżeli ich koszt nie został pokryty przez zgłaszającego lub jego małżonka albo instytucje ich zatrudniające bądź partie polityczne, zrzeszenia lub fundacje, których są członkami;
-- **5)** innych uzyskanych korzyściach, o wartościach większych niż wskazane w pkt 3, niezwiązanych z zajmowaniem stanowisk lub wykonywaniem zajęć albo pracy zawodowej, o których mowa w pkt 1.
+zwracać się do Prezydium Senatu o rozpatrzenie określonej sprawy przez Senat lub komisję senacką;
 
-4. Do Rejestru należy także zgłaszać informacje o udziale w organach fundacji, spółek prawa handlowego lub spółdzielni, nawet wówczas, gdy z tego tytułu nie pobiera się żadnych świadczeń pieniężnych.
+### 4)
 
-5. Przy podawaniu informacji poseł i senator są obowiązani zachować największą staranność i kierować się swoją najlepszą wiedzą.
+zwracać się do komisji senackiej o rozpatrzenie określonej sprawy;
 
-6. Wszystkie zmiany danych objętych Rejestrem należy zgłosić nie później niż w ciągu 30 dni od dnia ich zaistnienia.
+### 5)
 
-7. Rejestr jest jawny. Rejestr dla posłów prowadzi Marszałek Sejmu, a dla senatorów Marszałek Senatu.
+uczestniczyć w podejmowaniu inicjatyw ustawodawczych i uchwałodawczych Senatu;
 
-8. Prowadzący Rejestr raz w roku, w odrębnej publikacji, podaje do publicznej wiadomości zawarte w nim dane.
+### 6)
 
-9. Ujawnienie informacji w Rejestrze nie zwalnia od odpowiedzialności przewidzianej w ustawie za niedopełnienie określonych w niej obowiązków.
+uczestniczyć w dyskusji nad sprawami rozpatrywanymi przez Senat lub komisje senackie.
 
-**Art. 36.** Posłom i senatorom oraz członkom ich rodzin przysługują świadczenia zdrowotne na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
+### 2.
 
-**Art. 37.** (uchylony)
+Zasady i tryb korzystania z praw, o których mowa w ust. 1, oraz z innych uprawnień senatorskich w Senacie określa regulamin Senatu.
 
-**Art. 38.**
+### Art. 16.
 
-1. Posłowi i senatorowi, który w trakcie sprawowania mandatu lub w ciągu dwunastu miesięcy po jego wygaśnięciu albo dwóch lat od zakończenia korzystania z urlopu bezpłatnego, o którym mowa w art. 29 i art. 30, przechodzi na emeryturę albo rentę, przysługuje jednorazowa odprawa w wysokości trzech uposażeń – przy przejściu na emeryturę oraz jednego uposażenia – przy przejściu na rentę.
+### 1.
 
-2. W razie zbiegu uprawnień, z różnych tytułów, do jednorazowej odprawy w związku z przejściem na emeryturę lub rentę, przysługuje odprawa wybrana przez uprawnionego.
+Posłowie i senatorowie mają prawo uzyskiwać od członków Rady Ministrów oraz przedstawicieli właściwych organów i instytucji państwowych i samorządowych informacje i wyjaśnienia w sprawach wynikających z wykonywania obowiązków poselskich lub senatorskich.
 
-**Art. 39.**
+### 2.
 
-1. Posłowi i senatorowi w związku z zakończeniem kadencji przysługuje odprawa parlamentarna w wysokości trzech uposażeń. Odprawa nie przysługuje, jeżeli poseł lub senator został wybrany na następną kadencję.
+Członkowie Rady Ministrów oraz przedstawiciele właściwych organów i instytucji państwowych i samorządowych, organizacji społecznych, zakładów i przedsiębiorstw państwowych i samorządowych, spółek prawa handlowego z udziałem państwowych lub komunalnych osób prawnych są obowiązani przedstawiać informacje i wyjaśnienia na żądanie stałych i nadzwyczajnych komisji sejmowych i senackich, w sprawach będących przedmiotem ich zakresu działania.
 
-2. W razie śmierci posła lub senatora w czasie wykonywania mandatu lub w ciągu trzech miesięcy po jego wygaśnięciu, przysługuje odprawa pośmiertna na zasadach i w wysokości określonych dla pracowników w Kodeksie pracy.
+### Art. 17.
 
-**Art. 40.** W razie zbiegu uprawnień do odprawy określonej w art. 38 ust. 1 oraz art. 39 ust. 1 przysługuje odprawa wybrana przez uprawnionego.
+### 1.
 
-**Art. 41.**
+Na zasadach określonych w regulaminie Sejmu posłowie mogą tworzyć w Sejmie kluby, koła lub zespoły poselskie.
 
-1. Posłowie i senatorowie oraz członkowie ich rodzin są uprawnieni do korzystania z funduszu świadczeń socjalnych, utworzonego na zasadach określonych w przepisach o zakładowym funduszu świadczeń socjalnych.
+### 2.
 
-2. Byli posłowie i senatorowie oraz członkowie ich rodzin korzystają z funduszu świadczeń socjalnych na zasadach określonych w przepisach o zakładowym funduszu świadczeń socjalnych.
+Na zasadach określonych w regulaminie Senatu senatorowie mogą tworzyć w Senacie kluby, koła lub zespoły senackie.
 
-3. Zasady przeznaczania środków z funduszu, o którym mowa w ust. 1, na poszczególne cele i rodzaje działalności socjalnej oraz zasady i warunki korzystania z usług i świadczeń finansowanych z tego funduszu określają odpowiednio Marszałek i Marszałek Senatu.
+### 3.
 
-**Art. 42.**
+Posłowie wraz z senatorami mogą tworzyć wspólne kluby, koła lub zespoły parlamentarne.
 
-1. Posłowi i senatorowi przysługują środki finansowe na pokrycie kosztów związanych z wydatkami poniesionymi w związku z wykonywaniem mandatu na terenie kraju, w zryczałtowanej wysokości 25 % wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat (dieta parlamentarna).
+### 4.
 
-2. Dieta parlamentarna jest wolna od podatku dochodowego od osób fizycznych w granicach określonych w odrębnych przepisach dla diet otrzymywanych z tytułu pełnienia obowiązków obywatelskich i nie może być zajęta w drodze egzekucji.
+Nazwa, skrót nazwy i symbol graficzny klubu lub koła, o których mowa w ust. 1-3, korzystają z ochrony prawnej przewidzianej dla dóbr osobistych.
 
-3. (uchylony)
+### Art. 18.
 
-4. Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów:
+### 1.
 
-- **1)** uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **2)** nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
-- **3)** naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
-- **4)** naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii lub Kancelarii Senatu – określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+Do obsługi swojej działalności parlamentarnej kluby i koła, o których mowa w art. 17, mogą tworzyć biura klubów i kół.
 
-5. Szczegółowe zasady i tryb wypłaty diet parlamentarnych oraz należności posłów i senatorów delegowanych przez Sejm i Senat poza granice kraju określają wspólnie Prezydium i Prezydium Senatu.
+### 2.
 
-**Art. 43.**
+Kluby i koła otrzymują środki finansowe na pokrycie kosztów swojej działalności, w tym na pokrycie kosztów działalności biur klubów i kół, w wysokości i na zasadach określonych wspólnie przez Marszałka Sejmu i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
 
-1. Poseł i senator ma prawo, na terenie kraju, do bezpłatnego przejazdu środkami publicznego transportu zbiorowego oraz przelotów w krajowym przewozie lotniczym, a także do bezpłatnych przejazdów środkami publicznej komunikacji miejskiej.
+### 3.
 
-2. Minister właściwy do spraw transportu, po zasięgnięciu opinii Prezydium i Prezydium Senatu, określa, w drodze rozporządzenia, tryb korzystania z uprawnień, o których mowa w ust. 1, z wyłączeniem przejazdów publicznymi środkami komunikacji miejskiej.
+Przewodniczący klubu lub koła może zatrudniać w biurze pracowników na czas określony, nie dłuższy niż okres działalności klubu lub koła. Działalność klubów, kół i ich biur może być wspierana przez społecznych współpracowników.
 
-**Art. 44.**
+### 3a.
 
-1. Posłowie i senatorowie otrzymują bezpłatnie druki sejmowe lub senackie.
+Przewodniczący klubu lub koła jest obowiązany podać odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu następujące dane dotyczące pracowników biura klubu lub koła oraz społecznych współpracowników:
 
-2. Posłowie i senatorowie otrzymują koperty z papierem listowym, oznaczone odpowiednim nadrukiem, do prowadzenia korespondencji związanej z wykonywaniem mandatu bez uiszczania przez nich opłat pocztowych.
+### 1)
 
-3. Szczegółowe zasady realizacji uprawnień, o których mowa w ust. 1 i 2, określają Prezydium i Prezydium Senatu.
+imię (imiona) i nazwisko;
 
-**Art. 45.**
+### 2)
 
-1. Posłowi wydaje się legitymację poselską, a senatorowi legitymację senatorską. la. Legitymację poselską i legitymację senatorską wydaje się w postaci karty wykonanej z tworzywa sztucznego.
+datę urodzenia;
 
-1b. Legitymacja poselska i legitymacja senatorska mogą być dodatkowo udostępniane w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
+### 3)
 
-2. Posłom i senatorom wydaje się karty do głosowania.
+miejsce zatrudnienia w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem;
 
-3. Wzór legitymacji i karty do głosowania, a także tryb postępowania oraz warunki wydawania ich duplikatów w razie zniszczenia lub zagubienia określają odpowiednio Marszałek i Marszałek Senatu.
+### 4)
 
-**Art. 46.**
+źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem;
 
-1. Prezydium i Prezydium Senatu udzielają posłom i senatorom pomocy w wykonywaniu przez nich mandatów, czuwają nad wykonywaniem przez nich obowiązków parlamentarnych, jak również nad wykonywaniem wobec nich obowiązków określonych w ustawie przez organy państwowe i samorządu terytorialnego oraz podporządkowane im jednostki.
+### 5)
 
-2. Kancelaria i Kancelaria Senatu, każda według swej właściwości, zapewniają i organizują obsługę posłów i senatorów niezbędną do wykonywania przez nich obowiązków oraz pomoc merytoryczną, zwłaszcza w zakresie dostępu do opracowań specjalistycznych, literatury i ekspertyz.
+informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura klubu lub koła albo społecznym współpracownikiem.
 
-3. Zadania Prezydium i Prezydium Senatu, o których mowa w ust. 1, określają szczegółowo regulaminy i Senatu, a zadania Kancelarii i Kancelarii Senatu, o których mowa w ust. 2, określają szczegółowo regulaminy i Senatu oraz uchwały Prezydium i Prezydium Senatu.
+### 3b.
 
-**Art. 47.** Wydatki wynikające z uprawnień posłów i senatorów pokrywa się z budżetu państwa, w części dotyczącej odpowiednio Kancelarii lub Kancelarii Senatu.
+Dane, o których mowa w ust. 3a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
 
-**Art. 47a.** Nie podlegają ogłoszeniu przepisy wydane na podstawie art. 18 ust. 2, 5, 8 i 11, art. 23 ust. 3, 6, 8 i 11, art. 25 ust. 6, art. 26 ust. 2, art. 37 ust. 3, art. 41 ust. 3, art. 42 ust. 5, art. 44 ust. 3 i art. 45 ust. 3 w zakresie, w jakim nie dotyczy wzoru legitymacji poselskiej i senatorskiej, i na podstawie art. 46 ust. 3 w zakresie uchwał Prezydium i Prezydium Senatu.
+### 4.
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+Przewodniczący klubu lub koła, w ramach środków, o których mowa w ust. 2, ustala sposób wynagradzania pracowników biur klubów i kół.
 
-**Art. 56.**
+### 5.
 
-1. Traci moc ustawa z dnia 31 lipca 1985 r. o obowiązkach i prawach posłów i senatorów (Dz. U. z 1991 r. poz. 79 oraz z 1996 r. poz. 350), z wyjątkiem jej art. 19 ust. 2 i 3 oraz z zastrzeżeniem ust. 2 niniejszego artykułu.
+Pracownikom, o których mowa w ust. 3, zatrudnionym na podstawie umowy o pracę, przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
 
-2. Do posłów i senatorów kadencji, w czasie której niniejsza ustawa weszła w życie, niekorzystających z urlopów bezpłatnych na okres sprawowania mandatu, stosuje się przepis art. 26 ustawy, o której mowa w ust. 1.
+### 6.
 
-**Art. 57.** Ustawa wchodzi w życie z dniem 1 lipca 1996 r., z wyjątkiem:
+Pracownikom zatrudnionym w biurach klubów i kół na podstawie umowy o pracę przysługuje nagroda za wieloletnią pracę w wysokości:
 
+### 1)
+
+po 20 latach pracy - 75 % wynagrodzenia miesięcznego;
+
+### 2)
+
+po 25 latach pracy - 100 % wynagrodzenia miesięcznego;
+
+### 3)
+
+po 30 latach pracy - 150 % wynagrodzenia miesięcznego;
+
+### 4)
+
+po 35 latach pracy - 200 % wynagrodzenia miesięcznego;
+
+### 5)
+
+po 40 latach pracy - 300 % wynagrodzenia miesięcznego;
+
+### 6)
+
+po 45 latach pracy - 400 % wynagrodzenia miesięcznego.
+
+### 7.
+
+Pracownikom biur klubów i kół, zatrudnionym w dniu zakończenia kadencji Sejmu i Senatu, przysługuje odprawa w związku z zakończeniem kadencji Sejmu i Senatu:
+
+### 1)
+
+jeżeli pracownik był zatrudniony w biurze co najmniej połowę okresu trwania kadencji - w wysokości jednomiesięcznego wynagrodzenia;
+
+### 2)
+
+jeżeli pracownik był zatrudniony w biurze krócej niż połowę okresu trwania kadencji - w wysokości odpowiadającej części jednomiesięcznego wynagrodzenia obliczonego za każdy przepracowany miesiąc, proporcjonalnie do przepracowanego okresu.
+
+### 8.
+
+Tryb obliczania oraz wypłacania nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji Sejmu i Senatu pracownikom, o których mowa w ust. 3, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### 9.
+
+Środki na cele, o których mowa w ust. 5-7, zapewnia się w budżetach odpowiednio Kancelarii Sejmu i Kancelarii Senatu.
+
+### 10.
+
+Przewodniczący klubów i kół są obowiązani złożyć odpowiednio w Kancelarii Sejmu i Kancelarii Senatu w okresach rocznych oraz na zakończenie działalności klubu i koła rozliczenie środków przeznaczonych na pokrycie kosztów działalności klubów i kół, w tym na pokrycie kosztów działalności biur klubów i kół.
+
+### 11.
+
+Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### Rozdział 4 Inne prawa i obowiązki posłów i senatorów
+
+### Art. 19.
+
+### 1.
+
+W wykonywaniu mandatu poseł lub senator ma prawo, jeżeli nie narusza dóbr osobistych innych osób, do uzyskiwania informacji i materiałów, wstępu do pomieszczeń, w których znajdują się te informacje i materiały, oraz wglądu w działalność organów administracji rządowej i samorządu terytorialnego, a także spółek z udziałem Skarbu Państwa oraz zakładów i przedsiębiorstw państwowych i samorządowych, z zachowaniem przepisów o tajemnicy prawnie chronionej.
+
+### 2.
+
+Zasady i tryb udostępniania posłom i senatorom informacji niejawnych określają przepisy o ochronie informacji niejawnych.
+
+### Art. 20.
+
+### 1.
+
+Poseł lub senator ma prawo podjąć - w wykonywaniu swoich obowiązków poselskich lub senatorskich - interwencję w organie administracji rządowej i samorządu terytorialnego, zakładzie lub przedsiębiorstwie państwowym oraz organizacji społecznej, a także w jednostkach gospodarki niepaństwowej dla załatwienia sprawy, którą wnosi we własnym imieniu albo w imieniu wyborcy lub wyborców, jak również zaznajamiać się z tokiem jej rozpatrywania.
+
+### 2.
+
+Organy i jednostki, wymienione w ust. 1, wobec których poseł lub senator podjął interwencję, są obowiązane najpóźniej w ciągu czternastu dni powiadomić posła lub senatora o stanie rozpatrywania sprawy i w terminie uzgodnionym z posłem lub senatorem ostatecznie ją załatwić.
+
+### 3.
+
+Kierownicy organów i jednostek, o których mowa w ust. 1, są obowiązani niezwłocznie przyjąć posła lub senatora, który przybył w związku ze sprawą wynikającą z wykonywania jego mandatu, oraz udzielić informacji i wyjaśnień dotyczących sprawy.
+
+### 4.
+
+Legitymacja poselska lub senatorska upoważnia parlamentarzystę do wstępu na teren jednostek, o których mowa w ust. 1.
+
+### Art. 21.
+
+### 1.
+
+Posłowie i senatorowie przyjmują opinie, postulaty, wnioski wyborców oraz ich organizacji i biorą je pod uwagę w swej działalności parlamentarnej.
+
+### 2.
+
+Poseł lub senator nie może być zobowiązany do udzielania informacji o osobie, która przekazała mu określone informacje lub przedstawiła opinię. Przepisu art.163 Kodeksu postępowania karnego[2) Obecnie art. 180 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37), która weszła w życie z dniem 1 września 1998 r. na podstawie art. 4 ustawy z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. poz. 556 i 1083, z 2000 r. poz. 717, z 2001 r. poz. 1149, z 2002 r. poz. 1801, z 2003 r. poz. 155 oraz z 2007 r. poz. 766 i 1823), która weszła w życie z dniem 1 września 1998 r.](#gloss-0:2:) nie stosuje się.
+
+### Art. 22.
+
+### 1.
+
+Poseł ma prawo uczestniczyć w sesjach sejmików województw, rad powiatów i rad gmin, właściwych dla okręgu wyborczego, z którego został wybrany, lub właściwych ze względu na siedzibę biura posła.
+
+### 2.
+
+Senator ma prawo uczestniczyć w sesjach sejmików województw, rad powiatów i rad gmin, właściwych dla okręgu wyborczego, z którego został wybrany.
+
+### 3.
+
+Uczestnicząc w sesjach, o których mowa w ust. 1 i 2, poseł i senator może zgłaszać swoje uwagi i wnioski.
+
+### 4.
+
+Warunki do realizacji praw posła i senatora, o których mowa w ust. 1-3, zapewniają przewodniczący sejmików województw oraz przewodniczący rad powiatów i rad gmin.
+
+### 5.
+
+(uchylony)
+
+### 6.
+
+W odniesieniu do Rady miasta stołecznego Warszawy i rad dzielnic gmin warszawskich [3) Obecnie miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu na podstawie art. 1 ust. 1 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817), która weszła w życie w dniu 27 października 2002 r.](#gloss-0:3:) przepisy ust. 1-4 stosuje się odpowiednio.
+
+### Art. 23.
+
+### 1.
+
+Posłowie i senatorowie tworzą biura poselskie, senatorskie lub poselsko-senatorskie w celu obsługi swojej działalności w terenie.
+
+### 2.
+
+Poseł i senator mogą realizować swoją działalność terenową w wybranym okręgu lub okręgach wyborczych.
+
+### 3.
+
+Posłowi i senatorowi przysługuje ryczałt na pokrycie kosztów związanych z funkcjonowaniem biur, na zasadach i w wysokości określonych wspólnie przez Marszałka Sejmu i Marszałka Senatu. Środki te nie mogą być wykorzystywane na inne cele niż określone w zdaniu pierwszym.
+
+### 4.
+
+Poseł lub senator może zatrudniać pracowników w biurze we własnym imieniu na czas określony, nie dłuższy niż czas sprawowania mandatu. Działalność posła lub senatora może być wspierana przez społecznych współpracowników.
+
+### 4a.
+
+Poseł lub senator jest obowiązany podać odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu następujące dane dotyczące pracowników biura oraz społecznych współpracowników:
+
+### 1)
+
+imię (imiona) i nazwisko;
+
+### 2)
+
+datę urodzenia;
+
+### 3)
+
+miejsce zatrudnienia w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem;
+
+### 4)
+
+źródła dochodów w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem;
+
+### 5)
+
+informację o wykonywanej działalności gospodarczej w trzyletnim okresie poprzedzającym dzień, w którym osoba została pracownikiem biura albo społecznym współpracownikiem.
+
+### 4b.
+
+Dane, o których mowa w ust. 4a, są jawne i są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
+
+### 5.
+
+Poseł lub senator, w ramach środków, o których mowa w ust. 3, ustala wynagrodzenie pracowników biur.
+
+### 6.
+
+Pracownikom biur przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych w odrębnej ustawie. Tryb wypłacania tego wynagrodzenia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### 7.
+
+Pracownikom, o których mowa w ust. 4, zatrudnionym na podstawie umowy o pracę, przysługuje nagroda za wieloletnią pracę oraz odprawa w związku z zakończeniem kadencji Sejmu i Senatu na zasadach określonych w art. 18 ust. 6 i 7.
+
+### 8.
+
+Tryb obliczania oraz wypłacania pracownikom biur nagród za wieloletnią pracę oraz odpraw w związku z zakończeniem kadencji Sejmu i Senatu określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### 9.
+
+Środki na cele, o których mowa w ust. 6 i 7, zapewnia się w budżetach odpowiednio Kancelarii Sejmu i Kancelarii Senatu.
+
+### 10.
+
+Poseł i senator są obowiązani złożyć odpowiednio w Kancelarii Sejmu i Kancelarii Senatu w okresach rocznych, w związku z wygaśnięciem mandatu oraz na koniec kadencji, rozliczenie kwot ryczałtów przeznaczonych na prowadzenie biura.
+
+### 10a.
+
+W razie śmierci posła lub senatora oraz w przypadku, o którym mowa w art. 5a, prawa i obowiązki posła i senatora wynikające z funkcjonowania i znoszenia biura przechodzą odpowiednio na Marszałka Sejmu lub Marszałka Senatu.
+
+### 11.
+
+Warunki organizacyjno-techniczne tworzenia, funkcjonowania i znoszenia biur, o których mowa w ust. 1, określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### Art. 24.
+
+### 1.
+
+Organy administracji rządowej i samorządu terytorialnego są obowiązane udzielać posłom i senatorom wszechstronnej pomocy w wykonywaniu ich funkcji.
+
+### 2.
+
+Organy administracji rządowej i samorządu terytorialnego są obowiązane udostępnić posłowi lub senatorowi lokal na czas odbycia doraźnego dyżuru poselskiego lub senatorskiego w miejscowości, w której poseł lub senator nie otworzył biura określonego w art. 23 ust. 1.
+
+### Rozdział 5 Warunki wykonywania mandatu
+
+### Art. 25.
+
+### 1.
+
+Posłom i senatorom w okresie sprawowania mandatu, licząc od pierwszego posiedzenia Sejmu lub Senatu, przysługuje uposażenie poselskie lub senatorskie, zwane dalej „uposażeniem”, wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
+
+### 2.
+
+Uposażenie odpowiada 80 % wysokości wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat.
+
+### 3.
+
+Posłowi lub senatorowi, który nie korzysta z urlopu bezpłatnego, o którym mowa w art. 29 ust. 1, albo prowadzi działalność gospodarczą samodzielnie lub wspólnie z innymi osobami, albo nie zawiesił prawa do emerytury lub renty, uposażenie, o którym mowa w ust. 1 i 2, nie przysługuje, z zastrzeżeniem ust. 3a.
+
+### 3a.
+
+Posłowi lub senatorowi uprawnionemu do emerytury na podstawie:
+
+### 1)
+
+ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2023 r. poz. 1251](https://api.sejm.gov.pl/eli/acts/DU/2023/1251/text.html), [1429](https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text.html) i [1672](https://api.sejm.gov.pl/eli/acts/DU/2023/1672/text.html)) lub ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2024 r. poz. 90](https://api.sejm.gov.pl/eli/acts/DU/2024/90/text.html)), który osiągnął wiek emerytalny wynoszący 60 lat dla kobiet i 65 lat dla mężczyzn,
+
+### 2)
+
+ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2024 r. poz. 242](https://api.sejm.gov.pl/eli/acts/DU/2024/242/text.html)) albo ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin[4) Obecnie tytuł ustawy brzmi o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, na podstawie art. 9 pkt 1 ustawy z dnia 26 stycznia 2018 r. - Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730), która weszła w życie z dniem 20 maja 2018 r.; wszedł w życie z dniem 14 kwietnia 2020 r.](#gloss-0:4:) (Dz. U. z 2023 r. poz. 1280, 1429 i 1834), którego emerytura stanowi 75 % podstawy jej wymiaru bez uwzględnienia podwyższenia z tytułu inwalidztwa pozostającego w związku ze służbą
+
+- uposażenie, o którym mowa w ust. 1 i 2, przysługuje również w razie pobierania emerytury.
+
+### 4.
+
+W uzasadnionych przypadkach Prezydium Sejmu lub Prezydium Senatu może podjąć decyzję o przyznaniu, na wniosek posła lub senatora, o którym mowa w ust. 3, uposażenia w całości lub w części.
+
+### 5.
+
+Zasady obniżania uposażenia posłów i senatorów:
+
+### 1)
+
+uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
+
+### 2)
+
+nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
+
+### 3)
+
+naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
+
+### 4)
+
+naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii Sejmu lub Kancelarii Senatu
+
+- określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+
+### 6.
+
+Szczegółowe zasady wypłacania uposażenia posłom lub senatorom, w tym:
+
+### 1)
+
+obejmującym mandat w trakcie trwania kadencji,
+
+### 2)
+
+którzy nie złożyli ślubowania na pierwszym posiedzeniu Sejmu lub Senatu
+
+- określa Prezydium Sejmu i Prezydium Senatu.
+
+### Art. 26.
+
+### 1.
+
+Do uposażenia przysługują dodatki w wysokości:
+
+### 1)
+
+20 % uposażenia - dla pełniących funkcję przewodniczącego komisji;
+
+### 2)
+
+15 % uposażenia - dla pełniących funkcję zastępcy przewodniczącego komisji;
+
+### 3)
+
+10 % uposażenia - dla pełniących funkcję przewodniczących stałych podkomisji.
+
+### 2.
+
+Prezydium Sejmu oraz Prezydium Senatu mogą:
+
+### 1)
+
+określać inne, niż przewidziane w ust. 1, okoliczności uzasadniające wypłacanie dodatków do uposażenia oraz ustalać ich wysokość;
+
+### 2)
+
+określać komisje poselskie lub senackie, których członkowie otrzymują także inne, niż wymienione w ust. 1, dodatki do uposażenia, oraz ustalać ich wysokość;
+
+### 3)
+
+określać tryb wypłaty dodatków.
+
+### 3.
+
+W razie zbiegu uprawnień do dwóch lub więcej dodatków, wypłaca się je miesięcznie w łącznej wysokości nieprzekraczającej 35 % uposażenia.
+
+### Art. 27.
+
+Uposażenie oraz dodatki, o których mowa w art. 26, są traktowane jako wynagrodzenie ze stosunku pracy.
+
+### Art. 28.
+
+### 1.
+
+Okres pobierania uposażenia jest traktowany jak okres zatrudnienia. Okres ten zalicza się również do stażu pracy, od którego zależą wszelkie uprawnienia pracownicze, w tym także uprawnienia szczególne, uzależnione od zatrudnienia w określonym zawodzie, branży lub zakładzie pracy.
+
+### 2.
+
+Posłowi lub senatorowi, który uległ wypadkowi przy wykonywaniu mandatu, przysługują świadczenia na zasadach i w wysokości określonych przepisami o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych.
+
+### 2a.
+
+Świadczenia, o których mowa w ust. 2, dla posła lub senatora niepobierającego uposażenia są finansowane z budżetu państwa.
+
+### 3.
+
+(uchylony)
+
+### 4.
+
+Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka Sejmu i Marszałka Senatu, określa, w drodze rozporządzenia:
+
+### 1)
+
+wzór dokumentu potwierdzającego okres i wysokość pobieranego uposażenia, dodatków do uposażenia i składek od tych świadczeń;
+
+### 2)
+
+skład zespołu powypadkowego badającego okoliczności i przyczyny wypadku przy sprawowaniu mandatu oraz zakres zadań Kancelarii Sejmu i Kancelarii Senatu w stosunku do poszkodowanych w tych wypadkach posłów i senatorów, uwzględniając w szczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych z tytułu wypadku.
+
+### Art. 29.
+
+### 1.
+
+Poseł lub senator pozostający w stosunku pracy z pracodawcami innymi, niż wymienieni w art. 30 ust. 1 i 1a, otrzymuje urlop bezpłatny, na swój wniosek, na okres sprawowania mandatu oraz trzech miesięcy po jego wygaśnięciu - bez względu na rodzaj i okres trwania stosunku pracy. Stosunek pracy zawarty na czas określony, który ustałby przed terminem zakończenia urlopu bezpłatnego, przedłuża się do trzech miesięcy po zakończeniu tego urlopu.
+
+### 2.
+
+Pracodawca zatrudniający posła lub senatora, który nie skorzystał z prawa do urlopu bezpłatnego, jest obowiązany udzielić posłowi lub senatorowi zwolnienia od pracy w celu wykonywania obowiązków poselskich i senatorskich.
+
+### Art. 30.
+
+### 1.
+
+W okresie wykonywania mandatu posłowie i senatorowie nie mogą wykonywać pracy na podstawie stosunku pracy: w Kancelarii Sejmu, w Kancelarii Senatu, w Kancelarii Prezydenta Rzeczypospolitej Polskiej, w Kancelarii Trybunału Konstytucyjnego, w Biurze Służby Prawnej Trybunału Konstytucyjnego, w Najwyższej Izbie Kontroli, w Biurze Rzecznika Praw Obywatelskich, w Biurze Rzecznika Praw Dziecka, w Biurze Krajowej Rady Radiofonii i Telewizji, w Krajowym Biurze Wyborczym, w Państwowej Inspekcji Pracy, w administracji rządowej i samorządu terytorialnego - z wyjątkiem stosunku pracy z wyboru - oraz nie mogą wykonywać pracy w charakterze sędziego, asesora sądowego i prokuratora, pracownika administracyjnego sądu i prokuratury, a także nie mogą pełnić zawodowej służby wojskowej.
+
+### 1a.
+
+W okresie wykonywania mandatu posłowie i senatorowie nie mogą być również zatrudnieni lub wykonywać innych zajęć w spółkach prawa handlowego, w których Skarb Państwa lub jednostka samorządu terytorialnego posiadają bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów.
+
+### 2.
+
+Przepis art. 29 ust. 1 stosuje się odpowiednio, z tym że urlop jest udzielany z urzędu.
+
+### 3.
+
+W przypadku gdy w okresie wykonywania mandatu posła lub senatora Skarb Państwa lub jednostka samorządu terytorialnego nabędzie bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów w spółce, w której ten poseł lub senator wykonuje pracę na podstawie stosunku pracy, otrzymuje on urlop bezpłatny na okres wykonywania mandatu oraz trzech miesięcy po jego zakończeniu, licząc od dnia, w którym Skarb Państwa lub jednostka samorządu terytorialnego nabyła bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów w tej spółce.
+
+### 4.
+
+Urlop bezpłatny udzielony w przypadkach, o których mowa w ust. 1a i 3, ulega skróceniu do trzech miesięcy, licząc od dnia, w którym Skarb Państwa lub jednostka samorządu terytorialnego przestaną posiadać w spółce prawa handlowego bezpośrednio lub pośrednio przez inne podmioty co najmniej 10 % akcji lub udziałów.
+
+### Art. 31.
+
+### 1.
+
+Pracodawca, u którego poseł lub senator otrzymał urlop bezpłatny, jest obowiązany zatrudnić go po zakończeniu urlopu bezpłatnego lub - w razie jego gotowości do pracy - po wygaśnięciu mandatu, na tym samym lub równorzędnym pod względem płacowym stanowisku pracy, z wynagrodzeniem, jakie otrzymywałby poseł lub senator, gdyby nie skorzystał z urlopu bezpłatnego.
+
+### 2.
+
+Rozwiązanie przez pracodawcę stosunku pracy z posłem lub senatorem, o którym mowa w ust. 1, z wyjątkiem stosunku pracy z wyboru, oraz zmiana warunków jego pracy lub płacy w ciągu dwóch lat po wygaśnięciu mandatu może nastąpić tylko za zgodą Prezydium Sejmu lub Prezydium Senatu.
+
+### 3.
+
+Stosunek pracy z nauczycielem lub nauczycielem akademickim nie może wygasnąć wcześniej niż z końcem roku szkolnego lub akademickiego, następującym po upływie okresu, o którym mowa w art. 29 ust. 1.
+
+### Art. 32.
+
+### 1.
+
+Do posła i senatora zajmującego jednocześnie kierownicze stanowisko państwowe nie stosuje się przepisów art. 25-27, art. 28 ust. 1 i art. 29-31.
+
+### 2.
+
+Przez kierownicze stanowiska państwowe rozumie się stanowiska wymienione w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
+
+### Art. 33.
+
+### 1.
+
+Poseł lub senator jest obowiązany powiadomić odpowiednio Marszałka Sejmu lub Marszałka Senatu o zamiarze podjęcia dodatkowych zajęć, z wyjątkiem działalności podlegającej prawu autorskiemu i prawom pokrewnym.
+
+### 2.
+
+Posłowie i senatorowie nie mogą podejmować dodatkowych zajęć ani otrzymywać darowizn, mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 1 ust. 1.
+
+### 3.
+
+Posłowie i senatorowie nie mogą powoływać się na swój mandat ani posługiwać tytułem posła lub senatora w związku z podjętymi dodatkowymi zajęciami bądź działalnością gospodarczą prowadzoną na własny rachunek lub wspólnie z innymi osobami.
+
+### 4.
+
+Naruszenie przez posła lub senatora przepisu ust. 1, 2 lub 3 powoduje odpowiedzialność regulaminową.
+
+### Art. 34.
+
+### 1.
+
+Posłowie i senatorowie nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia państwowego lub komunalnego, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności.
+
+### 2.
+
+Posłowie i senatorowie nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami handlowymi przedsiębiorców z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Wybór lub powołanie posła lub senatora do tych władz jest z mocy prawa nieważny.
+
+### 3.
+
+Jeżeli wybór lub powołanie, o którym mowa w ust. 2, miało miejsce przed rozpoczęciem wykonywania mandatu, poseł i senator jest obowiązany zrzec się stanowiska lub funkcji. W razie niezrzeczenia się stanowiska lub funkcji, poseł i senator traci je z mocy prawa po upływie trzech miesięcy od dnia złożenia ślubowania, o którym mowa w art. 2.
+
+### 4.
+
+Posłowie i senatorowie nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem państwowych lub komunalnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez posła lub senatora przed pierwszym posiedzeniem Sejmu lub Senatu, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwu lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
+
+### 5.
+
+Naruszenie przez posła lub senatora przepisów ust. 1-3 powoduje odpowiedzialność regulaminową.
+
+### Art. 35.
+
+### 1.
+
+Posłowie i senatorowie są obowiązani do złożenia oświadczenia o swoim stanie majątkowym. Oświadczenie o stanie majątkowym dotyczy majątku odrębnego oraz objętego małżeńską wspólnością majątkową. Oświadczenie to zawiera w szczególności informacje o:
+
+### 1)
+
+zasobach pieniężnych, nieruchomościach, uczestnictwie w spółkach cywilnych lub w osobowych spółkach handlowych, udziałach i akcjach w spółkach handlowych, o nabytym od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków lub komunalnej osoby prawnej, mieniu, które podlegało zbyciu w drodze przetargu, a także o prowadzonej działalności gospodarczej i stanowiskach zajmowanych w spółkach handlowych;
+
+### 2)
+
+dochodach osiąganych z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu;
+
+### 3)
+
+mieniu ruchomym o wartości powyżej 10 000 złotych;
+
+### 4)
+
+zobowiązaniach pieniężnych o wartości powyżej 10 000 złotych, w tym zaciągniętych kredytach i pożyczkach oraz warunkach, na jakich zostały udzielone.
+
+### 2.
+
+Wzór oświadczenia o stanie majątkowym stanowi załącznik do ustawy.
+
+### 3.
+
+Oświadczenie o stanie majątkowym składa się w dwóch egzemplarzach odpowiednio Marszałkowi Sejmu albo Marszałkowi Senatu w następujących terminach:
+
+### 1)
+
+do dnia złożenia ślubowania, wraz z informacją o sposobie i terminach zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem majątku Skarbu Państwa lub samorządu terytorialnego w związku z wyborem na posła albo senatora oraz z informacją o posiadaniu majątku Skarbu Państwa lub samorządu terytorialnego;
+
+### 2)
+
+do dnia 30 kwietnia każdego roku, według stanu na dzień 31 grudnia roku poprzedniego, dołączając kopię rocznego zeznania podatkowego (PIT);
+
+### 3)
+
+w terminie miesiąca od dnia zarządzenia nowych wyborów do Sejmu i Senatu.
+
+### 4.
+
+Jeden egzemplarz oświadczenia o stanie majątkowym Marszałek Sejmu albo Marszałek Senatu przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania posła lub senatora.
+
+### 5.
+
+Informacje zawarte w oświadczeniu o stanie majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania posła albo senatora oraz o miejscu położenia nieruchomości. Jawne informacje zawarte w oświadczeniu o stanie majątkowym są podawane do wiadomości publicznej odpowiednio przez Marszałka Sejmu albo Marszałka Senatu w formie zapisu elektronicznego.
+
+### 6.
+
+Analizy danych zawartych w oświadczeniach o stanie majątkowym dokonują właściwe komisje powołane odpowiednio przez Sejm albo Senat w trybie określonym w regulaminach odpowiednio Sejmu albo Senatu oraz właściwe urzędy skarbowe. Podmiot dokonujący analizy danych zawartych w oświadczeniu jest uprawniony do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy przedstawia się odpowiednio Prezydium Sejmu albo Prezydium Senatu.
+
+### 6a.
+
+Kontroli rzetelności i prawdziwości oświadczeń o stanie majątkowym, o których mowa w ust. 1, dokonuje Centralne Biuro Antykorupcyjne w trybie i na zasadach określonych w rozdz. 4 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2024 r. poz. 184](https://api.sejm.gov.pl/eli/acts/DU/2024/184/text.html)).
+
+### 7.
+
+Oświadczenie o stanie majątkowym przechowuje się przez 6 lat.
+
+### 8.
+
+Niezłożenie oświadczenia o stanie majątkowym powoduje odpowiedzialność regulaminową oraz utratę, do czasu złożenia oświadczenia, prawa do uposażenia.
+
+### 9.
+
+Podanie nieprawdy lub zatajenie prawdy w oświadczeniu o stanie majątkowym powoduje odpowiedzialność na podstawie art. 233 § 1 Kodeksu karnego.
+
+### Art. 35a.
+
+### 1.
+
+Tworzy się Rejestr Korzyści, zwany dalej „Rejestrem”.
+
+### 2.
+
+W Rejestrze ujawniane są korzyści uzyskiwane przez posłów, senatorów lub ich małżonków.
+
+### 3.
+
+Do Rejestru należy zgłaszać informacje o:
+
+### 1)
+
+wszystkich stanowiskach i zajęciach wykonywanych zarówno w administracji publicznej, jak i w instytucjach prywatnych, z tytułu których pobiera się wynagrodzenie, oraz pracy zawodowej wykonywanej na własny rachunek;
+
+### 2)
+
+faktach materialnego wspierania działalności publicznej prowadzonej przez zgłaszającego;
+
+### 3)
+
+darowiźnie otrzymanej od podmiotów krajowych lub zagranicznych, jeżeli jej wartość przekracza 50 % najniższego wynagrodzenia pracowników za pracę[5) Obecnie oznacza to kwotę wskazaną w art. 25 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), która weszła w życie z dniem 1 stycznia 2003 r.](#gloss-0:5:), obowiązującego w grudniu roku poprzedzającego, określonego przez Ministra Pracy i Polityki Socjalnej na podstawie Kodeksu pracy;
+
+### 4)
+
+wyjazdach krajowych lub zagranicznych niezwiązanych z pełnioną funkcją publiczną, jeżeli ich koszt nie został pokryty przez zgłaszającego lub jego małżonka albo instytucje ich zatrudniające bądź partie polityczne, zrzeszenia lub fundacje, których są członkami;
+
+### 5)
+
+innych uzyskanych korzyściach, o wartościach większych niż wskazane w pkt 3, niezwiązanych z zajmowaniem stanowisk lub wykonywaniem zajęć albo pracy zawodowej, o których mowa w pkt 1.
+
+### 4.
+
+Do Rejestru należy także zgłaszać informacje o udziale w organach fundacji, spółek prawa handlowego lub spółdzielni, nawet wówczas, gdy z tego tytułu nie pobiera się żadnych świadczeń pieniężnych.
+
+### 5.
+
+Przy podawaniu informacji poseł i senator są obowiązani zachować największą staranność i kierować się swoją najlepszą wiedzą.
+
+### 6.
+
+Wszystkie zmiany danych objętych Rejestrem należy zgłosić nie później niż w ciągu 30 dni od dnia ich zaistnienia.
+
+### 7.
+
+Rejestr jest jawny. Rejestr dla posłów prowadzi Marszałek Sejmu, a dla senatorów Marszałek Senatu.
+
+### 8.
+
+Prowadzący Rejestr raz w roku, w odrębnej publikacji, podaje do publicznej wiadomości zawarte w nim dane.
+
+### 9.
+
+Ujawnienie informacji w Rejestrze nie zwalnia od odpowiedzialności przewidzianej w ustawie za niedopełnienie określonych w niej obowiązków.
+
+### Art. 36.
+
+Posłom i senatorom oraz członkom ich rodzin przysługują świadczenia zdrowotne na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.
+
+### Art. 37.
+
+(uchylony)
+
+### Art. 38.
+
+### 1.
+
+Posłowi i senatorowi, który w trakcie sprawowania mandatu lub w ciągu dwunastu miesięcy po jego wygaśnięciu albo dwóch lat od zakończenia korzystania z urlopu bezpłatnego, o którym mowa w art. 29 i art. 30, przechodzi na emeryturę albo rentę, przysługuje jednorazowa odprawa w wysokości trzech uposażeń - przy przejściu na emeryturę oraz jednego uposażenia - przy przejściu na rentę.
+
+### 2.
+
+W razie zbiegu uprawnień, z różnych tytułów, do jednorazowej odprawy w związku z przejściem na emeryturę lub rentę, przysługuje odprawa wybrana przez uprawnionego.
+
+### Art. 39.
+
+### 1.
+
+Posłowi i senatorowi w związku z zakończeniem kadencji przysługuje odprawa parlamentarna w wysokości trzech uposażeń. Odprawa nie przysługuje, jeżeli poseł lub senator został wybrany na następną kadencję.
+
+### 2.
+
+W razie śmierci posła lub senatora w czasie wykonywania mandatu lub w ciągu trzech miesięcy po jego wygaśnięciu, przysługuje odprawa pośmiertna na zasadach i w wysokości określonych dla pracowników w Kodeksie pracy.
+
+### Art. 40.
+
+W razie zbiegu uprawnień do odprawy określonej w art. 38 ust. 1 oraz art. 39 ust. 1 przysługuje odprawa wybrana przez uprawnionego.
+
+### Art. 41.
+
+### 1.
+
+Posłowie i senatorowie oraz członkowie ich rodzin są uprawnieni do korzystania z funduszu świadczeń socjalnych, utworzonego na zasadach określonych w przepisach o zakładowym funduszu świadczeń socjalnych.
+
+### 2.
+
+Byli posłowie i senatorowie oraz członkowie ich rodzin korzystają z funduszu świadczeń socjalnych na zasadach określonych w przepisach o zakładowym funduszu świadczeń socjalnych.
+
+### 3.
+
+Zasady przeznaczania środków z funduszu, o którym mowa w ust. 1, na poszczególne cele i rodzaje działalności socjalnej oraz zasady i warunki korzystania z usług i świadczeń finansowanych z tego funduszu określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### Art. 42.
+
+### 1.
+
+Posłowi i senatorowi przysługują środki finansowe na pokrycie kosztów związanych z wydatkami poniesionymi w związku z wykonywaniem mandatu na terenie kraju, w zryczałtowanej wysokości 25 % wynagrodzenia podsekretarza stanu, ustalonego na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z wyłączeniem dodatku z tytułu wysługi lat (dieta parlamentarna).
+
+### 2.
+
+Dieta parlamentarna jest wolna od podatku dochodowego od osób fizycznych w granicach określonych w odrębnych przepisach dla diet otrzymywanych z tytułu pełnienia obowiązków obywatelskich i nie może być zajęta w drodze egzekucji.
+
+### 3.
+
+(uchylony)
+
+### 4.
+
+Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów:
+
+### 1)
+
+uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
+
+### 2)
+
+nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu, Senatu albo Zgromadzenia Narodowego, a także ich organów,
+
+### 3)
+
+naruszających swoim zachowaniem powagę Sejmu, Senatu albo Zgromadzenia Narodowego na ich posiedzeniach lub posiedzeniach ich organów,
+
+### 4)
+
+naruszających w rażący sposób spokój lub porządek na terenie będącym w zarządzie Kancelarii Sejmu lub Kancelarii Senatu
+
+- określają regulaminy Sejmu, Senatu i Zgromadzenia Narodowego.
+
+### 5.
+
+Szczegółowe zasady i tryb wypłaty diet parlamentarnych oraz należności posłów i senatorów delegowanych przez Sejm i Senat poza granice kraju określają wspólnie Prezydium Sejmu i Prezydium Senatu.
+
+### Art. 43.
+
+### 1.
+
+Poseł i senator ma prawo, na terenie kraju, do bezpłatnego przejazdu środkami publicznego transportu zbiorowego oraz przelotów w krajowym przewozie lotniczym, a także do bezpłatnych przejazdów środkami publicznej komunikacji miejskiej.
+
+### 2.
+
+Minister właściwy do spraw transportu, po zasięgnięciu opinii Prezydium Sejmu i Prezydium Senatu, określa, w drodze rozporządzenia, tryb korzystania z uprawnień, o których mowa w ust. 1, z wyłączeniem przejazdów publicznymi środkami komunikacji miejskiej.
+
+### Art. 44.
+
+### 1.
+
+Posłowie i senatorowie otrzymują bezpłatnie druki sejmowe lub senackie.
+
+### 2.
+
+Posłowie i senatorowie otrzymują koperty z papierem listowym, oznaczone odpowiednim nadrukiem, do prowadzenia korespondencji związanej z wykonywaniem mandatu bez uiszczania przez nich opłat pocztowych.
+
+### 3.
+
+Szczegółowe zasady realizacji uprawnień, o których mowa w ust. 1 i 2, określają Prezydium Sejmu i Prezydium Senatu.
+
+### Art. 45.
+
+### 1.
+
+Posłowi wydaje się legitymację poselską, a senatorowi legitymację senatorską. la.[6) Dodany przez art. 27 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r.](#gloss-0:6:) Legitymację poselską i legitymację senatorską wydaje się w postaci karty wykonanej z tworzywa sztucznego.
+
+### 1b[6) Dodany przez art. 27 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r.](#gloss-0:6:).
+
+Legitymacja poselska i legitymacja senatorska mogą być dodatkowo udostępniane w postaci dokumentu mobilnego, o którym mowa w art. 2 pkt 7 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel ([Dz. U. poz. 1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)).
+
+### 2.
+
+Posłom i senatorom wydaje się karty do głosowania.
+
+### 3.
+
+Wzór legitymacji i karty do głosowania, a także tryb postępowania oraz warunki wydawania ich duplikatów w razie zniszczenia lub zagubienia określają odpowiednio Marszałek Sejmu i Marszałek Senatu.
+
+### Art. 46.
+
+### 1.
+
+Prezydium Sejmu i Prezydium Senatu udzielają posłom i senatorom pomocy w wykonywaniu przez nich mandatów, czuwają nad wykonywaniem przez nich obowiązków parlamentarnych, jak również nad wykonywaniem wobec nich obowiązków określonych w ustawie przez organy państwowe i samorządu terytorialnego oraz podporządkowane im jednostki.
+
+### 2.
+
+Kancelaria Sejmu i Kancelaria Senatu, każda według swej właściwości, zapewniają i organizują obsługę posłów i senatorów niezbędną do wykonywania przez nich obowiązków oraz pomoc merytoryczną, zwłaszcza w zakresie dostępu do opracowań specjalistycznych, literatury i ekspertyz.
+
+### 3.
+
+Zadania Prezydium Sejmu i Prezydium Senatu, o których mowa w ust. 1, określają szczegółowo regulaminy Sejmu i Senatu, a zadania Kancelarii Sejmu i Kancelarii Senatu, o których mowa w ust. 2, określają szczegółowo regulaminy Sejmu i Senatu oraz uchwały Prezydium Sejmu i Prezydium Senatu.
+
+### Art. 47.
+
+Wydatki wynikające z uprawnień posłów i senatorów pokrywa się z budżetu państwa, w części dotyczącej odpowiednio Kancelarii Sejmu lub Kancelarii Senatu.
+
+### Art. 47a.
+
+Nie podlegają ogłoszeniu przepisy wydane na podstawie art. 18 ust. 2, 5, 8 i 11, art. 23 ust. 3, 6, 8 i 11, art. 25 ust. 6, art. 26 ust. 2, art.37 ust. 3 , art. 41 ust. 3, art. 42 ust. 5, art. 44 ust. 3 i art. 45 ust. 3 w zakresie, w jakim nie dotyczy wzoru legitymacji poselskiej i senatorskiej, i na podstawie art. 46 ust. 3 w zakresie uchwał Prezydium Sejmu i Prezydium Senatu.
+
+### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 48-55.
+
+(pominięte)
+
+### Art. 56.
+
+### 1.
+
+Traci moc ustawa z dnia 31 lipca 1985 r. o obowiązkach i prawach posłów i senatorów ([Dz. U. z 1991 r. poz. 79](https://api.sejm.gov.pl/eli/acts/DU/1991/79/text.html) oraz [z 1996 r. poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html)), z wyjątkiem jej art. 19 ust. 2 i 3 oraz z zastrzeżeniem ust. 2 niniejszego artykułu.
+
+### 2.
+
+Do posłów i senatorów kadencji, w czasie której niniejsza ustawa weszła w życie, niekorzystających z urlopów bezpłatnych na okres sprawowania mandatu, stosuje się przepis art. 26 ustawy, o której mowa w ust. 1.
+
+### Art. 57.
+
+Ustawa wchodzi w życie z dniem 1 lipca 1996 r., z wyjątkiem:
+
+### 1)
+
+rozdziału 2 i art. 51, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia[7) Ustawa została ogłoszona w dniu 29 czerwca 1996 r.](#gloss-0:7:);
+
+### 2)
+
+art. 34 ust. 3 i 4 oraz art. 42 ust. 3, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia.
+
+1) Ustawa utraciła moc z dniem 1 sierpnia 2011 r. na podstawie art. 10 pkt 3 ustawy z dnia 5 stycznia 2011 r. - Przepisy wprowadzające ustawę - Kodeks wyborczy (Dz. U. poz. 113), która weszła w życie z dniem 1 sierpnia 2011 r. 2) Obecnie art. 180 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37), która weszła w życie z dniem 1 września 1998 r. na podstawie art. 4 ustawy z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks postępowania karnego (Dz. U. poz. 556 i 1083, z 2000 r. poz. 717, z 2001 r. poz. 1149, z 2002 r. poz. 1801, z 2003 r. poz. 155 oraz z 2007 r. poz. 766 i 1823), która weszła w życie z dniem 1 września 1998 r. 3) Obecnie miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu na podstawie art. 1 ust. 1 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817), która weszła w życie w dniu 27 października 2002 r. 4) Obecnie tytuł ustawy brzmi o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, na podstawie art. 9 pkt 1 ustawy z dnia 26 stycznia 2018 r. - Przepisy wprowadzające ustawę o Straży Marszałkowskiej (Dz. U. poz. 730), która weszła w życie z dniem 20 maja 2018 r.; wszedł w życie z dniem 14 kwietnia 2020 r. 5) Obecnie oznacza to kwotę wskazaną w art. 25 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), która weszła w życie z dniem 1 stycznia 2003 r. 6) Dodany przez art. 27 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234), która weszła w życie z dniem 14 lipca 2023 r. 7) Ustawa została ogłoszona w dniu 29 czerwca 1996 r.
+
+## Załącznik - Oświadczenie o stanie majątkowym (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

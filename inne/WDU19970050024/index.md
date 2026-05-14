@@ -8,11 +8,9 @@ pos: 24
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o muzeach
-
-*USTAWA z dnia 21 listopada 1996 r.*
+# Ustawa z dnia 21 listopada 1996 r. o muzeach
 
 | Pole | Wartość |
 |---|---|
@@ -24,643 +22,678 @@ domain: null
 | Data ogłoszenia | 1996-11-21 |
 | Data wydania | 1997-01-20 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970050024) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/24/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/24/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/24) |
 
-Art. 35–39. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organizacja muzeów](#chpt_2) [Rozdział 3 - Muzeum rejestrowane](#chpt_3) [Rozdział 4 - Muzealia](#chpt_4) [Rozdział 5 - Pracownicy muzeów](#chpt_5) [Rozdział 6 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_6)
 
-**Art. 1.** Muzeum jest jednostką organizacyjną nienastawioną na osiąganie zysku, której celem jest gromadzenie i trwała ochrona dóbr naturalnego i kulturalnego dziedzictwa ludzkości o charakterze materialnym i niematerialnym, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie korzystania ze zgromadzonych zbiorów.
+TOC
 
-**Art. 2.** Muzeum realizuje cele określone w art. 1, w szczególności przez:
+## Treść ustawy
 
-**Art. 3.** Muzea mogą być tworzone dla jednej lub wielu dziedzin działalności człowieka oraz tworów natury.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** W sprawach nieuregulowanych w ustawie mają zastosowanie przepisy ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194).
+### Art. 1.
 
-#### Rozdział 2 Organizacja muzeów
+### 1.
 
-**Art. 5.**
+Muzeum jest jednostką organizacyjną, nie nastawioną na osiąganie zysku, której celem jest trwała ochrona dóbr kultury, informowanie o wartościach i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości poznawczej i estetycznej oraz umożliwianie kontaktu ze zbiorami przez działania określone w art. 2.
 
-1. Muzea mogą być tworzone przez ministrów i kierowników urzędów centralnych, jednostki samorządu terytorialnego, osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej.
+### 2.
 
-2. Muzeami państwowymi są muzea utworzone przez organy administracji rządowej.
+Muzealiami są rzeczy ruchome i nieruchomości wpisane do inwentarza muzealiów. Muzealia stanowią dobro ogólnospołeczne.
 
-3. Muzeami samorządowymi są muzea utworzone albo przejęte przez jednostki samorządu terytorialnego.
+### Art. 2.
 
-4. Podmioty, o których mowa w ust. 1, tworzące muzea są obowiązane:
+Muzeum realizuje cele określone w art. 1 w szczególności przez:
 
-- **1)** zapewnić środki potrzebne do utrzymania i rozwoju muzeum;
-- **2)** zapewnić bezpieczeństwo zgromadzonym zbiorom;
-- **3)** sprawować nadzór nad muzeum.
+### 1)
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
+gromadzenie dóbr kultury w statutowo określonym zakresie,
 
-- **1)** szczegółowy zakres i tryb zabezpieczania zbiorów przed pożarem, kradzieżą i innym niebezpieczeństwem grożącym zniszczeniem lub utratą zbiorów,
-- **2)** sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia – mając na względzie niedopuszczenie do sytuacji, w której zbiory mogą być utracone, uszkodzone lub zniszczone, oraz ochronę miejsca przechowywania i eksponowania zbiorów oraz ich ochronę w czasie transportu.
+### 2)
 
-6. Muzea państwowe i rejestrowane muzea samorządowe mają prawo używania okrągłej pieczęci z wizerunkiem orła ustalonym dla godła Rzeczypospolitej Polskiej oraz nazwą muzeum w otoku.
+katalogowanie i naukowe opracowywanie zgromadzonych muzealiów,
 
-**Art. 5a.**
+### 3)
 
-1. Muzeum może być łączone z innymi instytucjami kultury działającymi na podstawie przepisów o organizowaniu działalności kulturalnej, jeżeli połączenie nie spowoduje uszczerbku w wykonywaniu dotychczasowych zadań.
+przechowywanie gromadzonych dóbr kultury, w warunkach zapewniających im właściwy stan zachowania i bezpieczeństwo, oraz magazynowanie ich, w sposób dostępny do celów naukowych,
 
-2. Połączenie, o którym mowa w ust. 1, może nastąpić po pozytywnym zaopiniowaniu przez Radę do Spraw Muzeów i Miejsc Pamięci Narodowej, zwaną dalej „Radą do Spraw Muzeów”.
+### 4)
 
-**Art. 5b.**
+zabezpieczanie i konserwację muzealiów oraz w miarę możliwości, zabezpieczanie stanowisk archeologicznych oraz innych nieruchomych obiektów kultury materialnej i przyrody,
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi w Biuletynie Informacji Publicznej wykaz muzeów.
+### 5)
 
-2. Wykaz muzeów zawiera następujące informacje:
+urządzanie wystaw,
 
-- **1)** nazwę muzeum;
-- **2)** adres siedziby muzeum;
-- **3)** nazwę podmiotu, który utworzył muzeum, a w przypadku osoby fizycznej – jej imię i nazwisko;
-- **4)** w przypadku muzeum rejestrowanego – datę wpisu do Państwowego Rejestru Muzeów.
+### 6)
 
-3. Podmiot, który utworzył muzeum, jest obowiązany przekazać informacje, o których mowa w ust. 2, w terminie nie dłuższym niż 3 miesiące od dnia utworzenia muzeum, a w przypadku ich zmiany – w terminie nie dłuższym niż miesiąc od zmiany.
+organizowanie i prowadzenie badań, ekspedycji naukowych oraz prac wykopaliskowych,
 
-**Art. 6.**
+### 7)
 
-1. Muzeum działa na podstawie statutu nadanego przez podmiot, o którym mowa w art. 5 ust. 1, w uzgodnieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem ust. 5.
+prowadzenie działalności edukacyjnej,
 
-2. Statut określa w szczególności:
+### 8)
 
-- **1)** nazwę, teren działania i siedzibę muzeum;
-- **2)** zakres działania;
-- **3)** rodzaj i zakres gromadzonych zbiorów;
-- **4)** organ zarządzający i nadzorujący oraz organy doradcze i sposób ich powoływania;
-- **5)** źródła finansowania działalności muzeum;
-- **6)** zasady dokonywania zmian w statucie;
-- **7)** zasady prowadzenia działalności, o której mowa w art. 9, jeżeli muzeum zamierza taką działalność prowadzić.
+udostępnianie zbiorów do celów naukowych i edukacyjnych,
 
-3. Pierwszy statut nadany muzeum, statut muzeum w organizacji, zawiera postanowienia regulujące proces organizowania muzeum i obowiązuje do czasu jego zakończenia. Za dzień zakończenia organizowania muzeum przyjmuje się dzień otwarcia wystawy stałej.
+### 9)
 
-4. Po dniu zakończenia organizowania muzeum nadaje się muzeum statut zgodnie z wymogami określonymi w ust. 2.
+zapewnianie właściwych warunków zwiedzania i korzystania ze zbiorów,
 
-5. (uchylony)
+### 10)
 
-6. Muzeum nieposiadające osobowości prawnej, w tym muzeum funkcjonujące w ramach struktury jednostki organizacyjnej, działa na podstawie regulaminu nadanego przez podmiot, o którym mowa w art. 5 ust. 1. Przepisy ust. 1–4 stosuje się odpowiednio do regulaminu.
+prowadzenie działalności wydawniczej.
 
-7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi spis uzgodnionych regulaminów, o których mowa w ust. 6.
+### Art. 3.
 
-**Art. 6a.**
+Muzea mogą być tworzone dla jednej lub wielu dziedzin działalności człowieka oraz tworów natury.
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego koordynuje i realizuje politykę państwa w zakresie działalności muzeów oraz w zakresie miejsc pamięci narodowej, w tym pomników zagłady oraz grobów i cmentarzy wojennych, w szczególności przez:
+### Art. 4.
 
-- **1)** tworzenie muzeów;
-- **2)** sprawowanie nadzoru nad muzeami i dokonywanie kontroli ich działalności;
-- **3)** sprawowanie opieki nad miejscami pamięci narodowej oraz trwałymi upamiętnieniami faktów, wydarzeń i postaci z nimi związanymi w kraju i za granicą;
-- **4)** wspieranie inicjatyw w zakresie sprawowania opieki nad miejscami pamięci narodowej oraz trwałymi upamiętnieniami faktów, wydarzeń i postaci z nimi związanymi przez inne podmioty;
-- **5)** dokonywanie trwałych upamiętnień w miejscach pamięci narodowej, w tym w miejscach walk i męczeństwa Narodu Polskiego, oraz upamiętnień związanych z nimi faktów, wydarzeń, postaci;
-- **6)** opiniowanie stanu opieki nad pomnikami zagłady oraz muzeami walk i martyrologii;
-- **7)** organizowanie współpracy ze środowiskami i organizacjami emigracyjnymi, polonijnymi oraz polskimi poza granicami Rzeczypospolitej Polskiej w sprawowaniu opieki nad miejscami pamięci narodowej, w tym miejscami walk i męczeństwa Narodu Polskiego;
-- **8)** popularyzowanie wiedzy o miejscach pamięci narodowej oraz ich znaczenia dla historii, dziedzictwa i tożsamości narodowej;
-- **9)** wykonywanie innych zadań wynikających z umów międzynarodowych dotyczących miejsc pamięci narodowej, w tym grobów i cmentarzy wojennych.
+W sprawach nie uregulowanych w ustawie mają zastosowanie przepisy ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej ([Dz. U. Nr 114, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/1991/493/text.html), z [1994 r. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) oraz z [1996 r. Nr 90, poz. 407](https://api.sejm.gov.pl/eli/acts/DU/1996/407/text.html)).
 
-2. Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, z zastrzeżeniem uprawnień Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o których mowa w art. 53l ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177).
+### Rozdział 2 Organizacja muzeów
 
-**Art. 6b.**
+### Art. 5.
 
-1. Osobie fizycznej, osobie prawnej i jednostce organizacyjnej nieposiadającej osobowości prawnej zasłużonym dla idei pamięci narodowej nadaje się medal „Opiekun Miejsc Pamięci Narodowej”, zwany dalej „medalem”.
+### 1.
 
-2. Medal nadaje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego z własnej inicjatywy albo na wniosek Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, organizacji społecznej lub innej jednostki organizacyjnej, zajmujących się upamiętnianiem i opieką nad miejscami pamięci narodowej.
+Muzea mogą być tworzone przez naczelne i centralne organy administracji rządowej, wojewodów, gminy, związki komunalne, osoby fizyczne, osoby prawne lub jednostki organizacyjne nie posiadające osobowości prawnej.
 
-3. Wniosek o nadanie medalu zawiera w szczególności następujące dane podmiotu, którego dotyczy:
+### 2.
 
-- **1)** imię, nazwisko, imię ojca, datę i miejsce urodzenia, wykształcenie oraz miejsce zamieszkania osoby fizycznej albo
-- **2)** nazwę, siedzibę, adres osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej.
+Muzeami państwowymi są muzea utworzone przez naczelne i centralne organy administracji rządowej lub wojewodów.
 
-4. Podmiot, któremu nadano medal, otrzymuje odznakę medalu oraz legitymację potwierdzającą jego nadanie.
+### 3.
 
-5. Duplikat legitymacji potwierdzającej nadanie medalu wydaje się nieodpłatnie w przypadku jej zniszczenia lub utraty.
+Muzeami komunalnymi są muzea utworzone albo przejęte przez gminy lub związki komunalne.
 
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+### 4.
 
-- **1)** wzór wniosku o nadanie medalu,
-- **2)** tryb postępowania w sprawach o nadanie medalu, okoliczności wręczania odznaki medalu oraz legitymacji potwierdzającej nadanie medalu,
-- **3)** sposób noszenia i przechowywania odznaki medalu,
-- **4)** tryb i sposób wydawania duplikatu legitymacji potwierdzającej nadanie medalu,
-- **5)** wzory odznaki medalu oraz legitymacji potwierdzającej nadanie medalu – uwzględniając konieczność zapewnienia sprawności postępowania w sprawach o nadanie medalu oraz godnego i uroczystego uhonorowania osób oraz jednostek organizacyjnych, którym jest nadawany medal.
+Podmioty, o których mowa w ust. 1, tworzące muzea są obowiązane:
 
-**Art. 7.**
+### 1)
 
-1. Przy ministrze właściwym do spraw kultury i ochrony dziedzictwa narodowego działa Rada do Spraw Muzeów jako organ opiniodawczo-doradczy w sprawach zarządzania, finansowania oraz polityki kulturalnej w zakresie muzealnictwa oraz spraw związanych z miejscami pamięci narodowej, w tym pomnikami zagłady.
+zapewnić środki potrzebne do utrzymania i rozwoju muzeum,
 
-2. Rada do Spraw Muzeów składa się z 21 członków: 10 wskazanych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, w tym 3 reprezentujących muzea martyrologiczne, oraz 11 wybranych na zjeździe muzeów rejestrowanych.
+### 2)
 
-3. Kadencja Rady do Spraw Muzeów trwa 3 lata.
+zapewnić bezpieczeństwo zgromadzonym zbiorom,
 
-4. Członków Rady do Spraw Muzeów powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego. Rada wybiera Przewodniczącego ze swojego grona.
+### 3)
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowy zakres działania Rady do Spraw Muzeów, sposób powoływania jej członków oraz Przewodniczącego, uwzględniając przy tym ich wiedzę merytoryczną, niezbędną przy pełnionej w niej funkcji.
+sprawować nadzór nad muzeum.
 
-**Art. 8.**
+### 5.
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego sprawuje nadzór nad muzeami. W tym celu może dokonywać kontroli ich działalności.
+Minister Kultury i Sztuki, w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji, określi, w drodze rozporządzenia, zasady zabezpieczania zbiorów przed pożarami, kradzieżami i innymi niebezpieczeństwami grożącymi zniszczeniem lub utratą muzealiów oraz sposoby przygotowania zbiorów do ewakuacji w razie powstania zagrożenia.
 
-2. W razie rażącego naruszania przepisów ustawy i statutu muzeum, gdy bezskuteczne okazały się zalecenia usunięcia stwierdzonych uchybień w działalności muzeum, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po wysłuchaniu podmiotu, o którym mowa w art. 5 ust. 1, oraz rady muzeum lub rady powierniczej, po zapoznaniu się z opinią Rady do Spraw Muzeów, może, w drodze decyzji administracyjnej, zakazać jego dalszej działalności. Decyzję tę podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty.
+### Art. 6.
 
-3. W decyzji, o której mowa w ust. 2, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wskazuje sposób zabezpieczenia muzealiów.
+### 1.
 
-**Art. 9.** Muzeum może prowadzić, jako dodatkową, działalność gospodarczą w celu finansowania działalności określonej w art. 2.
+Muzeum działa na podstawie statutu nadanego przez podmiot, o którym mowa w art. 5 ust. 1, w uzgodnieniu z Ministrem Kultury i Sztuki.
 
-**Art. 10.**
+### 2.
 
-1. Wstęp do muzeów jest odpłatny, z wyjątkiem ust. 3b, oraz nieodpłatny, gdy właściwy podmiot, o którym mowa w art. 5 ust. 1, tak postanowi.
+Statut określa w szczególności:
 
-2. W jednym dniu tygodnia wstęp na wystawy stałe muzeów jest nieodpłatny.
+### 1)
 
-3. Dyrektor muzeum ustala i podaje do publicznej wiadomości, w sposób zwyczajowo przyjęty, wysokość opłat za wstęp do muzeum oraz dzień, o którym mowa w ust. 2. Dyrektor muzeum może zwolnić z opłat za wstęp.
+nazwę, teren działania i siedzibę muzeum,
 
-3a. Za wstęp do muzeów państwowych przysługuje ulga w opłacie:
+### 2)
 
-- **1)** uczniom szkół systemu oświaty, słuchaczom kolegiów pracowników służb społecznych, studentom oraz doktorantom;
-- **2)** uczniom szkół, studentom oraz doktorantom będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
-- **3)** uczniom szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania, w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
-- **4)** uczniom szkół funkcjonujących w systemach oświaty innych państw w okresie pobierania nauki języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
-- **5)** uczniom sekcji polskich funkcjonujących w szkołach działających w systemach oświaty innych państw, nie dłużej niż do ukończenia 18. roku życia;
-- **6)** uczniom szkół europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r. (Dz. U. z 2005 r. poz. 10) pobierającym naukę języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim, nie dłużej niż do ukończenia 18. roku życia;
-- **7)** osobom powyżej 65. roku życia, emerytom, rencistom, rencistom socjalnym, a także osobom niepełnosprawnym wraz z opiekunami, będącym obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym;
-- **8)** nauczycielom:
-    - **a)** szkół i placówek systemu oświaty, zakładów poprawczych i schronisk dla nieletnich,
-    - **b)** szkół działających w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym,
-    - **c)** szkół prowadzonych przez organizacje społeczne za granicą, zarejestrowanych w bazie prowadzonej przez upoważnioną jednostkę podległą ministrowi właściwemu do spraw oświaty i wychowania,
-    - **d)** uczącym języka polskiego, historii, geografii, kultury polskiej lub innych przedmiotów nauczanych w języku polskim w: – szkołach funkcjonujących w systemach oświaty innych państw, – sekcjach polskich funkcjonujących w systemach oświaty innych państw, – szkołach europejskich działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.;
+zakres działania,
 
-- **9)** osobom fizycznym odznaczonym odznaką „Za opiekę nad zabytkami”, odznaką honorową „Zasłużony działacz kultury”, odznaką honorową „Zasłużony dla Kultury Polskiej” lub wyróżnionym tytułem honorowym „Zasłużony dla Kultury Narodowej”;
-- **10)** kombatantom.
+### 3)
 
-3b. Zwolnienie z opłaty za wstęp do muzeów państwowych przysługuje:
+rodzaj i zakres gromadzonych zbiorów,
 
-- **1)** osobom fizycznym odznaczonym Orderem Orła Białego, Orderem Wojennym Virtuti Militari, Orderem Zasługi Rzeczypospolitej Polskiej, Medalem „Zasłużony Kulturze Gloria Artis”;
-- **2)** pracownikom muzeów wpisanych do Państwowego Rejestru Muzeów;
-- **3)** członkom Międzynarodowej Rady Muzeów (ICOM) lub Międzynarodowej Rady Ochrony Zabytków (ICOMOS);
-- **4)** posiadaczom Karty Polaka, o których mowa w ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. z 2019 r. poz. 1598 oraz z 2022 r. poz. 91);
-- **5)** dzieciom do lat 7;
-- **6)** weteranom i weteranom poszkodowanym.
+### 4)
 
-4. Rada Ministrów określi, w drodze rozporządzenia, rodzaje dokumentów potwierdzających uprawnienia, o których mowa w ust. 3a i 3b, uwzględniając przy tym odpowiednio przepisy obowiązujące w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym.
+organy zarządzające i nadzorujące oraz sposób ich powoływania,
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, ustali, w drodze rozporządzenia, wykaz państwowych muzeów martyrologicznych, do których wstęp jest bezpłatny, ze względu na szczególny charakter historyczny i edukacyjny tych muzeów.
+### 5)
 
-**Art. 11.**
+sposób uzyskiwania środków finansowych,
 
-1. Przy muzeum państwowym i samorządowym działa rada muzeum, której członków powołuje właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3.
+### 6)
 
-2. Rada muzeum:
+zasady dokonywania zmian w statucie,
 
-- **1)** sprawuje nadzór nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa, w szczególności nad realizacją celów określonych w art. 1;
-- **2)** ocenia, na podstawie przedłożonego przez dyrektora muzeum sprawozdania rocznego z działalności, działalność muzeum oraz opiniuje przedłożony przez dyrektora roczny plan działalności.
+### 7)
 
-3. Kadencja członków rady muzeum trwa cztery lata, z zastrzeżeniem art. 18 ust. 1.
+zasady prowadzenia działalności, o której mowa w art. 9, jeżeli muzeum zamierza taką działalność prowadzić.
 
-4. Rada muzeum liczy od 5 do 15 członków. Członków rady muzeum powołuje i odwołuje właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3. Rada muzeum wybiera ze swojego grona przewodniczącego.
+### 3.
 
-5. W skład rady muzeum powoływane są osoby spośród kandydatów wskazanych przez:
+Uzgodnień, o których mowa w ust. 1, dokonuje także, w zakresie swojej właściwości, Rada Ochrony Pamięci Walk i Męczeństwa.
 
-- **1)** właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3;
-- **2)** właściwe ze względu na siedzibę muzeum organy jednostek samorządu terytorialnego, z wyjątkiem jednostki samorządu terytorialnego, o której mowa w art. 5 ust. 3;
-- **3)** stowarzyszenia naukowe i twórcze;
-- **4)** fundacje i inne instytucje wspierające działalność muzeum;
-- **5)** ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w muzeach walk i martyrologii;
-- **6)** dyrektora muzeum;
-- **7)** samą radę muzeum.
+### Art. 7.
 
-6. Członkowie rady muzeum wskazani przez podmiot, o którym mowa w art. 5 ust. 2 lub 3, stanowią nie więcej niż 1/3 składu rady muzeum.
+### 1.
 
-7. Dyrektor muzeum i sekretarz rady muzeum uczestniczą w jej zebraniach; sekretariat rady zapewnia muzeum.
+Przy Ministrze Kultury i Sztuki działa Rada do Spraw Muzeów jako organ opiniodawczo-doradczy w sprawach zarządzania, finansowania oraz polityki kulturalnej w zakresie muzealnictwa.
 
-7a. Członkom rady muzeum mogą przysługiwać diety oraz zwrot kosztów przejazdów i noclegów na zasadach określonych w przepisach regulujących należności przysługujące pracownikowi, zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, o ile nie otrzymują ich z innego tytułu. Wydatki te pokrywa muzeum.
+### 2.
 
-7b. Dyrektor muzeum przyznaje należności, o których mowa w ust. 7a, jeżeli środki na ten cel są ujęte w planie finansowym muzeum na dany rok.
+Członków Rady, o której mowa w ust. 1, powołuje i odwołuje Minister Kultury i Sztuki. Rada wybiera przewodniczącego ze swojego grona.
 
-8. Szczegółowy tryb pracy rady muzeum określa uchwalony przez nią regulamin.
+### 3.
 
-9. Rada muzeum, w przypadku ogłoszenia konkursu na stanowisko dyrektora, wyznacza do składu komisji konkursowej określonej w art. 16 ust. 4 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej dwóch dodatkowych członków.
+Szczegółowy zakres działania Rady, o której mowa w ust. 1, jej skład, liczbę i sposób powoływania członków określi Minister Kultury i Sztuki, w drodze rozporządzenia.
 
-10. (uchylony)
+### Art. 8.
 
-**Art. 12.**
+### 1.
 
-1. W muzeum mogą działać kolegia doradcze utworzone przez dyrektora, z jego inicjatywy lub na wniosek co najmniej połowy zatrudnionych w nim muzealników.
+Minister Kultury i Sztuki sprawuje nadzór nad muzeami. W tym celu może dokonywać kontroli ich działalności.
 
-2. Tryb działania kolegiów doradczych, skład osobowy i organizację określa statut muzeum.
+### 2.
 
-#### Rozdział 3 Muzeum rejestrowane
+W razie rażącego naruszenia przepisów ustawy i statutu muzeum, gdy bezskuteczne okazały się zalecenia usunięcia stwierdzonych uchybień w działalności muzeum, Minister Kultury i Sztuki, po wysłuchaniu podmiotu, o którym mowa w art. 5 ust. 1, oraz rady muzeum lub rady powierniczej, po zapoznaniu się z opinią Rady do Spraw Muzeów, może, w drodze decyzji administracyjnej, zakazać jego dalszej działalności. Decyzję tę podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty.
 
-**Art. 13.**
+### 3.
 
-1. W celu potwierdzenia wysokiego poziomu merytorycznej działalności i znaczenia zbiorów oraz w celu ewidencjonowania muzeów spełniających te warunki, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi Państwowy Rejestr Muzeów, zwany dalej „Rejestrem”.
+W decyzji, o której mowa w ust. 2, Minister Kultury i Sztuki wskazuje sposób zabezpieczenia muzealiów.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uzależnia wpis do Rejestru w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu wykwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania – zapewniających spełnienie statutowych celów muzeum.
+### Art. 9.
 
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+Muzeum może prowadzić, jako dodatkową, działalność gospodarczą w celu finansowania działalności określonej w art. 2.
 
-- **1)** sposób prowadzenia Rejestru,
-- **2)** wzór wniosku o wpis do Rejestru,
-- **3)** warunki i tryb dokonywania wpisów w Rejestrze,
-- **4)** okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru – biorąc pod uwagę uprawnienia nadzorcze ministra nad muzeami.
+### Art. 10.
 
-4. Z dniem wpisu do Rejestru muzeum jest uprawnione do używania nazwy „muzeum rejestrowane”.
+### 1.
 
-5. Muzeum rejestrowane korzysta ze szczególnej ochrony i pomocy finansowej państwa.
+Wstęp do muzeów, z zastrzeżeniem ust. 2, jest odpłatny, chyba że właściwy podmiot, o którym mowa w art. 5 ust. 1, postanowi o nieodpłatnym wstępie do muzeum.
 
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego ogłasza w Biuletynie Informacji Publicznej wykaz muzeów rejestrowanych.
+### 2.
 
-**Art. 14.**
+Jeden dzień w tygodniu wstęp do muzeów jest nieodpłatny.
 
-1. Jeżeli muzeum rejestrowane przestało spełniać warunki wpisu do Rejestru, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wyznacza muzeum termin do ich spełnienia, a po jego bezskutecznym upływie skreśla z Rejestru.
+### 3.
 
-2. O wszczęciu postępowania w sprawie skreślenia z Rejestru oraz o jego wyniku minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zawiadamia podmiot, o którym mowa w art. 5 ust. 1, i podaje ten fakt do publicznej wiadomości w sposób zwyczajowo przyjęty.
+Wysokość opłat za wstęp do muzeum oraz dzień, w którym wstęp do muzeum jest nieodpłatny, ustala dyrektor.
 
-**Art. 15.** Rozstrzygnięcie w sprawach wpisu i skreślenia z Rejestru następuje w drodze decyzji administracyjnej.
+### 4.
 
-**Art. 16.** Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, może w muzeach rejestrowanych, bezpośrednio mu podległych, powierzyć swoje uprawnienia radzie powierniczej, w zakresie:
+Rada Ministrów określi, w drodze rozporządzenia, grupy osób, którym, przysługuje ulga w opłacie lub zwolnienie z opłaty za wstęp do muzeów państwowych, z zastrzeżeniem ust. 5.
 
-**Art. 17.** Właściwe organy administracji rządowej oraz organy jednostek samorządu terytorialnego mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć – za zgodą ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów – swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
+### 5.
 
-**Art. 18.**
+Minister Kultury i Sztuki, po zasięgnięciu opinii Rady Ochrony Pamięci Walk i Męczeństwa, ustala, w drodze zarządzenia, wykaz państwowych muzeów martyrologicznych, do których wstęp jest bezpłatny.
 
-1. W muzeum, w którym działa rada powiernicza, nie powołuje się rady muzeum, a dotychczasowa rada ulega rozwiązaniu.
+### Art. 11.
 
-2. (uchylony)
+### 1.
 
-**Art. 19.**
+Przy muzeum państwowym i komunalnym działa rada muzeum, której członków powołuje właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3.
 
-1. Rada powiernicza składa się z 9–15 członków. Pracami rady kieruje przewodniczący. Członków rady oraz przewodniczącego powołuje i odwołuje organ, o którym mowa w art. 16 i art. 17.
+### 2.
 
-2. Szczegółowy tryb pracy rady powierniczej określa regulamin uchwalany przez radę i zatwierdzany przez organ, o którym mowa w art. 16 i art. 17.
+Rada muzeum:
 
-3. Kadencja rady powierniczej trwa 5 lat.
+### 1)
 
-4. Członkostwo w radzie powierniczej wygasa przed upływem kadencji w razie:
+sprawuje nadzór nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa, w szczególności nad realizacją celów określonych w art. 2,
 
-- **1)** śmierci;
-- **2)** zrzeczenia się;
-- **3)** skazania prawomocnym wyrokiem na utratę praw publicznych;
-- **4)** ubezwłasnowolnienia;
-- **5)** odwołania z powodu niewykonywania obowiązków członka rady wynikających z przepisów ustawy lub regulaminu.
+### 2)
 
-**Art. 19a.**
+ocenia, co najmniej raz do roku, działalność muzeum oraz zatwierdza przedłożony przez dyrektora roczny plan działalności, wraz z planem finansowym, a także sprawozdanie roczne z działalności muzeum,
 
-1. Członkom rady powierniczej może przysługiwać zwrot kosztów przejazdów na zasadach określonych w przepisach regulujących należności przysługujące pracownikowi, zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju oraz wynagrodzenie za udział w posiedzeniu rady powierniczej. Wydatki te pokrywa muzeum.
+### 3)
 
-2. Dyrektor muzeum przyznaje zwrot kosztów przejazdów, jeżeli środki na ten cel są ujęte w planie finansowym muzeum na dany rok.
+w razie niezatwierdzenia planu, o którym mowa w pkt 2, sprawę rozstrzyga właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3.
 
-3. Podmiot, o którym mowa w art. 16 lub 17, przyznaje wynagrodzenie, o którym mowa w ust. 1, oraz ustala jego wysokość.
+### 3.
 
-4. W przypadku przyznania wynagrodzenia, o którym mowa w ust. 1, nie może być ono wyższe niż:
+Kadencja członków rady muzeum trwa cztery lata, z zastrzeżeniem art. 18 ust. 1.
 
-- **1)** dla przewodniczącego rady – 50%,
-- **2)** dla pozostałych członków rady – 45% – minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+### 4.
 
-**Art. 20.**
+Członków rady nie przekraczającej 15 osób powołuje i odwołuje właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3. Rada wybiera ze swojego grona przewodniczącego.
 
-1. Muzeum rejestrowane ma prawo pierwszeństwa zakupu od podmiotów prowadzących działalność polegającą na oferowaniu do sprzedaży zabytków, w terminie 14 dni od dnia zgłoszenia przez muzeum zamiaru zakupu. W przypadku skorzystania z prawa pierwszeństwa nabycie przez muzeum rejestrowane następuje po cenie z chwili zgłoszenia zamiaru zakupu.
+### 5.
 
-2. Muzeum rejestrowanemu przysługuje prawo pierwokupu zabytku sprzedawanego na aukcji. Oświadczenie w sprawie skorzystania z prawa pierwokupu powinno być złożone przez muzeum niezwłocznie po licytacji zabytku, nie później jednak niż do zakończenia całej aukcji.
+W skład rady muzeum powoływane są osoby spośród kandydatów wskazanych przez:
 
-3. W przypadku złożenia oświadczenia o skorzystaniu z prawa pierwokupu przez więcej niż jedno muzeum rejestrowane przysługuje ono muzeum, które wcześniej złożyło takie oświadczenie.
+### 1)
 
-4. Sprzedaż dokonana z naruszeniem prawa pierwszeństwa, o którym mowa w ust. 1, oraz prawa pierwokupu, o którym mowa w ust. 2, jest nieważna.
+właściwy podmiot, o którym mowa w art. 5 ust. 2 lub 3,
 
-#### Rozdział 4 Muzealia
+### 2)
 
-**Art. 21.**
+właściwy ze względu na siedzibę muzeum organ samorządu terytorialnego, jeżeli nie jest podmiotem, o którym mowa w art. 5 ust. 3,
 
-1. Muzealiami są rzeczy ruchome i nieruchomości stanowiące własność muzeum i wpisane do inwentarza muzealiów. Muzealia stanowią dobro narodowe.
+### 3)
 
-1a. W przypadku muzeum nieposiadającego osobowości prawnej, muzealiami są rzeczy ruchome i nieruchomości stanowiące własność podmiotu, który utworzył muzeum, oraz wpisane do inwentarza muzealiów.
+stowarzyszenia naukowe i twórcze,
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, zakres, formy i sposób ewidencjonowania zabytków w muzeach, wskazując, w szczególności, rodzaj dokumentacji ewidencyjnej, wymagania, jakim powinno odpowiadać prowadzenie tej dokumentacji, sposób oznakowania muzealiów oraz tryb ich dokumentowania w przypadku przenoszenia poza siedzibę muzeum oraz skreślania z inwentarza muzeum.
+### 4)
 
-**Art. 22.** (uchylony)
+fundacje i inne instytucje wspierające działalność muzeum,
 
-**Art. 23.**
+### 5)
 
-1. Muzea państwowe i samorządowe mogą dokonywać zamiany, sprzedaży lub darowizny muzealiów, po uzyskaniu pozwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Pozwolenie na zamianę, sprzedaż lub darowiznę muzealiów może być udzielone tylko w uzasadnionych przypadkach. Środki uzyskane ze sprzedaży muzealiów mogą być przeznaczone wyłącznie na uzupełnienie zbiorów muzeum.
+Radę Ochrony Pamięci Walk i Męczeństwa w muzeach prowadzących działalność w zakresie jej właściwości,
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, może wydać pozwolenie na zamianę, sprzedaż lub darowiznę muzealiów, na wniosek dyrektora muzeum zaopiniowany przez radę muzeum.
+### 6)
 
-3. (uchylony)
+dyrektora muzeum,
 
-**Art. 24.**
+### 7)
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek dyrektora muzeum państwowego lub samorządowego, wydaje pozwolenie na skreślenie z inwentarza, w razie zmiany statusu prawnego muzealium lub błędu w zapisie inwentarzowym.
+samą radę muzeum.
 
-2. W razie stwierdzenia błędów w zapisie inwentarzowym, skreślenie może być nakazane decyzją ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, po uzgodnieniu z Radą do Spraw Muzeów.
+### 6.
 
-3. W przypadku muzealium będącego zabytkiem, pozwolenie na skreślenie z inwentarza może być wydane z zastrzeżeniem warunku wpisania go do rejestru zabytków. Skreślenia dokonuje się z chwilą wpisania muzealium do rejestru zabytków.
+Przedstawiciele podmiotów, o których mowa w art. 5 ust. 2 i 3, stanowią nie więcej niż 1/4 składu rady.
 
-4. W przypadku, o którym mowa w ust. 3, nie stosuje się przepisu art. 11 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710 i 954).
+### 7.
 
-5. W przypadku wzruszenia decyzji o wpisaniu do rejestru zabytków muzealium skreślonego z inwentarza na podstawie pozwolenia, o którym mowa w ust. 3, skreślenie z inwentarza uważa się za niedokonane.
+Dyrektor muzeum i sekretarz rady muzeum uczestniczą w jej zebraniach; sekretariat rady zapewnia muzeum.
 
-6. W przypadku wydania na podstawie art. 39 ust. 1 lub art. 43 ust. 1 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz.
+### 8.
 
-- **1591)** pozwolenia na stały wywóz za granicę rzeczy wpisanej do inwentarza muzealiów muzeum będącego instytucją kultury skreśla się ją z inwentarza z dniem, w którym wywóz stał się dopuszczalny.
+Szczegółowy tryb pracy rady muzeum określa uchwalony przez nią regulamin.
 
-7. W przypadku wydania wyroku nakazującego zwrot na terytorium państwa Unii Europejskiej rzeczy wpisanej do inwentarza muzealiów muzeum będącego instytucją kultury, stanowiącej zagraniczne narodowe dobro kultury, o którym mowa w art. 18 ust. 1 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, skreśla się ją z inwentarza z dniem, w którym wyrok stał się prawomocny.
+### 9.
 
-**Art. 25.**
+Rada Muzeum w razie ogłoszenia konkursu na stanowisko dyrektora wyznacza minimum 1/3 składu osobowego komisji konkursowej.
 
-1. Muzeum pobiera opłaty za przygotowanie i udostępnianie zbiorów do celów innych niż zwiedzanie, w szczególności za kopiowanie, sporządzanie reprodukcji lub fotografii, przygotowywanie zbiorów do wypożyczenia oraz ich wypożyczenie.
+### 10.
 
-2. Wysokość opłat, o których mowa w ust. 1, ustala dyrektor muzeum. W uzasadnionych przypadkach dyrektor muzeum może ustalić opłatę ulgową lub zwolnić z opłaty.
+Konkursu na stanowisko dyrektora nie ogłasza się, jeżeli właściwy podmiot, o którym mowa w art. 5 ust. 2 i 3, na wniosek rady muzeum, powołał dyrektora po raz kolejny na czas określony.
 
-3. Nie pobiera się opłat za wypożyczenia muzealiów między muzeami krajowymi oraz, pod warunkiem wzajemności, między muzeami z siedzibą w państwach członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej oraz w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.
+### Art. 12.
 
-4. W przypadku ustalania i pobierania opłat za czynności, o których mowa w ust. 1, podejmowane w ramach udostępniania informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
+### 1.
 
-**Art. 25a.**
+W muzeum mogą działać kolegia doradcze utworzone przez dyrektora, z jego inicjatywy lub na wniosek co najmniej połowy zatrudnionych w nim muzealników.
 
-1. Wizerunki muzealiów mogą być utrwalone i przechowywane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 2070).
+### 2.
 
-2. Muzeum pobiera opłaty za udostępnianie wizerunków muzealiów, z wykorzystaniem informatycznych nośników danych. Bezpośredni dostęp do wizerunków muzealiów drogą elektroniczną jest bezpłatny.
+Tryb działania kolegów doradczych, skład osobowy i organizację określa statut muzeum.
 
-3. Wysokość opłat, o których mowa w ust. 2, ustala dyrektor muzeum. W uzasadnionych przypadkach dyrektor muzeum może ustalić opłatę ulgową lub zwolnić z opłaty.
+### Rozdział 3 Muzeum rejestrowane
 
-4. W przypadku ustalania i pobierania opłat za udostępnianie wizerunków muzealiów z wykorzystaniem informatycznych nośników danych jako informacji sektora publicznego do ponownego wykorzystywania stosuje się przepisy ustawy, o której mowa w art. 25 ust. 4.
+### Art. 13.
 
-**Art. 26.**
+### 1.
 
-1. W razie likwidacji muzeum samorządowego, właściwy podmiot, o którym mowa w art. 5 ust. 3, zapewnia muzealiom warunki należytego przechowywania.
+Dla potwierdzenia wysokiego poziomu merytorycznej działalności i znaczenia zbiorów oraz w celu ewidencjonowania muzeów spełniających te warunki Minister Kultury i Sztuki prowadzi Państwowy Rejestr Muzeów, zwany dalej „Rejestrem”.
 
-2. W przypadku określonym w ust. 1, odpowiednio organ wykonawczy gminy, powiatu lub województwa ma prawo pierwszeństwa nabycia muzealiów. Jeżeli likwidowane muzeum utworzono w drodze komunalizacji mienia państwowego, nabycie tego mienia następuje nieodpłatnie.
+### 2.
 
-3. Jeżeli organ wykonawczy gminy, powiatu lub województwa nie skorzystał z prawa pierwszeństwa nabycia, podmiot, o którym mowa w art. 5 ust. 3, po uzgodnieniu z wojewodą, rozstrzyga o dalszym przeznaczeniu muzealiów.
+Minister Kultury i Sztuki uzależnia wpis Rejestru, w szczególności od znaczenia posiadanych przez muzeum zbiorów, zespołu kwalifikowanych pracowników, pomieszczeń i stałego źródła finansowania - zapewniających spełnianie statutowych celów muzeum.
 
-**Art. 27.** Szczegółowe zasady postępowania z muzealiami, w razie likwidacji muzeum państwowego, określa każdorazowo minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji, po zasięgnięciu opinii Rady do Spraw Muzeów.
+### 3.
 
-**Art. 28.** Muzealia, będące nieruchomościami, w momencie likwidacji muzeum podlegają bezzwłocznie wpisowi do rejestru zabytków, chyba że wejdą w skład innego muzeum.
+Minister Kultury i Sztuki określi, w drodze zarządzenia:
 
-**Art. 29.**
+### 1)
 
-1. Muzealia mogą być przenoszone poza teren muzeum, w którym są wpisane do inwentarza:
+zasady i tryb prowadzenia Rejestru,
 
-- **1)** za zgodą dyrektora muzeum, w przypadku:
-    - **a)** wypożyczenia innym muzeom,
-    - **b)** potrzeby konserwacji, badań lub zapewnienia bezpieczeństwa,
-    - **c)** ekspozycji na wystawach;
+### 2)
 
-- **2)** za zgodą podmiotu, o którym mowa w art. 5 ust. 1, oraz dyrektora, w przypadkach niewymienionych w pkt 1, jeżeli przeniesienie nie wpłynie ujemnie na działalność statutową muzeum.
+warunki i tryb dokonywania wpisów w Rejestrze,
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, warunki, sposób i tryb przenoszenia muzealiów, z uwzględnieniem w szczególności warunków i sposobu przenoszenia, przechowywania ich w nowym miejscu oraz opracowywania dla nich dokumentacji naukowo-konserwatorskiej.
+### 3)
 
-**Art. 29a.**
+okoliczności, w jakich można zarządzić kontrolę w celu ustalenia, czy muzeum spełnia nadal warunki wpisu do Rejestru.
 
-1. Muzealia, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeach będących instytucjami kultury nie mogą być wywożone za granicę na stałe, z wyjątkiem przypadków określonych w art. 26 i art. 42 ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury, gdy wywóz odbywa się w wykonaniu prawomocnego wyroku nakazującego zwrot zagranicznego narodowego dobra kultury, o którym mowa w art. 18 ust. 1 tej ustawy, na terytorium państwa Unii Europejskiej albo na podstawie pozwoleń, o których mowa w art. 39 ust. 1 lub art. 43 ust. 1 tej ustawy.
+### 4.
 
-2. Muzealia, które nie stanowią zabytków w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeach będących instytucjami kultury mogą być czasowo wywożone za granicę po uzyskaniu:
+Z dniem wpisu do Rejestru muzeum jest uprawnione do używania nazwy „muzeum rejestrowane”.
 
-- **1)** jednorazowego pozwolenia na czasowy wywóz muzealium za granicę albo
-- **2)** wielokrotnego pozwolenia indywidualnego na czasowy wywóz muzealium za granicę, albo
-- **3)** wielokrotnego pozwolenia ogólnego na czasowy wywóz muzealium za granicę.
+### 5.
 
-3. Do pozwoleń, o których mowa w ust. 2, stosuje się odpowiednio przepisy art. 53–57 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.
+Muzeum rejestrowane korzysta ze szczególnej ochrony i pomocy finansowej państwa.
 
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+### Art. 14.
 
-- **1)** zakres danych, które zawierają wnioski o wydanie pozwoleń, o których mowa w ust. 2,
-- **2)** dokumenty dołączane do wniosków, o których mowa w ust. 2 pkt 1 i 2,
-- **3)** wzory pozwoleń, o których mowa w ust. 2 – uwzględniając potrzebę zapewnienia skutecznej identyfikacji muzealiów, o których mowa w ust. 2, oraz konieczność wskazania we wniosku o wydanie pozwolenia, o którym mowa w ust. 2 pkt 3, imienia i nazwiska przynajmniej 2 osób uprawnionych do podpisania wykazu wywożonych muzealiów dołączanego do tego pozwolenia.
+### 1.
 
-**Art. 30.** Muzealia wpisane do inwentarzy muzeów państwowych lub samorządowych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym.
+Jeżeli muzeum rejestrowane przestało spełniać warunki wpisu do Rejestru, Minister Kultury i Sztuki wyznacza muzeum termin do ich spełnienia, a po jego bezskutecznym upływie skreśla z Rejestru.
 
-**Art. 30a.** Dostęp do informacji służących zapewnieniu bezpieczeństwa muzealiom ze względu na ochronę przed zagrożeniem pożarowym, kradzieżą i innego rodzaju niebezpieczeństwem, które grozi zniszczeniem lub utratą zbiorów, podlega ograniczeniu.
+### 2.
 
-**Art. 31.** Przepisy rozdziału 4 nie naruszają przepisów dotyczących ochrony narodowego zasobu archiwalnego oraz przepisów regulujących zasady zbywania mienia komunalnego.
+O wszczęciu postępowania w sprawie skreślenia z Rejestru oraz o jego wyniku Minister Kultury i Sztuki zawiadamia podmiot, o którym mowa w art. 5 ust. 1, i podaje ten fakt do publicznej wiadomości w sposób zwyczajowo przyjęty.
 
-**Art. 31a.** (uchylony)
+### Art. 15.
 
-#### Rozdział 4a Ochrona prawna rzeczy ruchomych o wartości historycznej, artystycznej lub naukowej wypożyczonych z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej
+Rozstrzygnięcie w sprawach wpisu i skreślenia z Rejestru następuje w drodze decyzji administracyjnej.
 
-**Art. 31a.**
+### Art. 16.
 
-1. Rzecz ruchoma o wartości historycznej, artystycznej lub naukowej wypożyczana z zagranicy na wystawę czasową organizowaną na terytorium Rzeczypospolitej Polskiej, zwana dalej „rzeczą ruchomą”, może zostać objęta ochroną prawną, jeżeli:
+Minister Kultury i Sztuki, po zasięgnięciu opinii Rady do Spraw Muzeów, może w muzeach rejestrowanych, bezpośrednio mu podległych, powierzyć swoje uprawnienia radzie powierniczej, w zakresie:
 
-- **1)** jej przywóz na terytorium Rzeczypospolitej Polskiej leży w interesie publicznym;
-- **2)** nie znajduje się na terytorium Rzeczypospolitej Polskiej;
-- **3)** jej przywóz na terytorium Rzeczypospolitej Polskiej jest zgodny z prawem;
-- **4)** nie została wywieziona z terytorium Rzeczypospolitej Polskiej niezgodnie z prawem;
-- **5)** zorganizowanie wystawy czasowej bez objęcia tej rzeczy ochroną prawną nie byłoby możliwe lub skutkowałoby nieproporcjonalnie wysokimi kosztami jej wystawienia w stosunku do kosztów zorganizowania wystawy;
-- **6)** wystawa czasowa będzie organizowana przez: o organizowaniu i prowadzeniu działalności kulturalnej lub
-    - **a)** instytucję kultury w rozumieniu ustawy z dnia 25 października 1991 r.
-    - **b)** muzeum niebędące instytucją kultury, wpisane do wykazu, o którym mowa w art. 5b ust. 1 – zwane dalej „organizatorem wystawy”.
+### 1)
 
-2. Ochrona prawna rzeczy ruchomej obejmuje okres nie dłuższy niż 12 miesięcy od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej.
+nadzoru nad wypełnianiem przez muzeum jego powinności wobec zbiorów i społeczeństwa,
 
-3. Ochrona prawna rzeczy ruchomej ustaje:
+### 2)
 
-- **1)** gdy upłynął okres, w jakim rzecz ruchoma była objęta ochroną prawną, określony w ewidencji, o której mowa w art. 31e ust. 1;
-- **2)** z dniem wywiezienia rzeczy ruchomej z terytorium Rzeczypospolitej Polskiej;
-- **3)** jeżeli rzecz ruchoma nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
+bezpośredniego nadzoru nad realizacją celów określonych w art. 1 ust. 1 i art. 2,
 
-4. Ochrona prawna rzeczy ruchomej ustaje z mocą od dnia jej wwiezienia na terytorium Rzeczypospolitej Polskiej, gdy rzecz ruchoma objęta ochroną prawną nie spełnia warunków, o których mowa w ust. 1 pkt 3 lub 4.
+### 3)
 
-5. Rzecz ruchoma objęta ochroną prawną nie podlega:
+oceny i zatwierdzania, przedstawionego przez dyrektora, projektu rocznego planu finansowego,
 
-- **1)** zajęciu w celu zabezpieczenia w postępowaniu cywilnym i administracyjnym;
-- **2)** egzekucji w sądowym i administracyjnym postępowaniu egzekucyjnym;
-- **3)** zajęciu w celu zabezpieczenia kar majątkowych, środków karnych o charakterze majątkowym oraz roszczeń o naprawienie szkody w postępowaniu karnym.
+### 4)
 
-**Art. 31b.**
+powoływania i odwoływania dyrektora muzeum.
 
-1. Organizator wystawy składa ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego wniosek o objęcie ochroną prawną rzeczy ruchomej, zwany dalej „wnioskiem”, co najmniej na 6 miesięcy przed planowanym wwiezieniem tej rzeczy na terytorium Rzeczypospolitej Polskiej.
+### Art. 17.
 
-2. W przypadku stwierdzenia uchybień formalnych wniosku minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+Właściwe naczelne i centralne organy administracji rządowej, wojewodowie oraz organy gmin lub związków komunalnych mogą w muzeach rejestrowanych bezpośrednio im podległych powierzyć - za zgodą Ministra Kultury i Sztuki, po zasięgnięciu opinii Rady do Spraw Muzeów - swoje uprawnienia radzie powierniczej, w zakresie określonym w art. 16.
 
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej treść wniosku oraz określa termin, w którym osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej mogą zgłaszać zastrzeżenia co do spełnienia przez wskazaną we wniosku rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4, nie krótszy jednak niż 30 dni od dnia udostępnienia treści wniosku.
+### Art. 18.
 
-4. Do zastrzeżenia dołącza się dokumenty uprawdopodobniające niespełnienie przez rzecz ruchomą warunków, o których mowa w art. 31a ust. 1 pkt 2, 3 lub 4.
+### 1.
 
-5. W przypadku zgłoszenia zastrzeżenia minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wzywa organizatora wystawy do uzupełnienia wniosku w wyznaczonym terminie, nie krótszym jednak niż 7 dni i nie dłuższym niż 30 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia. Treść uzupełnionego wniosku udostępnia się na stronie podmiotowej w Biuletynie Informacji Publicznej.
+W muzeum, w którym działa rada powiernicza, nie powołuje się rady muzeum, a dotychczasowa rada ulega rozwiązaniu.
 
-6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po upływie terminów, o których mowa w ust. 2, 3 lub 5, zasięga opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie spełniania warunków, o których mowa w art. 31a ust. 1.
+### 2.
 
-7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udostępnia na stronie podmiotowej w Biuletynie Informacji Publicznej informację o objęciu rzeczy ruchomej ochroną prawną albo informację o nieobjęciu rzeczy ruchomej ochroną prawną.
+Przekazanie uprawnień, o których mowa w art. 16 i 17, wymaga zasięgnięcia opinii Rady Ochrony Pamięci Walk i Męczeństwa, w zakresie jej właściwości.
 
-8. W sprawach o objęcie rzeczy ruchomej ochroną prawną nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052).
+### Art. 19.
 
-9. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór wniosku oraz dokumenty dołączane do wniosku, uwzględniając umożliwienie skutecznej identyfikacji rzeczy ruchomej, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej, oraz umożliwienie dokonania oceny spełnienia warunków określonych w art. 31a ust. 1.
+### 1.
 
-**Art. 31c.**
+Rada powiernicza składa się z 9-15 członków. Pracami rady kieruje przewodniczący. Członków rady oraz przewodniczącego powołuje i odwołuje organ, o którym mowa w art. 16 i art. 17.
 
-1. Organizator wystawy zawiadamia niezwłocznie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego o wwiezieniu na terytorium Rzeczypospolitej Polskiej i wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną.
+### 2.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór zawiadomienia o wwiezieniu na terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną oraz wzór zawiadomienia o wywiezieniu z terytorium Rzeczypospolitej Polskiej rzeczy ruchomej objętej ochroną prawną, uwzględniając umożliwienie skutecznej identyfikacji tej rzeczy, w tym konieczność podania imienia i nazwiska autora tej rzeczy, a także konieczność podania nazwy, siedziby i adresu organizatora wystawy oraz imienia, nazwiska i adresu lub nazwy, siedziby i adresu właściciela lub posiadacza rzeczy ruchomej.
+Szczegółowy tryb pracy powierniczej określa regulamin uchwalany przez radę i zatwierdzany przez organ, o którym mowa w art. 16 i art. 17.
 
-**Art. 31d.** W przypadku uzyskania informacji o niespełnieniu warunków, o których mowa w art. 31a ust. 1 pkt 3 lub 4, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii państwowej instytucji kultury wyspecjalizowanej w zakresie muzealnictwa i ochrony zbiorów w sprawie niespełnienia tych warunków, niezwłocznie informuje organizatora wystawy o ustaniu ochrony prawnej rzeczy ruchomej.
+### 3.
 
-**Art. 31e.**
+Kadencja rady powierniczej trwa 5 lat.
 
-1. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi i aktualizuje ewidencję rzeczy ruchomych objętych ochroną prawną prowadzoną w formie kart ewidencyjnych.
+### 4.
 
-2. Ewidencja zawiera:
+Członkostwo w radzie powierniczej wygasa przed upływem kadencji w razie:
 
-- **1)** określenie rzeczy ruchomej objętej ochroną prawną, w tym imię i nazwisko autora tej rzeczy;
-- **2)** wskazanie planowanego terminu jej wwiezienia na terytorium Rzeczypospolitej Polskiej i wywiezienia z terytorium Rzeczypospolitej Polskiej;
-- **3)** imię, nazwisko i adres lub nazwę, siedzibę i adres właściciela lub posiadacza wypożyczającego rzecz ruchomą objętą ochroną prawną;
-- **4)** dane dotyczące wystawy czasowej, na której będzie eksponowana rzecz ruchoma objęta ochrona prawną, w tym nazwę, siedzibę i adres organizatora wystawy;
-- **5)** wskazanie okresu, w jakim rzecz ruchoma jest objęta ochroną prawną;
-- **6)** informację o ustaniu ochrony prawnej rzeczy ruchomej z przyczyn określonych w art. 31a ust. 3 pkt 3.
+### 1)
 
-3. W Biuletynie Informacji Publicznej udostępnia się informacje określone w ust. 2 pkt 1 i 3–6.
+śmierci,
 
-4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wzór karty ewidencyjnej, uwzględniając zakres danych objętych ewidencją, w tym potrzebę umożliwienia skutecznej identyfikacji rzeczy ruchomej objętej ochroną prawną.
+### 2)
 
-#### Rozdział 5 Pracownicy muzeów
+zrzeczenia się,
 
-**Art. 32.**
+### 3)
 
-1. Pracownicy zatrudnieni w muzeach na stanowiskach, na których realizuje się zadania związane z:
+skazania prawomocnym wyrokiem na utratę praw publicznych,
 
-- **1)** gromadzeniem i naukowym opracowywaniem zbiorów,
-- **2)** urządzaniem wystaw i udostępnianiem zbiorów do celów edukacyjnych i naukowych,
-- **3)** organizowaniem badań i ekspedycji naukowych, w tym archeologicznych,
-- **4)** prowadzeniem działalności edukacyjnej, artystycznej, upowszechniającej kulturę lub wydawniczej – tworzą zawodową grupę muzealników.
+### 4)
 
-2. Pracowników, którzy tworzą zawodową grupę muzealników, zatrudnia się na stanowiskach kustosza dyplomowanego, kustosza, adiunkta i asystenta.
+ubezwłasnowolnienia,
 
-3. Pracownik należący do zawodowej grupy muzealników, któremu powierzono zadanie z zakresu urządzania wystawy, polegające na autorskim opracowaniu i zorganizowaniu wystawy oraz merytorycznym nadzorze nad wystawą pełni funkcję kuratora wystawy.
+### 5)
 
-**Art. 32a.**
+odwołania z powodu niewykonywania obowiązków członka rady wynikających z przepisów ustawy lub regulaminu.
 
-1. Na stanowisku kustosza dyplomowanego może być zatrudniona osoba, która posiada:
+### Art. 20.
 
-- **1)** stopień naukowy doktora w dziedzinie związanej z zakresem gromadzonych w muzeum zbiorów lub stopień doktora sztuki w tej dziedzinie;
-- **2)** dorobek zawodowy w zakresie działalności muzealniczej;
-- **3)** co najmniej 3-letni staż pracy w muzeach lub w znajdujących się poza terytorium Rzeczypospolitej Polskiej podmiotach, które prowadzą działalność muzealniczą.
+Muzeum rejestrowanemu, przy nabywaniu dóbr kultury, przysługuje:
 
-2. Na stanowisku kustosza może być zatrudniona osoba, która posiada:
+### 1)
 
-- **1)** dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów;
-- **2)** dyplom ukończenia studiów podyplomowych związanych z zakresem gromadzonych w muzeum zbiorów lub dorobek zawodowy w zakresie działalności muzealniczej;
-- **3)** co najmniej 2-letni staż pracy w muzeach lub w podmiotach, o których mowa w ust. 1 pkt 3.
+prawo pierwszeństwa zakupu od podmiotów prowadzących działalność polegającą na oferowaniu do sprzedaży dóbr kultury - w terminie 14 dni od dnia zgłoszenia przez muzeum gotowości zakupu,
 
-3. Na stanowisku adiunkta może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów.
+### 2)
 
-4. Na stanowisku asystenta może być zatrudniona osoba, która posiada dyplom ukończenia studiów pierwszego stopnia związanych z zakresem gromadzonych w muzeum zbiorów.
+prawo pierwokupu bezpośrednio na aukcjach, po cenie wylicytowanej.
 
-**Art. 32b.**
+### Rozdział 4 Muzealia
 
-1. W muzeach mogą być zatrudnieni specjaliści w zawodach dotyczących działalności muzealniczej realizujący zadania związane z:
+### Art. 21.
 
-- **1)** przechowywaniem i katalogowaniem gromadzonych zbiorów;
-- **2)** zabezpieczaniem i konserwacją zbiorów, w tym zabytków nieruchomych oraz nieruchomych obiektów kultury materialnej i przyrody;
-- **3)** zapewnieniem właściwych warunków zwiedzania muzeum i korzystania ze zbiorów.
+### 1.
 
-2. Specjalistów zatrudnia się na stanowiskach:
+Muzealia wchodzące w skład muzeum muszą być zinwentaryzowane.
 
-- **1)** starszego konserwatora;
-- **2)** konserwatora;
-- **3)** adiunkta konserwatorskiego;
-- **4)** starszego asystenta konserwatorskiego;
-- **5)** asystenta konserwatorskiego;
-- **6)** starszego dokumentalisty;
-- **7)** dokumentalisty;
-- **8)** młodszego dokumentalisty;
-- **9)** starszego renowatora;
-- **10)** renowatora;
-- **11)** renowatora przyuczonego;
-- **12)** młodszego renowatora;
-- **13)** przewodnika muzealnego.
+### 2.
 
-**Art. 32c.**
+Minister Kultury i Sztuki określi, w drodze rozporządzenia, zasady i sposób ewidencjonowania dóbr kultury w muzeach.
 
-1. Na stanowisku starszego konserwatora może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich odpowiadających danej specjalności oraz co najmniej 6-letni staż pracy.
+### Art. 22.
 
-2. Na stanowisku konserwatora może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej 5-letni staż pracy.
+Muzealia stanowiące własność muzeum wpisuje się do inwentarza.
 
-3. Na stanowisku adiunkta konserwatorskiego może być zatrudniona osoba, która posiada:
+### Art. 23.
 
-- **1)** dyplom ukończenia studiów pierwszego stopnia związanych z zakresem gromadzonych w muzeum zbiorów oraz posiada co najmniej 5-letni staż pracy albo
-- **2)** dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej 3-letni staż pracy.
+### 1.
 
-4. Na stanowisku starszego asystenta konserwatorskiego może być zatrudniona osoba, która posiada:
+Muzea państwowe i komunalne mogą dokonywać zamiany muzealiów, a także zbywać je w inny sposób, za zgodą Ministra Kultury i Sztuki. Zgoda na zbycie muzealiów może być udzielona tylko w wyjątkowych i uzasadnionych przypadkach. Środki uzyskane ze sprzedaży muzealiów mogą być przeznaczone wyłącznie na uzupełnienie zbiorów muzeum.
 
-- **1)** dyplom ukończenia studiów pierwszego stopnia związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej 3-letni staż pracy albo
-- **2)** dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej roczny staż pracy.
+### 2.
 
-5. Na stanowisku asystenta konserwatorskiego może być zatrudniona osoba, która posiada:
+Minister Kultury i Sztuki może wyrazić zgodę na zamianę muzealiów, określoną w ust. 1, na wniosek dyrektora muzeum, zgłoszony za pośrednictwem właściwego podmiotu, o którym mowa w art. 5 ust. 2 i 3.
 
-- **1)** dyplom ukończenia studiów pierwszego stopnia związanych z zakresem gromadzonych w muzeum zbiorów lub
-- **2)** dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów.
+### 3.
 
-6. Na stanowisku starszego dokumentalisty może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej 2-letni staż pracy.
+Minister Kultury i Sztuki może wyrazić zgodę na sprzedaż muzealiów, określoną w ust. 1, na wniosek dyrektora muzeum, złożony za pośrednictwem właściwego podmiotu, o którym mowa w art. 5 ust. 2 i 3, zaopiniowany przez kolegium doradcze, jeżeli takie zostało powołane - po zasięgnięciu opinii Rady do Spraw Muzeów.
 
-7. Na stanowisku dokumentalisty może być zatrudniona osoba, która posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich związanych z zakresem gromadzonych w muzeum zbiorów oraz co najmniej roczny staż pracy.
+### 4.
 
-8. Na stanowisku starszego renowatora może być zatrudniona osoba, która posiada wykształcenie średnie lub średnie branżowe oraz co najmniej 3-letni staż pracy.
+W sprawach z zakresu działania Rady Ochrony Pamięci Walk i Męczeństwa czynności, o których mowa w ust. 1-3, wymagają zasięgnięcia jej opinii.
 
-9. Na stanowisku renowatora może być zatrudniona osoba, która posiada wykształcenie średnie lub średnie branżowe oraz co najmniej roczny staż pracy.
+### Art. 24.
 
-10. Na stanowisku renowatora przyuczonego może być zatrudniona osoba, która posiada wykształcenie średnie, średnie branżowe, zasadnicze zawodowe lub zasadnicze branżowe oraz co najmniej 2-letni staż pracy.
+### 1.
 
-**Art. 33.** Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323) . Do pracowników tych przepis art. 34 stosuje się odpowiednio.
+Minister Kultury i Sztuki, na wniosek dyrektora muzeum państwowego lub komunalnego, wyraża zgodę na skreślenie z inwentarza, w razie zmiany statusu prawnego muzealium lub błędu w zapisie inwentarzowym.
 
-**Art. 33a.**
+### 2.
 
-1. Posiadanie kwalifikacji wymaganych na poszczególnych stanowiskach w muzeach stwierdza pracodawca na podstawie świadectw pracy, dyplomów poświadczających zdobyte wykształcenie, świadectw lub zaświadczeń o ukończeniu kursów, szkoleń specjalistycznych, praktyk zawodowych, a w przypadku stanowiska kustosza dyplomowanego i kustosza – także zaświadczenia o posiadaniu dorobku zawodowego.
+W razie stwierdzenia błędów w zapisie inwentarzowym, skreślenie może być nakazane decyzją Ministra Kultury i Sztuki, po uzgodnieniu z Radą do Spraw Muzeów.
 
-2. Do stażu pracy zalicza się okresy zatrudnienia na stanowiskach, na których realizuje się zadania związane z działalnością muzealniczą, naukową, upowszechnianiem kultury lub ochroną zabytków i opieką nad zabytkami w:
+### Art. 25.
 
-- **1)** muzeach, instytucjach kultury innych niż muzea, archiwach, uczelniach, instytutach naukowych, instytutach badawczych, urzędach administracji publicznej, państwowych lub samorządowych jednostkach organizacyjnych;
-- **2)** podmiotach znajdujących się poza terytorium Rzeczypospolitej Polskiej, które prowadzą działalność taką jak podmioty, o których mowa w pkt 1.
+### 1.
 
-**Art. 33b.**
+Muzeum może pobierać opłaty za przygotowane i udostępnianie zbiorów w celu kopiowania muzealiów albo sporządzania reprodukcji lub fotografii, a także za wypożyczenie do ekspozycji muzealiów znajdujących się w jego posiadaniu.
 
-1. Posiadanie dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego i kustosza stwierdza minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek zainteresowanego, po zasięgnięciu opinii komisji kwalifikacyjnej.
+### 2.
 
-2. Do dorobku zawodowego zalicza się:
+Nie pobiera się opłat za użyczenia muzealiów między muzeami krajowymi.
 
-- **1)** autorstwo lub współautorstwo publikacji naukowych, popularnonaukowych i informacyjnych;
-- **2)** autorstwo lub współautorstwo projektów wystawienniczych lub kierowanie tymi projektami, lub inne formy udziału w tych projektach;
-- **3)** prowadzenie badań naukowych i prac dokumentacyjnych;
-- **4)** uczestnictwo w krajowych lub międzynarodowych programach badawczych;
-- **5)** udział w krajowych lub międzynarodowych konferencjach naukowych lub udział w pracach komitetów organizacyjnych takich konferencji;
-- **6)** otrzymane nagrody i wyróżnienia;
-- **7)** kierowanie projektami organizowanymi we współpracy z innymi instytucjami krajowymi lub zagranicznymi, które realizują zadania związane z działalnością kulturalną;
-- **8)** udział w pracach komitetów redakcyjnych i rad naukowych czasopism;
-- **9)** członkostwo w krajowych lub międzynarodowych organizacjach lub towarzystwach naukowych, muzealnych, konserwatorskich i innych o charakterze twórczym;
-- **10)** osiągnięcia w zakresie dydaktyki, edukacji i upowszechniania wiedzy;
-- **11)** osiągnięcia w dziedzinie konserwacji zbiorów;
-- **12)** udział w stażach w instytucjach krajowych lub zagranicznych lub kierowanie takimi stażami.
+### Art. 26.
 
-**Art. 33c.**
+### 1.
 
-1. Do wniosku o stwierdzenie posiadania dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego albo kustosza dołącza się dokumenty potwierdzające ten dorobek.
+W razie likwidacji muzeum komunalnego, podmiot, o którym mowa w art. 5 ust. 3, zapewnia muzealiom warunki należytego przechowywania.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wydaje zainteresowanemu zaświadczenie o posiadaniu albo braku posiadania dorobku zawodowego wymaganego na stanowisku kustosza dyplomowanego albo kustosza.
+### 2.
 
-**Art. 33d.**
+W przypadku określonym w ust. 1 wojewoda ma prawo pierwszeństwa nabycia muzealiów. Jeżeli likwidowane muzeum utworzono w drodze komunalizacji mienia państwowego, nabycie następuje nieodpłatnie.
 
-1. Komisja kwalifikacyjna jest organem opiniodawczo-doradczym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego w sprawach opiniowania wniosków o stwierdzenie posiadania dorobku zawodowego.
+### 3.
 
-2. Członków komisji kwalifikacyjnej powołuje i odwołuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, po zasięgnięciu opinii Rady do Spraw Muzeów, spośród osób wyróżniających się wiedzą merytoryczną, osiągnięciami zawodowymi oraz dorobkiem w zakresie działalności muzealniczej.
+Jeżeli wojewoda nie skorzystał z prawa pierwszeństwa nabycia, podmiot, o którym mowa w art. 5 ust. 3, po uzgodnieniu z wojewódzkim konserwatorem zabytków, podejmuje decyzję o dalszym przeznaczeniu muzealiów.
 
-3. Komisja kwalifikacyjna składa się z 5 członków.
+### Art. 27.
 
-4. Członkowie komisji kwalifikacyjnej wybierają ze swojego składu przewodniczącego komisji, który kieruje jej pracami.
+Szczegółowe zasady postępowania z muzealiami, w razie likwidacji muzeum państwowego, określa każdorazowo Minister Kultury i Sztuki, w drodze decyzji, po zasięgnięciu opinii Rady do Spraw Muzeów.
 
-5. Komisja kwalifikacyjna działa na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+### Art. 28.
 
-**Art. 34.** Muzealnik w czasie pozostawania w stosunku pracy w muzeum przestrzega ogólnie przyjętych norm etyki zawodowej, a w szczególności nie prowadzi handlu przedmiotami pozostającymi w zakresie zainteresowania muzeum i nie podejmuje działań, jak kolekcjonerskich, wykonywania ekspertyz i wycen przedmiotów, mogących powodować konflikt interesów z zatrudniającym go muzeum.
+Muzealia, będące nieruchomościami, w momencie likwidacji muzeum podlegają bezzwłocznie wpisowi do rejestru zabytków, chyba że wejdą w skład innego muzeum.
 
-#### Rozdział 5a Przepis karny
+### Art. 29.
 
-**Art. 34a.**
+### 1.
 
-1. Kto bez pozwolenia wywozi za granicę muzealium, które nie stanowi zabytku w rozumieniu art. 3 pkt 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, wpisane do inwentarza muzealiów w muzeum będącym instytucją kultury lub po wywiezieniu go za granicę nie sprowadza do kraju w okresie ważności pozwolenia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+Muzealia mogą być przenoszone poza teren muzeum, w którym wpisane są do inwentarza, w przypadkach:
 
-2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+### 1)
 
-3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+wypożyczenia innym muzeom,
 
-4. W razie skazania za przestępstwo określone w ust. 1 sąd orzeka, a w razie skazania za przestępstwo określone w ust. 2 sąd może orzec, nawiązkę na wskazany cel społeczny związany z opieką nad zabytkami w wysokości od trzykrotnego do trzydziestokrotnego minimalnego wynagrodzenia przewidzianego w przepisach o minimalnym wynagrodzeniu za pracę.
+### 2)
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+potrzeby konserwacji, badań lub zapewnienia bezpieczeństwa,
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+### 3)
 
+ekspozycji na wystawach,
+
+### 4)
+
+innych, uzasadnionych - za zgodą podmiotu, o którym mowa w art. 5 ust. 1.
+
+### 2.
+
+Minister Kultury i Sztuki określi, w drodze zarządzenia, warunki przenoszenia muzealiów w przypadkach, o których mowa w ust. 1.
+
+### Art. 30.
+
+Muzealia wpisane do inwentarzy muzeów państwowych lub komunalnych nie podlegają egzekucji na podstawie tytułu wykonawczego w sądowym lub administracyjnym postępowaniu egzekucyjnym.
+
+### Art. 31.
+
+Przepisy rozdziału 4 nie naruszają przepisów dotyczących ochrony narodowego zasobu archiwalnego oraz przepisów regulujących zasady zbywania mienia komunalnego.
+
+### Rozdział 5 Pracownicy muzeów
+
+### Art. 32.
+
+### 1.
+
+Pracownicy zatrudnieni na stanowiskach związanych z działalnością podstawową muzeów tworzą zawodową grupę muzealników, do której wchodzą asystenci, adiunkci, kustosze i kustosze dyplomowani.
+
+### 2.
+
+Pracownicy, o których mowa w ust. 1, powinni posiadać kwalifikacje muzealnicze.
+
+### 3.
+
+W muzeach mogą być zatrudnieni specjaliści w innych zawodach związanych z działalnością muzealną.
+
+### 4.
+
+Minister Kultury i Sztuki określi, w drodze rozporządzenia, wymagania kwalifikacyjne uprawniające do zajmowania stanowisk w muzeach oraz tryb ich stwierdzania.
+
+### Art. 33.
+
+Muzea prowadzące lub koordynujące prace naukowe mogą zatrudniać pracowników naukowych i badawczo-technicznych, na zasadach określonych w ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ([Dz. U. z 1991 r. Nr 44, poz. 194](https://api.sejm.gov.pl/eli/acts/DU/1991/194/text.html) i [Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html) i [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html) oraz z [1996 r. Nr 41, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1996/175/text.html) i [Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html)). Do pracowników tych przepis art. 34 stosuje się odpowiednio.
+
+### Art. 34.
+
+Muzealnik w czasie pozostawania w stosunku pracy w muzeum przestrzega ogólnie przyjętych norm etyki zawodowej, a w szczególności nie prowadzi handlu przedmiotami pozostającymi w zakresie zainteresowania muzeum i nie podejmuje działań, jak kolekcjonerskich, wykonywania ekspertyz i wycen przedmiotów, mogących powodować konflikt interesów z zatrudniającym go muzeum.
+
+### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 35.
+
+W ustawie z dnia 15 lutego 1962 r. o ochronie dóbr kultury i o muzeach ([Dz. U. Nr 10, poz. 48](https://api.sejm.gov.pl/eli/acts/DU/1962/48/text.html), z [1983 r. Nr 38, poz. 173](https://api.sejm.gov.pl/eli/acts/DU/1983/173/text.html), z [1989 r. Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html) oraz z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 56, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/1990/322/text.html) oraz z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w tytule ustawy skreśla się wyrazy „i o muzeach”;
+
+### 2)
+
+w art. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+wpisane w muzeach do inwentarza i wchodzące w skład bibliotek, z wyjątkiem materiałów wchodzących w skład narodowego zasobu archiwalnego, których ochronę regulują odrębne przepisy,
+
+” ;
+
+### 3)
+
+w tytule rozdziału III skreśla się wyrazy „i nadzoru nad muzeami”;
+
+### 4)
+
+w art. 7 skreśla się wyrazy „i wszystkimi muzeami”;
+
+### 5)
+
+art. 9 otrzymuje brzmienie:
+
+„
+
+### Art. 9.
+
+Bezpośredni nadzór nad państwowymi kolekcjami i zbiorami pozamuzealnymi sprawują Minister Kultury i Sztuki, inni ministrowie (kierownicy urzędów centralnych), osoby prawne oraz jednostki organizacyjne nie posiadające osobowości prawnej, stosownie do swojego zakresu działania.
+
+” ;
+
+### 6)
+
+skreśla się art. 45-54 oraz oznaczenie rozdziału VIII;
+
+### 7)
+
+skreśla się art. 61-66 oraz oznaczenie rozdziału X;
+
+### 8)
+
+w tytule rozdziału XI skreśla się wyrazy „i w zbiorach muzealnych”;
+
+### 9)
+
+w art. 67 wyrazy „Muzea i zabytki nieruchome” zastępuje się wyrazami „Zabytki nieruchome”;
+
+### 10)
+
+skreśla się art. 69.
+
+### Art. 36.
+
+W ustawie z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ([Dz. U. z 1991 r. Nr 30, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1991/127/text.html), [Nr 103, poz. 446](https://api.sejm.gov.pl/eli/acts/DU/1991/446/text.html) i [Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1993 r. Nr 47, poz. 212](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.html) i [Nr 131, poz. 629](https://api.sejm.gov.pl/eli/acts/DU/1993/629/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), [Nr 31, poz. 118](https://api.sejm.gov.pl/eli/acts/DU/1994/118/text.html), [Nr 84, poz. 384](https://api.sejm.gov.pl/eli/acts/DU/1994/384/text.html), [Nr 85, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/1994/388/text.html), [Nr 89, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/1994/415/text.html) i [Nr 123, poz. 601](https://api.sejm.gov.pl/eli/acts/DU/1994/601/text.html), z [1995 r. Nr 99, poz. 486](https://api.sejm.gov.pl/eli/acts/DU/1995/486/text.html) oraz z [1996 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1996/33/text.html), [Nr 90, poz. 405](https://api.sejm.gov.pl/eli/acts/DU/1996/405/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html)) w art. 40 po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Muzeum rejestrowane zwolnione jest od opłat z tytułu użytkowania wieczystego, użytkowania i zarządu gruntami i budynkami, stanowiącymi własność Skarbu Państwa.
+
+”
+
+### Art. 37.
+
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. Nr 9, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1991/31/text.html) i [Nr 101, poz. 444](https://api.sejm.gov.pl/eli/acts/DU/1991/444/text.html), z [1992 r. Nr 21, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1992/86/text.html), z [1994 r. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html) oraz z [1996 r. Nr 91, poz. 409](https://api.sejm.gov.pl/eli/acts/DU/1996/409/text.html) i [Nr 149, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1996/704/text.html)) w art. 7 w ust. 1 po pkt 10 dodaje się pkt 10a w brzmieniu:
+
+„
+
+### 10a)
+
+budynki i grunty we władaniu muzeów rejestrowanych,
+
+” .
+
+### Art. 38.
+
+W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej ([Dz. U. Nr 114, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/1991/493/text.html), z [1994 r. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) oraz z [1996 r. Nr 90, poz. 407](https://api.sejm.gov.pl/eli/acts/DU/1996/407/text.html)) art. 40 otrzymuje brzmienie:
+
+„
+
+### Art. 40.
+
+Przepisy ustawy nie naruszają przepisów ustawy z dnia 15 lutego 1962 r. o ochronie dóbr kultury ([Dz. U. Nr 10, poz. 48](https://api.sejm.gov.pl/eli/acts/DU/1962/48/text.html), z [1983 r. Nr 38, poz. 173](https://api.sejm.gov.pl/eli/acts/DU/1983/173/text.html), z [1989 r. Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 56, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/1990/322/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 5, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1997/24/text.html)), ustawy z dnia 9 kwietnia 1968 r. o bibliotekach ([Dz. U. Nr 12, poz. 63](https://api.sejm.gov.pl/eli/acts/DU/1968/63/text.html), z [1984 r. Nr 26, poz. 129](https://api.sejm.gov.pl/eli/acts/DU/1984/129/text.html), z [1989 r. Nr 29, poz. 155](https://api.sejm.gov.pl/eli/acts/DU/1989/155/text.html) i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) oraz z [1996 r. Nr 152, poz. 722](https://api.sejm.gov.pl/eli/acts/DU/1996/722/text.html)) oraz ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24) w zakresie prowadzenia działalności kulturalnej w formach określonych w tych ustawach.
+
+”
+
+### Art. 39.
+
+Do czasu wydawania przepisów wykonawczych na podstawie niniejszej ustawy zachowują moc dotychczasowe przepisy wykonawcze dotyczące muzeów, wydane na podstawie ustawy wymienionej w art. 35, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy, jeżeli nie są z nią sprzeczne.
+
+### Art. 40.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

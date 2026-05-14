@@ -8,11 +8,9 @@ pos: 2270
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Instytucie Europy Środkowej
-
-*USTAWA dnia 9 listopada 2018 r.*
+# Ustawa z dnia 9 listopada 2018 r. o Instytucie Europy Środkowej [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,263 +22,728 @@ domain: null
 | Data ogłoszenia | 2018-11-09 |
 | Data wydania | 2018-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002270) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2270/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2270/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2270) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa organizację i zadania Europy Środkowej, zwanego dalej „Instytutem”.
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organy i organizacja Instytutu](#chpt_2) [Rozdział 3 - Gospodarka finansowa Instytutu](#chpt_3) [Rozdział 4 - Zmiany w przepisach](#chpt_4) [Rozdział 5 - Przepisy przejściowe i końcowe](#chpt_5)
 
-**Art. 2.**
+TOC
 
-1. Instytut jest państwową osobą prawną.
+## Treść ustawy
 
-2. Siedzibą jest Lublin.
+### Rozdział 1 Przepisy ogólne
 
-3. Prezes Rady Ministrów, drodze zarządzenia, nadaje Instytutowi statut, którym określa organizację wewnętrzną oraz tryb pracy organów Instytutu, mając na względzie sprawne wykonywanie zadań przez Instytut oraz możliwość tworzenia oddziałów zamiejscowych Instytutu.
+### Art. 1.
 
-**Art. 3.** Do zadań należy:
+Ustawa określa organizację i zadania Instytutu Europy Środkowej, zwanego dalej „Instytutem”.
 
-**Art. 4.**
+### Art. 2.
 
-1. Nadzór nad Instytutem sprawuje Prezes Rady Ministrów.
+### 1.
 
-2. Czynności wynikające nadzoru nad Instytutem wykonuje, imieniu Prezesa Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów.
+Instytut jest państwową osobą prawną.
 
-3. Nadzór, którym mowa ust. 1, obejmuje nadzór nad:
+### 2.
 
-- **1)** zgodnością działań przepisami prawa i statutem;
-- **2)** realizacją przez Instytut zadań, których mowa art. 3;
-- **3)** prawidłowością wydatkowania środków publicznych.
+Siedzibą Instytutu jest Lublin.
 
-5. Dyrektor i Rada są zobowiązani do realizacji zaleceń pokontrolnych wydanych ramach realizacji nadzoru.
+### 3.
 
-6. Szef Kancelarii Prezesa Rady Ministrów ma prawo wglądu do dokumentów i może żądać niezbędnych informacji od Dyrektora Instytutu.
+Prezes Rady Ministrów, w drodze zarządzenia, nadaje Instytutowi statut, w którym określa organizację wewnętrzną oraz tryb pracy organów Instytutu, mając na względzie sprawne wykonywanie zadań przez Instytut oraz możliwość tworzenia oddziałów zamiejscowych Instytutu.
 
-**Art. 5.**
+### Art. 3.
 
-1. W skład mogą wchodzić oddziały zamiejscowe, tym utworzone poza terytorium Rzeczypospolitej Polskiej, jako wyodrębnione jednostki organizacyjne.
+Do zadań Instytutu należy:
 
-2. Organizację oddziału zamiejscowego i zakres jego zadań określa regulamin oddziału nadany przez Dyrektora Instytutu.
+### 1)
 
-#### Rozdział 2 Organy i organizacja
+prowadzenie działalności analitycznej wspierającej działania polityczne na rzecz budowania współpracy z państwami Europy Środkowej i Europy Środkowo-Wschodniej;
 
-**Art. 6.** Organami są:
+### 2)
 
-**Art. 7.**
+współpraca z zagranicznymi podmiotami zajmującymi się stosunkami międzynarodowymi, ze szczególnym uwzględnieniem podmiotów mających siedzibę w państwach Europy Środkowej i Europy Środkowo-Wschodniej;
 
-1. Dyrektora powołuje i odwołuje Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych oraz Rady Instytutu.
+### 3)
 
-2. Dyrektor powołuje nie więcej niż trzech zastępców Dyrektora i wyznacza zakres ich zadań. Dyrektor odwołuje zastępców Dyrektora Instytutu.
+prowadzenie badań naukowych w dziedzinie nauk społecznych i humanistycznych, ze szczególnym uwzględnieniem stosunków międzynarodowych, polityki zagranicznej oraz planowanych projektów współpracy międzynarodowej i transgranicznej w Europie Środkowej i Europie Środkowo-Wschodniej;
 
-3. Prezes Rady Ministrów odwołuje Dyrektora przypadku:
+### 4)
 
-- **1)** rezygnacji ze stanowiska;
-- **2)** zaprzestania spełniania wymagań, których mowa art. 8 ust. 1 pkt 1 i 4–6.
+przygotowywanie analiz, ekspertyz i studiów z zakresu, o którym mowa w pkt 3;
 
-4. Prezes Rady Ministrów może każdym czasie odwołać Dyrektora Instytutu.
+### 5)
 
-5. W przypadkach, których mowa ust. 3 i 4, Prezes Rady Ministrów powierza zastępcy Dyrektora albo innemu pracownikowi pełnienie obowiązków Dyrektora do czasu powołania nowego Dyrektora Instytutu.
+współpraca z polskimi i zagranicznymi instytucjami, ośrodkami nauki, organizacjami społecznymi i osobami fizycznymi oraz promocja poza granicami Rzeczypospolitej Polskiej polskiej myśli społecznej w zakresie stosunków międzynarodowych, współpracy międzynarodowej oraz polityki zagranicznej i historycznej;
 
-**Art. 8.**
+### 6)
 
-1. Dyrektorem może być osoba, która:
+współpraca z jednostkami akademickimi, naukowymi, analitycznymi oraz eksperckimi, w tym zagranicznymi, na rzecz realizacji badań naukowych, o których mowa w pkt 3, oraz w celu pozyskiwania funduszy, a także komercjalizacja uzyskanych wyników badawczych;
 
-- **1)** korzysta pełni praw publicznych;
-- **2)** posiada wykształcenie wyższe magisterskie;
-- **3)** posiada co najmniej 3-letnie doświadczenie zarządzaniu oraz doświadczenie zawodowe zakresie zadań Instytutu, których mowa art. 3;
-- **4)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe;
-- **5)** nie została ukarana zakazem pełnienia funkcji związanych dysponowaniem środkami publicznymi, którym mowa art. 31 ust. 1 pkt 4 ustawy dnia 17 grudnia 2004 r. odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. 2018 r. 1458, 1669, 1693 i 2192);
-- **6)** okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała i nie służyła organach bezpieczeństwa państwa rozumieniu art. 2 ustawy dnia 18 października 2006 r. ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. 2017 r. 2186, późn. zm. ) oraz nie współpracowała tymi organami.
+### 7)
 
-2. Przed powołaniem na stanowisko Dyrektora osoba powoływana składa oświadczenie spełnieniu wymagań, których mowa ust. 1, a przypadku osób urodzonych przed dniem 1 sierpnia 1972 r. – także oświadczenie, którym mowa art. 7 ust. 1 ustawy dnia 18 października 2006 r. ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów, albo informację, której mowa art. 7 ust. 3a tej ustawy.
+przekazywanie analiz, ekspertyz i studiów, o których mowa w pkt 4, oraz ich wyników organom władzy publicznej;
 
-3. Wymagania, których mowa ust. 1 i 2, stosuje się do zastępców Dyrektora Instytutu.
+### 8)
 
-**Art. 9.**
+gromadzenie specjalistycznego księgozbioru i dokumentacji naukowej oraz organizowanie szkoleń z zakresu, o którym mowa w pkt 3;
 
-1. Powołanie, którym mowa art. 7 ust. 1 i 2, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów ustawy dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. 2018 r. 917, późn. zm. ).
+### 9)
 
-2. Wynagrodzenie Dyrektora ustala Szef Kancelarii Prezesa Rady Ministrów zgodnie przepisami ustawy dnia 3 marca 2000 r. wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. 2018 r. 1252 i 2215).
+organizowanie seminariów i konferencji w celu prezentowania wyników badań z zakresu, o którym mowa w pkt 3;
 
-4. Prezes Rady Ministrów określa, drodze rozporządzenia, wykaz stanowisk Instytucie, wymagane kwalifikacje oraz zasady wynagradzania pozostałych pracowników Instytutu, kierując się charakterem zadań Instytutu.
+### 10)
 
-**Art. 10.**
+upowszechnianie wiedzy o stanie i procesach zmian sytuacji międzynarodowej oraz rozwoju stosunków międzynarodowych, ze szczególnym uwzględnieniem państw Europy Środkowej i Europy Środkowo-Wschodniej, w tym prowadzenie działalności wydawniczej, zwłaszcza naukowej, oraz organizowanie szkoleń.
 
-1. Do zadań i obowiązków Dyrektora należy szczególności:
+### Art. 4.
 
-- **1)** kierowanie pracami Instytutu;
-- **2)** reprezentowanie na zewnątrz;
-- **3)** zapewnienie funkcjonowania i ciągłości pracy Instytutu;
-- **4)** podejmowanie czynności sprawach zakresu prawa pracy;
-- **5)** powoływanie i odwoływanie dyrektorów oddziałów zamiejscowych Instytutu;
-- **6)** opracowywanie rocznego planu działania Instytutu;
-- **7)** opracowywanie projektu rocznego planu finansowego Instytutu;
-- **8)** opracowywanie rocznego sprawozdania finansowego Instytutu;
-- **9)** sporządzanie rocznego sprawozdania działalności Instytutu;
-- **10)** sprawowanie zarządu nad mieniem Instytutu;
-- **11)** prowadzenie gospodarki finansowej Instytutu;
-- **12)** rozliczanie dotacji otrzymanych budżetu państwa.
+### 1.
 
-2. Dokumenty, których mowa ust. 1 pkt 6–9, Dyrektor przedstawia do zatwierdzenia Szefowi Kancelarii Prezesa Rady Ministrów.
+Nadzór nad Instytutem sprawuje Prezes Rady Ministrów.
 
-**Art. 11.**
+### 2.
 
-1. Do zadań Rady należy:
+Czynności wynikające z nadzoru nad Instytutem wykonuje, w imieniu Prezesa Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów.
 
-- **1)** opiniowanie, na wniosek Prezesa Rady Ministrów, kandydatów na stanowisko Dyrektora Instytutu;
-- **2)** opiniowanie projektów rocznych planów finansowych oraz projektów rocznych planów działalności Instytutu;
-- **3)** opiniowanie sprawozdania finansowego oraz sprawozdania rocznej działalności Instytutu;
-- **4)** wyrażanie opinii sprawach dotyczących działalności Instytutu, przedstawionych przez Prezesa Rady Ministrów, Szefa Kancelarii Prezesa Rady Ministrów, Dyrektora lub własnej inicjatywy.
+### 3.
 
-2. Rada ma prawo wglądu do dokumentów i może żądać niezbędnych informacji od Dyrektora Instytutu.
+Nadzór, o którym mowa w ust. 1, obejmuje nadzór nad:
 
-**Art. 12.**
+### 1)
 
-1. W skład Rady wchodzi siedmiu członków powoływanych przez Prezesa Rady Ministrów.
+zgodnością działań Instytutu z przepisami prawa i statutem;
 
-2. W skład Rady wchodzą:
+### 2)
 
-- **1)** przedstawiciel Prezesa Rady Ministrów;
-- **2)** przedstawiciel ministra właściwego do spraw zagranicznych;
-- **3)** pięć osób powoływanych na okres kadencji.
+realizacją przez Instytut zadań, o których mowa w art. 3;
 
-3. Kadencja członków Rady Instytutu, których mowa ust. 2 pkt 3, trwa 4 lata.
+### 3)
 
-4. Członkostwa Radzie nie można łączyć zatrudnieniem Instytucie.
+prawidłowością wydatkowania środków publicznych.
 
-**Art. 13.**
+### 4.
 
-1. Prezes Rady Ministrów odwołuje członków Rady przypadku:
+Kontrolę w ramach nadzoru przeprowadza się w trybie i na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej ([Dz. U. poz. 1092](https://api.sejm.gov.pl/eli/acts/DU/2011/1092/text.html)).
 
-- **1)** rezygnacji ze stanowiska;
-- **2)** zaprzestania spełniania wymagań, których mowa art. 14 pkt 1 i 3.
+### 5.
 
-2. Prezes Rady Ministrów może każdym czasie odwołać członka Rady Instytutu, którym mowa art. 12 ust. 2 pkt 1 i 2.
+Dyrektor Instytutu i Rada Instytutu są zobowiązani do realizacji zaleceń pokontrolnych wydanych w ramach realizacji nadzoru.
 
-3. W przypadku upływu kadencji, odwołania albo śmierci członka Rady Prezes Rady Ministrów powołuje nowego członka Rady.
+### 6.
 
-**Art. 14.** Członkiem Rady może być osoba, która:
+Szef Kancelarii Prezesa Rady Ministrów ma prawo wglądu do dokumentów Instytutu i może żądać niezbędnych informacji od Dyrektora Instytutu.
 
-#### Rozdział 3 Gospodarka finansowa
+### Art. 5.
 
-**Art. 16.** Przychodami są:
+### 1.
 
-**Art. 17.**
+W skład Instytutu mogą wchodzić oddziały zamiejscowe, w tym utworzone poza terytorium Rzeczypospolitej Polskiej, jako wyodrębnione jednostki organizacyjne.
 
-1. W zakresie niezbędnym do należytego wykonywania zadań, których mowa art. 3, Instytut może prowadzić działalność gospodarczą, szczególności przez komercjalizację wyników prowadzonych badań, działalność wydawniczą, szkoleniową oraz wynajem pomieszczeń i biur.
+### 2.
 
-2. Działalność gospodarcza podlega wyodrębnieniu pod względem finansowym i rachunkowym działalności, której mowa art. 3.
+Organizację oddziału zamiejscowego i zakres jego zadań określa regulamin oddziału nadany przez Dyrektora Instytutu.
 
-3. Działalność gospodarcza nie może być finansowana dotacji podmiotowej budżetu państwa.
+### Rozdział 2 Organy i organizacja Instytutu
 
-4. Dochód działalności gospodarczej służy wyłącznie realizacji zadań Instytutu, których mowa art. 3.
+### Art. 6.
 
-**Art. 18.**
+Organami Instytutu są:
 
-1. Instytut prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, zgodnie przepisami ustawy dnia 27 sierpnia 2009 r. finansach publicznych (Dz. 2017 r. 2077, późn. zm. ).
+### 1)
 
-2. Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Instytutu, uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej.
+Dyrektor Instytutu;
 
-3. Podstawę gospodarki finansowej okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego przez Szefa Kancelarii Prezesa Rady Ministrów stanowi projekt tego planu, zaopiniowany przez Radę Instytutu.
+### 2)
 
-4. Roczny plan finansowy obejmuje szczególności:
+Rada Instytutu.
 
-- **1)** planowane przychody, tym dotacje, których mowa art. 16 pkt 1 i 2;
-- **2)** planowane koszty;
-- **3)** planowane wydatki inwestycyjne;
-- **4)** stan środków obrotowych na początek i koniec roku;
-- **5)** planowany przyrost lub spadek środków obrotowych na początek i koniec roku;
-- **6)** źródła pokrycia planowanego niedoboru przychodów stosunku do kosztów.
+### Art. 7.
 
-**Art. 19.**
+### 1.
 
-1. Tworzy się następujące fundusze Instytutu:
+Dyrektora Instytutu powołuje i odwołuje Prezes Rady Ministrów, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych oraz Rady Instytutu.
 
-- **1)** fundusz statutowy;
-- **2)** fundusz rezerwowy;
-- **3)** zakładowy fundusz świadczeń socjalnych;
-- **4)** inne fundusze, jeżeli obowiązek ich utworzenia wynika odrębnych przepisów.
+### 2.
 
-2. Zysk netto powiększa fundusz rezerwowy.
+Dyrektor Instytutu powołuje nie więcej niż trzech zastępców Dyrektora Instytutu i wyznacza zakres ich zadań. Dyrektor Instytutu odwołuje zastępców Dyrektora Instytutu.
 
-4. Zakładowy fundusz świadczeń socjalnych tworzy się na zasadach określonych ustawie dnia 4 marca 1994 r. zakładowym funduszu świadczeń socjalnych (Dz. 2018 r. 1316, 1608 i 1669).
+### 3.
 
-**Art. 20.**
+Prezes Rady Ministrów odwołuje Dyrektora Instytutu w przypadku:
 
-1. Roczne sprawozdanie finansowe podlega badaniu przez firmę audytorską.
+### 1)
 
-2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego dokonuje Szef Kancelarii Prezesa Rady Ministrów.
+rezygnacji ze stanowiska;
 
-3. Dyrektor przedstawia Szefowi Kancelarii Prezesa Rady Ministrów do zatwierdzenia, zaopiniowane przez Radę Instytutu, roczne sprawozdanie finansowe Instytutu, wraz ze sprawozdaniem badania.
+### 2)
 
-#### Rozdział 4 Zmiany przepisach
+zaprzestania spełniania wymagań, o których mowa w art. 8 ust. 1 pkt 1 i 4-6.
 
-**Art. 21.** W ustawie dnia 18 października 2006 r. ujawnianiu informacji dokumentach organów bezpieczeństwa państwa lat 1944–1990 oraz treści tych dokumentów (Dz. 2017 r. 2186, późn. zm. ) wprowadza się następujące zmiany:
+### 4.
 
-**Art. 22.** W ustawie dnia 16 grudnia 2016 r. zasadach zarządzania mieniem państwowym (Dz. 2018 r. 1182, 1669, 1735, 2024 i 2243) art. 3 ust. 1 po pkt 11b dodaje się pkt 11c brzmieniu: „11c) Instytut Europy Środkowej;”.
+Prezes Rady Ministrów może w każdym czasie odwołać Dyrektora Instytutu.
 
-#### Rozdział 5 Przepisy przejściowe i końcowe
+### 5.
 
-**Art. 23.**
+W przypadkach, o których mowa w ust. 3 i 4, Prezes Rady Ministrów powierza zastępcy Dyrektora Instytutu albo innemu pracownikowi Instytutu pełnienie obowiązków Dyrektora Instytutu do czasu powołania nowego Dyrektora Instytutu.
 
-1. Z dniem wejścia życie ustawy likwiduje się Instytut Europy Środkowo-Wschodniej .
+### Art. 8.
 
-2. Czynności związane likwidacją Europy Środkowo-Wschodniej wykonuje osoba wyznaczona przez Prezesa Rady Ministrów, terminie 3 miesięcy od dnia wejścia życie ustawy.
+### 1.
 
-3. Bilans zamknięcia Europy Środkowo-Wschodniej staje się bilansem otwarcia Instytutu.
+Dyrektorem Instytutu może być osoba, która:
 
-**Art. 24.** Z dniem wejścia życie ustawy tworzy się Instytut.
+### 1)
 
-**Art. 25.**
+korzysta z pełni praw publicznych;
 
-1. Z dniem wejścia życie ustawy:
+### 2)
 
-- **1)** składniki majątkowe i niemajątkowe Europy Środkowo-Wschodniej przejmuje Instytut;
-- **2)** należności i zobowiązania Europy Środkowo-Wschodniej stają się należnościami i zobowiązaniami Instytutu.
+posiada wykształcenie wyższe magisterskie;
 
-2. Instytut jest zwolniony podatku dochodowego od osób prawnych oraz podatku od towarów i usług tytułu przejęcia składników, których mowa ust. 1 pkt 1.
+### 3)
 
-3. Instytut nie ponosi opłat sądowych zakresie związanym przejęciem składników, których mowa ust. 1 pkt 1.
+posiada co najmniej 3-letnie doświadczenie w zarządzaniu oraz doświadczenie zawodowe w zakresie zadań Instytutu, o których mowa w art. 3;
 
-**Art. 26.**
+### 4)
 
-1. Z dniem wejścia życie ustawy:
+nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
 
-- **1)** Prezes Rady Ministrów powołuje Dyrektora Instytutu, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych; przepisu art. 7 ust. 1 zakresie konieczności zasięgnięcia opinii Rady nie stosuje się;
-- **2)** wygasa kadencja dyrektora Europy Środkowo-Wschodniej;
-- **3)** ustaje członkostwo członków Rady Naukowej Europy Środkowo-Wschodniej;
-- **4)** pracownicy Europy Środkowo-Wschodniej stają się pracownikami Instytutu.
+### 5)
 
-2. Prezes Rady Ministrów powoła Radę I kadencji terminie 3 miesięcy od dnia wejścia życie ustawy.
+nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi, o którym mowa w art. 31 ust. 1 pkt 4 ustawy z dnia 17 grudnia 2004 r. o odpowiedzialności za naruszenie dyscypliny finansów publicznych ([Dz. U. z 2018 r. poz. 1458](https://api.sejm.gov.pl/eli/acts/DU/2018/1458/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html), [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html) i [2192](https://api.sejm.gov.pl/eli/acts/DU/2018/2192/text.html));
 
-3. Stosunki pracy pracownikami, których mowa ust. 1 pkt 4, wygasają po upływie 3 miesięcy od dnia wejścia życie ustawy, jeżeli przed upływem 2 miesięcy od dnia wejścia życie ustawy nie zostaną im zaproponowane nowe warunki pracy i płacy albo razie nieprzyjęcia nowych warunków pracy i płacy.
+### 6)
 
-5. W przypadku wygaśnięcia stosunków pracy na podstawie ust. 3 pracownikom przysługują świadczenia przewidziane dla pracowników, którymi stosunki pracy rozwiązuje się powodu likwidacji pracodawcy.
+w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. nie pracowała i nie służyła w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów ([Dz. U. z 2017 r. poz. 2186](https://api.sejm.gov.pl/eli/acts/DU/2017/2186/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669 i 1735.](#gloss-0:2:)) oraz nie współpracowała z tymi organami.
 
-**Art. 27.** Do czasu zakończenia likwidacji Europy Środkowo-Wschodniej Instytut działa na podstawie projektu planu finansowego opracowanego przez Dyrektora Instytutu.
+### 2.
 
-**Art. 28.**
+Przed powołaniem na stanowisko Dyrektora Instytutu osoba powoływana składa oświadczenie o spełnieniu wymagań, o których mowa w ust. 1, a w przypadku osób urodzonych przed dniem 1 sierpnia 1972 r. - także oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów, albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
 
-1. W latach 2019–2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym realizacji zadań wynikających ustawy wyniesie:
+### 3.
 
-- **1)** 2019 r. – 4 000 000 zł;
-- **2)** 2020 r. – 5 000 000 zł;
-- **3)** 2021 r. – 7 000 000 zł;
-- **4)** 2022 r. – 7 000 000 zł;
-- **5)** 2023 r. – 9 000 000 zł;
-- **6)** 2024 r. – 9 000 000 zł;
-- **7)** 2025 r. – 11 000 000 zł;
-- **8)** 2026 r. – 11 000 000 zł;
-- **9)** 2027 r. – 14 000 000 zł;
-- **10)** 2028 r. – 14 000 000 zł.
+Wymagania, o których mowa w ust. 1 i 2, stosuje się do zastępców Dyrektora Instytutu.
 
-2. Organem monitorującym wykorzystanie limitu wydatków, których mowa ust. 1, jest Szef Kancelarii Prezesa Rady Ministrów.
+### Art. 9.
 
-3. W przypadku zagrożenia przekroczenia limitu wydatków, których mowa ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych kosztami funkcjonowania Instytutu.
+### 1.
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, którym mowa ust. 3, jest Szef Kancelarii Prezesa Rady Ministrów.
+Powołanie, o którym mowa w art. 7 ust. 1 i 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.](#gloss-0:3:)).
 
-**Art. 29.** W 2018 r. do czasu otrzymania dotacji, której mowa art. 16 pkt 1, działalność jest finansowana rezerwy ogólnej Rady Ministrów.
+### 2.
 
-**Art. 30.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+Wynagrodzenie Dyrektora Instytutu ustala Szef Kancelarii Prezesa Rady Ministrów zgodnie z przepisami ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi ([Dz. U. z 2018 r. poz. 1252](https://api.sejm.gov.pl/eli/acts/DU/2018/1252/text.html) i [2215](https://api.sejm.gov.pl/eli/acts/DU/2018/2215/text.html)).
 
+### 3.
+
+Wynagrodzenie zastępców Dyrektora Instytutu ustala Dyrektor Instytutu, po zasięgnięciu opinii Rady Instytutu.
+
+### 4.
+
+Prezes Rady Ministrów określa, w drodze rozporządzenia, wykaz stanowisk w Instytucie, wymagane kwalifikacje oraz zasady wynagradzania pozostałych pracowników Instytutu, kierując się charakterem zadań Instytutu.
+
+### Art. 10.
+
+### 1.
+
+Do zadań i obowiązków Dyrektora Instytutu należy w szczególności:
+
+### 1)
+
+kierowanie pracami Instytutu;
+
+### 2)
+
+reprezentowanie Instytutu na zewnątrz;
+
+### 3)
+
+zapewnienie funkcjonowania i ciągłości pracy Instytutu;
+
+### 4)
+
+podejmowanie czynności w sprawach z zakresu prawa pracy;
+
+### 5)
+
+powoływanie i odwoływanie dyrektorów oddziałów zamiejscowych Instytutu;
+
+### 6)
+
+opracowywanie rocznego planu działania Instytutu;
+
+### 7)
+
+opracowywanie projektu rocznego planu finansowego Instytutu;
+
+### 8)
+
+opracowywanie rocznego sprawozdania finansowego Instytutu;
+
+### 9)
+
+sporządzanie rocznego sprawozdania z działalności Instytutu;
+
+### 10)
+
+sprawowanie zarządu nad mieniem Instytutu;
+
+### 11)
+
+prowadzenie gospodarki finansowej Instytutu;
+
+### 12)
+
+rozliczanie dotacji otrzymanych z budżetu państwa.
+
+### 2.
+
+Dokumenty, o których mowa w ust. 1 pkt 6-9, Dyrektor Instytutu przedstawia do zatwierdzenia Szefowi Kancelarii Prezesa Rady Ministrów.
+
+### Art. 11.
+
+### 1.
+
+Do zadań Rady Instytutu należy:
+
+### 1)
+
+opiniowanie, na wniosek Prezesa Rady Ministrów, kandydatów na stanowisko Dyrektora Instytutu;
+
+### 2)
+
+opiniowanie projektów rocznych planów finansowych oraz projektów rocznych planów działalności Instytutu;
+
+### 3)
+
+opiniowanie sprawozdania finansowego Instytutu oraz sprawozdania z rocznej działalności Instytutu;
+
+### 4)
+
+wyrażanie opinii w sprawach dotyczących działalności Instytutu, przedstawionych przez Prezesa Rady Ministrów, Szefa Kancelarii Prezesa Rady Ministrów, Dyrektora Instytutu lub z własnej inicjatywy.
+
+### 2.
+
+Rada Instytutu ma prawo wglądu do dokumentów Instytutu i może żądać niezbędnych informacji od Dyrektora Instytutu.
+
+### Art. 12.
+
+### 1.
+
+W skład Rady Instytutu wchodzi siedmiu członków powoływanych przez Prezesa Rady Ministrów.
+
+### 2.
+
+W skład Rady Instytutu wchodzą:
+
+### 1)
+
+przedstawiciel Prezesa Rady Ministrów;
+
+### 2)
+
+przedstawiciel ministra właściwego do spraw zagranicznych;
+
+### 3)
+
+pięć osób powoływanych na okres kadencji.
+
+### 3.
+
+Kadencja członków Rady Instytutu, o których mowa w ust. 2 pkt 3, trwa 4 lata.
+
+### 4.
+
+Członkostwa w Radzie Instytutu nie można łączyć z zatrudnieniem w Instytucie.
+
+### Art. 13.
+
+### 1.
+
+Prezes Rady Ministrów odwołuje członków Rady Instytutu w przypadku:
+
+### 1)
+
+rezygnacji ze stanowiska;
+
+### 2)
+
+zaprzestania spełniania wymagań, o których mowa w art. 14 pkt 1 i 3.
+
+### 2.
+
+Prezes Rady Ministrów może w każdym czasie odwołać członka Rady Instytutu, o którym mowa w art. 12 ust. 2 pkt 1 i 2.
+
+### 3.
+
+W przypadku upływu kadencji, odwołania albo śmierci członka Rady Instytutu Prezes Rady Ministrów powołuje nowego członka Rady.
+
+### Art. 14.
+
+Członkiem Rady Instytutu może być osoba, która:
+
+### 1)
+
+posiada obywatelstwo polskie i korzysta z pełni praw publicznych;
+
+### 2)
+
+wyróżnia się wiedzą i doświadczeniem zawodowym w zakresie zadań Instytutu, o których mowa w art. 3;
+
+### 3)
+
+nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+### Art. 15.
+
+Członkom Rady Instytutu za udział w posiedzeniach przysługują należności z tytułu podróży służbowych w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### Rozdział 3 Gospodarka finansowa Instytutu
+
+### Art. 16.
+
+Przychodami Instytutu są:
+
+### 1)
+
+coroczne dotacje podmiotowe z budżetu państwa, przeznaczone na pokrycie bieżących kosztów działalności Instytutu, o której mowa w art. 3;
+
+### 2)
+
+dotacje celowe z budżetu państwa przeznaczone na:
+
+### a)
+
+realizację zadań, o których mowa w art. 3,
+
+### b)
+
+współfinansowanie realizacji programów finansowanych z udziałem środków europejskich;
+
+### 3)
+
+środki finansowe pochodzące z funduszy Unii Europejskiej;
+
+### 4)
+
+przychody z tytułu krajowych i międzynarodowych projektów i programów badawczych;
+
+### 5)
+
+przychody z tytułu działalności gospodarczej, o której mowa w art. 17;
+
+### 6)
+
+odsetki od środków zgromadzonych na rachunkach bankowych Instytutu, chyba że przepisy odrębne lub umowa, na podstawie której Instytut otrzymał środki, stanowią inaczej;
+
+### 7)
+
+zapisy, spadki i darowizny;
+
+### 8)
+
+przychody z innych tytułów.
+
+### Art. 17.
+
+### 1.
+
+W zakresie niezbędnym do należytego wykonywania zadań, o których mowa w art. 3, Instytut może prowadzić działalność gospodarczą, w szczególności przez komercjalizację wyników prowadzonych badań, działalność wydawniczą, szkoleniową oraz wynajem pomieszczeń i biur.
+
+### 2.
+
+Działalność gospodarcza Instytutu podlega wyodrębnieniu pod względem finansowym i rachunkowym z działalności, o której mowa w art. 3.
+
+### 3.
+
+Działalność gospodarcza Instytutu nie może być finansowana z dotacji podmiotowej z budżetu państwa.
+
+### 4.
+
+Dochód z działalności gospodarczej Instytutu służy wyłącznie realizacji zadań Instytutu, o których mowa w art. 3.
+
+### Art. 18.
+
+### 1.
+
+Instytut prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2017 r. poz. 2077](https://api.sejm.gov.pl/eli/acts/DU/2017/2077/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693 i 2245.](#gloss-0:4:)).
+
+### 2.
+
+Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Instytutu, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej.
+
+### 3.
+
+Podstawę gospodarki finansowej Instytutu w okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego Instytutu przez Szefa Kancelarii Prezesa Rady Ministrów stanowi projekt tego planu, zaopiniowany przez Radę Instytutu.
+
+### 4.
+
+Roczny plan finansowy Instytutu obejmuje w szczególności:
+
+### 1)
+
+planowane przychody, w tym dotacje, o których mowa w art. 16 pkt 1 i 2;
+
+### 2)
+
+planowane koszty;
+
+### 3)
+
+planowane wydatki inwestycyjne;
+
+### 4)
+
+stan środków obrotowych na początek i koniec roku;
+
+### 5)
+
+planowany przyrost lub spadek środków obrotowych na początek i koniec roku;
+
+### 6)
+
+źródła pokrycia planowanego niedoboru przychodów w stosunku do kosztów.
+
+### Art. 19.
+
+### 1.
+
+Tworzy się następujące fundusze Instytutu:
+
+### 1)
+
+fundusz statutowy;
+
+### 2)
+
+fundusz rezerwowy;
+
+### 3)
+
+zakładowy fundusz świadczeń socjalnych;
+
+### 4)
+
+inne fundusze, jeżeli obowiązek ich utworzenia wynika z odrębnych przepisów.
+
+### 2.
+
+Zysk netto Instytutu powiększa fundusz rezerwowy.
+
+### 3.
+
+Stratę netto Instytutu pokrywa się z funduszu rezerwowego.
+
+### 4.
+
+Zakładowy fundusz świadczeń socjalnych tworzy się na zasadach określonych w ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych ([Dz. U. z 2018 r. poz. 1316](https://api.sejm.gov.pl/eli/acts/DU/2018/1316/text.html), [1608](https://api.sejm.gov.pl/eli/acts/DU/2018/1608/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)).
+
+### Art. 20.
+
+### 1.
+
+Roczne sprawozdanie finansowe Instytutu podlega badaniu przez firmę audytorską.
+
+### 2.
+
+Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Instytutu dokonuje Szef Kancelarii Prezesa Rady Ministrów.
+
+### 3.
+
+Dyrektor Instytutu przedstawia Szefowi Kancelarii Prezesa Rady Ministrów do zatwierdzenia, zaopiniowane przez Radę Instytutu, roczne sprawozdanie finansowe Instytutu, wraz ze sprawozdaniem z badania.
+
+### Rozdział 4 Zmiany w przepisach
+
+### Art. 21.
+
+W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów ([Dz. U. z 2017 r. poz. 2186](https://api.sejm.gov.pl/eli/acts/DU/2017/2186/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669 i 1735.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 po pkt 61b dodaje się pkt 61c w brzmieniu:
+
+„
+
+### 61c)
+
+Dyrektor Instytutu Europy Środkowej i jego zastępcy;
+
+” ;
+
+### 2)
+
+w art. 8 pkt 57a otrzymuje brzmienie:
+
+„
+
+### 57a)
+
+pkt 61a-61c - Szef Kancelarii Prezesa Rady Ministrów;
+
+” .
+
+### Art. 22.
+
+W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym ([Dz. U. z 2018 r. poz. 1182](https://api.sejm.gov.pl/eli/acts/DU/2018/1182/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html), [1735](https://api.sejm.gov.pl/eli/acts/DU/2018/1735/text.html), [2024](https://api.sejm.gov.pl/eli/acts/DU/2018/2024/text.html) i [2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html)) w art. 3 w ust. 1 po pkt 11b dodaje się pkt 11c w brzmieniu:
+
+„
+
+### 11c)
+
+Instytut Europy Środkowej;
+
+” .
+
+### Rozdział 5 Przepisy przejściowe i końcowe
+
+### Art. 23.
+
+### 1.
+
+Z dniem wejścia w życie ustawy likwiduje się Instytut Europy Środkowo-Wschodniej[6) Instytut Europy Środkowo-Wschodniej, utworzony rozporządzeniem Ministra Spraw Zagranicznych z dnia 5 października 2001 r. w sprawie utworzenia jednostki badawczo-rozwojowej Instytut Europy Środkowo-Wschodniej (Dz. U. poz. 1296).](#gloss-0:6:).
+
+### 2.
+
+Czynności związane z likwidacją Instytutu Europy Środkowo-Wschodniej wykonuje osoba wyznaczona przez Prezesa Rady Ministrów, w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 3.
+
+Bilans zamknięcia Instytutu Europy Środkowo-Wschodniej staje się bilansem otwarcia Instytutu.
+
+### Art. 24.
+
+Z dniem wejścia w życie ustawy tworzy się Instytut.
+
+### Art. 25.
+
+### 1.
+
+Z dniem wejścia w życie ustawy:
+
+### 1)
+
+składniki majątkowe i niemajątkowe Instytutu Europy Środkowo-Wschodniej przejmuje Instytut;
+
+### 2)
+
+należności i zobowiązania Instytutu Europy Środkowo-Wschodniej stają się należnościami i zobowiązaniami Instytutu.
+
+### 2.
+
+Instytut jest zwolniony z podatku dochodowego od osób prawnych oraz podatku od towarów i usług z tytułu przejęcia składników, o których mowa w ust. 1 pkt 1.
+
+### 3.
+
+Instytut nie ponosi opłat sądowych w zakresie związanym z przejęciem składników, o których mowa w ust. 1 pkt 1.
+
+### Art. 26.
+
+### 1.
+
+Z dniem wejścia w życie ustawy:
+
+### 1)
+
+Prezes Rady Ministrów powołuje Dyrektora Instytutu, po zasięgnięciu opinii ministra właściwego do spraw zagranicznych; przepisu art. 7 ust. 1 w zakresie konieczności zasięgnięcia opinii Rady Instytutu nie stosuje się;
+
+### 2)
+
+wygasa kadencja dyrektora Instytutu Europy Środkowo-Wschodniej;
+
+### 3)
+
+ustaje członkostwo członków Rady Naukowej Instytutu Europy Środkowo-Wschodniej;
+
+### 4)
+
+pracownicy Instytutu Europy Środkowo-Wschodniej stają się pracownikami Instytutu.
+
+### 2.
+
+Prezes Rady Ministrów powoła Radę Instytutu I kadencji w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 3.
+
+Stosunki pracy z pracownikami, o których mowa w ust. 1 pkt 4, wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy, jeżeli przed upływem 2 miesięcy od dnia wejścia w życie ustawy nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
+
+### 4.
+
+W terminie 2 tygodni od otrzymania propozycji nowych warunków pracy i płacy pracownik składa oświadczenie woli o przyjęciu albo odmowie przyjęcia propozycji. Niezłożenie oświadczenia woli uważa się za przyjęcie propozycji.
+
+### 5.
+
+W przypadku wygaśnięcia stosunków pracy na podstawie ust. 3 pracownikom przysługują świadczenia przewidziane dla pracowników, z którymi stosunki pracy rozwiązuje się z powodu likwidacji pracodawcy.
+
+### Art. 27.
+
+Do czasu zakończenia likwidacji Instytutu Europy Środkowo-Wschodniej Instytut działa na podstawie projektu planu finansowego opracowanego przez Dyrektora Instytutu.
+
+### Art. 28.
+
+### 1.
+
+W latach 2019-2028 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym realizacji zadań wynikających z ustawy wyniesie:
+
+### 1)
+
+2019 r. - 4 000 000 zł;
+
+### 2)
+
+2020 r. - 5 000 000 zł;
+
+### 3)
+
+2021 r. - 7 000 000 zł;
+
+### 4)
+
+2022 r. - 7 000 000 zł;
+
+### 5)
+
+2023 r. - 9 000 000 zł;
+
+### 6)
+
+2024 r. - 9 000 000 zł;
+
+### 7)
+
+2025 r. - 11 000 000 zł;
+
+### 8)
+
+2026 r. - 11 000 000 zł;
+
+### 9)
+
+2027 r. - 14 000 000 zł;
+
+### 10)
+
+2028 r. - 14 000 000 zł.
+
+### 2.
+
+Organem monitorującym wykorzystanie limitu wydatków, o których mowa w ust. 1, jest Szef Kancelarii Prezesa Rady Ministrów.
+
+### 3.
+
+W przypadku zagrożenia przekroczenia limitu wydatków, o których mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu wydatków związanych z kosztami funkcjonowania Instytutu.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Szef Kancelarii Prezesa Rady Ministrów.
+
+### Art. 29.
+
+W 2018 r. do czasu otrzymania dotacji, o której mowa w art. 16 pkt 1, działalność Instytutu jest finansowana z rezerwy ogólnej Rady Ministrów.
+
+### Art. 30.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów oraz ustawę z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669 i 1735. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693 i 2245. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669 i 1735. 6) Instytut Europy Środkowo-Wschodniej, utworzony rozporządzeniem Ministra Spraw Zagranicznych z dnia 5 października 2001 r. w sprawie utworzenia jednostki badawczo-rozwojowej Instytut Europy Środkowo-Wschodniej (Dz. U. poz. 1296).

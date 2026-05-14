@@ -1,0 +1,135 @@
+---
+title: Obwieszczenie Ministra Klimatu i Środowiska z dnia 22 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+address: WDU20240001160
+eli: DU/2024/1160
+publisher: DU
+year: 2024
+pos: 1160
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 22 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) [1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1160 |
+| ISAP | WDU20240001160 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-07-22 |
+| Data wydania | 2024-08-01 |
+| Ostatnia zmiana | 2024-08-07 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1160/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1160) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)](#part_2)
+
+- [Załącznik nr 1 - Granica specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)](#part_3)
+
+- [Załącznik nr 2 - Mapa specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)](#part_4)
+
+- [Załącznik nr 3 - Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Wzgórza Krzymowskie (PLH320054)](#part_5)
+
+- [Załącznik nr 4 - Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Wzgórza Krzymowskie (PLH320054)](#part_6)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) ([Dz. U. poz. 2393](https://api.sejm.gov.pl/eli/acts/DU/2021/2393/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającym rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) ([Dz. U. poz. 1915](https://api.sejm.gov.pl/eli/acts/DU/2023/1915/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) ([Dz. U. poz. 1915](https://api.sejm.gov.pl/eli/acts/DU/2023/1915/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).
+
+## Załącznik - Rozporządzenie Ministra Klimatu i Środowiska z dnia 14 października 2021 r. w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)[1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).](#gloss-0:1:)
+
+Na podstawie art. 27a ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2023 r. poz. 1336](https://api.sejm.gov.pl/eli/acts/DU/2023/1336/text.html), [1688](https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text.html) i [1890](https://api.sejm.gov.pl/eli/acts/DU/2023/1890/text.html) oraz [z 2024 r. poz. 1089](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Wyznacza się specjalny obszar ochrony siedlisk Wzgórza Krzymowskie (PLH320054[2) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2021/161 z dnia 21 stycznia 2021 r. w sprawie przyjęcia czternastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2021) 21) (Dz. Urz. UE L 51 z 15.02.2021, str. 330).](#gloss-0:2:)), obejmujący obszar 1179,31 ha, położony w województwie zachodniopomorskim.
+
+### 2.
+
+Granica obszaru, o którym mowa w ust. 1, w postaci wykazu współrzędnych punktów załamania granicy, jest określona w załączniku nr 1 do rozporządzenia.
+
+### § 2.
+
+Mapa obszaru, o którym mowa w § 1, jest określona w załączniku nr 2 do rozporządzenia.
+
+### § 3.
+
+Obszar, o którym mowa w § 1, wyznacza się w celu:
+
+### 1)
+
+trwałej ochrony:
+
+### a)
+
+siedlisk przyrodniczych,
+
+### b)
+
+populacji zagrożonych wyginięciem gatunków zwierząt innych niż ptaki lub
+
+### 2)
+
+odtworzenia właściwego stanu ochrony siedlisk przyrodniczych lub właściwego stanu ochrony gatunków, o których mowa w pkt 1 lit. b
+
+- w stosunku do przedmiotów ochrony.
+
+### § 4.
+
+Przedmiotem ochrony na obszarze, o którym mowa w § 1, są:
+
+### 1)
+
+siedliska przyrodnicze określone w załączniku nr 3 do rozporządzenia;
+
+### 2)
+
+gatunki zwierząt innych niż ptaki, określone w załączniku nr 4 do rozporządzenia, oraz ich siedliska.
+
+### § 5.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[3) Rozporządzenie zostało ogłoszone w dniu 22 grudnia 2021 r.](#gloss-0:3:).
+
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2021/161 z dnia 21 stycznia 2021 r. w sprawie przyjęcia czternastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2021) 21) (Dz. Urz. UE L 51 z 15.02.2021, str. 330). 3) Rozporządzenie zostało ogłoszone w dniu 22 grudnia 2021 r.
+
+## Załącznik nr 1 - Granica specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+
+Numer punktu załamania granicy Współrzędne punktów załamania granicy (PL-1992)1) X Y 1 2 3 1 577955,82 183902,45 2 577844,42 184009,63 3 577827,73 184056,22 4 577784,41 184108,49 5 577732,69 184141,02 6 577721,77 184146,01 7 577731,14 184172,48 8 577788,23 184324,85 9 577804,40 184371,55 10 577770,00 184387,74 11 577777,54 184416,04 12 577754,74 184419,33 13 577755,80 184459,83 14 577734,35 184574,12 15 577720,89 184622,92 16 577743,59 184657,02 17 577738,81 184707,07 18 577723,21 184728,65 19 577712,27 184743,77 20 577737,33 184760,62 21 577763,03 184774,96 22 577576,74 184870,97 23 577568,22 184872,92 24 577564,69 184936,09 25 577548,11 185018,90 26 577531,24 185050,24 27 577490,84 185099,50 28 577428,51 185153,40 29 577393,56 185165,24 30 577350,77 185213,40 31 577177,60 185359,86 32 577077,48 185481,63 33 577002,36 185587,60 34 576983,33 185617,31 35 576967,94 185641,36 36 576963,61 185648,11 37 576825,61 185561,15 38 576771,86 185547,64 39 576700,80 185528,82 40 576676,68 185496,73 41 576630,51 185395,41 42 576547,79 185231,63 43 576522,02 185196,41 44 576479,30 185175,13 45 576386,13 185129,68 46 576345,76 185106,96 47 576211,85 185031,24 48 576209,07 185038,89 49 576211,34 185047,01 50 576191,03 185054,16 51 575907,20 185373,63 52 575760,73 185519,89 53 575662,02 185421,38 54 575625,73 185457,48 55 575624,59 185590,78 56 575621,47 185600,20 57 575541,12 185568,31 58 575553,34 185543,21 59 575551,33 185524,24 60 575549,44 185443,70 61 575554,32 185407,23 62 575602,18 185361,64 63 575579,53 185339,04 64 575538,19 185297,77 65 575128,48 184895,35 66 574903,05 185136,18 67 574885,82 185109,98 68 574824,88 185080,86 69 574810,40 185043,80 70 574781,63 185036,78 71 574660,60 185076,85 72 574641,87 185083,05 73 574536,20 185132,37 74 574530,98 185137,32 75 574512,77 185154,61 76 574493,29 185163,26 77 574416,66 185056,86 78 574354,21 184977,99 79 574292,50 185046,77 80 574244,20 185099,83 81 574219,14 185069,58 82 574202,20 185034,01 83 574192,58 185046,01 84 574176,92 185065,53 85 574169,75 185074,47 86 574161,61 185084,61 87 574085,14 185182,06 88 574072,51 185208,25 89 574057,53 185239,35 90 574040,66 185268,50 91 574023,14 185297,22 92 574001,79 185332,23 93 574022,45 185343,41 94 574007,88 185359,41 95 574047,47 185362,66 96 574066,53 185372,40 97 574098,83 185379,35 98 574101,84 185369,92 99 574115,66 185376,25 100 574139,21 185387,06 101 574220,24 185409,19 102 574205,65 185382,84 103 574211,29 185363,86 104 574237,34 185348,43 105 574240,89 185352,36 106 574279,23 185333,48 107 574323,29 185278,20 108 574375,25 185244,99 109 574496,15 185348,83 110 574613,04 185447,11 111 574632,16 185464,94 112 574643,94 185483,85 113 574710,20 185656,34 114 574761,09 185797,73 115 574807,95 185927,98 116 574816,22 185965,75 117 574816,23 185984,52 118 574808,64 186036,14 119 574791,95 186161,09 120 574766,92 186337,83 121 574632,11 186294,06 122 574619,28 186308,38 123 574586,51 186319,81 124 574564,09 186327,55 125 574514,43 186319,43 126 574489,03 186307,66 127 574474,73 186306,19 128 574422,10 186303,25 129 574422,26 186312,77 130 574334,32 186296,15 131 574243,83 186272,37 132 574184,55 186303,19 133 574181,46 186304,79 134 574177,23 186307,00 135 574038,30 186211,28 136 573968,52 186185,06 137 573921,56 186155,70 138 573847,01 186089,20 139 573806,06 186045,15 140 573741,95 185997,05 141 573727,38 186014,27 142 573694,09 185981,07 143 573645,38 185937,30 144 573596,22 185919,26 145 573551,93 185902,18 146 573547,11 185899,79 147 573530,94 185889,69 148 573509,08 185875,98 149 573501,06 185869,16 150 573460,23 185834,50 151 573433,63 185807,50 152 573382,21 185751,70 153 573332,50 185725,96 154 573292,54 185719,11 155 573244,06 185714,73 156 573232,82 185713,04 157 573208,05 185693,84 158 573137,57 185623,68 159 573102,54 185595,93 160 573054,03 185560,74 161 573038,33 185553,20 162 573023,22 185547,07 163 573017,54 185544,53 164 573062,93 185500,87 165 573089,74 185472,65 166 573145,37 185414,10 167 573266,60 185286,15 168 573324,72 185224,55 169 573424,57 185117,44 170 573486,81 185053,18 171 573646,23 184883,02 172 573687,22 184839,26 173 573747,11 184774,94 174 573866,05 184647,65 175 573851,98 184651,18 176 573814,17 184615,33 177 573715,63 184521,90 178 573524,88 184341,04 179 573433,36 184254,26 180 573433,12 184254,10 181 573445,39 184241,39 182 573617,71 184058,15 183 573583,70 184009,58 184 573575,78 183998,34 185 573565,45 183983,38 186 573555,21 183968,53 187 573550,00 183960,98 188 573546,08 183900,75 189 573541,66 183832,97 190 573504,12 183758,21 191 573471,04 183703,79 192 573449,23 183673,20 193 573374,36 183576,42 194 573328,07 183553,60 195 573436,25 183435,61 196 573439,23 183432,33 197 573435,90 183430,20 198 573222,61 183343,26 199 573122,39 183311,59 200 573090,96 183270,91 201 573169,16 183196,85 202 573205,98 183148,21 203 573390,82 183315,00 204 573447,46 183276,51 205 573476,10 183280,58 206 573496,30 183273,58 207 573501,75 183293,99 208 573549,45 183313,28 209 573553,67 183312,48 210 574003,54 182819,50 211 574238,66 183032,47 212 574285,93 182989,06 213 574339,94 182920,46 214 574357,34 182895,69 215 574374,52 182869,02 216 574418,08 182842,55 217 574427,41 182823,31 218 574438,16 182789,92 219 574460,91 182800,75 220 574541,55 182845,64 221 574601,66 182890,25 222 574655,54 182927,97 223 574883,30 182681,37 224 574933,67 182874,05 225 574942,49 182904,76 226 574882,64 182975,15 227 574903,06 183000,17 228 574872,85 183055,01 229 574847,60 183026,33 230 574801,61 183088,23 231 574872,18 183153,40 232 574899,30 183162,15 233 575001,45 183264,86 234 575047,88 183307,02 235 575081,82 183330,31 236 575340,46 183049,47 237 575758,24 183439,77 238 575763,68 183433,70 239 575954,43 183221,30 240 576020,58 183147,13 241 576065,36 183096,23 242 576210,14 182945,76 243 576287,79 182866,69 244 576338,38 182802,68 245 576347,13 182791,09 246 576494,81 182629,13 247 576656,28 182495,51 248 576686,98 182472,29 249 576722,00 182461,42 250 576745,07 182453,63 251 576810,43 182432,62 252 576860,82 182403,51 253 576929,25 182348,99 254 576981,96 182275,37 255 577033,69 182233,85 256 577105,09 182191,40 257 577130,84 182170,75 258 577200,19 182074,95 259 577244,32 181981,58 260 577314,65 181876,40 261 577658,78 182193,40 262 578076,51 182573,47 263 577904,41 182760,29 264 577939,00 182787,32 265 578000,18 182759,66 266 578022,69 182800,42 267 577994,14 182862,93 268 577975,21 182895,02 269 577931,29 182928,85 270 577874,14 182885,53 271 577866,53 182849,40 272 577820,28 182896,47 273 577792,48 182882,19 274 577758,54 182919,08 275 577751,35 182929,09 276 577719,51 182963,62 277 577745,75 182977,70 278 577753,34 183012,73 279 577773,04 183054,61 280 577816,73 183113,00 281 577865,82 183156,14 282 577827,69 183198,87 283 577841,11 183214,70 284 577856,74 183206,60 285 577888,84 183228,34 286 577894,74 183246,24 287 577885,95 183279,27 288 577890,06 183294,45 289 577918,97 183317,52 290 578001,20 183396,91 291 578012,42 183407,62 292 578083,13 183473,53 293 578086,62 183470,17 294 578309,09 183680,94 295 578263,42 183714,10 296 578188,72 183696,18 297 578160,68 183735,12 298 578132,53 183751,49 299 578088,89 183805,71 300 578033,37 183829,29 301 577979,49 183879,75 302 577955,82 183902,45 1) Układ współrzędnych płaskich prostokątnych PL-1992 jest jednym z układów tworzących państwowy system odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151).
+
+## Załącznik nr 2 - Mapa specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2024/1160/text.pdf)
+
+## Załącznik nr 3 - Siedliska przyrodnicze będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+
+4) Lp. Kod1) Nazwa 1 3150 Starorzecza i naturalne eutroficzne zbiorniki wodne ze zbiorowiskami z Nympheion, Potamion 2 7110 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 3 9110 Kwaśne buczyny (Luzulo-Fagetum) 4 9170 Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) 5 9190 Kwaśne dąbrowy (Quercion robori-petraeae) 6 91D0 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 7 91E0 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 8 91F0 Łęgowe lasy dębowo-wiązowo-jesionowe (Ficario-Ulmetum) 1) Kody siedlisk są zgodne z rozporządzeniem Ministra Środowiska z dnia 13 kwietnia 2010 r. w sprawie siedlisk przyrodniczych oraz gatunków będących przedmiotem zainteresowania Wspólnoty, a także kryteriów wyboru obszarów kwalifikujących się do uznania lub wyznaczenia jako obszary Natura 2000 (Dz. U. z 2014 r. poz. 1713). 4) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 7 września 2023 r. zmieniającego rozporządzenie w sprawie specjalnego obszaru ochrony siedlisk Wzgórza Krzymowskie (PLH320054) (Dz. U. poz. 1915), które weszło w życie z dniem 4 października 2023 r.
+
+## Załącznik nr 4 - Gatunki zwierząt innych niż ptaki, będące przedmiotem ochrony na specjalnym obszarze ochrony siedlisk Wzgórza Krzymowskie (PLH320054)
+
+Lp. Nazwa polska Nazwa naukowa Populacja objęta ochroną 1 kozioróg dębosz Cerambyx cerdo osiadła 2 pachnica dębowa Osmoderma eremita (Osmoderma barnabita) osiadła

@@ -8,11 +8,9 @@ pos: 1068
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających dostępie warunkowym
-
-*USTAWA dnia 5 lipca 2002 r.*
+# Ustawa z dnia 5 lipca 2002 r. o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,51 +22,166 @@ domain: null
 | Data ogłoszenia | 2002-07-05 |
 | Data wydania | 2002-08-09 |
 | Ostatnia zmiana | 2025-02-18 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021261068) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1068/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/1068/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/1068) |
 
-**Art. 1.** Ustawa określa zasady ochrony prawnej niektórych usług świadczonych odpłatnie drogą elektroniczną opartych lub polegających dostępie warunkowym.
+## Treść ustawy
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+### Art. 1.
 
-**Art. 3.**
+Ustawa określa zasady ochrony prawnej niektórych usług świadczonych odpłatnie drogą elektroniczną opartych lub polegających na dostępie warunkowym.
 
-1. Usługami chronionymi są:
+### Art. 2.
 
-- **1)** rozpowszechnianie rozprowadzanie programów telewizyjnych radiowych rozumieniu przepisów o radiofonii telewizji,
-- **2)** inne usługi świadczone indywidualne żądanie usługobiorcy drogą elektroniczną bez jednoczesnej obecności stron – jeśli są świadczone za wynagrodzeniem oparte dostępie warunkowym.
+Użyte w ustawie określenia oznaczają:
 
-2. Za usługi chronione uznaje się również usługi polegające dostępie warunkowym do usług, o których mowa ust. 1.
+### 1)
 
-**Art. 4.**
+dostęp warunkowy - wszelkie środki oraz przedsięwzięcia techniczne, warunkujące korzystanie z usług chronionych przez indywidualnego usługobiorcę,
 
-1. Usługa świadczona jest drogą elektroniczną, jeżeli jej wykonanie następuje przez przesyłanie odbieranie punkcie docelowym danych za pomocą urządzeń elektronicznych przetwarzających, tym poprzez cyfrową kompresję, a także przechowujących dane, przy czym dane są transmitowane całości za pośrednictwem sieci telekomunikacyjnej rozumieniu art. 2 pkt 58 ustawy dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221).
+### 2)
 
-2. Do usług świadczonych drogą elektroniczną, rozumieniu ust. 1, nie zalicza się usług:
+urządzenia dostępu warunkowego - sprzęt lub oprogramowanie, które zostały zaprojektowane lub przystosowane w celu umożliwienia korzystania z usług chronionych,
 
-- **1)** o charakterze materialnym, nawet jeśli są świadczone za pomocą urządzeń elektronicznych, takich jak urządzenia bankomatowe, wydające bilety, kontrolujące wstęp oraz zapewniające prawidłowe regulowanie należności za wjazd płatne sieci drogowe lub parkingi samochodowe;
-- **2)** polegających dystrybucji jakichkolwiek treści informatycznych nośnikach danych rozumieniu przepisów ustawy dnia 17 lutego 2005 r.
+### 3)
 
-**Art. 5.** Jeżeli umowa pomiędzy usługodawcą usługobiorcą nie stanowi inaczej, indywidualne upoważnienie dostępu do danej usługi chronionej uzyskuje osoba, która zapłaciła ustalone przez usługodawcę wynagrodzenie za usługę lub zobowiązała się do zapłaty takiego wynagrodzenia określonym terminie.
+usługi oparte na dostępie warunkowym - usługi, z których korzystanie jest uzależnione od uprzedniego nabycia przez usługobiorcę urządzenia dostępu warunkowego lub uzyskania indywidualnego upoważnienia dostępu do danej usługi,
 
-**Art. 6.**
+### 4)
 
-1. Kto, celu użycia obrocie, wytwarza urządzenia niedozwolone lub wprowadza je do obrotu, podlega karze pozbawienia wolności do lat 3.
+usługi polegające na dostępie warunkowym - usługi, których przedmiotem jest umożliwienie korzystania z urządzeń dostępu warunkowego,
 
-2. Tej samej karze podlega, kto świadczy usługi niedozwolone.
+### 5)
 
-**Art. 7.**
+przekaz informacji handlowej - usługi, których przedmiotem jest przekazywanie, w dowolnej formie, informacji służących promocji działalności gospodarczej, w szczególności reklama, marketing bezpośredni, sponsorowanie, promocja sprzedaży i inne akcje promocyjne,
 
-1. Kto, celu osiągnięcia korzyści majątkowej, posiada lub używa urządzenie niedozwolone, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+### 6)
 
-2. Jeżeli sprawca używa urządzenia niedozwolonego wyłącznie własne potrzeby, podlega grzywnie.
+urządzenia niedozwolone - sprzęt lub oprogramowanie, które zostały zaprojektowane lub przystosowane w celu umożliwienia korzystania z usług chronionych bez uprzedniego upoważnienia usługodawcy,
 
-**Art. 8.** Sąd orzeka przepadek urządzeń niedozwolonych stanowiących przedmioty czynów, o których mowa art. 6 lub 7, chociażby nie były one własnością sprawcy.
+### 7)
 
-**Art. 9.** Ściganie przestępstw określonych art. 6 7 następuje wniosek:
+usługi niedozwolone - usługi polegające na:
 
-**Art. 10.** (pominięty)
+### a)
 
-**Art. 11.** (pominięty)
+instalacji, serwisie lub wymianie urządzeń niedozwolonych,
 
-**Art. 12.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia .
+### b)
 
+przekazie informacji handlowej dla promocji urządzeń niedozwolonych lub usług z nimi związanych albo mającej za przedmiot niedozwolone urządzenia lub usługi.
+
+### Art. 3.
+
+### 1.
+
+Usługami chronionymi są:
+
+### 1)
+
+rozpowszechnianie i rozprowadzanie programów telewizyjnych i radiowych w rozumieniu przepisów o radiofonii i telewizji,
+
+### 2)
+
+inne usługi świadczone na indywidualne żądanie usługobiorcy drogą elektroniczną bez jednoczesnej obecności stron
+
+- jeśli są świadczone za wynagrodzeniem i oparte na dostępie warunkowym.
+
+### 2.
+
+Za usługi chronione uznaje się również usługi polegające na dostępie warunkowym do usług, o których mowa w ust. 1.
+
+### Art. 4.
+
+### 1.
+
+Usługa świadczona jest drogą elektroniczną, jeżeli jej wykonanie następuje przez przesyłanie i odbieranie w punkcie docelowym danych za pomocą urządzeń elektronicznych przetwarzających, w tym poprzez cyfrową kompresję, a także przechowujących dane, przy czym dane są transmitowane w całości za pośrednictwem sieci telekomunikacyjnej w rozumieniu art. 2 pkt 20 ustawy z dnia 21 lipca 2000 r. - Prawo telekomunikacyjne ([Dz. U. Nr 73, poz. 852](https://api.sejm.gov.pl/eli/acts/DU/2000/852/text.html), z [2001 r. Nr 122, poz. 1321](https://api.sejm.gov.pl/eli/acts/DU/2001/1321/text.html) i [Nr 154, poz. 1800 i 1802](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html) i [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)).
+
+### 2.
+
+Do usług świadczonych drogą elektroniczną, w rozumieniu ust. 1, nie zalicza się usług:
+
+### 1)
+
+o charakterze materialnym, nawet jeśli są świadczone za pomocą urządzeń elektronicznych, takich jak urządzenia bankomatowe, wydające bilety, kontrolujące wstęp oraz zapewniające prawidłowe regulowanie należności za wjazd na płatne sieci drogowe lub parkingi samochodowe,
+
+### 2)
+
+polegających na dystrybucji jakichkolwiek treści na nośnikach statycznych, takich jak dyskietki, płyty CD-ROM lub DVD.
+
+### Art. 5.
+
+Jeżeli umowa pomiędzy usługodawcą i usługobiorcą nie stanowi inaczej, indywidualne upoważnienie dostępu do danej usługi chronionej uzyskuje osoba, która zapłaciła ustalone przez usługodawcę wynagrodzenie za usługę lub zobowiązała się do zapłaty takiego wynagrodzenia w określonym terminie.
+
+### Art. 6.
+
+### 1.
+
+Kto, w celu użycia w obrocie, wytwarza urządzenia niedozwolone lub wprowadza je do obrotu, podlega karze pozbawienia wolności do lat 3.
+
+### 2.
+
+Tej samej karze podlega, kto świadczy usługi niedozwolone.
+
+### Art. 7.
+
+### 1.
+
+Kto, w celu osiągnięcia korzyści majątkowej, posiada lub używa urządzenie niedozwolone, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+### 2.
+
+Jeżeli sprawca używa urządzenia niedozwolonego wyłącznie na własne potrzeby, podlega grzywnie.
+
+### Art. 8.
+
+Sąd orzeka przepadek urządzeń niedozwolonych stanowiących przedmioty czynów, o których mowa w art. 6 lub 7, chociażby nie były one własnością sprawcy.
+
+### Art. 9.
+
+Ściganie przestępstw określonych w art. 6 i 7 następuje na wniosek:
+
+### 1)
+
+pokrzywdzonego świadczącego usługi oparte na dostępie warunkowym,
+
+### 2)
+
+pokrzywdzonego świadczącego usługi polegające na dostępie warunkowym,
+
+### 3)
+
+krajowych lub regionalnych organizacji, których celem statutowym jest ochrona interesów przedsiębiorców świadczących usługi oparte lub polegające na dostępie warunkowym,
+
+### 4)
+
+Prezesa Urzędu Ochrony Konkurencji i Konsumentów,
+
+### 5)
+
+Przewodniczącego Krajowej Rady Radiofonii i Telewizji.
+
+### Art. 10.
+
+W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. Nr 47, poz. 211](https://api.sejm.gov.pl/eli/acts/DU/1993/211/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) oraz z [2000 r. Nr 29, poz. 356](https://api.sejm.gov.pl/eli/acts/DU/2000/356/text.html) i [Nr 93, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2000/1027/text.html)) po art. 15a dodaje się art. 15b w brzmieniu:
+
+„
+
+### Art. 15b.
+
+### 1.
+
+Czynem nieuczciwej konkurencji jest wytwarzanie, import, dystrybucja, sprzedaż, najem lub oddawanie do używania pod innym tytułem prawnym oraz posiadanie, w celach zarobkowych, urządzeń niedozwolonych, w rozumieniu przepisów o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym.
+
+### 2.
+
+Czynem nieuczciwej konkurencji jest także instalacja, serwis lub wymiana urządzeń niedozwolonych, w celach zarobkowych, oraz wykorzystywanie przekazu informacji handlowej do promocji tych urządzeń lub związanych z nimi usług.
+
+”
+
+### Art. 11.
+
+W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ([Dz. U. z 2000 r. Nr 80, poz. 904](https://api.sejm.gov.pl/eli/acts/DU/2000/904/text.html) i z [2001 r. Nr 128, poz. 1402](https://api.sejm.gov.pl/eli/acts/DU/2001/1402/text.html)) w art. 1181 w ust. 1 skreśla się wyrazy „bądź też służące do nielegalnego odbioru nadawanych programów, przeznaczonych dla zamkniętego grona odbiorców, uzyskujących do nich dostęp po zapłaceniu wynagrodzenia usługodawcy”.
+
+### Art. 12.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.

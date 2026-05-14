@@ -1,0 +1,112 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 8 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia
+address: WDU20180000571
+eli: DU/2018/571
+publisher: DU
+year: 2018
+pos: 571
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 8 marca 2018 r. zmieniające rozporządzenie w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 571 |
+| ISAP | WDU20180000571 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-03-08 |
+| Data wydania | 2018-03-19 |
+| Wejście w życie | 2018-03-20 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/571/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/571) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Roczny plan finansowy Narodowego Funduszu Zdrowia (wzór)](#part_2)
+
+- [Załącznik nr 2 - Roczne sprawozdanie z wykonania planu finansowego Narodowego Funduszu Zdrowia (wzór)](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 131 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2017 r. poz. 1938](https://api.sejm.gov.pl/eli/acts/DU/2017/1938/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107 i 138.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Finansów z dnia 23 grudnia 2011 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia ([Dz. U. z 2017 r. poz. 1935](https://api.sejm.gov.pl/eli/acts/DU/2017/1935/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 6 w ust. 1:
+
+### a)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+sprawozdanie miesięczne o kosztach świadczeń opieki zdrowotnej w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej;
+
+” ,
+
+### b)
+
+pkt 9 otrzymuje brzmienie:
+
+„
+
+### 9)
+
+sprawozdanie miesięczne o przychodach i kosztach wynikających z realizacji zadań, o których mowa w art. 97 ust. 3 pkt 2a -2c, 3 i 3b ustawy;
+
+” ;
+
+### 2)
+
+załącznik nr 1 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+
+### 3)
+
+załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia.
+
+### § 2.
+
+Przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem stosuje się po raz pierwszy do:
+
+### 1)
+
+rocznego sprawozdania z wykonania planu finansowego Narodowego Funduszu Zdrowia na rok 2018;
+
+### 2)
+
+sprawozdań miesięcznych, o których mowa w § 6 ust. 1 pkt 1a i 9 rozporządzenia zmienianego w § 1, składanych za miesiąc styczeń 2018 r.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92). 2) Zmiany tekstu jednolitego wymienionej zostały ogłoszone w Dz. U. z 2017 r. poz. 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107 i 138.
+
+## Załącznik nr 1 - Roczny plan finansowy Narodowego Funduszu Zdrowia (wzór)
+
+### Tabela 1. Przychody i koszty Narodowego Funduszu Zdrowia - łącznie
+
+w tys. zł Poz. Wyszczególnienie Plan finansowy Narodowego Funduszu Zdrowia na... rok 1 2 3 1 Składka należna brutto w roku planowania równa przypisowi składki (1.1 + 1.2) 1.1 od ZUS 1.2 od KRUS 2 Planowany odpis aktualizujący składkę należną (2.1 + 2.2) 2.1 w stosunku do ZUS 2.2 w stosunku do KRUS 3 Przychody ze składek z lat ubiegłych (3.1 + 3.2) 3.1 od ZUS 3.2 od KRUS 4 Koszt poboru i ewidencjonowania składek (4.1 + 4.2) 4.1 koszty poboru i ewidencjonowania składek przez ZUS 4.2 koszty poboru i ewidencjonowania składek przez KRUS 5 Odpis dla Agencji Oceny Technologii Medycznych i Taryfikacji, o którym mowa w art. 31t ust. 5-9 ustawy A Przychody netto z działalności (1 - 2 + 3 - 4 - 5) + A1 + A2 + A3 + A4 A1 przychody wynikające z przepisów o koordynacji A2 przychody z tytułu realizacji zadań zleconych A3 dotacje z budżetu państwa na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2a-2c, 3 i 3b ustawy A4 dotacja z budżetu państwa na realizację zadań zespołów ratownictwa medycznego B Koszty realizacji zadań (B1 + B2 + B3 + B4 + B5) B1 Obowiązkowy odpis na rezerwę ogólną B2 Koszty świadczeń opieki zdrowotnej (B2.1 + ... + B2.21) B2.1 podstawowa opieka zdrowotna B2.2 ambulatoryjna opieka specjalistyczna B2.3 leczenie szpitalne, w tym: B2.3.1 programy lekowe, w tym: B2.3.1.1 leki, środki spożywcze specjalnego przeznaczenia żywieniowego objęte programami lekowymi B2.3.2 chemioterapia, w tym: B2.3.2.1 leki stosowane w chemioterapii B2.4 opieka psychiatryczna i leczenie uzależnień B2.5 rehabilitacja lecznicza B2.6 świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej B2.7 opieka paliatywna i hospicyjna B2.8 leczenie stomatologiczne B2.9 lecznictwo uzdrowiskowe B2.10 pomoc doraźna i transport sanitarny B2.11 koszty profilaktycznych programów zdrowotnych finansowanych ze środków własnych Funduszu B2.12 świadczenia opieki zdrowotnej kontraktowane odrębnie B2.13 zaopatrzenie w wyroby medyczne oraz ich naprawa, o których mowa w ustawie o refundacji B2.14 refundacja, z tego: B2.14.1 refundacja leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych dostępnych w aptece na receptę B2.14.2 refundacja leków, o których mowa w art. 15 ust. 2 pkt 17 ustawy B2.14.3 refundacja środków spożywczych specjalnego przeznaczenia żywieniowego, o których mowa w art. 15 ust. 2 pkt 18 ustawy B2.15 rezerwa na koszty realizacji zadań wynikających z przepisów o koordynacji B2.16 rezerwa na pokrycie kosztów świadczeń opieki zdrowotnej oraz refundacji leków, w tym: B2.16.1 rezerwa, o której mowa w art. 118 ust. 2 pkt 2 lit. c ustawy B2.17 rezerwa na koszty świadczeń opieki zdrowotnej w ramach migracji ubezpieczonych B2.18 koszty świadczeń opieki zdrowotnej z lat ubiegłych B2.19 rezerwa na koszty świadczeń opieki zdrowotnej udzielone w ramach transgranicznej opieki zdrowotnej B2.20 rezerwa na dofinansowanie programów polityki zdrowotnej na podstawie art. 48d ustawy B2.21 koszty świadczeń opieki zdrowotnej w ramach programów pilotażowych, o których mowa w art. 48e ustawy B3 Koszty programów polityki zdrowotnej realizowanych na zlecenie B4 Koszty realizacji zadań zespołów ratownictwa medycznego B5 Koszty finansowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego w części finansowanej z budżetu państwa zgodnie z art. 43a ust. 3 ustawy Bn Całkowity budżet na refundację (B2.3.1.1 + B2.3.2.1 + B2.14 + B2.16.1) C WYNIK NA DZIAŁALNOŚCI (A - B) D Koszty administracyjne (D1 + ... + D8) D1 zużycie materiałów i energii D2 usługi obce D3 podatki i opłaty, z tego: D3.1 podatki stanowiące dochody własne jednostek samorządu terytorialnego, w tym: D3.1.1 podatek od nieruchomości D3.2 opłaty stanowiące dochody własne jednostek samorządu terytorialnego D3.3 VAT D3.4 podatek akcyzowy D3.5 wpłaty na PFRON D3.6 inne D4 wynagrodzenia, w tym: D4.1 wynagrodzenia bezosobowe D5 ubezpieczenia społeczne i inne świadczenia, z tego: D5.1 składki na Fundusz Ubezpieczeń Społecznych D5.2 składki na Fundusz Pracy D5.3 składki na Fundusz Gwarantowanych Świadczeń Pracowniczych D5.4 pozostałe świadczenia D6 koszty funkcjonowania Rady Funduszu D7 amortyzacja środków trwałych oraz wartości niematerialnych i prawnych D8 pozostałe koszty administracyjne E Pozostałe przychody F Pozostałe koszty (F1 + ... + F4) F1 wydanie i utrzymanie kart ubezpieczenia (w tym części stałych i zamiennych książeczek usług medycznych) oraz recept F2 rezerwa na zobowiązania wynikające z postępowań sądowych F3 inne rezerwy F4 inne koszty G Przychody finansowe (G1 + G2) G1 odsetki uzyskane z lokat G2 inne przychody finansowe H Koszty finansowe I WYNIK FINANSOWY OGÓŁEM NETTO (C - D + E - F + G - H) J PRZYCHODY - ogółem K KOSZTY - ogółem
+
+### Tabela 2. Koszty centrali/oddziału wojewódzkiego Narodowego Funduszu Zdrowia*)
+
+w tys. zł Poz. Wyszczególnienie Plan finansowy centrali/oddziału wojewódzkiego Narodowego Funduszu Zdrowia*) na … rok 1 2 3 B2 Koszty świadczeń opieki zdrowotnej (B2.1 + ... + B2.21) B2.1 podstawowa opieka zdrowotna B2.2 ambulatoryjna opieka specjalistyczna B2.3 leczenie szpitalne, w tym: B2.3.1 programy lekowe, w tym: B2.3.1.1 leki, środki spożywcze specjalnego przeznaczenia żywieniowego objęte programami lekowymi B2.3.2 chemioterapia, w tym: B2.3.2.1 leki stosowane w chemioterapii B2.4 opieka psychiatryczna i leczenie uzależnień B2.5 rehabilitacja lecznicza B2.6 świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej B2.7 opieka paliatywna i hospicyjna B2.8 leczenie stomatologiczne B2.9 lecznictwo uzdrowiskowe B2.10 pomoc doraźna i transport sanitarny B2.11 koszty profilaktycznych programów zdrowotnych finansowanych ze środków własnych Funduszu B2.12 świadczenia opieki zdrowotnej kontraktowane odrębnie B2.13 zaopatrzenie w wyroby medyczne oraz ich naprawa, o których mowa w ustawie o refundacji B2.14 refundacja, z tego: B2.14.1 refundacja leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych dostępnych w aptece na receptę B2.14.2 refundacja leków, o których mowa w art. 15 ust. 2 pkt 17 ustawy B2.14.3 refundacja środków spożywczych specjalnego przeznaczenia żywieniowego, o których mowa w art. 15 ust. 2 pkt 18 ustawy B2.15 rezerwa na koszty realizacji zadań wynikających z przepisów o koordynacji B2.16 rezerwa na pokrycie kosztów świadczeń opieki zdrowotnej oraz refundacji leków, w tym: B2.16.1 rezerwa, o której mowa w art. 118 ust. 2 pkt 2 lit. c ustawy B2.17 rezerwa na koszty świadczeń opieki zdrowotnej w ramach migracji ubezpieczonych B2.18 koszty świadczeń opieki zdrowotnej z lat ubiegłych B2.19 rezerwa na koszty świadczeń opieki zdrowotnej udzielone w ramach transgranicznej opieki zdrowotnej B2.20 rezerwa na dofinansowanie programów polityki zdrowotnej na podstawie art. 48d ustawy B2.21 koszty świadczeń opieki zdrowotnej w ramach programów pilotażowych, o których mowa w art. 48e ustawy B3 Koszty programów polityki zdrowotnej realizowanych na zlecenie B4 Koszty realizacji zadań zespołów ratownictwa medycznego B5 Koszty finansowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego w części finansowanej z budżetu państwa zgodnie z art. 43a ust. 3 ustawy Bn Całkowity budżet na refundację (B2.3.1.1 + B2.3.2.1 + B2.14 + B2.16.1) D Koszty administracyjne (D1 + ... + D8) D1 zużycie materiałów i energii D2 usługi obce D3 podatki i opłaty, z tego: D3.1 podatki stanowiące dochody własne jednostek samorządu terytorialnego, w tym: D3.1.1 podatek od nieruchomości D3.2 opłaty stanowiące dochody własne jednostek samorządu terytorialnego D3.3 VAT D3.4 podatek akcyzowy D3.5 wpłaty na PFRON D3.6 inne D4 wynagrodzenia, w tym: D4.1 wynagrodzenia bezosobowe D5 ubezpieczenia społeczne i inne świadczenia, z tego: D5.1 składki na Fundusz Ubezpieczeń Społecznych D5.2 składki na Fundusz Pracy D5.3 składki na Fundusz Gwarantowanych Świadczeń Pracowniczych D5.4 pozostałe świadczenia D6 koszty funkcjonowania Rady Funduszu D7 amortyzacja środków trwałych oraz wartości niematerialnych i prawnych D8 pozostałe koszty administracyjne F Pozostałe koszty (F1 + ... + F4) F1 wydanie i utrzymanie kart ubezpieczenia (w tym części stałych i zamiennych książeczek usług medycznych) oraz recept F2 rezerwa na zobowiązania wynikające z postępowań sądowych F3 inne rezerwy F4 inne koszty H Koszty finansowe *) Należy wypełnić oddzielnie dla centrali Funduszu i każdego z oddziałów wojewódzkich Funduszu. Uwaga: Do planu finansowego należy dołączyć uzasadnienie, o którym mowa w § 3 ust. 2 rozporządzenia Ministra Finansów z dnia 23 grudnia 2011 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia (Dz. U. z 2017 r. poz. 1935 oraz z 2018 r. poz. 571).
+
+## Załącznik nr 2 - Roczne sprawozdanie z wykonania planu finansowego Narodowego Funduszu Zdrowia (wzór)
+
+*) w tys. zł Poz. Wyszczególnienie Obowiązujący plan finansowy Narodowego Funduszu Zdrowia na ... rok Wykonanie planu finansowego Narodowego Funduszu Zdrowia za ... rok Różnica (poz. 3- poz. 4) Udział wykonania (poz. 4/ poz. 3) (w %) 1 2 3 4 5 6 1 Składka należna brutto w roku planowania równa przypisowi składki (1.1 + 1.2) 1.1 od ZUS 1.2 od KRUS 2 Planowany odpis aktualizujący składkę należną (2.1 + 2.2) 2.1 w stosunku do ZUS 2.2 w stosunku do KRUS 3 Przychody ze składek z lat ubiegłych (3.1 + 3.2) 3.1 od ZUS 3.2 od KRUS 4 Koszt poboru i ewidencjonowania składek (4.1 + 4.2) 4.1 koszty poboru i ewidencjonowania składek przez ZUS 4.2 koszty poboru i ewidencjonowania składek przez KRUS 5 Odpis dla Agencji Oceny Technologii Medycznych i Taryfikacji, o którym mowa w art. 31t ust. 5-9 ustawy A Przychody netto z działalności (1 - 2 + 3 - 4 - 5) + A1+ A2 + A3 + A4 A1 przychody wynikające z przepisów o koordynacji A2 przychody z tytułu realizacji zadań zleconych A3 dotacje z budżetu państwa na finansowanie zadań, o których mowa w art. 97 ust. 3 pkt 2a-2c, 3 i 3b ustawy A4 dotacja z budżetu państwa na realizację zadań zespołów ratownictwa medycznego B Koszty realizacji zadań (B1 + B2 + B3 + B4 + B5) B1 Obowiązkowy odpis na rezerwę ogólną B2 Koszty świadczeń opieki zdrowotnej (B2.1 + ... + B2.21) B2.1 podstawowa opieka zdrowotna B2.2 ambulatoryjna opieka specjalistyczna B2.3 leczenie szpitalne, w tym: B2.3.1 programy lekowe, w tym: B2.3.1.1 leki, środki spożywcze specjalnego przeznaczenia żywieniowego objęte programami lekowymi B2.3.2 chemioterapia, w tym: B2.3.2.1 leki stosowane w chemioterapii B2.4 opieka psychiatryczna i leczenie uzależnień B2.5 rehabilitacja lecznicza B2.6 świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej B2.7 opieka paliatywna i hospicyjna B2.8 leczenie stomatologiczne B2.9 lecznictwo uzdrowiskowe B2.10 pomoc doraźna i transport sanitarny B2.11 koszty profilaktycznych programów zdrowotnych finansowanych ze środków własnych Funduszu B2.12 Świadczenia opieki zdrowotnej kontraktowane odrębnie B2.13 zaopatrzenie w wyroby medyczne oraz ich naprawa, o których mowa w ustawie o refundacji B2.14 refundacja, z tego: B2.14.1 refundacja leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych dostępnych w aptece na receptę B2.14.2 refundacja leków, o których mowa w art. 15 ust. 2 pkt 17 ustawy B2.14.3 refundacja środków spożywczych specjalnego przeznaczenia żywieniowego, o których mowa w art. 15 ust. 2 pkt 18 ustawy B2.15 rezerwa na koszty realizacji zadań wynikających z przepisów o koordynacji B2.16 rezerwa na pokrycie kosztów świadczeń opieki zdrowotnej oraz refundacji leków, w tym: B2.16.1 rezerwa, o której mowa w art. 118 ust. 2 pkt 2 lit. c ustawy B2.17 rezerwa na koszty świadczeń opieki zdrowotnej w ramach migracji ubezpieczonych B2.18 koszty świadczeń opieki zdrowotnej z lat ubiegłych B2.19 rezerwa na koszty świadczeń opieki zdrowotnej udzielone w ramach transgranicznej opieki zdrowotnej B2.20 rezerwa na dofinansowanie programów polityki zdrowotnej na podstawie art. 48d ustawy B2.21 koszty świadczeń opieki zdrowotnej w ramach programów pilotażowych, o których mowa w art. 48e ustawy B3 Koszty programów polityki zdrowotnej realizowanych na zlecenie B4 Koszty realizacji zadań zespołów ratownictwa medycznego B5 Koszty finansowania leku, środka spożywczego specjalnego przeznaczenia żywieniowego oraz wyrobu medycznego w części finansowanej z budżetu państwa zgodnie z art. 43a ust. 3 ustawy Bn Całkowity budżet na refundację (B2.3.1.1 + B2.3.2.1 + B2.14 + B2.16.1) C WYNIK NA DZIAŁALNOŚCI (A - B) D Koszty administracyjne (D1 + ... + D8) D1 zużycie materiałów i energii D2 usługi obce D3 podatki i opłaty, w tym: D3.1 podatki stanowiące dochody własne jednostek samorządu terytorialnego, w tym: D3.1.1 podatek od nieruchomości D3.2 opłaty stanowiące dochody własne jednostek samorządu terytorialnego D3.3 VAT D3.4 podatek akcyzowy D3.5 wpłaty na PFRON D3.6 Inne D4 wynagrodzenia, w tym: D4.1 wynagrodzenia bezosobowe D5 ubezpieczenia społeczne i inne świadczenia, z tego: D5.1 składki na Fundusz Ubezpieczeń Społecznych D5.2 składki na Fundusz Pracy D5.3 składki na Fundusz Gwarantowanych Świadczeń Pracowniczych D5.4 pozostałe świadczenia D6 koszty funkcjonowania Rady Funduszu D7 amortyzacja środków trwałych oraz wartości niematerialnych i prawnych D8 pozostałe koszty administracyjne E Pozostałe przychody F Pozostałe koszty (F1 + ... + F4) F1 wydanie i utrzymanie kart ubezpieczenia (w tym części stałych i zamiennych książeczek usług medycznych) oraz recept F2 rezerwa na zobowiązania wynikające z postępowań sądowych F3 inne rezerwy F4 inne koszty G Przychody finansowe (G1 + G2) G1 odsetki uzyskane z lokat G2 inne przychody finansowe H Koszty finansowe I WYNIK FINANSOWY OGÓŁEM NETTO (C - D + E - F + G - H) J PRZYCHODY - ogółem K KOSZTY - ogółem *) Sprawozdanie należy sporządzić zbiorczo dla Narodowego Funduszu Zdrowia oraz oddzielnie dla centrali Funduszu i oddzielnie dla każdego z oddziałów wojewódzkich Funduszu. Data sporządzenia ... sporządził: kontakt zatwierdził: ... kontakt ... Uwaga: Do sprawozdania należy dołączyć omówienie, o którym mowa w § 5 ust. 2 rozporządzenia Ministra Finansów z dnia 23 grudnia 2011 r. w sprawie szczegółowych zasad prowadzenia gospodarki finansowej Narodowego Funduszu Zdrowia (Dz. U. z 2017 r. poz. 1935 oraz z 2018 r. poz. 571).

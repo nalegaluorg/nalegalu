@@ -8,11 +8,9 @@ pos: 756
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Przepisy wprowadzające ustawy reformujące system nauki
-
-*USTAWA z dnia 11 maja 2012 r.*
+# Ustawa z dnia 11 maja 2012 r. o zmianie ustawy - Przepisy wprowadzające ustawy reformujące system nauki
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2012-05-11 |
 | Data wydania | 2012-07-04 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000756) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/756/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/756/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/756) |
 
-**Art. 1.** W ustawie z dnia 30 kwietnia 2010 r. – Przepisy wprowadzające ustawy reformujące system nauki (Dz. U. Nr 96, poz. 620 i Nr 155, poz. 1036) w art. 32 ust. 3 otrzymuje brzmienie: „3. Jednostki naukowe, o których mowa w ust. 2, zostaną ocenione przez Komitet Ewaluacji Jednostek Naukowych w terminie do dnia 30 września 2013 r. Na podstawie tej oceny zostanie im przyznana kategoria A+, A, B lub C.”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+W ustawie z dnia 30 kwietnia 2010 r. - Przepisy wprowadzające ustawy reformujące system nauki ([Dz. U. Nr 96, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2010/620/text.html) i [Nr 155, poz. 1036](https://api.sejm.gov.pl/eli/acts/DU/2010/1036/text.html)) w art. 32 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jednostki naukowe, o których mowa w ust. 2, zostaną ocenione przez Komitet Ewaluacji Jednostek Naukowych w terminie do dnia 30 września 2013 r. Na podstawie tej oceny zostanie im przyznana kategoria A+, A, B lub C.
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -8,9 +8,9 @@ pos: 357
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# ich elektronizacją
+# Ustawa z dnia 10 stycznia 2018 r. o zmianie niektórych ustaw w związku ze skróceniem okresu przechowywania akt pracowniczych oraz ich elektronizacją [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,102 +22,662 @@ domain: null
 | Data ogłoszenia | 2018-01-10 |
 | Data wydania | 2018-02-13 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/357/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/357/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/357) |
 
-1. W ustawie 26 czerwca 1974 r. – Kodeks pracy (Dz. U. 2018 r. poz. 108, 4, 138 i 305) wprowadza się następujące zmiany:
-1) 22 § 2 pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 brzmieniu: „3) numeru rachunku płatniczego, jeżeli pracownik nie złożył wniosku wypłatę wynagrodzenia rąk własnych.”;
-2) 86 § 3 otrzymuje brzmienie: „§ 3. Wypłata wynagrodzenia jest dokonywana na wskazany przez pracownika rachunek płatniczy, chyba że pracownik złożył postaci papierowej lub elektronicznej wniosek wypłatę wynagrodzenia rąk własnych.”;
-3) 94 pkt 9a i 9b otrzymują brzmienie: „9a) prowadzić i przechowywać postaci papierowej lub elektronicznej dokumentację sprawach związanych ze stosunkiem pracy akta osobowe pracowników (dokumentacja pracownicza);
-9b) przechowywać dokumentację pracowniczą gwarantujący zachowanie jej poufności, integralności, kompletności dostępności, warunkach niegrożących uszkodzeniem lub zniszczeniem przez okres zatrudnienia, a także przez okres 10 lat, licząc od końca roku kalendarzowego, którym stosunek pracy uległ rozwiązaniu lub wygasł, chyba że odrębne przepisy przewidują dłuższy okres przechowywania dokumentacji pracowniczej;”;
-4) po 94 dodaje się 94 –94 brzmieniu: „Art. 94 . Jeżeli przechowywana dokumentacja pracownicza może stanowić lub stanowi dowód postępowaniu, a pracodawca:
-1) jest stroną tego postępowania – przechowuje dokumentację pracowniczą czasu jego prawomocnego zakończenia, nie krócej jednak niż upływu okresu, którym 94 pkt 9b; 94 stosuje się odpowiednio;
-2) powziął wiadomość wytoczeniu powództwa lub wszczęciu postępowania – okres przechowywania dokumentacji pracowniczej, którym 94 pkt 9b, przedłuża się 12 miesięcy, po upływie których pracodawca zawiadamia, postaci papierowej lub elektronicznej, byłego pracownika możliwości odbioru tej dokumentacji terminie 30 dni od otrzymania zawiadomienia oraz, przypadku jej nieodebrania, zniszczeniu dokumentacji pracowniczej; 94 stosuje się odpowiednio.
-94 . § 1. W przypadku ponownego nawiązania stosunku pracy tym samym pracownikiem okresie, którym 94 pkt 9b, pracodawca kontynuuje prowadzenie dla tego pracownika dotychczasowej dokumentacji pracowniczej.
-§ 2. W przypadku, którym § 1, okres przechowywania dokumentacji pracowniczej liczy się od końca roku kalendarzowego, którym kończący się najpóźniej stosunek pracy rozwiązał się lub wygasł.
-94 . W przypadku rozwiązania lub wygaśnięcia stosunku pracy pracodawca wraz ze świadectwem pracy wydaje pracownikowi postaci papierowej lub elektronicznej informację o:
-1) okresie przechowywania dokumentacji pracowniczej, którym 94 pkt 9b lub 94 § 2;
-2) możliwości odbioru przez pracownika dokumentacji pracowniczej końca miesiąca kalendarzowego następującego po upływie okresu przechowywania dokumentacji pracowniczej, którym 94 pkt 9b lub 94 § 2;
-lifikowaną pieczęcią elektroniczną pracodawcy lub kwalifikowanym podpisem elektronicznym upoważnionej przez pracodawcę osoby, potwierdzającym zgodność odwzorowania cyfrowego dokumentem papierowym.
-§ 3. Zmiana postaci dokumentacji pracowniczej elektronicznej na papierową następuje przez sporządzenie wydruku i opatrzenie go podpisem pracodawcy lub osoby przez niego upoważnionej, potwierdzającym zgodność wydruku dokumentem elektronicznym.
-94 . § 1. Pracodawca informuje pracowników przyjęty u danego pracodawcy o:
-1) zmianie postaci prowadzenia i przechowywania dokumentacji pracowniczej;
-2) możliwości odbioru poprzedniej postaci dokumentacji pracowniczej terminie 30 dni od przekazania informacji, której pkt 1.
-§ 2. Pracodawca zawiadamia postaci papierowej lub elektronicznej byłego pracownika możliwości odbioru poprzedniej postaci dokumentacji pracowniczej terminie 30 dni od zawiadomienia.
-§ 3. W przypadku śmierci pracownika lub byłego pracownika prawo odbioru poprzedniej postaci dokumentacji pracowniczej przysługuje następującym członkom rodziny:
-1) dzieciom własnym, dzieciom drugiego małżonka dzieciom przysposobionym;
-2) przyjętym na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnukom, rodzeństwu i innym dzieciom, wyłączeniem dzieci przyjętych na wychowanie i utrzymanie ramach rodziny zastępczej lub rodzinnego domu dziecka;
-3) małżonkowi (wdowie i wdowcowi);
-4) rodzicom, tym ojczymowi i macosze osobom przysposabiającym.
-94 . W przypadku nieodebrania poprzedniej postaci dokumentacji pracowniczej zgodnie 94 , pracodawca może zniszczyć poprzednią postać takiej dokumentacji.
-94 . Dokumentacja pracownicza prowadzona i przechowywana postaci elektronicznej jest równoważna dokumentacją pracowniczą prowadzoną i przechowywaną postaci papierowej.
-94 . Pracodawca wydaje kopię całości lub części dokumentacji pracowniczej na wniosek:
-1) pracownika lub byłego pracownika albo
-2) osób, których 94 § 3, przypadku śmierci pracownika lub byłego pracownika – złożony postaci papierowej lub elektronicznej.”;
-5) 281:
-a) pkt 6 otrzymuje brzmienie: „6) nie prowadzi dokumentacji pracowniczej,”,
-b) po pkt 6 dodaje się pkt 6a brzmieniu: „6a) nie przechowuje dokumentacji pracowniczej przez okres, którym 94 pkt 9b, 94 § 2 i 94 pkt 2, albo przez dłuższy okres, jeżeli wynika on odrębnych przepisów,”,
-c) pkt 7 otrzymuje brzmienie: „7) pozostawia dokumentację pracowniczą warunkach grożących uszkodzeniem lub zniszczeniem”;
-6) 298 otrzymuje brzmienie: czeniem.”.
-2. W ustawie 14 lipca 1983 r. narodowym zasobie archiwalnym i archiwach (Dz. U. 2018 r. poz. 217) wprowadza się następujące zmiany:
-1) po 51s dodaje się 51sa i 51sb brzmieniu: „Art. 51sa. Marszałek województwa, którym 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą zakresie przechowywania dokumentacji bez uzyskania wpisu rejestru.
-51sb. 1. Przedsiębiorca, który wykonuje działalność gospodarczą zakresie przechowywania dokumentacji bez uzyskania wpisu rejestru, podlega administracyjnej karze pieniężnej wysokości 100 000 zł.
-2. Karę pieniężną, której ust. 1, nakłada, drodze decyzji, marszałek województwa, którym 51b, na podstawie wyników kontroli.”;
-2) 51u ust. otrzymuje brzmienie: „1. W przypadku postawienia pracodawcy stan likwidacji lub ogłoszenia jego upadłości odpowiednio likwidator lub syndyk wskazuje podmiot prowadzący działalność dziedzinie przechowywania dokumentacji, któremu zostanie ona przekazana dalszego przechowywania, zapewniając na ten cel środki finansowe na czas, jaki pozostał końca okresu przechowywania dokumentacji ustalonego na podstawie odrębnych przepisów.”.
-3. W ustawie 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. 2017 r. poz. 1778 2018 r. poz. 106 i 138) wprowadza się następujące zmiany:
-1) 4:
-a) po pkt 6 dodaje się pkt 6a brzmieniu: „6a) raport informacyjny – zestawienie informacji dotyczące ubezpieczonego, którym 6 ust.
-pkt i 4, który został zgłoszony przez płatnika składek ubezpieczeń społecznych po raz pierwszy po dniu 31 grudnia 1998 r., a przed dniem stycznia 2019 r., obejmujące:
-a) dane dotyczące wypłaconego przychodu niezbędne ustalenia podstawy wymiaru emerytury lub renty – za lata kalendarzowe przypadające okresie od stycznia 1999 r. 31 grudnia 2018 r.,
-b) dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego placówkach, których 2 pkt ustawy 22 maja 2009 r.
-nauczycielskich świadczeniach kompensacyjnych (Dz. U. 2018 r. poz. 128), określonym wymiarze obowiązkowego wymiaru zajęć – za okres od stycznia 1999 r. 31 grudnia 2018 r., wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację ustaleniu prawa nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy,
-c) dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego placówkach, których ustawy 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. 2017 r. poz. 1189 i 2203), określonym wymiarze obowiązkowego wymiaru zajęć – za okres od stycznia 1999 r. 31 grudnia 2008 r., wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację ustaleniu prawa emerytury na podstawie 88 tej ustawy,
-d) dane dotyczące okresów wykonywania i wymiaru czasu pracy szczególnych warunkach lub szczególnym charakterze, której 32 ustawy 17 grudnia 1998 r. emeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2017 r. poz. 1383, 1386 i 2120 2018 r. poz. 138
-b) pkt 7 otrzymuje brzmienie: „7) konto ubezpieczonego – konto, na którym są ewidencjonowane składki i informacje dotyczące przebiegu ubezpieczeń społecznych danego ubezpieczonego zatrudnienia pracownika;”;
-2) 36 po ust. 11 dodaje się ust. 11a brzmieniu: „11a. Zgłoszenie wyrejestrowania ubezpieczeń społecznych pracownika, którym 6 ust. pkt 1, zawiera dodatkowo datę, tryb rozwiązania ostatniego stosunku pracy, podstawę prawną rozwiązania lub wygaśnięcia ostatniego stosunku pracy lub stosunku służbowego informację, czyjej inicjatywy stosunek pracy został rozwiązany.”;
-3) 40 ust. 2:
-a) pkt otrzymuje brzmienie: „1) wymienione drukach: zgłoszenia ubezpieczeń społecznych, imiennym raporcie miesięcznym, deklaracji rozliczeniowej i raporcie informacyjnym;”,
-b) pkt 7 otrzymuje brzmienie: „7) niezbędne przyznania, ustalenia wysokości i wypłaty świadczeń ubezpieczeń społecznych, a także świadczeń finansowanych budżetu państwa dokonanych wypłatach;”;
-4) 41 ust. 3 pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 brzmieniu: „10) dane dotyczące wypłaconego przychodu niezbędne ustalenia podstawy wymiaru emerytury lub renty;
-11) dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego placówkach, których 2 pkt ustawy 22 maja 2009 r. nauczycielskich świadczeniach kompensacyjnych, określonym wymiarze obowiązkowego wymiaru zajęć, wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację ustaleniu prawa nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy.”;
-5) po 41 dodaje się 41a–41f brzmieniu: „Art. 41a. 1. Płatnik składek każdym czasie może złożyć Zakładu oświadczenie zamiarze przekazania raportów informacyjnych.
-2. Złożenie oświadczenia zamiarze przekazania raportów informacyjnych skutkuje obowiązkiem przekazania raportów informacyjnych za wszystkich ubezpieczonych.
-3. Oświadczenie zamiarze przekazania raportów informacyjnych może zostać odwołane czasu złożenia pierwszego raportu informacyjnego.
-41b. Płatnik składek przekazuje raport informacyjny za ubezpieczonego:
-1) wraz wyrejestrowaniem ubezpieczeń społecznych – przypadku wyrejestrowania ubezpieczeń po złożeniu oświadczenia, którym 41a;
-2) terminie roku od złożenia oświadczenia, którym 41a – przypadku wyrejestrowania przed złożeniem tego oświadczenia.
-41c. 1. W przypadku, którym 41b pkt 1, płatnik składek przekazuje ubezpieczonemu, którym 6 ust. pkt 1, kopię przekazanego raportu informacyjnego dowody potwierdzające wykonywanie okresie od stycznia 1999 r. 31 grudnia 2008 r. pracy szczególnych warunkach lub szczególnym charakterze, której 32 ustawy 17 grudnia 1998 r. emeryturach i rentach Funduszu Ubezpieczeń Społecznych, dowody potwierdzające wykonywanie pracy szczególnych warunkach lub szczególnym Ubezpieczeń Społecznych, dotyczącym przechowywania dokumentacji, której tym przepisie;
-2) prawie odbioru dokumentacji, której pkt 1, terminie miesiąca kalendarzowego rozpoczynającego się następnym dniu po upływie okresu, którym 41f.
-41d. 1. Zakład informuje ubezpieczonego przekazaniu przez płatnika składek raportu informacyjnego informacji stanie konta, której 50 ust. 1, przesyłanej za rok, którym raport informacyjny został przekazany.
-2. Jeżeli osoby uprawnionej świadczenia, za którą został przekazany przez płatnika składek raport informacyjny, nie jest wysyłana informacja stanie konta, Zakład informuje osobę, za którą został przekazany raport informacyjny, przekazaniu tego raportu wraz rocznym obliczeniem podatku lub imienną informacją wysokości uzyskanego dochodu, których 34 ust. 7 i 8 ustawy 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. 2018 r. poz. 200, 2017 r. poz. 2494 2018 r. poz. 106 i 138), przesyłanych za rok, którym raport informacyjny został złożony.
-3. Ubezpieczonemu albo osobie, której ust. 2, którzy utworzyli profil informacyjny systemie teleinformatycznym Zakładu, udostępnia się tym systemie informację przekazaniu przez płatnika składek raportu informacyjnego.
-4. Informacja Zakładu, której ust. lub 2, zawiera pouczenie, którym odpowiednio 41c ust. lub 2, a przypadku ubezpieczonego, którym 6 ust. pkt 1, także konieczności wystąpienia płatnika składek wydanie dowodów potwierdzających wykonywanie okresie od stycznia 1999 r.
-31 grudnia 2008 r. pracy szczególnych warunkach lub szczególnym charakterze, której 32 ustawy 17 grudnia 1998 r. emeryturach i rentach Funduszu Ubezpieczeń Społecznych, dowodów potwierdzających wykonywanie pracy szczególnych warunkach lub szczególnym charakterze, której 3 ust.
-i 3 ustawy 19 grudnia 2008 r. emeryturach pomostowych, za okres od stycznia 1999 r. 31 grudnia 2008 r.
-41e. 1. W przypadku stwierdzenia przez płatnika składek lub ubezpieczonego nieprawidłowości raporcie informacyjnym płatnik składek jest obowiązany złożyć raport informacyjny korygujący. Do raportu informacyjnego korygującego stosuje się odpowiednio 41 ust. 6, 7a i 7b 47 ust. 3c.
-2. W przypadku stwierdzenia przez ubezpieczonego, że raport informacyjny nie zawiera wszystkich informacji, których 4 pkt 6a, lub informacje te zostały niewłaściwie zewidencjonowane, stosuje się 50 ust. 2e–2n.
-41f. 1. Złożenie raportów informacyjnych za ubezpieczonych, których 6 ust. pkt 1, skutkuje skróceniem okresu przechowywania ich dokumentacji sprawach związanych ze stosunkiem pracy akt osobowych pracownika 10 lat, licząc od końca roku kalendarzowego, którym raport informacyjny został złożony.
-2. Złożenie raportów informacyjnych za ubezpieczonych, których 6 ust. pkt 4, skutkuje skróceniem okresu przechowywania ich dokumentacji, której 125a ust. 4 ustawy 17 grudnia 1998 r.
-emeryturach i rentach Funduszu Ubezpieczeń Społecznych, 10 lat, licząc od końca roku kalendarzowego, którym raport informacyjny został złożony.”;
-6) 43a ust. otrzymuje brzmienie: „1. Zgłoszenie płatnika składek, zmianę danych zgłoszeniu płatnika składek, zgłoszenie wyrejestrowania płatnika składek, zgłoszenie ubezpieczonego ubezpieczeń społecznych, wyrejestrowanie ubezpieczonego ubezpieczeń społecznych, deklaracje rozliczeniowe, raporty informacyjne imienne raporty miesięczne, zastrzeżeniem 43 ust. 5a i 5c, płatnik składek może terminie określonym dla złożenia tych dokumentów przekazać bezpośrednio Zakładu lub urzędu skarbowego, którym jest prowadzone centrum obsługi. Dokumenty te urząd skarbowy przypadających 31 grudnia 2008 r.”;
-2) 125a:
-a) ust. 4 otrzymuje brzmienie: „4. Płatnik składek jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty, przez okres 50 lat od zakończenia przez ubezpieczonego pracy u danego płatnika, zastrzeżeniem ust. 4a.”,
-b) po ust. 4 dodaje się ust. 4a i 4b brzmieniu: „4a. Płatnik składek jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty ubezpieczonego, którym 6 ust. pkt i 4 ustawy 13 października 1998 r. systemie ubezpieczeń społecznych, przez okres 10 lat od końca roku kalendarzowego, którym:
-1) ubezpieczony zakończył pracę u danego płatnika składek, przypadku ubezpieczonego zgłoszonego u danego płatnika składek ubezpieczeń po dniu 31 grudnia 2018 r.;
-2) został złożony raport informacyjny, którym 4 pkt 6a ustawy 13 października 1998 r.
-systemie ubezpieczeń społecznych.
-4b. Płatnik składek, który nie przekazał raportu informacyjnego za ubezpieczonego, którym ust. 4a, wyjątkiem ubezpieczonego zgłoszonego ubezpieczeń po dniu 31 grudnia 2018 r., jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty, przez okres, którym ust. 4.”.
-5. Pracodawca przechowuje dokumentację sprawach związanych ze stosunkiem pracy akta osobowe pracownika wykonującego prace górnicze i prace równorzędne pracą górniczą okresami zaliczanymi okresów pracy górniczej przez okres 50 lat od zakończenia stosunku pracy u danego pracodawcy.
-6. W przypadku rozwiązania lub wygaśnięcia stosunku pracy pracodawca wraz ze świadectwem pracy wydaje pracownikowi, któremu przysługiwał ekwiwalent pieniężny za deputat węglowy, którym 74 ustawy 8 września 2000 r. komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U.
-2017 r. poz. 680 i 1529), dokument potwierdzający uprawnienie tego ekwiwalentu, określający, za jaki miesiąc został pobrany ostatni ekwiwalent.
-7. 1. Do stosunków pracy nawiązanych przed dniem wejścia życie niniejszej ustawy stosuje się 94 pkt 9a i 9b, zastrzeżeniem ust. 2, 94 –94 ustawy zmienianej brzmieniu nadanym niniejszą ustawą. 94 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
-2. Okres przechowywania dokumentacji sprawach związanych ze stosunkiem pracy akt osobowych pracownika i byłego pracownika dotyczących stosunków pracy nawiązanych przed dniem wejścia życie niniejszej ustawy ustala się na podstawie przepisów obowiązujących przed dniem wejścia życie niniejszej ustawy.
-3. Okres przechowywania dokumentacji sprawach związanych ze stosunkiem pracy akt osobowych pracownika dotyczących stosunków pracy nawiązanych po dniu 31 grudnia 1998 r., a przed dniem stycznia 2019 r. ulega skróceniu przypadku złożenia raportu informacyjnego, którym 4 pkt 6a ustawy zmienianej 3 brzmieniu nadanym niniejszą ustawą, 10 lat, licząc od końca roku kalendarzowego, którym raport informacyjny został złożony.
-8. Były pracownik, za którego został złożony raport informacyjny, którym 4 pkt 6a ustawy zmienianej 3 brzmieniu nadanym niniejszą ustawą, może odebrać dokumentację sprawach związanych ze stosunkiem pracy akta osobowe pracownika terminie miesiąca kalendarzowego następującego po upływie okresu, którym
-3. Jeżeli okresie od wejścia życie niniejszej ustawy otrzymania przez pracodawcę informacji, której ust. pkt 1, albo wniosku, którym ust. pkt 2, przypada termin wypłaty wynagrodzenia za pracę, pracodawca wypłaca wynagrodzenie rąk własnych pracownika.
-4. Przepis ust. 3 stosuje się odpowiednio, jeżeli pracownik nie poda informacji, której ust. pkt 1, ani nie złoży wniosku, którym ust. pkt 2.
-11. 1. Przedsiębiorcy wykonujący działalność gospodarczą zakresie przechowywania dokumentacji osobowej i płacowej pracodawców czasowym okresie przechowywania bez uzyskania wpisu rejestru, którym 51a ustawy zmienianej 2, są obowiązani dostosować swoją formę prawną i uzyskać wpis rejestru, którym 51a ustawy zmienianej 2, terminie 31 grudnia 2018 r., a przypadku nieuzyskania wpisu tym terminie – zakończyć wykonywanie tej działalności.
-2. Do postępowania zakresie uzyskania wpisu rejestru wykonywania działalności, których ust. 1, stosuje się przepisy 51a i 51b–51t ustawy zmienianej 2.
-12. Przedsiębiorca, który 31 grudnia 2018 r. nie uzyska wpisu rejestru, którym 51a ustawy zmienianej 2, zakończy wykonywanie działalności zakresie przechowywania dokumentacji osobowej i płacowej pracodawców czasowym okresie przechowywania i przekaże ją dalszego przechowywania uprawnionemu podmiotowi, którym 51a ust. albo ust. 2 ustawy zmienianej 2.
-13. Ustawa wchodzi życie dniem stycznia 2019 r., wyjątkiem 11 i 12, które wchodzą życie dniem ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda
+## Treść ustawy
 
+### Art. 1.
+
+W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 108](https://api.sejm.gov.pl/eli/acts/DU/2018/108/text.html), [4](https://api.sejm.gov.pl/eli/acts/DU/2018/4/text.html), [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html) i [305](https://api.sejm.gov.pl/eli/acts/DU/2018/305/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 221w§ 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+numeru rachunku płatniczego, jeżeli pracownik nie złożył wniosku o wypłatę wynagrodzenia do rąk własnych.
+
+” ;
+
+### 2)
+
+w art. 86 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Wypłata wynagrodzenia jest dokonywana na wskazany przez pracownika rachunek płatniczy, chyba że pracownik złożył w postaci papierowej lub elektronicznej wniosek o wypłatę wynagrodzenia do rąk własnych.
+
+” ;
+
+### 3)
+
+w art. 94 pkt 9a i 9b otrzymują brzmienie:
+
+„
+
+### 9a)
+
+prowadzić i przechowywać w postaci papierowej lub elektronicznej dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracowników (dokumentacja pracownicza);
+
+### 9b)
+
+przechowywać dokumentację pracowniczą w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących uszkodzeniem lub zniszczeniem przez okres zatrudnienia, a także przez okres 10 lat, licząc od końca roku kalendarzowego, w którym stosunek pracy uległ rozwiązaniu lub wygasł, chyba że odrębne przepisy przewidują dłuższy okres przechowywania dokumentacji pracowniczej;
+
+” ;
+
+### 4)
+
+po art. 943dodaje się art. 944-9412wbrzmieniu:
+
+„
+
+### Art. 944.
+
+Jeżeli przechowywana dokumentacja pracownicza może stanowić lub stanowi dowód w postępowaniu, a pracodawca:
+
+### 1)
+
+jest stroną tego postępowania - przechowuje dokumentację pracowniczą do czasu jego prawomocnego zakończenia, nie krócej jednak niż do upływu okresu, o którym mowa w art. 94 pkt 9b; art. 947stosuje się odpowiednio;
+
+### 2)
+
+powziął wiadomość o wytoczeniu powództwa lub wszczęciu postępowania - okres przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b, przedłuża się o 12 miesięcy, po upływie których pracodawca zawiadamia, w postaci papierowej lub elektronicznej, byłego pracownika o możliwości odbioru tej dokumentacji w terminie 30 dni od dnia otrzymania zawiadomienia oraz, w przypadku jej nieodebrania, o zniszczeniu dokumentacji pracowniczej; art. 947stosuje się odpowiednio.
+
+### Art. 945.
+
+### § 1.
+
+W przypadku ponownego nawiązania stosunku pracy z tym samym pracownikiem w okresie, o którym mowa w art. 94 pkt 9b, pracodawca kontynuuje prowadzenie dla tego pracownika dotychczasowej dokumentacji pracowniczej.
+
+### § 2.
+
+W przypadku, o którym mowa w § 1, okres przechowywania dokumentacji pracowniczej liczy się od końca roku kalendarzowego, w którym kończący się najpóźniej stosunek pracy rozwiązał się lub wygasł.
+
+### Art. 946.
+
+W przypadku rozwiązania lub wygaśnięcia stosunku pracy pracodawca wraz ze świadectwem pracy wydaje pracownikowi w postaci papierowej lub elektronicznej informację o:
+
+### 1)
+
+okresie przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b lub w art. 945§ 2;
+
+### 2)
+
+możliwości odbioru przez pracownika dokumentacji pracowniczej do końca miesiąca kalendarzowego następującego po upływie okresu przechowywania dokumentacji pracowniczej, o którym mowa w art. 94 pkt 9b lub w art. 945§ 2;
+
+### 3)
+
+zniszczeniu dokumentacji pracowniczej w przypadku jej nieodebrania w okresie, o którym mowa w pkt 2.
+
+### Art. 947.
+
+### § 1.
+
+Pracodawca niszczy dokumentację pracowniczą w sposób uniemożliwiający odtworzenie jej treści, w terminie do 12 miesięcy po upływie okresu przeznaczonego na odbiór dokumentacji pracowniczej, o którym mowa w art. 946pkt 2.
+
+### § 2.
+
+W terminie, o którym mowa w § 1, do czasu zniszczenia, pracodawca może wydać dokumentację pracowniczą byłemu pracownikowi.
+
+### Art. 948.
+
+### § 1.
+
+Pracodawca może zmieniać postać, w której prowadzi i przechowuje dokumentację pracowniczą.
+
+### § 2.
+
+Zmiana postaci dokumentacji pracowniczej z papierowej na elektroniczną następuje przez sporządzenie odwzorowania cyfrowego, w szczególności skanu, i opatrzenie go kwalifikowanym podpisem elektronicznym lub kwalifikowaną pieczęcią elektroniczną pracodawcy lub kwalifikowanym podpisem elektronicznym upoważnionej przez pracodawcę osoby, potwierdzającym zgodność odwzorowania cyfrowego z dokumentem papierowym.
+
+### § 3.
+
+Zmiana postaci dokumentacji pracowniczej z elektronicznej na papierową następuje przez sporządzenie wydruku i opatrzenie go podpisem pracodawcy lub osoby przez niego upoważnionej, potwierdzającym zgodność wydruku z dokumentem elektronicznym.
+
+### Art. 949.
+
+### § 1.
+
+Pracodawca informuje pracowników w sposób przyjęty u danego pracodawcy o:
+
+### 1)
+
+zmianie postaci prowadzenia i przechowywania dokumentacji pracowniczej;
+
+### 2)
+
+możliwości odbioru poprzedniej postaci dokumentacji pracowniczej w terminie 30 dni od dnia przekazania informacji, o której mowa w pkt 1.
+
+### § 2.
+
+Pracodawca zawiadamia w postaci papierowej lub elektronicznej byłego pracownika o możliwości odbioru poprzedniej postaci dokumentacji pracowniczej w terminie 30 dni od dnia zawiadomienia.
+
+### § 3.
+
+W przypadku śmierci pracownika lub byłego pracownika prawo odbioru poprzedniej postaci dokumentacji pracowniczej przysługuje następującym członkom rodziny:
+
+### 1)
+
+dzieciom własnym, dzieciom drugiego małżonka oraz dzieciom przysposobionym;
+
+### 2)
+
+przyjętym na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnukom, rodzeństwu i innym dzieciom, z wyłączeniem dzieci przyjętych na wychowanie i utrzymanie w ramach rodziny zastępczej lub rodzinnego domu dziecka;
+
+### 3)
+
+małżonkowi (wdowie i wdowcowi);
+
+### 4)
+
+rodzicom, w tym ojczymowi i macosze oraz osobom przysposabiającym.
+
+### Art. 9410.
+
+W przypadku nieodebrania poprzedniej postaci dokumentacji pracowniczej zgodnie z art. 949, pracodawca może zniszczyć poprzednią postać takiej dokumentacji.
+
+### Art. 9411.
+
+Dokumentacja pracownicza prowadzona i przechowywana w postaci elektronicznej jest równoważna z dokumentacją pracowniczą prowadzoną i przechowywaną w postaci papierowej.
+
+### Art. 9412.
+
+Pracodawca wydaje kopię całości lub części dokumentacji pracowniczej na wniosek:
+
+### 1)
+
+pracownika lub byłego pracownika albo
+
+### 2)
+
+osób, o których mowa w art. 949§ 3, w przypadku śmierci pracownika lub byłego pracownika
+
+- złożony w postaci papierowej lub elektronicznej.
+
+” ;
+
+### 5)
+
+w art. 281:
+
+### a)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+nie prowadzi dokumentacji pracowniczej,
+
+” ,
+
+### b)
+
+po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+nie przechowuje dokumentacji pracowniczej przez okres, o którym mowa w art. 94 pkt 9b, art. 945§ 2 i art. 946pkt 2, albo przez dłuższy okres, jeżeli wynika on z odrębnych przepisów,
+
+” ,
+
+### c)
+
+pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+pozostawia dokumentację pracowniczą w warunkach grożących uszkodzeniem lub zniszczeniem
+
+” ;
+
+### 6)
+
+art. 2981otrzymuje brzmienie:
+
+„
+
+### Art. 2981.
+
+Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
+
+### 1)
+
+zakres, sposób i warunki prowadzenia, przechowywania oraz zmiany postaci dokumentacji pracowniczej, z uwzględnieniem wymagań dotyczących dokumentacji w postaci elektronicznej w zakresie organizacji jej przetwarzania i przenoszenia pomiędzy systemami teleinformatycznymi,
+
+### 2)
+
+sposób i tryb doręczania informacji lub zawiadomienia o możliwości odbioru dokumentacji pracowniczej w przypadku upływu okresu jej przechowywania oraz poprzedniej postaci tej dokumentacji w przypadku zmiany postaci jej prowadzenia i przechowywania, a także sposób odbioru dokumentacji pracowniczej,
+
+### 3)
+
+sposób wydawania kopii całości lub części dokumentacji pracowniczej pracownikowi, byłemu pracownikowi lub osobom, o których mowa w art. 949§ 3
+
+- uwzględniając konieczność rzetelnego prowadzenia dokumentacji pracowniczej, zapewnienia realizacji prawa dostępu do tej dokumentacji, potrzebę przechowywania dokumentacji pracowniczej w sposób gwarantujący zachowanie jej poufności, integralności, kompletności oraz dostępności, w warunkach niegrożących jej uszkodzeniem lub zniszczeniem.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. z 2018 r. poz. 217](https://api.sejm.gov.pl/eli/acts/DU/2018/217/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 51s dodaje się art. 51sa i art. 51sb w brzmieniu:
+
+„
+
+### Art. 51sa.
+
+Marszałek województwa, o którym mowa w art. 51b, przeprowadza kontrolę u przedsiębiorcy, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru.
+
+### Art. 51sb.
+
+### 1.
+
+Przedsiębiorca, który wykonuje działalność gospodarczą w zakresie przechowywania dokumentacji bez uzyskania wpisu do rejestru, podlega administracyjnej karze pieniężnej w wysokości do 100 000 zł.
+
+### 2.
+
+Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji, marszałek województwa, o którym mowa w art. 51b, na podstawie wyników kontroli.
+
+” ;
+
+### 2)
+
+w art. 51u ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku postawienia pracodawcy w stan likwidacji lub ogłoszenia jego upadłości odpowiednio likwidator lub syndyk wskazuje podmiot prowadzący działalność w dziedzinie przechowywania dokumentacji, któremu zostanie ona przekazana do dalszego przechowywania, zapewniając na ten cel środki finansowe na czas, jaki pozostał do końca okresu przechowywania dokumentacji ustalonego na podstawie odrębnych przepisów.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2017 r. poz. 1778](https://api.sejm.gov.pl/eli/acts/DU/2017/1778/text.html) oraz [z 2018 r. poz. 106](https://api.sejm.gov.pl/eli/acts/DU/2018/106/text.html) i [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4:
+
+### a)
+
+po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+raport informacyjny - zestawienie informacji dotyczące ubezpieczonego, o którym mowa w art. 6 ust. 1 pkt 1 i 4, który został zgłoszony przez płatnika składek do ubezpieczeń społecznych po raz pierwszy po dniu 31 grudnia 1998 r., a przed dniem 1 stycznia 2019 r., obejmujące:
+
+### a)
+
+dane dotyczące wypłaconego przychodu niezbędne do ustalenia podstawy wymiaru emerytury lub renty - za lata kalendarzowe przypadające w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2018 r.,
+
+### b)
+
+dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 2 pkt 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych ([Dz. U. z 2018 r. poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2018/128/text.html)), w określonym wymiarze obowiązkowego wymiaru zajęć - za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2018 r., z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy,
+
+### c)
+
+dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. z 2017 r. poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2017/1189/text.html) i [2203](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.html)), w określonym wymiarze obowiązkowego wymiaru zajęć - za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r., z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 88 tej ustawy,
+
+### d)
+
+dane dotyczące okresów wykonywania i wymiaru czasu pracy w szczególnych warunkach lub w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2017 r. poz. 1383](https://api.sejm.gov.pl/eli/acts/DU/2017/1383/text.html), [1386](https://api.sejm.gov.pl/eli/acts/DU/2017/1386/text.html) i [2120](https://api.sejm.gov.pl/eli/acts/DU/2017/2120/text.html) oraz [z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html) i [357](https://api.sejm.gov.pl/eli/acts/DU/2018/357/text.html)) - za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r., z wyjątkiem danych za ubezpieczonego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury na podstawie art. 32, art. 33 lub art. 184 tej ustawy,
+
+### e)
+
+dane dotyczące okresów wykonywania i wymiaru czasu pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych ([Dz. U. z 2017 r. poz. 664](https://api.sejm.gov.pl/eli/acts/DU/2017/664/text.html) oraz [z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html)) - za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r., z wyjątkiem danych za ubezpieczonego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do emerytury pomostowej na podstawie tej ustawy,
+
+### f)
+
+informację, czy w okresie zatrudnienia pracownikowi przysługiwał ekwiwalent pieniężny za deputat węglowy, o którym mowa w art. 74 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” ([Dz. U. z 2017 r. poz. 680](https://api.sejm.gov.pl/eli/acts/DU/2017/680/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2017/1529/text.html)),
+
+### g)
+
+datę, tryb rozwiązania ostatniego stosunku pracy, podstawę prawną rozwiązania lub wygaśnięcia ostatniego stosunku pracy lub stosunku służbowego oraz informację, z czyjej inicjatywy stosunek pracy został rozwiązany;
+
+” ,
+
+### b)
+
+pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+konto ubezpieczonego - konto, na którym są ewidencjonowane składki i informacje dotyczące przebiegu ubezpieczeń społecznych danego ubezpieczonego oraz zatrudnienia pracownika;
+
+” ;
+
+### 2)
+
+w art. 36 po ust. 11 dodaje się ust. 11a w brzmieniu:
+
+„
+
+### 11a.
+
+Zgłoszenie wyrejestrowania z ubezpieczeń społecznych pracownika, o którym mowa w art. 6 ust. 1 pkt 1, zawiera dodatkowo datę, tryb rozwiązania ostatniego stosunku pracy, podstawę prawną rozwiązania lub wygaśnięcia ostatniego stosunku pracy lub stosunku służbowego oraz informację, z czyjej inicjatywy stosunek pracy został rozwiązany.
+
+” ;
+
+### 3)
+
+w art. 40 w ust. 2:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+wymienione w drukach: zgłoszenia do ubezpieczeń społecznych, imiennym raporcie miesięcznym, deklaracji rozliczeniowej i raporcie informacyjnym;
+
+” ,
+
+### b)
+
+pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+niezbędne do przyznania, ustalenia wysokości i wypłaty świadczeń z ubezpieczeń społecznych, a także świadczeń finansowanych z budżetu państwa oraz o dokonanych wypłatach;
+
+” ;
+
+### 4)
+
+w art. 41 w ust. 3 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 i 11 w brzmieniu:
+
+„
+
+### 10)
+
+dane dotyczące wypłaconego przychodu niezbędne do ustalenia podstawy wymiaru emerytury lub renty;
+
+### 11)
+
+dane dotyczące wykonywania pracy przez nauczyciela, wychowawcę lub innego pracownika pedagogicznego zatrudnionego w placówkach, o których mowa w art. 2 pkt 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych, w określonym wymiarze obowiązkowego wymiaru zajęć, z wyjątkiem danych za nauczyciela, wychowawcę lub innego pracownika pedagogicznego, od którego płatnik składek uzyskał na piśmie informację o ustaleniu prawa do nauczycielskiego świadczenia kompensacyjnego na podstawie tej ustawy.
+
+” ;
+
+### 5)
+
+po art. 41 dodaje się art. 41a-41f w brzmieniu:
+
+„
+
+### Art. 41a.
+
+### 1.
+
+Płatnik składek w każdym czasie może złożyć do Zakładu oświadczenie o zamiarze przekazania raportów informacyjnych.
+
+### 2.
+
+Złożenie oświadczenia o zamiarze przekazania raportów informacyjnych skutkuje obowiązkiem przekazania raportów informacyjnych za wszystkich ubezpieczonych.
+
+### 3.
+
+Oświadczenie o zamiarze przekazania raportów informacyjnych może zostać odwołane do czasu złożenia pierwszego raportu informacyjnego.
+
+### Art. 41b.
+
+Płatnik składek przekazuje raport informacyjny za ubezpieczonego:
+
+### 1)
+
+wraz z wyrejestrowaniem z ubezpieczeń społecznych - w przypadku wyrejestrowania z ubezpieczeń po złożeniu oświadczenia, o którym mowa w art. 41a;
+
+### 2)
+
+w terminie roku od dnia złożenia oświadczenia, o którym mowa w art. 41a - w przypadku wyrejestrowania przed złożeniem tego oświadczenia.
+
+### Art. 41c.
+
+### 1.
+
+W przypadku, o którym mowa w art. 41b pkt 1, płatnik składek przekazuje ubezpieczonemu, o którym mowa w art. 6 ust. 1 pkt 1, kopię przekazanego raportu informacyjnego oraz dowody potwierdzające wykonywanie w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r. pracy w szczególnych warunkach lub w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz dowody potwierdzające wykonywanie pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r. wraz z pouczeniem o:
+
+### 1)
+
+okresie, o którym mowa w art. 41f ust. 1, dotyczącym przechowywania dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika;
+
+### 2)
+
+prawie do odbioru dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika w terminie miesiąca kalendarzowego rozpoczynającego się w następnym dniu po upływie okresu, o którym mowa w art. 41f ust. 1;
+
+### 3)
+
+prawie do uzyskania kopii dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika.
+
+### 2.
+
+W przypadku, o którym mowa w art. 41b pkt 1, płatnik składek przekazuje ubezpieczonemu, o którym mowa w art. 6 ust. 1 pkt 4, kopię przekazanego raportu informacyjnego wraz z pouczeniem o:
+
+### 1)
+
+okresie, o którym mowa w art. 125a ust. 4a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, dotyczącym przechowywania dokumentacji, o której mowa w tym przepisie;
+
+### 2)
+
+prawie do odbioru dokumentacji, o której mowa w pkt 1, w terminie miesiąca kalendarzowego rozpoczynającego się w następnym dniu po upływie okresu, o którym mowa w art. 41f.
+
+### Art. 41d.
+
+### 1.
+
+Zakład informuje ubezpieczonego o przekazaniu przez płatnika składek raportu informacyjnego w informacji o stanie konta, o której mowa w art. 50 ust. 1, przesyłanej za rok, w którym raport informacyjny został przekazany.
+
+### 2.
+
+Jeżeli do osoby uprawnionej do świadczenia, za którą został przekazany przez płatnika składek raport informacyjny, nie jest wysyłana informacja o stanie konta, Zakład informuje osobę, za którą został przekazany raport informacyjny, o przekazaniu tego raportu wraz z rocznym obliczeniem podatku lub imienną informacją o wysokości uzyskanego dochodu, o których mowa w art. 34 ust. 7 i 8 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2018 r. poz. 200](https://api.sejm.gov.pl/eli/acts/DU/2018/200/text.html), [z 2017 r. poz. 2494](https://api.sejm.gov.pl/eli/acts/DU/2017/2494/text.html) oraz [z 2018 r. poz. 106](https://api.sejm.gov.pl/eli/acts/DU/2018/106/text.html) i [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html)), przesyłanych za rok, w którym raport informacyjny został złożony.
+
+### 3.
+
+Ubezpieczonemu albo osobie, o której mowa w ust. 2, którzy utworzyli profil informacyjny w systemie teleinformatycznym Zakładu, udostępnia się w tym systemie informację o przekazaniu przez płatnika składek raportu informacyjnego.
+
+### 4.
+
+Informacja Zakładu, o której mowa w ust. 1 lub 2, zawiera pouczenie, o którym mowa odpowiednio w art. 41c ust. 1 lub 2, a w przypadku ubezpieczonego, o którym mowa w art. 6 ust. 1 pkt 1, także o konieczności wystąpienia do płatnika składek o wydanie dowodów potwierdzających wykonywanie w okresie od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r. pracy w szczególnych warunkach lub w szczególnym charakterze, o której mowa w art. 32 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz dowodów potwierdzających wykonywanie pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych, za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2008 r.
+
+### Art. 41e.
+
+### 1.
+
+W przypadku stwierdzenia przez płatnika składek lub ubezpieczonego nieprawidłowości w raporcie informacyjnym płatnik składek jest obowiązany złożyć raport informacyjny korygujący. Do raportu informacyjnego korygującego stosuje się odpowiednio art. 41 ust. 6, 7a i 7b oraz art. 47 ust. 3c.
+
+### 2.
+
+W przypadku stwierdzenia przez ubezpieczonego, że raport informacyjny nie zawiera wszystkich informacji, o których mowa w art. 4 pkt 6a, lub informacje te zostały niewłaściwie zewidencjonowane, stosuje się art. 50 ust. 2e-2n.
+
+### Art. 41f.
+
+### 1.
+
+Złożenie raportów informacyjnych za ubezpieczonych, o których mowa w art. 6 ust. 1 pkt 1, skutkuje skróceniem okresu przechowywania ich dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika do 10 lat, licząc od końca roku kalendarzowego, w którym raport informacyjny został złożony.
+
+### 2.
+
+Złożenie raportów informacyjnych za ubezpieczonych, o których mowa w art. 6 ust. 1 pkt 4, skutkuje skróceniem okresu przechowywania ich dokumentacji, o której mowa w art. 125a ust. 4 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, do 10 lat, licząc od końca roku kalendarzowego, w którym raport informacyjny został złożony.
+
+” ;
+
+### 6)
+
+w art. 43a ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zgłoszenie płatnika składek, zmianę danych w zgłoszeniu płatnika składek, zgłoszenie wyrejestrowania płatnika składek, zgłoszenie ubezpieczonego do ubezpieczeń społecznych, wyrejestrowanie ubezpieczonego z ubezpieczeń społecznych, deklaracje rozliczeniowe, raporty informacyjne oraz imienne raporty miesięczne, z zastrzeżeniem art. 43 ust. 5a i 5c, płatnik składek może w terminie określonym dla złożenia tych dokumentów przekazać bezpośrednio do Zakładu lub urzędu skarbowego, w którym jest prowadzone centrum obsługi. Dokumenty te urząd skarbowy nie później niż w następnym dniu roboczym, licząc od dnia wpływu tych dokumentów, przekazuje do Zakładu.
+
+” ;
+
+### 7)
+
+w art. 49 w ust. 2 w pkt 6 dodaje się przecinek i pkt 7 i 8 w brzmieniu:
+
+„
+
+### 7)
+
+raportów informacyjnych,
+
+### 8)
+
+oświadczeń o zamiarze przekazania raportów informacyjnych
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2017 r. poz. 1383](https://api.sejm.gov.pl/eli/acts/DU/2017/1383/text.html), [1386](https://api.sejm.gov.pl/eli/acts/DU/2017/1386/text.html) i [2120](https://api.sejm.gov.pl/eli/acts/DU/2017/2120/text.html) oraz [z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 116 dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Do wniosku w sprawie przyznania świadczeń zainteresowanemu, który podlegał po raz pierwszy ubezpieczeniu albo rozpoczął podleganie kolejnemu ubezpieczeniu na podstawie art. 6 ust. 1 pkt 1 i 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, organ rentowy nie może żądać dowodów potwierdzających dane znajdujące się na koncie ubezpieczonego, z wyjątkiem okresów pracy w szczególnych warunkach lub w szczególnym charakterze oraz dowodów potwierdzających wykonywanie pracy w szczególnych warunkach lub o szczególnym charakterze, o której mowa w art. 3 ust. 1 i 3 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych - przypadających do dnia 31 grudnia 2008 r.
+
+” ;
+
+### 2)
+
+w art. 125a:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Płatnik składek jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty, przez okres 50 lat od dnia zakończenia przez ubezpieczonego pracy u danego płatnika, z zastrzeżeniem ust. 4a.
+
+” ,
+
+### b)
+
+po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+„
+
+### 4a.
+
+Płatnik składek jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty ubezpieczonego, o którym mowa w art. 6 ust. 1 pkt 1 i 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, przez okres 10 lat od końca roku kalendarzowego, w którym:
+
+### 1)
+
+ubezpieczony zakończył pracę u danego płatnika składek, w przypadku ubezpieczonego zgłoszonego u danego płatnika składek do ubezpieczeń po dniu 31 grudnia 2018 r.;
+
+### 2)
+
+został złożony raport informacyjny, o którym mowa w art. 4 pkt 6a ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+### 4b.
+
+Płatnik składek, który nie przekazał raportu informacyjnego za ubezpieczonego, o którym mowa w ust. 4a, z wyjątkiem ubezpieczonego zgłoszonego do ubezpieczeń po dniu 31 grudnia 2018 r., jest zobowiązany przechowywać listy płac, karty wynagrodzeń albo inne dowody, na podstawie których następuje ustalenie podstawy wymiaru emerytury lub renty, przez okres, o którym mowa w ust. 4.
+
+” .
+
+### Art. 5.
+
+Pracodawca przechowuje dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracownika wykonującego prace górnicze i prace równorzędne z pracą górniczą oraz z okresami zaliczanymi do okresów pracy górniczej przez okres 50 lat od dnia zakończenia stosunku pracy u danego pracodawcy.
+
+### Art. 6.
+
+W przypadku rozwiązania lub wygaśnięcia stosunku pracy pracodawca wraz ze świadectwem pracy wydaje pracownikowi, któremu przysługiwał ekwiwalent pieniężny za deputat węglowy, o którym mowa w art. 74 ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” ([Dz. U. z 2017 r. poz. 680](https://api.sejm.gov.pl/eli/acts/DU/2017/680/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2017/1529/text.html)), dokument potwierdzający uprawnienie do tego ekwiwalentu, określający, za jaki miesiąc został pobrany ostatni ekwiwalent.
+
+### Art. 7.
+
+### 1.
+
+Do stosunków pracy nawiązanych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 94 pkt 9a i 9b, z zastrzeżeniem ust. 2, oraz art. 948-9412 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. Art. 947 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+
+### 2.
+
+Okres przechowywania dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika i byłego pracownika dotyczących stosunków pracy nawiązanych przed dniem wejścia w życie niniejszej ustawy ustala się na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Okres przechowywania dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracownika dotyczących stosunków pracy nawiązanych po dniu 31 grudnia 1998 r., a przed dniem 1 stycznia 2019 r. ulega skróceniu w przypadku złożenia raportu informacyjnego, o którym mowa w art. 4 pkt 6a ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą, do 10 lat, licząc od końca roku kalendarzowego, w którym raport informacyjny został złożony.
+
+### Art. 8.
+
+Były pracownik, za którego został złożony raport informacyjny, o którym mowa w art. 4 pkt 6a ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą, może odebrać dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracownika w terminie miesiąca kalendarzowego następującego po upływie okresu, o którym mowa w art. 7 ust. 3.
+
+### Art. 9.
+
+W przypadku ponownego nawiązania stosunku pracy z tym samym pracownikiem, z którym poprzedni stosunek pracy trwał w dniu wejścia w życie niniejszej ustawy, art. 945 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się, jeżeli za tego pracownika został złożony raport informacyjny, o którym mowa w art. 4 pkt 6a ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 10.
+
+### 1.
+
+Pracodawca, w terminie 21 dni od dnia wejścia w życie niniejszej ustawy, informuje, w sposób przyjęty u danego pracodawcy, pracowników, którzy dotychczas otrzymywali wynagrodzenie za pracę do rąk własnych, o obowiązku:
+
+### 1)
+
+podania numeru rachunku płatniczego, na który będzie wypłacane wynagrodzenie za pracę, albo
+
+### 2)
+
+złożenia wniosku dotyczącego dalszej wypłaty wynagrodzenia za pracę do rąk własnych.
+
+### 2.
+
+Pracownik podaje pracodawcy numer rachunku płatniczego albo składa pracodawcy wniosek dotyczący dalszej wypłaty wynagrodzenia za pracę do rąk własnych w postaci papierowej lub elektronicznej w terminie 7 dni od dnia otrzymania od pracodawcy informacji, o której mowa w ust. 1.
+
+### 3.
+
+Jeżeli w okresie od dnia wejścia w życie niniejszej ustawy do dnia otrzymania przez pracodawcę informacji, o której mowa w ust. 1 pkt 1, albo wniosku, o którym mowa w ust. 1 pkt 2, przypada termin wypłaty wynagrodzenia za pracę, pracodawca wypłaca wynagrodzenie do rąk własnych pracownika.
+
+### 4.
+
+Przepis ust. 3 stosuje się odpowiednio, jeżeli pracownik nie poda informacji, o której mowa w ust. 1 pkt 1, ani nie złoży wniosku, o którym mowa w ust. 1 pkt 2.
+
+### Art. 11.
+
+### 1.
+
+Przedsiębiorcy wykonujący działalność gospodarczą w zakresie przechowywania dokumentacji osobowej i płacowej pracodawców o czasowym okresie przechowywania bez uzyskania wpisu do rejestru, o którym mowa w art. 51a ustawy zmienianej w art. 2, są obowiązani dostosować swoją formę prawną i uzyskać wpis do rejestru, o którym mowa w art. 51a ustawy zmienianej w art. 2, w terminie do dnia 31 grudnia 2018 r., a w przypadku nieuzyskania wpisu w tym terminie - zakończyć wykonywanie tej działalności.
+
+### 2.
+
+Do postępowania w zakresie uzyskania wpisu do rejestru oraz do wykonywania działalności, o których mowa w ust. 1, stosuje się przepisy art. 51a i art. 51b-51t ustawy zmienianej w art. 2.
+
+### Art. 12.
+
+Przedsiębiorca, który do dnia 31 grudnia 2018 r. nie uzyska wpisu do rejestru, o którym mowa w art. 51a ustawy zmienianej w art. 2, zakończy wykonywanie działalności w zakresie przechowywania dokumentacji osobowej i płacowej pracodawców o czasowym okresie przechowywania i przekaże ją do dalszego przechowywania uprawnionemu podmiotowi, o którym mowa w art. 51a ust. 1 albo ust. 2 ustawy zmienianej w art. 2.
+
+### Art. 13.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 11 i art. 12, które wchodzą w życie z dniem ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych oraz ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.

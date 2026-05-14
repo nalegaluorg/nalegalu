@@ -1,0 +1,211 @@
+---
+title: Obwieszczenie Ministra Środowiska z dnia 15 października 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej
+address: WDU20190002288
+eli: DU/2019/2288
+publisher: DU
+year: 2019
+pos: 2288
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Środowiskaz dnia 15 października 2019 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2288 |
+| ISAP | WDU20190002288 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-10-15 |
+| Data wydania | 2019-11-21 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/2288/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/2288) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej](#part_2)
+
+- [Załącznik nr 1 - Statut Magurskiego Parku Narodowego z siedzibą w Krempnej](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej ([Dz. U. z 2014 r. poz. 1839](https://api.sejm.gov.pl/eli/acts/DU/2014/1839/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 14 lutego 2019 r. zmieniającym rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej ([Dz. U. poz. 385](https://api.sejm.gov.pl/eli/acts/DU/2019/385/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 14 lutego 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej ([Dz. U. poz. 385](https://api.sejm.gov.pl/eli/acts/DU/2019/385/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej[1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).](#gloss-0:1:)
+
+Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2018 r. poz. 1614](https://api.sejm.gov.pl/eli/acts/DU/2018/1614/text.html), [2244](https://api.sejm.gov.pl/eli/acts/DU/2018/2244/text.html) i [2340](https://api.sejm.gov.pl/eli/acts/DU/2018/2340/text.html) oraz [z 2019 r. poz. 1696](https://api.sejm.gov.pl/eli/acts/DU/2019/1696/text.html) i [1815](https://api.sejm.gov.pl/eli/acts/DU/2019/1815/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia[2) Rozporządzenie zostało ogłoszone w dniu 6 marca 2013 r.](#gloss-0:2:).[3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 68 Ministra Środowiska z dnia 10 października 2005 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 25), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).](#gloss-0:3:)
+
+1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Rozporządzenie zostało ogłoszone w dniu 6 marca 2013 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 68 Ministra Środowiska z dnia 10 października 2005 r. w sprawie nadania statutu Magurskiemu Parkowi Narodowemu (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 25), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).
+
+## Załącznik nr 1 - Statut Magurskiego Parku Narodowego z siedzibą w Krempnej
+
+### § 1.
+
+Magurski Park Narodowy z siedzibą w Krempnej, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2018 r. poz. 1614](https://api.sejm.gov.pl/eli/acts/DU/2018/1614/text.html), [2244](https://api.sejm.gov.pl/eli/acts/DU/2018/2244/text.html) i [2340](https://api.sejm.gov.pl/eli/acts/DU/2018/2340/text.html) oraz [z 2019 r. poz. 1696](https://api.sejm.gov.pl/eli/acts/DU/2019/1696/text.html) i [1815](https://api.sejm.gov.pl/eli/acts/DU/2019/1815/text.html)) oraz niniejszego statutu.
+
+### § 2.
+
+Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
+
+### 1)
+
+Dział Monitoringu, Udostępniania Parku, Edukacji i Natury 2000, w którego skład wchodzą:
+
+### a)
+
+Zespół do spraw Ochrony Przyrody,
+
+### b)
+
+Zespół do spraw Edukacji,
+
+### c[4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 14 lutego 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. poz. 385), które weszło w życie z dniem 15 marca 2019 r.](#gloss-0:4:))
+
+Zespół do spraw Udostępniania,
+
+### d)
+
+Samodzielne stanowisko do spraw Zarządzania Systemami Informatycznymi;
+
+### 2)
+
+Dział Realizacji Zadań Ochronnych i Ochrony Mienia, w którego skład wchodzą:
+
+### a)
+
+Obręb Ochronny Krempna, podzielony na obwody ochronne:
+
+- - Baranie,
+
+- - Grab,
+
+- - Huta Krempska,
+
+- - Polany,
+
+- - Rostajne,
+
+- - Żydowskie,
+
+### b)
+
+Obręb Ochronny Żmigród, podzielony na obwody ochronne:
+
+- - Folusz,
+
+- - Hałbów,
+
+- - Jaworze,
+
+- - Kamień,
+
+- - Pielgrzymka,
+
+- - Świątkowa,
+
+### c)
+
+Samodzielne Stanowisko do spraw Ochrony Ekosystemów Nieleśnych;
+
+### 3)
+
+Posterunek Straży Parku;
+
+### 4[5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:5:))
+
+Zespół do spraw Finansowo-Księgowych;
+
+### 4a[6) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:6:))
+
+Sekcja do spraw Zamówień Publicznych;
+
+### 5)
+
+Sekcja do spraw Administracji, w skład której wchodzi Samodzielne Stanowisko do spraw Archiwizacji i Obiegu Dokumentów;
+
+### 6)
+
+Sekcja do spraw Transportu;
+
+### 6a[7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:7:))
+
+Sekcja do spraw Realizacji Projektów i Komunikacji;
+
+### 7)
+
+Samodzielne Stanowisko do spraw Kadr;
+
+### 8)
+
+Samodzielne Stanowisko do spraw Bezpieczeństwa i Higieny Pracy;
+
+### 9)
+
+Samodzielne Stanowisko do spraw Stanu Posiadania;
+
+### 10)
+
+Samodzielne Stanowisko do spraw Kontroli Zarządczej;
+
+### 11)
+
+(uchylony);[8) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:8:)
+
+### 12)
+
+Samodzielne Stanowisko do spraw Obronnych;
+
+### 13[9) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:9:))
+
+Samodzielne Stanowisko do spraw Obsługi Prawnej;
+
+### 14[9) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:9:))
+
+Inspektor Ochrony Danych.
+
+### § 3.
+
+Dyrektor Parku może tworzyć komisje lub zespoły opiniodawczo-doradcze o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb działania oraz sposób ich obsługi.
+
+### § 4.
+
+Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
+
+### § 5.
+
+W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
+
+### § 6.
+
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+
+4) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 14 lutego 2019 r. zmieniającego rozporządzenie w sprawie nadania statutu Magurskiemu Parkowi Narodowemu z siedzibą w Krempnej (Dz. U. poz. 385), które weszło w życie z dniem 15 marca 2019 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 6) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 4. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 8) Przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 4. 9) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 4.

@@ -8,11 +8,9 @@ pos: 442
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. Na podstawie 16 1 zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych nieinnych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 23 lutego 1991 uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność rzecz niepodległego bytu Państwa Polskiego (Dz. U. 2021 poz. 1693), uwzględnieniem zmiany wprowadzonej ustawą dnia 7 lipca 2023 zmianie ustawy Kodeks cywilnego, ustawy Prawo ustroju sądów powszechnych, ustawy Kodeks karnego oraz niektórych innych ustaw (Dz. U. poz. 1860) oraz zmian wynikających przepisów ogłoszonych przed dniem 20 marca 2024
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 21 marca 2024 sprawie ogłoszenia jednolitego tekstu ustawy uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność rzecz niepodległego bytu Państwa Polskiego*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego
 
 | Pole | Wartość |
 |---|---|
@@ -24,113 +22,262 @@ domain: null
 | Data ogłoszenia | 2024-03-21 |
 | Data wydania | 2024-03-26 |
 | Ostatnia zmiana | 2024-03-27 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/442/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/442/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/442) |
 
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 40 ustawy dnia 7 lipca 2023 zmianie ustawy Kodeks cywilnego, ustawy Prawo ustroju sądów powszechnych, ustawy Kodeks karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), który stanowi: „Art. 40. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
-1) 28 pkt 30 pkt 2–6, 31 pkt 1 lit. a, c–e, f zakresie pkt 67 lit. b, oraz lit. g h, pkt 2–4 oraz 39 1 2, które wchodzą życie dniem 1 października 2023 r.;
-2) 2 pkt pkt 6 lit. b, pkt 14, 16 17 oraz 33, które wchodzą życie dniem 1 stycznia 2024 r.;
-3) 6, 7, 9, 12, 13, 17–19 21 pkt 2 zakresie 13 § 3a pkt 1 oraz 22, 23, 25 38, które wchodzą życie po upływie 3 miesięcy od dnia ogłoszenia;
-4) 1 pkt 1–14, 21 33, 2 pkt 6 lit. a, pkt 8, 12 15, 3 pkt 6, 10 16–20, 4, 5, 10, 11, 24 pkt 28 pkt 2 zakresie uchylenia 15zzs 1 pkt 1 2, 2 3, 28 pkt 3 oraz 39 3, które wchodzą życie po upływie 6 miesięcy od dnia ogłoszenia;
-5) 30 pkt 31 pkt 1 lit. b oraz f zakresie pkt 67 lit. c, które wchodzą życie dniem 14 marca 2024 r.;
-6) 14, który wchodzi życie dniem 1 października 2029 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA dnia 23 lutego 1991 uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność rzecz niepodległego bytu Państwa Polskiego
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Uznaje się za nieważne orzeczenia wydane przez polskie organy ścigania wymiaru sprawiedliwości przez organy pozasądowe okresie od rozpoczęcia ich działalności ziemiach polskich, począwszy od 1 stycznia 1944 31 grudnia 1989 r., jeżeli czyn zarzucony przypisany był związany działalnością rzecz niepodległego bytu Państwa Polskiego albo orzeczenie wydano powodu takiej działalności, jak również orzeczenia wydane za opór przeciwko kolektywizacji wsi oraz obowiązkowym dostawom.
+- [Załącznik - Tekst jednolity ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego](#part_2)
 
-2. Przepis 1 stosuje się również, jeżeli czyn został popełniony celu uniknięcia stosunku siebie innej osoby represji za działalność, której tym przepisie.
+TOC
 
-3. Przepisów 1 2 nie stosuje się, jeżeli dobro poświęcone pozostawało rażącej dysproporcji dobra, które uzyskano zamierzano uzyskać, albo sposób działania zastosowany środek były rażąco niewspółmierne zamierzonego osiągniętego skutku.
+## Treść obwieszczenia
 
-4. (uchylony)
+### 1.
 
-**Art. 2.**
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego ([Dz. U. z 2021 r. poz. 1693](https://api.sejm.gov.pl/eli/acts/DU/2021/1693/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw ([Dz. U. poz. 1860](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 20 marca 2024 r.
 
-1. Nieważność orzeczenia stwierdza sąd okręgowy albo wojskowy sąd okręgowy, jeżeli zgodnie obowiązującymi przepisami dniu wejścia życie ustawy właściwy rozpoznania sprawy czyn będący przedmiotem tego orzeczenia jest sąd wojskowy. Stwierdzenie orzeczenia uznaje się za równoznaczne uniewinnieniem.
+### 2.
 
-2. Miejscowo właściwy stwierdzenia jest sąd, którego okręgu, określonym przepisami obowiązującymi dniu wejścia życie ustawy, wydane zostało przez organ I instancji orzeczenie będące przedmiotem unieważnienie.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 40 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw ([Dz. U. poz. 1860](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.html)), który stanowi:
 
-3. Jeżeli nie można ustalić właściwości miejscowej sądu według przepisu 2, sprawę rozpoznaje odpowiednio Sąd Okręgowy Warszawa-Praga Warszawie Wojskowy Sąd Okręgowy Warszawie.
+„
 
-**Art. 3.**
+### Art. 40.
 
-1. Stwierdzenie orzeczenia następuje wniosek Rzecznika Praw Obywatelskich, Ministra Sprawiedliwości, prokuratora, osoby represjonowanej, osoby uprawnionej składania jej korzyść środków odwoławczych, a razie śmierci, nieobecności kraju choroby psychicznej osoby represjonowanej, także jej krewnego linii prostej, przysposabiającego przysposobionego, rodzeństwa oraz małżonka; jak również organizacji zrzeszającej osoby represjonowane za działalność rzecz niepodległego bytu Państwa Polskiego.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-2. Sąd orzeka posiedzeniu podstawie akt organu, który wydał orzeczenie, a miarę potrzeby przeprowadza dalsze postępowanie dowodowe.
+### 1)
 
-3. Na postanowienie przedmiocie orzeczenia przysługuje zażalenie podmiotom, 1.
+art. 28 pkt 1, art. 30 pkt 2-6, art. 31 pkt 1 lit. a, c-e, f w zakresie pkt 67 lit. b, oraz lit. g i h, pkt 2-4 oraz art. 39 ust. 1 i 2, które wchodzą w życie z dniem 1 października 2023 r.;
 
-4. Jeżeli przepisy ustawy nie stanowią inaczej, postępowaniu stwierdzenie orzeczenia mają odpowiednie zastosowanie przepisy Kodeksu karnego, tym że udział prokuratora posiedzeniu stwierdzenie nieważności jest obowiązkowy. W posiedzeniu ma prawo wziąć udział osoba represjonowana, osoba uprawniona składania jej korzyść środków odwoławczych, a razie śmierci, nieobecności kraju choroby psychicznej osoby represjonowanej, także jej krewny linii prostej, przysposabiający przysposobiony, rodzeństwo oraz małżonek, a ponadto, za zgodą sądu, inne osoby. Z przebiegu posiedzenia sporządza się protokół.
+### 2)
 
-**Art. 4.** Stwierdzeniu orzeczenia nie stoi przeszkodzie wykonanie kary, zastosowanie amnestii abolicji, zatarcie skazania, akt łaski, przedawnienie, zadośćuczynienie, śmierć osoby represjonowanej, której orzeczenie dotyczy, zawieszenie jego umorzenie innych powodów niż te, 17 § 1 pkt 1 2 Kodeksu karnego.
+art. 2 pkt 1, pkt 6 lit. b, pkt 14, 16 i 17 oraz art. 33, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 
-**Art. 5.**
+### 3)
 
-1. Stwierdzając nieważność orzeczenia, sąd może orzec, wniosek podmiotów, 3 podaniu treści postanowienia publicznej wiadomości szczególny sposób.
+art. 6, art. 7, art. 9, art. 12, art. 13, art. 17-19 i art. 21 pkt 2 w zakresie art. 13 § 3a pkt 1 oraz art. 22, art. 23, art. 25 i art. 38, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
 
-2. Na postanowienie przysługuje zażalenie podmiotom, 3 1. żądania odszkodowania za poniesioną szkodę zadośćuczynienia za doznaną krzywdę.
+### 4)
 
-**Art. 7.**
+art. 1 pkt 1-14, 21 i 33, art. 2 pkt 6 lit. a, pkt 8, 12 i 15, art. 3 pkt 1, 6, 10 i 16-20, art. 4, art. 5, art. 10, art. 11, art. 24 pkt 1, art. 28 pkt 2 - w zakresie uchylenia art. 15zzs1 ust. 1 pkt 1 i 2, ust. 2 i 3, art. 28 pkt 3 oraz art. 39 ust. 3, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
 
-1. Sąd pozostawia bez rozpoznania wniosek, którym 3 jeżeli oskarżonego uniewinniono postępowanie umorzono powodów, 17 § 1 pkt 1 2 Kodeksu karnego.
+### 5)
 
-2. Na postanowienie przysługuje zażalenie podmiotom, 3 1.
+art. 30 pkt 1, art. 31 pkt 1 lit. b oraz f w zakresie pkt 67 lit. c, które wchodzą w życie z dniem 14 marca 2024 r.;
 
-**Art. 8.**
+### 6)
 
-1. Osobie, wobec której stwierdzono nieważność orzeczenia albo wydano decyzję internowaniu związku wprowadzeniem dniu 13 grudnia 1981 Polsce stanu wojennego, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę zadośćuczynienie za doznaną krzywdę wynikłe wydania wykonania orzeczenia albo decyzji. W razie śmierci tej osoby uprawnienie to przechodzi małżonka, dzieci rodziców.
+art. 14, który wchodzi w życie z dniem 1 października 2029 r.
 
-1a. (utracił moc) 1b. (uchylony) 1c. (uchylony) 1d. (utracił moc)
+” .
 
-2. Żądanie odszkodowania zadośćuczynienia należy zgłosić odpowiednio sądzie okręgowym wojskowym sądzie okręgowym, który wydał postanowienie stwierdzeniu orzeczenia, terminie 10 lat od daty jego uprawomocnienia się.
+## Załącznik - Tekst jednolity ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego
 
-2a. Uprawnienia określone 1 przysługują również osobom, mieszkającym obecnie bądź chwili śmierci Polsce, represjonowanym przez radzieckie organy ścigania wymiaru sprawiedliwości organy pozasądowe, działające obecnym terytorium Polski okresie od dnia 1 lipca 1944 dnia 31 grudnia 1956 oraz terytorium Polski granicach ustalonych Traktacie Ryskim, okresie od dnia 1 stycznia 1944 dnia 31 grudnia 1956 r., za działalność rzecz niepodległego bytu Państwa Polskiego powodu takiej działalności. Żądanie odszkodowania zadośćuczynienia należy zgłosić sądzie okręgowym, którego okręgu zamieszkuje osoba składająca żądanie; sąd ten jest właściwy rozpoznania sprawy. Przepis 1 3 stosuje się odpowiednio, zaś przepisy 9–11 nie mają zastosowania.
+### Art. 1.
 
-2b. Przez działalność rzecz niepodległego bytu Państwa Polskiego, której 2a, odniesieniu osób represjonowanych terytorium Polski granicach ustalonych Traktacie Ryskim poza obecnym terytorium Polski, należy rozumieć działalność okresie od dnia 17 września 1939 dnia 5 lutego 1946 2c. Żądanie odszkodowania zadośćuczynienia za szkodę krzywdę wynikłe wydania wykonania decyzji, której należy zgłosić sądzie okręgowym, którego okręgu zamieszkuje osoba składająca żądanie.
+### 1.
 
-2d. Odpis żądania, którym 2, sąd doręcza prokuratorowi urzędu.
+Uznaje się za nieważne orzeczenia wydane przez polskie organy ścigania i wymiaru sprawiedliwości lub przez organy pozasądowe w okresie od rozpoczęcia ich działalności na ziemiach polskich, począwszy od 1 stycznia 1944 r. do 31 grudnia 1989 r., jeżeli czyn zarzucony lub przypisany był związany z działalnością na rzecz niepodległego bytu Państwa Polskiego albo orzeczenie wydano z powodu takiej działalności, jak również orzeczenia wydane za opór przeciwko kolektywizacji wsi oraz obowiązkowym dostawom.
 
-3. W postępowaniu odszkodowanie zadośćuczynienie mają odpowiednie zastosowanie przepisy rozdziału 58 Kodeksu karnego, wyjątkiem 554 § 2a 2b oraz 555.
+### 2.
 
-4. Przepis 1 nie ma zastosowania, jeżeli wyniku rewizji nadzwyczajnej, kasacji wznowienia prawomocnie zasądzono odszkodowanie, chyba że za jego zastosowaniem przemawiają względy słuszności.
+Przepis ust. 1 stosuje się również, jeżeli czyn został popełniony w celu uniknięcia w stosunku do siebie lub innej osoby represji za działalność, o której mowa w tym przepisie.
 
-5. Przepisu 1 nie stosuje się osób, działalność, okresie będącym podstawą stwierdzenia orzeczenia albo uznania za nieważne decyzji określonej stanowiła zaprzeczenie działalności rzecz niepodległego bytu Państwa Polskiego.
+### 3.
 
-6. Przepisu 2a nie stosuje się osób, którym Szef Urzędu Spraw Kombatantów Osób Represjonowanych przyznał świadczenie pieniężne podstawie ustawy dnia 14 sierpnia 2020 świadczeniu pieniężnym przysługującym osobom zesłanym deportowanym przez władze Związku Socjalistycznych Republik Radzieckich (Dz. U. 2021 poz. 2029).
+Przepisów ust. 1 i 2 nie stosuje się, jeżeli dobro poświęcone pozostawało w rażącej dysproporcji do dobra, które uzyskano lub zamierzano uzyskać, albo sposób działania lub zastosowany środek były rażąco niewspółmierne do zamierzonego lub osiągniętego skutku.
 
-**Art. 8a.**
+### 4.
 
-1. Osobie, która okresie od dnia 1 listopada 1982 dnia 28 lutego 1983 pełniła czynną służbę wojskową, której odbycia została powołana za działalność rzecz niepodległego bytu Państwa Polskiego, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę zadośćuczynienie za doznaną krzywdę.
+(uchylony)
 
-2. Przepisy 8 1 zdanie drugie, 2c 3–5 stosuje się odpowiednio. innym miejscu odosobnienia, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę zadośćuczynienie za doznaną krzywdę.
+### Art. 2.
 
-2. Przepisy 8 1 zdanie drugie, 2 oraz 2d–5 stosuje się odpowiednio.
+### 1.
 
-3. Stwierdzenie orzeczenia, uwzględnieniem 3 może nastąpić także wniosek dziecka, którym a razie jego śmierci także wniosek jego małżonka, dzieci rodziców.
+Nieważność orzeczenia stwierdza sąd okręgowy albo wojskowy sąd okręgowy, jeżeli zgodnie z obowiązującymi przepisami w dniu wejścia w życie ustawy właściwy do rozpoznania sprawy o czyn będący przedmiotem tego orzeczenia jest sąd wojskowy. Stwierdzenie nieważności orzeczenia uznaje się za równoznaczne z uniewinnieniem.
 
-**Art. 9.** Niezależnie od odszkodowania zadośćuczynienia sąd może zasądzić od Skarbu Państwa pokrycie całości części kosztów symbolicznego upamiętnienia osoby niesłusznie represjonowanej, jeżeli jej śmierć była skutkiem wykonania orzeczenia uznanego za nieważne; przepisy 3 1 oraz 8 2 3 stosuje się odpowiednio.
+### 2.
 
-**Art. 10.**
+Miejscowo właściwy do stwierdzenia nieważności jest sąd, w którego okręgu, określonym przepisami obowiązującymi w dniu wejścia w życie ustawy, wydane zostało przez organ I instancji orzeczenie będące przedmiotem postępowania o unieważnienie.
 
-1. W przypadku stwierdzenia orzeczenia, osobie uprawnionej zwraca się mienie, którego przepadek konfiskatę orzeczono rzecz Skarbu Państwa, oraz przedmioty zatrzymane toku wyjątkiem przedmiotów, posiadanie jest zakazane wymaga zezwolenia jeżeli znajdują się one posiadaniu państwowej jednostki organizacyjnej, a razie niemożności zwrotu ich równowartość wypłaca się ze środków Funduszu Reprywatyzacji, którym 56 1 ustawy dnia 30 sierpnia 1996 komercjalizacji niektórych uprawnieniach pracowników (Dz. U. 2023 poz. 343 oraz 2024 poz. 123).
+### 3.
 
-2. W sprawach, Skarb Państwa jest reprezentowany przez państwową jednostkę organizacyjną, której władaniu jest mienie podlegające zwrotowi mienie zatrzymane toku postępowania. W przypadku braku takiej jednostki Skarb Państwa jest reprezentowany przez organ administracji rządowej, któremu przekazano dysponowania mienie wyniku orzeczenia sądu, którym 2 1. W przypadku braku takiej jednostki Skarb Państwa jest reprezentowany przez ministra właściwego spraw finansów publicznych.
+Jeżeli nie można ustalić właściwości miejscowej sądu według przepisu ust. 2, sprawę rozpoznaje odpowiednio Sąd Okręgowy Warszawa-Praga w Warszawie lub Wojskowy Sąd Okręgowy w Warszawie.
 
-**Art. 11.**
+### Art. 3.
 
-1. Przepisy 8, 9 10 mają odpowiednie zastosowanie również wobec osób, co zachodzą przesłanki stwierdzenia orzeczenia, jeżeli oskarżonego uniewinniono postępowanie umorzono powodów, 17 § 1 pkt 1 2 Kodeksu karnego, nie zostało prawomocnie zasądzone odszkodowanie zadośćuczynienie, a osoby te były zatrzymane tymczasowo aresztowane. Roszczenia odszkodowanie zadośćuczynienie nie przedawniają się.
+### 1.
 
-2. Przepis 1 ma odpowiednie zastosowanie wobec osób pozbawionych życia albo wolności przez organy, 1 bez przeprowadzenia zakończonego orzeczeniem postępowania.
+Stwierdzenie nieważności orzeczenia następuje na wniosek Rzecznika Praw Obywatelskich, Ministra Sprawiedliwości, prokuratora, osoby represjonowanej, osoby uprawnionej do składania na jej korzyść środków odwoławczych, a w razie śmierci, nieobecności w kraju lub choroby psychicznej osoby represjonowanej, także jej krewnego w linii prostej, przysposabiającego lub przysposobionego, rodzeństwa oraz małżonka; jak również organizacji zrzeszającej osoby represjonowane za działalność na rzecz niepodległego bytu Państwa Polskiego.
 
-3. Przepisy 8b mają odpowiednie zastosowanie wobec dzieci osób, 1 2. Roszczenia odszkodowanie zadośćuczynienie nie przedawniają się.
+### 2.
 
-**Art. 12.** Sprawy czyny powodu działalności określonych dnia wejścia ustawy życie nie rozpoznano wniesionej rewizji nadzwyczajnej złożonego wniosku wznowienie postępowania, przekazuje się sądowi właściwemu według przepisów niniejszej ustawy.
+Sąd orzeka na posiedzeniu na podstawie akt postępowania organu, który wydał orzeczenie, a w miarę potrzeby przeprowadza dalsze postępowanie dowodowe.
 
-**Art. 13.** Koszty sprawach objętych ustawą, tym tytułu ustanowienia pełnomocnika, ponosi Skarb Państwa.
+### 3.
 
-**Art. 14.** Przepisy ustawy mają odpowiednie zastosowanie orzeczeń sprawach czyny, wydanych przez organy Polskich Sił Zbrojnych Związku Socjalistycznych Republik Radzieckich niepodlegających rządowi Rzeczypospolitej Polskiej, niezależnie od daty miejsca ich wydania.
+Na postanowienie w przedmiocie nieważności orzeczenia przysługuje zażalenie podmiotom, o których mowa w ust. 1.
 
-**Art. 15.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+### 4.
 
+Jeżeli przepisy ustawy nie stanowią inaczej, w postępowaniu o stwierdzenie nieważności orzeczenia mają odpowiednie zastosowanie przepisy Kodeksu postępowania karnego, z tym że udział prokuratora w posiedzeniu o stwierdzenie nieważności jest obowiązkowy. W posiedzeniu ma prawo wziąć udział osoba represjonowana, osoba uprawniona do składania na jej korzyść środków odwoławczych, a w razie śmierci, nieobecności w kraju lub choroby psychicznej osoby represjonowanej, także jej krewny w linii prostej, przysposabiający lub przysposobiony, rodzeństwo oraz małżonek, a ponadto, za zgodą sądu, inne osoby. Z przebiegu posiedzenia sporządza się protokół.
+
+### Art. 4.
+
+Stwierdzeniu nieważności orzeczenia nie stoi na przeszkodzie wykonanie kary, zastosowanie amnestii lub abolicji, zatarcie skazania, akt łaski, przedawnienie, zadośćuczynienie, śmierć osoby represjonowanej, której orzeczenie dotyczy, zawieszenie postępowania lub jego umorzenie z innych powodów niż te, o których mowa w art. 17 § 1 pkt 1 i 2 Kodeksu postępowania karnego.
+
+### Art. 5.
+
+### 1.
+
+Stwierdzając nieważność orzeczenia, sąd może orzec, na wniosek podmiotów, o których mowa w art. 3 ust. 1, o podaniu treści postanowienia do publicznej wiadomości w szczególny sposób.
+
+### 2.
+
+Na postanowienie przysługuje zażalenie podmiotom, o których mowa w art. 3 ust. 1.
+
+### Art. 6.
+
+Stwierdzając nieważność orzeczenia, sąd poucza osoby uprawnione o przysługujących im uprawnieniach do żądania odszkodowania za poniesioną szkodę i zadośćuczynienia za doznaną krzywdę.
+
+### Art. 7.
+
+### 1.
+
+Sąd pozostawia bez rozpoznania wniosek, o którym mowa w art. 3 ust. 1, jeżeli oskarżonego uniewinniono lub postępowanie umorzono z powodów, o których mowa w art. 17 § 1 pkt 1 i 2 Kodeksu postępowania karnego.
+
+### 2.
+
+Na postanowienie przysługuje zażalenie podmiotom, o których mowa w art. 3 ust. 1.
+
+### Art. 8.
+
+### 1.
+
+Osobie, wobec której stwierdzono nieważność orzeczenia albo wydano decyzję o internowaniu w związku z wprowadzeniem w dniu 13 grudnia 1981 r. w Polsce stanu wojennego, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę wynikłe z wydania lub wykonania orzeczenia albo decyzji. W razie śmierci tej osoby uprawnienie to przechodzi na małżonka, dzieci i rodziców.
+
+### 1a.
+
+(utracił moc)[1) Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277).](#gloss-0:1:)
+
+### 1b.
+
+(uchylony)
+
+### 1c.
+
+(uchylony)
+
+### 1d.
+
+(utracił moc)[1) Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277).](#gloss-0:1:)
+
+### 2.
+
+Żądanie odszkodowania lub zadośćuczynienia należy zgłosić odpowiednio w sądzie okręgowym lub wojskowym sądzie okręgowym, który wydał postanowienie o stwierdzeniu nieważności orzeczenia, w terminie 10 lat od daty jego uprawomocnienia się.
+
+### 2a.
+
+Uprawnienia określone w ust. 1 przysługują również osobom, mieszkającym obecnie bądź w chwili śmierci w Polsce, represjonowanym przez radzieckie organy ścigania i wymiaru sprawiedliwości lub organy pozasądowe, działające na obecnym terytorium Polski w okresie od dnia 1 lipca 1944 r. do dnia 31 grudnia 1956 r. oraz na terytorium Polski w granicach ustalonych w Traktacie Ryskim, w okresie od dnia 1 stycznia 1944 r. do dnia 31 grudnia 1956 r., za działalność na rzecz niepodległego bytu Państwa Polskiego lub z powodu takiej działalności. Żądanie odszkodowania i zadośćuczynienia należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie; sąd ten jest właściwy do rozpoznania sprawy. Przepis art. 1 ust. 3 stosuje się odpowiednio, zaś przepisy art. 9-11 nie mają zastosowania.
+
+### 2b.
+
+Przez działalność na rzecz niepodległego bytu Państwa Polskiego, o której mowa w ust. 2a, w odniesieniu do osób represjonowanych na terytorium Polski w granicach ustalonych w Traktacie Ryskim poza obecnym terytorium Polski, należy rozumieć działalność w okresie od dnia 17 września 1939 r. do dnia 5 lutego 1946 r.
+
+### 2c.
+
+Żądanie odszkodowania i zadośćuczynienia za szkodę i krzywdę wynikłe z wydania lub wykonania decyzji, o której mowa w ust. 1, należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie.
+
+### 2d.
+
+Odpis żądania, o którym mowa w ust. 2, sąd doręcza prokuratorowi z urzędu.
+
+### 3[2) W brzmieniu ustalonym przez art. 8 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r.](#gloss-0:2:).
+
+W postępowaniu o odszkodowanie i zadośćuczynienie mają odpowiednie zastosowanie przepisy rozdziału 58 Kodeksu postępowania karnego, z wyjątkiem art. 554 § 2a i 2b oraz art. 555.
+
+### 4.
+
+Przepis ust. 1 nie ma zastosowania, jeżeli w wyniku rewizji nadzwyczajnej, kasacji lub wznowienia postępowania prawomocnie zasądzono odszkodowanie, chyba że za jego zastosowaniem przemawiają względy słuszności.
+
+### 5.
+
+Przepisu ust. 1 nie stosuje się do osób, których działalność, w okresie będącym podstawą stwierdzenia nieważności orzeczenia albo uznania za nieważne decyzji określonej w ust. 1, stanowiła zaprzeczenie działalności na rzecz niepodległego bytu Państwa Polskiego.
+
+### 6.
+
+Przepisu ust. 2a nie stosuje się do osób, którym Szef Urzędu do Spraw Kombatantów i Osób Represjonowanych przyznał świadczenie pieniężne na podstawie ustawy z dnia 14 sierpnia 2020 r. o świadczeniu pieniężnym przysługującym osobom zesłanym lub deportowanym przez władze Związku Socjalistycznych Republik Radzieckich ([Dz. U. z 2021 r. poz. 2029](https://api.sejm.gov.pl/eli/acts/DU/2021/2029/text.html)).
+
+### Art. 8a.
+
+### 1.
+
+Osobie, która w okresie od dnia 1 listopada 1982 r. do dnia 28 lutego 1983 r. pełniła czynną służbę wojskową, do której odbycia została powołana za działalność na rzecz niepodległego bytu Państwa Polskiego, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę.
+
+### 2.
+
+Przepisy art. 8 ust. 1 zdanie drugie, ust. 2c i ust. 3-5 stosuje się odpowiednio.
+
+### Art. 8b.
+
+### 1.
+
+Dziecku matki pozbawionej wolności, wobec której stwierdzono nieważność orzeczenia, które przebywało wraz z matką w więzieniu lub innym miejscu odosobnienia lub którego matka w okresie ciąży przebywała w więzieniu lub innym miejscu odosobnienia, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę i zadośćuczynienie za doznaną krzywdę.
+
+### 2.
+
+Przepisy art. 8 ust. 1 zdanie drugie, ust. 2 oraz ust. 2d-5 stosuje się odpowiednio.
+
+### 3.
+
+Stwierdzenie nieważności orzeczenia, z uwzględnieniem art. 3 ust. 1, może nastąpić także na wniosek dziecka, o którym mowa w ust. 1, a w razie jego śmierci - także na wniosek jego małżonka, dzieci i rodziców.
+
+### Art. 9.
+
+Niezależnie od odszkodowania i zadośćuczynienia sąd może zasądzić od Skarbu Państwa pokrycie w całości lub w części kosztów symbolicznego upamiętnienia osoby niesłusznie represjonowanej, jeżeli jej śmierć była skutkiem wykonania orzeczenia uznanego za nieważne; przepisy art. 3 ust. 1 oraz art. 8 ust. 2 i 3 stosuje się odpowiednio.
+
+### Art. 10.
+
+### 1.
+
+W przypadku stwierdzenia nieważności orzeczenia, osobie uprawnionej zwraca się mienie, którego przepadek lub konfiskatę orzeczono na rzecz Skarbu Państwa, oraz przedmioty zatrzymane w toku postępowania - z wyjątkiem przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia - jeżeli znajdują się one w posiadaniu państwowej jednostki organizacyjnej, a w razie niemożności zwrotu - ich równowartość wypłaca się ze środków Funduszu Reprywatyzacji, o którym mowa w art. 56 ust. 1 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i niektórych uprawnieniach pracowników ([Dz. U. z 2023 r. poz. 343](https://api.sejm.gov.pl/eli/acts/DU/2023/343/text.html) oraz [z 2024 r. poz. 123](https://api.sejm.gov.pl/eli/acts/DU/2024/123/text.html)).
+
+### 2.
+
+W sprawach, o których mowa w ust. 1, Skarb Państwa jest reprezentowany przez państwową jednostkę organizacyjną, w której władaniu jest mienie podlegające zwrotowi lub mienie zatrzymane w toku postępowania. W przypadku braku takiej jednostki Skarb Państwa jest reprezentowany przez organ administracji rządowej, któremu przekazano do dysponowania mienie w wyniku orzeczenia sądu, o którym mowa w art. 2 ust. 1. W przypadku braku takiej jednostki Skarb Państwa jest reprezentowany przez ministra właściwego do spraw finansów publicznych.
+
+### Art. 11.
+
+### 1.
+
+Przepisy art. 8, art. 9 i art. 10 mają odpowiednie zastosowanie również wobec osób, co do których zachodzą przesłanki do stwierdzenia nieważności orzeczenia, jeżeli oskarżonego uniewinniono lub postępowanie umorzono z powodów, o których mowa w art. 17 § 1 pkt 1 i 2 Kodeksu postępowania karnego, i nie zostało prawomocnie zasądzone odszkodowanie i zadośćuczynienie, a osoby te były zatrzymane lub tymczasowo aresztowane. Roszczenia o odszkodowanie i zadośćuczynienie nie przedawniają się.
+
+### 2.
+
+Przepis ust. 1 ma odpowiednie zastosowanie wobec osób pozbawionych życia albo wolności przez organy, o których mowa w art. 1 ust. 1, bez przeprowadzenia zakończonego orzeczeniem postępowania.
+
+### 3.
+
+Przepisy art. 8b mają odpowiednie zastosowanie wobec dzieci osób, o których mowa w ust. 1 i 2. Roszczenia o odszkodowanie i zadośćuczynienie nie przedawniają się.
+
+### Art. 12.
+
+Sprawy o czyny lub z powodu działalności określonych w art. 1, w których do dnia wejścia ustawy w życie nie rozpoznano wniesionej rewizji nadzwyczajnej lub złożonego wniosku o wznowienie postępowania, przekazuje się sądowi właściwemu według przepisów niniejszej ustawy.
+
+### Art. 13.
+
+Koszty postępowania w sprawach objętych ustawą, w tym z tytułu ustanowienia pełnomocnika, ponosi Skarb Państwa.
+
+### Art. 14.
+
+Przepisy ustawy mają odpowiednie zastosowanie do orzeczeń w sprawach o czyny, o których mowa w art. 1, wydanych przez organy Polskich Sił Zbrojnych w Związku Socjalistycznych Republik Radzieckich niepodlegających rządowi Rzeczypospolitej Polskiej, niezależnie od daty i miejsca ich wydania.
+
+### Art. 15.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia[3) Ustawa została ogłoszona w dniu 23 kwietnia 1991 r.](#gloss-0:3:).
+
+1) Z dniem 10 marca 2011 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 1 marca 2011 r. sygn. akt P 21/09 (Dz. U. poz. 277). 2) W brzmieniu ustalonym przez art. 8 ustawy z dnia 7 lipca 2023 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych, ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw (Dz. U. poz. 1860), która weszła w życie z dniem 28 września 2023 r. 3) Ustawa została ogłoszona w dniu 23 kwietnia 1991 r.

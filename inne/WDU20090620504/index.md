@@ -8,11 +8,9 @@ pos: 504
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o bezpieczeństwie imprez masowych
-
-*USTAWA z dnia 20 marca 2009 r.*
+# Ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 18 stycznia 1996 r. o kulturze fizycznej, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,791 +22,1884 @@ domain: null
 | Data ogłoszenia | 2009-03-20 |
 | Data wydania | 2009-04-21 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620504) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/504/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/504) |
 
-Art. 69–77. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Bezpieczeństwo imprez masowych](#chpt_2) [Rozdział 3 - Bezpieczeństwo meczu piłki nożnej](#chpt_3) [Rozdział 4 - Służby porządkowe i służby informacyjne](#chpt_4) [Rozdział 5 - Zezwolenia na przeprowadzenie imprezy masowej](#chpt_5) [Rozdział 6 - Kontrola bezpieczeństwa imprezy masowej](#chpt_6) [Rozdział 7 - Zasady gromadzenia i przetwarzania informacji dotyczących bezpieczeństwa imprezy masowej](#chpt_7) [Rozdział 8 - Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej](#chpt_8) [Rozdział 9 - Przepisy karne](#chpt_9) [Rozdział 10 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_10)
 
-**Art. 1.** Ustawa określa:
+TOC
 
-**Art. 2.** Przepisów ustawy nie stosuje się do nieodpłatnych imprez masowych organizowanych na terenach zamkniętych będących w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego oraz do spraw kultury fizycznej, jeżeli jednostki te są organizatorami imprezy masowej w rozumieniu niniejszej ustawy.
+## Treść ustawy
 
-**Art. 3.** Ilekroć w ustawie jest mowa o:
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** Postępowanie w sprawach określonych w ustawie, z wyłączeniem art. 14, prowadzi się zgodnie z przepisami ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), jeżeli przepisy ustawy nie stanowią inaczej.
+### Art. 1.
 
-#### Rozdział 2 Bezpieczeństwo imprez masowych
+Ustawa określa:
 
-**Art. 5.**
+### 1)
 
-1. Za bezpieczeństwo imprezy masowej w miejscu i w czasie jej trwania odpowiada jej organizator.
+zasady postępowania konieczne do zapewnienia bezpieczeństwa imprez masowych;
 
-2. Bezpieczeństwo imprezy masowej obejmuje spełnienie przez organizatora wymogów w zakresie:
+### 2)
 
-- **1)** zapewnienia bezpieczeństwa osobom uczestniczącym w imprezie;
-- **2)** ochrony porządku publicznego;
-- **3)** zabezpieczenia pod względem medycznym;
-- **4)** zapewnienia odpowiedniego stanu technicznego obiektów budowlanych wraz ze służącymi tym obiektom instalacjami i urządzeniami technicznymi, w szczególności przeciwpożarowymi i sanitarnymi.
+warunki bezpieczeństwa imprez masowych;
 
-3. Obowiązek zabezpieczenia imprezy masowej spoczywa na organizatorze, a w zakresie określonym w tej ustawie i innych przepisach także na: wójcie, burmistrzu, prezydencie miasta, wojewodzie, Policji, Państwowej Straży Pożarnej i innych jednostkach organizacyjnych ochrony przeciwpożarowej, służbach odpowiedzialnych za bezpieczeństwo i porządek publiczny na obszarach kolejowych, służbie zdrowia, a w razie potrzeby także innych właściwych służbach i organach.
+### 3)
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, minimalne wymagania dotyczące zabezpieczenia pod względem medycznym imprezy masowej, mając na uwadze liczbę uczestników imprezy, jej rodzaj, a także zapewnienie bezpieczeństwa jej uczestników.
+zasady i tryb wydawania zezwoleń na przeprowadzanie imprez masowych;
 
-**Art. 6.**
+### 4)
 
-1. Organizator zapewnia:
+zasady gromadzenia i przetwarzania informacji dotyczących bezpieczeństwa imprez masowych;
 
-- **1)** spełnienie wymogów określonych, w szczególności, w przepisach prawa budowlanego, w przepisach sanitarnych i przepisach dotyczących ochrony przeciwpożarowej;
-- **2)** udział służb porządkowych, służb informacyjnych oraz kierującego tymi służbami kierownika do spraw bezpieczeństwa;
-- **3)** pomoc medyczną;
-- **4)** zaplecze higieniczno-sanitarne;
-- **5)** wyznaczenie dróg ewakuacyjnych oraz dróg umożliwiających dojazd pojazdom służb ratowniczych i Policji;
-- **6)** warunki do zorganizowania łączności pomiędzy podmiotami biorącymi udział w zabezpieczeniu imprezy masowej;
-- **7)** sprzęt ratowniczy i gaśniczy oraz środki gaśnicze niezbędne do zabezpieczenia imprezy masowej w zakresie działań ratowniczo-gaśniczych;
-- **8)** wydzielone pomieszczenia dla służb kierujących zabezpieczeniem imprezy masowej.
+### 5)
 
-2. Liczebność służby porządkowej oraz służby informacyjnej określa się w następujący sposób:
+zasady odpowiedzialności organizatorów za szkody wyrządzone w związku ze zorganizowaniem imprez masowych.
 
-- **1)** w przypadku imprezy masowej niebędącej imprezą masową podwyższonego ryzyka – co najmniej 10 członków służb: porządkowej i informacyjnej na 300 osób, które mogą być obecne na imprezie masowej, i co najmniej 1 członek służby porządkowej lub służby informacyjnej na każde następne 100 osób, przy czym nie mniej niż 20% ogólnej liczby członków służb stanowią członkowie służby porządkowej;
-- **2)** w przypadku imprezy masowej podwyższonego ryzyka – co najmniej 15 członków służb: porządkowej i informacyjnej na 200 osób, które mogą być obecne na imprezie masowej, i co najmniej 2 członków służb: porządkowej lub informacyjnej na każde następne 100 osób, przy czym nie mniej niż 50% ogólnej liczby członków służb stanowią członkowie służby porządkowej.
+### Art. 2.
 
-2a. Jeżeli regulamin imprezy masowej artystyczno-rozrywkowej przewiduje zmienną liczbę uczestników tej imprezy, liczebność służby porządkowej oraz służby informacyjnej na tej imprezie ustala się zgodnie z zasadami określonymi w ust. 2, przy czym organizator może ustalać liczebność tych służb proporcjonalnie do liczby osób obecnych na imprezie zgłoszonej w harmonogramie udostępnienia obiektu lub terenu uczestnikom imprezy masowej oraz w harmonogramie opuszczania przez nich tego obiektu lub terenu.
+Przepisów ustawy nie stosuje się do nieodpłatnych imprez masowych organizowanych na terenach zamkniętych będących w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego oraz do spraw kultury fizycznej i sportu, jeżeli jednostki te są organizatorami imprezy masowej w rozumieniu niniejszej ustawy.
 
-3. Organizator udostępnia osobom uczestniczącym w imprezie masowej regulamin obiektu (terenu) oraz opracowuje i udostępnia tym osobom regulamin imprezy masowej zawierający warunki uczestnictwa i zasady zachowania się osób na niej obecnych.
+### Art. 3.
 
-4. Organizator opracowuje instrukcję postępowania w przypadku powstania pożaru lub innego miejscowego zagrożenia w miejscu i w czasie imprezy masowej.
+Ilekroć w ustawie jest mowa o:
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres niezbędnych elementów instrukcji, o której mowa w ust. 4, biorąc pod uwagę zapewnienie bezpieczeństwa imprezy masowej.
+### 1)
 
-**Art. 7.** W przypadku organizacji imprezy masowej zakwalifikowanej jako impreza masowa podwyższonego ryzyka liczby udostępnionych przez organizatora miejsc dla osób wynoszą nie mniej niż:
+imprezie masowej - należy przez to rozumieć imprezę masową artystyczno-rozrywkową, masową imprezę sportową, w tym mecz piłki nożnej, o których mowa w pkt 2-4, z wyjątkiem imprez:
 
-**Art. 8.**
+### a)
 
-1. Osoby uczestniczące w imprezie masowej są obowiązane zachowywać się w sposób niezagrażający bezpieczeństwu innych osób, a w szczególności przestrzegać postanowień regulaminu obiektu (terenu) i regulaminu imprezy masowej.
+organizowanych w teatrach, operach, operetkach, filharmoniach, kinach, muzeach, bibliotekach, domach kultury i galeriach sztuki lub w innych podobnych obiektach,
 
-2. Zabrania się wnoszenia na imprezę masową i posiadania przez osoby w niej uczestniczące broni lub innych niebezpiecznych przedmiotów, materiałów wybuchowych, wyrobów pirotechnicznych, materiałów pożarowo niebezpiecznych, napojów alkoholowych, środków odurzających lub substancji psychotropowych, z zastrzeżeniem art. 8a.
+### b)
 
-**Art. 8a.**
+organizowanych w szkołach i placówkach oświatowych przez zarządzających tymi szkołami i placówkami,
 
-1. Na imprezie masowej, z wyłączeniem imprezy masowej podwyższonego ryzyka, dozwolone są sprzedaż, podawanie i spożywanie napojów alkoholowych zawierających nie więcej niż 3,5% alkoholu.
+### c)
 
-2. Sprzedaż, podawanie i spożywanie napojów alkoholowych mogą odbywać się wyłącznie w miejscach do tego wyznaczonych.
+organizowanych w ramach współzawodnictwa sportowego dzieci i młodzieży,
 
-3. Sprzedaż i podawanie napojów alkoholowych mogą być prowadzone wyłącznie przez podmioty posiadające zezwolenie, o którym mowa w art. 18 ust. 1 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240).
+### d)
 
-4. Niedozwolona jest sprzedaż napojów alkoholowych w twardych opakowaniach, w szczególności wykonanych ze szkła, metalu lub tworzyw sztucznych, które wykorzystane niezgodnie z ich przeznaczeniem mogą stanowić zagrożenie dla życia lub zdrowia ludzkiego.
+sportowych organizowanych dla sportowców niepełnosprawnych,
 
-5. Do wniosku o wydanie zezwolenia na przeprowadzenie imprezy masowej organizator dołącza informację o rozmieszczeniu miejsc i czasie, w których będą sprzedawane, podawane lub spożywane napoje alkoholowe.
+### e)
 
-**Art. 9.** Organizator lub podmiot przez niego uprawniony podczas sprzedaży biletów wstępu na imprezę masową może zażądać od kupującego okazania dokumentu potwierdzającego jego tożsamość, z zastrzeżeniem art. 15 ust. 1.
+sportu powszechnego o charakterze rekreacji ruchowej, ogólnodostępnym i nieodpłatnym, organizowanych na terenie otwartym,
 
-**Art. 10.** Organizator masowej imprezy sportowej, innej niż wymieniona w rozdziale 3, może odmówić na nią wstępu i przebywania osobie, której dane znajdują się w zbiorze danych, o którym mowa w art. 37 pkt 2, lub objętej zakazem klubowym lub zakazem zagranicznym.
+### f)
 
-**Art. 11.**
+zamkniętych organizowanych przez pracodawców dla ich pracowników
 
-1. Organizator jest uprawniony do utrwalania przebiegu imprezy masowej, a w szczególności zachowania osób w niej uczestniczących, za pomocą urządzeń rejestrujących obraz i dźwięk.
+- jeżeli rodzaj imprezy odpowiada przeznaczeniu obiektu lub terenu, gdzie ma się ona odbyć;
 
-2. Materiały zgromadzone podczas utrwalania przebiegu imprezy masowej, mogące stanowić dowody pozwalające na wszczęcie postępowania karnego albo postępowania w sprawach o wykroczenia lub dowody mogące mieć znaczenie dla toczących się takich postępowań, organizator niezwłocznie przekazuje prokuratorowi rejonowemu właściwemu ze względu na miejsce przeprowadzonej imprezy masowej lub właściwemu terytorialnie komendantowi powiatowemu (miejskiemu, rejonowemu) Policji, w razie potrzeby z wnioskiem o wszczęcie postępowania karnego lub z wnioskiem o ukaranie, chyba że sam zawiadomi o przestępstwie albo wystąpi z wnioskiem o ukaranie w sprawach o wykroczenia.
+### 2)
 
-3. Zgromadzone podczas utrwalania przebiegu imprezy masowej materiały, niezawierające dowodów pozwalających na wszczęcie postępowania karnego albo postępowania w sprawach o wykroczenia lub dowodów mających znaczenie dla toczących się takich postępowań, organizator przechowuje po zakończeniu imprezy masowej przez okres co najmniej 30 dni, nie dłużej jednak niż 90 dni, a następnie komisyjnie je niszczy.
+imprezie masowej artystyczno-rozrywkowej - należy przez to rozumieć imprezę o charakterze artystycznym lub rozrywkowym, która ma się odbyć:
 
-4. Wojewoda w uzgodnieniu z komendantem wojewódzkim (Komendantem Stołecznym) Policji i z komendantem wojewódzkim Państwowej Straży Pożarnej, oraz po zasięgnięciu opinii właściwego polskiego związku sportowego, sporządza wykaz stadionów, obiektów lub terenów, na których utrwalanie przebiegu imprezy masowej za pomocą urządzeń rejestrujących obraz i dźwięk jest obowiązkowe. Umieszczenie w wykazie określonego stadionu, obiektu lub terenu następuje w drodze decyzji administracyjnej.
+### a)
 
-5. Komendant wojewódzki (Komendant Stołeczny) Policji oraz komendant wojewódzki Państwowej Straży Pożarnej mogą złożyć do wojewody wniosek w sprawie umieszczenia stadionu, obiektu lub terenu w wykazie, o którym mowa w ust. 4, w przypadku sformułowania takiej konkluzji w opinii, o której mowa w art. 25 ust. 1 pkt 2.
+na stadionie, w innym obiekcie niebędącym budynkiem lub na terenie umożliwiającym przeprowadzenie imprezy masowej, na których liczba udostępnionych przez organizatora miejsc dla osób, ustalona zgodnie z przepisami prawa budowlanego oraz przepisami dotyczącymi ochrony przeciwpożarowej, wynosi nie mniej niż 1000,
 
-6. W decyzji, o której mowa w ust. 4, określa się w szczególności termin, od którego utrwalanie przebiegu imprezy masowej za pomocą urządzeń rejestrujących obraz i dźwięk jest obowiązkowe.
+### b)
 
-7. Od decyzji, o której mowa w ust. 4, przysługuje odwołanie do ministra właściwego do spraw wewnętrznych.
+w hali sportowej lub w innym budynku umożliwiającym przeprowadzenie imprezy masowej, w których liczba udostępnionych przez organizatora miejsc dla osób, ustalona zgodnie z przepisami prawa budowlanego oraz przepisami dotyczącymi ochrony przeciwpożarowej, wynosi nie mniej niż 500;
 
-8. Organizator imprezy masowej przeprowadzanej na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, oraz organizator imprezy masowej podwyższonego ryzyka utrwala przebieg tej imprezy, a w szczególności zachowania osób, za pomocą urządzeń rejestrujących obraz i dźwięk.
+### 3)
 
-9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób utrwalania przebiegu imprezy masowej, uwzględniając jej rodzaj, miejsca na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, podlegające obowiązkowej rejestracji obrazu i dźwięku oraz minimalne wymagania techniczne dla urządzeń rejestrujących obraz i dźwięk, umożliwiające wykorzystanie zarejestrowanego obrazu i dźwięku w postępowaniu dowodowym w stosunku do osób zakłócających porządek podczas imprezy masowej oraz imprez masowych podwyższonego ryzyka prowadzonych na stadionach, w obiektach i na terenach niewyszczególnionych w wykazie, o którym mowa w ust. 4, jak również sposób przechowywania materiałów, o których mowa w ust. 3, biorąc pod uwagę konieczność zapewnienia efektywnego rozpoznawania zagrożeń i identyfikowania sprawców zakłóceń porządku publicznego w miejscu i w czasie trwania imprezy masowej.
+masowej imprezie sportowej - należy przez to rozumieć imprezę masową mającą na celu współzawodnictwo sportowe lub popularyzowanie kultury fizycznej, organizowaną na:
 
-10. Kontrolę przestrzegania warunków określonych w rozporządzeniu, o którym mowa w ust. 9, sprawuje wojewoda poprzez coroczne:
+### a)
 
-- **1)** porównanie parametrów technicznych urządzeń rejestrujących obraz i dźwięk zainstalowanych na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, z minimalnymi wymogami technicznymi określonymi w rozporządzeniu, o którym mowa w ust. 9;
-- **2)** sprawdzanie stanu technicznego urządzeń, o których mowa w pkt 1.
+stadionie lub w innym obiekcie niebędącym budynkiem, na którym liczba udostępnionych przez organizatora miejsc dla osób, ustalona zgodnie z przepisami prawa budowlanego oraz przepisami dotyczącymi ochrony przeciwpożarowej, wynosi nie mniej niż 1000, a w przypadku hali sportowej lub innego budynku umożliwiającego przeprowadzenie imprezy masowej
 
-**Art. 11a.**
+- nie mniej niż 300,
 
-1. Organem pomocniczym wojewody w zakresie zapewnienia wykonywania zadań związanych z bezpieczeństwem imprez masowych jest wojewódzki zespół interdyscyplinarny do spraw bezpieczeństwa imprez masowych, zwany dalej „zespołem”, powoływany przez wojewodę, który określa jego skład, szczegółowy zakres obowiązków oraz tryb działania.
+### b)
 
-2. Zespołowi przewodniczy wojewoda lub wyznaczony przez niego przedstawiciel.
+terenie umożliwiającym przeprowadzenie imprezy masowej, na którym liczba udostępnionych przez organizatora miejsc dla osób wynosi nie mniej niż 1000;
 
-3. W skład zespołu wchodzą:
+### 4)
 
-- **1)** właściwy miejscowo komendant wojewódzki (Komendant Stołeczny) Policji lub wyznaczony przez niego przedstawiciel;
-- **2)** właściwy miejscowo komendant wojewódzki Państwowej Straży Pożarnej lub wyznaczony przez niego przedstawiciel;
-- **3)** przedstawiciele innych organów administracji rządowej i samorządowej, których obecność wojewoda uzna za uzasadnioną.
+meczu piłki nożnej - należy przez to rozumieć masową imprezę sportową mającą na celu współzawodnictwo w dyscyplinie piłki nożnej, organizowaną na stadionie lub w innym obiekcie sportowym, na którym liczba udostępnionych przez organizatora miejsc dla osób, ustalona zgodnie z przepisami prawa budowlanego oraz przepisami dotyczącymi ochrony przeciwpożarowej, wynosi nie mniej niż 1000;
 
-4. Do udziału w posiedzeniach zespołu wojewoda może zaprosić przedstawicieli związków sportowych, podmiotów prowadzących rozgrywki, organizatorów cyklicznych imprez masowych oraz instytucji i podmiotów, których przedmiot działalności pozostaje w związku z przedmiotem posiedzenia zespołu, których obecność uzna za uzasadnioną lub na ich wniosek.
+### 5)
 
-5. Zespół wspomaga podmioty, o których mowa w ust. 2–4, w realizacji obowiązków związanych z zabezpieczeniem imprez masowych na terenie województwa, nałożonych przepisami ustaw, w szczególności poprzez:
+imprezie masowej podwyższonego ryzyka - należy przez to rozumieć imprezę masową, w czasie której, zgodnie z informacją o przewidywanych zagrożeniach lub dotychczasowymi doświadczeniami dotyczącymi zachowania osób uczestniczących, istnieje obawa wystąpienia aktów przemocy lub agresji;
 
-- **1)** analizę zagrożeń związanych z organizacją imprez masowych;
-- **2)** analizę i ocenę działań podejmowanych przez podmioty, o których mowa w ust. 2–4, w zakresie dotyczącym bezpieczeństwa imprez masowych;
-- **3)** umożliwienie przekazywania informacji o zagrożeniach związanych z imprezami masowymi pomiędzy podmiotami, o których mowa w ust. 2–4;
-- **4)** wspieranie programów mających na celu poprawę stanu bezpieczeństwa imprez masowych;
-- **5)** inne inicjatywy zmierzające do poprawy stanu bezpieczeństwa imprez masowych.
+### 6)
 
-**Art. 12.**
+czasie trwania imprezy masowej - należy przez to rozumieć okres od chwili udostępnienia obiektu lub terenu uczestnikom imprezy masowej do chwili opuszczenia przez nich tego obiektu lub terenu;
 
-1. Wojewoda może, w drodze decyzji administracyjnej, nałożyć na organizatora imprezy masowej organizowanej w miejscu nieobjętym wykazem, o którym mowa w art. 11 ust. 4, obowiązek jej utrwalania za pomocą urządzeń rejestrujących obraz i dźwięk.
+### 7)
 
-2. Przepisy art. 11 ust. 6–8 i 10 stosuje się odpowiednio.
+liczbie miejsc dla osób na imprezie masowej - należy przez to rozumieć liczbę udostępnionych przez organizatora miejsc na stadionie, w innym obiekcie niebędącym budynkiem, hali sportowej albo w innym budynku lub na terenie umożliwiającym przeprowadzenie imprezy masowej, ustaloną na podstawie przepisów prawa budowlanego i przepisów dotyczących ochrony przeciwpożarowej;
 
-**Art. 12a.** Minister właściwy do spraw kultury fizycznej może dofinansowywać programy edukacyjne, informacyjne i szkoleniowe na rzecz poprawy stanu bezpieczeństwa masowych imprez sportowych oraz zwalczania negatywnych zjawisk w sporcie.
+### 8)
 
-#### Rozdział 3 Bezpieczeństwo meczu piłki nożnej
+instytucjach zagranicznych - należy przez to rozumieć podmioty zagraniczne i międzynarodowe, w tym w szczególności wchodzące w ich skład narodowe punkty informacyjne, właściwe do zapobiegania i zwalczania przejawów przemocy i chuligaństwa w czasie masowych imprez sportowych, w tym meczów piłki nożnej, na podstawie Europejskiej konwencji w sprawie przemocy i ekscesów widzów w czasie imprez sportowych, a w szczególności meczów piłki nożnej, sporządzonej w Strasburgu dnia 19 sierpnia 1985 r. ([Dz. U. z 1995 r. Nr 129, poz. 625](https://api.sejm.gov.pl/eli/acts/DU/1995/625/text.html)) oraz decyzji Rady 2002/348/JHA z dnia 25 kwietnia 2002 r. dotyczącej bezpieczeństwa w związku z meczami piłki nożnej o charakterze międzynarodowym ([Dz. Urz. WE L 121 z 08.05.2002, str. 1-3](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 04, str. 237](https://api.sejm.gov.pl/eli/acts//text.html)-[239](https://api.sejm.gov.pl/eli/acts//text.html));
 
-**Art. 13.**
+### 9)
 
-1. Organizator meczu piłki nożnej klubu uczestniczącego w rozgrywkach jednej z trzech najwyższych ligowych klas rozgrywkowych rywalizacji mężczyzn, niezależnie od rodzaju rozgrywek, tj. krajowych czy międzynarodowych, zapewnia identyfikację osób uczestniczących w tej imprezie, niezależnie od obowiązków i wymogów, o których mowa w art. 6.
+organizatorze - należy przez to rozumieć osobę prawną, osobę fizyczną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, przeprowadzającą imprezę masową;
 
-2. Obiekty wykorzystywane do organizacji meczów piłki nożnej, o których mowa w ust. 1, wyposaża się w kompatybilne między sobą elektroniczne systemy służące do identyfikacji osób, sprzedaży biletów, kontroli przebywania w miejscu i w czasie trwania meczu piłki nożnej, kontroli dostępu do określonych miejsc oraz weryfikacji informacji, o których mowa w art. 22 ust. 1 pkt 1 lit. a–c.
+### 10)
 
-2a. Niezależnie od systemów, o których mowa w ust. 2, tworzy się:
+regulaminie obiektu (terenu) - należy przez to rozumieć przepisy wydane przez właściciela, posiadacza, użytkownika lub zarządzającego obiektem lub terenem, zawierające zasady wstępu na teren lub obiekt, w tym osób małoletnich, zasady zachowania się osób obecnych w obiekcie lub na terenie i korzystania przez nie z obiektu lub terenu oraz ze znajdujących się tam urządzeń, a także określające miejsca nieprzeznaczone dla publiczności;
 
-- **1)** centralny system identyfikacji uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn;
-- **2)** centralny system identyfikacji uczestników meczów piłki nożnej rozgrywanych w drugiej i trzeciej najwyższej ligowej klasie rozgrywkowej rywalizacji mężczyzn.
+### 11)
 
-2b. Administratorami danych osobowych przetwarzanych w systemach, o których mowa w ust. 2a, są właściwe podmioty zarządzające tymi rozgrywkami.
+kierowniku do spraw bezpieczeństwa - należy przez to rozumieć osobę wyznaczoną przez organizatora, reprezentującą go w zakresie zapewnienia bezpieczeństwa uczestnikom imprezy masowej;
 
-2c. Kompatybilność oznacza, iż elektroniczne systemy, o których mowa w ust. 2, muszą być podłączone do systemów, o których mowa w ust. 2a, oraz działać na podstawie numeru PESEL, a w razie gdy nie został on nadany – rodzaju, serii i numeru dokumentu potwierdzającego tożsamość, po przekazaniu danych osobowych, o których mowa w ust. 4.
+### 12)
 
-2d. (uchylony)
+służbie informacyjnej - należy przez to rozumieć osoby podlegające kierownikowi do spraw bezpieczeństwa, wyznaczone przez organizatora, w tym spikera zawodów sportowych;
 
-3. Wymagania techniczno-użytkowe systemów, o których mowa w ust. 2 i 2a, przeznaczonych dla obiektów wykorzystywanych do prowadzenia rozgrywek meczów piłki nożnej, o których mowa w ust. 1, określają właściwe podmioty zarządzające tymi rozgrywkami.
+### 13)
 
-3a. (uchylony)
+służbie porządkowej - należy przez to rozumieć osoby podlegające kierownikowi do spraw bezpieczeństwa, wyznaczone przez organizatora, legitymujące się ważną licencją pracownika ochrony fizycznej, o której mowa w art. 26 lub 27 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ([Dz. U. z 2005 r. Nr 145, poz. 1221](https://api.sejm.gov.pl/eli/acts/DU/2005/1221/text.html), z [2006 r. Nr 104, poz. 708](https://api.sejm.gov.pl/eli/acts/DU/2006/708/text.html) oraz z [2008 r. Nr 171, poz. 1055](https://api.sejm.gov.pl/eli/acts/DU/2008/1055/text.html) i [Nr 180, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2008/1112/text.html));
 
-4. Zakres przetwarzanych danych osobowych osób uczestniczących w meczu piłki nożnej obejmuje:
+### 14)
 
-- **1)** imię i nazwisko;
-- **2)** (uchylony)
-- **3)** numer PESEL, a w razie gdy nie został on nadany – rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
-- **4)** (uchylony)
-- **5)** (uchylony)
+terenie umożliwiającym przeprowadzenie imprezy masowej - należy przez to rozumieć wydzielony, odpowiednio oznaczony teren na otwartej przestrzeni, spełniający warunki higieniczno-sanitarne odpowiadające wymaganiom przewidzianym prawem oraz posiadający infrastrukturę zapewniającą bezpieczne przeprowadzenie imprezy masowej, na którym do określenia liczby miejsc przyjmuje się przelicznik 0,5 m2 na osobę;
 
-5. (uchylony)
+### 15)
 
-6. Do wniosku o wydanie zezwolenia na przeprowadzenie imprezy masowej organizator dołącza oświadczenie o spełnieniu wymogów, o których mowa w ust. 2.
+terenie zamkniętym - należy przez to rozumieć teren zamknięty w rozumieniu przepisów prawa budowlanego lub teren będący w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego oraz do spraw kultury fizycznej i sportu;
 
-7. Przetwarzanie informacji, w tym danych osobowych, w systemach, o których mowa w ust. 2 i 2a, ma na celu zapewnienie bezpieczeństwa osób uczestniczących w meczu piłki nożnej.
+### 16)
 
-8. Zakres informacji, w tym danych osobowych, przetwarzanych w systemie, o którym mowa w ust. 2a pkt 1, obejmuje:
+zabezpieczeniu imprezy masowej - należy przez to rozumieć ogół skoordynowanych przedsięwzięć podejmowanych w celu zapewnienia bezpieczeństwa i porządku publicznego w związku z imprezą masową;
 
-- **1)** dane osobowe określone w ust. 4,
-- **2)** dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a–c,
-- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych – w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w ramach najwyższej ligowej klasy rozgrywkowej rywalizacji mężczyzn.
+### 17)
 
-9. Zakres informacji, w tym danych osobowych, przetwarzanych w systemie, o którym mowa w ust. 2a pkt 2, obejmuje:
+zakazie zagranicznym - należy przez to rozumieć zakaz stadionowy, nałożony przez uprawnione do tego podmioty innych państw, o którym informację przekazano Komendantowi Głównemu Policji;
 
-- **1)** dane osobowe określone w ust. 4,
-- **2)** dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a–c,
-- **3)** informacje o zastosowanych zakazach, w tym przekazane przez organizatorów imprez masowych – w zakresie, w jakim te informacje, w tym dane osobowe, dotyczą uczestników meczów piłki nożnej rozgrywanych w drugiej i trzeciej najwyższej ligowej klasie rozgrywkowej rywalizacji mężczyzn.
+### 18)
 
-10. Informacje, w tym dane osobowe, do systemów, o których mowa w ust. 2 i 2a, przekazują w zakresie swojej właściwości:
+zezwoleniu - należy przez to rozumieć zezwolenie na przeprowadzenie imprezy masowej wydane, w drodze decyzji, przez wójta, burmistrza albo prezydenta miasta właściwych ze względu na miejsce przeprowadzenia imprezy masowej;
 
-- **1)** właściwy polski związek sportowy;
-- **2)** właściwy podmiot zarządzający rozgrywkami;
-- **3)** organizator meczu piłki nożnej;
-- **4)** Komendant Główny Policji;
-- **5)** podmiot uprawniony do dystrybucji biletów.
+### 19)
 
-11. Podmioty przekazujące informacje, w tym dane osobowe, do systemów, o których mowa w ust. 2 i 2a, są odpowiedzialne za kompletność, aktualność oraz prawdziwość przekazywanych informacji.
+dokumencie potwierdzającym tożsamość - należy przez to rozumieć dowód osobisty, tymczasowe zaświadczenie tożsamości, paszport, prawo jazdy, legitymację szkolną lub studencką, dokument stwierdzający tożsamość cudzoziemca albo inny dokument potwierdzający tożsamość zaopatrzony w wizerunek twarzy i adres zamieszkania osoby.
 
-12. Dostęp do informacji, w tym danych osobowych, przetwarzanych w systemach, o których mowa w ust. 2 i 2a, w zakresie swoich kompetencji, posiadają:
+### Art. 4.
 
-- **1)** właściwy polski związek sportowy;
-- **2)** właściwy podmiot zarządzający rozgrywkami;
-- **3)** organizator meczu piłki nożnej;
-- **4)** podmiot uprawniony do dystrybucji biletów;
-- **5)** Policja, w zakresie weryfikacji poprawności informacji o osobach, o których mowa w art. 22 ust. 1 pkt 1 lit. a–c, oraz w związku z prowadzonym postępowaniem przygotowawczym lub czynnościami operacyjno-rozpoznawczymi.
+Postępowanie w sprawach określonych w ustawie, z wyłączeniem art. 14, prowadzi się zgodnie z przepisami ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.](#gloss-0:2:)), jeżeli przepisy ustawy nie stanowią inaczej.
 
-13. Informacje, w tym dane osobowe, przetwarzane w systemach, o których mowa w ust. 2 i 2a, są przechowywane nie dłużej niż przez okres 2 lat od dnia ostatniego zakupu biletu wstępu przez uczestnika meczu piłki nożnej lub przekazania mu innego dokumentu uprawniającego do przebywania na meczu piłki nożnej.
+### Rozdział 2 Bezpieczeństwo imprez masowych
 
-13a. Jeżeli informacje, w tym dane osobowe, przetwarzane w systemach, o których mowa w ust. 2 i 2a, dotyczą osoby, wobec której zostało wydane orzeczenie lub zakaz, o których mowa w art. 22 ust. 1 pkt 1 lit. a–c, wówczas okres, o którym mowa w ust. 13, liczy się od dnia upływu okresu obowiązywania zakazu lub okresu, na który orzeczono dany środek.
+### Art. 5.
 
-14. Informacje, w tym dane osobowe, przetwarzane w systemach, o których mowa w ust. 2 i 2a, podlegają usunięciu, jeżeli:
+### 1.
 
-- **1)** zostały zgromadzone z naruszeniem ustawy;
-- **2)** okazały się niekompletne, nieaktualne lub nieprawdziwe;
-- **3)** upłynął okres, o którym mowa w ust. 13.
+Za bezpieczeństwo imprezy masowej w miejscu i w czasie jej trwania odpowiada jej organizator.
 
-**Art. 14.**
+### 2.
 
-1. Organizator meczu piłki nożnej może stosować zakaz klubowy, polegający na zakazie uczestniczenia w kolejnych imprezach masowych przeprowadzanych przez organizatora meczu piłki nożnej, nakładany przez tego organizatora na osobę, która dopuściła się naruszenia regulaminu obiektu (terenu) lub regulaminu imprezy masowej.
+Bezpieczeństwo imprezy masowej obejmuje spełnienie przez organizatora wymogów w zakresie:
 
-1a. Zakaz klubowy, o którym mowa w ust. 1, dotyczy również kolejnych imprez masowych przeprowadzanych z udziałem drużyny organizatora rozgrywanych poza siedzibą organizatora, i może być nakładany za naruszenie regulaminu obiektu (terenu) lub regulaminu imprezy masowej prowadzonej z udziałem drużyny tego organizatora.
+### 1)
 
-2. Okres obowiązywania zakazu klubowego nie może być dłuższy niż 2 lata od dnia jego wydania.
+zapewnienia bezpieczeństwa osobom uczestniczącym w imprezie;
 
-3. Organizator meczu piłki nożnej, w terminie 7 dni od dnia zastosowania zakazu klubowego, informuje o tym osobę, której ten zakaz dotyczy. Informacja określa okres obowiązywania zakazu uczestnictwa tej osoby.
+### 2)
 
-4. Osobie ukaranej zakazem klubowym, o którym mowa w ust. 1, służy prawo wniesienia wniosku o ponowne rozpatrzenie sprawy do podmiotu, który zastosował zakaz klubowy.
+ochrony porządku publicznego;
 
-4a. (uchylony)
+### 3)
 
-5. Podmiot, o którym mowa w ust. 1, określa w swoim regulaminie wewnętrznym formę, tryb i termin złożenia wniosku o ponowne rozpatrzenie sprawy, o którym mowa w ust. 4, a także tryb i termin jego rozpatrzenia.
+zabezpieczenia pod względem medycznym;
 
-6. Termin rozpatrzenia wniosku określony w regulaminie, o którym mowa w ust. 5, powinien być wyznaczony tak, aby od daty złożenia wniosku do daty jego rozpatrzenia nie upłynęło więcej niż 14 dni.
+### 4)
 
-7. (uchylony)
+zapewnienia odpowiedniego stanu technicznego obiektów budowlanych wraz ze służącymi tym obiektom instalacjami i urządzeniami technicznymi, w szczególności przeciwpożarowymi i sanitarnymi.
 
-8. Orzeczenie podmiotu, o którym mowa w ust. 1, wydane na skutek wniesienia wniosku, o którym mowa w ust. 4, jest ostateczne.
+### 3.
 
-8a. Od orzeczenia o zastosowaniu zakazu klubowego przez podmiot, o którym mowa w ust. 1, osobie ukaranej służy prawo wniesienia skargi do właściwego sądu administracyjnego.
+Obowiązek zabezpieczenia imprezy masowej spoczywa na organizatorze, a w zakresie określonym w tej ustawie i innych przepisach także na: wójcie, burmistrzu, prezydencie miasta, wojewodzie, Policji, Państwowej Straży Pożarnej i innych jednostkach organizacyjnych ochrony przeciwpożarowej, służbach odpowiedzialnych za bezpieczeństwo i porządek publiczny na obszarach kolejowych, służbie zdrowia, a w razie potrzeby także innych właściwych służbach i organach.
 
-9. Informacja o zastosowanym zakazie klubowym jest przetwarzana w systemach, o których mowa w art. 13 ust. 2 i 2a.
+### Art. 6.
 
-**Art. 15.**
+### 1.
 
-1. Sprzedaż biletu wstępu na mecz piłki nożnej lub przekazanie innego dokumentu uprawniającego do przebywania na nim określonej osoby następuje po uzyskaniu danych osobowych, o których mowa w art. 13 ust. 4, zgodnych z dokumentem potwierdzającym tożsamość.
+Organizator zapewnia:
 
-2. Na bilecie wstępu na mecz piłki nożnej lub na innym dokumencie uprawniającym do przebywania na nim umieszcza się dane osobowe, o których mowa w art. 13 ust. 4, oraz numer miejsca, którego dotyczy ten bilet lub dokument uprawniający do przebywania na meczu.
+### 1)
 
-2a. W przypadku meczów piłki nożnej o charakterze międzynarodowym, w tym meczów piłki nożnej organizowanych na terytorium Rzeczypospolitej Polskiej w ramach rozgrywek Międzynarodowej Federacji Piłki Nożnej (FIFA) lub Unii Europejskich Związków Piłkarskich (UEFA), przepisów ust. 1 i 2 nie stosuje się do uczestników będących cudzoziemcami, jeżeli bilet wstępu lub inny dokument uprawniający do przebywania na meczu piłki nożnej otrzymują poza terytorium Rzeczypospolitej Polskiej, zgodnie z przepisami prawa obowiązującego w miejscu ich wydania.
+spełnienie wymogów określonych, w szczególności, w przepisach prawa budowlanego, w przepisach sanitarnych i przepisach dotyczących ochrony przeciwpożarowej;
 
-2b. Na bilecie wstępu lub na innym dokumencie uprawniającym do przebywania na meczach, o których mowa w ust. 2a, umieszcza się numer miejsca siedzącego.
+### 2)
 
-3. Organizator meczu piłki nożnej lub podmiot przez niego uprawniony do dystrybucji odmawia sprzedaży biletu wstępu lub innego dokumentu uprawniającego do przebywania na nim:
+udział służb porządkowych, służb informacyjnych oraz kierującego tymi służbami kierownika do spraw bezpieczeństwa;
 
-- **1)** osobie, wobec której zostało wydane orzeczenie:
-    - **a)** zakazujące wstępu na imprezę masową,
-    - **b)** zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. poz. 1700);
+### 3)
 
-- **2)** osobie, wobec której zastosowano zakaz klubowy lub zakaz zagraniczny;
-- **3)** osobie, co do której zachodzi uzasadnione podejrzenie, że w miejscu i w czasie trwania imprezy masowej może stwarzać zagrożenie dla bezpieczeństwa imprezy masowej.
+pomoc medyczną;
 
-4. Organizator meczu piłki nożnej jest obowiązany prowadzić sprzedaż biletów wstępu lub przekazywać inne dokumenty uprawniające do przebywania na wyznaczonych miejscach.
+### 4)
 
-5. Bilet wstępu na mecz piłki nożnej lub inny dokument uprawniający do przebywania na nim jest ważny wraz z dokumentem potwierdzającym tożsamość.
+zaplecze higieniczno-sanitarne;
 
-**Art. 16.** Wstęp na mecz piłki nożnej osoby małoletniej do lat 13 następuje wyłącznie pod opieką osoby pełnoletniej.
+### 5)
 
-**Art. 16a.**
+wyznaczenie dróg ewakuacyjnych oraz dróg umożliwiających dojazd pojazdom służb ratowniczych i Policji;
 
-1. Projekty budowlane stadionów podlegają uzgodnieniom z właściwym miejscowo komendantem wojewódzkim (Komendantem Stołecznym) Policji, właściwym miejscowo komendantem wojewódzkim Państwowej Straży Pożarnej oraz właściwym związkiem sportowym, w zakresie tworzenia i funkcjonowania infrastruktury wpływającej na bezpieczeństwo osób uczestniczących w meczach piłki nożnej.
+### 6)
 
-2. Projekty, o których mowa w ust. 1, podlegają dodatkowym uzgodnieniom z właściwym związkiem sportowym w zakresie tworzenia i funkcjonowania infrastruktury służącej:
+warunki do zorganizowania łączności pomiędzy podmiotami biorącymi udział w zabezpieczeniu imprezy masowej;
 
-- **1)** zapełnianiu stadionu przez osoby uczestniczące w meczach piłki nożnej,
-- **2)** udogodnieniom w zakresie obsługi osób uczestniczących w meczach piłki nożnej,
-- **3)** przeprowadzaniu transmisji telewizyjnych z meczów piłki nożnej – przy zachowaniu zasad bezpieczeństwa określonych w uzgodnieniach, o których mowa w ust. 1.
+### 7)
 
-3. Uzgadnianie projektów, o których mowa w ust. 1 i 2, nie narusza przepisów dotyczących uzgadniania pod względem ochrony przeciwpożarowej projektów budowlanych obiektów budowlanych.
+sprzęt ratowniczy i gaśniczy oraz środki gaśnicze niezbędne do zabezpieczenia imprezy masowej w zakresie działań ratowniczo-gaśniczych;
 
-**Art. 17.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej oraz ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, warunki bezpieczeństwa, jakie powinny spełniać stadiony, na których mogą odbywać się mecze piłki nożnej, w szczególności dotyczące:
+### 8)
 
-**Art. 17a.**
+wydzielone pomieszczenia dla służb kierujących zabezpieczeniem imprezy masowej.
 
-1. Organizator meczu piłki nożnej może udostępnić uczestnikom meczu piłki nożnej miejsca stojące pod warunkiem zachowania następujących zasad:
+### 2.
 
-- **1)** liczba udostępnionych miejsc stojących nie może przekraczać 25% ogólnej liczby miejsc na stadionie, ustalonej zgodnie z przepisami prawa budowlanego oraz przepisami dotyczącymi ochrony przeciwpożarowej;
-- **2)** jedno miejsce siedzące może zostać przekształcone wyłącznie w jedno miejsce stojące, z zachowaniem możliwości przywrócenia stanu poprzedniego;
-- **3)** organizator meczu piłki nożnej może udostępnić miejsca stojące dla kibiców drużyny gospodarzy i drużyny gości, w proporcji 4:1, zapewniając, że udostępnione miejsca stojące, przewidziane dla obydwu grup kibiców, pozostaną od siebie odseparowane w sposób minimalizujący możliwość wywołania zagrożenia bezpieczeństwa na meczu piłki nożnej.
+Liczebność służby porządkowej oraz służby informacyjnej określa się w następujący sposób:
 
-2. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, wymogi techniczne infrastruktury sektorów, na których udostępniane są miejsca stojące, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa uczestnikom meczów piłki nożnej.
+### 1)
 
-**Art. 18.** Przepisy niniejszego rozdziału stosuje się odpowiednio do organizacji masowych imprez sportowych podwyższonego ryzyka, z wyłączeniem art. 16a.
+w przypadku imprezy masowej niebędącej imprezą masową podwyższonego ryzyka - co najmniej 10 członków służb: porządkowej i informacyjnej na 300 osób, które mogą być obecne na imprezie masowej, i co najmniej 1 członek służby porządkowej lub służby informacyjnej na każde następne 100 osób, przy czym nie mniej niż 20% ogólnej liczby członków służb stanowią członkowie służby porządkowej;
 
-#### Rozdział 4 Służby porządkowe i służby informacyjne
+### 2)
 
-**Art. 19.**
+w przypadku imprezy masowej podwyższonego ryzyka - co najmniej 15 członków służb: porządkowej i informacyjnej na 200 osób, które mogą być obecne na imprezie masowej, i co najmniej 2 członków służb: porządkowej lub informacyjnej na każde następne 100 osób, przy czym nie mniej niż 50% ogólnej liczby członków służb stanowią członkowie służby porządkowej.
 
-1. Członkowie służby porządkowej działają na rzecz bezpieczeństwa i porządku publicznego w czasie i w miejscu trwania imprezy masowej.
+### 3.
 
-2. Członkowie służby informacyjnej działają na rzecz bezpieczeństwa uczestników imprezy masowej, w szczególności poprzez informowanie ich o przyjętych rozwiązaniach organizacyjnych.
+Organizator opracowuje i udostępnia osobom uczestniczącym w imprezie masowej regulamin obiektu (terenu) oraz regulamin imprezy masowej zawierający warunki uczestnictwa i zasady zachowania się osób na niej obecnych.
 
-3. Członkowie służb, o których mowa w ust. 1 i 2, są obowiązani posiadać oznakowanie i ukończone szkolenie, o którym mowa w przepisach wydanych na podstawie art. 23.
+### 4.
 
-4. Kierownikiem do spraw bezpieczeństwa może być wyłącznie osoba, która ukończyła szkolenie, o którym mowa w przepisach wydanych na podstawie art. 23, a w przypadku imprezy masowej podwyższonego ryzyka została dodatkowo wpisana na listę kwalifikowanych pracowników ochrony fizycznej, o której mowa w art. 26 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
+Organizator opracowuje instrukcję postępowania w przypadku powstania pożaru lub innego miejscowego zagrożenia w miejscu i w czasie imprezy masowej.
 
-**Art. 20.**
+### 5.
 
-1. Służby porządkowe i informacyjne są uprawnione do:
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres niezbędnych elementów instrukcji, o której mowa w ust. 4, biorąc pod uwagę zapewnienie bezpieczeństwa imprezy masowej.
 
-- **1)** sprawdzania i stwierdzania uprawnień osób do uczestniczenia w imprezie masowej, a w przypadku stwierdzenia braku takich uprawnień – wezwania ich do opuszczenia imprezy masowej;
-- **2)** legitymowania osób w celu ustalenia ich tożsamości;
-- **3)** przeglądania zawartości bagaży i odzieży osób w przypadku podejrzenia, że osoby te wnoszą lub posiadają przedmioty, o których mowa w art. 8 ust. 2;
-- **4)** wydawania poleceń porządkowych osobom zakłócającym porządek publiczny lub zachowującym się niezgodnie z regulaminem imprezy masowej lub regulaminem obiektu (terenu), a w przypadku niewykonania tych poleceń – wezwania ich do opuszczenia imprezy masowej;
-- **5)** ujęcia, w celu niezwłocznego przekazania Policji, osób stwarzających bezpośrednie zagrożenie dla dóbr powierzonych ochronie oraz osób dopuszczających się czynów zabronionych.
+### Art. 7.
 
-2. W przypadkach, o których mowa w art. 11 pkt 1 i 2 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz.
+W przypadku organizacji imprezy masowej zakwalifikowanej jako impreza masowa podwyższonego ryzyka liczby udostępnionych przez organizatora miejsc dla osób wynoszą nie mniej niż:
 
-- **202)** , służby porządkowe mogą użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a i b, pkt 2 lit. a i pkt 12 lit. a tej ustawy.
+### 1)
 
-3. Użycie środków przymusu bezpośredniego oraz dokumentowanie tego użycia odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+300 - dla stadionu, innego obiektu niebędącego budynkiem lub terenu umożliwiającego przeprowadzenie imprezy masowej;
 
-4. Czynności, o których mowa w ust. 1, powinny być wykonywane w sposób zapewniający poszanowanie godności ludzkiej oraz innych dóbr osobistych osoby, w stosunku do której zostały podjęte.
+### 2)
 
-**Art. 21.**
+200 - dla hali sportowej lub innego budynku umożliwiającego przeprowadzenie imprezy masowej;
 
-1. Kierownik do spraw bezpieczeństwa, członkowie służby porządkowej i służby informacyjnej obowiązani są do noszenia w widocznym miejscu identyfikatora wydanego przez organizatora.
+### 3)
 
-2. Identyfikator zawiera następujące informacje:
+200 - dla meczu piłki nożnej.
 
-- **1)** nazwę wystawcy;
-- **2)** numer identyfikacyjny i wizerunek twarzy;
-- **3)** termin ważności;
-- **4)** pieczęć i podpis wystawcy.
+### Art. 8.
 
-3. Organizator prowadzi ewidencję wydanych identyfikatorów, zawierającą następujące dane:
+### 1.
 
-- **1)** imię i nazwisko oraz numer PESEL członka służby pobierającego identyfikator lub serię i numer dokumentu potwierdzającego tożsamość;
-- **2)** podpis członka służby pobierającego identyfikator, datę i godzinę pobrania;
-- **3)** numer zaświadczenia o ukończeniu przez członka służby przeszkolenia w zakresie zabezpieczania imprez masowych i dane identyfikujące wystawcę tego zaświadczenia.
+Osoby uczestniczące w imprezie masowej są obowiązane zachowywać się w sposób niezagrażający bezpieczeństwu innych osób, a w szczególności przestrzegać postanowień regulaminu obiektu (terenu) i regulaminu imprezy masowej.
 
-**Art. 22.**
+### 2.
 
-1. Służby porządkowe są obowiązane:
+Zabrania się wnoszenia na imprezę masową i posiadania przez osoby w niej uczestniczące broni lub innych niebezpiecznych przedmiotów, materiałów wybuchowych, wyrobów pirotechnicznych, materiałów pożarowo niebezpiecznych, napojów alkoholowych, środków odurzających lub substancji psychotropowych.
 
-- **1)** odmówić wstępu na imprezę masową:
-    - **a)** osobie, wobec której zostało wydane orzeczenie: – zakazujące wstępu na imprezę masową, – zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 7 pkt 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich,
-    - **b)** osobie, wobec której został wydany zakaz zagraniczny,
-    - **c)** osobie, wobec której został wydany zakaz klubowy,
-    - **d)** osobie odmawiającej poddania się czynnościom, o których mowa w art. 20 ust. 1 pkt 1–3,
-    - **e)** osobie znajdującej się pod widocznym wpływem alkoholu, środków odurzających, psychotropowych lub innych podobnie działających środków,
-    - **f)** osobie posiadającej broń lub inne przedmioty, materiały, wyroby, napoje, środki lub substancje, o których mowa w art. 8 ust. 2,
-    - **g)** osobie zachowującej się agresywnie, prowokacyjnie albo w inny sposób stwarzającej zagrożenie dla bezpieczeństwa lub porządku publicznego;
+### Art. 9.
 
-- **1a)** odmówić wstępu na imprezę masową osobie nieposiadającej biletu wstępu lub innego dokumentu uprawniającego do przebywania na imprezie masowej;
-- **2)** usunąć z miejsca przeprowadzania imprezy masowej osoby, które swoim zachowaniem zakłócają porządek publiczny lub zachowują się niezgodnie z regulaminem obiektu (terenu) lub regulaminem imprezy masowej;
-- **3)** usunąć z miejsca przeprowadzania imprezy masowej osoby, o których mowa w ust. 1 pkt 1 lit. a–c.
+Organizator lub podmiot przez niego uprawniony podczas sprzedaży biletów wstępu na imprezę masową może zażądać od kupującego okazania dokumentu potwierdzającego jego tożsamość, z zastrzeżeniem art. 15 ust. 1.
 
-2. Służby informacyjne są obowiązane do:
+### Art. 10.
 
-- **1)** informowania o udogodnieniach oraz wymogach bezpieczeństwa określonych przez organizatora lub służby ratownicze;
-- **2)** informowania o umiejscowieniu punktów pomocy medycznej, gastronomicznych i sanitarnych;
-- **3)** nadzorowania bezpiecznego wejścia i wyjścia osób uczestniczących w imprezie masowej;
-- **4)** niedopuszczania osób uczestniczących w imprezie masowej do miejsc nieprzeznaczonych dla publiczności;
-- **5)** niezwłocznego reagowania na incydenty i zagrożenia oraz podejmowania niezbędnych działań zaradczych, w szczególności poprzez informowanie o nich służb porządkowych;
-- **6)** obserwowania wszystkich obszarów potencjalnego zagrożenia i przeciwdziałania nadmiernemu zagęszczeniu osób;
-- **7)** pilnowania przestrzegania postanowień regulaminu obiektu (terenu) i regulaminu imprezy masowej;
-- **8)** reagowania na skargi składane przez osoby uczestniczące w imprezie masowej.
+Organizator masowej imprezy sportowej, innej niż wymieniona w rozdziale 3, może odmówić na nią wstępu i przebywania osobie, której dane znajdują się w bazie danych, o której mowa w art. 37 pkt 2, lub objętej zakazem klubowym lub zakazem zagranicznym.
 
-3. W celu realizacji obowiązku, o którym mowa w ust. 1 pkt 1 lit. a lub b, organizator lub osoba przez niego upoważniona kieruje zapytanie do właściwego ze względu na miejsce odbywania się imprezy komendanta powiatowego (rejonowego, miejskiego) Policji, zgodnie z zasadami określonymi w rozdziale 7.
+### Art. 11.
 
-4. W przypadku gdy działania służby porządkowej, o których mowa w ust. 1, są nieskuteczne, organizator lub kierownik do spraw bezpieczeństwa występuje do Policji o udzielenie pomocy, niezwłocznie potwierdzając ten fakt pisemnym zgłoszeniem.
+### 1.
 
-5. W przypadku gdy impreza masowa jest przeprowadzana na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, wystąpienie, o którym mowa w ust. 4, kierowane jest do Żandarmerii Wojskowej.
+Organizator jest uprawniony do utrwalania przebiegu imprezy masowej, a w szczególności zachowania osób w niej uczestniczących, za pomocą urządzeń rejestrujących obraz i dźwięk.
 
-6. W przypadku, o którym mowa w ust. 4 lub 5, służby porządkowe i służby informacyjne wykonują polecenia Policji lub Żandarmerii Wojskowej.
+### 2.
 
-**Art. 23.** Rada Ministrów określi, w drodze rozporządzenia:
+Materiały zgromadzone podczas utrwalania przebiegu imprezy masowej, mogące stanowić dowody pozwalające na wszczęcie postępowania karnego albo postępowania w sprawach o wykroczenia lub dowody mogące mieć znaczenie dla toczących się takich postępowań, organizator niezwłocznie przekazuje prokuratorowi rejonowemu właściwemu ze względu na miejsce przeprowadzonej imprezy masowej lub właściwemu terytorialnie komendantowi powiatowemu (miejskiemu, rejonowemu) Policji, w razie potrzeby z wnioskiem o wszczęcie postępowania karnego lub z wnioskiem o ukaranie, chyba że sam zawiadomi o przestępstwie albo wystąpi z wnioskiem o ukaranie w sprawach o wykroczenia.
 
-#### Rozdział 5 Zezwolenia na przeprowadzenie imprezy masowej
+### 3.
 
-**Art. 24.** Organem wydającym zezwolenie na przeprowadzenie imprezy masowej, zwanym dalej „organem”, jest wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce przeprowadzenia imprezy masowej.
+Zgromadzone podczas utrwalania przebiegu imprezy masowej materiały organizator przechowuje po zakończeniu imprezy masowej przez okres 12 miesięcy, a następnie komisyjnie je niszczy.
 
-**Art. 25.**
+### 4.
 
-1. W celu przeprowadzenia imprezy masowej organizator, nie później niż na 30 dni przed planowanym terminem jej rozpoczęcia:
+Wojewoda w uzgodnieniu z komendantem wojewódzkim (Komendantem Stołecznym) Policji i z komendantem wojewódzkim Państwowej Straży Pożarnej, oraz po zasięgnięciu opinii właściwego polskiego związku sportowego, sporządza wykaz stadionów, obiektów lub terenów, na których utrwalanie przebiegu imprezy masowej za pomocą urządzeń rejestrujących obraz i dźwięk jest obowiązkowe. Umieszczenie w wykazie określonego stadionu, obiektu lub terenu następuje w drodze decyzji administracyjnej.
 
-- **1)** występuje do organu z wnioskiem o wydanie zezwolenia na przeprowadzenie imprezy masowej;
-- **2)** zwraca się do właściwych miejscowo: komendanta powiatowego (rejonowego, miejskiego) Policji i komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, dysponenta zespołów ratownictwa medycznego i państwowego inspektora sanitarnego z wnioskiem o wydanie opinii o niezbędnej wielkości sił i środków potrzebnych do zabezpieczenia imprezy masowej, zastrzeżeniach do stanu technicznego obiektu (terenu) oraz o przewidywanych zagrożeniach;
-- **3)** powiadamia właściwego miejscowo:
-    - **a)** komendanta oddziału Straży Granicznej, w przypadku przeprowadzania imprezy masowej w strefie nadgranicznej,
-    - **b)** komendanta terenowej jednostki organizacyjnej Żandarmerii Wojskowej, w przypadku przeprowadzania imprezy masowej na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej.
+### 5.
 
-1a. Termin, o którym mowa w ust. 1, może zostać skrócony do 14 dni w wyjątkowych i uzasadnionych przypadkach, w szczególności gdy potrzeba organizacji imprezy masowej wynika z przyczyn nagłych oraz jeżeli charakter imprezy masowej odpowiada przeznaczeniu obiektu określonemu w projekcie budowlanym tego obiektu.
+Komendant wojewódzki (Komendant Stołeczny) Policji oraz komendant wojewódzki Państwowej Straży Pożarnej mogą złożyć do wojewody wniosek w sprawie umieszczenia stadionu, obiektu lub terenu w wykazie, o którym mowa w ust. 4, w przypadku sformułowania takiej konkluzji w opinii, o której mowa w art. 25 ust. 1 pkt 2.
 
-2. Do wniosku, o którym mowa w ust. 1 pkt 2, organizator załącza:
+### 6.
 
-- **1)** dokumentację i informacje, o których mowa w art. 26 ust. 1;
-- **2)** program i regulamin imprezy masowej, wraz z informacją o sposobie udostępnienia go uczestnikom imprezy masowej;
-- **3)** regulamin obiektu (terenu), wraz z informacją o sposobie udostępnienia go uczestnikom imprezy masowej;
-- **4)** pisemną instrukcję określającą zadania służby porządkowej oraz służby informacyjnej;
-- **5)** warunki łączności pomiędzy podmiotami biorącymi udział w zabezpieczeniu imprezy masowej.
+W decyzji, o której mowa w ust. 4, określa się w szczególności termin, od którego utrwalanie przebiegu imprezy masowej za pomocą urządzeń rejestrujących obraz i dźwięk jest obowiązkowe.
 
-3. Właściwi miejscowo: komendant powiatowy (rejonowy, miejski) Policji, komendant powiatowy (miejski) Państwowej Straży Pożarnej, dysponent zespołów ratownictwa medycznego i państwowy inspektor sanitarny wydają opinie, o których mowa w ust. 1 pkt 2, w terminie 14 dni od dnia otrzymania wniosku o ich wydanie.
+### 7.
 
-3a. Do opinii określonych w ust. 1 pkt 2 nie ma zastosowania art. 106 Kodeksu postępowania administracyjnego.
+Od decyzji, o której mowa w ust. 4, przysługuje odwołanie do ministra właściwego do spraw wewnętrznych.
 
-3b. W przypadku, o którym mowa w ust. 1a, wydanie opinii, o których mowa w ust. 3, następuje w terminie 7 dni od dnia otrzymania wniosku o ich wydanie.
+### 8.
 
-4. Opinie, o których mowa w ust. 1 pkt 2, zachowują ważność przez 6 miesięcy od dnia ich wydania.
+Organizator imprezy masowej przeprowadzanej na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, oraz organizator imprezy masowej podwyższonego ryzyka utrwala przebieg tej imprezy, a w szczególności zachowania osób, za pomocą urządzeń rejestrujących obraz i dźwięk.
 
-**Art. 26.**
+### 9.
 
-1. Organizator do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, dołącza:
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób utrwalania przebiegu imprezy masowej, uwzględniając jej rodzaj, miejsca na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, podlegające obowiązkowej rejestracji obrazu i dźwięku oraz minimalne wymagania techniczne dla urządzeń rejestrujących obraz i dźwięk, umożliwiające wykorzystanie zarejestrowanego obrazu i dźwięku w postępowaniu dowodowym w stosunku do osób zakłócających porządek podczas imprezy masowej oraz imprez masowych podwyższonego ryzyka prowadzonych na stadionach, w obiektach i na terenach niewyszczególnionych w wykazie, o którym mowa w ust. 4, jak również sposób przechowywania materiałów, o których mowa w ust. 3, biorąc pod uwagę konieczność zapewnienia efektywnego rozpoznawania zagrożeń i identyfikowania sprawców zakłóceń porządku publicznego w miejscu i w czasie trwania imprezy masowej.
 
-- **1)** graficzny plan obiektu (terenu), na którym ma być przeprowadzona impreza masowa, wraz z jego opisem, zawierający:
-    - **a)** oznaczenie dróg dojścia i rozchodzenia się osób uczestniczących w imprezie masowej, dróg ewakuacyjnych i dróg dojazdowych dla pojazdów służb ratowniczych i Policji,
-    - **b)** oznaczenie punktów pomocy medycznej, punktów czerpalnych wody do celów przeciwpożarowych oraz punktów informacyjnych,
-    - **c)** oznaczenie lokalizacji hydrantów przeciwpożarowych, zaworów, przyłączy wody, gazu i energii elektrycznej oraz innych elementów mających wpływ na bezpieczeństwo użytkowników obiektu lub terenu,
-    - **d)** informacje o rozmieszczeniu służb porządkowych oraz służb informacyjnych, rozmieszczeniu osób uczestniczących w imprezie masowej i ewentualnym rozdzieleniu ich według sektorów oraz o rozmieszczeniu punktów gastronomicznych i sanitariatów,
-    - **e)** oznaczenie sektorów, na których podczas meczu piłki nożnej zostaną udostępnione miejsca stojące – jeżeli organizator zamierza udostępnić uczestnikom miejsca stojące;
+### 10.
 
-- **2)** instrukcję, o której mowa w art. 6 ust. 4, z zastrzeżeniem ust. 2;
-- **3)** terminarz rozgrywek meczów piłki nożnej lub terminarz innych imprez masowych – w przypadku imprez masowych organizowanych cyklicznie;
-- **4)** informację o:
-    - **a)** liczbie miejsc dla osób na imprezie masowej, a jeżeli organizator zamierza udostępnić na meczu piłki nożnej miejsca stojące – również liczbie miejsc stojących,
-    - **b)** przewidywanych zagrożeniach bezpieczeństwa i porządku publicznego,
-    - **c)** liczbie, organizacji, oznakowaniu, wyposażeniu i sposobie rozmieszczenia służby porządkowej oraz służby informacyjnej;
+Kontrolę przestrzegania warunków określonych w rozporządzeniu, o którym mowa w ust. 9, sprawuje wojewoda poprzez coroczne:
 
-- **5)** informację o osobie wyznaczonej na kierownika do spraw bezpieczeństwa, w tym jej dane obejmujące: imię, nazwisko, numer PESEL – o ile został nadany, numer i datę wydania zaświadczenia o ukończeniu szkolenia dla kierowników do spraw bezpieczeństwa imprez masowych, a w przypadku imprezy masowej podwyższonego ryzyka dodatkowo numer wpisu na listę kwalifikowanych pracowników ochrony fizycznej;
-- **6)** informację o sposobie zapewnienia identyfikacji osób biorących udział w imprezie masowej – w przypadku meczu piłki nożnej lub imprezy masowej podwyższonego ryzyka;
-- **7)** informację o zainstalowanych urządzeniach rejestrujących obraz i dźwięk, o których mowa w art. 11;
-- **8)** informację o powiadomieniu podmiotów, o których mowa w art. 25 ust. 1 pkt 3 – w przypadku przeprowadzania imprezy masowej w strefie nadgranicznej lub na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej;
-- **9)** harmonogram udostępnienia obiektu lub terenu uczestnikom imprezy masowej oraz harmonogram opuszczenia przez nich tego obiektu lub terenu, jeżeli regulamin imprezy masowej przewiduje zmienną liczbę osób w czasie jej trwania.
+### 1)
 
-2. Opinie, o których mowa w art. 25 ust. 1 pkt 2, oraz instrukcję, o której mowa w art. 6 ust. 4, organizator dołącza do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, niezwłocznie, jednak nie później niż na 14 dni przed terminem rozpoczęcia imprezy masowej.
+porównanie parametrów technicznych urządzeń rejestrujących obraz i dźwięk zainstalowanych na stadionie, w obiekcie lub na terenie, o których mowa w ust. 4, z minimalnymi wymogami technicznymi określonymi w rozporządzeniu, o którym mowa w ust. 9;
 
-2a. W przypadku, o którym mowa w art. 25 ust. 1a, opinie, o których mowa w art. 25 ust. 1 pkt 2, oraz instrukcję, o której mowa w art. 6 ust. 4, organizator dołącza do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, niezwłocznie.
+### 2)
 
-2b. W przypadku gdy z opinii właściwego miejscowo komendanta powiatowego (rejonowego, miejskiego) Policji, o której mowa w art. 25 ust. 1 pkt 2, wynika, iż impreza masowa powinna zostać zakwalifikowana jako impreza masowa podwyższonego ryzyka, organizator może dołączyć do dokumentacji, o której mowa w ust. 2, wniosek o zezwolenie na zapewnienie przez niego na tej imprezie masowej mniejszej liczebności służby porządkowej i informacyjnej niż określona w art. 6 ust. 2 pkt 2.
+sprawdzanie stanu technicznego urządzeń, o których mowa w pkt 1.
 
-3. W przypadku gdy właściciel, posiadacz, użytkownik obiektu lub zarządzający obiektem, na terenie którego ma być przeprowadzona impreza masowa, rozpoczął jego użytkowanie zgodnie z przepisami prawa budowlanego, a charakter imprezy masowej jest zgodny z przeznaczeniem obiektu, organizator do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, dołącza ważne opinie, o których mowa w art. 25 ust. 1 pkt 2, właściwych miejscowo: komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej i państwowego inspektora sanitarnego.
+### Art. 12.
 
-**Art. 27.** Organ może zażądać od organizatora dodatkowej dokumentacji w postaci:
+### 1.
 
-**Art. 28.**
+Wojewoda może, w drodze decyzji administracyjnej, nałożyć na organizatora imprezy masowej organizowanej w miejscu nieobjętym wykazem, o którym mowa w art. 11 ust. 4, obowiązek jej utrwalania za pomocą urządzeń rejestrujących obraz i dźwięk.
 
-1. Właściwy miejscowo komendant powiatowy (rejonowy, miejski) Policji i właściwy miejscowo komendant powiatowy (miejski) Państwowej Straży Pożarnej wydają opinię, o której mowa w art. 25 ust. 1 pkt 2, na podstawie lustracji obiektu (terenu), na którym ma być przeprowadzona impreza masowa, oraz na podstawie przedłożonych przez organizatora dokumentów i informacji, o których mowa w art. 25 ust. 2.
+### 2.
 
-2. Właściwy miejscowo komendant powiatowy (rejonowy, miejski) Policji wydaje opinię dodatkowo na podstawie analizy ryzyka, określającej przewidywane zagrożenia bezpieczeństwa i porządku publicznego mogące wystąpić w związku z imprezą masową.
+Przepisy art. 11 ust. 6-8 i 10 stosuje się odpowiednio.
 
-**Art. 29.**
+### Rozdział 3 Bezpieczeństwo meczu piłki nożnej
 
-1. Organ wydaje zezwolenie albo odmawia jego wydania w terminie co najmniej 7 dni przed planowanym terminem przeprowadzenia imprezy masowej.
+### Art. 13.
 
-2. Zezwolenie zawiera:
+### 1.
 
-- **1)** nazwę organizatora;
-- **2)** określenie rodzaju imprezy masowej;
-- **3)** nazwę imprezy masowej;
-- **4)** warunki przeprowadzenia imprezy masowej, w tym:
-    - **a)** miejsce jej przeprowadzenia,
-    - **b)** czas jej rozpoczęcia i zakończenia,
-    - **c)** maksymalną liczbę osób, które mogą w niej uczestniczyć,
-    - **d)** liczbę członków służby porządkowej oraz służby informacyjnej, ustaloną zgodnie z art. 6 ust. 2,
-    - **e)** informację o zainstalowaniu urządzeń rejestrujących obraz i dźwięk, o których mowa w art. 11.
+Organizator meczu piłki nożnej zapewnia identyfikację osób uczestniczących w tej imprezie, niezależnie od obowiązków i wymogów, o których mowa w art. 6.
 
-3. Organ stwierdza w zezwoleniu, że jest to impreza masowa podwyższonego ryzyka, w przypadku gdy wynika to z:
+### 2.
 
-- **1)** informacji o przewidywanych zagrożeniach, o której mowa w art. 26 ust. 1 pkt 4 lit. b;
-- **2)** opinii komendanta powiatowego (rejonowego, miejskiego) Policji;
-- **3)** wniosku podmiotu zarządzającego rozgrywkami.
+Obiekty wykorzystywane do prowadzenia rozgrywek meczów piłki nożnej w ramach ligi zawodowej wyposaża się w kompatybilne między sobą elektroniczne systemy identyfikacji osób, służące do sprzedaży biletów, kontroli przebywania w miejscu i w czasie trwania meczu piłki nożnej oraz kontroli dostępu do określonych miejsc.
 
-3a. Organ, biorąc pod uwagę przewidywane zagrożenia dla bezpieczeństwa i porządku publicznego, po konsultacji z właściwym miejscowo komendantem powiatowym (rejonowym, miejskim) Policji może w zezwoleniu, o którym mowa w ust. 1, uwzględnić wniosek, o którym mowa w art. 26 ust. 2b, zezwalając organizatorowi na zapewnienie mniejszej liczebności służby porządkowej i informacyjnej niż określona w art. 6 ust. 2 pkt 2, przy czym liczba służb informacyjnych nie może być niższa niż określana zgodnie z art. 6 ust. 2 pkt 1, a liczba służb porządkowych zwiększana jest przynajmniej o 200% w stosunku do liczby określanej zgodnie z art. 6 ust. 2 pkt 1.
+### 3.
 
-4. Organ odmawia wydania zezwolenia w przypadku:
+Systemy, o których mowa w ust. 2, tworzy się w zgodzie z zasadami określonymi przez podmiot zarządzający rozgrywkami ligi zawodowej w porozumieniu z właściwym związkiem sportowym.
 
-- **1)** niezłożenia przez organizatora opinii, o których mowa w art. 25 ust. 1 pkt 2, i dokumentów, o których mowa w art. 26;
-- **2)** niespełnienia przez organizatora obowiązków i wymogów, o których mowa w art. 6 lub w art. 13 ust. 2.
+### 4.
 
-5. Wydanie zezwolenia lub odmowa jego wydania następuje w drodze decyzji administracyjnej. Kopię decyzji organ przekazuje niezwłocznie, nie później jednak niż w terminie 3 dni od dnia jej wydania, podmiotom wymienionym w art. 25 ust. 1 pkt 2 oraz wojewodzie.
+Zakres przetwarzanych danych identyfikujących osoby uczestniczące obejmuje:
 
-6. Odwołanie organizatora od decyzji, o której mowa w ust. 5, nie wstrzymuje jej wykonania.
+### 1)
 
-**Art. 30.**
+w przypadku meczu piłki nożnej - imię i nazwisko oraz numer PESEL, a w razie gdy nie został on nadany - rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
 
-1. Jeżeli imprezy masowe są przeprowadzane przez tego samego organizatora w tych samych obiektach (terenach) umożliwiających przeprowadzenie imprezy masowej, co najmniej 2 razy w roku lub są to imprezy masowe, dla których opracowano terminarz imprez masowych organizowanych cyklicznie, organ wydaje zezwolenie na przeprowadzenie wskazanej przez organizatora liczby imprez masowych lub ich przeprowadzenie w okresie jednego roku.
+### 2)
 
-2. Organizator imprez masowych przeprowadzanych w trybie, o którym mowa w ust. 1, przekazuje na 14 dni przed planowanym terminem ich przeprowadzenia, właściwym ze względu na miejsce przeprowadzenia imprezy masowej komendantom powiatowym (rejonowym, miejskim) Policji i komendantom powiatowym (miejskim) Państwowej Straży Pożarnej, dysponentowi zespołów ratownictwa medycznego oraz państwowemu inspektorowi sanitarnemu informacje, o których mowa w art. 25 ust. 2 pkt 2 i 3 i art. 26 ust. 1 pkt 4–6.
+w przypadku rozgrywek meczów piłki nożnej w ramach ligi zawodowej - imię i nazwisko, wizerunek twarzy oraz numer PESEL, a w razie gdy nie został on nadany - rodzaj, serię i numer dokumentu potwierdzającego tożsamość.
 
-3. Zezwolenie, o którym mowa w ust. 1, dotyczące meczu piłki nożnej, wydawane jest na okres wskazany w terminarzu rozgrywek meczów piłki nożnej, o którym mowa w art. 26 ust. 1 pkt 3.
+### 5.
 
-4. W przypadku zmiany terminu imprezy masowej mającej odbyć się jednorazowo lub według ustalonego terminarza, o którym mowa w art. 26 ust. 1 pkt 3, organizator na 7 dni przed terminem jej rozpoczęcia zawiadamia organ oraz podmioty, o których mowa w art. 25 ust. 1 pkt 2.
+Dane, o których mowa w ust. 4, są przechowywane przez organizatora przez okres 2 lat od dnia odbycia się meczu piłki nożnej.
 
-#### Rozdział 6 Kontrola bezpieczeństwa imprezy masowej
+### Art. 14.
 
-**Art. 31.**
+### 1.
 
-1. Organ kontroluje zgodność przebiegu imprezy masowej podwyższonego ryzyka z warunkami określonymi w zezwoleniu.
+Organizator meczu piłki nożnej może stosować zakaz klubowy, polegający na zakazie uczestniczenia w kolejnych imprezach masowych przeprowadzanych przez organizatora meczu piłki nożnej, nakładany przez tego organizatora na osobę, która dopuściła się naruszenia regulaminu obiektu (terenu) lub regulaminu imprezy masowej.
 
-2. Organ może kontrolować zgodność przebiegu imprezy masowej niebędącej imprezą masową podwyższonego ryzyka z warunkami określonymi w zezwoleniu.
+### 2.
 
-2a. Wykonując czynności, o których mowa w ust. 1 i 2, organ może korzystać z sił i środków właściwego miejscowo: komendanta powiatowego (rejonowego, miejskiego) Policji, komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, dysponenta zespołów ratownictwa medycznego i państwowego inspektora sanitarnego.
+Okres obowiązywania zakazu klubowego nie może być dłuższy niż 2 lata od dnia jego wydania.
 
-3. Organ w związku z przeprowadzaną kontrolą, o której mowa w ust. 1 i 2, ma prawo do:
+### 3.
 
-- **1)** żądania od organizatora informacji, dokumentów i danych, niezbędnych do sprawowania kontroli;
-- **2)** swobodnego wstępu do miejsca przeprowadzania imprezy masowej i innych pomieszczeń związanych bezpośrednio z przeprowadzaniem imprezy masowej;
-- **3)** przeprowadzania lustracji miejsc, o których mowa w pkt 2;
-- **4)** żądania od osób działających w imieniu i na rzecz organizatora udzielenia informacji w formie ustnej i pisemnej w zakresie przeprowadzanej kontroli.
+Organizator meczu piłki nożnej, w terminie 7 dni od dnia zastosowania zakazu klubowego, informuje o tym osobę, której ten zakaz dotyczy. Informacja określa okres obowiązywania zakazu uczestnictwa tej osoby.
 
-4. W przypadku stwierdzenia niespełnienia przez organizatora warunków określonych w zezwoleniu organ może wydać decyzję o przerwaniu imprezy masowej, nadając jej rygor natychmiastowej wykonalności, o czym niezwłocznie powiadamia właściwego wojewodę. Decyzję doręcza się organizatorowi w terminie 7 dni od dnia przerwania imprezy.
+### 4.
 
-4a. Wydając decyzję, o której mowa w ust. 4, organ bierze również pod uwagę zagrożenie bezpieczeństwa, które może spowodować przerwanie imprezy masowej.
+Od zastosowania przez klub zakazu klubowego, o którym mowa w ust. 1, osobie ukaranej służy prawo do złożenia odwołania do właściwego podmiotu prowadzącego rozgrywki.
 
-5. W przypadku stwierdzenia naruszenia warunków bezpieczeństwa imprezy masowej przez jej organizatora, podmioty, o których mowa w art. 25 ust. 1 pkt 2, mogą wnioskować do organu o jej przerwanie.
+### 5.
 
-**Art. 32.** Organ wydaje decyzję o zakazie przeprowadzenia imprezy masowej, jeżeli po wydaniu zezwolenia stwierdzi, że zostały naruszone warunki bezpieczeństwa dające podstawę do jego wydania.
+Podmiot prowadzący rozgrywki określa formę, tryb i termin złożenia odwołania, o którym mowa w ust. 4, oraz tryb i termin jego rozpatrzenia, w swoim regulaminie wewnętrznym.
 
-**Art. 33.**
+### 6.
 
-1. Od decyzji organu, o której mowa w art. 29 i w art. 32, przysługuje odwołanie do samorządowego kolegium odwoławczego.
+Termin rozpatrzenia odwołania określony w regulaminie, o którym mowa w ust. 5, powinien być wyznaczony tak, aby od daty złożenia odwołania do daty jego rozpatrzenia nie upłynęło więcej niż 14 dni.
 
-2. Samorządowe kolegium odwoławcze rozpatruje odwołanie, o którym mowa w ust. 1, w terminie 4 dni od dnia jego wniesienia.
+### 7.
 
-**Art. 34.**
+Wniesienie przez osobę ukaraną odwołania wstrzymuje wykonanie zakazu klubowego.
 
-1. W przypadku negatywnej oceny stanu bezpieczeństwa i porządku publicznego w związku z planowaną lub przeprowadzoną imprezą masową wojewoda, w drodze decyzji administracyjnej, może:
+### 8.
 
-- **1)** zakazać przeprowadzenia imprezy masowej z udziałem publiczności na całym obiekcie lub w jego wydzielonych sektorach;
-- **2)** wprowadzić, na czas określony albo nieokreślony, zakaz przeprowadzania przez organizatora imprez masowych na terenie województwa lub jego części.
+Orzeczenie właściwego podmiotu prowadzącego rozgrywki wydane na skutek wniesienia odwołania, o którym mowa w ust. 5, jest ostateczne.
 
-2. Kopię decyzji niezwłocznie po jej wydaniu wojewoda przesyła podmiotom, o których mowa w art. 25 ust. 1.
+### Art. 15.
 
-3. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw wewnętrznych, który rozpatruje je w terminie 14 dni od dnia jego wniesienia.
+### 1.
 
-4. Odwołanie od decyzji, o której mowa w ust. 1, nie wstrzymuje jej wykonania.
+Sprzedaż biletu wstępu na mecz piłki nożnej lub przekazanie innego dokumentu uprawniającego do przebywania na nim określonej osoby następuje po okazaniu dokumentu potwierdzającego tożsamość.
 
-**Art. 34a.**
+### 2.
 
-1. Wojewoda może, w drodze decyzji administracyjnej, przerwać imprezę masową, jeżeli jej dalszy przebieg może zagrozić życiu lub zdrowiu osobom albo mieniu w znacznych rozmiarach, a działania podejmowane przez organizatora są niewystarczające do zapewnienia bezpieczeństwa i porządku publicznego.
+Na bilecie wstępu na mecz piłki nożnej lub na innym dokumencie uprawniającym do przebywania na nim umieszcza się dane, o których mowa w art. 13 ust. 4 pkt 1, oraz numer miejsca siedzącego, którego dotyczy ten bilet lub dokument uprawniający do przebywania na meczu.
 
-2. Wydając decyzję, wojewoda bierze pod uwagę również zagrożenie bezpieczeństwa, które może spowodować przerwanie imprezy masowej.
+### 3.
 
-3. Decyzji o przerwaniu imprezy masowej nadaje się rygor natychmiastowej wykonalności.
+Organizator meczu piłki nożnej lub podmiot przez niego uprawniony do dystrybucji odmawia sprzedaży biletu wstępu lub innego dokumentu uprawniającego do przebywania na nim:
 
-4. O treści decyzji wojewoda zawiadamia niezwłocznie organizatora imprezy masowej oraz odpowiednie podmioty wymienione w art. 25 ust. 1.
+### 1)
 
-5. Decyzję doręcza się organizatorowi w terminie 7 dni od dnia przerwania imprezy masowej.
+osobie, wobec której zostało wydane orzeczenie:
 
-#### Rozdział 7 Zasady przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprezy masowej
+### a)
 
-**Art. 35.**
+zakazujące wstępu na imprezę masową,
 
-1. Przetwarzanie informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych odbywa się w celu zapobiegania przestępstwom i wykroczeniom związanym z tymi imprezami oraz ich zwalczania.
+### b)
 
-2. Przetwarzanie danych osobowych może odbywać się bez obowiązku informowania osób, których one dotyczą.
+zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 6 pkt 2 ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich ([Dz. U. z 2002 r. Nr 11, poz. 109](https://api.sejm.gov.pl/eli/acts/DU/2002/109/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 58, poz. 542, z 2003 r. Nr 137, poz. 1304 i Nr 223, poz. 2217, z 2005 r. Nr 169, poz. 1413, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 112, poz. 766 oraz z 2008 r. Nr 145, poz. 917.](#gloss-0:3:));
 
-**Art. 36.**
+### 2)
 
-1. Organem administracji rządowej właściwym w sprawach przetwarzania informacji, w tym danych osobowych, dotyczących bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, jest Komendant Główny Policji, zwany dalej „Komendantem”.
+osobie, wobec której zastosowano zakaz klubowy lub zakaz zagraniczny.
 
-2. Komendant przetwarza informacje, w tym dane osobowe, dotyczące imprez masowych innych niż masowe imprezy sportowe, w tym mecze piłki nożnej, w zakresie obejmującym dane osobowe o osobach, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b, oraz o terminach i miejscach przeprowadzania tych imprez.
+### 4.
 
-3. (uchylony)
+Organizator meczu piłki nożnej obowiązany jest prowadzić sprzedaż biletów wstępu lub przekazywać inne dokumenty uprawniające do przebywania na nim jedynie na miejsca siedzące.
 
-4. (uchylony)
+### Art. 16.
 
-**Art. 37.** Do zadań Komendanta należy w szczególności:
+Wstęp na mecz piłki nożnej osoby małoletniej do lat 13 następuje wyłącznie pod opieką osoby pełnoletniej.
 
-**Art. 38.**
+### Art. 17.
 
-1. Podmiotami uprawnionymi w zakresie swoich kompetencji do otrzymywania od Komendanta informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych, zwanymi dalej „podmiotami uprawnionymi”, są:
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw kultury fizycznej i sportu oraz ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, określi, w drodze rozporządzenia, warunki bezpieczeństwa, jakie powinny spełniać stadiony, na których mogą odbywać się mecze piłki nożnej, w szczególności dotyczące:
 
-- **1)** Policja;
-- **2)** prokuratura;
-- **3)** sądy;
-- **4)** Straż Graniczna;
-- **5)** Państwowa Straż Pożarna;
-- **6)** Służba Ochrony Państwa;
-- **7)** Agencja Bezpieczeństwa Wewnętrznego;
-- **8)** Żandarmeria Wojskowa;
-- **9)** straże gminne (miejskie);
-- **10)** organy administracji publicznej właściwe w sprawach wydawania zezwolenia na przeprowadzenie imprezy masowej;
-- **11)** służby odpowiedzialne za bezpieczeństwo na obszarach kolejowych, zarządcy infrastruktury kolejowej, przewoźnicy publiczni;
-- **12)** związki sportowe o zasięgu ogólnokrajowym;
-- **13)** kluby sportowe;
-- **14)** organizatorzy masowych imprez sportowych, w tym meczów piłki nożnej;
-- **15)** podmioty zarządzające rozgrywkami;
-- **16)** instytucje zagraniczne;
-- **17)** minister właściwy do spraw kultury fizycznej.
+### 1)
 
-2. Organizatorzy imprez masowych innych niż masowe imprezy sportowe, w tym mecze piłki nożnej, są uprawnieni w zakresie swoich zadań ustawowych do otrzymywania od Komendanta informacji, w tym danych osobowych, dotyczących osób, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b.
+rozwiązań technicznych pozwalających na kierowanie przepływem i kontrolę osób uczestniczących w meczach piłki nożnej,
 
-3. Komendanci wojewódzcy (Komendant Stołeczny) Policji i komendanci powiatowi (rejonowi, miejscy) Policji przekazują podmiotom, o których mowa w ust. 1 pkt 1–15, na wniosek tych podmiotów, informacje, w tym dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b i art. 40, dotyczące imprez masowych organizowanych na obszarze działania tych komendantów. Przepisy art. 42 ust. 1, 4 i 5, art. 43, art. 44 ust. 1, 2 i 4, art. 45, art. 46 oraz art. 47 stosuje się odpowiednio.
+### 2)
 
-**Art. 39.**
+wprowadzenia identyfikacji osób uczestniczących w meczach piłki nożnej,
 
-1. Podmiotami zobowiązanymi do przekazywania Komendantowi informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych, zwanymi dalej „podmiotami zobowiązanymi”, są podmioty, o których mowa w art. 38 ust. 1 pkt 1–15, oraz:
+### 3)
 
-- **1)** Biuro Informacyjne Krajowego Rejestru Karnego oraz sądy, w których zapadło prawomocne orzeczenie o ukaraniu za wykroczenie karą inną niż kara aresztu;
-- **2)** związki sportowe;
-- **3)** organizatorzy;
-- **4)** właściciele obiektów, na terenie których organizowane są masowe imprezy sportowe, w tym mecze piłki nożnej;
-- **5)** organizatorzy turystyki;
-- **6)** krajowi przewoźnicy realizujący publiczny transport zbiorowy.
+ich wyposażenia w infrastrukturę obejmującą, w szczególności zintegrowane stanowiska dowodzenia, sposób rozmieszczenia osób uczestniczących w meczu piłki nożnej, system kontroli wejść i wyjść, zaplecze parkingowe oraz węzły komunikacyjne
 
-2. Podmioty zobowiązane przekazują komendantom wojewódzkim (Komendantowi Stołecznemu) Policji i komendantom powiatowym (rejonowym, miejskim) Policji, na wniosek komendantów, informacje, w tym dane osobowe, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b i art. 40, dotyczące imprez masowych organizowanych na obszarze działania tych komendantów. Przepisy art. 41, art. 42 ust. 1–3 oraz art. 45 stosuje się odpowiednio.
+- uwzględniając konieczność zapewnienia bezpieczeństwa i sprawnego przebiegu imprez masowych oraz bezpieczeństwa osób w nich uczestniczących.
 
-**Art. 40.** Zakres przetwarzanych informacji, w tym danych osobowych, dotyczących bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, zawiera dane:
+### Art. 18.
 
-**Art. 41.**
+Przepisy niniejszego rozdziału stosuje się odpowiednio do organizacji masowych imprez sportowych podwyższonego ryzyka.
 
-1. Podmioty zobowiązane, z zastrzeżeniem ust. 2, przekazują Komendantowi informacje, w tym dane osobowe, dotyczące bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, niezwłocznie po ich otrzymaniu, nie później jednak niż w ciągu 24 godzin od chwili ich otrzymania.
+### Rozdział 4 Służby porządkowe i służby informacyjne
 
-2. Podmioty zobowiązane, o których mowa w:
+### Art. 19.
 
-- **1)** art. 38 ust. 1 pkt 13 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 3–5 i 9;
-- **2)** art. 38 ust. 1 pkt 15 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 3–7 i 9;
-- **3)** art. 39 ust. 1 pkt 2 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 3–5 i 9;
-- **4)** art. 39 ust. 1 pkt 3 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 3 i 6–10;
-- **5)** art. 39 ust. 1 pkt 4 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 4 i 7;
-- **6)** art. 39 ust. 1 pkt 5 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 8 i 9;
-- **7)** art. 39 ust. 1 pkt 6 – przekazują informacje, w tym dane osobowe, o których mowa w art. 40 pkt 4, 8 i 9.
+### 1.
 
-**Art. 42.**
+Członkowie służby porządkowej działają na rzecz bezpieczeństwa i porządku publicznego w czasie i w miejscu trwania imprezy masowej.
 
-1. Informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprezy masowej przekazuje się za pomocą środków komunikacji elektronicznej albo przez bezpośrednie doręczenie do najbliższego komisariatu lub komendy powiatowej (miejskiej, rejonowej) Policji.
+### 2.
 
-2. Podmioty zobowiązane przekazują informacje, w tym dane osobowe, na kartach rejestracyjnych.
+Członkowie służby informacyjnej działają na rzecz bezpieczeństwa uczestników imprezy masowej, w szczególności poprzez informowanie ich o przyjętych rozwiązaniach organizacyjnych.
 
-3. Podmioty uprawnione w celu uzyskania informacji, w tym danych osobowych, kierują zapytania, wraz z uzasadnieniem, do Komendanta na kartach zapytania.
+### 3.
 
-4. Komendant udziela informacji na kartach odpowiedzi.
+Członkowie służb, o których mowa w ust. 1 i 2, są obowiązani posiadać oznakowanie i ukończone szkolenie, o którym mowa w przepisach wydanych na podstawie art. 23.
 
-5. Komendant może przekazać informacje, w tym dane osobowe, dotyczące bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, podmiotowi zobowiązanemu, niebędącemu podmiotem uprawnionym, na jego pisemne zapytanie, jeżeli dotyczy ono ustawowych obowiązków tego podmiotu.
+### 4.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób przekazywania informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych przez podmioty zobowiązane, wzory kart rejestracyjnych, karty zapytania oraz karty odpowiedzi, biorąc pod uwagę dane, jakie muszą znaleźć się na kartach, oznaczenia podmiotu uprawnionego oraz podmiotu zobowiązanego, treść informacji, o której mowa w ust. 2, oraz zapytania, o którym mowa w ust. 3, jak również uzasadnienia, o którym mowa w art. 43, a także konieczność zapewnienia bezpieczeństwa przekazywanych informacji, w tym dane osobowe, w szczególności przed dostępem osób nieuprawnionych.
+Kierownikiem do spraw bezpieczeństwa może być wyłącznie osoba, która ukończyła szkolenie, o którym mowa w przepisach wydanych na podstawie art. 23, a w przypadku imprezy masowej podwyższonego ryzyka dodatkowo legitymuje się licencją drugiego stopnia pracownika ochrony fizycznej, o której mowa w art. 27 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
 
-**Art. 43.**
+### Art. 20.
 
-1. Komendant przekazuje informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprez masowych niezwłocznie po otrzymaniu od podmiotu uprawnionego zapytania wraz z uzasadnieniem. Uzasadnienie powinno wskazywać powód wystąpienia z zapytaniem.
+### 1.
 
-2. Jeżeli zapytanie nie zawiera uzasadnienia lub jest ono niewystarczające, Komendant zwraca się do podmiotu uprawnionego, o którym mowa w ust. 1, o sporządzenie uzasadnienia lub jego uzupełnienie o stosowne informacje.
+Służby porządkowe i informacyjne są uprawnione do:
 
-3. W przypadku gdy przetwarzane w zbiorze danych informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprez masowych są niewystarczające do udzielenia odpowiedzi na zapytanie, Komendant występuje z zapytaniem do podmiotów zobowiązanych w zakresie koniecznym do udzielenia odpowiedzi. Podmiot zobowiązany, do którego Komendant wystąpił z zapytaniem, jest obowiązany niezwłocznie udzielić odpowiedzi w zakresie określonym w art. 41.
+### 1)
 
-**Art. 44.**
+sprawdzania i stwierdzania uprawnień osób do uczestniczenia w imprezie masowej, a w przypadku stwierdzenia braku takich uprawnień - wezwania ich do opuszczenia imprezy masowej;
 
-1. Zapytanie kieruje osoba upoważniona do występowania w imieniu podmiotu uprawnionego.
+### 2)
 
-2. Upoważnienie powinno określać rodzaje spraw, których może dotyczyć zapytanie.
+legitymowania osób w celu ustalenia ich tożsamości;
 
-3. Komendant prowadzi rejestr osób upoważnionych obejmujący następujące dane: imię, nazwisko, numer PESEL, nazwę i adres podmiotu, w imieniu którego wniosek został skierowany, uwzględniając zakres udzielonych upoważnień.
+### 3)
 
-4. Jeżeli z zapytaniem zwróci się osoba nieupoważniona lub przekracza ono zakres upoważnienia, Komendant zawiadamia o tym podmiot uprawniony oraz przekazuje mu treść złożonego zapytania bez odpowiedzi.
+przeglądania zawartości bagaży i odzieży osób w przypadku podejrzenia, że osoby te wnoszą lub posiadają przedmioty, o których mowa w art. 8 ust. 2;
 
-**Art. 45.** Treść zapytania skierowanego przez Komendanta lub do Komendanta, a także treść odpowiedzi podmiotu zobowiązanego lub Komendanta podlega zarejestrowaniu w zbiorze danych, o którym mowa w art. 37 pkt 2.
+### 4)
 
-**Art. 45a.** Komendant niezwłocznie przekazuje podmiotowi prowadzącemu centralę monitorowania, określoną w przepisach o wykonywaniu kary pozbawienia wolności poza zakładem karnym w systemie dozoru elektronicznego, informacje o miejscu i terminach imprez masowych w zakresie dotyczącym poszczególnych osób, o których mowa w art. 22 ust. 1 pkt 1 lit. a, w stosunku do których orzeczono obowiązek przebywania w czasie trwania imprezy masowej w określonym miejscu stałego pobytu.
+wydawania poleceń porządkowych osobom zakłócającym porządek publiczny lub zachowującym się niezgodnie z regulaminem imprezy masowej lub regulaminem obiektu (terenu), a w przypadku niewykonania tych poleceń - wezwania ich do opuszczenia imprezy masowej;
 
-**Art. 46.** Przetwarzanie informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych może być dokonywane przy wykorzystaniu urządzeń i systemów teleinformatycznych, kartotek, wykazów i zbiorów ewidencyjnych.
+### 5)
 
-**Art. 47.**
+ujęcia, w celu niezwłocznego przekazania Policji, osób stwarzających bezpośrednie zagrożenie dla dóbr powierzonych ochronie oraz osób dopuszczających się czynów zabronionych.
 
-1. Podmiot zobowiązany, który stwierdził nieprawidłowość przekazywanej przez siebie informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych, zawiadamia o tym niezwłocznie Komendanta.
+### 2.
 
-2. W przypadku, o którym mowa w ust. 1, Komendant niezwłocznie zawiadamia o nieprawidłowości informacji, w tym danych osobowych, dotyczących bezpieczeństwa imprez masowych podmioty uprawnione, które tę informację od niego otrzymały.
+Służby porządkowe uprawnione są do stosowania siły fizycznej w postaci chwytów obezwładniających lub podobnych technik obrony oraz kajdanek lub ręcznych miotaczy gazu, w przypadku zagrożenia dóbr powierzonych ochronie lub odparcia ataku na członka służby porządkowej, służby informacyjnej lub inną osobę oraz niewykonywania poleceń, o których mowa w ust. 1 pkt 4, na zasadach określonych w art. 38 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia.
 
-**Art. 48.** Informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprez masowych Komendant przechowuje przez okres 10 lat.
+### 3.
 
-**Art. 49.** Informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprez masowych podlegają niezwłocznemu usunięciu ze zbioru danych, jeżeli:
+Czynności, o których mowa w ust. 1 i 2, powinny być wykonywane w sposób zapewniający poszanowanie godności ludzkiej oraz innych dóbr osobistych osoby, w stosunku do której zostały podjęte.
 
-**Art. 50.**
+### Art. 21.
 
-1. Komendant może kierować zapytanie do instytucji zagranicznych w celu realizacji zadań określonych ustawą.
+### 1.
 
-2. Komendant w celu zapobiegania i zwalczania przejawów przemocy i chuligaństwa w czasie imprez masowych, a w szczególności meczów piłki nożnej, może przekazywać informacje, w tym dane osobowe, dotyczące bezpieczeństwa imprez masowych instytucjom zagranicznym, w tym zwłaszcza informacje niezbędne do zapewnienia porządku i bezpieczeństwa podczas organizowanych imprez masowych o charakterze międzynarodowym.
+Kierownik do spraw bezpieczeństwa, członkowie służby porządkowej i służby informacyjnej obowiązani są do noszenia w widocznym miejscu identyfikatora wydanego przez organizatora.
 
-3. Do przekazywania informacji, w tym danych osobowych, instytucjom zagranicznym stosuje się odpowiednio przepisy niniejszego rozdziału, chyba że przepisy szczególne stanowią inaczej.
+### 2.
 
-**Art. 51.** Przepisy niniejszego rozdziału stosuje się odpowiednio do imprez będących meczami lub współzawodnictwem kobiet lub mężczyzn w następujących dyscyplinach sportu:
+Identyfikator zawiera następujące informacje:
 
-#### Rozdział 8 Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej
+### 1)
 
-**Art. 52.**
+nazwę wystawcy;
 
-1. Organizator imprezy masowej, na którą wstęp jest odpłatny, odpowiada za szkody obejmujące równowartość zniszczonego lub uszkodzonego mienia, które poniosły Policja, Żandarmeria Wojskowa, straż gminna (miejska), Państwowa Straż Pożarna i inne jednostki ochrony przeciwpożarowej oraz służba zdrowia, w związku z ich działaniami w miejscu i w czasie trwania imprezy masowej.
+### 2)
 
-2. Podmioty, o których mowa w ust. 1, przedkładają organizatorowi wykaz zniszczonego lub uszkodzonego mienia oraz wysokość poniesionej szkody w terminie 14 dni od dnia zaistnienia szkody.
+numer identyfikacyjny i wizerunek twarzy;
 
-3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych, Ministrem Obrony Narodowej, ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy tryb ustalania szkód, o których mowa w ust. 1, oraz tryb występowania o wypłatę odszkodowań, biorąc pod uwagę konieczność zapewnienia sprawnego szacowania szkód i dokonywania wypłat.
+### 3)
 
-**Art. 53.**
+termin ważności;
 
-1. Organizator imprezy masowej, na którą wstęp jest odpłatny, jest obowiązany do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone osobom w niej uczestniczącym.
+### 4)
 
-2. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę charakter szkód mogących wystąpić w związku z imprezami masowymi.
+pieczęć i podpis wystawcy.
 
-#### Rozdział 9 Przepisy karne
+### 3.
 
-**Art. 54.**
+Organizator prowadzi ewidencję wydanych identyfikatorów, zawierającą następujące dane:
 
-1. Kto nie wykonuje polecenia porządkowego lub wezwania, wydanego na podstawie niniejszej ustawy przez służby porządkowe lub służby informacyjne, w czasie i w miejscu imprezy masowej, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 zł.
+### 1)
 
-2. Tej samej karze podlega, kto w czasie trwania:
+imię i nazwisko oraz numer PESEL członka służby pobierającego identyfikator lub serię i numer dokumentu potwierdzającego tożsamość;
 
-- **1)** imprezy masowej przebywa w miejscu nieprzeznaczonym dla publiczności;
-- **2)** masowej imprezy sportowej przebywa w sektorze innym niż wskazany na bilecie wstępu lub innym dokumencie uprawniającym do przebywania na imprezie masowej i nie opuszcza tego sektora mimo wezwania osoby uprawnionej.
+### 2)
 
-**Art. 55.** Kto nie wykonuje polecenia wydanego przez Policję lub Żandarmerię Wojskową, w miejscu i w czasie trwania imprezy masowej, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 zł.
+podpis członka służby pobierającego identyfikator, datę i godzinę pobrania;
 
-**Art. 56.** Kto wbrew przepisom ustawy wnosi lub posiada na imprezie masowej napoje alkoholowe, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 zł.
+### 3)
 
-**Art. 57.** Kto, będąc do tego zobowiązany, nie przekazuje informacji dotyczącej bezpieczeństwa imprezy masowej albo przekazuje informację nieprawdziwą w tym zakresie, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 zł.
+numer zaświadczenia o ukończeniu przez członka służby przeszkolenia w zakresie zabezpieczania imprez masowych i dane identyfikujące wystawcę tego zaświadczenia.
 
-**Art. 57a.** Kto w miejscu i w czasie trwania masowej imprezy sportowej używa elementu odzieży lub przedmiotu w celu uniemożliwienia lub istotnego utrudnienia rozpoznania osoby, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 zł.
+### Art. 22.
 
-**Art. 58.**
+### 1.
 
-1. Kto organizuje imprezę masową bez wymaganego zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu albo przeprowadza ją wbrew wydanemu zakazowi, podlega grzywnie nie mniejszej niż 240 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 6 miesięcy do lat 8.
+Służby porządkowe są obowiązane:
 
-2. Kto, organizując imprezę masową, nie zachowuje wymogów i warunków bezpieczeństwa określonych w art. 5 ust. 2 lub w art. 6 ust. 1, podlega grzywnie nie mniejszej niż 180 stawek dziennych.
+### 1)
 
-3. Tej samej karze podlega, kto będąc członkiem służby porządkowej lub służby informacyjnej, przekraczając swoje uprawnienia lub niedopełniając obowiązków powoduje zagrożenie bezpieczeństwa imprezy masowej.
+odmówić wstępu na imprezę masową:
 
-**Art. 59.**
+### a)
 
-1. Kto wnosi lub posiada na imprezie masowej broń, w rozumieniu ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516), wyroby pirotechniczne, materiały pożarowo niebezpieczne lub inne niebezpieczne przedmioty lub materiały wybuchowe, podlega grzywnie nie mniejszej niż 180 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
+osobie, wobec której zostało wydane orzeczenie:
 
-2. Sąd może orzec przepadek przedmiotów, o których mowa w ust. 1, chociażby nie stanowiły własności sprawcy.
+- - zakazujące wstępu na imprezę masową,
 
-**Art. 60.**
+- - zobowiązujące do powstrzymania się od przebywania w miejscach przeprowadzania imprez masowych, wydane przez sąd wobec skazanego w związku z warunkowym zawieszeniem wykonania kary pozbawienia wolności albo wobec nieletniego na podstawie art. 6 pkt 2 ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich,
 
-1. Kto w czasie trwania masowej imprezy sportowej, w tym meczu piłki nożnej, wdziera się na teren, na którym rozgrywane są zawody sportowe, albo wbrew żądaniu osoby uprawnionej miejsca takiego nie opuszcza, podlega grzywnie nie mniejszej niż 180 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+### b)
 
-1a. Kto w czasie trwania imprezy masowej wdziera się na teren obiektu lub na teren, gdzie prowadzona jest impreza masowa albo wbrew żądaniu osoby uprawnionej miejsca takiego nie opuszcza, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+osobie, wobec której został wydany zakaz zagraniczny,
 
-2. Kto w czasie trwania imprezy masowej rzuca przedmiot, mogący stanowić zagrożenie dla życia, zdrowia lub bezpieczeństwa osób przebywających na terenie lub w obiekcie, gdzie odbywa się impreza masowa, albo w inny, równie niebezpieczny sposób zakłóca przebieg tej imprezy, podlega grzywnie nie mniejszej niż 120 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+### c)
 
-3. Karze, o której mowa w ust. 2, podlega ten, kto w czasie i w miejscu trwania imprezy masowej narusza nietykalność cielesną członka służby porządkowej lub służby informacyjnej.
+osobie, wobec której został wydany zakaz klubowy,
 
-4. Jeżeli sprawca, dopuszczając się czynów określonych w ust. 1–3, używa elementu odzieży lub przedmiotu do zakrycia twarzy celem uniemożliwienia lub istotnego utrudnienia rozpoznania jego osoby, podlega grzywnie nie mniejszej niż 240 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
+### d)
 
-5. Kto, działając wspólnie i w porozumieniu z inną osobą lub używając niebezpiecznego przedmiotu albo środka obezwładniającego, dopuszcza się czynnej napaści na członka służby porządkowej lub służby informacyjnej w czasie i w miejscu trwania imprezy masowej, podlega karze pozbawienia wolności od roku do lat 5.
+osobie odmawiającej poddania się czynnościom, o których mowa w art. 20 ust. 1 pkt 1-3,
 
-**Art. 61.** Kto w miejscu i w czasie trwania masowej imprezy sportowej prowokuje kibiców do działań zagrażających bezpieczeństwu tej imprezy, podlega grzywnie nie mniejszej niż 180 stawek dziennych albo karze ograniczenia wolności.
+### e)
 
-**Art. 62.** Jeśli sprawca ukarany lub skazany za czyny zabronione, o których mowa w art. 54–61, w ciągu 2 lat od ostatniego ukarania lub skazania, popełnia ponownie podobne umyślne wykroczenie lub przestępstwo, sąd może wymierzyć karę do górnej granicy jej ustawowego zagrożenia zwiększonego o połowę.
+osobie znajdującej się pod widocznym wpływem alkoholu, środków odurzających, psychotropowych lub innych podobnie działających środków,
 
-**Art. 63.** Postępowanie w sprawach o wykroczenia określone w art. 54–57a prowadzi się na podstawie przepisów o postępowaniu przyspieszonym, o którym mowa w rozdziale 15 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+### f)
 
-**Art. 64.** Postępowanie w sprawach o przestępstwa określone w art. 59– 61 prowadzi się na podstawie przepisów o postępowaniu przyspieszonym, o którym mowa w rozdziale 54a ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, 1855, 2582 i 2600), o ile zachodzą przesłanki do rozpoznania sprawy w tym postępowaniu.
+osobie posiadającej broń lub inne przedmioty, materiały, wyroby, napoje, środki lub substancje, o których mowa w art. 8 ust. 2,
 
-**Art. 65.**
+### g)
 
-1. W razie ukarania za wykroczenie, o którym mowa w art. 50, art. 50a, art. 51, art. 52a, art. 124 lub art. 143 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151, 2311, 2581 i 2600), lub o którym mowa w art. 54–56 niniejszej ustawy, popełnione w związku z imprezą masową artystyczno-rozrywkową, sąd może orzec środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+osobie zachowującej się agresywnie, prowokacyjnie albo w inny sposób stwarzającej zagrożenie dla bezpieczeństwa lub porządku publicznego;
 
-2. W razie ukarania za wykroczenie, o którym mowa w art. 50, art. 50a, art. 51, art. 52a, art. 124 lub art. 143 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, lub o którym mowa w art. 54–56 i art. 57a niniejszej ustawy, popełnione w związku z masową imprezą sportową, w tym meczem piłki nożnej, sąd orzeka środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+### 2)
 
-2a. W razie ukarania za wykroczenie o charakterze chuligańskim lub wykroczenie, o którym mowa w art. 50a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, jeżeli udział sprawcy w imprezie masowej zagraża dobrom chronionym prawem, sąd może orzec środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+usunąć z miejsca przeprowadzania imprezy masowej osoby, które swoim zachowaniem zakłócają porządek publiczny lub zachowują się niezgodnie z regulaminem obiektu (terenu) lub regulaminem imprezy masowej;
 
-3. Orzekając zakaz wstępu na imprezę masową za czyn popełniony w związku z masową imprezą sportową, sąd może orzec wobec ukaranego obowiązek stawiennictwa, w czasie trwania imprezy masowej, w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania ukaranego, komendanta powiatowego (rejonowego, miejskiego) Policji.
+### 3)
 
-4. Sąd określa rodzaje imprez masowych, których dotyczy obowiązek stawiennictwa, o którym mowa w ust. 3, w szczególności rodzaje meczów piłki nożnej, nazwy klubów sportowych oraz jego zakres terytorialny.
+usunąć z miejsca przeprowadzania imprezy masowej osoby, o których mowa w ust. 1 pkt 1 lit. a-c.
 
-5. Obowiązek, o którym mowa w ust. 3, orzeka się na okres od 6 miesięcy do lat 3, nieprzekraczający okresu, na jaki orzeczono zakaz wstępu na imprezę masową.
+### 2.
 
-**Art. 65a.** Sąd może po upływie połowy okresu, na który orzeczono środek karny określony w art. 65 ust. 1 i 2, uznać go za wykonany, jeżeli ukarany przestrzegał porządku prawnego, a środek karny był w stosunku do niego wykonywany przynajmniej przez rok.
+Służby informacyjne są obowiązane do:
 
-**Art. 66.** Wobec sprawców przestępstw przeciwko życiu i zdrowiu, przeciwko bezpieczeństwu powszechnemu oraz przestępstw, o których mowa w art. 222– 224 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, 1726, 1855, 2339 i 2600), popełnionych w związku z masową imprezą sportową, w tym meczem piłki nożnej, lub o których mowa w art. 59–61 niniejszej ustawy, sąd orzeka zakaz wstępu na imprezę masową.
+### 1)
 
-**Art. 67.** Zakaz wstępu na imprezę masową, o którym mowa w art. 65, dotyczy również meczu piłki nożnej rozgrywanego przez polską kadrę narodową i polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
+informowania o udogodnieniach oraz wymogach bezpieczeństwa określonych przez organizatora lub służby ratownicze;
 
-**Art. 68.** Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, sposób wykonywania orzeczonego za wykroczenie albo przestępstwo obowiązku osobistego stawiennictwa w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania osoby ukaranej albo skazanej, komendanta powiatowego (rejonowego, miejskiego) Policji, w czasie trwania imprezy masowej, uwzględniając sposób dokumentowania wykonania tego obowiązku.
+### 2)
 
-#### Rozdział 9a
+informowania o umiejscowieniu punktów medycznych, gastronomicznych i sanitarnych;
 
-#### Rozdział 10 Zmiany w przepisach, przepisy epizodyczne, przejściowe i końcowe
+### 3)
 
-**Art. 77a.** (utracił moc)
+nadzorowania bezpiecznego wejścia i wyjścia osób uczestniczących w imprezie masowej;
 
-**Art. 77b.** Od dnia wejścia w życie niniejszego przepisu do dnia 30 czerwca 2019 r. w odniesieniu do meczów turnieju FIFA U20 Mistrzostwa Świata Polska 2019 nie stosuje się przepisów art. 15 ust. 1 i 2.
+### 4)
 
-**Art. 78.** Projekty przebudowy stadionów, istniejących w dniu wejścia w życie niniejszej ustawy, podlegają uzgodnieniom z właściwym miejscowo komendantem wojewódzkim (Komendantem Stołecznym) Policji oraz właściwym związkiem sportowym i właściwym podmiotem zarządzającym rozgrywkami, w zakresie tworzenia i funkcjonowania infrastruktury wpływającej na bezpieczeństwo osób uczestniczących w meczach piłki nożnej.
+niedopuszczania osób uczestniczących w imprezie masowej do miejsc nieprzeznaczonych dla publiczności;
 
-**Art. 79.** Traci moc ustawa z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz. U. z 2005 r. poz. 909 oraz z 2007 r. poz. 663 i 665).
+### 5)
 
-**Art. 79a.** Przepisy rozdziału 9a obowiązują do dnia 31 grudnia 2012 r.
+niezwłocznego reagowania na incydenty i zagrożenia oraz podejmowania niezbędnych działań zaradczych, w szczególności poprzez informowanie o nich służb porządkowych;
 
-**Art. 80.** Ustawa wchodzi w życie z dniem 1 sierpnia 2009 r., z tym że art. 13 ust. 1 – w zakresie dotyczącym meczów piłki nożnej organizowanych poza ramami ligi zawodowej – wchodzi w życie z dniem 1 sierpnia 2010 r.
+### 6)
 
+obserwowania wszystkich obszarów potencjalnego zagrożenia i przeciwdziałania nadmiernemu zagęszczeniu osób;
+
+### 7)
+
+pilnowania przestrzegania postanowień regulaminu obiektu (terenu) i regulaminu imprezy masowej;
+
+### 8)
+
+reagowania na skargi składane przez osoby uczestniczące w imprezie masowej.
+
+### 3.
+
+W celu realizacji obowiązku, o którym mowa w ust. 1 pkt 1 lit. a lub b, organizator lub osoba przez niego upoważniona kieruje zapytanie do właściwego ze względu na miejsce odbywania się imprezy komendanta powiatowego (rejonowego, miejskiego) Policji, zgodnie z zasadami określonymi w rozdziale 7.
+
+### 4.
+
+W przypadku gdy działania służby porządkowej, o których mowa w ust. 1, są nieskuteczne, organizator lub kierownik do spraw bezpieczeństwa występuje do Policji o udzielenie pomocy, niezwłocznie potwierdzając ten fakt pisemnym zgłoszeniem.
+
+### 5.
+
+W przypadku gdy impreza masowa jest przeprowadzana na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, wystąpienie, o którym mowa w ust. 4, kierowane jest do Żandarmerii Wojskowej.
+
+### 6.
+
+W przypadku, o którym mowa w ust. 4 lub 5, służby porządkowe i służby informacyjne wykonują polecenia Policji lub Żandarmerii Wojskowej.
+
+### Art. 23.
+
+Rada Ministrów określi, w drodze rozporządzenia, wymagania, jakie powinni spełniać kierownik do spraw bezpieczeństwa, służby porządkowe i służby informacyjne w zakresie wyszkolenia i wyposażenia, w tym:
+
+### 1)
+
+tematykę i formy szkolenia,
+
+### 2)
+
+jednostki właściwe do przeprowadzania szkolenia,
+
+### 3)
+
+wzór zaświadczenia o ukończeniu szkolenia,
+
+### 4)
+
+wymagane wyposażenie służb porządkowych i służb informacyjnych w zależności od przewidywanych zagrożeń,
+
+### 5)
+
+zakres sprawdzania przez służby porządkowe i służby informacyjne uprawnień osób do uczestniczenia w imprezie masowej,
+
+### 6)
+
+sposoby legitymowania w celu ustalenia tożsamości osób obecnych, przeglądania ich bagaży i odzieży oraz usuwania osób zakłócających imprezę
+
+- mając na względzie zapewnienie właściwego wyszkolenia tych służb oraz ich wyposażenia i oznakowania w sposób umożliwiający prawidłowe wykonywanie zadań służb porządkowych i informacyjnych.
+
+### Rozdział 5 Zezwolenia na przeprowadzenie imprezy masowej
+
+### Art. 24.
+
+Organem wydającym zezwolenie na przeprowadzenie imprezy masowej, zwanym dalej „organem”, jest wójt, burmistrz lub prezydent miasta, właściwy ze względu na miejsce przeprowadzenia imprezy masowej.
+
+### Art. 25.
+
+### 1.
+
+W celu przeprowadzenia imprezy masowej organizator, nie później niż na 30 dni przed planowanym terminem jej rozpoczęcia:
+
+### 1)
+
+występuje do organu z wnioskiem o wydanie zezwolenia na przeprowadzenie imprezy masowej;
+
+### 2)
+
+zwraca się do właściwego miejscowo komendanta powiatowego (rejonowego, miejskiego) Policji i właściwego miejscowo komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, kierownika jednostki organizacyjnej pomocy doraźnej (pogotowia ratunkowego) i państwowego inspektora sanitarnego z wnioskiem o wydanie opinii o niezbędnej wielkości sił i środków potrzebnych do zabezpieczenia imprezy masowej, zastrzeżeniach do stanu technicznego obiektu (terenu) oraz o przewidywanych zagrożeniach;
+
+### 3)
+
+powiadamia właściwego miejscowo:
+
+### a)
+
+komendanta oddziału Straży Granicznej, w przypadku przeprowadzania imprezy masowej w strefie nadgranicznej,
+
+### b)
+
+komendanta terenowej jednostki organizacyjnej Żandarmerii Wojskowej, w przypadku przeprowadzania imprezy masowej na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej.
+
+### 2.
+
+Do wniosku, o którym mowa w ust. 1 pkt 2, organizator załącza:
+
+### 1)
+
+dokumentację i informacje, o których mowa w art. 26 ust. 1;
+
+### 2)
+
+program i regulamin imprezy masowej, wraz z informacją o sposobie udostępnienia go uczestnikom imprezy masowej;
+
+### 3)
+
+regulamin obiektu (terenu), wraz z informacją o sposobie udostępnienia go uczestnikom imprezy masowej;
+
+### 4)
+
+pisemną instrukcję określającą zadania służby porządkowej oraz służby informacyjnej;
+
+### 5)
+
+warunki łączności pomiędzy podmiotami biorącymi udział w zabezpieczeniu imprezy masowej.
+
+### 3.
+
+Właściwy miejscowo komendant powiatowy (rejonowy, miejski) Policji, Państwowej Straży Pożarnej, kierownik jednostki organizacyjnej pomocy doraźnej (pogotowia ratunkowego) i państwowy inspektor sanitarny wydają opinie, o których mowa w ust. 1 pkt 2, w terminie 14 dni od dnia otrzymania wniosku o ich wydanie.
+
+### 4.
+
+Opinie, o których mowa w ust. 1 pkt 2, zachowują ważność przez 6 miesięcy od dnia ich wydania.
+
+### Art. 26.
+
+### 1.
+
+Organizator do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, dołącza:
+
+### 1)
+
+graficzny plan obiektu (terenu), na którym ma być przeprowadzona impreza masowa, wraz z jego opisem, zawierający:
+
+### a)
+
+oznaczenie dróg dojścia i rozchodzenia się osób uczestniczących w imprezie masowej, dróg ewakuacyjnych i dróg dojazdowych dla pojazdów służb ratowniczych i Policji,
+
+### b)
+
+oznaczenie punktów pomocy medycznej, punktów czerpalnych wody do picia i do celów przeciwpożarowych oraz punktów informacyjnych,
+
+### c)
+
+oznaczenie lokalizacji hydrantów przeciwpożarowych, zaworów, przyłączy wody, gazu i energii elektrycznej oraz innych elementów mających wpływ na bezpieczeństwo użytkowników obiektu lub terenu,
+
+### d)
+
+informacje o rozmieszczeniu służb porządkowych oraz służb informacyjnych, rozmieszczeniu osób uczestniczących w imprezie masowej i ewentualnym rozdzieleniu ich według sektorów oraz o rozmieszczeniu punktów gastronomicznych i sanitariatów;
+
+### 2)
+
+instrukcję, o której mowa w art. 6 ust. 4, z zastrzeżeniem ust. 2;
+
+### 3)
+
+terminarz rozgrywek meczów piłki nożnej lub terminarz innych imprez masowych - w przypadku imprez masowych organizowanych cyklicznie;
+
+### 4)
+
+informację o:
+
+### a)
+
+liczbie miejsc dla osób na imprezie masowej,
+
+### b)
+
+przewidywanych zagrożeniach bezpieczeństwa i porządku publicznego,
+
+### c)
+
+liczbie, organizacji, oznakowaniu, wyposażeniu i sposobie rozmieszczenia służby porządkowej oraz służby informacyjnej;
+
+### 5)
+
+osobie wyznaczonej na kierownika do spraw bezpieczeństwa, w tym jego dane obejmujące: imię, nazwisko, numer PESEL, numer i datę wydania zaświadczenia o ukończeniu kursu dla kierowników do spraw bezpieczeństwa imprez masowych, a w przypadku imprezy masowej podwyższonego ryzyka dodatkowo numer i datę wydania licencji pracownika ochrony fizycznej drugiego stopnia;
+
+### 6)
+
+informację o sposobie zapewnienia identyfikacji osób biorących udział w imprezie masowej - w przypadku meczu piłki nożnej lub imprezy masowej podwyższonego ryzyka;
+
+### 7)
+
+informację o zainstalowanych urządzeniach rejestrujących obraz i dźwięk, o których mowa w art. 11;
+
+### 8)
+
+informację o powiadomieniu podmiotów, o których mowa w art. 25 ust. 1 pkt 3 - w przypadku przeprowadzania imprezy masowej w strefie nadgranicznej lub na terenach będących w zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej.
+
+### 2.
+
+Opinie, o których mowa w art. 25 ust. 1 pkt 2, oraz instrukcję, o której mowa w art. 6 ust. 4, organizator dołącza do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, niezwłocznie, jednak nie później niż na 14 dni przed terminem rozpoczęcia imprezy masowej.
+
+### 3.
+
+W przypadku gdy właściciel, posiadacz, użytkownik obiektu lub zarządzający obiektem, na terenie którego ma być przeprowadzona impreza masowa, rozpoczął jego użytkowanie zgodnie z przepisami prawa budowlanego, a charakter imprezy masowej jest zgodny z przeznaczeniem obiektu, organizator do wniosku, o którym mowa w art. 25 ust. 1 pkt 1, dołącza ważne opinie, o których mowa w art. 25 ust. 1 pkt 2, właściwych miejscowo: komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej i państwowego inspektora sanitarnego.
+
+### Art. 27.
+
+Organ może zażądać od organizatora dodatkowej dokumentacji w postaci:
+
+### 1)
+
+kopii aktualnych protokołów z kontroli, o których mowa w art. 62 ust. 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.](#gloss-0:4:));
+
+### 2)
+
+dokumentu poświadczającego spełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 53 ust. 1;
+
+### 3)
+
+pisemnej zgody na przeprowadzenie imprezy masowej, wydanej przez kierownika jednostki organizacyjnej Lasów Państwowych, parku narodowego lub krajobrazowego - w razie przeprowadzania imprezy na terenach będących w zarządzie tej jednostki.
+
+### Art. 28.
+
+### 1.
+
+Właściwy miejscowo komendant powiatowy (rejonowy, miejski) Policji i właściwy miejscowo komendant powiatowy (miejski) Państwowej Straży Pożarnej wydają opinię, o której mowa w art. 25 ust. 1 pkt 2, na podstawie lustracji obiektu (terenu), na którym ma być przeprowadzona impreza masowa, oraz na podstawie przedłożonych przez organizatora dokumentów i informacji, o których mowa w art. 25 ust. 2.
+
+### 2.
+
+Właściwy miejscowo komendant powiatowy (rejonowy, miejski) Policji wydaje opinię dodatkowo na podstawie analizy ryzyka, określającej przewidywane zagrożenia bezpieczeństwa i porządku publicznego mogące wystąpić w związku z imprezą masową.
+
+### Art. 29.
+
+### 1.
+
+Organ wydaje zezwolenie albo odmawia jego wydania w terminie co najmniej 7 dni przed planowanym terminem przeprowadzenia imprezy masowej.
+
+### 2.
+
+Zezwolenie zawiera:
+
+### 1)
+
+nazwę organizatora;
+
+### 2)
+
+określenie rodzaju imprezy masowej;
+
+### 3)
+
+nazwę imprezy masowej;
+
+### 4)
+
+warunki przeprowadzenia imprezy masowej, w tym:
+
+### a)
+
+miejsce jej przeprowadzenia,
+
+### b)
+
+czas jej rozpoczęcia i zakończenia,
+
+### c)
+
+maksymalną liczbę osób, które mogą w niej uczestniczyć,
+
+### d)
+
+liczbę członków służby porządkowej oraz służby informacyjnej, ustaloną zgodnie z art. 6 ust. 2,
+
+### e)
+
+informację o zainstalowaniu urządzeń rejestrujących obraz i dźwięk, o których mowa w art. 11.
+
+### 3.
+
+Organ stwierdza w zezwoleniu, że jest to impreza masowa podwyższonego ryzyka, w przypadku gdy wynika to z:
+
+### 1)
+
+informacji o przewidywanych zagrożeniach, o której mowa w art. 26 ust. 1 pkt 4 lit. b;
+
+### 2)
+
+opinii komendanta powiatowego (rejonowego, miejskiego) Policji;
+
+### 3)
+
+wniosku podmiotu zarządzającego rozgrywkami.
+
+### 4.
+
+Organ odmawia wydania zezwolenia w przypadku:
+
+### 1)
+
+niezłożenia przez organizatora opinii, o których mowa w art. 25 ust. 1 pkt 2, i dokumentów, o których mowa w art. 26;
+
+### 2)
+
+niespełnienia przez organizatora obowiązków i wymogów, o których mowa w art. 6.
+
+### 5.
+
+Wydanie zezwolenia lub odmowa jego wydania następuje w drodze decyzji administracyjnej. Kopię decyzji, niezwłocznie, nie później jednak niż w terminie 3 dni od dnia jej wydania, organ przekazuje podmiotom wymienionym w art. 25 ust. 1 pkt 2.
+
+### 6.
+
+Odwołanie organizatora od decyzji, o której mowa w ust. 5, nie wstrzymuje jej wykonania.
+
+### Art. 30.
+
+### 1.
+
+Jeżeli imprezy masowe są przeprowadzane przez tego samego organizatora w tych samych obiektach (terenach) umożliwiających przeprowadzenie imprezy masowej, co najmniej 2 razy w roku lub są to imprezy masowe, dla których opracowano terminarz imprez masowych organizowanych cyklicznie, organ wydaje zezwolenie na przeprowadzenie wskazanej przez organizatora liczby imprez masowych lub ich przeprowadzenie w okresie jednego roku.
+
+### 2.
+
+Organizator imprez masowych przeprowadzanych w trybie, o którym mowa w ust. 1, przekazuje na 14 dni przed planowanym terminem ich przeprowadzenia, właściwym ze względu na miejsce przeprowadzenia imprezy masowej komendantom powiatowym (rejonowym, miejskim) Policji i komendantom powiatowym (miejskim) Państwowej Straży Pożarnej, kierownikowi jednostki organizacyjnej pomocy doraźnej (pogotowia ratunkowego) oraz państwowemu inspektorowi sanitarnemu informacje, o których mowa w art. 25 ust. 2 pkt 2 i 3 i art. 26 ust. 1 pkt 4-6.
+
+### 3.
+
+Zezwolenie, o którym mowa w ust. 1, dotyczące meczu piłki nożnej, wydawane jest na okres wskazany w terminarzu rozgrywek meczów piłki nożnej, o którym mowa w art. 26 ust. 1 pkt 3.
+
+### 4.
+
+W przypadku zmiany terminu imprezy masowej mającej odbyć się jednorazowo lub według ustalonego terminarza, o którym mowa w art. 26 ust. 1 pkt 3, organizator na 7 dni przed terminem jej rozpoczęcia zawiadamia organ oraz podmioty, o których mowa w art. 25 ust. 1 pkt 2.
+
+### Rozdział 6 Kontrola bezpieczeństwa imprezy masowej
+
+### Art. 31.
+
+### 1.
+
+Organ kontroluje zgodność przebiegu imprezy masowej podwyższonego ryzyka z warunkami określonymi w zezwoleniu.
+
+### 2.
+
+Organ może kontrolować zgodność przebiegu imprezy masowej niebędącej imprezą masową podwyższonego ryzyka z warunkami określonymi w zezwoleniu.
+
+### 3.
+
+Organ w związku z przeprowadzaną kontrolą, o której mowa w ust. 1 i 2, ma prawo do:
+
+### 1)
+
+żądania od organizatora informacji, dokumentów i danych, niezbędnych do sprawowania kontroli;
+
+### 2)
+
+swobodnego wstępu do miejsca przeprowadzania imprezy masowej i innych pomieszczeń związanych bezpośrednio z przeprowadzaniem imprezy masowej;
+
+### 3)
+
+przeprowadzania lustracji miejsc, o których mowa w pkt 2;
+
+### 4)
+
+żądania od osób działających w imieniu i na rzecz organizatora udzielenia informacji w formie ustnej i pisemnej w zakresie przeprowadzanej kontroli.
+
+### 4.
+
+W przypadku stwierdzenia niespełnienia przez organizatora warunków określonych w zezwoleniu, organ wydaje decyzję o przerwaniu imprezy masowej, nadając jej rygor natychmiastowej wykonalności. Decyzję doręcza się organizatorowi w terminie 7 dni od dnia przerwania imprezy.
+
+### 5.
+
+W przypadku stwierdzenia naruszenia warunków bezpieczeństwa imprezy masowej przez jej organizatora, podmioty, o których mowa w art. 25 ust. 1 pkt 2, mogą wnioskować do organu o jej przerwanie.
+
+### Art. 32.
+
+Organ wydaje decyzję o zakazie przeprowadzenia imprezy masowej, jeżeli po wydaniu zezwolenia stwierdzi, że zostały naruszone warunki bezpieczeństwa dające podstawę do jego wydania.
+
+### Art. 33.
+
+### 1.
+
+Od decyzji organu, o której mowa w art. 29 i w art. 32, przysługuje odwołanie do samorządowego kolegium odwoławczego.
+
+### 2.
+
+Samorządowe kolegium odwoławcze rozpatruje odwołanie, o którym mowa w ust. 1, w terminie 4 dni od dnia jego wniesienia.
+
+### Art. 34.
+
+### 1.
+
+W przypadku negatywnej oceny stanu bezpieczeństwa i porządku publicznego w związku z planowaną lub przeprowadzoną imprezą masową wojewoda, w drodze decyzji administracyjnej, może:
+
+### 1)
+
+zakazać przeprowadzenia imprezy masowej z udziałem publiczności;
+
+### 2)
+
+wprowadzić, na czas określony albo nieokreślony, zakaz przeprowadzania przez organizatora imprez masowych na terenie województwa lub jego części.
+
+### 2.
+
+Kopię decyzji niezwłocznie po jej wydaniu wojewoda przesyła podmiotom, o których mowa w art. 25 ust. 1.
+
+### 3.
+
+Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw wewnętrznych, który rozpatruje je w terminie 14 dni od dnia jego wniesienia.
+
+### 4.
+
+Odwołanie od decyzji, o której mowa w ust. 1, nie wstrzymuje jej wykonania.
+
+### Rozdział 7 Zasady gromadzenia i przetwarzania informacji dotyczących bezpieczeństwa imprezy masowej
+
+### Art. 35.
+
+### 1.
+
+Gromadzenie i przetwarzanie informacji dotyczących bezpieczeństwa imprez masowych odbywa się w celu zapobiegania przestępstwom i wykroczeniom związanym z tymi imprezami oraz ich zwalczania.
+
+### 2.
+
+Przetwarzanie informacji dotyczących bezpieczeństwa imprez masowych odbywa się zgodnie z przepisami o ochronie danych osobowych bez obowiązku informowania osób, których one dotyczą.
+
+### Art. 36.
+
+### 1.
+
+Organem administracji rządowej właściwym w sprawach gromadzenia i przetwarzania informacji dotyczących bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, jest Komendant Główny Policji, zwany dalej „Komendantem”.
+
+### 2.
+
+Komendant gromadzi i przetwarza informacje dotyczące imprez masowych innych niż masowe imprezy sportowe, w tym mecze piłki nożnej, w zakresie obejmującym dane o osobach, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b.
+
+### 3.
+
+Komendanci wojewódzcy (Komendant Stołeczny) Policji i komendanci powiatowi (rejonowi, miejscy) Policji mogą otrzymywać informacje, o których mowa w ust. 2 i art. 40, dotyczące imprez masowych organizowanych na obszarze ich działania.
+
+### 4.
+
+Przepis ust. 3 stosuje się odpowiednio do udzielania przez komendantów wojewódzkich (Komendanta Stołecznego) Policji i komendantów powiatowych (rejonowych, miejskich) Policji informacji dotyczących bezpieczeństwa imprez masowych.
+
+### Art. 37.
+
+Do zadań Komendanta należy w szczególności:
+
+### 1)
+
+gromadzenie i przetwarzanie informacji dotyczących bezpieczeństwa imprez masowych;
+
+### 2)
+
+prowadzenie bazy danych dotyczącej bezpieczeństwa imprez masowych;
+
+### 3)
+
+opracowywanie analiz informacji dotyczących bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej;
+
+### 4)
+
+zapewnienie bezpieczeństwa przetwarzanych informacji dotyczących bezpieczeństwa imprez masowych, zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238.](#gloss-0:5:));
+
+### 5)
+
+współpraca z podmiotami zagranicznymi w zakresie, o którym mowa w pkt 1-3.
+
+### Art. 38.
+
+### 1.
+
+Podmiotami uprawnionymi w zakresie swoich kompetencji do otrzymywania od Komendanta informacji dotyczących bezpieczeństwa imprez masowych, zwanymi dalej „podmiotami uprawnionymi”, są:
+
+### 1)
+
+Policja;
+
+### 2)
+
+prokuratura;
+
+### 3)
+
+sądy;
+
+### 4)
+
+Straż Graniczna;
+
+### 5)
+
+Państwowa Straż Pożarna;
+
+### 6)
+
+Biuro Ochrony Rządu;
+
+### 7)
+
+Agencja Bezpieczeństwa Wewnętrznego;
+
+### 8)
+
+Żandarmeria Wojskowa;
+
+### 9)
+
+straże gminne (miejskie);
+
+### 10)
+
+organy administracji publicznej właściwe w sprawach wydawania zezwolenia na przeprowadzenie imprezy masowej;
+
+### 11)
+
+służby odpowiedzialne za bezpieczeństwo na obszarach kolejowych, zarządcy infrastruktury kolejowej, przewoźnicy publiczni;
+
+### 12)
+
+związki sportowe o zasięgu ogólnokrajowym;
+
+### 13)
+
+kluby sportowe;
+
+### 14)
+
+organizatorzy masowych imprez sportowych, w tym meczów piłki nożnej;
+
+### 15)
+
+podmioty zarządzające rozgrywkami;
+
+### 16)
+
+instytucje zagraniczne.
+
+### 2.
+
+Organizatorzy imprez masowych innych niż masowe imprezy sportowe, w tym mecze piłki nożnej, są uprawnieni w zakresie swoich zadań ustawowych do otrzymywania od Komendanta informacji dotyczących osób, o których mowa w art. 22 ust. 1 pkt 1 lit. a i b.
+
+### Art. 39.
+
+Podmiotami zobowiązanymi do przekazywania Komendantowi informacji dotyczących bezpieczeństwa imprez masowych, zwanymi dalej „podmiotami zobowiązanymi”, są podmioty, o których mowa w art. 38 ust. 1 pkt 1-15, oraz:
+
+### 1)
+
+Biuro Informacyjne Krajowego Rejestru Karnego oraz sądy, w których zapadło prawomocne orzeczenie o ukaraniu za wykroczenie karą inną niż kara aresztu;
+
+### 2)
+
+związki sportowe;
+
+### 3)
+
+organizatorzy;
+
+### 4)
+
+właściciele obiektów, na terenie których organizowane są masowe imprezy sportowe, w tym mecze piłki nożnej;
+
+### 5)
+
+organizatorzy turystyki;
+
+### 6)
+
+krajowi przewoźnicy realizujący publiczny transport zbiorowy.
+
+### Art. 40.
+
+Zakres gromadzonych i przetwarzanych informacji dotyczących bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, zawiera dane:
+
+### 1)
+
+o osobach, przeciwko którym toczy się postępowanie karne lub przeciwko którym skierowano wniosek o ukaranie za czyn popełniony w związku z masową imprezą sportową, w tym meczem piłki nożnej, obejmujące:
+
+### a)
+
+imię i nazwisko, używane pseudonimy,
+
+### b)
+
+datę i miejsce urodzenia,
+
+### c)
+
+numer PESEL lub serię i numer dokumentu potwierdzającego tożsamość osoby,
+
+### d)
+
+adres zamieszkania lub stałego pobytu,
+
+### e)
+
+adres korespondencyjny,
+
+### f)
+
+informację o karalności,
+
+### g)
+
+przynależność do klubów kibica oraz charakterystykę zachowania podczas i w związku z masowymi imprezami sportowymi, w tym meczami piłki nożnej;
+
+### 2)
+
+o osobach, co do których zapadł prawomocny wyrok lub prawomocne orzeczenie o ukaraniu za przestępstwo albo wykroczenie, popełnione w związku z masową imprezą sportową, w tym meczem piłki nożnej, obejmujące:
+
+### a)
+
+imię i nazwisko, używane pseudonimy,
+
+### b)
+
+datę i miejsce urodzenia,
+
+### c)
+
+numer PESEL lub serię i numer dokumentu potwierdzającego tożsamość osoby,
+
+### d)
+
+adres zamieszkania lub stałego pobytu,
+
+### e)
+
+adres korespondencyjny,
+
+### f)
+
+informację o karalności,
+
+### g)
+
+informacje o zastosowaniu środka karnego zakazu wstępu na imprezę masową lub środka karnego, o którym mowa w art. 15 ust. 3 pkt 1 lit. b,
+
+### h)
+
+przynależność do klubów kibica oraz charakterystykę zachowania podczas i w związku z masowymi imprezami sportowymi, w tym meczami piłki nożnej;
+
+### 3)
+
+o klubach, organizacjach, stowarzyszeniach skupiających kibiców, obejmujące:
+
+### a)
+
+ich nazwę,
+
+### b)
+
+imię i nazwisko osoby działającej w imieniu osób zrzeszonych,
+
+### c)
+
+liczbę członków,
+
+### d)
+
+miejsce spotkań oraz charakterystykę zachowań i metod działania osób, o których mowa w lit. c, oraz elementy charakterystyczne, w szczególności oznakowanie ubrania,
+
+### e)
+
+informacje o czynach noszących znamiona przestępstwa albo wykroczenia o charakterze chuligańskim z udziałem osób, o których mowa w lit. c,
+
+### f)
+
+informacje o wzajemnych relacjach pomiędzy poszczególnymi klubami, organizacjami i stowarzyszeniami;
+
+### 4)
+
+o zaistniałych w związku z organizowanymi imprezami masowymi zbiorowych naruszeniach porządku i bezpieczeństwa publicznego oraz chuligańskich zachowaniach, obejmujące:
+
+### a)
+
+datę i miejsce zdarzenia,
+
+### b)
+
+informacje o rodzaju imprezy, w związku z którą doszło do zdarzenia,
+
+### c)
+
+skutki zdarzenia,
+
+### d)
+
+informacje o działaniach i podjętych środkach zaradczych;
+
+### 5)
+
+o związkach i klubach sportowych, obejmujące:
+
+### a)
+
+nazwę związku lub klubu sportowego oraz skład ich władz,
+
+### b)
+
+adres siedziby,
+
+### c)
+
+informacje o rodzaju rozgrywek, w których związek lub klub uczestniczył, uczestniczy oraz do jakich się zakwalifikował,
+
+### d)
+
+informacje o obiektach sportowych, z których związek lub klub stale korzysta;
+
+### 6)
+
+o terminarzu rozgrywek meczów piłki nożnej lub terminarzu innych masowych imprez sportowych z podaniem orientacyjnej liczby uczestników;
+
+### 7)
+
+o obiektach, na terenie których są organizowane masowe imprezy sportowe, w tym mecze piłki nożnej, obejmujące:
+
+### a)
+
+rodzaj obiektu i jego nazwę,
+
+### b)
+
+informacje dotyczące dopuszczenia obiektu do użytkowania,
+
+### c)
+
+informacje dotyczące usytuowania obiektu wraz z planem i jego opisem,
+
+### d)
+
+informacje o pojemności obiektu,
+
+### e)
+
+informacje dotyczące służby porządkowej i służby informacyjnej;
+
+### 8)
+
+o przemieszczaniu się osób uczestniczących w masowych imprezach sportowych, w tym meczach piłki nożnej, i ich pobycie w miejscach organizowania tych imprez oraz informacje o środkach transportu, z jakich korzystają, miejscach zbiórek, trasach przejazdów oraz o liczebności grup uczestników;
+
+### 9)
+
+o organizatorach masowych imprez sportowych, w tym meczów piłki nożnej, i organizatorach przejazdu osób uczestniczących w masowych imprezach sportowych, w tym meczach piłki nożnej, obejmujące:
+
+### a)
+
+nazwę lub imię i nazwisko organizatora wraz z jego siedzibą oraz adresem,
+
+### b)
+
+określenie masowej imprezy sportowej, w tym meczu piłki nożnej, w związku z którą organizowany jest przejazd;
+
+### 10)
+
+o zakazach zagranicznych oraz instytucjach zagranicznych właściwych do współpracy, w tym ich nazwę, siedzibę oraz adres.
+
+### Art. 41.
+
+### 1.
+
+Podmioty zobowiązane, z zastrzeżeniem ust. 2, przekazują Komendantowi informacje dotyczące bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, niezwłocznie po ich otrzymaniu, nie później jednak niż w ciągu 24 godzin od chwili ich otrzymania.
+
+### 2.
+
+Podmioty zobowiązane, o których mowa w:
+
+### 1)
+
+art. 38 ust. 1 pkt 13 - przekazują informacje, o których mowa w art. 40 pkt 3-5 i 9;
+
+### 2)
+
+art. 38 ust. 1 pkt 15 - przekazują informacje, o których mowa w art. 40 pkt 3-7 i 9;
+
+### 3)
+
+art. 39 pkt 2 - przekazują informacje, o których mowa w art. 40 pkt 3-5 i 9;
+
+### 4)
+
+art. 39 pkt 3 - przekazują informacje, o których mowa w art. 40 pkt 3, 6-10;
+
+### 5)
+
+art. 39 pkt 4 - przekazują informacje, o których mowa w art. 40 pkt 4 i 7;
+
+### 6)
+
+art. 39 pkt 5 - przekazują informacje, o których mowa w art. 40 pkt 8 i 9;
+
+### 7)
+
+art. 39 pkt 6 - przekazują informacje, o których mowa w art. 40 pkt 4, 8 i 9.
+
+### Art. 42.
+
+### 1.
+
+Informacje dotyczące bezpieczeństwa imprezy masowej przekazuje się za pomocą środków komunikacji elektronicznej albo przez bezpośrednie doręczenie do najbliższego komisariatu lub komendy powiatowej (miejskiej, rejonowej) Policji.
+
+### 2.
+
+Podmioty zobowiązane przekazują informacje na kartach rejestracyjnych.
+
+### 3.
+
+Podmioty uprawnione w celu uzyskania informacji kierują zapytania, wraz z uzasadnieniem, do Komendanta na kartach zapytania.
+
+### 4.
+
+Komendant udziela informacji na kartach odpowiedzi.
+
+### 5.
+
+Komendant może przekazać informację dotyczącą bezpieczeństwa masowych imprez sportowych, w tym meczów piłki nożnej, podmiotowi zobowiązanemu, niebędącemu podmiotem uprawnionym, na jego pisemne zapytanie, jeżeli dotyczy ono ustawowych obowiązków tego podmiotu.
+
+### 6.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób przekazywania informacji dotyczących bezpieczeństwa imprez masowych przez podmioty zobowiązane, wzory kart rejestracyjnych, karty zapytania oraz karty odpowiedzi, biorąc pod uwagę dane, jakie muszą znaleźć się na kartach, oznaczenia podmiotu uprawnionego oraz podmiotu zobowiązanego, treść informacji, o której mowa w ust. 2, oraz zapytania, o którym mowa w ust. 3, jak również uzasadnienia, o którym mowa w art. 43, a także konieczność zapewnienia bezpieczeństwa przekazywanych informacji, w szczególności przed dostępem osób nieuprawnionych.
+
+### Art. 43.
+
+### 1.
+
+Komendant przekazuje informacje dotyczące bezpieczeństwa imprez masowych niezwłocznie po otrzymaniu od podmiotu uprawnionego zapytania wraz z uzasadnieniem. Uzasadnienie powinno wskazywać powód wystąpienia z zapytaniem.
+
+### 2.
+
+Jeżeli zapytanie nie zawiera uzasadnienia lub jest ono niewystarczające, Komendant zwraca się do podmiotu uprawnionego, o którym mowa w ust. 1, o uzupełnienie stosownych informacji.
+
+### 3.
+
+W przypadku gdy zgromadzone w bazie danych informacje dotyczące bezpieczeństwa imprez masowych są niewystarczające do udzielenia odpowiedzi na zapytanie, Komendant występuje z zapytaniem do podmiotów zobowiązanych w zakresie koniecznym do udzielenia odpowiedzi. Podmiot zobowiązany, do którego Komendant wystąpił z zapytaniem, jest obowiązany niezwłocznie udzielić odpowiedzi w zakresie określonym w art. 41.
+
+### Art. 44.
+
+### 1.
+
+Zapytanie kieruje osoba upoważniona do występowania w imieniu podmiotu uprawnionego.
+
+### 2.
+
+Upoważnienie powinno określać rodzaje spraw, których może dotyczyć zapytanie.
+
+### 3.
+
+Komendant prowadzi rejestr osób upoważnionych obejmujący następujące dane: imię, nazwisko, numer PESEL, nazwę i adres podmiotu, w imieniu którego wniosek został skierowany, uwzględniając zakres udzielonych upoważnień.
+
+### 4.
+
+Jeżeli z zapytaniem zwróci się osoba nieupoważniona lub przekracza ono zakres upoważnienia, Komendant zawiadamia o tym podmiot uprawniony oraz przekazuje mu treść złożonego zapytania bez odpowiedzi.
+
+### Art. 45.
+
+Treść zapytania skierowanego przez Komendanta lub do Komendanta, a także treść odpowiedzi podmiotu zobowiązanego lub Komendanta podlega zarejestrowaniu w bazie danych, o której mowa w art. 37 pkt 2.
+
+### Art. 46.
+
+Gromadzenie i przetwarzanie informacji dotyczących bezpieczeństwa imprez masowych może być dokonywane przy wykorzystaniu urządzeń i systemów teleinformatycznych, kartotek, wykazów i zbiorów ewidencyjnych.
+
+### Art. 47.
+
+### 1.
+
+Podmiot zobowiązany, który stwierdził nieprawidłowość przekazywanej przez siebie informacji dotyczącej bezpieczeństwa imprez masowych, zawiadamia o tym niezwłocznie Komendanta.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, Komendant niezwłocznie zawiadamia o nieprawidłowości informacji dotyczącej bezpieczeństwa imprez masowych podmioty uprawnione, które tę informację od niego otrzymały.
+
+### Art. 48.
+
+Informacje dotyczące bezpieczeństwa imprez masowych Komendant przechowuje przez okres 10 lat.
+
+### Art. 49.
+
+Informacje dotyczące bezpieczeństwa imprez masowych podlegają usunięciu z bazy danych, jeżeli:
+
+### 1)
+
+gromadzenie i przetwarzanie ich jest zabronione;
+
+### 2)
+
+stały się nieaktualne;
+
+### 3)
+
+okazały się nieprawdziwe;
+
+### 4)
+
+upłynął okres, o którym mowa w art. 48.
+
+### Art. 50.
+
+### 1.
+
+Komendant może kierować zapytanie do instytucji zagranicznych w celu realizacji zadań określonych ustawą.
+
+### 2.
+
+Komendant w celu zapobiegania i zwalczania przejawów przemocy i chuligaństwa w czasie imprez masowych, a w szczególności meczów piłki nożnej, może przekazywać informacje dotyczące bezpieczeństwa imprez masowych instytucjom zagranicznym, w tym zwłaszcza informacje niezbędne do zapewnienia porządku i bezpieczeństwa podczas organizowanych imprez masowych o charakterze międzynarodowym.
+
+### 3.
+
+Do przekazywania informacji instytucjom zagranicznym stosuje się odpowiednio przepisy niniejszego rozdziału.
+
+### Art. 51.
+
+Przepisy niniejszego rozdziału stosuje się odpowiednio do imprez będących meczami lub współzawodnictwem kobiet lub mężczyzn w następujących dyscyplinach sportu:
+
+### 1)
+
+zawody żużlowe;
+
+### 2)
+
+hokej na lodzie.
+
+### Rozdział 8 Odpowiedzialność za szkodę w związku z zabezpieczeniem imprezy masowej
+
+### Art. 52.
+
+### 1.
+
+Organizator imprezy masowej, na którą wstęp jest odpłatny, odpowiada za szkody obejmujące równowartość zniszczonego lub uszkodzonego mienia, które poniosły Policja, Żandarmeria Wojskowa, straż gminna (miejska), Państwowa Straż Pożarna i inne jednostki ochrony przeciwpożarowej oraz służba zdrowia, w związku z ich działaniami w miejscu i w czasie trwania imprezy masowej.
+
+### 2.
+
+Podmioty, o których mowa w ust. 1, przedkładają organizatorowi wykaz zniszczonego lub uszkodzonego mienia oraz wysokość poniesionej szkody w terminie 14 dni od dnia zaistnienia szkody.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, Ministrem Obrony Narodowej, ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw kultury fizycznej i sportu, określi, w drodze rozporządzenia, szczegółowy tryb ustalania szkód, o których mowa w ust. 1, oraz tryb występowania o wypłatę odszkodowań, biorąc pod uwagę konieczność zapewnienia sprawności szacowania szkód i dokonywania wypłat.
+
+### Art. 53.
+
+### 1.
+
+Organizator imprezy masowej, na którą wstęp jest odpłatny, jest obowiązany do zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone osobom w niej uczestniczącym.
+
+### 2.
+
+Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw kultury fizycznej i sportu, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę charakter szkód mogących wystąpić w związku z imprezami masowymi.
+
+### Rozdział 9 Przepisy karne
+
+### Art. 54.
+
+### 1.
+
+Kto nie wykonuje polecenia porządkowego, wydanego na podstawie ustawy, regulaminu obiektu (terenu) lub regulaminu imprezy masowej przez służby porządkowe lub służby informacyjne, podlega karze grzywny nie niższej niż 2 000 zł.
+
+### 2.
+
+Tej samej karze podlega, kto w czasie trwania imprezy masowej przebywa w miejscu nieprzeznaczonym dla publiczności.
+
+### Art. 55.
+
+Kto nie wykonuje polecenia wydanego przez Policję lub Żandarmerię Wojskową, w miejscu i w czasie trwania imprezy masowej, podlega karze grzywny nie niższej niż 2 000 zł.
+
+### Art. 56.
+
+Kto wnosi lub posiada na imprezie masowej napoje alkoholowe, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2 000 zł.
+
+### Art. 57.
+
+Kto, będąc do tego zobowiązany, nie przekazuje informacji dotyczącej bezpieczeństwa imprezy masowej albo przekazuje informację nieprawdziwą w tym zakresie, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2 000 zł.
+
+### Art. 58.
+
+### 1.
+
+Kto organizuje imprezę masową bez wymaganego zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu albo przeprowadza ją wbrew wydanemu zakazowi, podlega grzywnie nie mniejszej niż 240 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 6 miesięcy do lat 8.
+
+### 2.
+
+Kto, organizując imprezę masową, nie zachowuje warunków bezpieczeństwa określonych w art. 6 ust. 1, podlega grzywnie nie mniejszej niż 180 stawek dziennych.
+
+### Art. 59.
+
+### 1.
+
+Kto wnosi lub posiada na imprezie masowej broń, w rozumieniu ustawy z dnia 21 maja 1999 r. o broni i amunicji ([Dz. U. z 2004 r. Nr 52, poz. 525](https://api.sejm.gov.pl/eli/acts/DU/2004/525/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 195, poz. 1199.](#gloss-0:6:)), wyroby pirotechniczne, materiały pożarowo niebezpieczne lub inne niebezpieczne przedmioty lub materiały wybuchowe, podlega grzywnie nie mniejszej niż 180 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
+
+### 2.
+
+Sąd może orzec przepadek przedmiotów, o których mowa w ust. 1, chociażby nie stanowiły własności sprawcy.
+
+### Art. 60.
+
+### 1.
+
+Kto w czasie trwania masowej imprezy sportowej, w tym meczu piłki nożnej, wdziera się na teren, na którym rozgrywane są zawody sportowe, albo wbrew żądaniu osoby uprawnionej miejsca takiego nie opuszcza, podlega grzywnie nie mniejszej niż 180 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+
+### 2.
+
+Kto w czasie trwania imprezy masowej rzuca przedmiot, mogący stanowić zagrożenie dla życia, zdrowia lub bezpieczeństwa osób przebywających na terenie lub w obiekcie, gdzie odbywa się impreza masowa, albo w inny, równie niebezpieczny sposób zakłóca przebieg tej imprezy, podlega grzywnie nie mniejszej niż 120 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+### 3.
+
+Karze, o której mowa w ust. 2, podlega ten, kto w czasie i w miejscu trwania imprezy masowej narusza nietykalność cielesną członka służby porządkowej lub służby informacyjnej.
+
+### 4.
+
+Jeżeli sprawca, dopuszczając się czynów określonych w ust. 1-3, używa elementu odzieży lub przedmiotu do zakrycia twarzy celem uniemożliwienia lub utrudnienia rozpoznania jego osoby, podlega grzywnie nie mniejszej niż 240 stawek dziennych, karze ograniczenia wolności albo pozbawienia wolności od 3 miesięcy do lat 5.
+
+### Art. 61.
+
+Spiker zawodów sportowych, który swoim zachowaniem prowokuje kibiców do działań zagrażających bezpieczeństwu w miejscu i w czasie trwania masowej imprezy sportowej, podlega grzywnie albo karze ograniczenia wolności.
+
+### Art. 62.
+
+Jeśli sprawca ukarany lub skazany za czyny zabronione, o których mowa w art. 54-61, w ciągu 2 lat od ostatniego ukarania lub skazania, popełnia ponownie podobne umyślne wykroczenie lub przestępstwo, sąd może wymierzyć karę do górnej granicy jej ustawowego zagrożenia zwiększonego o połowę.
+
+### Art. 63.
+
+Postępowanie w sprawach o wykroczenia określone w art. 54-57 prowadzi się na podstawie przepisów o postępowaniu przyspieszonym, o którym mowa w rozdziale 15 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), [Nr 214, poz. 1344](https://api.sejm.gov.pl/eli/acts/DU/2008/1344/text.html) i [Nr 237, poz. 1651](https://api.sejm.gov.pl/eli/acts/DU/2008/1651/text.html)).
+
+### Art. 64.
+
+Postępowanie w sprawach o przestępstwa określone w art. 58-61 prowadzi się na podstawie przepisów o postępowaniu przyspieszonym, o którym mowa w rozdziale 54a ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104 i Nr 28, poz. 171.](#gloss-0:7:)).
+
+### Art. 65.
+
+### 1.
+
+W razie ukarania za wykroczenie, o którym mowa w art. 50, 51, 52a, 124 lub 143 ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. z 2007 r. Nr 109, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/2007/756/text.html) oraz z [2008 r. Nr 141, poz. 888](https://api.sejm.gov.pl/eli/acts/DU/2008/888/text.html)), lub o którym mowa w art. 54-56 niniejszej ustawy, popełnione w związku z imprezą masową artystyczno-rozrywkową, sąd może orzec środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+
+### 2.
+
+W razie ukarania za wykroczenie, o którym mowa w art. 50, 51, 52a, 124 lub 143 Kodeksu wykroczeń, lub o którym mowa w art. 54-56 niniejszej ustawy, popełnione w związku z masową imprezą sportową, w tym meczem piłki nożnej, sąd orzeka środek karny zakazu wstępu na imprezę masową na okres od 2 do 6 lat.
+
+### 3.
+
+Środek, o którym mowa w ust. 2, połączony jest z obowiązkiem osobistego stawiennictwa, w jednostce organizacyjnej Policji lub miejscu określonym przez właściwego, ze względu na miejsce zamieszkania osoby ukaranej, komendanta powiatowego (rejonowego, miejskiego) Policji, w czasie trwania masowej imprezy sportowej, w tym meczu piłki nożnej.
+
+### 4.
+
+Sąd, orzekając środek karny, o którym mowa w ust. 2, określa rodzaje masowych imprez sportowych lub meczów piłki nożnej, w czasie trwania których ukarany jest obowiązany do osobistego stawiennictwa w jednostce Policji, w tym określa: nazwy dyscyplin sportowych, nazwy klubów sportowych oraz zakres terytorialny obowiązywania orzeczonego środka.
+
+### Art. 66.
+
+Wobec sprawców przestępstw, o których mowa w art. 59 i 60 niniejszej ustawy, sąd orzeka zakaz wstępu na imprezę masową.
+
+### Art. 67.
+
+Zakaz wstępu na imprezę masową, o którym mowa w art. 65, dotyczy również meczu piłki nożnej rozgrywanego przez polską kadrę narodową i polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
+
+### Art. 68.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, sposób wykonywania orzeczonego za wykroczenie albo przestępstwo obowiązku osobistego stawiennictwa w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania osoby ukaranej albo skazanej, komendanta powiatowego (rejonowego, miejskiego) Policji, w czasie trwania imprezy masowej, uwzględniając sposób dokumentowania wykonania tego obowiązku.
+
+### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 69.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 33 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W zamian za czas służby przekraczający normę określoną w ust. 2 policjantowi udziela się czasu wolnego od służby w tym samym wymiarze albo może mu być przyznana rekompensata pieniężna, o której mowa w art. 13 ust. 4a pkt 1.
+
+” ;
+
+### 2)
+
+w art. 112 uchyla się ust. 3;
+
+### 3)
+
+w art. 120 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+dwukrotności przeciętnego miesięcznego uposażenia zasadniczego policjantów wraz z dodatkami o charakterze stałym ustalonego za czerwiec roku ubiegłego i ogłaszanego przez Komendanta Głównego Policji w Dzienniku Urzędowym Komendy Głównej Policji - jeżeli koszty pogrzebu ponosi policjant;
+
+” .
+
+### Art. 70.
+
+W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej ([Dz. U. z 2001 r. Nr 13, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/2001/123/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111 oraz z 2006 r. Nr 227, poz. 1658.](#gloss-0:9:)) w art. 34 ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Obowiązki organizatora imprezy masowej w zakresie bezpieczeństwa tej imprezy reguluje ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ([Dz. U. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html)).
+
+” .
+
+### Art. 71.
+
+W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej ([Dz. U. z 2007 r. Nr 226, poz. 1675](https://api.sejm.gov.pl/eli/acts/DU/2007/1675/text.html) oraz z [2008 r. Nr 195, poz. 1200](https://api.sejm.gov.pl/eli/acts/DU/2008/1200/text.html)) w art. 50 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Obowiązki organizatora imprezy masowej w zakresie bezpieczeństwa tej imprezy reguluje ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ([Dz. U. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html)).
+
+” .
+
+### Art. 72.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344.](#gloss-0:10:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 39 po pkt 2b dodaje się pkt 2c w brzmieniu:
+
+„
+
+### 2c)
+
+zakaz wstępu na imprezę masową,
+
+” ;
+
+### 2)
+
+po art. 41a dodaje się art. 41b w brzmieniu:
+
+„
+
+### Art. 41b.
+
+### § 1.
+
+Sąd może orzec, a w przypadkach wskazanych w ustawie orzeka, zakaz wstępu na imprezę masową, jeżeli przy popełnieniu przestępstwa zachowanie sprawcy wskazuje, że jego udział w imprezach masowych zagraża istotnym dobrom chronionym prawem.
+
+### § 2.
+
+Zakaz wstępu na imprezę masową jest połączony z obowiązkiem osobistego stawiennictwa w jednostce organizacyjnej Policji lub w miejscu określonym przez właściwego, ze względu na miejsce zamieszkania osoby skazanej, komendanta powiatowego (rejonowego, miejskiego) Policji, w czasie trwania imprezy masowej.
+
+### § 3.
+
+Sąd, orzekając zakaz wstępu na imprezę masową, określa rodzaje imprez masowych, w czasie trwania których ukarany jest obowiązany do osobistego stawiennictwa w jednostce Policji, w tym nazwy dyscyplin sportowych, nazwy klubów sportowych oraz zakres terytorialny obowiązywania orzeczonego środka.
+
+### § 4.
+
+Zakaz wstępu na imprezę masową dotyczy również meczu piłki nożnej rozgrywanego przez polską kadrę narodową i polski klub sportowy poza terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 3)
+
+w art. 43 w § 1 w pkt 2 kropkę zastępuje się przecinkiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+pkt 2c orzeka się w latach, od 2 do lat 6.
+
+” .
+
+### Art. 73.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy ([Dz. U. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39 i Nr 22, poz. 119.](#gloss-0:11:)) po art. 181a dodaje się art. 181b w brzmieniu:
+
+„
+
+### Art. 181b.
+
+W razie orzeczenia zakazu wstępu na imprezę masową, sąd przesyła odpis wyroku komendantowi powiatowemu (rejonowemu, miejskiemu) Policji, właściwemu dla miejsca zamieszkania skazanego.
+
+” .
+
+### Art. 74.
+
+W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary ([Dz. U. Nr 197, poz. 1661](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344 oraz z 2009 r. Nr 20, poz. 106.](#gloss-0:12:)) w art. 16 w ust. 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+określone w art. 58 ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ([Dz. U. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html)).
+
+” .
+
+### Art. 75.
+
+W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych ([Dz. U. Nr 249, poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2005/2104/text.html), z późn. zm.[13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100.](#gloss-0:13:)) w art. 22 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 2 uchyla się pkt 6;
+
+### 2)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Dochody własne wraz z odsetkami nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych, z wyjątkiem wynagrodzeń określonych dla pracowników urzędów skarbowych na podstawie art. 101 i 102 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. Nr 227, poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.html)).
+
+” .
+
+### Art. 76.
+
+W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych ([Dz. U. Nr 167, poz. 1399](https://api.sejm.gov.pl/eli/acts/DU/2005/1399/text.html) oraz z [2007 r. Nr 133, poz. 921](https://api.sejm.gov.pl/eli/acts/DU/2007/921/text.html)) w art. 38 w ust. 1 w pkt 1 lit. k otrzymuje brzmienie:
+
+„
+
+### k)
+
+organizowania imprez masowych, w rozumieniu ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ([Dz. U. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html)), zakłócających proces leczenia uzdrowiskowego i działalności o charakterze rozrywkowym zakłócającej ciszę nocną w godz. 2200-600, z wyjątkiem imprez masowych znajdujących się w harmonogramie imprez gminnych,
+
+” .
+
+### Art. 77.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie ustawy, o której mowa w art. 79, zachowują moc do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie.
+
+### Art. 78.
+
+Projekty przebudowy stadionów, istniejących w dniu wejścia w życie niniejszej ustawy, podlegają uzgodnieniom z właściwym miejscowo komendantem wojewódzkim (Komendantem Stołecznym) Policji oraz właściwym związkiem sportowym i właściwym podmiotem zarządzającym rozgrywkami, w zakresie tworzenia i funkcjonowania infrastruktury wpływającej na bezpieczeństwo osób uczestniczących w meczach piłki nożnej.
+
+### Art. 79.
+
+Traci moc ustawa z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych ([Dz. U. z 2005 r. Nr 108, poz. 909](https://api.sejm.gov.pl/eli/acts/DU/2005/909/text.html) oraz z [2007 r. Nr 99, poz. 663](https://api.sejm.gov.pl/eli/acts/DU/2007/663/text.html) i [665](https://api.sejm.gov.pl/eli/acts/DU/2007/665/text.html)).
+
+### Art. 80.
+
+Ustawa wchodzi w życie z dniem 1 sierpnia 2009 r., z tym że art. 13 ust. 1 - w zakresie dotyczącym meczów piłki nożnej organizowanych poza ramami ligi zawodowej - wchodzi w życie z dniem 1 sierpnia 2010 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej, ustawę z dnia 18 stycznia 1996 r. o kulturze fizycznej, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych oraz ustawę z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 58, poz. 542, z 2003 r. Nr 137, poz. 1304 i Nr 223, poz. 2217, z 2005 r. Nr 169, poz. 1413, z 2006 r. Nr 220, poz. 1600, z 2007 r. Nr 112, poz. 766 oraz z 2008 r. Nr 145, poz. 917. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711 oraz z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238 oraz z 2008 r. Nr 195, poz. 1199. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104 i Nr 28, poz. 171. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111 oraz z 2006 r. Nr 227, poz. 1658. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378 oraz z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39 i Nr 22, poz. 119. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344 oraz z 2009 r. Nr 20, poz. 106. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100.

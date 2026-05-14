@@ -8,9 +8,9 @@ pos: 77
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# U S T A W A z dnia 3 lutego 1995 r.
+# Ustawa z dnia 3 lutego 1995 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa oraz o zmianie ustawy - Kodeks pracy
 
 | Pole | Wartość |
 |---|---|
@@ -22,23 +22,508 @@ domain: null
 | Data ogłoszenia | 1995-02-03 |
 | Data wydania | 1995-02-22 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950160077) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/77/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1995/77/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1995/77) |
 
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:13)(cid:2)(cid:1)(cid:2)(cid:14)(cid:12)(cid:5)(cid:6)(cid:15)(cid:16)(cid:3)(cid:8)(cid:7)(cid:5)(cid:6)(cid:16)(cid:17)(cid:2)(cid:18)(cid:5)(cid:8)(cid:7)(cid:5)(cid:19)(cid:20)(cid:7)(cid:13)(cid:16)(cid:17)(cid:2)(cid:3)(cid:2)(cid:9)(cid:21)(cid:8)(cid:3)(cid:18)(cid:5)eczenia (cid:10)(cid:18)(cid:1)(cid:22)(cid:8)(cid:16)(cid:3)(cid:7)(cid:8)(cid:23)(cid:1)(cid:2)(cid:12)(cid:2)(cid:24)(cid:6)(cid:3)(cid:5)(cid:8)(cid:2)(cid:16)(cid:17)(cid:1)(cid:24)(cid:1)(cid:21)(cid:13)(cid:2)(cid:5)(cid:2)(cid:4)(cid:6)(cid:16)(cid:5)(cid:8)(cid:24)(cid:3)(cid:13)(cid:25)(cid:10)(cid:11)(cid:12)(cid:6) oraz o zmianie ustawy - Kodeks pracy
+## Treść ustawy
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:14)(cid:2)(cid:15)(cid:16)(cid:3)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:17)(cid:14)(cid:18)(cid:2)(cid:16)(cid:19)(cid:2)(cid:20)(cid:2)(cid:21)(cid:7)(cid:8)(cid:6)(cid:11)(cid:22)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:22)(cid:23)(cid:2)(cid:24)(cid:8)(cid:9)(cid:12)(cid:8)(cid:25)(cid:26)(cid:12)(cid:27)(cid:22)(cid:23)(cid:2)(cid:10)(cid:2)(cid:3)(cid:28)(cid:9)(cid:10)(cid:24)(cid:8)(cid:9)(cid:22)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6) (cid:4)(cid:24)(cid:20)(cid:29)(cid:9)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:7)(cid:2)(cid:16)(cid:6)(cid:10)(cid:8)(cid:9)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:27)(cid:2)(cid:8)(cid:2)(cid:30)(cid:6)(cid:22)(cid:8)(cid:9)(cid:16)(cid:10)(cid:27)(cid:31)(cid:4)(cid:5)(cid:7)(cid:6)(cid:2) !(cid:10)(cid:19)"(cid:19)(cid:2)(cid:10)(cid:2)(cid:13)(cid:17)#$(cid:2)(cid:16)(cid:19)(cid:2)%(cid:16)(cid:2)$&’(cid:2)(cid:24)(cid:20)(cid:10)(cid:19)(cid:13)(cid:18)$’(cid:2)(cid:10) 1985 r. Nr 4, poz. 15, z 1986 r. Nr 42, poz. 202, z 1989 r. Nr 4, poz. 21 i Nr 35, poz. 192 oraz z 1991 r. Nr 104, poz. 450, Nr 106, poz. 457 i Nr 110, poz. 474) wprowadza (cid:4)(cid:8)(cid:25)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:3)()(cid:22)(cid:9)(cid:2)(cid:10)(cid:30)(cid:8)(cid:6)(cid:12)(cid:27)* (cid:13)+(cid:2)(cid:7)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)$(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:13)(cid:2)(cid:7)(cid:27)(cid:16)(cid:6)(cid:10)(cid:27)(cid:2),-(cid:20).(cid:4)/(cid:8)(cid:9)((cid:2)0(cid:10)(cid:9)(cid:22)(cid:10)(cid:27)(cid:24)(cid:20)(cid:4)(cid:24)(cid:20).(cid:8)(cid:5)(cid:9)((cid:2)1(cid:3)(cid:11)(cid:20)(cid:7)(cid:9)(,(cid:2)(cid:10)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:3)((cid:9)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:7)(cid:27)(cid:16)azami "Rzeczypospolitej Polskiej"; 2+(cid:2)(cid:7)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:14)(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:13)(cid:2)(cid:7)(cid:2)(cid:24)/(cid:5)(cid:2)(cid:13)(cid:2)(cid:4)/(cid:16)(cid:9)(cid:21).(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:7)(cid:27)(cid:16)(cid:6)(cid:10)(cid:27)(cid:2),.(cid:3)(cid:28)(cid:2)(cid:12)(cid:6)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)(cid:7)(cid:4)(cid:5)(cid:25)(cid:24)(cid:12)(cid:27),3 $+(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)&4(cid:13)2(cid:2)(cid:20)(cid:5)(cid:16)(cid:10)(cid:27)(cid:30)(cid:3)()(cid:2)(cid:28)(cid:16)(cid:10)(cid:30)(cid:8)(cid:9)(cid:12)(cid:8)(cid:9)* "Art. 10.(cid:2)5(cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:20)(cid:2)(cid:3)(cid:24)(cid:29)(cid:27)(cid:7)(cid:8)(cid:9)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:24)(cid:16)acownik jest nadal niezdolny do pracy z powodu choroby, a dalsze leczenie lub (cid:16)(cid:9)(cid:23)(cid:6)(cid:28)(cid:8).(cid:8)(cid:5)(cid:6)(cid:22)((cid:6)(cid:2)(cid:16)(cid:20)/(cid:3)()(cid:2)(cid:20)(cid:11)(cid:10)(cid:27)(cid:4)/(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)4 (cid:5)(cid:6)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:3).(cid:9)(cid:15)(cid:6)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:29)(cid:3)(cid:26)(cid:9)(cid:12)(cid:8)(cid:3)(cid:2)4(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:11)(cid:29)(cid:3)(cid:26)(cid:9)((cid:2)((cid:9)(cid:11)4 (cid:12)(cid:6)/(cid:2)(cid:12)(cid:8)(cid:26)(cid:2)(cid:12)(cid:6)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)(cid:11)(cid:6).(cid:4)(cid:10)(cid:27)(cid:22)(cid:23)(cid:2)(cid:5)(cid:16)(cid:10)(cid:9)(cid:22)(cid:23)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:27)(cid:19)
+### Art. 1.
 
-**Art. 11.** (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:13)(cid:19)(cid:2)6(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:27)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)(cid:9)/(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:27)’(cid:2)(cid:10)(cid:2)(cid:10)a(cid:4)(cid:5)(cid:16)(cid:10)(cid:9)(cid:26)(cid:9)(cid:12)(cid:8)(cid:9)(cid:30)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)2’ (cid:7)(cid:27)(cid:12)(cid:20)(cid:4)(cid:8)(cid:2)#&7(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:4)(cid:5)(cid:6)(cid:12)(cid:20)(cid:7)(cid:8))(cid:22)(cid:9)(cid:15)(cid:20)(cid:2)(cid:24)(cid:20)d(cid:4)(cid:5)(cid:6)(cid:7)(cid:25)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3) (cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:19) 2(cid:19)(cid:2)6(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:27)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)(cid:9)/(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:27)(cid:2)(cid:7)(cid:27)(cid:12)(cid:20)(cid:4)(cid:8)(cid:2)((cid:9)(cid:11)(cid:12)(cid:6)/(cid:26)(cid:9)(cid:2)(cid:13)&&7(cid:2)(cid:7)(cid:27)(cid:12) a(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2) (cid:4)(cid:5)(cid:6)(cid:12)(cid:20)(cid:7)(cid:8))(cid:22)(cid:9)(cid:15)(cid:20)(cid:2) (cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:25)(cid:2) (cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2) (cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)’(cid:2) ((cid:9)(cid:26)(cid:9).(cid:8) niezdol (cid:12)(cid:20)(cid:21)8(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)* (cid:13)+(cid:2)(cid:24)(cid:20)(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:6)(cid:2)(cid:7)(cid:4)/(cid:3)(cid:5)(cid:9)/(cid:2)(cid:7)(cid:27)(cid:24)(cid:6)(cid:11)/(cid:3)(cid:2)(cid:24)(cid:16)(cid:10)(cid:27)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:7)(cid:27)(cid:24)(cid:6)(cid:11)/(cid:3)(cid:2)(cid:7)(cid:2)(cid:11)(cid:16) odze do pracy lub z pracy albo wskutek choroby zawodowej, 2+(cid:2)(cid:24)(cid:16)(cid:10)(cid:27)(cid:24)(cid:6)(cid:11)(cid:6)(cid:2)(cid:7)(cid:2)(cid:22)(cid:10)(cid:6)(cid:4)(cid:8)(cid:9)(cid:2)(cid:22)(cid:8))(cid:26)(cid:27)’ $+(cid:2) (cid:5)(cid:16)(cid:7)(cid:6)(cid:2) (cid:12)(cid:8)(cid:9)(cid:24)(cid:16)(cid:10)(cid:9)(cid:16)(cid:7)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2) (cid:24)(cid:20)(cid:12)(cid:6)(cid:11)(cid:2) (cid:11)(cid:10)(cid:8)(cid:9)(cid:7)(cid:8)(cid:25)8(cid:11)(cid:10)(cid:8)(cid:9)(cid:4)(cid:8))(cid:5)(cid:2) (cid:11)(cid:12)(cid:8)(cid:2) 4(cid:2) (cid:24) o(cid:22)(cid:10))(cid:7)(cid:4)(cid:10)(cid:27)(cid:2) (cid:20)(cid:11)(cid:2) (cid:11)(cid:10)(cid:8)(cid:9)(cid:7)(cid:8)(cid:25)8(cid:11)(cid:10)(cid:8)(cid:9)(cid:4)(cid:8))(cid:5)(cid:9)(cid:15)(cid:20)(cid:2) (cid:24)(cid:8)(cid:9)(cid:16)(cid:7)(cid:4)(cid:10)(cid:9)(cid:15)(cid:20)(cid:2) (cid:11)(cid:12)(cid:8)(cid:6)(cid:2) (cid:12)(cid:8)ezdolno(cid:21)(cid:22)(cid:8)(cid:19) $(cid:19)(cid:2)9(cid:6)(cid:4)(cid:8)(cid:29)(cid:9)/(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:27)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:22)(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:10)(cid:6)(cid:2)/(cid:6)(cid:26)(cid:11)(cid:27)(cid:2)(cid:11)(cid:10)(cid:8)(cid:9)(cid:31)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)(cid:22)(cid:8) (cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:29))(cid:22)(cid:10)a()(cid:22)(cid:2)(cid:11)(cid:12)(cid:8)(cid:2)(cid:7)(cid:20).(cid:12)(cid:27)(cid:22)(cid:23)(cid:2)(cid:20)(cid:11)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:19) (cid:12)(cid:9)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:22)(cid:20)(cid:12)(cid:9)(cid:2)(cid:24)(cid:16)acownikowi za (cid:20)/(cid:16)(cid:9)(cid:4)(cid:2):(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:27)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:22)(cid:23)(cid:2)(cid:24)(cid:20)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:10)a()(cid:22)(cid:27)(cid:22)(cid:23)(cid:2)(cid:30)(cid:8)(cid:9)4 (cid:4)(cid:8))(cid:22)’(cid:2)(cid:7)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:30)(cid:2)(cid:24)(cid:20)(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:6)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)8(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:19)(cid:2)-(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:25) (cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:10)(cid:6)(cid:2)((cid:9)(cid:11)(cid:9)(cid:12)(cid:2)(cid:11)(cid:10)(cid:8)(cid:9)(cid:31)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).4 (cid:12)(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:4)(cid:5)(cid:6)(cid:12)(cid:20)(cid:7)(cid:8)(cid:2)((cid:9)(cid:11)(cid:12)(cid:6)(cid:2)(cid:5)(cid:16)(cid:10)(cid:27)(cid:11)(cid:10)(cid:8)(cid:9)(cid:4)(cid:5)(cid:6)(cid:2)(cid:22)(cid:10)(cid:25)(cid:21)8(cid:2)(cid:5)(cid:9)(cid:15)(cid:20) wynagrodzenia. 2(cid:19)(cid:2)-(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:25)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:4)(cid:5)a(cid:12)(cid:20)(cid:7)(cid:8)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)4 (cid:12)(cid:9)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:22)(cid:20)(cid:12)(cid:9)(cid:2)(cid:24)(cid:16)acownikowi (cid:10)(cid:6)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)(cid:13)2(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:27)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:22)(cid:23)(cid:2)(cid:24)o(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:10)(cid:6)()(cid:22)(cid:27)(cid:22)(cid:23) (cid:30)(cid:8)(cid:9)(cid:4)(cid:8))(cid:22)’(cid:2)(cid:7)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:30)(cid:2)(cid:24)(cid:20)(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:6)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)8(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:15)(cid:11)(cid:27) (cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:3).(cid:9)(cid:15)(cid:6)(cid:2)(cid:10)(cid:12)(cid:6)(cid:22)(cid:10)(cid:12)(cid:9)(cid:30)(cid:3)(cid:2)(cid:7)(cid:6)(cid:23)(cid:6)(cid:12)(cid:8)(cid:3)(cid:2)(cid:10)(cid:9)(cid:2)(cid:7)(cid:10)(cid:15).(cid:25)(cid:11)(cid:3)(cid:2)(cid:12)(cid:6) charakter pracy lub zasady wynagradzania. 3(cid:19)(cid:2)5(cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:16)(cid:6)(cid:7)(cid:20)(cid:2)(cid:11)(cid:20)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:24)o(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:20)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11) (cid:3)(cid:24)(cid:29)(cid:27)(cid:7)(cid:9)(cid:30)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4);(cid:7)’(cid:2)(cid:20)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:22)(cid:23)(cid:2)(cid:30)(cid:20)(cid:7)(cid:6)(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:13)(cid:2)(cid:8)(cid:2)2’(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)4 (cid:7)(cid:6)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:30)(cid:20)(cid:26)(cid:9)(cid:2)(cid:28)(cid:27)8(cid:2)(cid:7)(cid:27)(cid:26)(cid:4)(cid:10)(cid:6) (cid:12)(cid:8)(cid:26)(cid:2)2<&7(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:7)(cid:27)(cid:12)agrodzenia. =(cid:7)(cid:20)(cid:5)(cid:25)(cid:2)(cid:5)(cid:25)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6).(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:8)(cid:9)(cid:2)(cid:24)(cid:20)(cid:22)(cid:10)(cid:27)(cid:12)(cid:6)()(cid:22)(cid:2)(cid:20)(cid:11)(cid:2)(cid:5)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:9)4 (cid:15)(cid:20)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8))(cid:22)(cid:6)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)(cid:10)(cid:6)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)$(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)4 (cid:22)(cid:27)’(cid:2)(cid:12)(cid:6)(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)enia z poprzed(cid:12)(cid:8)(cid:9)(cid:15)(cid:20)(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)’(cid:2)(cid:20)(cid:15)(cid:29)(cid:6)(cid:4)(cid:10)(cid:6)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:11).(cid:6)(cid:2)(cid:22)(cid:9).;(cid:7)(cid:2)(cid:9)(cid:30)erytalnych. 4(cid:19)(cid:2)-(cid:16)(cid:10)(cid:27)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6).(cid:6)(cid:12)(cid:8)(cid:3)(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:27)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20) (cid:3)(cid:7)(cid:10)(cid:15).(cid:25)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:4)/(cid:29)(cid:6)(cid:11)(cid:12)(cid:8)/(cid:8)(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:10)(cid:2)(cid:5)(cid:27)(cid:5)(cid:3)(cid:29)(cid:3)(cid:2)(cid:7)(cid:27)/(cid:20)4 nywania pracy w ramach stosunku pracy, od których (cid:3)(cid:4)(cid:5)(cid:6).(cid:20)(cid:12)(cid:20)(cid:2)(cid:4)/(cid:29)(cid:6)(cid:11)/(cid:25)(cid:2)(cid:12)(cid:6)(cid:2)(cid:3)(cid:28)(cid:9)(cid:10)(cid:24)(cid:8)(cid:9)(cid:22)(cid:10)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:4)(cid:24)(cid:20)(cid:29)(cid:9)(cid:22)zne."; (cid:18)+(cid:2)(cid:24)(cid:20)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)2(cid:2)(cid:11)(cid:20)(cid:11)(cid:6)((cid:9)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)2(cid:6)(cid:2)(cid:7)(cid:2)(cid:28)(cid:16)(cid:10)(cid:30)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)* "Art. 12a.(cid:2)(cid:13)(cid:19)(cid:2)5(cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:20)(cid:2)(cid:3)(cid:24)(cid:29)(cid:27)(cid:7)(cid:8)(cid:9)(cid:2):4(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:20)(cid:7)(cid:9)(cid:15)(cid:20) (cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:5)(cid:6)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:10)(cid:20)(cid:4)(cid:5)(cid:6)(cid:29)(cid:6)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:29)(cid:3)(cid:26)(cid:20)(cid:12)(cid:6)’(cid:2)(cid:24)(cid:20)dstawa wymiaru (cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)’(cid:2)(cid:3)(cid:4)(cid:5)(cid:6).(cid:20)(cid:12)(cid:6)(cid:2)(cid:7)(cid:2)(cid:30)(cid:27)(cid:21).(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)2’(cid:2)(cid:24)(cid:20)(cid:11).(cid:9)(cid:15)(cid:6) walor(cid:27)(cid:10)(cid:6)(cid:22)((cid:8)(cid:2)(cid:7)(cid:9)(cid:11)(cid:29)(cid:3)(cid:15)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:3)()(cid:22)(cid:27)(cid:22)(cid:23)(cid:2)(cid:10)(cid:6)(cid:4)(cid:6)(cid:11)* (cid:13)+(cid:2)((cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:29)(cid:3)(cid:26)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:5)(cid:27)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5))(cid:24)(cid:8)(cid:29)(cid:20)(cid:2)(cid:7)(cid:2)>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)(cid:2)(cid:11)(cid:6)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)(cid:20)/(cid:3)’(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6) (cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2) (cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2) (cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2) (cid:3).(cid:9)(cid:15)(cid:6)(cid:2) (cid:24)(cid:20)(cid:11)(cid:7)(cid:27)(cid:26)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:3)(cid:2) (cid:20) (cid:24)(cid:16)(cid:20)(cid:22)(cid:9)(cid:12)(cid:5)(cid:2)(cid:7)(cid:10)(cid:16)(cid:20)(cid:4)(cid:5)(cid:3)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:2) (cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)o(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2)>>>(cid:2)(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)(cid:7)(cid:2)(cid:4)(cid:5)(cid:20)(cid:4)(cid:3)(cid:12)/(cid:3)(cid:2)(cid:11)(cid:20)(cid:2)>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)(cid:3)(cid:28)(cid:8)(cid:9)(cid:15)(cid:29) ego roku kalendarzowego, 2+(cid:2)((cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:29)(cid:3)(cid:26)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:5)(cid:27)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)) (cid:24)(cid:8)(cid:29)(cid:20)(cid:2)(cid:7)(cid:2)>>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)(cid:2)(cid:11)(cid:6)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)(cid:20)/(cid:3)’(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5) a(cid:7)(cid:6)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:3).(cid:9)(cid:15)(cid:6)(cid:2)(cid:24)(cid:20)(cid:11)(cid:7)(cid:27)(cid:26)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:3)(cid:2)(cid:20) (cid:24)(cid:16)(cid:20)(cid:22)(cid:9)(cid:12)(cid:5)(cid:2) (cid:7)(cid:10)(cid:16)(cid:20)(cid:4)(cid:5)(cid:3)(cid:2) (cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2) (cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2) (cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16) o(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2)>?(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)(cid:7)(cid:2)(cid:4)(cid:5)(cid:20)(cid:4)(cid:3)(cid:12)/(cid:3)(cid:2)(cid:11)(cid:20)(cid:2)>>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)(cid:3)(cid:28)(cid:8)(cid:9)(cid:15)(cid:29) ego roku kalendarzowego, $+(cid:2)((cid:9)(cid:26)(cid:9).(cid:8)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:29)(cid:3)(cid:26)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:5)(cid:27)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)) (cid:24)(cid:8)(cid:29)(cid:20)(cid:2)(cid:7)(cid:2)>>>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)(cid:2)(cid:11)(cid:6)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)(cid:20)/(cid:3)’(cid:2)(cid:24)(cid:20)d(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:3).(cid:9)(cid:15)(cid:6)(cid:2)(cid:24)(cid:20)(cid:11)(cid:7)(cid:27)(cid:26)(cid:4)(cid:10)e(cid:12)(cid:8)(cid:3)(cid:2)(cid:20)(cid:2)(cid:24)(cid:16)(cid:20)(cid:22)(cid:9)(cid:12)(cid:5)(cid:2)(cid:7)(cid:10)(cid:16)(cid:20)(cid:4)(cid:5)(cid:3)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:7)(cid:27)(cid:12)agrodzenia w I kwartale tego roku kalendarzowego w sto(cid:4)(cid:3)(cid:12)/(cid:3)(cid:2)(cid:11)(cid:20)(cid:2)>>>(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)(cid:3)(cid:28)(cid:8)(cid:9)(cid:15)(cid:29)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)oku kalendarzowego, (cid:24)(cid:8)(cid:29)(cid:20)(cid:2)(cid:7)(cid:2)>?(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6).(cid:9)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)(cid:2)(cid:11)(cid:6)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)(cid:20)/(cid:3)’(cid:2)(cid:24)(cid:20)d(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:27)(cid:30)(cid:8)(cid:6)(cid:16)(cid:3)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:3).(cid:9)(cid:15)(cid:6)(cid:2)(cid:24)(cid:20)(cid:11)(cid:7)(cid:27)(cid:26)(cid:4)(cid:10)e(cid:12)(cid:8)(cid:3)(cid:2)(cid:20)(cid:2)(cid:24)(cid:16)(cid:20)(cid:22)(cid:9)(cid:12)(cid:5)(cid:2)(cid:7)(cid:10)(cid:16)(cid:20)(cid:4)(cid:5)(cid:3)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:22)(cid:8)(cid:25)(cid:5)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8)(cid:25)(cid:22)(cid:10)(cid:12)(cid:9)(cid:15)(cid:20)(cid:2)(cid:7)(cid:27)(cid:12)agrodzenia w II kwartale tego roku kalendarzowego w (cid:4)(cid:5)(cid:20)(cid:4)(cid:3)(cid:12)/(cid:3)(cid:2)(cid:11)(cid:20)(cid:2)>?(cid:2)/(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)(cid:3)(cid:28)(cid:8)(cid:9)(cid:15)(cid:29)(cid:9)(cid:15)(cid:20)(cid:2)(cid:16)(cid:20)/(cid:3)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)ego. 2(cid:19)(cid:2)-(cid:16)(cid:9)(cid:10)(cid:9)(cid:4)(cid:2)9(cid:6)/(cid:29)(cid:6)(cid:11)(cid:3)(cid:2)"(cid:28)(cid:9)(cid:10)(cid:24)(cid:8)(cid:9)(cid:22)(cid:10)(cid:9)(cid:31)(cid:2)@(cid:24)(cid:20)(cid:29)(cid:9)(cid:22)(cid:10)(cid:12)(cid:27)(cid:22)(cid:23)(cid:2)(cid:20)(cid:15)(cid:29)(cid:6)(cid:4)(cid:10)(cid:6)(cid:2)(cid:7)(cid:2)6(cid:20)(cid:12)(cid:8)4 torze Polskim, w ter minie do ostat(cid:12)(cid:8)(cid:9)(cid:15)(cid:20)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)/(cid:6)(cid:26)(cid:11)(cid:9)(cid:15)(cid:20) /(cid:7)(cid:6)(cid:16)(cid:5)(cid:6)(cid:29)(cid:3)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)’(cid:2)(cid:7)(cid:4)/(cid:6)A(cid:12)(cid:8)/(cid:2)(cid:7)(cid:6).(cid:20)(cid:16)y(cid:10)(cid:6)(cid:22)((cid:8)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3) (cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:9)(cid:15)(cid:20)(cid:2)(cid:20)(cid:28)(cid:20)(cid:7)(cid:8))(cid:10)(cid:3)()(cid:22)(cid:27)(cid:2)(cid:7)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:12)(cid:27)(cid:30)(cid:2)/(cid:7)(cid:6)rtale.";
+W ustawie z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa ([Dz. U. z 1983 r. Nr 30, poz. 143](https://api.sejm.gov.pl/eli/acts/DU/1983/143/text.html), z [1985 r. Nr 4, poz. 15](https://api.sejm.gov.pl/eli/acts/DU/1985/15/text.html), z [1986 r. Nr 42, poz. 202](https://api.sejm.gov.pl/eli/acts/DU/1986/202/text.html), z [1989 r. Nr 4, poz. 21](https://api.sejm.gov.pl/eli/acts/DU/1989/21/text.html) i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html) oraz z [1991 r. Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), [Nr 106, poz. 457](https://api.sejm.gov.pl/eli/acts/DU/1991/457/text.html) i [Nr 110, poz. 474](https://api.sejm.gov.pl/eli/acts/DU/1991/474/text.html)) wprowadza się następujące zmiany:
 
-**Art. 2.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)2:(cid:2)(cid:22)(cid:10)(cid:9)(cid:16)(cid:7)(cid:22)(cid:6)(cid:2)(cid:13)(cid:17)(cid:14)(cid:18)(cid:2)(cid:16)(cid:19)(cid:2)4(cid:2)=(cid:20)(cid:11)(cid:9)/(cid:4)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:7)(cid:24)(cid:16)(cid:20)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:3)()(cid:22)(cid:9) zmiany:
+### 1)
 
-**Art. 3.** 9(cid:6)/(cid:29)(cid:6)(cid:11)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)((cid:9)(cid:4)(cid:5)(cid:2)(cid:10)(cid:20)(cid:28)(cid:20)(cid:7)(cid:8))(cid:10)(cid:6)(cid:12)(cid:27)(cid:2)(cid:10)(cid:6)(cid:30)(cid:8)(cid:9)(cid:21)(cid:22)(cid:8)8(cid:2)(cid:7)(cid:2)(cid:7)(cid:27)(cid:11)(cid:6)(cid:12)(cid:27)(cid:30)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:20)(cid:7)(cid:12)(cid:8)/(cid:20)(cid:7)(cid:8)(cid:2)(cid:21)(cid:7)(cid:8)(cid:6)(cid:11)(cid:9)(cid:22)(cid:5)(cid:7)(cid:8)(cid:9) (cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:8)(cid:12)D(cid:20)(cid:16)(cid:30)(cid:6)(cid:22)((cid:25)(cid:2)(cid:20)(cid:2).(cid:8)(cid:22)(cid:10)(cid:28)(cid:8)(cid:9)(cid:2)(cid:11)(cid:12)(cid:8)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:7)(cid:2)(cid:16)(cid:20)/(cid:3)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)’(cid:2)(cid:7)(cid:2)/(cid:5) ó(cid:16)(cid:27)(cid:30)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5))(cid:24)(cid:8)(cid:29)(cid:20)(cid:2)(cid:16)(cid:20)(cid:10)(cid:7)(cid:8))(cid:10)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:4)(cid:5)(cid:20)(cid:4)(cid:3)(cid:12)/(cid:3)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:10)(cid:6)(cid:2)/(cid:5);(cid:16)(cid:9)(cid:2)(cid:10)(cid:20)(cid:4)(cid:5)(cid:6)(cid:29)(cid:20)(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:22)(cid:20)(cid:12)(cid:9)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:20)(cid:7)(cid:12)(cid:8)/(cid:20)(cid:7)(cid:8) (cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)(cid:20)(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:21).(cid:20)(cid:12)(cid:9)(cid:2)(cid:7)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:17)2(cid:2)= odeksu pracy.
+w art. 3 w ust. 1 wyrazy „Polskiej Rzeczypospolitej Ludowej” zastępuje się wyrazami „Rzeczypospolitej Polskiej”;
 
-**Art. 4.** >.(cid:9)/(cid:16)(cid:20)8(cid:2)(cid:20)(cid:28)(cid:20)(cid:7)(cid:8))(cid:10)(cid:3)()(cid:22)(cid:9)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:24)(cid:8)(cid:4)(cid:27)(cid:2)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:3)(cid:10)(cid:6).(cid:9)(cid:26)(cid:12)(cid:8)(cid:6)()(cid:2)(cid:30)(cid:20)(cid:26).(cid:8)(cid:7)(cid:20)(cid:21)8(cid:2)(cid:16)(cid:20)(cid:10)(cid:7)(cid:8))(cid:10)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:4)(cid:5)osunku pracy z pracownikiem niezdolnym do pracy wskutek choroby lub odosobnie(cid:12)(cid:8)(cid:6)(cid:2)(cid:10)(cid:9)(cid:2)(cid:7)(cid:10)(cid:15).(cid:25)(cid:11)(cid:3)(cid:2)(cid:12)(cid:6)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:25)(cid:2)(cid:10)(cid:6)/(cid:6)A(cid:12))(cid:2)(cid:20)(cid:11)(cid:2)(cid:3)(cid:24)(cid:29)(cid:27)(cid:7)(cid:3)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:3)(cid:2)(cid:24)(cid:20)(cid:28)(cid:8)(cid:9)(cid:16)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:10)(cid:2)(cid:12)(cid:8)(cid:9)(cid:15)(cid:20)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3) cownika wynagrodzenia, o którym mowa w art. 92 Kodeksu pracy.
+### 2)
 
-**Art. 5.** (cid:13)(cid:19)(cid:2)9(cid:6)(cid:4)(cid:8)(cid:29)(cid:9)/(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:20)(cid:7)(cid:27)’(cid:2)(cid:11)(cid:20)(cid:2)/(cid:5);(cid:16)(cid:9)(cid:15)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:7)(cid:20)(cid:2)(cid:24)(cid:20)(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:20)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:30)(cid:2)(cid:7)(cid:9)((cid:21)(cid:22)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2)(cid:26)(cid:27)(cid:22)(cid:8)(cid:9) (cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:27)’(cid:2)(cid:7)(cid:27)(cid:24)(cid:29)(cid:6)(cid:22)(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:7)(cid:2)(cid:7)(cid:27)(cid:4)(cid:20)/(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:8)(cid:2)(cid:12)(cid:6)(cid:2)(cid:10)(cid:6)(cid:4)(cid:6)(cid:11)(cid:6)(cid:22)(cid:23)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:21).(cid:20)(cid:12)(cid:27)(cid:22)(cid:23)(cid:2)(cid:7)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:24)(cid:8)(cid:4)(cid:6)(cid:22)(cid:23)(cid:2)(cid:11)(cid:20)(cid:5)(cid:27)(cid:22)h(cid:22)(cid:10)(cid:6)(cid:4)(cid:20)(cid:7)(cid:27)(cid:22)(cid:23)’(cid:2)(cid:10)(cid:6)(cid:2)(cid:22)(cid:6)(cid:29)(cid:27)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)(cid:12)(cid:8)(cid:9)(cid:24)(cid:16)(cid:10)(cid:9)(cid:16)(cid:7)(cid:6)(cid:12)(cid:9)((cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:10)(cid:2)(cid:24)owodu choroby. 2(cid:19)(cid:2)-(cid:16)(cid:10)(cid:9)(cid:24)(cid:8)(cid:4)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:13)(cid:2)(cid:4)(cid:5)(cid:20)(cid:4)(cid:3)((cid:9)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:11)(cid:20)(cid:2)(cid:10)(cid:6)(cid:4)(cid:8)(cid:29)/(cid:3)(cid:2)(cid:30)(cid:6)(cid:22)(cid:8)(cid:9)(cid:16)(cid:10)(cid:27)(cid:31)(cid:4)/(cid:8)(cid:9)(cid:15)(cid:20)’(cid:2)(cid:20)(cid:24)(cid:8)(cid:9)/(cid:3)(cid:31)(cid:22)(cid:10)(cid:9)(cid:15)(cid:20)(cid:2)(cid:8)(cid:2)(cid:7)(cid:27)(cid:16);w(cid:12)(cid:6)(cid:7)(cid:22)(cid:10)(cid:9)(cid:15)(cid:20)(cid:2)(cid:20)(cid:16)(cid:6)(cid:10)(cid:2)(cid:21)(cid:7)(cid:8)(cid:6)(cid:11)(cid:22)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:16)(cid:9)(cid:23)(cid:6)(cid:28)(cid:8).itacyjnego.
+w art. 7 w ust. 1 w pkt 1 skreśla się wyrazy „lub na okres wstępny”;
 
-**Art. 6.** (cid:13)(cid:19)(cid:2)(cid:1)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:8)(cid:9)(cid:2)(cid:20)(cid:11)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:2)(cid:30)(cid:6)(cid:16)(cid:22)(cid:6)(cid:2)(cid:13)(cid:17)(cid:17)<(cid:2)(cid:16)(cid:19)(cid:2)(cid:11)(cid:20)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)$(cid:13)(cid:2)(cid:15)(cid:16)(cid:3)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:17)(cid:17)<(cid:2)(cid:16)(cid:19)(cid:2)(cid:7)(cid:2)(cid:10)(cid:6)/(cid:29)(cid:6)(cid:11)(cid:6)(cid:22)(cid:23)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27) (cid:10)(cid:6)(cid:5)(cid:16)(cid:3)(cid:11)(cid:12)(cid:8)(cid:6)()(cid:22)(cid:27)(cid:22)(cid:23)(cid:2)(cid:11)(cid:20)(cid:2)<(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:20)(cid:7)(cid:12)(cid:8)/;(cid:7)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:20)(cid:7)(cid:12)(cid:8)(cid:22)(cid:27)(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:10)(cid:6)(cid:22)(cid:23)(cid:20)(cid:7)(cid:3)()(cid:2)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:2)(cid:11)(cid:20)(cid:2)(cid:7)(cid:27)(cid:12)(cid:6)(cid:15)(cid:16)o(cid:11)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)’(cid:2)(cid:20)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:30)(cid:2)(cid:30)(cid:20)(cid:7)(cid:6)(cid:2)(cid:7)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:17)2(cid:2)=(cid:20)(cid:11)(cid:9)/(cid:4)(cid:3)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:19)(cid:2)9(cid:6)(cid:2)(cid:20)/(cid:16)(cid:9)(cid:4)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)(cid:22)(cid:8)(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:2)(cid:10) (cid:24)(cid:20)(cid:7)(cid:20)(cid:11)(cid:3)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28)(cid:27)(cid:2).(cid:3)(cid:28)(cid:2)(cid:20)(cid:11)(cid:20)(cid:4)(cid:20)(cid:28)(cid:12)(cid:8)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2)(cid:10)(cid:7)(cid:8))(cid:10)/(cid:3)(cid:2)(cid:10)(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)(cid:20)(cid:28))(cid:2)(cid:10)(cid:6)/(cid:6)A(cid:12))(cid:2)(cid:24)(cid:16)(cid:10)(cid:27)(cid:4)(cid:29)(cid:3)(cid:15)(cid:3)((cid:9)(cid:2)(cid:8)(cid:30) (cid:10)(cid:6)(cid:4)(cid:8)(cid:29)(cid:9)/(cid:2)(cid:22)(cid:23)(cid:20)(cid:16)obowy. 2(cid:19)(cid:2)1(cid:8)(cid:22)(cid:10)(cid:28)(cid:25)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:20)(cid:7)(cid:12)(cid:8)/;(cid:7)(cid:2)(cid:10)(cid:6)(cid:5)(cid:16)(cid:3)(cid:11)(cid:12)(cid:8)(cid:20)(cid:12)(cid:27)(cid:22)(cid:23)(cid:2)(cid:7)(cid:2)(cid:10)(cid:6)/(cid:29)(cid:6)(cid:11)(cid:6)(cid:22)(cid:23)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)’(cid:2)(cid:20)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:22)(cid:23)(cid:2)(cid:30)(cid:20)(cid:7)(cid:6)(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:13)’ (cid:2)(cid:3)(cid:4)(cid:5)(cid:6).(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:7)(cid:2)(cid:30)(cid:8)(cid:9)(cid:4)(cid:8))(cid:22)(cid:3)(cid:2)/(cid:6).(cid:9)(cid:12)(cid:11)(cid:6)(cid:16)(cid:10)(cid:20)(cid:7)(cid:27)(cid:30)’(cid:2)(cid:7)(cid:2)/(cid:5);(cid:16)(cid:27)(cid:30)(cid:2)(cid:24)(cid:20)(cid:7)(cid:4)(cid:5)(cid:6)(cid:29)(cid:6)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)(cid:11)(cid:20).(cid:12)(cid:20)(cid:21)8(cid:2)(cid:11)(cid:20)(cid:2)(cid:24)(cid:16)(cid:6)(cid:22)(cid:27)(cid:19)
+### 3)
 
-**Art. 7.** "(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:22)(cid:23)(cid:20)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)(cid:2)(cid:26)(cid:27)(cid:22)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:30)(cid:2)(cid:13)(cid:2)(cid:30)(cid:6)(cid:16)(cid:22)(cid:6)(cid:2)(cid:13)(cid:17)(cid:17)<(cid:2)(cid:16)(cid:19)
+art. 10-12 otrzymują brzmienie:
 
+„
+
+### Art. 10.
+
+Jeżeli po upływie okresu zasiłkowego pracownik jest nadal niezdolny do pracy z powodu choroby, a dalsze leczenie lub rehabilitacja rokują odzyskanie zdolności do pracy, wypłata zasiłku chorobowego ulega przedłużeniu - nie dłużej jednak niż na okres dalszych trzech miesięcy.
+
+### Art. 11.
+
+### 1.
+
+Miesięczny zasiłek chorobowy, z zastrzeżeniem ust. 2, wynosi 80% wynagrodzenia stanowiącego podstawę wymiaru zasiłku.
+
+### 2.
+
+Miesięczny zasiłek chorobowy wynosi jednakże 100% wynagrodzenia stanowiącego podstawę wymiaru zasiłku, jeżeli niezdolność do pracy:
+
+### 1)
+
+powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej,
+
+### 2)
+
+przypada w czasie ciąży,
+
+### 3)
+
+trwa nieprzerwanie ponad dziewięćdziesiąt dni - począwszy od dziewięćdziesiątego pierwszego dnia niezdolności.
+
+### 3.
+
+Zasiłek chorobowy wypłaca się za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
+
+### Art. 12.
+
+### 1.
+
+Podstawę wymiaru zasiłku chorobowego stanowi przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres 6 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstała niezdolność do pracy. Podstawę wymiaru zasiłku chorobowego za jeden dzień niezdolności do pracy stanowi jedna trzydziesta część tego wynagrodzenia.
+
+### 2.
+
+Podstawę wymiaru zasiłku chorobowego stanowi przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres 12 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstała niezdolność do pracy, gdy wynagrodzenie ulega znacznemu wahaniu ze względu na charakter pracy lub zasady wynagradzania.
+
+### 3.
+
+Jeżeli prawo do zasiłku chorobowego powstało przed upływem okresów, o których mowa w ust. 1 i 2, podstawa wymiaru zasiłku chorobowego nie może być wyższa niż 250% przeciętnego miesięcznego wynagrodzenia. Kwotę tę ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego kwartału za okres 3 miesięcy, na podstawie przeciętnego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.
+
+### 4.
+
+Przy ustalaniu podstawy wymiaru zasiłku chorobowego uwzględnia się składniki wynagrodzenia z tytułu wykonywania pracy w ramach stosunku pracy, od których ustalono składkę na ubezpieczenie społeczne.
+
+” ;
+
+### 4)
+
+po art. 12 dodaje się art. 12a w brzmieniu:
+
+„
+
+### Art. 12a.
+
+### 1.
+
+Jeżeli po upływie 6-miesięcznego okresu zasiłkowego wypłata zasiłku została przedłużona, podstawa wymiaru zasiłku chorobowego, ustalona w myśl art. 12, podlega waloryzacji według następujących zasad:
+
+### 1)
+
+jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w I kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w III kwartale w stosunku do I kwartału ubiegłego roku kalendarzowego,
+
+### 2)
+
+jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w II kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w IV kwartale w stosunku do II kwartału ubiegłego roku kalendarzowego,
+
+### 3)
+
+jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w III kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w I kwartale tego roku kalendarzowego w stosunku do III kwartału ubiegłego roku kalendarzowego,
+
+### 4)
+
+jeżeli przedłużenie wypłaty zasiłku chorobowego nastąpiło w IV kwartale kalendarzowym danego roku, podstawa wymiaru zasiłku chorobowego ulega podwyższeniu o procent wzrostu przeciętnego miesięcznego wynagrodzenia w II kwartale tego roku kalendarzowego w stosunku do IV kwartału ubiegłego roku kalendarzowego.
+
+### 2.
+
+Prezes Zakładu Ubezpieczeń Społecznych ogłasza w Monitorze Polskim, w terminie do ostatniego dnia każdego kwartału kalendarzowego, wskaźnik waloryzacji zasiłku chorobowego obowiązujący w następnym kwartale.
+
+” ;
+
+### 5)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+Minister Pracy i Polityki Socjalnej określi, w drodze rozporządzenia:
+
+### 1)
+
+przypadki, w których ze względu na charakter pracy lub zasady wynagradzania za podstawę wymiaru zasiłku chorobowego przyjmuje się wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+
+### 2)
+
+szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku.
+
+” ;
+
+### 6)
+
+skreśla się art. 19;
+
+### 7)
+
+w art. 20 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Świadczenie rehabilitacyjne przysługuje od pierwszego dnia okresu niezbędnego do przywrócenia zdolności do pracy, nie dłużej jednak niż przez 12 miesięcy.
+
+” ;
+
+### 8)
+
+art. 21 otrzymuje brzmienie:
+
+„
+
+### Art. 21.
+
+### 1.
+
+Świadczenie rehabilitacyjne wynosi 75% wynagrodzenia, które stanowi podstawę wymiaru zasiłku chorobowego, a jeżeli niezdolność do pracy powstała wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej - 100% tego wynagrodzenia, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Jeżeli świadczenie rehabilitacyjne zostało przyznane po upływie 6 miesięcy niezdolności do pracy, podstawa wymiaru zasiłku chorobowego, od której ustala się wysokość świadczenia rehabilitacyjnego, podlega waloryzacji. Przepisy art. 12a stosuje się odpowiednio.
+
+” ;
+
+### 9)
+
+art. 24 otrzymuje brzmienie:
+
+„
+
+### Art. 24.
+
+Przepisy art. 11 ust. 3, art. 14, 16 i 18 stosuje się odpowiednio do świadczenia rehabilitacyjnego.
+
+” ;
+
+### 10)
+
+w art. 27:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przy ustalaniu wysokości zasiłku wyrównawczego stosuje się odpowiednio przepisy art. 12 i art. 14 ust. 2.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+
+### 1)
+
+przypadki, w których ze względu na charakter pracy lub zasady wynagradzania przyjmuje się za podstawę wymiaru zasiłku wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+
+### 2)
+
+szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku wyrównawczego.
+
+” ;
+
+### 11)
+
+w art. 30 w ust. 1:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+urodzenia dziecka lub przyjęcia dziecka na wychowanie i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie jego przysposobienia, w okresie korzystania z urlopu wychowawczego lub w okresie przerwy w zatrudnieniu odpowiadającej okresowi urlopu wychowawczego,
+
+” ;
+
+### b)
+
+w pkt 3 lit. a) po wyrazach „z powodu” dodaje się wyrazy „ogłoszenia upadłości lub”;
+
+### 12)
+
+art. 31 otrzymuje brzmienie:
+
+„
+
+### Art. 31.
+
+### 1.
+
+Zasiłek porodowy wypłaca się w wysokości 15% przeciętnego miesięcznego wynagrodzenia. Kwotę tę ustala się miesięcznie poczynając od trzeciego miesiąca kalendarzowego kwartału za okres 3 miesięcy, na podstawie przeciętnego wynagrodzenia z poprzedniego kwartału, ogłaszanego dla celów emerytalnych.
+
+### 2.
+
+W razie urodzenia więcej niż jednego dziecka przy jednym porodzie, zasiłek porodowy przysługuje na każde urodzone dziecko.
+
+” ;
+
+### 13)
+
+w art. 33:
+
+### a)
+
+w ust. 1 w pkt 1 wyrazy „z urlopu bezpłatnego udzielonego dla sprawowania opieki nad małymi dziećmi” zastępuje się wyrazami „z urlopu wychowawczego lub w okresie przerwy w zatrudnieniu odpowiadającej okresowi urlopu wychowawczego”,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Pracownicy, z którą rozwiązano umowę o pracę w czasie ciąży z powodu ogłoszenia upadłości lub likwidacji zakładu pracy i której nie zapewniono innego zatrudnienia, przysługuje do dnia porodu zasiłek w wysokości zasiłku macierzyńskiego.
+
+” ;
+
+### 14)
+
+w art. 34:
+
+### a)
+
+skreśla się ust. 3,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Do zasiłku macierzyńskiego stosuje się odpowiednio przepisy art. 12 i 14.
+
+” ,
+
+### c)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+
+### 1)
+
+przypadki, w których ze względu na charakter pracy lub zasady wynagradzania za podstawę wymiaru zasiłku macierzyńskiego przyjmuje się wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+
+### 2)
+
+szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku.
+
+” ;
+
+### 15)
+
+skreśla się art. 36;
+
+### 16)
+
+art. 39 otrzymuje brzmienie:
+
+„
+
+### Art. 39.
+
+### 1.
+
+Miesięczny zasiłek opiekuńczy wynosi 80% wynagrodzenia.
+
+### 2.
+
+Do zasiłku opiekuńczego stosuje się odpowiednio przepisy art. 11 ust. 3 oraz art. 12 i 14.
+
+### 3.
+
+Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia:
+
+### 1)
+
+przypadki, w których ze względu na charakter pracy lub zasady wynagradzania za podstawę wymiaru zasiłku opiekuńczego przyjmuje się wynagrodzenie z okresu wymienionego w art. 12 ust. 2,
+
+### 2)
+
+szczegółowe zasady ustalania podstawy wymiaru i obliczania zasiłku.
+
+” ;
+
+### 17)
+
+w art. 40 skreśla się ust. 2;
+
+### 18)
+
+art. 43 otrzymuje brzmienie:
+
+„
+
+### Art. 43.
+
+Zasiłek pogrzebowy przysługuje w wysokości 200% przeciętnego miesięcznego wynagrodzenia. Przepis art. 31 ust. 1 zdanie drugie stosuje się odpowiednio.
+
+” ;
+
+### 19)
+
+skreśla się art. 44;
+
+### 20)
+
+art. 45 otrzymuje brzmienie:
+
+„
+
+### Art. 45.
+
+W razie pokrycia kosztów pogrzebu przez Państwo lub zakład pracy, małżonkowi, dzieciom, wnukom lub rodzeństwu albo innej osobie, która do chwili śmierci zmarłego pozostawała z nim we wspólnym gospodarstwie domowym, przysługuje również zasiłek pogrzebowy.
+
+” ;
+
+### 21)
+
+w art. 46 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W razie zbiegu prawa do zasiłku pogrzebowego z dwóch lub więcej tytułów, przysługuje tylko jeden zasiłek.
+
+” ;
+
+### 22)
+
+skreśla się art. 47;
+
+### 23)
+
+w art. 50 w ust. 1 wyrazy „zaświadczenia zakładów służby zdrowia” zastępuje się wyrazami „zaświadczenia lekarskie”;
+
+### 24)
+
+skreśla się art. 59.
+
+### Art. 2.
+
+W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 53:
+
+### a)
+
+w § 1 w pkt 1 lit. b) wyrazy „dłużej niż okres pobierania zasiłku” zastępuje się wyrazami „dłużej niż łączny okres pobierania z tego tytułu wynagrodzenia i zasiłku”,
+
+### b)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Rozwiązanie umowy o pracę bez wypowiedzenia nie może nastąpić w razie nieobecności pracownika w pracy z powodu sprawowania opieki nad dzieckiem - w okresie pobierania z tego tytułu zasiłku, a w przypadku odosobnienia pracownika ze względu na chorobę zakaźną - w okresie pobierania z tego tytułu wynagrodzenia i zasiłku.
+
+” ;
+
+### 2)
+
+art. 92 otrzymuje brzmienie:
+
+„
+
+### Art. 92.
+
+### § 1.
+
+Za czas niezdolności pracownika do pracy wskutek:
+
+### 1)
+
+choroby lub odosobnienia w związku z chorobą zakaźną - trwającej łącznie do 35 dni w ciągu roku kalendarzowego - pracownik zachowuje prawo do 80% wynagrodzenia, chyba że w danym zakładzie pracy wprowadzono wyższe wynagrodzenie z tego tytułu,
+
+### 2)
+
+wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo choroby zawodowej lub choroby przypadającej w czasie ciąży - w okresie wskazanym w pkt 1 - pracownik zachowuje prawo do 100% wynagrodzenia.
+
+### § 2.
+
+Wynagrodzenie, o którym mowa w § 1, oblicza się według zasad obowiązujących przy ustalaniu podstawy wymiaru zasiłku chorobowego i wypłaca za każdy dzień niezdolności do pracy, nie wyłączając dni wolnych od pracy.
+
+### § 3.
+
+Wynagrodzenie, o którym mowa w § 1:
+
+### 1)
+
+nie ulega obniżeniu w przypadku ograniczenia podstawy wymiaru zasiłku chorobowego,
+
+### 2)
+
+nie przysługuje w przypadkach, w których pracownik nie ma prawa do zasiłku chorobowego.
+
+### § 4.
+
+Za czas niezdolności do pracy, o której mowa w § 1, trwającej łącznie dłużej niż 35 dni w ciągu roku kalendarzowego, pracownikowi przysługuje zasiłek chorobowy na zasadach określonych w odrębnych przepisach.
+
+” ;
+
+### 3)
+
+w art. 94 po pkt 9 dodaje się pkt 9a w brzmieniu:
+
+„
+
+### 9a)
+
+prowadzić dokumentację w sprawach związanych ze stosunkiem pracy oraz akta osobowe pracowników.
+
+”
+
+### Art. 3.
+
+Zakład pracy jest obowiązany zamieścić w wydanym pracownikowi świadectwie pracy informację o liczbie dni niezdolności do pracy w roku kalendarzowym, w którym nastąpiło rozwiązanie stosunku pracy, za które zostało wypłacone pracownikowi wynagrodzenie określone w art. 92 Kodeksu pracy.
+
+### Art. 4.
+
+Ilekroć obowiązujące przepisy prawa pracy uzależniają możliwość rozwiązania stosunku pracy z pracownikiem niezdolnym do pracy wskutek choroby lub odosobnienia ze względu na chorobę zakaźną od upływu okresu pobierania przez niego zasiłku chorobowego, okres ten należy rozumieć łącznie z okresem pobierania przez pracownika wynagrodzenia, o którym mowa w art. 92 Kodeksu pracy.
+
+### Art. 5.
+
+### 1.
+
+Zasiłek chorobowy, do którego prawo powstało przed dniem wejścia w życie ustawy, wypłaca się w wysokości i na zasadach określonych w przepisach dotychczasowych, za cały okres nieprzerwanej niezdolności do pracy z powodu choroby.
+
+### 2.
+
+Przepis ust. 1 stosuje się do zasiłku macierzyńskiego, opiekuńczego i wyrównawczego oraz świadczenia rehabilitacyjnego.
+
+### Art. 6.
+
+### 1.
+
+W okresie od dnia 1 marca 1995 r. do dnia 31 grudnia 1995 r. w zakładach pracy zatrudniających do 5 pracowników pracownicy nie zachowują prawa do wynagrodzenia, o którym mowa w art. 92 Kodeksu pracy. Za okres niezdolności do pracy z powodu choroby lub odosobnienia w związku z chorobą zakaźną przysługuje im zasiłek chorobowy.
+
+### 2.
+
+Liczbę pracowników zatrudnionych w zakładach pracy, o których mowa w ust. 1, ustala się w miesiącu kalendarzowym, w którym powstała niezdolność do pracy.
+
+### Art. 7.
+
+Ustawa wchodzi w życie z dniem 1 marca 1995 r.

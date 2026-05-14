@@ -8,11 +8,9 @@ pos: 1291
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o postępowaniu sprawach dotyczących pomocy publicznej
-
-*USTAWA z dnia 30 kwietnia 2004 r.*
+# Ustawa z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,470 +22,1874 @@ domain: null
 | Data ogłoszenia | 2004-04-30 |
 | Data wydania | 2004-05-31 |
 | Ostatnia zmiana | 2026-04-23 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041231291) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1291/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/1291/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/1291) |
 
-Art. 47–62. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Postępowanie notyfikacyjne](#chpt_2) [Rozdział 3 - Postępowanie przed Komisją](#chpt_3) [Rozdział 4 - Zwrot pomocy przyznanej niezgodnie z zasadami wspólnego rynku oraz pomocy wykorzystanej niezgodnie z przeznaczeniem](#chpt_4) [Rozdział 5 - Postępowanie przed Trybunałem Sprawiedliwości](#chpt_5) [Rozdział 6 - Monitorowanie pomocy publicznej](#chpt_6) [Rozdział 7 - Kontrola u beneficjenta pomocy](#chpt_7) [Rozdział 8 - Kary pieniężne](#chpt_8) [Rozdział 9 - Zmiany w przepisach obowiązujących](#chpt_9) [Rozdział 10 - Przepisy przejściowe i końcowe](#chpt_10)
 
-**Art. 1.** Ustawa określa zasady postępowania sprawach dotyczących pomocy państwa spełniającej przesłanki określone art. 107 ust. 1 TFUE, zwanej dalej „pomocą publiczną”, tym:
+TOC
 
-**Art. 2.** Ilekroć ustawie jest mowa o:
+## Treść ustawy
 
-**Art. 3.** Zasady dopuszczalności udzielania pomocy publicznej określają przepisy art. 14, art. 42, art. 93 oraz art. 106–109 TFUE.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** (uchylony)
+### Art. 1.
 
-**Art. 5.**
+Ustawa określa zasady postępowania w sprawach dotyczących pomocy państwa spełniającej przesłanki określone w art. 87 ust. 1 Traktatu ustanawiającego Wspólnotę Europejską, zwanej dalej „pomocą publiczną”, w tym:
 
-1. (uchylony)
+### 1)
 
-2. (uchylony)
+postępowanie w sprawie przygotowania do notyfikacji projektów programów pomocowych, projektów pomocy indywidualnej oraz projektów pomocy indywidualnej na restrukturyzację;
 
-3. Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis albo pomocą de minimis rolnictwie lub rybołówstwie.
+### 2)
 
-3a. W przypadku gdy wartość faktycznie udzielonej pomocy de minimis jest inna niż wartość pomocy wskazana wydanym zaświadczeniu, o którym mowa ust. 3, podmiot udzielający pomocy, terminie 14 dni od dnia stwierdzenia tego faktu, 3b. Przepis ust. 3a stosuje się odpowiednio przypadku pomocy de minimis rolnictwie lub rybołówstwie. 3ba. W przypadku gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, beneficjent pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, informuje podmiot udzielający pomocy o skorzystaniu z tej pomocy terminie 7 dni od dnia udzielenia pomocy.
+zasady współpracy Prezesa Urzędu Ochrony Konkurencji i Konsumentów, zwanego dalej „Prezesem Urzędu”, z podmiotami opracowującymi programy pomocowe, podmiotami udzielającymi pomocy, podmiotami ubiegającymi się o pomoc oraz beneficjentami pomocy, w zakresie pomocy publicznej;
 
-3c. Zaświadczenia, o których mowa ust. 3, są wydawane z urzędu.
+### 3)
 
-4. Rada Ministrów określi, drodze rozporządzenia, formę i treść zaświadczeń, o których mowa ust. 3, oraz terminy lub sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis i pomocy de minimis rolnictwie lub rybołówstwie udzielanej poszczególnym beneficjentom pomocy oraz monitorowania krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
+zasady reprezentowania Rzeczypospolitej Polskiej przed Trybunałem Sprawiedliwości i Sądem Pierwszej Instancji w sprawach z zakresu pomocy publicznej;
 
-**Art. 6.**
+### 4)
 
-1. Do pomocy publicznej udzielanej na podstawie aktu normatywnego, niebędącego programem pomocowym, stosuje się przepisy dotyczące pomocy indywidualnej, z zastrzeżeniem ust. 2.
+zasady i tryb zwrotu pomocy publicznej;
 
-2. Pomoc publiczna przewidziana akcie normatywnym, który uzależnia nabycie prawa do otrzymania pomocy wyłącznie od spełnienia przesłanek określonych tym akcie, bez konieczności wydania decyzji lub zawarcia umowy, albo gdy wydawana decyzja jedynie potwierdza nabycie prawa, może być udzielana, jeżeli akt normatywny jest programem pomocowym zatwierdzonym przez Komisję zgodnie z art. 108 TFUE lub przewidującym udzielanie pomocy, której nie dotyczy obowiązek notyfikacji.
+### 5)
 
-**Art. 7.**
+zasady monitorowania pomocy publicznej.
 
-1. Projekt programu pomocowego, projekt pomocy indywidualnej lub projekt pomocy indywidualnej na restrukturyzację podlega notyfikacji.
+### Art. 2.
 
-2. Projekt pomocy udzielanej ramach wyłączeń grupowych podlega notyfikacji, jeżeli o jej dokonanie wystąpi podmiot opracowujący program pomocowy lub podmiot udzielający pomocy.
+Ilekroć w ustawie jest mowa o:
 
-3. Projekt programu pomocowego przewidujący udzielanie pomocy de minimis podlega wyłącznie zgłoszeniu Prezesowi Urzędu, który terminie 14 dni może przedstawić zastrzeżenia dotyczące przejrzystości zasad udzielania pomocy. do spraw rolnictwa, który terminie 14 dni może przedstawić zastrzeżenia dotyczące przejrzystości zasad udzielania pomocy.
+### 1)
 
-3b. Przepisu ust. 3a nie stosuje się przypadku projektu programu pomocowego przewidującego udzielanie pomocy de minimis rolnictwie lub rybołówstwie opracowywanego przez ministra właściwego do spraw rolnictwa.
+Komisji - należy przez to rozumieć Komisję Europejską;
 
-4. Jeżeli projekt pomocy indywidualnej na restrukturyzację został zatwierdzony przez Komisję zgodnie z art. 108 TFUE, to pomoc publiczna, która będzie udzielana zgodnie z planem restrukturyzacyjnym, nie podlega notyfikacji, chyba że decyzja Komisji stanowi inaczej.
+### 2)
 
-**Art. 8.**
+rozporządzeniu Rady - należy przez to rozumieć rozporządzenie Rady (WE) nr 659/1999 z dnia 22 marca 1999 r. ustanawiające szczegółowe zasady stosowania art. 93 Traktatu WE (Dz. Urz. WE L 83 z 27.03.1999);
 
-1. W przypadku programu pomocowego, którym akt prawa miejscowego przewiduje udzielanie pomocy publicznej zgodnie z warunkami udzielania pomocy określonymi rozporządzeniach wydanych na podstawie ustaw zawierających upoważnienie do wydania aktów prawa miejscowego, notyfikacji podlegają wyłącznie projekty tych rozporządzeń.
+### 3)
 
-2. Organ jednostki samorządu terytorialnego przesyła do Prezesa Urzędu akt prawa miejscowego, o którym mowa ust. 1, terminie 30 dni od dnia wejścia życie tego aktu.
+pomocy udzielanej w ramach wyłączeń grupowych - należy przez to rozumieć pomoc publiczną, której nie dotyczy obowiązek notyfikacji, zgodnie z rozporządzeniami Komisji wydanymi na podstawie art. 1 rozporządzenia Rady (WE) nr 994/98 z dnia 7 maja 1998 r. dotyczącego stosowania art. 92 i 93 Traktatu ustanawiającego Wspólnotę Europejską do niektórych kategorii horyzontalnej pomocy państwa (Dz. Urz. WE L 142 z 14.05.1998), w szczególności z:
 
-**Art. 9.** Notyfikacji podlega również zmiana, o której mowa art. 4 ust. 1 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 140 z 30.04.2004, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 8, t. 4, str. 3), zatwierdzonego przez Komisję zgodnie z art. 108 TFUE programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację.
+### a)
 
-**Art. 10.**
+rozporządzeniem Komisji (WE) nr 68/2001 z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE do pomocy szkoleniowej (Dz. Urz. WE L 10 z 13.01.2001),
 
-1. Pomoc regionalna, o której mowa art. 107 ust. 3 lit. a i c TFUE, może być udzielana zakresie wynikającym z mapy pomocy regionalnej.
+### b)
 
-- **1)** obszary kraju, na których dopuszczalne jest udzielanie pomocy publicznej oraz maksymalne wielkości pomocy dla tych obszarów, przy uwzględnieniu szczególności poziomu produktu krajowego brutto na jednego mieszkańca na danym obszarze, a także
-- **2)** rodzaje działalności gospodarczej, dla których udzielanie pomocy nie jest dozwolone oraz rodzaje działalności gospodarczej, dla których maksymalne wielkości pomocy są inne niż maksymalne wielkości pomocy dla obszarów kraju, wraz ze wskazaniem tych wielkości, biorąc pod uwagę, że udzielenie pomocy regionalnej dla niektórych rodzajów działalności gospodarczej wpływa szczególnie negatywnie na warunki konkurencji na rynku wewnętrznym.
+rozporządzeniem Komisji (WE) nr 2204/2002 z dnia 5 grudnia 2002 r. w sprawie stosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa w zakresie zatrudnienia (Dz. Urz. WE L 337 z 13.12.2002),
 
-3. Projekt rozporządzenia, o którym mowa ust. 2, podlega notyfikacji.
+### c)
 
-**Art. 11.**
+rozporządzeniem Komisji (WE) nr 70/2001 z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001);
 
-1. Wartość pomocy publicznej jest wyrażana kwocie pieniężnej, po przeliczeniu jej sposób pozwalający na ustalenie kwoty, jaką otrzymałby beneficjent pomocy, gdyby została ona udzielona formie dotacji.
+### 4)
 
-2. Rada Ministrów określi, drodze rozporządzenia, szczegółowe sposoby obliczania wartości pomocy publicznej udzielanej różnych formach, biorąc pod uwagę szczególności konieczność zapewnienia porównywalności wartości pomocy udzielanej różnych formach.
+rozporządzeniu o pomocy de minimis - należy przez to rozumieć rozporządzenie Komisji (WE) nr 69/2001 z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy w ramach zasady de minimis (Dz. Urz. WE L 10 z 13.01.2001);
 
-3. Równowartość pomocy euro ustala się według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, obowiązującego dniu udzielenia pomocy.
+### 5)
 
-**Art. 11a.**
+pomocy indywidualnej - należy przez to rozumieć pomoc, o której mowa w art. 1 lit. e rozporządzenia Rady;
 
-1. W celu realizacji zadań i obowiązków związanych z postępowaniami sprawach dotyczących pomocy publicznej administratorem danych jest:
+### 6)
 
-- **1)** Prezes Urzędu – sprawach dotyczących pomocy publicznej innej niż pomoc publiczna rolnictwie lub rybołówstwie;
-- **2)** minister właściwy do spraw rolnictwa – sprawach dotyczących pomocy publicznej rolnictwie lub rybołówstwie;
-- **3)** minister właściwy do spraw finansów publicznych – sprawach dotyczących pomocy publicznej innej niż pomoc publiczna rolnictwie lub rybołówstwie udzielonej przez naczelników urzędów skarbowych i dyrektorów izb administracji skarbowej;
+pomocy indywidualnej na restrukturyzację - należy przez to rozumieć pomoc indywidualną przewidzianą w planie restrukturyzacyjnym określającym działania mające na celu przywrócenie przedsiębiorcy długookresowej zdolności do konkurowania na rynku, w szczególności sposób finansowania tych działań, w tym również przez udzielanie pomocy publicznej;
 
-2. Dane beneficjentów pomocy lub podmiotów udzielających pomocy obejmujące numer identyfikacji podatkowej, nazwę, podstawę prawną udzielenia pomocy, dzień udzielenia pomocy, wielkość przedsiębiorcy, informacje o siedzibie, miejscu zamieszkania i rodzaju prowadzonej działalności, wartość pomocy, formę oraz przeznaczenie pomocy, udostępnia się na stronie internetowej Prezesa Urzędu lub ministra właściwego do spraw rolnictwa.
+### 7)
 
-#### Rozdział 2 Postępowanie notyfikacyjne
+programie pomocowym - należy przez to rozumieć akt normatywny spełniający przesłanki, o których mowa w art. 1 lit. d rozporządzenia Rady;
 
-**Art. 12.**
+### 8)
 
-1. Projekty programów pomocowych, tym przewidujących udzielanie pomocy ramach wyłączeń grupowych, oraz pomocy indywidualnej, a także pomocy indywidualnej na restrukturyzację, wymagają uzyskania opinii Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa.
+pomocy niezgodnej z prawem - należy przez to rozumieć pomoc, o której mowa w art. 1 lit. f rozporządzenia Rady;
 
-2. Projekt pomocy indywidualnej udzielanej ramach wyłączeń grupowych nie wymaga uzyskania opinii, o której mowa ust. 1, chyba że podmiot udzielający pomocy wystąpi o jego notyfikację. Do notyfikacji przepis art. 18 ust. 2 stosuje się odpowiednio.
+### 9)
 
-3. Przepisu ust. 1 nie stosuje się przypadku projektów programów pomocowych przewidujących udzielanie pomocy publicznej rolnictwie lub rybołówstwie opracowywanych przez ministra właściwego do spraw rolnictwa.
+pomocy wykorzystanej niezgodnie z przeznaczeniem - należy przez to rozumieć pomoc, o której mowa w art. 1 lit. g rozporządzenia Rady;
 
-4. Opinia, o której mowa ust. 1, zawiera szczególności:
+### 10)
 
-- **1)** stanowisko, czy projekt przewiduje udzielanie pomocy publicznej;
-- **2)** stanowisko sprawie zgodności pomocy publicznej z rynkiem wewnętrznym;
-- **3)** propozycje zmian przedstawione celu zapewnienia zgodności postanowień projektu z rynkiem wewnętrznym;
-- **4)** stanowisko sprawie obowiązku notyfikacji projektu.
+pomocy de minimis - należy przez to rozumieć pomoc spełniającą przesłanki, o których mowa w art. 2 rozporządzenia o pomocy de minimis;
 
-5. Do opinii, o której mowa ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz.
+### 11)
 
-- **1691)** .
+dniu udzielenia pomocy - należy przez to rozumieć dzień, w którym podmiot ubiegający się o pomoc publiczną nabył prawo do otrzymania tej pomocy, a w przypadku gdy udzielenie pomocy w formie ulgi podatkowej następuje na podstawie aktu normatywnego, bez wymogu wydania decyzji:
 
-**Art. 13.**
+### a)
 
-1. Z wnioskiem o wydanie opinii, o której mowa art. 12 ust. 1, występuje przypadku projektu:
+dzień, w którym zgodnie z odrębnymi przepisami upływa termin złożenia deklaracji albo innego dokumentu określającego wartość pomocy, z zastrzeżeniem lit. b,
 
-- **2)** pomocy indywidualnej – podmiot udzielający tej pomocy;
-- **3)** pomocy indywidualnej na restrukturyzację – podmiot ubiegający się o tę pomoc.
+### b)
 
-2. Do wniosku o wydanie opinii dołącza się projekt programu pomocowego lub projekt aktu, na podstawie którego ma być udzielana pomoc indywidualna, szczególności projekt decyzji lub umowy, oraz informacje niezbędne do wydania opinii, dotyczące szczególności adresatów zamierzonej pomocy, jej przeznaczenia, formy, wielkości i czasu trwania.
+dzień, w którym zgodnie z odrębnymi przepisami upływa termin złożenia zeznania rocznego - w przypadku udzielenia pomocy w formie ulgi w podatku dochodowym,
 
-3. W przypadku projektu pomocy indywidualnej na restrukturyzację do wniosku o wydanie opinii dołącza się informacje, o których mowa ust. 2, plan restrukturyzacyjny oraz opinie podmiotu lub podmiotów udzielających pomocy o możliwości jej udzielenia na zasadach określonych tym planie.
+### c)
 
-3a. Podmioty udzielające pomocy są zobowiązane do wydania opinii sprawie możliwości udzielenia pomocy, o której mowa ust. 3.
+dzień faktycznego przysporzenia korzyści finansowych - w przypadku braku obowiązku złożenia deklaracji albo innego dokumentu określającego wartość pomocy;
 
-3b. Wnioski o wydanie opinii, o której mowa art. 12 ust. 1, wraz z załączonymi do nich projektami, informacjami lub planem restrukturyzacyjnym, przekazuje się formie papierowej i elektronicznej.
+### 12)
 
-4. Rada Ministrów określi, drodze rozporządzenia, szczegółowy zakres informacji, o których mowa ust. 2, oraz elementy, jakie powinien zawierać plan restrukturyzacyjny, uwzględniając wymagania określone prawem Unii Europejskiej zakresie notyfikacji.
+podmiocie udzielającym pomocy - należy przez to rozumieć organ administracji publicznej lub inny podmiot, który jest uprawniony do udzielania pomocy publicznej, w tym przedsiębiorcę publicznego;
 
-**Art. 14.** Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, wydaje opinię, o której mowa art. 12 ust. 1, terminie 60 dni, a przypadku projektu programu pomocowego – terminie 21 dni od dnia otrzymania wniosku wraz z dołączonymi informacjami i dokumentami, o których mowa art. 13.
+### 13)
 
-**Art. 15.**
+wielkości pomocy - należy przez to rozumieć wartość pomocy publicznej wyrażoną w kwocie pieniężnej lub intensywność pomocy publicznej wyrażoną jako stosunek wartości pomocy publicznej do kosztów kwalifikujących się do objęcia pomocą publiczną;
 
-1. Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przed wydaniem opinii, o której mowa art. 12 ust. 1, może wystąpić do organu opracowującego projekt programu pomocowego, podmiotu udzielającego pomocy, podmiotu ubiegającego się o pomoc lub innych właściwych podmiotów, o przekazanie wyznaczonym terminie dodatkowych wyjaśnień i informacji. a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, wydaje opinię na podstawie posiadanych informacji.
+### 14)
 
-**Art. 16.**
+przedsiębiorcy publicznym - należy przez to rozumieć każdy podmiot prowadzący działalność gospodarczą, na który organ władzy publicznej ma decydujący, bezpośredni lub pośredni, wpływ, w szczególności:
 
-1. Dokonanie notyfikacji projektu programu pomocowego wymaga zgody Rady Ministrów.
+### a)
 
-2. Rada Ministrów podejmuje uchwałę sprawie dokonania notyfikacji po zapoznaniu się z opinią, o której mowa art. 12 ust. 1.
+przedsiębiorstwo państwowe, jednoosobową spółkę Skarbu Państwa albo jednoosobową spółkę jednostki samorządu terytorialnego,
 
-3. Rada Ministrów wraz z projektem ustawy będącej programem pomocowym przekazuje Marszałkowi informację o dokonaniu notyfikacji.
+### b)
 
-**Art. 16a.**
+spółkę akcyjną lub spółkę z ograniczoną odpowiedzialnością, w stosunku do których Skarb Państwa, jednostka samorządu terytorialnego
 
-1. W przypadku projektu ustawy będącej programem pomocowym opracowanym przez podmiot niebędący organem administracji publicznej, organ właściwy na podstawie regulaminu występuje z wnioskiem do Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o:
+lub przedsiębiorcy, o których mowa w lit. a, są podmiotami, które posiadają uprawnienia takie, jak przedsiębiorcy dominujący w rozumieniu przepisów o ochronie konkurencji i konsumentów;
 
-- **1)** wydanie opinii, o której mowa art. 12 ust. 1;
-- **2)** przekazanie do Komisji projektu celu dokonania jego notyfikacji;
-- **3)** wycofanie notyfikacji projektu przed podjęciem przez Komisję decyzji, o której mowa art. 4 i art. 9 rozporządzenia Rady.
-- **4)** (uchylony)
+### 15)
 
-2. Do wniosku o wydanie opinii, o której mowa art. 12 ust. 1, dołącza się projekt ustawy będącej programem pomocowym oraz informacje niezbędne do wydania opinii, o których mowa art. 13 ust. 2.
+notyfikacji - należy przez to rozumieć przekazanie Komisji, zgodnie z art. 88 Traktatu WE, projektu programu pomocowego, projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, wraz z informacjami niezbędnymi dla oceny zgodności pomocy publicznej ze wspólnym rynkiem;
 
-**Art. 17.** W przypadku wydania przez Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, opinii o niezgodności z rynkiem wewnętrznym projektu programu pomocowego przewidującego udzielanie pomocy ramach wyłączeń grupowych, co do którego podmiot opracowujący taki projekt nie wystąpił o dokonanie notyfikacji, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przekazuje opinię do wiadomości Radzie Ministrów.
+### 16)
 
-**Art. 18.**
+beneficjencie pomocy - należy przez to rozumieć podmiot prowadzący działalność gospodarczą, bez względu na formę organizacyjno-prawną oraz sposób finansowania, który otrzymał pomoc publiczną.
 
-1. W przypadku projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, niezwłocznie
+### Art. 3.
 
-2. W terminie 14 dni od dnia otrzymania opinii o niezgodności z rynkiem wewnętrznym projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, podmiot występujący o wydanie opinii może wystąpić do Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o dokonanie notyfikacji tego projektu, z zastrzeżeniem ust. 3.
+Zasady dopuszczalności udzielania pomocy publicznej określają przepisy art. 36, art. 73 oraz art. 86-89 i art. 296 Traktatu WE.
 
-3. W przypadku gdy opinia Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o niezgodności z rynkiem wewnętrznym dotyczy projektu pomocy indywidualnej na restrukturyzację, podmiot lub podmioty udzielające pomocy mogą zmienić opinię, o której mowa art. 13 ust. 3, zawiadamiając o tym Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, oraz podmiot występujący o wydanie opinii terminie 14 dni od dnia jej otrzymania.
+### Art. 4.
 
-4. Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, nie dokonuje notyfikacji projektu:
+Przepisów ustawy nie stosuje się do pomocy publicznej udzielanej w rolnictwie w rozumieniu art. 32 Traktatu WE.
 
-- **1)** pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację – przypadku bezskutecznego upływu terminu, o którym mowa ust. 2;
-- **2)** pomocy indywidualnej na restrukturyzację – przypadku gdy:
-    - **a)** podmiot ubiegający się o pomoc nie przedłoży opinii o możliwości udzielenia pomocy, o której mowa art. 13 ust. 3, odniesieniu do każdego przypadku pomocy,
-    - **b)** podmiot udzielający pomocy zmienionej opinii, o której mowa ust. 3, stwierdzi niemożność udzielenia pomocy.
+### Art. 5.
 
-**Art. 19.**
+### 1.
 
-1. W przypadku wprowadzenia zmian zakresie udzielania pomocy publicznej do projektu ustawy będącej programem pomocowym notyfikowanym Komisji, Marszałek przekazuje Prezesowi Rady Ministrów projekt ze zmianami; Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przekazuje do Komisji projekt ze zmianami celem uzupełnienia notyfikacji. pomocy indywidualnej na restrukturyzację notyfikowanych Komisji, podmiot występujący o dokonanie notyfikacji przekazuje niezwłocznie Prezesowi Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministrowi właściwemu do spraw rolnictwa, projekt ze zmianami celem uzupełnienia notyfikacji.
+Do pomocy de minimis nie wlicza się pomocy publicznej udzielonej w ramach programu pomocowego, pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację, zatwierdzonych przez Komisję zgodnie z art. 88 Traktatu WE, a także pomocy udzielanej w ramach wyłączeń grupowych.
 
-3. (uchylony)
+### 2.
 
-**Art. 20.** Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej Brukseli, dokonuje notyfikacji odniesieniu do projektu:
+Podmioty udzielające pomocy wydają beneficjentowi pomocy zaświadczenie stwierdzające, że udzielona pomoc publiczna jest pomocą de minimis.
 
-**Art. 20a.** Dokonanie notyfikacji projektu programu pomocowego ustanowionego na podstawie aktu prawa miejscowego nie wymaga zgody Rady Ministrów i następuje niezwłocznie po wydaniu opinii, o której mowa art. 12 ust. 1.
+### 3.
 
-#### Rozdział 3 Postępowanie przed Komisją
+Rada Ministrów określi, w drodze rozporządzenia, formę i treść zaświadczeń, o których mowa w ust. 2, oraz terminy i sposób ich wydawania, biorąc pod uwagę konieczność zapewnienia przejrzystości informacji o pomocy de minimis udzielanej poszczególnym beneficjentom pomocy.
 
-**Art. 21.**
+### Art. 6.
 
-1. W zakresie postępowania przed Komisją, o którym mowa rozporządzeniu Rady, zwanego dalej „postępowaniem przed Komisją”, organem właściwym jest Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa.
+### 1.
 
-2. W związku z postępowaniem przed Komisją organy administracji publicznej, które opracowały projekty programów pomocowych, podmioty udzielające pomocy, które opracowały projekty pomocy indywidualnej, podmioty ubiegające się o udzielenie pomocy, beneficjenci pomocy lub inne właściwe podmioty przedstawiają Prezesowi Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministrowi właściwemu do spraw rolnictwa, wyznaczonym terminie, informacje 2a. W zakresie niezbędnym do udzielenia odpowiedzi na zapytania Komisji, Prezes Urzędu może zażądać przekazania przez bank – wyznaczonym terminie – informacji stanowiących tajemnicę bankową.
+Do pomocy publicznej udzielanej na podstawie aktu normatywnego, niebędącego programem pomocowym, stosuje się przepisy dotyczące pomocy indywidualnej, z zastrzeżeniem ust. 2.
 
-3. Prezes Urzędu konsultuje z podmiotami, o których mowa ust. 2 i 2a, treść odpowiedzi, wyjaśnień, uwag lub stanowisk – opracowanych przez niego na podstawie przekazanych informacji – i niezwłocznie przekazuje je Komisji.
+### 2.
 
-4. Przepis ust. 3 stosuje się odpowiednio przypadku odpowiedzi, wyjaśnień, uwag lub stanowisk dotyczących pomocy publicznej rolnictwie lub rybołówstwie, których treść minister właściwy do spraw rolnictwa konsultuje z podmiotami, o których mowa ust. 2.
+Pomoc publiczna przewidziana w akcie normatywnym, który uzależnia nabycie prawa do otrzymania pomocy wyłącznie od spełnienia przesłanek określonych w tym akcie, bez konieczności wydania decyzji lub zawarcia umowy, albo gdy wydawana decyzja jedynie potwierdza nabycie prawa, może być udzielana, jeżeli akt normatywny jest programem pomocowym zatwierdzonym przez Komisję zgodnie z art. 88 Traktatu WE.
 
-**Art. 22.**
+### Art. 7.
 
-1. W przypadku podjęcia przez Komisję decyzji, o których mowa art. 4, art. 9, art. 12 ust. 3 i art. 13 rozporządzenia Rady, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, niezwłocznie informuje o tym właściwy podmiot, przekazując mu jednocześnie kopię decyzji.
+### 1.
 
-2. W przypadku wydania przez Komisję zalecenia, o którym mowa art. 22 rozporządzenia Rady, przepis ust. 1 stosuje się odpowiednio.
+Projekt programu pomocowego, projekt pomocy indywidualnej lub projekt pomocy indywidualnej na restrukturyzację podlega notyfikacji.
 
-3. (uchylony)
+### 2.
 
-**Art. 23.**
+Projekt pomocy udzielanej w ramach wyłączeń grupowych podlega notyfikacji, jeżeli o jej dokonanie wystąpi podmiot opracowujący program pomocowy lub podmiot udzielający pomocy.
 
-1. Po otrzymaniu kopii decyzji Komisji, o której mowa art. 13 ust. 1 rozporządzenia Rady, zobowiązującej do wstrzymania udzielania pomocy, podmiot udzielający pomocy niezwłocznie wstrzymuje jej udzielanie.
+### 3.
 
-2. Po otrzymaniu kopii decyzji Komisji, o której mowa art. 13 ust. 2 rozporządzenia Rady, zobowiązującej do zwrotu pomocy, podmiot udzielający pomocy niezwłocznie wydaje decyzję o zwrocie pomocy.
+Projekt programu pomocowego przewidujący udzielanie pomocy de minimis podlega wyłącznie zgłoszeniu Prezesowi Urzędu, który w terminie 14 dni może przedstawić zastrzeżenia dotyczące przejrzystości zasad udzielania pomocy.
 
-**Art. 24.**
+### 4.
 
-1. Przed podjęciem przez Komisję decyzji, o której mowa art. 4 i art. 9 rozporządzenia Rady, notyfikacja może być wycofana przypadku projektu:
+Jeżeli projekt pomocy indywidualnej na restrukturyzację został zatwierdzony przez Komisję zgodnie z art. 88 Traktatu WE, to pomoc publiczna, która będzie udzielana zgodnie z planem restrukturyzacyjnym, nie podlega notyfikacji, chyba że decyzja Komisji stanowi inaczej.
 
-- **1)** programu pomocowego – na wniosek organu administracji publicznej opracowującego ten projekt;
-- **2)** pomocy indywidualnej – na wniosek podmiotu udzielającego pomocy;
-- **3)** pomocy indywidualnej na restrukturyzację – na wniosek podmiotu ubiegającego się o pomoc lub podmiotu udzielającego pomocy. notyfikacji.
+### Art. 8.
 
-#### Rozdział 4 Zwrot pomocy przyznanej niezgodnie z zasadami rynku wewnętrznego oraz pomocy wykorzystanej niezgodnie z przeznaczeniem
+W przypadku programu pomocowego, w którym akt prawa miejscowego zawiera podstawę prawną udzielania pomocy publicznej, a szczegółowe warunki jej udzielania zostały określone zgodnie z ustawą zawierającą upoważnienie do wydania tego aktu, notyfikacji podlega wyłącznie projekt aktu prawa powszechnie obowiązującego określający szczegółowe warunki udzielania pomocy.
 
-**Art. 24a.**
+### Art. 9.
 
-1. W przypadku stwierdzenia przez Sąd lub Trybunał Sprawiedliwości Unii Europejskiej nieważności decyzji Komisji, o której mowa art. 4 ust. 2 lub 3 lub art. 9 ust. 2, 3 lub 4 rozporządzenia Rady, podmiot udzielający pomocy wstrzymuje wypłatę pomocy publicznej, stanowiącej przedmiot decyzji Komisji, od dnia wydania orzeczenia Sądu lub Trybunału Sprawiedliwości Unii Europejskiej stwierdzającego nieważność tej decyzji do dnia wydania przez Komisję decyzji, o której mowa ust. 7, albo do dnia wystąpienia okoliczności, o których mowa ust. 9.
+Notyfikacji podlega również istotna zmiana zatwierdzonego przez Komisję, zgodnie z art. 88 Traktatu WE, programu pomocowego, pomocy indywidualnej lub pomocy indywidualnej na restrukturyzację, dotycząca w szczególności wielkości pomocy, jej formy, przeznaczenia lub warunków jej udzielania.
 
-2. Jeżeli pomoc publiczna, której dotyczyła decyzja Komisji stanowiąca przedmiot orzeczenia, o którym mowa ust. 1, była udzielona na podstawie decyzji administracyjnej lub umowy, beneficjent pomocy oraz podmiot udzielający tej pomocy wykonują swoje prawa i obowiązki wynikające z tej decyzji lub umowy, z wyłączeniem wypłaty pomocy publicznej.
+### Art. 10.
 
-3. W terminie 30 dni od dnia wydania orzeczenia, o którym mowa ust. 1, beneficjent pomocy może złożyć, formie pisemnej, elektronicznej lub dokumentowej, podmiotowi udzielającemu pomocy oświadczenie o czasowej rezygnacji z wykonywania praw i obowiązków wynikających z decyzji administracyjnej lub umowy, o których mowa ust. 2, wskazując okres tej rezygnacji, zwany dalej „okresem rezygnacji”. Okres rezygnacji może być zmieniony oświadczeniem beneficjenta pomocy. Podmiot udzielający pomocy niezwłocznie potwierdza beneficjentowi pomocy, formie pisemnej, elektronicznej lub dokumentowej, otrzymanie oświadczenia, o którym mowa zdaniu pierwszym.
+### 1.
 
-4. W okresie rezygnacji rozpoczynającym się od dnia następującego po dniu złożenia oświadczenia o rezygnacji, o którym mowa ust. 3, i upływającym najpóźniej dniu następującym po dniu wydania przez Komisję decyzji, o której mowa ust. 7, albo dniu następującym po dniu wystąpienia okoliczności, o których mowa ust. 9, prawa i obowiązki wynikające z decyzji administracyjnej lub umowy
+Pomoc regionalna, o której mowa w art. 87 ust. 3 lit. a oraz lit. c Traktatu WE, może być udzielana w zakresie wynikającym z mapy pomocy regionalnej.
 
-5. Od dnia wydania orzeczenia, o którym mowa ust. 1, do dnia wydania przez Komisję decyzji, o której mowa ust. 7, albo do dnia następującego po dniu wystąpienia okoliczności, o których mowa ust. 9, podmiot udzielający pomocy przekazuje środki, które wypłacałby beneficjentowi pomocy, gdyby orzeczenie, o którym mowa ust. 1, nie zostało wydane, na założony przez siebie i prowadzony odrębnie dla każdego beneficjenta pomocy wyodrębniony rachunek bankowy.
+### 2.
 
-6. Prawo do dysponowania środkami zgromadzonymi na rachunku, o którym mowa ust. 5, ma jedynie podmiot udzielający pomocy, przy czym środki te służą wyłącznie zabezpieczeniu lub realizacji obowiązków podmiotu udzielającego pomocy określonych ust. 7 lub 9.
+Rada Ministrów ustala, w drodze rozporządzenia, mapę pomocy regionalnej, określając:
 
-7. W przypadku gdy odniesieniu do pomocy publicznej, której dotyczyła decyzja Komisji stanowiąca przedmiot orzeczenia, o którym mowa ust. 1, Komisja wyda tej samej sprawie nową decyzję, o której mowa art. 4 ust. 2 lub 3 lub art. 9 ust. 2, 3 lub 4 rozporządzenia Rady, podmiot udzielający pomocy, terminie 15 dni od dnia wydania tej nowej decyzji Komisji, wypłaca beneficjentowi pomocy środki zgromadzone na rachunku, o którym mowa ust. 5, o ile jest to zgodne z treścią nowej decyzji Komisji.
+### 1)
 
-8. Za okres rezygnacji wypłata pomocy publicznej nie przysługuje.
+obszary kraju, na których dopuszczalne jest udzielanie pomocy publicznej oraz maksymalne wielkości pomocy dla tych obszarów, przy uwzględnieniu w szczególności poziomu produktu krajowego brutto na jednego mieszkańca na danym obszarze, a także
 
-9. W przypadku wycofania zgłoszenia, o którym mowa art. 10 ust. 1 rozporządzenia Rady, albo gdy odniesieniu do pomocy publicznej, której dotyczyła decyzja Komisji stanowiąca przedmiot orzeczenia, o którym mowa ust. 1, Komisja wyda tej samej sprawie nową decyzję, o której mowa art. 9 ust. 5 lub art. 16 ust. 1 rozporządzenia Rady, albo gdy po wypłacie pomocy, o której mowa ust. 7, związku z okresem rezygnacji, na rachunku, o którym mowa ust. 5, pozostaną środki, podmiot udzielający pomocy przekazuje środki zgromadzone na tym rachunku do budżetu państwa, chyba że odrębne przepisy stanowią inaczej.
+### 2)
 
-**Art. 25.**
+rodzaje działalności gospodarczej, dla których udzielanie pomocy nie jest dozwolone oraz rodzaje działalności gospodarczej, dla których maksymalne wielkości pomocy są inne niż maksymalne wielkości pomocy dla obszarów kraju, wraz ze wskazaniem tych wielkości, biorąc pod uwagę, że udzielenie pomocy regionalnej dla niektórych rodzajów działalności gospodarczej wpływa szczególnie negatywnie na warunki konkurencji na wspólnym rynku.
 
-1. Beneficjent pomocy jest zobowiązany do zwrotu kwoty stanowiącej równowartość udzielonej pomocy publicznej, co do której Komisja wydała decyzję o obowiązku zwrotu pomocy, chyba że wskutek wniesionego odwołania zostanie zawieszone wykonanie decyzji Komisji.
+### 3.
 
-2. Obowiązek zwrotu, o którym mowa ust. 1, obejmuje również odsetki, o których mowa art. 16 ust. 2 rozporządzenia Rady. wcześniejszego udzielenia – wypłacona temu beneficjentowi.
+Projekt rozporządzenia, o którym mowa w ust. 2, podlega notyfikacji.
 
-**Art. 26.**
+### Art. 11.
 
-1. Kopię decyzji Komisji o obowiązku zwrotu pomocy, o której mowa art. 16 rozporządzenia Rady, oraz decyzji wydanej przypadkach, o których mowa art. 11 i art. 20 rozporządzenia Rady, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przekazuje niezwłocznie:
+### 1.
 
-- **1)** przypadku programu pomocowego – podmiotowi udzielającemu pomocy, który następnie niezwłocznie przekazuje ją beneficjentom pomocy;
-- **2)** przypadku pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację – podmiotom udzielającym pomocy oraz podmiotom zobowiązanym do jej zwrotu.
+Wartość pomocy publicznej jest wyrażana w kwocie pieniężnej, po przeliczeniu jej w sposób pozwalający na ustalenie kwoty, jaką otrzymałby beneficjent pomocy, gdyby została ona udzielona w formie dotacji.
 
-2. (uchylony)
+### 2.
 
-**Art. 27.**
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe sposoby obliczania wartości pomocy publicznej udzielanej w różnych formach, biorąc pod uwagę w szczególności konieczność zapewnienia porównywalności wartości pomocy udzielanej w różnych formach.
 
-1. W przypadku wydania decyzji Komisji o obowiązku zwrotu pomocy, o której mowa art. 16 rozporządzenia Rady, jeżeli pomoc była udzielona na podstawie:
+### 3.
 
-- **1)** decyzji – organ, który wydał decyzję, może ją uchylić albo zmienić również bez zgody stron lub nakazać zwrot udzielonej pomocy; przepisu art. 253a § 3 i art. 256 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) nie stosuje się;
-- **2)** umowy – podmiot udzielający pomocy może wystąpić do sądu o rozwiązanie umowy, na podstawie której udzielono pomocy lub o nakazanie zwrotu udzielonej pomocy.
+Równowartość pomocy w euro ustala się według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy.
 
-2. Przepis ust. 1 stosuje się również przypadku wydania decyzji Komisji o obowiązku zwrotu pomocy przypadkach, o których mowa art. 11 i art. 20 rozporządzenia Rady.
+### Rozdział 2 Postępowanie notyfikacyjne
 
-3. W postępowaniu cywilnym, postępowaniu administracyjnym i postępowaniu przed sądami administracyjnymi Prezesowi Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministrowi właściwemu do spraw rolnictwa, przysługują uprawnienia prokuratora określone odrębnych przepisach. egzekucyjnym administracji albo trybie przepisów o sądowym postępowaniu egzekucyjnym.
+### Art. 12.
 
-#### Rozdział 5 (uchylony)
+### 1.
 
-#### Rozdział 6 Monitorowanie pomocy publicznej
+Projekty programów pomocowych oraz pomocy indywidualnej, w tym przewidujących udzielanie pomocy w ramach wyłączeń grupowych, a także pomocy indywidualnej na restrukturyzację, wymagają uzyskania opinii Prezesa Urzędu.
 
-**Art. 31.**
+### 2.
 
-1. Monitorowanie pomocy publicznej obejmuje gromadzenie, przetwarzanie i przekazywanie informacji o udzielanej pomocy publicznej, szczególności o jej rodzajach, formach i wielkości, oraz przestrzeganie krajowego limitu skumulowanej kwoty pomocy de minimis rolnictwie lub rybołówstwie.
+Przepis ust. 1 stosuje się odpowiednio w przypadku istotnej zmiany projektów przed dokonaniem notyfikacji, a w przypadku pomocy udzielanej w ramach wyłączeń grupowych - przed rozpoczęciem jej udzielania. Przez istotną zmianę projektów rozumie się w szczególności zmianę wielkości pomocy, jej formy, przeznaczenia lub warunków udzielania.
 
-2. Organem monitorującym pomoc publiczną jest Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa.
+### 3.
 
-3. Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, przekazuje Komisji sprawozdanie roczne z pomocy publicznej, o którym mowa art. 6 rozporządzenia Komisji (WE) nr 794/2004 z dnia 21 kwietnia 2004 r. sprawie wykonania rozporządzenia Rady (UE) nr 2015/1589 ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej.
+Opinia, o której mowa w ust. 1, zawiera w szczególności:
 
-**Art. 31a.** (uchylony)
+### 1)
 
-**Art. 31b.** Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, ogłasza niezwłocznie Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
+stanowisko, czy projekt przewiduje udzielanie pomocy publicznej;
 
-**Art. 32.**
+### 2)
 
-1. Podmioty udzielające pomocy są zobowiązane do sporządzania i przedstawiania Prezesowi Urzędu sprawozdań o udzielonej pomocy publicznej innej niż pomoc publiczna rolnictwie lub rybołówstwie albo informacji o nieudzieleniu takiej pomocy danym okresie sprawozdawczym. Sprawozdania zawierają szczególności informacje o beneficjentach pomocy oraz o rodzajach, formach, wielkości i przeznaczeniu udzielonej pomocy.
+stanowisko w sprawie zgodności pomocy publicznej ze wspólnym rynkiem;
 
-2. W przypadku gdy pomoc publiczna jest przewidziana akcie normatywnym, o którym mowa art. 6 ust. 2, do sporządzania i przedstawiania:
+### 3)
 
-- **1)** sprawozdań, o których mowa ust. 1, są zobowiązane podmioty, które otrzymały od beneficjentów pomocy deklaracje lub inne dokumenty określające kwoty pomniejszenia świadczeń na podstawie tego aktu normatywnego;
-- **2)** informacji, o których mowa ust. 1, są zobowiązane podmioty, które nie otrzymały deklaracji lub innych dokumentów, z których wynika, że nastąpiło pomniejszenie świadczeń na podstawie tego aktu normatywnego.
+propozycje zmian przedstawione w celu zapewnienia zgodności postanowień projektu ze wspólnym rynkiem;
 
-3. (uchylony)
+### 4)
 
-4. (uchylony)
+stanowisko w sprawie obowiązku notyfikacji projektu.
 
-5. (uchylony)
+### Art. 13.
 
-6. (uchylony)
+### 1.
 
-7. (uchylony)
+Z wnioskiem o wydanie opinii, o której mowa w art. 12 ust. 1, występuje w przypadku projektu:
 
-8. (uchylony)
+### 1)
 
-9. (uchylony)
+programu pomocowego - organ administracji publicznej opracowujący projekt tego programu;
 
-10. Sprawozdania i informacje, o których mowa ust. 1, przekazuje się przez teletransmisję danych postaci elektronicznej z wykorzystaniem formularzy zamieszczonych aplikacji SHRIMP udostępnionej sieci teleinformatycznej przez Prezesa Urzędu, a przypadku organów Krajowej Administracji Skarbowej, o których mowa ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji
+### 2)
 
-11. Rada Ministrów określi, drodze rozporządzenia, sposób udzielania dostępu do aplikacji SHRIMP, mając na uwadze zapewnienie skuteczności monitorowania pomocy publicznej.
+pomocy indywidualnej - podmiot udzielający tej pomocy;
 
-12. (uchylony)
+### 3)
 
-**Art. 32a.**
+pomocy indywidualnej na restrukturyzację - podmiot ubiegający się o tę pomoc.
 
-1. Podmioty udzielające pomocy są zobowiązane do sporządzania i przedstawiania ministrowi właściwemu do spraw rolnictwa sprawozdań o udzielonej pomocy publicznej rolnictwie lub rybołówstwie albo informacji o nieudzieleniu takiej pomocy danym okresie sprawozdawczym. Sprawozdania zawierają szczególności informacje o beneficjentach pomocy oraz o rodzajach, formach, wielkości i przeznaczeniu udzielonej pomocy.
+### 2.
 
-2. Do przekazywania ministrowi właściwemu do spraw rolnictwa sprawozdań i informacji, o których mowa ust. 1, przepis art. 32 ust. 2 stosuje się odpowiednio.
+Do wniosku o wydanie opinii dołącza się projekt programu pomocowego lub projekt aktu, na podstawie którego ma być udzielana pomoc indywidualna, w szczególności projekt decyzji lub umowy, oraz informacje niezbędne do wydania opinii, dotyczące w szczególności adresatów zamierzonej pomocy, jej przeznaczenia, formy, wielkości i czasu trwania.
 
-3. Sprawozdania i informacje, o których mowa ust. 1, przekazuje się przez teletransmisję danych postaci elektronicznej z wykorzystaniem formularzy zamieszczonych aplikacji SRPP udostępnionej sieci teleinformatycznej przez ministra właściwego do spraw rolnictwa.
+### 3.
 
-4. Rada Ministrów określi, drodze rozporządzenia, sposób udzielania dostępu do aplikacji SRPP, mając na uwadze zapewnienie skuteczności monitorowania pomocy publicznej rolnictwie i rybołówstwie.
+W przypadku projektu pomocy indywidualnej na restrukturyzację do wniosku o wydanie opinii dołącza się informacje, o których mowa w ust. 2, plan restrukturyzacyjny oraz opinie podmiotu lub podmiotów udzielających pomocy o możliwości jej udzielenia na zasadach określonych w tym planie.
 
-5. (uchylony)
+### 4.
 
-**Art. 33.**
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 2, oraz elementy, jakie powinien zawierać plan restrukturyzacyjny, uwzględniając wymagania określone prawem Unii Europejskiej w zakresie notyfikacji.
 
-1. Podmioty udzielające pomocy są zobowiązane do przekazywania, na żądanie Prezesa Urzędu, ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw finansów publicznych, informacji dotyczących udzielonej pomocy publicznej, zakresie i terminie wskazanym żądaniu.
+### Art. 14.
 
-2. Podmioty opracowujące programy pomocowe przewidujące udzielanie pomocy ramach wyłączeń grupowych niezwłocznie informują Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o rozpoczęciu obowiązywania programu pomocowego.
+Prezes Urzędu wydaje opinię, o której mowa w art. 12 ust. 1, w terminie 60 dni, a w przypadku projektu programu pomocowego - w terminie 21 dni od dnia otrzymania wniosku wraz z dołączonymi informacjami i dokumentami, o których mowa w art. 13.
 
-3. Podmioty udzielające pomocy indywidualnej ramach wyłączeń grupowych niezwłocznie informują Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa, o udzieleniu tej pomocy. powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu albo ministra właściwego do spraw rolnictwa.
+### Art. 15.
 
-**Art. 33a.** Prezes Urzędu ewidencjonuje akty prawa miejscowego, o których mowa art. 8 ust. 1.
+### 1.
 
-**Art. 34.**
+Prezes Urzędu, przed wydaniem opinii, o której mowa w art. 12 ust. 1, może wystąpić do organu administracji publicznej opracowującego projekt programu pomocowego, a w przypadku pomocy indywidualnej i pomocy indywidualnej na restrukturyzację - do podmiotu udzielającego pomocy, podmiotu ubiegającego się o pomoc lub innych zainteresowanych podmiotów, o przekazanie w wyznaczonym terminie dodatkowych wyjaśnień i informacji.
 
-1. Organy właściwe do poboru należności są zobowiązane do przekazywania ministrowi właściwemu do spraw finansów publicznych sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych, zakresie swojej właściwości.
+### 2.
 
-2. Sprawozdania, o których mowa ust. 1, przekazuje się przez teletransmisję danych formie elektronicznej, na formularzach zamieszczonych powszechnie dostępnej sieci teleinformatycznej przez Prezesa Urzędu.
+Jeżeli organy lub podmioty, o których mowa w ust. 1, nie przedstawią w wyznaczonym terminie dodatkowych wyjaśnień i informacji, Prezes Urzędu wydaje opinię na podstawie posiadanych informacji.
 
-3. (uchylony)
+### Art. 16.
 
-4. Jednostki samorządu terytorialnego przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem regionalnych izb obrachunkowych.
+### 1.
 
-5. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw klimatu, a wojewódzkie fundusze ochrony środowiska i gospodarki wodnej – za pośrednictwem marszałków województw.
+Dokonanie notyfikacji projektu programu pomocowego wymaga zgody Rady Ministrów.
 
-6. Wojewodowie przekazują sprawozdania, o których mowa ust. 1, bezpośrednio ministrowi właściwemu do spraw finansów publicznych.
+### 2.
 
-7. Polska Agencja Rozwoju Przedsiębiorczości przekazuje sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw rozwoju regionalnego.
+Rada Ministrów podejmuje uchwałę w sprawie dokonania notyfikacji po zapoznaniu się z opinią Prezesa Urzędu.
 
-8. Ochotnicze Hufce Pracy przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem ministra właściwego do spraw pracy.
+### 3.
 
-9. Podmioty niewymienione ust. 4–8 przekazują sprawozdania, o których mowa ust. 1, za pośrednictwem organów je nadzorujących, a przypadku braku takich organów – bezpośrednio ministrowi właściwemu do spraw finansów publicznych.
+Rada Ministrów wraz z projektem ustawy będącej programem pomocowym przekazuje Marszałkowi Sejmu informację o dokonaniu notyfikacji.
 
-**Art. 35.** Rada Ministrów określi, drodze rozporządzeń: sprawozdawcze oraz wzory formularzy, mając na uwadze zapewnienie skuteczności monitorowania pomocy publicznej oraz konieczność uwzględnienia technicznych uwarunkowań związanych z przekazywaniem sprawozdań i informacji, o których mowa art. 32 ust. 1, z wykorzystaniem aplikacji SHRIMP;
+### Art. 17.
 
-**Art. 36.**
+W przypadku wydania przez Prezesa Urzędu opinii o niezgodności ze wspólnym rynkiem projektu programu pomocowego przewidującego udzielanie pomocy w ramach wyłączeń grupowych, co do którego podmiot opracowujący taki projekt nie wystąpił o dokonanie notyfikacji, Prezes Urzędu przekazuje opinię do wiadomości Radzie Ministrów.
 
-1. Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, na podstawie sprawozdań i informacji, o których mowa art. 32 ust. 1 oraz art. 32a ust. 1, opracowuje i przedstawia Radzie Ministrów sprawozdanie zawierające wyniki monitorowania pomocy publicznej roku poprzednim, szczególności dane dotyczące wielkości, form i przeznaczenia pomocy publicznej, a także ocenę skutków udzielonej pomocy sferze konkurencji.
+### Art. 18.
 
-1a. Prezes Urzędu opracowuje sprawozdanie, o którym mowa ust. 1, porozumieniu z ministrem właściwym do spraw finansów publicznych.
+### 1.
 
-2. Minister właściwy do spraw finansów publicznych przedstawia Radzie Ministrów zbiorczą, roczną informację o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych.
+W przypadku projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację Prezes Urzędu niezwłocznie przekazuje opinię, o której mowa w art. 12 ust. 1, podmiotowi występującemu z wnioskiem o wydanie opinii oraz podmiotom udzielającym pomocy.
 
-3. Sprawozdania, o których mowa ust. 1, Rada Ministrów przedstawia Sejmowi do końca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+### 2.
 
-**Art. 37.**
+W terminie 14 dni od dnia otrzymania opinii o niezgodności ze wspólnym rynkiem projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację, podmiot występujący o wydanie opinii może wystąpić do Prezesa Urzędu o dokonanie notyfikacji tego projektu, z zastrzeżeniem ust. 3.
 
-1. Podmiot ubiegający się o pomoc de minimis jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy:
+### 3.
 
-- **1)** wszystkich zaświadczeń o pomocy de minimis oraz pomocy de minimis rolnictwie lub rybołówstwie, jakie otrzymał okresie 3 lat poprzedzających pomocy tym okresie;
-- **2)** informacji niezbędnych do udzielenia pomocy de minimis, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis.
+W przypadku gdy opinia Prezesa Urzędu o niezgodności ze wspólnym rynkiem dotyczy projektu pomocy indywidualnej na restrukturyzację, podmiot lub podmioty udzielające pomocy mogą zmienić opinię, o której mowa w art. 13 ust. 3, zawiadamiając o tym Prezesa Urzędu oraz podmiot występujący o wydanie opinii w terminie 14 dni od dnia jej otrzymania.
 
-2. Podmiot ubiegający się o:
+### 4.
 
-- **1)** pomoc de minimis rolnictwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał okresie 3 lat poprzedzających dzień złożenia wniosku o udzielenie pomocy, albo oświadczenia o wielkości tej pomocy otrzymanej tym okresie, albo oświadczenia o nieotrzymaniu takiej pomocy tym okresie;
-- **2)** pomoc de minimis rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis rolnictwie lub rybołówstwie oraz pomocy de minimis, jakie otrzymał roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o wielkości tej pomocy otrzymanej roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych, albo oświadczenia o nieotrzymaniu takiej pomocy roku, którym ubiega się o pomoc, oraz okresie 2 poprzedzających go lat podatkowych;
-- **3)** pomoc de minimis rolnictwie lub rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, informacji niezbędnych do udzielenia pomocy de minimis rolnictwie lub rybołówstwie, dotyczących szczególności wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz wielkości i przeznaczenia pomocy publicznej otrzymanej odniesieniu do tych samych kosztów kwalifikujących się do objęcia pomocą, na pokrycie których ma być przeznaczona pomoc de minimis rolnictwie lub rybołówstwie. kierując się koniecznością zapewnienia zupełności i przejrzystości przedstawianych informacji.
+Prezes Urzędu nie dokonuje notyfikacji projektu:
 
-3. Prezes Urzędu przedstawia Komisji, na jej wniosek, informacje o pomocy de minimis.
+### 1)
 
-4. Minister właściwy do spraw rolnictwa przedstawia Komisji, na jej wniosek, informacje o pomocy de minimis rolnictwie lub rybołówstwie.
+pomocy indywidualnej oraz projektu pomocy indywidualnej na restrukturyzację - w przypadku bezskutecznego upływu terminu, o którym mowa w ust. 2;
 
-5. Podmiot ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis rolnictwie lub rybołówstwie jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o jej udzielenie, informacji dotyczących wnioskodawcy i prowadzonej przez niego działalności gospodarczej oraz informacji o otrzymanej pomocy publicznej, zawierających szczególności wskazanie dnia i podstawy prawnej jej udzielenia, formy i przeznaczenia, albo oświadczenia o nieotrzymaniu pomocy.
+### 2)
 
-5a. W przypadku pomocy publicznej przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, zaświadczenia, oświadczenia lub informacje, o których mowa ust. 1, 2 lub 5, beneficjent pomocy składa każdorazowo z deklaracją, zeznaniem rocznym lub innym dokumentem, z których wynika wartość pomocy.
+pomocy indywidualnej na restrukturyzację - w przypadku stwierdzenia, w zmienionej opinii, o której mowa w ust. 3, niemożności udzielenia pomocy.
 
-5b. W przypadku pomocy de minimis przewidzianej akcie normatywnym, o którym mowa art. 6 ust. 2, gdy z deklaracji, zeznania rocznego lub innego dokumentu nie wynika wartość pomocy, zaświadczenia, oświadczenia lub informacje, o których mowa ust. 1 lub 2, składa beneficjent pomocy wraz z informacją, o której mowa art. 5 ust. 3ba.
+### Art. 19.
 
-6. Rada Ministrów określi, drodze rozporządzenia, zakres informacji oraz oświadczenia, o których mowa ust. 5, oraz wzory formularzy informacji, biorąc pod uwagę przeznaczenie planowanej pomocy oraz konieczność zapewnienia nieprzekroczenia dopuszczalnej wielkości pomocy udzielonej związku z realizacją danego przedsięwzięcia przez poszczególne podmioty ubiegające się o pomoc oraz uwzględniając wymagania z zakresu sprawozdawczości.
+### 1.
 
-7. Do czasu przekazania przez podmiot ubiegający się o pomoc zaświadczeń, oświadczeń lub informacji, o których mowa ust. 1, 2 i 5, pomoc nie może być udzielona temu podmiotowi. udzielającemu pomocy na podstawie odrębnych ustaw.
+W przypadku wprowadzenia zmian w zakresie udzielania pomocy publicznej do projektu ustawy będącej programem pomocowym notyfikowanym Komisji, Marszałek Sejmu przekazuje Prezesowi Rady Ministrów projekt ze zmianami; Prezes Urzędu przekazuje do Komisji projekt ze zmianami celem uzupełnienia notyfikacji, zgodnie z art. 20.
 
-**Art. 38.**
+### 2.
 
-1. Podmiot udzielający pomocy jest zobowiązany, udzielając pomocy publicznej, poinformować pisemnie beneficjenta pomocy o jej zatwierdzeniu przez Komisję zgodnie z art. 108 TFUE bądź o braku obowiązku notyfikacji.
+W przypadku wprowadzenia zmian do projektu programu pomocowego, w części niebędącej projektem ustawy, projektu pomocy indywidualnej lub projektu pomocy indywidualnej na restrukturyzację notyfikowanych Komisji, podmiot występujący o dokonanie notyfikacji przekazuje niezwłocznie Prezesowi Urzędu projekt ze zmianami celem uzupełnienia notyfikacji.
 
-2. W przypadku pomocy publicznej udzielanej na podstawie programu pomocowego zakres informacji określonej ust. 1 obejmuje także wskazanie numeru referencyjnego programu nadanego przez Komisję.
+### Art. 20.
 
-3. Przepisów ust. 1 i 2 nie stosuje się przypadku pomocy formie ulgi podatkowej, udzielanej na podstawie aktu normatywnego, który uzależnia nabycie prawa do otrzymania pomocy wyłącznie od spełnienia przesłanek określonych tym akcie, bez konieczności wydania decyzji.
+Prezes Urzędu, za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej w Brukseli, dokonuje notyfikacji oraz uzupełnienia notyfikacji w odniesieniu do projektu:
 
-**Art. 39.**
+### 1)
 
-1. Beneficjent pomocy oraz podmiot ubiegający się o pomoc jest zobowiązany do przekazywania informacji o dotyczącej ich pomocy publicznej Prezesowi Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministrowi właściwemu do spraw rolnictwa, lub podmiotowi udzielającemu pomocy – na ich żądanie, zakresie i terminach określonych żądaniu.
+programu pomocowego - niezwłocznie po podjęciu uchwały Rady Ministrów o dokonaniu notyfikacji;
 
-2. Termin określony żądaniu, o którym mowa ust. 1, nie może być krótszy niż 14 dni, chyba że o informacje dotyczące udzielonej pomocy występuje Komisja.
+### 2)
 
-**Art. 40.**
+pomocy indywidualnej oraz pomocy indywidualnej na restrukturyzację - niezwłocznie po wydaniu opinii o zgodności pomocy ze wspólnym rynkiem albo po otrzymaniu wystąpienia o dokonanie notyfikacji, o którym mowa w art. 18 ust. 2, z zastrzeżeniem art. 18 ust. 3 i 4.
 
-1. (uchylony)
+### Rozdział 3 Postępowanie przed Komisją
 
-2. (uchylony)
+### Art. 21.
 
-3. (uchylony)
+### 1.
 
-4. (uchylony)
+W zakresie postępowania przed Komisją, o którym mowa w rozporządzeniu Rady, zwanego dalej „postępowaniem przed Komisją”, organem właściwym jest Prezes Urzędu.
 
-**Art. 41.**
+### 2.
 
-1. Pracownicy podmiotów realizujących zadania określone ustawie są zobowiązani do ochrony tajemnicy przedsiębiorstwa, jak również innych informacji podlegających ochronie na podstawie odrębnych przepisów, o których powzięli wiadomość związku z toczącymi się postępowaniami lub realizacją innych zadań określonych ustawie.
+W związku z postępowaniem przed Komisją organy administracji publicznej, które opracowały projekty programów pomocowych, podmioty udzielające pomocy, które opracowały projekty pomocy indywidualnej, podmioty ubiegające się o udzielenie pomocy lub inne właściwe podmioty przedstawiają Prezesowi Urzędu, w wyznaczonym terminie, informacje niezbędne do opracowania odpowiedzi na zapytania Komisji, wyjaśnień, uwag lub stanowisk.
 
-2. Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, wskazania podmiotu ubiegającego się o pomoc, beneficjenta pomocy, informacji o wielkości i formie udzielonej mu pomocy oraz o jej przeznaczeniu, podstawie prawnej, a także podmiotach udzielających pomocy. Komisji związku z realizacją zadań określonych prawem Unii Europejskiej zakresie pomocy publicznej, przekazywanie sprawozdań o udzielonej pomocy trybie art. 32 i art. 32a oraz sprawozdań o zaległościach, o których mowa art. 34 ust. 1.
+### 3.
 
-#### Rozdział 7 Kontrola u beneficjenta pomocy
+Prezes Urzędu konsultuje z podmiotami, o których mowa w ust. 2, treść odpowiedzi, wyjaśnień, uwag lub stanowisk - opracowanych przez niego na podstawie przekazanych informacji i niezwłocznie przekazuje je Komisji za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej w Brukseli.
 
-**Art. 42.**
+### Art. 22.
 
-1. W przypadku przeprowadzania przez Komisję kontroli, o której mowa art. 27 ust. 1 rozporządzenia Rady, zwanej dalej „kontrolą u beneficjenta pomocy”, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, jest upoważniony do przedstawiania Komisji uwag co do przeprowadzenia kontroli i zastrzeżeń co do wyboru biegłych.
+### 1.
 
-2. W trakcie kontroli u beneficjenta pomocy mogą być obecne osoby upoważnione przez Prezesa Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – ministra właściwego do spraw rolnictwa.
+W przypadku podjęcia przez Komisję decyzji, o których mowa w art. 4, art. 7, art. 10 ust. 3 i art. 11 rozporządzenia Rady, Prezes Urzędu niezwłocznie informuje o tym właściwy podmiot, przekazując mu jednocześnie kopię decyzji.
 
-**Art. 43.** Jeżeli beneficjent pomocy sprzeciwia się przeprowadzeniu kontroli, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, może skorzystać z pomocy funkcjonariuszy organów administracji rządowej, które są uprawnione do dokonywania kontroli, lub funkcjonariuszy Policji jednostki właściwej ze względu na siedzibę beneficjenta pomocy.
+### 2.
 
-#### Rozdział 8 Kary pieniężne
+W przypadku wydania przez Komisję zalecenia, o którym mowa w art. 18 rozporządzenia Rady, przepis ust. 1 stosuje się odpowiednio.
 
-**Art. 44.**
+### 3.
 
-1. Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa art. 21 ust. 2 i art. 39, oraz za utrudnianie przeprowadzenia kontroli u beneficjenta pomocy, Prezes Urzędu, a zakresie pomocy publicznej rolnictwie lub rybołówstwie – minister właściwy do spraw rolnictwa, może, drodze decyzji, nałożyć na beneficjenta karę pieniężną do wysokości równowartości 10 000 euro.
+Informacje o podjęciu przez Komisję decyzji, o których mowa w art. 4 i art. 7 rozporządzenia Rady, Prezes Urzędu ogłasza w powszechnie dostępnej sieci teleinformatycznej.
 
-2. Wysokość kar pieniężnych, o których mowa ust. 1, ustala się, uwzględniając szczególności stopień oraz okoliczności naruszenia przepisów ustawy. wydania decyzji Prezesa Urzędu albo decyzji ministra właściwego do spraw rolnictwa.
+### Art. 23.
 
-**Art. 45.**
+### 1.
 
-1. Karę pieniężną uiszcza się terminie 14 dni od dnia, którym decyzja Prezesa Urzędu albo ministra właściwego do spraw rolnictwa o jej nałożeniu na beneficjenta pomocy stała się ostateczna.
+Po otrzymaniu kopii decyzji Komisji, o której mowa w art. 11 ust. 1 rozporządzenia Rady, zobowiązującej do wstrzymania udzielania pomocy, podmiot udzielający pomocy niezwłocznie wstrzymuje jej udzielanie.
 
-2. W przypadku nieterminowego uiszczenia kary pieniężnej nalicza się odsetki ustawowe za opóźnienie.
+### 2.
 
-3. Przymusowe ściągnięcie kary pieniężnej następuje trybie przepisów o postępowaniu egzekucyjnym administracji.
+Po otrzymaniu kopii decyzji Komisji, o której mowa w art. 11 ust. 2 rozporządzenia Rady, zobowiązującej do zwrotu pomocy, podmiot udzielający pomocy niezwłocznie wydaje decyzję o zwrocie pomocy.
 
-4. Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
+### Art. 24.
 
-**Art. 46.**
+### 1.
 
-1. Od decyzji Prezesa Urzędu nakładającej karę pieniężną przysługuje odwołanie do sądu ochrony konkurencji i konsumentów terminie 14 dni od dnia jej doręczenia.
+Przed podjęciem przez Komisję decyzji, o której mowa w art. 4 i art. 7 rozporządzenia Rady, notyfikacja może być wycofana w przypadku projektu:
 
-2. Postępowanie sprawach odwołań od decyzji Prezesa Urzędu toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ) o postępowaniu sprawach z zakresu ochrony konkurencji.
+### 1)
 
-3. W przypadku wniesienia odwołania od decyzji Prezes Urzędu przekazuje je niezwłocznie wraz z aktami sprawy do sądu ochrony konkurencji i konsumentów.
+programu pomocowego - na wniosek organu administracji publicznej opracowującego ten projekt, za zgodą Rady Ministrów;
 
-4. (uchylony)
+### 2)
 
-#### Rozdział 9 Zmiany przepisach obowiązujących
+pomocy indywidualnej - na wniosek podmiotu udzielającego pomocy;
 
-**Art. 63.** W okresie 3 lat od dnia wejścia życie niniejszej ustawy, celu stwierdzenia, czy planowana pomoc dla przedsiębiorcy jest pomocą de minimis, podmiot udzielający pomocy bierze pod uwagę sumę:
+### 3)
 
-**Art. 64.** Z dniem wejścia życie niniejszej ustawy postępowania o wydanie opinii przez Prezesa Urzędu prowadzone trybie art. 24 lub 25 ustawy, o której mowa art. 71, ulegają umorzeniu.
+pomocy indywidualnej na restrukturyzację - na wniosek podmiotu ubiegającego się o pomoc lub podmiotu udzielającego pomocy.
 
-**Art. 65.** Jeżeli akty normatywne, o których mowa art. 6 ust. 2, nie są programami pomocowymi, podmioty właściwe są zobowiązane do przygotowania projektów odpowiednich zmian tych aktach terminie 1 miesiąca od dnia wejścia życie niniejszej ustawy. Art. 66–69. (pominięte)
+### 2.
 
-**Art. 70.**
+Prezes Urzędu niezwłocznie informuje Komisję o wycofaniu notyfikacji za pośrednictwem Stałego Przedstawicielstwa Rzeczypospolitej Polskiej przy Unii Europejskiej w Brukseli.
 
-1. Przepis art. 2 ustawy z dnia 19 września 2003 r. o zmianie ustawy o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. poz. 1850) traci moc po upływie 3 lat od dnia wejścia życie niniejszej ustawy, z tym że do pomocy publicznej, o której mowa art. 2 ust. 1 tej ustawy, stosuje się przepisy niniejszej ustawy o pomocy indywidualnej, z zastrzeżeniem ust. 2.
+### Rozdział 4 Zwrot pomocy przyznanej niezgodnie z zasadami wspólnego rynku oraz pomocy wykorzystanej niezgodnie z przeznaczeniem
 
-2. Pomoc publiczna udzielana zgodnie z warunkami określonymi rozporządzeniach wydanych na podstawie art. 2 ust. 2 ustawy wymienionej ust. 1, spełniających przesłanki określone dla programów pomocowych i co do których Komisja wydała decyzję o zgodności ze wspólnym rynkiem, nie podlega notyfikacji.
+### Art. 25.
 
-3. Do dnia 1 maja 2007 r. Rada Ministrów może, drodze rozporządzeń, ustanawiać programy pomocowe zakresie pomocy publicznej udzielanej na rynkiem.
+### 1.
 
-**Art. 71.** Traci moc ustawa z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. poz. 1177 oraz z 2003 r. poz. 1537, 1840, 1850 i 2261).
+Beneficjent pomocy jest zobowiązany do zwrotu kwoty stanowiącej równowartość udzielonej pomocy publicznej, co do której Komisja wydała decyzję o obowiązku zwrotu pomocy, chyba że wskutek wniesionego odwołania zostanie zawieszone wykonanie decyzji Komisji.
 
-**Art. 72.** Ustawa wchodzi życie z dniem ogłoszenia .
+### 2.
 
+Obowiązek zwrotu, o którym mowa w ust. 1, obejmuje również odsetki, o których mowa w art. 14 ust. 2 rozporządzenia Rady.
+
+### 3.
+
+Do czasu wykonania przez beneficjenta pomocy obowiązku, o którym mowa w ust. 1, żadna pomoc publiczna nie może zostać udzielona temu beneficjentowi.
+
+### Art. 26.
+
+### 1.
+
+Kopię decyzji Komisji o obowiązku zwrotu pomocy, o której mowa w art. 14 rozporządzenia Rady, oraz wydanej w przypadku, o którym mowa w art. 9 i art. 16 rozporządzenia Rady:
+
+### 1)
+
+Prezes Urzędu niezwłocznie przekazuje podmiotowi udzielającemu pomocy;
+
+### 2)
+
+podmiot udzielający pomocy niezwłocznie przekazuje beneficjentowi pomocy.
+
+### 2.
+
+Prezes Urzędu ogłasza w powszechnie dostępnej sieci teleinformatycznej informację o wydaniu decyzji Komisji, o której mowa w art. 14 rozporządzenia Rady, oraz wydanej w przypadku, o którym mowa w art. 9 i art. 16 rozporządzenia Rady, jak również informację o dokonaniu zwrotu pomocy przez beneficjenta pomocy.
+
+### Art. 27.
+
+### 1.
+
+W przypadku wydania decyzji Komisji o obowiązku zwrotu pomocy, o której mowa w art. 14 rozporządzenia Rady, jeżeli pomoc była udzielona na podstawie:
+
+### 1)
+
+decyzji - organ, który wydał decyzję, może ją uchylić albo zmienić również bez zgody stron lub nakazać zwrot udzielonej pomocy; przepisu art. 253a § 3 i art. 256 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894 i Nr 116, poz. 1205.](#gloss-0:2:)) nie stosuje się;
+
+### 2)
+
+umowy - podmiot udzielający pomocy może wystąpić do sądu o rozwiązanie umowy, na podstawie której udzielono pomocy lub o nakazanie zwrotu udzielonej pomocy.
+
+### 2.
+
+Przepis ust. 1 stosuje się również w przypadku wydania decyzji Komisji o obowiązku zwrotu pomocy w przypadkach, o których mowa w art. 9 i art. 16 rozporządzenia Rady.
+
+### 3.
+
+W postępowaniu cywilnym, postępowaniu administracyjnym i postępowaniu przed sądami administracyjnymi Prezesowi Urzędu przysługują uprawnienia prokuratora określone w odrębnych przepisach.
+
+### Art. 28.
+
+Przymusowe ściągnięcie kwoty stanowiącej równowartość udzielonej pomocy wraz z odsetkami następuje odpowiednio w trybie przepisów o postępowaniu egzekucyjnym w administracji albo w trybie przepisów o sądowym postępowaniu egzekucyjnym.
+
+### Rozdział 5 Postępowanie przed Trybunałem Sprawiedliwości
+
+### Art. 29.
+
+### 1.
+
+Prezes Urzędu jest organem właściwym do reprezentowania Rzeczypospolitej Polskiej w postępowaniach z zakresu pomocy publicznej toczących się przed Trybunałem Sprawiedliwości i Sądem Pierwszej Instancji, w których stroną jest Rzeczpospolita Polska.
+
+### 2.
+
+Prezes Urzędu jest organem właściwym do wnoszenia, za zgodą Rady Ministrów, w imieniu Rzeczypospolitej Polskiej, odwołania od decyzji Komisji do Trybunału Sprawiedliwości i Sądu Pierwszej Instancji w sprawach z zakresu pomocy publicznej.
+
+### 3.
+
+Rada Ministrów wyraża zgodę na wniesienie odwołania, o którym mowa w ust. 2, biorąc pod uwagę stanowisko podmiotu opracowującego projekt programu pomocowego, podmiotu udzielającego pomocy, stanowisko Prezesa Urzędu, a także stanowiska zgłoszone przez inne podmioty, które mają interes prawny w zakresie wniesienia odwołania od decyzji Komisji.
+
+### 4.
+
+Prezes Urzędu jest organem właściwym do wnoszenia, na wniosek i w imieniu organu jednostki samorządu terytorialnego, odwołania od decyzji Komisji do Trybunału Sprawiedliwości i Sądu Pierwszej Instancji, w sprawach z zakresu pomocy publicznej.
+
+### 5.
+
+Prezes Urzędu jest organem właściwym do wnoszenia, za zgodą Rady Ministrów, w imieniu Rzeczypospolitej Polskiej, spraw z zakresu pomocy publicznej do Trybunału Sprawiedliwości oraz uczestniczenia w postępowaniach toczących się w tym zakresie przed Trybunałem Sprawiedliwości i Sądem Pierwszej Instancji.
+
+### 6.
+
+Rada Ministrów wyraża zgodę, o której mowa w ust. 5, biorąc pod uwagę stanowisko Prezesa Urzędu.
+
+### 7.
+
+W sprawach z zakresu pomocy publicznej, toczących się przed Trybunałem Sprawiedliwości lub Sądem Pierwszej Instancji, Prezes Urzędu może korzystać z zastępstwa prawnego. Koszty zastępstwa prawnego są pokrywane z budżetu państwa w części, której dysponentem jest Prezes Urzędu, z zastrzeżeniem ust. 8.
+
+### 8.
+
+Jeżeli z wnioskiem o wniesienie odwołania występuje organ samorządu terytorialnego, koszty zastępstwa prawnego pokrywa ten organ.
+
+### Art. 30.
+
+Prezes Urzędu ogłasza niezwłocznie w powszechnie dostępnej sieci teleinformatycznej, w odniesieniu do postępowań, w których stroną jest Rzeczpospolita Polska, informacje o:
+
+### 1)
+
+wniesieniu odwołania od decyzji Komisji w sprawach dotyczących pomocy publicznej;
+
+### 2)
+
+wniesieniu do Trybunału Sprawiedliwości sprawy z zakresu pomocy publicznej;
+
+### 3)
+
+wydaniu orzeczenia Trybunału Sprawiedliwości lub Sądu Pierwszej Instancji w sprawach dotyczących pomocy publicznej.
+
+### Rozdział 6 Monitorowanie pomocy publicznej
+
+### Art. 31.
+
+### 1.
+
+Monitorowanie pomocy publicznej obejmuje gromadzenie, przetwarzanie i przekazywanie informacji o udzielanej pomocy publicznej, w szczególności o jej rodzajach, formach oraz wielkości.
+
+### 2.
+
+Organem monitorującym pomoc publiczną jest Prezes Urzędu.
+
+### Art. 32.
+
+### 1.
+
+Podmioty udzielające pomocy są zobowiązane do sporządzania i przedstawiania Prezesowi Urzędu sprawozdań o udzielonej pomocy publicznej, zawierających w szczególności informacje o beneficjentach pomocy oraz o rodzajach, formach, wielkości i przeznaczeniu udzielonej pomocy.
+
+### 2.
+
+W przypadku gdy beneficjent pomocy otrzymał pomoc na podstawie aktu normatywnego, o którym mowa w art. 6 ust. 2, do sporządzania i przedstawiania sprawozdań, o których mowa w ust. 1, są zobowiązane podmioty, które otrzymały od beneficjentów pomocy deklaracje lub inne dokumenty określające kwoty pomniejszenia świadczeń.
+
+### 3.
+
+Naczelnicy urzędów skarbowych i naczelnicy urzędów celnych oraz dyrektorzy izb skarbowych i dyrektorzy izb celnych przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem ministra właściwego do spraw finansów publicznych.
+
+### 4.
+
+Jednostki samorządu terytorialnego przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem regionalnych izb obrachunkowych.
+
+### 5.
+
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje sprawozdania, o których mowa w ust. 1, za pośrednictwem ministra właściwego do spraw środowiska, a wojewódzkie fundusze ochrony środowiska i gospodarki wodnej - za pośrednictwem marszałków województw.
+
+### 6.
+
+Wojewodowie przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem ministra właściwego do spraw administracji publicznej.
+
+### 7.
+
+Podmioty niewymienione w ust. 2-6 przekazują sprawozdania, o których mowa w ust. 1, za pośrednictwem organów je nadzorujących, a w przypadku braku takich organów - bezpośrednio Prezesowi Urzędu.
+
+### 8.
+
+Sprawozdania, o których mowa w ust. 1, przekazuje się przez teletransmisję danych w formie elektronicznej, na formularzu udostępnionym przez Prezesa Urzędu w powszechnie dostępnej sieci teleinformatycznej.
+
+### Art. 33.
+
+### 1.
+
+Podmioty udzielające pomocy są zobowiązane do przekazywania, na żądanie Prezesa Urzędu lub ministra właściwego do spraw finansów publicznych, informacji dotyczących udzielonej pomocy, w zakresie i terminie wskazanym w żądaniu.
+
+### 2.
+
+Podmioty opracowujące programy pomocowe przewidujące udzielanie pomocy w ramach wyłączeń grupowych, niezwłocznie informują Prezesa Urzędu - przez teletransmisję danych w formie elektronicznej, na formularzu udostępnionym przez Prezesa Urzędu w powszechnie dostępnej sieci teleinformatycznej - o rozpoczęciu udzielania pomocy na podstawie programu pomocowego.
+
+### 3.
+
+Podmioty udzielające pomocy indywidualnej w ramach wyłączeń grupowych niezwłocznie informują Prezesa Urzędu - przez teletransmisję danych w formie elektronicznej, na formularzu udostępnionym przez Prezesa Urzędu w powszechnie dostępnej sieci teleinformatycznej - o udzieleniu tej pomocy.
+
+### Art. 34.
+
+### 1.
+
+Organy właściwe do poboru należności są zobowiązane do przekazywania ministrowi właściwemu do spraw finansów publicznych sprawozdań o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych, w zakresie swojej właściwości.
+
+### 2.
+
+Przepisy art. 32 ust. 2-7 stosuje się odpowiednio.
+
+### Art. 35.
+
+Rada Ministrów określi, w drodze rozporządzenia, zakres sprawozdań, o których mowa w art. 32 ust. 1 i art. 34 ust. 1, okresy sprawozdawcze, terminy składania sprawozdań oraz wzory formularzy sprawozdań, mając na uwadze wymagania w zakresie skuteczności nadzorowania pomocy publicznej oraz obowiązków sprawozdawczych związanych z udzielaną pomocą.
+
+### Art. 36.
+
+### 1.
+
+Prezes Urzędu na podstawie sprawozdań, o których mowa w art. 32 ust. 1, opracowuje w porozumieniu z ministrem właściwym do spraw finansów publicznych i przedstawia Radzie Ministrów sprawozdanie zawierające wyniki monitorowania pomocy publicznej w roku poprzednim, w szczególności dane dotyczące wielkości, form i przeznaczenia pomocy publicznej, a także ocenę skutków udzielonej pomocy w sferze konkurencji.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych przedstawia Radzie Ministrów zbiorczą, roczną informację o zaległościach przedsiębiorców we wpłatach świadczeń należnych na rzecz sektora finansów publicznych.
+
+### 3.
+
+Sprawozdanie, o którym mowa w ust. 1, Rada Ministrów przedstawia Sejmowi do końca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+
+### Art. 37.
+
+### 1.
+
+Podmiot ubiegający się o pomoc de minimis jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o udzielenie pomocy, wszystkich zaświadczeń o pomocy de minimis, jakie otrzymał w ciągu 3 ostatnich lat poprzedzających dzień wystąpienia z wnioskiem o udzielenie pomocy.
+
+### 2.
+
+Prezes Urzędu przedstawia Komisji, na jej wniosek, o którym mowa w art. 3 ust. 3 rozporządzenia o pomocy de minimis, informacje o pomocy de minimis.
+
+### 3.
+
+Podmiot ubiegający się o pomoc inną, niż pomoc de minimis, jest zobowiązany do przedstawienia podmiotowi udzielającemu pomocy, wraz z wnioskiem o jej udzielenie, informacji o otrzymanej pomocy publicznej, zawierającej w szczególności dane o dacie jej udzielenia, podstawie prawnej, formie i przeznaczeniu.
+
+### 4.
+
+Rada Ministrów określi, w drodze rozporządzenia, wzory formularzy informacji o otrzymanej pomocy, o której mowa w ust. 3, biorąc pod uwagę przeznaczenie planowanej pomocy oraz konieczność zapewnienia nieprzekroczenia dopuszczalnej wielkości pomocy udzielonej w związku z realizacją danego przedsięwzięcia przez poszczególne podmioty ubiegające się o pomoc.
+
+### 5.
+
+Do czasu przekazania przez beneficjenta pomocy zaświadczeń lub informacji, o których mowa w ust. 1 albo 3, pomoc nie może być udzielona temu beneficjentowi.
+
+### Art. 38.
+
+Podmiot udzielający pomocy jest zobowiązany, udzielając pomocy publicznej, poinformować pisemnie beneficjenta pomocy o jej zatwierdzeniu przez Komisję zgodnie z art. 88 Traktatu WE bądź o braku obowiązku notyfikacji.
+
+### Art. 39.
+
+### 1.
+
+Beneficjent pomocy oraz podmiot ubiegający się o pomoc jest zobowiązany do przekazywania informacji o dotyczącej ich pomocy publicznej Prezesowi Urzędu lub podmiotowi udzielającemu pomocy - na ich żądanie, w zakresie i terminach określonych w żądaniu.
+
+### 2.
+
+Termin określony w żądaniu, o którym mowa w ust. 1, nie może być krótszy niż 30 dni, chyba że o informacje dotyczące udzielonej pomocy występuje Komisja.
+
+### Art. 40.
+
+### 1.
+
+Beneficjenci pomocy są zobowiązani do składania Prezesowi Urzędu lub podmiotowi udzielającemu pomocy okresowych sprawozdań dotyczących otrzymanej pomocy publicznej, z zastrzeżeniem ust. 2. Przepis art. 32 ust. 8 stosuje się odpowiednio.
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, zakres sprawozdań, o których mowa w ust. 1, organy, którym są składane sprawozdania, okresy sprawozdawcze, terminy składania sprawozdań, wzory formularzy sprawozdań oraz kategorie beneficjentów pomocy zobowiązanych do składania sprawozdań, uwzględniając w szczególności konieczność zapewnienia przejrzystości i skuteczności monitorowania pomocy publicznej.
+
+### 3.
+
+Przedsiębiorcy publiczni oraz inne podmioty, które w zakresie prowadzonej działalności gospodarczej, korzystając z praw wyłącznych lub specjalnych, lub wykonując zadania publiczne, otrzymują pomoc publiczną, z zastrzeżeniem ust. 4, są zobowiązani do:
+
+### 1)
+
+określenia w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2002 r. Nr 76, poz. 694](https://api.sejm.gov.pl/eli/acts/DU/2002/694/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:3:)), zasad rachunkowości, w tym zakładowego planu kont, w sposób zapewniający ujęcie w księgach rachunkowych przychodów i związanych z nimi kosztów odrębnie w odniesieniu do działalności wspieranej ze środków publicznych, a także metod przypisywania kosztów i przychodów do poszczególnych rodzajów prowadzonej działalności oraz
+
+### 2)
+
+przekazywania Prezesowi Urzędu sprawozdań dotyczących wykorzystywania pomocy publicznej, w szczególności w związku z realizacją praw wyłącznych lub specjalnych oraz wykonywaniem zadań publicznych, pozwalających na zapewnienie przejrzystości stosunków finansowych.
+
+### 4.
+
+Rada Ministrów określi, w drodze rozporządzenia, zakres sprawozdań, o których mowa w ust. 3 pkt 2, okresy sprawozdawcze, terminy składania sprawozdań, wzory formularzy sprawozdań oraz kategorie podmiotów zobowiązanych do składania sprawozdań lub do określania zasad i metod, o których mowa w ust. 3 pkt 1, biorąc pod uwagę w szczególności zakres działalności prowadzonej przez te podmioty oraz ich szczególną pozycję na rynku.
+
+### Art. 41.
+
+### 1.
+
+Informacje dotyczące beneficjenta pomocy oraz podmiotu ubiegającego się o pomoc, z wyjątkiem informacji o wielkości i formie udzielonej mu pomocy oraz jej przeznaczeniu, podstawie prawnej, a także podmiotach udzielających pomocy, są objęte tajemnicą służbową w rozumieniu przepisów o ochronie informacji niejawnych.
+
+### 2.
+
+Nie stanowi naruszenia tajemnicy służbowej przekazywanie Komisji informacji dotyczących pomocy udzielanej poszczególnym beneficjentom pomocy oraz przekazywanie sprawozdań o udzielonej pomocy publicznej w trybie art. 32 oraz sprawozdań o zaległościach, o których mowa w art. 34 ust. 1.
+
+### Rozdział 7 Kontrola u beneficjenta pomocy
+
+### Art. 42.
+
+### 1.
+
+W przypadku przeprowadzania przez Komisję kontroli, o której mowa w art. 22 ust. 1 rozporządzenia Rady, zwanej dalej „kontrolą u beneficjenta pomocy”. Prezes Urzędu jest upoważniony do przedstawiania Komisji uwag co do przeprowadzenia kontroli i zastrzeżeń co do wyboru biegłych.
+
+### 2.
+
+W trakcie kontroli u beneficjenta pomocy mogą być obecne osoby upoważnione przez Prezesa Urzędu.
+
+### Art. 43.
+
+Jeżeli beneficjent pomocy sprzeciwia się przeprowadzeniu kontroli, Prezes Urzędu może skorzystać z pomocy funkcjonariuszy organów administracji rządowej, które są uprawnione do dokonywania kontroli, lub funkcjonariuszy Policji jednostki właściwej ze względu na siedzibę beneficjenta pomocy.
+
+### Rozdział 8 Kary pieniężne
+
+### Art. 44.
+
+### 1.
+
+Za niewykonanie lub nienależyte wykonanie obowiązków, o których mowa w art. 39 oraz art. 40 ust. 1 i ust. 3 pkt 2, oraz za utrudnianie przeprowadzania kontroli u beneficjenta pomocy Prezes Urzędu może, w drodze decyzji, nałożyć na beneficjenta pomocy karę pieniężną do wysokości równowartości 10 000 euro.
+
+### 2.
+
+Wysokość kar pieniężnych, o których mowa w ust. 1, ustala się, uwzględniając w szczególności stopień oraz okoliczności naruszenia przepisów ustawy.
+
+### 3.
+
+Kwotę, o której mowa w ust. 1, przelicza się na złote według kursu średniego walut obcych ogłoszonego przez Narodowy Bank Polski, obowiązującego w dniu wydania decyzji Prezesa Urzędu.
+
+### Art. 45.
+
+### 1.
+
+Karę pieniężną uiszcza się w terminie 14 dni od dnia uprawomocnienia się decyzji Prezesa Urzędu.
+
+### 2.
+
+W przypadku nieterminowego uiszczenia kary pieniężnej nalicza się odsetki ustawowe.
+
+### 3.
+
+Przymusowe ściągnięcie kary pieniężnej następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 4.
+
+Środki finansowe pochodzące z kar pieniężnych stanowią dochód budżetu państwa.
+
+### Art. 46.
+
+### 1.
+
+Od decyzji Prezesa Urzędu nakładającej karę pieniężną przysługuje odwołanie do sądu ochrony konkurencji i konsumentów w terminie 14 dni od dnia jej doręczenia.
+
+### 2.
+
+Postępowanie w sprawach odwołań od decyzji Prezesa Urzędu toczy się według przepisów ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255 oraz z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891 i Nr 121, poz. 1264.](#gloss-0:4:)) o postępowaniu w sprawach gospodarczych.
+
+### 3.
+
+W przypadku wniesienia odwołania od decyzji Prezes Urzędu przekazuje je niezwłocznie wraz z aktami sprawy do sądu ochrony konkurencji i konsumentów.
+
+### 4.
+
+W sprawach nieuregulowanych w niniejszym rozdziale do postępowania przed Prezesem Urzędu stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660.](#gloss-0:5:)).
+
+### Rozdział 9 Zmiany w przepisach obowiązujących
+
+### Art. 47.
+
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. z 2002 r. Nr 9, poz. 84](https://api.sejm.gov.pl/eli/acts/DU/2002/84/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 200, poz. 1683, z 2003 r. Nr 96, poz. 874, Nr 110, poz. 1039, Nr 188, poz. 1840, Nr 200, poz. 1953 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 880 i 884 i Nr 96, poz. 959.](#gloss-0:6:)) w art. 7 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Rada gminy, w drodze uchwały, może wprowadzić inne zwolnienia przedmiotowe niż określone w ust. 1 oraz w art. 10 ust. 1 ustawy z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw.
+
+” .
+
+### Art. 48.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2000 r. Nr 14, poz. 176](https://api.sejm.gov.pl/eli/acts/DU/2000/176/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207 i Nr 120, poz. 1252.](#gloss-0:7:)) w art. 21 w ust. 1 pkt 63a otrzymuje brzmienie:
+
+„
+
+### 63a)
+
+dochody podatników, z zastrzeżeniem ust. 5a-5c, uzyskane z działalności gospodarczej prowadzonej na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia, o którym mowa w art. 16 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ([Dz. U. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 117, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2000/1228/text.html), z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 240, poz. 2055](https://api.sejm.gov.pl/eli/acts/DU/2002/2055/text.html) oraz z [2003 r. Nr 188, poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.html)), przy czym wielkość pomocy publicznej udzielanej w formie niniejszego zwolnienia nie może przekroczyć wielkości pomocy publicznej dla przedsiębiorcy, dopuszczalnej dla obszarów kwalifikujących się do uzyskania pomocy w największej wysokości, zgodnie z odrębnymi przepisami,
+
+” .
+
+### Art. 49.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2000 r. Nr 54, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/2000/654/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218 oraz z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894 i Nr 116, poz. 1203.](#gloss-0:8:)) w art. 17 w ust. 1 pkt 34 otrzymuje brzmienie:
+
+„
+
+### 34)
+
+dochody, z zastrzeżeniem ust. 4-6, uzyskane z działalności gospodarczej prowadzonej na terenie specjalnej strefy ekonomicznej na podstawie zezwolenia, o którym mowa w art. 16 ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ([Dz. U. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 117, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2000/1228/text.html), z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 240, poz. 2055](https://api.sejm.gov.pl/eli/acts/DU/2002/2055/text.html) oraz z [2003 r. Nr 188, poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.html)), przy czym wielkość pomocy publicznej udzielanej w formie tego zwolnienia nie może przekroczyć wielkości pomocy publicznej dla przedsiębiorcy, dopuszczalnej dla obszarów kwalifikujących się do uzyskania pomocy w największej wysokości, zgodnie z odrębnymi przepisami,
+
+” .
+
+### Art. 50.
+
+W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ([Dz. U. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055 oraz z 2003 r. Nr 188, poz. 1840.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 4 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+warunki udzielania pomocy publicznej przedsiębiorcom prowadzącym działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy z prawem Unii Europejskiej,
+
+” ;
+
+### 2)
+
+w art. 5a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki, uzgodniony z ministrem właściwym do spraw rozwoju regionalnego, w drodze rozporządzenia, może znieść strefę przed upływem okresu, na jaki została ona ustanowiona, zmienić jej obszar lub połączyć strefy, biorąc pod uwagę, że łączny obszar wszystkich stref nie może przekroczyć dotychczas ustalonego łącznego obszaru stref, z uwzględnieniem ust. 5, a także mając na względzie tworzenie jak najlepszych warunków funkcjonowania stref.
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Łączny obszar stref, o którym mowa w ust. 1, może zostać zwiększony do 8 tys. ha, z tym że zwiększenie może być przeznaczone wyłącznie na realizację nowej inwestycji o wartości co najmniej 40 mln euro lub tworzącej co najmniej 500 nowych miejsc pracy.
+
+” ;
+
+### 3)
+
+w art. 12 uchyla się zdanie drugie.
+
+### Art. 51.
+
+W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ([Dz. U. z 2001 r. Nr 85, poz. 937](https://api.sejm.gov.pl/eli/acts/DU/2001/937/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html)) w art. 2 w ust. 3 pkt 5a otrzymuje brzmienie:
+
+„
+
+### 5a)
+
+udzielają lub korzystają z pomocy publicznej podlegającej monitorowaniu w rozumieniu odrębnych przepisów,
+
+” .
+
+### Art. 52.
+
+W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych ([Dz. U. Nr 13, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1995/60/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719, z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690, Nr 121, poz. 770 i Nr 158, poz. 1044, z 1999 r. Nr 27, poz. 243, Nr 63, poz. 702 i Nr 70, poz. 778, z 2000 r. Nr 122, poz. 1315, z 2001 r. Nr 72, poz. 744 i 746, z 2003 r. Nr 104, poz. 962 i Nr 188, poz. 1839 oraz z 2004 r. Nr 91, poz. 867.](#gloss-0:10:)) w art. 3 uchyla się ust. 3.
+
+### Art. 53.
+
+W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ([Dz. U. Nr 106, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/1996/493/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055 oraz z 2004 r. Nr 99, poz. 1001.](#gloss-0:11:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 dodaje się pkt 8a i 8b w brzmieniu:
+
+„
+
+### 8a)
+
+udziela pomocy na ratowanie i na restrukturyzację przedsiębiorstw państwowych, spółek z udziałem Skarbu Państwa, spółek, którym oddano przedsiębiorstwo do odpłatnego korzystania na podstawie art. 51 i 52 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ([Dz. U. z 2002 r. Nr 171, poz. 1397](https://api.sejm.gov.pl/eli/acts/DU/2002/1397/text.html) i [Nr 240, poz. 2055](https://api.sejm.gov.pl/eli/acts/DU/2002/2055/text.html), z [2003 r. Nr 60, poz. 535](https://api.sejm.gov.pl/eli/acts/DU/2003/535/text.html) i [Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html) oraz z [2004 r. Nr 6, poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2004/39/text.html)) - spełniających kryteria małego lub średniego przedsiębiorcy w rozumieniu załącznika do rozporządzenia nr 70/2001 z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001 r.),
+
+### 8b)
+
+zatwierdza plany restrukturyzacji przedsiębiorstw, o których mowa w pkt 8a, w przypadku gdy plany te przewidują udzielenie pomocy na restrukturyzację przez ministra właściwego do spraw Skarbu Państwa, albo ministra właściwego do spraw Skarbu Państwa wraz z innymi podmiotami,
+
+” ;
+
+### 2)
+
+dodaje się art. 2b w brzmieniu:
+
+„
+
+### Art. 2b.
+
+Minister właściwy do spraw Skarbu Państwa określi, w drodze rozporządzenia, tryb, warunki oraz formy udzielania pomocy, o której mowa w art. 2 pkt 8a, uwzględniając w szczególności konieczność ukierunkowania pomocy na ratowanie na pomoc udzielaną w celu umożliwienia przedsiębiorcy funkcjonowania przez czas konieczny na przygotowanie planu restrukturyzacyjnego przedsiębiorstwa, a pomocy na restrukturyzację - na przywrócenie długookresowej zdolności do konkurowania na rynku.
+
+” .
+
+### Art. 54.
+
+W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ([Dz. U. z 2002 r. Nr 171, poz. 1397](https://api.sejm.gov.pl/eli/acts/DU/2002/1397/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844 oraz z 2004 r. Nr 6, poz. 39.](#gloss-0:12:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 35 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób finansowania zbywania akcji oraz wymaganą formę zapłaty za akcje nabywane od Skarbu Państwa, uwzględniając zapewnienie przejrzystości procedur i należyte zabezpieczenie interesu Skarbu Państwa,
+
+### 2)
+
+warunki, w których zapłata za akcje może być rozłożona na raty, uwzględniając że zastosowanie stawki oprocentowania korzystniejszej od oferowanej na rynku stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji.
+
+” ;
+
+### 2)
+
+w art. 48 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy tryb sprzedaży, o której mowa w ust. 1, uwzględniając zapewnienie przejrzystości i otwartości procedur,
+
+### 2)
+
+warunki, w których zapłata należności za przedsiębiorstwo może być rozłożona na raty, uwzględniając że zastosowanie stawki oprocentowania korzystniejszej od oferowanej na rynku stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji.
+
+” ;
+
+### 3)
+
+w art. 54 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki spłaty należności za korzystanie z przedsiębiorstwa, uwzględniając że ustalenie warunków korzystniejszych od oferowanych na rynku stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji,
+
+### 2)
+
+sposób i zakres zmiany warunków, o których mowa w pkt 1, uwzględniając że ich zmiana stanowi pomoc publiczną na restrukturyzację i jest możliwa w przypadkach, w których przejmujący jest przedsiębiorcą znajdującym się w trudnej sytuacji ekonomicznej,
+
+### 3)
+
+sposób zabezpieczenia niespłaconej części należności, jeżeli własność przedsiębiorstwa przeniesiono przed uiszczeniem pełnej należności za przedsiębiorstwo ustalonej w umowie, uwzględniając należyte zabezpieczenie interesu Skarbu Państwa,
+
+### 4)
+
+warunki oprocentowania niespłaconej części należności, w przypadku wcześniejszego przeniesienia własności przedsiębiorstwa, uwzględniając że ustalenie stawki oprocentowania korzystniejszej od oferowanej na rynku stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji.
+
+” ;
+
+### 4)
+
+w art. 56:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+15% przychodów uzyskanych z prywatyzacji w danym roku budżetowym przeznacza się na pomoc na ratowanie i pomoc na restrukturyzację,
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw Skarbu Państwa podwyższa corocznie kapitał zakładowy Agencji Rozwoju Przemysłu S.A. o kwotę stanowiącą 1/3 przychodów środka specjalnego, o którym mowa w ust. 1 pkt 2, z przeznaczeniem tych środków na udzielanie pomocy na ratowanie i na restrukturyzację przedsiębiorców innych aniżeli przedsiębiorcy mali i średni w rozumieniu załącznika do rozporządzenia nr 70/2001 z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001 r.).
+
+” .
+
+### Art. 55.
+
+W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. z 2003 r. Nr 174, poz. 1689](https://api.sejm.gov.pl/eli/acts/DU/2003/1689/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 uchyla się ust. 3;
+
+### 2)
+
+w art. 2c w ust. 3 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+ustalenie stawek opłaty prowizyjnej od poręczeń i gwarancji, których udzielenie nie stanowi pomocy publicznej w rozumieniu przepisów o pomocy publicznej.
+
+” .
+
+### Art. 56.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), z późn. zm.[13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894 i Nr 116, poz. 1205.](#gloss-0:13:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 22 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Zaniechanie poboru podatku w trybie określonym w § 1 pkt 1 w stosunku do podatników będących beneficjentami pomocy, następuje z uwzględnieniem przepisów ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291).
+
+” ;
+
+### 2)
+
+w art. 48 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Odraczanie terminu płatności podatku lub rozkładanie na raty zapłaty podatku oraz odraczanie lub rozkładanie na raty zapłaty zaległości podatkowej, na wniosek podatnika będącego beneficjentem pomocy, następuje z uwzględnieniem przepisów ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+
+” ;
+
+### 3)
+
+w art. 67 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Umarzanie zaległości podatkowych, odsetek za zwłokę lub opłaty prolongacyjnej na wniosek podatnika będącego beneficjentem pomocy, następuje z uwzględnieniem przepisów ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej.
+
+” .
+
+### Art. 57.
+
+W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ([Dz. U. z 2003 r. Nr 15, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2003/148/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890 i Nr 121, poz. 1264.](#gloss-0:14:)) art. 76a otrzymuje brzmienie:
+
+„
+
+### Art. 76a.
+
+Dotacja celowa może być udzielona przedsiębiorcy, w przypadku dokonywania przez przedsiębiorcę nowej inwestycji, na zasadach określonych w przepisach o finansowym wspieraniu inwestycji.
+
+” .
+
+### Art. 58.
+
+W ustawie z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej ([Dz. U. Nr 83, poz. 932](https://api.sejm.gov.pl/eli/acts/DU/1999/932/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 119, poz. 1250, z 2001 r. Nr 76, poz. 805 i Nr 100, poz. 1080, z 2002 r. Nr 240, poz. 2053 oraz z 2004 r. Nr 19, poz. 177 i Nr 120, poz. 1252.](#gloss-0:15:)) w art. 5b ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Podstawą udzielenia wsparcia jest decyzja ministra właściwego do spraw gospodarki, z zastrzeżeniem ust. 10.
+
+” .
+
+### Art. 59.
+
+W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych ([Dz. U. Nr 86, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2000/959/text.html), z późn. zm.[16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 103, poz. 1099, z 2001 r. Nr 100, poz. 1085, z 2002 r. Nr 121, poz. 1031 i Nr 199, poz. 1672, z 2003 r. Nr 80, poz. 721, Nr 96, poz. 874, Nr 137, poz. 1302 i Nr 210, poz. 2037 oraz z 2004 r. Nr 6, poz. 42, Nr 42, poz. 386 i Nr 54, poz. 535.](#gloss-0:16:)) w art. 2 w pkt 1 dodaje się lit. i w brzmieniu:
+
+„
+
+### i)
+
+udzielania pomocy na ratowanie i pomocy na restrukturyzację,
+
+” .
+
+### Art. 60.
+
+W ustawie z dnia 20 marca 2002 r. o finansowym wspieraniu inwestycji ([Dz. U. Nr 41, poz. 363](https://api.sejm.gov.pl/eli/acts/DU/2002/363/text.html) i [Nr 141, poz. 1177](https://api.sejm.gov.pl/eli/acts/DU/2002/1177/text.html) oraz z [2003 r. Nr 159, poz. 1537](https://api.sejm.gov.pl/eli/acts/DU/2003/1537/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 1 otrzymuje brzmienie:
+
+„
+
+### Art. 1.
+
+### 1.
+
+Ustawa określa zasady, formy i szczegółowe warunki udzielania pomocy regionalnej dla przedsiębiorców prowadzących działalność gospodarczą na terenie Rzeczypospolitej Polskiej:
+
+### 1)
+
+dokonujących nowych inwestycji,
+
+### 2)
+
+tworzących nowe miejsca pracy związane z nowymi inwestycjami.
+
+### 2.
+
+Przepisów ustawy nie stosuje się do udzielania wsparcia finansowego przedsiębiorcom prowadzącym działalność gospodarczą w sektorze włókien syntetycznych, górnictwa węgla, hutnictwa żelaza i stali, budownictwa okrętowego, rybołówstwa oraz w zakresie produkcji, przetwórstwa i obrotu towarami rolnymi wymienionymi w Załączniku nr 1 do Traktatu ustanawiającego Wspólnotę Europejską.
+
+” ;
+
+### 2)
+
+w art. 2 w ust. 1:
+
+### a)
+
+pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+ustawie o pomocy publicznej - należy przez to rozumieć ustawę z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291),
+
+### 2)
+
+pomocy - należy przez to rozumieć pomoc państwa spełniającą przesłanki, o których mowa w art. 87 ust. 1 Traktatu WE,
+
+” ,
+
+### b)
+
+pkt 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5)
+
+nowej inwestycji - należy przez to rozumieć inwestycję, związaną z utworzeniem lub rozbudową przedsiębiorstwa, jak również z rozpoczęciem w przedsiębiorstwie działań obejmujących dokonywanie zasadniczych zmian produkcji bądź procesu produkcyjnego, zmian wyrobu lub usługi, w tym także zmian w zakresie sposobu świadczenia usług,
+
+### 6)
+
+wielkości pomocy - należy przez to rozumieć wielkość pomocy, o której mowa w art. 2 pkt 13 ustawy o pomocy publicznej,
+
+” ,
+
+### c)
+
+uchyla się pkt 7,
+
+### d)
+
+pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+utworzeniu nowych miejsc pracy związanych z nową inwestycją - należy przez to rozumieć przyrost netto miejsc pracy w danym przedsiębiorstwie w wyniku dokonania nowej inwestycji w określonym przedziale czasu, nie dłuższym niż 3 lata od dnia zakończenia inwestycji,
+
+” ,
+
+### e)
+
+uchyla się pkt 9,
+
+### f)
+
+pkt 13 otrzymuje brzmienie:
+
+„
+
+### 13)
+
+dniu udzielenia wsparcia finansowego - należy przez to rozumieć dzień udzielenia pomocy, o którym mowa w art. 2 pkt 11 ustawy o pomocy publicznej,
+
+” ,
+
+### g)
+
+dodaje się pkt 16 i 17 w brzmieniu:
+
+„
+
+### 16)
+
+dużym projekcie inwestycyjnym - należy przez to rozumieć nową inwestycję, w której wydatki kwalifikujące się do objęcia wsparciem przekraczają równowartość 50 mln euro, przy czym:
+
+### a)
+
+koszty nowej inwestycji są wydatkami na środki trwałe, dokonanymi w okresie trzech lat przez jednego lub więcej przedsiębiorców realizujących tę inwestycję, oraz
+
+### b)
+
+środki trwałe są powiązane ze sobą fizycznie lub funkcjonalnie i służą do realizacji ściśle określonego celu, w szczególności produkcji konkretnego produktu lub różnych produktów, jeżeli są one wytwarzane przy wykorzystaniu takich samych surowców,
+
+### 17)
+
+dniu zakończenia inwestycji - należy przez to rozumieć dzień, w którym wspierana inwestycja, według harmonogramu realizacji projektu inwestycyjnego, o którym mowa w art. 12 ust. 3, została zakończona.
+
+” ;
+
+### 3)
+
+w art. 3:
+
+### a)
+
+w pkt 1 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+wartość nowej inwestycji jest nie mniejsza niż równowartość kwoty 500 000 euro, w przypadku gdy inwestycja dotyczy rozbudowy lub modernizacji istniejącego przedsiębiorstwa i wiąże się z utrzymaniem co najmniej 100 miejsc pracy, przez nie mniej niż 5 lat, lub,
+
+” ,
+
+### b)
+
+pkt 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3)
+
+działalność gospodarcza związana ze wspartą inwestycją będzie prowadzona przez co najmniej 5 lat od dnia zakończenia inwestycji,
+
+### 4)
+
+w przypadku wsparcia finansowego, które ma być przeznaczone na tworzenie nowych miejsc pracy - nowo utworzone miejsca pracy będą utrzymane przez co najmniej 5 lat od dnia zakończenia inwestycji, w związku z którą zostały utworzone,
+
+” ;
+
+### 4)
+
+art. 4-6 otrzymują brzmienie:
+
+„
+
+### Art. 4.
+
+### 1.
+
+Wydatkami kwalifikującymi się do objęcia wsparciem są:
+
+### 1)
+
+cena nabycia gruntów do wysokości 10% całkowitych wydatków projektu inwestycyjnego kwalifikujących się do objęcia wsparciem,
+
+### 2)
+
+cena nabycia albo koszt wytworzenia nowych środków trwałych, w tym:
+
+### a)
+
+budowli i budynków,
+
+### b)
+
+maszyn i urządzeń,
+
+### c)
+
+narzędzi, przyrządów i aparatury,
+
+### d)
+
+wyposażenia technicznego dla prac biurowych,
+
+### e)
+
+infrastruktury technicznej związanej z nową inwestycją, przy czym przez budowę urządzeń infrastruktury technicznej rozumie się urządzenie albo modernizację drogi oraz wybudowanie pod ziemią, na ziemi albo nad ziemią przewodów lub urządzeń wodociągowych, kanalizacyjnych, ciepłowniczych, elektrycznych, gazowych i telekomunikacyjnych,
+
+### 3)
+
+cena nabycia używanych środków trwałych,
+
+### 4)
+
+cena nabycia wartości niematerialnych i prawnych polegających na uzyskaniu patentu, nabyciu licencji lub nieopatentowanego know-how, do wysokości 25% sumy wydatków, o których mowa w pkt 1-3, kwalifikujących się do objęcia wsparciem,
+
+### 5)
+
+koszt instalacji i uruchomienia środków trwałych,
+
+### 6)
+
+cena nabycia materiałów lub robót budowlanych, pod warunkiem że pozostają w bezpośrednim związku z celami projektu objętego wsparciem,
+
+### 7)
+
+opłaty za porady prawne, opłaty notarialne, koszty ekspertyz technicznych i finansowych, o ile koszty te są bezpośrednio związane z inwestycją oraz są konieczne do jej przygotowania i realizacji,
+
+### 8)
+
+opłaty za prowadzenie rachunku bankowego, o ile wypłata wsparcia wymaga otwarcia odrębnego rachunku bankowego, za czas dokonywania wypłat.
+
+### 2.
+
+Wydatki, o których mowa w ust. 1, kwalifikuje się do objęcia wsparciem:
+
+### 1)
+
+w przypadku wydatków, o których mowa w ust. 1 pkt 1, jeżeli:
+
+### a)
+
+istnieje bezpośredni związek pomiędzy nabyciem gruntów a realizowanym projektem inwestycyjnym,
+
+### b)
+
+przedstawiono wycenę gruntów sporządzoną przez uprawnionego rzeczoznawcę, stwierdzającą, że zakup nastąpił za cenę nieprzekraczającą ceny rynkowej,
+
+### 2)
+
+w przypadku wydatków, o których mowa w ust. 1 pkt 2 lit. a), jeżeli:
+
+### a)
+
+istnieje bezpośredni związek między nabyciem budynków i budowli a celami projektu objętego wsparciem,
+
+### b)
+
+przedsiębiorca przedstawi:
+
+- - zaświadczenie potwierdzające, że cena nabycia nie przekracza wartości rynkowej, wydane przez niezależnego, uprawnionego rzeczoznawcę lub posiadający odpowiednie uprawnienia organ,
+
+- - opinię rzeczoznawcy budowlanego, posiadającego uprawnienia budowlane i zatrudnionego w powiatowym albo wojewódzkim inspektoracie nadzoru budowlanego stwierdzającą, że obiekt nadaje się do użytkowania w określonym celu, zgodnym z celami projektu objętego wsparciem,
+
+### c)
+
+budowle i budynki w ciągu 10 lat poprzedzających złożenie wniosku o wsparcie finansowe nie były finansowane z wykorzystaniem pomocy lub środków pochodzących z funduszy Unii Europejskiej,
+
+### d)
+
+budowle i budynki będą użytkowane zgodnie z celami projektu objętego wsparciem finansowym,
+
+### 3)
+
+w przypadku wydatków, o których mowa w ust. 1 pkt 3, jeżeli:
+
+### a)
+
+dostawca złożył oświadczenie określające pochodzenie używanych środków trwałych oraz potwierdzające, że w ciągu 7 lat poprzedzających złożenie wniosku o wsparcie finansowe nie zostały one nabyte z wykorzystaniem pomocy lub środków pochodzących z funduszy Unii Europejskiej; oświadczenie, o którym mowa, składa przedsiębiorca do podmiotu udzielającego pomocy w formie pisemnej w ciągu 14 dni od dnia nabycia używanych środków trwałych,
+
+### b)
+
+cena nie przekracza wartości rynkowej i jest niższa od ceny nowych środków trwałych,
+
+### c)
+
+posiadają właściwości techniczne niezbędne do realizacji projektu objętego wsparciem,
+
+### d)
+
+spełniają obowiązujące normy i standardy,
+
+### 4)
+
+w przypadku wydatków, o których mowa w ust. 1 pkt 4, jeżeli:
+
+### a)
+
+będą wykorzystywane wyłącznie przez przedsiębiorcę otrzymującego pomoc regionalną,
+
+### b)
+
+będą nabyte od osoby trzeciej na warunkach nieodbiegających od normalnych praktyk inwestycyjnych,
+
+### c)
+
+będą stanowić własność przedsiębiorcy przez okres co najmniej 5 lat,
+
+### d)
+
+podlegają amortyzacji zgodnie z odrębnymi przepisami.
+
+### 3.
+
+Wydatkiem kwalifikującym się do objęcia wsparciem finansowym jest wydatek na utworzenie nowych miejsc pracy; na wydatek ten składają się koszty płacy brutto pracowników powiększone o wszystkie obowiązkowe płatności związane z ich zatrudnieniem.
+
+### 4.
+
+W przypadku przedsiębiorcy wykonującego działalność gospodarczą w zakresie usług transportowych wydatki na zakup środków transportu nie są wydatkami kwalifikującymi się do objęcia wsparciem.
+
+### 5.
+
+Cenę nabycia i koszt wytworzenia środków trwałych oraz wartości niematerialnych i prawnych ustala się zgodnie z przepisami o rachunkowości.
+
+### Art. 5.
+
+### 1.
+
+Wsparcie finansowe inwestycji udzielone przedsiębiorcy może być przeznaczone na dofinansowanie wydatków kwalifikujących się do objęcia wsparciem finansowym inwestycji, o których mowa w art. 4 ust. 1 - do wysokości 50% maksymalnej intensywności lub wartości pomocy, określonej w ust. 3-6, lub do wysokości maksymalnego wsparcia finansowego.
+
+### 2.
+
+Wsparcie finansowe inwestycji udzielone przedsiębiorcy może być przeznaczone również na wydatki związane z utworzeniem nowych miejsc pracy, o których mowa w art. 4 ust. 3 - do wysokości równowartości 4 000 euro na jedno utworzone miejsce pracy, przy czym wielkość tego wsparcia nie może przekroczyć części dwuletnich kosztów pracy nowo zatrudnionych pracowników, odpowiadającej maksymalnej intensywności lub wartości pomocy, o której mowa w ust. 3-6, lub wysokości maksymalnego wsparcia finansowego.
+
+### 3.
+
+Maksymalna intensywność pomocy, z zastrzeżeniem ust. 4-6, wynosi:
+
+### 1)
+
+30% wydatków kwalifikujących się do objęcia wsparciem - w przypadku inwestycji realizowanych na obszarach należących do podregionów oznaczonych numerami statystycznymi 22 i 42,
+
+### 2)
+
+40% wydatków kwalifikujących się do objęcia wsparciem - w przypadku inwestycji realizowanych na obszarach należących do podregionów oznaczonych numerami statystycznymi 4, 17 i 30,
+
+### 3)
+
+50% wydatków kwalifikujących się do objęcia wsparciem - w przypadku inwestycji realizowanych na pozostałych obszarach kraju.
+
+### 4.
+
+W przypadku wsparcia finansowego udzielanego małemu lub średniemu przedsiębiorcy, z wyłączeniem przedsiębiorców prowadzących działalność gospodarczą w sektorze transportu, maksymalną intensywność pomocy podwyższa się o 15 punktów procentowych brutto.
+
+### 5.
+
+W przypadku wsparcia finansowego udzielanego przedsiębiorcom prowadzącym działalność gospodarczą w sektorze motoryzacyjnym, maksymalna intensywność pomocy wynosi 30% intensywności, o której mowa w ust. 3, jeżeli kwota planowanego wsparcia finansowego wyrażona jako ekwiwalent dotacji brutto przekracza równowartość 5 000 000 euro.
+
+### 6.
+
+W przypadku wsparcia finansowego udzielanego przedsiębiorcy na realizację dużego projektu inwestycyjnego, maksymalną wartość pomocy ustala się zgodnie z wzorem: \( I = R \times \left( {50{\rm\ mln} + 0,5 \times B + 0,34 \times C} \right) \) gdzie poszczególne symbole oznaczają: I - maksymalną wartość pomocy dla dużego projektu inwestycyjnego, R - intensywność pomocy, o której mowa w ust. 3 - w zależności od obszaru, na którym ma być zlokalizowana inwestycja, B - wielkość wydatków kwalifikujących się do objęcia wsparciem finansowym powyżej 50 000 000 euro - nieprzekraczającą równowartości 100 000 000 euro, C - wielkość wydatków kwalifikujących się do objęcia wsparciem finansowym przekraczającą równowartość 100 000 000 euro.
+
+### 7.
+
+Pomoc przeznaczona na nowe inwestycje może być udzielana wraz z pomocą na tworzenie nowych miejsc pracy, pod warunkiem że łącznie intensywność tych pomocy nie przekracza maksymalnej intensywności lub wartości pomocy, o której mowa w ust. 3-6, przy czym dopuszczalną wielkość pomocy określa się jako iloczyn maksymalnej intensywności pomocy i wyższej kwoty kosztów nowej inwestycji albo dwuletnich kosztów pracy nowo zatrudnionych pracowników.
+
+### Art. 6.
+
+### 1.
+
+Wsparcie finansowe, o którym mowa w ustawie, podlega sumowaniu z pomocą uzyskaną przez przedsiębiorcę w innych formach oraz z innych źródeł przeznaczoną na nową inwestycję lub tworzenie nowych miejsc pracy i nie może przekroczyć maksymalnej intensywności lub wartości pomocy, o której mowa w art. 5 ust. 3-6, lub wysokości maksymalnego wsparcia finansowego, o którym mowa w art. 5 ust. 7.
+
+### 2.
+
+Duży projekt inwestycyjny, w odniesieniu do którego wysokość projektowanej pomocy przewyższa maksymalne dopuszczalne wsparcie, jakie inwestycja o wartości 100 000 000 euro mogłaby otrzymać z uwzględnieniem zasad stosowanych przy obliczaniu wsparcia dla dużych projektów inwestycyjnych, podlega notyfikacji w trybie indywidualnego postępowania notyfikacyjnego, o którym mowa w przepisach odrębnych.
+
+” ;
+
+### 5)
+
+uchyla się art. 9;
+
+### 6)
+
+w art. 10:
+
+### a)
+
+w ust. 1 uchyla się pkt 9 i 12,
+
+### b)
+
+w ust. 2 dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+opis nowej technologii przewidzianej do wykorzystania w ramach inwestycji oraz okres jej stosowania na świecie, potwierdzony w opinii niezależnego podmiotu, dysponującego wiedzą w tym zakresie.
+
+” ;
+
+### 7)
+
+art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+### 1.
+
+Wnioski o udzielenie wsparcia finansowego nowej inwestycji składa się do ministra właściwego do spraw gospodarki w okresie ostatniego miesiąca każdego z dwóch pierwszych kwartałów danego roku kalendarzowego. Kolejność złożenia wniosku nie ma wpływu na udzielenie wsparcia finansowego.
+
+### 2.
+
+Wnioski o udzielenie wsparcia finansowego nowej inwestycji są rozpatrywane przez ministra właściwego do spraw gospodarki do końca drugiego i trzeciego kwartału danego roku.
+
+### 3.
+
+Dla udzielenia wsparcia finansowego nowej inwestycji na podstawie wniosków złożonych w pierwszym okresie, o którym mowa w ust. 1, przeznacza się do 1/2 środków finansowych określonych na dany rok.
+
+” ;
+
+### 8)
+
+w art. 12:
+
+### a)
+
+uchyla się ust. 2,
+
+### b)
+
+w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Umowa, o której mowa w ust. 1, określa zobowiązania przedsiębiorcy, w tym w szczególności lokalizację, wartość inwestycji, harmonogram realizacji projektu inwestycyjnego, nazwę zakupionej technologii oraz liczbę zatrudnionych pracowników. ” ;
+
+### 9)
+
+w art. 13 uchyla się ust. 1;
+
+### 10)
+
+w art. 13a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw gospodarki informuje przedsiębiorcę o przyczynach odmowy udzielenia wsparcia finansowego nowej inwestycji.
+
+” ,
+
+### b)
+
+w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Przedsiębiorca może zwrócić się, w terminie 14 dni od dnia otrzymania informacji, o której mowa w ust. 1, do ministra właściwego do spraw gospodarki, o ponowne rozpatrzenie wniosku. ” ;
+
+### 11)
+
+w art. 14:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw gospodarki przekazuje wsparcie finansowe, po dokonaniu oceny spełnienia przez nową inwestycję ogólnych kryteriów, o których mowa w ust. 2.
+
+” ,
+
+### b)
+
+w ust. 2 uchyla się pkt 4;
+
+### 12)
+
+w art. 15 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W przypadku niewywiązania się przedsiębiorcy z zobowiązań inwestycyjnych zawartych w umowie określonej w art. 12, dokonuje się zwrotu udzielanego wsparcia finansowego, zgodnie z art. 93 ustawy o finansach publicznych. ” .
+
+### Art. 61.
+
+W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy ([Dz. U. Nr 213, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text.html) oraz z [2003 r. Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html) i [Nr 229, poz. 2271](https://api.sejm.gov.pl/eli/acts/DU/2003/2271/text.html)) uchyla się art. 56 i 61.
+
+### Art. 62.
+
+W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw ([Dz. U. Nr 188, poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 ust. 1-6 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Z zastrzeżeniem ust. 6, przedsiębiorca, który posiada zezwolenie uzyskane przed dniem 1 stycznia 2001 r., zachowuje prawo do zwolnień podatkowych określonych w art. 12 ustawy, o której mowa w art. 1, w brzmieniu z dnia 31 grudnia 2000 r.:
+
+### 1)
+
+w okresie do dnia 31 grudnia 2011 r. - jeżeli był on w dniu wejścia w życie niniejszej ustawy małym przedsiębiorcą,
+
+### 2)
+
+w okresie do dnia 31 grudnia 2010 r. - jeżeli był on w dniu wejścia w życie niniejszej ustawy średnim przedsiębiorcą
+
+- w rozumieniu załącznika 1 do rozporządzenia nr 70/2001/WE z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001 r.).
+
+### 2.
+
+Dochody uzyskane przez przedsiębiorcę innego niż przedsiębiorca, o którym mowa w ust. 1, z działalności gospodarczej prowadzonej na terenie strefy na podstawie zezwolenia wydanego przed dniem 1 stycznia 2001 r., są zwolnione z podatku dochodowego w zakresie ustalonym w art. 12 ustawy, o której mowa w art. 1, z tym że:
+
+### 1)
+
+maksymalna dopuszczalna wielkość pomocy publicznej wynosi:
+
+### a)
+
+30% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność w sektorze motoryzacyjnym,
+
+### b)
+
+75% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność inną niż określona w lit. a na podstawie zezwolenia wydanego przed dniem 1 stycznia 2000 r.,
+
+### c)
+
+50% kosztów inwestycji poniesionych do dnia 31 grudnia 2006 r. - dla przedsiębiorców prowadzących działalność inną niż określona w lit. a na podstawie zezwolenia wydanego po dniu 31 grudnia 1999 r.,
+
+### 2)
+
+przy ustaleniu dopuszczalnej wielkości pomocy publicznej, o której mowa w pkt 1, uwzględnia się koszty inwestycji poniesione przez przedsiębiorcę w trakcie obowiązywania zezwolenia,
+
+### 3)
+
+przy ustaleniu dopuszczalnej wielkości pomocy publicznej uwzględnia się całkowitą wielkość pomocy publicznej, jaką uzyskał przedsiębiorca od dnia 1 stycznia 2001 r., z wyłączeniem pomocy publicznej wynikającej z deklaracji podatkowej złożonej za rok 2000,
+
+### 4)
+
+do określenia wielkości pomocy publicznej z tytułu zwolnienia z podatku dochodowego przyjmuje się dochód uzyskany z działalności gospodarczej prowadzonej na terenie strefy w ramach zezwolenia, pomniejszony o równowartość strat poniesionych na tej działalności przez przedsiębiorcę.
+
+### 3.
+
+W przypadku cofnięcia zezwolenia wydanego przed dniem 1 stycznia 2001 r., przedsiębiorca traci prawo do zwolnień, o których mowa w ust. 1 i 2, i jest zobowiązany do zapłaty, odpowiednio, podatku dochodowego od osób prawnych lub podatku dochodowego od osób fizycznych objętego takimi zwolnieniami za okres od powstania okoliczności będącej podstawą cofnięcia zezwolenia.
+
+### 4.
+
+W zakresie uregulowanym w ust. 1 i 2 oraz art. 10 i 11 nie stosuje się przepisu art. 10 ust. 1 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. Nr 123, poz. 1291).
+
+### 5.
+
+Za przedsiębiorcę prowadzącego działalność w sektorze motoryzacyjnym uważa się przedsiębiorcę:
+
+### 1)
+
+prowadzącego działalność obejmującą produkcję, montaż lub prace projektowo-wdrożeniowe w zakresie:
+
+### a)
+
+silników spalinowych, ze spalaniem wewnętrznym, a także innych silników stosowanych wyłącznie w pojazdach mechanicznych określonych w lit. b-d,
+
+### b)
+
+samochodów osobowych,
+
+### c)
+
+pozostałych pojazdów mechanicznych przeznaczonych do przewozu osób,
+
+### d)
+
+pojazdów mechanicznych przeznaczonych do przewozu towarów,
+
+### e)
+
+nadwozi pojazdów mechanicznych, z wyłączeniem przyczep i naczep,
+
+### 2)
+
+będącego dostawcą komponentów, który zaopatruje przedsiębiorcę, o którym mowa w pkt 1, w komponenty na potrzeby procesu produkcyjnego lub stadium montażu lub bierze udział w pracach projektowo-wdrożeniowych dotyczących produktów wymienionych w pkt 1, pod warunkiem że:
+
+### a)
+
+działalność ta jest wykonywana w bliskiej odległości od miejsca wykonywania działalności przez przedsiębiorcę, o którym mowa w pkt 1, przez co rozumie się w szczególności odległość mającą znaczący wpływ na minimalizację kosztów transportu komponentów, w tym pozwalającą na bezpośrednie połączenie miejsc wykonywania działalności obu przedsiębiorców linią kolejową lub taśmą transportującą, oraz
+
+### b)
+
+przedsiębiorca, o którym mowa w pkt 1, jest odbiorcą co najmniej połowy komponentów sprzedawanych przez danego dostawcę
+
+- przy czym przez komponenty należy rozumieć zestaw podstawowych elementów przeznaczonych do produktów wymienionych w pkt 1 lit. a-d, produkowane, składane lub montowane przez dostawcę komponentów i dostarczane przez niego przedsiębiorcy, o którym mowa w pkt 1, przy wykorzystaniu systemu zamówień. W szczególności komponentami są części i akcesoria do pojazdów mechanicznych i ich silników oraz elementy wyposażenia elektrycznego do pojazdów samochodowych.
+
+### 6.
+
+Począwszy od roku obrotowego następującego po roku, w którym:
+
+### 1)
+
+zostało zbytych 100% wkładów udziałów lub akcji przedsiębiorcy będącego małym lub średnim przedsiębiorcą, o którym mowa w ust. 1,
+
+### 2)
+
+spółka będąca małym lub średnim przedsiębiorcą, o którym mowa w ust. 1, połączyła się z inną spółką,
+
+### 3)
+
+nastąpiło nabycie przedsiębiorstwa od przedsiębiorcy będącego małym lub średnim przedsiębiorcą, o którym mowa w ust. 1
+
+- przedsiębiorca traci prawo do zwolnień podatkowych, o których mowa w ust. 1.
+
+” ;
+
+### 2)
+
+w art. 8:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rezerwa celowa, o której mowa w ust. 1, jest przeznaczona na dotacje do nowych inwestycji, związanych z utworzeniem lub rozbudową przedsiębiorstwa, jak również z rozpoczęciem w przedsiębiorstwie działań obejmujących dokonywanie zasadniczych zmian produkcji bądź procesu produkcyjnego, zmian wyrobu lub usługi, w tym także zmian w zakresie sposobu świadczenia usług.
+
+” ,
+
+### b)
+
+w ust. 3:
+
+- - zdanie wstępne otrzymuje brzmienie: „ Dotacji do nowej inwestycji, o której mowa w ust. 2, realizowanej na terytorium Rzeczypospolitej Polskiej, udziela się, z zastrzeżeniem ust. 11. ” ,
+
+- - pkt 3 otrzymuje brzmienie: „ 3) przedsiębiorcy, w którego kapitale zakładowym podmiot dominujący, w rozumieniu ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi ([Dz. U. z 2002 r. Nr 49, poz. 447](https://api.sejm.gov.pl/eli/acts/DU/2002/447/text.html) i [Nr 240, poz. 2055](https://api.sejm.gov.pl/eli/acts/DU/2002/2055/text.html), z [2003 r. Nr 50, poz. 424](https://api.sejm.gov.pl/eli/acts/DU/2003/424/text.html), [Nr 84, poz. 774](https://api.sejm.gov.pl/eli/acts/DU/2003/774/text.html), [Nr 124, poz. 1151](https://api.sejm.gov.pl/eli/acts/DU/2003/1151/text.html), [Nr 170, poz. 1651](https://api.sejm.gov.pl/eli/acts/DU/2003/1651/text.html) i [Nr 223, poz. 2216](https://api.sejm.gov.pl/eli/acts/DU/2003/2216/text.html) oraz z [2004 r. Nr 64, poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2004/594/text.html), [Nr 91, poz. 871](https://api.sejm.gov.pl/eli/acts/DU/2004/871/text.html), [Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html) i [Nr 116, poz. 1205](https://api.sejm.gov.pl/eli/acts/DU/2004/1205/text.html)), wobec podatnika lub przedsiębiorcy, o których mowa w pkt 1, posiada udział wynoszący co najmniej 90%. ” ,
+
+### c)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Rada Ministrów określi, mając na względzie zapewnienie zgodności z zasadami udzielania pomocy publicznej oraz sprawnego udzielania dotacji, w drodze rozporządzenia:
+
+### 1)
+
+warunki udzielania dotacji,
+
+### 2)
+
+koszty kwalifikujące się do objęcia pomocą z tytułu nowej inwestycji, o której mowa w ust. 2,
+
+### 3)
+
+maksymalną dopuszczalną intensywność pomocy,
+
+### 4)
+
+rodzaj działalności gospodarczej, na którą nie udziela się dotacji,
+
+### 5)
+
+wzór wniosku, o którym mowa w ust. 7, oraz wymagane dokumenty,
+
+### 6)
+
+szczegółowy tryb i termin składania i rozpatrywania wniosku, o którym mowa w ust. 7.
+
+” ;
+
+### 3)
+
+w art. 10 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zwolnienia, o których mowa w ust. 1, stanowią regionalną pomoc publiczną na wspieranie nowych inwestycji.
+
+” ;
+
+### 4)
+
+w art. 11 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Umorzenie przez organ gminy zaległości z tytułu podatku od nieruchomości należnego za okres od dnia 1 stycznia 2001 r. od gruntów, budowli i budynków zajętych przez przedsiębiorcę prowadzącego działalność gospodarczą na terenie strefy na podstawie zezwolenia, który zawarł przed dniem 1 stycznia 2001 r. umowę, porozumienie lub list intencyjny, którego stroną jest gmina, na terenie której położone są grunty, budowle lub budynki, w którym gmina zobowiązała się zwolnić tego przedsiębiorcę z podatku od nieruchomości, zaniechać poboru tego podatku lub umorzyć zaległości z tytułu tego podatku, dokonane po dniu, w którym nastąpiło poniesienie kosztów inwestycyjnych kwalifikujących się do objęcia pomocą publiczną, stanowi regionalną pomoc publiczną na wspieranie nowych inwestycji.
+
+” .
+
+### Rozdział 10 Przepisy przejściowe i końcowe
+
+### Art. 63.
+
+W okresie 3 lat od dnia wejścia w życie niniejszej ustawy, w celu stwierdzenia, czy planowana pomoc dla przedsiębiorcy jest pomocą de minimis, podmiot udzielający pomocy bierze pod uwagę sumę:
+
+### 1)
+
+wartości pomocy indywidualnej udzielonej przedsiębiorcy przed dniem wejścia w życie niniejszej ustawy, jeżeli wartość pomocy, łącznie z wartością pomocy udzielonej przedsiębiorcy w okresie kolejnych 3 lat poprzedzających dzień jej udzielenia, nie przekraczała równowartości 100 tys. euro i nie podlegała opiniowaniu przez Prezesa Urzędu;
+
+### 2)
+
+pomocy, której charakter de minimis został potwierdzony zaświadczeniem, o którym mowa w art. 5 ust. 2.
+
+### Art. 64.
+
+Z dniem wejścia w życie niniejszej ustawy postępowania o wydanie opinii przez Prezesa Urzędu prowadzone w trybie art. 24 lub 25 ustawy, o której mowa w art. 71, ulegają umorzeniu.
+
+### Art. 65.
+
+Jeżeli akty normatywne, o których mowa w art. 6 ust. 2, nie są programami pomocowymi, podmioty właściwe są zobowiązane do przygotowania projektów odpowiednich zmian w tych aktach w terminie 1 miesiąca od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 66.
+
+### 1.
+
+Do czasu określenia szczegółowych warunków udzielania pomocy, o których mowa w art. 8, notyfikacji podlegają projekty aktów prawa miejscowego określające szczegółowe warunki udzielania pomocy, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
+
+### 2.
+
+Do postępowania notyfikacyjnego, o którym mowa w ust. 1, nie stosuje się art. 16.
+
+### 3.
+
+W przypadku wydania przez Prezesa Urzędu opinii o niezgodności ze wspólnym rynkiem projektu, o którym mowa w ust. 1, projekt ten nie podlega notyfikacji.
+
+### Art. 67.
+
+### 1.
+
+Organy udzielające pomocy przeprowadzają w roku 2004 badanie skuteczności i efektywności pomocy publicznej udzielonej w roku 2003.
+
+### 2.
+
+Przedsiębiorcy korzystający z pomocy są zobowiązani do udzielania, na żądanie organu udzielającego pomocy, informacji pozwalających na dokonanie oceny skuteczności i efektywności udzielonej pomocy, w terminie wskazanym w żądaniu, nie krótszym niż 30 dni od dnia jego doręczenia.
+
+### 3.
+
+Przy przeprowadzaniu badania, o którym mowa w ust. 1, stosuje się przepisy wydane na podstawie art. 39 ust. 3 i 4 ustawy, o której mowa w art. 71, które zachowują moc do dnia 31 grudnia 2004 r.
+
+### Art. 68.
+
+Rozporządzenia wydane na podstawie art. 5 ust. 2, art. 13 ust. 1, art. 27 ust. 3, art. 42 i art. 44 ust. 4 i 6 ustawy, o której mowa w art. 71, zachowują moc do czasu wejścia w życie rozporządzeń wydanych na podstawie niniejszej ustawy, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
+
+### Art. 69.
+
+Rozporządzenia wydane na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy, o której mowa w art. 50 niniejszej ustawy, art. 35 ust. 3 i art. 54 ust. 1 ustawy, o której mowa w art. 54 niniejszej ustawy, art. 2c ust. 3 ustawy, o której mowa w art. 55 niniejszej ustawy, oraz art. 9 ust. 3, art. 10 ust. 3 i art. 11 ust. 3 ustawy, o której mowa w art. 60 niniejszej ustawy, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
+
+### Art. 70.
+
+### 1.
+
+Przepis art. 2 ustawy z dnia 19 września 2003 r. o zmianie ustawy o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców ([Dz. U. Nr 189, poz. 1850](https://api.sejm.gov.pl/eli/acts/DU/2003/1850/text.html)) traci moc po upływie 3 lat od dnia wejścia w życie niniejszej ustawy, z tym że do pomocy publicznej, o której mowa w art. 2 ust. 1 tej ustawy, stosuje się przepisy niniejszej ustawy o pomocy indywidualnej, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Pomoc publiczna udzielana zgodnie z warunkami określonymi w rozporządzeniach wydanych na podstawie art. 2 ust. 2 ustawy wymienionej w ust. 1, spełniających przesłanki określone dla programów pomocowych i co do których Komisja wydała decyzję o zgodności ze wspólnym rynkiem, nie podlega notyfikacji.
+
+### 3.
+
+Do dnia 1 maja 2007 r. Rada Ministrów może, w drodze rozporządzeń, ustanawiać programy pomocowe w zakresie pomocy publicznej udzielanej na podstawie ustaw odrębnych, uwzględniając w szczególności potrzeby rozwoju gospodarki oraz konieczność zapewnienia zgodności tej pomocy ze wspólnym rynkiem.
+
+### Art. 71.
+
+Traci moc ustawa z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców ([Dz. U. Nr 141, poz. 1177](https://api.sejm.gov.pl/eli/acts/DU/2002/1177/text.html) oraz z [2003 r. Nr 159, poz. 1537](https://api.sejm.gov.pl/eli/acts/DU/2003/1537/text.html), [Nr 188, poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.html), [Nr 189, poz. 1850](https://api.sejm.gov.pl/eli/acts/DU/2003/1850/text.html) i [Nr 228, poz. 2261](https://api.sejm.gov.pl/eli/acts/DU/2003/2261/text.html)).
+
+### Art. 72.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894 i Nr 116, poz. 1205. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276 oraz z 2004 r. Nr 96, poz. 959. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255 oraz z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891 i Nr 121, poz. 1264. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 200, poz. 1683, z 2003 r. Nr 96, poz. 874, Nr 110, poz. 1039, Nr 188, poz. 1840, Nr 200, poz. 1953 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 880 i 884 i Nr 96, poz. 959. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207 i Nr 120, poz. 1252. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672, Nr 200, poz. 1684 i Nr 230, poz. 1922, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874, Nr 137, poz. 1302, Nr 180, poz. 1759, Nr 202, poz. 1957, Nr 217, poz. 2124 i Nr 223, poz. 2218 oraz z 2004 r. Nr 6, poz. 39, Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894 i Nr 116, poz. 1203. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055 oraz z 2003 r. Nr 188, poz. 1840. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 83, poz. 418, z 1996 r. Nr 152, poz. 719, z 1997 r. Nr 80, poz. 504, Nr 107, poz. 690, Nr 121, poz. 770 i Nr 158, poz. 1044, z 1999 r. Nr 27, poz. 243, Nr 63, poz. 702 i Nr 70, poz. 778, z 2000 r. Nr 122, poz. 1315, z 2001 r. Nr 72, poz. 744 i 746, z 2003 r. Nr 104, poz. 962 i Nr 188, poz. 1839 oraz z 2004 r. Nr 91, poz. 867. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055 oraz z 2004 r. Nr 99, poz. 1001. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844 oraz z 2004 r. Nr 6, poz. 39. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257, Nr 64, poz. 593, Nr 68, poz. 623, Nr 91, poz. 868, Nr 93, poz. 894 i Nr 116, poz. 1205. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851 oraz z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890 i Nr 121, poz. 1264. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 119, poz. 1250, z 2001 r. Nr 76, poz. 805 i Nr 100, poz. 1080, z 2002 r. Nr 240, poz. 2053 oraz z 2004 r. Nr 19, poz. 177 i Nr 120, poz. 1252. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 103, poz. 1099, z 2001 r. Nr 100, poz. 1085, z 2002 r. Nr 121, poz. 1031 i Nr 199, poz. 1672, z 2003 r. Nr 80, poz. 721, Nr 96, poz. 874, Nr 137, poz. 1302 i Nr 210, poz. 2037 oraz z 2004 r. Nr 6, poz. 42, Nr 42, poz. 386 i Nr 54, poz. 535.

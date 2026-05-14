@@ -1,0 +1,130 @@
+---
+title: Rozporządzenie Ministra Edukacji z dnia 22 stycznia 2024 r. w sprawie zakresu informacji gromadzonych w Zintegrowanym Rejestrze Kwalifikacji o kwalifikacjach cząstkowych nadawanych po ukończeniu studiów podyplomowych
+address: WDU20240000081
+eli: DU/2024/81
+publisher: DU
+year: 2024
+pos: 81
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Edukacjiz dnia 22 stycznia 2024 r. w sprawie zakresu informacji gromadzonych w Zintegrowanym Rejestrze Kwalifikacji o kwalifikacjach cząstkowych nadawanych po ukończeniu studiów podyplomowych [1) Minister Edukacji kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 81 |
+| ISAP | WDU20240000081 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-01-22 |
+| Data wydania | 2024-01-24 |
+| Wejście w życie | 2024-01-25 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/81/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/81) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 83 ust. 4 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji ([Dz. U. z 2020 r. poz. 226](https://api.sejm.gov.pl/eli/acts/DU/2020/226/text.html) oraz [z 2023 r. poz. 2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa zakres informacji gromadzonych w Zintegrowanym Rejestrze Kwalifikacji o kwalifikacjach cząstkowych nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2023 r. poz. 742](https://api.sejm.gov.pl/eli/acts/DU/2023/742/text.html), [1088](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.html), [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html), [1672](https://api.sejm.gov.pl/eli/acts/DU/2023/1672/text.html), [1872](https://api.sejm.gov.pl/eli/acts/DU/2023/1872/text.html) i [2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)).
+
+### § 2.
+
+W Zintegrowanym Rejestrze Kwalifikacji gromadzi się następujące informacje o kwalifikacjach cząstkowych nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce:
+
+### 1)
+
+informacje ogólne o kwalifikacji:
+
+### a)
+
+nazwę kwalifikacji,
+
+### b)
+
+przypisany do kwalifikacji poziom Polskiej Ramy Kwalifikacji,
+
+### c)
+
+odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż zostały włączone do Zintegrowanego Systemu Kwalifikacji,
+
+### d)
+
+kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED);
+
+### 2)
+
+podstawowe informacje o kwalifikacji obejmujące:
+
+### a)
+
+przykładowe działania i zadania, które potrafi wykonywać osoba posiadająca kwalifikację,
+
+### b)
+
+przykładowe grupy osób, które mogą być szczególnie zainteresowane uzyskaniem kwalifikacji,
+
+### c)
+
+przykładowe możliwości wykorzystania kwalifikacji i dalszego rozwoju osobistego lub zawodowego, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia w danej dziedzinie zawodowej,
+
+### d)
+
+czas trwania studiów podyplomowych prowadzących do uzyskania kwalifikacji oraz liczbę punktów ECTS;
+
+### 3)
+
+informacje o wymaganych efektach uczenia się dla kwalifikacji opisanych zgodnie z art. 9 ust. 1 pkt 1 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji;
+
+### 4)
+
+informację obejmującą warunki, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informację o braku takich warunków;
+
+### 5)
+
+dodatkowe informacje dotyczące kwalifikacji:
+
+### a)
+
+informację o włączeniu kwalifikacji do Zintegrowanego Systemu Kwalifikacji i dacie tego włączenia,
+
+### b)
+
+informację o dokumencie potwierdzającym nadanie kwalifikacji, o którym mowa w art. 160 ust. 4 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
+
+### c)
+
+nazwę, siedzibę i adres uczelni, instytutu naukowego Polskiej Akademii Nauk albo instytutu badawczego nadających kwalifikację,
+
+### d)
+
+kod kwalifikacji w Zintegrowanym Rejestrze Kwalifikacji,
+
+### e)
+
+kod Polskiej Klasyfikacji Działalności (PKD),
+
+### f)
+
+informacje o uchwałach odpowiednio:
+
+- - senatu uczelni podjętych w sprawach, o których mowa w art. 28 ust. 1 pkt 15 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce,
+
+- - rady naukowej instytutu naukowego Polskiej Akademii Nauk podjętych w sprawach, o których mowa w art. 55 ust. 2 pkt 7a ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk ([Dz. U. z 2020 r. poz. 1796](https://api.sejm.gov.pl/eli/acts/DU/2020/1796/text.html)),
+
+- - rady naukowej instytutu badawczego podjętych w sprawach, o których mowa w art. 29 ust. 2 pkt 18 i 19 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2022 r. poz. 498](https://api.sejm.gov.pl/eli/acts/DU/2022/498/text.html) oraz [z 2023 r. poz. 1672](https://api.sejm.gov.pl/eli/acts/DU/2023/1672/text.html)).
+
+### § 3.
+
+Traci moc rozporządzenie Ministra Edukacji Narodowej z dnia 3 sierpnia 2016 r. w sprawie zakresu informacji gromadzonych w Zintegrowanym Rejestrze Kwalifikacji o kwalifikacjach nadawanych po ukończeniu studiów podyplomowych ([Dz. U. poz. 1204](https://api.sejm.gov.pl/eli/acts/DU/2016/1204/text.html)).
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Edukacji kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).

@@ -1,0 +1,228 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 9 maja 2014 r. w sprawie adekwatności kapitałowej konglomeratu finansowego
+address: WDU20140000595
+eli: DU/2014/595
+publisher: DU
+year: 2014
+pos: 595
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 9 maja 2014 r. w sprawie adekwatności kapitałowej konglomeratu finansowego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 595 |
+| ISAP | WDU20140000595 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2014-05-09 |
+| Data wydania | 2014-05-09 |
+| Wejście w życie | 2014-05-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/595/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/595) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Wzór sprawozdania w zakresie adekwatności kapitałowej konglomeratu finansowego](#part_2)
+
+- [Załącznik nr 2 - Wzór listy podmiotów wchodzących w skład konglomeratu finansowego](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 23 ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego ([Dz. U. Nr 83, poz. 719](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385, z 2013 r. poz. 1036 oraz z 2014 r. poz. 586.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+metody obliczania funduszy własnych i wymogów z tytułu adekwatności kapitałowej oraz metody przeprowadzania rachunku adekwatności kapitałowej konglomeratu finansowego, które mogą być wskazane przez koordynatora do obliczania rachunku adekwatności kapitałowej;
+
+### 2)
+
+szczegółowe metody i sposoby sporządzania sprawozdań w zakresie adekwatności kapitałowej.
+
+### § 2.
+
+### 1.
+
+Podmiot wiodący przeprowadza rachunek adekwatności kapitałowej konglomeratu finansowego przez sporządzenie zestawienia funduszy własnych konglomeratu finansowego i wymogów z tytułu adekwatności kapitałowej konglomeratu finansowego.
+
+### 2.
+
+Za składniki funduszy własnych konglomeratu finansowego mogą być uznane wyłącznie składniki funduszy własnych podmiotów wchodzących w skład konglomeratu finansowego określone w poszczególnych regulacjach sektorowych, z uwzględnieniem limitów ilościowych wynikających z tych regulacji.
+
+### 3.
+
+Przez fundusze własne podmiotu wchodzącego w skład konglomeratu finansowego rozumie się:
+
+### 1)
+
+określone w regulacjach sektorowych:
+
+### a)
+
+fundusze własne podmiotów regulowanych należących do sektora bankowego,
+
+### b)
+
+środki własne podmiotów regulowanych należących do sektora ubezpieczeniowego,
+
+### c)
+
+fundusze własne firm inwestycyjnych należących do sektora usług inwestycyjnych, obejmujące:
+
+- - fundusze własne domu maklerskiego - w przypadku firmy inwestycyjnej, o której mowa w art. 3 pkt 3 lit. a ustawy z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego, zwanej dalej „ustawą”,
+
+- - kapitał netto towarowego domu maklerskiego - w przypadku firmy inwestycyjnej, o której mowa w art. 3 pkt 3 lit. d ustawy,
+
+- - fundusze własne stanowiące odpowiednik funduszy własnych lub kapitału netto, o których mowa w tiret pierwsze i drugie, określone w przepisach, na podstawie których firmy inwestycyjne, o których mowa w art. 3 pkt 3 lit. b, c, e i f ustawy, prowadzą działalność - w przypadku tych firm inwestycyjnych,
+
+### d)
+
+fundusze własne firm inwestycyjnych, o których mowa w art. 3 pkt 3 lit. g-i ustawy, obejmujące:
+
+- - kapitały własne - w przypadku firmy inwestycyjnej, o której mowa w art. 3 pkt 3 lit. g ustawy,
+
+- - fundusze własne - w przypadku firmy inwestycyjnej, o której mowa w art. 3 pkt 3 lit. i ustawy,
+
+- - fundusze własne stanowiące odpowiednik kapitałów własnych lub funduszy własnych, o których mowa w tiret pierwsze i drugie, określone w przepisach, na podstawie których firma inwestycyjna, o której mowa w art. 3 pkt 3 lit. h ustawy, prowadzi działalność - w przypadku tej firmy inwestycyjnej;
+
+### 2)
+
+aktywa netto podmiotów niebędących podmiotami regulowanymi.
+
+### 4.
+
+Podmiot wiodący oblicza wymogi kapitałowe podmiotu należącego do danego sektora w konglomeracie finansowym:
+
+### 1)
+
+w przypadku podmiotu regulowanego - zgodnie z regulacjami sektorowymi;
+
+### 2)
+
+w przypadku podmiotu niebędącego podmiotem regulowanym - jako teoretyczny wymóg kapitałowy, oznaczający wymóg kapitałowy, który obowiązywałby ten podmiot, gdyby był on podmiotem regulowanym, przy czym w przypadku dominującego podmiotu nieregulowanego teoretyczny wymóg kapitałowy z tytułu adekwatności kapitałowej oblicza się zgodnie z regulacjami sektorowymi obowiązującymi w najistotniejszym sektorze w konglomeracie finansowym.
+
+### § 3.
+
+### 1.
+
+Podmiot wiodący oblicza rachunek adekwatności kapitałowej konglomeratu finansowego za pomocą jednej z następujących metod:
+
+### 1)
+
+metody konsolidacji rachunkowości;
+
+### 2)
+
+metody odliczeń i agregacji;
+
+### 3)
+
+metody łączonej.
+
+### 2.
+
+W przypadku obliczania rachunku adekwatności kapitałowej konglomeratu finansowego:
+
+### 1)
+
+za pomocą metody, o której mowa w ust. 1 pkt 1:
+
+### a)
+
+fundusze własne konglomeratu finansowego oblicza się na podstawie skonsolidowanego sprawozdania finansowego konglomeratu finansowego,
+
+### b)
+
+wymogi z tytułu adekwatności kapitałowej konglomeratu finansowego oblicza się na podstawie skonsolidowanego sprawozdania finansowego konglomeratu finansowego, jako sumę wymogów kapitałowych podmiotów należących do sektora finansowego konglomeratu finansowego;
+
+### 2)
+
+za pomocą metody, o której mowa w ust. 1 pkt 2:
+
+### a)
+
+fundusze własne konglomeratu finansowego oblicza się na podstawie sprawozdań finansowych podmiotów należących do sektora finansowego konglomeratu finansowego, jako sumę: funduszy własnych podmiotów regulowanych należących do tego sektora oraz funduszy własnych podmiotów niebędących podmiotami regulowanymi należących do tego sektora, pomniejszoną o sumę znaczących udziałów kapitałowych tych podmiotów w podmiotach wchodzących w skład konglomeratu finansowego, jeżeli te znaczące udziały nie zostały uwzględnione jako pomniejszenia funduszy własnych poszczególnych podmiotów na podstawie regulacji sektorowych,
+
+### b)
+
+wymogi z tytułu adekwatności kapitałowej konglomeratu finansowego oblicza się na podstawie sprawozdań finansowych podmiotów należących do sektora finansowego konglomeratu finansowego, jako sumę wymogów kapitałowych podmiotów regulowanych należących do tego sektora oraz wymogów kapitałowych podmiotów niebędących podmiotami regulowanymi należącymi do tego sektora;
+
+### 3)
+
+za pomocą metody, o której mowa w ust. 1 pkt 3:
+
+### a)
+
+fundusze własne konglomeratu finansowego oblicza się jako sumę funduszy własnych, wyznaczonych poprzez odpowiednie zastosowanie metod, o których mowa w ust. 1 pkt 1 i 2,
+
+### b)
+
+wymogi z tytułu adekwatności kapitałowej konglomeratu finansowego oblicza się jako sumę wymogów kapitałowych, wyznaczonych poprzez odpowiednie zastosowanie metod, o których mowa w ust. 1 pkt 1 i 2.
+
+### 3.
+
+Przy obliczaniu rachunku adekwatności kapitałowej konglomeratu finansowego podmiot wiodący powinien uwzględniać fundusze własne oraz wymogi kapitałowe podmiotów zależnych wchodzących w skład konglomeratu finansowego zgodnie z poniższymi zasadami:
+
+### 1)
+
+w przypadku podmiotów zależnych, w których nie występuje niedobór funduszy własnych - w wysokości:
+
+### a)
+
+odpowiadającej procentowemu udziałowi podmiotu dominującego w kapitale tego podmiotu zależnego albo
+
+### b)
+
+ustalonej przez koordynatora po zasięgnięciu opinii innych zainteresowanych organów nadzoru, w przypadku braku powiązań kapitałowych między podmiotem dominującym i tym podmiotem zależnym;
+
+### 2)
+
+w przypadku podmiotów zależnych, w których występuje niedobór funduszy własnych - w całości, przy czym jeżeli odpowiedzialność podmiotu dominującego jest ograniczona wyłącznie do jego udziału kapitałowego w tym podmiocie zależnym, odpowiednio stosuje się pkt 1.
+
+### § 4.
+
+### 1.
+
+W sprawozdaniu w zakresie adekwatności kapitałowej konglomeratu finansowego podmiot wiodący wykazuje fundusze własne konglomeratu finansowego oraz wymogi z tytułu adekwatności kapitałowej konglomeratu finansowego, a także wskazuje metodę, zgodnie z którą rachunek adekwatności kapitałowej konglomeratu finansowego został przeprowadzony.
+
+### 2.
+
+Podmiot wiodący sporządza sprawozdanie w zakresie adekwatności kapitałowej konglomeratu finansowego na formularzu, którego wzór stanowi załącznik nr 1 do rozporządzenia.
+
+### 3.
+
+Podmiot wiodący dołącza do sprawozdania w zakresie adekwatności kapitałowej konglomeratu finansowego listę podmiotów wchodzących w skład konglomeratu finansowego sporządzoną na formularzu, którego wzór stanowi załącznik nr 2 do rozporządzenia.
+
+### § 5.
+
+Podmiot wiodący sporządza sprawozdanie w zakresie adekwatności kapitałowej konglomeratu finansowego w formie pisemnej oraz w formie elektronicznej.
+
+### § 6.
+
+Traci moc rozporządzenie Ministra Finansów z dnia 13 września 2007 r. w sprawie adekwatności kapitałowej konglomeratu finansowego ([Dz. U. Nr 170, poz. 1193](https://api.sejm.gov.pl/eli/acts/DU/2007/1193/text.html)).
+
+### § 7.
+
+Rozporządzenie wchodzi w życie z dniem 23 maja 2014 r.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385, z 2013 r. poz. 1036 oraz z 2014 r. poz. 586.
+
+## Załącznik nr 1 - Wzór sprawozdania w zakresie adekwatności kapitałowej konglomeratu finansowego
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 2 - Wzór listy podmiotów wchodzących w skład konglomeratu finansowego
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

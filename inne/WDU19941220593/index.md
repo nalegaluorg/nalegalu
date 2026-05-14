@@ -8,11 +8,9 @@ pos: 593
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o samorządowych kolegiach odwoławczych
-
-*USTAWA z dnia 12 października 1994 r.*
+# Ustawa z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,383 +22,726 @@ domain: null
 | Data ogłoszenia | 1994-10-12 |
 | Data wydania | 1994-11-19 |
 | Ostatnia zmiana | 2026-03-27 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941220593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/593/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/593/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/593) |
 
-Art. 25–28. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Ustrój kolegiów](#chpt_2) [Rozdział 3 - Zasady działania kolegium](#chpt_3) [Rozdział 4 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_4)
 
-**Art. 1.**
+TOC
 
-1. Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego i ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm. ), w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego, jeżeli przepisy szczególne nie stanowią inaczej.
+## Treść ustawy
 
-2. Na zasadach określonych w odrębnych ustawach kolegia orzekają w innych sprawach niż wymienione w ust. 1.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** W sprawach, o których mowa w art. 1 ust. 1, kolegia są organami właściwymi w szczególności do rozpatrywania odwołań od decyzji, zażaleń na postanowienia, ponagleń, żądań wznowienia postępowania lub stwierdzania nieważności decyzji.
+### Art. 1.
 
-**Art. 2a.**
+### 1.
 
-1. Obszar właściwości miejscowej kolegium określa, w drodze rozporządzenia, Prezes Rady Ministrów, na wniosek Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
+Samorządowe kolegia odwoławcze, zwane dalej „kolegiami”, są organami wyższego stopnia, w rozumieniu przepisów Kodeksu postępowania administracyjnego, w indywidualnych sprawach administracyjnych załatwianych przez organy gminy, z wyłączeniem spraw prowadzonych przez gminy w związku z art. 8 ustawy o samorządzie terytorialnym.
 
-2. Organem wyższego stopnia w stosunku do organów samorządu województwa jest kolegium mające siedzibę w mieście będącym siedzibą władz samorządu województwa.
+### 2.
 
-**Art. 3.** Kolegia są państwowymi jednostkami budżetowymi.
+Na zasadach określonych w odrębnych ustawach kolegia orzekają w innych sprawach niż wymienione w ust. 1.
 
-**Art. 3a.**
+### Art. 2.
 
-1. Nadzór nad działalnością administracyjną kolegiów sprawuje Prezes Rady Ministrów.
+W sprawach, o których mowa w art. 1 ust. 1, kolegia są organami właściwymi w szczególności do rozpatrywania odwołań od decyzji, zażaleń na postanowienia, żądań wznowienia postępowania lub stwierdzenia nieważności decyzji oraz skarg i wniosków, w trybie uregulowanym przez przepisy Kodeksu postępowania administracyjnego.
 
-2. Prezes Rady Ministrów może powierzyć wykonywanie nadzoru, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej.
+### Art. 3.
 
-3. (uchylony)
+Kolegia są państwowymi jednostkami budżetowymi.
 
-4. Sprawowanie nadzoru nad działalnością administracyjną kolegiów polega w szczególności na:
+### Rozdział 2 Ustrój kolegiów
 
-- **1)** przeprowadzaniu kontroli organizacji i warunków pracy kolegiów, w tym na badaniu:
-    - **a)** prawidłowości stosowania przepisów regulaminu organizacyjnego,
-    - **b)** terminowości załatwiania spraw oraz stanu zaległości, ze szczególnym uwzględnieniem spraw, w których postępowanie administracyjne trwa dłużej niż 6 miesięcy,
-    - **c)** prowadzenia ksiąg i innych urządzeń ewidencyjnych oraz rzetelności sporządzania informacji o działalności kolegium;
+### Art. 4.
 
-- **2)** analizie rocznych informacji o działalności kolegium;
-- **3)** rozpatrywaniu skarg na pozaorzeczniczą działalność kolegiów;
-- **4)** badaniu zachowania trybu i wymogów wyłaniania kandydatów na prezesa kolegium;
-- **5)** badaniu zachowania trybu i wymogów wyłaniania kandydatów na członków kolegium;
-- **6)** badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających odwołanie prezesa kolegium;
-- **7)** badaniu prawidłowości przeprowadzonego postępowania wyjaśniającego i postępowania dyscyplinarnego w celu ustalenia okoliczności faktycznych i prawnych uzasadniających ukaranie członka kolegium.
+### 1.
 
-5. Organ nadzoru sprawuje nadzór nad kolegiami przy pomocy komórki organizacyjnej właściwej do spraw nadzoru lub właściwej do spraw kontroli.
+Organami kolegium są:
 
-#### Rozdział 2 Ustrój kolegiów
+### 1)
 
-**Art. 4.**
+zgromadzenie ogólne kolegium,
 
-1. Organami kolegium są:
+### 2)
 
-- **1)** zgromadzenie ogólne kolegium;
-- **2)** prezes kolegium.
+przewodniczący kolegium.
 
-2. W skład kolegium wchodzą: prezes, wiceprezes oraz pozostali członkowie.
+### 2.
 
-3. Członkostwo w kolegium ma charakter etatowy lub pozaetatowy.
+W skład kolegium wchodzą: przewodniczący, zastępca przewodniczącego oraz pozostali członkowie.
 
-4. Liczbę członków kolegium określa zgromadzenie ogólne kolegium na wniosek prezesa kolegium.
+### 3.
 
-5. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium.
+Członkostwo w kolegium ma charakter etatowy lub pozaetatowy.
 
-**Art. 5.**
+### 4.
 
-1. Prezes Rady Ministrów na wniosek zgromadzenia ogólnego kolegium powołuje prezesa kolegium spośród dwóch kandydatów będących etatowymi członkami kolegium.
+Liczbę członków kolegium określa sejmik samorządowy na wniosek przewodniczącego kolegium.
 
-2. Zgromadzenie ogólne kolegium dokonuje wyboru kandydatów na prezesa kolegium w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej 3/5 swojego składu. W przypadku uzyskania wymaganej większości głosów przez więcej niż dwóch kandydatów, wnioskiem zostają objęci dwaj kandydaci, którzy uzyskali kolejno najwyższą liczbę głosów. W przypadku uzyskania wymaganej większości głosów przez jednego kandydata lub nieuzyskania wymaganej większości przez żadnego kandydata, zarządza się ponownie głosowanie w celu wyłonienia odpowiednio jednego lub dwóch kandydatów. Kandydatem lub kandydatami zostają te osoby, które uzyskały kolejno największą liczbę głosów.
+### 5.
 
-3. Kadencja prezesa kolegium trwa 6 lat licząc od dnia powołania.
+Prezes Rady Ministrów określi, w drodze rozporządzenia, maksymalną liczbę etatowych członków kolegium, przy uwzględnieniu liczby mieszkańców w województwie.
 
-4. Po upływie kadencji dotychczasowy prezes pełni swoje obowiązki do czasu powołania nowego prezesa kolegium.
+### Art. 5.
 
-5. Zgromadzenie ogólne kolegium w sprawie, o której mowa w ust. 2, zwołuje się w terminie przypadającym w ciągu 30 dni od dnia upływu kadencji prezesa kolegium. O terminie zwołania zgromadzenia prezes lub wiceprezes kolegium zawiadamia przewodniczącego Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
+### 1.
 
-6. Przewodniczący Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych ogłasza, w siedzibach samorządowych kolegiów odwoławczych, informację o terminie zwołania zgromadzenia ogólnego kolegium w sprawie wyboru kandydatów na prezesa kolegium oraz o przewidzianym w regulaminie organizacyjnym trybie zgłaszania kandydatów na to stanowisko.
+Na funkcję przewodniczącego kolegium może zostać wybrana osoba, która:
 
-**Art. 6.**
+### 1)
 
-1. Odwołanie prezesa kolegium następuje w przypadku:
+posiada obywatelstwo polskie i korzysta w pełni z praw publicznych,
 
-- **1)** złożenia rezygnacji ze stanowiska;
-- **2)** skazania prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej;
-- **3)** gdy przestał spełniać warunki określone w art. 7 ust. 1 pkt 1.
-- **4)** (uchylony) 1a. Prezes Rady Ministrów może odwołać prezesa kolegium w przypadku stwierdzenia przez ministra właściwego do spraw administracji publicznej powtarzającego się naruszania prawa podczas wykonywania obowiązków lub uchylania się od ich wykonywania.
+### 2)
 
-2. Prezesa kolegium odwołuje Prezes Rady Ministrów.
+ukończyła wyższe studia prawnicze lub administracyjne,
 
-3. Odwołanie prezesa kolegium z przyczyny, o której mowa w ust. 1a, następuje na wniosek ministra właściwego do spraw administracji publicznej po przeprowadzeniu, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym ustala się występowanie okoliczności wymienionych w tym przepisie.
+### 3)
 
-4. Decyzję o odwołaniu, wraz z uzasadnieniem, doręcza się zainteresowanemu. Na decyzję o odwołaniu zainteresowanemu służy prawo wniesienia skargi do sądu administracyjnego w terminie 14 dni od dnia jej doręczenia. Wniesienie skargi wstrzymuje odwołanie ze stanowiska. Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę.
+wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz doświadczeniem zawodowym,
 
-5. Do postępowania w sprawach, o których mowa w ust. 4, stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych. Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2017 r. poz. 1369, 1370 i 2451) nie stosuje się.
+### 4)
 
-6. W razie prawomocnego odwołania prezesa kolegium, wiceprezes kolegium zwołuje niezwłocznie zgromadzenie ogólne kolegium w sprawie, o której mowa w art. 5 ust. 2. Przepisy art. 5 ust. 5 i 6 stosuje się odpowiednio.
+nie była skazana prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej.
 
-7. Po upływie kadencji prezesa kolegium albo odwołaniu prezesa kolegium w związku ze złożoną rezygnacją jego dotychczasowy stosunek pracy przekształca się – na jego wniosek – w stosunek pracy etatowego członka kolegium, w którym pełnił funkcję albo w którym był zatrudniony przed objęciem stanowiska prezesa.
+### 2.
 
-8. W przypadku gdy przekształcenie stosunku pracy prezesa kolegium powodowałoby przekroczenie liczby członków kolegium, o której mowa w art. 4 ust. 5, albo wynikającej z budżetu państwa liczby etatów kalkulacyjnych i limitu środków na wynagrodzenia, liczby te zwiększa się o jeden, a uzupełnienie środków na wynagrodzenia następuje z rezerwy budżetu państwa przeznaczonej na sfinansowanie nieprzewidzianych zmian organizacyjnych.
+Sejmik samorządowy wybiera przewodniczącego kolegium spośród wszystkich zgłoszonych kandydatur, w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy swojego ustawowego składu.
 
-**Art. 7.**
+### 3.
 
-1. Etatowym członkiem kolegium może być osoba, która:
+Kadencja przewodniczącego kolegium trwa 6 lat.
 
-- **1)** ma obywatelstwo polskie i korzysta z pełni praw publicznych;
-- **2)** ukończyła magisterskie studia prawnicze lub administracyjne;
-- **3)** wykazuje się wysokim poziomem wiedzy prawniczej w zakresie administracji publicznej oraz ma doświadczenie zawodowe;
-- **4)** nie była skazana prawomocnym wyrokiem, orzeczonym za przestępstwo popełnione z winy umyślnej.
+### 4.
 
-1a. Pozaetatowym członkiem kolegium może być osoba spełniająca wymagania określone w ust. 1 pkt 1, 3 i 4, jeżeli ma wyższe wykształcenie.
+Prezes Rady Ministrów podaje do publicznej wiadomości informacje o trybie i terminie zgłaszania do sejmiku samorządowego kandydatur na funkcję przewodniczącego kolegium.
 
-2. Członka kolegium powołuje Prezes Rady Ministrów, na wniosek prezesa kolegium, zgłoszony po uzyskaniu opinii zgromadzenia ogólnego kolegium, przyjętej w głosowaniu tajnym, większością głosów, w obecności co najmniej połowy jego składu.
+### 5.
 
-3. Kandydatów na członków kolegium przedstawia jego prezes.
+Wybór przewodniczącego kolegium odbywa się w terminie 30 dni, licząc od dnia upływu terminu zgłaszania kandydatur.
 
-4. Powołanie etatowych członków kolegium następuje na czas nieokreślony.
+### Art. 6.
 
-5. Wiceprezesa powołuje, spośród etatowych członków kolegium, i odwołuje Prezes Rady Ministrów na wniosek prezesa kolegium.
+### 1.
 
-6. Odwołanie członka kolegium następuje na wniosek prezesa kolegium w przypadkach określonych w art. 6 ust. 1 pkt 1–3 i w razie prawomocnego orzeczenia kary wykluczenia ze składu kolegium przez właściwą komisję dyscyplinarną.
+Odwołanie z funkcji przewodniczącego kolegium następuje w przypadku:
 
-7. Pozaetatowi członkowie kolegium wybierani są na okres 6 lat, z tym że co 3 lata następuje wybór połowy ich składu.
+### 1)
 
-8. Prezes kolegium oraz etatowi członkowie kolegium nie mogą należeć do partii politycznej ani prowadzić działalności politycznej.
+skazania prawomocnym wyrokiem sądu, orzeczonym za przestępstwo popełnione z winy umyślnej,
 
-**Art. 8.**
+### 2)
 
-1. Kandydatów na członków kolegium wyłania się w drodze konkursu.
+utraty warunków określonych w art. 5 ust. 1 pkt 1,
 
-2. Konkurs ogłasza prezes kolegium, który przewodniczy pracom komisji konkursowej.
+### 3)
 
-3. W skład komisji konkursowej oprócz prezesa kolegium wchodzi dwóch członków wybranych przez zgromadzenie ogólne kolegium.
+stwierdzenia powtarzającego się uchylania od wykonywania swoich obowiązków lub nienależytego ich wykonywania.
 
-4. W miarę potrzeby, konkurs przeprowadza się również w związku z koniecznością uzupełnienia składu kolegium, w szczególności gdy został on zmniejszony z powodów, o których mowa w art. 6 ust. 1. Nowi pozaetatowi członkowie są wybierani na okres do końca kadencji ustalonej zgodnie z art. 7 ust. 7.
+### 2.
 
-5. Prezes Rady Ministrów, po zasięgnięciu opinii Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych, określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium.
+Sejmik samorządowy odwołuje przewodniczącego kolegium większością głosów, w głosowaniu tajnym, w obecności co najmniej połowy swojego ustawowego składu. O terminie posiedzenia sejmiku zawiadamia się zainteresowanego. Uchwała sejmiku w tej sprawie jest równoznaczna z odwołaniem z funkcji przewodniczącego kolegium.
 
-**Art. 9.**
+### 3.
 
-1. Członkostwa w kolegium nie można łączyć z:
+Odwołanie przewodniczącego kolegium z przyczyn wymienionych w ust. 1 pkt 2 i 3 następuje, w drodze uchwały sejmiku samorządowego, po przeprowadzeniu przez jego prezydium, z udziałem zainteresowanego i po zasięgnięciu opinii zgromadzenia ogólnego kolegium, postępowania wyjaśniającego, w którym zostaną ustalone okoliczności wymienione w tym przepisie.
 
-- **1)** mandatem posła lub senatora;
-- **2)** mandatem radnego lub członkostwem w organie wykonawczym jednostki samorządu terytorialnego;
-- **3)** zatrudnieniem w urzędzie gminy, starostwie lub urzędzie marszałkowskim;
-- **4)** członkostwem w kolegium regionalnej izby obrachunkowej.
+### 4.
 
-2. Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego, asesora sądowego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej.
+Uchwała sejmiku samorządowego w sprawie, o której mowa w ust. 3, podpisana przez przewodniczącego sejmiku, wraz z uzasadnieniem, doręczana jest zainteresowanemu w terminie 7 dni od dnia jej podjęcia. Zainteresowanemu przysługuje prawo wniesienia skargi do sądu administracyjnego. Wniesienie skargi wstrzymuje wykonanie uchwały. Do postępowania w sprawach tych skarg stosuje się odpowiednio przepisy o zaskarżaniu do sądu administracyjnego decyzji administracyjnych.
 
-3. Członek kolegium może być, na jego wniosek lub za jego zgodą, przeniesiony do innego kolegium. Przeniesienie następuje na podstawie decyzji prezesa kolegium, do którego członek ten ma być przyjęty, podjętej w porozumieniu z prezesem tego kolegium, którego był członkiem.
+### 5.
 
-**Art. 10.**
+W przypadku oddalenia skargi przez sąd administracyjny, uchwała sejmiku samorządowego w sprawie określonej w ust. 3 podlega wykonaniu.
 
-1. Członkowie kolegium w zakresie wykonywania czynności określonych ustawą korzystają z ochrony prawnej przysługującej funkcjonariuszom publicznym.
+### 6.
 
-2. Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje:
+Oświadczenie przewodniczącego kolegium w sprawie złożenia przez niego rezygnacji z pełnionej funkcji powoduje wygaśnięcie mandatu przewodniczącego. Na jego wniosek, złożony w terminie nie przekraczającym 7 dni od dnia wygaśnięcia mandatu przewodniczącego, nawiązuje się z nim stosunek pracy etatowego członka kolegium - na podstawie powołania.
 
-- **1)** renta inwalidzka – w razie zaliczenia do jednej z grup inwalidów ;
-- **2)** jednorazowe odszkodowanie – w razie zaliczenia do I lub II grupy inwalidów .
+### Art. 7.
 
-3. Członkom rodziny osób, które zmarły wskutek wypadków przy pracy określonych w ust. 2, przysługuje renta rodzinna oraz jednorazowe odszkodowanie.
+### 1.
 
-4. Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych.
+Etatowym członkiem kolegium może zostać osoba spełniająca wymagania określone w art. 5 ust. 1. Pozaetatowym członkiem kolegium może zostać osoba spełniąca wymagania określone w art. 5 ust. 1 pkt 1, 3 i 4, jeżeli posiada wyższe wykształcenie.
 
-**Art. 10a.** Członkostwo w kolegium ustaje z powodu:
+### 2.
 
-**Art. 11.**
+Członków kolegium powołuje, w głosowaniu tajnym, sejmik samorządowy większością głosów, w obecności co najmniej połowy swojego ustawowego składu.
 
-1. Prezes kolegium kieruje pracami kolegium, a w szczególności:
+### 3.
 
-- **1)** reprezentuje kolegium na zewnątrz;
-- **2)** przedkłada, po przyjęciu przez zgromadzenie ogólne kolegium, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw administracji publicznej i sejmikowi województwa roczną informację o działalności kolegium w terminie do końca I kwartału roku następującego po roku objętym informacją;
-- **3)** opracowuje projekt regulaminu organizacyjnego kolegium;
-- **4)** zgłasza wniosek o ustalenie liczby członków kolegium;
-- **5)** ogłasza konkurs na członków kolegium;
-- **6)** przewodniczy pracom komisji konkursowej;
-- **7)** przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu;
-- **8)** występuje z wnioskami o powołanie i o odwołanie wiceprezesa kolegium oraz członka kolegium;
-- **9)** czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium;
-- **10)** wyznacza przewodniczących składów orzekających.
+Kandydatów na członków kolegium przedstawia jego przewodniczący.
 
-2. Prezes kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji publicznej, niezastrzeżone dla składu orzekającego.
+### 4.
 
-**Art. 12.**
+Powołanie etatowych członków kolegium następuje na czas nie określony.
 
-1. Zgromadzenie ogólne kolegium zwołuje prezes kolegium co najmniej dwa razy w roku. Zgromadzenie zwołuje się także na pisemny wniosek co najmniej połowy członków kolegium w terminie 14 dni od dnia jego złożenia. Zgromadzeniu ogólnemu kolegium przewodniczy prezes kolegium.
+### 5.
 
-2. W skład zgromadzenia ogólnego kolegium wchodzą osoby, o których mowa w art. 4 ust. 2.
+Zastępcę przewodniczącego powołuje sejmik samorządowy spośród członków kolegium, na wniosek przewodniczącego kolegium.
 
-3. Do właściwości zgromadzenia ogólnego kolegium należy:
+### 6.
 
-- **1)** uchwalanie regulaminu organizacyjnego kolegium;
-- **2)** wybór członków komisji konkursowej zgodnie z art. 8 ust. 3;
-- **3)** przyjmowanie rocznej informacji o działalności kolegium;
-- **3a)** wybór kandydatów na prezesa kolegium;
-- **4)** podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez prezesa kolegium.
+Odwołanie zastępcy przewodniczącego oraz pozostałych członków kolegium następuje na wniosek przewodniczącego, z powodów i na zasadach określonych w art. 6.
 
-4. Z zastrzeżeniem przepisu art. 5 ust. 2, uchwały zgromadzenia ogólnego kolegium zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos prezesa kolegium.
+### 7.
 
-**Art. 13.** Obsługę kancelaryjno-biurową kolegium zapewnia biuro kolegium.
+Pozaetatowi członkowie kolegium wybierani są na okres 6 lat, z tym że co 3 lata następuje wybór połowy ich składu.
 
-**Art. 14.** Wojewoda zapewnia kolegium możliwość korzystania z niezbędnych lokali, za odpłatnością nieprzekraczającą kosztów ponoszonych faktycznie na ich utrzymanie.
+### Art. 8.
 
-**Art. 15.**
+### 1.
 
-1. (uchylony)
+Kandydatów na członków kolegium wyłania się w drodze konkursu, z zastrzeżeniem art. 5 ust. 2.
 
-2. Prezes kolegium nawiązuje i rozwiązuje stosunek pracy:
+### 2.
 
-- **1)** na podstawie powołania – z etatowymi członkami kolegium;
-- **2)** na podstawie umowy o pracę – z pracownikami biura kolegium.
+Konkurs ogłasza przewodniczący kolegium, który przewodniczy pracom komisji konkursowej.
 
-3. Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest ustanie członkostwa wskutek odwołania.
+### 3.
 
-4. Pozaetatowi członkowie kolegium otrzymują wynagrodzenie za udział w posiedzeniach oraz zwrot kosztów podróży.
+W skład komisji konkursowej, oprócz przewodniczącego kolegium, wchodzi dwóch członków delegowanych przez sejmik samorządowy oraz dwóch członków delegowanych przez zgromadzenie ogólne kolegium.
 
-5. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania prezesa, wiceprezesa i pozostałych członków kolegium oraz szczegółowe zasady wynagradzania pracowników biura kolegium.
+### 4.
 
-6. Wynagrodzenie zasadnicze prezesa, wiceprezesa i etatowych członków kolegium stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa. Wysokość wynagrodzenia jest różnicowana ze względu na staż pracy i pełnioną funkcję.
+W miarę potrzeby, konkurs przeprowadza się również w związku z koniecznością uzupełnienia składu kolegium, w szczególności gdy został on zmniejszony z powodów, o których mowa w art. 6 ust. 1. Nowi pozaetatowi członkowie są wybierani na okres do końca kadencji ustalonej zgodnie z art. 7 ust. 7.
 
-7. Prezes Rady Ministrów określi, w drodze rozporządzenia, wielokrotność kwoty bazowej, o której mowa w ust. 6. Wielokrotność ta nie może być mniejsza niż 3,0.
+### 5.
 
-**Art. 16.**
+Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb przeprowadzania konkursu na członków kolegium.
 
-1. Prezes kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium.
+### Art. 9.
 
-2. W sprawach nieuregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych.
+### 1.
 
-**Art. 16a.** Członek kolegium podlega odpowiedzialności dyscyplinarnej w związku z postępowaniem uchybiającym jego obowiązkom lub godności zawodowej.
+Członkostwa kolegium nie można łączyć, w tym samym województwie, z:
 
-**Art. 16b.**
+### 1)
 
-1. Karami dyscyplinarnymi są:
+mandatem radnego lub funkcją członka organu wykonawczego samorządu terytorialnego,
 
-- **1)** upomnienie;
-- **2)** nagana;
-- **3)** nagana z ostrzeżeniem;
-- **4)** wykluczenie ze składu kolegium.
+### 2)
 
-2. Odpis orzeczenia kary dyscyplinarnej wraz z uzasadnieniem włącza się do akt osobowych członka kolegium.
+zatrudnieniem w urzędzie gminy,
 
-**Art. 16c.**
+### 3)
 
-1. W sprawach dyscyplinarnych członków kolegiów orzekają:
+członkostwem w kolegium regionalnej izby obrachunkowej.
 
-- **1)** w pierwszej instancji – komisja dyscyplinarna kolegium;
-- **2)** w drugiej instancji – komisja dyscyplinarna przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
+### 2.
 
-2. Komisje dyscyplinarne składają się z trzech etatowych członków kolegiów.
+Etatowego członkostwa kolegium nie można łączyć również z zatrudnieniem na stanowisku sędziego i prokuratora oraz zatrudnieniem w tym samym województwie w administracji państwowej.
 
-3. Tryb wyboru etatowych członków kolegiów do komisji dyscyplinarnych określi regulamin uchwalony przez Krajową Reprezentację Samorządowych Kolegiów Odwoławczych.
+### Art. 10.
 
-4. Komisje dyscyplinarne są niezawisłe w zakresie orzecznictwa dyscyplinarnego i nie są związane rozstrzygnięciami innych organów stosujących prawo, z wyjątkiem prawomocnego skazującego wyroku sądu, oraz samodzielnie rozstrzygają wszelkie zagadnienia faktyczne i prawne.
+### 1.
 
-**Art. 16d.**
+Członkowie kolegium w zakresie wykonywania czynności określonych ustawą korzystają z ochrony prawnej przysługującej funkcjonariuszom publicznym.
 
-1. Postępowanie dyscyplinarne wszczyna komisja dyscyplinarna pierwszej instancji na wniosek prezesa kolegium.
+### 2.
 
-2. Prezes kolegium oraz Krajowa Reprezentacja Samorządowych Kolegiów Odwoławczych mogą powoływać, spośród etatowych członków kolegiów, rzeczników dyscyplinarnych, do których należy prowadzenie w ich imieniu postępowania wyjaśniającego oraz popieranie przed komisją dyscyplinarną wniosku o ukaranie.
+Pozaetatowym członkom kolegium, którzy ulegli wypadkowi w czasie wykonywania czynności określonych ustawą, przysługuje:
 
-3. Wymierzenie za ten sam czyn kary w postępowaniu karnym lub w postępowaniu w sprawach o wykroczenia nie stanowi przeszkody do wszczęcia postępowania przed komisją dyscyplinarną.
+### 1)
 
-4. Komisja dyscyplinarna wydaje orzeczenie po przeprowadzeniu rozprawy oraz po wysłuchaniu uczestników postępowania.
+renta inwalidzka - w razie zaliczenia do jednej z grup inwalidów,
 
-5. Obwiniony członek etatowy kolegium ma prawo do korzystania z pomocy wybranego przez siebie obrońcy. W przypadku obwinionych członków pozaetatowych kolegium, jeżeli nie wybiorą sobie obrońcy, przewodniczący składu orzekającego wyznacza obrońcę z urzędu spośród członków etatowych kolegium.
+### 2)
 
-6. Od orzeczenia komisji dyscyplinarnej kolegium każda ze stron może odwołać się do komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych w ciągu 14 dni od dnia doręczenia orzeczenia.
+jednorazowe odszkodowanie - w razie zaliczenia do I lub II grupy inwalidów.
 
-7. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych.
+### 3.
 
-8. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
+Członkom rodziny osób, które zmarły wskutek wypadków przy pracy określonych w ust. 2, przysługuje renta rodzinna oraz jednorazowe odszkodowanie.
 
-**Art. 16e.**
+### 4.
 
-1. Postępowanie dyscyplinarne nie może być wszczęte po upływie 4 miesięcy od dnia powzięcia przez właściwy organ wiadomości o popełnieniu czynu uzasadniającego nałożenie kary i po upływie 3 lat od dnia popełnienia tego czynu. Jeżeli czyn stanowi przestępstwo, okres ten nie może być krótszy od okresu przedawnienia ścigania tego przestępstwa.
+Świadczenia wymienione w ust. 2 i 3 wypłaca Zakład Ubezpieczeń Społecznych z Funduszu Ubezpieczeń Społecznych.
 
-2. Kary dyscyplinarne ulegają zatarciu po upływie 3 lat od dnia doręczenia ukaranemu prawomocnego orzeczenia o ukaraniu, jeżeli w tym okresie nie został on ponownie ukarany dyscyplinarnie lub sądownie.
+### Art. 11.
 
-3. Do wzywania i przesłuchiwania obwinionego, świadków i biegłych oraz przeprowadzania innych dowodów w postępowaniu wyjaśniającym i dyscyplinarnym stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+### 1.
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania wyjaśniającego i postępowania dyscyplinarnego oraz wykonywania kar dyscyplinarnych i ich zatarcia.
+Przewodniczący kolegium kieruje pracami kolegium, a w szczególności:
 
-#### Rozdział 3 Zasady działania kolegium
+### 1)
 
-**Art. 17.**
+reprezentuje kolegium na zewnątrz,
 
-1. Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium, z zastrzeżeniem art. 79 ust. 5, 6 i 9, art. 80 ust. 1 i 3 oraz art. 81 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 121 i 50), wydawane są w formie decyzji albo postanowień.
+### 2)
 
-2. Kolegium wydaje orzeczenia po odbyciu niejawnej narady składu orzekającego, obejmującej dyskusję oraz głosowanie nad orzeczeniem i zasadniczymi motywami rozstrzygnięcia. Sprawę przedstawia członek kolegium wyznaczony jako jej sprawozdawca.
+przedkłada zgromadzeniu ogólnemu kolegium, Prezesowi Rady Ministrów oraz właściwemu sejmikowi samorządowemu roczną informację o działalności kolegium,
 
-3. Orzeczenia zapadają większością głosów. Członek składu orzekającego nie może wstrzymać się od głosu.
+### 3)
 
-4. Członek składu orzekającego, który został przegłosowany, ma prawo zgłosić przy podpisywaniu orzeczenia zdanie odrębne, uzasadniając je na piśmie w terminie 7 dni od dnia odbycia narady.
+opracowuje projekt regulaminu organizacyjnego kolegium,
 
-5. Orzeczenia kolegium podpisują wszyscy członkowie składu nie wyłączając przegłosowanego.
+### 4)
 
-**Art. 18.**
+zgłasza wniosek o ustalenie liczby członków kolegium,
 
-1. Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy prezes lub etatowy członek kolegium.
+### 5)
 
-2. Zasady wyznaczania składów orzekających określa regulamin, o którym mowa w art. 12 ust. 3 pkt 1.
+ogłasza konkurs na członków kolegium,
 
-3. Członkowie kolegium nieposiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych.
+### 6)
 
-**Art. 18a.** W postępowaniu przed kolegium nie może reprezentować strony:
+przewodniczy pracom komisji konkursowej,
 
-**Art. 19.**
+### 7)
 
-1. Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego oraz Ordynacji podatkowej, z uwzględnieniem przepisów niniejszej ustawy.
+przedstawia kandydatów na członków kolegium wyłonionych w drodze konkursu,
 
-2. W szczególności kolegium jest uprawnione do:
+### 8)
 
-- **1)** żądania niezbędnych dla wydania orzeczenia informacji i dokumentów dotyczących działalności organów jednostek samorządu terytorialnego;
-- **2)** wglądu w dokumentację związaną z załatwieniem spraw, o których mowa w art. 1 i 2.
+występuje z wnioskiem o powołanie i odwołanie zastępcy przewodniczącego kolegium oraz o odwołanie członka kolegium,
 
-3. Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez prezesa kolegium. Upoważnienie załącza się do akt sprawy.
+### 9)
 
-**Art. 20.**
+czuwa nad jednolitością orzecznictwa oraz sprawnością pracy kolegium,
 
-1. W przypadku stwierdzenia istotnych uchybień w pracy organu jednostki samorządu terytorialnego, prezes kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje organowi jednostki samorządu terytorialnego i, odrębnie, komisji rewizyjnej odpowiednio rady gminy, powiatu albo sejmiku województwa oraz właściwemu wojewodzie.
+### 10)
 
-2. Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu jednostki samorządu terytorialnego.
+wyznacza przewodniczących składów orzekających.
 
-3. Właściwe organy powiadamiają kolegium w terminie 30 dni o zajętym stanowisku.
+### 2.
 
-**Art. 21.**
+Przewodniczący kolegium wykonuje również czynności przewidziane przepisami prawa dla organów administracji państwowej, nie zastrzeżone dla składu orzekającego.
 
-1. Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami powszechnie obowiązującego prawa.
+### Art. 12.
 
-2. Kontrolę orzecznictwa kolegiów sprawuje sąd administracyjny.
+### 1.
 
-**Art. 22.** (uchylony)
+Zgromadzenie ogólne kolegium zwołuje co najmniej 2 razy w roku i przewodniczy mu przewodniczący kolegium.
 
-**Art. 23.** Zgromadzeni na wspólnym posiedzeniu prezesi kolegiów tworzą, z mocy prawa, Krajową Reprezentację Samorządowych Kolegiów Odwoławczych.
+### 2.
 
-**Art. 24.**
+W skład zgromadzenia ogólnego kolegium wchodzą osoby, o których mowa w art. 4 ust. 2.
 
-1. Do zadań zgromadzenia, o którym mowa w art. 23, należy:
+### 3.
 
-- **1)** wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej;
-- **2)** opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego;
-- **3)** określenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotyczących kolegiów.
+Do właściwości zgromadzenia ogólnego kolegium należy:
 
-2. Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia.
+### 1)
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+uchwalanie regulaminu organizacyjnego kolegium,
 
-**Art. 29.**
+### 2)
 
-1. Kolegia odwoławcze przy sejmikach samorządowych, działające na podstawie dotychczasowych przepisów, stają się, z dniem wejścia w życie ustawy, samorządowymi kolegiami odwoławczymi.
+wybór członków komisji konkursowej zgodnie z art. 8 ust. 3,
 
-2. (pominięty)
+### 3)
 
-3. (pominięty)
+przyjmowanie rocznej informacji o działalności kolegium,
 
-**Art. 30.**
+### 4)
 
-1. Członkowie dotychczasowych kolegiów odwoławczych przy sejmikach samorządowych, wykonujący tę funkcję w ramach stosunku pracy, stają się, z dniem wejścia w życie ustawy, etatowymi członkami terytorialnie odpowiedniego kolegium, chyba że nie spełniają warunków, o których mowa w art. 5 ust. 1.
+podejmowanie uchwał w innych sprawach przewidzianych przepisami prawa lub przedstawionych przez przewodniczącego kolegium.
 
-2. Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, niespełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów.
+### 4.
 
-3. Przepis ust. 2 stosuje się odpowiednio do członków kolegiów odwoławczych przy sejmikach samorządowych, którzy do czasu wejścia w życie ustawy pozaetatowo wykonywali tę funkcję.
+Z zastrzeżeniem art. 22 ust. 4, uchwały zgromadzenia zapadają większością głosów, w obecności co najmniej połowy składu kolegium. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego kolegium.
 
-4. Stosunek pracy z członkami kolegiów, o których mowa w ust. 1, przekształca się, z dniem wejścia w życie ustawy, w stosunek pracy na podstawie powołania.
+### Art. 13.
 
-5. Stosunek pracy z członkami kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 2, z dniem wejścia w życie ustawy wygasa. Członkom tym przysługuje od właściwego sejmiku samorządowego odszkodowanie w wysokości równej wynagrodzeniu za okres wypowiedzenia.
+Obsługę kancelaryjno-biurową kolegium zapewnia biuro kolegium.
 
-**Art. 31.**
+### Art. 14.
 
-1. Pracownicy sejmiku samorządowego, których zakresy czynności przewidują dotychczas obsługę kolegium odwoławczego, stają się, z dniem wejścia w życie ustawy, pracownikami terytorialnie odpowiedniego kolegium, z zastrzeżeniem ust. 2.
+Wojewoda zapewnia kolegium możliwość korzystania z niezbędnych lokali, za odpłatnością nie przekraczającą kosztów ponoszonych faktycznie na ich utrzymanie.
 
-2. Pracownicy, o których mowa w ust. 1, mogą do dnia wejścia w życie ustawy złożyć przewodniczącemu sejmiku oraz przewodniczącemu kolegium oświadczenie o odmowie zatrudnienia w kolegium. W przypadku tym pozostają oni pracownikami sejmiku, w którym są zatrudnieni w dniu ogłoszenia ustawy, na zasadach obowiązujących w dniu złożenia tego oświadczenia.
+### Art. 15.
 
-**Art. 32.** (pominięty)
+### 1.
 
-**Art. 33.** Mienie ruchome będące w używaniu kolegiów odwoławczych przy sejmikach samorządowych pozostaje, po dniu wejścia w życie ustawy, w używaniu samorządowych kolegiów odwoławczych.
+Stosunek pracy z wyboru z przewodniczącym kolegium nawiązuje przewodniczący sejmiku samorządowego.
 
-**Art. 34.** Traci moc art. 1 i art. 2 ustawy z dnia 24 czerwca 1994 r. o przedłużeniu kadencji kolegiów odwoławczych przy sejmikach samorządowych oraz o zmianie ustawy o ustroju miasta stołecznego Warszawy (Dz. U. poz. 396).
+### 2.
 
-**Art. 35.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+Przewodniczący kolegium nawiązuje i rozwiązuje stosunek pracy:
 
+### 1)
+
+na podstawie powołania - z etatowymi członkami kolegium,
+
+### 2)
+
+na podstawie umowy o pracę - z pracownikami biura kolegium.
+
+### 3.
+
+Podstawą rozwiązania stosunku pracy etatowego członka kolegium jest odwołanie, o którym mowa w art. 7 ust. 6.
+
+### 4.
+
+Pozaetatowi członkowie kolegium otrzymują wynagrodzenie za udział w posiedzeniach oraz zwrot kosztów podróży.
+
+### 5.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wynagradzania przewodniczącego, jego zastępcy i pozostałych członków kolegium, uwzględniając odpowiednio zasady i wysokość wynagradzania pracowników regionalnych izb obrachunkowych. W rozporządzeniu tym Prezes Rady Ministrów określi również szczegółowe zasady wynagradzania pracowników biura kolegium.
+
+### Art. 16.
+
+### 1.
+
+Przewodniczący kolegium dokonuje, w imieniu kolegium, czynności z zakresu prawa pracy wobec etatowych członków kolegium i pracowników biura kolegium.
+
+### 2.
+
+W sprawach nie uregulowanych w ustawie, dotyczących stosunku pracy etatowych członków kolegium i pracowników biura kolegium, mają odpowiednie zastosowanie przepisy o pracownikach samorządowych.
+
+### Rozdział 3 Zasady działania kolegium
+
+### Art. 17.
+
+### 1.
+
+Orzeczenia kolegium zapadają po przeprowadzeniu rozprawy lub na posiedzeniu niejawnym. Orzeczenia kolegium wydawane są w formie decyzji lub postanowień.
+
+### 2.
+
+Kolegium wydaje orzeczenia po odbyciu niejawnej narady składu orzekającego, obejmującej dyskusję oraz głosowanie nad orzeczeniem i zasadniczymi motywami rozstrzygnięcia. Sprawę przedstawia członek kolegium wyznaczony jako jej sprawozdawca.
+
+### 3.
+
+Orzeczenia zapadają większością głosów. Członek składu orzekającego nie może wstrzymać się od głosu.
+
+### 4.
+
+Członek składu orzekającego, który został przegłosowany, ma prawo zgłosić przy podpisywaniu orzeczenia zdanie odrębne, uzasadniając je na piśmie w terminie 7 dni od dnia odbycia narady.
+
+### 5.
+
+Orzeczenia kolegium podpisują wszyscy członkowie składu nie wyłączając przegłosowanego.
+
+### Art. 18.
+
+### 1.
+
+Kolegium orzeka w składzie trzyosobowym, chyba że przepisy szczególne stanowią inaczej. Składowi orzekającemu przewodniczy przewodniczący lub etatowy członek kolegium.
+
+### 2.
+
+Zasady wyznaczania składów orzekających określa regulamin, o którym mowa w art. 12 ust. 3 pkt 1.
+
+### 3.
+
+Członkowie kolegium nie posiadający wykształcenia prawniczego lub administracyjnego są wyznaczani do składów orzekających z uwzględnieniem ich kwalifikacji zawodowych.
+
+### Art. 19.
+
+### 1.
+
+Do wykonywania przez kolegium zadań, o których mowa w art. 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego, z uwzględnieniem przepisów niniejszej ustawy.
+
+### 2.
+
+W szczególności kolegium jest uprawnione do:
+
+### 1)
+
+żądania niezbędnych informacji i dokumentów dotyczących działalności organów gmin,
+
+### 2)
+
+wglądu w dokumentację związaną z załatwieniem spraw, o których mowa w art. 1 i 2.
+
+### 3.
+
+Żądając wglądu w dokumentację związaną z załatwieniem sprawy, członek kolegium przedkłada właściwemu organowi imienne upoważnienie podpisane przez przewodniczącego składu orzekającego. Upoważnienie załącza się do akt sprawy.
+
+### Art. 20.
+
+### 1.
+
+W przypadku stwierdzenia istotnych uchybień w pracy organu gminy, przewodniczący kolegium wydaje postanowienie sygnalizacyjne, którego odpisy przekazuje się gminie i, odrębnie, komisji rewizyjnej rady gminy oraz właściwemu wojewodzie.
+
+### 2.
+
+Postanowienie, o którym mowa w ust. 1, stanowi podstawę do wszczęcia postępowania dyscyplinarnego w stosunku do pracowników samorządowych, jeżeli ich działanie lub zaniechanie jest przyczyną powstania uchybień w pracy organu gminy.
+
+### 3.
+
+Właściwe organy powiadamiają kolegium w terminie 30 dni o zajętym stanowisku.
+
+### Art. 21.
+
+### 1.
+
+Przy orzekaniu członkowie składów orzekających kolegium są związani wyłącznie przepisami prawa.
+
+### 2.
+
+Kontrolę kolegiów w zakresie orzecznictwa sprawuje sąd administracyjny na zasadach i w trybie określonych przepisami o postępowaniu administracyjnym.
+
+### Art. 22.
+
+### 1.
+
+Kolegium w pełnym składzie może, na zasadach określonych ustawami, wystąpić do Naczelnego Sądu Administracyjnego lub Trybunału Konstytucyjnego z pytaniem prawnym, od odpowiedzi na które zależy rozstrzygnięcie rozpoznawanej sprawy.
+
+### 2.
+
+Kolegium w pełnym składzie może również występować z wnioskami, o których mowa w art. 22 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ([Dz. U. z 1991 r. Nr 109, poz. 470](https://api.sejm.gov.pl/eli/acts/DU/1991/470/text.html) i z [1993 r. Nr 47, poz. 213](https://api.sejm.gov.pl/eli/acts/DU/1993/213/text.html)), na zasadach i w trybie określonych w tej ustawie.
+
+### 3.
+
+Wniesienie pytania, o którym mowa w ust. 1, powoduje z mocy prawa zawieszenie postępowania w sprawie, w związku z którą zostało wniesione.
+
+### 4.
+
+W sprawach, o których mowa w ust. 1 i 2, uchwały podejmowane są na wniosek składu orzekającego. Do podjęcia uchwały przez pełny skład kolegium wymagana jest obecność co najmniej 3/5 składu kolegium. Uchwały podejmowane są w głosowaniu jawnym, bezwzględną większością głosów. W razie równości głosów przeważa głos przewodniczącego kolegium.
+
+### 5.
+
+Przepis art. 21 ust. 1 stosuje się odpowiednio.
+
+### Art. 23.
+
+Zgromadzeni na wspólnym posiedzeniu przewodniczący kolegiów tworzą, z mocy prawa, krajową reprezentację samorządowych kolegiów odwoławczych.
+
+### Art. 24.
+
+### 1.
+
+Do zadań zgromadzenia, o którym mowa w art. 23, należy:
+
+### 1)
+
+wymiana doświadczeń w zakresie organizacji i funkcjonowania kolegiów, a także ich działalności orzeczniczej,
+
+### 2)
+
+opiniowanie projektów aktów prawnych w szczególności dotyczących kolegiów i postępowania administracyjnego,
+
+### 3)
+
+określenie zasad organizacji prac zgromadzenia oraz podejmowanie uchwał w innych istotnych sprawach dotyczących kolegiów.
+
+### 2.
+
+Obsługę zgromadzenia zapewnia, każdorazowo, biuro kolegium, w którego siedzibie odbywa się posiedzenie zgromadzenia.
+
+### Rozdział 4 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 25.
+
+W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 1980 r. Nr 9, poz. 26](https://api.sejm.gov.pl/eli/acts/DU/1980/26/text.html) i [Nr 27, poz. 111](https://api.sejm.gov.pl/eli/acts/DU/1980/111/text.html), z [1982 r. Nr 7, poz. 55](https://api.sejm.gov.pl/eli/acts/DU/1982/55/text.html) i [Nr 45, poz. 289](https://api.sejm.gov.pl/eli/acts/DU/1982/289/text.html), z [1983 r. Nr 41, poz. 185](https://api.sejm.gov.pl/eli/acts/DU/1983/185/text.html), z [1984 r. Nr 34, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1984/183/text.html), z [1986 r. Nr 47, poz. 228](https://api.sejm.gov.pl/eli/acts/DU/1986/228/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html) i [Nr 33, poz. 186](https://api.sejm.gov.pl/eli/acts/DU/1987/186/text.html), z [1989 r. Nr 20, poz. 107](https://api.sejm.gov.pl/eli/acts/DU/1989/107/text.html), z [1990 r. Nr 34, poz. 201](https://api.sejm.gov.pl/eli/acts/DU/1990/201/text.html) oraz z [1991 r. Nr 100, poz. 442](https://api.sejm.gov.pl/eli/acts/DU/1991/442/text.html) i [Nr 119, poz. 513](https://api.sejm.gov.pl/eli/acts/DU/1991/513/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+użyte w art. 5 § 2 pkt 6, art. 22 § 1 pkt 1 i 2, art. 27 § 3, art. 127 § 4, art. 150 § 3, art. 152 § 2 w różnych przypadkach i liczbie wyrazy „kolegium odwoławcze przy sejmiku” zastępuje się użytymi w odpowiednich przypadkach i liczbie wyrazami „samorządowe kolegia odwoławcze”;
+
+### 2)
+
+w art. 17 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+w stosunku do organów gmin w sprawach należących do zadań zleconych z zakresu administracji rządowej - wojewodowie, a w pozostałych sprawach - samorządowe kolegia odwoławcze,
+
+” ;
+
+### 3)
+
+art. 27a skreśla się;
+
+### 4)
+
+w art. 145 w § 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+decyzja wydana została przez pracownika lub organ administracji państwowej, który podlega wyłączeniu stosownie do art. 24, 25 i 27
+
+” ;
+
+### 5)
+
+w art. 157 w § 1 po wyrazach „naczelny organ administracji państwowej” dodaje się wyrazy „lub samorządowe kolegium odwoławcze” oraz skreśla zdanie drugie.
+
+### Art. 26.
+
+W ustawie z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego ([Dz. U. Nr 4, poz. 8](https://api.sejm.gov.pl/eli/acts/DU/1980/8/text.html), [Nr 19, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/1980/68/text.html) i [Nr 27, poz. 111](https://api.sejm.gov.pl/eli/acts/DU/1980/111/text.html), z [1989 r. Nr 73, poz. 436](https://api.sejm.gov.pl/eli/acts/DU/1989/436/text.html) oraz z [1990 r. Nr 53, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html)) dodaje się art. 2a w brzmieniu:
+
+„
+
+### Art. 2a.
+
+### 1.
+
+Naczelny Sąd Administracyjny podejmuje uchwały zawierające rozstrzygnięcia zagadnień prawnych w kwestiach budzących poważne wątpliwości w konkretnej sprawie, przedstawionych w formie pytań prawnych przez samorządowe kolegia odwoławcze.
+
+### 2.
+
+Uchwała sądu, o której mowa w ust. 1, zapada w składzie 5 sędziów i wiąże w danej sprawie.
+
+”
+
+### Art. 27.
+
+W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ([Dz. U. z 1991 r. Nr 109, poz. 470](https://api.sejm.gov.pl/eli/acts/DU/1991/470/text.html) i z [1993 r. Nr 47, poz. 213](https://api.sejm.gov.pl/eli/acts/DU/1993/213/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23 w ust. 1 po wyrazach „rada gminy lub sejmik samorządowy” dodaje się wyrazy „a także samorządowe kolegium odwoławcze”;
+
+### 2)
+
+w art. 25 w ust. 1 po wyrazach „administracji państwowej” dodaje się wyrazy „a także samorządowe kolegia odwoławcze”.
+
+### Art. 28.
+
+W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym ([Dz. U. Nr 16, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1990/95/text.html), [Nr 32, poz. 191](https://api.sejm.gov.pl/eli/acts/DU/1990/191/text.html), [Nr 34, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/1990/199/text.html), [Nr 43, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1990/253/text.html) i [Nr 89, poz. 518](https://api.sejm.gov.pl/eli/acts/DU/1990/518/text.html), z [1991 r. Nr 4, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/1991/18/text.html) i [Nr 110, poz. 473](https://api.sejm.gov.pl/eli/acts/DU/1991/473/text.html), z [1992 r. Nr 85, poz. 428](https://api.sejm.gov.pl/eli/acts/DU/1992/428/text.html) i [Nr 100, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/1992/499/text.html) oraz z [1993 r. Nr 17, poz. 78](https://api.sejm.gov.pl/eli/acts/DU/1993/78/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 39:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Z zastrzeżeniem ust. 5, od decyzji administracyjnych wydawanych przez organy gminy służy odwołanie do samorządowego kolegium odwoławczego.
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Od decyzji administracyjnych wydawanych przez organy gminy w sprawach zleconych z zakresu administracji rządowej służy odwołanie do wojewody.
+
+” ;
+
+### 2)
+
+w art. 77 w ust. 1 pkt 11 otrzymuje brzmienie:
+
+„
+
+### 11)
+
+wybór przewodniczącego oraz powoływanie jego zastępcy i pozostałych członków samorządowego kolegium odwoławczego, o którym mowa w art. 39 ust. 4, a także ich odwoływanie - na zasadach określonych odrębną ustawą,
+
+” ;
+
+### 3)
+
+art. 81 otrzymuje brzmienie:
+
+„
+
+### Art. 81.
+
+Ustrój oraz zasady działania samorządowego kolegium odwoławczego określa odrębna ustawa.
+
+” ;
+
+### 4)
+
+po art. 101 dodaje się art. 101a w brzmieniu:
+
+„
+
+### Art. 101a.
+
+### 1.
+
+Przepisy art. 101 stosuje się odpowiednio, gdy organ gminy nie wykonuje czynności nakazanych prawem albo przez podejmowane czynności prawne lub faktyczne narusza prawa osób trzecich.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko gminy.
+
+” ;
+
+### 5)
+
+w art. 102 wyrazy „kolegia odwoławcze przy sejmikach” zastępuje się wyrazami „samorządowe kolegia odwoławcze”.
+
+### Art. 29.
+
+### 1.
+
+Kolegia odwoławcze przy sejmikach samorządowych, działające na podstawie dotychczasowych przepisów, stają się, z dniem wejścia w życie ustawy, samorządowymi kolegiami odwoławczymi.
+
+### 2.
+
+Do dnia 31 grudnia 1994 r. samorządowe kolegia odwoławcze finansowane są według dotychczasowych zasad.
+
+### 3.
+
+Sprawy, w których postępowanie nie zostało zakończone przed kolegiami odwoławczymi przy sejmikach samorządowych, z dniem wejścia ustawy w życie przejmują do załatwienia samorządowe kolegia odwoławcze.
+
+### Art. 30.
+
+### 1.
+
+Członkowie dotychczasowych kolegiów odwoławczych przy sejmikach samorządowych, wykonujący tę funkcję w ramach stosunku pracy, stają się, z dniem wejścia w życie ustawy, etatowymi członkami terytorialnie odpowiedniego kolegium, chyba że nie spełniają warunków, o których mowa w art. 5 ust. 1.
+
+### 2.
+
+Do czasu wyboru pozaetatowych członków kolegiów w trybie art. 32 ust. 2 członkowie kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 1, nie spełniający warunków określonych w art. 5 ust. 1, stają się, z dniem wejścia w życie ustawy, pozaetatowymi członkami kolegiów.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do członków kolegiów odwoławczych przy sejmikach samorządowych, którzy do czasu wejścia w życie ustawy pozaetatowo wykonywali tę funkcję.
+
+### 4.
+
+Stosunek pracy z członkami kolegiów, o których mowa w ust. 1, przekształca się, z dniem wejścia w życie ustawy, w stosunek pracy na podstawie powołania.
+
+### 5.
+
+Stosunek pracy z członkami kolegiów odwoławczych przy sejmikach samorządowych, o których mowa w ust. 2, z dniem wejścia w życie ustawy wygasa. Członkom tym przysługuje od właściwego sejmiku samorządowego odszkodowanie w wysokości równej wynagrodzeniu za okres wypowiedzenia.
+
+### Art. 31.
+
+### 1.
+
+Pracownicy sejmiku samorządowego, których zakresy czynności przewidują dotychczas obsługę kolegium odwoławczego, stają się, z dniem wejścia w życie ustawy, pracownikami terytorialnie odpowiedniego kolegium, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Pracownicy, o których mowa w ust. 1, mogą do dnia wejścia w życie ustawy złożyć przewodniczącemu sejmiku oraz przewodniczącemu kolegium oświadczenie o odmowie zatrudnienia w kolegium. W przypadku tym pozostają oni pracownikami sejmiku, w którym są zatrudnieni w dniu ogłoszenia ustawy, na zasadach obowiązujących w dniu złożenia tego oświadczenia.
+
+### Art. 32.
+
+### 1.
+
+Wybór pierwszego przewodniczącego kolegium następuje nie później niż w terminie 4 miesięcy od dnia wejścia w życie ustawy. Do tego czasu funkcje przewodniczącego kolegium pełni przewodniczący kolegium odwoławczego przy sejmiku samorządowym.
+
+### 2.
+
+Do pierwszego składu kolegium sejmik wybiera połowę pozaetatowych członków kolegium na okres 3 lat, połowę zaś na okres 6 lat.
+
+### 3.
+
+Pierwsze składy kolegiów powołanych na podstawie niniejszej ustawy rozpoczynają działalność nie wcześniej niż 1 stycznia 1995 r.
+
+### Art. 33.
+
+Mienie ruchome będące w używaniu kolegiów odwoławczych przy sejmikach samorządowych pozostaje, po dniu wejścia w życie ustawy, w używaniu samorządowych kolegiów odwoławczych.
+
+### Art. 34.
+
+Traci moc art. 1 i art. 2 ustawy z dnia 24 czerwca 1994 r. o przedłużeniu kadencji kolegiów odwoławczych przy sejmikach samorządowych oraz o zmianie ustawy o ustroju miasta stołecznego Warszawy ([Dz. U. Nr 86, poz. 396](https://api.sejm.gov.pl/eli/acts/DU/1994/396/text.html)).
+
+### Art. 35.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

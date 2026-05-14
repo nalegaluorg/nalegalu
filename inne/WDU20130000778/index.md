@@ -8,11 +8,9 @@ pos: 778
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”
-
-*USTAWA z dnia 10 maja 2013 r.*
+# Ustawa z dnia 10 maja 2013 r. o uchyleniu ustawy o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2013-05-10 |
 | Data wydania | 2013-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/778/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2013/778/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2013/778) |
 
-**Art. 1.** Traci moc ustawa z dnia 14 czerwca 1991 r. o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT” (Dz. U. Nr 61, poz. 260 oraz z 1996 r. Nr 106, poz. 496).
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Traci moc ustawa z dnia 14 czerwca 1991 r. o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT” ([Dz. U. Nr 61, poz. 260](https://api.sejm.gov.pl/eli/acts/DU/1991/260/text.html) oraz z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html)).
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

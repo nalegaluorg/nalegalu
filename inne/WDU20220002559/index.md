@@ -1,0 +1,354 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 17 listopada 2022 r. w sprawie wyłączenia od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny
+address: WDU20220002559
+eli: DU/2022/2559
+publisher: DU
+year: 2022
+pos: 2559
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 17 listopada 2022 r. w sprawie wyłączenia od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2559 |
+| ISAP | WDU20220002559 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-11-17 |
+| Data wydania | 2022-12-09 |
+| Wejście w życie | 2022-12-24 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/2559/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/2559) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Szczegółowy wykaz kwalifikacji lub stanowisk, których zajmowanie powoduje wyłączenie z urzędu od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny](#part_2)
+
+- [Załącznik nr 2 - Zawiadomienie o wyłączeniu z urzędu (wzór)](#part_3)
+
+- [Załącznik nr 3 - Wniosek w sprawie wyłączenia (wzór)](#part_4)
+
+- [Załącznik nr 4 - Zawiadomienie o ustaniu przyczyn wyłączenia (wzór)](#part_5)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 541 ust. 13 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny ([Dz. U. poz. 2305](https://api.sejm.gov.pl/eli/acts/DU/2022/2305/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+tryb wyłączania od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny;
+
+### 2)
+
+szczegółowy wykaz kwalifikacji lub stanowisk, których posiadanie lub zajmowanie powoduje wyłączenie z urzędu;
+
+### 3)
+
+wzory zawiadomień i wniosku w sprawie wyłączenia.
+
+### § 2.
+
+Użyte w rozporządzeniu określenia oznaczają:
+
+### 1)
+
+szef wojskowego centrum rekrutacji - szefa wojskowego centrum rekrutacji właściwego ze względu na miejsce pobytu stałego albo pobytu czasowego trwającego ponad 3 miesiące osoby podlegającej wyłączeniu;
+
+### 2)
+
+pracodawca - kierowników urzędów państwowych lub urzędów jednostek samorządu terytorialnego oraz przedsiębiorców, pracodawców lub inne podmioty uprawnione do zatrudnienia lub nawiązania stosunku służbowego w stosunku do osób, o których mowa w art. 541 ust. 5 pkt 1 lit. c i d oraz pkt 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”, a w przypadku funkcjonariuszy osobę uprawnioną do nawiązania pierwszego stosunku służbowego oraz rozwiązania ostatniego stosunku służbowego.
+
+### § 3.
+
+Szczegółowy wykaz kwalifikacji lub stanowisk wskazanych w art. 541 ust. 5 pkt 1 lit. d ustawy, których zajmowanie powoduje wyłączenie z urzędu, jest określony w załączniku nr 1 do rozporządzenia.
+
+### § 4.
+
+### 1.
+
+Kancelaria Sejmu Rzeczypospolitej Polskiej, Kancelaria Senatu Rzeczypospolitej Polskiej, kierownicy urzędów jednostek samorządu terytorialnego oraz pracodawcy, sporządzają - w ramach wyłączenia z urzędu - zawiadomienia i przesyłają je do szefa wojskowego centrum rekrutacji w terminie 30 dni od dnia powstania okoliczności uzasadniających wyłączenie.
+
+### 2.
+
+Zawiadomienia sporządza się na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pismo utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pismo utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 3.
+
+W zawiadomieniach ujmuje się następujące dane osób podlegających wyłączeniu: imię (imiona) i nazwisko, a w przypadku zmiany nazwiska również nazwisko rodowe, a także numer PESEL, stopień wojskowy, adres miejsca pobytu stałego lub pobytu czasowego trwającego ponad 3 miesiące, określenie zajmowanego stanowiska lub kwalifikacji albo pełnionej funkcji.
+
+### 4.
+
+Osoby zajmujące stanowiska organów administracji publicznej, w rozumieniu art. 5 § 2 pkt 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2022 r. poz. 2000](https://api.sejm.gov.pl/eli/acts/DU/2022/2000/text.html) i [2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html)), wykonują czynności, o których mowa w ust. 1, we własnym imieniu.
+
+### 5.
+
+Wzór zawiadomienia jest określony w załączniku nr 2 do rozporządzenia.
+
+### § 5.
+
+### 1.
+
+Wyłączenie osób ujętych w zawiadomieniach, o których mowa w § 4 ust. 1, następuje na podstawie decyzji szefa wojskowego centrum rekrutacji, w oparciu o dane zawarte w ewidencji wojskowej.
+
+### 2.
+
+Informacje o dokonanym wyłączeniu szef wojskowego centrum rekrutacji przekazuje podmiotom wskazanym w § 4 ust. 1 i 4.
+
+### § 6.
+
+### 1.
+
+Wyłączenie na wniosek może być prowadzone w stosunku do osób zatrudnionych w:
+
+### 1)
+
+urzędach państwowych lub samorządowych,
+
+### 2)
+
+Narodowym Banku Polskim,
+
+### 3)
+
+przedsiębiorstwach należących do przedsiębiorców, na których nałożone zostały zadania na rzecz Sił Zbrojnych Rzeczypospolitej Polskiej, zwanych dalej „Siłami Zbrojnymi”, o których mowa w art. 648 ust. 1 pkt 1, 2 i 5 ustawy, w tym zadania wynikające z Planu zabezpieczenia potrzeb Sił Zbrojnych,
+
+### 4)
+
+jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych,
+
+### 5)
+
+jednostkach organizacyjnych podległych Prezesowi Rady Ministrów lub przez niego nadzorowanych nieujętych w szczegółowym wykazie, o którym mowa w § 3,
+
+### 6)
+
+jednostkach organizacyjnych:
+
+### a)
+
+podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych,
+
+### b)
+
+podległych Ministrowi Sprawiedliwości lub przez niego nadzorowanych oraz w przedsiębiorstwach państwowych, wobec których Minister Sprawiedliwości pełni funkcję organu założycielskiego,
+
+### c)
+
+Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu,
+
+### d)
+
+Centralnego Biura Antykorupcyjnego,
+
+### e)
+
+podległych ministrowi właściwemu do spraw gospodarki lub przez niego nadzorowanych,
+
+### f)
+
+podległych ministrowi właściwemu do spraw rolnictwa lub przez niego nadzorowanych,
+
+### g)
+
+podległych ministrowi właściwemu do spraw rozwoju wsi lub przez niego nadzorowanych,
+
+### h)
+
+podległych ministrowi właściwemu do spraw rynków rolnych lub przez niego nadzorowanych,
+
+### i)
+
+podległych ministrowi właściwemu do spraw rybołówstwa lub przez niego nadzorowanych,
+
+### j)
+
+podległych ministrowi właściwemu do spraw energii lub przez niego nadzorowanych,
+
+### k)
+
+podległych ministrowi właściwemu do spraw gospodarki złożami kopalin lub przez niego nadzorowanych,
+
+### l)
+
+podległych ministrowi właściwemu do spraw informatyzacji lub przez niego nadzorowanych,
+
+### m)
+
+podległych ministrowi właściwemu do spraw zdrowia lub przez niego nadzorowanych,
+
+### n)
+
+podległych ministrowi właściwemu do spraw transportu lub przez niego nadzorowanych,
+
+### o)
+
+podległych ministrowi właściwemu do spraw gospodarki wodnej lub przez niego nadzorowanych,
+
+### p)
+
+podległych ministrowi właściwemu do spraw żeglugi śródlądowej lub przez niego nadzorowanych,
+
+### q)
+
+podległych ministrowi właściwemu do spraw gospodarki morskiej lub przez niego nadzorowanych,
+
+### r)
+
+podległych ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego lub przez niego nadzorowanych,
+
+### 7)
+
+podmiotach wykonujących działalność leczniczą, o których mowa w art. 4 ust. 1 pkt 2-4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ([Dz. U. z 2022 r. poz. 633](https://api.sejm.gov.pl/eli/acts/DU/2022/633/text.html), [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html), [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html) i [2280](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.html)), oraz będących dysponentami jednostek systemu Państwowe Ratownictwo Medyczne, o którym mowa w art. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ([Dz. U. z 2022 r. poz. 1720](https://api.sejm.gov.pl/eli/acts/DU/2022/1720/text.html) i [1733](https://api.sejm.gov.pl/eli/acts/DU/2022/1733/text.html)),
+
+### 8)
+
+przedsiębiorstwach świadczących usługi związane z utrzymaniem i obsługą systemów łączności na potrzeby kierowania bezpieczeństwem narodowym, w tym obroną państwa,
+
+### 9)
+
+ministerstwach, urzędach centralnych i wojewódzkich i w urzędach jednostek samorządu terytorialnego oraz w Narodowym Banku Polskim na etatowych stanowiskach zastępców pełnomocników do spraw ochrony informacji niejawnych
+
+- w przypadkach, o których mowa w art. 541 ust. 5 pkt 2 ustawy.
+
+### 2.
+
+Wyłączenie na wniosek może być prowadzone także w stosunku do:
+
+### 1)
+
+przedsiębiorców, o których mowa w ust. 1 pkt 3;
+
+### 2)
+
+osób wskazanych w dokumentacji planowania operacyjnego zatrudnionych w przedsiębiorstwach świadczących usługi związane z realizacją zadań na rzecz Sił Zbrojnych.
+
+### 3.
+
+W razie ogłoszenia mobilizacji i w czasie wojny wyłączenie na wniosek może być prowadzone w stosunku do żołnierzy pełniących czynną służbę wojskową po 30 dniach od dnia ogłoszenia mobilizacji lub wybuchu wojny, nie wcześniej jednak niż po 30 dniach od dnia powołania ich do czynnej służby wojskowej.
+
+### § 7.
+
+### 1.
+
+Pracodawca będący podmiotem wskazanym w art. 541 ust. 7 ustawy sporządza - w ramach wyłączenia na wniosek - pisemny wniosek, wskazując w nim imiennie osoby spełniające warunki, o których mowa w § 6 ust. 1 i 2, i przesyła go szefowi wojskowego centrum rekrutacji.
+
+### 2.
+
+Wniosek sporządza się na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pismo utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pismo utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 3.
+
+We wniosku ujmuje się następujące dane wskazanych w nim osób: imię (imiona) i nazwisko - a w przypadku zmiany nazwiska również nazwisko rodowe - oraz numer PESEL, stopień wojskowy, adres miejsca pobytu stałego lub pobytu czasowego trwającego ponad 3 miesiące, określenie zajmowanego stanowiska lub pełnionej funkcji, a także uzasadnienie konieczności wyłączenia, a w odniesieniu do przedsiębiorców, o których mowa w § 6 ust. 1 pkt 3, również decyzję o nałożeniu obowiązku realizacji zadań na rzecz Sił Zbrojnych.
+
+### 4.
+
+Wzór wniosku jest określony w załączniku nr 3 do rozporządzenia.
+
+### § 8.
+
+### 1.
+
+Wyłączenie lub odmowa wyłączenia osoby wskazanej we wniosku, o którym mowa w § 7 ust. 1, następuje na podstawie decyzji szefa wojskowego centrum rekrutacji, w oparciu o dane zawarte w ewidencji wojskowej.
+
+### 2.
+
+Szef wojskowego centrum rekrutacji:
+
+### 1)
+
+w przypadku wyłączenia - informuje pracodawcę osoby wyłączonej o dokonanym wyłączeniu;
+
+### 2)
+
+w przypadku odmowy wyłączenia - przesyła pracodawcy osoby wskazanej we wniosku decyzję o odmowie wyłączenia.
+
+### § 9.
+
+### 1.
+
+Pracodawca - w przypadku wyłączenia na wniosek dotyczącego żołnierza pełniącego czynną służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny przesyła wniosek, o którym mowa w § 7 ust. 1, szefowi wojskowego centrum rekrutacji. Dane zawarte we wniosku dotyczące żołnierza mogą nie uwzględniać zmian powstałych po powołaniu go do czynnej służby wojskowej.
+
+### 2.
+
+Szef wojskowego centrum rekrutacji po otrzymaniu wniosku przesyła go dowódcy jednostki wojskowej, której ewidencją żołnierz jest objęty.
+
+### 3.
+
+Wyłączenie i zwolnienie żołnierza wskazanego w otrzymanym wniosku z czynnej służby wojskowej pełnionej w razie ogłoszenia mobilizacji i w czasie wojny lub odmowa wyłączenia tego żołnierza następuje na podstawie decyzji dowódcy jednostki wojskowej w oparciu o dane zawarte w ewidencji wojskowej.
+
+### 4.
+
+Dowódca jednostki wojskowej za pośrednictwem szefa wojskowego centrum rekrutacji:
+
+### 1)
+
+w przypadku wyłączenia - informuje pracodawcę żołnierza o dokonanym wyłączeniu;
+
+### 2)
+
+w przypadku odmowy wyłączenia - przesyła pracodawcy żołnierza decyzję o odmowie wyłączenia.
+
+### § 10.
+
+Odmowa wyłączenia na wniosek odpowiednio żołnierza pasywnej rezerwy albo żołnierza aktywnej rezerwy, albo żołnierza w czynnej służbie wojskowej może nastąpić na podstawie decyzji szefa wojskowego centrum rekrutacji lub dowódcy jednostki wojskowej, jeżeli zwolnienie tego żołnierza z obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny spowodowałoby niemożliwe do uzupełnienia braki w stanie osobowym Sił Zbrojnych, obniżyłoby zdolność bojową jednostki wojskowej albo jeżeli Siły Zbrojne poniosły nakłady na uzyskanie przez tego żołnierza kwalifikacji specjalistycznych przydatnych w Siłach Zbrojnych lub nie zostały spełnione przesłanki wskazane w § 6 ust. 1.
+
+### § 11.
+
+Uchylenie dokonanego wyłączenia na wniosek może nastąpić na podstawie decyzji szefa wojskowego centrum rekrutacji lub dowódcy jednostki wojskowej:
+
+### 1)
+
+na wniosek pracodawcy;
+
+### 2)
+
+z urzędu, jeżeli zachodzą okoliczności uzasadniające odmowę wyłączenia na wniosek.
+
+### § 12.
+
+### 1.
+
+Organy dokonujące zawiadomienia o osobach podlegających wyłączeniu z urzędu oraz organy wnioskujące o wyłączenie na wniosek zawiadamiają niezwłocznie szefa wojskowego centrum rekrutacji o ustaniu przyczyn wyłączenia.
+
+### 2.
+
+Zawiadomienie o ustaniu przyczyn wyłączenia sporządza się na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pismo utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pismo utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 3.
+
+Wzór zawiadomienia jest określony w załączniku nr 4 do rozporządzenia.
+
+### § 13.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 września 2004 r. w sprawie reklamowania od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny (Dz. U. poz. 2136, z 2008 r. poz. 60, z 2009 r. poz. 883, z 2014 r. poz. 1703 oraz z 2020 r. poz. 1039), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.](#gloss-0:1:)
+
+1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 21 września 2004 r. w sprawie reklamowania od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny (Dz. U. poz. 2136, z 2008 r. poz. 60, z 2009 r. poz. 883, z 2014 r. poz. 1703 oraz z 2020 r. poz. 1039), które zgodnie z art. 821 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305) traci moc z dniem wejścia w życie niniejszego rozporządzenia.
+
+## Załącznik nr 1 - Szczegółowy wykaz kwalifikacji lub stanowisk, których zajmowanie powoduje wyłączenie z urzędu od obowiązku pełnienia czynnej służby wojskowej w razie ogłoszenia mobilizacji i w czasie wojny
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2559/text.pdf)
+
+## Załącznik nr 2 - Zawiadomienie o wyłączeniu z urzędu (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2559/text.pdf)
+
+## Załącznik nr 3 - Wniosek w sprawie wyłączenia (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2559/text.pdf)
+
+## Załącznik nr 4 - Zawiadomienie o ustaniu przyczyn wyłączenia (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2559/text.pdf)

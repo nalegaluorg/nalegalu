@@ -8,11 +8,9 @@ pos: 1589
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks karny, ustawy – Kodeks postępowania karnego, ustawy – Kodeks karny wykonawczy, ustawy – Kodeks karny skarbowy oraz niektórych innych ustaw
-
-*USTAWA z dnia 5 listopada 2009 r.*
+# Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 20 maja 1971 r. - Kodeks wykroczeń, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks karny, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,154 +22,1916 @@ domain: null
 | Data ogłoszenia | 2009-11-05 |
 | Data wydania | 2009-12-07 |
 | Ostatnia zmiana | 2024-04-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1589/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/1589/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/1589) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 200b.** Kto publicznie propaguje lub pochwala zachowania o charakterze pedofilskim, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”;
+### Art. 1.
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) wprowadza się następujące zmiany:
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344 oraz z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474 i Nr 201, poz. 1540.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 517a.** W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu uproszczonym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+### 1)
 
-**Art. 517b.**
+w art. 10 § 2 otrzymuje brzmienie:
 
-§ 1. W postępowaniu przyspieszonym mogą być rozpoznawane sprawy o przestępstwa podlegające rozpoznaniu w trybie uproszczonym, jeżeli sprawca został ujęty na gorącym uczynku popełnienia przestępstwa lub bezpośrednio potem, zatrzymany oraz w ciągu 48 godzin doprowadzony przez Policję i przekazany do dyspozycji sądu wraz z wnioskiem o rozpoznanie sprawy w postępowaniu przyspieszonym, zwanym dalej „wnioskiem o rozpoznanie sprawy”.
+„
 
-§ 2. Postępowanie przyspieszone toczy się w trybie publicznoskargowym także o przestępstwa ścigane z oskarżenia prywatnego, jeżeli miały one charakter chuligański.
+### § 2.
 
-§ 3. Można odstąpić od zatrzymania i przymusowego doprowadzenia do sądu sprawcy ujętego w warunkach określonych w § 1 lub zwolnić zatrzymanego, zobowiązując go do stawienia się w sądzie w wyznaczonym miejscu i czasie, w okresie nieprzekraczającym 72 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji, ze skutkiem wezwania. Wniosek o rozpoznanie sprawy przekazuje się w takim wypadku sądowi wraz z materiałem dowodowym w ciągu 48 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji, a gdy termin ten upływa w dniu wolnym od pracy – w najbliższym dniu roboczym, tak jednak aby sąd mógł przystąpić do rozpoznania sprawy przed upływem 72 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji.
+Nieletni, który po ukończeniu 15 lat dopuszcza się czynu zabronionego określonego w art. 134, art. 148 § 1, art. 156 § 1 lub 3, art. 163 § 1 lub 3, art. 166, art. 173 § 1 lub 3, art. 197 § 3 lub 4, art. 252 § 1 lub 2 oraz w art. 280, może odpowiadać na zasadach określonych w tym kodeksie, jeżeli okoliczności sprawy oraz stopień rozwoju sprawcy, jego właściwości i warunki osobiste za tym przemawiają, a w szczególności, jeżeli poprzednio stosowane środki wychowawcze lub poprawcze okazały się bezskuteczne.
 
-§ 4. W stosunku do sprawcy występku o charakterze chuligańskim przepis § 3 może być stosowany wyjątkowo, jeżeli z okoliczności wynika, że sprawca stawi się w sądzie w wyznaczonym miejscu i czasie oraz nie będzie utrudniał postępowania w inny sposób.
+” ;
 
-**Art. 517c.**
+### 2)
 
-§ 1. Dochodzenie można ograniczyć do przesłuchania osoby podejrzanej w charakterze podejrzanego oraz zabezpieczenia dowodów w niezbędnym zakresie. W toku dochodzenia czynności procesowych określonych w art. 303 i 321 można nie dokonywać.
+w art. 25 § 3 otrzymuje brzmienie:
 
-§ 2. Podejrzanego poucza się o jego uprawnieniach: do składania wyjaś nień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do korzystania z pomocy obrońcy, do złożenia – już w toku dochodzenia – wniosku, o którym mowa w art. 387 § 1, a także o możliwości złożenia przez prokuratora wniosku, o którym mowa w art. 335 § 1, oraz o obowiązkach i konsekwencjach wskazanych w art. 74, 75, 138, 139 i 517e § 2. Pouczenie to należy wręczyć podejrzanemu na piśmie za potwierdzeniem odbioru. mowa w art. 335 § 1, lub gdy podejrzany złożył wniosek określony w art. 387 § 1, podejrzanego przesłuchuje prokurator.
+„
 
-**Art. 517d.**
+### § 3.
 
-§ 1. W razie istnienia podstaw do wystąpienia z wnioskiem o rozpoznanie sprawy, Policja sporządza taki wniosek i przekazuje go do sądu wraz ze zgromadzonym materiałem dowodowym, zawiadamiając o tym niezwłocznie prokuratora; wniosek ten zastępuje akt oskarżenia.
+Nie podlega karze, kto przekracza granice obrony koniecznej pod wpływem strachu lub wzburzenia usprawiedliwionych okolicznościami zamachu.
 
-§ 2. Jeżeli zachodzą warunki do wystąpienia z wnioskiem, o którym mowa w art. 335 § 1, lub gdy podejrzany złożył wniosek określony w art. 387 § 1, Policja przedstawia wniosek o rozpoznanie sprawy prokuratorowi do zatwierdzenia. Prokurator może odmówić zatwierdzenia wniosku o rozpoznanie sprawy, podejmując decyzję co do dalszego toku sprawy; zatwierdzając wniosek o rozpoznanie sprawy, może też dołączyć do niego wniosek, o którym mowa w art. 335 § 1.
+” ;
 
-§ 3. Wniosek o rozpoznanie sprawy powinien zawierać dane, o których mowa w art. 332 § 1 pkt 1-5; przepisy art. 333 § 1-3 i art. 334 § 1 stosuje się odpowiednio; art. 334 § 2 nie stosuje się. Policja doręcza pokrzywdzonemu pisemne pouczenie o uprawnieniach wynikających z art. 46 § 1 Kodeksu karnego i art. 387 § 2 oraz o treści art. 49a i 474a, a także o prawie do złożenia oświadczenia o działaniu w postępowaniu w charakterze oskarżyciela posiłkowego.
+### 3)
 
-§ 4. Każda osoba wezwana przez Policję w charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się w sądzie we wskazanym terminie.
+w art. 33 § 1 otrzymuje brzmienie:
 
-**Art. 517e.**
+„
 
-§ 1. Odpis wniosku o rozpoznanie sprawy prezes sądu lub sąd doręcza oskarżonemu oraz jego obrońcy, jeżeli został ustanowiony, oznaczając czas na przygotowanie do obrony. Oskarżonemu należy umożliwić kontakt z obrońcą bez obecności osób trzecich.
+### § 1.
 
-§ 2. W razie niestawiennictwa oskarżonego, o którym mowa w art. 517b § 3, jeżeli sąd uzna nieobecność oskarżonego na rozprawie za nieusprawiedliwioną, może prowadzić rozprawę pod jego nieobecność, a wydanego wyroku nie uważa się za zaoczny; w takim wypadku odpis wniosku o rozpoznanie sprawy załącza się do akt sprawy.
+Grzywnę wymierza się w stawkach dziennych, określając liczbę stawek oraz wysokość jednej stawki; jeżeli ustawa nie stanowi inaczej, najniższa liczba stawek wynosi 10, zaś najwyższa 540.
 
-§ 3. Sąd przystępuje niezwłocznie do rozpoznania sprawy; przepisów art. 339 § 1 pkt 1 i 2 i § 3-5, art. 351 § 1 oraz art. 353 i 474a § 2 nie stosuje się.
+” ;
 
-§ 4. Powództwo cywilne jest niedopuszczalne.
+### 4)
 
-**Art. 517f.**
+w art. 34 § 2 otrzymuje brzmienie:
 
-§ 1. Postępowanie przyspieszone prowadzi się również w razie potrzeby przerwania rozprawy; łączny czas zarządzonych przerw nie może przekroczyć 14 dni.
+„
 
-§ 2. W razie zarządzenia przerwy sąd rozstrzyga w przedmiocie zastosowania środka zapobiegawczego.
+### § 2.
 
-§ 3. Przepisów art. 98 § 2 i art. 411 § 1 nie stosuje się. sprawa nie podlega rozpoznaniu w trybie przyspieszonym albo nie można jej rozpoznać z zachowaniem dopuszczalnego czasu przerw w rozprawie, o którym mowa w art. 517f § 1, rozpoznaje sprawę w dalszym ciągu w trybie uproszczonym w tym samym składzie. W razie niemożności rozpoznania sprawy także w trybie uproszczonym sąd rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego.
+W czasie odbywania kary ograniczenia wolności skazany:
 
-§ 2. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd stwierdzi, że zachodzi potrzeba uzupełnienia postępowania dowodowego, zaś dokonanie niezbędnych czynności w postępowaniu sądowym powodowałoby znaczne trudności, przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego; przed przekazaniem sprawy sąd rozstrzyga w przedmiocie środka zapobiegawczego.
+### 1)
 
-§ 3. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział w wydaniu postanowienia, jest z mocy prawa wyłączony od dalszego udziału w sprawie.
+nie może bez zgody sądu zmieniać miejsca stałego pobytu,
 
-§ 4. W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego.
+### 2)
 
-**Art. 517h.**
+jest obowiązany do wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne,
 
-§ 1. Wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku może być zgłoszony ustnie do protokołu rozprawy lub posiedzenia albo złożony na piśmie w terminie zawitym 3 dni od daty ogłoszenia wyroku. Wniosek niepochodzący od oskarżonego powinien wskazywać tego z oskarżonych, którego dotyczy.
+### 3)
 
-§ 2. Sąd sporządza uzasadnienie wyroku w terminie 3 dni od daty złożenia wniosku o sporządzenie uzasadnienia.
+ma obowiązek udzielania wyjaśnień dotyczących przebiegu odbywania kary.
 
-§ 3. Termin do wniesienia apelacji wynosi 7 dni i biegnie dla każdego uprawnionego od daty doręczenia mu wyroku z uzasadnieniem.
+” ;
 
-§ 4. W razie złożenia apelacji przekazuje się ją niezwłocznie wraz z aktami sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej w ciągu miesiąca od daty jej wpływu do tego sądu. Przepisu art. 448 nie stosuje się.
+### 5)
 
-§ 5. W wypadku wniesienia apelacji przez prokuratora, obrońcę lub pełnomocnika sąd odwoławczy dołącza do zawiadomienia o terminie rozprawy apelacyjnej odpis apelacji strony przeciwnej.
+art. 35 otrzymuje brzmienie:
 
-**Art. 517i.**
+„
 
-§ 1. Jeżeli po rozpoznaniu środka odwoławczego sąd stwierdza, że zachodzi potrzeba uzupełnienia postępowania dowodowego co do istoty sprawy, może – uchylając wyrok – przekazać sprawę prowawczego na zasadach ogólnych.
+### Art. 35.
 
-§ 2. W wypadku uchylenia wyroku i przekazania sprawy do ponownego rozpoznania dalsze postępowanie toczy się w trybie uproszczonym. W razie niemożności rozpoznania sprawy w postępowaniu uproszczonym, uchylając wyrok, sąd przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+### § 1.
 
-**Art. 517j.**
+Nieodpłatna, kontrolowana praca na cele społeczne jest wykonywana w wymiarze od 20 do 40 godzin w stosunku miesięcznym.
 
-§ 1. Dla umożliwienia oskarżonemu korzystania z pomocy obrońcy w postępowaniu przyspieszonym ustanawia się obowiązek pełnienia przez adwokatów dyżurów w czasie i miejscu ustalonym w odrębnych przepisach.
+### § 2.
 
-§ 2. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy i możliwości jego wyboru w postępowaniu przyspieszonym, w tym organizacji dyżurów, o których mowa w § 1, mając na uwadze prawidłowy przebieg postępowania przyspieszonego oraz konieczność zapewnienia oskarżonemu możliwości wyboru obrońcy.”;
+W stosunku do osoby zatrudnionej sąd zamiast obowiązku, o którym mowa w art. 34 § 2 pkt 2, może orzec potrącenie od 10 do 25% wynagrodzenia za pracę w stosunku miesięcznym na cel społeczny wskazany przez sąd; w okresie odbywania kary skazany nie może rozwiązać bez zgody sądu stosunku pracy.
 
-- **13)** w art. 538 dodaje się § 3 w brzmieniu: „§ 3. W razie uchylenia prawomocnego wyroku o warunkowym umorzeniu postępowania lub orzekającego karę z warunkowym zawieszeniem jej wykonania, w wypadku ponownego orzeczenia o warunkowym umorzeniu postępowania lub kary z warunkowym zawieszeniem jej wykonania, na poczet okresu próby zalicza się okres próby, który upłynął od uprawomocnienia się wyroku do daty jego uchylenia.”;
-- **14)** art. 607a otrzymuje brzmienie: „Art. 607a. W razie podejrzenia, że osoba ścigana za przestępstwo podlegające jurysdykcji polskich sądów karnych może przebywać na terytorium państwa członkowskiego Unii Europejskiej, właściwy miejscowo sąd okręgowy, na wniosek prokuratora, a w postępowaniu sądowym i wykonawczym – z urzędu lub na wniosek właściwego sądu rejonowego, może wydać europejski nakaz aresztowania, zwany w niniejszym rozdziale ,,nakazem”.”;
-- **15)** art. 607d otrzymuje brzmienie: „Art. 607d. § 1. Jeżeli istnieje podejrzenie, że osoba ścigana może przebywać na terytorium państwa członkowskiego Unii Europejskiej, a jej miejsce pobytu nie jest znane, prokurator, a w postępowaniu sądowym i wykonawczym sąd okręgowy, który wydał nakaz, przesyła jego odpis do centralnej jednostki Policji współpracującej z Interpolem z wnioskiem o wszczęcie poszukiwań międzynarodowych.
+” ;
 
-§ 2. Jeżeli miejsce pobytu osoby ściganej jest znane lub zostało ustalone w wyniku poszukiwań, o których mowa w § 1, prokurator, a w postępowaniu sądowym i wykonawczym sąd okręgowy, który wydał nakaz, przekazuje go bezpośrednio organowi sądowemu państwa wykonania nakazu; odpis nakazu przekazuje się Ministrowi Sprawiedliwości. wykonania nakazu zwróciło się o przedstawienie dodatkowych informacji lub dokumentów.
+### 6)
 
-§ 4. Przekazanie nakazu oraz wszystkich związanych z nim informacji i dokumentów może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych w sposób umożliwiający stwierdzenie autentyczności tych dokumentów.”;
+w art. 36:
 
-- **16)** w art. 607e w § 3 pkt 8 otrzymuje brzmienie: „8) organ sądowy państwa wykonania nakazu, który przekazał osobę ściganą, na wniosek sądu właściwego do wydania nakazu, wyraził zgodę na ściganie lub wykonanie kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za przestępstwa określone w pkt 1.”;
-- **17)** art. 607h otrzymuje brzmienie: „Art. 607h. § 1. Właściwy sąd lub prokurator może wystąpić do organu sądowego państwa wykonania nakazu o zajęcie i przekazanie przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.
+### a)
 
-§ 2. Można wystąpić o zajęcie i przekazanie dowodów i przedmiotów, o których mowa w § 1, również wtedy, gdy wykonanie nakazu nie jest możliwe ze względu na śmierć lub ucieczkę osoby ściganej.
+uchyla się § 1,
 
-§ 3. Przekazane przedmioty, o których mowa w § 1, zwraca się państwu wykonania nakazu, jeżeli przy ich przekazaniu zastrzeżono zwrot lub gdy podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi, przebywającemu na terytorium państwa wykonania nakazu.
+### b)
 
-§ 4. Przepisy rozdziału 62a stosuje się odpowiednio.”;
+§ 2 otrzymuje brzmienie:
 
-- **18)** w art. 607k:
-    - **a)** § 3 otrzymuje brzmienie: „§ 3. Na wniosek prokuratora sąd okrę gowy może zastosować tymczasowe aresztowanie, oznaczając jego termin na czas niezbędny do przekazania osoby ściganej. Łączny okres stosowania tymczasowego aresztowania nie może przekroczyć 100 dni. Samoistną podstawą zastosowania tymczasowego aresztowania jest istnienie wydanego w innym państwie członkowskim Unii Europejskiej prawomocnego wyroku skazującego lub innej decyzji stanowiącej podstawę pozbawienia wolności osoby ściganej.”,
-    - **b)** po § 3 dodaje się § 3a w brzmieniu: „§ 3a. Przed wpłynięciem nakazu europejskiego sąd może zastosować wobec osoby ściganej tymczasowe aresztowanie na czas nie dłuższy niż 7 dni, jeżeli zwraca się o to właściwy organ sądowy, który wydał nakaz europejski, zapewniając, że wobec osoby ściganej zapadł prawomocny nia wolności.”;
+„
 
-- **19)** w art. 607l § 3 otrzymuje brzmienie: „§ 3. Na postanowienie sądu w przedmiocie przekazania przysługuje zażalenie. Zażalenie wnosi się w terminie 3 dni od dnia ogłoszenia postanowienia, a jeżeli osoba ścigana pozbawiona jest wolności i nie została sprowadzona na posiedzenie sądu – od dnia jego doręczenia. Art. 252 stosuje się odpowiednio.”;
-- **20)** w art. 607m:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Postanowienie w przedmiocie przekazania sąd okręgowy wydaje w terminie 40 dni od dnia zatrzymania osoby ściganej. Jeżeli osoba ścigana złożyła oświadczenie, o którym mowa w art. 607l § 2, termin ten wynosi 3 dni i biegnie od dnia złożenia oświadczenia.”,
-    - **b)** po § 1 dodaje się § 1a w brzmieniu: „§ 1a. Postępowanie w przedmiocie przekazania powinno zakończyć się prawomocnie w terminie 60 dni od dnia zatrzymania osoby ściganej lub 10 dni od złożenia przez nią oświadczenia, o którym mowa w art. 607l § 2.”,
-    - **c)** w § 2 zdanie pierwsze otrzymuje brzmienie: „W szczególnie uzasadnionych wypadkach, gdy terminy określone w § 1a nie mogą być dotrzymane, postępowanie w przedmiocie przekazania powinno zakończyć się prawomocnie w terminie kolejnych 30 dni od dnia upływu tych terminów.”;
+### § 2.
 
-- **21)** art. 607o otrzymuje brzmienie: „Art. 607o. § 1. Jeżeli przeciwko osobie ściganej jest prowadzone w kraju postępowanie karne o inny czyn niż wskazany w nakazie europejskim lub osoba ta ma odbyć w kraju za taki czyn karę pozbawienia wolności, sąd, wydając postanowienie o przekazaniu, może odroczyć jego wykonanie do czasu zakończenia w kraju postępowania karnego lub do czasu wykonania w kraju kary pozbawienia wolności.
+Wymierzając karę ograniczenia wolności, sąd może orzec wobec skazanego obowiązki wymienione w art. 72.
 
-§ 2. W sytuacji określonej w § 1 sąd, po powiadomieniu o jej zaistnieniu organu, który wydał nakaz europejski, może, na jego wniosek, czasowo przekazać osobę ściganą na warunkach określonych w porozumieniu zawartym z tym organem. Porozumienie takie powinno być sporządzone na piśmie i określać warunki przekazania, w tym zwłaszcza termin powrotnego przekazania osoby ściganej.”;
+” ;
 
-- **22)** po art. 607w dodaje się art. 607wa w brzmieniu: „Art. 607wa. § 1. Właściwy sąd lub prokurator na wniosek organu sądowego państwa wydania nakazu europejskiego dokonuje zajęcia i przekazania przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.
+### 7)
 
-§ 2. Zajęcia i przekazania dowodów i przedmiotów, o których mowa w § 1, należy dokonać również wtedy, gdy wykonanie nakazu europejskiego nie jest możliwe ze względu na śmierć lub ucieczkę osoby ściganej.
+w art. 38 § 2 otrzymuje brzmienie:
 
-§ 3. Przy przekazaniu przedmiotów, o których mowa w § 1, można zastrzec ich zwrot, w szczególności gdy podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi, przebywającemu na terytorium Rzeczypospolitej Polskiej.
+„
 
-§ 4. Przepisy rozdziału 62b stosuje się odpowiednio.”;
+### § 2.
 
-- **23)** art. 612 otrzymuje brzmienie: „Art. 612. § 1. O każdorazowym wypadku zastosowania tymczasowego aresztowania wobec obywatela państwa obcego, na jego prośbę, zawiadamia się niezwłocznie właściwy miejscowo urząd konsularny tego państwa lub – w braku takiego urzędu – przedstawicielstwo dyplomatyczne tego państwa.
+Kara nadzwyczajnie obostrzona nie może przekroczyć 810 stawek dziennych grzywny, 2 lat ograniczenia wolności albo 15 lat pozbawienia wolności; karę ograniczenia wolności wymierza się w miesiącach i latach.
 
-§ 2. W razie zatrzymania obywatela państwa obcego należy zatrzymanemu umożliwić, na jego prośbę, nawiązanie w dostępnej formie kontaktu z właściwym urzędem konsularnym lub przedstawicielstwem dyplomatycznym, a w razie zatrzymania osoby nieposiadającej żadnego obywatelstwa – z przedstawicielem państwa, w którym ma ona stałe miejsce zamieszkania.”.
+” ;
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. Nr 90, poz. 557, z późn. zm. ) wprowadza się następujące zmiany:
+### 8)
 
-**Art. 4.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2007 r. Nr 111, poz. 765, z późn. zm. ) wprowadza się następujące zmiany:
+w art. 39 pkt 5 otrzymuje brzmienie:
 
-**Art. 5.** W ustawie z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2007 r. Nr 109, poz. 756 oraz z 2008 r. Nr 141, poz. 888) wprowadza się następujące zmiany:
+„
 
-**Art. 6.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm. ) w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie: „2) określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 200, art. 200a, art. 204 § 4, art. 223, art. 228 § 1 i 3-5, art. 229 § 1 i 3-5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 245, art. 246, art. 252 § 1-3, art. 253, art. 258, art. 269, art. 280-282, art. 285 § 1, art. 286 § 1, art. 296 § 1-3, art. 296a § 1, 2 i 4, art. 296b § 1 i 2, art. 299 § 1-6 oraz w art. 310 § 1, 2 i 4 Kodeksu karnego,”.
+### 5)
 
-**Art. 7.** W ustawie z dnia 6 czerwca 1997 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 88, poz. 554 i Nr 160, poz. 1083, z 1998 r. Nr 113, poz. 715 oraz z 2009 r. Nr 141, poz. 1149) w art. 11 dodaje się § 3 i 4 w brzmieniu: „§ 3. Grzywnę, którą ustawa szczególna określa kwotowo, wymierza się z uwzględnieniem dochodów sprawcy, jego warunków osobistych, rodzinnych, stosunków majątkowych i możliwości zarobkowych.
+obowiązek naprawienia szkody lub zadośćuczynienia za doznaną krzywdę,
 
-**Art. 8.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm. ) wprowadza się następujące zmiany: „§ 2. W razie uzasadnionych wątpliwości co do stanu zdrowia psychicznego obwinionego sąd lub prokurator działający na podstawie art. 56 § 1 powołuje biegłego psychiatrę. Przepis art. 202 § 5 Kodeksu postępowania karnego stosuje się odpowiednio.”;
+” ;
 
-**Art. 9.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie (Dz. U. Nr 180, poz. 1493) uchyla się art. 14.
+### 9)
 
-**Art. 10.** Sprawy, w których przed dniem wejścia w życie niniejszej ustawy rozpoczęto rozprawę główną, toczą się do końca postępowania w danej instancji według przepisów dotychczasowych, jednakże w razie zawieszenia postępowania, odroczenia rozprawy lub ponownego rozpoznania sprawy albo po zapadnięciu prawomocnego orzeczenia postępowanie toczy się według przepisów tej ustawy.
+w art. 43 § 1 otrzymuje brzmienie:
 
-**Art. 11.** Czynności procesowe dokonane przed dniem wejścia w życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+„
 
-**Art. 12.** W razie wątpliwości, czy stosować przepisy dotychczasowe, czy przepisy w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy nowe.
+### § 1.
 
-**Art. 13.** Przepisy wykonawcze wydane na podstawie art. 517j ustawy, o której mowa w art. 2, oraz art. 58 § 4 ustawy, o której mowa w art. 3, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 517j § 2 ustawy, o której mowa w art. 2, oraz art. 58 § 3 ustawy, o której mowa w art. 3, w brzmieniu ścia w życie niniejszej ustawy.
+Jeżeli ustawa nie stanowi inaczej, pozbawienie praw publicznych oraz zakazy wymienione w art. 39 pkt 2 i 3 orzeka się w latach, od roku do lat 10, zakazy oraz obowiązek wymienione w art. 39 pkt 2a i 2b orzeka się w latach, od roku do lat 15, a zakaz wymieniony w art. 39 pkt 2c orzeka się w latach, od lat 2 do 6.
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+” ;
 
+### 10)
+
+art. 46 otrzymuje brzmienie:
+
+„
+
+### Art. 46.
+
+### § 1.
+
+W razie skazania sąd może orzec, a na wniosek pokrzywdzonego lub innej osoby uprawnionej orzeka, obowiązek naprawienia wyrządzonej przestępstwem szkody w całości albo w części lub zadośćuczynienia za doznaną krzywdę; przepisów prawa cywilnego o przedawnieniu roszczenia oraz możliwości zasądzenia renty nie stosuje się.
+
+### § 2.
+
+Zamiast obowiązku określonego w § 1 sąd może orzec nawiązkę na rzecz pokrzywdzonego.
+
+” ;
+
+### 11)
+
+art. 49a otrzymuje brzmienie:
+
+„
+
+### Art. 49a.
+
+### § 1.
+
+Organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47 i 49, muszą obejmować swoją działalnością terytorium całego kraju.
+
+### § 2.
+
+Minister Sprawiedliwości prowadzi wykaz, do którego wpisuje instytucje, organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47 i 49. Wpisu do wykazu dokonuje się na wniosek zainteresowanego podmiotu. Wykaz jest publikowany co najmniej raz w roku, w formie obwieszczenia, w Dzienniku Urzędowym Ministra Sprawiedliwości.
+
+” ;
+
+### 12)
+
+w art. 57a § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W wypadku określonym w § 1 sąd orzeka nawiązkę na rzecz pokrzywdzonego, chyba że orzeka obowiązek naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązkę na podstawie art. 46. Jeżeli pokrzywdzony nie został ustalony, sąd może orzec nawiązkę na rzecz instytucji, stowarzyszenia, fundacji lub organizacji społecznej, wpisanej do wykazu prowadzonego przez Ministra Sprawiedliwości, której podstawowym zadaniem lub celem statutowym jest spełnianie świadczeń na określony cel społeczny, bezpośrednio związany z ochroną dobra naruszonego lub zagrożonego przestępstwem, za które skazano sprawcę, z przeznaczeniem na ten cel.
+
+” ;
+
+### 13)
+
+w art. 58:
+
+### a)
+
+po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+Kary ograniczenia wolności związanej z obowiązkiem, o którym mowa w art. 35 § 1, nie orzeka się, jeżeli stan zdrowia oskarżonego lub jego właściwości i warunki osobiste uzasadniają przekonanie, że oskarżony nie wykona tego obowiązku.
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 5 lat, sąd może orzec zamiast kary pozbawienia wolności grzywnę albo karę ograniczenia wolności do lat 2, w szczególności jeżeli orzeka równocześnie środek karny; karę ograniczenia wolności wymierza się w miesiącach i latach.
+
+” ,
+
+### c)
+
+§ 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Przepisu § 3 nie stosuje się do sprawcy występku o charakterze chuligańskim.
+
+” ;
+
+### 14)
+
+art. 59 otrzymuje brzmienie:
+
+„
+
+### Art. 59.
+
+### § 1.
+
+Jeżeli przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 3 lat albo karą łagodniejszego rodzaju i społeczna szkodliwość czynu nie jest znaczna, sąd może odstąpić od wymierzenia kary, jeżeli orzeka równocześnie środek karny, a cele kary zostaną przez ten środek spełnione.
+
+### § 2.
+
+Przepisu § 1 nie stosuje się do sprawcy występku o charakterze chuligańskim.
+
+” ;
+
+### 15)
+
+w art. 60 § 6 otrzymuje brzmienie:
+
+„
+
+### § 6.
+
+Nadzwyczajne złagodzenie kary polega na wymierzeniu kary poniżej dolnej granicy ustawowego zagrożenia albo kary łagodniejszego rodzaju według następujących zasad:
+
+### 1)
+
+jeżeli czyn stanowi zbrodnię zagrożoną co najmniej karą 25 lat pozbawienia wolności, sąd wymierza karę pozbawienia wolności nie niższą od 8 lat,
+
+### 2)
+
+jeżeli czyn stanowi inną zbrodnię, sąd wymierza karę pozbawienia wolności nie niższą od jednej trzeciej dolnej granicy ustawowego zagrożenia,
+
+### 3)
+
+jeżeli czyn stanowi występek, przy czym dolną granicą ustawowego zagrożenia jest kara pozbawienia wolności nie niższa od roku, sąd wymierza grzywnę, karę ograniczenia wolności albo pozbawienia wolności,
+
+### 4)
+
+jeżeli czyn stanowi występek, przy czym dolną granicą ustawowego zagrożenia jest kara pozbawienia wolności niższa od roku, sąd wymierza grzywnę albo karę ograniczenia wolności.
+
+” ;
+
+### 16)
+
+w art. 71 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Zawieszając wykonanie kary pozbawienia wolności, sąd może orzec grzywnę w wysokości do 270 stawek dziennych, jeżeli jej wymierzenie na innej podstawie nie jest możliwe; zawieszając wykonanie kary ograniczenia wolności, sąd może orzec grzywnę w wysokości do 135 stawek dziennych.
+
+” ;
+
+### 17)
+
+w art. 78 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Skazanego można warunkowo zwolnić po odbyciu co najmniej połowy kary.
+
+### § 2.
+
+Skazanego określonego w art. 64 § 1 można warunkowo zwolnić po odbyciu dwóch trzecich kary, natomiast określonego w art. 64 § 2 po odbyciu trzech czwartych kary.
+
+” ;
+
+### 18)
+
+w art. 86:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd wymierza karę łączną w granicach od najwyższej z kar wymierzonych za poszczególne przestępstwa do ich sumy, nie przekraczając jednak 810 stawek dziennych grzywny, 2 lat ograniczenia wolności albo 15 lat pozbawienia wolności; karę ograniczenia wolności wymierza się w miesiącach i latach. Kara łączna grzywny określonej w art. 71 § 1 nie może przekraczać 270 stawek dziennych - jeżeli jest ona związana z zawieszeniem wykonania kary pozbawienia wolności oraz nie może przekraczać 135 stawek dziennych - jeżeli jest ona związana z zawieszeniem wykonania kary ograniczenia wolności.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Jeżeli suma orzeczonych kar pozbawienia wolności wynosi 25 lat albo więcej, a chociażby jedna z podlegających łączeniu kar wynosi nie mniej niż 10 lat, sąd może orzec karę łączną 25 lat pozbawienia wolności.
+
+” ,
+
+### c)
+
+po § 2 dodaje się § 2a i 2b w brzmieniu:
+
+„
+
+### § 2a.
+
+Jeżeli chociażby jedna z podlegających łączeniu grzywien jest wymierzona kwotowo, karę łączną grzywny wymierza się kwotowo.
+
+### § 2b.
+
+Jeżeli chociażby jedna z podlegających łączeniu grzywien została orzeczona na podstawie art. 309, sąd wymierza karę łączną grzywny w granicach od najwyższej z kar tego rodzaju wymierzonych za poszczególne przestępstwa do ich sumy, nie przekraczając jednak 4 500 stawek dziennych grzywny.
+
+” ;
+
+### 19)
+
+w art. 89:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W razie skazania za zbiegające się przestępstwa na kary pozbawienia wolności, ograniczenia wolności albo grzywny z warunkowym zawieszeniem i bez warunkowego zawieszenia ich wykonania sąd może w wyroku łącznym warunkowo zawiesić wykonanie kary łącznej, jeżeli zachodzą przesłanki określone w art. 69.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+W razie skazania za zbiegające się przestępstwa na kary pozbawienia wolności z warunkowym zawieszeniem ich wykonania sąd może w wyroku łącznym orzec karę łączną pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
+
+” ;
+
+### 20)
+
+art. 93 otrzymuje brzmienie:
+
+„
+
+### Art. 93.
+
+Sąd może orzec przewidziany w tym rozdziale środek zabezpieczający związany z umieszczeniem w zakładzie zamkniętym lub skierowaniem na leczenie ambulatoryjne tylko wtedy, gdy jest to niezbędne, aby zapobiec ponownemu popełnieniu przez sprawcę czynu zabronionego związanego z jego chorobą psychiczną, zaburzeniami preferencji seksualnych, upośledzeniem umysłowym lub uzależnieniem od alkoholu lub innego środka odurzającego; przed orzeczeniem tego środka sąd wysłuchuje lekarzy psychiatrów oraz psychologa, a w sprawach osób z zaburzeniami preferencji seksualnych - także lekarza seksuologa.
+
+” ;
+
+### 21)
+
+w art. 95a:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Skazując sprawcę na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania za przestępstwo skierowane przeciwko wolności seksualnej, popełnione w związku z zaburzeniami preferencji seksualnych, sąd może orzec umieszczenie sprawcy, po odbyciu tej kary, w zakładzie zamkniętym albo skierowanie go na leczenie ambulatoryjne, w celu przeprowadzenia terapii farmakologicznej lub psychoterapii, zmierzających do zapobieżenia ponownemu popełnieniu takiego przestępstwa, w tym w szczególności poprzez obniżenie zaburzonego popędu seksualnego sprawcy. Terapii farmakologicznej nie stosuje się, jeżeli jej przeprowadzenie spowodowałoby niebezpieczeństwo dla życia lub zdrowia skazanego.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Sąd orzeka umieszczenie sprawcy, o którym mowa w § 1, skazanego za przestępstwo określone w art. 197 § 3 pkt 2 lub 3 w zakładzie zamkniętym albo skierowanie go na leczenie ambulatoryjne.
+
+” ,
+
+### c)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W okresie do 6 miesięcy przed przewidywanym warunkowym zwolnieniem lub przed wykonaniem kary sąd ustala:
+
+### 1)
+
+potrzebę i sposób wykonywania orzeczonego środka, o którym mowa w § 1,
+
+### 2)
+
+sposób wykonywania orzeczonego środka, o którym mowa w § 1a.
+
+” ,
+
+### d)
+
+po § 2 dodaje się § 2a i 2b w brzmieniu:
+
+„
+
+### § 2a.
+
+Sąd może zarządzić zmianę sposobu wykonywania środka zabezpieczającego określonego w § 1 lub 1a.
+
+### § 2b.
+
+Sąd zarządza umieszczenie w zakładzie zamkniętym, jeżeli sprawca uchyla się od leczenia ambulatoryjnego określonego w§ 1 lub 1a.
+
+” ;
+
+### 22)
+
+w art. 115:
+
+### a)
+
+§ 5 i 6 otrzymują brzmienie:
+
+„
+
+### § 5.
+
+Mieniem znacznej wartości jest mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 200 000 złotych.
+
+### § 6.
+
+Mieniem wielkiej wartości jest mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 1 000 000 złotych.
+
+” ,
+
+### b)
+
+uchyla się § 8;
+
+### 23)
+
+po art. 191 dodaje się art. 191a w brzmieniu:
+
+„
+
+### Art. 191a.
+
+### § 1.
+
+Kto utrwala wizerunek nagiej osoby lub osoby w trakcie czynności seksualnej, używając w tym celu wobec niej przemocy, groźby bezprawnej lub podstępu, albo wizerunek nagiej osoby lub osoby w trakcie czynności seksualnej bez jej zgody rozpowszechnia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+### § 2.
+
+Ściganie następuje na wniosek pokrzywdzonego.
+
+” ;
+
+### 24)
+
+w art. 197 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli sprawca dopuszcza się zgwałcenia:
+
+### 1)
+
+wspólnie z inną osobą,
+
+### 2)
+
+wobec małoletniego poniżej lat 15,
+
+### 3)
+
+wobec wstępnego, zstępnego, przysposobionego, przysposabiającego, brata lub siostry,
+
+podlega karze pozbawienia wolności na czas nie krótszy od lat 3.
+
+” ;
+
+### 25)
+
+po art. 200 dodaje się art. 200a i 200b w brzmieniu:
+
+„
+
+### Art. 200a.
+
+### § 1.
+
+Kto w celu popełnienia przestępstwa określonego w art. 197 § 3 pkt 2 lub art. 200, jak również produkowania lub utrwalania treści pornograficznych, za pośrednictwem systemu teleinformatycznego lub sieci telekomunikacyjnej nawiązuje kontakt z małoletnim poniżej lat 15, zmierzając, za pomocą wprowadzenia go w błąd, wyzyskania błędu lub niezdolności do należytego pojmowania sytuacji albo przy użyciu groźby bezprawnej, do spotkania z nim, podlega karze pozbawienia wolności do lat 3.
+
+### § 2.
+
+Kto za pośrednictwem systemu teleinformatycznego lub sieci telekomunikacyjnej małoletniemu poniżej lat 15 składa propozycję obcowania płciowego, poddania się lub wykonania innej czynności seksualnej lub udziału w produkowaniu lub utrwalaniu treści pornograficznych, i zmierza do jej realizacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+### Art. 200b.
+
+Kto publicznie propaguje lub pochwala zachowania o charakterze pedofilskim, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+” ;
+
+### 26)
+
+w art. 212 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Kto pomawia inną osobę, grupę osób, instytucję, osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej o takie postępowanie lub właściwości, które mogą poniżyć ją w opinii publicznej lub narazić na utratę zaufania potrzebnego dla danego stanowiska, zawodu lub rodzaju działalności, podlega grzywnie albo karze ograniczenia wolności.
+
+### § 2.
+
+Jeżeli sprawca dopuszcza się czynu określonego w § 1 za pomocą środków masowego komunikowania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+” ;
+
+### 27)
+
+w art. 213 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Nie popełnia przestępstwa określonego w art. 212 § 1 lub 2, kto publicznie podnosi lub rozgłasza prawdziwy zarzut:
+
+### 1)
+
+dotyczący postępowania osoby pełniącej funkcję publiczną lub
+
+### 2)
+
+służący obronie społecznie uzasadnionego interesu.
+
+Jeżeli zarzut dotyczy życia prywatnego lub rodzinnego, dowód prawdy może być przeprowadzony tylko wtedy, gdy zarzut ma zapobiec niebezpieczeństwu dla życia lub zdrowia człowieka albo demoralizacji małoletniego.
+
+” ;
+
+### 28)
+
+w art. 256 dotychczasową treść oznacza się jako § 1 i dodaje się § 2-4 w brzmieniu:
+
+„
+
+### § 2.
+
+Tej samej karze podlega, kto w celu rozpowszechniania produkuje, utrwala lub sprowadza, nabywa, przechowuje, posiada, prezentuje, przewozi lub przesyła druk, nagranie lub inny przedmiot, zawierające treść określoną w § 1 albo będące nośnikiem symboliki faszystowskiej, komunistycznej lub innej totalitarnej.
+
+### § 3.
+
+Nie popełnia przestępstwa sprawca czynu zabronionego określonego w § 2, jeżeli dopuścił się tego czynu w ramach działalności artystycznej, edukacyjnej, kolekcjonerskiej lub naukowej.
+
+### § 4.
+
+W razie skazania za przestępstwo określone w § 2 sąd orzeka przepadek przedmiotów, o których mowa w § 2, chociażby nie stanowiły własności sprawcy.
+
+” ;
+
+### 29)
+
+w art. 270 po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+” ;
+
+### 30)
+
+art. 309 otrzymuje brzmienie:
+
+„
+
+### Art. 309.
+
+W razie skazania za przestępstwo określone w art. 296 § 3, art. 297 § 1 lub art. 299, grzywnę orzeczoną obok kary pozbawienia wolności można wymierzyć w wysokości do 3 000 stawek dziennych.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 62, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375 i Nr 190, poz. 1474.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 55 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Akt oskarżenia wniesiony przez pokrzywdzonego powinien być sporządzony i podpisany przez adwokata lub radcę prawnego, z zachowaniem warunków określonych w art. 332 i 333 § 1.
+
+” ;
+
+### 2)
+
+art. 88 otrzymuje brzmienie:
+
+„
+
+### Art. 88.
+
+Pełnomocnikiem może być adwokat lub radca prawny. Do pełnomocnika stosuje się odpowiednio art. 77, 78, 83, 84 i 86 § 2.
+
+” ;
+
+### 3)
+
+art. 202 otrzymuje brzmienie:
+
+„
+
+### Art. 202.
+
+### § 1.
+
+W celu wydania opinii o stanie zdrowia psychicznego oskarżonego sąd, a w postępowaniu przygotowawczym prokurator, powołuje co najmniej dwóch biegłych lekarzy psychiatrów.
+
+### § 2.
+
+Na wniosek psychiatrów do udziału w wydaniu opinii powołuje się ponadto biegłego lub biegłych innych specjalności.
+
+### § 3.
+
+Do udziału w wydaniu opinii o stanie zdrowia psychicznego oskarżonego, w zakresie zaburzeń preferencji seksualnych, sąd, a w postępowaniu przygotowawczym prokurator, powołuje biegłego lekarza seksuologa.
+
+### § 4.
+
+Biegli nie mogą pozostawać ze sobą w związku małżeńskim ani w innym stosunku, który mógłby wywołać uzasadnioną wątpliwość co do ich samodzielności.
+
+### § 5.
+
+Opinia biegłych powinna zawierać stwierdzenia dotyczące zarówno poczytalności oskarżonego w chwili popełnienia czynu, jak i jego aktualnego stanu zdrowia psychicznego oraz zdolności do udziału w postępowaniu, a w razie potrzeby co do okoliczności wymienionych w art. 93 Kodeksu karnego.
+
+” ;
+
+### 4)
+
+art. 236 otrzymuje brzmienie:
+
+„
+
+### Art. 236.
+
+Na postanowienie dotyczące przeszukania, zatrzymania rzeczy i w przedmiocie dowodów rzeczowych oraz na inne czynności przysługuje zażalenie osobom, których prawa zostały naruszone; zażalenie na postanowienie wydane lub czynność dokonaną w postępowaniu przygotowawczym rozpoznaje sąd rejonowy, w okręgu którego toczy się postępowanie.
+
+” ;
+
+### 5)
+
+w art. 247 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Prokurator może zarządzić zatrzymanie i przymusowe doprowadzenie osoby podejrzanej, jeżeli zachodzi uzasadniona obawa, że nie stawi się ona na wezwanie w celu przeprowadzenia czynności procesowej, w inny bezprawny sposób będzie utrudniała przeprowadzenie tej czynności albo jeżeli zachodzi potrzeba niezwłocznego zastosowania środka zapobiegawczego. W tym celu wolno zarządzić przeszukanie. Przepisy art. 220-222 i 224 stosuje się odpowiednio.
+
+” ;
+
+### 6)
+
+w art. 275:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Oddany pod dozór ma obowiązek stosowania się do wymagań zawartych w postanowieniu sądu lub prokuratora. Obowiązek ten może polegać na zakazie opuszczania określonego miejsca pobytu, zgłaszaniu się do organu dozorującego w określonych odstępach czasu, zawiadamianiu go o zamierzonym wyjeździe oraz o terminie powrotu, zakazie kontaktowania się z pokrzywdzonym lub innymi osobami, zakazie przebywania w określonych miejscach, a także na innych ograniczeniach swobody oskarżonego, niezbędnych do wykonywania dozoru.
+
+” ,
+
+### b)
+
+dodaje się § 3-5 w brzmieniu:
+
+„
+
+### § 3.
+
+Jeżeli zachodzą przesłanki zastosowania tymczasowego aresztowania wobec oskarżonego o przestępstwo popełnione z użyciem przemocy lub groźby bezprawnej na szkodę osoby najbliższej albo innej osoby zamieszkującej wspólnie ze sprawcą, zamiast tymczasowego aresztowania można zastosować dozór, pod warunkiem że oskarżony w wyznaczonym terminie opuści lokal zajmowany wspólnie z pokrzywdzonym oraz określi miejsce swojego pobytu.
+
+### § 4.
+
+Oddany pod dozór Policji ma obowiązek stawiania się we wskazanej jednostce organizacyjnej Policji z dokumentem stwierdzającym tożsamość, wykonywania poleceń mających na celu dokumentowanie przebiegu dozoru oraz udzielania informacji koniecznych dla ustalenia, czy stosuje się on do wymagań nałożonych w postanowieniu sądu lub prokuratora. W celu uzyskania takich informacji można wzywać oskarżonego do stawiennictwa w wyznaczonym terminie.
+
+### § 5.
+
+W wypadku niestosowania się przez oddanego pod dozór do wymagań określonych w postanowieniu organ dozorujący niezwłocznie zawiadamia o tym sąd lub prokuratora, który wydał postanowienie.
+
+” ;
+
+### 7)
+
+w art. 297 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Celem postępowania przygotowawczego jest:
+
+### 1)
+
+ustalenie, czy został popełniony czyn zabroniony i czy stanowi on przestępstwo,
+
+### 2)
+
+wykrycie i w razie potrzeby ujęcie sprawcy,
+
+### 3)
+
+zebranie danych stosownie do art. 213 i 214,
+
+### 4)
+
+wyjaśnienie okoliczności sprawy, w tym ustalenie osób pokrzywdzonych i rozmiarów szkody,
+
+### 5)
+
+zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu.
+
+” ;
+
+### 8)
+
+w art. 310 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W uzasadnionych wypadkach okres śledztwa może być przedłużony na dalszy czas oznaczony przez prokuratora nadzorującego śledztwo lub prokuratora bezpośrednio przełożonego wobec prokuratora, który prowadzi śledztwo, nie dłuższy jednak niż rok. W szczególnie uzasadnionych wypadkach właściwy prokurator nadrzędny nad prokuratorem nadzorującym lub prowadzącym śledztwo może przedłużyć jego okres na dalszy czas oznaczony.
+
+” ;
+
+### 9)
+
+w art. 334 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+O przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 335 i 387 oskarżyciel publiczny zawiadamia oskarżonego i ujawnionego pokrzywdzonego, a także osobę lub instytucję, która złożyła zawiadomienie o przestępstwie. Pokrzywdzonego należy pouczyć o uprawnieniach związanych z dochodzeniem roszczeń majątkowych oraz o treści przepisu art. 49a, a w razie potrzeby także o prawie do złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego.
+
+” ;
+
+### 10)
+
+w art. 439 w § 1 pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+oskarżony w postępowaniu sądowym nie miał obrońcy w wypadkach określonych w art. 79 § 1 i 2 oraz art. 80 lub obrońca nie brał udziału w czynnościach, w których jego udział był obowiązkowy,
+
+” ;
+
+### 11)
+
+w art. 446 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Apelacja od wyroku sądu okręgowego, która nie pochodzi od prokuratora lub pełnomocnika będącego racicą prawnym, powinna być sporządzona i podpisana przez adwokata.
+
+” ;
+
+### 12)
+
+rozdział 54a otrzymuje brzmienie:
+
+„
+
+### Rozdział 54a Postępowanie przyspieszone
+
+### Art. 517a.
+
+W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu uproszczonym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+
+### Art. 517b.
+
+### § 1.
+
+W postępowaniu przyspieszonym mogą być rozpoznawane sprawy o przestępstwa podlegające rozpoznaniu w trybie uproszczonym, jeżeli sprawca został ujęty na gorącym uczynku popełnienia przestępstwa lub bezpośrednio potem, zatrzymany oraz w ciągu 48 godzin doprowadzony przez Policję i przekazany do dyspozycji sądu wraz z wnioskiem o rozpoznanie sprawy w postępowaniu przyspieszonym, zwanym dalej „wnioskiem o rozpoznanie sprawy”.
+
+### § 2.
+
+Postępowanie przyspieszone toczy się w trybie publicznoskargowym także o przestępstwa ścigane z oskarżenia prywatnego, jeżeli miały one charakter chuligański.
+
+### § 3.
+
+Można odstąpić od zatrzymania i przymusowego doprowadzenia do sądu sprawcy ujętego w warunkach określonych w § 1 lub zwolnić zatrzymanego, zobowiązując go do stawienia się w sądzie w wyznaczonym miejscu i czasie, w okresie nieprzekraczającym 72 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji, ze skutkiem wezwania. Wniosek o rozpoznanie sprawy przekazuje się w takim wypadku sądowi wraz z materiałem dowodowym w ciągu 48 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji, a gdy termin ten upływa w dniu wolnym od pracy - w najbliższym dniu roboczym, tak jednak aby sąd mógł przystąpić do rozpoznania sprawy przed upływem 72 godzin od chwili zatrzymania albo oddania sprawcy w ręce Policji.
+
+### § 4.
+
+W stosunku do sprawcy występku o charakterze chuligańskim przepis § 3 może być stosowany wyjątkowo, jeżeli z okoliczności wynika, że sprawca stawi się w sądzie w wyznaczonym miejscu i czasie oraz nie będzie utrudniał postępowania w inny sposób.
+
+### Art. 517c.
+
+### § 1.
+
+Dochodzenie można ograniczyć do przesłuchania osoby podejrzanej w charakterze podejrzanego oraz zabezpieczenia dowodów w niezbędnym zakresie. W toku dochodzenia czynności procesowych określonych w art. 303 i 321 można nie dokonywać.
+
+### § 2.
+
+Podejrzanego poucza się o jego uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do korzystania z pomocy obrońcy, do złożenia - już w toku dochodzenia - wniosku, o którym mowa w art. 387 § 1, a także o możliwości złożenia przez prokuratora wniosku, o którym mowa w art. 335 § 1, oraz o obowiązkach i konsekwencjach wskazanych w art. 74, 75, 138, 139 i 517e § 2. Pouczenie to należy wręczyć podejrzanemu na piśmie za potwierdzeniem odbioru.
+
+### § 3.
+
+Jeżeli zachodzą warunki do wystąpienia z wnioskiem, o którym mowa w art. 335 § 1, lub gdy podejrzany złożył wniosek określony w art. 387 § 1, podejrzanego przesłuchuje prokurator.
+
+### Art. 517d.
+
+### § 1.
+
+W razie istnienia podstaw do wystąpienia z wnioskiem o rozpoznanie sprawy, Policja sporządza taki wniosek i przekazuje go do sądu wraz ze zgromadzonym materiałem dowodowym, zawiadamiając o tym niezwłocznie prokuratora; wniosek ten zastępuje akt oskarżenia.
+
+### § 2.
+
+Jeżeli zachodzą warunki do wystąpienia z wnioskiem, o którym mowa w art. 335 § 1, lub gdy podejrzany złożył wniosek określony w art. 387 § 1, Policja przedstawia wniosek o rozpoznanie sprawy prokuratorowi do zatwierdzenia. Prokurator może odmówić zatwierdzenia wniosku o rozpoznanie sprawy, podejmując decyzję co do dalszego toku sprawy; zatwierdzając wniosek o rozpoznanie sprawy, może też dołączyć do niego wniosek, o którym mowa w art. 335 § 1.
+
+### § 3.
+
+Wniosek o rozpoznanie sprawy powinien zawierać dane, o których mowa w art. 332 § 1 pkt 1-5; przepisy art. 333 § 1-3 i art. 334 § 1 stosuje się odpowiednio; art. 334 § 2 nie stosuje się. Policja doręcza pokrzywdzonemu pisemne pouczenie o uprawnieniach wynikających z art. 46 § 1 Kodeksu karnego i art. 387 § 2 oraz o treści art. 49a i 474a, a także o prawie do złożenia oświadczenia o działaniu w postępowaniu w charakterze oskarżyciela posiłkowego.
+
+### § 4.
+
+Każda osoba wezwana przez Policję w charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się w sądzie we wskazanym terminie.
+
+### Art. 517e.
+
+### § 1.
+
+Odpis wniosku o rozpoznanie sprawy prezes sądu lub sąd doręcza oskarżonemu oraz jego obrońcy, jeżeli został ustanowiony, oznaczając czas na przygotowanie do obrony. Oskarżonemu należy umożliwić kontakt z obrońcą bez obecności osób trzecich.
+
+### § 2.
+
+W razie niestawiennictwa oskarżonego, o którym mowa w art. 517b § 3, jeżeli sąd uzna nieobecność oskarżonego na rozprawie za nieusprawiedliwioną, może prowadzić rozprawę pod jego nieobecność, a wydanego wyroku nie uważa się za zaoczny; w takim wypadku odpis wniosku o rozpoznanie sprawy załącza się do akt sprawy.
+
+### § 3.
+
+Sąd przystępuje niezwłocznie do rozpoznania sprawy; przepisów art. 339 § 1 pkt 1 i 2 i § 3-5, art. 351 § 1 oraz art. 353 i 474a § 2 nie stosuje się.
+
+### § 4.
+
+Powództwo cywilne jest niedopuszczalne.
+
+### Art. 517f.
+
+### § 1.
+
+Postępowanie przyspieszone prowadzi się również w razie potrzeby przerwania rozprawy; łączny czas zarządzonych przerw nie może przekroczyć 14 dni.
+
+### § 2.
+
+W razie zarządzenia przerwy sąd rozstrzyga w przedmiocie zastosowania środka zapobiegawczego.
+
+### § 3.
+
+Przepisów art. 98 § 2 i art. 411 § 1 nie stosuje się.
+
+### Art. 517g.
+
+### § 1.
+
+Jeżeli sąd przed rozprawą główną lub w jej toku stwierdzi, że sprawa nie podlega rozpoznaniu w trybie przyspieszonym albo nie można jej rozpoznać z zachowaniem dopuszczalnego czasu przerw w rozprawie, o którym mowa w art. 517f § 1, rozpoznaje sprawę w dalszym ciągu w trybie uproszczonym w tym samym składzie. W razie niemożności rozpoznania sprawy także w trybie uproszczonym sąd rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego.
+
+### § 2.
+
+Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd stwierdzi, że zachodzi potrzeba uzupełnienia postępowania dowodowego, zaś dokonanie niezbędnych czynności w postępowaniu sądowym powodowałoby znaczne trudności, przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego; przed przekazaniem sprawy sąd rozstrzyga w przedmiocie środka zapobiegawczego.
+
+### § 3.
+
+Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział w wydaniu postanowienia, jest z mocy prawa wyłączony od dalszego udziału w sprawie.
+
+### § 4.
+
+W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego.
+
+### Art. 517h.
+
+### § 1.
+
+Wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku może być zgłoszony ustnie do protokołu rozprawy lub posiedzenia albo złożony na piśmie w terminie zawitym 3 dni od daty ogłoszenia wyroku. Wniosek niepochodzący od oskarżonego powinien wskazywać tego z oskarżonych, którego dotyczy.
+
+### § 2.
+
+Sąd sporządza uzasadnienie wyroku w terminie 3 dni od daty złożenia wniosku o sporządzenie uzasadnienia.
+
+### § 3.
+
+Termin do wniesienia apelacji wynosi 7 dni i biegnie dla każdego uprawnionego od daty doręczenia mu wyroku z uzasadnieniem.
+
+### § 4.
+
+W razie złożenia apelacji przekazuje się ją niezwłocznie wraz z aktami sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej w ciągu miesiąca od daty jej wpływu do tego sądu. Przepisu art. 448 nie stosuje się.
+
+### § 5.
+
+W wypadku wniesienia apelacji przez prokuratora, obrońcę lub pełnomocnika sąd odwoławczy dołącza do zawiadomienia o terminie rozprawy apelacyjnej odpis apelacji strony przeciwnej.
+
+### Art. 517i.
+
+### § 1.
+
+Jeżeli po rozpoznaniu środka odwoławczego sąd stwierdza, że zachodzi potrzeba uzupełnienia postępowania dowodowego co do istoty sprawy, może - uchylając wyrok - przekazać sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+
+### § 2.
+
+W wypadku uchylenia wyroku i przekazania sprawy do ponownego rozpoznania dalsze postępowanie toczy się w trybie uproszczonym. W razie niemożności rozpoznania sprawy w postępowaniu uproszczonym, uchylając wyrok, sąd przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+
+### Art. 517j.
+
+### § 1.
+
+Dla umożliwienia oskarżonemu korzystania z pomocy obrońcy w postępowaniu przyspieszonym ustanawia się obowiązek pełnienia przez adwokatów dyżurów w czasie i miejscu ustalonym w odrębnych przepisach.
+
+### § 2.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy i możliwości jego wyboru w postępowaniu przyspieszonym, w tym organizacji dyżurów, o których mowa w § 1, mając na uwadze prawidłowy przebieg postępowania przyspieszonego oraz konieczność zapewnienia oskarżonemu możliwości wyboru obrońcy.
+
+” ;
+
+### 13)
+
+w art. 538 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W razie uchylenia prawomocnego wyroku o warunkowym umorzeniu postępowania lub orzekającego karę z warunkowym zawieszeniem jej wykonania, w wypadku ponownego orzeczenia o warunkowym umorzeniu postępowania lub kary z warunkowym zawieszeniem jej wykonania, na poczet okresu próby zalicza się okres próby, który upłynął od uprawomocnienia się wyroku do daty jego uchylenia.
+
+” ;
+
+### 14)
+
+art. 607a otrzymuje brzmienie:
+
+„
+
+### Art. 607a.
+
+W razie podejrzenia, że osoba ścigana za przestępstwo podlegające jurysdykcji polskich sądów karnych może przebywać na terytorium państwa członkowskiego Unii Europejskiej, właściwy miejscowo sąd okręgowy, na wniosek prokuratora, a w postępowaniu sądowym i wykonawczym - z urzędu lub na wniosek właściwego sądu rejonowego, może wydać europejski nakaz aresztowania, zwany w niniejszym rozdziale „nakazem”.
+
+” ;
+
+### 15)
+
+art. 607d otrzymuje brzmienie:
+
+„
+
+### Art. 607d.
+
+### § 1.
+
+Jeżeli istnieje podejrzenie, że osoba ścigana może przebywać na terytorium państwa członkowskiego Unii Europejskiej, a jej miejsce pobytu nie jest znane, prokurator, a w postępowaniu sądowym i wykonawczym sąd okręgowy, który wydał nakaz, przesyła jego odpis do centralnej jednostki Policji współpracującej z Interpolem z wnioskiem o wszczęcie poszukiwań międzynarodowych.
+
+### § 2.
+
+Jeżeli miejsce pobytu osoby ściganej jest znane lub zostało ustalone w wyniku poszukiwań, o których mowa w § 1, prokurator, a w postępowaniu sądowym i wykonawczym sąd okręgowy, który wydał nakaz, przekazuje go bezpośrednio organowi sądowemu państwa wykonania nakazu; odpis nakazu przekazuje się Ministrowi Sprawiedliwości.
+
+### § 3.
+
+Przepis § 2 stosuje się odpowiednio w wypadku, gdy państwo wykonania nakazu zwróciło się o przedstawienie dodatkowych informacji lub dokumentów.
+
+### § 4.
+
+Przekazanie nakazu oraz wszystkich związanych z nim informacji i dokumentów może nastąpić również z wykorzystaniem urządzeń służących do automatycznego przesyłania danych w sposób umożliwiający stwierdzenie autentyczności tych dokumentów.
+
+” ;
+
+### 16)
+
+w art. 607e w § 3 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+organ sądowy państwa wykonania nakazu, który przekazał osobę ściganą, na wniosek sądu właściwego do wydania nakazu, wyraził zgodę na ściganie lub wykonanie kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za przestępstwa określone w pkt 1.
+
+” ;
+
+### 17)
+
+art. 607h otrzymuje brzmienie:
+
+„
+
+### Art. 607h.
+
+### § 1.
+
+Właściwy sąd lub prokurator może wystąpić do organu sądowego państwa wykonania nakazu o zajęcie i przekazanie przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.
+
+### § 2.
+
+Można wystąpić o zajęcie i przekazanie dowodów i przedmiotów, o których mowa w § 1, również wtedy, gdy wykonanie nakazu nie jest możliwe ze względu na śmierć lub ucieczkę osoby ściganej.
+
+### § 3.
+
+Przekazane przedmioty, o których mowa w § 1, zwraca się państwu wykonania nakazu, jeżeli przy ich przekazaniu zastrzeżono zwrot lub gdy podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi, przebywającemu na terytorium państwa wykonania nakazu.
+
+### § 4.
+
+Przepisy rozdziału 62a stosuje się odpowiednio.
+
+” ;
+
+### 18)
+
+w art. 607k:
+
+### a)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Na wniosek prokuratora sąd okręgowy może zastosować tymczasowe aresztowanie, oznaczając jego termin na czas niezbędny do przekazania osoby ściganej. Łączny okres stosowania tymczasowego aresztowania nie może przekroczyć 100 dni. Samoistną podstawą zastosowania tymczasowego aresztowania jest istnienie wydanego w innym państwie członkowskim Unii Europejskiej prawomocnego wyroku skazującego lub innej decyzji stanowiącej podstawę pozbawienia wolności osoby ściganej.
+
+” ,
+
+### b)
+
+po § 3 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Przed wpłynięciem nakazu europejskiego sąd może zastosować wobec osoby ściganej tymczasowe aresztowanie na czas nie dłuższy niż 7 dni, jeżeli zwraca się o to właściwy organ sądowy, który wydał nakaz europejski, zapewniając, że wobec osoby ściganej zapadł prawomocny wyrok skazujący lub wydano inną decyzję będącą podstawą pozbawienia wolności.
+
+” ;
+
+### 19)
+
+w art. 607I § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Na postanowienie sądu w przedmiocie przekazania przysługuje zażalenie. Zażalenie wnosi się w terminie 3 dni od dnia ogłoszenia postanowienia, a jeżeli osoba ścigana pozbawiona jest wolności i nie została sprowadzona na posiedzenie sądu - od dnia jego doręczenia. Art. 252 stosuje się odpowiednio.
+
+” ;
+
+### 20)
+
+w art. 607m:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Postanowienie w przedmiocie przekazania sąd okręgowy wydaje w terminie 40 dni od dnia zatrzymania osoby ściganej. Jeżeli osoba ścigana złożyła oświadczenie, o którym mowa w art. 607l § 2, termin ten wynosi 3 dni i biegnie od dnia złożenia oświadczenia.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Postępowanie w przedmiocie przekazania powinno zakończyć się prawomocnie w terminie 60 dni od dnia zatrzymania osoby ściganej lub 10 dni od złożenia przez nią oświadczenia, o którym mowa w art. 607l § 2.
+
+” ,
+
+### c)
+
+w § 2 zdanie pierwsze otrzymuje brzmienie: „ W szczególnie uzasadnionych wypadkach, gdy terminy określone w § 1a nie mogą być dotrzymane, postępowanie w przedmiocie przekazania powinno zakończyć się prawomocnie w terminie kolejnych 30 dni od dnia upływu tych terminów. ” ;
+
+### 21)
+
+art. 607o otrzymuje brzmienie:
+
+„
+
+### Art. 607o.
+
+### § 1.
+
+Jeżeli przeciwko osobie ściganej jest prowadzone w kraju postępowanie karne o inny czyn niż wskazany w nakazie europejskim lub osoba ta ma odbyć w kraju za taki czyn karę pozbawienia wolności, sąd, wydając postanowienie o przekazaniu, może odroczyć jego wykonanie do czasu zakończenia w kraju postępowania karnego lub do czasu wykonania w kraju kary pozbawienia wolności.
+
+### § 2.
+
+W sytuacji określonej w § 1 sąd, po powiadomieniu o jej zaistnieniu organu, który wydał nakaz europejski, może, na jego wniosek, czasowo przekazać osobę ściganą na warunkach określonych w porozumieniu zawartym z tym organem. Porozumienie takie powinno być sporządzone na piśmie i określać warunki przekazania, w tym zwłaszcza termin powrotnego przekazania osoby ściganej.
+
+” ;
+
+### 22)
+
+po art. 607w dodaje się art. 607wa w brzmieniu:
+
+„
+
+### Art. 607wa.
+
+### § 1.
+
+Właściwy sąd lub prokurator na wniosek organu sądowego państwa wydania nakazu europejskiego dokonuje zajęcia i przekazania przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.
+
+### § 2.
+
+Zajęcia i przekazania dowodów i przedmiotów, o których mowa w § 1, należy dokonać również wtedy, gdy wykonanie nakazu europejskiego nie jest możliwe ze względu na śmierć lub ucieczkę osoby ściganej.
+
+### § 3.
+
+Przy przekazaniu przedmiotów, o których mowa w § 1, można zastrzec ich zwrot, w szczególności gdy podlegają one zwrotowi pokrzywdzonemu lub innemu uprawnionemu podmiotowi, przebywającemu na terytorium Rzeczypospolitej Polskiej.
+
+### § 4.
+
+Przepisy rozdziału 62b stosuje się odpowiednio.
+
+” ;
+
+### 23)
+
+art. 612 otrzymuje brzmienie:
+
+„
+
+### Art. 612.
+
+### § 1.
+
+O każdorazowym wypadku zastosowania tymczasowego aresztowania wobec obywatela państwa obcego, na jego prośbę, zawiadamia się niezwłocznie właściwy miejscowo urząd konsularny tego państwa lub - w braku takiego urzędu - przedstawicielstwo dyplomatyczne tego państwa.
+
+### § 2.
+
+W razie zatrzymania obywatela państwa obcego należy zatrzymanemu umożliwić, na jego prośbę, nawiązanie w dostępnej formie kontaktu z właściwym urzędem konsularnym lub przedstawicielstwem dyplomatycznym, a w razie zatrzymania osoby nieposiadającej żadnego obywatelstwa - z przedstawicielem państwa, w którym ma ona stałe miejsce zamieszkania.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy ([Dz. U. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475 i Nr 201, poz. 1540.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 53 uchyla się § 3;
+
+### 2)
+
+art. 54 otrzymuje brzmienie:
+
+„
+
+### Art. 54.
+
+Karę ograniczenia wolności wykonuje się w miejscu stałego pobytu lub zatrudnienia skazanego albo w niewielkiej odległości od tego miejsca, chyba że ważne względy przemawiają za wykonaniem kary w innym miejscu.
+
+” ;
+
+### 3)
+
+w art. 55 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Czynności związane z organizowaniem i kontrolowaniem wykonywania kary ograniczenia wolności oraz obowiązków nałożonych na skazanego odbywającego tę karę wykonuje sądowy kurator zawodowy. Przepisy o dozorze i kuratorze sądowym stosuje się odpowiednio.
+
+” ;
+
+### 4)
+
+art. 56 otrzymuje brzmienie:
+
+„
+
+### Art. 56.
+
+### § 1.
+
+W celu wykonania nieodpłatnej, kontrolowanej pracy na cele społeczne sąd przesyła odpis orzeczenia właściwemu sądowemu kuratorowi zawodowemu.
+
+### § 2.
+
+Właściwy wójt, burmistrz lub prezydent miasta, zwani dalej „właściwym organem gminy”, wyznacza miejsca, w których może być wykonywana nieodpłatna, kontrolowana praca na cele społeczne; podmioty, dla których organ gminy, powiatu lub województwa jest organem założycielskim, a także państwowe lub samorządowe jednostki organizacyjne oraz spółki prawa handlowego z wyłącznym udziałem Skarbu Państwa lub gminy, powiatu bądź województwa, mają obowiązek umożliwienia skazanym wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne.
+
+### § 3.
+
+Praca, o której mowa w § 2, może być także wykonywana na rzecz instytucji lub organizacji reprezentujących społeczność lokalną oraz w placówkach oświatowo-wychowawczych, młodzieżowych ośrodkach wychowawczych, młodzieżowych ośrodkach socjoterapii, placówkach służby zdrowia, jednostkach organizacyjnych pomocy społecznej, fundacjach, stowarzyszeniach i innych instytucjach lub organizacjach użyteczności publicznej, niosących pomoc charytatywną, za ich zgodą.
+
+” ;
+
+### 5)
+
+po art. 56 dodaje się art. 56a w brzmieniu:
+
+„
+
+### Art. 56a.
+
+### § 1.
+
+Wydatki związane z ubezpieczeniem następstw nieszczęśliwych wypadków skazanych, wykonujących nieodpłatną, kontrolowaną pracę na cele społeczne oraz pracę społecznie użyteczną, ponosi Skarb Państwa.
+
+### § 2.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb postępowania przy zawieraniu przez podmioty uprawnione umowy ubezpieczenia następstw nieszczęśliwych wypadków skazanych wykonujących nieodpłatną, kontrolowaną pracę na cele społeczne oraz pracę społecznie użyteczną, a także minimalną i maksymalną sumę ubezpieczenia, na którą umowa taka może zostać zawarta, podmioty uprawnione do zawierania umów ubezpieczenia oraz termin zawierania umów, mając na uwadze potrzebę zagwarantowania skazanym, wykonującym nieodpłatną, kontrolowaną pracę na cele społeczne lub pracę społecznie użyteczną, odpowiedniej rekompensaty w przypadku zaistnienia przy wykonywaniu tej pracy nieszczęśliwego wypadku oraz sprawne wykonywanie czynności związanych z zawieraniem umowy ubezpieczenia.
+
+” ;
+
+### 6)
+
+art. 57 otrzymuje brzmienie:
+
+„
+
+### Art. 57.
+
+### § 1.
+
+Sądowy kurator zawodowy w terminie 7 dni od doręczenia orzeczenia wzywa skazanego oraz poucza go o prawach i obowiązkach oraz konsekwencjach wynikających z uchylania się od odbywania kary, a także określa, po wysłuchaniu skazanego, rodzaj, miejsce i termin rozpoczęcia pracy, o czym niezwłocznie informuje właściwy organ gminy i podmiot, na rzecz którego będzie wykonywana praca.
+
+### § 2.
+
+W wypadku gdy skazany nie stawi się na wezwanie lub pouczony o prawach, obowiązkach i konsekwencjach związanych z wykonywaniem nieodpłatnej, kontrolowanej pracy na cele społeczne oświadczy sądowemu kuratorowi zawodowemu, że nie wyraża zgody na podjęcie pracy, kurator kieruje do sądu wniosek o orzeczenie kary zastępczej.
+
+### § 3.
+
+Przepis § 2 stosuje się odpowiednio w wypadkach, gdy skazany nie podejmie pracy w wyznaczonym terminie lub w inny sposób uchyla się od odbywania kary ograniczenia wolności lub wykonania ciążących na nim obowiązków.
+
+### § 4.
+
+Zmiana rodzaju, miejsca lub terminu rozpoczęcia pracy może nastąpić na podstawie decyzji sądowego kuratora zawodowego w szczególnie uzasadnionych wypadkach; przepis § 1 stosuje się odpowiednio.
+
+” ;
+
+### 7)
+
+w art. 57a dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Wykonywanie nieodpłatnej, kontrolowanej pracy na cele społeczne może odbywać się także w dni ustawowo wolne od pracy i dni wolne od pracy u danego podmiotu, na rzecz którego jest ona wykonywana.
+
+” ;
+
+### 8)
+
+art. 58 otrzymuje brzmienie:
+
+„
+
+### Art. 58.
+
+### § 1.
+
+Właściwy organ gminy informuje sądowego kuratora zawodowego o wyznaczonych dla skazanych miejscach pracy, rodzaju pracy oraz osobach odpowiedzialnych za organizowanie pracy i kontrolowanie jej przebiegu.
+
+### § 2.
+
+Osoby, o których mowa w § 1, obowiązane są do niezwłocznego informowania sądowego kuratora zawodowego o istotnych okolicznościach dotyczących przebiegu pracy i zachowania się skazanego, a w szczególności o terminie rozpoczęcia i zakończenia pracy, liczbie godzin przepracowanych przez skazanego, rodzaju wykonywanej przez niego pracy, niezgłoszeniu się do pracy, niepodjęciu przydzielonej pracy, przeszkodzie uniemożliwiającej wykonanie pracy, opuszczeniu pracy bez usprawiedliwienia, każdym przypadku niesumiennego wykonywania pracy oraz uporczywego nieprzestrzegania ustalonego porządku i dyscypliny pracy.
+
+### § 3.
+
+Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw administracji publicznej oraz ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, tryb wyznaczania przez właściwy organ gminy podmiotów wskazanych w art. 56 § 2, w których wykonywana jest kara ograniczenia wolności i praca społecznie użyteczna, czynności tych podmiotów, a także podmiotów, o których mowa w art. 56 § 3, w zakresie wykonywania tej kary i pracy, w tym dotyczące organizowania miejsc pracy i przydziału pracy oraz kontroli skazanych, a także dopuszczalny dzienny wymiar czasu pracy skazanych, mając na względzie konieczność zapewnienia warunków do sprawnego wykonywania kary ograniczenia wolności i pracy społecznie użytecznej.
+
+” ;
+
+### 9)
+
+w art. 65 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli skazany uchyla się od odbywania kary ograniczenia wolności, sąd zamienia ją na zastępczą karę grzywny, przyjmując jeden dzień kary ograniczenia wolności za równoważny jednej stawce dziennej; sąd określa w takim wypadku wysokość jednej stawki dziennej - kierując się wskazaniami zawartymi w art. 33 § 3 Kodeksu karnego. Uchylaniem się może być również uporczywe naruszanie ciążących na nim obowiązków.
+
+” ;
+
+### 10)
+
+w art. 66 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+W wypadku zwolnienia skazanego od odbycia reszty kary ograniczenia wolności sądowy kurator zawodowy zawiadamia o tym zakład pracy, placówkę, instytucję lub organizację, w której skazany odbywał karę.
+
+” ;
+
+### 11)
+
+art. 117 otrzymuje brzmienie:
+
+„
+
+### Art. 117.
+
+Skazanego, u którego stwierdzono uzależnienie od alkoholu albo środków odurzających lub substancji psychotropowych, a także skazanego za przestępstwo określone w art. 197-203 Kodeksu karnego popełnione w związku z zaburzeniami preferencji seksualnych obejmuje się, za jego zgodą, odpowiednim leczeniem i rehabilitacją; w razie braku zgody o stosowaniu leczenia lub rehabilitacji orzeka sąd penitencjarny.
+
+” ;
+
+### 12)
+
+w art. 196a § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Instytucje, fundacje, stowarzyszenia lub organizacje społeczne, które w wyniku wykonania prawomocnie orzeczonego środka karnego w postaci nawiązki określonej w art. 47 Kodeksu karnego lub świadczenia pieniężnego określonego w art. 49 Kodeksu karnego otrzymały środki finansowe, są obowiązane do sporządzania i przekazywania Ministrowi Sprawiedliwości rocznych sprawozdań dotyczących wykorzystania tych środków, w terminie do dnia 20 lutego roku następującego po roku, w którym je otrzymały, oraz do wyodrębnienia tych środków w ewidencji księgowej.
+
+” ;
+
+### 13)
+
+w art. 200:
+
+### a)
+
+po § 3 dodaje się § 3a i § 3b w brzmieniu:
+
+„
+
+### § 3a.
+
+Zakłady psychiatryczne wykonujące środek zabezpieczający przewidziany w art. 95a Kodeksu karnego w postaci umieszczenia w zakładzie zamkniętym, organizowane są jako zakłady dysponujące warunkami wzmocnionego zabezpieczenia. § 3b. Środek zabezpieczający przewidziany w art. 95a Kodeksu karnego w postaci skierowania na leczenie ambulatoryjne, wykonuje się w zakładach ambulatoryjnych.
+
+” ,
+
+### b)
+
+uchyla się § 4;
+
+### 14)
+
+w art. 201:
+
+### a)
+
+po § 2 dodaje się § 2a-2c w brzmieniu:
+
+„
+
+### § 2a.
+
+Wykonując orzeczenie o zastosowaniu środka zabezpieczającego określonego w art. 95a Kodeksu karnego, sąd, po zasięgnięciu opinii odpowiedniej w sprawach seksuologii sądowej jednostki organizacyjnej utworzonej lub nadzorowanej przez ministra właściwego do spraw zdrowia, wskazuje zakład, o którym mowa w art. 200 § 3a albo 3b, i przesyła odpis orzeczenia, wraz z poleceniem doprowadzenia sprawcy, właściwej jednostce Policji lub właściwemu organowi wojskowemu, a odpis orzeczenia i polecenie przyjęcia - kierownikowi właściwego zakładu zamkniętego.
+
+### § 2b.
+
+W wypadku skierowania sprawcy na leczenie ambulatoryjne odpis orzeczenia, o którym mowa w § 2a, sąd przesyła właściwej jednostce Policji lub właściwemu organowi wojskowemu i kierownikowi zakładu ambulatoryjnego.
+
+### § 2c.
+
+W wypadku uchylania się sprawcy od leczenia, w szczególności w razie niestawiennictwa sprawcy w zakładzie ambulatoryjnym w wyznaczonym terminie, kierownik zakładu niezwłocznie zawiadamia o tym właściwą jednostkę Policji lub właściwy organ wojskowy. Policja lub właściwy organ wojskowy zatrzymuje sprawcę i w ciągu 48 godzin od chwili zatrzymania przekazuje go do dyspozycji sądu. Od zatrzymania można odstąpić, jeżeli niestawiennictwo nastąpiło z przyczyn losowych, niezależnych od sprawcy. Zatrzymanego należy zwolnić, jeżeli w ciągu 24 godzin od przekazania go do dyspozycji sądu nie doręczono mu postanowienia o umieszczeniu w zakładzie zamkniętym.
+
+” ,
+
+### b)
+
+dodaje się § 5 i 6 w brzmieniu:
+
+„
+
+### § 5.
+
+Minister właściwy do spraw zdrowia, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, wykaz zakładów ambulatoryjnych przeznaczonych do wykonywania środków zabezpieczających określonych w art. 95a Kodeksu karnego, tryb i sposób zawiadamiania Policji lub organu wojskowego o uchylaniu się sprawcy od leczenia oraz warunki wystąpienia do sądu o zmianę sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a Kodeksu karnego, mając na uwadze w szczególności poddanie sprawcy właściwemu leczeniu lub terapii, przeciwdziałanie zachowaniom sprawcy zagrażającym życiu i zdrowiu innych osób lub powodującym niszczenie przedmiotów znacznej wartości oraz zapewnienie sprawnego wykonywania orzeczonego środka.
+
+### § 6.
+
+Minister właściwy do spraw zdrowia, w porozumieniu 2 Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, wykaz zakładów zamkniętych przeznaczonych do wykonywania środków zabezpieczających orzeczonych wobec skazanych za przestępstwa skierowane przeciwko wolności seksualnej, a także ich pojemność i warunki zabezpieczenia oraz warunki wystąpienia do sądu o zmianę sposobu wykonywania środka zabezpieczającego, o którym mowa w art. 95a Kodeksu karnego, mając na uwadze w szczególności poddanie sprawcy umieszczonego w zamkniętym zakładzie właściwemu leczeniu lub terapii, przeciwdziałanie zachowaniom sprawcy zagrażającym życiu i zdrowiu innych osób lub powodującym niszczenie przedmiotów znacznej wartości oraz zapobieżenie samowolnemu oddaleniu się sprawcy stwarzającego zagrożenie poza zakładem.
+
+” .
+
+### 15)
+
+w art. 217 po § 1 dodaje się § 1a-1f w brzmieniu:
+
+„
+
+### § 1a.
+
+Tymczasowo aresztowany, z zastrzeżeniem § 1b, ma prawo do co najmniej jednego widzenia w miesiącu z osobą należącą do kręgu osób najbliższych.
+
+### § 1b.
+
+Odmowa wyrażenia zgody na widzenie, o którym mowa w § 1a, może nastąpić wyłącznie wtedy, gdy zachodzi uzasadniona obawa, że widzenie zostanie wykorzystane:
+
+### 1)
+
+w celu bezprawnego utrudnienia postępowania karnego,
+
+### 2)
+
+do popełnienia przestępstwa, w szczególności podżegania do przestępstwa.
+
+### § 1c.
+
+Na zarządzenie o odmowie wyrażenia zgody na widzenie tymczasowo aresztowanego z osobą najbliższą, tymczasowo aresztowanemu oraz ubiegającej się o widzenie osobie dla niego najbliższej przysługuje zażalenie do sądu, do którego dyspozycji pozostaje tymczasowo aresztowany. Zażalenie na zarządzenie prokuratora rozpoznaje prokurator nadrzędny.
+
+### § 1d.
+
+W razie utrzymania w mocy zaskarżonego zarządzenia o odmowie wyrażenia zgody na widzenie, wniesienie zażalenia na zarządzenie o odmowie wyrażenia zgody na widzenie tymczasowo aresztowanego z tą samą osobą, wydane w ciągu trzech miesięcy od wydania utrzymanego w mocy zarządzenia, jest niedopuszczalne.
+
+### § 1e.
+
+Małoletni może uzyskać zgodę na widzenie z tymczasowo aresztowanym na wniosek przedstawiciela ustawowego.
+
+### § 1f.
+
+Małoletni do lat 15 korzysta z widzenia z tymczasowo aresztowanym pod opieką pozostającego na wolności przedstawiciela ustawowego lub pełnoletniej osoby najbliższej, a w razie gdy uprawniony do opieki nad małoletnim podczas widzenia nie uzyskał zgody na widzenie, nie chce lub nie może z niego skorzystać - pod opieką funkcjonariusza lub pracownika aresztu śledczego wyznaczonego przez dyrektora aresztu śledczego.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2007 r. Nr 111, poz. 765](https://api.sejm.gov.pl/eli/acts/DU/2007/765/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651 oraz z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 20 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Przepisy art. 18 § 2 i 3, art. 19, 20, 21 § 2 i 3, art. 22-24, 27 § 1, art. 40 § 1, art. 41, 43 § 2, art. 51, 57, 58 § 1 i 2a, art. 60 § 1 i 2, art. 62, 63, 66 § 1, art. 67, 68, 69 § 1 i 2, art. 70, 72-77, art. 78 § 1 i 3, art. 79, 80 § 1 i 3, art. 81-83, 85, 86 § 1a, 2 i 3, art. 87, 88, art. 89 § 1, 1a i 3, art. 90, 92-98, 103 § 1, art. 106-108 oraz 114, a także wskazane w innych przepisach niniejszego rozdziału, przepisy części ogólnej Kodeksu karnego stosuje się odpowiednio do przestępstw skarbowych; do żołnierzy, którzy dopuścili się czynu zabronionego jako przestępstwo skarbowe, stosuje się odpowiednio także przepisy art. 318, 321, 322 § 1 i 3, art. 323, 324 § 1, art. 326-333, art. 335 oraz art. 336 Kodeksu karnego.
+
+” ;
+
+### 2)
+
+w art. 28 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Kara nadzwyczajnie obostrzona nie może przekroczyć 1 080 stawek dziennych kary grzywny, 2 lat ograniczenia wolności albo 10 lat kary pozbawienia wolności; karę ograniczenia wolności wymierza się w miesiącach i latach.
+
+” ;
+
+### 3)
+
+w art. 39 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd wymierza karę łączną w granicach od najwyższej z kar wymierzonych za poszczególne przestępstwa skarbowe do ich sumy, nie przekraczając jednak 1 080 stawek dziennych grzywny, 2 lat ograniczenia wolności albo 15 lat pozbawienia wolności; karę ograniczenia wolności wymierza się w miesiącach i latach.
+
+” ;
+
+### 4)
+
+w art. 42 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli sprawca skazany za umyślne przestępstwo skarbowe na karę pozbawienia wolności popełnił w ciągu 5 lat po odbyciu co najmniej roku tej kary umyślnie przestępstwo skarbowe tego samego rodzaju, sąd może go warunkowo zwolnić po odbyciu dwóch trzecich kary.
+
+### § 2.
+
+Skazanego określonego w art. 37 § 1 pkt 2 i 5 można warunkowo zwolnić po odbyciu trzech czwartych kary.
+
+” ;
+
+### 5)
+
+w art. 128 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Do interwenienta oraz jego pełnomocnika stosuje się odpowiednio przepisy art. 232 § 3, art. 305 § 4, art. 315 § 1, art. 316 § 1, art. 318, 321, 323 § 2, art. 334 § 2, art. 338 § 1, art. 343 § 5, art. 475, 482 § 1 zdanie pierwsze, art. 540 § 2, art. 549 oraz 550 § 2 Kodeksu postępowania karnego.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. z 2007 r. Nr 109, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/2007/756/text.html), z [2008 r. Nr 141, poz. 888](https://api.sejm.gov.pl/eli/acts/DU/2008/888/text.html) oraz z [2009 r. Nr 190, poz. 1474](https://api.sejm.gov.pl/eli/acts/DU/2009/1474/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 20 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W czasie odbywania kary ograniczenia wolności ukarany:
+
+### 1)
+
+nie może bez zgody sądu zmieniać miejsca stałego pobytu;
+
+### 2)
+
+jest obowiązany do wykonywania nieodpłatnej kontrolowanej pracy na cele społeczne;
+
+### 3)
+
+ma obowiązek udzielania wyjaśnień dotyczących przebiegu odbywania kary.
+
+” ;
+
+### 2)
+
+w art. 21 uchyla się § 3;
+
+### 3)
+
+art. 52a otrzymuje brzmienie:
+
+„
+
+### Art. 52a.
+
+Kto:
+
+### 1)
+
+publicznie nawołuje do popełnienia przestępstwa lub przestępstwa skarbowego,
+
+### 2)
+
+publicznie nawołuje do przeciwdziałania przemocą aktowi stanowiącemu źródło powszechnie obowiązującego prawa Rzeczypospolitej Polskiej,
+
+### 3)
+
+publicznie pochwala popełnienie przestępstwa, jeżeli zasięg czynu albo jego skutki nie były znaczne
+
+- podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+” ;
+
+### 4)
+
+art. 82 otrzymuje brzmienie:
+
+„
+
+Art. 82 § 1. Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na:
+
+### 1)
+
+niedozwolonym używaniu otwartego ognia, paleniu tytoniu i stosowaniu innych czynników mogących zainicjować zapłon materiałów palnych,
+
+### 2)
+
+wykonywaniu prac niebezpiecznych pod względem pożarowym bez ich wymaganego zabezpieczenia,
+
+### 3)
+
+używaniu instalacji, urządzeń i narzędzi niepoddanych wymaganej kontroli lub niesprawnych technicznie albo użytkowaniu ich w sposób niezgodny z przeznaczeniem lub warunkami określonymi przez producenta, jeżeli może się to przyczynić do powstania pożaru, wybuchu lub rozprzestrzeniania ognia,
+
+### 4)
+
+napełnianiu gazem płynnym butli na stacjach paliw, stacjach gazu płynnego i w innych obiektach nieprzeznaczonych do tego celu,
+
+### 5)
+
+nieprzestrzeganiu zasad bezpieczeństwa przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo, w tym gazu płynnego w butlach,
+
+### 6)
+
+garażowaniu pojazdu silnikowego w obiektach i pomieszczeniach nieprzeznaczonych do tego celu z nieopróżnionym zbiornikiem paliwa i nieodłączonym na stałe zasilaniem akumulatorowym,
+
+### 7)
+
+składowaniu materiałów palnych na drogach komunikacji ogólnej służących ewakuacji lub umieszczaniu przedmiotów na tych drogach w sposób zmniejszający ich szerokość albo wysokość poniżej wymaganych wartości,
+
+### 8)
+
+składowaniu materiałów palnych na nieużytkowych poddaszach lub na drogach komunikacji ogólnej w piwnicach,
+
+### 9)
+
+składowaniu materiałów palnych pod ścianami obiektu bądź przy granicy działki, w sposób naruszający zasady bezpieczeństwa pożarowego,
+
+### 10)
+
+uniemożliwianiu lub ograniczaniu dostępu do urządzeń przeciwpożarowych, gaśnic, urządzeń uruchamiających instalacje gaśnicze i sterujących takimi instalacjami oraz innymi instalacjami wpływającymi na stan bezpieczeństwa pożarowego obiektu, wyłączników i tablic rozdzielczych prądu elektrycznego, kurków głównej instalacji gazowej, a także wyjść ewakuacyjnych oraz okien dla ekip ratowniczych,
+
+### 11)
+
+uniemożliwianiu lub ograniczaniu dostępu do źródeł wody do celów przeciwpożarowych,
+
+podlega karze aresztu, grzywny albo karze nagany.
+
+### § 2.
+
+Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na:
+
+### 1)
+
+zapewnieniu osobom przebywającym w obiekcie lub na terenie odpowiednich warunków ewakuacji,
+
+### 2)
+
+wyposażaniu obiektu lub terenu w urządzenia przeciwpożarowe i gaśnice,
+
+### 3)
+
+utrzymywaniu urządzeń przeciwpożarowych i gaśnic w stanie pełnej sprawności technicznej i funkcjonalnej,
+
+### 4)
+
+umieszczeniu w widocznych miejscach instrukcji postępowania na wypadek pożaru wraz z wykazem telefonów alarmowych oraz wymaganych informacji,
+
+### 5)
+
+oznakowaniu obiektu odpowiednimi znakami bezpieczeństwa,
+
+### 6)
+
+utrzymywaniu dróg pożarowych w stanie umożliwiającym wykorzystanie tych dróg przez pojazdy jednostek ochrony przeciwpożarowej,
+
+### 7)
+
+zapewnieniu usuwania zanieczyszczeń z przewodów dymowych i spalinowych,
+
+### 8)
+
+zachowaniu pasa ochronnego o szerokości minimum 2 m i nawierzchni z materiałów niepalnych lub gruntowej oczyszczonej, wokół placów składowych, składowisk przy obiektach oraz przy obiektach tymczasowych o konstrukcji palnej,
+
+### 9)
+
+przestrzeganiu zasad zabezpieczenia przeciwpożarowego podczas zbioru, transportu lub składowania palnych płodów rolnych,
+
+### 10)
+
+zapobieganiu powstawaniu i rozprzestrzenianiu się pożarów w lesie poprzez wykonywanie wymaganych zabiegów ochronnych,
+
+podlega karze aresztu, grzywny albo karze nagany.
+
+### § 3.
+
+Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi, podlega karze aresztu, grzywny albo karze nagany.
+
+### § 4.
+
+Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania, podlega karze aresztu, grzywny albo karze nagany.
+
+### § 5.
+
+Kto w inny sposób nieostrożnie obchodzi się z ogniem, podlega karze aresztu, grzywny albo karze nagany.
+
+### § 6.
+
+Kto zostawia małoletniego do lat 7 w okolicznościach, w których istnieje prawdopodobieństwo wzniecenia przez niego pożaru, podlega karze grzywny albo karze nagany.
+
+” ;
+
+### 5)
+
+po art. 82 dodaje się art. 82a w brzmieniu:
+
+„
+
+### Art. 82a.
+
+### § 1.
+
+Kto w razie powstania pożaru nie dopełnia obowiązku określonego w przepisach o ochronie przeciwpożarowej oraz Państwowej Straży Pożarnej w postaci:
+
+### 1)
+
+niezwłocznego zawiadomienia osób znajdujących się w strefie zagrożenia oraz: centrum powiadamiania ratunkowego lub jednostki ochrony przeciwpożarowej albo Policji bądź wójta albo sołtysa,
+
+### 2)
+
+podporządkowania się zarządzeniu kierującego działaniem ratowniczym,
+
+### 3)
+
+udzielenia niezbędnej pomocy kierującemu działaniem ratowniczym, na jego żądanie,
+
+podlega karze aresztu, grzywny albo karze nagany.
+
+### § 2.
+
+Tej samej karze podlega, kto utrudnia prowadzenie działań ratowniczych, a w szczególności utrudnia dojazd do obiektów zagrożonych jednostkom ochrony przeciwpożarowej, prowadzącym działania ratownicze.
+
+### § 3.
+
+Kto uniemożliwia lub utrudnia przeprowadzenie czynności kontrolno-rozpoznawczych z zakresu ochrony przeciwpożarowej przez uprawnionego strażaka Państwowej Straży Pożarnej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+” ;
+
+### 6)
+
+w art. 99 w § 1 uchyla się pkt 1 i 4;
+
+### 7)
+
+art. 109 otrzymuje brzmienie:
+
+„
+
+### Art. 109
+
+### § 1.
+
+Kto:
+
+### 1)
+
+zanieczyszcza wodę przeznaczoną do spożycia przez ludzi, lub
+
+### 2)
+
+dostarcza wodę przeznaczoną do spożycia przez ludzi, nie spełniając wymagań określonych w przepisach o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, lub
+
+### 3)
+
+nie będąc do tego uprawnionym, dostarcza wodę przeznaczoną do spożycia przez ludzi w myśl przepisów o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, podlega karze grzywny albo karze nagany.
+
+### § 2.
+
+Kto zanieczyszcza wodę służącą do pojenia zwierząt, znajdującą się poza urządzeniami przeznaczonymi do zaopatrywania ludności w wodę, podlega karze grzywny do 1 500 złotych albo karze nagany.
+
+### § 3.
+
+Tej samej karze podlega, kto umyślnie zanieczyszcza wodę w pływalni, kąpielisku lub w innym obiekcie o podobnym przeznaczeniu lub dostarcza do tych obiektów wodę niespełniającą wymagań określonych w przepisach o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
+
+” ;
+
+### 8)
+
+art. 117 otrzymuje brzmienie:
+
+„
+
+Art. 117 § 1. Kto, mając obowiązek utrzymania czystości i porządku w obrębie nieruchomości, nie wykonuje swoich obowiązków lub nie stosuje się do wskazań i nakazów wydanych przez właściwe organy w celu zabezpieczenia należytego stanu sanitarnego i zwalczania chorób zakaźnych, podlega karze grzywny do 1 500 złotych albo karze nagany.
+
+### § 2.
+
+Tej samej karze podlega przewoźnik obowiązany do zapewnienia podróżnym odpowiednich warunków higieny, który nie utrzymuje środka transportu we właściwym stanie sanitarnym.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502 i Nr 201, poz. 1540.](#gloss-0:6:)) w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 200, art. 200a, art. 204 § 4, art. 223, art. 228 § 1 i 3-5, art. 229 § 1 i 3-5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 245, art. 246, art. 252 § 1-3, art. 253, art. 258, art. 269, art. 280-282, art. 285 § 1, art. 286 § 1, art. 296 § 1-3, art. 296a § 1, 2 i 4, art. 296b § 1 i 2, art. 299 § 1-6 oraz w art. 310 § 1, 2 i 4 Kodeksu karnego,
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks karny ([Dz. U. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 160, poz. 1083](https://api.sejm.gov.pl/eli/acts/DU/1997/1083/text.html), z [1998 r. Nr 113, poz. 715](https://api.sejm.gov.pl/eli/acts/DU/1998/715/text.html) oraz z [2009 r. Nr 141, poz. 1149](https://api.sejm.gov.pl/eli/acts/DU/2009/1149/text.html)) w art. 11 dodaje się § 3 i 4 w brzmieniu:
+
+„
+
+### § 3.
+
+Grzywnę, którą ustawa szczególna określa kwotowo, wymierza się z uwzględnieniem dochodów sprawcy, jego warunków osobistych, rodzinnych, stosunków majątkowych i możliwości zarobkowych.
+
+### § 4.
+
+Ilekroć ustawa szczególna nie określa dolnej granicy ustawowego zagrożenia grzywną określoną kwotowo, granicę tę ustala się na 100 złotych.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375 i Nr 190, poz. 1474.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 42 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W razie uzasadnionych wątpliwości co do stanu zdrowia psychicznego obwinionego sąd lub prokurator działający na podstawie art. 56 § 1 powołuje biegłego psychiatrę. Przepis art. 202 § 5 Kodeksu postępowania karnego stosuje się odpowiednio.
+
+” ;
+
+### 2)
+
+w art. 90 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Postępowanie przyspieszone stosuje się także wobec sprawców wykroczeń popełnionych w związku z imprezą masową, określoną w przepisach o bezpieczeństwie imprez masowych:
+
+### 1)
+
+przeciwko porządkowi i spokojowi publicznemu, określonych w art. 50, 51 i 52a Kodeksu wykroczeń;
+
+### 2)
+
+przeciwko mieniu i urządzeniom użytku publicznego, określonych w art. 124 i 143 Kodeksu wykroczeń.
+
+” ;
+
+### 3)
+
+art. 112 otrzymuje brzmienie:
+
+„
+
+### Art. 112.
+
+W postępowaniu w przedmiocie kasacji stosuje się odpowiednio przepisy działu X niniejszego kodeksu oraz art. 522, 526 § 1, art. 529, 530 § 2 i 3, art. 531 § 1, art. 532 § 1, art. 534 § 2, art. 535-537, 538 § 1 i 3 oraz art. 539 Kodeksu postępowania karnego.
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie ([Dz. U. Nr 180, poz. 1493](https://api.sejm.gov.pl/eli/acts/DU/2005/1493/text.html)) uchyla się art. 14.
+
+### Art. 10.
+
+Sprawy, w których przed dniem wejścia w życie niniejszej ustawy rozpoczęto rozprawę główną, toczą się do końca postępowania w danej instancji według przepisów dotychczasowych, jednakże w razie zawieszenia postępowania, odroczenia rozprawy lub ponownego rozpoznania sprawy albo po zapadnięciu prawomocnego orzeczenia postępowanie toczy się według przepisów tej ustawy.
+
+### Art. 11.
+
+Czynności procesowe dokonane przed dniem wejścia w życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+
+### Art. 12.
+
+W razie wątpliwości, czy stosować przepisy dotychczasowe, czy przepisy w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy nowe.
+
+### Art. 13.
+
+Przepisy wykonawcze wydane na podstawie art. 517j ustawy, o której mowa w art. 2, oraz art. 58 § 4 ustawy, o której mowa w art. 3, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 517j § 2 ustawy, o której mowa w art. 2, oraz art. 58 § 3 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 14.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się także ustawy: ustawę z dnia 20 maja 1971 r. - Kodeks wykroczeń, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 6 czerwca 1997 r. - Przepisy wprowadzające Kodeks karny, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy w rodzinie. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344 oraz z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474 i Nr 201, poz. 1540. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 62, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375 i Nr 190, poz. 1474. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701 i Nr 120, poz. 1268, z 2001 r. Nr 98, poz. 1071 i Nr 111, poz. 1194, z 2002 r. Nr 74, poz. 676 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479, z 2006 r. Nr 104, poz. 708 i Nr 226, poz. 1648, z 2007 r. Nr 123, poz. 849, z 2008 r. Nr 96, poz. 620 i Nr 214, poz. 1344 oraz z 2009 r. Nr 8, poz. 39, Nr 22, poz. 119, Nr 62, poz. 504, Nr 98, poz. 817, Nr 108, poz. 911, Nr 115, poz. 963, Nr 190, poz. 1475 i Nr 201, poz. 1540. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651 oraz z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651 oraz z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502 i Nr 201, poz. 1540. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375 i Nr 190, poz. 1474.

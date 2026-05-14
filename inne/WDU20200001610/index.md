@@ -8,11 +8,9 @@ pos: 1610
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw
-
-*USTAWA z dnia 14 sierpnia 2020 r.*
+# Ustawa z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1117 +22,8420 @@ domain: null
 | Data ogłoszenia | 2020-08-14 |
 | Data wydania | 2020-09-18 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1610/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/1610/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/1610) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2020 r. poz. 360 i 956) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 39b.**
+### Art. 1.
 
-1. Zawieszenie w czynnościach służbowych oraz przedłużenie okresu zawieszenia w czynnościach służbowych następują w drodze decyzji.
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2020 r. poz. 360](https://api.sejm.gov.pl/eli/acts/DU/2020/360/text.html) i [956](https://api.sejm.gov.pl/eli/acts/DU/2020/956/text.html)) wprowadza się następujące zmiany:
 
-2. W decyzji o zawieszeniu w czynnościach służbowych oraz decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych zamieszcza się:
+### 1)
 
-- **1)** oznaczenie przełożonego podejmującego decyzję;
-- **2)** datę wydania decyzji;
-- **3)** podstawę prawną;
-- **4)** stopień policyjny, nazwisko i imię, imię ojca oraz numer identyfikacyjny zawieszonego policjanta;
-- **5)** nazwę stanowiska służbowego zawieszonego policjanta oraz nazwę jednostki organizacyjnej Policji;
-- **6)** wskazanie okresu, na który nastąpi zawieszenie lub przedłużenie okresu zawieszenia;
-- **7)** termin rozliczenia się z obowiązków oraz realizacji zadań i czynności służbowych zawieszonego policjanta;
-- **8)** uzasadnienie faktyczne i prawne zawieszenia w czynnościach służbowych policjanta;
-- **9)** pouczenie o przysługującym zawieszonemu policjantowi środku odwoławczym;
-- **10)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego przełożonego uprawnionego do ich wydania.
+w art. 15a dodaje się ust. 3 w brzmieniu:
 
-3. Decyzję, o której mowa w ust. 1, doręcza się niezwłocznie zainteresowanemu policjantowi, a kopię decyzji włącza się do jego akt osobowych.
+„
 
-**Art. 39c.**
+### 3.
 
-1. Od decyzji o zawieszeniu w czynnościach służbowych oraz od decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych policjantowi przysługuje odwołanie do:
+Oceny ryzyka, o której mowa w ust. 2, dokonuje się w kwestionariuszu szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego dołączanym do protokołu zatrzymania.
 
-- **1)** ministra właściwego do spraw wewnętrznych, jeżeli decyzję wydał Komendant Główny Policji;
-- **2)** Komendanta Głównego Policji, jeżeli decyzję wydał: Komendant BSWP, Komendant CBŚP, komendant wojewódzki (Stołeczny) Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie oraz komendant szkoły policyjnej;
-- **3)** komendanta wojewódzkiego (Stołecznego) Policji, jeżeli decyzję wydał komendant powiatowy (miejski, rejonowy) Policji.
+” ;
 
-2. Jeżeli decyzję o zawieszeniu w czynnościach służbowych lub decyzję o przedłużeniu okresu zawieszenia w czynnościach służbowych wydał minister właściwy do spraw wewnętrznych, odwołanie nie przysługuje. Odwołujący może zwrócić się z wnioskiem o ponowne rozpatrzenie sprawy do ministra właściwego do spraw wewnętrznych. Do wniosku o ponowne rozpatrzenie sprawy stosuje się przepisy dotyczące odwołań od decyzji.
+### 2)
 
-3. Decyzja o zawieszeniu w czynnościach służbowych lub decyzja o jego przedłużeniu podlega natychmiastowemu wykonaniu.
+w art. 15aa w ust. 2 wyrazy „przepis art. 15a ust. 2” zastępuje się wyrazami „przepisy art. 15a ust. 2 i 3”;
 
-4. Odwołanie i wniosek o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, wnosi się w terminie 14 dni od dnia doręczenia decyzji przełożonego, który wydał decyzję.
+### 3)
 
-5. Rozpatrzenie odwołania i wniosku o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, następuje w drodze decyzji, wydanej w terminie 7 dni od dnia otrzymania odwołania lub wniosku, wraz z aktami sprawy.
+w art. 15ab w ust. 2 dodaje się zdanie drugie w brzmieniu: „ W przypadku sporządzenia kwestionariusza szacowania ryzyka zagrożenia życia lub zdrowia ludzkiego na podstawie art. 15a ust. 3 kolejnego kwestionariusza nie sporządza się. ” ;
 
-**Art. 39d.**
+### 4)
 
-1. Wygaśnięcie decyzji o zawieszeniu w czynnościach służbowych następuje w przypadku:
+po art. 36m dodaje się art. 36ma w brzmieniu:
 
-- **1)** upływu terminu określonego w decyzji o zawieszeniu w czynnościach służbowych, jeżeli zawieszenia nie przedłużono do czasu ukończenia postępowania karnego;
-- **2)** prawomocnego zakończenia postępowania karnego lub dyscyplinarnego;
-- **3)** zwolnienia policjanta ze służby;
-- **4)** śmierci lub zaginięcia policjanta.
+„
 
-2. Decyzję o zawieszeniu w czynnościach służbowych uchyla się w przypadku ustania przesłanek:
+### Art. 36ma.
 
-- **1)** wskazujących na celowość zawieszenia, o których mowa w art. 39 ust. 2;
-- **2)** które były podstawą przedłużenia okresu zawieszenia.
+Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano policjanta, na wniosek Komendanta Głównego Policji lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez policjanta zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
 
-3. Do decyzji o uchyleniu zawieszenia w czynnościach służbowych stosuje się odpowiednio przepisy art. 39a ust. 1 i 2, art. 39b ust. 2 pkt 1–5, 7– 10 i ust. 3 oraz art. 39c.”;
+” ;
 
-- **8)** w art. 43 ust. 1 otrzymuje brzmienie: „1. Zwolnienie policjanta ze służby na podstawie art. 38 ust. 4 oraz art. 41 ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1, 4 i 6 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że policjant zgłosi pisemnie wystąpienie ze służby.”;
-- **9)** po art. 66 dodaje się art. 66a–66c w brzmieniu: „Art. 66a. 1. Policjantowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+### 5)
 
-2. Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych Policji, na wniosek policjanta, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia policjantów, o którym mowa w art. 99 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+po art. 38 dodaje się art. 38a w brzmieniu:
 
-3. W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant Główny Policji może zapewnić policjantowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez Policję koszty ochrony prawnej nie podlegają zwrotowi przez policjanta, niezależnie od wyniku postępowania karnego.
+„
 
-**Art. 66b.**
+### Art. 38a.
 
-1. Policjantowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+Równorzędnym stanowiskiem służbowym jest stanowisko zaszeregowane do tej samej grupy uposażenia zasadniczego i takiego samego stopnia etatowego.
 
-2. Ochronę prawną, o której mowa w ust. 1, zapewnia jednostka organizacyjna Policji, w której policjant pokrzywdzony przestępstwem pełni służbę, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia właściwa miejscowo komenda wojewódzka Policji albo Komenda Stołeczna Policji.
+” ;
 
-3. W przypadku braku możliwości zapewniania ochrony prawnej przez jednostkę organizacyjną Policji, o której mowa w ust. 2, policjantowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia policjantów, o którym mowa w art. 99 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+### 6)
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez policjanta kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 66a ust. 1 i 3, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w ust. 3 i w art. 66a ust. 2, kierując się koniecznością korzystania przez policjanta z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez policjanta na ochronę prawną.
+w art. 39:
 
-**Art. 66c.** Ochrona prawna, o której mowa w art. 66a i art. 66b, przysługuje również policjantowi oddelegowanemu do wykonywania zadań służbowych poza Policję, na jego wniosek, w przypadku gdy postępowanie karne, o którym mowa w art. 66a ust. 1 lub art. 66b ust. 1, zostało wszczęte w związku z wykonywaniem przez niego czynności służbowych w ramach podjętej interwencji w znaczeniu, o którym mowa w art. 15 ust. 7c.”;
+### a)
 
-**Art. 134a.** Kara upomnienia i kara nagany oznaczają wytknięcie ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.”;
+ust. 2 otrzymuje brzmienie:
 
-**Art. 139.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.”.
+„
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2020 r. poz. 305) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 43b.**
+Policjanta można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, nieumyślne, ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby - na czas nie dłuższy niż 12 miesięcy.
 
-1. Zawieszenie w czynnościach służbowych oraz przedłużenie okresu zawieszenia w czynnościach służbowych następują w drodze decyzji.
+” ,
 
-2. W decyzji o zawieszeniu w czynnościach służbowych oraz decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych zamieszcza się:
+### b)
 
-- **1)** oznaczenie przełożonego podejmującego decyzję;
-- **2)** datę wydania;
-- **3)** stopień, imię i nazwisko oraz stanowisko służbowe zawieszonego funkcjonariusza, którego decyzja dotyczy;
-- **4)** powołanie podstawy prawnej;
-- **5)** wskazanie okresu, na który następuje zawieszenie lub przedłużenie okresu zawieszenia;
-- **6)** uzasadnienie faktyczne i prawne zawieszenia w czynnościach służbowych funkcjonariusza;
-- **7)** pouczenie o przysługującym zawieszonemu funkcjonariuszowi środku odwoławczym;
-- **8)** podpis z podaniem imienia i nazwiska oraz stanowiska przełożonego.
+uchyla się ust. 4;
 
-3. Decyzję, o której mowa w ust. 2, doręcza się niezwłocznie zainteresowanemu funkcjonariuszowi, a kopię decyzji włącza się do jego akt osobowych.
+### 7)
 
-**Art. 43c.**
+po art. 39 dodaje się art. 39a-39d w brzmieniu:
 
-1. Od decyzji o zawieszeniu w czynnościach służbowych oraz od decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych funkcjonariuszowi przysługuje odwołanie do:
+„
 
-- **1)** ministra właściwego do spraw wewnętrznych, jeżeli decyzję wydał Komendant Główny Straży Granicznej;
-- **2)** Komendanta Głównego Straży Granicznej, jeżeli decyzję wydał: Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej.
+### Art. 39a.
 
-2. Jeżeli decyzję o zawieszeniu w czynnościach służbowych lub decyzję o przedłużeniu okresu zawieszenia w czynnościach służbowych wydał minister właściwy do spraw wewnętrznych, odwołanie nie przysługuje. Odwołujący może zwrócić się z wnioskiem o ponowne rozpatrzenie sprawy do ministra właściwego do spraw wewnętrznych. Do wniosku o ponowne rozpatrzenie sprawy stosuje się przepisy dotyczące odwołań od decyzji.
+### 1.
 
-3. Wniesienie odwołania od decyzji o zawieszeniu w czynnościach służbowych lub od decyzji o jego przedłużeniu nie wstrzymuje wykonania tych decyzji.
+Przełożonymi właściwymi do zawieszania policjantów w czynnościach służbowych są:
 
-4. Odwołanie i wniosek o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, wnosi się w terminie 14 dni od dnia doręczenia decyzji przełożonego, który wydał decyzję.
+### 1)
 
-5. Rozpatrzenie odwołania lub wniosku o ponowne rozpatrzenie sprawy następuje w drodze decyzji wydanej w terminie 7 dni od dnia otrzymania odwołania lub wniosku, wraz z aktami sprawy.
+minister właściwy do spraw wewnętrznych - w stosunku do Komendanta Głównego Policji oraz Komendanta BSWP i jego zastępcy;
 
-**Art. 43d.**
+### 2)
 
-1. Wygaśnięcie decyzji o zawieszeniu w czynnościach służbowych następuje w przypadku:
+Komendant Główny Policji - w stosunku do policjanta na stanowisku służbowym:
 
-- **1)** upływu terminu określonego w decyzji o zawieszeniu w czynnościach służbowych, jeżeli zawieszenia nie przedłużono do czasu ukończenia postępowania karnego;
-- **2)** prawomocnego zakończenia postępowania karnego lub dyscyplinarnego;
-- **3)** zwolnienia funkcjonariusza ze służby;
-- **4)** wygaśnięcia stosunku służbowego funkcjonariusza.
+### a)
 
-2. Decyzję o zawieszeniu w czynnościach służbowych uchyla się w przypadku ustania przesłanek:
+Komendanta CBŚP i jego zastępcy,
 
-- **1)** wskazujących na celowość zawieszenia, o których mowa w art. 43 ust. 2;
-- **2)** które były podstawą przedłużenia okresu zawieszenia.
+### b)
 
-3. Do decyzji o uchyleniu zawieszenia w czynnościach służbowych stosuje się odpowiednio przepisy art. 43a ust. 1 i 2, art. 43b ust. 2 pkt 1–4 i 6– 8 i ust. 3 oraz art. 43c.”;
+komendanta wojewódzkiego (Stołecznego) Policji i jego zastępcy,
 
-- **9)** w art. 46b:
-    - **a)** w ust. 1 wyrazy „art. 5 § 1 lub 2” zastępuje się wyrazami „art. 5 § 1 pkt 1 lub 2”,
-    - **b)** w ust. 2 zdanie drugie otrzymuje brzmienie: „Przepisu art. 47 ust. 1 nie stosuje się.”;
+### c)
 
-- **10)** w art. 47:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zwolnienie funkcjonariusza ze służby na podstawie art. 45 ust. 1 pkt 1 i 2, ust. 2 pkt 1, 4, 6 i 7 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz zgłosi pisemne wystąpienie ze służby.”,
-    - **b)** uchyla się ust. 2,
-    - **c)** ust. 2a i 2b otrzymują brzmienie: „2a. Do okresu choroby stanowiącego przyczynę zaprzestania służby, o którym mowa w ust. 1, wlicza się poprzednie okresy choroby stanowiące przyczynę zaprzestania służby, jeżeli przerwa między kolejnymi okresami nie przekracza 60 dni.
+Komendanta-Rektora Wyższej Szkoły Policji w Szczytnie i jego zastępcy,
 
-2b. Wykonanie decyzji o zwolnieniu funkcjonariusza ze służby ulega wstrzymaniu do dnia następującego po ostatnim dniu choroby, nie dłużej jednak niż do dnia następującego po upływie 12 miesięcy, jeżeli zwolnienie następuje na podstawie, o której mowa w ust. 1.”;
+### d)
 
-- **11)** art. 49 otrzymuje brzmienie: „Art. 49. Funkcjonariuszy zwalniają ze służby właściwi przełożeni, o których mowa w art. 36 ust. 1.”;
-- **12)** w art. 52 ust. 2 otrzymuje brzmienie: „2. Na stopnie szeregowych, podoficerów oraz chorążych Straży Granicznej mianują właściwi przełożeni, o których mowa w art. 36 ust. 1.”;
-- **13)** art. 53 otrzymuje brzmienie: „Art. 53. Na pierwszy stopień oficerski Straży Granicznej oraz na stopień generała brygady Straży Granicznej (kontradmirała Straży Granicznej) oraz generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) mianuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych. Na pozostałe stopnie oficerskie Straży Granicznej mianuje Komendanta Głównego Straży Granicznej, Komendanta BSWSG oraz ich zastępców minister właściwy do spraw wewnętrznych, a pozostałych funkcjonariuszy – Komendant Główny Straży Granicznej.”;
-- **14)** w art. 55 ust. 1 otrzymuje brzmienie: „1. Na pierwszy stopień oficerski Straży Granicznej może być mianowany funkcjonariusz, który posiada wykształcenie wyższe, odbył przeszkolenie specjalistyczne oraz posiada pozytywną opinię służbową.”;
-- **15)** w art. 58:
-    - **a)** w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Funkcjonariusze zwolnieni ze służby mogą używać posiadanych stopni, o których mowa w art. 51, z dodaniem określenia:”,
-    - **b)** w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Utrata stopnia wymienionego w art. 51 następuje w przypadku:”;
+komendanta szkoły policyjnej i jego zastępcy,
 
-- **16)** art. 59 otrzymuje brzmienie: „Art. 59. O obniżeniu lub utracie stopnia w przypadkach określonych w ustawie orzeka organ właściwy do mianowania na ten stopień, z tym że o obniżeniu lub utracie stopnia podporucznika Straży Granicznej orzeka minister właściwy do spraw wewnętrznych, a o obniżeniu lub utracie stopnia generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) i generała brygady Straży Granicznej (kontradmirała Straży Granicznej) – Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.”;
-- **17)** art. 62 otrzymuje brzmienie: „Art. 62. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb mianowania funkcjonariuszy na stopnie, podmioty właściwe do składania wniosków o mianowanie, terminy dokonywania mianowań, kwalifikacje i umiejętności szczególnie przydatne do pełnienia służby w Straży Granicznej uzasadniające możliwość mianowania na równorzędny stopień obowiązujący w Straży Granicznej osoby przyjmowanej do służby i posiadającej stopień wojskowy oraz sposób ogłaszania o utracie stopnia w przypadkach określonych w art. 58 ust. 3, a także wzory dokumentów wykorzystywanych w sprawach mianowań, uwzględniając konieczność zapewnienia sprawnego przebiegu mianowania na stopnie oraz prawidłowego jego dokumentowania.”;
-- **18)** art. 71a otrzymuje brzmienie: „Art. 71a. 1. Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+### e)
 
-2. Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych Straży Granicznej, na wniosek funkcjonariusza, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 103 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+w Komendzie Głównej Policji lub pozostającego w jego dyspozycji,
 
-3. W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant Główny Straży Granicznej może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez Straż Graniczną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.”;
+### f)
 
-- **19)** po art. 71a dodaje się art. 71b i art. 71c w brzmieniu: „Art. 71b. 1. Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+w Centralnym Laboratorium Kryminalistycznym Policji,
 
-2. Ochronę prawną, o której mowa w ust. 1, zapewnia jednostka organizacyjna Straży Granicznej, w której funkcjonariusz pokrzywdzony przestępstwem pełni służbę, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia komenda właściwego miejscowo oddziału Straży Granicznej albo Komenda Główna Straży Granicznej.
+### g)
 
-3. W przypadku braku możliwości zapewnienia ochrony prawnej przez jednostkę organizacyjną Straży Granicznej lub komendę, o której mowa w ust. 2, funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 103 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+w BOA;
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 71a ust. 1 i 3, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w ust. 3 oraz w art. 71a ust. 2, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.
+### 3)
 
-**Art. 71c.** Ochrona prawna, o której mowa w art. 71a i art. 71b, przysługuje również funkcjonariuszowi oddelegowanemu do wykonywania zadań poza Straż Graniczną, na jego wniosek, w przypadku gdy postępowanie karne, o którym mowa w art. 71a ust. 1 lub art. 71b ust. 1, zostało wszczęte w związku z wykonywaniem przez niego czynności służbowych w ramach podjętej interwencji, w znaczeniu, o którym mowa w art. 11 ust. 2e.”;
+Komendant CBŚP - w stosunku do policjanta na stanowisku służbowym w CBŚP;
 
-**Art. 86b.** Funkcjonariuszowi skierowanemu do szkoły, na przeszkolenie lub na studia wyższe albo podyplomowe w kraju albo za granicą udziela się urlopu wypoczynkowego za dany rok kalendarzowy przed tym skierowaniem, jeżeli czas trwania nauki uniemożliwiałby udzielenie urlopu w trakcie nauki lub po jej zakończeniu w tym roku kalendarzowym lub w ciągu pierwszych 3 miesięcy następnego roku.
+### 4)
 
-**Art. 86c.**
+Komendant BSWP - w stosunku do policjanta na stanowisku służbowym w BSWP;
 
-1. Urlopu wypoczynkowego udziela:
+### 5)
 
-- **1)** minister właściwy do spraw wewnętrznych lub upoważnione przez niego osoby – Komendantowi Głównemu Straży Granicznej;
-- **2)** Komendant Główny Straży Granicznej lub upoważnione przez niego osoby – zastępcom Komendanta Głównego Straży Granicznej, Komendantowi BSWSG, komendantom oddziałów Straży Granicznej, komendantom ośrodków szkolenia Straży Granicznej, komendantom ośrodków Straży Granicznej, kierownikom komórek organizacyjnych Komendy Głównej oraz innym podległym bezpośrednio funkcjonariuszom;
-- **3)** Komendant BSWSG, komendanci oddziałów Straży Granicznej, komendanci ośrodków szkolenia Straży Granicznej, komendanci ośrodków Straży Granicznej, kierownicy komórek organizacyjnych Komendy Głównej lub upoważnione przez nich osoby – podległym funkcjonariuszom.
+komendant wojewódzki (Stołeczny) Policji - w stosunku do policjanta na stanowisku służbowym:
 
-2. Urlopu wypoczynkowego udziela się w miarę możliwości zgodnie z planem urlopów.
+### a)
 
-3. Urlop wypoczynkowy może być wykorzystany, na wniosek funkcjonariusza, w częściach, z tym że co najmniej jedna część urlopu obejmuje nie mniej niż 14 kolejnych dni kalendarzowych, wliczając do tego okresu również dni wolne od służby przypadające w okresie urlopu oraz bezpośrednio przed jego rozpoczęciem lub po jego zakończeniu.”;
+komendanta powiatowego (miejskiego, rejonowego) Policji oraz jego zastępcy,
 
-- **24)** w art. 87 ust. 3 i 4 otrzymują brzmienie: „3. Zgodę na odwołanie funkcjonariusza z urlopu z ważnych względów służbowych oraz na wstrzymanie z tego powodu udzielenia urlopu w całości lub w części wyraża właściwy przełożony, o którym mowa w art. 36 ust. 1.
+### b)
 
-4. Funkcjonariuszowi, który nie wykorzystał urlopu w danym roku kalendarzowym, urlopu tego należy udzielić w ciągu pierwszych 9 miesięcy następnego roku.”;
+w jednostce organizacyjnej Policji bezpośrednio podległej,
 
-- **25)** w art. 87a ust. 1 i 2 otrzymują brzmienie: „1. Funkcjonariuszowi posiadającemu status weterana poszkodowanego przysługuje prawo do corocznego dodatkowego urlopu wypoczynkowego w wymiarze 5 dni roboczych.
+### c)
 
-2. Prawo do urlopu, o którym mowa w ust. 1, nie przysługuje funkcjonariuszowi posiadającemu status weterana poszkodowanego, uprawnionemu do urlopu wypoczynkowego i urlopów dodatkowych, z wyłączeniem urlopu dodatkowego z tytułu pełnienia służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, w wymiarze przekraczającym 26 dni roboczych.”;
+w komendzie wojewódzkiej (Stołecznej) Policji lub pozostającego w jego dyspozycji;
 
-- **26)** po art. 87a dodaje się art. 87b–87f w brzmieniu: „Art. 87b. 1. Funkcjonariuszowi przysługuje coroczny płatny urlop dodatkowy ze względu na staż służby w wymiarze:
-- **1)** 5 dni roboczych – dla funkcjonariusza posiadającego 15-letni staż służby;
-- **2)** 9 dni roboczych – dla funkcjonariusza posiadającego 20-letni staż służby;
-- **3)** 13 dni roboczych – dla funkcjonariusza posiadającego 25-letni staż służby.
+### 6)
 
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+komendant powiatowy (miejski, rejonowy) Policji - w stosunku do policjanta na stanowisku służbowym:
 
-- **1)** służby w Straży Granicznej;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723);
-- **4)** pracy zaliczonej do wysługi lat w Straży Granicznej na podstawie art. 151 ust. 5.
+### a)
 
-3. Funkcjonariuszowi przysługuje coroczny płatny urlop dodatkowy ze względu na osiągnięty wiek w wymiarze:
+komendanta komisariatu Policji oraz jego zastępcy,
 
-- **1)** 5 dni roboczych – po ukończeniu 40 lat życia;
-- **2)** 9 dni roboczych – po ukończeniu 45 lat życia;
-- **3)** 13 dni roboczych – po ukończeniu 55 lat życia.
+### b)
 
-4. Funkcjonariuszowi pełniącemu służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia przysługuje, w zależności od stopnia szkodliwości, coroczny płatny urlop dodatkowy w wymiarze:
+w jednostce organizacyjnej Policji bezpośrednio podległej,
 
-- **1)** 5 dni roboczych – przy pierwszym stopniu szkodliwości;
-- **2)** 7 dni roboczych – przy drugim stopniu szkodliwości;
-- **3)** 9 dni roboczych – przy trzecim stopniu szkodliwości;
-- **4)** 13 dni roboczych – przy czwartym stopniu szkodliwości.
+### c)
 
-5. Urlop, o którym mowa w ust. 4, przyznaje się funkcjonariuszowi z dniem upływu roku nieprzerwanego pełnienia służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia.
+w komendzie powiatowej (miejskiej, rejonowej) Policji lub pozostającego w jego dyspozycji;
 
-6. Przerwy w pełnieniu służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia z powodu choroby, urlopu, zwolnienia z zajęć służbowych, a także wynikające z potrzeb służbowych, trwające łącznie nie dłużej niż 90 dni w ciągu roku, są wliczane do okresu, o którym mowa w ust. 5. Urlop, o którym mowa w ust. 4, traktuje się jako równorzędny z pełnieniem służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, bez względu na jego wymiar.
+### 7)
 
-7. Jeżeli od dnia przyznania funkcjonariuszowi poprzedniego urlopu, o którym mowa w ust. 4, pełnił on nieprzerwanie służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, kolejny urlop dodatkowy przyznaje się na dzień 1 stycznia następnego roku kalendarzowego.
+Komendant-Rektor Wyższej Szkoły Policji w Szczytnie - w stosunku do policjanta na stanowisku służbowym w Wyższej Szkole Policji w Szczytnie;
 
-8. Funkcjonariuszowi pełniącemu służbę na stanowisku, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia uzasadniające przyznanie urlopu, o którym mowa w ust. 4, w różnym wymiarze, przyznaje się jeden urlop w wymiarze korzystniejszym.
+### 8)
 
-**Art. 87c.** Urlopy, o których mowa w art. 87b ust. 1 i 3, mogą być wykorzystane na wniosek funkcjonariusza w dwóch częściach, z wyjątkiem tych urlopów, których wymiar wynosi 5 dni.
+komendant szkoły policyjnej - w stosunku do policjanta na stanowisku służbowym w szkole policyjnej.
 
-**Art. 87d.** W przypadku zbiegu uprawnień do corocznego płatnego urlopu dodatkowego z różnych tytułów, z wyjątkiem urlopu, o którym mowa w art. 87b ust. 4, funkcjonariuszowi przyznaje się jeden urlop w wymiarze najkorzystniejszym.
+### 2.
 
-**Art. 87e.** Funkcjonariuszowi, który wykorzystał coroczny płatny urlop dodatkowy przysługujący za dany rok kalendarzowy, a następnie nabył w ciągu tego roku prawo do tego urlopu w wyższym wymiarze, przysługuje urlop uzupełniający.
+W szczególnie uzasadnionych przypadkach Komendant Główny Policji może zawiesić w czynnościach służbowych również policjantów wymienionych w ust. 1 pkt 3-8.
 
-**Art. 87f.** Do urlopów, o których mowa w art. 87b ust. 1, 3 i 4, stosuje się odpowiednio przepisy art. 86 ust. 1 zdanie drugie i ust. 8, art. 86a, art. 86b, art. 86c ust. 1 i 2 oraz art. 87.”;
+### 3.
 
-**Art. 89b.**
+Okres zawieszenia w czynnościach służbowych przedłuża przełożony właściwy do zawieszenia w czynnościach służbowych. Jeżeli zawieszenie w czynnościach służbowych nastąpiło na podstawie ust. 2, okres zawieszenia w czynnościach służbowych przedłuża Komendant Główny Policji.
 
-1. Płatnego urlopu okolicznościowego właściwy przełożony, o którym mowa w art. 36 ust. 1, udziela funkcjonariuszowi przenoszonemu z urzędu do pełnienia służby w innej miejscowości, jeżeli z przeniesieniem wiąże się zmiana jego miejsca zamieszkania.
+### Art. 39b.
 
-2. Urlopu, o którym mowa w ust. 1, udziela się w wymiarze od 3 do 7 dni roboczych, w zależności od położenia nowego miejsca zamieszkania, warunków rodzinnych i innych okoliczności mających bezpośredni wpływ na warunki przeniesienia. Na wniosek funkcjonariusza urlop może być wykorzystany w częściach.
+### 1.
 
-**Art. 89c.**
+Zawieszenie w czynnościach służbowych oraz przedłużenie okresu zawieszenia w czynnościach służbowych następują w drodze decyzji.
 
-1. Urlopu bezpłatnego z ważnych przyczyn może udzielić, na wniosek funkcjonariusza, właściwy przełożony, o którym mowa w art. 36 ust. 1, jeżeli nie zakłóci to toku służby.
+### 2.
 
-2. Przy udzielaniu urlopu bezpłatnego dłuższego niż 3 miesiące właściwy przełożony, o którym mowa w art. 36 ust. 1, udzielając urlopu, może przewidzieć dopuszczalność odwołania funkcjonariusza z urlopu bezpłatnego z ważnych względów służbowych w każdym czasie, po uprzednim poinformowaniu funkcjonariusza o tym fakcie co najmniej 14 dni przed terminem przewidzianego podjęcia służby.
+W decyzji o zawieszeniu w czynnościach służbowych oraz decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych zamieszcza się:
 
-**Art. 89d.**
+### 1)
 
-1. Funkcjonariuszowi, który wyjeżdża za granicę wspólnie z małżonkiem przeniesionym do pełnienia służby albo pracy w przedstawicielstwie dyplomatycznym, misji dyplomatycznej, urzędzie konsularnym, organach i instytucjach Unii Europejskiej lub instytucie polskim, właściwy przełożony, o którym mowa w art. 36 ust. 1, udziela, na wniosek tego funkcjonariusza, urlopu bezpłatnego na czas trwania tej służby albo pracy.
+oznaczenie przełożonego podejmującego decyzję;
 
-2. Funkcjonariusz jest obowiązany zgłosić się do służby w terminie jednego miesiąca od dnia powrotu z zagranicy po zakończeniu służby lub pracy za granicą przez jego małżonka. Funkcjonariusz ten obejmuje stanowisko służbowe zajmowane przed urlopem lub inne stanowisko równorzędne.
+### 2)
 
-**Art. 89e.** Urlopów, o których mowa w art. 89a ust. 1, art. 89c ust. 1 i art. 89d ust. 1, udziela się w drodze rozkazu personalnego.
+datę wydania decyzji;
 
-**Art. 89f.**
+### 3)
 
-1. W przypadku korzystania przez funkcjonariusza z urlopu bezpłatnego trwającego co najmniej jeden miesiąc urlop wypoczynkowy i coroczny płatny urlop dodatkowy ulegają skróceniu o 1/12 za każdy miesiąc urlopu bezpłatnego, nie więcej jednak niż za 12 miesięcy.
+podstawę prawną;
 
-2. W przypadku korzystania przez funkcjonariusza w ciągu roku kalendarzowego z kilku urlopów bezpłatnych urlopy te sumuje się.
+### 4)
 
-3. Przy ustalaniu wymiaru urlopu wypoczynkowego i corocznego płatnego urlopu dodatkowego niepełny dzień urlopu zaokrągla się w górę do pełnego dnia.
+stopień policyjny, nazwisko i imię, imię ojca oraz numer identyfikacyjny zawieszonego policjanta;
 
-**Art. 89g.**
+### 5)
 
-1. W przypadku funkcjonariusza zawieszonego w czynnościach służbowych, w stosunku do którego postępowanie karne lub dyscyplinarne nie zostało zakończone w sposób, o którym mowa w art. 128 ust. 3, urlop wypoczynkowy i coroczny płatny urlop dodatkowy przysługuje w wymiarze proporcjonalnym do okresu służby pełnionej w roku zawieszenia w czynnościach służbowych oraz ustania tego zawieszenia.
+nazwę stanowiska służbowego zawieszonego policjanta oraz nazwę jednostki organizacyjnej Policji;
 
-2. Do ustalania wymiaru urlopów, o których mowa w ust. 1, stosuje się odpowiednio przepis art. 89f, z tym że w przypadku zawieszenia w czynnościach służbowych trwającego krócej niż jeden miesiąc urlop wypoczynkowy ulega skróceniu o jeden dzień roboczy za każde dwa tygodnie zawieszenia w czynnościach służbowych.”;
+### 6)
 
-- **29)** art. 90 otrzymuje brzmienie: „Art. 90. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
-- **1)** szczegółowe warunki i sposób udzielania funkcjonariuszowi urlopu wypoczynkowego oraz urlopów, o których mowa w art. 87b ust. 1, 3 i 4, w tym ustalania planu urlopów oraz przełożonych właściwych do jego ustalania, kierując się koniecznością zagwarantowania przysługującego funkcjonariuszowi prawa do wypoczynku oraz zapewnienia właściwej organizacji służby;
-- **2)** warunki szczególnie uciążliwe lub szkodliwe dla zdrowia dla każdego stopnia szkodliwości, o którym mowa w art. 87b ust. 4, oraz podmioty dokonujące oceny tych warunków, uwzględniając szczególne właściwości oraz miejsca pełnienia służby.”;
-- **30)** w art. 91:
-    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Funkcjonariuszowi mogą być udzielane wyróżnienia:”, – pkt 4 otrzymuje brzmienie: „4) krótkoterminowy urlop wypoczynkowy w wymiarze do 10 dni roboczych;”,
-    - **b)** po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. Wyróżnień, o których mowa w ust. 1, można udzielić w szczególności za:
+wskazanie okresu, na który nastąpi zawieszenie lub przedłużenie okresu zawieszenia;
 
-- **1)** wzorowe wywiązywanie się z obowiązków służbowych i przejawianie inicjatywy na dotychczas zajmowanym stanowisku służbowym;
-- **2)** wykazanie się szczególnymi osiągnięciami i inicjatywą w służbie;
-- **3)** bardzo dobre lub wyróżniające wykonanie zadania służbowego;
-- **4)** wykonanie zadania w szczególnie trudnych warunkach lub wymagającego znacznego nakładu pracy;
-- **5)** wykonanie dodatkowych zadań wykraczających poza zwykłe obowiązki służbowe;
-- **6)** dokonanie czynu świadczącego o wyjątkowej odwadze;
-- **7)** uzyskanie bardzo dobrych lub wyróżniających wyników w szkoleniu lub nauce w szkołach, o których mowa w art. 54 ust. 1.
+### 7)
 
-1b. Wyróżnień, o których mowa w ust. 1, nie udziela się funkcjonariuszowi:
+termin rozliczenia się z obowiązków oraz realizacji zadań i czynności służbowych zawieszonego policjanta;
 
-- **1)** przeciwko któremu jest prowadzone postępowanie karne lub dyscyplinarne;
-- **2)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **3)** skazanemu prawomocnym orzeczeniem sądu za przestępstwo lub wykroczenie – przez okres 1 roku od dnia uprawomocnienia się orzeczenia;
-- **4)** skazanemu prawomocnym wyrokiem sądu – w czasie warunkowego zawieszenia wykonania kary;
-- **5)** w stosunku do którego postępowanie karne zostało warunkowo umorzone – w okresie próby.”,
-    - **c)** ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb udzielania funkcjonariuszowi wyróżnień, o których mowa w ust. 1 pkt 1–4 i 8, podmioty właściwe w tych sprawach, sposób i terminy przyznawania wyróżnień oraz wzory dokumentów wykorzystywanych w sprawach wyróżnień, uwzględniając zakres uprawnień przełożonych do udzielania wyróżnień oraz formę udzielania wyróżnień.”;
+### 8)
 
-- **31)** w art. 112 w ust. 1:
-    - **a)** po pkt 5a dodaje się pkt 5b w brzmieniu: „5b) świadczenie motywacyjne;”,
-    - **b)** w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) świadczenie pieniężne w zamian za wyżywienie.”;
+uzasadnienie faktyczne i prawne zawieszenia w czynnościach służbowych policjanta;
 
-- **32)** w art. 113a:
-    - **a)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) popełnił czyn stanowiący przewinienie dyscyplinarne lub nie przestrzegał zasad etyki zawodowej, jeżeli za ten czyn lub to nieprzestrzeganie prawomocnym orzeczeniem wymierzono mu karę dyscyplinarną nie surowszą niż nagana;”,
-    - **b)** ust. 10 otrzymuje brzmienie: „10. Funkcjonariuszowi, o którym mowa w ust. 9, wobec którego toczy się postępowanie karne lub dyscyplinarne, nagrodę roczną wypłaca się po zakończeniu tego postępowania. Przepisy ust. 4 i 5 stosuje się.”;
+### 9)
 
-- **33)** po art. 117c dodaje się art. 117d w brzmieniu: „Art. 117d. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie, albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
+pouczenie o przysługującym zawieszonemu policjantowi środku odwoławczym;
 
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+### 10)
 
-- **1)** służby w Straży Granicznej;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+podpis z podaniem imienia i nazwiska oraz stanowiska służbowego przełożonego uprawnionego do ich wydania.
 
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa w art. 36 ust. 1, wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+### 3.
 
-4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 39, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+Decyzję, o której mowa w ust. 1, doręcza się niezwłocznie zainteresowanemu policjantowi, a kopię decyzji włącza się do jego akt osobowych.
 
-5. Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi Głównemu Straży Granicznej i jego zastępcom oraz Komendantowi BSWSG i jego zastępcom.
+### Art. 39c.
 
-6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+### 1.
 
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 42 ust. 2 pkt 2 albo 3 albo art. 45 ust. 1 pkt 2 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+Od decyzji o zawieszeniu w czynnościach służbowych oraz od decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych policjantowi przysługuje odwołanie do:
 
-7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+### 1)
 
-8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje odwołanie do Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw wewnętrznych lub Komendanta Głównego Straży Granicznej przysługuje w takim samym terminie wniosek o ponowne rozpatrzenie sprawy.
+ministra właściwego do spraw wewnętrznych, jeżeli decyzję wydał Komendant Główny Policji;
 
-9. Świadczenia motywacyjnego nie wypłaca się za okres:
+### 2)
 
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 130 ust. 1–3,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia z zajęć służbowych, o którym mowa w art. 125b ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
+Komendanta Głównego Policji, jeżeli decyzję wydał: Komendant BSWP, Komendant CBŚP, komendant wojewódzki (Stołeczny) Policji, Komendant-Rektor Wyższej Szkoły Policji w Szczytnie oraz komendant szkoły policyjnej;
 
-10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+### 3)
 
-11. Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+komendanta wojewódzkiego (Stołecznego) Policji, jeżeli decyzję wydał komendant powiatowy (miejski, rejonowy) Policji.
 
-12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.”;
+### 2.
 
-- **34)** w art. 118 uchyla się ust. 4;
-- **35)** po art. 119 dodaje się art. 119a w brzmieniu: „Art. 119a. 1. Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego lub dodatkowego ustala się w wysokości 1/21 części miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym.
+Jeżeli decyzję o zawieszeniu w czynnościach służbowych lub decyzję o przedłużeniu okresu zawieszenia w czynnościach służbowych wydał minister właściwy do spraw wewnętrznych, odwołanie nie przysługuje. Odwołujący może zwrócić się z wnioskiem o ponowne rozpatrzenie sprawy do ministra właściwego do spraw wewnętrznych. Do wniosku o ponowne rozpatrzenie sprawy stosuje się przepisy dotyczące odwołań od decyzji.
 
-2. Ekwiwalent, o którym mowa w ust. 1, wypłaca się w ostatnim dniu pełnienia służby, a w przypadku śmierci albo zaginięcia funkcjonariusza – niezwłocznie po wydaniu rozkazu personalnego o wygaśnięciu stosunku służbowego.”;
+### 3.
 
-- **36)** w art. 128 w ust. 2 dodaje się zdanie drugie w brzmieniu: „Do ustalania wymiaru urlopów stosuje się przepis art. 89g.”;
-- **37)** art. 134 i art. 134a otrzymują brzmienie: „Art. 134. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej.
+Decyzja o zawieszeniu w czynnościach służbowych lub decyzja o jego przedłużeniu podlega natychmiastowemu wykonaniu.
 
-**Art. 134a.**
+### 4.
 
-1. Funkcjonariusz za czyn stanowiący przewinienie dyscyplinarne, wypełniający jednocześnie znamiona przestępstwa lub wykroczenia albo przestępstwa skarbowego lub wykroczenia skarbowego, podlega odpowiedzialności dyscyplinarnej niezależnie od odpowiedzialności karnej.
+Odwołanie i wniosek o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, wnosi się w terminie 14 dni od dnia doręczenia decyzji przełożonego, który wydał decyzję.
 
-2. W przypadku czynu stanowiącego przewinienie dyscyplinarne, wypełniającego jednocześnie znamiona wykroczenia lub wykroczenia skarbowego, w przypadku czynu mniejszej wagi lub ukarania grzywną przełożony dyscyplinarny może nie wszczynać postępowania dyscyplinarnego, a wszczęte postępowanie umorzyć.”;
+### 5.
 
-- **38)** po art. 134a dodaje się art. 134aa w brzmieniu: „Art. 134aa. 1. W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny może odstąpić od wszczęcia postępowania dyscyplinarnego i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki rozmowę dyscyplinującą.
+Rozpatrzenie odwołania i wniosku o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, następuje w drodze decyzji, wydanej w terminie 7 dni od dnia otrzymania odwołania lub wniosku, wraz z aktami sprawy.
 
-2. Rozmowę dyscyplinującą, o której mowa w ust. 1, można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania dyscyplinarnego i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
+### Art. 39d.
 
-3. Notatkę, o której mowa w ust. 1, włącza się do akt osobowych na okres 5 miesięcy.”;
+### 1.
 
-- **39)** w art. 135 ust. 1 i 2 otrzymują brzmienie: „1. Naruszenie dyscypliny służbowej stanowi czyn funkcjonariusza polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków wynikających z przepisów prawa, w tym z rozkazów i poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.
+Wygaśnięcie decyzji o zawieszeniu w czynnościach służbowych następuje w przypadku:
 
-2. Naruszeniem dyscypliny służbowej jest w szczególności:
+### 1)
 
-- **1)** niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także z przepisów prawa;
-- **2)** odmowa wykonania lub niewykonanie rozkazu lub polecenia, z zastrzeżeniem przypadku określonego w art. 63 ust. 2;
-- **3)** zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
-- **4)** niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa;
-- **5)** świadome wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie;
-- **6)** nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;
-- **7)** postępowanie przełożonego w sposób przyczyniający się do rozluźnienia dyscypliny służbowej wśród podległych mu funkcjonariuszy;
-- **8)** porzucenie służby;
-- **9)** samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu;
-- **10)** stawienie się do służby w stanie nietrzeźwości albo po użyciu alkoholu lub po użyciu podobnie działającego środka, pełnienie jej w takim stanie, a także spożywanie alkoholu lub używanie podobnie działającego środka w czasie służby;
-- **11)** umyślne naruszenie dóbr osobistych innego funkcjonariusza;
-- **12)** utrata służbowej broni palnej, amunicji lub legitymacji służbowej;
-- **13)** utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę innej osobie lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego;
-- **14)** ujawnienie informacji pozostającej w związku z wykonywaniem czynności służbowych, jeżeli spowodowało to lub mogło spowodować szkodę służbie.”;
-- **40)** po art. 135 dodaje się art. 135a–135g w brzmieniu: „Art. 135a. Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
-- **1)** ma zamiar jego popełnienia, to jest chce je popełnić albo, przewidując możliwość jego popełnienia, na to się godzi;
-- **2)** nie ma zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+upływu terminu określonego w decyzji o zawieszeniu w czynnościach służbowych, jeżeli zawieszenia nie przedłużono do czasu ukończenia postępowania karnego;
 
-**Art. 135b.**
+### 2)
 
-1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku, gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+prawomocnego zakończenia postępowania karnego lub dyscyplinarnego;
 
-2. Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił czyn stanowiący przewinienie dyscyplinarne, nakłania go do tego.
+### 3)
 
-3. Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił czyn stanowiący przewinienie dyscyplinarne lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+zwolnienia policjanta ze służby;
 
-4. Każdy z funkcjonariuszy, o których mowa w ust. 1–3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+### 4)
 
-5. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+śmierci lub zaginięcia policjanta.
 
-**Art. 135c.** Dwa lub więcej zachowań, podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.
+### 2.
 
-**Art. 135d.**
+Decyzję o zawieszeniu w czynnościach służbowych uchyla się w przypadku ustania przesłanek:
 
-1. Władzę dyscyplinarną w Straży Granicznej polegającą na prawie do wszczynania postępowań dyscyplinarnych i rozstrzygania spraw dyscyplinarnych sprawują:
+### 1)
 
-- **1)** minister właściwy do spraw wewnętrznych,
-- **2)** Komendant Główny Straży Granicznej,
-- **3)** Komendant BSWSG,
-- **4)** komendant oddziału Straży Granicznej,
-- **5)** komendant ośrodka szkolenia Straży Granicznej,
-- **6)** komendant ośrodka Straży Granicznej,
-- **7)** dowódca kontyngentu Straży Granicznej wydzielonego do realizacji zadań poza granicami państwa, zwany dalej „dowódcą kontyngentu” – zwani dalej „przełożonymi dyscyplinarnymi”.
+wskazujących na celowość zawieszenia, o których mowa w art. 39 ust. 2;
 
-2. Minister właściwy do spraw wewnętrznych sprawuje władzę dyscyplinarną wobec Komendanta Głównego Straży Granicznej oraz Komendanta BSWSG i jego zastępców.
+### 2)
 
-3. Komendant Główny Straży Granicznej sprawuje władzę dyscyplinarną wobec wszystkich funkcjonariuszy.
+które były podstawą przedłużenia okresu zawieszenia.
 
-4. Przełożeni dyscyplinarni sprawują władzę dyscyplinarną wobec funkcjonariuszy pełniących służbę w podległych im jednostkach organizacyjnych Straży Granicznej, z zastrzeżeniem art. 135f ust. 1, a w przypadku dowódcy kontyngentu – w stosunku do funkcjonariuszy wchodzących w skład kontyngentu.
+### 3.
 
-5. Komendant Główny Straży Granicznej może do dnia wydania postanowienia o zamknięciu postępowania dowodowego wszczętego przez innego przełożonego dyscyplinarnego, z wyjątkiem postępowania dyscyplinarnego wszczętego przez ministra właściwego do spraw wewnętrznych, jeżeli uzna to za uzasadnione okolicznościami sprawy:
+Do decyzji o uchyleniu zawieszenia w czynnościach służbowych stosuje się odpowiednio przepisy art. 39a ust. 1 i 2, art. 39b ust. 2 pkt 1-5, 7-10 i ust. 3 oraz art. 39c.
 
-- **1)** przejąć prowadzenie postępowania dyscyplinarnego albo
-- **2)** przekazać prowadzenie postępowania dyscyplinarnego innemu przełożonemu dyscyplinarnemu.
+” ;
 
-6. Przełożony dyscyplinarny, któremu przekazano prowadzenie postępowania dyscyplinarnego, sprawuje władzę dyscyplinarną wobec funkcjonariusza, przeciwko któremu jest prowadzone postępowanie dyscyplinarne, wyłącznie w zakresie przekazanej sprawy.
+### 8)
 
-**Art. 135e.**
+w art. 43 ust. 1 otrzymuje brzmienie:
 
-1. Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
+„
 
-2. Funkcjonariusz, który w zastępstwie wykonuje obowiązki na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą osobie zastępowanej.
+### 1.
 
-**Art. 135f.**
+Zwolnienie policjanta ze służby na podstawie art. 38 ust. 4 oraz art. 41 ust. 1 pkt 1 i 2 oraz ust. 2 pkt 1, 4 i 6 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że policjant zgłosi pisemnie wystąpienie ze służby.
 
-1. Funkcjonariusz delegowany do czasowego pełnienia służby lub funkcjonariusz, któremu powierzono pełnienie obowiązków służbowych w innej jednostce organizacyjnej Straży Granicznej albo którego skierowano na przeszkolenie lub naukę w jednostce organizacyjnej Straży Granicznej, podlega władzy dyscyplinarnej przełożonego dyscyplinarnego w miejscu czasowego delegowania, powierzenia obowiązków, nauki lub szkolenia.
+” ;
 
-2. Funkcjonariusz przeniesiony w toku postępowania dyscyplinarnego do pełnienia służby w innej jednostce organizacyjnej Straży Granicznej z dniem przeniesienia podlega władzy dyscyplinarnej przełożonego dyscyplinarnego w nowym miejscu pełnienia służby.
+### 9)
 
-3. Funkcjonariusz pozostający w dyspozycji podlega władzy dyscyplinarnej przełożonego, w którego dyspozycji pozostaje.
+po art. 66 dodaje się art. 66a-66c w brzmieniu:
 
-4. Funkcjonariusz przebywający na urlopach związanych z rodzicielstwem, urlopie bezpłatnym lub oddelegowany do wykonywania zadań poza Strażą Graniczną podlega władzy dyscyplinarnej przełożonego dyscyplinarnego, któremu podlegał przed udzieleniem mu urlopu lub oddelegowaniem, z zastrzeżeniem art. 11zg ust. 1 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+„
 
-5. Przepis ust. 2 stosuje się odpowiednio do funkcjonariusza po zakończeniu oddelegowania do wykonywania zadań poza Strażą Graniczną, wobec którego w okresie tego oddelegowania zostało wszczęte i niezakończone postępowanie dyscyplinarne.
+### Art. 66a.
 
-**Art. 135g.** Spory o właściwość w sprawach dyscyplinarnych między przełożonymi dyscyplinarnymi, o których mowa w art. 135d ust. 1 pkt 3–7, rozstrzyga Komendant Główny Straży Granicznej.”;
+### 1.
 
-**Art. 137d.**
+Policjantowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
 
-1. Postanowienie o wznowieniu postępowania dyscyplinarnego stanowi podstawę do przeprowadzenia postępowania co do rozstrzygnięcia istoty sprawy.
+### 2.
 
-2. Po przeprowadzeniu postępowania, o którym mowa w ust. 1, przełożony dyscyplinarny wydaje orzeczenie, w którym:
+Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych Policji, na wniosek policjanta, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia policjantów, o którym mowa w art. 99 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
 
-- **1)** odmawia uchylenia dotychczasowego orzeczenia;
-- **2)** uchyla dotychczasowe orzeczenie i wydaje nowe orzeczenie rozstrzygające o istocie sprawy.
+### 3.
 
-3. Orzeczenie kary dyscyplinarnej surowszej od dotychczasowej jest możliwe tylko wtedy, gdy wznowienie postępowania nastąpiło z urzędu i nie nastąpiło przedawnienie karalności dyscyplinarnej za dany czyn oraz orzeczona dotychczas kara dyscyplinarna jest rażąco niewspółmierna do popełnionego czynu.
+W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant Główny Policji może zapewnić policjantowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez Policję koszty ochrony prawnej nie podlegają zwrotowi przez policjanta, niezależnie od wyniku postępowania karnego.
 
-4. Jeżeli w następstwie wznowienia postępowania wymierzono karę dyscyplinarną łagodniejszą, ulegają uchyleniu skutki wymierzonej poprzednio kary dyscyplinarnej surowszej, a w razie wymierzenia kary dyscyplinarnej surowszej jej skutki liczy się od dnia wymierzenia tej kary.
+### Art. 66b.
 
-5. Karę dyscyplinarną wykonaną zalicza się na poczet kary dyscyplinarnej orzeczonej w następstwie wznowienia postępowania, o którym mowa w ust. 4.
+### 1.
 
-6. Termin do zatarcia kary dyscyplinarnej zmienionej w następstwie wznowienia postępowania liczy się od dnia wydania orzeczenia o wymierzeniu pierwszej kary dyscyplinarnej.
+Policjantowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
 
-7. Od orzeczenia, o którym mowa w ust. 2, przysługuje odwołanie, z zastrzeżeniem art. 136by ust. 3. Przepisy art. 136bx–136bza i art. 136bzg stosuje się odpowiednio.
+### 2.
 
-**Art. 137e.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory orzeczeń, postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.”;
+Ochronę prawną, o której mowa w ust. 1, zapewnia jednostka organizacyjna Policji, w której policjant pokrzywdzony przestępstwem pełni służbę, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia właściwa miejscowo komenda wojewódzka Policji albo Komenda Stołeczna Policji.
 
-**Art. 3.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2020 r. poz. 961) wprowadza się następujące zmiany:
+### 3.
 
-**Art. 7b.** Do dopuszczeń oraz opinii nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256, 695 i 1298).”;
+W przypadku braku możliwości zapewniania ochrony prawnej przez jednostkę organizacyjną Policji, o której mowa w ust. 2, policjantowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia policjantów, o którym mowa w art. 99 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2020 r. poz. 1123) wprowadza się następujące zmiany:
+### 4.
 
-**Art. 62.**
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez policjanta kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 66a ust. 1 i 3, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w ust. 3 i w art. 66a ust. 2, kierując się koniecznością korzystania przez policjanta z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez policjanta na ochronę prawną.
 
-1. Strażakowi w czasie pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub właściwości lub szczególne miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
+### Art. 66c.
 
-2. Wyżywienie w naturze przysługuje strażakowi:
+Ochrona prawna, o której mowa w art. 66a i art. 66b, przysługuje również policjantowi oddelegowanemu do wykonywania zadań służbowych poza Policję, na jego wniosek, w przypadku gdy postępowanie karne, o którym mowa w art. 66a ust. 1 lub art. 66b ust. 1, zostało wszczęte w związku z wykonywaniem przez niego czynności służbowych w ramach podjętej interwencji w znaczeniu, o którym mowa w art. 15 ust. 7c.
 
-- **1)** pełniącemu służbę w systemie skoszarowanym w okresie nauki w szkołach Państwowej Straży Pożarnej, odbywania kursów lub udziału w obozach szkoleniowych, z wyłączeniem okresu, w którym przebywa on na urlopie lub przepustce, trwającego co najmniej 24 godziny;
-- **2)** podczas długotrwałych akcji ratowniczo-gaśniczych, za które uważa się:
-    - **a)** każde działanie ratownicze organizowane lub kierowane przez Państwową Straż Pożarną trwające co najmniej 6 godzin, liczonych od chwili przyjęcia informacji o zdarzeniu,
-    - **b)** pomocnicze specjalistyczne czynności ratownicze wykonywane przez Państwową Straż Pożarną w ramach pomocy udzielanej innym służbom ratowniczym trwające co najmniej 6 godzin,
-    - **c)** inne działania Państwowej Straży Pożarnej wymagające zgrupowania strażaków przez okres co najmniej 6 godzin w czasie podwyższonej gotowości operacyjnej lub w celu współdziałania z innymi służbami,
-    - **d)** akcje ratownictwa podwodnego prowadzone przez Państwową Straż Pożarną wymagające wykonania co najmniej jednego cyklu nurkowania;
+” ;
 
-- **3)** biorącemu udział w ćwiczeniach lub szkoleniach przez okres co najmniej 4 godzin po zakończeniu służby wynikającej z obowiązującego rozkładu czasu służby, o ile przepisy prawa dopuszczają taką możliwość;
-- **4)** w ramach służby wynikającej z obowiązującego rozkładu czasu służby, jeżeli następuje ona bezpośrednio po zakończeniu przedłużonej służby, o której mowa w pkt 3;
-- **5)** biorącemu udział w ćwiczeniach, manewrach, szkoleniach organizowanych przez Państwową Straż Pożarną trwających co najmniej 8 godzin, a także biorącemu udział w ćwiczeniach i manewrach organizowanych przez inne podmioty, jeżeli organizator nie zapewnia wyżywienia.
+### 10)
 
-3. Wyżywienie w naturze przysługuje strażakowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących strażakowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub właściwości lub miejsce jej pełnienia, norma może zostać uzupełniona.
+art. 72 otrzymuje brzmienie:
 
-4. Normy wyżywienia mogą być realizowane w formie suchego prowiantu lub gotowych pakietów żywnościowych, lub posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne, w sytuacji gdy zorganizowanie wyżywienia w postaci posiłków sporządzanych w punktach żywienia Państwowej Straży Pożarnej nie jest możliwe albo gdy rodzaj i warunki pełnionej służby wymagają tego rodzaju wyżywienia. W przypadku realizacji wyżywienia w formie gotowych pakietów żywnościowych lub w formie posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia.
+„
 
-5. W przypadku wyżywienia w naturze należy się kierować zasadami racjonalnego żywienia, w granicach obowiązujących wartości energetycznych, odżywczych i pieniężnych produktów żywnościowych określonych dla poszczególnych norm wyżywienia.
+### Art. 72.
 
-6. Organ Państwowej Straży Pożarnej może zapewnić wyżywienie w naturze oraz napoje również innym osobom, w szczególności członkom ochotniczych straży pożarnych:
+### 1.
 
-- **1)** uczestniczącym w akcjach, o których mowa w ust. 2 pkt 2;
-- **2)** biorącym udział w ćwiczeniach, manewrach lub szkoleniach organizowanych przez Państwową Straż Pożarną trwających co najmniej 8 godzin;
-- **3)** uczestniczącym w organizowanych przez Państwową Straż Pożarną ćwiczeniach zgrywających, których przewidywany czas trwania wynosi co najmniej 8 godzin.
+Policjantowi w czasie pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i warunki służby lub właściwości lub miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
 
-7. Strażak, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których uczestniczy w uroczystym posiłku organizowanym w punkcie żywienia Państwowej Straży Pożarnej.
+### 2.
 
-8. Strażak, któremu rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z przysługującego wyżywienia w naturze, otrzymuje świadczenie pieniężne w zamian za wyżywienie.
+Wyżywienie w naturze przysługuje policjantowi:
 
-9. Strażakowi, który zrezygnował z przysługującego wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia.
+### 1)
 
-10. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+pełniącemu służbę w systemie skoszarowanym;
 
-- **1)** rodzaje norm wyżywienia oraz ich wartość pieniężną,
-- **2)** średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
-- **3)** przypadki przyznawania poszczególnych norm wyżywienia,
-- **4)** przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
-- **5)** wartości świadczenia pieniężnego w zamian za wyżywienie – uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu strażakom wyżywienia w naturze względem realnej wartości wyżywienia i rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.”;
-- **14)** po art. 62 dodaje się art. 62a i art. 62b w brzmieniu: „Art. 62a. 1. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej właściwy miejscowo ze względu na miejsce prowadzenia długotrwałej akcji, ćwiczeń, manewrów lub szkoleń zapewnia wyżywienie i napoje podległym mu strażakom w przypadkach, o których mowa w art. 62 ust. 2 pkt 2–5, oraz innym osobom w przypadkach, o których mowa w art. 62 ust. 6.
+### 2)
 
-2. Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej zapewnia wyżywienie w trakcie organizowanych przez niego ćwiczeń, manewrów i szkoleń, chyba że ze względów organizacyjnych organizatorzy ćwiczeń lub manewrów postanowią inaczej.
+biorącemu udział w szkoleniach lub ćwiczeniach z zakresu systemu obronnego kraju, działań antyterrorystycznych lub zarządzania kryzysowego, jeżeli trwają one w sposób ciągły powyżej 8 godzin;
 
-3. Kierownicy jednostek zapewniają wyżywienie siłom przeznaczonym do formowania odwodów operacyjnych, tak aby mogły one działać bez dodatkowego wyżywienia przez czas określony w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+### 3)
 
-4. Siły odwodów operacyjnych prowadzą działania bez dodatkowego wyżywienia przez czas określony w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej. Po wykorzystaniu posiadanego wyżywienia przepis ust. 2 stosuje się odpowiednio.
+biorącemu udział w akcjach ochrony porządku publicznego, zapobiegania skutkom klęsk żywiołowych lub usuwania ich skutków oraz w działaniach porządkowych podczas akcji ratowniczych przy likwidacji skutków klęsk żywiołowych, trwających ponad 8 godzin, a w przypadku akcji w miejscu stałego pełnienia służby - w warunkach powodujących konieczność pełnienia służby przez okres powyżej 10 godzin;
 
-**Art. 62b.** Napoje w naturze, w ilości zaspokajającej potrzeby strażaka, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.”;
+### 4)
 
-**Art. 5.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2019 r. poz. 1921 i 2020) wprowadza się następujące zmiany:
+który w przypadku zaistnienia poważnego zagrożenia porządku publicznego bierze bezpośredni udział w działaniach porządkowych lub wchodzi w skład sił wyznaczonych do tych działań i przebywa na terenie objętym tymi działaniami;
 
-**Art. 6.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2020 r. poz. 848) wprowadza się następujące zmiany:
+### 5)
 
-**Art. 7.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2020 r. poz. 384 i 695) wprowadza się następujące zmiany:
+w innych uzasadnionych przypadkach.
 
-**Art. 142b.**
+### 3.
 
-1. Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem zadań lub czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+Wyżywienie w naturze przysługuje policjantowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących policjantowi w określonych przypadkach. W razie zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub właściwości lub miejsce jej pełnienia norma może zostać uzupełniona.
 
-2. Ochronę prawną, o której mowa w ust. 1, zapewnia funkcjonariuszowi SOP.
+### 4.
 
-3. W przypadku braku możliwości zapewnienia ochrony prawnej przez SOP funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 162 ust. 14, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+Normy wyżywienia mogą być realizowane w formie suchego prowiantu, gotowych pakietów żywnościowych, lub posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne, w sytuacji gdy zorganizowanie wyżywienia w postaci posiłków sporządzanych w punktach żywienia Policji nie jest możliwe albo gdy rodzaj i warunki pełnionej służby wymagają tego rodzaju wyżywienia. W przypadku realizacji wyżywienia w formie gotowych pakietów żywnościowych lub w formie posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia.
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 142a ust. 1 i 3, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.”;
+### 5.
 
-- **4)** w art. 149:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Funkcjonariuszowi w dniach pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub właściwości lub miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.”,
-    - **b)** w ust. 2 pkt 8 otrzymuje brzmienie: „8) biorącemu udział w zadaniach, o których mowa w art. 3 pkt 1 lit. a–d, trwających powyżej 8 godzin, odbywających się na terenie miasta stołecznego Warszawy.”,
-    - **c)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Wyżywienie w naturze przysługuje funkcjonariuszowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących funkcjonariuszowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub szczególne właściwości lub miejsce jej pełnienia norma może zostać uzupełniona.
+W przypadku wyżywienia w naturze należy się kierować zasadami racjonalnego żywienia, w granicach obowiązujących wartości energetycznych, odżywczych i pieniężnych produktów żywnościowych określonych dla poszczególnych norm wyżywienia.
 
-2b. W przypadku braku możliwości zapewnienia funkcjonariuszom wykonującym zadania służbowe poza terenem miasta stołecznego Warszawy wyżywienia w naturze w punktach żywienia SOP normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia. W sytuacji gdy jest to niezbędne dla zapewnienia ciągłości realizacji zadań, o których mowa w art. 3 pkt 1 lit. a–d, norma wyżywienia może zostać podwyższona do poziomu pozwalającego na zapewnienie wyżywienia.”,
+### 6.
 
-- **d)** uchyla się ust. 3,
-- **e)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Funkcjonariuszowi, który zrezygnował z przysługującego mu wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia, z wyjątkiem rezygnacji z wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim w sytuacji braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze.”,
-- **f)** uchyla się ust. 5,
-- **g)** ust. 6 otrzymuje brzmienie: „6. Funkcjonariusz otrzymuje świadczenie pieniężne w zamian za wyżywienie w przypadku:
-- **1)** gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego temu funkcjonariuszowi w naturze albo
-- **2)** braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze z powodów zdrowotnych udokumentowanych zaświadczeniem lekarskim.”,
-    - **h)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Świadczenie pieniężne w zamian za wyżywienie podwyższa się w przypadku:
+Policjant otrzymuje świadczenie pieniężne w zamian za wyżywienie w przypadku:
 
-- **1)** braku możliwości zapewnienia funkcjonariuszowi wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych;
-- **2)** udziału funkcjonariusza w zawodach sportowych i spartakiadach oraz pobytu na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami, jeżeli nie można mu zapewnić wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych.
+### 1)
 
-6b. Funkcjonariusz, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których uczestniczy w uroczystym posiłku.”,
+pełnienia w okresie od dnia 1 listopada do dnia 31 marca służby na wolnym powietrzu przez co najmniej 4 godziny dziennie albo
 
-- **i)** ust. 7 otrzymuje brzmienie: „7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
-- **1)** rodzaje norm wyżywienia oraz ich wartość pieniężną,
-- **2)** średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
-- **3)** przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
-- **4)** wartości świadczenia pieniężnego w zamian za wyżywienie oraz termin jego wypłaty – uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu funkcjonariuszom wyżywienia w naturze względem realnej wartości wyżywienia, rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.”;
-- **5)** po art. 149 dodaje się art. 149a w brzmieniu: „Art. 149a. Napoje w naturze, w ilości zaspokajającej potrzeby funkcjonariusza, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.”;
-- **6)** w art. 151 w ust. 1 uchyla się zdanie drugie;
-- **7)** po art. 158a dodaje się art. 158b w brzmieniu: „Art. 158b. 1. Urlopu wypoczynkowego i dodatkowego urlopu wypoczynkowego udziela się w dni, które są dla funkcjonariusza dniami służby, zgodnie z obowiązującym go rozkładem czasu służby, w wymiarze godzinowym, odpowiadającym dobowemu wymiarowi czasu służby funkcjonariusza w danym dniu.
+### 2)
 
-2. Każde 8 godzin urlopu udzielonego zgodnie z ust. 1 zmniejsza wymiar należnego urlopu o 1 dzień.
+gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego temu policjantowi w naturze, albo
 
-3. Udzielenie funkcjonariuszowi urlopu w dniu służby w wymiarze godzinowym, odpowiadającym części dobowego wymiaru czasu służby jest dopuszczalne jedynie w przypadku, gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu służby funkcjonariusza w dniu, w którym ma być udzielony urlop.”;
+### 3)
 
-- **8)** w art. 172 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu: „7) świadczenie pieniężne w zamian za wyżywienie;
-- **8)** świadczenie motywacyjne.”;
-- **9)** po art. 172a dodaje się art. 172b w brzmieniu: „Art. 172b. 1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
-- **1)** 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy – w wysokości 1500 zł miesięcznie, albo
-- **2)** 28 lat i 6 miesięcy służby – w wysokości 2500 zł miesięcznie.
+braku możliwości zapewnienia policjantowi bezpłatnego wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim.
 
-2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+### 7.
 
-- **1)** służby w SOP;
-- **2)** służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
-- **3)** traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723).
+Świadczenie pieniężne w zamian za wyżywienie podwyższa się:
 
-3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Komendant SOP wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+### 1)
 
-4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 82, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego w naturze policjantowi:
 
-5. Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi SOP i jego zastępcom.
+### a)
 
-6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+który jest słuchaczem Wyższej Szkoły Policji, szkoły policyjnej lub ośrodka szkolenia na kursie stacjonarnym,
 
-- **1)** który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 102 ust. 2 pkt 2 albo 3 albo art. 107 ust. 1 pkt 2 albo 3 albo ust. 2 pkt 1 – przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-- **2)** przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;
-- **3)** ukaranemu karą dyscyplinarną – do czasu jej zatarcia;
-- **4)** skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone – przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+### b)
 
-7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+w służbie kandydackiej;
 
-8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje w terminie 7 dni od dnia doręczenia decyzji wniosek o ponowne rozpatrzenie sprawy.
+### 2)
 
-9. Świadczenia motywacyjnego nie wypłaca się za okres:
+w służbie kandydackiej przebywającemu na urlopie lub pełnodobowej przepustce;
 
-- **1)** korzystania z urlopu bezpłatnego,
-- **2)** przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 203,
-- **3)** zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
-- **4)** zwolnienia z zajęć służbowych, o którym mowa w art. 194 ust. 2 pkt 1 i 3–5,
-- **5)** innej nieobecności trwającej co najmniej jeden miesiąc – proporcjonalnie do tego okresu.
+### 3)
 
-10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+w przypadku skierowania policjanta zaliczonego do personelu latającego do wykonywania lotów poza miejsce stałej dyslokacji na czas powyżej 8 godzin.
 
-11. Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+### 8.
 
-12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.”;
+Policjant, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze albo świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których policjant uczestniczy w uroczystym posiłku organizowanym w punkcie żywienia Policji.
 
-- **10)** w art. 188 ust. 6 otrzymuje brzmienie: „6. Wysokość ekwiwalentu za 1 dzień urlopu, o którym mowa w ust. 1 pkt 2, oblicza się, mnożąc 1/21 uposażenia zasadniczego wraz z dodatkami o charakterze stałym, w wysokości średniej tych dodatków z ostatnich 12 miesięcy, należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym przez liczbę dni niewykorzystanego urlopu.”;
-- **11)** w art. 208 ust. 1 otrzymuje brzmienie: „1. Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej funkcjonariusza SOP.”;
-- **12)** w art. 209:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Naruszenie dyscypliny służbowej stanowi czyn funkcjonariusza polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków służbowych wynikających z przepisów prawa lub poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.”,
-    - **b)** w ust. 2: – po pkt 1 dodaje się pkt 1a w brzmieniu: „1a) niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także z przepisów prawa;”, – po pkt 4 dodaje się pkt 4a w brzmieniu: „4a) nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;”, – po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „5a) porzucenie służby;
+### 9.
 
-- **5b)** samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu;”, – w pkt 6 wyrazy „po spożyciu alkoholu lub” zastępuje się wyrazami „nietrzeźwości albo po użyciu alkoholu albo”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) umyślne naruszenie dóbr osobistych innego funkcjonariusza;”, – uchyla się pkt 11 i 12,
-    - **c)** w ust. 3 skreśla się zdanie drugie,
-    - **d)** po ust. 3 dodaje się ust. 3a–3f w brzmieniu: „3a. Rozmowę dyscyplinującą można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
+Policjantowi, który zrezygnował z przysługującego mu wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia, z wyjątkiem rezygnacji z wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim w sytuacji braku możliwości zapewnienia policjantowi bezpłatnie wyżywienia w naturze.
 
-3b. Jeżeli funkcjonariusz nie zgadza się z wytkniętym mu niewłaściwym postępowaniem podczas rozmowy dyscyplinującej w terminie 5 dni od dnia zapoznania się z notatką z tej rozmowy może wnieść do przełożonego dyscyplinarnego pisemny sprzeciw, zwany dalej „sprzeciwem”. O prawie do wniesienia sprzeciwu funkcjonariusza poucza się podczas rozmowy dyscyplinującej, a treść pouczenia zawiera się w notatce z tej rozmowy.
+### 10.
 
-3c. Wniesienie sprzeciwu obliguje przełożonego dyscyplinarnego do wszczęcia postępowania dyscyplinarnego, z wyjątkiem przypadku gdy nastąpił upływ terminów określonych w art. 213.
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-3d. Brak wniesienia sprzeciwu powoduje włączenie notatki z przeprowadzonej rozmowy dyscyplinującej do akt osobowych funkcjonariusza, z którym była przeprowadzona ta rozmowa. W przypadku wniesienia sprzeciwu notatkę z przeprowadzonej rozmowy dyscyplinującej włącza się do akt postępowania dyscyplinarnego.
+### 1)
 
-3e. W przypadku wniesienia sprzeciwu i braku możliwości wszczęcia postępowania dyscyplinarnego w związku z upływem terminów określonych w art. 213 notatka z przeprowadzonej rozmowy dyscyplinującej podlega zniszczeniu.
+rodzaje norm wyżywienia oraz ich wartość pieniężną,
 
-3f. W przypadku wniesienia sprzeciwu po upływie terminu, o którym mowa w ust. 3b, przełożony dyscyplinarny wydaje postanowienie o odmowie przyjęcia sprzeciwu. Na postanowienie przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Zażalenie wnosi się za pośrednictwem przełożonego dyscyplinarnego do Komendanta SOP. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 235 ust. 3 stosuje się odpowiednio.”,
+### 2)
 
-- **e)** w ust. 4 wyrazy „okres roku” zastępuje się wyrazami „5 miesięcy”;
-- **13)** art. 211 otrzymuje brzmienie: „Art. 211. 1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
 
-2. Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, nakłania go do tego.
+### 3)
 
-3. Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+przypadki przyznawania poszczególnych norm wyżywienia,
 
-4. Każdy z funkcjonariuszy, o których mowa w ust. 1–3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+### 4)
 
-5. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
 
-6. Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.”;
+### 5)
 
-- **14)** w art. 212 dodaje się ust. 3–7 w brzmieniu: „3. Minister właściwy do spraw wewnętrznych posiada władzę dyscyplinarną wobec Komendanta SOP.
+wartości świadczenia pieniężnego w zamian za wyżywienie oraz wymiar jego podwyższania, a także jednostkę organizacyjną Policji właściwą do jego wypłacania i terminy jego wypłaty
 
-4. Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
+- uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu policjantom wyżywienia w naturze względem realnej wartości wyżywienia, przyporządkowanie norm wyżywienia do przypadków, w których policjantowi przysługuje wyżywienie w naturze, wskazanych w ust. 2, rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.
 
-5. Funkcjonariusz, który w zastępstwie wykonuje obowiązki na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą osobie zastępowanej.
+” ;
 
-6. Funkcjonariusz przebywający na urlopach związanych z rodzicielstwem, urlopie bezpłatnym lub oddelegowany do wykonywania zadań poza SOP podlega władzy dyscyplinarnej przełożonego dyscyplinarnego, któremu podlegał przed udzieleniem mu urlopu lub oddelegowaniem.
+### 11)
 
-7. Przełożonym dyscyplinarnym funkcjonariusza oddelegowanego do pełnienia służby w Biurze Nadzoru Wewnętrznego jest Inspektor Nadzoru Wewnętrznego, z wyłączeniem orzekania kar dyscyplinarnych określonych w art. 215 pkt 3–7, które wymierza przełożony, o którym mowa w ust. 1 lub
+po art. 72 dodaje się art. 72a w brzmieniu:
 
-2. Przepisy art. 232 ust. 2, art. 235 ust. 4, art. 242 ust. 9 oraz art. 243 ust. 5 stosuje się odpowiednio.”;
+„
 
-- **15)** w art. 213:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego dyscyplinarnego udokumentowanej informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza czynu, za który ponosi on odpowiedzialność dyscyplinarną.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.”,
-    - **c)** w ust. 2 wyrazy „1 roku” zastępuje się wyrazami „2 lat”;
+### Art. 72a.
 
-- **16)** w art. 215:
-    - **a)** po pkt 5 dodaje się pkt 5a w brzmieniu: „5a) ostrzeżenie o niepełnej przydatności do służby;”,
-    - **b)** uchyla się pkt 6;
+Napoje w naturze, w ilości zaspokajającej potrzeby policjanta, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.
 
-- **17)** w art. 218 wyrazy „może zostać” zastępuje się wyrazem „zostanie”;
-- **18)** w art. 220 ust. 2 otrzymuje brzmienie: „2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby.”;
-- **19)** po art. 220 dodaje się art. 220a w brzmieniu: „Art. 220a. Kara ostrzeżenia o niepełnej przydatności do służby polega na wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.”;
-- **20)** uchyla się art. 221;
-- **21)** w art. 223 ust. 3 otrzymuje brzmienie: „3. Przepisy ust. 1 i 2 stosuje się z zastrzeżeniem art. 220 ust. 2.”;
-- **22)** w art. 224:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Karę dyscyplinarną wymierza się w sposób współmierny do przewinienia dyscyplinarnego popełnionego przez obwinionego oraz stopnia zawinienia.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przy wymierzaniu kary dyscyplinarnej uwzględnia się rodzaj i wagę czynu, skutki i okoliczności jego popełnienia, pobudki działania obwinionego, następstwa negatywne dla służby, dotychczasowe wyniki w służbie, opinię służbową, okres pozostawania w służbie oraz zachowanie się obwinionego przed popełnieniem i po popełnieniu zarzucanego mu czynu, a także inne okoliczności, zarówno łagodzące, jak i obciążające, istotne w sprawie.”,
-    - **c)** w ust. 2 pkt 1 i 2 otrzymują brzmienie: „1) działanie z motywacji zasługującej na szczególne potępienie albo w stanie nietrzeźwości albo po użyciu alkoholu lub innego podobnie działającego środka;
+” ;
 
-- **2)** popełnienie przewinienia dyscyplinarnego w czasie odbywania uprzednio wymierzonej kary dyscyplinarnej, jak również w czasie próby określonej w orzeczeniu o warunkowym zawieszeniu wykonania kary lub warunkowym umorzeniu postępowania karnego;”;
-- **23)** po art. 224 dodaje się art. 224a w brzmieniu: „Art. 224a. 1. Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+### 12)
 
-2. Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów, ocenianych swobodnie z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
+w art. 80:
 
-3. Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.”;
+### a)
 
-- **24)** w art. 225: Czynności te kończy się w terminie 30 dni od dnia wydania postanowienia, o którym mowa w ust. 3a. W szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 3a.”,
-    - **a)** w ust. 1: – w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „d) wskutek wniesienia sprzeciwu, o którym mowa w art. 209 ust. 3b;”, – w pkt 2 po wyrazie „pokrzywdzonego” dodaje się przecinek i wyrazy „innego zainteresowanego organu lub instytucji”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. W przypadkach, o których mowa w ust. 1 pkt 1 lit. c i pkt 2, przełożony dyscyplinarny lub Komendant SOP zawiadamiają odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.”,
-    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone zachowaniem funkcjonariusza stanowiącym przewinienie dyscyplinarne.”,
-    - **d)** ust. 3 otrzymuje brzmienie: „3. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny pisemnie zleca rzecznikowi dyscyplinarnemu przeprowadzenie czynności wyjaśniających, opatrując to polecenie datą otrzymania informacji uzasadniających przeprowadzenie czynności.
-    - **e)** po ust. 3 dodaje się ust. 3a–3f w brzmieniu: „3a. Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+ust. 1 otrzymuje brzmienie:
 
-3b. Postanowienie, o którym mowa w ust. 3a, zawiera:
+„
 
-- **1)** stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
-- **2)** datę wydania;
-- **3)** podstawę prawną;
-- **4)** datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
-- **5)** określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
-- **6)** wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
-- **7)** podpis przełożonego dyscyplinarnego i urzędową pieczęć SOP albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+### 1.
 
-3c. Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 3b pkt 5.
+Policjantowi, który po zwolnieniu ze służby w Policji podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie wszelkich uprawnień wynikających z prawa pracy.
 
-3d. W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+” ,
 
-3e. Z przeprowadzonych czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+### b)
 
-3f. W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.”,
+uchyla się ust. 2 i 3,
 
-- **f)** po ust. 4 dodaje się ust. 4a–4c w brzmieniu: „4a. Celem postępowania dyscyplinarnego jest w szczególności:
-- **1)** ustalenie, czy czyn zarzucany obwinionemu został popełniony i czy obwiniony jest jego sprawcą;
-- **2)** wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
-- **3)** zebranie i utrwalenie dowodów w sprawie.
+### c)
 
-4b. Przełożony dyscyplinarny i wyższy przełożony dyscyplinarny badają swoją właściwość przed podjęciem czynności w sprawach dyscyplinarnych, a w przypadku stwierdzenia braku właściwości przekazują sprawę odpowiednio uprawnionemu przełożonemu dyscyplinarnemu albo wyższemu przełożonemu dyscyplinarnemu.
+ust. 4 otrzymuje brzmienie:
 
-4c. Rzecznik dyscyplinarny przekazuje niezwłocznie przełożonemu dyscyplinarnemu dokumenty w sprawach dyscyplinarnych zastrzeżonych do jego właściwości.”,
+„
 
-- **g)** w ust. 5 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu.”,
-- **h)** dodaje się ust. 6 w brzmieniu: „6. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 226a ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 226a ust. 1.”;
-- **25)** w art. 226 ust. 1 otrzymuje brzmienie: „1. Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
-- **1)** czynności wyjaśniające nie potwierdziły popełnienia przewinienia dyscyplinarnego;
-- **2)** upłynęły terminy określone w art. 213 ust. 2 i 3;
-- **3)** postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub, wcześniej wszczęte, toczy się.”;
-- **26)** po art. 226 dodaje się art. 226a w brzmieniu: „Art. 226a. 1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+### 4.
 
-2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+Przepisu ust. 1 nie stosuje się do policjanta zwolnionego ze służby na podstawie art. 41 ust. 1 pkt 3, 4 i 4a.
 
-3. Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+” ;
 
-4. Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 215 pkt 1 lub 2. Czynności, o których mowa w art. 233 ust. 1–6, nie przeprowadza się.
+### 13)
 
-5. W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+w art. 96:
 
-6. Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+### a)
 
-7. Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+ust. 1 otrzymuje brzmienie:
 
-8. W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 234 ust. 1, od którego przysługuje odwołanie w trybie art. 235.
+„
 
-9. Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.”;
+### 1.
 
-- **27)** w art. 227:
-    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 225 ust. 3, wyznacza rzecznika dyscyplinarnego w stopniu co najmniej:
+Policjantowi przeniesionemu do służby w innej miejscowości, który poza miejscem pełnienia służby posiada lokal mieszkalny, dom jednorodzinny lub dom mieszkalno-pensjonatowy, może być przydzielony lokal mieszkalny na podstawie decyzji administracyjnej w nowym miejscu pełnienia służby, jeżeli:
 
-- **1)** młodszego chorążego SOP – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień w korpusie szeregowych, podoficerów lub chorążych;
-- **2)** podporucznika SOP – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień podporucznika, porucznika lub kapitana SOP;
-- **3)** majora SOP – jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień majora SOP lub wyższy.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Rzecznika dyscyplinarnego odwołuje się w przypadkach:
+### 1)
 
-- **1)** zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w SOP;
-- **2)** prawomocnego zawieszenia go w czynnościach służbowych;
-- **3)** prawomocnego ukarania go karą dyscyplinarną;
-- **4)** delegowania go do wykonywania zadań poza SOP.”,
-    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Komendant SOP może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.”,
-    - **d)** w ust. 5: – pkt 2 otrzymuje brzmienie: „2) jest małżonkiem obwinionego, jego obrońcy lub pokrzywdzonego albo pozostaje we wspólnym pożyciu z jedną z tych osób;”, – po pkt 2 dodaje się pkt 2a w brzmieniu: „2a) jest krewnym lub powinowatym obwinionego lub pokrzywdzonego w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osób wymienionych w pkt 2, albo jest związany z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;”, – pkt 3 i 4 otrzymują brzmienie: „3) był świadkiem zdarzenia lub w tej sprawie był przesłuchany w charakterze świadka;
+zwolni zajmowany lokal mieszkalny lub dom;
 
-- **4)** między nim a obwinionym lub pokrzywdzonym zachodzi stosunek osobisty mogący wywołać wątpliwości co do bezstronności prowadzącego postępowanie;”, – dodaje się pkt 5 w brzmieniu: „5) jest podwładnym obwinionego, jego obrońcy lub pokrzywdzonego.”,
-    - **e)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Przełożony dyscyplinarny i rzecznik dyscyplinarny badają z urzędu, czy nie zachodzą okoliczności uzasadniające ich wyłączenie z udziału w postępowaniu dyscyplinarnym.”,
-    - **f)** ust. 7 otrzymuje brzmienie: „7. O okolicznościach uzasadniających wyłączenie z udziału w postępowaniu dyscyplinarnym:
+### 2)
 
-- **1)** rzecznik dyscyplinarny zawiadamia niezwłocznie przełożonego dyscyplinarnego;
-- **2)** przełożony dyscyplinarny zawiadamia niezwłocznie Komendanta SOP.”,
-    - **g)** ust. 9 otrzymuje brzmienie: „9. Odpowiednio Komendant SOP lub przełożony dyscyplinarny wydaje postanowienie o wyłączeniu lub odmowie wyłączenia przełożonego dyscyplinarnego lub rzecznika dyscyplinarnego z udziału w postępowaniu dyscyplinarnym.”;
+zwróci pomoc finansową przyznaną:
 
-- **28)** w art. 228 w ust. 4 wyrazy „Komendanta SOP” zastępuje się wyrazami „przełożonego dyscyplinarnego”;
-- **29)** w art. 229: Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny zleca lub występuje do przełożonego dyscyplinarnego o zlecenie przeprowadzenia odpowiednich badań, ekspertyz i tłumaczeń oraz zasięga niezbędnych opinii.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje obwinionego, świadków i pokrzywdzonego, dokonuje oględzin, konfrontacji, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów.
-    - **b)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie, niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie.”,
-    - **c)** ust. 8 otrzymuje brzmienie: „8. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny mogą zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.”,
-    - **d)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Rzecznik dyscyplinarny w razie ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.”;
+### a)
 
-- **30)** w art. 230:
-    - **a)** w ust. 1 pkt 5 otrzymuje brzmienie: „5) korzystania z pomocy obrońcy, którym może być wskazany przez obwinionego funkcjonariusz SOP, adwokat albo radca prawny;”,
-    - **b)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Zażalenie na postanowienie wnosi się za pośrednictwem rzecznika dyscyplinarnego do przełożonego dyscyplinarnego, a jeżeli postanowienie wydał ten przełożony dyscyplinarny, do Komendanta SOP za pośrednictwem tego przełożonego. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.
+na wkład mieszkaniowy lub wkład budowlany w wysokości zwaloryzowanej przez spółdzielnię,
 
-6b. Zażalenie na postanowienie wnosi się w terminie 3 dni od dnia doręczenia postanowienia.”,
+### b)
 
-- **c)** w ust. 7: – w pkt 3 wyrazy „sprzeczne z prawem” zastępuje się wyrazem „niedopuszczalne”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony.”,
-- **d)** ust. 10 otrzymuje brzmienie: „10. Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.”,
-- **e)** uchyla się ust. 11;
-- **31)** w art. 232: Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie 30 dni od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony nie dłuższy niż 3 miesiące.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym wraz z uzasadnieniem składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania przełożony dyscyplinarny lub Komendant SOP może zażądać niezwłocznego przekazania akt postępowania.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania.
-    - **d)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.”;
+na spłatę innych należności - w wysokości przyznanej.
 
-- **32)** po art. 232 dodaje się art. 232a w brzmieniu: „Art. 232a. 1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+” ,
 
-2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami w odrębnym postępowaniu dyscyplinarnym.”;
+### b)
 
-- **33)** w art. 233: Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową zapoznania się z tymi aktami.”,
-    - **a)** w ust. 1 po wyrazie „obwinionego” dodaje się wyrazy „i jego obrońcę”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Odmowa obwinionego lub jego obrońcy zapoznania się z aktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje w aktach postępowania dyscyplinarnego wzmianki o odmowie obwinionego lub jego obrońcy zapoznania się z tymi aktami.
-    - **c)** ust. 7 otrzymuje brzmienie: „7. Rzecznik dyscyplinarny po zapoznaniu obwinionego lub jego obrońcy z aktami postępowania dyscyplinarnego wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza, w terminie 7 dni, opatrzone datą sprawozdanie, w którym:
+ust. 4 otrzymuje brzmienie:
 
-- **1)** wskazuje prowadzącego postępowanie i przełożonego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego;
-- **2)** wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne, z opisem stanu faktycznego i prawnego ustalonym na podstawie zebranych dowodów;
-- **3)** przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary dyscyplinarnej albo umorzenia postępowania.”;
-- **34)** w art. 234:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+„
 
-- **1)** uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu, albo
-- **2)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej, albo
-- **3)** uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej, albo
-- **4)** umorzeniu postępowania.”, W uzasadnieniu faktycznym przytacza się ponadto okoliczności, które wpłynęły na wymiar kary dyscyplinarnej lub na odstąpienie od wymierzenia kary dyscyplinarnej.
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.”,
-    - **c)** po ust. 2 dodaje się ust. 2a–2f w brzmieniu: „2a. Uzasadnienie faktyczne orzeczenia zawiera w szczególności wskazanie faktów, które uznano za udowodnione, dowodów, na których się oparto, oraz przyczyn, dla których innym dowodom odmówiono wiarygodności i mocy dowodowej. W uzasadnieniu prawnym wyjaśnia się podstawy prawne orzeczenia z przytoczeniem przepisów prawa.
+### 4.
 
-2b. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+Policjantowi przeniesionemu z urzędu do służby w innej miejscowości lub innej jednostce organizacyjnej Policji, który nie zwolnił zajmowanego lokalu mieszkalnego lub domu, o którym mowa w ust. 1, można przydzielić tymczasową kwaterę według przysługujących norm, bez uwzględnienia zamieszkałych z nim członków rodziny. Koszty zakwaterowania pokrywane są ze środków budżetowych Policji.
 
-2c. Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+” ;
 
-2d. Od postanowień, o których mowa w ust. 2b i 2c, odwołanie nie przysługuje.
+### 14)
 
-2e. Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+w art. 108 w ust. 1:
 
-2f. Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę.”,
+### a)
 
-- **d)** ust. 3 i 4 otrzymują brzmienie: „3. Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w zakresie dowodowym.
+po pkt 5 dodaje się pkt 5a w brzmieniu:
 
-4. Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.”,
+„
 
-- **e)** ust. 6 otrzymuje brzmienie: „6. Orzeczenie, o którym mowa w ust. 1, wraz z uzasadnieniem sporządza się na piśmie nie później niż w terminie 14 dni od dnia sporządzenia przez rzecznika dyscyplinarnego sprawozdania z przeprowadzonego postępowania dyscyplinarnego.”,
-- **f)** w ust. 8 w zdaniu pierwszym wyrazy „Komendant SOP” zastępuje się wyrazami „przełożony dyscyplinarny”;
-- **35)** po art. 234 dodaje się art. 234a w brzmieniu: „Art. 234a. 1. Postępowanie dyscyplinarne umarza się, jeżeli:
-- **1)** nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
-- **2)** zostało ono wszczęte po upływie terminu, o którym mowa w art. 213 ust. 1;
-- **3)** ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
-- **4)** obwiniony zmarł lub został uznany za zaginionego;
-- **5)** obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
-- **6)** zostało prawomocnie zakończone postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu albo, wszczęte wcześniej, toczy się.
+### 5a)
 
-2. Postępowanie dyscyplinarne można umorzyć w razie:
+świadczenie motywacyjne;
 
-- **1)** długotrwałej choroby obwinionego;
-- **2)** wycofania wniosku, o którym mowa w art. 225 ust. 1 pkt 2.
+” ,
 
-3. Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzucanego mu czynu.
+### b)
 
-4. W przypadku przywrócenia do służby funkcjonariusza, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.”;
+w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
 
-- **36)** w art. 235:
-    - **a)** ust. 4 otrzymuje brzmienie: „4. Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał minister właściwy do spraw wewnętrznych lub Komendant SOP, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do ministra właściwego do spraw wewnętrznych lub Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.”,
-    - **b)** dodaje się ust. 5 w brzmieniu: „5. Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je Komendantowi SOP wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 4 dni od dnia, w którym otrzymał odwołanie lub zażalenie.”;
+„
 
-- **37)** w art. 237 ust. 1 otrzymuje brzmienie: „1. Komendant SOP, w terminie 7 dni od dnia wniesienia odwołania, może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”, a w przypadku orzeczenia o wymierzeniu kary dyscyplinarnej, o której mowa w art. 215 pkt 4–5a lub 7, jest obowiązany powołać komisję.”;
-- **38)** w art. 238:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Rozpatrzenie odwołania przez Komendanta SOP następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji – w terminie 14 dni od dnia otrzymania opatrzonego datą sprawozdania, o którym mowa w ust. 1.”,
-    - **b)** w ust. 4 pkt 3 otrzymuje brzmienie: „3) uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga uzupełnienia materiału dowodowego w całości lub w znacznej części albo zaskarżone orzeczenie lub przeprowadzone postępowanie dyscyplinarne zawiera istotne błędy lub braki.”,
-    - **c)** dodaje się ust. 7 w brzmieniu: „7. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w ust. 4 pkt 3, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia o uchyleniu.”;
+### 7)
 
-- **39)** w art. 239:
-    - **a)** uchyla się ust. 3,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Komendant SOP, na wniosek przełożonego dyscyplinarnego złożony po uprawomocnieniu się orzeczenia, wykonuje karę wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia lub wydalenia ze służby przez wydanie decyzji odpowiednio o zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i wyznaczeniu go na niższe stanowisko służbowe, obniżeniu stopnia albo zwolnieniu ukaranego funkcjonariusza ze służby w SOP.”;
+świadczenie pieniężne w zamian za wyżywienie.
 
-- **40)** w art. 240 ust. 1 otrzymuje brzmienie: „1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.”;
-- **41)** w art. 241:
-    - **a)** w ust. 2: – w pkt 1 wyrazy „3 miesięcy” zastępuje się wyrazami „6 miesięcy”, – w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) 24 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.”,
-    - **b)** w ust. 3: – w pkt 1 wyrazy „2 miesięcy” zastępuje się wyrazami „3 miesięcy”, – w pkt 4: – – wyrazy „12 miesięcy” zastępuje się wyrazami „9 miesięcy”, – – kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) 12 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.”;
+” ;
 
-- **42)** art. 245 otrzymuje brzmienie: „Art. 245. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.”.
+### 15)
 
-**Art. 8.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw (Dz. U. poz. 1635) w art. 25 w ust. 1:
+w art. 110:
 
-**Art. 9.**
+### a)
 
-1. Przepis art. 115a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy wszczętych i niezakończonych przed dniem 6 listopada 2018 r. oraz do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy policjantowi zwolnionemu ze służby od dnia 6 listopada 2018 r. Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy lub dodatkowy za okres przed dniem 6 listopada 2018 r. ustala się na zasadach wynikających z przepisów ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+w ust. 5 pkt 2 otrzymuje brzmienie:
 
-2. Przepis art. 119a ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu przelicza się zaległy urlop wypoczynkowy lub dodatkowy w dniach kalendarzowych na urlop w dniach roboczych przy zastosowaniu mnożnika wynikającego z relacji 26 dni roboczych do 30 dni kalendarzowych. Niepełny dzień zaokrągla się w górę do pełnego dnia. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r. Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy lub dodatkowy za okres przed dniem 6 listopada 2018 r. ustala się na zasadach wynikających z przepisów ustawy zmienianej w art. 2 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+„
 
-3. Przepis art. 96 ust. 1a ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+### 2)
 
-4. Przepis art. 188 ust. 6 ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+popełnienia przewinienia dyscyplinarnego, stwierdzonego w prawomocnie zakończonym postępowaniu dyscyplinarnym;
 
-**Art. 10.**
+” ,
 
-1. Urlopy wypoczynkowe oraz coroczne płatne urlopy dodatkowe przysługujące w dniach kalendarzowych, do których funkcjonariusz Straży Granicznej nabył prawo przed dniem wejścia w życie niniejszej ustawy, wykorzystuje się w naturze na dotychczasowych zasadach.
+### b)
 
-2. Funkcjonariusz Straży Granicznej, składając wniosek o udzielenie urlopu wypoczynkowego oraz corocznego płatnego urlopu dodatkowego, w pierwszej kolejności uwzględnia wykorzystanie urlopów wskazanych w ust. 1.
+w ust. 7 w pkt 3 wyrazy „3-6” zastępuje się wyrazami „3-7”,
 
-3. W przypadku funkcjonariusza Straży Granicznej zwalnianego ze służby oraz funkcjonariusza, którego stosunek służbowy wygasł, do ustalenia i wypłaty ekwiwalentu pieniężnego za niewykorzystane urlopy wskazane w ust. 1 stosuje się przepis art. 9 ust. 2.
+### c)
 
-**Art. 11.** Przepis art. 86 ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się do funkcjonariuszy przyjmowanych do służby w Straży Granicznej po dniu 1 stycznia 2021 r.
+w ust. 8 we wprowadzeniu do wyliczenia wyrazy „3-6” zastępuje się wyrazami „3-7”;
 
-**Art. 12.** Do funkcjonariusza Straży Granicznej przebywającego w dniu wejścia w życie niniejszej ustawy na płatnym urlopie zdrowotnym, okolicznościowym lub bezpłatnym, do zakończenia udzielonego urlopu, stosuje się przepisy dotychczasowe, z wyłączeniem odwołania z urlopu, do którego stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+### 16)
 
-**Art. 13.** Urlop uzupełniający nabyty przez funkcjonariusza Straży Granicznej po dniu wejścia w życie niniejszej ustawy nie może przekroczyć łącznie z urlopem uzyskanym już w 2020 r. maksymalnego wymiaru danego corocznego płatnego urlopu dodatkowego określonego w art. 87b ust. 1, 3 i 4 ustawy zmienianej w art. 2.
+art. 115a otrzymuje brzmienie:
 
-**Art. 14.**
+„
 
-1. Do oceny warunków szczególnie uciążliwych lub szkodliwych dla zdrowia uzasadniających przyznanie funkcjonariuszowi Straży Granicznej urlopu, o którym mowa w art. 87b ust. 4 ustawy zmienianej w art. 2, dokonywanej w 2020 r. stosuje się przepisy dotychczasowe.
+### Art. 115a.
 
-2. Do okresu służby, od którego jest uzależnione przyznanie urlopu, o którym mowa w art. 87b ust. 4 ustawy zmienianej w art. 2, wlicza się okres służby pełnionej w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia przed dniem wejścia w życie niniejszej ustawy.
+Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego lub dodatkowego ustala się w wysokości 1/21 części miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego policjantowi na ostatnio zajmowanym stanowisku służbowym.
 
-**Art. 15.** Do ustalania wymiaru urlopu wypoczynkowego oraz corocznego płatnego urlopu dodatkowego przysługujących funkcjonariuszowi Straży Granicznej, który w dniu wejścia w życie niniejszej ustawy przebywał na urlopie bezpłatnym lub był zawieszony w czynnościach służbowych, stosuje się przepisy dotychczasowe.
+” ;
 
-**Art. 16.** Plany urlopów funkcjonariuszy Straży Granicznej ustalone na 2020 r. na podstawie przepisów dotychczasowych zachowują ważność.
+### 17)
 
-**Art. 17.** Do zwrotu kosztów poniesionych na ochronę prawną, zapewnienia ochrony prawnej oraz bezpłatnej ochrony prawnej przysługującej policjantowi, funkcjonariuszowi Straży Granicznej, Służby Więziennej oraz Służby Ochrony Państwa, w przypadku postępowań karnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 66a–66c ustawy zmienianej w art. 1, art. 71a–71c ustawy zmienianej w art. 2, art. 164 ust. 2–4 i art. 164a ustawy zmienianej w art. 6 oraz art. 142a i art. 142b ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą.
+po art. 120 dodaje się art. 120a w brzmieniu:
 
-**Art. 18.** Do przypadków otrzymywania przez policjantów, funkcjonariuszy Straży Granicznej i Służby Ochrony Państwa oraz strażaków wyżywienia w naturze oraz norm tego wyżywienia albo równoważnika pieniężnego w zamian za wyżywienie zaistniałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+„
 
-**Art. 19.** W stosunku do funkcjonariuszy, którzy w dniu wejścia w życie niniejszej ustawy osiągnęli staż służby, o którym mowa w art. 120a ust. 1 ustawy zmienianej w art. 1, art. 117d ust. 1 ustawy zmienianej w art. 2, art. 97e ust. 1 ustawy zmienianej w art. 4, art. 208f ust. 1 ustawy zmienianej w art. 6 oraz art. 172b ust. 1 ustawy zmienianej w art. 7, decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
+### Art. 120a.
 
-**Art. 20.** Do obniżenia policjantowi nagrody rocznej w przypadku popełnienia przewinienia dyscyplinarnego stwierdzonego w prawomocnie zakończonym postępowaniu dyscyplinarnym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 1.
 
-**Art. 21.** Do postępowań w sprawie zawieszenia w czynnościach służbowych policjanta i funkcjonariusza Straży Granicznej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+Policjantowi przyznaje się świadczenie motywacyjne po osiągnięciu:
 
-**Art. 22.**
+### 1)
 
-1. Do postępowań dyscyplinarnych w Policji i Służbie Ochrony Państwa wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
 
-2. Do kar dyscyplinarnych w Policji i Służbie Ochrony Państwa wymierzonych przed dniem wejścia w życie niniejszej ustawy i niewykonanych stosuje się przepisy dotychczasowe.
+### 2)
 
-3. Do przewinień dyscyplinarnych popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe o przedawnieniu.
+28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
 
-**Art. 23.** Do postępowań w przedmiocie zwolnienia funkcjonariusza Straży Granicznej ze służby na podstawie art. 45 ust. 1 pkt 3–5 i ust. 2 pkt 2, 3 i 5 ustawy zmienianej w art. 2 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 47 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
+### 2.
 
-**Art. 24.** Do postępowań w przedmiocie zwolnienia funkcjonariusza Straży Granicznej ze służby wszczętych i niezakończonych decyzją ostateczną lub prawomocną przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 49 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
 
-**Art. 25.** Mianowania na pierwszy stopień w korpusie chorążych po ukończeniu szkoły chorążych albo na kolejny stopień w korpusie chorążych na podstawie wniosków o mianowanie złożonych przed dniem wejścia w życie niniejszej ustawy dokonuje Komendant Główny Straży Granicznej, z tym że na stopnie chorążych Straży Granicznej w BSWSG mianuje Komendant BSWSG.
+### 1)
 
-**Art. 26.** Mianowania na kolejny wyższy stopień funkcjonariusza Straży Granicznej, o którym mowa w art. 57 ust. 2 ustawy zmienianej w art. 2, na podstawie wniosku o mianowanie złożonego przed dniem wejścia w życie niniejszej ustawy dokonuje przełożony właściwy do mianowania na ten stopień na podstawie przepisów dotychczasowych.
+służby w Policji;
 
-**Art. 27.** Obniżenia stopnia funkcjonariuszowi Straży Granicznej w związku z wymierzeniem kary dyscyplinarnej obniżenia stopnia na podstawie wniosku o obniżenie stopnia złożonego przed dniem wejścia w życie niniejszej ustawy dokonuje przełożony właściwy do obniżenia stopnia na podstawie przepisów dotychczasowych.
+### 2)
 
-**Art. 28.** Obniżenie nagrody rocznej za rok kalendarzowy, w którym funkcjonariusz Straży Granicznej naruszył dyscyplinę służbową lub zasady etyki zawodowej, jeżeli za ten czyn prawomocnym orzeczeniem wymierzono mu przed dniem wejścia w życie niniejszej ustawy karę surowej nagany albo nagany z ostrzeżeniem, następuje na podstawie przepisów dotychczasowych.
+służby w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
 
-**Art. 29.**
+### 3)
 
-1. Do postępowań dyscyplinarnych oraz czynności wyjaśniających dotyczących funkcjonariuszy Straży Granicznej wszczętych na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2020 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2020/723/text.html)).
 
-2. Postępowania dyscyplinarne oraz czynności wyjaśniające prowadzone przez funkcjonariusza Straży Granicznej wyznaczonego przez przełożonego dyscyplinarnego albo komisję do przeprowadzenia postępowania dyscyplinarnego i niezakończone przed dniem wejścia w życie niniejszej ustawy są prowadzone dalej przez wyznaczonego funkcjonariusza albo komisję do czasu zakończenia postępowania dyscyplinarnego. Wyznaczonemu funkcjonariuszowi albo przewodniczącemu komisji przysługują uprawnienia rzecznika dyscyplinarnego.
+### 3.
 
-**Art. 30.** Czynności podjęte przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów dotychczasowych w ramach prowadzonych postępowań dyscyplinarnych oraz czynności wyjaśniających dotyczących funkcjonariuszy Straży Granicznej zachowują moc po dniu wejścia w życie niniejszej ustawy.
+Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa w art. 32 ust. 1, wydaje nie później niż w terminie 30 dni po osiągnięciu przez policjanta stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
 
-**Art. 31.** Komendant Główny Straży Granicznej staje się przełożonym dyscyplinarnym w postępowaniach dyscyplinarnych oraz czynnościach wyjaśniających wszczętych przez kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+### 4.
 
-**Art. 32.** Prawomocne kary dyscyplinarne orzeczone przez kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej i niewykonane przed dniem wejścia w życie niniejszej ustawy wykonuje Komendant Główny Straży Granicznej lub upoważniony przez tego przełożonego dyscyplinarnego funkcjonariusz.
+Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego policjant podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 35, jeżeli od dnia wydania ostatniej opinii o tym policjancie upłynęły co najmniej 3 miesiące.
 
-**Art. 33.** Postępowania dyscyplinarne niezakończone prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy toczące się w związku z popełnieniem przestępstwa lub wykroczenia, o których mowa w art. 134 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, umarza się, jeżeli przestępstwo lub wykroczenie nie stanowi jednocześnie przewinienia dyscyplinarnego, o którym mowa w art. 134a ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+### 5.
 
-**Art. 34.**
+Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi Głównemu Policji i jego zastępcom oraz Komendantowi BSWP i jego zastępcom.
 
-1. Środki zaskarżenia od orzeczeń dyscyplinarnych oraz postanowień Komendanta Głównego Straży Granicznej wniesione do ministra właściwego do spraw wewnętrznych przed dniem wejścia w życie niniejszej ustawy rozpatruje minister właściwy do spraw wewnętrznych.
+### 6.
 
-2. Jeżeli termin do wniesienia środka zaskarżenia od orzeczeń dyscyplinarnych oraz postanowień Komendanta Głównego Straży Granicznej nie upłynął przed dniem wejścia w życie niniejszej ustawy, środki te wnosi się do ministra właściwego do spraw wewnętrznych za pośrednictwem Komendanta Głównego Straży Granicznej.
+Komendant Główny Policji przyznaje świadczenie motywacyjne Komendantowi CBŚP, dowódcy BOA, komendantom wojewódzkim Policji, Komendantowi Stołecznemu Policji, komendantom szkół policyjnych i ich zastępcom oraz Komendantowi-Rektorowi Wyższej Szkoły Policji w Szczytnie i osobie pełniącej w uczelni służb państwowych funkcję kierowniczą do spraw realizacji zadań uczelni jako jednostki organizacyjnej właściwej służby. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 
-**Art. 35.**
+### 7.
 
-1. Kary upomnienia, nagany, ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku, wyznaczenia na niższe stanowisko służbowe oraz ostrzeżenia o niepełnej przydatności do służby prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy podlegają zatarciu po upływie okresów, o których mowa w art. 137a ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+Świadczenia motywacyjnego nie przyznaje się policjantowi:
 
-2. Kara obniżenia stopnia w Straży Granicznej prawomocnie orzeczona i niezatarta przed dniem wejścia w życie niniejszej ustawy ulega zatarciu po upływie 18 miesięcy od dnia uprawomocnienia się orzeczenia o wymierzeniu tej kary.
+### 1)
 
-3. Kary surowej nagany albo nagany z ostrzeżeniem w Straży Granicznej prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy ulegają zatarciu po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia o wymierzeniu tych kar.
+który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 38 ust. 2 pkt 2 albo 3 albo art. 41 ust. 1 pkt 2 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
 
-**Art. 36.** W przypadku nienagannej służby stwierdzonej w opinii służbowej kary dyscyplinarne prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy mogą być zatarte przed upływem terminów określonych w art. 137a ust. 2 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, jednak nie wcześniej niż przed upływem:
+### 2)
 
-**Art. 37.** Do wznowienia postępowania dyscyplinarnego zakończonego postanowieniem o umorzeniu postępowania dyscyplinarnego wydanym przed dniem wejścia w życie niniejszej ustawy stosuje się odpowiednio przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą w zakresie wznowienia postępowania dyscyplinarnego.
+przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne do czasu prawomocnego zakończenia tego postępowania;
 
-**Art. 38.** W sprawach wznowienia postępowania dyscyplinarnego zakończonego orzeczeniem kary dyscyplinarnej, o której mowa w art. 136 ust. 1 pkt 9 ustawy zmienianej w art. 2, właściwi są przełożeni dyscyplinarni, którzy stali się właściwi do wymierzenia tej kary po dniu wejścia w życie niniejszej ustawy.
+### 3)
 
-**Art. 39.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
 
-**Art. 40.**
+### 4)
 
-1. W latach 2020–2029 maksymalny limit wydatków Komendanta Głównego Policji będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 5 031 966 tys. zł, w tym w:
+skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
 
-- **1)** 2020 r. – 108 926 tys. zł;
-- **2)** 2021 r. – 343 590 tys. zł;
-- **3)** 2022 r. – 419 780 tys. zł;
-- **4)** 2023 r. – 427 780 tys. zł;
-- **5)** 2024 r. – 493 400 tys. zł;
-- **6)** 2025 r. – 574 350 tys. zł;
-- **7)** 2026 r. – 633 410 tys. zł;
-- **8)** 2027 r. – 637 990 tys. zł;
-- **9)** 2028 r. – 682 110 tys. zł;
-- **10)** 2029 r. – 710 630 tys. zł.
+### 8.
 
-2. Komendant Główny Policji monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 7, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+### 9.
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Policji.
+Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego policjantowi przysługuje odwołanie do wyższego przełożonego w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw wewnętrznych lub Komendanta Głównego Policji przysługuje, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
 
-**Art. 41.**
+### 10.
 
-1. W latach 2020–2029 maksymalny limit wydatków Komendanta Głównego Straży Granicznej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 629 576 tys. zł, w tym w:
+Świadczenia motywacyjnego nie wypłaca się za okres:
 
-- **1)** 2020 r. – 11 436 tys. zł;
-- **2)** 2021 r. – 36 960 tys. zł;
-- **3)** 2022 r. – 44 150 tys. zł;
-- **4)** 2023 r. – 48 340 tys. zł;
-- **5)** 2024 r. – 52 730 tys. zł;
-- **6)** 2025 r. – 62 630 tys. zł;
-- **7)** 2026 r. – 71 830 tys. zł;
-- **8)** 2027 r. – 79 530 tys. zł;
-- **9)** 2028 r. – 102 930 tys. zł;
-- **10)** 2029 r. – 119 040 tys. zł.
+### 1)
 
-2. Komendant Główny Straży Granicznej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+korzystania z urlopu bezpłatnego,
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+### 2)
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Straży Granicznej.
+przerw w wykonywaniu obowiązków służbowych, za które policjant nie zachował prawa do uposażenia, wymienionych w art. 126 ust. 1-3,
 
-**Art. 42.**
+### 3)
 
-1. W latach 2020–2029 maksymalny limit wydatków Komendanta Głównego Państwowej Straży Pożarnej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 118 370 tys. zł, w tym w:
+zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
 
-- **1)** 2020 r. – 1 000 tys. zł;
-- **2)** 2021 r. – 6 610 tys. zł;
-- **3)** 2022 r. – 8 510 tys. zł;
-- **4)** 2023 r. – 9 650 tys. zł;
-- **5)** 2024 r. – 11 080 tys. zł;
-- **6)** 2025 r. – 12 930 tys. zł;
-- **7)** 2026 r. – 14 440 tys. zł;
-- **8)** 2027 r. – 15 620 tys. zł;
-- **9)** 2028 r. – 18 490 tys. zł;
-- **10)** 2029 r. – 20 040 tys. zł.
+### 4)
 
-2. Komendant Główny Państwowej Straży Pożarnej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+zwolnienia z zajęć służbowych, o którym mowa w art. 121b ust. 2 pkt 1 i 3-5,
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+### 5)
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Państwowej Straży Pożarnej.
+innej nieobecności trwającej co najmniej jeden miesiąc
 
-**Art. 43.**
+- proporcjonalnie do tego okresu.
 
-1. W latach 2020–2029 maksymalny limit wydatków Szefa Centralnego Biura Antykorupcyjnego będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 24 320 tys. zł, w tym w:
+### 11.
 
-- **1)** 2020 r. – 2 750 tys. zł;
-- **2)** 2021 r. – 2 170 tys. zł;
-- **3)** 2022 r. – 2 220 tys. zł;
-- **4)** 2023 r. – 2 280 tys. zł;
-- **5)** 2024 r. – 2 330 tys. zł;
-- **6)** 2025 r. – 2 390 tys. zł;
-- **7)** 2026 r. – 2 450 tys. zł;
-- **8)** 2027 r. – 2 510 tys. zł;
-- **9)** 2028 r. – 2 580 tys. zł;
-- **10)** 2029 r. – 2 640 tys. zł.
+Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
 
-2. Szef Centralnego Biura Antykorupcyjnego monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+### 12.
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Szef Centralnego Biura Antykorupcyjnego.
+### 13.
 
-**Art. 44.**
+Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 8, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem policjanta ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
 
-1. W latach 2020–2029 maksymalny limit wydatków Dyrektora Generalnego Służby Więziennej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 347 800 tys. zł, w tym w:
+” ;
 
-- **1)** 2020 r. – 1 970 tys. zł;
-- **2)** 2021 r. – 12 190 tys. zł;
-- **3)** 2022 r. – 15 940 tys. zł;
-- **4)** 2023 r. – 20 560 tys. zł;
-- **5)** 2024 r. – 28 410 tys. zł;
-- **6)** 2025 r. – 35 770 tys. zł;
-- **7)** 2026 r. – 42 680 tys. zł;
-- **8)** 2027 r. – 51 850 tys. zł;
-- **9)** 2028 r. – 62 660 tys. zł;
-- **10)** 2029 r. – 75 770 tys. zł.
+### 18)
 
-2. Dyrektor Generalny Służby Więziennej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+w art. 132:
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+### a)
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Dyrektor Generalny Służby Więziennej.
+ust. 3 otrzymuje brzmienie:
 
-**Art. 45.**
+„
 
-1. W latach 2020–2029 maksymalny limit wydatków Komendanta Służby Ochrony Państwa będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 149 870 tys. zł, w tym w:
+### 3.
 
-- **1)** 2020 r. – 3 530 tys. zł;
-- **2)** 2021 r. – 9 370 tys. zł;
-- **3)** 2022 r. – 11 500 tys. zł;
-- **4)** 2023 r. – 12 330 tys. zł;
-- **5)** 2024 r. – 16 770 tys. zł;
-- **6)** 2025 r. – 18 000 tys. zł;
-- **7)** 2026 r. – 18 640 tys. zł;
-- **8)** 2027 r. – 19 570 tys. zł;
-- **9)** 2028 r. – 19 810 tys. zł;
-- **10)** 2029 r. – 20 350 tys. zł.
+Naruszeniem dyscypliny służbowej jest w szczególności:
 
-2. Komendant Służby Ochrony Państwa monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+### 1)
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+niedopełnienie obowiązków policjanta wynikających ze złożonego ślubowania, a także przepisów prawa;
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Służby Ochrony Państwa.
+### 2)
 
-**Art. 46.**
+odmowa wykonania lub niewykonanie rozkazu lub polecenia, z zastrzeżeniem przypadku określonego w art. 58 ust. 2;
 
-1. W latach 2020–2029 maksymalny limit wydatków wojewodów będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 1 065 327 tys. zł, w tym w:
+### 3)
 
-- **1)** 2020 r. – 8 997 tys. zł;
-- **2)** 2021 r. – 59 490 tys. zł;
-- **3)** 2022 r. – 76 590 tys. zł;
-- **4)** 2023 r. – 86 850 tys. zł;
-- **5)** 2024 r. – 99 720 tys. zł;
-- **6)** 2025 r. – 116 370 tys. zł;
-- **7)** 2026 r. – 129 960 tys. zł;
-- **8)** 2027 r. – 140 580 tys. zł;
-- **9)** 2028 r. – 166 410 tys. zł;
-- **10)** 2029 r. – 180 360 tys. zł.
+zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
 
-2. Komendant Główny Państwowej Straży Pożarnej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+### 4)
 
-3. W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa;
 
-4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Państwowej Straży Pożarnej.
+### 5)
 
-**Art. 47.**
+wprowadzenie w błąd przełożonego lub innego policjanta, jeżeli spowodowało to lub mogło spowodować szkodę służbie, policjantowi lub innej osobie;
 
-1. (uchylony)
+### 6)
 
-2. Minister Sprawiedliwości, po uzyskaniu zgody ministra właściwego do spraw finansów publicznych, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa w celu wykonania niniejszej ustawy.
+nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;
 
-**Art. 48.** Ustawa wchodzi w życie z dniem 1 października 2020 r., z wyjątkiem:
+### 7)
 
+postępowanie przełożonego w sposób przyczyniający się do rozluźnienia dyscypliny służbowej w podległej jednostce organizacyjnej lub komórce organizacyjnej Policji;
+
+### 8)
+
+porzucenie służby;
+
+### 9)
+
+samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu;
+
+### 10)
+
+stawienie się do służby w stanie nietrzeźwości albo po użyciu alkoholu lub po użyciu podobnie działającego środka, pełnienie jej w takim stanie, a także spożywanie alkoholu lub używanie podobnie działającego środka w czasie służby;
+
+### 11)
+
+umyślne naruszenie dóbr osobistych innego policjanta;
+
+### 12)
+
+utrata służbowej broni palnej, amunicji lub legitymacji służbowej;
+
+### 13)
+
+utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę innej osobie lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego;
+
+### 14)
+
+ujawnienie informacji pozostającej w związku z wykonywaniem czynności służbowych, jeżeli spowodowało to lub mogło spowodować szkodę służbie.
+
+” ,
+
+### b)
+
+po ust. 4b dodaje się ust. 4ba w brzmieniu:
+
+„
+
+### 4ba.
+
+Rozmowę dyscyplinującą, o której mowa w ust. 4b, można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu policjantowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który policjant ponosi odpowiedzialność dyscyplinarną.
+
+” ,
+
+### c)
+
+ust. 4c otrzymuje brzmienie:
+
+„
+
+### 4c.
+
+Notatkę, o której mowa w ust. 4b, włącza się do akt osobowych na okres 5 miesięcy.
+
+” ,
+
+### d)
+
+po ust. 4c dodaje się ust. 4d-4f w brzmieniu:
+
+„
+
+### 4d.
+
+W terminie 5 dni od dnia przeprowadzenia rozmowy dyscyplinującej sprawca przewinienia dyscyplinarnego może złożyć sprzeciw do przełożonego dyscyplinarnego. Złożenie sprzeciwu skutkuje wszczęciem postępowania dyscyplinarnego, a zebrane dotychczas materiały stają się materiałami postępowania dyscyplinarnego.
+
+### 4e.
+
+Rozmowę dyscyplinującą przeprowadza przełożony dyscyplinarny. W uzasadnionym przypadku przełożony dyscyplinarny może na piśmie upoważnić do przeprowadzenia w jego imieniu rozmowy dyscyplinującej policjanta w stopniu nie niższym od stopnia posiadanego przez policjanta, z którym rozmowa dyscyplinująca ma być prowadzona, lub zajmującego co najmniej równorzędne z tym policjantem stanowisko służbowe.
+
+### 4f.
+
+Upoważnienie do przeprowadzenia rozmowy dyscyplinującej zawiera:
+
+### 1)
+
+podstawę prawną;
+
+### 2)
+
+stopień, imię, nazwisko i stanowisko służbowe upoważnionego policjanta;
+
+### 3)
+
+stopień, imię, nazwisko i stanowisko służbowe policjanta, z którym ma być prowadzona rozmowa dyscyplinująca;
+
+### 4)
+
+określenie czynu, w związku z którym rozmowa dyscyplinująca ma być prowadzona, wraz z jego kwalifikacją prawną;
+
+### 5)
+
+określenie przesłanek, jakie spowodowały podjęcie przez przełożonego dyscyplinarnego rozstrzygnięcia o przeprowadzeniu w danym przypadku rozmowy dyscyplinującej;
+
+### 6)
+
+określenie terminu, w jakim przeprowadza się rozmowę dyscyplinującą.
+
+” ;
+
+### 19)
+
+art. 132b otrzymuje brzmienie:
+
+„
+
+### Art. 132b.
+
+### 1.
+
+Policjant odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego policjanta przewinienia dyscyplinarnego albo poleca jego popełnienie.
+
+### 2.
+
+Policjant odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny policjant popełnił przewinienie dyscyplinarne, nakłania go do tego.
+
+### 3.
+
+Policjant odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny policjant popełnił przewinienie dyscyplinarne lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+
+### 4.
+
+Każdy z policjantów, o których mowa w ust. 1-3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+
+### 5.
+
+Policjant odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+
+” ;
+
+### 20)
+
+po art. 132b dodaje się art. 132c w brzmieniu:
+
+„
+
+### Art. 132c.
+
+Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.
+
+” ;
+
+### 21)
+
+w art. 133:
+
+### a)
+
+w ust. 1 w zdaniu pierwszym po wyrazach „art. 32 ust. 1” skreśla się przecinek i wyrazy „z zastrzeżeniem ust. 2 i 3”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przełożonym dyscyplinarnym policjanta delegowanego do czasowego pełnienia służby lub policjanta, któremu powierzono pełnienie obowiązków służbowych albo którego skierowano na szkolenie zawodowe, doskonalenie zawodowe centralne lub studia w Wyższej Szkole Policji, jest przełożony dyscyplinarny w miejscu pełnienia służby, odbywania szkolenia, doskonalenia lub studiów, z wyłączeniem możliwości orzekania kar dyscyplinarnych określonych w art. 134 pkt 3-7, które wymierza przełożony, o którym mowa w art. 32 ust. 1.
+
+” ,
+
+### c)
+
+w ust. 3 i 3a wyrazy „3-6” zastępuje się wyrazami „3-7”,
+
+### d)
+
+w ust. 3b zdanie pierwsze otrzymuje brzmienie: „ Przełożonym dyscyplinarnym Komendanta Głównego Policji, Komendanta BSWP i jego zastępców jest minister właściwy do spraw wewnętrznych. ” ,
+
+### e)
+
+w ust. 8 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+Komendant Główny Policji - w stosunku do Komendanta CBŚP, dowódcy BOA, komendanta wojewódzkiego Policji, Komendanta Stołecznego Policji, komendanta szkoły policyjnej, dowódcy kontyngentu policyjnego oraz policjantów, których przełożonym dyscyplinarnym jest Komendant BSWP.
+
+” ;
+
+### 22)
+
+art. 134 i art. 134a otrzymują brzmienie:
+
+„
+
+### Art. 134.
+
+Karami dyscyplinarnymi są:
+
+### 1)
+
+upomnienie;
+
+### 2)
+
+nagana;
+
+### 3)
+
+ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 4)
+
+wyznaczenie na niższe stanowisko służbowe;
+
+### 5)
+
+obniżenie stopnia;
+
+### 6)
+
+ostrzeżenie o niepełnej przydatności do służby;
+
+### 7)
+
+wydalenie ze służby.
+
+### Art. 134a.
+
+Kara upomnienia i kara nagany oznaczają wytknięcie ukaranemu przez przełożonego dyscyplinarnego niewłaściwego postępowania.
+
+” ;
+
+### 23)
+
+uchyla się art. 134b;
+
+### 24)
+
+art. 134c otrzymuje brzmienie:
+
+„
+
+### Art. 134c.
+
+Kara ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku oznacza wytknięcie ukaranemu niewłaściwego postępowania i uprzedzenie go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wyznaczony na niższe stanowisko służbowe lub ukarany surowszą karą dyscyplinarną.
+
+” ;
+
+### 25)
+
+w art. 134e ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby.
+
+” ;
+
+### 26)
+
+po art. 134e dodaje się art. 134ea w brzmieniu:
+
+„
+
+### Art. 134ea.
+
+Kara ostrzeżenia o niepełnej przydatności do służby oznacza wytknięcie ukaranemu niewłaściwego postępowania i uprzedzenie go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.
+
+” ;
+
+### 27)
+
+w art. 134h:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Obwinionemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przy wymierzaniu kary dyscyplinarnej uwzględnia się okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa negatywne dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, dotychczasowy przebieg służby, opinię służbową, okres pozostawania w służbie, a także istotne w sprawie okoliczności, zarówno łagodzące, jak i obciążające.
+
+” ,
+
+### c)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+działanie z motywacji zasługującej na szczególne potępienie, w stanie nietrzeźwości albo w stanie po użyciu alkoholu lub podobnie działającego środka;
+
+” ;
+
+### 28)
+
+po art. 134h dodaje się art. 134ha w brzmieniu:
+
+„
+
+### Art. 134ha.
+
+### 1.
+
+Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+
+### 2.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów, ocenianych swobodnie, z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
+
+### 3.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.
+
+” ;
+
+### 29)
+
+w art. 134i:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 1 w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) wskutek złożenia sprzeciwu, o którym mowa w art. 132 ust. 4d; ” ,
+
+- - pkt 2 otrzymuje brzmienie: „ 2) może wszcząć postępowanie dyscyplinarne na wniosek innego zainteresowanego organu, instytucji lub pokrzywdzonego. ” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Wszczęcie postępowania dyscyplinarnego następuje w drodze postanowienia, którego odpis niezwłocznie doręcza się obwinionemu.
+
+### 1b.
+
+Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone przez przewinienie dyscyplinarne.
+
+” ,
+
+### c)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Wyższy przełożony dyscyplinarny lub Komendant Główny Policji mogą wszcząć lub przejąć do prowadzenia postępowanie dyscyplinarne przed wydaniem orzeczenia, jeżeli w jego ocenie jest to konieczne z uwagi na charakter sprawy.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 1 pkt 1 lit. d i pkt 2, przełożony dyscyplinarny lub Komendant Główny Policji zawiadamiają odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+
+” ,
+
+### d)
+
+w ust. 4 dodaje się zdanie trzecie w brzmieniu: „ W szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego właściwego w sprawach dyscyplinarnych mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 4a. ” ,
+
+### e)
+
+po ust. 4 dodaje się ust. 4a-4g w brzmieniu:
+
+„
+
+### 4a.
+
+Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+### 4b.
+
+Postanowienie, o którym mowa w ust. 4a, zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+
+### 2)
+
+datę wydania;
+
+### 3)
+
+podstawę prawną;
+
+### 4)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+
+### 5)
+
+określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+
+### 6)
+
+wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+
+### 7)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Policji albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+
+### 4c.
+
+Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 4b pkt 5.
+
+### 4d.
+
+W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+### 4e.
+
+Z czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+
+### 4f.
+
+W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
+
+### 4g.
+
+Wyższy przełożony dyscyplinarny lub Komendant Główny Policji może zlecić przeprowadzenie lub przeprowadzić czynności wyjaśniające w sprawach dotyczących policjantów podległych przełożonym dyscyplinarnym, jeżeli w jego ocenie jest to konieczne ze względu na charakter sprawy.
+
+” ,
+
+### f)
+
+po ust. 5 dodaje się ust. 5a-5c w brzmieniu:
+
+„
+
+### 5a.
+
+Celem postępowania dyscyplinarnego jest w szczególności:
+
+### 1)
+
+ustalenie, czy czyn, którego popełnienie zarzucono obwinionemu, został popełniony i czy obwiniony jest jego sprawcą;
+
+### 2)
+
+wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
+
+### 3)
+
+zebranie i utrwalenie dowodów w sprawie.
+
+### 5b.
+
+Przełożony dyscyplinarny i wyższy przełożony dyscyplinarny badają swoją właściwość przed podjęciem czynności w sprawach dyscyplinarnych, a w przypadku stwierdzenia braku właściwości przekazują sprawę odpowiednio uprawnionemu przełożonemu dyscyplinarnemu albo wyższemu przełożonemu dyscyplinarnemu.
+
+### 5c.
+
+Rzecznik dyscyplinarny przekazuje niezwłocznie przełożonemu dyscyplinarnemu dokumenty w sprawach dyscyplinarnych zastrzeżonych do jego właściwości.
+
+” ,
+
+### g)
+
+w ust. 6 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez policjanta zarzucanego mu czynu.
+
+” ,
+
+### h)
+
+dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 135fa ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 135fa ust. 1.
+
+” ;
+
+### 30)
+
+w art. 135:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+
+### 1)
+
+czynności wyjaśniające nie potwierdziły popełnienia czynu stanowiącego przewinienie dyscyplinarne;
+
+### 2)
+
+upłynęły terminy określone w ust. 4 i 5;
+
+### 3)
+
+postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego policjanta zostało prawomocnie zakończone lub, wcześniej wszczęte, toczy się.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Jeżeli policjant z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 3, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się policjanta do służby.
+
+” ,
+
+### c)
+
+w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Karalność przewinienia dyscyplinarnego ustaje z upływem 2 lat od dnia jego popełnienia. ” ,
+
+### d)
+
+uchyla się ust. 6;
+
+### 31)
+
+w art. 135a w ust. 2 wyraz „wyznacza” zastępuje się wyrazem „powołuje”;
+
+### 32)
+
+w art. 135b po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przełożony dyscyplinarny może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.
+
+” ;
+
+### 33)
+
+w art. 135c dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Do dnia wydania postanowienia, o którym mowa w ust. 6, przełożony dyscyplinarny podejmuje czynności niecierpiące zwłoki.
+
+” ;
+
+### 34)
+
+w art. 135e:
+
+### a)
+
+w ust. 1 zdanie drugie otrzymuje brzmienie: „ W szczególności przesłuchuje świadków, obwinionego i pokrzywdzonego, przeprowadza oględziny, konfrontacje, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów. ” ,
+
+### b)
+
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Protokół zawiera: ” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie, niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie.
+
+” ,
+
+### d)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+W przypadku konieczności przeprowadzenia czynności poza miejscowością, w której toczy się postępowanie dyscyplinarne, przełożony dyscyplinarny lub rzecznik dyscyplinarny mogą zwrócić się o ich przeprowadzenie do przełożonego dyscyplinarnego właściwego według miejsca, w którym czynność ma być dokonana. Czynności przeprowadza rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej Policji.
+
+” ,
+
+### e)
+
+w ust. 9 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny mogą zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. ” ,
+
+### f)
+
+po ust. 9 dodaje się ust. 9a w brzmieniu:
+
+„
+
+### 9a.
+
+Rzecznik dyscyplinarny, w razie ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.
+
+” ;
+
+### 35)
+
+w art. 135f:
+
+### a)
+
+w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek lub fotokopii;
+
+” ,
+
+### b)
+
+w ust. 7 w pkt 3:
+
+- - wyrazy „sprzeczne z prawem” zastępuje się wyrazem „niedopuszczalne”,
+
+- - kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ 4) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania; 5) wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony. ” ,
+
+### c)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.
+
+” ;
+
+### 36)
+
+po art. 135f dodaje się art. 135fa w brzmieniu:
+
+„
+
+### Art. 135fa.
+
+### 1.
+
+Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina policjanta nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu policjanta i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+### 3.
+
+Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+### 4.
+
+Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 134 pkt 1 lub 2. Czynności, o których mowa w art. 135i ust. 1-6, nie przeprowadza się.
+
+### 5.
+
+W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+
+### 6.
+
+Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+
+### 7.
+
+Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+### 8.
+
+W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 135j ust. 1, od którego przysługuje odwołanie w trybie art. 135k.
+
+### 9.
+
+Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.
+
+” ;
+
+### 37)
+
+w art. 135h:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie miesiąca od dnia wszczęcia tego postępowania. Wyższy przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony do 3 miesięcy.
+
+### 2.
+
+Komendant Główny Policji, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przedłużenie terminu następuje na wniosek przełożonego dyscyplinarnego prowadzącego postępowanie dyscyplinarne. Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania wyższy przełożony dyscyplinarny lub Komendant Główny Policji może zażądać niezwłocznego przekazania akt postępowania.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania.
+
+” ,
+
+### d)
+
+po ust. 3 dodaje się ust. 3a-3c w brzmieniu:
+
+„
+
+### 3a.
+
+Przełożony dyscyplinarny zawiesza postępowanie dyscyplinarne z ostatnim dniem pełnienia służby w jednostce organizacyjnej Policji i przekazuje materiały postępowania dyscyplinarnego przełożonemu dyscyplinarnemu w nowym miejscu służby obwinionego.
+
+### 3b.
+
+Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie, z wyjątkiem postanowienia, o którym mowa w ust. 3a. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Policji, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### 3c.
+
+Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.
+
+” ,
+
+### e)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej Policji wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzednim miejscu służby obwinionego.
+
+” ;
+
+### 38)
+
+po art. 135h dodaje się art. 135ha i art. 135hb w brzmieniu:
+
+„
+
+### Art. 135ha.
+
+### 1.
+
+Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego.
+
+### Art. 135hb.
+
+### 1.
+
+Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+
+### 2.
+
+Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+
+### 3.
+
+Od postanowień, o których mowa w ust. 1 i 2, odwołanie nie przysługuje.
+
+### 4.
+
+Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+
+### 5.
+
+Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę.
+
+” ;
+
+### 39)
+
+w art. 135i:
+
+### a)
+
+w ust. 4 dodaje się zdanie trzecie: „ Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową skorzystania z prawa do zapoznania się z tymi aktami. ” ,
+
+### b)
+
+w ust. 7 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego, wydaje postanowienie o zakończeniu czynności dowodowych oraz w terminie 7 dni od dnia zakończenia czynności dowodowych sporządza sprawozdanie, które: ” ;
+
+### 40)
+
+w art. 135j:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+
+### 1)
+
+uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu, albo
+
+### 2)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej, albo
+
+### 3)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej, albo
+
+### 4)
+
+umorzeniu postępowania.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną wyłącznie w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.
+
+” ,
+
+### c)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w materiale dowodowym.
+
+### 4.
+
+Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.
+
+” ;
+
+### 41)
+
+po art. 135j dodaje się art. 135ja w brzmieniu:
+
+„
+
+### Art. 135ja.
+
+### 1.
+
+Postępowanie dyscyplinarne umarza się, jeżeli:
+
+### 1)
+
+nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
+
+### 2)
+
+postępowanie dyscyplinarne wszczęto po upływie terminu, o którym mowa w art. 135 ust. 3;
+
+### 3)
+
+ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
+
+### 4)
+
+obwiniony zmarł lub został uznany za zaginionego;
+
+### 5)
+
+obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
+
+### 6)
+
+postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu zostało prawomocnie zakończone albo, wszczęte wcześniej, toczy się.
+
+### 2.
+
+Postępowanie dyscyplinarne można umorzyć w przypadku:
+
+### 1)
+
+długotrwałej choroby obwinionego;
+
+### 2)
+
+wycofania wniosku, o którym mowa w art. 134i ust. 1 pkt 2.
+
+### 3.
+
+Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzucanego mu czynu.
+
+### 4.
+
+W przypadku przywrócenia do służby policjanta, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.
+
+” ;
+
+### 42)
+
+w art. 135k:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał minister właściwy do spraw wewnętrznych lub Komendant Główny Policji, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do ministra właściwego do spraw wewnętrznych lub Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je wyższemu przełożonemu dyscyplinarnemu wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 14 dni od dnia, w którym otrzymał odwołanie lub zażalenie.
+
+” ;
+
+### 43)
+
+w art. 135m w ust. 1 wyrazy „art. 134 pkt 4-6” zastępuje się wyrazami „art. 134 pkt 4-7”;
+
+### 44)
+
+w art. 135n:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Rozpatrzenie odwołania przez wyższego przełożonego dyscyplinarnego następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji - w terminie 14 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
+
+” ,
+
+### b)
+
+w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę dyscyplinarną albo umorzyć postępowanie, albo uchylając to orzeczenie - umorzyć postępowanie dyscyplinarne pierwszej instancji, albo
+
+” ;
+
+### 45)
+
+w art. 135o:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+z upływem terminu do wniesienia odwołania, wniosku o ponowne rozpatrzenie sprawy lub zażalenia, jeżeli go nie wniesiono;
+
+” ,
+
+### b)
+
+w ust. 2 skreśla się zdanie drugie,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przełożony właściwy w sprawach osobowych po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku lub karę ostrzeżenia o niepełnej przydatności do służby.
+
+” ;
+
+### 46)
+
+w art. 135p ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
+
+” ;
+
+### 47)
+
+w art. 135q:
+
+### a)
+
+w ust. 2:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) 6 miesięcy od dnia uprawomocnienia się orzeczenia kary upomnienia lub nagany; ” ,
+
+- - w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) 24 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby. ” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku nienagannej służby stwierdzonej w opinii służbowej przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1, może zatrzeć karę dyscyplinarną przed upływem terminu określonego w ust. 2, jednak nie wcześniej niż przed upływem:
+
+### 1)
+
+3 miesięcy od dnia uprawomocnienia się orzeczenia kary upomnienia lub nagany;
+
+### 2)
+
+6 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 3)
+
+9 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe;
+
+### 4)
+
+12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Kara obniżenia stopnia podlega zatarciu po upływie terminu przewidzianego dla kary dyscyplinarnej wymierzonej obok kary obniżenia stopnia. Przepis ust. 3 stosuje się odpowiednio.
+
+” ;
+
+### 48)
+
+po art. 135q dodaje się art. 135qa w brzmieniu:
+
+„
+
+### Art. 135qa.
+
+### 1.
+
+Decyzję o zatarciu kary dyscyplinarnej w przypadku, o którym mowa w art. 135q ust. 3, wydaje przełożony dyscyplinarny, o którym mowa w art. 32 ust. 1.
+
+### 2.
+
+Decyzję o zatarciu kary dyscyplinarnej doręcza się policjantowi.
+
+” ;
+
+### 49)
+
+art. 138 i art. 139 otrzymują brzmienie:
+
+„
+
+### Art. 138.
+
+Od orzeczenia i postanowienia kończących postępowanie dyscyplinarne policjantowi przysługuje prawo wniesienia skargi do sądu administracyjnego.
+
+### Art. 139.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2020 r. poz. 305](https://api.sejm.gov.pl/eli/acts/DU/2020/305/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 35 w ust. 3 i 4 po wyrazach „na wniosek” dodaje się wyrazy „Komendanta BSWSG,”;
+
+### 2)
+
+w art. 36 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli decyzję, o której mowa w ust. 1, wydaje Komendant Główny Straży Granicznej, od decyzji takiej służy odwołanie do ministra właściwego do spraw wewnętrznych.
+
+” ;
+
+### 3)
+
+w art. 40 w ust. 4 w pkt 2 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+Komendant BSWSG na terytorium Rzeczypospolitej Polskiej w odniesieniu do podległych mu funkcjonariuszy BSWSG.
+
+” ;
+
+### 4)
+
+w art. 41i w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+świadczenie motywacyjne;
+
+” ;
+
+### 5)
+
+po art. 41i dodaje się art. 41ia w brzmieniu:
+
+„
+
+### Art. 41ia.
+
+Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta Głównego Straży Granicznej lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+
+” ;
+
+### 6)
+
+po art. 42 dodaje się art. 42a w brzmieniu:
+
+„
+
+### Art. 42a.
+
+Równorzędnym stanowiskiem służbowym jest stanowisko zaszeregowane do tej samej grupy uposażenia zasadniczego i takiego samego stopnia etatowego.
+
+” ;
+
+### 7)
+
+w art. 43:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo nieumyślne, ścigane z oskarżenia publicznego albo przestępstwo skarbowe nieumyślne lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby - na czas nie dłuższy niż 12 miesięcy.
+
+” ,
+
+### b)
+
+uchyla się ust. 3a i 4;
+
+### 8)
+
+po art. 43 dodaje się art. 43a-43d w brzmieniu:
+
+„
+
+### Art. 43a.
+
+### 1.
+
+Przełożonymi właściwymi do zawieszania funkcjonariuszy w czynnościach służbowych są:
+
+### 1)
+
+minister właściwy do spraw wewnętrznych - w stosunku do Komendanta Głównego Straży Granicznej oraz Komendanta BSWSG i jego zastępców;
+
+### 2)
+
+Komendant Główny Straży Granicznej - w stosunku do:
+
+### a)
+
+zastępców Komendanta Głównego Straży Granicznej,
+
+### b)
+
+komendantów oddziałów Straży Granicznej,
+
+### c)
+
+komendantów ośrodków szkolenia Straży Granicznej,
+
+### d)
+
+komendantów ośrodków Straży Granicznej,
+
+### e)
+
+funkcjonariuszy pełniących służbę w Komendzie Głównej Straży Granicznej,
+
+### f)
+
+innych bezpośrednio mu podległych funkcjonariuszy;
+
+### 3)
+
+Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej - w stosunku do:
+
+### a)
+
+funkcjonariuszy pełniących służbę na stanowiskach służbowych odpowiednio w podległych im BSWSG, oddziałach Straży Granicznej, ośrodkach szkolenia Straży Granicznej lub ośrodkach Straży Granicznej,
+
+### b)
+
+innych bezpośrednio mu podległych funkcjonariuszy.
+
+### 2.
+
+W szczególnie uzasadnionych przypadkach Komendant Główny Straży Granicznej może zawiesić w czynnościach służbowych również funkcjonariuszy wymienionych w ust. 1 pkt 3.
+
+### 3.
+
+Okres zawieszenia w czynnościach służbowych przedłuża przełożony właściwy do zawieszenia w czynnościach służbowych. Jeżeli zawieszenie w czynnościach służbowych nastąpiło na podstawie ust. 2, okres zawieszenia w czynnościach służbowych przedłuża Komendant Główny Straży Granicznej.
+
+### Art. 43b.
+
+### 1.
+
+Zawieszenie w czynnościach służbowych oraz przedłużenie okresu zawieszenia w czynnościach służbowych następują w drodze decyzji.
+
+### 2.
+
+W decyzji o zawieszeniu w czynnościach służbowych oraz decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych zamieszcza się:
+
+### 1)
+
+oznaczenie przełożonego podejmującego decyzję;
+
+### 2)
+
+datę wydania;
+
+### 3)
+
+stopień, imię i nazwisko oraz stanowisko służbowe zawieszonego funkcjonariusza, którego decyzja dotyczy;
+
+### 4)
+
+powołanie podstawy prawnej;
+
+### 5)
+
+wskazanie okresu, na który następuje zawieszenie lub przedłużenie okresu zawieszenia;
+
+### 6)
+
+uzasadnienie faktyczne i prawne zawieszenia w czynnościach służbowych funkcjonariusza;
+
+### 7)
+
+pouczenie o przysługującym zawieszonemu funkcjonariuszowi środku odwoławczym;
+
+### 8)
+
+podpis z podaniem imienia i nazwiska oraz stanowiska przełożonego.
+
+### 3.
+
+Decyzję, o której mowa w ust. 2, doręcza się niezwłocznie zainteresowanemu funkcjonariuszowi, a kopię decyzji włącza się do jego akt osobowych.
+
+### Art. 43c.
+
+### 1.
+
+Od decyzji o zawieszeniu w czynnościach służbowych oraz od decyzji o przedłużeniu okresu zawieszenia w czynnościach służbowych funkcjonariuszowi przysługuje odwołanie do:
+
+### 1)
+
+ministra właściwego do spraw wewnętrznych, jeżeli decyzję wydał Komendant Główny Straży Granicznej;
+
+### 2)
+
+Komendanta Głównego Straży Granicznej, jeżeli decyzję wydał: Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej.
+
+### 2.
+
+Jeżeli decyzję o zawieszeniu w czynnościach służbowych lub decyzję o przedłużeniu okresu zawieszenia w czynnościach służbowych wydał minister właściwy do spraw wewnętrznych, odwołanie nie przysługuje. Odwołujący może zwrócić się z wnioskiem o ponowne rozpatrzenie sprawy do ministra właściwego do spraw wewnętrznych. Do wniosku o ponowne rozpatrzenie sprawy stosuje się przepisy dotyczące odwołań od decyzji.
+
+### 3.
+
+Wniesienie odwołania od decyzji o zawieszeniu w czynnościach służbowych lub od decyzji o jego przedłużeniu nie wstrzymuje wykonania tych decyzji.
+
+### 4.
+
+Odwołanie i wniosek o ponowne rozpatrzenie sprawy, o których mowa w ust. 1 i 2, wnosi się w terminie 14 dni od dnia doręczenia decyzji przełożonego, który wydał decyzję.
+
+### 5.
+
+Rozpatrzenie odwołania lub wniosku o ponowne rozpatrzenie sprawy następuje w drodze decyzji wydanej w terminie 7 dni od dnia otrzymania odwołania lub wniosku, wraz z aktami sprawy.
+
+### Art. 43d.
+
+### 1.
+
+Wygaśnięcie decyzji o zawieszeniu w czynnościach służbowych następuje w przypadku:
+
+### 1)
+
+upływu terminu określonego w decyzji o zawieszeniu w czynnościach służbowych, jeżeli zawieszenia nie przedłużono do czasu ukończenia postępowania karnego;
+
+### 2)
+
+prawomocnego zakończenia postępowania karnego lub dyscyplinarnego;
+
+### 3)
+
+zwolnienia funkcjonariusza ze służby;
+
+### 4)
+
+wygaśnięcia stosunku służbowego funkcjonariusza.
+
+### 2.
+
+Decyzję o zawieszeniu w czynnościach służbowych uchyla się w przypadku ustania przesłanek:
+
+### 1)
+
+wskazujących na celowość zawieszenia, o których mowa w art. 43 ust. 2;
+
+### 2)
+
+które były podstawą przedłużenia okresu zawieszenia.
+
+### 3.
+
+Do decyzji o uchyleniu zawieszenia w czynnościach służbowych stosuje się odpowiednio przepisy art. 43a ust. 1 i 2, art. 43b ust. 2 pkt 1-4 i 6-8 i ust. 3 oraz art. 43c.
+
+” ;
+
+### 9)
+
+w art. 46b:
+
+### a)
+
+w ust. 1 wyrazy „art. 5 § 1 lub 2” zastępuje się wyrazami „art. 5 § 1 pkt 1 lub 2”,
+
+### b)
+
+w ust. 2 zdanie drugie otrzymuje brzmienie: „ Przepisu art. 47 ust. 1 nie stosuje się. ” ;
+
+### 10)
+
+w art. 47:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zwolnienie funkcjonariusza ze służby na podstawie art. 45 ust. 1 pkt 1 i 2, ust. 2 pkt 1, 4, 6 i 7 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz zgłosi pisemne wystąpienie ze służby.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+ust. 2a i 2b otrzymują brzmienie:
+
+„
+
+### 2a.
+
+Do okresu choroby stanowiącego przyczynę zaprzestania służby, o którym mowa w ust. 1, wlicza się poprzednie okresy choroby stanowiące przyczynę zaprzestania służby, jeżeli przerwa między kolejnymi okresami nie przekracza 60 dni.
+
+### 2b.
+
+Wykonanie decyzji o zwolnieniu funkcjonariusza ze służby ulega wstrzymaniu do dnia następującego po ostatnim dniu choroby, nie dłużej jednak niż do dnia następującego po upływie 12 miesięcy, jeżeli zwolnienie następuje na podstawie, o której mowa w ust. 1.
+
+” ;
+
+### 11)
+
+art. 49 otrzymuje brzmienie:
+
+„
+
+### Art. 49.
+
+Funkcjonariuszy zwalniają ze służby właściwi przełożeni, o których mowa w art. 36 ust. 1.
+
+” ;
+
+### 12)
+
+w art. 52 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Na stopnie szeregowych, podoficerów oraz chorążych Straży Granicznej mianują właściwi przełożeni, o których mowa w art. 36 ust. 1.
+
+” ;
+
+### 13)
+
+art. 53 otrzymuje brzmienie:
+
+„
+
+### Art. 53.
+
+Na pierwszy stopień oficerski Straży Granicznej oraz na stopień generała brygady Straży Granicznej (kontradmirała Straży Granicznej) oraz generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) mianuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych. Na pozostałe stopnie oficerskie Straży Granicznej mianuje Komendanta Głównego Straży Granicznej, Komendanta BSWSG oraz ich zastępców minister właściwy do spraw wewnętrznych, a pozostałych funkcjonariuszy - Komendant Główny Straży Granicznej.
+
+” ;
+
+### 14)
+
+w art. 55 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na pierwszy stopień oficerski Straży Granicznej może być mianowany funkcjonariusz, który posiada wykształcenie wyższe, odbył przeszkolenie specjalistyczne oraz posiada pozytywną opinię służbową.
+
+” ;
+
+### 15)
+
+w art. 58:
+
+### a)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Funkcjonariusze zwolnieni ze służby mogą używać posiadanych stopni, o których mowa w art. 51, z dodaniem określenia: ” ,
+
+### b)
+
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Utrata stopnia wymienionego w art. 51 następuje w przypadku: ” ;
+
+### 16)
+
+art. 59 otrzymuje brzmienie:
+
+„
+
+### Art. 59.
+
+O obniżeniu lub utracie stopnia w przypadkach określonych w ustawie orzeka organ właściwy do mianowania na ten stopień, z tym że o obniżeniu lub utracie stopnia podporucznika Straży Granicznej orzeka minister właściwy do spraw wewnętrznych, a o obniżeniu lub utracie stopnia generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej) i generała brygady Straży Granicznej (kontradmirała Straży Granicznej) - Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.
+
+” ;
+
+### 17)
+
+art. 62 otrzymuje brzmienie:
+
+„
+
+### Art. 62.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb mianowania funkcjonariuszy na stopnie, podmioty właściwe do składania wniosków o mianowanie, terminy dokonywania mianowań, kwalifikacje i umiejętności szczególnie przydatne do pełnienia służby w Straży Granicznej uzasadniające możliwość mianowania na równorzędny stopień obowiązujący w Straży Granicznej osoby przyjmowanej do służby i posiadającej stopień wojskowy oraz sposób ogłaszania o utracie stopnia w przypadkach określonych w art. 58 ust. 3, a także wzory dokumentów wykorzystywanych w sprawach mianowań, uwzględniając konieczność zapewnienia sprawnego przebiegu mianowania na stopnie oraz prawidłowego jego dokumentowania.
+
+” ;
+
+### 18)
+
+art. 71a otrzymuje brzmienie:
+
+„
+
+### Art. 71a.
+
+### 1.
+
+Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+
+### 2.
+
+Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych Straży Granicznej, na wniosek funkcjonariusza, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 103 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+### 3.
+
+W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant Główny Straży Granicznej może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez Straż Graniczną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.
+
+” ;
+
+### 19)
+
+po art. 71a dodaje się art. 71b i art. 71c w brzmieniu:
+
+„
+
+### Art. 71b.
+
+### 1.
+
+Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+
+### 2.
+
+Ochronę prawną, o której mowa w ust. 1, zapewnia jednostka organizacyjna Straży Granicznej, w której funkcjonariusz pokrzywdzony przestępstwem pełni służbę, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia komenda właściwego miejscowo oddziału Straży Granicznej albo Komenda Główna Straży Granicznej.
+
+### 3.
+
+W przypadku braku możliwości zapewnienia ochrony prawnej przez jednostkę organizacyjną Straży Granicznej lub komendę, o której mowa w ust. 2, funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 103 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 71a ust. 1 i 3, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w ust. 3 oraz w art. 71a ust. 2, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.
+
+### Art. 71c.
+
+Ochrona prawna, o której mowa w art. 71a i art. 71b, przysługuje również funkcjonariuszowi oddelegowanemu do wykonywania zadań poza Straż Graniczną, na jego wniosek, w przypadku gdy postępowanie karne, o którym mowa w art. 71a ust. 1 lub art. 71b ust. 1, zostało wszczęte w związku z wykonywaniem przez niego czynności służbowych w ramach podjętej interwencji, w znaczeniu, o którym mowa w art. 11 ust. 2e.
+
+” ;
+
+### 20)
+
+art. 76 otrzymuje brzmienie:
+
+„
+
+### Art. 76.
+
+### 1.
+
+Funkcjonariuszowi w czasie pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub szczególne właściwości lub miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
+
+### 2.
+
+Wyżywienie w naturze przysługuje funkcjonariuszowi:
+
+### 1)
+
+pełniącemu służbę w systemie skoszarowanym;
+
+### 2)
+
+biorącemu udział w szkoleniach lub ćwiczeniach z zakresu systemu obronnego kraju, działań antyterrorystycznych lub zarządzania kryzysowego, jeżeli trwają one w sposób ciągły powyżej 8 godzin;
+
+### 3)
+
+biorącemu udział w akcjach zapobiegania skutkom klęsk żywiołowych lub usuwania ich skutków oraz w działaniach porządkowych podczas akcji ratowniczych przy likwidacji skutków klęsk żywiołowych, trwających ponad 8 godzin;
+
+### 4)
+
+który uczestniczy w innych działaniach niż określone w pkt 1-3, związanych z:
+
+### a)
+
+ochroną granicy państwowej, kontrolą ruchu granicznego oraz zapobieganiem i przeciwdziałaniem nielegalnej migracji,
+
+### b)
+
+podejmowaniem czynności służbowych, w tym wykonywaniem czynności na rzecz innych służb podległych ministrowi właściwemu do spraw wewnętrznych lub nadzorowanych przez niego
+
+- które uzasadniają przyznanie wyżywienia w naturze.
+
+### 3.
+
+Wyżywienie w naturze przysługuje funkcjonariuszowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących funkcjonariuszowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub właściwości lub miejsce jej pełnienia norma może zostać uzupełniona.
+
+### 4.
+
+Normy wyżywienia mogą być realizowane w formie suchego prowiantu lub gotowych pakietów żywnościowych, lub posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne, w sytuacji gdy zorganizowanie wyżywienia w postaci posiłków sporządzanych w punktach żywienia Straży Granicznej nie jest możliwe albo gdy rodzaj i warunki pełnionej służby wymagają tego rodzaju wyżywienia. W przypadku realizacji wyżywienia w formie gotowych pakietów żywnościowych lub w formie posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia.
+
+### 5.
+
+W przypadku wyżywienia w naturze należy się kierować zasadami racjonalnego żywienia, w granicach obowiązujących wartości energetycznych, odżywczych i pieniężnych produktów żywnościowych określonych dla poszczególnych norm wyżywienia.
+
+### 6.
+
+Funkcjonariusz otrzymuje świadczenie pieniężne w zamian za wyżywienie w przypadku:
+
+### 1)
+
+pełnienia w okresie od dnia 1 listopada do dnia 31 marca służby na wolnym powietrzu przez co najmniej 4 godziny dziennie albo
+
+### 2)
+
+gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego temu funkcjonariuszowi w naturze, albo
+
+### 3)
+
+braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze z powodów zdrowotnych udokumentowanych zaświadczeniem lekarskim.
+
+### 7.
+
+Świadczenie pieniężne w zamian za wyżywienie podwyższa się:
+
+### 1)
+
+gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego w naturze:
+
+### a)
+
+funkcjonariuszowi, który bierze udział w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze w ośrodkach szkolenia lub jednostkach organizacyjnych Straży Granicznej oraz na praktykach w jednostkach organizacyjnych Straży Granicznej i komórkach Komendy Głównej, połączonych z zakwaterowaniem, za czas faktycznego przebywania w miejscu zakwaterowania,
+
+### b)
+
+funkcjonariuszowi w służbie kandydackiej;
+
+### 2)
+
+funkcjonariuszowi służby kandydackiej przebywającemu na urlopie lub pełnodobowej przepustce;
+
+### 3)
+
+w przypadku skierowania funkcjonariusza zaliczonego do personelu latającego do wykonywania lotów poza miejsce pełnienia służby na czas powyżej 8 godzin.
+
+### 8.
+
+Funkcjonariusz, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie w naturze z kilku tytułów, otrzymuje wyżywienie w naturze albo świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu, według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których funkcjonariusz uczestniczy w uroczystym posiłku organizowanym w punkcie żywienia Straży Granicznej albo jest żywiony według normy, która przysługuje największej grupie funkcjonariuszy uprawnionych do wyżywienia w danym punkcie żywienia Straży Granicznej.
+
+### 9.
+
+Funkcjonariuszowi, który zrezygnował z przysługującego mu wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia, z wyjątkiem rezygnacji z wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim w sytuacji braku możliwości zapewnienia funkcjonariuszowi bezpłatnie wyżywienia w naturze.
+
+### 10.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje norm wyżywienia oraz ich wartość pieniężną,
+
+### 2)
+
+średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
+
+### 3)
+
+przypadki przyznawania poszczególnych norm wyżywienia,
+
+### 4)
+
+przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
+
+### 5)
+
+wartości świadczenia pieniężnego w zamian za wyżywienie oraz wymiar jego podwyższania, a także jednostkę organizacyjną Straży Granicznej właściwą do jego wypłacania i terminy jego wypłaty
+
+- uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu funkcjonariuszom wyżywienia w naturze względem realnej wartości wyżywienia, przyporządkowanie norm wyżywienia do przypadków, w których funkcjonariuszowi przysługuje wyżywienie w naturze, wskazanych w ust. 2, rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.
+
+” ;
+
+### 21)
+
+po art. 76 dodaje się art. 76a w brzmieniu:
+
+„
+
+### Art. 76a.
+
+Napoje w naturze, w ilości zaspokajającej potrzeby funkcjonariusza, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.
+
+” ;
+
+### 22)
+
+art. 86 otrzymuje brzmienie:
+
+„
+
+### Art. 86.
+
+### 1.
+
+Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych. Przez dni robocze rozumie się dni od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
+
+### 2.
+
+Funkcjonariusz uzyskuje prawo do pierwszego urlopu z upływem 6 miesięcy służby w wymiarze połowy urlopu przysługującego po roku służby.
+
+### 3.
+
+Prawo do urlopu w pełnym wymiarze funkcjonariusz nabywa z upływem roku służby. Do tego urlopu wlicza się urlop, o którym mowa w ust. 2.
+
+### 4.
+
+Funkcjonariuszowi, który przed przyjęciem do służby w Straży Granicznej był zatrudniony lub pozostawał w stosunku służbowym, zalicza się okres tego zatrudnienia lub służby do okresu, od którego zależy prawo do pierwszego urlopu wypoczynkowego, według zasad określonych w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy lub odrębnych przepisach.
+
+### 5.
+
+Funkcjonariuszowi, który przed przyjęciem do służby w Straży Granicznej wykorzystał urlop wypoczynkowy za dany rok albo otrzymał ekwiwalent pieniężny za niewykorzystany urlop, nie przysługuje urlop wypoczynkowy w roku przyjęcia do służby w Straży Granicznej. Prawo do urlopu powstaje z dniem 1 stycznia następnego roku kalendarzowego.
+
+### 6.
+
+Funkcjonariuszowi, który:
+
+### 1)
+
+przed przyjęciem do służby w Straży Granicznej wykorzystał urlop wypoczynkowy za dany rok w wymiarze proporcjonalnym do okresu przepracowanego u dotychczasowego pracodawcy albo otrzymał w takim wymiarze ekwiwalent pieniężny za niewykorzystany urlop, albo
+
+### 2)
+
+podejmuje służbę w Straży Granicznej w roku kalendarzowym innym niż rok, w którym ustał jego poprzedni stosunek służbowy lub stosunek pracy
+
+- przysługuje urlop wypoczynkowy w roku przyjęcia do służby w Straży Granicznej w wymiarze proporcjonalnym do okresu służby w Straży Granicznej w danym roku.
+
+### 7.
+
+Łączny wymiar urlopu wypoczynkowego funkcjonariusza, o którym mowa w ust. 6, w roku kalendarzowym w którym rozpoczął służbę w Straży Granicznej, nie może być wyższy niż 26 dni roboczych.
+
+### 8.
+
+W przypadku, o którym mowa w ust. 6, urlopu wypoczynkowego udziela się nie wcześniej niż po upływie trzech miesięcy służby w Straży Granicznej.
+
+” ;
+
+### 23)
+
+po art. 86 dodaje się art. 86a-86c w brzmieniu:
+
+„
+
+### Art. 86a.
+
+Funkcjonariuszowi, na jego wniosek, udziela się urlopu wypoczynkowego bezpośrednio po urlopie macierzyńskim albo urlopie na warunkach urlopu macierzyńskiego, urlopie ojcowskim lub po urlopie rodzicielskim.
+
+### Art. 86b.
+
+Funkcjonariuszowi skierowanemu do szkoły, na przeszkolenie lub na studia wyższe albo podyplomowe w kraju albo za granicą udziela się urlopu wypoczynkowego za dany rok kalendarzowy przed tym skierowaniem, jeżeli czas trwania nauki uniemożliwiałby udzielenie urlopu w trakcie nauki lub po jej zakończeniu w tym roku kalendarzowym lub w ciągu pierwszych 3 miesięcy następnego roku.
+
+### Art. 86c.
+
+### 1.
+
+Urlopu wypoczynkowego udziela:
+
+### 1)
+
+minister właściwy do spraw wewnętrznych lub upoważnione przez niego osoby - Komendantowi Głównemu Straży Granicznej;
+
+### 2)
+
+Komendant Główny Straży Granicznej lub upoważnione przez niego osoby - zastępcom Komendanta Głównego Straży Granicznej, Komendantowi BSWSG, komendantom oddziałów Straży Granicznej, komendantom ośrodków szkolenia Straży Granicznej, komendantom ośrodków Straży Granicznej, kierownikom komórek organizacyjnych Komendy Głównej oraz innym podległym bezpośrednio funkcjonariuszom;
+
+### 3)
+
+Komendant BSWSG, komendanci oddziałów Straży Granicznej, komendanci ośrodków szkolenia Straży Granicznej, komendanci ośrodków Straży Granicznej, kierownicy komórek organizacyjnych Komendy Głównej lub upoważnione przez nich osoby - podległym funkcjonariuszom.
+
+### 2.
+
+Urlopu wypoczynkowego udziela się w miarę możliwości zgodnie z planem urlopów.
+
+### 3.
+
+Urlop wypoczynkowy może być wykorzystany, na wniosek funkcjonariusza, w częściach, z tym że co najmniej jedna część urlopu obejmuje nie mniej niż 14 kolejnych dni kalendarzowych, wliczając do tego okresu również dni wolne od służby przypadające w okresie urlopu oraz bezpośrednio przed jego rozpoczęciem lub po jego zakończeniu.
+
+” ;
+
+### 24)
+
+w art. 87 ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Zgodę na odwołanie funkcjonariusza z urlopu z ważnych względów służbowych oraz na wstrzymanie z tego powodu udzielenia urlopu w całości lub w części wyraża właściwy przełożony, o którym mowa w art. 36 ust. 1.
+
+### 4.
+
+Funkcjonariuszowi, który nie wykorzystał urlopu w danym roku kalendarzowym, urlopu tego należy udzielić w ciągu pierwszych 9 miesięcy następnego roku.
+
+” ;
+
+### 25)
+
+w art. 87a ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariuszowi posiadającemu status weterana poszkodowanego przysługuje prawo do corocznego dodatkowego urlopu wypoczynkowego w wymiarze 5 dni roboczych.
+
+### 2.
+
+Prawo do urlopu, o którym mowa w ust. 1, nie przysługuje funkcjonariuszowi posiadającemu status weterana poszkodowanego, uprawnionemu do urlopu wypoczynkowego i urlopów dodatkowych, z wyłączeniem urlopu dodatkowego z tytułu pełnienia służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, w wymiarze przekraczającym 26 dni roboczych.
+
+” ;
+
+### 26)
+
+po art. 87a dodaje się art. 87b-87f w brzmieniu:
+
+„
+
+### Art. 87b.
+
+### 1.
+
+Funkcjonariuszowi przysługuje coroczny płatny urlop dodatkowy ze względu na staż służby w wymiarze:
+
+### 1)
+
+5 dni roboczych - dla funkcjonariusza posiadającego 15-letni staż służby;
+
+### 2)
+
+9 dni roboczych - dla funkcjonariusza posiadającego 20-letni staż służby;
+
+### 3)
+
+13 dni roboczych - dla funkcjonariusza posiadającego 25-letni staż służby.
+
+### 2.
+
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+### 1)
+
+służby w Straży Granicznej;
+
+### 2)
+
+służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+
+### 3)
+
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2020 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2020/723/text.html));
+
+### 4)
+
+pracy zaliczonej do wysługi lat w Straży Granicznej na podstawie art. 151 ust. 5.
+
+### 3.
+
+Funkcjonariuszowi przysługuje coroczny płatny urlop dodatkowy ze względu na osiągnięty wiek w wymiarze:
+
+### 1)
+
+5 dni roboczych - po ukończeniu 40 lat życia;
+
+### 2)
+
+9 dni roboczych - po ukończeniu 45 lat życia;
+
+### 3)
+
+13 dni roboczych - po ukończeniu 55 lat życia.
+
+### 4.
+
+Funkcjonariuszowi pełniącemu służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia przysługuje, w zależności od stopnia szkodliwości, coroczny płatny urlop dodatkowy w wymiarze:
+
+### 1)
+
+5 dni roboczych - przy pierwszym stopniu szkodliwości;
+
+### 2)
+
+7 dni roboczych - przy drugim stopniu szkodliwości;
+
+### 3)
+
+9 dni roboczych - przy trzecim stopniu szkodliwości;
+
+### 4)
+
+13 dni roboczych - przy czwartym stopniu szkodliwości.
+
+### 5.
+
+Urlop, o którym mowa w ust. 4, przyznaje się funkcjonariuszowi z dniem upływu roku nieprzerwanego pełnienia służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia.
+
+### 6.
+
+Przerwy w pełnieniu służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia z powodu choroby, urlopu, zwolnienia z zajęć służbowych, a także wynikające z potrzeb służbowych, trwające łącznie nie dłużej niż 90 dni w ciągu roku, są wliczane do okresu, o którym mowa w ust. 5. Urlop, o którym mowa w ust. 4, traktuje się jako równorzędny z pełnieniem służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, bez względu na jego wymiar.
+
+### 7.
+
+Jeżeli od dnia przyznania funkcjonariuszowi poprzedniego urlopu, o którym mowa w ust. 4, pełnił on nieprzerwanie służbę w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia, kolejny urlop dodatkowy przyznaje się na dzień 1 stycznia następnego roku kalendarzowego.
+
+### 8.
+
+Funkcjonariuszowi pełniącemu służbę na stanowisku, na którym występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia uzasadniające przyznanie urlopu, o którym mowa w ust. 4, w różnym wymiarze, przyznaje się jeden urlop w wymiarze korzystniejszym.
+
+### Art. 87c.
+
+Urlopy, o których mowa w art. 87b ust. 1 i 3, mogą być wykorzystane na wniosek funkcjonariusza w dwóch częściach, z wyjątkiem tych urlopów, których wymiar wynosi 5 dni.
+
+### Art. 87d.
+
+W przypadku zbiegu uprawnień do corocznego płatnego urlopu dodatkowego z różnych tytułów, z wyjątkiem urlopu, o którym mowa w art. 87b ust. 4, funkcjonariuszowi przyznaje się jeden urlop w wymiarze najkorzystniejszym.
+
+### Art. 87e.
+
+Funkcjonariuszowi, który wykorzystał coroczny płatny urlop dodatkowy przysługujący za dany rok kalendarzowy, a następnie nabył w ciągu tego roku prawo do tego urlopu w wyższym wymiarze, przysługuje urlop uzupełniający.
+
+### Art. 87f.
+
+Do urlopów, o których mowa w art. 87b ust. 1, 3 i 4, stosuje się odpowiednio przepisy art. 86 ust. 1 zdanie drugie i ust. 8, art. 86a, art. 86b, art. 86c ust. 1 i 2 oraz art. 87.
+
+” ;
+
+### 27)
+
+uchyla się art. 88;
+
+### 28)
+
+po art. 89 dodaje się art. 89a-89g w brzmieniu:
+
+„
+
+### Art. 89a.
+
+### 1.
+
+Właściwy przełożony, o którym mowa w art. 36 ust. 1, udziela funkcjonariuszowi płatnego urlopu zdrowotnego w celu przeprowadzenia zaleconego leczenia w wymiarze nieprzekraczającym jednorazowo 6 miesięcy. Łączny wymiar urlopu w okresie całej służby nie może przekroczyć 18 miesięcy.
+
+### 2.
+
+Urlopu, o którym mowa w ust. 1, udziela się na podstawie orzeczenia komisji lekarskiej podległej ministrowi właściwemu do spraw wewnętrznych.
+
+### 3.
+
+Do komisji lekarskiej, o której mowa w ust. 2, funkcjonariusza kieruje właściwy przełożony, o którym mowa w art. 36 ust. 1, na wniosek lekarza lub tego funkcjonariusza.
+
+### Art. 89b.
+
+### 1.
+
+Płatnego urlopu okolicznościowego właściwy przełożony, o którym mowa w art. 36 ust. 1, udziela funkcjonariuszowi przenoszonemu z urzędu do pełnienia służby w innej miejscowości, jeżeli z przeniesieniem wiąże się zmiana jego miejsca zamieszkania.
+
+### 2.
+
+Urlopu, o którym mowa w ust. 1, udziela się w wymiarze od 3 do 7 dni roboczych, w zależności od położenia nowego miejsca zamieszkania, warunków rodzinnych i innych okoliczności mających bezpośredni wpływ na warunki przeniesienia. Na wniosek funkcjonariusza urlop może być wykorzystany w częściach.
+
+### Art. 89c.
+
+### 1.
+
+Urlopu bezpłatnego z ważnych przyczyn może udzielić, na wniosek funkcjonariusza, właściwy przełożony, o którym mowa w art. 36 ust. 1, jeżeli nie zakłóci to toku służby.
+
+### 2.
+
+Przy udzielaniu urlopu bezpłatnego dłuższego niż 3 miesiące właściwy przełożony, o którym mowa w art. 36 ust. 1, udzielając urlopu, może przewidzieć dopuszczalność odwołania funkcjonariusza z urlopu bezpłatnego z ważnych względów służbowych w każdym czasie, po uprzednim poinformowaniu funkcjonariusza o tym fakcie co najmniej 14 dni przed terminem przewidzianego podjęcia służby.
+
+### Art. 89d.
+
+### 1.
+
+Funkcjonariuszowi, który wyjeżdża za granicę wspólnie z małżonkiem przeniesionym do pełnienia służby albo pracy w przedstawicielstwie dyplomatycznym, misji dyplomatycznej, urzędzie konsularnym, organach i instytucjach Unii Europejskiej lub instytucie polskim, właściwy przełożony, o którym mowa w art. 36 ust. 1, udziela, na wniosek tego funkcjonariusza, urlopu bezpłatnego na czas trwania tej służby albo pracy.
+
+### 2.
+
+Funkcjonariusz jest obowiązany zgłosić się do służby w terminie jednego miesiąca od dnia powrotu z zagranicy po zakończeniu służby lub pracy za granicą przez jego małżonka. Funkcjonariusz ten obejmuje stanowisko służbowe zajmowane przed urlopem lub inne stanowisko równorzędne.
+
+### Art. 89e.
+
+Urlopów, o których mowa w art. 89a ust. 1, art. 89c ust. 1 i art. 89d ust. 1, udziela się w drodze rozkazu personalnego.
+
+### Art. 89f.
+
+### 1.
+
+W przypadku korzystania przez funkcjonariusza z urlopu bezpłatnego trwającego co najmniej jeden miesiąc urlop wypoczynkowy i coroczny płatny urlop dodatkowy ulegają skróceniu o 1/12 za każdy miesiąc urlopu bezpłatnego, nie więcej jednak niż za 12 miesięcy.
+
+### 2.
+
+W przypadku korzystania przez funkcjonariusza w ciągu roku kalendarzowego z kilku urlopów bezpłatnych urlopy te sumuje się.
+
+### 3.
+
+Przy ustalaniu wymiaru urlopu wypoczynkowego i corocznego płatnego urlopu dodatkowego niepełny dzień urlopu zaokrągla się w górę do pełnego dnia.
+
+### Art. 89g.
+
+### 1.
+
+W przypadku funkcjonariusza zawieszonego w czynnościach służbowych, w stosunku do którego postępowanie karne lub dyscyplinarne nie zostało zakończone w sposób, o którym mowa w art. 128 ust. 3, urlop wypoczynkowy i coroczny płatny urlop dodatkowy przysługuje w wymiarze proporcjonalnym do okresu służby pełnionej w roku zawieszenia w czynnościach służbowych oraz ustania tego zawieszenia.
+
+### 2.
+
+Do ustalania wymiaru urlopów, o których mowa w ust. 1, stosuje się odpowiednio przepis art. 89f, z tym że w przypadku zawieszenia w czynnościach służbowych trwającego krócej niż jeden miesiąc urlop wypoczynkowy ulega skróceniu o jeden dzień roboczy za każde dwa tygodnie zawieszenia w czynnościach służbowych.
+
+” ;
+
+### 29)
+
+art. 90 otrzymuje brzmienie:
+
+„
+
+### Art. 90.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki i sposób udzielania funkcjonariuszowi urlopu wypoczynkowego oraz urlopów, o których mowa w art. 87b ust. 1, 3 i 4, w tym ustalania planu urlopów oraz przełożonych właściwych do jego ustalania, kierując się koniecznością zagwarantowania przysługującego funkcjonariuszowi prawa do wypoczynku oraz zapewnienia właściwej organizacji służby;
+
+### 2)
+
+warunki szczególnie uciążliwe lub szkodliwe dla zdrowia dla każdego stopnia szkodliwości, o którym mowa w art. 87b ust. 4, oraz podmioty dokonujące oceny tych warunków, uwzględniając szczególne właściwości oraz miejsca pełnienia służby.
+
+” ;
+
+### 30)
+
+w art. 91:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Funkcjonariuszowi mogą być udzielane wyróżnienia: ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) krótkoterminowy urlop wypoczynkowy w wymiarze do 10 dni roboczych; ” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Wyróżnień, o których mowa w ust. 1, można udzielić w szczególności za:
+
+### 1)
+
+wzorowe wywiązywanie się z obowiązków służbowych i przejawianie inicjatywy na dotychczas zajmowanym stanowisku służbowym;
+
+### 2)
+
+wykazanie się szczególnymi osiągnięciami i inicjatywą w służbie;
+
+### 3)
+
+bardzo dobre lub wyróżniające wykonanie zadania służbowego;
+
+### 4)
+
+wykonanie zadania w szczególnie trudnych warunkach lub wymagającego znacznego nakładu pracy;
+
+### 5)
+
+wykonanie dodatkowych zadań wykraczających poza zwykłe obowiązki służbowe;
+
+### 6)
+
+dokonanie czynu świadczącego o wyjątkowej odwadze;
+
+### 7)
+
+uzyskanie bardzo dobrych lub wyróżniających wyników w szkoleniu lub nauce w szkołach, o których mowa w art. 54 ust. 1.
+
+### 1b.
+
+Wyróżnień, o których mowa w ust. 1, nie udziela się funkcjonariuszowi:
+
+### 1)
+
+przeciwko któremu jest prowadzone postępowanie karne lub dyscyplinarne;
+
+### 2)
+
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+
+### 3)
+
+skazanemu prawomocnym orzeczeniem sądu za przestępstwo lub wykroczenie - przez okres 1 roku od dnia uprawomocnienia się orzeczenia;
+
+### 4)
+
+skazanemu prawomocnym wyrokiem sądu - w czasie warunkowego zawieszenia wykonania kary;
+
+### 5)
+
+w stosunku do którego postępowanie karne zostało warunkowo umorzone - w okresie próby.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb udzielania funkcjonariuszowi wyróżnień, o których mowa w ust. 1 pkt 1-4 i 8, podmioty właściwe w tych sprawach, sposób i terminy przyznawania wyróżnień oraz wzory dokumentów wykorzystywanych w sprawach wyróżnień, uwzględniając zakres uprawnień przełożonych do udzielania wyróżnień oraz formę udzielania wyróżnień.
+
+” ;
+
+### 31)
+
+w art. 112 w ust. 1:
+
+### a)
+
+po pkt 5a dodaje się pkt 5b w brzmieniu:
+
+„
+
+### 5b)
+
+świadczenie motywacyjne;
+
+” ,
+
+### b)
+
+w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+świadczenie pieniężne w zamian za wyżywienie.
+
+” ;
+
+### 32)
+
+w art. 113a:
+
+### a)
+
+w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+popełnił czyn stanowiący przewinienie dyscyplinarne lub nie przestrzegał zasad etyki zawodowej, jeżeli za ten czyn lub to nieprzestrzeganie prawomocnym orzeczeniem wymierzono mu karę dyscyplinarną nie surowszą niż nagana;
+
+” ,
+
+### b)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Funkcjonariuszowi, o którym mowa w ust. 9, wobec którego toczy się postępowanie karne lub dyscyplinarne, nagrodę roczną wypłaca się po zakończeniu tego postępowania. Przepisy ust. 4 i 5 stosuje się.
+
+” ;
+
+### 33)
+
+po art. 117c dodaje się art. 117d w brzmieniu:
+
+„
+
+### Art. 117d.
+
+### 1.
+
+Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
+
+### 1)
+
+25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
+
+### 2)
+
+28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
+
+### 2.
+
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+### 1)
+
+służby w Straży Granicznej;
+
+### 2)
+
+służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+
+### 3)
+
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+
+### 3.
+
+Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa w art. 36 ust. 1, wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+
+### 4.
+
+Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 39, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi Głównemu Straży Granicznej i jego zastępcom oraz Komendantowi BSWSG i jego zastępcom.
+
+### 6.
+
+Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+
+### 1)
+
+który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 42 ust. 2 pkt 2 albo 3 albo art. 45 ust. 1 pkt 2 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+
+### 2)
+
+przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+
+### 3)
+
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+
+### 4)
+
+skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+
+### 7.
+
+Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+
+### 8.
+
+Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje odwołanie do Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw wewnętrznych lub Komendanta Głównego Straży Granicznej przysługuje w takim samym terminie wniosek o ponowne rozpatrzenie sprawy.
+
+### 9.
+
+Świadczenia motywacyjnego nie wypłaca się za okres:
+
+### 1)
+
+korzystania z urlopu bezpłatnego,
+
+### 2)
+
+przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 130 ust. 1-3,
+
+### 3)
+
+zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
+
+### 4)
+
+zwolnienia z zajęć służbowych, o którym mowa w art. 125b ust. 2 pkt 1 i 3-5,
+
+### 5)
+
+innej nieobecności trwającej co najmniej jeden miesiąc
+
+- proporcjonalnie do tego okresu.
+
+### 10.
+
+Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+
+### 11.
+
+Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+
+### 12.
+
+Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+” ;
+
+### 34)
+
+w art. 118 uchyla się ust. 4;
+
+### 35)
+
+po art. 119 dodaje się art. 119a w brzmieniu:
+
+„
+
+### Art. 119a.
+
+### 1.
+
+Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego lub dodatkowego ustala się w wysokości 1/21 części miesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym.
+
+### 2.
+
+Ekwiwalent, o którym mowa w ust. 1, wypłaca się w ostatnim dniu pełnienia służby, a w przypadku śmierci albo zaginięcia funkcjonariusza - niezwłocznie po wydaniu rozkazu personalnego o wygaśnięciu stosunku służbowego.
+
+” ;
+
+### 36)
+
+w art. 128 w ust. 2 dodaje się zdanie drugie w brzmieniu: „ Do ustalania wymiaru urlopów stosuje się przepis art. 89g. ” ;
+
+### 37)
+
+art. 134 i art. 134a otrzymują brzmienie:
+
+„
+
+### Art. 134.
+
+Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej.
+
+### Art. 134a.
+
+### 1.
+
+Funkcjonariusz za czyn stanowiący przewinienie dyscyplinarne, wypełniający jednocześnie znamiona przestępstwa lub wykroczenia albo przestępstwa skarbowego lub wykroczenia skarbowego, podlega odpowiedzialności dyscyplinarnej niezależnie od odpowiedzialności karnej.
+
+### 2.
+
+W przypadku czynu stanowiącego przewinienie dyscyplinarne, wypełniającego jednocześnie znamiona wykroczenia lub wykroczenia skarbowego, w przypadku czynu mniejszej wagi lub ukarania grzywną przełożony dyscyplinarny może nie wszczynać postępowania dyscyplinarnego, a wszczęte postępowanie umorzyć.
+
+” ;
+
+### 38)
+
+po art. 134a dodaje się art. 134aa w brzmieniu:
+
+„
+
+### Art. 134aa.
+
+### 1.
+
+W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny może odstąpić od wszczęcia postępowania dyscyplinarnego i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki rozmowę dyscyplinującą.
+
+### 2.
+
+Rozmowę dyscyplinującą, o której mowa w ust. 1, można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania dyscyplinarnego i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
+
+### 3.
+
+Notatkę, o której mowa w ust. 1, włącza się do akt osobowych na okres 5 miesięcy.
+
+” ;
+
+### 39)
+
+w art. 135 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Naruszenie dyscypliny służbowej stanowi czyn funkcjonariusza polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków wynikających z przepisów prawa, w tym z rozkazów i poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.
+
+### 2.
+
+Naruszeniem dyscypliny służbowej jest w szczególności:
+
+### 1)
+
+niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także z przepisów prawa;
+
+### 2)
+
+odmowa wykonania lub niewykonanie rozkazu lub polecenia, z zastrzeżeniem przypadku określonego w art. 63 ust. 2;
+
+### 3)
+
+zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
+
+### 4)
+
+niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa;
+
+### 5)
+
+świadome wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie;
+
+### 6)
+
+nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;
+
+### 7)
+
+postępowanie przełożonego w sposób przyczyniający się do rozluźnienia dyscypliny służbowej wśród podległych mu funkcjonariuszy;
+
+### 8)
+
+porzucenie służby;
+
+### 9)
+
+samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu;
+
+### 10)
+
+stawienie się do służby w stanie nietrzeźwości albo po użyciu alkoholu lub po użyciu podobnie działającego środka, pełnienie jej w takim stanie, a także spożywanie alkoholu lub używanie podobnie działającego środka w czasie służby;
+
+### 11)
+
+umyślne naruszenie dóbr osobistych innego funkcjonariusza;
+
+### 12)
+
+utrata służbowej broni palnej, amunicji lub legitymacji służbowej;
+
+### 13)
+
+utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę innej osobie lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego;
+
+### 14)
+
+ujawnienie informacji pozostającej w związku z wykonywaniem czynności służbowych, jeżeli spowodowało to lub mogło spowodować szkodę służbie.
+
+” ;
+
+### 40)
+
+po art. 135 dodaje się art. 135a-135g w brzmieniu:
+
+„
+
+### Art. 135a.
+
+Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
+
+### 1)
+
+ma zamiar jego popełnienia, to jest chce je popełnić albo, przewidując możliwość jego popełnienia, na to się godzi;
+
+### 2)
+
+nie ma zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
+
+### Art. 135b.
+
+### 1.
+
+Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku, gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+
+### 2.
+
+Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił czyn stanowiący przewinienie dyscyplinarne, nakłania go do tego.
+
+### 3.
+
+Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił czyn stanowiący przewinienie dyscyplinarne lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+
+### 4.
+
+Każdy z funkcjonariuszy, o których mowa w ust. 1-3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+
+### 5.
+
+Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+
+### Art. 135c.
+
+Dwa lub więcej zachowań, podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.
+
+### Art. 135d.
+
+### 1.
+
+Władzę dyscyplinarną w Straży Granicznej polegającą na prawie do wszczynania postępowań dyscyplinarnych i rozstrzygania spraw dyscyplinarnych sprawują:
+
+### 1)
+
+minister właściwy do spraw wewnętrznych,
+
+### 2)
+
+Komendant Główny Straży Granicznej,
+
+### 3)
+
+Komendant BSWSG,
+
+### 4)
+
+komendant oddziału Straży Granicznej,
+
+### 5)
+
+komendant ośrodka szkolenia Straży Granicznej,
+
+### 6)
+
+komendant ośrodka Straży Granicznej,
+
+### 7)
+
+dowódca kontyngentu Straży Granicznej wydzielonego do realizacji zadań poza granicami państwa, zwany dalej „dowódcą kontyngentu”
+
+- zwani dalej „przełożonymi dyscyplinarnymi”.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych sprawuje władzę dyscyplinarną wobec Komendanta Głównego Straży Granicznej oraz Komendanta BSWSG i jego zastępców.
+
+### 3.
+
+Komendant Główny Straży Granicznej sprawuje władzę dyscyplinarną wobec wszystkich funkcjonariuszy.
+
+### 4.
+
+Przełożeni dyscyplinarni sprawują władzę dyscyplinarną wobec funkcjonariuszy pełniących służbę w podległych im jednostkach organizacyjnych Straży Granicznej, z zastrzeżeniem art. 135f ust. 1, a w przypadku dowódcy kontyngentu - w stosunku do funkcjonariuszy wchodzących w skład kontyngentu.
+
+### 5.
+
+Komendant Główny Straży Granicznej może do dnia wydania postanowienia o zamknięciu postępowania dowodowego wszczętego przez innego przełożonego dyscyplinarnego, z wyjątkiem postępowania dyscyplinarnego wszczętego przez ministra właściwego do spraw wewnętrznych, jeżeli uzna to za uzasadnione okolicznościami sprawy:
+
+### 1)
+
+przejąć prowadzenie postępowania dyscyplinarnego albo
+
+### 2)
+
+przekazać prowadzenie postępowania dyscyplinarnego innemu przełożonemu dyscyplinarnemu.
+
+### 6.
+
+Przełożony dyscyplinarny, któremu przekazano prowadzenie postępowania dyscyplinarnego, sprawuje władzę dyscyplinarną wobec funkcjonariusza, przeciwko któremu jest prowadzone postępowanie dyscyplinarne, wyłącznie w zakresie przekazanej sprawy.
+
+### Art. 135e.
+
+### 1.
+
+Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
+
+### 2.
+
+Funkcjonariusz, który w zastępstwie wykonuje obowiązki na danym stanowisku służbowym, sprawuje władzę dyscyplinarną przysługującą osobie zastępowanej.
+
+### Art. 135f.
+
+### 1.
+
+Funkcjonariusz delegowany do czasowego pełnienia służby lub funkcjonariusz, któremu powierzono pełnienie obowiązków służbowych w innej jednostce organizacyjnej Straży Granicznej albo którego skierowano na przeszkolenie lub naukę w jednostce organizacyjnej Straży Granicznej, podlega władzy dyscyplinarnej przełożonego dyscyplinarnego w miejscu czasowego delegowania, powierzenia obowiązków, nauki lub szkolenia.
+
+### 2.
+
+Funkcjonariusz przeniesiony w toku postępowania dyscyplinarnego do pełnienia służby w innej jednostce organizacyjnej Straży Granicznej z dniem przeniesienia podlega władzy dyscyplinarnej przełożonego dyscyplinarnego w nowym miejscu pełnienia służby.
+
+### 3.
+
+Funkcjonariusz pozostający w dyspozycji podlega władzy dyscyplinarnej przełożonego, w którego dyspozycji pozostaje.
+
+### 4.
+
+Funkcjonariusz przebywający na urlopach związanych z rodzicielstwem, urlopie bezpłatnym lub oddelegowany do wykonywania zadań poza Strażą Graniczną podlega władzy dyscyplinarnej przełożonego dyscyplinarnego, któremu podlegał przed udzieleniem mu urlopu lub oddelegowaniem, z zastrzeżeniem art. 11zg ust. 1 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+
+### 5.
+
+Przepis ust. 2 stosuje się odpowiednio do funkcjonariusza po zakończeniu oddelegowania do wykonywania zadań poza Strażą Graniczną, wobec którego w okresie tego oddelegowania zostało wszczęte i niezakończone postępowanie dyscyplinarne.
+
+### Art. 135g.
+
+Spory o właściwość w sprawach dyscyplinarnych między przełożonymi dyscyplinarnymi, o których mowa w art. 135d ust. 1 pkt 3-7, rozstrzyga Komendant Główny Straży Granicznej.
+
+” ;
+
+### 41)
+
+w art. 136:
+
+### a)
+
+w ust. 1 uchyla się pkt 3 i 4,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Karę obniżenia stopnia można wymierzyć obok kary wyznaczenia na niższe stanowisko, ostrzeżenia o niepełnej przydatności do służby oraz wydalenia ze służby.
+
+” ;
+
+### 42)
+
+uchyla się art. 136a;
+
+### 43)
+
+po art. 136a dodaje się art. 136aa w brzmieniu:
+
+„
+
+### Art. 136aa.
+
+### 1.
+
+Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+
+### 2.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów ocenianych swobodnie z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
+
+### 3.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.
+
+” ;
+
+### 44)
+
+art. 136b otrzymuje brzmienie:
+
+„
+
+### Art. 136b.
+
+Kary dyscyplinarne wymierza:
+
+### 1)
+
+minister właściwy do spraw wewnętrznych - w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1;
+
+### 2)
+
+Komendant Główny Straży Granicznej, Komendant BSWSG, komendant oddziału Straży Granicznej, komendant ośrodka szkolenia Straży Granicznej i komendant ośrodka Straży Granicznej - w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1 i 3;
+
+### 3)
+
+dowódca kontyngentu - w zakresie kar dyscyplinarnych, o których mowa w art. 136 ust. 1 pkt 1 i 2.
+
+” ;
+
+### 45)
+
+po art. 136b dodaje się art. 136ba-136bzi w brzmieniu:
+
+„
+
+### Art. 136ba.
+
+### 1.
+
+Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo osoby sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających.
+
+### 2.
+
+Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+### 3.
+
+Postanowienie, o którym mowa w ust. 2, zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+
+### 2)
+
+datę i miejsce wydania;
+
+### 3)
+
+podstawę prawną;
+
+### 4)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+
+### 5)
+
+określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+
+### 6)
+
+wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+
+### 7)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+
+### 4.
+
+Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 3 pkt 5.
+
+### 5.
+
+Czynności wyjaśniające kończy się w terminie 30 dni od dnia wydania postanowienia, a w szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 2.
+
+### 6.
+
+W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+### 7.
+
+Z przeprowadzonych czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+
+### 8.
+
+W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
+
+### Art. 136bb.
+
+### 1.
+
+Postępowanie dyscyplinarne wszczyna się niezwłocznie, jeżeli zachodzi uzasadnione podejrzenie popełnienia przez funkcjonariusza czynu stanowiącego przewinienie dyscyplinarne.
+
+### 2.
+
+Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego. Funkcjonariusza, w przypadku którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.
+
+### 3.
+
+Celem postępowania dyscyplinarnego jest w szczególności:
+
+### 1)
+
+ustalenie, czy czyn, którego popełnienie zarzucono obwinionemu, został popełniony i czy obwiniony jest jego sprawcą;
+
+### 2)
+
+wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
+
+### 3)
+
+zebranie i utrwalenie dowodów w sprawie.
+
+### 4.
+
+Postępowanie dyscyplinarne wszczyna przełożony dyscyplinarny:
+
+### 1)
+
+z urzędu;
+
+### 2)
+
+na wniosek przełożonego funkcjonariusza;
+
+### 3)
+
+na polecenie przełożonego, któremu podlega służbowo przełożony dyscyplinarny;
+
+### 4)
+
+na żądanie sądu lub prokuratora;
+
+### 5)
+
+wskutek wniesienia sprzeciwu, o którym mowa w art. 136bf ust. 1.
+
+### 5.
+
+Przełożony dyscyplinarny może wszcząć postępowanie dyscyplinarne także na wniosek innego zainteresowanego organu, instytucji lub pokrzywdzonego.
+
+### 6.
+
+Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone zachowaniem funkcjonariusza stanowiącym przewinienie dyscyplinarne.
+
+### Art. 136bc.
+
+### 1.
+
+Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego.
+
+### 2.
+
+Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.
+
+### 3.
+
+Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 2 lat od dnia popełnienia przewinienia dyscyplinarnego.
+
+### 4.
+
+Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminu, o którym mowa w ust. 3.
+
+### 5.
+
+W przypadku gdy przewinienie dyscyplinarne stanowi jednocześnie przestępstwo lub wykroczenie albo przestępstwo skarbowe lub wykroczenie skarbowe, przedawnienie karalności dyscyplinarnej następuje z upływem okresu przedawnienia ich karalności.
+
+### Art. 136bd.
+
+Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+
+### 1)
+
+czynności wyjaśniające nie potwierdziły popełnienia czynu stanowiącego przewinienie dyscyplinarne;
+
+### 2)
+
+upłynęły terminy określone w art. 136bc ust. 1, 3 lub 5;
+
+### 3)
+
+postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub wszczęte wcześniej toczy się.
+
+### Art. 136be.
+
+### 1.
+
+Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+### 3.
+
+Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+### 4.
+
+Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia nie uzasadnia wymierzenia kary dyscyplinarnej surowszej niż nagana. Czynności, o których mowa w art. 136bs, nie przeprowadza się.
+
+### 5.
+
+W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie.
+
+### 6.
+
+Od orzeczeń, o których mowa w ust. 1 lub 5, funkcjonariuszowi przysługuje odwołanie na zasadach dotyczących odwołań od orzeczeń wydanych po przeprowadzeniu postępowania dyscyplinarnego.
+
+### 7.
+
+Jeżeli odwołanie od orzeczenia, o którym mowa w ust. 5, dotyczy kontynuacji postępowania dyscyplinarnego, przełożony dyscyplinarny, który wydał orzeczenie, uchyla wydane orzeczenie i kontynuuje postępowanie, o którym mowa w ust. 3.
+
+### 8.
+
+W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w ust. 5, i przekazania sprawy do ponownego rozpatrzenia, przełożony dyscyplinarny kontynuuje postępowanie dyscyplinarne, o którym mowa w ust. 3.
+
+### 9.
+
+Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.
+
+### Art. 136bf.
+
+### 1.
+
+Jeżeli funkcjonariusz nie zgadza się z wytkniętym mu niewłaściwym postępowaniem podczas rozmowy dyscyplinującej, o której mowa w art. 134aa ust. 2, w terminie 5 dni od dnia zapoznania się z notatką z tej rozmowy może wnieść do przełożonego dyscyplinarnego pisemny sprzeciw, zwany dalej „sprzeciwem”. O prawie do wniesienia sprzeciwu funkcjonariusza poucza się podczas rozmowy dyscyplinującej, a treść pouczenia zawiera się w notatce z tej rozmowy. Przepis art. 136bz ust. 1 stosuje się odpowiednio.
+
+### 2.
+
+Wniesienie sprzeciwu powoduje wszczęcie postępowania dyscyplinarnego. Przepisy art. 136bk ust. 1 i 2 stosuje się odpowiednio.
+
+### 3.
+
+Brak wniesienia sprzeciwu powoduje włączenie notatki z przeprowadzonej rozmowy dyscyplinującej do akt osobowych funkcjonariusza, z którym była przeprowadzona ta rozmowa. W przypadku wniesienia sprzeciwu notatkę z przeprowadzonej rozmowy dyscyplinującej włącza się do akt postępowania dyscyplinarnego.
+
+### 4.
+
+W przypadku wniesienia sprzeciwu i braku możliwości wszczęcia postępowania dyscyplinarnego w związku z upływem terminów określonych w art. 136bc ust. 1, 3 lub 5 notatka z przeprowadzonej rozmowy dyscyplinującej podlega zniszczeniu.
+
+### 5.
+
+W przypadku wniesienia sprzeciwu po upływie terminu, o którym mowa w ust. 1, przełożony dyscyplinarny wydaje postanowienie o odmowie przyjęcia sprzeciwu. Na postanowienie przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Zażalenie wnosi się za pośrednictwem przełożonego dyscyplinarnego do Komendanta Głównego Straży Granicznej. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 136bz ust. 1 stosuje się odpowiednio.
+
+### 6.
+
+Rozmowę dyscyplinującą przeprowadza przełożony dyscyplinarny. W uzasadnionym przypadku przełożony dyscyplinarny może na piśmie upoważnić do przeprowadzenia w jego imieniu rozmowy dyscyplinującej funkcjonariusza w stopniu nie niższym od stopnia posiadanego przez funkcjonariusza, z którym ma być prowadzona ta rozmowa, lub zajmującego co najmniej równorzędne z tym funkcjonariuszem stanowisko służbowe.
+
+### 7.
+
+Upoważnienie do przeprowadzenia rozmowy dyscyplinującej zawiera:
+
+### 1)
+
+podstawę prawną;
+
+### 2)
+
+stopień, imię, nazwisko i stanowisko służbowe upoważnionego funkcjonariusza;
+
+### 3)
+
+stopień, imię, nazwisko i stanowisko służbowe funkcjonariusza, z którym ma być prowadzona rozmowa dyscyplinująca;
+
+### 4)
+
+określenie czynu, w związku z którym rozmowa dyscyplinująca ma być prowadzona, wraz z jego kwalifikacją prawną;
+
+### 5)
+
+określenie przesłanek, jakie spowodowały podjęcie przez przełożonego dyscyplinarnego rozstrzygnięcia o przeprowadzeniu w danym przypadku rozmowy dyscyplinującej;
+
+### 6)
+
+określenie terminu, w jakim przeprowadza się rozmowę dyscyplinującą.
+
+### 8.
+
+Przełożony dyscyplinarny, jednocześnie z upoważnieniem do przeprowadzenia w jego imieniu rozmowy dyscyplinującej, udziela funkcjonariuszowi upoważnionemu do jej przeprowadzenia pisemnych wytycznych dotyczących przeprowadzenia rozmowy, a w szczególności wskazuje informacje lub okoliczności, jakie podnosi się, wytykając niewłaściwe postępowanie funkcjonariuszowi, z którym rozmowa dyscyplinująca ma być prowadzona.
+
+### 9.
+
+Notatkę z rozmowy dyscyplinującej funkcjonariusz upoważniony do jej przeprowadzenia przedstawia przełożonemu dyscyplinarnemu przed jej przekazaniem do akt osobowych funkcjonariusza, z którym była przeprowadzona rozmowa.
+
+### Art. 136bg.
+
+### 1.
+
+Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 136ba, prowadzi rzecznik dyscyplinarny.
+
+### 2.
+
+Przełożony dyscyplinarny powołuje rzeczników dyscyplinarnych na okres 4 lat spośród funkcjonariuszy w służbie stałej.
+
+### 3.
+
+Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 136ba, wyznacza rzecznika dyscyplinarnego w stopniu co najmniej:
+
+### 1)
+
+młodszego chorążego Straży Granicznej - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień w korpusie szeregowych, podoficerów lub chorążych;
+
+### 2)
+
+podporucznika Straży Granicznej - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień podporucznika, porucznika lub kapitana Straży Granicznej;
+
+### 3)
+
+majora Straży Granicznej - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień majora Straży Granicznej lub wyższy.
+
+### Art. 136bh.
+
+### 1.
+
+Przełożony dyscyplinarny odwołuje rzecznika dyscyplinarnego w przypadkach:
+
+### 1)
+
+zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w Straży Granicznej;
+
+### 2)
+
+prawomocnego wymierzenia mu kary dyscyplinarnej;
+
+### 3)
+
+przeniesienia go do innej jednostki organizacyjnej Straży Granicznej niepodlegającej bezpośrednio przełożonemu dyscyplinarnemu.
+
+### 2.
+
+Przełożony dyscyplinarny może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.
+
+### 3.
+
+Rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może skorzystać z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynności dowodowych.
+
+### Art. 136bi.
+
+### 1.
+
+Przełożony dyscyplinarny lub rzecznik dyscyplinarny podlegają wyłączeniu z udziału w postępowaniu dyscyplinarnym, jeżeli:
+
+### 1)
+
+sprawa dotyczy ich bezpośrednio;
+
+### 2)
+
+są małżonkami obwinionego, jego obrońcy lub pokrzywdzonego albo pozostają we wspólnym pożyciu z jedną z tych osób;
+
+### 3)
+
+są krewnymi lub powinowatymi obwinionego lub pokrzywdzonego w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osób wymienionych w pkt 2, albo są związani z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;
+
+### 4)
+
+byli świadkami zdarzenia lub w tej sprawie byli przesłuchani w charakterze świadka;
+
+### 5)
+
+między nimi a obwinionym lub pokrzywdzonym zachodzi stosunek osobisty mogący wywołać wątpliwości co do bezstronności prowadzącego postępowanie;
+
+### 6)
+
+są podwładnymi obwinionego, jego obrońcy lub pokrzywdzonego.
+
+### 2.
+
+Przełożonego dyscyplinarnego i rzecznika dyscyplinarnego można wyłączyć z udziału w postępowaniu dyscyplinarnym także z innych uzasadnionych przyczyn.
+
+### 3.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny badają z urzędu, czy nie zachodzą okoliczności uzasadniające ich wyłączenie z udziału w postępowaniu dyscyplinarnym.
+
+### 4.
+
+Wyłączenie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego z udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
+
+### 5.
+
+O zaistnieniu okoliczności, o których mowa w ust. 1 lub 2, przełożony dyscyplinarny, o którym mowa w art. 135d ust. 1 pkt 3-7, i rzecznik dyscyplinarny zawiadamiają niezwłocznie pisemnie odpowiednio Komendanta Głównego Straży Granicznej albo przełożonego dyscyplinarnego.
+
+### 6.
+
+O wyłączeniu albo odmowie wyłączenia rzecznika dyscyplinarnego rozstrzyga przełożony dyscyplinarny w drodze postanowienia. Do dnia wydania tego postanowienia rzecznik dyscyplinarny podejmuje czynności niecierpiące zwłoki.
+
+### 7.
+
+Komendant Główny Straży Granicznej wydaje postanowienie o wyłączeniu albo odmowie wyłączenia przełożonego dyscyplinarnego, o którym mowa w art. 135d ust. 1 pkt 2-7. Do dnia wydania postanowienia przełożony dyscyplinarny podejmuje czynności niecierpiące zwłoki.
+
+### Art. 136bj.
+
+### 1.
+
+W przypadku wyłączenia przełożonego dyscyplinarnego z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje Komendant Główny Straży Granicznej albo wyznacza przełożonego dyscyplinarnego z równorzędnej jednostki organizacyjnej Straży Granicznej.
+
+### 2.
+
+W przypadku wyłączenia Komendanta Głównego Straży Granicznej z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje jeden z jego zastępców.
+
+### 3.
+
+W przypadku wyłączenia rzecznika dyscyplinarnego z udziału w postępowaniu dyscyplinarnym, postępowanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny.
+
+### Art. 136bk.
+
+### 1.
+
+Wszczęcie postępowania dyscyplinarnego następuje w drodze postanowienia, którego odpis niezwłocznie doręcza się obwinionemu. Zawiadomienie o wszczęciu postępowania dyscyplinarnego doręcza się także sądowi, prokuratorowi oraz organowi, instytucji lub pokrzywdzonemu, jeżeli postępowanie dyscyplinarne zostało wszczęte na ich wniosek.
+
+### 2.
+
+Postanowienie zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+
+### 2)
+
+datę i miejsce wydania;
+
+### 3)
+
+stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+
+### 4)
+
+podstawę prawną;
+
+### 5)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu;
+
+### 6)
+
+określenie czynu zarzucanego obwinionemu, wraz z jego kwalifikacją prawną;
+
+### 7)
+
+uzasadnienie faktyczne czynu zarzucanego obwinionemu;
+
+### 8)
+
+wyznaczenie rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego z podaniem stopnia, imienia, nazwiska i stanowiska służbowego;
+
+### 9)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo urzędową pieczęć ministra właściwego do spraw wewnętrznych;
+
+### 10)
+
+pouczenie o uprawnieniach przysługujących obwinionemu w toku postępowania dyscyplinarnego.
+
+### 3.
+
+Jeżeli w toku postępowania dyscyplinarnego okaże się, że obwinionemu należy zarzucić ponadto czyn nieobjęty postanowieniem o wszczęciu postępowania dyscyplinarnego albo czyn w zmienionej w istotny sposób postaci, wydaje się postanowienie o zmianie lub uzupełnieniu zarzutów. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+
+### 4.
+
+W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 136be ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 136be ust. 1.
+
+### 5.
+
+W przypadku przywrócenia do służby funkcjonariusza, wobec którego prowadzone w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie art. 136bv ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.
+
+### Art. 136bl.
+
+### 1.
+
+Rzecznik dyscyplinarny zbiera dowody i podejmuje czynności niezbędne do wyjaśnienia sprawy, w szczególności przesłuchuje obwinionego, świadków i pokrzywdzonego, dokonuje oględzin, konfrontacji, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów. Zleca lub występuje do przełożonego dyscyplinarnego o zlecenie przeprowadzenia odpowiednich badań, ekspertyz i tłumaczeń oraz zasięga niezbędnych opinii.
+
+### 2.
+
+Otrzymane przez Straż Graniczną w związku z realizacją jej ustawowych zadań pisma sporządzone w języku obcym włącza się do akt postępowania dyscyplinarnego łącznie z tłumaczeniami wykonanymi przez komórki organizacyjne wyodrębnione w strukturze jednostek organizacyjnych Straży Granicznej sporządzające tego rodzaju tłumaczenia na potrzeby Straży Granicznej.
+
+### 3.
+
+O przeprowadzenie czynności poza miejscowością, w której toczy się postępowanie, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do kierownika jednostki organizacyjnej Straży Granicznej właściwego dla miejsca, w którym czynność ta ma być dokonana. Czynność przeprowadza rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+### 4.
+
+Z czynności, o których mowa w ust. 1 zdanie pierwsze, sporządza się protokół. Z innych czynności sporządza się protokół, jeżeli przepis szczególny tego wymaga albo przełożony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozostałych przypadkach można ograniczyć się do sporządzenia notatki urzędowej. Protokół sporządza rzecznik dyscyplinarny lub funkcjonariusz wyznaczony do protokołowania, a w przypadku, o którym mowa w ust. 3 - rzecznik dyscyplinarny wyznaczony przez kierownika tej jednostki organizacyjnej.
+
+### 5.
+
+Protokół zawiera:
+
+### 1)
+
+oznaczenie czynności, jej czasu i miejsca, osób w niej uczestniczących lub przy niej obecnych oraz charakteru ich uczestnictwa;
+
+### 2)
+
+opis przebiegu czynności;
+
+### 3)
+
+w miarę potrzeby:
+
+### a)
+
+stwierdzenie innych okoliczności dotyczących przebiegu czynności,
+
+### b)
+
+oświadczenia i wnioski uczestników czynności,
+
+### c)
+
+pouczenie o uprawnieniach i obowiązkach.
+
+### 6.
+
+Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu, potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+
+### 7.
+
+Rzecznik dyscyplinarny, w razie ustalenia w toku postępowania dyscyplinarnego, że obwinionemu należy zarzucić czyn, który nie był objęty postanowieniem o wszczęciu postępowania dyscyplinarnego, albo czyn w zmienionej w istotny sposób postaci, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.
+
+### 8.
+
+Rzecznik dyscyplinarny w toku postępowania dyscyplinarnego wydaje postanowienia, jeżeli ich wydanie nie jest zastrzeżone do kompetencji przełożonego dyscyplinarnego.
+
+### 9.
+
+Rzecznik dyscyplinarny prowadzi spis akt postępowania dyscyplinarnego zawierający:
+
+### 1)
+
+liczbę porządkową;
+
+### 2)
+
+numer arkusza;
+
+### 3)
+
+nazwę dokumentu;
+
+### 4)
+
+datę wykonania dokumentu;
+
+### 5)
+
+uwagi.
+
+### Art. 136bm.
+
+### 1.
+
+W toku postępowania dyscyplinarnego obwiniony ma prawo do:
+
+### 1)
+
+odmowy składania wyjaśnień;
+
+### 2)
+
+zgłaszania wniosków dowodowych;
+
+### 3)
+
+przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek, fotokopii lub odpisów;
+
+### 4)
+
+korzystania z pomocy obrońcy, którym może być wskazany przez obwinionego funkcjonariusz Straży Granicznej, adwokat albo radca prawny;
+
+### 5)
+
+wnoszenia zażaleń na postanowienia, o których mowa w ust. 3, art. 136bp ust. 3, art. 136bs ust. 5 i art. 137c ust. 7.
+
+### 2.
+
+Uprawnienia, o których mowa w ust. 1 pkt 2, 3 i 5, przysługują również obrońcy obwinionego.
+
+### 3.
+
+Rzecznik dyscyplinarny może, w drodze postanowienia, odmówić udostępnienia akt, jeżeli sprzeciwia się temu dobro postępowania dyscyplinarnego. Na postanowienie przysługuje zażalenie.
+
+### 4.
+
+Ustanowienie obrońcy uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia, jeżeli nie zawiera ograniczeń. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
+
+### 5.
+
+Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak nie dłużej niż przez 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
+
+### 6.
+
+Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania w nim obwinionego.
+
+### 7.
+
+Orzeczenia, postanowienia, zawiadomienia i inne pisma, wydane w toku postępowania, doręcza się niezwłocznie obwinionemu i jego obrońcy. Postanowienie doręcza się również pokrzywdzonemu w przypadku, o którym mowa w art. 136bp ust. 3.
+
+### 8.
+
+W razie doręczenia obwinionemu i obrońcy w różnych terminach pisma, od którego przysługuje odwołanie lub zażalenie, termin do złożenia odwołania lub zażalenia liczy się od dnia doręczenia, które nastąpiło wcześniej.
+
+### 9.
+
+Zażalenie na postanowienie wnosi się za pośrednictwem rzecznika dyscyplinarnego do przełożonego dyscyplinarnego, a jeżeli postanowienie wydał ten przełożony dyscyplinarny - do Komendanta Głównego Straży Granicznej za pośrednictwem tego przełożonego. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, zażalenie nie przysługuje, jednak obwiniony może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### 10.
+
+Na postanowienia, o których mowa w ust. 9, zażalenia oraz wniosek o ponowne rozpatrzenie sprawy wnosi się w terminie 3 dni od dnia doręczenia postanowienia, z zastrzeżeniem art. 137c ust. 7. Przepis art. 136bz ust. 1 stosuje się odpowiednio.
+
+### Art. 136bn.
+
+### 1.
+
+Wnioski dowodowe zgłasza się na piśmie rzecznikowi dyscyplinarnemu, ze wskazaniem okoliczności, które mają być udowodnione.
+
+### 2.
+
+Wniosek dowodowy oddala się, jeżeli:
+
+### 1)
+
+przeprowadzenie dowodu jest niedopuszczalne;
+
+### 2)
+
+okoliczność, która ma zostać udowodniona, jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;
+
+### 3)
+
+okoliczności nie mają znaczenia dla rozstrzygnięcia sprawy lub dowodu nie da się przeprowadzić;
+
+### 4)
+
+wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;
+
+### 5)
+
+wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony.
+
+### 3.
+
+Oddalenie wniosku dowodowego następuje w drodze postanowienia.
+
+### Art. 136bo.
+
+### 1.
+
+Postępowanie dowodowe zamyka się w terminie 30 dni od dnia wszczęcia postępowania.
+
+### 2.
+
+W uzasadnionych przypadkach przełożony dyscyplinarny może, w drodze postanowienia, przedłużyć termin prowadzenia postępowania dowodowego do 3 miesięcy.
+
+### 3.
+
+Komendant Główny Straży Granicznej, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony dłuższy niż 3 miesiące.
+
+### 4.
+
+Wniosek o przedłużenie terminu prowadzenia postępowania dowodowego w postępowaniu dyscyplinarnym składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia postępowania dowodowego przełożony dyscyplinarny może zażądać niezwłocznego przekazania akt postępowania.
+
+### Art. 136bp.
+
+### 1.
+
+Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, gdy zachodzi długotrwała przeszkoda uniemożliwiająca prowadzenie postępowania.
+
+### 2.
+
+Przełożony dyscyplinarny zawiesza postępowanie dyscyplinarne z dniem przeniesienia obwinionego do innej jednostki organizacyjnej Straży Granicznej i przekazuje materiały postępowania dyscyplinarnego przełożonemu dyscyplinarnemu w nowym miejscu służby obwinionego.
+
+### 3.
+
+Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie, z wyjątkiem postanowienia, o którym mowa w ust. 2. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### 4.
+
+Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.
+
+### 5.
+
+Po ustaniu przyczyn uzasadniających zawieszenie postępowania dyscyplinarnego przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania.
+
+### 6.
+
+Postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego w sprawie obwinionego przeniesionego do innej jednostki organizacyjnej Straży Granicznej wydaje się niezwłocznie po otrzymaniu materiałów postępowania dyscyplinarnego wszczętego w poprzednim miejscu służby obwinionego.
+
+### Art. 136bq.
+
+### 1.
+
+Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami odrębnego postępowania dyscyplinarnego.
+
+### Art. 136br.
+
+Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.
+
+### Art. 136bs.
+
+### 1.
+
+Jeżeli rzecznik dyscyplinarny uzna, że zostały wyjaśnione wszystkie okoliczności sprawy, zapoznaje obwinionego i jego obrońcę z aktami postępowania dyscyplinarnego.
+
+### 2.
+
+Obrońca może zapoznać się z aktami postępowania dyscyplinarnego nie później niż do dnia zapoznania obwinionego z tymi aktami.
+
+### 3.
+
+Z czynności zapoznania obwinionego i jego obrońcy z aktami postępowania dyscyplinarnego sporządza się protokół.
+
+### 4.
+
+Odmowa obwinionego lub jego obrońcy zapoznania się z aktami postępowania dyscyplinarnego lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje w aktach postępowania dyscyplinarnego wzmianki o odmowie obwinionego lub jego obrońcy zapoznania się z tymi aktami. Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową zapoznania się z tymi aktami.
+
+### 5.
+
+Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie. Przepis art. 136bn stosuje się odpowiednio. Wniosek o uzupełnienie akt postępowania dyscyplinarnego rozpatruje rzecznik dyscyplinarny. Na postanowienie o odmowie uzupełnienia akt postępowania dyscyplinarnego obwinionemu przysługuje zażalenie.
+
+### 6.
+
+Rzecznik dyscyplinarny po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego wydaje postanowienie o zamknięciu postępowania dowodowego i sporządza w terminie 7 dni sprawozdanie z przeprowadzonego postępowania oraz przekazuje akta postępowania dyscyplinarnego przełożonemu dyscyplinarnemu.
+
+### 7.
+
+Sprawozdanie, o którym mowa w ust. 6, zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko służbowe rzecznika dyscyplinarnego;
+
+### 2)
+
+stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+
+### 3)
+
+stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+
+### 4)
+
+określenie czynu zarzucanego obwinionemu, ze wskazaniem kwalifikacji prawnej;
+
+### 5)
+
+opis ustalonego stanu faktycznego;
+
+### 6)
+
+wnioski dotyczące orzeczenia dyscyplinarnego lub umorzenia postępowania dyscyplinarnego, z uzasadnieniem i ze wskazaniem okoliczności łagodzących lub obciążających.
+
+### Art. 136bt.
+
+Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w materiale dowodowym.
+
+### Art. 136bu.
+
+### 1.
+
+Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+
+### 1)
+
+uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu;
+
+### 2)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej;
+
+### 3)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej;
+
+### 4)
+
+umorzeniu postępowania.
+
+### 2.
+
+Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.
+
+### 3.
+
+Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.
+
+### 4.
+
+Przełożony dyscyplinarny może odstąpić od ukarania, jeżeli stopień winy lub stopień szkodliwości przewinienia dyscyplinarnego dla służby nie jest znaczny, a właściwości i warunki osobiste obwinionego oraz dotychczasowy przebieg służby uzasadniają przypuszczenie, że mimo odstąpienia od ukarania będzie on przestrzegał dyscypliny służbowej oraz zasad etyki zawodowej.
+
+### 5.
+
+Orzeczenie, o którym mowa w ust. 1, wydaje się nie później niż w terminie 14 dni od dnia zamknięcia postępowania dowodowego.
+
+### 6.
+
+W przypadku gdy dowódca kontyngentu uzna, że należy wymierzyć karę dyscyplinarną inną niż określona w art. 136 ust. 1 pkt 1 lub 2, akta postępowania dyscyplinarnego przesyła niezwłocznie właściwemu przełożonemu dyscyplinarnemu z wnioskiem o wymierzenie określonej kary dyscyplinarnej. Wniosek nie wiąże przełożonego dyscyplinarnego. Orzeczenie przełożony dyscyplinarny wydaje nie później niż w terminie 14 dni od dnia otrzymania akt.
+
+### Art. 136bv.
+
+### 1.
+
+Postępowanie dyscyplinarne umarza się, jeżeli:
+
+### 1)
+
+nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
+
+### 2)
+
+postępowanie dyscyplinarne wszczęto po upływie terminu, o którym mowa w art. 136bc ust. 1;
+
+### 3)
+
+ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
+
+### 4)
+
+obwiniony zmarł lub został uznany za zaginionego;
+
+### 5)
+
+obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
+
+### 6)
+
+postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu zostało prawomocnie zakończone albo, wszczęte wcześniej, toczy się.
+
+### 2.
+
+Postępowanie dyscyplinarne można umorzyć w przypadku:
+
+### 1)
+
+długotrwałej choroby obwinionego;
+
+### 2)
+
+wycofania wniosku, o którym mowa w art. 136bb ust. 5.
+
+### 3.
+
+Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzuconego mu czynu.
+
+### Art. 136bw.
+
+### 1.
+
+Obwinionemu wymierza się karę dyscyplinarną współmierną do popełnionego przewinienia dyscyplinarnego oraz stopnia zawinienia.
+
+### 2.
+
+Przy wymierzaniu kary dyscyplinarnej uwzględnia się rodzaj i wagę czynu, skutki i okoliczności jego popełnienia, pobudki działania obwinionego, następstwa negatywne dla służby, dotychczasowe wyniki w służbie, opinię służbową, okres pozostawania w służbie oraz zachowanie się obwinionego przed popełnieniem i po popełnieniu zarzuconego mu czynu, a także okoliczności, zarówno łagodzące, jak i obciążające, istotne w sprawie.
+
+### 3.
+
+Na zaostrzenie wymiaru kary dyscyplinarnej ma wpływ w szczególności popełnienie przez obwinionego przewinienia dyscyplinarnego:
+
+### 1)
+
+z motywacji zasługującej na szczególne potępienie, albo w stanie nietrzeźwości albo po użyciu alkoholu lub po użyciu podobnie działającego środka;
+
+### 2)
+
+w czasie odbywania uprzednio wymierzonej kary dyscyplinarnej, jak również w czasie próby określonej w orzeczeniu o warunkowym zawieszeniu wykonania kary lub warunkowym umorzeniu postępowania karnego;
+
+### 3)
+
+wywołującego poważne skutki, zwłaszcza istotne zakłócenia realizacji zadań Straży Granicznej lub naruszenie dobrego imienia Straży Granicznej;
+
+### 4)
+
+w obecności podwładnego, wspólnie z nim lub na jego szkodę.
+
+### 4.
+
+Na złagodzenie wymiaru kary dyscyplinarnej mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
+
+### 1)
+
+nieumyślność jego popełnienia;
+
+### 2)
+
+podjęcie przez funkcjonariusza starań o zmniejszenie jego skutków;
+
+### 3)
+
+brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych;
+
+### 4)
+
+dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.
+
+### 5.
+
+Przełożony dyscyplinarny uwzględnia okoliczności, o których mowa w ust. 1-4, wyłącznie w odniesieniu do funkcjonariusza, którego one dotyczą.
+
+### Art. 136bx.
+
+### 1.
+
+Orzeczenie dyscyplinarne zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko przełożonego dyscyplinarnego, który wydaje orzeczenie;
+
+### 2)
+
+datę i miejsce wydania;
+
+### 3)
+
+stopień, imię i nazwisko oraz stanowisko służbowe obwinionego;
+
+### 4)
+
+określenie czynu zarzuconego obwinionemu wraz z jego kwalifikacją prawną;
+
+### 5)
+
+rozstrzygnięcie w sprawie;
+
+### 6)
+
+uzasadnienie faktyczne i prawne;
+
+### 7)
+
+pouczenie o prawie do wniesienia odwołania;
+
+### 8)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej albo pieczęć ministra właściwego do spraw wewnętrznych.
+
+### 2.
+
+Uzasadnienie faktyczne orzeczenia zawiera w szczególności wskazanie faktów, które uznano za udowodnione, dowodów, na których się oparto, oraz przyczyn, dla których innym dowodom odmówiono wiarygodności i mocy dowodowej. W uzasadnieniu prawnym wyjaśnia się podstawy prawne orzeczenia z przytoczeniem przepisów prawa. W uzasadnieniu faktycznym przytacza się ponadto okoliczności, które wpłynęły na wymiar kary dyscyplinarnej lub na odstąpienie od wymierzenia kary dyscyplinarnej.
+
+### 3.
+
+Orzeczenie doręcza się niezwłocznie obwinionemu oraz jego obrońcy.
+
+### 4.
+
+Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+
+### 5.
+
+Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+
+### 6.
+
+Od postanowień, o których mowa w ust. 4 i 5, zażalenie nie przysługuje.
+
+### 7.
+
+Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+
+### 8.
+
+Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę.
+
+### Art. 136by.
+
+### 1.
+
+Postępowanie dyscyplinarne jest postępowaniem dwuinstancyjnym. Obwiniony może wnieść na piśmie odwołanie od orzeczenia w terminie 7 dni od dnia doręczenia orzeczenia, za pośrednictwem przełożonego dyscyplinarnego.
+
+### 2.
+
+Od orzeczenia wydanego w pierwszej instancji przez przełożonych dyscyplinarnych, o których mowa w art. 135d ust. 1 pkt 3-7, przysługuje odwołanie do Komendanta Głównego Straży Granicznej.
+
+### 3.
+
+Od orzeczenia wydanego w pierwszej instancji przez ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej odwołanie nie przysługuje. Obwiniony może jednak zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń dyscyplinarnych.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych albo Komendant Główny Straży Granicznej odmawia przyjęcia odwołania albo wniosku o ponowne rozpatrzenie sprawy, w drodze postanowienia, jeżeli odwołanie lub wniosek są niedopuszczalne lub zostały wniesione po terminie. Postanowienie w tej sprawie jest ostateczne. Przepis ten stosuje się odpowiednio do odmowy przywrócenia terminu.
+
+### 5.
+
+Od orzeczeń, o których mowa w art. 136bze ust. 1 pkt 1, 2 i 4, oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi przysługuje prawo wniesienia skargi do sądu administracyjnego.
+
+### Art. 136bz.
+
+### 1.
+
+Termin do wniesienia odwołania, o którym mowa w art. 136by ust. 1, uważa się za zachowany, jeżeli przed jego upływem pismo zostało:
+
+### 1)
+
+nadane w polskiej placówce pocztowej operatora publicznego;
+
+### 2)
+
+złożone w jednostce organizacyjnej Straży Granicznej;
+
+### 3)
+
+złożone przez obwinionego pozbawionego wolności w administracji zakładu karnego.
+
+### 2.
+
+Wniesienie odwołania w terminie wstrzymuje wykonanie orzeczenia.
+
+### 3.
+
+Orzeczenie, od którego nie wniesiono odwołania, staje się po upływie terminu, o którym mowa w art. 136by ust. 1, prawomocne i podlega wykonaniu.
+
+### Art. 136bza.
+
+### 1.
+
+Przełożony dyscyplinarny, który wydał orzeczenie, przesyła odwołanie w terminie 7 dni Komendantowi Głównemu Straży Granicznej, załączając akta osobowe i akta postępowania dyscyplinarnego.
+
+### 2.
+
+Jeżeli przełożony dyscyplinarny, który wydał orzeczenie, uzna, że odwołanie zasługuje w całości na uwzględnienie, wydaje nowe orzeczenie, w którym uchyla lub zmienia zaskarżone orzeczenie.
+
+### 3.
+
+Od nowego orzeczenia obwinionemu przysługuje odwołanie na zasadach dotyczących odwołań od orzeczeń wydanych po przeprowadzeniu postępowania dyscyplinarnego.
+
+### Art. 136bzb.
+
+### 1.
+
+W postępowaniu odwoławczym rozpoznanie sprawy następuje na podstawie materiału dowodowego zebranego w postępowaniu zakończonym zaskarżonym orzeczeniem. Jeżeli jest to potrzebne do wydania prawidłowego orzeczenia, przełożony dyscyplinarny właściwy do rozpatrzenia odwołania może uzupełnić materiał dowodowy, zlecając rzecznikowi dyscyplinarnemu prowadzącemu postępowanie dyscyplinarne przeprowadzenie czynności dowodowych, określając ich zakres i termin ich przeprowadzenia.
+
+### 2.
+
+Z materiałami uzyskanymi w wyniku czynności dowodowych, o których mowa w ust. 1, rzecznik dyscyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania obwiniony ma prawo zgłoszenia przełożonemu dyscyplinarnemu, o którym mowa w ust. 1, uwag dotyczących przeprowadzonych czynności dowodowych. Przepisy art. 136bs ust. 1-4 stosuje się odpowiednio.
+
+### Art. 136bzc.
+
+### 1.
+
+Komendant Główny Straży Granicznej w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”. W przypadku orzeczenia o wymierzeniu kary dyscyplinarnej, o której mowa w art. 136 ust. 1 pkt 6-9, jest obowiązany powołać komisję.
+
+### 2.
+
+Komisja składa się z trzech funkcjonariuszy w służbie stałej w stopniu co najmniej podporucznika, z których jednego wyznacza wskazana przez obwinionego zakładowa organizacja związkowa.
+
+### 3.
+
+O wyznaczeniu przedstawiciela związku zawodowego do składu komisji zakładowa organizacja związkowa zawiadamia Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia otrzymania zawiadomienia o powołaniu takiej komisji. W przypadku niewyznaczenia przedstawiciela związku zawodowego trzeciego członka komisji wyznacza Komendant Główny Straży Granicznej.
+
+### 4.
+
+Komendant Główny Straży Granicznej wyznacza przewodniczącego spośród członków komisji.
+
+### 5.
+
+Przepisy art. 136bi ust. 1-3 i 5 stosuje się odpowiednio do członków komisji.
+
+### 6.
+
+Komisja może wysłuchać rzecznika dyscyplinarnego, obwinionego lub jego obrońcy.
+
+### 7.
+
+Niestawiennictwo prawidłowo zawiadomionych: rzecznika dyscyplinarnego, obwinionego lub jego obrońcy nie wstrzymuje rozpoznania sprawy.
+
+### 8.
+
+Komisja może wystąpić do Komendanta Głównego Straży Granicznej o uzupełnienie materiału dowodowego w trybie art. 136bzb ust. 1.
+
+### Art. 136bzd.
+
+### 1.
+
+Z przeprowadzonych czynności komisja sporządza sprawozdanie wraz z wnioskiem dotyczącym sposobu załatwienia sprawy.
+
+### 2.
+
+Komisja przedstawia Komendantowi Głównemu Straży Granicznej sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania.
+
+### Art. 136bze.
+
+### 1.
+
+Komendant Główny Straży Granicznej po rozpatrzeniu odwołania albo wniosku o ponowne rozpatrzenie sprawy, a w przypadku powołania komisji - po otrzymaniu sprawozdania, o którym mowa w art. 136bzd ust. 1, wydaje orzeczenie o:
+
+### 1)
+
+utrzymaniu w mocy orzeczenia wydanego w pierwszej instancji albo
+
+### 2)
+
+uchyleniu w całości lub w części orzeczenia wydanego w pierwszej instancji i w tym zakresie orzeczeniu co do istoty sprawy lub uchyleniu tego orzeczenia i umorzeniu postępowania w pierwszej instancji, albo
+
+### 3)
+
+uchyleniu orzeczenia wydanego w pierwszej instancji i przekazaniu sprawy do ponownego rozpatrzenia, ze wskazaniem stwierdzonych uchybień, albo
+
+### 4)
+
+umorzeniu postępowania odwoławczego.
+
+### 2.
+
+Do orzeczeń, o których mowa w ust. 1 pkt 2, przepis art. 136bu ust. 2 stosuje się odpowiednio. W postępowaniu odwoławczym nie można wymierzyć kary dyscyplinarnej surowszej niż orzeczona w zaskarżonym orzeczeniu, chyba że wymierzona kara dyscyplinarna rażąco narusza prawo lub interes służby.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 1 pkt 3, można w dalszym postępowaniu orzec karę dyscyplinarną surowszą niż orzeczona w uchylonym orzeczeniu.
+
+### 4.
+
+Orzeczenie, o którym mowa w ust. 1, wydaje się w terminie 30 dni od dnia wpływu odwołania wraz z aktami osobowymi i aktami postępowania dyscyplinarnego, a w przypadku powołania komisji - w terminie 14 dni od dnia otrzymania sprawozdania, o którym mowa w art. 136bzd ust. 1.
+
+### 5.
+
+Orzeczenie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+oznaczenie przełożonego dyscyplinarnego wydającego orzeczenie;
+
+### 2)
+
+datę i miejsce wydania;
+
+### 3)
+
+stopień, imię, nazwisko i stanowisko służbowe obwinionego;
+
+### 4)
+
+wskazanie orzeczenia, od którego zostało złożone odwołanie;
+
+### 5)
+
+rozstrzygnięcie w sprawie;
+
+### 6)
+
+uzasadnienie faktyczne i prawne;
+
+### 7)
+
+pouczenie o prawie wniesienia skargi do sądu administracyjnego;
+
+### 8)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć jednostki organizacyjnej Straży Granicznej.
+
+### 6.
+
+Do orzeczenia wydanego przez ministra właściwego do spraw wewnętrznych przepisy ust. 1-5 stosuje się odpowiednio.
+
+### Art. 136bzf.
+
+### 1.
+
+Prawomocne staje się:
+
+### 1)
+
+orzeczenie dyscyplinarne:
+
+### a)
+
+z upływem terminu do wniesienia odwołania albo wniosku o ponowne rozpatrzenie sprawy, jeżeli go nie wniesiono,
+
+### b)
+
+w dniu jego wydania przez przełożonego dyscyplinarnego właściwego do rozpatrzenia odwołania;
+
+### 2)
+
+postanowienie kończące postępowanie dyscyplinarne o:
+
+### a)
+
+niedopuszczalności wniesienia odwołania,
+
+### b)
+
+uchybieniu terminu do wniesienia odwołania,
+
+### c)
+
+odmowie przywrócenia terminu do wniesienia odwołania.
+
+### 2.
+
+Po uprawomocnieniu się orzeczenia lub postanowienia, o których mowa w ust. 1, przełożony dyscyplinarny zarządza wykonanie orzeczonej kary dyscyplinarnej.
+
+### Art. 136bzg.
+
+### 1.
+
+Egzemplarz orzeczenia włącza się do akt osobowych funkcjonariusza, a jeżeli w danej sprawie prowadzone było postępowanie dyscyplinarne - również do akt postępowania dyscyplinarnego. Orzeczenie, o którym mowa w art. 136bu ust. 1 pkt 3, przechowuje się w aktach osobowych funkcjonariusza przez okres 5 miesięcy od dnia jego uprawomocnienia się.
+
+### 2.
+
+Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek pokrzywdzonego, sądu, prokuratora, organu lub instytucji, przełożony dyscyplinarny informuje pokrzywdzonego, sąd, prokuratora, organ lub instytucję o wydanym orzeczeniu.
+
+### Art. 136bzh.
+
+### 1.
+
+Wykonanie kary dyscyplinarnej polega na:
+
+### 1)
+
+przeprowadzeniu rozmowy i wytknięciu niewłaściwego postępowania - w przypadku wymierzenia kar upomnienia lub nagany;
+
+### 2)
+
+przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i uprzedzeniu ukaranego o możliwości wymierzenia kary przeniesienia na niższe stanowisko służbowe lub kary dyscyplinarnej surowszej, jeżeli ponownie dopuści się czynu rodzącego odpowiedzialność dyscyplinarną - w przypadku wymierzenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 3)
+
+przeniesieniu na niższe stanowisko służbowe - w przypadku kary wyznaczenia na niższe stanowisko służbowe, zgodnie ze wskazaniami zawartymi w uzasadnieniu orzeczenia;
+
+### 4)
+
+wydaniu rozkazu personalnego o obniżeniu stopnia lub wystąpieniu do właściwego organu z wnioskiem o obniżenie stopnia - w przypadku kary obniżenia stopnia;
+
+### 5)
+
+przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu rodzącego odpowiedzialność dyscyplinarną ukarany może być wydalony ze służby - w przypadku wymierzenia kary ostrzeżenia o niepełnej przydatności do służby;
+
+### 6)
+
+zwolnieniu funkcjonariusza ze służby - w przypadku wymierzenia kary wydalenia ze służby;
+
+### 7)
+
+zakazaniu ukaranemu opuszczania miejsca zakwaterowania w czasie wolnym od zajęć przez czas trwania kary dyscyplinarnej oraz nałożeniu obowiązku meldowania się, nie częściej niż trzykrotnie w ciągu dnia, na wezwanie dyżurnego lub innego wyznaczonego funkcjonariusza - w przypadku wymierzenia kary zakazu opuszczania miejsca zakwaterowania.
+
+### 2.
+
+Rozmowy, o których mowa w ust. 1 pkt 1, 2 i 5, przeprowadza przełożony dyscyplinarny. W uzasadnionym przypadku przełożony dyscyplinarny może na piśmie upoważnić do przeprowadzenia w jego imieniu rozmowy funkcjonariusza w stopniu nie niższym od stopnia posiadanego przez funkcjonariusza, z którym ma być prowadzona ta rozmowa, lub zajmującego co najmniej równorzędne z tym funkcjonariuszem stanowisko służbowe.
+
+### 3.
+
+Przełożony dyscyplinarny, udzielając upoważnienia do przeprowadzenia w jego imieniu rozmów, o których mowa w ust. 1 pkt 1, 2 i 5, podaje do wiadomości funkcjonariusza upoważnionego do ich przeprowadzenia treść orzeczenia, w celu wykonania którego ma być przeprowadzona rozmowa, określa termin, w jakim przeprowadza się rozmowę, a także udziela temu funkcjonariuszowi pisemnych wytycznych dotyczących prowadzenia rozmowy, w szczególności wskazuje informacje lub okoliczności, jakie należy podnieść, wytykając niewłaściwe postępowanie ukaranemu.
+
+### 4.
+
+Funkcjonariusz upoważniony do przeprowadzenia rozmów, o których mowa w ust. 1 pkt 1, 2 i 5, sporządza z rozmowy notatkę. Notatkę z rozmowy funkcjonariusz upoważniony do jej przeprowadzenia przedstawia przełożonemu dyscyplinarnemu.
+
+### 5.
+
+Przełożony dyscyplinarny może w przypadku, o którym mowa w ust. 1 pkt 1 lub 2, uznać uprawomocnienie się orzeczenia za równoznaczne z wykonaniem kary dyscyplinarnej, jeżeli jest to wystarczające dla zapewnienia prawidłowej realizacji celów wychowawczych lub prewencyjnych wydanego orzeczenia. O uznaniu uprawomocnienia się orzeczenia za równoznaczne z wykonaniem kary dyscyplinarnej informuje się obwinionego w formie pisemnej.
+
+### Art. 136bzi.
+
+### 1.
+
+W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
+
+### 2.
+
+O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania przysługuje zażalenie w terminie 3 dni od dnia doręczenia postanowienia w tej sprawie.
+
+” ;
+
+### 46)
+
+uchyla się art. 136c i art. 137;
+
+### 47)
+
+w art. 137a:
+
+### a)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Kary dyscyplinarne ulegają zatarciu po upływie:
+
+### 1)
+
+6 miesięcy od dnia uprawomocnienia się orzeczenia kary upomnienia lub nagany;
+
+### 2)
+
+12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 3)
+
+18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe;
+
+### 4)
+
+24 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
+
+### 3.
+
+W przypadku nienagannej służby, stwierdzonej w opinii służbowej, przełożony dyscyplinarny, o którym mowa w art. 135d ust. 1, może zatrzeć karę dyscyplinarną przed upływem terminu określonego w ust. 2, jednak nie wcześniej niż przed upływem:
+
+### 1)
+
+3 miesięcy od dnia uprawomocnienia się orzeczenia kary upomnienia lub nagany;
+
+### 2)
+
+6 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 3)
+
+9 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe;
+
+### 4)
+
+12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Kara obniżenia stopnia podlega zatarciu po upływie terminu przewidzianego dla kary dyscyplinarnej, obok której została wymierzona. Przepis ust. 3 stosuje się odpowiednio.
+
+” ;
+
+### 48)
+
+po art. 137a dodaje się art. 137aa w brzmieniu:
+
+„
+
+### Art. 137aa.
+
+### 1.
+
+Decyzję o zatarciu kary dyscyplinarnej w przypadku, o którym mowa w art. 137a ust. 3, wydaje przełożony dyscyplinarny, o którym mowa w art. 135d ust. 1 pkt 1-6.
+
+### 2.
+
+Decyzję o zatarciu kary dyscyplinarnej doręcza się ukaranemu.
+
+” ;
+
+### 49)
+
+art. 137b otrzymuje brzmienie:
+
+„
+
+### Art. 137b.
+
+### 1.
+
+Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem wznawia się, jeżeli:
+
+### 1)
+
+dowody, na których podstawie ustalono istotne dla sprawy okoliczności, okazały się fałszywe;
+
+### 2)
+
+zostały ujawnione istotne dla sprawy nowe fakty lub dowody, które nie były znane w toku postępowania dyscyplinarnego;
+
+### 3)
+
+orzeczenie wydano z naruszeniem obowiązujących przepisów - jeżeli mogło to mieć wpływ na treść orzeczenia;
+
+### 4)
+
+orzeczenie zostało wydane na podstawie innej decyzji lub orzeczenia, które zostały następnie uchylone lub zmienione;
+
+### 5)
+
+prowadzone o ten sam czyn postępowanie karne, karne skarbowe lub w sprawach o wykroczenia zostało zakończone prawomocnym wyrokiem uniewinniającym albo orzeczeniem o umorzeniu postępowania ze względu na okoliczności określone w art. 17 § 1 pkt 1 lub 2 Kodeksu postępowania karnego albo w art. 5 § 1 pkt 1 lub 2 Kodeksu postępowania w sprawach o wykroczenia.
+
+### 2.
+
+Postępowania dyscyplinarnego nie wznawia się po upływie 10 lat od dnia uprawomocnienia się orzeczenia.
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się do spraw o wznowienie postępowania dyscyplinarnego zakończonego prawomocnym orzeczeniem o wydaleniu ze służby.
+
+### 4.
+
+Postępowania dyscyplinarnego nie wznawia się na niekorzyść ukaranego po ustaniu karalności czynu stanowiącego przewinienie dyscyplinarne.
+
+” ;
+
+### 50)
+
+po art. 137b dodaje się art. 137c-137e w brzmieniu:
+
+„
+
+### Art. 137c.
+
+### 1.
+
+Wznowienie postępowania dyscyplinarnego następuje z urzędu lub na wniosek ukaranego.
+
+### 2.
+
+Wniosek o wznowienie postępowania dyscyplinarnego na korzyść ukaranego może złożyć w razie jego śmierci jego krewny w linii prostej, przysposabiający lub przysposobiony, rodzeństwo oraz małżonek.
+
+### 3.
+
+W sprawach o wznowienie postępowania dyscyplinarnego właściwy jest przełożony dyscyplinarny, który wydał orzeczenie kończące postępowanie.
+
+### 4.
+
+W przypadku likwidacji stanowiska służbowego przełożonego dyscyplinarnego, który wydał orzeczenie kończące postępowanie, właściwy w sprawie wznowienia postępowania dyscyplinarnego jest przełożony dyscyplinarny sprawujący władzę dyscyplinarną obejmującą swoim zakresem zadania realizowane wcześniej przez przełożonego, który wydał orzeczenie kończące postępowanie.
+
+### 5.
+
+Jeżeli nie można ustalić właściwości w sprawach o wznowienie postępowania dyscyplinarnego w sposób wskazany w ust. 3 i 4, sprawa o wznowienie postępowania należy do właściwości Komendanta Głównego Straży Granicznej.
+
+### 6.
+
+Wznowienie lub odmowa wznowienia postępowania dyscyplinarnego następuje w drodze postanowienia. Postanowienie doręcza się ukaranemu, obrońcy lub osobie, o której mowa w ust. 2.
+
+### 7.
+
+Na postanowienie o odmowie wznowienia postępowania dyscyplinarnego ukaranemu lub osobie, o której mowa w ust. 2, przysługuje zażalenie do Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia doręczenia postanowienia, z tym że na postanowienie wydane przez ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej zażalenie nie przysługuje, jednak ukarany lub osoba, o której mowa w ust. 2, mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta Głównego Straży Granicznej w terminie 7 dni od dnia doręczenia postanowienia z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### Art. 137d.
+
+### 1.
+
+Postanowienie o wznowieniu postępowania dyscyplinarnego stanowi podstawę do przeprowadzenia postępowania co do rozstrzygnięcia istoty sprawy.
+
+### 2.
+
+Po przeprowadzeniu postępowania, o którym mowa w ust. 1, przełożony dyscyplinarny wydaje orzeczenie, w którym:
+
+### 1)
+
+odmawia uchylenia dotychczasowego orzeczenia;
+
+### 2)
+
+uchyla dotychczasowe orzeczenie i wydaje nowe orzeczenie rozstrzygające o istocie sprawy.
+
+### 3.
+
+Orzeczenie kary dyscyplinarnej surowszej od dotychczasowej jest możliwe tylko wtedy, gdy wznowienie postępowania nastąpiło z urzędu i nie nastąpiło przedawnienie karalności dyscyplinarnej za dany czyn oraz orzeczona dotychczas kara dyscyplinarna jest rażąco niewspółmierna do popełnionego czynu.
+
+### 4.
+
+Jeżeli w następstwie wznowienia postępowania wymierzono karę dyscyplinarną łagodniejszą, ulegają uchyleniu skutki wymierzonej poprzednio kary dyscyplinarnej surowszej, a w razie wymierzenia kary dyscyplinarnej surowszej jej skutki liczy się od dnia wymierzenia tej kary.
+
+### 5.
+
+Karę dyscyplinarną wykonaną zalicza się na poczet kary dyscyplinarnej orzeczonej w następstwie wznowienia postępowania, o którym mowa w ust. 4.
+
+### 6.
+
+Termin do zatarcia kary dyscyplinarnej zmienionej w następstwie wznowienia postępowania liczy się od dnia wydania orzeczenia o wymierzeniu pierwszej kary dyscyplinarnej.
+
+### 7.
+
+Od orzeczenia, o którym mowa w ust. 2, przysługuje odwołanie, z zastrzeżeniem art. 136by ust. 3. Przepisy art. 136bx-136bza i art. 136bzg stosuje się odpowiednio.
+
+### Art. 137e.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory orzeczeń, postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.
+
+” ;
+
+### 51)
+
+w art. 138 uchyla się ust. 6;
+
+### 52)
+
+uchyla się art. 140.
+
+### Art. 3.
+
+W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ([Dz. U. z 2020 r. poz. 961](https://api.sejm.gov.pl/eli/acts/DU/2020/961/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Osoby wykonujące czynności z zakresu ochrony przeciwpożarowej, w tym czynności, o których mowa w ust. 1, polegające na zapobieganiu powstawaniu i rozprzestrzenianiu się pożaru, niezatrudnione w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-5 i 8, są obowiązane posiadać tytuł zawodowy inżynier pożarnictwa albo tytuł zawodowy inżynier i dyplom ukończenia studiów w Szkole Głównej Służby Pożarniczej w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r.
+
+” ;
+
+### 2)
+
+w art. 7:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Dopuszczenia do użytkowania wyrobów, o których mowa w ust. 1, zwane dalej „dopuszczeniami”, w formie świadectwa dopuszczenia, wydają instytuty badawcze Państwowej Straży Pożarnej wskazane przez ministra właściwego do spraw wewnętrznych.
+
+” ,
+
+### b)
+
+ust. 7-9 otrzymują brzmienie:
+
+„
+
+### 7.
+
+Dopuszczony wyrób podlega oznakowaniu przez producenta znakiem instytutu badawczego Państwowej Straży Pożarnej, który wydał dopuszczenie.
+
+### 8.
+
+W okresie, o którym mowa w ust. 3, wyroby, w przypadku których zostało wydane dopuszczenie, podlegają kontroli zgodności wyrobu z wymaganiami techniczno-użytkowymi dokonywanej przez instytut badawczy Państwowej Straży Pożarnej, który wydał dopuszczenie.
+
+### 9.
+
+W przypadku negatywnych wyników kontroli, o której mowa w ust. 8, instytut badawczy Państwowej Straży Pożarnej, który wydał dopuszczenie, może je cofnąć.
+
+” ,
+
+### c)
+
+ust. 12 otrzymuje brzmienie:
+
+„
+
+### 12.
+
+Na wysokość opłaty za czynności kontrolne zgodności wyrobu z wymaganiami techniczno-użytkowymi mają wpływ wyłącznie koszty związane z badaniami tego wyrobu.
+
+” ;
+
+### 3)
+
+po art. 7 dodaje się art. 7a i art. 7b w brzmieniu:
+
+„
+
+### Art. 7a.
+
+### 1.
+
+Do użytkowania w jednostkach ochrony przeciwpożarowej, o których mowa w art. 15 pkt 1a-6 i 8, mogą być wprowadzone używane pojazdy pożarnicze nie starsze niż 30-letnie i używane przez co najmniej 5 lat na terenie innego państwa członkowskiego Unii Europejskiej albo w Republice Turcji lub w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) będących stroną umowy o Europejskim Obszarze Gospodarczym, licząc od daty pierwszej rejestracji poza granicami Rzeczypospolitej Polskiej, służące zapewnieniu bezpieczeństwa publicznego lub ochronie zdrowia i życia oraz mienia albo wykorzystywane do prowadzenia działań ratowniczych, jeżeli spełniają wymagania techniczno-użytkowe potwierdzone uzyskaniem pozytywnej opinii technicznej wydawanej przez instytuty badawcze Państwowej Straży Pożarnej.
+
+### 2.
+
+Opinia wydawana jest bezterminowo i jednostkowo dla każdego z pojazdów, w ramach indywidualnego postępowania.
+
+### 3.
+
+W przypadku gdy w pojazdach, o których mowa w ust. 1, zostały dokonane zmiany konstrukcyjne, materiałowe lub technologiczne mogące mieć wpływ na ich właściwości użytkowe albo rozszerzenie lub zmianę zakresu ich zastosowania, przed dalszym użytkowaniem pojazdów w jednostkach ochrony przeciwpożarowej nabywca, właściciel lub użytkownik informuje o tym instytut badawczy Państwowej Straży Pożarnej, który wydał opinię.
+
+### 4.
+
+Po otrzymaniu informacji, o której mowa w ust. 3, instytut badawczy Państwowej Straży Pożarnej, który wydał opinię, przeprowadza kontrolę wpływu wprowadzonych zmian na spełnienie wymagań techniczno-użytkowych, o których mowa w przepisach wydanych na podstawie ust. 7, zwaną dalej „kontrolą”, i w zależności od jej wyniku:
+
+### 1)
+
+utrzymuje w mocy wydaną opinię;
+
+### 2)
+
+zmienia wydaną opinię;
+
+### 3)
+
+cofa wydaną opinię.
+
+### 5.
+
+Do procedury wydania opinii oraz przeprowadzania kontroli w odniesieniu do pojazdów, o których mowa w ust. 1, nie stosuje się przepisu art. 7.
+
+### 6.
+
+Za czynności wykonane w celu wydania opinii lub przeprowadzania kontroli pobierane są opłaty. Opłaty pobiera instytut badawczy Państwowej Straży Pożarnej, który wydał opinię lub przeprowadził kontrolę. Wysokość opłaty nie może przekraczać dwukrotności kwoty przeciętnego miesięcznego wynagrodzenia w poprzednim kwartale, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów o waloryzacji oraz zasadach ustalania emerytur i rent.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb wydawania opinii oraz przeprowadzania kontroli dla pojazdów, o których mowa w ust. 1, wymagania techniczno-użytkowe tych pojazdów, dokumenty wymagane do uzyskania opinii oraz szczegółowe czynności przy wydawaniu, kontroli albo cofaniu opinii, a także sposób ustalania wysokości opłaty, o której mowa w ust. 6, biorąc pod uwagę konieczność zapewnienia bezpiecznego korzystania z pojazdów, konieczność zapewnienia możliwie najmniejszego negatywnego wpływu pojazdów na środowisko, przeznaczenie pojazdów oraz sposób ich wykorzystania, rzeczywiste koszty poszczególnych czynności oraz konieczność zapewnienia sprawnego ich wykonywania.
+
+### Art. 7b.
+
+Do dopuszczeń oraz opinii nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2020 r. poz. 256](https://api.sejm.gov.pl/eli/acts/DU/2020/256/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [1298](https://api.sejm.gov.pl/eli/acts/DU/2020/1298/text.html)).
+
+” ;
+
+### 4)
+
+w art. 11c w ust. 6:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+w wykonywaniu zawodu inżyniera pożarnictwa lub projektanta w rozumieniu ustawy z dnia 7 lipca 1994 r. - Prawo budowlane oraz ukończyła w Szkole Głównej Służby Pożarniczej studia podyplomowe dla osób ubiegających się o wykonywanie zawodu rzeczoznawcy;
+
+” ,
+
+### b)
+
+dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+w wykonywaniu czynności z zakresu ochrony przeciwpożarowej, o których mowa w art. 4 ust. 2a lub 2b, posiadała w okresie ich wykonywania tytuł zawodowy inżynier i dyplom ukończenia studiów w Szkole Głównej Służby Pożarniczej w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. oraz ukończyła studia podyplomowe, o których mowa w pkt 3.
+
+” ;
+
+### 5)
+
+w art. 16a w ust. 4b pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+tytułu zawodowego inżynier i dyplomu ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydanego do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydanego po dniu 30 września 2019 r. oraz kwalifikacji wymaganych do wykonywania zawodu strażak oraz ukończenie w Szkole Głównej Służby Pożarniczej przeszkolenia zawodowego przygotowującego do zajmowania stanowisk związanych z kierowaniem działaniami ratowniczymi, albo
+
+### 3)
+
+tytułu zawodowego inżynier oraz tytułu zawodowego magister inżynier i dyplomu ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynierii bezpieczeństwa pożarowego wydanego do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydanego po dniu 30 września 2019 r. oraz kwalifikacji do wykonywania zawodu technik pożarnictwa oraz ukończenie w Szkole Głównej Służby Pożarniczej przeszkolenia zawodowego przygotowującego do zajmowania stanowisk związanych z kierowaniem działaniami ratowniczymi.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2020 r. poz. 1123](https://api.sejm.gov.pl/eli/acts/DU/2020/1123/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12 ust. 3a otrzymuje brzmienie:
+
+„
+
+### 3a.
+
+W razie zwolnienia stanowiska komendanta wojewódzkiego Państwowej Straży Pożarnej, Komendant Główny Państwowej Straży Pożarnej, do czasu powołania nowego komendanta, powierza pełnienie obowiązków komendanta wojewódzkiego Państwowej Straży Pożarnej wyznaczonemu oficerowi Państwowej Straży Pożarnej, na okres nie dłuższy niż miesiąc. W okresie tym wyznaczonemu oficerowi przysługuje uposażenie przewidziane dla stanowiska komendanta wojewódzkiego Państwowej Straży Pożarnej, lecz nie niższe od dotychczasowego.
+
+” ;
+
+### 2)
+
+w art. 13 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W razie zwolnienia stanowiska komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, komendant wojewódzki Państwowej Straży Pożarnej, do czasu powołania nowego komendanta, powierza pełnienie obowiązków komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej wyznaczonemu oficerowi Państwowej Straży Pożarnej, na okres nie dłuższy niż 2 miesiące. W okresie tym wyznaczonemu oficerowi przysługuje uposażenie przewidziane dla stanowiska komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej, lecz nie niższe od dotychczasowego.
+
+” ;
+
+### 3)
+
+w art. 28 w ust. 14 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+dokumenty wymagane od kandydata do służby i ich wzory,
+
+” ;
+
+### 4)
+
+w art. 35 po ust. 10a dodaje się ust. 10b w brzmieniu:
+
+„
+
+### 10b.
+
+Strażakowi uprawnionemu do dodatku funkcyjnego, w zamian za czas służby przekraczający normę, o której mowa w ust. 1, nie przysługuje czas wolny, o którym mowa w ust. 9 i 10, ani rekompensata pieniężna, o której mowa w ust. 9.
+
+” ;
+
+### 5)
+
+w art. 36:
+
+### a)
+
+w ust. 3:
+
+- - pkt 3 i 4 otrzymują brzmienie: „ 3) posiada tytuł zawodowy inżynier i dyplom ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. oraz kwalifikacje wymagane do wykonywania zawodu strażak i ukończył przeszkolenie zawodowe przygotowujące do zajmowania stanowisk związanych z kierowaniem działaniami ratowniczymi, albo 4) posiada wykształcenie wyższe oraz kwalifikacje wymagane do zajmowania stanowisk aspiranckich i ukończył przeszkolenie zawodowe przygotowujące do zajmowania stanowisk związanych z kierowaniem działaniami ratowniczymi, albo ” ,
+
+- - uchyla się pkt 5,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Na stanowisko aspiranckie można mianować lub powołać strażaka, który uzyskał tytuł technik pożarnictwa po zdaniu egzaminu eksternistycznego zawodowego potwierdzającego kwalifikacje w zawodzie technik pożarnictwa przeprowadzanego przez okręgową komisję egzaminacyjną.
+
+” ,
+
+### c)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Przeszkolenie zawodowe przygotowujące do zajmowania stanowisk oficerskich w Państwowej Straży Pożarnej może odbywać strażak, który posiada kwalifikacje wymagane do wykonywania zawodu strażak.
+
+” ,
+
+### d)
+
+w ust. 10 pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+tytuł zawodowy inżynier i dyplom ukończenia w Szkole Głównej Służby Pożarniczej studiów w zakresie inżynierii bezpieczeństwa w specjalności inżynieria bezpieczeństwa pożarowego wydany do dnia 30 września 2019 r. lub studiów na kierunku inżynieria bezpieczeństwa w zakresie bezpieczeństwa pożarowego wydany po dniu 30 września 2019 r. oraz kwalifikacje wymagane do wykonywania zawodu strażak, lub
+
+### 3)
+
+kwalifikacje do zajmowania stanowisk aspiranckich w Państwowej Straży Pożarnej.
+
+” ;
+
+### 6)
+
+w art. 36a w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+ustalenie zasadności przyznania świadczenia motywacyjnego.
+
+” ;
+
+### 7)
+
+art. 37 otrzymuje brzmienie:
+
+„
+
+### Art. 37.
+
+### 1.
+
+Strażak otrzymuje legitymację służbową, stwierdzającą pełnienie służby w Państwowej Straży Pożarnej, która zawiera następujące dane osobowe strażaka:
+
+### 1)
+
+imię i nazwisko;
+
+### 2)
+
+wizerunek;
+
+### 3)
+
+numer ewidencyjny;
+
+### 4)
+
+numer legitymacji służbowej;
+
+### 5)
+
+termin ważności legitymacji służbowej.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaj i wzór legitymacji służbowej,
+
+### 2)
+
+podmiot właściwy do wydawania legitymacji służbowych,
+
+### 3)
+
+przypadki, w których legitymacja służbowa podlega zwrotowi, wymianie lub unieważnieniu,
+
+### 4)
+
+tryb postępowania w przypadku utraty legitymacji służbowej
+
+- mając na uwadze potrzebę zabezpieczenia legitymacji służbowej przed fałszerstwem, zapewnienie właściwej identyfikacji strażaka oraz potrzebę zapewnienia jej właściwej ochrony.
+
+” ;
+
+### 8)
+
+w art. 37a zdanie drugie otrzymuje brzmienie: „ W okresie tym strażakowi przysługuje uposażenie przewidziane dla stanowiska, na którym powierza się pełnienie obowiązków, lecz nie niższe od dotychczasowego. ” ;
+
+### 9)
+
+w art. 37r w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+wypłaca świadczenie motywacyjne, o którym mowa w art. 93 ust. 1 pkt 5b;
+
+” ;
+
+### 10)
+
+po art. 37u dodaje się art. 37v w brzmieniu:
+
+„
+
+### Art. 37v.
+
+Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano strażaka, na wniosek Komendanta Głównego Państwowej Straży Pożarnej lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez strażaka zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+
+” ;
+
+### 11)
+
+w art. 39 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Strażaka można zawiesić w czynnościach służbowych, na czas nie dłuższy niż 12 miesięcy, w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo nieumyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe nieumyślne albo postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby.
+
+” ;
+
+### 12)
+
+w art. 57a ust. 12 otrzymuje brzmienie:
+
+„
+
+### 12.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+tryb postępowania w sprawach oświadczeń o stanie majątkowym,
+
+### 2)
+
+wzór oświadczenia o stanie majątkowym osób pełniących funkcje organów Państwowej Straży Pożarnej,
+
+### 3)
+
+wzór oświadczenia o stanie majątkowym strażaków niepełniących funkcji organów Państwowej Straży Pożarnej,
+
+### 4)
+
+sposób dokonywania analizy oświadczeń o stanie majątkowym,
+
+### 5)
+
+sposób przechowywania oświadczeń o stanie majątkowym
+
+- uwzględniając zakres danych objętych oświadczeniem o stanie majątkowym, a także konieczność ujednolicenia formy przekazanych informacji oraz zapewnienia zupełności i przejrzystości przedstawianych informacji.
+
+” ;
+
+### 13)
+
+art. 61 i art. 62 otrzymują brzmienie:
+
+„
+
+### Art. 61.
+
+### 1.
+
+Strażak jest obowiązany do noszenia w czasie służby:
+
+### 1)
+
+umundurowania;
+
+### 2)
+
+środków ochrony indywidualnej;
+
+### 3)
+
+ekwipunku osobistego;
+
+### 4)
+
+oznak.
+
+### 2.
+
+Umundurowanie i oznaki są prawnie zastrzeżone wyłącznie dla strażaka.
+
+### 3.
+
+Umundurowanie i ekwipunek osobisty, w tym ich przedmioty, oraz środki ochrony indywidualnej i oznaki strażak otrzymuje bezpłatnie.
+
+### 4.
+
+Umundurowanie i środki ochrony indywidualnej zapewniają identyfikację Państwowej Straży Pożarnej jako formacji ratowniczej oraz spełniają warunki zapewniające bezpieczeństwo i higienę służby strażaków.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje, wzory, normy należności, okresy używalności oraz sposób noszenia umundurowania, w tym jego przedmiotów, i środków ochrony indywidualnej,
+
+### 2)
+
+rodzaje, normy należności oraz okresy używalności ekwipunku osobistego, w tym jego przedmiotów,
+
+### 3)
+
+sposób realizacji norm należności umundurowania i ekwipunku osobistego, w tym ich przedmiotów, oraz środków ochrony indywidualnej,
+
+### 4)
+
+rodzaje, wzory oznak oraz sposób ich noszenia,
+
+### 5)
+
+sposoby i okoliczności noszenia orderów, odznaczeń i odznak,
+
+### 6)
+
+rodzaje umundurowania, w tym przedmioty umundurowania, wydane w naturze albo w formie równoważnika pieniężnego w zamian za umundurowanie,
+
+### 7)
+
+sposób ustalania i obliczania równowartości umundurowania i ekwipunku osobistego, w tym ich przedmiotów, oraz środków ochrony indywidualnej, które podlegają zwrotowi,
+
+### 8)
+
+przypadki, w których strażak zwolniony ze służby może nosić umundurowanie,
+
+### 9)
+
+okres używalności umundurowania i ekwipunku osobistego, w tym ich przedmiotów, oraz środków ochrony indywidualnej, podlegających zwrotowi w przypadku zwolnienia strażaka ze służby
+
+- biorąc pod uwagę potrzebę należytego zaopatrzenia strażaka w umundurowanie, środki ochrony indywidualnej i ekwipunek osobisty, a także zapewnienie właściwego ubioru, wyposażenia oraz identyfikacji strażaka.
+
+### 6.
+
+Strażakowi, któremu nie wydano w naturze umundurowania, przysługuje równoważnik pieniężny w zamian za umundurowanie.
+
+### 7.
+
+Strażakowi przysługuje ryczałt za pranie chemiczne umundurowania wydanego w naturze.
+
+### 8.
+
+Strażak zwolniony ze służby jest obowiązany zwrócić pobraną nienależną część równoważnika pieniężnego w zamian za umundurowanie, chyba że zwolnienie nastąpiło z tytułu nabycia prawa do emerytury lub renty na podstawie ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2020 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2020/723/text.html)).
+
+### 9.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+wartości pieniężne umundurowania, w tym jego przedmiotów, stanowiące podstawę do określenia wysokości równoważnika pieniężnego w zamian za umundurowanie,
+
+### 2)
+
+sposób ustalania wysokości równoważnika pieniężnego w zamian za umundurowanie,
+
+### 3)
+
+tryb i sposób przyznawania, zwrotu i wypłaty równoważnika w zamian za umundurowanie,
+
+### 4)
+
+terminy wypłacania równoważnika w zamian za umundurowanie,
+
+### 5)
+
+wysokość i terminy wypłaty ryczałtu za pranie chemiczne umundurowania wydanego w naturze
+
+- biorąc pod uwagę wartość umundurowania wydanego w naturze, a także normy należności umundurowania.
+
+### Art. 62.
+
+### 1.
+
+Strażakowi w czasie pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub właściwości lub szczególne miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
+
+### 2.
+
+Wyżywienie w naturze przysługuje strażakowi:
+
+### 1)
+
+pełniącemu służbę w systemie skoszarowanym w okresie nauki w szkołach Państwowej Straży Pożarnej, odbywania kursów lub udziału w obozach szkoleniowych, z wyłączeniem okresu, w którym przebywa on na urlopie lub przepustce, trwającego co najmniej 24 godziny;
+
+### 2)
+
+podczas długotrwałych akcji ratowniczo-gaśniczych, za które uważa się:
+
+### a)
+
+każde działanie ratownicze organizowane lub kierowane przez Państwową Straż Pożarną trwające co najmniej 6 godzin, liczonych od chwili przyjęcia informacji o zdarzeniu,
+
+### b)
+
+pomocnicze specjalistyczne czynności ratownicze wykonywane przez Państwową Straż Pożarną w ramach pomocy udzielanej innym służbom ratowniczym trwające co najmniej 6 godzin,
+
+### c)
+
+inne działania Państwowej Straży Pożarnej wymagające zgrupowania strażaków przez okres co najmniej 6 godzin w czasie podwyższonej gotowości operacyjnej lub w celu współdziałania z innymi służbami,
+
+### d)
+
+akcje ratownictwa podwodnego prowadzone przez Państwową Straż Pożarną wymagające wykonania co najmniej jednego cyklu nurkowania;
+
+### 3)
+
+biorącemu udział w ćwiczeniach lub szkoleniach przez okres co najmniej 4 godzin po zakończeniu służby wynikającej z obowiązującego rozkładu czasu służby, o ile przepisy prawa dopuszczają taką możliwość;
+
+### 4)
+
+w ramach służby wynikającej z obowiązującego rozkładu czasu służby, jeżeli następuje ona bezpośrednio po zakończeniu przedłużonej służby, o której mowa w pkt 3;
+
+### 5)
+
+biorącemu udział w ćwiczeniach, manewrach, szkoleniach organizowanych przez Państwową Straż Pożarną trwających co najmniej 8 godzin, a także biorącemu udział w ćwiczeniach i manewrach organizowanych przez inne podmioty, jeżeli organizator nie zapewnia wyżywienia.
+
+### 3.
+
+Wyżywienie w naturze przysługuje strażakowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących strażakowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub właściwości lub miejsce jej pełnienia, norma może zostać uzupełniona.
+
+### 4.
+
+Normy wyżywienia mogą być realizowane w formie suchego prowiantu lub gotowych pakietów żywnościowych, lub posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne, w sytuacji gdy zorganizowanie wyżywienia w postaci posiłków sporządzanych w punktach żywienia Państwowej Straży Pożarnej nie jest możliwe albo gdy rodzaj i warunki pełnionej służby wymagają tego rodzaju wyżywienia. W przypadku realizacji wyżywienia w formie gotowych pakietów żywnościowych lub w formie posiłków sporządzanych przez zewnętrzne podmioty gastronomiczne normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia.
+
+### 5.
+
+W przypadku wyżywienia w naturze należy się kierować zasadami racjonalnego żywienia, w granicach obowiązujących wartości energetycznych, odżywczych i pieniężnych produktów żywnościowych określonych dla poszczególnych norm wyżywienia.
+
+### 6.
+
+Organ Państwowej Straży Pożarnej może zapewnić wyżywienie w naturze oraz napoje również innym osobom, w szczególności członkom ochotniczych straży pożarnych:
+
+### 1)
+
+uczestniczącym w akcjach, o których mowa w ust. 2 pkt 2;
+
+### 2)
+
+biorącym udział w ćwiczeniach, manewrach lub szkoleniach organizowanych przez Państwową Straż Pożarną trwających co najmniej 8 godzin;
+
+### 3)
+
+uczestniczącym w organizowanych przez Państwową Straż Pożarną ćwiczeniach zgrywających, których przewidywany czas trwania wynosi co najmniej 8 godzin.
+
+### 7.
+
+Strażak, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których uczestniczy w uroczystym posiłku organizowanym w punkcie żywienia Państwowej Straży Pożarnej.
+
+### 8.
+
+Strażak, któremu rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z przysługującego wyżywienia w naturze, otrzymuje świadczenie pieniężne w zamian za wyżywienie.
+
+### 9.
+
+Strażakowi, który zrezygnował z przysługującego wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia.
+
+### 10.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje norm wyżywienia oraz ich wartość pieniężną,
+
+### 2)
+
+średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
+
+### 3)
+
+przypadki przyznawania poszczególnych norm wyżywienia,
+
+### 4)
+
+przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
+
+### 5)
+
+wartości świadczenia pieniężnego w zamian za wyżywienie
+
+- uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu strażakom wyżywienia w naturze względem realnej wartości wyżywienia i rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.
+
+” ;
+
+### 14)
+
+po art. 62 dodaje się art. 62a i art. 62b w brzmieniu:
+
+„
+
+### Art. 62a.
+
+### 1.
+
+Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej właściwy miejscowo ze względu na miejsce prowadzenia długotrwałej akcji, ćwiczeń, manewrów lub szkoleń zapewnia wyżywienie i napoje podległym mu strażakom w przypadkach, o których mowa w art. 62 ust. 2 pkt 2-5, oraz innym osobom w przypadkach, o których mowa w art. 62 ust. 6.
+
+### 2.
+
+Kierownik jednostki organizacyjnej Państwowej Straży Pożarnej zapewnia wyżywienie w trakcie organizowanych przez niego ćwiczeń, manewrów i szkoleń, chyba że ze względów organizacyjnych organizatorzy ćwiczeń lub manewrów postanowią inaczej.
+
+### 3.
+
+Kierownicy jednostek zapewniają wyżywienie siłom przeznaczonym do formowania odwodów operacyjnych, tak aby mogły one działać bez dodatkowego wyżywienia przez czas określony w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej.
+
+### 4.
+
+Siły odwodów operacyjnych prowadzą działania bez dodatkowego wyżywienia przez czas określony w przepisach wydanych na podstawie art. 14 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej. Po wykorzystaniu posiadanego wyżywienia przepis ust. 2 stosuje się odpowiednio.
+
+### Art. 62b.
+
+Napoje w naturze, w ilości zaspokajającej potrzeby strażaka, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.
+
+” ;
+
+### 15)
+
+w art. 67 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+posiadają całkowitą niezdolność do pracy oraz niezdolność do samodzielnej egzystencji lub posiadają całkowitą niezdolność do pracy, przed osiągnięciem wieku, o którym mowa w pkt 1.
+
+” ;
+
+### 16)
+
+w art. 70:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Strażakowi, który po zwolnieniu ze służby w Państwowej Straży Pożarnej podjął pracę, okres tej służby wlicza się do okresu zatrudnienia w zakresie wszelkich uprawnień wynikających z prawa pracy.
+
+” ,
+
+### b)
+
+uchyla się ust. 2 i 3,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przepisu ust. 1 nie stosuje się do strażaka zwolnionego ze służby na podstawie art. 43 ust. 2 pkt 3 i 4.
+
+” ;
+
+### 17)
+
+w art. 87:
+
+### a)
+
+w ust. 1 w pkt 4a kropkę zastępuje się przecinkiem i dodaje się pkt 4b w brzmieniu:
+
+„
+
+### 4b)
+
+dodatek funkcyjny za pełnienie służby na stanowisku kierowniczym lub samodzielnym;
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Strażakowi uprawnionemu do otrzymywania dodatku funkcyjnego, o którym mowa w ust. 1 pkt 4b, nie przysługuje dodatek służbowy.
+
+” ;
+
+### 18)
+
+w art. 88 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia:
+
+### 1)
+
+grupy i stawki uposażenia zasadniczego strażaków,
+
+### 2)
+
+zaszeregowanie stanowisk służbowych do poszczególnych grup uposażenia zasadniczego,
+
+### 3)
+
+rodzaj dodatków, o których mowa w art. 87 ust. 1 pkt 4,
+
+### 4)
+
+przesłanki przyznawania i wysokość dodatków do uposażenia, o których mowa w art. 87 ust. 1, oraz podmioty uprawnione do ich przyznawania,
+
+### 5)
+
+przesłanki podwyższania i obniżania dodatków do uposażenia,
+
+### 6)
+
+sposób i tryb zaliczania oraz sposób dokumentowania okresów służby i pracy do okresu służby, od którego zależy prawo do wzrostu uposażenia,
+
+### 7)
+
+stanowiska uprawniające do dodatku funkcyjnego, o którym mowa w art. 87 ust. 1 pkt 4b
+
+- uwzględniając hierarchię stanowisk służbowych i stopień odpowiedzialności na danym stanowisku służbowym oraz konieczność udokumentowania okresów służby i pracy do okresu służby, od którego zależy prawo do wzrostu uposażenia.
+
+” ;
+
+### 19)
+
+w art. 93 w ust. 1:
+
+### a)
+
+po pkt 5a dodaje się pkt 5b w brzmieniu:
+
+„
+
+### 5b)
+
+świadczenie motywacyjne;
+
+” ,
+
+### b)
+
+w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+świadczenie pieniężne w zamian za wyżywienie.
+
+” ;
+
+### 20)
+
+po art. 97d dodaje się art. 97e w brzmieniu:
+
+„
+
+### Art. 97e.
+
+### 1.
+
+Strażakowi przyznaje się świadczenie motywacyjne po osiągnięciu:
+
+### 1)
+
+25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
+
+### 2)
+
+28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
+
+### 2.
+
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+### 1)
+
+służby w Państwowej Straży Pożarnej;
+
+### 2)
+
+służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+
+### 3)
+
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+
+### 3.
+
+Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa w art. 32 ust. 1, wydaje nie później niż w terminie 30 dni po osiągnięciu przez strażaka stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+
+### 4.
+
+Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego strażak podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 36a, jeżeli od dnia wydania ostatniej opinii o tym strażaku upłynęły co najmniej 3 miesiące.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi Głównemu Państwowej Straży Pożarnej i jego zastępcom.
+
+### 6.
+
+Świadczenia motywacyjnego nie przyznaje się strażakowi:
+
+### 1)
+
+który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 38 ust. 2 pkt 2 albo art. 43 ust. 2 pkt 2 albo ust. 3 pkt 4a - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+
+### 2)
+
+w przypadku, o którym mowa w art. 38 ust. 2 pkt 3 - przez okres jednego roku od dnia stwierdzenia wskazanej okoliczności;
+
+### 3)
+
+przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+
+### 4)
+
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+
+### 5)
+
+skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+
+### 7.
+
+Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+
+### 8.
+
+Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego strażakowi przysługuje odwołanie do wyższego przełożonego w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez ministra właściwego do spraw wewnętrznych lub Komendanta Głównego Państwowej Straży Pożarnej przysługuje, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
+
+### 9.
+
+Świadczenia motywacyjnego nie wypłaca się za okres:
+
+### 1)
+
+korzystania z urlopu bezpłatnego,
+
+### 2)
+
+przerw w wykonywaniu obowiązków służbowych, za które strażak nie zachował prawa do uposażenia, wymienionych w art. 109 ust. 1-3,
+
+### 3)
+
+zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
+
+### 4)
+
+zwolnienia z zajęć służbowych, o którym mowa w art. 105b ust. 2 pkt 1 i 3-5,
+
+### 5)
+
+innej nieobecności trwającej co najmniej jeden miesiąc
+
+- proporcjonalnie do tego okresu.
+
+### 10.
+
+Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+
+### 11.
+
+Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+
+### 12.
+
+Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem strażaka ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+” ;
+
+### 21)
+
+w art. 114 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Do strażaków w służbie kandydackiej stosuje się odpowiednio przepisy art. 29-30, art. 37, art. 61 ust. 1-4, art. 67-69, art. 72 ust. 1 i 2, art. 73, art. 97b, art. 103 ust. 2 i 3 i art. 115-124n.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2019 r. poz. 1921](https://api.sejm.gov.pl/eli/acts/DU/2019/1921/text.html) i [2020](https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 87 w ust. 1 uchyla się pkt 4;
+
+### 2)
+
+w art. 96 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Ekwiwalent pieniężny za 1 dzień niewykorzystanego urlopu wypoczynkowego lub dodatkowego ustala się w wysokości 1/21 miesięcznego uposażenia, należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym.
+
+” ;
+
+### 3)
+
+w art. 98 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+W przypadku śmierci funkcjonariusza pozostałej po nim rodzinie przysługuje odprawa pośmiertna w takiej wysokości, w jakiej przysługiwałaby temu funkcjonariuszowi odprawa, gdyby był zwolniony ze służby, a także ekwiwalent pieniężny, o którym mowa w art. 96 ust. 1 pkt 2.
+
+### 2.
+
+W przypadku śmierci funkcjonariusza, pozostającej w związku z jego służbą, pozostałej po nim rodzinie przysługuje świadczenie pieniężne w podwójnej wysokości renty rodzinnej, wypłacane miesięcznie z budżetu państwa z części, której dysponentem jest CBA, a także ekwiwalent pieniężny, o którym mowa w art. 96 ust. 1 pkt 2.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej ([Dz. U. z 2020 r. poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2020/848/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 79 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Organ instytucji krajowej lub zagranicznej, do której oddelegowano funkcjonariusza, na wniosek Dyrektora Generalnego lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+
+” ;
+
+### 2)
+
+w art. 164:
+
+### a)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+
+### 3.
+
+Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych Służby Więziennej, na wniosek funkcjonariusza, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 56 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+” ,
+
+### b)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Dyrektor Generalny może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 3 stosuje się odpowiednio. Poniesione przez Służbę Więzienną koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.
+
+” ;
+
+### 3)
+
+po art. 164 dodaje się art. 164a w brzmieniu:
+
+„
+
+### Art. 164a.
+
+### 1.
+
+Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, w związku z wykonywaniem czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+
+### 2.
+
+Ochronę prawną, o której mowa w ust. 1, zapewnia jednostka organizacyjna Służby Więziennej, w której funkcjonariusz pokrzywdzony przestępstwem pełni służbę, a jeżeli jednostka ta nie ma zapewnionej obsługi prawnej realizowanej przez radców prawnych lub adwokatów, ochronę prawną zapewnia właściwy miejscowo okręgowy inspektorat Służby Więziennej albo Centralny Zarząd Służby Więziennej.
+
+### 3.
+
+W przypadku braku możliwości zapewnienia ochrony prawnej przez jednostkę organizacyjną Służby Więziennej, o której mowa w ust. 2, funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 56 ust. 3, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+### 4.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 164 ust. 2 i 4, a także podmioty właściwe w sprawie zwrotu kosztów ochrony prawnej, o których mowa w ust. 3 oraz w art. 164 ust. 3, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.
+
+” ;
+
+### 4)
+
+w art. 193 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+świadczenie motywacyjne.
+
+” ;
+
+### 5)
+
+po art. 208e dodaje się art. 208f w brzmieniu:
+
+„
+
+### Art. 208f.
+
+### 1.
+
+Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
+
+### 1)
+
+25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
+
+### 2)
+
+28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
+
+### 2.
+
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+### 1)
+
+służby w Służbie Więziennej;
+
+### 2)
+
+służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Celnej i Służbie Celno-Skarbowej;
+
+### 3)
+
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin.
+
+### 3.
+
+Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego przełożony, o którym mowa w art. 32 ust. 1 lub art. 63 ust. 2, wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+
+### 4.
+
+Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 86, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+
+### 5.
+
+Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+
+### 1)
+
+który podczas ostatniego opiniowania służbowego otrzymał opinię służbową, o której mowa w art. 96 ust. 1 pkt 1 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+
+### 2)
+
+przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+
+### 3)
+
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+
+### 4)
+
+skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+
+### 6.
+
+Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 5, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+
+### 7.
+
+Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje odwołanie do wyższego przełożonego w terminie 7 dni od dnia doręczenia decyzji. W przypadku decyzji wydanej przez Ministra Sprawiedliwości lub Dyrektora Generalnego przysługuje, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
+
+### 8.
+
+Świadczenia motywacyjnego nie wypłaca się za okres:
+
+### 1)
+
+korzystania z urlopu bezpłatnego,
+
+### 2)
+
+przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 61,
+
+### 3)
+
+zawieszenia w czynnościach służbowych albo tymczasowego aresztowania;
+
+### 4)
+
+zwolnienia z zajęć służbowych, o którym mowa w art. 60c ust. 2 pkt 1 i 3-5,
+
+### 5)
+
+innej nieobecności trwającej co najmniej jeden miesiąc
+
+- proporcjonalnie do tego okresu.
+
+### 9.
+
+Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+
+### 10.
+
+Świadczenie motywacyjne płatne jest z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+
+### 11.
+
+Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 6, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2020 r. poz. 384](https://api.sejm.gov.pl/eli/acts/DU/2020/384/text.html) i [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 98 dodaje się art. 98a w brzmieniu:
+
+„
+
+### Art. 98a.
+
+Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta SOP lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+
+” ;
+
+### 2)
+
+w art. 103 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariusza zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego - na czas nie dłuższy niż 3 miesiące.
+
+### 2.
+
+Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo lub przestępstwo skarbowe, nieumyślne, ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby - na czas nie dłuższy niż 12 miesięcy.
+
+” ;
+
+### 3)
+
+po art. 142 dodaje się art. 142a i art. 142b w brzmieniu:
+
+„
+
+### Art. 142a.
+
+### 1.
+
+Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem zadań i czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+
+### 2.
+
+Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych SOP, na wniosek funkcjonariusza, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 162 ust. 14, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+### 3.
+
+W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant SOP może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem zadań i czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez SOP koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.
+
+### Art. 142b.
+
+### 1.
+
+Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem zadań lub czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+
+### 2.
+
+Ochronę prawną, o której mowa w ust. 1, zapewnia funkcjonariuszowi SOP.
+
+### 3.
+
+W przypadku braku możliwości zapewnienia ochrony prawnej przez SOP funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 162 ust. 14, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 142a ust. 1 i 3, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.
+
+” ;
+
+### 4)
+
+w art. 149:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariuszowi w dniach pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub właściwości lub miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+biorącemu udział w zadaniach, o których mowa w art. 3 pkt 1 lit. a-d, trwających powyżej 8 godzin, odbywających się na terenie miasta stołecznego Warszawy.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+Wyżywienie w naturze przysługuje funkcjonariuszowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących funkcjonariuszowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub szczególne właściwości lub miejsce jej pełnienia norma może zostać uzupełniona.
+
+### 2b.
+
+W przypadku braku możliwości zapewnienia funkcjonariuszom wykonującym zadania służbowe poza terenem miasta stołecznego Warszawy wyżywienia w naturze w punktach żywienia SOP normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia. W sytuacji gdy jest to niezbędne dla zapewnienia ciągłości realizacji zadań, o których mowa w art. 3 pkt 1 lit. a-d, norma wyżywienia może zostać podwyższona do poziomu pozwalającego na zapewnienie wyżywienia.
+
+” ,
+
+### d)
+
+uchyla się ust. 3,
+
+### e)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Funkcjonariuszowi, który zrezygnował z przysługującego mu wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia, z wyjątkiem rezygnacji z wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim w sytuacji braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze.
+
+” ,
+
+### f)
+
+uchyla się ust. 5,
+
+### g)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Funkcjonariusz otrzymuje świadczenie pieniężne w zamian za wyżywienie w przypadku:
+
+### 1)
+
+gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego temu funkcjonariuszowi w naturze albo
+
+### 2)
+
+braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze z powodów zdrowotnych udokumentowanych zaświadczeniem lekarskim.
+
+” ,
+
+### h)
+
+po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+„
+
+### 6a.
+
+Świadczenie pieniężne w zamian za wyżywienie podwyższa się w przypadku:
+
+### 1)
+
+braku możliwości zapewnienia funkcjonariuszowi wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych;
+
+### 2)
+
+udziału funkcjonariusza w zawodach sportowych i spartakiadach oraz pobytu na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami, jeżeli nie można mu zapewnić wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych.
+
+### 6b.
+
+Funkcjonariusz, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których uczestniczy w uroczystym posiłku.
+
+” ,
+
+### i)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje norm wyżywienia oraz ich wartość pieniężną,
+
+### 2)
+
+średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
+
+### 3)
+
+przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
+
+### 4)
+
+wartości świadczenia pieniężnego w zamian za wyżywienie oraz termin jego wypłaty
+
+- uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu funkcjonariuszom wyżywienia w naturze względem realnej wartości wyżywienia, rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.
+
+” ;
+
+### 5)
+
+po art. 149 dodaje się art. 149a w brzmieniu:
+
+„
+
+### Art. 149a.
+
+Napoje w naturze, w ilości zaspokajającej potrzeby funkcjonariusza, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.
+
+” ;
+
+### 6)
+
+w art. 151 w ust. 1 uchyla się zdanie drugie;
+
+### 7)
+
+po art. 158a dodaje się art. 158b w brzmieniu:
+
+„
+
+### Art. 158b.
+
+### 1.
+
+Urlopu wypoczynkowego i dodatkowego urlopu wypoczynkowego udziela się w dni, które są dla funkcjonariusza dniami służby, zgodnie z obowiązującym go rozkładem czasu służby, w wymiarze godzinowym, odpowiadającym dobowemu wymiarowi czasu służby funkcjonariusza w danym dniu.
+
+### 2.
+
+Każde 8 godzin urlopu udzielonego zgodnie z ust. 1 zmniejsza wymiar należnego urlopu o 1 dzień.
+
+### 3.
+
+Udzielenie funkcjonariuszowi urlopu w dniu służby w wymiarze godzinowym, odpowiadającym części dobowego wymiaru czasu służby jest dopuszczalne jedynie w przypadku, gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu służby funkcjonariusza w dniu, w którym ma być udzielony urlop.
+
+” ;
+
+### 8)
+
+w art. 172 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu:
+
+„
+
+### 7)
+
+świadczenie pieniężne w zamian za wyżywienie;
+
+### 8)
+
+świadczenie motywacyjne.
+
+” ;
+
+### 9)
+
+po art. 172a dodaje się art. 172b w brzmieniu:
+
+„
+
+### Art. 172b.
+
+### 1.
+
+Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
+
+### 1)
+
+25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
+
+### 2)
+
+28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
+
+### 2.
+
+Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+
+### 1)
+
+służby w SOP;
+
+### 2)
+
+służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+
+### 3)
+
+traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2020 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2020/723/text.html)).
+
+### 3.
+
+Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Komendant SOP wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+
+### 4.
+
+Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 82, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi SOP i jego zastępcom.
+
+### 6.
+
+Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+
+### 1)
+
+który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 102 ust. 2 pkt 2 albo 3 albo art. 107 ust. 1 pkt 2 albo 3 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+
+### 2)
+
+przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+
+### 3)
+
+ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+
+### 4)
+
+skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+
+### 7.
+
+Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+
+### 8.
+
+Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje w terminie 7 dni od dnia doręczenia decyzji wniosek o ponowne rozpatrzenie sprawy.
+
+### 9.
+
+Świadczenia motywacyjnego nie wypłaca się za okres:
+
+### 1)
+
+korzystania z urlopu bezpłatnego,
+
+### 2)
+
+przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 203,
+
+### 3)
+
+zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
+
+### 4)
+
+zwolnienia z zajęć służbowych, o którym mowa w art. 194 ust. 2 pkt 1 i 3-5,
+
+### 5)
+
+innej nieobecności trwającej co najmniej jeden miesiąc
+
+- proporcjonalnie do tego okresu.
+
+### 10.
+
+Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+
+### 11.
+
+Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+
+### 12.
+
+Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+” ;
+
+### 10)
+
+w art. 188 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Wysokość ekwiwalentu za 1 dzień urlopu, o którym mowa w ust. 1 pkt 2, oblicza się, mnożąc 1/21 uposażenia zasadniczego wraz z dodatkami o charakterze stałym, w wysokości średniej tych dodatków z ostatnich 12 miesięcy, należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym przez liczbę dni niewykorzystanego urlopu.
+
+” ;
+
+### 11)
+
+w art. 208 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej funkcjonariusza SOP.
+
+” ;
+
+### 12)
+
+w art. 209:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Naruszenie dyscypliny służbowej stanowi czyn funkcjonariusza polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków służbowych wynikających z przepisów prawa lub poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także z przepisów prawa; ” ,
+
+- - po pkt 4 dodaje się pkt 4a w brzmieniu: „ 4a) nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej; ” ,
+
+- - po pkt 5 dodaje się pkt 5a i 5b w brzmieniu: „ 5a) porzucenie służby; 5b) samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu; ” ,
+
+- - w pkt 6 wyrazy „po spożyciu alkoholu lub” zastępuje się wyrazami „nietrzeźwości albo po użyciu alkoholu albo”,
+
+- - po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) umyślne naruszenie dóbr osobistych innego funkcjonariusza; ” ,
+
+- - uchyla się pkt 11 i 12,
+
+### c)
+
+w ust. 3 skreśla się zdanie drugie,
+
+### d)
+
+po ust. 3 dodaje się ust. 3a-3f w brzmieniu:
+
+„
+
+### 3a.
+
+Rozmowę dyscyplinującą można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
+
+### 3b.
+
+Jeżeli funkcjonariusz nie zgadza się z wytkniętym mu niewłaściwym postępowaniem podczas rozmowy dyscyplinującej w terminie 5 dni od dnia zapoznania się z notatką z tej rozmowy może wnieść do przełożonego dyscyplinarnego pisemny sprzeciw, zwany dalej „sprzeciwem”. O prawie do wniesienia sprzeciwu funkcjonariusza poucza się podczas rozmowy dyscyplinującej, a treść pouczenia zawiera się w notatce z tej rozmowy.
+
+### 3c.
+
+Wniesienie sprzeciwu obliguje przełożonego dyscyplinarnego do wszczęcia postępowania dyscyplinarnego, z wyjątkiem przypadku gdy nastąpił upływ terminów określonych w art. 213.
+
+### 3d.
+
+Brak wniesienia sprzeciwu powoduje włączenie notatki z przeprowadzonej rozmowy dyscyplinującej do akt osobowych funkcjonariusza, z którym była przeprowadzona ta rozmowa. W przypadku wniesienia sprzeciwu notatkę z przeprowadzonej rozmowy dyscyplinującej włącza się do akt postępowania dyscyplinarnego.
+
+### 3e.
+
+W przypadku wniesienia sprzeciwu i braku możliwości wszczęcia postępowania dyscyplinarnego w związku z upływem terminów określonych w art. 213 notatka z przeprowadzonej rozmowy dyscyplinującej podlega zniszczeniu.
+
+### 3f.
+
+W przypadku wniesienia sprzeciwu po upływie terminu, o którym mowa w ust. 3b, przełożony dyscyplinarny wydaje postanowienie o odmowie przyjęcia sprzeciwu. Na postanowienie przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Zażalenie wnosi się za pośrednictwem przełożonego dyscyplinarnego do Komendanta SOP. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 235 ust. 3 stosuje się odpowiednio.
+
+” ,
+
+### e)
+
+w ust. 4 wyrazy „okres roku” zastępuje się wyrazami „5 miesięcy”;
+
+### 13)
+
+art. 211 otrzymuje brzmienie:
+
+„
+
+### Art. 211.
+
+### 1.
+
+Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+
+### 2.
+
+Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, nakłania go do tego.
+
+### 3.
+
+Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+
+### 4.
+
+Każdy z funkcjonariuszy, o których mowa w ust. 1-3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+
+### 5.
+
+Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+
+### 6.
+
+Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.
+
+” ;
+
+### 14)
+
+w art. 212 dodaje się ust. 3-7 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych posiada władzę dyscyplinarną wobec Komendanta SOP.
+
+### 4.
+
+Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
+
+### 5.
+
+Funkcjonariusz, który w zastępstwie wykonuje obowiązki na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą osobie zastępowanej.
+
+### 6.
+
+Funkcjonariusz przebywający na urlopach związanych z rodzicielstwem, urlopie bezpłatnym lub oddelegowany do wykonywania zadań poza SOP podlega władzy dyscyplinarnej przełożonego dyscyplinarnego, któremu podlegał przed udzieleniem mu urlopu lub oddelegowaniem.
+
+### 7.
+
+Przełożonym dyscyplinarnym funkcjonariusza oddelegowanego do pełnienia służby w Biurze Nadzoru Wewnętrznego jest Inspektor Nadzoru Wewnętrznego, z wyłączeniem orzekania kar dyscyplinarnych określonych w art. 215 pkt 3-7, które wymierza przełożony, o którym mowa w ust. 1 lub 2. Przepisy art. 232 ust. 2, art. 235 ust. 4, art. 242 ust. 9 oraz art. 243 ust. 5 stosuje się odpowiednio.
+
+” ;
+
+### 15)
+
+w art. 213:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego dyscyplinarnego udokumentowanej informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza czynu, za który ponosi on odpowiedzialność dyscyplinarną.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.
+
+” ,
+
+### c)
+
+w ust. 2 wyrazy „1 roku” zastępuje się wyrazami „2 lat”;
+
+### 16)
+
+w art. 215:
+
+### a)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+ostrzeżenie o niepełnej przydatności do służby;
+
+” ,
+
+### b)
+
+uchyla się pkt 6;
+
+### 17)
+
+w art. 218 wyrazy „może zostać” zastępuje się wyrazem „zostanie”;
+
+### 18)
+
+w art. 220 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby.
+
+” ;
+
+### 19)
+
+po art. 220 dodaje się art. 220a w brzmieniu:
+
+„
+
+### Art. 220a.
+
+Kara ostrzeżenia o niepełnej przydatności do służby polega na wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.
+
+” ;
+
+### 20)
+
+uchyla się art. 221;
+
+### 21)
+
+w art. 223 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się z zastrzeżeniem art. 220 ust. 2.
+
+” ;
+
+### 22)
+
+w art. 224:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Karę dyscyplinarną wymierza się w sposób współmierny do przewinienia dyscyplinarnego popełnionego przez obwinionego oraz stopnia zawinienia.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przy wymierzaniu kary dyscyplinarnej uwzględnia się rodzaj i wagę czynu, skutki i okoliczności jego popełnienia, pobudki działania obwinionego, następstwa negatywne dla służby, dotychczasowe wyniki w służbie, opinię służbową, okres pozostawania w służbie oraz zachowanie się obwinionego przed popełnieniem i po popełnieniu zarzucanego mu czynu, a także inne okoliczności, zarówno łagodzące, jak i obciążające, istotne w sprawie.
+
+” ,
+
+### c)
+
+w ust. 2 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+działanie z motywacji zasługującej na szczególne potępienie albo w stanie nietrzeźwości albo po użyciu alkoholu lub innego podobnie działającego środka;
+
+### 2)
+
+popełnienie przewinienia dyscyplinarnego w czasie odbywania uprzednio wymierzonej kary dyscyplinarnej, jak również w czasie próby określonej w orzeczeniu o warunkowym zawieszeniu wykonania kary lub warunkowym umorzeniu postępowania karnego;
+
+” ;
+
+### 23)
+
+po art. 224 dodaje się art. 224a w brzmieniu:
+
+„
+
+### Art. 224a.
+
+### 1.
+
+Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+
+### 2.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów, ocenianych swobodnie z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
+
+### 3.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.
+
+” ;
+
+### 24)
+
+w art. 225:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 1 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) wskutek wniesienia sprzeciwu, o którym mowa w art. 209 ust. 3b; ” ,
+
+- - w pkt 2 po wyrazie „pokrzywdzonego” dodaje się przecinek i wyrazy „innego zainteresowanego organu lub instytucji”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1 pkt 1 lit. c i pkt 2, przełożony dyscyplinarny lub Komendant SOP zawiadamiają odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone zachowaniem funkcjonariusza stanowiącym przewinienie dyscyplinarne.
+
+” ,
+
+### d)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny pisemnie zleca rzecznikowi dyscyplinarnemu przeprowadzenie czynności wyjaśniających, opatrując to polecenie datą otrzymania informacji uzasadniających przeprowadzenie czynności. Czynności te kończy się w terminie 30 dni od dnia wydania postanowienia, o którym mowa w ust. 3a. W szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 3a.
+
+” ,
+
+### e)
+
+po ust. 3 dodaje się ust. 3a-3f w brzmieniu:
+
+„
+
+### 3a.
+
+Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+
+### 3b.
+
+Postanowienie, o którym mowa w ust. 3a, zawiera:
+
+### 1)
+
+stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+
+### 2)
+
+datę wydania;
+
+### 3)
+
+podstawę prawną;
+
+### 4)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+
+### 5)
+
+określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+
+### 6)
+
+wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+
+### 7)
+
+podpis przełożonego dyscyplinarnego i urzędową pieczęć SOP albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+
+### 3c.
+
+Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 3b pkt 5.
+
+### 3d.
+
+W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+
+### 3e.
+
+Z przeprowadzonych czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+
+### 3f.
+
+W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
+
+” ,
+
+### f)
+
+po ust. 4 dodaje się ust. 4a-4c w brzmieniu:
+
+„
+
+### 4a.
+
+Celem postępowania dyscyplinarnego jest w szczególności:
+
+### 1)
+
+ustalenie, czy czyn zarzucany obwinionemu został popełniony i czy obwiniony jest jego sprawcą;
+
+### 2)
+
+wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
+
+### 3)
+
+zebranie i utrwalenie dowodów w sprawie.
+
+### 4b.
+
+Przełożony dyscyplinarny i wyższy przełożony dyscyplinarny badają swoją właściwość przed podjęciem czynności w sprawach dyscyplinarnych, a w przypadku stwierdzenia braku właściwości przekazują sprawę odpowiednio uprawnionemu przełożonemu dyscyplinarnemu albo wyższemu przełożonemu dyscyplinarnemu.
+
+### 4c.
+
+Rzecznik dyscyplinarny przekazuje niezwłocznie przełożonemu dyscyplinarnemu dokumenty w sprawach dyscyplinarnych zastrzeżonych do jego właściwości.
+
+” ,
+
+### g)
+
+w ust. 5 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu.
+
+” ,
+
+### h)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 226a ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 226a ust. 1.
+
+” ;
+
+### 25)
+
+w art. 226 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+
+### 1)
+
+czynności wyjaśniające nie potwierdziły popełnienia przewinienia dyscyplinarnego;
+
+### 2)
+
+upłynęły terminy określone w art. 213 ust. 2 i 3;
+
+### 3)
+
+postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub, wcześniej wszczęte, toczy się.
+
+” ;
+
+### 26)
+
+po art. 226 dodaje się art. 226a w brzmieniu:
+
+„
+
+### Art. 226a.
+
+### 1.
+
+Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+
+### 3.
+
+Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+
+### 4.
+
+Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 215 pkt 1 lub 2. Czynności, o których mowa w art. 233 ust. 1-6, nie przeprowadza się.
+
+### 5.
+
+W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+
+### 6.
+
+Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+
+### 7.
+
+Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+
+### 8.
+
+W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 234 ust. 1, od którego przysługuje odwołanie w trybie art. 235.
+
+### 9.
+
+Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.
+
+” ;
+
+### 27)
+
+w art. 227:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 225 ust. 3, wyznacza rzecznika dyscyplinarnego w stopniu co najmniej:
+
+### 1)
+
+młodszego chorążego SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień w korpusie szeregowych, podoficerów lub chorążych;
+
+### 2)
+
+podporucznika SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień podporucznika, porucznika lub kapitana SOP;
+
+### 3)
+
+majora SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień majora SOP lub wyższy.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Rzecznika dyscyplinarnego odwołuje się w przypadkach:
+
+### 1)
+
+zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w SOP;
+
+### 2)
+
+prawomocnego zawieszenia go w czynnościach służbowych;
+
+### 3)
+
+prawomocnego ukarania go karą dyscyplinarną;
+
+### 4)
+
+delegowania go do wykonywania zadań poza SOP.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Komendant SOP może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.
+
+” ,
+
+### d)
+
+w ust. 5:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) jest małżonkiem obwinionego, jego obrońcy lub pokrzywdzonego albo pozostaje we wspólnym pożyciu z jedną z tych osób; ” ,
+
+- - po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) jest krewnym lub powinowatym obwinionego lub pokrzywdzonego w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osób wymienionych w pkt 2, albo jest związany z jedną z tych osób węzłem przysposobienia, opieki lub kurateli; ” ,
+
+- - pkt 3 i 4 otrzymują brzmienie: „ 3) był świadkiem zdarzenia lub w tej sprawie był przesłuchany w charakterze świadka; 4) między nim a obwinionym lub pokrzywdzonym zachodzi stosunek osobisty mogący wywołać wątpliwości co do bezstronności prowadzącego postępowanie; ” ,
+
+- - dodaje się pkt 5 w brzmieniu: „ 5) jest podwładnym obwinionego, jego obrońcy lub pokrzywdzonego. ” ,
+
+### e)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Przełożony dyscyplinarny i rzecznik dyscyplinarny badają z urzędu, czy nie zachodzą okoliczności uzasadniające ich wyłączenie z udziału w postępowaniu dyscyplinarnym.
+
+” ,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+O okolicznościach uzasadniających wyłączenie z udziału w postępowaniu dyscyplinarnym:
+
+### 1)
+
+rzecznik dyscyplinarny zawiadamia niezwłocznie przełożonego dyscyplinarnego;
+
+### 2)
+
+przełożony dyscyplinarny zawiadamia niezwłocznie Komendanta SOP.
+
+” ,
+
+### g)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Odpowiednio Komendant SOP lub przełożony dyscyplinarny wydaje postanowienie o wyłączeniu lub odmowie wyłączenia przełożonego dyscyplinarnego lub rzecznika dyscyplinarnego z udziału w postępowaniu dyscyplinarnym.
+
+” ;
+
+### 28)
+
+w art. 228 w ust. 4 wyrazy „Komendanta SOP” zastępuje się wyrazami „przełożonego dyscyplinarnego”;
+
+### 29)
+
+w art. 229:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje obwinionego, świadków i pokrzywdzonego, dokonuje oględzin, konfrontacji, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów. Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny zleca lub występuje do przełożonego dyscyplinarnego o zlecenie przeprowadzenia odpowiednich badań, ekspertyz i tłumaczeń oraz zasięga niezbędnych opinii.
+
+” ,
+
+### b)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie, niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie.
+
+” ,
+
+### c)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny mogą zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+
+” ,
+
+### d)
+
+po ust. 8 dodaje się ust. 8a w brzmieniu:
+
+„
+
+### 8a.
+
+Rzecznik dyscyplinarny w razie ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.
+
+” ;
+
+### 30)
+
+w art. 230:
+
+### a)
+
+w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+korzystania z pomocy obrońcy, którym może być wskazany przez obwinionego funkcjonariusz SOP, adwokat albo radca prawny;
+
+” ,
+
+### b)
+
+po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+„
+
+### 6a.
+
+Zażalenie na postanowienie wnosi się za pośrednictwem rzecznika dyscyplinarnego do przełożonego dyscyplinarnego, a jeżeli postanowienie wydał ten przełożony dyscyplinarny, do Komendanta SOP za pośrednictwem tego przełożonego. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### 6b.
+
+Zażalenie na postanowienie wnosi się w terminie 3 dni od dnia doręczenia postanowienia.
+
+” ,
+
+### c)
+
+w ust. 7:
+
+- - w pkt 3 wyrazy „sprzeczne z prawem” zastępuje się wyrazem „niedopuszczalne”,
+
+- - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony. ” ,
+
+### d)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.
+
+” ,
+
+### e)
+
+uchyla się ust. 11;
+
+### 31)
+
+w art. 232:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie 30 dni od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony nie dłuższy niż 3 miesiące.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym wraz z uzasadnieniem składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania przełożony dyscyplinarny lub Komendant SOP może zażądać niezwłocznego przekazania akt postępowania.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.
+
+” ,
+
+### d)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.
+
+” ;
+
+### 32)
+
+po art. 232 dodaje się art. 232a w brzmieniu:
+
+„
+
+### Art. 232a.
+
+### 1.
+
+Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami w odrębnym postępowaniu dyscyplinarnym.
+
+” ;
+
+### 33)
+
+w art. 233:
+
+### a)
+
+w ust. 1 po wyrazie „obwinionego” dodaje się wyrazy „i jego obrońcę”,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Odmowa obwinionego lub jego obrońcy zapoznania się z aktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje w aktach postępowania dyscyplinarnego wzmianki o odmowie obwinionego lub jego obrońcy zapoznania się z tymi aktami. Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową zapoznania się z tymi aktami.
+
+” ,
+
+### c)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Rzecznik dyscyplinarny po zapoznaniu obwinionego lub jego obrońcy z aktami postępowania dyscyplinarnego wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza, w terminie 7 dni, opatrzone datą sprawozdanie, w którym:
+
+### 1)
+
+wskazuje prowadzącego postępowanie i przełożonego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego;
+
+### 2)
+
+wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne, z opisem stanu faktycznego i prawnego ustalonym na podstawie zebranych dowodów;
+
+### 3)
+
+przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary dyscyplinarnej albo umorzenia postępowania.
+
+” ;
+
+### 34)
+
+w art. 234:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+
+### 1)
+
+uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu, albo
+
+### 2)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej, albo
+
+### 3)
+
+uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej, albo
+
+### 4)
+
+umorzeniu postępowania.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a-2f w brzmieniu:
+
+„
+
+### 2a.
+
+Uzasadnienie faktyczne orzeczenia zawiera w szczególności wskazanie faktów, które uznano za udowodnione, dowodów, na których się oparto, oraz przyczyn, dla których innym dowodom odmówiono wiarygodności i mocy dowodowej. W uzasadnieniu prawnym wyjaśnia się podstawy prawne orzeczenia z przytoczeniem przepisów prawa. W uzasadnieniu faktycznym przytacza się ponadto okoliczności, które wpłynęły na wymiar kary dyscyplinarnej lub na odstąpienie od wymierzenia kary dyscyplinarnej.
+
+### 2b.
+
+Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+
+### 2c.
+
+Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+
+### 2d.
+
+Od postanowień, o których mowa w ust. 2b i 2c, odwołanie nie przysługuje.
+
+### 2e.
+
+Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+
+### 2f.
+
+Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę.
+
+” ,
+
+### d)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w zakresie dowodowym.
+
+### 4.
+
+Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Orzeczenie, o którym mowa w ust. 1, wraz z uzasadnieniem sporządza się na piśmie nie później niż w terminie 14 dni od dnia sporządzenia przez rzecznika dyscyplinarnego sprawozdania z przeprowadzonego postępowania dyscyplinarnego.
+
+” ,
+
+### f)
+
+w ust. 8 w zdaniu pierwszym wyrazy „Komendant SOP” zastępuje się wyrazami „przełożony dyscyplinarny”;
+
+### 35)
+
+po art. 234 dodaje się art. 234a w brzmieniu:
+
+„
+
+### Art. 234a.
+
+### 1.
+
+Postępowanie dyscyplinarne umarza się, jeżeli:
+
+### 1)
+
+nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
+
+### 2)
+
+zostało ono wszczęte po upływie terminu, o którym mowa w art. 213 ust. 1;
+
+### 3)
+
+ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
+
+### 4)
+
+obwiniony zmarł lub został uznany za zaginionego;
+
+### 5)
+
+obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
+
+### 6)
+
+zostało prawomocnie zakończone postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu albo, wszczęte wcześniej, toczy się.
+
+### 2.
+
+Postępowanie dyscyplinarne można umorzyć w razie:
+
+### 1)
+
+długotrwałej choroby obwinionego;
+
+### 2)
+
+wycofania wniosku, o którym mowa w art. 225 ust. 1 pkt 2.
+
+### 3.
+
+Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzucanego mu czynu.
+
+### 4.
+
+W przypadku przywrócenia do służby funkcjonariusza, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.
+
+” ;
+
+### 36)
+
+w art. 235:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał minister właściwy do spraw wewnętrznych lub Komendant SOP, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do ministra właściwego do spraw wewnętrznych lub Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je Komendantowi SOP wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 4 dni od dnia, w którym otrzymał odwołanie lub zażalenie.
+
+” ;
+
+### 37)
+
+w art. 237 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Komendant SOP, w terminie 7 dni od dnia wniesienia odwołania, może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”, a w przypadku orzeczenia o wymierzeniu kary dyscyplinarnej, o której mowa w art. 215 pkt 4-5a lub 7, jest obowiązany powołać komisję.
+
+” ;
+
+### 38)
+
+w art. 238:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Rozpatrzenie odwołania przez Komendanta SOP następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji - w terminie 14 dni od dnia otrzymania opatrzonego datą sprawozdania, o którym mowa w ust. 1.
+
+” ,
+
+### b)
+
+w ust. 4 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga uzupełnienia materiału dowodowego w całości lub w znacznej części albo zaskarżone orzeczenie lub przeprowadzone postępowanie dyscyplinarne zawiera istotne błędy lub braki.
+
+” ,
+
+### c)
+
+dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w ust. 4 pkt 3, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia o uchyleniu.
+
+” ;
+
+### 39)
+
+w art. 239:
+
+### a)
+
+uchyla się ust. 3,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Komendant SOP, na wniosek przełożonego dyscyplinarnego złożony po uprawomocnieniu się orzeczenia, wykonuje karę wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia lub wydalenia ze służby przez wydanie decyzji odpowiednio o zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i wyznaczeniu go na niższe stanowisko służbowe, obniżeniu stopnia albo zwolnieniu ukaranego funkcjonariusza ze służby w SOP.
+
+” ;
+
+### 40)
+
+w art. 240 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
+
+” ;
+
+### 41)
+
+w art. 241:
+
+### a)
+
+w ust. 2:
+
+- - w pkt 1 wyrazy „3 miesięcy” zastępuje się wyrazami „6 miesięcy”,
+
+- - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) 24 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby. ” ,
+
+### b)
+
+w ust. 3:
+
+- - w pkt 1 wyrazy „2 miesięcy” zastępuje się wyrazami „3 miesięcy”,
+
+- - w pkt 4: - - wyrazy „12 miesięcy” zastępuje się wyrazami „9 miesięcy”, - - kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) 12 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby. ” ;
+
+### 42)
+
+art. 245 otrzymuje brzmienie:
+
+„
+
+### Art. 245.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw ([Dz. U. poz. 1635](https://api.sejm.gov.pl/eli/acts/DU/2019/1635/text.html)) w art. 25 w ust. 1:
+
+### 1)
+
+we wprowadzeniu do wyliczenia wyrazy „28 400 tys. zł” zastępuje się wyrazami „30 100 tys. zł”;
+
+### 2)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+2020 r. - 4 500 tys. zł;
+
+” .
+
+### Art. 9.
+
+### 1.
+
+Przepis art. 115a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy wszczętych i niezakończonych przed dniem 6 listopada 2018 r. oraz do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy policjantowi zwolnionemu ze służby od dnia 6 listopada 2018 r. Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy lub dodatkowy za okres przed dniem 6 listopada 2018 r. ustala się na zasadach wynikających z przepisów ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+
+### 2.
+
+Przepis art. 119a ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu przelicza się zaległy urlop wypoczynkowy lub dodatkowy w dniach kalendarzowych na urlop w dniach roboczych przy zastosowaniu mnożnika wynikającego z relacji 26 dni roboczych do 30 dni kalendarzowych. Niepełny dzień zaokrągla się w górę do pełnego dnia. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r. Ekwiwalent pieniężny za niewykorzystany urlop wypoczynkowy lub dodatkowy za okres przed dniem 6 listopada 2018 r. ustala się na zasadach wynikających z przepisów ustawy zmienianej w art. 2 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Przepis art. 96 ust. 1a ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+
+### 4.
+
+Przepis art. 188 ust. 6 ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą stosuje się do spraw dotyczących wypłaty ekwiwalentu pieniężnego za niewykorzystany urlop wypoczynkowy lub dodatkowy przysługujący za okres od dnia 6 listopada 2018 r. Przy obliczaniu wysokości ekwiwalentu pieniężnego przysługującego za niewykorzystany urlop wypoczynkowy lub dodatkowy za rok 2018 określa się proporcję liczby dni niewykorzystanego urlopu wypoczynkowego lub dodatkowego przysługującego przed dniem 6 listopada 2018 r. oraz od dnia 6 listopada 2018 r.
+
+### Art. 10.
+
+### 1.
+
+Urlopy wypoczynkowe oraz coroczne płatne urlopy dodatkowe przysługujące w dniach kalendarzowych, do których funkcjonariusz Straży Granicznej nabył prawo przed dniem wejścia w życie niniejszej ustawy, wykorzystuje się w naturze na dotychczasowych zasadach.
+
+### 2.
+
+Funkcjonariusz Straży Granicznej, składając wniosek o udzielenie urlopu wypoczynkowego oraz corocznego płatnego urlopu dodatkowego, w pierwszej kolejności uwzględnia wykorzystanie urlopów wskazanych w ust. 1.
+
+### 3.
+
+W przypadku funkcjonariusza Straży Granicznej zwalnianego ze służby oraz funkcjonariusza, którego stosunek służbowy wygasł, do ustalenia i wypłaty ekwiwalentu pieniężnego za niewykorzystane urlopy wskazane w ust. 1 stosuje się przepis art. 9 ust. 2.
+
+### Art. 11.
+
+Przepis art. 86 ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się do funkcjonariuszy przyjmowanych do służby w Straży Granicznej po dniu 1 stycznia 2021 r.
+
+### Art. 12.
+
+Do funkcjonariusza Straży Granicznej przebywającego w dniu wejścia w życie niniejszej ustawy na płatnym urlopie zdrowotnym, okolicznościowym lub bezpłatnym, do zakończenia udzielonego urlopu, stosuje się przepisy dotychczasowe, z wyłączeniem odwołania z urlopu, do którego stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 13.
+
+Urlop uzupełniający nabyty przez funkcjonariusza Straży Granicznej po dniu wejścia w życie niniejszej ustawy nie może przekroczyć łącznie z urlopem uzyskanym już w 2020 r. maksymalnego wymiaru danego corocznego płatnego urlopu dodatkowego określonego w art. 87b ust. 1, 3 i 4 ustawy zmienianej w art. 2.
+
+### Art. 14.
+
+### 1.
+
+Do oceny warunków szczególnie uciążliwych lub szkodliwych dla zdrowia uzasadniających przyznanie funkcjonariuszowi Straży Granicznej urlopu, o którym mowa w art. 87b ust. 4 ustawy zmienianej w art. 2, dokonywanej w 2020 r. stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do okresu służby, od którego jest uzależnione przyznanie urlopu, o którym mowa w art. 87b ust. 4 ustawy zmienianej w art. 2, wlicza się okres służby pełnionej w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 15.
+
+Do ustalania wymiaru urlopu wypoczynkowego oraz corocznego płatnego urlopu dodatkowego przysługujących funkcjonariuszowi Straży Granicznej, który w dniu wejścia w życie niniejszej ustawy przebywał na urlopie bezpłatnym lub był zawieszony w czynnościach służbowych, stosuje się przepisy dotychczasowe.
+
+### Art. 16.
+
+Plany urlopów funkcjonariuszy Straży Granicznej ustalone na 2020 r. na podstawie przepisów dotychczasowych zachowują ważność.
+
+### Art. 17.
+
+Do zwrotu kosztów poniesionych na ochronę prawną, zapewnienia ochrony prawnej oraz bezpłatnej ochrony prawnej przysługującej policjantowi, funkcjonariuszowi Straży Granicznej, Służby Więziennej oraz Służby Ochrony Państwa, w przypadku postępowań karnych wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 66a-66c ustawy zmienianej w art. 1, art. 71a-71c ustawy zmienianej w art. 2, art. 164 ust. 2-4 i art. 164a ustawy zmienianej w art. 6 oraz art. 142a i art. 142b ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 18.
+
+Do przypadków otrzymywania przez policjantów, funkcjonariuszy Straży Granicznej i Służby Ochrony Państwa oraz strażaków wyżywienia w naturze oraz norm tego wyżywienia albo równoważnika pieniężnego w zamian za wyżywienie zaistniałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 19.
+
+W stosunku do funkcjonariuszy, którzy w dniu wejścia w życie niniejszej ustawy osiągnęli staż służby, o którym mowa w art. 120a ust. 1 ustawy zmienianej w art. 1, art. 117d ust. 1 ustawy zmienianej w art. 2, art. 97e ust. 1 ustawy zmienianej w art. 4, art. 208f ust. 1 ustawy zmienianej w art. 6 oraz art. 172b ust. 1 ustawy zmienianej w art. 7, decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje się w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy. W przypadku wydania decyzji o przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 20.
+
+Do obniżenia policjantowi nagrody rocznej w przypadku popełnienia przewinienia dyscyplinarnego stwierdzonego w prawomocnie zakończonym postępowaniu dyscyplinarnym przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 21.
+
+Do postępowań w sprawie zawieszenia w czynnościach służbowych policjanta i funkcjonariusza Straży Granicznej, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 22.
+
+### 1.
+
+Do postępowań dyscyplinarnych w Policji i Służbie Ochrony Państwa wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do kar dyscyplinarnych w Policji i Służbie Ochrony Państwa wymierzonych przed dniem wejścia w życie niniejszej ustawy i niewykonanych stosuje się przepisy dotychczasowe.
+
+### 3.
+
+Do przewinień dyscyplinarnych popełnionych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe o przedawnieniu.
+
+### Art. 23.
+
+Do postępowań w przedmiocie zwolnienia funkcjonariusza Straży Granicznej ze służby na podstawie art. 45 ust. 1 pkt 3-5 i ust. 2 pkt 2, 3 i 5 ustawy zmienianej w art. 2 wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 47 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
+
+### Art. 24.
+
+Do postępowań w przedmiocie zwolnienia funkcjonariusza Straży Granicznej ze służby wszczętych i niezakończonych decyzją ostateczną lub prawomocną przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 49 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
+
+### Art. 25.
+
+Mianowania na pierwszy stopień w korpusie chorążych po ukończeniu szkoły chorążych albo na kolejny stopień w korpusie chorążych na podstawie wniosków o mianowanie złożonych przed dniem wejścia w życie niniejszej ustawy dokonuje Komendant Główny Straży Granicznej, z tym że na stopnie chorążych Straży Granicznej w BSWSG mianuje Komendant BSWSG.
+
+### Art. 26.
+
+Mianowania na kolejny wyższy stopień funkcjonariusza Straży Granicznej, o którym mowa w art. 57 ust. 2 ustawy zmienianej w art. 2, na podstawie wniosku o mianowanie złożonego przed dniem wejścia w życie niniejszej ustawy dokonuje przełożony właściwy do mianowania na ten stopień na podstawie przepisów dotychczasowych.
+
+### Art. 27.
+
+Obniżenia stopnia funkcjonariuszowi Straży Granicznej w związku z wymierzeniem kary dyscyplinarnej obniżenia stopnia na podstawie wniosku o obniżenie stopnia złożonego przed dniem wejścia w życie niniejszej ustawy dokonuje przełożony właściwy do obniżenia stopnia na podstawie przepisów dotychczasowych.
+
+### Art. 28.
+
+Obniżenie nagrody rocznej za rok kalendarzowy, w którym funkcjonariusz Straży Granicznej naruszył dyscyplinę służbową lub zasady etyki zawodowej, jeżeli za ten czyn prawomocnym orzeczeniem wymierzono mu przed dniem wejścia w życie niniejszej ustawy karę surowej nagany albo nagany z ostrzeżeniem, następuje na podstawie przepisów dotychczasowych.
+
+### Art. 29.
+
+### 1.
+
+Do postępowań dyscyplinarnych oraz czynności wyjaśniających dotyczących funkcjonariuszy Straży Granicznej wszczętych na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Postępowania dyscyplinarne oraz czynności wyjaśniające prowadzone przez funkcjonariusza Straży Granicznej wyznaczonego przez przełożonego dyscyplinarnego albo komisję do przeprowadzenia postępowania dyscyplinarnego i niezakończone przed dniem wejścia w życie niniejszej ustawy są prowadzone dalej przez wyznaczonego funkcjonariusza albo komisję do czasu zakończenia postępowania dyscyplinarnego. Wyznaczonemu funkcjonariuszowi albo przewodniczącemu komisji przysługują uprawnienia rzecznika dyscyplinarnego.
+
+### Art. 30.
+
+Czynności podjęte przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów dotychczasowych w ramach prowadzonych postępowań dyscyplinarnych oraz czynności wyjaśniających dotyczących funkcjonariuszy Straży Granicznej zachowują moc po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 31.
+
+Komendant Główny Straży Granicznej staje się przełożonym dyscyplinarnym w postępowaniach dyscyplinarnych oraz czynnościach wyjaśniających wszczętych przez kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 32.
+
+Prawomocne kary dyscyplinarne orzeczone przez kierowników komórek organizacyjnych Komendy Głównej Straży Granicznej i niewykonane przed dniem wejścia w życie niniejszej ustawy wykonuje Komendant Główny Straży Granicznej lub upoważniony przez tego przełożonego dyscyplinarnego funkcjonariusz.
+
+### Art. 33.
+
+Postępowania dyscyplinarne niezakończone prawomocnym orzeczeniem przed dniem wejścia w życie niniejszej ustawy toczące się w związku z popełnieniem przestępstwa lub wykroczenia, o których mowa w art. 134 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, umarza się, jeżeli przestępstwo lub wykroczenie nie stanowi jednocześnie przewinienia dyscyplinarnego, o którym mowa w art. 134a ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 34.
+
+### 1.
+
+Środki zaskarżenia od orzeczeń dyscyplinarnych oraz postanowień Komendanta Głównego Straży Granicznej wniesione do ministra właściwego do spraw wewnętrznych przed dniem wejścia w życie niniejszej ustawy rozpatruje minister właściwy do spraw wewnętrznych.
+
+### 2.
+
+Jeżeli termin do wniesienia środka zaskarżenia od orzeczeń dyscyplinarnych oraz postanowień Komendanta Głównego Straży Granicznej nie upłynął przed dniem wejścia w życie niniejszej ustawy, środki te wnosi się do ministra właściwego do spraw wewnętrznych za pośrednictwem Komendanta Głównego Straży Granicznej.
+
+### Art. 35.
+
+### 1.
+
+Kary upomnienia, nagany, ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku, wyznaczenia na niższe stanowisko służbowe oraz ostrzeżenia o niepełnej przydatności do służby prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy podlegają zatarciu po upływie okresów, o których mowa w art. 137a ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Kara obniżenia stopnia w Straży Granicznej prawomocnie orzeczona i niezatarta przed dniem wejścia w życie niniejszej ustawy ulega zatarciu po upływie 18 miesięcy od dnia uprawomocnienia się orzeczenia o wymierzeniu tej kary.
+
+### 3.
+
+Kary surowej nagany albo nagany z ostrzeżeniem w Straży Granicznej prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy ulegają zatarciu po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia o wymierzeniu tych kar.
+
+### Art. 36.
+
+W przypadku nienagannej służby stwierdzonej w opinii służbowej kary dyscyplinarne prawomocnie orzeczone i niezatarte przed dniem wejścia w życie niniejszej ustawy mogą być zatarte przed upływem terminów określonych w art. 137a ust. 2 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, jednak nie wcześniej niż przed upływem:
+
+### 1)
+
+3 miesięcy od dnia uprawomocnienia się orzeczenia kary upomnienia, nagany, surowej nagany albo nagany z ostrzeżeniem;
+
+### 2)
+
+6 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+
+### 3)
+
+9 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe lub obniżenia stopnia;
+
+### 4)
+
+12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
+
+### Art. 37.
+
+Do wznowienia postępowania dyscyplinarnego zakończonego postanowieniem o umorzeniu postępowania dyscyplinarnego wydanym przed dniem wejścia w życie niniejszej ustawy stosuje się odpowiednio przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą w zakresie wznowienia postępowania dyscyplinarnego.
+
+### Art. 38.
+
+W sprawach wznowienia postępowania dyscyplinarnego zakończonego orzeczeniem kary dyscyplinarnej, o której mowa w art. 136 ust. 1 pkt 9 ustawy zmienianej w art. 2, właściwi są przełożeni dyscyplinarni, którzy stali się właściwi do wymierzenia tej kary po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 39.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 96 ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 96 ust. 3 ustawy zmienianej w art. 1,
+
+### 2)
+
+art. 139 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 139 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą,
+
+### 3)
+
+art. 62 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 62 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą,
+
+### 4)
+
+art. 91 ust. 2 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 91 ust. 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą,
+
+### 5)
+
+art. 28 ust. 14, art. 37 ust. 2, art. 57a ust. 12, art. 61 ust. 6 i 9 i art. 88 ust. 5 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 28 ust. 14, art. 37 ust. 2, art. 57a ust. 12, art. 61 ust. 5 i 9 i art. 88 ust. 5 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą,
+
+### 6)
+
+art. 87 ust. 1 ustawy zmienianej w art. 5 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 87 ust. 1 ustawy zmienianej w art. 5 w brzmieniu nadanym niniejszą ustawą,
+
+### 7)
+
+art. 245 ustawy zmienianej w art. 7 w brzmieniu dotychczasowym zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 245 ustawy zmienianej w art. 7 w brzmieniu nadanym niniejszą ustawą
+
+- nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 40.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Komendanta Głównego Policji będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 5 031 966 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 108 926 tys. zł;
+
+### 2)
+
+2021 r. - 343 590 tys. zł;
+
+### 3)
+
+2022 r. - 419 780 tys. zł;
+
+### 4)
+
+2023 r. - 427 780 tys. zł;
+
+### 5)
+
+2024 r. - 493 400 tys. zł;
+
+### 6)
+
+2025 r. - 574 350 tys. zł;
+
+### 7)
+
+2026 r. - 633 410 tys. zł;
+
+### 8)
+
+2027 r. - 637 990 tys. zł;
+
+### 9)
+
+2028 r. - 682 110 tys. zł;
+
+### 10)
+
+2029 r. - 710 630 tys. zł.
+
+### 2.
+
+Komendant Główny Policji monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Policji.
+
+### Art. 41.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Komendanta Głównego Straży Granicznej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 629 576 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 11 436 tys. zł;
+
+### 2)
+
+2021 r. - 36 960 tys. zł;
+
+### 3)
+
+2022 r. - 44 150 tys. zł;
+
+### 4)
+
+2023 r. - 48 340 tys. zł;
+
+### 5)
+
+2024 r. - 52 730 tys. zł;
+
+### 6)
+
+2025 r. - 62 630 tys. zł;
+
+### 7)
+
+2026 r. - 71 830 tys. zł;
+
+### 8)
+
+2027 r. - 79 530 tys. zł;
+
+### 9)
+
+2028 r. - 102 930 tys. zł;
+
+### 10)
+
+2029 r. - 119 040 tys. zł.
+
+### 2.
+
+Komendant Główny Straży Granicznej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Straży Granicznej.
+
+### Art. 42.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Komendanta Głównego Państwowej Straży Pożarnej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 118 370 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 1 000 tys. zł;
+
+### 2)
+
+2021 r. - 6 610 tys. zł;
+
+### 3)
+
+2022 r. - 8 510 tys. zł;
+
+### 4)
+
+2023 r. - 9 650 tys. zł;
+
+### 5)
+
+2024 r. - 11 080 tys. zł;
+
+### 6)
+
+2025 r. - 12 930 tys. zł;
+
+### 7)
+
+2026 r. - 14 440 tys. zł;
+
+### 8)
+
+2027 r. - 15 620 tys. zł;
+
+### 9)
+
+2028 r. - 18 490 tys. zł;
+
+### 10)
+
+2029 r. - 20 040 tys. zł.
+
+### 2.
+
+Komendant Główny Państwowej Straży Pożarnej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Państwowej Straży Pożarnej.
+
+### Art. 43.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Szefa Centralnego Biura Antykorupcyjnego będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 24 320 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 2 750 tys. zł;
+
+### 2)
+
+2021 r. - 2 170 tys. zł;
+
+### 3)
+
+2022 r. - 2 220 tys. zł;
+
+### 4)
+
+2023 r. - 2 280 tys. zł;
+
+### 5)
+
+2024 r. - 2 330 tys. zł;
+
+### 6)
+
+2025 r. - 2 390 tys. zł;
+
+### 7)
+
+2026 r. - 2 450 tys. zł;
+
+### 8)
+
+2027 r. - 2 510 tys. zł;
+
+### 9)
+
+2028 r. - 2 580 tys. zł;
+
+### 10)
+
+2029 r. - 2 640 tys. zł.
+
+### 2.
+
+Szef Centralnego Biura Antykorupcyjnego monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Szef Centralnego Biura Antykorupcyjnego.
+
+### Art. 44.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Dyrektora Generalnego Służby Więziennej będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 347 800 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 1 970 tys. zł;
+
+### 2)
+
+2021 r. - 12 190 tys. zł;
+
+### 3)
+
+2022 r. - 15 940 tys. zł;
+
+### 4)
+
+2023 r. - 20 560 tys. zł;
+
+### 5)
+
+2024 r. - 28 410 tys. zł;
+
+### 6)
+
+2025 r. - 35 770 tys. zł;
+
+### 7)
+
+2026 r. - 42 680 tys. zł;
+
+### 8)
+
+2027 r. - 51 850 tys. zł;
+
+### 9)
+
+2028 r. - 62 660 tys. zł;
+
+### 10)
+
+2029 r. - 75 770 tys. zł.
+
+### 2.
+
+Dyrektor Generalny Służby Więziennej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Dyrektor Generalny Służby Więziennej.
+
+### Art. 45.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków Komendanta Służby Ochrony Państwa będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 149 870 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 3 530 tys. zł;
+
+### 2)
+
+2021 r. - 9 370 tys. zł;
+
+### 3)
+
+2022 r. - 11 500 tys. zł;
+
+### 4)
+
+2023 r. - 12 330 tys. zł;
+
+### 5)
+
+2024 r. - 16 770 tys. zł;
+
+### 6)
+
+2025 r. - 18 000 tys. zł;
+
+### 7)
+
+2026 r. - 18 640 tys. zł;
+
+### 8)
+
+2027 r. - 19 570 tys. zł;
+
+### 9)
+
+2028 r. - 19 810 tys. zł;
+
+### 10)
+
+2029 r. - 20 350 tys. zł.
+
+### 2.
+
+Komendant Służby Ochrony Państwa monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Służby Ochrony Państwa.
+
+### Art. 46.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków wojewodów będących skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 1 065 327 tys. zł, w tym w:
+
+### 1)
+
+2020 r. - 8 997 tys. zł;
+
+### 2)
+
+2021 r. - 59 490 tys. zł;
+
+### 3)
+
+2022 r. - 76 590 tys. zł;
+
+### 4)
+
+2023 r. - 86 850 tys. zł;
+
+### 5)
+
+2024 r. - 99 720 tys. zł;
+
+### 6)
+
+2025 r. - 116 370 tys. zł;
+
+### 7)
+
+2026 r. - 129 960 tys. zł;
+
+### 8)
+
+2027 r. - 140 580 tys. zł;
+
+### 9)
+
+2028 r. - 166 410 tys. zł;
+
+### 10)
+
+2029 r. - 180 360 tys. zł.
+
+### 2.
+
+Komendant Główny Państwowej Straży Pożarnej monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu co najmniej na koniec półrocza i na koniec każdego roku kalendarzowego według stanu na dzień 20 listopada danego roku.
+
+### 3.
+
+W przypadku zagrożenia przekroczeniem lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o których mowa w ust. 1, o 25% stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy.
+
+### 4.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant Główny Państwowej Straży Pożarnej.
+
+### Art. 47.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych, po uzyskaniu zgody ministra właściwego do spraw finansów publicznych, może dokonywać przeniesień wydatków budżetowych między częściami, działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa w celu wykonania niniejszej ustawy.
+
+### 2.
+
+Minister Sprawiedliwości, po uzyskaniu zgody ministra właściwego do spraw finansów publicznych, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa w celu wykonania niniejszej ustawy.
+
+### Art. 48.
+
+Ustawa wchodzi w życie z dniem 1 października 2020 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 1-3, które wchodzą w życie z dniem 30 listopada 2020 r.;
+
+### 2)
+
+art. 2 pkt 37-52 oraz art. 27-38, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw.

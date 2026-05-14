@@ -8,11 +8,9 @@ pos: 1344
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Prawo farmaceutyczne oraz ustawy o zawodzie farmaceuty
-
-*USTAWA z dnia 12 maja 2022 r.*
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy - Prawo farmaceutyczne oraz ustawy o zawodzie farmaceuty
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +22,34 @@ domain: null
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-06-27 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001344) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1344/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1344/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1344) |
 
-**Art. 1.** W ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2021 r. poz. 1977 i 2120 oraz z 2022 r. poz. 830, 974 i 1095) po art. 91 dodaje się art. 91a w brzmieniu: „Art. 91a. Technik farmaceutyczny podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 91, lub innych czynności związanych z produktami leczniczymi lub wyrobami medycznymi, wymagających bezpośredniego kontaktu z pacjentem, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny.”.
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2022 r. poz. 184, 655 i 974) po art. 35 dodaje się art. 35a w brzmieniu: „Art. 35a. Farmaceuta podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 4 ust. 2 oraz ust. 3 pkt 1, 3, 4 i 6, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138).”.
+### Art. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. z 2021 r. poz. 1977](https://api.sejm.gov.pl/eli/acts/DU/2021/1977/text.html) i [2120](https://api.sejm.gov.pl/eli/acts/DU/2021/2120/text.html) oraz [z 2022 r. poz. 830](https://api.sejm.gov.pl/eli/acts/DU/2022/830/text.html), [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html) i [1095](https://api.sejm.gov.pl/eli/acts/DU/2022/1095/text.html)) po art. 91 dodaje się art. 91a w brzmieniu:
 
+„
+
+### Art. 91a.
+
+Technik farmaceutyczny podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 91, lub innych czynności związanych z produktami leczniczymi lub wyrobami medycznymi, wymagających bezpośredniego kontaktu z pacjentem, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. - Kodeks karny.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 10 grudnia 2020 r. o zawodzie farmaceuty ([Dz. U. z 2022 r. poz. 184](https://api.sejm.gov.pl/eli/acts/DU/2022/184/text.html), [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html) i [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html)) po art. 35 dodaje się art. 35a w brzmieniu:
+
+„
+
+### Art. 35a.
+
+Farmaceuta podczas i w związku z wykonywaniem w aptece ogólnodostępnej lub punkcie aptecznym czynności, o których mowa w art. 4 ust. 2 oraz ust. 3 pkt 1, 3, 4 i 6, korzysta z ochrony przewidzianej dla funkcjonariusza publicznego na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. z 2022 r. poz. 1138](https://api.sejm.gov.pl/eli/acts/DU/2022/1138/text.html)).
+
+” .
+
+### Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

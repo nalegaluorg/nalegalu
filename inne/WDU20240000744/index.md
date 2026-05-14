@@ -1,0 +1,77 @@
+---
+title: Obwieszczenie Ministra Klimatu i Środowiska z dnia 10 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie wymagań jakościowych dla gazu skroplonego (LPG)
+address: WDU20240000744
+eli: DU/2024/744
+publisher: DU
+year: 2024
+pos: 744
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Klimatu i Środowiskaz dnia 10 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Klimatu i Środowiska w sprawie wymagań jakościowych dla gazu skroplonego (LPG)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 744 |
+| ISAP | WDU20240000744 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-05-10 |
+| Data wydania | 2024-05-17 |
+| Ostatnia zmiana | 2024-05-20 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/744/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/744) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 maja 2021 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG)](#part_2)
+
+- [Załącznik - Wymagania jakościowe dla gazu skroplonego (LPG)](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Klimatu i Środowiska z dnia 28 maja 2021 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG) ([Dz. U. poz. 1293](https://api.sejm.gov.pl/eli/acts/DU/2021/1293/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 26 czerwca 2023 r. zmieniającym rozporządzenie w sprawie wymagań jakościowych dla gazu skroplonego (LPG) ([Dz. U. poz. 1293](https://api.sejm.gov.pl/eli/acts/DU/2023/1293/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 26 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wymagań jakościowych dla gazu skroplonego (LPG) ([Dz. U. poz. 1293](https://api.sejm.gov.pl/eli/acts/DU/2023/1293/text.html)), które stanowią: „ 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 14 marca 2023 r. pod numerem 2023/0106/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych ([Dz. U. poz. 2039](https://api.sejm.gov.pl/eli/acts/DU/2002/2039/text.html) oraz [z 2004 r. poz. 597](https://api.sejm.gov.pl/eli/acts/DU/2004/597/text.html)), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) ([Dz. Urz. UE L 241 z 17.09.2015, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)). ”
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Klimatu i Środowiska z dnia 28 maja 2021 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG)[1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działami administracji rządowej energia i klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726).](#gloss-0:1:)
+
+[2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 lutego 2021 r. pod numerem 2021/0094/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).](#gloss-0:2:) Na podstawie art. 3 ust. 2 pkt 3 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw ([Dz. U. z 2023 r. poz. 846](https://api.sejm.gov.pl/eli/acts/DU/2023/846/text.html) i [1681](https://api.sejm.gov.pl/eli/acts/DU/2023/1681/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Wymagania jakościowe dla gazu skroplonego (LPG) określa załącznik do rozporządzenia.
+
+### § 2.
+
+Traci moc rozporządzenie Ministra Energii z dnia 14 kwietnia 2016 r. w sprawie wymagań jakościowych dla gazu skroplonego (LPG) ([Dz. U. poz. 540](https://api.sejm.gov.pl/eli/acts/DU/2016/540/text.html)).
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2022 r.
+
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działami administracji rządowej energia i klimat kieruje Minister Klimatu i Środowiska, na podstawie § 1 ust. 2 pkt 1 i 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 16 lutego 2021 r. pod numerem 2021/0094/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+
+## Załącznik - Wymagania jakościowe dla gazu skroplonego (LPG)[3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 26 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wymagań jakościowych dla gazu skroplonego (LPG) (Dz. U. poz. 1293), które weszło w życie z dniem 22 lipca 2023 r.](#gloss-0:3:)
+
+Lp. WŁAŚCIWOŚĆ JEDNOSTKI ZAKRESY1) minimum maksimum 1 Liczba oktanowa motorowa, MON 89,0 - 2 Całkowita zawartość dienów % (m/m) - 0,5 3 Zawartość 1,3 butadienu % (m/m) - 0,09 4 Zawartość propanu % (m/m) 20 5 Siarkowodór brak 6 Całkowita zawartość siarki (po wprowadzeniu substancji zapachowej) mg/kg - 30 7 Badanie działania korodującego na płytce miedzianej (1 h w temperaturze 40 şC) ocena klasa 1 8 Pozostałość po odparowaniu mg/kg - 60 9 Prężność par, oszacowana w temperaturze 40 şC kPa - 1550 10 Temperatura, w której oszacowana względna prężność par jest nie mniejsza niż 150 kPa: - dla okresu zimowego2) şC -5 - dla okresu letniego3) şC +10 11 Zawartość wody nie wykryto 12 Zapach 4) 1) Wartości podane w specyfikacji są wartościami rzeczywistymi.2) Okres zimowy trwa od dnia 1 grudnia do dnia 31 marca.3) Okres letni trwa od dnia 1 kwietnia do dnia 30 listopada.4) Nieprzyjemny i wyczuwalny w powietrzu przy zawartości odpowiadającej 20 % dolnej granicy wybuchowości.
+
+3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Klimatu i Środowiska z dnia 26 czerwca 2023 r. zmieniającego rozporządzenie w sprawie wymagań jakościowych dla gazu skroplonego (LPG) (Dz. U. poz. 1293), które weszło w życie z dniem 22 lipca 2023 r.

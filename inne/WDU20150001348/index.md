@@ -8,11 +8,9 @@ pos: 1348
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej
-
-*USTAWA z dnia 5 sierpnia 2015 r.*
+# Ustawa z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym oraz ustawę z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,529 +22,920 @@ domain: null
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-10 |
 | Ostatnia zmiana | 2026-03-10 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1348/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1348) |
 
-Art. 44–53. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Rozpatrywanie reklamacji przez podmioty rynku finansowego](#chpt_2) [Rozdział 3 - Rzecznik Finansowy](#chpt_3) [Rozdział 4 - Pozasądowe postępowanie w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego](#chpt_4) [Rozdział 5 - Przepisy zmieniające](#chpt_5) [Rozdział 6 - Przepisy dostosowujące, przejściowe i przepis końcowy](#chpt_6)
 
-**Art. 1.** Ustawa określa zasady:
+TOC
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+## Treść ustawy
 
-#### Rozdział 2 Rozpatrywanie reklamacji przez podmioty rynku finansowego
+### Rozdział 1 Przepisy ogólne
 
-**Art. 3.**
+### Art. 1.
 
-1. Reklamacja może być złożona w każdej jednostce podmiotu rynku finansowego obsługującej klientów.
+Ustawa określa zasady rozpatrywania reklamacji przez podmioty rynku finansowego, składanych przez klientów tych podmiotów oraz zasady działania Rzecznika Finansowego.
 
-2. Reklamacja może być złożona:
+### Art. 2.
 
-- **1)** na piśmie:
-    - **a)** w postaci papierowej – osobiście w jednostce, o której mowa w ust. 1, albo wysłana przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i
+Użyte w ustawie określenia oznaczają:
 
-- **1456)** , albo nadana w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, albo
-    - **b)** w postaci elektronicznej – z wykorzystaniem środka komunikacji elektronicznej albo wysłana na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy;
+### 1)
 
-- **2)** ustnie – telefonicznie albo osobiście do protokołu podczas wizyty klienta w jednostce, o której mowa w ust. 1.
+klient podmiotu rynku finansowego:
 
-**Art. 4.**
+### a)
 
-1. Podmiot rynku finansowego zamieszcza w umowie zawieranej z klientem następujące informacje dotyczące procedury składania i rozpatrywania reklamacji:
+będącego osobą fizyczną ubezpieczającego, ubezpieczonego, uposażonego lub uprawnionego z umowy ubezpieczenia,
 
-- **1)** miejsce i formę złożenia reklamacji;
-- **2)** termin rozpatrzenia reklamacji;
-- **3)** sposób powiadomienia o rozpatrzeniu reklamacji.
+### b)
 
-2. W odniesieniu do klientów, którzy nie zawarli umowy z podmiotem rynku finansowego, informacje, o których mowa w ust. 1, powinny zostać dostarczone w ciągu 7 dni od dnia, w którym nastąpiło zgłoszenie roszczeń klienta wobec podmiotu rynku finansowego. [Art. 5. 1. Po złożeniu przez klienta reklamacji, zgodnie z wymogami, o których mowa w art. 4 ust. 1 pkt 1, podmiot rynku finansowego rozpatruje reklamację i udziela klientowi odpowiedzi na piśmie.
+osobę fizyczną dochodzącą roszczeń na podstawie przepisów ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ([Dz. U. z 2013 r. poz. 392](https://api.sejm.gov.pl/eli/acts/DU/2013/392/text.html), [z 2014 r. poz. 827](https://api.sejm.gov.pl/eli/acts/DU/2014/827/text.html) oraz [z 2015 r. poz. 1273](https://api.sejm.gov.pl/eli/acts/DU/2015/1273/text.html)) od Ubezpieczeniowego Funduszu Gwarancyjnego lub Polskiego Biura Ubezpieczycieli Komunikacyjnych,
 
-2. Odpowiedź, o której mowa w ust. 1, podmiot rynku finansowego może dostarczyć pocztą elektroniczną wyłącznie na wniosek klienta.]
+### c)
 
-**Art. 5.**
+członka funduszu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych ([Dz. U. z 2013 r. poz. 989](https://api.sejm.gov.pl/eli/acts/DU/2013/989/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 i 1717 oraz z 2015 r. poz. 238, 1132 i 1259.](#gloss-0:2:)), uczestnika pracowniczego programu emerytalnego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych ([Dz. U. z 2014 r. poz. 710](https://api.sejm.gov.pl/eli/acts/DU/2014/710/text.html)), oszczędzającego lub osobę uprawnioną w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego ([Dz. U. z 2014 r. poz. 1147](https://api.sejm.gov.pl/eli/acts/DU/2014/1147/text.html) oraz [z 2015 r. poz. 978](https://api.sejm.gov.pl/eli/acts/DU/2015/978/text.html)), osobę otrzymującą emeryturę kapitałową w rozumieniu ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych ([Dz. U. z 2014 r. poz. 1097](https://api.sejm.gov.pl/eli/acts/DU/2014/1097/text.html)),
 
-1. Po złożeniu przez klienta reklamacji zgodnie z wymogami, o których mowa w art. 4 ust. 1 pkt 1, podmiot rynku finansowego rozpatruje reklamację i udziela klientowi odpowiedzi na piśmie:
+### d)
 
-- **1)** w postaci elektronicznej – w przypadku gdy reklamacja została złożona przez klienta na piśmie w postaci elektronicznej, chyba że klient wniósł o udzielenie odpowiedzi na piśmie w postaci papierowej;
-- **2)** w postaci papierowej – w przypadku gdy reklamacja została złożona przez klienta na piśmie w postaci papierowej, chyba że klient wniósł o udzielenie odpowiedzi na piśmie w postaci elektronicznej;
-- **3)** w postaci papierowej albo elektronicznej, zgodnie z wnioskiem klienta – w przypadku gdy reklamacja została złożona przez klienta ustnie.
+będącego osobą fizyczną klienta banku, członka spółdzielczej kasy oszczędnościowo-kredytowej, klienta instytucji płatniczej, klienta biura usług płatniczych, klienta instytucji pieniądza elektronicznego, klienta oddziału zagranicznej instytucji pieniądza elektronicznego, klienta instytucji kredytowej, klienta instytucji finansowej, uczestnika funduszu inwestycyjnego, klienta firmy inwestycyjnej i klienta instytucji pożyczkowej;
 
-2. W przypadku, o którym mowa w ust. 1 pkt 1, odpowiedź jest udzielana:
+### 2)
 
-- **1)** z wykorzystaniem środka komunikacji elektronicznej, za pomocą którego klient złożył reklamację, albo innego wskazanego przez klienta środka komunikacji elektronicznej – w przypadku gdy reklamacja została złożona przez klienta z wykorzystaniem środka komunikacji elektronicznej;
-- **2)** na adres klienta do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy – w przypadku gdy reklamacja została wysłana przez klienta na adres do doręczeń elektronicznych.
+reklamacja - wystąpienie skierowane do podmiotu rynku finansowego przez jego klienta, w którym klient zgłasza zastrzeżenia dotyczące usług świadczonych przez podmiot rynku finansowego;
 
-**Art. 6.** Odpowiedzi, o której mowa w art. 5 ust. 1, należy udzielić bez zbędnej zwłoki, jednak nie później niż w terminie 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
+### 3)
 
-**Art. 7.** W szczególnie skomplikowanych przypadkach, uniemożliwiających rozpatrzenie reklamacji i udzielenie odpowiedzi w terminie, o którym mowa w art. 6, podmiot rynku finansowego w informacji przekazywanej klientowi, który wystąpił z reklamacją:
+podmiot rynku finansowego:
 
-**Art. 8.** W przypadku niedotrzymania terminu określonego w art. 6, a w określonych przypadkach terminu określonego w art. 7, reklamację uważa się za rozpatrzoną zgodnie z wolą klienta.
+### a)
 
-**Art. 9.** Odpowiedź, o której mowa w art. 5 ust. 1, powinna zawierać w szczególności:
+instytucję płatniczą, biuro usług płatniczych, instytucję pieniądza elektronicznego i oddział zagranicznej instytucji pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych ([Dz. U. z 2014 r. poz. 873](https://api.sejm.gov.pl/eli/acts/DU/2014/873/text.html) i [1916](https://api.sejm.gov.pl/eli/acts/DU/2014/1916/text.html)),
 
-**Art. 10.** W przypadku nieuwzględnienia roszczeń wynikających z reklamacji klienta treść odpowiedzi, o której mowa w art. 5 ust. 1, powinna zawierać również pouczenie o możliwości:
+### b)
 
-#### Rozdział 3 Rzecznik Finansowy
+bank krajowy, bank zagraniczny, oddział banku zagranicznego, oddział instytucji kredytowej i instytucję finansową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2015 r. poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2015/128/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260 i 1311.](#gloss-0:3:)),
 
-**Art. 11.** Prezes Rady Ministrów, na wniosek ministra właściwego do spraw instytucji finansowych, powołuje Rzecznika Finansowego, zwanego dalej „Rzecznikiem”.
+### c)
 
-**Art. 12.**
+towarzystwo funduszy inwestycyjnych i fundusz inwestycyjny w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. z 2014 r. poz. 157](https://api.sejm.gov.pl/eli/acts/DU/2014/157/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978 i 1260.](#gloss-0:4:)),
 
-1. Kadencja Rzecznika trwa 4 lata.
+### d)
 
-2. Kadencja Rzecznika rozpoczyna się z dniem jego powołania.
+spółdzielczą kasę oszczędnościowo-kredytową w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2013 r. poz. 1450](https://api.sejm.gov.pl/eli/acts/DU/2013/1450/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1259 i 1311.](#gloss-0:5:)),
 
-3. Ta sama osoba nie może być Rzecznikiem więcej niż przez dwie kolejne kadencje.
+### e)
 
-4. Kadencja Rzecznika wygasa w przypadku jego śmierci.
+firmę inwestycyjną w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2014 r. poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2014/94/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223 i 1260.](#gloss-0:6:)),
 
-**Art. 13.** Rzecznikiem może być wyłącznie osoba:
+### f)
 
-**Art. 14.** Prezes Rady Ministrów, na wniosek ministra właściwego do spraw instytucji finansowych, może odwołać Rzecznika przed upływem kadencji.
+krajowy zakład ubezpieczeń, zagraniczny zakład ubezpieczeń, główny oddział zagranicznego zakładu ubezpieczeń i oddział zagranicznego zakładu ubezpieczeń w rozumieniu ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej ([Dz. U. z 2015 r. poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2015/1206/text.html) i [1273](https://api.sejm.gov.pl/eli/acts/DU/2015/1273/text.html)),
 
-**Art. 15.** Odwołanie Rzecznika przed upływem kadencji może nastąpić wyłącznie z powodu:
+### g)
 
-**Art. 16.**
+fundusz emerytalny i towarzystwo emerytalne w rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
 
-1. Rzecznik posiada osobowość prawną.
+### h)
 
-2. Siedziba Rzecznika znajduje się w Warszawie.
+instytucję pożyczkową - podmiot będący kredytodawcą w rozumieniu ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim ([Dz. U. z 2014 r. poz. 1497](https://api.sejm.gov.pl/eli/acts/DU/2014/1497/text.html), [1585](https://api.sejm.gov.pl/eli/acts/DU/2014/1585/text.html) i [1662](https://api.sejm.gov.pl/eli/acts/DU/2014/1662/text.html)),
 
-3. Rzecznik jest uprawniony do używania wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej.
+### i)
 
-**Art. 17.**
+Ubezpieczeniowy Fundusz Gwarancyjny i Polskie Biuro Ubezpieczycieli Komunikacyjnych;
 
-1. Do zadań Rzecznika należy podejmowanie działań w zakresie ochrony klientów podmiotów rynku finansowego, których interesy reprezentuje, a w szczególności:
+### 4)
 
-- **1)** rozpatrywanie wniosków w indywidualnych sprawach, wniesionych na skutek nieuwzględnienia roszczeń klienta przez podmiot rynku finansowego w trybie rozpatrywania reklamacji;
-- **2)** rozpatrywanie wniosków dotyczących niewykonania czynności wynikających z reklamacji rozpatrzonej zgodnie z wolą klienta w terminie, o którym mowa w art. 9 pkt 4;
-- **3)** opiniowanie projektów aktów prawnych dotyczących organizacji i funkcjonowania podmiotów rynku finansowego;
-- **4)** występowanie do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej albo wydanie lub zmianę innych aktów prawnych w sprawach dotyczących organizacji i funkcjonowania rynku finansowego;
-- **5)** informowanie właściwych organów nadzoru i kontroli o dostrzeżonych nieprawidłowościach;
-- **6)** (uchylony)
-- **7)** przekazywanie do Komisji Nadzoru Finansowego informacji o liczbie i charakterze skarg wskazujących na naruszenia ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, według stanu na koniec każdego półrocza, w terminie 2 miesięcy po upływie danego półrocza.
+trwały nośnik informacji - trwały nośnik informacji w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych.
 
-1a. Do zadań Rzecznika należy także:
+### Rozdział 2 Rozpatrywanie reklamacji przez podmioty rynku finansowego
 
-- **1)** inicjowanie i organizowanie działalności edukacyjnej i informacyjnej w zakresie zwiększania świadomości finansowej społeczeństwa, w szczególności w dziedzinie funkcjonowania rynku finansowego, wykorzystania innowacyjnych technologii i możliwych zagrożeń występujących w tych dziedzinach;
-- **2)** współpraca z organizacjami pozarządowymi, społecznymi i zawodowymi, do których celów statutowych należy ochrona praw konsumentów, oraz współdziałanie ze stowarzyszeniami, ruchami obywatelskimi, innymi dobrowolnymi zrzeszeniami i fundacjami oraz z zagranicznymi i międzynarodowymi organami i organizacjami na rzecz ochrony praw konsumentów.
+### Art. 3.
 
-2. Przy Rzeczniku prowadzone są pozasądowe postępowania w sprawie rozwiązywania sporów między klientami podmiotów rynku finansowego a tymi podmiotami.
+### 1.
 
-2a. Rzecznik jest organem nadzoru rynku w rozumieniu ustawy z dnia 26 kwietnia 2024 r. o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze (Dz. U. poz. 731).
+Reklamacja może być złożona w każdej jednostce podmiotu rynku finansowego obsługującej klientów.
 
-3. Rzecznik może być reprezentantem grupy, o którym mowa w art. 4 ust. 2a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym (Dz. U. z 2023 r. poz. 1212).
+### 2.
 
-**Art. 18.**
+Reklamacja może być złożona:
 
-1. Rzecznik wykonuje swoje zadania przy pomocy podległego mu Biura Rzecznika.
+### 1)
 
-1a. W celu realizacji zadań Rzecznik może ustanowić pełnomocników terenowych spośród pracowników Biura Rzecznika, wyznaczając terytorialny zasięg ich działania oraz zakres realizowanych zadań.
+w formie pisemnej - osobiście, w jednostce podmiotu rynku finansowego obsługującej klientów, albo przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. poz. 1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html));
 
-2. Prezes Rady Ministrów, po zasięgnięciu opinii Rzecznika, nadaje, w drodze zarządzenia, statut, w którym określa organizację Biura Rzecznika, mając na względzie potrzebę zapewnienia sprawnego wykonywania zadań przez Rzecznika.
+### 2)
 
-**Art. 18a.**
+ustnie - telefonicznie albo osobiście do protokołu podczas wizyty klienta w jednostce, o której mowa w ust. 1;
 
-1. Pracownicy Biura Rzecznika przeprowadzający kontrole w zakresie spełniania wymagań dostępności usług bankowości detalicznej w rozumieniu art. 5 pkt 30 ustawy, o której mowa w art. 17 ust. 2a, posługują się legitymacją służbową. Do legitymacji służbowej podlegają wpisaniu następujące dane: imię i nazwisko oraz stanowisko pracownika.
+### 3)
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór legitymacji służbowej pracowników Biura Rzecznika przeprowadzających kontrole w zakresie spełniania wymagań dostępności usług bankowości detalicznej w rozumieniu art. 5 pkt 30 ustawy, o której mowa w art. 17 ust. 2a, termin ważności legitymacji służbowej, okoliczności uzasadniające jej wymianę i zwrot oraz postępowanie w razie utraty legitymacji służbowej, biorąc pod uwagę przeznaczenie tego dokumentu oraz konieczność właściwego jego zabezpieczenia przed przerobieniem lub podrobieniem oraz użyciem przez osobę nieuprawnioną.
+w formie elektronicznej z wykorzystaniem środków komunikacji elektronicznej, o ile takie środki zostały do tego celu wskazane przez podmiot rynku finansowego.
 
-**Art. 19.**
+### Art. 4.
 
-1. Rzecznik wykonuje swoje zadania przy pomocy nie więcej niż trzech zastępców.
+### 1.
 
-2. Minister właściwy do spraw instytucji finansowych powołuje i odwołuje zastępców Rzecznika na jego wniosek.
+Podmiot rynku finansowego zamieszcza w umowie zawieranej z klientem następujące informacje dotyczące procedury składania i rozpatrywania reklamacji:
 
-3. Zastępcą Rzecznika może być wyłącznie osoba spełniająca kryteria, o których mowa w art. 13 pkt 2–5, wyróżniająca się wiedzą w zakresie funkcjonowania rynku finansowego i regulacji prawnych tworzących jego otoczenie oraz posiadająca co najmniej pięcioletnie doświadczenie zawodowe w tym obszarze. Przepis art. 23 stosuje się odpowiednio.
+### 1)
 
-**Art. 19a.**
+miejsce i formę złożenia reklamacji;
 
-1. Pracami Biura Rzecznika kieruje dyrektor generalny Biura Rzecznika.
+### 2)
 
-2. Dyrektor generalny Biura Rzecznika podlega bezpośrednio Rzecznikowi.
+termin rozpatrzenia reklamacji;
 
-3. Do dyrektora generalnego Biura Rzecznika stosuje się odpowiednio przepisy art. 13 pkt 2–5 oraz art. 23.
+### 3)
 
-4. Do zadań dyrektora generalnego Biura Rzecznika stosuje się odpowiednio art. 25 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409).
+sposób powiadomienia o rozpatrzeniu reklamacji.
 
-**Art. 20.**
+### 2.
 
-1. Podmiot rynku finansowego ponosi opłatę na finansowanie działalności Rzecznika i jego Biura w wysokości iloczynu:
+W odniesieniu do klientów, którzy nie zawarli umowy z podmiotem rynku finansowego, informacje, o których mowa w ust. 1, powinny zostać dostarczone w ciągu 7 dni od dnia, w którym nastąpiło zgłoszenie roszczeń klienta wobec podmiotu rynku finansowego.
 
-- **1)** wysokości składki przypisanej brutto zebranej w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,02875 % – w przypadku krajowego zakładu ubezpieczeń;
-- **2)** wysokości składki przypisanej brutto, z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej, zebranej w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,03125 % – w przypadku zagranicznego zakładu ubezpieczeń;
-- **3)** wartości aktywów otwartego funduszu emerytalnego, zarządzanego przez powszechne towarzystwo emerytalne, według stanu na koniec roku poprzedzającego o 2 lata rok, za który opłata jest należna, i stawki 0,00013 % – w przypadku powszechnego towarzystwa emerytalnego;
-- **4)** wysokości posiadanych funduszy własnych, według stanu na koniec roku poprzedzającego o 2 lata rok, za który opłata jest należna, i stawki 0,125 % – w przypadku krajowej instytucji płatniczej oraz krajowej instytucji pieniądza elektronicznego;
-- **5)** średniej wartości przychodów ogółem w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,025 % – w przypadku dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku;
-- **6)** wartości wykonanych transakcji płatniczych w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,00075 % – w przypadku małej instytucji płatniczej;
-- **7)** wartości średniej rocznej sumy aktywów bilansowych wyliczanej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku za rok poprzedzający o 2 lata rok, za który opłata jest należna, i stawki 0,00138 % – w przypadku banku;
-- **8)** wartości średniej rocznej sumy aktywów bilansowych wyliczanej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku za rok poprzedzający o 2 lata rok, za który opłata jest należna, i stawki 0,00138 % – w przypadku spółdzielczej kasy oszczędnościowo-kredytowej;
-- **9)** sumy wartości średniej rocznej aktywów funduszy inwestycyjnych, aktywów zbiorczych portfeli papierów wartościowych oraz portfeli, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zarządzanych przez towarzystwo funduszy inwestycyjnych, wyliczanej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca roku poprzedzającego o 2 lata rok, za który opłata jest należna, i stawki 0,00013 % – w przypadku towarzystwa funduszy inwestycyjnych;
-- **10)** sumy wartości aktywów alternatywnych spółek inwestycyjnych zarządzanych przez zarządzającego ASI, wyliczanej według stanu na koniec roku poprzedzającego o 2 lata rok, za który opłata jest należna, i stawki 0,00013 % – w przypadku zarządzającego ASI;
-- **11)** średniej wartości przychodów ogółem w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,025 % – w przypadku firmy inwestycyjnej, przy czym wartość przychodów ogółem stanowi suma następujących pozycji rachunku zysków i strat:
-    - **a)** przychody z działalności maklerskiej,
-    - **b)** przychody z instrumentów finansowych przeznaczonych do obrotu,
-    - **c)** przychody z instrumentów finansowych utrzymywanych do terminu zapadalności,
-    - **d)** przychody z instrumentów finansowych dostępnych do sprzedaży,
-    - **e)** pozostałe przychody operacyjne,
-    - **f)** przychody finansowe – pomniejszona o dywidendy otrzymane od jednostek zależnych i stowarzyszonych, które są obowiązane do wnoszenia opłat na finansowanie działalności Rzecznika i jego Biura;
+### Art. 5.
 
-- **12)** wartości średniorocznej sumy aktywów za rok poprzedzający o 2 lata rok, za który opłata jest należna, i stawki 0,025 % – w przypadku instytucji pożyczkowej, przy czym sumę aktywów stanowi wartość bilansowa aktywów obejmujących wyłącznie wierzytelności danej instytucji pożyczkowej z tytułu umów, do których stosuje się przepisy ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim;
-- **13)** średniej wartości przychodów z tytułu świadczenia usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. a rozporządzenia 2020/1503, w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,025 % – w przypadku dostawcy usług finansowania społecznościowego;
-- **14)** wartości przychodów z tytułu działalności w zakresie obsługi kredytów, o której mowa w art. 3 ust. 1 pkt 3 ustawy o obsługujących kredyty, w roku poprzedzającym o 2 lata rok, za który opłata jest należna, i stawki 0,025 % – w przypadku podmiotu obsługującego kredyty w rozumieniu art. 3 ust. 1 pkt 17 ustawy o obsługujących kredyty.
+### 1.
 
-2. W przypadku zagranicznych firm inwestycyjnych oraz zagranicznych osób prawnych z siedzibą na terytorium państwa należącego do Organizacji Współpracy Gospodarczej i Rozwoju lub do Światowej Organizacji Handlu, innego niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, wartość przychodów ogółem oblicza się z działalności maklerskiej prowadzonej przez te podmioty na terytorium Rzeczypospolitej Polskiej.
+Po złożeniu przez klienta reklamacji, zgodnie z wymogami, o których mowa w art. 4 ust. 1 pkt 1, podmiot rynku finansowego rozpatruje reklamację i udziela klientowi odpowiedzi w postaci papierowej lub za pomocą innego trwałego nośnika informacji.
 
-3. W przypadku firmy inwestycyjnej będącej bankiem prowadzącym działalność maklerską wysokość opłaty na finansowanie działalności Rzecznika i jego Biura za dany rok oblicza się na zasadach określonych odpowiednio w ust. 1 pkt 7.
+### 2.
 
-4. W przypadku gdy dany podmiot rynku finansowego wykonuje działalność w obszarze działalności więcej niż jednego podmiotu, o którym mowa w ust. 1, wysokość należnej opłaty na finansowanie Rzecznika i jego Biura oblicza się na zasadach określonych dla tego podmiotu rynku finansowego, z którego obszaru działalności dany podmiot uzyskuje największe przychody, według stanu na dzień 31 grudnia roku poprzedzającego rok, za który opłata jest należna.
+Odpowiedź, o której mowa w ust. 1, podmiot rynku finansowego może dostarczyć pocztą elektroniczną wyłącznie na wniosek klienta.
 
-5. Nie pobiera się opłaty na finansowanie działalności Rzecznika i jego Biura, jeżeli jej wysokość wraz z odsetkami z tytułu niezapłacenia jej w terminie nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe za traktowanie przesyłki listowej jako poleconej.
+### Art. 6.
 
-6. Podmiot rynku finansowego rozpoczynający działalność pierwszą opłatę na finansowanie działalności Rzecznika i jego Biura ponosi w roku następującym 2 lata po roku, w którym rozpoczął działalność.
+Odpowiedzi, o której mowa w art. 5 ust. 1, należy udzielić bez zbędnej zwłoki, jednak nie później niż w terminie 30 dni od dnia otrzymania reklamacji. Do zachowania terminu wystarczy wysłanie odpowiedzi przed jego upływem.
 
-7. Do dnia 31 marca podmiot rynku finansowego, o którym mowa w ust. 1:
+### Art. 7.
 
-- **1)** składa Rzecznikowi, za pośrednictwem systemu teleinformatycznego, do którego dostęp nadaje Rzecznik, roczną deklarację o wysokości opłaty na finansowanie działalności Rzecznika i jego Biura zawierającą dane podmiotu rynku finansowego, wysokość opłaty na finansowanie działalności Rzecznika i jego Biura w danym roku oraz imię i nazwisko osoby upoważnionej do sporządzenia deklaracji;
-- **2)** wnosi opłatę na finansowanie działalności Rzecznika i jego Biura.
+W szczególnie skomplikowanych przypadkach, uniemożliwiających rozpatrzenie reklamacji i udzielenie odpowiedzi w terminie, o którym mowa w art. 6, podmiot rynku finansowego w informacji przekazywanej klientowi, który wystąpił z reklamacją:
 
-8. Jeżeli podmiot rynku finansowego, o którym mowa w ust. 1, nie złoży w terminie, o którym mowa w ust. 7, deklaracji, o której mowa w tym przepisie, Rzecznik wydaje decyzję, w której określa wysokość opłaty na finansowanie działalności Rzecznika i jego Biura należnej od tego podmiotu.
+### 1)
 
-9. Opłata na finansowanie działalności Rzecznika i jego Biura nie podlega zwrotowi w przypadku zakończenia działalności przez podmiot rynku finansowego w ciągu roku, za który została wniesiona.
+wyjaśnia przyczynę opóźnienia;
 
-10. W zakresie nieuregulowanym w ustawie do opłaty na finansowanie działalności Rzecznika i jego Biura stosuje się przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879).
+### 2)
 
-11. Opłata na finansowanie działalności Rzecznika i jego Biura podlega egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+wskazuje okoliczności, które muszą zostać ustalone dla rozpatrzenia sprawy;
 
-12. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy zakres danych podmiotu rynku finansowego i informacji, które należy zawrzeć w deklaracji, o której mowa w ust. 7, sposób jej sporządzenia oraz nadawania dostępu do systemu teleinformatycznego, o którym mowa w ust. 7 pkt 1, mając na uwadze potrzebę zapewnienia sprawności i skuteczności działania Rzecznika i jego Biura, bezpiecznego przekazania tej deklaracji drogą elektroniczną, poprawności danych zawartych w tej deklaracji oraz zapewnienia skutecznej egzekucji opłaty na finansowanie Rzecznika i jego Biura.
+### 3)
 
-**Art. 20a.**
+określa przewidywany termin rozpatrzenia reklamacji i udzielenia odpowiedzi, który nie może przekroczyć 60 dni od dnia otrzymania reklamacji.
 
-1. W przypadku, o którym mowa w art. 20 ust. 8, lub w celu zweryfikowania wysokości należnych opłat na finansowanie działalności Rzecznika i jego Biura za dany rok Rzecznik występuje do Przewodniczącego Komisji Nadzoru Finansowego o przekazanie danych o:
+### Art. 8.
 
-- **1)** wysokości składki przypisanej brutto krajowych zakładów ubezpieczeń;
-- **2)** średniej rocznej wartości aktywów otwartych funduszy emerytalnych, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **3)** średniej rocznej wysokości funduszy własnych krajowych instytucji płatniczych oraz krajowych instytucji pieniądza elektronicznego, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **4)** wartości transakcji płatniczych wykonanych przez małe instytucje płatnicze;
-- **5)** średniej rocznej sumie aktywów bilansowych banków oraz spółdzielczych kas oszczędnościowo-kredytowych, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **6)** średniej rocznej sumie wartości aktywów funduszy inwestycyjnych, aktywów zbiorczych portfeli papierów wartościowych oraz portfeli, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zarządzanych przez towarzystwa funduszy inwestycyjnych, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **7)** średniej rocznej sumie wartości aktywów alternatywnych spółek inwestycyjnych zarządzanych przez zarządzających ASI, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **8)** wartości przychodów firm inwestycyjnych;
-- **9)** średniej wartości przychodów dostawcy usług finansowania społecznościowego z tytułu świadczenia usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. a rozporządzenia 2020/1503, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku;
-- **10)** wartości przychodów uzyskanych z działalności w zakresie obsługi kredytów, o której mowa w art. 3 ust. 1 pkt 3 ustawy o obsługujących kredyty.
+W przypadku niedotrzymania terminu określonego w art. 6, a w określonych przypadkach terminu określonego w art. 7, reklamację uważa się za rozpatrzoną zgodnie z wolą klienta.
 
-2. Przewodniczący Komisji Nadzoru Finansowego przekazuje Rzecznikowi, w postaci dokumentu elektronicznego, dane, o których mowa w ust. 1, w terminie 30 dni od dnia otrzymania wystąpienia Rzecznika o przekazanie tych danych. W przypadku braku tych danych Przewodniczący Komisji Nadzoru Finansowego informuje Rzecznika o przewidywanym terminie ich otrzymania, a po ich otrzymaniu przekazuje je w terminie 14 dni od dnia ich otrzymania.
+### Art. 9.
 
-3. Wysokość składek przypisanych brutto zebranych przez zagraniczne zakłady ubezpieczeń z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej ustala się na podstawie informacji otrzymanych od zagranicznych zakładów ubezpieczeń.
+Odpowiedź, o której mowa w art. 5 ust. 1, powinna zawierać w szczególności:
 
-4. Wartość przychodów z działalności maklerskiej prowadzonej na terytorium Rzeczypospolitej Polskiej przez zagraniczne firmy inwestycyjne oraz zagraniczne osoby prawne z siedzibą na terytorium państwa należącego do Organizacji Współpracy Gospodarczej i Rozwoju lub do Światowej Organizacji Handlu, innego niż państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, ustala się na podstawie informacji otrzymanych od tych podmiotów.
+### 1)
 
-5. Wysokość średniej rocznej sumy aktywów instytucji pożyczkowych, wyliczonej na podstawie wartości ustalonych na ostatni dzień każdego miesiąca danego roku, ustala się na podstawie informacji otrzymanych od instytucji pożyczkowych.
+uzasadnienie faktyczne i prawne, chyba że reklamacja została rozpatrzona zgodnie z wolą klienta;
 
-6. Średnią wartość przychodów ogółem dostawców świadczących wyłącznie usługę dostępu do informacji o rachunku ustala się na podstawie informacji otrzymanych od dostawców świadczących wyłącznie usługę dostępu do informacji o rachunku.
+### 2)
 
-**Art. 20b.**
+wyczerpującą informację na temat stanowiska podmiotu rynku finansowego w sprawie skierowanych zastrzeżeń, w tym wskazanie odpowiednich fragmentów wzorca umowy lub umowy;
 
-1. W przypadku stwierdzenia rozbieżności między danymi posiadanymi przez Rzecznika a wysokością opłaty na finansowanie działalności Rzecznika i jego Biura wykazaną przez podmiot rynku finansowego w deklaracji, o której mowa w art. 20 ust. 7 pkt 1, Rzecznik występuje do podmiotu rynku finansowego o udzielenie wyjaśnień w zakresie tych rozbieżności. Podmiot rynku finansowego, w terminie 14 dni od dnia otrzymania wniosku Rzecznika, udziela Rzecznikowi wyjaśnień lub składa korektę deklaracji, o której mowa w art. 20 ust. 7 pkt 1.
+### 3)
 
-2. W przypadku nieudzielenia przez podmiot rynku finansowego wyjaśnień lub niezłożenia korekty deklaracji, o których mowa w ust. 1, albo gdy złożona korekta nie uwzględnia rozbieżności, Rzecznik wydaje decyzję, w której określa wysokość opłaty na finansowanie działalności Rzecznika i jego Biura należnej od tego podmiotu.
+imię i nazwisko osoby udzielającej odpowiedzi ze wskazaniem jej stanowiska służbowego;
 
-**Art. 21.**
+### 4)
 
-1. Podstawą gospodarki finansowej Biura Rzecznika jest sporządzony i zatwierdzony przez Rzecznika roczny plan finansowy. Rzecznik przekazuje ministrowi właściwemu do spraw instytucji finansowych projekt rocznego planu finansowego, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
+określenie terminu, w którym roszczenie podniesione w reklamacji rozpatrzonej zgodnie z wolą klienta zostanie zrealizowane, nie dłuższego niż 30 dni od dnia sporządzenia odpowiedzi.
 
-2. W przypadku gdy zrealizowano przychody wyższe od prognozowanych w trakcie roku budżetowego, w rocznym planie finansowym mogą być dokonywane przez Rzecznika zmiany wysokości przychodów i kosztów.
+### Art. 10.
 
-3. W trakcie roku budżetowego w rocznym planie finansowym mogą być dokonywane przez Rzecznika zmiany pomiędzy poszczególnymi pozycjami kosztów.
+W przypadku nieuwzględnienia roszczeń wynikających z reklamacji klienta treść odpowiedzi, o której mowa w art. 5 ust. 1, powinna zawierać również pouczenie o możliwości:
 
-4. Rzecznik niezwłocznie informuje ministra właściwego do spraw instytucji finansowych o zmianach w rocznym planie finansowym dokonanych w trakcie roku budżetowego zgodnie z ust. 2 i 3.
+### 1)
 
-**Art. 21a.**
+odwołania się od stanowiska zawartego w odpowiedzi, jeżeli podmiot rynku finansowego przewiduje tryb odwoławczy, a także o sposobie wniesienia tego odwołania;
 
-1. Rzecznik tworzy następujące fundusze własne:
+### 2)
 
-- **1)** fundusz podstawowy;
-- **2)** fundusz zapasowy.
+skorzystania z instytucji mediacji albo sądu polubownego, albo innego mechanizmu polubownego rozwiązywania sporów, jeżeli podmiot rynku finansowego przewiduje taką możliwość;
 
-2. Fundusz podstawowy odzwierciedla równowartość mienia Biura Rzecznika na dzień jego utworzenia.
+### 3)
 
-3. Fundusz zapasowy zwiększa się o zysk netto i zmniejsza się o stratę netto.
+wystąpienia z wnioskiem o rozpatrzenie sprawy do Rzecznika Finansowego;
 
-**Art. 21b.**
+### 4)
 
-1. Jeżeli w wyniku przeprowadzonego przez Rzecznika przeglądu, na dzień 31 grudnia roku poprzedzającego rok, w którym jest on przeprowadzany, skumulowana wartość przychodów w okresie objętym przeglądem od podmiotów rynku finansowego pomniejszona o koszty poniesione w tym okresie przez Rzecznika i jego Biuro przekracza 50 % przychodów uzyskanych od podmiotów rynku finansowego w roku poprzedzającym rok przeprowadzenia przeglądu, opłata, o której mowa w art. 20 ust. 1 pkt 1–12, jest obniżana w tym roku o wartość procentową wyliczoną według wzoru: 𝑍 = (𝑋⁄𝑌 −0,5)×100 % gdzie poszczególne symbole oznaczają: Z – procentową wartość obniżenia opłaty, X – skumulowaną wartość przychodów w okresie objętym przeglądem od podmiotów rynku finansowego pomniejszoną o koszty poniesione w tym okresie przez Rzecznika i jego Biuro, na dzień 31 grudnia roku poprzedzającego rok, w którym jest przeprowadzany przegląd, Y – łączną kwotę przychodów uzyskanych od podmiotów rynku finansowego w roku poprzedzającym rok przeprowadzenia przeglądu.
+wystąpienia z powództwem do sądu powszechnego ze wskazaniem podmiotu, który powinien być pozwany i sądu miejscowo właściwego do rozpoznania sprawy.
 
-2. W przypadku gdy procentowa wartość obniżenia opłaty (Z) jest większa lub równa 100 %, przyjmuje się, że procentowa wartość obniżenia opłaty wynosi 100 %.
+### Rozdział 3 Rzecznik Finansowy
 
-3. Przegląd, o którym mowa w ust. 1, jest przeprowadzany raz na 5 lat, w terminie do dnia 1 marca.
+### Art. 11.
 
-4. W przypadku, o którym mowa w ust. 1, Rzecznik, do dnia 10 marca roku, w którym został przeprowadzony przegląd, ogłasza w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informację o wysokości obniżenia opłaty w tym roku.
+Prezes Rady Ministrów, na wniosek ministra właściwego do spraw instytucji finansowych, powołuje Rzecznika Finansowego, zwanego dalej „Rzecznikiem”.
 
-**Art. 22.** Do pracowników Biura Rzecznika stosuje się odpowiednio przepisy o służbie cywilnej.
+### Art. 12.
 
-**Art. 23.** Rzecznik nie może:
+### 1.
 
-**Art. 24.**
+Kadencja Rzecznika trwa 4 lata.
 
-1. Podjęcie czynności przez Rzecznika następuje z urzędu lub na wniosek:
+### 2.
 
-- **1)** klienta podmiotu rynku finansowego w sytuacji nieuwzględnienia jego roszczeń przez podmiot rynku finansowego w trybie rozpatrywania reklamacji, o którym mowa w rozdziale 2;
-- **2)** właściwego organu nadzoru, kontroli lub innego organu władzy publicznej;
-- **3)** organizacji konsumenckich – w zakresie dotyczącym dystrybucji ubezpieczeń w rozumieniu ustawy z dnia 15 grudnia 2017 r. o dystrybucji ubezpieczeń.
+Kadencja Rzecznika rozpoczyna się z dniem jego powołania.
 
-2. Rzecznik, po zapoznaniu się ze skierowanym do niego wnioskiem, może:
+### 3.
 
-- **1)** podjąć czynność;
-- **2)** wskazać wnioskodawcy przysługujące mu prawa i środki działania;
-- **3)** przekazać sprawę według właściwości;
-- **4)** wskazać wnioskodawcy możliwość przeprowadzenia pozasądowego postępowania w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego, o którym mowa w art. 35;
-- **5)** nie podjąć czynności, o czym zawiadamia, uzasadniając swoje stanowisko, wnioskodawcę oraz osobę, której sprawa dotyczy.
+Ta sama osoba nie może być Rzecznikiem więcej niż przez dwie kolejne kadencje.
 
-3. Rzecznik, podejmując czynność, bada, czy wskutek działania lub zaniechania podmiotu rynku finansowego nie nastąpiło naruszenie praw lub interesów klienta.
+### 4.
 
-**Art. 25.**
+Kadencja Rzecznika wygasa w przypadku jego śmierci.
 
-1. Rzecznik lub upoważniony przez niego pracownik Biura Rzecznika może:
+### Art. 13.
 
-- **1)** występować do podmiotów rynku finansowego oraz innych podmiotów, których działalność wiąże się z rozpatrywaną sprawą, o udzielenie informacji lub wyjaśnień, udostępnienie akt oraz dokumentów, w szczególności:
-    - **a)** w sprawach indywidualnych,
-    - **b)** w sprawach postanowień wzorców umów, które według Rzecznika są niekorzystne dla klientów podmiotów rynku finansowego,
-    - **c)** w sprawach dotyczących wewnętrznych regulacji tych podmiotów rynku finansowego, które według Rzecznika są niekorzystne dla klientów,
-    - **d)** na temat nieprawidłowej obsługi klientów, świadczonej przez podmioty rynku finansowego;
+Rzecznikiem może być wyłącznie osoba:
 
-- **2)** zwracać się do ministra właściwego do spraw instytucji finansowych w sprawach dotyczących funkcjonowania podmiotów rynku finansowego i postulować ewentualną zmianę przepisów regulujących ich funkcjonowanie;
-- **3)** przeprowadzać lub zlecać badania dotyczące sytuacji na rynku finansowym, w szczególności ochrony interesów klientów podmiotów tego rynku.
+### 1)
 
-2. Wystąpienie o udzielenie informacji lub wyjaśnień w sprawach indywidualnych może nastąpić wyłącznie za zgodą klienta, którego sprawa dotyczy.
+wyróżniająca się wiedzą w zakresie funkcjonowania rynku finansowego i regulacji prawnych tworzących jego otoczenie oraz posiadająca co najmniej siedmioletnie doświadczenie zawodowe w tym obszarze;
 
-**Art. 26.**
+### 2)
 
-1. Rzecznik w związku z realizacją swoich zadań może żądać wszczęcia postępowania w sprawach cywilnych na rzecz klientów podmiotów rynku finansowego, jak również wziąć udział w toczącym się postępowaniu cywilnym, jeżeli według jego oceny wymaga tego ochrona praw klientów podmiotów rynku finansowego. W takim przypadku do Rzecznika stosuje się odpowiednio przepisy o prokuratorze.
+posiadająca wyższe wykształcenie;
 
-2. Przepisu ust. 1 nie stosuje się do postępowań przed Sądem Okręgowym w Warszawie – Sądem Ochrony Konkurencji i Konsumentów.
+### 3)
 
-**Art. 26a.** Rzecznik działając w charakterze reprezentanta grupy, o którym mowa w art. 4 ust. 2a ustawy z dnia 17 grudnia 2009 r. o dochodzeniu roszczeń w postępowaniu grupowym, może wytoczyć powództwo w postępowaniu grupowym na rzecz:
+korzystająca z pełni praw publicznych;
 
-**Art. 27.** Po zbadaniu sprawy Rzecznik może:
+### 4)
 
-**Art. 28.** Do Rzecznika stosuje się odpowiednio przepis art. 63 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ).
+posiadająca obywatelstwo polskie;
 
-**Art. 29.** (uchylony)
+### 5)
 
-**Art. 30.** Podmiot rynku finansowego przekazuje, na wniosek Rzecznika, wzorzec umowy o świadczenie usług, którym posługuje się w swojej działalności, oraz inne dokumenty i formularze stosowane przy zawieraniu i wykonywaniu tych umów, w terminie 14 dni od dnia otrzymania wniosku.
+nieskazana prawomocnym wyrokiem za przestępstwo umyślne.
 
-**Art. 31.** Podmiot rynku finansowego lub podmiot wskazany w art. 25 ust. 1 pkt 1, który otrzymał wniosek Rzecznika w sprawach objętych zakresem jego działalności, jest obowiązany niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania wniosku, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku oraz przekazać żądane dokumenty lub informacje, w tym także informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233) oraz inne informacje podlegające ochronie na podstawie odrębnych przepisów.
+### Art. 14.
 
-**Art. 32.**
+Prezes Rady Ministrów, na wniosek ministra właściwego do spraw instytucji finansowych, może odwołać Rzecznika przed upływem kadencji.
 
-1. Na podmiot rynku finansowego, który narusza obowiązki nałożone w art. 4, art. 6–10, art. 30 i art. 31, Rzecznik może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
+### Art. 15.
 
-1a. Na podmiot wskazany w art. 25 ust. 1 pkt 1, który narusza obowiązek nałożony w art. 31, Rzecznik może, w drodze decyzji, nałożyć karę pieniężną do wysokości, o której mowa w ust. 1.
+Odwołanie Rzecznika przed upływem kadencji może nastąpić wyłącznie z powodu:
 
-1b. Na podmiot rynku finansowego, który narusza art. 37, Rzecznik może, w drodze decyzji, nałożyć karę pieniężną do wysokości 100 000 zł.
+### 1)
 
-2. Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, uwzględnia się stopień naruszenia przepisów, okoliczności tego naruszenia oraz możliwości finansowe podmiotu, który dokonał naruszenia.
+złożenia rezygnacji;
 
-3. (uchylony)
+### 2)
 
-4. Rzecznik może nadać rygor natychmiastowej wykonalności decyzji w całości albo w części, jeżeli wymaga tego ochrona praw klientów podmiotów rynku finansowego lub ważny interes klientów podmiotów rynku finansowego.
+niewypełniania obowiązków przez ponad 6 miesięcy na skutek długotrwałej choroby, stwierdzonej orzeczeniem lekarskim;
 
-5. Od decyzji wydanych przez Rzecznika, o których mowa w ust. 1–1b, przysługuje wniosek o ponowne rozpatrzenie sprawy do Rzecznika.
+### 3)
 
-6. Rzecznik publikuje na swojej stronie internetowej informację o karze pieniężnej nałożonej na podstawie ostatecznej decyzji na podmioty, o których mowa w ust. 1 i art. 25 ust. 1 pkt 1, zawierającą:
+rażącego naruszenia interesów klientów podmiotów rynku finansowego;
 
-- **1)** nazwę lub firmę podmiotu, na który nałożono karę;
-- **2)** informację o wysokości nałożonej kary;
-- **3)** informację o przepisach prawnych stanowiących podstawę wydania decyzji.
+### 4)
 
-7. Informacja, o której mowa w ust. 6, jest publikowana na stronie internetowej Rzecznika przez okres 5 lat, licząc od dnia jej publikacji.
+rażącego naruszenia przepisów Konstytucji Rzeczypospolitej Polskiej lub ustaw;
 
-**Art. 32a.**
+### 5)
 
-1. Pracownicy Biura Rzecznika są obowiązani do ochrony tajemnicy przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji oraz innych informacji podlegających ochronie na podstawie odrębnych przepisów, o których powzięli wiadomość w związku z czynnościami wykonywanymi na podstawie ustawy.
+skazania prawomocnym wyrokiem za przestępstwo umyślne.
 
-2. Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, informacji o wszczęciu postępowania oraz informacji o wydaniu decyzji kończących postępowanie i ich ustaleniach.
+### Art. 16.
 
-**Art. 33.** Podmiot rynku finansowego corocznie, w terminie 45 dni od zakończenia roku kalendarzowego, przekazuje Rzecznikowi sprawozdanie dotyczące rozpatrywania reklamacji oraz liczby wystąpień klientów tych podmiotów na drogę postępowania sądowego w wyniku nierozpatrzenia reklamacji zgodnie z wolą tych klientów, z uwzględnieniem:
+### 1.
 
-**Art. 34.**
+Rzecznik posiada osobowość prawną.
 
-1. Rzecznik składa corocznie, w terminie 90 dni od zakończenia roku kalendarzowego, Prezesowi Rady Ministrów oraz ministrowi właściwemu do spraw instytucji finansowych sprawozdanie:
+### 2.
 
-- **1)** ze swojej działalności oraz uwagi o stanie przestrzegania prawa i interesów klientów podmiotów rynku finansowego;
-- **2)** (uchylony)
+Siedziba Rzecznika znajduje się w Warszawie.
 
-2. Sprawozdanie, o którym mowa w ust. 1, jest jawne.
+### Art. 17.
 
-#### Rozdział 4 Pozasądowe postępowanie w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego
+### 1.
 
-**Art. 35.** Spór między klientem a podmiotem rynku finansowego może być zakończony w drodze pozasądowego postępowania w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego, zwanym dalej „postępowaniem”.
+Do zadań Rzecznika należy podejmowanie działań w zakresie ochrony klientów podmiotów rynku finansowego, których interesy reprezentuje, a w szczególności:
 
-**Art. 35a.**
+### 1)
 
-1. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich (Dz. U. poz. 1823), z tym że spór może być prowadzony między przedsiębiorcami.
+rozpatrywanie wniosków w indywidualnych sprawach, wniesionych na skutek nieuwzględnienia roszczeń klienta przez podmiot rynku finansowego w trybie rozpatrywania reklamacji;
 
-2. Rzecznik jest podmiotem uprawnionym do prowadzenia postępowania w sprawie pozasądowego rozwiązywania sporów konsumenckich w rozumieniu ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich.
+### 2)
 
-**Art. 35b.**
+rozpatrywanie wniosków dotyczących niewykonania czynności wynikających z reklamacji rozpatrzonej zgodnie z wolą klienta w terminie, o którym mowa w art. 9 pkt 4;
 
-1. Postępowanie prowadzi osoba upoważniona przez Rzecznika. Upoważnienie udzielane jest na czas określony.
+### 3)
 
-2. Do prowadzenia postępowania może być upoważniona osoba wyróżniająca się wiedzą w zakresie funkcjonowania rynku finansowego i regulacji prawnych tworzących jego otoczenie oraz posiadająca co najmniej pięcioletni staż pracy, w tym co najmniej trzyletnie doświadczenie zawodowe w tym obszarze.
+opiniowanie projektów aktów prawnych dotyczących organizacji i funkcjonowania podmiotów rynku finansowego;
 
-3. Osoba upoważniona prowadzi postępowanie w sposób niezależny i bezstronny.
+### 4)
 
-4. Rzecznik cofa upoważnienie przed upływem okresu, na jaki zostało udzielone, w przypadku:
+występowanie do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej albo wydanie lub zmianę innych aktów prawnych w sprawach dotyczących organizacji i funkcjonowania rynku finansowego;
 
-- **1)** rażącego naruszenia prawa przy wykonywaniu funkcji;
-- **2)** skazania prawomocnym wyrokiem za popełnione umyślnie przestępstwo lub przestępstwo skarbowe;
-- **3)** choroby trwale uniemożliwiającej wykonywanie zadań.
+### 5)
 
-**Art. 36.**
+informowanie właściwych organów nadzoru i kontroli o dostrzeżonych nieprawidłowościach w funkcjonowaniu podmiotów rynku finansowego;
 
-1. Postępowanie wszczyna się na wniosek klienta podmiotu rynku finansowego.
+### 6)
 
-2. Wniosek o wszczęcie postępowania zawiera co najmniej elementy określone w art. 33 ust. 2 ustawy z dnia 23 września 2016 r. o pozasądowym rozwiązywaniu sporów konsumenckich, z tym że wnioskodawca może wnosić o:
+inicjowanie i organizowanie działalności edukacyjnej i informacyjnej w dziedzinie ochrony interesów klientów podmiotów rynku finansowego.
 
-- **1)** umożliwienie zbliżenia stanowisk stron w celu rozwiązania sporu przez jego strony lub
-- **2)** przedstawienie stronom propozycji rozwiązania sporu.
+### 2.
 
-3. Do wniosku o wszczęcie postępowania dołącza się opis okoliczności sprawy, informacje na temat dotychczasowego przebiegu sporu oraz kopie posiadanych przez wnioskodawcę dokumentów potwierdzających informacje zawarte we wniosku.
+Przy Rzeczniku prowadzone są pozasądowe postępowania w sprawie rozwiązywania sporów między klientami podmiotów rynku finansowego a tymi podmiotami.
 
-4. Rzecznik odmawia rozpatrzenia sporu w przypadku, gdy:
+### Art. 18.
 
-- **1)** jego przedmiot wykracza poza kategorie sporów objęte właściwością Rzecznika;
-- **2)** klient nie wyczerpał drogi postępowania reklamacyjnego, o którym mowa w rozdziale 2;
-- **3)** wniosek o wszczęcie postępowania spowoduje uciążliwości dla podmiotu rynku finansowego;
-- **4)** sprawa o to samo roszczenie między tymi samymi stronami jest w toku albo została już rozpatrzona przez Rzecznika w postępowaniu, sąd polubowny, inny właściwy podmiot albo sąd;
-- **5)** rozpatrzenie sporu spowodowałoby poważne zakłócenie działania Rzecznika;
-- **6)** klient nie uiścił opłaty, o której mowa w art. 38 ust. 1, i nie został z niej zwolniony.
+### 1.
 
-**Art. 37.** Udział podmiotu rynku finansowego w postępowaniu jest obowiązkowy.
+Rzecznik wykonuje swoje zadania przy pomocy podległego mu Biura Rzecznika.
 
-**Art. 38.**
+### 2.
 
-1. W przypadku złożenia wniosku, o którym mowa w art. 36 ust. 1, klient uiszcza opłatę w wysokości 50 zł na rachunek Rzecznika.
+Prezes Rady Ministrów, po zasięgnięciu opinii Rzecznika, nadaje, w drodze zarządzenia, statut, który określa organizację Biura Rzecznika.
 
-2. W szczególnie uzasadnionych przypadkach Rzecznik może zwolnić klienta z obowiązku uiszczania opłaty, o której mowa w ust. 1.
+### Art. 19.
 
-**Art. 39.** W toku postępowania Rzecznik zapoznaje podmiot rynku finansowego z roszczeniem klienta, przedstawia stronom postępowania przepisy prawa mające zastosowanie w sprawie oraz podejmuje działania mające na celu umożliwienie zbliżenia stanowisk stron w celu rozwiązania sporu przez jego strony lub przedstawia stronom propozycję rozwiązania sporu.
+### 1.
 
-**Art. 39a.** Strony oraz inne osoby biorące udział w postępowaniu są obowiązane zachować w tajemnicy wszelkie informacje uzyskane w jego trakcie.
+Rzecznik wykonuje swoje zadania przy pomocy nie więcej niż trzech zastępców.
 
-**Art. 40.**
+### 2.
 
-1. W przypadku braku polubownego zakończenia postępowania Rzecznik, na wniosek strony postępowania sporządza opinię, w której zawiera w szczególności ocenę prawną stanu faktycznego w przedmiotowym postępowaniu.
+Minister właściwy do spraw instytucji finansowych powołuje i odwołuje zastępców Rzecznika na jego wniosek.
 
-2. Wniosek, o którym mowa w ust. 1, składa się w terminie 14 dni od dnia doręczenia protokołu z przebiegu postępowania, o którym mowa w art. 41 ust. 1. Wniosek złożony po upływie terminu pozostawia się bez rozpoznania, chyba że strona nie złożyła go w terminie z ważnych przyczyn, które uprawdopodobni wraz ze składanym wnioskiem.
+### 3.
 
-3. Do zachowania terminu, o którym mowa w ust. 2, wystarczające jest nadanie wniosku przesyłką pocztową w rozumieniu art. 3 pkt 21 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej lub jego przesłanie za pośrednictwem środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344) na adres wskazany w piśmie Rzecznika doręczającym protokół z przebiegu postępowania.
+Zastępcą Rzecznika może być wyłącznie osoba spełniająca kryteria, o których mowa w art. 13 pkt 2-5, wyróżniająca się wiedzą w zakresie funkcjonowania rynku finansowego i regulacji prawnych tworzących jego otoczenie oraz posiadająca co najmniej pięcioletnie doświadczenie zawodowe w tym obszarze. Przepis art. 23 stosuje się odpowiednio.
 
-4. Opinia jest sporządzana w terminie 30 dni od dnia wpływu wniosku o jej sporządzenie i doręczana stronie, która wniosła o jej sporządzenie. W przypadku postępowań szczególnie skomplikowanych pod względem prawnym lub o obszernym materiale dowodowym Rzecznik może przedłużyć termin sporządzenia opinii o 30 dni, informując o tym stronę, która wniosła o jej sporządzenie, oraz podając przewidywalny termin sporządzenia opinii.
+### Art. 20.
 
-**Art. 41.**
+### 1.
 
-1. Z przebiegu postępowania sporządza się protokół, w którym należy zawrzeć informacje dotyczące miejsca i czasu jego przeprowadzenia, imię, nazwisko (nazwę) i adresy stron, przedmiot sporu oraz informację o sposobie zakończenia sporu. Odpis protokołu doręcza się stronom w ciągu 7 dni od dnia jego sporządzenia.
+Koszty działalności Rzecznika i jego Biura ponoszą następujące podmioty rynku finansowego:
 
-2. Protokół, o którym mowa w ust. 1, stanowi dokument urzędowy w rozumieniu art. 244 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+### 1)
 
-3. (uchylony)
+krajowe zakłady ubezpieczeń - do wysokości 0,023% zbioru składek brutto oraz zagraniczne zakłady ubezpieczeń - do wysokości 0,025% zbioru składek brutto;
 
-**Art. 42.** Rzecznik podaje do publicznej wiadomości corocznie do dnia 31 marca dane statystyczne dotyczące przeprowadzonych postępowań zakończonych w roku poprzednim.
+### 2)
 
-**Art. 43.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+powszechne towarzystwa emerytalne - do wysokości stanowiącej iloczyn średniej rocznej wartości aktywów otwartego funduszu emerytalnego zarządzanego przez dane powszechne towarzystwo emerytalne i stawki nieprzekraczającej 0,0001%; średnią roczną wartość aktywów otwartego funduszu emerytalnego wylicza się na podstawie wartości aktywów otwartego funduszu emerytalnego ustalanej na ostatni dzień roboczy każdego miesiąca danego roku kalendarzowego;
 
-#### Rozdział 4a
+### 3)
 
-#### Rozdział 4b Fundusz Edukacji Finansowej i Rada Edukacji Finansowej
+krajowe instytucje płatnicze oraz krajowe instytucje pieniądza elektronicznego - do wysokości stanowiącej iloczyn funduszy własnych, o których mowa odpowiednio w art. 76 ust. 2-3 oraz art. 132m ust. 1 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, i stawki nieprzekraczającej 0,1%;
 
-**Art. 43f.**
+### 4)
 
-1. Fundusz jest państwowym funduszem celowym w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+biura usług płatniczych - do wysokości stanowiącej iloczyn całkowitej wartości transakcji płatniczych wykonanych przez biuro usług płatniczych i stawki nieprzekraczającej 0,0006%;
 
-2. Dysponentem Funduszu jest minister właściwy do spraw instytucji finansowych.
+### 5)
 
-3. Obsługę Funduszu zapewnia urząd obsługujący ministra właściwego do spraw instytucji finansowych.
+banki - do wysokości stanowiącej iloczyn sumy aktywów bilansowych banków i stawki nieprzekraczającej 0,0011%;
 
-**Art. 43g.** Przychodami Funduszu są wpływy z tytułu:
+### 6)
 
-**Art. 43h.** Środki zgromadzone w Funduszu przeznacza się na:
+spółdzielcze kasy oszczędnościowo-kredytowe - do wysokości stanowiącej iloczyn sumy aktywów bilansowych spółdzielczych kas oszczędnościowo-kredytowych i stawki nieprzekraczającej 0,0055%;
 
-**Art. 43i.**
+### 7)
 
-1. Jeżeli w wyniku zmiany albo uchylenia decyzji kary pieniężne, o których mowa w art. 43g pkt 1–4, zostały zmniejszone albo uchylone, dysponent Funduszu niezwłocznie przekazuje na rachunek organu, który nałożył te kary, środki z przeznaczeniem na zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4. Środki z przeznaczeniem na zwrot, o którym mowa w zdaniu pierwszym, przekazywane są w wysokości odpowiadającej wysokości zwrotu, jednak nie wyższej niż kwota, która wpłynęła do Funduszu z tytułu zmniejszonej albo uchylonej kary pieniężnej.
+towarzystwa funduszy inwestycyjnych - do wysokości średniej rocznej sumy aktywów funduszy inwestycyjnych, aktywów zbiorczych portfeli papierów wartościowych oraz portfeli, w skład których wchodzi co najmniej jeden instrument finansowy zarządzany przez dane towarzystwo w wysokości nie wyższej niż iloczyn średniej rocznej sumy wartości aktywów zarządzanych przez dane towarzystwo i stawki nieprzekraczającej 0,0001%;
 
-2. Na wniosek dysponenta Funduszu, Funduszowi może być udzielona przez ministra właściwego do spraw budżetu nieoprocentowana pożyczka z budżetu państwa z przeznaczeniem na zwrot środków z tytułu zmniejszonych albo uchylonych kar pieniężnych, o których mowa w art. 43g pkt 1–4.
+### 8)
 
-3. Zasady udzielenia pożyczki, o której mowa w ust. 2, oraz jej zwrotu określa umowa, zawarta pomiędzy dysponentem Funduszu a Skarbem Państwa reprezentowanym przez ministra właściwego do spraw budżetu.
+firmy inwestycyjne - do wysokości średniej wartości przychodów ogółem w okresie trzech lat poprzedzających rok, za który jest należna opłata, w wysokości nie większej niż 0,02% tej średniej;
 
-**Art. 43j.**
+### 9)
 
-1. Przy ministrze właściwym do spraw instytucji finansowych działa Rada Edukacji Finansowej, która realizuje zadania z zakresu edukacji finansowej, w tym:
+instytucje pożyczkowe - do wysokości 0,02% sumy aktywów.
 
-- **1)** wyznacza kierunki realizacji zadań finansowanych ze środków Funduszu i określa sposób ich realizacji;
-- **2)** wyraża opinie w sprawach dotyczących edukacji finansowej przedstawianych przez ministra właściwego do spraw instytucji finansowych;
-- **3)** opracowuje opinie i wnioski w sprawach dotyczących edukacji finansowej;
-- **4)** opiniuje wnioski i dokumenty dotyczące działań, o których mowa w art. 43h pkt 1, opracowane przez inne podmioty;
-- **5)** występuje z wnioskiem do dysponenta Funduszu o sfinansowanie lub dofinansowanie realizacji działań, o których mowa w art. 43h pkt 1.
+### 2.
 
-2. Obsługę Rady Edukacji Finansowej zapewnia urząd obsługujący ministra właściwego do spraw instytucji finansowych.
+W przypadku kosztów, o których mowa w ust. 1, ponoszonych przez zagraniczne zakłady ubezpieczeń ich wysokość jest wyliczana od zbioru składek brutto z tytułu umów ubezpieczenia zawartych w związku z wykonywaniem działalności ubezpieczeniowej na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 43k.**
+### 3.
 
-1. Minister właściwy do spraw instytucji finansowych powołuje w skład Rady Edukacji Finansowej:
+Należności, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-- **1)** trzech przedstawicieli ministra właściwego do spraw instytucji finansowych;
-- **2)** przedstawiciela ministra właściwego do spraw oświaty i wychowania;
-- **3)** przedstawiciela Rzecznika;
-- **4)** przedstawiciela Prezesa Urzędu Ochrony Konkurencji i Konsumentów;
-- **5)** przedstawiciela Przewodniczącego Komisji Nadzoru Finansowego;
-- **6)** przedstawiciela Prezesa Narodowego Banku Polskiego;
-- **7)** przedstawiciela Krajowego Depozytu Papierów Wartościowych S.A.;
-- **8)** przedstawiciela Bankowego Funduszu Gwarancyjnego;
-- **9)** przedstawiciela Polskiego Funduszu Rozwoju Spółka Akcyjna z siedzibą w Warszawie, o którym mowa w art. 2 pkt 8 lit. b ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125 i 834);
-- **10)** przedstawiciela Giełdy Papierów Wartościowych w Warszawie S.A.
+### 4.
 
-2. Minister właściwy do spraw instytucji finansowych powołuje Przewodniczącego Rady Edukacji Finansowej spośród członków Rady Edukacji Finansowej, o których mowa w ust. 1 pkt 1.
+W przypadku niedotrzymania terminu uiszczania należności, określonych w przepisach wykonawczych wydanych na podstawie ust. 5, pobiera się odsetki za zwłokę w wysokości odsetek ustawowych. Odsetek nie pobiera się, jeżeli ich wysokość nie przekracza trzykrotności wartości opłaty pobieranej przez operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe za traktowanie przesyłki listowej jako poleconej.
 
-3. W posiedzeniach Rady Edukacji Finansowej mogą uczestniczyć, z głosem doradczym, przedstawiciele izb gospodarczych zrzeszających podmioty rynku finansowego.
+### 5.
 
-4. Rada Edukacji Finansowej podejmuje uchwały zwykłą większością głosów w obecności co najmniej 6 członków.
+Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania należności, o których mowa w ust. 1, uwzględniając zapewnienie skuteczności działalności Rzecznika i jego Biura.
 
-5. W przypadku równej liczby głosów decyduje głos Przewodniczącego Rady Edukacji Finansowej.
+### Art. 21.
 
-6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, regulamin pracy Rady Edukacji Finansowej, mając na uwadze potrzebę zapewnienia prawidłowego funkcjonowania Rady Edukacji Finansowej.
+Podstawą gospodarki finansowej Biura Rzecznika jest roczny plan finansowy, którego projekt sporządza Rzecznik i przekazuje ministrowi właściwemu do spraw instytucji finansowych, w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-#### Rozdział 5 Przepisy zmieniające
+### Art. 22.
 
-#### Rozdział 6 Przepisy dostosowujące, przejściowe i przepis końcowy
+Do pracowników Biura Rzecznika stosuje się odpowiednio przepisy o służbie cywilnej.
 
-**Art. 54.** Rzecznik Ubezpieczonych z dniem wejścia w życie ustawy staje się Rzecznikiem Finansowym i rozpoczyna się jego czteroletnia kadencja.
+### Art. 23.
 
-**Art. 55.** Z dniem wejścia w życie ustawy Biuro Rzecznika Ubezpieczonych staje się Biurem Rzecznika Finansowego.
+Rzecznik nie może:
 
-**Art. 56.** Z dniem wejścia w życie ustawy plan finansowy Biura Rzecznika Ubezpieczonych staje się planem finansowym Biura Rzecznika Finansowego.
+### 1)
 
-**Art. 57.** Postępowania wszczęte i niezakończone toczące się przed Rzecznikiem Ubezpieczonych przed dniem wejścia ustawy w życie toczą się przed Rzecznikiem Finansowym.
+zajmować innego stanowiska, z wyjątkiem stanowiska naukowo-dydaktycznego lub naukowego w szkole wyższej, Polskiej Akademii Nauk, instytucie badawczym lub innej jednostce naukowej, ani wykonywać innych zajęć zawodowych;
 
-**Art. 58.** Wnioski Rzecznika Ubezpieczonych złożone do Sądu Najwyższego przed dniem wejścia ustawy w życie uważa się za złożone przez Rzecznika Finansowego.
+### 2)
 
-**Art. 59.** Z dniem wejścia w życie ustawy mienie Skarbu Państwa będące we władaniu Rzecznika Ubezpieczonych staje się mieniem Rzecznika Finansowego.
+należeć do partii politycznej;
 
-**Art. 60.** Należności i zobowiązania Rzecznika Ubezpieczonych z dniem wejścia w życie ustawy stają się należnościami i zobowiązaniami Rzecznika Finansowego.
+### 3)
 
-**Art. 61.**
+być akcjonariuszem, udziałowcem, członkiem władz ani wykonywać obowiązków członka zarządu lub rady nadzorczej podmiotów rynku finansowego ani wykonywać czynności związanych z działalnością w zakresie świadczenia usług przez te podmioty;
 
-1. Pracownicy Biura Rzecznika Ubezpieczonych z dniem wejścia w życie ustawy stają się pracownikami Biura Rzecznika Finansowego.
+### 4)
 
-2. Przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878) stosuje się odpowiednio.
+wykonywać innych czynności, które pozostają w sprzeczności z jego obowiązkami albo mogą wywołać podejrzenie o jego stronniczość lub interesowność;
 
-**Art. 62.**
+### 5)
 
-1. Rzecznik Ubezpieczonych, z dniem następującym po dniu ogłoszenia ustawy, pełni jednocześnie funkcję Pełnomocnika Prezesa Rady Ministrów do spraw przekształcenia Biura Rzecznika Ubezpieczonych w Biuro Rzecznika Finansowego.
+prowadzić działalności publicznej niedającej się pogodzić z obowiązkami i godnością jego urzędu.
 
-2. Zarządzenie Prezesa Rady Ministrów określi zakres zadań i środki niezbędne Pełnomocnikowi do ich realizacji.
+### Art. 24.
 
-**Art. 63.** (pominięty)
+### 1.
 
-**Art. 64.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+Podjęcie czynności przez Rzecznika następuje z urzędu lub na wniosek:
 
+### 1)
+
+klienta podmiotu rynku finansowego w sytuacji nieuwzględnienia jego roszczeń przez podmiot rynku finansowego w trybie rozpatrywania reklamacji, o którym mowa w rozdziale 2;
+
+### 2)
+
+właściwego organu nadzoru, kontroli lub innego organu władzy publicznej.
+
+### 2.
+
+Rzecznik, po zapoznaniu się ze skierowanym do niego wnioskiem, może:
+
+### 1)
+
+podjąć czynność;
+
+### 2)
+
+wskazać wnioskodawcy przysługujące mu prawa i środki działania;
+
+### 3)
+
+przekazać sprawę według właściwości;
+
+### 4)
+
+skierować sprawę do pozasądowego postępowania w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego, o którym mowa w art. 35;
+
+### 5)
+
+nie podjąć czynności, o czym zawiadamia, uzasadniając swoje stanowisko, wnioskodawcę oraz osobę, której sprawa dotyczy.
+
+### 3.
+
+Rzecznik, podejmując czynność, bada, czy wskutek działania lub zaniechania podmiotu rynku finansowego nie nastąpiło naruszenie praw lub interesów klienta.
+
+### Art. 25.
+
+### 1.
+
+Rzecznik lub upoważniony przez niego pracownik Biura Rzecznika może:
+
+### 1)
+
+występować do podmiotów rynku finansowego oraz innych podmiotów, których działalność wiąże się z rozpatrywaną sprawą, o udzielenie informacji lub wyjaśnień, udostępnienie akt oraz dokumentów, w szczególności:
+
+### a)
+
+w sprawach indywidualnych,
+
+### b)
+
+w sprawach postanowień wzorców umów, które według Rzecznika są niekorzystne dla klientów podmiotów rynku finansowego,
+
+### c)
+
+w sprawach dotyczących wewnętrznych regulacji tych podmiotów rynku finansowego, które według Rzecznika są niekorzystne dla klientów,
+
+### d)
+
+na temat nieprawidłowej obsługi klientów, świadczonej przez podmioty rynku finansowego;
+
+### 2)
+
+zwracać się do ministra właściwego do spraw instytucji finansowych w sprawach dotyczących funkcjonowania podmiotów rynku finansowego i postulować ewentualną zmianę przepisów regulujących ich funkcjonowanie;
+
+### 3)
+
+przeprowadzać lub zlecać badania dotyczące sytuacji na rynku finansowym, w szczególności ochrony interesów klientów podmiotów tego rynku.
+
+### 2.
+
+Wystąpienie o udzielenie informacji lub wyjaśnień w sprawach indywidualnych może nastąpić wyłącznie za zgodą klienta, którego sprawa dotyczy.
+
+### Art. 26.
+
+Rzecznik może wytoczyć powództwo na rzecz klientów podmiotów rynku finansowego w sprawach dotyczących nieuczciwych praktyk rynkowych dotyczących działalności tych podmiotów, jak również za zgodą powoda wziąć udział w toczącym się już postępowaniu. W takim przypadku stosuje się odpowiednio przepisy o prokuratorze.
+
+### Art. 27.
+
+Po zbadaniu sprawy Rzecznik może:
+
+### 1)
+
+poinformować wnioskodawcę, że nie stwierdził naruszenia jego praw lub interesów;
+
+### 2)
+
+zwrócić się do podmiotu rynku finansowego, w którego działalności stwierdził naruszenie praw lub interesów klientów, o ponowne rozpatrzenie sprawy;
+
+### 3)
+
+zwrócić się o zbadanie sprawy do właściwego organu, w szczególności do Komisji Nadzoru Finansowego, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, prokuratury albo organów kontroli państwowej, zawodowej lub społecznej.
+
+### Art. 28.
+
+Do Rzecznika stosuje się odpowiednio przepis art. 63 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2014 r. poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2014/101/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199 i 1311.](#gloss-0:7:)).
+
+### Art. 29.
+
+Rzecznik w zakresie swojej właściwości może wytaczać powództwo w sprawach, o których mowa w art. 47936 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.
+
+### Art. 30.
+
+Podmiot rynku finansowego przekazuje, na wniosek Rzecznika, wzorzec umowy o świadczenie usług, którym posługuje się w swojej działalności, oraz inne dokumenty i formularze stosowane przy zawieraniu i wykonywaniu tych umów, w terminie 14 dni od dnia otrzymania wniosku.
+
+### Art. 31.
+
+Podmiot rynku finansowego, który otrzymał wniosek Rzecznika w sprawach objętych zakresem jego działalności, jest obowiązany niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania wniosku, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku oraz przekazać żądane dokumenty.
+
+### Art. 32.
+
+### 1.
+
+Na podmiot rynku finansowego, który narusza obowiązki nałożone w art. 4 ust. 1, art. 6-10, art. 30 i art. 31, Rzecznik może, w drodze decyzji, nałożyć karę pieniężną do wysokości 100 000 zł.
+
+### 2.
+
+Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, uwzględnia się stopień naruszenia przepisów, okoliczności tego naruszenia oraz możliwości finansowe podmiotu, który dokonał naruszenia.
+
+### 3.
+
+Wpływy z kar, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+
+### Art. 33.
+
+Podmiot rynku finansowego corocznie, w terminie 45 dni od zakończenia roku kalendarzowego, przekazuje Rzecznikowi sprawozdanie dotyczące rozpatrywania reklamacji oraz liczby wystąpień klientów tych podmiotów na drogę postępowania sądowego w wyniku nierozpatrzenia reklamacji zgodnie z wolą tych klientów, z uwzględnieniem:
+
+### 1)
+
+liczby reklamacji;
+
+### 2)
+
+uznanych i nieuwzględnionych roszczeń, wynikających z wniesionych reklamacji;
+
+### 3)
+
+informacji o wartości roszczeń zgłoszonych w pozwach i kwot zasądzonych prawomocnymi orzeczeniami sądów na rzecz klientów w okresie sprawozdawczym.
+
+### Art. 34.
+
+Rzecznik składa corocznie, w terminie 90 dni od zakończenia roku kalendarzowego, Prezesowi Rady Ministrów sprawozdanie ze swojej działalności oraz uwagi o stanie przestrzegania prawa i interesów klientów podmiotów rynku finansowego. Sprawozdanie jest jawne.
+
+### Rozdział 4 Pozasądowe postępowanie w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego
+
+### Art. 35.
+
+Spór między klientem a podmiotem rynku finansowego może być zakończony w drodze pozasądowego postępowania w sprawie rozwiązywania sporów między klientem a podmiotem rynku finansowego, zwanym dalej „postępowaniem”.
+
+### Art. 36.
+
+### 1.
+
+Rzecznik przeprowadza postępowanie na wniosek klienta podmiotu rynku finansowego.
+
+### 2.
+
+Rzecznik może odmówić wszczęcia postępowania, jeśli:
+
+### 1)
+
+klient nie wyczerpał drogi postępowania reklamacyjnego, o którym mowa w rozdziale 2;
+
+### 2)
+
+wniosek służy spowodowaniu uciążliwości dla drugiej strony;
+
+### 3)
+
+spór jest lub był rozpatrywany przez sąd, inny organ powołany do rozpoznania spraw danego rodzaju lub podmiot uprawniony do przeprowadzenia pozasądowego rozwiązywania sporów;
+
+### 4)
+
+rozpatrzenie sporu spowodowałoby poważne zakłócenie skutecznego przeprowadzenia postępowania przy Rzeczniku;
+
+### 5)
+
+klient nie uiścił opłaty, o której mowa w art. 38 ust. 1, i nie został od niej zwolniony.
+
+### Art. 37.
+
+Udział podmiotu rynku finansowego w postępowaniu jest obowiązkowy.
+
+### Art. 38.
+
+### 1.
+
+W przypadku złożenia wniosku, o którym mowa w art. 36 ust. 1, klient uiszcza opłatę w wysokości 50 zł na rachunek Rzecznika.
+
+### 2.
+
+W szczególnie uzasadnionych przypadkach Rzecznik może zwolnić klienta z obowiązku uiszczania opłaty, o której mowa w ust. 1.
+
+### Art. 39.
+
+W toku postępowania Rzecznik zapoznaje podmiot rynku finansowego z roszczeniem klienta, przedstawia stronom postępowania przepisy prawa mające zastosowanie w sprawie oraz propozycję zakończenia sporu.
+
+### Art. 40.
+
+W przypadku braku polubownego zakończenia postępowania, Rzecznik sporządza opinię, w której należy zawrzeć w szczególności ocenę prawną stanu faktycznego w przedmiotowym postępowaniu.
+
+### Art. 41.
+
+### 1.
+
+Z przebiegu postępowania sporządza się w terminie 14 dni od dnia jego zakończenia protokół, w którym należy zawrzeć informacje dotyczące miejsca i czasu jego przeprowadzenia, imię, nazwisko (nazwę) i adresy stron, przedmiot sporu, propozycje zakończenia sporu oraz informację o sposobie zakończenia sporu. Odpis protokołu doręcza się stronom w ciągu 7 dni od dnia jego sporządzenia.
+
+### 2.
+
+Protokół, o którym mowa w ust. 1, stanowi dokument urzędowy w rozumieniu art. 244 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.
+
+### 3.
+
+Do protokołu, o którym mowa w ust. 1, załącza się opinię, o której mowa w art. 40, w przypadku jej sporządzenia.
+
+### Art. 42.
+
+Rzecznik podaje do publicznej wiadomości corocznie do dnia 31 marca dane statystyczne dotyczące przeprowadzonych postępowań zakończonych w roku poprzednim.
+
+### Art. 43.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy tryb postępowania w sprawach toczących się w drodze postępowania, biorąc pod uwagę konieczność zapewnienia sprawności, rzetelności, przejrzystości i obiektywności w rozpatrywaniu spraw.
+
+### Rozdział 5 Przepisy zmieniające
+
+### Art. 44.
+
+W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ([Dz. U. z 2011 r. Nr 79, poz. 430](https://api.sejm.gov.pl/eli/acts/DU/2011/430/text.html) i [Nr 112, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+Marszałka Sejmu, Marszałka Senatu, Prezesa Rady Ministrów, wicemarszałka Sejmu, wicemarszałka Senatu, wiceprezesa Rady Ministrów, Prezesa Najwyższej Izby Kontroli, ministra, Prezesa Narodowego Banku Polskiego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Rzecznika Finansowego, Generalnego Inspektora Ochrony Danych Osobowych, Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Przewodniczącego Krajowej Rady Radiofonii i Telewizji, Prezesa Prokuratorii Generalnej Skarbu Państwa, wiceprezesa Najwyższej Izby Kontroli, Szefa Kancelarii Sejmu, Szefa Kancelarii Senatu, zastępcy Szefa Kancelarii Sejmu, zastępcy Szefa Kancelarii Senatu, Szefa Kancelarii Prezesa Rady Ministrów, Szefa Służby Cywilnej, Głównego Inspektora Pracy, zastępcy Głównego Inspektora Pracy, Kierownika Krajowego Biura Wyborczego;
+
+” ;
+
+### 2)
+
+art. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+Prezesa Polskiej Akademii Nauk, sekretarza stanu, członka Krajowej Rady Radiofonii i Telewizji, pierwszego zastępcy Prezesa Narodowego Banku Polskiego, podsekretarza stanu (wiceministra), wiceprezesa Narodowego Banku Polskiego, Zastępcy Rzecznika Praw Obywatelskich, Zastępcy Rzecznika Praw Dziecka, Zastępcy Generalnego Inspektora Ochrony Danych Osobowych, Zastępcy Rzecznika Finansowego, kierownika urzędu centralnego, wiceprezesa Polskiej Akademii Nauk, wojewody, zastępcy kierownika urzędu centralnego, wicewojewody.
+
+” .
+
+### Art. 45.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2014 r. poz. 851](https://api.sejm.gov.pl/eli/acts/DU/2014/851/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259 i 1296.](#gloss-0:8:)) w art. 17 pkt 22 otrzymuje brzmienie:
+
+„
+
+### 22)
+
+dochody z działalności Ubezpieczeniowego Funduszu Gwarancyjnego, Rzecznika Finansowego oraz Polskiego Biura Ubezpieczeń Komunikacyjnych;
+
+” .
+
+### Art. 46.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2015 r. poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2015/128/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260 i 1311.](#gloss-0:9:)) w art. 105 w ust. 1 w pkt 2 w lit. v średnik zastępuje się przecinkiem i dodaje się lit. w w brzmieniu:
+
+„
+
+### w)
+
+Rzecznika Finansowego, o którym mowa w art. 11 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym ([Dz. U. poz. 1348](https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text.html)) w zakresie niezbędnym do realizacji przez niego ustawowych zadań;
+
+” .
+
+### Art. 47.
+
+W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym ([Dz. U. z 2013 r. poz. 499](https://api.sejm.gov.pl/eli/acts/DU/2013/499/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081 oraz z 2015 r. poz. 1066, 1167 i 1240.](#gloss-0:10:)) w art. 60 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Rzecznik Praw Obywatelskich i Prokurator Generalny oraz, w zakresie swojej właściwości, Rzecznik Praw Dziecka, Przewodniczący Komisji Nadzoru Finansowego i Rzecznik Finansowy.
+
+” .
+
+### Art. 48.
+
+W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej ([Dz. U. z 2015 r. poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2015/1206/text.html) i [1273](https://api.sejm.gov.pl/eli/acts/DU/2015/1273/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 19 w ust. 2:
+
+### a)
+
+pkt 14 otrzymuje brzmienie:
+
+„
+
+### 14)
+
+Rzecznika Finansowego, w zakresie wykonywania ustawowych zadań, w związku z podjętą interwencją;
+
+” ;
+
+### 2)
+
+w art. 25 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Sądy, prokuratura, Policja oraz inne organy i instytucje, na wniosek Ubezpieczeniowego Funduszu Gwarancyjnego, Polskiego Biura Ubezpieczycieli Komunikacyjnych lub Rzecznika Finansowego, w zakresie zadań przez nie wykonywanych i w celu ich wykonania, udzielają informacji w zakresie stanu sprawy oraz udostępniają zebrane materiały.
+
+” .
+
+### Art. 49.
+
+W ustawie z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych ([Dz. U. z 2013 r. poz. 290](https://api.sejm.gov.pl/eli/acts/DU/2013/290/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 oraz z 2015 r. poz. 1240 i 1260.](#gloss-0:11:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „Ustawa o nadzorze ubezpieczeniowym i emerytalnym”;
+
+### 2)
+
+art. 1 otrzymuje brzmienie:
+
+„
+
+### Art. 1.
+
+Ustawa określa organizację nadzoru ubezpieczeniowego i emerytalnego.
+
+” ;
+
+### 3)
+
+uchyla się art. 5, art. 6 i rozdział 3.
+
+### Art. 50.
+
+W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ([Dz. U. z 2014 r. poz. 1025](https://api.sejm.gov.pl/eli/acts/DU/2014/1025/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045 i 1137.](#gloss-0:12:)) w art. 96 w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta i Rzecznik Finansowy;
+
+” .
+
+### Art. 51.
+
+W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2014 r. poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2014/94/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223 i 1260.](#gloss-0:13:)) w art. 149 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu:
+
+„
+
+### 11)
+
+Rzecznika Finansowego, o którym mowa w art. 11 ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym ([Dz. U. poz. 1348](https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text.html)), w zakresie niezbędnym do realizacji przez niego ustawowych zadań.
+
+” .
+
+### Art. 52.
+
+W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym ([Dz. U. z 2015 r. poz. 614](https://api.sejm.gov.pl/eli/acts/DU/2015/614/text.html) i [1260](https://api.sejm.gov.pl/eli/acts/DU/2015/1260/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2:
+
+### a)
+
+w pkt 2 skreśla się wyrazy „oraz Rzeczniku Ubezpieczonych”,
+
+### b)
+
+w pkt 3 skreśla się wyrazy „oraz Rzeczniku Ubezpieczonych”;
+
+### 2)
+
+w art. 2 skreśla się wyrazy „oraz Rzeczniku Ubezpieczonych”.
+
+### Art. 53.
+
+W ustawie z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym ([Dz. U. Nr 171, poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2007/1206/text.html) oraz z [2014 r. poz. 827](https://api.sejm.gov.pl/eli/acts/DU/2014/827/text.html)) w art. 12 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+Rzecznik Finansowy;
+
+” .
+
+### Rozdział 6 Przepisy dostosowujące, przejściowe i przepis końcowy
+
+### Art. 54.
+
+Rzecznik Ubezpieczonych z dniem wejścia w życie ustawy staje się Rzecznikiem Finansowym i rozpoczyna się jego czteroletnia kadencja.
+
+### Art. 55.
+
+Z dniem wejścia w życie ustawy Biuro Rzecznika Ubezpieczonych staje się Biurem Rzecznika Finansowego.
+
+### Art. 56.
+
+Z dniem wejścia w życie ustawy plan finansowy Biura Rzecznika Ubezpieczonych staje się planem finansowym Biura Rzecznika Finansowego.
+
+### Art. 57.
+
+Postępowania wszczęte i niezakończone toczące się przed Rzecznikiem Ubezpieczonych przed dniem wejścia w ustawy życie toczą się przed Rzecznikiem Finansowym.
+
+### Art. 58.
+
+Wnioski Rzecznika Ubezpieczonych złożone do Sądu Najwyższego przed dniem wejścia ustawy w życie uważa się za złożone przez Rzecznika Finansowego.
+
+### Art. 59.
+
+Z dniem wejścia w życie ustawy mienie Skarbu Państwa będące we władaniu Rzecznika Ubezpieczonych staje się mieniem Rzecznika Finansowego.
+
+### Art. 60.
+
+Należności i zobowiązania Rzecznika Ubezpieczonych z dniem wejścia w życie ustawy stają się należnościami i zobowiązaniami Rzecznika Finansowego.
+
+### Art. 61.
+
+### 1.
+
+Pracownicy Biura Rzecznika Ubezpieczonych z dniem wejścia w życie ustawy stają się pracownikami Biura Rzecznika Finansowego.
+
+### 2.
+
+Przepis art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2014 r. poz. 1502](https://api.sejm.gov.pl/eli/acts/DU/2014/1502/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240 i 1268.](#gloss-0:14:)) stosuje się odpowiednio.
+
+### Art. 62.
+
+### 1.
+
+Rzecznik Ubezpieczonych, z dniem następującym po dniu ogłoszenia ustawy, pełni jednocześnie funkcję Pełnomocnika Prezesa Rady Ministrów do spraw przekształcenia Biura Rzecznika Ubezpieczonych w Biuro Rzecznika Finansowego.
+
+### 2.
+
+Zarządzenie Prezesa Rady Ministrów określi zakres zadań i środki niezbędne Pełnomocnikowi do ich realizacji.
+
+### Art. 63.
+
+Przepisy wykonawcze wydane na podstawie art. 22 ust. 3 ustawy z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych ([Dz. U. z 2013 r. poz. 290](https://api.sejm.gov.pl/eli/acts/DU/2013/290/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 oraz z 2015 r. poz. 1240 i 1260.](#gloss-0:15:)) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 5 niniejszej ustawy, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 64.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 62, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+rozdziału 4, który wchodzi w życie z dniem 1 stycznia 2016 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 22 maja 2003 r. o nadzorze ubezpieczeniowym i emerytalnym oraz Rzeczniku Ubezpieczonych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym oraz ustawę z dnia 23 sierpnia 2007 r. o przeciwdziałaniu nieuczciwym praktykom rynkowym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1289 i 1717 oraz z 2015 r. poz. 238, 1132 i 1259. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260 i 1311. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 73, 978 i 1260. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 978, 1259 i 1311. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223 i 1260. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4, 218, 539, 978, 1062, 1137, 1199 i 1311. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662 oraz z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259 i 1296. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 559, 978, 1166, 1223, 1260 i 1311. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 504, 1031 i 1081 oraz z 2015 r. poz. 1066, 1167 i 1240. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 oraz z 2015 r. poz. 1240 i 1260. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238, 539, 957, 978, 1045 i 1137. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 586 oraz z 2015 r. poz. 73, 978, 1045, 1223 i 1260. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240 i 1268. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 oraz z 2015 r. poz. 1240 i 1260.

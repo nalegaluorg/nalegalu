@@ -8,11 +8,9 @@ pos: 1176
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy – Prawo bankowe
-
-*USTAWA dnia 16 lipca 2009 r.*
+# Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz ustawy - Prawo bankowe [1) Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/14/WE z dnia 11 marca 2009 r. zmieniającej dyrektywę 94/19/WE w sprawie systemów gwarancji depozytów w odniesieniu do poziomu gwarancji oraz terminu wypłaty (Dz. Urz. UE L 68 z 13.03.2009, str. 3).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +22,348 @@ domain: null
 | Data ogłoszenia | 2009-07-16 |
 | Data wydania | 2009-09-04 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091441176) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1176/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/1176/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/1176) |
 
-**Art. 1.** W ustawie dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. 2009 r. Nr 84, poz. 711) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. 2002 r. Nr 72, poz. 665, późn. zm. ) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html)) wprowadza się następujące zmiany:
 
-1. Podmioty objęte systemem gwarantowania obowiązane są poinformować formie pisemnej osoby korzystające ich usług o informacjach, o których mowa art. 38b ust. 1 i 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2009 r.
+### 1)
 
-2. Oddziały banków zagranicznych, niebędące podmiotami objętymi obowiązkowym systemem gwarantowania rozumieniu art. 2 pkt 3 ustawy zmienianej art. 1, obowiązane są poinformować formie pisemnej osoby korzystające ich usług o informacjach, o których mowa art. 40a ust. 1a i 1b ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2009 r.
+w art. 22:
 
-3. Instytucje kredytowe prowadzące działalność na terytorium Rzeczypospolitej Polskiej obowiązane są poinformować formie pisemnej osoby korzystające ich usług o informacjach, o których mowa art. 48o ust. 1 i 2 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2009 r.
+### a)
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+ust. 3 otrzymuje brzmienie:
 
+„
+
+### 3.
+
+Świadczenie pieniężne, o którym mowa w ust. 2, jest wypłacane w złotych, według terminarza wypłat ustalonego w trybie przewidzianym w art. 28 ust. 3, w terminie 30 dni od otrzymania przez syndyka lub zarządcę masy upadłości banku kwoty przekazanej przez Fundusz na wypłaty środków gwarantowanych, nie później jednak niż w terminie trzech miesięcy od dnia niedostępności środków, z zastrzeżeniem ust. 4 i 5.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W przypadku wystąpienia okoliczności uniemożliwiających wypłatę środków gwarantowanych w terminie określonym w ust. 3, w szczególności ze względu na nieprawidłowości w prowadzeniu ksiąg banku lub znaczną liczbę prowadzonych przez bank rachunków, sąd prowadzący postępowanie upadłościowe może, na wniosek Zarządu Funduszu, przedłużyć termin wypłat, nie dłużej jednak niż o 10 dni roboczych.
+
+” ,
+
+### c)
+
+uchyla się ust. 6,
+
+### d)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Wniosek, o którym mowa w ust. 5, sąd rozpatruje nie później niż w terminie 7 dni od dnia wniesienia.
+
+” ;
+
+### 2)
+
+w art. 23 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Rada Ministrów, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego oraz Przewodniczącego Komisji Nadzoru Finansowego, może, w drodze rozporządzenia, czasowo określić wyższą niż określona w ustawie górną granicę środków gwarantowanych, mając na uwadze konieczność zapewnienia bezpieczeństwa i stabilności systemu bankowego oraz ochronę interesu deponentów.
+
+” ;
+
+### 3)
+
+art. 38b otrzymuje brzmienie:
+
+„
+
+### Art. 38b.
+
+### 1.
+
+Podmioty objęte systemem gwarantowania informują osoby korzystające oraz zainteresowane korzystaniem z ich usług o:
+
+### 1)
+
+swojej sytuacji ekonomiczno-finansowej;
+
+### 2)
+
+uczestnictwie w ustawowym systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
+
+### a)
+
+kwotę określającą maksymalną wysokość gwarancji,
+
+### b)
+
+rodzaje podmiotów, które zgodnie z ustawą mogą być uznane za deponenta uprawnionego do otrzymania świadczenia pieniężnego.
+
+### 2.
+
+Podmioty objęte systemem gwarantowania obowiązane są poinformować osoby korzystające oraz zainteresowane korzystaniem z ich usług o braku ochrony gwarancyjnej w przypadku, gdy:
+
+### 1)
+
+wierzytelność, powstająca w związku z wykonywaniem czynności bankowych, nie będzie chroniona przez ustawowy system gwarantowania, w szczególności jeżeli osoby korzystające oraz zainteresowane korzystaniem z ich usług nie mogą być uznane za deponenta w rozumieniu niniejszej ustawy;
+
+### 2)
+
+w związku z wykonywaniem innej czynności niż czynność bankowa, podmiot objęty ustawowym systemem gwarantowania wystawia dokument imienny potwierdzający jego zobowiązanie pieniężne;
+
+### 3)
+
+w związku z usługami świadczonymi przez podmiot objęty systemem gwarantowania, w szczególności polegającymi na pośredniczeniu w zawieraniu umów, powstają lub mogą powstać jakiekolwiek wierzytelności osoby korzystającej oraz zainteresowanej korzystaniem z ich usług wobec innego podmiotu, który nie jest objęty systemem gwarantowania.
+
+### 3.
+
+Informacje, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 1 i 2, powinny być również zawarte w umowach między osobami korzystającymi oraz zainteresowanymi korzystaniem z usług a podmiotem objętym systemem gwarantowania.
+
+### 4.
+
+Informacje dotyczące trybu i warunków otrzymania świadczenia pieniężnego na podstawie ustawy powinny zostać udostępnione na wniosek osoby korzystającej oraz zainteresowanej korzystaniem z usług.
+
+### 5.
+
+Wszelkie informacje udostępniane osobom korzystającym oraz zainteresowanym korzystaniem z usług stosownie do przepisów ust. 1-3, powinny być podawane w sposób:
+
+### 1)
+
+w jaki podawane są informacje o świadczonych usługach;
+
+### 2)
+
+jednoznaczny i zrozumiały.
+
+### 6.
+
+Informacje o uczestnictwie w obowiązkowym systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2.
+
+### 7.
+
+Zakaz określony w ust. 6 stosuje się również do podmiotów niebędących uczestnikami systemu gwarantowania.
+
+” ;
+
+### 4)
+
+po art. 38b dodaje się art. 38c w brzmieniu:
+
+„
+
+### Art. 38c.
+
+### 1.
+
+Fundusz, na zasadzie wzajemności, współpracuje z podmiotami odpowiedzialnymi za oficjalnie uznane systemy gwarantowania w państwach, w których:
+
+### 1)
+
+banki krajowe prowadzą działalność poprzez oddział, w przypadku gdy oddział ten utworzony został na terytorium innego państwa należącego do Europejskiego Obszaru Gospodarczego;
+
+### 2)
+
+mają siedziby instytucje kredytowe prowadzące działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział.
+
+### 2.
+
+Fundusz może zawierać porozumienia, określające w szczególności zasady współpracy, o której mowa w ust. 1, zakres wymiany informacji oraz zasady ochrony tych informacji.
+
+### 3.
+
+Fundusz jest uprawniony do przekazywania podmiotom, o których mowa w ust. 1, również informacji prawem chronionych, pod warunkiem że podczas przekazywania zapewnione zostaną odpowiednie środki niezbędne do ich ochrony przed nieuprawnionym ujawnieniem lub utratą oraz że przekazywanie następuje w celu ustalenia lub weryfikacji należnych, potencjalnych lub spornych świadczeń na rzecz deponentów albo w związku z realizacją obowiązku wypłaty świadczeń gwarancyjnych.
+
+### 4.
+
+Informacje otrzymane przez Fundusz w ramach współpracy od podmiotów, o których mowa w ust. 1, nie mogą być udostępniane innym osobom, z wyjątkiem syndyka lub zarządcy masy upadłości podmiotu objętego systemem gwarantowania. Ograniczenie to nie dotyczy przypadków, w których informacje nie są objęte ochroną prawną na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa, w którym funkcjonuje system gwarantowania przekazujący informacje.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045 i Nr 131, poz. 1075.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 40a:
+
+### a)
+
+ust. 1a i 1b otrzymują brzmienie:
+
+„
+
+### 1a.
+
+Oddział banku zagranicznego, niebędący podmiotem objętym obowiązkowym systemem gwarantowania w rozumieniu art. 2 pkt 3 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html) i [Nr 144, poz. 1176](https://api.sejm.gov.pl/eli/acts/DU/2009/1176/text.html)), informuje - w sposób, w jaki są podawane informacje o świadczonych usługach - osoby korzystające oraz zainteresowane korzystaniem z jego usług o:
+
+### 1)
+
+swojej sytuacji ekonomiczno-finansowej;
+
+### 2)
+
+uczestnictwie w systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
+
+### a)
+
+kwotę określającą maksymalną wysokość gwarancji,
+
+### b)
+
+rodzaje podmiotów, które mogą być uznane za uprawnione do otrzymania świadczenia pieniężnego.
+
+### 1b.
+
+Oddział banku zagranicznego, o którym mowa w ust. 1a, obowiązany jest poinformować osoby korzystające oraz zainteresowane korzystaniem z jego usług o braku ochrony gwarancyjnej w przypadku, gdy: 1) wierzytelność, powstająca w związku z wykonywaniem czynności bankowych, nie będzie chroniona przez system gwarantowania;
+
+### 2)
+
+w związku z wykonywaniem innej czynności niż czynność bankowa, oddział banku zagranicznego wystawia dokument imienny potwierdzający jego zobowiązanie pieniężne;
+
+### 3)
+
+w związku z usługami świadczonymi przez oddział banku zagranicznego, w szczególności polegającymi na pośredniczeniu w zawieraniu umów, powstają lub mogą powstać jakiekolwiek wierzytelności osoby korzystającej oraz zainteresowanej korzystaniem z jego usług wobec innego podmiotu, który nie jest objęty systemem gwarantowania.
+
+” ,
+
+### b)
+
+po ust. 1b dodaje się ust. 1c-1g w brzmieniu:
+
+„
+
+### 1c.
+
+Informacje, o których mowa w ust. 1a pkt 2 i ust. 1b pkt 1 i 2, powinny być zawarte również w umowach między osobami korzystającymi oraz zainteresowanymi korzystaniem z usług a oddziałem banku zagranicznego.
+
+### 1d.
+
+Informacje dotyczące trybu i warunków otrzymania świadczenia pieniężnego powinny zostać udostępnione na wniosek osoby korzystającej oraz zainteresowanej korzystaniem z usług oddziału banku zagranicznego.
+
+### 1e.
+
+Wszelkie informacje udostępniane osobom korzystającym oraz zainteresowanym korzystaniem z usług oddziału banku zagranicznego, stosownie do przepisów ust. 1a-1c, powinny być podawane w sposób:
+
+### 1)
+
+w jaki podawane są informacje o świadczonych usługach;
+
+### 2)
+
+jednoznaczny i zrozumiały.
+
+### 1f.
+
+Informacje o uczestnictwie w systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1a i 1b.
+
+### 1g.
+
+Zakaz określony w ust. 1f stosuje się również do podmiotów niebędących uczestnikami systemu gwarantowania.
+
+” ;
+
+### 2)
+
+art. 48o otrzymuje brzmienie:
+
+„
+
+### Art. 48o.
+
+### 1.
+
+Instytucja kredytowa prowadząca działalność na terytorium Rzeczypospolitej Polskiej informuje - w sposób, w jaki są podawane informacje o świadczonych usługach - osoby korzystające oraz zainteresowane korzystaniem z jej usług o:
+
+### 1)
+
+swojej sytuacji ekonomiczno-finansowej;
+
+### 2)
+
+uczestnictwie w systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności: a) kwotę określającą maksymalną wysokość gwarancji,
+
+### b)
+
+rodzaje podmiotów, które mogą być uznane za uprawnione do otrzymania świadczenia pieniężnego.
+
+### 2.
+
+Instytucja kredytowa prowadząca działalność na terytorium Rzeczypospolitej Polskiej obowiązana jest poinformować osobę korzystającą oraz zainteresowaną korzystaniem z jej usług o braku ochrony gwarancyjnej w przypadku, gdy:
+
+### 1)
+
+wierzytelność, powstająca w związku z wykonywaniem czynności bankowych, nie będzie chroniona przez system gwarantowania;
+
+### 2)
+
+w związku z wykonywaniem innej czynności, niż czynność bankowa, instytucja kredytowa wystawia dokument imienny potwierdzający jej zobowiązanie pieniężne;
+
+### 3)
+
+w związku z usługami świadczonymi przez instytucję kredytową, w szczególności polegającymi na pośredniczeniu w zawieraniu umów, powstają lub mogą powstać jakiekolwiek wierzytelności osób korzystających oraz zainteresowanych korzystaniem z jej usług wobec innego podmiotu, który nie jest objęty systemem gwarantowania.
+
+### 3.
+
+Informacje, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 1 i 2, powinny być zawarte również w umowach między osobami korzystającymi oraz zainteresowanymi korzystaniem z ich usług a instytucją kredytową.
+
+### 4.
+
+Informacje dotyczące trybu i warunków otrzymania świadczenia pieniężnego powinny zostać udostępnione na wniosek osoby korzystającej oraz zainteresowanej korzystaniem z usług instytucji kredytowej.
+
+### 5.
+
+Wszelkie informacje udostępniane osobom korzystającym oraz zainteresowanym korzystaniem z usług instytucji kredytowej, stosownie do przepisów ust. 1-3, powinny być podawane w sposób:
+
+### 1)
+
+w jaki podawane są informacje o świadczonych usługach;
+
+### 2)
+
+jednoznaczny i zrozumiały.
+
+### 6.
+
+Informacje o uczestnictwie w systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2.
+
+### 7.
+
+Zakaz określony w ust. 6 stosuje się również do podmiotów niebędących uczestnikami systemu gwarantowania.
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Podmioty objęte systemem gwarantowania obowiązane są poinformować w formie pisemnej osoby korzystające z ich usług o informacjach, o których mowa w art. 38b ust. 1 i 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 grudnia 2009 r.
+
+### 2.
+
+Oddziały banków zagranicznych, niebędące podmiotami objętymi obowiązkowym systemem gwarantowania w rozumieniu art. 2 pkt 3 ustawy zmienianej w art. 1, obowiązane są poinformować w formie pisemnej osoby korzystające z ich usług o informacjach, o których mowa w art. 40a ust. la i Ib ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 grudnia 2009 r.
+
+### 3.
+
+Instytucje kredytowe prowadzące działalność na terytorium Rzeczypospolitej Polskiej obowiązane są poinformować w formie pisemnej osoby korzystające z ich usług o informacjach, o których mowa w art. 48o ust. 1 i 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 grudnia 2009 r.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/14/WE z dnia 11 marca 2009 r. zmieniającej dyrektywę 94/19/WE w sprawie systemów gwarancji depozytów w odniesieniu do poziomu gwarancji oraz terminu wypłaty (Dz. Urz. UE L 68 z 13.03.2009, str. 3). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045 i Nr 131, poz. 1075.

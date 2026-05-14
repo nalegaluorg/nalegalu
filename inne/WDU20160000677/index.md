@@ -8,9 +8,9 @@ pos: 677
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz niektórych innych ustaw
+# Ustawa z dnia 18 marca 2016 r. o zmianie ustawy o Rzeczniku Praw Obywatelskich oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli, ustawę z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawę z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,289 +22,844 @@ domain: null
 | Data ogłoszenia | 2016-03-18 |
 | Data wydania | 2016-05-17 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000677) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/677/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/677/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/677) |
 
-**Art. 1.** W ustawie dnia 15 lipca 1987 r. Rzeczniku Praw Obywatelskich (Dz. U. 2014 r. poz. 1648 oraz 2015 r. poz. 1064) po art. 7 dodaje się art. 7a–7h w brzmieniu: „Art. 7a. Rzecznik nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, wyjątkiem ujęcia go gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne dla zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+## Treść ustawy
 
-**Art. 7b.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania immunitetu.
+### Art. 1.
 
-**Art. 7c.**
+W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich ([Dz. U. z 2014 r. poz. 1648](https://api.sejm.gov.pl/eli/acts/DU/2014/1648/text.html) oraz [z 2015 r. poz. 1064](https://api.sejm.gov.pl/eli/acts/DU/2015/1064/text.html)) po art. 7 dodaje się art. 7a-7h w brzmieniu:
 
-1. Wniosek wyrażenie zgody pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+„
 
-2. Wniosek wyrażenie zgody pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+### Art. 7a.
 
-3. Wniosek, którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+Rzecznik nie może być bez uprzedniej zgody Sejmu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne dla zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
-4. Wnioski, których mowa w ust. 1 i 2, powinny zawierać:
+### Art. 7b.
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie.
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
-**Art. 7d.**
+### Art. 7c.
 
-1. Wniosek wyrażenie zgody pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+### 1.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, których mowa w art. 7c ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia pozostawieniu wniosku bez biegu.
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
 
-3. Jeżeli wniosek spełnia wymogi formalne, których mowa w art. 7c ust. 3 i 4, Marszałek kieruje go do organu właściwego podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika treści wniosku.
+### 2.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania.
+### 3.
 
-6. Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej. nia wolności osobistej Rzecznika przez organy stosujące przymus.
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
 
-2. Wniosek wyrażenie zgody zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego.
+### 4.
 
-3. Wniosek, którym mowa w ust. 2, powinien zawierać:
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności konieczność zastosowania określonego środka.
+### 1)
 
-4. Do postępowania wnioskiem wyrażenie zgody zatrzymanie lub aresztowanie Rzecznika przepisy art. 7d ust. 1–8 stosuje się odpowiednio.
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
 
-5. Sejm wyraża zgodę zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody zatrzymanie lub aresztowanie Rzecznika.
+### 2)
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
 
-**Art. 7f.**
+### 3)
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, której mowa w art. 7d ust. 9 i art. 7e ust. 5.
+wskazanie podstawy prawnej wniosku;
 
-2. Uchwały, których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 4)
 
-**Art. 7g.** Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
 
-**Art. 7h.** Szczegółowy tryb postępowania w sprawach, których mowa w art. 7a–7g, określa regulamin Sejmu.”.
+### 5)
 
-**Art. 2.** W ustawie dnia 23 grudnia 1994 r. Najwyższej Izbie Kontroli (Dz. U. 2015 r. poz. 1096) po art. 18 dodaje się art. 18a–18g w brzmieniu: „Art. 18a. Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania immunitetu.
+uzasadnienie.
 
-**Art. 18b.**
+### Art. 7d.
 
-1. Wniosek wyrażenie zgody pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+### 1.
 
-2. Wniosek wyrażenie zgody pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-3. Wniosek, którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+### 2.
 
-4. Wnioski, których mowa w ust. 1 i 2, powinny zawierać:
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7c ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Najwyższej Izby Kontroli;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody; do organu właściwego podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Najwyższej Izby Kontroli treści wniosku.
+### 3.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Najwyższej Izby Kontroli terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7c ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Prezesa Najwyższej Izby Kontroli, udostępnia akta postępowania.
+### 4.
 
-6. Prezes Najwyższej Izby Kontroli przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
-7. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz propozycją przyjęcia lub odrzucenia wniosku.
+### 5.
 
-8. W trakcie rozpatrywania przez Sejm sprawozdania, którym mowa w ust. 7, Prezesowi Najwyższej Izby Kontroli przysługuje prawo do zabrania głosu.
+Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania.
 
-9. Sejm wyraża zgodę pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej.
+### 6.
 
-**Art. 18d.**
+Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
 
-1. Zakaz zatrzymania, którym mowa w art. 18, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Najwyższej Izby Kontroli przez organy stosujące przymus.
+### 7.
 
-2. Wniosek wyrażenie zgody zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli składa się za pośrednictwem Prokuratora Generalnego.
+Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
 
-3. Wniosek, którym mowa w ust. 2, powinien zawierać:
+### 8.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Najwyższej Izby Kontroli;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności konieczność zastosowania określonego środka.
+W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu.
 
-4. Do postępowania wnioskiem wyrażenie zgody zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli przepisy art. 18c ust. 1–8 stosuje się odpowiednio.
+### 9.
 
-5. Sejm wyraża zgodę zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli.
+Sejm wyraża zgodę na pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Rzecznika do odpowiedzialności karnej.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+### Art. 7e.
 
-**Art. 18e.**
+### 1.
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, której mowa w art. 18c ust. 9 i art. 18d ust. 5.
+Zakaz zatrzymania, o którym mowa w art. 7a, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus.
 
-2. Uchwały, których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 2.
 
-**Art. 18f.** Przepisy ustawy dotyczące odpowiedzialności karnej Prezesa Najwyższej Izby Kontroli stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego.
 
-**Art. 18g.** Szczegółowy tryb postępowania w sprawach, których mowa w art. 18a–18f, określa regulamin Sejmu.”. Marszałkowi lub Marszałkowi Senatu.”,
+### 3.
 
-**Art. 4.** W ustawie dnia 29 sierpnia 1997 r. ochronie danych osobowych (Dz. U. 2015 r. poz. 2135 i 2281 oraz 2016 r. poz. 195) po art. 11 dodaje się art. 11a–11g w brzmieniu: „Art. 11a. Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania immunitetu.
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
 
-**Art. 11b.**
+### 1)
 
-1. Wniosek wyrażenie zgody pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+oznaczenie wnioskodawcy;
 
-2. Wniosek wyrażenie zgody pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+### 2)
 
-3. Wniosek, którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
 
-4. Wnioski, których mowa w ust. 1 i 2, powinny zawierać:
+### 3)
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Generalnego Inspektora;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie.
+dokładne określenie czynu oraz jego kwalifikację prawną;
 
-**Art. 11c.**
+### 4)
 
-1. Wniosek wyrażenie zgody pociągnięcie Generalnego Inspektora do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+podstawę prawną zastosowania określonego środka;
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, których mowa w art. 11b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia pozostawieniu wniosku bez biegu.
+### 5)
 
-3. Jeżeli wniosek spełnia wymogi formalne, których mowa w art. 11b ust. 3 i 4, Marszałek kieruje go do organu właściwego podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Generalnego Inspektora treści wniosku.
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Generalnego Inspektora terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+### 4.
 
-9. Sejm wyraża zgodę pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody pociągnięcie Generalnego Inspektora do odpowiedzialności karnej.
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika przepisy art. 7d ust. 1-8 stosuje się odpowiednio.
 
-**Art. 11d.**
+### 5.
 
-1. Zakaz zatrzymania, którym mowa w art. 11, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Generalnego Inspektora przez organy stosujące przymus.
+Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika.
 
-2. Wniosek wyrażenie zgody zatrzymanie lub aresztowanie Generalnego Inspektora składa się za pośrednictwem Prokuratora Generalnego.
+### 6.
 
-3. Wniosek, którym mowa w ust. 2, powinien zawierać:
+Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Generalnego Inspektora;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności konieczność zastosowania określonego środka.
+### Art. 7f.
 
-4. Do postępowania wnioskiem wyrażenie zgody zatrzymanie lub aresztowanie Generalnego Inspektora przepisy art. 11c ust. 1–8 stosuje się odpowiednio.
+### 1.
 
-5. Sejm wyraża zgodę zatrzymanie lub aresztowanie Generalnego Inspektora w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody zatrzymanie lub aresztowanie Generalnego Inspektora.
+Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7d ust. 9 i art. 7e ust. 5.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+### 2.
 
-**Art. 11e.**
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, której mowa w art. 11c ust. 9 i art. 11d ust. 5.
+### Art. 7g.
 
-2. Uchwały, których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia.
 
-**Art. 11f.** Przepisy ustawy dotyczące odpowiedzialności karnej Generalnego Inspektora stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+### Art. 7h.
 
-**Art. 11g.** Szczegółowy tryb postępowania w sprawach, których mowa w art. 11a–11f, określa regulamin Sejmu.”.
+Szczegółowy tryb postępowania w sprawach, o których mowa w art. 7a-7g, określa regulamin Sejmu.
 
-**Art. 5.** W ustawie dnia 18 grudnia 1998 r. Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. 2016 r. poz. 152 i 178) po art. 14 dodaje się art. 14a–14g w brzmieniu: „Art. 14a. Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania immunitetu.
+” .
 
-**Art. 14b.**
+### Art. 2.
 
-1. Wniosek wyrażenie zgody pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ([Dz. U. z 2015 r. poz. 1096](https://api.sejm.gov.pl/eli/acts/DU/2015/1096/text.html)) po art. 18 dodaje się art. 18a-18g w brzmieniu:
 
-2. Wniosek wyrażenie zgody pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie przestępstwo ścigane oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+„
 
-3. Wniosek, którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+### Art. 18a.
 
-4. Wnioski, których mowa w ust. 1 i 2, powinny zawierać:
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci; prawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia pozostawieniu wniosku bez biegu.
+### Art. 18b.
 
-3. Jeżeli wniosek spełnia wymogi formalne, których mowa w art. 14b ust. 3 i 4, Marszałek kieruje go do organu właściwego podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Instytutu Pamięci treści wniosku.
+### 1.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Instytutu Pamięci terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Prezesa Instytutu Pamięci, udostępnia akta postępowania.
+### 2.
 
-6. Prezes Instytutu Pamięci przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
 
-7. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz propozycją przyjęcia lub odrzucenia wniosku.
+### 3.
 
-8. W trakcie rozpatrywania przez Sejm sprawozdania, którym mowa w ust. 7, Prezesowi Instytutu Pamięci przysługuje prawo do zabrania głosu.
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
 
-9. Sejm wyraża zgodę pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej.
+### 4.
 
-**Art. 14d.**
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
 
-1. Zakaz zatrzymania, którym mowa w art. 14, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Instytutu Pamięci przez organy stosujące przymus.
+### 1)
 
-2. Wniosek wyrażenie zgody zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci składa się za pośrednictwem Prokuratora Generalnego.
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
 
-3. Wniosek, którym mowa w ust. 2, powinien zawierać:
+### 2)
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności konieczność zastosowania określonego środka.
+imię i nazwisko oraz datę i miejsce urodzenia Prezesa Najwyższej Izby Kontroli;
 
-4. Do postępowania wnioskiem wyrażenie zgody zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci przepisy art. 14c ust. 1–8 stosuje się odpowiednio.
+### 3)
 
-5. Sejm wyraża zgodę zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci.
+wskazanie podstawy prawnej wniosku;
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+### 4)
 
-**Art. 14e.**
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, której mowa w art. 14c ust. 9 i art. 14d ust. 5.
+### 5)
 
-2. Uchwały, których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+uzasadnienie.
 
-**Art. 14f.** Przepisy ustawy dotyczące odpowiedzialności karnej Prezesa Instytutu Pamięci stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+### Art. 18c.
 
-**Art. 14g.** Szczegółowy tryb postępowania w sprawach, których mowa w art. 14a–14f, określa regulamin Sejmu.”. 3. Wniosek, którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych. 4. Wnioski, których mowa w ust. 1 i 2, powinny zawierać:
+### 1.
 
-**Art. 7c.**
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej składa się Marszałkowi Sejmu.
 
-1. Wniosek wyrażenie zgody pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+### 2.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, których mowa w art. 7b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia pozostawieniu wniosku bez biegu.
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 18b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
 
-3. Jeżeli wniosek spełnia wymogi formalne, których mowa w art. 7b ust. 3 i 4, Marszałek kieruje go do organu właściwego podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika treści wniosku.
+### 3.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 18b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Najwyższej Izby Kontroli o treści wniosku.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania.
+### 4.
 
-6. Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Najwyższej Izby Kontroli o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
 
-7. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz propozycją przyjęcia lub odrzucenia wniosku.
+### 5.
 
-8. W trakcie rozpatrywania przez Sejm sprawozdania, którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu.
+Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Prezesa Najwyższej Izby Kontroli, udostępnia akta postępowania.
 
-9. Sejm wyraża zgodę pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały niewyrażeniu zgody pociągnięcie Rzecznika do odpowiedzialności karnej.
+### 6.
 
-**Art. 7d.**
+Prezes Najwyższej Izby Kontroli przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
 
-1. Zakaz zatrzymania, którym mowa w art. 7 ust. 2c, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus.
+### 7.
 
-2. Wniosek wyrażenie zgody zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego.
+Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
 
-3. Wniosek, którym mowa w ust. 2, powinien zawierać:
+### 8.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności konieczność zastosowania określonego środka. i art. 7d ust. 5.
+W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Prezesowi Najwyższej Izby Kontroli przysługuje prawo do zabrania głosu.
 
-2. Uchwały, których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 9.
 
-**Art. 7f.** Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+Sejm wyraża zgodę na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Prezesa Najwyższej Izby Kontroli do odpowiedzialności karnej.
 
-**Art. 7g.** Szczegółowy tryb postępowania w sprawach, których mowa w art. 7a–7f, określa regulamin Sejmu.”.
+### Art. 18d.
 
-**Art. 7.** Wnioski wyrażenie zgody pociągnięcie do odpowiedzialności karnej podmiotów, których mowa w art. 1, art. 2 i art. 4–6, złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy, należy złożyć ponownie podstawie przepisów ustaw, których mowa w art. 1, art. 2 i art. 4–6, w brzmieniu nadanym niniejszą ustawą.
+### 1.
 
-**Art. 8.** Wnioski wyrażenie zgody pociągnięcie posła lub senatora do odpowiedzialności karnej złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy rozpatrywane są podstawie przepisów dotychczasowych.
+Zakaz zatrzymania, o którym mowa w art. 18, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Najwyższej Izby Kontroli przez organy stosujące przymus.
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 2.
 
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli składa się za pośrednictwem Prokuratora Generalnego.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Prezesa Najwyższej Izby Kontroli;
+
+### 3)
+
+dokładne określenie czynu oraz jego kwalifikację prawną;
+
+### 4)
+
+podstawę prawną zastosowania określonego środka;
+
+### 5)
+
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+
+### 4.
+
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli przepisy art. 18c ust. 1-8 stosuje się odpowiednio.
+
+### 5.
+
+Sejm wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Najwyższej Izby Kontroli.
+
+### 6.
+
+Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+
+### Art. 18e.
+
+### 1.
+
+Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 18c ust. 9 i art. 18d ust. 5.
+
+### 2.
+
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Art. 18f.
+
+Przepisy ustawy dotyczące odpowiedzialności karnej Prezesa Najwyższej Izby Kontroli stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+
+### Art. 18g.
+
+Szczegółowy tryb postępowania w sprawach, o których mowa w art. 18a-18f, określa regulamin Sejmu.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ([Dz. U. z 2015 r. poz. 1605](https://api.sejm.gov.pl/eli/acts/DU/2015/1605/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7b w ust. 4 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
+
+” ;
+
+### 2)
+
+w art. 7c:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej składa się Marszałkowi Sejmu lub Marszałkowi Senatu.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu lub Marszałek Senatu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu lub Marszałek Senatu postanawia o pozostawieniu wniosku bez biegu.
+
+### 1b.
+
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu lub Marszałek Senatu kieruje go do organu właściwego do rozpatrzenia wniosku na podstawie regulaminów Sejmu lub Senatu, zawiadamiając jednocześnie posła lub senatora o treści wniosku.
+
+” ;
+
+### 3)
+
+w art. 10 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie posła lub senatora przepisy art. 7c ust. 1-5 stosuje się odpowiednio.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2015 r. poz. 2135](https://api.sejm.gov.pl/eli/acts/DU/2015/2135/text.html) i [2281](https://api.sejm.gov.pl/eli/acts/DU/2015/2281/text.html) oraz [z 2016 r. poz. 195](https://api.sejm.gov.pl/eli/acts/DU/2016/195/text.html)) po art. 11 dodaje się art. 11a-11g w brzmieniu:
+
+„
+
+### Art. 11a.
+
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+
+### Art. 11b.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+
+### 2.
+
+Wniosek o wyrażenie zgody na pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+
+### 4.
+
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Generalnego Inspektora;
+
+### 3)
+
+wskazanie podstawy prawnej wniosku;
+
+### 4)
+
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
+
+### 5)
+
+uzasadnienie.
+
+### Art. 11c.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Generalnego Inspektora do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+
+### 2.
+
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 11b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+
+### 3.
+
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 11b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Generalnego Inspektora o treści wniosku.
+
+### 4.
+
+Organ właściwy do rozpatrzenia wniosku powiadamia Generalnego Inspektora o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+
+### 5.
+
+Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Generalnego Inspektora, udostępnia akta postępowania.
+
+### 6.
+
+Generalny Inspektor przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+
+### 7.
+
+Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+
+### 8.
+
+W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Generalnemu Inspektorowi przysługuje prawo do zabrania głosu.
+
+### 9.
+
+Sejm wyraża zgodę na pociągnięcie Generalnego Inspektora do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Generalnego Inspektora do odpowiedzialności karnej.
+
+### Art. 11d.
+
+### 1.
+
+Zakaz zatrzymania, o którym mowa w art. 11, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Generalnego Inspektora przez organy stosujące przymus.
+
+### 2.
+
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Generalnego Inspektora składa się za pośrednictwem Prokuratora Generalnego.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Generalnego Inspektora;
+
+### 3)
+
+dokładne określenie czynu oraz jego kwalifikację prawną;
+
+### 4)
+
+podstawę prawną zastosowania określonego środka;
+
+### 5)
+
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+
+### 4.
+
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Generalnego Inspektora przepisy art. 11c ust. 1-8 stosuje się odpowiednio.
+
+### 5.
+
+Sejm wyraża zgodę na zatrzymanie lub aresztowanie Generalnego Inspektora w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Generalnego Inspektora.
+
+### 6.
+
+Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+
+### Art. 11e.
+
+### 1.
+
+Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 11c ust. 9 i art. 11d ust. 5.
+
+### 2.
+
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Art. 11f.
+
+Przepisy ustawy dotyczące odpowiedzialności karnej Generalnego Inspektora stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+
+### Art. 11g.
+
+Szczegółowy tryb postępowania w sprawach, o których mowa w art. 11a-11f, określa regulamin Sejmu.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu ([Dz. U. z 2016 r. poz. 152](https://api.sejm.gov.pl/eli/acts/DU/2016/152/text.html) i [178](https://api.sejm.gov.pl/eli/acts/DU/2016/178/text.html)) po art. 14 dodaje się art. 14a-14g w brzmieniu:
+
+„
+
+### Art. 14a.
+
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+
+### Art. 14b.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+
+### 2.
+
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+
+### 4.
+
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci;
+
+### 3)
+
+wskazanie podstawy prawnej wniosku;
+
+### 4)
+
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
+
+### 5)
+
+uzasadnienie.
+
+### Art. 14c.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+
+### 2.
+
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 14b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+
+### 3.
+
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 14b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Instytutu Pamięci o treści wniosku.
+
+### 4.
+
+Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Instytutu Pamięci o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+
+### 5.
+
+Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Prezesa Instytutu Pamięci, udostępnia akta postępowania.
+
+### 6.
+
+Prezes Instytutu Pamięci przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+
+### 7.
+
+Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+
+### 8.
+
+W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Prezesowi Instytutu Pamięci przysługuje prawo do zabrania głosu.
+
+### 9.
+
+Sejm wyraża zgodę na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej.
+
+### Art. 14d.
+
+### 1.
+
+Zakaz zatrzymania, o którym mowa w art. 14, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Instytutu Pamięci przez organy stosujące przymus.
+
+### 2.
+
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci składa się za pośrednictwem Prokuratora Generalnego.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci;
+
+### 3)
+
+dokładne określenie czynu oraz jego kwalifikację prawną;
+
+### 4)
+
+podstawę prawną zastosowania określonego środka;
+
+### 5)
+
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+
+### 4.
+
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci przepisy art. 14c ust. 1-8 stosuje się odpowiednio.
+
+### 5.
+
+Sejm wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci.
+
+### 6.
+
+Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+
+### Art. 14e.
+
+### 1.
+
+Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 14c ust. 9 i art. 14d ust. 5.
+
+### 2.
+
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Art. 14f.
+
+Przepisy ustawy dotyczące odpowiedzialności karnej Prezesa Instytutu Pamięci stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+
+### Art. 14g.
+
+Szczegółowy tryb postępowania w sprawach, o których mowa w art. 14a-14f, określa regulamin Sejmu.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka ([Dz. U. z 2015 r. poz. 2086](https://api.sejm.gov.pl/eli/acts/DU/2015/2086/text.html)) po art. 7 dodaje się art. 7a-7g w brzmieniu:
+
+„
+
+### Art. 7a.
+
+Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+
+### Art. 7b.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+
+### 2.
+
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+
+### 4.
+
+Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
+
+### 3)
+
+wskazanie podstawy prawnej wniosku;
+
+### 4)
+
+dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
+
+### 5)
+
+uzasadnienie.
+
+### Art. 7c.
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+
+### 2.
+
+Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7b ust. 3 lub 4, Marszałek Sejmu wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek Sejmu postanawia o pozostawieniu wniosku bez biegu.
+
+### 3.
+
+Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7b ust. 3 i 4, Marszałek Sejmu kieruje go do organu właściwego na podstawie regulaminu Sejmu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
+
+### 4.
+
+Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+
+### 5.
+
+Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania.
+
+### 6.
+
+Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+
+### 7.
+
+Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+
+### 8.
+
+W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu.
+
+### 9.
+
+Sejm wyraża zgodę na pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Rzecznika do odpowiedzialności karnej.
+
+### Art. 7d.
+
+### 1.
+
+Zakaz zatrzymania, o którym mowa w art. 7 ust. 2c, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus.
+
+### 2.
+
+Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
+
+### 1)
+
+oznaczenie wnioskodawcy;
+
+### 2)
+
+imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
+
+### 3)
+
+dokładne określenie czynu oraz jego kwalifikację prawną;
+
+### 4)
+
+podstawę prawną zastosowania określonego środka;
+
+### 5)
+
+uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+
+### 4.
+
+Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika przepisy art. 7c ust. 1-8 stosuje się odpowiednio.
+
+### 5.
+
+Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika.
+
+### 6.
+
+Wymóg uzyskania zgody Sejmu nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+
+### Art. 7e.
+
+### 1.
+
+Marszałek Sejmu przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7c ust. 9 i art. 7d ust. 5.
+
+### 2.
+
+Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Art. 7f.
+
+Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+
+### Art. 7g.
+
+Szczegółowy tryb postępowania w sprawach, o których mowa w art. 7a-7f, określa regulamin Sejmu.
+
+” .
+
+### Art. 7.
+
+Wnioski o wyrażenie zgody na pociągnięcie do odpowiedzialności karnej podmiotów, o których mowa w art. 1, art. 2 i art. 4-6, złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy, należy złożyć ponownie na podstawie przepisów ustaw, o których mowa w art. 1, art. 2 i art. 4-6, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 8.
+
+Wnioski o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej złożone i nierozpatrzone przed dniem wejścia w życie niniejszej ustawy rozpatrywane są na podstawie przepisów dotychczasowych.
+
+### Art. 9.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli, ustawę z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawę z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka.

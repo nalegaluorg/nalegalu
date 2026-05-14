@@ -8,11 +8,9 @@ pos: 265
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów w Oświęcimiu
-
-*USTAWA z dnia 2 lipca 1947 r.*
+# Ustawa z dnia 2 lipca 1947 r. o upamiętnieniu męczeństwa Narodu Polskiego i innych Narodów w Oświęcimiu
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +22,48 @@ domain: null
 | Data ogłoszenia | 1947-07-02 |
 | Data wydania | 1947-08-08 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19470520265) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1947/265/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1947/265/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1947/265) |
 
-**Art. 1.** Tereny byłego hitlerowskiego obozu koncentracyjnego w Oświęcimiu wraz z wszelkimi znajdującymi się tam zabudowaniami i urządzeniami zachowuje się po wsze czasy jako Pomnik Męczeństwa Narodu Polskiego i innych Narodów.
+## Treść ustawy
 
-**Art. 2.** Pomnik Męczeństwa w Oświęcimiu obejmuje część terenów dawnego obozu koncentracyjnego w granicach, które szczegółowo określi rozporządzenie Ministra Kultury i Sztuki, wydane w porozumieniu z Ministrami: Administracji Publicznej, Rolnictwa i Reform Rolnych oraz Odbudowy po zasięgnięciu opinii Rady Ochrony Pomników Męczeństwa.
+### Art. 1.
 
-**Art. 3.** Na terenach tych tworzy się Państwowe Muzeum Auschwitz-Birkenau w Oświęcimiu.
+Tereny byłego hitlerowskiego obozu koncentracyjnego w Oświęcimiu wraz z wszelkimi znajdującymi się tam zabudowaniami i urządzeniami zachowuje się po wsze czasy jako Pomnik Męczeństwa Narodu Polskiego i innych Narodów.
 
-**Art. 4.**
+### Art. 2.
 
-1. Państwowe Muzeum Auschwitz-Birkenau w Oświęcimiu ma za zadanie zbieranie i gromadzenie dowodów i materiałów, dotyczących zbrodni hitlerowskich, udostępnianie ich społeczeństwu oraz naukowe ich opracowanie.
+Pomnik Męczeństwa w Oświęcimiu obejmuje część terenów dawnego obozu koncentracyjnego w granicach, które szczegółowo określi rozporządzenie Ministra Kultury i Sztuki, wydane w porozumieniu z Ministrami: Administracji Publicznej, Rolnictwa i Reform Rolnych oraz Odbudowy po zasięgnięciu opinii Rady Ochrony Pomników Męczeństwa.
 
-2. Zakres działania i organizację muzeum określi statut, nadany przez Ministra Kultury i Sztuki.
+### Art. 3.
 
-**Art. 5.** Organem opiniodawczym i doradczym w zakresie działalności Państwowego Muzeum Auschwitz-Birkenau w Oświęcimiu jest Rada Ochrony Pomników Męczeństwa.
+Na terenach tych tworzy się Państwowe Muzeum Oświęcim-Brzezinka.
 
-**Art. 6.** Tereny, wymienione w art. 2, podlegają wywłaszczeniu na rzecz Skarbu Państwa i natychmiastowemu zajęciu przez Ministra Kultury i Sztuki za odszkodowaniem. Upoważnia się Ministra Kultury i Sztuki do przekazania w całości lub w części wywłaszczonych terenów w zarząd Polskiemu Związkowi byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych oraz do ustalenia zasad administracji gospodarczej.
+### Art. 4.
 
-**Art. 8.** Wykonanie niniejszej ustawy porucza się Ministrowi Kultury i Sztuki w porozumieniu z Ministrami: Administracji Publicznej, Rolnictwa i Reform Rolnych, Odbudowy i Skarbu.
+### 1.
 
-**Art. 9.** Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.
+Państwowe Muzeum Oświęcim-Brzezinka ma za zadanie zbieranie i gromadzenie dowodów i materiałów, dotyczących zbrodni hitlerowskich, udostępnianie ich społeczeństwu oraz naukowe ich opracowanie.
 
+### 2.
+
+Zakres działania i organizację Muzeum określi statut, nadany przez Ministra Kultury i Sztuki.
+
+### Art. 5.
+
+Organem opiniodawczym i doradczym w zakresie działalności Muzeum w Oświęcimiu-Brzezince jest Rada Ochrony Pomników Męczeństwa.
+
+### Art. 6.
+
+Tereny, wymienione w art. 2, podlegają wywłaszczeniu na rzecz Skarbu Państwa i natychmiastowemu zajęciu przez Ministra Kultury i Sztuki za odszkodowaniem.
+
+### Art. 7.
+
+Upoważnia się Ministra Kultury i Sztuki do przekazania w całości lub w części wywłaszczonych terenów w zarząd Polskiemu Związkowi byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych oraz do ustalenia zasad administracji gospodarczej.
+
+### Art. 8.
+
+Wykonanie niniejszej ustawy porucza się Ministrowi Kultury i Sztuki w porozumieniu z Ministrami: Administracji Publicznej, Rolnictwa i Reform Rolnych, Odbudowy i Skarbu.
+
+### Art. 9.
+
+Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.

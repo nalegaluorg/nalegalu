@@ -8,11 +8,9 @@ pos: 914
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy – Prawo o ustroju sądów administracyjnych
-
-*USTAWA z dnia 26 kwietnia 2019 r.*
+# Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy - Prawo o ustroju sądów administracyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,60 @@ domain: null
 | Data ogłoszenia | 2019-04-26 |
 | Data wydania | 2019-05-15 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000914) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/914/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/914/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/914) |
 
-**Art. 1.** W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2019 r. poz. 84, 609 i 730) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych (Dz. U. z 2018 r. poz. 2107 oraz z 2019 r. poz. 125) w art. 49 zdanie pierwsze otrzymuje brzmienie: „W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, z wyjątkiem przepisu art. 44 ust. 1 zdanie drugie ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2019 r. poz. 84, 609, 730 i 914).”.
+### Art. 1.
 
-**Art. 3.** Postępowania w sprawach odwołań od uchwał Krajowej Rady Sądownictwa w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu z mocy prawa.
+W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa ([Dz. U. z 2019 r. poz. 84](https://api.sejm.gov.pl/eli/acts/DU/2019/84/text.html), [609](https://api.sejm.gov.pl/eli/acts/DU/2019/609/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 1)
 
+w art. 43 w ust. 2 skreśla się wyrazy „z zastrzeżeniem art. 44 ust. 1b”;
+
+### 2)
+
+w art. 44:
+
+### a)
+
+w ust. 1 zdanie drugie otrzymuje brzmienie: „ Odwołanie nie przysługuje w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego. ” ,
+
+### b)
+
+uchyla się ust. 1b,
+
+### c)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od dnia doręczenia uchwały z uzasadnieniem.
+
+### 3.
+
+Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2018 r. poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2018/1360/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.](#gloss-0:1:)) o skardze kasacyjnej. Przepisu art. 871 tej ustawy nie stosuje się.
+
+” ,
+
+### d)
+
+uchyla się ust. 4.
+
+### Art. 2.
+
+W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych ([Dz. U. z 2018 r. poz. 2107](https://api.sejm.gov.pl/eli/acts/DU/2018/2107/text.html) oraz [z 2019 r. poz. 125](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.html)) w art. 49 zdanie pierwsze otrzymuje brzmienie: „ W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, z wyjątkiem przepisu art. 44 ust. 1 zdanie drugie ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa ([Dz. U. z 2019 r. poz. 84](https://api.sejm.gov.pl/eli/acts/DU/2019/84/text.html), [609](https://api.sejm.gov.pl/eli/acts/DU/2019/609/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [914](https://api.sejm.gov.pl/eli/acts/DU/2019/914/text.html)). ” .
+
+### Art. 3.
+
+Postępowania w sprawach odwołań od uchwał Krajowej Rady Sądownictwa w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu z mocy prawa.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60.

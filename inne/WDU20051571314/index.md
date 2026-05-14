@@ -8,11 +8,9 @@ pos: 1314
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
 # Ustawa z dnia 1 lipca 2005 r. o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych ustaw
-
-*USTAWA dnia 1 lipca 2005 o zmianie ustawy o minimalnym wynagrodzeniu za pracę oraz o zmianie innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,168 @@ domain: null
 | Data ogłoszenia | 2005-07-01 |
 | Data wydania | 2005-08-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051571314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1314/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/1314/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/1314) |
 
-**Art. 1.** W ustawie dnia 10 października 2002 o minimalnym wynagrodzeniu za pracę (Dz.U. Nr 200, poz. 1679 oraz 2004 Nr 240, poz. 2407) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 28 marca 2003 o transporcie kolejowym (Dz.U. Nr 86, poz. 789, późn. zm. ) art. 22 3 otrzymuje brzmienie: „3. Wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, o których mowa 2 pkt 1, nie może przekraczać kwoty 84,90 zł, która jest waloryzowana każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym ustawie budżetowej.”.
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz.U. Nr 210, poz. 2135 oraz 2005 Nr 94, poz. 788, Nr 132, poz. 1110 i Nr 138, poz. 1154) art. 36:
+W ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. Nr 200, poz. 1679](https://api.sejm.gov.pl/eli/acts/DU/2002/1679/text.html) oraz z [2004 r. Nr 240, poz. 2407](https://api.sejm.gov.pl/eli/acts/DU/2004/2407/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 21 kwietnia 2005 o opłatach abonamentowych (Dz.U. 2005 Nr 85, poz. 728) art. 3:
+### 1)
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 1 pkt 4 i art. 4, które wchodzą życie dniem 1 stycznia 2006
+w art. 1 po pkt 3 dodaje się pkt 3a w brzmieniu:
 
+„
+
+### 3a)
+
+„przeciętne wynagrodzenie” - przeciętne miesięczne wynagrodzenie brutto w gospodarce narodowej, ogłoszone przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+
+” ;
+
+### 2)
+
+w art. 2 w ust. 2:
+
+### a)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+wysokość przeciętnego wynagrodzenia w pierwszym kwartale roku, w którym odbywają się negocjacje;
+
+” ,
+
+### b)
+
+w pkt 8 kropkę zastępuje się średnikiem i dodaje pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+wskaźnik prognozowanego realnego przyrostu produktu krajowego brutto.
+
+” ;
+
+### 3)
+
+w art. 5:
+
+### a)
+
+w ust. 1 po wyrazie „cen” dodaje się wyrazy „, z zastrzeżeniem ust. 4”,
+
+### b)
+
+po ust. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Jeżeli w roku, w którym odbywają się negocjacje, wysokość minimalnego wynagrodzenia będzie niższa od potowy wysokości przeciętnego wynagrodzenia, o którym mowa w art. 2 ust. 2 pkt 3a, stopień wzrostu, o którym mowa w ust. 1, zwiększa się dodatkowo o 2/3 wskaźnika prognozowanego realnego przyrostu produktu krajowego brutto.
+
+” ;
+
+### 4)
+
+w art. 6 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Wysokość wynagrodzenia pracownika w okresie jego pierwszego roku pracy, z zastrzeżeniem ust. 3, nie może być niższa niż 80% wysokości minimalnego wynagrodzenia za pracę.
+
+### 3.
+
+Do okresu, o którym mowa w ust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, z wyłączeniem okresów zatrudnienia na podstawie umowy o pracę w celu przygotowania zawodowego.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. Nr 86, poz. 789](https://api.sejm.gov.pl/eli/acts/DU/2003/789/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808.](#gloss-0:2:)) w art. 22 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Wysokość opłat związanych ze stwierdzeniem kwalifikacji pracowników, o których mowa w ust. 2 pkt 1, nie może przekraczać kwoty 84,90 zł, która jest waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. Nr 210, poz. 2135](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.html) oraz z [2005 r. Nr 94, poz. 788](https://api.sejm.gov.pl/eli/acts/DU/2005/788/text.html), [Nr 132, poz. 1110](https://api.sejm.gov.pl/eli/acts/DU/2005/1110/text.html) i [Nr 138, poz. 1154](https://api.sejm.gov.pl/eli/acts/DU/2005/1154/text.html)) w art. 36:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Opłata ryczałtowa nie może przekraczać 4,25 zł w przypadku leku podstawowego oraz kwoty 12,74 zł w przypadku leku recepturowego.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Kwoty, o których mowa w ust. 3, są waloryzowane w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych ([Dz. U. Nr 85, poz. 728](https://api.sejm.gov.pl/eli/acts/DU/2005/728/text.html)) w art. 3:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wysokość miesięcznej opłaty abonamentowej w danym roku kalendarzowym wynosi:
+
+### 1)
+
+za używanie odbiornika radiofonicznego - 5,94 zł;
+
+### 2)
+
+za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego - 18,68 zł.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Kwoty, o których mowa w ust. 1, są waloryzowane w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej.
+
+” .
+
+### Art. 5.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4 i art. 4, które wchodzą w życie z dniem 1 stycznia 2006 r.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966 oraz z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808.

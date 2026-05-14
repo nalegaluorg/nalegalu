@@ -8,11 +8,9 @@ pos: 214
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o pracownikach urzędów państwowych
-
-*USTAWA z dnia 16 września 1982 r.*
+# Ustawa z dnia 16 września 1982 r. o pracownikach urzędów państwowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,562 +22,938 @@ domain: null
 | Data ogłoszenia | 1982-09-16 |
 | Data wydania | 1982-10-08 |
 | Ostatnia zmiana | 2026-04-21 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820310214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1982/214/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1982/214) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Nawiązanie, zmiana i rozwiązanie stosunku pracy](#chpt_2) [Rozdział 3 - Obowiązki i prawa urzędnika państwowego](#chpt_3) [Rozdział 4 - Nagrody, wyróżnienia, odznaczenia](#chpt_4) [Rozdział 5 - Odpowiedzialność porządkowa i dyscyplinarna urzędnika państwowego](#chpt_5) [Rozdział 6 - Rozpatrywanie sporów o roszczenia urzędników ze stosunku pracy](#chpt_6) [Rozdział 7 - Przedstawicielstwo pracownicze](#chpt_7) [Rozdział 8 - Przepisy szczególne](#chpt_8) [Rozdział 9 - Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe](#chpt_9)
 
-1. Ustawa określa obowiązki i prawa urzędników państwowych oraz innych pracowników zatrudnionych w:
+TOC
 
-- **1)** Kancelarii Sejmu;
-- **2)** Kancelarii Senatu;
-- **3)** Kancelarii Prezydenta Rzeczypospolitej Polskiej;
-- **3a)** (uchylony) 3b) Sądzie Najwyższym;
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** Kancelarii Trybunału Konstytucyjnego;
-- **7)** Biurze Rzecznika Praw Obywatelskich;
-- **7a)** Biurze Rzecznika Praw Dziecka;
-- **7b)** Biurze Rzecznika Małych i Średnich Przedsiębiorców;
-- **8)** Biurze Krajowej Rady Radiofonii i Telewizji;
-- **8a)** Urzędzie Prokuratorii Generalnej Rzeczypospolitej Polskiej w sprawach nieuregulowanych w odrębnych przepisach;
-- **9)** Krajowym Biurze Wyborczym;
-- **9a)** (uchylony)
-- **10)** (uchylony)
-- **11)** (uchylony)
-- **12)** regionalnych izbach obrachunkowych;
-- **13)** Urzędzie Ochrony Danych Osobowych;
-- **14)** Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
-- **15)** Urzędzie Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
-- **16)** Biurze Rady Fiskalnej.
+## Treść ustawy
 
-2. Ustawa określa obowiązki i prawa osób zatrudnionych w:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** Kancelarii Prezesa Rady Ministrów,
-- **2)** urzędach ministrów i przewodniczących komitetów wchodzących w skład Rady Ministrów oraz urzędach centralnych organów administracji rządowej,
-- **3)** urzędach wojewódzkich oraz innych urzędach stanowiących aparat pomocniczy terenowych organów administracji rządowej podległych ministrom lub centralnym organom administracji rządowej,
-- **4)** (uchylony) 4a) Rządowym Centrum Legislacji,
-- **5)** komendach, inspektoratach i innych jednostkach organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich oraz kierowników powiatowych służb, inspekcji i straży, 5a) Centralnym Biurze Śledczym Policji, 5b) Biurze Spraw Wewnętrznych Policji, 5ba) Centralnym Biurze Zwalczania Cyberprzestępczości, 5bb) Centralnym Laboratorium Kryminalistycznym Policji, 5c) Biurze Spraw Wewnętrznych Straży Granicznej, 5d) (uchylony)
-- **6)** (uchylony)
-- **7)** (uchylony)
-- **8)** Biurze Nasiennictwa Leśnego wobec których nie mają zastosowania przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409 oraz z 2025 r. poz. 620).
+### Art. 1.
 
-**Art. 2.** Rada Ministrów, w drodze rozporządzenia:
+Ustawa określa obowiązki i prawa urzędników państwowych oraz innych pracowników zatrudnionych w:
 
-#### Rozdział 2 Nawiązanie, zmiana i rozwiązanie stosunku pracy
+### 1)
 
-**Art. 3.** Urzędnikiem państwowym może być osoba, która:
+urzędach naczelnych, centralnych i terenowych organów administracji państwowej,
 
-**Art. 3a.** Na stanowisko urzędnika państwowego zatrudnionego w urzędach wymienionych w art. 1 ust. 1 może zostać przeniesiony w drodze porozumienia pracodawców członek korpusu służby cywilnej w rozumieniu ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
+### 2)
 
-**Art. 3b.**
+Kancelarii Sejmu i Kancelarii Rady Państwa,
 
-1. Jeżeli w urzędzie wskaźnik zatrudnienia osób niepełnosprawnych, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, w miesiącu poprzedzającym miesiąc, w którym następuje zatrudnienie, jest niższy niż 6 %, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile spełnia wymagania na dane stanowisko.
+### 3)
 
-2. Szczegółowy sposób realizowania zasady, o której mowa w ust. 1, określa kierownik urzędu.
+urzędach podległych naczelnym organom władzy państwowej oraz naczelnym i centralnym organom administracji państwowej.
 
-**Art. 3c.**
+### Art. 2.
 
-1. Jako urzędnik państwowy nie może być zatrudniona osoba, która w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. pracowała lub pełniła służbę w organach bezpieczeństwa państwa lub była współpracownikiem tych organów w rozumieniu przepisów ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940).
+Rada Ministrów, w drodze rozporządzenia:
 
-2. Stosunek pracy urzędnika państwowego wygasa z dniem doręczenia kierownikowi urzędu zatrudniającemu tego urzędnika prawomocnego orzeczenia stwierdzającego fakt złożenia przez tego urzędnika niezgodnego z prawdą oświadczenia, o którym mowa w art. 7 ust. 1 i art. 11 ust. 4 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
+### 1)
 
-**Art. 4.** (uchylony)
+określa stanowiska, na których w urzędach wymienionych w art. 1 zatrudniani pracownicy są urzędnikami państwowymi w rozumieniu ustawy,
 
-**Art. 5.** (uchylony)
+### 2)
 
-**Art. 6.** (uchylony)
+może rozciągnąć w całości lub w części przepisy ustawy na pracowników innych urzędów państwowych niż określone w art. 1.
 
-**Art. 7.**
+### Rozdział 2 Nawiązanie, zmiana i rozwiązanie stosunku pracy
 
-1. Aplikacja administracyjna ma na celu teoretyczne i praktyczne przygotowanie pracownika podejmującego po raz pierwszy pracę w urzędzie państwowym do należytego wykonywania obowiązków urzędnika państwowego.
+### Art. 3.
 
-2. Aplikacja administracyjna trwa dwanaście miesięcy i kończy się oceną kwalifikacyjną. Kierownik urzędu może zaliczyć na poczet aplikacji uprzednie zatrudnienie aplikanta i skrócić mu okres aplikacji do sześciu miesięcy.
+Urzędnikiem państwowym może być osoba, która:
 
-3. Aplikant, który otrzymał pozytywną ocenę kwalifikacyjną, powinien być zatrudniony na stanowisku, do którego został przygotowany w toku aplikacji.
+### 1)
 
-4. Aplikant, który otrzymał negatywną ocenę kwalifikacyjną, może być zatrudniony na stanowisku, do którego objęcia nie jest wymagana aplikacja administracyjna.
+jest obywatelem polskim,
 
-5. Ponownej ocenie kwalifikacyjnej poddaje się aplikanta po rocznej pracy na stanowisku, o którym mowa w ust. 4.
+### 2)
 
-6. Rada Ministrów, w drodze rozporządzenia, określa zasady i tryb odbywania aplikacji, wykaz stanowisk objętych aplikacją, a także zasady i wypadki dopuszczające zaliczenie aplikacji oraz zwolnienie od jej odbywania.
+ukończyła osiemnaście lat życia i ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych,
 
-**Art. 7¹.**
+### 3)
 
-1. Kierownik urzędu może skierować urzędnika mającego wykształcenie prawnicze do odbycia aplikacji legislacyjnej. Wzajemne prawa i obowiązki urzędu i urzędnika, związane ze skierowaniem na aplikację legislacyjną, określa umowa zawarta między kierownikiem urzędu a urzędnikiem.
+ma odpowiednie wykształcenie i odbyła aplikację administracyjną,
 
-2. (uchylony)
+### 4)
 
-3. (uchylony)
+swoją postawą obywatelską daje rękojmię należy tego wykonywania zadań pracownika urzędu państwowego socjalistycznego państwa,
 
-**Art. 8.** (uchylony)
+### 5)
 
-**Art. 9.** Małżonkowie oraz osoby pozostające ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia nie mogą być zatrudnieni w tym samym urzędzie, jeżeli powstałby między tymi osobami stosunek służbowej podległości.
+posiada stan zdrowia pozwalający na zatrudnienie na określonym stanowisku.
 
-**Art. 10.**
+### Art. 4.
 
-1. Jeżeli wymagają tego potrzeby urzędu, urzędnikowi państwowemu można zlecić, na okres do trzech miesięcy w roku kalendarzowym, wykonywanie innej pracy niż określona w akcie mianowania lub w umowie o pracę, zgodnej z jego kwalifikacjami. W okresie tym przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego.
+### 1.
 
-1a. W razie reorganizacji urzędu urzędnika państwowego mianowanego można przenieść na inne stanowisko służbowe, odpowiadające kwalifikacjom pracownika, jeżeli ze względu na likwidację stanowiska zajmowanego przez urzędnika nie jest możliwe dalsze jego zatrudnienie na tym stanowisku. Po przeniesieniu przysługuje wynagrodzenie stosowne do wykonywanej pracy, lecz przez okres sześciu miesięcy nie niższe od dotychczasowego.
+Stosunek pracy z urzędnikami państwowymi zajmującymi stanowiska kierownicze lub samodzielne nawiązuje się na podstawie mianowania. Mianowania dokonuje kierownik urzędu państwowego, chyba że przepisy szczególne stanowią inaczej.
 
-1b. Jeżeli jest to konieczne ze względu na szczególne potrzeby urzędu, urzędnika państwowego mianowanego można przenieść na inne stanowisko, odpowiadające kwalifikacjom urzędnika i równorzędne pod względem wynagrodzenia.
+### 2.
 
-2. Urzędnika państwowego można, na jego wniosek lub za jego zgodą, przenieść do pracy w innym urzędzie w tej samej lub innej miejscowości. Przeniesienia dokonuje kierownik urzędu, w którym urzędnik ten ma być zatrudniony, w porozumieniu z kierownikiem urzędu dotychczas zatrudniającego urzędnika.
+Akt mianowania powinien określać w szczególności:
 
-3. W uzasadnionych wypadkach urzędnik państwowy mianowany może być przeniesiony, na okres do sześciu miesięcy, do innego urzędu w tej samej lub innej miejscowości, do pracy zgodnej z posiadanymi kwalifikacjami. W okresie przeniesienia przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego. Przeniesienie takie dopuszczalne jest tylko raz na dwa lata.
+### 1)
 
-4. Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do urzędu mającego siedzibę w innej miejscowości kobiety w ciąży lub urzędnika państwowego sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika. [5. W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy.] <5. W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych, urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje on prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).>
+stanowisko służbowe i miejsce pracy,
 
-**Art. 11.**
+### 2)
 
-1. Urzędnik państwowy zostaje z mocy prawa zawieszony w pełnieniu obowiązków służbowych w razie tymczasowego aresztowania do czasu wygaśnięcia stosunku pracy, chyba że wcześniej rozwiązano z nim stosunek pracy bez wypowiedzenia z jego winy lub upłynął już okres wypowiedzenia przed tymczasowym aresztowaniem urzędnika.
+składniki i wysokość wynagrodzenia,
 
-2. Wynagrodzenie w okresie tymczasowego aresztowania urzędnika państwowego ulega ograniczeniu do połowy. Jeżeli zapadł wyrok uniewinniający lub postępowanie karne zostało umorzone, urzędnikowi państwowemu wypłaca się pozostałą część wynagrodzenia, chyba że postępowanie karne umorzono warunkowo lub na podstawie amnestii, a zainteresowany w przepisanym trybie nie domagał się rehabilitacji.
+### 3)
 
-**Art. 12.**
+datę nawiązania stosunku pracy.
 
-1. Kierownik urzędu może zawiesić w pełnieniu obowiązków służbowych urzędnika państwowego mianowanego, jeżeli zostało wszczęte przeciwko niemu postępowanie dyscyplinarne.
+### 3.
 
-2. Zawieszenie, o którym mowa w ust. 1, nie może trwać dłużej niż trzy miesiące.
+Rada Ministrów, w drodze rozporządzenia, określa:
 
-3. W okresie zawieszenia, o którym mowa w ust. 1, urzędnik państwowy mianowany zachowuje prawo do wynagrodzenia i innych świadczeń przysługujących na podstawie stosunku pracy.
+### 1)
 
-**Art. 13.**
+stanowiska kierownicze oraz stanowiska samodzielne, na których zatrudnia się urzędników państwowych na podstawie mianowania,
 
-1. Rozwiązanie stosunku pracy z urzędnikiem państwowym mianowanym może nastąpić w drodze wypowiedzenia w razie:
+### 2)
 
-- **1)** otrzymania ujemnej oceny kwalifikacyjnej, potwierdzonej ponowną ujemną oceną, która nie może być dokonana wcześniej niż po upływie trzech miesięcy;
-- **2)** likwidacji urzędu lub jego reorganizacji, jeżeli nie jest możliwe przeniesienie urzędnika państwowego mianowanego na inne stanowisko w tym samym urzędzie;
-- **3)** niezawinionej utraty uprawnień wymaganych do wykonywania pracy na zajmowanym stanowisku; [4) trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia , jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy.] <4) trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych, wydanym na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy.>
-- **5)** (uchylony)
+inne niż wymienione w pkt 1 stanowiska i wypadki, w których zatrudnia się urzędników państwowych na podstawie mianowania.
 
-2. Okres wypowiedzenia stosunku pracy wynosi trzy miesiące i kończy się ostatniego dnia miesiąca.
+### Art. 5.
 
-3. W wypadkach określonych w ust. 1 pkt 3 urząd powinien zaproponować urzędnikowi państwowemu mianowanemu podjęcie pracy na innym stanowisku odpowiadającym posiadanym kwalifikacjom, jeżeli takim stanowiskiem dysponuje.
+Stosunek pracy z pracownikami urzędów państwowych nie będącymi urzędnikami państwowymi nawiązuje się na podstawie umowy o pracę.
 
-4. Do rozwiązania stosunku pracy w wypadkach określonych w ust. 1 pkt 1– 3 stosuje się przepis art. 38 Kodeksu pracy.
+### Art. 6.
 
-**Art. 13¹.**
+### 1.
 
-1. W razie rozwiązania stosunku pracy z urzędnikiem państwowym mianowanym, z przyczyn określonych w art. 13 ust. 1 pkt 2, w okresie między ustaniem zatrudnienia w likwidowanym lub reorganizowanym urzędzie a podjęciem pracy lub działalności gospodarczej, urzędnikowi temu przysługuje świadczenie pieniężne ze środków budżetu państwa, przez okres nie dłuższy niż sześć miesięcy, obliczane jak ekwiwalent pieniężny za urlop wypoczynkowy. Świadczenie to nie przysługuje urzędnikowi państwowemu, który nabył prawo do emerytury.
+Przed mianowaniem na stanowisko kierownicze urzędnik państwowy może być zatrudniony na tym stanowisku na podstawie umowy o pracę na czas określony, nie dłuższy niż rok.
 
-2. W razie gdy w okresie, o którym mowa w ust. 1, były urzędnik pobiera zasiłek wychowawczy, chorobowy albo macierzyński, wysokość świadczenia pieniężnego ulega odpowiedniemu obniżeniu.
+### 2.
 
-3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159) – na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych w przepisach ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620). Od świadczenia pieniężnego urząd odprowadza składkę na ubezpieczenie społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
+Przed mianowaniem na stanowisko samodzielne urzędnik państwowy może być zatrudniony na tym stanowisku na podstawie umowy o pracę na okres nie przekraczający dwóch lat.
 
-**Art. 14.**
+### 3.
 
-1. Stosunek pracy z urzędnikiem państwowym mianowanym ulega z mocy prawa rozwiązaniu z jego winy bez wypowiedzenia, w razie:
+W uzasadnionych wypadkach na stanowisku samodzielnym można zatrudnić urzędnika państwowego na podstawie umowy o pracę.
 
-- **1)** prawomocnego skazania na karę pozbawienia praw publicznych albo prawa wykonywania zawodu;
-- **2)** prawomocnego ukarania karą dyscyplinarną wydalenia z pracy w urzędzie;
-- **3)** zawinionej utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku.
+### Art. 7.
 
-2. Stosunek pracy z urzędnikiem państwowym mianowanym ulega z mocy prawa rozwiązaniu bez wypowiedzenia również w razie utraty obywatelstwa polskiego.
+### 1.
 
-3. Rozwiązanie stosunku pracy bez wypowiedzenia z urzędnikiem państwowym mianowanym może nastąpić także w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn – po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
+Aplikacja administracyjna ma na celu teoretyczne i praktyczne przygotowanie pracownika podejmującego po raz pierwszy pracę w urzędzie państwowym do należytego wykonywania obowiązków urzędnika państwowego.
 
-3a. W razie niezdolności do pracy z powodu choroby, o której mowa w ust. 3, urzędnik państwowy mianowany zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+### 2.
 
-4. Stosunek pracy z urzędnikiem państwowym mianowanym wygasa w wypadkach określonych w Kodeksie pracy oraz przepisach szczególnych.
+Aplikacja administracyjna trwa dwanaście miesięcy i kończy się oceną kwalifikacyjną. Kierownik Urzędu może zaliczyć na poczet aplikacji uprzednie zatrudnienie aplikanta i skrócić mu okres aplikacji do sześciu miesięcy.
 
-**Art. 15.** Stosunek pracy z urzędnikiem państwowym mianowanym ulega rozwiązaniu w drodze porozumienia stron lub z zachowaniem trzymiesięcznego okresu wypowiedzenia dokonanego przez tego urzędnika.
+### 3.
 
-**Art. 15¹.** W okresie wypowiedzenia urzędnik państwowy mianowany może być zwolniony z pełnienia obowiązków, z zachowaniem prawa do wynagrodzenia.
+Aplikant, który otrzymał pozytywną ocenę kwalifikacyjną, powinien być zatrudniony na stanowisku, do którego został przygotowany w toku aplikacji.
 
-**Art. 16.** Postanowienia niniejszego rozdziału nie naruszają przepisów dotyczących szczególnej ochrony pracowników w zakresie wypowiedzenia i rozwiązania stosunku pracy.
+### 4.
 
-#### Rozdział 3 Obowiązki i prawa urzędnika państwowego
+Aplikant, który otrzymał negatywną ocenę kwalifikacyjną, może być zatrudniony na stanowisku, do którego objęcia nie jest wymagana aplikacja administracyjna.
 
-**Art. 17.**
+### 5.
 
-1. Urzędnik państwowy jest obowiązany chronić interesy państwa oraz prawa i słuszne interesy obywateli.
+Ponownej ocenie kwalifikacyjnej poddaje się aplikanta po rocznej pracy na stanowisku, o którym mowa w ust. 4.
 
-2. Urzędnik państwowy obowiązany jest w szczególności:
+### 6.
 
-- **1)** przestrzegać Konstytucji Rzeczypospolitej Polskiej i innych przepisów prawa;
-- **2)** strzec autorytetu Rzeczypospolitej Polskiej oraz dążyć do pogłębiania zaufania obywateli do organów państwa;
-- **3)** racjonalnie gospodarować środkami publicznymi;
-- **4)** rzetelnie i bezstronnie, sprawnie i terminowo wykonywać powierzone zadania;
-- **5)** dochowywać tajemnicy związanej z wykonywaniem obowiązków;
-- **6)** rozwijać własną wiedzę zawodową;
-- **7)** godnie zachowywać się w pracy oraz poza nią.
+Rada Ministrów, w drodze rozporządzenia, określa zasady i tryb odbywania aplikacji, wykaz stanowisk objętych aplikacją, a także zasady i wypadki dopuszczające zaliczenie aplikacji oraz zwolnienie od jej odbywania.
 
-3. Kierownik urzędu jest obowiązany zapewnić urzędnikowi państwowemu właściwe warunki do wykonywania obowiązków określonych w ustawie.
+### Art. 8.
 
-4. Urzędnik państwowy jest obowiązany złożyć oświadczenie o swoim stanie majątkowym przy nawiązaniu stosunku pracy oraz na żądanie kierownika urzędu.
+Przed podjęciem pracy urzędnik państwowy składa pisemne ślubowanie następującej treści: „ W pełni świadom swoich obowiązków ślubuję uroczyście, że na powierzonym mi stanowisku przyczyniać się będę ze wszystkich sił do socjalistycznego rozwoju Polskiej Rzeczypospolitej Ludowej, dochowam jej zawsze wierności, będę służyć państwu i obywatelom, powierzone mi zadania wykonywać będę sumiennie i starannie, a przy ich wykonywaniu przestrzegać prawa i zasad sprawiedliwości społecznej, będę wykazywać życzliwość dla obywateli i zrozumienie dla ich interesów oraz przestrzegać tajemnicy państwowej i służbowej. ”
 
-**Art. 18.**
+### Art. 9.
 
-1. Urzędnik państwowy jest obowiązany sumiennie wypełniać polecenia służbowe przełożonych.
+Małżonkowie oraz osoby pozostające ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia nie mogą być zatrudnieni w tym samym urzędzie, jeżeli powstałby między tymi osobami stosunek służbowej podległości.
 
-2. Jeżeli polecenie służbowe w przekonaniu urzędnika państwowego jest niezgodne z prawem, godzi w interes społeczny lub zawiera znamiona pomyłki, urzędnik ten powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia powinien je wykonać, zawiadamiając jednocześnie o zastrzeżeniach kierownika urzędu, a gdy polecenie wydał kierownik urzędu – organ nadrzędny nad urzędem. Zawiadomienia należy dokonać niezwłocznie. O ile w toku dalszego postępowania okaże się, że zastrzeżenia urzędnika były uzasadnione, przełożony, który wydał polecenie, ponosi z tego tytułu odpowiedzialność.
+### Art. 10.
 
-3. Urzędnikowi państwowemu nie wolno wykonywać poleceń, których wykonanie stanowiłoby przestępstwo lub groziłoby niepowetowanymi stratami.
+### 1.
 
-**Art. 19.**
+Jeżeli wymagają tego potrzeby urzędu, urzędnikowi państwowemu można zlecić, na okres do trzech miesięcy w roku kalendarzowym, wykonywanie innej pracy niż określona w akcie mianowania lub w umowie o pracę, zgodnej z jego kwalifikacjami. W okresie tym przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego.
 
-1. Urzędnik państwowy nie może podejmować dodatkowego zatrudnienia bez uzyskania uprzedniej zgody kierownika urzędu, w którym jest zatrudniony.
+### 2.
 
-2. Urzędnik państwowy nie może wykonywać zajęć, które pozostawałyby w sprzeczności z jego obowiązkami albo mogłyby wywołać podejrzenie o stronniczość lub interesowność.
+Urzędnika państwowego można, na jego wniosek lub za jego zgodą, przenieść do pracy w innym urzędzie w tej samej lub innej miejscowości. Przeniesienia dokonuje kierownik urzędu, w którym urzędnik ten ma być zatrudniony, w porozumieniu z kierownikiem urzędu dotychczas zatrudniającego urzędnika.
 
-3. Urzędnikowi państwowemu nie wolno uczestniczyć w strajkach lub akcjach zakłócających normalne funkcjonowanie urzędu albo w działalności sprzecznej z obowiązkami urzędnika państwowego.
+### 3.
 
-**Art. 20.**
+W uzasadnionych wypadkach urzędnik państwowy mianowany może być przeniesiony, na okres do sześciu miesięcy, do innego urzędu w tej samej lub innej miejscowości, do pracy zgodnej z posiadanymi kwalifikacjami. W okresie przeniesienia przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego. Przeniesienie takie dopuszczalne jest tylko raz na dwa lata.
 
-1. Urzędnik państwowy mianowany podlega okresowym ocenom kwalifikacyjnym. Oceny dokonuje kierownik urzędu, w którym urzędnik jest zatrudniony, biorąc pod uwagę opinię bezpośredniego przełożonego i zakładowej organizacji związkowej. Dla dokonania tej czynności kierownik urzędu może powołać komisję.
+### 4.
 
-2. O treści oceny kwalifikacyjnej kierownik urzędu zawiadamia urzędnika.
+Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do urzędu mającego siedzibę w innej miejscowości kobiety w ciąży lub urzędnika państwowego sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika.
 
-3. Od oceny kwalifikacyjnej urzędnik państwowy może, w terminie siedmiu dni, odwołać się do kierownika jednostki nadrzędnej nad urzędem. Urzędnik zatrudniony w ministerstwie może odwołać się do ministra.
+### 5.
 
-4. Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady i tryb postępowania przy dokonywaniu ocen urzędników państwowych mianowanych oraz tryb postępowania odwoławczego w tych sprawach.
+W razie trwałej utraty zdolności do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia, urzędnika państwowego mianowanego można za jego zgodą przenieść na inne, także niższe stanowisko, z tym że przez okres trzech miesięcy zachowuje prawo do dotychczasowego wynagrodzenia. Jeżeli urzędnik państwowy zostaje poddany rehabilitacji zawodowej lub przysposobieniu do innej pracy, zachowuje prawo do dotychczasowego wynagrodzenia przez okres dwunastu miesięcy.
 
-**Art. 21.**
+### Art. 11.
 
-1. Urzędnikowi państwowemu przysługuje wynagrodzenie zależne od zajmowanego stanowiska, posiadanych kwalifikacji zawodowych, jakości oraz stażu pracy.
+### 1.
 
-2. Urzędnik państwowy, który wykazuje inicjatywę w pracy i sumiennie wykonuje swoje obowiązki, powinien być awansowany do wyższej grupy wynagrodzenia lub na wyższe stanowisko.
+Urzędnik państwowy zostaje z mocy prawa zawieszony w pełnieniu obowiązków służbowych w razie tymczasowego aresztowania do czasu wygaśnięcia stosunku pracy, chyba że wcześniej rozwiązano z nim stosunek pracy bez wypowiedzenia z jego winy lub upłynął już okres wypowiedzenia przed tymczasowym aresztowaniem urzędnika.
 
-3. Rada Ministrów, w drodze rozporządzenia, określa zasady wynagradzania i awansowania oraz wymagane kwalifikacje w zakresie wykształcenia i praktyki zawodowej urzędników państwowych, z zastrzeżeniem ust. 3a.
+### 2.
 
-3a. Prezes Rady Ministrów określa, w drodze rozporządzenia, zasady wynagradzania i awansowania oraz wymagania kwalifikacyjne w zakresie wykształcenia i praktyki zawodowej pracowników Kancelarii Prezesa Rady Ministrów.
+Wynagrodzenie w okresie tymczasowego aresztowania urzędnika państwowego ulega ograniczeniu do połowy. Jeżeli zapadł wyrok uniewinniający lub postępowanie karne zostało umorzone, urzędnikowi państwowemu wypłaca się pozostałą część wynagrodzenia, chyba że postępowanie karne umorzono warunkowo lub na podstawie amnestii, a zainteresowany w przepisanym trybie nie domagał się rehabilitacji.
 
-4. Zasady corocznego podwyższania przeciętnego wynagrodzenia urzędników państwowych określają przepisy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej. Do urzędników państwowych, w tym do Prezesa i wiceprezesów jednostki, o której mowa w art. 1 ust. 2 pkt 4a, przepisów ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136) nie stosuje się.
+### Art. 12.
 
-**Art. 22.**
+### 1.
 
-1. Urzędnikowi państwowemu przysługuje dodatek za wieloletnią pracę w urzędach państwowych, w wysokości wynoszącej po pięciu latach pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
+Kierownik urzędu może zawiesić w pełnieniu obowiązków służbowych urzędnika państwowego mianowanego, jeżeli zostało wszczęte przeciwko niemu postępowanie dyscyplinarne.
 
-2. Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady przyznawania i wypłacania dodatku określonego w ust. 1, a także wypadki i warunki, w jakich do okresu pracy w urzędach państwowych wlicza się okres zatrudnienia w innych zakładach pracy.
+### 2.
 
-**Art. 23.**
+Zawieszenie, o którym mowa w ust. 1, nie może trwać dłużej niż trzy miesiące.
 
-1. Urzędnikom państwowym przysługują nagrody jubileuszowe w wysokości:
+### 3.
 
-- **1)** po 20 latach pracy – 75 % wynagrodzenia miesięcznego;
-- **2)** po 25 latach pracy – 100 % wynagrodzenia miesięcznego;
-- **3)** po 30 latach pracy – 150 % wynagrodzenia miesięcznego;
-- **4)** po 35 latach pracy – 200 % wynagrodzenia miesięcznego;
-- **5)** po 40 latach pracy – 300 % wynagrodzenia miesięcznego;
-- **6)** po 45 latach pracy – 400 % wynagrodzenia miesięcznego.
+W okresie zawieszenia, o którym mowa w ust. 1, urzędnik państwowy mianowany zachowuje prawo do wynagrodzenia i innych świadczeń przysługujących na podstawie stosunku pracy.
 
-2. Rada Ministrów, w drodze rozporządzenia, określa zasady ustalania okresów pracy i innych okresów uprawniających do nagrody jubileuszowej, a także zasady jej obliczania i wypłacania.
+### Art. 13.
 
-**Art. 24.**
+### 1.
 
-1. W urzędach państwowych tworzy się zakładowy fundusz nagród wynoszący 8,5 % funduszu płac. Wysokość i zasady przyznawania indywidualnych nagród z tego funduszu określają odrębne przepisy.
+Rozwiązanie stosunku pracy z urzędnikiem państwowym mianowanym może nastąpić w drodze wypowiedzenia w razie:
 
-2. Rada Ministrów może, w drodze rozporządzenia, utworzyć dodatkowy fundusz nagród dla urzędników państwowych, z przeznaczeniem na nagrody za szczególne osiągnięcia w pracy zawodowej, w wysokości 3 % planowanych wynagrodzeń osobowych pozostających w dyspozycji kierowników urzędów.
+### 1)
 
-**Art. 24¹.** (uchylony)
+otrzymania ujemnej oceny kwalifikacyjnej, potwierdzonej ponowną ujemną oceną, która nie może być dokonana wcześniej niż po upływie trzech miesięcy,
 
-**Art. 25.** (uchylony)
+### 2)
 
-**Art. 26.**
+likwidacji urzędu lub jego reorganizacji połączonej ze zmniejszeniem stanu zatrudnienia, jeżeli przeniesienie urzędnika państwowego mianowanego, za jego zgodą, do innego urzędu nie jest możliwe; w okresie między ustaniem zatrudnienia w likwidowanym urzędzie a podjęciem nowego zatrudnienia urzędnikowi państwowemu mianowanemu przysługuje wynagrodzenie z funduszów Skarbu Państwa, przez okres nie dłuższy niż sześć miesięcy,
 
-1. Urzędnikowi państwowemu delegowanemu służbowo do zajęć poza siedzibą urzędu, w którym jest zatrudniony, przysługują zwrot kosztów podróży, zakwaterowania oraz diety na zasadach stosowanych przy podróżach służbowych na obszarze kraju.
+### 3)
 
-2. Urzędnikowi państwowemu przenoszonemu do pracy w innej miejscowości przysługują zwrot kosztów przeniesienia, diety, zwrot kosztów podróży oraz inne świadczenia.
+niezawinionej utraty uprawnień wymaganych do wykonywania pracy na zajmowanym stanowisku,
 
-2a. Rada Ministrów określi, w drodze rozporządzenia, wysokość i warunki wypłacania świadczeń urzędnikom państwowym przeniesionym do pracy w innej miejscowości, w szczególności diet za czas przejazdu i za pierwszą dobę pobytu w nowym miejscu zamieszkania, zwrotu poniesionych kosztów podróży, przewozu urządzenia domowego, zakwaterowania oraz dodatku za rozłąkę, z uwzględnieniem okresu, na jaki urzędnik został przeniesiony, jak również jego stanu rodzinnego, biorąc pod uwagę, że za członków rodziny uważa się małżonka, dzieci oraz inne osoby prowadzące z nim wspólne gospodarstwo domowe, jeżeli przesiedlają się wraz z urzędnikiem.
+### 4)
 
-3. (uchylony)
+trwałej utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia, jeżeli nie ma możliwości zatrudnienia urzędnika państwowego mianowanego na innym stanowisku, odpowiednim do jego stanu zdrowia i kwalifikacji zawodowych, albo gdy urzędnik państwowy mianowany odmawia przejścia do takiej pracy,
 
-**Art. 27.**
+### 5)
 
-1. Urzędnikowi państwowemu przysługują świadczenia emerytalne i rentowe na zasadach określonych w przepisach ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem pracowników państwowych, których uprawnienia w tym zakresie regulują odrębne przepisy.
+nabycia prawa do emerytury na podstawie przepisów dotyczących ogółu pracowników.
 
-2. W razie rozwiązania z urzędnikiem państwowym stosunku pracy z powodu likwidacji urzędu albo jego reorganizacji uniemożliwiającej dalsze zatrudnienie pracownika, urzędnikowi państwowemu przysługuje emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta – pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
+### 2.
 
-3. W razie rozwiązania z urzędnikiem państwowym mianowanym stosunku pracy z przyczyn określonych:
+Okres wypowiedzenia stosunku pracy wynosi trzy miesiące i kończy się ostatniego dnia miesiąca.
 
-- **1)** w art. 13 ust. 1 pkt 3, o ile urząd nie dysponuje stanowiskiem, o którym mowa w art. 13 ust. 3,
-- **2)** w art. 13 ust. 1 pkt 4, z wyłączeniem wypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie urzędnikowi temu przysługuje pełna emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta – pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
+### 3.
 
-4. Przepisy ust. 1–3 stosuje się do osób urodzonych przed dniem 1 stycznia 1949 r.
+W wypadkach określonych w ust. 1 pkt 3 urząd powinien zaproponować urzędnikowi państwowemu mianowanemu podjęcie pracy na innym stanowisku odpowiadającym posiadanym kwalifikacjom, jeżeli takim stanowiskiem dysponuje.
 
-**Art. 28.**
+### 4.
 
-1. Urzędnikowi państwowemu przechodzącemu na emeryturę lub rentę inwalidzką przysługuje jednorazowa odprawa:
+Rozwiązanie stosunku pracy w wypadkach określonych w ust. 1 pkt 1-3 następuje po zasięgnięciu opinii przedstawicielstwa pracowniczego.
 
-- **1)** po dziesięciu latach pracy w urzędach – w wysokości dwumiesięcznego wynagrodzenia;
-- **2)** po piętnastu latach pracy w urzędach – w wysokości trzymiesięcznego wynagrodzenia;
-- **3)** po dwudziestu latach pracy w urzędach – w wysokości sześciomiesięcznego wynagrodzenia.
+### Art. 14.
 
-2. Do okresu pracy w urzędach wlicza się okres zatrudnienia w innych zakładach pracy na zasadach określonych w przepisach, o których mowa w art. 22 ust. 2.
+### 1.
 
-3. Wynagrodzenie, o którym mowa w ust. 1, oblicza się jak ekwiwalent pieniężny za urlop wypoczynkowy.
+Stosunek pracy z urzędnikiem państwowym mianowanym ulega rozwiązaniu z jego winy bez wypowiedzenia, w razie:
 
-**Art. 29.**
+### 1)
 
-1. Czas pracy urzędników państwowych nie może przekraczać 8 godzin na dobę i średnio 40 godzin tygodniowo w przyjętym okresie rozliczeniowym nie dłuższym niż 8 tygodni.
+prawomocnego skazania na karę pozbawienia praw publicznych albo prawa wykonywania zawodu,
 
-1a. W wypadkach uzasadnionych rodzajem pracy i jej organizacją mogą być stosowane rozkłady czasu pracy, w których jest dopuszczalne przedłużenie czasu pracy do 12 godzin na dobę. W tych rozkładach czas pracy nie może jednak przekraczać średnio 40 godzin na tydzień, w przyjętym okresie rozliczeniowym nie dłuższym niż 12 tygodni.
+### 2)
 
-2. Jeżeli wymagają tego potrzeby urzędu, urzędnik państwowy może być zatrudniony poza normalnymi godzinami pracy, a w wyjątkowych wypadkach także w nocy oraz w niedziele i święta.
+prawomocnego ukarania karą dyscyplinarną wydalenia z pracy w urzędzie,
 
-3. Przepisów ust. 1a i 2 nie stosuje się do kobiet w ciąży oraz – bez ich zgody – do osób sprawujących pieczę nad osobami wymagającymi stałej opieki lub opiekujących się dziećmi w wieku do lat ośmiu.
+### 3)
 
-**Art. 30.**
+zawinionej utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku.
 
-1. Rozkład czasu pracy w tygodniu oraz jego wymiar w poszczególnych dniach tygodnia ustala kierownik urzędu zgodnie z zasadami określonymi, w drodze rozporządzenia, przez Prezesa Rady Ministrów.
+### 2.
 
-1a. Dni tygodnia niebędących dniami pracy w urzędzie nie wlicza się do urlopu wypoczynkowego.
+Stosunek pracy z urzędnikiem państwowym mianowanym ulega rozwiązaniu bez wypowiedzenia również w razie utraty obywatelstwa polskiego.
 
-2. Urzędnikowi państwowemu za pracę wykonywaną na polecenie przełożonego poza normalnymi godzinami pracy przysługuje według jego wyboru wynagrodzenie lub wolny czas, z tym że wolny czas może być udzielony w okresie bezpośrednio poprzedzającym urlop wypoczynkowy lub po jego zakończeniu.
+### 3.
 
-3. Urzędnikom państwowym zatrudnionym w urzędach naczelnych i centralnych organów administracji państwowej na stanowiskach kierowniczych i samodzielnych przysługuje wolny czas za pracę poza normalnymi godzinami pracy wykonywaną w porze nocnej oraz w niedzielę lub święto.
+Rozwiązanie stosunku pracy z urzędnikiem państwowym mianowanym bez wypowiedzenia może nastąpić także w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną w okresie pobierania z tego tytułu zasiłku, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn - po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
 
-**Art. 30¹.** Do urzędników państwowych zatrudnionych w niepełnym wymiarze czasu pracy nie stosuje się przepisów art. 7 i 27 ust. 2.
+### 4.
 
-#### Rozdział 4 Nagrody i wyróżnienia
+Stosunek pracy z urzędnikiem państwowym mianowanym wygasa w wypadkach określonych w Kodeksie pracy oraz przepisach szczególnych.
 
-**Art. 31.**
+### Art. 15.
 
-1. Urzędnikom państwowym, którzy wzorowo wykonują obowiązki, przejawiają inicjatywę w pracy i doskonalą sposób jej wykonywania, mogą być przyznawane nagrody i wyróżnienia określone w Kodeksie pracy.
+Stosunek pracy z urzędnikiem państwowym mianowanym ulega rozwiązaniu w drodze porozumienia stron lub z zachowaniem trzymiesięcznego okresu wypowiedzenia dokonanego przez tego urzędnika. W okresie wypowiedzenia urzędnik ten może być zwolniony z pełnienia obowiązków z zachowaniem prawa do wynagrodzenia.
 
-2. Za osiągnięcia w pracy zawodowej urzędnikowi państwowemu może być nadana odznaka honorowa „Zasłużony Pracownik Państwowy”.
+### Art. 16.
 
-3. Odznakę honorową „Zasłużony Pracownik Państwowy” nadaje Prezes Rady Ministrów.
+Postanowienia niniejszego rozdziału nie naruszają przepisów dotyczących szczególnej ochrony pracowników w zakresie wypowiedzenia i rozwiązania stosunku pracy.
 
-4. Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady nadawania odznaki honorowej „Zasłużony Pracownik Państwowy”, tryb przedstawiania wniosków o nadanie odznaki, wzór odznaki oraz tryb jej wręczania i sposób noszenia.
+### Rozdział 3 Obowiązki i prawa urzędnika państwowego
 
-**Art. 32.** (uchylony)
+### Art. 17.
 
-**Art. 33.** Urzędnik państwowy, wyróżniony w myśl art. 31 ust. 2, może być awansowany do wyższej grupy wynagrodzenia poza przewidzianymi terminami przeszeregowania lub na wyższe stanowisko.
+### 1.
 
-#### Rozdział 5 Odpowiedzialność porządkowa i dyscyplinarna urzędnika państwowego
+Urzędnik państwowy powinien chronić interesy państwa oraz prawa i słuszne interesy obywateli, wykonując swoje obowiązki w sposób zapewniający sprawną i prawidłową realizację zadań urzędu, oraz doskonalić jego funkcjonowanie.
 
-**Art. 34.**
+### 2.
 
-1. Urzędnicy państwowi mianowani ponoszą odpowiedzialność porządkową lub dyscyplinarną za naruszenie obowiązków pracownika.
+Urzędnik państwowy, zgodnie ze złożonym ślubowaniem, obowiązany jest w szczególności:
 
-2. Karę porządkową za przewinienie mniejszej wagi stanowi upomnienie.
+### 1)
 
-3. Karami dyscyplinarnymi są:
+przestrzegać Konstytucji Polskiej Rzeczypospolitej Ludowej, ustaw i innych przepisów prawa,
 
-- **1)** nagana;
-- **2)** nagana z ostrzeżeniem;
-- **3)** nagana z pozbawieniem możliwości awansowania przez okres do dwóch lat do wyższej grupy wynagrodzenia lub na wyższe stanowisko;
-- **4)** przeniesienie na niższe stanowisko;
-- **5)** wydalenie z pracy w urzędzie.
+### 2)
 
-**Art. 35.** Upomnienia udziela kierownik urzędu. Urzędnik państwowy może, w ciągu trzech dni od zawiadomienia go o ukaraniu, odwołać się do kierownika jednostki nadrzędnej. Odwołanie nie przysługuje, jeżeli karę wymierzył minister.
+strzec autorytetu Polskiej Rzeczypospolitej Ludowej jako socjalistycznego państwa oraz dążyć do pogłębiania zaufania obywateli do jego organów,
 
-**Art. 36.**
+### 3)
 
-1. W sprawach dyscyplinarnych orzekają komisje dyscyplinarne I i II instancji powoływane przez kierowników urzędów, przy których działają.
+kierować się zasadami sprawiedliwości społecznej oraz interesem państwa,
 
-2. Członków komisji dyscyplinarnych, w tym przewodniczącego i zastępców przewodniczącego, powołuje na okres czterech lat kierownik urzędu, przy którym komisja działa, po zasięgnięciu opinii zakładowej organizacji związkowej. Członkiem komisji dyscyplinarnej może być urzędnik mianowany, zatrudniony w urzędzie co najmniej pięć lat, dający rękojmię należytego pełnienia tej funkcji.
+### 4)
 
-3. Komisja dyscyplinarna orzeka w składach trzyosobowych.
+reagować w sposób rzeczowy na krytyczne uwagi obywateli oraz skargi i wnioski dotyczące działalności urzędu,
 
-4. Komisje dyscyplinarne I instancji powołuje się we wszystkich urzędach państwowych, z tym że wojewoda może powołać komisję dyscyplinarną I instancji dla urzędników zatrudnionych w urzędach kilku rejonowych organów rządowej administracji ogólnej . Uprawnienie takie przysługuje również innym organom rządowej administracji specjalnej stopnia wojewódzkiego w stosunku do podległych im urzędów.
+### 5)
 
-5. Komisje dyscyplinarne II instancji (odwoławcze) powołuje się przy:
+działać wnikliwie, szybko i bezstronnie,
 
-- **1)** Marszałku – dla urzędników Kancelarii Sejmu, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych oraz Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
-- **2)** Marszałku Senatu – dla urzędników Kancelarii Senatu;
-- **3)** Prezydencie Rzeczypospolitej Polskiej – dla urzędników Kancelarii Prezydenta;
-- **4)** Prezesie Rady Ministrów – dla urzędników Kancelarii Prezesa Rady Ministrów, urzędów podległych Prezesowi Rady Ministrów oraz ministerstw i urzędów centralnych organów administracji rządowej;
-- **5)** właściwym ministrze – dla urzędników urzędów podległych naczelnym i centralnym organom administracji państwowej;
-- **6)** ministrze właściwym do spraw administracji publicznej – dla urzędników urzędów wojewódzkich i regionalnych izb obrachunkowych;
-- **7)** Przewodniczącym Krajowej Rady Radiofonii i Telewizji – dla urzędników Biura Krajowej Rady Radiofonii i Telewizji, z uwzględnieniem ust. 5 ;
-- **7a)** Pierwszym Prezesie Sądu Najwyższego – dla urzędników Sądu Najwyższego;
-- **8)** Prezesie Trybunału Konstytucyjnego – dla urzędników Kancelarii Trybunału Konstytucyjnego, z uwzględnieniem ust. 5 ;
-- **9)** Rzeczniku Praw Obywatelskich – dla urzędników Biura Rzecznika Praw Obywatelskich;
-- **9a)** (uchylony) 9b) Rzeczniku Praw Dziecka – dla urzędników Biura Rzecznika Praw Dziecka; 9ba) Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 – dla urzędników Urzędu Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
-- **9c)** Rzeczniku Małych i Średnich Przedsiębiorców – dla urzędników Biura Rzecznika Małych i Średnich Przedsiębiorców;
-- **10)** (uchylony)
-- **11)** wojewodzie – dla urzędników urzędów rejonowych organów rządowej administracji ogólnej ;
-- **12)** Dyrektorze Biura Rady Fiskalnej – dla urzędników Biura Rady Fiskalnej.
+### 6)
 
-5. Komisja dyscyplinarna II instancji (odwoławcza) dla urzędników wymienionych w ust. 5 pkt 7 może być powołana przy Prezydencie Rzeczypospolitej Polskiej, na wniosek Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a dla urzędników wymienionych w ust. 5 pkt 8 – przy Marszałku Sejmu, na wniosek Prezesa Trybunału Konstytucyjnego.
+przejawiać szczególną troskę o ochronę mienia państwowego i społecznego,
 
-6. Członkowie komisji dyscyplinarnych są w zakresie orzekania niezawiśli i podlegają tylko ustawom.
+### 7)
 
-7. Prezes Rady Ministrów określa, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania wyjaśniającego i dyscyplinarnego, zasady i tryb powoływania i odwoływania komisji dyscyplinarnych oraz rzeczników dyscyplinarnych, uwzględniając w szczególności przebieg postępowania wyjaśniającego i dyscyplinarnego, a także zapewnienie należytego działania komisji i rzeczników dyscyplinarnych.
+zachowywać się z godnością w pracy i poza pracą,
 
-**Art. 36¹.**
+### 8)
 
-1. Rzecznika dyscyplinarnego urzędu, na okres kadencji komisji dyscyplinarnej, powołuje kierownik urzędu spośród podległych mu urzędników państwowych mianowanych.
+przestrzegać zasad współżycia społecznego,
 
-2. Rzecznik dyscyplinarny wszczyna postępowanie wyjaśniające na polecenie kierownika urzędu. O wszczęciu tego postępowania rzecznik dyscyplinarny zawiadamia urzędnika, którego ono dotyczy.
+### 9)
 
-3. Decyzja o przekazaniu komisji dyscyplinarnej I instancji wniosku o wszczęciu postępowania dyscyplinarnego należy do kierownika urzędu.
+przestrzegać dyscypliny pracy,
 
-**Art. 36².** Do zadań rzecznika dyscyplinarnego należy w szczególności:
+### 10)
 
-**Art. 36³.**
+przestrzegać tajemnicy państwowej i służbowej,
 
-1. Komisja dyscyplinarna I instancji wszczyna postępowanie dyscyplinarne z dniem zgłoszenia wniosku rzecznika dyscyplinarnego o wszczęcie postępowania.
+### 11)
 
-2. Obwiniony ma prawo korzystania z pomocy wybranego przez siebie obrońcy, z zastrzeżeniem przepisów o ochronie tajemnicy ustawowo chronionej.
+pogłębiać wiedzę i podnosić kwalifikacje zawodowe.
 
-3. W wypadku gdy rzecznik dyscyplinarny wniósł o orzeczenie kary wydalenia z pracy w urzędzie, a obwiniony nie ma obrońcy z wyboru, przewodniczący składu orzekającego wyznacza obrońcę spośród urzędników państwowych.
+### 3.
 
-4. Komisja dyscyplinarna I instancji wydaje orzeczenie po przeprowadzeniu rozprawy, w toku której wysłuchuje rzecznika dyscyplinarnego i obwinionego oraz jego obrońcy, jeżeli został ustanowiony, a także po rozpatrzeniu innych dowodów mających znaczenie w sprawie.
+Kierownik urzędu jest obowiązany zapewnić urzędnikowi państwowemu właściwe warunki do wykonywania obowiązków określonych w ustawie.
 
-5. Nieusprawiedliwione niestawiennictwo obwinionego lub jego obrońcy na rozprawie nie wstrzymuje rozpoznania sprawy.
+### 4.
 
-6. Rozprawa jest jawna dla urzędników państwowych mianowanych. W uzasadnionych wypadkach skład orzekający może wyłączyć jawność rozprawy, jednakże ogłoszenie orzeczenia jest jawne.
+Urzędnik państwowy jest obowiązany złożyć oświadczenie o swoim stanie majątkowym przy nawiązaniu stosunku pracy oraz na żądanie kierownika urzędu.
 
-**Art. 36⁴.**
+### Art. 18.
 
-1. Orzeczenie powinno być ogłoszone bezpośrednio po naradzie.
+### 1.
 
-2. W wyjątkowych wypadkach można odroczyć ogłoszenie orzeczenia na czas nie dłuższy niż 3 dni. O terminie ogłoszenia orzeczenia przewodniczący składu orzekającego zawiadamia strony bezpośrednio po zakończeniu narady.
+Urzędnik państwowy jest obowiązany sumiennie wypełniać polecenia służbowe przełożonych.
 
-3. Po ogłoszeniu orzeczenia przewodniczący składu orzekającego podaje ustnie zasadnicze motywy rozstrzygnięcia.
+### 2.
 
-4. Orzeczenie wraz z uzasadnieniem doręcza się stronom z urzędu, nie później niż w ciągu 7 dni od dnia jego ogłoszenia.
+Jeżeli polecenie służbowe w przekonaniu urzędnika państwowego jest niezgodne z prawem, godzi w interes społeczny lub zawiera znamiona pomyłki, urzędnik ten powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia powinien je wykonać, zawiadamiając jednocześnie o zastrzeżeniach kierownika urzędu, a gdy polecenie wydał kierownik urzędu - organ nadrzędny nad urzędem. Zawiadomienia należy dokonać niezwłocznie. O ile w toku dalszego postępowania okaże się, że zastrzeżenia urzędnika były uzasadnione, przełożony, który wydał polecenie, ponosi z tego tytułu odpowiedzialność.
 
-**Art. 36⁵.**
+### 3.
 
-1. Od orzeczenia komisji dyscyplinarnej I instancji strony mają prawo wniesienia odwołania. W odwołaniu można zaskarżyć całość orzeczenia lub jego część.
+Urzędnikowi państwowemu nie wolno wykonywać poleceń, których wykonanie stanowiłoby przestępstwo lub groziłoby niepowetowanymi stratami.
 
-2. Odwołanie wnosi się do komisji dyscyplinarnej II instancji za pośrednictwem komisji dyscyplinarnej I instancji, która wydała zaskarżone orzeczenie, w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
+### Art. 19.
 
-**Art. 36⁶.**
+### 1.
 
-1. Przed upływem terminu do wniesienia odwołania orzeczenie nie ulega wykonaniu.
+Urzędnik państwowy nie może podejmować dodatkowego zatrudnienia bez uzyskania uprzedniej zgody kierownika urzędu, w którym jest zatrudniony.
 
-2. Wniesienie odwołania w terminie wstrzymuje wykonanie orzeczenia.
+### 2.
 
-**Art. 36⁷.**
+Urzędnik państwowy nie może wykonywać zajęć, które pozostawałyby w sprzeczności z jego obowiązkami albo mogłyby wywołać podejrzenie o stronniczość lub interesowność.
 
-1. W postępowaniu przed komisją dyscyplinarną II instancji stosuje się odpowiednio przepisy o postępowaniu przed komisją dyscyplinarną I instancji.
+### 3.
 
-2. Od orzeczeń komisji dyscyplinarnej II instancji stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego – sądu pracy i ubezpieczeń społecznych. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego kasacja nie przysługuje.
+Urzędnikowi państwowemu nie wolno uczestniczyć w strajkach lub akcjach zakłócających normalne funkcjonowanie urzędu albo w działalności sprzecznej z obowiązkami urzędnika państwowego.
 
-**Art. 36⁸.**
+### Art. 20.
 
-1. Odpis prawomocnego orzeczenia komisji dyscyplinarnej dołącza się do akt osobowych urzędnika państwowego mianowanego.
+### 1.
 
-2. Prawomocne orzeczenie o ukaraniu podlega niezwłocznemu wykonaniu.
+Urzędnik państwowy mianowany podlega ocenom kwalifikacyjnym co dwa lata. Oceny dokonuje kierownik urzędu, w którym urzędnik jest zatrudniony, biorąc pod uwagę opinię bezpośredniego przełożonego i przedstawicielstwa pracowniczego. Dla dokonania tej czynności kierownik urzędu może powołać komisję.
 
-**Art. 37.**
+### 2.
 
-1. Postępowanie dyscyplinarne nie może być wszczęte po upływie miesiąca od dnia uzyskania wiadomości o popełnieniu czynu uzasadniającego odpowiedzialność dyscyplinarną ani po upływie roku od dnia popełnienia takiego czynu. Jeżeli z powodu nieobecności w pracy urzędnik nie ma możliwości złożenia wyjaśnień, bieg miesięcznego terminu nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się urzędnika do pracy. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie następuje wcześniej niż przedawnienie karne.
+O treści oceny kwalifikacyjnej kierownik urzędu zawiadamia urzędnika.
 
-2. Karę dyscyplinarną, z wyjątkiem kary wydalenia z pracy w urzędzie, uważa się za niebyłą i wzmiankę o niej wykreśla się z akt komisji dyscyplinarnej i urzędu po upływie dwóch lat od uprawomocnienia się orzeczenia. Komisja dyscyplinarna, biorąc pod uwagę osiągnięcia w pracy i zachowanie się pracownika, może na wniosek pracownika lub jego przełożonego uznać karę za niebyłą i zarządzić jej wykreślenie w terminie wcześniejszym.
+### 3.
 
-3. Po upływie pięciu lat od uprawomocnienia się orzeczenia komisji dyscyplinarnej ukarany może wystąpić o uznanie za niebyłą kary wydalenia z pracy w urzędzie.
+Od oceny kwalifikacyjnej urzędnik państwowy może, w terminie siedmiu dni, odwołać się do kierownika jednostki nadrzędnej nad urzędem. Urzędnik zatrudniony w ministerstwie może odwołać się do ministra.
 
-**Art. 37¹.** W postępowaniu przed komisjami dyscyplinarnymi I i II instancji w sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+### 4.
 
-#### Rozdział 6 Rozpatrywanie sporów o roszczenia urzędników ze stosunku pracy
+Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady i tryb postępowania przy dokonywaniu ocen urzędników państwowych mianowanych oraz tryb postępowania odwoławczego w tych sprawach.
 
-**Art. 38.**
+### Art. 21.
 
-1. Od decyzji w sprawach wypowiedzenia lub rozwiązania stosunku pracy z urzędnikiem państwowym mianowanym, przeniesienia albo zlecenia mu wykonywania innej pracy, przeniesienia na niższe lub inne stanowisko bądź zawieszenia w pełnieniu obowiązków urzędnik ten może, w terminie siedmiu dni, wnieść odwołanie do kierownika organu nadrzędnego nad urzędem, w którym jest zatrudniony. Od decyzji wydanej przez ministra odwołanie nie przysługuje.
+### 1.
 
-2. (uchylony)
+Urzędnikowi państwowemu przysługuje wynagrodzenie zależne od zajmowanego stanowiska, posiadanych kwalifikacji zawodowych, jakości oraz stażu pracy.
 
-**Art. 39.** Spory o roszczenia ze stosunku pracy urzędników państwowych rozpatrywane są w trybie określonym w Kodeksie pracy.
+### 2.
 
-#### Rozdział 7
+Urzędnik państwowy, który wykazuje inicjatywę w pracy i sumiennie wykonuje swoje obowiązki, powinien być awansowany do wyższej grupy wynagrodzenia lub na wyższe stanowisko.
 
-#### Rozdział 8 Przepisy szczególne
+### 3.
 
-**Art. 42¹.** Przewidziane w ustawie oraz w odrębnych przepisach zadania dla kierownika urzędu wykonuje w urzędach administracji rządowej, z wyłączeniem urzędów rejonowych i urzędów terenowych administracji specjalnej – dyrektor generalny urzędu.
+Rada Ministrów, w drodze rozporządzenia, określa zasady wynagradzania i awansowania oraz wymagane kwalifikacje w zakresie wykształcenia i praktyki zawodowej urzędników państwowych.
 
-**Art. 43.**
+### 4.
 
-1. Przepisy ustawy, z zastrzeżeniem przepisów ust. 2 i 3, stosuje się do pracowników zatrudnionych w jednostkach wojskowych.
+Wynagrodzenie urzędników państwowych ulega zmianie w taki sposób, aby jego poziom wzrastał w stopniu nie mniejszym niż poziom przeciętnego wynagrodzenia pracowników zatrudnionych w jednostkach gospodarki uspołecznionej.
 
-1a. Przepisy ustawy stosuje się do pracowników zatrudnionych w Komendzie Głównej Żandarmerii Wojskowej i innych jednostkach organizacyjnych Żandarmerii Wojskowej.
+### Art. 22.
 
-2. Minister Obrony Narodowej określi, w drodze rozporządzenia, jednostki wojskowe oraz stanowiska, na których stosunek pracy z pracownikami określonymi w ust. 1 nawiązuje się w drodze mianowania lub umowy o pracę, a także dostosuje organizację komisji dyscyplinarnych do struktury organizacyjnej jednostek wojskowych.
+### 1.
 
-3. Uprawnienia wynikające z ust. 2 przysługują ministrowi właściwemu do spraw wewnętrznych w odniesieniu do pracowników zatrudnionych w podległych mu jednostkach wojskowych.
+Urzędnikowi państwowemu przysługuje dodatek za wieloletnią pracę w urzędach państwowych, w wysokości wynoszącej po pięciu latach pracy 5% miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1% za każdy dalszy rok pracy aż do osiągnięcia 20% miesięcznego wynagrodzenia zasadniczego.
 
-4. Rada Ministrów, w drodze rozporządzenia, może określać w sposób szczególny niektóre obowiązki i prawa pracowników, o których mowa w ust. 1, uwzględniając charakter i warunki pracy w jednostkach wojskowych.
+### 2.
 
-**Art. 44.** Przepisy ustawy stosuje się do pracowników administracyjnych, pomocniczych, technicznych i obsługi sądów, prokuratury, ze zmianami wynikającymi z przepisów szczególnych.
+Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady przyznawania i wypłacania dodatku określonego w ust. 1, a także wypadki i warunki, w jakich do okresu pracy w urzędach państwowych wlicza się okres zatrudnienia w innych uspołecznionych zakładach pracy.
 
-**Art. 45.**
+### Art. 23.
 
-1. Przepisów ustawy dotyczących nawiązywania i rozwiązywania stosunku pracy nie stosuje się do osób powoływanych do pełnienia funkcji organów administracji państwowej oraz na inne stanowiska kierownicze w administracji państwowej, w trybie określonym w przepisach szczególnych.
+Urzędnikom państwowym przysługują nagrody jubileuszowe w wysokości:
 
-2. Osobie odwołanej z funkcji lub stanowiska, określonych w ust. 1, która przed powołaniem na tę funkcję lub stanowisko była urzędnikiem państwowym mianowanym, przysługuje prawo do mianowania na stanowisko równorzędne z zajmowanym przed powołaniem, jeżeli osoba ta spełnia wymogi, o których mowa w art. 3 pkt 4.
+### 1)
 
-**Art. 45¹.**
+po 20 latach pracy - 75% wynagrodzenia miesięcznego,
 
-1. Urzędnikom państwowym zatrudnionym w Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej oraz w Biurze Krajowej Rady Radiofonii i Telewizji nie wolno publicznie manifestować swoich przekonań politycznych.
+### 2)
 
-2. Zakaz, o którym mowa w ust. 1, nie dotyczy pracowników zatrudnionych na podstawie art. 47 ust. 1, a także osób zajmujących kierownicze stanowiska w Kancelarii Prezydenta Rzeczypospolitej Polskiej, wymienione w art. 2 ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2023 r. poz. 624).
+po 25 latach pracy - 100% wynagrodzenia miesięcznego,
 
-**Art. 46.** Przepisy art. 3c, art. 21–31 i art. 33 stosuje się również do pracowników urzędów państwowych niebędących urzędnikami.
+### 3)
 
-**Art. 47.** Do urzędników administracji celnej przepisy niniejszej ustawy stosuje się ze zmianami i uzupełnieniami, które określa, w drodze rozporządzenia, Rada Ministrów w zakresie, jaki jest konieczny ze względu na szczególny charakter pracy tych pracowników.
+po 30 latach pracy - 150% wynagrodzenia miesięcznego,
 
-**Art. 47¹.**
+### 4)
 
-1. Zatrudnienie:
+po 35 latach pracy - 200% wynagrodzenia miesięcznego,
 
-- **1)** pracownika w gabinecie politycznym Prezesa Rady Ministrów, wiceprezesa Rady Ministrów, ministra oraz innego członka Rady Ministrów,
-- **2)** doradców lub pełniących funkcje doradców osób zajmujących kierownicze stanowiska państwowe inne niż wymienione w pkt 1 – następuje na podstawie umowy o pracę zawartej na czas pełnienia funkcji przez osobę zajmującą kierownicze stanowisko państwowe. Do umów o pracę zawartych z tymi osobami nie stosuje się art. 25 Kodeksu pracy. Wcześniejsze rozwiązanie umowy o pracę może być dokonane za wypowiedzeniem.
+### 5)
 
-2. Przepisu art. 42 nie stosuje się do stosunku pracy pracowników, o których mowa w ust. 1.
+po 40 latach pracy - 300% wynagrodzenia miesięcznego,
 
-3. Rada Ministrów określa, w drodze rozporządzenia, zasady wynagradzania oraz inne świadczenia, w tym odprawy z tytułu rozwiązania lub wygaśnięcia stosunku pracy, przysługujące z tytułu zatrudnienia określonego w ust. 1.
+### Art. 24.
 
-**Art. 48.**
+### 1.
 
-1. Przepisy określone w art. 2 pkt 1, art. 7 ust. 6, art. 20 ust. 4, art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2, art. 30 ust. 1, art. 31 ust. 4, art. 36 ust. 7 i art. 47 ust. 3 wydaje Prezydent Rzeczypospolitej Polskiej, w drodze:
+W urzędach państwowych tworzy się zakładowy fundusz nagród wynoszący 8,5% funduszu płac. Wysokość i zasady przyznawania indywidualnych nagród z tego funduszu określa ustawa z dnia 23 czerwca 1973 r. o zasadach tworzenia i podziału zakładowego funduszu nagród oraz zakładowych funduszów socjalnego i mieszkaniowego ([Dz. U. Nr 27, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/1973/150/text.html) i z [1982 r. Nr 7, poz. 54](https://api.sejm.gov.pl/eli/acts/DU/1982/54/text.html)).
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** zarządzenia – w odniesieniu do pracowników Kancelarii Prezydenta Rzeczypospolitej Polskiej;
-- **4)** rozporządzenia – w odniesieniu do pracowników Biura Krajowej Rady Radiofonii i Telewizji, uwzględniając: 23 ust. 2, art. 24 ust. 2 oraz art. 47 ust. 3,
-    - **a)** charakter wykonywanych zadań, w przypadku wydania przepisów, o których mowa w art. 2 pkt 1,
-    - **b)** charakter i efektywność wykonywania zadań oraz potrzebę sprawnego wypłacania świadczeń przysługujących pracownikom, w przypadku wydania przepisów, o których mowa w art. 21 ust. 3, art. 22 ust. 2, art.
-    - **c)** potrzebę sprawnego przeprowadzenia aplikacji administracyjnej oraz konieczność nabycia w jej toku odpowiedniej wiedzy i umiejętności wymaganych na stanowisku objętym aplikacją, w przypadku wydania przepisów, o których mowa w art. 7 ust. 6,
-    - **d)** potrzebę stałego doskonalenia jakości wykonywania zadań, odpowiedniego doboru pracowników na poszczególne stanowiska oraz obiektywizmu dokonywanych ocen kwalifikacyjnych, w przypadku wydania przepisów, o których mowa w art. 20 ust. 4,
-    - **e)** potrzebę zapewnienia sprawnej pracy urzędu oraz charakter zadań wykonywanych przez pracowników, w przypadku wydania przepisów, o których mowa w art. 30 ust. 1,
-    - **f)** potrzebę ujednolicenia wniosków o nadanie odznaki honorowej „Zasłużony Pracownik Państwowy” oraz przedstawienia przez wnioskodawcę uzasadnienia nadania odznaki – w przypadku wydania przepisów, o których mowa w art. 31 ust. 4,
-    - **g)** w szczególności przebieg postępowania wyjaśniającego i dyscyplinarnego, a także zapewnienie należytego działania komisji i rzeczników dyscyplinarnych, w przypadku wydania przepisów, o których mowa w art. 36 ust. 7.
+### 2.
 
-1a. Przepisów art. 2 pkt 1, art. 7 ust. 6 i art. 30 ust. 1 nie stosuje się w odniesieniu do pracowników urzędów wymienionych w art. 1 ust. 1 pkt 1, 2, 3b, 6–7a, 9 i 13. Kierownicy tych urzędów są uprawnieni do określania:
+Rada Ministrów może utworzyć dodatkowy fundusz nagród dla urzędników państwowych za szczególne osiągnięcia w pracy zawodowej.
 
-- **1)** stanowisk, na których zatrudnieni pracownicy są urzędnikami państwowymi;
-- **2)** wykazu stanowisk objętych aplikacją administracyjną oraz zasad i trybu odbywania tej aplikacji;
-- **3)** rozkładu czasu pracy w tygodniu i jego wymiaru w poszczególnych dniach tygodnia.
+### Art. 25.
 
-1b. W ramach posiadanych środków na wynagrodzenia określonych w ustawie budżetowej kierownicy urzędów, o których mowa w ust. 1a, ustalają regulamin wynagradzania w urzędzie. Regulamin ten w odniesieniu do Kancelarii zatwierdza Marszałek Sejmu, a w odniesieniu do Kancelarii Senatu – Marszałek Senatu. Przepisów art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2 i art. 47 ust. 3 nie stosuje się.
+### 1.
 
-1c. Dodatkowy fundusz nagród dla urzędników państwowych za szczególne osiągnięcia w pracy zawodowej utworzony na podstawie art. 24 ust. 2 w urzędach, o których mowa w ust. 1a, pozostaje w dyspozycji kierowników tych urzędów i może być przez nich podwyższany w ramach posiadanych środków na wynagrodzenia.
+Urzędnikowi państwowemu oraz jego współmałżonkowi przysługuje prawo do korzystania z 50% ulgi w opłatach za przejazdy koleją oraz autobusami Państwowej Komunikacji Samochodowej.
 
-2. Uprawnienie wynikające z art. 31 ust. 3 przysługuje odpowiednio organowi wymienionemu w ust. 1 oraz Marszałkowi w odniesieniu do pracowników Kancelarii Sejmu, Krajowego Biura Wyborczego i Urzędu Ochrony Danych Osobowych, a także Marszałkowi Senatu w odniesieniu do pracowników Kancelarii Senatu oraz kierownikom urzędów wymienionym w art. 1 ust. 1 pkt 3b i 6–7a w odniesieniu do pracowników tych urzędów.
+### 2.
 
-3. Przewidziane w ustawie uprawnienia ministrów przysługują odpowiednio kierownikom urzędów wymienionych w ust. 1 oraz w art. 1 ust. 1 pkt 1, 2, 3b, 6– 7a, 9 i 13.
+Urzędnik państwowy oraz jego współmałżonek zachowują prawo do ulgi, o której mowa w ust. 1, również po przejściu urzędnika na emeryturę lub rentę.
 
-4. (uchylony)
+### Art. 26.
 
-#### Rozdział 9 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+### 1.
 
-**Art. 49.** (pominięty)
+Urzędnikowi państwowemu delegowanemu służbowo do zajęć poza siedzibą urzędu, w którym jest zatrudniony, przysługują zwrot kosztów podróży, zakwaterowania oraz diety na zasadach stosowanych przy podróżach służbowych na obszarze kraju.
 
-**Art. 49¹.** (wygasł)
+### 2.
 
-**Art. 50.** (pominięty)
+Urzędnikowi państwowemu przenoszonemu do pracy w innej miejscowości przysługują zwrot kosztów przeniesienia, diety, zwrot kosztów podróży oraz inne świadczenia określone przez Radę Ministrów.
 
-**Art. 51.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie stosuje się przepisy dotychczasowe ze zmianami wynikającymi z ustawy.
+### Art. 27.
 
-**Art. 52.** Przepisy odnoszące się do ministrów i wojewodów stosuje się odpowiednio do kierowników urzędów centralnych oraz Szefa Kancelarii Prezesa Rady Ministrów.
+### 1.
 
-**Art. 53.**
+Urzędnikowi państwowemu przysługują świadczenia emerytalne i rentowe na zasadach określonych w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin, z wyjątkiem pracowników państwowych, których uprawnienia w tym zakresie regulują odrębne przepisy.
 
-1. Osobie zatrudnionej na stanowisku kuratora oświaty lub wicekuratora oświaty przysługują uprawnienia określone w art. 91a ust. 1 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2024 r. poz. 986, z późn. zm. ), a okres zatrudnienia na tych stanowiskach wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie.
+### 2.
 
-2. (uchylony)
+W razie rozwiązania z urzędnikiem państwowym stosunku pracy ze względu na zmniejszenie stanu zatrudnienia spowodowane likwidacją urzędu albo jego reorganizacją uniemożliwiającą dalsze zatrudnienie pracownika, urzędnikowi państwowemu przysługuje pełna emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta - pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
 
-3. Rada Ministrów może określać kategorie urzędników państwowych, którzy korzystać będą z uprawnień szczególnych w zakresie płac i innych świadczeń przewidzianych w przepisach obowiązujących w dniu wejścia w życie ustawy.
+### 3.
 
-**Art. 54.** Tracą moc dotychczasowe przepisy dotyczące praw i obowiązków pracowników urzędów państwowych, wydane na podstawie art. 298 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. poz. 141 oraz z 1975 r. poz. 91).
+W razie rozwiązania z urzędnikiem państwowym mianowanym stosunku pracy z przyczyn określonych:
 
-**Art. 55.** Ustawa wchodzi w życie z dniem 1 stycznia 1983 r.
+### 1)
 
+w art. 13 ust. 1 pkt 3, o ile urząd nie dysponuje stanowiskiem, o którym mowa w art. 13 ust. 3,
+
+### 2)
+
+w art. 13 ust. 1 pkt 4, z wyłączeniem wypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie,
+
+urzędnikowi temu przysługuje pełna emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta - pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
+
+### Art. 28.
+
+### 1.
+
+Urzędnikowi państwowemu przechodzącemu na emeryturę lub rentę inwalidzką przysługuje jednorazowa odprawa:
+
+### 1)
+
+po dziesięciu latach pracy w urzędach - w wysokości dwumiesięcznego wynagrodzenia,
+
+### 2)
+
+po piętnastu latach pracy w urzędach - w wysokości trzymiesięcznego wynagrodzenia,
+
+### 3)
+
+po dwudziestu latach pracy w urzędach - w wysokości sześciomiesięcznego wynagrodzenia.
+
+### 2.
+
+Do okresu pracy w urzędach wlicza się okres zatrudnienia w uspołecznionych zakładach pracy na zasadach określonych w przepisach, o których mowa w art. 22 ust. 2.
+
+### Art. 29.
+
+### 1.
+
+Czas pracy urzędników państwowych nie może przekraczać czterdziestu godzin na tydzień i ośmiu godzin na dobę.
+
+### 2.
+
+Jeżeli wymagają tego potrzeby urzędu, urzędnik państwowy może być zatrudniony poza normalnymi godzinami pracy, a w wyjątkowych wypadkach także w nocy oraz w niedziele i święta.
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się do kobiet w ciąży, kobiet opiekujących się dziećmi w wieku do ośmiu lat oraz w innych wypadkach określonych w odrębnych przepisach.
+
+### Art. 30.
+
+### 1.
+
+Rozkład czasu pracy w tygodniu oraz jego wymiar w poszczególnych dniach tygodnia ustala kierownik urzędu zgodnie z zasadami określonymi przez Prezesa Rady Ministrów.
+
+### 2.
+
+Za pracę wykonywaną poza normalnymi godzinami pracy lub na polecenie przełożonego urzędnikowi państwowemu przysługuje według jego wyboru wynagrodzenie lub wolny czas, z tym że wolny czas może być udzielony w okresie bezpośrednio poprzedzającym urlop wypoczynkowy lub po jego zakończeniu.
+
+### 3.
+
+Urzędnikom państwowym zatrudnionym w urzędach naczelnych i centralnych organów administracji państwowej na stanowiskach kierowniczych i samodzielnych przysługuje wolny czas za pracę poza normalnymi godzinami pracy wykonywaną w porze nocnej oraz w niedzielę lub święto.
+
+### Rozdział 4 Nagrody, wyróżnienia, odznaczenia
+
+### Art. 31.
+
+### 1.
+
+Urzędnikom państwowym, którzy wzorowo wykonują obowiązki, przejawiają inicjatywę w pracy i doskonalą sposób jej wykonywania mogą być przyznawane nagrody i wyróżnienia określone w Kodeksie pracy.
+
+### 2.
+
+Za osiągnięcia w pracy zawodowej urzędnikowi państwowemu może być nadana odznaka honorowa „Zasłużony Pracownik Państwowy”.
+
+### 3.
+
+Odznakę honorową „Zasłużony Pracownik Państwowy” nadaje Prezes Rady Ministrów.
+
+### 4.
+
+Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady nadawania odznaki honorowej „Zasłużony Pracownik Państwowy”, tryb przedstawiania wniosków o nadanie odznaki, wzór odznaki oraz tryb jej wręczania i sposób noszenia.
+
+### Art. 32.
+
+Właściwy minister lub wojewoda występuje z wnioskiem o nadanie urzędnikowi państwowemu:
+
+### 1)
+
+Złotego Krzyża Zasługi - za wyróżniającą pracę po przepracowaniu dwudziestu lat w urzędach państwowych,
+
+### 2)
+
+Krzyża Kawalerskiego Orderu Odrodzenia Polski - za szczególnie wyróżniającą pracę po przepracowaniu trzydziestu lat w urzędach państwowych.
+
+Jeżeli nie otrzymał on wcześniej takiego lub wyższego odznaczenia państwowego.
+
+### Art. 33.
+
+Urzędnik państwowy, wyróżniony w myśl art. 31 ust. 2 lub odznaczony w myśl art. 32, może być awansowany do wyższej grupy wynagrodzenia poza przewidzianymi terminami przeszeregowania lub na wyższe stanowisko.
+
+### Rozdział 5 Odpowiedzialność porządkowa i dyscyplinarna urzędnika państwowego
+
+### Art. 34.
+
+### 1.
+
+Urzędnicy państwowi mianowani ponoszą odpowiedzialność porządkową lub dyscyplinarną za naruszenie obowiązków pracownika.
+
+### 2.
+
+Karę porządkową za przewinienie mniejszej wagi stanowi upomnienie.
+
+### 3.
+
+Karami dyscyplinarnymi są:
+
+### 1)
+
+nagana,
+
+### 2)
+
+nagana z ostrzeżeniem,
+
+### 3)
+
+nagana z pozbawieniem możliwości awansowania przez okres do dwóch lat do wyższej grupy wynagrodzenia lub na wyższe stanowisko,
+
+### 4)
+
+przeniesienie na niższe stanowisko,
+
+### 5)
+
+wydalenie z pracy w urzędzie.
+
+### Art. 35.
+
+Upomnienia udziela kierownik urzędu. Urzędnik państwowy może, w ciągu trzech dni od zawiadomienia go o ukaraniu, odwołać się do kierownika jednostki nadrzędnej. Odwołanie nie przysługuje, jeżeli karę wymierzył minister.
+
+### Art. 36.
+
+### 1.
+
+W sprawach dyscyplinarnych orzekają komisje dyscyplinarne I i II instancji powoływane przez kierowników urzędów, przy których działają.
+
+### 2.
+
+Członków komisji dyscyplinarnych, w tym przewodniczącego i zastępców przewodniczącego, powołuje na okres czterech lat kierownik urzędu, przy którym komisja działa, po zasięgnięciu opinii przedstawicielstwa pracowniczego. Członkiem komisji dyscyplinarnej może być urzędnik mianowany, zatrudniony w urzędzie co najmniej pięć lat, dający rękojmię należytego pełnienia tej funkcji.
+
+### 3.
+
+Komisja dyscyplinarna orzeka w zespołach trzyosobowych.
+
+### 4.
+
+Komisje dyscyplinarne I instancji powołuje się we wszystkich urzędach państwowych, z tym że wojewoda może powołać komisję dyscyplinarną I instancji dla urzędników zatrudnionych w urzędach kilku terenowych organów administracji państwowej stopnia podstawowego.
+
+### 5.
+
+Komisje dyscyplinarne II instancji (odwoławcza) powołuje się przy:
+
+### 1)
+
+Marszałku Sejmu - dla urzędników Kancelarii Sejmu,
+
+### 2)
+
+Przewodniczącym Rady Państwa - dla urzędników Kancelarii Rady Państwa,
+
+### 3)
+
+Prezesie Rady Ministrów - dla urzędników ministerstw i urzędów centralnych,
+
+### 4)
+
+właściwym ministrze - dla urzędników urzędów podległych naczelnym i centralnym organom administracji państwowej,
+
+### 5)
+
+Ministrze Administracji, Gospodarki Terenowej i Ochrony Środowiska - dla urzędników urzędów terenowych organów administracji państwowej stopnia wojewódzkiego,
+
+### 6)
+
+wojewodzie - dla urzędników urzędów terenowych organów administracji państwowej stopnia podstawowego.
+
+### 6.
+
+Członkowie komisji dyscyplinarnych są w zakresie orzekania niezawiśli i podlegają tylko ustawom.
+
+### 7.
+
+Rada Ministrów, w drodze rozporządzenia, określa zasady, skład i tryb powoływania komisji dyscyplinarnych, tryb powoływania rzeczników dyscyplinarnych oraz zasady i tryb postępowania przed komisjami dyscyplinarnymi.
+
+### Art. 37.
+
+### 1.
+
+Postępowanie dyscyplinarne nie może być wszczęte po upływie miesiąca od dnia uzyskania wiadomości o popełnieniu czynu uzasadniającego odpowiedzialność dyscyplinarną ani po upływie roku od dnia popełnienia takiego czynu. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienia dyscyplinarne nie następuje wcześniej niż przedawnienie karne.
+
+### 2.
+
+Karę dyscyplinarną, z wyjątkiem kary wydalenia z pracy w urzędzie, uważa się za niebyłą i wzmiankę o niej wykreśla się z akt komisji dyscyplinarnej i urzędu po upływie dwóch lat od uprawomocnienia się orzeczenia. Komisja dyscyplinarna, biorąc pod uwagę osiągnięcia w pracy i zachowania się pracownika, może na wniosek pracownika lub jego przełożonego uznać karę za niebyłą i zarządzić jej wykreślenie w terminie wcześniejszym.
+
+### 3.
+
+Po upływie pięciu lat od uprawomocnienia się orzeczenia komisji dyscyplinarnej ukarany może wystąpić o uznanie za niebyłą kary wydalenia z pracy w urzędzie.
+
+### Rozdział 6 Rozpatrywanie sporów o roszczenia urzędników ze stosunku pracy
+
+### Art. 38.
+
+### 1.
+
+Od decyzji w sprawach wypowiedzenia lub rozwiązania stosunku pracy z urzędnikiem państwowym mianowanym, przeniesienia albo zlecenia mu wykonywania innej pracy, przeniesienia na niższe stanowisko bądź zawieszenia w pełnieniu obowiązków urzędnik ten może, w terminie siedmiu dni, wnieść odwołanie do kierownika organu nadrzędnego nad urzędem, w którym jest zatrudniony. Od decyzji wydanej przez ministra odwołanie nie przysługuje.
+
+### 2.
+
+Od decyzji w sprawach określonych w ust. 1 urzędnikowi państwowemu mianowanemu przysługuje skarga do sądu administracyjnego na zasadach przewidzianych w Kodeksie postępowania administracyjnego.
+
+### Art. 39.
+
+Spory o roszczenia ze stosunku pracy urzędników państwowych w sprawach nie wymienionych w art. 38 ust. 1 rozpatrywane są w trybie określonym w Kodeksie pracy.
+
+### Rozdział 7 Przedstawicielstwo pracownicze
+
+### Art. 40.
+
+### 1.
+
+Pracownicy urzędów państwowych mają prawo zrzeszania się w związkach zawodowych pracowników urzędów państwowych, z wyjątkiem pracowników:
+
+### 1)
+
+zatrudnionych na wysokich stanowiskach, których czynności uważa się z reguły za związane z tworzeniem polityki lub za funkcje kierownicze,
+
+### 2)
+
+których obowiązki mają w wysokim stopniu poufny charakter.
+
+### 2.
+
+Stanowiska, o których mowa w ust. 1, określają:
+
+### 1)
+
+Prezes Rady Ministrów - gdy chodzi o stanowiska wymienione w ust. 1 pkt 1,
+
+### 2)
+
+minister i wojewoda - gdy chodzi o stanowiska wymienione w ust. 1 pkt 2.
+
+### 3.
+
+Przepisy ust. 1 i 2 dotyczą także pracowników delegowanych do pracy w urzędach państwowych.
+
+### Art. 41.
+
+### 1.
+
+Pracownicy urzędów państwowych, o których mowa w art. 40 ust. 1 pkt 1 i 2, oraz inni pracownicy urzędów nie zrzeszeni w związkach zawodowych mogą tworzyć rady pracownicze. Zadaniem rad pracowniczych jest ochrona i reprezentowanie wobec kierowników urzędów interesów zawodowych i socjalnych urzędników państwowych tworzących te rady, a także rozwijanie innej działalności, zmierzającej do poprawy warunków bytowych, socjalnych i kulturalnych tych pracowników.
+
+### 2.
+
+Rady, o których mowa w ust. 1. działają na podstawie niniejszej ustawy oraz uchwalanych przez nie statutów.
+
+### 3.
+
+Rada Ministrów, w drodze rozporządzenia, określa zasady współdziałania kierowników urzędów z radami pracowniczymi, w tym także zakres spraw, w których wymagana jest opinia rady.
+
+### Art. 42.
+
+### 1.
+
+Kierownicy urzędów i ich organy nadrzędne obowiązani są stwarzać warunki umożliwiające przedstawicielstwu pracowniczemu realizacje jego zadań, a w szczególności udzielać mu niezbędnych informacji, udostępniać dokumentację dotyczącą spraw pracowniczych oraz przedstawiać w odpowiednich terminach materiały umożliwiające przedstawicielstwu zajęcie stanowiska.
+
+### 2.
+
+Kierownicy urzędów obowiązani są rozpatrywać wnioski przedstawicielstwa pracowniczego oraz powiadamiać przedstawicielstwo o sposobie załatwienia wniosków.
+
+### Rozdział 8 Przepisy szczególne
+
+### Art. 43.
+
+### 1.
+
+Przepisy ustawy, z zastrzeżeniem przepisów ust. 2 i 3, stosuje się do pracowników zatrudnionych w jednostkach wojskowych.
+
+### 2.
+
+Minister Obrony Narodowej określa jednostki wojskowe oraz stanowiska, na których stosunek pracy z pracownikami określonymi w ust. 1 nawiązuje się w drodze mianowania lub umowy o pracę, a także dostosuje organizację komisji dyscyplinarnych do struktury organizacyjnej jednostek wojskowych.
+
+### 3.
+
+Uprawnienia wynikające z ust. 2 przysługują Ministrowi Spraw Wewnętrznych w odniesieniu do pracowników zatrudnionych w podległych mu jednostkach wojskowych.
+
+### 4.
+
+Rada Ministrów, w drodze rozporządzenia, może określać w sposób szczególny niektóre obowiązki i prawa pracowników, o których mowa w ust. 1, uwzględniając charakter i warunki pracy w jednostkach wojskowych.
+
+### Art. 44.
+
+Przepisy ustawy stosuje się do pracowników administracyjnych, pomocniczych, technicznych i obsługi Sądu Najwyższego i innych sądów, biur notarialnych, Prokuratury Polskiej Rzeczypospolitej Ludowej, Państwowego Arbitrażu Gospodarczego, a także do kuratorów zawodowych i komorników - ze zmianami wynikającymi z przepisów szczególnych.
+
+### Art. 45.
+
+Przepisów ustawy dotyczących nawiązywania i rozwiązywania stosunku pracy nie stosuje się do osób powoływanych na stanowiska kierownicze w administracji państwowej w trybie określonym w przepisach szczególnych.
+
+### Art. 46.
+
+Przepisy art. 21-31 i 33 stosuje się również do pracowników urzędów państwowych nie będących urzędnikami, a przepisy art. 24, 28, 31 i 32 - do funkcjonariuszy pożarnictwa nie będących urzędnikami, pełniących służbę w organach administracji państwowej.
+
+### Art. 47.
+
+Do urzędników służby dyplomatyczno-konsularnej oraz urzędników administracji celnej przepisy niniejszej ustawy stosuje się ze zmianami i uzupełnieniami, które określa, w drodze rozporządzenia, Rada Ministrów w zakresie, jaki jest konieczny ze względu na szczególny charakter pracy tych pracowników.
+
+### Art. 48.
+
+### 1.
+
+Przepisy określone w art. 2 pkt 1, art. 4 ust. 3, art. 7 ust. 6, art. 20 ust. 4, art. 21 ust. 3, art. 22 ust. 2, art. 26 ust. 2, art. 36 ust. 7 i art. 41 ust. 3 wydają:
+
+### 1)
+
+Marszałek Sejmu - w odniesieniu do pracowników Kancelarii Sejmu,
+
+### 2)
+
+Rada Państwa - w odniesieniu do pracowników Kancelarii Rady Państwa, Prokuratury Polskiej Rzeczypospolitej Ludowej, Państwowej Inspekcji Pracy oraz organów kontroli publikacji i widowisk.
+
+### 2.
+
+Przepis ust. 1 stosuje się również do tworzenia dodatkowego funduszu nagród (art. 24 ust. 2).
+
+### 3.
+
+Uprawnienia wynikające z art. 30 ust. 1 i z art. 31 ust. 3, w odniesieniu do pracowników urzędów wymienionych w ust. 1, przysługują odpowiednio Marszałkowi Sejmu i Przewodniczącemu Rady Państwa.
+
+### 4.
+
+Przewidziane w ustawie uprawnienia ministrów przysługują odpowiednio kierownikom urzędów wymienionych w ust. 1.
+
+### Rozdział 9 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+### Art. 49.
+
+### 1.
+
+W Prawie o ustroju sądów powszechnych ([Dz. U. z 1964 r. Nr 6, poz. 40](https://api.sejm.gov.pl/eli/acts/DU/1964/40/text.html), z [1967 r. Nr 13, poz. 55](https://api.sejm.gov.pl/eli/acts/DU/1967/55/text.html), z [1969 r. Nr 13, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1969/98/text.html), z [1974 r. Nr 50, poz. 316](https://api.sejm.gov.pl/eli/acts/DU/1974/316/text.html), z [1975 r. Nr 16, poz. 91](https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html) i [Nr 34, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1975/183/text.html) oraz z [1982 r. Nr 16, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.html) i [Nr 19, poz. 145](https://api.sejm.gov.pl/eli/acts/DU/1982/145/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 65 otrzymuje brzmienie:
+
+„
+
+### Art. 65.
+
+W sprawach nie unormowanych w niniejszej ustawie lub w przepisach szczególnych do sędziów stosuje się odpowiednio przepisy o pracownikach urzędów państwowych.
+
+” ;
+
+### 2)
+
+art. 139 skreśla się.
+
+### 2.
+
+W ustawie z dnia 25 maja 1951 r. - Prawo o notariacie ([Dz. U. z 1963 r. Nr 19, poz. 106](https://api.sejm.gov.pl/eli/acts/DU/1963/106/text.html), z [1964 r. Nr 41, poz. 278](https://api.sejm.gov.pl/eli/acts/DU/1964/278/text.html), z [1965 r. Nr 52, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1965/318/text.html) oraz z [1974 r. Nr 50, poz. 317](https://api.sejm.gov.pl/eli/acts/DU/1974/317/text.html)) w art. 28 skreśla się § 3.
+
+### 3.
+
+W ustawie z dnia 14 kwietnia 1967 r. o Prokuraturze Polskiej Rzeczypospolitej Ludowej ([Dz. U. z 1980 r. Nr 10, poz. 30](https://api.sejm.gov.pl/eli/acts/DU/1980/30/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 57 w ust. 1 wyrazy „wydanego na podstawie art. 298 Kodeksu pracy rozporządzenia Rady Ministrów w sprawie praw i obowiązków pracowników urzędów państwowych - chyba że Rada Państwa postanowi inaczej” zastępuje się wyrazami „o pracownikach urzędów państwowych”;
+
+### 2)
+
+w art. 64 skreśla się ust. 3.
+
+### 4.
+
+W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. Nr 24, poz. 141](https://api.sejm.gov.pl/eli/acts/DU/1974/141/text.html) oraz z [1975 r. Nr 16, poz. 91](https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html)) w art. 298 w § 1 wyrazy „urzędach państwowych, w innych” zastępuje się wyrazem „niektórych”.
+
+### 5.
+
+W ustawie z dnia 23 października 1975 r. o Państwowym Arbitrażu Gospodarczym ([Dz. U. Nr 34, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1975/183/text.html)) w art. 27 wyrazy „wydane na podstawie art. 298 Kodeksu pracy w sprawie praw i obowiązków pracowników urzędów państwowych” zastępuje się wyrazami „o pracownikach urzędów państwowych”.
+
+### 6.
+
+W ustawie z dnia 31 lipca 1981 r. o wynagradzaniu osób zajmujących kierownicze stanowiska państwowe ([Dz. U. Nr 20, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1981/101/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do osób zajmujących kierownicze stanowiska państwowe stosuje się odpowiednio przepisy art. 22-24 oraz art. 28 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214).
+
+” ;
+
+### 2)
+
+w art. 6 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Szczegółowe zasady wynagradzania osób wymienionych w art. 2 oraz wynagradzania ryczałtowego, o którym mowa w art. 4 ust. 1, ustala Rada Państwa.
+
+”
+
+### Art. 50.
+
+### 1.
+
+W okresie dwunastu miesięcy od dnia wejścia w życie ustawy kierownicy urzędów dokonają mianowania pracowników zatrudnionych na stanowiskach określonych w art. 4 ust. 3 pkt 1, jeżeli spełniają warunki określone w art. 3 i wyrażają zgodę na mianowanie, a dotychczasowy przebieg pracy uzasadnia mianowanie.
+
+### 2.
+
+Jeżeli przed dniem wejścia w życie ustawy zapadła decyzja w sprawie odwołania od wypowiedzenia lub rozwiązania umowy o pracę z pracownikiem państwowym, przewidziana w przepisach wydanych na podstawie art. 298 Kodeksu pracy, dalsze postępowanie odwoławcze będzie toczyć się według przepisów ustawy.
+
+### Art. 51.
+
+Do czasu wydania przepisów wykonawczych przewidzianych w ustawie stosuje się przepisy dotychczasowe ze zmianami wynikającymi z ustawy.
+
+### Art. 52.
+
+Przepisy odnoszące się do ministrów i wojewodów stosuje się odpowiednio do kierowników urzędów centralnych oraz prezydentów miast stopnia wojewódzkiego.
+
+### Art. 53.
+
+### 1.
+
+Urzędnikom państwowym zatrudnionym w urzędach organów administracji państwowej na stanowiskach wymagających kwalifikacji pedagogicznych, będącym nauczycielami mianowanymi, przysługują uprawnienia określone w art. 50-52, 57, 60 oraz 86-91 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. Nr 3, poz. 19](https://api.sejm.gov.pl/eli/acts/DU/1982/19/text.html) i z [1982 r. Nr 25, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1982/187/text.html)), a okres zatrudnienia w tych urzędach na stanowiskach wymagających kwalifikacji pedagogicznych wlicza się do okresu zatrudnienia, od którego zależą uprawnienia nauczyciela określone w tej ustawie.
+
+### 2.
+
+Nauczyciel mianowany, zatrudniony w urzędzie organu administracji państwowej na stanowisku wymagającym kwalifikacji pedagogicznych, ma prawo do wynagrodzenia przewidzianego w przepisach wydanych na podstawie art. 21 ust. 3 niniejszej ustawy, z tym że nie może być ono niższe niż przysługujące w myśl przepisów art. 30-32 ustawy, o której mowa w ust. 1.
+
+### 3.
+
+Rada Ministrów może określać kategorie urzędników państwowych, którzy korzystać będą z uprawnień szczególnych w zakresie płac i innych świadczeń przewidzianych w przepisach obowiązujących w dniu wejścia w życie ustawy.
+
+### Art. 54.
+
+Tracą moc dotychczasowe przepisy dotyczące praw i obowiązków pracowników urzędów państwowych, wydane na podstawie art. 298 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. Nr 24, poz. 141](https://api.sejm.gov.pl/eli/acts/DU/1974/141/text.html) i z [1975 r. Nr 16, poz. 91](https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html)).
+
+### Art. 55.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1983 r.

@@ -8,11 +8,9 @@ pos: 1200
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o charakterystyce energetycznej budynków
-
-*USTAWA z dnia 29 sierpnia 2014 r.*
+# Ustawa z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,463 +22,1084 @@ domain: null
 | Data ogłoszenia | 2014-08-29 |
 | Data wydania | 2014-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001200) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1200/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/1200/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/1200) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa:
+- [Treść ustawy](#part_1) [Rozdział 1](#chpt_1) [Rozdział 2 - Zasady sporządzania świadectw charakterystyki energetycznej](#chpt_2) [Rozdział 3 - Zasady kontroli systemu ogrzewania i systemu klimatyzacji w budynkach](#chpt_3) [Rozdział 4 - Zasady prowadzenia centralnego rejestru charakterystyki energetycznej budynków](#chpt_4) [Rozdział 5 - Krajowy plan działań mający na celu zwiększenie liczby budynków o niskim zużyciu energii](#chpt_5) [Rozdział 6 - Przepisy karne](#chpt_6) [Rozdział 7 - Przepisy zmieniające](#chpt_7)
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+TOC
 
-#### Rozdział 2 Zasady sporządzania świadectw charakterystyki energetycznej
+## Treść ustawy
 
-**Art. 3.**
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. - Prawo budowlane oraz ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.](#gloss-0:2:) Przepisy ogólne
 
-1. Właściciel lub zarządca budynku lub części budynku lub osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osoba, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla budynku lub części budynku:
+### Rozdział 1
 
-- **1)** zbywanego na podstawie umowy sprzedaży;
-- **2)** zbywanego na podstawie umowy sprzedaży spółdzielczego własnościowego prawa do lokalu;
-- **3)** wynajmowanego.
+### Art. 1.
 
-2. Właściciel lub zarządca budynku, którego powierzchnia użytkowa zajmowana przez organy wymiaru sprawiedliwości, prokuraturę oraz organy administracji publicznej przekracza 250 m i w których dokonywana jest obsługa interesantów, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla tego budynku.
+Ustawa określa:
 
-3. Kopię świadectwa charakterystyki energetycznej, które przekazano w postaci papierowej, albo wydruk świadectwa charakterystyki energetycznej, które przekazano w postaci elektronicznej, z wyłączeniem zaleceń zawartych w tym świadectwie, umieszcza się w widocznym miejscu w zajmowanych budynkach, o których mowa w ust. 2.
+### 1)
 
-4. Obowiązki, o których mowa w ust. 1 i 2, nie dotyczą budynku:
+zasady sporządzania świadectw charakterystyki energetycznej;
 
-- **1)** podlegającego ochronie na podstawie przepisów o ochronie zabytków i opiece nad zabytkami;
-- **2)** używanego jako miejsce kultu i do działalności religijnej;
-- **3)** przemysłowego oraz gospodarczego niewyposażonych w instalacje zużywające energię, z wyłączeniem instalacji oświetlenia wbudowanego;
-- **4)** mieszkalnego, przeznaczonego do użytkowania nie dłużej niż 4 miesiące w roku;
-- **5)** wolnostojącego o powierzchni użytkowej poniżej 50 m ;
-- **6)** gospodarstw rolnych o wskaźniku EP określającym roczne obliczeniowe zapotrzebowanie na nieodnawialną energię pierwotną nie wyższym niż 50 kWh/(m ∙rok).
+### 2)
 
-**Art. 4.**
+zasady kontroli systemu ogrzewania i systemu klimatyzacji w budynkach;
 
-1. Świadectwo charakterystyki energetycznej sporządza się na podstawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku, zgodnie z przepisami wydanymi na podstawie art. 15.
+### 3)
 
-2. Sporządzając świadectwo charakterystyki energetycznej, uwzględnia się parametry techniczne konstrukcji i instalacji budynku oraz parametry techniczne źródła ciepła zasilającego budynek lub część budynku.
+zasady prowadzenia centralnego rejestru charakterystyki energetycznej budynków;
 
-3. Świadectwo charakterystyki energetycznej sporządza się z wykorzystaniem systemu teleinformatycznego, w którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków.
+### 4)
 
-**Art. 5.** Osoba uprawniona do sporządzania świadectw charakterystyki energetycznej przekazuje świadectwo charakterystyki energetycznej zlecającemu sporządzenie tego świadectwa w postaci:
+sposób opracowania krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii.
 
-**Art. 6.** W przypadku gdy dla budynku lub części budynku został sporządzony projekt techniczny, świadectwo charakterystyki energetycznej tego budynku lub tej części budynku może być opracowane w oparciu o charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu technicznego w zakresie charakterystyki energetycznej budynku lub części budynku.
+### Art. 2.
 
-**Art. 7.**
+Ilekroć w ustawie jest mowa o:
 
-1. Świadectwo charakterystyki energetycznej budynku mieszkalnego jednorodzinnego, o którym mowa w art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, należącego do grupy budynków o jednakowych rozwiązaniach konstrukcyjno-materiałowych i instalacyjnych, o takim samym przeznaczeniu, stopniu zużycia, sposobie użytkowania oraz sposobie zaopatrzenia w energię, mających wpływ na ich charakterystykę energetyczną i stwierdzonych w szczególności na podstawie dokumentacji technicznej budynku albo inwentaryzacji techniczno-budowlanej, w przypadku braku dokumentacji technicznej budynku, może być opracowane w oparciu o wykonaną dla jednego z tych budynków charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu technicznego w zakresie charakterystyki energetycznej budynku, lub w oparciu o sporządzone dla jednego z tych budynków świadectwo charakterystyki energetycznej.
+### 1)
 
-2. Świadectwo charakterystyki energetycznej części budynku o jednakowych rozwiązaniach konstrukcyjno-materiałowych i instalacyjnych, o takim samym przeznaczeniu, stopniu zużycia, sposobie użytkowania oraz sposobie zaopatrzenia w energię, mających wpływ na ich charakterystykę energetyczną i stwierdzonych w szczególności na podstawie dokumentacji technicznej budynku albo inwentaryzacji techniczno-budowlanej, w przypadku braku dokumentacji technicznej budynku, może być opracowane w oparciu o wykonaną dla jednej z tych części charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu technicznego w zakresie charakterystyki energetycznej części budynku, lub w oparciu o sporządzone dla jednej z tych części świadectwo charakterystyki energetycznej.
+budynku - należy przez to rozumieć budynek w rozumieniu art. 3 pkt 2 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2013 r. poz. 1409](https://api.sejm.gov.pl/eli/acts/DU/2013/1409/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822 i 1133.](#gloss-0:3:));
 
-**Art. 8.** W przypadku gdy części budynku będące lokalami mieszkalnymi:
+### 2)
 
-**Art. 9.**
+części budynku - należy przez to rozumieć zespół pomieszczeń w budynku o jednakowym przeznaczeniu, przewidzianych do odrębnego użytkowania, w szczególności lokal mieszkalny lub lokal użytkowy w budynku;
 
-1. Świadectwo charakterystyki energetycznej części budynku może być opracowane na podstawie świadectwa charakterystyki energetycznej budynku, a w przypadku braku tego świadectwa, na podstawie dokumentacji technicznej budynku.
+### 3)
 
-2. Właściciel lub zarządca budynku jest obowiązany do nieodpłatnego przekazania kopii świadectwa charakterystyki energetycznej budynku, które przekazano w postaci papierowej, albo wydruku świadectwa charakterystyki energetycznej budynku, które przekazano w postaci elektronicznej, a w przypadku braku tego świadectwa, dokumentacji technicznej budynku, o której mowa w ust. 1, właścicielowi części budynku lub osobie, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osobie, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, w terminie nie dłuższym niż 14 dni od dnia złożenia przez nich wniosku.
+charakterystyce energetycznej - należy przez to rozumieć zbiór danych i wskaźników energetycznych budynku lub części budynku, określających całkowite zapotrzebowanie na energię niezbędną do ich użytkowania zgodnie z przeznaczeniem.
 
-**Art. 10.**
+### Rozdział 2 Zasady sporządzania świadectw charakterystyki energetycznej
 
-1. Świadectwo charakterystyki energetycznej zawiera:
+### Art. 3.
 
-- **1)** dane identyfikacyjne budynku lub części budynku;
-- **2)** charakterystykę energetyczną budynku lub części budynku;
-- **3)** zalecenia określające zakres i rodzaj robót budowlano-instalacyjnych, które poprawią charakterystykę energetyczną budynku lub części budynku;
-- **4)** oświadczenie osoby, która sporządziła świadectwo charakterystyki energetycznej, że dokument został wygenerowany z centralnego rejestru charakterystyki energetycznej budynków.
+### 1.
 
-2. Oświadczenie, o którym mowa w ust. 1 pkt 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy(a) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+Właściciel lub zarządca budynku lub części budynku lub osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osoba, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, lub najemca w przypadku, o którym mowa w art. 11 ust. 3, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla budynku lub części budynku:
 
-**Art. 11.**
+### 1)
 
-1. Właściciel lub zarządca budynku lub części budynku, osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osoba, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, przekazują odpowiednio nabywcy albo najemcy:
+zbywanego na podstawie umowy sprzedaży;
 
-- **1)** świadectwo charakterystyki energetycznej – przy sporządzeniu aktu notarialnego umowy zbycia prawa własności albo spółdzielczego własnościowego prawa do lokalu;
-- **2)** kopię świadectwa charakterystyki energetycznej, które przekazano w postaci papierowej, albo wydruk świadectwa charakterystyki energetycznej, które przekazano w postaci elektronicznej – przy zawarciu umowy najmu.
+### 2)
 
-2. (uchylony)
+zbywanego na podstawie umowy sprzedaży spółdzielczego własnościowego prawa do lokalu;
 
-3. (uchylony)
+### 3)
 
-4. Nabywca albo najemca nie mogą zrzec się prawa do otrzymania zgodnie z ust. 1 odpowiednio świadectwa charakterystyki energetycznej, jego kopii albo wydruku.
+wynajmowanego.
 
-5. W przypadku zawarcia umowy zbycia prawa własności części budynku albo spółdzielczego własnościowego prawa do lokalu albo umowy najmu części budynku przekazywane świadectwo charakterystyki energetycznej dotyczy części budynku albo lokalu będących przedmiotem umowy.
+### 2.
 
-6. Notariusz odnotowuje w akcie notarialnym przekazanie nabywcy świadectwa charakterystyki energetycznej zgodnie z ust. 1 pkt 1. W przypadku nieprzekazania nabywcy świadectwa charakterystyki energetycznej notariusz poucza podmiot obowiązany do jego przekazania zgodnie z ust. 1 pkt 1 o karze grzywny za niewykonanie tego obowiązku.
+Właściciel lub zarządca budynku, którego powierzchnia użytkowa zajmowana przez organy wymiaru sprawiedliwości, prokuraturę oraz organy administracji publicznej przekracza 250 m2 i w których dokonywana jest obsługa interesantów, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla tego budynku.
 
-**Art. 12.** Właściciel lub zarządca budynku o powierzchni użytkowej przekraczającej 500 m , w którym są świadczone usługi dla ludności, umieszcza w widocznym miejscu w tym budynku kopię świadectwa charakterystyki energetycznej, które przekazano w postaci papierowej, albo wydruk świadectwa charakterystyki energetycznej, które przekazano w postaci elektronicznej, z wyłączeniem zaleceń zawartych w tym świadectwie, o ile dla tego budynku zostało sporządzone świadectwo charakterystyki energetycznej.
+### 3.
 
-**Art. 13.** W przypadku gdy dla budynku lub części budynku zostało sporządzone świadectwo charakterystyki energetycznej, właściciel lub zarządca tego budynku lub tej części budynku, osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, albo podmiot działający na ich zlecenie podają w ogłoszeniu lub reklamie dotyczących zbycia lub najmu budynku lub jego części wskaźniki rocznego zapotrzebowania na energię użytkową, energię końcową i nieodnawialną energię pierwotną, udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową oraz jednostkową wielkość emisji CO , wyznaczone zgodnie z przepisami wydanymi na podstawie art. 15.
+Kopię świadectwa charakterystyki energetycznej, z wyłączeniem zaleceń zawartych w tym świadectwie, umieszcza się w widocznym miejscu w zajmowanych budynkach, o których mowa w ust. 2.
 
-**Art. 14.**
+### 4.
 
-1. Świadectwo charakterystyki energetycznej jest ważne przez 10 lat od dnia jego sporządzenia.
+Obowiązki, o których mowa w ust. 1 i 2, nie dotyczą budynku:
 
-2. Świadectwo charakterystyki energetycznej traci ważność przed upływem terminu, o którym mowa w ust. 1, jeżeli w wyniku przeprowadzonych robót budowlano-instalacyjnych uległa zmianie charakterystyka energetyczna budynku lub części budynku.
+### 1)
 
-**Art. 15.**
+podlegającego ochronie na podstawie przepisów o ochronie zabytków i opiece nad zabytkami;
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, metodologię wyznaczania charakterystyki energetycznej budynku lub części budynku, sposób sporządzania oraz wzory świadectw charakterystyki energetycznej.
+### 2)
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, wydając rozporządzenie, o którym mowa w ust. 1, uwzględni:
+używanego jako miejsce kultu i do działalności religijnej;
 
-- **1)** parametry techniczne konstrukcji budynku lub części budynku;
-- **2)** rodzaje systemów technicznych w budynku lub części budynku;
-- **3)** metodologię wyznaczania charakterystyki energetycznej opartej na standardowym sposobie użytkowania budynku lub części budynku;
-- **4)** metodologię wyznaczania charakterystyki energetycznej opartej na faktycznie zużytej ilości energii.
+### 3)
 
-**Art. 16.** Świadectwo charakterystyki energetycznej budynku lub części budynku nie może być sporządzane przez właściciela lub zarządcę tego budynku lub tej części budynku oraz osobę, której przysługuje w tym budynku lub w tej części budynku spółdzielcze własnościowe prawo do lokalu albo spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
+przemysłowego oraz gospodarczego niewyposażonych w instalacje zużywające energię, z wyłączeniem instalacji oświetlenia wbudowanego;
 
-**Art. 16a.** Świadectwo charakterystyki energetycznej sporządza osoba wpisana do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+### 4)
 
-**Art. 17.** Do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, może być wpisana, z uwzględnieniem art. 34, wyłącznie osoba, która:
+mieszkalnego, przeznaczonego do użytkowania nie dłużej niż 4 miesiące w roku;
 
-**Art. 18.**
+### 5)
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wpisuje osobę spełniającą wymagania, o których mowa w art. 17, na jej wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+wolnostojącego o powierzchni użytkowej poniżej 50 m2;
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### 6)
 
-- **1)** imię i nazwisko;
-- **2)** adres do korespondencji;
-- **3)** adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
+gospodarstw rolnych o wskaźniku EP określającym roczne obliczeniowe zapotrzebowanie na nieodnawialną energię pierwotną nie wyższym niż 50 kWh/(m2·rok).
 
-3. Do wniosku dołącza się:
+### Art. 4.
 
-- **1)** oświadczenia o:
-    - **a)** zgodności z prawdą danych zawartych we wniosku,
-    - **b)** posiadaniu pełnej zdolności do czynności prawnych,
-    - **c)** niekaralności za przestępstwa, o których mowa w art. 17 pkt 2;
+### 1.
 
-- **2)** kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 17 pkt 3 lub 4.
+Świadectwo charakterystyki energetycznej sporządza się na podstawie metodologii wyznaczania charakterystyki energetycznej budynku lub części budynku, zgodnie z przepisami wydanymi na podstawie art. 15.
 
-4. Oświadczenia, o których mowa w ust. 3 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenia jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+### 2.
 
-5. Po wpisaniu do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, osoba uprawniona otrzymuje link aktywacyjny na adres poczty elektronicznej wskazany we wniosku, o którym mowa w ust. 1, i uzyskuje dostęp do systemu teleinformatycznego, w którym jest prowadzony centralny rejestr charakterystyki energetycznej budynków.
+Sporządzając świadectwo charakterystyki energetycznej, uwzględnia się parametry techniczne konstrukcji i instalacji budynku oraz parametry techniczne źródła ciepła zasilającego budynek lub część budynku.
 
-6. W przypadku gdy we wniosku, o którym mowa w ust. 1, nie został wskazany adres poczty elektronicznej, organ informuje osobę wpisaną do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, o konieczności wskazania adresu poczty elektronicznej, na który zostanie przekazany link aktywacyjny.
+### 3.
 
-**Art. 19.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku gdy osoba wnioskująca nie spełnia wymagań, o których mowa w art. 17, odmawia, w drodze decyzji, wpisania tej osoby do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+Świadectwo charakterystyki energetycznej sporządza się z wykorzystaniem systemu teleinformatycznego, w którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków.
 
-**Art. 20.**
+### Art. 5.
 
-1. Osoba uprawniona do sporządzania świadectw charakterystyki energetycznej jest obowiązana do:
+Osoba uprawniona do sporządzania świadectw charakterystyki energetycznej przekazuje osobie lub podmiotowi, który zlecił jego wykonanie, świadectwo charakterystyki energetycznej w postaci papierowej, opatrzone numerem nadanym w centralnym rejestrze charakterystyki energetycznej budynków oraz podpisem osoby uprawnionej.
 
-- **1)** przechowywania sporządzonego świadectwa charakterystyki energetycznej przez okres 10 lat;
-- **2)** zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku ze sporządzaniem świadectwa charakterystyki energetycznej;
-- **3)** przechowywania dokumentów lub ich kopii i danych, na podstawie których zostało sporządzone świadectwo charakterystyki energetycznej, przez okres ważności tego świadectwa, a także do udostępniania tych dokumentów lub danych na żądanie ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku, o którym mowa w art. 36.
+### Art. 6.
 
-2. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1 pkt 2, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę rodzaj i zakres zadań realizowanych przez osobę sporządzającą świadectwo charakterystyki energetycznej.
+W przypadku gdy dla budynku lub części budynku został sporządzony projekt architektoniczno-budowlany, świadectwo charakterystyki energetycznej tego budynku lub tej części budynku może być opracowane w oparciu o charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu architektoniczno-budowlanego w zakresie charakterystyki energetycznej budynku lub części budynku.
 
-**Art. 21.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję o wykreśleniu osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 1, w przypadku:
+### Art. 7.
 
-**Art. 22.** O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, można ubiegać się:
+### 1.
 
-**Art. 22a.** W przypadku wydania przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ponownej decyzji w sprawie wykreślenia z wykazu, o którym mowa w art. 31 ust. 1 pkt 1, z przyczyny, o której mowa w art. 21 pkt 2 lub 3, nie można ubiegać się o ponowny wpis do tego wykazu.
+Świadectwo charakterystyki energetycznej budynku mieszkalnego jednorodzinnego, o którym mowa w art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, należącego do grupy budynków o jednakowych rozwiązaniach konstrukcyjno-materiałowych i instalacyjnych, o takim samym przeznaczeniu, stopniu zużycia, sposobie użytkowania oraz sposobie zaopatrzenia w energię, mających wpływ na ich charakterystykę energetyczną i stwierdzonych w szczególności na podstawie dokumentacji technicznej budynku albo inwentaryzacji techniczno-budowlanej, w przypadku braku dokumentacji technicznej budynku, może być opracowane w oparciu o wykonaną dla jednego z tych budynków charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu architektoniczno-budowlanego w zakresie charakterystyki energetycznej budynku, lub w oparciu o sporządzone dla jednego z tych budynków świadectwo charakterystyki energetycznej.
 
-#### Rozdział 3 Zasady kontroli systemu ogrzewania i systemu klimatyzacji w budynkach
+### 2.
 
-**Art. 23.**
+Świadectwo charakterystyki energetycznej części budynku o jednakowych rozwiązaniach konstrukcyjno-materiałowych i instalacyjnych, o takim samym przeznaczeniu, stopniu zużycia, sposobie użytkowania oraz sposobie zaopatrzenia w energię, mających wpływ na ich charakterystykę energetyczną i stwierdzonych w szczególności na podstawie dokumentacji technicznej budynku albo inwentaryzacji techniczno-budowlanej, w przypadku braku dokumentacji technicznej budynku, może być opracowane w oparciu o wykonaną dla jednej z tych części charakterystykę energetyczną, o której mowa w przepisach wydanych na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, przy uwzględnieniu ewentualnych odstępstw od projektu architektoniczno-budowlanego w zakresie charakterystyki energetycznej części budynku, lub w oparciu o sporządzone dla jednej z tych części świadectwo charakterystyki energetycznej.
 
-1. Właściciel lub zarządca budynku poddaje budynki w czasie ich użytkowania okresowej kontroli w zakresie systemu ogrzewania lub systemu klimatyzacji, polegającej na:
+### Art. 8.
 
-- **1)** sprawdzeniu stanu technicznego systemu ogrzewania, z uwzględnieniem efektywności energetycznej źródeł ciepła oraz dostosowania ich mocy do potrzeb użytkowych:
-    - **a)** co najmniej raz na 5 lat – dla kotłów o nominalnej mocy cieplnej od 20 kW do 100 kW,
-    - **b)** co najmniej raz na 2 lata – dla kotłów opalanych paliwem ciekłym lub stałym o nominalnej mocy cieplnej większej niż 100 kW,
-    - **c)** co najmniej raz na 4 lata – dla kotłów opalanych gazem o nominalnej mocy cieplnej większej niż 100 kW,
-    - **d)** co najmniej raz na 3 lata – dla źródeł ciepła niewymienionych w lit. a–c, dostępnych części systemu ogrzewania lub połączonego systemu ogrzewania i wentylacji, o sumarycznej nominalnej mocy cieplnej większej niż 70 kW;
+W przypadku gdy części budynku będące lokalami mieszkalnymi:
 
-- **2)** ocenie efektywności energetycznej, co najmniej raz na 5 lat:
-    - **a)** dostępnych części systemu klimatyzacji o nominalnej mocy chłodniczej większej niż 12 kW,
-    - **b)** połączonego systemu klimatyzacji i wentylacji o sumarycznej nominalnej mocy chłodniczej większej niż 70 kW.
+### 1)
 
-2. Kontrola systemu ogrzewania obejmuje ocenę sprawności tego systemu i doboru wielkości źródła ciepła do wymogów grzewczych budynku oraz zdolności systemu ogrzewania do optymalizacji działania.
+spełniają wymagania określone w art. 7 ust. 2,
 
-3. Nie dokonuje się ponownej kontroli w zakresie oceny doboru wielkości źródła ciepła, w przypadku gdy od czasu przeprowadzenia takiej kontroli nie dokonano zmian w systemie ogrzewania lub połączonym systemie ogrzewania i wentylacji lub zmian w charakterystyce energetycznej budynku.
+### 2)
 
-4. Kontrola systemu klimatyzacji obejmuje ocenę sprawności tego systemu i doboru jego wielkości do wymogów chłodzenia budynku oraz zdolności systemu klimatyzacji do optymalizacji działania w typowych warunkach jego użytkowania lub eksploatacji.
+mają jednakową powierzchnię użytkową,
 
-5. Nie dokonuje się ponownej kontroli w zakresie oceny doboru wielkości systemu klimatyzacji, w przypadku gdy od czasu przeprowadzenia takiej kontroli nie dokonano zmian w systemie klimatyzacji lub połączonym systemie klimatyzacji i wentylacji lub zmian w charakterystyce energetycznej budynku.
+### 3)
 
-6. Nie dokonuje się kontroli systemu ogrzewania oraz systemu klimatyzacji w budynkach:
+są położone w bryle budynku w sposób pozwalający na przyjęcie jednakowych charakterystycznych parametrów technicznych w zakresie ich powierzchni użytkowej, powierzchni przegród zewnętrznych oraz kubatury
 
-- **1)** mieszkalnych wyposażonych w systemy automatyki i sterowania umożliwiające:
-    - **a)** stałe monitorowanie elektroniczne dokonujące pomiarów sprawności systemu ogrzewania, połączonego systemu ogrzewania i wentylacji, systemu klimatyzacji lub połączonego systemu klimatyzacji i wentylacji i informujące właścicieli lub zarządców budynków o spadku sprawności tych systemów i potrzebie ich konserwacji, naprawy lub wymiany oraz
-    - **b)** skuteczne sterowanie w celu zapewnienia optymalnego wytwarzania, dystrybucji, magazynowania i wykorzystywania energii;
+- możliwe jest sporządzenie świadectwa charakterystyki energetycznej dla grupy tych lokali, w liczbie egzemplarzy odpowiadającej liczbie tych lokali.
 
-- **2)** niemieszkalnych wyposażonych w systemy automatyki i sterowania umożliwiające:
-    - **a)** stałe monitorowanie, rejestrowanie, analizowanie i dostosowywanie zużycia energii oraz
-    - **b)** analizę porównawczą efektywności energetycznej budynku, wykrywanie utraty efektywności systemów: ogrzewania, wentylacji, klimatyzacji, przygotowania ciepłej wody użytkowej, oświetlenia wbudowanego, automatyki i sterowania, wytwarzania energii elektrycznej w budynku, a także informowanie właściciela lub zarządcy budynku o możliwościach poprawy efektywności energetycznej, oraz
-    - **c)** komunikację, a także interoperacyjność z połączonymi systemami, o których mowa w lit. b;
+### Art. 9.
 
-- **3)** wyposażonych w systemy techniczne, o których mowa w pkt 2 lit. b: 7 ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 2166 oraz z 2023 r. poz. 1681),
-    - **a)** objęte umową o poprawę efektywności energetycznej, o której mowa w art.
-    - **b)** obsługiwane przez operatora urządzeń lub sieci, podlegające monitorowaniu wyników przez tego operatora.
+### 1.
 
-**Art. 24.**
+Świadectwo charakterystyki energetycznej części budynku może być opracowane na podstawie świadectwa charakterystyki energetycznej budynku, a w przypadku braku tego świadectwa, na podstawie dokumentacji technicznej budynku.
 
-1. Do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, może zostać wpisana, z uwzględnieniem art. 34, wyłącznie osoba, która posiada:
+### 2.
 
-- **1)** uprawnienia budowlane w specjalności instalacyjnej lub
-- **2)** kwalifikacje wymagane przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych.
+Właściciel lub zarządca budynku jest obowiązany do nieodpłatnego przekazania kopii świadectwa charakterystyki energetycznej budynku, a w przypadku braku tego świadectwa, dokumentacji technicznej budynku, o której mowa w ust. 1, właścicielowi części budynku lub osobie, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osobie, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a także najemcy w przypadku, o którym mowa w art. 11 ust. 3, w terminie nie dłuższym niż 14 dni od dnia złożenia przez niego wniosku.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wpisuje osobę spełniającą wymagania, o których mowa w ust. 1, na jej wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+### Art. 10.
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+Świadectwo charakterystyki energetycznej zawiera:
 
-- **1)** imię i nazwisko;
-- **2)** adres do korespondencji;
-- **3)** adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
+### 1)
 
-4. Do wniosku dołącza się:
+dane identyfikacyjne budynku lub części budynku;
 
-- **1)** oświadczenie o zgodności z prawdą danych zawartych we wniosku;
-- **2)** kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w ust. 1.
+### 2)
 
-5. Oświadczenie, o którym mowa w ust. 4 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+charakterystykę energetyczną budynku lub części budynku;
 
-6. Po wpisaniu do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, osoba uprawniona otrzymuje link aktywacyjny na adres poczty elektronicznej wskazany we wniosku, o którym mowa w ust. 2, i uzyskuje dostęp do systemu teleinformatycznego, w którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków.
+### 3)
 
-7. W przypadku gdy we wniosku, o którym mowa w ust. 2, nie został wskazany adres poczty elektronicznej, organ informuje osobę wpisaną do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, o konieczności wskazania adresu poczty elektronicznej, na który zostanie przekazany link aktywacyjny.
+zalecenia określające zakres i rodzaj robót budowlano-instalacyjnych, które poprawią charakterystykę energetyczną budynku lub części budynku.
 
-8. Kontroli systemu ogrzewania i systemu klimatyzacji w budynku dokonuje osoba wpisana do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+### Art. 11.
 
-**Art. 25.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku gdy osoba wnioskująca nie spełnia wymagań, o których mowa w art. 24 ust. 1, odmawia, w drodze decyzji, wpisania tej osoby do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+### 1.
 
-**Art. 26.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję w sprawie wykreślenia osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 2, w przypadku stwierdzenia:
+Właściciel lub zarządca budynku lub części budynku lub osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, lub osoba, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, przekazuje odpowiednio nabywcy albo najemcy:
 
-**Art. 27.** O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, można ubiegać się:
+### 1)
 
-**Art. 27a.** W przypadku wydania przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa ponownej decyzji w sprawie wykreślenia z wykazu z przyczyny, o której mowa w art. 26 pkt 1 lub 5, nie można ubiegać się o ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+świadectwo charakterystyki energetycznej - przy zawarciu umowy sprzedaży albo zbycia spółdzielczego własnościowego prawa do lokalu;
 
-**Art. 28.**
+### 2)
 
-1. Z przeprowadzonej kontroli systemu ogrzewania lub systemu klimatyzacji sporządza się protokoły.
+kopię świadectwa charakterystyki energetycznej - przy zawarciu umowy najmu.
 
-2. Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządza się z wykorzystaniem systemu teleinformatycznego, w którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków.
+### 2.
 
-3. Osoba przeprowadzająca kontrolę systemu ogrzewania lub systemu klimatyzacji przekazuje zlecającemu przeprowadzenie kontroli protokół w postaci:
+W przypadku gdy zbywca albo wynajmujący nie wywiąże się z obowiązku, o którym mowa w ust. 1, nabywca albo najemca może, w terminie 14 dni od dnia zawarcia umowy przeniesienia własności albo umowy najmu, wezwać pisemnie zbywcę lub wynajmującego do wywiązania się z tego obowiązku w terminie 2 miesięcy od dnia doręczenia wezwania.
 
-- **1)** papierowej, opatrzony numerem nadanym w centralnym rejestrze charakterystyki energetycznej budynków oraz podpisem osobistym osoby przeprowadzającej kontrolę, lub
-- **2)** elektronicznej, opatrzony numerem nadanym w centralnym rejestrze charakterystyki energetycznej budynków oraz kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym osoby przeprowadzającej kontrolę.
+### 3.
 
-4. (uchylony)
+W przypadku gdy świadectwo charakterystyki energetycznej albo jego kopia nie zostaną przekazane w terminie 2 miesięcy od dnia doręczenia wezwania, o którym mowa w ust. 2, nabywca albo najemca może, w terminie nie dłuższym niż 6 miesięcy w przypadku umowy najmu oraz 12 miesięcy w przypadku umowy sprzedaży albo zbycia spółdzielczego własnościowego prawa do lokalu, licząc od dnia zawarcia umowy, zlecić sporządzenie świadectwa charakterystyki energetycznej na koszt zbywcy albo wynajmującego.
 
-**Art. 29.**
+### 4.
 
-1. Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji zawierają:
+Nabywca albo najemca nie mogą zrzec się prawa, o którym mowa w ust. 2.
 
-- **1)** dane identyfikacyjne budynku;
-- **2)** dane identyfikacyjne systemu;
-- **3)** ocenę sprawności systemu;
-- **4)** zalecenia określające zakres i rodzaj robót budowlano-instalacyjnych, które poprawią efektywność energetyczną systemu;
-- **5)** oświadczenie osoby, która sporządziła protokół z kontroli systemu ogrzewania lub systemu klimatyzacji, że dokument został wygenerowany z centralnego rejestru charakterystyki energetycznej budynków.
+### Art. 12.
 
-1a. Oświadczenie, o którym mowa w ust. 1 pkt 5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy(a) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+Właściciel lub zarządca budynku o powierzchni użytkowej przekraczającej 500 m2, w którym są świadczone usługi dla ludności, jest obowiązany umieścić kopię świadectwa charakterystyki energetycznej w widocznym miejscu w tym budynku, z wyłączeniem zaleceń, o których mowa w art. 10 pkt 3, o ile dla tego budynku zostało sporządzone świadectwo charakterystyki energetycznej.
 
-2. Właściciel lub zarządca budynku jest obowiązany do przechowywania protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji przez okres użytkowania budynku.
+### Art. 13.
 
-**Art. 30.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, wzory protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, mając na uwadze zapewnienie poprawności i jednolitości tych protokołów.
+W przypadku gdy dla budynku lub części budynku zostało sporządzone świadectwo charakterystyki energetycznej, właściciel lub zarządca tego budynku lub tej części budynku, osoba, której przysługuje spółdzielcze własnościowe prawo do lokalu, albo podmiot działający na ich zlecenie podają w reklamie dotyczącej sprzedaży lub najmu budynku lub jego części wskaźnik rocznego zapotrzebowania na energię końcową, wyznaczony zgodnie z przepisami wydanymi na podstawie art. 15.
 
-#### Rozdział 4 Zasady prowadzenia centralnego rejestru charakterystyki energetycznej budynków
+### Art. 14.
 
-**Art. 31.**
+### 1.
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi centralny rejestr charakterystyki energetycznej budynków, który obejmuje wykazy:
+Świadectwo charakterystyki energetycznej jest ważne przez 10 lat od dnia jego sporządzenia.
 
-- **1)** osób uprawnionych do sporządzania świadectw charakterystyki energetycznej;
-- **2)** osób uprawnionych do kontroli systemu ogrzewania lub systemu klimatyzacji;
-- **3)** świadectw charakterystyki energetycznej;
-- **4)** protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji;
-- **5)** budynków, o których mowa w art. 3 ust. 2.
+### 2.
 
-2. Centralny rejestr charakterystyki energetycznej budynków jest prowadzony z wykorzystaniem systemu teleinformatycznego, zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703).
+Świadectwo charakterystyki energetycznej traci ważność przed upływem terminu, o którym mowa w ust. 1, jeżeli w wyniku przeprowadzonych robót budowlano-instalacyjnych uległa zmianie charakterystyka energetyczna budynku lub części budynku.
 
-3. Wykazy, o których mowa w ust. 1 pkt 1–3 i 5, udostępnia się za pośrednictwem Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+### Art. 15.
 
-**Art. 32.**
+### 1.
 
-1. Wykazy, o których mowa w art. 31 ust. 1 pkt 1 i 2, zwane dalej „wykazami osób uprawnionych”, zawierają:
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, metodologię wyznaczania charakterystyki energetycznej budynku lub części budynku, sposób sporządzania oraz wzory świadectw charakterystyki energetycznej.
 
-- **1)** imię i nazwisko;
-- **2)** w przypadku posiadania uprawnień budowlanych, ich numer;
-- **3)** numer wpisu;
-- **4)** datę wpisu.
+### 2.
 
-2. Wykaz, o którym mowa w art. 31 ust. 1 pkt 3, zawiera:
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, wydając rozporządzenie, o którym mowa w ust. 1, uwzględni:
 
-- **1)** numer świadectwa charakterystyki energetycznej budynku lub części budynku;
-- **2)** adres budynku lub części budynku;
-- **3)** datę wystawienia świadectwa charakterystyki energetycznej budynku lub części budynku;
-- **4)** termin ważności świadectwa charakterystyki energetycznej budynku lub części budynku;
-- **5)** wskaźnik rocznego zapotrzebowania na energię użytkową budynku lub części budynku;
-- **6)** wskaźnik rocznego zapotrzebowania na energię końcową budynku lub części budynku;
-- **7)** wskaźnik rocznego zapotrzebowania na nieodnawialną energię pierwotną budynku lub części budynku;
-- **8)** udział odnawialnych źródeł energii w rocznym zapotrzebowaniu na energię końcową;
-- **9)** jednostkową wielkość emisji CO .
+### 1)
 
-**Art. 33.**
+parametry techniczne konstrukcji budynku lub części budynku;
 
-1. Osoba wpisana do wykazów osób uprawnionych informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o zmianach:
+### 2)
 
-- **1)** dotyczących spełnienia wymagań, o których mowa odpowiednio w art. 17 i art. 24 ust. 1,
-- **2)** danych, o których mowa odpowiednio w art. 18 ust. 2 oraz art. 24 ust. 3 – w terminie 14 dni od dnia ich zaistnienia.
+rodzaje systemów technicznych w budynku lub części budynku;
 
-2. W przypadku zmian:
+### 3)
 
-- **1)** dotyczących spełnienia wymagań, o których mowa odpowiednio w art. 17 i art. 24 ust. 1,
-- **2)** danych, o których mowa odpowiednio w art. 18 ust. 2 pkt 1 i art. 24 ust. 3 pkt 1 – osoba wpisana do wykazów osób uprawnionych jest obowiązana do przekazania kopii dokumentów potwierdzających zaistniałą zmianę.
+metodologię wyznaczania charakterystyki energetycznej opartej na standardowym sposobie użytkowania budynku lub części budynku;
 
-**Art. 34.**
+### 4)
 
-1. Do wykazów osób uprawnionych wpisuje się także osoby świadczące na terytorium Rzeczypospolitej Polskiej usługi transgraniczne, które są uprawnione do sporządzania świadectw charakterystyki energetycznej lub do kontroli systemu ogrzewania lub systemu klimatyzacji w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym oraz państwie, które zawarło z Unią Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, na ich wniosek.
+metodologię wyznaczania charakterystyki energetycznej opartej na faktycznie zużytej ilości energii.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### Art. 16.
 
-- **1)** imię i nazwisko;
-- **2)** adres do korespondencji;
-- **3)** adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
+Świadectwo charakterystyki energetycznej budynku lub części budynku nie może być sporządzane przez właściciela lub zarządcę tego budynku lub tej części budynku oraz osobę, której przysługuje w tym budynku lub w tej części budynku spółdzielcze własnościowe prawo do lokalu albo spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
 
-3. Do wniosku dołącza się:
+### Art. 17.
 
-- **1)** zaświadczenie o wpisie na listę lub do wykazu osób uprawnionych do sporządzania świadectw charakterystyki energetycznej lub do kontroli systemu ogrzewania lub systemu klimatyzacji, prowadzonych w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym oraz państwie, które zawarło z Unią Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług;
-- **2)** oświadczenie o zgodności z prawdą danych zawartych we wniosku.
+Świadectwo charakterystyki energetycznej sporządza osoba, która:
 
-4. Przepisy art. 33 stosuje się odpowiednio.
+### 1)
 
-5. Po wpisaniu do wykazu, o którym mowa w art. 31 ust. 1 pkt 1 lub 2, osoba uprawniona otrzymuje link aktywacyjny na adres poczty elektronicznej wskazany we wniosku, o którym mowa w ust. 1, i uzyskuje dostęp do systemu teleinformatycznego, w którym jest prowadzony centralny rejestr charakterystyki energetycznej budynków.
+posiada pełną zdolność do czynności prawnych;
 
-6. W przypadku gdy we wniosku, o którym mowa w ust. 1, nie został wskazany adres poczty elektronicznej, organ informuje osobę wpisaną do wykazu, o którym mowa w art. 31 ust. 1 pkt 1 albo 2, o konieczności wskazania adresu poczty elektronicznej, na który zostanie przekazany link aktywacyjny.
+### 2)
 
-**Art. 35.** Świadectwa charakterystyki energetycznej i protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji zawarte w wykazach, o których mowa w art. 31 ust. 1 pkt 3 i 4, są zapisywane automatycznie po ich wygenerowaniu w systemie teleinformatycznym, w którym jest prowadzony centralny rejestr charakterystyki energetycznej budynków, przez osobę, która je sporządziła.
+nie była skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
 
-**Art. 36.**
+### 3)
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, przy użyciu systemu teleinformatycznego, w którym jest prowadzony centralny rejestr charakterystyki energetycznej budynków, dokonuje weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, pod kątem prawidłowości i rzetelności ich sporządzenia oraz biorąc pod uwagę przepisy techniczno-budowlane oraz zasady wiedzy technicznej.
+ukończyła:
 
-2. Weryfikacji, o której mowa w ust. 1, dokonuje się z urzędu lub na wniosek:
+### a)
 
-- **1)** właściciela lub zarządcy budynku lub części budynku, osoby, której przysługuje spółdzielcze własnościowe prawo do lokalu, osoby, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, podmiotu, który zlecił sporządzenie świadectwa charakterystyki energetycznej, lub podmiotu, który je otrzymał w związku ze zbyciem lub najmem budynku lub części budynku – w przypadku świadectw charakterystyki energetycznej;
-- **2)** właściciela lub zarządcy budynku – w przypadku protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji.
+studia wyższe zakończone uzyskaniem tytułu zawodowego inżyniera, inżyniera architekta, inżyniera architekta krajobrazu, inżyniera pożarnictwa, magistra inżyniera architekta, magistra inżyniera architekta krajobrazu, magistra inżyniera pożarnictwa albo magistra inżyniera, albo
 
-3. Dokonanie weryfikacji, o której mowa w ust. 1, na wniosek, następuje po stwierdzeniu nieprawidłowości w tych dokumentach przez osoby lub podmioty, o których mowa w ust. 2.
+### b)
 
-**Art. 37.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób dokonywania i szczegółowy zakres weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, mając na uwadze zapewnienie skuteczności tej weryfikacji oraz uwzględniając wymagania w zakresie prawidłowego sporządzenia tych świadectw lub protokołów.
+studia wyższe inne niż wymienione w lit. a oraz studia podyplomowe, których program uwzględnia zagadnienia związane z charakterystyką energetyczną budynków, wykonywaniem audytów energetycznych budynków, budownictwem energooszczędnym i odnawialnymi źródłami energii,
 
-**Art. 38.**
+lub
 
-1. Wykaz, o którym mowa w art. 31 ust. 1 pkt 5, zawiera:
+### 4)
 
-- **1)** określenie organu zajmującego budynek;
-- **2)** powierzchnię użytkową budynku zajmowaną przez ten organ;
-- **3)** charakterystykę energetyczną budynku.
+posiada uprawnienia budowlane, o których mowa w art. 14 ust. 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane.
 
-2. Wykaz, o którym mowa w art. 31 ust. 1 pkt 5, nie obejmuje budynków zajmowanych przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Policję, Straż Graniczną, Służbę Więzienną, Służbę Ochrony Państwa, organy Krajowej Administracji Skarbowej oraz Siły Zbrojne Rzeczypospolitej Polskiej.
+### Art. 18.
 
-**Art. 38a.**
+### 1.
 
-1. W przypadku przetwarzania danych osobowych przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w celu realizacji zadań określonych w ustawie prawo, o którym mowa w art. 15 ust. 1 lit. g rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), przysługuje w zakresie, w jakim nie wpływa na ochronę praw i wolności osoby, od której dane pozyskano.
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wpisuje osobę spełniającą wymagania, o których mowa w art. 17, na jej wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa informuje o ograniczeniu, o którym mowa w ust. 1, przy pierwszej czynności skierowanej do osoby, której dane dotyczą.
+### 2.
 
-3. W przypadku gdy okres przechowywania danych osobowych, o których mowa w ust. 1, nie wynika z przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przechowuje dane przez okres ustalony zgodnie z przepisami wydanymi na podstawie art. 6 ust. 2 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach.
+Wniosek, o którym mowa w ust. 1, zawiera:
 
-4. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu polegającym co najmniej na:
+### 1)
 
-- **1)** dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w poufności.
+imię i nazwisko;
 
-**Art. 38b.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), przez osobę, której dane są przetwarzane w związku z realizacją przez ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zadań w zakresie:
+### 2)
 
-#### Rozdział 5 Krajowy plan działań mający na celu zwiększenie liczby budynków o niskim zużyciu energii
+adres do korespondencji;
 
-**Art. 39.**
+### 3)
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa opracowuje projekt krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii, zwanego dalej „krajowym planem działań”.
+adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
 
-2. Krajowy plan działań zawiera w szczególności:
+### 3.
 
-- **1)** definicję budynków o niskim zużyciu energii oraz ich szczegółowe cechy;
-- **2)** działania administracji rządowej podejmowane w celu promowania budynków o niskim zużyciu energii, w tym w zakresie projektowania, budowy i przebudowy budynków w sposób zapewniający ich energooszczędność, oraz zwiększenia pozyskania energii ze źródeł odnawialnych w nowych oraz istniejących budynkach;
-- **3)** harmonogram osiągania celów, o których mowa w pkt 2.
+Do wniosku dołącza się:
 
-3. Krajowy plan działań przyjmuje, w drodze uchwały, Rada Ministrów.
+### 1)
 
-4. W terminie 14 dni od dnia przyjęcia krajowego planu działań przez Radę Ministrów, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje ten plan Komisji Europejskiej.
+oświadczenia o:
 
-**Art. 39a.**
+### a)
 
-1. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa opracowuje projekt długoterminowej strategii renowacji budynków służącej wspieraniu renowacji krajowych zasobów budynków mieszkalnych i niemieszkalnych, zarówno publicznych, jak i prywatnych, zwanej dalej „strategią”.
+zgodności z prawdą danych zawartych we wniosku,
 
-2. Strategia zawiera w szczególności:
+### b)
 
-- **1)** przegląd krajowych zasobów budynków;
-- **2)** wskazanie opłacalnych sposobów renowacji budynków wraz z oszacowaniem spodziewanych oszczędności energii oraz innych korzyści w zakresie zdrowia i bezpieczeństwa ludzi oraz jakości powietrza;
-- **3)** wskazanie barier i niedoskonałości rynkowych ograniczających renowację budynków;
-- **4)** określenie polityk i środków wspierających renowację budynków;
-- **5)** wskazanie źródeł finansowania renowacji budynków;
-- **6)** możliwości wsparcia inteligentnych technologii oraz budynków i społeczności korzystających z dobrej łączności;
-- **7)** wykaz umiejętności i kształcenia w sektorze budownictwa i efektywności energetycznej;
-- **8)** rekomendowany scenariusz renowacji zawierający plan działań do 2050 r.
+posiadaniu pełnej zdolności do czynności prawnych,
 
-3. Strategię przyjmuje, w drodze uchwały, Rada Ministrów.
+### c)
 
-4. Strategia stanowi załącznik do zintegrowanego krajowego planu w dziedzinie energii i klimatu, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. w sprawie zarządzania unią energetyczną i działaniami w dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm. ).
+niekaralności za przestępstwa, o których mowa w art. 17 pkt 2;
 
-5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje ministrowi właściwemu do spraw energii niezbędne informacje w zakresie swojej właściwości w celu aktualizacji zintegrowanego krajowego planu w dziedzinie energii i klimatu oraz sporządzania sprawozdania z realizacji tego planu.
+### 2)
 
-**Art. 40.** Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi kampanię informacyjną służącą poprawie charakterystyki energetycznej budynków.
+kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w art. 17 pkt 3 lub 4.
 
-#### Rozdział 6 Przepisy karne
+### 4.
 
-**Art. 41.**
+Oświadczenia, o których mowa w ust. 3 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenia jest obowiązany do zawarcia w nich klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
 
-1. Kto:
+### 5.
 
-- **1)** sporządza świadectwo charakterystyki energetycznej, nie spełniając wymagań, o których mowa w art. 17, lub nie będąc wpisanym do wykazu, o którym mowa w art. 31 ust. 1 pkt 1,
-- **2)** sporządza i przekazuje jako świadectwo charakterystyki energetycznej dokument sporządzony niezgodnie z art. 4 ust. 3,
-- **3)** nie wykonuje obowiązku, o którym mowa w art. 11 ust. 1,
-- **4)** nie wykonuje obowiązku, o którym mowa w art. 20 ust. 1 pkt 2 lub 3,
-- **5)** nie wykonuje obowiązku, o którym mowa w art. 23 ust. 1,
-- **6)** dokonuje kontroli systemu ogrzewania lub systemu klimatyzacji, nie spełniając wymagań, o których mowa w art. 24 ust. 1, lub nie będąc wpisanym do wykazu, o którym mowa w art. 31 ust. 1 pkt 2,
-- **7)** sporządza i przekazuje jako protokół z kontroli systemu ogrzewania lub systemu klimatyzacji dokument sporządzony niezgodnie z art. 28 ust. 2 – podlega karze grzywny.
+Po wpisaniu do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, osoba uprawniona uzyskuje dostęp do systemu teleinformatycznego, w którym prowadzony jest ten wykaz.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1 pkt 3 lub 5, działając w imieniu osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+### Art. 19.
 
-**Art. 42.** Orzekanie w sprawach, o których mowa w art. 41, następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku gdy osoba wnioskująca nie spełnia wymagań, o których mowa w art. 17, odmawia, w drodze decyzji, wpisania tej osoby do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
 
-#### Rozdział 7 Przepisy zmieniające
+### Art. 20.
 
-**Art. 43.** (pominięty)
+### 1.
 
-**Art. 44.** (pominięty)
+Osoba uprawniona do sporządzania świadectw charakterystyki energetycznej jest obowiązana do:
 
-**Art. 45.** Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy, przedstawi Radzie Ministrów projekt krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii, o którym mowa w art. 39 ust. 1.
+### 1)
 
-**Art. 46.** Właściciele lub zarządcy budynków, określonych w art. 3 ust. 2, dla których zostało sporządzone świadectwo charakterystyki energetycznej na podstawie przepisów dotychczasowych, są obowiązani do przekazania ministrowi właściwemu do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa kopii świadectwa charakterystyki energetycznej w terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy.
+przechowywania sporządzonego świadectwa charakterystyki energetycznej przez okres 10 lat;
 
-**Art. 47.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy związanych z przekazywaniem i sporządzaniem świadectwa charakterystyki energetycznej stosuje się przepisy dotychczasowe.
+### 2)
 
-**Art. 48.** Świadectwa charakterystyki energetycznej wydane na podstawie ustawy zmienianej w art. 43 zachowują ważność przez okres, na jaki zostały wydane.
+zawarcia umowy ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku ze sporządzaniem świadectwa charakterystyki energetycznej;
 
-**Art. 49.**
+### 3)
 
-1. Osoby posiadające uprawnienia do sporządzania świadectw charakterystyki energetycznej budynków, lokali mieszkalnych lub części budynków stanowiących samodzielną całość techniczno-użytkową uzyskane przed dniem wejścia w życie niniejszej ustawy, na podstawie przepisów ustawy zmienianej w art. 43 , zachowują te uprawnienia.
+przechowywania dokumentów lub ich kopii i danych, na podstawie których zostało sporządzone świadectwo charakterystyki energetycznej, przez okres ważności tego świadectwa, a także do udostępniania tych dokumentów lub danych na żądanie ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku, o którym mowa w art. 36.
 
-2. Osoby, o których mowa w ust. 1, niewpisane do rejestru, o którym mowa w art. 5 ust. 14 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, wpisują się, na swój wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+### 2.
 
-3. Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnienie wymagań niezbędnych do sporządzania świadectw charakterystyki energetycznej budynków, lokali mieszkalnych lub części budynków stanowiących samodzielną całość techniczno-użytkową, określonych w ustawie zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa w ust. 1 pkt 2, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę rodzaj i zakres zadań realizowanych przez osobę sporządzającą świadectwo charakterystyki energetycznej.
 
-4. Osoby, o których mowa w ust. 1, wpisane do rejestru, o którym mowa w art. 5 ust. 14 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, wpisuje z urzędu do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+### Art. 21.
 
-**Art. 50.**
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję o wykreśleniu osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 1, w przypadku:
 
-1. Osoby spełniające przed dniem wejścia w życie ustawy wymagania niezbędne do przeprowadzania kontroli, o której mowa w art. 62 ust. 1 pkt 5 i 6 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, wykonują kontrole systemu ogrzewania lub systemu klimatyzacji i wpisują się, na swój wniosek, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+### 1)
 
-2. Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające spełnienie wymagań niezbędnych do kontroli, o której mowa w art. 62 ust. 1 pkt 5 i 6 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+stwierdzenia:
 
-**Art. 51.** (pominięty)
+### a)
 
-**Art. 52.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia , z wyjątkiem art. 39 i art. 45, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+ograniczenia lub utraty zdolności do czynności prawnych osoby uprawnionej,
 
+### b)
+
+nieprzestrzegania zakazu, o którym mowa w art. 16, przez osobę uprawnioną,
+
+### c)
+
+skazania osoby uprawnionej prawomocnym wyrokiem za popełnienie przestępstwa, o którym mowa w art. 17 pkt 2,
+
+### d)
+
+orzeczenia wobec osoby uprawnionej zakazu wykonywania samodzielnej funkcji technicznej w budownictwie albo utraty uprawnień do pełnienia samodzielnej funkcji technicznej w budownictwie przez osobę uprawnioną, w przypadku gdy osoba ta spełnia wyłącznie wymagania określone w art. 17 pkt 1, 2 i 4;
+
+### 2)
+
+gdy na podstawie weryfikacji, o której mowa w art. 36, stwierdzi rażące i oczywiste błędy w sporządzonym przez osobę uprawnioną świadectwie.
+
+### Art. 22.
+
+O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 1, można ubiegać się:
+
+### 1)
+
+po upływie 24 miesięcy od dnia, w którym decyzja w sprawie wykreślenia z wykazu, z przyczyn, o których mowa w art. 21 pkt 1 lit. b i pkt 2, stała się ostateczna;
+
+### 2)
+
+od dnia ustania przyczyn wykreślenia z wykazu, o których mowa w art. 21 pkt 1 lit. a, c i d.
+
+### Rozdział 3 Zasady kontroli systemu ogrzewania i systemu klimatyzacji w budynkach
+
+### Art. 23.
+
+### 1.
+
+Właściciel lub zarządca budynku jest obowiązany poddać budynki w czasie ich użytkowania kontroli:
+
+### 1)
+
+okresowej, polegającej na sprawdzeniu stanu technicznego systemu ogrzewania, z uwzględnieniem efektywności energetycznej kotłów oraz dostosowania ich mocy do potrzeb użytkowych:
+
+### a)
+
+co najmniej raz na 5 lat - dla kotłów o nominalnej mocy cieplnej od 20 kW do 100 kW,
+
+### b)
+
+co najmniej raz na 2 lata - dla kotłów opalanych paliwem ciekłym lub stałym o nominalnej mocy cieplnej ponad 100 kW,
+
+### c)
+
+co najmniej raz na 4 lata - dla kotłów opalanych gazem o nominalnej mocy cieplnej ponad 100 kW;
+
+### 2)
+
+okresowej, co najmniej raz na 5 lat, polegającej na ocenie efektywności energetycznej zastosowanych urządzeń chłodniczych o mocy chłodniczej nominalnej większej niż 12 kW.
+
+### 2.
+
+Kontrole systemu ogrzewania lub systemu klimatyzacji obejmują ocenę sprawności tych systemów oraz ich dostosowania do potrzeb użytkowych budynku.
+
+### 3.
+
+Nie dokonuje się kontroli systemu ogrzewania lub systemu klimatyzacji, w których od ostatniej takiej kontroli nie dokonano zmian mających wpływ na ich efektywność energetyczną.
+
+### Art. 24.
+
+### 1.
+
+Kontroli systemu ogrzewania i systemu klimatyzacji w budynku może dokonywać osoba, która posiada:
+
+### 1)
+
+uprawnienia budowlane w specjalności instalacyjnej lub
+
+### 2)
+
+kwalifikacje wymagane przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych.
+
+### 2.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wpisuje osobę spełniającą wymagania, o których mowa w ust. 1, na jej wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, zawiera:
+
+### 1)
+
+imię i nazwisko;
+
+### 2)
+
+adres do korespondencji;
+
+### 3)
+
+adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
+
+### 4.
+
+Do wniosku dołącza się:
+
+### 1)
+
+oświadczenie o zgodności z prawdą danych zawartych we wniosku;
+
+### 2)
+
+kopie dokumentów potwierdzających spełnienie wymagań, o których mowa w ust. 1.
+
+### 5.
+
+Oświadczenie, o którym mowa w ust. 4 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+### 6.
+
+Po wpisaniu do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, osoba uprawniona uzyskuje dostęp do systemu teleinformatycznego, w którym prowadzony jest ten wykaz.
+
+### Art. 25.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w przypadku gdy osoba wnioskująca nie spełnia wymagań, o których mowa w art. 24 ust. 1, odmawia, w drodze decyzji, wpisania tej osoby do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+
+### Art. 26.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wydaje decyzję w sprawie wykreślenia osoby uprawnionej z wykazu, o którym mowa w art. 31 ust. 1 pkt 2, w przypadku stwierdzenia:
+
+### 1)
+
+rażących i oczywistych błędów w sporządzonym protokole z kontroli systemu ogrzewania lub systemu klimatyzacji na podstawie weryfikacji, o której mowa w art. 36;
+
+### 2)
+
+orzeczenia wobec osoby uprawnionej zakazu wykonywania samodzielnej funkcji technicznej w budownictwie albo utraty uprawnień do pełnienia samodzielnej funkcji technicznej w budownictwie przez osobę uprawnioną;
+
+### 3)
+
+nieposiadania kwalifikacji wymaganych przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych;
+
+### 4)
+
+spełnienia łącznie warunków, o których mowa w pkt 2 i 3, w przypadku osoby, która posiada zarówno uprawnienia budowlane w specjalności instalacyjnej, jak i kwalifikacje wymagane przy wykonywaniu dozoru nad eksploatacją urządzeń wytwarzających, przetwarzających, przesyłających i zużywających ciepło oraz innych urządzeń energetycznych.
+
+### Art. 27.
+
+O ponowny wpis do wykazu, o którym mowa w art. 31 ust. 1 pkt 2, można ubiegać się:
+
+### 1)
+
+po upływie 24 miesięcy od dnia, w którym decyzja w sprawie wykreślenia z wykazu, z przyczyny, o której mowa w art. 26 pkt 1, stała się ostateczna;
+
+### 2)
+
+od dnia ustania przyczyn wykreślenia z wykazu, o których mowa odpowiednio w art. 26 pkt 2-4.
+
+### Art. 28.
+
+### 1.
+
+Z przeprowadzonej kontroli systemu ogrzewania lub systemu klimatyzacji sporządza się protokoły.
+
+### 2.
+
+Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji sporządza się z wykorzystaniem systemu teleinformatycznego, w którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków.
+
+### 3.
+
+Osoba przeprowadzająca kontrolę systemu ogrzewania lub systemu klimatyzacji przekazuje osobie zlecającej kontrolę protokół w postaci papierowej, opatrzony numerem nadanym w systemie teleinformatycznym.
+
+### 4.
+
+Protokół jest podpisywany przez osobę przeprowadzającą kontrolę systemu ogrzewania lub systemu klimatyzacji i osobę zlecającą kontrolę.
+
+### Art. 29.
+
+### 1.
+
+Protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji zawierają:
+
+### 1)
+
+dane identyfikacyjne budynku;
+
+### 2)
+
+dane identyfikacyjne systemu;
+
+### 3)
+
+ocenę sprawności systemu;
+
+### 4)
+
+zalecenia określające zakres i rodzaj robót budowlano-instalacyjnych, które poprawią efektywność energetyczną systemu.
+
+### 2.
+
+Właściciel lub zarządca budynku jest obowiązany do przechowywania protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji przez okres użytkowania budynku.
+
+### Art. 30.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, wzory protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, mając na uwadze zapewnienie poprawności i jednolitości tych protokołów.
+
+### Rozdział 4 Zasady prowadzenia centralnego rejestru charakterystyki energetycznej budynków
+
+### Art. 31.
+
+### 1.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi centralny rejestr charakterystyki energetycznej budynków, który obejmuje wykazy:
+
+### 1)
+
+osób uprawnionych do sporządzania świadectw charakterystyki energetycznej;
+
+### 2)
+
+osób uprawnionych do kontroli systemu ogrzewania lub systemu klimatyzacji;
+
+### 3)
+
+świadectw charakterystyki energetycznej;
+
+### 4)
+
+protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji;
+
+### 5)
+
+budynków, o których mowa w art. 3 ust. 2.
+
+### 2.
+
+Centralny rejestr charakterystyki energetycznej budynków jest prowadzony z wykorzystaniem systemu teleinformatycznego, zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2014 r. poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2014/1114/text.html)).
+
+### 3.
+
+Wykazy, o których mowa w ust. 1 pkt 1, 2 i 5, udostępnia się za pośrednictwem Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+
+### Art. 32.
+
+Wykazy, o których mowa w art. 31 ust. 1 pkt 1 i 2, zwane dalej „wykazami osób uprawnionych”, zawierają:
+
+### 1)
+
+imię i nazwisko;
+
+### 2)
+
+w przypadku posiadania uprawnień budowlanych, ich numer;
+
+### 3)
+
+numer wpisu;
+
+### 4)
+
+datę wpisu.
+
+### Art. 33.
+
+### 1.
+
+Osoba wpisana do wykazów osób uprawnionych informuje ministra właściwego do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa o zmianach:
+
+### 1)
+
+dotyczących spełnienia wymagań, o których mowa odpowiednio w art. 17 i art. 24 ust. 1,
+
+### 2)
+
+danych, o których mowa odpowiednio w art. 18 ust. 2 oraz art. 24 ust. 3
+
+- w terminie 14 dni od dnia ich zaistnienia.
+
+### 2.
+
+W przypadku zmian:
+
+### 1)
+
+dotyczących spełnienia wymagań, o których mowa odpowiednio w art. 17 i art. 24 ust. 1,
+
+### 2)
+
+danych, o których mowa odpowiednio w art. 18 ust. 2 pkt 1 i art. 24 ust. 3 pkt 1
+
+- osoba wpisana do wykazów osób uprawnionych jest obowiązana do przekazania kopii dokumentów potwierdzających zaistniałą zmianę.
+
+### Art. 34.
+
+### 1.
+
+Do wykazów osób uprawnionych wpisuje się także osoby świadczące na terytorium Rzeczypospolitej Polskiej usługi transgraniczne, które są uprawnione do sporządzania świadectw charakterystyki energetycznej lub do kontroli systemu ogrzewania lub systemu klimatyzacji w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym oraz państwie, które zawarło z Unią Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług, na ich wniosek.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko;
+
+### 2)
+
+adres do korespondencji;
+
+### 3)
+
+adres poczty elektronicznej, o ile osoba wnioskująca posiada taki adres, przy czym podanie adresu poczty elektronicznej jest nieobowiązkowe.
+
+### 3.
+
+Do wniosku dołącza się:
+
+### 1)
+
+zaświadczenie o wpisie na listę lub do wykazu osób uprawnionych do sporządzania świadectw charakterystyki energetycznej lub do kontroli systemu ogrzewania lub systemu klimatyzacji, prowadzonych w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym oraz państwie, które zawarło z Unią Europejską i jej państwami członkowskimi umowę regulującą swobodę świadczenia usług;
+
+### 2)
+
+oświadczenie o zgodności z prawdą danych zawartych we wniosku.
+
+### 4.
+
+Przepisy art. 33 stosuje się odpowiednio.
+
+### Art. 35.
+
+Świadectwa charakterystyki energetycznej i protokoły z kontroli systemu ogrzewania lub systemu klimatyzacji zawarte w wykazach, o których mowa w art. 31 ust. 1 pkt 3 i 4, są zapisywane automatycznie po ich wygenerowaniu w systemie teleinformatycznym przez osobę, która je sporządziła.
+
+### Art. 36.
+
+### 1.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, przy użyciu systemu teleinformatycznego, dokonuje weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, pod kątem prawidłowości i rzetelności ich sporządzenia oraz biorąc pod uwagę przepisy techniczno-budowlane oraz zasady wiedzy technicznej.
+
+### 2.
+
+Weryfikacji, o której mowa w ust. 1, dokonuje się z urzędu lub na wniosek:
+
+### 1)
+
+właściciela lub zarządcy budynku lub części budynku, osoby, której przysługuje spółdzielcze własnościowe prawo do lokalu, osoby, której przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, podmiotu, który zlecił sporządzenie świadectwa charakterystyki energetycznej, lub podmiotu, który je otrzymał w związku ze zbyciem lub najmem budynku lub części budynku - w przypadku świadectw charakterystyki energetycznej;
+
+### 2)
+
+właściciela lub zarządcy budynku - w przypadku protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji.
+
+### 3.
+
+Dokonanie weryfikacji, o której mowa w ust. 1, na wniosek, następuje po stwierdzeniu nieprawidłowości w tych dokumentach przez osoby lub podmioty, o których mowa w ust. 2.
+
+### Art. 37.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, w drodze rozporządzenia, sposób dokonywania i szczegółowy zakres weryfikacji świadectw charakterystyki energetycznej oraz protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji, mając na uwadze zapewnienie skuteczności tej weryfikacji oraz uwzględniając wymagania w zakresie prawidłowego sporządzenia tych świadectw lub protokołów.
+
+### Art. 38.
+
+### 1.
+
+Wykaz, o którym mowa w art. 31 ust. 1 pkt 5, zawiera:
+
+### 1)
+
+określenie organu zajmującego budynek;
+
+### 2)
+
+powierzchnię użytkową budynku zajmowaną przez ten organ;
+
+### 3)
+
+charakterystykę energetyczną budynku.
+
+### 2.
+
+Wykaz, o którym mowa w art. 31 ust. 1 pkt 5, nie obejmuje budynków zajmowanych przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralne Biuro Antykorupcyjne, Policję, Straż Graniczną, Służbę Więzienną, Biuro Ochrony Rządu, Służbę Celną, urzędy skarbowe, izby skarbowe, organy kontroli skarbowej, organy informacji finansowej oraz Siły Zbrojne Rzeczypospolitej Polskiej.
+
+### Rozdział 5 Krajowy plan działań mający na celu zwiększenie liczby budynków o niskim zużyciu energii
+
+### Art. 39.
+
+### 1.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa opracowuje projekt krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii, zwanego dalej „krajowym planem działań”.
+
+### 2.
+
+Krajowy plan działań zawiera w szczególności:
+
+### 1)
+
+definicję budynków o niskim zużyciu energii oraz ich szczegółowe cechy;
+
+### 2)
+
+działania administracji rządowej podejmowane w celu promowania budynków o niskim zużyciu energii, w tym w zakresie projektowania, budowy i przebudowy budynków w sposób zapewniający ich energooszczędność, oraz zwiększenia pozyskania energii ze źródeł odnawialnych w nowych oraz istniejących budynkach;
+
+### 3)
+
+harmonogram osiągania celów, o których mowa w pkt 2.
+
+### 3.
+
+Krajowy plan działań przyjmuje, w drodze uchwały, Rada Ministrów.
+
+### 4.
+
+W terminie 14 dni od dnia przyjęcia krajowego planu działań przez Radę Ministrów, minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje ten plan Komisji Europejskiej.
+
+### Art. 40.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa prowadzi kampanię informacyjną służącą poprawie charakterystyki energetycznej budynków.
+
+### Rozdział 6 Przepisy karne
+
+### Art. 41.
+
+Kto:
+
+### 1)
+
+sporządza świadectwo charakterystyki energetycznej, nie spełniając wymagań, o których mowa w art. 17,
+
+### 2)
+
+nie spełnia obowiązku, o którym mowa w art. 20 ust. 1 pkt 2,
+
+### 3)
+
+nie spełnia obowiązku, o którym mowa w art. 23 ust. 1,
+
+### 4)
+
+dokonuje kontroli systemu ogrzewania i systemu klimatyzacji, nie spełniając wymagań, o których mowa w art. 24 ust. 1
+
+- podlega karze grzywny.
+
+### Art. 42.
+
+Orzekanie w sprawach, o których mowa w art. 41, następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2013 r. poz. 395](https://api.sejm.gov.pl/eli/acts/DU/2013/395/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.](#gloss-0:4:)).
+
+### Rozdział 7 Przepisy zmieniające
+
+### Art. 43.
+
+W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2013 r. poz. 1409](https://api.sejm.gov.pl/eli/acts/DU/2013/1409/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822 i 1133.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+odnośnik nr 1 otrzymuje brzmienie:
+
+„
+
+Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
+
+### 1)
+
+dyrektywy Rady 92/57/EWG z dnia 24 czerwca 1992 r. w sprawie wdrożenia minimalnych wymagań bezpieczeństwa i ochrony zdrowia na tymczasowych lub ruchomych budowach (ósma szczegółowa dyrektywa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) ([Dz. Urz. WE L 245 z 26.08.1992, str. 6](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 71](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków ([Dz. Urz. UE L 153 z 18.06.2010, str. 13](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+” ;
+
+### 2)
+
+w art. 5:
+
+### a)
+
+po ust. 2a dodaje się ust. 2b w brzmieniu:
+
+„
+
+### 2b.
+
+W przypadku robót budowlanych polegających na dociepleniu budynku, obejmujących ponad 25% powierzchni przegród zewnętrznych tego budynku, należy spełnić wymagania minimalne dotyczące energooszczędności i ochrony cieplnej przewidziane w przepisach techniczno-budowlanych dla przebudowy budynku.
+
+” ,
+
+### b)
+
+uchyla się ust. 3-15;
+
+### 3)
+
+uchyla się art. 51i art. 52;
+
+### 4)
+
+art. 6 otrzymuje brzmienie:
+
+„
+
+### Art. 6.
+
+Dla działek budowlanych lub terenów, na których jest przewidziana budowa obiektów budowlanych lub funkcjonalnie powiązanych zespołów obiektów budowlanych, należy zaprojektować odpowiednie zagospodarowanie, zgodnie z wymaganiami art. 5 ust. 1-2b, zrealizować je przed oddaniem tych obiektów (zespołów) do użytkowania oraz zapewnić utrzymanie tego zagospodarowania we właściwym stanie techniczno-użytkowym przez okres istnienia obiektów (zespołów) budowlanych.
+
+” ;
+
+### 5)
+
+w art. 7 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+warunki techniczne, jakim powinny odpowiadać obiekty budowlane i ich usytuowanie, uwzględniające wymagania, o których mowa w art. 5 ust. 1-2b;
+
+” ;
+
+### 6)
+
+uchyla się art. 55a;
+
+### 7)
+
+w art. 57 w ust. 1 uchyla się pkt 7;
+
+### 8)
+
+w art. 62:
+
+### a)
+
+w ust. 1 uchyla się pkt 5 i 6,
+
+### b)
+
+uchyla się ust. 1b,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Kontrole stanu technicznego instalacji elektrycznych, piorunochronnych i gazowych, o których mowa w ust. 1 pkt 1 lit. c i pkt 2, mogą przeprowadzać osoby posiadające kwalifikacje wymagane przy wykonywaniu dozoru nad eksploatacją urządzeń, instalacji oraz sieci energetycznych i gazowych.
+
+” ;
+
+### 9)
+
+w art. 63 uchyla się ust. 2 i 3;
+
+### 10)
+
+w art. 64 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Protokoły z kontroli obiektu budowlanego, w tym protokoły z kontroli systemu ogrzewania i systemu klimatyzacji, o których mowa w art. 29 ust. 1 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków ([Dz. U. poz. 1200](https://api.sejm.gov.pl/eli/acts/DU/2014/1200/text.html)), oceny i ekspertyzy dotyczące jego stanu technicznego, świadectwo charakterystyki energetycznej oraz dokumenty, o których mowa w art. 60, są dołączone do książki obiektu budowlanego.
+
+” ;
+
+### 11)
+
+w art. 70 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Właściciel, zarządca lub użytkownik obiektu budowlanego, na których spoczywają obowiązki w zakresie napraw, określone w przepisach odrębnych bądź umowach, są obowiązani w czasie lub bezpośrednio po przeprowadzonej kontroli, o której mowa w art. 62 ust. 1 pkt 1-4, usunąć stwierdzone uszkodzenia oraz uzupełnić braki, które mogłyby spowodować zagrożenie życia lub zdrowia ludzi, bezpieczeństwa mienia bądź środowiska, a w szczególności katastrofę budowlaną, pożar, wybuch, porażenie prądem elektrycznym albo zatrucie gazem.
+
+” ;
+
+### 12)
+
+w art. 93:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przy projektowaniu lub wykonywaniu robót budowlanych w sposób rażący nie przestrzega przepisów art. 5 ust. 1-2b,
+
+” ,
+
+### b)
+
+pkt 8 i 9 otrzymują brzmienie:
+
+„
+
+### 8)
+
+nie spełnia obowiązku, o którym mowa w art. 62 ust. 1 pkt 1-4,
+
+### 9)
+
+nie spełnia, określonych w art. 63 ust. 1 lub art. 64 ust. 1 i 3, obowiązków przechowywania dokumentów, związanych z obiektem budowlanym lub prowadzenia książki obiektu budowlanego,
+
+” ,
+
+### c)
+
+uchyla się pkt 11.
+
+### Art. 44.
+
+W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2014 r. poz. 518](https://api.sejm.gov.pl/eli/acts/DU/2014/518/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822 i 906.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 132 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Do zapłaty odszkodowania za wywłaszczone nieruchomości, za szkody powstałe wskutek zdarzeń, o których mowa w art. 120, do zapłaty ceny nabycia części nieruchomości, o której mowa w art. 113 ust. 3, a także do zapewnienia nieruchomości zamiennej jest zobowiązany, z zastrzeżeniem ust. 6 i 8, starosta, wykonujący zadanie z zakresu administracji rządowej, jeżeli wywłaszczenie następuje na rzecz Skarbu Państwa, albo organ wykonawczy jednostki samorządu terytorialnego, jeżeli wywłaszczenie następuje na rzecz tej jednostki.
+
+” ;
+
+### 2)
+
+w art. 155 w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+świadectwie charakterystyki energetycznej.
+
+” ;
+
+### 3)
+
+w art. 221 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Jeżeli przy oddaniu nieruchomości gruntowej w użytkowanie wieczyste nie została określona wysokość stawki procentowej opłaty rocznej z tytułu użytkowania wieczystego, właściwy organ określi wysokość tej stawki, z wyłączeniem przypadków, o których mowa w art. 217 ust. 1, stosując tryb postępowania określony w art. 78-81.
+
+” .
+
+### Art. 45.
+
+Minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy, przedstawi Radzie Ministrów projekt krajowego planu działań mającego na celu zwiększenie liczby budynków o niskim zużyciu energii, o którym mowa w art. 39 ust. 1.
+
+### Art. 46.
+
+Właściciele lub zarządcy budynków, określonych w art. 3 ust. 2, dla których zostało sporządzone świadectwo charakterystyki energetycznej na podstawie przepisów dotychczasowych, są obowiązani do przekazania ministrowi właściwemu do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa kopii świadectwa charakterystyki energetycznej w terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy.
+
+### Art. 47.
+
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy związanych z przekazywaniem i sporządzaniem świadectwa charakterystyki energetycznej stosuje się przepisy dotychczasowe.
+
+### Art. 48.
+
+Świadectwa charakterystyki energetycznej wydane na podstawie ustawy zmienianej w art. 43 zachowują ważność przez okres, na jaki zostały wydane.
+
+### Art. 49.
+
+### 1.
+
+Osoby posiadające uprawnienia do sporządzania świadectw charakterystyki energetycznej budynków, lokali mieszkalnych lub części budynków stanowiących samodzielną całość techniczno-użytkową uzyskane przed dniem wejścia w życie niniejszej ustawy, na podstawie przepisów ustawy zmienianej w art. 43, zachowują te uprawnienia.
+
+### 2.
+
+Osoby, o których mowa w ust. 1, niewpisane do rejestru, o którym mowa w art. 5 ust. 14 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, wpisują się, na swój wniosek, do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 2, dołącza się dokumenty potwierdzające spełnienie wymagań niezbędnych do sporządzania świadectw charakterystyki energetycznej budynków, lokali mieszkalnych lub części budynków stanowiących samodzielną całość techniczno-użytkową, określonych w ustawie zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+### 4.
+
+Osoby, o których mowa w ust. 1, wpisane do rejestru, o którym mowa w art. 5 ust. 14 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, minister właściwy do spraw budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, wpisuje z urzędu do wykazu, o którym mowa w art. 31 ust. 1 pkt 1.
+
+### Art. 50.
+
+### 1.
+
+Osoby spełniające przed dniem wejścia w życie ustawy wymagania niezbędne do przeprowadzania kontroli, o której mowa w art. 62 ust. 1 pkt 5 i 6 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, wykonują kontrole systemu ogrzewania lub systemu klimatyzacji i wpisują się, na swój wniosek, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, do wykazu, o którym mowa w art. 31 ust. 1 pkt 2.
+
+### 2.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się dokumenty potwierdzające spełnienie wymagań niezbędnych do kontroli, o której mowa w art. 62 ust. 1 pkt 5 i 6 ustawy zmienianej w art. 43 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 51.
+
+Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 52 ust. 2 oraz art. 55a ustawy zmienianej w art. 43, zachowują moc do dnia wejścia w życie przepisów wykonawczych, wydanych na podstawie art. 20 ust. 2 oraz art. 15, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 52.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 39 i art. 45, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków (Dz. Urz. UE L 153 z 18.06.2010, str. 13). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. - Prawo budowlane oraz ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822 i 1133. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768, 822 i 1133. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 659, 805, 822 i 906.

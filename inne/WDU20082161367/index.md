@@ -8,11 +8,9 @@ pos: 1367
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw
-
-*USTAWA z dnia 24 października 2008 r.*
+# Ustawa z dnia 24 października 2008 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich (Dz. Urz. WE L 149 z 02.06.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 107).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,582 +22,4040 @@ domain: null
 | Data ogłoszenia | 2008-10-24 |
 | Data wydania | 2008-12-05 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082161367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1367/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/1367/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/1367) |
 
-**Art. 1.** W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 11c.**
+### Art. 1.
 
-1. W toku postępowań prowadzonych na podstawie przepisów ustawy funkcjonariusze Straży Granicznej mogą wykonywać czynności polegające na:
+W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416 i Nr 180, poz. 1112.](#gloss-0:3:)) wprowadza się następujące zmiany:
 
-- **1)** przeprowadzaniu wywiadu środowiskowego;
-- **2)** ustalaniu miejsca pobytu małżonka lub innego członka rodziny cudzoziemca, a także osoby, z którą cudzoziemca łączą więzi o charakterze rodzinnym.
+### 1)
 
-2. Jeżeli w wyniku czynności, o których mowa w ust. 1, nie potwierdzono informacji podanych przez cudzoziemca lub zgromadzone informacje okazały się sprzeczne albo nasuwają wątpliwości odnośnie ich prawdziwości funkcjonariusze Straży Granicznej mogą dokonać sprawdzenia lokalu we wskazanym przez cudzoziemca miejscu jego pobytu.
+w art. 3 pkt 1 i 2 otrzymują brzmienie:
 
-3. Funkcjonariusze Straży Granicznej dokonujący sprawdzenia lokalu, o którym mowa w ust. 2, mają prawo:
+„
 
-- **1)** wejścia do lokalu,
-- **2)** żądania okazania rzeczy i przedmiotów należących do cudzoziemca,
-- **3)** żądania udzielenia wyjaśnień – w celu potwierdzenia pobytu cudzoziemca w sprawdzanym lokalu.
+### 1)
 
-4. Podczas przeprowadzania czynności, o których mowa w ust. 3, powinien być obecny cudzoziemiec lub osoba trzecia, jeżeli lokal znajduje się w jej posiadaniu, albo inny dorosły domownik. Czynności te nie mogą być podejmowane i przeprowadzane w porze nocnej.
+szefów i członków personelu misji dyplomatycznych, kierowników urzędów konsularnych i członków personelu konsularnego państw obcych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, pod warunkiem wzajemności i posiadania przez te osoby dokumentów potwierdzających pełnienie przez nie funkcji, z wyjątkiem art. 13 ust. 1, art. 21a, art. 25, art. 28, art. 30-33 i art. 46;
 
-5. Czynności, o których mowa w ust. 3, funkcjonariusze Straży Granicznej przeprowadzają za zgodą cudzoziemca. sprawdzenia lokalu albo utrudnia lub uniemożliwia przeprowadzenie czynności, o których mowa w ust. 3, uznaje się, że informacje o faktycznym miejscu pobytu cudzoziemca nie zostały potwierdzone.
+### 2)
 
-7. Jeżeli dokonanie sprawdzenia lokalu nie jest możliwe z przyczyn niezależnych od cudzoziemca, funkcjonariusze Straży Granicznej informują o tym fakcie organ prowadzący postępowanie oraz przekazują mu informacje zgromadzone w toku czynności, o których mowa w ust. 1.
+obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają, z wyjątkiem:
 
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+### a)
 
-- **1)** sposób i tryb przeprowadzania wywiadu środowiskowego, zakres wywiadu oraz miejsce i czas jego przeprowadzania, a także formę sprawozdania z przeprowadzonego wywiadu, uwzględniając konieczność zebrania informacji niezbędnych do postępowań prowadzonych na podstawie ustawy;
-- **2)** tryb sprawdzania lokalu, o którym mowa w ust. 2, dokumenty upoważniające do przeprowadzenia sprawdzenia, a także sposób dokumentowania tych czynności, uwzględniając konieczność właściwej organizacji przeprowadzania sprawdzenia lokalu, w tym zawiadomienia cudzoziemca, oraz uzyskania przez Straż Graniczą informacji o faktycznym miejscu i okolicznościach pobytu cudzoziemca.”;
-- **5)** w art. 13 ust. 1 otrzymuje brzmienie: „1. Cudzoziemiec może przekroczyć granicę i przebywać na terytorium Rzeczypospolitej Polskiej, jeżeli posiada:
-- **1)** ważny dokument podróży;
-- **2)** ważną wizę lub inny ważny dokument uprawniający do wjazdu i pobytu na tym terytorium, jeżeli są wymagane;
-- **3)** zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane w przypadku przejazdu tranzytem.”;
-- **6)** po art. 13 dodaje się art. 13a w brzmieniu: „Art. 13a. 1. Cudzoziemcy będący członkami załóg statków morskich przypływających do polskich portów morskich, przekraczający granicę w celu zejścia na ląd i pobytu w granicach miasta portowego, posiadający ważny dokument podróży oraz przepustkę wydaną przez komendanta placówki Straży Granicznej, są zwolnieni z obowiązku posiadania wiz.
+art. 12a, art. 93, art. 94, art. 96-96c, art. 100, rozdziałów 9 i 10, art. 124 pkt 1 lit. g oraz pkt 2 i 4, art. 125 ust. 1 pkt 2 w zakresie dotyczącym art. 124 pkt 1 lit. g, art. 126 ust. 1 pkt 4 i 7 oraz ust. 2, art. 127, art. 128 ust. 2, art. 131-134, które mają zastosowanie do obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają,
 
-2. Przepustkę wydaje, odmawia jej wydania lub unieważnia komendant placówki Straży Granicznej.
+### b)
 
-3. Przepustkę wydaje się cudzoziemcowi na wniosek złożony przez armatora lub kapitana statku morskiego albo upoważnionego agenta występującego w jego imieniu. łogi statku morskiego zawierającą informacje określone w załączniku do Konwencji o ułatwieniu międzynarodowego obrotu morskiego, sporządzonej w Londynie dnia 9 kwietnia 1965 r. (Dz. U. z 1969 r. Nr 30, poz. 236, z 1972 r. Nr 27, poz. 199 oraz z 2003 r. Nr 131, poz. 1200).
+art. 4 pkt 5-5d, art. 25, art. 26, art. 28 ust. 1 pkt 12, art. 38 ust. 1, ust. 2 pkt 1 i ust. 3, art. 39, art. 40, art. 44 ust. 4 i 7-9, art. 47, art. 48, art. 84a, rozdziału 8a, art. 124 pkt 1 lit. a, art. 125 ust. 1 pkt 1, art. 126 ust. 1 pkt 1 lit. a, art. 134a, które mają zastosowanie do członków rodzin obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, którzy do nich dołączają lub z nimi przebywają, niebędących obywatelami tych państw;
 
-5. W przepustce zamieszcza się:
+” ;
 
-- **1)** imię (imiona) i nazwisko członka załogi statku morskiego;
-- **2)** nazwę i numer dokumentu podróży, którym legitymuje się członek załogi statku morskiego;
-- **3)** nazwę statku morskiego;
-- **4)** nazwę portu (stoczni, przystani);
-- **5)** datę wystawienia przepustki oraz okres jej ważności;
-- **6)** odcisk stempla kontrolerskiego i podpis wystawiającego przepustkę;
-- **7)** informację, że przepustka jest ważna tylko z dokumentem podróży i upoważnia jej posiadacza do przebywania w obrębie miasta portowego.
+### 2)
 
-6. Przepustkę wydaje się na okres postoju statku morskiego w porcie wskazanym we wniosku o wydanie przepustki. Przepustka jest wydawana na okres nie dłuższy niż 15 dni.
+w art. 4:
 
-7. W przypadku nieprzewidzianego przedłużenia się okresu postoju statku morskiego komendant placówki Straży Granicznej może, na wniosek armatora lub kapitana statku morskiego albo upoważnionego agenta występującego w jego imieniu, przedłużyć ważność przepustki na okres wskazany we wniosku o przedłużenie przepustki, nie dłuższy niż 15 dni.
+### a)
 
-8. Odmawia się wydania przepustki, jeżeli zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 21 ust. 1 pkt 7-11.
+pkt 5a otrzymuje brzmienie:
 
-9. Przepustkę unieważnia się:
+„
 
-- **1)** w przypadku zatrzymania cudzoziemca poza granicami miasta portowego lub po upływie okresu, na który przepustka została wydana, lub
-- **2)** gdy zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 21 ust. 1 pkt 7-11.
+### 5a)
 
-10. Do odmowy wydania przepustki i jej unieważnienia stosuje się odpowiednio przepisy art. 23.
+wiza jednolita - wiza, o której mowa w art. 10 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach ([Dz. Urz. UE L 239 z 22.09.2000, str. 19](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanej dalej „Konwencją Wykonawczą Schengen”;
 
-11. Wydanie, przedłużenie oraz unieważnienie przepustki rejestruje się w ewidencji prowadzonej przez komendanta placówki Straży Granicznej.
+” ,
 
-12. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku o wydanie lub przedłużenie przepustki oraz wzór przepustki, uwzględniając dane, o których mowa w ust. 5.”; „Art. 15. 1. Cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej powinien:
+### b)
 
-- **1)** uzasadnić cel i warunki planowanego pobytu;
-- **2)** posiadać oraz okazać na żądanie funkcjonariusza Straży Granicznej:
-    - **a)** dokument potwierdzający posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzający pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium – w przypadku wjazdu na podstawie wizy krajowej,
-    - **b)** wystarczające środki utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub na tranzyt albo dokument potwierdzający możliwość uzyskania takich środków zgodnie z prawem,
-    - **c)** zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane w przypadku przejazdu tranzytem.
+pkt 5c otrzymuje brzmienie:
 
-2. Obowiązek okazania środków utrzymania lub dokumentów potwierdzających możliwość uzyskania takich środków zgodnie z prawem nie dotyczy cudzoziemców przekraczających granicę:
+„
 
-- **1)** na podstawie:
-    - **a)** umów międzynarodowych, które przewidują zwolnienie cudzoziemca z obowiązku posiadania tych środków albo obowiązek pokrycia kosztów jego pobytu przez polskie organy państwowe lub instytucje publiczne,
-    - **b)** wizy w celu repatriacji,
-    - **c)** wizy w celu wykonywania pracy,
-    - **d)** wizy w celu korzystania z ochrony czasowej,
-    - **e)** wizy w celu udziału w postępowaniu w sprawie o udzielenie azylu,
-    - **f)** karty pobytu,
-    - **g)** wizy w celu korzystania z uprawnień wynikających z posiadania Karty Polaka;
+### 5c)
 
-- **2)** w związku z niesieniem pomocy charytatywnej;
-- **3)** w związku z uczestniczeniem w akcji ratunkowej.
+centralny organ wizowy - organ odpowiedzialny za przeprowadzenie konsultacji, w tym konsultacji elektronicznych, o których mowa w art. 17 ust. 2 Konwencji Wykonawczej Schengen;
 
-3. Kontroli dokumentów potwierdzających cel i warunki planowanego pobytu, środków utrzymania lub dokumentów, o których mowa w ust. 1 pkt 2, dokonuje funkcjonariusz Straży Granicznej podczas przekraczania przez cudzoziemca granicy. ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia, wysokość środków utrzymania, które powinien posiadać cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej na czas trwania planowanego pobytu na tym terytorium oraz na powrót do państwa pochodzenia lub na tranzyt, dokumenty, które mogą potwierdzić możliwość uzyskania takich środków zgodnie z prawem oraz cel i czas trwania planowanego pobytu, jeżeli ze względu na cel lub czas trwania planowanego pobytu następuje zróżnicowanie wysokości środków.
+” ,
 
-5. Określona w rozporządzeniu wysokość środków utrzymania może być zróżnicowana w zależności od celu lub czasu trwania planowanego pobytu i powinna zapewniać możliwość pokrycia przez cudzoziemca kosztów zakwaterowania, wyżywienia, tranzytu i powrotu do państwa pochodzenia. Rodzaj dokumentów określonych w rozporządzeniu powinien zapewniać możliwość potwierdzenia posiadania przez cudzoziemca środków utrzymania w wymaganej wysokości.”;
+### c)
 
-- **8)** uchyla się art. 15a;
-- **9)** w art. 16 w ust. 1 zdanie wstępne otrzymuje brzmienie: „Cudzoziemiec może przedstawić jako dokument potwierdzający możliwość uzyskania wystarczających środków utrzymania zaproszenie, które mogą wystawić:”;
-- **10)** w art. 17 w ust. 3:
-    - **a)** pkt 1 otrzymuje brzmienie: „1) zapraszanym jest cudzoziemiec, w przypadku którego zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 35 pkt 1, 4 lub 6;”,
-    - **b)** w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) zapraszający nie spełnia wymogów, o których mowa w art. 16 ust. 1.”;
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11-13 w brzmieniu:
 
-- **11)** art. 21 otrzymuje brzmienie: „Art. 21. 1. Cudzoziemcowi odmawia się wjazdu na terytorium Rzeczypospolitej Polskiej, jeżeli:
-- **1)** nie posiada ważnych dokumentów lub wizy, o których mowa w art. 13 ust. 1;
-- **2)** nie uiścił opłaty, do której uiszczenia był obowiązany na podstawie art. 13 ust. 2;
-- **3)** nie posiada dokumentu potwierdzającego posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzającego pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium;
-- **4)** wykorzystał dopuszczalny czas pobytu na terytorium państw obszaru Schengen przez 3 miesiące w okresie 6 miesięcy lidzynarodowe stanowią inaczej;
-- **5)** nie przedstawił dokumentów wystarczających do potwierdzenia celu i warunków planowanego pobytu;
-- **6)** nie posiada wystarczających środków utrzymania w odniesieniu do długości i celu planowanego pobytu lub środków na powrót do państwa pochodzenia lub tranzyt albo dokumentu potwierdzającego możliwość uzyskania takich środków zgodnie z prawem;
-- **7)** posiada podrobiony lub przerobiony dokument podróży, wizę lub inny dokument uprawniający do wjazdu i pobytu;
-- **8)** dane cudzoziemca znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
-- **9)** dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen, o którym mowa w art. 92 Konwencji Wykonawczej Schengen, do celów odmowy wjazdu;
-- **10)** wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla zdrowia publicznego;
-- **11)** wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa, ochrony bezpieczeństwa i porządku publicznego lub stosunków międzynarodowych Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej.
+„
 
-2. Przepisów ust. 1 nie stosuje się do cudzoziemca, który:
+### 11)
 
-- **1)** posiada zezwolenie na zamieszkanie na czas oznaczony, udzielone na podstawie art. 53a ust. 2;
-- **2)** posiada wizę jednolitą pobytową upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11.
+mały ruch graniczny - wjazd i pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej, do których stosuje się rozporządzenie (WE) nr 1931/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. ustanawiające przepisy dotyczące małego ruchu granicznego na zewnętrznych granicach lądowych państw członkowskich i zmieniające postanowienia Konwencji z Schengen ([Dz. Urz. UE L 29 z 03.02.2007, str. 3](https://api.sejm.gov.pl/eli/acts//text.html)), zwane dalej „rozporządzeniem nr 1931/2006”;
 
-3. Przepisów ust. 1 pkt 1-7 i pkt 9-11 nie stosuje się do cudzoziemca przejeżdżającego przez terytorium Rzeczypospolitej Polskiej tranzytem w przypadkach, o których mowa w art. 5 ust. 4 lit. a rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) (Dz. Urz. UE L 105 z 13.04.2006, str. 1), zwany dalej „kodeksem granicznym Schengen”.
+### 12)
 
-4. Przepisów ust. 1 pkt 2 i 3 nie stosuje się do cudzoziemca wjeżdżającego na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 3 miesięcy.
+ochrona czasowa - ochronę czasową w rozumieniu ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
 
-5. Okoliczności, o których mowa w ust. 1 pkt 4 lub 9, nie mogą stanowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi, który posiada wizę krajową lub wizę jednolitą pobytową upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej. nowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi podróżującemu do innego państwa obszaru Schengen, które wydało mu wizę krajową, lub posiadającemu wizę jednolitą tranzytową.
+### 13)
 
-7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+ochrona uzupełniająca - ochronę uzupełniającą w rozumieniu ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
 
-- **1)** wykaz chorób mogących stanowić zagrożenie dla zdrowia publicznego, których rozpoznanie lub podejrzenie wystąpienia może stanowić podstawę odmowy wjazdu cudzoziemca na terytorium Rzeczypospolitej Polskiej,
-- **2)** kryteria pozwalające rozpoznać lub podejrzewać wystąpienie chorób mogących stanowić zagrożenie dla zdrowia publicznego, o których mowa w pkt 1 – uwzględniając tylko choroby epidemiczne określone przez Światową Organizację Zdrowia oraz inne choroby wysoce zakaźne i szczególnie niebezpieczne, które podlegają zwalczaniu u obywateli polskich na podstawie przepisów ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach (Dz. U. Nr 126, poz. 1384, z późn. zm. ), oraz mając na celu zapewnienie humanitarnego traktowania cudzoziemców i zapobieżenie zagrożeniu dla zdrowia publicznego w obszarze przejścia granicznego.”;
-- **12)** po art. 21 dodaje się art. 21a w brzmieniu: „Art. 21a. 1. Cudzoziemcowi, który nie spełnia warunków dotyczących wjazdu określonych w ustawie lub w art. 5 kodeksu granicznego Schengen, komendant placówki Straży Granicznej, po uzyskaniu zgody Komendanta Głównego Straży Granicznej, może zezwolić na wjazd na terytorium Rzeczypospolitej Polskiej na okres pobytu nie dłuższy niż 15 dni, jeżeli wymagają tego względy humanitarne, interes Rzeczypospolitej Polskiej lub zobowiązania międzynarodowe. Do wydania zezwolenia i samego zezwolenia nie stosuje się przepisów Kodeksu postępowania administracyjnego oraz nie przysługuje skarga do sądu administracyjnego.
+” ;
 
-2. O wydaniu zezwolenia Komendant Główny Straży Granicznej informuje Szefa Urzędu do Spraw Cudzoziemców, a jeżeli dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, również właściwy organ innego państwa obszaru Schengen, które dokonało wpisu.”;
+### 3)
 
-- **13)** w art. 24a ust. 1 otrzymuje brzmienie: „1. Komendant placówki Straży Granicznej jest organem właściwym do podejmowania decyzji w sprawie odmowy wjazdu zgodnie z art. 13 ust. 2 kodeksu granicznego Schengen.”;
-- **14)** art. 24b otrzymuje brzmienie: wanym przepisami kodeksu granicznego Schengen nie stosuje się przepisów art. 13, art. 14, art. 15 ust. 1-3, 6 i 7 i art. 23-24.”;
-- **15)** po art. 24b dodaje się art. 24c w brzmieniu: „Art. 24c. Przepisów rozdziału, z wyjątkiem art. 21 ust. 7, nie stosuje się do przekraczania granicy przez cudzoziemców w ramach małego ruchu granicznego.”;
-- **16)** po rozdziale 2 dodaje się rozdział 2a w brzmieniu: „Rozdział 2a Przekraczanie granicy w ramach małego ruchu granicznego
+art. 11a otrzymuje brzmienie:
 
-**Art. 24d.** Cudzoziemcy zamieszkujący w strefie przygranicznej państwa sąsiadującego z Rzecząpospolitą Polską, przekraczający granicę w celu pobytu w polskiej strefie przygranicznej na podstawie ważnego zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, na zasadach określonych w umowie o małym ruchu granicznym zawartej przez Rzeczpospolitą Polską z tym państwem, są zwolnieni z obowiązku posiadania wiz.
+„
 
-**Art. 24e.**
+### Art. 11a.
 
-1. Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego może być wydane cudzoziemcowi, który spełnia warunki określone w art. 9 rozporządzenia nr 1931/2006.
+### 1.
 
-2. Jeżeli cudzoziemiec nie spełnia warunków określonych w rozporządzeniu nr 1931/2006, odmawia się mu wydania zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
+W sprawach uregulowanych w ustawie pisma doręcza się osobom fizycznym pod wskazanym przez nie adresem lub w każdym miejscu, gdzie zastanie się adresata.
 
-**Art. 24f.**
+### 2.
 
-1. Cudzoziemiec ubiegający się o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego składa na formularzu wniosek i przedstawia w nim powody częstego przekraczania granicy w ramach małego ruchu granicznego oraz dołącza:
+Pisma mogą również być doręczane w miejscu pracy adresata osobie upoważnionej przez pracodawcę do odbioru korespondencji.
 
-- **1)** fotografie wnioskodawcy;
-- **2)** dokumenty potwierdzające posiadanie miejsca stałego zamieszkania w strefie przygranicznej;
-- **3)** dokumenty potwierdzające powody częstego przekraczania granicy.
+### 3.
 
-2. Cudzoziemiec ubiegający się o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego jest obowiązany przedstawić właściwemu organowi ważny dokument podróży.
+Cudzoziemcom pozbawionym wolności pisma doręcza się za pośrednictwem administracji zakładu, w którym przebywają.
 
-3. W zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego zamieszcza się: fotografię, informację o płci posiadacza, dane oraz pouczenie, o których mowa w art. 7 ust. 3 rozporządzenia nr 1931/2006, serię i numer zezwolenia, nazwę organu wydającego, a także w razie potrzeby informacje, o których mowa w art. 15 ust. 4 lit. a rozporządzenia nr 1931/2006.
+### 4.
 
-**Art. 24g.**
+W razie wyjazdu za granicę strona jest obowiązana do ustanowienia pełnomocnika do spraw doręczeń w kraju i powiadomienia o tym organu prowadzącego postępowanie w sprawie.
 
-1. Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego cofa się, jeżeli: 1931/2006;
+### 5.
 
-- **2)** po wydaniu zezwolenia cudzoziemiec przestał spełniać warunki do jego wydania.
+W razie niedopełnienia obowiązków, o których mowa w ust. 4, pismo uważa się za doręczone pod dotychczasowym adresem.
 
-2. W przypadku wydania decyzji o cofnięciu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego cudzoziemiec zwraca zezwolenie konsulowi, który je wydał.
+” ;
 
-**Art. 24h.**
+### 4)
 
-1. Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego wydaje, odmawia jego wydania lub cofa konsul właściwy ze względu na miejsce stałego zamieszkania cudzoziemca.
+po art. 11a dodaje się art. 11b i 11c w brzmieniu:
 
-2. Decyzja konsula w sprawie wydania lub cofnięcia zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego jest ostateczna.
+„
 
-**Art. 24i.**
+### Art. 11b.
 
-1. Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego unieważnia się, w drodze decyzji, jeżeli cudzoziemiec, który wjechał na jego podstawie na terytorium Rzeczypospolitej Polskiej:
+Strona, ustanawiając pełnomocników, wyznacza jednego z nich jako właściwego do spraw doręczeń i powiadamia o tym organ prowadzący postępowanie w sprawie.
 
-- **1)** przebywa na tym terytorium po upływie okresu pobytu, do którego był uprawniony na podstawie zezwolenia, lub
-- **2)** przebywa poza strefą przygraniczną, w której zgodnie z zezwoleniem mógł przebywać – jeżeli zachodzą przeszkody prawne do wydania w tych okolicznościach decyzji o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej lub decyzji o wydaleniu.
+### Art. 11c.
 
-2. Decyzję o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego wydaje komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant placówki Straży Granicznej lub komendant oddziału Straży Granicznej, który w wyniku kontroli legalności pobytu cudzoziemca stwierdził okoliczności uzasadniające unieważnienie tego zezwolenia.
+### 1.
 
-3. Od decyzji o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego przysługuje odwołanie do wojewody właściwego ze względu na siedzibę organu, który wydał decyzję.
+W toku postępowań prowadzonych na podstawie przepisów ustawy funkcjonariusze Straży Granicznej mogą wykonywać czynności polegające na:
 
-**Art. 24j.**
+### 1)
 
-1. Komendant placówki Straży Granicznej zatrzymuje zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego, jeżeli podczas kontroli granicznej stwierdzi, że zezwolenie to zostało cofnięte lub unieważnione.
+przeprowadzaniu wywiadu środowiskowego;
 
-2. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia, tryb postępowania po zatrzymaniu podczas kontroli granicznej zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzór zaświadczenia o zatrzymaniu zezwolenia, uwzględniając konieczność uniemożliwienia korzystania z tego zezwolenia. strem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** wzór formularza wniosku o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, uwzględniając w szczególności dane, o których mowa w art. 12, w zakresie niezbędnym do wydania zezwolenia oraz liczbę i wymogi dotyczące dołączanych do wniosku fotografii;
-- **2)** wzór zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, uwzględniając wymogi określone w art. 24f ust. 3 i w przepisach art. 7 ust. 3 i art. 15 ust. 4 rozporządzenia nr 1931/2006.”;
-- **17)** art. 25-42 otrzymują brzmienie: „Art. 25. 1. Wiza określa:
-- **1)** numer dokumentu podróży cudzoziemca;
-- **2)** miejsce i datę jej wydania;
-- **3)** cel wjazdu i pobytu;
-- **4)** okres ważności wizy, podczas którego może nastąpić pierwszy wjazd na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen i musi nastąpić ostatni wyjazd z tego terytorium;
-- **5)** okres pobytu, przez który cudzoziemiec może przebywać, w okresie ważności wizy, na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen;
-- **6)** liczbę wjazdów na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen dozwolonych w okresie pobytu.
+ustalaniu miejsca pobytu małżonka lub innego członka rodziny cudzoziemca, a także osoby, z którą cudzoziemca łączą więzi o charakterze rodzinnym.
 
-2. Wiza może uprawniać do jednego, dwóch lub nieograniczonej liczby wjazdów.
+### 2.
 
-3. Początek okresu ważności wizy powinien przypadać na okres 3 miesięcy od dnia wydania wizy.
+Jeżeli w wyniku czynności, o których mowa w ust. 1, nie potwierdzono informacji podanych przez cudzoziemca lub zgromadzone informacje okazały się sprzeczne albo nasuwają wątpliwości odnośnie ich prawdziwości funkcjonariusze Straży Granicznej mogą dokonać sprawdzenia lokalu we wskazanym przez cudzoziemca miejscu jego pobytu.
 
-4. Wiza może określać inne warunki wjazdu, a także zawierać inne informacje, a w szczególności:
+### 3.
 
-- **1)** imię i nazwisko cudzoziemca oraz jego fotografię;
-- **2)** miejsce, w którym powinno nastąpić przekroczenie granicy;
-- **3)** liczbę dzieci oraz innych osób towarzyszących cudzoziemcowi, wpisanych do jego dokumentu podróży.
+Funkcjonariusze Straży Granicznej dokonujący sprawdzenia lokalu, o którym mowa w ust. 2, mają prawo:
 
-5. Wiza może zawierać zakodowany zapis danych i informacji, o których mowa w ust. 1 i 4.
+### 1)
 
-**Art. 26.**
+wejścia do lokalu,
 
-1. Wizę wydaje się jako wizę:
+### 2)
 
-- **1)** jednolitą: pobytową lub tranzytową;
-- **2)** krajową.
+żądania okazania rzeczy i przedmiotów należących do cudzoziemca,
 
-2. Wiza jednolita pobytowa uprawnia do jednego lub większej liczby wjazdów, pod warunkiem, że ani długość ciągłego pobytu, ani szaru Schengen nie przekraczają 3 miesięcy w ciągu każdego okresu 6 miesięcy liczonego od dnia pierwszego wjazdu na to terytorium.
+### 3)
 
-3. Wiza jednolita tranzytowa uprawnia do:
+żądania udzielenia wyjaśnień
 
-- **1)** przejazdu przez terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen w drodze na terytorium innego państwa niż państwa obszaru Schengen, pod warunkiem że tranzyt nie przekracza 5 dni;
-- **2)** pobytu w strefie tranzytowej lotniska międzynarodowego.
+- w celu potwierdzenia pobytu cudzoziemca w sprawdzanym lokalu.
 
-4. Wiza krajowa uprawnia do wjazdu i ciągłego pobytu na terytorium Rzeczypospolitej Polskiej lub kilku pobytów następujących po sobie, trwających łącznie dłużej niż 3 miesiące i nieprzekraczających łącznie roku w okresie ważności wizy.
+### 4.
 
-5. Okres pobytu na podstawie wizy jednolitej pobytowej lub wizy krajowej ustala się w granicach określonych w ust. 2 lub 4 odpowiednio do celu pobytu wskazanego przez cudzoziemca.
+Podczas przeprowadzania czynności, o których mowa w ust. 3, powinien być obecny cudzoziemiec lub osoba trzecia, jeżeli lokal znajduje się w jej posiadaniu, albo inny dorosły domownik. Czynności te nie mogą być podejmowane i przeprowadzane w porze nocnej.
 
-6. Na wniosek cudzoziemca może być wydana wiza krajowa, która przez okres 3 miesięcy, licząc od pierwszego dnia jej ważności, uprawnia do wjazdu i pobytu także jako wiza jednolita pobytowa, jeżeli nie zachodzą przesłanki odmowy wydania wizy krajowej oraz wizy jednolitej pobytowej.
+### 5.
 
-7. Okres ważności wizy jednolitej pobytowej lub wizy krajowej nie może przekroczyć 5 lat.
+Czynności, o których mowa w ust. 3, funkcjonariusze Straży Granicznej przeprowadzają za zgodą cudzoziemca.
 
-**Art. 27.**
+### 6.
 
-1. Wiza jednolita może być wydana cudzoziemcowi, który spełnia warunki określone w art. 5 ust. 1 lit. a i c-e kodeksu granicznego Schengen.
+W przypadku gdy cudzoziemiec nie wyrazi zgody na dokonanie sprawdzenia lokalu albo utrudnia lub uniemożliwia przeprowadzenie czynności, o których mowa w ust. 3, uznaje się, że informacje o faktycznym miejscu pobytu cudzoziemca nie zostały potwierdzone.
 
-2. Wiza jednolita o ograniczonej ważności terytorialnej upoważniająca do wjazdu i pobytu tylko na terytorium Rzeczypospolitej Polskiej może być wydana cudzoziemcowi:
+### 7.
 
-- **1)** który nie spełnia warunków wjazdu, o których mowa w art. 5 ust. 1 lit. c-e kodeksu granicznego Schengen,
-- **2)** który wykorzystał dopuszczalny czas pobytu na terytorium państw obszaru Schengen przez 3 miesiące w ciągu każdego okresu 6 miesięcy liczonego od dnia pierwszego wjazdu,
-- **3)** ze względu na wyjątkową pilność sprawy, w szczególności uzasadnioną względami humanitarnymi, zobowiązaniami międzynarodowymi lub interesem Rzeczypospolitej Polskiej, gdy centralny organ wizowy innego państwa obszaru Schengen zajął negatywne stanowisko w toku konsultacji, o których mowa w art. 39 ust. 2 pkt 2, lub konsul odstąpił od przeprowadzenia konsultacji – pod warunkiem, że nie zachodzą okoliczności uzasadniające odmowę wydania wizy krajowej; warunek ten nie dotyczy wydania wizy w celu, o którym mowa w art. 28 ust. 1 pkt 11. jąca cudzoziemca do wjazdu i pobytu tylko na terytorium niektórych państw obszaru Schengen może być wydana, gdy dokument podróży cudzoziemca jest uznawany tylko na terytorium tych państw.
+Jeżeli dokonanie sprawdzenia lokalu nie jest możliwe z przyczyn niezależnych od cudzoziemca, funkcjonariusze Straży Granicznej informują o tym fakcie organ prowadzący postępowanie oraz przekazują mu informacje zgromadzone w toku czynności, o których mowa w ust. 1.
 
-**Art. 28.**
+### 8.
 
-1. Wiza jednolita pobytowa lub wiza krajowa mogą być wydane w celu:
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-- **1)** turystycznym;
-- **2)** odwiedzin;
-- **3)** udziału w imprezach sportowych;
-- **4)** prowadzenia działalności gospodarczej;
-- **5)** prowadzenia działalności kulturalnej lub udziału w konferencjach międzynarodowych;
-- **6)** wykonywania zadań służbowych przez przedstawicieli organu państwa obcego oraz organizacji międzynarodowej;
-- **7)** wykonywania pracy;
-- **8)** odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo studiów trzeciego stopnia;
-- **9)** naukowym, szkoleniowym, dydaktycznym, innym niż cel, o którym mowa w pkt 8;
-- **10)** korzystania z ochrony czasowej;
-- **11)** przyjazdu ze względów humanitarnych, ze względu na interes państwa lub zobowiązania międzynarodowe;
-- **12)** dołączenia do obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub przebywania z nim;
-- **13)** udziału w programie wymiany kulturalnej lub edukacyjnej albo programie pomocy humanitarnej lub programie wakacyjnej pracy studentów;
-- **14)** innym niż określony w pkt 1-13 oraz ust. 2 i 3.
+### 1)
 
-2. Wiza może być wydana także jako wiza:
+sposób i tryb przeprowadzania wywiadu środowiskowego, zakres wywiadu oraz miejsce i czas jego przeprowadzania, a także formę sprawozdania z przeprowadzonego wywiadu, uwzględniając konieczność zebrania informacji niezbędnych do postępowań prowadzonych na podstawie ustawy;
 
-- **1)** dyplomatyczna;
-- **2)** służbowa;
-- **3)** kurierska.
+### 2)
 
-3. Wiza w celu:
+tryb sprawdzania lokalu, o którym mowa w ust. 2, dokumenty upoważniające do przeprowadzenia sprawdzenia, a także sposób dokumentowania tych czynności, uwzględniając konieczność właściwej organizacji przeprowadzania sprawdzenia lokalu, w tym zawiadomienia cudzoziemca, oraz uzyskania przez Straż Graniczą informacji o faktycznym miejscu i okolicznościach pobytu cudzoziemca.
 
-- **1)** udziału w postępowaniu w sprawie o udzielenie azylu,
-- **2)** o którym mowa w art. 43 ust. 4, art. 61 ust. 3 lub art. 71a ust. 3,
-- **3)** przesiedlenia się jako członek najbliższej rodziny repatrianta, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE,
-- **5)** korzystania z uprawnień wynikających z posiadania Karty Polaka,
-- **6)** repatriacji – może być wydana tylko jako wiza krajowa.
+” ;
 
-**Art. 29.**
+### 5)
 
-1. Wiza w celu wykonywania pracy może być wydana cudzoziemcowi, który przedstawi przyrzeczenie wydania zezwolenia na pracę na terytorium Rzeczypospolitej Polskiej albo pisemne oświadczenie pracodawcy o zamiarze powierzenia cudzoziemcowi wykonywania pracy, jeżeli zezwolenie na pracę nie jest wymagane.
+w art. 13 ust. 1 otrzymuje brzmienie:
 
-2. Wizę, o której mowa w ust. 1, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w przyrzeczeniu lub oświadczeniu, nie dłuższy niż określony w art. 26 ust. 2 lub 4.
+„
 
-3. Cudzoziemcowi, który zamierza wykonywać na terytorium Rzeczypospolitej Polskiej pracę zależną od rytmu pór roku przez czas określony, wizę, o której mowa w ust. 1, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w przyrzeczeniu wydania zezwolenia na pracę lub pisemnym oświadczeniu pracodawcy o zamiarze powierzenia cudzoziemcowi wykonywania pracy, jeżeli zezwolenie na pracę nie jest wymagane, nie dłużej jednak niż na 6 miesięcy w okresie 12 miesięcy liczonych od dnia pierwszego wjazdu.
+### 1.
 
-**Art. 30.** Wizę dyplomatyczną wydaje się szefowi i członkowi personelu misji dyplomatycznej, kierownikowi urzędu konsularnego i członkowi personelu konsularnego państwa obcego oraz innej osobie zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także członkom ich rodzin.
+Cudzoziemiec może przekroczyć granicę i przebywać na terytorium Rzeczypospolitej Polskiej, jeżeli posiada:
 
-**Art. 31.** Wizę służbową wydaje się członkowi personelu administracyjnego i technicznego, członkowi personelu służby misji dyplomatycznej, pracownikowi konsularnemu, członkowi personelu służby urzędu konsularnego, innej osobie skierowanej do pracy w Rzeczypospolitej Polskiej oraz przyjeżdżającej służbowo zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także członkom ich rodzin.
+### 1)
 
-**Art. 32.** Wizę dyplomatyczną i służbową wydaje się na okres pełnienia funkcji, z którą jest związane uprawnienie do uzyskania tego rodzaju wizy.
+ważny dokument podróży;
 
-**Art. 33.** Wizę kurierską wydaje się kurierowi dyplomatycznemu.
+### 2)
 
-**Art. 34.**
+ważną wizę lub inny ważny dokument uprawniający do wjazdu i pobytu na tym terytorium, jeżeli są wymagane;
 
-1. Cudzoziemcowi odmawia się wydania wizy jednolitej, jeżeli jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, lub cudzoziemiec nie spełnia warunków wjazdu, o których mowa w art. 5 ust. 1 lit. a i c-e kodeksu granicznego Schengen. ważności terytorialnej.
+### 3)
 
-**Art. 35.** Cudzoziemcowi odmawia się wydania wizy krajowej, jeżeli:
+zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane w przypadku przejazdu tranzytem.
 
-**Art. 36.**
+” ;
 
-1. Wizę wydaje lub odmawia jej wydania konsul. Wizę w celu wykonywania pracy wydaje lub odmawia jej wydania konsul właściwy ze względu na państwo stałego zamieszkania cudzoziemca.
+### 6)
 
-2. Jeżeli cudzoziemiec legalnie przebywa na terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, wizę w celu wykonywania pracy może mu wydać inny konsul niż wskazany w ust. 1 zdanie drugie.
+po art. 13 dodaje się art. 13a w brzmieniu:
 
-3. Wizę dyplomatyczną, służbową i kurierską wydają lub odmawiają jej wydania:
+„
 
-- **1)** minister właściwy do spraw zagranicznych;
-- **2)** konsul.
+### Art. 13a.
 
-4. Wizę dyplomatyczną i służbową wydaje minister właściwy do spraw zagranicznych na podstawie noty ministerstwa spraw zakonsul – dodatkowo na podstawie wniosku o wydanie wizy.
+### 1.
 
-5. Decyzja wydana przez konsula jest ostateczna.
+Cudzoziemcy będący członkami załóg statków morskich przypływających do polskich portów morskich, przekraczający granicę w celu zejścia na ląd i pobytu w granicach miasta portowego, posiadający ważny dokument podróży oraz przepustkę wydaną przez komendanta placówki Straży Granicznej, są zwolnieni z obowiązku posiadania wiz.
 
-6. Konsul jest obowiązany uzasadnić ustnie odmowę wydania wizy, o której mowa w art. 28 ust. 1 pkt 12, może jednak odstąpić od uzasadnienia w całości lub w części, jeżeli wymagają tego względy bezpieczeństwa państwa.
+### 2.
 
-**Art. 37.**
+Przepustkę wydaje, odmawia jej wydania lub unieważnia komendant placówki Straży Granicznej.
 
-1. Komendant placówki Straży Granicznej może wydać wizę jednolitą na zasadach określonych w rozporządzeniu Rady (WE) nr 415/2003 z dnia 27 lutego 2003 r. w sprawie wydawania wiz na granicy, w tym wydawania takich wiz marynarzom podróżującym tranzytem (Dz. Urz. WE L 64 z 7.03.2003, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 119).
+### 3.
 
-2. Postępowanie w sprawie wydania wizy na granicy może być ograniczone do czynności, o których mowa w art. 24.
+Przepustkę wydaje się cudzoziemcowi na wniosek złożony przez armatora lub kapitana statku morskiego albo upoważnionego agenta występującego w jego imieniu.
 
-3. Komendant placówki Straży Granicznej odnotowuje wydanie decyzji o odmowie wydania wizy na granicy w dokumencie podróży cudzoziemca.
+### 4.
 
-4. Decyzja wydana przez komendanta placówki Straży Granicznej jest ostateczna.
+Do wniosku o wydanie przepustki dołącza się listę członków załogi statku morskiego zawierającą informacje określone w załączniku do Konwencji o ułatwieniu międzynarodowego obrotu morskiego, sporządzonej w Londynie dnia 9 kwietnia 1965 r. ([Dz. U. z 1969 r. Nr 30, poz. 236](https://api.sejm.gov.pl/eli/acts/DU/1969/236/text.html), z [1972 r. Nr 27, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/1972/199/text.html) oraz z [2003 r. Nr 131, poz. 1200](https://api.sejm.gov.pl/eli/acts/DU/2003/1200/text.html)).
 
-5. Komendant Główny Straży Granicznej:
+### 5.
 
-- **1)** informuje właściwe organy innych państw obszaru Schengen o wydaniu na granicy wizy jednolitej o ograniczonej ważności terytorialnej;
-- **2)** gromadzi informacje o wizach o ograniczonej ważności terytorialnej wydanych na granicy przez organy innych państw obszaru Schengen, upoważniających do wjazdu na terytorium tych państw.
+W przepustce zamieszcza się:
 
-**Art. 38.**
+### 1)
 
-1. Cudzoziemiec ubiegający się o wydanie wizy składa na formularzu wniosek, który zawiera:
+imię (imiona) i nazwisko członka załogi statku morskiego;
 
-- **1)** dane osobowe cudzoziemca oraz dane objętych wnioskiem dzieci i innych osób wpisanych do dokumentu podróży cudzoziemca, w zakresie niezbędnym do wydania wizy;
-- **2)** cechy dokumentu podróży cudzoziemca;
-- **3)** informację o podróżach i pobytach zagranicznych w okresie ostatnich 5 lat;
-- **4)** wskazanie i uzasadnienie celu pobytu.
+### 2)
 
-2. Do wniosku dołącza się fotografie osób objętych wnioskiem oraz dokumenty potwierdzające:
+nazwę i numer dokumentu podróży, którym legitymuje się członek załogi statku morskiego;
 
-- **1)** okoliczności podane we wniosku;
-- **2)** pokrycie przez ubezpieczyciela kosztów leczenia na terytorium państw obszaru Schengen w wysokości co najmniej 30 000 euro przez okres zamierzonego pobytu na tym terytorium – w przypadku wniosku o wydanie wizy jednolitej pobytowej; sów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium – w przypadku wniosku o wydanie wizy krajowej.
+### 3)
 
-3. Komendant placówki Straży Granicznej w przypadku, o którym mowa w art. 37 ust. 1, może zwolnić cudzoziemca od obowiązku dołączenia fotografii.
+nazwę statku morskiego;
 
-**Art. 39.**
+### 4)
 
-1. Wydanie wizy jednolitej w przypadkach określonych przez Radę Unii Europejskiej na podstawie art. 17 ust. 2 Konwencji Wykonawczej Schengen wymaga uzyskania zgody Szefa Urzędu do Spraw Cudzoziemców działającego jako centralny organ wizowy.
+nazwę portu (stoczni, przystani);
 
-2. Szef Urzędu do Spraw Cudzoziemców konsultuje możliwość wyrażenia zgody na wydanie wizy jednolitej:
+### 5)
 
-- **1)** w przypadkach określonych w załączniku 5A do Wspólnych Instrukcji Konsularnych dla misji dyplomatycznych i urzędów konsularnych dotyczących wiz (Dz. Urz. UE C 326 z
+datę wystawienia przepustki oraz okres jej ważności;
 
-22. 12.2005, str. 1), zwanych dalej „Wspólnymi Instrukcjami Konsularnymi”, z:
+### 6)
 
-- **a)** Komendantem Głównym Straży Granicznej,
-- **b)** Komendantem Głównym Policji,
-- **c)** Szefem Agencji Bezpieczeństwa Wewnętrznego,
-- **d)** Szefem Agencji Wywiadu,
-- **e)** ministrem właściwym do spraw zagranicznych;
-- **2)** w przypadkach określonych w załączniku 5B lub 5C do Wspólnych Instrukcji Konsularnych, z centralnymi organami wizowymi innych państw obszaru Schengen.
+odcisk stempla kontrolerskiego i podpis wystawiającego przepustkę;
 
-3. Jeżeli wydanie wizy przez organ wizowy innego państwa obszaru Schengen wymaga zgody centralnego organu wizowego Rzeczypospolitej Polskiej, Szef Urzędu do Spraw Cudzoziemców działający jako centralny organ wizowy konsultuje możliwość wyrażenia zgody z organami, o których mowa w ust. 2 pkt 1.
+### 7)
 
-4. Organy, o których mowa w ust. 2 pkt 1, są obowiązane, w terminie 5 dni od dnia otrzymania wniosku o konsultację, przekazać opinię w sprawie zgody na wydanie wizy jednolitej. Nieprzekazanie opinii w tym terminie uznaje się za równoważne z wydaniem opinii pozytywnej.
+informację, że przepustka jest ważna tylko z dokumentem podróży i upoważnia jej posiadacza do przebywania w obrębie miasta portowego.
 
-5. Na wniosek organów, o których mowa w ust. 2 pkt 1, termin przekazania opinii w sprawie zgody na wydanie wizy jednolitej może być przedłużony o 5 dni, a w szczególnie uzasadnionych przypadkach do 80 dni.
+### 6.
 
-6. Szef Urzędu do Spraw Cudzoziemców informuje konsula o wyrażeniu zgody na wydanie wizy jednolitej lub braku zgody na jej wydanie, w terminie 10 dni od dnia otrzymania wniosku w tej sprawie. Termin ten ulega przedłużeniu odpowiednio do przedłuprzekazania stanowiska przez centralne organy wizowe innych państw obszaru Schengen, o czym Szef Urzędu do Spraw Cudzoziemców zawiadamia konsula.
+Przepustkę wydaje się na okres postoju statku morskiego w porcie wskazanym we wniosku o wydanie przepustki. Przepustka jest wydawana na okres nie dłuższy niż 15 dni.
 
-7. Przepisu ust. 5 i 6 w zakresie dotyczącym terminów nie stosuje się, gdy inne terminy wynikają z umów międzynarodowych o ułatwieniach wizowych zawartych przez Unię Europejską.
+### 7.
 
-8. Nieudzielenie konsulowi przez Szefa Urzędu do Spraw Cudzoziemców informacji w sprawie zgody na wydanie wizy jednolitej w terminach, o których mowa w ust. 6, uznaje się za wyrażenie zgody.
+W przypadku nieprzewidzianego przedłużenia się okresu postoju statku morskiego komendant placówki Straży Granicznej może, na wniosek armatora lub kapitana statku morskiego albo upoważnionego agenta występującego w jego imieniu, przedłużyć ważność przepustki na okres wskazany we wniosku o przedłużenie przepustki, nie dłuższy niż 15 dni.
 
-9. Wiza wydawana na granicy przez komendanta placówki Straży Granicznej nie wymaga zgody Szefa Urzędu do Spraw Cudzoziemców.
+### 8.
 
-**Art. 40.**
+Odmawia się wydania przepustki, jeżeli zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 21 ust. 1 pkt 7-11.
 
-1. Przed wydaniem wizy jednolitej, do której nie stosuje się art. 17 ust. 2 Konwencji Wykonawczej Schengen, lub wizy krajowej, organ właściwy do jej wydania może zwrócić się do Szefa Urzędu do Spraw Cudzoziemców z wnioskiem o przekazanie informacji, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 34 lub art. 35 pkt 1-4, 6 i 7.
+### 9.
 
-2. Szef Urzędu do Spraw Cudzoziemców przekazuje informacje, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 34 lub art. 35 pkt 1-4, 6 i 7, po konsultacji z organami, o których mowa w art. 39 ust. 2 pkt 1.
+Przepustkę unieważnia się:
 
-3. Przepisy art. 39 ust. 4-8 stosuje się odpowiednio.
+### 1)
 
-**Art. 41.**
+w przypadku zatrzymania cudzoziemca poza granicami miasta portowego lub po upływie okresu, na który przepustka została wydana, lub
 
-1. Wizę krajową zamieszcza się w dokumencie podróży lub w polskim dokumencie tożsamości cudzoziemca, a w przypadku szczególnym, uzasadnionym interesem cudzoziemca, na osobnym blankiecie wizowym.
+### 2)
 
-2. Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej, w przypadku wymiany dokumentu podróży albo polskiego dokumentu tożsamości cudzoziemca, wojewoda właściwy ze względu na miejsce pobytu cudzoziemca, na jego wniosek, zamieszcza wizę w nowym dokumencie.
+gdy zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 21 ust. 1 pkt 7-11.
 
-3. Organ, który wydał cudzoziemcowi wizę krajową, może, z urzędu lub na wniosek cudzoziemca, sprostować w niej błędy pisarskie i oczywiste omyłki.
+### 10.
 
-4. Jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej, błędy pisarskie i oczywiste omyłki w wizie krajowej wydanej cudzoziemcowi przez konsula prostuje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca.
+Do odmowy wydania przepustki i jej unieważnienia stosuje się odpowiednio przepisy art. 23.
 
-5. Organ, który sprostował błędy pisarskie i oczywiste omyłki w wizie krajowej wydanej cudzoziemcowi, zamieszcza w dokumencie podróży lub polskim dokumencie tożsamości cudzoziemca nową wizę prawidłowo wypełnioną i anuluje wizę wydaną poprzednio. Polskiej można przedłużyć wizę jednolitą pobytową lub wizę krajową, jeżeli są spełnione łącznie następujące warunki:
+### 11.
 
-- **1)** przemawia za tym ważny interes zawodowy lub osobisty cudzoziemca albo względy humanitarne;
-- **2)** zdarzenia, które są przyczyną ubiegania się o przedłużenie wizy, wystąpiły niezależnie od woli cudzoziemca i nie były możliwe do przewidzenia w chwili wydania wizy;
-- **3)** okoliczności sprawy nie wskazują, że cel pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej będzie inny niż deklarowany;
-- **4)** nie zachodzą okoliczności, o których mowa w art. 34 lub w art. 35 pkt 1-6.
+Wydanie, przedłużenie oraz unieważnienie przepustki rejestruje się w ewidencji prowadzonej przez komendanta placówki Straży Granicznej.
 
-2. Okres pobytu na terytorium Rzeczypospolitej Polskiej na podstawie przedłużonej wizy nie może przekraczać okresu pobytu przewidzianego dla danego typu wizy.
+### 12.
 
-3. Cudzoziemcowi przebywającemu w szpitalu, którego stan zdrowia wyklucza przewiezienie lub wyjazd do innego państwa, wizę przedłuża się do dnia, w którym stan jego zdrowia pozwoli na opuszczenie terytorium Rzeczypospolitej Polskiej.
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór formularza wniosku o wydanie lub przedłużenie przepustki oraz wzór przepustki, uwzględniając dane, o których mowa w ust. 5.
 
-4. Organ właściwy do przedłużenia wizy może powołać biegłego lekarza w celu wydania opinii w sprawie, o której mowa w ust. 3.
+” ;
 
-5. Wizę przedłuża się jednokrotnie z wyjątkiem przypadku, o którym mowa w ust. 3. Przedłużenia wizy dokonuje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca przez zamieszczenie naklejki wizowej w dokumencie podróży cudzoziemca.
+### 7)
 
-6. Przedłużenie lub odmowa przedłużenia wizy następuje w drodze decyzji.
+art. 15 otrzymuje brzmienie:
 
-7. O przedłużeniu wizy jednolitej pobytowej wydanej przez organ innego państwa obszaru Schengen wojewoda informuje właściwy organ tego państwa.”;
+„
 
-- **18)** uchyla się art. 42a;
-- **19)** art. 43-45 otrzymują brzmienie: „Art. 43. 1. Cudzoziemiec jest obowiązany złożyć wniosek o przedłużenie wizy co najmniej 7 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie jednolitej lub co najmniej 14 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie krajowej.
+### Art. 15.
 
-2. Do wniosku o przedłużenie wizy stosuje się odpowiednio art. 38.
+### 1.
 
-3. Wojewoda powinien przedłużyć wizę albo odmówić jej przedłużenia przed upływem okresu pobytu oznaczonego w wizie, jeżeli wniosek o jej przedłużenie został złożony w terminie, o którym mowa w ust. 1.
+Cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej powinien:
 
-4. Wojewoda wydaje cudzoziemcowi, który złożył wniosek w terminach określonych w ust. 1, wizę krajową na okres postępowaostatecznej w tej sprawie.
+### 1)
 
-5. Przepisu ust. 4 nie stosuje się w razie zawieszenia postępowania w sprawie przedłużenia wizy na wniosek strony.
+uzasadnić cel i warunki planowanego pobytu;
 
-**Art. 44.**
+### 2)
 
-1. Wizę krajową unieważnia się, jeżeli:
+posiadać oraz okazać na żądanie funkcjonariusza Straży Granicznej:
 
-- **1)** dane cudzoziemca znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
-- **2)** wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego lub naruszać interes Rzeczypospolitej Polskiej;
-- **3)** okres ważności dokumentu podróży cudzoziemca upływa wcześniej niż 3 miesiące przed upływem okresu ważności posiadanej przez niego wizy;
-- **4)** cudzoziemiec w postępowaniu o wydanie wizy:
-    - **a)** złożył wniosek zawierający lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
-    - **b)** zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument, lub takiego dokumentu jako autentycznego używał.
+### a)
 
-2. Wizę krajową można unieważnić, jeżeli cudzoziemiec nie przedstawił wystarczających dokumentów potwierdzających zamierzony cel i warunki planowanego pobytu.
+dokument potwierdzający posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzający pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium - w przypadku wjazdu na podstawie wizy krajowej,
 
-3. Do unieważniania wizy jednolitej stosuje się przepisy załącznika V do kodeksu granicznego Schengen oraz decyzji Komitetu Wykonawczego z dnia 14 grudnia 1993 r. w sprawie wspólnych zasad anulowania, unieważniania lub skracania okresu ważności wizy jednolitej (Dz. Urz. WE L 239 z
+### b)
 
-22. 09.2000, str. 154; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 131).
+wystarczające środki utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub na tranzyt albo dokument potwierdzający możliwość uzyskania takich środków zgodnie z prawem,
 
-4. Postępowanie w sprawie unieważnienia wizy może być ograniczone do czynności, o których mowa w art. 24.
+### c)
 
-5. Decyzję o unieważnieniu wizy wydaje komendant placówki Straży Granicznej lub komendant oddziału Straży Granicznej.
+zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane w przypadku przejazdu tranzytem.
 
-6. Od decyzji komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej o unieważnieniu wizy przysł uguje odwołanie do Komendanta Głównego Straży Granicznej.
+### 2.
 
-7. Decyzji o unieważnieniu wizy nadaje się rygor natychmiastowej wykonalności.
+Obowiązek okazania środków utrzymania lub dokumentów potwierdzających możliwość uzyskania takich środków zgodnie z prawem nie dotyczy cudzoziemców przekraczających granicę:
 
-8. Wydanie decyzji o unieważnieniu wizy odnotowuje się w dokumencie podróży cudzoziemca. nieniu wizy jednolitej wydanej przez organ innego państwa obszaru Schengen właściwy organ tego państwa, podając przyczynę unieważnienia.
+### 1)
 
-**Art. 45.**
+na podstawie:
 
-1. Cudzoziemiec jest obowiązany opuścić terytorium Rzeczypospolitej Polskiej przed upływem okresu pobytu oznaczonego w wizie oraz przed upływem okresu ważności wizy, chyba że posiada ważny dokument uprawniający do pobytu na tym terytorium.
+### a)
 
-2. Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej na podstawie umowy międzynarodowej o zniesieniu obowiązku wizowego lub jednostronnego zniesienia obowiązku wizowego, lub wobec którego stosuje się częściowe lub całkowite zniesienie obowiązku wizowego, zgodnie z rozporządzeniem Rady (WE) nr 539/2001 z dnia 15 marca 2001 r. wymieniającym państwa trzecie, których obywatele muszą posiadać wizy podczas przekraczania granic zewnętrznych, oraz te, których obywatele są zwolnieni z tego wymogu (Dz. Urz. WE L 81 z 21.03.2001, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 65, z późn. zm.), jest obowiązany opuścić to terytorium przed up ływem terminu przewidzianego w umowie międzynarodowej, w jednostronnym zniesieniu obowiązku wizowego lub w rozporządzeniu, chyba że posiada ważny dokument uprawniający do pobytu na tym terytorium.
+umów międzynarodowych, które przewidują zwolnienie cudzoziemca z obowiązku posiadania tych środków albo obowiązek pokrycia kosztów jego pobytu przez polskie organy państwowe lub instytucje publiczne,
 
-3. Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej w ruchu bezwizowym na podstawie umowy międzynarodowej o zniesieniu obowiązku wizowego lub w związku z jednostronnym zniesieniem przez Rzeczpospolitą Polską obowiązku wizowego jest obowiązany opuścić to terytorium po upływie okresu pobytu, na który wjechał na terytorium Rzeczypospolitej Polskiej, nie później niż po upływie 3 miesięcy od dnia wejścia w życie wypowiedzenia umowy lub przywrócenia obowiązku wizowego.
+### b)
 
-4. Jeżeli wejście w życie wypowiedzenia umowy o całkowitym lub częściowym zniesieniu obowiązku wizowego lub przywrócenie obowiązku wizowego nastąpiło przed ogłoszeniem o tym w formie prawem przewidzianej, termin, o którym mowa w ust. 3, liczy się od dnia tego ogłoszenia.”;
+wizy w celu repatriacji,
 
-- **20)** uchyla się art. 45a i art. 45b;
-- **21)** art. 46-48 otrzymują brzmienie: „Art. 46. Minister wł aściwy do spraw zagranicznych w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
-- **1)** dokumenty potwierdzające pełnienie funkcji szefów i członków personelu misji dyplomatycznych, kierowników urzędów konsularnych i członków personelu konsularnego państw obcych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także status członków ich rodzin,
-- **3)** oznaczenie wiz wydawanych osobom, o których mowa w pkt 1 – uwzględniając obowiązujące w tym zakresie umowy lub powszechnie ustalone zwyczaje międzynarodowe.
+### c)
 
-**Art. 47.**
+wizy w celu wykonywania pracy,
 
-1. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+### d)
 
-- **1)** oznaczenie wiz, z wyłączeniem wiz wydawanych szefom i członkom personelu misji dyplomatycznych, kierownikom urzędów konsularnych i członkom personelu konsularnego państw obcych oraz innym osobom zrównanym z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych oraz członkom ich rodzin, uwzględniając typy wiz, o których mowa w art. 26, i cele wydania wizy określone w art. 28;
-- **2)** wzór wizy krajowej, uwzględniając zakres danych, które powinny być w niej zawarte, określony w art. 25 ust. 1-4;
-- **3)** wzór blankietu wizowego, o którym mowa w art. 41 ust. 1;
-- **4)** wzory formularzy wniosków o wydanie wizy lub jej przedłużenie, uwzględniając w szczególności dane, o których mowa w art. 12 i art. 38 ust. 1, oraz liczbę fotografii i wymogi dotyczące fotografii dołączanych do wniosków;
-- **5)** sposób odnotowywania przyjęcia wniosku wizowego;
-- **6)** sposób przekazywania przez konsula Szefowi Urzędu do Spraw Cudzoziemców danych zawartych we wniosku o wydanie wizy w celu przeprowadzenia konsultacji, o których mowa w art. 39, lub przekazania informacji, o których mowa w art. 40;
-- **7)** sposób zamieszczania wizy krajowej w dokumencie podróży oraz anulowania wizy krajowej wydawanej w toku postępowań: o przedłużenie wizy, wydanie zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE;
-- **8)** sposób odnotowywania przez komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej wydania decyzji o odmowie wydania wizy lub unieważnieniu wizy w dokumencie podróży.
+wizy w celu korzystania z ochrony czasowej,
 
-2. Sposób odnotowywania przyjęcia wniosku wizowego, zamieszczania wizy krajowej w dokumencie podróży, anulowania wizy krajowej, odnotowywania wydania decyzji o odmowie wydania wizy lub unieważnieniu wizy powinien zapewniać możliwość kontroli wykonania tych czynności.
+### e)
 
-3. Sposób przekazywania przez konsula Szefowi Urzędu do Spraw Cudzoziemców danych, o których mowa w ust. 1 pkt 6, powinien zapewniać sprawne przeprowadzenie konsultacji, przekazywania informacji oraz bezpieczne przekazywanie danych. mowa w ust. 1, można określić termin ważności wiz wydanych na blankietach dotychczasowego wzoru oraz termin, do którego mogą być stosowane blankiety dotychczasowego wzoru.
+wizy w celu udziału w postępowaniu w sprawie o udzielenie azylu,
 
-**Art. 48.** W zakresie nieuregulowanym przepisami niniejszego rozdziału stosuje się przepisy Wspólnych Instrukcji Konsularnych.”;
+### f)
 
-**Art. 100k.** Ostateczna decyzja organu innego państwa członkowskiego, zwanego dalej „wydającym państwem członkowskim”, o wydaleniu cudzoziemca w związku z:
+karty pobytu,
 
-**Art. 100l.**
+### g)
 
-1. Jeżeli decyzja o wydaleniu cudzoziemca wydana przez organ wydającego państwa członkowskiego dotyczy cudzoziemca posiadającego zezwolenie na zamieszkanie na czas oznaczony, zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE, Komendant Główny Straży Granicznej występuje do wojewody właściwego ze względu na miejsce pobytu cudzoziemca z wnioskiem o ustalenie, czy zachodzą przesłanki do ich cofnięcia.
+wizy w celu korzystania z uprawnień wynikających z posiadania Karty Polaka;
 
-2. Do decyzji o cofnięciu zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE, wydanych w związku z rozpatrzeniem wniosku, o którym mowa w ust. 1, nie stosuje się przepisów art. 58 ust. 4, art. 68 ust. 2 i art. 69 ust. 3.
+### 2)
 
-**Art. 100m.** Komendant Główny Straży Granicznej przeprowadza konsultacje z właściwym organem:
+w związku z niesieniem pomocy charytatywnej;
 
-**Art. 100n.**
+### 3)
 
-1. Decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego nie wykonuje się, gdy:
+w związku z uczestniczeniem w akcji ratunkowej.
 
-- **1)** zachodzą przesłanki do udzielenia zgody na pobyt tolerowany;
-- **2)** cudzoziemiec jest małżonkiem obywatela polskiego albo cudzoziemca posiadającego zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE;
-- **3)** wobec cudzoziemca toczy się postępowanie o nadanie statusu uchodźcy;
-- **4)** cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia wie art. 53 ust. 1 pkt 15 lub art. 53a ust. 2;
-- **5)** cudzoziemiec posiada zezwolenie na zamieszkanie na czas oznaczony, zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE, status uchodźcy, ochronę uzupełniającą lub zgodę na pobyt tolerowany;
-- **6)** cudzoziemiec jest pozbawiony wolności na skutek wykonania orzeczeń wydanych na podstawie ustaw lub stosuje się wobec niego środek zapobiegawczy w postaci zakazu opuszczania kraju;
-- **7)** właściwy organ wydającego państwa członkowskiego:
-    - **a)** nie przekazał dokumentów niezbędnych do potwierdzenia, że decyzja o wydaleniu jest w dalszym ciągu wykonalna,
-    - **b)** nie potwierdził gotowości zwrotu kosztów wykonania tej decyzji.
+### 3.
 
-2. Decyzja o wydaleniu cudzoziemca lub członków jego rodziny, posiadających dostęp do rynku pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w aktach prawnych wydanych przez organy powołane na mocy Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r., wydana przez organ innego państwa członkowskiego, może być wykonana tylko wtedy, gdy jednocześnie zachodzą przesłanki do wydalenia cudzoziemca z terytorium Rzeczypospolitej Polskiej, określone w przepisach rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
+Kontroli dokumentów potwierdzających cel i warunki planowanego pobytu, środków utrzymania lub dokumentów, o których mowa w ust. 1 pkt 2, dokonuje funkcjonariusz Straży Granicznej podczas przekraczania przez cudzoziemca granicy.
 
-3. Wykonanie decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego powoduje z mocy prawa unieważnienie wizy lub zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz cofnięcie zezwolenia na pracę.
+### 4.
 
-**Art. 100o.**
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia, wysokość środków utrzymania, które powinien posiadać cudzoziemiec wjeżdżający na terytorium Rzeczypospolitej Polskiej na czas trwania planowanego pobytu na tym terytorium oraz na powrót do państwa pochodzenia lub na tranzyt, dokumenty, które mogą potwierdzić możliwość uzyskania takich środków zgodnie z prawem oraz cel i czas trwania planowanego pobytu, jeżeli ze względu na cel lub czas trwania planowanego pobytu następuje zróżnicowanie wysokości środków.
 
-1. Cudzoziemca, którego dotyczy decyzja organu wydającego państwa członkowskiego podlegająca wykonaniu przez polskie organy, doprowadza się do granicy albo granicy państwa, do którego zostaje wydalony, lub do portu lotniczego albo morskiego tego państwa.
+### 5.
 
-2. Jeżeli właściwy organ innego państwa członkowskiego nie cofnął zezwolenia pobytowego wydanego cudzoziemcowi, o którym mowa w ust. 1, cudzoziemiec może być doprowadzony do granicy tego państwa lub do portu lotniczego albo morskiego tego państwa.
+Określona w rozporządzeniu wysokość środków utrzymania może być zróżnicowana w zależności od celu lub czasu trwania planowanego pobytu i powinna zapewniać możliwość pokrycia przez cudzoziemca kosztów zakwaterowania, wyżywienia, tranzytu i powrotu do państwa pochodzenia. Rodzaj dokumentów określonych w rozporządzeniu powinien zapewniać możliwość potwierdzenia posiadania przez cudzoziemca środków utrzymania w wymaganej wysokości.
 
-3. O opuszczeniu terytorium Rzeczypospolitej Polskiej przez cudzoziemca, o którym mowa w ust. 1 lub 2, Komendant Główny Straży Granicznej informuje właściwy organ wydającego państwa członkowskiego. przez organ wydającego państwa członkowskiego ponosi cudzoziemiec.
+” ;
 
-2. Jeżeli cudzoziemiec nie uiścił należności z tytułu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego, Komendant Główny Straży Granicznej występuje z pisemnym wnioskiem o zwrot tych kosztów do właściwego organu wydającego państwa członkowskiego.
+### 8)
 
-3. Do czasu uiszczenia przez cudzoziemca należności z tytułu kosztów wykonania decyzji organu wydającego państwa członkowskiego o wydaleniu lub ich zwrotu przez wydające państwo członkowskie koszty te są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
+uchyla się art. 15a;
 
-**Art. 100r.** Koszty wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesione przez organy innego państwa członkowskiego, są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
+### 9)
 
-**Art. 100s.** Do wniosku o zwrot kosztów wykonania decyzji o wydaleniu wydanej przez organ wydającego państwa członkowskiego oraz do zwrotu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesionych przez organy innego państwa członkowskiego, stosuje się decyzję Rady z dnia 23 lutego 2004 r. określającą kryteria oraz uzgodnienia praktyczne dotyczące rekompensaty dysproporcji finansowych wynikających ze stosowania dyrektywy Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich (Dz. Urz. WE L 60 z 27.02.2004, str. 55; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 5, str. 25).
+w art. 16 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Cudzoziemiec może przedstawić jako dokument potwierdzający możliwość uzyskania wystarczających środków utrzymania zaproszenie, które mogą wystawić: ” ;
 
-**Art. 100t.** Do wykonania decyzji o wydaleniu wydanej przez organ wydającego państwa członkowskiego stosuje się odpowiednio przepisy art. 94 i art. 95, oraz rozdziałów 8a-10.
+### 10)
 
-**Art. 100u.** Komendant Główny Straży Granicznej pełni funkcję krajowego punktu kontaktowego państwa członkowskiego w rozumieniu art. 3 ust. 4 decyzji Rady z dnia 23 lutego 2004 r. określającej kryteria oraz uzgodnienia praktyczne dotyczące rekompensaty dysproporcji finansowych wynikających ze stosowania dyrektywy Rady 2001/40/WE w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich, a w szczególności uzgadnia wysokość i sposób zwrotu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesionych przez organy innego państwa członkowskiego, a ponadto:
+w art. 17 w ust. 3:
 
-**Art. 100w.** Zawarte w art. 100k-100u określenie „państwo członkowskie” oznacza państwo członkowskie stosujące dyrektywę Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich.”;
+### a)
 
-**Art. 2.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2004 r. Nr 167, poz. 1758, z 2005 r. Nr 94, poz. 788 i Nr 183, poz. 1538 oraz z 2008 r. Nr 180, poz. 1112) w art. 1a w ust. 2 pkt 3 otrzymuje brzmienie: „3) posiadanie zezwolenia na zamieszkanie na czas oznaczony z wyłączeniem zezwolenia udzielonego na podstawie art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ), zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich;”.
+pkt 1 otrzymuje brzmienie:
 
-**Art. 3.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2000 r. Nr 23, poz. 295, z późn. zm. ) w art. 10 po ust. 5 dodaje się ust. 5a w brzmieniu: „5a. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, postępowanie ze zwłokami cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia, w szczególności sposób powiadamiania osób, o których mowa w ust. 1, o zgonie, podmioty wydające zgodę na pochowanie zwłok, tryb postępowania ze zwłokami, które nie zostaną odebrane, oraz sposób ponoszenia kosztów pochówku zleconego przez strzeżony ośrodek lub areszt w celu wydalenia, kierując się koniecznością zachowania godności należnej zmarłemu i bezpieczeństwem sanitarnym.”.
+„
 
-**Art. 4.** W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. z 2002 r. Nr 215, poz. 1823, z 2004 r. Nr 173, poz. 1808 oraz z 2007 r. Nr 180, poz. 1280 i Nr 181, poz. 1287) w art. 23 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) wydaje zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.”.
+### 1)
 
-**Art. 5.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2005 r. Nr 226, poz. 1944, z 2007 r. Nr 107, poz. 732 i Nr 140, poz. 982 oraz z 2008 r. Nr 195, poz. 1199) wprowadza się następujące zmiany:
+zapraszanym jest cudzoziemiec, w przypadku którego zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 35 pkt 1,4 lub 6;
 
-**Art. 6.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm. ) wprowadza się następujące zmiany:
+” ,
 
-**Art. 7.** W ustawie z dnia 9 listopada 2000 r. o repatriacji (Dz. U. z 2004 r. Nr 53, poz. 532, z późn. zm. ) użyte w art. 1 ust. 2, art. 4, art. 8 zdanie wstępne, art. 9, art. 10, art. 11 ust. 1 i 3, art. 12 ust. 1, art. 12a, art. 12b ust. 1, art. 14, art. 15 ust. 3, art. 17 ust. 9, art. 18 ust. 1, art. 29 ust. 2, art. 30, art. 31 ust. 1, art. 32 pkt 1 i art. 33 ust. 1 pkt 1 w różnych przypadkach wyrazy „wiza wjazdowa w celu repatriacji” zastępuje się użytymi w odpowiednich przypadkach wyrazami „wiza krajowa w celu repatriacji”.
+### b)
 
-**Art. 8.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm. ) w art. 5 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) zezwoleń na przekraczanie granicy w ramach małego ruchu granicznego wydawanych przez konsulów.”.
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
 
-**Art. 9.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2006 r. Nr 234, poz. 1695, z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 70, poz. 416) wprowadza się następujące zmiany:
+„
 
-**Art. 10.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2008 r. Nr 115, poz. 728 i Nr 171, poz. 1056) wprowadza się następujące zmiany:
+### 4)
 
-**Art. 11.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, Nr 70, poz. 416, Nr 134, poz. 850 i Nr 171, poz. 1056) w art. 87 wprowadza się następujące zmiany:
+zapraszający nie spełnia wymogów, o których mowa w art. 16 ust. 1.
 
-**Art. 12.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2007 r. Nr 155, poz. 1095, z późn. zm. ) w art. 13 w ust. 2 w pkt 1 po lit. f dodaje się lit. g w brzmieniu: „g) wizę, o której mowa w art. 61 ust. 3 lub art. 71a ust. 3 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, jeżeli przed wydaniem tej wizy byli uprawnieni do podejmowania i wykonywania działalności gospodarczej na podstawie lit. c,”.
+” ;
 
-**Art. 13.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027) w art. 3 w ust. 1 pkt 2 otrzymuje brzmienie: „2) osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, przebywające na terytorium Rzeczypospolitej Polskiej na podstawie wizy w celu wykonywania pracy, zezwolenia na zamieszkanie na czas oznaczony z wyłączeniem zezwolenia udzielonego na podstawie art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z późn. zm. ), zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich, zgody na pobyt tolerowany lub osoby, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą albo korzystające z ochrony czasowej na jej terytorium,”.
+### 11)
 
-**Art. 14.** W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. Nr 144, poz. 1043 oraz z 2007 r. Nr 120, poz. 818) wprowadza się następujące zmiany:
+art. 21 otrzymuje brzmienie:
 
-**Art. 15.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. Nr 225, poz. 1635, z późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 16.** W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej (Dz. U. Nr 165, poz. 1170 oraz z 2008 r. Nr 195, poz. 1198) w art. 4 w ust. 1 pkt 4 otrzymuje brzmienie: „4) cudzoziemców, których dane zostały wpisane do Systemu Informacyjnego Schengen dla celów odmowy wjazdu, przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Agencji Wywiadu, Służbie Celnej, organom kontroli skarbowej, sądowi, prokuraturze, Szefowi Urzędu do Spraw Cudzoziemców, Służbie Kontrwywiadu Wojskowego, wojewodzie, konsulowi lub ministrowi właściwemu do spraw zagranicznych;”.
+### Art. 21.
 
-**Art. 17.** W ustawie z dnia 7 września 2007 r. o Karcie Polaka (Dz. U. Nr 180, poz. 1280 oraz z 2008 r. Nr 52, poz. 305 i Nr 214, poz. 1348) w art. 5 ust. 1 otrzymuje brzmienie: „1. Posiadacz Karty Polaka może ubiegać się o zwolnienie z opłaty za przyjęcie i rozpatrzenie wniosku o wydanie wizy krajowej w celu korzystania z uprawnień wynikających z posiadania Karty Polaka lub o refundację tej opłaty.”.
+### 1.
 
-**Art. 18.** Wizy wydane na podstawie art. 33, art. 34 ust. 1, art. 44 ust. 3, art. 61 ust. 3 i art. 71a ust. 3 ustawy, o której mowa w art. 1, zachowują ważność przez okres, na jaki zostały wydane.
+Cudzoziemcowi odmawia się wjazdu na terytorium Rzeczypospolitej Polskiej, jeżeli: Dnie posiada ważnych dokumentów lub wizy, o których mowa w art. 13 ust. 1;
 
-**Art. 19.** Do cudzoziemców, którym wydano wizy na podstawie art. 33 ustawy, o której mowa w art. 1, stosuje się przepisy dotyczące cudzoziemców, którym udzielono zezwolenia na zamieszkanie na czas oznaczony wydane na podstawie art. 53a ust. 2 tej ustawy.
+### 2)
 
-**Art. 20.** Z dniem wejścia w życie niniejszej ustawy decyzje o:
+nie uiścił opłaty, do której uiszczenia był obowiązany na podstawie art. 13 ust. 2;
 
-**Art. 21.** Dane cudzoziemca, któremu została wydana decyzja o odmowie nadania statusu uchodźcy, zawierająca nakaz opuszczenia terytorium Rzeczypospolitej Polskiej, przechowuje się w wykazie, o którym mowa w art. 124 pkt 4 ustawy, o której mowa w art. 1, przez okres, na jaki zostały w nim umieszczone.
+### 3)
 
-**Art. 22.** Cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany zalicza się do okresu nieprzerwanego pobytu wymaganego do uzyskania zezwolenia na osiedlenie się także okresy pobytu na podstawie zezwolenia udzielonego na podstawie art. 97 pkt 1 lub pkt 3 ustawy, o której mowa w art. 9, w brzmieniu obowiązującym do dnia 1 października 2005 r.
+nie posiada dokumentu potwierdzającego posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzającego pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium;
 
-**Art. 23.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 4)
 
-**Art. 24.** Dotychczasowe przepisy wykonawcze wydane na podstawie: ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 13a ust. 12, art. 15 ust. 4, art. 46, art. 47 ust. 1 i art. 53b ust. 6 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy;
+wykorzystał dopuszczalny czas pobytu na terytorium państw obszaru Schengen przez 3 miesiące w okresie 6 miesięcy liczonych od dnia pierwszego wjazdu, chyba że umowy międzynarodowe stanowią inaczej;
 
-**Art. 25.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+### 5)
 
+nie przedstawił dokumentów wystarczających do potwierdzenia celu i warunków planowanego pobytu;
+
+### 6)
+
+nie posiada wystarczających środków utrzymania w odniesieniu do długości i celu planowanego pobytu lub środków na powrót do państwa pochodzenia lub tranzyt albo dokumentu potwierdzającego możliwość uzyskania takich środków zgodnie z prawem;
+
+### 7)
+
+posiada podrobiony lub przerobiony dokument podróży, wizę lub inny dokument uprawniający do wjazdu i pobytu;
+
+### 8)
+
+dane cudzoziemca znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
+
+### 9)
+
+dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen, o którym mowa w art. 92 Konwencji Wykonawczej Schengen, do celów odmowy wjazdu;
+
+### 10)
+
+wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla zdrowia publicznego;
+
+### 11)
+
+wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa, ochrony bezpieczeństwa i porządku publicznego lub stosunków międzynarodowych Rzeczypospolitej Polskiej lub innego państwa członkowskiego Unii Europejskiej.
+
+### 2.
+
+Przepisów ust. 1 nie stosuje się do cudzoziemca, który:
+
+### 1)
+
+posiada zezwolenie na zamieszkanie na czas oznaczony, udzielone na podstawie art. 53a ust. 2;
+
+### 2)
+
+posiada wizę jednolitą pobytową upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11.
+
+### 3.
+
+Przepisów ust. 1 pkt 1-7 i pkt 9-11 nie stosuje się do cudzoziemca przejeżdżającego przez terytorium Rzeczypospolitej Polskiej tranzytem w przypadkach, o których mowa w art. 5 ust. 4 lit. a rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) ([Dz. Urz. UE L 105 z 13.04.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwany dalej „kodeksem granicznym Schengen”.
+
+### 4.
+
+Przepisów ust. 1 pkt 2 i 3 nie stosuje się do cudzoziemca wjeżdżającego na terytorium Rzeczypospolitej Polskiej na okres nieprzekraczający 3 miesięcy.
+
+### 5.
+
+Okoliczności, o których mowa w ust. 1 pkt 4 lub 9, nie mogą stanowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi, który posiada wizę krajową lub wizę jednolitą pobytową upoważniającą tylko do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej.
+
+### 6.
+
+Okoliczności, o których mowa w ust. 1 pkt 3 lub 4, nie mogą stanowić wyłącznej podstawy odmowy wjazdu cudzoziemcowi podróżującemu do innego państwa obszaru Schengen, które wydało mu wizę krajową, lub posiadającemu wizę jednolitą tranzytową.
+
+### 7.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+### 1)
+
+wykaz chorób mogących stanowić zagrożenie dla zdrowia publicznego, których rozpoznanie lub podejrzenie wystąpienia może stanowić podstawę odmowy wjazdu cudzoziemca na terytorium Rzeczypospolitej Polskiej,
+
+### 2)
+
+kryteria pozwalające rozpoznać lub podejrzewać wystąpienie chorób mogących stanowić zagrożenie dla zdrowia publicznego, o których mowa w pkt 1
+
+- uwzględniając tylko choroby epidemiczne określone przez Światową Organizację Zdrowia oraz inne choroby wysoce zakaźne i szczególnie niebezpieczne, które podlegają zwalczaniu u obywateli polskich na podstawie przepisów ustawy z dnia 6 września 2001 r. o chorobach zakaźnych i zakażeniach ([Dz. U. Nr 126, poz. 1384](https://api.sejm.gov.pl/eli/acts/DU/2001/1384/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391 i Nr 199, poz. 1938, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2006 r. Nr 220, poz. 1600.](#gloss-0:4:)), oraz mając na celu zapewnienie humanitarnego traktowania cudzoziemców i zapobieżenie zagrożeniu dla zdrowia publicznego w obszarze przejścia granicznego.
+
+” ;
+
+### 12)
+
+po art. 21 dodaje się art. 21a w brzmieniu:
+
+„
+
+### Art. 21a.
+
+### 1.
+
+Cudzoziemcowi, który nie spełnia warunków dotyczących wjazdu określonych w ustawie lub w art. 5 kodeksu granicznego Schengen, komendant placówki Straży Granicznej, po uzyskaniu zgody Komendanta Głównego Straży Granicznej, może zezwolić na wjazd na terytorium Rzeczypospolitej Polskiej na okres pobytu nie dłuższy niż 15 dni, jeżeli wymagają tego względy humanitarne, interes Rzeczypospolitej Polskiej lub zobowiązania międzynarodowe. Do wydania zezwolenia i samego zezwolenia nie stosuje się przepisów Kodeksu postępowania administracyjnego oraz nie przysługuje skarga do sądu administracyjnego.
+
+### 2.
+
+O wydaniu zezwolenia Komendant Główny Straży Granicznej informuje Szefa Urzędu do Spraw Cudzoziemców, a jeżeli dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, również właściwy organ innego państwa obszaru Schengen, które dokonało wpisu.
+
+” ;
+
+### 13)
+
+w art. 24a ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Komendant placówki Straży Granicznej jest organem właściwym do podejmowania decyzji w sprawie odmowy wjazdu zgodnie z art. 13 ust. 2 kodeksu granicznego Schengen.
+
+” ;
+
+### 14)
+
+art. 24b otrzymuje brzmienie:
+
+„
+
+### Art. 24b.
+
+Do przekraczania przez cudzoziemca granicy w zakresie uregulowanym przepisami kodeksu granicznego Schengen nie stosuje się przepisów art. 13, art. 14, art. 15 ust. 1-3, 6 i 7 i art. 23-24.
+
+” ;
+
+### 15)
+
+po art. 24b dodaje się art. 24c w brzmieniu:
+
+„
+
+### Art. 24c.
+
+Przepisów rozdziału, z wyjątkiem art. 21 ust. 7, nie stosuje się do przekraczania granicy przez cudzoziemców w ramach małego ruchu granicznego.
+
+” ;
+
+### 16)
+
+po rozdziale 2 dodaje się rozdział 2a w brzmieniu:
+
+„
+
+### Rozdział 2a Przekraczanie granicy w ramach małego ruchu granicznego
+
+### Art. 24d.
+
+Cudzoziemcy zamieszkujący w strefie przygranicznej państwa sąsiadującego z Rzecząpospolitą Polską, przekraczający granicę w celu pobytu w polskiej strefie przygranicznej na podstawie ważnego zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, na zasadach określonych w umowie o małym ruchu granicznym zawartej przez Rzeczpospolitą Polską z tym państwem, są zwolnieni z obowiązku posiadania wiz.
+
+### Art. 24e.
+
+### 1.
+
+Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego może być wydane cudzoziemcowi, który spełnia warunki określone w art. 9 rozporządzenia nr 1931/2006.
+
+### 2.
+
+Jeżeli cudzoziemiec nie spełnia warunków określonych w rozporządzeniu nr 1931/2006, odmawia się mu wydania zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
+
+### Art. 24f.
+
+### 1.
+
+Cudzoziemiec ubiegający się o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego składa na formularzu wniosek i przedstawia w nim powody częstego przekraczania granicy w ramach małego ruchu granicznego oraz dołącza:
+
+### 1)
+
+fotografie wnioskodawcy;
+
+### 2)
+
+dokumenty potwierdzające posiadanie miejsca stałego zamieszkania w strefie przygranicznej;
+
+### 3)
+
+dokumenty potwierdzające powody częstego przekraczania granicy.
+
+### 2.
+
+Cudzoziemiec ubiegający się o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego jest obowiązany przedstawić właściwemu organowi ważny dokument podróży.
+
+### 3.
+
+W zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego zamieszcza się: fotografię, informację o płci posiadacza, dane oraz pouczenie, o których mowa w art. 7 ust. 3 rozporządzenia nr 1931/2006, serię i numer zezwolenia, nazwę organu wydającego, a także w razie potrzeby informacje, o których mowa w art. 15 ust. 4 lit. a rozporządzenia nr 1931/2006.
+
+### Art. 24g.
+
+### 1.
+
+Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego cofa się, jeżeli:
+
+### 1)
+
+zostało wydane z naruszeniem przepisów rozporządzenia nr 1931/2006;
+
+### 2)
+
+po wydaniu zezwolenia cudzoziemiec przestał spełniać warunki do jego wydania.
+
+### 2.
+
+W przypadku wydania decyzji o cofnięciu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego cudzoziemiec zwraca zezwolenie konsulowi, który je wydał.
+
+### Art. 24h.
+
+### 1.
+
+Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego wydaje, odmawia jego wydania lub cofa konsul właściwy ze względu na miejsce stałego zamieszkania cudzoziemca.
+
+### 2.
+
+Decyzja konsula w sprawie wydania lub cofnięcia zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego jest ostateczna.
+
+### Art. 24i.
+
+### 1.
+
+Zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego unieważnia się, w drodze decyzji, jeżeli cudzoziemiec, który wjechał na jego podstawie na terytorium Rzeczypospolitej Polskiej:
+
+### 1)
+
+przebywa na tym terytorium po upływie okresu pobytu, do którego był uprawniony na podstawie zezwolenia, lub
+
+### 2)
+
+przebywa poza strefą przygraniczną, w której zgodnie z zezwoleniem mógł przebywać
+
+- jeżeli zachodzą przeszkody prawne do wydania w tych okolicznościach decyzji o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej lub decyzji o wydaleniu.
+
+### 2.
+
+Decyzję o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego wydaje komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant placówki Straży Granicznej lub komendant oddziału Straży Granicznej, który w wyniku kontroli legalności pobytu cudzoziemca stwierdził okoliczności uzasadniające unieważnienie tego zezwolenia.
+
+### 3.
+
+Od decyzji o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego przysługuje odwołanie do wojewody właściwego ze względu na siedzibę organu, który wydał decyzję.
+
+### Art. 24j.
+
+### 1.
+
+Komendant placówki Straży Granicznej zatrzymuje zezwolenie na przekraczanie granicy w ramach małego ruchu granicznego, jeżeli podczas kontroli granicznej stwierdzi, że zezwolenie to zostało cofnięte lub unieważnione.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia, tryb postępowania po zatrzymaniu podczas kontroli granicznej zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wzór zaświadczenia o zatrzymaniu zezwolenia, uwzględniając konieczność uniemożliwienia korzystania z tego zezwolenia.
+
+### Art. 24k.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+wzór formularza wniosku o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, uwzględniając w szczególności dane, o których mowa w art. 12, w zakresie niezbędnym do wydania zezwolenia oraz liczbę i wymogi dotyczące dołączanych do wniosku fotografii;
+
+### 2)
+
+wzór zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, uwzględniając wymogi określone w art. 24f ust. 3 i w przepisach art. 7 ust. 3 i art. 15 ust. 4 rozporządzenia nr 1931/2006.
+
+” ;
+
+### 17)
+
+art. 25-42 otrzymują brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+Wiza określa:
+
+### 1)
+
+numer dokumentu podróży cudzoziemca;
+
+### 2)
+
+miejsce i datę jej wydania;
+
+### 3)
+
+cel wjazdu i pobytu;
+
+### 4)
+
+okres ważności wizy, podczas którego może nastąpić pierwszy wjazd na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen i musi nastąpić ostatni wyjazd z tego terytorium;
+
+### 5)
+
+okres pobytu, przez który cudzoziemiec może przebywać, w okresie ważności wizy, na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen;
+
+### 6)
+
+liczbę wjazdów na terytorium Rzeczypospolitej Polskiej lub państw obszaru Schengen dozwolonych w okresie pobytu.
+
+### 2.
+
+Wiza może uprawniać do jednego, dwóch lub nieograniczonej liczby wjazdów.
+
+### 3.
+
+Początek okresu ważności wizy powinien przypadać na okres 3 miesięcy od dnia wydania wizy.
+
+### 4.
+
+Wiza może określać inne warunki wjazdu, a także zawierać inne informacje, a w szczególności:
+
+### 1)
+
+imię i nazwisko cudzoziemca oraz jego fotografię;
+
+### 2)
+
+miejsce, w którym powinno nastąpić przekroczenie granicy;
+
+### 3)
+
+liczbę dzieci oraz innych osób towarzyszących cudzoziemcowi, wpisanych do jego dokumentu podróży.
+
+### 5.
+
+Wiza może zawierać zakodowany zapis danych i informacji, o których mowa w ust. 1 i 4.
+
+### Art. 26.
+
+### 1.
+
+Wizę wydaje się jako wizę:
+
+### 1)
+
+jednolitą: pobytową lub tranzytową;
+
+### 2)
+
+krajową.
+
+### 2.
+
+Wiza jednolita pobytowa uprawnia do jednego lub większej liczby wjazdów, pod warunkiem, że ani długość ciągłego pobytu, ani całkowita długość kolejnych pobytów na terytorium państw obszaru Schengen nie przekraczają 3 miesięcy w ciągu każdego okresu 6 miesięcy liczonego od dnia pierwszego wjazdu na to terytorium.
+
+### 3.
+
+Wiza jednolita tranzytowa uprawnia do:
+
+### 1)
+
+przejazdu przez terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen w drodze na terytorium innego państwa niż państwa obszaru Schengen, pod warunkiem że tranzyt nie przekracza 5 dni;
+
+### 2)
+
+pobytu w strefie tranzytowej lotniska międzynarodowego.
+
+### 4.
+
+Wiza krajowa uprawnia do wjazdu i ciągłego pobytu na terytorium Rzeczypospolitej Polskiej lub kilku pobytów następujących po sobie, trwających łącznie dłużej niż 3 miesiące i nieprzekraczających łącznie roku w okresie ważności wizy.
+
+### 5.
+
+Okres pobytu na podstawie wizy jednolitej pobytowej lub wizy krajowej ustala się w granicach określonych w ust. 2 lub 4 odpowiednio do celu pobytu wskazanego przez cudzoziemca.
+
+### 6.
+
+Na wniosek cudzoziemca może być wydana wiza krajowa, która przez okres 3 miesięcy, licząc od pierwszego dnia jej ważności, uprawnia do wjazdu i pobytu także jako wiza jednolita pobytowa, jeżeli nie zachodzą przesłanki odmowy wydania wizy krajowej oraz wizy jednolitej pobytowej.
+
+### 7.
+
+Okres ważności wizy jednolitej pobytowej lub wizy krajowej nie może przekroczyć 5 lat.
+
+### Art. 27.
+
+### 1.
+
+Wiza jednolita może być wydana cudzoziemcowi, który spełnia warunki określone w art. 5 ust. 1 lit. a i c-e kodeksu granicznego Schengen.
+
+### 2.
+
+Wiza jednolita o ograniczonej ważności terytorialnej upoważniająca do wjazdu i pobytu tylko na terytorium Rzeczypospolitej Polskiej może być wydana cudzoziemcowi:
+
+### 1)
+
+który nie spełnia warunków wjazdu, o których mowa w art. 5 ust. 1 lit. c-e kodeksu granicznego Schengen,
+
+### 2)
+
+który wykorzystał dopuszczalny czas pobytu na terytorium państw obszaru Schengen przez 3 miesiące w ciągu każdego okresu 6 miesięcy liczonego od dnia pierwszego wjazdu,
+
+### 3)
+
+ze względu na wyjątkową pilność sprawy, w szczególności uzasadnioną względami humanitarnymi, zobowiązaniami międzynarodowymi lub interesem Rzeczypospolitej Polskiej, gdy centralny organ wizowy innego państwa obszaru Schengen zajął negatywne stanowisko w toku konsultacji, o których mowa w art. 39 ust. 2 pkt 2, lub konsul odstąpił od przeprowadzenia konsultacji
+
+- pod warunkiem, że nie zachodzą okoliczności uzasadniające odmowę wydania wizy krajowej; warunek ten nie dotyczy wydania wizy w celu, o którym mowa w art. 28 ust. 1 pkt 11.
+
+### 3.
+
+Wiza jednolita o ograniczonej ważności terytorialnej upoważniająca cudzoziemca do wjazdu i pobytu tylko na terytorium niektórych państw obszaru Schengen może być wydana, gdy dokument podróży cudzoziemca jest uznawany tylko na terytorium tych państw.
+
+### Art. 28.
+
+### 1.
+
+Wiza jednolita pobytowa lub wiza krajowa mogą być wydane w celu:
+
+### 1)
+
+turystycznym;
+
+### 2)
+
+odwiedzin;
+
+### 3)
+
+udziału w imprezach sportowych;
+
+### 4)
+
+prowadzenia działalności gospodarczej;
+
+### 5)
+
+prowadzenia działalności kulturalnej lub udziału w konferencjach międzynarodowych;
+
+### 6)
+
+wykonywania zadań służbowych przez przedstawicieli organu państwa obcego oraz organizacji międzynarodowej;
+
+### 7)
+
+wykonywania pracy;
+
+### 8)
+
+odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo studiów trzeciego stopnia;
+
+### 9)
+
+naukowym, szkoleniowym, dydaktycznym, innym niż cel, o którym mowa w pkt 8;
+
+### 10)
+
+korzystania z ochrony czasowej;
+
+### 11)
+
+przyjazdu ze względów humanitarnych, ze względu na interes państwa lub zobowiązania międzynarodowe;
+
+### 12)
+
+dołączenia do obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej lub przebywania z nim;
+
+### 13)
+
+udziału w programie wymiany kulturalnej lub edukacyjnej albo programie pomocy humanitarnej lub programie wakacyjnej pracy studentów;
+
+### 14)
+
+innym niż określony w pkt 1-13 oraz ust. 2 i 3.
+
+### 2.
+
+Wiza może być wydana także jako wiza:
+
+### 1)
+
+dyplomatyczna;
+
+### 2)
+
+służbowa;
+
+### 3)
+
+kurierska.
+
+### 3.
+
+Wiza w celu:
+
+### 1)
+
+udziału w postępowaniu w sprawie o udzielenie azylu,
+
+### 2)
+
+o którym mowa w art. 43 ust. 4, art. 61 ust. 3 lub art. 71a ust. 3,
+
+### 3)
+
+przesiedlenia się jako członek najbliższej rodziny repatrianta,
+
+### 4)
+
+realizacji zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE,
+
+### 5)
+
+korzystania z uprawnień wynikających z posiadania Karty Polaka,
+
+### 6)
+
+repatriacji
+
+- może być wydana tylko jako wiza krajowa.
+
+### Art. 29.
+
+### 1.
+
+Wiza w celu wykonywania pracy może być wydana cudzoziemcowi, który przedstawi przyrzeczenie wydania zezwolenia na pracę na terytorium Rzeczypospolitej Polskiej albo pisemne oświadczenie pracodawcy o zamiarze powierzenia cudzoziemcowi wykonywania pracy, jeżeli zezwolenie na pracę nie jest wymagane.
+
+### 2.
+
+Wizę, o której mowa w ust. 1, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w przyrzeczeniu lub oświadczeniu, nie dłuższy niż określony w art. 26 ust. 2 lub 4.
+
+### 3.
+
+Cudzoziemcowi, który zamierza wykonywać na terytorium Rzeczypospolitej Polskiej pracę zależną od rytmu pór roku przez czas określony, wizę, o której mowa w ust. 1, wydaje się na okres pobytu, który odpowiada okresowi wskazanemu w przyrzeczeniu wydania zezwolenia na pracę lub pisemnym oświadczeniu pracodawcy o zamiarze powierzenia cudzoziemcowi wykonywania pracy, jeżeli zezwolenie na pracę nie jest wymagane, nie dłużej jednak niż na 6 miesięcy w okresie 12 miesięcy liczonych od dnia pierwszego wjazdu.
+
+### Art. 30.
+
+Wizę dyplomatyczną wydaje się szefowi i członkowi personelu misji dyplomatycznej, kierownikowi urzędu konsularnego i członkowi personelu konsularnego państwa obcego oraz innej osobie zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także członkom ich rodzin.
+
+### Art. 31.
+
+Wizę służbową wydaje się członkowi personelu administracyjnego i technicznego, członkowi personelu służby misji dyplomatycznej, pracownikowi konsularnemu, członkowi personelu służby urzędu konsularnego, innej osobie skierowanej do pracy w Rzeczypospolitej Polskiej oraz przyjeżdżającej służbowo zrównanej z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także członkom ich rodzin.
+
+### Art. 32.
+
+Wizę dyplomatyczną i służbową wydaje się na okres pełnienia funkcji, z którą jest związane uprawnienie do uzyskania tego rodzaju wizy.
+
+### Art. 33.
+
+Wizę kurierską wydaje się kurierowi dyplomatycznemu.
+
+### Art. 34.
+
+### 1.
+
+Cudzoziemcowi odmawia się wydania wizy jednolitej, jeżeli jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, lub cudzoziemiec nie spełnia warunków wjazdu, o których mowa w art. 5 ust. 1 lit. a i c-e kodeksu granicznego Schengen.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do wiz jednolitych o ograniczonej ważności terytorialnej.
+
+### Art. 35.
+
+Cudzoziemcowi odmawia się wydania wizy krajowej, jeżeli:
+
+### 1)
+
+jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
+
+### 2)
+
+nie posiada wystarczających środków utrzymania na czas trwania planowanego pobytu na terytorium Rzeczypospolitej Polskiej;
+
+### 3)
+
+nie posiada ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenia pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej ważnego przez okres zamierzonego pobytu cudzoziemca na tym terytorium;
+
+### 4)
+
+zachodzi obawa, że wydanie wizy mogłoby spowodować zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego albo naruszyć interes Rzeczypospolitej Polskiej;
+
+### 5)
+
+okres ważności dokumentu podróży cudzoziemca upływa wcześniej niż 3 miesiące przed upływem okresu ważności wnioskowanej wizy;
+
+### 6)
+
+w postępowaniu o wydanie wizy:
+
+### a)
+
+złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
+
+### b)
+
+zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument bądź takiego dokumentu jako autentycznego używał;
+
+### 7)
+
+nie uzasadnił celu lub warunków planowanego pobytu.
+
+### Art. 36.
+
+### 1.
+
+Wizę wydaje lub odmawia jej wydania konsul. Wizę w celu wykonywania pracy wydaje lub odmawia jej wydania konsul właściwy ze względu na państwo stałego zamieszkania cudzoziemca.
+
+### 2.
+
+Jeżeli cudzoziemiec legalnie przebywa na terytorium państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, wizę w celu wykonywania pracy może mu wydać inny konsul niż wskazany w ust. 1 zdanie drugie.
+
+### 3.
+
+Wizę dyplomatyczną, służbową i kurierską wydają lub odmawiają jej wydania:
+
+### 1)
+
+minister właściwy do spraw zagranicznych;
+
+### 2)
+
+konsul.
+
+### 4.
+
+Wizę dyplomatyczną i służbową wydaje minister właściwy do spraw zagranicznych na podstawie noty ministerstwa spraw zagranicznych państwa obcego lub jego misji dyplomatycznej, a konsul - dodatkowo na podstawie wniosku o wydanie wizy.
+
+### 5.
+
+Decyzja wydana przez konsula jest ostateczna.
+
+### 6.
+
+Konsul jest obowiązany uzasadnić ustnie odmowę wydania wizy, o której mowa w art. 28 ust. 1 pkt 12, może jednak odstąpić od uzasadnienia w całości lub w części, jeżeli wymagają tego względy bezpieczeństwa państwa.
+
+### Art. 37.
+
+### 1.
+
+Komendant placówki Straży Granicznej może wydać wizę jednolitą na zasadach określonych w rozporządzeniu Rady (WE) nr 415/2003 z dnia 27 lutego 2003 r. w sprawie wydawania wiz na granicy, w tym wydawania takich wiz marynarzom podróżującym tranzytem ([Dz. Urz. WE L 64 z 07.03.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 119](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### 2.
+
+Postępowanie w sprawie wydania wizy na granicy może być ograniczone do czynności, o których mowa w art. 24.
+
+### 3.
+
+Komendant placówki Straży Granicznej odnotowuje wydanie decyzji o odmowie wydania wizy na granicy w dokumencie podróży cudzoziemca.
+
+### 4.
+
+Decyzja wydana przez komendanta placówki Straży Granicznej jest ostateczna.
+
+### 5.
+
+Komendant Główny Straży Granicznej:
+
+### 1)
+
+informuje właściwe organy innych państw obszaru Schengen o wydaniu na granicy wizy jednolitej o ograniczonej ważności terytorialnej;
+
+### 2)
+
+gromadzi informacje o wizach o ograniczonej ważności terytorialnej wydanych na granicy przez organy innych państw obszaru Schengen, upoważniających do wjazdu na terytorium tych państw.
+
+### Art. 38.
+
+### 1.
+
+Cudzoziemiec ubiegający się o wydanie wizy składa na formularzu wniosek, który zawiera:
+
+### 1)
+
+dane osobowe cudzoziemca oraz dane objętych wnioskiem dzieci i innych osób wpisanych do dokumentu podróży cudzoziemca, w zakresie niezbędnym do wydania wizy;
+
+### 2)
+
+cechy dokumentu podróży cudzoziemca;
+
+### 3)
+
+informację o podróżach i pobytach zagranicznych w okresie ostatnich 5 lat;
+
+### 4)
+
+wskazanie i uzasadnienie celu pobytu.
+
+### 2.
+
+Do wniosku dołącza się fotografie osób objętych wnioskiem oraz dokumenty potwierdzające:
+
+### 1)
+
+okoliczności podane we wniosku;
+
+### 2)
+
+pokrycie przez ubezpieczyciela kosztów leczenia na terytorium państw obszaru Schengen w wysokości co najmniej 30 000 euro przez okres zamierzonego pobytu na tym terytorium - w przypadku wniosku o wydanie wizy jednolitej pobytowej;
+
+### 3)
+
+posiadanie ubezpieczenia zdrowotnego w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub pokrycie przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej przez okres zamierzonego pobytu na tym terytorium - w przypadku wniosku o wydanie wizy krajowej.
+
+### 3.
+
+Komendant placówki Straży Granicznej w przypadku, o którym mowa w art. 37 ust. 1, może zwolnić cudzoziemca od obowiązku dołączenia fotografii.
+
+### Art. 39.
+
+### 1.
+
+Wydanie wizy jednolitej w przypadkach określonych przez Radę Unii Europejskiej na podstawie art. 17 ust. 2 Konwencji Wykonawczej Schengen wymaga uzyskania zgody Szefa Urzędu do Spraw Cudzoziemców działającego jako centralny organ wizowy.
+
+### 2.
+
+Szef Urzędu do Spraw Cudzoziemców konsultuje możliwość wyrażenia zgody na wydanie wizy jednolitej:
+
+### 1)
+
+w przypadkach określonych w załączniku 5A do Wspólnych Instrukcji Konsularnych dla misji dyplomatycznych i urzędów konsularnych dotyczących wiz (Dz. Urz. UE C 326 z 22.12.2005, str. 1), zwanych dalej „Wspólnymi Instrukcjami Konsularnymi”, z:
+
+### a)
+
+Komendantem Głównym Straży Granicznej,
+
+### b)
+
+Komendantem Głównym Policji,
+
+### c)
+
+Szefem Agencji Bezpieczeństwa Wewnętrznego,
+
+### d)
+
+Szefem Agencji Wywiadu,
+
+### e)
+
+ministrem właściwym do spraw zagranicznych;
+
+### 2)
+
+w przypadkach określonych w załączniku 5B lub 5C do Wspólnych Instrukcji Konsularnych, z centralnymi organami wizowymi innych państw obszaru Schengen.
+
+### 3.
+
+Jeżeli wydanie wizy przez organ wizowy innego państwa obszaru Schengen wymaga zgody centralnego organu wizowego Rzeczypospolitej Polskiej, Szef Urzędu do Spraw Cudzoziemców działający jako centralny organ wizowy konsultuje możliwość wyrażenia zgody z organami, o których mowa w ust. 2 pkt 1.
+
+### 4.
+
+Organy, o których mowa w ust. 2 pkt 1, są obowiązane, w terminie 5 dni od dnia otrzymania wniosku o konsultację, przekazać opinię w sprawie zgody na wydanie wizy jednolitej. Nieprzekazanie opinii w tym terminie uznaje się za równoważne z wydaniem opinii pozytywnej.
+
+### 5.
+
+Na wniosek organów, o których mowa w ust. 2 pkt 1, termin przekazania opinii w sprawie zgody na wydanie wizy jednolitej może być przedłużony o 5 dni, a w szczególnie uzasadnionych przypadkach do 80 dni.
+
+### 6.
+
+Szef Urzędu do Spraw Cudzoziemców informuje konsula o wyrażeniu zgody na wydanie wizy jednolitej lub braku zgody na jej wydanie, w terminie 10 dni od dnia otrzymania wniosku w tej sprawie. Termin ten ulega przedłużeniu odpowiednio do przedłużenia terminu przekazania opinii, o którym mowa w ust. 5, lub przekazania stanowiska przez centralne organy wizowe innych państw obszaru Schengen, o czym Szef Urzędu do Spraw Cudzoziemców zawiadamia konsula.
+
+### 7.
+
+Przepisu ust. 5 i 6 w zakresie dotyczącym terminów nie stosuje się, gdy inne terminy wynikają z umów międzynarodowych o ułatwieniach wizowych zawartych przez Unię Europejską.
+
+### 8.
+
+Nieudzielenie konsulowi przez Szefa Urzędu do Spraw Cudzoziemców informacji w sprawie zgody na wydanie wizy jednolitej w terminach, o których mowa w ust. 6, uznaje się za wyrażenie zgody.
+
+### 9.
+
+Wiza wydawana na granicy przez komendanta placówki Straży Granicznej nie wymaga zgody Szefa Urzędu do Spraw Cudzoziemców.
+
+### Art. 40.
+
+### 1.
+
+Przed wydaniem wizy jednolitej, do której nie stosuje się art. 17 ust. 2 Konwencji Wykonawczej Schengen, lub wizy krajowej, organ właściwy do jej wydania może zwrócić się do Szefa Urzędu do Spraw Cudzoziemców z wnioskiem o przekazanie informacji, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 34 lub art. 35 pkt 1-4, 6 i 7.
+
+### 2.
+
+Szef Urzędu do Spraw Cudzoziemców przekazuje informacje, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 34 lub art. 35 pkt 1-4, 6 i 7, po konsultacji z organami, o których mowa w art. 39 ust. 2 pkt 1.
+
+### 3.
+
+Przepisy art. 39 ust. 4-8 stosuje się odpowiednio.
+
+### Art. 41.
+
+### 1.
+
+Wizę krajową zamieszcza się w dokumencie podróży lub w polskim dokumencie tożsamości cudzoziemca, a w przypadku szczególnym, uzasadnionym interesem cudzoziemca, na osobnym blankiecie wizowym.
+
+### 2.
+
+Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie wizy krajowej, w przypadku wymiany dokumentu podróży albo polskiego dokumentu tożsamości cudzoziemca, wojewoda właściwy ze względu na miejsce pobytu cudzoziemca, na jego wniosek, zamieszcza wizę w nowym dokumencie.
+
+### 3.
+
+Organ, który wydał cudzoziemcowi wizę krajową, może, z urzędu lub na wniosek cudzoziemca, sprostować w niej błędy pisarskie i oczywiste omyłki.
+
+### 4.
+
+Jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej, błędy pisarskie i oczywiste omyłki w wizie krajowej wydanej cudzoziemcowi przez konsula prostuje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca.
+
+### 5.
+
+Organ, który sprostował błędy pisarskie i oczywiste omyłki w wizie krajowej wydanej cudzoziemcowi, zamieszcza w dokumencie podróży lub polskim dokumencie tożsamości cudzoziemca nową wizę prawidłowo wypełnioną i anuluje wizę wydaną poprzednio.
+
+### Art. 42.
+
+### 1.
+
+Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej można przedłużyć wizę jednolitą pobytową lub wizę krajową, jeżeli są spełnione łącznie następujące warunki:
+
+### 1)
+
+przemawia za tym ważny interes zawodowy lub osobisty cudzoziemca albo względy humanitarne;
+
+### 2)
+
+zdarzenia, które są przyczyną ubiegania się o przedłużenie wizy, wystąpiły niezależnie od woli cudzoziemca i nie były możliwe do przewidzenia w chwili wydania wizy;
+
+### 3)
+
+okoliczności sprawy nie wskazują, że cel pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej będzie inny niż deklarowany;
+
+### 4)
+
+nie zachodzą okoliczności, o których mowa w art. 34 lub w art. 35 pkt 1-6.
+
+### 2.
+
+Okres pobytu na terytorium Rzeczypospolitej Polskiej na podstawie przedłużonej wizy nie może przekraczać okresu pobytu przewidzianego dla danego typu wizy.
+
+### 3.
+
+Cudzoziemcowi przebywającemu w szpitalu, którego stan zdrowia wyklucza przewiezienie lub wyjazd do innego państwa, wizę przedłuża się do dnia, w którym stan jego zdrowia pozwoli na opuszczenie terytorium Rzeczypospolitej Polskiej.
+
+### 4.
+
+Organ właściwy do przedłużenia wizy może powołać biegłego lekarza w celu wydania opinii w sprawie, o której mowa w ust. 3.
+
+### 5.
+
+Wizę przedłuża się jednokrotnie z wyjątkiem przypadku, o którym mowa w ust. 3. Przedłużenia wizy dokonuje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca przez zamieszczenie naklejki wizowej w dokumencie podróży cudzoziemca.
+
+### 6.
+
+Przedłużenie lub odmowa przedłużenia wizy następuje w drodze decyzji.
+
+### 7.
+
+0 przedłużeniu wizy jednolitej pobytowej wydanej przez organ innego państwa obszaru Schengen wojewoda informuje właściwy organ tego państwa.
+
+” ;
+
+### 18)
+
+uchyla się art. 42a;
+
+### 19)
+
+art. 43-45 otrzymują brzmienie:
+
+„
+
+### Art. 43.
+
+### 1.
+
+Cudzoziemiec jest obowiązany złożyć wniosek o przedłużenie wizy co najmniej 7 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie jednolitej lub co najmniej 14 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie krajowej.
+
+### 2.
+
+Do wniosku o przedłużenie wizy stosuje się odpowiednio art. 38.
+
+### 3.
+
+Wojewoda powinien przedłużyć wizę albo odmówić jej przedłużenia przed upływem okresu pobytu oznaczonego w wizie, jeżeli wniosek o jej przedłużenie został złożony w terminie, o którym mowa w ust. 1.
+
+### 4.
+
+Wojewoda wydaje cudzoziemcowi, który złożył wniosek w terminach określonych w ust. 1, wizę krajową na okres postępowania w sprawie przedłużenia wizy i anuluje ją po wydaniu decyzji ostatecznej w tej sprawie.
+
+### 5.
+
+Przepisu ust. 4 nie stosuje się w razie zawieszenia postępowania w sprawie przedłużenia wizy na wniosek strony.
+
+### Art. 44.
+
+### 1.
+
+Wizę krajową unieważnia się, jeżeli:
+
+### 1)
+
+dane cudzoziemca znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
+
+### 2)
+
+wjazd lub pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa lub ochrony bezpieczeństwa i porządku publicznego lub naruszać interes Rzeczypospolitej Polskiej;
+
+### 3)
+
+okres ważności dokumentu podróży cudzoziemca upływa wcześniej niż 3 miesiące przed upływem okresu ważności posiadanej przez niego wizy;
+
+### 4)
+
+cudzoziemiec w postępowaniu o wydanie wizy:
+
+### a)
+
+złożył wniosek zawierający lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
+
+### b)
+
+zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument, lub takiego dokumentu jako autentycznego używał.
+
+### 2.
+
+Wizę krajową można unieważnić, jeżeli cudzoziemiec nie przedstawił wystarczających dokumentów potwierdzających zamierzony cel i warunki planowanego pobytu.
+
+### 3.
+
+Do unieważniania wizy jednolitej stosuje się przepisy załącznika V do kodeksu granicznego Schengen oraz decyzji Komitetu Wykonawczego z dnia 14 grudnia 1993 r. w sprawie wspólnych zasad anulowania, unieważniania lub skracania okresu ważności wizy jednolitej ([Dz. Urz. WE L 239 z 22.09.2000, str. 154](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 131](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### 4.
+
+Postępowanie w sprawie unieważnienia wizy może być ograniczone do czynności, o których mowa w art. 24.
+
+### 5.
+
+Decyzję o unieważnieniu wizy wydaje komendant placówki Straży Granicznej lub komendant oddziału Straży Granicznej.
+
+### 6.
+
+Od decyzji komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej o unieważnieniu wizy przysługuje odwołanie do Komendanta Głównego Straży Granicznej.
+
+### 7.
+
+Decyzji o unieważnieniu wizy nadaje się rygor natychmiastowej wykonalności.
+
+### 8.
+
+Wydanie decyzji o unieważnieniu wizy odnotowuje się w dokumencie podróży cudzoziemca.
+
+### 9.
+
+Komendant Główny Straży Granicznej informuje o unieważnieniu wizy jednolitej wydanej przez organ innego państwa obszaru Schengen właściwy organ tego państwa, podając przyczynę unieważnienia.
+
+### Art. 45.
+
+### 1.
+
+Cudzoziemiec jest obowiązany opuścić terytorium Rzeczypospolitej Polskiej przed upływem okresu pobytu oznaczonego w wizie oraz przed upływem okresu ważności wizy, chyba że posiada ważny dokument uprawniający do pobytu na tym terytorium.
+
+### 2.
+
+Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej na podstawie umowy międzynarodowej o zniesieniu obowiązku wizowego lub jednostronnego zniesienia obowiązku wizowego, lub wobec którego stosuje się częściowe lub całkowite zniesienie obowiązku wizowego, zgodnie z rozporządzeniem Rady (WE) nr 539/2001 z dnia 15 marca 2001 r. wymieniającym państwa trzecie, których obywatele muszą posiadać wizy podczas przekraczania granic zewnętrznych, oraz te, których obywatele są zwolnieni z tego wymogu ([Dz. Urz. WE L 81 z 21.03.2001, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 65](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), jest obowiązany opuścić to terytorium przed upływem terminu przewidzianego w umowie międzynarodowej, w jednostronnym zniesieniu obowiązku wizowego lub w rozporządzeniu, chyba że posiada ważny dokument uprawniający do pobytu na tym terytorium.
+
+### 3.
+
+Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej w ruchu bezwizowym na podstawie umowy międzynarodowej o zniesieniu obowiązku wizowego lub w związku z jednostronnym zniesieniem przez Rzeczpospolitą Polską obowiązku wizowego jest obowiązany opuścić to terytorium po upływie okresu pobytu, na który wjechał na terytorium Rzeczypospolitej Polskiej, nie później niż po upływie 3 miesięcy od dnia wejścia w życie wypowiedzenia umowy lub przywrócenia obowiązku wizowego.
+
+### 4.
+
+Jeżeli wejście w życie wypowiedzenia umowy o całkowitym lub częściowym zniesieniu obowiązku wizowego lub przywrócenie obowiązku wizowego nastąpiło przed ogłoszeniem o tym w formie prawem przewidzianej, termin, o którym mowa w ust. 3, liczy się od dnia tego ogłoszenia.
+
+” ;
+
+### 20)
+
+uchyla się art. 45a i art. 45b;
+
+### 21)
+
+art. 46-48 otrzymują brzmienie:
+
+„
+
+### Art. 46.
+
+Minister właściwy do spraw zagranicznych w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+dokumenty potwierdzające pełnienie funkcji szefów i członków personelu misji dyplomatycznych, kierowników urzędów konsularnych i członków personelu konsularnego państw obcych oraz innych osób zrównanych z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, a także status członków ich rodzin,
+
+### 2)
+
+wzory dokumentów, o których mowa w pkt 1,
+
+### 3)
+
+oznaczenie wiz wydawanych osobom, o których mowa w pkt 1
+
+- uwzględniając obowiązujące w tym zakresie umowy lub powszechnie ustalone zwyczaje międzynarodowe.
+
+### Art. 47.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+oznaczenie wiz, z wyłączeniem wiz wydawanych szefom i członkom personelu misji dyplomatycznych, kierownikom urzędów konsularnych i członkom personelu konsularnego państw obcych oraz innym osobom zrównanym z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych oraz członkom ich rodzin, uwzględniając typy wiz, o których mowa w art. 26, i cele wydania wizy określone w art. 28;
+
+### 2)
+
+wzór wizy krajowej, uwzględniając zakres danych, które powinny być w niej zawarte, określony w art. 25 ust. 1-4;
+
+### 3)
+
+wzór blankietu wizowego, o którym mowa w art. 41 ust. 1;
+
+### 4)
+
+wzory formularzy wniosków o wydanie wizy lub jej przedłużenie, uwzględniając w szczególności dane, o których mowa w art. 12 i art. 38 ust. 1, oraz liczbę fotografii i wymogi dotyczące fotografii dołączanych do wniosków;
+
+### 5)
+
+sposób odnotowywania przyjęcia wniosku wizowego;
+
+### 6)
+
+sposób przekazywania przez konsula Szefowi Urzędu do Spraw Cudzoziemców danych zawartych we wniosku o wydanie wizy w celu przeprowadzenia konsultacji, o których mowa w art. 39, lub przekazania informacji, o których mowa w art. 40;
+
+### 7)
+
+sposób zamieszczania wizy krajowej w dokumencie podróży oraz anulowania wizy krajowej wydawanej w toku postępowań: o przedłużenie wizy, wydanie zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE;
+
+### 8)
+
+sposób odnotowywania przez komendanta placówki Straży Granicznej lub komendanta oddziału Straży Granicznej wydania decyzji o odmowie wydania wizy lub unieważnieniu wizy w dokumencie podróży.
+
+### 2.
+
+Sposób odnotowywania przyjęcia wniosku wizowego, zamieszczania wizy krajowej w dokumencie podróży, anulowania wizy krajowej, odnotowywania wydania decyzji o odmowie wydania wizy lub unieważnieniu wizy powinien zapewniać możliwość kontroli wykonania tych czynności.
+
+### 3.
+
+Sposób przekazywania przez konsula Szefowi Urzędu do Spraw Cudzoziemców danych, o których mowa w ust. 1 pkt 6, powinien zapewniać sprawne przeprowadzenie konsultacji, przekazywania informacji oraz bezpieczne przekazywanie danych.
+
+### 4.
+
+W przypadku zmiany wzoru wizy w rozporządzeniu, o którym mowa w ust. 1, można określić termin ważności wiz wydanych na blankietach dotychczasowego wzoru oraz termin, do którego mogą być stosowane blankiety dotychczasowego wzoru.
+
+### Art. 48.
+
+W zakresie nieuregulowanym przepisami niniejszego rozdziału stosuje się przepisy Wspólnych Instrukcji Konsularnych.
+
+” ;
+
+### 22)
+
+uchyla się art. 49-52;
+
+### 23)
+
+w art. 53:
+
+### a)
+
+w ust. 1 w pkt 18 na końcu dodaje się przecinek i dodaje się pkt 19 w brzmieniu:
+
+„
+
+### 19)
+
+posiada uprawnienie do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w aktach prawnych wydanych przez organy powołane na mocy Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r. ([Dz. Urz. WE L 217 z 29.12.1964, str. 3687](https://api.sejm.gov.pl/eli/acts//text.html))
+
+” ,
+
+### b)
+
+w ust. 6 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53a ust. 2, lub na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, chyba że cudzoziemiec ubiega się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie ust. 1 pkt 15;
+
+” ,
+
+### c)
+
+w ust. 8 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+wykonującego pracę lub działalność gospodarczą we własnym imieniu na terytorium Rzeczypospolitej Polskiej, chyba że cudzoziemiec ubiega się o wydanie kolejnego zezwolenia na podstawie ust. 1 pkt 16.
+
+” ;
+
+### 24)
+
+w art. 53a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Zezwolenia na zamieszkanie na czas oznaczony można udzielić cudzoziemcowi, który przebywa na terytorium Rzeczypospolitej Polskiej nielegalnie, jeżeli:
+
+### 1)
+
+przepisy prawa polskiego wymagają od cudzoziemca osobistego stawiennictwa przed polskim organem władzy publicznej;
+
+### 2)
+
+wyjątkowa sytuacja osobista wymaga obecności cudzoziemca na terytorium Rzeczypospolitej Polskiej;
+
+### 3)
+
+wymaga tego interes Rzeczypospolitej Polskiej;
+
+### 4)
+
+organ właściwy do prowadzenia postępowania w sprawie zwalczania handlu ludźmi stwierdza, że cudzoziemiec jest prawdopodobnie ofiarą handlu ludźmi w rozumieniu decyzji ramowej Rady z dnia 19 lipca 2002 r. w sprawie zwalczania handlu ludźmi ([Dz. Urz. WE L 203 z 01.08.2002, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 52](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+” ;
+
+### 25)
+
+w art. 53b:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Cudzoziemiec, o którym mowa w art. 53 ust. 1 pkt 1, 2, 7, 9, 13, 14, 16-18 oraz w art. 53a ust. 1, jest obowiązany posiadać:
+
+### 1)
+
+ubezpieczenie zdrowotne w rozumieniu przepisów o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych lub potwierdzenie pokrycia przez ubezpieczyciela kosztów leczenia na terytorium Rzeczypospolitej Polskiej oraz
+
+### 2)
+
+stabilne i regularne źródło dochodu wystarczającego na pokrycie kosztów utrzymania siebie i członków rodziny pozostających na jego utrzymaniu w przypadkach, o których mowa w art. 53 ust. 1 pkt 1, 2, 7, 9, 13 i 14 oraz w art. 53a ust. 1 pkt 1 lit. b oraz pkt 2 i 4;
+
+### 3)
+
+wystarczające środki finansowe na pokrycie kosztów utrzymania i powrotu w przypadkach, o których mowa w art. 53 ust. 1 pkt 16-18 oraz w art. 53a ust. 1 pkt 1 lit. a.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przepisu ust. 1 pkt 1 i 2 nie stosuje się do cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53 ust. 1 pkt 7:
+
+### 1)
+
+członka rodziny cudzoziemca posiadającego status uchodźcy lub ochronę uzupełniającą, gdy wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony został złożony przed upływem 6 miesięcy od dnia uzyskania statusu uchodźcy lub ochrony uzupełniającej;
+
+### 2)
+
+małoletniego dziecka cudzoziemca, który pozostaje w związku małżeńskim z obywatelem polskim i posiada zezwolenie na zamieszkanie na czas oznaczony udzielone na podstawie art. 53 ust. 1 pkt 6 lub zezwolenie na osiedlenie się udzielone w związku z pozostawaniem w związku małżeńskim z obywatelem polskim.
+
+” ,
+
+### c)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Uważa się, że koszty zamieszkania, o których mowa w ust. 5, obejmują co najmniej wysokość stałych opłat związanych z eksploatacją zajmowanego lokalu w rozliczeniu na liczbę osób zamieszkujących w tym lokalu, a ponadto opłaty za dostawy do lokalu energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych.
+
+” ,
+
+### d)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw nauki określi, w drodze rozporządzenia, minimalne kwoty, jakie powinni posiadać cudzoziemcy, o których mowa w art. 53 ust. 1 pkt 16-18, na pokrycie kosztów utrzymania na terytorium Rzeczypospolitej Polskiej i powrotu oraz dokumenty, które mogą potwierdzić możliwość uzyskania takich środków zgodnie z prawem. Wysokości kwot określone w rozporządzeniu powinny umożliwiać pokrycie kosztów utrzymania na terytorium Rzeczypospolitej Polskiej cudzoziemca i członków rodziny pozostających na jego utrzymaniu, bez konieczności korzystania z pomocy społecznej na podstawie ustawy z dnia 12 marca 2004 r. o pomocy społecznej.
+
+” ;
+
+### 26)
+
+po art. 53b dodaje się art. 53c w brzmieniu:
+
+„
+
+### Art. 53c.
+
+W postępowaniu o udzielenie zezwolenia na zamieszkanie na czas oznaczony obywatelowi Republiki Tureckiej, w związku z prowadzeniem lub zamiarem prowadzenia działalności gospodarczej na własny rachunek na podstawie przepisów obowiązujących w tym zakresie w Rzeczypospolitej Polskiej, uwzględnia się przepis art. 41 ust. 1 Protokołu dodatkowego do Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją (Dz. Urz. WE L 293 z 29.12.1972, str. 4; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 11, t. 11, str. 43).
+
+” ;
+
+### 27)
+
+w art. 54 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+w związku z udzieleniem ochrony uzupełniającej;
+
+” ;
+
+### 28)
+
+w art. 56 w ust. 2:
+
+### a)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+cudzoziemcowi, o którym mowa w art. 53a ust. 1 pkt 1, na okres trwania nauki lub szkolenia zawodowego, nie dłużej jednak niż na okres roku;
+
+” ,
+
+### b)
+
+po pkt 6 dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+cudzoziemcowi, o którym mowa w art. 53a ust. 2, na okres niezbędny do realizacji celu, w którym zostało wydane, lub do podjęcia decyzji o współpracy z organem właściwym do prowadzenia postępowania w sprawie zwalczania handlu ludźmi, nie dłuższy niż 3 miesiące.
+
+” ;
+
+### 29)
+
+w art. 57:
+
+### a)
+
+w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+nie zwrócił kosztów wydalenia, które zostały sfinansowane z budżetu państwa;
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie wizy, o której mowa w art. 29 ust. 3, odmawia się udzielenia zezwolenia na zamieszkanie na czas oznaczony, jeżeli podstawą ubiegania się o zezwolenie są okoliczności, o których mowa w art. 53 ust. 1 pkt 1 lub 2.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Nie można odmówić udzielenia zezwolenia na zamieszkanie na czas oznaczony cudzoziemcowi:
+
+### 1)
+
+małżonkowi obywatela polskiego lub osoby posiadającej zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE na terytorium Rzeczypospolitej Polskiej, jeżeli wyłączną podstawą odmowy byłaby którakolwiek z przyczyn, o których mowa w ust. 1 pkt 3 i 7-9;
+
+### 2)
+
+o którym mowa w art. 53 ust. 1 pkt 7 i 13, oraz członkowi rodziny cudzoziemca, o którym mowa w art. 53 ust. 1 pkt 13, jeżeli wyłączną podstawą odmowy byłaby przyczyna, o której mowa w ust. 1 pkt 7, gdy cudzoziemiec ubiega się o wydanie kolejnego zezwolenia;
+
+### 3)
+
+o którym mowa w art. 53 ust. 1 pkt 8 i 12, jeżeli wyłączną podstawą odmowy byłaby przyczyna, o której mowa w ust. 1 pkt 9;
+
+### 4)
+
+o którym mowa w art. 53 ust. 1 pkt 15, jeżeli wyłączną podstawą odmowy byłaby przyczyna, o której mowa w ust. 1 pkt 7 lub 9;
+
+### 5)
+
+ubiegającemu się o udzielenie zezwolenia na zamieszkanie na czas oznaczony ze względu na okoliczności, o których mowa w art. 53 ust. 1 pkt 1, czasowo oddelegowanemu w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej przez pracodawcę, mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, uprawnionemu do przebywania i zatrudnienia na terytorium tego państwa, jeżeli wyłączną podstawą odmowy byłaby przyczyna, o której mowa w ust. 1 pkt 9;
+
+### 6)
+
+który osiągnął pełnoletność w czasie pobytu na terytorium Rzeczypospolitej Polskiej i złożył wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony w ciągu roku od dnia osiągnięcia pełnoletności, gdy przemawia za tym szczególnie ważny interes cudzoziemca, jeżeli wyłączną podstawą odmowy byłaby przyczyna, o której mowa w ust. 1 pkt 9.
+
+” ,
+
+### d)
+
+uchyla się ust. 4 i 5,
+
+### e)
+
+po ust. 7 dodaje się ust. 8 i 9 w brzmieniu:
+
+„
+
+### 8.
+
+Przepisów ust. 1 pkt 1-4 i 8-9 nie stosuje się do cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53 ust. 1 pkt 19. 9. Przepisów ust. 1 pkt 1, 2 i 3-9 oraz ust. 2-7 nie stosuje się do cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53a ust. 2.
+
+” ;
+
+### 30)
+
+w art. 58:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) wystąpiła przynajmniej jedna z okoliczności, o których mowa w art. 57 ust. 1 pkt 2 lub 3-9; ” ,
+
+- - uchyla się pkt 3,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do cofnięcia zezwolenia na zamieszkanie na czas oznaczony stosuje się odpowiednio art. 57 ust. 3, 8 i 9.
+
+” ;
+
+### 31)
+
+w art. 60:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53 ust. 1 pkt 7, udziela się na wniosek cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej, o którym mowa w art. 54, z tym że do udzielenia zezwolenia małoletniemu dziecku, o którym mowa w art. 53 ust. 2 pkt 3 i 4, jest wymagana zgoda osób, które sprawują nad nim władzę rodzicielską.
+
+” ,
+
+### b)
+
+w ust. 5a:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) tytuł prawny do zajmowania lokalu mieszkalnego, w którym cudzoziemiec przebywa lub zamierza przebywać, w przypadku cudzoziemca, o którym mowa w art. 53 ust. 1 pkt 1, 2, 7, 9, 13 i 14 oraz w art. 53a ust. 1 pkt 1, 2 i 4; ” ,
+
+- - w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) zgodę osób, które sprawują władzę rodzicielską nad małoletnim cudzoziemcem ubiegającym się o udzielenie zezwolenia na zamieszkanie na czas oznaczony. ” ;
+
+### 32)
+
+w art. 61:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Cudzoziemiec przebywający na terytorium Rzeczypospolitej Polskiej, z wyłączeniem cudzoziemca przebywającego na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53a ust. 2, jest obowiązany złożyć wniosek o udzielenie zezwolenia na zamieszkanie na czas oznaczony co najmniej 45 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie lub przed upływem terminu ważności poprzedniego zezwolenia na zamieszkanie na czas oznaczony.
+
+” ,
+
+### b)
+
+w ust. 1a pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53a ust. 2, z wyłączeniem przypadku ubiegania się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53 ust. 1 pkt 15,
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli wniosek został złożony w terminie określonym w ust. 1, wojewoda wydaje cudzoziemcowi wizę krajową na okres postępowania w sprawie udzielenia zezwolenia na zamieszkanie na czas oznaczony i anuluje ją po wydaniu decyzji ostatecznej w tej sprawie.
+
+” ;
+
+### 33)
+
+w art. 62:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Decyzję w sprawie udzielenia zezwolenia na zamieszkanie na czas oznaczony wydaje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca, a w przypadku cudzoziemca przebywającego za granicą - wojewoda właściwy ze względu na miejsce zamierzonego pobytu cudzoziemca.
+
+” ,
+
+### b)
+
+ust. 3-7 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Przed wydaniem decyzji o udzieleniu zezwolenia na zamieszkanie na czas oznaczony właściwy wojewoda jest obowiązany zwrócić się do komendanta oddziału Straży Granicznej, komendanta wojewódzkiego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, a w razie potrzeby także do konsula właściwego ze względu na ostatnie miejsce zamieszkania cudzoziemca za granicą lub do innych organów, z wnioskiem o przekazanie informacji, czy wjazd i pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej stanowią zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego.
+
+### 4.
+
+W przypadku innym niż wydanie decyzji o udzieleniu zezwolenia na zamieszkanie na czas oznaczony, wojewoda informuje Szefa Agencji Bezpieczeństwa Wewnętrznego o złożeniu przez cudzoziemca wniosku o udzielenie zezwolenia na zamieszkanie na czas oznaczony i sposobie załatwienia sprawy.
+
+### 5.
+
+Organy, o których mowa w ust. 3, są obowiązane, w terminie 30 dni, a w przypadku, o którym mowa w art. 53a ust. 2, w terminie 7 dni od dnia otrzymania wniosku, przekazać informacje, czy wjazd i pobyt cudzoziemca na terytorium Rzeczypospolitej Polskiej stanowią zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego.
+
+### 6.
+
+Jeżeli organy, o których mowa w ust. 3, nie przekażą informacji w terminach, o których mowa w ust. 5, uznaje się, że wymóg uzyskania informacji został spełniony.
+
+### 7.
+
+W szczególnie uzasadnionych przypadkach termin 30-dniowy, o którym mowa w ust. 5, może być przedłużony do 3 miesięcy, o czym organ obowiązany do przekazania informacji zawiadamia wojewodę.
+
+” ,
+
+### c)
+
+ust. 7b otrzymuje brzmienie:
+
+„
+
+### 7b.
+
+Jeżeli dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, a zachodzą poważne przyczyny do udzielenia zezwolenia na zamieszkanie na czas oznaczony określone w art. 57 ust. 5a, wojewoda zasięga opinii, o której mowa w art. 25 ust. 1 Konwencji Wykonawczej Schengen, za pośrednictwem Komendanta Głównego Policji.
+
+” ,
+
+### d)
+
+ust. 8a otrzymuje brzmienie:
+
+„
+
+### 8a.
+
+Wojewoda jest obowiązany ustalić, czy zachodzą przesłanki do cofnięcia zezwolenia na zamieszkanie na czas oznaczony, w przypadku gdy państwo obszaru Schengen zasięga opinii na podstawie art. 25 ust. 2 Konwencji Wykonawczej Schengen.
+
+” ,
+
+### e)
+
+po ust. 8a dodaje się ust. 8b w brzmieniu:
+
+„
+
+### 8b.
+
+W postępowaniu w sprawie udzielenia lub cofnięcia zezwolenia na zamieszkanie na czas oznaczony, przy wykonaniu czynności mających na celu ustalenie okoliczności, o których mowa w art. 57 ust. 1 pkt 6, nie stosuje się art. 79 Kodeksu postępowania administracyjnego.
+
+” ,
+
+### f)
+
+w ust. 9 pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+komendanta oddziału Straży Granicznej i komendanta wojewódzkiego Policji o cofnięciu zezwolenia na zamieszkanie na czas oznaczony;
+
+### 3)
+
+właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o:
+
+### a)
+
+udzieleniu zezwolenia na zamieszkanie na czas oznaczony w przypadku, o którym mowa w art. 25 ust. 1 Konwencji Wykonawczej Schengen,
+
+### b)
+
+braku przesłanek do cofnięcia zezwolenia na zamieszkanie na czas oznaczony w przypadku, o którym mowa w art. 25 ust. 2 Konwencji Wykonawczej Schengen.
+
+” ;
+
+### 34)
+
+w art. 64 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+bezpośrednio przed złożeniem wniosku przebywał nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres nie krótszy niż 10 lat na podstawie zgody na pobyt tolerowany udzielonej na podstawie art. 97 ust. 1 pkt 1 lub 1a lub ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej lub przez okres 5 lat w związku z uzyskaniem statusu uchodźcy lub ochrony uzupełniającej;
+
+” ;
+
+### 35)
+
+w art. 65:
+
+### a)
+
+w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53 ust. 1 pkt 5 lub 7 lub art. 53a ust. 1 pkt 1 lit. a lub ust. 2;
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Uważa się, że koszty zamieszkania, o których mowa w ust. 3, obejmują co najmniej wysokość stałych opłat związanych z eksploatacją zajmowanego lokalu w rozliczeniu na liczbę osób zamieszkujących w tym lokalu, a ponadto opłaty za dostawy do lokalu energii, gazu, wody oraz odbiór ścieków, odpadów i nieczystości ciekłych
+
+” ,
+
+### c)
+
+w ust. 4 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, wizy pobytowej wydanej w celu podjęcia lub kontynuowania nauki lub zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53 ust. 1 pkt 5 lub 7 lub art. 53a ust. 1 pkt 1 lit. a lub ust. 2;
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Do okresu pobytu, o którym mowa w ust. 1, zalicza się połowę okresu pobytu cudzoziemca na podstawie wizy udzielonej w związku z odbywaniem studiów lub szkolenia zawodowego lub na podstawie zezwolenia na zamieszkanie na czas oznaczony, udzielonego w związku z okolicznościami, o których mowa w art. 53 ust. 1 pkt 16 lub w art. 53a ust. 1 pkt 1 lit. b.
+
+” ;
+
+### 36)
+
+w art. 66 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+nie zwrócił kosztów wydalenia, które zostały sfinansowane z budżetu państwa.
+
+” ;
+
+### 37)
+
+w art. 68:
+
+### a)
+
+w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+wniosek o udzielenie tego zezwolenia lub dołączone do niego dokumenty zawierały nieprawdziwe dane osobowe lub fałszywe informacje;
+
+” ,
+
+### b)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+W decyzji o cofnięciu zezwolenia na osiedlenie się w przypadkach, o których mowa w ust. 1 pkt 1-3, orzeka się o wydaleniu cudzoziemca.
+
+### 3.
+
+Do postępowania w sprawie cofnięcia zezwolenia na osiedlenie się, w części dotyczącej orzeczenia o wydaleniu cudzoziemca, stosuje się przepisy o postępowaniu w sprawie wydalenia.
+
+” ;
+
+### 38)
+
+w art. 69 ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+W decyzji o cofnięciu zezwolenia na pobyt rezydenta długoterminowego WE w przypadkach, o których mowa w ust. 1 pkt 2, orzeka się o wydaleniu cudzoziemca.
+
+### 4.
+
+Do postępowania w sprawie cofnięcia zezwolenia na pobyt rezydenta długoterminowego WE, w części dotyczącej orzeczenia o wydaleniu cudzoziemca, stosuje się przepisy o postępowaniu w sprawie wydalenia z wyłączeniem art. 90 ust. 2.
+
+” ;
+
+### 39)
+
+w art. 71 w ust. 5 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+tytuł prawny do zajmowania lokalu mieszkalnego, w którym przebywa lub zamierza przebywać, w przypadku ubiegania się o udzielenie zezwolenia na osiedlenie się na podstawie art. 64 ust. 1 pkt 3 lub o udzielenie zezwolenia na pobyt rezydenta długoterminowego WE.
+
+” ;
+
+### 40)
+
+w art. 71a:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wniosek o udzielenie zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE złożony przez cudzoziemca:
+
+### 1)
+
+przebywającego na terytorium Rzeczypospolitej Polskiej:
+
+### a)
+
+nielegalnie,
+
+### b)
+
+na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11,
+
+### c)
+
+na podstawie zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53a ust. 2,
+
+### d)
+
+o którym mowa w art. 110,
+
+### 2)
+
+przebywającego za granicą
+
+- pozostawia się bez rozpoznania.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Wniosek o udzielenie zezwolenia na pobyt rezydenta długoterminowego WE złożony przez cudzoziemca, o którym mowa w art. 65 ust. 2 pkt 1-4, lub cudzoziemca przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony, udzielonego na podstawie art. 53 ust. 1 pkt 5 lub 7 lub na podstawie art. 53a ust. 1 pkt 1 lit. a, pozostawia się bez rozpoznania.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Wojewoda wydaje cudzoziemcowi, który złożył wniosek w czasie zgodnego z prawem pobytu na terytorium Rzeczypospolitej Polskiej, wizę krajową na okres postępowania w sprawie udzielenia zezwolenia na osiedlenie się lub na pobyt rezydenta długoterminowego WE i anuluje ją po wydaniu decyzji ostatecznej w tej sprawie.
+
+” ;
+
+### 41)
+
+w art. 71b:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Decyzję w sprawie udzielenia zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE wydaje wojewoda właściwy ze względu na miejsce pobytu cudzoziemca.
+
+” ,
+
+### b)
+
+ust. 6a otrzymuje brzmienie:
+
+„
+
+### 6a.
+
+Jeżeli dane cudzoziemca znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, a zachodzą poważne przyczyny do udzielenia zezwolenia na osiedlenie się określone w art. 66 ust. 2, oraz przed wydaniem zezwolenia na pobyt rezydenta długoterminowego WE wojewoda zasięga opinii, o której mowa w art. 25 ust. 1 Konwencji Wykonawczej Schengen, za pośrednictwem Komendanta Głównego Policji.
+
+” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+W postępowaniu w sprawie udzielenia lub cofnięcia zezwolenia na osiedlenie się, przy wykonaniu czynności mających na celu ustalenie okoliczności, o których mowa w art. 66 ust. 1 pkt 6 lub w art. 68 ust. 1 pkt 2, nie stosuje się art. 79 Kodeksu postępowania administracyjnego.
+
+” ,
+
+### d)
+
+ust. 9 i 10 otrzymują brzmienie:
+
+„
+
+### 9.
+
+W przypadku, o którym mowa w art. 25 ust. 1 Konwencji Wykonawczej Schengen, wojewoda informuje właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o wydaniu zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE.
+
+### 10.
+
+W przypadku, o którym mowa w art. 25 ust. 2 Konwencji Wykonawczej Schengen, wojewoda informuje właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o braku przesłanek do cofnięcia zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE.
+
+” ;
+
+### 42)
+
+w art. 85 w ust. 2:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+środków utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub na tranzyt albo dokumentu potwierdzającego możliwość uzyskania takich środków zgodnie z prawem, o którym mowa w art. 15 ust. 1 pkt 2 lit. b, od cudzoziemca przebywającego na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na zamieszkanie na czas oznaczony, wizy lub umowy międzynarodowej o zniesieniu obowiązku wizowego lub jednostronnego zniesienia obowiązku wizowego, lub wobec którego stosuje się częściowe lub całkowite zniesienie obowiązku wizowego, zgodnie z rozporządzeniem Rady (WE) nr 539/2001 z dnia 15 marca 2001 r. wymieniającym państwa trzecie, których obywatele muszą posiadać wizy podczas przekraczania granic zewnętrznych, oraz te, których obywatele są zwolnieni z tego wymogu;"
+
+### b)
+
+po pkt 2 dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+dokumentów uprawniających cudzoziemca do wykonywania pracy, prowadzenia działalności gospodarczej oraz powierzenia wykonywania pracy cudzoziemcowi.
+
+” ;
+
+### 43)
+
+art. 86 otrzymuje brzmienie:
+
+„
+
+### Art. 86.
+
+### 1.
+
+Cudzoziemiec poddany kontroli legalności pobytu jest obowiązany okazać dokumenty lub środki utrzymania, o których mowa w art. 85 ust. 2, jeżeli są wymagane.
+
+### 2.
+
+Obowiązek okazania środków utrzymania na czas trwania planowanego pobytu oraz na powrót do państwa pochodzenia lub na tranzyt albo dokumentu potwierdzającego możliwość uzyskania takich środków zgodnie z prawem nie dotyczy cudzoziemca, który przybył na terytorium Rzeczypospolitej Polskiej w celu połączenia z rodziną do osoby, która posiada status uchodźcy.
+
+” ;
+
+### 44)
+
+w art. 88 w ust. 1:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przebywa na tym terytorium bez ważnej wizy, jeżeli jest wymagana, lub innego ważnego dokumentu uprawniającego do wjazdu i pobytu na tym terytorium;
+
+” ,
+
+### b)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+nie opuścił terytorium Rzeczypospolitej Polskiej po wykorzystaniu dopuszczalnego czasu pobytu na terytorium państw obszaru Schengen przez 3 miesiące w okresie 6 miesięcy liczonych od dnia pierwszego wjazdu;
+
+” ,
+
+### c)
+
+pkt 4a otrzymuje brzmienie:
+
+„
+
+### 4a)
+
+jego dane znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej lub w ruchu bezwizowym;
+
+” ,
+
+### d)
+
+w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 i 12 w brzmieniu:
+
+„
+
+### 11)
+
+przebywa poza strefą przygraniczną, w której zgodnie z zezwoleniem na przekraczanie granicy w ramach małego ruchu granicznego może przebywać;
+
+### 12)
+
+przebywa na terytorium Rzeczypospolitej Polskiej po upływie okresu pobytu, do którego był uprawniony na podstawie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
+
+” ;
+
+### 45)
+
+art. 89 otrzymuje brzmienie:
+
+„
+
+### Art. 89.
+
+### 1.
+
+Decyzji o wydaleniu cudzoziemca nie wydaje się, a wydanej nie wykonuje, jeżeli:
+
+### 1)
+
+zachodzą przesłanki do udzielenia zgody na pobyt tolerowany;
+
+### 2)
+
+cudzoziemiec jest małżonkiem obywatela polskiego albo cudzoziemca posiadającego zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE i jego dalszy pobyt nie stanowi zagrożenia dla obronności lub bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego, chyba że związek małżeński został zawarty w celu uniknięcia wydalenia;
+
+### 3)
+
+cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53a ust. 2.
+
+### 2.
+
+Decyzji o wydaleniu ze względu na okoliczności, o których mowa w art. 88 ust. 1 pkt 1 lub 6, nie wydaje się cudzoziemcowi czasowo oddelegowanemu w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej przez pracodawcę mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, uprawnionemu do przebywania i zatrudnienia na terytorium tego państwa.
+
+### 3.
+
+Do postępowania w sprawie wydalenia cudzoziemca, o którym mowa w ust. 1 pkt 2, stosuje się odpowiednio art. 55.
+
+” ;
+
+### 46)
+
+w art. 90:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+określa się termin opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej nie dłuższy niż 14 dni, z wyłączeniem przypadków, w których decyzja podlega przymusowemu wykonaniu na podstawie art. 95;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Decyzja o wydaleniu powoduje z mocy prawa unieważnienie wizy, unieważnienie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, cofnięcie zezwolenia na zamieszkanie na czas oznaczony oraz zezwolenia na pracę.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Jeżeli decyzja o wydaleniu powoduje z mocy prawa unieważnienie wizy jednolitej wydanej przez organ innego państwa obszaru Schengen, wojewoda informuje o unieważnieniu wizy właściwy organ tego państwa, podając przyczynę unieważnienia.
+
+” ;
+
+### 47)
+
+w art. 92:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wojewoda odnotowuje wydanie decyzji o wydaleniu w dokumencie podróży cudzoziemca oraz niezwłocznie informuje o jej wydaniu organ, który wystąpił z wnioskiem o wydanie decyzji o wydaleniu.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+W przypadku przekazania decyzji o wydaleniu za pośrednictwem urządzeń umożliwiających odczyt i zapis znaków pisma na nośniku papierowym lub za pośrednictwem sieci telekomunikacyjnych i doręczenia cudzoziemcowi decyzji w formie uzyskanej w wyniku takiego przekazu wydanie decyzji o wydaleniu odnotowuje w dokumencie podróży cudzoziemca organ obowiązany do wykonania decyzji.
+
+” ;
+
+### 48)
+
+w art. 93 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ występujący z wnioskiem o wydanie decyzji o wydaleniu cudzoziemca lub komendant wojewódzki Policji właściwy ze względu na siedzibę wojewody, który wydał decyzję na wniosek Ministra Obrony Narodowej, organu Służby Celnej lub z urzędu, pobiera od cudzoziemca, któremu wydano decyzję o wydaleniu, odciski linii papilarnych, jeżeli nie zostały one pobrane na podstawie art. 14 ust. 2, art. 98 ust. 4 lub art. 101 ust. 3, oraz sporządza jego fotografię, chyba że fotografia została sporządzona wcześniej w postępowaniu karnym na podstawie art. 74 § 2 pkt 1 Kodeksu postępowania karnego lub w postępowaniu o nadanie statusu uchodźcy na podstawie art. 29 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 49)
+
+art. 95 otrzymuje brzmienie:
+
+„
+
+### Art. 95.
+
+### 1.
+
+Decyzja o wydaleniu podlega przymusowemu wykonaniu przez doprowadzenie cudzoziemca do granicy albo do granicy państwa, do którego zostaje wydalony, lub do portu lotniczego albo morskiego tego państwa, jeżeli:
+
+### 1)
+
+cudzoziemiec przebywa w strzeżonym ośrodku lub areszcie w celu wydalenia;
+
+### 2)
+
+cudzoziemiec nie opuścił terytorium Rzeczypospolitej Polskiej w terminie określonym w decyzji o wydaleniu lub w decyzji zawierającej orzeczenie o wydaleniu;
+
+### 3)
+
+wymagają tego względy obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego albo interes Rzeczypospolitej Polskiej;
+
+### 4)
+
+została wydana w związku z okolicznością, o której mowa w art. 88 ust. 1 pkt 7.
+
+### 2.
+
+Obowiązek doprowadzenia cudzoziemca do granicy wykonuje komendant oddziału Straży Granicznej właściwy ze względu na miejsce pobytu cudzoziemca.
+
+### 3.
+
+Obowiązek doprowadzenia cudzoziemca od granicy do portu lotniczego albo morskiego państwa, do którego następuje wydalenie, wykonuje Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej właściwy ze względu na miejsce, w którym cudzoziemiec przekracza granicę.
+
+### 4.
+
+Komendant placówki Straży Granicznej odnotowuje w rejestrze spraw dotyczących wydalenia z Rzeczypospolitej Polskiej datę opuszczenia przez cudzoziemca tego terytorium lub informuje o tym niezwłocznie wojewodę, który wydał decyzję o wydaleniu.
+
+” ;
+
+### 50)
+
+art. 97 otrzymuje brzmienie:
+
+„
+
+### Art. 97.
+
+### 1.
+
+W przypadkach, o których mowa w art. 88 ust. 1 pkt 1-3, 6, 11 i 12, cudzoziemiec może być zobowiązany do opuszczenia terytorium Rzeczypospolitej Polskiej w terminie do 7 dni, gdy z okoliczności sprawy wynika, że dobrowolnie wykona ten obowiązek.
+
+### 2.
+
+Decyzji o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej nie wydaje się cudzoziemcowi:
+
+### 1)
+
+małżonkowi obywatela polskiego albo cudzoziemca posiadającego zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE;
+
+### 2)
+
+przebywającemu na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53a ust. 2;
+
+### 3)
+
+czasowo oddelegowanemu w celu świadczenia usług na terytorium Rzeczypospolitej Polskiej przez pracodawcę mającego siedzibę na terytorium państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, uprawnionemu do przebywania i zatrudnienia na terytorium tego państwa - ze względu na okoliczności, o których mowa w art. 88 ust. 1 pkt 1 lub 6.
+
+### 3.
+
+Decyzji o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej nadaje się rygor natychmiastowej wykonalności.
+
+### 4.
+
+Decyzja o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej powoduje z mocy prawa unieważnienie wizy, unieważnienie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego, cofnięcie zezwolenia na zamieszkanie na czas oznaczony oraz zezwolenia na pracę.
+
+### 5.
+
+Jeżeli decyzja o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej powoduje z mocy prawa unieważnienie wizy jednolitej wydanej przez organ innego państwa obszaru Schengen, organ, który wydał decyzję, informuje o unieważnieniu wizy właściwy organ tego państwa, podając przyczynę unieważnienia.
+
+” ;
+
+### 51)
+
+w art. 98:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Organ, o którym mowa w ust. 1, odnotowuje wydanie decyzji o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej w dokumencie podróży cudzoziemca oraz niezwłocznie informuje o jej wydaniu właściwego miejscowo wojewodę, a w przypadku, o którym mowa w art. 88 ust. 1 pkt 11 lub 12, informuje ponadto ministra właściwego do spraw zagranicznych.
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Komendant placówki Straży Granicznej odnotowuje w rejestrze spraw dotyczących zobowiązania do opuszczenia terytorium Rzeczypospolitej Polskiej datę opuszczenia przez cudzoziemca tego terytorium lub informuje o tym niezwłocznie organ, który wydał decyzję o zobowiązaniu cudzoziemca do opuszczenia terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 52)
+
+art. 99a otrzymuje brzmienie:
+
+„
+
+### Art. 99a.
+
+Do cudzoziemców oraz członków ich rodzin posiadających uprawnienie do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w aktach prawnych wydanych przez organy powołane na mocy Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r., nie stosuje się przepisów art. 88, 90, 91, 95 i art. 97-99. W zakresie uregulowanym w tych przepisach stosuje się przepisy rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin ([Dz. U. Nr 144, poz. 1043](https://api.sejm.gov.pl/eli/acts/DU/2006/1043/text.html), z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html) oraz z [2008 r. Nr 216, poz. 1367](https://api.sejm.gov.pl/eli/acts/DU/2008/1367/text.html)).
+
+” ;
+
+### 53)
+
+po rozdziale 8a dodaje się rozdział 8b w brzmieniu:
+
+„
+
+### Rozdział 8b Wykonanie decyzji o wydaleniu cudzoziemca wydanej przez organ innego państwa członkowskiego
+
+### Art. 100k.
+
+Ostateczna decyzja organu innego państwa członkowskiego, zwanego dalej „wydającym państwem członkowskim”, o wydaleniu cudzoziemca w związku z:
+
+### 1)
+
+poważnym i aktualnym zagrożeniem dla porządku publicznego lub bezpieczeństwa narodowego w przypadkach:
+
+### a)
+
+skazania cudzoziemca przez to państwo za przestępstwo zagrożone karą co najmniej 1 roku pozbawienia wolności lub
+
+### b)
+
+uzasadnionego podejrzenia popełnienia lub zamiaru popełnienia przez cudzoziemca poważnego przestępstwa karnego na terytorium państwa członkowskiego,
+
+### 2)
+
+naruszeniem przepisów tego państwa dotyczących wjazdu lub pobytu cudzoziemców
+
+- może być wykonana przez organy obowiązane do przymusowego wykonania decyzji o wydaleniu cudzoziemca z terytorium Rzeczypospolitej Polskiej.
+
+### Art. 100l.
+
+### 1.
+
+Jeżeli decyzja o wydaleniu cudzoziemca wydana przez organ wydającego państwa członkowskiego dotyczy cudzoziemca posiadającego zezwolenie na zamieszkanie na czas oznaczony, zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE, Komendant Główny Straży Granicznej występuje do wojewody właściwego ze względu na miejsce pobytu cudzoziemca z wnioskiem o ustalenie, czy zachodzą przesłanki do ich cofnięcia.
+
+### 2.
+
+Do decyzji o cofnięciu zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego WE, wydanych w związku z rozpatrzeniem wniosku, o którym mowa w ust. 1, nie stosuje się przepisów art. 58 ust. 4, art. 68 ust. 2 i art. 69 ust. 3.
+
+### Art. 100m.
+
+Komendant Główny Straży Granicznej przeprowadza konsultacje z właściwym organem:
+
+### 1)
+
+wydającego państwa członkowskiego w celu potwierdzenia, że decyzja o wydaleniu jest w dalszym ciągu wykonalna,
+
+### 2)
+
+państwa członkowskiego, które wydało zezwolenie pobytowe cudzoziemcowi podlegającemu wydaleniu, w celu ustalenia, czy zachodzą przesłanki do cofnięcia tego zezwolenia
+
+- za pomocą wszelkich dostępnych środków współpracy i wymiany informacji, w tym za pośrednictwem Biura SIRENE, o którym mowa w art. 35 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej ([Dz. U. Nr 165, poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.html) oraz z [2008 r. Nr 195, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2008/1198/text.html) i [Nr 216, poz. 1367](https://api.sejm.gov.pl/eli/acts/DU/2008/1367/text.html)).
+
+### Art. 100n.
+
+### 1.
+
+Decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego nie wykonuje się, gdy:
+
+### 1)
+
+zachodzą przesłanki do udzielenia zgody na pobyt tolerowany;
+
+### 2)
+
+cudzoziemiec jest małżonkiem obywatela polskiego albo cudzoziemca posiadającego zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE;
+
+### 3)
+
+wobec cudzoziemca toczy się postępowanie o nadanie statusu uchodźcy;
+
+### 4)
+
+cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy jednolitej pobytowej upoważniającej tylko do wjazdu na terytorium Rzeczypospolitej Polskiej w celu, o którym mowa w art. 28 ust. 1 pkt 11, lub zezwolenia na zamieszkanie na czas oznaczony udzielonego na podstawie art. 53 ust. 1 pkt 15 lub art. 53a ust. 2;
+
+### 5)
+
+cudzoziemiec posiada zezwolenie na zamieszkanie na czas oznaczony, zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego WE, status uchodźcy, ochronę uzupełniającą lub zgodę na pobyt tolerowany;
+
+### 6)
+
+cudzoziemiec jest pozbawiony wolności na skutek wykonania orzeczeń wydanych na podstawie ustaw lub stosuje się wobec niego środek zapobiegawczy w postaci zakazu opuszczania kraju;
+
+### 7)
+
+właściwy organ wydającego państwa członkowskiego:
+
+### a)
+
+nie przekazał dokumentów niezbędnych do potwierdzenia, że decyzja o wydaleniu jest w dalszym ciągu wykonalna,
+
+### b)
+
+nie potwierdził gotowości zwrotu kosztów wykonania tej decyzji.
+
+### 2.
+
+Decyzja o wydaleniu cudzoziemca lub członków jego rodziny, posiadających dostęp do rynku pracy na terytorium Rzeczypospolitej Polskiej na zasadach określonych w aktach prawnych wydanych przez organy powołane na mocy Układu ustanawiającego stowarzyszenie między Europejską Wspólnotą Gospodarczą a Turcją, podpisanego w Ankarze dnia 12 września 1963 r., wydana przez organ innego państwa członkowskiego, może być wykonana tylko wtedy, gdy jednocześnie zachodzą przesłanki do wydalenia cudzoziemca z terytorium Rzeczypospolitej Polskiej, określone w przepisach rozdziału 5 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin.
+
+### 3.
+
+Wykonanie decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego powoduje z mocy prawa unieważnienie wizy lub zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz cofnięcie zezwolenia na pracę.
+
+### Art. 100o.
+
+### 1.
+
+Cudzoziemca, którego dotyczy decyzja organu wydającego państwa członkowskiego podlegająca wykonaniu przez polskie organy, doprowadza się do granicy albo granicy państwa, do którego zostaje wydalony, lub do portu lotniczego albo morskiego tego państwa.
+
+### 2.
+
+Jeżeli właściwy organ innego państwa członkowskiego nie cofnął zezwolenia pobytowego wydanego cudzoziemcowi, o którym mowa w ust. 1, cudzoziemiec może być doprowadzony do granicy tego państwa lub do portu lotniczego albo morskiego tego państwa.
+
+### 3.
+
+O opuszczeniu terytorium Rzeczypospolitej Polskiej przez cudzoziemca, o którym mowa w ust. 1 lub 2, Komendant Główny Straży Granicznej informuje właściwy organ wydającego państwa członkowskiego.
+
+### Art. 100p.
+
+### 1.
+
+Koszty wykonania decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego ponosi cudzoziemiec.
+
+### 2.
+
+Jeżeli cudzoziemiec nie uiścił należności z tytułu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez organ wydającego państwa członkowskiego, Komendant Główny Straży Granicznej występuje z pisemnym wnioskiem o zwrot tych kosztów do właściwego organu wydającego państwa członkowskiego.
+
+### 3.
+
+Do czasu uiszczenia przez cudzoziemca należności z tytułu kosztów wykonania decyzji organu wydającego państwa członkowskiego o wydaleniu lub ich zwrotu przez wydające państwo członkowskie koszty te są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
+
+### Art. 100r.
+
+Koszty wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesione przez organy innego państwa członkowskiego, są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków będących w dyspozycji Komendanta Głównego Straży Granicznej.
+
+### Art. 100s.
+
+Do wniosku o zwrot kosztów wykonania decyzji o wydaleniu wydanej przez organ wydającego państwa członkowskiego oraz do zwrotu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesionych przez organy innego państwa członkowskiego, stosuje się decyzję Rady z dnia 23 lutego 2004 r. określającą kryteria oraz uzgodnienia praktyczne dotyczące rekompensaty dysproporcji finansowych wynikających ze stosowania dyrektywy Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich ([Dz. Urz. WE L 60 z 27.02.2004, str. 55](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 5, str. 25](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### Art. 100t.
+
+Do wykonania decyzji o wydaleniu wydanej przez organ wydającego państwa członkowskiego stosuje się odpowiednio przepisy art. 94 i art. 95, oraz rozdziałów 8a-10.
+
+### Art. 100u.
+
+Komendant Główny Straży Granicznej pełni funkcję krajowego punktu kontaktowego państwa członkowskiego w rozumieniu art. 3 ust. 4 decyzji Rady z dnia 23 lutego 2004 r. określającej kryteria oraz uzgodnienia praktyczne dotyczące rekompensaty dysproporcji finansowych wynikających ze stosowania dyrektywy Rady 2001/40/WE w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich, a w szczególności uzgadnia wysokość i sposób zwrotu kosztów wykonania decyzji o wydaleniu cudzoziemca wydanej przez właściwe organy polskie, poniesionych przez organy innego państwa członkowskiego, a ponadto:
+
+### 1)
+
+przekazuje dokumenty właściwym organom państwa członkowskiego, które wykonują decyzję o wydaleniu cudzoziemca wydaną przez właściwe organy polskie, w celu potwierdzenia, że decyzja o wydaleniu jest w dalszym ciągu wykonalna;
+
+### 2)
+
+przekazuje właściwym organom państwa członkowskiego, które wykonują decyzję o wydaleniu wydaną przez inne państwo członkowskie, informacje, czy zachodzą przesłanki do cofnięcia cudzoziemcowi, którego decyzja dotyczy, zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego WE, zezwolenia na pobyt lub zezwolenia na pobyt czasowy.
+
+### Art. 100w.
+
+Zawarte w art. 100k-100u określenie „państwo członkowskie” oznacza państwo członkowskie stosujące dyrektywę Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich.
+
+” ;
+
+### 54)
+
+w art. 109 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i likwiduje strzeżone ośrodki, określa organ Straży Granicznej, któremu ośrodek ma podlegać, oraz może wskazać okres niezbędny na zorganizowanie jego funkcjonowania, mając na względzie istniejące potrzeby w tym zakresie.
+
+” ;
+
+### 55)
+
+w art. 124:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1,
+
+### b)
+
+w ust. 1 w pkt 1:
+
+- - lit. h otrzymuje brzmienie: „ h) osób, którym udzielono zezwolenia na wjazd na podstawie art. 21a ust. 1, ” ,
+
+- - w lit. m średnik zastępuje się przecinkiem i dodaje się lit. n w brzmieniu: „ n) wykonania decyzji o wydaleniu wydanej przez organ innego państwa członkowskiego stosującego dyrektywę Rady nr 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich; ” ,
+
+### c)
+
+po ust. 1 dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Rejestr, o którym mowa w ust. 1 pkt 1 lit. n, może być prowadzony w systemie kartotecznym.
+
+” ;
+
+### 56)
+
+po art. 124 dodaje się art. 124a w brzmieniu:
+
+„
+
+### Art. 124a.
+
+### 1.
+
+W sprawach z zakresu małego ruchu granicznego prowadzi się w systemie informatycznym:
+
+### 1)
+
+rejestr wniosków o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz wydanych, unieważnionych lub cofniętych zezwoleń, o którym mowa w art. 12 ust. 2 rozporządzenia nr 1931/2006;
+
+### 2)
+
+rejestr przypadków nadużycia zasad małego ruchu granicznego oraz sankcji za nadużycie tych zasad, o którym mowa w art. 17 ust. 3 rozporządzenia nr 1931/2006.
+
+### 2.
+
+Rejestr, o którym mowa w ust. 1:
+
+### 1)
+
+w pkt 1, prowadzi konsul, komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant placówki Straży Granicznej, komendant oddziału Straży Granicznej, każdy w zakresie swojej właściwości;
+
+### 2)
+
+w pkt 2, prowadzi komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant placówki Straży Granicznej, komendant oddziału Straży Granicznej i wojewoda, każdy w zakresie swojej właściwości.
+
+### 3.
+
+W rejestrze wniosków o wydanie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego oraz o wydanych, unieważnionych lub cofniętych zezwoleniach, gromadzi się informacje o:
+
+### 1)
+
+wnioskach i wydanych decyzjach administracyjnych w sprawach wydania lub cofnięcia zezwolenia;
+
+### 2)
+
+dacie wydania, numerze, serii oraz terminie upływu ważności zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego;
+
+### 3)
+
+imieniu (imionach), nazwisku (nazwiskach), dacie urodzenia, obywatelstwie i miejscu zamieszkania cudzoziemca;
+
+### 4)
+
+utraconych, uszkodzonych lub zniszczonych zezwoleniach na przekraczanie granicy w ramach małego ruchu granicznego.
+
+### 4.
+
+W rejestrze przypadków nadużycia zasad małego ruchu granicznego oraz sankcji za nadużycie tych zasad gromadzi się informacje o:
+
+### 1)
+
+imieniu (imionach), nazwisku (nazwiskach), dacie urodzenia, obywatelstwie i miejscu zamieszkania cudzoziemca, który przebywał na terytorium Rzeczypospolitej Polskiej poza strefą przygraniczną, w której zgodnie z zezwoleniem mógł przebywać, lub po upływie okresu pobytu, do którego był uprawniony na podstawie zezwolenia;
+
+### 2)
+
+grzywnach nałożonych na cudzoziemca za przebywanie:
+
+### a)
+
+poza strefą przygraniczną, w której zgodnie z zezwoleniem na przekraczanie granicy w ramach małego ruchu granicznego mógł przebywać, lub
+
+### b)
+
+na terytorium Rzeczypospolitej Polskiej po upływie okresu pobytu określonego w zezwoleniu na przekraczanie granicy w ramach małego ruchu granicznego;
+
+### 3)
+
+decyzjach o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej lub o wydaleniu, wydanych w związku z naruszeniem przez cudzoziemca zasad małego ruchu granicznego;
+
+### 4)
+
+decyzjach o unieważnieniu zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
+
+” ;
+
+### 57)
+
+w art. 125 w ust. 1:
+
+### a)
+
+pkt 3-5 otrzymują brzmienie:
+
+„
+
+### 3)
+
+w pkt 1 w lit. e, prowadzą wojewoda, konsul i komendant placówki Straży Granicznej, każdy w zakresie swojej właściwości;
+
+### 4)
+
+w pkt 1 w lit. f i k, prowadzą komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant oddziału Straży Granicznej i komendant placówki Straży Granicznej, każdy w zakresie swojej właściwości;
+
+### 5)
+
+w pkt 1 w lit. h, prowadzi Komendant Główny Straży Granicznej;
+
+” ,
+
+### b)
+
+pkt 6a otrzymuje brzmienie:
+
+„
+
+### 6a)
+
+w pkt 1 w lit. m, prowadzi komendant placówki Straży Granicznej i Komendant Główny Straży Granicznej, każdy w zakresie swojej właściwości;
+
+” ,
+
+### c)
+
+po pkt 6a dodaje się pkt 6b w brzmieniu:
+
+„
+
+### 6b)
+
+w pkt 1 w lit. n, prowadzi Komendant Główny Straży Granicznej;
+
+” ;
+
+### 58)
+
+w art. 126 w ust. 1:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+w lit. f, przechowuje się dane cudzoziemców zobowiązanych do opuszczenia terytorium Rzeczypospolitej Polskiej, informacje o decyzjach w sprawie zobowiązania do opuszczenia terytorium Rzeczypospolitej Polskiej oraz o dacie opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej;
+
+” ,
+
+### b)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+w lit. h, przechowuje się dane osób, którym udzielono zezwolenia na wjazd na podstawie art. 21a ust. 1;
+
+” ,
+
+### c)
+
+w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+w lit. n, przechowuje się dane cudzoziemców, w stosunku do których wykonano decyzję o wydaleniu wydaną przez organ wydającego państwa członkowskiego, oraz informacje o dacie opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 59)
+
+w art. 128 w ust. 1:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+została wydana ostateczna decyzja o wydaleniu, decyzja o cofnięciu zezwolenia na osiedlenie się z przyczyny, o której mowa w art. 68 ust. 1 pkt 1-3, decyzja o cofnięciu zezwolenia na pobyt rezydenta długoterminowego WE z przyczyny, o której mowa w art. 69 ust. 1 pkt 2, lub decyzja o odmowie nadania statusu uchodźcy, zawierająca orzeczenie o wydaleniu, o której mowa w art. 48 ust. 2 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej;
+
+” ,
+
+### b)
+
+w pkt 3 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+w Rzeczypospolitej Polskiej za przestępstwo umyślne lub przestępstwo skarbowe na karę grzywny lub karę pozbawienia wolności do jednego roku,
+
+” ;
+
+### 60)
+
+w art. 130 ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Sąd, który skazał cudzoziemca za przestępstwo, o którym mowa w art. 128 ust. 1 pkt 3 lit. a lub c, jest obowiązany do przekazania Szefowi Urzędu do Spraw Cudzoziemców odpisu prawomocnego wyroku.
+
+### 4.
+
+Sąd, który skazał cudzoziemca za przestępstwo, o którym mowa w art. 128 ust. 1 pkt 3 lit. a lub c, z zastosowaniem warunkowego zawieszenia wykonania kary, jest obowiązany do przekazania Szefowi Urzędu do Spraw Cudzoziemców odpisu orzeczenia, na mocy którego zarządzono wykonanie kary, której wykonanie zostało warunkowo zawieszone.
+
+” ;
+
+### 61)
+
+w art. 131 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W postępowaniu wszczętym na wniosek, o którym mowa w ust. 1, Szef Urzędu do Spraw Cudzoziemców udziela cudzoziemcowi tylko informacji o wpisaniu jego danych osobowych do wykazu lub Systemu Informacyjnego Schengen do celów odmowy wjazdu, terminie obowiązywania wpisu, podstawie prawnej wpisu, a w przypadkach, o których mowa w art. 128 ust. 1 pkt 1 i 2, także o podstawie faktycznej wpisu.
+
+” ;
+
+### 62)
+
+w art. 132 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+rejestrów, o których mowa w art. 124a;
+
+” ;
+
+### 63)
+
+w art. 133:
+
+### a)
+
+w ust. 1:
+
+- - zdanie wstępne otrzymuje brzmienie: „ Dane przetwarzane w Systemie Pobyt, w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. k i n, oraz w rejestrze odcisków linii papilarnych, pobranych od cudzoziemca na podstawie art. 14 ust. 2, art. 93 ust. 1, art. 98 ust. 4 i art. 101 ust. 3, udostępnia się: ” ,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) organom Policji, ” ,
+
+- - pkt 2 otrzymuje brzmienie: „ 2) organom Straży Granicznej, ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Dane przetwarzane w Systemie Pobyt, w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. k i n, oraz w rejestrze odcisków linii papilarnych pobranych od cudzoziemca na podstawie art. 14 ust. 2, art. 93 ust. 1, art. 98 ust. 4 i art. 101 ust. 3, są udostępniane na pisemny wniosek podmiotu, o którym mowa w ust. 1, z tym że wniosek o udostępnienie danych przetwarzanych w rejestrze odcisków linii papilarnych pobranych od cudzoziemca, któremu wydano decyzję o wydaleniu, może złożyć także Szef Urzędu do Spraw Cudzoziemców.
+
+” ,
+
+### c)
+
+w ust. 3 zdanie wstępne otrzymuje brzmienie: „ Dane przetwarzane w Systemie Pobyt, w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. k i n, oraz w rejestrze odcisków linii papilarnych pobranych od cudzoziemca na podstawie art. 14 ust. 2, art. 93 ust. 1, art. 98 ust. 4 i art. 101 ust. 3, można udostępniać, bez konieczności składania pisemnego wniosku, o którym mowa w ust. 2, za pomocą urządzeń do teletransmisji danych, podmiotom, o których mowa w ust. 1, które spełniają łącznie następujące warunki: ” ,
+
+### d)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Organ obowiązany do prowadzenia rejestrów i ewidencji, o których mowa w art. 124 ust. 1 pkt 1 lit. a-h, j-l, n i pkt 2 i 3, art. 124a oraz w art. 132 ust. 2 pkt 4-15, posiada dostęp do danych przetwarzanych w Systemie Pobyt, w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. k i n, oraz w rejestrze odcisków linii papilarnych pobranych od cudzoziemca na podstawie art. 14 ust. 2, art. 93 ust. 1, art. 98 ust. 4 i art. 101 ust. 3, w zakresie danych gromadzonych w rejestrach i ewidencji, które ten organ prowadzi.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Dane przetwarzane w Systemie Pobyt udostępnia Szef Urzędu do Spraw Cudzoziemców, dane przetwarzane w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. k - komendant wojewódzki Policji, komendant powiatowy (miejski) Policji, komendant oddziału Straży Granicznej lub komendant placówki Straży Granicznej, każdy w zakresie swojej właściwości, dane przetwarzane w rejestrze, o którym mowa w art. 124 ust. 1 pkt 1 lit. n - Komendant Główny Straży Granicznej, a dane przetwarzane w rejestrze odcisków linii papilarnych pobranych od cudzoziemca na podstawie art. 14 ust. 2, art. 93 ust. 1, art. 98 ust. 4 i art. 101 ust. 3 - Komendant Główny Policji.
+
+” ;
+
+### 64)
+
+art. 134a otrzymuje brzmienie:
+
+„
+
+### Art. 134a.
+
+Dane cudzoziemca, z wyłączeniem danych obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, przechowywane w wykazie na podstawie:
+
+### 1)
+
+art. 128 ust. 1 pkt 1 lub 2 z wyłączeniem danych cudzoziemca, który otrzymał decyzję o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej,
+
+### 2)
+
+art. 128 ust. 1 pkt 3 lub 6,
+
+### 3)
+
+art. 77 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin
+
+- są przekazywane do Systemu Informacyjnego Schengen do celów odmowy wjazdu na okres przechowywania ich w wykazie.
+
+” ;
+
+### 65)
+
+w art. 135 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przewoźnik, który drogą powietrzną lub morską przywiózł cudzoziemca do granicy, jest obowiązany do podjęcia działania dla upewnienia się, że cudzoziemiec zamierzający wjechać na terytorium Rzeczypospolitej Polskiej posiada ważny dokument podróży uprawniający do przekroczenia granicy, wymaganą wizę lub inny ważny dokument uprawniający do wjazdu i pobytu na tym terytorium, zezwolenie na wjazd do innego państwa lub zezwolenie na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane.
+
+” ;
+
+### 66)
+
+art. 137 otrzymuje brzmienie:
+
+„
+
+### Art. 137.
+
+Cudzoziemcowi, o którym mowa w art. 136 ust. 1, można, w drodze decyzji:
+
+### 1)
+
+nakazać przebywanie w określonym miejscu do czasu opuszczenia terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+zakazać opuszczania statku powietrznego lub morskiego;
+
+### 3)
+
+nakazać opuszczenie terytorium Rzeczypospolitej Polskiej na pokładzie innego statku powietrznego lub morskiego niż ten, na którym przybył.
+
+” ;
+
+### 67)
+
+po art. 137 dodaje się art. 137a w brzmieniu:
+
+„
+
+### Art. 137a.
+
+Jeżeli zachodzą okoliczności, o których mowa w art. 136 ust. 1, koszty pobytu cudzoziemca na terytorium Rzeczypospolitej Polskiej do czasu opuszczenia tego terytorium ponosi przewoźnik.
+
+” ;
+
+### 68)
+
+w art. 138 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na przewoźnika, który drogą powietrzną lub morską przywiózł do granicy cudzoziemca nieposiadającego ważnego dokumentu podróży uprawniającego do przekroczenia granicy, wymaganej wizy lub innego ważnego dokumentu uprawniającego do wjazdu i pobytu na terytorium Rzeczypospolitej Polskiej, zezwolenia na wjazd do innego państwa lub zezwolenia na pobyt w innym państwie, jeżeli zezwolenia takie są wymagane, nakłada się karę administracyjną w wysokości stanowiącej równowartość od 3 000 do 5 000 euro za każdą przywiezioną osobę, z tym że suma kar za jednorazowy przywóz grupy osób nie może przekroczyć równowartości 500 000 euro.
+
+” ;
+
+### 69)
+
+w art. 142 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+W Urzędzie mogą być zatrudniani funkcjonariusze Straży Granicznej, Państwowej Straży Pożarnej, Policji, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego i Agencji Wywiadu, na zasadach określonych w odrębnych przepisach.
+
+” ;
+
+### 70)
+
+w art. 143 w ust. 1:
+
+### a)
+
+pkt 4a otrzymuje brzmienie:
+
+„
+
+### 4a)
+
+przekazywanie właściwym organom innych państw obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, informacji dotyczących podstawy prawnej i faktycznej wpisu do celów określonych w art. 25 Konwencji Wykonawczej Schengen;
+
+” ,
+
+### b)
+
+po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+pełnienie funkcji krajowego punktu kontaktowego, o którym mowa w art. 12 ust. 2 rozporządzenia nr 1931/2006, oraz przekazywanie właściwym organom państw stosujących to rozporządzenie oraz Komisji Europejskiej informacji przechowywanych w rejestrze przypadków nadużycia zasad małego ruchu granicznego oraz sankcji za nadużycie tych zasad, o którym mowa w art. 17 ust. 3 rozporządzenia nr 1931/2006;
+
+” ;
+
+### 71)
+
+uchyla się art. 144;
+
+### 72)
+
+w art. 148 w ust. 1 w pkt 9 na końcu dodaje się przecinek i pkt 10 w brzmieniu:
+
+„
+
+### 10)
+
+wjechał na terytorium Rzeczypospolitej Polskiej na podstawie zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego i:
+
+### a)
+
+przebywa poza strefą przygraniczną, w ramach której posiadacz zezwolenia jest uprawniony do przemieszczania się, albo
+
+### b)
+
+nie opuszcza terytorium Rzeczypospolitej Polskiej po upływie okresu pobytu określonego w tym zezwoleniu
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców ([Dz. U. z 2004 r. Nr 167, poz. 1758](https://api.sejm.gov.pl/eli/acts/DU/2004/1758/text.html), z [2005 r. Nr 94, poz. 788](https://api.sejm.gov.pl/eli/acts/DU/2005/788/text.html) i [Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html) oraz z [2008 r. Nr 180, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2008/1112/text.html)) w art. 1a w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+posiadanie zezwolenia na zamieszkanie na czas oznaczony z wyłączeniem zezwolenia udzielonego na podstawie art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112 i Nr 216, poz. 1367.](#gloss-0:5:)), zezwolenia na osiedlenie się lub zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich;
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych ([Dz. U. z 2000 r. Nr 23, poz. 295](https://api.sejm.gov.pl/eli/acts/DU/2000/295/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568 oraz z 2006 r. Nr 220, poz. 1600.](#gloss-0:6:)) w art. 10 po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, postępowanie ze zwłokami cudzoziemców umieszczonych w strzeżonym ośrodku lub przebywających w areszcie w celu wydalenia, w szczególności sposób powiadamiania osób, o których mowa w ust. 1, o zgonie, podmioty wydające zgodę na pochowanie zwłok, tryb postępowania ze zwłokami, które nie zostaną odebrane, oraz sposób ponoszenia kosztów pochówku zleconego przez strzeżony ośrodek lub areszt w celu wydalenia, kierując się koniecznością zachowania godności należnej zmarłemu i bezpieczeństwem sanitarnym.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej ([Dz. U. z 2002 r. Nr 215, poz. 1823](https://api.sejm.gov.pl/eli/acts/DU/2002/1823/text.html), z [2004 r. Nr 173, poz. 1808](https://api.sejm.gov.pl/eli/acts/DU/2004/1808/text.html) oraz z [2007 r. Nr 180, poz. 1280](https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text.html) i [Nr 181, poz. 1287](https://api.sejm.gov.pl/eli/acts/DU/2007/1287/text.html)) w art. 23 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+wydaje zezwolenia na przekraczanie granicy w ramach małego ruchu granicznego.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej ([Dz. U. z 2005 r. Nr 226, poz. 1944](https://api.sejm.gov.pl/eli/acts/DU/2005/1944/text.html), z [2007 r. Nr 107, poz. 732](https://api.sejm.gov.pl/eli/acts/DU/2007/732/text.html) i [Nr 140, poz. 982](https://api.sejm.gov.pl/eli/acts/DU/2007/982/text.html) oraz z [2008 r. Nr 195, poz. 1199](https://api.sejm.gov.pl/eli/acts/DU/2008/1199/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 17 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Wojewoda może zlecić właścicielowi lub posiadaczowi gruntów lub obiektów kolejowych, morskich, rzecznych lub lotniczych przejść granicznych realizację swoich zadań na podstawie zawartej umowy, przyznając jednocześnie dotację celową na realizację tych zadań. Umowa powinna określać:
+
+### 1)
+
+szczegółowy opis zadania, w tym cel na jaki dotacja celowa została przyznana, i termin jego wykonania;
+
+### 2)
+
+wysokość dotacji celowej udzielanej na wykonanie zadania i tryb płatności;
+
+### 3)
+
+termin wykorzystania dotacji celowej, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+
+### 4)
+
+tryb kontroli wykonywania zadania;
+
+### 5)
+
+termin i sposób rozliczenia udzielonej dotacji celowej;
+
+### 6)
+
+termin zwrotu niewykorzystanej części dotacji celowej, nie dłuższy niż 15 dni, licząc od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą - 30 dni, licząc od określonego w umowie dnia jego wykonania.
+
+” ;
+
+### 2)
+
+uchyla się art. 17b.
+
+### Art. 6.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2005 r. Nr 234, poz. 1997](https://api.sejm.gov.pl/eli/acts/DU/2005/1997/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558 oraz z 2008 r. Nr 86, poz. 521 i Nr 195, poz. 1199.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2 po pkt 13 dodaje się pkt 13a w brzmieniu:
+
+„
+
+### 13a)
+
+przeprowadzanie kontroli legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców, powierzania wykonywania pracy cudzoziemcom;
+
+” ;
+
+### 2)
+
+po art. 10c dodaje się art. 10d w brzmieniu:
+
+„
+
+### Art. 10d.
+
+### 1.
+
+Straż Graniczna prowadzi kontrolę, o której mowa w art. 1 ust. 2 pkt 13a, w celu ustalenia stanu faktycznego w zakresie przestrzegania przepisów dotyczących legalności wykonywania pracy przez cudzoziemców, prowadzenia działalności gospodarczej przez cudzoziemców oraz powierzania wykonywania pracy cudzoziemcom.
+
+### 2.
+
+Kontrolę przeprowadzają funkcjonariusze Straży Granicznej pełniący służbę w jednostkach organizacyjnych Straży Granicznej, na podstawie upoważnienia do przeprowadzenia kontroli, zwanego dalej „upoważnieniem”, wystawionego przez właściwego komendanta. Upoważnienie okazuje się przed rozpoczęciem kontroli.
+
+### 3.
+
+Upoważnienie zawiera wskazanie podstawy prawnej, oznaczenie organu kontroli, datę i miejsce wystawienia, imię i nazwisko funkcjonariusza Straży Granicznej uprawnionego do wykonywania kontroli oraz numer jego legitymacji służbowej, nazwę i adres kontrolowanego, określenie zakresu przedmiotowego kontroli, wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli, podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji oraz pouczenie o prawach i obowiązkach kontrolowanego.
+
+### 4.
+
+W przypadku podejrzenia, że przepisy w zakresie, o którym mowa w ust. 1, nie są przestrzegane, i okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, kontrole przeprowadza się na podstawie legitymacji służbowych. Kontrolowanemu doręcza się upoważnienie nie później niż w terminie 7 dni od podjęcia kontroli. W przypadku kontroli, na podstawie legitymacji służbowych, kontrolowany ma obowiązek wskazać adres do doręczeń. W przypadku braku takiego adresu lub gdy wskazany adres okazał się nieprawdziwy, upoważnienie złożone do akt kontroli uznaje się za doręczone.
+
+### 5.
+
+Kontrolą mogą być objęci pracodawcy, przedsiębiorcy niezatrudniający pracownika i inne instytucje, a także w przypadku uzasadnionego podejrzenia naruszenia przepisów, o których mowa w ust. 1, osoby fizyczne.
+
+### 6.
+
+Kontrolę przeprowadza się w siedzibie kontrolowanego oraz w innych miejscach wykonywania pracy lub prowadzenia działalności gospodarczej, a także w miejscu przechowywania wszelkich dokumentów związanych z zatrudnieniem, powierzeniem pracy lub prowadzeniem działalności gospodarczej.
+
+### 7.
+
+Podczas wykonywania kontroli funkcjonariusze mogą korzystać z pomieszczeń do pracy kontrolowanego. Jeżeli przeprowadzenie czynności kontrolnych tego wymaga, mogą one być przeprowadzone także w jednostce organizacyjnej Straży Granicznej.
+
+### 8.
+
+Kontrolowany, osoba upoważniona do reprezentowania kontrolowanego lub prowadzenia jego spraw, pracownik kontrolowanego oraz osoba współdziałająca z kontrolowanym są obowiązani umożliwić wykonywanie kontroli oraz uczestniczyć w przeprowadzaniu oględzin miejsc wykonywania pracy.
+
+### 9.
+
+Kontrolowany ma obowiązek w wyznaczonym terminie udzielać wszelkich wyjaśnień dotyczących przedmiotu kontroli, dostarczać dokumenty, w tym dokumenty żądane przez kontrolujących funkcjonariuszy, umożliwić sporządzanie ich kopii oraz zapewnić funkcjonariuszom warunki do pracy, w tym w miarę możliwości udostępnić samodzielne pomieszczenie i miejsce do przechowywania dokumentów.
+
+### 10.
+
+Osoby upoważnione do reprezentowania kontrolowanego lub prowadzenia jego spraw, pracownicy kontrolowanego, osoby współdziałające z kontrolowanym oraz inne osoby przebywające w miejscu przeprowadzania kontroli są obowiązani udzielać wyjaśnień dotyczących przedmiotu kontroli, w zakresie wynikającym z wykonywanych czynności lub zadań.
+
+### 11.
+
+Kontrolowany lub osoba przez niego upoważniona są obowiązani do poświadczenia zgodności odpisów i wyciągów oraz kserokopii z dokumentów dostarczonych kontrolującym.
+
+### 12.
+
+Kontrolowany lub osoby, o których mowa w ust. 10, mogą złożyć funkcjonariuszom kontrolującym ustne lub pisemne oświadczenia dotyczące przedmiotu kontroli, które załącza się do protokołu kontroli.
+
+### 13.
+
+W przypadku wystąpienia w toku kontroli okoliczności wymagających wiadomości specjalistycznych, w szczególności dotyczących dokumentów potwierdzających legalność wykonywania pracy przez cudzoziemców, można powołać biegłego.
+
+### 14.
+
+Po przeprowadzeniu kontroli funkcjonariusz sporządza:
+
+### 1)
+
+w przypadku stwierdzenia nieprawidłowości w toku kontroli - protokół kontroli;
+
+### 2)
+
+w przypadku niestwierdzenia nieprawidłowości - notatkę służbową.
+
+### 15.
+
+Protokół kontroli powinien zawierać w szczególności:
+
+### 1)
+
+stopień, imię i nazwisko funkcjonariusza oraz numer jego legitymacji służbowej;
+
+### 2)
+
+datę i miejsce sporządzenia protokołu kontroli;
+
+### 3)
+
+datę i godzinę rozpoczęcia i zakończenia kontroli;
+
+### 4)
+
+miejsce przeprowadzenia kontroli;
+
+### 5)
+
+dane kontrolowanego obejmujące nazwę (firmę) lub imię i nazwisko, adres (siedzibę) oraz numer REGON, KRS lub NIP;
+
+### 6)
+
+opis okoliczności uzasadniających przeprowadzenie kontroli;
+
+### 7)
+
+opis skontrolowanych dokumentów i zezwoleń z podaniem ich numeru, okresu ważności oraz organu, który dokument lub zezwolenie wydał;
+
+### 8)
+
+wynik kontroli;
+
+### 9)
+
+podpis funkcjonariusza sporządzającego protokół kontroli;
+
+### 10)
+
+podpis kontrolowanego lub adnotację o przyczynach jego braku.
+
+### 16.
+
+Notatka służbowa powinna zawierać w szczególności:
+
+### 1)
+
+datę i miejsce sporządzenia notatki;
+
+### 2)
+
+dane kontrolowanego obejmujące nazwę (firmę) lub imię i nazwisko, adres (siedzibę) oraz numer REGON, KRS lub NIP;
+
+### 3)
+
+wynik kontroli;
+
+### 4)
+
+podpis funkcjonariusza sporządzającego notatkę.
+
+### 17.
+
+Kontrolowanemu przysługuje prawo zgłoszenia przed podpisaniem protokołu kontroli zastrzeżeń do ustaleń zawartych w protokole. Zastrzeżenia należy zgłosić na piśmie w terminie 7 dni od dnia przedstawienia protokołu.
+
+### 18.
+
+Odmowa podpisania protokołu kontroli przez kontrolowanego nie stanowi przeszkody do podpisania go przez kontrolującego oraz pozostawienia kontrolowanemu kopii protokołu.
+
+### 19.
+
+W przypadku gdy w przeprowadzaniu kontroli bierze udział tłumacz, protokół kontroli lub notatka służbowa powinny zawierać imię i nazwisko oraz podpis tłumacza.
+
+### 20.
+
+W wyniku ustaleń dokonanych w toku kontroli organ Straży Granicznej właściwy ze względu na miejsce dokonanej kontroli podejmuje dalsze czynności określone w przepisach ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+
+### 21.
+
+W przypadku stwierdzenia w toku kontroli naruszenia przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2008 r. Nr 69, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/2008/415/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056 i Nr 216, poz. 1367.](#gloss-0:8:)) organ Straży Granicznej dokonujący kontroli występuje z wnioskiem do właściwego sądu rejonowego o ukaranie osób odpowiedzialnych za stwierdzone nieprawidłowości.
+
+### 22.
+
+Straż Graniczna w zakresie wykonywania kontroli, o której mowa w ust. 1, współdziała z organami administracji publicznej, a w szczególności z Policją, Państwową Inspekcją Pracy, Służbą Celną, Zakładem Ubezpieczeń Społecznych, urzędami kontroli skarbowej oraz związkami zawodowymi i organizacjami pracodawców.
+
+### 23.
+
+Organ Straży Granicznej dokonujący kontroli zawiadamia o podejrzeniu naruszenia przepisów prawa właściwe organy, w szczególności:
+
+### 1)
+
+Zakład Ubezpieczeń Społecznych - w przypadku naruszenia przepisów w zakresie ubezpieczeń społecznych oraz składek na Fundusz Pracy;
+
+### 2)
+
+Państwową Inspekcję Pracy - w przypadku naruszenia przepisów prawa pracy;
+
+### 3)
+
+urząd kontroli skarbowej - w przypadku naruszenia przepisów prawa podatkowego;
+
+### 4)
+
+Służbę Celną - w przypadku naruszenia przepisów prawa celnego;
+
+### 5)
+
+Policję lub Prokuraturę - w przypadku podejrzenia popełnienia czynu zabronionego.
+
+### 24.
+
+W zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+### 25.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, szczegółowy tryb przeprowadzania kontroli, o której mowa w ust. 1, oraz wzory stosowanych dokumentów, mając na względzie konieczność zapewnienia sprawności przeprowadzanej kontroli oraz prawidłowego dokumentowania przeprowadzonych czynności kontrolnych.
+
+” ;
+
+### 3)
+
+w art. 11:
+
+### a)
+
+w ust. 1:
+
+- - pkt 5 otrzymuje brzmienie: „ 5) zatrzymywania osób w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego i innych ustaw; ” ,
+
+- - po pkt 5a dodaje się pkt 5b w brzmieniu: „ 5b) doprowadzania osób, o których mowa w pkt 5, do właściwego organu Straży Granicznej, sądu lub prokuratury, a w przypadku cudzoziemców, wobec których prowadzone są postępowania określone w ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach oraz w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, także do właściwej jednostki organizacyjnej Policji, wojewody, Szefa Urzędu do Spraw Cudzoziemców, przedstawicielstw dyplomatycznych, urzędów konsularnych, placówek opiekuńczo-wychowawczych lub zakładów opieki zdrowotnej; ” ,
+
+### b)
+
+po ust. 1c dodaje się ust. 1d w brzmieniu:
+
+„
+
+### 1d.
+
+Przy wykonywaniu czynności, o których mowa w art. 1 ust. 2 pkt 13a, funkcjonariusze Straży Granicznej mają prawo:
+
+### 1)
+
+swobodnego poruszania się po terenie jednostki kontrolowanego bez obowiązku uzyskiwania przepustki oraz są zwolnieni z obowiązku poddania się rewizji osobistej;
+
+### 2)
+
+kontrolowania dokumentów związanych z zatrudnieniem, powierzeniem pracy lub prowadzeniem działalności gospodarczej oraz sporządzania ich kopii;
+
+### 3)
+
+ustalania tożsamości osób przebywających w miejscu przeprowadzania kontroli;
+
+### 4)
+
+przesłuchiwania osób podejrzewanych o naruszenie przepisów, o których mowa w art. 10d;
+
+### 5)
+
+żądania udzielania wyjaśnień od osób przebywających w miejscu przeprowadzania kontroli;
+
+### 6)
+
+dokumentowania czynności kontrolnych z wykorzystaniem środków audiowizualnych;
+
+### 7)
+
+korzystania z pomocy biegłych i specjalistów;
+
+### 8)
+
+dokonywania oględzin miejsc wykonywania pracy, w szczególności w celu ustalenia liczby miejsc pracy.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb postępowania przy wykonywaniu uprawnień, o których mowa w ust. 1 pkt 4-5b, oraz wzory dokumentów stosowanych w tych sprawach, a także podmioty uprawnione do zarządzania doprowadzenia i szczegółowe warunki dokonywania doprowadzeń przy użyciu środków transportu, uwzględniając niezbędne środki ostrożności przy wykonywaniu uprawnień, a także skuteczność działań podejmowanych przez Straż Graniczną oraz poszanowanie praw osób, wobec których działania te są podejmowane.
+
+” ,
+
+### d)
+
+uchyla się ust. 9.
+
+### Art. 7.
+
+W ustawie z dnia 9 listopada 2000 r. o repatriacji ([Dz. U. z 2004 r. Nr 53, poz. 532](https://api.sejm.gov.pl/eli/acts/DU/2004/532/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, z 2006 r. Nr 249, poz. 1828, z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 70, poz. 416.](#gloss-0:9:)) użyte w art. 1 ust. 2, art. 4, art. 8 zdanie wstępne, art. 9, art. 10, art. 11 ust. 1 i 3, art. 12 ust. 1, art. 12a, art. 12b ust. 1, art. 14, art. 15 ust. 3, art. 17 ust. 9, art. 18 ust. 1, art. 29 ust. 2, art. 30, art. 31 ust. 1, art. 32 pkt 1 i art. 33 ust. 1 pkt 1 w różnych przypadkach wyrazy „wiza wjazdowa w celu repatriacji” zastępuje się użytymi w odpowiednich przypadkach wyrazami „wiza krajowa w celu repatriacji”.
+
+### Art. 8.
+
+W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650 oraz z 2008 r. Nr 190, poz. 1171.](#gloss-0:10:)) w art. 5 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+zezwoleń na przekraczanie granicy w ramach małego ruchu granicznego wydawanych przez konsulów.
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej ([Dz. U. z 2006 r. Nr 234, poz. 1695](https://api.sejm.gov.pl/eli/acts/DU/2006/1695/text.html), z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html) oraz z [2008 r. Nr 70, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/2008/416/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 41:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Obowiązek doprowadzenia, na wniosek Szefa Urzędu, wykonują:
+
+### 1)
+
+komendant oddziału Straży Granicznej właściwy ze względu na miejsce pobytu wnioskodawcy - do granicy;
+
+### 2)
+
+Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej właściwy ze względu na miejsce przekroczenia granicy przez wnioskodawcę lub osobę, w imieniu której wnioskodawca występuje - od granicy do portu lotniczego albo morskiego państwa, do którego następuje przekazanie.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Koszty doprowadzenia do granicy lub do portu lotniczego albo morskiego państwa, do którego następuje przekazanie, są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw wewnętrznych, ze środków pozostających w dyspozycji Komendanta Głównego Straży Granicznej.
+
+” ;
+
+### 2)
+
+w art. 70 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Cudzoziemcowi, który przed upływem 2 lat od dnia udzielenia mu pomocy w dobrowolnym powrocie złożył kolejny wniosek o nadanie statusu uchodźcy lub wniosek, o którym mowa w art. 42 ust. 2, przysługuje wyłącznie pomoc medyczna oraz pomoc socjalna w postaci świadczenia pieniężnego w wysokości jednej trzeciej świadczenia pieniężnego udzielanego w przypadkach, o których mowa w art. 72.
+
+” ;
+
+### 3)
+
+w art. 97 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+jest niewykonalne z przyczyn niezależnych od organu wykonującego decyzję o wydaleniu i od cudzoziemca;
+
+” ;
+
+### 4)
+
+po art. 101 dodaje się art. 101a w brzmieniu:
+
+„
+
+### Art. 101a.
+
+W decyzji o udzieleniu zgody na pobyt tolerowany wydanej na podstawie art. 97 ust. 1 pkt 2 cudzoziemca zobowiązuje się do zgłaszania się w określonych odstępach czasu do organu wskazanego w decyzji oraz do zawiadamiania tego organu o każdej zmianie miejsca pobytu.
+
+” ;
+
+### 5)
+
+w art. 102 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+cudzoziemiec, któremu udzielono zgody na pobyt tolerowany na podstawie art. 97 ust. 1 pkt 2, uchyla się od nałożonego w tej decyzji obowiązku zgłaszania się w określonych odstępach czasu do wskazanego w niej organu lub zawiadomienia tego organu o każdej zmianie miejsca pobytu.
+
+” ;
+
+### 6)
+
+w art. 104:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) wojewoda: a) z urzędu, w decyzji o odmowie wydalenia, gdy w postępowaniu w sprawie o wydalenie cudzoziemca stwierdzi, że zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 97 ust. 1 pkt 1 lub pkt 1a, albo w odrębnej decyzji, gdy okoliczności te ujawniły się po wydaniu decyzji o wydaleniu, b) z urzędu, gdy wydalenie cudzoziemca jest niewykonalne z przyczyn niezależnych od organu wykonującego decyzję o wydaleniu i od cudzoziemca, c) na wniosek organu właściwego do wykonania decyzji o wydaleniu cudzoziemca wydanej przez organ innego państwa członkowskiego stosującego dyrektywę Rady nr 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich ([Dz. Urz. WE L 149 z 27.02.2001, str. 34](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 107](https://api.sejm.gov.pl/eli/acts//text.html)), gdy zachodzi przynajmniej jedna z okoliczności, o których mowa w art. 97 ust. 1; ” ,
+
+- - w pkt 2 lit. c otrzymuje brzmienie: „ c) z urzędu, gdy wydalenie cudzoziemca na podstawie decyzji o odmowie nadania statusu uchodźcy i ochrony uzupełniającej, która zawiera orzeczenie o wydaleniu, lub na podstawie decyzji o pozbawieniu azylu, jest niewykonalne z przyczyn niezależnych od organu wykonującego decyzję i od cudzoziemca; ” ,
+
+### b)
+
+ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Decyzję w sprawie udzielenia zgody na pobyt tolerowany w przypadkach, gdy okoliczności, o których mowa w art. 97 ust. 1 pkt 1 lub pkt 1a, ujawniły się po wydaniu decyzji o wydaleniu lub wydalenie cudzoziemca jest niewykonalne z przyczyn niezależnych od organu wykonującego decyzję o wydaleniu i od cudzoziemca, wydaje wojewoda, który wydał decyzję o wydaleniu.
+
+” ;
+
+### 7)
+
+w art. 105 w ust. 1 w pkt 2 na końcu dodaje się przecinek i pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+uwzględnienia przez wojewodę wniosku, o którym mowa w art. 104 ust. 1 pkt 1 lit. c
+
+” ;
+
+### 8)
+
+w art. 126 w ust. 1 w pkt 5 na końcu dodaje się przecinek i pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+uchyla się od nałożonego w decyzji, wydawanej na podstawie art. 101a, obowiązku zgłaszania się w określonych odstępach czasu do wskazanego w tej decyzji organu lub zawiadomienia tego organu o każdej zmianie miejsca pobytu
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2008 r. Nr 115, poz. 728](https://api.sejm.gov.pl/eli/acts/DU/2008/728/text.html) i [Nr 171, poz. 1056](https://api.sejm.gov.pl/eli/acts/DU/2008/1056/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 5a otrzymuje brzmienie:
+
+„
+
+### Art. 5a.
+
+Prawo do świadczeń w formie interwencji kryzysowej, schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego przysługuje cudzoziemcom, o których mowa w art. 53 ust. 1 pkt 15 oraz art. 53a ust. 2 pkt 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+
+” ;
+
+### 2)
+
+w art. 47 ust. 3a otrzymuje brzmienie:
+
+„
+
+### 3a.
+
+Cudzoziemcom, o których mowa w art. 5a, można udzielić schronienia na okres zezwolenia na zamieszkanie na czas oznaczony, o którym mowa w art. 53 i art. 53a ust. 2 pkt 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2008 r. Nr 69, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/2008/415/text.html), [Nr 70, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/2008/416/text.html), [Nr 134, poz. 850](https://api.sejm.gov.pl/eli/acts/DU/2008/850/text.html) i [Nr 171, poz. 1056](https://api.sejm.gov.pl/eli/acts/DU/2008/1056/text.html)) w art. 87 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 1 po pkt 2c dodaje się pkt 2d w brzmieniu:
+
+„
+
+### 2d)
+
+przebywający w Rzeczypospolitej Polskiej na podstawie wizy, o której mowa w art. 61 ust. 3 lub art. 71a ust. 3 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, jeżeli przed wydaniem tej wizy byli zwolnieni z obowiązku posiadania zezwolenia na pracę na podstawie pkt 2a i 5a-6;
+
+” ;
+
+### 2)
+
+po ust. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Do wykonywania pracy na warunkach określonych ustawą nie są uprawnieni cudzoziemcy, którzy przebywają na terytorium Rzeczypospolitej Polskiej na podstawie:
+
+### 1)
+
+wizy jednolitej tranzytowej, wizy wydanej w celu, o którym mowa w art. 28 ust. 1 pkt 1, 10 i 11 oraz ust. 3 pkt 1 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach;
+
+### 2)
+
+zezwolenia na zamieszkanie na czas oznaczony udzielonego w związku z okolicznością, o której mowa w art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach.
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2007 r. Nr 155, poz. 1095](https://api.sejm.gov.pl/eli/acts/DU/2007/1095/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056.](#gloss-0:11:)) w art. 13 w ust. 2 w pkt 1 po lit. f dodaje się lit. g w brzmieniu:
+
+„
+
+### g)
+
+wizę, o której mowa w art. 61 ust. 3 lub art. 71a ust. 3 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, jeżeli przed wydaniem tej wizy byli uprawnieni do podejmowania i wykonywania działalności gospodarczej na podstawie lit. c,
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html)) w art. 3 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, przebywające na terytorium Rzeczypospolitej Polskiej na podstawie wizy w celu wykonywania pracy, zezwolenia na zamieszkanie na czas oznaczony z wyłączeniem zezwolenia udzielonego na podstawie art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112 i Nr 216, poz. 1367.](#gloss-0:12:)), zezwolenia na osiedlenie się, zezwolenia na pobyt rezydenta długoterminowego Wspólnot Europejskich, zgody na pobyt tolerowany lub osoby, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą albo korzystające z ochrony czasowej na jej terytorium,
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin ([Dz. U. Nr 144, poz. 1043](https://api.sejm.gov.pl/eli/acts/DU/2006/1043/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 7 dodaje się art. 7a w brzmieniu:
+
+„
+
+### Art. 7a.
+
+W postępowaniach w sprawach uregulowanych w ustawie obywatel UE lub członek rodziny obywatela UE w razie braku możliwości okazania dokumentu podróży lub innego dokumentu potwierdzającego tożsamość i obywatelstwo, mogą przedstawić inny dowód niż dokument urzędowy, który pozwoli potwierdzić ich tożsamość i obywatelstwo w niebudzący wątpliwości sposób.
+
+” ;
+
+### 2)
+
+w art. 10 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Członkowi rodziny niebędącemu obywatelem UE odmawia się wydania wizy, gdy:
+
+### 1)
+
+jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, prowadzonym na podstawie art. 124 pkt 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, zwanym dalej „wykazem”, lub
+
+### 2)
+
+jego pobyt na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego lub zdrowia publicznego.
+
+” ;
+
+### 3)
+
+w art. 11:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Obywatelowi UE lub członkowi rodziny niebędącemu obywatelem UE można odmówić wjazdu na terytorium Rzeczypospolitej Polskiej, gdy:
+
+### 1)
+
+jego dane znajdują się w wykazie lub
+
+### 2)
+
+jego pobyt na terytorium Rzeczypospolitej Polskiej może stanowić zagrożenie dla obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego lub zdrowia publicznego, lub
+
+### 3)
+
+nie posiada dokumentu, o którym mowa odpowiednio w art. 9 ust. 1 lub 2, chyba że udowodni w inny, niebudzący wątpliwości sposób, że jest uprawniony do korzystania ze swobody przepływu osób.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+Decyzji o odmowie wjazdu nadaje się rygor natychmiastowej wykonalności.
+
+### 4.
+
+W przypadku wydania członkowi rodziny niebędącemu obywatelem UE decyzji o odmowie wjazdu na podstawie ust. 1 pkt 1 lub 2, wydaje się także decyzję o unieważnieniu wizy.
+
+” ;
+
+### 4)
+
+po art. 11 dodaje się art. 11a w brzmieniu:
+
+„
+
+### Art. 11a.
+
+### 1.
+
+Decyzja o odmowie wydania wizy członkowi rodziny niebędącemu obywatelem UE wydana na podstawie art. 10 ust. 2 pkt 2 lub decyzja o odmowie wjazdu wydana członkowi rodziny niebędącemu obywatelem UE lub obywatelowi UE na podstawie art. 11 ust. 1 pkt 2, powinny uwzględniać zasadę proporcjonalności i być wydawane wyłącznie w przypadku, gdy zachowanie danej osoby stanowi rzeczywiste, aktualne i dostatecznie poważne zagrożenie dla interesu społecznego.
+
+### 2.
+
+Wcześniejsza karalność nie może stanowić samoistnej podstawy do podjęcia decyzji na podstawie art. 10 ust. 2 pkt 2 lub art. 11 ust. 1 pkt 2. Na zagrożenia, o których mowa w ust. 1, nie można się powoływać dla celów gospodarczych.
+
+” ;
+
+### 5)
+
+w art. 13 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Decyzje o odmowie wjazdu na terytorium Rzeczypospolitej Polskiej oraz decyzje o unieważnieniu wizy wydaje komendant placówki Straży Granicznej.
+
+” ;
+
+### 6)
+
+w art. 14 po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+W przypadku nieposiadania dokumentu, o którym mowa odpowiednio w ust. 1 lub 2, obywatel UE lub członek rodziny niebędący obywatelem UE może wyjechać z terytorium Rzeczypospolitej Polskiej, jeżeli udowodni w inny, niebudzący wątpliwości sposób, że jest uprawniony do korzystania ze swobody przepływu osób.
+
+” .
+
+### Art. 15.
+
+W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej ([Dz. U. Nr 225, poz. 1635](https://api.sejm.gov.pl/eli/acts/DU/2006/1635/text.html), z późn. zm.[13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121 i Nr 195, poz. 1198.](#gloss-0:13:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 w pkt 1 lit. j otrzymuje brzmienie:
+
+„
+
+### j)
+
+pobytu na terytorium Rzeczypospolitej Polskiej obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, oraz członków ich rodzin, którzy do nich dołączają lub z nimi przebywają,
+
+” ;
+
+### 2)
+
+w załączniku w części III wprowadza się następujące zmiany:
+
+### a)
+
+ust. 2 otrzymuje brzmienie: 2. Zezwolenie na zamieszkanie na czas oznaczony z wyłączeniem zezwolenia udzielonego na podstawie art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2006 r. Nr 234, poz. 1694, z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112 i Nr 216, poz. 1367) 340 zł 1) zezwolenie udzielane cudzoziemcowi na podstawie art. 53 ust. 1 pkt 15 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach 2) zezwolenie udzielane cudzoziemcowi korzystającemu z ochrony czasowej
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu: 2a. Zezwolenie na zamieszkanie na czas oznaczony, o którym mowa w art. 53a ust. 2 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, wydane na podstawie:1) pkt 1 i 3 85 zł 2) pkt 2 340 zł
+
+### c)
+
+uchyla się ust. 5,
+
+### d)
+
+ust. 6 i 7 otrzymują brzmienie: 6. Wiza wydawana przez komendanta placówki Straży Granicznej:1) dla jednej osoby równowartość 60 euro*) 1) wiza dla członka rodziny obywatela państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, który do niego dołącza lub z nim przebywa 2) dla grupy osób iloczyn liczby osób w grupie i równowartości 1 euro*) powiększony o równowartość 60 euro*) *) przeliczenia równowartości euro na złote dokonuje się według średniego kursu ogłoszonego przez Narodowy Bank Polski dla tej waluty w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o wydanie wizy 2) wiza dla cudzoziemca korzystającego z ochrony czasowej 3) wiza dla cudzoziemca w wieku poniżej 6 lat 4) wiza dla uczniów szkół, studentów, studentów podyplomowych oraz towarzyszących im nauczycieli, którzy podróżują w celu nauki, studiowania lub szkolenia 5) wiza dla naukowców przybywających w celu prowadzenia badań naukowych 7. Przedłużenie wizy: 1) jednolitej równowartość 60 euro*) 2) krajowej 406 zł *) przeliczenia równowartości euro na złote dokonuje się według średniego kursu ogłoszonego przez Narodowy Bank Polski dla tej waluty w ostatnim dniu roboczym poprzedzającym dzień złożenia wniosku o przedłużenie wizy
+
+### e)
+
+w ust. 44 po pkt 13 dodaje się pkt 14 w brzmieniu: 14) zezwolenie na zamieszkanie naczas oznaczony udzielane cudzoziemcowi, który jest prawdopodobnie ofiarą handlu ludźmi
+
+### Art. 16.
+
+W ustawie z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej ([Dz. U. Nr 165, poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.html) oraz z [2008 r. Nr 195, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2008/1198/text.html)) w art. 4 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+cudzoziemców, których dane zostały wpisane do Systemu Informacyjnego Schengen dla celów odmowy wjazdu, przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Agencji Wywiadu, Służbie Celnej, organom kontroli skarbowej, sądowi, prokuraturze, Szefowi Urzędu do Spraw Cudzoziemców, Służbie Kontrwywiadu Wojskowego, wojewodzie, konsulowi lub ministrowi właściwemu do spraw zagranicznych;
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 7 września 2007 r. o Karcie Polaka ([Dz. U. Nr 180, poz. 1280](https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text.html) oraz z [2008 r. Nr 52, poz. 305](https://api.sejm.gov.pl/eli/acts/DU/2008/305/text.html) i [Nr 214, poz. 1348](https://api.sejm.gov.pl/eli/acts/DU/2008/1348/text.html)) w art. 5 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Posiadacz Karty Polaka może ubiegać się o zwolnienie z opłaty za przyjęcie i rozpatrzenie wniosku o wydanie wizy krajowej w celu korzystania z uprawnień wynikających z posiadania Karty Polaka lub o refundację tej opłaty.
+
+” .
+
+### Art. 18.
+
+Wizy wydane na podstawie art. 33, art. 34 ust. 1, art. 44 ust. 3, art. 61 ust. 3 i art. 71a ust. 3 ustawy, o której mowa w art. 1, zachowują ważność przez okres, na jaki zostały wydane.
+
+### Art. 19.
+
+Do cudzoziemców, którym wydano wizy na podstawie art. 33 ustawy, o której mowa w art. 1, stosuje się przepisy dotyczące cudzoziemców, którym udzielono zezwolenia na zamieszkanie na czas oznaczony wydane na podstawie art. 53a ust. 2 tej ustawy.
+
+### Art. 20.
+
+Z dniem wejścia w życie niniejszej ustawy decyzje o:
+
+### 1)
+
+cofnięciu zezwolenia na osiedlenie się, w których orzeczono nakaz opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, stają się z mocy prawa decyzjami o cofnięciu zezwolenia na osiedlenie się i wydaleniu;
+
+### 2)
+
+cofnięciu zezwolenia na pobyt rezydenta długoterminowego WE, w których orzeczono nakaz opuszczenia przez cudzoziemca terytorium Rzeczypospolitej Polskiej, stają się z mocy prawa decyzjami o cofnięciu zezwolenia na pobyt rezydenta długoterminowego WE i wydaleniu.
+
+### Art. 21.
+
+Dane cudzoziemca, któremu została wydana decyzja o odmowie nadania statusu uchodźcy, zawierająca nakaz opuszczenia terytorium Rzeczypospolitej Polskiej, przechowuje się w wykazie, o którym mowa w art. 124 pkt 4 ustawy, o której mowa w art. 1, przez okres, na jaki zostały w nim umieszczone.
+
+### Art. 22.
+
+Cudzoziemcom przebywającym na terytorium Rzeczypospolitej Polskiej na podstawie zgody na pobyt tolerowany zalicza się do okresu nieprzerwanego pobytu wymaganego do uzyskania zezwolenia na osiedlenie się także okresy pobytu na podstawie zezwolenia udzielonego na podstawie art. 97 pkt 1 lub pkt 3 ustawy, o której mowa w art. 9, w brzmieniu obowiązującym do dnia 1 października 2005 r.
+
+### Art. 23.
+
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 24.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 15 ust. 5, art. 15a ust. 12, art. 51 ust. 1, art. 52 ust. 1 i art. 53b ust. 6 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 13a ust. 12, art. 15 ust. 4, art. 46, art. 47 ust. 1 i art. 53b ust. 6 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy;
+
+### 2)
+
+art. 109 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 109 ust. 2 tej ustawy w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+art. 11 ust. 2 i 9 ustawy, o której mowa w art. 6, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 11 ust. 2 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy;
+
+### 4)
+
+art. 14 ust. 1 ustawy, o której mowa w art. 7, zachowuje moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 14 ust. 1 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej niż przez okres 12 miesięcy.
+
+### Art. 25.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady 2001/40/WE z dnia 28 maja 2001 r. w sprawie wzajemnego uznawania decyzji o wydalaniu obywateli państw trzecich (Dz. Urz. WE L 149 z 02.06.2001, str. 34; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 107). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416 i Nr 180, poz. 1112. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391 i Nr 199, poz. 1938, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2006 r. Nr 220, poz. 1600. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112 i Nr 216, poz. 1367. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 120, poz. 1268, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568 oraz z 2006 r. Nr 220, poz. 1600. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558 oraz z 2008 r. Nr 86, poz. 521 i Nr 195, poz. 1199. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056 i Nr 216, poz. 1367. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, z 2006 r. Nr 249, poz. 1828, z 2007 r. Nr 120, poz. 818 oraz z 2008 r. Nr 70, poz. 416. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650 oraz z 2008 r. Nr 190, poz. 1171. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416, Nr 116, poz. 732, Nr 141, poz. 888 i Nr 171, poz. 1056. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 120, poz. 818 i Nr 165, poz. 1170 oraz z 2008 r. Nr 70, poz. 416, Nr 180, poz. 1112 i Nr 216, poz. 1367. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121 i Nr 195, poz. 1198.

@@ -8,11 +8,9 @@ pos: 163
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zakładowym funduszu świadczeń socjalnych
-
-*USTAWA z dnia 4 marca 1994 r.*
+# Ustawa z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,216 +22,412 @@ domain: null
 | Data ogłoszenia | 1994-03-04 |
 | Data wydania | 1994-03-30 |
 | Ostatnia zmiana | 2026-02-19 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940430163) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/163/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/163) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Tworzenie funduszu](#chpt_2) [Rozdział 3 - Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe](#chpt_3)
 
-1. Ustawa określa zasady tworzenia przez pracodawców zakładowego funduszu świadczeń socjalnych, zwanego dalej „Funduszem”, i zasady gospodarowania środkami tego Funduszu, przeznaczonego na finansowanie działalności socjalnej organizowanej na rzecz osób uprawnionych do korzystania z Funduszu, na dofinansowanie zakładowych obiektów socjalnych oraz na tworzenie zakładowych żłobków, klubów dziecięcych, przedszkoli oraz innych form wychowania przedszkolnego.
+TOC
 
-2. Minister właściwy do spraw wewnętrznych porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych, stosunku do pracowników zatrudnionych podległych mu jednostkach sfery budżetowej, niebędących funkcjonariuszami lub żołnierzami zawodowymi, a Minister Sprawiedliwości porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw finansów publicznych stosunku do pracowników zatrudnionych jednostkach sfery budżetowej więziennictwa, niebędących funkcjonariuszami Służby Więziennej, określą, drodze rozporządzenia:
+## Treść ustawy
 
-- **1)** sposób tworzenia i gromadzenia środków Funduszu;
-- **2)** wysokość odpisu na Fundusz, jednak nie wyższą od określonej ustawie. Socjalnej oraz Finansów może określić, drodze rozporządzenia, sposób tworzenia i gromadzenia środków Funduszu oraz wysokość odpisu na Fundusz – jednak nie wyższą od określonej ustawie – stosunku do pracowników cywilnych wojska.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+### Art. 1.
 
-**Art. 3.**
+### 1.
 
-1. Fundusz tworzą pracodawcy zatrudniający według stanu na dzień 1 stycznia danego roku co najmniej 50 pracowników przeliczeniu na pełne etaty.
+Ustawa określa zasady tworzenia w zakładach pracy zakładowego funduszu świadczeń socjalnych, zwanego dalej „Funduszem”, i zasady gospodarowania środkami tego Funduszu, przeznaczonego na finansowanie działalności socjalnej organizowanej na rzecz osób uprawnionych do korzystania z Funduszu oraz na utrzymanie zakładowych obiektów socjalnych.
 
-1a. (uchylony) 1b. (uchylony) 1c. Pracodawcy zatrudniający według stanu na dzień 1 stycznia danego roku, co najmniej 20 i mniej niż 50 pracowników przeliczeniu na pełne etaty, tworzą Fundusz na wniosek zakładowej organizacji związkowej.
+### 2.
 
-2. Pracodawcy prowadzący działalność formie jednostek budżetowych i samorządowych zakładów budżetowych tworzą Fundusz, bez względu na liczbę zatrudnianych pracowników.
+Minister Spraw Wewnętrznych w porozumieniu z Ministrami Pracy i Polityki Socjalnej oraz Finansów w stosunku do pracowników zatrudnionych w podległych im jednostkach sfery budżetowej, nie będących funkcjonariuszami lub żołnierzami zawodowymi, a Minister Sprawiedliwości w porozumieniu z Ministrami Pracy i Polityki Socjalnej oraz Finansów w stosunku do pracowników zatrudnionych w jednostkach sfery budżetowej więziennictwa, nie będących funkcjonariuszami służby więziennej, określą w drodze rozporządzenia:
 
-3. Pracodawcy zatrudniający według stanu na dzień 1 stycznia danego roku mniej niż 50 pracowników przeliczeniu na pełne etaty mogą tworzyć Fundusz do wysokości i na zasadach określonych art. 5 lub mogą wypłacać świadczenie urlopowe, o którym mowa ust. 4–6.
+### 1)
 
-3a. Pracodawcy, o których mowa ust. 3, nieobjęci układem zbiorowym pracy oraz niezobowiązani do wydania regulaminu wynagradzania, informacje sprawie nietworzenia Funduszu i niewypłacania świadczenia urlopowego przekazują pracownikom pierwszym miesiącu danego roku kalendarzowego, sposób przyjęty u danego pracodawcy.
+sposób tworzenia i gromadzenia środków Funduszu,
 
-3b. U pracodawców, o których mowa ust. 3, zatrudniających co najmniej 50 pracowników, objętych układem zbiorowym pracy, postanowienia sprawie nietworzenia Funduszu i niewypłacania świadczenia urlopowego zawiera się układzie zbiorowym pracy. Jeżeli u takich pracodawców pracownicy nie są objęci układem zbiorowym pracy, postanowienia sprawie nietworzenia Funduszu i niewypłacania świadczenia urlopowego zawiera się regulaminie wynagradzania; art. 4 ust. 3 stosuje się odpowiednio.
+### 2)
 
-4. Wysokość świadczenia urlopowego, o którym mowa ust. 3, nie może przekroczyć wysokości odpisu podstawowego, określonego art. 5 ust. 2, 2a i 3 – odpowiedniego do rodzaju zatrudnienia pracownika, z tym że wysokość świadczenia dla zatrudnionych, o których mowa art. 5 ust. 2 i 3, ustala się proporcjonalnie do wymiaru czasu pracy pracownika. roku każdemu pracownikowi korzystającemu danym roku kalendarzowym z urlopu wypoczynkowego wymiarze co najmniej 14 kolejnych dni kalendarzowych.
+wysokość odpisu na Fundusz, jednak nie wyższą od określonej w ustawie.
 
-5a. Wypłata świadczenia urlopowego następuje nie później niż ostatnim dniu poprzedzającym rozpoczęcie urlopu wypoczynkowego, o którym mowa ust. 5.
+### 3.
 
-6. Świadczenie urlopowe, o którym mowa ust. 4, nie podlega składce na ubezpieczenie społeczne pracowników.
+Minister Obrony Narodowej w porozumieniu z Ministrami Pracy i Polityki Socjalnej oraz Finansów może określić, w drodze rozporządzenia, sposób tworzenia i gromadzenia środków Funduszu oraz wysokość odpisu na Fundusz - jednak nie wyższą od określonej w ustawie - w stosunku do pracowników cywilnych wojska.
 
-7. (uchylony)
+### Art. 2.
 
-**Art. 4.**
+Użyte w ustawie określenia oznaczają:
 
-1. U pracodawców, o których mowa art. 3 ust. 1 i 1c, układ zbiorowy pracy może dowolnie kształtować wysokość odpisu na Fundusz; może również postanawiać, że Fundusz nie będzie tworzony.
+### 1)
 
-2. U pracodawców określonych art. 3 ust. 1 i 1c, których pracownicy nie są objęci układem zbiorowym pracy, postanowienia sprawach, o których mowa ust. 1, może zawierać regulamin wynagradzania.
+działalność socjalna - nieodpłatne lub częściowo odpłatne usługi świadczone przez zakłady pracy na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportowo-rekreacyjnej, udzielanie pomocy materialnej, rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową,
 
-3. Jeżeli u pracodawcy, o którym mowa ust. 2, nie działa zakładowa organizacja związkowa, postanowienia regulaminu wynagradzania sprawie wysokości odpisu na Fundusz lub nietworzenia Funduszu wymagają uzgodnienia z pracownikami wybranymi przez załogę do reprezentowania jej interesów.
+### 2)
 
-**Art. 5.**
+coroczny odpis podstawowy - odpis na Fundusz naliczany w I kwartale roku kalendarzowego lub w I kwartale działalności nowo utworzonego zakładu pracy, w wysokości określonej w art. 5 ustawy,
 
-1. Fundusz tworzy się z corocznego odpisu podstawowego, naliczanego stosunku do przeciętnej liczby zatrudnionych.
+### 3)
 
-2. Wysokość odpisu podstawowego, o którym mowa ust. 1, wynosi na jednego zatrudnionego, z zastrzeżeniem ust. 2a i 3, 37,5% przeciętnego wynagrodzenia miesięcznego gospodarce narodowej roku poprzednim lub drugim półroczu roku poprzedniego, jeżeli przeciętne wynagrodzenie z tego okresu stanowiło kwotę wyższą.
+zakład pracy - jednostkę organizacyjną określoną w art. 3 Kodeksu pracy,
 
-2a. Wysokość odpisu podstawowego na jednego pracownika młodocianego wynosi pierwszym roku nauki 5%, drugim roku nauki 6%, a trzecim roku nauki 7% przeciętnego wynagrodzenia miesięcznego, o którym mowa ust. 2.
+### 4)
 
-3. Wysokość odpisu podstawowego na jednego pracownika wykonującego prace szczególnych warunkach lub prace o szczególnym charakterze – rozumieniu przepisów o emeryturach pomostowych, wynosi 50% przeciętnego wynagrodzenia miesięcznego, o którym mowa ust. 2.
+zakładowe obiekty socjalne - domy wypoczynkowe, obiekty służące prowadzeniu działalności kulturalnej oraz obiekty sportowo-rekreacyjne organizujące działalność socjalną na rzecz osób uprawnionych,
 
-3a. (uchylony)
+### 5)
 
-4. Wysokość odpisu podstawowego może być zwiększona o 6,25% przeciętnego wynagrodzenia miesięcznego, o którym mowa ust. 2, na każdą zatrudnioną osobę, stosunku do której orzeczono znaczny lub umiarkowany stopień niepełnosprawności.
+osoby uprawnione do korzystania z Funduszu - pracowników i ich rodziny, emerytów i rencistów - byłych pracowników i ich rodziny oraz inne osoby, którym zakład pracy przyznał prawo korzystania ze świadczeń socjalnych finansowanych z Funduszu,
 
-5. Pracodawcy sprawujący opiekę socjalną nad emerytami i rencistami, tym także ze zlikwidowanych zakładów pracy, mogą zwiększyć Fundusz o 6,25% przeciętnego wynagrodzenia miesięcznego, o którym mowa ust. 2, na każdego emeryta i rencistę uprawnionego do tej opieki.
+### 6)
 
-5a. Pracodawcy, którzy utworzyli zakładowy żłobek lub klub dziecięcy oraz przeznaczą na ten cel z odpisu podstawowego kwotę odpowiadającą 7,5 punktu procentowego tego odpisu mogą zwiększyć Fundusz na każdą zatrudnioną osobę o 7,5% przeciętnego wynagrodzenia miesięcznego, o którym mowa ust. 2, pod warunkiem przeznaczenia całości tego zwiększenia na prowadzenie żłobka lub klubu dziecięcego.
+podmiot gospodarczy - osobę fizyczną, osobę prawną, a także jednostkę organizacyjną nie posiadającą osobowości prawnej, jeżeli przedmiot jej działania obejmuje prowadzenie działalności gospodarczej.
 
-6. Minister właściwy do spraw pracy określi, drodze rozporządzenia, sposób ustalania przeciętnej liczby zatrudnionych, celu naliczania odpisu na Fundusz, biorąc pod uwagę szczególności liczbę osób zatrudnionych danym roku kalendarzowym.
+### Rozdział 2 Tworzenie funduszu
 
-7. Przeciętne wynagrodzenie miesięczne, o którym mowa ust. 2, ogłasza Prezes Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” nie później niż do dnia 20 lutego każdego roku.
+### Art. 3.
 
-8. Przepisów ust. 1–7 nie stosuje się do:
+### 1.
 
-- **1)** uczelni publicznych działających na podstawie przepisów o szkolnictwie wyższym i nauce;
-- **2)** szkół i placówek objętych systemem oświaty stosunku do nauczycieli podlegających przepisom Karty Nauczyciela.
+Fundusz tworzą, z zastrzeżeniem art. 4, zakłady pracy, które przed dniem wejścia w życie ustawy miały obowiązek tworzenia zakładowych funduszy socjalnego i mieszkaniowego.
 
-8a. Odpisy i zwiększenia, o których mowa art. 5, 13 i 14 , u pracodawcy tworzą jeden Fundusz.
+### 2.
 
-**Art. 5a.** W 2012 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+Przepis ust. 1 dotyczy również zakładów utworzonych lub przejętych w drodze przekształcenia przedsiębiorstw państwowych.
 
-**Art. 5b.** W 2013 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 3.
 
-**Art. 5c.** W 2014 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+Zakłady pracy, które przed dniem wejścia w życie ustawy nie były objęte przepisami o zakładowych funduszach socjalnym i mieszkaniowym, mogą tworzyć Fundusz na zasadach określonych w ustawie.
 
-**Art. 5d.** W 2015 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 4.
 
-**Art. 5e.** W 2016 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2010 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+Zakłady pracy, o których mowa w ust. 3, mogą stosować niższe odpisy lub nie tworzyć Funduszu, nie dłużej jednak niż przez dwa lata od dnia wejścia w życie ustawy.
 
-**Art. 5f.** W 2017 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2012 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### Art. 4.
 
-**Art. 5g.** W 2018 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2012 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 1.
 
-**Art. 5h.**
+Układy zbiorowe pracy mogą dowolnie kształtować wysokość odpisu na Fundusz, mogą również postanawiać, że Fundusz nie będzie tworzony.
 
-1. W okresie od dnia 1 stycznia 2019 r. do dnia 31 lipca 2019 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2013 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 2.
 
-2. W okresie od dnia 1 sierpnia 2019 r. do dnia 31 grudnia 2019 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. dowej drugim półroczu 2014 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+Po upływie dwóch lat od dnia wejścia w życie ustawy zakłady pracy, które nie zostały objęte układem zbiorowym pracy, mają obowiązek tworzenia Funduszu na zasadach określonych w ustawie.
 
-3. Równowartość dokonanych odpisów i zwiększeń, o których mowa art. 6 ust. 2, wysokości naliczonej zgodnie z ust. 1 i 2, pracodawca przekazuje na rachunek bankowy Funduszu terminie do dnia 31 października 2019 r., uwzględniając dotychczas przekazaną kwotę dokonanych odpisów i zwiększeń, o których mowa art. 5, naliczonych oparciu o przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2013 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### Art. 5.
 
-**Art. 5i.** W 2020 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2018 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 1.
 
-**Art. 5j.** W 2021 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2018 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+Fundusz tworzy się z corocznego odpisu podstawowego, naliczanego w stosunku do przeciętnej liczby zatrudnionych.
 
-**Art. 5k.** W 2022 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2019 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 2.
 
-**Art. 5l.**
+Wysokość odpisu podstawowego, o którym mowa w ust. 1, wynosi na jednego zatrudnionego, z zastrzeżeniem ust. 3, 37,5% przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim lub w drugim półroczu roku poprzedniego, jeżeli przeciętne wynagrodzenie z tego okresu stanowiło kwotę wyższą.
 
-1. W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2019 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+### 3.
 
-2. W okresie od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, o którym mowa art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2021 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7. wypłaconych świadczeń urlopowych, o których mowa art. 3, obciążają koszty działalności pracodawcy.
+Wysokość odpisu podstawowego na jednego pracownika zatrudnionego w szczególnie uciążliwych warunkach pracy wynosi 50% przeciętnego wynagrodzenia miesięcznego, o którym mowa w ust. 2.
 
-2. Równowartość dokonanych odpisów i zwiększeń naliczonych zgodnie z art. 5, 13 i 14 na dany rok kalendarzowy pracodawca przekazuje na rachunek bankowy Funduszu terminie do dnia 30 września tego roku, z tym że terminie do dnia 31 maja tego roku przekazuje kwotę stanowiącą co najmniej 75% równowartości odpisów, o których mowa art. 5 ust. 1–3.
+### 4.
 
-2a. Przepisów ust. 2 oraz art. 12 ust. 1 nie stosuje się do pracodawców, o których mowa art. 3 ust. 3.
+Wysokość odpisu podstawowego może być zwiększona o 6,25% przeciętnego wynagrodzenia miesięcznego, o którym mowa w ust. 2, na każdą zatrudnioną osobę, zaliczoną do I lub II grupy inwalidzkiej.
 
-3. (uchylony)
+### 5.
 
-**Art. 6a.**
+Zakłady pracy sprawujące opiekę socjalną nad emerytami i rencistami, w tym także ze zlikwidowanych zakładów pracy, mogą zwiększyć Fundusz o 6,25% przeciętnego wynagrodzenia miesięcznego, o którym mowa w ust. 2, na każdego emeryta i rencistę objętego tą opieką.
 
-1. Pracodawca, rozpoczynający działalność roku kalendarzowym, zobowiązany do utworzenia Funduszu, dokonuje, z zastrzeżeniem ust. 1a, odpisu na Fundusz od następnego roku kalendarzowego.
+### 6.
 
-1a. Jeżeli rozpoczęcie działalności następuje roku kalendarzowym wyniku komercjalizacji, przejęcia, podziału lub połączenia zakładu lub jego części z równoczesnym przejęciem pracowników, pracodawca zatrudniający co najmniej 50 pracowników przeliczeniu na pełne etaty oraz pracodawca, o którym mowa art. 3 ust. 1c i 2, tworzą Fundusz.
+Minister Pracy i Polityki Socjalnej w porozumieniu z ogólnokrajowymi organizacjami międzyzwiązkowymi oraz ogólnokrajowymi związkami zawodowymi - reprezentatywnymi dla pracowników większości zakładów pracy określi, w drodze rozporządzenia, sposób ustalania przeciętnej liczby zatrudnionych oraz przeciętnej liczby zatrudnionych w szczególnie uciążliwych warunkach pracy, w celu naliczania odpisu na Fundusz.
 
-2. (uchylony)
+### 7.
 
-**Art. 7.**
+Przeciętne wynagrodzenie miesięczne, o którym mowa w ust. 2, ogłasza Prezes Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” nie później niż do dnia 20 lutego każdego roku.
 
-1. Środki Funduszu zwiększa się o:
+### 8.
 
-- **1)** wpływy z opłat pobieranych od osób i jednostek organizacyjnych – korzystających z działalności socjalnej, o której mowa art. 2 pkt 1;
-- **2)** darowizny oraz zapisy osób fizycznych i prawnych;
-- **3)** (uchylony)
-- **4)** odsetki od środków Funduszu;
-- **5)** wpływy z oprocentowania pożyczek udzielonych na cele mieszkaniowe;
-- **6)** wierzytelności likwidowanych zakładowych funduszy socjalnego i mieszkaniowego;
-- **7)** przychody z tytułu sprzedaży, dzierżawy i likwidacji środków trwałych służących działalności socjalnej, części nieprzeznaczonej na utrzymanie lub odtworzenie zakładowych obiektów socjalnych; mieszkalnych części nieprzeznaczonej na utrzymanie pozostałych zakładowych zasobów mieszkaniowych;
-- **9)** inne środki określone odrębnych przepisach.
+Przepisów ust. 1-7 nie stosuje się do:
 
-1a. Za przychód ze sprzedaży lub likwidacji, o którym mowa ust. 1 pkt 7 i 8, uważa się przychód ze sprzedaży lub likwidacji pomniejszony o koszty tej sprzedaży lub likwidacji.
+### 1)
 
-2. Zwiększenia, o których mowa ust. 1 pkt 7 i 8, nie dotyczą pracodawców postawionych stan upadłości lub likwidacji, z wyłączeniem przedsiębiorstw państwowych likwidowanych celu prywatyzacji.
+szkół wyższych działających na podstawie przepisów o szkolnictwie wyższym,
 
-3. W razie przejścia zakładu pracy trybie art. 23 Kodeksu pracy na pracodawcę zobowiązanego do tworzenia Funduszu, Fundusz pracodawcy przejmującego przejmuje środki pieniężne, należności i zobowiązania Funduszu pracodawcy przekazującego.
+### 2)
 
-3a. W razie przejścia zakładu pracy trybie art. 23 Kodeksu pracy na pracodawcę, który nie jest zobowiązany do tworzenia Funduszu, pracodawca przejmujący przejmuje środki pieniężne, należności i zobowiązania Funduszu pracodawcy przekazującego. Nadwyżka przejętych środków pieniężnych wraz z odsetkami oraz przejętych należności wraz z odsetkami nad przejętymi zobowiązaniami wraz z odsetkami nie stanowi przychodu pracodawcy przejmującego, jest gromadzona na odrębnym rachunku bankowym lub wydzielonym subkoncie i podlega wydatkowaniu na zasadach określonych ustawą dla dokonywania wydatków z Funduszu. Art. 8 ust. 2 stosuje się odpowiednio.
+szkół i placówek objętych systemem oświaty w stosunku do nauczycieli podlegających przepisom Karty Nauczyciela.
 
-3b. W razie przejścia części zakładu pracy trybie art. 23 Kodeksu pracy na pracodawcę zobowiązanego do tworzenia Funduszu, Fundusz pracodawcy przejmującego zwiększa się, części przypadającej na liczbę przejmowanych pracowników, o równowartość środków pieniężnych Funduszu pracodawcy przekazującego, skorygowanych odpowiednio o należności i zobowiązania Funduszu – według stanu na ostatni dzień miesiąca, którym następuje przejście.
+### Art. 6.
 
-3c. Zasady podziału środków pieniężnych stanowiących równowartość odpisu podstawowego, obciążającego koszty pracodawcy przekazującego, dotyczącego roku, którym następuje przejście części zakładu pracy, określa porozumienie między pracodawcami. 30 dni od daty przejścia części zakładu pracy, chyba że porozumienie, o którym mowa ust. 3c, stanowi inaczej.
+Odpisy i zwiększenia, o których mowa w art. 5, obciążają koszty działalności zakładu pracy.
 
-4. Przedsiębiorcy mogą dodatkowo zwiększać środki Funduszu z zysku netto do podziału, a spółdzielnie – z nadwyżki bilansowej.
+### Art. 7.
 
-**Art. 8.**
+### 1.
 
-1. Przyznawanie ulgowych usług i świadczeń oraz wysokość dopłat z Funduszu uzależnia się od sytuacji życiowej, rodzinnej i materialnej osoby uprawnionej do korzystania z Funduszu.
+Środki Funduszu zwiększa się o:
 
-1a. Udostępnienie pracodawcy danych osobowych osoby uprawnionej do korzystania z Funduszu, celu przyznania ulgowej usługi i świadczenia oraz dopłaty z Funduszu i ustalenia ich wysokości, następuje formie oświadczenia. Pracodawca może żądać udokumentowania danych osobowych zakresie niezbędnym do ich potwierdzenia. Potwierdzenie może odbywać się szczególności na podstawie oświadczeń i zaświadczeń o sytuacji życiowej (w tym zdrowotnej), rodzinnej i materialnej osoby uprawnionej do korzystania z Funduszu.
+### 1)
 
-1b. Do przetwarzania danych osobowych dotyczących zdrowia, o których mowa art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. sprawie ochrony osób fizycznych związku z przetwarzaniem danych osobowych i sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie do przetwarzania takich danych wydane przez pracodawcę. Osoby dopuszczone do przetwarzania takich danych są obowiązane do zachowania ich tajemnicy.
+wpływy z opłat pobieranych od osób i jednostek organizacyjnych korzystających z działalności socjalnej,
 
-1c. Pracodawca przetwarza dane osobowe, o których mowa ust. 1a, przez okres niezbędny do przyznania ulgowej usługi i świadczenia, dopłaty z Funduszu oraz ustalenia ich wysokości, a także przez okres niezbędny do dochodzenia praw lub roszczeń.
+### 2)
 
-1d. Pracodawca dokonuje przeglądu danych osobowych, o których mowa ust. 1a, nie rzadziej niż raz roku kalendarzowym celu ustalenia niezbędności ich dalszego przechowywania. Pracodawca usuwa dane osobowe, których dalsze przechowywanie jest zbędne do realizacji celu określonego ust. 1a i 1c. z uwzględnieniem ust. 1–1b, oraz zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej określa pracodawca regulaminie ustalanym zgodnie z art. 27 ust. 1 albo art. 30 ust. 6 ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2022 r. poz. 854). Pracodawca, u którego nie działa zakładowa organizacja związkowa, uzgadnia regulamin z pracownikami, o których mowa art. 4 ust. 3.
+darowizny oraz zapisy osób fizycznych i prawnych,
 
-2a. (uchylony)
+### 3)
 
-3. Związkom zawodowym przysługuje prawo wystąpienia do sądu pracy z roszczeniem o zwrot Funduszowi środków wydatkowanych niezgodnie z przepisami ustawy lub o przekazanie należnych środków na Fundusz.
+nie wykorzystane środki zakładowego funduszu nagród w jednostkach sfery budżetowej,
 
-**Art. 9.**
+### 4)
 
-1. Pracodawcy mogą prowadzić wspólną działalność socjalną na warunkach określonych umowie. Przepisy art. 8 ust. 2 stosuje się odpowiednio.
+odsetki od środków Funduszu,
 
-2. (uchylony)
+### 5)
 
-3. Umowa, o której mowa ust. 1, określa szczególności przedmiot wspólnej działalności, zasady jej prowadzenia, sposób rozliczeń oraz tryb wypowiedzenia i rozwiązania umowy. Umowa może także określać warunki odstąpienia od jej stosowania oraz odpowiedzialność stron z tego tytułu.
+wpływy z oprocentowania pożyczek udzielonych na cele mieszkaniowe,
 
-**Art. 10.** Środkami Funduszu administruje pracodawca.
+### 6)
 
-**Art. 11.** Środki Funduszu niewykorzystane danym roku kalendarzowym przechodzą na rok następny.
+wierzytelności likwidowanych zakładowych funduszy socjalnego i mieszkaniowego,
 
-**Art. 12.**
+### 7)
 
-1. Środki Funduszu są gromadzone na odrębnym rachunku bankowym.
+dochody z tytułu sprzedaży, dzierżawy i likwidacji środków trwałych służących działalności socjalnej zakładu pracy, w części nie przeznaczonej na utrzymanie lub odtworzenie zakładowych obiektów socjalnych,
 
-2. Środki Funduszu nie podlegają egzekucji, z wyjątkiem przypadków, gdy egzekucja jest prowadzona związku z zobowiązaniami Funduszu.
+### 8)
 
-**Art. 12a.**
+dochody z tytułu sprzedaży i likwidacji zakładowych domów i lokali mieszkalnych,
 
-1. Kto, będąc pracodawcą lub będąc odpowiedzialnym, imieniu pracodawcy, za wykonywanie przepisów ustawy, nie wykonuje przepisów ustawy albo podejmuje działania niezgodne z przepisami ustawy, podlega karze grzywny.
+### 9)
 
-2. W sprawach, o których mowa ust. 1, orzeka się na podstawie wniosku pochodzącego od właściwego organu Państwowej Inspekcji Pracy trybie określonym przepisami Kodeksu postępowania sprawach o wykroczenia.
+inne środki określone w odrębnych przepisach.
 
-#### Rozdział 3 Zmiany przepisach obowiązujących oraz przepisy przejściowe i końcowe
+### 2.
 
-**Art. 13.** (pominięty)
+Zwiększenia, o których mowa w ust. 1 pkt 7 i 8, nie dotyczą zakładów pracy postawionych w stan upadłości lub likwidowanych przedsiębiorstw państwowych, z wyłączeniem likwidacji w celu prywatyzacji.
 
-**Art. 15.** (pominięty)
+### 3.
 
-**Art. 16.** (pominięty)
+W przypadku likwidacji przedsiębiorstwa państwowego, w celu wniesienia przedsiębiorstwa lub jego zorganizowanej części do spółki zgodnie z przepisami o prywatyzacji przedsiębiorstw państwowych. Fundusze podmiotów przejmujących mienie przedsiębiorstwa zwiększa się odpowiednio o środki Funduszu likwidowanego przedsiębiorstwa.
 
-**Art. 17.** (pominięty)
+### 4.
 
-**Art. 18.** (pominięty)
+Podmioty gospodarcze mogą dodatkowo zwiększać środki Funduszu z zysku netto do podziału, a spółdzielnie - z nadwyżki bilansowej.
 
-**Art. 19.** (pominięty)
+### Art. 8.
 
-**Art. 20.** Ilekroć innych ustawach jest mowa o zakładowym funduszu socjalnym i zakładowym funduszu mieszkaniowym, oznacza to zakładowy fundusz świadczeń socjalnych tworzony na zasadach określonych ustawie.
+### 1.
 
-**Art. 21.** Niewykorzystane środki zakładowego funduszu socjalnego i zakładowego funduszu mieszkaniowego przechodzą na Fundusz.
+Przyznawanie ulgowych usług i świadczeń oraz wysokość dopłat z Funduszu uzależnia się od sytuacji życiowej, rodzinnej i materialnej osoby uprawnionej do korzystania z Funduszu.
 
-**Art. 21a.** W rolniczych spółdzielniach produkcyjnych i innych spółdzielniach zajmujących się produkcją rolną przepisy ustawy mogą być również stosowane do członków tych spółdzielni. Decyzje tym zakresie podejmuje walne zgromadzenie spółdzielni.
+### 2.
 
-**Art. 22.** Traci moc ustawa z dnia 24 października 1986 r. o zakładowych funduszach socjalnym i mieszkaniowym jednostkach gospodarki uspołecznionej (Dz. U. z 1990 r. poz. 343, z 1991 r. poz. 350 oraz z 1992 r. poz. 85).
+Zasady przeznaczania środków Funduszu na poszczególne cele i rodzaje działalności socjalnej oraz zasady i warunki korzystania z usług i świadczeń finansowanych z Funduszu, z uwzględnieniem ust. 1, określa kierownik zakładu pracy w regulaminie uzgodnionym z zakładowymi organizacjami związkowymi. W zakładach pracy, w których nie działają zakładowe organizacje związkowe, regulamin uzgadnia się z pracownikiem wybranym przez załogę do reprezentowania jej interesów.
 
-**Art. 23.** Ustawa wchodzi życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1994 r.
+### Art. 9.
 
+Zakłady pracy mogą prowadzić wspólną działalność socjalną na warunkach określonych w umowie.
+
+### Art. 10.
+
+Środkami Funduszu administruje kierownik zakładu pracy.
+
+### Art. 11.
+
+Środki Funduszu nie wykorzystane w danym roku kalendarzowym przechodzą na rok następny.
+
+### Art. 12.
+
+Środki Funduszu są gromadzone na odrębnym rachunku bankowym.
+
+### Rozdział 3 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+### Art. 13.
+
+W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. Nr 3, poz. 19](https://api.sejm.gov.pl/eli/acts/DU/1982/19/text.html), [Nr 25, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1982/187/text.html) i [Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1989/24/text.html) i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 197 i 198](https://api.sejm.gov.pl/eli/acts/DU/1990/197/text.html), [Nr 36, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/1990/206/text.html) i [Nr 72, poz. 423](https://api.sejm.gov.pl/eli/acts/DU/1990/423/text.html), z [1991 r. Nr 95, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.html) i [Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), z [1992 r. Nr 53, poz. 252](https://api.sejm.gov.pl/eli/acts/DU/1992/252/text.html), [Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 90, poz. 451](https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html) oraz z [1993 r. Nr 129, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1993/602/text.html)) w art. 53:
+
+### 1)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Dla nauczycieli tworzy się zakładowy fundusz świadczeń socjalnych w wysokości 8% planowanych rocznych środków przeznaczonych na wynagrodzenia osobowe.
+
+### 2.
+
+Dla nauczycieli będących emerytami i rencistami tworzy się zakładowy fundusz świadczeń socjalnych w wysokości 5% pobieranych przez nich emerytur i rent.
+
+” ;
+
+### 2)
+
+skreśla się ust. 3.
+
+### Art. 14.
+
+W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 63, poz. 314](https://api.sejm.gov.pl/eli/acts/DU/1992/314/text.html) oraz z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html)) art. 122 otrzymuje brzmienie:
+
+„
+
+### Art. 122.
+
+### 1.
+
+Dla pracowników uczelni tworzy się zakładowy fundusz świadczeń socjalnych w wysokości 8% planowanych rocznych środków przeznaczonych na wynagrodzenia osobowe.
+
+### 2.
+
+Dla byłych pracowników uczelni będących emerytami lub rencistami tworzy się zakładowy fundusz świadczeń socjalnych w wysokości 5% pobieranych przez nich emerytur i rent.
+
+”
+
+### Art. 15.
+
+W ustawie z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. Nr 55, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 27:
+
+### a)
+
+w ust. 1 wyrazy „funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”,
+
+### b)
+
+w ust. 2 wyrazy „funduszy, o których” zastępuje się wyrazami „funduszu, o którym”;
+
+### 2)
+
+w art. 30 w ust. 6 wyrazy „funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”.
+
+### Art. 16.
+
+W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ([Dz. U. z 1991 r. Nr 44, poz. 194](https://api.sejm.gov.pl/eli/acts/DU/1991/194/text.html) i [Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html)) w art. 15 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Jednostka badawczo-rozwojowa tworzy zakładowy fundusz nagród oraz fundusz świadczeń socjalnych na zasadach określonych w odrębnych przepisach.
+
+”
+
+### Art. 17.
+
+W ustawie z dnia 22 grudnia 1990 r. o opodatkowaniu wzrostu wynagrodzeń ([Dz. U. z 1991 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1991/1/text.html), z [1992 r. Nr 21, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/1992/85/text.html), [Nr 73, poz. 361](https://api.sejm.gov.pl/eli/acts/DU/1992/361/text.html) i [Nr 100, poz. 498](https://api.sejm.gov.pl/eli/acts/DU/1992/498/text.html) oraz z [1993 r. Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 4 w pkt 10 wyrazy „funduszów socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Kwotę przekroczenia, o której mowa w ust. 1 pkt 1, powiększa się o wypłaty pieniężne oraz równowartość świadczeń rzeczowych wypłacanych z zakładowego funduszu świadczeń socjalnych, przekraczające czterokrotność odpisu podstawowego na ten fundusz.
+
+” ,
+
+### b)
+
+w ust. 3 wyrazy „funduszu socjalnego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”,
+
+### c)
+
+w ust. 4 wyrazy „funduszu mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”;
+
+### 3)
+
+w art. 9 w ust. 1 w pkt 2 wyrazy „funduszu socjalnego ustalonymi zgodnie z art. 3 ust. 3 i funduszu mieszkaniowego ustalonymi zgodnie z art. 3 ust. 4” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych ustalonymi zgodnie z art. 3 ust. 3 i 4”;
+
+### 4)
+
+w art. 17b:
+
+### a)
+
+w ust. 2 w pkt 2 dwukrotnie użyte wyrazy „funduszy socjalnego i mieszkaniowego” zastępuje się dwukrotnie użytymi wyrazami „zakładowego funduszu świadczeń socjalnych”,
+
+### b)
+
+w ust. 3:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) wypłaty z zakładowego funduszu świadczeń socjalnych ustalone zgodnie z art. 3 ust. 3 i 4, ”
+
+- - skreśla się pkt 3,
+
+### c)
+
+w ust. 4 wyrazy „funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”;
+
+### 5)
+
+w art. 17c w ust. 2 w pkt 4 wyrazy „zakładowych funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”.
+
+### Art. 18.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 1993 r. Nr 90, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/1993/416/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 14 w ust. 3 w pkt 5 wyrazy „o zakładowych funduszach socjalnym i mieszkaniowym zwiększają te fundusze” zastępuje się wyrazami „o zakładowym funduszu świadczeń socjalnych - zwiększają ten fundusz”;
+
+### 2)
+
+w art. 21 w ust. 1:
+
+### a)
+
+w pkt 23 wyrazy „i z zakładowego funduszu mieszkaniowego” zastępuje się wyrazami „i z zakładowego funduszu świadczeń socjalnych”;
+
+### b)
+
+w pkt 26 wyrazy „zakładowego funduszu socjalnego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”;
+
+### 3)
+
+w art. 23 w ust. 1 w pkt 42 wyrazy „zakładowych funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”, a wyrazy „te fundusze” zastępuje się wyrazami „ten fundusz”.
+
+### Art. 19.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 1993 r. Nr 106, poz. 482](https://api.sejm.gov.pl/eli/acts/DU/1993/482/text.html) i z [1994 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1994/2/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12 w ust. 4 w pkt 5 wyrazy „zakładowych funduszach socjalnym i mieszkaniowym, zwiększają te fundusze” zastępuje się wyrazami „zakładowym funduszu świadczeń socjalnych, zwiększają ten fundusz”;
+
+### 2)
+
+w art. 16 w ust. 1 w pkt 45 wyrazy „zakładowych funduszy socjalnego i mieszkaniowego” zastępuje się wyrazami „zakładowego funduszu świadczeń socjalnych”, a wyrazy „te fundusze” zastępuje się wyrazami „ten fundusz”;
+
+### 3)
+
+w art. 37 w ust. 1 w pkt 1 lit. a) wyrazy „zakładowych funduszach socjalnym i mieszkaniowym w jednostkach gospodarki uspołecznionej” zastępuje się wyrazami „zakładowym funduszu świadczeń socjalnych”.
+
+### Art. 20.
+
+Ilekroć w innych ustawach jest mowa o zakładowym funduszu socjalnym i zakładowym funduszu mieszkaniowym, oznacza to zakładowy fundusz świadczeń socjalnych tworzony na zasadach określonych w ustawie.
+
+### Art. 21.
+
+Nie wykorzystane środki zakładowego funduszu socjalnego i zakładowego funduszu mieszkaniowego przechodzą na Fundusz.
+
+### Art. 22.
+
+Traci moc ustawa z dnia 24 października 1986 r. o zakładowych funduszach socjalnym i mieszkaniowym w jednostkach gospodarki uspołecznionej ([Dz. U. z 1990 r. Nr 58, poz. 343](https://api.sejm.gov.pl/eli/acts/DU/1990/343/text.html), z [1991 r. Nr 80, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1991/350/text.html) i z [1992 r. Nr 21, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/1992/85/text.html)).
+
+### Art. 23.
+
+Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1994 r.

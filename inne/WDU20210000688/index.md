@@ -8,11 +8,9 @@ pos: 688
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 16 grudnia 2005 finansowaniu infrastruktury (Dz. U. 2018
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 31 marca 2021 sprawie ogłoszenia jednolitego tekstu ustawy finansowaniu infrastruktury*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 31 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o finansowaniu infrastruktury transportu lądowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,81 +22,182 @@ domain: null
 | Data ogłoszenia | 2021-03-31 |
 | Data wydania | 2021-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/688/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/688/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/688) |
 
-203), uwzględnieniem zmiany wprowadzonej ustawą 7 października zmianie niektórych ustaw celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. 1747) zmian wynikających przepisów ogłoszonych przed dniem 29 marca 2021
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy 7 października zmianie niektórych ustaw celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. 1747), który stanowi: „Art. 28. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem:
-1) art. 17 pkt 15 zakresie art. 31zy ust. 1, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 31 marca r.;
-2) art. 17 pkt 15 zakresie art. 31zy ust. 2, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 24 czerwca r.;
-3) art. 17 pkt 15 zakresie art. 31zy ust. 3, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 26 sierpnia r.;
-4) art. 17 pkt 6, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 1 września r.;
-5) art. 14 art. 17 pkt 14, które wchodzą życie dniem następującym po dniu ogłoszenia, mocą od 1 października r.;
-6) art. 1 pkt 3, art. 6 art. 8, które wchodzą życie dniem 1 stycznia 2021 r.;
-7) art. 1 pkt 1 art. 13 pkt 1, 3–5 7, które wchodzą życie dniem 1 stycznia 2022 r.”.
-Marszałek Sejmu: E. Witek
-USTAWA 16 grudnia 2005 finansowaniu infrastruktury
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Ustawa reguluje ogólne zasady finansowania budowy, przebudowy, remontu, utrzymania ochrony infrastruktury zarządzania tą infrastrukturą.
+- [Załącznik - Tekst jednolity ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego](#part_2)
 
-2. Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych eksploatowanych na zasadach określonych przepisami autostradach płatnych Krajowym Funduszu Drogowym, zastrzeżeniem art. 6.
+TOC
 
-**Art. 2.** Ilekroć ustawie jest mowa infrastrukturze rozumie się przez to drogi publiczne rozumieniu art. 1 ustawy 21 marca 1985 drogach publicznych (Dz. U. 470, 471, 1087 2338 2021 54) infrastrukturę kolejową rozumieniu art. 4 pkt 1 ustawy 28 marca 2003 transporcie kolejowym (Dz. U. 1043, 1378 1778).
+## Treść obwieszczenia
 
-**Art. 3.**
+### 1.
 
-1. Zadania zakresie budowy, przebudowy, remontu, utrzymania ochrony dróg zarządzania nimi finansowane są przez:
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego ([Dz. U. z 2018 r. poz. 203](https://api.sejm.gov.pl/eli/acts/DU/2018/203/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 ([Dz. U. poz. 1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 marca 2021 r.
 
-- **1)** ministra właściwego do spraw za pośrednictwem Generalnego Dyrektora Dróg Krajowych Autostrad albo drogowych spółek specjalnego przeznaczenia odniesieniu do dróg krajowych;
-- **2)** samorząd województwa odniesieniu do dróg wojewódzkich;
-- **3)** samorząd powiatowy odniesieniu do dróg powiatowych.
+### 2.
 
-2. Zadania zakresie finansowania budowy, przebudowy, remontu, utrzymania ochrony dróg gminnych zarządzania nimi finansowane są budżetów gmin.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 ([Dz. U. poz. 1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)), który stanowi:
 
-3. W granicach miast na prawach powiatu zadania zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony zarządzania drogami publicznymi, wyjątkiem autostrad dróg ekspresowych, finansowane są budżetów tych miast.
+„
 
-4. Zadania zakresie budowy, przebudowy, remontu, utrzymania ochrony dróg zakładowych zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
+### Art. 28.
 
-5. Budowa, przebudowa, remont, utrzymanie ochrona dróg publicznych mogą być realizowane przy udziale środków rzeczowych pieniężnych świadczonych przez osoby fizyczne osoby prawne, krajowe zagraniczne jednostki organizacyjne nieposiadające osobowości prawnej, tym ramach partnerstwa publiczno-prywatnego.
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
-6. Zadania zakresie budowy, przebudowy, remontu, utrzymania ochrony dróg publicznych mogą być finansowane lub dofinansowane budżetów jednostek samorządu terytorialnego, zgodnie porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy 21 marca 1985 drogach publicznych.
+### 1)
 
-**Art. 4.**
+art. 17 pkt 15 w zakresie art. 31zy13 ust. 1, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2020 r.;
 
-1. Zadania zakresie budowy, przebudowy, remontu, utrzymania ochrony infrastruktury kolejowej zarządzania nią finansowane są ze środków zarządcy infrastruktury kolejowej.
+### 2)
 
-2. Zadania, których mowa ust. 1, mogą być finansowane lub dofinansowane przez ministra właściwego do spraw ze środków, których mowa art. 5, pod warunkiem że infrastruktura kolejowa jest udostępniana przez zarządców na zasadach określonych ustawie 28 marca 2003 transporcie kolejowym.
+art. 17 pkt 15 w zakresie art. 31zy13 ust. 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 czerwca 2020 r.;
 
-**Art. 5.** Wydatki związane budową, przebudową, remontem, utrzymaniem, ochroną zarządzaniem infrastrukturą lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw ustala się ustawie budżetowej wysokości nie niższej niż 18% planowanych na dany rok wpływów podatku akcyzowego od paliw silnikowych.
+### 3)
 
-**Art. 6.**
+art. 17 pkt 15 w zakresie art. 31zy13 ust. 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 26 sierpnia 2020 r.;
 
-1. Minister właściwy do spraw może przekazać część środków, których mowa art. 5, na nabywanie nieruchomości przeznaczonych pod budowę autostrad płatnych.
+### 4)
 
-2. W razie wystąpienia zagrożenia realizacji budowy autostrad płatnych powodu braku środków na nabywanie programu budowy autostrad stopień zaawansowania inwestycji.
+art. 17 pkt 6, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 września 2020 r.;
 
-**Art. 7.**
+### 5)
 
-1. Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami drogach publicznych, przepisami transporcie drogowym przepisami autostradach płatnych Krajowym Funduszu Drogowym.
+art. 14 i art. 17 pkt 14, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 października 2020 r.;
 
-2. Źródłem finansowania infrastruktury kolejowej są również środki finansowe określone przepisami transporcie kolejowym przepisami Funduszu Kolejowym.
+### 6)
 
-**Art. 8.** (pominięty)
+art. 1 pkt 3, art. 6 oraz art. 8, które wchodzą w życie z dniem 1 stycznia 2021 r.;
 
-**Art. 9.** (pominięty)
+### 7)
 
-**Art. 10.** Ilekroć obowiązujących przepisach jest mowa ustawie finansowaniu dróg publicznych, rozumie się przez to ustawę finansowaniu infrastruktury lądowego.
+art. 1 pkt 1 oraz art. 13 pkt 1, 3-5 i 7, które wchodzą w życie z dniem 1 stycznia 2022 r.
 
-**Art. 10a.**
+” .
 
-- **1)** 1. W roku 2021 przepisu art. 5 nie stosuje się.
+## Załącznik - Tekst jednolity ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego
 
-2. W latach 2021 łączna wysokość wydatków związanych budową, przebudową, remontem, utrzymaniem, ochroną zarządzaniem infrastrukturą lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw ustalona ustawach budżetowych na te lata nie może być niższa niż 18% sumy planowanych na lata 2021 wpływów podatku akcyzowego od paliw silnikowych.
+### Art. 1.
 
-**Art. 11.** (pominięty)
+### 1.
 
-**Art. 12.** Traci moc ustawa 29 sierpnia 1997 finansowaniu dróg publicznych (Dz. U. 780, późn. zm. ).
+Ustawa reguluje ogólne zasady finansowania budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury transportu lądowego oraz zarządzania tą infrastrukturą.
 
-**Art. 13.** Ustawa wchodzi życie dniem 1 stycznia 2006
+### 2.
 
+Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych i eksploatowanych na zasadach określonych przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym, z zastrzeżeniem art. 6.
+
+### Art. 2.
+
+Ilekroć w ustawie jest mowa o infrastrukturze transportu lądowego rozumie się przez to drogi publiczne w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2020 r. poz. 470](https://api.sejm.gov.pl/eli/acts/DU/2020/470/text.html), [471](https://api.sejm.gov.pl/eli/acts/DU/2020/471/text.html), [1087](https://api.sejm.gov.pl/eli/acts/DU/2020/1087/text.html) i [2338](https://api.sejm.gov.pl/eli/acts/DU/2020/2338/text.html) oraz [z 2021 r. poz. 54](https://api.sejm.gov.pl/eli/acts/DU/2021/54/text.html)) oraz infrastrukturę kolejową w rozumieniu art. 4 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2020 r. poz. 1043](https://api.sejm.gov.pl/eli/acts/DU/2020/1043/text.html), [1378](https://api.sejm.gov.pl/eli/acts/DU/2020/1378/text.html) i [1778](https://api.sejm.gov.pl/eli/acts/DU/2020/1778/text.html)).
+
+### Art. 3.
+
+### 1.
+
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg oraz zarządzania nimi finansowane są przez:
+
+### 1)
+
+ministra właściwego do spraw transportu za pośrednictwem Generalnego Dyrektora Dróg Krajowych i Autostrad albo drogowych spółek specjalnego przeznaczenia w odniesieniu do dróg krajowych;
+
+### 2)
+
+samorząd województwa w odniesieniu do dróg wojewódzkich;
+
+### 3)
+
+samorząd powiatowy w odniesieniu do dróg powiatowych.
+
+### 2.
+
+Zadania w zakresie finansowania budowy, przebudowy, remontu, utrzymania i ochrony dróg gminnych oraz zarządzania nimi finansowane są z budżetów gmin.
+
+### 3.
+
+W granicach miast na prawach powiatu zadania w zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami publicznymi, z wyjątkiem autostrad i dróg ekspresowych, finansowane są z budżetów tych miast.
+
+### 4.
+
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg zakładowych oraz zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
+
+### 5.
+
+Budowa, przebudowa, remont, utrzymanie i ochrona dróg publicznych mogą być realizowane przy udziale środków rzeczowych i pieniężnych świadczonych przez osoby fizyczne i osoby prawne, krajowe i zagraniczne oraz jednostki organizacyjne nieposiadające osobowości prawnej, w tym w ramach partnerstwa publiczno-prywatnego.
+
+### 6.
+
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg publicznych mogą być finansowane lub dofinansowane z budżetów jednostek samorządu terytorialnego, zgodnie z porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+
+### Art. 4.
+
+### 1.
+
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury kolejowej oraz zarządzania nią finansowane są ze środków zarządcy infrastruktury kolejowej.
+
+### 2.
+
+Zadania, o których mowa w ust. 1, mogą być finansowane lub dofinansowane przez ministra właściwego do spraw transportu ze środków, o których mowa w art. 5, pod warunkiem że infrastruktura kolejowa jest udostępniana przez zarządców na zasadach określonych w ustawie z dnia 28 marca 2003 r. o transporcie kolejowym.
+
+### Art. 5.
+
+Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem infrastrukturą transportu lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw transportu ustala się w ustawie budżetowej w wysokości nie niższej niż 18% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych.
+
+### Art. 6.
+
+### 1.
+
+Minister właściwy do spraw transportu może przekazać część środków, o których mowa w art. 5, na nabywanie nieruchomości przeznaczonych pod budowę autostrad płatnych.
+
+### 2.
+
+W razie wystąpienia zagrożenia w realizacji budowy autostrad płatnych z powodu braku środków na nabywanie nieruchomości, o których mowa w ust. 1, minister właściwy do spraw transportu określi, w drodze rozporządzenia, procentowy udział przekazywanej części środków, o których mowa w art. 5, w wysokości do 20%, biorąc pod uwagę realizację programu budowy autostrad i stopień zaawansowania inwestycji.
+
+### Art. 7.
+
+### 1.
+
+Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+### 2.
+
+Źródłem finansowania infrastruktury kolejowej są również środki finansowe określone przepisami o transporcie kolejowym i przepisami o Funduszu Kolejowym.
+
+### Art. 8.
+
+(pominięty)
+
+### Art. 9.
+
+(pominięty)
+
+### Art. 10.
+
+Ilekroć w obowiązujących przepisach jest mowa o ustawie o finansowaniu dróg publicznych, rozumie się przez to ustawę o finansowaniu infrastruktury transportu lądowego.
+
+### Art. 10a[1) Dodany przez art. 7 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), która weszła w życie z dniem 9 października 2020 r.](#gloss-0:1:).
+
+### 1.
+
+W roku 2021 przepisu art. 5 nie stosuje się.
+
+### 2.
+
+W latach 2020 i 2021 łączna wysokość wydatków związanych z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem infrastrukturą transportu lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw transportu ustalona w ustawach budżetowych na te lata nie może być niższa niż 18% sumy planowanych na lata 2020 i 2021 wpływów z podatku akcyzowego od paliw silnikowych.
+
+### Art. 11.
+
+(pominięty)
+
+### Art. 12.
+
+Traci moc ustawa z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych ([Dz. U. poz. 780](https://api.sejm.gov.pl/eli/acts/DU/1997/780/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 983, z 2000 r. poz. 136, z 2002 r. poz. 1826 i 2057, z 2003 r. poz. 1953, 1966 i 2124 oraz z 2005 r. poz. 1364 i 1420.](#gloss-0:2:)).
+
+### Art. 13.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2006 r.
+
+1) Dodany przez art. 7 ustawy z dnia 7 października 2020 r. o zmianie niektórych ustaw w celu przeciwdziałania społeczno-gospodarczym skutkom COVID-19 (Dz. U. poz. 1747), która weszła w życie z dniem 9 października 2020 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 983, z 2000 r. poz. 136, z 2002 r. poz. 1826 i 2057, z 2003 r. poz. 1953, 1966 i 2124 oraz z 2005 r. poz. 1364 i 1420.

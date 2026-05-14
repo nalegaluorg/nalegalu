@@ -8,9 +8,9 @@ pos: 12
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# z dnia 8 grudnia 2017 r.
+# Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,236 +22,1500 @@ domain: null
 | Data ogłoszenia | 2017-12-08 |
 | Data wydania | 2018-01-03 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/12/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/12/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/12) |
 
-o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw
+## Treść ustawy
 
-**Art. 1.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2017 r. poz. 2222) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 2.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529) art. 29 ust. 1 po pkt 11b dodaje się pkt 11c brzmieniu: „11c) urządzeń instalowanych pasie drogowym dróg publicznych, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia:
+W ustawie z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2017 r. poz. 2222](https://api.sejm.gov.pl/eli/acts/DU/2017/2222/text.html)) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2017 r. poz. 1057) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 4.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200) wprowadza się następujące zmiany:
+w art. 13hb:
 
-**Art. 55b.**
+### a)
 
-1. Jeżeli przepisy odrębne nie stanowią inaczej, Główny Inspektor Transportu Drogowego lub osoba przez niego upoważniona udostępnia nieodpłatnie, na podstawie pisemnego wniosku, dane, o których mowa art. 55a ust. 1:
+ust. 1 otrzymuje brzmienie:
 
-- **1)** Policji,
-- **2)** Żandarmerii Wojskowej,
-- **3)** Straży Granicznej,
-- **4)** Agencji Bezpieczeństwa Wewnętrznego,
-- **5)** Agencji Wywiadu,
-- **6)** Centralnemu Biuru Antykorupcyjnemu,
-- **7)** Służbie Kontrwywiadu Wojskowego,
-- **8)** Służbie Wywiadu Wojskowego,
-- **9)** prokuratorowi,
-- **10)** sądom,
-- **11)** Szefowi Krajowej Administracji Skarbowej, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu celno-skarbowego
-- **2)** wskazanie okoliczności, z których wynika konieczność pozyskania żądanych danych;
-- **3)** wskazanie zakresu danych podlegających udostępnieniu.
+„
 
-3. Główny Inspektor Transportu Drogowego może wyrazić zgodę na udostępnienie za pomocą środków komunikacji elektronicznej danych, o których mowa art. 55a ust. 1, podmiotom, o których mowa ust. 1 pkt 1–3 i 5–11, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań.
+### 1.
 
-4. Udostępnianie danych, o których mowa art. 55a ust. 1, sposób, o którym mowa ust. 3, następuje po złożeniu przez podmioty, o których mowa ust. 1 pkt 1–3 i 5–11, wniosku zawierającego:
+Opłatę elektroniczną pobiera Główny Inspektor Transportu Drogowego.
 
-- **1)** wskazanie zakresu danych podlegających udostępnieniu;
-- **2)** wskazanie osób uprawnionych do przetwarzania danych, o których mowa pkt 1;
-- **3)** oświadczenie, że podmioty te posiadają:
-    - **a)** urządzenia umożliwiające odnotowanie systemie, kto, kiedy, jakim celu oraz jakie dane uzyskał, oraz
-    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania.
+” ,
 
-5. Główny Inspektor Transportu Drogowego udostępnia Agencji Bezpieczeństwa Wewnętrznego dane, o których mowa art. 55a ust. 1, sposób, o którym mowa ust. 3, jeżeli jednostka organizacyjna Agencji Bezpieczeństwa Wewnętrznego będąca odbiorcą danych złoży oświadczenie, o którym mowa ust. 4 pkt 3.
+### b)
 
-6. Podmioty, o których mowa ust. 1, dokonują weryfikacji danych, o których mowa art. 55a ust. 1, uzyskanych zgodnie z ust. 1 i 3, pod względem ich niezbędności dla realizacji ustawowych zadań danego podmiotu, nie rzadziej niż raz na 3 miesiące, usuwając dane zbędne.
+po ust. 1 dodaje się ust. 1a-1j w brzmieniu:
 
-7. Główny Inspektor Transportu Drogowego nie udostępnia na podstawie ust. 1 i 3 danych osobowych wskazanych art. 9 ust. 1 rozporządzenia odrębnych Inspekcja może nieodpłatnie uzyskiwać dane ze zbiorów danych, tym zbiorów danych osobowych, prowadzonych przez organy władzy publicznej oraz państwowe lub samorządowe jednostki organizacyjne.
+„
 
-2. Jeżeli przepisy odrębnych ustaw nie stanowią inaczej, administratorzy zbiorów danych, o których mowa ust. 1, udostępniają Inspekcji przetwarzane nich dane na podstawie pisemnego wniosku Głównego Inspektora Transportu Drogowego, wojewódzkiego inspektora lub osoby przez niego upoważnionej.
+### 1a.
 
-3. Wniosek, o którym mowa ust. 2, zawiera:
+Główny Inspektor Transportu Drogowego może powierzyć, w drodze porozumienia, wykonywanie w jego imieniu niektórych czynności związanych z poborem opłaty elektronicznej, w tym przygotowanie, wdrożenie, budowę lub eksploatację elektronicznego systemu poboru tej opłaty, oraz z kontrolą prawidłowości uiszczenia opłaty elektronicznej:
 
-- **1)** oznaczenie sprawy;
-- **2)** wskazanie zbioru danych, z którego te dane mają zostać udostępnione;
-- **3)** wskazanie zakresu danych podlegających udostępnieniu.
+### 1)
 
-4. Administratorzy zbiorów danych, o których mowa ust. 1, mogą zawierać z Głównym Inspektorem Transportu Drogowego lub wojewódzkim inspektorem pisemną umowę o udostępnianiu jednostkom organizacyjnym Inspekcji informacji zgromadzonych zbiorach drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie danych, jeżeli jednostki te spełniają łącznie następujące warunki:
+organom administracji rządowej;
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie systemie, kto, kiedy, jakim celu oraz jakie dane uzyskał;
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
-- **3)** specyfika lub zakres wykonywanych przez nie zadań uzasadnia takie udostępnianie.
+### 2)
 
-5. Do danych uzyskanych przez Inspekcję na podstawie ust. 1 przepisy art. 55a stosuje się.”;
+Bankowi Gospodarstwa Krajowego;
 
-- **7)** art. 56 ust. 3 otrzymuje brzmienie: „3. Kary pieniężne oraz grzywny, o których mowa ust. 1, oraz art. 32 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów, pobierane przez organy Inspekcji są przekazywane na wyodrębniony rachunek bankowy właściwej jednostki „2. Do pracowników Inspekcji:
-- **1)** zatrudnionych na stanowiskach inspektorów nie mają zastosowania przepisy art. 4 i art. 97 ustawy, o której mowa ust. 1;
-- **2)** obsługujących Głównego Inspektora Transportu Drogowego zakresie realizacji zadań, o których mowa art. 50 pkt 3a i 3b, niezatrudnionych na stanowiskach inspektorów nie ma zastosowania przepis art. 97 ustawy, o której mowa ust. 1.”;
-- **9)** po art. 77 dodaje się art. 77a brzmieniu: „Art. 77a. 1. Czas pracy pracowników, o których mowa art. 77 ust. 2, nie może przekraczać 8 godzin na dobę i przeciętnie 40 godzin przeciętnie pięciodniowym tygodniu pracy przyjętym okresie rozliczeniowym nieprzekraczającym 3 miesięcy.
+### 3)
 
-2. Do pracowników, o których mowa art. 77 ust. 2, mogą być stosowane systemy czasu pracy:
+instytutom badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2017 r. poz. 1158](https://api.sejm.gov.pl/eli/acts/DU/2017/1158/text.html), [1452](https://api.sejm.gov.pl/eli/acts/DU/2017/1452/text.html) i [2201](https://api.sejm.gov.pl/eli/acts/DU/2017/2201/text.html));
 
-- **1)** zmianowy – na stanowiskach pracy, na których, ze względu na zakres i charakter zadań, jest wymagane wykonywanie pracy systemie zmianowym;
-- **2)** podstawowy, którym czas pracy nie może przekraczać 8 godzin na dobę – na pozostałych stanowiskach pracy.
+### 4)
 
-3. W zmianowym systemie czasu pracy pracę wykonuje się na zmiany trwające po 8 godzin na dobę. W szczególnie uzasadnionych przypadkach pracodawca może wprowadzić wykonywanie pracy na zmiany trwające po 12 godzin na dobę.
+instytucjom gospodarki budżetowej;
 
-4. W zmianowym systemie czasu pracy, o którym mowa ust. 3:
+### 5)
 
-- **1)** zdanie pierwsze, pracownik nie może wykonywać pracy na więcej niż dziesięciu zmianach porze nocnej miesiącu kalendarzowym,
-- **2)** zdanie drugie, pracownik nie może wykonywać pracy na więcej niż ośmiu zmianach porze nocnej miesiącu kalendarzowym – chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że jego nieobecność mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy. zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii;
-- **2)** konieczność wykonania rozpoczętych czynności kontrolnych, jeżeli nie mogą one zostać przerwane;
-- **3)** szczególne potrzeby pracodawcy.
+innym podmiotom, o których mowa w art. 3 ust. 1 pkt 1-3a ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2017 r. poz. 1579](https://api.sejm.gov.pl/eli/acts/DU/2017/1579/text.html) i [2018](https://api.sejm.gov.pl/eli/acts/DU/2017/2018/text.html)), którym wyłączne prawo do wykonywania tych czynności przyznano w drodze ustawy lub innego aktu normatywnego, który podlega publikacji.
 
-6. Praca godzinach nadliczbowych następuje na polecenie pracodawcy.
+### 1b.
 
-7. W zamian za czas pracy godzinach nadliczbowych pracownikowi udziela się czasu wolnego od pracy wymiarze o połowę wyższym albo może mu być przyznane wynagrodzenie wraz z dodatkiem za pracę godzinach nadliczbowych wysokości 50% wynagrodzenia. Udzielenie pracownikowi czasu wolnego nie może spowodować obniżenia wynagrodzenia należnego pracownikowi za pełny miesięczny wymiar czasu pracy.
+W porozumieniu, o którym mowa w ust. 1a, reguluje się w szczególności wzajemne rozliczenia finansowe.
 
-8. O przyznaniu czasu wolnego od pracy albo dodatku, o których mowa ust. 7, decyduje:
+### 1c.
 
-- **1)** dyrektor generalny uzgodnieniu z Głównym Inspektorem – dla pracowników zatrudnionych Głównym Inspektoracie;
-- **2)** wojewódzki inspektor – dla pracowników, o których mowa art. 77 ust. 2 pkt 1, zatrudnionych wojewódzkim inspektoracie transportu drogowego.
+Główny Inspektor Transportu Drogowego w związku z poborem opłaty elektronicznej oraz kontrolą prawidłowości jej uiszczenia może zlecić podmiotom innym niż wskazane w ust. 1a wyłącznie:
 
-9. Liczba godzin nadliczbowych, za którą przyznano wynagrodzenie, nie może przekraczać:
+### 1)
 
-- **1)** 7 godzin przyjętym miesięcznym okresie rozliczeniowym;
-- **2)** 14 godzin przyjętym dwumiesięcznym okresie rozliczeniowym;
-- **3)** 21 godzin przyjętym trzymiesięcznym okresie rozliczeniowym.
+produkcję, dostawę, serwis i wymianę urządzeń, o których mowa w art. 13i ust. 3;
 
-10. Praca niedzielę lub święto, godzinach nadliczbowych oraz porze nocnej nie może być wykonywana przez:
+### 2)
 
-- **1)** pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
-- **2)** pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z rodziców lub opiekun,
-- **3)** pracownicę karmiącą dziecko piersią – bez ich zgody.”.
-- **2)** art. 7 uchyla się pkt 10a;
-- **3)** uchyla się art. 9a;
-- **4)** art. 9b otrzymuje brzmienie: „Art. 9b. Warunki umowy, o której mowa art. 9, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.”.
+produkcję, dostawę, instalację, usuwanie, a także utrzymanie, serwis i wymianę urządzeń, o których mowa w art. 13o ust. 1, służących do poboru lub kontroli prawidłowości uiszczenia opłaty elektronicznej;
 
-**Art. 6.**
+### 3)
 
-1. Główny Inspektor Transportu Drogowego podejmuje wszelkie czynności faktyczne i prawne mające na celu przygotowanie, budowę, wdrożenie, przejęcie lub eksploatację elektronicznego systemu poboru opłat, o których mowa art. 13 ust. 1 pkt 3 ustawy zmienianej art. 1, oraz systemu poboru opłat za przejazd autostradą, o których mowa art. 37a ust. 1a pkt 1 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą.
+produkcję, dostawę, utrzymanie, serwis i wymianę pojazdów służących do kontroli prawidłowości uiszczenia opłaty elektronicznej;
 
-2. Główny Inspektor Transportu Drogowego może powierzyć, drodze porozumienia, wykonywanie jego imieniu niektórych czynności, o których mowa ust. 1:
+### 4)
 
-- **1)** organom administracji rządowej;
-- **2)** Bankowi Gospodarstwa Krajowego;
-- **3)** instytutom badawczym rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2017 r. poz. 1158, 1452 i 2201);
-- **4)** instytucjom gospodarki budżetowej;
-- **5)** innym podmiotom, o których mowa art. 3 ust. 1 pkt 1–3a ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2017 r. poz. 1579 i 2018), którym wyłączne prawo do wykonywania tych czynności przyznano drodze ustawy lub innego aktu normatywnego, który podlega publikacji.
+świadczenie usług telekomunikacyjnych zapewniających wymianę danych pomiędzy urządzeniami i elementami elektronicznego systemu poboru opłat, a także innych usług towarzyszących, umożliwiających pobór opłaty elektronicznej lub kontrolę prawidłowości jej uiszczenia;
 
-3. W porozumieniu, o którym mowa ust. 2, reguluje się szczególności wzajemne rozliczenia finansowe.
+### 5)
 
-4. Główny Inspektor Transportu Drogowego może zlecić wykonywanie niektórych czynności, o których mowa ust. 1, podmiotom innym niż wskazane ust. 2 wyłącznie zakresie:
+produkcję, dostawę, instalację oraz wdrożenie urządzeń i elementów elektronicznego systemu poboru opłat, w tym infrastruktury teleinformatycznej oraz oprogramowania, a także ich serwis i utrzymanie.
 
-- **1)** produkcji, dostawy, serwisu i wymiany urządzeń, o których mowa art. 13i ust. 3 ustawy zmienianej art. 1;
-- **3)** produkcji, dostawy, utrzymania, serwisu i wymiany pojazdów służących do kontroli prawidłowości uiszczenia opłaty elektronicznej;
-- **4)** świadczenia usług telekomunikacyjnych zapewniających wymianę danych pomiędzy urządzeniami i elementami elektronicznego systemu poboru opłat lub systemu poboru opłat za przejazd autostradą, a także innych usług towarzyszących, umożliwiających pobór opłaty elektronicznej, kontrolę prawidłowości jej uiszczenia lub pobór opłaty za przejazd autostradą;
-- **5)** produkcji, dostawy, instalacji oraz wdrożenia urządzeń i elementów elektronicznego systemu poboru opłat, tym infrastruktury teleinformatycznej oraz oprogramowania, lub systemu poboru opłat za przejazd autostradą, a także ich serwisu i utrzymania;
-- **6)** obsługi, tym zakresie udostępniania urządzeń, o których mowa art. 13i ust. 3 ustawy zmienianej art. 1, oraz wnoszenia opłaty elektronicznej lub opłaty za przejazd autostradą, użytkowników elektronicznego systemu poboru opłaty elektronicznej lub systemu poboru opłat za przejazd autostradą, przypadku gdy pobór tej opłaty odbywa się z wykorzystaniem systemu elektronicznego poboru opłat, o którym mowa art. 13i ust. 1 ustawy zmienianej art. 1.
+### 1d.
 
-5. Czynności, o których mowa ust. 4 pkt 6, Główny Inspektor Transportu Drogowego może zlecić szczególności:
+Obsługę użytkowników elektronicznego systemu poboru opłaty elektronicznej, w tym w zakresie udostępniania urządzeń, o których mowa w art. 13i ust. 3, oraz wnoszenia opłaty elektronicznej, Główny Inspektor Transportu Drogowego może zlecić w szczególności:
 
-- **1)** przedsiębiorcom prowadzącym stacje benzynowe;
-- **2)** organizacjom zrzeszającym przewoźników drogowych o zasięgu ogólnokrajowym;
-- **3)** operatorom pocztowym, o których mowa art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481).
+### 1)
 
-6. Wykonywanie czynności, o których mowa ust. 4 pkt 6, odbywa się na zasadach określonych porozumieniu, które określa szczególności sposób zabezpieczenia środków z tytułu wnoszonej opłaty elektronicznej.
+przedsiębiorcom prowadzącym stacje benzynowe;
 
-7. W przypadku gdy do zamówienia, o którym mowa ust. 4, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych albo mowa ust. 4, zamieszcza Biuletynie Informacji Publicznej na swojej stronie podmiotowej ogłoszenie o udzielanym zamówieniu.
+### 2)
 
-9. Zamówienie, o którym mowa ust. 4, jest udzielane sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+organizacjom zrzeszającym przewoźników drogowych o zasięgu ogólnokrajowym;
 
-10. Główny Inspektor Transportu Drogowego nie udostępnia informacji związanych z zamówieniem, o którym mowa ust. 4, stanowiących tajemnicę przedsiębiorstwa rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm. ), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zleceniem, o którym mowa ust. 4, albo zawarciem porozumienia, o którym mowa ust. 6, zastrzegł, że nie mogą być one udostępniane.
+### 3)
 
-11. Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa ust. 4, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa ust. 4, lub z którym zawarł porozumienie, o którym mowa ust. 6, albo informację o nieudzieleniu tego zamówienia.
+operatorom pocztowym, o których mowa w art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2017 r. poz. 1481](https://api.sejm.gov.pl/eli/acts/DU/2017/1481/text.html)).
 
-12. Główny Inspektor Transportu Drogowego może upoważnić wojewódzkiego inspektora transportu drogowego do wykonywania jego imieniu niektórych czynności, o których mowa ust. 1.
+### 1e.
 
-13. W przypadku udzielenia upoważnienia, o którym mowa ust. 12, Główny Inspektor Transportu Drogowego może przekazać wojewódzkiemu inspektorowi transportu drogowego środki finansowe na pokrycie kosztów powierzonych czynności.
+Wykonywanie czynności, o których mowa w ust. 1d, odbywa się na zasadach określonych w porozumieniu, które określa w szczególności sposób zabezpieczenia środków z tytułu wnoszonej opłaty elektronicznej.
 
-15. Bank Gospodarstwa Krajowego, na wniosek Głównego Inspektora Transportu Drogowego, dokonuje wypłat ze środków Krajowego Funduszu Drogowego na pokrycie kosztów, o których mowa ust. 14.
+### 1f.
 
-**Art. 7.** Z dniem 3 listopada 2018 r. Główny Inspektor Transportu Drogowego wstępuje we wszystkie stosunki prawne, tym umowy i porozumienia, których podmiotem był Generalny Dyrektor Dróg Krajowych i Autostrad, związku z wykonywaniem zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym, bez względu na charakter prawny tych stosunków. Umowy i porozumienia zawarte przez Generalnego Dyrektora Dróg Krajowych i Autostrad zachowują ważność.
+W przypadku gdy do zamówienia, o którym mowa w ust. 1c lub 1d, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych albo ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi, zastosowanie mają przepisy ust. 1g-1j.
 
-**Art. 8.**
+### 1g.
 
-1. Z dniem 3 listopada 2018 r. Główny Inspektor Transportu Drogowego przejmuje od Generalnego Dyrektora Dróg Krajowych i Autostrad, z mocy ustawy, nieodpłatnie mienie ruchome oraz dobra niematerialne o charakterze majątkowym, tym prawa autorskie i inne prawa własności intelektualnej oraz prawa własności przemysłowej, służące dotychczas do wykonywania zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym, tym związane z nimi wierzytelności i zobowiązania. Przejęcie następuje na podstawie protokołów zdawczo-odbiorczych.
+Główny Inspektor Transportu Drogowego, udzielając zamówienia, o którym mowa w ust. 1f, zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej ogłoszenie o udzielanym zamówieniu.
 
-2. Z dniem 3 listopada 2018 r. Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje Głównemu Inspektorowi Transportu Drogowego użyczenie, na czas nieoznaczony, nieruchomości pasie drogowym:
+### 1h.
 
-- **1)** dróg krajowych wymienionych rozporządzeniu wydanym na podstawie art. 13ha ust. 6 ustawy zmienianej art. 1, na których zainstalowano stacjonarne i przenośne urządzenia służące do poboru lub kontroli prawidłowości uiszczenia opłaty elektronicznej, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia;
-- **2)** autostrad płatnych wraz z wzniesionymi budowlami, budynkami i innymi urządzeniami wykorzystywane dotychczas przez Generalnego Dyrektora Dróg Krajowych i Autostrad celu poboru opłat za przejazd autostradą albo które zostały przeznaczone na ten cel. Inspektorem Transportu Drogowego. Umowę zawiera się nie później niż do dnia 3 października 2018 r.
+Zamówienie, o którym mowa w ust. 1f, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
 
-4. Z dniem 3 listopada 2018 r. Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje Głównemu Inspektorowi Transportu Drogowego wszelką niezbędną dokumentację wytworzoną związku z wykonywaniem zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
+### 1i.
 
-**Art. 9.** W terminie 60 dni od dnia wejścia życie niniejszej ustawy Generalny Dyrektor Dróg Krajowych i Autostrad przekaże Głównemu Inspektorowi Transportu Drogowego zestawienie wskazujące stosunki prawne, o których mowa art. 7, mienie ruchome oraz dobra niematerialne, o których mowa art. 8 ust. 1, nieruchomości, budynki i urządzenia, o których mowa art. 8 ust. 2, wraz z określeniem ich wartości według ewidencji majątku Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+Główny Inspektor Transportu Drogowego nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 1f, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2003 r. poz. 1503](https://api.sejm.gov.pl/eli/acts/DU/2003/1503/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132.](#gloss-0:2:)), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zleceniem, o którym mowa w ust. 1c, albo zawarciem porozumienia, o którym mowa w ust. 1e, zastrzegł, że nie mogą być one udostępniane.
 
-**Art. 10.** Urządzenia, o których mowa art. 13i ust. 3 ustawy zmienianej art. 1, udostępnione użytkownikom przez Generalnego Dyrektora Dróg Krajowych i Autostrad na potrzeby poboru opłaty elektronicznej oraz opłaty za przejazd autostradą, mogą być używane do czasu ich zastąpienia innym urządzeniem udostępnionym przez Głównego Inspektora Transportu Drogowego.
+### 1j.
 
-**Art. 11.** Główny Inspektor Transportu Drogowego staje się administratorem danych osobowych, których administratorem był Generalny Dyrektor Dróg Krajowych i Autostrad związku z wykonywaniem zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym.
+Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa w ust. 1f, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa w ust. 1c, lub z którym zawarł porozumienie, o którym mowa w ust. 1e, albo informację o nieudzieleniu tego zamówienia.
 
-**Art. 12.**
+” ,
 
-1. Z dniem 3 listopada 2018 r. pracownicy Generalnej Dyrekcji Dróg Krajowych i Autostrad, obsługujący Generalnego Dyrektora Dróg Krajowych i Autostrad zakresie realizacji zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym, zajmujący się eksploatacją i obsługą księgową systemu poboru opłat, o których mowa art. 13 ust. 1 pkt 3 ustawy zmienianej art. 1, oraz systemu poboru opłat za przejazd autostradą, o których mowa art. 37a ust. 1a pkt 1 ustawy zmienianej art. 3, brzmieniu zadań, o których mowa art. 18 ust. 2 pkt 8–9 ustawy zmienianej art. 1, brzmieniu dotychczasowym, stają się pracownikami Głównego Inspektoratu Transportu Drogowego z dniem następującym po upływie 14 dni od dnia ogłoszenia niniejszej ustawy.
+### c)
 
-2. Dyrektor generalny Generalnej Dyrekcji Dróg Krajowych i Autostrad jest obowiązany terminie 5 dni od dnia ogłoszenia niniejszej ustawy zawiadomić na piśmie pracowników, o których mowa ust. 1, o zmianach, jakie mają nastąpić ich stosunku pracy, tym o terminach, których stają się pracownikami Głównego Inspektoratu Transportu Drogowego.
+uchyla się ust. 3;
 
-3. Dyrektor generalny Głównego Inspektoratu Transportu Drogowego składa pracownikom, o których mowa ust. 1, terminie 2 dni roboczych po upływie terminów, o których mowa ust. 1, pisemną propozycję pracy określającą nowe warunki zatrudnienia, która uwzględnia posiadane kwalifikacje i przebieg dotychczasowej pracy.
+### 2)
 
-4. W razie odmowy przyjęcia nowych warunków zatrudnienia terminie nie dłuższym niż 14 dni od dnia przedłożenia pisemnej propozycji pracy określającej nowe warunki zatrudnienia stosunek pracy pracowników, o których mowa ust. 1, wygasa po upływie 3 miesięcy od dnia odmowy.
+uchyla się art. 13hd;
 
-**Art. 13.**
+### 3)
 
-1. Bank Gospodarstwa Krajowego opracowuje na rok 2018 projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa art. 39n ustawy zmienianej art. 3, uwzględniając konieczność zapewnienia dla Głównego Inspektora Transportu Drogowego środków na pokrycie kosztów działalności Głównego Inspektora Transportu Drogowego związku z realizacją ustawowych zadań, o których mowa art. 50 pkt 3a–3c ustawy zmienianej art. 4, brzmieniu nadanym niniejszą ustawą, oraz kosztów wykonywania czynności, o których mowa art. 6 niniejszej ustawy.
+w art. 13m w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Kary pieniężne, o których mowa w art. 13k ust. 1 i 2, są przekazywane na wyodrębniony rachunek bankowy Głównego Inspektora Transportu Drogowego w terminie 21 dni od dnia, w którym decyzja w sprawie nałożenia kary stała się ostateczna. ” ;
 
-2. Bank Gospodarstwa Krajowego terminie 30 dni od dnia ogłoszenia niniejszej ustawy opracowuje projekt zmiany planu, o którym mowa ust. 1, i przedstawia go do uzgodnienia:
+### 4)
 
-- **1)** ministrowi właściwemu do spraw transportu;
+po art. 13n dodaje się art. 13o w brzmieniu:
 
-**Art. 14.**
+„
 
-1. W latach 2018–2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi:
+### Art. 13o.
 
-- **1)** dla ministra właściwego do spraw transportu:
-    - **a)** roku 2018 – 1 144 977 zł,
-    - **b)** roku 2019 – 1 179 327 zł,
-    - **c)** roku 2020 – 957 826 zł,
-    - **d)** roku 2021 – 732 644 zł,
-    - **e)** roku 2022 – 699 994 zł,
-    - **f)** roku 2023 – 737 800 zł,
-    - **g)** roku 2024 – 776 765 zł,
-    - **h)** roku 2025 – 816 924 zł,
-    - **i)** roku 2026 – 858 314 zł,
-    - **j)** roku 2027 – 900 972 zł;
+### 1.
 
-- **2)** dla Głównego Inspektora Transportu Drogowego:
-    - **a)** roku 2018 – 40 107 800 zł,
-    - **b)** roku 2019 – 60 988 800 zł,
-    - **c)** roku 2020 – 39 526 100 zł,
-    - **d)** roku 2021 – 26 662 100 zł,
-    - **e)** roku 2022 – 29 534 200 zł,
-    - **f)** roku 2023 – 28 458 400 zł,
-    - **g)** roku 2024 – 28 904 700 zł,
-    - **h)** roku 2025 – 29 361 000 zł,
-    - **i)** roku 2026 – 29 827 900 zł,
-    - **j)** roku 2027 – 30 305 300 zł;
+W pasie drogowym dróg, o których mowa w art. 2 ust. 1 pkt 1, Główny Inspektor Transportu Drogowego w związku z realizacją zadań, o których mowa w art. 13hb ust. 1 i art. 13l ust. 1, a także art. 37a ust. 1a pkt 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2017 r. poz. 1057](https://api.sejm.gov.pl/eli/acts/DU/2017/1057/text.html) oraz [z 2018 r. poz. 12](https://api.sejm.gov.pl/eli/acts/DU/2018/12/text.html)), może instalować stacjonarne i przenośne urządzenia służące do poboru lub kontroli prawidłowości uiszczenia opłaty elektronicznej oraz poboru opłaty za przejazd autostradą, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia.
 
-- **3)** dla wojewódzkich inspektoratów transportu drogowego:
-    - **a)** roku 2018 – 930 800 zł,
-    - **b)** roku 2019 – 1 927 700 zł,
-    - **c)** roku 2020 – 1 993 800 zł,
-    - **d)** roku 2021 – 1 993 800 zł,
-    - **e)** roku 2022 – 1 993 800 zł,
-    - **i)** roku 2026 – 1 993 800 zł,
-    - **j)** roku 2027 – 1 993 800 zł.
+### 2.
 
-2. Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1, oraz wdraża mechanizmy korygujące, o których mowa ust. 3.
+Instalacja urządzeń, o których mowa w ust. 1, odbywa się w sposób niepowodujący zagrożeń dla bezpieczeństwa użytkowników drogi, po uzgodnieniu z zarządcą drogi warunków, jakie należy spełnić w tym zakresie. Uzgodnienie następuje w terminie nie dłuższym niż 30 dni, licząc od dnia przekazania przez Głównego Inspektora Transportu Drogowego propozycji tych lokalizacji urządzeń.
 
-3. W przypadku gdy wysokość wydatków, o których mowa ust. 1, po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, dysponent środków zmniejsza wysokość środków przeznaczonych na wydatki drugim półroczu o kwotę stanowiącą różnicę pomiędzy wysokością tego limitu a kwotą przekroczenia wydatków.
+### 3.
 
-4. W przypadku gdy wysokość wydatków poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
+Przepisów art. 40 ust. 1 i 3 nie stosuje się do zajęcia pasa drogowego przez Głównego Inspektora Transportu Drogowego na cele związane z realizacją zadań, o których mowa w art. 13hb ust. 1 i art. 13l ust. 1, a także art. 37a ust. 1a pkt 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
 
-**Art. 15.** Prezes Rady Ministrów celu realizacji niniejszej ustawy dokona, drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej, tym określi kwoty wynagrodzeń podziale na części i działy budżetu państwa.
+### 4.
 
-**Art. 16.** Ustawa wchodzi życie z dniem 3 listopada 2018 r., z wyjątkiem:
+Zarząd drogi użycza Głównemu Inspektorowi Transportu Drogowego grunty w pasie drogowym na cele związane z instalacją urządzeń, o których mowa w ust. 1. Przepisów art. 43 ust. 2 pkt 3 i art. 85 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2016 r. poz. 2147](https://api.sejm.gov.pl/eli/acts/DU/2016/2147/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375.](#gloss-0:3:)) nie stosuje się.
 
+” ;
+
+### 5)
+
+w art. 16i w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+współpracować z podmiotem uprawnionym do kontroli prawidłowości uiszczenia opłaty elektronicznej, o którym mowa w art. 13l ust. 1, na zasadach określonych w umowie, o której mowa w art. 16e ust. 1 pkt 1 oraz art. 16h pkt 1;
+
+” ;
+
+### 6)
+
+w art. 16s w ust. 2 po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+zasady współpracy, o której mowa w art. 16i ust. 1 pkt 4;
+
+” ;
+
+### 7)
+
+w art. 18 w ust. 2:
+
+### a)
+
+uchyla się pkt 8-9;
+
+### b)
+
+po pkt 9 dodaje się pkt 9a i 9b w brzmieniu:
+
+„
+
+### 9a)
+
+dostosowywanie autostrad płatnych do poboru opłat za przejazd autostradą zgodnie z przepisami wydanymi na podstawie art. 2 ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
+
+### 9b)
+
+współpraca z Głównym Inspektorem Transportu Drogowego w zakresie dostosowania infrastruktury dróg krajowych do poboru opłaty elektronicznej oraz opłaty za przejazd autostradą;
+
+” ;
+
+### 8)
+
+art. 20g otrzymuje brzmienie:
+
+„
+
+### Art. 20g.
+
+### 1.
+
+W pasie drogowym dróg, o których mowa w art. 2 ust. 1, mogą być instalowane stacjonarne i przenośne urządzenia służące do obserwacji i rejestracji obrazu zdarzeń na drogach, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia.
+
+### 2.
+
+Urządzenia, o których mowa w ust. 1, mogą instalować:
+
+### 1)
+
+Straż Graniczna w związku z realizacją zadań określonych w ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2017 r. poz. 2365](https://api.sejm.gov.pl/eli/acts/DU/2017/2365/text.html) i [2405](https://api.sejm.gov.pl/eli/acts/DU/2017/2405/text.html)) na obszarze strefy nadgranicznej w rozumieniu przepisów ustawy z dnia 12 października 1990 r. o ochronie granicy państwowej ([Dz. U. z 2017 r. poz. 660](https://api.sejm.gov.pl/eli/acts/DU/2017/660/text.html));
+
+### 2)
+
+organy Krajowej Administracji Skarbowej w związku z realizacją zadań określonych w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. poz. 1947](https://api.sejm.gov.pl/eli/acts/DU/2016/1947/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491.](#gloss-0:4:));
+
+### 3)
+
+Inspekcja Transportu Drogowego w związku z realizacją zadań określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym ([Dz. U. z 2017 r. poz. 2200](https://api.sejm.gov.pl/eli/acts/DU/2017/2200/text.html)).
+
+### 3.
+
+Instalacja urządzeń, o których mowa w ust. 1, odbywa się w sposób niepowodujący zagrożeń dla bezpieczeństwa użytkowników drogi po uzgodnieniu z zarządcą drogi warunków, jakie należy spełnić w tym zakresie. Uzgodnienie następuje w terminie nie dłuższym niż 2 miesiące, licząc od dnia przekazania przez właściwy podmiot propozycji lokalizacji urządzeń.
+
+### 4.
+
+Podmioty, o których mowa w ust. 2, mogą zlecać w swoim imieniu innym podmiotom: instalację, usuwanie, a także utrzymanie, serwis i wymianę urządzeń, o których mowa w ust. 1.
+
+### 5.
+
+Przepisów art. 40 ust. 1 i 3 nie stosuje się do zajęcia pasa drogowego w związku z realizacją zadań określonych w ust. 1, 2 i 4.
+
+” ;
+
+### 9)
+
+w art. 22 w ust. 2 zdania pierwsze i drugie otrzymują brzmienie: „ Grunty, o których mowa w ust. 1, zarząd drogi może oddawać w najem, dzierżawę albo je użyczać, w drodze umowy, na cele związane z potrzebami zarządzania drogami, ruchu drogowego lub obsługi użytkowników ruchu, a także na cele instalacji urządzeń, o których mowa w art. 20g ust. 1. Zarząd drogi pobiera z tytułu najmu lub dzierżawy opłaty w wysokości ustalonej w umowie. ” ;
+
+### 10)
+
+w art. 40a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie
+
+„
+
+### 1.
+
+Opłaty określone w art. 13 ust. 1 pkt 1 i ust. 2, art. 13f ust. 1, art. 39 ust. 7ab pkt 5 i art. 40 ust. 3 oraz kary pieniężne określone w art. 29a ust. 1 i 2 oraz w art. 40 ust. 12, a także opłaty z tytułu umów zawieranych na podstawie art. 22 ust. 2 są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+
+” ,
+
+### b)
+
+po ust. 1b dodaje się ust. 1c w brzmieniu:
+
+„
+
+### 1c.
+
+Opłaty określone w art. 13 ust. 1 pkt 3 oraz kary pieniężne określone w art. 13k ust. 1 i 2 są przekazywane na wyodrębniony rachunek bankowy Głównego Inspektora Transportu Drogowego.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Środki z opłat i kar pieniężnych, gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad, o którym mowa w ust. 1, oraz środki z kar, gromadzone na wyodrębnionym rachunku bankowym Głównego Inspektora Transportu Drogowego, o którym mowa w ust. 1c, są przekazywane w terminie dwóch dni roboczych następujących po zakończeniu tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2017 r. poz. 1332](https://api.sejm.gov.pl/eli/acts/DU/2017/1332/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2017/1529/text.html)) w art. 29 w ust. 1 po pkt 11b dodaje się pkt 11c w brzmieniu:
+
+„
+
+### 11c)
+
+urządzeń instalowanych w pasie drogowym dróg publicznych, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia:
+
+### a)
+
+służących do zarządzania drogami, w tym do wdrażania inteligentnych systemów transportowych,
+
+### b)
+
+służących do zarządzania ruchem drogowym, w tym urządzeń bezpieczeństwa ruchu drogowego,
+
+### c)
+
+o których mowa w art. 13o ust. 1 i art. 20g ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2017 r. poz. 2222](https://api.sejm.gov.pl/eli/acts/DU/2017/2222/text.html) oraz [z 2018 r. poz. 12](https://api.sejm.gov.pl/eli/acts/DU/2018/12/text.html));
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2017 r. poz. 1057](https://api.sejm.gov.pl/eli/acts/DU/2017/1057/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 37a w ust. 1a pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+Główny Inspektor Transportu Drogowego;
+
+” ;
+
+### 2)
+
+art. 37c otrzymuje brzmienie:
+
+„
+
+### Art. 37c.
+
+Opłaty za przejazd autostradą pobrane przez Głównego Inspektora Transportu Drogowego stanowią przychód Funduszu, a opłaty pobrane przez drogową spółkę specjalnego przeznaczenia mogą stanowić przychód tej spółki, jeżeli umowa, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, tak stanowi.
+
+” ;
+
+### 3)
+
+w art. 37g po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+pojazdy, o których mowa w art. 53 ust. 1 pkt 12 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2017 r. poz. 1260](https://api.sejm.gov.pl/eli/acts/DU/2017/1260/text.html) i [1926](https://api.sejm.gov.pl/eli/acts/DU/2017/1926/text.html)), poruszające się jako pojazdy uprzywilejowane i uczestniczące w akcji ratowania życia lub zdrowia ludzkiego;
+
+” ;
+
+### 4)
+
+po art. 37ga dodaje się art. 37gb i art. 37gc w brzmieniu:
+
+„
+
+### Art. 37gb.
+
+### 1.
+
+Główny Inspektor Transportu Drogowego może powierzyć, w drodze porozumienia, wykonywanie w jego imieniu niektórych czynności związanych z poborem opłaty za przejazd autostradą, w tym przygotowanie, wdrożenie, budowę lub eksploatację systemu poboru tej opłaty:
+
+### 1)
+
+organom administracji rządowej;
+
+### 2)
+
+Bankowi Gospodarstwa Krajowego;
+
+### 3)
+
+instytutom badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2017 r. poz. 1158](https://api.sejm.gov.pl/eli/acts/DU/2017/1158/text.html), [1452](https://api.sejm.gov.pl/eli/acts/DU/2017/1452/text.html) i [2201](https://api.sejm.gov.pl/eli/acts/DU/2017/2201/text.html));
+
+### 4)
+
+instytucjom gospodarki budżetowej;
+
+### 5)
+
+innym podmiotom, o których mowa w art. 3 ust. 1 pkt 1-3a ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2017 r. poz. 1579](https://api.sejm.gov.pl/eli/acts/DU/2017/1579/text.html) i [2018](https://api.sejm.gov.pl/eli/acts/DU/2017/2018/text.html)), którym wyłączne prawo do wykonywania tych czynności przyznano w drodze ustawy lub innego aktu normatywnego, który podlega publikacji.
+
+### 2.
+
+W porozumieniu, o którym mowa w ust. 1, reguluje się w szczególności wzajemne rozliczenia finansowe.
+
+### 3.
+
+Główny Inspektor Transportu Drogowego w związku z poborem opłat za przejazd autostradą może zlecić podmiotom innym niż wskazane w ust. 1 wyłącznie:
+
+### 1)
+
+produkcję, dostawę, serwis i wymianę urządzeń, o których mowa w art. 13i ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+
+### 2)
+
+produkcję, dostawę, instalację, usuwanie, a także utrzymanie, serwis i wymianę urządzeń, o których mowa w art. 13o ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, służących do poboru opłaty za przejazd autostradą;
+
+### 3)
+
+świadczenie usług telekomunikacyjnych zapewniających wymianę danych pomiędzy urządzeniami i elementami systemu poboru opłat za przejazd autostradą, a także innych usług towarzyszących, umożliwiających pobór opłaty za przejazd autostradą;
+
+### 4)
+
+produkcję, dostawę, instalację oraz wdrożenie urządzeń i elementów składowych systemu poboru opłat za przejazd autostradą, a także ich serwis i utrzymanie;
+
+### 5)
+
+obsługę użytkowników autostrady w zakresie wnoszenia opłat za przejazd autostradą.
+
+### 4.
+
+W przypadku gdy pobór opłaty za przejazd autostradą, o której mowa w art. 37a ust. 1a pkt 1, odbywa się z wykorzystaniem systemu elektronicznego poboru opłat, o którym mowa w art. 13i ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, obsługę użytkowników autostrady płatnej, w tym w zakresie udostępniania urządzeń, o których mowa w art. 13i ust. 3, oraz wnoszenia opłaty za przejazd autostradą, Główny Inspektor Transportu Drogowego może zlecić w szczególności:
+
+### 1)
+
+przedsiębiorcom prowadzącym stacje benzynowe;
+
+### 2)
+
+organizacjom zrzeszającym przewoźników drogowych o zasięgu ogólnokrajowym;
+
+### 3)
+
+operatorom pocztowym, o których mowa w art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2017 r. poz. 1481](https://api.sejm.gov.pl/eli/acts/DU/2017/1481/text.html)).
+
+### 5.
+
+Wykonywanie czynności, o których mowa w ust. 4, odbywa się na zasadach określonych w porozumieniu, które określa w szczególności sposób zabezpieczenia środków z tytułu wnoszonej opłaty za przejazd autostradą.
+
+### 6.
+
+W przypadku gdy do zamówienia, o którym mowa w ust. 3 i 4, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych albo ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi, zastosowanie mają przepisy ust. 7-10.
+
+### 7.
+
+Główny Inspektor Transportu Drogowego, udzielając zamówienia, o którym mowa w ust. 6, zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej ogłoszenie o udzielanym zamówieniu.
+
+### 8.
+
+Zamówienie, o którym mowa w ust. 6, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+
+### 9.
+
+Główny Inspektor Transportu Drogowego nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 6, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2003 r. poz. 1503](https://api.sejm.gov.pl/eli/acts/DU/2003/1503/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132.](#gloss-0:5:)), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zleceniem, o którym mowa w ust. 3, albo zawarciem porozumienia, o którym mowa w ust. 5, zastrzegł, że nie mogą być one udostępniane.
+
+### 10.
+
+Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa w ust. 6, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa w ust. 3, lub z którym zawarto porozumienie, o którym mowa w ust. 5, albo informację o nieudzieleniu tego zamówienia.
+
+### Art. 37gc.
+
+### 1.
+
+Generalny Dyrektor Dróg Krajowych i Autostrad użycza Głównemu Inspektorowi Transportu Drogowego grunty na cele związane z realizacją zadania, o którym mowa w art. 37a ust. 1a pkt 1, wraz z wzniesionymi na nich budynkami, budowlami i innymi urządzeniami.
+
+### 2.
+
+Warunki korzystania z gruntów, o których mowa w ust. 1, oraz wzniesionych na nich budynków, budowli i innych urządzeń określa umowa pomiędzy Głównym Inspektorem Transportu Drogowego oraz Generalnym Dyrektorem Dróg Krajowych i Autostrad.
+
+” ;
+
+### 5)
+
+w art. 39b w ust. 1:
+
+### a)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+środków pochodzących z opłat za przejazdy autostradą, pobieranych przez Głównego Inspektora Transportu Drogowego;
+
+” ,
+
+### b)
+
+pkt 5d otrzymuje brzmienie:
+
+„
+
+### 5d)
+
+środków pochodzących z opłat, o których mowa w art. 16x ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, pobieranych przez Głównego Inspektora Transportu Drogowego;
+
+” ;
+
+### 6)
+
+w art. 39f:
+
+### a)
+
+w ust. 1:
+
+- - pkt 5 otrzymuje brzmienie: „ 5) przygotowanie, wdrożenie, budowę lub eksploatację systemów poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, oraz opłat za przejazd autostradą, pobieranych przez Głównego Inspektora Transportu Drogowego; ” ,
+
+- - pkt 6 otrzymuje brzmienie: „ 6) finansowanie kosztów usług doradczych: a) związanych z budową i przebudową dróg krajowych, w tym autostrad, b) związanych z przygotowaniem, wdrożeniem, budową lub eksploatacją systemów poboru opłat, o których mowa w pkt 5, c) niezbędnych do prawidłowego wykonywania przez ministra właściwego do spraw transportu ustawowych zadań z zakresu funkcjonowania oraz rozwoju infrastruktury dróg publicznych. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Ze środków Funduszu dokonuje się:
+
+### 1)
+
+pokrycia kosztów emisji i wykupu obligacji, o których mowa w art. 39d ust. 1;
+
+### 2)
+
+spłaty:
+
+### a)
+
+kredytów i pożyczek wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek, o których mowa w art. 39d ust. 1,
+
+### b)
+
+zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, o których mowa w art. 39d ust. 2,
+
+### c)
+
+udzielonego przez Bank Gospodarstwa Krajowego finansowania, o którym mowa w ust. 6, wraz z kosztami tego finansowania.
+
+” ,
+
+### c)
+
+uchyla się ust. 5,
+
+### d)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+W przypadku niedoboru na rachunku Funduszu środków niezbędnych do terminowej obsługi zadań, o których mowa w ust. 1 pkt 1 i 3 oraz w ust. 2 pkt 1 i 2 lit. a, Bank Gospodarstwa Krajowego, w uzgodnieniu z ministrem właściwym do spraw transportu i ministrem właściwym do spraw finansów publicznych, może finansować ich realizację ze środków własnych.
+
+” ;
+
+### 7)
+
+w art. 39k:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Bank Gospodarstwa Krajowego, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, dokonuje wypłat ze środków Funduszu odpowiednio na rzecz spółek lub wykonawców robót w wysokości i terminach wynikających z umów, o których mowa w art. 39i pkt 1 i 2, a na wniosek ministra właściwego do spraw transportu dokonuje wypłat, o których mowa w art. 39f ust. 1 pkt 4 i 6 lit. c.
+
+” ,
+
+### b)
+
+uchyla się ust. 3,
+
+### c)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Bank Gospodarstwa Krajowego, na wniosek Głównego Inspektora Transportu Drogowego, dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5 i 6 lit. b.
+
+” ;
+
+### 8)
+
+w art. 39l pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+sposób i tryb przekazywania przez Głównego Inspektora Transportu Drogowego przychodów z opłat za przejazd autostradą;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 6 września 2001 r. o transporcie drogowym ([Dz. U. z 2017 r. poz. 2200](https://api.sejm.gov.pl/eli/acts/DU/2017/2200/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 48 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Inspekcja jest powołana również do poboru opłaty elektronicznej, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, oraz opłaty za przejazd autostradą, o której mowa w art. 37a ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2017 r. poz. 1057](https://api.sejm.gov.pl/eli/acts/DU/2017/1057/text.html) oraz [z 2018 r. poz. 12](https://api.sejm.gov.pl/eli/acts/DU/2018/12/text.html)).
+
+” ;
+
+### 2)
+
+w art. 50 po pkt 3 dodaje się pkt 3a-3c w brzmieniu:
+
+„
+
+### 3a)
+
+pobór opłaty elektronicznej na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych;
+
+### 3b)
+
+pobór opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
+
+### 3c)
+
+podejmowanie działań mających na celu wprowadzenie systemów elektronicznego poboru opłat i szerokiego zastosowania tych systemów;
+
+” ;
+
+### 3)
+
+w art. 51:
+
+### a)
+
+w ust. 6 w pkt 1 po lit. b dodaje się lit. ba-bc w brzmieniu:
+
+„
+
+ba) związanych z poborem opłaty elektronicznej na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych,
+
+### bb)
+
+związanych z poborem opłaty za przejazd autostradą na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym,
+
+bc) związanych z podejmowaniem działań mających na celu wprowadzenie systemów elektronicznego poboru opłat i szerokiego zastosowania tych systemów;
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Główny Inspektor Transportu Drogowego może w sprawach, o których mowa w ust. 6 pkt 1 lit. a-bb, upoważnić do działania w jego imieniu wojewódzkiego inspektora transportu drogowego.
+
+” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+W przypadku udzielenia upoważnienia, o którym mowa w ust. 7, Główny Inspektor Transportu Drogowego może przekazać wojewódzkiemu inspektorowi transportu drogowego środki finansowe na pokrycie kosztów powierzonych zadań.
+
+” ;
+
+### 4)
+
+w art. 53 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zastępców Głównego Inspektora Transportu Drogowego powołuje minister właściwy do spraw transportu spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek Głównego Inspektora Transportu Drogowego. Minister właściwy do spraw transportu odwołuje, na wniosek Głównego Inspektora, jego zastępców.
+
+” ;
+
+### 5)
+
+w art. 54 w ust. 2:
+
+### a)
+
+pkt 11a otrzymuje brzmienie:
+
+„
+
+### 11a)
+
+wykonuje zadania Inspekcji związane z poborem opłaty elektronicznej i kontrolą prawidłowości uiszczenia tej opłaty, na zasadach określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych;
+
+” ,
+
+### b)
+
+po pkt 11a dodaje się pkt 11b i 11c w brzmieniu:
+
+„
+
+### 11b)
+
+wykonuje zadania Inspekcji związane z poborem opłaty za przejazd autostradą, na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym;
+
+### 11c)
+
+wykonuje zadania Inspekcji związane z podejmowaniem działań mających na celu wprowadzenie systemów elektronicznego poboru opłat i szerokiego zastosowania tych systemów;
+
+” ;
+
+### 6)
+
+po art. 55 dodaje się art. 55a-55c w brzmieniu:
+
+„
+
+### Art. 55a.
+
+### 1.
+
+W zakresie niezbędnym do realizacji zadań określonych w ustawie oraz w przepisach odrębnych Inspekcja przetwarza dane osobowe, w tym dane wskazane w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ([Dz. Urz. UE L 119 z 04.05.2016, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem 2016/679”.
+
+### 2.
+
+Inspekcja przetwarza dane osobowe wskazane w art. 9 ust. 1 rozporządzenia 2016/679 wyłącznie w przypadku, gdy:
+
+### 1)
+
+zostały one przekazane dobrowolnie przez stronę w ramach postępowania prowadzonego przez organ Inspekcji;
+
+### 2)
+
+jest to konieczne do weryfikacji prawidłowości przekazanych przez stronę danych, o których mowa w pkt 1;
+
+### 3)
+
+z przepisu prawa wynika konieczność przetwarzania tych danych;
+
+### 4)
+
+jest to niezbędne do wykonania wyroku sądu.
+
+### 3.
+
+Główny Inspektor Transportu Drogowego oraz wojewódzcy inspektorzy są administratorami danych osobowych przetwarzanych na podstawie ust. 1.
+
+### 4.
+
+Do przetwarzania danych osobowych, o których mowa w ust. 1, przepisów art. 13-22 oraz art. 34 rozporządzenia 2016/679 nie stosuje się w zakresie, w jakim dane te są niezbędne do zapewnienia prawidłowej realizacji ustawowych zadań Inspekcji.
+
+### 5.
+
+Administrator, o którym mowa w ust. 3, informuje o ograniczeniach, o których mowa w ust. 4, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+
+### 6.
+
+Okres przechowywania danych osobowych, o których mowa w ust. 1, ustala administrator, o którym mowa w ust. 3, zgodnie z celami ich przetwarzania, o ile nie wynikają one z przepisów odrębnych, w szczególności dotyczących terminów.
+
+### 7.
+
+Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem przetwarzaniu.
+
+### 8.
+
+Administrator, o którym mowa w ust. 3, wdraża środki techniczne i organizacyjne w celu ochrony danych osobowych zgodnie z ust. 7.
+
+### 9.
+
+W przypadku stwierdzenia naruszenia ochrony danych osobowych administrator, o którym mowa w ust. 3, w terminie 72 godzin od stwierdzenia naruszenia wydaje w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o naruszeniu.
+
+### 10.
+
+Przepisy ust. 1-9 stosuje się odpowiednio do prowadzonych przez organy Inspekcji postępowań odwoławczych od decyzji wydanych na podstawie ustawy oraz postępowań dotyczących tych decyzji prowadzonych na podstawie art. 145 § 1, art. 145a § 1, art. 145b § 1, art. 154 § 1, art. 155, art. 156 § 1, art. 161 § 1, art. 162 § 1 i 2 oraz art. 163 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2017 r. poz. 1257](https://api.sejm.gov.pl/eli/acts/DU/2017/1257/text.html)).
+
+### Art. 55b.
+
+### 1.
+
+Jeżeli przepisy odrębne nie stanowią inaczej, Główny Inspektor Transportu Drogowego lub osoba przez niego upoważniona udostępnia nieodpłatnie, na podstawie pisemnego wniosku, dane, o których mowa w art. 55a ust. 1:
+
+### 1)
+
+Policji,
+
+### 2)
+
+Żandarmerii Wojskowej,
+
+### 3)
+
+Straży Granicznej,
+
+### 4)
+
+Agencji Bezpieczeństwa Wewnętrznego,
+
+### 5)
+
+Agencji Wywiadu,
+
+### 6)
+
+Centralnemu Biuru Antykorupcyjnemu,
+
+### 7)
+
+Służbie Kontrwywiadu Wojskowego,
+
+### 8)
+
+Służbie Wywiadu Wojskowego,
+
+### 9)
+
+prokuratorowi,
+
+### 10)
+
+sądom,
+
+### 11)
+
+Szefowi Krajowej Administracji Skarbowej, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu celno-skarbowego
+
+- w zakresie niezbędnym do realizacji ich ustawowych zadań.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+oznaczenie sprawy;
+
+### 2)
+
+wskazanie okoliczności, z których wynika konieczność pozyskania żądanych danych;
+
+### 3)
+
+wskazanie zakresu danych podlegających udostępnieniu.
+
+### 3.
+
+Główny Inspektor Transportu Drogowego może wyrazić zgodę na udostępnienie za pomocą środków komunikacji elektronicznej danych, o których mowa w art. 55a ust. 1, podmiotom, o których mowa w ust. 1 pkt 1-3 i 5-11, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań.
+
+### 4.
+
+Udostępnianie danych, o których mowa w art. 55a ust. 1, w sposób, o którym mowa w ust. 3, następuje po złożeniu przez podmioty, o których mowa w ust. 1 pkt 1-3 i 5-11, wniosku zawierającego:
+
+### 1)
+
+wskazanie zakresu danych podlegających udostępnieniu;
+
+### 2)
+
+wskazanie osób uprawnionych do przetwarzania danych, o których mowa w pkt 1;
+
+### 3)
+
+oświadczenie, że podmioty te posiadają:
+
+### a)
+
+urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał, oraz
+
+### b)
+
+zabezpieczenie techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania.
+
+### 5.
+
+Główny Inspektor Transportu Drogowego udostępnia Agencji Bezpieczeństwa Wewnętrznego dane, o których mowa w art. 55a ust. 1, w sposób, o którym mowa w ust. 3, jeżeli jednostka organizacyjna Agencji Bezpieczeństwa Wewnętrznego będąca odbiorcą danych złoży oświadczenie, o którym mowa w ust. 4 pkt 3.
+
+### 6.
+
+Podmioty, o których mowa w ust. 1, dokonują weryfikacji danych, o których mowa w art. 55a ust. 1, uzyskanych zgodnie z ust. 1 i 3, pod względem ich niezbędności dla realizacji ustawowych zadań danego podmiotu, nie rzadziej niż raz na 3 miesiące, usuwając dane zbędne.
+
+### 7.
+
+Główny Inspektor Transportu Drogowego nie udostępnia na podstawie ust. 1 i 3 danych osobowych wskazanych w art. 9 ust. 1 rozporządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
+
+### Art. 55c.
+
+### 1.
+
+W zakresie zadań określonych w ustawie oraz w przepisach odrębnych Inspekcja może nieodpłatnie uzyskiwać dane ze zbiorów danych, w tym zbiorów danych osobowych, prowadzonych przez organy władzy publicznej oraz państwowe lub samorządowe jednostki organizacyjne.
+
+### 2.
+
+Jeżeli przepisy odrębnych ustaw nie stanowią inaczej, administratorzy zbiorów danych, o których mowa w ust. 1, udostępniają Inspekcji przetwarzane w nich dane na podstawie pisemnego wniosku Głównego Inspektora Transportu Drogowego, wojewódzkiego inspektora lub osoby przez niego upoważnionej.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, zawiera:
+
+### 1)
+
+oznaczenie sprawy;
+
+### 2)
+
+wskazanie zbioru danych, z którego te dane mają zostać udostępnione;
+
+### 3)
+
+wskazanie zakresu danych podlegających udostępnieniu.
+
+### 4.
+
+Administratorzy zbiorów danych, o których mowa w ust. 1, mogą zawierać z Głównym Inspektorem Transportu Drogowego lub wojewódzkim inspektorem pisemną umowę o udostępnianiu jednostkom organizacyjnym Inspekcji informacji zgromadzonych w zbiorach w drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie danych, jeżeli jednostki te spełniają łącznie następujące warunki:
+
+### 1)
+
+posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
+
+### 2)
+
+posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
+
+### 3)
+
+specyfika lub zakres wykonywanych przez nie zadań uzasadnia takie udostępnianie.
+
+### 5.
+
+Do danych uzyskanych przez Inspekcję na podstawie ust. 1 przepisy art. 55a stosuje się.
+
+” ;
+
+### 7)
+
+w art. 56 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Kary pieniężne oraz grzywny, o których mowa w ust. 1, oraz w art. 32 ust. 1 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego przewozu towarów, pobierane przez organy Inspekcji są przekazywane na wyodrębniony rachunek bankowy właściwej jednostki organizacyjnej Inspekcji, obsługującej organ nakładający karę pieniężną w I instancji lub grzywnę.
+
+” ;
+
+### 8)
+
+w art. 77 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do pracowników Inspekcji:
+
+### 1)
+
+zatrudnionych na stanowiskach inspektorów nie mają zastosowania przepisy art. 4 i art. 97 ustawy, o której mowa w ust. 1;
+
+### 2)
+
+obsługujących Głównego Inspektora Transportu Drogowego w zakresie realizacji zadań, o których mowa w art. 50 pkt 3a i 3b, niezatrudnionych na stanowiskach inspektorów nie ma zastosowania przepis art. 97 ustawy, o której mowa w ust. 1.
+
+” ;
+
+### 9)
+
+po art. 77 dodaje się art. 77a w brzmieniu:
+
+„
+
+### Art. 77a.
+
+### 1.
+
+Czas pracy pracowników, o których mowa w art. 77 ust. 2, nie może przekraczać 8 godzin na dobę i przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym nieprzekraczającym 3 miesięcy.
+
+### 2.
+
+Do pracowników, o których mowa w art. 77 ust. 2, mogą być stosowane systemy czasu pracy:
+
+### 1)
+
+zmianowy - na stanowiskach pracy, na których, ze względu na zakres i charakter zadań, jest wymagane wykonywanie pracy w systemie zmianowym;
+
+### 2)
+
+podstawowy, w którym czas pracy nie może przekraczać 8 godzin na dobę - na pozostałych stanowiskach pracy.
+
+### 3.
+
+W zmianowym systemie czasu pracy pracę wykonuje się na zmiany trwające po 8 godzin na dobę. W szczególnie uzasadnionych przypadkach pracodawca może wprowadzić wykonywanie pracy na zmiany trwające po 12 godzin na dobę.
+
+### 4.
+
+W zmianowym systemie czasu pracy, o którym mowa w ust. 3:
+
+### 1)
+
+zdanie pierwsze, pracownik nie może wykonywać pracy na więcej niż dziesięciu zmianach w porze nocnej w miesiącu kalendarzowym,
+
+### 2)
+
+zdanie drugie, pracownik nie może wykonywać pracy na więcej niż ośmiu zmianach w porze nocnej w miesiącu kalendarzowym
+
+- chyba że jest to uzasadnione szczególnymi potrzebami pracodawcy lub tym, że jego nieobecność mogłaby spowodować poważne zakłócenie organizacji pracy u pracodawcy.
+
+### 5.
+
+Praca w godzinach nadliczbowych pracownika jest dopuszczalna ze względu na:
+
+### 1)
+
+konieczność prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii;
+
+### 2)
+
+konieczność wykonania rozpoczętych czynności kontrolnych, jeżeli nie mogą one zostać przerwane;
+
+### 3)
+
+szczególne potrzeby pracodawcy.
+
+### 6.
+
+Praca w godzinach nadliczbowych następuje na polecenie pracodawcy.
+
+### 7.
+
+W zamian za czas pracy w godzinach nadliczbowych pracownikowi udziela się czasu wolnego od pracy w wymiarze o połowę wyższym albo może mu być przyznane wynagrodzenie wraz z dodatkiem za pracę w godzinach nadliczbowych w wysokości 50% wynagrodzenia. Udzielenie pracownikowi czasu wolnego nie może spowodować obniżenia wynagrodzenia należnego pracownikowi za pełny miesięczny wymiar czasu pracy.
+
+### 8.
+
+O przyznaniu czasu wolnego od pracy albo dodatku, o których mowa w ust. 7, decyduje:
+
+### 1)
+
+dyrektor generalny w uzgodnieniu z Głównym Inspektorem - dla pracowników zatrudnionych w Głównym Inspektoracie;
+
+### 2)
+
+wojewódzki inspektor - dla pracowników, o których mowa w art. 77 ust. 2 pkt 1, zatrudnionych w wojewódzkim inspektoracie transportu drogowego.
+
+### 9.
+
+Liczba godzin nadliczbowych, za którą przyznano wynagrodzenie, nie może przekraczać:
+
+### 1)
+
+7 godzin w przyjętym miesięcznym okresie rozliczeniowym;
+
+### 2)
+
+14 godzin w przyjętym dwumiesięcznym okresie rozliczeniowym;
+
+### 3)
+
+21 godzin w przyjętym trzymiesięcznym okresie rozliczeniowym.
+
+### 10.
+
+Praca w niedzielę lub święto, w godzinach nadliczbowych oraz w porze nocnej nie może być wykonywana przez:
+
+### 1)
+
+pracownika będącego jedynym opiekunem dziecka do 8 lat lub osoby wymagającej stałej opieki,
+
+### 2)
+
+pracownika opiekującego się dzieckiem do 8 lat, jeżeli z uprawnienia takiego nie korzysta drugie z rodziców lub opiekun,
+
+### 3)
+
+pracownicę karmiącą dziecko piersią
+
+- bez ich zgody.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia ([Dz. U. z 2017 r. poz. 2093](https://api.sejm.gov.pl/eli/acts/DU/2017/2093/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 2 uchyla się pkt 8a;
+
+### 2)
+
+w art. 7 uchyla się pkt 10a;
+
+### 3)
+
+uchyla się art. 9a;
+
+### 4)
+
+art. 9b otrzymuje brzmienie:
+
+„
+
+### Art. 9b.
+
+Warunki umowy, o której mowa w art. 9, wymagają uzgodnienia z ministrem właściwym do spraw finansów publicznych.
+
+” .
+
+### Art. 6.
+
+### 1.
+
+Główny Inspektor Transportu Drogowego podejmuje wszelkie czynności faktyczne i prawne mające na celu przygotowanie, budowę, wdrożenie, przejęcie lub eksploatację elektronicznego systemu poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, oraz systemu poboru opłat za przejazd autostradą, o których mowa w art. 37a ust. 1a pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Główny Inspektor Transportu Drogowego może powierzyć, w drodze porozumienia, wykonywanie w jego imieniu niektórych czynności, o których mowa w ust. 1:
+
+### 1)
+
+organom administracji rządowej;
+
+### 2)
+
+Bankowi Gospodarstwa Krajowego;
+
+### 3)
+
+instytutom badawczym w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2017 r. poz. 1158](https://api.sejm.gov.pl/eli/acts/DU/2017/1158/text.html), [1452](https://api.sejm.gov.pl/eli/acts/DU/2017/1452/text.html) i [2201](https://api.sejm.gov.pl/eli/acts/DU/2017/2201/text.html));
+
+### 4)
+
+instytucjom gospodarki budżetowej;
+
+### 5)
+
+innym podmiotom, o których mowa w art. 3 ust. 1 pkt 1-3a ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2017 r. poz. 1579](https://api.sejm.gov.pl/eli/acts/DU/2017/1579/text.html) i [2018](https://api.sejm.gov.pl/eli/acts/DU/2017/2018/text.html)), którym wyłączne prawo do wykonywania tych czynności przyznano w drodze ustawy lub innego aktu normatywnego, który podlega publikacji.
+
+### 3.
+
+W porozumieniu, o którym mowa w ust. 2, reguluje się w szczególności wzajemne rozliczenia finansowe.
+
+### 4.
+
+Główny Inspektor Transportu Drogowego może zlecić wykonywanie niektórych czynności, o których mowa w ust. 1, podmiotom innym niż wskazane w ust. 2 wyłącznie w zakresie:
+
+### 1)
+
+produkcji, dostawy, serwisu i wymiany urządzeń, o których mowa w art. 13i ust. 3 ustawy zmienianej w art. 1;
+
+### 2)
+
+produkcji, dostawy, instalacji, usuwania, a także utrzymania, serwisu i wymiany urządzeń służących do poboru lub kontroli prawidłowości uiszczenia opłaty elektronicznej lub do poboru opłat za przejazd autostradą;
+
+### 3)
+
+produkcji, dostawy, utrzymania, serwisu i wymiany pojazdów służących do kontroli prawidłowości uiszczenia opłaty elektronicznej;
+
+### 4)
+
+świadczenia usług telekomunikacyjnych zapewniających wymianę danych pomiędzy urządzeniami i elementami elektronicznego systemu poboru opłat lub systemu poboru opłat za przejazd autostradą, a także innych usług towarzyszących, umożliwiających pobór opłaty elektronicznej, kontrolę prawidłowości jej uiszczenia lub pobór opłaty za przejazd autostradą;
+
+### 5)
+
+produkcji, dostawy, instalacji oraz wdrożenia urządzeń i elementów elektronicznego systemu poboru opłat, w tym infrastruktury teleinformatycznej oraz oprogramowania, lub systemu poboru opłat za przejazd autostradą, a także ich serwisu i utrzymania;
+
+### 6)
+
+obsługi, w tym w zakresie udostępniania urządzeń, o których mowa w art. 13i ust. 3 ustawy zmienianej w art. 1, oraz wnoszenia opłaty elektronicznej lub opłaty za przejazd autostradą, użytkowników elektronicznego systemu poboru opłaty elektronicznej lub systemu poboru opłat za przejazd autostradą, w przypadku gdy pobór tej opłaty odbywa się z wykorzystaniem systemu elektronicznego poboru opłat, o którym mowa w art. 13i ust. 1 ustawy zmienianej w art. 1.
+
+### 5.
+
+Czynności, o których mowa w ust. 4 pkt 6, Główny Inspektor Transportu Drogowego może zlecić w szczególności:
+
+### 1)
+
+przedsiębiorcom prowadzącym stacje benzynowe;
+
+### 2)
+
+organizacjom zrzeszającym przewoźników drogowych o zasięgu ogólnokrajowym;
+
+### 3)
+
+operatorom pocztowym, o których mowa w art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2017 r. poz. 1481](https://api.sejm.gov.pl/eli/acts/DU/2017/1481/text.html)).
+
+### 6.
+
+Wykonywanie czynności, o których mowa w ust. 4 pkt 6, odbywa się na zasadach określonych w porozumieniu, które określa w szczególności sposób zabezpieczenia środków z tytułu wnoszonej opłaty elektronicznej.
+
+### 7.
+
+W przypadku gdy do zamówienia, o którym mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych albo ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi ([Dz. U. poz. 1920](https://api.sejm.gov.pl/eli/acts/DU/2016/1920/text.html)), zastosowanie mają przepisy ust. 8-11.
+
+### 8.
+
+Główny Inspektor Transportu Drogowego, udzielając zamówienia, o którym mowa w ust. 4, zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej ogłoszenie o udzielanym zamówieniu.
+
+### 9.
+
+Zamówienie, o którym mowa w ust. 4, jest udzielane w sposób zapewniający przejrzystość, równe traktowanie podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+
+### 10.
+
+Główny Inspektor Transportu Drogowego nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 4, stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2003 r. poz. 1503](https://api.sejm.gov.pl/eli/acts/DU/2003/1503/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132.](#gloss-0:6:)), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zleceniem, o którym mowa w ust. 4, albo zawarciem porozumienia, o którym mowa w ust. 6, zastrzegł, że nie mogą być one udostępniane.
+
+### 11.
+
+Główny Inspektor Transportu Drogowego niezwłocznie podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, informację o udzieleniu zamówienia, o którym mowa w ust. 4, podając nazwę (firmę) albo imię i nazwisko podmiotu, któremu zlecono wykonywanie czynności, o których mowa w ust. 4, lub z którym zawarł porozumienie, o którym mowa w ust. 6, albo informację o nieudzieleniu tego zamówienia.
+
+### 12.
+
+Główny Inspektor Transportu Drogowego może upoważnić wojewódzkiego inspektora transportu drogowego do wykonywania w jego imieniu niektórych czynności, o których mowa w ust. 1.
+
+### 13.
+
+W przypadku udzielenia upoważnienia, o którym mowa w ust. 12, Główny Inspektor Transportu Drogowego może przekazać wojewódzkiemu inspektorowi transportu drogowego środki finansowe na pokrycie kosztów powierzonych czynności.
+
+### 14.
+
+Koszty czynności, o których mowa w ust. 1, w tym koszty usług doradczych związanych z podejmowaniem tych czynności, są finansowane do dnia 2 listopada 2018 r. z Krajowego Funduszu Drogowego.
+
+### 15.
+
+Bank Gospodarstwa Krajowego, na wniosek Głównego Inspektora Transportu Drogowego, dokonuje wypłat ze środków Krajowego Funduszu Drogowego na pokrycie kosztów, o których mowa w ust. 14.
+
+### Art. 7.
+
+Z dniem 3 listopada 2018 r. Główny Inspektor Transportu Drogowego wstępuje we wszystkie stosunki prawne, w tym umowy i porozumienia, których podmiotem był Generalny Dyrektor Dróg Krajowych i Autostrad, w związku z wykonywaniem zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, bez względu na charakter prawny tych stosunków. Umowy i porozumienia zawarte przez Generalnego Dyrektora Dróg Krajowych i Autostrad zachowują ważność.
+
+### Art. 8.
+
+### 1.
+
+Z dniem 3 listopada 2018 r. Główny Inspektor Transportu Drogowego przejmuje od Generalnego Dyrektora Dróg Krajowych i Autostrad, z mocy ustawy, nieodpłatnie mienie ruchome oraz dobra niematerialne o charakterze majątkowym, w tym prawa autorskie i inne prawa własności intelektualnej oraz prawa własności przemysłowej, służące dotychczas do wykonywania zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w tym związane z nimi wierzytelności i zobowiązania. Przejęcie następuje na podstawie protokołów zdawczo-odbiorczych.
+
+### 2.
+
+Z dniem 3 listopada 2018 r. Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje Głównemu Inspektorowi Transportu Drogowego w użyczenie, na czas nieoznaczony, nieruchomości w pasie drogowym:
+
+### 1)
+
+dróg krajowych wymienionych w rozporządzeniu wydanym na podstawie art. 13ha ust. 6 ustawy zmienianej w art. 1, na których zainstalowano stacjonarne i przenośne urządzenia służące do poboru lub kontroli prawidłowości uiszczenia opłaty elektronicznej, wraz z fundamentami, konstrukcjami wsporczymi oraz przynależnymi elementami wyposażenia;
+
+### 2)
+
+autostrad płatnych wraz z wzniesionymi budowlami, budynkami i innymi urządzeniami wykorzystywane dotychczas przez Generalnego Dyrektora Dróg Krajowych i Autostrad w celu poboru opłat za przejazd autostradą albo które zostały przeznaczone na ten cel.
+
+### 3.
+
+Warunki korzystania z nieruchomości, o których mowa w ust. 2, wraz z wzniesionymi na nich budowlami, budynkami i innymi urządzeniami określi umowa pomiędzy Generalnym Dyrektorem Dróg Krajowych i Autostrad oraz Głównym Inspektorem Transportu Drogowego. Umowę zawiera się nie później niż do dnia 3 października 2018 r.
+
+### 4.
+
+Z dniem 3 listopada 2018 r. Generalny Dyrektor Dróg Krajowych i Autostrad przekazuje Głównemu Inspektorowi Transportu Drogowego wszelką niezbędną dokumentację wytworzoną w związku z wykonywaniem zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### Art. 9.
+
+W terminie 60 dni od dnia wejścia w życie niniejszej ustawy Generalny Dyrektor Dróg Krajowych i Autostrad przekaże Głównemu Inspektorowi Transportu Drogowego zestawienie wskazujące stosunki prawne, o których mowa w art. 7, mienie ruchome oraz dobra niematerialne, o których mowa w art. 8 ust. 1, nieruchomości, budynki i urządzenia, o których mowa w art. 8 ust. 2, wraz z określeniem ich wartości według ewidencji majątku Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+
+### Art. 10.
+
+Urządzenia, o których mowa w art. 13i ust. 3 ustawy zmienianej w art. 1, udostępnione użytkownikom przez Generalnego Dyrektora Dróg Krajowych i Autostrad na potrzeby poboru opłaty elektronicznej oraz opłaty za przejazd autostradą, mogą być używane do czasu ich zastąpienia innym urządzeniem udostępnionym przez Głównego Inspektora Transportu Drogowego.
+
+### Art. 11.
+
+Główny Inspektor Transportu Drogowego staje się administratorem danych osobowych, których administratorem był Generalny Dyrektor Dróg Krajowych i Autostrad w związku z wykonywaniem zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### Art. 12.
+
+### 1.
+
+Z dniem 3 listopada 2018 r. pracownicy Generalnej Dyrekcji Dróg Krajowych i Autostrad, obsługujący Generalnego Dyrektora Dróg Krajowych i Autostrad w zakresie realizacji zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zajmujący się eksploatacją i obsługą księgową systemu poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy zmienianej w art. 1, oraz systemu poboru opłat za przejazd autostradą, o których mowa w art. 37a ust. 1a pkt 1 ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, stają się pracownikami Głównego Inspektoratu Transportu Drogowego. Pozostali pracownicy Generalnej Dyrekcji Dróg Krajowych i Autostrad, obsługujący Generalnego Dyrektora Dróg Krajowych i Autostrad w zakresie realizacji zadań, o których mowa w art. 18 ust. 2 pkt 8-9 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stają się pracownikami Głównego Inspektoratu Transportu Drogowego z dniem następującym po upływie 14 dni od dnia ogłoszenia niniejszej ustawy.
+
+### 2.
+
+Dyrektor generalny Generalnej Dyrekcji Dróg Krajowych i Autostrad jest obowiązany w terminie 5 dni od dnia ogłoszenia niniejszej ustawy zawiadomić na piśmie pracowników, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w ich stosunku pracy, w tym o terminach, w których stają się pracownikami Głównego Inspektoratu Transportu Drogowego.
+
+### 3.
+
+Dyrektor generalny Głównego Inspektoratu Transportu Drogowego składa pracownikom, o których mowa w ust. 1, w terminie 2 dni roboczych po upływie terminów, o których mowa w ust. 1, pisemną propozycję pracy określającą nowe warunki zatrudnienia, która uwzględnia posiadane kwalifikacje i przebieg dotychczasowej pracy.
+
+### 4.
+
+W razie odmowy przyjęcia nowych warunków zatrudnienia w terminie nie dłuższym niż 14 dni od dnia przedłożenia pisemnej propozycji pracy określającej nowe warunki zatrudnienia stosunek pracy pracowników, o których mowa w ust. 1, wygasa po upływie 3 miesięcy od dnia odmowy.
+
+### Art. 13.
+
+### 1.
+
+Bank Gospodarstwa Krajowego opracowuje na rok 2018 projekt zmiany planu finansowego Krajowego Funduszu Drogowego, o którym mowa w art. 39n ustawy zmienianej w art. 3, uwzględniając konieczność zapewnienia dla Głównego Inspektora Transportu Drogowego środków na pokrycie kosztów działalności Głównego Inspektora Transportu Drogowego w związku z realizacją ustawowych zadań, o których mowa w art. 50 pkt 3a-3c ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, oraz kosztów wykonywania czynności, o których mowa w art. 6 niniejszej ustawy.
+
+### 2.
+
+Bank Gospodarstwa Krajowego w terminie 30 dni od dnia ogłoszenia niniejszej ustawy opracowuje projekt zmiany planu, o którym mowa w ust. 1, i przedstawia go do uzgodnienia:
+
+### 1)
+
+ministrowi właściwemu do spraw transportu;
+
+### 2)
+
+ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym.
+
+### 3.
+
+Uzgodnienie, o którym mowa w ust. 2, następuje w terminie 15 dni od dnia przedstawienia projektu zmiany planu.
+
+### Art. 14.
+
+### 1.
+
+W latach 2018-2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi:
+
+### 1)
+
+dla ministra właściwego do spraw transportu:
+
+### a)
+
+w roku 2018 - 1 144 977 zł,
+
+### b)
+
+w roku 2019 - 1 179 327 zł,
+
+### c)
+
+w roku 2020 - 1 214 707 zł,
+
+### d)
+
+w roku 2021 - 1 251 148 zł,
+
+### e)
+
+w roku 2022 - 1 288 682 zł,
+
+### f)
+
+w roku 2023 - 1 327 343 zł,
+
+### g)
+
+w roku 2024 - 1 367 163 zł,
+
+### h)
+
+w roku 2025 - 1 408 178 zł,
+
+### i)
+
+w roku 2026 - 1 450 423 zł,
+
+### j)
+
+w roku 2027 - 1 493 936 zł;
+
+### 2)
+
+dla Głównego Inspektora Transportu Drogowego:
+
+### a)
+
+w roku 2018 - 40 107 800 zł,
+
+### b)
+
+w roku 2019 - 60 988 800 zł,
+
+### c)
+
+w roku 2020 - 72 551 000 zł,
+
+### d)
+
+w roku 2021 - 84 350 400 zł,
+
+### e)
+
+w roku 2022 - 94 437 200 zł,
+
+### f)
+
+w roku 2023 - 95 169 400 zł,
+
+### g)
+
+w roku 2024 - 95 896 600 zł,
+
+### h)
+
+w roku 2025 - 96 557 900 zł,
+
+### i)
+
+w roku 2026 - 96 679 000 zł,
+
+### j)
+
+w roku 2027 - 96 685 600 zł;
+
+### 3)
+
+dla wojewódzkich inspektoratów transportu drogowego:
+
+### a)
+
+w roku 2018 - 930 800 zł,
+
+### b)
+
+w roku 2019 - 1 927 700 zł,
+
+### c)
+
+w roku 2020 - 1 993 800 zł,
+
+### d)
+
+w roku 2021 - 1 993 800 zł,
+
+### e)
+
+w roku 2022 - 1 993 800 zł,
+
+### f)
+
+w roku 2023 - 1 993 800 zł,
+
+### g)
+
+w roku 2024 - 1 993 800 zł,
+
+### h)
+
+w roku 2025 - 1 993 800 zł,
+
+### i)
+
+w roku 2026 - 1 993 800 zł,
+
+### j)
+
+w roku 2027 - 1 993 800 zł.
+
+### 2.
+
+Minister właściwy do spraw transportu monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
+
+### 3.
+
+W przypadku gdy wysokość wydatków, o których mowa w ust. 1, po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, dysponent środków zmniejsza wysokość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę pomiędzy wysokością tego limitu a kwotą przekroczenia wydatków.
+
+### 4.
+
+W przypadku gdy wysokość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
+
+### Art. 15.
+
+Prezes Rady Ministrów w celu realizacji niniejszej ustawy dokona, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej, w tym określi kwoty wynagrodzeń w podziale na części i działy budżetu państwa.
+
+### Art. 16.
+
+Ustawa wchodzi w życie z dniem 3 listopada 2018 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 8 i 9, art. 2, art. 3 pkt 6 lit. a w zakresie art. 39f ust. 1 pkt 6 lit. a i c ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, lit. b i d oraz pkt 7 lit. a, art. 6, art. 8 ust. 3, art. 9, art. 12-15, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 3 pkt 3 oraz art. 4 pkt 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+### 3)
+
+art. 1 pkt 3 oraz art. 4 pkt 7-9, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+
+### 4)
+
+art. 4 pkt 6, który wchodzi w życie z dniem 25 maja 2018 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, ustawę z dnia 6 września 2001 r. o transporcie drogowym oraz ustawę z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2260 oraz z 2017 r. poz. 624, 820, 1509, 1529, 1566, 1595 i 2375. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2255 oraz z 2017 r. poz. 88, 244, 379, 708, 768, 1086, 1321, 2409 i 2491. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 959, 1693 i 1804, z 2005 r. poz. 68, z 2007 r. poz. 1206, z 2009 r. poz. 1540 oraz z 2017 r. poz. 933 i 1132.

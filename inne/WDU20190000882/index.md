@@ -8,9 +8,9 @@ pos: 882
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Dz. 2019 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 12 kwietnia 2019 sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 12 kwietnia 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
 
 | Pole | Wartość |
 |---|---|
@@ -22,73 +22,190 @@ domain: null
 | Data ogłoszenia | 2019-04-12 |
 | Data wydania | 2019-05-13 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/882/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/882/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/882) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2017 1523 2018 2243) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustawy dnia 5 września 2008 o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego (Dz. Nr 180, 1110), uwzględnieniem zmiany wprowadzonej ustawą dnia 3 lipca 2018 Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym nauce (Dz.
-1669) zmian wynikających przepisów ogłoszonych przed 11 kwietnia 2019
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 7 ustawy dnia 5 września 2008 o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego (Dz. Nr 180, 1110), który stanowi: „Art. 7. 1. Członkowie senatów Akademii Rolniczej Politechniki Szczecińskiej wybrani na kadencję rozpoczynającą się 1 września 2008 stają się utworzenia Uniwersytetu członkami senatu pierwszej kadencji Uniwersytetu.
-2. Pierwszego rektora Uniwersytetu powołuje minister właściwy spraw szkolnictwa wyższego.
-3. Organy kolegialne podstawowych jednostek organizacyjnych Akademii Rolniczej podstawowych jednostek organizacyjnych Politechniki Szczecińskiej, wybrane na kadencję rozpoczynającą się 1 września 2008 r., stają się utworzenia Uniwersytetu organami kolegialnymi pierwszej kadencji podstawowych jednostek organizacyjnych Uniwersytetu.
-4. Pierwszy rektor Uniwersytetu powołuje prorektorów na okres równy swojej kadencji określa ich zakres obowiązków.
-5. Organy jednoosobowe podstawowych jednostek organizacyjnych Akademii Rolniczej podstawowych jednostek organizacyjnych Politechniki Szczecińskiej, ich zastępcy, wybrane na kadencję rozpoczynającą się 1 września 2008 r., stają się utworzenia Uniwersytetu organami jednoosobowymi pierwszej kadencji podstawowych jednostek organizacyjnych Uniwersytetu ich zastępcami.
-6. Pierwsza kadencja organów Uniwersytetu trwa dnia 31 sierpnia roku następującego po roku akademickim, którym Uniwersytet został utworzony. Druga kadencja organów jednoosobowych kolegialnych Uniwersytetu trwa dnia 31 sierpnia 2012
-7. Pierwszej kadencji, o której mowa ust. 6, nie zalicza się kadencji, o których mowa art. 77 ust. 2 ustawy dnia 27 lipca 2005 Prawo o szkolnictwie wyższym (Dz. Nr 164, 1365, późn. zm. ).
-8. Pierwszy statut Uniwersytetu nadaje minister właściwy spraw szkolnictwa wyższego.”;
-2) art. 350 ustawy dnia 3 lipca 2018 Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym nauce (Dz. 1669), który stanowi: „Art. 350. Ustawa wchodzi życie 1 października 2018 r., wyjątkiem:
-1) art. 1 pkt 1, art. 42 pkt 2 lit. b art. 334 ust. 2, wchodzą życie następującym po dniu ogłoszenia;
-Marszałek Sejmu: M. Kuchciński
-USTAWA dnia 5 września 2008 o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Tworzy się 1 stycznia 2009 Zachodniopomorski Uniwersytet Technologiczny Szczecinie, zwany dalej „Uniwersytetem”.
+- [Załącznik - Tekst jednolity ustawy z dnia 5 września 2008 r. o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie](#part_2)
 
-2. Siedzibą Uniwersytetu jest miasto Szczecin.
+TOC
 
-3. Uniwersytet jest publiczną uczelnią akademicką.
+## Treść obwieszczenia
 
-**Art. 2.** Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie prowadzenie badań naukowych zakresie nauk technicznych, rolniczych, ekonomicznych, biologicznych, chemicznych matematycznych.
+### 1.
 
-**Art. 3.**
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html) oraz [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 września 2008 r. o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie ([Dz. U. Nr 180, poz. 1110](https://api.sejm.gov.pl/eli/acts/DU/2008/1110/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 kwietnia 2019 r.
 
-1. Uniwersytet tworzy się połączenia Akademii Rolniczej Politechniki Szczecińskiej.
+### 2.
 
-2. Z utworzenia Uniwersytetu znosi się Akademię Rolniczą Politechnikę Szczecińską.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 
-**Art. 4.**
+### 1)
 
-- **1)** Nadzór nad Uniwersytetem sprawuje minister właściwy spraw szkolnictwa wyższego nauki.
+art. 7 ustawy z dnia 5 września 2008 r. o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie ([Dz. U. Nr 180, poz. 1110](https://api.sejm.gov.pl/eli/acts/DU/2008/1110/text.html)), który stanowi:
 
-**Art. 5.**
+„
 
-1. Mienie, obejmujące własność inne prawa majątkowe Akademii Rolniczej Politechniki Szczecińskiej, staje się mieniem Uniwersytetu jego utworzenia.
+### Art. 7.
 
-2. Uniwersytet przejmuje, utworzenia, prawa zobowiązania, tym zobowiązania finansowe, Akademii Rolniczej Politechniki Szczecińskiej.
+### 1.
 
-3. Do uprawnień, praw zobowiązań znoszonych uczelni mają zastosowanie zasady sukcesji uniwersalnej.
+Członkowie senatów Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej wybrani na kadencję rozpoczynającą się z dniem 1 września 2008 r. stają się z dniem utworzenia Uniwersytetu członkami senatu pierwszej kadencji Uniwersytetu.
 
-4. Stan gospodarki finansowej Akademii Rolniczej Politechniki Szczecińskiej zostanie wykazany bilansach sporządzonych przez te uczelnie na dzień poprzedzający utworzenie Uniwersytetu.
+### 2.
 
-**Art. 6.**
+Pierwszego rektora Uniwersytetu powołuje minister właściwy do spraw szkolnictwa wyższego.
 
-1. Z utworzenia Uniwersytetu:
+### 3.
 
-- **1)** pracownicy zatrudnieni Akademii Rolniczej Politechnice Szczecińskiej stają się pracownikami Uniwersytetu. Przepisy art. 23 ustawy dnia 26 czerwca 1974 Kodeks pracy (Dz. 2018 917, późn. zm. ) stosuje się odpowiednio;
-- **2)** studenci Akademii Rolniczej studenci Politechniki Szczecińskiej stają się studentami Uniwersytetu;
-- **3)** doktoranci Akademii Rolniczej doktoranci Politechniki Szczecińskiej stają się doktorantami Uniwersytetu;
-- **4)** osoby niebędące studentami studiów doktoranckich, wszczęły przewody doktorskie Akademii Rolniczej Politechnice Szczecińskiej, kontynuują wszczęte przewody Uniwersytecie;
-- **5)** słuchacze studiów podyplomowych kursów dokształcających Akademii Rolniczej słuchacze studiów podyplomowych kursów dokształcających Politechniki Szczecińskiej stają się słuchaczami studiów podyplomowych kursów dokształcających Uniwersytetu.
+Organy kolegialne podstawowych jednostek organizacyjnych Akademii Rolniczej w Szczecinie oraz podstawowych jednostek organizacyjnych Politechniki Szczecińskiej, wybrane na kadencję rozpoczynającą się z dniem 1 września 2008 r., stają się z dniem utworzenia Uniwersytetu organami kolegialnymi pierwszej kadencji podstawowych jednostek organizacyjnych Uniwersytetu.
 
-2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2008/2009 Akademii Rolniczej Politechniki Szczecińskiej utworzenia Uniwersytetu stają się jego studentami. Rekrutacja Uniwersytecie roku akademickim 2009/2010 na poszczególne kierunki studiów prowadzone przez wydziały odbywa się według zasad określonych odpowiednich uchwałach senatów Akademii Rolniczej Politechniki Szczecińskiej podjętych dnia 31 maja 2008
+### 4.
 
-3. Podstawowe jednostki organizacyjne Akademii Rolniczej Politechniki Szczecińskiej utworzenia Uniwersytetu stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu. Podstawowe jednostki organizacyjne Akademii Rolniczej Politechniki Szczecińskiej, przed utworzenia Uniwersytetu po utworzeniu Uniwersytetu.
+Pierwszy rektor Uniwersytetu powołuje prorektorów na okres równy swojej kadencji oraz określa ich zakres obowiązków.
 
-4. Jednostki organizacyjne Akademii Rolniczej Politechniki Szczecińskiej, przed utworzenia Uniwersytetu posiadały uprawnienia nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu.
+### 5.
 
-5. Jednostki organizacyjne Akademii Rolniczej Politechniki Szczecińskiej, przed utworzenia Uniwersytetu zostały poddane ocenie parametrycznej zostały zaliczone określonych kategorii naukowych, zachowują te kategorie po utworzeniu Uniwersytetu.
+Organy jednoosobowe podstawowych jednostek organizacyjnych Akademii Rolniczej w Szczecinie i podstawowych jednostek organizacyjnych Politechniki Szczecińskiej, oraz ich zastępcy, wybrane na kadencję rozpoczynającą się z dniem 1 września 2008 r., stają się z dniem utworzenia Uniwersytetu organami jednoosobowymi pierwszej kadencji podstawowych jednostek organizacyjnych Uniwersytetu oraz ich zastępcami.
 
-**Art. 7.** (pominięty)
+### 6.
 
-**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+Pierwsza kadencja organów Uniwersytetu trwa do dnia 31 sierpnia roku następującego po roku akademickim, w którym Uniwersytet został utworzony. Druga kadencja organów jednoosobowych i kolegialnych Uniwersytetu trwa do dnia 31 sierpnia 2012 r.
 
+### 7.
+
+Pierwszej kadencji, o której mowa w ust. 6, nie zalicza się do kadencji, o których mowa w art. 77 ust. 2 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym ([Dz. U. Nr 164, poz. 1365](https://api.sejm.gov.pl/eli/acts/DU/2005/1365/text.html), z późn. zm.[a) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416.](#gloss-0: a:)).
+
+### 8.
+
+Pierwszy statut Uniwersytetu nadaje minister właściwy do spraw szkolnictwa wyższego.
+
+” ;
+
+### 2)
+
+art. 350 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)), który stanowi:
+
+„
+
+### Art. 350.
+
+Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33-36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.
+
+” .
+
+a) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280 oraz z 2008 r. Nr 70, poz. 416.
+
+## Załącznik - Tekst jednolity ustawy z dnia 5 września 2008 r. o utworzeniu Zachodniopomorskiego Uniwersytetu Technologicznego w Szczecinie
+
+### Art. 1.
+
+### 1.
+
+Tworzy się z dniem 1 stycznia 2009 r. Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, zwany dalej „Uniwersytetem”.
+
+### 2.
+
+Siedzibą Uniwersytetu jest miasto Szczecin.
+
+### 3.
+
+Uniwersytet jest publiczną uczelnią akademicką.
+
+### Art. 2.
+
+Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk technicznych, rolniczych, ekonomicznych, biologicznych, chemicznych i matematycznych.
+
+### Art. 3.
+
+### 1.
+
+Uniwersytet tworzy się z połączenia Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej.
+
+### 2.
+
+Z dniem utworzenia Uniwersytetu znosi się Akademię Rolniczą w Szczecinie oraz Politechnikę Szczecińską.
+
+### Art. 4[1) W brzmieniu ustalonym przez art. 112 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.](#gloss-0:1:).
+
+Nadzór nad Uniwersytetem sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+
+### Art. 5.
+
+### 1.
+
+Mienie, obejmujące własność i inne prawa majątkowe Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, staje się mieniem Uniwersytetu z dniem jego utworzenia.
+
+### 2.
+
+Uniwersytet przejmuje, z dniem utworzenia, prawa i zobowiązania, w tym zobowiązania finansowe, Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej.
+
+### 3.
+
+Do uprawnień, praw i zobowiązań znoszonych uczelni mają zastosowanie zasady sukcesji uniwersalnej.
+
+### 4.
+
+Stan gospodarki finansowej Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej zostanie wykazany w bilansach sporządzonych przez te uczelnie na dzień poprzedzający utworzenie Uniwersytetu.
+
+### Art. 6.
+
+### 1.
+
+Z dniem utworzenia Uniwersytetu:
+
+### 1)
+
+pracownicy zatrudnieni w Akademii Rolniczej w Szczecinie oraz w Politechnice Szczecińskiej stają się pracownikami Uniwersytetu. Przepisy art. 231ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432.](#gloss-0:2:)) stosuje się odpowiednio;
+
+### 2)
+
+studenci Akademii Rolniczej w Szczecinie oraz studenci Politechniki Szczecińskiej stają się studentami Uniwersytetu;
+
+### 3)
+
+doktoranci Akademii Rolniczej w Szczecinie oraz doktoranci Politechniki Szczecińskiej stają się doktorantami Uniwersytetu;
+
+### 4)
+
+osoby niebędące studentami studiów doktoranckich, które wszczęły przewody doktorskie w Akademii Rolniczej w Szczecinie oraz w Politechnice Szczecińskiej, kontynuują wszczęte przewody w Uniwersytecie;
+
+### 5)
+
+słuchacze studiów podyplomowych i kursów dokształcających Akademii Rolniczej w Szczecinie oraz słuchacze studiów podyplomowych i kursów dokształcających Politechniki Szczecińskiej stają się słuchaczami studiów podyplomowych i kursów dokształcających Uniwersytetu.
+
+### 2.
+
+Osoby przyjęte na pierwszy rok studiów na rok akademicki 2008/2009 do Akademii Rolniczej w Szczecinie i Politechniki Szczecińskiej z dniem utworzenia Uniwersytetu stają się jego studentami. Rekrutacja w Uniwersytecie w roku akademickim 2009/2010 na poszczególne kierunki studiów prowadzone przez wydziały odbywa się według zasad określonych w odpowiednich uchwałach senatów Akademii Rolniczej w Szczecinie i Politechniki Szczecińskiej podjętych do dnia 31 maja 2008 r.
+
+### 3.
+
+Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej z dniem utworzenia Uniwersytetu stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu. Podstawowe jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do prowadzenia studiów na określonym kierunku i poziomie kształcenia, zachowują te uprawnienia po utworzeniu Uniwersytetu.
+
+### 4.
+
+Jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu.
+
+### 5.
+
+Jednostki organizacyjne Akademii Rolniczej w Szczecinie oraz Politechniki Szczecińskiej, które przed dniem utworzenia Uniwersytetu zostały poddane ocenie parametrycznej i zostały zaliczone do określonych kategorii naukowych, zachowują te kategorie po utworzeniu Uniwersytetu.
+
+### Art. 7.
+
+(pominięty)[3) Zamieszczony w obwieszczeniu.](#gloss-0:3:)
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[4) Ustawa została ogłoszona w dniu 10 października 2008 r.](#gloss-0:4:).
+
+1) W brzmieniu ustalonym przez art. 112 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244, 2245, 2377 i 2432. 3) Zamieszczony w obwieszczeniu. 4) Ustawa została ogłoszona w dniu 10 października 2008 r.

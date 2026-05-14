@@ -8,11 +8,9 @@ pos: 565
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o informatyzacji działalności podmiotów realizujących zadania publiczne
-
-*USTAWA z dnia 17 lutego 2005 r.*
+# Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 21 listopada 1996 r. o muzeach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 26 listopada 1998 r. o finansach publicznych, ustawę z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, ustawę z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym, ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 5 lipca 2002 r. o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 19 lutego 2004 r. o systemie informacji oświatowej, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o wyrobach medycznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1013 +22,2208 @@ domain: null
 | Data ogłoszenia | 2005-02-17 |
 | Data wydania | 2005-04-20 |
 | Ostatnia zmiana | 2026-04-07 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/565/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/565/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/565) |
 
-Art. 36–52. (pominięte)
-Art. 53–60. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Plan Informatyzacji Państwa oraz projekty informatyczne o publicznym zastosowaniu](#chpt_2) [Rozdział 3 - Systemy teleinformatyczne używane do realizacji zadań publicznych, rejestry publiczne oraz wymiana informacji w formie elektronicznej między podmiotami publicznymi](#chpt_3) [Rozdział 4 - Badanie zgodności oprogramowania interfejsowego z rozwiązaniami określonymi przez podmioty publiczne oraz kontrola przestrzegania przepisów ustawy](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących](#chpt_5) [Rozdział 6 - Przepisy dostosowujące, przejściowe i końcowe](#chpt_6)
 
-**Art. 1.** Ustawa określa zasady:
+TOC
 
-**Art. 2.**
+## Treść ustawy
 
-1. Przepisy ustawy stosuje się do podmiotów publicznych:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** jednostek sektora finansów publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, z późn. zm. );
-- **2)** innych niż określone w pkt 1 państwowych jednostek organizacyjnych nieposiadających osobowości prawnej;
-- **3)** innych niż określone w pkt 1 osób prawnych utworzonych w szczególnym celu zaspokajania potrzeb o charakterze powszechnym, niemających charakteru przemysłowego ani handlowego, jeżeli podmioty te oraz podmioty, o których mowa w pkt 1 i 2, pojedynczo lub wspólnie, bezpośrednio albo pośrednio przez inny podmiot:
-    - **a)** finansują te osoby prawne w ponad 50 % lub
-    - **b)** posiadają ponad połowę udziałów albo akcji tych osób prawnych, lub
-    - **c)** sprawują nadzór nad organami zarządzającymi tych osób prawnych, lub
-    - **d)** mają prawo do powoływania ponad połowy składu organów nadzorczych lub zarządzających tych osób prawnych;
+### Art. 1.
 
-- **4)** związków podmiotów, o których mowa w pkt 1–3;
-- **5)** instytutów badawczych, Centrum Łukasiewicz oraz instytutów działających w ramach Sieci Badawczej Łukasiewicz;
-- **6)** uczelni niepublicznych;
-- **7)** federacji podmiotów systemu szkolnictwa wyższego i nauki.
+Ustawa określa zasady:
 
-1a. Przepisy art. 12k ust. 4 i 5, art. 12l, art. 12n, art. 13, art. 14, art. 15, art. 15a, art. 17a ust. 7, art. 19c–20a, art. 20e, art. 20gb, art. 20gc, art. 20m, art. 20n, art. 20q, art. 20r oraz art. 21–24 stosuje się również do podmiotu innego niż podmiot publiczny, realizującego zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia tych zadań lub ich zlecenia przez podmiot publiczny.
+### 1)
 
-2. (uchylony) 2a. Przepis art. 20ae stosuje się również do dostawców usług telekomunikacyjnych w rozumieniu art. 2 pkt 40 lit. a ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820), w zakresie, o którym mowa w art. 296 ust. 3 pkt 2 lit. e tej ustawy.
+ustanawiania Planu Informatyzacji Państwa oraz projektów informatycznych o publicznym zastosowaniu,
 
-3. Przepisów ustawy nie stosuje się do służb specjalnych w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366), Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej oraz Narodowego Banku Polskiego, z wyjątkiem art. 13 ust. 2 pkt 1, gdy w związku z realizacją zadań przez te podmioty istnieje obowiązek przekazywania danych do i od podmiotów niebędących organami administracji rządowej, oraz z wyjątkiem art. 13a, art. 19c i art. 19d.
+### 2)
 
-4. Przepisów art. 25, art. 25a i art. 28 nie stosuje się do instytutów badawczych, Centrum Łukasiewicz, instytutów działających w ramach Sieci Badawczej Łukasiewicz, uczelni, federacji podmiotów systemu szkolnictwa wyższego i nauki, Polskiej Akademii Nauk ani tworzonych przez nią jednostek organizacyjnych, Polskiej Komisji Akredytacyjnej, Rady Doskonałości Naukowej, Rzecznika Praw Obywatelskich, Trybunału Konstytucyjnego, Sądu Najwyższego, sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Prezesa Urzędu Ochrony Danych Osobowych, Komisji Nadzoru Finansowego ani Generalnego Inspektora Informacji Finansowej.
+ustalania minimalnych, gwarantujących otwartość standardów informatycznych, wymagań dla systemów teleinformatycznych używanych do realizacji zadań publicznych oraz dla rejestrów publicznych i wymiany informacji w formie elektronicznej z podmiotami publicznymi,
 
-**Art. 3.** Użyte w ustawie określenia oznaczają:
+### 3)
 
-**Art. 4.** Przepisy ustawy nie naruszają:
+dostosowania systemów teleinformatycznych używanych do realizacji zadań publicznych do minimalnych, gwarantujących otwartość standardów informatycznych, wymagań dla systemów teleinformatycznych używanych do realizacji zadań publicznych,
 
-**Art. 4a.**
+### 4)
 
-1. Minister właściwy do spraw informatyzacji może realizować swoje zadania przy pomocy instytucji gospodarki budżetowej, wobec której wykonuje funkcje organu założycielskiego.
+dostosowania rejestrów publicznych i wymiany informacji w formie elektronicznej z podmiotami publicznymi do minimalnych, gwarantujących otwartość standardów informatycznych, wymagań dla rejestrów publicznych i wymiany informacji z podmiotami publicznymi,
 
-2. Realizacja zadań, o których mowa w ust. 1, może być finansowana ze środków określonych w:
+### 5)
 
-- **1)** umowie, przewidującej:
-    - **a)** wynagrodzenie za wykonywanie tych zadań, w tym udzielenie zaliczki,
-    - **b)** rozliczenie na podstawie poniesionych kosztów i rozsądnego zysku;
+kontroli projektów informatycznych o publicznym zastosowaniu, systemów teleinformatycznych używanych do realizacji zadań publicznych, rejestrów publicznych i wymiany informacji w formie elektronicznej z podmiotami publicznymi,
 
-- **2)** innej umowie;
-- **3)** dotacji celowej udzielanej przez ministra właściwego do spraw informatyzacji.
+### 6)
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze zarządzenia, sposób nadzoru i rozliczania realizacji zadań powierzonych w umowie, o której mowa w ust. 2 pkt 1, mając na względzie prawidłowość ich realizacji.
+wymiany informacji drogą elektroniczną, w tym dokumentów elektronicznych, pomiędzy podmiotami publicznymi a podmiotami niebędącymi podmiotami publicznymi,
 
-4. W przypadku zawarcia umowy, o której mowa w ust. 2 pkt 1, o przeznaczeniu zysku netto decyduje minister właściwy do spraw informatyzacji po zatwierdzeniu sprawozdania finansowego tej instytucji. Przepis art. 28 ust. 8 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio, z uwzględnieniem ust. 5.
+### 7)
 
-5. Minister właściwy do spraw informatyzacji może wydać wiążące polecenie dokonania wpłaty środków pieniężnych stanowiących zysk netto, o którym mowa w ust. 4, lub zgromadzonych na funduszu zapasowym tej jednostki, na rzecz Funduszu ‒ Centralnej Ewidencji Pojazdów i Kierowców, o którym mowa w art. 80d ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251 oraz z 2025 r. poz. 820 i 1006).
+ustalania i publikacji specyfikacji rozwiązań stosowanych w oprogramowaniu umożliwiającym łączenie i wymianę informacji, w tym przesłanie dokumentów elektronicznych, pomiędzy systemami teleinformatycznymi podmiotów publicznych a systemami podmiotów niebędącymi podmiotami publicznymi,
 
-6. Szef Kancelarii Prezesa Rady Ministrów lub minister kierujący działem administracji rządowej, za zgodą ministra właściwego do spraw informatyzacji, może powierzyć realizację swoich zadań z zakresu informatyzacji instytucji, o której mowa w ust. 1, udzielając dotacji celowej. Art. 4aa. 1. W przypadku uzasadnionym istotnym interesem bezpieczeństwa państwa Prezes Rady Ministrów, na wniosek Szefa Kancelarii Prezesa Rady Ministrów, może powierzyć realizację obsługi informatycznej Kancelarii Prezesa Rady Ministrów na czas określony, instytucji, o której mowa w art. 4a ust. 1.
+- w celu ochrony interesu publicznego, w tym zachowania przez Państwo możliwości swobody wyboru technologii w procesach informatyzacji realizacji zadań publicznych.
 
-2. Informację o powierzeniu realizacji zadania, o którym mowa w ust. 1, otrzymuje:
+### Art. 2.
 
-- **1)** wnioskodawca;
-- **2)** instytucja, o której mowa w art. 4a ust. 1, oraz
-- **3)** minister właściwy do spraw informatyzacji.
+### 1.
 
-3. Koszty realizacji zadania, o którym mowa w ust. 1, ponosi Kancelaria Prezesa Rady Ministrów. Przepisy art. 4a ust. 2 pkt 1 stosuje się odpowiednio.
+Z zastrzeżeniem ust. 2 i 3, przepisy ustawy stosuje się do realizujących zadania publiczne określone przez ustawy:
 
-**Art. 4b.**
+### 1)
 
-1. Minister właściwy do spraw informatyzacji może upoważnić do wykonywania zadań w jego imieniu dyrektora instytucji, o której mowa w art. 4a ust. 1.
+organów administracji rządowej, organów kontroli państwowej i ochrony prawa, sądów, jednostek organizacyjnych prokuratury, a także jednostek samorządu terytorialnego i ich organów,
 
-2. Upoważnienie, o którym mowa w ust. 1, obejmuje uprawnienie do udzielania dalszych upoważnień osobom zatrudnionym w tej instytucji.
+### 2)
 
-3. Upoważnienie, o którym mowa w ust. 1 i 2, jest udzielane na piśmie w drodze imiennego upoważnienia lub upoważnienia stanowiskowego.
+jednostek budżetowych, zakładów budżetowych i gospodarstw pomocniczych jednostek budżetowych,
 
-4. W przypadku wątpliwości co do udzielenia upoważnienia, o którym mowa w ust. 1 i 2, lub jego zakresu minister właściwy do spraw informatyzacji może potwierdzić ważność podjętych czynności.
+### 3)
 
-**Art. 4c.**
+funduszy celowych,
 
-1. Minister właściwy do spraw informatyzacji jest właściwym organem odpowiedzialnym za stosowanie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/903 z dnia 13 marca 2024 r. w sprawie ustanowienia środków na rzecz wysokiego poziomu interoperacyjności sektora publicznego na terytorium Unii (akt w sprawie Interoperacyjnej Europy) (Dz. Urz. UE L 2024/903 z 22.03.2024), zwanego dalej „rozporządzeniem 2024/903”, oraz pojedynczym punktem kontaktowym, w rozumieniu art. 17 ust. 1 rozporządzenia 2024/903.
+### 4)
 
-2. Minister właściwy do spraw informatyzacji wyznacza przedstawiciela w Radzie ds. Interoperacyjnej Europy, o której mowa w art. 15 ust. 1 rozporządzenia 2024/903, spośród osób zatrudnionych w urzędzie obsługującym tego ministra, które posiadają kompetencje i wiedzę z zakresu interoperacyjności transgranicznej, o której mowa w art. 2 pkt 1 rozporządzenia 2024/903.
+samodzielnych publicznych zakładów opieki zdrowotnej,
 
-3. Do zadań ministra właściwego do spraw informatyzacji, o których mowa w ust. 1 i 2, przepisów art. 4a i art. 4b nie stosuje się.
+### 5)
 
-#### Rozdział 2 Strategia dotycząca informatyzacji państwa oraz pełnomocnicy do spraw informatyzacji
+Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego,
 
-**Art. 5.** (uchylony)
+### 6)
 
-**Art. 6.** (uchylony)
+Narodowego Funduszu Zdrowia,
 
-**Art. 7.** (uchylony)
+### 7)
 
-**Art. 8.** (uchylony)
+państwowych lub samorządowych osób prawnych utworzonych na podstawie odrębnych ustaw w celu realizacji zadań publicznych
 
-**Art. 9.** (uchylony)
+- zwanych dalej „podmiotami publicznymi”.
 
-**Art. 10.** (uchylony)
+### 2.
 
-**Art. 11.** (uchylony)
+Przepis art. 13 ust. 2 pkt 1 stosuje się również do podmiotu, któremu podmiot publiczny powierzył lub zlecił realizację zadania publicznego, jeżeli w związku z realizacją tego zadania istnieje obowiązek przekazywania informacji do lub od podmiotów niebędących organami administracji rządowej.
 
-**Art. 12.** (uchylony)
+### 3.
 
-**Art. 12a.** (uchylony) Art. 12aa. 1. Rada Ministrów przyjmuje, w drodze uchwały, strategię dotyczącą informatyzacji państwa, zwaną dalej „strategią”. 2. Strategia określa:
+Przepisów ustawy nie stosuje się do przedsiębiorstw państwowych, spółek handlowych, jednostek badawczo-rozwojowych, państwowych szkół wyższych i państwowych wyższych szkół zawodowych, Polskiej Akademii Nauk i tworzonych przez nią jednostek organizacyjnych, służb specjalnych w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i Nr 166, poz. 1609 oraz z 2004 r. Nr 109, poz. 1159, Nr 171, poz. 1800, Nr 267, poz. 2647 i Nr 273, poz. 2703.](#gloss-0:2:)), Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Rzecznika Praw Obywatelskich, Trybunału Konstytucyjnego, Sądu Najwyższego, sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Narodowego Banku Polskiego, poza przypadkami gdy w związku z realizacją zadań przez te podmioty istnieje obowiązek przekazywania informacji do i od podmiotów niebędących organami administracji rządowej; w takim przypadku stosuje się art. 13 ust. 2 pkt 1 ustawy.
 
-**Art. 12b.** (uchylony)
+### Art. 3.
 
-**Art. 12c.** (uchylony)
+Użyte w ustawie określenia oznaczają:
 
-**Art. 12d.** (uchylony)
+### 1)
 
-**Art. 12e.** (uchylony)
+informatyczny nośnik danych - materiał lub urządzenie służące do zapisywania, przechowywania i odczytywania danych w postaci cyfrowej lub analogowej;
 
-**Art. 12f.** (uchylony)
+### 2)
 
-**Art. 12g.** (uchylony)
+dokument elektroniczny - stanowiący odrębną całość znaczeniową zbiór danych uporządkowanych w określonej strukturze wewnętrznej i zapisany na informatycznym nośniku danych;
 
-**Art. 12h.** (uchylony)
+### 3)
 
-**Art. 12i.** (uchylony)
+system teleinformatyczny - system teleinformatyczny w rozumieniu art. 2 pkt 3 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ([Dz. U. Nr 144, poz. 1204](https://api.sejm.gov.pl/eli/acts/DU/2002/1204/text.html) oraz z [2004 r. Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html) i [Nr 173, poz. 1808](https://api.sejm.gov.pl/eli/acts/DU/2004/1808/text.html));
 
-#### Rozdział 3 Architektura Informacyjna Państwa, systemy teleinformatyczne używane do realizacji zadań publicznych, wymiana danych z podmiotami publicznymi, rejestry publiczne oraz Komitet do spraw Cyfryzacji
+### 4)
 
-**Art. 12j.**
+środki komunikacji elektronicznej - środki komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną;
 
-1. Minister właściwy do spraw informatyzacji opracowuje i rozwija Architekturę Informacyjną Państwa.
+### 5)
 
-2. Minister właściwy do spraw informatyzacji prowadzi repozytorium Architektury Informacyjnej Państwa, w którym są gromadzone w szczególności modele architektoniczne oraz pryncypia, standardy, wytyczne i rekomendacje architektoniczne – z wykorzystaniem systemu teleinformatycznego.
+rejestr publiczny - rejestr, ewidencję, wykaz, listę, spis albo inną formę ewidencji, służące do realizacji zadań publicznych, prowadzone przez podmiot publiczny na podstawie odrębnych przepisów ustawowych;
 
-3. Minister właściwy do spraw informatyzacji udostępnia pryncypia, standardy, wytyczne i rekomendacje architektoniczne Architektury Informacyjnej Państwa na stronie internetowej, której adres elektroniczny jest udostępniony w Biuletynie Informacji Publicznej na stronie podmiotowej ministra. <Art. 12k. 1. Minister właściwy do spraw informatyzacji prowadzi repozytorium interoperacyjności z wykorzystaniem powszechnie dostępnego systemu teleinformatycznego, w tym zapewnia mechanizm monitorowania dostępności interfejsów programistycznych aplikacji systemów teleinformatycznych służących do prowadzenia rejestrów publicznych.
+### 6)
 
-2. Głównymi funkcjonalnościami repozytorium interoperacyjności są publikowanie i udostępnianie informacji służących do zapewnienia interoperacyjności.
+projekt informatyczny o publicznym zastosowaniu - określony w dokumentacji zespół czynności organizacyjnych i technicznych mających na celu zbudowanie, rozbudowanie lub unowocześnienie systemu teleinformatycznego używanego do realizacji zadań publicznych, świadczenie usług dotyczących utrzymania tego systemu lub opracowanie procedur realizowania zadań publicznych drogą elektroniczną;
 
-3. Repozytorium interoperacyjności zawiera w szczególności następujące kategorie informacji:
+### 7)
 
-- **1)** metadane rejestrów publicznych, w tym:
-    - **a)** pełną i skróconą nazwę rejestru publicznego,
-    - **b)** opis rejestru publicznego,
-    - **c)** nazwę organu prowadzącego rejestr publiczny oraz numer identyfikacyjny REGON podmiotu, który obsługuje ten organ w zakresie prowadzenia rejestru publicznego, jeżeli posiada taki numer,
-    - **d)** kategorię przedmiotową i status funkcjonowania rejestru publicznego, określone w przepisach wydanych na podstawie art. 12m,
-    - **e)** podstawę prawną prowadzenia rejestru publicznego i datę jego utworzenia,
-    - **f)** podstawę prawną i datę zakończenia prowadzenia rejestru publicznego – w przypadku zakończenia prowadzenia rejestru publicznego,
-    - **g)** struktury danych i znaczenie danych zawartych w tych strukturach dla danych gromadzonych w rejestrze publicznym,
-    - **h)** formaty plików, w których są udostępniane dane z rejestru publicznego,
-    - **i)** informacje, o których mowa w art. 14 ust. 1a pkt 3,
-    - **j)** terminy udostępniania danych zgromadzonych w rejestrze publicznym,
-    - **k)** informacje o pojedynczym punkcie kontaktowym dla rejestru publicznego, o którym mowa w art. 14 ust. 1a pkt 4;
+ponadsektorowy projekt informatyczny - projekt informatyczny o publicznym zastosowaniu, którego zakres przedmiotowy dotyczy spraw należących do właściwości więcej niż jednego działu administracji rządowej;
 
-- **2)** informacje o interfejsach programistycznych aplikacji systemów teleinformatycznych używanych do realizacji zadań publicznych, o których mowa w art. 13 ust. 5;
-- **3)** wyniki ocen interoperacyjności krajowej, o których mowa w art. 12n ust. 3;
-- **4)** sprawozdania przedstawiające wyniki ocen interoperacyjności, o których mowa w art. 3 ust. 1 rozporządzenia 2024/903;
-- **5)** informacje o systemie rejestrów państwowych, o których mowa w art. 13b ust. 2;
-- **6)** raporty z przeglądu standardów oraz specyfikacji, o których mowa w art. 18a.
+### 8)
 
-4. Podmiot prowadzący rejestr publiczny z wykorzystaniem systemu teleinformatycznego lub używający systemu teleinformatycznego do realizacji zadań publicznych:
+sektorowy projekt informatyczny - projekt informatyczny o publicznym zastosowaniu, którego zakres przedmiotowy dotyczy spraw należących do właściwości jednego działu administracji rządowej;
 
-- **1)** publikuje w repozytorium interoperacyjności informacje, o których mowa w ust. 3 pkt 1–4, albo wskazuje podstawę prawną, z której wynika obowiązek zachowania niejawności takich informacji;
-- **2)** zapewnia jakość, w tym poprawność, aktualność oraz kompletność publikowanych informacji, o których mowa w ust. 3 pkt 1–4.
+### 9)
 
-5. Jeżeli rejestr publiczny jest prowadzony z wykorzystaniem systemu teleinformatycznego przez więcej niż jeden podmiot, do publikowania informacji, o których mowa w ust. 3 pkt 1–4, a także do zapewnienia ich jakości, w tym poprawności, aktualności oraz kompletności, jest obowiązany podmiot, który prowadzi ten system teleinformatyczny.
+minimalne wymagania dla systemów teleinformatycznych - zespół wymagań organizacyjnych i technicznych, których spełnienie przez system teleinformatyczny używany do realizacji zadań publicznych umożliwia wymianę danych z innymi systemami teleinformatycznymi używanymi do realizacji zadań publicznych oraz zapewnia dostęp do zasobów informacji udostępnianych za pomocą tych systemów;
 
-**Art. 12l.** Podmioty obowiązane na podstawie przepisów odrębnych do przekazywania danych podmiotom realizującym zadania publiczne stosują, w ramach przekazywania takich danych, rozwiązania zapewniające zgodność z metadanymi rejestrów publicznych i interfejsami programistycznymi aplikacji systemów teleinformatycznych używanych do realizacji zadań publicznych, o których mowa w art. 12k ust. 3 pkt 1 i 2.
+### 10)
 
-**Art. 12m.** Rada Ministrów określi, w drodze rozporządzenia:
+minimalne wymagania dla rejestrów publicznych i wymiany informacji w formie elektronicznej - zespół cech informacyjnych, w tym identyfikatorów oraz odpowiadających im charakterystyk elementów strukturalnych przekazu informacji, takich jak zawartości pola danych, służących do zapewnienia spójności prowadzenia rejestrów publicznych oraz wymiany informacji w formie elektronicznej z podmiotami publicznymi;
 
-**Art. 12n.**
+### 11)
 
-1. Podmiot realizujący zadania publiczne przeprowadza ocenę interoperacyjności krajowej każdorazowo przed wprowadzeniem zmian w systemie teleinformatycznym używanym do realizacji zadań publicznych lub w rejestrze publicznym.
+oprogramowanie interfejsowe - oprogramowanie umożliwiające łączenie i wymianę danych w komunikacji pomiędzy systemami teleinformatycznymi;
 
-2. Ocena interoperacyjności krajowej zawiera:
+### 12)
 
-- **1)** opis wpływu zmian wprowadzanych w systemie teleinformatycznym używanym do realizacji działań publicznych lub w rejestrze publicznym na podmioty publiczne;
-- **2)** opis działań podjętych oraz planowanych do podjęcia w celu minimalizacji lub usunięcia negatywnego wpływu zmian na podmioty publiczne;
-- **3)** informację o negatywnym wpływie zmian na podmioty publiczne, który nie zostanie usunięty w ramach działań, o których mowa w pkt 2.
+testy akceptacyjne - udokumentowane wartości danych wejściowych wprowadzanych do systemu teleinformatycznego i powiązanych z nimi wartości oczekiwanych danych wyjściowych, opisujące zestawy poprawnych odpowiedzi systemu teleinformatycznego na podawane dane wejściowe, pozwalające na sprawdzenie poprawności wdrożenia oprogramowania interfejsowego.
 
-3. Podmiot realizujący zadania publiczne publikuje wynik oceny interoperacyjności krajowej w formacie nadającym się do odczytu maszynowego, ułatwiającym tłumaczenie maszynowe, w repozytorium interoperacyjności przed wprowadzeniem zmian. Publikacja, o której mowa w zdaniu pierwszym, następuje w terminie pozwalającym podmiotom publicznym na realizację zadań publicznych wynikających z przepisów odrębnych.
+### Art. 4.
 
-4. Przepisu ust. 1 nie stosuje się do działań prowadzonych w stosunku do systemów teleinformatycznych używanych do realizacji zadań publicznych oraz do rejestrów publicznych niewpływających na ich interoperacyjność, w szczególności do konserwacji oprogramowania, aktualizacji w zakresie bezpieczeństwa lub aktualizacji technicznych.>
+Przepisy ustawy nie naruszają:
 
-**Art. 13.** [1. Podmiot publiczny używa do realizacji zadań publicznych systemów teleinformatycznych spełniających minimalne wymagania dla systemów teleinformatycznych oraz zapewniających interoperacyjność systemów na zasadach określonych w Krajowych Ramach Interoperacyjności.] <1. Podmiot realizujący zadania publiczne używa do ich realizacji systemów teleinformatycznych:
+### 1)
 
-**Art. 13a.** Podmioty publiczne, o których mowa w art. 2 ust. 1, służby specjalne w rozumieniu art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, Kancelaria Sejmu, Kancelaria Senatu, Kancelaria Prezydenta Rzeczypospolitej Polskiej, Narodowy Bank Polski, agencje wykonawcze w rozumieniu art. 18 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz podmioty, o których mowa w art. 2 ust. 4, niewskazane wprost w art. 2 ust. 1, uprawnione do wykonywania praw majątkowych do programu komputerowego stworzonego przez pracowników w ramach wykonywania obowiązków ze stosunku pracy świadczonej na rzecz tych podmiotów, mogą umożliwić sobie wzajemnie nieodpłatne korzystanie z tego programu komputerowego. Art. 13aa. (uchylony)
+ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html) i [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html) oraz z [2004 r. Nr 25, poz. 219](https://api.sejm.gov.pl/eli/acts/DU/2004/219/text.html) i [Nr 33, poz. 285](https://api.sejm.gov.pl/eli/acts/DU/2004/285/text.html));
 
-**Art. 13b.**
+### 2)
 
-1. Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie systemu rejestrów państwowych, stanowiącego rozwiązanie organizacyjno-techniczne, wykorzystywane do prowadzenia rejestrów publicznych.
+ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ([Dz. U. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 17, poz. 155 oraz z 2004 r. Nr 29, poz. 257.](#gloss-0:3:)).
 
-2. [Minister właściwy do spraw informatyzacji określi i udostępni w Biuletynie Informacji Publicznej na stronie podmiotowej ministra:] <Minister właściwy do spraw informatyzacji określi i udostępni w repozytorium interoperacyjności:>
+### Rozdział 2 Plan Informatyzacji Państwa oraz projekty informatyczne o publicznym zastosowaniu
 
-- **1)** standardy technologiczne funkcjonowania systemu rejestrów państwowych oraz wymiany danych przetwarzanych w rejestrach publicznych utrzymywanych z wykorzystaniem systemu rejestrów państwowych; [2) informacje o rejestrach prowadzonych w systemie rejestrów państwowych.] <2) informacje o rejestrach publicznych prowadzonych w systemie rejestrów państwowych.>
+### Art. 5.
 
-**Art. 14.**
+### 1.
 
-1. Podmiot realizujący zadania publiczne prowadzący rejestr publiczny jest obowiązany prowadzić ten rejestr zgodnie z minimalnymi wymaganiami dla rejestrów publicznych, określającymi kluczowe typy i identyfikatory obiektów w rejestrach publicznych oraz zasady prowadzenia rejestru publicznego i dostępu do niego. <1a. Podmiot prowadzący rejestr publiczny, z wyjątkiem jednostki samorządu terytorialnego, związku takich jednostek, związku metropolitalnego, samorządowej jednostki budżetowej, samorządowego zakładu budżetowego, samorządowej instytucji kultury, samorządowej osoby prawnej utworzonej na podstawie odrębnych ustaw w celu wykonywania zadań publicznych oraz innej samorządowej jednostki organizacyjnej nieposiadającej osobowości prawnej, jest obowiązany:
+Plan Informatyzacji Państwa, zwany dalej „Planem”, jest instrumentem planowania i koordynowania informatyzacji działalności podmiotów publicznych w zakresie realizowanych przez te podmioty zadań publicznych.
 
-- **1)** prowadzić ten rejestr z wykorzystaniem systemu teleinformatycznego;
-- **2)** umożliwiać dostarczanie danych do tego rejestru oraz udostępnianie danych z tego rejestru za pomocą środków komunikacji elektronicznej, w szczególności przez interfejsy programistyczne aplikacji systemów teleinformatycznych, z wykorzystaniem których jest zapewniany dostęp do rejestru publicznego;
-- **3)** opracować i aktualizować:
-    - **a)** listę słowników, schematów klasyfikacyjnych, taksonomii oraz list kodowych dla danych gromadzonych w rejestrze publicznym,
-    - **b)** warunki oraz procedurę dostępu do danych gromadzonych w rejestrze publicznym,
-    - **c)** warunki ponownego wykorzystania danych gromadzonych w rejestrze publicznym,
-    - **d)** procedurę zgłaszania niezgodności danych w rejestrze publicznym ze stanem faktycznym – w przypadku gdy taka procedura nie została określona w przepisach regulujących funkcjonowanie rejestru publicznego;
+### 2.
 
-- **4)** zapewniać prowadzenie pojedynczego punktu kontaktowego dla rejestru publicznego, za pomocą którego są udzielane informacje pozwalające na zapewnienie interoperacyjności w odniesieniu do prowadzonego rejestru publicznego.
+Plan ma na celu:
 
-1b. W przypadku gdy jednostka samorządu terytorialnego, związek takich jednostek, związek metropolitalny, samorządowa jednostka budżetowa, samorządowy zakład budżetowy, samorządowa instytucja kultury, samorządowa osoba prawna utworzona na podstawie odrębnych ustaw w celu wykonywania zadań publicznych lub samorządowa jednostka organizacyjna nieposiadająca osobowości prawnej prowadzą rejestr publiczny z wykorzystaniem systemu teleinformatycznego, przepisy ust. 1a pkt 2–4 stosuje się.> [2. Organ administracji rządowej zapewnia działanie rejestru publicznego, używając systemów teleinformatycznych.]
+### 1)
 
-3. Podmiot prowadzący z wykorzystaniem systemu teleinformatycznego rejestr publiczny, który zawiera dane osób fizycznych, dokonuje uprzedniej weryfikacji danych wprowadzanych po raz pierwszy do tego rejestru pod względem zgodności tych danych z danymi zgromadzonymi w rejestrze PESEL.
+określenie organizacyjnych i technologicznych instrumentów rozwoju społeczeństwa informacyjnego;
 
-4. W przypadku wprowadzenia po raz pierwszy do rejestru publicznego danych osoby nieposiadającej numeru PESEL podmiot prowadzący ten rejestr nie przeprowadza weryfikacji tych danych.
+### 2)
 
-5. Weryfikacja, o której mowa w ust. 3, polega na porównaniu danych wprowadzanych do rejestru publicznego z danymi zawartymi w rejestrze PESEL i jest realizowana zgodnie z art. 49 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności.
+koordynację realizowanych przez więcej niż jeden podmiot publiczny projektów informatycznych o publicznym zastosowaniu;
 
-6. System teleinformatyczny, przy użyciu którego zapewnione jest działanie rejestru publicznego, w przypadku pozytywnego wyniku weryfikacji, o której mowa w ust. 3, automatycznie wprowadza dane do rejestru, o ile przepisy odrębne nie stanowią inaczej.
+### 3)
 
-7. W przypadku negatywnego wyniku weryfikacji, o której mowa w ust. 3, podmiot prowadzący rejestr publiczny niezwłocznie przekazuje właściwemu organowi wskazanemu w art. 10 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności informację o negatywnym wyniku weryfikacji oraz posiadane dokumenty stanowiące podstawę stwierdzenia wskazanej niezgodności, ich uwierzytelnione kopie lub odpisy, chyba że przepisy ustaw odrębnych uniemożliwiają ich przekazanie.
+modernizację oraz łączenie systemów teleinformatycznych używanych do realizacji zadań publicznych;
 
-8. W przypadku braku dostępu do rejestru PESEL z przyczyn niezależnych od podmiotu prowadzącego rejestr publiczny przepisów ust. 3 i 5 nie stosuje się.
+### 4)
 
-9. Podmiot otrzymujący dane z rejestru publicznego jest obowiązany chronić je na poziomie nie niższym niż poziom, który ma zastosowanie w przypadku tego rejestru.
+zapewnienie warunków bezpieczeństwa i zgodności działania systemów teleinformatycznych używanych do realizacji zadań publicznych;
 
-**Art. 15.**
+### 5)
 
-1. Podmiot prowadzący rejestr publiczny zapewnia podmiotowi publicznemu albo podmiotowi niebędącemu podmiotem publicznym, realizującym zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny ich realizacji, nieodpłatny dostęp do danych zgromadzonych w prowadzonym rejestrze, w zakresie niezbędnym do realizacji tych zadań. [2. Dane, o których mowa w ust. 1, powinny być udostępniane za pomocą środków komunikacji elektronicznej i mogą być wykorzystane wyłącznie do realizacji zadań publicznych.] <2. Dane, o których mowa w ust. 1, są udostępniane za pomocą środków komunikacji elektronicznej, w szczególności przez interfejsy programistyczne aplikacji systemów teleinformatycznych, z wykorzystaniem których jest zapewniany dostęp do rejestru publicznego, i mogą być wykorzystane wyłącznie do realizacji zadań publicznych.>
+tworzenie warunków do rozwoju współpracy międzynarodowej w zakresie informatyzacji.
 
-3. Rada Ministrów określi, w drodze rozporządzenia, sposób, zakres i tryb udostępniania danych, o których mowa w ust. 1, mając na uwadze potrzebę usprawnienia realizacji zadań publicznych, zapewnienia szybkiego i bezpiecznego dostępu do danych oraz zabezpieczenia wykorzystania danych do celów realizacji zadań publicznych.
+### 3.
 
-4. Przekazanie przez podmiot prowadzący rejestr publiczny danych z rejestru do ich ponownego wykorzystywania w celu innym niż realizacja zadania publicznego następuje na zasadach określonych w ustawie z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
+Plan zawiera:
 
-**Art. 15a.**
+### 1)
 
-1. Podmiot publiczny udostępnia dane gromadzone w prowadzonym rejestrze publicznym lub w systemie teleinformatycznym innemu podmiotowi publicznemu lub podmiotowi, o którym mowa w art. 19c ust. 1, z uwzględnieniem zasad przewidzianych w przepisach szczególnych dotyczących odpowiednio tego rejestru lub danych gromadzonych w tym systemie teleinformatycznym, wyłącznie na potrzeby usługi online, która jest świadczona na rzecz osoby albo podmiotu przy użyciu systemu teleinformatycznego.
+określenie priorytetów rozwoju systemów teleinformatycznych używanych do realizacji zadań publicznych;
 
-2. Udostępnienie danych, o których mowa w ust. 1, następuje na każdorazowy wniosek osoby albo podmiotu, na rzecz których świadczona jest usługa online i których te dane dotyczą, po ich uwierzytelnieniu w sposób, o którym mowa w art. 20a ust. 1. Osobie lub podmiotowi, których dane są udostępniane, zapewnia się wgląd do udostępnionych danych.
+### 2)
 
-2a. Wniosek, o którym mowa w ust. 2, kieruje się do podmiotu, o którym mowa w ust. 1, za pośrednictwem podmiotu udostępniającego usługę online.
+zestawienie oraz charakterystykę ponadsektorowych i sektorowych projektów informatycznych służących realizacji priorytetów, o których mowa w pkt 1, szacunkowe koszty realizacji tych projektów oraz wskazanie możliwych źródeł ich finansowania;
 
-3. Jeżeli podmiot świadczący usługę online, o której mowa w ust. 1, posiada dostęp do danych osoby albo podmiotu, na rzecz których świadczona jest usługa online, zgromadzonych w rejestrze publicznym lub systemie teleinformatycznym wynikający:
+### 3)
 
-- **1)** z jawności tych danych lub
-- **2)** z przepisów szczególnych uprawniających ten podmiot do dostępu do tych danych – a dostęp ten może być realizowany w sposób, o którym mowa w ust. 4, udostępnienie tych danych jest realizowane bez konieczności składania wniosku. [4. Udostępnienie danych, o których mowa w ust. 1, następuje za pośrednictwem usług sieciowych między systemem teleinformatycznym, z którego udostępniane są dane, a systemem teleinformatycznym, przy użyciu którego świadczona jest usługa online.] <4. Udostępnienie danych, o których mowa w ust. 1, następuje za pośrednictwem interfejsów programistycznych aplikacji między systemem teleinformatycznym, z którego udostępniane są dane, a systemem teleinformatycznym, przy użyciu którego świadczona jest usługa online.>
+program działań w zakresie rozwoju społeczeństwa informacyjnego;
 
-5. Warunki udostępniania danych, o których mowa w ust. 1, określa się w porozumieniu, z uwzględnieniem przepisów szczególnych regulujących funkcjonowanie rejestrów lub systemów teleinformatycznych, z których wnioskowane dane pochodzą. [6. Udostępnienie usług sieciowych, o których mowa w ust. 4, następuje w terminie określonym w porozumieniu, nie dłuższym jednak niż 12 miesięcy od zawarcia tego porozumienia.] <6. Udostępnienie interfejsów programistycznych aplikacji, o których mowa w ust. 4, następuje w terminie określonym w porozumieniu, nie dłuższym jednak niż 12 miesięcy od dnia zawarcia tego porozumienia.
+### 4)
 
-7. Udostępniane dane, o których mowa w ust. 1, są wykorzystywane wyłącznie do realizacji usługi online świadczonej na rzecz osoby albo podmiotu, o których mowa w ust. 2, w celu:
+określenie zadań publicznych, które będą realizowane z wykorzystaniem drogi elektronicznej, oraz terminów rozpoczęcia ich realizacji.
 
-- **1)** uzupełnienia zakresu użytkowego dokumentu elektronicznego wymaganego w związku ze świadczoną usługą online;
-- **2)** potwierdzenia faktów lub stanu prawnego wymaganego w związku ze świadczoną usługą online.
+### Art. 6.
 
-**Art. 15b.**
+### 1.
 
-1. Podmiot publiczny w celu ochrony interesu prawnego lub faktycznego osoby fizycznej, w szczególności w związku z realizowanymi na jej rzecz usługami, może wykorzystywać jej dane kontaktowe gromadzone w rejestrze publicznym lub systemach teleinformatycznych. Brak odpowiedzi osoby fizycznej na próbę nawiązania przez podmiot publiczny kontaktu z wykorzystaniem danych kontaktowych nie może negatywnie wpłynąć na jej sytuację prawną lub faktyczną.
+Rada Ministrów, na wniosek ministra właściwego do spraw informatyzacji, ustanawia, w drodze rozporządzenia, Plan Informatyzacji Państwa, mając na uwadze:
 
-2. Podmiot publiczny, wykorzystując dane kontaktowe osoby fizycznej, informuje ją o podstawie prawnej nawiązania kontaktu.
+### 1)
 
-**Art. 16.**
+informacje o stanie systemów teleinformatycznych używanych do realizacji zadań publicznych;
 
-1. Podmiot publiczny, który organizuje przetwarzanie danych w systemie teleinformatycznym, jest obowiązany zapewnić możliwość przekazywania danych przez wymianę dokumentów elektronicznych związanych z załatwianiem spraw należących do jego zakresu działania. Do przekazywania danych podmiot ten wykorzystuje informatyczne nośniki danych lub środki komunikacji elektronicznej. [1a. Podmiot publiczny udostępnia elektroniczną skrzynkę podawczą, spełniającą standardy określone i opublikowane na ePUAP przez ministra właściwego do spraw informatyzacji, oraz zapewnia jej obsługę.
+### 2)
 
-1b. Podmiot publiczny, w terminie 7 dni od dnia udostępnienia elektronicznej skrzynki podawczej, przekazuje ministrowi właściwemu do spraw informatyzacji informację o jej adresie.]
+informacje o podejmowanych przez podmioty publiczne działaniach służących rozwojowi społeczeństwa informacyjnego;
 
-2. Podmiot publiczny, o którym mowa w ust. 1, jest obowiązany prowadzić wymianę danych w postaci elektronicznej:
+### 3)
 
-- **1)** z wykorzystaniem systemów teleinformatycznych spełniających minimalne wymagania dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi;
-- **2)** zgodnie z minimalnymi wymaganiami dla rejestrów publicznych.
+potrzeby w zakresie informatyzacji działalności podmiotów publicznych;
 
-3. Prezes Rady Ministrów określi, w drodze rozporządzenia: [1) warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, w tym reguły tworzenia elektronicznej skrzynki podawczej,] [2) formę urzędowego poświadczania odbioru dokumentów elektronicznych przez adresatów,] [3) sposób sporządzania i doręczania dokumentów elektronicznych]
+### 4)
 
-- **4)** sposób udostępniania kopii dokumentów elektronicznych oraz warunki bezpieczeństwa udostępniania formularzy i wzorów dokumentów – uwzględniając minimalne wymagania dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi, minimalne wymagania dla rejestrów publicznych oraz potrzebę usprawnienia i ujednolicenia obiegu dokumentów między podmiotami publicznymi.
+możliwości finansowe państwa.
 
-**Art. 16a.**
+### 2.
 
-1. W przypadku gdy w przepisach prawa został wskazany organ właściwy do określenia wzoru dokumentu, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną, organ ten:
+Plan ustanawia się na okres nie dłuższy niż 5 lat.
 
-- **1)** przekazuje ministrowi właściwemu do spraw informatyzacji wzór dokumentu elektronicznego w celu umieszczenia go w centralnym repozytorium wzorów dokumentów elektronicznych, o którym mowa w art. 19b ust. 1;
-- **2)** przekazuje ministrowi właściwemu do spraw informatyzacji opis usługi możliwej do zrealizowania przy wykorzystaniu wzoru dokumentu elektronicznego w celu zamieszczenia go w katalogu usług;
-- **3)** udostępnia na ePUAP lub w innym systemie teleinformatycznym formularz elektroniczny umożliwiający wygenerowanie dokumentu elektronicznego w celu złożenia go za pomocą środków komunikacji elektronicznej.
+### Art. 7.
 
-2. Czynności, o których mowa w ust. 1, organ realizuje w terminie 3 miesięcy od dnia wejścia w życie przepisów określających wzór dokumentu.
+W celu wykonania Planu ustanawia się projekty informatyczne, o których mowa w art. 8 i 9.
 
-3. Formularz elektroniczny udostępniony na ePUAP lub w innym systemie teleinformatycznym, którego funkcjonowanie zapewnia minister właściwy do spraw informatyzacji, spełnia standardy określone dla formularzy elektronicznych przez ministra właściwego do spraw informatyzacji, opublikowane w Biuletynie Informacji Publicznej na jego stronie podmiotowej.
+### Art. 8.
 
-4. W przypadku gdy formularz elektroniczny nie spełnia standardów, o których mowa w ust. 3, minister właściwy do spraw informatyzacji może wezwać organ do dostosowania, we wskazanym terminie, formularza elektronicznego do tych standardów.
+### 1.
 
-5. W przypadku niedostosowania we wskazanym terminie formularza elektronicznego do standardów, o których mowa w ust. 3, minister właściwy do spraw informatyzacji może usunąć formularz elektroniczny z systemu albo po zasięgnięciu opinii organu, który udostępnił formularz elektroniczny, dokonać jego modyfikacji.
+Rada Ministrów, na wniosek ministra właściwego do spraw informatyzacji, ustanawia, w drodze rozporządzenia, ponadsektorowy projekt informatyczny, uwzględniając w szczególności potrzeby w zakresie informatyzacji działalności podmiotów publicznych oraz możliwości finansowe państwa, a także określone w Planie priorytety rozwoju systemów teleinformatycznych używanych do realizacji zadań publicznych oraz określenie zadań publicznych realizowanych z wykorzystaniem drogi elektronicznej.
 
-6. W celu poprawienia funkcjonalności usługi minister właściwy do spraw informatyzacji może, po zasięgnięciu opinii organu właściwego do określenia wzoru dokumentu oraz w uzasadnionych przypadkach organów, w których właściwości pozostają sprawy związane z określonym w tym wzorze zakresem użytkowym dokumentu elektronicznego, udostępnić na ePUAP lub w innym systemie teleinformatycznym formularz elektroniczny.
+### 2.
 
-7. Jeżeli organ właściwy do określenia wzoru dokumentu nie określił wzoru dokumentu elektronicznego, minister właściwy do spraw informatyzacji może, po zasięgnięciu opinii organu właściwego do określenia wzoru dokumentu oraz w uzasadnionych przypadkach organów, w których właściwości pozostają sprawy związane z określonym w tym wzorze zakresem użytkowym dokumentu elektronicznego, określić wzór dokumentu elektronicznego.
+Ponadsektorowy projekt informatyczny, który ma być realizowany w okresie dłuższym niż rok, może być ustanowiony jako program wieloletni w rozumieniu przepisów ustawy z dnia 26 listopada 1998 r. o finansach publicznych ([Dz. U. z 2003 r. Nr 15, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2003/148/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.](#gloss-0:4:)).
 
-8. W przypadku określenia wzoru dokumentu elektronicznego przez ministra właściwego do spraw informatyzacji ust. 1 pkt 1–3 stosuje się odpowiednio.
+### Art. 9.
 
-**Art. 16b.**
+### 1.
 
-1. W przypadku gdy w przepisach prawa nie został wskazany organ właściwy do określenia wzoru dokumentu, wzór dokumentu elektronicznego może przekazać do centralnego repozytorium wzorów dokumentów elektronicznych organ, w którego właściwości pozostają sprawy związane z określonym w tym wzorze zakresem użytkowym dokumentów elektronicznych, lub minister właściwy do spraw informatyzacji po zasięgnięciu w uzasadnionych przypadkach opinii organów, w których właściwości pozostają sprawy związane z określonym w tym wzorze zakresem użytkowym dokumentu elektronicznego.
+Minister właściwy do spraw działu administracji rządowej, którego dotyczy projekt, po zasięgnięciu opinii ministra właściwego do spraw informatyzacji, ustanawia, w drodze rozporządzenia, sektorowy projekt informatyczny, uwzględniając w szczególności potrzeby w zakresie informatyzacji działalności podmiotów publicznych w ramach danego działu administracji rządowej oraz możliwości finansowe państwa, a także określone w Planie priorytety rozwoju systemów teleinformatycznych używanych do realizacji zadań publicznych oraz określenie zadań publicznych realizowanych z wykorzystaniem drogi elektronicznej.
 
-2. Do przekazania, o którym mowa w ust. 1, stosuje się art. 16a ust. 1.
+### 2.
 
-**Art. 17.**
+Minister właściwy do spraw działu administracji rządowej, którego dotyczy sektorowy projekt informatyczny, po zasięgnięciu opinii ministra właściwego do spraw informatyzacji, może wystąpić z wnioskiem do Rady Ministrów o ustanowienie sektorowego projektu informatycznego, który ma być realizowany w okresie dłuższym niż rok, jako programu wieloletniego w rozumieniu przepisów ustawy z dnia 26 listopada 1998 r. o finansach publicznych.
 
-1. Przy ministrze właściwym do spraw informatyzacji działa Rada do Spraw Cyfryzacji, zwana dalej „Radą”. Rada jest organem opiniodawczo-doradczym ministra.
+### Art. 10.
 
-2. Do zadań Rady należy:
+W akcie o ustanowieniu projektu informatycznego, o którym mowa w art. 8 i 9, określa się w szczególności:
 
-- **1)** proponowanie i opiniowanie na zlecenie ministra właściwego do spraw informatyzacji projektów stanowisk Rady Ministrów w sprawie dokumentów Komisji Europejskiej i Parlamentu Europejskiego dotyczących informatyzacji;
-- **1a)** opiniowanie projektu strategii oraz innych dokumentów rządowych, w tym projektów strategii rozwoju i projektów programów, w rozumieniu przepisów ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, dotyczących informatyzacji państwa;
-- **2)** opiniowanie projektów przepisów wydawanych na podstawie art. 18;
-- **3)** opiniowanie innych projektów aktów prawnych i innych dokumentów dotyczących informatyzacji państwa przekazanych przez ministra właściwego do spraw informatyzacji;
-- **4)** opiniowanie na zlecenie ministra właściwego do spraw informatyzacji raportów i innych opracowań dotyczących:
-    - **a)** potrzeb i postulatów dotyczących rozwoju społeczeństwa informacyjnego,
-    - **b)** zasad funkcjonowania rejestrów publicznych,
-    - **c)** zasad wdrażania systemów teleinformatycznych w administracji publicznej oraz stanu ich realizacji,
-    - **d)** aktualnych rozwiązań technicznych mających zastosowanie w informatyzacji administracji, rozwoju sieci i usług szerokopasmowych,
-    - **e)** terminologii polskiej z zakresu informatyki.
+### 1)
 
-3. Rada może inicjować działania na rzecz informatyzacji, rozwoju rynku technologii informatyczno-komunikacyjnych oraz rozwoju społeczeństwa informacyjnego.
+cel ustanowienia projektu;
 
-4. Rada wyraża opinię w terminie 30 dni od dnia otrzymania projektów lub propozycji, o których mowa w ust. 2.
+### 2)
 
-5. Opinie, protokoły posiedzeń oraz inne dokumenty Rady są publikowane w wydzielonej części Biuletynu Informacji Publicznej na stronach ministra właściwego do spraw informatyzacji.
+organ odpowiedzialny za realizację projektu;
 
-6. Rada przedstawia ministrowi właściwemu do spraw informatyzacji sprawozdanie z działalności za każdy rok kalendarzowy w terminie do dnia 30 kwietnia następnego roku.
+### 3)
 
-7. Rada składa się z od 15 do 20 członków.
+zakres zadań przewidzianych do realizacji w projekcie;
 
-8. Kandydatów na członków Rady mogą rekomendować:
+### 4)
 
-- **1)** ministrowie;
-- **2)** Naczelny Dyrektor Archiwów Państwowych;
-- **3)** Prezes Polskiego Komitetu Normalizacyjnego;
-- **4)** współprzewodniczący ze strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego;
-- **5)** podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ), które prowadzą badania naukowe lub prace rozwojowe w zakresie informatyki lub łączności;
-- **6)** izby gospodarcze reprezentujące przedsiębiorców wykonujących działalność gospodarczą w zakresie gospodarki elektronicznej, komunikacji, mediów, wytwarzania sprzętu informatycznego, oprogramowania lub świadczenia usług informatycznych;
-- **7)** stowarzyszenia wpisane do Krajowego Rejestru Sądowego, których celem statutowym jest reprezentowanie środowiska informatycznego lub wspieranie zastosowań informatyki, gospodarki elektronicznej, komunikacji lub mediów.
+źródła finansowania i szacunkowe koszty realizacji projektu;
 
-9. Rekomendowany do Rady kandydat powinien posiadać wykształcenie wyższe oraz wyrazić zgodę na kandydowanie.
+### 5)
 
-10. Minister właściwy do spraw informatyzacji powołuje skład Rady na dwuletnią kadencję spośród kandydatów rekomendowanych przez podmioty, o których mowa w ust. 8.
+harmonogram realizacji projektu.
 
-11. Przed upływem kadencji członkostwo w Radzie wygasa z powodu:
+### Art. 11.
 
-- **1)** rezygnacji członka Rady złożonej na piśmie Przewodniczącemu Rady;
-- **2)** śmierci członka Rady;
-- **3)** niemożności sprawowania funkcji członka Rady z powodu długotrwałej choroby stwierdzonej zaświadczeniem lekarskim;
-- **4)** wycofania rekomendacji podmiotu, o której mowa w ust. 8.
+Do wniosku, o którym mowa w art. 8 ust. 1 i art. 9 ust. 2, oraz do wniosku o opinię, o której mowa w art. 9 ust. 1 i 2, dołącza się:
 
-12. W przypadkach, o których mowa w ust. 11, minister właściwy do spraw informatyzacji powołuje na członka Rady osobę spośród pozostałych rekomendowanych kandydatów po sprawdzeniu aktualności rekomendacji.
+### 1)
 
-13. Minister właściwy do spraw informatyzacji powołuje i odwołuje Przewodniczącego i Wiceprzewodniczącego Rady spośród jej członków.
+założenia funkcjonalne projektu informatycznego o publicznym zastosowaniu określające cel ustanowienia projektu, zadania służące realizacji celu, dla którego ustanawia się projekt, oraz harmonogram ich realizacji;
 
-14. Przewodniczący Rady kieruje jej pracami i reprezentuje ją na zewnątrz. W przypadku nieobecności Przewodniczącego zastępuje go Wiceprzewodniczący.
+### 2)
 
-15. Obsługę Rady zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji.
+analizę ekonomiczno-finansową celowości ustanowienia projektu informatycznego o publicznym zastosowaniu, określającą wielkość środków przewidywanych do sfinansowania zadań określonych w harmonogramie realizacji projektu, źródła finansowania tych zadań oraz korzyści wynikające z realizacji tego projektu;
 
-16. Na posiedzenie Rady mogą być zapraszane, przez ministra właściwego do spraw informatyzacji oraz Przewodniczącego Rady, inne osoby, o ile jest to wskazane dla realizacji zadań Rady.
+### 3)
 
-17. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wysokość wynagrodzenia członka Rady za udział w posiedzeniu, uwzględniając funkcje pełnione przez członków Rady i zakres obowiązków członków Rady, a także mając na uwadze, że wynagrodzenie za jedno posiedzenie Rady nie może przekroczyć 50 % minimalnego wynagrodzenia określonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu powołania Rady.
+założenia techniczne projektu informatycznego o publicznym zastosowaniu określające funkcje oraz składniki sprzętowe i oprogramowanie systemu teleinformatycznego, które, przy uwzględnieniu minimalnych wymagań dla systemów teleinformatycznych, posłużą do realizacji zadań zakładanych w projekcie.
 
-18. Zamiejscowym członkom Rady przysługują diety oraz zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423).
+### Art. 12.
 
-19. Szczegółowy tryb działania Rady określa jej regulamin ustanawiany na wniosek Rady przez ministra właściwego do spraw informatyzacji.
+### 1.
 
-**Art. 17a.**
+Minister właściwy do spraw informatyzacji może dofinansowywać przygotowanie lub realizację przez podmiot publiczny, na wniosek tego podmiotu:
 
-1. Komitet do spraw Cyfryzacji, zwany dalej „Komitetem”, zapewnia koordynację i wsparcie działań związanych z informatyzacją państwa w zakresie:
+### 1)
 
-- **1)** rozpatrywania projektów dokumentów rządowych i przyjmowania stanowisk w sprawach:
-    - **a)** ustaw,
-    - **b)** aktów normatywnych Rady Ministrów,
-    - **c)** rozporządzeń Prezesa Rady Ministrów lub ministrów,
-    - **d)** zarządzeń Prezesa Rady Ministrów;
+projektów informatycznych o publicznym zastosowaniu niebędących ponadsektorowymi albo sektorowymi projektami informatycznymi;
 
-- **2)** rozpatrywania projektów dokumentów rządowych innych niż określone w pkt 1, w szczególności stanowisk rządu, strategii, polityk, programów, planów, standardów, rekomendacji oraz wytycznych, w tym:
-    - **a)** procedur realizowania zadań publicznych za pomocą środków komunikacji elektronicznej,
-    - **b)** wskazywania kluczowych kierunków interwencji oraz potrzeb podjęcia działań – i przyjmowania stanowiska w tych sprawach;
+### 2)
 
-- **3)** monitorowania lub opiniowania przedsięwzięć informatycznych o publicznym zastosowaniu realizowanych przez podmioty publiczne i przyjmowania stanowisk, w tym rekomendacji i wytycznych, w sprawie założeń oraz postępów i efektów realizacji tych przedsięwzięć:
-    - **a)** niezależnie od ich wartości – w przypadku przedsięwzięć informatycznych o publicznym zastosowaniu, w ramach których jest realizowane co najmniej jedno z działań, o których mowa w art. 3 pkt 6 lit. a–d oraz h lub w art. 3 pkt 6 lit. f w odniesieniu do lit. a–d, planowanych do finansowania z udziałem środków Unii Europejskiej lub środków z innych źródeł zagranicznych,
-    - **b)** których wartość przekracza 5 mln zł – w przypadku przedsięwzięć informatycznych o publicznym zastosowaniu, w ramach których jest realizowane co najmniej jedno z działań, o których mowa w art. 3 pkt 6 lit. a–d oraz h lub w art. 3 pkt 6 lit. f w odniesieniu do lit. a–d, planowanych do finansowania z udziałem innych środków niż środki, o których mowa w lit. a,
-    - **c)** których wartość przekracza 15 mln zł – w przypadku przedsięwzięć informatycznych o publicznym zastosowaniu, o których mowa w art. 3 pkt 6 lit. e lub f w odniesieniu do lit. e – z wyłączeniem przedsięwzięć informatycznych jednostek samorządu terytorialnego, związków takich jednostek, związków metropolitalnych, samorządowych jednostek budżetowych, samorządowych zakładów budżetowych, samorządowych instytucji kultury, samorządowych osób prawnych utworzonych na podstawie odrębnych ustaw w celu wykonywania zadań publicznych oraz innych samorządowych jednostek organizacyjnych nieposiadających osobowości prawnej;
+przykładowego oprogramowania, o którym mowa w art. 13 ust. 2 pkt 2 lit. a, a także kodów źródłowych takiego oprogramowania;
 
-- **4)** monitorowania realizacji strategii oraz przyjmowania stanowiska w tej sprawie;
-- **5)** monitorowania realizacji innych dokumentów o charakterze strategicznym, polityk i programów rozwoju, związanych z informatyzacją państwa, wskazanych przez Radę Ministrów lub Prezesa Rady Ministrów i przyjmowanie stanowisk w tych sprawach.
+### 3)
 
-2. Na wniosek podmiotu realizującego przedsięwzięcie informatyczne o publicznym zastosowaniu przewodniczący Komitetu może zwolnić to przedsięwzięcie z monitorowania lub opiniowania, o których mowa w ust. 1 pkt 3, ze względu na szczególny interes publiczny.
+przedsięwzięć wspierających rozwój społeczeństwa informacyjnego, innych niż wymienione w pkt 1 i 2.
 
-3. Wniosek, o którym mowa w ust. 2, zawiera opis założeń przedsięwzięcia, którego ma dotyczyć zwolnienie, oraz wskazanie istnienia szczególnego interesu publicznego uzasadniającego takie zwolnienie.
+### 2.
 
-4. W przypadku gdy informacje wskazane we wniosku, o którym mowa w ust. 2, nie są wystarczające do jego oceny, w szczególności do oceny istnienia szczególnego interesu publicznego, przewodniczący Komitetu zwraca się do podmiotu realizującego przedsięwzięcie informatyczne o publicznym zastosowaniu o uzupełnienie wniosku i wskazuje termin jego uzupełnienia, a także może zasięgnąć opinii właściwego ministra kierującego działem administracji rządowej, którego dotyczy przedsięwzięcie.
+Dofinansowanie może być udzielone, jeżeli przedsięwzięcia, o których mowa w ust. 1:
 
-5. Przewodniczący Komitetu zwalnia przedsięwzięcie informatyczne o publicznym zastosowaniu z monitorowania lub opiniowania, o którym mowa w ust. 1 pkt 3, albo odmawia jego zwolnienia, w terminie 14 dni od dnia otrzymania wniosku, o którym mowa w ust. 2.
+### 1)
 
-6. W przypadku odmowy zwolnienia, o której mowa w ust. 5, podmiot realizujący przedsięwzięcie informatyczne o publicznym zastosowaniu może wystąpić do Komitetu o zwolnienie, ponownie wskazując na istnienie szczególnego interesu publicznego. W przypadku odmowy zwolnienia przedsięwzięcie podlega monitorowaniu lub opiniowaniu, o których mowa w ust. 1 pkt 3.
+służą realizacji celów określonych w Planie;
 
-7. Na wniosek podmiotu realizującego zadania publiczne innego niż podmiot publiczny i za zgodą przewodniczącego Komitetu Komitet może monitorować lub opiniować przedsięwzięcie informatyczne o publicznym zastosowaniu realizowane przez ten podmiot oraz przyjmować stanowisko Komitetu w sprawie założeń oraz postępów i efektów realizacji takiego przedsięwzięcia. Przepisy ust. 3–5 stosuje się odpowiednio, z tym że we wniosku nie wskazuje się na istnienie szczególnego interesu publicznego.
+### 2)
 
-**Art. 17b.**
+są projektowane oraz realizowane z uwzględnieniem minimalnych wymagań dla systemów teleinformatycznych lub minimalnych wymagań dla rejestrów publicznych i wymiany informacji w formie elektronicznej;
 
-1. W przypadku przedsięwzięć informatycznych o publicznym zastosowaniu, o których mowa w art. 17a ust. 1 pkt 3, realizowanych przez podmioty publiczne, z wyłączeniem Sądu Najwyższego, Naczelnego Sądu Administracyjnego, Trybunału Konstytucyjnego, Najwyższej Izby Kontroli, Rzecznika Praw Obywatelskich, Krajowej Rady Radiofonii i Telewizji oraz Krajowego Biura Wyborczego, pozytywna opinia Komitetu dotycząca założeń przedsięwzięcia stanowi warunek niezbędny do realizacji takiego przedsięwzięcia informatycznego oraz jego finansowania ze środków publicznych.
+### 3)
 
-2. Przepisu ust. 1 nie stosuje się do przedsięwzięcia informatycznego o publicznym zastosowaniu, które nie rozszerza zakresu produktów działań przedsięwzięcia informatycznego, które uzyskało pozytywną opinię Komitetu, o której mowa w ust. 1, nie zmienia funkcjonalności tych produktów lub nie wprowadza w nich zmiany technologicznej oraz którego koszty różnią się o nie więcej niż 15 % od kosztów przyjętych w ramach tego przedsięwzięcia.
+nie są finansowane ze środków budżetu państwa innych niż te, których dysponentem jest minister właściwy do spraw informatyzacji.
 
-**Art. 17c.** Błąd! Komitet realizuje zadania, o których mowa w art. 17a ust. 1, mając na uwadze zapewnienie w szczególności:
+### 3.
 
-**Art. 17d.** Komitet, w celu realizacji zadań, o których mowa w art. 17a ust. 1, może podejmować uchwały, w tym uchwały w sprawie rekomendacji i wytycznych dotyczących realizacji przedsięwzięć informatycznych o publicznym zastosowaniu.
+Do wniosku o dofinansowanie przedsięwzięć, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 10 i 11.
 
-**Art. 17e.**
+### 4.
 
-1. W skład Komitetu wchodzą:
+Minister właściwy do spraw informatyzacji, w drodze zarządzenia, powołuje, spośród pracowników urzędu obsługującego tego ministra, zespół do spraw oceny wniosków o dofinansowanie przedsięwzięć, o których mowa w ust. 1, określając jego nazwę, skład, szczegółowy zakres zadań i tryb działania.
 
-- **1)** przewodniczący Komitetu – minister właściwy do spraw informatyzacji albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu w urzędzie obsługującym tego ministra;
-- **2)** wiceprzewodniczący Komitetu – sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw informatyzacji w urzędzie obsługującym tego ministra;
-- **3)** pozostali członkowie Komitetu:
-    - **a)** Szef Kancelarii Prezesa Rady Ministrów albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,
-    - **b)** ministrowie albo wyznaczeni przez właściwych ministrów ich przedstawiciele w randze sekretarza stanu albo podsekretarza stanu, po jednym z urzędu obsługującego danego ministra, z wyłączeniem ministra właściwego do spraw informatyzacji.
+### 5.
 
-2. Członka Komitetu, o którym mowa w ust. 1 pkt 3, w uzasadnionych przypadkach może zastąpić w pracach Komitetu inny sekretarz stanu, podsekretarz stanu albo pełnomocnik – wskazany przez członka Komitetu, właściwego ministra albo Szefa Kancelarii Prezesa Rady Ministrów.
+Środki finansowe na dofinansowanie przedsięwzięć, o których mowa w ust. 1, są przekazywane w formie dotacji celowej, na podstawie umowy zawartej pomiędzy ministrem właściwym do spraw informatyzacji a podmiotem, który złożył wniosek o dofinansowanie przedsięwzięć, o których mowa w ust. 1.
 
-3. Przewodniczący Komitetu jest informowany o zastępstwie przez członka Komitetu, właściwego ministra albo Szefa Kancelarii Prezesa Rady Ministrów za pośrednictwem sekretarza Komitetu.
+### 6.
 
-**Art. 17f.**
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, kryteria i tryb przeznaczania oraz rozliczania środków finansowych przeznaczonych na dofinansowanie przedsięwzięć, o których mowa w ust. 1, w tym:
 
-1. Przewodniczący Komitetu zaprasza Prezesa Rządowego Centrum Legislacji do udziału w pracach Komitetu, w przypadku gdy przedmiotem prac jest projekt dokumentu rządowego, o którym mowa w art. 17a ust. 1 pkt 1.
+### 1)
 
-2. Przewodniczący Komitetu zaprasza do udziału w pracach Komitetu, z głosem doradczym, przedstawiciela Komisji Wspólnej Rządu i Samorządu Terytorialnego, w przypadku gdy przedmiotem prac jest projekt dokumentu rządowego dotyczący zakresu działania jednostek samorządu terytorialnego.
+sposób oceny wniosków dotyczących przedsięwzięć przewidzianych do dofinansowania,
 
-3. Przewodniczący Komitetu może zapraszać do udziału w pracach Komitetu, z głosem doradczym, inne osoby, reprezentujące w szczególności organy, instytucje, organizacje lub przedsiębiorców – stosownie do przedmiotu prac Komitetu.
+### 2)
 
-**Art. 17g.**
+sposób oceny realizacji przedsięwzięć, zgodnie z warunkami określonymi w umowie,
 
-1. Przewodniczący Komitetu kieruje pracami Komitetu.
+### 3)
 
-2. Przewodniczącego Komitetu w pracach Komitetu może zastępować wiceprzewodniczący Komitetu.
+sposób rozliczania przyznanych środków finansowych,
 
-**Art. 17h.** Sekretarza Komitetu powołuje i odwołuje przewodniczący Komitetu spośród pracowników urzędu obsługującego ministra właściwego do spraw informatyzacji.
+### 4)
 
-**Art. 17i.**
+sposób dysponowania przyznanymi środkami finansowymi,
 
-1. Posiedzenia Komitetu odbywają się w obecności co najmniej 1/3 liczby członków Komitetu.
+### 5)
 
-2. Rozstrzygnięcia Komitetu zapadają w drodze uzgadniania stanowisk członków Komitetu, a w przypadku rozpatrywania przez Komitet projektów dokumentów rządowych, o których mowa w art. 17a ust. 1 pkt 1 – także Prezesa Rządowego Centrum Legislacji.
+wzory wniosku o dofinansowanie oraz raportów z przebiegu realizacji przedsięwzięć i rozliczenia przyznanych środków finansowych
 
-3. W przypadku gdy uzgodnienie nie jest możliwe, projekt rozstrzygnięcia może być poddany pod głosowanie z inicjatywy przewodniczącego Komitetu. Rozstrzygnięcia zapadają zwykłą większością głosów, a w przypadku równej liczby głosów rozstrzyga głos przewodniczącego Komitetu.
+- mając na uwadze znaczenie dofinansowanych przedsięwzięć dla realizacji celów określonych w Planie, rozwoju współpracy międzynarodowej w tym zakresie, a także prawidłowość wykorzystania przyznanych środków finansowych.
 
-4. W przypadku rozpatrywania przez Komitet projektów dokumentów rządowych członek Komitetu oraz Prezes Rządowego Centrum Legislacji mogą zgłosić do protokołu odrębne stanowisko w stosunku do rozstrzygnięcia podjętego na tym posiedzeniu Komitetu.
+### Rozdział 3 Systemy teleinformatyczne używane do realizacji zadań publicznych, rejestry publiczne oraz wymiana informacji w formie elektronicznej między podmiotami publicznymi
 
-**Art. 17j.** Szczegółowy sposób i tryb działania Komitetu jest określony w regulaminie przyjętym przez Komitet i zatwierdzonym uchwałą Rady Ministrów.
+### Art. 13.
 
-**Art. 17k.**
+### 1.
 
-1. Przewodniczący Komitetu, z własnej inicjatywy lub na wniosek członka Komitetu, może:
+Podmiot publiczny używa do realizacji zadań publicznych systemów teleinformatycznych spełniających minimalne wymagania dla systemów teleinformatycznych.
 
-- **1)** tworzyć w drodze decyzji zespoły zadaniowe, określając w tej decyzji w szczególności zadania, termin ich wykonania, sposób ich realizacji, w tym sposób składania sprawozdań okresowych i końcowych, oraz skład osobowy, w tym kierownika zespołu;
-- **2)** zlecać przeprowadzanie badań, opracowywanie ich wyników lub przygotowywanie opinii, ocen lub ekspertyz związanych z realizacją zadań Komitetu.
+### 2.
 
-2. Koszty funkcjonowania Komitetu związane z przeprowadzaniem badań, opracowywaniem ich wyników oraz przygotowywaniem opinii, ocen lub ekspertyz, o których mowa w ust. 1 pkt 2, pokrywa się z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji, oraz ze środków Unii Europejskiej.
+Podmiot publiczny realizujący zadania publiczne przy wykorzystaniu systemu teleinformatycznego albo z użyciem środków komunikacji elektronicznej do przekazywania danych pomiędzy tym podmiotem a podmiotem niebędącym organem administracji rządowej:
 
-**Art. 17l.**
+### 1)
 
-1. Obsługę prac Komitetu i zespołów zadaniowych zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji.
+zapewnia, aby system teleinformatyczny służący do wymiany danych pomiędzy tym podmiotem a podmiotami niebędącymi organami administracji rządowej, poza minimalnymi wymaganiami, o których mowa w ust. 1, spełniał wymóg równego traktowania rozwiązań informatycznych;
 
-2. Prace Komitetu są wykonywane z wykorzystaniem narzędzi informatycznych wspierających prace Komitetu, udostępnionych przez ministra właściwego do spraw informatyzacji i wskazanych przez przewodniczącego Komitetu.
+### 2)
 
-**Art. 17m.**
+publikuje w Biuletynie Informacji Publicznej lub udostępnia w inny sposób:
 
-1. W ramach wykonywanych prac Komitet przetwarza dane osób wskazanych do kontaktu lub odpowiadających za jakość danych udostępnianych Komitetowi w przedkładanych dokumentach lub w narzędziach informatycznych wspierających prace Komitetu, o których mowa w art. 17l ust. 2.
+### a)
 
-2. Dane, o których mowa w ust. 1, obejmują: imię, nazwisko, adres poczty elektronicznej, numer telefonu, nazwę instytucji, nazwę komórki organizacyjnej w tej instytucji (biura, departamentu, wydziału lub zespołu) oraz stanowisko lub funkcję w tej instytucji. [Art. 18. Rada Ministrów, na wniosek ministra właściwego do spraw informatyzacji, określi w drodze rozporządzenia:
+zestawienie stosowanych w oprogramowaniu interfejsowym systemu teleinformatycznego używanego przez ten podmiot do realizacji zadań publicznych struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących,
 
-- **1)** minimalne wymagania dla systemów teleinformatycznych, mając na uwadze konieczność zapewnienia:
-    - **a)** spójności działania systemów teleinformatycznych używanych do realizacji zadań publicznych poprzez określenie co najmniej specyfikacji formatów danych oraz protokołów komunikacyjnych i szyfrujących, które mają być stosowane w oprogramowaniu interfejsowym, przy zachowaniu możliwości nieodpłatnego wykorzystania tych specyfikacji,
-    - **b)** sprawnej i bezpiecznej wymiany informacji w postaci elektronicznej między podmiotami publicznymi oraz między podmiotami publicznymi a organami innych państw lub organizacji międzynarodowych
-    - **c)** (uchylona) – z uwzględnieniem Polskich Norm oraz innych dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, zachowując zasadę równego traktowania różnych rozwiązań informatycznych;
+### b)
 
-- **2)** minimalne wymagania dla rejestrów publicznych i wymiany informacji w postaci elektronicznej, uwzględniając konieczność zachowania spójności prowadzenia rejestrów publicznych i wymiany informacji w postaci elektronicznej z podmiotami publicznymi;
-- **3)** Krajowe Ramy Interoperacyjności obejmujące zagadnienia interoperacyjności semantycznej, organizacyjnej oraz technologicznej, z uwzględnieniem zasady równego traktowania różnych rozwiązań informatycznych, Polskich Norm oraz innych dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną.] <Art. 18. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe sposoby realizacji obowiązków, o których mowa w art. 13 ust. 1 pkt 1 i 2 oraz art. 14 ust. 1, uwzględniając zasady neutralności technologicznej i otwartości używanych standardów oraz specyfikacji oraz zgodności z opublikowanymi normami zatwierdzonymi przez międzynarodową, europejską lub krajową jednostkę normalizacyjną.> <Art. 18a. Rada Ministrów upoważnia ministra właściwego do spraw informatyzacji do:
-- **1)** dokonywania nie rzadziej niż raz na 3 lata przeglądu standardów oraz specyfikacji, o których mowa w przepisach wydanych na podstawie art. 18, w szczególności w celu ich oceny pod kątem zapewniania interoperacyjności, w tym stwierdzenia:
-    - **a)** stopnia ich zgodności z aktualnymi, opublikowanymi normami, które zostały zatwierdzone przez międzynarodową, europejską lub krajową jednostkę normalizacyjną – z uwzględnieniem otwartych standardów i specyfikacji oraz zasady równego traktowania różnych rozwiązań informatycznych,
-    - **b)** stopnia ich zgodności z europejskimi ramami interoperacyjności, o których mowa w art. 6 ust. 1 rozporządzenia 2024/903,
-    - **c)** zakresu i stopnia ich stosowania przez podmioty realizujące zadania publiczne;
+testy akceptacyjne, z zastrzeżeniem ust. 4.
 
-- **2)** przygotowania i udostępniania raportu z przeglądu, o którym mowa w pkt 1, w repozytorium interoperacyjności.>
+### 3.
 
-**Art. 19.** (uchylony)
+Rozwiązania, o których mowa w ust. 2 pkt 2 lit. a, nie mogą wykraczać poza zakres minimalnych wymagań dla systemów teleinformatycznych.
 
-**Art. 19a.**
+### 4.
 
-1. Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie ePUAP. [1a. Minister właściwy do spraw informatyzacji zamieszcza na ePUAP informację o adresach elektronicznych skrzynek podawczych udostępnionych przez podmioty publiczne.]
+Podmiot publiczny może nie udostępniać testów akceptacyjnych, jeżeli w oprogramowaniu interfejsowym mają być stosowane wyłącznie formaty danych oraz protokoły komunikacyjne i szyfrujące określone w przepisach wydanych na podstawie art. 18 pkt 1.
 
-2. Minister właściwy do spraw informatyzacji jest administratorem danych użytkowników ePUAP.
+### Art. 14.
 
-2a. Minister właściwy do spraw informatyzacji, na wniosek banku krajowego lub innego przedsiębiorcy, udziela zgody na nieodpłatne wykorzystywanie do identyfikacji i uwierzytelniania w ePUAP środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy, po spełnieniu przez bank krajowy lub innego przedsiębiorcę warunków, o których mowa w przepisach wydanych na podstawie ust. 3.
+Podmiot publiczny prowadzący rejestr publiczny jest obowiązany:
 
-2b. Minister właściwy do spraw informatyzacji może sprawdzać, czy bank krajowy lub inny przedsiębiorca, o którym mowa w ust. 1, spełnia warunki, o których mowa w przepisach wydanych na podstawie ust. 3.
+### 1)
 
-2c. Minister właściwy do spraw informatyzacji cofa zgodę, o której mowa w ust. 2a, w przypadku gdy bank krajowy lub inny przedsiębiorca nie spełnia warunków określonych w przepisach wydanych na podstawie ust. 3.
+prowadzić ten rejestr w sposób zapewniający spełnianie minimalnych wymagań dla systemów teleinformatycznych, w przypadku gdy ten rejestr działa przy użyciu systemów teleinformatycznych;
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** zakres i warunki korzystania z ePUAP,
-- **2)** sposób identyfikacji i uwierzytelniania w ePUAP, w tym przy wykorzystaniu środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy,
-- **3)** warunki organizacyjne i techniczne nieodpłatnego wykorzystywania do identyfikacji i uwierzytelniania w ePUAP środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy,
-- **4)** sposób potwierdzania spełniania warunków, o których mowa w pkt 1 – z uwzględnieniem roli ePUAP w procesie realizacji zadań publicznych drogą elektroniczną oraz zasad przetwarzania danych osobowych. Art. 19aa. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra, udostępniać usługi online w celu umożliwienia temu ministrowi oraz innym podmiotom publicznym obsługi drogą elektroniczną podań, w tym wniosków, określonych w przepisach odrębnych, jeżeli przepisy te nie wykluczają przesyłania dokumentów drogą elektroniczną. Art. 19ab. Minister właściwy do spraw informatyzacji może, przy wykorzystaniu systemów teleinformatycznych tego ministra udostępniać usługi online polegające na zapewnieniu możliwości wykonywania przez ministrów kierujących odpowiednimi działami administracji rządowej zadań związanych z:
-- **1)** zapewnieniem bezpieczeństwa i porządku publicznego;
-- **2)** ochroną przeciwpożarową i przeciwpowodziową;
-- **3)** ochroną zdrowia i życia;
-- **4)** zabezpieczeniem społecznym;
-- **5)** organizacją ruchu drogowego;
-- **6)** zbiorowym zaopatrzeniem w wodę;
-- **7)** usuwaniem i oczyszczaniem ścieków komunalnych;
-- **8)** utrzymaniem czystości i porządku urządzeń sanitarnych oraz wysypisk i unieszkodliwianiem odpadów komunalnych;
-- **9)** zaopatrzeniem w gaz, energię elektryczną oraz cieplną;
-- **10)** telekomunikacją;
-- **11)** publicznym transportem zbiorowym;
-- **12)** ochroną środowiska. Art. 19ac. 1. W zakresie niezbędnym do realizacji usług online, o których mowa w art. 19aa i art. 19ab, następuje wymiana danych między systemami teleinformatycznymi ministra właściwego do spraw informatyzacji a systemami teleinformatycznymi właściwego ministra kierującego odpowiednim działem administracji rządowej.
+prowadzić ten rejestr zgodnie z minimalnymi wymaganiami dla rejestrów publicznych i wymiany informacji w formie elektronicznej;
 
-2. Minister właściwy do spraw informatyzacji zapewnia utrzymanie i rozwój usług online, o których mowa w ust. 1, w tym zapewnia:
+### 3)
 
-- **1)** ochronę przed nieuprawnionym dostępem;
-- **2)** rozliczalność działań dokonywanych na danych przetwarzanych w danej usłudze online.
+umożliwić dostarczanie informacji do tego rejestru oraz udostępnianie informacji z tego rejestru drogą elektroniczną, w przypadku gdy ten rejestr działa przy użyciu systemów teleinformatycznych.
 
-3. Minister właściwy do spraw informatyzacji zawiera z podmiotami, o których mowa w art. 19aa, lub z ministrami, o których mowa w art. 19ab, porozumienia określające:
+### Art. 15.
 
-- **1)** szczegółowy sposób udostępniania usług online;
-- **2)** zakres danych udostępnianych na potrzeby realizacji danej usługi online, a także sposób i tryb ich udostępniania;
-- **3)** okres realizacji usług online. Art. 19ad. 1. Minister właściwy do spraw informatyzacji może realizować zadania polegające na utworzeniu, utrzymaniu lub rozwoju rozwiązania informatycznego lub systemu teleinformatycznego, służącego zapewnieniu możliwości wykonywania przez Prezesa Rady Ministrów, ministrów, jednostki organizacyjne podległe Prezesowi Rady Ministrów lub przez niego nadzorowane, Zakład Ubezpieczeń Społecznych i Narodowy Fundusz Zdrowia zadań związanych z realizacją obowiązków tych podmiotów w obszarze informatyzacji.
+### 1.
 
-2. Szczegółowy zakres i sposób realizacji zadania określa się w porozumieniu zawartym między ministrem właściwym do spraw informatyzacji a podmiotem wymienionym w ust. 1, na rzecz którego minister właściwy do spraw informatyzacji realizuje to zadanie.
+Podmiot prowadzący rejestr publiczny zapewnia podmiotowi publicznemu albo podmiotowi niebędącemu podmiotem publicznym, realizującym zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny ich realizacji, nieodpłatny dostęp do danych zgromadzonych w prowadzonym rejestrze, w zakresie niezbędnym do realizacji tych zadań.
 
-**Art. 19b.**
+### 2.
 
-1. Minister właściwy do spraw informatyzacji w ramach ePUAP prowadzi centralne repozytorium wzorów dokumentów elektronicznych, zwane dalej „centralnym repozytorium”.
+Dane, o których mowa w ust. 1, powinny być udostępniane drogą elektroniczną i mogą być wykorzystane wyłącznie przez podmiot, któremu udostępniono dane do realizacji zadań publicznych.
 
-2. W centralnym repozytorium umieszcza się, przechowuje i udostępnia wzory dokumentów, które uwzględniają niezbędne elementy struktury dokumentów elektronicznych określone w przepisach wydanych na podstawie art. 5 ust. 2a ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
+### 3.
 
-3. Organy administracji publicznej przekazują do centralnego repozytorium oraz udostępniają w Biuletynie Informacji Publicznej wzory dokumentów elektronicznych. Przy sporządzaniu wzorów dokumentów elektronicznych stosuje się międzynarodowe standardy dotyczące sporządzania dokumentów elektronicznych przez organy administracji publicznej, z uwzględnieniem konieczności podpisywania ich kwalifikowanym podpisem elektronicznym.
+Rada Ministrów określi, w drodze rozporządzenia, sposób, zakres i tryb udostępniania danych, o których mowa w ust. 1, mając na uwadze potrzebę usprawnienia realizacji zadań publicznych, zapewnienia szybkiego i bezpiecznego dostępu do danych oraz zabezpieczenia wykorzystania danych do celów realizacji zadań publicznych.
 
-4. Jeżeli wzór podania określają odrębne przepisy, to umieszczenie wzoru dokumentu elektronicznego przez organy administracji publicznej w centralnym repozytorium jest równoznaczne z określeniem wzoru wnoszenia podań, o których mowa w art. 63 § 3a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+### Art. 16.
 
-5. Niezależnie od obowiązku wynikającego z ust. 3 organy administracji publicznej mogą prowadzić własne lub wspólnie z innymi organami administracji publicznej repozytoria wzorów dokumentów elektronicznych.
+### 1.
 
-**Art. 19c.**
+Podmiot publiczny, prowadząc wymianę informacji, jest obowiązany zapewnić możliwość wymiany informacji również w formie elektronicznej przez wymianę dokumentów elektronicznych związanych z załatwianiem spraw należących do jego zakresu działania, przy wykorzystaniu informatycznych nośników danych lub środków komunikacji elektronicznej.
 
-1. [Minister właściwy do spraw informatyzacji może zawrzeć porozumienie w sprawie udostępniania usług na ePUAP lub korzystania z usług sieciowych pozwalających na wykorzystanie profilu zaufanego z:] <Minister właściwy do spraw informatyzacji może zawrzeć porozumienie w sprawie udostępniania usług na ePUAP lub korzystania z interfejsów programistycznych aplikacji pozwalających na wykorzystanie profilu zaufanego z:>
+### 2.
 
-- **1)** podmiotami, o których mowa w art. 2 ust. 3, realizującymi zadania publiczne,
-- **2)** innymi podmiotami realizującymi zadania publiczne lub wspierającymi świadczenie tych zadań w celu realizacji strategii i programów przyjętych przez Radę Ministrów lub strategii rozwoju, programów i dokumentów programowych w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju – jeżeli wykażą interes faktyczny w udostępnianiu usług na ePUAP lub w korzystaniu z usług sieciowych pozwalających na wykorzystanie profilu zaufanego; ocena interesu faktycznego dokonywana jest z uwzględnieniem jego wpływu na bezpieczeństwo i interes publiczny. <– jeżeli wykażą interes faktyczny w udostępnianiu usług na ePUAP lub w korzystaniu z interfejsów programistycznych aplikacji pozwalających na wykorzystanie profilu zaufanego.> <1a. Ocena interesu faktycznego jest dokonywana z uwzględnieniem jego wpływu na bezpieczeństwo i interes publiczny.> [2. W porozumieniu określa się sposób udostępniania usług na ePUAP oraz ich zakres lub warunki korzystania z usług sieciowych pozwalających na wykorzystanie profilu zaufanego.] <2. W porozumieniu określa się sposób udostępniania usług na ePUAP oraz ich zakres lub warunki korzystania z interfejsów programistycznych aplikacji pozwalających na wykorzystanie profilu zaufanego.>
+Podmiot publiczny, o którym mowa w ust. 1, jest obowiązany prowadzić wymianę informacji w formie elektronicznej:
 
-**Art. 19d.** Podmioty udostępniające usługi na ePUAP zapewniają ich zgodność z przepisami stanowiącymi podstawę sporządzenia wzoru dokumentu elektronicznego oraz dokonują aktualizacji tych usług w katalogu usług.
+### 1)
 
-**Art. 19e.** (uchylony) Art. 19ea. (uchylony)
+z wykorzystaniem systemów teleinformatycznych, spełniających minimalne wymagania dla systemów teleinformatycznych;
 
-**Art. 19f.** (uchylony)
+### 2)
 
-**Art. 19g.** (uchylony)
+zgodnie z minimalnymi wymaganiami dla rejestrów publicznych i wymiany informacji w formie elektronicznej.
 
-**Art. 19h.** (uchylony)
+### 3.
 
-**Art. 19i.** (uchylony)
+Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki organizacyjno-techniczne doręczania dokumentów elektronicznych, w tym formę urzędowego poświadczania odbioru tych dokumentów przez adresatów, uwzględniając minimalne wymagania dla rejestrów publicznych i wymiany informacji w formie elektronicznej, potrzebę zapewnienia integralności dokumentów elektronicznych oraz usprawnienia i ujednolicenia obiegu dokumentów między podmiotami publicznymi.
 
-**Art. 19j.** (uchylony)
+### Art. 17.
 
-**Art. 20.** (uchylony)
+### 1.
 
-**Art. 20a.**
+Przy ministrze właściwym do spraw informatyzacji działa Rada Informatyzacji, zwana dalej „Radą”. Rada jest organem opiniodawczo-doradczym ministra.
 
-1. Uwierzytelnienie użytkownika systemu teleinformatycznego podmiotu publicznego, w którym udostępniane są usługi online, wymaga użycia:
+### 2.
 
-- **1)** środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), lub
-- **2)** środka identyfikacji elektronicznej wydanego w notyfikowanym systemie identyfikacji elektronicznej, lub
-- **3)** danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online.
+Do zadań Rady należy:
 
-1a. Uwierzytelnianie z wykorzystaniem środków identyfikacji elektronicznej, o których mowa w ust. 1 pkt 1 i 2, zapewnia się adekwatnie do wymaganego poziomu bezpieczeństwa, o którym mowa w art. 25 ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
+### 1)
 
-2. Podmiot publiczny, który używa do realizacji zadań publicznych systemu teleinformatycznego, może umożliwiać użytkownikowi uwierzytelnienie w tym systemie także przez zastosowanie innych technologii.
+opiniowanie projektu Planu oraz projektów rozporządzeń wydawanych na podstawie art. 18;
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** szczegółowe warunki organizacyjne i techniczne, które powinien spełniać system teleinformatyczny służący do wydania certyfikatu oraz stosowania technologii, o których mowa w ust. 2, w tym:
-    - **a)** zakres i okres przechowywania danych w systemie,
-    - **b)** obowiązki informacyjne, do których zobowiązany jest administrator systemu
+przygotowywanie, z własnej inicjatywy, na wniosek lub we współpracy z Polskim Komitetem Normalizacyjnym oraz właściwymi organami administracji rządowej, propozycji lub rekomendacji w zakresie:
 
-- **2)** (uchylony) – biorąc pod uwagę konieczność zapewnienia bezpieczeństwa i pewności w procesie identyfikacji oraz poufności kluczowych elementarnych czynności. Art. 20aa. 1. Minister właściwy do spraw informatyzacji odpowiada za funkcjonowanie systemu teleinformatycznego, który:
-- **1)** zapewnia obsługę publicznego systemu identyfikacji elektronicznej, w którym wydawany jest:
-    - **a)** profil zaufany,
-    - **b)** profil osobisty,
-    - **c)** profil mObywatel;
+### a)
 
-- **2)** umożliwia podmiotom publicznym:
-    - **a)** uwierzytelnienie osoby fizycznej przy użyciu środka identyfikacji elektronicznej, o którym mowa w pkt 1,
-    - **b)** zapewnienie osobie fizycznej możliwości opatrzenia dokumentu elektronicznego kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym w formatach danych wskazanych przez ministra właściwego do spraw informatyzacji spośród formatów danych do elektronicznego podpisywania, weryfikacji podpisu, opatrywania pieczęcią elektroniczną i szyfrowania dokumentów elektronicznych, określonych w przepisach wydanych na podstawie art. 18;
+minimalnych wymagań dla systemów teleinformatycznych, w szczególności dotyczących wykazu systemów operacyjnych oraz języków programowania, dla których albo w których powinno być udostępniane oprogramowanie umożliwiające komunikowanie się z systemami teleinformatycznymi podmiotów publicznych, formatów wymiany danych oraz protokołów komunikacyjnych i szyfrujących wykorzystywanych w wymianie danych w formie elektronicznej pomiędzy podmiotami publicznymi,
 
-- **3)** umożliwia podmiotom innym niż podmioty publiczne uwierzytelnienie osoby fizycznej przy użyciu środka identyfikacji elektronicznej, o którym mowa w pkt 1 lit. b i c.
+### b)
 
-2. Minister właściwy do spraw informatyzacji udostępnia usługę online umożliwiającą osobom fizycznym opatrzenie dokumentu elektronicznego podpisem zaufanym oraz weryfikację tego podpisu.
+minimalnych wymagań dla rejestrów publicznych i wymiany informacji w formie elektronicznej, w szczególności dotyczących doboru i konstrukcji cech informacyjnych,
 
-3. W ramach usługi, o której mowa w ust. 2, minister właściwy do spraw informatyzacji może zapewnić również funkcjonalności umożliwiające:
+### c)
 
-- **1)** weryfikację podpisu osobistego oraz kwalifikowanego podpisu elektronicznego lub
-- **2)** opatrzenie dokumentu elektronicznego podpisem osobistym lub kwalifikowanym podpisem elektronicznym – w formatach danych wskazanych przez ministra właściwego do spraw informatyzacji spośród formatów danych do elektronicznego podpisywania, weryfikacji podpisu, opatrywania pieczęcią elektroniczną i szyfrowania dokumentów elektronicznych, określonych w przepisach wydanych na podstawie art. 18.
+tłumaczenia na język polski norm lub innych dokumentów normalizacyjnych, istotnych dla ustalania wymagań, o których mowa w lit. a i b;
 
-4. Minister właściwy do spraw informatyzacji udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o wskazanych formatach podpisów elektronicznych obsługiwanych w ramach usług, o których mowa w ust. 1 pkt 2 lit. b oraz ust. 2 i 3. Art. 20ab. Minister właściwy do spraw informatyzacji:
+### 3)
 
-- **1)** zarządza publicznym systemem identyfikacji elektronicznej;
-- **2)** zapisuje i zachowuje informacje związane z zapewnieniem rozliczalności i niezaprzeczalności działań użytkownika korzystającego ze środka identyfikacji elektronicznej wydanego w publicznym systemie identyfikacji elektronicznej. Art. 20ac. 1. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie, o którym mowa w art. 20aa ust. 1.
+wyrażanie opinii, na wniosek ministra właściwego do spraw informatyzacji albo z własnej inicjatywy, w sprawach istotnych dla rozwoju standardów i technologii informatycznych oraz możliwości lub potrzeby ich stosowania w administracji publicznej lub gospodarce.
 
-2. W systemie przetwarza się następujące dane:
+### 3.
 
-- **1)** osoby, której wydano środek identyfikacji elektronicznej, obejmujące:
-    - **a)** imię (imiona),
-    - **b)** nazwisko,
-    - **c)** numer PESEL,
-    - **d)** datę urodzenia osoby,
-    - **e)** adres poczty elektronicznej,
-    - **f)** numer telefonu komórkowego;
+Rada wyraża opinię w terminie 30 dni od dnia otrzymania projektów, propozycji i wniosków, o których mowa w ust. 2.
 
-- **2)** dotyczące środka identyfikacji elektronicznej obejmujące:
-    - **a)** identyfikator,
-    - **b)** czas wydania,
-    - **c)** termin ważności;
+### 4.
 
-- **3)** o których mowa w art. 20ab pkt 2.
+Opinie, protokoły posiedzeń oraz inne dokumenty Rady są publikowane w wydzielonej części Biuletynu Informacji Publicznej na stronach ministra właściwego do spraw informatyzacji.
 
-3. Dane przetwarzane są w celu zapewnienia uwierzytelnienia osób fizycznych przy użyciu środków identyfikacji elektronicznej wydawanych w tym systemie oraz możliwości opatrzenia dokumentu elektronicznego podpisem zaufanym.
+### 5.
 
-4. W systemie przetwarza się również dane osób uczestniczących w procesie potwierdzania profilu zaufanego obejmujące:
+Rada przedstawia ministrowi właściwemu do spraw informatyzacji sprawozdanie z działalności za każdy rok kalendarzowy, w terminie do dnia 30 kwietnia następnego roku.
 
-- **1)** imię (imiona);
-- **2)** nazwisko;
-- **3)** numer PESEL. Art. 20ad. 1. Profil zaufany zawiera dane identyfikujące osobę fizyczną obejmujące:
-- **1)** imię (imiona);
-- **2)** nazwisko;
-- **3)** datę urodzenia;
-- **4)** numer PESEL.
+### 6.
 
-2. W procedurze potwierdzania profilu zaufanego dane, o których mowa w ust. 1, są weryfikowane automatycznie z danymi zawartymi w rejestrze PESEL.
+Kandydatów na członków Rady mogą zgłaszać:
 
-3. W przypadku zmiany w rejestrze PESEL danych, o których mowa w ust. 1, jest dokonywana automatyczna aktualizacja tych danych zawartych w profilu zaufanym.
+### 1)
 
-4. Aktualizacja danych zawartych w profilu zaufanym, o której mowa w ust. 3, nie powoduje unieważnienia profilu zaufanego.
+ministrowie;
 
-4a. W przypadku gdy w rejestrze PESEL został odnotowany zgon osoby posiadającej profil zaufany, profil zaufany tej osoby jest automatycznie unieważniany.
+### 2)
 
-5. Profil zaufany może zawierać inne dane niż wymienione w ust. 1, w szczególności identyfikator oraz dane wykorzystywane w procesach uwierzytelniania i autoryzacji realizowanych przy użyciu profilu zaufanego. Art. 20ae. 1. Podpis zaufany wywołuje skutki prawne, jeżeli został utworzony lub złożony w okresie ważności środka identyfikacji elektronicznej, o którym mowa w art. 20aa ust. 1 pkt 1.
+Naczelny Dyrektor Archiwów Państwowych;
 
-2. Dane w postaci elektronicznej opatrzone podpisem zaufanym są równoważne pod względem skutków prawnych dokumentowi opatrzonemu podpisem własnoręcznym, chyba że przepisy odrębne stanowią inaczej.
+### 3)
 
-2a. Opatrzenie danych podpisem zaufanym wywołuje skutek, o którym mowa w ust. 1, również w stosunku do dostawców usług telekomunikacyjnych w rozumieniu art. 2 pkt 40 lit. a ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, w zakresie, o którym mowa w art. 296 ust. 3 pkt 2 lit. e tej ustawy, jeżeli obie strony wyrażą na to zgodę.
+Prezes Polskiego Komitetu Normalizacyjnego;
 
-3. Nie można odmówić ważności i skuteczności podpisowi zaufanemu tylko na tej podstawie, że istnieje w postaci elektronicznej.
+### 4)
 
-**Art. 20b.** (uchylony)
+współprzewodniczący ze strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego;
 
-**Art. 20c.**
+### 5)
 
-1. Potwierdzenia profilu zaufanego, które polega na weryfikacji zgodności danych zawartych we wniosku o jego wydanie ze stanem faktycznym, oraz unieważnienia profilu zaufanego dokonuje:
+jednostki naukowe w rozumieniu przepisów o zasadach finansowania nauki, które w zakresie działalności statutowej prowadzą badania naukowe lub prace rozwojowe w zakresie informatyki;
 
-- **1)** punkt potwierdzający profil zaufany na podstawie:
-    - **a)** dowodu osobistego albo paszportu zawierającego: – imię (imiona), – nazwisko, – numer PESEL, albo
-    - **b)** innego dokumentu tożsamości, jeżeli umożliwia on jednoznaczne potwierdzenie tożsamości osoby wnioskującej o potwierdzenie profilu zaufanego posiadającej numer PESEL;
+### 6)
 
-- **2)** samodzielnie osoba fizyczna przy wykorzystaniu kwalifikowanego podpisu elektronicznego, w przypadku gdy kwalifikowany certyfikat podpisu elektronicznego zawiera dane obejmujące co najmniej:
-    - **a)** imię (imiona),
-    - **b)** nazwisko,
-    - **c)** numer PESEL;
+izby gospodarcze reprezentujące przedsiębiorców wykonujących działalność gospodarczą w zakresie wytwarzania sprzętu informatycznego, oprogramowania lub świadczenia usług informatycznych;
 
-- **3)** samodzielnie osoba fizyczna przy nieodpłatnym wykorzystaniu środka identyfikacji elektronicznej stosowanego do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy spełniającym warunki, o których mowa w art. 20d pkt 1, o ile środek ten potwierdza dane obejmujące co najmniej:
-    - **a)** imię (imiona),
-    - **b)** nazwisko,
-    - **c)** numer PESEL;
+### 7)
 
-- **4)** samodzielnie osoba fizyczna przy wykorzystaniu profilu osobistego.
+stowarzyszenia wpisane do Krajowego Rejestru Sądowego, których celem statutowym jest reprezentowanie środowiska informatycznego lub wspieranie zastosowań informatyki.
 
-1a. Przedłużenie ważności profilu zaufanego może nastąpić w sposób, o którym mowa w ust. 1 pkt 1, 2 i 4, albo przy wykorzystaniu profilu zaufanego.
+### 7.
 
-2. Funkcję punktu potwierdzającego pełni:
+Minister właściwy do spraw informatyzacji, spośród osób zgłoszonych przez podmioty, o których mowa w ust. 6, powołuje w skład Rady, na dwuletnią kadencję:
 
-- **1)** konsul;
-- **2)** naczelnik urzędu skarbowego;
-- **3)** wojewoda;
-- **4)** Zakład Ubezpieczeń Społecznych;
-- **5)** Narodowy Fundusz Zdrowia.
+### 1)
 
-2a. Narodowy Fundusz Zdrowia może nadać uprawnienia do potwierdzania w swoim imieniu profilu zaufanego lekarzowi podstawowej opieki zdrowotnej, pielęgniarce podstawowej opieki zdrowotnej, położnej podstawowej opieki zdrowotnej realizującym zadania w zakresie podstawowej opieki zdrowotnej dla świadczeniodawcy, który udziela świadczeń opieki zdrowotnej w ramach umowy o udzielanie świadczeń opieki zdrowotnej z zakresu podstawowej opieki zdrowotnej, oraz osobie zatrudnionej u tego świadczeniodawcy pod warunkiem, że co najmniej imię, nazwisko i numer PESEL tej osoby zostały przekazane do Narodowego Funduszu Zdrowia w ramach zawartej umowy.
+pięciu pracowników administracji rządowej reprezentujących organy, o których mowa w ust. 6 pkt 1;
 
-2b. Osoba posiadająca uprawnienia do potwierdzania profilu zaufanego, o której mowa w ust. 2a, może potwierdzić profil zaufany wyłącznie świadczeniobiorcy, który w deklaracji wyboru, o której mowa w art. 10 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2025 r. poz. 515), wskazał świadczeniodawcę, w ramach którego działa osoba potwierdzająca profil zaufany.
+### 2)
 
-2c. Narodowy Fundusz Zdrowia niezwłocznie odbiera uprawnienia do potwierdzania profilu zaufanego w przypadku ustania okoliczności, o których mowa w ust. 2a.
+jednego pracownika Naczelnej Dyrekcji Archiwów Państwowych;
 
-2d. Minister właściwy do spraw informatyzacji może udostępnić rozwiązanie techniczne przeznaczone do przekazywania informacji o zdarzeniach, o których mowa w ust. 2a i 2b, pomiędzy systemem teleinformatycznym Narodowego Funduszu Zdrowia, w którym znajdują się dane o świadczeniodawcach udzielających świadczeń z zakresu podstawowej opieki zdrowotnej, na podstawie zawartej z Narodowym Funduszem Zdrowia umowy o udzielanie świadczeń z zakresu podstawowej opieki zdrowotnej, a systemem, o którym mowa w art. 20aa ust. 1, zapewniające automatyczną weryfikację i aktualizację uprawnień do potwierdzania profilu zaufanego.
+### 3)
 
-2e. W przypadku, o którym mowa w ust. 2a, dokumenty w postaci papierowej w zakresie potwierdzania, przedłużania i unieważniania profilu zaufanego w sposób i przez okres określony w przepisach wydanych na podstawie art. 20d przechowuje i archiwizuje świadczeniodawca.
+dwóch pracowników Polskiego Komitetu Normalizacyjnego;
 
-3. Funkcję punktu potwierdzającego, za zgodą ministra właściwego do spraw informatyzacji, może pełnić:
+### 4)
 
-- **1)** podmiot publiczny inny niż wymieniony w ust. 2;
-- **2)** bank krajowy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. );
-- **3)** operator pocztowy, o którym mowa w art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);
-- **4)** oddział instytucji kredytowej, o którym mowa w art. 4 ust. 1 pkt 18 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **5)** spółdzielcza kasa oszczędnościowo-kredytowa, o której mowa w ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i
-- **1191)** .
+pięć osób reprezentujących stronę samorządową w Komisji Wspólnej Rządu i Samorządu Terytorialnego;
 
-4. Zgody, o której mowa w ust. 3, udziela się na wniosek podmiotów, o których mowa w ust. 3, po spełnieniu warunków określonych w przepisach wydanych na podstawie art. 20d pkt 1.
+### 5)
 
-5. Operator pocztowy może złożyć wniosek, o którym mowa w ust. 4, nie wcześniej niż w roku następującym po roku, w którym po raz pierwszy przedłożył Prezesowi Urzędu Komunikacji Elektronicznej sprawozdanie, o którym mowa w art. 43 ust. 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
+trzech pracowników jednostek, o których mowa w ust. 6 pkt 5;
 
-6. Minister właściwy do spraw informatyzacji może sprawdzać, czy podmiot pełniący funkcję punktu potwierdzającego spełnia warunki określone w przepisach wydanych na podstawie art. 20d pkt 1.
+### 6)
 
-7. Minister właściwy do spraw informatyzacji cofa zgodę, o której mowa w ust. 3, w przypadku gdy podmiot pełniący funkcję punktu potwierdzającego nie spełnia warunków określonych w przepisach wydanych na podstawie art. 20d pkt 1.
+dwie osoby reprezentujące podmioty, o których mowa w ust. 6 pkt 6;
 
-8. Minister właściwy do spraw informatyzacji, na wniosek banku krajowego lub innego przedsiębiorcy, udziela zgody na nieodpłatne wykorzystywanie środków identyfikacji elektronicznej stosowanych do uwierzytelniania w systemie teleinformatycznym banku krajowego lub innego przedsiębiorcy do potwierdzania profilu zaufanego w sposób, o którym mowa w ust. 1 pkt 3, oraz do uwierzytelnień i autoryzacji związanych z jego wykorzystaniem po spełnieniu przez bank krajowy lub innego przedsiębiorcę warunków, o których mowa w przepisach wydanych na podstawie art. 20d pkt 1.
+### 7)
 
-9. Minister właściwy do spraw informatyzacji może sprawdzać, czy bank krajowy lub inny przedsiębiorca, o którym mowa w ust. 8, spełnia warunki, o których mowa w przepisach wydanych na podstawie art. 20d pkt 1.
+trzy osoby, w tym co najmniej jedną posiadającą stopień naukowy albo tytuł naukowy, reprezentujące podmioty, o których mowa w ust. 6 pkt 7.
 
-10. Minister właściwy do spraw informatyzacji cofa zgodę, o której mowa w ust. 8, w przypadku gdy bank krajowy lub inny przedsiębiorca nie spełnia warunków określonych w przepisach wydanych na podstawie art. 20d pkt 1. Art. 20ca. (uchylony) Art. 20cb. 1. Minister właściwy do spraw informatyzacji może udostępnić usługę online służącą do potwierdzania profilu zaufanego przy użyciu metody, o której mowa w ust. 2.
+### 8.
 
-2. W celu potwierdzenia tożsamości osoby wnioskującej o potwierdzenie profilu zaufanego przeprowadza się wideoidentyfikację wnioskodawcy polegającą na:
+W razie niezgłoszenia przez podmioty, o których mowa w ust. 6, kandydatów do Rady w liczbie określonej w tym przepisie, Rada działa w składzie zmniejszonym.
 
-- **1)** porównaniu wizerunku wnioskodawcy udostępnianego przez niego w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej z wizerunkiem tego wnioskodawcy pobranym z Rejestru Dowodów Osobistych, o którym mowa w ustawie z dnia 6 sierpnia 2010 r. o dowodach osobistych, oraz
-- **2)** weryfikacji danych zawartych w warstwie graficznej dowodu osobistego albo paszportu wnioskodawcy okazanego przez niego w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej, oraz
-- **3)** w uzasadnionych przypadkach – weryfikacji wiedzy wnioskodawcy przy wykorzystaniu danych dotyczących wnioskodawcy zgromadzonych w rejestrach publicznych lub w systemach teleinformatycznych.
+### 9.
 
-3. Potwierdzanie profilu zaufanego przy użyciu metody, o której mowa w ust. 2, realizuje minister właściwy do spraw informatyzacji.
+Przed upływem kadencji członkostwo w Radzie wygasa z powodu:
 
-4. Minister właściwy do spraw informatyzacji może upoważnić do potwierdzania profilu zaufanego przy użyciu metody, o której mowa w ust. 2, jednostkę podległą lub nadzorowaną.
+### 1)
 
-5. Z transmisji, o której mowa w ust. 2 pkt 1, sporządza się nagranie audiowizualne. Nagranie sporządza i przechowuje przez 6 lat od dnia jego sporządzenia podmiot, który potwierdza profil zaufany przy użyciu metody, o której mowa w ust. 2.
+rezygnacji członka złożonej na piśmie Przewodniczącemu Rady;
 
-6. Minister właściwy do spraw informatyzacji może zawiesić lub zaprzestać świadczenia usługi, o której mowa w ust. 1, w przypadku zaistnienia okoliczności, które mogłyby wpływać na bezpieczeństwo metody potwierdzania tożsamości stosowanej w ramach tej usługi, i informuje o tym na swojej stronie podmiotowej w Biuletynie Informacji Publicznej.
+### 2)
 
-**Art. 20d.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, warunki:
+śmierci członka Rady;
 
-**Art. 20e.**
+### 3)
 
-1. Minister właściwy do spraw informatyzacji przyłącza system teleinformatyczny, w którym są udostępniane usługi online, do systemu, o którym mowa w art. 20aa ust. 1, na wniosek podmiotu odpowiedzialnego za ten system teleinformatyczny, w celu wykorzystywania:
+niemożności sprawowania funkcji członka Rady z powodu długotrwałej choroby stwierdzonej zaświadczeniem lekarskim;
 
-- **1)** podpisu zaufanego oraz funkcjonalności pozwalającej na weryfikację tego podpisu lub
-- **2)** funkcjonalności pozwalającej na opatrzenie dokumentu elektronicznego kwalifikowanym podpisem elektronicznym oraz podpisem osobistym oraz weryfikację tych podpisów elektronicznych.
+### 4)
 
-2. Przyłączenie, o którym mowa w ust. 1, jest czynnością materialno-techniczną.
+rozwiązania stosunku pracy w przypadku członków Rady, o których mowa w ust. 7 pkt 1-3 i 5;
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie o zapoznaniu się z polityką bezpieczeństwa udostępnioną przez ministra właściwego do spraw informatyzacji w Biuletynie Informacji Publicznej na jego stronie podmiotowej oraz z informacją o formatach podpisów elektronicznych, o których mowa w art. 20aa ust. 4.
+### 5)
 
-4. Wniosek, o którym mowa w ust. 1, oraz oświadczenie, o którym mowa w ust. 3, składa się w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
+ustania członkostwa w instytucjach lub organizacjach reprezentowanych przez członków Rady, o których mowa w ust. 7 pkt 4, 6 i 7.
 
-**Art. 20f.** (uchylony)
+### 10.
 
-**Art. 20g.** Do systemu, o którym mowa w art. 20aa ust. 1, przyłącza się elektroniczną platformę usług administracji publicznej. Art. 20ga. 1. Minister właściwy do spraw informatyzacji prowadzi inwentaryzację systemów teleinformatycznych używanych do realizacji zadań publicznych oraz inwentaryzację rejestrów publicznych, z wyłączeniem systemów teleinformatycznych i rejestrów publicznych wykorzystywanych do celów zapewnienia bezpieczeństwa narodowego i bezpieczeństwa publicznego. 2. Inwentaryzacja jest przeprowadzana co najmniej raz w roku i obejmuje zbieranie informacji o istniejących i planowanych systemach teleinformatycznych przeznaczonych do realizacji zadań publicznych, o rejestrach publicznych, a także o wymianie danych między tymi systemami. 3. Inwentaryzacja jest przeprowadzana z wykorzystaniem Systemu Inwentaryzacji Systemów Teleinformatycznych, zwanego dalej „SIST”, prowadzonego przez ministra właściwego do spraw informatyzacji. 4. Minister właściwy do spraw informatyzacji może powierzyć zadania związane z utrzymaniem i rozwojem SIST jednostce mu podległej lub przez niego nadzorowanej. 5. Zadania powierzone do realizacji jednostce, o której mowa w ust. 4, mogą być finansowane w formie dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji. Art. 20gb. 1. Do wprowadzania danych w SIST są obowiązane podmioty realizujące zadania publiczne, które otrzymały zawiadomienie od ministra właściwego do spraw informatyzacji o prowadzonej inwentaryzacji. 2. W zawiadomieniu minister właściwy do spraw informatyzacji określa zakres danych objętych inwentaryzacją oraz termin wprowadzania tych danych w SIST nie krótszy niż 14 dni od dnia otrzymania zawiadomienia. 3. Podmiot, o którym mowa w ust. 1, po otrzymaniu zawiadomienia jest obowiązany do założenia konta w SIST, do administrowania tym kontem oraz do bieżącej aktualizacji w SIST danych podmiotu prowadzącego system teleinformatyczny używany do realizacji zadań publicznych lub rejestr publiczny. Art. 20gc. 1. W SIST są przetwarzane w szczególności dane dotyczące:
+W przypadkach, o których mowa w ust. 9, minister właściwy do spraw informatyzacji powołuje na członka Rady osobę zgłoszoną przez właściwy podmiot, o którym mowa w ust. 6. Przepis ust. 8 stosuje się odpowiednio.
 
-#### Rozdział 3a Rejestr danych kontaktowych osób fizycznych
+### 11.
 
-**Art. 20h.**
+Minister właściwy do spraw informatyzacji powołuje i odwołuje Przewodniczącego Rady oraz jego zastępcę spośród członków Rady.
 
-1. Minister właściwy do spraw informatyzacji prowadzi rejestr danych kontaktowych osób fizycznych, zwany dalej „rejestrem danych kontaktowych”.
+### 12.
 
-2. Prowadzenie rejestru danych kontaktowych ma na celu ułatwienie:
+Przewodniczący Rady kieruje pracami Rady i reprezentuje ją na zewnątrz.
 
-- **1)** organom administracji rządowej, organom kontroli państwowej i ochrony prawa, sądom, jednostkom organizacyjnym prokuratury, jednostkom samorządu terytorialnego i ich organom, jednostkom budżetowym i samorządowym zakładom budżetowym, samodzielnym publicznym zakładom opieki zdrowotnej oraz spółkom wykonującym działalność leczniczą w rozumieniu przepisów o działalności leczniczej, Zakładowi Ubezpieczeń Społecznych, Kasie Rolniczego Ubezpieczenia Społecznego, Narodowemu Funduszowi Zdrowia, państwowym lub samorządowym osobom prawnym utworzonym na podstawie odrębnych ustaw w celu realizacji zadań publicznych oraz uczelniom,
-- **2)** podmiotom, o których mowa w art. 19c, jeżeli zawarły porozumienie z ministrem właściwym do spraw informatyzacji,
-- **3)** organom wyborczym,
-- **4)** Polskiemu Czerwonemu Krzyżowi – w zakresie danych osób poszukiwanych lub poszukujących – kontaktu z osobami fizycznymi w związku z usługami i zadaniami publicznymi realizowanymi na rzecz tych osób.
+### 13.
 
-3. Do rejestru danych kontaktowych swoje dane kontaktowe mogą przekazać osoby pełnoletnie, posiadające pełną zdolność do czynności prawnych.
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wysokość wynagrodzenia członka Rady za udział w posiedzeniu, uwzględniając funkcje pełnione przez członków Rady i zakres obowiązków członków Rady, a także mając na uwadze, że wynagrodzenie za jedno posiedzenie Rady przez okres trwania kadencji Rady nie może przekroczyć 50% minimalnego wynagrodzenia określonego na podstawie odrębnych przepisów, obowiązującego w dniu powołania Rady.
 
-4. Dane kontaktowe nie są wykorzystywane w celu kontaktu z osobami fizycznymi w zakresie związanym z prowadzoną przez nie działalnością gospodarczą.
+### 14.
 
-**Art. 20i.**
+Szczegółowy tryb działania Rady określa regulamin uchwalany przez Radę na pierwszym posiedzeniu, zatwierdzany przez ministra właściwego do spraw informatyzacji.
 
-1. Rejestr danych kontaktowych prowadzi się przy użyciu systemu teleinformatycznego, w tym:
+### Art. 18.
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem do rejestru danych kontaktowych;
-- **2)** zapewnia integralność danych w rejestrze danych kontaktowych;
-- **3)** zapewnia dostępność systemu teleinformatycznego, w którym rejestr danych kontaktowych jest prowadzony, dla podmiotów przetwarzających dane w rejestrze danych kontaktowych;
-- **4)** przeciwdziała uszkodzeniom systemu teleinformatycznego, w którym rejestr danych kontaktowych jest prowadzony;
-- **5)** określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
-- **6)** zapewnia rozliczalność działań dokonywanych na danych rejestru danych kontaktowych.
+Rada Ministrów, na wniosek ministra właściwego do spraw informatyzacji, określi w drodze rozporządzenia:
 
-2. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w rejestrze danych kontaktowych.
+### 1)
 
-**Art. 20j.**
+minimalne wymagania dla systemów teleinformatycznych, mając na uwadze konieczność zapewnienia:
 
-1. Do rejestru danych kontaktowych wprowadza się:
+### a)
 
-- **1)** numer PESEL;
-- **2)** imię i nazwisko;
-- **3)** adres poczty elektronicznej lub numer telefonu komórkowego.
+spójności działania systemów teleinformatycznych używanych do realizacji zadań publicznych poprzez określenie co najmniej specyfikacji formatów danych oraz protokołów komunikacyjnych i szyfrujących, które mają być stosowane w oprogramowaniu interfejsowym, przy zachowaniu możliwości nieodpłatnego wykorzystania tych specyfikacji,
 
-2. Przy wprowadzaniu danych, o których mowa w ust. 1, do rejestru danych kontaktowych przepisów art. 14 ust. 6 i 7 nie stosuje się.
+### b)
 
-3. W przypadku pozytywnego wyniku weryfikacji, o której mowa w art. 14 ust. 3, dane są automatycznie wprowadzane do rejestru danych kontaktowych.
+sprawnej i bezpiecznej wymiany informacji w formie elektronicznej między podmiotami publicznymi oraz między podmiotami publicznymi a organami innych państw lub organizacji międzynarodowych
 
-4. W przypadku negatywnego wyniku weryfikacji, o której mowa w art. 14 ust. 3, osoba wprowadzająca dane do rejestru danych kontaktowych informowana jest o negatywnej weryfikacji danych.
+- z uwzględnieniem Polskich Norm oraz innych dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, zachowując zasadę równego traktowania różnych rozwiązań informatycznych;
 
-5. Dane, o których mowa w ust. 1, podlegają usunięciu z rejestru danych kontaktowych z mocy prawa na podstawie przekazanej przez rejestr PESEL informacji o zgonie osoby fizycznej, której te dane dotyczą.
+### 2)
 
-6. W przypadku zmiany danych, o których mowa w ust. 1 pkt 1 i 2, w rejestrze PESEL następuje ich automatyczna aktualizacja w rejestrze danych kontaktowych.
+minimalne wymagania dla rejestrów publicznych i wymiany informacji w formie elektronicznej, uwzględniając konieczność zachowania spójności prowadzenia rejestrów publicznych i wymiany informacji w formie elektronicznej z podmiotami publicznymi.
 
-7. Dotychczasowe dane, o których mowa w ust. 1 pkt 1 i 2, zachowuje się w rejestrze danych kontaktowych przez 4 miesiące od daty zmiany tych danych w rejestrze PESEL, a po upływie tego terminu dane te są automatycznie usuwane z rejestru danych kontaktowych.
+### Art. 19.
 
-8. Podmiot, o którym mowa w art. 20h ust. 2 pkt 1, posiadający dostęp do rejestru danych kontaktowych jest obowiązany dokonać na wniosek osoby, której dane dotyczą, aktualizacji danych, o których mowa w ust. 1 pkt 3, lub usunięcia jej danych z rejestru danych kontaktowych.
+### 1.
 
-9. W przypadku usunięcia z rejestru danych kontaktowych wszystkich danych, o których mowa w ust. 1 pkt 3, automatycznie usuwane są również dane, o których mowa w ust. 1 pkt 1 i 2.
+Tworzy się Krajową Ewidencję Systemów Teleinformatycznych i Rejestrów Publicznych, zwaną dalej „krajową ewidencją”.
 
-**Art. 20k.**
+### 2.
 
-1. Podstawą przetwarzania danych osobowych w rejestrze danych kontaktowych jest zgoda osoby, której dane dotyczą.
+Krajową ewidencję prowadzi minister właściwy do spraw informatyzacji.
 
-2. Dane do rejestru danych kontaktowych są przekazywane, aktualizowane lub usuwane:
+### 3.
 
-- **1)** samodzielnie przez osobę fizyczną, przy użyciu usługi online udostępnionej przez ministra właściwego do spraw informatyzacji, po uwierzytelnieniu w sposób określony w art. 20a ust. 1;
-- **2)** za pośrednictwem podmiotu, o którym mowa w art. 20h ust. 2 pkt 1, posiadającego dostęp do rejestru danych kontaktowych, na wniosek złożony osobiście w siedzibie tego podmiotu przez osobę, której dane dotyczą.
+W krajowej ewidencji gromadzi się i udostępnia za pomocą systemu teleinformatycznego:
 
-3. Przekazaniu podlegają dane, o których mowa w art. 20j ust. 1:
+### 1)
 
-- **1)** pkt 1 i 2 – w celu identyfikacji osoby fizycznej i weryfikacji tych danych;
-- **2)** pkt 3 – w celu ułatwienia podmiotom, o których mowa w art. 20m ust. 1, kontaktu z osobą fizyczną.
+zbiorczy wykaz systemów teleinformatycznych używanych do realizacji zadań publicznych przez podmiot publiczny dokonujący zgłoszenia na podstawie art. 20 ust. 2;
 
-4. Przekazywane dane są wprowadzane do rejestru danych kontaktowych po potwierdzeniu ich poprawności oraz przyporządkowaniu do osoby, której dane dotyczą, realizowanym przy użyciu jednorazowego kodu wysłanego odpowiednio na przekazany do tego rejestru adres poczty elektronicznej lub numer telefonu komórkowego.
+### 2)
 
-**Art. 20l.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+wykaz rejestrów publicznych wraz z informacjami dotyczącymi tych rejestrów w zakresie określonym w art. 20 ust. 1 pkt 1-5.
 
-**Art. 20m.**
+### 4.
 
-1. Dane zgromadzone w rejestrze danych kontaktowych udostępnia się:
+Dane zawarte w krajowej ewidencji są jawne, chyba że ich jawność jest wyłączona bądź ograniczona na podstawie przepisów o ochronie informacji niejawnych lub o ochronie innych tajemnic ustawowo chronionych.
 
-- **1)** podmiotom, o których mowa w art. 20h ust. 2 pkt 1;
-- **2)** podmiotom, o których mowa w art. 19c, jeżeli zawarły porozumienie z ministrem właściwym do spraw informatyzacji;
-- **3)** organom wyborczym;
-- **4)** Polskiemu Czerwonemu Krzyżowi – w zakresie danych osób poszukiwanych lub poszukujących.
+### Art. 20.
 
-2. Podmiotowi, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji udostępnia dane z rejestru danych kontaktowych za pomocą urządzeń teletransmisji danych, po złożeniu jednorazowego uproszczonego wniosku, jeżeli podmiot ten spełnia łącznie następujące warunki:
+### 1.
 
-- **1)** posiada urządzenia lub systemy teleinformatyczne przeznaczone do komunikowania się pomiędzy uprawnionym podmiotem a rejestrem danych kontaktowych, umożliwiające identyfikację osoby, której udostępniono dane z rejestru danych kontaktowych, zakres udostępnionych danych oraz datę ich udostępnienia;
-- **2)** posiada zabezpieczenia techniczne i organizacyjne właściwe dla przetwarzania danych osobowych, w szczególności uniemożliwiające dostęp osób nieuprawnionych do przetwarzania danych osobowych i wykorzystanie danych niezgodnie z celem ich udostępnienia;
-- **3)** udostępnienie danych tą drogą jest uzasadnione specyfiką lub zakresem wykonywanych zadań, świadczonych usług albo prowadzonej działalności.
+Podmiot publiczny, który prowadzi rejestr publiczny, jest obowiązany zgłosić do krajowej ewidencji dane obejmujące:
 
-3. Wniosek, o którym mowa w ust. 2, złożony w postaci elektronicznej opatruje się podpisem zaufanym, podpisem osobistym albo kwalifikowanym podpisem elektronicznym.
+### 1)
 
-4. Organowi gminy zapewnia się dostęp do danych zgromadzonych w rejestrze danych kontaktowych bez konieczności składania wniosku, o którym mowa w ust. 2.
+datę rozpoczęcia realizacji zadań publicznych przy pomocy rejestru publicznego,
 
-**Art. 20n.**
+### 2)
 
-1. W sprawach o udostępnianie danych zgromadzonych w rejestrze danych kontaktowych, o których mowa w art. 20m, minister właściwy do spraw informatyzacji:
+podstawę prawną i cel utworzenia rejestru publicznego,
 
-- **1)** udostępnia te dane – w drodze czynności materialno-technicznej;
-- **2)** odmawia udostępniania tych danych albo cofa dostęp do nich – w drodze decyzji administracyjnej.
+### 3)
 
-2. Podmiotowi lub organowi, o których mowa w art. 20m, minister właściwy do spraw informatyzacji cofa dostęp do danych zgromadzonych w rejestrze danych kontaktowych:
+jednostkę organizacyjną prowadzącą rejestr publiczny,
 
-- **1)** na wniosek tego podmiotu lub organu;
-- **2)** w przypadku braku uzasadnienia dla dalszej wymiany danych między tym systemem teleinformatycznym a systemem teleinformatycznym, w którym prowadzony jest rejestr danych kontaktowych, w szczególności w przypadku gdy podmiot lub organ zaprzestał realizacji usług lub zadań, o których mowa w art. 20h ust. 2;
-- **3)** jeżeli nie zostały spełnione warunki, o których mowa w art. 20m ust. 2 pkt 3.
+### 4)
 
-3. Decyzja o cofnięciu dostępu do danych zgromadzonych w rejestrze danych kontaktowych za pomocą urządzeń teletransmisji danych podlega natychmiastowemu wykonaniu.
+zakres informacji gromadzonych w rejestrze publicznym,
 
-4. Do organu gminy przepisów ust. 1–3 nie stosuje się.
+### 5)
 
-**Art. 20o.** Osobie fizycznej, po uprzednim jej uwierzytelnieniu w sposób określony w art. 20a ust. 1, zapewnia się wgląd do dotyczących jej danych, o których mowa w art. 20j ust. 1.
+określenie, czy rejestr publiczny jest prowadzony za pomocą systemu teleinformatycznego,
 
-#### Rozdział 3b Zintegrowana platforma analityczna
+### 6)
 
-**Art. 20p.** Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie rozwiązania organizacyjno-technicznego, zwanego dalej „zintegrowaną platformą analityczną”, służącego do prowadzenia analiz wspomagających tworzenie kluczowych polityk publicznych z wykorzystaniem danych udostępnianych przez podmioty, o których mowa w art. 2, gromadzonych w rejestrach publicznych i systemach teleinformatycznych.
+wskazanie, które z podanych w zgłoszeniu danych podlegają ochronie jako informacje niejawne lub inne informacje ustawowo chronione, w jakim zakresie i na jakiej podstawie prawnej
 
-**Art. 20q.**
+- w terminie 30 dni od dnia rozpoczęcia realizacji zadań publicznych przy pomocy rejestru publicznego lub zmiany wyżej określonych danych.
 
-1. W ramach zintegrowanej platformy analitycznej minister właściwy do spraw informatyzacji przetwarza dane udostępnione z rejestrów publicznych i systemów teleinformatycznych określonych w przepisach wydanych na podstawie ust. 7, w celu wykonywania zadań związanych z analizami wspomagającymi tworzenie kluczowych polityk publicznych.
+### 2.
 
-2. Podmioty prowadzące rejestry publiczne i systemy teleinformatyczne określone w przepisach wydanych na podstawie ust. 7 udostępniają na potrzeby analiz w ramach zintegrowanej platformy analitycznej dane określone w tych przepisach, zgromadzone przez te podmioty na podstawie przepisów odrębnych w związku z realizacją zadań publicznych.
+Podmiot publiczny, który używa systemu teleinformatycznego do realizacji zadań publicznych, jest obowiązany zgłosić do krajowej ewidencji dane obejmujące:
 
-3. Jeżeli jest to niezbędne do realizacji konkretnej analizy w ramach zintegrowanej platformy analitycznej, dane udostępnione z różnych rejestrów publicznych i systemów teleinformatycznych mogą być łączone.
+### 1)
 
-4. Dane osobowe udostępniane na potrzeby prowadzenia analiz w ramach zintegrowanej platformy analitycznej podlegają pseudonimizacji.
+datę rozpoczęcia realizacji zadań publicznych przy pomocy systemu teleinformatycznego,
 
-5. Pseudonimizacja jest dokonywana przez organ lub podmiot, który udostępnia dane, po określeniu niezbędnego celu i zakresu prowadzonej analizy.
+### 2)
 
-6. Podmiot, który udostępnia dane, oraz minister właściwy do spraw informatyzacji uzgadniają metodę pseudonimizacji udostępnianych danych oraz tryb udostępniania, mając na uwadze cel, zakres analizy oraz przepisy o ochronie danych osobowych.
+zadania publiczne, do których realizacji jest używany system teleinformatyczny, ze wskazaniem podstawy prawnej ich realizacji,
 
-7. Rada Ministrów określi, w drodze rozporządzenia, zakres danych i wykaz rejestrów publicznych i systemów teleinformatycznych, z których są udostępniane niezbędne dane na potrzeby prowadzenia analiz w ramach zintegrowanej platformy analitycznej, oraz podmiotów je prowadzących, które są obowiązane do przekazywania danych pochodzących z tych rejestrów i systemów, a także sposób udostępniania tych danych, mając na uwadze zapewnienie skutecznego pozyskiwania danych oraz zgodności ich udostępniania z przepisami o ochronie danych osobowych.
+### 3)
 
-**Art. 20r.**
+jednostkę organizacyjną używającą systemu teleinformatycznego,
 
-1. Minister właściwy do spraw informatyzacji zawiera porozumienie w sprawie wykorzystywania zintegrowanej platformy analitycznej z podmiotem, o którym mowa w art. 2, na potrzeby kluczowej polityki publicznej.
+### 4)
 
-2. Porozumienie określa w szczególności:
+opis techniczny systemu teleinformatycznego,
 
-- **1)** cel analizy;
-- **2)** zakres danych niezbędnych do przeprowadzania analizy;
-- **3)** rejestry publiczne i systemy teleinformatyczne, które zawierają dane na potrzeby prowadzenia analizy oraz podmioty je prowadzące.
+### 5)
 
-3. Zawarcie porozumienia poprzedza się przeprowadzeniem weryfikacji dotyczącej celu i zakresu analizy wspomagającej tworzenie kluczowej polityki publicznej oraz niezbędności łączenia danych udostępnianych z rejestrów publicznych i systemów teleinformatycznych dla realizacji tej analizy.
+wskazanie, które z podanych w zgłoszeniu danych podlegają ochronie jako informacje niejawne lub inne tajemnice ustawowo chronione, w jakim zakresie i na jakiej podstawie prawnej
 
-**Art. 20s.**
+- w terminie 30 dni od dnia rozpoczęcia realizacji zadań publicznych przy pomocy systemu teleinformatycznego lub zmiany wyżej określonych danych.
 
-1. Minister właściwy do spraw informatyzacji w ramach zapewniania funkcjonowania zintegrowanej platformy analitycznej:
+### 3.
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem do danych;
-- **2)** przeciwdziała uszkodzeniom zintegrowanej platformy analitycznej;
-- **3)** zapewnia integralność gromadzonych danych;
-- **4)** określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
-- **5)** zapewnia rozliczalność działań dokonywanych w ramach zintegrowanej platformy analitycznej;
-- **6)** określa zasady zgłaszania naruszenia ochrony danych osobowych.
+W przypadku gdy rejestr publiczny jest prowadzony przy pomocy systemu teleinformatycznego, podmiot publiczny składa jedno zgłoszenie zawierające dane określone w ust. 1 pkt 1 i 2.
 
-2. Dane osobowe przetwarzane w ramach zintegrowanej platformy analitycznej są wykorzystywane adekwatnie, w sposób stosowny i ograniczony, wyłącznie w zakresie niezbędnym do realizacji określonych celów analitycznych.
+### 4.
 
-3. Wykorzystywanie danych do celów innych niż określone w ustawie, w szczególności do podejmowania decyzji lub indywidualnych rozstrzygnięć, jest zabronione.
+Podmiot publiczny, o którym mowa w ust. 1, jest obowiązany zgłosić do krajowej ewidencji zaprzestanie prowadzenia rejestru publicznego, podając datę zaprzestania prowadzenia rejestru publicznego oraz podstawę prawną zaprzestania jego prowadzenia.
 
-**Art. 20t.** Dane przetwarzane w ramach zintegrowanej platformy analitycznej są usuwane niezwłocznie po przeprowadzeniu analiz, na potrzeby których dane zostały udostępnione.
+### 5.
 
-#### Rozdział 4 Badanie osiągania interoperacyjności oraz kontrola przestrzegania przepisów ustawy
+Podmiot publiczny, o którym mowa w ust. 2, jest obowiązany zgłosić do krajowej ewidencji datę zakończenia realizacji zadań publicznych przy pomocy danego systemu teleinformatycznego.
 
-**Art. 21.** [1. W celu zapewnienia interoperacyjności systemów teleinformatycznych używanych do realizacji zadań publicznych przeprowadza się, z zastrzeżeniem art. 24, badanie poprawności wdrożenia rozwiązań, o których mowa w art. 13 ust. 2 pkt 2 lit. a, w oprogramowaniu interfejsowym przy wykorzystaniu testów akceptacyjnych udostępnionych przez podmiot publiczny, zgodnie z art. 13 ust. 2 pkt 2 lit. b, zwane dalej „badaniem”.] <1. W celu zapewnienia interoperacyjności systemów teleinformatycznych używanych do realizacji zadań publicznych przeprowadza się, z zastrzeżeniem art. 24, badanie poprawności wdrożenia API systemu teleinformatycznego używanego do realizacji zadań publicznych, z uwzględnieniem informacji, o których mowa w art. 13 ust. 5 pkt 3, w oprogramowaniu interfejsowym z wykorzystaniem testów akceptacyjnych udostępnionych przez podmiot realizujący zadania publiczne, zgodnie z art. 13 ust. 2 pkt 2 lit. b, zwane dalej „badaniem”.> 2. Badanie przeprowadza, na własny koszt, twórca oprogramowania interfejsowego albo inny podmiot posiadający autorskie prawa majątkowe do oprogramowania interfejsowego, które ma być wykorzystywane do realizacji zadania publicznego, zwany dalej „podmiotem uprawnionym”:
+### 6.
 
-**Art. 22.**
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
-1. Oprogramowanie interfejsowe może być używane do realizacji zadań publicznych, jeżeli uzyskało pozytywny wynik badania.
+### 1)
 
-2. Podmiot publiczny może nieodpłatnie udostępnić oprogramowanie interfejsowe, które uzyskało pozytywny wynik badania, albo jego kody źródłowe, w zakresie określonym w umowie licencyjnej z podmiotem uprawnionym.
+sposób prowadzenia krajowej ewidencji oraz tryb dostarczania i udostępniania danych z krajowej ewidencji,
 
-3. W razie stwierdzenia używania do realizacji zadania publicznego oprogramowania interfejsowego, które:
+### 2)
 
-- **1)** nie zostało poddane badaniu,
-- **2)** nie uzyskało pozytywnego wyniku badania w przypadkach, o których mowa w art. 21 ust. 2 – podmiot publiczny może odmówić przyjęcia danych przekazywanych za pomocą tego oprogramowania; w takim przypadku odmowa przyjęcia danych jest równoznaczna z nieprzekazaniem tych danych.
+wzór zgłoszenia rejestru publicznego i systemu teleinformatycznego do krajowej ewidencji
 
-**Art. 23.**
+- uwzględniając konieczność zapewnienia sprawnego przekazywania danych do krajowej ewidencji oraz umożliwienia powszechnej dostępności danych zgromadzonych w krajowej ewidencji, przy zachowaniu odpowiedniego poziomu bezpieczeństwa.
 
-1. Przepisy art. 21 i 22 stosuje się odpowiednio, jeżeli:
+### Rozdział 4 Badanie zgodności oprogramowania interfejsowego z rozwiązaniami określonymi przez podmioty publiczne oraz kontrola przestrzegania przepisów ustawy
 
-- **1)** podmiot publiczny jest podmiotem uprawnionym;
-- **2)** podmiot uprawniony przekazał podmiotowi publicznemu autorskie prawa majątkowe do oprogramowania interfejsowego.
+### Art. 21.
 
-2. W przypadkach, o których mowa w ust. 1, w razie zaistnienia okoliczności, o których mowa w art. 22 ust. 3 pkt 1 albo 2, oprogramowanie interfejsowe nie może być używane do realizacji zadań publicznych do czasu uzyskania pozytywnego wyniku badania.
+### 1.
 
-**Art. 24.** Przepisów art. 21–23 nie stosuje się w przypadku, o którym mowa w art. 13 ust. 4, chyba że:
+W celu zapewnienia spójnego działania systemów teleinformatycznych używanych do realizacji zadań publicznych przeprowadza się, z zastrzeżeniem art. 24, badanie poprawności wdrożenia rozwiązań, o których mowa w art. 13 ust. 2 pkt 2 lit. a, w oprogramowaniu interfejsowym przy wykorzystaniu testów akceptacyjnych udostępnionych przez podmiot publiczny zgodnie z art. 13 ust. 2 pkt 2 lit. b, zwane dalej „badaniem”.
 
-**Art. 25.**
+### 2.
 
-1. Kontroli:
+Badanie przeprowadza, na własny koszt, twórca oprogramowania interfejsowego albo inny podmiot posiadający autorskie prawa majątkowe do oprogramowania interfejsowego, które ma być wykorzystywane do realizacji zadania publicznego, zwany dalej „podmiotem uprawnionym”:
 
-- **1)** realizacji przedsięwzięć informatycznych o publicznym zastosowaniu, o których mowa w art. 3 pkt 6 lit. a, f, g lub h, działania systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi, a także rejestrów publicznych, których zakres przedmiotowy dotyczy spraw należących do właściwości więcej niż jednego działu administracji rządowej, dokonuje Prezes Rady Ministrów;
-- **2)** realizacji przedsięwzięć informatycznych o publicznym zastosowaniu, o których mowa w art. 3 pkt 6 lit. a, f, g lub h, działania systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi, a także rejestrów publicznych, których zakres przedmiotowy dotyczy spraw należących do właściwości jednego działu administracji rządowej, dokonuje minister kierujący działem administracji rządowej, którego dotyczy przedsięwzięcie;
-- **3)** działania systemów teleinformatycznych, używanych do realizacji zadań publicznych albo realizacji obowiązków wynikających z art. 13 ust. 2, dokonuje:
-    - **a)** w jednostkach samorządu terytorialnego i ich związkach oraz w tworzonych lub prowadzonych przez te jednostki samorządowych osobach prawnych i innych samorządowych jednostkach organizacyjnych – właściwy wojewoda, z zastrzeżeniem ust. 3,
-    - **b)** w podmiotach publicznych podległych lub nadzorowanych przez organy administracji rządowej – organ administracji rządowej nadzorujący dany podmiot publiczny,
-    - **c)** w podmiotach publicznych niewymienionych w lit. a i b – minister właściwy do spraw informatyzacji – pod względem zgodności z minimalnymi wymaganiami dla systemów teleinformatycznych używanych do realizacji zadań publicznych i wymiany danych z podmiotami publicznymi lub zgodności z minimalnymi wymaganiami dla rejestrów publicznych oraz zgodności z pryncypiami, standardami, wytycznymi i rekomendacjami architektonicznymi Architektury Informacyjnej Państwa.
+### 1)
 
-2. (uchylony)
+przed udostępnieniem po raz pierwszy oprogramowania interfejsowego do realizacji tego zadania;
 
-3. W stosunku do organów i jednostek, o których mowa w ust. 1 pkt 3 lit. a, kontrola może dotyczyć wyłącznie systemów teleinformatycznych oraz rejestrów publicznych, które są używane do realizacji zadań zleconych z zakresu administracji rządowej. Jeżeli do uzyskania pełnej oceny systemu teleinformatycznego lub rejestru publicznego używanego do realizacji zadań zleconych z zakresu administracji rządowej niezbędna jest ocena także innego systemu teleinformatycznego lub rejestru publicznego, kontrolą może zostać objęty także ten system lub rejestr.
+### 2)
 
-4. (uchylony)
+po modyfikacji oprogramowania interfejsowego w zakresie, o którym mowa w art. 13 ust. 2 pkt 2 lit. a, dokonanej od czasu poprzedniego badania.
 
-**Art. 25a.** Do kontroli stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224 oraz z 2025 r. poz.
+### 3.
 
-**Art. 26.** (uchylony)
+Podmiot uprawniony:
 
-**Art. 27.** (uchylony)
+### 1)
 
-**Art. 28.**
+informuje podmiot publiczny o rodzaju, wersji, dacie wytworzenia i charakterystyce techniczno-funkcjonalnej oprogramowania interfejsowego poddawanego badaniu;
 
-1. Kontrolerem może być osoba pełnoletnia, która:
+### 2)
 
-- **1)** posiada wykształcenie wyższe;
-- **2)** posiada obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, chyba że przepisy odrębne uzależniają zatrudnienie jej w jednostce kontrolowanej od posiadania obywatelstwa polskiego;
-- **3)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
-- **4)** nie była karana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** posiada certyfikat, o którym mowa w ust. 3.
+składa podmiotowi publicznemu oświadczenie o wyniku badania.
 
-2. Kontroler jest obowiązany zachować w tajemnicy informacje, które uzyskał w związku z wykonywaniem czynności kontroli. Obowiązek zachowania tajemnicy trwa również po ustaniu pełnienia obowiązków kontrolera w urzędzie obsługującym organ dokonujący kontroli.
+### 4.
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wykaz certyfikatów uprawniających do prowadzenia kontroli w rozumieniu art. 25, uwzględniając zakres wiedzy specjalistycznej wymaganej od osób legitymujących się poszczególnymi certyfikatami i zakres kontroli określony w art. 25.
+W celu potwierdzenia wyniku badania podmiot publiczny może przeprowadzić weryfikację tego badania, wykorzystując testy akceptacyjne udostępnione podmiotowi uprawnionemu. Podmiot publiczny informuje podmiot uprawniony o wyniku weryfikacji.
 
-4. W przypadku przeprowadzania kontroli przez zespół kontrolerów, co najmniej jeden kontroler, będący członkiem tego zespołu, posiada certyfikat, o którym mowa w ust. 3.
+### 5.
 
-**Art. 29.** (uchylony)
+W razie niezgodności wyniku weryfikacji z wynikiem badania dokonanego przez podmiot uprawniony rozstrzyga wynik weryfikacji. W tym przypadku koszty weryfikacji ponosi podmiot uprawniony.
 
-**Art. 30.** (uchylony)
+### 6.
 
-**Art. 31.** (uchylony)
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
 
-**Art. 32.** (uchylony)
+### 1)
 
-**Art. 33.** (uchylony)
+metodykę, warunki i tryb sporządzania testów akceptacyjnych,
 
-**Art. 34.** (uchylony)
+### 2)
 
-**Art. 35.** (uchylony)
+sposób postępowania w zakresie badania oraz weryfikacji badania, w tym sposób dokumentowania wyników badania oraz weryfikacji badania,
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+### 3)
 
-#### Rozdział 6 Przepisy dostosowujące, przejściowe i końcowe
+rodzaje oprogramowania interfejsowego podlegającego badaniu,
 
-**Art. 61.**
+### 4)
 
-1. Ilekroć w przepisach dotyczących informatyzacji zawartych w odrębnych ustawach jest mowa o:
+szczegółowy zakres informacji, o których mowa w ust. 3 pkt 1, oraz sposób i tryb przekazywania tych informacji,
 
-- **1)** elektronicznym nośniku informacji, elektronicznym nośniku informatycznym, elektronicznym nośniku danych, komputerowym nośniku informacji, komputerowym nośniku danych, nośniku elektronicznym, nośniku magnetycznym, nośniku informatycznym albo nośniku komputerowym – należy przez to rozumieć, w przypadku wątpliwości interpretacyjnych, informatyczny nośnik danych, o którym mowa w art. 3 pkt 1 niniejszej ustawy;
-- **2)** danych elektronicznych, danych w postaci elektronicznej, danych w formie elektronicznej, danych informatycznych, informacjach w postaci elektronicznej albo informacjach w formie elektronicznej – należy przez to rozumieć, w przypadku wątpliwości interpretacyjnych, dokument elektroniczny, o którym mowa w art. 3 pkt 2 niniejszej ustawy.
+### 5)
 
-2. Przepisu ust. 1 nie stosuje się do przepisów:
+wzór oświadczenia o wyniku badania oraz wyniku weryfikacji badania
 
-- **1)** ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **2)** ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025);
-- **3)** ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych (Dz. U. z 2012 r. poz. 1232) .
+- uwzględniając konieczność wprowadzenia jednolitych warunków przygotowania rzetelnego zestawu testów akceptacyjnych oraz dokonania obiektywnej oceny oprogramowania interfejsowego.
 
-**Art. 62.** (pominięty)
+### Art. 22.
 
-**Art. 63.** (pominięty)
+### 1.
 
-**Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia , z wyjątkiem:
+Oprogramowanie interfejsowe może być używane do realizacji zadań publicznych, jeżeli uzyskało pozytywny wynik badania.
 
+### 2.
+
+Podmiot publiczny może nieodpłatnie udostępnić oprogramowanie interfejsowe, które uzyskało pozytywny wynik badania, albo jego kody źródłowe, w zakresie określonym w umowie licencyjnej z podmiotem uprawnionym.
+
+### 3.
+
+W razie stwierdzenia używania do realizacji zadania publicznego oprogramowania interfejsowego, które:
+
+### 1)
+
+nie zostało poddane badaniu,
+
+### 2)
+
+nie uzyskało pozytywnego wyniku badania w przypadkach, o których mowa w art. 21 ust. 2
+
+- podmiot publiczny może odmówić przyjęcia danych przekazywanych za pomocą tego oprogramowania; w takim przypadku odmowa przyjęcia danych jest równoznaczna z nieprzekazaniem tych danych.
+
+### Art. 23.
+
+### 1.
+
+Przepisy art. 21 i 22 stosuje się odpowiednio, jeżeli:
+
+### 1)
+
+podmiot publiczny jest podmiotem uprawnionym;
+
+### 2)
+
+podmiot uprawniony przekazał podmiotowi publicznemu autorskie prawa majątkowe do oprogramowania interfejsowego.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, w razie zaistnienia okoliczności, o których mowa w art. 22 ust. 3 pkt 1 albo 2, oprogramowanie interfejsowe nie może być używane do realizacji zadań publicznych do czasu uzyskania pozytywnego wyniku badania.
+
+### Art. 24.
+
+Przepisów art. 21-23 nie stosuje się w przypadku, o którym mowa w art. 13 ust. 4, chyba że:
+
+### 1)
+
+podmiot publiczny udostępnił testy akceptacyjne;
+
+### 2)
+
+podmiot uprawniony wystąpił o udostępnienie testów akceptacyjnych w celu przeprowadzenia badania.
+
+### Art. 25.
+
+### 1.
+
+Kontroli:
+
+### 1)
+
+realizacji ponadsektorowych projektów informatycznych dokonuje Prezes Rady Ministrów;
+
+### 2)
+
+realizacji sektorowych projektów informatycznych dokonuje minister kierujący działem administracji rządowej, dla którego ustanowiono sektorowy projekt informatyczny;
+
+### 3)
+
+działania systemów teleinformatycznych, używanych do realizacji zadań publicznych albo realizacji obowiązków wynikających z art. 13 ust. 2, dokonuje:
+
+### a)
+
+w jednostkach samorządu terytorialnego i ich związkach oraz w tworzonych lub prowadzonych przez te jednostki samorządowych osobach prawnych i innych samorządowych jednostkach organizacyjnych - właściwy wojewoda, z zastrzeżeniem ust. 3,
+
+### b)
+
+w podmiotach publicznych podległych lub nadzorowanych przez organy administracji rządowej - organ administracji rządowej nadzorujący dany podmiot publiczny,
+
+### c)
+
+w podmiotach publicznych niewymienionych w lit. a i b - minister właściwy do spraw informatyzacji
+
+- pod względem zgodności z minimalnymi wymaganiami dla systemów teleinformatycznych lub minimalnymi wymaganiami dla rejestrów publicznych i wymiany informacji w formie elektronicznej.
+
+### 2.
+
+Kontrola, o której mowa w ust. 1, nie może dotyczyć informacji i danych stanowiących tajemnicę państwową albo inną tajemnicę ustawowo chronioną, zawartych w kontrolowanych systemach teleinformatycznych oraz rejestrach publicznych, jak również prowadzić do ich ujawnienia ani narażać na ujawnienie, z zastrzeżeniem art. 26 ust. 3 pkt 4.
+
+### 3.
+
+W stosunku do organów i jednostek, o których mowa w ust. 1 pkt 3 lit. a, kontrola może dotyczyć wyłącznie systemów teleinformatycznych oraz rejestrów publicznych, które są używane do realizacji zadań zleconych z zakresu administracji rządowej. W pozostałych przypadkach kontrola przeprowadzana jest na wniosek.
+
+### 4.
+
+Kontroli w zakresie prawidłowości wydatkowania środków finansowych przekazywanych na podstawie art. 12 ust. 5, z punktu widzenia legalności, gospodarności, celowości i rzetelności wydatkowania środków publicznych:
+
+### 1)
+
+podmiotów określonych w ust. 1 pkt 3 lit. a - dokonuje właściwa regionalna izba obrachunkowa, na zasadach określonych w ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych ([Dz. U. z 2001 r. Nr 55, poz. 577](https://api.sejm.gov.pl/eli/acts/DU/2001/577/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.](#gloss-0:5:));
+
+### 2)
+
+podmiotów niewymienionych w pkt 1 - dokonuje minister właściwy do spraw informatyzacji, na zasadach określonych w przepisach niniejszego rozdziału.
+
+### Art. 26.
+
+### 1.
+
+Kontrolę, o której mowa w art. 25, przeprowadzają kontrolerzy wyznaczeni przez organ dokonujący kontroli, na podstawie wydanego przez ten organ imiennego upoważnienia.
+
+### 2.
+
+Upoważnienie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+wskazanie kontrolowanego podmiotu publicznego;
+
+### 2)
+
+imię i nazwisko kontrolera;
+
+### 3)
+
+serię i numer dokumentu tożsamości oraz legitymacji służbowej kontrolera;
+
+### 4)
+
+przedmiot i zakres kontroli;
+
+### 5)
+
+przewidywany czas trwania kontroli;
+
+### 6)
+
+okres ważności upoważnienia;
+
+### 7)
+
+datę jego wydania oraz podpis organu dokonującego kontroli albo osoby przez ten organ upoważnionej.
+
+### 3.
+
+Kontroler przeprowadza kontrolę po okazaniu:
+
+### 1)
+
+dokumentu tożsamości;
+
+### 2)
+
+legitymacji służbowej;
+
+### 3)
+
+upoważnienia, o którym mowa w ust. 1;
+
+### 4)
+
+aktualnego poświadczenia bezpieczeństwa upoważniającego do dostępu do informacji niejawnych stanowiących tajemnicę państwową - w przypadku gdy kontrola ma dotyczyć systemów teleinformatycznych lub rejestrów publicznych zawierających informacje i dane stanowiące tajemnicę państwową albo inną tajemnicę ustawowo chronioną.
+
+### Art. 27.
+
+### 1.
+
+Celem kontroli jest obiektywne ustalenie stanu faktycznego oraz rzetelne jego udokumentowanie, a w razie stwierdzenia nieprawidłowości - ustalenie ich przyczyn, zakresu i skutków oraz osób za nie odpowiedzialnych.
+
+### 2.
+
+Realizując cel, o którym mowa w ust. 1, kontroler ma prawo do:
+
+### 1)
+
+swobodnego poruszania się na terenie siedziby kontrolowanego podmiotu publicznego oraz w miejscu wykonywania jego zadań;
+
+### 2)
+
+wglądu do dokumentów i materiałów dotyczących przedmiotu kontroli lub mających istotne znaczenie dla obiektywnego ustalenia stanu faktycznego;
+
+### 3)
+
+żądania sporządzenia, na koszt kontrolowanego podmiotu publicznego, uwierzytelnionych kopii, odpisów i wyciągów z dokumentów oraz zestawień, danych i obliczeń niezbędnych do przeprowadzenia kontroli;
+
+### 4)
+
+przeprowadzania oględzin systemów teleinformatycznych używanych do realizacji zadań publicznych;
+
+### 5)
+
+żądania udzielenia ustnych lub pisemnych wyjaśnień;
+
+### 6)
+
+korzystania z pomocy biegłych.
+
+### 3.
+
+W czynnościach kontrolnych, o których mowa w ust. 2, uczestniczy kierownik kontrolowanego podmiotu publicznego lub osoba przez niego upoważniona.
+
+### Art. 28.
+
+### 1.
+
+Kontrolerem może być osoba pełnoletnia, która:
+
+### 1)
+
+nie została prawomocnie skazana za przestępstwo popełnione umyślnie;
+
+### 2)
+
+posiada wykształcenie wyższe o specjalności odpowiedniej z uwagi na zakres kontroli, o której mowa w art. 25;
+
+### 3)
+
+posiada ważne świadectwo kwalifikacji wydane przez ministra właściwego do spraw informatyzacji.
+
+### 2.
+
+Kontroler jest obowiązany zachować w tajemnicy informacje, które uzyskał w związku z wykonywaniem czynności kontroli. Obowiązek zachowania tajemnicy trwa również po ustaniu pełnienia obowiązków kontrolera w urzędzie obsługującym organ dokonujący kontroli.
+
+### 3.
+
+Świadectwo kwalifikacji wydaje się po ukończeniu szkolenia początkowego oraz złożeniu z wynikiem pozytywnym egzaminu przed komisją egzaminacyjną powołaną przez ministra właściwego do spraw informatyzacji.
+
+### 4.
+
+Minister właściwy do spraw informatyzacji prowadzi ewidencję wydanych świadectw kwalifikacji. Ewidencja obejmuje numer wydanego świadectwa, imię i nazwisko oraz numer PESEL osoby, która uzyskała świadectwo kwalifikacji.
+
+### 5.
+
+Świadectwo kwalifikacji jest ważne przez okres 5 lat od dnia jego wydania. Ważność świadectwa kwalifikacji może być przedłużana na kolejne pięcioletnie okresy.
+
+### 6.
+
+Przedłużenia ważności świadectwa kwalifikacji dokonuje minister właściwy do spraw informatyzacji, na wniosek osoby zainteresowanej, po ukończeniu przez tę osobę szkolenia uzupełniającego i złożeniu z wynikiem pozytywnym egzaminu.
+
+### 7.
+
+Za przeprowadzenie egzaminu po ukończeniu szkolenia początkowego oraz szkolenia uzupełniającego jest pobierana opłata.
+
+### 8.
+
+Szkolenie początkowe oraz szkolenie uzupełniające może prowadzić podmiot, który dokonał pisemnego zgłoszenia ministrowi właściwemu do spraw informatyzacji w terminie 30 dni przed rozpoczęciem pierwszego szkolenia przez ten podmiot. Zgłoszenia wymaga także zaprzestanie prowadzenia tych szkoleń.
+
+### 9.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+### 1)
+
+zakres programowy i wymiar czasowy szkolenia początkowego i szkolenia uzupełniającego,
+
+### 2)
+
+skład oraz regulamin działania komisji egzaminacyjnej,
+
+### 3)
+
+sposób organizowania i regulamin przeprowadzania egzaminów, w tym egzaminu poprawkowego,
+
+### 4)
+
+zakres tematów egzaminacyjnych,
+
+### 5)
+
+warunki i tryb wydawania lub przedłużania świadectwa kwalifikacji,
+
+### 6)
+
+wzór świadectwa kwalifikacji,
+
+### 7)
+
+wysokość opłat pobieranych za przeprowadzenie egzaminu po ukończeniu szkolenia początkowego oraz szkolenia uzupełniającego,
+
+### 8)
+
+wzór zgłoszenia, o którym mowa w ust. 8
+
+- mając na uwadze konieczność sprawnego, obiektywnego i rzetelnego przygotowania do wykonywania czynności kontrolera, zapewnienia należytego udokumentowania umiejętności nabytych w trakcie szkolenia, a także ustalenia wysokości opłat, o których mowa w pkt 7, tak aby nie przekraczały one rzeczywistych kosztów przeprowadzenia egzaminów.
+
+### Art. 29.
+
+### 1.
+
+Kontroler podlega wyłączeniu z kontroli, z urzędu albo na wniosek, jeżeli wyniki kontroli mogą oddziaływać na jego prawa lub obowiązki, na prawa lub obowiązki jego małżonka albo osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia lub osób związanych z nim z tytułu przysposobienia, opieki bądź kurateli. Powody wyłączenia kontrolującego trwają także po ustaniu małżeństwa, wspólnego pożycia, przysposobienia lub kurateli.
+
+### 2.
+
+Kontroler może być wyłączony z kontroli w każdym czasie, jeżeli zachodzą uzasadnione wątpliwości co do jego bezstronności.
+
+### 3.
+
+Z wnioskiem o wyłączenie kontrolera z przeprowadzenia kontroli może wystąpić kontroler lub kontrolowany podmiot publiczny. O wyłączeniu albo odmowie wyłączenia rozstrzyga, w drodze decyzji, minister właściwy do spraw informatyzacji.
+
+### Art. 30.
+
+### 1.
+
+Kierownik kontrolowanego podmiotu publicznego jest obowiązany:
+
+### 1)
+
+zapewnić warunki i środki niezbędne do sprawnego przeprowadzenia kontroli;
+
+### 2)
+
+przedstawić na żądanie kontrolera dokumenty i materiały, o których mowa w art. 27 ust. 2 pkt 2, z zachowaniem przepisów o ochronie informacji niejawnych oraz innych tajemnic ustawowo chronionych;
+
+### 3)
+
+zapewnić możliwość sporządzania lub przekazywania uwierzytelnionych kopii, odpisów i wyciągów z dokumentów oraz zestawień, danych i obliczeń niezbędnych do przeprowadzenia kontroli.
+
+### 2.
+
+Kierownik kontrolowanego podmiotu publicznego lub inny pracownik tego podmiotu może odmówić udzielenia kontrolerowi wyjaśnień jedynie w przypadkach, gdy wyjaśnienia mogą dotyczyć faktów lub okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność karną bądź majątkową wezwanego do złożenia wyjaśnień, a także jego małżonka lub osobę pozostającą z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osoby związane z nim z tytułu przysposobienia, opieki bądź kurateli.
+
+### Art. 31.
+
+### 1.
+
+Wyniki przeprowadzonej kontroli kontroler przedstawia w protokole kontroli. Protokół kontroli zawiera w szczególności opis stanu faktycznego stwierdzonego podczas kontroli działalności kontrolowanego podmiotu publicznego oraz przypadków naruszenia przepisów ustawy lub wydanych na jej podstawie przepisów wykonawczych.
+
+### 2.
+
+Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden otrzymuje kierownik kontrolowanego podmiotu publicznego.
+
+### 3.
+
+Protokół kontroli podpisują kontroler i kierownik kontrolowanego podmiotu publicznego.
+
+### Art. 32.
+
+### 1.
+
+Kierownik kontrolowanego podmiotu publicznego ma prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole.
+
+### 2.
+
+Zastrzeżenia zgłasza się na piśmie, w terminie 7 dni roboczych od dnia otrzymania protokołu kontroli.
+
+### 3.
+
+W razie zgłoszenia zastrzeżeń kontroler jest obowiązany dokonać ich analizy i, w miarę potrzeby, podjąć dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń - zmienić lub uzupełnić w odpowiednim zakresie protokół kontroli.
+
+### Art. 33.
+
+### 1.
+
+Kierownik kontrolowanego podmiotu publicznego może odmówić podpisania protokołu kontroli, składając kontrolerowi, w terminie 3 dni roboczych od dnia otrzymania protokołu, pisemne wyjaśnienie przyczyn tej odmowy.
+
+### 2.
+
+Odmowa podpisania protokołu nie stanowi przeszkody do podpisania protokołu przez kontrolera.
+
+### Art. 34.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy tryb przeprowadzania kontroli podmiotu publicznego, w tym zabezpieczania materiałów dowodowych,
+
+### 2)
+
+szczegółowe wymogi co do zawartości protokołu kontroli,
+
+### 3)
+
+wzór upoważnienia do kontroli
+
+- biorąc pod uwagę potrzebę zapewnienia efektywności kontroli przy minimalizacji zakłóceń w pracy podmiotu publicznego, a także zasadę pełnego informowania kierownika kontrolowanego podmiotu publicznego o przedmiocie, zakresie, trybie i czasie prowadzenia kontroli oraz o ustaleniach dokonywanych w jej trakcie.
+
+### Art. 35.
+
+### 1.
+
+Na podstawie ustaleń zawartych w protokole kontroli, w razie stwierdzenia naruszeń przepisów ustawy lub wydanych na jej podstawie przepisów wykonawczych organ dokonujący kontroli sporządza wystąpienie pokontrolne, w którym określa sposób oraz termin usunięcia tych naruszeń.
+
+### 2.
+
+Kontrolowany podmiot, w terminie 60 dni od dnia otrzymania wystąpienia pokontrolnego, zawiadamia organ dokonujący kontroli o wykonaniu zaleceń pokontrolnych albo, w razie ich niewykonania, o przewidywanym terminie ich wykonania i przyczynach niewykonania.
+
+### 3.
+
+Do zaleceń zawartych w wystąpieniu pokontrolnym przysługuje, w terminie 30 dni od otrzymania wystąpienia pokontrolnego, prawo zgłoszenia zastrzeżeń. Zastrzeżenia składa, za pośrednictwem organu dokonującego kontroli, właściwy organ kontrolowanego podmiotu do organu wyższego stopnia w stosunku do organu dokonującego kontroli, w rozumieniu przepisów Kodeksu postępowania administracyjnego, z zastrzeżeniem ust. 4.
+
+### 4.
+
+Jeżeli organem dokonującym kontroli jest Prezes Rady Ministrów albo minister, zastrzeżenia składa się bezpośrednio do tego organu.
+
+### 5.
+
+Bieg terminu, o którym mowa w ust. 2, ulega zawieszeniu na czas rozpatrzenia zastrzeżenia w odniesieniu do zaleceń pokontrolnych objętych zastrzeżeniem.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących
+
+### Art. 36.
+
+W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660 oraz z 2004 r. Nr 162, poz. 1692.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 39 dodaje się art. 391 w brzmieniu:
+
+„
+
+### Art. 391.
+
+### § 1.
+
+Doręczenie może nastąpić za pomocą środków komunikacji elektronicznej w rozumieniu przepisów o świadczeniu usług drogą elektroniczną, jeżeli strona:
+
+### 1)
+
+wystąpiła do organu administracji publicznej o doręczenie albo
+
+### 2)
+
+wyraziła zgodę na doręczenie jej pism za pomocą tych środków.
+
+### § 2.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, strukturę i sposób sporządzania pism w formie dokumentów elektronicznych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565), a także warunki organizacyjno-techniczne ich doręczania, w tym formę urzędowego poświadczania odbioru tych pism przez ich adresata oraz sposób udostępniania ich kopii, uwzględniając potrzebę zapewnienia bezpieczeństwa przy stosowaniu pism w formie dokumentów elektronicznych oraz sprawność postępowania.
+
+” ;
+
+### 2)
+
+w art. 46 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W przypadku doręczenia pisma za pomocą środków komunikacji elektronicznej doręczenie jest skuteczne, jeżeli w terminie 7 dni od dnia wysłania pisma organ administracji publicznej otrzyma potwierdzenie doręczenia pisma. W razie nieotrzymania takiego potwierdzenia organ doręcza pismo w sposób określony w przepisach niniejszego rozdziału dla pisma w formie innej niż forma dokumentu elektronicznego.
+
+” ;
+
+### 3)
+
+w art. 57 § 5 otrzymuje brzmienie:
+
+„
+
+### § 5.
+
+Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało:
+
+### 1)
+
+wysłane w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, za poświadczeniem przedłożenia, do organu administracji publicznej,
+
+### 2)
+
+nadane w polskiej placówce pocztowej operatora publicznego,
+
+### 3)
+
+złożone w polskim urzędzie konsularnym,
+
+### 4)
+
+złożone przez żołnierza w dowództwie jednostki wojskowej,
+
+### 5)
+
+złożone przez członka załogi statku morskiego kapitanowi statku,
+
+### 6)
+
+złożone przez osobę pozbawioną wolności w administracji zakładu karnego.
+
+” ;
+
+### 4)
+
+w art. 61 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Datą wszczęcia postępowania na żądanie strony wniesione drogą elektroniczną jest dzień wprowadzenia żądania do systemu teleinformatycznego organu administracji publicznej.
+
+” ;
+
+### 5)
+
+w art. 63:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Podania (żądania, wyjaśnienia, odwołania, zażalenia) mogą być wnoszone pisemnie, telegraficznie lub za pomocą dalekopisu, telefaksu, poczty elektronicznej albo za pomocą formularza umieszczonego na stronie internetowej właściwego organu administracji publicznej, umożliwiającego wprowadzenie danych do systemu teleinformatycznego tego organu, a także ustnie do protokołu.
+
+” ,
+
+### b)
+
+dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Podanie wniesione w formie dokumentu elektronicznego powinno:
+
+### 1)
+
+być opatrzone bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych w przepisach o podpisie elektronicznym, oraz
+
+### 2)
+
+zawierać dane w ustalonym formacie, zawarte we wzorze podania określonym w odrębnych przepisach, jeżeli te przepisy nakazują wnoszenie podań według określonego wzoru.
+
+” .
+
+### Art. 37.
+
+W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. z 2002 r. Nr 171, poz. 1396](https://api.sejm.gov.pl/eli/acts/DU/2002/1396/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 173, poz. 1808, Nr 202, poz. 2065 i Nr 273, poz. 2703 oraz z 2005 r. Nr 10, poz. 69.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 1 otrzymuje brzmienie:
+
+„
+
+### Art. 1.
+
+Materiałami archiwalnymi wchodzącymi do narodowego zasobu archiwalnego, zwanymi dalej „materiałami archiwalnymi”, są wszelkiego rodzaju akta i dokumenty, korespondencja, dokumentacja finansowa, techniczna i statystyczna, mapy i plany, fotografie, filmy i mikrofilmy, nagrania dźwiękowe i wideofonowe, dokumenty elektroniczne w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565) oraz inna dokumentacja, bez względu na sposób jej wytworzenia, mająca znaczenie jako źródło informacji o wartości historycznej o działalności Państwa Polskiego, jego poszczególnych organów i innych państwowych jednostek organizacyjnych oraz o jego stosunkach z innymi państwami, o rozwoju życia społecznego i gospodarczego, o działalności organizacji o charakterze politycznym, społecznym i gospodarczym, zawodowym i wyznaniowym, o organizacji i rozwoju nauki, kultury i sztuki, a także o działalności jednostek samorządu terytorialnego i innych samorządowych jednostek organizacyjnych - powstała w przeszłości i powstająca współcześnie.
+
+” ;
+
+### 2)
+
+w art. 5:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
+
+„
+
+### 2a.
+
+Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Naczelnego Dyrektora Archiwów Państwowych, określi, w drodze rozporządzenia, niezbędne elementy struktury dokumentów elektronicznych powstałych i gromadzonych w podmiotach, o których mowa w ust. 1, uwzględniając minimalne wymagania dla rejestrów publicznych i wymiany informacji w formie elektronicznej, a także potrzebę zapewnienia integralności dokumentów elektronicznych.
+
+### 2b.
+
+Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Naczelnego Dyrektora Archiwów Państwowych, określi, w drodze rozporządzenia, szczegółowy sposób postępowania z dokumentami elektronicznymi w podmiotach, o których mowa w ust. 1, w szczególności zasady ewidencjonowania, klasyfikowania i kwalifikowania dokumentów elektronicznych oraz zasady i tryb ich brakowania, uwzględniając potrzebę zapewnienia integralności dokumentów elektronicznych i długotrwałego ich przechowywania.
+
+### 2c.
+
+Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego, na wniosek Naczelnego Dyrektora Archiwów Państwowych, określi, w drodze rozporządzenia, wymagania techniczne, jakim powinny odpowiadać formaty zapisu i informatyczne nośniki danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, przekazywanych do archiwów państwowych materiałów archiwalnych utrwalonych na informatycznych nośnikach danych.
+
+” ,
+
+### b)
+
+w ust. 3 zdanie wstępne otrzymuje brzmienie: „ Sprawy, o których mowa w ust. 1, 2 i 2c, reguluje w odniesieniu do: ” ;
+
+### 3)
+
+w art. 16:
+
+### a)
+
+w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+koszty użycia systemów teleinformatycznych lub informatycznych nośników danych.
+
+” ,
+
+### b)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Archiwa państwowe wykonują usługi archiwalne w zakresie wyszukiwania, prowadzenia kwerend, kopiowania, przetwarzania i przekazywania danych przy użyciu systemów teleinformatycznych lub informatycznych nośników danych oraz konserwacji materiałów archiwalnych na potrzeby, o których mowa w ust. 1. Archiwa państwowe mogą również prowadzić działalność usługową, polegającą na przechowywaniu, kopiowaniu i konserwacji dokumentacji o czasowym okresie przechowywania, w tym dokumentacji osobowej i płacowej pracodawców.
+
+” .
+
+### Art. 38.
+
+W ustawie z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych ([Dz. U. z 2001 r. Nr 55, poz. 577](https://api.sejm.gov.pl/eli/acts/DU/2001/577/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.](#gloss-0:8:)) w art. 7 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Izby mogą również przeprowadzać kontrolę:
+
+### 1)
+
+podmiotów, o których mowa w art. 1 ust. 2 pkt 6 i 7 - na wniosek jednostek samorządu terytorialnego lub ich związków,
+
+### 2)
+
+podmiotów, o których mowa w art. 1 ust. 2 pkt 1-6 - na wniosek organów administracji rządowej, agencji lub funduszy celowych w przypadku przekazania środków publicznych na rzecz tych podmiotów.
+
+” .
+
+### Art. 39.
+
+W ustawie z dnia 21 listopada 1996 r. o muzeach ([Dz. U. z 1997 r. Nr 5, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1997/24/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) oraz z [2003 r. Nr 162, poz. 1568](https://api.sejm.gov.pl/eli/acts/DU/2003/1568/text.html)) po art. 25 dodaje się art. 25a w brzmieniu:
+
+„
+
+### Art. 25a.
+
+### 1.
+
+Wizerunki muzealiów mogą być utrwalane i przechowywane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565).
+
+### 2.
+
+Muzeum może pobierać opłaty za udostępnianie wizerunków muzealiów z wykorzystaniem informatycznych nośników danych. Bezpośredni dostęp do wizerunków muzealiów drogą elektroniczną jest bezpłatny.
+
+### 3.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wysokość opłat za udostępnianie wizerunków muzealiów z wykorzystaniem informatycznych nośników danych oraz sposób ich uiszczania, uwzględniając potrzebę zapewnienia powszechnego dostępu do wizerunków muzealiów i ich promowania.
+
+” .
+
+### Art. 40.
+
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 36 ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Zgłoszeń do ubezpieczeń społecznych według ustalonego wzoru, z zastrzeżeniem ust. 9a, albo w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565) z oprogramowania, o którym mowa w art. 47a ust. 1, albo w formie wydruku z tego oprogramowania dokonuje się w jednostce organizacyjnej Zakładu. Na podstawie pierwszego zgłoszenia do ubezpieczeń społecznych zakładane jest konto, o którym mowa w art. 33 ust. 1 pkt 1.
+
+” ;
+
+### 2)
+
+w art. 43 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Płatnik składek jest obowiązany złożyć druk - zgłoszenie płatnika składek, o którym mowa w ust. 1, w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku z oprogramowania, o którym mowa w art. 47a ust. 1, we wskazanej przez Zakład jednostce organizacyjnej Zakładu.
+
+” ;
+
+### 3)
+
+w art. 44 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+O wszelkich zmianach dotyczących numerów, o których mowa w art. 43 ust. 3a, oraz nazwy skróconej płatnika składek, a w przypadku płatników składek będących osobami fizycznymi także nazwiska, pierwszego imienia i daty urodzenia, płatnik składek zawiadamia w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku z oprogramowania, o którym mowa w art. 47a ust. 1, wskazaną przez Zakład jednostkę organizacyjną Zakładu.
+
+” ;
+
+### 4)
+
+w art. 47 w ust. 4a pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+dokumentu elektronicznego z oprogramowania, o którym mowa w art. 47a ust. 1, lub wydruku z tego oprogramowania,
+
+” ;
+
+### 5)
+
+w art. 47a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Z zastrzeżeniem ust. 1a-3, płatnicy składek są obowiązani przekazywać zgłoszenia do ubezpieczeń społecznych, o których mowa w art. 36 ust. 10, imienne raporty miesięczne, o których mowa w art. 41 ust. 3, deklaracje rozliczeniowe, o których mowa w art. 46 ust. 4, inne dokumenty niezbędne do prowadzenia kont płatników składek i kont ubezpieczonych oraz korekty tych dokumentów poprzez transmisję danych w formie dokumentu elektronicznego z oprogramowania, którego zgodność z wymaganiami określonymi przez Zakład na podstawie art. 13 ust. 2 pkt 2 lit. a) ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne została potwierdzona w sposób określony w art. 21 i 22 tej ustawy.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Płatnicy składek rozliczający składki nie więcej niż za 5 osób mogą przekazywać dokumenty, o których mowa w ust. 1, w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku z oprogramowania, o którym mowa w ust. 1.
+
+” ,
+
+### c)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Dokumenty elektroniczne, o których mowa w ust. 1, opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym ([Dz. U. Nr 130, poz. 1450](https://api.sejm.gov.pl/eli/acts/DU/2001/1450/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:10:)) osoby odpowiedzialnej za przekazanie tych dokumentów.
+
+” ,
+
+### d)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W uzasadnionych przypadkach Zakład może upoważnić płatnika składek rozliczającego składki za więcej niż 5 osób do przekazywania dokumentów, o których mowa w ust. 1, w formie dokumentu pisemnego według ustalonego wzoru albo w formie wydruku lub na informatycznych nośnikach danych, z oprogramowania, o którym mowa w ust. 1.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Płatnikom składek, o których mowa w ust. 1, Zakład ma prawo przekazywać informacje w formie dokumentu elektronicznego poprzez transmisję danych, mając na uwadze wymagania, jakie muszą spełnić płatnicy składek przekazujący dokumenty, o których mowa w ust. 1, w formie dokumentu elektronicznego poprzez transmisję danych.
+
+” ,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, wymagania, jakie muszą spełnić płatnicy składek przekazujący dokumenty, o których mowa w ust. 1, w formie dokumentu elektronicznego poprzez transmisję danych, uwzględniając potrzebę zapewnienia warunków niezbędnych dla prawidłowego przekazywania dokumentów oraz zasadę równego traktowania wszystkich powszechnie używanych w kraju systemów operacyjnych, a także potrzebę umożliwienia, wszystkim podmiotom obowiązanym do przekazywania dokumentów elektronicznych, stosowania oprogramowania dostosowanego do używanych platform systemowych bez konieczności ponoszenia dodatkowych kosztów licencyjnych.
+
+” .
+
+### Art. 41.
+
+W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ([Dz. U. z 2003 r. Nr 15, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2003/148/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114.](#gloss-0:11:)) w art. 80 w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+informatyzacji;
+
+” .
+
+### Art. 42.
+
+W ustawie z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. Nr 62, poz. 718](https://api.sejm.gov.pl/eli/acts/DU/2000/718/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 46, poz. 499, z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984, z 2003 r. Nr 65, poz. 595 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:12:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 15:
+
+### a)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Wraz z wnioskiem, o którym mowa w ust. 3, dostarcza się akt normatywny lub inny akt prawny, w tym orzeczenie, również w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565). Dokument elektroniczny zawiera w swojej treści poświadczenie zgodności z oryginałem oraz opatruje się go bezpiecznym podpisem elektronicznym organu, który podpisał ten akt, znakowanym czasem w rozumieniu przepisów ustawy z dnia 18 września 2001 r. o podpisie elektronicznym ([Dz. U. Nr 130, poz. 1450](https://api.sejm.gov.pl/eli/acts/DU/2001/1450/text.html), z późn. zm.[13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:13:)).
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wymagania techniczne dokumentów elektronicznych zawierających akty normatywne i inne akty prawne, doręczanych do ogłoszenia, uwzględniając konieczność zachowania jednolitości dostarczanych dokumentów elektronicznych oraz możliwości ich przetwarzania na potrzeby wydawania dziennika urzędowego.
+
+” ;
+
+### 2)
+
+w art. 17:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+Błędy w tekstach ustaw prostuje Marszałek Sejmu.
+
+### 2b.
+
+Błędy w tekstach umów międzynarodowych prostuje minister właściwy do spraw zagranicznych.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prezes Rady Ministrów, z własnej inicjatywy lub na wniosek właściwego organu, prostuje błędy w tekstach aktów innych niż wymienione w ust. 2a i 2b, ogłoszonych w Dzienniku Ustaw, Monitorze Polskim i Monitorze Polskim B.
+
+” ;
+
+### 3)
+
+w art. 19 uchyla się ust. 3;
+
+### 4)
+
+po art. 20 dodaje się art. 20a i 20b w brzmieniu:
+
+„
+
+### Art. 20a.
+
+### 1.
+
+Dzienniki urzędowe, zbiory aktów prawa miejscowego ustanowionych przez powiat i zbiory przepisów gminnych oraz ogłoszone w nich akty normatywne są wydawane również w formie elektronicznej.
+
+### 2.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wymagania techniczne, jakim musi odpowiadać elektroniczna forma dzienników urzędowych, uwzględniając konieczność zapewnienia powszechnej dostępności dzienników urzędowych.
+
+### 3.
+
+Do dzienników urzędowych wydawanych w formie elektronicznej stosuje się odpowiednio przepis art. 19 ust. 2.
+
+### Art. 20b.
+
+Organ wydający dziennik urzędowy przechowuje akty normatywne i inne akty prawne ogłoszone w tym dzienniku w postaci oryginałów i dokumentów elektronicznych, o których mowa odpowiednio w art. 15 ust. 1 i 3a.
+
+” ;
+
+### 5)
+
+w art. 24 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzory graficzne pierwszej i ostatniej strony Dziennika Ustaw, Monitora Polskiego, Monitora Polskiego B, dzienników urzędowych, o których mowa w art. 22 ust. 1 i 3-5, oraz wojewódzkiego dziennika urzędowego, a także okładek i strony tytułowej załączników do dzienników urzędowych, z uwzględnieniem jednolitości tych wzorów graficznych, Polskich Norm dotyczących formatów papierów i druku oraz cech wyróżniających dzienniki urzędowe spośród innych wydawnictw.
+
+” ;
+
+### 6)
+
+w art. 27 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Skorowidz dziennika urzędowego wydaje się na zasadach określonych dla danego dziennika urzędowego.
+
+” ;
+
+### 7)
+
+po art. 28 dodaje się art. 28a i 28b w brzmieniu:
+
+„
+
+### Art. 28a.
+
+W przypadkach, o których mowa w art. 26, art. 27 ust. 3 i art. 28, udostępnienie wydruków aktów normatywnych lub innych aktów prawnych jest odpłatne. Kierownik urzędu, w którym są udostępnione do powszechnego wglądu dzienniki urzędowe, zbiory aktów prawa miejscowego ustanowionych przez powiat albo zbiory przepisów gminnych, ustala cenę arkusza wydruku aktu normatywnego lub innego aktu prawnego, tak aby wydruk ten mógł być powszechnie dostępny, a cena pokrywała koszty udostępnienia tych wydruków.
+
+### Art. 28b.
+
+### 1.
+
+Dzienniki urzędowe, zbiory aktów prawa miejscowego ustanowionych przez powiat i zbiory przepisów gminnych albo zawarte w nich akty normatywne i inne akty prawne udostępnia się:
+
+### 1)
+
+nieodpłatnie poprzez środki komunikacji elektronicznej,
+
+### 2)
+
+odpłatnie za pomocą informatycznych nośników danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+### 2.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wymagania techniczne, jakim powinny odpowiadać środki komunikacji elektronicznej i informatyczne nośniki danych używane do udostępniania dzienników urzędowych, zbiorów aktów prawa miejscowego ustanowionych przez powiat i zbiorów przepisów gminnych albo zawartych w nich aktów normatywnych i innych aktów prawnych, uwzględniając wymagania techniczne, jakim muszą odpowiadać elektroniczne formy dzienników urzędowych, oraz konieczność zachowania powszechnej dostępności ogłoszonych w nich aktów normatywnych i innych aktów prawnych.
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość opłat za udostępnienie dzienników urzędowych, zbiorów aktów prawa miejscowego ustanowionych przez powiat i zbiorów przepisów gminnych albo ogłoszonych w nich aktów normatywnych i innych aktów prawnych na informatycznych nośnikach danych, a także sposób uiszczania tych opłat, z uwzględnieniem powszechności dostępu do tych wydawnictw oraz ogłoszonych w nich aktów normatywnych i innych aktów prawnych, a także uzasadnionych kosztów ponoszonych przez organ wydający dziennik urzędowy, organ prowadzący zbiór dzienników urzędowych, organ prowadzący zbiór aktów prawa miejscowego ustanowionych przez powiat i organ prowadzący zbiór przepisów gminnych, związanych z udostępnianiem tych dokumentów.
+
+” ;
+
+### 8)
+
+po art. 42 dodaje się art. 42a w brzmieniu:
+
+„
+
+### Art. 42a.
+
+Wydawanie dzienników urzędowych i skorowidzów do roczników tych dzienników w formie elektronicznej, a także udostępnianie dzienników urzędowych, zbiorów aktów prawa miejscowego ustanowionych przez powiat i zbiorów przepisów gminnych oraz ogłoszonych w nich aktów normatywnych i innych aktów prawnych przez środki komunikacji elektronicznej oraz informatyczne nośniki danych następuje od dnia 1 stycznia 2006 r.
+
+” .
+
+### Art. 43.
+
+W ustawie z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym ([Dz. U. Nr 73, poz. 761](https://api.sejm.gov.pl/eli/acts/DU/2001/761/text.html) oraz z [2004 r. Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html)) w art. 15 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Krajowy Rejestr prowadzi się przy użyciu informatycznych nośników danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565).
+
+” .
+
+### Art. 44.
+
+W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html), z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html) oraz z [2004 r. Nr 240, poz. 2407](https://api.sejm.gov.pl/eli/acts/DU/2004/2407/text.html)) art. 9 otrzymuje brzmienie:
+
+„
+
+### Art. 9.
+
+### 1.
+
+Minister właściwy do spraw informatyzacji tworzy stronę główną Biuletynu Informacji Publicznej zawierającą wykaz podmiotów, o których mowa w art. 4 ust. 1 i 2, wraz z odnośnikami umożliwiającymi połączenie z ich stronami.
+
+### 2.
+
+Podmioty, o których mowa w art. 4 ust. 1 i 2, tworzą własne strony Biuletynu Informacji Publicznej, na których udostępniają informacje podlegające udostępnieniu w tej drodze.
+
+### 3.
+
+Podmioty, o których mowa w art. 4 ust. 1 i 2, są obowiązane przekazać ministrowi właściwemu do spraw informatyzacji informacje niezbędne do zamieszczenia na stronie, o której mowa w ust. 1.
+
+### 4.
+
+Minister właściwy do spraw informatyzacji:
+
+### 1)
+
+gromadzi i udostępnia adresy wskazujące strony Biuletynu Informacji Publicznej tworzone przez podmioty, o których mowa w art. 4 ust. 1 i 2,
+
+### 2)
+
+gromadzi i udostępnia dane o liczbie pobrań stron, o których mowa w pkt 1,
+
+### 3)
+
+udostępnia nieodpłatnie przykładowe oprogramowanie służące do tworzenia stron w Biuletynie Informacji Publicznej zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie ust. 5 lub kody źródłowe tego oprogramowania.
+
+### 5.
+
+Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe wymagania dotyczące układu ujednoliconego systemu stron Biuletynu Informacji Publicznej, w szczególności:
+
+### a)
+
+strukturę strony głównej, o której mowa w ust. 1,
+
+### b)
+
+standardy struktury stron, o których mowa w ust. 2,
+
+### 2)
+
+zakres i tryb przekazywania informacji, o których mowa w ust. 3,
+
+### 3)
+
+wymagania dotyczące zabezpieczania treści informacji publicznych udostępnianych w Biuletynie Informacji Publicznej
+
+- mając na względzie sprawność i jednolitość działania systemu stron Biuletynu Informacji Publicznej, a także uwzględniając konieczność równego traktowania rozwiązań informatycznych oraz potrzebę umożliwienia realizacji prawa do stosowania przez podmioty obowiązane do przekazywania informacji oprogramowania bez konieczności ponoszenia dodatkowych kosztów z tytułu opłat licencyjnych.
+
+” .
+
+### Art. 45.
+
+W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym ([Dz. U. Nr 130, poz. 1450](https://api.sejm.gov.pl/eli/acts/DU/2001/1450/text.html), z późn. zm.[14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:14:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 14 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Podmiot świadczący usługi certyfikacyjne przed zawarciem umowy, o której mowa w ust. 1, jest obowiązany poinformować na piśmie lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565), w sposób jasny i powszechnie zrozumiały, o dokładnych warunkach użycia tego certyfikatu, w tym o sposobie rozpatrywania skarg i sporów, a w szczególności o istotnych jego warunkach obejmujących:
+
+### 1)
+
+zakres i ograniczenia jego stosowania,
+
+### 2)
+
+skutki prawne składania podpisów elektronicznych weryfikowanych przy pomocy tego certyfikatu,
+
+### 3)
+
+informację o systemie dobrowolnej rejestracji podmiotów kwalifikowanych i ich znaczeniu.
+
+” ;
+
+### 2)
+
+w art. 58 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw administracji publicznej, określi, w drodze rozporządzenia, warunki techniczne oraz warunki bezpieczeństwa udostępniania formularzy i wzorów, o których mowa w ust. 2, mając na uwadze zapewnienie szerokiej dostępności tych formularzy i wzorów przy zachowaniu odpowiedniego poziomu bezpieczeństwa.
+
+” .
+
+### Art. 46.
+
+W ustawie z dnia 5 lipca 2002 r. o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym ([Dz. U. Nr 126, poz. 1068](https://api.sejm.gov.pl/eli/acts/DU/2002/1068/text.html) oraz z [2004 r. Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html)) w art. 4 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+polegających na dystrybucji jakichkolwiek treści na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. (Dz. U. Nr 64, poz. 565),
+
+” .
+
+### Art. 47.
+
+W ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności ([Dz. U. z 2004 r. Nr 204, poz. 2087](https://api.sejm.gov.pl/eli/acts/DU/2004/2087/text.html)) w art. 40e w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+udzielić niezbędnej pomocy technicznej, jeżeli dokumenty będące przedmiotem kontroli zostały zapisane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565);
+
+” .
+
+### Art. 48.
+
+W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. Nr 228, poz. 2255](https://api.sejm.gov.pl/eli/acts/DU/2003/2255/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963.](#gloss-0:15:)) w art. 23:
+
+### 1)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
+
+### 1)
+
+opis systemów teleinformatycznych stosowanych w urzędach administracji publicznej realizujących zadania w zakresie świadczeń rodzinnych, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565),
+
+### 2)
+
+wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
+
+### 3)
+
+sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu
+
+- mając na uwadze zapewnienie spójności systemów teleinformatycznych stosowanych w urzędach administracji publicznej do realizacji zadań w zakresie świadczeń rodzinnych, w szczególności w zakresie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie w zbiór centralny, a także zachowanie zgodności z minimalnymi wymogami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+” ;
+
+### 2)
+
+dodaje się ust. 7 i 8 w brzmieniu:
+
+„
+
+### 7.
+
+Urzędy administracji publicznej do realizacji zadań w zakresie świadczeń rodzinnych używają oprogramowania, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw zabezpieczenia społecznego w przepisach wydanych na podstawie ust. 6, i z jego zastosowaniem sporządzają sprawozdawczość, którą przekazują wojewodzie.
+
+### 8.
+
+Minister właściwy do spraw zabezpieczenia społecznego może utworzyć rejestr centralny obejmujący dane dotyczące osób pobierających świadczenia rodzinne oraz wartości udzielonych świadczeń, gromadzone na podstawie przepisów ustawy przez organy właściwe podczas realizacji zadań w zakresie świadczeń rodzinnych, oraz może przetwarzać te dane na zasadach określonych w przepisach o ochronie danych osobowych. Organy właściwe przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym w mowa w ust. 7.
+
+” .
+
+### Art. 49.
+
+W ustawie z dnia 19 lutego 2004 r. o systemie informacji oświatowej ([Dz. U. Nr 49, poz. 463](https://api.sejm.gov.pl/eli/acts/DU/2004/463/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Podmioty prowadzące bazy danych oświatowych są obowiązane do prowadzenia tych baz za pomocą oprogramowania, którego zgodność z wymaganiami określonymi przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565) została potwierdzona w sposób określony w art. 21 i 22 tej ustawy.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw oświaty i wychowania nieodpłatnie udostępnia oprogramowanie służące do prowadzenia baz danych, spełniające warunki, o których mowa w ust. 2, i umożliwiające zakładanie, aktualizowanie zbiorów danych, budowę baz danych oświatowych i ich scalanie, w wersjach działających w systemach operacyjnych powszechnie użytkowanych na obszarze kraju, z uwzględnieniem zasady równego traktowania różnych platform systemowych.
+
+” ;
+
+### 2)
+
+w art. 6 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przekazywanie danych, o których mowa w ust. 1-3, następuje w formie dokumentu elektronicznego, przez transmisję danych lub za pomocą informatycznych nośników danych z aktualnego oprogramowania, o którym mowa w art. 5 ust. 2, oraz w formie zestawienia zbiorczego potwierdzonego podpisem osoby, o której mowa w art. 7 ust. 6.
+
+” .
+
+### Art. 50.
+
+W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. Nr 64, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.html), [Nr 99, poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2004/1001/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html)) w art. 23:
+
+### 1)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
+
+### 1)
+
+opis systemów teleinformatycznych, o których mowa w art. 17 ust. 1 pkt 17, art. 19 pkt 17, art. 21 pkt 7 i art. 22 pkt 12, stosowanych w jednostkach organizacyjnych pomocy społecznej, zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565),
+
+### 2)
+
+wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
+
+### 3)
+
+sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu
+
+- mając na uwadze zapewnienie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie w zbiór centralny, a także zachowanie zgodności z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+” ;
+
+### 2)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku gdy realizacja zadań określonych w ustawie jest związana z przekazywaniem informacji za pomocą systemu teleinformatycznego, minister właściwy do spraw zabezpieczenia społecznego nieodpłatnie udostępni podmiotom obowiązanym do przekazywania informacji na podstawie niniejszej ustawy oprogramowanie, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw zabezpieczenia społecznego w przepisach wydanych na podstawie ust. 3.
+
+” ;
+
+### 3)
+
+dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Minister właściwy do spraw zabezpieczenia społecznego może utworzyć rejestr centralny obejmujący dane dotyczące jednostek organizacyjnych pomocy społecznej, a także dane dotyczące osób i rodzin, którym udzielono świadczeń pomocy społecznej, oraz form udzielonej pomocy społecznej, gromadzone przez jednostki organizacyjne pomocy społecznej na podstawie przepisów ustawy, oraz może przetwarzać te dane na zasadach określonych w przepisach o ochronie danych osobowych. Jednostki organizacyjne pomocy społecznej przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym w mowa w ust. 4.
+
+” .
+
+### Art. 51.
+
+W ustawie z dnia 20 kwietnia 2004 r. o wyrobach medycznych ([Dz. U. Nr 93, poz. 896](https://api.sejm.gov.pl/eli/acts/DU/2004/896/text.html)) w art. 51 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Dane zawarte w rejestrze zapisuje się na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565) i zabezpiecza się je przed dostępem osób nieupoważnionych.
+
+” .
+
+### Art. 52.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. Nr 99, poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2004/1001/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html)) w art. 4:
+
+### 1)
+
+w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+wprowadzanie i rozwijanie w publicznych służbach zatrudnienia systemów teleinformatycznych zapewniających spójny system obsługi rynku pracy.
+
+” ;
+
+### 2)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw pracy, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
+
+### 1)
+
+opis systemów teleinformatycznych stosowanych w publicznych służbach zatrudnienia zawierający strukturę systemu, wymaganą minimalną funkcjonalność systemu oraz zakres komunikacji między elementami struktury systemu, w tym zestawienie struktur dokumentów elektronicznych, formatów danych oraz protokołów komunikacyjnych i szyfrujących, o których mowa w art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565),
+
+### 2)
+
+wymagania standaryzujące w zakresie bezpieczeństwa, wydajności i rozwoju systemu,
+
+### 3)
+
+sposób postępowania w zakresie stwierdzania zgodności oprogramowania z opisem systemu wraz z podaniem terminu dostosowania
+
+- mając na uwadze zapewnienie spójności systemów teleinformatycznych stosowanych w publicznych służbach zatrudnienia, w szczególności w zakresie jednorodności zakresu i rodzaju danych, która umożliwi ich scalanie w zbiór centralny, a także zachowanie zgodności z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+” ;
+
+### 3)
+
+dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+Publiczne służby zatrudnienia używają oprogramowania, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw pracy w przepisach wydanych na podstawie ust. 2.
+
+### 4.
+
+Minister właściwy do spraw pracy może utworzyć rejestr centralny obejmujący dane dotyczące rynku pracy, instytucji rynku pracy, form udzielonego wsparcia, a także dane dotyczące osób poszukujących pracy i bezrobotnych, gromadzone przez publiczne służby zatrudnienia na podstawie przepisów ustawy, oraz może przetwarzać te dane na zasadach określonych w przepisach o ochronie danych osobowych. Publiczne służby zatrudnienia przekazują dane do rejestru centralnego, wykorzystując oprogramowanie, o którym w mowa w ust. 3.
+
+” .
+
+### Rozdział 6 Przepisy dostosowujące, przejściowe i końcowe
+
+### Art. 53.
+
+Minister właściwy do spraw informatyzacji przedstawi Radzie Ministrów projekt Planu Informatyzacji Państwa w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 54.
+
+Minister właściwy do spraw informatyzacji powoła członków Rady pierwszej kadencji w terminie 30 dni od dnia ogłoszenia ustawy.
+
+### Art. 55.
+
+Minister właściwy do spraw informatyzacji zapewni możliwość udostępniania danych z krajowej ewidencji w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 56.
+
+Podmioty publiczne są obowiązane przekazać dane o rejestrach publicznych i systemach teleinformatycznych używanych do realizacji zadań publicznych, prowadzonych w dniu wejścia w życie ustawy, w zakresie określonym w art. 20 ust. 1, w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 57.
+
+Podmioty publiczne udostępnią testy akceptacyjne w terminie 3 miesięcy od dnia wejścia w życie przepisów wydanych na podstawie art. 18 pkt 1.
+
+### Art. 58.
+
+W przypadku gdy używany w dniu wejścia w życie ustawy do realizacji zadań publicznych system teleinformatyczny nie spełnia minimalnych wymagań, o których mowa w art. 3 pkt 9, albo rejestr publiczny nie spełnia minimalnych wymagań, o których mowa w art. 3 pkt 10, podmiot publiczny jest obowiązany do dostosowania tego systemu teleinformatycznego albo rejestru publicznego do minimalnych wymagań w terminie 2 lat od dnia wejścia ustawy w życie.
+
+### Art. 59.
+
+Zakład Ubezpieczeń Społecznych dostosuje system informatyczny do wymagań wynikających z przepisów art. 40 w terminie 2 lat od dnia wejścia ustawy w życie.
+
+### Art. 60.
+
+Dokumenty określone w art. 47a ust. 1 ustawy, o której mowa w art. 40, w brzmieniu nadanym niniejszą ustawą, mogą być przekazywane Zakładowi Ubezpieczeń Społecznych w sposób określony w tym przepisie bez konieczności opatrywania ich bezpiecznym podpisem elektronicznym w ciągu 12 miesięcy od dnia wejścia w życie art. 40 niniejszej ustawy.
+
+### Art. 61.
+
+### 1.
+
+Ilekroć w przepisach dotyczących informatyzacji zawartych w odrębnych ustawach jest mowa o:
+
+### 1)
+
+elektronicznym nośniku informacji, elektronicznym nośniku informatycznym, elektronicznym nośniku danych, komputerowym nośniku informacji, komputerowym nośniku danych, nośniku elektronicznym, nośniku magnetycznym, nośniku informatycznym albo nośniku komputerowym - należy przez to rozumieć, w przypadku wątpliwości interpretacyjnych, informatyczny nośnik danych, o którym mowa w art. 3 pkt 1 niniejszej ustawy;
+
+### 2)
+
+danych elektronicznych, danych w postaci elektronicznej, danych w formie elektronicznej, danych informatycznych, informacjach w postaci elektronicznej albo informacjach w formie elektronicznej - należy przez to rozumieć, w przypadku wątpliwości interpretacyjnych, dokument elektroniczny, o którym mowa w art. 3 pkt 2 niniejszej ustawy.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do przepisów:
+
+### 1)
+
+ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808.](#gloss-0:16:));
+
+### 2)
+
+ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim ([Dz. U. z 2005 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/2005/2/text.html));
+
+### 3)
+
+ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych ([Dz. U. Nr 169, poz. 1385](https://api.sejm.gov.pl/eli/acts/DU/2002/1385/text.html) oraz z [2004 r. Nr 91, poz. 870](https://api.sejm.gov.pl/eli/acts/DU/2004/870/text.html) i [Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html)).
+
+### Art. 62.
+
+Rada Ministrów, w terminie 2 lat od dnia wejścia ustawy w życie, przygotuje projekt ustawy dotyczący dostosowania terminologii w przepisach odrębnych ustaw dotyczących informatyzacji do określeń wymienionych w art. 3 pkt 1 i 2 niniejszej ustawy.
+
+### Art. 63.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie upoważnień zmienianych niniejszą ustawą zachowują moc do czasu wydania przepisów wykonawczych na podstawie nowych upoważnień, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 64.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 17 oraz 54, które wchodzą w życie z dniem ogłoszenia;
+
+### 2)
+
+art. 36 i 37, które wchodzą w życie po upływie 7 miesięcy od dnia ogłoszenia;
+
+### 3)
+
+art. 40, który wchodzi w życie po upływie 27 miesięcy od dnia ogłoszenia;
+
+### 4)
+
+art. 42 pkt 1, 4 i 7, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, ustawę z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach, ustawę z dnia 7 października 1992 r. o regionalnych izbach obrachunkowych, ustawę z dnia 21 listopada 1996 r. o muzeach, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 26 listopada 1998 r. o finansach publicznych, ustawę z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych, ustawę z dnia 7 czerwca 2001 r. o leśnym materiale rozmnożeniowym, ustawę z dnia 6 września 2001 r. o dostępie do informacji publicznej, ustawę z dnia 18 września 2001 r. o podpisie elektronicznym, ustawę z dnia 5 lipca 2002 r. o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym, ustawę z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, ustawę z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, ustawę z dnia 19 lutego 2004 r. o systemie informacji oświatowej, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o wyrobach medycznych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 113, poz. 1070, Nr 130, poz. 1188 i Nr 166, poz. 1609 oraz z 2004 r. Nr 109, poz. 1159, Nr 171, poz. 1800, Nr 267, poz. 2647 i Nr 273, poz. 2703. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 17, poz. 155 oraz z 2004 r. Nr 29, poz. 257. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660 oraz z 2004 r. Nr 162, poz. 1692. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 241, poz. 2074, z 2003 r. Nr 137, poz. 1302, z 2004 r. Nr 173, poz. 1808, Nr 202, poz. 2065 i Nr 273, poz. 2703 oraz z 2005 r. Nr 10, poz. 69. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 149, poz. 1454, z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 46, poz. 499, z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984, z 2003 r. Nr 65, poz. 595 oraz z 2004 r. Nr 96, poz. 959. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 124, poz. 1152 i Nr 217, poz. 2125 oraz z 2004 r. Nr 96, poz. 959. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276 oraz z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808.

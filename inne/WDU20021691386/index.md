@@ -8,11 +8,9 @@ pos: 1386
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o normalizacji
-
-*USTAWA z dnia 12 września 2002 r.*
+# Ustawa z dnia 12 września 2002 r. o normalizacji
 
 | Pole | Wartość |
 |---|---|
@@ -24,339 +22,748 @@ domain: null
 | Data ogłoszenia | 2002-09-12 |
 | Data wydania | 2002-10-11 |
 | Ostatnia zmiana | 2026-03-12 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021691386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1386/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/1386/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/1386) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa podstawowe cele i zasady normalizacji oraz jej organizację i finansowanie.
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Cele i zasady normalizacji krajowej](#chpt_2) [Rozdział 3 - Polskie normy i inne dokumenty normalizacyjne](#chpt_3) [Rozdział 4 - Polski Komitet Normalizacyjny](#chpt_4) [Rozdział 5 - Komitety techniczne PKN](#chpt_5) [Rozdział 6 - Odpowiedzialność karna](#chpt_6) [Rozdział 7 - Przepisy przejściowe i końcowe](#chpt_7)
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+TOC
 
-#### Rozdział 2 Cele i zasady normalizacji krajowej
+## Treść ustawy
 
-**Art. 3.** Normalizacja krajowa prowadzona jest w celu:
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** W normalizacji krajowej stosuje się następujące zasady:
+### Art. 1.
 
-#### Rozdział 3 Polskie Normy i inne dokumenty normalizacyjne
+Ustawa określa podstawowe cele i zasady normalizacji oraz jej organizację i finansowanie.
 
-**Art. 5.**
+### Art. 2.
 
-1. Polska Norma jest normą krajową, przyjętą w drodze konsensu i zatwierdzoną przez krajową jednostkę normalizacyjną, powszechnie dostępną, oznaczoną – na zasadzie wyłączności – symbolem PN.
+Ilekroć w ustawie jest mowa o:
 
-2. Polska Norma może być wprowadzeniem normy europejskiej lub międzynarodowej. Wprowadzenie to może nastąpić w języku oryginału.
+### 1)
 
-3. Stosowanie Polskich Norm jest dobrowolne.
+normalizacji - rozumie się przez to działalność zmierzającą do uzyskania optymalnego, w danych okolicznościach, stopnia uporządkowania w określonym zakresie, poprzez ustalanie postanowień przeznaczonych do powszechnego i wielokrotnego stosowania, dotyczących istniejących lub mogących wystąpić problemów;
 
-4. Polskie Normy mogą być powoływane w przepisach prawnych po ich opublikowaniu w języku polskim.
+### 2)
 
-5. Polskie Normy korzystają z ochrony jak utwory literackie, a autorskie prawa majątkowe do nich przysługują krajowej jednostce normalizacyjnej.
+normalizacji krajowej - rozumie się przez to normalizację prowadzoną na szczeblu krajowym, nieobejmującą działań prowadzonych: w poszczególnych branżach lub sektorach gospodarki, na szczeblu lokalnym, na szczeblu stowarzyszeń lub przedsiębiorców i urzędów;
 
-6. Przepis ust. 5 stosuje się odpowiednio do norm europejskich i międzynarodowych, z zachowaniem porozumień międzynarodowych.
+### 3)
 
-7. Ochrony Polskich Norm, o której mowa w ust. 5, nie narusza ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2014 r. poz. 782 i 1662 oraz z 2015 r. poz. 1240).
+dokumencie normalizacyjnym - rozumie się przez to dokument ustalający zasady, wytyczne lub charakterystyki odnoszące się do różnych rodzajów działalności lub ich wyników, niebędący aktem prawnym; podstawowym dokumentem normalizacyjnym jest norma;
 
-**Art. 6.** Przepisy art. 5 ust. 3 i 5–7 odnoszą się również do innych niż Polskie Normy dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, przy czym dokumenty takie mogą zostać zachowane w języku oryginału.
+### 4)
 
-**Art. 7.**
+normie - rozumie się przez to dokument przyjęty na zasadzie konsensu i zatwierdzony przez upoważnioną jednostkę organizacyjną, ustalający - do powszechnego i wielokrotnego stosowania - zasady, wytyczne lub charakterystyki odnoszące się do różnych rodzajów działalności lub ich wyników i zmierzający do uzyskania optymalnego stopnia uporządkowania w określonym zakresie;
 
-1. Wyroby spełniające wymagania Polskich Norm oznaczane są na zasadzie dobrowolności znakiem zgodności z Polską Normą pod warunkiem uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia.
+### 5)
 
-2. Wyłączne prawo do wyrażenia zgody na oznaczenie wyrobu znakiem zgodności z Polską Normą przysługuje krajowej jednostce normalizacyjnej.
+konsensie - rozumie się przez to ogólne porozumienie charakteryzujące się brakiem trwałego sprzeciwu znaczącej części zainteresowanych w odniesieniu do istotnych zagadnień, osiągnięte w procesie rozpatrywania poglądów wszystkich zainteresowanych i zbliżenia przeciwstawnych stanowisk.
 
-3. Prezes Polskiego Komitetu Normalizacyjnego może upoważnić jednostki certyfikujące, powołane na mocy odrębnych przepisów, do wydawania certyfikatu zgodności z Polską Normą.
+### Rozdział 2 Cele i zasady normalizacji krajowej
 
-4. Uzyskanie certyfikatu, o którym mowa w ust. 3, jest równoznaczne z uzyskaniem prawa do oznaczenia wyrobu znakiem zgodności z Polską Normą.
+### Art. 3.
 
-5. Rada Ministrów określi, w drodze rozporządzenia, sposób nadawania i wykorzystywania znaku zgodności z Polską Normą, mając na względzie ułatwienie producentom i dystrybutorom oznaczania wyrobów znakiem zgodności z Polską Normą oraz uwzględniając:
+Normalizacja krajowa prowadzona jest w celu:
 
-- **1)** cele systemu stosowania znaku zgodności;
-- **2)** wymagania stawiane wyrobom, które mają być oznaczone znakiem zgodności;
-- **3)** zasady wydawania certyfikatu zgodności.
+### 1)
 
-6. Producent lub osoba wprowadzająca wyroby do obrotu może zadeklarować ich zgodność z Polskimi Normami deklaracją zgodności wydaną na własną odpowiedzialność, przy czym wymagania stawiane takiej deklaracji określają Polskie Normy.
+racjonalizacji produkcji i usług poprzez stosowanie uznanych reguł technicznych lub rozwiązań organizacyjnych;
 
-7. Deklaracja zgodności nie upoważnia do oznaczenia wyrobu znakiem zgodności, o którym mowa w ust. 1.
+### 2)
 
-8. Sprawy sporne wynikające z oceny zgodności z Polską Normą, dotyczące interpretacji postanowień Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasięgnięciu opinii właściwego komitetu technicznego.
+usuwania barier technicznych w handlu i zapobiegania ich powstawaniu;
 
-**Art. 8.**
+### 3)
 
-1. W celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności i bezpieczeństwa mogą być opracowywane, zatwierdzane i wycofywane, przez inne niż Polski Komitet Normalizacyjny jednostki, dokumenty normalizacyjne, w tym Normy Obronne, co do których nie jest wymagane spełnienie zasad normalizacji wymienionych w art. 4 oraz art. 5 ust. 3 i 5–7.
+zapewnienia ochrony życia, zdrowia, środowiska i interesu konsumentów oraz bezpieczeństwa pracy;
 
-2. Rada Ministrów określi, w drodze rozporządzenia, w celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności i bezpieczeństwa:
+### 4)
 
-- **1)** sposób organizacji i prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych normalizacji związanej z obronnością i bezpieczeństwem państwa;
-- **2)** rodzaje dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa;
-- **3)** tryb opracowywania, zatwierdzania i stosowania dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa, w tym Norm Obronnych, w zakresie, który nie może być ujęty w Polskich Normach;
-- **4)** tryb zatwierdzania i wprowadzania do stosowania zagranicznych dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa.
+poprawy funkcjonalności, kompatybilności i zamienności wyrobów, procesów i usług oraz regulowania ich różnorodności;
 
-#### Rozdział 4 Polski Komitet Normalizacyjny
+### 5)
 
-**Art. 9.**
+zapewnienia jakości i niezawodności wyrobów, procesów i usług;
 
-1. Tworzy się Polski Komitet Normalizacyjny, zwany dalej „PKN”, jako krajową jednostkę normalizacyjną zapewniającą realizację celów wymienionych w art. 3, zgodnie z zasadami wymienionymi w art. 4.
+### 6)
 
-2. PKN jest państwową jednostką organizacyjną.
+działania na rzecz uwzględnienia interesów krajowych w normalizacji europejskiej i międzynarodowej;
 
-3. PKN ma wyłączne prawo używania skrótu „PKN” i zastrzeżonego znaku graficznego.
+### 7)
 
-4. Organizację, zakres i sposób działania PKN określa statut nadany przez Prezesa Rady Ministrów w drodze zarządzenia.
+ułatwiania porozumiewania się przez określanie terminów, definicji, oznaczeń i symboli do powszechnego stosowania.
 
-**Art. 10.**
+### Art. 4.
 
-1. Prezes Rady Ministrów sprawuje nadzór nad PKN w zakresie spraw dotyczących:
+W normalizacji krajowej stosuje się następujące zasady:
 
-- **1)** obronności i bezpieczeństwa państwa;
-- **2)** realizacji zadań wynikających z podjętej współpracy z organami administracji rządowej;
-- **3)** realizacji zadań wynikających z zawartych przez Rzeczpospolitą Polską umów międzynarodowych.
+### 1)
 
-2. W sprawach, o których mowa w ust. 1, Prezes Rady Ministrów sprawuje nadzór, wydając Prezesowi PKN wiążące wytyczne i polecenia.
+jawności i powszechnej dostępności;
 
-**Art. 11.** Do zadań PKN należy organizowanie i prowadzenie normalizacji krajowej zgodnie z potrzebami kraju, w tym:
+### 2)
 
-**Art. 12.**
+uwzględniania interesu publicznego;
 
-1. PKN uczestniczy w krajowym systemie notyfikacji norm i aktów prawnych, w szczególności prowadząc krajowy punkt informacyjny.
+### 3)
 
-2. Rada Ministrów określi, w drodze rozporządzenia, sposób funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych, mając na względzie konieczność precyzyjnego podziału zadań w tym zakresie między właściwe organy administracji rządowej oraz państwowe jednostki organizacyjne w celu realizacji zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+dobrowolności uczestnictwa w procesie opracowywania i stosowania norm;
 
-**Art. 13.**
+### 4)
 
-1. PKN współdziała z organami administracji rządowej w szczególności poprzez:
+zapewnienia możliwości uczestnictwa wszystkich zainteresowanych w procesie opracowywania norm;
 
-- **1)** wzajemne informowanie się o zdarzeniach zachodzących w gospodarce, administracji publicznej i normalizacji w kontekście ich wzajemnego związku;
-- **2)** uzgadnianie potrzeb tłumaczenia na język polski norm europejskich z zakresu ochrony życia, zdrowia, środowiska, mienia oraz bezpieczeństwa pracy i użytkowania, wprowadzonych do Polskich Norm w języku oryginału;
-- **3)** uzgadnianie potrzeb sporządzania dokumentów zawierających wymagania techniczne w procesie opracowywania projektów aktów normatywnych.
+### 5)
 
-2. Rada Ministrów określi, w drodze rozporządzenia, sposoby współdziałania PKN z organami administracji rządowej, uwzględniając konieczność zapewnienia udziału organów administracji rządowej w procesie opiniowania projektów Polskich Norm i innych dokumentów normalizacyjnych.
+konsensu jako podstawy procesu uzgadniania treści norm;
 
-**Art. 14.** PKN jest państwową jednostką budżetową.
+### 6)
 
-**Art. 15.**
+niezależności od administracji publicznej oraz jakiejkolwiek grupy interesów;
 
-1. PKN kieruje Prezes PKN, zwany dalej „Prezesem”.
+### 7)
 
-2. Do zadań Prezesa należy w szczególności:
+jednolitości i spójności postanowień norm;
 
-- **1)** powoływanie i odwoływanie komitetów technicznych;
-- **2)** zatwierdzanie i wycofywanie, w imieniu PKN, Polskich Norm i innych dokumentów normalizacyjnych na wniosek komitetów technicznych, z uwzględnieniem zasad normalizacji krajowej wymienionych w art. 4;
-- **3)** podejmowanie decyzji w sprawach dotyczących działalności PKN;
-- **4)** wydawanie przepisów wewnętrznych PKN;
-- **5)** współpraca z Radą Normalizacyjną, w tym zasięganie opinii Rady w sprawach, o których mowa w art. 18 ust. 4;
-- **6)** składanie rocznych sprawozdań z działalności PKN Radzie Normalizacyjnej i Prezesowi Rady Ministrów w terminie do 30 czerwca następnego roku kalendarzowego;
-- **7)** reprezentowanie PKN na zewnątrz;
-- **8)** zarządzanie mieniem PKN.
+### 8)
 
-**Art. 16.**
+wykorzystywania sprawdzonych osiągnięć nauki i techniki;
 
-1. Prezes Rady Ministrów powołuje Prezesa spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa.
+### 9)
 
-2. Prezes Rady Ministrów powołuje 2 zastępców Prezesa, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, na wniosek Prezesa. Prezes Rady Ministrów odwołuje zastępców Prezesa.
+zgodności z zasadami normalizacji europejskiej i międzynarodowej.
 
-3. Stanowisko Prezesa może zajmować osoba, która:
+### Rozdział 3 Polskie normy i inne dokumenty normalizacyjne
 
-- **1)** posiada tytuł zawodowy magistra lub równorzędny;
-- **2)** jest obywatelem polskim;
-- **3)** korzysta z pełni praw publicznych;
-- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** posiada kompetencje kierownicze;
-- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
-- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości PKN.
+### Art. 5.
 
-4. Informację o naborze na stanowisko Prezesa ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie PKN oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+### 1.
 
-- **1)** nazwę i adres PKN;
-- **2)** określenie stanowiska;
-- **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
-- **4)** zakres zadań wykonywanych na stanowisku;
-- **5)** wskazanie wymaganych dokumentów;
-- **6)** termin i miejsce składania dokumentów;
-- **7)** informację o metodach i technikach naboru.
+Polska Norma jest normą krajową, przyjętą w drodze konsensu i zatwierdzoną przez krajową jednostkę normalizacyjną, powszechnie dostępną, oznaczoną - na zasadzie wyłączności - symbolem PN.
 
-5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+### 2.
 
-6. Nabór na stanowisko Prezesa przeprowadza zespół, powołany przez Szefa Kancelarii Prezesa Rady Ministrów z upoważnienia Prezesa Rady Ministrów, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+Polska Norma może być wprowadzeniem normy europejskiej lub międzynarodowej. Wprowadzenie to może nastąpić w języku oryginału.
 
-7. Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 6, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
+### 3.
 
-8. Członek zespołu oraz osoba, o której mowa w ust. 7, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
+Stosowanie Polskich Norm jest dobrowolne.
 
-9. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia Szefowi Kancelarii Prezesa Rady Ministrów.
+### 4.
 
-10. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
+Polskie Normy mogą być powoływane w przepisach prawnych po ich opublikowaniu w języku polskim.
 
-- **1)** nazwę i adres PKN;
-- **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
-- **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
-- **4)** informację o zastosowanych metodach i technikach naboru;
-- **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
-- **6)** skład zespołu.
+### 5.
 
-11. Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji w biuletynach informacji publicznej, o których mowa w ust. 4. Informacja o wyniku naboru zawiera:
+Polskie Normy korzystają z ochrony jak utwory literackie, a autorskie prawa majątkowe do nich przysługują krajowej jednostce normalizacyjnej.
 
-- **1)** nazwę i adres PKN;
-- **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+### 6.
 
-12. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+Przepis ust. 5 stosuje się odpowiednio do norm europejskich i międzynarodowych, z zachowaniem porozumień międzynarodowych.
 
-13. Zespół przeprowadzający nabór na stanowiska, o których mowa w ust. 2, powołuje Prezes.
+### 7.
 
-14. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 2, stosuje się odpowiednio ust. 3–12.
+Ochrony Polskich Norm, o której mowa w ust. 5, nie narusza ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. z 2001 r. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html) oraz z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html)).
 
-**Art. 17.**
+### Art. 6.
 
-1. Wynagrodzenie Prezesa i jego zastępców ustala Prezes Rady Ministrów.
+Przepisy art. 5 ust. 3 i 5-7 odnoszą się również do innych niż Polskie Normy dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, przy czym dokumenty takie mogą zostać zachowane w języku oryginału.
 
-2. Prezesowi i jego zastępcom przysługuje nagroda jubileuszowa i odprawa emerytalna według zasad obowiązujących pracowników PKN oraz może być przyznana nagroda roczna według zasad określonych w przepisach wydanych na podstawie ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2013 r. poz. 254, z późn. zm. ).
+### Art. 7.
 
-3. Minister właściwy do spraw pracy ustali, w drodze rozporządzenia, wysokość wynagrodzeń pracowników PKN, biorąc pod uwagę organizację PKN i konieczność zapewnienia właściwej realizacji jego zadań.
+### 1.
 
-**Art. 17a.**
+Wyroby spełniające wymagania Polskich Norm oznaczane są na zasadzie dobrowolności znakiem zgodności z Polską Normą pod warunkiem uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia.
 
-1. Nabór kandydatów do zatrudnienia na wolne stanowiska pracy w PKN jest otwarty i konkurencyjny.
+### 2.
 
-2. Ogłoszenie o naborze zamieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej, oraz w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór.
+Wyłączne prawo do wyrażenia zgody na oznaczenie wyrobu znakiem zgodności z Polską Normą przysługuje krajowej jednostce normalizacyjnej.
 
-**Art. 17b.** Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami określonymi w ogłoszeniu o naborze.
+### 3.
 
-**Art. 17c.** Termin do składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 14 dni od dnia opublikowania tego ogłoszenia w Biuletynie Informacji Publicznej.
+Prezes Polskiego Komitetu Normalizacyjnego może upoważnić jednostki certyfikujące, powołane na mocy odrębnych przepisów, do wydawania certyfikatu zgodności z Polską Normą.
 
-**Art. 17d.**
+### 4.
 
-1. Po upływie terminu do składania dokumentów określonego w ogłoszeniu o naborze niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze, przez umieszczenie jej w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której jest prowadzony nabór, a także przez opublikowanie jej w Biuletynie Informacji Publicznej.
+Uzyskanie certyfikatu, o którym mowa w ust. 3, jest równoznaczne z uzyskaniem prawa do oznaczenia wyrobu znakiem zgodności z Polską Normą.
 
-2. Lista, o której mowa w ust. 1, zawiera imię i nazwisko kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego.
+### 5.
 
-**Art. 17e.**
+Rada Ministrów określi, w drodze rozporządzenia, sposób nadawania i wykorzystywania znaku zgodności z Polska Normą, mając na względzie ułatwienie producentom i dystrybutorom oznaczania wyrobów znakiem zgodności z Polską Normą oraz uwzględniając:
 
-1. Sporządza się protokół przeprowadzonego naboru kandydatów do zatrudnienia na wolne stanowiska pracy w PKN.
+### 1)
 
-2. Protokół zawiera w szczególności:
+cele systemu stosowania znaku zgodności;
 
-- **1)** określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
-- **2)** informację o zastosowanych metodach i technikach naboru;
-- **3)** uzasadnienie dokonanego wyboru.
+### 2)
 
-**Art. 17f.**
+wymagania stawiane wyrobom, które mają być oznaczone znakiem zgodności;
 
-1. Informację o wyniku naboru upowszechnia się w terminie 14 dni od dnia zatrudnienia wybranego kandydata albo zakończenia naboru, w przypadku gdy w jego wyniku nie doszło do zatrudnienia żadnego kandydata.
+### 3)
 
-2. Informacja, o której mowa w ust. 1, zawiera:
+zasady wydawania certyfikatu zgodności.
 
-- **1)** nazwę i adres urzędu;
-- **2)** określenie stanowiska pracy;
-- **3)** imię i nazwisko wybranego kandydata oraz miejsce jego zamieszkania w rozumieniu przepisów Kodeksu cywilnego;
-- **4)** uzasadnienie dokonanego wyboru kandydata albo uzasadnienie niezatrudnienia żadnego kandydata.
+### 6.
 
-3. Informację o wyniku naboru upowszechnia się w Biuletynie Informacji Publicznej i w miejscu powszechnie dostępnym w jednostce organizacyjnej, w której był prowadzony nabór.
+Producent lub osoba wprowadzająca wyroby do obrotu może zadeklarować ich zgodność z Polskimi Normami deklaracją zgodności wydaną na własną odpowiedzialność, przy czym wymagania stawiane takiej deklaracji określają Polskie Normy.
 
-**Art. 17g.** Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejną osobę spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy art. 17f stosuje się odpowiednio.
+### 7.
 
-**Art. 18.**
+Deklaracja zgodności nie upoważnia do oznaczenia wyrobu znakiem zgodności, o którym mowa w ust. 1.
 
-1. Przy PKN działa Rada Normalizacyjna, zwana dalej „Radą”.
+### 8.
 
-2. Kadencja Rady trwa 4 lata.
+Sprawy sporne wynikające z oceny zgodności z Polską Normą, dotyczące interpretacji postanowień Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasięgnięciu opinii właściwego komitetu technicznego.
 
-3. Rada akceptuje coroczne sprawozdania z działalności PKN składane przez Prezesa PKN.
+### Art. 8.
 
-4. Do zadań Rady należy także wydawanie opinii, w szczególności dotyczących:
+### 1.
 
-- **1)** stanu i kierunków rozwoju normalizacji;
-- **2)** wniosków o powołanie i odwołanie komitetów technicznych;
-- **3)** przepisów wewnętrznych PKN dotyczących opracowywania dokumentów normalizacyjnych;
-- **4)** projektów dokumentów normalizacyjnych, w których opracowywaniu uczestniczy PKN, na zasadach określonych w przepisach wewnętrznych PKN.
+W celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności i bezpieczeństwa mogą być opracowywane, zatwierdzane i wycofywane, przez inne niż Polski Komitet Normalizacyjny jednostki, dokumenty normalizacyjne, w tym Normy Obronne, co do których nie jest wymagane spełnienie zasad normalizacji wymienionych w art. 4 oraz art. 5 ust. 3 i 5-7.
 
-5. (uchylony)
+### 2.
 
-**Art. 19.**
+Rada Ministrów określi, w drodze rozporządzenia, w celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności i bezpieczeństwa:
 
-1. W skład Rady wchodzą, w liczbie nie więcej niż po 5 osób, przedstawiciele:
+### 1)
 
-- **1)** organów administracji rządowej;
-- **2)** ogólnopolskich organizacji gospodarczych;
-- **3)** ogólnopolskich organizacji pracodawców;
-- **4)** krajowych lub regionalnych organizacji, których celem statutowym jest ochrona interesów konsumentów;
-- **5)** ogólnopolskich organizacji zawodowych i naukowo-technicznych;
-- **6)** szkół wyższych i nauki.
+sposób organizacji i prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych normalizacji związanej z obronnością i bezpieczeństwem państwa;
 
-2. Prezes Rady Ministrów wskazuje organy administracji rządowej, które ze względu na zakres ich działania powinny być reprezentowane w Radzie.
+### 2)
 
-3. Członków Rady reprezentujących organy administracji rządowej powołuje i odwołuje Prezes Rady Ministrów na wniosek wskazanego organu administracji rządowej, o którym mowa w ust. 2.
+rodzaje dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa;
 
-4. Rada Ministrów określi, w drodze rozporządzenia, sposób przeprowadzenia wyboru pozostałych członków Rady Normalizacyjnej, z uwzględnieniem konieczności przeciwdziałania dominacji któregokolwiek z podmiotów, o których mowa w ust. 1 pkt 2–6.
+### 3)
 
-**Art. 20.**
+tryb opracowywania, zatwierdzania i stosowania dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa, w tym Norm Obronnych, w zakresie, który nie może być ujęty w Polskich Normach;
 
-1. Co najmniej na dwa miesiące przed upływem kadencji Rady Prezes PKN ogłasza wybory do Rady Normalizacyjnej, które przeprowadza komisja wyborcza.
+### 4)
 
-2. W celu przeprowadzenia wyborów Prezes PKN powołuje pięcioosobową komisję spośród osób, których wiedza i doświadczenie zawodowe oraz autorytet dają rękojmię prawidłowego wykonania zadań komisji.
+tryb zatwierdzania i wprowadzania do stosowania zagranicznych dokumentów normalizacyjnych dotyczących obronności i bezpieczeństwa państwa.
 
-3. W skład komisji nie może zostać powołana osoba pozostająca wobec Prezesa PKN w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do jej bezstronności.
+### Rozdział 4 Polski Komitet Normalizacyjny
 
-**Art. 21.**
+### Art. 9.
 
-1. Prezes zwołuje pierwsze posiedzenie Rady nie później niż miesiąc od dnia ogłoszenia wyniku wyborów i przewodniczy mu do czasu wyboru przewodniczącego Rady.
+### 1.
 
-2. Rada konstytuuje się na pierwszym posiedzeniu.
+Tworzy się Polski Komitet Normalizacyjny, zwany dalej „PKN”, jako krajową jednostkę normalizacyjną zapewniającą realizację celów wymienionych w art. 3, zgodnie z zasadami wymienionymi w art. 4.
 
-3. Organizację i tryb pracy Rady określa regulamin uchwalony przez Radę.
+### 2.
 
-**Art. 22.** Prezes i jego zastępcy uczestniczą w posiedzeniach Rady z głosem doradczym.
+PKN jest państwową jednostką organizacyjną.
 
-#### Rozdział 5 Komitety techniczne PKN
+### 3.
 
-**Art. 23.**
+PKN ma wyłączne prawo używania skrótu „PKN” i zastrzeżonego znaku graficznego.
 
-1. Komitety techniczne realizują cele wymienione w art. 3 poprzez opracowywanie Polskich Norm i innych dokumentów normalizacyjnych w określonych zakresach tematycznych, między innymi poprzez udział przedstawicieli komitetów technicznych uczestniczących w pracach regionalnych i międzynarodowych organizacji normalizacyjnych.
+### 4.
 
-2. W skład komitetu technicznego wchodzą specjaliści delegowani przez organy administracji rządowej, organizacje: gospodarcze, pracodawców, konsumenckie, zawodowe i naukowo-techniczne, szkół wyższych i nauki oraz pracownicy PKN, z zachowaniem zasady reprezentatywności wszystkich zainteresowanych określonym zakresem tematycznym, z uwzględnieniem potrzeb gospodarki krajowej.
+Organizację, zakres i sposób działania PKN określa statut nadany przez Prezesa Rady Ministrów w drodze zarządzenia.
 
-3. Komitety techniczne powołuje i odwołuje Prezes po zasięgnięciu opinii Rady.
+### Art. 10.
 
-4. Sekretariaty komitetów technicznych prowadzi PKN.
+### 1.
 
-5. Prowadzenie sekretariatów, o których mowa w ust. 4, PKN może powierzać w drodze umowy innym jednostkom organizacyjnym, na koszt tych jednostek.
+Prezes Rady Ministrów sprawuje nadzór nad PKN w zakresie spraw dotyczących:
 
-6. W umowach, o których mowa w ust. 5, ustala się szczegółowe zasady i warunki prowadzenia sekretariatów komitetów technicznych. Umowy te mogą być również zawierane na realizację określonych celów, wymienionych w art. 3.
+### 1)
 
-7. Szczegółowe zasady działania komitetów technicznych określają przepisy wewnętrzne PKN.
+obronności i bezpieczeństwa państwa;
 
-#### Rozdział 6 Odpowiedzialność karna
+### 2)
 
-**Art. 24.**
+realizacji zadań wynikających z podjętej współpracy z organami administracji rządowej;
 
-1. Kto oznacza wyroby znakiem zgodności z Polską Normą bez uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia podlega karze grzywny.
+### 3)
 
-2. Tej samej karze podlega, kto oznacza znakiem zgodności z Polską Normą wyroby niespełniające odpowiednich wymagań Polskiej Normy lub deklaruje zgodność z Polską Normą wyrobów niespełniających tych wymagań.
+realizacji zadań wynikających z zawartych przez Rzeczpospolitą Polską umów międzynarodowych.
 
-3. Postępowanie w sprawach określonych w ust. 1 i 2 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+### 2.
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+W sprawach, o których mowa w ust. 1, Prezes Rady Ministrów sprawuje nadzór, wydając Prezesowi PKN wiążące wytyczne i polecenia.
 
-**Art. 25.**
+### Art. 11.
 
-1. Do czasu powołania Rady jej obowiązki pełni dotychczasowy „Polski Komitet Normalizacyjny”.
+Do zadań PKN należy organizowanie i prowadzenie normalizacji krajowej zgodnie z potrzebami kraju, w tym:
 
-2. Do czasu powołania Prezesa obowiązki pełni dotychczasowy Prezes „Polskiego Komitetu Normalizacyjnego”.
+### 1)
 
-**Art. 26.**
+określanie stanu i kierunków rozwoju normalizacji;
 
-1. Pierwsze wybory Rady przeprowadza się według tymczasowego regulaminu wyborów, przyjętego przez Polski Komitet Normalizacyjny w uzgodnieniu z Prezesem „Polskiego Komitetu Normalizacyjnego”.
+### 2)
 
-2. Prezes „Polskiego Komitetu Normalizacyjnego” ogłasza wybory do pierwszej Rady na podstawie regulaminu, o którym mowa w ust. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+organizowanie i nadzorowanie działań związanych z opracowywaniem i rozpowszechnianiem Polskich Norm i innych dokumentów normalizacyjnych, w szczególności przez ankietę powszechną projektów norm; ankieta powszechna jest realizowana przez podawanie do publicznej wiadomości tytułów, terminów zakończenia ankiety oraz miejsca i sposobu udostępniania zainteresowanym treści projektów;
 
-3. Prezes zwołuje pierwsze posiedzenie Rady nie później niż w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+### 3)
 
-4. Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych z konkursem na stanowisko Prezesa.
+zatwierdzanie i wycofywanie Polskich Norm oraz innych dokumentów normalizacyjnych;
 
-**Art. 27.** Z dniem wejścia w życie ustawy:
+### 4)
 
-**Art. 28.** Z dniem wejścia w życie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
+reprezentowanie Rzeczypospolitej Polskiej w międzynarodowych i regionalnych organizacjach normalizacyjnych, uczestnictwo w ich pracach oraz występowanie za granicą w sprawach dotyczących normalizacji;
 
-**Art. 29.** Traci moc ustawa z dnia 3 kwietnia 1993 r. o normalizacji (Dz. U. Nr 55, poz. 251, z późn. zm. ).
+### 5)
 
-**Art. 30.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.
+inicjowanie i organizowanie pracy komitetów technicznych do realizacji zadań związanych z opracowywaniem dokumentów normalizacyjnych;
 
+### 6)
+
+organizowanie i prowadzenie działalności szkoleniowej, wydawniczej, promocyjnej i informacyjnej dotyczącej normalizacji i dziedzin pokrewnych;
+
+### 7)
+
+opiniowanie projektów aktów prawnych związanych z normalizacją.
+
+### Art. 12.
+
+### 1.
+
+PKN uczestniczy w krajowym systemie notyfikacji norm i aktów prawnych, w szczególności prowadząc krajowy punkt informacyjny.
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, sposób funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych, mając na względzie konieczność precyzyjnego podziału zadań w tym zakresie między właściwe organy administracji rządowej oraz państwowe jednostki organizacyjne w celu realizacji zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
+
+### Art. 13.
+
+### 1.
+
+PKN współdziała z organami administracji rządowej w szczególności poprzez:
+
+### 1)
+
+wzajemne informowanie się o zdarzeniach zachodzących w gospodarce, administracji publicznej i normalizacji w kontekście ich wzajemnego związku;
+
+### 2)
+
+uzgadnianie potrzeb tłumaczenia na język polski norm europejskich z zakresu ochrony życia, zdrowia, środowiska, mienia oraz bezpieczeństwa pracy i użytkowania, wprowadzonych do Polskich Norm w języku oryginału;
+
+### 3)
+
+uzgadnianie potrzeb sporządzania dokumentów zawierających wymagania techniczne w procesie opracowywania projektów aktów normatywnych.
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, sposoby współdziałania PKN z organami administracji rządowej, uwzględniając konieczność zapewnienia udziału organów administracji rządowej w procesie opiniowania projektów Polskich Norm i innych dokumentów normalizacyjnych.
+
+### Art. 14.
+
+### 1.
+
+PKN jest jednostką budżetową.
+
+### 2.
+
+Tworzy się środek specjalny PKN, zwany dalej „środkiem specjalnym”.
+
+### 3.
+
+Środek specjalny może być tworzony z następujących źródeł:
+
+### 1)
+
+wpływów od zamawiających prace związane z opracowywaniem Polskich Norm i innych dokumentów normalizacyjnych;
+
+### 2)
+
+wpływów ze sprzedaży norm i innych materiałów związanych z normalizacją;
+
+### 3)
+
+wpływów ze szkoleń normalizacyjnych;
+
+### 4)
+
+odsetek bankowych od środka specjalnego, o którym mowa w ust. 2.
+
+### 4.
+
+Ze środka specjalnego są finansowane:
+
+### 1)
+
+prace związane z opracowywaniem Polskich Norm i innych dokumentów normalizacyjnych wykonywane na zamówienie jednostek pozabudżetowych;
+
+### 2)
+
+przygotowania do sprzedaży i rozpowszechniania norm i innych materiałów związanych z normalizacją, w szczególności:
+
+### a)
+
+przygotowanie do druku oraz druk norm i innych materiałów związanych z normalizacją,
+
+### b)
+
+zapisywanie norm i innych materiałów związanych z normalizacją na nośnikach elektronicznych,
+
+### c)
+
+zakup zabezpieczeń przed nielegalnym kopiowaniem,
+
+### d)
+
+reklama i kolportaż,
+
+### e)
+
+zakup gotowych do sprzedaży norm i innych materiałów związanych z normalizacją od innych wydawnictw;
+
+### 3)
+
+szkolenia normalizacyjne, w szczególności:
+
+### a)
+
+organizowanie i prowadzenie szkoleń normalizacyjnych,
+
+### b)
+
+wynagrodzenia wykładowców;
+
+### 4)
+
+wydatki związane z obsługą środka specjalnego.
+
+### 5.
+
+Ze środka specjalnego nie mogą być finansowane wynagrodzenia osobowe.
+
+### Art. 15.
+
+### 1.
+
+PKN kieruje Prezes PKN, zwany dalej „Prezesem”.
+
+### 2.
+
+Do zadań Prezesa należy w szczególności:
+
+### 1)
+
+powoływanie i odwoływanie komitetów technicznych;
+
+### 2)
+
+zatwierdzanie i wycofywanie, w imieniu PKN, Polskich Norm i innych dokumentów normalizacyjnych na wniosek komitetów technicznych, z uwzględnieniem zasad normalizacji krajowej wymienionych w art. 4;
+
+### 3)
+
+podejmowanie decyzji w sprawach dotyczących działalności PKN;
+
+### 4)
+
+wydawanie przepisów wewnętrznych PKN;
+
+### 5)
+
+współpraca z Radą Normalizacyjną, w tym zasięganie opinii Rady w sprawach, o których mowa w art. 18 ust. 4;
+
+### 6)
+
+składanie rocznych sprawozdań z działalności PKN Radzie Normalizacyjnej i Prezesowi Rady Ministrów w terminie do 30 czerwca następnego roku kalendarzowego;
+
+### 7)
+
+reprezentowanie PKN na zewnątrz;
+
+### 8)
+
+zarządzanie mieniem PKN.
+
+### Art. 16.
+
+### 1.
+
+Prezes Rady Ministrów powołuje Prezesa na okres 5 lat spośród zgłoszonych przez Radę Normalizacyjną kandydatów wyłonionych uprzednio w drodze konkursu. Rada Normalizacyjna może również przedstawić Prezesowi Rady Ministrów tylko jednego kandydata.
+
+### 2.
+
+Rada Normalizacyjna przeprowadza konkurs, o którym mowa w ust. 1.
+
+### 3.
+
+Na stanowisko Prezesa może kandydować obywatel polski:
+
+### 1)
+
+posiadający wykształcenie wyższe;
+
+### 2)
+
+legitymujący się co najmniej czteroletnim stażem pracy związanym z normalizacją;
+
+### 3)
+
+niekarany.
+
+### 4.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, organizację i sposób przeprowadzenia konkursu, mając na względzie w szczególności zapewnienie powszechności dostępu do konkursu i ocenę kwalifikacji kandydatów.
+
+### 5.
+
+Prezes Rady Ministrów powołuje i odwołuje, na wniosek Prezesa, dwóch zastępców Prezesa.
+
+### 6.
+
+Prezes Rady Ministrów odwołuje Prezesa przed upływem kadencji, w przypadku:
+
+### 1)
+
+choroby trwale uniemożliwiającej wykonywanie zadań;
+
+### 2)
+
+rezygnacji ze stanowiska;
+
+### 3)
+
+skazania prawomocnym wyrokiem za popełnienie przestępstwa z winy umyślnej.
+
+### 7.
+
+Prezes Rady Ministrów może odwołać Prezesa przed upływem kadencji w razie nieprzyjęcia przez Radę rocznego sprawozdania złożonego przez Prezesa PKN lub na wniosek 2/3 składu Rady Normalizacyjnej.
+
+### Art. 17.
+
+### 1.
+
+Wynagrodzenie Prezesa i jego zastępców ustala Prezes Rady Ministrów.
+
+### 2.
+
+Prezesowi i jego zastępcom przysługuje nagroda jubileuszowa i odprawa emerytalna według zasad obowiązujących pracowników PKN oraz może być przyznana nagroda roczna według zasad określonych w przepisach wydanych na podstawie ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi ([Dz. U. z 2000 r. Nr 26, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/2000/306/text.html), z [2001 r. Nr 85, poz. 924](https://api.sejm.gov.pl/eli/acts/DU/2001/924/text.html) i [Nr 154, poz. 1799](https://api.sejm.gov.pl/eli/acts/DU/2001/1799/text.html) oraz z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)).
+
+### 3.
+
+Minister właściwy do spraw pracy ustali, w drodze rozporządzenia, wysokość wynagrodzeń pracowników PKN, biorąc pod uwagę organizację PKN i konieczność zapewnienia właściwej realizacji jego zadań.
+
+### Art. 18.
+
+### 1.
+
+Przy PKN działa Rada Normalizacyjna, zwana dalej „Radą”.
+
+### 2.
+
+Kadencja Rady trwa 4 lata.
+
+### 3.
+
+Rada akceptuje coroczne sprawozdania z działalności PKN składane przez Prezesa PKN.
+
+### 4.
+
+Do zadań Rady należy także wydawanie opinii, w szczególności dotyczących:
+
+### 1)
+
+stanu i kierunków rozwoju normalizacji;
+
+### 2)
+
+wniosków o powołanie i odwołanie komitetów technicznych;
+
+### 3)
+
+przepisów wewnętrznych PKN dotyczących opracowywania dokumentów normalizacyjnych;
+
+### 4)
+
+projektów dokumentów normalizacyjnych, w których opracowywaniu uczestniczy PKN, na zasadach określonych w przepisach wewnętrznych PKN.
+
+### 5.
+
+Do kompetencji Rady należy również:
+
+### 1)
+
+składanie wniosku o powołanie i odwołanie Prezesa;
+
+### 2)
+
+organizowanie konkursu, o którym mowa w art. 16 ust. 1.
+
+### Art. 19.
+
+### 1.
+
+W skład Rady wchodzą, w liczbie nie więcej niż po 5 osób, przedstawiciele:
+
+### 1)
+
+organów administracji rządowej;
+
+### 2)
+
+ogólnopolskich organizacji gospodarczych;
+
+### 3)
+
+ogólnopolskich organizacji pracodawców;
+
+### 4)
+
+krajowych lub regionalnych organizacji, których celem statutowym jest ochrona interesów konsumentów;
+
+### 5)
+
+ogólnopolskich organizacji zawodowych i naukowo-technicznych;
+
+### 6)
+
+szkół wyższych i nauki.
+
+### 2.
+
+Prezes Rady Ministrów wskazuje organy administracji rządowej, które ze względu na zakres ich działania powinny być reprezentowane w Radzie.
+
+### 3.
+
+Członków Rady reprezentujących organy administracji rządowej powołuje i odwołuje Prezes Rady Ministrów na wniosek wskazanego organu administracji rządowej, o którym mowa w ust. 2.
+
+### 4.
+
+Rada Ministrów określi, w drodze rozporządzenia, sposób przeprowadzenia wyboru pozostałych członków Rady Normalizacyjnej, z uwzględnieniem konieczności przeciwdziałania dominacji któregokolwiek z podmiotów, o których mowa w ust. 1 pkt 2-6.
+
+### Art. 20.
+
+### 1.
+
+Co najmniej na dwa miesiące przed upływem kadencji Rady Prezes PKN ogłasza wybory do Rady Normalizacyjnej, które przeprowadza komisja wyborcza.
+
+### 2.
+
+W celu przeprowadzenia wyborów Prezes PKN powołuje pięcioosobową komisję spośród osób, których wiedza i doświadczenie zawodowe oraz autorytet dają rękojmię prawidłowego wykonania zadań komisji.
+
+### 3.
+
+W skład komisji nie może zostać powołana osoba pozostająca wobec Prezesa PKN w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co do jej bezstronności.
+
+### Art. 21.
+
+### 1.
+
+Prezes zwołuje pierwsze posiedzenie Rady nie później niż miesiąc od dnia ogłoszenia wyniku wyborów i przewodniczy mu do czasu wyboru przewodniczącego Rady.
+
+### 2.
+
+Rada konstytuuje się na pierwszym posiedzeniu.
+
+### 3.
+
+Organizację i tryb pracy Rady określa regulamin uchwalony przez Radę.
+
+### Art. 22.
+
+Prezes i jego zastępcy uczestniczą w posiedzeniach Rady z głosem doradczym.
+
+### Rozdział 5 Komitety techniczne PKN
+
+### Art. 23.
+
+### 1.
+
+Komitety techniczne realizują cele wymienione w art. 3 poprzez opracowywanie Polskich Norm i innych dokumentów normalizacyjnych w określonych zakresach tematycznych, między innymi poprzez udział przedstawicieli komitetów technicznych uczestniczących w pracach regionalnych i międzynarodowych organizacji normalizacyjnych.
+
+### 2.
+
+W skład komitetu technicznego wchodzą specjaliści delegowani przez organy administracji rządowej, organizacje: gospodarcze, pracodawców, konsumenckie, zawodowe i naukowo-techniczne, szkół wyższych i nauki oraz pracownicy PKN, z zachowaniem zasady reprezentatywności wszystkich zainteresowanych określonym zakresem tematycznym, z uwzględnieniem potrzeb gospodarki krajowej.
+
+### 3.
+
+Komitety techniczne powołuje i odwołuje Prezes po zasięgnięciu opinii Rady.
+
+### 4.
+
+Sekretariaty komitetów technicznych prowadzi PKN.
+
+### 5.
+
+Prowadzenie sekretariatów, o których mowa w ust. 4, PKN może powierzać w drodze umowy innym jednostkom organizacyjnym, na koszt tych jednostek.
+
+### 6.
+
+W umowach, o których mowa w ust. 5, ustala się szczegółowe zasady i warunki prowadzenia sekretariatów komitetów technicznych. Umowy te mogą być również zawierane na realizację określonych celów, wymienionych w art. 3.
+
+### 7.
+
+Szczegółowe zasady działania komitetów technicznych określają przepisy wewnętrzne PKN.
+
+### Rozdział 6 Odpowiedzialność karna
+
+### Art. 24.
+
+### 1.
+
+Kto oznacza wyroby znakiem zgodności z Polską Normą bez uzyskania certyfikatu zgodności upoważniającego do takiego oznaczenia podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto oznacza znakiem zgodności z Polską Normą wyroby niespełniające odpowiednich wymagań Polskiej Normy lub deklaruje zgodność z Polską Normą wyrobów niespełniających tych wymagań.
+
+### 3.
+
+Postępowanie w sprawach określonych w ust. 1 i 2 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+
+### Rozdział 7 Przepisy przejściowe i końcowe
+
+### Art. 25.
+
+### 1.
+
+Do czasu powołania Rady jej obowiązki pełni dotychczasowy „Polski Komitet Normalizacyjny”.
+
+### 2.
+
+Do czasu powołania Prezesa obowiązki pełni dotychczasowy Prezes „Polskiego Komitetu Normalizacyjnego”.
+
+### Art. 26.
+
+### 1.
+
+Pierwsze wybory Rady przeprowadza się według tymczasowego regulaminu wyborów, przyjętego przez Polski Komitet Normalizacyjny w uzgodnieniu z Prezesem „Polskiego Komitetu Normalizacyjnego”.
+
+### 2.
+
+Prezes „Polskiego Komitetu Normalizacyjnego” ogłasza wybory do pierwszej Rady na podstawie regulaminu, o którym mowa w ust. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 3.
+
+Prezes zwołuje pierwsze posiedzenie Rady nie później niż w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### 4.
+
+Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych z konkursem na stanowisko Prezesa.
+
+### Art. 27.
+
+Z dniem wejścia w życie ustawy:
+
+### 1)
+
+pracownicy Biura dotychczasowego „Polskiego Komitetu Normalizacyjnego” stają się z mocy prawa pracownikami PKN; do pracowników tych stosuje się art. 231 Kodeksu pracy;
+
+### 2)
+
+dotychczasowe „Normalizacyjne Komisje Problemowe” stają się komitetami technicznymi, w rozumieniu niniejszej ustawy;
+
+### 3)
+
+mienie będące w zarządzie dotychczasowego „Polskiego Komitetu Normalizacyjnego” przechodzi w zarząd PKN.
+
+### Art. 28.
+
+Z dniem wejścia w życie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
+
+### Art. 29.
+
+Traci moc ustawa z dnia 3 kwietnia 1993 r. o normalizacji ([Dz. U. z 1993 r. Nr 55, poz. 251](https://api.sejm.gov.pl/eli/acts/DU/1993/251/text.html), z [1995 r. Nr 95, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1995/471/text.html), z [1997 r. Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html) i [Nr 110, poz. 1166](https://api.sejm.gov.pl/eli/acts/DU/2000/1166/text.html) oraz z [2002 r. Nr 135, poz. 1145](https://api.sejm.gov.pl/eli/acts/DU/2002/1145/text.html)).
+
+### Art. 30.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r.

@@ -8,11 +8,9 @@ pos: 1271
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi
-
-*USTAWA z dnia 30 sierpnia 2002 r.*
+# Ustawa z dnia 30 sierpnia 2002 r.Przepisy wprowadzające ustawę - Prawo o ustroju sądów administracyjnych i ustawę - Prawo o postępowaniu przed sądami administracyjnymi
 
 | Pole | Wartość |
 |---|---|
@@ -24,273 +22,1708 @@ domain: null
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-09-20 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021531271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/1271/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/1271) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa - Prawo o ustroju sądów administracyjnych wchodzi w życie z dniem 1 stycznia 2004 r.
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zmiany w przepisach obowiązujących](#chpt_2) [Rozdział 3 - Przepisy przejściowe, dostosowujące i końcowe](#chpt_3)
 
-**Art. 2.** Ustawa - Prawo o postępowaniu przed sądami administracyjnymi wchodzi w życie z dniem 1 stycznia 2004 r.
+TOC
 
-**Art. 3.** Traci moc ustawa z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym (Dz.U. Nr 74, poz. 368 i Nr 104, poz. 515, z 1997 r. Nr 75, poz. 471, Nr 106, poz. 679, Nr 114, poz. 739 i Nr 144, poz. 971, z 1998 r. Nr 162, poz. 1126, z 1999 r. Nr 75, poz. 853, z 2000 r. Nr 2, poz. 5, Nr 48, poz. 552, Nr 60, poz. 704 i Nr 91, poz. 1008, z 2001 r. Nr 49, poz. 508 i 509, Nr 98, poz. 1070 i Nr 101, poz. 1113 oraz z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1177).
+## Treść ustawy
 
-#### Rozdział 2 Zmiany w przepisach obowiązujących
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz.U. z 2000 r. Nr 98, poz. 1071, z 2001 r. Nr 49, poz. 509 i z 2002 r. Nr 113, poz.
+### Art. 1.
 
-**Art. 5.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353,Nr 125, poz. 1368 i Nr 138, poz. 1546 oraz z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070 i Nr 129, poz. 1102) wprowadza się następujące zmiany:
+Ustawa - Prawo o ustroju sądów administracyjnych wchodzi w życie z dniem 1 stycznia 2004 r.
 
-**Art. 6.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz.U. z 2002 r. Nr 110, poz. 968, Nr 113, poz. 984, Nr 127, poz. 1090 i Nr 141, poz. 1178) w art. 40 w § 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+### Art. 2.
 
-**Art. 7.** W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy (Dz.U. z 2002 r. Nr 76, poz. 693) w art. 9 ust. 4 otrzymuje brzmienie: „4. Od decyzji wydanych przez organy wojskowe w sprawach określonych w ust. 1 żołnierz może wnieść, w terminie siedmiu dni od daty doręczenia mu decyzji, odwołanie do organu wojskowego wyższego stopnia na zasadach określonych w Kodeksie postępowania administracyjnego, a także skargę do sądu administracyjnego.”.
+Ustawa - Prawo o postępowaniu przed sądami administracyjnymi wchodzi w życie z dniem 1 stycznia 2004 r.
 
-**Art. 8.** W ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz.U. z 2002 r. Nr 123, poz. 1058 i Nr 126, poz. 1069) wprowadza się następujące zmiany:
+### Art. 3.
 
-**Art. 9.** W ustawie z dnia 6 lipca 1982 r. o zasadach prowadzenia na terytorium Polskiej Rzeczypospolitej Ludowej działalności gospodarczej w zakresie drobnej wytwórczości przez zagraniczne osoby prawne i fizyczne (Dz.U. z 1989 r. Nr 27, poz. 148 i Nr 74, poz. 442, z 1991 r. Nr 60, poz. 253, i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 141, poz. 692, z 1997 r. Nr 121, poz. 769 i 770 oraz z 1998 r. Nr 106, poz. 668) skreśla się art. 16.
+Traci moc ustawa z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym ([Dz. U. Nr 74, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1995/368/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html), z [1997 r. Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 106, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/1997/679/text.html), [Nr 114, poz. 739](https://api.sejm.gov.pl/eli/acts/DU/1997/739/text.html) i [Nr 144, poz. 971](https://api.sejm.gov.pl/eli/acts/DU/1997/971/text.html), z [1998 r. Nr 162, poz. 1126](https://api.sejm.gov.pl/eli/acts/DU/1998/1126/text.html), z [1999 r. Nr 75, poz. 853](https://api.sejm.gov.pl/eli/acts/DU/1999/853/text.html), z [2000 r. Nr 2, poz. 5](https://api.sejm.gov.pl/eli/acts/DU/2000/5/text.html), [Nr 48, poz. 552](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.html), [Nr 60, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/2000/704/text.html) i [Nr 91, poz. 1008](https://api.sejm.gov.pl/eli/acts/DU/2000/1008/text.html), z [2001 r. Nr 49, poz. 508 i 509](https://api.sejm.gov.pl/eli/acts/DU/2001/508/text.html), [Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html) i [Nr 101, poz. 1113](https://api.sejm.gov.pl/eli/acts/DU/2001/1113/text.html) oraz z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 141, poz. 1177](https://api.sejm.gov.pl/eli/acts/DU/2002/1177/text.html)).
 
-**Art. 10.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz.U. z 2002 r. Nr 123, poz. 1059 i Nr 126, poz. 1069) wprowadza się następujące zmiany:
+### Rozdział 2 Zmiany w przepisach obowiązujących
 
-**Art. 11.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz.U. z 2001 r. Nr 86, poz. 953, Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403 oraz z 2002 r. Nr 1, poz. 18) wprowadza się następujące zmiany:
+### Art. 4.
 
-**Art. 12.** W ustawie z dnia 26 stycznia 1984 r. - Prawo prasowe (Dz.U. Nr 5, poz. 24, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999 oraz z 2001 r. Nr 112, poz. 1198) wprowadza się następujące zmiany:
+W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z [2001 r. Nr 49, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.html) i z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) wprowadza się następujące zmiany:
 
-**Art. 13.** (uchylony).
+### 1)
 
-**Art. 14.** W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz.U. z 2001 r. Nr 33, poz. 388 oraz z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984) w art. 28 w ust. 4 skreśla się wyrazy „na zasadach i w trybie przewidzianym w Kodeksie postępowania administracyjnego”.
+w art. 1 w pkt 3 skreśla się wyrazy „, a także między tymi organami a sądami”;
 
-**Art. 15.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz.U. z 2000 r. Nr 26, poz. 319) wprowadza się następujące zmiany: wniesiona skarga do sądu administracyjnego.”;
+### 2)
 
-**Art. 16.** W ustawie z dnia 17 maja 1989 r. o izbach lekarskich (Dz.U. Nr 30, poz. 158, z 1990 r. Nr 20, poz. 120, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 152, z 1998 r. Nr 106, poz. 668 i z 2001 r. Nr 126, poz. 1383) w art. 14:
+w art. 5 w § 2 skreśla się pkt 2;
 
-**Art. 17.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz.U. z 2001 r. Nr 142, poz. 1591 oraz z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558 i Nr 113, poz. 984) art. 102a otrzymuje brzmienie: „Art. 102a. W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270).”.
+### 3)
 
-**Art. 18.** (uchylony).
+w art. 22 § 2 otrzymuje brzmienie:
 
-**Art. 19.** W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191, Nr 43, poz. 258, Nr 92, poz. 541, z 1991 r. Nr 34, poz. 151, z 1992 r. Nr 6, poz. 20, z 1993 r. Nr 40, poz. 180, z 1994 r. Nr 1, poz. 3, Nr 65, poz. 285, z 1996 r. Nr 23, poz. 102, Nr 106, poz. 496 oraz z 1997 r. Nr 9, poz. 43) w art. 18 ust. 4 otrzymuje brzmienie: „4. Do postępowania w sprawach, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.”.
+„
 
-**Art. 20.** W ustawie z dnia 5 lipca 1990 r. - Prawo o zgromadzeniach (Dz.U. Nr 51, poz. 297, z 1999 r. Nr 41, poz. 412, z 2000 r. Nr 12, poz. 136 i z 2001 r. Nr 46, poz. 499) w art. 13 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+### § 2.
 
-**Art. 21.** (uchylony).
+Spory kompetencyjne między organami jednostek samorządu terytorialnego a organami administracji rządowej rozstrzyga sąd administracyjny.
 
-**Art. 22.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3 i Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, oraz z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668, Nr 162, poz. 1115 i 1118, Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383 oraz z 2002 r. Nr 4, poz. 33 i 34 i Nr 150, poz. 1239) wprowadza się następujące zmiany:
+” ;
 
-**Art. 23.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz.U. z 2000 r. Nr 47, poz. 544 oraz z 2002 r. Nr 113, poz. 984) w art. 76 w ust. 1 wyrazy „Izby Administracyjnej, Pracy i Ubezpieczeń Społecznych” zastępuje się wyrazami „Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych”.
+### 4)
 
-**Art. 24.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz.U. Nr 78, poz. 462, z 1991 r. Nr 94, poz. 422, z 1992 r. Nr 54, poz. 254, z 1993 r. Nr 12, poz. 52, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 i Nr 124, poz. 583, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 110, poz. 1255, z 2001 r. Nr 45, poz. 498, Nr 106, poz. 1149 i Nr 110, poz. 1189 oraz z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804) w art. 136b w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+w art. 65 § 1 otrzymuje brzmienie:
 
-**Art. 25.** W ustawie z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego (Dz.U. z 1996 r. Nr 143, poz. 661, z 1997 r. Nr 82, poz. 518 i z 1998 r. Nr 162, poz. 1113) w art. 7:
+„
 
-**Art. 26.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz.U. z 1991 r. Nr 8, poz. 27, z 1995 r. Nr 120, poz. 576, z 1997 r. Nr 60, poz. 369, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 114, poz. 1189 oraz z 2001 r. Nr 101, poz. 1089 i Nr 129, poz. 1438) w art. 7 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw rolnictwa może zaskarżyć prawomocną uchwałę samorządu, podjętą w sprawach, o których mowa w ust. 1, do sądu administracyjnego.”.
+### § 1.
 
-**Art. 27.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz.U. Nr 41, poz. 178, z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 oraz z 2002 r. Nr 62, poz. 559) w art. 24 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego prawomocną uchwałę samorządu pielęgniarek i położnych w sprawach, o których mowa w ust. 2.”.
+Jeżeli organ administracji publicznej, do którego podanie wniesiono, jest niewłaściwy w sprawie, niezwłocznie przekazuje je do organu właściwego. Przekazanie sprawy do organu właściwego następuje w drodze postanowienia, na które służy zażalenie.
 
-**Art. 28.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz.U. Nr 41, poz. 179 i Nr 105, poz. 452, z 1997 r. Nr 43, poz. 272 i Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268, z 2001 r. Nr 126, poz. 1382 oraz z 2002 r. Nr 141, poz. 1181) w art. 19 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego prawomocną uchwałę samorządu aptekarskiego w sprawach, o których mowa w ust. 1.”.
+” ;
 
-**Art. 29.** (uchylony).
+### 5)
 
-**Art. 30.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz.U. z 2002 r. Nr 112, poz. 982 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+art. 66 otrzymuje brzmienie:
 
-**Art. 31.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz.U. z 2002 r. Nr 147, poz. 1230) w art. 124j wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+„
 
-**Art. 32.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. z 1999 r. Nr 54, poz. 572 i Nr 83, poz. 931 oraz z 2000 r. Nr 70, poz. 816, Nr 104, poz. 1103 i Nr 116, poz. 1216, z 2001 r. Nr 14, poz. 143, Nr 81, poz. 877 i Nr 110, poz. 1189 oraz z 2002 r. Nr 41, poz. 365, Nr 74, poz. 676, Nr 89, poz. 804 i Nr 141, poz. 1178) w art. 34a w ust. 1:
+### Art. 66.
 
-**Art. 33.** W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze (Dz.U. Nr 27, poz. 96, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800 oraz z 2002 r. Nr 113, poz. 984 i Nr 117, poz. 1007) w art. 150 w ust. 4 zdanie pierwsze otrzymuje brzmienie: „Do rozpoznania skargi wniesionej do sądu administracyjnego na ostateczne orzeczenie komisji do spraw szkód górniczych stosuje się przepisy o postępowaniu przed sądami administracyjnymi.”.
+### § 1.
 
-**Art. 34.** W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych (Dz.U. z 2001 r. Nr 79, poz. 856 i Nr 154, poz. 1799) wprowadza się następujące zmiany:
+Jeżeli podanie dotyczy kilku spraw podlegających załatwieniu przez różne organy, organ administracji publicznej, do którego podanie wniesiono, uczyni przedmiotem rozpoznania sprawy należące do jego właściwości. Równocześnie zawiadomi wnoszącego podanie, że w sprawach innych powinien wnieść odrębne podanie do właściwego organu, i poinformuje go o treści § 2. Zawiadomienie następuje w drodze postanowienia, na które służy zażalenie.
 
-**Art. 35.** W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz.U. z 2001 r. Nr 85, poz. 937 i Nr 154, poz. 1800) w art. 96 skreśla się wyrazy „na zasadach przewidzianych w Kodeksie postępowania administracyjnego”.
+### § 2.
 
-**Art. 36.** W ustawie z dnia 5 stycznia 1995 r. o fundacji - Zakład Narodowy imienia Ossolińskich (Dz.U. Nr 23, poz. 121) wprowadza się następujące zmiany:
+Odrębne podanie złożone zgodnie z zawiadomieniem, o którym mowa w § 1, w terminie czternastu dni od daty doręczenia postanowienia uważa się za złożone w dniu wniesienia pierwszego podania.
 
-**Art. 37.** W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego (Dz.U. z 2000 r. Nr 98, poz. 1070, z 2001 r. Nr 4, poz. 27, Nr 16, poz. 167 i Nr 154, poz. 1800 i z 2002 r. Nr 25, poz. 253) w art. 24 w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+### § 3.
 
-**Art. 38.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz.U. z 2002 r. Nr 101, poz. 927 i Nr 113, poz. 984) w art. 48 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+Jeżeli podanie wniesiono do organu niewłaściwego, a organu właściwego nie można ustalić na podstawie danych podania, albo gdy z podania wynika, że właściwym w sprawie jest sąd powszechny, organ, do którego podanie wniesiono, zwraca je wnoszącemu. Zwrot podania następuje w drodze postanowienia, na które służy zażalenie.
 
-**Art. 39.** W ustawie z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw (Dz.U. Nr 43, poz. 189 i z 1997 r. Nr 133, poz. 882) skreśla się art. 10.
+### § 4.
 
-**Art. 40.** W ustawie z dnia 26 kwietnia 1996 r. o Służbie Więziennej (Dz.U. Nr 61, poz. 283 i Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 133, poz. 883, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 2, poz. 5, z 2001 r. Nr 81, poz. 877, Nr 106, poz. 1149, Nr 110, poz. 1189 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676) w art. 132a w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+Organ nie może jednak zwrócić podania z tej przyczyny, że właściwym w sprawie jest sąd powszechny, jeżeli w tej sprawie sąd uznał się już za niewłaściwy.
 
-**Art. 41.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz.U. z 2002 r. Nr 9, poz. 86) wprowadza się następujące zmiany:
+” ;
 
-**Art. 42.** (uchylony).
+### 6)
 
-**Art. 43.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz.U. z 1997 r. Nr 28, poz. 152 i Nr 88, poz. 554, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1115, z 1999 r. Nr 60, poz. 636 i Nr 64, poz. 729, z 2000 r. Nr 12, poz. 136, Nr 60, poz. 698, Nr 94, poz. 1037 i Nr 120, poz. 1268 oraz z 2002 r. Nr 21, poz. 204 i Nr 76, poz. 691) w art. 57 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+w art. 138 skreśla się § 3;
 
-**Art. 44.** (uchylony).
+### 7)
 
-**Art. 45.** W ustawie z dnia 20 lutego 1997 r. o fundacji - Centrum Badania Opinii Społecznej (Dz.U. Nr 30, poz. 163) w art. 14 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+skreśla się dział V „Rozstrzyganie sporów o właściwość między organami administracji publicznej a sądami powszechnymi”.
 
-**Art. 46.** W ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne (Dz.U. z 1999 r. Nr 42, poz. 428, Nr 57, poz. 618, Nr 62, poz. 681 i Nr 63, poz. 701, z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600 oraz z 2002 r. Nr 14, poz. 128, Nr 74, poz. 676 i Nr 84, poz. 765) w art. 7 w ust. 1 pkt 8b otrzymuje brzmienie: „8b) osoba niebędąca sędzią, ubiegająca się o stanowisko sędziego sądu administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego.”.
+### Art. 5.
 
-**Art. 47.** (uchylony).
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z [1965 r. Nr 15, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1965/113/text.html), z [1974 r. Nr 27, poz. 157](https://api.sejm.gov.pl/eli/acts/DU/1974/157/text.html) i [Nr 39, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1974/231/text.html), z [1975 r. Nr 45, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html), z [1982 r. Nr 11, poz. 82](https://api.sejm.gov.pl/eli/acts/DU/1982/82/text.html) i [Nr 30, poz. 210](https://api.sejm.gov.pl/eli/acts/DU/1982/210/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1984 r. Nr 45, poz. 241 i 242](https://api.sejm.gov.pl/eli/acts/DU/1984/241/text.html), z [1985 r. Nr 20, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 4, poz. 21](https://api.sejm.gov.pl/eli/acts/DU/1989/21/text.html) i [Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z [1990 r. Nr 14, poz. 88](https://api.sejm.gov.pl/eli/acts/DU/1990/88/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), [Nr 53, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html), [Nr 55, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.html) i [Nr 79, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1990/464/text.html), z [1991 r. Nr 7, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1991/24/text.html), [Nr 22, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1993 r. Nr 12, poz. 53](https://api.sejm.gov.pl/eli/acts/DU/1993/53/text.html), z [1994 r. Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 83, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1995/417/text.html), z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 73, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html), z [1997 r. Nr 43, poz. 270](https://api.sejm.gov.pl/eli/acts/DU/1997/270/text.html), [Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), [Nr 117, poz. 752](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html), [Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html), [Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html), [Nr 140, poz. 940](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 117, poz. 757](https://api.sejm.gov.pl/eli/acts/DU/1998/757/text.html), z [1999 r. Nr 52, poz. 532](https://api.sejm.gov.pl/eli/acts/DU/1999/532/text.html), z [2000 r. Nr 22, poz. 269 i 271](https://api.sejm.gov.pl/eli/acts/DU/2000/269/text.html), [Nr 48, poz. 552 i 554](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.html), [Nr 55, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2000/665/text.html), [Nr 73, poz. 852](https://api.sejm.gov.pl/eli/acts/DU/2000/852/text.html), [Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), [Nr 114, poz. 1191 i 1193](https://api.sejm.gov.pl/eli/acts/DU/2000/1191/text.html) i [Nr 122, poz. 1314, 1319](https://api.sejm.gov.pl/eli/acts/DU/2000/1314/text.html)[i 1322](https://api.sejm.gov.pl/eli/acts/DU/2000/1319/text.html), z [2001 r. Nr 4, poz. 27](https://api.sejm.gov.pl/eli/acts/DU/2001/27/text.html), [Nr 49, poz. 508](https://api.sejm.gov.pl/eli/acts/DU/2001/508/text.html), [Nr 63, poz. 635](https://api.sejm.gov.pl/eli/acts/DU/2001/635/text.html), [Nr 98, poz. 1069, 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1069/text.html)[i 1071](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), [Nr 123, poz. 1353](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.html), [Nr 125, poz. 1368](https://api.sejm.gov.pl/eli/acts/DU/2001/1368/text.html) i [Nr 138, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2001/1546/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 26, poz. 265](https://api.sejm.gov.pl/eli/acts/DU/2002/265/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 84, poz. 764](https://api.sejm.gov.pl/eli/acts/DU/2002/764/text.html), [Nr 126, poz. 1069 i 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text.html) i [Nr 129, poz. 1102](https://api.sejm.gov.pl/eli/acts/DU/2002/1102/text.html)) wprowadza się następujące zmiany:
 
-**Art. 48.** W ustawie z dnia 17 lipca 1997 r. o szczególnych zasadach postępowania administracyjnego i sądowego w związku z usuwaniem skutków powodzi z lipca 1997 r. (Dz.U. Nr 80, poz. 494) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 49.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. z 2000 r. Nr 46, poz. 543, z 2001 r. Nr 129, poz. 1447 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 113, poz. 984, Nr 126, poz. 1070 i Nr 130, poz.
+dodaje się art. 1991 w brzmieniu:
 
-**Art. 50.** W ustawie z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz.U Nr 117, poz. 753, z 1999 r. Nr 75, poz. 853 i z 2001 r. Nr 98, poz. 1070) w art. 26 w § 1 wyrazy „Naczelnym Sądzie Administracyjnym” zastępuje się wyrazami „sądzie administracyjnym”.
+„
 
-**Art. 51.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz.U. Nr 139, poz. 934, z 1998 r. Nr 98, poz. 610, Nr 106, poz. 668 i Nr 162, poz. 1118, z 1999 r. Nr 110, poz. 1256, z 2000 r. Nr 60, poz. 702, z 2001 r. Nr 8, poz. 64 i Nr 110, poz. 1189 i z 2002 r. Nr 25, poz. 253) wprowadza się następujące zmiany:
+### Art. 1991.
 
-**Art. 52.** W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. z 2002 r. Nr 101, poz. 926) w art. 21 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+Sąd nie może odrzucić pozwu z tego powodu, że do rozpoznania sprawy właściwy jest organ administracji publicznej lub sąd administracyjny, jeżeli organ administracji publicznej lub sąd administracyjny uznały się w tej sprawie za niewłaściwe.
 
-**Art. 53.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926 i Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475,Nr 125, poz. 1368, Nr 110, poz. 1198 i Nr 130, poz. 1452 oraz z 2002 r. Nr 89, poz. 804 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+” ;
 
-**Art. 54.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. z 2002 r. Nr 72, poz. 665, Nr 126, poz. 1070, Nr 141, poz. 1178 i Nr 144, poz. 1208) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 55.** W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz.U. Nr 140, poz. 940, z 1998 r. Nr 107, poz. 669, z 2000 r. Nr 6, poz. 70 i Nr 60, poz. 702, z 2001 r. Nr 15, poz. 148 i Nr 39, poz. 459 oraz z 2002 r. Nr 126, poz.
+w art. 781 w § 2 w zdaniu pierwszym wyraz „Innym” zastępuje się wyrazami „Tytułom egzekucyjnym pochodzącym od sądu administracyjnego oraz innym”.
 
-**Art. 56.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz.U. z 2001 r. Nr 142, poz. 1592 oraz z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558 i Nr 113, poz. 984) art. 90a otrzymuje brzmienie: „Art. 90a. W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. - Prapoz. 1270).”.
+### Art. 6.
 
-**Art. 57.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz.U. z 2001 r. Nr 142, poz. 1590 oraz z 2002 r. Nr 23, poz. 220 i Nr 62, poz. 558) art. 88a otrzymuje brzmienie: „Art. 88a. W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270).”.
+W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2002 r. Nr 110, poz. 968](https://api.sejm.gov.pl/eli/acts/DU/2002/968/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 127, poz. 1090](https://api.sejm.gov.pl/eli/acts/DU/2002/1090/text.html) i [Nr 141, poz. 1178](https://api.sejm.gov.pl/eli/acts/DU/2002/1178/text.html)) w art. 40 w § 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
 
-**Art. 58.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz.U. Nr 155, poz. 1014, z 1999 r. Nr 38, poz. 360, Nr 49, poz. 485, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69, Nr 12, poz. 136, Nr 48, poz. 550, Nr 95, poz. 1041, Nr 119, poz. 1251 i Nr 122, poz. 1315, z 2001 r. Nr 45, poz. 497, Nr 46, poz. 499, Nr 88, poz. 961, Nr 98, poz. 1070, Nr 100, poz. 1082, Nr 102, poz. 1116, Nr 125, poz. 1368 i Nr 145, poz. 1623 oraz z 2002 r. Nr 41, poz. 363 i 365, Nr 74, poz. 676 i Nr 113, poz. 984) w art. 173:
+### Art. 7.
 
-**Art. 59.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz.U. z 1999 r. Nr 49, poz. 483, Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800 oraz z 2002 r. Nr 150, poz. 1237) w art. 56 skreśla się ust. 3.
+W ustawie z dnia 17 grudnia 1974 r. o uposażeniu żołnierzy ([Dz. U. z 2002 r. Nr 76, poz. 693](https://api.sejm.gov.pl/eli/acts/DU/2002/693/text.html)) w art. 9 ust. 4 otrzymuje brzmienie:
 
-**Art. 60.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz.U. Nr 155, poz. 1016, z 1999 r. Nr 38, poz. 360, z 2000 r. Nr 48, poz. 553 i z 2002 r. Nr 74, poz. 676) w art. 43 w zdaniu drugim wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+„
 
-**Art. 61.** W ustawie z dnia 18 grudnia 1998 r. o zmianie ustawy o samorządowych kolegiach odwoławczych (Dz.U. Nr 162, poz. 1124) skreśla się art. 2.
+### 4.
 
-**Art. 62.** W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95, z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800 oraz z 2002 r. Nr 74, poz. 676 i Nr 89, poz. 804) wprowadza się następujące zmiany:
+Od decyzji wydanych przez organy wojskowe w sprawach określonych w ust. 1 żołnierz może wnieść, w terminie siedmiu dni od daty doręczenia mu decyzji, odwołanie do organu wojskowego wyższego stopnia na zasadach określonych w Kodeksie postępowania administracyjnego, a także skargę do sądu administracyjnego.
 
-**Art. 63.** W ustawie z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady (Dz.U. Nr 41, poz. 412 oraz z 2002 r. Nr 113, poz. 984) w art. 18 w ust. 2 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”.
+” .
 
-**Art. 64.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz.U. Nr 72, poz. 802 i Nr 110, poz. 1255 oraz z 2002 r. Nr 41, poz. 365 i Nr 89, poz. 804) wprowadza się następujące zmiany: „sądu administracyjnego”;
+### Art. 8.
 
-**Art. 65.** W ustawie z dnia 22 stycznia 2000 r. o ogólnym bezpieczeństwie produktów (Dz.U. Nr 15, poz. 179) w art. 17 w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+W ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze ([Dz. U. z 2002 r. Nr 123, poz. 1058](https://api.sejm.gov.pl/eli/acts/DU/2002/1058/text.html) i [Nr 126, poz. 1069](https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text.html)) wprowadza się następujące zmiany:
 
-**Art. 66.** (uchylony).
+### 1)
 
-**Art. 67.** W ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej (Dz.U. z 2001 r. Nr 49, poz. 508 oraz z 2002 r. Nr 74, poz. 676, Nr 108, poz. 945 i Nr 113, poz.
+w art. 16 ust. 2 i 3 otrzymują brzmienie:
 
-**Art. 68.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz.U. Nr 88, poz. 985 oraz z 2002 r. Nr 23, poz. 220 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+„
 
-**Art. 69.** W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów (Dz.U. z 2001 r. Nr 5, poz. 42 i z 2002 r. Nr 23, poz. 221) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 70.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz.U. Nr 27, poz. 298 i Nr 106, poz. 1149 oraz z 2002 r. Nr 74, poz. 676) w art. 123 w ust. 7 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia, wysokość opłat za czynności adwokackie przed organami wymiaru sprawiedliwości, stanowiących podstawę do zasądzenia przez sądy kosztów zastępstwa prawnego i kosztów adwokackich, mając na względzie, że ustalenie opłaty wyższej niż stawka minimalna, o której mowa w ust. 3, lecz nieprzekraczającej sześciokrotności tej stawki, może być uzasadnione rodzajem i zawiłością sprawy oraz niezbędnym nakładem pracy adwokata. 3. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej i Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia, stawki minimalne za czynności adwokackie, o których mowa w ust. 1, mając na względzie rodzaj i zawiłość sprawy oraz wymagany nakład pracy adwokata.
 
-**Art. 71.** W ustawie z dnia 11 kwietnia 2001 r. o ochronie przed nadmiernym przywozem towarów na polski obszar celny (Dz.U. Nr 43, poz. 477, Nr 123, poz. 1352 oraz z 2002 r. Nr 125, poz. 1063, Nr 153, poz. 1271 i Nr 188, poz. 1572) wprowadza się następujące zmiany:
+” ;
 
-**Art. 72.** W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz.U. Nr 49, poz.
+### 2)
 
-**Art. 73.** W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz.U. Nr 46, poz. 499 i Nr 154, poz. 1802 oraz z 2002 r. Nr 14, poz. 128, Nr 113, poz. 984 i Nr 127, poz. 1089) w art. 82 w ust. 1 wyrazy „Izby Administracyjnej, Pracy i Ubezpieczeń Społecznych” zastępuje się wyrazami „Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych”.
+w art. 29 ust. 2 otrzymuje brzmienie:
 
-**Art. 74.** W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska (Dz.U. Nr 62, poz. 627 i Nr 115, poz. 1229 oraz z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984) wprowadza się następujące zmiany:
+„
 
-**Art. 75.** W ustawie z dnia 21 czerwca 2001 r. o ochronie przed nadmiernym przywozem na polski obszar celny niektórych towarów tekstylnych i odzieżowych (Dz.U. Nr 110, poz. 1188 oraz z 2002 r. Nr 125, poz. 1063, Nr 153, poz. 1271 i Nr 188, poz. 1572) w art. 2 w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+### 2.
 
-**Art. 76.** W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz.U. Nr 98, poz. 1070 i Nr 154, poz. 1787) w art. 77 w § 1 wyrazy „w tym Sądzie” zastępuje się wyrazami „w sądzie administracyjnym”.
+Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, określi, w drodze rozporządzenia, szczegółowe zasady ponoszenia kosztów, o których mowa w ust. 1, z uwzględnieniem sposobu ustalania tych kosztów, wydatków stanowiących podstawę ich ustalania oraz maksymalnej wysokości opłat za udzieloną pomoc.
 
-**Art. 77.** W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych (Dz.U. Nr 98, poz. 1071 i Nr 154, poz. 1787) wprowadza się następujące zmiany:
+” ;
 
-**Art. 78.** W ustawie z dnia 27 lipca 2001 r. o Krajowej Radzie Sądownictwa (Dz.U. Nr 100, poz. 1082) wprowadza się następujące zmiany:
+### 3)
 
-**Art. 79.** (uchylony).
+w art. 69 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
 
-**Art. 80.** W ustawie z dnia 11 sierpnia 2001 r. o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw (Dz.U. Nr 84, poz. 907 i z 2000 r. Nr 10, poz. 90) w art. 15 wprowadza się następujące zmiany:
+### Art. 9.
 
-**Art. 81.** W ustawie z dnia 24 sierpnia 2001 r. o ochronie przed przywozem na polski obszar celny towarów po cenach dumpingowych (Dz.U. Nr 123, poz. 1352 oraz z 2002 r. Nr 41, poz. 365, Nr 125, poz. 1063 i Nr 153, poz. 1271) wprowadza się następujące zmiany:
+W ustawie z dnia 6 lipca 1982 r. o zasadach prowadzenia na terytorium Polskiej Rzeczypospolitej Ludowej działalności gospodarczej w zakresie drobnej wytwórczości przez zagraniczne osoby prawne i fizyczne ([Dz. U. z 1989 r. Nr 27, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/1989/148/text.html) i [Nr 74, poz. 442](https://api.sejm.gov.pl/eli/acts/DU/1989/442/text.html), z [1991 r. Nr 60, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1991/253/text.html) i [Nr 111, poz. 480](https://api.sejm.gov.pl/eli/acts/DU/1991/480/text.html), z [1994 r. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html), z [1997 r. Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html) oraz z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)) skreśla się art. 16.
 
-**Art. 82.** W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz.U. Nr 112, poz. 1198) w art. 21 wyrazy „o Naczelnym Sądzie Administracyjnym” zastępuje się wyrazami „ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270)”.
+### Art. 10.
 
-**Art. 83.** W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym (Dz.U. Nr 130, poz.
+W ustawie z dnia 6 lipca 1982 r. o radcach prawnych ([Dz. U. z 2002 r. Nr 123, poz. 1059](https://api.sejm.gov.pl/eli/acts/DU/2002/1059/text.html) i [Nr 126, poz. 1069](https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text.html)) wprowadza się następujące zmiany:
 
-**Art. 84.** W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz.U. Nr 113, poz. 985) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 84a.** W ustawie z dnia 21 czerwca 2002 r. o ochronie przed przywozem na polski obszar celny towarów subsydiowanych (Dz.U. Nr 125, poz. 1063) wprowadza się następujące zmiany:
+w art. 10 w pkt 2 po wyrazach „sądem apelacyjnym” dodaje się wyrazy „, przed wojewódzkim sądem administracyjnym”;
 
-**Art. 84b.** W ustawie z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz.U. Nr 141, poz. 1177 oraz z 2003 r. Nr 159, poz. 1537, Nr 188, poz. 1840 i Nr 189, poz. 1850) w art. 33 w ust. 1 w zdaniu administracyjnego”.
+### 2)
 
-**Art. 84c.** W ustawie z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (Dz.U. Nr 156, poz. 1301) w art. 21 ust. 6 otrzymuje brzmienie: „6. Decyzje organów cenzury i kontroli są ostateczne i mogą być zaskarżone bezpośrednio do sądu administracyjnego. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270) nie stosuje się.”.
+w art. 223 ust. 2 otrzymuje brzmienie:
 
-#### Rozdział 3 Przepisy przejściowe, dostosowujące i końcowe
+„
 
-**Art. 85.** Z dniem 1 stycznia 2004 r. tworzy się w Warszawie i w miejscowościach, w których miały siedziby ośrodki zamiejscowe Naczelnego Sądu Administracyjnego, utworzone na podstawie dotychczasowych przepisów, wojewódzkie sądy administracyjne na podstawie ustawy, o której mowa w art. 1, oraz znosi się ośrodki zamiejscowe Naczelnego Sądu Administracyjnego.
+### 2.
 
-**Art. 86.**
+Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych, określi, w drodze rozporządzenia, szczegółowe zasady ponoszenia kosztów, o których mowa w ust. 1, z uwzględnieniem sposobu ustalania tych kosztów, wydatków stanowiących podstawę ich ustalania oraz maksymalnej wysokości opłat za udzieloną pomoc.
 
-§ 1. Prezes Naczelnego Sądu Administracyjnego powoła spośród sędziów tego Sądu pełnomocników do organizacji wojewódzkich sądów administracyjnych, zwanych dalej „pełnomocnikami”.
+” ;
 
-§ 2. Do czasu powołania prezesów wojewódzkich sądów administracyjnych na podstawie ustawy, o której mowa w art. 1, pełnomocnikom powierza się także wykonywanie zadań należących do prezesów tych sądów.
+### 3)
 
-**Art. 87.**
+w art. 225 ust. 2 i 3 otrzymują brzmienie:
 
-§ 1. Wojewódzkie sądy administracyjne utworzone w miejscowościach, w których miały siedziby ośrodki zamiejscowe Naczelnego Sądu Administracyjnego, utworzone na podstawie dotychczasowych przepisów, wstępują w stosunki prawne związane z nieruchomościami i lokalami zajmowanymi przez te ośrodki oraz przejmują pozostające w ich dyspozycji mienie i środki finansowe.
+„
 
-§ 2. Minister właściwy do spraw administracji publicznej, nie później niż na sześć miesięcy przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, odda w trwały zarząd nieruchomość na potrzeby Wojewódzkiego Sądu Administracyjnego w Warszawie.
+### 2.
 
-**Art. 88.** Krajowa Rada Sądownictwa, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne przedstawi Prezydentowi Rzeczypospolitej Polskiej wnioski o powołanie sędziów tych sądów, w liczbie ustalonej przez Prezesa Naczelnego Sądu Administracyjnego, spośród kandydatów mających kwalifikacje do zajmowania tych stanowisk, zgłoszonych przez Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego oraz Prezesa Naczelnego Sądu Administracyjnego.
+Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych oraz Naczelnej Rady Adwokackiej, określi, w drodze rozporządzenia, wysokość opłat za czynności radców prawnych przed organami wymiaru sprawiedliwości, stanowiących podstawę do zasądzenia przez sądy kosztów zastępstwa prawnego, mając na względzie, że ustalenie opłaty wyższej niż stawka minimalna, o której mowa w ust. 3, lecz nieprzekraczającej sześciokrotności tej stawki, może być uzasadnione rodzajem i zawiłością sprawy oraz niezbędnym nakładem pracy radcy prawnego. 3. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Radców Prawnych oraz Naczelnej Rady Adwokackiej, określi, w drodze rozporządzenia, stawki minimalne za czynności radców prawnych, o których mowa w ust. 1, mając na względzie rodzaj i zawiłość sprawy oraz wymagany nakład pracy radcy prawnego.
 
-**Art. 89.** Do dnia 1 stycznia 2005 r. funkcje zgromadzeń ogólnych sędziów wojewódzkich sądów administracyjnych oraz kolegiów tych sądów pełni odpowiednio Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego i Kolegium Naczelnego Sądu Administracyjnego.
+” ;
 
-**Art. 90.**
+### 4)
 
-§ 1. Pełnomocnicy, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, zawiadomią w formie pisemnej pracowników administracyjnych, pomocniczych i obsługi, zatrudnionych w odpowiednich jednostkach organizacyjnych Naczelnego Sądu Administracyjnego, z zastrzeżeniem art. 92, o propozycji dalszego zatrudnienia na określonych stanowiskach w odpowiednich miejscowo wojewódzkich sądach administracyjnych oraz o wysokości wynagrodzenia.
+w art. 31 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
 
-§ 2. Pracownicy, którzy przyjmą propozycję dalszego zatrudnienia, o której mowa w § 1, stają się z dniem 1 stycznia 2004 r. pracownikami odpowiednich miejscowo wojewódzkich sądów administracyjnych.
+### 5)
 
-§ 3. Jeżeli na nowym stanowisku wynagrodzenie pracownika jest niższe od pobieranego na poprzednio zajmowanym stanowisku, pracownikowi wypłaca się do dnia 30 czerwca 2004 r. wynagrodzenie w dotychczasowej wysokości.
+w art. 311 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
 
-**Art. 91.**
+### Art. 11.
 
-§ 1. Pracownik, o którym mowa w art. 90, w terminie jednego miesiąca od dnia zawiadomienia przez pełnomocnika o nowym stanowisku oraz wynagrodzeniu, może złożyć pisemne oświadczenie o odmowie dalszego zatrudnienia.
+W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2001 r. Nr 86, poz. 953](https://api.sejm.gov.pl/eli/acts/DU/2001/953/text.html), [Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2001/1071/text.html), [Nr 123, poz. 1353](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.html) i [Nr 128, poz. 1403](https://api.sejm.gov.pl/eli/acts/DU/2001/1403/text.html) oraz z [2002 r. Nr 1, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/2002/18/text.html)) wprowadza się następujące zmiany:
 
-§ 2. Stosunek pracy z pracownikiem, który złożył oświadczenie o odmowie dalszego zatrudnienia, wygasa z upływem trzech miesięcy od dnia złożenia oświadczenia.
+### 1)
 
-§ 3. Pracownikowi, o którym mowa w § 2, przysługuje odprawa pieniężna wypłacana na podstawie przepisów o szczególnych zasadach rozwiązywania stosunków pracy z przyczyn dotyczących zakładów pracy.
+w art. 367 ust. 2 otrzymuje brzmienie:
 
-**Art. 92.**
+„
 
-§ 1. Prezes Naczelnego Sądu Administracyjnego, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, zawiadomi w formie pisemnej pracowników administracyjnych, pomocniczych i dalszego zatrudnienia w Naczelnym Sądzie Administracyjnym. W zawiadomieniu należy określić nowe stanowisko oraz wysokość wynagrodzenia.
+### 2.
 
-§ 2. Do pracowników, o których mowa w § 1, którzy w terminie jednego miesiąca od dnia doręczenia zawiadomienia przyjęli propozycję dalszego zatrudnienia w Naczelnym Sądzie Administracyjnym, nie stosuje się przepisów art. 90 § 1 i 2 i art. 91.
+Od orzeczeń komisji dyscyplinarnej II instancji stronom służy odwołanie do Sądu Apelacyjnego w Warszawie. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji.
 
-**Art. 93.** Osoby powołane na stanowiska sędziów Naczelnego Sądu Administracyjnego na podstawie dotychczasowych przepisów pozostają sędziami Naczelnego Sądu Administracyjnego.
+” ;
 
-**Art. 94.**
+### 2)
 
-§ 1. W okresie trzech miesięcy od dnia wejścia w życie ustawy, o której mowa w art. 1, sędzia Naczelnego Sądu Administracyjnego może być przeniesiony przez Prezesa Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego w miejscowości, w której dotychczas pełnił służbę, z pozostawieniem mu prawa do wynagrodzenia i tytułu przysługującego sędziemu Naczelnego Sądu Administracyjnego. Za zgodą sędziego takie przeniesienie jest możliwe również na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego w miejscowości innej niż ta, w której sędzia dotychczas pełnił służbę.
+w art. 38 skreśla się ust. 2;
 
-§ 2. Sędzia Naczelnego Sądu Administracyjnego przeniesiony na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego, może być przeniesiony ponownie przez Prezesa Naczelnego Sądu Administracyjnego do Naczelnego Sądu Administracyjnego, za jego zgodą, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego.
+### 3)
 
-**Art. 95.**
+w art. 39 skreśla się wyrazy „w sprawach niewymienionych w art. 38 ust. 1”.
 
-§ 1. Do czasu powołania odpowiedniej liczby sędziów wojewódzkich sądów administracyjnych, nie dłużej jednak niż w okresie dwóch lat od dnia wejścia w życie ustawy, o której mowa w art. 1, Prezes Naczelnego Sądu Administracyjnego, po zasię gnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, może delegować sędziego Naczelnego Sądu Administracyjnego do pełnienia obowiązków w wojewódzkim sądzie administracyjnym.
+### Art. 12.
 
-§ 2. Jeżeli sędzia Naczelnego Sądu Administracyjnego nie wyrazi zgody na delegowanie do wojewódzkiego sądu administracyjnego na okres dłuższy niż trzy miesiące w roku, może być przeniesiony przez Krajową Radę Sądownictwa, na wniosek Kolegium Naczelnego Sądu Administracyjnego, w stan spoczynku z uposażeniem w wysokości wynagrodzenia pobieranego na ostatnio zajmowanym stanowisku.
+W ustawie z dnia 26 stycznia 1984 r. - Prawo prasowe ([Dz. U. Nr 5, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1984/24/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 34, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1989/187/text.html), z [1990 r. Nr 29, poz. 173](https://api.sejm.gov.pl/eli/acts/DU/1990/173/text.html), z [1991 r. Nr 100, poz. 442](https://api.sejm.gov.pl/eli/acts/DU/1991/442/text.html), z [1996 r. Nr 114, poz. 542](https://api.sejm.gov.pl/eli/acts/DU/1996/542/text.html), z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1999 r. Nr 90, poz. 999](https://api.sejm.gov.pl/eli/acts/DU/1999/999/text.html) oraz z [2001 r. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html)) wprowadza się następujące zmiany:
 
-**Art. 96.** Pierwszego wyboru drugiego członka Krajowej Rady Sądownictwa spośród sędziów sądów administracyjnych dokona Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego po wygaśnięciu mandatu członka Krajowej Rady Sądownictwa wybranego przez zebranie przedstawicieli zgromadzeń ogólnych sędziów okręgu.
+### 1)
 
-**Art. 97.**
+w art. 4 ust. 4 otrzymuje brzmienie:
 
-§ 1. Sprawy, w których skargi zostały wniesione do Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. i postępowanie nie zostało zakończone, podlegają rozpoznaniu przez właściwe wojewódzkie sądy administracyjne na podstawie przepisów ustawy - Prawo o postępowaniu przed sądami administracyjnymi.
+„
 
-§ 2. W sprawach, o których mowa w § 1, stosuje się dotychczasowe przepisy o wpisie i innych kosztach sądowych.
+### 4.
 
-**Art. 98.** W okresie dwóch lat od dnia wejścia w życie ustawy, o której mowa w art. 2, skargę wniesioną bezpośrednio do sądu administracyjnego, jeżeli wniesiona została w terminie określonym w art. 53 § 1 ustawy, o której mowa w art. 2, sąd administracyjny przekazuje organowi, którego działanie lub bezczynność są przedmiotem skargi, ze skutkiem określonym w art. 54 § 1 ustawy, o której mowa w art. 2.
+Odmowę, o której mowa w ust. 3, lub niezachowanie wymogów określonych w tym przepisie, można zaskarżyć do sądu administracyjnego w terminie 30 dni; w postępowaniu przed sądem stosuje się odpowiednio przepisy o zaskarżaniu do sądu decyzji administracyjnych.
 
-**Art. 99.** Ocena prawna wyrażona w orzeczeniu Naczelnego Sądu Administracyjnego, wydanym przed dniem 1 stycznia 2004 r., z zastrzeżeniem art. 100, wiąże w sprawie wojewódzki sąd administracyjny oraz organ, którego działanie lub bezczynność były przedmiotem zaskarżenia.
+” ;
 
-**Art. 100.** Ocena prawna wyrażona w wydanych przed dniem 1 stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, o której mowa w art. 97 § 1.
+### 2)
 
-**Art. 101.** W sprawach zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r., w których nie upłynął termin do wniesienia rewizji nadzwyczajnej do Sądu Najwyższego, strona może, w terminie do dnia 31 marca 2004 r., wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2.
+w art. 58 skreśla się ust. 3.
 
-**Art. 102.**
+### Art. 13.
 
-§ 1. Sąd Najwyższy umorzy postępowanie w sprawach, w których wniesiono rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego, nierozpoznane do dnia 1 stycznia 2004 r.
+W ustawie z dnia 20 września 1984 r. o Sądzie Najwyższym ([Dz. U. z 2002 r. Nr 101, poz. 924](https://api.sejm.gov.pl/eli/acts/DU/2002/924/text.html)) wprowadza się następujące zmiany:
 
-§ 2. W sprawach, o których mowa w § 1, strona może, w terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego o umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2. § 2 niezgodny z Konstytucją w zakresie w jakim uprawnia NSA - po rozpoznaniu skargi kasacyjnej organu podatkowego, wniesionej po umożeniu postępowania przez SN, w której rewizję nadzwyczajną wniósł minister właściwy do spraw finansów - do uchylenia wyroku, który nie narusza rażąco prawa lub interesu RP - wyrok TK (Dz.U. z 2007 r. Nr 221, poz.
+### 1)
 
-- **1650)** .
+w art. 5:
 
-**Art. 102a.** W sprawach, w których wniosek o rozpoznanie sporu o właściwość między organem administracji publicznej a sądem nie został rozpoznany przez Kolegium Kompetencyjne przy Sądzie Najwyższym do dnia 1 stycznia 2004 r., Sąd Najwyższy umorzy postępowanie. Strona może ponownie wystąpić o rozpoznanie sprawy do właściwego sądu powszechnego albo organu administracji publicznej.
+### a)
 
-**Art. 103.** W sprawie o wznowienie postępowania zakończonego prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego wydanym przed dniem 1 stycznia 2004 r. orzeka właściwy wojewódzki sąd administracyjny na podstawie przepisów ustawy, o której mowa w art. 2.
+ust. 1 otrzymuje brzmienie:
 
-**Art. 104.** Naczelny Sąd Administracyjny umorzy nierozpoznane do dnia 1 stycznia 2004 r. postępowania prowadzone na podstawie art. 18 ust. 2 oraz art. 49 ust. 2 ustawy, o której mowa w art. 3.
+„
 
-**Art. 105.** Akta spraw zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. przechowuje się, zgodnie z właściwymi przepisami, w odpowiednich wojewódzkich sądach administracyjnych.
+### 1.
 
-**Art. 106.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem przepisów art. 8 pkt 1 i 2, art. 10 pkt 2 i 3, art. 84 pkt 1, art. 86 § 1, art. 87 § 2, art. 88, art. 90 § 1, art. 91 i art. 92, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+Sąd Najwyższy dzieli się na: Izbę Pracy, Ubezpieczeń Społecznych i Spraw Publicznych, Izbę Cywilną, Izbę Karną oraz Izbę Wojskową.
 
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Izba Pracy, Ubezpieczeń Społecznych i Spraw Publicznych sprawuje, w granicach i trybie określonym przez właściwe przepisy, nadzór nad orzecznictwem sądowym w sprawach z zakresu prawa pracy, prawa własności przemysłowej, ubezpieczeń społecznych, a także w sprawach przekazanych na podstawie przepisów szczególnych.
+
+” ;
+
+### 2)
+
+w art. 16 w ust. 2 skreśla się wyrazy „, w sprawach z zakresu prawa administracyjnego - Prezesa Naczelnego Sądu Administracyjnego”;
+
+### 3)
+
+w art. 36 w ust. 1:
+
+### a)
+
+w zdaniu pierwszym skreśla się wyrazy „sędziego Naczelnego Sądu Administracyjnego,”,
+
+### b)
+
+skreśla się zdanie drugie.
+
+### Art. 14.
+
+W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ([Dz. U. z 2001 r. Nr 33, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/2001/388/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) w art. 28 w ust. 4 skreśla się wyrazy „na zasadach i w trybie przewidzianym w Kodeksie postępowania administracyjnego”.
+
+### Art. 15.
+
+W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania ([Dz. U. z 2000 r. Nr 26, poz. 319](https://api.sejm.gov.pl/eli/acts/DU/2000/319/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 33 w ust. 4 zdanie drugie otrzymuje brzmienie „Na decyzje te może być wniesiona skarga do sądu administracyjnego.”;
+
+### 2)
+
+w art. 36 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Od decyzji, o których mowa w ust. 2-5, przysługuje skarga do sądu administracyjnego.
+
+” .
+
+### Art. 16.
+
+W ustawie z dnia 17 maja 1989 r. o izbach lekarskich ([Dz. U. Nr 30, poz. 158](https://api.sejm.gov.pl/eli/acts/DU/1989/158/text.html), z [1990 r. Nr 20, poz. 120](https://api.sejm.gov.pl/eli/acts/DU/1990/120/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 28, poz. 152](https://api.sejm.gov.pl/eli/acts/DU/1997/152/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i z [2001 r. Nr 126, poz. 1383](https://api.sejm.gov.pl/eli/acts/DU/2001/1383/text.html)) w art. 14:
+
+### 1)
+
+w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego prawomocną uchwałę organu samorządu lekarzy w sprawach, o których mowa w ust. 1.
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2001 r. Nr 142, poz. 1591](https://api.sejm.gov.pl/eli/acts/DU/2001/1591/text.html) oraz z [2002 r. Nr 23, poz. 220](https://api.sejm.gov.pl/eli/acts/DU/2002/220/text.html), [Nr 62, poz. 558](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) art. 102a otrzymuje brzmienie:
+
+„
+
+### Art. 102a.
+
+W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)).
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2002 r. Nr 7, poz. 58](https://api.sejm.gov.pl/eli/acts/DU/2002/58/text.html), [Nr 19, poz. 185](https://api.sejm.gov.pl/eli/acts/DU/2002/185/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 81, poz. 731](https://api.sejm.gov.pl/eli/acts/DU/2002/731/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 115, poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2002/996/text.html)) w art. 139 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 19.
+
+W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych ([Dz. U. Nr 32, poz. 191](https://api.sejm.gov.pl/eli/acts/DU/1990/191/text.html), [Nr 43, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1990/253/text.html) i [Nr 92, poz. 541](https://api.sejm.gov.pl/eli/acts/DU/1990/541/text.html), z [1991 r. Nr 34, poz. 151](https://api.sejm.gov.pl/eli/acts/DU/1991/151/text.html), z [1992 r. Nr 6, poz. 20](https://api.sejm.gov.pl/eli/acts/DU/1992/20/text.html), z [1993 r. Nr 40, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1993/180/text.html), z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html) i [Nr 65, poz. 285](https://api.sejm.gov.pl/eli/acts/DU/1994/285/text.html), z [1996 r. Nr 23, poz. 102](https://api.sejm.gov.pl/eli/acts/DU/1996/102/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 9, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1997/43/text.html)) w art. 18 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Do postępowania w sprawach, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 5 lipca 1990 r. - Prawo o zgromadzeniach ([Dz. U. Nr 51, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/1990/297/text.html), z [1999 r. Nr 41, poz. 412](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html) i z [2001 r. Nr 46, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/2001/499/text.html)) w art. 13 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 21.
+
+W ustawie z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej ([Dz. U. z 1996 r. Nr 11, poz. 62](https://api.sejm.gov.pl/eli/acts/DU/1996/62/text.html), z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 107, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1997/685/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html) i [Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html), z [1998 r. Nr 155, poz. 1015](https://api.sejm.gov.pl/eli/acts/DU/1998/1015/text.html), z [1999 r. Nr 49, poz. 483](https://api.sejm.gov.pl/eli/acts/DU/1999/483/text.html), [Nr 101, poz. 1178](https://api.sejm.gov.pl/eli/acts/DU/1999/1178/text.html) i [Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2000 r. Nr 43, poz. 483](https://api.sejm.gov.pl/eli/acts/DU/2000/483/text.html), [Nr 48, poz. 552](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.html), [Nr 70, poz. 819](https://api.sejm.gov.pl/eli/acts/DU/2000/819/text.html), [Nr 114, poz. 1193](https://api.sejm.gov.pl/eli/acts/DU/2000/1193/text.html) i [Nr 116, poz. 1216](https://api.sejm.gov.pl/eli/acts/DU/2000/1216/text.html), z [2001 r. Nr 37, poz. 424](https://api.sejm.gov.pl/eli/acts/DU/2001/424/text.html), [Nr 88, poz. 961](https://api.sejm.gov.pl/eli/acts/DU/2001/961/text.html), [Nr 100, poz. 1084](https://api.sejm.gov.pl/eli/acts/DU/2001/1084/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html) i [Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 48 w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 82b w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+art. 85 otrzymuje brzmienie:
+
+„
+
+### Art. 85.
+
+Od decyzji ministra właściwego do spraw finansów publicznych wydanych w sprawach określonych w niniejszej ustawie, zakładom ubezpieczeń przysługuje skarga do sądu administracyjnego.
+
+” .
+
+### Art. 22.
+
+W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 63, poz. 314](https://api.sejm.gov.pl/eli/acts/DU/1992/314/text.html), z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html), [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html) i [Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html), z [1996 r. Nr 5, poz. 34](https://api.sejm.gov.pl/eli/acts/DU/1996/34/text.html) i [Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 96, poz. 590](https://api.sejm.gov.pl/eli/acts/DU/1997/590/text.html), [Nr 104, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1997/661/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html), z [1998 r. Nr 50, poz. 310](https://api.sejm.gov.pl/eli/acts/DU/1998/310/text.html), [Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 162, poz. 1115 i 1118](https://api.sejm.gov.pl/eli/acts/DU/1998/1115/text.html), z [2000 r. Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html) i [Nr 122, poz. 1314](https://api.sejm.gov.pl/eli/acts/DU/2000/1314/text.html), z [2001 r. Nr 85, poz. 924](https://api.sejm.gov.pl/eli/acts/DU/2001/924/text.html), [Nr 103, poz. 1129](https://api.sejm.gov.pl/eli/acts/DU/2001/1129/text.html), [Nr 111, poz. 1193 i 1194](https://api.sejm.gov.pl/eli/acts/DU/2001/1193/text.html) i [Nr 126, poz. 1383](https://api.sejm.gov.pl/eli/acts/DU/2001/1383/text.html) oraz z [2002 r. Nr 4, poz. 33 i 34](https://api.sejm.gov.pl/eli/acts/DU/2002/33/text.html) i [Nr 150, poz. 1239](https://api.sejm.gov.pl/eli/acts/DU/2002/1239/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 161 w zdaniu pierwszym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego.”;
+
+### 2)
+
+w art. 171 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Od prawomocnego orzeczenia dyscyplinarnego odwoławczej komisji dyscyplinarnej dla studentów służy skarga do sądu administracyjnego.
+
+” .
+
+### Art. 23.
+
+W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej ([Dz. U. z 2000 r. Nr 47, poz. 544](https://api.sejm.gov.pl/eli/acts/DU/2000/544/text.html) i z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) w art. 76 w ust. 1 wyrazy „Izby Administracyjnej, Pracy i Ubezpieczeń Społecznych” zastępuje się wyrazami „Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych”.
+
+### Art. 24.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. Nr 78, poz. 462](https://api.sejm.gov.pl/eli/acts/DU/1990/462/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1993 r. Nr 12, poz. 52](https://api.sejm.gov.pl/eli/acts/DU/1993/52/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 124, poz. 583](https://api.sejm.gov.pl/eli/acts/DU/1996/583/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1999 r. Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2001 r. Nr 45, poz. 498](https://api.sejm.gov.pl/eli/acts/DU/2001/498/text.html), [Nr 106, poz. 1149](https://api.sejm.gov.pl/eli/acts/DU/2001/1149/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html)) w art. 136b w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 25.
+
+W ustawie z dnia 25 października 1990 r. o zwrocie majątku utraconego przez związki zawodowe i organizacje społeczne w wyniku wprowadzenia stanu wojennego ([Dz. U. z 1996 r. Nr 143, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1996/661/text.html), z [1997 r. Nr 82, poz. 518](https://api.sejm.gov.pl/eli/acts/DU/1997/518/text.html) i z [1998 r. Nr 162, poz. 1113](https://api.sejm.gov.pl/eli/acts/DU/1998/1113/text.html)) w art. 7:
+
+### 1)
+
+w ust. 3 w zdaniu pierwszym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w ust. 4 w zdaniu drugim wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+skreśla się ust. 5;
+
+### 4)
+
+w ust. 6 wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „sąd administracyjny”.
+
+### Art. 26.
+
+W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych ([Dz. U. z 1991 r. Nr 8, poz. 27](https://api.sejm.gov.pl/eli/acts/DU/1991/27/text.html), z [1995 r. Nr 120, poz. 576](https://api.sejm.gov.pl/eli/acts/DU/1995/576/text.html), z [1997 r. Nr 60, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1997/369/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 114, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2000/1189/text.html) oraz z [2001 r. Nr 101, poz. 1089](https://api.sejm.gov.pl/eli/acts/DU/2001/1089/text.html) i [Nr 129, poz. 1438](https://api.sejm.gov.pl/eli/acts/DU/2001/1438/text.html)) w art. 7 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw rolnictwa może zaskarżyć prawomocną uchwałę samorządu, podjętą w sprawach, o których mowa w ust. 1, do sądu administracyjnego.
+
+” .
+
+### Art. 27.
+
+W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych ([Dz. U. Nr 41, poz. 178](https://api.sejm.gov.pl/eli/acts/DU/1991/178/text.html), z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html) i [Nr 91, poz. 410](https://api.sejm.gov.pl/eli/acts/DU/1996/410/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html) oraz z [2002 r. Nr 62, poz. 559](https://api.sejm.gov.pl/eli/acts/DU/2002/559/text.html)) w art. 24 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego prawomocną uchwałę samorządu pielęgniarek i położnych w sprawach, o których mowa w ust. 2.
+
+” .
+
+### Art. 28.
+
+W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich ([Dz. U. Nr 41, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/1991/179/text.html) i [Nr 105, poz. 452](https://api.sejm.gov.pl/eli/acts/DU/1991/452/text.html), z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html), z [2001 r. Nr 126, poz. 1382](https://api.sejm.gov.pl/eli/acts/DU/2001/1382/text.html) oraz z [2002 r. Nr 141, poz. 1181](https://api.sejm.gov.pl/eli/acts/DU/2002/1181/text.html)) w art. 19 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw zdrowia może zaskarżyć do sądu administracyjnego prawomocną uchwałę samorządu aptekarskiego w sprawach, o których mowa w ust. 1.
+
+” .
+
+### Art. 29.
+
+W ustawie z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. z 2001 r. Nr 79, poz. 854](https://api.sejm.gov.pl/eli/acts/DU/2001/854/text.html), [Nr 100, poz. 1080](https://api.sejm.gov.pl/eli/acts/DU/2001/1080/text.html) i [Nr 128, poz. 1405](https://api.sejm.gov.pl/eli/acts/DU/2001/1405/text.html) oraz z [2002 r. Nr 135, poz. 1146](https://api.sejm.gov.pl/eli/acts/DU/2002/1146/text.html)) w art. 22:
+
+### 1)
+
+skreśla się ust. 1;
+
+### 2)
+
+w ust. 2 wyrazy „Organizacjom wymienionym w ust. 1” zastępuje się wyrazami „Organizacji związkowej reprezentatywnej w rozumieniu ustawy o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych”.
+
+### Art. 30.
+
+W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. z 2002 r. Nr 112, poz. 982](https://api.sejm.gov.pl/eli/acts/DU/2002/982/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 16 w ust. 3 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”;
+
+### 2)
+
+w art. 19 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”.
+
+### Art. 31.
+
+W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2002 r. Nr 147, poz. 1230](https://api.sejm.gov.pl/eli/acts/DU/2002/1230/text.html)) w art. 124j wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 32.
+
+W ustawie z dnia 28 września 1991 r. o kontroli skarbowej ([Dz. U. z 1999 r. Nr 54, poz. 572](https://api.sejm.gov.pl/eli/acts/DU/1999/572/text.html) i [Nr 83, poz. 931](https://api.sejm.gov.pl/eli/acts/DU/1999/931/text.html), z [2000 r. Nr 70, poz. 816](https://api.sejm.gov.pl/eli/acts/DU/2000/816/text.html), [Nr 104, poz. 1103](https://api.sejm.gov.pl/eli/acts/DU/2000/1103/text.html) i [Nr 116, poz. 1216](https://api.sejm.gov.pl/eli/acts/DU/2000/1216/text.html), z [2001 r. Nr 14, poz. 143](https://api.sejm.gov.pl/eli/acts/DU/2001/143/text.html), [Nr 81, poz. 877](https://api.sejm.gov.pl/eli/acts/DU/2001/877/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) oraz z [2002 r. Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html) i [Nr 141, poz. 1178](https://api.sejm.gov.pl/eli/acts/DU/2002/1178/text.html)) w art. 34a w ust. 1:
+
+### 1)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+Rzecznikowi Praw Obywatelskich - w związku z jego udziałem w postępowaniu przed sądem administracyjnym,
+
+” ;
+
+### 2)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+Prokuratorowi Generalnemu - na wniosek właściwego prokuratora:
+
+### a)
+
+w przypadkach określonych w dziale IV Kodeksu postępowania administracyjnego,
+
+### b)
+
+w związku z udziałem prokuratora w postępowaniu przed sądem administracyjnym,
+
+” ;
+
+### 3)
+
+skreśla się pkt 6.
+
+### Art. 33.
+
+W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ([Dz. U. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 111, poz. 726](https://api.sejm.gov.pl/eli/acts/DU/1997/726/text.html) i [Nr 133, poz. 885](https://api.sejm.gov.pl/eli/acts/DU/1997/885/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 109, poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2000/1157/text.html) i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html), z [2001 r. Nr 110, poz. 1190](https://api.sejm.gov.pl/eli/acts/DU/2001/1190/text.html), [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 117, poz. 1007](https://api.sejm.gov.pl/eli/acts/DU/2002/1007/text.html)) w art. 150 w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Do rozpoznania skargi wniesionej do sądu administracyjnego na ostateczne orzeczenie komisji do spraw szkód górniczych stosuje się przepisy o postępowaniu przed sądami administracyjnymi. ” .
+
+### Art. 34.
+
+W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych ([Dz. U. z 2001 r. Nr 79, poz. 856](https://api.sejm.gov.pl/eli/acts/DU/2001/856/text.html) i [Nr 154, poz. 1799](https://api.sejm.gov.pl/eli/acts/DU/2001/1799/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 2a otrzymuje brzmienie:
+
+„
+
+### Art. 2a.
+
+### 1.
+
+Obszar właściwości miejscowej kolegium określa, w drodze rozporządzenia, Prezes Rady Ministrów, na wniosek Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych.
+
+### 2.
+
+Organem wyższego stopnia w stosunku do organów samorządu województwa jest kolegium mające siedzibę w mieście będącym siedzibą władz samorządu województwa.
+
+” ;
+
+### 2)
+
+w art. 6:
+
+### a)
+
+w ust. 4 zdanie czwarte otrzymuje brzmienie: „ Sąd administracyjny wyznacza rozprawę w tej sprawie w terminie przypadającym w ciągu 30 dni od dnia przekazania odpowiedzi na skargę. ” ,
+
+### b)
+
+w ust. 5 zdanie drugie otrzymuje brzmienie: „Przepisów art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.”;
+
+### 3)
+
+w art. 21 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Kontrolę orzecznictwa kolegiów sprawuje sąd administracyjny.
+
+” ;
+
+### 4)
+
+skreśla się art. 22.
+
+### Art. 35.
+
+W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ([Dz. U. z 2001 r. Nr 85, poz. 937](https://api.sejm.gov.pl/eli/acts/DU/2001/937/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html)) w art. 96 skreśla się wyrazy „na zasadach przewidzianych w Kodeksie postępowania administracyjnego”.
+
+### Art. 36.
+
+W ustawie z dnia 5 stycznia 1995 r. o fundacji - Zakład Narodowy imienia Ossolińskich ([Dz. U. Nr 23, poz. 121](https://api.sejm.gov.pl/eli/acts/DU/1995/121/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 14 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 15 w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 37.
+
+W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego ([Dz. U. z 2000 r. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2000/1070/text.html), z [2001 r. Nr 4, poz. 27](https://api.sejm.gov.pl/eli/acts/DU/2001/27/text.html), [Nr 16, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html)) w art. 24 w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 38.
+
+W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych ([Dz. U. z 2002 r. Nr 101, poz. 927](https://api.sejm.gov.pl/eli/acts/DU/2002/927/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) w art. 48 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 39.
+
+W ustawie z dnia 1 marca 1996 r. o zmianie Kodeksu postępowania cywilnego, rozporządzeń Prezydenta Rzeczypospolitej - Prawo upadłościowe i Prawo o postępowaniu układowym, Kodeksu postępowania administracyjnego, ustawy o kosztach sądowych w sprawach cywilnych oraz niektórych innych ustaw ([Dz. U. Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html) i z [1997 r. Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html)) skreśla się art. 10.
+
+### Art. 40.
+
+W ustawie z dnia 26 kwietnia 1996 r. o Służbie Więziennej ([Dz. U. Nr 61, poz. 283](https://api.sejm.gov.pl/eli/acts/DU/1996/283/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html), z [1999 r. Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2000 r. Nr 2, poz. 5](https://api.sejm.gov.pl/eli/acts/DU/2000/5/text.html), z [2001 r. Nr 81, poz. 877](https://api.sejm.gov.pl/eli/acts/DU/2001/877/text.html), [Nr 106, poz. 1149](https://api.sejm.gov.pl/eli/acts/DU/2001/1149/text.html), [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) w art. 132a w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 41.
+
+W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym ([Dz. U. z 2002 r. Nr 9, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/2002/86/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 41a w ust. 2 po wyrazach „zastępstwa prawnego” dodaje się wyrazy „, mając na względzie rodzaj i zawiłość sprawy oraz wymagany nakład pracy doradcy podatkowego”;
+
+### 2)
+
+dodaje się art. 41b w brzmieniu:
+
+„
+
+### Art. 41b.
+
+### 1.
+
+Koszty pomocy prawnej udzielonej przez doradcę podatkowego z urzędu ponosi Skarb Państwa. 2. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Doradców Podatkowych, określi, w drodze rozporządzenia, szczegółowe zasady ponoszenia kosztów, o których mowa w ust. 1, z uwzględnieniem sposobu ustalania tych kosztów, wydatków stanowiących podstawę ich ustalania oraz maksymalnego wynagrodzenia doradcy podatkowego za udzieloną pomoc.
+
+” .
+
+### Art. 42.
+
+W ustawie z dnia 12 września 1996 r. o państwowym nadzorze standaryzacyjnym towarów rolno-spożywczych w obrocie z zagranicą ([Dz. U. Nr 124, poz. 584](https://api.sejm.gov.pl/eli/acts/DU/1996/584/text.html) i z [2001 r. Nr 5, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/2001/44/text.html)) w art. 18 w ust. 6 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 43.
+
+W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza ([Dz. U. z 2002 r. Nr 21, poz. 204](https://api.sejm.gov.pl/eli/acts/DU/2002/204/text.html) i [Nr 76, poz. 691](https://api.sejm.gov.pl/eli/acts/DU/2002/691/text.html)) w art. 57 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 44.
+
+W ustawie z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym ([Dz. U. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html) i [Nr 75, poz. 468](https://api.sejm.gov.pl/eli/acts/DU/1997/468/text.html), z [1998 r. Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html), [Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html), [Nr 144, poz. 929](https://api.sejm.gov.pl/eli/acts/DU/1998/929/text.html) i [Nr 162, poz. 1116](https://api.sejm.gov.pl/eli/acts/DU/1998/1116/text.html), z [1999 r. Nr 45, poz. 439](https://api.sejm.gov.pl/eli/acts/DU/1999/439/text.html), [Nr 49, poz. 483](https://api.sejm.gov.pl/eli/acts/DU/1999/483/text.html), [Nr 63, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/1999/700/text.html), [Nr 70, poz. 777](https://api.sejm.gov.pl/eli/acts/DU/1999/777/text.html), [Nr 72, poz. 802](https://api.sejm.gov.pl/eli/acts/DU/1999/802/text.html), [Nr 109, poz. 1236](https://api.sejm.gov.pl/eli/acts/DU/1999/1236/text.html) i [Nr 110, poz. 1255 i 1256](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html), [Nr 18, poz. 230](https://api.sejm.gov.pl/eli/acts/DU/2000/230/text.html), [Nr 95, poz. 1041](https://api.sejm.gov.pl/eli/acts/DU/2000/1041/text.html) i [Nr 122, poz. 1311 i 1324](https://api.sejm.gov.pl/eli/acts/DU/2000/1311/text.html), z [2001 r. Nr 8, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/2001/64/text.html), [Nr 52, poz. 539](https://api.sejm.gov.pl/eli/acts/DU/2001/539/text.html), [Nr 88, poz. 961](https://api.sejm.gov.pl/eli/acts/DU/2001/961/text.html), [Nr 97, poz. 1050](https://api.sejm.gov.pl/eli/acts/DU/2001/1050/text.html), [Nr 126, poz. 1382 i 1384](https://api.sejm.gov.pl/eli/acts/DU/2001/1382/text.html) i [Nr 154, poz. 1796 i 1801](https://api.sejm.gov.pl/eli/acts/DU/2001/1796/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 83, poz. 749](https://api.sejm.gov.pl/eli/acts/DU/2002/749/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 151e w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 151f w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 45.
+
+W ustawie z dnia 20 lutego 1997 r. o fundacji - Centrum Badania Opinii Społecznej ([Dz. U. Nr 30, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1997/163/text.html)) w art. 14 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 46.
+
+W ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne ([Dz. U. z 1999 r. Nr 42, poz. 428](https://api.sejm.gov.pl/eli/acts/DU/1999/428/text.html), [Nr 57, poz. 618](https://api.sejm.gov.pl/eli/acts/DU/1999/618/text.html), [Nr 62, poz. 681](https://api.sejm.gov.pl/eli/acts/DU/1999/681/text.html) i [Nr 63, poz. 701](https://api.sejm.gov.pl/eli/acts/DU/1999/701/text.html), z [2000 r. Nr 43, poz. 488](https://api.sejm.gov.pl/eli/acts/DU/2000/488/text.html) i [Nr 50, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/2000/600/text.html) oraz z [2002 r. Nr 14, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2002/128/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 84, poz. 765](https://api.sejm.gov.pl/eli/acts/DU/2002/765/text.html)) w art. 7 w ust. 1 pkt 8b otrzymuje brzmienie:
+
+„
+
+### 8b)
+
+osoba niebędąca sędzią, ubiegająca się o stanowisko sędziego sądu administracyjnego - Prezesowi Naczelnego Sądu Administracyjnego,
+
+” .
+
+### Art. 47.
+
+W ustawie z dnia 25 czerwca 1997 r. o cudzoziemcach ([Dz. U. z 2001 r. Nr 127, poz. 1400](https://api.sejm.gov.pl/eli/acts/DU/2001/1400/text.html) oraz z [2002 r. Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 81, poz. 731](https://api.sejm.gov.pl/eli/acts/DU/2002/731/text.html), [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html) i [Nr 141, poz. 1180](https://api.sejm.gov.pl/eli/acts/DU/2002/1180/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 49 w ust. 2 w zdaniu pierwszym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 65 w ust. 1 wyrazy „Naczelnemu Sądowi Administracyjnemu” zastępuje się wyrazami „sądowi administracyjnemu”;
+
+### 3)
+
+w art. 68d w ust. 1 zdanie drugie otrzymuje brzmienie: „ Do wydania zezwolenia i formy samego zezwolenia nie stosuje się przepisów Kodeksu postępowania administracyjnego. ” ;
+
+### 4)
+
+w art. 73 w ust. 1 w pkt 6 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”;
+
+### 5)
+
+w art. 74 w ust. 5 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”;
+
+### 6)
+
+w art. 79 w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 48.
+
+W ustawie z dnia 17 lipca 1997 r. o szczególnych zasadach postępowania administracyjnego i sądowego w związku z usuwaniem skutków powodzi z lipca 1997 r. ([Dz. U. Nr 80, poz. 494](https://api.sejm.gov.pl/eli/acts/DU/1997/494/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2:
+
+### a)
+
+w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+w ust. 3:
+
+- - w zdaniu pierwszym wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „sąd administracyjny”,
+
+- - skreśla się zdanie trzecie;
+
+### 2)
+
+w art. 4 wyrazy „i sądy powszechne” zastępuje się wyrazami „, sądy powszechne i wojewódzkie sądy administracyjne”.
+
+### Art. 49.
+
+W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2000 r. Nr 46, poz. 543](https://api.sejm.gov.pl/eli/acts/DU/2000/543/text.html), z [2001 r. Nr 129, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2001/1447/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 126, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1070/text.html) i [Nr 130, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 60 w ust. 1 po wyrazach „Naczelnego Sądu Administracyjnego” dodaje się wyrazy „ i innych sądów administracyjnych”;
+
+### 2)
+
+w art. 169 w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+w art. 194 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prezes Urzędu Mieszkalnictwa i Rozwoju Miast orzeka, w drodze decyzji, o zastosowaniu kar dyscyplinarnych, o których mowa w art. 178 ust. 2, art. 183 ust. 2 oraz art. 188 ust. 2, na podstawie wyników postępowania wyjaśniającego, a także podejmuje decyzje w sprawach określonych w art. 178 ust. 3 i 4, art. 183 ust. 3 i 4 oraz w art. 188 ust. 3 i 4. Na decyzje przysługuje skarga do sądu administracyjnego.
+
+” .
+
+### Art. 50.
+
+W ustawie z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych ([Dz. U. Nr 117, poz. 753](https://api.sejm.gov.pl/eli/acts/DU/1997/753/text.html), z [1999 r. Nr 75, poz. 853](https://api.sejm.gov.pl/eli/acts/DU/1999/853/text.html) i z [2001 r. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html)) w art. 26 w § 1 wyrazy „Naczelnym Sądzie Administracyjnym” zastępuje się wyrazami „sądzie administracyjnym”.
+
+### Art. 51.
+
+W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych ([Dz. U. Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html), z [1998 r. Nr 98, poz. 610](https://api.sejm.gov.pl/eli/acts/DU/1998/610/text.html), [Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 162, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.html), z [1999 r. Nr 110, poz. 1256](https://api.sejm.gov.pl/eli/acts/DU/1999/1256/text.html), z [2000 r. Nr 60, poz. 702](https://api.sejm.gov.pl/eli/acts/DU/2000/702/text.html), z [2001 r. Nr 8, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/2001/64/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 65 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 202 w ust. 2 wyrazy„Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 52.
+
+W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html)) w art. 21 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 53.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html) i [Nr 160, poz. 1083](https://api.sejm.gov.pl/eli/acts/DU/1997/1083/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [1999 r. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html) i [Nr 92, poz. 1062](https://api.sejm.gov.pl/eli/acts/DU/1999/1062/text.html), z [2000 r. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), [Nr 116, poz. 1216](https://api.sejm.gov.pl/eli/acts/DU/2000/1216/text.html), [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html) i [Nr 122, poz. 1315](https://api.sejm.gov.pl/eli/acts/DU/2000/1315/text.html), z [2001 r. Nr 16, poz. 166](https://api.sejm.gov.pl/eli/acts/DU/2001/166/text.html), [Nr 39, poz. 459](https://api.sejm.gov.pl/eli/acts/DU/2001/459/text.html), [Nr 42, poz. 475](https://api.sejm.gov.pl/eli/acts/DU/2001/475/text.html), [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html), [Nr 125, poz. 1368](https://api.sejm.gov.pl/eli/acts/DU/2001/1368/text.html) i [Nr 130, poz. 1452](https://api.sejm.gov.pl/eli/acts/DU/2001/1452/text.html) oraz z [2002 r. Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 171:
+
+### a)
+
+w § 3 dodaje się zdanie drugie w brzmieniu: „ Zwrot podania następuje w formie postanowienia, na które służy zażalenie. ” ,
+
+### b)
+
+dodaje się § 4 w brzmieniu:
+
+„
+
+### § 4.
+
+Organ podatkowy nie może zwrócić podania z tej przyczyny, że właściwy jest sąd powszechny, jeżeli w tej sprawie sąd uznał się za niewłaściwy.
+
+” ;
+
+### 2)
+
+w art. 233 skreśla się § 3;
+
+### 3)
+
+w art. 297 w § 1:
+
+### a)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+Rzecznikowi Praw Obywatelskich - w związku z jego udziałem w postępowaniu przed sądem administracyjnym,
+
+” ,
+
+### b)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+Prokuratorowi Generalnemu - na wniosek właściwego prokuratora:
+
+### a)
+
+w przypadkach określonych w dziale IV Kodeksu postępowania administracyjnego,
+
+### b)
+
+w związku z udziałem prokuratora w postępowaniu przed sądem administracyjnym,
+
+” ,
+
+### c)
+
+skreśla się pkt 6.
+
+### Art. 54.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), [Nr 126, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1070/text.html), [Nr 141, poz. 1178](https://api.sejm.gov.pl/eli/acts/DU/2002/1178/text.html) i [Nr 144, poz. 1208](https://api.sejm.gov.pl/eli/acts/DU/2002/1208/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 141a w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 141b w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+w art. 144 w ust. 5 w zdaniu drugim wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 4)
+
+w art. 145 w ust. 4 w zdaniu pierwszym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 5)
+
+w art. 147 w ust. 3 w zdaniu pierwszym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 55.
+
+W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych ([Dz. U. Nr 140, poz. 940](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.html), z [1998 r. Nr 107, poz. 669](https://api.sejm.gov.pl/eli/acts/DU/1998/669/text.html), z [2000 r. Nr 6, poz. 70](https://api.sejm.gov.pl/eli/acts/DU/2000/70/text.html) i [Nr 60, poz. 702](https://api.sejm.gov.pl/eli/acts/DU/2000/702/text.html), z [2001 r. Nr 15, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2001/148/text.html) i [Nr 39, poz. 459](https://api.sejm.gov.pl/eli/acts/DU/2001/459/text.html) oraz z [2002 r. Nr 126, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1070/text.html)) w art. 28 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 56.
+
+W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2001 r. Nr 142, poz. 1592](https://api.sejm.gov.pl/eli/acts/DU/2001/1592/text.html) oraz z [2002 r. Nr 23, poz. 220](https://api.sejm.gov.pl/eli/acts/DU/2002/220/text.html), [Nr 62, poz. 558](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) art. 90a otrzymuje brzmienie:
+
+„
+
+### Art. 90a.
+
+W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)).
+
+” .
+
+### Art. 57.
+
+W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa ([Dz. U. z 2001 r. Nr 142, poz. 1590](https://api.sejm.gov.pl/eli/acts/DU/2001/1590/text.html) oraz z [2002 r. Nr 23, poz. 220](https://api.sejm.gov.pl/eli/acts/DU/2002/220/text.html) i [Nr 62, poz. 558](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.html)) art. 88a otrzymuje brzmienie:
+
+„
+
+### Art. 88a.
+
+W sprawach, o których mowa w niniejszym rozdziale, nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)).
+
+” .
+
+### Art. 58.
+
+W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ([Dz. U. Nr 155, poz. 1014](https://api.sejm.gov.pl/eli/acts/DU/1998/1014/text.html), z [1999 r. Nr 38, poz. 360](https://api.sejm.gov.pl/eli/acts/DU/1999/360/text.html), [Nr 49, poz. 485](https://api.sejm.gov.pl/eli/acts/DU/1999/485/text.html), [Nr 70, poz. 778](https://api.sejm.gov.pl/eli/acts/DU/1999/778/text.html) i [Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2000 r. Nr 6, poz. 69](https://api.sejm.gov.pl/eli/acts/DU/2000/69/text.html), [Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html), [Nr 48, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2000/550/text.html), [Nr 95, poz. 1041](https://api.sejm.gov.pl/eli/acts/DU/2000/1041/text.html), [Nr 119, poz. 1251](https://api.sejm.gov.pl/eli/acts/DU/2000/1251/text.html) i [Nr 122, poz. 1315](https://api.sejm.gov.pl/eli/acts/DU/2000/1315/text.html), z [2001 r. Nr 45, poz. 497](https://api.sejm.gov.pl/eli/acts/DU/2001/497/text.html), [Nr 46, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/2001/499/text.html), [Nr 88, poz. 961](https://api.sejm.gov.pl/eli/acts/DU/2001/961/text.html), [Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), [Nr 100, poz. 1082](https://api.sejm.gov.pl/eli/acts/DU/2001/1082/text.html), [Nr 102, poz. 1116](https://api.sejm.gov.pl/eli/acts/DU/2001/1116/text.html), [Nr 125, poz. 1368](https://api.sejm.gov.pl/eli/acts/DU/2001/1368/text.html) i [Nr 145, poz. 1623](https://api.sejm.gov.pl/eli/acts/DU/2001/1623/text.html) oraz z [2002 r. Nr 41, poz. 363 i 365](https://api.sejm.gov.pl/eli/acts/DU/2002/363/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) w art. 173:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na rozstrzygnięcia Głównej Komisji Orzekającej w przedmiocie stwierdzenia nieważności, uchylenia prawomocnego rozstrzygnięcia oraz na prawomocne rozstrzygnięcia kończące postępowanie w toku instancji służy skarga do sądu administracyjnego.
+
+” ,
+
+### 2)
+
+w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 59.
+
+W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej ([Dz. U. z 1999 r. Nr 49, poz. 483](https://api.sejm.gov.pl/eli/acts/DU/1999/483/text.html), [Nr 70, poz. 778](https://api.sejm.gov.pl/eli/acts/DU/1999/778/text.html) i [Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z [2001 r. Nr 102, poz. 1116](https://api.sejm.gov.pl/eli/acts/DU/2001/1116/text.html), [Nr 111, poz. 1194](https://api.sejm.gov.pl/eli/acts/DU/2001/1194/text.html), [Nr 128, poz. 1403](https://api.sejm.gov.pl/eli/acts/DU/2001/1403/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 150, poz. 1237](https://api.sejm.gov.pl/eli/acts/DU/2002/1237/text.html)) w art. 56 skreśla się ust. 3.
+
+### Art. 60.
+
+W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu ([Dz. U. Nr 155, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text.html), z [1999 r. Nr 38, poz. 360](https://api.sejm.gov.pl/eli/acts/DU/1999/360/text.html), z [2000 r. Nr 48, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/2000/553/text.html) i z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) w art. 43 w zdaniu drugim wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 61.
+
+W ustawie z dnia 18 grudnia 1998 r. o zmianie ustawy o samorządowych kolegiach odwoławczych ([Dz. U. Nr 162, poz. 1124](https://api.sejm.gov.pl/eli/acts/DU/1998/1124/text.html)) skreśla się art. 2.
+
+### Art. 62.
+
+W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ([Dz. U. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html) i [Nr 39, poz. 462](https://api.sejm.gov.pl/eli/acts/DU/2000/462/text.html), z [2001 r. Nr 22, poz. 247](https://api.sejm.gov.pl/eli/acts/DU/2001/247/text.html), [Nr 27, poz. 298](https://api.sejm.gov.pl/eli/acts/DU/2001/298/text.html), [Nr 56, poz. 580](https://api.sejm.gov.pl/eli/acts/DU/2001/580/text.html), [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html), [Nr 123, poz. 1353](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 36 w ust. 5 w pkt 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 42:
+
+### a)
+
+w ust. 3 w pkt 2 wyrazy „Naczelnemu Sądowi Administracyjnemu” zastępuje się wyrazami „sądowi administracyjnemu”,
+
+### b)
+
+w ust. 5 w zdaniu drugim wyrazy „Naczelnemu Sądowi Administracyjnemu” zastępuje się wyrazami „sądowi administracyjnemu”;
+
+### 3)
+
+w art. 48c w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 4)
+
+w art. 48f w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 5)
+
+w art. 48j w zdaniu końcowym wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 6)
+
+w art. 48k:
+
+### a)
+
+w ust. 1 wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „Sąd administracyjny”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepisów art. 55 § 2 i art. 106 § 2 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.
+
+” ;
+
+### 7)
+
+w art. 48l wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „sąd administracyjny”;
+
+### 8)
+
+w art. 48ł wyrazy „rewizji nadzwyczajnej” zastępuje się wyrazami „skargi kasacyjnej”.
+
+### Art. 63.
+
+W ustawie z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady ([Dz. U. Nr 41, poz. 412](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.html) i z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) w art. 18 w ust. 2 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”.
+
+### Art. 64.
+
+W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej ([Dz. U. Nr 72, poz. 802](https://api.sejm.gov.pl/eli/acts/DU/1999/802/text.html) i [Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html) oraz z [2002 r. Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html) i [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 74 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 81 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 65.
+
+W ustawie z dnia 22 stycznia 2000 r. o ogólnym bezpieczeństwie produktów ([Dz. U. Nr 15, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/2000/179/text.html)) w art. 17 w ust. 4 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 66.
+
+W ustawie z dnia 30 czerwca 2000 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców ([Dz. U. Nr 60, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/2000/704/text.html), z [2001 r. Nr 125, poz. 1363](https://api.sejm.gov.pl/eli/acts/DU/2001/1363/text.html) i z [2002 r. Nr 41, poz. 363](https://api.sejm.gov.pl/eli/acts/DU/2002/363/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w pkt 11 wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „sąd administracyjny”;
+
+### 2)
+
+w art. 31 w ust. 3 w zdaniu drugim wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 67.
+
+W ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ([Dz. U. z 2001 r. Nr 49, poz. 508](https://api.sejm.gov.pl/eli/acts/DU/2001/508/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 108, poz. 945](https://api.sejm.gov.pl/eli/acts/DU/2002/945/text.html) i [Nr 113, poz. 983](https://api.sejm.gov.pl/eli/acts/DU/2002/983/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 69 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 248 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+w art. 249:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Skargę, w celu wypowiedzenia się co do jej zasadności, Prezes Urzędu Patentowego przekazuje do rozpatrzenia Izbie Odwoławczej.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „Naczelnemu Sądowi Administracyjnemu” zastępuje się wyrazami „sądowi administracyjnemu”;
+
+### 4)
+
+w art. 250 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 5)
+
+w art. 254 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 6)
+
+w art. 257 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 7)
+
+w art. 264 w ust. 2 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”.
+
+### Art. 68.
+
+W ustawie z dnia 15 września 2000 r. o referendum lokalnym ([Dz. U. Nr 88, poz. 985](https://api.sejm.gov.pl/eli/acts/DU/2000/985/text.html) oraz z [2002 r. Nr 23, poz. 220](https://api.sejm.gov.pl/eli/acts/DU/2002/220/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 10 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli wojewoda wydał rozstrzygnięcie nadzorcze stwierdzające nieważność uchwały w sprawie przeprowadzenia referendum, w przypadku uwzględnienia przez sąd administracyjny skargi złożonej na to rozstrzygnięcie, referendum przeprowadza się w dzień wolny od pracy, najpóźniej w 50 dniu od dnia uprawomocnienia się wyroku sądu administracyjnego.
+
+” ;
+
+### 2)
+
+w art. 20:
+
+### a)
+
+w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Sąd administracyjny rozpatruje skargę w terminie 14 dni od dnia wniesienia skargi. Skargę kasacyjną wnosi się w terminie 14 dni.
+
+” ;
+
+### 3)
+
+w art. 21 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+od dnia uprawomocnienia się wyroku, o którym mowa w art. 20 ust. 3.
+
+” ;
+
+### 4)
+
+w art. 24a:
+
+### a)
+
+w ust. 2 wyrazy „Naczelny Sąd Administracyjny” zastępuje się wyrazami „sąd administracyjny”,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Na rozstrzygnięcie nadzorcze wojewody unieważniające uchwałę rady gminy o przeprowadzeniu referendum w sprawie odwołania wójta (burmistrza, prezydenta miasta) radzie gminy służy skarga do sądu administracyjnego w terminie 14 dni od dnia otrzymania rozstrzygnięcia nadzorczego. Sąd administracyjny rozpatruje skargę w terminie 14 dni od dnia jej zgłoszenia. Skargę kasacyjną wnosi się w terminie 14 dni.
+
+” ;
+
+### 5)
+
+w art. 26:
+
+### a)
+
+w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Sąd administracyjny rozpatruje skargę w terminie 14 dni od dnia wniesienia skargi. Skargę kasacyjną wnosi się w terminie 14 dni.
+
+” ,
+
+### c)
+
+w ust. 3 skreśla się wyrazy „, o którym mowa w ust. 2,”;
+
+### 6)
+
+art. 27 otrzymuje brzmienie:
+
+„
+
+### Art. 27.
+
+Referendum przeprowadza się w dzień wolny od pracy najpóźniej w 50 dniu od dnia opublikowania postanowienia komisarza wyborczego w tej sprawie albo od dnia uprawomocnienia się wyroku sądu administracyjnego, o którym mowa w art. 26 ust. 3.
+
+” .
+
+### Art. 69.
+
+W ustawie z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów ([Dz. U. z 2001 r. Nr 5, poz. 42](https://api.sejm.gov.pl/eli/acts/DU/2001/42/text.html) i z [2002 r. Nr 23, poz. 221](https://api.sejm.gov.pl/eli/acts/DU/2002/221/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 19 w ust. 5 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+w art. 20 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 4)
+
+w art. 26 w pkt 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 5)
+
+w art. 36 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 6)
+
+w art. 38 w pkt 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 7)
+
+w art. 40 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 70.
+
+W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu ([Dz. U. Nr 27, poz. 298](https://api.sejm.gov.pl/eli/acts/DU/2001/298/text.html) i [Nr 106, poz. 1149](https://api.sejm.gov.pl/eli/acts/DU/2001/1149/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) w art. 123 w ust. 7 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 71.
+
+W ustawie z dnia 11 kwietnia 2001 r. o ochronie przed nadmiernym przywozem towarów na polski obszar celny ([Dz. U. Nr 43, poz. 477](https://api.sejm.gov.pl/eli/acts/DU/2001/477/text.html) i [Nr 123, poz. 1352](https://api.sejm.gov.pl/eli/acts/DU/2001/1352/text.html) oraz z [2002 r. Nr 125, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/2002/1063/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł rozdziału 5 otrzymuje brzmienie: „ Kontrola sądu administracyjnego ” ;
+
+### 2)
+
+w art. 36:
+
+### a)
+
+w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do wniesienia skargi przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.
+
+” ,
+
+### c)
+
+skreśla się ust. 3.
+
+### Art. 72.
+
+W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych ([Dz. U. Nr 49, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 4 wyrazy „Naczelnym Sądzie Administracyjnym” zastępuje się wyrazami „sądzie administracyjnym”;
+
+### 2)
+
+w art. 8 w ust. 4 w pkt 1 skreśla się wyrazy „lub w Naczelnym Sądzie Administracyjnym”;
+
+### 3)
+
+w art. 9 w ust. 1 skreśla się wyrazy „Naczelnym Sądem Administracyjnym oraz przed innymi”;
+
+### 4)
+
+w art. 13:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość opłat za czynności rzeczników patentowych przed organami wymiaru sprawiedliwości oraz przed Urzędem Patentowym działającym w trybie postępowania spornego, stanowiących podstawę do ustalenia kosztów zastępstwa, które mogą być zasądzone przez sąd lub orzeczone przez Urząd Patentowy, mając na względzie, że ustalenie opłaty wyższej niż stawka minimalna, o której mowa w ust. 3, lecz nieprzekraczającej sześciokrotności tej stawki, może być uzasadnione rodzajem i zawiłością sprawy oraz niezbędnym nakładem pracy rzecznika patentowego.
+
+” ,
+
+### b)
+
+w ust. 3 po wyrazach „w ust. 1” dodaje się wyrazy „, mając na względzie rodzaj i zawiłość sprawy oraz wymagany nakład pracy rzecznika patentowego”;
+
+### 5)
+
+dodaje się art. 13a w brzmieniu:
+
+„
+
+### Art. 13a.
+
+### 1.
+
+Koszty pomocy prawnej udzielonej przez rzecznika patentowego z urzędu ponosi Skarb Państwa.
+
+### 2.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, szczegółowe zasady ponoszenia kosztów, o których mowa w ust. 1, z uwzględnieniem sposobu ustalania tych kosztów, wydatków stanowiących podstawę ich ustalania oraz maksymalnej wysokości opłat za udzieloną pomoc.
+
+” ;
+
+### 6)
+
+w art. 21 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 7)
+
+w art. 25 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 8)
+
+w art. 38 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 73.
+
+W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej ([Dz. U. Nr 46, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/2001/499/text.html), [Nr 74, poz. 786](https://api.sejm.gov.pl/eli/acts/DU/2001/786/text.html) i [Nr 154, poz. 1802](https://api.sejm.gov.pl/eli/acts/DU/2001/1802/text.html) oraz z [2002 r. Nr 14, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2002/128/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 127, poz. 1089](https://api.sejm.gov.pl/eli/acts/DU/2002/1089/text.html)) w art. 82 w ust. 1 wyrazy „Izby Administracyjnej, Pracy i Ubezpieczeń Społecznych” zastępuje się wyrazami „Izby Pracy, Ubezpieczeń Społecznych i Spraw Publicznych”.
+
+### Art. 74.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. Nr 62, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.html) i [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 212 w ust. 4 wyrazy „Naczelnym Sądem Administracyjnym” zastępuje się wyrazami „sądem administracyjnym”;
+
+### 2)
+
+w art. 419 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W sprawach stwierdzenia nieważności uchwały stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
+
+” .
+
+### Art. 75.
+
+W ustawie z dnia 21 czerwca 2001 r. o ochronie przed nadmiernym przywozem na polski obszar celny niektórych towarów tekstylnych i odzieżowych ([Dz. U. Nr 110, poz. 1188](https://api.sejm.gov.pl/eli/acts/DU/2001/1188/text.html) i z [2002 r. Nr 125, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/2002/1063/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł rozdziału 5 otrzymuje brzmienie: „ Kontrola sądu administracyjnego ” ;
+
+### 2)
+
+w art. 26:
+
+### a)
+
+w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do wniesienia skargi przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.
+
+” ,
+
+### c)
+
+skreśla się ust. 3.
+
+### Art. 76.
+
+W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html) i [Nr 154, poz. 1787](https://api.sejm.gov.pl/eli/acts/DU/2001/1787/text.html)) w art. 77 w § 1 wyrazy „w tym Sądzie” zastępuje się wyrazami „w sądzie administracyjnym”.
+
+### Art. 77.
+
+W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych ([Dz. U. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2001/1071/text.html) i [Nr 154, poz. 1787](https://api.sejm.gov.pl/eli/acts/DU/2001/1787/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 30:
+
+### a)
+
+skreśla się ust. 2,
+
+### b)
+
+w ust. 3 skreśla się wyrazy „niewymienionych w ust. 1”;
+
+### 2)
+
+w art. 65 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Od orzeczenia sądu dyscyplinarnego drugiej instancji służy stronom odwołanie do Sądu Apelacyjnego w Warszawie, w terminie 30 dni od dnia doręczenia orzeczenia z uzasadnieniem. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji.
+
+” .
+
+### Art. 78.
+
+W ustawie z dnia 27 lipca 2001 r. o Krajowej Radzie Sądownictwa ([Dz. U. Nr 100, poz. 1082](https://api.sejm.gov.pl/eli/acts/DU/2001/1082/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+w pkt 2 po wyrazach „sądach powszechnych” dodaje się wyrazy „, wojewódzkich sądach administracyjnych”,
+
+### b)
+
+w pkt 3 po wyrazach „sądach powszechnych” dodaje się wyrazy „, wojewódzkich sądach administracyjnych”;
+
+### 2)
+
+w art. 7:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego wspólnie z przedstawicielami zgromadzeń ogólnych wojewódzkich sądów administracyjnych wybiera spośród sędziów sądów administracyjnych dwóch członków Rady na okres kadencji.
+
+” ,
+
+### b)
+
+w ust. 4 wyraz „dziewięciu” zastępuje się wyrazem „ośmiu”.
+
+### Art. 79.
+
+W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej ([Dz. U. Nr 100, poz. 1083](https://api.sejm.gov.pl/eli/acts/DU/2001/1083/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 9 w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w art. 10 w ust. 3 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 3)
+
+w art. 15 w ust. 6 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”.
+
+### Art. 80.
+
+W ustawie z dnia 11 sierpnia 2001 r. o szczególnych rozwiązaniach prawnych związanych z usuwaniem skutków powodzi z lipca i sierpnia 2001 r. oraz o zmianie niektórych ustaw ([Dz. U. Nr 84, poz. 907](https://api.sejm.gov.pl/eli/acts/DU/2001/907/text.html) i z [2002 r. Nr 10, poz. 90](https://api.sejm.gov.pl/eli/acts/DU/2002/90/text.html)) w art. 15 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 2 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”;
+
+### 2)
+
+w ust. 3 zdanie trzecie otrzymuje brzmienie: „ Grzywnę wymierza się do wysokości przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie odrębnych przepisów. ” ;
+
+### 3)
+
+w ust. 4 wyrazy „i sądy powszechne” zastępuje się wyrazami „, sądy powszechne i wojewódzkie sądy administracyjne”.
+
+### Art. 81.
+
+W ustawie z dnia 24 sierpnia 2001 r. o ochronie przed przywozem na polski obszar celny towarów po cenach dumpingowych ([Dz. U. Nr 123, poz. 1352](https://api.sejm.gov.pl/eli/acts/DU/2001/1352/text.html) oraz z [2002 r. Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html) i [Nr 125, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/2002/1063/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł działu VI otrzymuje brzmienie: „ Kontrola sądu administracyjnego ” ;
+
+### 2)
+
+w art. 80:
+
+### a)
+
+w ust. 1 wyrazy „Naczelnego Sądu Administracyjnego” zastępuje się wyrazami „sądu administracyjnego”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do wniesienia skargi przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.
+
+” ,
+
+### c)
+
+skreśla się ust. 3.
+
+### Art. 82.
+
+W ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html)) w art. 21 wyrazy „o Naczelnym Sądzie Administracyjnym” zastępuje się wyrazami „ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270)”.
+
+### Art. 83.
+
+W ustawie z dnia 18 września 2001 r. o podpisie elektronicznym ([Dz. U. Nr 130, poz. 1450](https://api.sejm.gov.pl/eli/acts/DU/2001/1450/text.html)) w art. 33 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, przepisu art. 61 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)) nie stosuje się.
+
+” .
+
+### Art. 84.
+
+W ustawie z dnia 21 czerwca 2002 r. o stanie wyjątkowym ([Dz. U. Nr 113, poz. 985](https://api.sejm.gov.pl/eli/acts/DU/2002/985/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 15 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na obszarze, na którym został wprowadzony stan wyjątkowy, ograniczeniom wolności i praw człowieka i obywatela podlegają wszystkie osoby fizyczne zamieszkałe lub przebywające tam chociażby czasowo. Ograniczenia te stosuje się odpowiednio wobec osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze objętym stanem wyjątkowym.
+
+” ;
+
+### 2)
+
+w art. 17 ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Decyzje w sprawach odosobnienia są ostateczne i mogą być zaskarżone bezpośrednio do sądu administracyjnego w trybie i na zasadach określonych w odrębnych przepisach, z tym że sąd wyznacza rozprawę w terminie 7 dni od daty otrzymania skargi. Nie stosuje się przepisów art. 52 § 3 i 4 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html)).
+
+” .
+
+### Rozdział 3 Przepisy przejściowe, dostosowujące i końcowe
+
+### Art. 85.
+
+Z dniem 1 stycznia 2004 r. tworzy się w Warszawie i w miejscowościach, w których miały siedziby ośrodki zamiejscowe Naczelnego Sądu Administracyjnego, utworzone na podstawie dotychczasowych przepisów, wojewódzkie sądy administracyjne na podstawie ustawy, o której mowa w art. 1, oraz znosi się ośrodki zamiejscowe Naczelnego Sądu Administracyjnego.
+
+### Art. 86.
+
+### § 1.
+
+Prezes Naczelnego Sądu Administracyjnego powoła spośród sędziów tego Sądu pełnomocników do organizacji wojewódzkich sądów administracyjnych, zwanych dalej „pełnomocnikami”.
+
+### § 2.
+
+Do czasu powołania prezesów wojewódzkich sądów administracyjnych na podstawie ustawy, o której mowa w art. 1, pełnomocnikom powierza się także wykonywanie zadań należących do prezesów tych sądów.
+
+### Art. 87.
+
+### § 1.
+
+Wojewódzkie sądy administracyjne utworzone w miejscowościach, w których miały siedziby ośrodki zamiejscowe Naczelnego Sądu Administracyjnego, utworzone na podstawie dotychczasowych przepisów, wstępują w stosunki prawne związane z nieruchomościami i lokalami zajmowanymi przez te ośrodki oraz przejmują pozostające w ich dyspozycji mienie i środki finansowe.
+
+### § 2.
+
+Minister właściwy do spraw administracji publicznej, nie później niż na sześć miesięcy przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, odda w trwały zarząd nieruchomość na potrzeby Wojewódzkiego Sądu Administracyjnego w Warszawie.
+
+### Art. 88.
+
+Krajowa Rada Sądownictwa, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, przedstawi Prezydentowi Rzeczypospolitej Polskiej wnioski o powołanie sędziów tych sądów, w liczbie ustalonej przez Prezesa Naczelnego Sądu Administracyjnego, spośród kandydatów mających kwalifikacje do zajmowania tych stanowisk, zgłoszonych przez Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego oraz Prezesa Naczelnego Sądu Administracyjnego.
+
+### Art. 89.
+
+Do dnia 1 stycznia 2005 r. funkcje zgromadzeń ogólnych sędziów wojewódzkich sądów administracyjnych oraz kolegiów tych sądów pełni odpowiednio Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego i Kolegium Naczelnego Sądu Administracyjnego.
+
+### Art. 90.
+
+### § 1.
+
+Pełnomocnicy, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, zawiadomią w formie pisemnej pracowników administracyjnych, pomocniczych i obsługi, zatrudnionych w odpowiednich jednostkach organizacyjnych Naczelnego Sądu Administracyjnego, z zastrzeżeniem art. 92, o propozycji dalszego zatrudnienia na określonych stanowiskach w odpowiednich miejscowo wojewódzkich sądach administracyjnych oraz o wysokości wynagrodzenia.
+
+### § 2.
+
+Pracownicy, którzy przyjmą propozycję dalszego zatrudnienia, o której mowa w § 1, stają się z dniem 1 stycznia 2004 r. pracownikami odpowiednich miejscowo wojewódzkich sądów administracyjnych.
+
+### § 3.
+
+Jeżeli na nowym stanowisku wynagrodzenie pracownika jest niższe od pobieranego na poprzednio zajmowanym stanowisku, pracownikowi wypłaca się do dnia 30 czerwca 2004 r. wynagrodzenie w dotychczasowej wysokości.
+
+### Art. 91.
+
+### § 1.
+
+Pracownik, o którym mowa w art. 90, w terminie jednego miesiąca od dnia zawiadomienia przez pełnomocnika o nowym stanowisku oraz wynagrodzeniu, może złożyć pisemne oświadczenie o odmowie dalszego zatrudnienia.
+
+### § 2.
+
+Stosunek pracy z pracownikiem, który złożył oświadczenie o odmowie dalszego zatrudnienia, wygasa z upływem trzech miesięcy od dnia złożenia oświadczenia.
+
+### § 3.
+
+Pracownikowi, o którym mowa w § 2, przysługuje odprawa pieniężna wypłacana na podstawie przepisów o szczególnych zasadach rozwiązywania stosunków pracy z przyczyn dotyczących zakładów pracy.
+
+### Art. 92.
+
+### § 1.
+
+Prezes Naczelnego Sądu Administracyjnego, nie później niż na trzy miesiące przed rozpoczęciem działalności przez wojewódzkie sądy administracyjne, zawiadomi w formie pisemnej pracowników administracyjnych, pomocniczych i obsługi zatrudnionych w Naczelnym Sądzie Administracyjnym o propozycji dalszego zatrudnienia w Naczelnym Sądzie Administracyjnym. W zawiadomieniu należy określić nowe stanowisko oraz wysokość wynagrodzenia.
+
+### § 2.
+
+Do pracowników, o których mowa w § 1, którzy w terminie jednego miesiąca od dnia doręczenia zawiadomienia przyjęli propozycję dalszego zatrudnienia w Naczelnym Sądzie Administracyjnym, nie stosuje się przepisów art. 90 § 1 i 2 i art. 91.
+
+### Art. 93.
+
+Osoby powołane na stanowiska sędziów Naczelnego Sądu Administracyjnego na podstawie dotychczasowych przepisów pozostają sędziami Naczelnego Sądu Administracyjnego.
+
+### Art. 94.
+
+### § 1.
+
+W okresie trzech miesięcy od dnia wejścia w życie ustawy, o której mowa w art. 1, sędzia Naczelnego Sądu Administracyjnego może być przeniesiony przez Prezesa Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego w miejscowości, w której dotychczas pełnił służbę, z pozostawieniem mu prawa do wynagrodzenia i tytułu przysługującego sędziemu Naczelnego Sądu Administracyjnego. Za zgodą sędziego takie przeniesienie jest możliwe również na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego w miejscowości innej niż ta, w której sędzia dotychczas pełnił służbę.
+
+### § 2.
+
+Sędzia Naczelnego Sądu Administracyjnego przeniesiony na stanowisko sędziego wojewódzkiego sądu administracyjnego do wojewódzkiego sądu administracyjnego, może być przeniesiony ponownie przez Prezesa Naczelnego Sądu Administracyjnego do Naczelnego Sądu Administracyjnego, za jego zgodą, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego.
+
+### Art. 95.
+
+### § 1.
+
+Do czasu powołania odpowiedniej liczby sędziów wojewódzkich sądów administracyjnych, nie dłużej jednak niż w okresie dwóch lat od dnia wejścia w życie ustawy, o której mowa w art. 1, Prezes Naczelnego Sądu Administracyjnego, po zasięgnięciu opinii Kolegium Naczelnego Sądu Administracyjnego, może delegować sędziego Naczelnego Sądu Administracyjnego do pełnienia obowiązków w wojewódzkim sądzie administracyjnym.
+
+### § 2.
+
+Jeżeli sędzia Naczelnego Sądu Administracyjnego nie wyrazi zgody na delegowanie do wojewódzkiego sądu administracyjnego na okres dłuższy niż trzy miesiące w roku, może być przeniesiony przez Krajową Radę Sądownictwa, na wniosek Kolegium Naczelnego Sądu Administracyjnego, w stan spoczynku z uposażeniem w wysokości wynagrodzenia pobieranego na ostatnio zajmowanym stanowisku.
+
+### Art. 96.
+
+Pierwszego wyboru drugiego członka Krajowej Rady Sądownictwa spośród sędziów sądów administracyjnych dokona Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego po wygaśnięciu mandatu członka Krajowej Rady Sądownictwa wybranego przez zebranie przedstawicieli zgromadzeń ogólnych sędziów okręgu.
+
+### Art. 97.
+
+### § 1.
+
+Sprawy, w których skargi zostały wniesione do Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. i postępowanie nie zostało zakończone, podlegają rozpoznaniu przez właściwe wojewódzkie sądy administracyjne na podstawie przepisów ustawy - Prawo o postępowaniu przed sądami administracyjnymi.
+
+### § 2.
+
+W sprawach, o których mowa w § 1, stosuje się dotychczasowe przepisy o wpisie i innych kosztach sądowych.
+
+### Art. 98.
+
+W okresie dwóch lat od dnia wejścia w życie ustawy, o której mowa w art. 2, skargę wniesioną bezpośrednio do sądu administracyjnego, jeżeli wniesiona została w terminie określonym w art. 53 § 1 ustawy, o której mowa w art. 2, sąd administracyjny przekazuje organowi, którego działanie lub bezczynność są przedmiotem skargi, ze skutkiem określonym w art. 54 § 1 ustawy, o której mowa w art. 2.
+
+### Art. 99.
+
+Ocena prawna wyrażona w orzeczeniu Naczelnego Sądu Administracyjnego, wydanym przed dniem 1 stycznia 2004 r., z zastrzeżeniem art. 100, wiąże w sprawie wojewódzki sąd administracyjny oraz organ, którego działanie lub bezczynność były przedmiotem zaskarżenia.
+
+### Art. 100.
+
+Ocena prawna wyrażona w wydanych przed dniem 1 stycznia 2004 r. uchwałach Naczelnego Sądu Administracyjnego nie wiąże wojewódzkiego sądu administracyjnego rozpoznającego sprawę, o której mowa w art. 97 § 1.
+
+### Art. 101.
+
+W sprawach zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r., w których nie upłynął termin do wniesienia rewizji nadzwyczajnej do Sądu Najwyższego, strona może, w terminie do dnia 31 marca 2004 r., wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2.
+
+### Art. 102.
+
+### § 1.
+
+Sąd Najwyższy umorzy postępowanie w sprawach, w których wniesiono rewizje nadzwyczajne od orzeczeń Naczelnego Sądu Administracyjnego, nierozpoznane do dnia 1 stycznia 2004 r.
+
+### § 2.
+
+W sprawach, o których mowa w § 1, strona może, w terminie 30 dni od dnia doręczenia postanowienia Sądu Najwyższego o umorzeniu postępowania, wnieść skargę kasacyjną do Naczelnego Sądu Administracyjnego na podstawie przepisów ustawy, o której mowa w art. 2.
+
+### Art. 103.
+
+W sprawie o wznowienie postępowania zakończonego prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego wydanym przed dniem 1 stycznia 2004 r. orzeka właściwy wojewódzki sąd administracyjny na podstawie przepisów ustawy, o której mowa w art. 2.
+
+### Art. 104.
+
+Naczelny Sąd Administracyjny umorzy nierozpoznane do dnia 1 stycznia 2004 r. postępowania prowadzone na podstawie art. 18 ust. 2 oraz art. 49 ust. 2 ustawy, o której mowa w art. 3.
+
+### Art. 105.
+
+Akta spraw zakończonych prawomocnym orzeczeniem Naczelnego Sądu Administracyjnego przed dniem 1 stycznia 2004 r. przechowuje się, zgodnie z właściwymi przepisami, w odpowiednich wojewódzkich sądach administracyjnych.
+
+### Art. 106.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z wyjątkiem przepisów art. 8 pkt 1 i 2, art. 10 pkt 2 i 3, art. 84 pkt 1, art. 86 § 1, art. 87 § 2, art. 88, art. 90 § 1, art. 91 i art. 92, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.

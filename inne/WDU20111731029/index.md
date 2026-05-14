@@ -8,11 +8,9 @@ pos: 1029
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o Ośrodku Studiów Wschodnich im. Marka Karpia
-
-*USTAWA z dnia 15 lipca 2011 r.*
+# Ustawa z dnia 15 lipca 2011 r. o Ośrodku Studiów Wschodnich im. Marka Karpia
 
 | Pole | Wartość |
 |---|---|
@@ -24,109 +22,400 @@ domain: null
 | Data ogłoszenia | 2011-07-15 |
 | Data wydania | 2011-08-22 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111731029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1029/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/1029/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/1029) |
 
-2. Ośrodek Studiów Wschodnich im. Marka Karpia, zwany dalej „Ośrodkiem”, jest państwową osobą prawną.
-3. Siedzibą Ośrodka jest miasto stołeczne Warszawa.
-4. Prezes Rady Ministrów, w drodze rozporządzenia, nadaje Ośrodkowi statut, który określa organizację wewnętrzną oraz tryb pracy organów Ośrodka, mając na względzie sprawne wykonywanie zadań przez Ośrodek.
-2.
+## Spis treści
+
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organy i organizacja Ośrodka](#chpt_2) [Rozdział 3 - Gospodarka finansowa Ośrodka](#chpt_3) [Rozdział 4 - Przepisy przejściowe i końcowe](#chpt_4)
+
+TOC
+
+## Treść ustawy
+
+### Rozdział 1 Przepisy ogólne
+
+### Art. 1.
+
+### 1.
+
+Tworzy się państwową jednostkę organizacyjną pod nazwą „Ośrodek Studiów Wschodnich im. Marka Karpia”.
+
+### 2.
+
+Ośrodek Studiów Wschodnich im. Marka Karpia, zwany dalej „Ośrodkiem”, jest państwową osobą prawną.
+
+### 3.
+
+Siedzibą Ośrodka jest miasto stołeczne Warszawa.
+
+### 4.
+
+Prezes Rady Ministrów, w drodze rozporządzenia, nadaje Ośrodkowi statut, który określa organizację wewnętrzną oraz tryb pracy organów Ośrodka, mając na względzie sprawne wykonywanie zadań przez Ośrodek.
+
+### Art. 2.
+
 Do zadań Ośrodka należy:
-1) gromadzenie, opracowywanie oraz udostępnianie organom władzy publicznej informacji o istotnych wydarzeniach i procesach politycznych, społecznych i gospodarczych na obszarze Europy Środkowej, Europy Wschodniej, Rosji, Półwyspu Bałkańskiego oraz Kaukazu Południowego i Azji Centralnej, a w przypadkach uzasadnionych strategicznymi interesami politycznymi lub gospodarczymi Rzeczypospolitej Polskiej również na innych obszarach;
-2) przygotowywanie analiz, ekspertyz i studiów prognostycznych dotyczących sytuacji politycznej, społecznej i gospodarczej oraz rozwoju stosunków międzynarodowych na obszarach, o których mowa w pkt 1;
-3) współpraca z polskimi i zagranicznymi instytucjami, ośrodkami nauki i osobami fizycznymi oraz promocja polskiej myśli analitycznej poza granicami Rzeczypospolitej Polskiej;
-4) inspirowanie, organizowanie i prowadzenie badań w zakresie problematyki określonej w pkt 1 oraz przekazywanie ich wyników organom władzy publicznej;
-5) gromadzenie specjalistycznego księgozbioru i dokumentacji naukowej oraz organizowanie szkoleń w zakresie problematyki określonej w pkt 1;
-6) organizowanie seminariów i konferencji w celu prezentowania wyników badań nad problematyką określoną w pkt 1;
-2. Czynności wynikające z nadzoru nad Ośrodkiem wykonuje, w imieniu Prezesa Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów.
-4.
+
+### 1)
+
+gromadzenie, opracowywanie oraz udostępnianie organom władzy publicznej informacji o istotnych wydarzeniach i procesach politycznych, społecznych i gospodarczych na obszarze Europy Środkowej, Europy Wschodniej, Rosji, Półwyspu Bałkańskiego oraz Kaukazu Południowego i Azji Centralnej, a w przypadkach uzasadnionych strategicznymi interesami politycznymi lub gospodarczymi Rzeczypospolitej Polskiej również na innych obszarach;
+
+### 2)
+
+przygotowywanie analiz, ekspertyz i studiów prognostycznych dotyczących sytuacji politycznej, społecznej i gospodarczej oraz rozwoju stosunków międzynarodowych na obszarach, o których mowa w pkt 1;
+
+### 3)
+
+współpraca z polskimi i zagranicznymi instytucjami, ośrodkami nauki i osobami fizycznymi oraz promocja polskiej myśli analitycznej poza granicami Rzeczypospolitej Polskiej;
+
+### 4)
+
+inspirowanie, organizowanie i prowadzenie badań w zakresie problematyki określonej w pkt 1 oraz przekazywanie ich wyników organom władzy publicznej;
+
+### 5)
+
+gromadzenie specjalistycznego księgozbioru i dokumentacji naukowej oraz organizowanie szkoleń w zakresie problematyki określonej w pkt 1;
+
+### 6)
+
+organizowanie seminariów i konferencji w celu prezentowania wyników badań nad problematyką określoną w pkt 1;
+
+### 7)
+
+upowszechnianie wiedzy o stanie i tendencjach zmian sytuacji politycznej, społecznej i gospodarczej oraz rozwoju stosunków międzynarodowych na obszarach, o których mowa w pkt 1.
+
+### Art. 3.
+
+### 1.
+
+Nadzór nad Ośrodkiem sprawuje Prezes Rady Ministrów.
+
+### 2.
+
+Czynności wynikające z nadzoru nad Ośrodkiem wykonuje, w imieniu Prezesa Rady Ministrów, Szef Kancelarii Prezesa Rady Ministrów.
+
+### Rozdział 2 Organy i organizacja Ośrodka
+
+### Art. 4.
+
 Organami Ośrodka są:
-1) Dyrektor Ośrodka;
-2) Rada Ośrodka.
-5.
+
+### 1)
+
+Dyrektor Ośrodka;
+
+### 2)
+
+Rada Ośrodka.
+
+### Art. 5.
+
+### 1.
+
 Dyrektor Ośrodka kieruje Ośrodkiem i reprezentuje go na zewnątrz.
-2. Dyrektor Ośrodka powołuje nie więcej niż trzech swoich zastępców i wyznacza zakres ich zadań.
-3. Dyrektor Ośrodka przedstawia Prezesowi Rady Ministrów, w terminie do dnia 31 marca każdego roku, sprawozdanie z działalności Ośrodka w roku poprzednim.
-6.
+
+### 2.
+
+Dyrektor Ośrodka powołuje nie więcej niż trzech swoich zastępców i wyznacza zakres ich zadań.
+
+### 3.
+
+Dyrektor Ośrodka przedstawia Prezesowi Rady Ministrów, w terminie do dnia 31 marca każdego roku, sprawozdanie z działalności Ośrodka w roku poprzednim.
+
+### Art. 6.
+
+### 1.
+
 Rada Ośrodka przedstawia kandydata lub kandydatów na stanowisko Dyrektora Ośrodka w terminie 3 miesięcy od dnia powstania wakatu na tym stanowisku.
-2. Dyrektora Ośrodka powołuje Prezes Rady Ministrów spośród kandydatów przedstawionych przez Radę Ośrodka.
-3. Prezes Rady Ministrów odwołuje Dyrektora Ośrodka w przypadku:
-1) rezygnacji ze stanowiska;
-2) zaprzestania spełniania wymagań, o których mowa w art. 7 pkt 1, 3 i 4.
-4. Prezes Rady Ministrów może w każdym czasie odwołać Dyrektora Ośrodka.
-7.
+
+### 2.
+
+Dyrektora Ośrodka powołuje Prezes Rady Ministrów spośród kandydatów przedstawionych przez Radę Ośrodka.
+
+### 3.
+
+Prezes Rady Ministrów odwołuje Dyrektora Ośrodka w przypadku:
+
+### 1)
+
+rezygnacji ze stanowiska;
+
+### 2)
+
+zaprzestania spełniania wymagań, o których mowa w art. 7 pkt 1, 3 i 4.
+
+### 4.
+
+Prezes Rady Ministrów może w każdym czasie odwołać Dyrektora Ośrodka.
+
+### Art. 7.
+
 Dyrektorem Ośrodka może być osoba, która:
-1) posiada obywatelstwo polskie i korzysta z pełni praw publicznych;
-2) posiada co najmniej 3-letnie doświadczenie w zarządzaniu zespołami badawczymi oraz doświadczenie zawodowe w zakresie zadań Ośrodka określonych w art. 2;
-3) nie była skazana prawomocnym wyrokiem sądowym za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
-4) nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi;
-5) cieszy się nieposzlakowaną opinią.
-nych planów działalności Ośrodka;
-3) opiniowanie sprawozdania finansowego Ośrodka oraz sprawozdania z rocznej działalności Ośrodka;
-4) wyrażanie opinii w sprawach dotyczących działalności Ośrodka, przedstawionych przez Szefa Kancelarii Prezesa Rady Ministrów, Dyrektora Ośrodka lub z własnej inicjatywy.
-2. Rada Ośrodka ma prawo wglądu do dokumentów Ośrodka i może żądać niezbędnych informacji od Dyrektora Ośrodka.
-9.
+
+### 1)
+
+posiada obywatelstwo polskie i korzysta z pełni praw publicznych;
+
+### 2)
+
+posiada co najmniej 3-letnie doświadczenie w zarządzaniu zespołami badawczymi oraz doświadczenie zawodowe w zakresie zadań Ośrodka określonych w art. 2;
+
+### 3)
+
+nie była skazana prawomocnym wyrokiem sądowym za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+
+### 4)
+
+nie została ukarana zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi;
+
+### 5)
+
+cieszy się nieposzlakowaną opinią.
+
+### Art. 8.
+
+### 1.
+
+Do zadań Rady Ośrodka należy:
+
+### 1)
+
+przedstawianie Prezesowi Rady Ministrów kandydata lub kandydatów na stanowisko Dyrektora Ośrodka;
+
+### 2)
+
+opiniowanie projektów rocznych planów finansowych oraz projektów rocznych planów działalności Ośrodka;
+
+### 3)
+
+opiniowanie sprawozdania finansowego Ośrodka oraz sprawozdania z rocznej działalności Ośrodka;
+
+### 4)
+
+wyrażanie opinii w sprawach dotyczących działalności Ośrodka, przedstawionych przez Szefa Kancelarii Prezesa Rady Ministrów, Dyrektora Ośrodka lub z własnej inicjatywy.
+
+### 2.
+
+Rada Ośrodka ma prawo wglądu do dokumentów Ośrodka i może żądać niezbędnych informacji od Dyrektora Ośrodka.
+
+### Art. 9.
+
+### 1.
+
 W skład Rady Ośrodka wchodzi siedmiu członków powoływanych przez Prezesa Rady Ministrów.
-2. W skład Rady Ośrodka wchodzą:
-1) przedstawiciel Prezesa Rady Ministrów;
-2) przedstawiciel ministra właściwego do spraw gospodarki;
-3) przedstawiciel ministra właściwego do spraw zagranicznych;
-4) cztery osoby powoływane na okres kadencji.
-3. Kadencja członków Rady Ośrodka, o których mowa w ust. 2 pkt 4, trwa 6 lat, z tym że co 3 lata kończy się kadencja połowy z nich.
-4. Powołanie członków Rady Ośrodka, o których mowa w ust. 2 pkt 4, z uwagi na upływ kadencji dotychczasowych członków Rady Ośrodka, następuje na wniosek pozostałych członków Rady Ośrodka.
-5. Członkowie Rady Ośrodka, o których mowa w ust. 2 pkt 4, mogą pełnić swoją funkcję nie dłużej niż przez dwie kolejne kadencje.
-10.
+
+### 2.
+
+W skład Rady Ośrodka wchodzą:
+
+### 1)
+
+przedstawiciel Prezesa Rady Ministrów;
+
+### 2)
+
+przedstawiciel ministra właściwego do spraw gospodarki;
+
+### 3)
+
+przedstawiciel ministra właściwego do spraw zagranicznych;
+
+### 4)
+
+cztery osoby powoływane na okres kadencji.
+
+### 3.
+
+Kadencja członków Rady Ośrodka, o których mowa w ust. 2 pkt 4, trwa 6 lat, z tym że co 3 lata kończy się kadencja połowy z nich.
+
+### 4.
+
+Powołanie członków Rady Ośrodka, o których mowa w ust. 2 pkt 4, z uwagi na upływ kadencji dotychczasowych członków Rady Ośrodka, następuje na wniosek pozostałych członków Rady Ośrodka.
+
+### 5.
+
+Członkowie Rady Ośrodka, o których mowa w ust. 2 pkt 4, mogą pełnić swoją funkcję nie dłużej niż przez dwie kolejne kadencje.
+
+### Art. 10.
+
+### 1.
+
 Prezes Rady Ministrów odwołuje członków Rady Ośrodka w przypadku:
-1) rezygnacji ze stanowiska;
-2) zaprzestania spełniania wymagań, o których mowa w art. 11 pkt 1 i 3.
-2. Prezes Rady Ministrów może w każdym czasie odwołać członków Rady Ośrodka, o których mowa w art. 9 ust. 2 pkt 1–3.
-3. W przypadku odwołania członka Rady Ośrodka, o którym mowa w art. 9 ust. 2 pkt 4, lub jego śmierci, Prezes Rady Ministrów powołuje nowego czł onka Rady na okres do końca kadencji.
-11.
+
+### 1)
+
+rezygnacji ze stanowiska;
+
+### 2)
+
+zaprzestania spełniania wymagań, o których mowa w art. 11 pkt 1 i 3.
+
+### 2.
+
+Prezes Rady Ministrów może w każdym czasie odwołać członków Rady Ośrodka, o których mowa w art. 9 ust. 2 pkt 1-3.
+
+### 3.
+
+W przypadku odwołania członka Rady Ośrodka, o którym mowa w art. 9 ust. 2 pkt 4, lub jego śmierci, Prezes Rady Ministrów powołuje nowego członka Rady na okres do końca kadencji.
+
+### Art. 11.
+
 Członkiem Rady Ośrodka może być osoba, która:
-1) posiada obywatelstwo polskie i korzysta z pełni praw publicznych;
-2) wyróżnia się wiedzą i doświadczeniem zawodowym w zakresie zadań Ośrodka określonych w art. 2;
-sunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ).
-2. Wynagrodzenie Dyrektora Ośrodka ustala Szef Kancelarii Prezesa Rady Ministrów. Wynagrodzenie zastępców Dyrektora Ośrodka ustala Dyrektor Ośrodka, po zasięgnięciu opinii Rady Ośrodka.
-13.
+
+### 1)
+
+posiada obywatelstwo polskie i korzysta z pełni praw publicznych;
+
+### 2)
+
+wyróżnia się wiedzą i doświadczeniem zawodowym w zakresie zadań Ośrodka określonych w art. 2;
+
+### 3)
+
+nie była skazana prawomocnym wyrokiem sądowym za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+
+### 4)
+
+cieszy się nieposzlakowaną opinią.
+
+### Art. 12.
+
+### 1.
+
+Powołanie, o którym mowa w art. 5 ust. 2 i art. 6 ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855 i Nr 149, poz. 887.](#gloss-0:1:)).
+
+### 2.
+
+Wynagrodzenie Dyrektora Ośrodka ustala Szef Kancelarii Prezesa Rady Ministrów. Wynagrodzenie zastępców Dyrektora Ośrodka ustala Dyrektor Ośrodka, po zasięgnięciu opinii Rady Ośrodka.
+
+### Art. 13.
+
 Zamiejscowym członkom Rady Ośrodka przysługuje zwrot kosztów udziału w posiedzeniach Rady, zgodnie z przepisami w sprawie należności przysługujących pracownikom zatrudnionym w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.
-14.
+
+### Rozdział 3 Gospodarka finansowa Ośrodka
+
+### Art. 14.
+
+### 1.
+
 Przychodami Ośrodka są coroczne dotacje podmiotowe z budżetu państwa, przeznaczone na pokrycie bieżących kosztów realizacji zadań Ośrodka określonych w art. 2.
-2. Ośrodek może prowadzić działalność gospodarczą w zakresie realizacji swoich zadań, w szczególności poprzez komercjalizację wyników prowadzonych badań oraz działalność wydawniczą i szkoleniową.
-3. Przychodami Ośrodka mogą być środki finansowe pochodzące z innych źródeł niż dotacja podmiotowa z budżetu państwa, w szczególności z:
-1) funduszy Unii Europejskiej;
-2) międzynarodowych programów badawczych;
-3) działalności gospodarczej, o której mowa w ust. 2;
-4) odsetek od środków zgromadzonych na rachunkach bankowych Ośrodka, z wyjątkiem odsetek od środków pochodzących z dotacji budżetowych;
-5) zapisów, spadków i darowizn.
-sowego, ustalanego w układzie zadaniowym, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240, z późn. zm. ).
-2. Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Ośrodka, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej.
-3. Podstawę gospodarki finansowej Ośrodka w okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego Ośrodka przez Szefa Kancelarii Prezesa Rady Ministrów stanowi projekt tego planu, zaopiniowany przez Radę Ośrodka.
-16.
+
+### 2.
+
+Ośrodek może prowadzić działalność gospodarczą w zakresie realizacji swoich zadań, w szczególności poprzez komercjalizację wyników prowadzonych badań oraz działalność wydawniczą i szkoleniową.
+
+### 3.
+
+Przychodami Ośrodka mogą być środki finansowe pochodzące z innych źródeł niż dotacja podmiotowa z budżetu państwa, w szczególności z:
+
+### 1)
+
+funduszy Unii Europejskiej;
+
+### 2)
+
+międzynarodowych programów badawczych;
+
+### 3)
+
+działalności gospodarczej, o której mowa w ust. 2;
+
+### 4)
+
+odsetek od środków zgromadzonych na rachunkach bankowych Ośrodka, z wyjątkiem odsetek od środków pochodzących z dotacji budżetowych;
+
+### 5)
+
+zapisów, spadków i darowizn.
+
+### 4.
+
+Przychody Ośrodka z tytułu prowadzenia działalności gospodarczej, o której mowa w ust. 2, nie mogą przekroczyć 20% sumy przychodów z pozostałych źródeł.
+
+### Art. 15.
+
+### 1.
+
+Ośrodek prowadzi samodzielną gospodarkę finansową na podstawie planu finansowego, ustalanego w układzie zadaniowym, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. Nr 157, poz. 1240](https://api.sejm.gov.pl/eli/acts/DU/2009/1240/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726.](#gloss-0:2:)).
+
+### 2.
+
+Projekt planu finansowego na następny rok budżetowy opracowuje Dyrektor Ośrodka, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla materiałów do projektu ustawy budżetowej.
+
+### 3.
+
+Podstawę gospodarki finansowej Ośrodka w okresie od dnia 1 stycznia do dnia zatwierdzenia planu finansowego Ośrodka przez Szefa Kancelarii Prezesa Rady Ministrów stanowi projekt tego planu, zaopiniowany przez Radę Ośrodka.
+
+### Rozdział 4 Przepisy przejściowe i końcowe
+
+### Art. 16.
+
+### 1.
+
 Z dniem wejścia w życie ustawy likwiduje się państwową jednostkę budżetową „Ośrodek Studiów Wschodnich im. Marka Karpia”.
-2. Czynności związane z likwidacją państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”, w szczególności inwentaryzację składników majątkowych i niemajątkowych, zamknięcie rachunków bankowych i ksiąg rachunkowych oraz sporządzenie sprawozdań, wykonuje Dyrektor Ośrodka, w terminie 3 miesięcy od dnia wejścia w życie ustawy.
-3. Bilans zamknięcia państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” staje się bilansem otwarcia Ośrodka.
-17.
+
+### 2.
+
+Czynności związane z likwidacją państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”, w szczególności inwentaryzację składników majątkowych i niemajątkowych, zamknięcie rachunków bankowych i ksiąg rachunkowych oraz sporządzenie sprawozdań, wykonuje Dyrektor Ośrodka, w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 3.
+
+Bilans zamknięcia państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” staje się bilansem otwarcia Ośrodka.
+
+### Art. 17.
+
 Z dniem wejścia w życie ustawy:
-1) składniki majątkowe i niemajątkowe państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” przejmuje Ośrodek;
-2) należności i zobowiązania państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” stają się należnościami i zobowiązaniami Ośrodka.
-18.
+
+### 1)
+
+składniki majątkowe i niemajątkowe państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” przejmuje Ośrodek;
+
+### 2)
+
+należności i zobowiązania państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” stają się należnościami i zobowiązaniami Ośrodka.
+
+### Art. 18.
+
 Z dniem wejścia w życie ustawy:
-1) dyrektor państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” staje się Dyrektorem Ośrodka;
-2) ustaje członkostwo dotychczasowych członków Rady państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”;
-każe Ośrodkowi, w użyczenie na czas nieoznaczony, nieruchomości znajdujące się w dniu 31 grudnia 2011 r. w trwałym zarządzie państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”, w celu realizacji zadań Ośrodka.
-2. W trakcie trwania użyczenia, o którym mowa w ust. 1, Ośrodek jest zobowiązany do ponoszenia kosztów związanych z korzystaniem z przekazanych mu nieruchomości, w tym uiszczania podatku od nieruchomości oraz kosztów związanych z utrzymywaniem tych nieruchomości w stanie niepogorszonym.
-20.
+
+### 1)
+
+dyrektor państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” staje się Dyrektorem Ośrodka;
+
+### 2)
+
+ustaje członkostwo dotychczasowych członków Rady państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”;
+
+### 3)
+
+pracownicy państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia” stają się pracownikami Ośrodka; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy stosuje się odpowiednio.
+
+### Art. 19.
+
+### 1.
+
+Z dniem 1 stycznia 2012 r. właściwy organ reprezentujący Skarb Państwa przekaże Ośrodkowi, w użyczenie na czas nieoznaczony, nieruchomości znajdujące się w dniu 31 grudnia 2011 r. w trwałym zarządzie państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”, w celu realizacji zadań Ośrodka.
+
+### 2.
+
+W trakcie trwania użyczenia, o którym mowa w ust. 1, Ośrodek jest zobowiązany do ponoszenia kosztów związanych z korzystaniem z przekazanych mu nieruchomości, w tym uiszczania podatku od nieruchomości oraz kosztów związanych z utrzymywaniem tych nieruchomości w stanie niepogorszonym.
+
+### Art. 20.
+
 Do czasu zakończenia likwidacji państwowej jednostki budżetowej „Ośrodek Studiów Wschodnich im. Marka Karpia”, Ośrodek działa na podstawie projektu planu finansowego opracowanego przez Dyrektora Ośrodka.
-21.
+
+### Art. 21.
+
+### 1.
+
 Do pierwszego składu Rady Ośrodka Prezes Rady Ministrów powołuje połowę składu, o którym mowa w art. 9 ust. 2 pkt 4, na okres 3 lat, połowę zaś na okres 6 lat.
-2. Przepis art. 9 ust. 4 nie ma zastosowania przy powoływaniu pierwszego składu Rady Ośrodka.
-22.
+
+### 2.
+
+Przepis art. 9 ust. 4 nie ma zastosowania przy powoływaniu pierwszego składu Rady Ośrodka.
+
+### Art. 22.
+
 Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
 
-#### Rozdział 1 Przepisy ogólne Tworzy się państwową jednostkę organizacyjną pod nazwą „Ośrodek Studiów Wschodnich im. Marka Karpia”.
-
-#### Rozdział 2 Organy i organizacja Ośrodka
-
-#### Rozdział 3 Gospodarka finansowa Ośrodka
-
-#### Rozdział 4 Przepisy przejściowe i końcowe
-
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855 i Nr 149, poz. 887. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726.

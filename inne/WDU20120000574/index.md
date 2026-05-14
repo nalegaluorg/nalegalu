@@ -1,0 +1,246 @@
+---
+title: Ustawa z dnia 13 kwietnia 2012 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz ustawy o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+address: WDU20120000574
+eli: DU/2012/574
+publisher: DU
+year: 2012
+pos: 574
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Ustawa z dnia 13 kwietnia 2012 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz ustawy o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2012 poz. 574 |
+| ISAP | WDU20120000574 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2012-04-13 |
+| Data wydania | 2012-05-23 |
+| Wejście w życie | 2012-05-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/574/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/574) |
+
+## Treść ustawy
+
+### Art. 1.
+
+W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych ([Dz. U. z 2009 r. Nr 11, poz. 65](https://api.sejm.gov.pl/eli/acts/DU/2009/65/text.html) i [Nr 97, poz. 799](https://api.sejm.gov.pl/eli/acts/DU/2009/799/text.html), z [2010 r. Nr 148, poz. 990](https://api.sejm.gov.pl/eli/acts/DU/2010/990/text.html) oraz z [2011 r. Nr 106, poz. 622](https://api.sejm.gov.pl/eli/acts/DU/2011/622/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4:
+
+### a)
+
+w ust. 3 uchyla się pkt 7,
+
+### b)
+
+w ust. 5 uchyla się pkt 4,
+
+### c)
+
+uchyla się ust. 5a;
+
+### 2)
+
+w art. 10 w ust. 1:
+
+### a)
+
+w pkt 2 w lit. c uchyla się tiret czwarte,
+
+### b)
+
+uchyla się pkt 2a,
+
+### c)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+przekazywania do dyrektora oddziału terenowego Agencji, właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, w terminie do 25. dnia każdego miesiąca, za poprzedni miesiąc:
+
+### a)
+
+informacji, o których mowa w pkt 2 lit. c tiret pierwsze-tiret trzecie,
+
+### b)
+
+zbiorczych zestawień, które zawierają dane o łącznej ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu, dostarczonego przez poszczególnych dostawców hurtowych od początku danego roku kwotowego w ilości przekraczającej kwoty indywidualne przysługujące na dany dzień roku;
+
+” ,
+
+### d)
+
+w pkt 4 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu:
+
+„
+
+### h)
+
+ilości mleka przeliczonego na mleko o referencyjnej zawartości tłuszczu dostarczonego podmiotowi skupującemu przez dostawcę hurtowego od początku danego roku kwotowego w ilości przekraczającej kwotę indywidualną przysługującą na dany dzień roku;
+
+” ,
+
+### e)
+
+w pkt 5 w lit. c przecinek zastępuje się średnikiem i uchyla się lit. d,
+
+### f)
+
+w pkt 6 w lit. c przecinek zastępuje się kropką i uchyla się lit. d;
+
+### 3)
+
+w art. 22 uchyla się ust. 9;
+
+### 4)
+
+w art. 33 uchyla się ust. 2-7;
+
+### 5)
+
+uchyla się art. 34;
+
+### 6)
+
+art. 36 otrzymuje brzmienie:
+
+„
+
+### Art. 36.
+
+### 1.
+
+W odniesieniu do dostawców hurtowych, właściwi miejscowo dyrektorzy oddziałów terenowych Agencji do dnia 15 września, na podstawie informacji, o których mowa w art. 10 ust. 1 pkt 5:
+
+### 1)
+
+dokonują rozliczenia wykorzystania kwot indywidualnych przysługujących na dany dzień roku, według stanu na ostatni dzień roku kwotowego;
+
+### 2)
+
+ustalają, w drodze decyzji, po uwzględnieniu krajowego współczynnika realokacji, o którym mowa w art. 35 ust. 1 pkt 1, wysokość należnych opłat;
+
+### 3)
+
+przesyłają do podmiotów skupujących, także w wersji elektronicznej, zbiorcze informacje o wysokości należnych opłat.
+
+### 2.
+
+Dostawca hurtowy, w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika, jest obowiązany do wniesienia podmiotowi skupującemu opłaty ustalonej w decyzji, o której mowa w ust. 1 pkt 2.
+
+### 3.
+
+Opłatę, o której mowa w ust. 2, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego w terminie określonym w art. 15 ust. 1 rozporządzenia, o którym mowa w pkt 1 załącznika.
+
+### 4.
+
+Jeżeli dostawca hurtowy nie przekazał podmiotowi skupującemu w całości opłaty, o której mowa w ust. 1 pkt 2, podmiot skupujący może rozłożyć opłatę na raty.
+
+### 5.
+
+Decyzja, o której mowa w ust. 1 pkt 2, podlega natychmiastowemu wykonaniu.
+
+### 6.
+
+Upoważnionym do żądania wykonania, w drodze egzekucji administracyjnej, obowiązku wynikającego z decyzji, o której mowa w ust. 1 pkt 2, jest podmiot skupujący wskazany w tej decyzji.
+
+” ;
+
+### 7)
+
+art. 38 otrzymuje brzmienie:
+
+„
+
+### Art. 38.
+
+Od decyzji, o których mowa w art. 36 ust. 1 pkt 2 i art. 37 ust. 1, przysługuje odwołanie do Prezesa Agencji.
+
+” ;
+
+### 8)
+
+w art. 40 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W sprawach nieuregulowanych w ustawie do opłat stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306, z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 362.](#gloss-0:1:)), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty, z zastrzeżeniem art. 15 ust. 2 rozporządzenia, o którym mowa w pkt 1 załącznika.
+
+” ;
+
+### 9)
+
+art. 41 otrzymuje brzmienie:
+
+„
+
+### Art. 41.
+
+Wpływy z tytułu opłat, o których mowa w art. 36 ust. 1 pkt 2 i art. 37 ust. 1, Agencja przekazuje niezwłocznie na rachunek dochodów budżetu państwa.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 24 czerwca 2010 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych ([Dz. U. Nr 148, poz. 990](https://api.sejm.gov.pl/eli/acts/DU/2010/990/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się art. 9;
+
+### 2)
+
+art. 12 otrzymuje brzmienie:
+
+„
+
+### Art. 12.
+
+Przepisy wykonawcze wydane na podstawie art. 10 ust. 2 i art. 34 ust. 2 ustawy, o której mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 2 tej ustawy w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie ustawy.
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Do spraw wszczętych przed dniem 1 kwietnia 2012 r., dotyczących opłat, dopłat i zaliczek, o których mowa w ustawie zmienianej w art. 1, niezakończonych do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### 2.
+
+Sprawy dotyczące zaliczek, o których mowa w art. 33 ust. 2 ustawy zmienianej w art. 1, wszczęte od dnia 1 kwietnia 2012 r. do dnia wejścia w życie niniejszej ustawy umarza się.
+
+### 3.
+
+Zaliczki, o których mowa w art. 33 ust. 2 ustawy zmienianej w art. 1, pobrane przez podmiot skupujący od dnia 1 kwietnia 2012 r., zwraca się dostawcom hurtowym.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 3, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, dyrektor oddziału terenowego Agencji Rynku Rolnego właściwy ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego zobowiązuje, w drodze decyzji, podmioty skupujące do określenia wysokości pobranych od poszczególnych dostawców hurtowych zaliczek oraz do ich zwrotu.
+
+### 5.
+
+Kwotę z tytułu zwrotu zaliczek podmiot skupujący zwraca dostawcy hurtowemu w terminie 7 dni od dnia, w którym decyzja, o której mowa w ust. 4, stała się ostateczna.
+
+### 6.
+
+Do należności, o których mowa w ust. 5, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306, z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 362.

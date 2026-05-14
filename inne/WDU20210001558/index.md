@@ -8,11 +8,9 @@ pos: 1558
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o podatkach i opłatach lokalnych
-
-*USTAWA z dnia 8 lipca 2021 r.*
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o podatkach i opłatach lokalnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1558/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1558/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1558) |
 
-**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170 oraz z 2021 r. poz. 401) w art. 7 w ust. 1 pkt 3 otrzymuje brzmienie: „3) grunty, budynki i budowle na obszarze części lotniczych lotnisk użytku publicznego;”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### Art. 1.
 
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. z 2019 r. poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2019/1170/text.html) oraz [z 2021 r. poz. 401](https://api.sejm.gov.pl/eli/acts/DU/2021/401/text.html)) w art. 7 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+grunty, budynki i budowle na obszarze części lotniczych lotnisk użytku publicznego;
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.

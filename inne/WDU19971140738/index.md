@@ -8,9 +8,9 @@ pos: 738
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# z dnia 25 czerwca 1997 r.
+# Ustawa z dnia 25 czerwca 1997 r. o świadku koronnym
 
 | Pole | Wartość |
 |---|---|
@@ -22,188 +22,318 @@ domain: null
 | Data ogłoszenia | 1997-06-25 |
 | Data wydania | 1997-09-26 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971140738) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/738/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/738/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/738) |
 
-o świadku koronnym
+## Treść ustawy
 
-**Art. 1.**
+### Art. 1.
 
-1. Przepisy ustawy stosuje się sprawach o przestępstwo lub przestępstwo skarbowe popełnione zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa lub przestępstwa skarbowego.
+### 1.
 
-2. Przepisy ustawy stosuje się także sprawach o przestępstwa określone w:
+Przepisy ustawy stosuje się w sprawach o przestępstwa popełnione w zorganizowanej grupie albo związku mającym na celu popełnianie przestępstw:
 
-- **1)** 228 § 1 i 3–6, 229 § 1 i 3–5, 230 § 1, 230a § 1, 231 § 1 i 2, 250a § 1 i 2, 258 oraz 296a § 1, 2 i 4 Kodeksu karnego;
-- **2)** 46 1, 2 i 4, 47 oraz 48 1 i 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2016 r. poz. 176).
+### 1)
 
-**Art. 2.** Świadkiem koronnym jest podejrzany, który został dopuszczony do składania zeznań charakterze świadka, na zasadach i trybie określonych niniejszą ustawą.
+określone w art. 134, 148 § 1-3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 171 § 1, art. 173 § 1 i 3, art. 204 § 4, art. 223, 252 § 1-3, art. 253, 263 § 1 i 2, art. 280-282, 299 § 1-6 oraz w art. 310 § 1, 2 i 4 Kodeksu karnego,
 
-**Art. 3.**
+### 2)
 
-1. Można dopuścić dowód z zeznań świadka koronnego, jeżeli łącznie zostały spełnione następujące warunki:
+przeciwko mieniu, powodujące znaczną szkodę,
 
-- **1)** do chwili wniesienia aktu oskarżenia do sądu jako podejrzany swoich wyjaśnieniach:
-    - **a)** przekazał organowi prowadzącemu postępowanie informacje, które mogą przyczynić się do ujawnienia okoliczności przestępstwa, wykrycia pozostałych sprawców, ujawnienia dalszych przestępstw lub zapobieżenia im,
-    - **b)** ujawnił majątek swój oraz znany mu majątek pozostałych sprawców przestępstwa lub przestępstwa skarbowego, o których mowa 1;
+### 3)
 
-- **2)** podejrzany zobowiązał się do złożenia przed sądem wyczerpujących zeznań dotyczących osób uczestniczących przestępstwie lub przestępstwie skarbowym oraz pozostałych okoliczności, o których mowa pkt 1 lit. a, popełnienia przestępstwa lub przestępstwa skarbowego określonego 1. a także poucza się podejrzanego o treści 10 i 11, zamieszczając o tym wzmiankę protokole.
+skarbowe, powodujące znaczne uszczuplenie należności Skarbu Państwa,
 
-**Art. 4.** Przepisów ustawy nie stosuje się do podejrzanego, który związku z udziałem przestępstwie lub przestępstwie skarbowym określonym 1:
+### 4)
 
-**Art. 5.**
+wytwarzania, przetwarzania i obrotu środkami odurzającymi lub substancjami psychotropowymi,
 
-1. Postanowienie przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego na wniosek prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, złożony po uzyskaniu zgody Prokuratora Generalnego lub upoważnionego przez niego zastępcy Prokuratora Generalnego.
+### 5)
 
-2. Sąd bada, na podstawie danych zawartych we wniosku i materiałach zgromadzonych sprawie, czy zachodzą warunki określone 1, 3 i 4.
+określone w art. 21 i 23 ustawy z dnia 2 grudnia 1993 r. o oznaczaniu wyrobów znakami skarbowymi akcyzy ([Dz. U. Nr 127, poz. 584](https://api.sejm.gov.pl/eli/acts/DU/1993/584/text.html) i z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)).
 
-3. Przed wydaniem postanowienia sąd przesłuchuje podejrzanego co do okoliczności, o których mowa 3 1 i 2. Jeżeli stawił się obrońca, dopuszcza się go, na żądanie podejrzanego, do udziału przesłuchaniu; zawiadomienie obrońcy o terminie przesłuchania jest obowiązkowe, gdy żąda tego podejrzany.
+### 2.
 
-4. Sąd określa termin i sposób wykonania zobowiązania, o którym mowa 3
+Przepisy ustawy stosuje się także w sprawach o przestępstwo określone w art. 258 Kodeksu karnego.
 
-2.
+### Art. 2.
 
-5. Sąd wydaje postanowienie terminie 14 dni od dnia wpływu wniosku.
+Świadkiem koronnym jest podejrzany, który został dopuszczony do składania zeznań w charakterze świadka, na zasadach i w trybie określonych niniejszą ustawą.
 
-6. Na postanowienie sądu prokuratorowi przysługuje zażalenie.
+### Art. 3.
 
-**Art. 5a.** Jeżeli prokurator prowadzący lub nadzorujący postępowanie przygotowawcze nie występuje z wnioskiem, o którym mowa 5 1, wydaje tym przedmiocie postanowienie i zapoznaje z jego treścią podejrzanego. podlegają następujące dokumenty:
+### 1.
 
-**Art. 7.**
+Można dopuścić dowód z zeznań świadka koronnego, jeżeli łącznie zostały spełnione następujące warunki:
 
-1. W razie wydania przez sąd postanowienia o dopuszczeniu dowodu z zeznań świadka koronnego, prokurator sporządza odpisy materiałów dotyczących osoby wskazanej postanowieniu sądu i wyłącza je do odrębnego postępowania, które następnie zawiesza; zawieszenie postępowania trwa do czasu prawomocnego zakończenia postępowania przeciwko pozostałym sprawcom.
+### 1)
 
-2. Na postanowienie o zawieszeniu postępowania na podstawie 1 zażalenie nie przysługuje.
+do chwili wniesienia aktu oskarżenia do sądu jako podejrzany w swoich wyjaśnieniach przekazał organowi prowadzącemu postępowanie informacje, które mogą przyczynić się do ujawnienia okoliczności przestępstwa, wykrycia pozostałych sprawców, ujawnienia dalszych przestępstw lub zapobieżenia im,
 
-**Art. 8.** W stosunku do świadka koronnego nie stosuje się przepisów 182– 185 Kodeksu postępowania karnego.
+### 2)
 
-**Art. 9.**
+zobowiązał się do złożenia przed sądem wyczerpujących zeznań dotyczących osób uczestniczących w przestępstwie oraz pozostałych okoliczności, o których mowa w pkt 1, popełnienia przestępstwa wymienionego w art. 1.
 
-1. Sprawca nie podlega karze za przestępstwa lub przestępstwa skarbowe określone 1, których uczestniczył i które jako świadek koronny ujawnił trybie określonym niniejszą ustawą.
+### 2.
 
-2. Prokurator wydaje postanowienie o umorzeniu postępowania ciągu 14 dni od dnia uprawomocnienia się orzeczenia kończącego postępowanie przeciwko tym sprawcom, których udział przestępstwie świadek koronny ujawnił oraz przeciwko którym zeznawał. Przepisów 459 i 465 Kodeksu postępowania karnego nie stosuje się.
+Można uzależnić dopuszczenie dowodu z zeznań świadka koronnego także od zobowiązania się podejrzanego do zwrotu korzyści majątkowych odniesionych z przestępstwa oraz naprawienia szkody nim wyrządzonej.
 
-**Art. 10.**
+### 3.
 
-1. Przepisów 9 nie stosuje się, jeżeli świadek koronny toku postępowania:
+Z czynności, o których mowa w ust. 1 pkt 2 i ust. 2, sporządza się protokół, a także poucza się podejrzanego o treści art. 10 i 11, zamieszczając o tym wzmiankę w protokole.
 
-- **1)** zeznał nieprawdę lub zataił prawdę co do istotnych okoliczności sprawy albo odmówił zeznań przed sądem; postępowanie.
+### Art. 4.
 
-3. Prokurator podejmuje zawieszone postępowanie, jeżeli zostały ujawnione okoliczności, o których mowa 4.
+Przepisów ustawy nie stosuje się do podejrzanego, który w związku z udziałem w przestępstwie wymienionym w art. 1:
 
-4. Prokurator może podjąć zawieszone postępowanie, jeżeli świadek koronny popełnił nowe przestępstwo umyślne lub umyślne przestępstwo skarbowe albo nie wykonał zobowiązania, o którym mowa 3 2.
+### 1)
 
-5. Na postanowienie o podjęciu zawieszonego postępowania świadkowi koronnemu przysługuje zażalenie do sądu, o którym mowa 5 1.
+usiłował popełnić albo popełnił przestępstwo określone w art. 148 § 1-3 Kodeksu karnego lub współdziałał w popełnieniu tego przestępstwa,
 
-**Art. 11.**
+### 2)
 
-1. Postępowanie wznawia się, niezależnie od podstaw określonych 327 § 2 Kodeksu postępowania karnego, jeżeli ciągu 5 lat od uprawomocnienia się postanowienia o umorzeniu postępowania na podstawie 9:
+nakłaniał inną osobę do popełnienia czynu zabronionego, określonego w art. 1, w celu skierowania przeciwko niej postępowania karnego,
 
-- **1)** świadek koronny popełnił nowe przestępstwo lub przestępstwo skarbowe, działając zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa lub przestępstwa skarbowego;
-- **2)** zostały ujawnione okoliczności świadczące o tym, że świadek koronny świadomie nie wykonał obowiązku, o którym mowa 3 1 pkt 1 lit. b lub 2;
-- **3)** zostały ujawnione okoliczności, o których mowa 4.
+### 3)
 
-2. Jeżeli świadek koronny, ciągu 5 lat od uprawomocnienia się postanowienia o umorzeniu postępowania na podstawie 9, popełnił nowe przestępstwo umyślne lub umyślne przestępstwo skarbowe, postępowanie to można wznowić.
+zakładał zorganizowaną grupę albo związek mający na celu popełnianie przestępstw lub taką grupą albo związkiem kierował.
 
-3. Na postanowienie o wznowieniu postępowania świadkowi koronnemu przysługuje zażalenie do sądu, o którym mowa 5 1.
+### Art. 5.
 
-**Art. 12.** W wypadku podjęcia albo wznowienia postępowania z powodów, o których mowa 10 1 pkt 1 lub 4 albo 11 2, skazując za przestępstwo lub przestępstwo skarbowe objęte tym postępowaniem, sąd może zastosować nadzwyczajne złagodzenie kary.
+### 1.
 
-**Art. 13.**
+Postanowienie w przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje sąd właściwy do rozpoznania sprawy na wniosek prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, złożony po uzyskaniu zgody prokuratora apelacyjnego.
 
-1. Sąd, na wniosek świadka koronnego, wyłącza jawność rozprawy na czas jego przesłuchania. Świadka należy pouczyć o tym uprawnieniu. W razie zarządzenia.
+### 2.
 
-**Art. 14.**
+Sąd bada, na podstawie danych zawartych we wniosku i materiałach zgromadzonych w sprawie, czy zachodzą warunki określone w art. 1, 3 i 4.
 
-1. W razie zagrożenia życia lub zdrowia świadka koronnego lub osoby dla niego najbliższej rozumieniu przepisów Kodeksu karnego, mogą być oni objęci ochroną osobistą, a także uzyskać pomoc zakresie zmiany miejsca pobytu lub zatrudnienia, a szczególnie uzasadnionych wypadkach można wydać im dokumenty umożliwiające używanie innych niż własne danych osobowych, tym uprawniające do przekroczenia granicy państwowej, jak również mogą uzyskać inną formę pomocy, a zwłaszcza przeprowadzenie zabiegu chirurgicznego usuwającego charakterystyczne elementy wyglądu lub operacji plastycznej.
+### 3.
 
-1a. W razie stwierdzenia takiej potrzeby i za zgodą osoby objętej ochroną Dyrektor Generalny Służby Więziennej może wprowadzić ograniczenia przysługujących jej uprawnień, określonych 91, 91a, 92, 100, 102 pkt 2, 5, 6 i 8, 105 § 1, 105b § 1, 106 § 1 i 2, 110a § 1, 113a § 3, 116 § 1 pkt 4, 130 § 1, 141 § 1, 211 § 2 i 218 § 1 Kodeksu karnego wykonawczego.
+Przed wydaniem postanowienia sąd przesłuchuje podejrzanego co do okoliczności, o których mowa w art. 3 ust. 1 i 2. Jeżeli stawił się obrońca, dopuszcza się go, na żądanie podejrzanego, do udziału w przesłuchaniu; zawiadomienie obrońcy o terminie przesłuchania jest obowiązkowe, gdy żąda tego podejrzany.
 
-1b. W wypadku braku możliwości zapewnienia świadkowi koronnemu lub osobie dla niego najbliższej świadczeń opieki zdrowotnej ramach powszechnego ubezpieczenia zdrowotnego, osobom tym może być przyznana pomoc finansowa na pokrycie kosztów uzyskania świadczeń opieki zdrowotnej określonych 15 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2015 r. poz. 581, z późn. zm. ).
+### 4.
 
-2. W razie niemożności zatrudnienia świadka koronnego lub osoby dla niego najbliższej, może być im przyznana pomoc finansowa, szczególności przeznaczona na pokrycie kosztów utrzymania.
+Sąd określa termin i sposób wykonania zobowiązania, o którym mowa w art. 3 ust. 2.
 
-3. Ochroną lub pomocą, o których mowa 1, 1a, 1b i 2, z wyłączeniem wydania dokumentów, o których mowa 1, można również objąć, do czasu uprawomocnienia się postanowienia określonego 5 1, podejrzanego, który 14, za granicą może określić umowa międzynarodowa.
+### 5.
 
-**Art. 16.**
+Sąd wydaje postanowienie w terminie 7 dni od dnia wpływu wniosku.
 
-1. Objęcie osoby pełnoletniej ochroną lub pomocą, o których mowa 14, uzależnia się od złożenia Komendantowi Centralnego Biura Śledczego Policji lub Dyrektorowi Generalnemu Służby Więziennej przez tę osobę pisemnego zobowiązania do:
+### 6.
 
-- **1)** przestrzegania zasad i zaleceń zakresie udzielonej ochrony, a także
-- **2)** wykonywania obowiązków ciążących z mocy ustawy oraz wynikających z prawomocnych orzeczeń i decyzji – razie korzystania z ochrony lub pomocy polegających na zmianie miejsca pobytu lub wydaniu dokumentów, o których mowa 14 1.
+Na postanowienie sądu prokuratorowi przysługuje zażalenie.
 
-2. (uchylony)
+### Art. 6.
 
-**Art. 17.**
+Jeżeli prokurator nie wystąpił z wnioskiem, o którym mowa w art. 5 ust. 1, albo sąd wydał postanowienie o odmowie dopuszczenia dowodu z zeznań świadka koronnego, wyjaśnienia podejrzanego, o których mowa w art. 3 ust. 1 pkt 1 oraz art. 5 ust. 3, nie mogą stanowić dowodu; w takim wypadku protokół wyjaśnień podejrzanego podlega zniszczeniu.
 
-1. W przedmiocie zastosowania ochrony lub pomocy, o których mowa 14, prokurator wydaje postanowienie na wniosek świadka koronnego, podejrzanego, który spełnił warunki przewidziane 3 1, lub osoby dla nich najbliższej rozumieniu przepisów Kodeksu karnego.
+### Art. 7.
 
-2. W przedmiocie ochrony osobistej, na wniosek świadka koronnego lub osoby dla niego najbliższej rozumieniu przepisów Kodeksu karnego, odbywających karę pozbawienia wolności lub tymczasowo aresztowanych, przebywających zakładach karnych lub aresztach śledczych, prokurator wydaje postanowienie o udzieleniu ochrony osobistej, które wykonuje Dyrektor Generalny Służby Więziennej.
+W razie wydania przez sąd postanowienia o dopuszczeniu dowodu z zeznań świadka koronnego, prokurator sporządza odpisy materiałów dotyczących osoby wskazanej w postanowieniu sądu i wyłącza je do odrębnego postępowania, które następnie zawiesza; zawieszenie postępowania trwa do czasu prawomocnego zakończenia postępowania przeciwko pozostałym sprawcom.
 
-3. Postanowienie prokuratora o objęciu ochroną lub pomocą osób, o których mowa 1 lub 2, może być wydane także z urzędu – za zgodą tych osób.
+### Art. 8.
 
-4. Na postanowienie przedmiocie zastosowania ochrony lub pomocy, o którym mowa 1–3, przysługuje zażalenie.
+W stosunku do świadka koronnego nie stosuje się przepisów art. 182-185 Kodeksu postępowania karnego.
 
-**Art. 18.**
+### Art. 9.
 
-1. Organem właściwym do wykonywania postanowień, o których mowa 17 1 i 3, jest Komendant Centralnego Biura Śledczego Policji, z wyjątkiem postanowień o ochronie osobistej osób odbywających karę pozbawienia wolności lub tymczasowo aresztowanych, przebywających zakładach karnych lub aresztach śledczych.
+### 1.
 
-4. Na zarządzenie Komendanta Centralnego Biura Śledczego Policji przedmiocie, o którym mowa 2 i 3, przysługuje zażalenie do prokuratora prowadzącego albo nadzorującego postępowanie przygotowawcze.
+Sprawca nie podlega karze za przestępstwa określone w art. 1, w których uczestniczył i które jako świadek koronny ujawnił w trybie określonym niniejszą ustawą.
 
-5. Zażalenie przedmiocie wydania dokumentów, przeprowadzenia zabiegu chirurgicznego lub operacji plastycznej, o których mowa 14, rozpoznaje Prokurator Generalny.
+### 2.
 
-**Art. 18a.**
+Prokurator wydaje postanowienie o umorzeniu postępowania w ciągu 14 dni od dnia uprawomocnienia się orzeczenia kończącego postępowanie przeciwko pozostałym sprawcom. Przepisów art. 459 i 465 Kodeksu postępowania karnego nie stosuje się.
 
-1. Funkcjonariusze Policji, ramach wykonywanej ochrony, mogą wprowadzać, także drodze czynności operacyjno-rozpoznawczych, współdziałając z właściwymi organami państwa, dane, o których mowa 14 1, do systemów informatycznych oraz kartotek, skorowidzów, ksiąg, wykazów i innych zbiorów ewidencyjnych organów państwowych oraz jednostek samorządu terytorialnego, innych państwowych lub komunalnych jednostek organizacyjnych oraz podmiotów niepaństwowych, realizujących zadania publiczne.
+### Art. 10.
 
-2. Podmioty wymienione 1 są obowiązane udzielać pomocy funkcjonariuszom Policji oraz współdziałającym z nimi funkcjonariuszom innych organów państwa przy wykonywaniu zadań, o których mowa przywołanym przepisie.
+### 1.
 
-3. Nie popełnia przestępstwa, kto zgodnie z przepisami niniejszej ustawy poleca sporządzić, kieruje sporządzaniem, udziela pomocy sporządzeniu, sporządza oraz zabezpiecza dokumenty lub posługuje się dokumentami, o których mowa 14
+Przepisów art. 9 nie stosuje się, jeżeli świadek koronny w toku postępowania:
 
-1.
+### 1)
 
-**Art. 18b.**
+zeznał nieprawdę lub zataił prawdę co do istotnych okoliczności sprawy albo odmówił zeznań przed sądem,
 
-1. W wypadku umyślnego naruszenia przez osobę objętą ochroną zasad lub zaleceń zakresie ochrony lub uporczywego uchylania się od wykonywania obowiązków, o których mowa 16 1 pkt 2, Komendant Centralnego Biura Śledczego Policji albo Dyrektor Generalny Służby Więziennej występuje do prokuratora prowadzącego postępowanie z wnioskiem o cofnięcie ochrony lub pomocy.
+### 2)
 
-2. W przedmiocie wniosku, o którym mowa 1, prokurator wydaje postanowienie.
+popełnił nowe przestępstwo działając w zorganizowanej grupie albo związku mającym na celu popełnianie przestępstw.
 
-4. Na postanowienie przedmiocie cofnięcia albo zakończenia ochrony lub pomocy osobom, których postanowienie dotyczy, przysługuje zażalenie do prokuratora nadrzędnego.
+### 2.
 
-5. Wydanie postanowienia o cofnięciu albo zakończeniu ochrony lub pomocy nie jest uzależnione od wydania postanowienia o umorzeniu zawieszonego postępowania określonego 9 2.
+W wypadku określonym w ust. 1 prokurator podejmuje zawieszone postępowanie.
 
-**Art. 19.**
+### 3.
 
-1. W razie zastosowania ochrony lub pomocy polegającej na zmianie miejsca pobytu lub wydaniu dokumentów, o których mowa 14 1, Komendant Centralnego Biura Śledczego Policji może zobowiązać operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. poz. 1529 oraz z 2015 r. poz. 1830) lub jego placówkę pocztową do:
+Prokurator podejmuje zawieszone postępowanie, jeżeli zostały ujawnione okoliczności, o których mowa w art. 4.
 
-- **1)** przekazywania pod wskazany przez siebie adres przesyłek przeznaczonych dla osoby objętej ochroną;
-- **2)** doręczania przesyłek przeznaczonych dla osoby objętej ochroną za pośrednictwem osoby przez niego upoważnionej.
+### 4.
 
-2. Komendant Centralnego Biura Śledczego Policji zapewnia niezwłoczne doręczanie przesyłek adresatowi wypadkach, o których mowa 1.
+Prokurator może podjąć zawieszone postępowanie, jeżeli świadek koronny popełnił nowe przestępstwo umyślne albo nie wykonał zobowiązania, o którym mowa w art. 3 ust. 2.
 
-3. Przekazanie lub doręczenie przez placówkę pocztową przesyłki sposób przewidziany 1 uważa się za doręczenie rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe.
+### 5.
 
-**Art. 20.** Komendant Centralnego Biura Śledczego Policji ustanawia, razie stwierdzenia takiej potrzeby i za zgodą osoby objętej ochroną, pełnomocnika tej osoby; do pełnomocnika stosuje się odpowiednio przepisy regulujące postępowanie, którym został on ustanowiony.
+Na postanowienie o podjęciu zawieszonego postępowania świadkowi koronnemu przysługuje zażalenie do sądu, o którym mowa w art. 5 ust. 1.
 
-**Art. 21.**
+### Art. 11.
 
-1. W razie podjęcia zawieszonego postępowania karnego wypadkach określonych 10 albo wznowienia postępowania karnego wypadkach określonych 11, świadek koronny jest zobowiązany do zwrotu właściwemu organowi równowartości świadczeń otrzymanych ramach pomocy, a jeżeli pomoc kiem, o którym mowa 5 1, albo sąd wydał postanowienie o odmowie dopuszczenia dowodu z zeznań świadka koronnego.
+### 1.
 
-3. Na postanowienie określone 1 i 2 przysługuje zażalenie do sądu, o którym mowa 5 1.
+Jeżeli świadek koronny, w ciągu roku od uprawomocnienia się postanowienia o umorzeniu postępowania na podstawie art. 9, popełnił nowe przestępstwo działając w zorganizowanej grupie albo związku mającym na celu popełnianie przestępstw lub zostały ujawnione okoliczności, o których mowa w art. 4, postępowanie to wznawia się, niezależnie od podstaw określonych w art. 327 § 2 Kodeksu postępowania karnego.
 
-4. W razie uchylania się od obowiązku zwrotu równowartości udzielonej pomocy lub wydanych dokumentów, stosuje się przepisy o postępowaniu egzekucyjnym administracji.
+### 2.
 
-**Art. 22.** Rada Ministrów określi, drodze rozporządzenia, szczegółowe warunki, zakres, sposób udzielania, wykonywania, cofania oraz zakończenia ochrony i pomocy, o których mowa 14 1, 1b, 2 i 3 oraz 19 1 i 2, mając na względzie potrzebę zapewnienia bezpieczeństwa odpowiednio do rodzaju i stopnia zagrożenia oraz pomocy na poziomie co najmniej minimum socjalnego.
+Jeżeli świadek koronny, w ciągu roku od uprawomocnienia się postanowienia o umorzeniu postępowania na podstawie art. 9, popełnił nowe przestępstwo umyślne albo nie wykonał zobowiązania, o którym mowa w art. 3 ust. 2, postępowanie to można wznowić.
 
-**Art. 23.** Ochronie zgodnie z przepisami o ochronie informacji niejawnych podlegają:
+### 3.
 
-**Art. 24.**
+Na postanowienie o wznowieniu postępowania świadkowi koronnemu przysługuje zażalenie do sądu, o którym mowa w art. 5 ust. 1.
 
-1. Przepisy ustawy stosuje się odpowiednio sprawach podlegających orzecznictwu sądów wojskowych, z tym że postanowienie przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje wojskowy sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego.
+### Art. 12.
 
-2. (uchylony)
+W wypadku podjęcia albo wznowienia postępowania z powodów, o których mowa w art. 10 ust. 1 pkt 1 lub ust. 4 albo w art. 11 ust. 2, skazując za przestępstwo objęte tym postępowaniem, sąd może zastosować nadzwyczajne złagodzenie kary.
 
-**Art. 25.** W zakresie nieuregulowanym ustawie stosuje się przepisy Kodeksu postępowania karnego.
+### Art. 13.
 
-**Art. 26.** (uchylony)
+Sąd, na wniosek świadka koronnego, może wyłączyć jawność rozprawy na czas jego przesłuchania. Świadka należy pouczyć o tym uprawnieniu. W razie wyłączenia jawności, przepisów art. 361 § 1 i 3 Kodeksu postępowania karnego nie stosuje się.
 
-**Art. 27.** Ustawa wchodzi życie z dniem 1 września 1998 r.
+### Art. 14.
 
+### 1.
+
+W razie zagrożenia życia lub zdrowia świadka koronnego lub osoby dla niego najbliższej w rozumieniu przepisów Kodeksu karnego, mogą być oni objęci ochroną osobistą, a także uzyskać pomoc w zakresie zmiany miejsca pobytu lub zatrudnienia, a w szczególnie uzasadnionych wypadkach można wydać im dokumenty umożliwiające używanie innych niż własne danych osobowych, w tym uprawniające do przekroczenia granicy państwowej.
+
+### 2.
+
+W razie niemożności zatrudnienia świadka koronnego lub osoby dla niego najbliższej, może być im przyznana pomoc finansowa przeznaczona na pokrycie kosztów utrzymania.
+
+### 3.
+
+Ochroną lub pomocą, o których mowa w ust. 1 i 2, z wyłączeniem wydania dokumentów, o których mowa w ust. 1, można również objąć, do czasu uprawomocnienia się postanowienia określonego w art. 5 ust. 1, podejrzanego, który spełnił warunki przewidziane w art. 3 ust. 1, lub osobę dla niego najbliższą w rozumieniu przepisów Kodeksu karnego.
+
+### 4.
+
+Niedopuszczalna jest czynność dowodowa zmierzająca do ujawnienia okoliczności, o których mowa w ust. 1.
+
+### Art. 15.
+
+Warunki i zasady udzielania ochrony lub pomocy, o których mowa w art. 14, za granicą może określić umowa międzynarodowa.
+
+### Art. 16.
+
+### 1.
+
+Objęcie ochroną lub pomocą, o których mowa w art. 14, uzależnia się od złożenia prokuratorowi przez pełnoletnią osobę, która ma być chroniona, pisemnego zobowiązania do:
+
+### 1)
+
+przestrzegania zasad i zaleceń w zakresie udzielonej ochrony, a także
+
+### 2)
+
+wykonywania obowiązków ciążących z mocy ustawy oraz wynikających z prawomocnych orzeczeń i decyzji - w razie korzystania z ochrony lub pomocy polegających na zmianie miejsca pobytu lub wydaniu dokumentów, o których mowa w art. 14 ust. 1.
+
+### 2.
+
+W wypadku umyślnego naruszenia zasad lub zaleceń w zakresie ochrony lub uporczywego uchylania się od wykonywania obowiązków, o których mowa w ust. 1 pkt 2, prokurator może postanowić o odstąpieniu od ochrony lub o ograniczeniu jej zakresu. Na postanowienie w tym przedmiocie przysługuje zażalenie.
+
+### Art. 17.
+
+### 1.
+
+W przedmiocie zastosowania ochrony lub pomocy, o których mowa w art. 14, prokurator wydaje postanowienie na wniosek świadka koronnego, podejrzanego, który spełnił warunki przewidziane w art. 3 ust. 1, lub osoby dla nich najbliższej w rozumieniu przepisów Kodeksu karnego.
+
+### 2.
+
+Postanowienie prokuratora o objęciu ochroną lub pomocą osób, o których mowa w ust. 1, może zostać wydane także z urzędu - za zgodą tych osób.
+
+### 3.
+
+Na Postanowienie w przedmiocie zastosowania ochrony lub pomocy osobom, o których mowa w ust. 1 i 2, przysługuje zażalenie.
+
+### Art. 18.
+
+### 1.
+
+Organem właściwym do wykonywania postanowień, o których mowa w art. 16 ust. 2 i art. 17 ust. 1 i 2, jest Komendant Główny Policji.
+
+### 2.
+
+Nie popełnia przestępstwa, kto zgodnie z przepisami niniejszej ustawy sporządza dokumenty lub posługuje się dokumentami, o których mowa w art. 14 ust. 1.
+
+### Art. 19.
+
+### 1.
+
+W razie zastosowania ochrony lub pomocy polegającej na zmianie miejsca pobytu lub wydaniu dokumentów, o których mowa w art. 14 ust. 1, Komendant Główny Policji może zobowiązać właściwy urząd pocztowy do:
+
+### 1)
+
+przekazywania pod wskazany przez siebie adres przesyłek przeznaczonych dla osoby objętej ochroną,
+
+### 2)
+
+doręczania przesyłek przeznaczonych dla osoby objętej ochroną za pośrednictwem osoby przez niego upoważnionej.
+
+### 2.
+
+Komendant Główny Policji zapewnia niezwłoczne doręczanie przesyłek adresatowi w wypadkach, o których mowa w ust. 1.
+
+### 3.
+
+Przekazanie lub doręczenie przez urząd pocztowy przesyłki w sposób przewidziany w ust. 1 uważa się za doręczenie w rozumieniu ustawy z dnia 23 listopada 1990 r. o łączności ([Dz. U. z 1995 r. Nr 117, poz. 564](https://api.sejm.gov.pl/eli/acts/DU/1995/564/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/1997/675/text.html)).
+
+### Art. 20.
+
+Komendant Główny Policji ustanawia, w razie potrzeby i za zgodą osoby objętej ochroną, pełnomocnika tej osoby, którym może być także policjant; do pełnomocnika stosuje się odpowiednio przepisy regulujące postępowanie, w którym został on ustanowiony.
+
+### Art. 21.
+
+### 1.
+
+W razie podjęcia zawieszonego postępowania karnego w wypadkach określonych w art. 10 albo wznowienia postępowania karnego w wypadkach określonych w art. 11 - prokurator może zobowiązać świadka koronnego do zwrotu właściwemu organowi równowartości świadczeń otrzymanych w ramach pomocy, a jeżeli pomoc polegała na wydaniu dokumentów, o których mowa w art. 14 ust. 1, również do zwrotu tych dokumentów.
+
+### 2.
+
+Prokurator może także zobowiązać podejrzanego, który spełnił warunki przewidziane w art. 3 ust. 1, do zwrotu właściwemu organowi równowartości świadczeń otrzymanych w ramach pomocy, jeżeli prokurator nie wystąpił z wnioskiem, o którym mowa w art. 5 ust. 1, albo sąd wydał postanowienie o odmowie dopuszczenia dowodu z zeznań świadka koronnego.
+
+### 3.
+
+Na postanowienie określone w ust. 1 i 2 przysługuje zażalenie do sądu, o którym mowa w art. 5 ust. 1.
+
+### 4.
+
+W razie uchylania się od obowiązku zwrotu równowartości udzielonej pomocy lub wydanych dokumentów, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+### Art. 22.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki, zakres i sposób udzielania oraz cofania ochrony i pomocy, o których mowa w art. 14 ust. 1-3 oraz art. 19 ust. 1 i 2.
+
+### Art. 23.
+
+Tajemnicę państwową stanowią:
+
+### 1)
+
+przebieg i treść czynności, o których mowa w art. 3 i 5, do chwili wydania przez sąd postanowienia o dopuszczeniu dowodu z zeznań świadka koronnego,
+
+### 2)
+
+okoliczności dotyczące ochrony lub pomocy, o których mowa w art. 14-20.
+
+### Art. 24.
+
+Przepisy ustawy stosuje się odpowiednio w sprawach podlegających orzecznictwu sądów wojskowych, z tym że zgody, o której mowa w art. 5 ust. 1, udziela Naczelny Prokurator Wojskowy.
+
+### Art. 25.
+
+W zakresie nie uregulowanym w ustawie stosuje się przepisy Kodeksu postępowania karnego.
+
+### Art. 26.
+
+Przepisy o świadku koronnym stosuje się także po upływie okresu obowiązywania ustawy w sprawach, w których sąd wydał, chociażby nieprawomocne, postanowienie, o którym mowa w art. 5 ust. 1.
+
+### Art. 27.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1998 r. na okres 3 lat.

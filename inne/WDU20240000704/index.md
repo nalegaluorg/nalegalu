@@ -1,0 +1,819 @@
+---
+title: Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 25 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie opiniowania służbowego policjantów
+address: WDU20240000704
+eli: DU/2024/704
+publisher: DU
+year: 2024
+pos: 704
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 25 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie opiniowania służbowego policjantów [1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 704 |
+| ISAP | WDU20240000704 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-04-25 |
+| Data wydania | 2024-05-08 |
+| Ostatnia zmiana | 2024-06-05 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/704/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/704) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów](#part_2)
+
+- [Załącznik nr 1 - Kryteria oraz opisowa skala ocen](#part_3)
+
+- [Załącznik nr 2 - Wzór formularza opinii służbowej](#part_4)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów ([Dz. U. z 2020 r. poz. 1102](https://api.sejm.gov.pl/eli/acts/DU/2020/1102/text.html)), z uwzględnieniem zmian wprowadzonych:
+
+### 1)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 1686](https://api.sejm.gov.pl/eli/acts/DU/2020/1686/text.html));
+
+### 2)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 stycznia 2022 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 47](https://api.sejm.gov.pl/eli/acts/DU/2022/47/text.html));
+
+### 3)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 767](https://api.sejm.gov.pl/eli/acts/DU/2022/767/text.html));
+
+### 4)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającym rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 1411](https://api.sejm.gov.pl/eli/acts/DU/2023/1411/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+
+### 1)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 1686](https://api.sejm.gov.pl/eli/acts/DU/2020/1686/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.
+
+” ;
+
+### 2)
+
+§ 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 stycznia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 47](https://api.sejm.gov.pl/eli/acts/DU/2022/47/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+W sprawach odwołań od opinii służbowych oraz wniosków o ponowne rozpatrzenie sprawy w zakresie opinii służbowych, wniesionych i nierozpatrzonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 12 stycznia 2022 r.
+
+” ;
+
+### 3)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 767](https://api.sejm.gov.pl/eli/acts/DU/2022/767/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+” ;
+
+### 4)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów ([Dz. U. poz. 1411](https://api.sejm.gov.pl/eli/acts/DU/2023/1411/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2023 r.
+
+” .
+
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).
+
+## Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 30 sierpnia 2010 r. w sprawie opiniowania służbowego policjantów[1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708).](#gloss-0:1:)
+
+Na podstawie art. 35 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2024 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2024/145/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa wzór formularza opinii służbowej, zwanej dalej „opinią”, oraz szczegółowe zasady i tryb okresowego opiniowania służbowego policjantów, zwanego dalej „opiniowaniem”.
+
+### § 2.
+
+Opiniowanie policjanta, zwanego dalej „opiniowanym”, ma w szczególności:
+
+### 1)
+
+ustalać przydatność policjanta na zajmowanym stanowisku służbowym oraz przydatność do służby;
+
+### 2)
+
+motywować policjanta do sprawnego wykonywania zadań i czynności służbowych;
+
+### 3)
+
+wyłaniać kandydatów do mianowania lub powołania na wyższe stanowisko służbowe oraz na wyższy stopień policyjny;
+
+### 4)
+
+wyznaczać kierunki rozwoju zawodowego i potrzeby szkoleniowe opiniowanego.
+
+### § 3.
+
+### 1.
+
+Opiniowanie przeprowadza się:
+
+### 1)
+
+nie rzadziej niż raz na 12 miesięcy w służbie kandydackiej, przygotowawczej i kontraktowej;
+
+### 2)
+
+nie później niż na 30 dni przed mianowaniem policjanta na stałe, jeżeli od ostatniego opiniowania minęły co najmniej 3 miesiące;
+
+### 3)
+
+nie rzadziej niż:
+
+### a)
+
+raz na 24 miesiące w służbie stałej do osiągnięcia przez policjanta 10 lat służby,
+
+### b)
+
+raz na 36 miesięcy w służbie stałej po osiągnięciu przez policjanta 10 lat służby.
+
+### 2.
+
+Terminy, o których mowa w ust. 1, liczy się od dnia przyjęcia policjanta do służby lub ostatniego opiniowania.
+
+### 3.
+
+Opiniowanie przeprowadza się niezależnie od terminów, o których mowa w ust. 1, w następujących przypadkach:
+
+### 1)
+
+przeniesienia policjanta do innej jednostki organizacyjnej Policji albo mianowania policjanta na stanowisko służbowe w innej komórce organizacyjnej, związanych ze zmianą właściwości wydającego opinię, jeżeli od ostatniego opiniowania minęło co najmniej 6 miesięcy;
+
+### 2)
+
+delegowania policjanta do czasowego pełnienia służby albo powierzenia policjantowi obowiązków służbowych na innym stanowisku, związanych ze zmianą właściwości wydającego opinię, jeżeli okres tego delegowania lub pełnienia obowiązków wyniesie co najmniej 6 miesięcy;
+
+### 3[2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1411), które weszło w życie z dniem 1 sierpnia 2023 r.](#gloss-0:2:))
+
+ukończenia lub przerwania w Akademii Policji w Szczytnie studiów I stopnia o profilu praktycznym na kierunku nauka o Policji, jeżeli od ostatniego opiniowania minęło co najmniej 6 miesięcy.
+
+### 4.
+
+Termin opiniowania policjanta zostaje przesunięty w przypadku, o którym mowa w ust. 3 pkt 2, o okres delegowania lub powierzenia obowiązków służbowych.
+
+### 5.
+
+Termin opiniowania policjanta może zostać przesunięty o okres:
+
+### 1)
+
+zawieszenia w czynnościach służbowych;
+
+### 2)
+
+odbywania szkolenia zawodowego;
+
+### 3)
+
+urlopu macierzyńskiego;
+
+### 3a)
+
+urlopu na warunkach urlopu macierzyńskiego;
+
+### 3b)
+
+urlopu rodzicielskiego;
+
+### 3c)
+
+urlopu ojcowskiego;
+
+### 4)
+
+urlopu wychowawczego;
+
+### 5)
+
+urlopu bezpłatnego;
+
+### 6)
+
+choroby;
+
+### 7)
+
+oddelegowania do pełnienia zadań służbowych poza Policją w kraju lub za granicą;
+
+### 8)
+
+delegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym;
+
+### 9)
+
+zwolnienia z obowiązku wykonywania zadań służbowych, udzielonego na zasadach określonych w przepisach o związkach zawodowych.
+
+### § 4.
+
+### 1.
+
+Przy opiniowaniu bierze się pod uwagę następujące kryteria:
+
+### 1)
+
+realizację zadań i czynności, w tym:
+
+### a)
+
+jakość,
+
+### b)
+
+samodzielność i inicjatywę,
+
+### c)
+
+terminowość,
+
+### d)
+
+planowanie i organizowanie pracy;
+
+### 2)
+
+kompetencje ogólne, w tym:
+
+### a)
+
+rozwój własny i podnoszenie kwalifikacji,
+
+### b)
+
+umiejętność współpracy,
+
+### c)
+
+kulturę osobistą,
+
+### d)
+
+dyspozycyjność;
+
+### 3)
+
+kompetencje kierownicze, w tym:
+
+### a)
+
+dbałość o relacje międzyludzkie,
+
+### b)
+
+radzenie sobie w sytuacjach kryzysowych,
+
+### c)
+
+kreatywność.
+
+### 2.
+
+Kryterium, o którym mowa w ust. 1 pkt 3, bierze się pod uwagę przy opiniowaniu policjanta zajmującego stanowisko kierownicze.
+
+### 3.
+
+Kryteria, o których mowa w ust. 1, ocenia się według opisowej skali ocen. Kryteria oraz opisową skalę ocen określa załącznik nr 1 do rozporządzenia.
+
+### 4.
+
+Wzór formularza opinii określa załącznik nr 2 do rozporządzenia.
+
+### § 5.
+
+Przełożonymi właściwymi do wydania opinii, zwanymi dalej „wydającymi opinię”, są:
+
+### 1[3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1686), które weszło w życie z dniem 1 października 2020 r.](#gloss-0:3:))
+
+minister właściwy do spraw wewnętrznych w stosunku do Komendanta Głównego Policji i Komendanta Biura Spraw Wewnętrznych Policji;
+
+### 2)
+
+Komendant Główny Policji w stosunku do:
+
+### a)
+
+Komendanta Centralnego Biura Śledczego Policji,
+
+### aa[4) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 stycznia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 47), które weszło w życie z dniem 12 stycznia 2022 r.](#gloss-0:4:))
+
+Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,
+
+### b)
+
+komendanta wojewódzkiego (Komendanta Stołecznego) Policji,
+
+### c[5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:))
+
+Komendanta-Rektora Akademii Policji w Szczytnie, komendanta szkoły policyjnej,
+
+### d[6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 767), które weszło w życie z dniem 7 kwietnia 2022 r.](#gloss-0:6:))
+
+Dyrektora Centralnego Laboratorium Kryminalistycznego Policji,
+
+### e)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### f)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji,
+
+### g)
+
+dowódcy Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”,
+
+### h[7) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:7:))
+
+dowódcy kontyngentu policyjnego;
+
+### 3)
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 2 lit. e, w stosunku do podległych mu policjantów;
+
+### 3a)
+
+dowódca Centralnego Pododdziału Kontrterrorystycznego Policji „BOA” w stosunku do podległych mu policjantów;
+
+### 4)
+
+Komendant Centralnego Biura Śledczego Policji w stosunku do:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 5)
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 4 lit. a, w stosunku do podległych mu policjantów;
+
+### 6)
+
+Komendant Biura Spraw Wewnętrznych Policji w stosunku do:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 7)
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 6 lit. a, w stosunku do podległych mu policjantów;
+
+### 7a[8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:8:))
+
+Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 7b[8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:8:))
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 7a lit. a, w stosunku do podległych mu policjantów;
+
+### 8)
+
+komendant wojewódzki (Komendant Stołeczny) Policji w stosunku do:
+
+### a)
+
+komendanta powiatowego (miejskiego) i rejonowego Policji,
+
+### b)
+
+kierownika jednostki organizacyjnej Policji bezpośrednio mu podległej,
+
+### c)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### d)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 9)
+
+kierownik jednostki organizacyjnej Policji oraz kierownik komórki organizacyjnej, o których mowa w pkt 8 lit. b i c, w stosunku do podległych im policjantów;
+
+### 10)
+
+komendant powiatowy (miejski) i rejonowy Policji w stosunku do:
+
+### a)
+
+komendanta komisariatu Policji,
+
+### b)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### c)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 11)
+
+komendant komisariatu Policji oraz kierownik komórki organizacyjnej, o których mowa w pkt 10 lit. a i b, w stosunku do podległych im policjantów;
+
+### 12)
+
+Komendant-Rektor Akademii Policji w Szczytnie oraz komendant szkoły policyjnej w stosunku do:[9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:9:)
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio im podległej,
+
+### b)
+
+policjanta na stanowisku bezpośrednio im podległym lub pozostającego w ich dyspozycji;
+
+### 13)
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 12 lit. a, w stosunku do podległych mu policjantów;
+
+### 13a[10) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:10:))
+
+kierownik komórki organizacyjnej Akademii Policji w Szczytnie właściwej w sprawach dowodzenia, w stosunku do podległych mu policjantów, w tym odbywających w Akademii Policji w Szczytnie studia I stopnia o profilu praktycznym na kierunku nauka o Policji w przypadkach, o których mowa w § 3 ust. 1 pkt 1 i 2 oraz ust. 3 pkt 3;
+
+### 14)
+
+Dyrektor Centralnego Laboratorium Kryminalistycznego Policji w stosunku do:[11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6.](#gloss-0:11:)
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+policjanta na stanowisku bezpośrednio mu podległym lub pozostającego w jego dyspozycji;
+
+### 15)
+
+kierownik komórki organizacyjnej, o którym mowa w pkt 14 lit. a, w stosunku do podległych mu policjantów;
+
+### 16)
+
+właściwy przełożony w miejscu delegowania policjanta lub pełnienia przez policjanta obowiązków służbowych, za okres, o którym mowa w § 3 ust. 3 pkt 2;
+
+### 17[12) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:12:))
+
+dowódca kontyngentu w stosunku do policjanta delegowanego do pełnienia służby poza granicami państwa w kontyngencie policyjnym, za okres delegowania do pełnienia służby poza granicami państwa w kontyngencie policyjnym;
+
+### 18[12) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:12:))
+
+przełożony właściwy w sprawach osobowych, w stosunku do policjanta zwolnionego z obowiązku wykonywania zadań służbowych na zasadach określonych w przepisach o związkach zawodowych, w dyspozycji którego pozostaje policjant.
+
+### § 6.
+
+### 1.
+
+Wydający opinię sporządza ją samodzielnie lub przy pomocy upoważnionych przełożonych opiniowanego.
+
+### 1a[13) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:13:).
+
+Jeżeli okres służby, za który policjant jest opiniowany, obejmuje okres oddelegowania do pełnienia zadań służbowych poza Policją w kraju lub za granicą, przed sporządzeniem opinii Komendant Główny Policji lub upoważniona przez niego osoba z inicjatywy własnej lub wydającego opinię, o którym mowa w § 5 pkt 1 i 3-15, może zwrócić się z wnioskiem, o którym mowa w art. 36ma ustawy z dnia 6 kwietnia 1990 r. o Policji, zwanej dalej „ustawą”.
+
+### 1b[13) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:13:).
+
+We wniosku, o którym mowa w art. 36ma ustawy, wskazuje się wydającego opinię, do którego powinny zostać przesłane informacje, oraz termin ich przekazania - nie krótszy niż 7 dni i nie dłuższy niż 14 dni od dnia wpływu wniosku do urzędu, jednostki organizacyjnej lub służby, do których oddelegowano opiniowanego.
+
+### 2.
+
+Wydający opinię lub upoważniony przez niego przełożony opiniowanego przed sporządzeniem opinii przeprowadza z opiniowanym rozmowę, podczas której omawia:
+
+### 1)
+
+główne obowiązki wykonywane przez opiniowanego w okresie podlegającym ocenie oraz sposób ich realizacji, uwzględniając, czy opiniowany spełnia kryteria, o których mowa w § 4 ust. 1;
+
+### 2)
+
+trudności, jakie napotkał opiniowany w trakcie realizacji zadań;
+
+### 3)
+
+kierunki dalszego rozwoju zawodowego i potrzeby szkoleniowe opiniowanego.
+
+### 2a[14) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:14:).
+
+W przypadku niemożności bezpośredniego przeprowadzenia rozmowy, o której mowa w ust. 2, z opiniowanym dowódcą kontyngentu policyjnego albo policjantem oddelegowanym do pełnienia zadań służbowych poza Policją w kraju lub za granicą rozmowę tę przeprowadza się telefonicznie lub przy wykorzystaniu środków komunikacji elektronicznej.
+
+### 3.
+
+W trakcie rozmowy, o której mowa w ust. 2, opiniowany ocenia samego siebie w zakresie, o którym mowa w § 4 ust. 1, oraz wypełnia w tej części formularz opinii.
+
+### 3a[15) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:15:).
+
+W przypadku, o którym mowa w ust. 2a, w celu dokonania czynności, o której mowa w ust. 3, formularz opinii przesyła się opiniowanemu przy wykorzystaniu środków komunikacji elektronicznej co najmniej 14 dni przed planowaną rozmową, o której mowa w ust. 2a.
+
+### 3b[15) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:15:).
+
+Opiniowany odsyła wydającemu opinię lub upoważnionemu przełożonemu opiniowanego formularz opinii wypełniony w części, o której mowa w ust. 3, przy wykorzystaniu środków komunikacji elektronicznej, co najmniej 7 dni przed planowaną rozmową, o której mowa w ust. 2a.
+
+### 4.
+
+Sporządzenie opinii następuje nie później niż w ciągu 14 dni od rozmowy, o której mowa w ust. 2.
+
+### 5.
+
+Wydający opinię lub upoważniony przez niego przełożony opiniowanego zapoznają opiniowanego z opinią w ciągu 14 dni od jej sporządzenia, podczas rozmowy.
+
+### 6.
+
+Opinię sporządza się w dwóch egzemplarzach. Jeden egzemplarz włącza się do akt osobowych policjanta, a drugi wręcza się opiniowanemu podczas rozmowy, o której mowa w ust. 5. Fakt otrzymania opinii opiniowany potwierdza podpisem. Jeśli opiniowany odmawia złożenia podpisu, jego przełożony, który zapoznaje go z opinią, sporządza stosowną adnotację.
+
+### 7[16) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:16:).
+
+W przypadku niemożności bezpośredniego zapoznania opiniowanego dowódcy kontyngentu policyjnego albo policjanta oddelegowanego do pełnienia zadań służbowych poza Policją w kraju lub za granicą z opinią, o której mowa w ust. 5, i jej osobistego wręczenia opinię tę doręcza się opiniowanemu za pokwitowaniem przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2023 r. poz. 1640](https://api.sejm.gov.pl/eli/acts/DU/2023/1640/text.html) oraz [z 2024 r. poz. 467](https://api.sejm.gov.pl/eli/acts/DU/2024/467/text.html)).
+
+### 8[16) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:16:).
+
+W przypadku, o którym mowa w ust. 7, na wniosek opiniowanego opinia może być doręczona mu przy wykorzystaniu środków komunikacji elektronicznej. Otrzymanie opinii opiniowany potwierdza w oświadczeniu, które może być złożone przy wykorzystaniu środków komunikacji elektronicznej.
+
+### 9[16) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:16:).
+
+Pokwitowanie, o którym mowa w ust. 7, lub oświadczenie, o którym mowa w ust. 8, włącza się do akt osobowych policjanta.
+
+### 10[16) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:16:).
+
+Przepisy ust. 2a, 3a, 3b i 7-9 stosuje się odpowiednio do policjanta odbywającego zagraniczną podróż służbową trwającą dłużej niż miesiąc.
+
+### § 7.
+
+### 1.
+
+Opiniowany może wnieść odwołanie od opinii, za pośrednictwem wydającego opinię, w terminie 14 dni od dnia zapoznania się z opinią.
+
+### 2.
+
+Do rozpatrzenia odwołania właściwi są:
+
+### 1)
+
+minister właściwy do spraw wewnętrznych w stosunku do opinii wydanej przez Komendanta Biura Spraw Wewnętrznych Policji;
+
+### 2)
+
+Komendant Główny Policji w stosunku do opinii wydanej przez:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+Komendanta Centralnego Biura Śledczego Policji,
+
+ba)[17) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:17:) Komendanta Centralnego Biura Zwalczania Cyberprzestępczości,
+
+### c)
+
+komendanta wojewódzkiego (Komendanta Stołecznego) Policji,
+
+### d[18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:18:))
+
+Komendanta-Rektora Akademii Policji w Szczytnie oraz komendanta szkoły policyjnej,
+
+### e[19) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6.](#gloss-0:19:))
+
+Dyrektora Centralnego Laboratorium Kryminalistycznego Policji,
+
+### f)
+
+dowódcę Centralnego Pododdziału Kontrterrorystycznego Policji „BOA”,
+
+### g[20) Dodana przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:20:))
+
+dowódcę kontyngentu policyjnego;
+
+### 3)
+
+Komendant Centralnego Biura Śledczego Policji w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;
+
+### 4)
+
+Komendant Biura Spraw Wewnętrznych Policji w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;
+
+### 4a[21) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:21:))
+
+Komendant Centralnego Biura Zwalczania Cyberprzestępczości w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej;
+
+### 5)
+
+komendant wojewódzki (Komendant Stołeczny) Policji w stosunku do opinii wydanej przez:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio mu podległej,
+
+### b)
+
+kierownika jednostki organizacyjnej Policji bezpośrednio mu podległej,
+
+### c)
+
+komendanta powiatowego (miejskiego) i rejonowego Policji;
+
+### 6)
+
+komendant powiatowy (miejski) i rejonowy Policji w stosunku do opinii wydanej przez:
+
+### a)
+
+kierownika komórki organizacyjnej bezpośrednio im podległej,
+
+### b)
+
+komendanta komisariatu Policji;
+
+### 7[22) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:22:))
+
+Komendant-Rektor Akademii Policji w Szczytnie i komendant szkoły policyjnej w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio im podległej;
+
+### 8[23) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6.](#gloss-0:23:))
+
+Dyrektor Centralnego Laboratorium Kryminalistycznego Policji w stosunku do opinii wydanej przez kierownika komórki organizacyjnej bezpośrednio mu podległej.
+
+### 3[24) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:24:).
+
+Od opinii wydanej przez ministra właściwego do spraw wewnętrznych w stosunku do Komendanta Głównego Policji i Komendanta Biura Spraw Wewnętrznych Policji oraz od opinii wydanej przez Komendanta Głównego Policji w stosunku do policjantów, o których mowa w § 5 pkt 2, odwołanie nie przysługuje.
+
+### 4.
+
+Opiniowany, o którym mowa w § 5 pkt 1 i 2, może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo do Komendanta Głównego Policji z wnioskiem o ponowne rozpatrzenie sprawy; do tego wniosku stosuje się odpowiednio przepisy dotyczące odwołań od opinii.
+
+### § 8.
+
+### 1.
+
+Wydający opinię może uwzględnić odwołanie opiniowanego w całości i wydać nową opinię.
+
+### 2.
+
+Odwołanie, które wydający opinię uzna za nieuzasadnione, przesyła w terminie 7 dni od dnia jego otrzymania przełożonemu właściwemu do rozpatrzenia odwołania, wraz z opinią i pisemnym uzasadnieniem swojego stanowiska w sprawie, a także z kompletem materiałów będących podstawą wydania opinii.
+
+### 3.
+
+Przełożony właściwy do rozpatrzenia odwołania, w terminie 14 dni od dnia wpływu odwołania wraz z materiałami, o których mowa w ust. 2, powołuje komisję do zbadania zaskarżonej opinii. W skład komisji nie może wchodzić przełożony, który wydał opinię, od której wniesiono odwołanie, lub uczestniczył przy jej wydawaniu.
+
+### 4.
+
+Na wniosek opiniowanego zawarty w odwołaniu od opinii przełożony właściwy do rozpatrzenia odwołania zawiadamia o wpływie odwołania wskazaną przez opiniowanego reprezentującą go zakładową organizację związkową. Zakładowa organizacja związkowa może w terminie 5 dni od dnia otrzymania zawiadomienia zgłosić swojego przedstawiciela do składu komisji, o której mowa w ust. 3.
+
+### 5.
+
+Komisja, o której mowa w ust. 3, sporządza sprawozdanie zakończone wnioskiem o uwzględnienie odwołania albo o utrzymanie w mocy zaskarżonej opinii wraz z uzasadnieniem wniosku.
+
+### 6.
+
+Przełożony właściwy do rozpatrzenia odwołania, po zapoznaniu się ze sprawozdaniem komisji:
+
+### 1)
+
+utrzymuje w mocy zaskarżoną opinię albo
+
+### 2)
+
+uchyla zaskarżoną opinię i poleca wydanie nowej opinii, wskazując, jakie okoliczności należy wziąć pod uwagę przy jej wydawaniu.
+
+### 7.
+
+Przełożony właściwy do rozpatrzenia odwołania jest obowiązany podjąć rozstrzygnięcie, o którym mowa w ust. 6, w terminie 60 dni od dnia otrzymania odwołania wraz z materiałami, o których mowa w ust. 2.
+
+### 8.
+
+Opinia, o której mowa w ust. 6 pkt 1, jako ostateczna zostaje włączona do akt osobowych policjanta.
+
+### § 9.
+
+### 1.
+
+Do spraw dotyczących odwołań od opinii, wszczętych i niezakończonych do dnia wejścia w życie rozporządzenia, stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Oceny okresowe sporządzone od wydania ostatniej opinii do dnia wejścia w życie rozporządzenia uwzględnia się przy opiniowaniu.
+
+### § 10.
+
+Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 17 czerwca 2002 r. w sprawie opiniowania służbowego funkcjonariuszy Policji oraz wzoru formularza opinii służbowej ([Dz. U. poz. 890](https://api.sejm.gov.pl/eli/acts/DU/2002/890/text.html) oraz [z 2004 r. poz. 187](https://api.sejm.gov.pl/eli/acts/DU/2004/187/text.html)).
+
+### § 11.
+
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[25) Rozporządzenie zostało ogłoszone w dniu 16 września 2010 r.](#gloss-0:25:).
+
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2708). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 19 lipca 2023 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1411), które weszło w życie z dniem 1 sierpnia 2023 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 30 września 2020 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 1686), które weszło w życie z dniem 1 października 2020 r. 4) Dodana przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 stycznia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 47), które weszło w życie z dniem 12 stycznia 2022 r. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie opiniowania służbowego policjantów (Dz. U. poz. 767), które weszło w życie z dniem 7 kwietnia 2022 r. 7) Dodana przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 9) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 10) W brzmieniu ustalonym przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 11) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 6. 12) Dodany przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 3. 13) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 3. 14) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 15) Dodany przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 16) Dodany przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 3. 17) Dodana przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 19) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 6. 20) Dodana przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 3. 21) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 4. 22) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 23) W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 6. 24) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 3. 25) Rozporządzenie zostało ogłoszone w dniu 16 września 2010 r.
+
+## Załącznik nr 1 - Kryteria oraz opisowa skala ocen
+
+### I.
+
+REALIZACJA ZADAŃ I CZYNNOŚCI
+
+### 1.
+
+Jakość ‒ dbałość o rzetelne i dokładne wykonywanie powierzonych zadań, zgodnie z obowiązującymi wymaganiami, oraz zaangażowanie w ich realizowanie, efektywne wykorzystywanie czasu i nakładu pracy OPISOWA SKALA OCEN OCENA 1 2 Zadania realizuje perfekcyjnie, z uwzględnieniem nakładu pracy oraz czasu właściwego dla danego zadania. Rozumie znaczenie swojej pracy w funkcjonowaniu Policji. 6 Zadania realizuje prawidłowo, z uwzględnieniem nakładu pracy oraz czasu właściwego dla danego zadania. Troszczy się o jakość pracy. Identyfikuje się ze służbą. 5 Zadania realizuje prawidłowo z uwzględnieniem nakładu pracy oraz czasu właściwego dla danego zadania. Nieliczne błędy powodują natychmiastowe działanie zmierzające do ich naprawienia. Troszczy się o jakość pracy. 4 Ma właściwy stosunek do realizowanych zadań służbowych, lecz nie zawsze wykonuje je prawidłowo. Popełnia błędy, które stara się naprawiać. Wymaga kontroli jakości pracy. 3 Mimo właściwego stosunku do realizowanych zadań służbowych wymaga stałego nadzoru i instruktażu. Popełnia liczne błędy, których sam nie potrafi naprawić. Wymaga stałej kontroli jakości pracy. 2 Ma niewłaściwy stosunek do wykonywanych zadań. Mimo nadzoru i instruktażu realizuje zadania na niskim poziomie lub fragmentarycznie, nie wykazuje troski o jakość pracy. 1
+
+### 2.
+
+Samodzielność i inicjatywa ‒ umiejętność działania bez angażowania innych osób oraz konieczności nadzoru przełożonych, zdolność do samodzielnego wyszukiwania i zdobywania informacji, formułowania wniosków i proponowania rozwiązań w celu wykonania zleconego zadania, podejmowanie odpowiedzialności za działania OPISOWA SKALA OCEN OCENA 1 2 Zdolny do efektywnego samodzielnego działania, wykonując złożone, niestandardowe zadania, dobiera właściwe metody i środki, proponuje nowe rozwiązania, które są wykorzystywane przez innych. Cechuje go wysoka odpowiedzialność za siebie i gotowość do podjęcia odpowiedzialności za współpracowników. 6 Samodzielny w działaniu, dobiera metody i środki adekwatne do realizowanych zadań, także niestandardowych, proponuje rozwiązania. Bierze odpowiedzialność za efekty swoich działań. 5 Zdolny do samodzielnego działania, wykonuje zróżnicowane zadania, proponuje rozwiązania. Potrzebuje wsparcia przy niestandardowych zadaniach. Cechuje go odpowiedzialność. 4 Samodzielnie realizuje proste zadania, wymaga nadzoru w trudniejszych. Korzysta z gotowych wzorców rozwiązania. Nie podejmuje inicjatywy w realizacji kolejnych etapów zadania. Na ogół czuje się odpowiedzialny za pracę. 3 Na ogół nie działa samodzielnie, wymaga stałej pomocy. Niechętnie poszukuje informacji. Nie czuje się odpowiedzialny za podejmowane działania. 2 Nie potrafi działać samodzielnie, bez angażowania innych osób. Nie poszukuje informacji. Nie podejmuje działań i odpowiedzialności za nie. 1
+
+### 3.
+
+Terminowość ‒ dbałość o przestrzeganie terminów określonych przepisami dotyczących wykonywanych zadań, wywiązywanie się z zadań w wyznaczonym przez przełożonego terminie, wykonywanie obowiązków bez zbędnej zwłoki OPISOWA SKALA OCEN OCENA 1 2 Zawsze dotrzymuje terminów realizacji lub je wyprzedza. 6 Zawsze dotrzymuje terminów realizacji. 5 Na ogół przestrzega terminów realizacji. 4 Często nie przestrzega terminów realizacji. 3 Na ogół nie przestrzega terminów realizacji. 2 Ignoruje terminy realizacji. 1
+
+### 4.
+
+Planowanie i organizowanie pracy - umiejętność planowania działań, sposobów ich realizacji i organizowania pracy w celu wykonania zadań, ustalanie priorytetów, dostosowanie planów i organizacji pracy do zmieniających się okoliczności, efektywne wykorzystywanie czasu OPISOWA SKALA OCEN OCENA 1 2 Bardzo sprawnie klasyfikuje zadania i prawidłowo ustala kolejność ich realizacji. Posiada umiejętność planowania wariantów złożonych, z uwzględnieniem zmieniających się okoliczności. Tworzy algorytmy do ogólnego stosowania. 6 Sprawnie klasyfikuje zadania i prawidłowo ustala kolejność ich realizacji. Posiada umiejętność planowania wariantowego, z uwzględnieniem zmieniających się okoliczności. 5 Prawidłowo klasyfikuje zadania o zróżnicowanym stopniu trudności i ustala kolejność ich realizacji. Posiada umiejętność prawidłowego planowania własnej pracy adekwatnie do okoliczności. 4 Dość dobra organizacja pracy własnej. Potrafi sklasyfikować zadania i prawidłowo ustalić kolejność realizacji w sprawach prostych. Posiada umiejętność prawidłowego planowania własnej pracy. 3 Poważne trudności w organizacji i planowaniu pracy własnej. Nie potrafi sklasyfikować zadań i prawidłowo ustalić kolejności ich realizacji. Prawidłowo funkcjonuje tylko według znanych schematów. 2 Brak umiejętności lub chęci do organizowania pracy własnej. Nie potrafi sklasyfikować zadań pod względem ich ważności. Ignoruje instruktaże. 1
+
+### II.
+
+KOMPETENCJE OGÓLNE
+
+### 1.
+
+Rozwój własny i podnoszenie kwalifikacji ‒ nastawienie na rozwój własny i podnoszenie kwalifikacji; skłonność do uzupełniania wiedzy, tak aby zawsze posiadać aktualną wiedzę i odpowiednie umiejętności zawodowe. Wykazywanie zainteresowania rozwijaniem swoich kompetencji, w szczególności poprzez samodoskonalenie, kursy i szkolenia, uczenie się od innych OPISOWA SKALA OCEN OCENA 1 2 Rozwój własny jest jego potrzebą priorytetową. Jest autorytetem merytorycznym. Stale aktualizuje wiedzę i dzieli się nią z innymi. Doskonali swoje umiejętności, poszukuje korelacji z innymi dziedzinami wiedzy. Uzyskuje wyróżniające i bardzo dobre wyniki na szkoleniach, kursach i innych formach doskonalenia zawodowego. 6 Rozwój własny jest jego ważną potrzebą. Przyswaja i aktualizuje wiedzę, doskonali swoje umiejętności wymagane na zajmowanym stanowisku i poszukuje korelacji z innymi dziedzinami wiedzy. Uzyskuje bardzo dobre wyniki na szkoleniach, kursach i innych formach doskonalenia zawodowego. 5 Dba o rozwój własny. Przyswaja i aktualizuje wiedzę wymaganą na zajmowanym stanowisku i doskonali umiejętności. Uzyskuje dobre wyniki na szkoleniach, kursach i innych formach doskonalenia zawodowego. 4 Potrzebuje ukierunkowania w rozwoju własnym. Przyswaja minimum wiedzy wymaganej na zajmowanym stanowisku i doskonali umiejętności. Uzyskuje poprawne wyniki na szkoleniach, kursach i innych formach doskonalenia zawodowego. 3 Wymaga ciągłego ukierunkowania w rozwoju własnym. Nie przyswaja minimum wiedzy niezbędnej na zajmowanym stanowisku. Na szkoleniach, kursach i innych formach doskonalenia zawodowego z trudem przyswaja treści programowe, uzyskuje wyniki na poziomie dopuszczającym. 2 Nie dba o rozwój własny. Nie przejawia zainteresowania aktualizowaniem wiedzy niezbędnej do realizacji zadań. Unika uczestnictwa w szkoleniach, kursach i innych formach doskonalenia zawodowego. Nie ukończył szkolenia zawodowego. 1
+
+### 2.
+
+Umiejętność współpracy ‒ zrozumienie celu i korzyści wynikających ze wspólnego realizowania zadań, umiejętność budowania kontaktu, pomoc i doradzanie współpracownikom w razie potrzeby, zgłaszanie konstruktywnych wniosków usprawniających pracę zespołu, aktywne słuchanie innych OPISOWA SKALA OCEN OCENA 1 2 Rozumie cele i korzyści wynikające ze wspólnego realizowania zadań, docenia wkład innych i motywuje ich do wspólnej pracy. Doradza i służy pomocą innym członkom zespołu, chętnie koordynuje pracę zespołu. Jego opinie są cenione przez zespół. 6 Rozumie cele i korzyści wynikające z pracy w zespole. Doradza i służy pomocą pozostałym członkom zespołu. Zgłasza wnioski akceptowane przez wszystkich członków zespołu. Dba o atmosferę pracy w grupie. 5 Rozumie cele i korzyści wynikające z pracy w zespole. Zgłasza wnioski, które czasami są wykorzystywane we wspólnym przebiegu prac. Docenia wkład innych w pracę zespołu, nastawiony na współpracę. 4 Potrafi pracować w zespole i docenia wagę współpracy. Czasami obciąża własnymi zadaniami i czynnościami pozostałych członków zespołu. Nie zgłasza wniosków usprawniających pracę zespołu. 3 Wyraża wolę współpracy w zespole, lecz niewiele wnosi do przebiegu wspólnych prac. Często obciąża własnymi zadaniami i czynnościami pozostałych członków zespołu lub jest bardziej nastawiony na rywalizację niż na współpracę. 2 Nie potrafi współpracować w zespole. Przedkłada własny interes nad interes zespołu. Wykazuje bierność w realizowaniu wspólnych celów. 1
+
+### 3.
+
+Kultura osobista ‒ dbałość o kulturę języka i wygląd zewnętrzny, realizacja funkcji usługowej swojego stanowiska, tworzenie przyjaznej atmosfery, umożliwianie interesantom przedstawienia własnych racji, służenie pomocą OPISOWA SKALA OCEN OCENA 1 2 Uważny i pełen szacunku, taktowny i uczynny. Służy pomocą w stopniu przekraczającym jego obowiązki. Cechuje go bardzo wysoka kultura osobista. Swój styl dopasowuje do charakteru pracy i zajmowanego stanowiska. Stanowi wzór do naśladowania. 6 Bardzo uprzejmy, taktowny i skłonny do daleko idącej pomocy. Cechuje go wysoka kultura osobista. Chwalony przez interesantów. 5 Przyjazny, otwarty, taktowny i chętny do pomocy. Przykłada wagę do kultury języka i wyglądu zewnętrznego. Umożliwia interesantom przedstawianie własnych racji. 4 Poprawna kultura języka i wygląd zewnętrzny. Nie zawsze chętny do pomocy. Zazwyczaj przyjazny, ale często okazuje zniecierpliwienie. 3 Na ogół dba o kulturę języka i wygląd zewnętrzny. Czasami traktuje interesantów w sposób przedmiotowy. Obojętny wobec potrzeb interesantów. 2 Nie dba o kulturę języka i wygląd zewnętrzny. Interesantów traktuje w sposób przedmiotowy. Niechętny do pomocy, lekceważący wobec interesantów. 1
+
+### 4.
+
+Dyspozycyjność ‒ gotowość podejmowania zadań dodatkowych; zdolność realizacji zadań i czynności poza czasem służby OPISOWA SKALA OCEN OCENA 1 2 W pełni dyspozycyjny w czasie i poza czasem służby, często realizuje zadania służbowe w czasie wolnym od służby. 6 W pełni dyspozycyjny w czasie i poza czasem służby, realizuje zadania służbowe w czasie wolnym od służby. 5 Dyspozycyjny w czasie i poza czasem służby, gotowy do realizowania zadań służbowych w czasie wolnym od służby. 4 Na ogół dyspozycyjny w czasie służby, nie zawsze gotowy do realizowania zadań służbowych w czasie wolnym od służby. 3 Na ogół niedyspozycyjny, unika podejmowania i realizacji zadań dodatkowych oraz poza czasem służby. 2 Niedyspozycyjny. Nie podejmuje zadań dodatkowych; niezdolny do realizacji zadań i czynności poza czasem służby. 1
+
+### III.
+
+KOMPETENCJE KIEROWNICZE
+
+### 1.
+
+Dbałość o relacje międzyludzkie ‒ umiejętność tworzenia atmosfery współpracy, inicjowanie działań ukierunkowanych na wspieranie pozytywnych stosunków między pracownikami i rozwiązywanie konfliktów, umiejętność motywowania podwładnych w celu koncentracji na realizacji zadania OPISOWA SKALA OCEN OCENA 1 2 Zaszczepił zespołowi przekonanie o wadze zadań i silną motywację do ich realizacji. Stworzył atmosferę sprzyjającą twórczej realizacji zadań. Rozpoznaje potencjalne źródła konfliktów, zapobiega ich powstawaniu i potrafi je efektywnie rozwiązywać. Posiada bardzo wysoką umiejętność argumentowania, przekonywania, perswazji. 6 Kieruje zespołem, w którym wprowadził dobrą atmosferę pracy. Stosuje efektywne metody motywowania pracowników, skoncentrowane na realizacji celu. Potrafi rozwiązywać konflikty. Posiada wysoką umiejętność argumentowania, przekonywania, perswazji. 5 Wspiera podwładnych i dba o atmosferę pracy, podwładni potrafią pracować zespołowo. Stosuje różne metody motywowania pracowników, skoncentrowane na realizacji celu. Nie stwarza sytuacji konfliktowych. Posiada umiejętność argumentowania, przekonywania, perswazji. 4 Stara się wspierać podwładnych i dbać o atmosferę pracy w zespole. Stosuje sposoby motywowania, które nie zawsze są efektywne, ale na ogół skoncentrowane na realizacji celu. Na ogół nie stwarza sytuacji konfliktowych. 3 Nie potrafi skutecznie wspierać podwładnych. Nie zawsze wykorzystuje możliwości poprawienia atmosfery pracy w zespole. Stosowane sposoby motywowania podwładnych nie są efektywne lub nie są skoncentrowane na realizacji celu. Stwarza sytuacje konfliktowe. 2 Nie daje dobrego przykładu, nie motywuje pracowników. Wprowadza złą atmosferę w zespole, nie wspiera podwładnych w realizacji celu. Prowokuje konflikty. 1
+
+### 2.
+
+Radzenie sobie w sytuacjach kryzysowych ‒ umiejętność dostosowania działań do szybko zmieniających się warunków i sytuacji, stanowczego i zdecydowanego działania skierowanego na rozwiązanie problemu, zachowania się w sytuacjach nietypowych OPISOWA SKALA OCEN OCENA 1 2 Sprawnie dostosowuje działania do zmieniających się warunków. Utrzymuje wysoką jakość pracy w sytuacjach kryzysowych. Potrafi przewidywać potencjalne problemy i minimalizować ich negatywne skutki. 6 Dostosowuje działania do zmieniających się warunków. Utrzymuje jakość pracy w sytuacjach kryzysowych. Wyciąga wnioski i potrafi wykorzystać je w przyszłości. 5 Posiada umiejętność działania w sytuacjach kryzysowych. Działa w sposób zdecydowany, skierowany na rozwiązanie problemu. 4 Posiada skłonność do unikania samodzielnego działania w sytuacjach kryzysowych. Najlepiej działa pod czyimś kierunkiem. 3 Unika samodzielnego działania w sytuacjach kryzysowych. Popełnia błędy w działaniu. 2 W sytuacjach kryzysowych jego działanie się dezorganizuje. Jego błędy powodują nasilenie skutków zdarzenia. 1
+
+### 3.
+
+Kreatywność ‒ umiejętność tworzenia nowych rozwiązań oraz doskonalenia już istniejących; inicjowanie zmian oraz otwartość na nie; poszukiwanie i dostrzeganie obszarów wymagających zmian oraz sygnalizowanie o nich OPISOWA SKALA OCEN OCENA 1 2 Tworzy propozycje rozwiązań przy użyciu różnorodnych środków o strategicznym znaczeniu. Inicjuje i potrafi koordynować działania w obszarach wymagających zmian. 6 Tworzy nowe rozwiązania przy użyciu różnorodnych środków. Inicjuje działanie w obszarach wymagających zmian. 5 Potrafi wykorzystać umiejętności do doskonalenia istniejących rozwiązań. Dostrzega obszary wymagające zmian i sygnalizuje o nich. 4 Wdraża zaproponowane rozwiązania. Nie zawsze dostrzega obszary wymagające zmian. 3 Potrzebuje nadzoru przy wdrażaniu nowych rozwiązań. Przyjmuje istniejący stan rzeczy za najbardziej optymalny, nie dostrzega obszarów wymagających zmian. 2 W sposób zachowawczy i sztywny podchodzi do wdrażania nowych rozwiązań. Nie toleruje zmian. 1
+
+## Załącznik nr 2 - Wzór formularza opinii służbowej
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

@@ -1,0 +1,56 @@
+---
+title: Rozporządzenie Ministra Edukacji Narodowej z dnia 12 czerwca 2019 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego
+address: WDU20190001094
+eli: DU/2019/1094
+publisher: DU
+year: 2019
+pos: 1094
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 12 czerwca 2019 r. zmieniające rozporządzenie w sprawie organizacji roku szkolnego [1) Minister Edukacji Narodowej kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1094 |
+| ISAP | WDU20190001094 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-06-12 |
+| Data wydania | 2019-06-12 |
+| Wejście w życie | 2019-06-13 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1094/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1094) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 22 ust. 2 pkt 7 ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2018 r. poz. 1457](https://api.sejm.gov.pl/eli/acts/DU/2018/1457/text.html), [1560](https://api.sejm.gov.pl/eli/acts/DU/2018/1560/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html) oraz [z 2019 r. poz. 730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [761](https://api.sejm.gov.pl/eli/acts/DU/2019/761/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Edukacji Narodowej i Sportu z dnia 18 kwietnia 2002 r. w sprawie organizacji roku szkolnego ([Dz. U. poz. 432](https://api.sejm.gov.pl/eli/acts/DU/2002/432/text.html), z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. poz. 965 i 1362, z 2004 r. poz. 1716, z 2005 r. poz. 1191, z 2006 r. poz. 250, 595 i 999, z 2010 r. poz. 4 i 1245, z 2011 r. poz. 1754, z 2015 r. poz. 408, z 2016 r. poz. 1335 oraz z 2019 r. poz. 402.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 2 w ust. 1 dodaje się zdanie trzecie w brzmieniu: „ Jeżeli czwartek bezpośrednio poprzedzający najbliższy piątek po dniu 20 czerwca jest dniem ustawowo wolnym od pracy, zajęcia dydaktyczno-wychowawcze kończą się w środę poprzedzającą ten dzień. ” ;
+
+### 2)
+
+w § 3 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+ferie letnie rozpoczynają się w dniu następującym po dniu zakończenia rocznych zajęć dydaktyczno-wychowawczych i kończą się z dniem 31 sierpnia.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1055). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2003 r. poz. 965 i 1362, z 2004 r. poz. 1716, z 2005 r. poz. 1191, z 2006 r. poz. 250, 595 i 999, z 2010 r. poz. 4 i 1245, z 2011 r. poz. 1754, z 2015 r. poz. 408, z 2016 r. poz. 1335 oraz z 2019 r. poz. 402.

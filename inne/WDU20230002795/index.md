@@ -1,0 +1,40 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 22 grudnia 2023 r. zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju
+address: WDU20230002795
+eli: DU/2023/2795
+publisher: DU
+year: 2023
+pos: 2795
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 22 grudnia 2023 r. zmieniające rozporządzenie w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2795 |
+| ISAP | WDU20230002795 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-12-22 |
+| Data wydania | 2023-12-28 |
+| Wejście w życie | 2023-12-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2795/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2795) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 22 § 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2023 r. poz. 2383](https://api.sejm.gov.pl/eli/acts/DU/2023/2383/text.html) i [2760](https://api.sejm.gov.pl/eli/acts/DU/2023/2760/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 16 lipca 2021 r. w sprawie zaniechania poboru podatku dochodowego od dochodów (przychodów) z tytułu umorzenia subwencji finansowej lub finansowania preferencyjnego udzielonych przez Polski Fundusz Rozwoju ([Dz. U. poz. 1316](https://api.sejm.gov.pl/eli/acts/DU/2021/1316/text.html) oraz [z 2022 r. poz. 2706](https://api.sejm.gov.pl/eli/acts/DU/2022/2706/text.html)) w § 2 wyrazy „31 grudnia 2023 r.” zastępuje się wyrazami „31 grudnia 2024 r.”.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).

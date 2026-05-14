@@ -8,11 +8,9 @@ pos: 311
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o grobach cmentarzach wojennych
-
-*USTAWA z dnia 28 marca 1933 r.*
+# Ustawa z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych
 
 | Pole | Wartość |
 |---|---|
@@ -24,113 +22,120 @@ domain: null
 | Data ogłoszenia | 1933-03-28 |
 | Data wydania | 1933-05-30 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330390311) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1933/311/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1933/311/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1933/311) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Grobami wojennymi rozumieniu ustawy są groby miejsca spoczynku:
+Na mocy art. 44 Konstytucji ogłaszam ustawę następującej treści:
 
-- **1)** poległych walkach o niepodległość zjednoczenie Państwa Polskiego;
-- **2)** osób wojskowych, poległych lub zmarłych z powodu działań wojennych, bez względu na narodowość;
-- **3)** sióstr miłosierdzia wszystkich osób, które, wykonując zlecone im czynności przy jakiejkolwiek formacji wojskowej, poległy lub zmarły z powodu działań wojennych;
-- **4)** jeńców wojennych osób internowanych;
-- **5)** uchodźców z 1915 r.;
-- **6)** osób wojskowych cywilnych, bez względu na ich narodowość, które straciły życie wskutek represji okupanta niemieckiego albo sowieckiego od dnia 1 września 1939 r.;
-- **7)** ofiar niemieckich sowieckich obozów, tym cmentarzyska ich prochów;
-- **8)** osób, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
+### Art. 1.
 
-2. Groby rodzinne, chociażby nich były umieszczone zwłoki osób, wymienionych ust. 1, nie są grobami wojennemi.
+### (1)
 
-3. Cmentarzami wojennemi rozumieniu ustawy niniejszej są cmentarze, przeznaczone do chowania zwłok osób, wymienionych ust. 1.
+Grobami wojennemi w rozumieniu ustawy niniejszej są:
 
-4. Groby wojenne zasadniczo powinny być zgrupowane na cmentarzach wojennych.
+### a)
 
-**Art. 1a.** (uchylony)
+groby poległych w walkach o niepodległość i zjednoczenie Państwa Polskiego,
 
-**Art. 3.** (pominięty)
+### b)
 
-**Art. 4.**
+groby osób wojskowych, poległych lub zmarłych z powodu działań wojennych, bez względu na narodowość,
 
-1. Prezesowi Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwanemu dalej „Prezesem Instytutu Pamięci”, przysługuje prawo zarządzenia ekshumacji zwłok z grobu wojennego przeniesienia ich do innego grobu.
+### c)
 
-2. Prezes Instytutu Pamięci wskutek umotywowanej prośby rodziny lub otoczenia osoby pochowanej grobie wojennym bądź prośby instytucji społecznej może zezwolić na ekshumację zwłok z grobu wojennego przeniesienie ich na inne miejsce kraju lub poza granicami Państwa oraz na sprowadzenie zwłok z obcego państwa celem ich pochowania kraju grobie wojennym.
+groby sióstr miłosierdzia i wszystkich osób, które, wykonywając zlecone im czynności przy jakiejkolwiek formacji wojskowej, poległy lub zmarły z powodu działań wojennych,
 
-**Art. 4a.** Od decyzji Prezesa Instytutu Pamięci, o których mowa art. 4, przysługuje odwołanie do Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+### d)
 
-**Art. 5.** Przeprowadzanie robót ziemnych, wznoszenie pomników innych urządzeń na cmentarzach grobach wojennych wymaga zezwolenia wojewody.
+groby jeńców wojennych i osób internowanych,
 
-**Art. 5a.** Zatwierdzanie planów cmentarzy wojennych oraz sprawy dotyczące ogólnego zarządu cmentarzy wojennych, a szczególności sprawy związane z ewidencją, remontem utrzymaniem grobów cmentarzy wojennych oraz sprawy związane z uregulowaniem własności gruntów, zajętych pod cmentarze wojenne, należą do zakresu działania wojewody.
+### e)
 
-**Art. 6.**
+groby uchodźców z 1915 roku.
 
-1. Groby cmentarze wojenne pozostają pod opieką Państwa. Zwierzchni nadzór nad nimi polegający na sprawdzaniu kontrolowaniu działań podległych jednostek pod względem legalności podejmowania tym zakresie decyzji administracyjnych sprawuje minister właściwy do spraw kultury ochrony dziedzictwa narodowego, z zachowaniem uprawnień przysługujących Kościołom innym związkom wyznaniowym oraz wójtom (burmistrzom, prezydentom miast) na podstawie ustawy z dnia 31 stycznia 1959 r. o cmentarzach chowaniu zmarłych (Dz. U. z 2017 r. poz. 912 oraz z 2018 r. poz. 1669) oraz uprawnień przysługujących Prezesowi Instytutu Pamięci na podstawie art. 4 na podstawie ustawy z dnia wojennych są ponoszone ze środków budżetu państwa.
+### (2)
 
-3. Wojewoda może, drodze porozumienia, powierzyć jednostce samorządu terytorialnego obowiązek utrzymania grobów cmentarzy wojennych, z jednoczesnym przekazaniem odpowiednich funduszy, jeżeli jednostka samorządu terytorialnego nie przejmie tego obowiązku bezpłatnie.
+Groby rodzinne, chociażby w nich były umieszczone zwłoki osób, wymienionych w ust. 1, nie są grobami wojennemi.
 
-4. Minister właściwy do spraw kultury ochrony dziedzictwa narodowego może powierzyć fundacjom, stowarzyszeniom instytucjom społecznym, za ich zgodą, obowiązek utrzymania grobów cmentarzy wojennych.
+### (3)
 
-4a. W przypadku, o którym mowa ust. 4, nadzór nad wykonywaniem przez fundacje, stowarzyszenia instytucje społeczne obowiązku utrzymania grobów cmentarzy wojennych sprawuje wojewoda.
+Cmentarzami wojennemi w rozumieniu ustawy niniejszej są cmentarze, przeznaczone do chowania zwłok osób, wymienionych w ust. 1.
 
-4b. Minister właściwy do spraw kultury ochrony dziedzictwa narodowego może przekazywać podmiotom wskazanym ust. 4, jak również jednostkom samorządu terytorialnego, związkom wyznaniowym innym podmiotom sprawującym opiekę nad grobami cmentarzami wojennymi, środki finansowe na wykonywanie zadań związanych z opieką nad grobami cmentarzami wojennymi.
+### (4)
 
-4c. Podmioty, o których mowa ust. 4 4b, mogą ubiegać się o udzielenie dotacji celowej z budżetu państwa na dofinansowanie zadań związanych z opieką nad grobami cmentarzami wojennymi.
+Groby wojenne zasadniczo powinny być zgrupowane na cmentarzach wojennych.
 
-4d. Dotacja na dofinansowanie zadań związanych z opieką nad grobami cmentarzami wojennymi może obejmować nakłady konieczne na:
+### Art. 2.
 
-- **1)** wykonywanie czynności związanych z poszukiwaniem, budową, remontem, przeniesieniem utrzymaniem grobów cmentarzy wojennych;
-- **2)** niezbędne czynności dodatkowe prowadzące do realizacji celów, o których mowa pkt 1;
-- **3)** prowadzenie badań naukowych, ekshumacji badań archeologicznych związanych z grobami cmentarzami wojennymi.
+Groby wojenne bez względu na narodowość i wyznanie osób, w nich pochowanych, oraz formacje, do których osoby te należały, mają być pielęgnowane i otaczane należnym tym miejscom szacunkiem i powagą.
 
-4e. Dotacja może być udzielona wysokości do 50% nakładów koniecznych na wykonanie zadań, o których mowa ust. 4d.
+### Art. 3.
 
-4f. Jeżeli grób lub cmentarz wojenny ma wyjątkową wartość historyczną, szczególności potwierdzoną objęciem go jedną z form ochrony wskazanych art. 7 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków opiece nad zabytkami (Dz. U. z wymagane jest niezwłoczne podjęcie zadań, o których mowa ust. 4d, dotacja może być udzielona wysokości do 100% nakładów koniecznych na wykonanie tych zadań.
+### (1)
 
-4h. Minister właściwy do spraw kultury ochrony dziedzictwa narodowego, po zasięgnięciu opinii właściwego miejscowo wojewody, może udzielić dotacji podmiotom, o których mowa ust. 4 4b, na ich wniosek. Wojewoda wyraża opinię terminie 30 dni od dnia otrzymania pisma ministra właściwego do spraw kultury ochrony dziedzictwa narodowego, którym zwraca się on o wyrażenie opinii.
+Grunty, zajęte przez groby i cmentarze wojenne, jako też grunty, potrzebne do założenia takich cmentarzy i grobów, - z wyjątkiem gruntów cmentarzy wyznaniowych i gminnych - nabywa na własność Skarb Państwa w drodze umowy, bądź też, gdy umowa nie przyjdzie do skutku, na zasadach, określonych w obowiązujących przepisach o wywłaszczeniu nieruchomości na potrzeby urządzeń użyteczności publicznej, a w województwach krakowskiem, lwowskiem, stanisławowskiem i tarnopolskiem, oraz w cieszyńskiej części województwa śląskiego z zastosowaniem ustawy z dnia 18 lutego 1878 r. (Dz. U. P. austr. Nr. 30).
 
-4i. Wniosek o udzielenie dotacji zawiera szczególności:
+### (2)
 
-- **1)** imię, nazwisko, miejsce zamieszkania adres wnioskodawcy lub nazwę, siedzibę adres jednostki organizacyjnej będącej wnioskodawcą;
-- **2)** określenie organu, u którego wnioskodawca ubiega się o udzielenie dotacji;
-- **3)** wskazanie rodzaju zadania wskazanie grobu lub cmentarza wojennego, którego dotyczy wniosek, wraz z danymi adresowymi, o ile dane te można ustalić;
-- **4)** określenie wysokości dotacji, o którą ubiega się wnioskodawca;
-- **5)** harmonogram wykonania zadania;
-- **6)** oświadczenie wnioskodawcy o dysponowaniu zasobami rzeczowymi kadrowymi zapewniającymi prawidłowe wykonanie zadania;
-- **7)** kosztorys całkowitych kosztów wykonania zadania.
+Termin, od którego postanowienie ust. 1 będzie stosowane do gruntów, zajętych w dniu wejścia w życie ustawy niniejszej przez groby i cmentarze wojenne, określi rozporządzenie Ministra Spraw Wewnętrznych, wydane w porozumieniu z Ministrem Skarbu.
 
-4j. Dotacji udziela się na podstawie umowy zawartej przez ministra właściwego do spraw kultury ochrony dziedzictwa narodowego z podmiotami, o których mowa ust. 4 4b.
+### (3)
 
-4k. Umowa o udzielenie dotacji na dofinansowanie zadań, które zostaną wykonane roku złożenia wniosku o udzielenie dotacji lub roku następującym po roku złożenia tego wniosku, zawiera:
+Postanowienie ust. 1 nie ma zastosowania do gruntów, które przed terminem, określonym na podstawie ust. 2, zostaną zwolnione przez przeniesienie grobów bądź cmentarzy na inne miejsce.
 
-- **1)** określenie zakresu planowanego zadania terminu jego wykonania;
-- **2)** wskazanie grobu lub cmentarza wojennego, którego dotyczy umowa;
-- **3)** określenie wysokości udzielonej dotacji oraz terminu trybu jej płatności;
-- **4)** określenie trybu kontroli wykonania umowy;
-- **5)** określenie sposobu rozliczenia dotacji;
-- **6)** określenie warunków sposobu zwrotu niewykorzystanej dotacji albo dotacji wykorzystanej niezgodnie z przeznaczeniem.
-- **2)** wskazanie grobu lub cmentarza wojennego, którego dotyczy umowa;
-- **3)** określenie wysokości dotacji oraz terminu jej płatności;
-- **4)** określenie trybu kontroli wykonania umowy;
-- **5)** określenie sposobu rozliczenia dotacji.
+### Art. 4.
 
-4m. Dotacja może być udzielona na dofinansowanie nakładów koniecznych na zadania związane z opieką nad grobami cmentarzami wojennymi, które zostaną wykonane roku złożenia wniosku o udzielenie dotacji lub roku następującym po roku złożenia tego wniosku.
+### (1)
 
-4n. Wniosek o udzielenie dotacji rozpatruje się terminie 3 miesięcy od dnia jego otrzymania. Przy rozpatrywaniu wniosku o udzielenie dotacji nie mają zastosowania przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096).
+Władzy przysługuje prawo zarządzania ekshumacji zwłok z grobu wojennego i przeniesienia ich do innego grobu.
 
-4o. Dochodzenie przez ministra właściwego do spraw kultury ochrony dziedzictwa narodowego należności wraz z odsetkami wysokości określonej jak dla zaległości podatkowych z tytułu niewykorzystania lub wykorzystania niezgodnie z przeznaczeniem udzielonej dotacji następuje trybie przepisów o postępowaniu egzekucyjnym administracji.
+### (2)
 
-5. Wynagrodzenie partnera prywatnego, z tytułu realizacji zadań publicznych ramach partnerstwa publiczno-prywatnego może całości stanowić zapłata sumy pieniężnej ze środków podmiotu publicznego odpowiedzialnego za wykonywanie tych zadań.
+Władza wskutek umotywowanej prośby rodziny lub otoczenia osoby, pochowanej w grobie wojennym, bądź prośby instytucji społecznej może zezwolić na ekshumację zwłok z grobu wojennego, przeniesienie ich na inne miejsce w kraju lub poza granicami Państwa i na sprowadzenie zwłok z obcego państwa celem pochowania w kraju w grobie wojennym.
 
-**Art. 7.**
+### Art. 5.
 
-1. Bezpośredni dozór nad stanem grobów cmentarzy wojennych sprawują gminy, jeżeli czynności dozoru nie poruczono zrzeszeniom organizacjom społecznym myśl art. 6 ust. 4.
+Przeprowadzenie robót ziemnych, wznoszenie pomników i innych urządzeń na cmentarzach i grobach wojennych wymaga zezwolenia władzy. Zezwolenia władzy wymaga również dokonywanie zdjęć fotograficznych i planów sytuacyjnych cmentarzy wojennych, oraz tych grobów wojennych, które są położone poza obszarem cmentarzy wyznaniowych i gminnych.
 
-2. W razie uszkodzenia grobu lub jakichkolwiek urządzeń na cmentarzu wojennym wójt (burmistrz, prezydent miasta) lub inny podmiot sprawujący opiekę nad grobami cmentarzami wojennymi jest obowiązany zawiadomić o tym wojewodę.
+### Art. 6.
 
-**Art. 8.** (uchylony)
+### (1)
 
-**Art. 9.** Kto naruszy postanowienia art. 4 ust. 2 art. 5 oraz kto zachowuje się na cmentarzu lub grobie wojennym sposób nie licujący z powagą miejsca, jeżeli czyn nie stanowi przestępstwa, podlegającego karze surowszej, ulega drodze ustawy z dnia 31 stycznia 1959 r. o cmentarzach chowaniu zmarłych, z wyjątkiem art. 6.
+Groby i cmentarze wojenne pozostają pod opieką Państwa; zwierzchni nadzór nad niemi sprawuje Minister Spraw Wewnętrznych z zachowaniem uprawnień, przysługujących związkom religijnym i innym wyznaniowym osobom prawnym, jako też zarządom gmin i instytucjom wojskowym w myśl art. 6 ustawy z dnia 17 marca 1932 r. o chowaniu zmarłych i stwierdzaniu przyczyny zgonu ([Dz. U. R. P. Nr 35, poz. 359](https://api.sejm.gov.pl/eli/acts/DU/1932/359/text.html)).
 
-**Art. 11.** (pominięty)
+### (2)
 
-**Art. 12.** Ustawa niniejsza wchodzi życie z dniem ogłoszenia obowiązuje na całym terenie Rzeczypospolitej z tem, że na obszarze województwa śląskiego zamiast przepisów, powołanych art. 6 ust. 1 art. 10, stosuje się odpowiednie przepisy, obowiązujące na tym obszarze.
+Koszty utrzymania grobów i cmentarzy wojennych ponosi Skarb Państwa.
 
+### (3)
+
+Wojewódzka władza administracji ogólnej może poruczyć gminie obowiązek utrzymania grobów i cmentarzy wojennych z jednoczesnem przekazaniem odpowiednich funduszów, o ile gmina nie przyjmie obowiązku tego bezpłatnie.
+
+### (4)
+
+Minister Spraw Wewnętrznych może poruczyć zrzeszeniom i instytucjom społecznym za ich zgodą obowiązek utrzymywania grobów i cmentarzy wojennych.
+
+### Art. 7.
+
+Bezpośredni dozór nad stanem grobów i cmentarzy wojennych sprawują gminy, jeżeli czynności dozoru nie poruczono zrzeszeniom i organizacjom społecznym w myśl art. 6 ust. 4.
+
+### Art. 8.
+
+Minister Spraw Wewnętrznych w porozumieniu z Ministrem Spraw Wojskowych i z Ministrem Opieki Społecznej wyda w drodze rozporządzenia przepisy, określające obowiązki władz i urzędów tak państwowych, jak samorządowych w zakresie utrzymywania i wykonywania opieki i nadzoru nad grobami i cmentarzami wojennemi, jako też właściwość władz w sprawach, przewidzianych w art. 4 i 5.
+
+### Art. 9.
+
+Kto naruszy postanowienia art. 4 ust. 2 i art. 5 oraz kto zachowuje się na cmentarzu lub grobie wojennym w sposób nie licujący z powagą miejsca, jeżeli czyn nie stanowi przestępstwa, podlegającego karze surowszej, ulega w drodze administracyjnej karze aresztu do 6 tygodni i grzywny do 500 zł lub jednej z tych kar.
+
+### Art. 10.
+
+Przepisy ustawy z dnia 17 marca 1932 r. o chowaniu zmarłych i stwierdzaniu przyczyny zgonu ([Dz. U. R. P. Nr 35, poz. 359](https://api.sejm.gov.pl/eli/acts/DU/1932/359/text.html)) stosuje się odpowiednio do grobów i cmentarzy wojennych, jeżeli nie są sprzeczne z postanowieniami ustawy niniejszej.
+
+### Art. 11.
+
+Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrami: Spraw Zagranicznych, Spraw Wojskowych, Skarbu, Opieki Społecznej, Wyznań Religijnych i Oświecenia Publicznego oraz Rolnictwa i Reform Rolnych.
+
+### Art. 12.
+
+Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na całym terenie Rzeczypospolitej z tem, że na obszarze województwa śląskiego zamiast przepisów, powołanych w art. 6 ust. 1 i art. 10, stosuje się odpowiednie przepisy, obowiązujące na tym obszarze.

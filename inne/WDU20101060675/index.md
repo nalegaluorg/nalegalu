@@ -8,11 +8,9 @@ pos: 675
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o wspieraniu rozwoju usług i sieci telekomunikacyjnych
-
-*USTAWA z dnia 7 maja 2010 r.*
+# Ustawa z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 20 grudnia 1996 r. o gospodarce komunalnej, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym oraz ustawę z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1423 +22,2660 @@ domain: null
 | Data ogłoszenia | 2010-05-07 |
 | Data wydania | 2010-06-16 |
 | Ostatnia zmiana | 2026-04-30 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060675) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/675/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/675) |
 
-Art. 62–74. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Działalność w zakresie telekomunikacji jednostek samorządu terytorialnego i podmiotów wykonujących zadania z zakresu użyteczności publicznej oraz zasady dostępu do infrastruktury telekomunikacyjnej i innej infrastruktury technicznej finansowanych ze środków publicznych](#chpt_2) [Rozdział 3 - Łącza telekomunikacyjne w budynkach oraz prawo drogi](#chpt_3) [Rozdział 4 - Odrębna własność elementów infrastruktury telekomunikacyjnej](#chpt_4) [Rozdział 5 - Szczególne zasady lokalizowania inwestycji telekomunikacyjnych](#chpt_5) [Rozdział 6 - Szczególne zasady lokalizowania regionalnych sieci szerokopasmowych](#chpt_6) [Rozdział 7 - Zmiany w przepisach obowiązujących](#chpt_7) [Rozdział 8 - Przepisy przejściowe i końcowe](#chpt_8)
 
-**Art. 1.**
+TOC
 
-1. Ustawa określa:
+## Treść ustawy
 
-- **1)** formy i zasady wspierania inwestycji telekomunikacyjnych, w tym związanych z sieciami szerokopasmowymi;
-- **2)** zasady działalności w zakresie telekomunikacji jednostek samorządu terytorialnego oraz podmiotów wykonujących zadania z zakresu użyteczności publicznej;
-- **3)** zasady zapewnienia dostępu telekomunikacyjnego w zakresie nieuregulowanym ustawą z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252);
-- **3a)** zasady i tryb realizacji działań z zakresu informatyzacji na rzecz państwa dotkniętego konfliktem zbrojnym, podejmowanych w celu zapewnienia ochrony interesów i bezpieczeństwa Rzeczypospolitej Polskiej;
-- **4)** prawa i obowiązki inwestorów, właścicieli, użytkowników wieczystych nieruchomości, osób, którym przysługuje spółdzielcze prawo do lokalu, zarządców nieruchomości oraz lokatorów, w szczególności w zakresie dostępu do nieruchomości, w celu zapewnienia warunków świadczenia usług telekomunikacyjnych;
-- **5)** zasady lokalizowania regionalnych sieci szerokopasmowych oraz innej infrastruktury telekomunikacyjnej.
+### Rozdział 1 Przepisy ogólne
 
-2. Przepisy ustawy nie naruszają przepisów o ochronie konkurencji i konsumentów.
+### Art. 1.
 
-3. Przepisów art. 17–26 nie stosuje się do lokalizowania infrastruktury telekomunikacyjnej w pasach drogowych dróg publicznych.
+### 1.
 
-**Art. 2.**
+Ustawa określa:
 
-1. Użyte w ustawie określenia oznaczają:
+### 1)
 
-- **1)** sieć szerokopasmowa – sieć telekomunikacyjną służącą do zapewnienia szerokopasmowego dostępu do Internetu. Dostęp określa się jako szerokopasmowy, jeżeli wydajność łącza nie jest czynnikiem ograniczającym możliwość uruchomienia aplikacji dostępnych w sieci;
-- **2)** regionalna sieć szerokopasmowa – sieć szerokopasmową lub infrastrukturę telekomunikacyjną realizowaną przez jednostki samorządu terytorialnego, porozumienie, związek lub stowarzyszenie jednostek samorządu terytorialnego, porozumienie komunalne, spółkę kapitałową lub spółdzielnię z udziałem jednostki samorządu terytorialnego, zamawiającego w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) albo przez partnera prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426) w ramach programów operacyjnych;
-- **3)** podmiot wykonujący zadania z zakresu użyteczności publicznej – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której przepisy szczególne przyznają zdolność prawną, zapewniającą infrastrukturę techniczną na potrzeby: poz. 43),
-    - **a)** wytwarzania, przesyłania lub dystrybucji gazu, energii elektrycznej lub ciepła,
-    - **b)** zapewnienia oświetlenia w miejscach, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r.
-    - **c)** zaopatrzenia ludności w wodę, gromadzenia, przesyłania, oczyszczania lub odprowadzania ścieków, ogrzewania, systemów odwodnienia, w tym ciągów drenażowych,
-    - **d)** transportu, w tym linii kolejowych, dróg, portów i lotnisk;
+formy i zasady wspierania inwestycji telekomunikacyjnych, w tym związanych z sieciami szerokopasmowymi;
 
-- **4)** infrastruktura telekomunikacyjna o nieznacznym oddziaływaniu – kanalizację kablową, linię kablową podziemną i nadziemną, punkt dostępu bezprzewodowego o bliskim zasięgu, przenośne wolnostojące maszty antenowe, instalację radiokomunikacyjną wraz z konstrukcją wsporczą do wysokości 5 m, szafy i słupki telekomunikacyjne oraz inne podobne urządzenia i obiekty, a także związany z nimi osprzęt i urządzenia zasilające, jeżeli nie są zaliczone do przedsięwzięć mogących znacząco oddziaływać na środowisko lub nie stanowią przedsięwzięć mogących znacząco oddziaływać na obszary Natura 2000;
-- **5)** infrastruktura krytyczna – infrastrukturę krytyczną w rozumieniu przepisów ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122, z późn. zm. );
-- **6)** infrastruktura techniczna – każdy element infrastruktury lub sieci, który może służyć do umieszczenia w nim lub na nim elementów sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej, nie stając się jednocześnie aktywnym elementem tej sieci telekomunikacyjnej, taki jak rurociągi, kanalizacja, maszty, kanały, komory, studzienki, szafki, budynki i wejścia do budynków, instalacje antenowe, antenowe konstrukcje wsporcze, wieże i słupy, z wyłączeniem:
-    - **a)** kabli, w tym włókien światłowodowych,
-    - **b)** elementów sieci wykorzystywanych do zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi,
-    - **c)** kanałów technologicznych w rozumieniu art. 4 pkt 15a ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889);
+### 2)
 
-- **7)** szybka sieć telekomunikacyjna – sieć telekomunikacyjną zdolną do dostarczania usług szerokopasmowego dostępu do Internetu o przepustowości co najmniej 30 Mb/s;
-- **8)** operator sieci – przedsiębiorcę telekomunikacyjnego lub podmiot wykonujący zadania z zakresu użyteczności publicznej, w tym jednostkę samorządu terytorialnego;
-- **9)** punkt styku – miejsce, w którym znajduje się punkt dystrybucji lub w którym można umieścić taki punkt;
-- **10)** pustostan – niezamieszkały lub nieużytkowany na cele prowadzenia działalności gospodarczej lub rolniczej albo z zakresu działów specjalnych produkcji rolnej, lub na cele publiczne budynek, który:
-    - **a)** nie spełnia warunków technicznych, o których mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418, 1080, 1535, 1673 i 1847), lub
-    - **b)** został wyłączony w całości z użytkowania z uwagi na zły stan techniczny, lub
-    - **c)** jest przewidziany do rozbiórki;
+zasady działalności w zakresie telekomunikacji jednostek samorządu terytorialnego oraz podmiotów wykonujących zadania z zakresu użyteczności publicznej;
 
-- **11)** punkt dostępu bezprzewodowego o bliskim zasięgu – niewielkie urządzenie radiowe o małej mocy, wyposażone w jedną lub więcej anten o krótkim zasięgu i nieznacznym oddziaływaniu na krajobraz, pozwalające użytkownikom uzyskać bezprzewodowy dostęp do sieci telekomunikacyjnej niezależnie od rodzaju tej sieci – ruchomej lub stacjonarnej, posiadające cechy fizyczne i techniczne określone w aktach wykonawczych wydawanych przez Komisję Europejską, o których mowa w art. 57 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/1972 z dnia 11 grudnia 2018 r. ustanawiającej Europejski kodeks łączności elektronicznej (Dz. Urz. UE L 321 z 17.12.2018, str. 36, z późn. zm. );
-- **12)** publiczna infrastruktura techniczna – infrastrukturę techniczną w przestrzeni publicznej, będącą własnością albo będącą w zarządzie jednostek samorządu terytorialnego, jednostek organizacyjnych jednostek samorządu terytorialnego, państwowych osób prawnych, innych państwowych jednostek organizacyjnych oraz podmiotów wykonujących zadania z zakresu użyteczności publicznej z choćby częściowym udziałem Skarbu Państwa w strukturze własnościowej, nadającą się pod względem technicznym do umieszczania w niej lub na niej punktów dostępu bezprzewodowego o bliskim zasięgu lub niezbędną do połączenia takich punktów z siecią telekomunikacyjną, w szczególności: latarnie, konstrukcje wsporcze znaków drogowych, konstrukcje wsporcze sygnalizatorów świetlnych, konstrukcje wsporcze urządzeń bezpieczeństwa ruchu drogowego, tablice i urządzenia reklamowe, a także przystanki kolejowe, autobusowe i tramwajowe oraz stacje kolejowe i stacje metra;
-- **13)** wewnątrzbudynkowa infrastruktura techniczna – infrastrukturę techniczną pomiędzy punktem styku a zakończeniem sieci, a także odcinek kanalizacji kablowej pomiędzy złączem rozgałęźnym poza budynkiem a punktem styku, w przypadku gdy punkt styku znajduje się w budynku.
+### 3)
 
-2. (uchylony)
+zasady dostępu do infrastruktury telekomunikacyjnej, i innej infrastruktury technicznej, finansowanych ze środków publicznych;
 
-#### Rozdział 2 Działalność jednostek samorządu terytorialnego w zakresie telekomunikacji, Fundusz Szerokopasmowy oraz zasady dostępu do infrastruktury technicznej
+### 4)
 
-**Art. 3.**
+prawa i obowiązki inwestorów, właścicieli, użytkowników wieczystych nieruchomości, osób, którym przysługuje spółdzielcze prawo do lokalu, zarządców nieruchomości oraz lokatorów, w szczególności w zakresie dostępu do nieruchomości, w celu zapewnienia warunków świadczenia usług telekomunikacyjnych;
 
-1. Jednostka samorządu terytorialnego może w celu zaspokajania zbiorowych potrzeb wspólnoty samorządowej:
+### 5)
 
-- **1)** budować lub eksploatować sieci telekomunikacyjne i powiązane zasoby oraz nabywać prawa do sieci telekomunikacyjnych i powiązanych zasobów;
-- **2)** dostarczać sieci telekomunikacyjne lub zapewniać dostęp do sieci telekomunikacyjnych lub powiązanych zasobów;
-- **3)** świadczyć, z wykorzystaniem posiadanych sieci telekomunikacyjnych i powiązanych zasobów, usługi na rzecz:
-    - **a)** przedsiębiorców telekomunikacyjnych,
-    - **b)** użytkowników rządowych, o których mowa w art. 2 pkt 87 lit. a, b, d, e oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
-    - **c)** użytkowników końcowych – w zakresie i na warunkach określonych w art. 6 i art. 7.
+zasady lokalizowania regionalnych sieci szerokopasmowych oraz innej infrastruktury telekomunikacyjnej.
 
-1a. Działalność polegająca na budowie sieci telekomunikacyjnych i powiązanych zasobów może być podjęta, jeżeli na danym obszarze:
+### 2.
 
-- **1)** nie istnieją sieci telekomunikacyjne i powiązane zasoby;
-- **2)** istniejące sieci telekomunikacyjne i powiązane zasoby nie są dostępne lub nie odpowiadają zapotrzebowaniu jednostki samorządu terytorialnego.
+Przepisy ustawy nie naruszają przepisów o ochronie konkurencji i konsumentów.
 
-2. Działalność, o której mowa w ust. 1, wykonuje się:
+### Art. 2.
 
-- **1)** przy zachowaniu kompatybilności i połączalności z innymi sieciami telekomunikacyjnymi tworzonymi przez podmioty publiczne lub finansowanymi ze środków publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) oraz przy zagwarantowaniu przedsiębiorcom telekomunikacyjnym, na zasadach równego traktowania, współkorzystania z sieci telekomunikacyjnych i powiązanych zasobów oraz dostępu do nich;
-- **2)** w sposób przejrzysty i niezakłócający rozwoju równoprawnej i skutecznej konkurencji na rynkach telekomunikacyjnych.
+### 1.
 
-3. Przy wykonywaniu działalności, o której mowa w ust. 1, mają zastosowanie przepisy o pomocy publicznej.
+Użyte w ustawie określenia oznaczają:
 
-4. Działalność, o której mowa w ust. 1, należy do zadań własnych o charakterze użyteczności publicznej jednostki samorządu terytorialnego.
+### 1)
 
-5. Jednostka samorządu terytorialnego wykonuje działalność, o której mowa w ust. 1, na podstawie uchwały organu stanowiącego.
+sieć szerokopasmowa - sieć telekomunikacyjną służącą do zapewnienia szerokopasmowego dostępu do Internetu. Dostęp określa się jako szerokopasmowy, jeżeli wydajność łącza nie jest czynnikiem ograniczającym możliwość uruchomienia aplikacji dostępnych w sieci;
 
-6. Informację o podjęciu działalności, o której mowa w ust. 1, ogłasza się w Biuletynie Informacji Publicznej na stronie podmiotowej jednostki samorządu terytorialnego i w siedzibie tej jednostki oraz przekazuje się, w postaci elektronicznej, Prezesowi Urzędu Komunikacji Elektronicznej, zwanemu dalej „Prezesem UKE”. Prezes UKE niezwłocznie ogłasza informację w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Komunikacji Elektronicznej.
+### 2)
 
-7. Informacja, o której mowa w ust. 6, zawiera opis przedsięwzięcia oraz uzasadnienie spełnienia wymagań, o których mowa w ust. 2.
+regionalna sieć szerokopasmowa - sieć szerokopasmową realizowaną przez jednostki samorządu terytorialnego, porozumienie, związek lub stowarzyszenie jednostek samorządu terytorialnego, porozumienie komunalne, fundację, której fundatorem jest jednostka samorządu terytorialnego, spółkę kapitałową lub spółdzielnię z udziałem jednostki samorządu terytorialnego, koncesjobiorcę w rozumieniu ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi ([Dz. U. Nr 19, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2009/101/text.html), [Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html) i [Nr 223, poz. 1778](https://api.sejm.gov.pl/eli/acts/DU/2009/1778/text.html)) albo przez partnera prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym ([Dz. U. z 2009 r. Nr 19, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.html)) w ramach programów operacyjnych;
 
-7a. Jeżeli działalność, o której mowa w ust. 1, polega na świadczeniu przez jednostkę samorządu terytorialnego usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, informacja, o której mowa w ust. 6, zawiera również określenie lokalizacji publicznie dostępnych punktów dostępu do Internetu oraz wskazanie obszaru, na którym jest świadczona usługa za pomocą tych punktów.
+### 3)
 
-7b. Jednostka samorządu terytorialnego aktualizuje informację, o której mowa w ust. 6, oraz informuje Prezesa UKE o:
+podmiot wykonujący zadania z zakresu użyteczności publicznej - przedsiębiorstwo energetyczne w rozumieniu ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2006 r. Nr 89, poz. 625](https://api.sejm.gov.pl/eli/acts/DU/2006/625/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530.](#gloss-0:2:)) prowadzące działalność gospodarczą w zakresie przesyłania, dystrybucji paliw lub energii oraz przedsiębiorstwo wodociągowo-kanalizacyjne w rozumieniu ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków ([Dz. U. z 2006 r. Nr 123, poz. 858](https://api.sejm.gov.pl/eli/acts/DU/2006/858/text.html), z [2007 r. Nr 147, poz. 1033](https://api.sejm.gov.pl/eli/acts/DU/2007/1033/text.html), z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html) oraz z [2010 r. Nr 47, poz. 278](https://api.sejm.gov.pl/eli/acts/DU/2010/278/text.html)), będące jednostkami sektora finansów publicznych lub nadzorowane przez takie jednostki;
 
-- **1)** zmianie lokalizacji publicznie dostępnych punktów dostępu do Internetu lub zmianie obszaru, na którym jest świadczona usługa dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa,
-- **2)** zaprzestaniu świadczenia usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa – w terminie 14 dni odpowiednio od dnia wystąpienia zmiany albo zaprzestania świadczenia tej usługi.
+### 4)
 
-7c. Prezes UKE aktualizuje informację, o której mowa w ust. 6, w odniesieniu do świadczonej usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, w terminie 14 dni od dnia otrzymania informacji, o której mowa w ust. 7b.
+infrastruktura telekomunikacyjna o nieznacznym oddziaływaniu - kanalizację kablową, linię kablową podziemną, instalację radiokomunikacyjną wraz z konstrukcją wsporczą do wysokości 5 m, szafy i słupki telekomunikacyjne oraz inne podobne urządzenia i obiekty, a także związany z nimi osprzęt i urządzenia zasilające, jeżeli nie są zaliczone do przedsięwzięć mogących znacząco oddziaływać na środowisko lub nie stanowią przedsięwzięć mogących znacząco oddziaływać na obszary Natura 2000.
 
-8. Minister właściwy do spraw informatyzacji może, w drodze rozporządzenia, określić wymagania techniczne i eksploatacyjne dla sieci telekomunikacyjnych, o których mowa w ust. 1, w celu zapewnienia wzajemnej kompatybilności i połączalności sieci.
+### 2.
 
-**Art. 3a.**
+Ilekroć w ustawie są używane określenia zdefiniowane w ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554.](#gloss-0:3:)), określenia te należy rozumieć w znaczeniu tam przyjętym.
 
-1. Organ wykonawczy jednostki samorządu terytorialnego może udzielić podmiotom niezaliczanym do sektora finansów publicznych i nieprowadzącym działalności gospodarczej dotacji celowej, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z budżetu jednostki samorządu terytorialnego na finansowanie lub dofinansowanie kosztów inwestycji związanych z zaspokojeniem potrzeb tych podmiotów w zakresie dostępu do szybkiej sieci telekomunikacyjnej w lokalizacji użytkownika końcowego.
+### Rozdział 2 Działalność w zakresie telekomunikacji jednostek samorządu terytorialnego i podmiotów wykonujących zadania z zakresu użyteczności publicznej oraz zasady dostępu do infrastruktury telekomunikacyjnej i innej infrastruktury technicznej finansowanych ze środków publicznych
 
-2. Zasady udzielania dotacji celowej, o której mowa w ust. 1, obejmujące w szczególności kryteria wyboru inwestycji do finansowania lub dofinansowania oraz tryb postępowania w sprawie udzielania tej dotacji i sposób jej rozliczania określa organ stanowiący jednostki samorządu terytorialnego w drodze uchwały.
+### Art. 3.
 
-3. Udzielenie dotacji celowej, o której mowa w ust. 1, następuje na podstawie umowy zawartej przez jednostkę samorządu terytorialnego. Do tej umowy stosuje się odpowiednio art. 221 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### 1.
 
-**Art. 4.**
+Jednostka samorządu terytorialnego może w celu zaspokajania zbiorowych potrzeb wspólnoty samorządowej:
 
-1. Jednostka samorządu terytorialnego może, przed podjęciem działalności, o której mowa w art. 3 ust. 1, wystąpić do Prezesa UKE z wnioskiem o opinię w sprawie wykonywania tej działalności.
+### 1)
 
-2. Wniosek, o którym mowa w ust. 1, zawiera projekt planu określający formę, rodzaj i zakres planowanej działalności oraz opis sytuacji na obszarze tej działalności, w tym:
+budować lub eksploatować infrastrukturę telekomunikacyjną i sieci telekomunikacyjne oraz nabywać prawa do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych;
 
-- **1)** liczbę mieszkańców;
-- **2)** stopień pokrycia zasięgiem sieci telekomunikacyjnych, z podziałem na rodzaje tych sieci;
-- **3)** odsetek mieszkańców korzystających z usług telekomunikacyjnych;
-- **4)** liczbę przedsiębiorców telekomunikacyjnych działających na obszarze danej jednostki samorządu terytorialnego oraz opis zakresu ich działalności telekomunikacyjnej;
-- **5)** inne informacje istotne dla oceny potrzeby podjęcia działalności, o której mowa w art. 3 ust. 1.
+### 2)
 
-3. Prezes UKE przedstawia opinię w terminie 3 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 1.
+dostarczać sieci telekomunikacyjne lub zapewniać dostęp do infrastruktury telekomunikacyjnej;
 
-4. Wniosek, o którym mowa w ust. 1, podlega opłacie. Opłata stanowi dochód budżetu państwa.
+### 3)
 
-5. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Prezesa UKE, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 4, niewyższą niż 5000 zł, uwzględniając skalę przedsięwzięcia oraz rodzaj działalności objętej planem.
+świadczyć, z wykorzystaniem posiadanej infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, usługi na rzecz:
 
-**Art. 5.** Działalność, o której mowa w art. 3 ust. 1, niebędącą działalnością gospodarczą, wykonuje się zgodnie z przepisami ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z tym że prowadzenie tej działalności przez jednostkę samorządu terytorialnego, także w formie niewyodrębnionej w ramach jej osobowości prawnej, jak również w formie porozumienia, związku lub stowarzyszenia jednostek samorządu terytorialnego, fundacji, której fundatorem jest jednostka samorządu terytorialnego, porozumienia komunalnego, spółki kapitałowej lub spółdzielni z udziałem jednostki samorządu terytorialnego, wymaga uzyskania wpisu do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji.
+### a)
 
-**Art. 6.**
+przedsiębiorców telekomunikacyjnych,
 
-1. Działalność, o której mowa w art. 3 ust. 1 pkt 3 lit. c, w szczególności bezpłatna usługa dostępu do Internetu, o której mowa w art. 7, musi być proporcjonalna i niedyskryminująca.
+### b)
 
-2. (uchylony)
+podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5 i 8 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
 
-3. (uchylony)
+### c)
 
-**Art. 7.**
+użytkowników końcowych - w zakresie i na warunkach określonych w art. 6 i 7.
 
-1. Usługa dostępu do Internetu może być świadczona bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, po spełnieniu wymagań, o których mowa w art. 3 ust. 2 i 5 oraz art. 6 ust. 1.
+### 2.
 
-1a. Jednostka samorządu terytorialnego może świadczyć usługę dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa wyłącznie w miejscach publicznych. Przepływność łącza dla tej usługi nie może być niższa niż określona w przepisach wydanych na podstawie ust. 1b.
+Działalność, o której mowa w ust. 1, wykonuje się:
 
-1b. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, minimalną przepływność łącza dla świadczonej przez jednostki samorządu terytorialnego usługi dostępu do Internetu przez publicznie dostępne punkty dostępu do Internetu bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, uwzględniając interes użytkowników końcowych w zakresie efektywnego korzystania z usługi dostępu do Internetu w miejscach publicznych.
+### 1)
 
-2. (uchylony)
+przy zachowaniu kompatybilności i połączalności z innymi sieciami telekomunikacyjnymi tworzonymi przez podmioty publiczne lub finansowanymi ze środków publicznych w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. Nr 157, poz. 1240](https://api.sejm.gov.pl/eli/acts/DU/2009/1240/text.html) oraz z [2010 r. Nr 28, poz. 146](https://api.sejm.gov.pl/eli/acts/DU/2010/146/text.html) i [Nr 96, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2010/620/text.html)) oraz przy zagwarantowaniu przedsiębiorcom telekomunikacyjnym, na zasadach równego traktowania, współkorzystania z infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych oraz dostępu do nich;
 
-3. (uchylony)
+### 2)
 
-4. (uchylony)
+w sposób przejrzysty i niezakłócający rozwoju równoprawnej i skutecznej konkurencji na rynkach telekomunikacyjnych.
 
-5. (uchylony)
+### 3.
 
-**Art. 8.** Jednostka samorządu terytorialnego, powierzając przedsiębiorcy telekomunikacyjnemu wykonywanie działalności, o której mowa w art. 3 ust. 1, w przypadku gdy ze względu na warunki ekonomiczne nie jest możliwe na danym obszarze prowadzenie przez przedsiębiorcę telekomunikacyjnego opłacalnej finansowo działalności telekomunikacyjnej, może:
+Przy wykonywaniu działalności, o której mowa w ust. 1, mają zastosowanie przepisy o pomocy publicznej.
 
-**Art. 9.** Jednostka organizacyjna jednostki samorządu terytorialnego prowadząca działalność, o której mowa w art. 3 ust. 1, jest obowiązana prowadzić ewidencję w sposób umożliwiający odrębne obliczanie kosztów i przychodów, zysków i strat w zakresie budowy oraz nabywania praw do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, a także działalności telekomunikacyjnej.
+### 4.
 
-**Art. 10.** Podmiot, który wykorzystał środki publiczne, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do budowy, przebudowy lub remontu infrastruktury telekomunikacyjnej wykorzystywanej do świadczenia publicznie dostępnych usług telekomunikacyjnych lub publicznej sieci telekomunikacyjnej, lub nabył prawa do takiej infrastruktury lub sieci oraz powiązanych zasobów, z wyłączeniem użytkowników rządowych, o których mowa w art. 2 pkt 87 lit. a, b, d, e oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jest obowiązany prowadzić ewidencję w sposób umożliwiający odrębne obliczanie kosztów i przychodów, zysków i strat w zakresie budowy oraz nabywania praw do infrastruktury telekomunikacyjnej, sieci telekomunikacyjnych oraz powiązanych zasobów, a także działalności telekomunikacyjnej.
+Działalność, o której mowa w ust. 1, należy do zadań własnych o charakterze użyteczności publicznej jednostki samorządu terytorialnego.
 
-**Art. 11.** Organ jednostki samorządu terytorialnego właściwy w sprawach wydawania zezwoleń na zakładanie i przeprowadzanie na nieruchomości infrastruktury telekomunikacyjnej, sprawujący nadzór nad przedsiębiorcą telekomunikacyjnym, zapewni strukturalny rozdział funkcji związanych z wykonywaniem zadań i uprawnień właścicielskich wobec tego przedsiębiorcy telekomunikacyjnego.
+### 5.
 
-**Art. 12.** Operator publicznej sieci telekomunikacyjnej jest obowiązany prowadzić negocjacje w celu zawarcia umowy o dostępie telekomunikacyjnym w zakresie połączenia sieci na uzasadniony wniosek jednostki samorządu terytorialnego.
+Jednostka samorządu terytorialnego wykonuje działalność, o której mowa w ust. 1, na podstawie uchwały organu stanowiącego.
 
-**Art. 13.**
+### 6.
 
-1. Jednostka samorządu terytorialnego jest obowiązana uwzględnić uzasadnione wnioski przedsiębiorców telekomunikacyjnych, użytkowników rządowych, o których mowa w art. 2 pkt 87 lit. a, b, d, e oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, oraz innych jednostek samorządu terytorialnego o zapewnienie im dostępu telekomunikacyjnego, w tym użytkowania elementów sieci telekomunikacyjnej oraz powiązanych zasobów.
+Informację o podjęciu działalności, o której mowa w ust. 1, ogłasza się w Biuletynie Informacji Publicznej na stronie podmiotowej jednostki samorządu terytorialnego i w siedzibie tej jednostki oraz przekazuje się Prezesowi Urzędu Komunikacji Elektronicznej, zwanemu dalej „Prezesem UKE”. Prezes UKE niezwłocznie ogłasza informację w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Komunikacji Elektronicznej.
 
-2. Do zapewnienia dostępu telekomunikacyjnego stosuje się przepisy działu I rozdziału 4 oraz działu III rozdziałów 1 i 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z tym że:
+### 7.
 
-- **1)** jednostka samorządu terytorialnego wykonująca działalność, o której mowa w art. 3 ust. 1, jest obowiązana równo traktować przedsiębiorców telekomunikacyjnych, w szczególności przez oferowanie jednakowych warunków w porównywalnych okolicznościach;
-- **2)** wniosek w sprawie wydania decyzji rozstrzygającej spór dotyczący dostępu telekomunikacyjnego może złożyć każda ze stron sporu, jeżeli w terminie 30 dni od dnia wystąpienia przez jedną ze stron z wnioskiem w sprawie zawarcia umowy o dostępie telekomunikacyjnym taka umowa nie została zawarta.
+Informacja, o której mowa w ust. 6, zawiera opis przedsięwzięcia oraz uzasadnienie spełnienia wymagań, o których mowa w ust. 2.
 
-3. W przypadku uzyskania dostępu telekomunikacyjnego przez przedsiębiorcę telekomunikacyjnego od:
+### 8.
 
-- **1)** jednostki samorządu terytorialnego lub
-- **2)** podmiotu, który zawarł z jednostką samorządu terytorialnego umowę koncesji, w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi, lub umowę o partnerstwie publiczno-prywatnym, w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, w zakresie elementów sieci telekomunikacyjnej, powiązanych zasobów oraz usług i innych elementów objętych dostępem telekomunikacyjnym – obowiązki regulacyjne nałożone na tego przedsiębiorcę telekomunikacyjnego stosuje się, w tym samym zakresie i na tych samych warunkach, do elementów sieci telekomunikacyjnej, powiązanych zasobów oraz usług i innych elementów objętych tym dostępem.
+Minister właściwy do spraw łączności może, w drodze rozporządzenia, określić wymagania techniczne i eksploatacyjne dla sieci telekomunikacyjnych, o których mowa w ust. 1, w celu zapewnienia wzajemnej kompatybilności i połączalności sieci.
 
-4. (uchylony)
+### Art. 4.
 
-**Art. 14.** Przepisy art. 13 nie wyłączają obowiązków jednostek samorządu terytorialnego lub podmiotów, którym zostało powierzone wykonywanie działalności, o której mowa w art. 3 ust. 1, wynikających z przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+### 1.
 
-**Art. 15.**
+Jednostka samorządu terytorialnego może, przed podjęciem działalności, o której mowa w art. 3 ust. 1, wystąpić do Prezesa UKE z wnioskiem o opinię w sprawie wykonywania tej działalności.
 
-1. Jednostki samorządu terytorialnego mogą prowadzić działania mające na celu pobudzenie lub agregację popytu użytkowników na usługi związane z szerokopasmowym dostępem do Internetu, w szczególności edukacyjne i szkoleniowe, polegające na wyposażeniu konsumentów w telekomunikacyjne urządzenia końcowe lub sprzęt komputerowy lub finansowaniu konsumentom kosztu usług telekomunikacyjnych.
+### 2.
 
-2. Organ stanowiący jednostki samorządu terytorialnego określi, w drodze uchwały, warunki i tryb finansowania działalności, o której mowa w ust. 1, ustalając w szczególności warunki kwalifikowania beneficjentów udzielanej pomocy.
+Wniosek, o którym mowa w ust. 1, zawiera projekt planu określający formę, rodzaj i zakres planowanej działalności oraz opis sytuacji na obszarze tej działalności, w tym:
 
-3. Działalność, o której mowa w ust. 1, jest prowadzona w sposób niedyskryminujący, na zasadach przejrzystości i proporcjonalności oraz zmierza do utrzymania neutralności technologicznej.
+### 1)
 
-4. Każde przedsięwzięcie jednostki samorządu terytorialnego podejmowane w zakresie działalności, o której mowa w ust. 1, wymaga uprzedniego ogłoszenia, wraz z jego opisem, w Biuletynie Informacji Publicznej na stronie podmiotowej jednostki samorządu terytorialnego i w siedzibie tej jednostki.
+liczbę mieszkańców;
 
-**Art. 16.**
+### 2)
 
-1. Podmioty wykonujące zadania z zakresu użyteczności publicznej, z zastrzeżeniem ust. 2, mogą:
+stopień pokrycia zasięgiem sieci telekomunikacyjnych, z podziałem na rodzaje tych sieci;
 
-- **1)** budować lub eksploatować infrastrukturę telekomunikacyjną, sieci telekomunikacyjne i powiązane zasoby oraz nabywać prawa do infrastruktury telekomunikacyjnej, sieci telekomunikacyjnych i powiązanych zasobów;
-- **2)** dostarczać sieci telekomunikacyjne lub zapewniać dostęp do infrastruktury telekomunikacyjnej, sieci telekomunikacyjnych oraz powiązanych zasobów;
-- **3)** świadczyć, z wykorzystaniem posiadanej infrastruktury telekomunikacyjnej, sieci telekomunikacyjnych oraz powiązanych zasobów, usługi na rzecz przedsiębiorców telekomunikacyjnych.
+### 3)
 
-2. Operator systemu przesyłowego, operator systemu dystrybucyjnego oraz operator systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, nie mogą nabywać praw do infrastruktury telekomunikacyjnej, budować lub eksploatować tej infrastruktury i sieci telekomunikacyjnych na cele inne niż realizacja zadań określonych dla nich w ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne.
+odsetek mieszkańców korzystających z usług telekomunikacyjnych;
 
-3. Do działalności, o której mowa w ust. 1, stosuje się przepis art. 3 ust. 2 i 3.
+### 4)
 
-**Art. 16a.**
+liczbę przedsiębiorców telekomunikacyjnych działających na obszarze danej jednostki samorządu terytorialnego oraz opis zakresu ich działalności telekomunikacyjnej;
 
-1. Tworzy się Fundusz Szerokopasmowy, zwany dalej „Funduszem”, którego dysponentem jest minister właściwy do spraw informatyzacji.
+### 5)
 
-2. Fundusz jest państwowym funduszem celowym.
+inne informacje istotne dla oceny potrzeby podjęcia działalności, o której mowa w art. 3 ust. 1.
 
-3. Przychodami Funduszu są:
+### 3.
 
-- **1)** wpływy z opłat za prawo do wykorzystywania zasobów numeracji, o których mowa w art. 25 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-- **2)** 15 % wpływów z opłat za prawo do dysponowania częstotliwością, o których mowa w art. 24 ust. 1 ustawy, o której mowa w pkt 1;
-- **3)** wpływy z kar pieniężnych, o których mowa w art. 29d ust. 13 i art. 29q ust. 1 niniejszej ustawy oraz art. 444 ust. 1 i 2 i art. 445 ust. 1 ustawy, o której mowa w pkt 1;
-- **3a)** wpływy z opłat, o których mowa w art. 26 ust. 3 pkt 1 i ust. 4 ustawy, o której mowa w pkt 1;
-- **4)** odsetki od wolnych środków Funduszu przekazanych w zarządzanie na podstawie art. 78d ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **5)** dotacje z budżetu państwa;
-- **6)** środki Funduszu, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. );
-- **7)** środki, o których mowa w art. 331 ust. 9 ustawy, o której mowa w pkt 1;
-- **8)** inne przychody.
+Prezes UKE przedstawia opinię w terminie 3 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 1.
 
-4. Środki Funduszu przeznacza się na:
+### 4.
 
-- **1)** działania wspierające rozwój szybkich sieci telekomunikacyjnych poprzez dofinansowanie lub udzielanie pożyczek na budowę lub przebudowę tych sieci oraz wykonywanie przyłączy telekomunikacyjnych do lokalizacji użytkownika końcowego;
-- **2)** działania mające na celu pobudzenie popytu użytkowników końcowych na usługi związane z szerokopasmowym dostępem do Internetu poprzez dofinansowanie zakupu usług telekomunikacyjnych, zakupu urządzeń multimedialnych oraz organizacji szkoleń rozwijających kompetencje cyfrowe lub udziału w tych szkoleniach;
-- **2a)** koszty utrzymania i uruchomienia systemu, o którym mowa w art. 29j;
-- **2b)** dofinansowanie lub finansowanie funkcjonowania Koordynatora Szerokopasmowego, o którym mowa w art. 29p ust. 1;
-- **2c)** finansowanie lub dofinansowanie zadań operatora Ogólnopolskiej Sieci Edukacyjnej, o których mowa w ustawie z dnia 27 października 2017 r. o Ogólnopolskiej Sieci Edukacyjnej (Dz. U. z 2024 r. poz. 1768);
-- **2d)** wsparcie działania Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662, z 2025 r. poz. 1017 oraz z 2026 r. poz. 252);
-- **2e)** finansowanie lub dofinansowanie świadczeń opieki zdrowotnej w zakresie profilaktyki i leczenia dzieci i młodzieży uzależnionych od technologii cyfrowych, o których mowa w art. 331 ust. 11 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-- **3)** koszty związane z obsługą Funduszu.
+Wniosek, o którym mowa w ust. 1, podlega opłacie. Opłata stanowi dochód budżetu państwa.
 
-4a. Środki Funduszu mogą stanowić przychód Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa. Przekazanie środków następuje w drodze porozumienia.
+### 5.
 
-5. Wsparcia ze środków Funduszu udziela się w drodze otwartego i niedyskryminacyjnego naboru wniosków o udzielenie wsparcia.
+Minister właściwy do spraw łączności, po zasięgnięciu opinii Prezesa UKE, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 4, nie wyższą niż 5 000 zł, uwzględniając skalę przedsięwzięcia oraz rodzaj działalności objętej planem.
 
-6. Warunkiem ubiegania się o wsparcie ze środków Funduszu jest spełnienie wymagań określonych każdorazowo dla danego naboru wniosków o udzielenie wsparcia.
+### Art. 5.
 
-7. Wsparcia ze środków Funduszu udziela się na podstawie umowy zawartej pomiędzy dysponentem Funduszu a beneficjentem.
+Działalność, o której mowa w art. 3 ust. 1, niebędącą działalnością gospodarczą, wykonuje się zgodnie z przepisami ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, z tym że prowadzenie tej działalności przez jednostkę samorządu terytorialnego, także w formie niewyodrębnionej w ramach jej osobowości prawnej, jak również w formie porozumienia, związku lub stowarzyszenia jednostek samorządu terytorialnego, fundacji, której fundatorem jest jednostka samorządu terytorialnego, porozumienia komunalnego, spółki kapitałowej lub spółdzielni z udziałem jednostki samorządu terytorialnego, wymaga uzyskania wpisu do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji.
 
-8. Dysponent Funduszu może, w drodze zarządzenia, powierzyć jednostce organizacyjnej mu podległej lub przez niego nadzorowanej wykonywanie w jego imieniu zadań w zakresie udzielania wsparcia lub obsługi Funduszu, w szczególności dysponowanie rachunkiem Funduszu, prowadzenie naborów wniosków o udzielenie wsparcia, zawieranie umów o udzielenie wsparcia, dokonywanie wypłat z rachunku Funduszu na rzecz beneficjentów, kontrolowanie i rozliczanie udzielonego wsparcia oraz dochodzenie zwrotu środków Funduszu.
+### Art. 6.
 
-9. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowe warunki i tryb udzielania wsparcia ze środków Funduszu, mając na uwadze przeznaczenie środków Funduszu i racjonalne gospodarowanie tymi środkami.
+### 1.
 
-**Art. 16b.**
+Działalność, o której mowa w art. 3 ust. 1 pkt 3 lit. c, w szczególności bezpłatna usługa dostępu do Internetu, o której mowa w art. 7, może być wykonywana, jeżeli nie jest zaspokojone zapotrzebowanie użytkowników końcowych w zakresie dostępu do usług telekomunikacyjnych. Działalność taka musi być proporcjonalna i niedyskryminująca.
 
-1. Minister właściwy do spraw informatyzacji, w celu zapewnienia ochrony interesów i bezpieczeństwa Rzeczypospolitej Polskiej, może realizować zadania z zakresu informatyzacji na rzecz innego państwa dotkniętego konfliktem zbrojnym.
+### 2.
 
-2. Zadania, o których mowa w ust. 1, mogą być realizowane na terytorium Rzeczypospolitej Polskiej lub na terytorium państwa, o którym mowa w ust. 1.
+Wymagań, o których mowa w ust. 1, nie stosuje się w przypadku świadczenia usług telekomunikacyjnych na potrzeby organów administracji publicznej, państwowych lub samorządowych jednostek organizacyjnych oraz innych podmiotów publicznych, a także w przypadku usług telekomunikacyjnych świadczonych wyłącznie w miejscach publicznych przez publicznie dostępne punkty dostępu do Internetu.
 
-3. Realizacja zadań, o których mowa w ust. 1, następuje na wniosek państwa, o którym mowa w ust. 1, po uzyskaniu opinii ministra właściwego do spraw zagranicznych i Ministra Obrony Narodowej.
+### 3.
 
-4. Realizację zadań, o których mowa w ust. 1, minister właściwy do spraw informatyzacji może zlecić jednostkom nadzorowanym.
+Informacja, o której mowa w art. 3 ust. 6, w odniesieniu do przedsięwzięć obejmujących świadczenie użytkownikom końcowym usług, o których mowa w ust. 1, dodatkowo zawiera uzasadnienie spełnienia wymagań, o których mowa w ust. 1.
 
-5. W przypadku, o którym mowa w ust. 4, na realizację zadań, o których mowa w ust. 1, jednostki nadzorowane mogą otrzymać dotacje celowe. Tryb oraz zasady udzielania i rozliczania dotacji celowych określa ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### Art. 7.
 
-6. Realizacja zadań, o których mowa w ust. 1, jest finansowana z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw informatyzacji.
+### 1.
 
-**Art. 17.**
+Usługa dostępu do Internetu może być świadczona bez pobierania opłat lub w zamian za opłatę niższą niż cena rynkowa, po spełnieniu wymagań, o których mowa w art. 3 ust. 2 i 5 oraz art. 6 ust. 1, i uzyskaniu zgody Prezesa UKE, wydanej w drodze decyzji.
 
-1. Operator sieci zapewnia przedsiębiorcom telekomunikacyjnym dostęp telekomunikacyjny do infrastruktury technicznej, w tym współkorzystanie z niej, w celu realizacji szybkiej sieci telekomunikacyjnej lub powiązanych zasobów.
+### 2.
 
-1a. Do dostępu telekomunikacyjnego do publicznej infrastruktury technicznej w celu umieszczania w niej lub na niej punktów dostępu bezprzewodowego o bliskim zasięgu stosuje się przepisy dotyczące infrastruktury technicznej. W przypadku, o którym mowa w zdaniu pierwszym, przepisy dotyczące operatora sieci stosuje się do właściciela lub zarządcy publicznej infrastruktury technicznej.
+Prezes UKE udziela zgody, o której mowa w ust. 1, jeżeli zostały spełnione wymagania określone w art. 3 ust. 2 i 5 lub art. 6 ust. 1.
 
-2. Dostęp telekomunikacyjny do infrastruktury technicznej, o którym mowa w ust. 1, jest odpłatny, chyba że:
+### 3.
 
-- **1)** strony umowy postanowią inaczej lub
-- **2)** dotyczy on publicznej infrastruktury technicznej i jest realizowany w celu umieszczania w niej lub na niej punktów dostępu bezprzewodowego o bliskim zasięgu.
+Prezes UKE, w decyzji, o której mowa w ust. 1, określa zakres i warunki świadczenia użytkownikom końcowym usług, o których mowa w ust. 1, biorąc pod uwagę:
 
-**Art. 18.**
+### 1)
 
-1. (uchylony)
+interes użytkowników końcowych, w szczególności konieczność przeciwdziałania wykluczeniu cyfrowemu i zapewnienia maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości;
 
-2. Prezes UKE może wezwać operatora sieci do przedstawienia informacji w sprawie warunków zapewnienia dostępu do infrastruktury technicznej.
+### 2)
 
-3. Po przedstawieniu przez operatora sieci informacji w sprawie warunków zapewnienia dostępu telekomunikacyjnego do infrastruktury technicznej Prezes UKE może, w drodze decyzji, określić obiektywne, przejrzyste, proporcjonalne i niedyskryminacyjne warunki, na jakich powinien być zapewniany dostęp do infrastruktury technicznej. Przepisy art. 22 ust. 1–4 stosuje się odpowiednio.
+sytuację na lokalnym rynku usług, które mają być świadczone;
 
-4. Decyzję w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej wydaje się w uzgodnieniu z:
+### 3)
 
-- **1)** Prezesem Urzędu Regulacji Energetyki, zwanym dalej „Prezesem URE” – w odniesieniu do przedsiębiorstw energetycznych;
-- **2)** Prezesem Urzędu Transportu Kolejowego, zwanym dalej „Prezesem UTK” – w odniesieniu do przedsiębiorstw zapewniających infrastrukturę techniczną na potrzeby transportu kolejowego.
+tworzenie warunków efektywnego inwestowania w infrastrukturę telekomunikacyjną przez przedsiębiorców telekomunikacyjnych;
 
-4a. Uzgodnienie, o którym mowa w ust. 4, nie obejmuje finansowych warunków współpracy. W tym zakresie podmioty, o których mowa w ust. 4, przedstawiają opinię.
+### 4)
 
-5. Niezajęcie stanowiska przez podmioty, o których mowa w ust. 4, w terminie 30 dni od dnia przedstawienia projektu decyzji w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej, uznaje się za brak zastrzeżeń do projektu w zakresie podlegającym uzgodnieniu.
+wymagania, o których mowa w art. 3 ust. 2 oraz art. 6 ust. 1.
 
-5a. Niewydanie opinii, o której mowa w ust. 4a zdanie drugie, w terminie 30 dni od dnia przedstawienia projektu decyzji w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej, uznaje się za brak zastrzeżeń do projektu w zakresie finansowych warunków współpracy.
+### 4.
 
-6. Operator sieci, któremu wydano decyzję w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej, jest obowiązany do zawierania umów o dostęp do infrastruktury technicznej na warunkach niegorszych niż określone w tej decyzji.
+Decyzja, o której mowa w ust. 1, określa:
 
-7. Operator sieci, któremu wydano decyzję w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej, zamieszcza na swojej stronie internetowej aktualne warunki zapewnienia tego dostępu.
+### 1)
 
-8. Operator sieci, któremu wydano decyzję w sprawie określenia warunków dostępu do infrastruktury technicznej, przekazuje Prezesowi UKE informację o adresie swojej strony internetowej w terminie 7 dni od dnia zamieszczenia na niej warunków zapewniania tego dostępu. Informacja o adresie strony internetowej jest udostępniana przez punkt informacyjny do spraw telekomunikacji dla terytorium Rzeczypospolitej Polskiej, zwany dalej „punktem informacyjnym do spraw telekomunikacji”.
+obszar, którego dotyczy działalność;
 
-9. Prezes UKE może zmienić decyzję w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej:
+### 2)
 
-- **1)** na wniosek operatora sieci, któremu tę decyzję wydano;
-- **2)** z urzędu w przypadkach uzasadnionych potrzebą zapewnienia ochrony interesów odbiorców usług świadczonych przez podmioty wykonujące zadania z zakresu użyteczności publicznej lub użytkowników końcowych lub zapewnienia ochrony skutecznej konkurencji.
+maksymalną przepływność łącza;
 
-10. W postępowaniu w sprawie zmiany decyzji w sprawie określenia warunków zapewnienia dostępu do infrastruktury technicznej przepisy ust. 2–5a stosuje się odpowiednio.
+### 3)
 
-11. Prezes UKE przed wydaniem decyzji, o której mowa w ust. 3, przeprowadza postępowanie konsultacyjne. Przepisy działu I rozdziału 4 oddziału 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej stosuje się.
+warunki świadczenia usługi dostępu do Internetu, w tym maksymalny czas, po upływie którego następuje zakończenie połączenia.
 
-**Art. 19.**
+### 5.
 
-1. Operator sieci jest obowiązany prowadzić negocjacje w sprawie zawarcia umowy o dostępie do infrastruktury technicznej, na wniosek przedsiębiorcy telekomunikacyjnego.
+Decyzja, o której mowa w ust. 1, jest rozstrzygnięciem w sprawie, o której mowa w art. 15 pkt 4 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
 
-2. (uchylony) 2a. W razie niemożności doręczenia pisma w toku negocjacji w sprawie zawarcia umowy o dostępie do infrastruktury technicznej stosuje się przepisy art. 139 § 1–2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+### Art. 8.
 
-3. Wniosek o dostęp do infrastruktury technicznej określa elementy szybkiej sieci telekomunikacyjnej wraz z infrastrukturą telekomunikacyjną, planowane do realizacji, wraz ze wstępnym harmonogramem ich realizacji.
+Jednostka samorządu terytorialnego, powierzając przedsiębiorcy telekomunikacyjnemu wykonywanie działalności, o której mowa w art. 3 ust. 1, w przypadku gdy ze względu na warunki ekonomiczne nie jest możliwe na danym obszarze prowadzenie przez przedsiębiorcę telekomunikacyjnego opłacalnej finansowo działalności telekomunikacyjnej, może:
 
-4. Operator sieci może odmówić przedsiębiorcy telekomunikacyjnemu dostępu do infrastruktury technicznej, jeżeli:
+### 1)
 
-- **1)** umieszczenie elementów szybkiej sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej w infrastrukturze technicznej objętej wnioskiem nie jest możliwe ze względów technicznych;
-- **2)** nie ma dostępnej przestrzeni do umieszczenia elementów szybkiej sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej, z uwzględnieniem przyszłego zapotrzebowania operatora sieci na miejsce w infrastrukturze technicznej objętej wnioskiem, co wynika z przedstawionego przez operatora sieci harmonogramu planowanej do realizacji inwestycji obejmującej pozostałe miejsca w infrastrukturze technicznej;
-- **3)** nie jest możliwe wykorzystanie infrastruktury technicznej ze względu na bezpieczeństwo publiczne, zdrowie publiczne, integralność i bezpieczeństwo sieci, w szczególności infrastruktury krytycznej;
-- **4)** planowane usługi telekomunikacyjne mogą spowodować poważne zakłócenia w świadczeniu innych usług za pośrednictwem tej samej infrastruktury technicznej;
-- **5)** zapewnia przedsiębiorcy telekomunikacyjnemu inny niż określony we wniosku skuteczny dostęp do sieci i powiązanych zasobów, w szczególności do włókna światłowodowego, który:
-    - **a)** spełnia potrzeby przedsiębiorcy telekomunikacyjnego w zakresie zapewnienia szybkich sieci telekomunikacyjnych oraz infrastruktury telekomunikacyjnej,
-    - **b)** jest oferowany na warunkach niezakłócających uczciwej konkurencji.
+udostępnić przedsiębiorcy telekomunikacyjnemu infrastrukturę lub sieci telekomunikacyjne w zamian za opłaty niższe niż koszt wytworzenia;
 
-5. Operator sieci jest obowiązany przedstawić wnioskodawcy szczegółowo uzasadnione przyczyny odmowy dostępu do infrastruktury technicznej niepóźniej niż w terminie 60 dni od dnia otrzymania wniosku.
+### 2)
 
-**Art. 20.** (uchylony)
+współfinansować koszty ponoszone z tytułu świadczenia usług telekomunikacyjnych użytkownikom końcowym lub przedsiębiorcom telekomunikacyjnym na potrzeby świadczenia tych usług.
 
-**Art. 21.** (uchylony)
+### Art. 9.
 
-**Art. 22.**
+Jednostka organizacyjna jednostki samorządu terytorialnego prowadząca działalność, o której mowa w art. 3 ust. 1, jest obowiązana prowadzić ewidencję w sposób umożliwiający odrębne obliczanie kosztów i przychodów, zysków i strat w zakresie budowy oraz nabywania praw do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, a także działalności telekomunikacyjnej.
 
-1. Do zapewnienia dostępu do infrastruktury technicznej przez operatora sieci stosuje się przepisy działu III rozdziału 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z uwzględnieniem ust. 2–4, 6–7a, 9 i 10.
+### Art. 10.
 
-2. Prezes UKE wydając decyzję rozstrzygającą spór dotyczący dostępu do infrastruktury technicznej przedsiębiorcy telekomunikacyjnego, bierze pod uwagę, aby opłaty z tytułu dostępu umożliwiały zwrot poniesionych przez przedsiębiorcę telekomunikacyjnego kosztów oraz uwzględniały wpływ zapewnienia tego dostępu na plan biznesowy tego przedsiębiorcy telekomunikacyjnego, w szczególności na realizowane przez niego inwestycje dotyczące szybkich sieci telekomunikacyjnych oraz powiązanych zasobów.
+Podmiot, który wykorzystał środki publiczne, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do budowy, przebudowy lub remontu infrastruktury telekomunikacyjnej wykorzystywanej do świadczenia publicznie dostępnych usług telekomunikacyjnych lub publicznej sieci telekomunikacyjnej lub nabył prawa do takiej infrastruktury lub sieci, z wyłączeniem podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5 i 8 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, jest obowiązany prowadzić ewidencję w sposób umożliwiający odrębne obliczanie kosztów i przychodów, zysków i strat w zakresie budowy oraz nabywania praw do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, a także działalności telekomunikacyjnej.
 
-3. Opłaty z tytułu dostępu do infrastruktury technicznej podmiotu wykonującego zadania z zakresu użyteczności publicznej określa się w wysokości, która umożliwia zwrot części kosztów, które ponosi ten podmiot w związku z utrzymaniem tej infrastruktury.
+### Art. 11.
 
-4. Operator sieci, w terminie 14 dni od dnia otrzymania zawiadomienia o wszczęciu postępowania w sprawie wydania decyzji rozstrzygającej spór dotyczący dostępu do infrastruktury technicznej, przedstawia Prezesowi UKE uzasadnienie wysokości opłat z tytułu dostępu do infrastruktury technicznej, w którym uwzględnia kryteria, o których mowa w ust. 2 lub 3.
+Organ jednostki samorządu terytorialnego właściwy w sprawach wydawania zezwoleń na zakładanie i przeprowadzanie na nieruchomości infrastruktury telekomunikacyjnej, sprawujący nadzór nad przedsiębiorcą telekomunikacyjnym, zapewni strukturalny rozdział funkcji związanych z wykonywaniem zadań i uprawnień właścicielskich wobec tego przedsiębiorcy telekomunikacyjnego.
 
-5. (uchylony)
+### Art. 12.
 
-6. Decyzję w sprawie dostępu do infrastruktury technicznej wydaje się w uzgodnieniu z:
+Operator publicznej sieci telekomunikacyjnej jest obowiązany uwzględnić uzasadnione wnioski jednostki samorządu terytorialnego o zapewnienie dostępu telekomunikacyjnego, w tym użytkowania elementów sieci oraz udogodnień towarzyszących, zgodnie z przepisami działu II rozdział 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
 
-- **1)** Prezesem URE – w odniesieniu do przedsiębiorstw energetycznych;
-- **2)** Prezesem UTK – w odniesieniu do przedsiębiorstw zapewniających infrastrukturę techniczną na potrzeby transportu kolejowego.
+### Art. 13.
 
-6a. Uzgodnienie, o którym mowa w ust. 6, nie obejmuje finansowych warunków współpracy. W tym zakresie podmioty, o których mowa w ust. 6, przedstawiają opinię.
+### 1.
 
-7. Niezajęcie stanowiska przez podmioty, o których mowa w ust. 6, w terminie 30 dni od dnia przedstawienia projektu decyzji w sprawie dostępu do infrastruktury technicznej, uznaje się za brak zastrzeżeń do projektu w zakresie podlegającym uzgodnieniu.
+Jednostka samorządu terytorialnego jest obowiązana uwzględnić uzasadnione wnioski przedsiębiorców telekomunikacyjnych, podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5 i 8 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne oraz innych jednostek samorządu terytorialnego, o zapewnienie im dostępu telekomunikacyjnego, w tym użytkowania elementów sieci oraz udogodnień towarzyszących.
 
-7a. Niewydanie opinii, o której mowa w ust. 6a zdanie drugie, w terminie 30 dni od dnia przedstawienia projektu decyzji w sprawie dostępu do infrastruktury technicznej, uznaje się za brak zastrzeżeń do projektu w zakresie finansowych warunków współpracy.
+### 2.
 
-8. (uchylony)
+Do zapewnienia dostępu telekomunikacyjnego stosuje się odpowiednio przepisy działu II rozdział 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, z tym że:
 
-9. Prezes UKE może, w drodze decyzji, zmienić umowę o dostępie do infrastruktury technicznej lub decyzję, o której mowa w art. 182 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, dotyczącą infrastruktury technicznej, również w przypadkach uzasadnionych potrzebą zapewnienia ochrony interesów odbiorców usług świadczonych przez podmioty wykonujące zadania z zakresu użyteczności publicznej.
+### 1)
 
-10. W postępowaniu w sprawie zmiany decyzji w sprawie dostępu do infrastruktury technicznej przepisy ust. 1–4 oraz 6–7a stosuje się odpowiednio.
+jednostka samorządu terytorialnego wykonująca działalność, o której mowa w art. 3 ust. 1:
 
-**Art. 23.** (uchylony)
+### a)
 
-**Art. 24.**
+jest traktowana jak operator o znaczącej pozycji rynkowej,
 
-1. Do umowy o dostępie do infrastruktury technicznej stosuje się przepis art. 175 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z tym zastrzeżeniem, że umowa jest przekazywana przez operatora sieci zobowiązanego do zapewnienia dostępu.
+### b)
 
-2. (uchylony)
+jest obowiązana zawrzeć umowę o dostępie telekomunikacyjnym w terminie 30 dni od dnia wystąpienia o jej zawarcie,
 
-3. (uchylony)
+### c)
 
-4. (uchylony)
+jest obowiązana równo traktować przedsiębiorców telekomunikacyjnych, w szczególności przez oferowanie jednakowych warunków w porównywalnych okolicznościach;
 
-**Art. 24a.** (uchylony)
+### 2)
 
-**Art. 25.** Podmiot wykonujący zadania z zakresu użyteczności publicznej jest obowiązany prowadzić ewidencję w sposób umożliwiający odrębne obliczenie kosztów, przychodów, zysków i strat w zakresie swojej podstawowej działalności oraz działalności, o której mowa w art. 16 ust. 1, a także dostępu do infrastruktury technicznej.
+do decyzji o dostępie telekomunikacyjnym stosuje się przepisy działu I rozdział 3 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
 
-**Art. 25a.**
+### 3.
 
-1. W celu umożliwienia przedsiębiorcy telekomunikacyjnemu ubiegania się o dostęp do infrastruktury technicznej operator sieci jest obowiązany udostępnić mu informacje dotyczące tej infrastruktury na obszarze, na którym przedsiębiorca ten planuje realizować szybką sieć telekomunikacyjną wraz z infrastrukturą telekomunikacyjną.
+W przypadku uzyskania przez przedsiębiorcę telekomunikacyjnego:
 
-2. Informacje, o których mowa w ust. 1, obejmują:
+### 1)
 
-- **1)** lokalizację, w tym przebieg infrastruktury technicznej;
-- **2)** charakterystykę i aktualny sposób użytkowania infrastruktury technicznej;
-- **3)** dane kontaktowe operatora sieci w sprawach dostępu do infrastruktury technicznej.
+dostępu telekomunikacyjnego, w szczególności do urządzeń telekomunikacyjnych, budynków i infrastruktury telekomunikacyjnej, lub
 
-3. W celu uzyskania informacji, o których mowa w ust. 1, przedsiębiorca telekomunikacyjny składa do operatora sieci wniosek w formie pisemnej lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160), w którym określa obszar, na którym planuje realizować szybką sieć telekomunikacyjną wraz z infrastrukturą telekomunikacyjną.
+### 2)
 
-4. Operator sieci udostępnia informacje, o których mowa w ust. 1, niezwłocznie, niepóźniej jednak niż w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+możliwości współkorzystania z budynków i infrastruktury telekomunikacyjnej
 
-5. Operator sieci może odmówić udostępnienia informacji, o których mowa w ust. 1, w zakresie, w jakim:
+- obowiązki regulacyjne nałożone na tego przedsiębiorcę telekomunikacyjnego stosuje się w tym samym zakresie i na tych samych warunkach do urządzeń, budynków, infrastruktury, udogodnień, usług i innych elementów objętych dostępem telekomunikacyjnym lub współkorzystaniem.
 
-- **1)** są one dostępne za pośrednictwem punktu informacyjnego do spraw telekomunikacji;
-- **2)** jest to niezbędne ze względu na bezpieczeństwo i integralność infrastruktury technicznej, zdrowie publiczne, obronność, bezpieczeństwo państwa, bezpieczeństwo i porządek publiczny lub ochronę tajemnicy przedsiębiorstwa, z zastrzeżeniem art. 29 ust. 6b.
+### 4.
 
-6. W przypadku odmowy udostępnienia informacji, o których mowa w ust. 1, operator sieci jest obowiązany przedstawić przedsiębiorcy telekomunikacyjnemu w formie pisemnej lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, szczegółowo uzasadnione przyczyny swojej odmowy.
+Postanowienia ust. 3 stosuje się wyłącznie w zakresie, w jakim przedsiębiorca telekomunikacyjny, na którego nałożono obowiązki regulacyjne, uzyskał dostęp telekomunikacyjny lub możliwość współkorzystania z budynków i infrastruktury telekomunikacyjnej od:
 
-7. W przypadku gdy operator sieci odmówił udostępnienia informacji, o których mowa w ust. 1, ze względu na ochronę tajemnicy przedsiębiorstwa, Prezes UKE w decyzji, o której mowa w art. 25d ust. 1, może uchylić to zastrzeżenie, jeżeli uzna, że informacje te są niezbędne dla realizacji szybkich sieci telekomunikacyjnych wraz z infrastrukturą telekomunikacyjną. Przepis art. 29 ust. 6b stosuje się odpowiednio.
+### 1)
 
-8. Informacje, o których mowa w ust. 1, mogą być wykorzystane wyłącznie do celów związanych z uzyskaniem dostępu do infrastruktury technicznej i realizacji szybkiej sieci telekomunikacyjnej wraz z infrastrukturą telekomunikacyjną, a przedsiębiorca telekomunikacyjny, któremu zostały one udostępnione, jest obowiązany do podejmowania niezbędnych środków w celu zachowania ich poufności.
+jednostki samorządu terytorialnego;
 
-**Art. 25b.**
+### 2)
 
-1. W celu umożliwienia przedsiębiorcy telekomunikacyjnemu ubiegania się o dostęp do infrastruktury technicznej operator sieci jest obowiązany umożliwić mu dokonanie inspekcji określonych elementów infrastruktury technicznej w miejscu, w którym ona się znajduje.
+podmiotu, który zawarł z jednostką samorządu terytorialnego umowę koncesji w rozumieniu ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi lub umowę o partnerstwie publiczno-prywatnym w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym w zakresie budynków i infrastruktury telekomunikacyjnej objętych dostępem telekomunikacyjnym lub współkorzystaniem;
 
-2. W celu dokonania inspekcji, o której mowa w ust. 1, przedsiębiorca telekomunikacyjny składa do operatora sieci wniosek w formie pisemnej lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w którym określa elementy infrastruktury telekomunikacyjnej związane z planowaną realizacją szybkiej sieci telekomunikacyjnej wraz z infrastrukturą telekomunikacyjną.
+### 3)
 
-3. Operator sieci jest obowiązany uwzględnić wniosek, o którym mowa w ust. 2, niezwłocznie, niepóźniej jednak niż w terminie 30 dni od dnia jego otrzymania. Przepisy art. 25a ust. 5 pkt 2 oraz ust. 6–8 stosuje się odpowiednio.
+podmiotu z tej samej grupy kapitałowej, w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów ([Dz. U. Nr 50, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241.](#gloss-0:4:)), co przedsiębiorca, na którego zostały nałożone obowiązki regulacyjne.
 
-**Art. 25c.**
+### Art. 14.
 
-1. Obowiązek udzielenia informacji, o którym mowa w art. 18 ust. 2 i art. 25a ust. 1, oraz obowiązek umożliwienia dokonania inspekcji, o którym mowa w art. 25b ust. 1, nie dotyczą infrastruktury technicznej, w tym infrastruktury krytycznej, której wykorzystanie do celów szybkich sieci telekomunikacyjnych jest niemożliwe ze względu na bezpieczeństwo i integralność infrastruktury technicznej, zdrowie publiczne, obronność, bezpieczeństwo państwa lub bezpieczeństwo i porządek publiczny. Informacje te nie są przekazywane do punktu informacyjnego do spraw telekomunikacji.
+Przepisy art. 13 nie wyłączają obowiązków jednostek samorządu terytorialnego lub podmiotów, którym zostało powierzone wykonywanie działalności, o której mowa w art. 3 ust. 1, wynikających z przepisów prawa telekomunikacyjnego.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje infrastruktury, o której mowa w ust. 1, kierując się wymaganiami szybkich sieci telekomunikacyjnych oraz bezpieczeństwem i integralnością infrastruktury technicznej, zdrowiem publicznym, obronnością, bezpieczeństwem państwa oraz bezpieczeństwem i porządkiem publicznym nie wskazując, które elementy infrastruktury technicznej stanowią infrastrukturę krytyczną.
+### Art. 15.
 
-**Art. 25d.**
+### 1.
 
-1. Z zastrzeżeniem ust. 3, spory w sprawach, o których mowa w art. 25a i art. 25b, między operatorem sieci a operatorem wnioskującym o udostępnienie informacji, o których mowa w art. 25a ust. 1, lub o umożliwienie dokonania inspekcji, o której mowa w art. 25b ust. 1, rozstrzyga Prezes UKE, w drodze decyzji, na wniosek jednej ze stron.
+Jednostki samorządu terytorialnego mogą prowadzić działania mające na celu pobudzenie lub agregację popytu użytkowników na usługi związane z szerokopasmowym dostępem do Internetu, w szczególności edukacyjne i szkoleniowe, polegające na wyposażeniu konsumentów w telekomunikacyjne urządzenia końcowe lub sprzęt komputerowy lub finansowaniu konsumentom kosztu usług telekomunikacyjnych.
 
-2. Prezes UKE wydaje decyzję, o której mowa w ust. 1, niezwłocznie, niepóźniej jednak niż w terminie 60 dni od dnia złożenia wniosku o jej wydanie, kierując się niedyskryminacyjnymi i proporcjonalnymi kryteriami.
+### 2.
 
-3. Decyzję, o której mowa w ust. 1, wydaje się w uzgodnieniu z:
+Organ stanowiący jednostki samorządu terytorialnego określi, w drodze uchwały, warunki i tryb finansowania działalności, o której mowa w ust. 1, ustalając w szczególności warunki kwalifikowania beneficjentów udzielanej pomocy.
 
-- **1)** Prezesem URE – w odniesieniu do przedsiębiorstw energetycznych;
-- **2)** Prezesem UTK – w odniesieniu do przedsiębiorstw zapewniających infrastrukturę techniczną na potrzeby transportu kolejowego.
+### 3.
 
-4. Niezajęcie stanowiska przez podmioty, o których mowa w ust. 3, w terminie 30 dni od dnia przedstawienia im projektu decyzji jest równoznaczne z uzgodnieniem projektu.
+Działalność, o której mowa w ust. 1, jest prowadzona w sposób niedyskryminujący, na zasadach przejrzystości i proporcjonalności oraz zmierza do utrzymania neutralności technologicznej.
 
-**Art. 26.**
+### 4.
 
-1. Działalność, o której mowa w art. 16 ust. 1, nie może:
+Każde przedsięwzięcie jednostki samorządu terytorialnego podejmowane w zakresie działalności, o której mowa w ust. 1, wymaga uprzedniego ogłoszenia, wraz z jego opisem, w Biuletynie Informacji Publicznej na stronie podmiotowej jednostki samorządu terytorialnego i w siedzibie tej jednostki.
 
-- **1)** obniżać bezpieczeństwa dostarczania i jakości wody do spożycia, paliw gazowych lub energii elektrycznej lub cieplnej;
-- **2)** powodować niekorzystnej zmiany cen lub stawek opłat za dostarczane: wodę, paliwa gazowe lub energię elektryczną lub cieplną i zakresu ich dostarczania odbiorcom przyłączonym do sieci;
-- **3)** uniemożliwiać wywiązywanie się przez podmioty wykonujące zadania z zakresu użyteczności publicznej z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska;
-- **4)** uniemożliwiać racjonalnego korzystania z infrastruktury technicznej wykorzystywanej do wykonywania ich podstawowej działalności.
+### Art. 16.
 
-2. Przepis ust. 1 stosuje się odpowiednio do podmiotów wykonujących zadania z zakresu użyteczności publicznej wykonujących działalność w zakresie zbiorowego odprowadzania ścieków.
+### 1.
 
-**Art. 27.**
+Podmioty wykonujące zadania z zakresu użyteczności publicznej, z zastrzeżeniem ust. 2, mogą:
 
-1. Podmiot, który:
+### 1)
 
-- **1)** wykorzystał środki publiczne w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych do:
-    - **a)** budowy, przebudowy lub remontu sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej lub
-    - **b)** nabycia praw do sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej,
+budować lub eksploatować infrastrukturę telekomunikacyjną i sieci telekomunikacyjne oraz nabywać prawa do infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych;
 
-- **2)** nabył prawa do sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej, o których mowa w pkt 1 lit. a – zapewnia dostęp telekomunikacyjny do takich sieci lub infrastruktury przedsiębiorcom telekomunikacyjnym.
+### 2)
 
-2. Obowiązek, o którym mowa w ust. 1, dotyczy całości sieci telekomunikacyjnej lub infrastruktury telekomunikacyjnej, które zostały zbudowane, przebudowane, wyremontowane lub w stosunku do których nabyto prawa z wykorzystaniem środków publicznych, także w zakresie, w jakim finansowanie części tej sieci lub infrastruktury nastąpiło ze środków prywatnych.
+dostarczać sieci telekomunikacyjne lub zapewniać dostęp do infrastruktury telekomunikacyjnej;
 
-3. Dostęp, o którym mowa w ust. 1, jest odpłatny, chyba że strony umowy postanowią inaczej.
+### 3)
 
-4. Do zapewnienia dostępu, o którym mowa w ust. 1, stosuje się przepisy działu III rozdziału 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej oraz art. 18 ust. 2, 3, 6–8 i 11, art. 19 ust. 1 i 2a oraz art. 24 ust. 1 niniejszej ustawy, z tym że Prezes UKE:
+świadczyć, z wykorzystaniem posiadanej infrastruktury telekomunikacyjnej i sieci telekomunikacyjnych, usługi na rzecz przedsiębiorców telekomunikacyjnych.
 
-- **1)** wydaje decyzję rozstrzygającą spór dotyczący tego dostępu, biorąc pod uwagę w szczególności zasady zapewnienia dostępu określone w decyzjach, umowach lub innych aktach, na podstawie których nastąpiło finansowanie ze środków publicznych budowy, przebudowy lub remontu sieci telekomunikacyjnej lub powiązanych zasobów lub nabycia praw do nich, a także kierując się koniecznością zapewnienia niedyskryminacyjnych i proporcjonalnych warunków dostępu oraz rozwoju konkurencji;
-- **2)** może z urzędu zmienić umowę o dostępie telekomunikacyjnym albo decyzję rozstrzygającą spór dotyczący dostępu wyłącznie w przypadkach uzasadnionych potrzebą zapewnienia ochrony interesów użytkowników końcowych, zmianą zapotrzebowania na usługi, zmianą sytuacji rynkowej lub potrzebą wykonania obowiązku zapewnienia dostępu, o którym mowa w ust. 1.
+### 2.
 
-5. Do zmiany umowy o dostępie, o którym mowa w ust. 1, przepisy ust. 3 i 4 stosuje się.
+Operator systemu przesyłowego, operator systemu dystrybucyjnego oraz operator systemu połączonego, w rozumieniu ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne, nie mogą nabywać praw do infrastruktury telekomunikacyjnej, budować lub eksploatować tej infrastruktury i sieci telekomunikacyjnych na cele inne niż realizacja zadań określonych dla nich w ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne.
 
-**Art. 28.** Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii Prezesa UKE i Prezesa Urzędu Ochrony Konkurencji i Konsumentów, może określić, w drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej dotyczącej wykonywania działalności, o której mowa w art. 3 ust. 1 pkt 1–2 i pkt 3 lit. c i art. 16, w odniesieniu do sieci szerokopasmowych w szczególności w zakresie dotyczącym:
+### 3.
 
-**Art. 29.**
+Do działalności, o której mowa w ust. 1, stosuje się przepis art. 3 ust. 2 i 3.
 
-1. Prezes UKE sporządza dla terytorium Rzeczypospolitej Polskiej i na bieżąco aktualizuje, w formie elektronicznej, inwentaryzację przedstawiającą:
+### Art. 17.
 
-- **1)** informacje o usługach transmisji danych zapewniających szerokopasmowy dostęp do Internetu oraz świadczonych z nimi w pakiecie, w oparciu o infrastrukturę telekomunikacyjną i publiczne sieci telekomunikacyjne zapewniające szerokopasmowy dostęp do Internetu, usługach komunikacji głosowej i usługach rozprowadzania programów radiowych i telewizyjnych;
-- **2)** pokrycie istniejącą infrastrukturą telekomunikacyjną i publicznymi sieciami telekomunikacyjnymi zapewniającymi lub umożliwiającymi zapewnienie szerokopasmowego dostępu do Internetu, z odrębnym zaznaczeniem łączy światłowodowych i sieci bezprzewodowych, oraz obiektami budowlanymi umożliwiającymi kolokację;
-- **3)** informacje o przebiegu światłowodowych i innych niż światłowodowe linii kablowych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu.
+W przypadku, gdy warunki techniczne i wymogi bezpieczeństwa na to pozwalają, podmiot wykonujący zadania z zakresu użyteczności publicznej zapewnia przedsiębiorcom telekomunikacyjnym współkorzystanie lub dostęp do infrastruktury technicznej wykorzystywanej do wykonywania swojej podstawowej działalności, z przeznaczeniem na potrzeby publicznej sieci telekomunikacyjnej, na zasadach równego traktowania oraz uczciwej i wolnej konkurencji.
 
-2. W celu wykonania obowiązku, o którym mowa w ust. 1:
+### Art. 18.
 
-- **1)** (uchylony) 1a) jednostki samorządu terytorialnego,
-- **2)** podmioty wykonujące zadania z zakresu użyteczności publicznej,
-- **3)** przedsiębiorcy telekomunikacyjni – przekazują aktualne, zgodne ze stanem faktycznym, kompletne oraz adekwatne do potrzeb wykonania obowiązku, o którym mowa w ust. 1, informacje o posiadanej infrastrukturze telekomunikacyjnej, przebiegu światłowodowych linii kablowych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu oraz posiadane w postaci elektronicznej informacje o przebiegu innych niż światłowodowe linii kablowych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu, informacje o posiadanych publicznych sieciach telekomunikacyjnych, obiektach budowlanych umożliwiających kolokację, świadczonych usługach transmisji danych zapewniających szerokopasmowy dostęp do Internetu, usługach komunikacji głosowej i usługach rozprowadzania programów radiowych i telewizyjnych świadczonych w pakiecie z usługami transmisji danych zapewniających szerokopasmowy dostęp do Internetu.
+Warunki współkorzystania oraz dostępu do infrastruktury technicznej, w tym techniczne, eksploatacyjne i finansowe warunki współpracy, strony ustalają w umowie o współkorzystaniu lub o dostępie do infrastruktury technicznej, zawartej na piśmie pod rygorem nieważności.
 
-2a. Informacje o:
+### Art. 19.
 
-- **1)** posiadanej infrastrukturze telekomunikacyjnej, publicznych sieciach telekomunikacyjnych, przebiegu światłowodowych linii kablowych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu oraz posiadane w postaci elektronicznej informacje o przebiegu innych niż światłowodowe linii kablowych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu – przekazuje się corocznie w terminie do dnia:
-    - **a)** 15 września – zgodnie ze stanem na dzień 30 czerwca,
-    - **b)** 31 marca – zgodnie ze stanem na dzień 31 grudnia poprzedniego roku;
+### 1.
 
-- **2)** obiektach budowlanych umożliwiających kolokację, świadczonych usługach transmisji danych zapewniających szerokopasmowy dostęp do Internetu, usługach komunikacji głosowej i usługach rozprowadzania programów radiowych i telewizyjnych świadczonych w pakiecie z usługami transmisji danych zapewniających szerokopasmowy dostęp do Internetu – przekazuje się corocznie w terminie do dnia 31 marca według stanu na dzień 31 grudnia poprzedniego roku.
+Podmiot wykonujący zadania z zakresu użyteczności publicznej jest obowiązany prowadzić negocjacje w sprawie zawarcia umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej, na wniosek przedsiębiorców telekomunikacyjnych, w celu świadczenia publicznie dostępnych usług telekomunikacyjnych.
 
-2b. Podmioty, o których mowa w ust. 2, które nie posiadają infrastruktury telekomunikacyjnej, publicznych sieci telekomunikacyjnych, obiektów budowlanych umożliwiających kolokację i nie świadczą usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu ani nie świadczą w pakiecie z nimi usług komunikacji głosowej i usług rozprowadzania programów radiowych i telewizyjnych przekazują Prezesowi UKE corocznie w terminie do dnia 31 marca, według stanu na dzień 31 grudnia poprzedniego roku, oświadczenie, że nie posiadają infrastruktury telekomunikacyjnej, publicznych sieci telekomunikacyjnych, obiektów budowlanych umożliwiających kolokację i nie świadczą usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu ani nie świadczą w pakiecie z nimi usług komunikacji głosowej i usług rozprowadzania programów radiowych i telewizyjnych.
+### 2.
 
-2c. Informacje, o których mowa w ust. 2, lub oświadczenie, o którym mowa w ust. 2b, przekazuje się za pomocą strony internetowej systemu teleinformatycznego, o którym mowa w art. 29b ust. 2.
+Informacje uzyskane w związku z negocjacjami mogą być wykorzystane wyłącznie zgodnie z ich przeznaczeniem i podlegają obowiązkowi zachowania poufności.
 
-3. Do informacji, o których mowa w ust. 2, stosuje się odpowiednio przepis art. 22 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+### Art. 20.
 
-4. Główny Geodeta Kraju, na wniosek Prezesa UKE, udostępnia informacje z centralnego zasobu geodezyjnego i kartograficznego niezbędne dla potrzeb wykonania obowiązku, o którym mowa w ust. 1. Informacje udostępnia się w terminie 30 dni od dnia otrzymania wniosku.
+Prezes UKE może z urzędu, w drodze decyzji, zmienić treść umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej lub zobowiązać strony umowy do jej zmiany, w przypadkach uzasadnionych potrzebą zapewnienia ochrony interesów odbiorców usług świadczonych przez podmioty wykonujące zadania z zakresu użyteczności publicznej oraz użytkowników końcowych.
 
-5. (uchylony)
+### Art. 21.
 
-6. Inwentaryzacja, o której mowa w ust. 1, jest jawna i każdy ma prawo wglądu do tej inwentaryzacji oraz pobierania i otrzymywania danych z niej pochodzących, za pomocą strony internetowej, o której mowa w art. 29a ust. 2, o ile nie narusza to tajemnic prawnie chronionych lub nie zagraża obronności lub bezpieczeństwu państwa.
+### 1.
 
-6a. Informacje, o których mowa w ust. 2, Prezes UKE może wykorzystywać w zakresie niezbędnym do wykonywania jego uprawnień i obowiązków określonych w art. 419 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+Prezes UKE może, na pisemny wniosek każdej ze stron negocjacji w sprawie zawarcia umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej albo z urzędu, w drodze postanowienia, określić termin zakończenia tych negocjacji, nie dłuższy niż 90 dni, licząc od dnia wystąpienia z wnioskiem o zawarcie tej umowy.
 
-6b. Nie podlegają zastrzeżeniu ze względu na tajemnicę przedsiębiorstwa informacje dotyczące usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu oraz infrastruktury telekomunikacyjnej i infrastruktury technicznej, które mogą być wykorzystane w celu świadczenia tych usług, w zakresie obejmującym:
+### 2.
 
-- **1)** dane kontaktowe przedsiębiorcy telekomunikacyjnego, który może świadczyć usługi w danej lokalizacji;
-- **2)** dane adresowe budynku oraz inne dane identyfikujące lokalizację, w której przedsiębiorca telekomunikacyjny może świadczyć usługi;
-- **3)** technologię usługi możliwej do świadczenia;
-- **4)** maksymalną przepustowość usługi dostępu do Internetu możliwą do zaoferowania użytkownikowi końcowemu;
-- **5)** infrastrukturę telekomunikacyjną i infrastrukturę techniczną, które mogą być wykorzystane w celu świadczenia usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu.
+W przypadku niepodjęcia negocjacji w sprawie zawarcia umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej przez podmiot wykonujący zadania z zakresu użyteczności publicznej, odmowy współkorzystania lub udzielenia dostępu do infrastruktury technicznej lub niezawarcia umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej w wyznaczonym przez Prezesa UKE terminie, o którym mowa w ust. 1, każda ze stron może zwrócić się do Prezesa UKE z wnioskiem o wydanie decyzji w sprawie współkorzystania lub dostępu do infrastruktury technicznej.
 
-7. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 3.
 
-- **1)** rodzaj infrastruktury oraz informacje o świadczonych usługach transmisji danych zapewniających szerokopasmowy dostęp do Internetu, informacje o świadczonych w pakiecie z tymi usługami usługach komunikacji głosowej i usługach rozprowadzania programów radiowych i telewizyjnych podlegających inwentaryzacji i skalę map, na których dokonuje się inwentaryzacji, o której mowa w ust. 1,
-- **2)** szczegółową postać elektroniczną oraz elektroniczny format przekazywania danych,
-- **3)** szczegółowy zakres i sposób prezentowania informacji w inwentaryzacji,
-- **4)** wzory formularzy służących do przekazywania Prezesowi UKE informacji, o których mowa w ust. 2, wraz z objaśnieniami co do sposobu ich wypełniania – kierując się potrzebą zapewnienia szczegółowego, rzetelnego i wiarygodnego zbioru informacji o jakości istniejącej infrastruktury telekomunikacyjnej, publicznych sieci telekomunikacyjnych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu oraz świadczonych usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu oraz usług komunikacji głosowej i usług rozprowadzania programów radiowych i telewizyjnych świadczonych w pakiecie z usługami transmisji danych zapewniających szerokopasmowy dostęp do Internetu, a także potrzebą usprawnienia i ujednolicenia procesu przekazywania danych.
+Strony są obowiązane przedłożyć Prezesowi UKE, na jego żądanie, w terminie 14 dni, swoje stanowiska wobec rozbieżności oraz dokumenty niezbędne do rozpatrzenia wniosku.
 
-#### Rozdział 2a Punkt informacyjny do spraw telekomunikacji
+### Art. 22.
 
-**Art. 29a.**
+### 1.
 
-1. Punkt informacyjny do spraw telekomunikacji jest prowadzony przez Prezesa UKE.
+Prezes UKE wydaje decyzję w sprawie współkorzystania lub dostępu do infrastruktury technicznej w terminie 90 dni od dnia złożenia wniosku o jej wydanie, biorąc pod uwagę następujące kryteria:
 
-2. Punkt informacyjny do spraw telekomunikacji jest prowadzony za pośrednictwem strony internetowej tego punktu informacyjnego.
+### 1)
 
-**Art. 29b.**
+interes odbiorców usług świadczonych przez podmioty wykonujące zadania z zakresu użyteczności publicznej;
 
-1. W ramach punktu informacyjnego do spraw telekomunikacji zapewnia się każdemu operatorowi sieci, o ile nie zagraża to bezpieczeństwu państwa, dostęp do posiadanych przez Prezesa UKE informacji:
+### 2)
 
-- **1)** w zakresie procedur i formalności wymaganych przed rozpoczęciem robót budowlanych dotyczących infrastruktury telekomunikacyjnej, w trakcie ich wykonywania oraz do ich zakończenia i rozpoczęcia użytkowania tej infrastruktury, w tym informacji o wymaganych decyzjach, zgłoszeniach i zawiadomieniach do właściwych organów, a także zwolnieniach z obowiązku ich uzyskania lub dokonania;
-- **2)** uzyskanych w wyniku inwentaryzacji, o której mowa w art. 29 ust. 1;
-- **3)** o istniejącej infrastrukturze technicznej, innej niż infrastruktura objęta inwentaryzacją, o której mowa w art. 29 ust. 1, a także o kanałach technologicznych, określających:
-    - **a)** ich lokalizację i przebieg,
-    - **b)** rodzaj i aktualny stan oraz sposób użytkowania,
-    - **c)** dane kontaktowe w sprawach dostępu;
+interes użytkowników sieci telekomunikacyjnych;
 
-- **4)** o planach inwestycyjnych w zakresie wykonywanych lub planowanych robót budowlanych, finansowanych w całości lub w części ze środków publicznych, dotyczących infrastruktury technicznej lub kanałów technologicznych, określających:
-    - **a)** lokalizację i rodzaj robót,
-    - **b)** element infrastruktury technicznej lub kanału technologicznego, którego roboty dotyczą,
-    - **c)** przewidywaną datę rozpoczęcia robót i czas ich trwania,
-    - **d)** dane kontaktowe w sprawach koordynacji robót budowlanych;
+### 3)
 
-- **5)** o stronach internetowych, na których zostały zamieszczone warunki dostępu, o których mowa w art. 18 ust. 7 i art. 35a ust. 7 niniejszej ustawy oraz art. 39b ust. 3 ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567 i 1795);
-- **6)** o obowiązujących stawkach opłaty za zajęcie pasa drogowego w celach, o których mowa w art. 40 ust. 2 pkt 1–3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, ustalonych w drodze uchwały, o której mowa w art. 40 ust. 8 tej ustawy.
+obowiązki nałożone na podmiot wykonujący zadania z zakresu użyteczności publicznej;
 
-2. Informacje, o których mowa w ust. 1 pkt 2–6, gromadzi się w bazie danych prowadzonej w systemie teleinformatycznym zapewniającym gromadzenie, aktualizację i udostępnianie tych informacji w sposób jednolity dla obszaru całego kraju.
+### 4)
 
-3. System teleinformatyczny, o którym mowa w ust. 2, umożliwia:
+promocję nowoczesnych usług telekomunikacyjnych;
 
-- **1)** bezpośrednie wprowadzanie informacji przez podmioty, o których mowa w art. 29c ust. 1 i art. 29d ust. 1–4, 6 i 7, do bazy danych oraz ich aktualizowanie przez stronę internetową punktu informacyjnego do spraw telekomunikacji;
-- **2)** identyfikację podmiotu wprowadzającego informacje.
+### 5)
 
-4. Informacje udostępnione przez punkt informacyjny do spraw telekomunikacji mogą być wykorzystane wyłącznie zgodnie z ich przeznaczeniem i podlegają obowiązkowi zachowania poufności przez operatorów sieci, którym zostały udostępnione.
+charakter zaistniałych kwestii spornych oraz praktyczną możliwość wdrożenia rozwiązań dotyczących technicznych i ekonomicznych aspektów współkorzystania lub dostępu do infrastruktury technicznej zarówno zaproponowanych przez strony negocjacji, jak też mogących stanowić rozwiązania alternatywne;
 
-5. Nie można odmówić udostępnienia informacji, o których mowa w ust. 1 pkt 3 lub 4, ze względu na zastrzeżenie tajemnicy przedsiębiorstwa.
+### 6)
 
-6. Do informacji, o których mowa w ust. 1 pkt 4, w zakresie infrastruktury technicznej przedsiębiorców telekomunikacyjnych stosuje się odpowiednio przepis art. 22 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+interes publiczny, w tym ochronę środowiska;
 
-7. Udostępnienie informacji, o których mowa w ust. 1, jest nieodpłatne.
+### 7)
 
-**Art. 29c.**
+utrzymanie ciągłości świadczenia usług.
 
-1. Operator sieci przekazuje Prezesowi UKE w systemie teleinformatycznym, o którym mowa w art. 29b ust. 2, posiadane w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3 lub 4, z wyjątkiem informacji objętych wykazem, o którym mowa w art. 29d ust. 6a, w celu ich udostępniania przez punkt informacyjny do spraw telekomunikacji. Operator sieci przekazuje te informacje corocznie w terminie do dnia 28 lutego według stanu faktycznego i prawnego na dzień 31 grudnia poprzedniego roku. Obowiązek wskazany w zdaniu drugim dotyczy również aktualizacji informacji przekazanych Prezesowi UKE w celu ich udostępniania przez punkt informacyjny do spraw telekomunikacji.
+### 2.
 
-2. (uchylony)
+Decyzja w sprawie współkorzystania lub dostępu do infrastruktury technicznej zastępuje umowę w zakresie objętym decyzją, z tym że w odniesieniu do przedsiębiorstw energetycznych decyzję wydaje się po zasięgnięciu opinii Prezesa Urzędu Regulacji Energetyki.
 
-**Art. 29d.**
+### 3.
 
-1. Główny Geodeta Kraju przekazuje Prezesowi UKE z centralnego zasobu geodezyjnego i kartograficznego posiadane w postaci elektronicznej informacje:
+W przypadku zawarcia przez zainteresowane strony umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej decyzja o współkorzystaniu lub o dostępie do infrastruktury technicznej wygasa z mocy prawa w części objętej umową.
 
-- **1)** o których mowa w art. 29b ust. 1 pkt 3, poprzez zapewnienie nieodpłatnego dostępu do danych przestrzennych i związanych z nimi usług, udostępnianych za pośrednictwem systemu, o którym mowa w art. 40 ust. 3e ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019, 1542 i 1792);
-- **2)** inne, przydatne dla celów przygotowania i realizacji inwestycji telekomunikacyjnych, w zakresie uzgodnionym z Prezesem UKE, a następnie aktualizuje te informacje nierzadziej niż raz na 6 miesięcy.
+### 4.
 
-2. Właściwy terytorialnie marszałek województwa oraz właściwy terytorialnie starosta i prezydent miasta na prawach powiatu przekazują Prezesowi UKE, na jego wniosek, odpowiednio z wojewódzkiego zasobu geodezyjnego i kartograficznego oraz z powiatowego zasobu geodezyjnego i kartograficznego, w szczególności z geodezyjnej ewidencji sieci uzbrojenia terenu, posiadane w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, które nie znajdują się w centralnym zasobie geodezyjnym i kartograficznym.
+Decyzja w sprawie współkorzystania lub dostępu do infrastruktury technicznej może zostać zmieniona przez Prezesa UKE na wniosek każdej ze stron, której ona dotyczy, lub z urzędu, w przypadkach uzasadnionych potrzebą zapewnienia ochrony interesów użytkowników końcowych oraz skutecznej konkurencji.
 
-3. Podmiot, który zarządza terenem zamkniętym, przekazuje Prezesowi UKE, na jego wniosek, posiadane w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, dotyczące tego terenu.
+### Art. 23.
 
-4. Właściwy zarządca drogi przekazuje Prezesowi UKE w systemie teleinformatycznym, o którym mowa w art. 29b ust. 2, posiadane w postaci elektronicznej informacje:
+### 1.
 
-- **1)** o kanałach technologicznych zlokalizowanych w pasie drogowym, na obszarze jego właściwości, w zakresie, o którym mowa w art. 29b ust. 1 pkt 3 lub 4;
-- **2)** o których mowa w art. 29b ust. 1 pkt 3, w zakresie infrastruktury technicznej, dla której wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+Do zmiany umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej stosuje się odpowiednio przepisy art. 19, 21, 22 i 24.
 
-5. Właściwy zarządca drogi przekazuje informacje, o których mowa w:
+### 2.
 
-- **1)** art. 29b ust. 1 pkt 3 – niepóźniej niż w terminie 30 dni od dnia zakończenia budowy kanału technologicznego;
-- **2)** art. 29b ust. 1 pkt 3, w zakresie infrastruktury technicznej, dla której wydał decyzję, o której mowa w art. 39 ust. 3 lub art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych – w terminie 30 dni od dnia wydania zezwolenia;
-- **3)** art. 29b ust. 1 pkt 4, w zakresie kanałów technologicznych – niepóźniej niż 2 miesiące przed dniem złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o zezwoleniu na realizację inwestycji drogowej, o pozwoleniu na budowę albo niepóźniej niż 2 miesiące przed dniem zgłoszenia przebudowy drogi publicznej.
+Do wniosku o zmianę umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej, która została przynajmniej raz zmieniona, dołącza się jednolity tekst tej umowy zawierający wszystkie dokonane zmiany.
 
-6. Wójt (burmistrz, prezydent miasta), starosta i marszałek województwa przekazują Prezesowi UKE w systemie teleinformatycznym, o którym mowa w art. 29b ust. 2, informacje o stawkach opłaty, o której mowa w art. 29b ust. 1 pkt 6, w terminie 14 dni od dnia wejścia w życie uchwały, o której mowa w art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### Art. 24.
 
-6a. Na wniosek Prezesa UKE dyrektor Rządowego Centrum Bezpieczeństwa udostępnia Prezesowi UKE, w terminie 14 dni od dnia otrzymania wniosku, wykazy infrastruktury krytycznej, o których mowa w art. 5 ust. 2 pkt 3 lit. k ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, znajdującej się na terenie województw, objęte wojewódzkimi planami zarządzania kryzysowego.
+### 1.
 
-7. Podmioty inne niż wymienione w ust. 1–4, które ze względu na zakres swoich zadań posiadają w postaci elektronicznej informacje, o których mowa w art. 29b ust. 1 pkt 3, niezwłocznie przekazują je Prezesowi UKE, na jego wniosek.
+Strona zawartej umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej przekazuje tekst tej umowy Prezesowi UKE w terminie 14 dni od dnia jej podpisania.
 
-8. Podmioty, o których mowa w ust. 2–4, 6 i 7, są obowiązane niezwłocznie zawiadomić Prezesa UKE o zmianach dotyczących informacji mu przekazanych.
+### 2.
 
-9. Podmioty, o których mowa w ust. 1–4 i 7, mogą odmówić przekazania Prezesowi UKE informacji, jeżeli jest to niezbędne ze względu na bezpieczeństwo i integralność infrastruktury technicznej, zdrowie publiczne, obronność, bezpieczeństwo państwa lub bezpieczeństwo i porządek publiczny. W przypadku gdy informacje te stanowią tajemnicę przedsiębiorstwa, przy ich przekazaniu należy poinformować o tym Prezesa UKE.
+Umowy, o których mowa w ust. 1, są jawne, z zastrzeżeniem ust. 3. Prezes UKE udostępnia je nieodpłatnie zainteresowanym podmiotom na ich wniosek.
 
-10. Jeżeli informacje, o których mowa w art. 29b ust. 1 pkt 3 lub 4, posiadane przez podmioty, o których mowa w ust. 1–4, oraz inne podmioty, które posiadają choćby niektóre z tych informacji w postaci elektronicznej ze względu na zakres swoich zadań, nie są dostępne przez punkt informacyjny do spraw telekomunikacji, podmioty te udostępniają te informacje przedsiębiorcy telekomunikacyjnemu, na jego wniosek, w posiadanej formie, w terminie 30 dni od dnia otrzymania wniosku. Przepis ust. 9 stosuje się odpowiednio.
+### 3.
 
-11. Udostępnienie informacji, o których mowa w art. 29b ust. 1 pkt 3 lub 4, posiadanych przez podmioty, o których mowa w ust. 1–4, oraz inne podmioty, które posiadają choćby niektóre z tych informacji w postaci elektronicznej ze względu na zakres swoich zadań, które nie są dostępne przez punkt informacyjny do spraw telekomunikacji, jest nieodpłatne, o ile przepisy odrębne nie stanowią inaczej.
+Prezes UKE, na wniosek strony umowy o współkorzystaniu lub o dostępie do infrastruktury technicznej, może wyrazić zgodę, aby niektóre postanowienia umowy były wyłączone z obowiązku jawności. Wyłączenie to nie może obejmować rozliczeń z tytułu współkorzystania lub dostępu do infrastruktury technicznej.
 
-12. W przypadku stwierdzenia przez Prezesa UKE niewypełnienia przez podmioty, o których mowa w ust. 4 i 6, obowiązku przekazania w terminie informacji, o których mowa w art. 29b ust. 1 pkt 3, 4 i 6, Prezes UKE wzywa właściwy podmiot do realizacji obowiązku w terminie wyznaczonym przez Prezesa UKE.
+### Art. 25.
 
-13. W przypadku gdy podmiot, wezwany przez Prezesa UKE na podstawie ust. 12, nie przekaże żądanych informacji w terminie wyznaczonym przez Prezesa UKE, Prezes UKE wymierza temu podmiotowi, w drodze decyzji, karę w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar pieniężnych stanowią przychód Funduszu.
+Podmiot wykonujący zadania z zakresu użyteczności publicznej jest obowiązany prowadzić ewidencję w sposób umożliwiający odrębne obliczenie kosztów i przychodów, zysków i strat w zakresie swojej podstawowej działalności oraz działalności, o której mowa w art. 16 ust. 1, a także współkorzystania lub dostępu, o których mowa w art. 17.
 
-14. Karę pieniężną uiszcza się w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 13. W przypadku nieuiszczenia kary pieniężnej, o której mowa w ust. 13, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+### Art. 26.
 
-**Art. 29e.** Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
+### 1.
 
-**Art. 29f.** Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia:
+Działalność, o której mowa w art. 16 ust. 1, oraz współkorzystanie lub dostęp do infrastruktury technicznej, o których mowa w art. 17, nie może:
 
-#### Rozdział 2b System Informacyjny o Instalacjach Wytwarzających Promieniowanie Elektromagnetyczne
+### 1)
 
-**Art. 29g.**
+obniżać bezpieczeństwa dostarczania i jakości wody do spożycia, paliw gazowych lub energii elektrycznej lub cieplnej;
 
-1. System Informacyjny o Instalacjach Wytwarzających Promieniowanie Elektromagnetyczne, zwany dalej „systemem informacyjnym PEM”, jest publiczną bazą danych zawierającą informacje o polu elektromagnetycznym w środowisku, prowadzoną przez ministra właściwego do spraw informatyzacji.
+### 2)
 
-2. System informacyjny PEM jest prowadzony w systemie teleinformatycznym, który zapewnia gromadzenie, aktualizację i udostępnianie informacji, o których mowa w ust. 1, w sposób jednolity dla obszaru całego kraju.
+powodować niekorzystnej zmiany cen lub stawek opłat za dostarczane: wodę, paliwa gazowe lub energię elektryczną lub cieplną i zakresu ich dostarczania odbiorcom przyłączonym do sieci;
 
-**Art. 29h.**
+### 3)
 
-1. System informacyjny PEM zapewnia publiczny i nieodpłatny dostęp do prezentowanych na stronie internetowej w postaci map cyfrowych i tabel następujących informacji:
+uniemożliwiać wywiązywanie się przez podmioty wykonujące zadania z zakresu użyteczności publicznej z obowiązków w zakresie ochrony interesów odbiorców i ochrony środowiska;
 
-- **1)** o poziomach pola elektromagnetycznego pochodzących z pomiarów lub badań:
-    - **a)** o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i 426),
-    - **b)** o których mowa w art. 123 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, zgromadzonych w systemie informatycznym Inspekcji Ochrony Środowiska „Ekoinfonet”,
-    - **c)** o których mowa w art. 17 ust. 3a ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2024 r. poz. 425 oraz z 2025 r. poz. 1863),
-    - **d)** prowadzonych przez podmioty inne niż wymienione w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska lub instytucje, poza Głównym Inspektorem Ochrony Środowiska, i wykonanych przez akredytowane laboratoria w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215 oraz z 2025 r. poz. 1826);
+### 4)
 
-- **2)** o lokalizacjach instalacji radiokomunikacyjnych wykorzystywanych na cele ruchomych publicznych sieci telekomunikacyjnych, z wyłączeniem informacji o infrastrukturze krytycznej;
-- **3)** o rozkładzie natężeń pola elektromagnetycznego pochodzącego z instalacji, o których mowa w pkt 2;
-- **4)** wynikających z pozwoleń, o których mowa w art. 138 ust. 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej;
-- **5)** pochodzących z rejestru urządzeń, o którym mowa w art. 147 ust. 1 ustawy, o której mowa w pkt 4;
-- **6)** o zgłoszeniach, o których mowa w art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, oraz o ponownych zgłoszeniach, o których mowa w art. 152 ust. 6 pkt 2 tej ustawy, dotyczących instalacji radiokomunikacyjnych emitujących pola elektromagnetyczne o częstotliwościach od 30 kHz do 300 GHz, których równoważna moc promieniowana izotropowo wynosi niemniej niż 15 W.
+uniemożliwiać racjonalnego korzystania z infrastruktury technicznej wykorzystywanej do wykonywania ich podstawowej działalności.
 
-2. System informacyjny PEM umożliwia:
+### 2.
 
-- **1)** bezpośrednie wprowadzanie informacji, o których mowa w ust. 1, do bazy danych oraz ich aktualizowanie przez stronę internetową systemu informacyjnego PEM;
-- **2)** identyfikację podmiotu wprowadzającego lub aktualizującego informacje, o których mowa w ust. 1;
-- **3)** sporządzanie analiz, agregację oraz przetwarzanie informacji, o których mowa w ust. 1, dla dowolnie wybranej lokalizacji na terytorium Rzeczypospolitej Polskiej na podstawie modeli obliczeniowych;
-- **4)** przeprowadzanie symulacji dodania nowych instalacji emitujących pole elektromagnetyczne o określonych parametrach i obliczenia ich wpływu na natężenie pola elektromagnetycznego w środowisku;
-- **5)** generowanie zgłoszenia instalacji, o którym mowa w art. 152 ust. 1 lub 6 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+Przepis ust. 1 stosuje się odpowiednio do podmiotów wykonujących zadania z zakresu użyteczności publicznej wykonujących działalność w zakresie zbiorowego odprowadzania ścieków.
 
-3. Dostęp do systemu informacyjnego PEM w zakresie, o którym mowa w ust. 2, posiadają:
+### Art. 27.
 
-- **1)** przedsiębiorcy telekomunikacyjni prowadzący instalacje emitujące pola elektromagnetyczne lub będący użytkownikami takich instalacji lub planujący nowe instalacje emitujące pole elektromagnetyczne;
-- **2)** akredytowane laboratoria w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności;
-- **3)** Prezes UKE;
-- **4)** organy Inspekcji Ochrony Środowiska, o których mowa w art. 3 ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska;
-- **5)** organy ochrony środowiska, o których mowa w art. 376 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **6)** organy inspekcji sanitarnej, o których mowa w art. 10 ust. 1 ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416);
-- **7)** podmioty inne niż wymienione w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska lub instytucje, poza Głównym Inspektorem Ochrony Środowiska, prowadzące pomiary pola elektromagnetycznego wykonywane przez akredytowane laboratoria w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
+### 1.
 
-**Art. 29i.**
+Podmiot, który wykorzystał środki publiczne, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do budowy, przebudowy lub remontu infrastruktury telekomunikacyjnej wykorzystywanej do świadczenia publicznie dostępnych usług telekomunikacyjnych lub publicznej sieci telekomunikacyjnej lub nabył prawa do takiej infrastruktury lub sieci oraz jego podmioty zależne, są obowiązani zagwarantować współkorzystanie oraz dostęp telekomunikacyjny do takiej infrastruktury oraz sieci przedsiębiorcom telekomunikacyjnym, jeżeli taki obowiązek wynika z przepisów o pomocy publicznej, decyzji, umów lub innych aktów, na podstawie których nastąpiło finansowanie ze środków publicznych tej budowy, przebudowy lub remontu lub nabycia praw, na zasadach tam określonych.
 
-1. Prowadzący instalację radiokomunikacyjną, która emituje pola elektromagnetyczne o częstotliwościach od 30 kHz do 300 GHz, których równoważna moc promieniowana izotropowo wynosi niemniej niż 15 W, lub użytkownik takiej instalacji udostępnia w systemie informacyjnym PEM wyniki pomiarów, o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w terminie 30 dni od dnia wykonania tych pomiarów.
+### 2.
 
-2. Wojewódzki inspektor ochrony środowiska udostępnia w systemie informacyjnym PEM wyniki kontroli, o której mowa w art. 17 ust. 3a ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, w terminie 30 dni od dnia wykonania pomiarów.
+Jeżeli z przepisów o pomocy publicznej, umów lub innych aktów wynika obowiązek zagwarantowania współkorzystania oraz dostępu telekomunikacyjnego do infrastruktury o której mowa w ust. 1, ale nie zostały w nich określone zasady wykonywania tych obowiązków, do zagwarantowania współkorzytania oraz dostępu telekomunikacyjnego stosuje się odpowiednio przepisy działu I rozdział 3 oraz działu II rozdział 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
 
-3. Podmioty inne niż wymienione w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska lub instytucje, poza Głównym Inspektorem Ochrony Środowiska, prowadzące pomiary pól elektromagnetycznych wykonane przez akredytowane laboratoria w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności udostępniają w systemie informacyjnym PEM wyniki pomiarów, o których mowa w art. 122a ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w terminie 30 dni od dnia wykonania tych pomiarów.
+### Art. 28.
 
-4. Organy ochrony środowiska udostępniają w systemie informacyjnym PEM informacje o zgłoszeniach, o których mowa w art. 152 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, oraz o ponownych zgłoszeniach, o których mowa w art. 152 ust. 6 pkt 2 tej ustawy, dotyczących instalacji radiokomunikacyjnych emitujących pola elektromagnetyczne o częstotliwościach od 30 kHz do 300 GHz, których równoważna moc promieniowana izotropowo wynosi niemniej niż 15 W, w terminie 3 dni od dnia dokonania zgłoszenia lub ponownego zgłoszenia.
+Minister właściwy do spraw łączności, po zasięgnięciu opinii Prezesa UKE i Prezesa Urzędu Ochrony Konkurencji i Konsumentów, może określić, w drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej dotyczącej wykonywania działalności, o której mowa w art. 3 ust. 1 pkt 1-2 i pkt 3 lit. c i art. 16, w odniesieniu do sieci szerokopasmowych w szczególności w zakresie dotyczącym:
 
-#### Rozdział 2c System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego
+### 1)
 
-**Art. 29j.** System Informacyjny o Dostępie do Usług Stacjonarnego Internetu Szerokopasmowego, zwany dalej „SIDUSIS”, jest publiczną bazą danych, prowadzoną przez ministra właściwego do spraw informatyzacji, zawierającą informacje o punktach adresowych, w których:
+możliwości udostępniania przedsiębiorcy telekomunikacyjnemu infrastruktury lub sieci telekomunikacyjnych w zamian za opłaty niższe niż koszt wytworzenia,
 
-**Art. 29k.**
+### 2)
 
-1. W celu prezentowania w SIDUSIS informacji, o których mowa w art. 29j pkt 1, podmioty, o których mowa w art. 29 ust. 2, przekazują do SIDUSIS informacje o:
+możliwości współfinansowania kosztów ponoszonych z tytułu świadczenia usług telekomunikacyjnych użytkownikom końcowym na potrzeby świadczenia tych usług
 
-- **1)** podmiocie dostarczającym usługę,
-- **2)** rodzaju usługi – detalicznej lub hurtowej,
-- **3)** maksymalnej przepustowości oferowanej usługi,
-- **4)** medium transmisyjnym infrastruktury telekomunikacyjnej,
-- **5)** danych kontaktowych przedstawiciela podmiotu, o którym mowa w pkt 1, umożliwiających zamówienie usługi,
-- **6)** adresie strony internetowej zawierającej ofertę z cennikiem – oraz aktualizują je albo przekazują oświadczenie o aktualności dotychczas przekazanych informacji do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego – w przypadku podmiotu będącego mikroprzedsiębiorcą, małym przedsiębiorcą lub średnim przedsiębiorcą lub umożliwiającego świadczenie za pomocą stacjonarnych lub ruchomych publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w niewięcej niż 50 000 punktach adresowych, lub w każdy piątek, a w przypadku dni ustawowo wolnych od pracy w drugi kolejny dzień roboczy – w przypadku podmiotu, który umożliwia świadczenie za pomocą stacjonarnych lub publicznych ruchomych sieci telekomunikacyjnych usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu w niemniej niż 50 000 punktach adresowych.
+- kierując się Komunikatem Komisji Wytyczne wspólnotowe w sprawie stosowania przepisów dotyczących pomocy państwa w odniesieniu do szybkiego wdrażania sieci szerokopasmowych (Dz. Urz. UE C 235 z 30.09.2009, str. 7).
 
-2. Informacje, o których mowa w ust. 1, w zakresie dotyczącym usług detalicznych, przekazuje się odrębnie dla punktów adresowych, w których dostarczenie usługi, o której mowa w art. 29j, nie wymaga od podmiotu przeprowadzenia inwestycji związanej z pozyskaniem dodatkowych zgód i zezwoleń innych niż udzielanych przez użytkownika końcowego zainteresowanego korzystaniem z usługi oraz:
+### Art. 29.
 
-- **1)** nie wymaga albo
-- **2)** wymaga – od tego podmiotu weryfikacji kosztu lub skomplikowania lub czasu przeprowadzenia prac przyłączeniowych do lokalizacji użytkownika końcowego, innej niż dokonywanej w momencie bezpośrednio poprzedzającym prace przyłączeniowe, lub przeprowadzenia tych prac, których koszt lub skomplikowanie lub czas wykonania mogą być wyższe niż przeciętne koszty lub skomplikowanie lub czas wykonania prac przyłączeniowych na rynku telekomunikacyjnym.
+### 1.
 
-3. W celu prezentowania w SIDUSIS informacji, o których mowa w art. 29j pkt 2, SIDUSIS umożliwia wymianę informacji między bazami danych o przebiegu realizacji inwestycji finansowanych ze środków publicznych zapewniających możliwość świadczenia usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu.
+Prezes UKE sporządza dla terytorium Rzeczypospolitej Polskiej, w formie elektronicznej, inwentaryzację przedstawiającą pokrycie istniejącą infrastrukturą telekomunikacyjną i publicznymi sieciami telekomunikacyjnymi zapewniającymi lub umożliwiającymi zapewnienie szerokopasmowego dostępu do Internetu, z odrębnym zaznaczeniem pokrycia łączami światłowodowymi oraz sieciami bezprzewodowymi, oraz budynkami umożliwiającymi kolokację. Inwentaryzacja jest na bieżąco weryfikowana i aktualizowana, nie rzadziej niż raz na rok.
 
-4. W celu prezentowania w SIDUSIS informacji, o których mowa w art. 29j pkt 3, podmioty, o których mowa w art. 29 ust. 2, przekazują do SIDUSIS informacje o:
+### 2.
 
-- **1)** podmiocie planującym lub realizującym inwestycję,
-- **2)** rodzaju usługi, jaka będzie świadczona po ukończeniu realizacji inwestycji – detalicznej lub hurtowej,
-- **3)** maksymalnej przepustowości usług, które będą świadczone,
-- **4)** medium transmisyjnym infrastruktury telekomunikacyjnej planowanej w ramach inwestycji,
-- **5)** danych kontaktowych przedstawiciela podmiotu, o którym mowa w pkt 1,
-- **6)** planowanym terminie rozpoczęcia świadczenia usług, o których mowa w pkt 2 – oraz aktualizują je do 10. dnia kolejnego miesiąca, według stanu na ostatni dzień miesiąca poprzedzającego, albo przekazują w tym terminie oświadczenie o aktualności dotychczas przekazanych informacji.
+Prezes UKE może żądać od:
 
-5. Podmioty, o których mowa w art. 29 ust. 2, które nie umożliwiają świadczenia usług transmisji danych zapewniających stacjonarny szerokopasmowy dostęp do Internetu lub nie planują realizacji inwestycji finansowanych ze środków prywatnych zapewniających możliwość świadczenia tych usług, przekazują do SIDUSIS oświadczenie w tej sprawie. Oświadczenie to pozostaje w mocy do czasu zmiany stanu faktycznego w zakresie, o którym mowa w zdaniu pierwszym.
+### 1)
 
-6. Informacje, o których mowa w ust. 4 pkt 1 i 5, stanowią tajemnicę przedsiębiorstwa do czasu, kiedy planowany termin rozpoczęcia świadczenia usług, o którym mowa w ust. 4 pkt 6, jest dłuższy niż 6 miesięcy od dnia przekazania informacji o planowanej inwestycji lub o aktualności dotychczas przekazanych informacji.
+państwowych i samorządowych jednostek organizacyjnych, z wyłączeniem podmiotów, o których mowa w art. 4 pkt 1, 2, 4, 5 i 8 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
 
-**Art. 29l.**
+### 2)
 
-1. SIDUSIS jest prowadzony w systemie teleinformatycznym, który zapewnia gromadzenie, aktualizację i udostępnianie informacji, o których mowa w ust. 4 pkt 1, art. 29j oraz art. 29k ust. 1 i 4, w sposób jednolity dla obszaru całego kraju.
+podmiotów wykonujących zadania z zakresu użyteczności publicznej,
 
-2. SIDUSIS zapewnia publiczny, nieodpłatny dostęp do informacji, o których mowa w art. 29j oraz art. 29k ust. 1 i 4, z wyjątkiem art. 29k ust. 6.
+### 3)
 
-3. SIDUSIS zapewnia:
+przedsiębiorców telekomunikacyjnych - w przypadku gdy dane pozyskane od podmiotów, o których mowa w pkt 1 i 2, oraz dane pozyskane z innych źródeł okażą się niewystarczające
 
-- **1)** bezpośrednie wprowadzanie informacji, o których mowa w art. 29j, art. 29k ust. 1 i 4, oraz oświadczenia, o którym mowa w art. 29k ust. 5, a także ich aktualizowanie za pomocą formularzy elektronicznych przez stronę internetową SIDUSIS;
-- **2)** identyfikację osoby lub podmiotu wprowadzającego lub aktualizującego informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4, lub przekazującego oświadczenie, o którym mowa w art. 29k ust. 5;
-- **3)** przetwarzanie informacji, o których mowa w art. 29j, art. 29k ust. 1 i 4, oraz wynikających z czynności, o których mowa w ust. 4, w tym wykonywanie analiz oraz agregację tych informacji.
+- posiadanych przez nich aktualnych, zgodnych ze stanem faktycznym, kompletnych oraz adekwatnych do potrzeb wykonania obowiązku, o którym mowa w ust. 1, informacji o posiadanej infrastrukturze telekomunikacyjnej, publicznych sieciach telekomunikacyjnych i budynkach umożliwiających kolokację.
 
-4. SIDUSIS umożliwia za pomocą formularzy elektronicznych:
+### 3.
 
-- **1)** oznaczanie budynków jako pustostanów,
-- **2)** zgłoszenie zapotrzebowania w danym punkcie adresowym na usługę stacjonarnego szerokopasmowego dostępu do Internetu,
-- **3)** weryfikację i potwierdzenie zgodności informacji zgromadzonych w SIDUSIS ze stanem faktycznym w zakresie informacji, o których mowa w art. 29j pkt 1 – oraz przekazanie danych kontaktowych osoby dokonującej tej czynności.
+Informacje przekazuje się w terminie 30 dni od dnia otrzymania żądania. Do informacji stosuje się przepis art. 9 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
 
-5. W przypadku gdy zgłoszone zapotrzebowanie na usługi szerokopasmowego dostępu do Internetu dotyczy nieruchomości, na której możliwe jest świadczenie detalicznej usługi transmisji danych zapewniającej stacjonarny szerokopasmowy dostęp do Internetu, SIDUSIS umożliwia wysłanie automatycznego powiadomienia, zawierającego dane kontaktowe zgłaszającego, o takim zapotrzebowaniu do podmiotu, o którym mowa w art. 29k ust. 1 pkt 1.
+### 4.
 
-6. Zgłaszający, występujący w imieniu własnym lub w imieniu podmiotu dokonującego czynności, o których mowa w ust. 4 pkt 1 i 3, składa oświadczenie o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 Kodeksu karnego oświadczam, że przekazane informacje są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+Główny Geodeta Kraju, na wniosek Prezesa UKE, udostępnia informacje z centralnego zasobu geodezyjnego i kartograficznego niezbędne dla potrzeb wykonania obowiązku, o którym mowa w ust. 1. Informacje udostępnia się w terminie 30 dni od dnia otrzymania wniosku.
 
-7. Lokalizowanie przestrzenne, wprowadzanie oraz aktualizacja informacji, o których mowa w ust. 4 pkt 1 oraz art. 29j, następuje w oparciu o informacje pochodzące z baz danych, o których mowa w art. 4 ust. 1a pkt 2, 4 i 6 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne. Art. 29la. Minister właściwy do spraw informatyzacji może udostępniać informacje, o których mowa w art. 29j, art. 29k ust. 1 i 4 oraz art. 29l ust. 4 pkt 1, z wykorzystaniem usługi udostępnionej w aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
+### 5.
 
-**Art. 29m.**
+Prezes UKE może, o ile nie narusza to tajemnic prawnie chronionych lub nie zagraża obronności lub bezpieczeństwu państwa, przekazać Głównemu Geodecie Kraju inwentaryzację, o której mowa w ust. 1, celem zamieszczenia na geoportalu infrastruktury informacji przestrzennej oraz w krajowej bazie danych geodezyjnej ewidencji sieci uzbrojenia terenu.
 
-1. Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie SIDUSIS, w tym:
+### 6.
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem do SIDUSIS;
-- **2)** zapewnia integralność danych w SIDUSIS;
-- **3)** zapewnia dostępność SIDUSIS dla podmiotów przetwarzających dane w tym systemie;
-- **4)** przeciwdziała uszkodzeniom SIDUSIS;
-- **5)** określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
-- **6)** określa zasady zgłoszenia naruszenia ochrony danych osobowych;
-- **7)** zapewnia rozliczalność działań dokonywanych na danych w SIDUSIS.
+Inwentaryzacja, o której mowa w ust. 1, jest jawna i każdy ma prawo wglądu do tej inwentaryzacji oraz otrzymania z niej wypisów i wyrysów, o ile nie narusza to tajemnic prawnie chronionych lub nie zagraża obronności lub bezpieczeństwu państwa.
 
-2. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w SIDUSIS.
+### 7.
 
-3. Korzystanie z SIDUSIS w celu wprowadzania informacji, o których mowa w art. 29j, art. 29k ust. 1 i 4, oraz oświadczeń, o których mowa w art. 29k ust. 5, wymaga utworzenia w tym systemie konta stanowiącego wydzieloną część tego systemu, zawierającą zbiór danych identyfikujących użytkownika z przyporządkowanymi zasobami tego systemu.
+Minister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia:
 
-4. W SIDUSIS gromadzone są następujące informacje identyfikujące użytkownika posiadającego konto:
+### 1)
 
-- **1)** nazwa podmiotu w imieniu którego użytkownik dokonuje czynności lub przekazuje informacje;
-- **2)** imię i nazwisko;
-- **3)** numer PESEL;
-- **4)** adres poczty elektronicznej;
-- **5)** numer telefonu.
+rodzaj infrastruktury podlegającej inwentaryzacji i skalę map, na których dokonuje się inwentaryzacji, o której mowa w ust. 1,
 
-5. Uwierzytelnienie osoby występującej w imieniu własnym lub w imieniu podmiotu dokonującego czynności, o których mowa w art. 29l ust. 4, oraz podmiotu przekazującego informacje, o których mowa w art. 29k ust. 1, 4 i 5, następuje w sposób, o którym mowa w art. 20a ust. 1 lub 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 2)
 
-**Art. 29n.** Minister właściwy do spraw informatyzacji może powierzyć prowadzenie SIDUSIS w całości albo w części jednostce organizacyjnej mu podległej lub przez niego nadzorowanej.
+elektroniczny format przekazywania danych,
 
-**Art. 29o.** Minister właściwy do spraw informatyzacji określi i udostępni w Biuletynie Informacji Publicznej na swojej stronie podmiotowej standardy technologiczne funkcjonowania SIDUSIS oraz wprowadzania i przetwarzania w nim informacji.
+### 3)
 
-**Art. 29p.**
+szczegółowy zakres i sposób prezentowania informacji w inwentaryzacji,
 
-1. W gminie lub w powiecie może zostać wyznaczony Koordynator Szerokopasmowy.
+### 4)
 
-2. Koordynator Szerokopasmowy reprezentuje gminę lub powiat w kwestiach związanych z telekomunikacją oraz z rozwojem i utrzymaniem sieci szerokopasmowych na terenie gminy lub powiatu, w szczególności:
+wzory formularzy służących do przekazywania Prezesowi UKE informacji, o których mowa w ust. 2, wraz z objaśnieniami co do sposobu ich wypełniania
 
-- **1)** zapewnia mieszkańcom gminy lub powiatu możliwość dokonania czynności, o których mowa w art. 29l ust. 4;
-- **2)** stanowi punkt kontaktowy dla przedsiębiorców telekomunikacyjnych posiadających na terenie gminy lub powiatu sieci szerokopasmowe lub planujących budowę takich sieci;
-- **3)** podejmuje działania wspierające, informacyjne oraz promocyjne na rzecz prowadzonych bądź planowanych inwestycji telekomunikacyjnych na terenie gminy lub powiatu;
-- **4)** prowadzi działania związane z telekomunikacją na terenie gminy lub powiatu, w tym także działania koordynacyjne, informacyjne, edukacyjne i promocyjne związane z działalnością, o której mowa w art. 3 ust. 1, lub z działaniami, o których mowa w art. 15 ust. 1, o ile dana gmina lub powiat prowadzą taką działalność lub takie działania.
+- kierując się potrzebą zapewnienia rzetelnego i wiarygodnego zbioru informacji o istniejącej infrastrukturze telekomunikacyjnej i publicznych sieciach telekomunikacyjnych zapewniających lub umożliwiających zapewnienie szerokopasmowego dostępu do Internetu, a także potrzebą usprawnienia i ujednolicenia procesu przekazywania danych.
 
-3. Minister właściwy do spraw informatyzacji może udzielić gminie lub powiatowi wsparcia z Funduszu na dofinansowanie lub finansowanie funkcjonowania Koordynatora Szerokopasmowego w gminie lub w powiecie, w tym na realizację zadań, o których mowa w ust. 2.
+### Rozdział 3 Łącza telekomunikacyjne w budynkach oraz prawo drogi
 
-**Art. 29q.**
+### Art. 30.
 
-1. Minister właściwy do spraw informatyzacji, jeżeli przemawia za tym charakter lub zakres naruszenia, może, w drodze decyzji, nałożyć karę pieniężną w wysokości od 100 zł do 100 000 zł na podmiot, który nie wypełnia obowiązku, o którym mowa w art. 29k ust. 1, 4 lub 5, albo wypełnia go w sposób nierzetelny lub niezgodny z prawdą, biorąc pod uwagę liczbę i wagę stwierdzonych uchybień oraz naruszonych przez podmiot obowiązków.
+### 1.
 
-2. Podmiot, o którym mowa w art. 29 ust. 2, nie podlega karze, o której mowa w ust. 1, jeżeli uchybienia dotyczą informacji, o których mowa w art. 29k ust. 1, w zakresie w jakim zostały mu udostępnione przez inny podmiot, który umożliwia mu dostęp do infrastruktury w celu świadczenia usług detalicznych.
+Właściciel, użytkownik wieczysty lub zarządca nieruchomości jest obowiązany zapewnić przedsiębiorcy telekomunikacyjnemu, który doprowadził publiczną sieć telekomunikacyjną do nieruchomości, dostęp do:
 
-3. Do wypełniania obowiązków, o których mowa w art. 29k ust. 1, 4 lub 5, nie stosuje się art. 444 ust. 2 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej.
+### 1)
 
-**Art. 29r.** Minister właściwy do spraw informatyzacji za pomocą SIDUSIS udostępnia Prezesowi UKE, w celu realizacji jego ustawowych zadań, informacje, o których mowa w art. 29j i art. 29k ust. 1 i 4.
+budynku,
 
-**Art. 29s.**
+### 2)
 
-1. Minister właściwy do spraw informatyzacji, na podstawie informacji gromadzonych w SIDUSIS, może określić obszary geograficzne, na których nie jest możliwe świadczenie i w ciągu 3 lat nie jest planowane zapewnienie możliwości świadczenia za pomocą publicznych sieci telekomunikacyjnych usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu o przepustowości co najmniej 100 Mb/s.
+miejsca w budynku, w którym zbiegają się kable doprowadzone do lokalu w tym budynku
 
-2. W przypadku, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji publikuje w SIDUSIS informacje o określonych przez niego obszarach geograficznych wraz z otwartym zaproszeniem do zgłaszania zamiaru objęcia danego obszaru publiczną siecią telekomunikacyjną zapewniającą lub umożliwiającą świadczenie usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu o przepustowości co najmniej 100 Mb/s, zawierającym pouczenie o zakresie informacji wymaganych w zgłoszeniu oraz informację o sposobie i terminie wnoszenia zgłoszeń.
+- w celu zapewnienia telekomunikacji.
 
-3. Minister właściwy do spraw informatyzacji publikuje w SIDUSIS zgłoszenia otrzymane w terminie określonym w zaproszeniu, z wyjątkiem informacji objętych zastrzeżeniem ze względu na tajemnicę przedsiębiorstwa.
+### 2.
 
-#### Rozdział 3 Łącza telekomunikacyjne w budynkach oraz prawo drogi
+Właściciel istniejącej kanalizacji kablowej usytuowanej na nieruchomości lub w budynku jest obowiązany udostępnić tę kanalizację przedsiębiorcy telekomunikacyjnemu, który nie ma możliwości korzystania z innej istniejącej kanalizacji kablowej, w celu zapewnienia telekomunikacji.
 
-**Art. 30.**
+### 3.
 
-1. Właściciel, użytkownik wieczysty lub zarządca nieruchomości, niebędący przedsiębiorcą telekomunikacyjnym, jest zobowiązany zapewnić przedsiębiorcy telekomunikacyjnemu dostęp telekomunikacyjny do nieruchomości, w tym do budynku oraz punktu styku, polegający na umożliwieniu:
+Jeżeli nie ma możliwości doprowadzenia kolejnego kabla telekomunikacyjnego do budynku lub umieszczenia tego kabla w istniejącej kanalizacji kablowej, właściciel kabla telekomunikacyjnego doprowadzonego do tego budynku lub rozprowadzonego w tym budynku jest obowiązany udostępnić przedsiębiorcy telekomunikacyjnemu całość lub część tego kabla, w tym w szczególności włókno światłowodowe.
 
-- **1)** doprowadzenia szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami aż do punktu styku,
-- **2)** wykonania szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami dalej niż do punktu styku, jeżeli:
-    - **a)** nie istnieje taka sieć lub
-    - **b)** istniejąca sieć nie jest dostępna lub nie odpowiada zapotrzebowaniu przedsiębiorcy telekomunikacyjnego,
+### 4.
 
-- **3)** korzystania z punktu styku,
-- **4)** utrzymywania, eksploatacji, przebudowy lub remontu szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami będących własnością tego przedsiębiorcy telekomunikacyjnego,
-- **5)** wejścia na teren nieruchomości, w tym do budynku, w zakresie niezbędnym do korzystania z dostępu, o którym mowa w pkt 1–4 i ust. 3 – w celu zapewnienia telekomunikacji w tym budynku.
+Warunki dostępu, o którym mowa w ust. 1-3, określa umowa zawarta między przedsiębiorcą telekomunikacyjnym a odpowiednio właścicielem, użytkownikiem wieczystym lub zarządcą nieruchomości, właścicielem istniejącej kanalizacji kablowej lub właścicielem kabla doprowadzonego do budynku lub rozprowadzonego w budynku.
 
-1a. Warunek, o którym mowa w ust. 1 pkt 2 lit. b, uważa się za spełniony w szczególności, gdy:
+### 5.
 
-- **1)** właściciel szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami nie podejmuje negocjacji z przedsiębiorcą telekomunikacyjnym w sprawie dostępu do tej sieci wraz z powiązanymi zasobami;
-- **2)** właściciel szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami odmawia przedsiębiorcy telekomunikacyjnemu dostępu do tej sieci wraz z powiązanymi zasobami;
-- **3)** oferowane warunki dostępu telekomunikacyjnego do szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami są dyskryminujące lub uniemożliwiają przedsiębiorcy telekomunikacyjnemu oferowanie użytkownikom końcowym konkurencyjnych warunków świadczenia usług, w tym cenowych i jakościowych;
-- **4)** przedsiębiorca telekomunikacyjny świadczy usługi w innej technologii niż technologia, w której została wykonana istniejąca w budynku szybka sieć telekomunikacyjna wraz z powiązanymi zasobami.
+Do dostępu, o którym mowa w ust. 1-3, stosuje się odpowiednio przepisy art. 19-24, z tym że termin zawarcia umowy dostępu wynosi 30 dni od dnia wystąpienia przez przedsiębiorcę telekomunikacyjnego z wnioskiem o jej zawarcie.
 
-1b. Obowiązek, o którym mowa w ust. 1, jest niezależny od tego, czy budynek został ukończony i czy rozpoczęto jego użytkowanie, choćby w budynku istniała lub była wykonywana inna szybka sieć telekomunikacyjna wraz z powiązanymi zasobami.
+### 6.
 
-1c. Przedsiębiorca telekomunikacyjny jest obowiązany do korzystania z dostępu, o którym mowa w ust. 1 i 3, w sposób możliwie najmniej uciążliwy dla właściciela, użytkownika wieczystego oraz osób, którym przysługują inne prawa do nieruchomości, z uwzględnieniem przeznaczenia budynku oraz jego stanu technicznego i estetycznego, a także do przywrócenia nieruchomości do stanu poprzedniego niezwłocznie po doprowadzeniu szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami do punktu styku lub dalej niż do punktu styku.
+W celu zapewnienia świadczenia użytkownikom usług telefonicznych, usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu oraz usług rozprowadzania cyfrowych programów radiowych i telewizyjnych w wysokiej rozdzielczości przez różnych dostawców usług, budynek powinien być wyposażony, zgodnie z przepisami w sprawie warunków techniczno-budowlanych wydanych na podstawie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474.](#gloss-0:5:)), w instalację telekomunikacyjną umożliwiającą przyłączenie do publicznych sieci telekomunikacyjnych wykorzystywanych do świadczenia tych usług, przy zachowaniu zasady neutralności technologicznej.
 
-1d. Jeżeli przedsiębiorca telekomunikacyjny uzyskał dostęp, o którym mowa w ust. 1, w drodze decyzji Prezesa UKE, a przywrócenie nieruchomości do stanu poprzedniego jest niemożliwe albo powoduje nadmierne trudności lub koszty, stosuje się odpowiednio przepisy art. 128 ust. 4 i art. 129 ust. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2026 r. poz. 399).
+### Art. 31.
 
-1e. Przedsiębiorca telekomunikacyjny może zwrócić się do właściciela, użytkownika wieczystego lub zarządcy nieruchomości z wnioskiem o udzielenie mu informacji o:
+### 1.
 
-- **1)** danych kontaktowych właściciela infrastruktury telekomunikacyjnej znajdującej się na nieruchomości;
-- **2)** podmiotach korzystających z punktu styku;
-- **3)** innych przedsiębiorcach telekomunikacyjnych korzystających z infrastruktury telekomunikacyjnej znajdującej się na nieruchomości;
-- **4)** numerze księgi wieczystej nieruchomości;
-- **5)** osobach lub podmiotach uprawnionych do zawarcia umowy w sprawie dostępu, o którym mowa w ust. 1 i 3, wraz z ich adresami do doręczeń.
+Jeżeli nieruchomość lub jej część zajmowana przez użytkownika końcowego nie posiada przyłączenia do sieci telekomunikacyjnej, odpowiadającego potrzebom użytkownika końcowego, właściciel nieruchomości, użytkownik wieczysty nieruchomości, osoba, której przysługuje spółdzielcze prawo do lokalu lub zarządca nieruchomości, nie może odmówić, z wyjątkiem przypadków wynikających z przepisów prawa, instalacji, utrzymania lub wymiany zewnętrznej instalacji telekomunikacyjnej.
 
-1f. Właściciel, użytkownik wieczysty lub zarządca nieruchomości jest obowiązany udzielić przedsiębiorcy telekomunikacyjnemu informacji, o których mowa w ust. 1e pkt 1, 2, 4 i 5, oraz – o ile są w jego posiadaniu – informacji, o których mowa w ust. 1e pkt 3, w terminie 14 dni od dnia otrzymania wniosku w tej sprawie. Jeżeli podmiot, o którym mowa w zdaniu pierwszym, nie posiada informacji, o których mowa w ust. 1e pkt 3, informuje o tym przedsiębiorcę telekomunikacyjnego w tym samym terminie.
+### 2.
 
-1g. (uchylony)
+Jeżeli przedsiębiorca telekomunikacyjny oraz odpowiednio właściciel nieruchomości, użytkownik wieczysty nieruchomości, osoba, której przysługuje spółdzielcze prawo do lokalu, lub zarządca nieruchomości nie poczynią innych ustaleń, prace instalacyjne, utrzymanie i wymiana zewnętrznej instalacji telekomunikacyjnej odbywają się na koszt przedsiębiorcy telekomunikacyjnego.
 
-2. (uchylony)
+### Art. 32.
 
-3. Właściciel wewnątrzbudynkowej infrastruktury technicznej, z wyłączeniem użytkownika rządowego, o którym mowa w art. 2 pkt 87 lit. a, b, d, e, g oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, jest obowiązany zapewnić przedsiębiorcy telekomunikacyjnemu dostęp do tej infrastruktury na potrzeby umieszczenia w niej lub na niej elementów szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami, jeżeli powielenie takiej infrastruktury byłoby ekonomicznie nieefektywne lub technicznie niewykonalne. Jeżeli wewnątrzbudynkowa infrastruktura techniczna stanowi części składowe nieruchomości, do zapewnienia dostępu jest obowiązany właściciel, użytkownik wieczysty lub zarządca nieruchomości.
+W przypadku posiadania przez użytkownika końcowego tytułu prawnego do nieruchomości lub jej części innego niż prawo własności, prawo użytkowania wieczystego lub spółdzielcze prawo do lokalu, do przyłączenia pojedynczego zakończenia sieci stosuje się odpowiednio przepis art. 684 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075 oraz z 2010 r. Nr 40, poz. 222.](#gloss-0:6:)).
 
-3a. Dostęp, o którym mowa w ust. 1 i 3, jest nieodpłatny, z tym zastrzeżeniem, że dostęp, o którym mowa w ust. 3, jest odpłatny jeżeli wewnątrzbudynkowa infrastruktura techniczna jest własnością podmiotu, którego przeważającym przedmiotem działalności jest działalność telekomunikacyjna.
+### Art. 33.
 
-3b. W przypadku uzyskania dostępu, o którym mowa w ust. 1 i 3, przedsiębiorca telekomunikacyjny ponosi koszty:
+### 1.
 
-- **1)** związane z udostępnieniem nieruchomości w celu doprowadzenia do budynku szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami do punktu styku lub wykonania szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami dalej niż do punktu styku, w tym przywrócenia stanu pierwotnego;
-- **2)** utrzymania udostępnionej szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami.
+Właściciel, użytkownik wieczysty nieruchomości lub zarządca nieruchomości są obowiązani umożliwić operatorom, podmiotom, o których mowa w art. 4 pkt 1, 2, 4, 5 i 8 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, oraz jednostkom samorządu terytorialnego wykonującym działalność, o której mowa w art. 3 ust. 1, umieszczenie na nieruchomości obiektów i urządzeń infrastruktury telekomunikacyjnej, w szczególności instalowanie urządzeń telekomunikacyjnych, przeprowadzanie linii kablowych pod nieruchomością, na niej lub nad nią, umieszczanie tabliczek informacyjnych o urządzeniach, a także ich eksploatację i konserwację, jeżeli nie uniemożliwia to racjonalnego korzystania z nieruchomości, w szczególności nie prowadzi do istotnego zmniejszenia wartości nieruchomości.
 
-4. Zawarcie umowy o dostępie, o którym mowa w ust. 1 i 3, stanowi czynność zwykłego zarządu.
+### 2.
 
-5. Do dostępu, o którym mowa w ust. 1 i 3, stosuje się przepisy działu III rozdziału 3 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z tym że:
+Korzystanie z nieruchomości, o których mowa w ust. 1, jest odpłatne, chyba że linia lub urządzenia telekomunikacyjne służą zapewnianiu telekomunikacji:
 
-- **1)** termin zawarcia umowy o dostęp wynosi 30 dni od dnia wystąpienia przez przedsiębiorcę telekomunikacyjnego z wnioskiem o jej zawarcie;
-- **2)** Prezes UKE wydaje decyzję o dostępie, o którym mowa w ust. 1 pkt 4, także wówczas, jeżeli dla istniejących elementów sieci telekomunikacyjnych oraz powiązanych zasobów warunki dostępu nie są określone w umowie lub umowa taka wygasła, chyba że przedsiębiorca telekomunikacyjny wykonał je, nie mając tytułu prawnego do dysponowania nieruchomością na ten cel oraz wbrew woli lub bez wiedzy właściciela, użytkownika wieczystego lub zarządcy nieruchomości;
-- **3)** Prezes UKE określa warunki dostępu, o którym mowa w ust. 1, kierując się potrzebą jak najefektywniejszego wykorzystania istniejącej infrastruktury technicznej znajdującej się na nieruchomości, w tym w budynku;
-- **4)** we wniosku o wydanie decyzji o dostępie, o którym mowa w ust. 1, wskazuje się numer księgi wieczystej prowadzonej dla nieruchomości, do której ma być zapewniony dostęp;
-- **5)** stronami postępowania w sprawie wydania decyzji o dostępie, o którym mowa w ust. 1, a w przypadku, o którym mowa w ust. 3 zdanie drugie, także o dostępie, o którym mowa w ust. 3, są przedsiębiorca telekomunikacyjny oraz właściciel, użytkownik wieczysty lub zarządca nieruchomości, do którego przedsiębiorca telekomunikacyjny wystąpił z wnioskiem o zapewnienie tego dostępu; w przypadku zmiany zarządcy nieruchomości, ustania zarządu albo utraty przez dotychczasowego zarządcę uprawnienia do zawarcia umowy o dostęp, o którym mowa w ust. 1 lub 3, na jego miejsce wstępuje nowy zarządca nieruchomości, a w przypadku jego braku – właściciel lub użytkownik wieczysty nieruchomości;
-- **6)** w przypadku zmiany właściciela, użytkownika wieczystego lub zarządcy nieruchomości po wystąpieniu z wnioskiem o zawarcie umowy o dostęp, o którym mowa w ust. 1, a w przypadku, o którym mowa w ust. 3 zdanie drugie, także o dostęp, o którym mowa w ust. 3, a przed złożeniem wniosku o wydanie decyzji o dostępie do Prezesa UKE przepisy pkt 5 oraz art. 30 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) stosuje się odpowiednio.
+### 1)
 
-5a. Umowa zawarta w formie pisemnej albo ostateczna decyzja o dostępie, o którym mowa w ust. 1, stanowią podstawę do dokonania wpisu w księdze wieczystej. W przypadku gdy podstawą do dokonania wpisu jest ostateczna decyzja o dostępie, wpisu można dokonać także na wniosek Prezesa UKE.
+właścicielowi nieruchomości;
 
-5b. (uchylony) 5ba. (uchylony) 5c. (uchylony) 5d. Umowa oraz decyzja w sprawie dostępu, o którym mowa w ust. 1 i 3, są wiążące dla następców prawnych właścicieli i użytkowników wieczystych nieruchomości objętej tą umową lub decyzją oraz innych podmiotów władających tą nieruchomością.
+### 2)
 
-5e. Przepisy ust. 1–1f oraz 3–5a i 5d stosuje się odpowiednio do każdego, komu przysługuje skuteczne względem właściciela, użytkownika wieczystego lub zarządcy nieruchomości lub właściciela szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami doprowadzonej do punktu styku lub szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami doprowadzonej dalej niż do punktu styku, prawo korzystania z:
+użytkownikowi wieczystemu nieruchomości;
 
-- **1)** punktu styku;
-- **2)** szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami doprowadzonej do punktu styku lub szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami doprowadzonej dalej niż do punktu styku.
+### 3)
 
-5f. Dostęp, o którym mowa w ust. 1 pkt 1, 2, 4 i 5, jest obowiązany zapewnić także właściciel, użytkownik wieczysty lub zarządca nieruchomości będący przedsiębiorcą telekomunikacyjnym. Przepisy ust. 1a–1f i 3a–5d stosuje się.
+osobie, której przysługuje spółdzielcze prawo do lokalu;
 
-5g. Właściciel lub użytkownik wieczysty nieruchomości nie może uzależniać dostępu, o którym mowa w ust. 1, od ustanowienia za wynagrodzeniem służebności przesyłu na rzecz przedsiębiorcy telekomunikacyjnego, jeżeli zachodzą przesłanki zapewnienia temu przedsiębiorcy telekomunikacyjnemu takiego dostępu.
+### 4)
 
-6. W celu zapewnienia świadczenia użytkownikom usług telefonicznych, usług transmisji danych zapewniających szerokopasmowy dostęp do Internetu oraz usług rozprowadzania cyfrowych programów radiowych i telewizyjnych w wysokiej rozdzielczości przez różnych dostawców usług inwestor wyposaża budynek, zgodnie z przepisami w sprawie warunków techniczno-budowlanych wydanymi na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, w instalację telekomunikacyjną stanowiącą część składową nieruchomości, umożliwiającą przyłączenie do publicznych sieci telekomunikacyjnych wykorzystywanych do świadczenia tych usług, przy zachowaniu zasady neutralności technologicznej.
+osobie posiadającej inny tytuł prawny do nieruchomości.
 
-7. Jeżeli użytkowany budynek mieszkalny wielorodzinny, budynek zamieszkania zbiorowego lub budynek użyteczności publicznej nie jest wyposażony w instalację, o której mowa w ust. 6, właściciel jest obowiązany wyposażyć budynek w taką instalację w przypadku rozbudowy, nadbudowy lub przebudowy budynku związanej z rozbudową, nadbudową lub przebudową instalacji technicznej wewnątrz budynku.
+### 3.
 
-8. W przypadku gdy inwestor występuje z wnioskiem o pozwolenie na budowę albo dokonuje zgłoszenia rozbudowy, nadbudowy lub przebudowy budynku mieszkalnego wielorodzinnego, budynku zamieszkania zbiorowego lub budynku użyteczności publicznej związanej z rozbudową, nadbudową lub przebudową instalacji technicznej wewnątrz budynku, a:
+Warunki korzystania z nieruchomości ustała się w umowie, która jest zawierana na piśmie w terminie 30 dni od dnia wystąpienia przez operatora z wnioskiem o jej zawarcie.
 
-- **1)** budynek jest wyposażony w instalację, o której mowa w ust. 6 – do wniosku o pozwolenie na budowę lub zgłoszenia dołącza się oświadczenie, składane pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o istnieniu w budynku takiej instalacji;
-- **2)** budynek nie jest wyposażony w instalację, o której mowa w ust. 6 – wnioskiem albo zgłoszeniem należy objąć również wykonanie takiej instalacji.
+### 4.
 
-9. Składający oświadczenie, o którym mowa w ust. 8 pkt 1, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+Warunki korzystania z pasa drogowego ustala się na podstawie przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2007 r. Nr 19, poz. 115](https://api.sejm.gov.pl/eli/acts/DU/2007/115/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323.](#gloss-0:7:)).
 
-**Art. 31.**
+### 5.
 
-1. Jeżeli nieruchomość lub jej część zajmowana przez użytkownika końcowego nie posiada przyłączenia do sieci telekomunikacyjnej, odpowiadającego potrzebom użytkownika końcowego, właściciel nieruchomości, użytkownik wieczysty nieruchomości, osoba, której przysługuje spółdzielcze prawo do lokalu lub zarządca nieruchomości, nie może odmówić, z wyjątkiem przypadków wynikających z przepisów prawa, instalacji, utrzymania lub wymiany zewnętrznej instalacji telekomunikacyjnej.
+Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej może, w drodze rozporządzenia, określić wysokość opłat za korzystanie z nieruchomości będących własnością Skarbu Państwa lub jednostki sektora finansów publicznych, które są zajmowane lub administrowane przez jednostkę sektora finansów publicznych, biorąc pod uwagę rodzaj nieruchomości, rodzaj urządzenia i obiektu, wielkość zajmowanej nieruchomości oraz promowanie inwestycji w zakresie sieci szerokopasmowych.
 
-2. Jeżeli przedsiębiorca telekomunikacyjny oraz odpowiednio właściciel nieruchomości, użytkownik wieczysty nieruchomości, osoba, której przysługuje spółdzielcze prawo do lokalu, lub zarządca nieruchomości nie poczynią innych ustaleń, prace instalacyjne, utrzymanie i wymiana zewnętrznej instalacji telekomunikacyjnej odbywają się na koszt przedsiębiorcy telekomunikacyjnego.
+### 6.
 
-**Art. 32.** W przypadku posiadania przez użytkownika końcowego tytułu prawnego do nieruchomości lub jej części innego niż prawo własności, prawo użytkowania wieczystego lub spółdzielcze prawo do lokalu, do przyłączenia pojedynczego zakończenia sieci stosuje się odpowiednio przepis art. 684 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184).
+W przypadku, o którym mowa w ust. 5, przedmiotem rokowań ani umowy, o której mowa w ust. 3, nie mogą być warunki finansowe korzystania z nieruchomości, której opłaty te dotyczą.
 
-**Art. 33.**
+### 7.
 
-1. W przypadkach innych niż określone w art. 30 ust. 1 właściciel, użytkownik wieczysty lub zarządca nieruchomości jest obowiązany zapewnić operatorom, użytkownikom rządowym, o których mowa w art. 2 pkt 87 lit. a, b, d, e oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, oraz jednostkom samorządu terytorialnego wykonującym działalność, o której mowa w art. 3 ust. 1, dostęp do nieruchomości, w tym do budynku, polegający na umożliwieniu umieszczenia na nich elementów sieci telekomunikacyjnej oraz powiązanych zasobów, a także ich eksploatacji i konserwacji, jeżeli nie uniemożliwia to racjonalnego korzystania z nieruchomości, w szczególności nie prowadzi do istotnego zmniejszenia wartości nieruchomości.
+Jeżeli w terminie, o którym mowa w ust. 3, nie zostanie zawarta umowa, stosuje się przepisy art. 124 i 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2010 r. Nr 102, poz. 651](https://api.sejm.gov.pl/eli/acts/DU/2010/651/text.html)).
 
-2. Dostęp, o którym mowa w ust. 1, jest odpłatny, chyba że:
+### Art. 34.
 
-- **1)** strony umowy o dostępie postanowią inaczej;
-- **2)** dotyczy umieszczenia, eksploatacji i konserwacji punktów dostępu bezprzewodowego o bliskim zasięgu na nieruchomościach, o których mowa w ust. 1, stanowiących obszar kolejowy, o którym mowa w art. 4 pkt 8 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234 oraz z 2026 r. poz. 41).
+Jeżeli nieruchomość stanowi przedmiot ograniczonych praw rzeczowych lub obligacyjnych, a także zarządu lub trwałego zarządu, przepis art. 33 stosuje się odpowiednio.
 
-3. Termin zawarcia umowy o dostępie, o którym mowa w ust. 1, wynosi 30 dni od dnia wystąpienia przez operatora, użytkownika rządowego, o którym mowa w art. 2 pkt 87 lit. a, b, d, e oraz h ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, lub jednostkę samorządu terytorialnego wykonującą działalność, o której mowa w art. 3 ust. 1, z wnioskiem o jej zawarcie. Przepis art. 30 ust. 5d stosuje się odpowiednio.
+### Art. 35.
 
-3a. Umowa, o której mowa w ust. 3, stanowi podstawę do dokonania wpisu w księdze wieczystej.
+Przepisy art. 33 i 34 stosuje się odpowiednio do korzystania z urządzeń i obiektów infrastruktury technicznej, w szczególności słupów oświetleniowych i trakcyjnych, będących własnością jednostek samorządu terytorialnego lub Skarbu Państwa i niestanowiących części składowych nieruchomości.
 
-4. Warunki korzystania z pasa drogowego ustala się na podstawie przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### Art. 36.
 
-5. (uchylony)
+Do współkorzystania z infrastruktury telekomunikacyjnej, w stosunku do której uprawnienie do jej zakładania, używania lub konserwacji na cudzej nieruchomości zostało nabyte na podstawie zezwolenia organu administracji publicznej lub z mocy prawa, lub znajdującej się na nieruchomościach zajmowanych lub administrowanych przez jednostki sektora finansów publicznych, których te jednostki są właścicielem, stosuje się odpowiednio przepisy art. 33 i 34.
 
-6. (uchylony)
+### Rozdział 4 Odrębna własność elementów infrastruktury telekomunikacyjnej
 
-7. Jeżeli w terminie, o którym mowa w ust. 3, nie zostanie zawarta umowa, stosuje się odpowiednio przepisy art. 124 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+### Art. 37.
 
-**Art. 34.** Jeżeli nieruchomość stanowi przedmiot ograniczonych praw rzeczowych lub obligacyjnych, a także zarządu lub trwałego zarządu, przepis art. 33 stosuje się odpowiednio.
+Włókno światłowodowe umieszczone w kablu światłowodowym wchodzące w skład sieci telekomunikacyjnej może stanowić odrębny przedmiot własności i innych praw rzeczowych w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny.
 
-**Art. 35.** Przepisy art. 33 i 34 stosuje się odpowiednio do korzystania z urządzeń i obiektów infrastruktury technicznej, w szczególności słupów oświetleniowych i trakcyjnych, będących własnością jednostek samorządu terytorialnego lub Skarbu Państwa i niestanowiących części składowych nieruchomości.
+### Art. 38.
 
-**Art. 35a.**
+### 1.
 
-1. Prezes UKE może wezwać:
+W przypadku ustanowienia odrębnej własności włókna światłowodowego, właścicielowi włókna przysługuje udział w części wspólnej kabla światłowodowego, jako prawo związane z własnością włókna. Nie można żądać zniesienia współwłasności części wspólnej kabla, dopóki trwa odrębna własność włókien światłowodowych.
 
-- **1)** nadleśniczego Lasów Państwowych,
-- **2)** podmiot, który zarządza terenem zamkniętym,
-- **3)** właściciela, użytkownika wieczystego lub zarządcę co najmniej 10 budynków mieszkalnych wielorodzinnych, zamieszkania zbiorowego lub użyteczności publicznej,
-- **4)** Prezesa Krajowego Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834 oraz z 2026 r. poz. 39 i 426) – do przedstawienia informacji w sprawie warunków zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 lub w art. 33 ust. 1.
+### 2.
 
-2. Podmioty, o których mowa w ust. 1, są obowiązane do przedstawienia informacji Prezesowi UKE w terminie 30 dni od dnia otrzymania wezwania.
+Część wspólną kabla światłowodowego stanowią wszystkie jego elementy oprócz włókien światłowodowych.
 
-3. Po przedstawieniu informacji, o której mowa w ust. 1, lub upływie terminu, o którym mowa w ust. 2, Prezes UKE, kierując się potrzebą zapewnienia skutecznej konkurencji oraz zapewnienia telekomunikacji, może, w drodze decyzji, określić obiektywne, przejrzyste, proporcjonalne i niedyskryminacyjne warunki zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 lub art. 33 ust. 1.
+### 3.
 
-4. Podmioty, o których mowa w ust. 1, wobec których została wydana decyzja w sprawie określenia warunków zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 lub art. 33 ust. 1, są obowiązane do zawierania, w zakresie swojej właściwości, umów o tym dostępie na warunkach niegorszych niż określone w tej decyzji.
+Udział właściciela włókna światłowodowego w części wspólnej kabla światłowodowego odpowiada stosunkowi liczby włókien przypadających temu właścicielowi do ogólnej liczby włókien światłowodowych w kablu.
 
-5. Prezes UKE podaje do publicznej wiadomości decyzję, o której mowa w ust. 3, w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Komunikacji Elektronicznej.
+### Art. 39.
 
-6. Podmioty, o których mowa w ust. 1 pkt 2 i 3, zamieszczają na swoich stronach internetowych aktualne warunki zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 oraz art. 33 ust. 1, uwzględniające warunki określone decyzją, o której mowa w ust. 3.
+### 1.
 
-7. Podmioty, o których mowa w ust. 1 pkt 2 i 3, przekazują Prezesowi UKE za pomocą strony internetowej systemu teleinformatycznego, o którym mowa w art. 29b ust. 2, informacje o adresach swoich stron internetowych w terminie 7 dni od dnia zamieszczenia na nich warunków zapewnienia dostępu, o którym mowa w art. 30 ust. 1 i 3 oraz art. 33 ust. 1. Prezes UKE udostępnia te informacje za pośrednictwem punktu informacyjnego do spraw telekomunikacji.
+Dotychczasowy właściciel kabla światłowodowego ma co do włókna światłowodowego, którego odrębna własność nie została ustanowiona, oraz co do części wspólnej kabla światłowodowego takie same uprawnienia i obowiązki, jakie przysługują właścicielom włókien, których odrębna własność została ustanowiona.
 
-8. Prezes UKE przed wydaniem decyzji, o której mowa w ust. 3, przeprowadza postępowanie konsultacyjne. Przepisy działu I rozdziału 4 oddziału 1 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej stosuje się.
+### 2.
 
-**Art. 36.** Do współkorzystania z infrastruktury telekomunikacyjnej, w stosunku do której uprawnienie do jej zakładania, używania lub konserwacji na cudzej nieruchomości zostało nabyte na podstawie zezwolenia organu administracji publicznej lub z mocy prawa, lub znajdującej się na nieruchomościach zajmowanych lub administrowanych przez jednostki sektora finansów publicznych, których te jednostki są właścicielem, stosuje się odpowiednio przepisy art. 33 i 34.
+Jeżeli do ustanawiania odrębnej własności włókien światłowodowych dochodzi sukcesywnie, właściciele włókien, których odrębna własność już została ustanowiona, nie są stronami umów dotyczących ustanawiania odrębnej własności dalszych włókien.
 
-**Art. 36a.**
+### Art. 40.
 
-1. Przedsiębiorca telekomunikacyjny może zwrócić się do operatora sieci realizującego bezpośrednio lub pośrednio, w szczególności przez podwykonawców, roboty budowlane dotyczące infrastruktury technicznej, finansowane w całości lub w części ze środków publicznych, z wnioskiem o koordynację robót budowlanych.
+### 1.
 
-2. Koordynacja robót budowlanych polega na:
+Odrębną własność włókna światłowodowego można ustanowić w drodze umowy między właścicielem kabla światłowodowego wchodzącego w skład sieci telekomunikacyjnej a nabywcą własności włókna, a także w drodze jednostronnej czynności prawnej właściciela takiego kabla albo orzeczenia sądu znoszącego współwłasność kabla.
 
-- **1)** współdziałaniu operatora sieci z przedsiębiorcą telekomunikacyjnym w celu umożliwienia wykonywania przez tego przedsiębiorcę robót budowlanych dotyczących szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami w tym samym czasie i w tym samym miejscu, w szczególności w tym samym budynku lub we wspólnym wykopie, co roboty budowlane wykonywane przez operatora sieci;
-- **2)** zaprojektowaniu i wykonaniu przez operatora sieci infrastruktury technicznej, w szczególności kanalizacji kablowej, szafy kablowej, punktu styku lub antenowej konstrukcji wsporczej, uwzględniającej potrzeby przedsiębiorcy telekomunikacyjnego dotyczące realizacji elementów szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami, jeżeli powielenie tej infrastruktury przez przedsiębiorcę telekomunikacyjnego jest technicznie niemożliwe lub ekonomicznie nieopłacalne.
+### 2.
 
-3. Operator sieci uwzględnia wniosek o koordynację robót budowlanych, jeżeli:
+Odrębna własność włókna światłowodowego może powstać także w wykonaniu umowy zobowiązującej przedsiębiorcę do wybudowania sieci telekomunikacyjnej oraz do ustanowienia po zakończeniu budowy odrębnej własności włókna światłowodowego i przeniesienia tego prawa na drugą stronę umowy lub na inną wskazaną w umowie osobę.
 
-- **1)** został złożony w celu budowy lub wykonywania innych robót budowlanych dotyczących elementów szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami;
-- **2)** jego uwzględnienie nie spowoduje poniesienia przez operatora sieci dodatkowych kosztów dotyczących planowanych przez niego robót budowlanych, w tym kosztów spowodowanych opóźnieniami tych robót;
-- **3)** zapewnienie koordynacji robót budowlanych nie spowoduje opóźnienia uniemożliwiającego zakończenie inwestycji realizowanej przez operatora sieci w terminie określonym w umowie o dofinansowaniu lub umowie w sprawie zamówienia publicznego;
-- **4)** jego uwzględnienie nie utrudni wykonywania kontroli nad robotami budowlanymi objętymi koordynacją;
-- **5)** został złożony:
-    - **a)** niepóźniej niż na 30 dni przed dniem złożenia wniosku o pozwolenie na budowę lub zgłoszenia, o którym mowa w art. 30 ust. 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane,
-    - **b)** na naradzie koordynacyjnej, o której mowa w art. 28b ust. 1 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, w odniesieniu do robót budowlanych niewymagających pozwolenia na budowę lub zgłoszenia, o którym mowa w art. 30 ust. 1b ustawy z dnia 7 lipca 1994 r. – Prawo budowlane;
+### 3.
 
-- **6)** przedsiębiorca telekomunikacyjny uzyskał decyzję, o której mowa w art. 39 ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych – w przypadku robót budowlanych prowadzonych w pasie drogowym dróg publicznych.
+Czynność prawna obejmująca oświadczenie woli o ustanowieniu odrębnej własności włókna światłowodowego wymaga, dla skutecznego ustanowienia tego prawa, zachowania formy pisemnej z urzędowym poświadczeniem daty.
 
-4. Koordynacja robót budowlanych w pasie drogowym dróg publicznych nie zwalnia przedsiębiorcy telekomunikacyjnego z obowiązku uzyskania decyzji, o której mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### Art. 41.
 
-5. Operator sieci może odmówić uwzględnienia wniosku o koordynację robót budowlanych, jeżeli:
+### 1.
 
-- **1)** jest to niezbędne ze względu na bezpieczeństwo publiczne, zdrowie publiczne lub integralność i bezpieczeństwo sieci, w szczególności infrastruktury krytycznej;
-- **2)** planowane usługi telekomunikacyjne mogą spowodować poważne zakłócenia w świadczeniu innych usług za pośrednictwem infrastruktury technicznej objętej koordynacją robót budowlanych;
-- **3)** zaoferuje przedsiębiorcy telekomunikacyjnemu skuteczny dostęp do infrastruktury technicznej, w szczególności polegający na współkorzystaniu z włókna światłowodowego lub dostępie do niego, który:
-    - **a)** spełnia potrzeby przedsiębiorcy telekomunikacyjnego w zakresie zapewnienia szybkich sieci telekomunikacyjnych wraz z powiązanymi zasobami,
-    - **b)** jest ekonomicznie opłacalny w porównaniu z kosztami zapewniania koordynacji robót budowlanych w zakresie proponowanym we wniosku o koordynację robót budowlanych i na warunkach w nim proponowanych.
+Umowa ustanawiająca odrębną własność włókna światłowodowego określa w szczególności:
 
-6. Operator sieci jest obowiązany podać przyczyny odmowy uwzględnienia wniosku o koordynację robót budowlanych w terminie 30 dni od dnia jego otrzymania.
+### 1)
 
-**Art. 36b.**
+rodzaj i przebieg sieci telekomunikacyjnej obejmującej kabel światłowodowy, co do którego włókna zostaje ustanowiona odrębna własność;
 
-1. Warunki koordynacji robót budowlanych strony ustalają w umowie o koordynacji robót budowlanych, zawartej na piśmie pod rygorem nieważności. Przepis art. 19 ust. 1 stosuje się odpowiednio.
+### 2)
 
-2. W umowie o koordynacji robót budowlanych ustala się w szczególności kwestie dotyczące:
+rodzaj kabla światłowodowego, lokalizację jego zakończeń oraz liczbę włókien światłowodowych w tym kablu;
 
-- **1)** udostępniania posiadanych informacji niezbędnych do przygotowania dokumentacji projektowej;
-- **2)** dostępu do nieruchomości w celu umieszczenia i eksploatacji infrastruktury telekomunikacyjnej, z wyłączeniem jej umieszczania w pasie drogowym dróg publicznych;
-- **3)** warunków technicznych i eksploatacyjnych w zakresie realizowania na tym samym terenie budowy robót budowlanych dotyczących infrastruktury technicznej i infrastruktury telekomunikacyjnej;
-- **4)** harmonogramu prac każdej ze stron oraz zasad zapewnienia dostępu do budowy;
-- **5)** wyznaczenia koordynatora inspektorów nadzoru inwestorskiego, jeżeli jest wymagany;
-- **6)** zabezpieczenia terenu budowy;
-- **7)** pokrycia i zabezpieczenia dodatkowych kosztów ponoszonych przez operatora sieci.
+### 3)
 
-3. Do umowy o koordynacji robót budowlanych przepisy art. 182 ust. 1, 2, 4 i 5 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej oraz art. 19 ust. 1 i 2a oraz art. 24 ust. 1 niniejszej ustawy stosuje się odpowiednio, z tym że decyzje wydaje starosta albo wojewoda.
+włókno światłowodowe, którego odrębna własność zostaje ustanowiona;
 
-3a. Do umowy o koordynacji robót budowlanych stosuje się przepis art. 175 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, z tym zastrzeżeniem, że umowa jest przekazywana przez strony tej umowy.
+### 4)
 
-4. Warunek, o którym mowa w art. 36a ust. 3 pkt 2, uważa się za spełniony również wówczas, gdy w umowie o koordynacji robót budowlanych wnioskodawca zobowiązał się pokryć dodatkowe koszty ponoszone przez operatora sieci, oferując zabezpieczenie wykonania tego zobowiązania, o którym mowa w art. 450 ust. 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+wielkość udziałów przypadających właścicielom poszczególnych włókien światłowodowych w części wspólnej kabla światłowodowego;
 
-**Art. 36c.**
+### 5)
 
-1. W przypadku niepodjęcia negocjacji w sprawie zawarcia umowy o koordynacji robót budowlanych przez operatora sieci, odmowy uwzględnienia wniosku w tej sprawie lub niezawarcia umowy o koordynacji robót budowlanych, w terminie 30 dni od dnia otrzymania wniosku każda ze stron może zwrócić się do starosty właściwego ze względu na miejsce wykonywania robót budowlanych. Przepis art. 182 ust. 4 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej stosuje się odpowiednio.
+sposób podejmowania decyzji przez współwłaścicieli części wspólnej kabla światłowodowego w zakresie czynności dotyczących tego kabla jako całości, z zastrzeżeniem art. 42;
 
-2. Starosta wydaje decyzję w sprawie koordynacji robót budowlanych niezwłocznie, niepóźniej jednak niż w terminie 60 dni od dnia złożenia wniosku o jej wydanie, biorąc pod uwagę w szczególności:
+### 6)
 
-- **1)** konieczność zapewnienia niedyskryminacyjnych i proporcjonalnych warunków koordynacji robót budowlanych, z uwzględnieniem celu, jakiemu ta koordynacja ma służyć;
-- **2)** obowiązki nałożone na operatora sieci w przepisach prawa lub decyzjach;
-- **3)** potrzebę minimalizowania negatywnych skutków koordynacji robót budowlanych dla inwestycji wykonywanej przez operatora sieci;
-- **4)** praktyczną możliwość wdrożenia rozwiązań dotyczących technicznych i ekonomicznych aspektów koordynacji robót budowlanych zarówno zaproponowanych przez strony negocjacji, jak i mogących stanowić rozwiązania alternatywne;
-- **5)** interes publiczny, w tym zapewnienie bezpieczeństwa publicznego oraz ochronę środowiska;
-- **6)** wymagania, o których mowa w art. 26.
+sposób partycypacji współwłaścicieli części wspólnej kabla światłowodowego w kosztach utrzymania, konserwacji, naprawy lub wymiany kabla, z zastrzeżeniem art. 43.
 
-3. Decyzja w sprawie koordynacji robót budowlanych rozstrzyga zaistniałe kwestie sporne, dotyczące w szczególności okoliczności, o których mowa w art. 36b ust. 2.
+### 2.
 
-4. Decyzję w sprawie koordynacji robót budowlanych obejmujących obiekty i roboty budowlane, o których mowa w art. 82 ust. 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wydaje wojewoda właściwy ze względu na miejsce wykonywania robót budowlanych. Przepisy ust. 1–3 stosuje się odpowiednio.
+Przepisy o ustanowieniu odrębnej własności włókna światłowodowego w drodze umowy stosuje się odpowiednio do ustanowienia odrębnej własności włókna w drodze jednostronnej czynności prawnej właściciela kabla oraz orzeczenia sądu znoszącego współwłasność kabla.
 
-5. Do decyzji w sprawie koordynacji robót budowlanych przepisy art. 22 ust. 6– 7a stosuje się odpowiednio.
+### Art. 42.
 
-**Art. 36d.** Operator sieci zawiera umowy o projektowaniu i wykonywaniu robót budowlanych dotyczących infrastruktury technicznej, uwzględniając obowiązki w zakresie koordynacji robót budowlanych.
+### 1.
 
-**Art. 36e.**
+W przypadku sukcesywnego ustanawiania odrębnej własności włókien światłowodowych lub zbycia wcześniej ustanowionej własności włókna, przyjęty przez dotychczasowych współwłaścicieli części wspólnej kabla światłowodowego sposób podejmowania decyzji w zakresie czynności dotyczących tego kabla jako całości odnosi skutek także do każdego kolejnego nabywcy włókna.
 
-1. W celu umożliwienia przedsiębiorcy telekomunikacyjnemu ubiegania się o koordynację robót budowlanych operator sieci jest obowiązany udostępnić mu informacje dotyczące planowanych w okresie najbliższych 6 miesięcy lub aktualnie wykonywanych robót budowlanych, o których mowa w art. 36a ust. 1.
+### 2.
 
-2. Informacje, o których mowa w ust. 1, obejmują:
+W przypadku braku odmiennej umowy, w odniesieniu do sposobu podejmowania decyzji przez współwłaścicieli części wspólnej kabla światłowodowego o czynnościach dotyczących tego kabla jako całości, stosuje się odpowiednio przepisy Kodeksu cywilnego o współwłasności w częściach ułamkowych dotyczące zarządu rzeczą wspólną, z uwzględnieniem przepisów ust. 3 i 4.
 
-- **1)** lokalizację i rodzaj robót;
-- **2)** element infrastruktury technicznej, którego roboty dotyczą;
-- **3)** przewidywaną datę rozpoczęcia robót i czas ich trwania;
-- **4)** dane kontaktowe operatora sieci w sprawach koordynacji robót budowlanych.
+### 3.
 
-3. W celu uzyskania informacji, o których mowa w ust. 1, przedsiębiorca telekomunikacyjny składa do operatora sieci, w formie pisemnej lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wniosek w tej sprawie.
+Współwłaściciele części wspólnej kabla światłowodowego są zobowiązani do ścisłego współdziałania w zakresie czynności dotyczących tego kabla jako całości, w szczególności związanych z jego utrzymaniem, eksploatacją, konserwacją, naprawą lub wymianą.
 
-4. Informacje, o których mowa w ust. 1, udostępnia się niezwłocznie, niepóźniej jednak niż w terminie 14 dni od dnia otrzymania wniosku.
+### 4.
 
-5. Operator sieci może odmówić udostępnienia informacji, o których mowa w ust. 1, w zakresie, w jakim:
+W przypadku braku współdziałania, o którym mowa w ust. 3, każdy ze współwłaścicieli części wspólnej kabla światłowodowego może żądać upoważnienia sądowego do dokonania czynności określonych w ust. 3, chyba że dana czynność zmierza do wymiany kabla zniszczonego z wyłącznej winy żądającego czynności, a pozostali współwłaściciele wyrażają sprzeciw.
 
-- **1)** są one dostępne za pośrednictwem punktu informacyjnego do spraw telekomunikacji;
-- **2)** jest to niezbędne ze względu na bezpieczeństwo i integralność infrastruktury technicznej, zdrowie publiczne, obronność, bezpieczeństwo państwa, bezpieczeństwo i porządek publiczny lub ochronę tajemnicy przedsiębiorstwa, z zastrzeżeniem art. 29 ust. 6b;
-- **3)** informacje te zostały podane do publicznej wiadomości na jego stronie internetowej.
+### Art. 43.
 
-6. W przypadku odmowy udostępnienia informacji, o których mowa w ust. 1, operator sieci jest obowiązany przedstawić przedsiębiorcy telekomunikacyjnemu w formie pisemnej lub w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 3, szczegółowo uzasadnione przyczyny swojej odmowy.
+W przypadku braku odmiennej umowy, współwłaściciele części wspólnej kabla światłowodowego partycypują w kosztach utrzymania, eksploatacji, konserwacji, naprawy lub wymiany kabla jako całości, proporcjonalnie do ich udziałów w części wspólnej kabla.
 
-7. W przypadku gdy operator sieci odmówił udostępnienia informacji, o których mowa w ust. 1, ze względu na ochronę tajemnicy przedsiębiorstwa, starosta w decyzji, o której mowa w art. 36f ust. 1, albo wojewoda w decyzji, o której mowa w art. 36f ust. 2, może uchylić to zastrzeżenie, jeżeli uzna, że informacje te są niezbędne dla realizacji szybkich sieci telekomunikacyjnych wraz z powiązanymi zasobami. Przepis art. 29 ust. 6b stosuje się odpowiednio.
+### Art. 44.
 
-8. Informacje, o których mowa w ust. 1, mogą być wykorzystane wyłącznie do celów związanych z ubieganiem się o koordynację robót budowlanych i realizacji szybkiej sieci telekomunikacyjnej wraz z powiązanymi zasobami, a przedsiębiorca telekomunikacyjny, któremu zostały one udostępnione, jest obowiązany do podejmowania niezbędnych środków w celu zachowania ich poufności.
+Za zobowiązania związane z czynnościami, o których mowa w art. 43, odpowiada każdy współwłaściciel części wspólnej kabla światłowodowego, proporcjonalnie do jego udziału w części wspólnej kabla.
 
-**Art. 36f.**
+### Art. 45.
 
-1. Spory w sprawach, o których mowa w art. 36e, między operatorem sieci a przedsiębiorcą telekomunikacyjnym wnioskującym o udostępnienie informacji, o których mowa w art. 36e ust. 1, rozstrzyga starosta właściwy ze względu na miejsce wykonywania robót budowlanych, w drodze decyzji, na wniosek jednej ze stron.
+Przepisy art. 37-44 stosuje się odpowiednio do ustanawiania odrębnej własności przewodów w kablach telekomunikacyjnych innych niż światłowodowe oraz zespołu ułożonych jedna za drugą i połączonych ze sobą rur kanalizacyjnych tworzących kanał służący do ułożenia w nim kabli telekomunikacyjnych wchodzących w skład kanalizacji kablowej wielootworowej, a także podejmowania decyzji w zakresie czynności dotyczących tych kabli i tej kanalizacji kablowej jako całości, partycypacji w kosztach ich utrzymania, eksploatacji, konserwacji, naprawy lub wymiany oraz odpowiedzialności za zobowiązania związane z tymi czynnościami.
 
-2. Spory w sprawach, o których mowa w art. 36e, dotyczących obiektów i robót budowlanych, o których mowa w art. 82 ust. 3 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, rozstrzyga wojewoda właściwy ze względu na miejsce wykonywania robót budowlanych, w drodze decyzji, na wniosek jednej ze stron.
+### Rozdział 5 Szczególne zasady lokalizowania inwestycji telekomunikacyjnych
 
-3. W postępowaniach w sprawach wydania decyzji, o których mowa w ust. 1 i 2, rozstrzyga się o kosztach postępowania. Wymierzenie kosztów odbywa się w trybie działu IX ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+### Art. 46.
 
-4. Decyzje, o których mowa w ust. 1 i 2, wydaje się niezwłocznie, niepóźniej jednak niż w terminie 60 dni od dnia złożenia wniosku o ich wydanie, kierując się niedyskryminacyjnymi i proporcjonalnymi kryteriami.
+### 1.
 
-**Art. 36g.**
+Miejscowy plan zagospodarowania przestrzennego, zwany dalej „planem miejscowym”, nie może ustanawiać zakazów, a przyjmowane w nim rozwiązania nie mogą uniemożliwiać lokalizowania inwestycji celu publicznego z zakresu łączności publicznej, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, jeżeli taka inwestycja jest zgodna z przepisami odrębnymi.
 
-1. Obowiązek uwzględnienia wniosku o koordynację robót budowlanych, o którym mowa w art. 36a ust. 3, lub obowiązek udostępnienia informacji, o którym mowa w art. 36e ust. 1, może nie dotyczyć:
+### 2.
 
-- **1)** infrastruktury technicznej, której wykorzystanie do celów szybkich sieci telekomunikacyjnych jest niemożliwe ze względu na bezpieczeństwo i integralność infrastruktury technicznej, zdrowie publiczne, obronność, bezpieczeństwo państwa, bezpieczeństwo i porządek publiczny;
-- **2)** robót budowlanych o nieznacznej wartości.
+Jeżeli lokalizacja inwestycji celu publicznego z zakresu łączności publicznej nie jest umieszczona w planie miejscowym, dopuszcza się jej lokalizowanie, jeżeli nie jest to sprzeczne z określonym w planie przeznaczeniem terenu ani nie narusza ustanowionych w planie zakazów lub ograniczeń. Przeznaczenie terenu na cele zabudowy wielorodzinnej, rolnicze, leśne, usługowe lub produkcyjne nie jest sprzeczne z lokalizacją inwestycji celu publicznego z zakresu łączności publicznej, a przeznaczenie terenu na cele zabudowy jednorodzinnej nie jest sprzeczne z lokalizacją infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu.
 
-2. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, ministrem właściwym do spraw gospodarki surowcami energetycznymi oraz ministrem właściwym do spraw energii może określić, w drodze rozporządzenia, rodzaj infrastruktury technicznej lub robót budowlanych, o których mowa w ust. 1, kierując się koniecznością zapewnienia odpowiedniego poziomu bezpieczeństwa oraz ciągłości funkcjonowania infrastruktury technicznej, a także rozmiarem, czasem trwania i wartością robót budowlanych.
+### 3.
 
-**Art. 36h.**
+W przypadku braku planu miejscowego lokalizację inwestycji celu publicznego z zakresu łączności publicznej innej niż infrastruktura telekomunikacyjna o nieznacznym oddziaływaniu ustala się w drodze decyzji o lokalizacji inwestycji celu publicznego, na warunkach określonych w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124 i Nr 75, poz. 474.](#gloss-0:8:)).
 
-1. Organem wyższego stopnia w sprawach, o których mowa w art. 36c ust. 1 i art. 36f ust. 1, jest wojewoda.
+### Art. 47.
 
-2. Organem wyższego stopnia w sprawach, o których mowa w art. 36c ust. 4 i art. 36f ust. 2, jest Prezes UKE. Odwołania w tych sprawach Prezes UKE rozstrzyga po zasięgnięciu opinii Głównego Inspektora Nadzoru Budowlanego, a w przypadku przedsiębiorstw energetycznych w uzgodnieniu z Prezesem URE.
+Nie wymaga wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego, w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, budowa infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu oraz wykonywanie innych robót budowlanych dotyczących takiej infrastruktury.
 
-#### Rozdział 4 Odrębna własność elementów infrastruktury telekomunikacyjnej
+### Art. 48.
 
-**Art. 37.** Włókno światłowodowe umieszczone w kablu światłowodowym wchodzące w skład sieci telekomunikacyjnej może stanowić odrębny przedmiot własności i innych praw rzeczowych w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+Przedsiębiorca telekomunikacyjny oraz Prezes UKE mogą zaskarżyć, w zakresie telekomunikacji, uchwałę w sprawie uchwalenia planu miejscowego.
 
-**Art. 38.**
+### Rozdział 6 Szczególne zasady lokalizowania regionalnych sieci szerokopasmowych
 
-1. W przypadku ustanowienia odrębnej własności włókna światłowodowego, właścicielowi włókna przysługuje udział w części wspólnej kabla światłowodowego, jako prawo związane z własnością włókna. Nie można żądać zniesienia współwłasności części wspólnej kabla, dopóki trwa odrębna własność włókien światłowodowych.
+### Art. 49.
 
-2. Część wspólną kabla światłowodowego stanowią wszystkie jego elementy oprócz włókien światłowodowych.
+### 1.
 
-3. Udział właściciela włókna światłowodowego w części wspólnej kabla światłowodowego odpowiada stosunkowi liczby włókien przypadających temu właścicielowi do ogólnej liczby włókien światłowodowych w kablu.
+Regionalną sieć szerokopasmową lokalizuje się w drodze decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
 
-**Art. 39.**
+### 2.
 
-1. Dotychczasowy właściciel kabla światłowodowego ma co do włókna światłowodowego, którego odrębna własność nie została ustanowiona, oraz co do części wspólnej kabla światłowodowego takie same uprawnienia i obowiązki, jakie przysługują właścicielom włókien, których odrębna własność została ustanowiona.
+W sprawach dotyczących lokalizacji regionalnej sieci szerokopasmowej nie stosuje się przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.
 
-2. Jeżeli do ustanawiania odrębnej własności włókien światłowodowych dochodzi sukcesywnie, właściciele włókien, których odrębna własność już została ustanowiona, nie są stronami umów dotyczących ustanawiania odrębnej własności dalszych włókien.
+### 3.
 
-**Art. 40.**
+Regionalna sieć szerokopasmowa jest inwestycją celu publicznego w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-1. Odrębną własność włókna światłowodowego można ustanowić w drodze umowy między właścicielem kabla światłowodowego wchodzącego w skład sieci telekomunikacyjnej a nabywcą własności włókna, a także w drodze jednostronnej czynności prawnej właściciela takiego kabla albo orzeczenia sądu znoszącego współwłasność kabla.
+### Art. 50.
 
-2. Odrębna własność włókna światłowodowego może powstać także w wykonaniu umowy zobowiązującej przedsiębiorcę do wybudowania sieci telekomunikacyjnej oraz do ustanowienia po zakończeniu budowy odrębnej własności włókna światłowodowego i przeniesienia tego prawa na drugą stronę umowy lub na inną wskazaną w umowie osobę.
+### 1.
 
-3. Czynność prawna obejmująca oświadczenie woli o ustanowieniu odrębnej własności włókna światłowodowego wymaga, dla skutecznego ustanowienia tego prawa, zachowania formy pisemnej z urzędowym poświadczeniem daty.
+Decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wydaje, na wniosek inwestora, wojewoda.
 
-**Art. 41.**
+### 2.
 
-1. Umowa ustanawiająca odrębną własność włókna światłowodowego określa w szczególności:
+Na wniosek inwestora, wojewoda wydaje decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w odniesieniu do części zamierzenia inwestycyjnego na obszarze danego województwa.
 
-- **1)** rodzaj i przebieg sieci telekomunikacyjnej obejmującej kabel światłowodowy, co do którego włókna zostaje ustanowiona odrębna własność;
-- **2)** rodzaj kabla światłowodowego, lokalizację jego zakończeń oraz liczbę włókien światłowodowych w tym kablu;
-- **3)** włókno światłowodowe, którego odrębna własność zostaje ustanowiona;
-- **4)** wielkość udziałów przypadających właścicielom poszczególnych włókien światłowodowych w części wspólnej kabla światłowodowego;
-- **5)** sposób podejmowania decyzji przez współwłaścicieli części wspólnej kabla światłowodowego w zakresie czynności dotyczących tego kabla jako całości, z zastrzeżeniem art. 42;
-- **6)** sposób partycypacji współwłaścicieli części wspólnej kabla światłowodowego w kosztach utrzymania, konserwacji, naprawy lub wymiany kabla, z zastrzeżeniem art. 43.
+### 3.
 
-2. Przepisy o ustanowieniu odrębnej własności włókna światłowodowego w drodze umowy stosuje się odpowiednio do ustanowienia odrębnej własności włókna w drodze jednostronnej czynności prawnej właściciela kabla oraz orzeczenia sądu znoszącego współwłasność kabla.
+Wojewoda niezwłocznie przesyła do wiadomości ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej oraz wójta (burmistrza, prezydenta miasta) gminy, na której obszarze jest lokalizowana regionalna sieć szerokopasmowa, kopie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
 
-**Art. 42.**
+### 4.
 
-1. W przypadku sukcesywnego ustanawiania odrębnej własności włókien światłowodowych lub zbycia wcześniej ustanowionej własności włókna, przyjęty przez dotychczasowych współwłaścicieli części wspólnej kabla światłowodowego sposób podejmowania decyzji w zakresie czynności dotyczących tego kabla jako całości odnosi skutek także do każdego kolejnego nabywcy włókna.
+Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej prowadzi rejestr wydanych decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
 
-2. W przypadku braku odmiennej umowy, w odniesieniu do sposobu podejmowania decyzji przez współwłaścicieli części wspólnej kabla światłowodowego o czynnościach dotyczących tego kabla jako całości, stosuje się odpowiednio przepisy Kodeksu cywilnego o współwłasności w częściach ułamkowych dotyczące zarządu rzeczą wspólną, z uwzględnieniem przepisów ust. 3 i 4.
+### 5.
 
-3. Współwłaściciele części wspólnej kabla światłowodowego są zobowiązani do ścisłego współdziałania w zakresie czynności dotyczących tego kabla jako całości, w szczególności związanych z jego utrzymaniem, eksploatacją, konserwacją, naprawą lub wymianą.
+Do postępowania w sprawach o ustalenie lokalizacji regionalnej sieci szerokopasmowej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230.](#gloss-0:9:)), z zastrzeżeniem przepisów niniejszej ustawy. Przepisu art. 31 § 4 Kodeksu postępowania administracyjnego nie stosuje się. W przypadkach określonych w art. 97 § 1 pkt 1-3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania.
 
-4. W przypadku braku współdziałania, o którym mowa w ust. 3, każdy ze współwłaścicieli części wspólnej kabla światłowodowego może żądać upoważnienia sądowego do dokonania czynności określonych w ust. 3, chyba że dana czynność zmierza do wymiany kabla zniszczonego z wyłącznej winy żądającego czynności, a pozostali współwłaściciele wyrażają sprzeciw.
+### 6.
 
-**Art. 43.** W przypadku braku odmiennej umowy, współwłaściciele części wspólnej kabla światłowodowego partycypują w kosztach utrzymania, eksploatacji, konserwacji, naprawy lub wymiany kabla jako całości, proporcjonalnie do ich udziałów w części wspólnej kabla.
+Nie wymagają wydania decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej roboty budowlane:
 
-**Art. 44.** Za zobowiązania związane z czynnościami, o których mowa w art. 43, odpowiada każdy współwłaściciel części wspólnej kabla światłowodowego, proporcjonalnie do jego udziału w części wspólnej kabla.
+### 1)
 
-**Art. 45.** Przepisy art. 37–44 stosuje się odpowiednio do ustanawiania odrębnej własności przewodów w kablach telekomunikacyjnych innych niż światłowodowe oraz zespołu ułożonych jedna za drugą i połączonych ze sobą rur kanalizacyjnych tworzących kanał służący do ułożenia w nim kabli telekomunikacyjnych wchodzących w skład kanalizacji kablowej wielootworowej, a także podejmowania decyzji w zakresie czynności dotyczących tych kabli i tej kanalizacji kablowej jako całości, partycypacji w kosztach ich utrzymania, eksploatacji, konserwacji, naprawy lub wymiany oraz odpowiedzialności za zobowiązania związane z tymi czynnościami.
+polegające na rozbudowie lub przebudowie sieci, jeżeli nie powodują zmiany sposobu zagospodarowania terenu i użytkowania obiektu budowlanego oraz zmiany formy architektonicznej, a także nie są zaliczone do przedsięwzięć wymagających przeprowadzenia postępowania w sprawie oceny oddziaływania na środowisko, lub
 
-#### Rozdział 5 Szczególne zasady lokalizowania inwestycji telekomunikacyjnych
+### 2)
 
-**Art. 46.**
+niewymagające pozwolenia na budowę.
 
-1. Miejscowy plan zagospodarowania przestrzennego, zwany dalej „planem miejscowym”, nie może ustanawiać zakazów, a przyjmowane w nim rozwiązania nie mogą uniemożliwiać lokalizowania inwestycji celu publicznego z zakresu łączności publicznej, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, jeżeli taka inwestycja jest zgodna z przepisami odrębnymi.
+### Art. 51.
 
-1a. Nie stosuje się ustaleń planu miejscowego w zakresie ustanowionych zakazów lub przyjętych w nim rozwiązań, o których mowa w ust. 1, jeżeli taka inwestycja jest zgodna z przepisami odrębnymi.
+### 1.
 
-2. Jeżeli lokalizacja inwestycji celu publicznego z zakresu łączności publicznej nie jest umieszczona w planie miejscowym, dopuszcza się jej lokalizowanie, jeżeli nie jest to sprzeczne z określonym w planie przeznaczeniem terenu ani nie narusza ustanowionych w planie zakazów lub ograniczeń. Przeznaczenie terenu na cele zabudowy wielorodzinnej, rolnicze, leśne, usługowe lub produkcyjne nie jest sprzeczne z lokalizacją inwestycji celu publicznego z zakresu łączności publicznej, a przeznaczenie terenu na cele zabudowy jednorodzinnej nie jest sprzeczne z lokalizacją infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu.
+Wniosek, o którym mowa w art. 50, zawiera:
 
-3. W przypadku braku planu miejscowego lokalizację inwestycji celu publicznego z zakresu łączności publicznej innej niż infrastruktura telekomunikacyjna o nieznacznym oddziaływaniu ustala się w drodze decyzji o lokalizacji inwestycji celu publicznego, na warunkach określonych w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, z późn. zm. ).
+### 1)
 
-**Art. 47.** Nie wymaga wydania decyzji o ustaleniu lokalizacji inwestycji celu publicznego, w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, budowa infrastruktury telekomunikacyjnej o nieznacznym oddziaływaniu oraz wykonywanie innych robót budowlanych dotyczących takiej infrastruktury.
+określenie granic terenu objętego wnioskiem i obszaru, na który ta inwestycja będzie oddziaływać, przedstawionych na kopii mapy zasadniczej lub w przypadku jej braku - na kopii mapy ewidencyjnej, przyjętych do państwowego zasobu geodezyjnego i kartograficznego, w skali 1:500, 1:1000 albo 1:2000, przedstawiającej istniejące uzbrojenie terenu oraz proponowany przebieg regionalnej sieci szerokopasmowej, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych tej sieci;
 
-**Art. 48.** Przedsiębiorca telekomunikacyjny oraz Prezes UKE mogą zaskarżyć, w zakresie telekomunikacji, uchwałę w sprawie uchwalenia planu miejscowego.
+### 2)
 
-#### Rozdział 6 Szczególne zasady lokalizowania regionalnych sieci szerokopasmowych
+określenie zmian w dotychczasowym sposobie zagospodarowania i uzbrojenia terenu;
 
-**Art. 49.**
+### 3)
 
-1. Regionalną sieć szerokopasmową lokalizuje się w drodze decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
+analizę powiązania inwestycji z istniejącym uzbrojeniem terenu;
 
-2. W sprawach dotyczących lokalizacji regionalnej sieci szerokopasmowej nie stosuje się przepisów ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz. 278).
+### 4)
 
-3. Regionalna sieć szerokopasmowa jest inwestycją celu publicznego w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+charakterystykę inwestycji, obejmującą określenie:
 
-**Art. 49a.** Regionalna sieć szerokopasmowa może być realizowana przez inwestora, bez konieczności uzyskiwania decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, na warunkach określonych w ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawie z dnia 7 lipca 1994 r. – Prawo budowlane.
+### a)
 
-**Art. 50.**
+zapotrzebowania na wodę, energię oraz sposób odprowadzania lub oczyszczania ścieków, a także innych potrzeb w zakresie infrastruktury technicznej, a w razie potrzeby również sposobu unieszkodliwiania odpadów,
 
-1. Decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wydaje, na wniosek inwestora, wojewoda.
+### b)
 
-2. Na wniosek inwestora, wojewoda wydaje decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w odniesieniu do części zamierzenia inwestycyjnego na obszarze danego województwa.
+planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, w tym przeznaczenia i gabarytów projektowanych obiektów budowlanych, przedstawionych w formie opisowej i graficznej,
 
-3. Wojewoda niezwłocznie przesyła do wiadomości ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz wójta (burmistrza, prezydenta miasta) gminy, na której obszarze jest lokalizowana regionalna sieć szerokopasmowa, kopie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
+### c)
 
-4. (uchylony)
+istotnych parametrów technicznych inwestycji oraz jej wpływ na środowisko.
 
-5. Do postępowania w sprawach o ustalenie lokalizacji regionalnej sieci szerokopasmowej stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z zastrzeżeniem przepisów niniejszej ustawy. Przepisu art. 31 § 4 Kodeksu postępowania administracyjnego nie stosuje się. W przypadkach określonych w art. 97 § 1 pkt 1–3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania.
+### 2.
 
-6. Nie wymagają wydania decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej roboty budowlane:
+Przez uzbrojenie terenu należy rozumieć wybudowane urządzenia, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-- **1)** polegające na rozbudowie lub przebudowie sieci, jeżeli nie powodują zmiany sposobu zagospodarowania terenu i użytkowania obiektu budowlanego oraz zmiany formy architektonicznej, a także nie są zaliczone do przedsięwzięć wymagających przeprowadzenia postępowania w sprawie oceny oddziaływania na środowisko, lub
-- **2)** niewymagające pozwolenia na budowę.
+### 3.
 
-**Art. 51.**
+Do wniosku, o którym mowa w art. 50, dołącza się:
 
-1. Wniosek, o którym mowa w art. 50, zawiera:
+### 1)
 
-- **1)** określenie granic terenu objętego wnioskiem i obszaru, na który ta inwestycja będzie oddziaływać, przedstawionych na mapie zasadniczej lub w przypadku jej braku – na mapie ewidencyjnej, przedstawiającej istniejące uzbrojenie terenu oraz proponowany przebieg regionalnej sieci szerokopasmowej, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych tej sieci;
-- **2)** określenie zmian w dotychczasowym sposobie zagospodarowania i uzbrojenia terenu;
-- **3)** analizę powiązania inwestycji z istniejącym uzbrojeniem terenu;
-- **4)** charakterystykę inwestycji, obejmującą określenie:
-    - **a)** zapotrzebowania na wodę, energię oraz sposób odprowadzania lub oczyszczania ścieków, a także innych potrzeb w zakresie infrastruktury technicznej, a w razie potrzeby również sposobu unieszkodliwiania odpadów,
-    - **b)** planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, w tym przeznaczenia i gabarytów projektowanych obiektów budowlanych, przedstawionych w formie opisowej i graficznej,
-    - **c)** istotnych parametrów technicznych inwestycji oraz jej wpływ na środowisko.
+decyzję o środowiskowych uwarunkowaniach, wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145.](#gloss-0:10:)), o ile jest wymagana;
 
-2. Przez uzbrojenie terenu należy rozumieć wybudowane urządzenia, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+### 2)
 
-3. Do wniosku, o którym mowa w art. 50, dołącza się:
+uzgodnienia lokalizacji regionalnej sieci szerokopasmowej z właściwym zarządcą drogi - w odniesieniu do obszarów pasa drogowego lub obszarów w liniach rozgraniczających teren inwestycji drogowej określonych w decyzji o ustaleniu lokalizacji drogi, decyzji o ustaleniu lokalizacji drogi krajowej albo decyzji o zezwoleniu na realizację inwestycji drogowej a także obszarów przyległych do pasa drogowego;
 
-- **1)** decyzję o środowiskowych uwarunkowaniach, wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940 oraz z 2025 r. poz. 1535), o ile jest wymagana;
-- **2)** uzgodnienia lokalizacji regionalnej sieci szerokopasmowej z właściwym zarządcą drogi – w odniesieniu do obszarów pasa drogowego lub obszarów w liniach rozgraniczających teren inwestycji drogowej określonych w decyzji o ustaleniu lokalizacji drogi, decyzji o ustaleniu lokalizacji drogi krajowej albo decyzji o zezwoleniu na realizację inwestycji drogowej a także obszarów przyległych do pasa drogowego;
-- **3)** opinie: o transporcie kolejowym,
-    - **a)** ministra właściwego do spraw zdrowia – w odniesieniu do inwestycji lokalizowanych w miejscowościach uzdrowiskowych,
-    - **b)** dyrektora właściwego urzędu morskiego – w odniesieniu do obszarów morskich, obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
-    - **c)** właściwego organu nadzoru górniczego – w odniesieniu do terenów górniczych,
-    - **d)** właściwego organu administracji geologicznej – w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych,
-    - **e)** organów właściwych w sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych – w odniesieniu do gruntów wykorzystywanych na cele rolne i leśne,
-    - **f)** dyrektora parku narodowego – w odniesieniu do obszarów położonych w granicach parku i jego otuliny,
-    - **g)** właściwego regionalnego dyrektora ochrony środowiska – w odniesieniu do innych niż wymienione w lit. f obszarów objętych ochroną na podstawie przepisów o ochronie przyrody,
-    - **h)** dyrektora właściwego regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
-    - **i)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
-    - **j)** właściwego wojewódzkiego konserwatora zabytków – w odniesieniu do zabytków chronionych na podstawie ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907, z 2025 r. poz. 1168 i 1673 oraz z 2026 r. poz. 483),
-    - **k)** właściwego zarządcy terenów kolejowych – w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r.
-    - **l)** właściwego marszałka województwa oraz starosty w zakresie zadań samorządowych, służących do realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym – w odniesieniu do terenów nieobjętych planami zagospodarowania przestrzennego,
-    - **m)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta, burmistrza lub prezydenta miasta.
+### 3)
 
-4. Właściwy organ dokonuje uzgodnienia lub wydaje opinię, o których mowa w ust. 3 pkt 2 i 3, na wniosek inwestora, w terminie niedłuższym niż 21 dni od dnia otrzymania wniosku.
+opinie:
 
-5. Organ dokonuje uzgodnienia w formie postanowienia, na które inwestorowi przysługuje zażalenie.
+### a)
 
-6. Niedokonanie uzgodnienia lub niewydanie opinii, w terminie, o którym mowa w ust. 4, traktuje się jako brak zastrzeżeń do wniosku.
+ministra właściwego do spraw zdrowia - w odniesieniu do inwestycji lokalizowanych w miejscowościach uzdrowiskowych,
 
-7. Uzgodnienie i opinie, o których mowa w ust. 3 pkt 2 i 3, zastępują uzgodnienia, zezwolenia, pozwolenia, opinie bądź stanowiska właściwych organów, wymagane odrębnymi przepisami dla lokalizacji inwestycji.
+### b)
 
-**Art. 52.**
+dyrektora właściwego urzędu morskiego - w odniesieniu do obszarów morskich, obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
 
-1. Wojewoda w terminie 14 dni od dnia złożenia wniosku, o którym mowa w art. 50, zawiadamia o wszczęciu postępowania w sprawie o ustalenie lokalizacji regionalnej sieci szerokopasmowej:
+### c)
 
-- **1)** wnioskodawcę – na adres wskazany we wniosku o wydanie tej decyzji;
-- **2)** właścicieli lub użytkowników wieczystych nieruchomości objętych wnioskiem o wydanie tej decyzji – na adres wskazany w ewidencji gruntów i budynków lub katastrze nieruchomości ze skutkiem doręczenia;
-- **3)** pozostałe strony – w drodze obwieszczenia w urzędzie wojewódzkim i w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego, a także w urzędach gmin właściwych ze względu na planowaną lokalizację regionalnej sieci szerokopasmowej i w prasie lokalnej;
-- **4)** właściwe miejscowo organy w sprawach, o których mowa w ust. 5 pkt 2, przy czym wójt, burmistrz lub prezydent miasta niezwłocznie po otrzymaniu zawiadomienia ogłasza o wszczęciu postępowania w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy oraz w sposób zwyczajowo przyjęty.
+właściwego organu nadzoru górniczego - w odniesieniu do terenów górniczych,
 
-2. Zawiadomienie, o którym mowa w ust. 1, zawiera w szczególności:
+### d)
 
-- **1)** oznaczenie nieruchomości lub ich części, objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, według ewidencji gruntów i budynków lub katastru nieruchomości;
-- **2)** informację o terminie i miejscu, w którym strony mogą zapoznać się z aktami sprawy.
+właściwego organu administracji geologicznej - w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych,
 
-3. W przypadku nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, zawiadomienia dokonuje się w formie obwieszczenia, o którym mowa w ust. 1 pkt 3.
+### e)
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do innych wezwań, zawiadomień i pism, które organ jest obowiązany doręczać stronom w toku postępowania.
+organów właściwych w sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych - w odniesieniu do gruntów wykorzystywanych na cele rolne i leśne,
 
-5. Z dniem zawiadomienia, o którym mowa w ust. 1:
+### f)
 
-- **1)** nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, nie mogą być przedmiotem obrotu, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
-- **2)** w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, do czasu wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę dla inwestycji innej niż inwestycja celu publicznego oraz decyzji o warunkach zabudowy, a toczące się postępowania w tych sprawach ulegają zawieszeniu z mocy prawa do czasu wydania ostatecznej decyzji w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej;
-- **3)** obrót nieruchomościami innymi niż określone w pkt 1, objętymi wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej oraz ustanowienie na nich ograniczonych praw rzeczowych, nie wpływa na toczące się postępowanie.
+dyrektora parku narodowego - w odniesieniu do obszarów położonych w granicach parku i jego otuliny,
 
-6. W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, po doręczeniu zawiadomienia, o którym mowa w ust. 1, nabywca i zbywca są obowiązani zgłosić właściwemu wojewodzie dane nowego właściciela lub użytkownika wieczystego. Niedokonanie powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela nie stanowią podstawy do wznowienia postępowania.
+### g)
 
-7. Czynność prawna dokonana z naruszeniem zakazu, o którym mowa w ust. 5 pkt 1, jest nieważna.
+właściwego regionalnego dyrektora ochrony środowiska - w odniesieniu do innych niż wymienione w lit. f obszarów objętych ochroną na podstawie przepisów o ochronie przyrody,
 
-**Art. 53.** Wojewoda niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania w sprawie o ustalenie lokalizacji regionalnej sieci szerokopasmowej, a jeżeli nieruchomość nie ma urządzonej księgi wieczystej – o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania. W przypadku ostatecznej decyzji odmawiającej ustalenia lokalizacji regionalnej sieci szerokopasmowej, wojewoda niezwłocznie występuje do właściwego sądu o wykreślenie z księgi wieczystej wpisu o wszczęciu postępowania albo składa odpowiednie zawiadomienie do zbioru dokumentów.
+### h)
 
-**Art. 54.**
+dyrektora właściwego regionalnego zarządu gospodarki wodnej - w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
 
-1. Wojewoda wydaje decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w terminie 90 dni od dnia złożenia wniosku, o którym mowa w art. 50.
+### i)
 
-2. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera w szczególności:
+dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe - w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe,
 
-- **1)** określenie rodzaju inwestycji;
-- **2)** warunki techniczne realizacji inwestycji;
-- **3)** wynikające z przepisów odrębnych warunki w zakresie:
-    - **a)** ochrony środowiska i zdrowia ludzi, ochrony przyrody oraz ochrony zabytków,
-    - **b)** obsługi infrastruktury technicznej i komunikacji,
-    - **c)** wymagań dotyczących ochrony uzasadnionych interesów osób trzecich,
-    - **d)** ochrony obiektów budowlanych na terenach górniczych;
+### j)
 
-- **4)** określenie linii rozgraniczających teren inwestycji, wyznaczonych na mapie zasadniczej lub w przypadku jej braku – na mapie ewidencyjnej;
-- **5)** określenie ograniczeń w korzystaniu z nieruchomości niezbędnych do realizacji regionalnej sieci szerokopasmowej, o ile jest to wymagane;
-- **6)** informację o zgodności lub braku zgodności inwestycji z ustaleniami planu zagospodarowania przestrzennego województwa.
+właściwego wojewódzkiego konserwatora zabytków - w odniesieniu do zabytków chronionych na podstawie ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ([Dz. U. Nr 162, poz. 1568](https://api.sejm.gov.pl/eli/acts/DU/2003/1568/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474.](#gloss-0:11:)),
 
-3. Przepisy art. 124 ust. 4, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+### k)
 
-4. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, na okres i w zakresie niezbędnym do realizacji i eksploatacji regionalnej sieci szerokopasmowej:
+właściwego zarządcy terenów kolejowych - w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2007 r. Nr 16, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2007/94/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658.](#gloss-0:12:)),
 
-- **1)** zobowiązuje podmiot zarządzający lub gospodarujący gruntami stanowiącymi własność Skarbu Państwa lub jednostek samorządu terytorialnego, z wyłączeniem terenów zajętych pod drogi publiczne, terenów zajętych pod linie kolejowe i gruntów pokrytych wodami płynącymi, do ich wydania najpóźniej w dniu uzyskania przez inwestora decyzji o pozwoleniu na budowę;
-- **2)** uprawnia inwestora do faktycznego objęcia w posiadanie gruntów stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego;
-- **3)** stanowi tytuł prawny do dysponowania nieruchomością na cele budowlane.
+### l)
 
-5. Nie można uzależnić wydania decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami.
+właściwego wojewody, marszałka województwa oraz starosty w zakresie zadań rządowych albo samorządowych, służących do realizacji inwestycji celu publicznego, o których mowa w art. 39 ust. 3 pkt 3 i art. 48 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym - w odniesieniu do terenów nieobjętych planami zagospodarowania przestrzennego,
 
-6. Sporządzenie projektu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej powierza się osobie, o której mowa w art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, albo osobie wpisanej na listę izby samorządu zawodowego architektów posiadającej uprawnienia budowlane do projektowania bez ograniczeń w specjalności architektonicznej albo uprawnienia budowlane do projektowania i kierowania robotami budowlanymi bez ograniczeń w specjalności architektonicznej.
+### m)
 
-7. Wzmiankę o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zamieszcza się w księdze wieczystej i katastrze nieruchomości. Wpisów dokonuje się na wniosek inwestora.
+właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta, burmistrza lub prezydenta miasta.
 
-8. W przypadku gdy lokalizacja regionalnej sieci szerokopasmowej wymaga przejścia przez tereny dróg publicznych, linii kolejowych bądź grunty pokryte wodami płynącymi, inwestor jest uprawniony do nieodpłatnego zajęcia tego terenu na czas realizacji tej inwestycji.
+### 4.
 
-9. Inwestor, niepóźniej niż w terminie 30 dni przed planowanym zajęciem terenu, uzgadnia, w drodze pisemnego porozumienia, z zarządcą drogi, zarządcą infrastruktury kolejowej lub odpowiednimi podmiotami, o których mowa w art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535 oraz z 2026 r. poz. 445), zakres, warunki i termin zajęcia tego terenu.
+Właściwy organ dokonuje uzgodnienia lub wydaje opinię, o których mowa w ust. 3 pkt 2 i 3, na wniosek inwestora, w terminie nie dłuższym niż 21 dni od dnia otrzymania wniosku.
 
-10. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej podlega natychmiastowemu wykonaniu.
+### 5.
 
-**Art. 55.** Grunty pokryte wodami, stanowiące własność Skarbu Państwa, niezbędne do realizacji inwestycji w zakresie regionalnych sieci szerokopasmowych, oddaje się inwestorowi w użytkowanie na czas prowadzenia i eksploatacji inwestycji, za opłatą roczną, na zasadach określonych w art. 261 ustawy z dnia 20 lipca 2017 r. – Prawo wodne. Umowę użytkowania zawiera się w terminie 14 dni od dnia podpisania porozumienia, o którym mowa w art. 54 ust. 9.
+Organ dokonuje uzgodnienia w formie postanowienia, na które inwestorowi przysługuje zażalenie.
 
-**Art. 56.** Do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w granicach linii rozgraniczających teren inwestycji nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2024 r. poz. 82).
+### 6.
 
-**Art. 57.**
+Niedokonanie uzgodnienia lub niewydanie opinii, w terminie, o którym mowa w ust. 4, traktuje się jako brak zastrzeżeń do wniosku.
 
-1. Wojewoda doręcza decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony w drodze obwieszczenia w urzędzie wojewódzkim i w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego, w urzędach gmin właściwych ze względu na lokalizację tej inwestycji, a także w prasie lokalnej.
+### 7.
 
-2. Wojewoda doręcza zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej dotychczasowemu właścicielowi lub użytkownikowi wieczystemu na adres wskazany w ewidencji gruntów i budynków lub katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków lub w katastrze nieruchomości uznaje się za skuteczne.
+Uzgodnienie i opinie, o których mowa w ust. 3 pkt 2 i 3, zastępują uzgodnienia, zezwolenia, pozwolenia, opinie bądź stanowiska właściwych organów, wymagane odrębnymi przepisami dla lokalizacji inwestycji.
 
-3. Przepisu ust. 2 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
+### Art. 52.
 
-4. Zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera:
+### 1.
 
-- **1)** oznaczenie nieruchomości lub ich części objętych decyzją, według ewidencji gruntów i budynków lub katastru nieruchomości;
-- **2)** informację o terminie i miejscu, w którym strony mogą zapoznać się z decyzją.
+Wojewoda w terminie 14 dni od dnia złożenia wniosku, o którym mowa w art. 50, zawiadamia o wszczęciu postępowania w sprawie o ustalenie lokalizacji regionalnej sieci szerokopasmowej:
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio do doręczenia i zawiadomienia stron o decyzji wydanej przez organ drugiej instancji.
+### 1)
 
-**Art. 57a.** Do decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+wnioskodawcę - na adres wskazany we wniosku o wydanie tej decyzji;
 
-**Art. 58.**
+### 2)
 
-1. Od decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej stronie służy odwołanie do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+właścicieli lub użytkowników wieczystych nieruchomości objętych wnioskiem o wydanie tej decyzji - na adres wskazany w ewidencji gruntów i budynków lub katastrze nieruchomości ze skutkiem doręczenia;
 
-2. Odwołanie od decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera zarzuty odnoszące się do decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
+### 3)
 
-3. W przypadku wniesienia skargi do sądu administracyjnego na decyzję wydaną w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej, wstrzymanie wykonania tej decyzji na wniosek skarżącego sąd może uzależnić od złożenia przez skarżącego kaucji na zabezpieczenie roszczeń inwestora z powodu wstrzymania wykonania decyzji. W przypadku uznania skargi za zasadną w całości lub w części kaucja podlega zwrotowi. W zakresie nieuregulowanym w niniejszej ustawie w sprawach kaucji stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o zabezpieczeniu roszczenia.
+pozostałe strony - w drodze obwieszczenia w urzędzie wojewódzkim i w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego, a także w urzędach gmin właściwych ze względu na planowaną lokalizację regionalnej sieci szerokopasmowej i w prasie lokalnej;
 
-4. Kaucja, o której mowa w ust. 3, w stosunku do osoby fizycznej nieprowadzącej działalności gospodarczej wynosi od 500 zł do 5000 zł, a dla innych podmiotów od 5000 zł do 50 000 zł. Sąd, ustalając wysokość kaucji, bierze pod uwagę sytuację osobistą i majątkową skarżącego, wartość nieruchomości objętej decyzją w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej, wartość i zakres inwestycji oraz interes społeczny.
+### 4)
 
-5. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w całości ani stwierdzić jej nieważności, gdy wadą jest dotknięta tylko część decyzji dotycząca odcinka regionalnej sieci szerokopasmowej.
+właściwe miejscowo organy w sprawach, o których mowa w ust. 5 pkt 2, przy czym wójt, burmistrz lub prezydent miasta niezwłocznie po otrzymaniu zawiadomienia ogłasza o wszczęciu postępowania w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy oraz w sposób zwyczajowo przyjęty.
 
-6. Nie stwierdza się nieważności ostatecznej decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął budowę regionalnej sieci szerokopasmowej. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+### 2.
 
-7. W przypadku uwzględnienia skargi na decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy regionalnej sieci szerokopasmowej może jedynie stwierdzić, że decyzja narusza prawo z przyczyn określonych w art. 145 lub 156 Kodeksu postępowania administracyjnego.
+Zawiadomienie, o którym mowa w ust. 1, zawiera w szczególności:
 
-**Art. 59.**
+### 1)
 
-1. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże właściwe organy przy opracowywaniu planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda niezwłocznie przekazuje wydane decyzje o ustaleniu lokalizacji regionalnej sieci szerokopasmowej właściwym miejscowo wójtom, burmistrzom lub prezydentom miast.
+oznaczenie nieruchomości lub ich części, objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, według ewidencji gruntów i budynków lub katastru nieruchomości;
 
-2. Ilekroć w odrębnych przepisach, w tym w przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu lub o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
+### 2)
 
-3. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże właściwe organy w zakresie wydawania:
+informację o terminie i miejscu, w którym strony mogą zapoznać się z aktami sprawy.
 
-- **1)** decyzji o warunkach zabudowy;
-- **2)** decyzji o ustaleniu lokalizacji inwestycji celu publicznego;
-- **3)** (uchylony)
-- **4)** decyzji, o której mowa w art. 11a ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
-- **5)** decyzji, o której mowa w art. 9q ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
-- **6)** decyzji, o której mowa w art. 23 ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2020 r. poz. 2008 oraz z 2026 r. poz. 160);
-- **7)** decyzji, o której mowa w art. 5 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. z 2025 r. poz. 1222);
-- **8)** decyzji, o której mowa w art. 3 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464).
+### 3.
 
-4. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże organ wydający pozwolenie na budowę, organ wydający decyzje, o których mowa w art. 124 ust. 1 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, oraz zarządcę drogi wydającego zezwolenie, o którym mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych. Zezwolenie zarządcy drogi jest wydawane w terminie niedłuższym niż 14 dni od dnia złożenia wniosku o jego wydanie. Przepisy art. 124 ust. 4 i 8, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+W przypadku nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, zawiadomienia dokonuje się w formie obwieszczenia, o którym mowa w ust. 1 pkt 3.
 
-5. Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej jest wiążąca dla następców prawnych właścicieli i użytkowników wieczystych nieruchomości objętych tą decyzją oraz innych podmiotów władających tymi nieruchomościami.
+### 4.
 
-**Art. 60.**
+Przepisy ust. 1-3 stosuje się odpowiednio do innych wezwań, zawiadomień i pism, które organ jest obowiązany doręczać stronom w toku postępowania.
 
-1. Pozwolenie na budowę regionalnej sieci szerokopasmowej, wymagane przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, wydaje właściwy miejscowo wojewoda, na zasadach i w trybie przepisów tej ustawy, z zastrzeżeniem przepisów niniejszej ustawy.
+### 5.
 
-1a. W przypadku budowy regionalnej sieci szerokopasmowej polegającej na wykonaniu robót zwolnionych z obowiązku uzyskania pozwolenia na budowę, wymaganego przepisami ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, dla których wymagane jest zgłoszenie, organem właściwym do przyjęcia zgłoszenia robót jest wojewoda. Przepisu art. 30 ust. 6 pkt 2 ustawy określonej w zdaniu pierwszym w zakresie miejscowego planu zagospodarowania przestrzennego nie stosuje się.
+Z dniem zawiadomienia, o którym mowa w ust. 1:
 
-2. Wojewoda wydaje pozwolenie na budowę albo przyjmuje zgłoszenie regionalnej sieci szerokopasmowej, w zależności od zakresu określonego we wniosku albo zgłoszeniu inwestora, dla całej lub dla części inwestycji, w szczególności dla poszczególnych odcinków sieci lub linii, położonych na obszarze województwa.
+### 1)
 
-3. W razie potrzeby, pozwolenie na budowę zawiera:
+nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, nie mogą być przedmiotem obrotu, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
 
-- **1)** obowiązek rozbiórki za uprzednią zgodą właściciela wyrażoną w formie pisemnej istniejących obiektów budowlanych oraz określenie jej terminu;
-- **2)** obowiązek dokonania przebudowy istniejącego uzbrojenia terenu;
-- **3)** określenie ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w pkt 1 i 2, lub innych niezbędnych do wykonania regionalnej sieci szerokopasmowej.
+### 2)
 
-4. Przepisy art. 124 ust. 4 i 8, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, do czasu wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę dla inwestycji innej niż inwestycja celu publicznego oraz decyzji o warunkach zabudowy, a toczące się postępowania w tych sprawach ulegają zawieszeniu z mocy prawa do czasu wydania ostatecznej decyzji w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej;
 
-5. Przepisy art. 52 ust. 3 i 4, art. 56 oraz art. 57 ust. 2 stosuje się do pozwolenia na budowę regionalnej sieci szerokopasmowej.
+### 3)
 
-**Art. 61.**
+obrót nieruchomościami innymi niż określone w pkt 1, objętymi wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej oraz ustanowienie na nich ograniczonych praw rzeczowych, nie wpływa na toczące się postępowanie.
 
-1. W pozwoleniu na budowę regionalnej sieci szerokopasmowej wojewoda zezwala, w zakresie niezbędnym do realizacji inwestycji, na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji regionalnej sieci szerokopasmowej. Do inwestycji w zakresie lokalizacji regionalnej sieci szerokopasmowej nie stosuje się przepisów rozdziału 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2026 r. poz. 13 i 426), z wyjątkiem art. 83f ust. 1 oraz art. 84–89 tej ustawy.
+### 6.
 
-2. W przypadku, o którym mowa w ust. 1, wniosek o pozwolenie na budowę dodatkowo zawiera:
+W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, po doręczeniu zawiadomienia, o którym mowa w ust. 1, nabywca i zbywca są obowiązani zgłosić właściwemu wojewodzie dane nowego właściciela lub użytkownika wieczystego. Niedokonanie powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela nie stanowią podstawy do wznowienia postępowania.
 
-- **1)** inwentaryzację drzew lub krzewów znajdujących się na terenie objętym wnioskiem, z wyszczególnieniem gatunku, obwodu pnia drzewa mierzonego na wysokości 130 cm oraz przeznaczenia i dotychczasowego sposobu wykorzystywania terenu, na którym rosną drzewa lub krzewy, oraz
-- **2)** plan gospodarki zielenią, jako część projektu zagospodarowania działki lub terenu, w którym określa się przyczynę i termin zamierzonego usunięcia poszczególnych drzew lub krzewów, wielkość powierzchni, z której zostaną usunięte krzewy, oraz planowane nasadzenia zastępcze.
+### 7.
 
-3. Wojewoda może w pozwoleniu na budowę regionalnej sieci szerokopasmowej nałożyć obowiązek przesadzenia drzew lub krzewów we wskazane miejsce lub zastąpienia ich innymi drzewami lub krzewami, w liczbie niemniejszej niż liczba usuwanych drzew lub krzewów.
+Czynność prawna dokonana z naruszeniem zakazu, o którym mowa w ust. 5 pkt 1, jest nieważna.
 
-4. Opłaty za usunięcie drzew lub krzewów ponosi inwestor.
+### Art. 53.
 
-5. Państwowe Gospodarstwo Leśne Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach, nieruchomościami w stosunku do których wydano pozwolenie na budowę regionalnej sieci szerokopasmowej zawierające zezwolenie, o którym mowa w ust. 1, jest obowiązane dokonać nieodpłatnie, z zastrzeżeniem ust. 6, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+Wojewoda niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania w sprawie o ustalenie lokalizacji regionalnej sieci szerokopasmowej, a jeżeli nieruchomość nie ma urządzonej księgi wieczystej - o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania. W przypadku ostatecznej decyzji odmawiającej ustalenia lokalizacji regionalnej sieci szerokopasmowej, wojewoda niezwłocznie występuje do właściwego sądu o wykreślenie z księgi wieczystej wpisu o wszczęciu postępowania albo składa odpowiednie zawiadomienie do zbioru dokumentów.
 
-6. Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponosi inwestor.
+### Art. 54.
 
-7. Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 5, pozostaje w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+### 1.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+Wojewoda wydaje decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w terminie 90 dni od dnia złożenia wniosku, o którym mowa w art. 50.
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+### 2.
 
-**Art. 75.**
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera w szczególności:
 
-1. Przepis art. 46 i art. 48 stosuje się także do planów miejscowych obowiązujących w dniu wejścia w życie ustawy.
+### 1)
 
-2. (uchylony)
+określenie rodzaju inwestycji;
 
-3. (uchylony)
+### 2)
 
-4. (uchylony)
+warunki techniczne realizacji inwestycji;
 
-5. (uchylony)
+### 3)
 
-6. (uchylony)
+wynikające z przepisów odrębnych warunki w zakresie:
 
-7. (uchylony)
+### a)
 
-8. (uchylony)
+ochrony środowiska i zdrowia ludzi, ochrony przyrody oraz ochrony zabytków,
 
-**Art. 76.** Jednostka samorządu terytorialnego, która w dniu wejścia w życie ustawy posiada infrastrukturę telekomunikacyjną lub sieci telekomunikacyjne, jest obowiązana złożyć wniosek o wpis do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+### b)
 
-**Art. 77.**
+obsługi infrastruktury technicznej i komunikacji,
 
-1. W przypadku umów zawartych na czas określony przed dniem wejścia w życie ustawy, dotyczących działalności, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, do zmiany polegającej na przedłużeniu na kolejne okresy lub przekształceniu w umowy na czas nieokreślony stosuje się przepisy niniejszej ustawy.
+### c)
 
-2. Jednostki samorządu terytorialnego oraz podmioty wykonujące zadania z zakresu użyteczności publicznej są obowiązane dostosować do przepisów niniejszej ustawy zawarte na czas nieokreślony, przed dniem wejścia w życie ustawy, umowy dotyczące działalności, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, w terminie roku od dnia wejścia w życie niniejszej ustawy.
+wymagań dotyczących ochrony uzasadnionych interesów osób trzecich,
 
-3. W przypadku stwierdzenia przez Prezesa UKE, że działalność, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, narusza wymagania określone w art. 3 ust. 2, Prezes UKE może, w drodze decyzji:
+### d)
 
-- **1)** nakazać usunięcie stwierdzonych nieprawidłowości,
-- **2)** wskazać środki, jakie należy zastosować w celu usunięcia nieprawidłowości,
-- **3)** określić dopuszczalny zakres i warunki świadczenia usług telekomunikacyjnych użytkownikom końcowym lub
-- **4)** określić termin usunięcia nieprawidłowości lub dostosowania działalności do zakresu i warunków, o których mowa w pkt 3 – mając na uwadze interes użytkowników końcowych, uzasadniony interes wspólnoty samorządowej oraz wymagania określone w art. 3 ust. 2, a także to, że środki, jakie należy zastosować w celu usunięcia nieprawidłowości, oraz dopuszczalny zakres i warunki świadczenia usług telekomunikacyjnych użytkownikom końcowym nie mogą uniemożliwiać wykonywania dotychczasowej działalności.
+ochrony obiektów budowlanych na terenach górniczych;
 
-4. Przepisy art. 9 i 10 stosuje się także do działalności rozpoczętej przed dniem wejścia w życie ustawy.
+### 4)
 
-**Art. 78.** (uchylony)
+określenie linii rozgraniczających teren inwestycji, wyznaczonych na mapie w skali 1:500, 1:1000 albo 1:2000;
 
-**Art. 79.**
+### 5)
 
-1. Do inwestycji drogowej, dla której przed dniem wejścia w życie ustawy został złożony wniosek o wydanie decyzji:
+określenie ograniczeń w korzystaniu z nieruchomości niezbędnych do realizacji regionalnej sieci szerokopasmowej, o ile jest to wymagane.
 
-- **1)** o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia na podstawie ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. poz. 150, z późn. zm. ) lub
-- **2)** o środowiskowych uwarunkowaniach na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub
-- **3)** o ustaleniu lokalizacji drogi lub decyzji o ustaleniu lokalizacji drogi krajowej lub decyzji o zezwoleniu na realizację inwestycji drogowej – stosuje się przepisy dotychczasowe.
+### 3.
 
-2. Do inwestycji drogowej dotyczącej autostrad płatnych realizowanych na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, w przypadku których przed dniem wejścia w życie ustawy zawarto umowę o budowę i eksploatację albo wyłącznie eksploatację autostrady lub ogłoszono przetarg na budowę i eksploatację albo wyłącznie eksploatację autostrady, stosuje się przepisy dotychczasowe.
+Przepisy art. 124 ust. 4, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
 
-**Art. 80.** Do spraw o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, wszczętych i niezakończonych do dnia wejścia w życie ustawy decyzją ostateczną przepisy dotychczasowe stosuje się na wniosek inwestora, który może być złożony najpóźniej w terminie 2 miesięcy od dnia wejścia w życie ustawy.
+### 4.
 
-**Art. 81.**
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, na okres i w zakresie niezbędnym do realizacji i eksploatacji regionalnej sieci szerokopasmowej:
 
-1. Przepisy wykonawcze wydane na podstawie art. 40 ust. 7 ustawy, o której mowa w art. 62 , zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 40 ust. 7 ustawy, o której mowa w art. 62 , w brzmieniu nadanym niniejszą ustawą, jednak niedłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+### 1)
 
-2. Przepisy wykonawcze wydane na podstawie art. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane pozostają w mocy do dnia wejścia w życie nowych przepisów wykonawczych i mogą być zmieniane na podstawie tych przepisów.
+zobowiązuje podmiot zarządzający lub gospodarujący gruntami stanowiącymi własność Skarbu Państwa lub jednostek samorządu terytorialnego, z wyłączeniem terenów zajętych pod drogi publiczne, terenów zajętych pod linie kolejowe i gruntów pokrytych wodami płynącymi, do ich wydania najpóźniej w dniu uzyskania przez inwestora decyzji o pozwoleniu na budowę;
 
-3. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa w rozporządzeniu, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, określi szczegółowe warunki techniczne wykonania obowiązku, o którym mowa w art. 30 ust. 6, w terminie 18 miesięcy od dnia wejścia w życie ustawy.
+### 2)
 
-**Art. 82.** Za regionalne sieci szerokopasmowe w rozumieniu art. 2 ust. 1 pkt 2 ustawy uważa się także sieci telekomunikacyjne realizowane jako szerokopasmowe w ramach programów operacyjnych przed dniem wejścia w życie ustawy.
+uprawnia inwestora do faktycznego objęcia w posiadanie gruntów stanowiących własność Skarbu Państwa lub jednostki samorządu terytorialnego;
 
-**Art. 83.**
+### 3)
 
-1. W terminie dwóch lat od dnia wejścia w życie ustawy minister właściwy do spraw łączności we współpracy z Prezesem UKE sporządzi raport dotyczący stanu sieci szerokopasmowych na terytorium Rzeczypospolitej Polskiej oraz działań przedsiębiorców telekomunikacyjnych, organów państwa oraz jednostek samorządu terytorialnego, w zakresie rozwoju takiej infrastruktury.
+stanowi tytuł prawny do dysponowania nieruchomością na cele budowlane.
 
-2. Raport, o którym mowa w ust. 1, minister właściwy do spraw łączności przekaże Prezesowi Rady Ministrów.
+### 5.
 
-3. Raport, o którym mowa w ust. 1, zawiera wnioski oraz propozycje działań wspierających rozwój sieci szerokopasmowych, w szczególności na obszarach wiejskich, z uwzględnieniem wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienia użytkownikom maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości. Art. 84–86. (pominięte)
+Nie można uzależnić wydania decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami.
 
-**Art. 87.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem art. 29, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+### 6.
 
+Sporządzenie projektu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej powierza się osobie wpisanej na listę izby samorządu zawodowego urbanistów lub architektów.
+
+### 7.
+
+Wzmiankę o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zamieszcza się w księdze wieczystej i katastrze nieruchomości. Wpisów dokonuje się na wniosek inwestora.
+
+### 8.
+
+W przypadku gdy lokalizacja regionalnej sieci szerokopasmowej wymaga przejścia przez tereny dróg publicznych, linii kolejowych bądź grunty pokryte wodami płynącymi, inwestor jest uprawniony do nieodpłatnego zajęcia tego terenu na czas realizacji tej inwestycji.
+
+### 9.
+
+Inwestor, nie później niż w terminie 30 dni przed planowanym zajęciem terenu, uzgadnia w drodze pisemnego porozumienia z zarządcą drogi, zarządcą infrastruktury kolejowej lub odpowiednimi organami, o których mowa w art. 11 ust. 1 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2005 r. Nr 239, poz. 2019](https://api.sejm.gov.pl/eli/acts/DU/2005/2019/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664 oraz z 2010 r. Nr 44, poz. 253 i Nr 96, poz. 620.](#gloss-0:13:)), zakres, warunki i termin zajęcia tego terenu.
+
+### 10.
+
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej podlega natychmiastowemu wykonaniu.
+
+### Art. 55.
+
+Grunty pokryte wodami stanowiące własność Skarbu Państwa, niezbędne do realizacji inwestycji w zakresie regionalnych sieci szerokopasmowych, oddaje się inwestorowi w użytkowanie na czas prowadzenia i eksploatacji inwestycji, za opłatą roczną, na zasadach określonych w art. 20 ustawy z dnia 18 lipca 2001 r. - Prawo wodne. Umowę użytkowania zawiera się w terminie 14 dni od dnia podpisania porozumienia, o którym mowa w art. 54 ust. 9.
+
+### Art. 56.
+
+Do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w granicach linii rozgraniczających teren inwestycji nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych ([Dz. U. z 2004 r. Nr 121, poz. 1266](https://api.sejm.gov.pl/eli/acts/DU/2004/1266/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3, Nr 115, poz. 967 i Nr 157, poz. 1241.](#gloss-0:14:)).
+
+### Art. 57.
+
+### 1.
+
+Wojewoda doręcza decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony w drodze obwieszczenia w urzędzie wojewódzkim i w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu wojewódzkiego, w urzędach gmin właściwych ze względu na lokalizację tej inwestycji, a także w prasie lokalnej.
+
+### 2.
+
+Wojewoda doręcza zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej dotychczasowemu właścicielowi lub użytkownikowi wieczystemu na adres wskazany w ewidencji gruntów i budynków lub katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków lub w katastrze nieruchomości uznaje się za skuteczne.
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się w przypadku nieruchomości o nieuregulowanym stanie prawnym, w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, oraz w sytuacji, gdy właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
+
+### 4.
+
+Zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera:
+
+### 1)
+
+oznaczenie nieruchomości lub ich części objętych decyzją, według ewidencji gruntów i budynków lub katastru nieruchomości;
+
+### 2)
+
+informację o terminie i miejscu, w którym strony mogą zapoznać się z decyzją.
+
+### 5.
+
+Przepisy ust. 1-4 stosuje się odpowiednio do doręczenia i zawiadomienia stron o decyzji wydanej przez organ drugiej instancji.
+
+### Art. 58.
+
+### 1.
+
+Od decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej stronie służy odwołanie do ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
+
+### 2.
+
+Odwołanie od decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej zawiera zarzuty odnoszące się do decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
+
+### 3.
+
+W przypadku wniesienia skargi do sądu administracyjnego na decyzję wydaną w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej, wstrzymanie wykonania tej decyzji na wniosek skarżącego sąd może uzależnić od złożenia przez skarżącego kaucji na zabezpieczenie roszczeń inwestora z powodu wstrzymania wykonania decyzji. W przypadku uznania skargi za zasadną w całości lub w części kaucja podlega zwrotowi. W zakresie nieuregulowanym w niniejszej ustawie w sprawach kaucji stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o zabezpieczeniu roszczenia.
+
+### 4.
+
+Kaucja, o której mowa w ust. 3, w stosunku do osoby fizycznej nieprowadzącej działalności gospodarczej wynosi od 500 zł do 5 000 zł, a dla innych podmiotów od 5 000 zł do 50 000 zł. Sąd, ustalając wysokość kaucji, bierze pod uwagę sytuację osobistą i majątkową skarżącego, wartość nieruchomości objętej decyzją w sprawie ustalenia lokalizacji regionalnej sieci szerokopasmowej, wartość i zakres inwestycji oraz interes społeczny.
+
+### 5.
+
+W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej w całości ani stwierdzić jej nieważności, gdy wadą jest dotknięta tylko część decyzji dotycząca odcinka regionalnej sieci szerokopasmowej.
+
+### 6.
+
+Nie stwierdza się nieważności ostatecznej decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął budowę regionalnej sieci szerokopasmowej. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### 7.
+
+W przypadku uwzględnienia skargi na decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy regionalnej sieci szerokopasmowej może jedynie stwierdzić, że decyzja narusza prawo z przyczyn określonych w art. 145 lub 156 Kodeksu postępowania administracyjnego.
+
+### Art. 59.
+
+### 1.
+
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże właściwe organy przy opracowywaniu studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz planów zagospodarowania przestrzennego. Wojewoda niezwłocznie przekazuje wydane decyzje o ustaleniu lokalizacji regionalnej sieci szerokopasmowej właściwym miejscowo wójtom, burmistrzom lub prezydentom miast.
+
+### 2.
+
+Ilekroć w odrębnych przepisach, w tym w przepisach ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu lub o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji regionalnej sieci szerokopasmowej.
+
+### 3.
+
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże właściwe organy w zakresie wydawania:
+
+### 1)
+
+decyzji o warunkach zabudowy;
+
+### 2)
+
+decyzji o ustaleniu lokalizacji inwestycji celu publicznego;
+
+### 3)
+
+decyzji, o której mowa w art. 21 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2004 r. Nr 256, poz. 2571](https://api.sejm.gov.pl/eli/acts/DU/2004/2571/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391 oraz z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776.](#gloss-0:15:));
+
+### 4)
+
+decyzji, o której mowa w art. 11a ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych ([Dz. U. z 2008 r. Nr 193, poz. 1194](https://api.sejm.gov.pl/eli/acts/DU/2008/1194/text.html) i [Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html) oraz z [2009 r. Nr 72, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2009/620/text.html));
+
+### 5)
+
+decyzji, o której mowa w art. 9q ustawy z dnia 28 marca 2003 r. o transporcie kolejowym;
+
+### 6)
+
+decyzji, o której mowa w art. 23 ustawy z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 ([Dz. U. z 2010 r. Nr 26, poz. 133](https://api.sejm.gov.pl/eli/acts/DU/2010/133/text.html));
+
+### 7)
+
+decyzji, o której mowa w art. 5 ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu ([Dz. U. Nr 84, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2009/700/text.html) oraz z [2010 r. Nr 57, poz. 358](https://api.sejm.gov.pl/eli/acts/DU/2010/358/text.html));
+
+### 8)
+
+decyzji, o której mowa w art. 3 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie lotnisk użytku publicznego ([Dz. U. Nr 42, poz. 340](https://api.sejm.gov.pl/eli/acts/DU/2009/340/text.html) i [Nr 161, poz. 1281](https://api.sejm.gov.pl/eli/acts/DU/2009/1281/text.html)).
+
+### 4.
+
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej wiąże organ wydający pozwolenie na budowę, organ wydający decyzje, o których mowa w art. 124 ust. 1 i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, oraz zarządcę drogi wydającego zezwolenie, o którym mowa w art. 40 ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych. Zezwolenie zarządcy drogi jest wydawane w terminie nie dłuższym niż 14 dni od dnia złożenia wniosku o jego wydanie. Przepisy art. 124 ust. 4 i 8, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+
+### 5.
+
+Decyzja o ustaleniu lokalizacji regionalnej sieci szerokopasmowej jest wiążąca dla następców prawnych właścicieli i użytkowników wieczystych nieruchomości objętych tą decyzją oraz innych podmiotów władających tymi nieruchomościami.
+
+### Art. 60.
+
+### 1.
+
+Pozwolenie na budowę regionalnej sieci szerokopasmowej, wymagane przepisami ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, wydaje właściwy miejscowo wojewoda, na zasadach i w trybie przepisów tej ustawy, z zastrzeżeniem przepisów niniejszej ustawy.
+
+### 2.
+
+Wojewoda wydaje pozwolenie na budowę regionalnej sieci szerokopasmowej, w zależności od zakresu określonego we wniosku inwestora, dla całej lub dla części inwestycji, w szczególności dla poszczególnych odcinków sieci lub linii, położonych na obszarze województwa.
+
+### 3.
+
+W razie potrzeby, pozwolenie na budowę zawiera:
+
+### 1)
+
+obowiązek rozbiórki za uprzednią zgodą właściciela wyrażoną w formie pisemnej istniejących obiektów budowlanych oraz określenie jej terminu;
+
+### 2)
+
+obowiązek dokonania przebudowy istniejącego uzbrojenia terenu;
+
+### 3)
+
+określenie ograniczeń w korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa w pkt 1 i 2, lub innych niezbędnych do wykonania regionalnej sieci szerokopasmowej.
+
+### 4.
+
+Przepisy art. 124 ust. 4 i 8, art. 124a oraz art. 128 ust. 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+
+### 5.
+
+Przepisy art. 52 ust. 3 i 4, art. 56 oraz art. 57 ust. 2 stosuje się do pozwolenia na budowę regionalnej sieci szerokopasmowej.
+
+### Art. 61.
+
+### 1.
+
+W pozwoleniu na budowę regionalnej sieci szerokopasmowej wojewoda zezwala, w zakresie niezbędnym do realizacji inwestycji, na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji regionalnej sieci szerokopasmowej, z wyjątkiem drzew i krzewów stanowiących formy ochrony przyrody lub wchodzących w skład form ochrony przyrody, w rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2009 r. Nr 151, poz. 1220](https://api.sejm.gov.pl/eli/acts/DU/2009/1220/text.html), [Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html) i [Nr 215, poz. 1664](https://api.sejm.gov.pl/eli/acts/DU/2009/1664/text.html) oraz z [2010 r. Nr 76, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2010/489/text.html)). Do inwestycji w zakresie lokalizacji regionalnej sieci szerokopasmowej nie stosuje się przepisów rozdziału 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, z wyjątkiem art. 84-89 tej ustawy.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, wniosek o pozwolenie na budowę dodatkowo zawiera:
+
+### 1)
+
+inwentaryzację drzew lub krzewów znajdujących się na terenie objętym wnioskiem, z wyszczególnieniem gatunku, obwodu pnia drzewa mierzonego na wysokości 130 cm oraz przeznaczenia i dotychczasowego sposobu wykorzystywania terenu, na którym rosną drzewa lub krzewy, oraz
+
+### 2)
+
+plan gospodarki zielenią, jako część projektu zagospodarowania działki lub terenu, w którym określa się przyczynę i termin zamierzonego usunięcia poszczególnych drzew lub krzewów, wielkość powierzchni, z której zostaną usunięte krzewy, oraz planowane nasadzenia zastępcze.
+
+### 3.
+
+Wojewoda może w pozwoleniu na budowę regionalnej sieci szerokopasmowej nałożyć obowiązek przesadzenia drzew lub krzewów we wskazane miejsce lub zastąpienia ich innymi drzewami lub krzewami, w liczbie nie mniejszej niż liczba usuwanych drzew lub krzewów.
+
+### 4.
+
+Opłaty za usunięcie drzew lub krzewów ponosi inwestor.
+
+### 5.
+
+Państwowe Gospodarstwo Leśne Lasy Państwowe, zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach ([Dz. U. z 2005 r. Nr 45, poz. 435](https://api.sejm.gov.pl/eli/acts/DU/2005/435/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399, Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 340, Nr 69, poz. 595, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 96, poz. 620.](#gloss-0:16:)), nieruchomościami w stosunku do których wydano decyzję o zezwoleniu na realizację inwestycji w zakresie regionalnych sieci szerokopasmowych są obowiązane dokonać nieodpłatnie, z zastrzeżeniem ust. 6, wycinki drzew i krzewów oraz ich uprzątnięcia w terminie ustalonym w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+
+### 6.
+
+Koszty wycinki drzew i krzewów w wieku do 20 lat oraz ich uprzątnięcia ponosi inwestor.
+
+### 7.
+
+Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 5, pozostaje w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+### Rozdział 7 Zmiany w przepisach obowiązujących
+
+### Art. 62.
+
+W ustawie z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2007 r. Nr 19, poz. 115](https://api.sejm.gov.pl/eli/acts/DU/2007/115/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323.](#gloss-0:17:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 po pkt 15 dodaje się pkt 15a w brzmieniu:
+
+„
+
+### 15a)
+
+kanał technologiczny - ciąg osłonowych elementów obudowy, studni kablowych oraz innych obiektów lub urządzeń służących umieszczeniu lub eksploatacji:
+
+### a)
+
+urządzeń infrastruktury technicznej związanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego,
+
+### b)
+
+linii telekomunikacyjnych wraz z zasilaniem oraz linii energetycznych, niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego.
+
+” ;
+
+### 2)
+
+w art. 16 dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+W przypadku, w którym inwestycją niedrogową jest kanał technologiczny, umowa, o której mowa w ust. 2, może przewidywać przekazanie zarządcy drogi kanału technologicznego, na warunkach uzgodnionych w umowie, z możliwością ustanowienia na rzecz przekazującego inwestora prawa do korzystania z części kanału. W takim przypadku do ustanowienia prawa na rzecz przekazującego inwestora postanowień art. 39 ust. 7-7f nie stosuje się.
+
+### 4.
+
+Przekazywany kanał technologiczny, o którym mowa w ust. 3, powinien odpowiadać warunkom technicznym określonym w odrębnych przepisach, jak również warunkom określonym w decyzji, o której mowa w art. 39 ust. 3.
+
+” ;
+
+### 3)
+
+w art. 20 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu:
+
+„
+
+### 19)
+
+zarządzanie i utrzymywanie kanałów technologicznych i pobieranie opłat, o których mowa w art. 39 ust. 7.
+
+” ;
+
+### 4)
+
+w art. 39:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przepisu ust. 1 pkt 1 nie stosuje się do umieszczania, konserwacji, przebudowy i naprawy infrastruktury telekomunikacyjnej w rozumieniu ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554.](#gloss-0:18:)) oraz urządzeń służących do doprowadzania lub odprowadzania płynów, pary, gazu, energii elektrycznej oraz urządzeń związanych z ich eksploatacją, a także do innych czynności związanych z eksploatacją tej infrastruktury i urządzeń, jeżeli warunki techniczne i wymogi bezpieczeństwa na to pozwalają.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W szczególnie uzasadnionych przypadkach lokalizowanie w pasie drogowym obiektów budowlanych lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego może nastąpić wyłącznie za zezwoleniem właściwego zarządcy drogi, z zastrzeżeniem ust. 7, wydawanym w drodze decyzji administracyjnej. Jednakże właściwy zarządca drogi może odmówić wydania zezwolenia na umieszczenie w pasie drogowym urządzeń i infrastruktury, o których mowa w ust. 1a, wyłącznie, jeżeli ich umieszczenie spowodowałoby zagrożenie bezpieczeństwa ruchu drogowego, naruszenie wymagań wynikających z przepisów odrębnych lub miałoby doprowadzić do utraty uprawnień z tytułu gwarancji lub rękojmi w zakresie budowy, przebudowy lub remontu drogi.
+
+” ,
+
+### c)
+
+po ust. 3a dodaje się ust. 3b-3d w brzmieniu:
+
+„
+
+### 3b.
+
+W przypadku gdy właściwy organ nie wyda decyzji, o której mowa w ust. 3, w terminie 65 dni od dnia złożenia wniosku, organ wyższego stopnia, a w przypadku braku takiego organu organ nadzorujący, wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę pieniężną w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
+
+### 3c.
+
+Karę pieniężną uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 3b. W przypadku nieuiszczenia kary pieniężnej, o której mowa w ust. 3b, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 3d.
+
+Do terminu, o którym mowa w ust. 3b, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+
+” ,
+
+### d)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Jeżeli budowa, przebudowa lub remont drogi wymaga przełożenia urządzenia lub obiektu, o którym mowa w ust. 3, koszt tego przełożenia ponosi jego właściciel.
+
+### 6.
+
+Zarządca drogi w trakcie budowy lub przebudowy drogi jest obowiązany zlokalizować kanał technologiczny w pasie drogowym:
+
+### 1)
+
+dróg krajowych;
+
+### 2)
+
+pozostałych dróg publicznych, chyba że w terminie 60 dni od dnia ogłoszenia informacji, o której mowa w ust. 6a, nie zgłoszono zainteresowania udostępnieniem kanału technologicznego.
+
+” ,
+
+### e)
+
+po ust. 6 dodaje się ust. 6a-6e w brzmieniu:
+
+„
+
+### 6a.
+
+Najpóźniej na 6 miesięcy przed dniem złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o zezwoleniu na realizację inwestycji drogowej albo o pozwoleniu na budowę dróg, o których mowa w ust. 6 pkt 2, zarządca drogi zamieszcza na swojej stronie internetowej informację o zamiarze rozpoczęcia budowy lub przebudowy drogi i możliwości zgłaszania zainteresowania udostępnieniem kanału technologicznego, jednocześnie zawiadamiając o tym Prezesa Urzędu Komunikacji Elektronicznej, zwanego dalej „Prezesem UKE”.
+
+### 6b.
+
+Podmiot, który zgłosi zainteresowanie udostępnieniem przez zarządcę drogi kanału technologicznego, a następnie po jego wybudowaniu nie złoży oferty, jest obowiązany zwrócić zarządcy drogi koszty wybudowania kanału technologicznego, o ile nie udostępniono tego kanału innym podmiotom.
+
+### 6c.
+
+Minister właściwy do spraw łączności, na wniosek zarządcy drogi w drodze decyzji, zwalnia zarządcę z obowiązku budowy kanału technologicznego, jeżeli w pobliżu pasa drogowego istnieje już kanał technologiczny lub linia światłowodowa, posiadające wolne zasoby wystarczające do zaspokojenia potrzeb społecznych w zakresie dostępu do usług szerokopasmowych lub w sytuacji, gdy lokalizowanie kanału technologicznego w przypadku przebudowy drogi byłoby ekonomicznie nieracjonalne lub technicznie niemożliwe. W odniesieniu do dróg, o których mowa w ust. 6 pkt 2, zwolnienie następuje przed ogłoszeniem, o którym mowa w ust. 6a.
+
+### 6d.
+
+Niezwłocznie po wybudowaniu kanału technologicznego, a jeszcze przed jego udostępnieniem innym podmiotom, zarządca drogi przekazuje Prezesowi UKE informację o przebiegu nowo zlokalizowanego kanału technologicznego.
+
+### 6e.
+
+Zarządca drogi, na wniosek Prezesa UKE lub przedsiębiorcy telekomunikacyjnego, udziela informacji o kanałach technologicznych zlokalizowanych w pasie drogowym na obszarze jego właściwości.
+
+” ,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Zarządca drogi udostępnia kanały technologiczne za opłatą, w drodze umowy dzierżawy lub najmu, na zasadach określonych w ust. 7a-7f.
+
+” ,
+
+### g)
+
+po ust. 7 dodaje się ust. 7a-7f w brzmieniu:
+
+„
+
+### 7a.
+
+Zarządca drogi zamieszcza w Biuletynie Informacji Publicznej na właściwej dla niego stronie podmiotowej informację o zamiarze udostępnienia kanału technologicznego, podając lokalizację kanału, zakres wolnych zasobów w kanale, jego podstawowe parametry techniczne, termin i miejsce składania ofert, wymagania formalne dotyczące ofert oraz kryteria wyboru w przypadku złożenia ofert przekraczających zakres wolnych zasobów, z uwzględnieniem ust. 7e.
+
+### 7b.
+
+Informację, o której mowa w ust. 7a, zarządca drogi zamieszcza także w przypadku, gdy przed ogłoszeniem zamiaru udostępnienia kanału technologicznego wpłynie do niego wniosek o udostępnienie tego kanału. W przypadku gdy do zarządcy drogi wpłynie pierwszy wniosek o udostępnienie kanału technologicznego, ogłoszenie jest publikowane nie później niż w terminie 14 dni od dnia wpłynięcia tego wniosku.
+
+### 7c.
+
+Zarządca drogi jednocześnie z zamieszczeniem informacji, o której mowa w ust. 7a i 7b, zawiadamia o tym fakcie Prezesa UKE. Prezes UKE niezwłocznie zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o ogłoszeniu, wraz z odesłaniem do strony Biuletynu Informacji Publicznej, na której informacja została opublikowana. Termin składania ofert nie może być krótszy niż 14 dni od dnia zamieszczenia informacji przez zarządcę drogi.
+
+### 7d.
+
+Zarządca drogi jest obowiązany zawrzeć umowę dzierżawy lub najmu kanału technologicznego najpóźniej w terminie 21 dni od dnia, w którym upłynął termin składania ofert.
+
+### 7e.
+
+W przypadku gdy z powodu braku wolnych zasobów w kanale technologicznym jest niemożliwe uwzględnienie wszystkich ofert na udostępnienie tego kanału, zarządca drogi dokonuje wyboru podmiotu, któremu udostępnia kanał technologiczny, stosując kryteria wyboru określone w informacji, o której mowa w ust. 7a, przestrzegając zasad przejrzystości, równego traktowania zainteresowanych podmiotów, a także pierwszeństwa dla umieszczania w kanale technologicznym linii światłowodowych przeznaczonych na potrzeby dostępu do telekomunikacyjnych usług szerokopasmowych.
+
+### 7f.
+
+Za udostępnienie kanału technologicznego pobiera się opłaty w wysokości określonej w umowie, przy czym opłaty te są ustalane na poziomie kosztów budowy i utrzymania kanału. Przepisu art. 40 ust. 3 nie stosuje się do linii telekomunikacyjnych i energetycznych oraz innych urządzeń umieszczanych w kanale technologicznym.
+
+” ,
+
+### h)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Wykonywanie zadań związanych z zarządzaniem i utrzymywaniem kanałów technologicznych, o których mowa w ust. 6, zarządca drogi może powierzyć, w drodze umowy, podmiotowi wyłonionemu w drodze przetargu, z zachowaniem przepisów o zamówieniach publicznych lub w trybie określonym w ustawie z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi.
+
+” ;
+
+### 5)
+
+w art. 40 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Minister właściwy do spraw transportu, w drodze rozporządzenia, ustala, z uwzględnieniem przepisów o pomocy publicznej, dla dróg, których zarządcą jest Generalny Dyrektor Dróg Krajowych i Autostrad, wysokość stawek opłaty za zajęcie 1 m2 pasa drogowego. Stawki opłaty, o których mowa w ust. 4 i 6, nie mogą przekroczyć 10 zł za jeden dzień zajmowania pasa drogowego, a stawka opłaty, o której mowa w ust. 5, nie może przekroczyć 200 zł, z tym że w odniesieniu do obiektów i urządzeń infrastruktury telekomunikacyjnej stawki opłaty, o których mowa w ust. 4 i 6, nie mogą przekroczyć 0,20 zł za jeden dzień zajmowania pasa drogowego, a stawka opłaty, o której mowa w ust. 5, nie może przekroczyć 20 zł.
+
+” .
+
+### Art. 63.
+
+W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2005 r. Nr 240, poz. 2027](https://api.sejm.gov.pl/eli/acts/DU/2005/2027/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505, z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241 oraz z 2010 r. Nr 76, poz. 489.](#gloss-0:19:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 po pkt 14 dodaje się pkt 14a i 14b w brzmieniu:
+
+„
+
+### 14a)
+
+krajowej bazie danych geodezyjnej ewidencji sieci uzbrojenia terenu - rozumie się przez to bazę danych o szczegółowości właściwej dla bazy danych obiektów topograficznych;
+
+### 14b)
+
+powiatowej bazie danych geodezyjnej ewidencji sieci uzbrojenia terenu - rozumie się przez to bazę danych o szczegółowości mapy zasadniczej w skalach od 1:500 do 1:5000;
+
+” ;
+
+### 2)
+
+w art. 7a w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 16a w brzmieniu:
+
+„
+
+### 16a)
+
+zakłada i prowadzi krajową bazę danych geodezyjnej ewidencji sieci uzbrojenia terenu na podstawie powiatowych baz danych geodezyjnej ewidencji sieci uzbrojenia terenu.
+
+” ;
+
+### 3)
+
+w art. 40 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Kopie baz danych z zasobów: centralnego, wojewódzkich i powiatowych są wzajemnie przekazywane między zasobami nieodpłatnie, dla celów bieżącej aktualizacji oraz ich udostępniania zgodnie z przepisami ustawy.
+
+” .
+
+### Art. 64.
+
+W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2001 r. Nr 142, poz. 1591](https://api.sejm.gov.pl/eli/acts/DU/2001/1591/text.html), z późn. zm.[20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337, z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 52, poz. 420 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230.](#gloss-0:20:)) w art. 7 w ust. 1 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+działalności w zakresie telekomunikacji,
+
+” .
+
+### Art. 65.
+
+W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474.](#gloss-0:21:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+budowli - należy przez to rozumieć każdy obiekt budowlany niebędący budynkiem lub obiektem małej architektury, jak: obiekty liniowe, lotniska, mosty, wiadukty, estakady, tunele, przepusty, sieci techniczne, wolno stojące maszty antenowe, wolno stojące trwale związane z gruntem urządzenia reklamowe, budowle ziemne, obronne (fortyfikacje), ochronne, hydrotechniczne, zbiorniki, wolno stojące instalacje przemysłowe lub urządzenia techniczne, oczyszczalnie ścieków, składowiska odpadów, stacje uzdatniania wody, konstrukcje oporowe, nadziemne i podziemne przejścia dla pieszych, sieci uzbrojenia terenu, budowle sportowe, cmentarze, pomniki, a także części budowlane urządzeń technicznych (kotłów, pieców przemysłowych, elektrowni wiatrowych i innych urządzeń) oraz fundamenty pod maszyny i urządzenia, jako odrębne pod względem technicznym części przedmiotów składających się na całość użytkową;
+
+” ,
+
+### b)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+obiekcie liniowym - należy przez to rozumieć obiekt budowlany, którego charakterystycznym parametrem jest długość, w szczególności droga wraz ze zjazdami, linia kolejowa, wodociąg, kanał, gazociąg, ciepłociąg, rurociąg, linia i trakcja elektroenergetyczna, linia kablowa nadziemna i, umieszczona bezpośrednio w ziemi, podziemna, wał przeciwpowodziowy oraz kanalizacja kablowa, przy czym kable w niej zainstalowane nie stanowią obiektu budowlanego lub jego części ani urządzenia budowlanego;
+
+” ;
+
+### 2)
+
+w art. 5 w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+możliwość dostępu do usług telekomunikacyjnych, w szczególności w zakresie szerokopasmowego dostępu do Internetu;
+
+” ;
+
+### 3)
+
+w art. 29:
+
+### a)
+
+w ust. 1 po pkt 20 dodaje się pkt 20a i 20b w brzmieniu:
+
+„
+
+### 20a)
+
+telekomunikacyjnych linii kablowych;
+
+### 20b)
+
+kanalizacji kablowej;
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 15 otrzymuje brzmienie: „ 15) instalowaniu urządzeń, w tym antenowych konstrukcji wsporczych i instalacji radiokomunikacyjnych, na obiektach budowlanych; ” ;
+
+- - w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu: „ 17) instalowaniu kabli telekomunikacyjnych w kanalizacji kablowej. ” ;
+
+### 4)
+
+w art. 30 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+budowa, o której mowa w art. 29 ust. 1 pkt 1-3, 5-19 i 20a-21;
+
+” .
+
+### Art. 66.
+
+W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej ([Dz. U. z 1997 r. Nr 9, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1997/43/text.html), z późn. zm.[22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 106, poz. 679 i Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 96, poz. 874 i Nr 199, poz. 1937, z 2008 r. Nr 223, poz. 1458 oraz z 2009 r. Nr 19, poz. 100 i 101 i Nr 157, poz. 1241.](#gloss-0:22:)) w art. 3 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Jednostki samorządu terytorialnego w drodze umowy mogą powierzać wykonywanie zadań z zakresu gospodarki komunalnej osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, z uwzględnieniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. Nr 157, poz. 1240](https://api.sejm.gov.pl/eli/acts/DU/2009/1240/text.html) oraz z [2010 r. Nr 28, poz. 146](https://api.sejm.gov.pl/eli/acts/DU/2010/146/text.html) i [Nr 96, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2010/620/text.html)), w trybie przepisów z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym ([Dz. U. z 2009 r. Nr 19, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.html)), przepisów ustawy z dnia 9 stycznia 2003 r. o koncesji na roboty budowlane lub usługi ([Dz. U. Nr 19, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2009/101/text.html), [Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html) i [Nr 223, poz. 1778](https://api.sejm.gov.pl/eli/acts/DU/2009/1778/text.html)), przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2007 r. Nr 223, poz. 1655](https://api.sejm.gov.pl/eli/acts/DU/2007/1655/text.html), z późn. zm.[23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742, Nr 157, poz. 1241, Nr 206, poz. 1591, Nr 219, poz. 1706 i Nr 223, poz. 1778.](#gloss-0:23:)) i przepisów ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2003 r. Nr 96, poz. 873](https://api.sejm.gov.pl/eli/acts/DU/2003/873/text.html), z późn. zm.[24) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104, z 2006 r. Nr 94, poz. 651, z 2008 r. Nr 209, poz. 1316, z 2009 r. Nr 19, poz. 100, Nr 22, poz. 120 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 146.](#gloss-0:24:)) albo na zasadach ogólnych.
+
+” .
+
+### Art. 67.
+
+W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2010 r. Nr 102, poz. 651](https://api.sejm.gov.pl/eli/acts/DU/2010/651/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 37 w ust. 2 pkt 11 otrzymuje brzmienie:
+
+„
+
+### 11)
+
+jest sprzedawana partnerowi prywatnemu lub spółce, o której mowa w art. 14 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym, jeżeli sprzedaż stanowi wniesienie wkładu własnego podmiotu publicznego, a wybór partnera prywatnego nastąpił w trybie przewidzianym w art. 4 ust. 1 lub 2 powołanej ustawy;
+
+” ;
+
+### 2)
+
+w art. 124 po ust. 1a dodaje się ust. 1b w brzmieniu:
+
+„
+
+### 1b.
+
+W zakresie urządzeń łączności publicznej decyzje w sprawie zezwolenia wydaje się w uzgodnieniu z Prezesem Urzędu Komunikacji Elektronicznej.
+
+” .
+
+### Art. 68.
+
+W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa ([Dz. U. z 2001 r. Nr 142, poz. 1590](https://api.sejm.gov.pl/eli/acts/DU/2001/1590/text.html), z późn. zm.[25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759, z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111, Nr 216, poz. 1370 i Nr 223, poz. 1458, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230.](#gloss-0:25:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+### 1.
+
+W sferze użyteczności publicznej województwo może tworzyć spółki z ograniczoną odpowiedzialnością, spółki akcyjne lub spółdzielnie, a także może przystępować do takich spółek lub spółdzielni.
+
+### 2.
+
+Poza sferą użyteczności publicznej województwo może tworzyć spółki z ograniczoną odpowiedzialnością i spółki akcyjne oraz przystępować do nich, jeżeli działalność spółek polega na wykonywaniu czynności promocyjnych, edukacyjnych, wydawniczych oraz na wykonywaniu działalności w zakresie telekomunikacji służących rozwojowi województwa.
+
+” ;
+
+### 2)
+
+w art. 14 w ust. 1 dodaje się pkt 15a w brzmieniu:
+
+„
+
+### 15a)
+
+działalności w zakresie telekomunikacji.
+
+” ;
+
+### 3)
+
+w art. 18 w pkt 19 lit. e otrzymuje brzmienie:
+
+„
+
+### e)
+
+tworzenia spółek prawa handlowego lub spółdzielni i przystępowania do nich oraz określania zasad wnoszenia wkładów, a także obejmowania, nabywania i zbywania udziałów i akcji,
+
+” .
+
+### Art. 69.
+
+W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2001 r. Nr 142, poz. 1592](https://api.sejm.gov.pl/eli/acts/DU/2001/1592/text.html), z późn. zm.[26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230.](#gloss-0:26:)) w art. 4 w pkt 22 kropkę zastępuje się przecinkiem i dodaje się pkt 23 w brzmieniu:
+
+„
+
+### 23)
+
+działalności w zakresie telekomunikacji.
+
+” .
+
+### Art. 70.
+
+W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[27) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124 i Nr 75, poz. 474.](#gloss-0:27:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu:
+
+„
+
+### 10)
+
+potrzeby w zakresie rozwoju infrastruktury technicznej, w szczególności sieci szerokopasmowych.
+
+” ;
+
+### 2)
+
+w art. 2:
+
+### a)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+„inwestycji celu publicznego” - należy przez to rozumieć działania o znaczeniu lokalnym (gminnym) i ponadlokalnym (powiatowym, wojewódzkim i krajowym), a także krajowym (obejmującym również inwestycje międzynarodowe i ponadregionalne), bez względu na status podmiotu podejmującego te działania oraz źródła ich finansowania, stanowiące realizację celów, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2010 r. Nr 102, poz. 651](https://api.sejm.gov.pl/eli/acts/DU/2010/651/text.html) i [Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.html));
+
+” ,
+
+### b)
+
+pkt 13 otrzymuje brzmienie:
+
+„
+
+### 13)
+
+„uzbrojeniu terenu” - należy przez to rozumieć drogi, obiekty budowlane, urządzenia i przewody, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+
+” ;
+
+### 3)
+
+w art. 11 w pkt 8 w lit. j średnik zastępuje się przecinkiem i dodaje się lit. k w brzmieniu:
+
+„
+
+### k)
+
+Prezesa Urzędu Komunikacji Elektronicznej w zakresie telekomunikacji;
+
+” ;
+
+### 4)
+
+w art. 17 w pkt 6 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
+
+„
+
+### d)
+
+Prezesa Urzędu Komunikacji Elektronicznej w zakresie telekomunikacji;
+
+” ;
+
+### 5)
+
+w art. 51:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku niewydania przez właściwy organ decyzji w sprawie ustalenia lokalizacji inwestycji celu publicznego w terminie 65 dni od dnia złożenia wniosku o wydanie takiej decyzji, organ wyższego stopnia wymierza temu organowi, w drodze postanowienia, na które przysługuje zażalenie, karę pieniężną w wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
+
+„
+
+### 2a.
+
+Organem wyższego stopnia w sprawach określonych w ust. 2 jest wojewoda.
+
+### 2b.
+
+Karę pieniężną uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 2. W przypadku nieuiszczenia kary pieniężnej, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 2c.
+
+Do terminu, o którym mowa w ust. 2, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+
+” ;
+
+### 6)
+
+w art. 53:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Prezes Urzędu Komunikacji Elektronicznej może występować na prawach strony w postępowaniu w sprawie ustalenia lokalizacji inwestycji celu publicznego z zakresu łączności publicznej w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami. Do Prezesa Urzędu Komunikacji Elektronicznej stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące prokuratora.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Uzgodnień, o których mowa w ust. 4, dokonuje się w trybie art. 106 Kodeksu postępowania administracyjnego, z tym że zażalenie przysługuje wyłącznie inwestorowi. W przypadku niezajęcia stanowiska przez organ uzgadniający w terminie 2 tygodni od dnia doręczenia wystąpienia o uzgodnienie - uzgodnienie uważa się za dokonane.
+
+” ;
+
+### 7)
+
+art. 56 otrzymuje brzmienie:
+
+„
+
+### Art. 56.
+
+Nie można odmówić ustalenia lokalizacji inwestycji celu publicznego, jeżeli zamierzenie inwestycyjne jest zgodne z przepisami odrębnymi. Przepis art. 1 ust. 2 nie może stanowić wyłącznej podstawy odmowy ustalenia lokalizacji inwestycji celu publicznego.
+
+” ;
+
+### 8)
+
+w art. 57 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Wójt, burmistrz lub prezydent miasta przekazuje marszałkowi województwa kopie decyzji, o których mowa w ust. 1 i 2, w terminie 7 dni od dnia ich wydania.
+
+” .
+
+### Art. 71.
+
+W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[28) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554.](#gloss-0:28:)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 6 dodaje się art. 6a i 6b w brzmieniu:
+
+„
+
+### Art. 6a.
+
+Operator publicznej sieci telekomunikacyjnej jest obowiązany do przekazywania na żądanie Prezesa UKE informacji dotyczących lokalizacji i rodzaju posiadanej infrastruktury telekomunikacyjnej lub publicznej sieci telekomunikacyjnej, zlokalizowanych na obszarze objętym żądaniem, na potrzeby związane z ubieganiem się o dostęp telekomunikacyjny przez jednostki samorządu terytorialnego lub określenia zasadności interwencji publicznej w sektorze telekomunikacyjnym.
+
+### Art. 6b.
+
+Operator publicznej sieci telekomunikacyjnej jest obowiązany do przekazywania na żądanie Prezesa UKE wykazu:
+
+### 1)
+
+obszarów, które w poprzednim roku zostały objęte zasięgiem dostarczanej przez tego operatora publicznej sieci telekomunikacyjnej;
+
+### 2)
+
+nowych obszarów, które w bieżącym roku zostaną objęte zasięgiem publicznej sieci telekomunikacyjnej, wraz z określeniem warunków, na jakich to nastąpi.
+
+” ;
+
+### 2)
+
+w art. 10:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Działalność, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych ([Dz. U. Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.html)), niebędąca działalnością gospodarczą, prowadzona przez jednostkę samorządu terytorialnego, także w formie niewyodrębnionej w ramach jej osobowości prawnej, jak również w formie porozumienia, związku lub stowarzyszenia jednostek samorządu terytorialnego, fundacji, której fundatorem jest jednostka samorządu terytorialnego, porozumienia komunalnego, spółki kapitałowej lub spółdzielni z udziałem jednostki samorządu terytorialnego wymaga uzyskania wpisu do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Organem prowadzącym rejestr oraz rejestr jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji jest Prezes UKE.
+
+” ,
+
+### c)
+
+w ust. 10 wyrazy „Kodeksu postępowania administracyjnego” zastępuje się wyrazami „ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230.](#gloss-0:29:));
+
+### 3)
+
+po art. 13 dodaje się art. 13a w brzmieniu:
+
+„
+
+### Art. 13a.
+
+Przepisy art. 10 ust. 4-6, 8-10 i 12-14 oraz art. 11-13 stosuje się odpowiednio do wpisów działalności, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji. Oświadczenie, o którym mowa w art. 10 ust. 5, w przypadku składającego wniosek o wpis do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji powinno wskazywać również, iż znane mu są i spełnia on warunki wykonywania działalności, której dotyczy wniosek, wynikające z ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.
+
+” ;
+
+### 4)
+
+uchyla się art. 58;
+
+### 5)
+
+użyte w różnych przypadkach w art. 116 ust. 6, art. 179 ust. 6, art. 206 ust. 4 wyrazy „Kodeks postępowania administracyjnego” zastępuje się użytymi w odpowiednich przypadkach wyrazami „ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego”;
+
+### 6)
+
+po art. 122 dodaje się art. 122a w brzmieniu:
+
+„
+
+### Art. 122a.
+
+### 1.
+
+Jeżeli w przypadku, o którym mowa w art. 123 ust. 1 pkt 7, Prezes UKE uzna, że pokrycie terytorium Rzeczypospolitej Polskiej zasięgiem sieci telekomunikacyjnych nie jest wystarczające, może, w drodze decyzji, zobowiązać podmiot dysponujący rezerwacją częstotliwości do wykorzystywania częstotliwości w sposób zgodny z tymi zobowiązaniami, określając:
+
+### 1)
+
+harmonogram realizacji pokrycia zasięgiem sieci telekomunikacyjnych,
+
+### 2)
+
+obszary, które mają zostać objęte zasięgiem sieci telekomunikacyjnych lub odsetek mieszkańców, który ma zostać objęty tym zasięgiem
+
+- biorąc pod uwagę potrzeby użytkowników końcowych, potrzeby rynku i rozwój techniki telekomunikacyjnej.
+
+### 2.
+
+W sprawach decyzji, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 16 i 17.
+
+” ;
+
+### 7)
+
+w art. 139 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Operator publicznej sieci telekomunikacyjnej jest obowiązany umożliwić innym operatorom publicznych sieci telekomunikacyjnych, podmiotom, o których mowa w art. 4, oraz jednostkom samorządu terytorialnego wykonującym działalność, o której mowa w art. 3 ust. 1 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych, dostęp do budynków i infrastruktury telekomunikacyjnej, a w szczególności zakładanie, eksploatację, nadzór i konserwację urządzeń telekomunikacyjnych, jeżeli wykonanie tych czynności bez uzyskania dostępu do budynków i infrastruktury telekomunikacyjnej jest niemożliwe lub niecelowe z punktu widzenia planowania przestrzennego, zdrowia ludzkiego, ochrony środowiska lub bezpieczeństwa i porządku publicznego.
+
+” ;
+
+### 8)
+
+uchyla się art. 140 i 141;
+
+### 9)
+
+w art. 192:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+wykonywanie zadań:
+
+### a)
+
+z zakresu regulacji działalności pocztowej, określonych w ustawie z dnia 12 czerwca 2003 r. - Prawo pocztowe ([Dz. U. z 2008 r. Nr 189, poz. 1159](https://api.sejm.gov.pl/eli/acts/DU/2008/1159/text.html), z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html) i [Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html) oraz z [2010 r. Nr 47, poz. 278](https://api.sejm.gov.pl/eli/acts/DU/2010/278/text.html)),
+
+### b)
+
+określonych w ustawie:
+
+- - z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych,
+
+- - z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2007 r. Nr 19, poz. 115](https://api.sejm.gov.pl/eli/acts/DU/2007/115/text.html), z późn. zm.[30) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323 oraz z 2010 r. Nr 106, poz. 675.](#gloss-0:30:)),
+
+- - z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[31) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474 i Nr 106, poz. 675.](#gloss-0:31:)),
+
+- - z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Na podstawie informacji uzyskanych od przedsiębiorców telekomunikacyjnych oraz innych podmiotów dysponujących infrastrukturą telekomunikacyjną lub realizujących inwestycje w tym zakresie Prezes UKE, w terminie do dnia 30 czerwca, ogłasza raport o stanie rynku telekomunikacyjnego za rok ubiegły, uwzględniający pokrycie terytorium Rzeczypospolitej Polskiej zasięgiem stacjonarnych i ruchomych publicznych sieci telefonicznych, oraz przedstawia prognozy inwestycyjne dotyczące rozwoju tych sieci. Raport publikuje się w Biuletynie Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+
+” ;
+
+### 10)
+
+w art. 206:
+
+### a)
+
+ust. 1-2a otrzymują brzmienie:
+
+„
+
+### 1.
+
+Postępowanie przed Prezesem UKE toczy się na podstawie przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ze zmianami wynikającymi z niniejszej ustawy oraz ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych.
+
+### 2.
+
+Od decyzji:
+
+### 1)
+
+o ustaleniu znaczącej pozycji rynkowej,
+
+### 2)
+
+w sprawie nałożenia, zniesienia lub zmiany obowiązków regulacyjnych,
+
+### 3)
+
+w sprawie nałożenia kar,
+
+### 4)
+
+o której mowa w art. 201 ust. 3,
+
+### 5)
+
+wydawanych w sprawach spornych, z wyjątkiem decyzji w sprawie rezerwacji częstotliwości po przeprowadzeniu przetargu albo konkursu oraz od decyzji o uznaniu przetargu albo konkursu za nierozstrzygnięty,
+
+### 6)
+
+o których mowa w art. 7 ust. 1, art. 13 ust. 2, art. 20, art. 21 ust. 2 oraz art. 22 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych
+
+- przysługuje odwołanie do Sądu Okręgowego w Warszawie - Sądu Ochrony Konkurencji i Konsumentów.
+
+### 2a.
+
+Od decyzji wydawanych w sprawach spornych, o których mowa w art. 30 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych - przysługuje odwołanie do sądu powszechnego.
+
+” ,
+
+### b)
+
+po ust. 2a dodaje się ust. 2aa w brzmieniu:
+
+„
+
+### 2aa.
+
+Decyzje, o których mowa w ust. 2, z wyjątkiem decyzji w sprawie nałożenia kar, podlegają natychmiastowemu wykonaniu.
+
+” ;
+
+### 11)
+
+w art. 209 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+udziela niepełnych lub nieprawdziwych informacji lub dostarcza dokumenty zawierające takie informacje przewidziane ustawą lub ustawą z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych,
+
+” .
+
+### Art. 72.
+
+W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html), z późn. zm.[32) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145.](#gloss-0:32:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 64:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3, 10, 11, 13, 15 i 16.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to opinii w sprawie obowiązku przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz dla inwestycji realizowanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu ([Dz. U. Nr 84, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2009/700/text.html) oraz z [2010 r. Nr 57, poz. 358](https://api.sejm.gov.pl/eli/acts/DU/2010/358/text.html)) w zakresie zadań inwestycyjnych, o których mowa w art. 2 ust. 2 oraz art. 38 tej ustawy, zwanej dalej „inwestycją w zakresie terminalu”, oraz dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi.
+
+” ;
+
+### 2)
+
+w art. 67 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+zawierać informacje, o których mowa w art. 66, określone ze szczegółowością i dokładnością odpowiednio do posiadanych danych wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu decyzji o środowiskowych uwarunkowaniach i decyzji, o których mowa w art. 72 ust. 1 pkt 2-9 i 11-16, jeżeli były już dla danego przedsięwzięcia wydane;
+
+### 2)
+
+określać stopień i sposób uwzględnienia wymagań dotyczących ochrony środowiska, zawartych w decyzji o środowiskowych uwarunkowaniach i decyzjach, o których mowa w art. 72 ust. 1 pkt 2-9 i 11-16, jeżeli były już dla danego przedsięwzięcia wydane.
+
+” ;
+
+### 3)
+
+w art. 70 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3, 10-13, 15 i 16.
+
+” ;
+
+### 4)
+
+w art. 72 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu:
+
+„
+
+### 16)
+
+decyzji o ustaleniu lokalizacji regionalnej sieci szerokopasmowej - wydawanej na podstawie ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych ([Dz. U. Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.html)), o ile jest to wymagane.
+
+” ;
+
+### 5)
+
+w art. 74 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+dla przedsięwzięć, dla których organem prowadzącym postępowanie jest regionalny dyrektor ochrony środowiska - wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu oraz dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi;
+
+” ;
+
+### 6)
+
+w art. 75 w ust. 1 w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu:
+
+„
+
+### g)
+
+inwestycji związanych z regionalnymi sieciami szerokopasmowymi;
+
+” ;
+
+### 7)
+
+w art. 77:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3 i 10-16.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to uzgodnień i opinii dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu oraz dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi.
+
+” ;
+
+### 8)
+
+w art. 80 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Właściwy organ wydaje decyzję o środowiskowych uwarunkowaniach po stwierdzeniu zgodności lokalizacji przedsięwzięcia z ustaleniami miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony. Nie dotyczy to decyzji o środowiskowych uwarunkowaniach wydawanej dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin, dla inwestycji w zakresie terminalu oraz dla inwestycji związanych z regionalnymi sieciami szerokopasmowymi.
+
+” ;
+
+### 9)
+
+w art. 96 w ust. 3 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+wypisu i wyrysu z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informacji o jego braku; nie dotyczy to drogi publicznej, linii kolejowej o znaczeniu państwowym, przedsięwzięć Euro 2012, przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz bezzbiornikowego magazynowania substancji w górotworze, inwestycji w zakresie terminalu oraz inwestycji związanych z regionalnymi sieciami szerokopasmowymi.
+
+” .
+
+### Art. 73.
+
+W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym ([Dz. U. z 2009 r. Nr 19, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 4 otrzymuje brzmienie:
+
+„
+
+### Art. 4.
+
+### 1.
+
+Jeżeli wynagrodzeniem partnera prywatnego jest prawo do pobierania pożytków z przedmiotu partnerstwa publiczno-prywatnego, albo przede wszystkim to prawo wraz z zapłatą sumy pieniężnej, do wyboru partnera prywatnego i umowy o partnerstwie publiczno-prywatnym stosuje się przepisy ustawy z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi ([Dz. U. Nr 19, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2009/101/text.html), [Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html) i [Nr 223, poz. 1778](https://api.sejm.gov.pl/eli/acts/DU/2009/1778/text.html)), w zakresie nieuregulowanym w niniejszej ustawie.
+
+### 2.
+
+W przypadkach innych niż określone w ust. 1, do wyboru partnera prywatnego i umowy o partnerstwie publiczno-prywatnym stosuje się przepisy ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2007 r. Nr 223, poz. 1655](https://api.sejm.gov.pl/eli/acts/DU/2007/1655/text.html), z późn. zm.[33) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742, Nr 157, poz. 1241, Nr 206, poz. 1591, Nr 219, poz. 1706 i Nr 223, poz. 1778.](#gloss-0:33:)), w zakresie nieregulowanym w niniejszej ustawie.
+
+### 3.
+
+W przypadkach, w których nie ma zastosowania ustawa z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi ani ustawa z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, wyboru partnera prywatnego dokonuje się w sposób gwarantujący zachowanie uczciwej i wolnej konkurencji oraz przestrzeganie zasad równego traktowania, przejrzystości i proporcjonalności, przy odpowiednim uwzględnieniu przepisów niniejszej ustawy, a w przypadku wniesienia przez partnera publicznego wkładu własnego będącego nieruchomością, także przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2010 r. Nr 102, poz. 651](https://api.sejm.gov.pl/eli/acts/DU/2010/651/text.html) i [Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.html)).
+
+” ;
+
+### 2)
+
+w art. 11:
+
+### a)
+
+w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 9 ust. 3 stosuje się odpowiednio. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Umowa o partnerstwie publiczno-prywatnym może stanowić, że przekazanie składnika majątkowego nastąpi na rzecz państwowej lub samorządowej osoby prawnej lub spółki handlowej z większościowym udziałem jednostki samorządu terytorialnego albo Skarbu Państwa.
+
+” ;
+
+### 3)
+
+w art. 13 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zakazuje się istotnych zmian postanowień zawartej umowy w stosunku do treści oferty, na podstawie której dokonano wyboru partnera prywatnego, chyba że podmiot publiczny przewidział możliwość dokonania takiej zmiany w ogłoszeniu o partnerstwie lub w dokumentacji postępowania w sprawie wyboru partnera prywatnego oraz określił warunki takiej zmiany.
+
+” .
+
+### Art. 74.
+
+W ustawie z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi ([Dz. U. Nr 19, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2009/101/text.html), [Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html) i [Nr 223, poz. 1778](https://api.sejm.gov.pl/eli/acts/DU/2009/1778/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Koncesjonariusz na podstawie umowy koncesji zawieranej z koncesjodawcą zobowiązuje się do wykonania przedmiotu koncesji za wynagrodzeniem, które stanowi w przypadku:
+
+### 1)
+
+koncesji na roboty budowlane - wyłącznie prawo do eksploatacji obiektu budowlanego, w tym pobierania pożytków, albo takie prawo wraz z płatnością koncesjodawcy;
+
+### 2)
+
+koncesji na usługi - wyłącznie prawo do wykonywania usług, w tym pobierania pożytków, albo takie prawo wraz z płatnością koncesjodawcy.
+
+” ;
+
+### 2)
+
+w art. 4 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+głównie w celu wykonywania co najmniej jednego z następujących rodzajów działalności:
+
+### a)
+
+udostępnianie publicznej sieci telekomunikacyjnej,
+
+### b)
+
+eksploatacja publicznej sieci telekomunikacyjnej,
+
+### c)
+
+świadczenie publicznie dostępnych usług telekomunikacyjnych za pomocą publicznej sieci telekomunikacyjnej;
+
+” .
+
+### Rozdział 8 Przepisy przejściowe i końcowe
+
+### Art. 75.
+
+### 1.
+
+Przepis art. 46 stosuje się do planów miejscowych obowiązujących w dniu wejścia w życie ustawy.
+
+### 2.
+
+W terminie 12 miesięcy od dnia wejścia w życie ustawy, gminy dostosują treść planów miejscowych obowiązujących na obszarze ich właściwości do wymagań określonych w art. 46 ust. 1.
+
+### 3.
+
+Wójt, burmistrz albo prezydent miasta, w terminie 7 dni od dnia, w którym upłynął termin określony w ust. 2, przedkłada właściwemu wojewodzie obowiązujące plany miejscowe oraz dokumentację prac planistycznych w celu oceny ich zgodności z wymaganiami określonymi w art. 46 ust. 1.
+
+### 4.
+
+Jeżeli treść przedłożonych planów miejscowych nie została dostosowana do wymagań określonych w art. 46 ust. 1, wojewoda zmienia plan miejscowy dla obszaru, w stosunku do którego nie dokonano odpowiednich zmian, oraz wydaje w tej sprawie zarządzenie zastępcze. Zmieniony w tym trybie plan wywołuje skutki prawne takie jak miejscowy plan zagospodarowania przestrzennego.
+
+### 5.
+
+Koszty zmiany planu miejscowego ponosi w całości gmina, której obszaru dotyczy zarządzenie zastępcze.
+
+### 6.
+
+Nie wydaje się zarządzenia zastępczego po upływie 18 miesięcy od dnia przedłożenia wojewodzie planu miejscowego.
+
+### 7.
+
+W przypadku złożenia przez radę gminy skargi na zarządzenie zastępcze, o którym mowa w ust. 4, sąd administracyjny wyznacza rozprawę w terminie 30 dni od dnia wpłynięcia skargi do sądu.
+
+### 8.
+
+Przepisy ustawy z dnia 8 marca 1990 r. o samorządzie gminnym stosuje się odpowiednio.
+
+### Art. 76.
+
+Jednostka samorządu terytorialnego, która w dniu wejścia w życie ustawy posiada infrastrukturę telekomunikacyjną lub sieci telekomunikacyjne, jest obowiązana złożyć wniosek o wpis do rejestru jednostek samorządu terytorialnego wykonujących działalność w zakresie telekomunikacji w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 77.
+
+### 1.
+
+W przypadku umów zawartych na czas określony przed dniem wejścia w życie ustawy, dotyczących działalności, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, do zmiany polegającej na przedłużeniu na kolejne okresy lub przekształceniu w umowy na czas nieokreślony stosuje się przepisy niniejszej ustawy.
+
+### 2.
+
+Jednostki samorządu terytorialnego oraz podmioty wykonujące zadania z zakresu użyteczności publicznej są obowiązane dostosować do przepisów niniejszej ustawy zawarte na czas nieokreślony, przed dniem wejścia w życie ustawy, umowy dotyczące działalności, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, w terminie roku od dnia wejścia w życie niniejszej ustawy.
+
+### 3.
+
+W przypadku stwierdzenia przez Prezesa UKE, że działalność, o której mowa w art. 3 ust. 1 i art. 16 ust. 1, narusza wymagania określone w art. 3 ust. 2, Prezes UKE może, w drodze decyzji:
+
+### 1)
+
+nakazać usunięcie stwierdzonych nieprawidłowości,
+
+### 2)
+
+wskazać środki, jakie należy zastosować w celu usunięcia nieprawidłowości,
+
+### 3)
+
+określić dopuszczalny zakres i warunki świadczenia usług telekomunikacyjnych użytkownikom końcowym lub
+
+### 4)
+
+określić termin usunięcia nieprawidłowości lub dostosowania działalności do zakresu i warunków, o których mowa w pkt 3
+
+- mając na uwadze interes użytkowników końcowych, uzasadniony interes wspólnoty samorządowej oraz wymagania określone w art. 3 ust. 2, a także to, że środki, jakie należy zastosować w celu usunięcia nieprawidłowości, oraz dopuszczalny zakres i warunki świadczenia usług telekomunikacyjnych użytkownikom końcowym nie mogą uniemożliwiać wykonywania dotychczasowej działalności.
+
+### 4.
+
+Przepisy art. 9 i 10 stosuje się także do działalności rozpoczętej przed dniem wejścia w życie ustawy.
+
+### Art. 78.
+
+### 1.
+
+Strony umów o korzystanie, o którym mowa w art. 33 ust. 1, z nieruchomości będących własnością Skarbu Państwa lub jednostki sektora finansów publicznych, które są zajmowane lub administrowane przez jednostkę sektora finansów publicznych, dotyczące warunków finansowych korzystania z tych nieruchomości, zawartych przed dniem wejścia w życie przepisów wydanych na podstawie art. 33 ust. 5:
+
+### 1)
+
+na czas nieokreślony,
+
+### 2)
+
+na czas określony, których termin wygaśnięcia przypada po dniu wejścia w życie przepisów wydanych na podstawie art. 33 ust. 5
+
+- są obowiązane dostosować postanowienia tych umów do przepisów wydanych na podstawie art. 33 ust. 5 w terminie 2 lat od dnia ich wejścia w życie.
+
+### 2.
+
+W przypadku niedostosowania postanowień umów w terminie i na warunkach, o których mowa w ust. 1, stosuje się kwoty w wysokości określonej w przepisach wydanych na podstawie art. 33 ust. 5.
+
+### Art. 79.
+
+### 1.
+
+Do inwestycji drogowej, dla której przed dniem wejścia w życie ustawy został złożony wniosek o wydanie decyzji:
+
+### 1)
+
+o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia na podstawie ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[34) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489.](#gloss-0:34:)) lub
+
+### 2)
+
+o środowiskowych uwarunkowaniach na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub
+
+### 3)
+
+o ustaleniu lokalizacji drogi lub decyzji o ustaleniu lokalizacji drogi krajowej lub decyzji o zezwoleniu na realizację inwestycji drogowej
+
+- stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do inwestycji drogowej dotyczącej autostrad płatnych realizowanych na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, w przypadku których przed dniem wejścia w życie ustawy zawarto umowę o budowę i eksploatację albo wyłącznie eksploatację autostrady lub ogłoszono przetarg na budowę i eksploatację albo wyłącznie eksploatację autostrady, stosuje się przepisy dotychczasowe.
+
+### Art. 80.
+
+Do spraw o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu, wszczętych i niezakończonych do dnia wejścia w życie ustawy decyzją ostateczną przepisy dotychczasowe stosuje się na wniosek inwestora, który może być złożony najpóźniej w terminie 2 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 81.
+
+### 1.
+
+Przepisy wykonawcze wydane na podstawie art. 40 ust. 7 ustawy, o której mowa w art. 62, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 40 ust. 7 ustawy, o której mowa w art. 62, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Przepisy wykonawcze wydane na podstawie art. 7 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane pozostają w mocy do dnia wejścia w życie nowych przepisów wykonawczych i mogą być zmieniane na podstawie tych przepisów.
+
+### 3.
+
+Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej w rozporządzeniu, o którym mowa w art. 7 ust. 2 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, określi szczegółowe warunki techniczne wykonania obowiązku, o którym mowa w art. 30 ust. 6, w terminie 18 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 82.
+
+Za regionalne sieci szerokopasmowe w rozumieniu art. 2 ust. 1 pkt 2 ustawy uważa się także sieci telekomunikacyjne realizowane jako szerokopasmowe w ramach programów operacyjnych przed dniem wejścia w życie ustawy.
+
+### Art. 83.
+
+### 1.
+
+W terminie dwóch lat od dnia wejścia w życie ustawy minister właściwy do spraw łączności we współpracy z Prezesem UKE sporządzi raport dotyczący stanu sieci szerokopasmowych na terytorium Rzeczypospolitej Polskiej oraz działań przedsiębiorców telekomunikacyjnych, organów państwa oraz jednostek samorządu terytorialnego, w zakresie rozwoju takiej infrastruktury.
+
+### 2.
+
+Raport, o którym mowa w ust. 1, minister właściwy do spraw łączności przekaże Prezesowi Rady Ministrów.
+
+### 3.
+
+Raport, o którym mowa w ust. 1, zawiera wnioski oraz propozycje działań wspierających rozwój sieci szerokopasmowych, w szczególności na obszarach wiejskich, z uwzględnieniem wspierania równoprawnej i skutecznej konkurencji w zakresie świadczenia usług telekomunikacyjnych oraz zapewnienia użytkownikom maksymalnych korzyści w zakresie różnorodności usług telekomunikacyjnych, ich ceny i jakości.
+
+### Art. 84.
+
+Przepis art. 54 ust. 9 stosuje się do Agencji Nieruchomości Rolnych wykonującej uprawnienia, o których mowa w art. 217 ust. 5 ustawy z dnia 18 lipca 2001 r. - Prawo wodne, do dnia 1 stycznia 2012 r.
+
+### Art. 85.
+
+Do zawartych przed dniem wejścia w życie ustawy umów, o których mowa w ustawach zmienianych w art. 73 i 74, stosuje się przepisy dotychczasowe.
+
+### Art. 86.
+
+Prezes UKE ogłasza raport, o którym mowa w art. 192 ust. 3 ustawy wymienionej w art. 71, za rok 2010 w terminie do dnia 30 czerwca 2011 r.
+
+### Art. 87.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 29, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1985 r. o drogach publicznych, ustawę z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne, ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 20 grudnia 1996 r. o gospodarce komunalnej, ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawę z dnia 5 czerwca 1998 r. o samorządzie województwa, ustawę z dnia 5 czerwca 1998 r. o samorządzie powiatowym, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym oraz ustawę z dnia 9 stycznia 2009 r. o koncesji na roboty budowlane lub usługi. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075 oraz z 2010 r. Nr 40, poz. 222. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124 i Nr 75, poz. 474. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394, z 2009 r. Nr 31, poz. 206 i Nr 97, poz. 804 oraz z 2010 r. Nr 75, poz. 474. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664 oraz z 2010 r. Nr 44, poz. 253 i Nr 96, poz. 620. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3, Nr 115, poz. 967 i Nr 157, poz. 1241. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1297 i Nr 172, poz. 1440, z 2006 r. Nr 12, poz. 61, z 2007 r. Nr 23, poz. 136 i Nr 99, poz. 666, z 2008 r. Nr 218, poz. 1391 oraz z 2009 r. Nr 3, poz. 11, Nr 19, poz. 101, Nr 86, poz. 720, Nr 105, poz. 877, Nr 115, poz. 966, Nr 143, poz. 1164, Nr 157, poz. 1241 i Nr 223, poz. 1776. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399, Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 340, Nr 69, poz. 595, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 96, poz. 620. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505, z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241 oraz z 2010 r. Nr 76, poz. 489. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 80, poz. 717 i Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1203 i Nr 167, poz. 1759, z 2005 r. Nr 172, poz. 1441 i Nr 175, poz. 1457, z 2006 r. Nr 17, poz. 128 i Nr 181, poz. 1337, z 2007 r. Nr 48, poz. 327, Nr 138, poz. 974 i Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 52, poz. 420 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279 oraz z 2010 r. Nr 75, poz. 474. 22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 106, poz. 679 i Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 113, poz. 984, z 2003 r. Nr 96, poz. 874 i Nr 199, poz. 1937, z 2008 r. Nr 223, poz. 1458 oraz z 2009 r. Nr 19, poz. 100 i 101 i Nr 157, poz. 1241. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742, Nr 157, poz. 1241, Nr 206, poz. 1591, Nr 219, poz. 1706 i Nr 223, poz. 1778. 24) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104, z 2006 r. Nr 94, poz. 651, z 2008 r. Nr 209, poz. 1316, z 2009 r. Nr 19, poz. 100, Nr 22, poz. 120 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 146. 25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759, z 2006 r. Nr 126, poz. 875 i Nr 227, poz. 1658, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111, Nr 216, poz. 1370 i Nr 223, poz. 1458, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1688 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568, z 2004 r. Nr 102, poz. 1055 i Nr 167, poz. 1759, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 180, poz. 1111 i Nr 223, poz. 1458, z 2009 r. Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 142 i 146 i Nr 40, poz. 230. 27) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124 i Nr 75, poz. 474. 28) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716 oraz z 2010 r. Nr 81, poz. 530 i Nr 86, poz. 554. 29) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676 oraz z 2010 r. Nr 40, poz. 230. 30) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100 i 101, Nr 86, poz. 720 i Nr 168, poz. 1323 oraz z 2010 r. Nr 106, poz. 675. 31) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474 i Nr 106, poz. 675. 32) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241 oraz z 2010 r. Nr 28, poz. 145. 33) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101, Nr 65, poz. 545, Nr 91, poz. 742, Nr 157, poz. 1241, Nr 206, poz. 1591, Nr 219, poz. 1706 i Nr 223, poz. 1778. 34) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227 i Nr 76, poz. 489.

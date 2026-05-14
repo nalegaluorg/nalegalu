@@ -8,11 +8,9 @@ pos: 1117
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. W ustawie dnia 20 lipca 2018 – Prawo szkolnictwie wyższym nauce (Dz. U. 574, późn. zm. ) wprowadza się następujące zmiany:
-
-*USTAWA dnia 12 maja zmianie – Prawo szkolnictwie wyższym nauce oraz niektórych innych ustaw*
+# Ustawa z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 maja 2001 r. - Prawo o miarach, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz ustawę z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +22,410 @@ domain: null
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-26 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1117/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1117/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1117) |
 
-1) tytuł działu XI otrzymuje brzmienie: „Stypendia nagrody ministra, nagrody Prezesa Rady Ministrów oraz Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas” ”;
-po art. 364 dodaje się art. 364a brzmieniu: „Art. 364a. 1. Za szczególne zasługi dla szkolnictwa wyższego nauki, tym za wybitne osiągnięcia zakresie działalności naukowej, dydaktycznej lub organizacyjnej, może zostać nadany Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”, zwany dalej „Medalem”.
-2. Medal może zostać nadany osobie fizycznej, tym osobie nieposiadającej obywatelstwa polskiego, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej. Medal może zostać nadany osobie fizycznej również pośmiertnie.
-3. Medal nadaje minister własnej inicjatywy albo na wniosek:
-1) innego ministra kierującego działem administracji rządowej;
+## Treść ustawy
+
+### Art. 1.
+
+W ustawie z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010 i 1079.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł działu XI otrzymuje brzmienie: „Stypendia i nagrody ministra, nagrody Prezesa Rady Ministrów oraz Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas” ”;
+
+### 2)
+
+po art. 364 dodaje się art. 364a w brzmieniu:
+
+„
+
+### Art. 364a.
+
+### 1.
+
+Za szczególne zasługi dla szkolnictwa wyższego i nauki, w tym za wybitne osiągnięcia w zakresie działalności naukowej, dydaktycznej lub organizacyjnej, może zostać nadany Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”, zwany dalej „Medalem”.
+
+### 2.
+
+Medal może zostać nadany osobie fizycznej, w tym osobie nieposiadającej obywatelstwa polskiego, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej. Medal może zostać nadany osobie fizycznej również pośmiertnie.
+
+### 3.
+
+Medal nadaje minister z własnej inicjatywy albo na wniosek:
+
+### 1)
+
+innego ministra kierującego działem administracji rządowej;
+
+### 2)
+
 kierownika urzędu centralnego;
-3) wojewody;
-4) organu jednostki samorządu terytorialnego;
-5) osoby kierującej podmiotem, którym art. 7;
-6) przewodniczącego KPN;
-7) władz statutowych instytucji przedstawicielskich środowiska szkolnictwa wyższego nauki, organizacji społecznych, stowarzyszeń, reprezentatywnych organizacji związkowych lub reprezentatywnych organizacji pracodawców;
-8) ambasadora, kierownika przedstawicielstwa dyplomatycznego, stałego przedstawicielstwa przy organizacji międzynarodowej lub urzędu konsularnego Rzeczypospolitej Polskiej.
-4. Wniosek nadanie Medalu zawiera szczególności:
-1) przypadku przedstawianej odznaczenia:
-a) osoby fizycznej – imiona nazwisko, imię ojca, datę miejsce urodzenia, miejsce zamieszkania oraz stopień doktora, doktora habilitowanego lub tytuł profesora, jeżeli posiada,
-b) osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej – nazwę, siedzibę, adres datę utworzenia;
-uzasadnienie;
-3) oznaczenie wnioskodawcy jego dane kontaktowe.
-5. Medal posiada trzy stopnie:
-1) pierwszy – Złoty Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
-drugi – Srebrny Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
-3) trzeci – Brązowy Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”.
-6. Medal danego stopnia nadaje się odpowiednio zasług podmiotu, którym ust. 2.
-7. Medal danego stopnia może być nadany temu samemu podmiotowi, którym ust. 2, tylko raz.
-Nie nadaje się Medalu stopnia niższego od już nadanego danemu podmiotowi.
-duplikatu legitymacji potwierdzającej nadanie Medalu, tym że jej wysokość nie może przekraczać 5% minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów dnia 10 października 2002 minimalnym wynagrodzeniu za pracę (Dz. U. 2020 2207), obowiązującego danym roku kalendarzowym. Opłata stanowi dochód budżetu państwa.
-11. Okres przechowywania danych osób fizycznych, którym nadano Medal, wynosi 80 lat.
-12. Minister, własnej inicjatywy albo na wniosek podmiotu, którym ust. 3, może pozbawić osobę fizyczną Medalu, jeżeli została ona skazana prawomocnym wyrokiem za umyślne przestępstwo, za które wymierzono karę pozbawienia wolności, ograniczenia wolności albo grzywny.
-13. W sprawach nadanie pozbawienie Medalu nie stosuje się przepisów Kpa.
-14. Minister właściwy spraw szkolnictwa wyższego nauki określi, drodze rozporządzenia:
-1) wzór wniosku nadanie Medalu sposób jego składania, sposób postępowania sprawach nadanie pozbawienie Medalu,
-3) wzory odznak Medalu wzór legitymacji potwierdzającej nadanie Medalu,
-4) sposób wręczania, noszenia przechowywania odznaki Medalu,
-5) sposób ponownego wydawania odznaki Medalu duplikatu legitymacji potwierdzającej nadanie Medalu,
-6) wysokość opłaty, której ust. 9, sposób jej wnoszenia – uwzględniając stopnie Medalu konieczność zapewnienia sprawności postępowania sprawach nadanie pozbawienie Medalu oraz ponownego wydawania odznaki Medalu duplikatu legitymacji potwierdzającej nadanie Medalu, a także uroczystego wręczania, godnego noszenia przechowywania odznaki Medalu.”.
-2. W ustawie dnia 11 maja 2001 – Prawo miarach (Dz. U. 2021 2068) art. 16 ust. 1:
-1) pkt 1 lit. a otrzymuje brzmienie: „a) budowa, utrzymywanie modernizacja państwowych wzorców jednostek miar układów pomiarowych służących przekazywania jednostek miar przechowywanych stosowanych Urzędzie oraz prowadzenie badań naukowych prac rozwojowych tym zakresie,”;
-pkt 2 otrzymuje brzmienie: „2) prowadzenie działalności naukowej rozumieniu art. 4 ust. 1 dnia 20 lipca 2018 – Prawo szkolnictwie wyższym nauce (Dz. U. 574, późn. zm. ), obejmującej prowadzenie badań naukowych prac rozwojowych dyscyplinach naukowych dotyczących metrologii, szczególności zakresie technologii pomiarowych, sposób samodzielny ciągły;”;
-3) po pkt 2 dodaje się pkt 2a brzmieniu: „2a) podejmowanie działalności na rzecz umiędzynarodowienia nauki dyscyplinach naukowych dotyczących metrologii;”;
-4) pkt 3 lit. e otrzymuje brzmienie: „e) inicjowanie prowadzenie badań naukowych, prac rozwojowych innych przedsięwzięć dyscyplinach naukowych dotyczących metrologii, również we współpracy podmiotami krajowymi zagranicznymi zajmującymi się taką działalnością, tym także zakresie prowadzonej przez nie działalności gospodarczej;”.
-3. W ustawie dnia 30 kwietnia 2010 Narodowym Centrum Badań Rozwoju (Dz. U. 2020 1861 oraz 807 1079) art. 37 ust. 1 po pkt 8 dodaje się pkt 8a brzmieniu: „8a) Prezes Głównego Urzędu Miar;”.
-4. W ustawie dnia 30 kwietnia 2010 Narodowym Centrum Nauki (Dz. U. 2019 1384 oraz
-1079) art. 27 ust. 1 po pkt 7 dodaje się pkt 7a brzmieniu: „7a) Prezes Głównego Urzędu Miar;”.
-art. 37:
-a) ust. 2 otrzymuje brzmienie: „2. Do członków lokalnej komisji stosuje się odpowiednio przepisy art. 34 ust. 2–4 7 oraz art. 35.”,
-b) ust. 4 otrzymuje brzmienie: „4. Komisja wyznacza przewodniczących lokalnych komisji spośród ich członków oraz udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego spraw szkolnictwa wyższego nauki informację powołanych członkach lokalnych komisji, podając ich imiona nazwiska.”;
-3) po art. 40 dodaje się art. 40a brzmieniu: „Art. 40a. Uchwały podjęte przez:
-1) Komisję – podpisuje przewodniczący Komisji, a przypadku jego nieobecności – wiceprzewodniczący Komisji;
-lokalną komisję – podpisuje przewodniczący lokalnej komisji, a przypadku jego nieobecności – wiceprzewodniczący lokalnej komisji.”.
-6. W ustawie dnia 3 lipca 2018 – Przepisy wprowadzające ustawę – Prawo szkolnictwie wyższym nauce (Dz. U. 1669, późn. zm. ) wprowadza się następujące zmiany:
-1) art. 187:
-a) ust. 3 otrzymuje brzmienie: „3. Od dnia 1 stycznia 2021 postępowania sprawach, których art. 28 ust. 3a 3b uchylanej art. 169 pkt 2, prowadzi Rada Doskonałości Naukowej.”,
-b) po ust. 3 dodaje się ust. 3a 3b brzmieniu: „3a. Od dnia 1 stycznia 2021 postępowaniach sprawach, których art. 29 ust. 3 uchylanej art. 169 pkt 2, organem wydającym postanowienie wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie.
-3b. W przypadku utraty przez podmiot wyznaczony zgodnie ust. 3a uprawnienia nadawania stopnia doktora danej dyscyplinie albo stopnia doktora habilitowanego danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia nadawania stopnia tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.”;
-art. 238:
-a) ust. 10 otrzymuje brzmienie: „10. Do jednostek, których ust. 9, stosuje się przepisy brzmieniu obowiązującym przed dniem wejścia życie ustawy, której ust. 9, wyłączeniem art. 84b ust. 2 4 uchylanej art. 169 pkt 3.”,
-b) dodaje się ust. 10a brzmieniu: „10a. Oceny efektów działania jednostek, których ust. 9, dokonuje na podstawie raportu końcowego, prezentującego osiągnięte wyniki przeprowadzonych badań naukowych ich powiązania procesem dydaktycznym, rozwojem kadry naukowej oraz otoczeniem społeczno-gospodarczym, zespół doradczy powołany przez ministra właściwego spraw szkolnictwa wyższego nauki na podstawie art. 341 ustawy, której art. 1.”;
-3) po art. 318 dodaje się art. 318a brzmieniu: „Art. 318a. 1. Środki finansowe przyznane ramach programu „Regionalna Inicjatywa Doskonałości” ustanowionego komunikatem Ministra Nauki Szkolnictwa Wyższego dnia 19 stycznia 2018 ustanowieniu programu pod nazwą „Regionalna Inicjatywa Doskonałości” (M.P. 120) mogą być przekazywane dnia 31 grudnia 2023
-2. Minister właściwy spraw szkolnictwa wyższego nauki, na wniosek beneficjenta programu, którym ust. 1, zawiera nim aneks umowy realizację projektu, na podstawie której środki finansowe są przekazywane 2023 r.”.
-niniejszej ustawy, stosuje się przepisy dotychczasowe.
-9. Czynności podjęte okresie od dnia 1 stycznia 2021 dnia wejścia życie niniejszej zgodnie art. 187 ust. 3 zmienianej art. 6 brzmieniu dotychczasowym pozostają mocy.
-10. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 1, który wchodzi życie dniem 1 października Prezydent Rzeczypospolitej Polskiej: A. Duda
 
+### 3)
+
+wojewody;
+
+### 4)
+
+organu jednostki samorządu terytorialnego;
+
+### 5)
+
+osoby kierującej podmiotem, o którym mowa w art. 7;
+
+### 6)
+
+przewodniczącego KPN;
+
+### 7)
+
+władz statutowych instytucji przedstawicielskich środowiska szkolnictwa wyższego i nauki, organizacji społecznych, stowarzyszeń, reprezentatywnych organizacji związkowych lub reprezentatywnych organizacji pracodawców;
+
+### 8)
+
+ambasadora, kierownika przedstawicielstwa dyplomatycznego, stałego przedstawicielstwa przy organizacji międzynarodowej lub urzędu konsularnego Rzeczypospolitej Polskiej.
+
+### 4.
+
+Wniosek o nadanie Medalu zawiera w szczególności:
+
+### 1)
+
+w przypadku przedstawianej do odznaczenia:
+
+### a)
+
+osoby fizycznej - imiona i nazwisko, imię ojca, datę i miejsce urodzenia, miejsce zamieszkania oraz stopień doktora, doktora habilitowanego lub tytuł profesora, jeżeli posiada,
+
+### b)
+
+osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej - nazwę, siedzibę, adres i datę utworzenia;
+
+### 2)
+
+uzasadnienie;
+
+### 3)
+
+oznaczenie wnioskodawcy i jego dane kontaktowe.
+
+### 5.
+
+Medal posiada trzy stopnie:
+
+### 1)
+
+pierwszy - Złoty Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
+
+### 2)
+
+drugi - Srebrny Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”;
+
+### 3)
+
+trzeci - Brązowy Medal „Zasłużony dla Nauki Polskiej Sapientia et Veritas”.
+
+### 6.
+
+Medal danego stopnia nadaje się odpowiednio do zasług podmiotu, o którym mowa w ust. 2.
+
+### 7.
+
+Medal danego stopnia może być nadany temu samemu podmiotowi, o którym mowa w ust. 2, tylko raz. Nie nadaje się Medalu stopnia niższego od już nadanego danemu podmiotowi.
+
+### 8.
+
+Podmiot, któremu nadano Medal, otrzymuje odznakę Medalu wraz z legitymacją potwierdzającą nadanie Medalu.
+
+### 9.
+
+W przypadku zniszczenia lub utraty odznaki Medalu lub legitymacji potwierdzającej nadanie Medalu minister, na wniosek podmiotu, któremu nadano Medal, wydaje za opłatą odznakę Medalu lub duplikat legitymacji.
+
+### 10.
+
+Opłata, o której mowa w ust. 9, jest ustalana w wysokości kosztów ponownego wydania odznaki Medalu lub duplikatu legitymacji potwierdzającej nadanie Medalu, z tym że jej wysokość nie może przekraczać 5% minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. z 2020 r. poz. 2207](https://api.sejm.gov.pl/eli/acts/DU/2020/2207/text.html)), obowiązującego w danym roku kalendarzowym. Opłata stanowi dochód budżetu państwa.
+
+### 11.
+
+Okres przechowywania danych osób fizycznych, którym nadano Medal, wynosi 80 lat.
+
+### 12.
+
+Minister, z własnej inicjatywy albo na wniosek podmiotu, o którym mowa w ust. 3, może pozbawić osobę fizyczną Medalu, jeżeli została ona skazana prawomocnym wyrokiem za umyślne przestępstwo, za które wymierzono karę pozbawienia wolności, ograniczenia wolności albo grzywny.
+
+### 13.
+
+W sprawach o nadanie i pozbawienie Medalu nie stosuje się przepisów Kpa.
+
+### 14.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+### 1)
+
+wzór wniosku o nadanie Medalu i sposób jego składania,
+
+### 2)
+
+sposób postępowania w sprawach o nadanie i pozbawienie Medalu,
+
+### 3)
+
+wzory odznak Medalu i wzór legitymacji potwierdzającej nadanie Medalu,
+
+### 4)
+
+sposób wręczania, noszenia i przechowywania odznaki Medalu,
+
+### 5)
+
+sposób ponownego wydawania odznaki Medalu i duplikatu legitymacji potwierdzającej nadanie Medalu,
+
+### 6)
+
+wysokość opłaty, o której mowa w ust. 9, i sposób jej wnoszenia
+
+- uwzględniając stopnie Medalu i konieczność zapewnienia sprawności postępowania w sprawach o nadanie i pozbawienie Medalu oraz ponownego wydawania odznaki Medalu i duplikatu legitymacji potwierdzającej nadanie Medalu, a także uroczystego wręczania, godnego noszenia i przechowywania odznaki Medalu.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 11 maja 2001 r. - Prawo o miarach ([Dz. U. z 2021 r. poz. 2068](https://api.sejm.gov.pl/eli/acts/DU/2021/2068/text.html)) w art. 16 w ust. 1:
+
+### 1)
+
+w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+budowa, utrzymywanie i modernizacja państwowych wzorców jednostek miar i układów pomiarowych służących do przekazywania jednostek miar przechowywanych i stosowanych w Urzędzie oraz prowadzenie badań naukowych i prac rozwojowych w tym zakresie,
+
+” ;
+
+### 2)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+prowadzenie działalności naukowej w rozumieniu art. 4 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117.](#gloss-0:3:)), obejmującej prowadzenie badań naukowych i prac rozwojowych w dyscyplinach naukowych dotyczących metrologii, w szczególności w zakresie technologii pomiarowych, w sposób samodzielny i ciągły;
+
+” ;
+
+### 3)
+
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+podejmowanie działalności na rzecz umiędzynarodowienia nauki w dyscyplinach naukowych dotyczących metrologii;
+
+” ;
+
+### 4)
+
+w pkt 3 lit. e otrzymuje brzmienie:
+
+„
+
+### e)
+
+inicjowanie i prowadzenie badań naukowych, prac rozwojowych i innych przedsięwzięć w dyscyplinach naukowych dotyczących metrologii, również we współpracy z podmiotami krajowymi i zagranicznymi zajmującymi się taką działalnością, w tym także w zakresie prowadzonej przez nie działalności gospodarczej;
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju ([Dz. U. z 2020 r. poz. 1861](https://api.sejm.gov.pl/eli/acts/DU/2020/1861/text.html) oraz [z 2022 r. poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html) i [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html)) w art. 37 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+Prezes Głównego Urzędu Miar;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki ([Dz. U. z 2019 r. poz. 1384](https://api.sejm.gov.pl/eli/acts/DU/2019/1384/text.html) oraz [z 2022 r. poz. 1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html)) w art. 27 w ust. 1 po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+Prezes Głównego Urzędu Miar;
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych ([Dz. U. z 2021 r. poz. 1331](https://api.sejm.gov.pl/eli/acts/DU/2021/1331/text.html) i [2338](https://api.sejm.gov.pl/eli/acts/DU/2021/2338/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 34 dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Komisja wybiera wiceprzewodniczącego Komisji spośród swoich członków.
+
+” ;
+
+### 2)
+
+w art. 37:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do członków lokalnej komisji stosuje się odpowiednio przepisy art. 34 ust. 2-4 i 7 oraz art. 35.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Komisja wyznacza przewodniczących lokalnych komisji spośród ich członków oraz udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki informację o powołanych członkach lokalnych komisji, podając ich imiona i nazwiska.
+
+” ;
+
+### 3)
+
+po art. 40 dodaje się art. 40a w brzmieniu:
+
+„
+
+### Art. 40a.
+
+Uchwały podjęte przez:
+
+### 1)
+
+Komisję - podpisuje przewodniczący Komisji, a w przypadku jego nieobecności - wiceprzewodniczący Komisji;
+
+### 2)
+
+lokalną komisję - podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności - wiceprzewodniczący lokalnej komisji.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 187:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Od dnia 1 stycznia 2021 r. postępowania w sprawach, o których mowa w art. 28 ust. 3a i 3b ustawy uchylanej w art. 169 pkt 2, prowadzi Rada Doskonałości Naukowej.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
+
+„
+
+### 3a.
+
+Od dnia 1 stycznia 2021 r. w postępowaniach w sprawach, o których mowa w art. 29 ust. 3 ustawy uchylanej w art. 169 pkt 2, organem wydającym postanowienie o wznowieniu postępowania jest Rada Doskonałości Naukowej. W postanowieniu o wznowieniu postępowania Rada Doskonałości Naukowej wyznacza podmiot, przed którym prowadzi się wznowione postępowanie.
+
+### 3b.
+
+W przypadku utraty przez podmiot wyznaczony zgodnie z ust. 3a uprawnienia do nadawania stopnia doktora w danej dyscyplinie albo stopnia doktora habilitowanego w danej dyscyplinie po wszczęciu wznowionego postępowania Rada Doskonałości Naukowej wyznacza inny podmiot posiadający uprawnienia do nadawania stopnia w tej dyscyplinie, przed którym postępowanie to będzie kontynuowane.
+
+” ;
+
+### 2)
+
+w art. 238:
+
+### a)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Do jednostek, o których mowa w ust. 9, stosuje się przepisy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy, o której mowa w ust. 9, z wyłączeniem art. 84b ust. 2 i 4 ustawy uchylanej w art. 169 pkt 3.
+
+” ,
+
+### b)
+
+dodaje się ust. 10a w brzmieniu:
+
+„
+
+### 10a.
+
+Oceny efektów działania jednostek, o których mowa w ust. 9, dokonuje na podstawie raportu końcowego, prezentującego osiągnięte wyniki przeprowadzonych badań naukowych i ich powiązania z procesem dydaktycznym, rozwojem kadry naukowej oraz otoczeniem społeczno-gospodarczym, zespół doradczy powołany przez ministra właściwego do spraw szkolnictwa wyższego i nauki na podstawie art. 341 ustawy, o której mowa w art. 1.
+
+” ;
+
+### 3)
+
+po art. 318 dodaje się art. 318a w brzmieniu:
+
+„
+
+### Art. 318a.
+
+### 1.
+
+Środki finansowe przyznane w ramach programu „Regionalna Inicjatywa Doskonałości” ustanowionego komunikatem Ministra Nauki i Szkolnictwa Wyższego z dnia 19 stycznia 2018 r. o ustanowieniu programu pod nazwą „Regionalna Inicjatywa Doskonałości” ([M. P. poz. 120](https://api.sejm.gov.pl/eli/acts//text.html)) mogą być przekazywane do dnia 31 grudnia 2023 r.
+
+### 2.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki, na wniosek beneficjenta programu, o którym mowa w ust. 1, zawiera z nim aneks do umowy o realizację projektu, na podstawie której środki finansowe są przekazywane w 2023 r.
+
+” .
+
+### Art. 7.
+
+Przewodniczący lokalnych komisji etycznych do spraw doświadczeń na zwierzętach, o których mowa w art. 32 ust. 1 ustawy zmienianej w art. 5, wybrani na podstawie przepisów dotychczasowych pełnią swoje funkcje do dnia zakończenia kadencji tych komisji.
+
+### Art. 8.
+
+Do uchwał, o których mowa w art. 40a ustawy zmienianej w art. 5, podjętych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### Art. 9.
+
+Czynności podjęte w okresie od dnia 1 stycznia 2021 r. do dnia wejścia w życie niniejszej ustawy zgodnie z art. 187 ust. 3 ustawy zmienianej w art. 6 w brzmieniu dotychczasowym pozostają w mocy.
+
+### Art. 10.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 maja 2001 r. - Prawo o miarach, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Badań i Rozwoju, ustawę z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz ustawę z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010 i 1079. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079 i 1117. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 39 i 534, z 2020 r. poz. 695, 875 i 1086, z 2021 r. poz. 1630 i 2232 oraz z 2022 r. poz. 1010.

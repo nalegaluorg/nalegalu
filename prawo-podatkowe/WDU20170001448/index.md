@@ -8,11 +8,9 @@ pos: 1448
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy podatku dochodowym osób fizycznych ustawy podatku dochodowym osób prawnych
-
-*USTAWA dnia 7 lipca 2017 r.*
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,226 @@ domain: null
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1448/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1448/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1448) |
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 r. podatku dochodowym osób fizycznych (Dz. U. 2016 r. poz. 2032, późn. zm. ) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 r. podatku dochodowym osób prawnych (Dz. U. 2016 r. poz. 1888, późn. zm. ) wprowadza następujące zmiany:
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2016 r. poz. 2032](https://api.sejm.gov.pl/eli/acts/DU/2016/2032/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428.](#gloss-0:1:)) wprowadza się następujące zmiany:
 
-1. Przepisy ustaw zmienianych 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do środków trwałych nabytych dnia 1 stycznia 2017 r. dokonanych tego dnia wpłat poczet nabycia tych środków.
+### 1)
 
-2. Podatnicy podatku dochodowego osób prawnych, rok podatkowy jest inny niż kalendarzowy zakończył po dniu 31 grudnia 2016 r., a przed dniem wejścia życie niniejszej ustawy, stosują przepisy ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą, do środków trwałych nabytych dnia 1 stycznia 2017 r. dokonanych tego dnia wpłat poczet nabycia tych środków.
+w art. 22 po ust. 1r dodaje się ust. 1s w brzmieniu:
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+„
 
+### 1s.
+
+W przypadku dokonania wpłaty na poczet nabycia fabrycznie nowego środka trwałego, o którym mowa w art. 22k ust. 14, spełniającego warunki określone w art. 22k ust. 15, którego dostawa zostanie wykonana w następnych okresach sprawozdawczych, podatnicy mogą zaliczyć do kosztów uzyskania przychodów dokonaną wpłatę do wysokości kwoty, o której mowa w art. 22k ust. 14.
+
+” ;
+
+### 2)
+
+w art. 22k dodaje się ust. 14-21 w brzmieniu:
+
+„
+
+### 14.
+
+Podatnicy prowadzący działalność gospodarczą mogą dokonywać jednorazowo odpisów amortyzacyjnych od wartości początkowej nabytych fabrycznie nowych środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji w roku podatkowym, w którym środki te zostały wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, do wysokości nieprzekraczającej w roku podatkowym kwoty 100 000 zł. Kwota 100 000 zł obejmuje sumę odpisów amortyzacyjnych i wpłaty na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, zaliczonej do kosztów uzyskania przychodów.
+
+### 15.
+
+Przepis ust. 14 stosuje się, pod warunkiem że:
+
+### 1)
+
+wartość początkowa jednego środka trwałego, o którym mowa w ust. 14, nabytego w roku podatkowym, wynosi co najmniej 10 000 zł lub
+
+### 2)
+
+łączna wartość początkowa co najmniej dwóch środków trwałych, o których mowa w ust. 14, nabytych w roku podatkowym, wynosi co najmniej 10 000 zł, a wartość początkowa każdego z nich przekracza 3500 zł.
+
+### 16.
+
+Kwotę jednorazowego odpisu amortyzacyjnego, o której mowa w ust. 14, pomniejsza się o wysokość zaliczonej do kosztów uzyskania przychodów wpłaty na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s.
+
+### 17.
+
+W przypadku, o którym mowa w ust. 15 pkt 2, kwotę jednorazowego odpisu amortyzacyjnego, o której mowa w ust. 14, pomniejsza się o kwotę odpisów amortyzacyjnych dokonanych przez podatnika od środków trwałych, o których mowa w ust. 14.
+
+### 18.
+
+Do odpisów amortyzacyjnych od środków trwałych, o których mowa w ust. 14, stosuje się odpowiednio przepis ust. 8, z tym że suma dokonanych odpisów amortyzacyjnych i wpłaty na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, zaliczonej do kosztów uzyskania przychodów, nie może przekroczyć wartości początkowej tych środków trwałych.
+
+### 19.
+
+W przypadku spółki niebędącej osobą prawną kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 14, odnosi się do łącznej wartości odpisów przypadających zgodnie z art. 8 na wspólników tej spółki.
+
+### 20.
+
+Jeżeli w związku z nabyciem środka trwałego podatnik ma prawo do dokonania jednorazowego odpisu amortyzacyjnego, o którym mowa w ust. 7 i 14, to dokonuje on odpisu amortyzacyjnego na podstawie ust. 7 albo 14.
+
+### 21.
+
+Jeżeli podatnik zaliczył do kosztów uzyskania przychodów wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, a następnie:
+
+### 1)
+
+przed nabyciem środka trwałego, o którym mowa w ust. 14:
+
+### a)
+
+zlikwidował działalność gospodarczą albo
+
+### b)
+
+zmienił formę opodatkowania na zryczałtowaną formę opodatkowania określoną odpowiednio w ustawie o zryczałtowanym podatku dochodowym, w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, albo
+
+### 2)
+
+po nabyciu środka trwałego, o którym mowa w ust. 14:
+
+### a)
+
+nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub
+
+### b)
+
+zbył odpłatnie środek trwały
+
+- jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 22 ust. 1s, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 22i, albo na dzień odpłatnego zbycia środka trwałego.
+
+” ;
+
+### 3)
+
+w art. 29 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej, z wyłączeniem przychodów uzyskanych z lotniczego rozkładowego przewozu pasażerskiego, skorzystanie z którego wymaga posiadania biletu lotniczego przez pasażera - pobiera się w formie ryczałtu w wysokości 10% przychodów;
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2016 r. poz. 1888](https://api.sejm.gov.pl/eli/acts/DU/2016/1888/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648 i 1089.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 15 po ust. 1zc dodaje się ust. 1zd w brzmieniu:
+
+„
+
+### 1zd.
+
+W przypadku dokonania wpłaty na poczet nabycia fabrycznie nowego środka trwałego, o którym mowa w art. 16k ust. 14, spełniającego warunki określone w art. 16k ust. 15, którego dostawa zostanie wykonana w następnych okresach sprawozdawczych, podatnicy mogą zaliczyć do kosztów uzyskania przychodów dokonaną wpłatę do wysokości kwoty, o której mowa w art. 16k ust. 14.
+
+” ;
+
+### 2)
+
+w art. 16k dodaje się ust. 14-21 w brzmieniu:
+
+„
+
+### 14.
+
+Podatnicy mogą dokonywać jednorazowo odpisów amortyzacyjnych od wartości początkowej nabytych fabrycznie nowych środków trwałych zaliczonych do grupy 3-6 i 8 Klasyfikacji w roku podatkowym, w którym środki te zostały wprowadzone do ewidencji środków trwałych oraz wartości niematerialnych i prawnych, do wysokości nieprzekraczającej w roku podatkowym kwoty 100 000 zł. Kwota 100 000 zł obejmuje sumę odpisów amortyzacyjnych i wpłaty na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, zaliczonej do kosztów uzyskania przychodów.
+
+### 15.
+
+Przepis ust. 14 stosuje się, pod warunkiem że:
+
+### 1)
+
+wartość początkowa jednego środka trwałego, o którym mowa w ust. 14, nabytego w roku podatkowym, wynosi co najmniej 10 000 zł lub
+
+### 2)
+
+łączna wartość początkowa co najmniej dwóch środków trwałych, o których mowa w ust. 14, nabytych w roku podatkowym, wynosi co najmniej 10 000 zł, a wartość początkowa każdego z nich przekracza 3500 zł.
+
+### 16.
+
+Kwotę jednorazowego odpisu amortyzacyjnego, o której mowa w ust. 14, pomniejsza się o wysokość zaliczonej do kosztów uzyskania przychodów wpłaty na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd.
+
+### 17.
+
+W przypadku, o którym mowa w ust. 15 pkt 2, wysokość jednorazowego odpisu amortyzacyjnego, o której mowa w ust. 14, pomniejsza się o kwotę odpisów amortyzacyjnych dokonanych przez podatnika od środków trwałych, o których mowa w ust. 14.
+
+### 18.
+
+Do odpisów amortyzacyjnych od środków trwałych, o których mowa w ust. 14, stosuje się odpowiednio przepis ust. 8, z tym że suma dokonanych odpisów amortyzacyjnych i wpłaty na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, zaliczonej do kosztów uzyskania przychodów, nie może przekroczyć wartości początkowej tych środków trwałych.
+
+### 19.
+
+W przypadku spółki niebędącej osobą prawną kwota limitu odpisów amortyzacyjnych, o której mowa w ust. 14, odnosi się do łącznej wartości odpisów przypadających zgodnie z art. 5 na wspólników tej spółki.
+
+### 20.
+
+Jeżeli w związku z nabyciem środka trwałego podatnik ma prawo do dokonania jednorazowego odpisu amortyzacyjnego, o którym mowa w ust. 7 i 14, to dokonuje on odpisu amortyzacyjnego na podstawie ust. 7 albo 14.
+
+### 21.
+
+Jeżeli podatnik zaliczył do kosztów uzyskania przychodów wpłatę na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, a następnie:
+
+### 1)
+
+przed nabyciem środka trwałego, o którym mowa w ust. 14:
+
+### a)
+
+zlikwidował działalność gospodarczą albo
+
+### b)
+
+zmienił formę opodatkowania na zryczałtowaną formę opodatkowania określoną odpowiednio w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, albo
+
+### 2)
+
+po nabyciu środka trwałego, o którym mowa w ust. 14:
+
+### a)
+
+nie dokonał jednorazowego odpisu amortyzacyjnego od środka trwałego lub
+
+### b)
+
+zbył odpłatnie środek trwały
+
+- jest obowiązany do zwiększenia przychodów o wpłatę na poczet nabycia środka trwałego, o której mowa w art. 15 ust. 1zd, odpowiednio na ostatni dzień prowadzenia działalności przed jej likwidacją, na ostatni dzień prowadzenia działalności przed zmianą formy opodatkowania, na dzień, w którym podatnik dokonał pierwszego odpisu na podstawie ust. 1 lub art. 16i, albo na dzień odpłatnego zbycia środka trwałego.
+
+” ;
+
+### 3)
+
+w art. 21 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+uzyskanych na terytorium Rzeczypospolitej Polskiej przez zagraniczne przedsiębiorstwa żeglugi powietrznej, z wyłączeniem przychodów uzyskanych z lotniczego rozkładowego przewozu pasażerskiego, skorzystanie z którego wymaga posiadania biletu lotniczego przez pasażera
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, mają zastosowanie do środków trwałych nabytych od dnia 1 stycznia 2017 r. i dokonanych od tego dnia wpłat na poczet nabycia tych środków.
+
+### 2.
+
+Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i zakończył się po dniu 31 grudnia 2016 r., a przed dniem wejścia w życie niniejszej ustawy, stosują przepisy ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, do środków trwałych nabytych od dnia 1 stycznia 2017 r. i dokonanych od tego dnia wpłat na poczet nabycia tych środków.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 2048 oraz z 2017 r. poz. 60, 528, 648, 859, 1089 i 1428. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1926, 1933 i 1948 oraz z 2017 r. poz. 60, 624, 648 i 1089.

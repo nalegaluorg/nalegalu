@@ -8,11 +8,9 @@ pos: 1539
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych
-
-*USTAWA z dnia 29 lipca 2005 r.*
+# Ustawa z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy Parlamentu Europejskiego i Rady 2001/34/WE z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji ( Dz. Urz. WE L 184 z 06.07.2001 , Dz. Urz. WE L 96 z 12.04.2003, Dz. Urz. WE L 345 z 31.12.2003 oraz Dz. Urz. WE L 390 z 31.12.2004) ;](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,2196 +22,3908 @@ domain: null
 | Data ogłoszenia | 2005-07-29 |
 | Data wydania | 2005-09-23 |
 | Ostatnia zmiana | 2026-03-05 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051841539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1539/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/1539/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/1539) |
 
-Art. 105–127. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Postępowanie z dokumentami informacyjnymi związanymi z ofertą publiczną lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym](#chpt_2) [Rozdział 3 - Obowiązki informacyjne emitentów](#chpt_3) [Rozdział 4 - Znaczne pakiety akcji spółek publicznych](#chpt_4) [Rozdział 5 - Zniesienie dematerializacji akcji](#chpt_5) [Rozdział 6 - Opłaty](#chpt_6) [Rozdział 7 - Sankcje administracyjne za naruszenie przepisów](#chpt_7) [Rozdział 8 - Odpowiedzialność cywilna](#chpt_8) [Rozdział 9 - Przepisy karne](#chpt_9) [Rozdział 10 - Zmiany w przepisach obowiązujących](#chpt_10) [Rozdział 11 - Przepisy przejściowe i końcowe](#chpt_11)
 
-**Art. 1.** Ustawa reguluje:
+TOC
 
-**Art. 2.** Przepisów ustawy nie stosuje się do:
+## Treść ustawy
 
-**Art. 3.**
+### 2)
 
-1. (uchylony) 1a. Oferta publiczna papierów wartościowych, o której mowa w art. 1 ust. 4 lit. b rozporządzenia 2017/1129, w przypadku której liczba osób, do których jest ona kierowana, wraz z liczbą osób, do których kierowane były oferty publiczne, o których mowa w art. 1 ust. 4 lit. b rozporządzenia 2017/1129, tego samego rodzaju papierów wartościowych, dokonane w okresie poprzednich 12 miesięcy, przekracza 149, wymaga opublikowania memorandum informacyjnego, o którym mowa w art. 38b, oraz przekazania go do Komisji w dniu jego opublikowania.
+dyrektywy Parlamentu Europejskiego i Rady 2003/6/WE z dnia 28 stycznia 2003 r. w sprawie wykorzystywania poufnych informacji i manipulacji na rynku (nadużyć na rynku) ([Dz. Urz. WE L 96 z 12.04.2003](https://api.sejm.gov.pl/eli/acts//text.html));
 
-1b. Przepis ust. 1a nie ma zastosowania, jeżeli oferta kierowana jest wyłącznie do posiadaczy tego samego rodzaju papierów wartościowych tego samego emitenta lub do podmiotów, którym zaoferowano obligacje emitenta w ramach zamiany wierzytelności z tytułu wykupu uprzednio wyemitowanych innych obligacji tego emitenta.
+### 3)
 
-2. Przedmiotem oferty publicznej dokonywanej na terytorium Rzeczypospolitej Polskiej nie mogą być papiery wartościowe emitowane przez instytucje wspólnego inwestowania typu otwartego, z uwzględnieniem rozporządzenia delegowanego Komisji (UE) nr 694/2014 z dnia 17 grudnia 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do regulacyjnych standardów technicznych służących określeniu typów zarządzających alternatywnymi funduszami inwestycyjnymi (Dz. Urz. UE L 183 z 24.06.2014, str. 18), inne niż:
+dyrektywy Parlamentu Europejskiego i Rady 2003/71/WE z dnia 4 listopada 2003 r. w sprawie prospektu emisyjnego publikowanego w związku z publiczną ofertą lub dopuszczeniem do obrotu papierów wartościowych i zmieniającej dyrektywę 2001/34/WE ([Dz. Urz. WE L 345 z 31.12.2003](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** fundusze zagraniczne, o których mowa w art. 2 pkt 9 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146), zwanej dalej „ustawą o funduszach inwestycyjnych”;
-- **2)** unijne AFI, o których mowa w art. 2 pkt 10b ustawy o funduszach inwestycyjnych, oraz alternatywne fundusze inwestycyjne z siedzibą w państwach będących stroną umowy o Europejskim Obszarze Gospodarczym, wprowadzone do obrotu na terytorium Rzeczypospolitej Polskiej zgodnie z przepisami tej ustawy;
-- **3)** alternatywne spółki inwestycyjne, o których mowa w art. 8a ust. 1 ustawy o funduszach inwestycyjnych;
-- **4)** fundusze inwestycyjne zamknięte.
+### 4)
 
-3. (uchylony)
+dyrektywy Komisji 2003/124/WE z dnia 22 grudnia 2003 r. wykonującej dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady w zakresie definicji i publicznego ujawniania informacji wewnętrznych oraz definicji manipulacji na rynku ([Dz. Urz. WE L 339 z 24.12.2003](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-**Art. 4.** Ilekroć w ustawie jest mowa o:
+Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie - z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej - dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej - wydanie specjalne.Niniejsza ustawa zmienia ustawy: ustawę z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw, ustawę z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 czerwca 1995 r. o obligacjach, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, ustawę z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 15 września 2000 r. - Kodeks spółek handlowych, ustawę z dnia 16 listopada 2000 r. o domach składowych oraz o zmianie Kodeksu cywilnego, Kodeksu postępowania cywilnego i innych ustaw, ustawę z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów, ustawę z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, ustawę z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 27 sierpnia 2004 r. o zmianie ustawy o rachunkowości oraz o zmianie ustawy o biegłych rewidentach i ich samorządzie, ustawę z dnia 16 grudnia 2004 r. o zmianie ustawy o portach i przystaniach morskich oraz o zmianie niektórych innych ustaw.
 
-**Art. 4a.**
+### Rozdział 1 Przepisy ogólne
 
-1. O ile ustawa nie stanowi inaczej, przez kwotę wyrażoną w euro, podaną w ustawie lub w rozporządzeniu 2017/1129, należy rozumieć również równowartość tej kwoty wyrażoną w walucie polskiej, ustaloną przy zastosowaniu średniego kursu euro, lub jej równowartość wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu euro oraz średniego kursu tej waluty, ogłoszonych przez Narodowy Bank Polski w dniu wskazanym w ustawie lub rozporządzeniu 2017/1129.
+### Art. 1.
 
-2. Podane w rozporządzeniu 2017/1129 wartości w euro liczy się według ceny emisyjnej, ceny sprzedaży lub wartości nominalnej papierów wartościowych z dnia jej ustalenia, jeżeli z przepisów rozporządzenia 2017/1129, w których podane są te wartości, nie wynika inny sposób ich liczenia.
+Ustawa reguluje:
 
-3. W przypadku gdy podane w rozporządzeniu 2017/1129 wartości w euro liczy się według ceny emisyjnej, ceny sprzedaży lub wartości nominalnej papierów wartościowych z dnia jej ustalenia, przez kwotę wyrażoną w rozporządzeniu 2017/1129 w euro należy rozumieć również równowartość tej kwoty wyrażoną w walucie polskiej, ustaloną przy zastosowaniu średniego kursu euro, lub jej równowartość wyrażoną w innej walucie, ustaloną przy zastosowaniu średniego kursu euro oraz średniego kursu tej waluty, ogłoszonych przez Narodowy Bank Polski w dniu ustalenia ceny emisyjnej, ceny sprzedaży lub wartości nominalnej papierów wartościowych.
+### 1)
 
-4. W przypadku ofert publicznych papierów wartościowych, w przypadku których zakładane wpływy brutto emitenta lub oferującego na terytorium Unii Europejskiej, liczone według ich ceny emisyjnej lub ceny sprzedaży z dnia jej ustalenia, nie przekraczają 2 500 000 euro, inkorporujących prawo do nabycia lub objęcia akcji, przez zakładane wpływy brutto emitenta lub oferującego rozumie się wpływy z tytułu oferty tych papierów oraz akcji, do nabycia lub objęcia których one uprawniają, także wówczas, gdy nabycie lub objęcie akcji nie następuje jednocześnie z ofertą tych papierów. W przypadku gdy nie jest znana cena emisyjna akcji, zakładane wpływy określa się na podstawie średniej ceny rynkowej obliczonej zgodnie z art. 79 ust. 7 z ostatnich 6 miesięcy lub z krótszego okresu, jeżeli obrót akcjami dokonywany był przez okres krótszy niż 6 miesięcy, a w przypadku gdy nie jest możliwe ustalenie zakładanych wpływów w ten sposób – zakładane wpływy ustala się na podstawie wartości godziwej akcji.
+zasady i warunki dokonywania oferty publicznej papierów wartościowych oraz ubiegania się o dopuszczanie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym;
 
-**Art. 4b.**
+### 2)
 
-1. Ilekroć w ustawie jest mowa o emitencie ubiegającym się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym lub emitencie ubiegającym się o wprowadzenie papierów wartościowych do alternatywnego systemu obrotu, należy przez to rozumieć emitenta, który odpowiednio wystąpił z wnioskiem o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym lub z wnioskiem o wprowadzenie papierów wartościowych do alternatywnego systemu obrotu.
+obowiązki emitentów papierów wartościowych i innych podmiotów uczestniczących w obrocie tymi papierami wartościowymi lub innymi instrumentami finansowymi;
 
-2. Ilekroć w ustawie jest mowa o podmiocie zamierzającym ubiegać się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, należy przez to rozumieć podmiot, którego właściwy organ podjął uchwałę w sprawie ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym.
+### 3)
 
-**Art. 5.** Objęcie papierów wartościowych w obrocie pierwotnym lub w ramach subskrypcji lub sprzedaży na podstawie pierwszej oferty publicznej uważa się za nabycie papierów wartościowych w rozumieniu przepisów ustawy.
+skutki uzyskania statusu spółki publicznej oraz szczególne prawa i obowiązki związane z posiadaniem i obrotem akcjami takich spółek.
 
-**Art. 5a.**
+### Art. 2.
 
-1. W przypadku gdy oferta publiczna jest dokonywana za pośrednictwem firmy inwestycyjnej, wpłaty pieniężne z tytułu zapisów na papiery wartościowe będące przedmiotem oferty publicznej, dla których udostępniono prospekt, są gromadzone na wydzielonym rachunku bankowym lub wydzielonych rachunkach bankowych tej firmy.
+Przepisów ustawy nie stosuje się do:
 
-2. Środki pieniężne pochodzące z wpłat nie mogą zostać przekazane emitentowi przed zarejestrowaniem przez sąd rejestrowy podwyższenia kapitału zakładowego, w ramach którego została dokonana oferta publiczna akcji, a w przypadku gdy emitent w prospekcie związanym z ofertą publiczną złożył oświadczenie o zamiarze ubiegania się o dopuszczenie akcji do obrotu na rynku regulowanym na jego podstawie – przed dopuszczeniem akcji do obrotu na rynku regulowanym, w zależności od tego, które zdarzenie nastąpi później.
+### 1)
 
-3. W przypadku niedopuszczenia akcji do obrotu na rynku regulowanym w terminie ważności prospektu środki pieniężne są zwracane inwestorom. Przydzielone w ofercie publicznej akcje ulegają umorzeniu. Umorzenia dokonuje zarząd emitenta bez zwoływania walnego zgromadzenia. Przepisy art. 359 § 7 i art. 455 § 3 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) stosuje się odpowiednio.
+weksli i czeków w rozumieniu przepisów prawa wekslowego i czekowego;
 
-4. Środki pieniężne nie są zwracane inwestorowi w przypadku, gdy wyraził na to zgodę. W takim przypadku przydzielone inwestorowi akcje nie ulegają umorzeniu.
+### 2)
 
-5. Przepisu ust. 3 nie stosuje się, jeżeli łącznie spełnione są następujące warunki:
+bankowych papierów wartościowych w rozumieniu ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538.](#gloss-0:2:)) oraz innych papierów wartościowych o charakterze nieudziałowym, stanowiących potwierdzenie przyjęcia środków pieniężnych do depozytu i objętych systemem gwarantowania depozytów, emitowanych w sposób ciągły lub powtarzający się przez instytucję kredytową z siedzibą w państwie członkowskim, które nie są podporządkowane, zamienne lub wymienne, nie inkorporują prawa do subskrybowania lub nabycia innego rodzaju papierów wartościowych oraz nie stanowią podstawy dla papierów wartościowych w rozumieniu art. 3 pkt 1 lit. b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html)), zwanej dalej „ustawą o obrocie instrumentami finansowymi”;
 
-- **1)** emitent złożył w prospekcie oświadczenie, że w przypadku niedopuszczenia akcji do obrotu na rynku regulowanym będzie ubiegał się o ich wprowadzenie do alternatywnego systemu obrotu;
-- **2)** akcje zostały wprowadzone do alternatywnego systemu obrotu w terminie ważności tego prospektu.
+### 3)
 
-**Art. 6.**
+papierów wartościowych będących instrumentami rynku pieniężnego w rozumieniu ustawy o obrocie instrumentami finansowymi, o terminie realizacji praw, liczonym od dnia ich nabycia w obrocie pierwotnym, nie dłuższym niż rok.
 
-1. Oświadczenia woli w związku z dokonywaniem czynności dotyczących oferty publicznej lub innych czynności dokonywanych w ramach działalności podmiotów w zakresie regulowanym ustawą mogą być składane w postaci elektronicznej, jeżeli strony w umowie tak postanowiły.
+### Art. 3.
 
-2. Dokumenty związane z czynnościami, o których mowa w ust. 1, mogą być sporządzane w formie dokumentu elektronicznego, jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przekazane, przechowywane i zabezpieczone.
+### 1.
 
-3. Oświadczenie woli złożone w postaci elektronicznej, zawarte w dokumencie, o którym mowa w ust. 2, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
+Publicznym proponowaniem nabycia papierów wartościowych jest proponowanie nabycia papierów wartościowych w dowolnej formie i w dowolny sposób, jeżeli propozycja jest skierowana do co najmniej 100 osób lub do nieoznaczonego adresata.
 
-4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, zasady tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania dokumentów, o których mowa w ust. 2, tak, aby zapewnić bezpieczeństwo obrotu oraz ochronę interesów inwestorów.
+### 2.
 
-**Art. 6a.**
+Publiczne proponowanie nabycia papierów wartościowych może być dokonywane wyłącznie w drodze oferty publicznej.
 
-1. W przypadku gdy wpłaty należne na poczet akcji w celu podwyższenia przez spółkę publiczną kapitału zakładowego mają zostać dokonane przez potrącenie wierzytelności spółki z tego tytułu z wierzytelnością subskrybenta względem spółki, zarząd spółki sporządza pisemne sprawozdanie, które zawiera w szczególności:
+### 3.
 
-- **1)** wskazanie tytułu prawnego, z którego wynika wierzytelność subskrybenta względem spółki oraz wartość tej wierzytelności;
-- **2)** źródło, metodę i założenia wyceny wierzytelności subskrybenta względem spółki oraz wartość godziwą tej wierzytelności;
-- **3)** liczbę i rodzaj akcji, które mają zostać opłacone w wyniku potrącenia;
-- **4)** subskrybentów, których wierzytelność względem spółki ma zostać potrącona z wierzytelnością spółki z tytułu wpłaty na akcje;
-- **5)** zmiany wartości wierzytelności subskrybenta względem spółki, zaistniałe w okresie od powstania tych wierzytelności, wraz z ich uzasadnieniem, albo pisemne oświadczenie zarządu stwierdzające niewystąpienie w tym okresie nadzwyczajnych lub nowych okoliczności wpływających na wartość tych wierzytelności.
+Ofertą publiczną jest udostępnianie na terytorium Rzeczypospolitej Polskiej, co najmniej 100 osobom lub nieoznaczonemu adresatowi, w dowolnej formie i w dowolny sposób, informacji o papierach wartościowych i warunkach dotyczących ich nabycia, stanowiących dostateczną podstawę do podjęcia decyzji o odpłatnym nabyciu tych papierów wartościowych.
 
-2. Sprawozdanie zarządu poddaje się ocenie biegłego rewidenta w zakresie jego prawdziwości i rzetelności.
+### Art. 4.
 
-3. Ocena biegłego rewidenta powinna w szczególności dotyczyć metody i założeń wyceny przyjętych w sprawozdaniu zarządu, o których mowa w ust. 1 pkt 2.
+Ilekroć w ustawie jest mowa o:
 
-4. Sprawozdania zarządu można nie poddawać ocenie przez biegłego rewidenta w przypadku, gdy wierzytelność, która przysługuje subskrybentowi względem spółki, wynika z:
+### 1)
 
-- **1)** umowy, której przedmiotem są zbywalne papiery wartościowe lub instrumenty rynku pieniężnego, jeżeli ich wartość jest ustalana według średniej ceny ważonej, po której były przedmiotem obrotu na rynku regulowanym lub w alternatywnym systemie obrotu w okresie sześciu miesięcy poprzedzających dzień dokonania wpłaty na akcje przez potrącenie;
-- **2)** kredytu lub pożyczki udzielonych przez banki krajowe, banki zagraniczne, instytucje kredytowe lub ich oddziały w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222).
+rynku regulowanym - rozumie się przez to rynek regulowany w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-5. Obowiązku sporządzania pisemnego sprawozdania nie stosuje się:
+### 2)
 
-- **1)** do potrącenia wzajemnych wierzytelności w zakresie wskazanym w art. 253 ust. 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428);
-- **2)** w przypadku konwersji wierzytelności na akcje dokonywanej w ramach układu w postępowaniu restrukturyzacyjnym prowadzonym na podstawie ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne.
+alternatywnym systemie obrotu - rozumie się przez to alternatywny system obrotu w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-6. Przepisy ust. 1–5 stosuje się odpowiednio do wpłat dokonywanych na nabycie obligacji zamiennych na akcje.
+### 3)
 
-7. W przypadkach, o których mowa w ust. 1–6, przepisy art. 311 § 2–4, art. 312 § 2, 3 i 5–8, art. 312 § 5 oraz art. 447 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+obrocie pierwotnym - rozumie się przez to dokonywanie oferty publicznej przez emitenta lub subemitenta usługowego, której przedmiotem są papiery wartościowe nowej emisji, lub nabywanie papierów wartościowych w wyniku takiej oferty;
 
-#### Rozdział 2 Postępowanie z dokumentami informacyjnymi związanymi z ofertą publiczną lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym
+### 4)
 
-##### Oddział 1 Przepisy wspólne
+obrocie wtórnym - rozumie się przez to obrót wtórny w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-**Art. 7.** (uchylony)
+### 5)
 
-**Art. 8.** (uchylony)
+pierwszej ofercie publicznej - rozumie się przez to dokonywaną po raz pierwszy ofertę publiczną dotyczącą określonych papierów wartościowych;
 
-**Art. 9.** (uchylony)
+### 6)
 
-**Art. 10.**
+emitencie - rozumie się przez to podmiot emitujący papiery wartościowe we własnym imieniu;
 
-1. Komisja prowadzi ewidencję akcji:
+### 7)
 
-- **1)** będących przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej;
-- **2)** dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub wprowadzonych do alternatywnego systemu obrotu na terytorium Rzeczypospolitej Polskiej.
+wprowadzającym - rozumie się przez to właściciela papierów wartościowych dokonującego oferty publicznej lub występującego o dopuszczenie tych papierów wartościowych do obrotu na rynku regulowanym lub o wprowadzenie tych papierów wartościowych do alternatywnego systemu obrotu;
 
-2. Ewidencja akcji zawiera podstawowe dane o akcjach i trybie przeprowadzenia ich oferty, dopuszczenia do obrotu na rynku regulowanym lub wprowadzenia do alternatywnego systemu obrotu.
+### 8)
 
-3. Ewidencja akcji jest jawna i udostępnia się ją na stronie internetowej Komisji.
+instrumentach finansowych - rozumie się przez to instrumenty finansowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-4. Wpisu do ewidencji akcji dokonuje emitent akcji, a w przypadku, o którym mowa w art. 11a ust. 2 – inny niż emitent podmiot składający wniosek o ich dopuszczenie do obrotu na rynku regulowanym.
+### 9)
 
-5. Wpisu do ewidencji akcji dokonuje się w terminie 14 dni od dnia:
+papierach wartościowych - rozumie się przez to papiery wartościowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-- **1)** przydziału akcji, a w przypadku niedokonywania przydziału akcji – od dnia ich wydania;
-- **2)** dopuszczenia akcji do obrotu na rynku regulowanym lub ich wprowadzenia do alternatywnego systemu obrotu.
+### 10)
 
-6. Oferujący obowiązany jest niezwłocznie zawiadomić emitenta o przeprowadzonej ofercie publicznej akcji w zakresie umożliwiającym emitentowi dokonanie pełnego wpisu do ewidencji akcji, nie później niż w terminie 5 dni od dnia ich przydziału, a w przypadku niedokonywania przydziału – nie później niż w terminie 5 dni od dnia ich wydania.
+papierach wartościowych o charakterze nieudziałowym - rozumie się przez to papiery wartościowe niebędące:
 
-7. W przypadku prowadzenia oferty publicznej akcji w sposób ciągły dokonywanie wpisów, o których mowa w ust. 5 pkt 1, może mieć miejsce w terminie 14 dni od dnia przydziału akcji albo ich wydania będącego ostatnim dniem przedziału czasowego określonego przez emitenta lub oferującego, nie dłuższego jednak niż 6 miesięcy.
+### a)
 
-8. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+akcjami,
 
-- **1)** sposób prowadzenia ewidencji akcji,
-- **2)** szczegółowy zakres danych podlegających wpisowi do ewidencji akcji,
-- **3)** środki techniczne służące do wprowadzania informacji do ewidencji akcji,
-- **4)** techniczne warunki wprowadzania informacji do ewidencji akcji przy użyciu środków, o których mowa w pkt 3 – uwzględniając konieczność zapewnienia prawidłowego wykonywania zadań Komisji w zakresie nadzoru nad rynkiem kapitałowym oraz umożliwienia identyfikacji emitentów i akcji.
+### b)
 
-**Art. 11.** (uchylony)
+papierami wartościowymi inkorporującymi prawa majątkowe tożsame z prawami wynikającymi z akcji,
 
-**Art. 11a.**
+### c)
 
-1. Wniosek o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym składa ich emitent.
+certyfikatami inwestycyjnymi,
 
-2. Wniosek o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym może złożyć także inny podmiot, bez zgody ich emitenta, pod warunkiem że przewiduje to regulamin, o którym mowa w art. 28 ust. 1 ustawy o obrocie instrumentami finansowymi, a papiery te są dopuszczone do obrotu na innym rynku regulowanym oraz ich emitent podlega obowiązkom wynikającym z takiego dopuszczenia, obowiązującym w macierzystym państwie członkowskim emitenta, w rozumieniu art. 2 lit. m rozporządzenia 2017/1129. Podmiot wnioskujący o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym bez zgody ich emitenta jest obowiązany posiadać objęte wnioskiem papiery wartościowe w momencie ich dopuszczenia oraz wprowadzenia do obrotu na rynku regulowanym na podstawie tego wniosku.
+### d)
 
-3. W przypadku dopuszczenia do obrotu na rynku regulowanym papierów wartościowych bez zgody ich emitenta spółka prowadząca rynek regulowany informuje emitenta, że wyemitowane przez niego papiery wartościowe zostały dopuszczone do obrotu na tym rynku.
+papierami wartościowymi inkorporującymi prawo do objęcia lub nabycia papierów wartościowych, o których mowa w lit. a lub b, w wyniku ich zamiany lub wykonania prawa w nich inkorporowanego, emitowanymi przez emitenta papierów wartościowych, o których mowa w lit. a lub b, albo podmiot należący do jego grupy kapitałowej;
 
-4. W przypadku dopuszczenia do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej papierów wartościowych bez zgody ich emitenta, w przypadku gdy te papiery wartościowe zostały dopuszczone do obrotu na rynku regulowanym w innym niż Rzeczpospolita Polska państwie członkowskim, do tego emitenta nie mają zastosowania przepisy ustawy w zakresie przekazywania informacji regulowanych w rozumieniu art. 2 lit. l rozporządzenia 2017/1129.
+### 11)
 
-5. Z chwilą złożenia wniosku, o którym mowa w ust. 2, podmiot składający wniosek udostępnia do publicznej wiadomości, w trybie określonym w art. 56 ust. 1 pkt 2, a także na stronie internetowej spółki prowadzącej rynek regulowany, na którym papiery wartościowe mają być dopuszczone do obrotu, dane emitenta papierów wartościowych objętych wnioskiem, obejmujące firmę (nazwę), siedzibę i adres, wskazanie państwa macierzystego tego emitenta w rozumieniu art. 55a oraz miejsca, w którym dostępne są informacje regulowane w rozumieniu art. 2 lit. l rozporządzenia 2017/1129, do przekazywania których jest obowiązany ten emitent.
+kwitach depozytowych - rozumie się przez to kwity depozytowe w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-6. Podmiot składający wniosek, o którym mowa w ust. 2, przekazuje informacje regulowane w rozumieniu art. 2 lit. l rozporządzenia 2017/1129, do ujawniania których obowiązany jest emitent, w trybie określonym w art. 56 ust. 1 pkt 2, niezwłocznie po podaniu takich informacji przez emitenta, a także przekazuje je do systemu gromadzenia informacji prowadzonego zgodnie z art. 56 ust. 1a.
+### 12)
 
-7. Podmiot składający wniosek, o którym mowa w ust. 2, przekazuje informacje, o których mowa w ust. 6, w języku polskim lub angielskim.
+subemitencie inwestycyjnym - rozumie się przez to podmiot będący stroną zawartej z emitentem albo wprowadzającym umowy, w której podmiot ten zobowiązuje się do nabycia, na własny rachunek, całości lub części papierów wartościowych oferowanych w obrocie pierwotnym lub w pierwszej ofercie publicznej, na które nie złożono zapisów w terminie ich przyjmowania;
 
-8. Papiery wartościowe dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej bez zgody ich emitenta mogą być przedmiotem obrotu na tym rynku, dopóki są przedmiotem obrotu na innym rynku regulowanym, na którym zostały dopuszczone do obrotu na wniosek ich emitenta.
+### 13)
 
-9. W przypadku gdy akcje, które zostały dopuszczone do obrotu na rynku regulowanym bez zgody ich emitenta, przestaną być przedmiotem obrotu na innym rynku regulowanym, na którym zostały dopuszczone do obrotu na wniosek ich emitenta, podmiot, o którym mowa w ust. 2, obowiązany jest do ogłoszenia wezwania do zapisywania się na sprzedaż akcji emitenta, które zostały nabyte w wyniku transakcji zawartych w obrocie na rynku regulowanym na terytorium Rzeczypospolitej Polskiej i są zapisane na rachunkach papierów wartościowych prowadzonych na tym terytorium, według stanu na koniec drugiego dnia od dnia ogłoszenia tego wezwania. Do wezwania przepisy art. 77–77h i art. 79–79f stosuje się odpowiednio.
+subemitencie usługowym - rozumie się przez to podmiot będący stroną zawartej z emitentem albo wprowadzającym umowy, w której podmiot ten zobowiązuje się do nabycia, na własny rachunek, całości lub części papierów wartościowych danej emisji, oferowanych wyłącznie temu podmiotowi, w celu dalszego ich zbywania w obrocie pierwotnym lub w pierwszej ofercie publicznej;
 
-10. Wezwanie, o którym mowa w ust. 9, ogłasza się w terminie miesiąca od dnia, w którym akcje, które zostały dopuszczone do obrotu na rynku regulowanym bez zgody emitenta, przestaną być dopuszczone do obrotu na innym rynku regulowanym, na którym zostały dopuszczone do obrotu na wniosek ich emitenta.
+### 14)
 
-**Art. 12.** (uchylony)
+podmiocie dominującym - rozumie się przez to podmiot w sytuacji, gdy:
 
-**Art. 13.** (uchylony)
+### a)
 
-**Art. 14.** (uchylony)
+posiada bezpośrednio lub pośrednio przez inne podmioty większość głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami, lub
 
-**Art. 14a.**
+### b)
 
-1. Umowa o gwarancję emisji zawarta przez emitenta, w której gwarant emisji zobowiązuje się do nabycia, na własny rachunek, całości albo części papierów wartościowych danej emisji oferowanych wyłącznie temu podmiotowi w celu dalszego ich zbywania w ofercie publicznej, powinna przewidywać możliwość zbywania przez gwaranta emisji przysługującego mu prawa do objęcia papierów wartościowych. Zbycie tego prawa przez gwaranta emisji uważa się za obrót pierwotny. Zbywanie papierów wartościowych w wykonaniu takiej umowy następuje za pośrednictwem firmy inwestycyjnej.
+jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających innego podmiotu, lub
 
-2. Umowa o gwarancję emisji zawarta przez oferującego, w której gwarant emisji zobowiązuje się do nabycia, na własny rachunek, całości albo części papierów wartościowych danej emisji oferowanych wyłącznie temu podmiotowi w celu dalszego ich zbywania w ofercie publicznej, powinna przewidywać możliwość zbywania przez gwaranta emisji papierów wartościowych nabytych od oferującego lub prawa do ich nabycia. Zbywanie papierów wartościowych w wykonaniu takiej umowy następuje za pośrednictwem firmy inwestycyjnej.
+### c)
 
-3. W przypadku, o którym mowa w ust. 1 lub 2, gwarantem emisji może być wyłącznie bank, firma inwestycyjna, zagraniczna firma inwestycyjna lub konsorcjum tych podmiotów. W przypadku konsorcjum gwarantów emisji za gwaranta emisji uważa się również każdy podmiot wchodzący w skład konsorcjum.
+więcej niż połowa członków zarządu drugiego podmiotu jest jednocześnie członkami zarządu, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z tym pierwszym w stosunku zależności;
 
-4. Dokonywanie obrotu, o którym mowa w ust. 1 i 2, na warunkach, o których mowa w tych przepisach, następuje w terminie ważności prospektu lub memorandum informacyjnego oraz w terminie i na warunkach w nich określonych.
+### 15)
 
-5. W przypadku umowy o gwarancję emisji, innej niż określona w ust. 1 i 2, gwarantem emisji może być wyłącznie bank, firma inwestycyjna, zagraniczna firma inwestycyjna, fundusz inwestycyjny, alternatywna spółka inwestycyjna zarządzana przez zarządzającego ASI w rozumieniu ustawy o funduszach inwestycyjnych prowadzącego działalność na podstawie zezwolenia, otwarty fundusz emerytalny, zakład ubezpieczeń, polska lub zagraniczna instytucja finansowa mająca siedzibę w państwie należącym do Organizacji Współpracy Gospodarczej i Rozwoju (OECD) lub konsorcjum tych podmiotów. W przypadku konsorcjum gwarantów emisji za gwaranta emisji uważa się również każdy podmiot wchodzący w skład konsorcjum.
+podmiocie zależnym - rozumie się przez to podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym wszystkie podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
 
-**Art. 15.** (uchylony)
+### 16)
 
-**Art. 15a.**
+grupie kapitałowej - rozumie się przez to podmiot dominujący wraz z podmiotami od niego zależnymi;
 
-1. W przypadku, o którym mowa w art. 5 ust. 1 rozporządzenia 2017/1129, pośrednikiem finansowym może być wyłącznie bank, instytucja kredytowa, firma inwestycyjna, zagraniczna firma inwestycyjna lub konsorcjum tych podmiotów (uczestnicy oferty kaskadowej).
+### 17)
 
-2. Dokonywanie oferty publicznej przez uczestnika oferty kaskadowej następuje w terminach i na warunkach przez niego określonych.
+ogólnej liczbie głosów - rozumie się przez to sumę głosów przypadających na wszystkie akcje spółki;
 
-3. Uczestnik oferty kaskadowej dokonujący oferty publicznej udostępnia do publicznej wiadomości, w sposób określony w art. 21 ust. 2 rozporządzenia 2017/1129, informację o jej terminach i warunkach, wraz z oświadczeniem o prawdziwości, rzetelności i kompletności tych informacji.
+### 18)
 
-4. Uczestnik oferty kaskadowej przekazuje Komisji informacje, o których mowa w ust. 3, nie później niż na 1 dzień roboczy przed dniem ich udostępnienia do publicznej wiadomości.
+depozycie papierów wartościowych - rozumie się przez to depozyt papierów wartościowych w rozumieniu ustawy o obrocie instrumentami finansowymi;
 
-**Art. 15b.**
+### 19)
 
-1. W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów art. 22 ust. 2–4 rozporządzenia 2017/1129 przez emitenta, oferującego, podmiot, o którym mowa w art. 11a ust. 2, lub inne podmioty działające w ich imieniu lub na ich zlecenie, albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, Komisja może:
+rachunku papierów wartościowych - rozumie się przez to rachunek papierów wartościowych w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-- **1)** nakazać wstrzymanie rozpoczęcia prowadzenia reklamy lub przerwanie jej prowadzenia na okres nie dłuższy niż 10 dni roboczych, wskazując nieprawidłowości, które należy usunąć w tym okresie, lub
-- **2)** zakazać udostępniania określonych informacji albo dalszego ich udostępniania, w szczególności w przypadku gdy wskazane przez Komisję nieprawidłowości nie zostały usunięte w terminie określonym w pkt 1, lub
-- **3)** opublikować, na koszt emitenta, oferującego lub podmiotu, o którym mowa w art. 11a ust. 2, informację o niezgodnym z prawem rozpowszechnianiu reklamy, wskazując naruszenia prawa.
+### 20)
 
-2. W związku z udostępnianiem informacji, o których mowa w ust. 1 pkt 2, Komisja może wielokrotnie zastosować środki przewidziane w ust. 1.
+spółce publicznej - rozumie się przez to spółkę, w której co najmniej jedna akcja jest zdematerializowana w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-**Art. 16.**
+### 21)
 
-1. W przypadku naruszenia przepisów prawa w związku z ofertą publiczną, subskrypcją lub sprzedażą, dokonywanymi na podstawie tej oferty na terytorium Rzeczypospolitej Polskiej, przez emitenta, oferującego lub inne podmioty uczestniczące w tej ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub oferującego lub uzasadnionego podejrzenia takiego naruszenia albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, albo w przypadku niewykonania zaleceń, o których mowa w ust. 2, Komisja może:
+państwie członkowskim - rozumie się przez to państwo, które jest członkiem Unii Europejskiej lub stroną umowy o Europejskim Obszarze Gospodarczym;
 
-- **1)** nakazać wstrzymanie rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo przerwanie jej przebiegu, na okres nie dłuższy niż 10 dni roboczych, lub
-- **2)** zakazać rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo dalszego jej prowadzenia, lub
-- **3)** opublikować, na koszt emitenta lub oferującego informację o niezgodnym z prawem działaniu w związku z ofertą publiczną, subskrypcją lub sprzedażą.
+### 22)
 
-2. W przypadku gdy waga naruszenia przepisów prawa w związku z ofertą publiczną, subskrypcją lub sprzedażą, dokonywanymi na podstawie tej oferty na terytorium Rzeczypospolitej Polskiej przez emitenta, oferującego lub inne podmioty uczestniczące w tej ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub oferującego jest niewielka, Komisja może wydać zalecenie zaprzestania naruszania tych przepisów. Po wydaniu zalecenia emitent lub oferujący powstrzymuje się od rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo przerywa jej przebieg, do czasu usunięcia wskazanych w zaleceniu naruszeń, jeżeli jest to konieczne do usunięcia tych naruszeń.
+firmie inwestycyjnej - rozumie się przez to firmę inwestycyjną w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi;
 
-3. W związku z daną ofertą publiczną, subskrypcją lub sprzedażą Komisja może wielokrotnie zastosować środki przewidziane w ust. 1 i 2.
+### 23)
 
-**Art. 17.**
+Komisji - rozumie się przez to Komisję Papierów Wartościowych i Giełd, o której mowa w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym ([Dz. U. Nr 183, poz. 1537](https://api.sejm.gov.pl/eli/acts/DU/2005/1537/text.html));
 
-1. W przypadku naruszenia przepisów prawa w związku z ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej przez emitenta, podmiot, o którym mowa w art. 11a ust. 2, lub podmioty występujące w ich imieniu lub na ich zlecenie, lub uzasadnionego podejrzenia takiego naruszenia albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, albo w przypadku niewykonania zaleceń, o których mowa w ust. 2, Komisja może:
+### 24)
 
-- **1)** nakazać wstrzymanie ubiegania się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym, na okres nie dłuższy niż 10 dni roboczych, lub
-- **2)** zakazać ubiegania się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym, lub
-- **3)** opublikować, na koszt emitenta lub podmiotu, o którym mowa w art. 11a ust. 2, informację o niezgodnym z prawem działaniu w związku z ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym.
+Przewodniczącym Komisji - rozumie się przez to Przewodniczącego Komisji, o którym mowa w ustawie z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym;
 
-2. W przypadku gdy waga naruszenia przepisów prawa w związku z ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej przez emitenta, podmiot, o którym mowa w art. 11a ust. 2, lub podmioty występujące w ich imieniu lub na ich zlecenie jest niewielka, Komisja może wydać zalecenie zaprzestania naruszania tych przepisów. Po wydaniu zalecenia emitent lub podmiot, o którym mowa w art. 11a ust. 2, powstrzymują się od ubiegania się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym, do czasu usunięcia wskazanych w zaleceniu naruszeń, jeżeli jest to konieczne do usunięcia tych naruszeń.
+### 25)
 
-3. W związku z danym ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym Komisja może wielokrotnie zastosować środki przewidziane w ust. 1 i 2.
+rozporządzeniu 809/2004 - rozumie się przez to rozporządzenie Komisji (WE) nr 809/2004 z dnia 29 kwietnia 2004 r. w sprawie implementacji dyrektywy 2003/71/WE Parlamentu Europejskiego i Rady odnośnie informacji zamieszczanych w prospekcie emisyjnym, formy prospektu emisyjnego, zamieszczania informacji poprzez odwołania, publikacji prospektu emisyjnego oraz rozpowszechniania informacji o charakterze reklamowym ([Dz. Urz. UE L 149 z 30.04.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-**Art. 17a.**
+### Art. 5.
 
-1. W przypadku uzasadnionego podejrzenia naruszenia przepisów niniejszego rozdziału, rozdziału 1 lub przepisów rozporządzenia 2017/1129 w związku z:
+Objęcie papierów wartościowych w obrocie pierwotnym lub w pierwszej ofercie publicznej uważa się za nabycie papierów wartościowych w rozumieniu przepisów ustawy.
 
-- **1)** ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej przez emitenta, podmiot, o którym mowa w art. 11a ust. 2, lub podmioty występujące w ich imieniu lub na ich zlecenie,
-- **2)** ofertą publiczną, subskrypcją lub sprzedażą, dokonywanymi na podstawie tej oferty na terytorium Rzeczypospolitej Polskiej przez emitenta, oferującego lub inne podmioty uczestniczące w tej ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub oferującego – Komisja może zażądać od podmiotu prowadzącego system obrotu instrumentami finansowymi zawieszenia obrotu papierami wartościowymi danego emitenta na okres umożliwiający emitentowi, oferującemu lub podmiotowi, o którym mowa w art. 11a ust. 2, przedstawienie stanowiska co do takiego podejrzenia, nie dłuższy jednak niż 10 dni roboczych.
+### Art. 6.
 
-2. Komisja uchyla decyzję zawierającą żądanie, o którym mowa w ust. 1, przed upływem terminu, o którym mowa w ust. 1, jeżeli po przedstawieniu stanowiska przez emitenta, oferującego lub podmiot, o którym mowa w art. 11a ust. 2, stwierdzi, że nie zachodzą przesłanki, o których mowa w ust. 1.
+### 1.
 
-**Art. 17b.**
+Oświadczenia woli w związku z dokonywaniem czynności dotyczących oferty publicznej lub innych czynności dokonywanych w ramach działalności podmiotów w zakresie regulowanym ustawą mogą być składane w postaci elektronicznej, jeżeli strony w umowie tak postanowiły.
 
-1. W przypadku naruszenia przepisów niniejszego rozdziału, rozdziału 1 lub przepisów rozporządzenia 2017/1129 w związku z:
+### 2.
 
-- **1)** ubieganiem się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej przez emitenta, podmiot, o którym mowa w art. 11a ust. 2, lub podmioty występujące w ich imieniu lub na ich zlecenie,
-- **2)** ofertą publiczną, subskrypcją lub sprzedażą, dokonywanymi na podstawie tej oferty na terytorium Rzeczypospolitej Polskiej przez emitenta, oferującego lub inne podmioty uczestniczące w tej ofercie, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub oferującego – Komisja może zażądać od podmiotu prowadzącego system obrotu instrumentami finansowymi zawieszenia obrotu papierami wartościowymi danego emitenta.
+Dokumenty związane z czynnościami, o których mowa w ust. 1, mogą być sporządzane na nośnikach elektronicznych, jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przekazane, przechowywane i zabezpieczone.
 
-2. W żądaniu, o którym mowa w ust. 1, Komisja może wskazać termin, do którego zawieszenie obrotu obowiązuje. Termin ten może ulec przedłużeniu, jeżeli zachodzą uzasadnione obawy, że w dniu jego upływu będą zachodziły przesłanki, o których mowa w ust. 1.
+### 3.
 
-3. Komisja niezwłocznie uchyla decyzję zawierającą żądanie, o którym mowa w ust. 1, w przypadku stwierdzenia, że nie zachodzą przesłanki, o których mowa w ust. 1.
+Oświadczenie woli złożone w postaci elektronicznej, zawarte w dokumencie, o którym mowa w ust. 2, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
 
-**Art. 18.**
+### 4.
 
-1. Komisja może zastosować środki, o których mowa w art. 16 ust. 1 lub art. 17 ust. 1, także w przypadku gdy:
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, zasady tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania dokumentów, o których mowa w ust. 2, tak, aby zapewnić bezpieczeństwo obrotu oraz ochronę interesów inwestorów.
 
-- **1)** oferta publiczna, subskrypcja lub sprzedaż papierów wartościowych, dokonywane na podstawie tej oferty, lub ich dopuszczenie lub wprowadzenie do obrotu na rynku regulowanym w znaczący sposób naruszałyby interesy inwestorów;
-- **2)** istnieją przesłanki, które w świetle przepisów prawa mogą prowadzić do ustania bytu prawnego emitenta;
-- **3)** działalność emitenta była lub jest prowadzona z rażącym naruszeniem przepisów prawa, które to naruszenie może mieć istotny wpływ na ocenę papierów wartościowych emitenta lub też w świetle przepisów prawa może prowadzić do ustania bytu prawnego lub upadłości emitenta, lub
-- **4)** status prawny papierów wartościowych jest niezgodny z przepisami prawa, i w świetle tych przepisów istnieje ryzyko uznania tych papierów wartościowych za nieistniejące lub obarczone wadą prawną mającą istotny wpływ na ich ocenę.
+### Rozdział 2 Postępowanie z dokumentami informacyjnymi związanymi z ofertą publiczną lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym
 
-1a. W przypadkach, o których mowa w ust. 1, Komisja może zastosować środki, o których mowa w art. 16 ust. 1 lub art. 17 ust. 1, wielokrotnie.
+### Oddział 1 Przepisy wspólne
 
-2. (uchylony)
+### Art. 7.
 
-**Art. 18a.**
+### 1.
 
-1. Decyzja o zastosowaniu środków, o których mowa w art. 16 ust. 1, art. 17 ust. 1, art. 17a ust. 1 oraz art. 17b ust. 1, podlega natychmiastowemu wykonaniu. Uzasadnienie doręcza się w terminie 14 dni od dnia doręczenia decyzji. Termin na złożenie wniosku o ponowne rozpatrzenie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
+Oferta publiczna lub dopuszczenie papierów wartościowych do obrotu na rynku regulowanym wymaga sporządzenia prospektu emisyjnego, zatwierdzenia go przez Komisję oraz udostępnienia go do publicznej wiadomości, z zastrzeżeniem ust. 2-5.
 
-2. W przypadku gdy oferta publiczna, subskrypcja lub sprzedaż dokonywane na podstawie tej oferty są przeprowadzane za pośrednictwem firmy inwestycyjnej, postanowienie o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 15b–18, i decyzję o ich zastosowaniu doręcza się tej firmie inwestycyjnej. W przypadku pośrednictwa więcej niż jednej firmy inwestycyjnej postanowienie o wszczęciu postępowania i decyzję doręcza się tylko jednej z nich. Doręczenie firmie inwestycyjnej uważa się za doręczenie stronie. W przypadku braku pośrednictwa firmy inwestycyjnej doręczenie postanowienia o wszczęciu postępowania i decyzji następuje także przez ich opublikowanie na stronie internetowej Komisji i jest skuteczne z dniem publikacji.
+### 2.
 
-3. Niezwłocznie po wydaniu postanowienia o wszczęciu postępowania w sprawie zastosowania środków, o których mowa w art. 15b–18, komunikat o jego wszczęciu zamieszcza się na stronie internetowej Komisji.
+Sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 41-43, nie jest wymagane w przypadku oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym:
 
-4. Niezwłocznie po wydaniu decyzji o zastosowaniu środków, o których mowa w art. 15b–18, komunikat o ich zastosowaniu zamieszcza się na stronie internetowej Komisji.
+### 1)
 
-**Art. 19.** (uchylony)
+papierów wartościowych o charakterze nieudziałowym emitowanych przez Skarb Państwa lub Narodowy Bank Polski;
 
-**Art. 19a.** W przypadku ustania przyczyn wydania decyzji, o której mowa w art. 15b ust. 1 pkt 1 lub 2, art. 16 ust. 1 pkt 1 lub 2, art. 17 ust. 1 pkt 1 lub 2 lub art. 18, Komisja może, na wniosek emitenta, oferującego lub podmiotu, o którym mowa w art. 11a ust. 2, albo z urzędu, uchylić tę decyzję.
+### 2)
 
-**Art. 19b.**
+papierów wartościowych o charakterze nieudziałowym emitowanych przez państwo członkowskie inne niż Rzeczpospolita Polska, jednostki władz regionalnych lub lokalnych państwa członkowskiego, w tym jednostki samorządu terytorialnego, bank centralny państwa członkowskiego. Europejski Bank Centralny lub międzynarodowe instytucje publiczne, których członkiem jest co najmniej jedno państwo członkowskie;
 
-1. Komisja przekazuje do publicznej wiadomości istotne informacje, które mogą mieć wpływ na ocenę papierów wartościowych będących przedmiotem oferty publicznej lub ubiegania się o dopuszczenie do obrotu na rynku regulowanym, aby zapewnić inwestorom ochronę lub zapewnić prawidłowe działanie rynku.
+### 3)
 
-2. Komisja może również wydać w stosunku do emitenta, oferującego lub podmiotu, o którym mowa w art. 11a ust. 2, zalecenia przekazania do publicznej wiadomości przez te podmioty informacji, o których mowa w ust. 1.
+papierów wartościowych gwarantowanych bezwarunkowo i nieodwołalnie przez Skarb Państwa, państwo członkowskie, jednostki władz regionalnych lub lokalnych państwa członkowskiego, w tym jednostki samorządu terytorialnego;
 
-**Art. 19c.** W przypadku gdy wymaga tego nadzór nad ofertą publiczną lub dopuszczeniem do obrotu papierów wartościowych na rynku regulowanym, Komisja może żądać informacji i wyjaśnień w formie ustnej lub pisemnej, a także przedstawienia dokumentów lub nośników informacji, na koszt emitenta, odpowiednio od:
+### 4)
 
-**Art. 20.** Emitenci papierów wartościowych dopuszczonych do obrotu na rynku regulowanym są obowiązani zapewnić posiadaczom papierów tego samego rodzaju, w takich samych okolicznościach, jednakowe traktowanie. Nie wyłącza to możliwości przeprowadzania przez emitenta, zgodnie z przepisami prawa jego siedziby, wcześniejszego wykupu dłużnych papierów wartościowych, w przypadku konieczności odstąpienia od wcześniejszych warunków emisji ze względów społecznych.
+akcji banku centralnego państwa członkowskiego;
 
-##### Oddział 2 Zatwierdzenie i termin ważności prospektu
+### 5)
 
-**Art. 21.** (uchylony)
+papierów wartościowych emitowanych przez podmioty, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. Nr 96, poz. 873](https://api.sejm.gov.pl/eli/acts/DU/2003/873/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135 oraz z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420 i Nr 175, poz. 1462.](#gloss-0:3:)), prowadzące działalność statutową w zakresie wskazanym w art. 4 tej ustawy, lub podmioty o podobnym charakterze z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska - jeżeli środki z emisji będą przeznaczone wyłącznie na realizację celów statutowych;
 
-**Art. 22.**
+### 6)
 
-1. (uchylony)
+papierów wartościowych o charakterze nieudziałowym, emitowanych w sposób ciągły lub powtarzający się w cyklach obejmujących co najmniej dwie emisje dokonywane w odstępie nie dłuższym niż 12 miesięcy przez instytucję kredytową z siedzibą w państwie członkowskim, które nie są podporządkowane, zamienne lub wymienne, nie inkorporują prawa do subskrybowania lub nabycia innego rodzaju papierów wartościowych oraz nie stanowią podstawy dla papierów wartościowych w rozumieniu art. 3 pkt 1 lit. b ustawy o obrocie instrumentami finansowymi, jeżeli łączna wartość emisji tych papierów, w okresie kolejnych 12 miesięcy, liczona według ceny emisyjnej, stanowi mniej niż 50 000 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia ceny emisyjnej tych papierów;
 
-2. (uchylony)
+### 7)
 
-3. (uchylony)
+niezamiennych udziałów w kapitale, których głównym celem jest zapewnienie ich posiadaczowi prawa do użytkowania mieszkania lub innej formy nieruchomości lub jej części, w przypadku gdy takie udziały nie mogą być zbyte bez zrzeczenia się tego prawa.
 
-4. Podmiotem odpowiedzialnym za zgodność ze stanem faktycznym informacji zawartych w prospekcie lub suplemencie do prospektu w rozumieniu art. 23 rozporządzenia 2017/1129 oraz za to, że prospekt lub suplement do niego nie pomija niczego, co mogłoby wpływać na znaczenie prospektu, w szczególności że zawarte w tych dokumentach informacje są prawdziwe, rzetelne i kompletne, jest:
+### 3.
 
-- **1)** emitent – za wszystkie informacje;
-- **2)** oferujący – za informacje o oferującym oraz dokonywanej przez niego sprzedaży papierów wartościowych, a w przypadku gdy oferujący jest wobec emitenta podmiotem dominującym lub wywierającym na emitenta znaczny wpływ w rozumieniu art. 96 ust. 3 ustawy o obrocie instrumentami finansowymi – za wszystkie informacje;
-- **2a)** podmiot, o którym mowa w art. 11a ust. 2 – za informację, którą sporządził;
-- **3)** podmiot udzielający zabezpieczenia wierzytelności wynikających z papieru wartościowego mającego być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym – za informacje o tym podmiocie oraz o ustanowionym zabezpieczeniu, a w przypadku gdy ten podmiot jest wobec emitenta podmiotem dominującym lub wywierającym na emitenta znaczny wpływ w rozumieniu art. 96 ust. 3 ustawy o obrocie instrumentami finansowymi – za wszystkie informacje;
-- **4)** gwarant emisji – za informacje o gwarancie emisji oraz dokonywanej przez niego subskrypcji lub sprzedaży papierów wartościowych, w przypadku gdy w umowie o gwarancję emisji zawartej przez emitenta lub oferującego gwarant emisji zobowiązuje się do nabycia, na własny rachunek, całości albo części papierów wartościowych danej emisji, oferowanych wyłącznie temu podmiotowi, w celu dalszego ich zbywania w ofercie publicznej;
-- **5)** podmiot sporządzający lub biorący udział w sporządzeniu informacji – za informację, którą sporządził lub w której sporządzeniu brał udział.
+Sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 38-43, nie jest wymagane w przypadku oferty publicznej:
 
-5. Prospekt powinien zawierać wskazanie osób odpowiedzialnych, o których mowa w ust. 4, z podaniem ich imienia, nazwiska oraz funkcji, a w przypadku osób prawnych – firmy (nazwy) i siedziby, wraz z oświadczeniem tych osób, że zgodnie z ich najlepszą wiedzą zawarte w prospekcie informacje są zgodne ze stanem faktycznym i prospekt nie pomija niczego, co mogłoby wpływać na jego znaczenie, a w szczególności, że zawarte w nim informacje są prawdziwe, rzetelne i kompletne. W imieniu podmiotu, o którym mowa w ust. 4 pkt 1, oświadczenie może złożyć wyłącznie członek organu zarządzającego tego podmiotu zgodnie z obowiązującymi go zasadami reprezentacji.
+### 1)
 
-6. W przypadku gdy informacje zawarte w uniwersalnym dokumencie rejestracyjnym, o którym mowa w art. 9 ust. 1 rozporządzenia 2017/1129, zawierają informacje wynikające z rocznego sprawozdania finansowego emitenta lub rocznego skonsolidowanego sprawozdania finansowego emitenta albo półrocznego sprawozdania finansowego emitenta lub półrocznego skonsolidowanego sprawozdania finansowego emitenta, podmiotem odpowiedzialnym za prawdziwość, rzetelność i kompletność tych informacji jest emitent.
+kierowanej wyłącznie do inwestorów kwalifikowanych;
 
-**Art. 22a.** (uchylony)
+### 2)
 
-**Art. 23.** (uchylony)
+kierowanej wyłącznie do inwestorów, z których każdy nabywa papiery wartościowe o wartości, liczonej według ich ceny emisyjnej lub ceny sprzedaży, co najmniej 50 000 euro lub równowartości tej kwoty w złotych, ustalonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia tej ceny;
 
-**Art. 24.** (uchylony)
+### 3)
 
-**Art. 25.** (uchylony)
+dotyczącej papierów wartościowych, których jednostkowa wartość nominalna wynosi nie mniej niż 50 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia wartości nominalnej tych papierów wartościowych;
 
-**Art. 26.**
+### 4)
 
-1. W przypadku emitenta z siedzibą na terytorium Rzeczypospolitej Polskiej, dla którego właściwe są polskie zasady rachunkowości, który zamierza ubiegać się lub ubiega się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, prospekt – w odniesieniu do informacji wykazywanych w sprawozdaniach finansowych i skonsolidowanych sprawozdaniach finansowych – zawiera informacje w zakresie określonym w przepisach wydanych na podstawie art. 55 pkt 3.
+dotyczącej papierów wartościowych, których całkowita wartość, liczona według ich ceny emisyjnej lub ceny sprzedaży, nie przekracza w okresie kolejnych 12 miesięcy wartości 100 000 euro lub równowartości tej kwoty w złotych, ustalonej w sposób określony w pkt 2;
 
-2. (uchylony)
+### 5)
 
-**Art. 26a.** (uchylony)
+obejmującej wyłącznie:
 
-**Art. 27.**
+### a)
 
-1. W celu uzyskania zatwierdzenia prospektu emitent lub oferujący składa do Komisji wniosek zawierający:
+wydawanie papierów wartościowych akcjonariuszom spółki przejmowanej w związku z przejmowaniem przez emitenta innej spółki,
 
-- **1)** firmę (nazwę) i siedzibę emitenta;
-- **1a)** firmę (nazwę) i siedzibę oferującego, a w przypadku osoby fizycznej – imię, nazwisko i adres miejsca zamieszkania;
-- **2)** określenie rodzaju i oznaczenia papierów wartościowych objętych prospektem;
-- **3)** oznaczenie firmy inwestycyjnej, która będzie pośredniczyć w ofercie papierów wartościowych objętych wnioskiem;
-- **4)** numer telefonu, numer telefaksu i adres poczty elektronicznej emitenta i oferującego lub ustanowionego w sprawie pełnomocnika emitenta lub oferującego.
+### b)
 
-1a. W przypadku gdy prospekt załączony do wniosku o jego zatwierdzenie nie zawiera informacji wymaganych przepisami rozporządzenia 2017/1129, rozporządzenia delegowanego Komisji (UE) 2019/980 z dnia 14 marca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 w odniesieniu do formatu, treści, weryfikacji i zatwierdzania prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym, i uchylającego rozporządzenie Komisji (WE) nr 809/2004 (Dz. Urz. UE L 166 z 21.06.2019, str. 26, z późn. zm. ) oraz rozporządzenia delegowanego Komisji 2019/979 z dnia 14 marca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 w odniesieniu do regulacyjnych standardów technicznych dotyczących kluczowych informacji finansowych w podsumowaniu prospektu, publikacji i klasyfikacji prospektów, reklam papierów wartościowych, suplementów do prospektu i portalu zgłoszeniowego oraz uchylającego rozporządzenie delegowane Komisji (UE) nr 382/2014 i rozporządzenie delegowane Komisji (UE) 2016/301 (Dz. Urz. UE L 166 z 21.06.2019, str. 1, z późn. zm. ), w szczególności gdy w prospekcie nie zostały zamieszczone wymagane tymi przepisami informacje finansowe, w tym sprawozdania finansowe, a także odpowiednio sprawozdanie biegłego rewidenta z ich badania lub raport z przeglądu, Komisja, wskazując brakujące informacje, wzywa do złożenia uzupełnionego prospektu w wyznaczonym terminie, nie krótszym niż siedem dni, z pouczeniem, że nieuzupełnienie tych braków spowoduje pozostawienie wniosku bez rozpoznania.
+wydawanie papierów wartościowych akcjonariuszom spółki łączącej się z emitentem w związku z łączeniem się emitenta z inną spółką,
 
-2. Do wniosku załącza się:
+### c)
 
-- **1)** prospekt sporządzony w języku polskim, a w przypadku gdy oferta publiczna lub dopuszczenie do obrotu na rynku regulowanym ma mieć miejsce wyłącznie w państwie członkowskim innym niż Rzeczpospolita Polska – w języku polskim albo angielskim, według wyboru emitenta lub oferującego;
-- **2)** statut lub inny akt przewidziany przepisami prawa państwa siedziby emitenta dotyczący jego działalności i organizacji;
-- **2a)** odpis z właściwego dla emitenta rejestru, w którym jest zarejestrowany zgodnie z przepisami prawa państwa jego siedziby;
-- **3)** uchwałę właściwego organu stanowiącego emitenta o emisji papierów wartościowych objętych prospektem;
-- **3a)** uchwałę walnego zgromadzenia spółki w sprawie ubiegania się o dopuszczenie akcji objętych prospektem do obrotu na rynku regulowanym – w przypadku spółki, której akcje nie są dopuszczone do obrotu na rynku regulowanym, a w przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej – uchwałę właściwego organu stanowiącego tego emitenta.
-- **3b)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony) 2a. Decyzja uwzględniająca w całości żądanie strony podlega natychmiastowemu wykonaniu i nie przysługuje w jej przypadku wniosek o ponowne rozpatrzenie sprawy.
+proponowanie nabycia lub wydawanie akcji:
 
-2b. W sprawach nieuregulowanych w przepisach ustawy, rozporządzenia 2017/1129 lub aktów delegowanych lub wykonawczych wydanych na podstawie rozporządzenia 2017/1129 do postępowania w sprawie zatwierdzenia prospektu przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) stosuje się odpowiednio, z wyjątkiem art. 10, art. 31, art. 61 § 4, art. 78–79a, art. 81 i art. 81a.
+- - bezpłatnie akcjonariuszom (ze środków spółki) albo
 
-2c. Postępowanie w sprawie zatwierdzenia prospektu może być zawieszone z urzędu, w przypadku gdy zostały wprowadzone zakaz lub ograniczenie, o których mowa w art. 42 rozporządzenia 600/2014, do dnia wygaśnięcia tego zakazu lub ograniczenia.
+- - jako wypłatę dywidendy z akcji, przy czym wydawane akcje są tego samego rodzaju co akcje, z których wypłacana jest dywidenda,
 
-2d. W przypadku, o którym mowa w ust. 2c, Komisja może również nakazać wstrzymanie rozpoczęcia oferty publicznej, subskrypcji lub sprzedaży albo przerwanie jej przebiegu, albo nakazać wstrzymanie ubiegania się o dopuszczenie lub wprowadzenie papierów wartościowych do obrotu na rynku regulowanym.
+### d)
 
-3. (uchylony)
+proponowanie nabycia lub wydawanie papierów wartościowych emitenta, którego papiery wartościowe są dopuszczone do obrotu na rynku regulowanym, przez emitenta lub przez jednostkę powiązaną w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2002 r. Nr 76, poz. 694](https://api.sejm.gov.pl/eli/acts/DU/2002/694/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66.](#gloss-0:4:)), aktualnym lub byłym osobom zarządzającym lub pracownikom tego emitenta lub tej jednostki powiązanej,
 
-4. (uchylony)
+### e)
 
-**Art. 28.** (uchylony)
+wydawanie akcji akcjonariuszom w związku z wymianą akcji istniejących, takiego samego rodzaju co akcje podlegające wymianie, jeżeli nie powoduje to podwyższenia kapitału zakładowego emitenta;
 
-**Art. 29.**
+### 6)
 
-1. W celu uzyskania zatwierdzenia dokumentu rejestracyjnego lub uniwersalnego dokumentu rejestracyjnego, o którym mowa w art. 9 ust. 1 rozporządzenia 2017/1129, emitent lub oferujący składa do Komisji odpowiednio dokument rejestracyjny lub uniwersalny dokument rejestracyjny wraz z wnioskiem o jego zatwierdzenie, zawierającym informacje określone w art. 27 ust. 1 pkt 1 i 4. Do wniosku załącza się dokumenty, o których mowa w art. 27 ust. 2 pkt 2 i 2a.
+papierów wartościowych, jeżeli łączna wartość ich emisji w okresie kolejnych 12 miesięcy, liczona według ceny emisyjnej, stanowi mniej niż 2 500 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski na dzień ustalenia ceny emisyjnej tych papierów.
 
-2. Przepisy art. 27 ust. 1a, 2a i 2c, art. 31 oraz art. 33 stosuje się odpowiednio.
+### 4.
 
-3. W sprawach nieuregulowanych w przepisach ustawy, rozporządzenia 2017/1129 lub aktów delegowanych lub wykonawczych wydanych na podstawie rozporządzenia 2017/1129 do postępowania w sprawie zatwierdzenia dokumentu rejestracyjnego lub uniwersalnego dokumentu rejestracyjnego, o którym mowa w art. 9 ust. 1 rozporządzenia 2017/1129, przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio, z wyjątkiem art. 10, art. 31, art. 61 § 4, art. 78–79a, art. 81 i art. 81a.
+Sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego, z zastrzeżeniem art. 38-40, nie jest wymagane w przypadku ubiegania się o dopuszczenie do obrotu na rynku regulowanym:
 
-**Art. 30.**
+### 1)
 
-1. W celu uzyskania zatwierdzenia dokumentu ofertowego i podsumowania, o których mowa odpowiednio w art. 6 ust. 3 i art. 7 rozporządzenia 2017/1129, emitent lub oferujący składa do Komisji dokument ofertowy i podsumowanie wraz z wnioskiem o ich zatwierdzenie, zawierającym informacje określone w art. 27 ust. 1. Do wniosku załącza się dokumenty, o których mowa w art. 27 ust. 2 pkt 2a–3a.
+akcji, które w okresie kolejnych 12 miesięcy stanowią mniej niż 10% wszystkich akcji emitenta tego samego rodzaju dopuszczonych do obrotu na tym samym rynku regulowanym;
 
-2. (uchylony)
+### 2)
 
-3. Przepisy art. 27 ust. 1a, 2a, 2c i 2d, art. 31 oraz art. 33 stosuje się odpowiednio.
+akcji wydanych w związku z wymianą akcji istniejących, takiego samego rodzaju co akcje podlegające wymianie dopuszczone do obrotu na tym samym rynku regulowanym, jeżeli nie spowodowało to podwyższenia kapitału zakładowego emitenta;
 
-4. W sprawach nieuregulowanych w przepisach ustawy, rozporządzenia 2017/1129 lub aktów delegowanych lub wykonawczych wydanych na podstawie rozporządzenia 2017/1129 do postępowania w sprawie zatwierdzenia dokumentu ofertowego i podsumowania, o których mowa odpowiednio w art. 6 ust. 3 i art. 7 rozporządzenia 2017/1129, przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio, z wyjątkiem art. 10, art. 31, art. 61 § 4, art. 78–79a, art. 81 i art. 81a.
+### 3)
 
-**Art. 31.** Stroną postępowania o zatwierdzenie prospektu może być wyłącznie emitent lub oferujący.
+akcji spółki, której inne akcje tego samego rodzaju są dopuszczone do obrotu na tym samym rynku regulowanym, jeżeli proponowanie nabycia lub wydanie tych akcji nastąpiło w celu realizacji uprawnień posiadaczy innych papierów wartościowych tej spółki;
 
-**Art. 32.**
+### 4)
 
-1. W przypadku gdy wymaga tego ochrona interesu inwestorów, Komisja może żądać od emitenta lub oferującego uzupełnienia informacji zamieszczonych w prospekcie.
+papierów wartościowych wydanych akcjonariuszom spółki przejmowanej w związku z przejmowaniem przez emitenta innej spółki;
 
-2. Żądanie, o którym mowa w ust. 1, Komisja przedkłada w terminach przewidzianych w rozporządzeniu 2017/1129 dla zatwierdzenia prospektu.
+### 5)
 
-3. (uchylony)
+papierów wartościowych wydanych akcjonariuszom spółki łączącej się z emitentem w związku z łączeniem się emitenta z inną spółką;
 
-4. (uchylony)
+### 6)
 
-**Art. 33.**
+akcji spółki, której inne akcje tego samego rodzaju są dopuszczone do obrotu na tym samym rynku regulowanym, a proponowanie ich nabycia lub wydanie nastąpiło:
 
-1. Zwolnienie z obowiązku zamieszczenia w prospekcie lub w suplemencie do prospektu informacji, o których mowa w art. 18 ust. 1 rozporządzenia 2017/1129, następuje w decyzji w sprawie zatwierdzenia prospektu lub suplementu do prospektu.
+### a)
 
-2. (uchylony)
+bezpłatnie akcjonariuszom (ze środków spółki) albo
 
-3. (uchylony)
+### b)
 
-4. Doręczenie decyzji w sprawie zatwierdzenia prospektu, która uwzględnia w całości żądanie strony, następuje także przez opublikowanie jej na stronie internetowej Komisji i jest skuteczne z dniem opublikowania.
+jako wypłata dywidendy z akcji, przy czym wydane akcje są tego samego rodzaju co akcje, z których wypłacana jest dywidenda;
 
-5. (uchylony)
+### 7)
 
-6. (uchylony)
+papierów wartościowych tego samego rodzaju co inne papiery tego emitenta dopuszczone do obrotu na tym samym rynku regulowanym, które były przedmiotem propozycji nabycia lub były wydawane przez emitenta lub przez jednostkę powiązaną, aktualnym lub byłym osobom zarządzającym lub pracownikom emitenta lub tej jednostki powiązanej;
 
-**Art. 34.** (uchylony)
+### 8)
 
-**Art. 35.** (uchylony)
+papierów wartościowych dopuszczonych do obrotu na innym rynku regulowanym, jeżeli:
 
-**Art. 35a.** W przypadku oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej jako przyjmującego państwa członkowskiego w rozumieniu art. 2 lit. n rozporządzenia 2017/1129 do publicznej wiadomości udostępnia się prospekt sporządzony w języku polskim albo angielskim albo przetłumaczony na jeden z tych języków, według wyboru emitenta lub oferującego, przy czym w przypadku udostępnienia prospektu w języku angielskim do publicznej wiadomości udostępnia się jednocześnie tłumaczenie podsumowania prospektu na język polski.
+### a)
 
-**Art. 36.** (uchylony)
+te papiery wartościowe lub tego samego rodzaju inne papiery wartościowe tego emitenta są od co najmniej 18 miesięcy dopuszczone do obrotu na tym innym rynku regulowanym, oraz
 
-**Art. 37.** (uchylony)
+### b)
 
-##### Oddział 2a Dokumenty informacyjne obowiązujące wyłącznie na terytorium Rzeczypospolitej Polskiej w przypadkach, w których prospekt nie jest wymagany zgodnie z przepisami rozporządzenia 2017/1129
+uzyskanie po raz pierwszy dopuszczenia tych papierów wartościowych lub innych papierów wartościowych tego samego rodzaju do obrotu na tym innym rynku regulowanym, które nastąpiło po dniu 31 grudnia 2003 r., było poprzedzone zatwierdzeniem prospektu emisyjnego i udostępnieniem go do publicznej wiadomości na zasadach zgodnych z przepisami niniejszego oddziału, oraz
 
-**Art. 37a.**
+### c)
 
-1. Oferta publiczna papierów wartościowych, w wyniku której zakładane wpływy brutto emitenta lub oferującego na terytorium Unii Europejskiej, liczone według ich ceny emisyjnej lub ceny sprzedaży z dnia jej ustalenia, stanowią nie mniej niż 100 000 euro i mniej niż 1 000 000 euro, i wraz z wpływami, które emitent lub oferujący zamierzał uzyskać z tytułu ofert publicznych takich papierów wartościowych, dokonanych w okresie poprzednich 12 miesięcy, nie będą mniejsze niż 100 000 euro i będą mniejsze niż 1 000 000 euro, wymaga udostępnienia do publicznej wiadomości dokumentu zawierającego informacje o tej ofercie.
+dokument informacyjny, udostępniony do publicznej wiadomości w związku z tym dopuszczeniem, które nastąpiło po dniu 1 lipca 1983 r. a przed dniem 31 grudnia 2003 r., został sporządzony i zatwierdzony zgodnie z postanowieniami obowiązującego w tym okresie prawa Unii Europejskiej, oraz
 
-2. Dokument, o którym mowa w ust. 1, jest sporządzany w języku polskim i zawiera co najmniej:
+### d)
 
-- **1)** podstawowe informacje o emitencie papierów wartościowych, w tym informacje finansowe, informacje o oferowanych papierach wartościowych oraz o warunkach i zasadach ich oferty;
-- **2)** podstawowe informacje o planowanym sposobie wykorzystania środków uzyskanych z emisji papierów wartościowych;
-- **3)** podstawowe informacje o istotnych czynnikach ryzyka;
-- **4)** oświadczenie emitenta o odpowiedzialności za informacje zawarte w tym dokumencie.
+emitent wypełnia obowiązki związane z dopuszczeniem do obrotu na tym innym rynku regulowanym.
 
-3. Oświadczenie emitenta, o którym mowa w ust. 2 pkt 4, zawiera stwierdzenie, że zgodnie z jego najlepszą wiedzą i przy dołożeniu należytej staranności informacje zawarte w dokumencie są prawdziwe, rzetelne i zgodne ze stanem faktycznym.
+### 5.
 
-4. Emitent lub oferujący zawiadamia Komisję o zamiarze przeprowadzenia oferty publicznej nie później niż na 7 dni roboczych przed dniem udostępnienia dokumentu, o którym mowa w ust. 1.
+W przypadku oferty publicznej lub ubiegania się o dopuszczenie do obrotu na rynku regulowanym papierów wartościowych, o których mowa w ust. 2 pkt 1-3, 6 i ust. 3 pkt 6, przepisy niniejszego oddziału stosuje się odpowiednio, jeżeli emitent lub wprowadzający tak postanowi.
 
-5. Emitent lub oferujący udostępnia dokument, o którym mowa w ust. 1, w sposób zapewniający należytą ochronę interesów inwestorów, a w przypadku oferty publicznej kierowanej do nieoznaczonego adresata udostępnienie następuje przez publikację na stronie internetowej emitenta, oferującego lub firmy inwestycyjnej pośredniczącej w ofercie publicznej tych papierów wartościowych.
+### Art. 8.
 
-**Art. 37b.**
+### 1.
 
-1. Udostępnienia do publicznej wiadomości prospektu, pod warunkiem udostępnienia memorandum informacyjnego, nie wymaga oferta publiczna papierów wartościowych, w wyniku której zakładane wpływy brutto emitenta lub oferującego na terytorium Unii Europejskiej, liczone według ich ceny emisyjnej lub ceny sprzedaży z dnia jej ustalenia, stanowią nie mniej niż 1 000 000 euro i mniej niż 5 000 000 euro, i wraz z wpływami, które emitent lub oferujący zamierzał uzyskać z tytułu ofert publicznych takich papierów wartościowych, dokonanych w okresie poprzednich 12 miesięcy, nie będą mniejsze niż 1 000 000 euro i będą mniejsze niż 5 000 000 euro.
+Inwestorem kwalifikowanym, o którym mowa w art. 7 ust. 3 pkt 1, jest:
 
-2. Memorandum informacyjne sporządza się w formie jednolitego dokumentu w języku polskim. Do memorandum informacyjnego stosuje się odpowiednio przepisy art. 19 rozporządzenia 2017/1129.
+### 1)
 
-3. Emitent lub oferujący ma obowiązek ustalenia terminu ważności memorandum informacyjnego, nie dłuższego niż 12 miesięcy od dnia jego udostępnienia.
+instytucja finansowa lub inna osoba prawna uprawniona, na podstawie właściwych przepisów prawa regulujących jej działalność, do działania na rynkach finansowych, w tym:
 
-3a. Emitent lub oferujący zawiadamia Komisję o zamiarze przeprowadzenia oferty publicznej nie później niż na 7 dni roboczych przed dniem udostępnienia memorandum informacyjnego.
+### a)
 
-4. Emitent lub oferujący udostępnia memorandum informacyjne najpóźniej w dniu rozpoczęcia zapisów lub subskrypcji papierów wartościowych stanowiących przedmiot oferty publicznej.
+dom maklerski, bank, zagraniczna firma inwestycyjna,
 
-5. Emitent lub oferujący udostępnia memorandum informacyjne w sposób zapewniający należytą ochronę interesów inwestorów, a w przypadku oferty publicznej kierowanej do nieoznaczonego adresata udostępnienie następuje przez publikację na stronie internetowej emitenta, oferującego lub firmy inwestycyjnej pośredniczącej w ofercie publicznej tych papierów wartościowych.
+### b)
 
-6. Nowy znaczący czynnik, istotny błąd lub istotna niedokładność odnoszące się do informacji zawartych w memorandum informacyjnym, które mogą wpłynąć na ocenę papierów wartościowych i które wystąpiły lub zostały zauważone w okresie między udostępnieniem memorandum informacyjnego a zakończeniem okresu oferowania papierów wartościowych, należy wskazać, bez zbędnej zwłoki, w suplemencie do memorandum informacyjnego. Emitent lub oferujący jest obowiązany niezwłocznie udostępnić suplement do memorandum informacyjnego osobom, do których skierowana jest oferta publiczna, w taki sam sposób, w jaki zostało udostępnione to memorandum.
+fundusz inwestycyjny, towarzystwo funduszy inwestycyjnych, otwarty fundusz emerytalny, towarzystwo emerytalne, jak również inna instytucja zbiorowego inwestowania lub podmiot nią zarządzający,
 
-7. Inwestorom, którzy wyrazili zgodę na nabycie lub subskrypcję papierów wartościowych przed udostępnieniem suplementu, przysługuje prawo do wycofania tej zgody, z którego mogą skorzystać w terminie dwóch dni roboczych po udostępnieniu suplementu do memorandum informacyjnego, pod warunkiem że nowy znaczący czynnik, istotny błąd lub istotna niedokładność, o których mowa w ust. 6, wystąpiły lub zostały zauważone przed zakończeniem okresu oferowania lub dostarczeniem papierów wartościowych, w zależności od tego, które z tych zdarzeń nastąpi wcześniej. Termin ten może zostać przedłużony przez emitenta lub oferującego. Ostateczny termin wygaśnięcia prawa do wycofania zgody określa się w suplemencie do memorandum informacyjnego. Za zgodą wszystkich osób, które już złożyły zapis, termin ten może ulec skróceniu. Wycofanie zgody następuje przez oświadczenie na piśmie złożone w miejscu złożenia zapisu na określone papiery wartościowe.
+### c)
 
-8. Emitent lub oferujący może dokonać przydziału papierów wartościowych nie wcześniej niż po upływie terminu do wycofania przez inwestora zgody na nabycie lub subskrypcję papierów wartościowych.
+zakład ubezpieczeń, lub
 
-9. Informację powodującą zmianę treści udostępnionego do publicznej wiadomości memorandum informacyjnego lub suplementów do tego memorandum, w zakresie organizacji lub prowadzenia subskrypcji lub sprzedaży papierów wartościowych, niewymagającą udostępnienia suplementu do memorandum informacyjnego, emitent lub oferujący może udostępnić do publicznej wiadomości bez stosowania wymogów określonych w ust. 6–8, w formie komunikatu aktualizującego, o którym mowa w art. 52 ust. 2, w sposób, w jaki zostało udostępnione memorandum informacyjne.
+### 2)
 
-**Art. 37c.**
+inna osoba prawna, której jedynym przedmiotem działalności statutowej jest inwestowanie w papiery wartościowe, lub
 
-1. Oferta publiczna papierów wartościowych dokonywana za pośrednictwem dostawcy usług finansowania społecznościowego wymaga udostępnienia do publicznej wiadomości arkusza kluczowych informacji inwestycyjnych.
+### 3)
 
-2. Dostawca usług finansowania społecznościowego przekazuje Komisji arkusz kluczowych informacji inwestycyjnych na co najmniej 7 dni roboczych przed dniem udostępnienia go do publicznej wiadomości.
+państwo, jednostka władz regionalnych lub lokalnych, w tym jednostka samorządu terytorialnego, bank centralny państwa, międzynarodowa instytucja finansowa, w szczególności: Międzynarodowy Fundusz Walutowy, Europejski Bank Centralny, Europejski Bank Inwestycyjny, lub
 
-3. Emitent może udostępnić arkusz kluczowych informacji inwestycyjnych na swojej stronie internetowej nie wcześniej niż po udostępnieniu tego arkusza do publicznej wiadomości przez dostawcę usług finansowania społecznościowego, wraz z informacją, że udział w ofercie publicznej jest możliwy wyłącznie za pośrednictwem dostawcy usług finansowania społecznościowego wskazanego przez emitenta.
+### 4)
 
-4. Do ofert publicznych objętych obowiązkiem przekazania do publicznej wiadomości arkusza kluczowych informacji inwestycyjnych przepisów art. 37a ust. 1 i art. 37b ust. 1 nie stosuje się.
+osoba prawna niebędąca małym lub średnim przedsiębiorcą w rozumieniu ust. 3, lub
 
-**Art. 37d.** Wpływy, o których mowa w art. 37a ust. 1 i art. 37b ust. 1, obejmują zakładane wpływy brutto z ofert publicznych papierów wartościowych przeprowadzonych na podstawie art. 1 ust. 3 lub art. 3 ust. 2 rozporządzenia 2017/1129, zakładane wpływy brutto z ofert zbywalnych papierów wartościowych przeprowadzonych za pośrednictwem dostawców usług finansowania społecznościowego oraz kwot pozyskanych w drodze pożyczek zaciągniętych w ramach usług finansowania społecznościowego, o których mowa w art. 2 ust. 1 lit. a rozporządzenia 2020/1503, a w przypadku emitentów z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska – także wpływy z instrumentów dopuszczonych na potrzeby finansowania społecznościowego w rozumieniu art. 2 ust. 1 lit. n rozporządzenia 2020/1503.
+### 5)
 
-**Art. 38.**
+osoba fizyczna:
 
-1. W odniesieniu do dokumentu, o którym mowa w art. 1 ust. 4 lit. f i ust. 5 lit. e rozporządzenia 2017/1129, stosuje się odpowiednio przepisy art. 37b ust. 2, 3 i 4–9.
+### a)
 
-2. W odniesieniu do dokumentu, o którym mowa w art. 1 ust. 4 lit. g i ust. 5 lit. f rozporządzenia 2017/1129, stosuje się odpowiednio przepisy art. 37b ust. 2, 3, 6 i 9. Emitent jest obowiązany udostępnić ten dokument osobom, do których skierowana jest oferta publiczna, w terminie nie krótszym niż 6 dni roboczych przed planowanym dniem powzięcia przez właściwy organ spółki łączącej się przez zawiązanie nowej spółki lub spółki przejmowanej, albo spółki dzielonej, uchwały odpowiednio o połączeniu spółek albo podziale spółki, jeżeli papiery wartościowe są przedmiotem oferty publicznej, albo najpóźniej w dniu dopuszczenia papierów wartościowych do obrotu na rynku regulowanym, jeżeli te papiery wartościowe nie były uprzednio przedmiotem oferty publicznej.
+mająca miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, jeżeli jest wpisana do rejestru inwestorów kwalifikowanych,
 
-3. (uchylony)
+### b)
 
-4. (uchylony)
+mająca miejsce zamieszkania w państwie członkowskim innym niż Rzeczpospolita Polska, jeżeli zgodnie z przepisami prawa obowiązującymi w tym państwie posiada status inwestora kwalifikowanego, lub
 
-5. (uchylony)
+### 6)
 
-6. (uchylony)
+mały lub średni przedsiębiorca w rozumieniu ust. 3:
 
-7. (uchylony)
+### a)
 
-**Art. 38a.** Dokument, o którym mowa w art. 1 ust. 5 lit. j pkt (v) rozporządzenia 2017/1129, sporządza się w języku polskim. Przepisy art. 37b ust. 3, 4 i 5 stosuje się odpowiednio.
+mający siedzibę na terytorium Rzeczypospolitej Polskiej, jeżeli jest wpisany do rejestru inwestorów kwalifikowanych,
 
-**Art. 38b.**
+### b)
 
-1. W przypadku, o którym mowa w art. 3 ust. 1a, emitent lub oferujący składa do Komisji memorandum informacyjne sporządzone w formie jednolitego dokumentu w języku polskim.
+mający siedzibę w innym państwie członkowskim, jeżeli zgodnie z przepisami prawa obowiązującymi w tym państwie posiada status inwestora kwalifikowanego.
 
-2. (uchylony)
+### 2.
 
-3. Przepisy art. 37b ust. 2, 3 i 4–9 stosuje się odpowiednio. Suplement do memorandum informacyjnego emitent przekazuje niezwłocznie do Komisji.
+Warunkiem wpisu osoby fizycznej, o której mowa w ust. 1 pkt 5 lit. a, do rejestru inwestorów kwalifikowanych jest spełnienie przez nią co najmniej dwóch z następujących warunków:
 
-**Art. 39.**
+### 1)
 
-1. W odniesieniu do dokumentów, o których mowa w art. 1 ust. 4 lit. h oraz i, a także ust. 5 lit. g oraz h rozporządzenia 2017/1129, przepisy art. 37b ust. 2, 3 i 4–6 stosuje się odpowiednio.
+w okresie 12 kolejnych miesięcy poprzedzających datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych zawarła, na własny rachunek, w obrocie zorganizowanym w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi lub w tożsamym z nim obrocie dokonywanym poza terytorium Rzeczypospolitej Polskiej, transakcje papierami wartościowymi w liczbie co najmniej 10 transakcji w każdym trzymiesięcznym okresie, każda o wartości co najmniej 50 000 euro lub równowartości tej kwoty w złotych ustalonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień poprzedzający datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych;
 
-2. (uchylony) 2a. (uchylony)
+### 2)
 
-3. (uchylony)
+wartość jej portfela papierów wartościowych w dniu poprzedzającym datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych wynosi co najmniej 500 000 euro lub równowartość tej kwoty w złotych ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień poprzedzający datę złożenia wniosku o wpis do rejestru inwestorów kwalifikowanych;
 
-**Art. 40.**
+### 3)
 
-1. Udostępnienia do publicznej wiadomości memorandum informacyjnego wymaga oferta publiczna lub dopuszczenie do obrotu na rynku regulowanym papierów wartościowych emitowanych przez podmioty, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), prowadzące działalność statutową w zakresie wskazanym w art. 4 tej ustawy, lub przez podmioty o podobnym charakterze z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska, jeżeli środki z emisji będą przeznaczone wyłącznie na realizację celów statutowych.
+pracuje lub pracowała w sektorze finansowym przez co najmniej rok na stanowisku wymagającym wiedzy z zakresu inwestycji w papiery wartościowe.
 
-2. Emitent lub oferujący ma obowiązek ustalenia terminu ważności memorandum informacyjnego, nie dłuższego niż 12 miesięcy od dnia jego udostępnienia.
+### 3.
 
-3. Emitent lub oferujący udostępnia memorandum informacyjne w sposób zapewniający należytą ochronę interesów inwestorów, a w przypadku oferty publicznej kierowanej do nieoznaczonego adresata lub dopuszczenia papierów wartościowych do zorganizowanego systemu obrotu udostępnienie następuje przez publikację na stronie internetowej emitenta, oferującego, firmy inwestycyjnej pośredniczącej w ofercie publicznej tych papierów wartościowych lub podmiotu prowadzącego zorganizowany system obrotu.
+Małym lub średnim przedsiębiorcą jest spółka handlowa, która zgodnie z ostatnim rocznym sprawozdaniem finansowym lub rocznym skonsolidowanym sprawozdaniem finansowym spełnia co najmniej dwa z następujących warunków:
 
-4. Do memorandum informacyjnego stosuje się odpowiednio przepisy art. 37b ust. 9 oraz przepisy art. 19 rozporządzenia 2017/1129.
+### 1)
 
-5. Nowy znaczący czynnik, istotny błąd lub istotna niedokładność odnoszące się do informacji zawartych w memorandum informacyjnym, które mogą wpłynąć na ocenę papierów wartościowych i które wystąpiły lub zostały zauważone w okresie między udostępnieniem memorandum informacyjnego a zakończeniem okresu oferowania papierów wartościowych lub rozpoczęciem obrotu w zorganizowanym systemie obrotu, w zależności od tego, które z tych zdarzeń nastąpi później, należy wskazać, bez zbędnej zwłoki, w suplemencie do memorandum informacyjnego. Emitent lub oferujący jest obowiązany niezwłocznie udostępnić suplement do memorandum informacyjnego w taki sam sposób, w jaki zostało udostępnione to memorandum. Przepisy art. 37b ust. 7 i 8 stosuje się odpowiednio.
+średnioroczne zatrudnienie w przeliczeniu na pełne etaty wynosiło mniej niż 250 osób;
 
-**Art. 40a.** Udostępnienia do publicznej wiadomości prospektu nie wymaga dopuszczenie do obrotu na rynku regulowanym papierów wartościowych emitowanych przez fundusze wpisane do rejestru, o którym mowa w art. 263 ustawy o funduszach inwestycyjnych.
+### 2)
 
-**Art. 40b.**
+suma aktywów bilansu nie przekracza równowartości w złotych 43 000 000 euro, ustalonej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień bilansowy sprawozdania finansowego;
 
-1. Do memorandum informacyjnego oraz dokumentów, o których mowa w art. 37a ust. 1, art. 38, art. 38a i art. 39 ust. 1, przepisy art. 22 stosuje się odpowiednio.
+### 3)
 
-2. Do arkusza kluczowych informacji inwestycyjnych przepisy art. 35 ust. 1, 3 i 4 oraz art. 36 ust. 1, 3, ust. 4 pkt 1, ust. 5 i 6 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984 i 1863) stosuje się.
+przychody netto ze sprzedaży nie przekraczają równowartości w złotych 50 000 000 euro, ustalonej w sposób określony w pkt 2.
 
-**Art. 40c.** Dopuszczenie do obrotu na rynku regulowanym certyfikatów inwestycyjnych emitowanych przez fundusz portfelowy, o którym mowa w art. 179 ust. 1 ustawy o funduszach inwestycyjnych, wymaga udostępnienia do publicznej wiadomości prospektu informacyjnego funduszu, o którym mowa w art. 179a ust. 1 tej ustawy.
+### Art. 9.
 
-##### Oddział 3 (uchylony)
+### 1.
 
-##### Oddział 4 Udostępnianie informacji o papierach wartościowych w związku z ofertą publiczną, subskrypcją lub sprzedażą na podstawie tej oferty lub ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym
+Komisja prowadzi rejestr inwestorów kwalifikowanych, o których mowa w art. 8 ust. 1 pkt 5 lit. a oraz pkt 6 lit. a. Rejestr jest jawny.
 
-**Art. 45.** (uchylony)
+### 2.
 
-**Art. 46.** (uchylony)
+Komisja dokonuje wpisu podmiotu, o którym mowa w art. 8 ust. 1 pkt 5 lit. a oraz pkt 6 lit. a, do rejestru inwestorów kwalifikowanych, na jego wniosek, w terminie 14 dni od dnia złożenia wniosku. Uzyskanie przez ten podmiot statusu inwestora kwalifikowanego następuje z dniem wpisu do rejestru.
 
-**Art. 47.**
+### 3.
 
-1. (uchylony)
+Komisja odmawia wpisu, jeżeli nie są spełnione warunki jego uzyskania określone w art. 8 ust. 2 lub 3.
 
-2. (uchylony)
+### 4.
 
-3. Nie później niż w dniu roboczym poprzedzającym dzień udostępnienia prospektu do publicznej wiadomości emitent lub oferujący przekazuje do Komisji informację o terminie jego udostępnienia wraz z hiperłączem do wyznaczonych części stron internetowych, o których mowa w art. 21 ust. 2 i 3 rozporządzenia 2017/1129, oraz wskazuje przyjmujące państwo członkowskie w rozumieniu art. 2 lit. n rozporządzenia 2017/1129, w którym prospekt jest lub będzie przedmiotem powiadomienia w rozumieniu art. 25 rozporządzenia 2017/1129.
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wzór wniosku o wpis do rejestru inwestorów kwalifikowanych, szczegółowy sposób prowadzenia przez Komisję rejestru inwestorów kwalifikowanych oraz tryb jego udostępniania, uwzględniając konieczność zapewnienia emitentom dostępu do informacji o takich inwestorach oraz należytą ich identyfikację.
 
-4. (uchylony)
+### Art. 10.
 
-5. (uchylony)
+### 1.
 
-6. (uchylony)
+Komisja prowadzi ewidencję:
 
-**Art. 48.** (uchylony)
+### 1)
 
-**Art. 49.** (uchylony)
+papierów wartościowych będących przedmiotem oferty publicznej;
 
-**Art. 50.** (uchylony)
+### 2)
 
-**Art. 51.**
+papierów wartościowych oraz instrumentów finansowych niebędących papierami wartościowymi, dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu.
 
-1. (uchylony)
+### 2.
 
-2. (uchylony)
+Ewidencja, o której mowa w ust. 1, jest jawna.
 
-3. Do postępowania w sprawie zatwierdzenia suplementu do prospektu stosuje się przepisy rozporządzenia 2017/1129 i aktów delegowanych i wykonawczych wydanych na jego podstawie, a w zakresie nieuregulowanym w tych przepisach – stosuje się odpowiednio przepisy art. 27 ust. 2a, art. 31, art. 32 i art. 33 ust. 4.
+### 3.
 
-4. Odmawiając zatwierdzenia suplementu do prospektu, Komisja stosuje odpowiednio środki, o których mowa w art. 16 ust. 1 lub art. 17 ust. 1. Środki te Komisja może zastosować wielokrotnie.
+Wpis do ewidencji, z wyłączeniem wpisu dotyczącego papierów wartościowych:
 
-5. (uchylony)
+### 1)
 
-6. (uchylony)
+emitowanych przez Skarb Państwa, Narodowy Bank Polski lub jednostki samorządu terytorialnego Rzeczypospolitej Polskiej,
 
-7. (uchylony)
+### 2)
 
-8. Obowiązek przekazania informacji w formie suplementu do prospektu nie wyłącza obowiązku, o którym mowa w art. 56 ust. 1, oraz obowiązku, o którym mowa w art. 17 ust. 1 rozporządzenia 596/2014.
+dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu, które były przedmiotem oferty publicznej
 
-9. (uchylony)
+- podlega opłacie, o której mowa w art. 94, zwanej dalej „opłatą ewidencyjną”.
 
-10. Komisja, w drodze decyzji, stwierdza wygaśnięcie ważności prospektu, jeżeli naruszenie obowiązku publikacji suplementu do prospektu prowadziło do naruszenia interesu inwestorów.
+### 4.
 
-**Art. 51a.**
+Komisja dokonuje wpisu do ewidencji na podstawie informacji o:
 
-1. (uchylony)
+### 1)
 
-2. W przypadku, o którym mowa w art. 23 ust. 2 rozporządzenia 2017/1129, uchylenie się od skutków prawnych zapisu następuje przez oświadczenie na piśmie złożone w dowolnym punkcie obsługi klienta firmy inwestycyjnej przyjmującej zapisy na określone papiery wartościowe.
+zakończeniu subskrypcji lub sprzedaży papierów wartościowych;
 
-3. (uchylony)
+### 2)
 
-4. (uchylony)
+dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi.
 
-**Art. 52.**
+### 5.
 
-1. (uchylony)
+Do przekazania informacji, o której mowa w ust. 4, obowiązany jest:
 
-2. Informację powodującą zmianę treści udostępnionego do publicznej wiadomości prospektu lub suplementów do prospektu w zakresie organizacji lub prowadzenia subskrypcji lub sprzedaży papierów wartościowych lub ich dopuszczenia do obrotu na rynku regulowanym, niewymagającą sporządzenia suplementu do prospektu, emitent może udostępnić do publicznej wiadomości, w formie komunikatu aktualizującego, w sposób, w jaki został udostępniony prospekt. Komunikat ten powinien być równocześnie przekazany do Komisji.
+### 1)
 
-3. (uchylony)
+emitent lub wprowadzający - w terminie 14 dni:
 
-**Art. 53.**
+### a)
 
-1. Reklama oferty publicznej, o której mowa w art. 1 ust. 4 lit. b rozporządzenia 2017/1129, może być rozpowszechniana jedynie do mniej niż 150 osób na terytorium jednego państwa członkowskiego oraz nie może być udostępniana nieoznaczonemu adresatowi.
+od dnia zakończenia subskrypcji lub sprzedaży papierów wartościowych będących przedmiotem oferty publicznej,
 
-2. (uchylony)
+### b)
 
-3. (uchylony)
+od dnia dopuszczenia papierów wartościowych do obrotu na rynku regulowanym lub ich wprowadzenia do alternatywnego systemu obrotu;
 
-4. W przypadku gdy zgodnie z przepisami rozporządzenia 2017/1129 nie jest wymagane udostępnienie prospektu, treści reklamowe powinny być zgodne z informacjami zamieszczonymi w memorandum informacyjnym lub innym dokumencie wymaganym zgodnie z przepisami ustawy albo rozporządzenia 2017/1129, udostępnionym do publicznej wiadomości, albo z informacjami, które powinny być zamieszczone w takim memorandum lub dokumencie zgodnie z przepisami ustawy, rozporządzenia 2017/1129 oraz aktów delegowanych i wykonawczych wydanych na jego podstawie, gdy memorandum informacyjne lub taki dokument jeszcze nie zostały udostępnione do publicznej wiadomości, jak również nie mogą wprowadzać inwestorów w błąd co do sytuacji emitenta i oceny papierów wartościowych.
+### 2)
 
-5. W przypadku gdy wymagane jest udostępnienie prospektu, prowadzenie reklamy nie może rozpocząć się przed złożeniem do Komisji wniosku, o którym mowa w art. 27 ust. 1 i art. 30 ust. 1.
+podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym albo wprowadzenie ich do alternatywnego systemu obrotu - w terminie 14 dni odpowiednio od tego dopuszczenia albo wprowadzenia.
 
-6. (uchylony)
+### 6.
 
-7. (uchylony)
+Do informacji, o której mowa w ust. 4, podmiot obowiązany do jej przekazania dołącza dowód uiszczenia opłaty ewidencyjnej.
 
-8. (uchylony)
+### 7.
 
-9. (uchylony) 9a. (uchylony) 9b. (uchylony) 9c. (uchylony)
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-10. (uchylony)
+### 1)
 
-11. (uchylony)
+sposób prowadzenia ewidencji, uwzględniając konieczność zapewnienia prawidłowego wykonywania zadań Komisji w zakresie nadzoru nad rynkiem kapitałowym oraz umożliwienia identyfikacji podmiotów i instrumentów finansowych;
 
-12. (uchylony)
+### 2)
 
-13. (uchylony)
+zakres informacji, o której mowa w ust. 4, uwzględniając konieczność zapewnienia podstawowych danych o instrumentach finansowych i trybie przeprowadzenia oferty publicznej, dopuszczenia do obrotu na rynku regulowanym lub wprowadzenia do alternatywnego systemu obrotu;
 
-14. (uchylony)
+### 3)
 
-**Art. 54.**
+tryb udostępniania ewidencji, w tym udostępniania jej na stronie intemetowej Komisji.
 
-1. (uchylony)
+### Art. 11.
 
-2. W przypadku, o którym mowa w art. 17 ust. 1 lit. a rozporządzenia 2017/1129, emitent lub oferujący może dokonać przydziału papierów wartościowych nie wcześniej niż po upływie terminu do uchylenia się przez inwestora od skutków prawnych złożonego zapisu, chyba że wszyscy zainteresowani inwestorzy wspólnie złożą wniosek o skrócenie tego terminu.
+### 1.
 
-3. (uchylony)
+Państwem macierzystym w rozumieniu przepisów ustawy jest państwo członkowskie, na terytorium którego emitent ma siedzibę, z zastrzeżeniem ust. 2 i 3.
 
-**Art. 55.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+### 2.
 
-#### Rozdział 3 Obowiązki informacyjne emitentów
+W przypadku papierów wartościowych o charakterze nieudziałowym:
 
-**Art. 55a.**
+### 1)
 
-1. Państwem macierzystym w rozumieniu przepisów niniejszego rozdziału jest:
+których jednostkowa wartość nominalna wynosi nie mniej niż 1 000 euro lub równowartość tej kwoty w złotych ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia wartości nominalnej tych papierów wartościowych,
 
-- **1)** państwo członkowskie, na terytorium którego emitent ma siedzibę – w przypadku emitenta akcji lub emitenta papierów wartościowych o charakterze nieudziałowym, których jednostkowa wartość nominalna wynosi mniej niż 1000 euro w dniu ustalenia wartości nominalnej tych papierów wartościowych;
-- **2)** państwo członkowskie wybrane przez emitenta spośród państw członkowskich, w których jego akcje lub papiery wartościowe o charakterze nieudziałowym, których jednostkowa wartość nominalna wynosi mniej niż 1000 euro w dniu ustalenia wartości nominalnej tych papierów wartościowych, są dopuszczone do obrotu na rynku regulowanym – w przypadku emitenta papierów wartościowych mającego siedzibę w państwie niebędącym państwem członkowskim.
+### 2)
 
-2. W przypadku innym niż określony w ust. 1 państwem macierzystym jest, według wyboru emitenta, państwo członkowskie, w którym emitent ma siedzibę, albo jedno z państw członkowskich, na terytorium którego papiery wartościowe emitenta są dopuszczone do obrotu na rynku regulowanym.
+uprawniających do nabycia innych papierów wartościowych albo wymiany na inne papiery wartościowe lub do rozliczenia pieniężnego w wyniku realizacji prawa w nich inkorporowanego, pod warunkiem że emitentem papierów wartościowych o charakterze nieudziałowym nie jest emitent papierów wartościowych nabywanych lub obejmowanych w wyniku realizacji tego prawa lub inny podmiot należący do jego grupy kapitałowej
 
-3. Zmiana państwa macierzystego, wybranego zgodnie z ust. 2, może nastąpić nie wcześniej niż po upływie 3 lat od dnia dokonania wyboru, chyba że przed upływem tego okresu:
+- państwem macierzystym jest państwo członkowskie będące miejscem siedziby emitenta papierów wartościowych o charakterze nieudziałowym albo państwo członkowskie, w którym te papiery są lub będą dopuszczone do obrotu na rynku regulowanym, albo państwo członkowskie, w którym będzie przeprowadzona oferta publiczna tych papierów - według wyboru ich emitenta albo wprowadzającego.
 
-- **1)** papiery wartościowe emitenta przestaną być dopuszczone do obrotu na rynku regulowanym na terytorium państw członkowskich lub
-- **2)** spełnione zostaną warunki, o których mowa w ust. 1 lub 3a.
+### 3.
 
-3a. W przypadku, gdy papiery wartościowe przestają być dopuszczone do obrotu na rynku regulowanym w państwie macierzystym wybranym przez emitenta zgodnie z ust. 1 pkt 2 lub ust. 2, a pozostają dopuszczone do obrotu na rynku regulowanym innego państwa członkowskiego, emitent może wybrać państwo macierzyste spośród państwa członkowskiego, w którym ma on siedzibę, oraz państw członkowskich, na terytorium których jego papiery wartościowe są dopuszczone do obrotu na rynku regulowanym.
+W przypadku emitentów, których siedziba nie znajduje się na terytorium państwa członkowskiego, innych niż wskazani w ust. 2, państwem macierzystym jest państwo członkowskie, w którym będzie przeprowadzona oferta publiczna papierów wartościowych, albo państwo członkowskie, w którym te papiery będą dopuszczone do obrotu na rynku regulowanym - według wyboru, odpowiednio, ich emitenta albo wprowadzającego.
 
-4. Emitent jest obowiązany do przekazania, w trybie określonym w art. 56, informacji o swoim państwie macierzystym, w tym o dokonanym wyborze lub o zmianie państwa macierzystego. Informację o swoim państwie macierzystym emitent przekazuje także właściwym organom państwa, w którym znajduje się jego siedziba, właściwym organom państwa macierzystego oraz właściwym organom wszystkich państw przyjmujących.
+### 4.
 
-5. Państwem przyjmującym, w rozumieniu przepisów niniejszego rozdziału, jest państwo członkowskie, inne niż państwo macierzyste, na terytorium którego papiery wartościowe emitenta są dopuszczone do obrotu na rynku regulowanym.
+W przypadku gdy wyboru, o którym mowa w ust. 3, dokonał wprowadzający, emitent może postanowić, w związku z innymi papierami wartościowymi emitowanymi przez tego emitenta, o wskazaniu innego państwa członkowskiego jako państwa macierzystego.
 
-6. W przypadku gdy emitent nie przekaże informacji o swoim państwie macierzystym, wybranym zgodnie z ust. 1 pkt 2 lub ust. 2 w terminie 3 miesięcy od dnia, w którym papiery wartościowe tego emitenta zostały po raz pierwszy dopuszczone do obrotu na rynku regulowanym, państwem macierzystym jest państwo członkowskie, w którym papiery wartościowe tego emitenta są dopuszczone do obrotu na rynku regulowanym. Jeżeli papiery wartościowe tego emitenta są dopuszczone do obrotu na rynkach regulowanych w kilku państwach członkowskich, państwa te są państwami macierzystymi tego emitenta do czasu, gdy emitent dokona wyboru jednego państwa macierzystego i przekaże informację o swoim państwie macierzystym zgodnie z ust. 4.
+### 5.
 
-7. Wybór państwa macierzystego przez emitenta jest skuteczny po wykonaniu obowiązku przekazania informacji o państwie macierzystym zgodnie z ust. 4.
+Państwem przyjmującym w rozumieniu przepisów ustawy jest państwo członkowskie, inne niż państwo macierzyste, w którym jest przeprowadzana oferta publiczna lub w którym emitent lub wprowadzający ubiega się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym.
 
-**Art. 55b.** Emitentem, w przypadku kwitów depozytowych wyemitowanych na podstawie umowy z emitentem papierów wartościowych będących podstawą wyemitowania kwitów depozytowych, jest w rozumieniu przepisów niniejszego rozdziału emitent papierów wartościowych będących podstawą wyemitowania tych kwitów.
+### Art. 12.
 
-**Art. 55c.**
+Dematerializacja papierów wartościowych:
 
-1. Emitent papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub ubiegający się o takie dopuszczenie oraz emitent papierów wartościowych, które są wprowadzone do obrotu w alternatywnym systemie obrotu lub są przedmiotem ubiegania się o takie wprowadzenie, są obowiązani przekazywać do systemu gromadzenia informacji, prowadzonego zgodnie z art. 56 ust. 1a, wszystkie informacje przekazywane do publicznej wiadomości na podstawie przepisów rozdziału 3, rozdziału 4 oddziału 1 oraz rozporządzenia 596/2014.
+### 1)
 
-2. Przepis ust. 1 stosuje się do emitenta papierów wartościowych, które są przedmiotem obrotu na zorganizowanej platformie obrotu, oraz uczestnika rynku uprawnień do emisji.
+będących przedmiotem oferty publicznej,
 
-**Art. 55d.**
+### 2)
 
-1. Dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym wymaga sporządzenia, zatwierdzenia przez Komisję oraz udostępnienia do publicznej wiadomości warunków obrotu.
+niebędących przedmiotem oferty publicznej, które mają podlegać dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu
 
-2. Podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym składa do Komisji wniosek o zatwierdzenie warunków obrotu. Do zatwierdzenia oraz formy i zasad publikacji warunków obrotu stosuje się odpowiednio przepisy dotyczące prospektu.
+- następuje w trybie i na warunkach określonych w art. 5 ust. 1-5 ustawy o obrocie instrumentami finansowymi.
 
-3. Podmiotem odpowiedzialnym za prawdziwość, rzetelność i kompletność informacji zamieszczonych w warunkach obrotu jest:
+### Art. 13.
 
-- **1)** podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym – za wszystkie informacje;
-- **2)** osoba sporządzająca informację – za informację, którą sporządziła.
+W przypadku gdy instrumenty finansowe niebędące papierami wartościowymi mają być przedmiotem dopuszczenia do obrotu na rynku regulowanym, podlegają rejestracji w trybie i na warunkach określonych w art. 5 ust. 6 ustawy o obrocie instrumentami finansowymi.
 
-**Art. 56.**
+### Art. 14.
 
-1. Emitent papierów wartościowych dopuszczonych do obrotu na rynku regulowanym jest obowiązany, z zastrzeżeniem ust. 6, do równoczesnego przekazywania Komisji, spółce prowadzącej ten rynek regulowany oraz do publicznej wiadomości:
+### 1.
 
-- **1)** (uchylony)
-- **2)** informacji bieżących i okresowych:
-    - **a)** zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2 – w przypadku emitentów papierów wartościowych dopuszczonych do obrotu na rynku oficjalnych notowań w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi lub na rynku regulowanym innego niż Rzeczpospolita Polska państwa członkowskiego, albo
-    - **b)** zgodnie z postanowieniami regulaminów, o których mowa w art. 61 – w przypadku emitentów papierów wartościowych dopuszczonych wyłącznie do obrotu na rynku regulowanym niebędącym rynkiem oficjalnych notowań.
+Emitent lub wprowadzający może zawrzeć umowę o subemisję inwestycyjną.
 
-1a. Komisja gromadzi informacje, o których mowa w ust. 1, oraz informacje poufne, a także zapewnia powszechny i stały dostęp do tych informacji, z uwzględnieniem konieczności zagwarantowania bezpieczeństwa informacji oraz pewności źródła informacji.
+### 2.
 
-2. (uchylony)
+Emitent, zawierający umowę o subemisję inwestycyjną, ma obowiązek uzyskania stosownego upoważnienia w uchwale podjętej przez właściwy organ stanowiący emitenta, a w przypadku subemisji dotyczącej akcji - w uchwale walnego zgromadzenia spółki.
 
-3. (uchylony)
+### 3.
 
-4. (uchylony)
+Subemitentem inwestycyjnym mogą być wyłącznie: firma inwestycyjna, fundusz inwestycyjny, otwarty fundusz emerytalny, bank, zakład ubezpieczeń, polska lub zagraniczna instytucja finansowa mająca siedzibę w państwie należącym do OECD lub w państwie członkowskim lub konsorcjum tych podmiotów. W przypadku konsorcjum za subemitenta inwestycyjnego uważa się również każdy podmiot wchodzący w skład konsorcjum.
 
-5. (uchylony)
+### Art. 15.
 
-6. W przypadku emitenta, o którym mowa w ust. 1, dla którego Rzeczpospolita Polska jest państwem przyjmującym, zakres informacji przekazywanych zgodnie z ust. 1 oraz terminy ich przekazywania określają przepisy państwa macierzystego.
+### 1.
 
-7. Emitent z siedzibą na terytorium Rzeczypospolitej Polskiej, którego papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz są dopuszczone do obrotu na rynku regulowanym w państwie członkowskim, przekazuje Komisji informacje, o których mowa w ust. 1, jeżeli Rzeczpospolita Polska jest dla niego państwem macierzystym. Jeżeli państwem macierzystym jest inne państwo członkowskie niż Rzeczpospolita Polska, zakres i terminy przekazywania informacji, o których mowa w ust. 1, określają przepisy państwa macierzystego.
+Przed rozpoczęciem subskrypcji papierów wartościowych emitent lub wprowadzający może zawrzeć umowę o subemisję usługową. Zbywanie papierów wartościowych w wykonaniu takiej umowy następuje za pośrednictwem firmy inwestycyjnej.
 
-8. Emitent, który na podstawie art. 55a ust. 1 pkt 2, ust. 2 lub ust. 3a wybrał jako państwo macierzyste Rzeczpospolitą Polską, jest obowiązany przekazywać informacje zgodnie z ust. 1. Sposób przekazywania informacji, o których mowa w ust. 1, w państwie przyjmującym określają przepisy państwa przyjmującego.
+### 2.
 
-**Art. 56a.** Emitent papierów wartościowych, dla którego Rzeczpospolita Polska jest państwem przyjmującym, sporządza informacje, o których mowa w art. 56 ust. 1 oraz w przepisach rozporządzenia 596/2014, według wyboru emitenta, w językach wymaganych przez państwa przyjmujące, w tym w języku polskim, albo w języku angielskim, z zastrzeżeniem art. 56c.
+Przepis art. 14 ust. 2 stosuje się odpowiednio.
 
-**Art. 56b.**
+### 3.
 
-1. W przypadku gdy papiery wartościowe emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, informacje, o których mowa w art. 56 ust. 1, sporządza się w języku polskim, z zastrzeżeniem art. 56c.
+Umowy o subemisję usługowe, zawarte przez emitenta, powinny zapewniać możliwość zbywania przez subemitenta usługowego przysługującego mu prawa do objęcia papierów wartościowych. Zbycie tego prawa przez subemitenta uważa się za obrót pierwotny. Za obrót pierwotny uważa się również proponowanie przez subemitenta zbycia akcji objętych w wykonaniu tego prawa, w przypadku gdy sąd rejestrowy wpisał do rejestru przedsiębiorców podwyższenie kapitału zakładowego emitenta.
 
-2. W przypadku gdy papiery wartościowe emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz w państwach przyjmujących, informacje, o których mowa w art. 56 ust. 1, sporządza się również, według wyboru emitenta, w językach wymaganych przez państwa przyjmujące albo w języku angielskim, z zastrzeżeniem art. 56c.
+### 4.
 
-3. W przypadku gdy papiery wartościowe emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, nie są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, informacje, o których mowa w art. 56 ust. 1, sporządza się, według wyboru emitenta, w językach wymaganych przez państwa przyjmujące albo w języku angielskim oraz, według wyboru emitenta, w języku polskim albo w języku angielskim, z zastrzeżeniem art. 56c.
+Umowy o subemisję usługowe, zawarte przez wprowadzającego, powinny zapewniać możliwość zbywania przez subemitenta usługowego papierów wartościowych nabytych od wprowadzającego, a także prawa do ich nabycia.
 
-**Art. 56c.** W przypadku papierów wartościowych denominowanych w euro o jednostkowej wartości nominalnej wynoszącej w dniu emisji co najmniej 100 000 euro lub w przypadku papierów wartościowych o charakterze nieudziałowym denominowanych w walucie innej niż euro, o jednostkowej wartości nominalnej stanowiącej w dniu emisji równowartość co najmniej 100 000 euro, informacje, o których mowa w art. 56 ust. 1, sporządza się, według wyboru emitenta, w języku wymaganym przez państwo macierzyste oraz w językach wymaganych przez państwa przyjmujące albo w języku angielskim.
+### 5.
 
-**Art. 57.** (uchylony)
+Dokonywanie obrotu, o którym mowa w ust. 3 i 4, na warunkach, o których mowa w tych przepisach, następuje w terminie ważności prospektu emisyjnego lub memorandum informacyjnego oraz w terminie i na warunkach w nich określonych.
 
-**Art. 58.**
+### 6.
 
-1. Emitent papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub ubiegający się o takie dopuszczenie obowiązki przekazywania do publicznej wiadomości informacji, o których mowa w art. 56 ust. 1 pkt 2, art. 70 pkt 1 i 3, art. 80 i art. 86 ust. 2, wykonują za pośrednictwem jednej osoby prawnej lub większej liczby osób prawnych albo jednostki organizacyjnej nieposiadającej osobowości prawnej, wskazanej w drodze decyzji Komisji, zwanej dalej „agencją informacyjną”.
+Subemitentem usługowym mogą być wyłącznie: bank, firma inwestycyjna lub zagraniczna firma inwestycyjna lub konsorcjum tych podmiotów. W przypadku konsorcjum za subemitenta usługowego uważa się również każdy podmiot wchodzący w skład konsorcjum.
 
-1a. Emitent papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub ubiegający się o takie dopuszczenie lub emitent papierów wartościowych, które są wprowadzone do obrotu w alternatywnym systemie obrotu lub są przedmiotem ubiegania się o takie wprowadzenie, obowiązki przekazywania do publicznej wiadomości informacji, o których mowa w art. 19 ust. 3 rozporządzenia 596/2014, oraz informacji poufnych wykonują za pośrednictwem jednej agencji informacyjnej lub większej liczby agencji informacyjnych.
+### Art. 16.
 
-1b. Przepis ust. 1 stosuje się do emitenta papierów wartościowych, które są przedmiotem obrotu na zorganizowanej platformie obrotu, oraz uczestnika rynku uprawnień do emisji.
+W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów prawa w związku z ofertą publiczną na terytorium Rzeczypospolitej Polskiej przez emitenta, wprowadzającego lub inne podmioty uczestniczące w tej ofercie w imieniu lub na zlecenie emitenta lub wprowadzającego albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, Komisja, z zastrzeżeniem art. 19, może:
 
-1c. Emitent papierów wartościowych, które są wprowadzone do alternatywnego systemu obrotu, obowiązki przekazywania do publicznej wiadomości informacji, o których mowa w art. 70 pkt 1 i 3, wykonuje za pośrednictwem jednej agencji informacyjnej lub większej liczby agencji informacyjnych.
+### 1)
 
-2. Agencja informacyjna zapewnia powszechny dostęp do informacji, o których mowa w art. 56 ust. 1 pkt 2 oraz art. 70 pkt 1 i 3, art. 80 i art. 86 ust. 2, informacji przekazywanych na podstawie art. 19 ust. 3 rozporządzenia 596/2014 oraz informacji poufnych, niezwłocznie po ich otrzymaniu od:
+nakazać wstrzymanie rozpoczęcia oferty publicznej lub przerwanie jej przebiegu, na okres nie dłuższy niż 10 dni roboczych, lub
 
-- **1)** emitenta lub
-- **2)** uczestnika rynku uprawnień do emisji.
+### 2)
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, kryteria, jakie muszą spełniać podmioty ubiegające się o status agencji informacyjnej, z uwzględnieniem konieczności zapewnienia tym podmiotom możliwości należytego wykonywania obowiązku, o którym mowa w art. 58 ust. 2 przy zachowaniu przez te podmioty poufności uzyskanych informacji, nie zwiększając w istotnym stopniu kosztów uczestnictwa emitentów w rynku kapitałowym.
+zakazać rozpoczęcia oferty publicznej albo dalszego jej prowadzenia, lub
 
-**Art. 59.**
+### 3)
 
-1. Emitent kwitów depozytowych, dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, jest obowiązany do przekazywania, w trybie art. 56, informacji dotyczących własnej sytuacji finansowej lub prawnej, o ile mogłaby ona w istotny sposób wpłynąć na możliwość wywiązania się przez niego z obowiązków wynikających z wyemitowania kwitów depozytowych.
+opublikować, na koszt emitenta lub wprowadzającego, informację o niezgodnym z prawem działaniu w związku z ofertą publiczną.
 
-2. Emitent kwitów depozytowych, które nie zostały wyemitowane na podstawie umowy z emitentem papierów wartościowych będących podstawą wyemitowania tych kwitów, jest obowiązany do przekazywania, w trybie i w zakresie określonym w art. 56, informacji przekazywanych przez emitenta papierów wartościowych będących podstawą wyemitowania kwitów depozytowych na rynku regulowanym.
+### Art. 17.
 
-**Art. 60.**
+W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów prawa w związku z ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej przez emitenta, wprowadzającego lub inne podmioty występujące w imieniu lub na zlecenie emitenta lub wprowadzającego albo uzasadnionego podejrzenia, że takie naruszenie może nastąpić, Komisja, z zastrzeżeniem art. 19, może:
 
-1. (uchylony)
+### 1)
 
-2. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
+nakazać wstrzymanie dopuszczenia papierów wartościowych do obrotu na rynku regulowanym, na okres nie dłuższy niż 10 dni roboczych;
 
-- **1)** rodzaj, zakres i formę informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych, dla których Rzeczpospolita Polska jest państwem macierzystym, dopuszczonych do obrotu na rynku oficjalnych notowań w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi lub na rynku regulowanym innego niż Rzeczpospolita Polska państwa członkowskiego, oraz
-- **2)** częstotliwość i terminy przekazywania informacji, o których mowa w pkt 1, oraz
-- **3)** w przypadku emitentów z siedzibą w państwie niebędącym państwem członkowskim, dla których Rzeczpospolita Polska jest państwem macierzystym, których papiery wartościowe są dopuszczone do obrotu na rynku oficjalnych notowań w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi – warunki uznawania za równoważne informacji wymaganych przepisami prawa państwa siedziby emitenta do informacji, o których mowa w pkt 1 – przy uwzględnieniu regulacji w zakresie rachunkowości, na podstawie których mają być ujawniane dane finansowe lub dane niebędące danymi finansowymi, oraz zakresu ujawnianych danych finansowych i danych niebędących danymi finansowymi, w sposób umożliwiający inwestorom ocenę sytuacji gospodarczej, majątkowej i finansowej emitenta, a także ocenę wpływu emitenta na kwestie zrównoważonego rozwoju w rozumieniu art. 63p pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości oraz wpływu kwestii zrównoważonego rozwoju na rozwój, wyniki i sytuację emitenta.
+### 2)
 
-**Art. 61.** Rodzaj, zakres i formę informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych dopuszczonych do obrotu wyłącznie na rynku regulowanym niebędącym rynkiem oficjalnych notowań oraz częstotliwość i terminy ich przekazywania określa regulamin tego rynku przy uwzględnieniu regulacji w zakresie rachunkowości, na podstawie których mają być ujawniane dane finansowe lub dane niebędące danymi finansowymi, oraz zakresu ujawnianych danych finansowych i danych niebędących danymi finansowymi, w sposób umożliwiający inwestorom ocenę sytuacji gospodarczej, majątkowej i finansowej emitenta, a także ocenę wpływu emitenta na kwestie zrównoważonego rozwoju w rozumieniu art. 63p pkt 1 ustawy z dnia 29 września 1994 r. o rachunkowości oraz wpływu kwestii zrównoważonego rozwoju na rozwój, wyniki i sytuację emitenta. Regulaminy określają również, w przypadku emitentów z siedzibą w państwie niebędącym państwem członkowskim, dla których Rzeczpospolita Polska jest państwem macierzystym, warunki uznawania za równoważne informacji wymaganych przepisami prawa państwa siedziby do informacji bieżących i okresowych.
+zakazać dopuszczenia papierów wartościowych do obrotu na rynku regulowanym;
 
-**Art. 62.**
+### 3)
 
-1. (uchylony)
+opublikować, na koszt emitenta lub wprowadzającego, informację o niezgodnym z prawem działaniu w związku z ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym.
 
-2. (uchylony)
+### Art. 18.
 
-3. (uchylony)
+### 1.
 
-4. Komisja może, na wniosek emitenta z siedzibą w państwie niebędącym państwem członkowskim, dla którego Rzeczpospolita Polska jest państwem macierzystym, udzielić zgody na przekazywanie zamiast niektórych informacji bieżących i okresowych, o których mowa w art. 56 ust. 1, informacji wymaganych przepisami prawa państwa siedziby emitenta, pod warunkiem że informacje te są równoważne do informacji określonych w art. 56 ust. 1, lub zostały uznane za równoważne zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2 lub regulaminów, o których mowa w art. 61.
+Komisja może zastosować środki, o których mowa w art. 16 lub 17, także w przypadku, gdy z treści prospektu emisyjnego, memorandum informacyjnego lub innego dokumentu informacyjnego, składanych do Komisji lub przekazywanych do wiadomości publicznej, wynika, że:
 
-4a. O udzieleniu zgody, o której mowa w ust. 4, Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+### 1)
 
-5. Wniosek, o którym mowa w ust. 4, zawiera:
+oferta publiczna papierów wartościowych lub ich dopuszczenie do obrotu na rynku regulowanym w znaczący sposób naruszałyby interesy inwestorów;
 
-- **1)** firmę (nazwę) i siedzibę emitenta;
-- **2)** nazwę i siedzibę właściwego organu nadzoru w państwie niebędącym państwem członkowskim;
-- **3)** podstawowe dane o papierach wartościowych emitenta;
-- **4)** przedmiot wniosku wraz z podaniem wykazu informacji, które mają zostać objęte zgodą, o której mowa w ust. 4;
-- **5)** uzasadnienie ubiegania się emitenta o uzyskanie zgody, o której mowa w ust. 4, odnoszące się do przedstawionego wyciągu z przepisów prawa obowiązujących w państwie siedziby emitenta oraz innych niezbędnych dokumentów i informacji, o których mowa w pkt 6, zgodnie z przedmiotem wniosku;
-- **6)** w załączniku do wniosku – wyciąg z przepisów prawa obowiązujących w państwie niebędącym państwem członkowskim oraz inne niezbędne dokumenty i informacje, przetłumaczone na język polski, uzasadniające udzielenie zgody, o której mowa w ust. 4.
+### 2)
 
-6. Emitent z siedzibą w państwie niebędącym państwem członkowskim, dla którego Rzeczpospolita Polska jest państwem macierzystym jest obowiązany do informowania Komisji o każdorazowej zmianie przepisów prawa państwa siedziby emitenta mogących mieć wpływ na ocenę równoważności tych informacji.
+utworzenie emitenta nastąpiło z rażącym naruszeniem prawa, którego skutki pozostają w mocy;
 
-7. Rozpatrując wniosek o udzielenie zgody, o której mowa w ust. 4, Komisja uwzględnia także odpowiednio przepisy rozporządzenia Komisji (WE) nr 1569/2007 z dnia 21 grudnia 2007 r. ustanawiającego zgodnie z dyrektywami 2003/71/WE i 2004/109/WE Parlamentu Europejskiego i Rady mechanizm ustalenia równoważności standardów rachunkowości stosowanych przez emitentów papierów wartościowych z krajów trzecich (Dz. Urz. UE L 340 z 22.12.2007, str. 66, z późn. zm. ) i decyzji Komisji Europejskiej wydanych na jego podstawie oraz przepisy aktu wykonawczego w sprawie równoważności standardów sprawozdawczości w zakresie zrównoważonego rozwoju przyjętego zgodnie z art. 23 ust. 4 akapit trzeci dyrektywy 2004/109/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie harmonizacji wymogów dotyczących przejrzystości informacji o emitentach, których papiery wartościowe dopuszczane są do obrotu na rynku regulowanym oraz zmieniającej dyrektywę 2001/34/WE (Dz. Urz. UE L 390 z 31.12.2004, str. 38, z późn. zm. ) i decyzji Komisji Europejskiej wydanych na jego podstawie.
+### 3)
 
-8. Emitent z siedzibą w państwie niebędącym państwem członkowskim, dla którego Rzeczpospolita Polska jest państwem macierzystym, udostępniający publicznie na terytorium państwa swojej siedziby inne istotne informacje niż odpowiadające informacjom, o których mowa w art. 56 ust. 1, jest obowiązany do równoczesnego przekazania ich w trybie określonym w art. 56 ust. 1. Przepis art. 56b stosuje się odpowiednio.
+działalność emitenta była lub jest prowadzona z rażącym naruszeniem przepisów prawa, którego skutki pozostają w mocy, lub
 
-**Art. 62a.**
+### 4)
 
-1. Wyjaśnienia, o których mowa w art. 17 w ust. 4 w akapicie trzecim w zdaniu pierwszym rozporządzenia 596/2014, przekazują Komisji:
+status prawny papierów wartościowych jest niezgodny z przepisami prawa.
 
-- **1)** emitent;
-- **2)** uczestnik rynku uprawnień do emisji.
+### 2.
 
-2. W przypadku przekazania wyjaśnień, o których mowa w art. 17 w ust. 4 w akapicie trzecim w zdaniu pierwszym rozporządzenia 596/2014, przez emitenta, którego papiery wartościowe zostały wprowadzone wyłącznie do alternatywnego systemu obrotu lub który ubiega się o takie wprowadzenie, a jego papiery wartościowe nie są dopuszczone do obrotu na rynku regulowanym lub nie są przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym, Komisja przekazuje te wyjaśnienia spółce prowadzącej rynek regulowany, organizującej ten alternatywny system obrotu, która zapewnia sprawowanie nadzoru, o którym mowa w art. 68b ust. 1.
+W przypadku ustania przyczyn wydania decyzji, o której mowa w art. 16 pkt 1 lub 2, w art. 17 pkt 1 lub 2 lub w ust. 1, Komisja może, na wniosek emitenta lub wprowadzającego albo z urzędu, uchylić tę decyzję.
 
-**Art. 63.**
+### Art. 19.
 
-1. Emitent, dla którego Rzeczpospolita Polska jest państwem macierzystym, zapewnia publiczną dostępność informacji okresowych przez okres co najmniej 10 lat od dnia przekazania ich do publicznej wiadomości przez zamieszczenie ich w sieci Internet na swojej stronie.
+### 1.
 
-2. Emitent, dla którego Rzeczpospolita Polska jest państwem przyjmującym, inny niż emitent, o którym mowa w art. 56 ust. 8, zapewnia dostępność informacji okresowych zgodnie z przepisami państwa macierzystego.
+W przypadku naruszenia lub uzasadnionego podejrzenia naruszenia przepisów prawa przez emitenta, dla którego Rzeczpospolita Polska jest państwem przyjmującym, Komisja zobowiązana jest przekazać informację o tym zdarzeniu właściwemu organowi państwa macierzystego tego emitenta.
 
-**Art. 64.** Obowiązek przekazywania do publicznej wiadomości informacji okresowych nie ma zastosowania w odniesieniu do emitentów będących państwami, bankami centralnymi państw członkowskich, Europejskim Bankiem Centralnym, Europejskim Instrumentem Stabilności Finansowej (EFSF) ustanowionym na mocy umowy ramowej EFSF lub innym mechanizmem ustanowionym w celu zachowania stabilności finansowej europejskiej unii walutowej przez zapewnienie tymczasowej pomocy finansowej państwom członkowskim, których walutą jest euro.
+### 2.
 
-**Art. 65.** (uchylony)
+W przypadku gdy pomimo poinformowania przez Komisję właściwy organ państwa macierzystego emitenta nie podejmuje działań mających zapobiec dalszemu naruszaniu przepisów ustawy lub gdy te działania są nieskuteczne, Komisja może, w celu ochrony interesu inwestorów, po uprzednim poinformowaniu tego organu, zastosować wobec emitenta środki określone w art. 16 lub 17. Komisja niezwłocznie przekazuje informację o zastosowaniu tych środków ministrowi właściwemu do spraw instytucji finansowych, który następnie przekazuje ją Komisji Europejskiej.
 
-**Art. 66.** (uchylony)
+### Art. 20.
 
-**Art. 67.** (uchylony)
+Emitenci papierów wartościowych dopuszczonych do obrotu na rynku regulowanym są obowiązani zapewnić posiadaczom papierów tego samego rodzaju, w takich samych okolicznościach, jednakowe traktowanie. Nie wyłącza to możliwości przeprowadzania przez emitenta, zgodnie z przepisami prawa jego siedziby, wcześniejszego wykupu dłużnych papierów wartościowych, w przypadku konieczności odstąpienia od wcześniejszych warunków emisji ze względów społecznych.
 
-**Art. 68.**
+### Oddział 2 Prospekt emisyjny i memorandum informacyjne objęte zasadami obowiązującymi jednolicie w państwach członkowskich
 
-1. Na żądanie Komisji osoby wchodzące w skład organów zarządzających lub nadzorczych emitenta papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub będących przedmiotem ubiegania się o to dopuszczenie, lub którego papiery wartościowe zostały wprowadzone do alternatywnego systemu obrotu lub są przedmiotem ubiegania się o takie wprowadzenie, albo pozostające z nim w stosunku pracy, lub będące odpowiednio likwidatorem, syndykiem ustanowionym w postępowaniu upadłościowym lub zarządcą ustanowionym w postępowaniu restrukturyzacyjnym są obowiązane do niezwłocznego udzielenia pisemnych lub ustnych informacji i wyjaśnień, a także sporządzenia i przekazania, na koszt emitenta, kopii dokumentów i innych nośników informacji, w celu umożliwienia wykonywania ustawowych zadań Komisji w zakresie:
+### Art. 21.
 
-- **1)** nadzoru nad sposobem wykonywania przez te podmioty obowiązków informacyjnych, w tym obowiązku, o którym mowa w art. 17 rozporządzenia 596/2014;
-- **2)** ujawniania i przeciwdziałania manipulacji na rynku, o której mowa w art. 12 rozporządzenia 596/2014;
-- **3)** ujawniania i przeciwdziałania ujawnieniu lub wykorzystywaniu informacji poufnej;
-- **4)** nadzoru nad przebiegiem oferty publicznej lub dopuszczeniem i wprowadzeniem papierów wartościowych do obrotu na rynku regulowanym;
-- **5)** nadzoru nad sposobem wykonywania obowiązków, o których mowa w rozdziałach 4 i 4a;
-- **6)** nadzoru nad sposobem wykonywania obowiązków, o których mowa w art. 18 i art. 19 rozporządzenia 596/2014.
-- **7)** (uchylony) 1a. Przepis ust. 1 stosuje się do osób wchodzących w skład organów zarządzających lub nadzorczych emitenta papierów wartościowych, którego papiery wartościowe zostały dopuszczone do obrotu na zorganizowanej platformie obrotu, albo pozostających z nim w stosunku pracy lub będących odpowiednio likwidatorem, syndykiem ustanowionym w postępowaniu upadłościowym lub zarządcą ustanowionym w postępowaniu restrukturyzacyjnym takiego emitenta.
+### 1.
 
-1b. Obowiązek, o którym mowa w ust. 1, dotyczy również emitentów, których papiery wartościowe zostały wycofane z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu, jeżeli żądanie Komisji dotyczy zdarzeń i okoliczności, które miały miejsce w okresie, w którym papiery wartościowe emitenta były:
+Prospekt emisyjny sporządza się w formie:
 
-- **1)** dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu, lub
-- **2)** przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub wprowadzenie do obrotu w alternatywnym systemie obrotu.
+### 1)
 
-1c. Obowiązek, o którym mowa w ust. 1 pkt 1–3, dotyczy również podmiotów innych niż nadzorowane, będących stroną umowy, transakcji lub porozumienia z emitentem papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub będących przedmiotem ubiegania się o to dopuszczenie, lub którego papiery wartościowe zostały wprowadzone do alternatywnego systemu obrotu lub są przedmiotem ubiegania się o takie wprowadzenie.
+jednolitego dokumentu albo
 
-1d. Obowiązek, o którym mowa w ust. 1 pkt 1, dotyczy również podmiotów innych niż nadzorowane, będących jednostką dominującą lub jednostką dominującą wyższego szczebla w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości wobec emitenta papierów wartościowych dopuszczonych do obrotu na rynku regulowanym, który korzysta ze zwolnienia z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju na podstawie art. 63u lub art. 63v tej ustawy lub korzysta ze zwolnienia z obowiązku sporządzenia sprawozdawczości zrównoważonego rozwoju grupy kapitałowej na podstawie art. 63z lub art. 63za tej ustawy.
+### 2)
 
-2. Obowiązek, o którym mowa w ust. 1 i 1b, spoczywa również na biegłym rewidencie oraz osobach wchodzących w skład organów zarządzających firmy audytorskiej lub pozostających z tą firmą w stosunku pracy – w zakresie związanym z wykonywaniem na rzecz emitenta lub podmiotów określonych w ust. 1d czynności rewizji finansowej w rozumieniu art. 2 pkt 7 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863) oraz innych czynności wymienionych w art. 47 ust. 2 tej ustawy; nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 78 tej ustawy.
+zestawu dokumentów obejmującego dokument rejestracyjny, dokument ofertowy i dokument podsumowujący.
 
-3. W razie powzięcia wątpliwości co do prawidłowości, rzetelności lub kompletności informacji, o których mowa w art. 56 ust. 1, lub informacji poufnych lub prawidłowości prowadzenia ksiąg rachunkowych Komisja może zlecić firmie audytorskiej wykonanie czynności, o których mowa w ust. 2.
+### 2.
 
-4. W przypadku gdy czynności, o których mowa w ust. 3 wykażą, że wątpliwości Komisji były uzasadnione, emitent zwraca Komisji koszty związane ze zleceniem ich wykonania.
+W przypadku oferty publicznej lub dopuszczania do obrotu na rynku regulowanym:
 
-5. Komisja może wydać zalecenia w stosunku do emitenta w celu zaprzestania naruszania obowiązków informacyjnych.
+### 1)
 
-6. Na żądanie Komisji uczestnik rynku uprawnień do emisji, osoby wchodzące w skład organów zarządzających lub nadzorczych uczestnika rynku uprawnień do emisji albo pozostające z nim w stosunku pracy lub będące odpowiednio likwidatorem, syndykiem ustanowionym w postępowaniu upadłościowym lub zarządcą ustanowionym w postępowaniu restrukturyzacyjnym są obowiązani do niezwłocznego udzielenia pisemnych lub ustnych informacji i wyjaśnień, a także sporządzenia i przekazania, na koszt uczestnika rynku uprawnień do emisji, kopii dokumentów i innych nośników informacji, w celu umożliwienia wykonywania ustawowych zadań Komisji w zakresie:
+papierów wartościowych o charakterze nieudziałowym lub warrantów subskrypcyjnych, tożsamych co do charakteru inkorporowanych w nich praw, emitowanych w określonym czasie, w sposób ciągły lub powtarzający się w cyklach obejmujących co najmniej dwie emisje dokonywane w odstępie nie dłuższym niż 12 miesięcy (program emisji), lub
 
-- **1)** nadzoru nad sposobem wykonywania przez te podmioty obowiązków informacyjnych, w tym obowiązku, o którym mowa w art. 17 rozporządzenia 596/2014;
-- **2)** ujawniania i przeciwdziałania manipulacji na rynku, o której mowa w art. 12 rozporządzenia 596/2014;
-- **3)** ujawniania i przeciwdziałania ujawnieniu lub wykorzystywaniu informacji poufnej;
-- **4)** nadzoru nad sposobem wykonywania obowiązków, o których mowa w art. 18 i art. 19 rozporządzenia 596/2014.
+### 2)
 
-7. Komisja może wydać zalecenia w celu zaprzestania naruszania obowiązków informacyjnych, w tym obowiązków przekazywania informacji określonych w przepisach rozporządzenia 596/2014, a także w aktach delegowanych wydanych na jego podstawie, w stosunku do:
+papierów wartościowych o charakterze nieudziałowym emitowanych przez instytucję kredytową w sposób ciągły lub powtarzający się w cyklach obejmujących co najmniej dwie emisje dokonywane w odstępie nie dłuższym niż 12 miesięcy, jeżeli środki uzyskane z emisji tych papierów są lokowane w aktywa o wartości odpowiadającej co najmniej wartości zobowiązań wynikających z tych papierów do dnia ich wykupu, oraz pod warunkiem, że w przypadku niewypłacalności emitenta kwoty sporne mają pierwszeństwo w spłacie kapitału i odsetek wymagalnych
 
-- **1)** emitenta, o którym mowa w ust. 1, lub
-- **2)** uczestnika rynku uprawnień do emisji.
+- emitent lub wprowadzający sporządza prospekt emisyjny, będący prospektem emisyjnym podstawowym.
 
-8. Komisja, w zakresie jej kompetencji wynikających z ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym lub z rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 537/2014 z dnia 16 kwietnia 2014 r. w sprawie szczegółowych wymogów dotyczących ustawowych badań sprawozdań finansowych jednostek interesu publicznego, uchylającego decyzję Komisji 2005/909/WE (Dz. Urz. UE L 158 z 27.05.2014, str. 77, z późn. zm. ), może wydać zalecenia w stosunku do emitenta w celu zaprzestania naruszania obowiązków wynikających z tej ustawy lub z tego rozporządzenia.
+### Art. 22.
 
-**Art. 68a.** W celu prawidłowego wykonywania przez emitentów papierów wartościowych obowiązków wynikających z ustawy osoby wchodzące w skład organów zarządzających oraz nadzorujących emitenta są obowiązane do ujawniania swoich danych w zakresie określonym przepisami rozporządzenia delegowanego Komisji (UE) 2019/980 z dnia 14 marca 2019 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) 2017/1129 w odniesieniu do formatu, treści, weryfikacji i zatwierdzania prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym, i uchylającego rozporządzenie Komisji (WE) nr 809/2004 (Dz. Urz. UE L 166 z 21.06.2019, str. 26) oraz przepisami wykonawczymi wydanymi na podstawie art. 55 pkt 1 i 3 oraz art. 60 ust. 2 i art. 61, w szczególności dotyczących wartości wynagrodzeń, nagród lub korzyści, wypłaconych lub należnych tym osobom od emitenta, z podaniem imion i nazwisk tych osób oraz należnych im kwot, odrębnie dla każdej z tych osób.
+### 1.
 
-**Art. 68b.**
+Prospekt emisyjny powinien zawierać prawdziwe, rzetelne i kompletne informacje, przy uwzględnieniu rodzaju emitenta i papierów wartościowych mających być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym, istotne dla oceny sytuacji gospodarczej, finansowej i majątkowej oraz perspektyw rozwoju emitenta oraz podmiotu udzielającego zabezpieczenia wierzytelności wynikających z papieru wartościowego (podmiot zabezpieczający) oraz dotyczące praw i obowiązków związanych z tymi papierami wartościowymi. Informacje zamieszczone w prospekcie emisyjnym powinny być przedstawione językiem zrozumiałym dla inwestorów oraz w sposób umożliwiający im ocenę sytuacji tych podmiotów.
 
-1. Spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, jest obowiązana zapewnić nadzór nad wykonywaniem przez emitentów, których papiery wartościowe zostały wprowadzone wyłącznie do alternatywnego systemu obrotu lub są przedmiotem ubiegania się o takie wprowadzenie, obowiązków, określonych w art. 17 ust. 1, 4 i ust. 7–9 oraz art. 18 ust. 1–6 rozporządzenia 596/2014. W przypadku gdy papiery wartościowe zostały wprowadzone do więcej niż jednego alternatywnego systemu obrotu, nadzór zapewnia spółka prowadząca alternatywny system obrotu, do którego papiery wartościowe emitenta zostały wprowadzone po raz pierwszy, a w przypadku równoczesnego wprowadzenia do obrotu w więcej niż jednym alternatywnym systemie obrotu – spółka, która wcześniej rozpoczęła prowadzenie takiego systemu.
+### 2.
 
-2. Spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, jest obowiązana opracować, wdrożyć i stosować odpowiednie rozwiązania techniczne i organizacyjne oraz regulaminy i procedury zapewniające sprawowanie nadzoru w zakresie, o którym mowa w ust. 1. Spółka prowadząca rynek regulowany ocenia adekwatność i skuteczność stosowanych rozwiązań, procedur i regulaminów, nie rzadziej niż raz w roku.
+Informacje mogą być zamieszczane w prospekcie emisyjnym przez odesłanie do jednego lub więcej uprzednio lub równocześnie udostępnionych do publicznej wiadomości dokumentów, które zostały przekazane Komisji lub zatwierdzone przez Komisję. Informacje te powinny stanowić najbardziej aktualne informacje dostępne emitentowi. Jeżeli informacje są zamieszczone przez odesłanie, do prospektu emisyjnego załącza się wykaz tych odesłań, obejmujący wskazanie informacji, których zamieszczenie w prospekcie emisyjnym jest wymagane przepisami prawa, oraz przedmiotowych dokumentów. Dokument podsumowujący ani podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu nie może zawierać informacji zamieszczonych przez odesłanie. Szczegółowe zasady zamieszczania informacji przez odesłanie określa art. 28 rozporządzenia 809/2004.
 
-3. Spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, może żądać niezwłocznego udzielenia przez osoby wymienione w art. 68 ust. 1 i 2 pisemnych lub ustnych informacji i wyjaśnień, a także sporządzenia i przekazania, na koszt emitenta, kopii dokumentów i innych nośników informacji, niezbędnych do wykonywania nadzoru, o którym mowa w ust. 1, w szczególności list osób posiadających dostęp do informacji poufnej. Przekazanie żądanych informacji przez osoby wymienione w art. 68 ust. 2 nie narusza obowiązku zachowania tajemnicy, o której mowa w art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+### 3.
 
-4. O każdym przypadku nieprzekazania spółce prowadzącej rynek regulowany, która organizuje alternatywny system obrotu, na jej żądanie, informacji, wyjaśnień lub kopii dokumentów i innych nośników informacji, o których mowa w ust. 3, spółka ta niezwłocznie informuje Komisję.
+W przypadku gdy wymóg przedstawienia określonych informacji w prospekcie emisyjnym nie ma zastosowania wprost, ze względu na specyfikę działalności emitenta, jego formy prawnej lub papierów wartościowych, albo inne uzasadnione okoliczności, w treści prospektu emisyjnego zamieszcza się informacje, które swym charakterem odpowiadają informacjom objętym tym wymogiem, o ile nie wprowadzi to w błąd ogółu inwestorów co do faktów i okoliczności, których znajomość jest istotna dla oceny papierów wartościowych lub sytuacji emitenta.
 
-5. Członkowie organów spółki prowadzącej rynek regulowany, która organizuje alternatywny system obrotu, jej pracownicy i osoby zatrudnione na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze są obowiązani do nieujawniania osobom nieupoważnionym informacji uzyskanych na podstawie ust. 3. Obowiązek ten trwa również po ustaniu pełnienia funkcji w organach spółki i rozwiązaniu stosunku pracy, umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze.
+### Art. 23.
 
-**Art. 68c.**
+Dokument podsumowujący oraz podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu przedstawia, z uwzględnieniem art. 24 rozporządzenia 809/2004, w sposób zwięzły i bez sformułowań technicznych, najważniejsze informacje i czynniki ryzyka dotyczące emitenta, podmiotu zabezpieczającego, papierów wartościowych oraz ich oferty lub dopuszczenia do obrotu na rynku regulowanym, jak również jednoznaczne wskazanie, że:
 
-1. Spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, zawiadamia Komisję o ujawnionym istotnym przypadku naruszenia obowiązków, o których mowa w art. 68b ust. 1.
+### 1)
 
-2. Zawiadomienie zawiera co najmniej:
+jest traktowany jako wprowadzenie do prospektu emisyjnego;
 
-- **1)** dane identyfikujące podmiot, który dopuścił się naruszenia;
-- **2)** rodzaj naruszenia oraz czas i sposób jego dokonania;
-- **3)** ustaloną wysokość uzyskanej korzyści lub unikniętej straty, o ile da się ją ustalić, wraz ze wskazaniem sposobu jej ustalenia;
-- **4)** inne informacje, nośniki danych i dokumenty, które w ocenie spółki prowadzącej rynek regulowany mogą być przydatne w prowadzeniu sprawy przez Komisję.
+### 2)
 
-3. W przypadku gdy przekazane w zawiadomieniu informacje są niekompletne, Komisja może zażądać ich uzupełnienia przez spółkę prowadzącą rynek regulowany, która organizuje alternatywny system obrotu.
+decyzja inwestycyjna powinna być każdorazowo podejmowana w oparciu o treść całego prospektu emisyjnego;
 
-4. Do zawiadomienia spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, załącza zgromadzone w sprawie materiały, w tym oryginały dokumentów i inne nośniki informacji, a także utrwalone informacje przekazane jej na podstawie art. 68b ust. 3 w innej formie niż na trwałym nośniku informacji.
+### 3)
 
-5. Spółka prowadząca rynek regulowany, która organizuje alternatywny system obrotu, może w razie ujawnienia innych niż istotne przypadków naruszenia obowiązków, o których mowa w art. 68b ust. 1, wydać w stosunku do emitenta, o którym mowa w art. 68b ust. 1, zalecenia w celu zaprzestania naruszania obowiązków informacyjnych.
+inwestor wnoszący powództwo odnoszące się do treści prospektu emisyjnego ponosi koszt ewentualnego tłumaczenia tego prospektu emisyjnego przed rozpoczęciem postępowania przed sądem;
 
-6. Komisja informuje spółkę prowadzącą rynek regulowany, która organizuje alternatywny system obrotu, o sposobie rozpatrzenia zawiadomienia, o którym mowa w ust. 1.
+### 4)
 
-#### Rozdział 4 Znaczne pakiety akcji spółek publicznych
+osoby sporządzające dokument podsumowujący lub podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu, łącznie z każdym jego tłumaczeniem, ponoszą odpowiedzialność jedynie za szkodę wyrządzoną w przypadku, gdy dokument podsumowujący wprowadza w błąd, jest niedokładny lub sprzeczny z innymi częściami prospektu emisyjnego.
 
-##### Oddział 1 Ujawnianie stanu posiadania
+### Art. 24.
 
-**Art. 69.**
+W przypadku gdy prospekt emisyjny podstawowy, zaktualizowany zgodnie z art. 51, nie zawiera informacji o szczegółowych warunkach poszczególnych ofert, emitent lub wprowadzający przekazuje do Komisji informację o szczegółowych warunkach każdej oferty oraz udostępnia ją do publicznej wiadomości w trybie przewidzianym dla prospektu emisyjnego, z uwzględnieniem art. 22, 26 i 33 rozporządzenia 809/2004. Do informacji o szczegółowych warunkach oferty przekazywanych w tym trybie nie stosuje się wymogów wynikających z art. 51. W takim przypadku prospekt emisyjny podstawowy powinien spełniać przynajmniej warunek, o którym mowa w art. 54 ust. 1 pkt 1.
 
-1. Kto:
+### Art. 25.
 
-- **1)** osiągnął lub przekroczył 5 %, 10 %, 15 %, 20 %, 25 %, 33 %, 33⅓ %, 50 %, 75 % albo 90 % ogólnej liczby głosów w spółce publicznej albo
-- **2)** posiadał co najmniej 5 %, 10 %, 15 %, 20 %, 25 %, 33 %, 33⅓ %, 50 %, 75 % albo 90 % ogólnej liczby głosów w tej spółce, a w wyniku zmniejszenia tego udziału osiągnął odpowiednio 5 %, 10 %, 15 %, 20 %, 25 %, 33 %, 33⅓ %, 50 %, 75 % albo 90 % lub mniej ogólnej liczby głosów – jest obowiązany niezwłocznie zawiadomić o tym Komisję oraz spółkę, nie później niż w terminie 4 dni roboczych od dnia, w którym dowiedział się o zmianie udziału w ogólnej liczbie głosów lub przy zachowaniu należytej staranności mógł się o niej dowiedzieć, a w przypadku zmiany wynikającej z nabycia lub zbycia akcji spółki publicznej w transakcji zawartej na rynku regulowanym lub w alternatywnym systemie obrotu – nie później niż w terminie 6 dni sesyjnych od dnia zawarcia transakcji.
+### 1.
 
-1a. Dniami sesyjnymi, w rozumieniu ust. 1, są dni sesyjne określone przez spółkę prowadzącą rynek regulowany lub przez podmiot organizujący alternatywny system obrotu w regulaminie, zgodnie z przepisami ustawy o obrocie instrumentami finansowymi oraz ogłoszone przez Komisję w drodze publikacji na stronie internetowej.
+Szczegółowe warunki, jakim powinien odpowiadać prospekt emisyjny, sposób jego sporządzania oraz warunki żądania przez Komisję zamieszczenia w prospekcie emisyjnym dodatkowych informacji określają art. 2-26, 28 i 35 rozporządzenia 809/2004, z zastrzeżeniem ust. 2 oraz art. 26.
 
-2. Obowiązek dokonania zawiadomienia, o którym mowa w ust. 1, powstaje również w przypadku:
+### 2.
 
-- **1)** zmiany dotychczas posiadanego udziału ponad 10 % ogólnej liczby głosów o co najmniej:
-    - **a)** 2 % ogólnej liczby głosów – w spółce publicznej, której akcje są dopuszczone do obrotu na rynku oficjalnych notowań,
-    - **b)** 5 % ogólnej liczby głosów – w spółce publicznej, której akcje są dopuszczone do obrotu na innym rynku regulowanym niż określony w lit. a lub wprowadzone do alternatywnego systemu obrotu;
+W przypadku emitenta z siedzibą w państwie niebędącym państwem członkowskim prospekt emisyjny może być sporządzony na podstawie przepisów państwa siedziby tego emitenta, pod warunkiem że został sporządzony zgodnie z właściwymi standardami opracowanymi przez Międzynarodową Organizację Komisji Papierów Wartościowych (IOSCO) oraz że informacje zamieszczone w prospekcie emisyjnym odpowiadają wymogom określonym w art. 21-24 i art. 54 ustawy oraz w art. 2-26, 28 i 35 rozporządzenia 809/2004.
 
-- **2)** zmiany dotychczas posiadanego udziału ponad 33 % ogólnej liczby głosów o co najmniej 1 % ogólnej liczby głosów.
+### Art. 26.
 
-3. Obowiązek dokonania zawiadomienia, o którym mowa w ust. 1 i 2, nie powstaje w przypadku, gdy po rozrachunku w depozycie papierów wartościowych kilku transakcji zawartych na rynku regulowanym lub w alternatywnym systemie obrotu w tym samym dniu zmiana udziału w ogólnej liczbie głosów w spółce publicznej na koniec dnia rozliczenia nie powoduje osiągnięcia lub przekroczenia progu ogólnej liczby głosów, z którym wiąże się powstanie tych obowiązków.
+### 1.
 
-4. Zawiadomienie, o którym mowa w ust. 1, zawiera informacje o:
+W przypadku emitenta z siedzibą na terytorium Rzeczypospolitej Polskiej, dla którego, z uwzględnieniem art. 2-26 i 35 rozporządzenia 809/2004, właściwe są polskie zasady rachunkowości, który zamierza ubiegać się lub ubiega się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, prospekt emisyjny - w odniesieniu do informacji wykazywanych w sprawozdaniach finansowych i skonsolidowanych sprawozdaniach finansowych - zawiera informacje w zakresie określonym w rozporządzeniu wydanym na podstawie art. 55 pkt 3.
 
-- **1)** dacie i rodzaju zdarzenia powodującego zmianę udziału, której dotyczy zawiadomienie;
-- **2)** liczbie akcji posiadanych przed zmianą udziału i ich procentowym udziale w kapitale zakładowym spółki oraz o liczbie głosów z tych akcji i ich procentowym udziale w ogólnej liczbie głosów;
-- **3)** liczbie aktualnie posiadanych akcji i ich procentowym udziale w kapitale zakładowym spółki oraz o liczbie głosów z tych akcji i ich procentowym udziale w ogólnej liczbie głosów;
-- **4)** (uchylony)
-- **5)** podmiotach zależnych od akcjonariusza dokonującego zawiadomienia, posiadających akcje spółki;
-- **6)** osobach, o których mowa w art. 87 ust. 1 pkt 3 lit. c;
-- **7)** liczbie głosów z akcji, obliczonej w sposób określony w art. 69b ust. 2, do których nabycia jest uprawniony lub zobowiązany jako posiadacz instrumentów finansowych, o których mowa w art. 69b ust. 1 pkt 1, oraz instrumentów finansowych, o których mowa w art. 69b ust. 1 pkt 2, które nie są wykonywane wyłącznie przez rozliczenie pieniężne, rodzaju lub nazwie tych instrumentów finansowych, dacie ich wygaśnięcia oraz dacie lub terminie, w którym nastąpi lub może nastąpić nabycie akcji;
-- **8)** liczbie głosów z akcji, obliczonej w sposób określony w art. 69b ust. 3, do których w sposób pośredni lub bezpośredni odnoszą się instrumenty finansowe, o których mowa w art. 69b ust. 1 pkt 2, rodzaju lub nazwie tych instrumentów finansowych oraz dacie wygaśnięcia tych instrumentów finansowych;
-- **9)** łącznej sumie liczby głosów wskazanych na podstawie pkt 3, 7 i 8 i jej procentowym udziale w ogólnej liczbie głosów;
-- **10)** numerze PESEL lub krajowym identyfikatorze klienta, o którym mowa w Załączniku II rozporządzenia delegowanego Komisji (UE) nr 2017/590 z dnia 28 lipca 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 600/2014 w odniesieniu do regulacyjnych standardów technicznych dotyczących zgłaszania transakcji właściwym organom (Dz. Urz. UE L 87 z 31.03.2017, str. 449), jeżeli podmiotem dokonującym zawiadomienia jest osoba fizyczna, albo identyfikatorze zgodnym z normą ISO 17442, nadanym przez podmiot uprawniony do rejestrowania takich identyfikatorów (kodzie LEI), jeżeli podmiotem dokonującym zawiadomienia jest podmiot inny niż osoba fizyczna;
-- **11)** kodzie LEI emitenta akcji, których dotyczy zawiadomienie;
-- **12)** aktualnym adresie zamieszkania lub adresie siedziby podmiotu dokonującego zawiadomienia.
+### 2.
 
-4a. W przypadku gdy podmiot zobowiązany do dokonania zawiadomienia posiada akcje różnego rodzaju, zawiadomienie, o którym mowa w ust. 1, powinno zawierać także informacje określone w ust. 4 pkt 2 i 3, odrębnie dla akcji każdego rodzaju. 4aa. Informacje, o których mowa w ust. 4 pkt 10 i 12, zamieszcza się wyłącznie w zawiadomieniu przekazywanym Komisji.
+Podmiotem zamierzającym ubiegać się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym jest podmiot, który złożył wniosek o zatwierdzenie prospektu emisyjnego lub jego części, w którym - zgodnie z przepisami rozporządzenia 809/2004 - wskazał na zamiar ubiegania się o dopuszczenie papierów wartościowych objętych tym prospektem do obrotu na rynku regulowanym. Podmiotem ubiegającym się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym jest podmiot, który złożył wniosek o dopuszczenie papierów wartościowych na rynek regulowany.
 
-4b. Zawiadomienie, o którym mowa w ust. 1, może być sporządzone w języku angielskim.
+### Art. 27.
 
-4c. Przekazanie zawiadomienia do Komisji, o którym mowa w ust. 1 i 2, następuje za pomocą systemu teleinformatycznego umożliwiającego składanie zawiadomień, do którego dostęp jest zapewniany przez Komisję na jej stronie internetowej.
+### 1.
 
-4d. W przypadku zaistnienia zdarzenia uniemożliwiającego przekazanie zawiadomienia, o którym mowa w ust. 1 i 2, za pomocą systemu teleinformatycznego, o którym mowa w ust. 4c, zawiadomienie przekazuje się na adres poczty elektronicznej, wskazany w tym celu przez Komisję na jej stronie internetowej. Niezwłocznie po ustaniu zdarzeń uniemożliwiających przekazanie zawiadomienia, o którym mowa w ust. 1 i 2, zawiadomienie to przekazuje się ponownie za pomocą tego systemu.
+W celu uzyskania zatwierdzenia prospektu emisyjnego w formie jednolitego dokumentu - w przypadku papierów wartościowych emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym - emitent lub wprowadzający składa do Komisji, za pośrednictwem firmy inwestycyjnej, wniosek zawierający:
 
-5. (uchylony)
+### 1)
 
-**Art. 69a.**
+firmę (nazwę) i siedzibę emitenta;
 
-1. Obowiązki określone w art. 69 spoczywają również na podmiocie, który osiągnął lub przekroczył określony próg ogólnej liczby głosów w związku z:
+### 2)
 
-- **1)** zajściem innego niż czynność prawna zdarzenia prawnego;
-- **2)** (uchylony)
-- **3)** pośrednim nabyciem akcji spółki publicznej.
+podstawowe dane o papierach wartościowych, których dotyczy prospekt emisyjny, a w szczególności określenie ich liczby, rodzaju i wartości nominalnej;
 
-2. (uchylony)
+### 3)
 
-3. Obowiązki określone w art. 69 powstają również w przypadku gdy prawa głosu są związane z papierami wartościowymi stanowiącymi przedmiot zabezpieczenia; nie dotyczy to sytuacji, gdy podmiot, na rzecz którego ustanowiono zabezpieczenie, ma prawo wykonywać prawo głosu i deklaruje zamiar wykonywania tego prawa – w takim przypadku prawa głosu uważa się za należące do podmiotu, na rzecz którego ustanowiono zabezpieczenie.
+oznaczenie firmy inwestycyjnej, która będzie oferować papiery wartościowe objęte wnioskiem.
 
-**Art. 69b.**
+### 2.
 
-1. Obowiązki określone w art. 69 spoczywają również na podmiocie, który osiągnął lub przekroczył określony próg ogólnej liczby głosów w związku z nabywaniem lub zbywaniem instrumentów finansowych, które:
+Do wniosku załącza się:
 
-- **1)** po upływie terminu zapadalności bezwarunkowo uprawniają lub zobowiązują ich posiadacza do nabycia akcji, z którymi związane są prawa głosu, wyemitowanych już przez emitenta, lub
-- **2)** odnoszą się do akcji emitenta w sposób pośredni lub bezpośredni i mają skutki ekonomiczne podobne do skutków instrumentów finansowych określonych w pkt 1, niezależnie od tego, czy instrumenty te są wykonywane przez rozliczenie pieniężne.
+### 1)
 
-2. W przypadku instrumentów finansowych, o których mowa w ust. 1, liczba głosów posiadanych w spółce publicznej odpowiada liczbie głosów wynikających z akcji, do których nabycia uprawniony lub zobowiązany jest posiadacz tych instrumentów finansowych.
+prospekt emisyjny sporządzony w języku polskim, z zastrzeżeniem ust. 3;
 
-3. W przypadku instrumentów finansowych, o których mowa w ust. 1 pkt 2, które są wykonywane wyłącznie przez rozliczenie pieniężne, liczba głosów posiadanych w spółce publicznej, związanych z tymi instrumentami finansowymi, odpowiada iloczynowi liczby głosów wynikających z akcji, do których w sposób pośredni lub bezpośredni odnoszą się te instrumenty finansowe, oraz współczynnika delta danego typu instrumentu finansowego. Wartość współczynnika delta określa się zgodnie z rozporządzeniem delegowanym Komisji (UE) 2015/761 z dnia 17 grudnia 2014 r. uzupełniającym dyrektywę 2004/109/WE Parlamentu Europejskiego i Rady w odniesieniu do określonych regulacyjnych standardów technicznych stosowanych do znaczących pakietów akcji (Dz. Urz. UE L 120 z 13.05.2015, str. 2).
+### 2)
 
-4. Przy obliczaniu liczby głosów uwzględnia się wyłącznie pozycje długie. Pozycja długa oznacza pozycję długą w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 236/2012 z dnia 14 marca 2012 r. w sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego (Dz. Urz. UE L 86 z 24.03.2012, str. 1, z późn. zm.).
+statut, umowę spółki, akt założycielki lub inny przewidziany przepisami prawa dokument dotyczący utworzenia, działalności i organizacji emitenta;
 
-5. Obowiązki, o których mowa w art. 69, powstają również w przypadku wykonania uprawnienia do nabycia akcji spółki publicznej, mimo złożenia uprzednio zawiadomienia zgodnie z ust. 1, jeżeli wskutek nabycia akcji łączna liczba głosów wynikających z akcji tego samego emitenta osiąga lub przekracza progi ogólnej liczby głosów w spółce publicznej określone w art. 69.
+### 3)
 
-6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wykaz instrumentów finansowych, o których mowa w ust. 1, uwzględniając cechy tych instrumentów, przydatność informacji o tych instrumentach na potrzeby oceny zaangażowania akcjonariusza w spółkę publiczną oraz konieczność zachowania we wszystkich państwach członkowskich jednolitego katalogu takich instrumentów finansowych.
+uchwałę w sprawie odpowiednio emisji papierów wartościowych w drodze oferty publicznej lub ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym oraz dematerializacji papierów wartościowych, podjętą przez właściwy organ stanowiący emitenta, a w przypadku prospektu emisyjnego obejmującego akcje - uchwałę walnego zgromadzenia spółki akcyjnej w tej sprawie;
 
-**Art. 70.** Spółka publiczna jest obowiązana do:
+### 4)
 
-**Art. 70a.** W przypadku zawiadomienia, o którym mowa w art. 69 ust. 4b, spółka publiczna może sporządzić informację, o której mowa w art. 70 pkt 1, w języku angielskim.
+wykaz informacji, w odniesieniu do których emitent lub wprowadzający wnosi o zwolnienie z obowiązku zamieszczenia w prospekcie emisyjnym, wraz z uzasadnieniem takiego wniosku;
 
-**Art. 71.** Komisja może zwolnić spółkę publiczną z obowiązku przekazania informacji, o których mowa w art. 70 pkt 1, w przypadku, gdy ujawnienie takich informacji mogłoby:
+### 5)
 
-**Art. 71a.** W przypadku spółki publicznej, dla której Rzeczpospolita Polska jest państwem przyjmującym, przepisów niniejszego oddziału nie stosuje się. Zakres i sposób wykonania obowiązków, o których mowa w niniejszym oddziale, określają przepisy państwa macierzystego.
+wykaz informacji, których przedstawienie w prospekcie emisyjnym nie jest możliwe, ze wskazaniem specyfiki lub okoliczności, które uzasadniają pominięcie ich w treści prospektu, z uwzględnieniem art. 22 ust. 3.
 
-**Art. 71b.** W przypadku spółki z siedzibą poza terytorium Rzeczypospolitej Polskiej, której akcje wprowadzone są wyłącznie do alternatywnego systemu obrotu bez zgody ich emitenta, przepisów art. 69–71a nie stosuje się.
+### 3.
 
-##### Oddział 2 Wezwania
+W przypadku gdy oferta publiczna lub dopuszczenie do obrotu na rynku regulowanym ma mieć miejsce wyłącznie w państwie członkowskim innym niż Rzeczpospolita Polska, prospekt emisyjny załączony do wniosku, o którym mowa w ust. 1, może być sporządzony w języku polskim lub angielskim, według wyboru emitenta lub wprowadzającego.
 
-**Art. 72.** (uchylony)
+### Art. 28.
 
-**Art. 72a.**
+### 1.
 
-1. Nabycie akcji spółki publicznej, której akcje są dopuszczone do obrotu na rynku regulowanym, może nastąpić w wyniku wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki, zwanego dalej „wezwaniem dobrowolnym”.
+W celu uzyskania zatwierdzenia prospektu emisyjnego sporządzonego w formie zestawu dokumentów - w przypadku papierów wartościowych emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym - emitent lub wprowadzający składa do Komisji, za pośrednictwem firmy inwestycyjnej:
 
-2. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem, że do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, właściwy organ:
+### 1)
 
-- **1)** udzieli zezwolenia na dokonanie koncentracji przedsiębiorców;
-- **2)** udzieli zgody lub zezwolenia na nabycie akcji będących przedmiotem tego wezwania;
-- **3)** nie zgłosi sprzeciwu wobec nabycia akcji będących przedmiotem tego wezwania.
+dokument rejestracyjny wraz z wnioskiem o jego zatwierdzenie zawierającym informacje określone w art. 27 ust. 1 pkt 1, załączając dokumenty, o których mowa w art. 27 ust. 2 pkt 2, 4 i 5, albo
 
-3. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem wyrażenia, do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, wymaganej przepisami prawa zgody na nabycie akcji przez walne zgromadzenie lub inny organ stanowiący lub nadzorujący wzywającego.
+### 2)
 
-4. Wezwanie dobrowolne może zawierać zastrzeżenie, że wezwanie to zostaje ogłoszone pod warunkiem, że do dnia wskazanego w treści tego wezwania, nie później jednak niż do zakończenia przyjmowania zapisów w odpowiedzi na to wezwanie, zostanie:
+łącznie dokument rejestracyjny, dokument ofertowy i dokument podsumowujący, wraz z wnioskiem o zatwierdzenie prospektu emisyjnego obejmującego te dokumenty.
 
-- **1)** podjęta przez walne zgromadzenie lub radę nadzorczą spółki publicznej, której akcje są objęte tym wezwaniem, uchwała w określonej sprawie;
-- **2)** zakończone z określonym skutkiem inne wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki należącej do tej samej grupy kapitałowej co spółka publiczna, której akcje są objęte tym wezwaniem dobrowolnym, ogłoszone na terytorium państwa należącego do Organizacji Współpracy Gospodarczej i Rozwoju (OECD) przez wzywającego lub spółkę należącą do tej samej co wzywający grupy kapitałowej;
-- **3)** zawarta przez spółkę publiczną, na której akcje to wezwanie jest ogłaszane, umowa określona w treści warunku.
+### 2.
 
-5. Wezwanie dobrowolne może zawierać zastrzeżenie określające minimalną liczbę akcji objętą zapisami, po której osiągnięciu podmiot nabywający akcje zobowiązuje się do nabycia tych akcji. Minimalna liczba akcji określona w tym wezwaniu wraz z liczbą akcji posiadanych przez podmioty, o których mowa w art. 87, których udział w ogólnej liczbie głosów uwzględnia się na potrzeby powstania obowiązku ogłoszenia wezwania, nie może stanowić więcej niż suma 50 % ogólnej liczby głosów.
+W przypadku, o którym mowa w ust. 1 pkt 2, art. 27 stosuje się odpowiednio.
 
-6. W przypadkach, o których mowa w ust. 3–5, wzywający może zastrzec możliwość nabycia akcji objętych zapisami złożonymi w odpowiedzi na wezwanie dobrowolne mimo nieziszczenia się zastrzeżonego warunku.
+### Art. 29.
 
-7. Wzywający jest obowiązany przekazać niezwłocznie agencji informacyjnej informację o ziszczeniu albo nieziszczeniu się warunku, w terminie określonym w treści wezwania dobrowolnego, lub o podjęciu przez wzywającego decyzji o nabywaniu akcji w tym wezwaniu mimo nieziszczenia się zastrzeżonego warunku.
+### 1.
 
-8. Przepis ust. 7 stosuje się odpowiednio do otrzymania zawiadomienia właściwego organu o udzieleniu albo nieudzieleniu zezwolenia na dokonanie koncentracji przedsiębiorców, udzieleniu zgody lub zezwolenia albo nieudzieleniu zgody lub zezwolenia na nabycie akcji będących przedmiotem wezwania dobrowolnego lub braku sprzeciwu albo sprzeciwie wobec nabycia akcji będących przedmiotem wezwania dobrowolnego, o których mowa w ust. 2.
+Po zatwierdzeniu dokumentu rejestracyjnego w przypadku, o którym mowa w art. 28 ust. 1 pkt 1, emitent lub wprowadzający przekazuje niezwłocznie jego ostateczną wersję do Komisji, a przed rozpoczęciem oferty publicznej lub ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym składa do Komisji dokument ofertowy i dokument podsumowujący dla papierów wartościowych, które będą przedmiotem oferty lub dopuszczenia, wraz z wnioskiem o zatwierdzenie tych dokumentów obejmującym informacje, o których mowa w art. 27 ust. 1.
 
-**Art. 73.**
+### 2.
 
-1. W przypadku przekroczenia progu 50 % ogólnej liczby głosów w spółce publicznej, akcjonariusz lub podmiot, który pośrednio nabył akcje, jest obowiązany, w terminie trzech miesięcy od przekroczenia tego progu, do ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki, zwanego dalej „wezwaniem obowiązkowym”.
+Do dokumentu ofertowego załączanego do wniosku, o którym mowa w ust. 1, dołącza się również informację stanowiącą zmianę treści dokumentu rejestracyjnego, dotyczącą zdarzeń zaistniałych po zatwierdzeniu tego dokumentu zaktualizowanego zgodnie z art. 51 ust. 9, które mogłyby w sposób znaczący wpłynąć na ocenę papieru wartościowego.
 
-2. Obowiązek, o którym mowa w ust. 1, nie powstaje w przypadku, gdy udział akcjonariusza lub podmiotu, który pośrednio nabył akcje, w ogólnej liczbie głosów ulegnie zmniejszeniu do nie więcej niż 50 % ogólnej liczby głosów, w wyniku podwyższenia kapitału zakładowego, zmiany statutu spółki publicznej lub wygaśnięcia uprzywilejowania jego akcji, w terminie trzech miesięcy od przekroczenia progu, o którym mowa w ust. 1.
+### 3.
 
-3. Jeżeli przekroczenie progu, o którym mowa w ust. 1, nastąpiło w wyniku dziedziczenia, a w przypadku Skarbu Państwa – także innego zdarzenia prawnego niż nabycie lub pośrednie nabycie akcji, połączenie lub podział spółki, obowiązek, o którym mowa w ust. 1, ma zastosowanie w przypadku, gdy po takim przekroczeniu udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu. Termin wykonania obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące dalsze zwiększenie udziału w ogólnej liczbie głosów.
+Do wniosku o zatwierdzenie dokumentu ofertowego załącza się również dokumenty, o których mowa w art. 27 ust. 2 pkt 3-5.
 
-3a. Jeżeli przekroczenie progu, o którym mowa w ust. 1, nastąpiło w wyniku zamiany obligacji kapitałowych, o których mowa w art. 27a ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708), na akcje emitenta, obowiązek, o którym mowa w ust. 1, ma zastosowanie w przypadku, gdy po takim nabyciu akcji udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu. Termin wykonania obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące dalsze zwiększenie udziału w ogólnej liczbie głosów.
+### Art. 30.
 
-4. Udział w ogólnej liczbie głosów powodujący obowiązek ogłoszenia wezwania obowiązkowego ustala się na koniec dnia.
+Za zatwierdzenie prospektu emisyjnego sporządzonego w formie zestawu dokumentów uważa się zatwierdzenie dokumentu rejestracyjnego oraz dokumentu ofertowego i podsumowującego, dotyczących papierów wartościowych objętych takim prospektem emisyjnym.
 
-5. Obowiązek, o którym mowa w ust. 1, nie powstaje w przypadku przekroczenia progu, o którym mowa w ust. 1, w wyniku ogłoszenia wezwania dobrowolnego.
+### Art. 31.
 
-**Art. 73a.** Odstąpienie od ogłoszonego wezwania jest niedopuszczalne, chyba że po jego ogłoszeniu inny podmiot ogłosił po wyższej cenie wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki publicznej i w wezwaniu tym nie zastrzeżono żadnego warunku.
+### 1.
 
-**Art. 74.** (uchylony)
+Decyzję w sprawie zatwierdzenia prospektu emisyjnego Komisja wydaje w terminie 10 dni roboczych od dnia złożenia wniosku, z zastrzeżeniem ust. 2.
 
-**Art. 75.**
+### 2.
 
-1. (uchylony)
+Decyzję w sprawie zatwierdzenia prospektu emisyjnego obejmującego papiery wartościowe emitenta, którego żadne z dotychczas wyemitowanych i objętych papierów wartościowych nie były przedmiotem oferty publicznej ani nie są dopuszczone do obrotu na rynku regulowanym, Komisja wydaje w terminie 20 dni roboczych od dnia złożenia wniosku.
 
-2. Obowiązki, o których mowa w art. 73, nie powstają w przypadku nabywania akcji od Skarbu Państwa:
+### Art. 32.
 
-- **1)** w wyniku pierwszej oferty publicznej;
-- **2)** w okresie 3 lat od dnia zakończenia sprzedaży przez Skarb Państwa akcji w wyniku pierwszej oferty publicznej.
+### 1.
 
-3. Obowiązek, o którym mowa w art. 73, nie powstaje w przypadku nabywania akcji:
+W przypadku gdy składana dokumentacja jest niekompletna lub konieczne jest uzyskanie dodatkowych informacji, Komisja może - w zakresie niezbędnym do sprawdzenia faktów podanych w prospekcie emisyjnym - żądać przedstawienia innych dokumentów i informacji dotyczących sytuacji finansowej lub prawnej emitenta od:
 
-- **1)** spółki, której akcje wprowadzone są wyłącznie do alternatywnego systemu obrotu albo nie są przedmiotem obrotu zorganizowanego;
-- **2)** od podmiotu wchodzącego w skład tej samej grupy kapitałowej; w tym przypadku art. 5 nie stosuje się;
-- **3)** w trybie określonym przepisami prawa upadłościowego oraz w postępowaniu egzekucyjnym;
-- **4)** zgodnie z umową o ustanowienie zabezpieczenia finansowego, zawartą przez uprawnione podmioty na warunkach określonych w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294);
-- **5)** obciążonych zastawem w celu zaspokojenia zastawnika uprawnionego na podstawie innych ustaw do korzystania z trybu zaspokojenia polegającego na przejęciu na własność przedmiotu zastawu;
-- **6)** w drodze dziedziczenia, z wyłączeniem przypadków, o których mowa w art. 73 ust. 3;
-- **7)** w przymusowej restrukturyzacji.
+### 1)
 
-4. Akcje obciążone zastawem, do chwili jego wygaśnięcia, nie mogą być przedmiotem obrotu, z wyjątkiem przypadku, gdy nabycie tych akcji następuje w wykonaniu umowy o ustanowienie zabezpieczenia finansowego w rozumieniu ustawy, o której mowa w ust. 3 pkt 4. Do akcji tych stosuje się tryb postępowania określony w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi.
+emitenta;
 
-**Art. 76.**
+### 2)
 
-1. W zamian za akcje będące przedmiotem wezwania do zapisywania się na zamianę wszystkich pozostałych akcji spółki publicznej mogą być nabywane wyłącznie akcje innej spółki publicznej lub inne papiery wartościowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu dające prawo głosu w spółce publicznej.
+wprowadzającego;
 
-1a. (uchylony)
+### 3)
 
-2. Wezwanie musi przewidywać możliwość sprzedaży akcji przez podmiot zgłaszający się w odpowiedzi na to wezwanie po cenie ustalonej zgodnie z art. 79 ust. 1, 2, 3a i 4a oraz art. 79a.
+podmiotu uprawnionego do badania sprawozdań finansowych, który dokonał badania sprawozdań finansowych emitenta zamieszczonych w prospekcie emisyjnym;
 
-**Art. 77.**
+### 4)
 
-1. Ogłoszenie wezwania następuje po ustanowieniu na rzecz podmiotu pośredniczącego zabezpieczenia w wysokości nie niższej niż 100 % wartości akcji, które mają być przedmiotem wezwania. Ustanowione zabezpieczenie zapewnia możliwość zaspokojenia się z przedmiotu zabezpieczenia niezwłocznie po upływie terminu nabycia akcji objętych zapisami złożonymi w odpowiedzi na wezwanie. Ustanowienie zabezpieczenia jest dokumentowane zaświadczeniem banku lub innej instytucji finansowej udzielającej zabezpieczenia lub pośredniczącej w jego udzieleniu.
+podmiotu, o którym mowa w art. 27 ust. 1 pkt 3;
 
-2. Wezwanie jest ogłaszane i przeprowadzane za pośrednictwem podmiotu pośredniczącego.
+### 5)
 
-2a. Podmiot pośredniczący realizuje zabezpieczenie wyłącznie na rzecz podmiotu, który złożył zapis w odpowiedzi na wezwanie.
+podmiotu dominującego lub zależnego w stosunku do emitenta lub wprowadzającego.
 
-3. (uchylony)
+### 2.
 
-4. (uchylony)
+W przypadku gdy składana dokumentacja jest niekompletna Komisja jest zobowiązana, w terminie nie dłuższym niż 10 dni roboczych od dnia złożenia tej dokumentacji, poinformować wnioskodawcę o konieczności jej uzupełnienia.
 
-5. (uchylony)
+### 3.
 
-6. (uchylony)
+Komisja może żądać zamieszczenia w prospekcie emisyjnym dodatkowych informacji w zakresie i na warunkach określonych w art. 23 rozporządzenia 809/2004.
 
-7. (uchylony)
+### 4.
 
-**Art. 77a.**
+W przypadku zaistnienia sytuacji, o której mowa w ust. 1 lub 3, bieg terminów, o których mowa w art. 31, rozpoczyna się w dniu uzupełnienia dokumentacji lub dostarczenia wymaganych informacji.
 
-1. Podmiot pośredniczący jest obowiązany do przekazania Komisji, w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, zawiadomienia o zamiarze ogłoszenia wezwania. Do zawiadomienia podmiot pośredniczący załącza treść wezwania oraz zaświadczenie, o którym mowa w art. 77 ust. 1 zdanie trzecie.
+### Art. 33.
 
-2. Zawiadomienie, o którym mowa w ust. 1, jest przekazywane za pomocą systemu teleinformatycznego umożliwiającego składanie powiadomień, do którego dostęp jest zapewniany przez Komisję na jej stronie internetowej.
+### 1.
 
-3. W przypadku zaistnienia zdarzeń uniemożliwiających przekazanie zawiadomienia, o którym mowa w ust. 1, za pomocą systemu teleinformatycznego, o którym mowa w ust. 2, przekazanie zawiadomienia następuje na adres poczty elektronicznej wskazany w tym celu przez Komisję na jej stronie internetowej. Niezwłocznie po ustaniu zdarzeń uniemożliwiających przekazanie zawiadomienia, o którym mowa w ust. 1, za pomocą systemu teleinformatycznego, o którym mowa w ust. 2, zawiadomienie to przekazuje się ponownie za pomocą tego systemu teleinformatycznego.
+Komisja może odmówić zatwierdzenia prospektu emisyjnego w przypadku, gdy nie odpowiada on pod względem formy lub treści wymogom określonym w przepisach prawa.
 
-4. Podmiot pośredniczący po przekazaniu Komisji zawiadomienia, o którym mowa w ust. 1, niezwłocznie, nie później niż w terminie 24 godzin, przekazuje agencjom informacyjnym, w celu publikacji, informację zawierającą:
+### 2.
 
-- **1)** firmę (nazwę) wzywającego, a w przypadku wzywającego będącego osobą fizyczną – jego imię i nazwisko;
-- **2)** liczbę akcji, na którą ogłoszone będzie wezwanie;
-- **3)** dane podmiotu pośredniczącego;
-- **4)** cenę, po jakiej wzywający zamierza nabywać akcje, oraz stosunek zamiany.
+W decyzji w sprawie zatwierdzenia prospektu emisyjnego Komisja może zwolnić emitenta, na jego wniosek, z obowiązku zamieszczenia w prospekcie emisyjnym informacji, których ujawnienie:
 
-5. Agencja informacyjna publikuje informacje określone w ust. 4 w serwisie bezpłatnym i dostępnym dla wszystkich inwestorów na niedyskryminacyjnych warunkach.
+### 1)
 
-6. Niezwłocznie po opublikowaniu przez jedną z agencji informacyjnych informacji określonych w ust. 4 podmiot pośredniczący udostępnia te informacje na swojej stronie internetowej.
+mogłoby być sprzeczne z interesem publicznym;
 
-7. Przekazanie zawiadomienia, o którym mowa w ust. 1, następuje najpóźniej na 17 dni roboczych przed planowanym dniem ogłoszenia wezwania.
+### 2)
 
-**Art. 77b.**
+mogłoby wyrządzić istotną szkodę emitentowi - o ile nie wprowadzi to w błąd ogółu inwestorów co do faktów i okoliczności, których znajomość jest istotna dla oceny papierów wartościowych lub sytuacji emitenta;
 
-1. Komisja może, w terminie 10 dni roboczych od dnia otrzymania zawiadomienia, o którym mowa w art. 77a ust. 1, zgłosić żądanie wprowadzenia niezbędnych zmian lub uzupełnień w treści wezwania, przekazania wyjaśnień dotyczących jego treści lub dokonania zmiany rodzaju lub wysokości zabezpieczenia, w terminie określonym w żądaniu, nie krótszym niż 2 dni robocze.
+### 3)
 
-2. W uzasadnionych przypadkach Komisja może wydłużyć termin 10 dni roboczych, o którym mowa w ust. 1, o nie więcej niż 5 dni roboczych. Komisja, przed upływem terminu 10 dni roboczych, o którym mowa w ust. 1, informuje podmiot pośredniczący o jego wydłużeniu.
+jest nieistotne z punktu widzenia danej oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym, jeżeli nie wprowadzi to w błąd ogółu inwestorów co do faktów i okoliczności, których znajomość jest istotna dla oceny papierów wartościowych lub sytuacji emitenta.
 
-3. W przypadku zgłoszenia przez Komisję, przed upływem terminu 10 dni roboczych, o którym mowa w ust. 1, żądania przekazania wyjaśnień dotyczących treści wezwania, termin 10 dni roboczych, o którym mowa w ust. 1, ulega przedłużeniu do 15 dni roboczych.
+### Art. 34.
 
-4. Żądanie, o którym mowa w ust. 1, doręczone podmiotowi pośredniczącemu uważa się za doręczone wzywającemu. Żądanie jest doręczane niezwłocznie i może zostać doręczone za pomocą systemu teleinformatycznego, o którym mowa w art. 77a ust. 2.
+Przepisy art. 31-33 stosuje się do poszczególnych dokumentów, o których mowa w art. 21 ust. 1 pkt 2.
 
-5. Treść żądania wprowadzenia zmiany w treści wezwania w przedmiocie zmiany ceny lub stosunku zamiany proponowanych w wezwaniu Komisja udostępnia na swojej stronie internetowej.
+### Art. 35.
 
-6. W sprawach nieuregulowanych w przepisach ustawy do postępowania administracyjnego w przedmiocie zgłoszenia żądania wprowadzenia niezbędnych zmian lub uzupełnień w treści wezwania lub dokonania zmiany rodzaju lub wysokości zabezpieczenia przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio, z wyjątkiem art. 10, art. 31, art. 61 § 4, art. 78–79a, art. 81 i art. 81a.
+### 1.
 
-**Art. 77c.**
+Na podstawie porozumienia z właściwym organem nadzoru w innym państwie członkowskim, Komisja może przekazać temu organowi rozpatrzenie wniosku o zatwierdzenie prospektu emisyjnego albo dokumentów, o których mowa w art. 21 ust. 1 pkt 2, złożonych do Komisji przez emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, jeżeli uzna to za uzasadnione w szczególności specyfiką tego emitenta, papierów wartościowych objętych tym prospektem emisyjnym albo charakterem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym. Komisja w terminie 3 dni roboczych informuje wnioskodawcę o przekazaniu wniosku.
 
-1. Podmiot pośredniczący po upływie 17 dni roboczych od dnia przekazania Komisji zawiadomienia, o którym mowa w art. 77a ust. 1, przekazuje treść wezwania co najmniej jednej agencji informacyjnej w celu ogłoszenia w serwisie bezpłatnym i dostępnym dla wszystkich inwestorów na niedyskryminacyjnych warunkach.
+### 2.
 
-2. W przypadku zgłoszenia przez Komisję żądania wprowadzenia niezbędnych zmian lub uzupełnień w treści wezwania z terminem jego wykonania przypadającym po upływie 17 dni roboczych od dnia przekazania Komisji zawiadomienia, o którym mowa w art. 77a ust. 1, termin, o którym mowa w ust. 1, ulega przedłużeniu do następnego dnia roboczego po dniu, w którym zostało wykonane żądanie Komisji.
+Do rozpatrzenia przez Komisję wniosku o zatwierdzenie prospektu emisyjnego, przekazanego przez właściwy organ nadzoru w innym państwie członkowskim na podstawie porozumienia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy niniejszego oddziału.
 
-3. Podmiot pośredniczący udostępnia niezwłocznie na swojej stronie internetowej ogłoszoną treść wezwania. Ogłoszona treść wezwania jest dostępna na stronie internetowej podmiotu pośredniczącego do dnia zakończenia przyjmowania zapisów.
+### Art. 36.
 
-**Art. 77d.**
+### 1.
 
-1. Transakcja nabycia akcji objętych zapisami złożonymi w ramach wezwania następuje nie później niż w terminie 3 dni roboczych od dnia zakończenia przyjmowania zapisów.
+Na wniosek emitenta lub wprowadzającego, Komisja wydaje zaświadczenie potwierdzające zatwierdzenie prospektu emisyjnego, wskazujące informacje objęte przez Komisję zwolnieniem z obowiązku zamieszczenia w prospekcie emisyjnym, wraz z uzasadnieniem tego zwolnienia i określeniem przesłanek, o których mowa w art. 33 ust. 2, oraz informacje, o których mowa w art. 27 ust. 2 pkt 5, oraz przekazuje to zaświadczenie, wraz z kopią prospektu emisyjnego dostarczoną przez wnioskodawcę, właściwemu organowi nadzoru w państwie członkowskim, które emitent wskaże w tym wniosku jako państwo przyjmujące.
 
-2. Podmiot pośredniczący przed upływem terminu, o którym mowa w ust. 3, podejmuje czynności niezbędne do wydania papierów wartościowych i środków pieniężnych należnych podmiotowi, który odpowiedział na wezwanie, oraz do przeniesienia akcji nabywanych w wyniku wezwania na rzecz wzywającego.
+### 2.
 
-3. Wydanie papierów wartościowych i środków pieniężnych w zamian za akcje objęte zapisami złożonymi w ramach wezwania oraz akcji nabywanych w wyniku wezwania (zakończenie wezwania) następuje w terminie 3 dni roboczych od dnia transakcji nabycia akcji objętych zapisami złożonymi w ramach wezwania.
+W przypadku gdy wniosek, o którym mowa w ust. 1, jest składany:
 
-**Art. 77e.** Podmioty będące stronami porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, które ogłosiły wspólnie wezwanie:
+### 1)
 
-**Art. 77f.** Wzywający może wskazać w treści wezwania podmiot wchodzący w skład jego grupy kapitałowej, który będzie nabywał akcje będące przedmiotem wezwania. W przypadku gdy wzywającym jest fundusz inwestycyjny, wzywający może wskazać w treści wezwania inny fundusz inwestycyjny zarządzany przez to samo towarzystwo funduszy inwestycyjnych jako podmiot, który będzie nabywał akcje będące przedmiotem wezwania. Wzywający i podmiot wskazany przez wzywającego odpowiadają solidarnie za zapłatę ceny akcji proponowanej w wezwaniu oraz za wydanie papierów wartościowych w zamian za akcje objęte zapisami złożonymi w ramach wezwania.
+jednocześnie z wnioskiem o zatwierdzenie prospektu emisyjnego - Komisja przekazuje zaświadczenie wskazanemu właściwemu organowi nadzoru w państwie przyjmującym emitenta w terminie 1 dnia roboczego od dnia zatwierdzenia prospektu emisyjnego;
 
-**Art. 77g.** W okresie między dokonaniem zawiadomienia, o którym mowa w art. 77a ust. 1, a zakończeniem wezwania wzywający oraz podmioty określone w art. 79 ust. 2 pkt 1:
+### 2)
 
-**Art. 77h.**
+po zatwierdzeniu prospektu emisyjnego - Komisja przekazuje zaświadczenie wskazanemu organowi nadzoru w państwie przyjmującym emitenta w terminie 3 dni roboczych od dnia złożenia wniosku.
 
-1. Po ogłoszeniu wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki publicznej zarząd spółki publicznej, której akcje są przedmiotem wezwania, przekazuje informację o tym wezwaniu wraz z jego treścią przedstawicielom zakładowych organizacji zrzeszających pracowników spółki publicznej, a w przypadku braku takiej organizacji – bezpośrednio pracownikom w sposób zwyczajowo przyjęty w tej spółce.
+### 3.
 
-2. W przypadku gdy akcje będące przedmiotem wezwania są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz w innym państwie członkowskim, wzywający jest obowiązany zapewnić na terytorium tego państwa szybki i łatwy dostęp do informacji i dokumentów, które są przekazywane do publicznej wiadomości w związku z wezwaniem, w sposób określony przepisami tego państwa członkowskiego.
+Na wniosek emitenta lub wprowadzającego Komisja załącza do zaświadczenia, o którym mowa w ust. 1, dostarczone przez wnioskodawcę tłumaczenie, na język wymagany przez państwo wskazane przez emitenta lub wprowadzającego jako państwo przyjmujące, dokumentu podsumowującego lub podsumowania będącego częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu.
 
-3. Po nabyciu akcji objętych zapisami złożonymi w odpowiedzi na wezwanie wzywający jest obowiązany zawiadomić w trybie, o którym mowa w art. 69, o liczbie akcji nabytych w wezwaniu oraz procentowym udziale w ogólnej liczbie głosów osiągniętym w wyniku wezwania.
+### 4.
 
-**Art. 78.** (uchylony)
+Przepisy ust. 1-3 stosuje się odpowiednio do aneksów, o których mowa w art. 51 ust. 1.
 
-**Art. 79.**
+### Art. 37.
 
-1. Cena akcji proponowana w wezwaniu:
+### 1.
 
-- **1)** w przypadku gdy którekolwiek z akcji spółki są przedmiotem obrotu na rynku regulowanym, nie może być niższa od:
-    - **a)** średniej ceny rynkowej: – z okresu 3 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, w czasie których dokonywany był obrót tymi akcjami na rynku głównym, oraz – z okresu 6 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, w czasie których dokonywany był obrót tymi akcjami na rynku głównym, oraz
-    - **b)** średniej ceny rynkowej z krótszego okresu – jeżeli obrót akcjami spółki był dokonywany na rynku głównym przez okres krótszy niż określony w lit. a tiret drugie;
+Papiery wartościowe emitenta z siedzibą w państwie członkowskim, dla którego Rzeczpospolita Polska jest państwem przyjmującym, mogą być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej pod warunkiem otrzymania przez Komisję od właściwego organu nadzoru w państwie macierzystym emitenta:
 
-- **2)** w przypadku gdy nie jest możliwe ustalenie ceny zgodnie z pkt 1 albo w przypadku spółki, w stosunku do której zostało otwarte postępowanie restrukturyzacyjne lub ogłoszono upadłość – nie może być niższa od ich wartości godziwej.
+### 1)
 
-2. Cena akcji proponowana w wezwaniu nie może być również niższa od:
+dokumentu notyfikującego, potwierdzającego zatwierdzenie prospektu emisyjnego dotyczącego tych papierów wartościowych oraz wskazującego zakres informacji:
 
-- **1)** najwyższej ceny, jaką za akcje będące przedmiotem wezwania wzywający, podmioty od niego zależne lub podmioty wobec niego dominujące, podmioty będące osobami trzecimi, o których mowa w art. 87 ust. 1 pkt 3 lit. a, lub podmioty będące stronami zawartego z wzywającym porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, zapłacili lub zobowiązali się zapłacić, w okresie 12 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, albo
-- **2)** najwyższej wartości rzeczy lub praw, które wzywający lub podmioty, o których mowa w pkt 1, wydali lub zobowiązali się wydać w zamian za akcje będące przedmiotem wezwania, w okresie 12 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1.
+### a)
 
-3. (uchylony) 3a. W przypadku gdy w okresie, o którym mowa w ust. 1 pkt 1 lit. a tiret pierwsze, obrót akcjami spółki publicznej był dokonywany na mniej niż jednej trzeciej sesji i jeżeli na co najmniej jednej trzeciej z tych sesji występowała co najmniej 5 % różnica cen tych akcji na zamknięciu notowań w stosunku do ceny zamknięcia na poprzedniej sesji w tym okresie, cena minimalna nie może być niższa od ich wartości godziwej. Jeżeli wolumen obrotu akcjami spółki publicznej na rynku regulowanym lub w alternatywnym systemie obrotu publikowany przez spółkę prowadzącą rynek regulowany lub organizującą alternatywny system obrotu, w okresie 6 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, stanowił mniej niż 1 % wszystkich akcji spółki publicznej dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do alternatywnego systemu obrotu, cena minimalna nie może być niższa od ich wartości godziwej.
+objętych przez organ nadzoru zwolnieniem z obowiązku zamieszczenia w prospekcie emisyjnym lub
 
-3b. W przypadkach, o których mowa w ust. 1 pkt 2 oraz ust. 3a, wartość godziwą akcji wyznacza wybrana przez wzywającego firma audytorska. Przepisy art. 79a ust. 3 i 4 stosuje się odpowiednio.
+### b)
 
-4. Cena proponowana w wezwaniu może być niższa od ceny ustalonej zgodnie z ust. 1, 2 i 3a oraz art. 79a w odniesieniu do akcji stanowiących co najmniej 5 % wszystkich akcji spółki, które będą nabyte w wezwaniu od osoby zgłaszającej się na wezwanie, jeżeli wzywający tak ustali z tą osobą.
+niezamieszczonych w prospekcie emisyjnym ze względu na specyfikę działalności emitenta, jego formy prawnej lub papierów wartościowych albo inne uzasadnione okoliczności, które uzasadniają pominięcie ich w treści prospektu
 
-4a. W przypadku gdy średnia cena rynkowa akcji ustalona zgodnie z ust. 1 pkt 1 znacznie odbiega od wartości godziwej tych akcji z powodu:
+- wraz z uzasadnieniem tego zwolnienia lub niezamieszczenia;
 
-- **1)** przyznania akcjonariuszom prawa poboru, prawa do dywidendy, prawa do nabycia akcji spółki przejmującej w związku z podziałem spółki publicznej przez wydzielenie lub innych praw majątkowych związanych z posiadaniem akcji spółki publicznej,
-- **2)** znacznego pogorszenia sytuacji finansowej lub majątkowej spółki na skutek zdarzeń lub okoliczności, których spółka nie mogła przewidzieć lub im zapobiec,
-- **3)** zagrożenia spółki trwałą niewypłacalnością – wzywający może zwrócić się do Komisji z wnioskiem o udzielenie zgody na zaproponowanie w wezwaniu ceny niespełniającej kryteriów, o których mowa w ust. 1 pkt 1 i ust. 2.
+### 2)
 
-4b. Komisja może udzielić zgody o ile proponowana cena nie jest niższa od wartości godziwej tych akcji, a ogłoszenie takiego wezwania nie naruszy uzasadnionego interesu akcjonariuszy. Komisja może w decyzji określić termin, w ciągu którego powinno nastąpić ogłoszenie wezwania po cenie wskazanej w decyzji.
+kopii zatwierdzonego prospektu emisyjnego, sporządzonego i zaktualizowanego zgodnie z przepisami tego państwa członkowskiego, wraz z tłumaczeniem na język polski części prospektu emisyjnego zawierającej podsumowanie informacji w nim zamieszczonych.
 
-4c. Do wniosku załącza się wycenę akcji spółki sporządzoną według wartości godziwej, na dzień przypadający nie wcześniej niż 14 dni przed złożeniem wniosku, przez firmę audytorską. W razie powzięcia wątpliwości co do prawidłowości wyceny załączonej do wniosku Komisja może zlecić sporządzenie wyceny firmie audytorskiej. W przypadku gdy wycena sporządzona na zlecenie Komisji wykaże, że wątpliwości były uzasadnione, wnioskodawca zwraca Komisji koszty sporządzenia wyceny.
+### 2.
 
-4d. W przypadku wezwania, o którym mowa w art. 73 ust. 1 i 3, wniosek może zostać złożony nie później niż w terminie miesiąca od powstania obowiązku ogłoszenia wezwania.
+Po otrzymaniu dokumentów, o których mowa w ust. 1, Komisja niezwłocznie informuje o tym odpowiednio emitenta lub wprowadzającego.
 
-4e. Komisja podaje do publicznej wiadomości treść decyzji w sprawie wniosku, o którym mowa w ust. 4a, wraz z jej uzasadnieniem.
+### 3.
 
-4f. W przypadku udzielenia przez Komisję zgody, o której mowa w ust. 4b, cena proponowana w wezwaniu może być niższa od ceny określonej w decyzji Komisji udzielającej zgody, w odniesieniu do akcji stanowiących co najmniej 5 % wszystkich akcji spółki, które będą nabyte w wezwaniu od osoby zgłaszającej się na wezwanie, jeżeli wzywający tak ustali z tą osobą.
+Emitent lub wprowadzający ma obowiązek udostępnić do publicznej wiadomości prospekt emisyjny, o którym mowa w ust. 1 pkt 2, sporządzony w języku polskim lub angielskim, według wyboru emitenta lub wprowadzającego. W przypadku prospektu emisyjnego sporządzonego w języku angielskim, emitent lub wprowadzający ma obowiązek udostępnić do publicznej wiadomości, łącznie z prospektem emisyjnym, dokument podsumowujący lub podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu sporządzone w języku polskim.
 
-5. Za cenę proponowaną w wezwaniu na zamianę wszystkich pozostałych akcji uważa się wartość papierów wartościowych, których własność zostanie przeniesiona w zamian za akcje będące przedmiotem wezwania.
+### 4.
 
-5a. Wzywający może określić różne ceny lub stosunki zamiany proponowane w wezwaniu wyłącznie ze względu na różne prawa wynikające z nabywanych akcji lub związane z nimi obowiązki.
+Udostępnienie prospektu emisyjnego na terytorium Rzeczypospolitej Polskiej nie może nastąpić wcześniej niż po otrzymaniu od Komisji informacji, o której mowa w ust. 2.
 
-6. Wartość akcji, których własność zostanie przeniesiona w zamian za akcje będące przedmiotem wezwania, ustala się:
+### 5.
 
-- **1)** w przypadku akcji będących przedmiotem obrotu na rynku regulowanym:
-    - **a)** według średniej ceny rynkowej z okresu 6 miesięcy obrotu tymi akcjami na rynku regulowanym poprzedzających ogłoszenie wezwania albo
-    - **b)** według średniej ceny z krótszego okresu – jeżeli obrót akcjami był dokonywany na rynku regulowanym przez okres krótszy niż określony w lit. a;
+Przepisy ust. 1-4 stosuje się odpowiednio do aneksów, o których mowa w art. 51 ust. 1, zatwierdzanych przez organ nadzoru w państwie macierzystym emitenta. W przypadku nieotrzymania przez Komisję dokumentu notyfikującego potwierdzającego zatwierdzenie przez właściwy organ nadzoru w państwie macierzystym emitenta aneksu odnoszącego się do znanego Komisji zdarzenia, które mogłoby w sposób znaczący wpłynąć na ocenę papieru wartościowego, Komisja powinna zwrócić się do tego organu nadzoru o podjęcie odpowiednich działań w celu wyjaśnienia tej sytuacji.
 
-- **2)** w przypadku gdy nie jest możliwe ustalenie wartości akcji zgodnie z pkt 1 – według ich wartości godziwej.
+### 6.
 
-6a. W przypadku, o którym mowa w ust. 6 pkt 2, wartość godziwą akcji wyznacza wybrana przez wzywającego firma audytorska. Przepisy art. 79a ust. 3 i 4 stosuje się odpowiednio.
+Przepisy art. 45 ust. 2 i 3, art. 46 ust. 2, art. 47 ust. 1, 4 i 5, art. 48-50, art. 51 ust. 4 i 5 oraz art. 52-54 stosuje się odpowiednio.
 
-7. Za średnią cenę rynkową, o której mowa w ust. 1 pkt 1 i ust. 6 pkt 1, uważa się cenę będącą średnią arytmetyczną ze średnich, dziennych cen ważonych wolumenem obrotu.
+### 7.
 
-8. Przepisy ust. 1, 2 i 3a–7 stosuje się odpowiednio do akcji spółki publicznej niedopuszczonych do obrotu zorganizowanego oraz innych niż akcje papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub wprowadzonych do obrotu w alternatywnym systemie obrotu, dających prawo głosu w spółce, nabywanych w zamian za akcje będące przedmiotem wezwania do zapisywania się na zamianę wszystkich pozostałych akcji.
+Przepisy ust. 1-6 stosuje się odpowiednio do emitenta z siedzibą w państwie niebędącym państwem członkowskim, który wskazał państwo członkowskie inne niż Rzeczpospolita Polska jako państwo macierzyste.
 
-9. Rynkiem głównym, o którym mowa w ust. 1 pkt 1, jest rynek regulowany, na którym notowany jest dany instrument finansowy, a w przypadku gdy dany instrument finansowy jest notowany na kilku rynkach objętych definicją rynku regulowanego:
+### Art. 38.
 
-- **1)** rynek, na którym wartość obrotu danym instrumentem finansowym w roku kalendarzowym poprzedzającym rok, w którym ustalany jest rynek główny, była największa, albo
-- **2)** w przypadku gdy rozpoczęcie obrotu na rynku regulowanym nastąpiło w roku, w którym ustalany jest rynek główny – rynek, na którym wcześniej rozpoczęto notowania danego instrumentu finansowego.
+### 1.
 
-**Art. 79a.**
+W przypadkach, o których mowa w art. 7 ust. 3 pkt 5 lit. a i b oraz ust. 4 pkt 4 i 5 - emitent lub wprowadzający składa do Komisji zawiadomienie spełniające warunki, o których mowa w art. 27 ust. 1 i ust. 2 pkt 2-5, załączając do niego memorandum informacyjne, którego zakres powinien być zgodny z zakresem wymaganym dla prospektu emisyjnego na podstawie art. 2-26, 28 i 35 rozporządzenia 809/2004, z uwzględnieniem przepisów rozporządzenia wydanego na podstawie art. 55 pkt 3, oraz udostępnia to memorandum informacyjne do wiadomości zainteresowanych inwestorów.
 
-1. W przypadku gdy wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki publicznej było poprzedzone w okresie 12 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, pośrednim nabyciem akcji tej spółki przez wzywającego lub podmioty, o których mowa w art. 79 ust. 2 pkt 1, cena akcji proponowana w wezwaniu nie może być również niższa od ceny pośredniego nabycia, jaką wzywający lub te podmioty zapłacili lub zobowiązali się zapłacić.
+### 2.
 
-2. Cenę pośredniego nabycia wyznacza wybrana przez wzywającego firma audytorska, która określa ją w odniesieniu do wartości godziwej akcji nabytych pośrednio, na dzień, w którym nastąpiło pośrednie nabycie akcji spółki publicznej.
+Komisja, nie później niż w terminie 20 dni roboczych od dnia złożenia zawiadomienia, może zgłosić sprzeciw wobec dokonywania oferty publicznej lub ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym, na podstawie memorandum informacyjnego objętego tym zawiadomieniem, jeżeli memorandum informacyjne nie odpowiada pod względem treści lub formy wymogom określonym w przepisach prawa. Zgłaszając sprzeciw, Komisja zakazuje przeprowadzenia oferty publicznej lub ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym na podstawie tego memorandum informacyjnego.
 
-3. Sporządzoną przez firmę audytorską wycenę, dokonaną w celu wyznaczenia ceny pośredniego nabycia, podmiot pośredniczący udostępnia na swojej stronie internetowej od dnia ogłoszenia treści wezwania przez agencję informacyjną zgodnie z art. 77c do dnia jego zakończenia.
+### 3.
 
-4. W przypadku, o którym mowa w ust. 1, w treści wezwania zamieszcza się oświadczenie wzywającego o uwzględnieniu ceny pośredniego nabycia przy ustalaniu ceny w wezwaniu, wraz ze wskazaniem firmy audytorskiej, która wyznaczyła tę cenę.
+Udostępnione memorandum informacyjne może nie zawierać informacji, których ujawnienie:
 
-**Art. 79b.**
+### 1)
 
-1. Wzywający może, w drodze ogłoszenia dokonanego w sposób określony w art. 77c ust. 1, w okresie od dnia ogłoszenia wezwania do dnia zakończenia przyjmowania zapisów, dokonywać zmiany ceny akcji proponowanej w wezwaniu lub zmiany stosunku zamiany, nie częściej jednak niż co 5 dni roboczych, przy czym pierwsza zmiana ceny lub stosunku zamiany może nastąpić najwcześniej 5 dni roboczych po rozpoczęciu przyjmowania zapisów. Informacje o zmianie ceny lub stosunku zamiany podmiot pośredniczący niezwłocznie udostępnia na swojej stronie internetowej.
+mogłoby być sprzeczne z interesem publicznym,
 
-2. Cena, po jakiej mają być nabywane akcje, może być zmieniona bez zachowania terminu, o którym mowa w ust. 1, w przypadku gdy inny podmiot ogłosił wezwanie, którego przedmiotem są te akcje, lub dokonał zmiany ceny w tym wezwaniu.
+### 2)
 
-3. W przypadku gdy inny podmiot ogłosił wezwanie, którego przedmiotem są akcje tej samej spółki publicznej, osoba, która złożyła zapis w odpowiedzi na wezwanie, jest uprawniona do cofnięcia złożonego zapisu, jeżeli nie nastąpiło przeniesienie praw z akcji.
+mogłoby wyrządzić istotną szkodę emitentowi - o ile nie wprowadzi to w błąd ogółu inwestorów co do faktów i okoliczności, których znajomość jest istotna dla oceny papierów wartościowych lub sytuacji emitenta,
 
-4. W przypadku gdy nowa cena, o której mowa w ust. 1:
+### 3)
 
-- **1)** jest wyższa od ceny określonej w wezwaniu przed zmianą – wzywający jest obowiązany zapłacić tę nową cenę osobom, które zapisały się na sprzedaż akcji, zanim ogłoszono zmianę ceny, z tym że osobom, które wcześniej uzyskały prawo do otrzymania ceny wyższej od nowej ceny – wzywający jest obowiązany zapłacić tę wyższą cenę;
-- **2)** jest niższa od ceny określonej w wezwaniu przed zmianą – wzywający jest obowiązany zapłacić osobom, które zapisały się na sprzedaż akcji, zanim ogłoszono zmianę ceny, cenę, po której zapisały się na sprzedaż akcji, z tym że osobom, które wcześniej uzyskały prawo do otrzymania ceny wyższej od ceny, po jakiej się zapisały – wzywający jest obowiązany zapłacić tę wyższą cenę.
+jest nieistotne z punktu widzenia danej oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym i nie wprowadzi to w błąd ogółu inwestorów co do faktów i okoliczności, których znajomość jest istotna dla oceny papierów wartościowych lub sytuacji emitenta
 
-5. Przepisu ust. 4 nie stosuje się, jeżeli zmiana ceny nastąpiła po nabyciu przez wzywającego akcji w ramach wezwania.
+- jeżeli przed udostępnieniem memorandum informacyjnego Komisja wyrazi na to zgodę.
 
-6. Przepisy ust. 2–5 stosuje się odpowiednio do zmiany stosunku zamiany.
+### 4.
 
-7. W przypadku zmiany ceny akcji proponowanej w wezwaniu lub zmiany stosunku zamiany wysokość ustanowionego zabezpieczenia, o którym mowa w art. 77 ust. 1, niezwłocznie uzupełnia się do wysokości nie niższej niż 100 % wartości akcji, które są przedmiotem wezwania.
+Przepisów ust. 1-3 nie stosuje się w przypadku oferty publicznej, o której mowa w art. 7 ust. 3 pkt 1-4 oraz pkt 5 lit. e.
 
-**Art. 79c.**
+### 5.
 
-1. Wzywający, który w okresie 6 miesięcy po zakończeniu wezwania, bezpośrednio lub pośrednio nabył po cenie wyższej niż cena określona w tym wezwaniu kolejne akcje tej samej spółki publicznej, w inny sposób niż w wezwaniu, jest obowiązany, w terminie miesiąca od tego nabycia, do zapłacenia różnicy ceny osobom, które zbyły akcje w tym wezwaniu, z wyłączeniem osób, od których akcje zostały nabyte po cenie obniżonej w przypadkach określonych w art. 79 ust. 4 i 4f.
+Udostępnienie memorandum informacyjnego do publicznej wiadomości nie może nastąpić przed upływem terminu, o którym mowa w ust. 2.
 
-2. Obowiązek, o którym mowa w ust. 1, spoczywa również na podmiocie z grupy kapitałowej, w skład której wchodzi wzywający, oraz podmiocie będącym stroną porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, którego stroną jest wzywający, który w okresie 6 miesięcy po zakończeniu wezwania bezpośrednio lub pośrednio nabył po cenie wyższej niż cena określona w tym wezwaniu kolejne akcje tej samej spółki publicznej, w inny sposób niż w wezwaniu.
+### Art. 39.
 
-3. Obowiązek, o którym mowa w ust. 1, nie powstaje w przypadku nabycia akcji w trybie określonym w art. 83.
+### 1.
 
-**Art. 79d.**
+W przypadkach, o których mowa w art. 7 ust. 3 pkt 5 lit. c i d oraz ust. 4 pkt 6-8, emitent lub wprowadzający udostępnia do wiadomości zainteresowanych inwestorów memorandum informacyjne, którego zakres określa rozporządzenie wydane na podstawie art. 55 pkt 1.
 
-1. W przypadku uwzględnienia prawomocnym wyrokiem sądu powództwa o zapłatę wyższej ceny w wezwaniu niż ustalona przez wzywającego wzywający jest obowiązany do zapłaty różnicy ceny osobom, które zbyły akcje w wezwaniu, niezależnie od tego, czy to one wytoczyły powództwo, w terminie miesiąca od dnia uprawomocnienia się wyroku.
+### 2.
 
-2. Odpis prawomocnego wyroku uwzględniającego powództwo, wraz z uzasadnieniem, sąd doręcza również Komisji. Komisja udostępnia na swojej stronie internetowej komunikat, w którym informuje o tym wyroku oraz o ustalonej przez sąd cenie akcji.
+Przepisu ust. 1 nie stosuje się w przypadku oferty publicznej, o której mowa w art. 7 ust. 3 pkt 1-4 oraz pkt 5 lit. e.
 
-**Art. 79e.**
+### Art. 40.
 
-1. Wzywający może zmienić treść wezwania dobrowolnego w zakresie:
+### 1.
 
-- **1)** terminów transakcji nabycia akcji w wezwaniu, przypadających przed upływem terminu przyjmowania zapisów;
-- **2)** sposobu i terminów przyjmowania zapisów w wezwaniu.
+Memorandum informacyjne, o którym mowa w art. 38 i 39, powinno być sporządzone w języku polskim.
 
-2. W przypadku wezwania obowiązkowego wzywający może dokonać zmiany, o której mowa w ust. 1 pkt 1.
+### 2.
 
-3. Zmiany treści wezwania dokonuje się w drodze ogłoszenia dokonanego w sposób określony w art. 77c ust. 1.
+Emitent lub wprowadzający ma obowiązek ustalenia terminu ważności memorandum informacyjnego oraz sposobu i terminu udostępnienia memorandum informacyjnego, z zastrzeżeniem ust. 3, tak, aby zapewnić:
 
-4. Informacje o zmianie treści wezwania podmiot pośredniczący niezwłocznie udostępnia na swojej stronie internetowej.
+### 1)
 
-5. Wzywający może dokonać zmiany treści wezwania, o której mowa w ust. 1 pkt 1, nie później niż na 5 dni roboczych przed terminem pierwszej transakcji nabycia akcji w wezwaniu. Osoba, która złożyła zapis, ma prawo uchylić się od skutków złożonego zapisu w drodze pisemnego oświadczenia składanego w miejscu złożenia zapisu, w terminie 2 dni roboczych od dnia zmiany treści wezwania.
+dostępność memorandum informacyjnego;
 
-6. Wzywający może dokonać zmiany treści wezwania, o której mowa w ust. 1 pkt 2, nie później niż na 5 dni roboczych przed zakończeniem przyjmowania zapisów zgodnie z wezwaniem.
+### 2)
 
-7. Treść wezwania może zostać zmieniona w zakresie, o którym mowa w ust. 1, bez zachowania terminów, o których mowa w ust. 5 i 6, w przypadku gdy inny podmiot ogłosił wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej samej spółki.
+sprawne przeprowadzenie oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym;
 
-**Art. 79f.**
+### 3)
 
-1. Przyjmowanie zapisów rozpoczyna się nie wcześniej niż w pierwszym i nie później niż w piątym dniu roboczym po ogłoszeniu treści wezwania zgodnie z art. 77c ust. 1 lub 2.
+należytą ochronę interesów inwestorów.
 
-2. Termin przyjmowania zapisów w wezwaniu nie może być krótszy niż 30 dni i nie może być dłuższy niż 70 dni.
+### 3.
 
-3. Termin przyjmowania zapisów w wezwaniu dobrowolnym może ulec wydłużeniu o czas niezbędny do udzielenia zezwolenia albo zgody lub czas niezbędny do niezgłoszenia sprzeciwu, o których mowa w art. 72a ust. 2, jednak nie więcej niż do 120 dni – jeżeli bezskutecznie upłynął wskazany w treści wezwania termin, w jakim miało nastąpić udzielenie zezwolenia albo zgody lub niezgłoszenie sprzeciwu.
+W przypadku, o którym mowa w art. 7 ust. 4 pkt 8, udostępnienie memorandum informacyjnego do wiadomości zainteresowanych inwestorów zgodnie z art. 39 ust. 1 następuje poprzez udostępnienie go do publicznej wiadomości w sposób, o którym mowa w art. 47 ust. 1.
 
-4. Termin przyjmowania zapisów w wezwaniu może ulec skróceniu, jeżeli przed jego upływem zapisami złożonymi w odpowiedzi na wezwanie zostały objęte wszystkie pozostałe akcje spółki publicznej.
+### Oddział 3 Memorandum informacyjne i inne dokumenty informacyjne objęte zasadami obowiązującymi wyłącznie na terytorium Rzeczypospolitej Polskiej
 
-5. Podmiot pośredniczący udostępnia na swojej stronie internetowej oraz przekazuje w celu ogłoszenia do agencji informacyjnej informację o:
+### Art. 41.
 
-- **1)** wydłużeniu terminu przyjmowania zapisów – nie później niż na 7 dni przed upływem pierwotnego terminu;
-- **2)** skróceniu terminu przyjmowania zapisów – nie później niż na 7 dni przed upływem skróconego terminu.
+### 1.
 
-**Art. 80.**
+Przepisy niniejszego oddziału określają tryb postępowania z dokumentami informacyjnymi w związku z:
 
-1. Zarząd spółki publicznej, której akcje są przedmiotem wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji, jest obowiązany, w terminie 14 dni od dnia ogłoszenia wezwania, przekazać Komisji oraz do publicznej wiadomości stanowisko dotyczące ogłoszonego wezwania, wraz z podaniem podstaw tego stanowiska. Stanowisko zarządu spółki publicznej przedstawiane jest równocześnie przedstawicielom zakładowych organizacji zrzeszających pracowników spółki, a w przypadku braku takiej organizacji – bezpośrednio pracownikom w sposób zwyczajowo przyjęty w spółce.
+### 1)
 
-2. Stanowisko zarządu spółki publicznej, oparte na informacjach podanych przez wzywającego w treści wezwania, zawiera w szczególności opinię dotyczącą wpływu wezwania na interes spółki, w tym zatrudnienie w spółce, strategicznych planów wzywającego wobec spółki i ich prawdopodobnego wpływu na zatrudnienie w spółce oraz na lokalizację prowadzenia jej działalności, jak również stwierdzenie, czy zdaniem zarządu cena proponowana w wezwaniu odpowiada wartości godziwej spółki, przy czym dotychczasowe notowania na rynku regulowanym nie mogą być jedynym miernikiem tej wartości.
+ofertą publiczną lub ubieganiem się o dopuszczenie do obrotu na rynku regulowanym papierów wartościowych:
 
-3. W przypadku zasięgnięcia opinii zewnętrznego podmiotu (biegłego) na temat ceny akcji w wezwaniu, jak również w przypadku uzyskania opinii działających w spółce organizacji, o których mowa w ust. 1, spółka przekazuje również te opinie w trybie określonym w art. 56 ust. 1.
+### a)
 
-**Art. 80a.**
+emitowanych przez Skarb Państwa lub Narodowy Bank Polski,
 
-1. Statut spółki publicznej może przewidywać, że w trakcie trwania wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki, zarząd i rada nadzorcza tej spółki są obowiązane do uzyskania uprzedniej zgody walnego zgromadzenia na podjęcie czynności, których celem jest udaremnienie ogłoszonego wezwania.
+### b)
 
-2. Obowiązek, o którym mowa w ust. 1, nie może dotyczyć czynności, których celem jest doprowadzenie do ogłoszenia przez inny podmiot wezwania dotyczącego tych samych akcji.
+o których mowa w art. 7 ust. 2 pkt 2-7;
 
-3. W przypadku, o którym mowa w ust. 1, statut spółki przewiduje, że nie obowiązują:
+### 2)
 
-- **1)** ograniczenia wykonywania prawa głosu określone w statucie lub w umowie zawartej pomiędzy spółką, której akcje są przedmiotem wezwania, a akcjonariuszami tej spółki, albo w umowie między takimi akcjonariuszami, o ile umowa taka weszła w życie po dniu 21 kwietnia 2004 r.;
-- **2)** uprzywilejowanie akcji dotyczące prawa głosu.
+ofertą publiczną papierów wartościowych, o których mowa w art. 7 ust. 3 pkt 6, z wyjątkiem przypadków, gdy oferta publiczna obejmuje:
 
-4. Ograniczenia, o których mowa w ust. 3 pkt 1, nie dotyczą akcjonariuszy, którym z tytułu tych ograniczeń przysługują szczególne korzyści pieniężne.
+### a)
 
-**Art. 80b.**
+proponowanie nabycia papierów wartościowych w postępowaniu likwidacyjnym, upadłościowym i egzekucyjnym,
 
-1. Statut spółki publicznej może przewidywać, że w przypadku zbywania akcji w odpowiedzi na wezwanie do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki nie mają zastosowania ograniczenia zbywalności akcji określone w statucie lub w umowach, o których mowa w art. 80a ust. 3 pkt 1.
+### b)
 
-2. Statut spółki publicznej może przewidywać, że w sytuacji gdy w następstwie wezwania, o którym mowa w ust. 1, akcjonariusz osiągnął co najmniej 75 % ogólnej liczby głosów w spółce, tracą ważność wszelkie ograniczenia zbywalności akcji lub wykonywania prawa głosu, określone w statucie, jak również wynikające ze statutu spółki szczególne uprawnienia akcjonariuszy w zakresie powoływania lub odwoływania członków zarządu lub rady nadzorczej.
+nieodpłatne udostępnianie w procesie prywatyzacji, przez Skarb Państwa, akcji spółki pracownikom oraz producentom rolnym lub rybakom na trwale związanym z jej przedsiębiorstwem,
 
-3. Statut spółki może także przewidywać, że na pierwszym walnym zgromadzeniu po przeprowadzeniu wezwania, o którym mowa w ust. 1, zwołanym przez akcjonariusza, który w wyniku tego wezwania osiągnął co najmniej 75 % ogólnej liczby głosów w spółce, w przypadku gdy planowany porządek obrad walnego zgromadzenia przewiduje podjęcie uchwał w sprawie zmiany statutu lub powołania bądź odwołania członków zarządu lub rady nadzorczej, z każdej akcji uprzywilejowanej co do głosu przysługuje jeden głos.
+### c)
 
-4. Statut spółki publicznej powinien przewidywać, że ograniczenia wykonywania prawa głosu, o których mowa w ust. 2, nie zostają znoszone w stosunku do akcjonariuszy, którym z tytułu tych ograniczeń przysługują szczególne korzyści pieniężne.
+proponowanie przez Skarb Państwa nabycia akcji w procesie prywatyzacji,
 
-**Art. 80c.**
+### d)
 
-1. Walne zgromadzenie może podjąć uchwałę, że postanowienia statutu wymienione w art. 80a i art. 80b nie mają zastosowania w przypadku wezwania ogłaszanego przez wzywającego będącego spółką publiczną niestosującą środków, o których mowa w art. 80a i art. 80b, bądź przez podmiot zależny od spółki publicznej niestosującej tych środków.
+proponowanie nabycia dotychczasowym akcjonariuszom w wykonaniu prawa poboru,
 
-2. Uchwała, o której mowa w ust. 1, obowiązuje przez 18 miesięcy od dnia jej wejścia w życie.
+### e)
 
-**Art. 80d.**
+proponowanie nabycia przez spółkę własnych akcji w trybie określonym w art. 331 § 3, art. 363 § 3 i 4 i art. 515 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276 oraz z 2005 r. Nr 132, poz. 1108 i Nr 183, poz. 1538.](#gloss-0:5:));
 
-1. W przypadku ograniczenia uprawnień akcjonariuszy, o których mowa w art. 80a lub art. 80b, statut spółki publicznej powinien przewidywać warunki ustalania i wypłaty godziwego odszkodowania dla akcjonariuszy, którym uprawnienia te zostały ograniczone.
+### 3)
 
-2. Warunki stanowiące podstawę do określenia wysokości odszkodowania, o którym mowa w ust. 1, powinny uwzględniać kryterium rzeczywistej możliwości wpływu przez akcjonariusza na proces decyzyjny w spółce, w szczególności liczbę akcji posiadanych przez akcjonariusza, z którymi związane są specjalne uprawnienia, oraz udział tych akcji w ogólnej liczbie głosów.
+ubieganiem się o dopuszczenie do obrotu na rynku regulowanym instrumentów finansowych niebędących papierami wartościowymi.
 
-3. Odszkodowanie wypłacane jest przez wzywającego, nie później niż w terminie 30 dni od odbycia walnego zgromadzenia, podczas którego akcjonariusz nie mógł wykonywać przysługujących mu uprawnień. Odszkodowanie wypłacane jest w formie pieniężnej, o ile strony nie postanowią inaczej.
+### 2.
 
-**Art. 81.** Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wzory wezwań, o których mowa w art. 11a ust. 9, art. 72a ust. 1, art. 73 ust. 1 oraz art. 91 ust. 5, sposób i tryb składania i przyjmowania zapisów w wezwaniu oraz dopuszczalne rodzaje zabezpieczenia, o którym mowa w art. 77 ust. 1, uwzględniając konieczność zapewnienia możliwości właściwej oceny warunków transakcji, równych uprawnień podmiotów odpowiadających na te wezwania, bezpieczeństwa obrotu oraz możliwości rozliczenia transakcji, a także możliwości zaspokojenia się z przedmiotu zabezpieczenia niezwłocznie po zakończeniu wezwania.
+Przepisów niniejszego oddziału nie stosuje się w przypadku oferty publicznej, o której mowa w art. 7 ust. 3 pkt 1-4 oraz pkt 5 lit. e.
 
-##### Oddział 3 Szczególne uprawnienia i obowiązki akcjonariuszy spółki publicznej
+### Art. 42.
 
-**Art. 82.**
+### 1.
 
-1. Akcjonariuszowi spółki publicznej, który samodzielnie lub wspólnie z podmiotami od niego zależnymi lub wobec niego dominującymi oraz podmiotami będącymi stronami porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, osiągnął lub przekroczył 95 % ogólnej liczby głosów w tej spółce, przysługuje, w terminie trzech miesięcy od osiągnięcia lub przekroczenia tego progu, prawo żądania od pozostałych akcjonariuszy sprzedaży wszystkich posiadanych przez nich akcji (przymusowy wykup).
+W przypadku, o którym mowa w art. 41 ust. 1 pkt 1 lit. b lub pkt 2, emitent lub wprowadzający składa do Komisji, za pośrednictwem firmy inwestycyjnej, zawiadomienie spełniające warunki, o których mowa w art. 27 ust. 1 i ust. 2 pkt 2-5, załączając do niego memorandum informacyjne, którego formę i zakres określa rozporządzenie wydane na podstawie art. 55 pkt 1, oraz udostępnia memorandum informacyjne do publicznej wiadomości.
 
-2. Cenę przymusowego wykupu akcji dopuszczonych do obrotu na rynku regulowanym ustala się zgodnie z art. 79 ust. 1, 2, 3a i 3b oraz art. 79a. Cenę przymusowego wykupu akcji wprowadzonych wyłącznie do alternatywnego systemu obrotu ustala się zgodnie z art. 79 ust. 2, 3a i 3b, art. 79a oraz art. 91 ust. 6–8. Okresy, o których mowa w art. 79 ust. 1, 2, 3a, art. 79a ust. 1 oraz art. 91 ust. 6, ustala się w odniesieniu do terminu przekazania zawiadomienia, o którym mowa w ust. 5.
+### 2.
 
-2a. Jeżeli osiągnięcie lub przekroczenie progu, o których mowa w ust. 1, nastąpiło w wyniku ogłoszonego wezwania na sprzedaż lub zamianę wszystkich pozostałych akcji spółki, cena przymusowego wykupu nie może być niższa od ceny proponowanej w tym wezwaniu. Przepisu ust. 2 nie stosuje się.
+Komisja, nie później niż w terminie 20 dni roboczych od dnia złożenia zawiadomienia, może zgłosić sprzeciw wobec dokonywania oferty publicznej lub ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym na podstawie memorandum informacyjnego, jeżeli:
 
-3. Nabycie akcji w wyniku przymusowego wykupu następuje bez zgody akcjonariusza, do którego skierowane jest żądanie wykupu.
+### 1)
 
-4. Ogłoszenie żądania sprzedaży akcji w ramach przymusowego wykupu następuje po ustanowieniu zabezpieczenia w wysokości nie mniejszej niż 100 % wartości akcji, które mają być przedmiotem przymusowego wykupu. Ustanowienie zabezpieczenia powinno być udokumentowane zaświadczeniem banku lub innej instytucji finansowej udzielającej zabezpieczenia lub pośredniczącej w jego udzieleniu.
+memorandum informacyjne nie odpowiada pod względem treści i formy wymogom określonym w przepisach prawa lub
 
-5. Przymusowy wykup jest ogłaszany i przeprowadzany za pośrednictwem podmiotu prowadzącego działalność maklerską na terytorium Rzeczypospolitej Polskiej, który jest obowiązany – nie później niż na 14 dni roboczych przed rozpoczęciem przymusowego wykupu – do równoczesnego zawiadomienia o zamiarze jego ogłoszenia Komisji oraz odpowiednio spółki prowadzącej rynek regulowany albo podmiotu organizującego alternatywny system obrotu, w którym notowane są dane akcje, a jeżeli akcje spółki są notowane na kilku rynkach regulowanych lub w kilku alternatywnych systemach obrotu – wszystkich tych spółek lub podmiotów. Podmiot ten załącza do zawiadomienia informacje na temat przymusowego wykupu.
+### 2)
 
-6. Odstąpienie od ogłoszonego przymusowego wykupu jest niedopuszczalne.
+obrót papierami wartościowymi objętymi memorandum informacyjnym załączonym do zawiadomienia stanowi istotne zagrożenie dla interesów inwestorów lub dla bezpieczeństwa obrotu.
 
-7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy sposób ogłaszania informacji o zamiarze nabycia akcji w drodze przymusowego wykupu i szczegółowe warunki nabywania akcji, uwzględniając konieczność zapewnienia zbywcom możliwości właściwej oceny warunków nabywania akcji w drodze przymusowego wykupu oraz konieczność ukształtowania tych warunków przy zapewnieniu zrównania uprawnień zbywców akcji.
+### 3.
 
-**Art. 83.**
+Zgłaszając sprzeciw, o którym mowa w ust. 2, Komisja zakazuje przeprowadzenia oferty publicznej lub ubiegania się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym na podstawie tego memorandum informacyjnego.
 
-1. Akcjonariusz spółki publicznej może zażądać wykupienia posiadanych przez niego akcji przez innego akcjonariusza, który osiągnął lub przekroczył 95 % ogólnej liczby głosów w tej spółce. Żądanie składa się na piśmie w terminie trzech miesięcy od dnia, w którym nastąpiło osiągnięcie lub przekroczenie tego progu przez innego akcjonariusza.
+### 4.
 
-1a. W przypadku gdy informacja o osiągnięciu lub przekroczeniu progu ogólnej liczby głosów, o którym mowa w ust. 1, nie została przekazana do publicznej wiadomości w trybie określonym w art. 70 pkt 1, termin na złożenie żądania biegnie od dnia, w którym akcjonariusz spółki publicznej, który może żądać wykupienia posiadanych przez niego akcji, dowiedział się lub przy zachowaniu należytej staranności mógł się dowiedzieć o osiągnięciu lub przekroczeniu tego progu przez innego akcjonariusza.
+Memorandum informacyjne udostępnione do publicznej wiadomości może nie zawierać informacji, których ujawnienie naruszyłoby interes gospodarczy emitenta, jego kontrahentów lub interes osób wchodzących w skład organów zarządzających lub nadzorujących emitenta, jeżeli przed jego udostępnieniem Komisja wyrazi na to zgodę.
 
-2. Żądaniu, o którym mowa w ust. 1, są obowiązani zadośćuczynić solidarnie akcjonariusz, który osiągnął lub przekroczył 95 % ogólnej liczby głosów, jak również podmioty wobec niego zależne i dominujące, w terminie 30 dni od dnia jego zgłoszenia.
+### 5.
 
-3. Obowiązek nabycia akcji od akcjonariusza spoczywa również solidarnie na każdej ze stron porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, o ile członkowie tego porozumienia posiadają wspólnie, wraz z podmiotami dominującymi i zależnymi, co najmniej 95 % ogólnej liczby głosów.
+Memorandum informacyjne powinno być sporządzone w języku polskim. Do memorandum informacyjnego stosuje się odpowiednio przepisy art. 45, 47, 49-51, z wyłączeniem przepisów o zatwierdzaniu aneksów, oraz art. 52-54.
 
-4. Akcjonariusz spółki, której akcje zostały dopuszczone do obrotu na rynku regulowanym, żądający wykupienia akcji na zasadach, o których mowa w ust. 1–3, jest uprawniony do otrzymania ceny nie niższej niż określona zgodnie z art. 79 ust. 1, 2, 3a i 3b oraz art. 79a. Akcjonariusz spółki, której akcje zostały wprowadzone wyłącznie do alternatywnego systemu obrotu, żądający wykupienia akcji na zasadach, o których mowa w ust. 1–3, jest uprawniony do otrzymania ceny nie niższej niż określona zgodnie z art. 79 ust. 2, 3a i 3b, art. 79a oraz art. 91 ust. 6–8. Okresy, o których mowa w art. 79 ust. 1, 2 i 3a, art. 79a ust. 1 oraz art. 91 ust. 6, ustala się w odniesieniu do terminu otrzymania żądania, o którym mowa w ust. 1.
+### 6.
 
-5. Jeżeli osiągnięcie lub przekroczenie progu, o których mowa w ust. 1, nastąpiło w wyniku ogłoszonego wezwania na sprzedaż lub zamianę wszystkich pozostałych akcji spółki, akcjonariusz żądający wykupienia akcji jest uprawniony do otrzymania ceny nie niższej niż proponowana w tym wezwaniu. Przepisu ust. 4 nie stosuje się.
+Udostępnienie memorandum informacyjnego do publicznej wiadomości nie może nastąpić przed upływem terminu, o którym mowa w ust. 2.
 
-**Art. 83a.**
+### Art. 43.
 
-1. Akcjonariusz spółki, której akcje zostały wykluczone z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu na podstawie art. 96 ust. 1, 1e, 1i, art. 96c ust. 1 albo na podstawie art. 20 ust. 3, 4b, 4c lub 7d oraz art. 78 ust. 4, 4a, 4d lub 4e ustawy o obrocie instrumentami finansowymi, albo na podstawie właściwych przepisów regulaminu rynku regulowanego lub regulaminu alternatywnego systemu obrotu, w przypadku gdy obrót nimi zagraża bezpieczeństwu obrotu lub interesom inwestorów na tym rynku lub w tym systemie, posiadający bezpośrednio, pośrednio lub w porozumieniu, o którym mowa w art. 87 ust. 1 pkt 5, mniej niż 5 % ogólnej liczby głosów w spółce publicznej na dzień odpowiednio:
+W przypadku, o którym mowa w art. 41 ust. 1 pkt 1 lit. a, emitent udostępnia do publicznej wiadomości, zgodnie z odrębnymi przepisami, dokument zawierający szczegółowe warunki emisji papierów wartościowych, w którym emitent wskazał, że papiery te będą przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej. W takim przypadku emitent przekazuje Komisji ten dokument przed dniem rozpoczęcia subskrypcji papierów wartościowych.
 
-- **1)** wszczęcia postępowania zakończonego wydaniem przez Komisję decyzji o wykluczeniu,
-- **2)** wszczęcia postępowania w sprawie żądania, o którym mowa w art. 20 ust. 3, 4c lub 7d lub w art. 78 ust. 4, 4d lub 4e ustawy o obrocie instrumentami finansowymi,
-- **3)** podjęcia przez spółkę prowadzącą rynek regulowany lub podmiot prowadzący alternatywny system obrotu decyzji o wykluczeniu akcji z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu – może żądać odkupu posiadanych na ten dzień akcji, które zostały wykluczone z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu.
+### Art. 44.
 
-2. Akcjonariusz składa spółce pisemne żądanie odkupu akcji w terminie 3 miesięcy od dnia wykluczenia akcji z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu. W przypadku złożenia skargi do sądu administracyjnego na decyzję, w której Komisja wyklucza lub żąda wykluczenia akcji z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu, termin odkupu biegnie od dnia uprawomocnienia się wyroku oddalającego skargę.
+### 1.
 
-3. Spółka dokonuje odkupu wszystkich akcji na rachunek własny lub na rachunek akcjonariuszy pozostających w spółce, w jednym terminie po 3 miesiącach od dnia upływu terminu, o którym mowa w ust. 2. W przypadku braku środków na zaspokojenie wszystkich roszczeń odkup następuje na zasadzie proporcjonalności.
+W przypadku, o którym mowa w art. 41 ust. 1 pkt 3, dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym wymaga sporządzenia, zatwierdzenia przez Komisję oraz udostępnienia do publicznej wiadomości warunków obrotu, zawierających informacje w zakresie określonym w przepisach rozporządzenia wydanego na podstawie art. 55 pkt 2.
 
-4. Cena odkupu akcji nie może być niższa od ceny określonej zgodnie z art. 79 ust. 1, 2, 3a i 3b. Okresy, o których mowa w art. 79 ust. 1, 2 i 3a, ustala się w odniesieniu do dnia wykluczenia akcji z obrotu na rynku regulowanym lub z obrotu w alternatywnym systemie obrotu.
+### 2.
 
-5. Członek zarządu lub rady nadzorczej spółki nie może żądać odkupu akcji na podstawie ust. 1.
+Podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym składa do Komisji wniosek o zatwierdzenie warunków obrotu. Przepisy art. 31-33 oraz art. 45 ust. 1 i 2, art. 46 ust. 1, art. 47 i 50 stosuje się odpowiednio.
 
-6. Odkupione akcje ulegają umorzeniu. Umorzenia dokonuje zarząd emitenta bez zwoływania walnego zgromadzenia. Przepis art. 359 § 7 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+### Oddział 4 Udostępnianie informacji o papierach wartościowych w związku z ofertą publiczną lub ubieganiem się o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym
 
-**Art. 83b.** Akcjonariusz nie może żądać odkupu akcji w trybie przepisu art. 83a w przypadku ogłoszenia upadłości spółki lub wydania postanowienia o oddaleniu wniosku o ogłoszenie jej upadłości ze względu na to, że majątek spółki nie wystarcza albo wystarcza jedynie na zaspokojenie kosztów postępowania.
+### Art. 45.
 
-**Art. 84.**
+### 1.
 
-1. Na wniosek akcjonariusza lub akcjonariuszy spółki publicznej, posiadających co najmniej 5 % ogólnej liczby głosów, walne zgromadzenie może podjąć uchwałę w sprawie zbadania przez biegłego, na koszt spółki, określonego zagadnienia związanego z utworzeniem spółki lub jej podmiotu zależnego, lub prowadzeniem spraw tej spółki lub jej podmiotu zależnego (rewident do spraw szczególnych). Akcjonariusze ci mogą w tym celu żądać zwołania nadzwyczajnego walnego zgromadzenia lub żądać umieszczenia sprawy podjęcia tej uchwały w porządku obrad najbliższego walnego zgromadzenia. Art. 400 i 401 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+Po zatwierdzeniu prospektu emisyjnego emitent lub wprowadzający przekazuje jego ostateczną wersję do Komisji oraz udostępnia prospekt emisyjny do publicznej wiadomości.
 
-2. Rewidentem do spraw szczególnych może być wyłącznie podmiot posiadający wiedzę fachową i kwalifikacje niezbędne do zbadania sprawy określonej w uchwale walnego zgromadzenia, które zapewnią sporządzenie rzetelnego i obiektywnego sprawozdania z badania, z zastrzeżeniem ust. 3.
+### 2.
 
-3. Rewidentem do spraw szczególnych nie może być podmiot świadczący w okresie objętym badaniem, o którym mowa w ust. 1, usługi na rzecz spółki publicznej, o której mowa w ust. 1, jej podmiotu dominującego lub zależnego, jak również jej jednostki dominującej lub znaczącego inwestora w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości. Rewidentem do spraw szczególnych nie może być również podmiot, który należy do tej samej grupy kapitałowej co podmiot, który świadczył usługi, o których mowa powyżej.
+Emitent lub wprowadzający jest obowiązany, z zastrzeżeniem ust. 3, udostępnić do publicznej wiadomości prospekt emisyjny w terminie umożliwiającym inwestorom zapoznanie się z jego treścią, nie później jednak niż w dniu rozpoczęcia subskrypcji lub sprzedaży papierów wartościowych nim objętych, jeżeli papiery wartościowe są przedmiotem oferty publicznej, albo w dniu dopuszczenia papierów do obrotu na rynku regulowanym, jeżeli papiery wartościowe nie były uprzednio przedmiotem oferty publicznej.
 
-4. Uchwała walnego zgromadzenia, o której mowa w ust. 1, powinna określać w szczególności:
+### 3.
 
-- **1)** oznaczenie rewidenta do spraw szczególnych, na którego wnioskodawca wyraził zgodę na piśmie;
-- **2)** przedmiot i zakres badania, zgodny z treścią wniosku, chyba że wnioskodawca wyraził na piśmie zgodę na ich zmianę;
-- **3)** rodzaje dokumentów, które spółka powinna udostępnić biegłemu;
-- **4)** termin rozpoczęcia badania, nie dłuższy niż 3 miesiące od dnia podjęcia uchwały.
+W przypadku pierwszej oferty publicznej dotyczącej akcji, które mają być następnie dopuszczone do obrotu na rynku regulowanym, jeżeli tego samego rodzaju akcje tego emitenta nie są jeszcze dopuszczone do obrotu na rynku regulowanym, prospekt emisyjny powinien być udostępniony do publicznej wiadomości nie później niż na 6 dni roboczych przed dniem zakończenia ich subskrypcji lub sprzedaży.
 
-5. Przed podjęciem uchwały zarząd spółki publicznej przedstawia walnemu zgromadzeniu pisemną opinię dotyczącą zgłoszonego wniosku.
+### Art. 46.
 
-6. Uchwała walnego zgromadzenia, o której mowa w ust. 1, powinna zostać podjęta na walnym zgromadzeniu, którego porządek obrad obejmuje rozpatrzenie wniosku w sprawie tej uchwały.
+### 1.
 
-**Art. 85.**
+Emitent lub wprowadzający ma obowiązek udostępnić do publicznej wiadomości prospekt emisyjny sporządzony w języku polskim, z zastrzeżeniem ust. 2 i art. 37 ust. 3.
 
-1. Jeżeli walne zgromadzenie nie podejmie uchwały zgodnej z treścią wniosku, o którym mowa w art. 84 ust. 1, albo podejmie taką uchwałę z naruszeniem art. 84 ust. 4, wnioskodawcy mogą, w terminie 14 dni od dnia podjęcia uchwały, wystąpić do sądu rejestrowego o wyznaczenie wskazanego podmiotu jako rewidenta do spraw szczególnych. Przepisy art. 312 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych stosuje się odpowiednio.
+### 2.
 
-2. Sąd rejestrowy może, na wniosek zarządu spółki publicznej, uzależnić wydanie postanowienia o wyznaczeniu rewidenta do spraw szczególnych od złożenia przez wnioskodawców stosownego zabezpieczenia. W razie gdy badanie nie wykaże naruszeń prawa, sąd rejestrowy na wniosek zarządu spółki może postanowić o przepadku zabezpieczenia na rzecz spółki. Na postanowienie sądu w sprawie przepadku zabezpieczenia służy zażalenie.
+W przypadku papierów wartościowych o charakterze nieudziałowym, będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym, których jednostkowa wartość nominalna wynosi nie mniej niż 50 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień podjęcia uchwały o emisji tych papierów wartościowych, prospekt emisyjny udostępniany do publicznej wiadomości powinien być sporządzony w języku uzgodnionym przez Komisję z właściwymi organami nadzoru państw członkowskich, w których nastąpi to ubieganie się, lub w języku angielskim, według wyboru emitenta lub wprowadzającego. W takim przypadku emitent lub wprowadzający ma obowiązek udostępnić do publicznej wiadomości, łącznie z prospektem emisyjnym, dokument podsumowujący lub podsumowanie będące częścią prospektu emisyjnego sporządzonego w formie jednolitego dokumentu, sporządzone w języku polskim.
 
-3. Przed wydaniem postanowienia o wyznaczeniu rewidenta do spraw szczególnych, sąd rejestrowy wezwie zarząd i radę nadzorczą spółki do zajęcia stanowiska w sprawie w terminie 7 dni od dnia otrzymania wezwania. Nieudzielenie odpowiedzi w tym terminie nie wstrzymuje wydania postanowienia.
+### Art. 47.
 
-4. Sąd odmówi wyznaczenia rewidenta do spraw szczególnych, jeżeli wybór podmiotu wskazanego przez wnioskodawcę naruszy wymogi określone w art. 84 ust. 2 lub 3. Odmowa wyznaczenia rewidenta do spraw szczególnych może nastąpić również w przypadku, gdy z innych przyczyn wybór ten nie zapewni sporządzenia rzetelnego i obiektywnego sprawozdania z badania.
+### 1.
 
-5. Na postanowienie sądu o odmowie wyznaczenia rewidenta do spraw szczególnych służy zażalenie.
+Emitent lub wprowadzający ma obowiązek udostępnić prospekt emisyjny do publicznej wiadomości w co najmniej jeden z następujących sposobów:
 
-6. Rewident do spraw szczególnych wyznaczony przez sąd przeprowadza badanie na koszt spółki.
+### 1)
 
-**Art. 86.**
+przez zamieszczenie w co najmniej jednej gazecie ogólnopolskiej;
 
-1. Zarząd i rada nadzorcza spółki publicznej są obowiązane udostępnić rewidentowi do spraw szczególnych dokumenty określone w uchwale walnego zgromadzenia, o której mowa w art. 84 ust. 1, albo w postanowieniu sądu o wyznaczeniu rewidenta do spraw szczególnych, a także udzielić wyjaśnień niezbędnych dla przeprowadzenia badania.
+### 2)
 
-2. Rewident do spraw szczególnych jest obowiązany przedstawić zarządowi i radzie nadzorczej spółki pisemne sprawozdanie z wyników badania. Zarząd jest obowiązany przekazać to sprawozdanie w trybie określonym w art. 56 ust. 1. Sprawozdanie rewidenta do spraw szczególnych nie może ujawniać informacji stanowiących tajemnicę techniczną, handlową lub organizacyjną spółki, chyba że jest to niezbędne do uzasadnienia stanowiska zawartego w tym sprawozdaniu.
+w postaci drukowanej, bezpłatnie, w siedzibie spółki prowadzącej rynek regulowany, na którym papiery wartościowe mają być dopuszczane do obrotu, lub w siedzibie emitenta i w siedzibie firmy inwestycyjnej wykonującej czynności oferowania na podstawie umowy zawartej z emitentem i w punktach obsługi klienta podmiotów biorących udział w subskrypcji lub sprzedaży papierów wartościowych, w nakładzie zapewniającym dostępność prospektu emisyjnego dla osób zainteresowanych oraz sprawne przeprowadzenie oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym;
 
-3. Zarząd składa sprawozdanie ze sposobu uwzględnienia wyników badania na najbliższym walnym zgromadzeniu.
+### 3)
 
-4. Na żądanie Komisji rewident do spraw szczególnych jest obowiązany do niezwłocznego sporządzenia i przekazania, na własny koszt, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień – w zakresie dotyczącym czynności podejmowanych w związku z badaniem przeprowadzonym przez rewidenta do spraw szczególnych. Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+w postaci elektronicznej w sieci Internet na stronie emitenta oraz, odpowiednio, na stronach podmiotów biorących udział w subskrypcji lub sprzedaży papierów wartościowych;
 
-##### Oddział 4 Przepisy szczególne
+### 4)
 
-**Art. 87.**
+w postaci elektronicznej w sieci Internet na stronie spółki prowadzącej rynek regulowany, na którym papiery wartościowe mają być dopuszczane do obrotu.
 
-1. Z zastrzeżeniem wyjątków przewidzianych w przepisach niniejszego rozdziału, obowiązki w nim określone odpowiednio spoczywają:
+### 2.
 
-- **1)** również na podmiocie, który osiągnął lub przekroczył określony w ustawie próg ogólnej liczby głosów w związku z nabywaniem lub zbywaniem kwitów depozytowych wystawionych w związku z akcjami spółki publicznej;
-- **2)** na funduszu inwestycyjnym – również w przypadku, gdy osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji łącznie przez:
-    - **a)** inne fundusze inwestycyjne zarządzane przez to samo towarzystwo funduszy inwestycyjnych,
-    - **b)** inne fundusze inwestycyjne lub alternatywne fundusze inwestycyjne utworzone poza terytorium Rzeczypospolitej Polskiej, zarządzane przez ten sam podmiot;
+Emitent lub wprowadzający publikuje informację o formie i terminie udostępnienia prospektu emisyjnego do publicznej wiadomości, w sposób określony w art. 31 rozporządzenia 809/2004, oraz przekazuje tę informację Komisji.
 
-- **2a)** na alternatywnej spółce inwestycyjnej – również w przypadku, gdy osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji łącznie przez:
-    - **a)** inne alternatywne spółki inwestycyjne zarządzane przez tego samego zarządzającego ASI w rozumieniu ustawy o funduszach inwestycyjnych,
-    - **b)** inne alternatywne fundusze inwestycyjne utworzone poza terytorium Rzeczypospolitej Polskiej, zarządzane przez ten sam podmiot;
+### 3.
 
-- **2b)** na funduszu emerytalnym – również w przypadku, gdy osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji łącznie przez inne fundusze emerytalne zarządzane przez to samo towarzystwo emerytalne;
-- **3)** również na podmiocie, w przypadku którego osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji:
-    - **a)** przez osobę trzecią w imieniu własnym, lecz na zlecenie lub na rzecz tego podmiotu, z wyłączeniem akcji nabytych w ramach wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 2 ustawy o obrocie instrumentami finansowymi,
-    - **b)** w ramach wykonywania czynności polegających na zarządzaniu portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zgodnie z przepisami ustawy o obrocie instrumentami finansowymi oraz ustawy o funduszach inwestycyjnych – w zakresie akcji wchodzących w skład zarządzanych portfeli papierów wartościowych, z których podmiot ten, jako zarządzający, może w imieniu zleceniodawców wykonywać prawo głosu na walnym zgromadzeniu,
-    - **c)** przez osobę trzecią, z którą ten podmiot zawarł umowę, której przedmiotem jest przekazanie uprawnienia do wykonywania prawa głosu;
+Komisja zamieszcza na swojej stronie w sieci Internet informację o zatwierdzonym i udostępnionym do publicznej wiadomości prospekcie emisyjnym wraz z odnośnikami do stron w sieci Internet należącymi do emitenta lub spółki prowadzącej rynek regulowany, na których została zamieszczona elektroniczna wersja tego prospektu emisyjnego. Emitent lub wprowadzający informuje Komisję, na 2 dni robocze przed dniem udostępnienia prospektu emisyjnego do publicznej wiadomości, o terminie i miejscu tego udostępnienia w sieci Internet.
 
-- **4)** również na pełnomocniku, który w ramach reprezentowania akcjonariusza na walnym zgromadzeniu został upoważniony do wykonywania prawa głosu z akcji spółki publicznej, jeżeli akcjonariusz ten nie wydał wiążących pisemnych dyspozycji co do sposobu głosowania;
-- **5)** również łącznie na wszystkich podmiotach, które łączy pisemne lub ustne porozumienie dotyczące nabywania bezpośrednio lub pośrednio, lub obejmowania w wyniku oferty niebędącej ofertą publiczną przez te podmioty lub przez osobę trzecią, o której mowa w pkt 3 lit. a, akcji spółki publicznej, lub zgodnego głosowania na walnym zgromadzeniu lub prowadzenia trwałej polityki wobec spółki, chociażby tylko jeden z tych podmiotów podjął lub zamierzał podjąć czynności powodujące powstanie tych obowiązków;
-- **6)** na podmiotach, które zawierają porozumienie, o którym mowa w pkt 5, posiadając akcje spółki publicznej, w liczbie zapewniającej łącznie osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach;
-- **7)** również na pełnomocniku niebędącym firmą inwestycyjną, upoważnionym do dokonywania na rachunku papierów wartościowych czynności zbycia lub nabycia papierów wartościowych.
+### 4.
 
-1a. Obowiązki określone w oddziale 1 niniejszego rozdziału powstają również w przypadku zmniejszenia udziału w ogólnej liczbie głosów w spółce publicznej w związku z rozwiązaniem porozumienia, o którym mowa w ust. 1 pkt 5, a także w związku ze zmniejszeniem udziału strony tego porozumienia w ogólnej liczbie głosów.
+W przypadku udostępnienia prospektu emisyjnego wyłącznie w postaci elektronicznej, podmiot udostępniający prospekt emisyjny jest obowiązany, na żądanie osoby zainteresowanej, zgłoszone w terminie ważności prospektu emisyjnego, do nieodpłatnego dostarczenia tego prospektu emisyjnego w postaci drukowanej w miejscu przyjęcia żądania.
 
-2. Obowiązki określone w przepisach niniejszego rozdziału powstają również w przypadku, gdy prawa głosu są związane z:
+### 5.
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** papierami wartościowymi zdeponowanymi lub zarejestrowanymi w podmiocie, który może nimi rozporządzać według własnego uznania.
+Szczegółowe zasady udostępniania do publicznej wiadomości prospektu emisyjnego określają art. 29 i 30 rozporządzenia 809/2004.
 
-3. W przypadkach, o których mowa w ust. 1 pkt 5 i 6 oraz ust. 1a, obowiązki określone w niniejszym rozdziale mogą być wykonywane przez jedną ze stron porozumienia, wskazaną przez strony porozumienia.
+### Art. 48.
 
-4. Istnienie porozumienia, o którym mowa w ust. 1 pkt 5, domniemywa się w przypadku posiadania akcji spółki publicznej przez:
+W przypadku, o którym mowa w art. 21 ust. 1 pkt 2 i art. 22 ust. 2, emitent lub wprowadzający mogą udostępniać do publicznej wiadomości poszczególne dokumenty stanowiące część prospektu emisyjnego oddzielnie. W takim przypadku każdy z dokumentów, o których mowa w art. 21 ust. 1 pkt 2, udostępniany do publicznej wiadomości w sposób, o którym mowa w art. 47 ust. 1, zawiera wskazanie o sposobie udostępnienia wszystkich pozostałych dokumentów i informacji zamieszczonych przez odesłanie, o których mowa w art. 22 ust. 2, stanowiących ten prospekt emisyjny.
 
-- **1)** małżonków, ich wstępnych, zstępnych i rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki i kurateli;
-- **2)** osoby pozostające we wspólnym gospodarstwie domowym;
-- **3)** (uchylony)
-- **4)** jednostki powiązane w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości.
+### Art. 49.
 
-5. Do liczby głosów, która powoduje powstanie obowiązków określonych w przepisach niniejszego rozdziału:
+### 1.
 
-- **1)** po stronie podmiotu dominującego – wlicza się liczbę głosów posiadanych przez jego podmioty zależne;
-- **2)** po stronie pełnomocnika, który został upoważniony do wykonywania prawa głosu zgodnie z ust. 1 pkt 4 – wlicza się liczbę głosów z akcji objętych pełnomocnictwem;
-- **3)** wlicza się liczbę głosów z wszystkich akcji, nawet jeżeli wykonywanie z nich prawa głosu jest ograniczone lub wyłączone z mocy statutu, umowy lub przepisu prawa;
-- **4)** po stronie pełnomocnika, o którym mowa w ust. 1 pkt 7, wlicza się liczbę głosów posiadanych przez mocodawcę wynikających z akcji zapisanych na rachunkach papierów wartościowych, w zakresie których pełnomocnik ma umocowanie.
+Termin ważności prospektu emisyjnego sporządzonego w formie jednolitego dokumentu wynosi 12 miesięcy od dnia jego udostępnienia po raz pierwszy do publicznej wiadomości.
 
-6. Przepisu ust. 5 pkt 1 nie stosuje się do Skarbu Państwa i podmiotów od niego zależnych, pod warunkiem że:
+### 2.
 
-- **1)** podmioty wykonujące uprawnienia wynikające z praw majątkowych Skarbu Państwa oraz podmioty od niego zależne wykonują przysługujące im prawa głosu niezależnie od siebie;
-- **2)** osoby decydujące o sposobie wykonywania prawa głosu przez podmioty zależne od Skarbu Państwa działają niezależnie.
+Termin ważności dokumentu rejestracyjnego wynosi 12 miesięcy od dnia jego zatwierdzenia. Dokument rejestracyjny traci ważność również w przypadku niedokonania jego aktualizacji w terminie określonym w art. 51 ust. 1.
 
-**Art. 88.** (uchylony)
+### 3.
 
-**Art. 88a.** Podmiot obowiązany do ogłoszenia wezwania, o którym mowa w art. 73 ust. 1, do dnia jego ogłoszenia lub do dnia, w którym jego udział w ogólnej liczbie głosów w spółce publicznej, w której przekroczył określony w tym przepisie próg ogólnej liczby głosów, ulegnie zmniejszeniu do nie więcej niż 50 %, nie może bezpośrednio lub pośrednio nabywać akcji tej spółki.
+Termin ważności prospektu emisyjnego w przypadku, o którym mowa w art. 21 ust. 2 pkt 2, upływa z dniem zakończenia emisji papierów wartościowych emitowanych na podstawie tego prospektu.
 
-**Art. 89.**
+### Art. 50.
 
-1. Akcjonariusz nie może wykonywać prawa głosu z:
+Wszelkie informacje udostępniane do publicznej wiadomości przez emitenta, wprowadzającego lub inne podmioty uczestniczące w tej ofercie w imieniu lub na zlecenie emitenta lub wprowadzającego nie mogą być sprzeczne z treścią informacji zawartych w prospekcie emisyjnym.
 
-- **1)** akcji spółki publicznej będących przedmiotem czynności prawnej lub innego zdarzenia prawnego powodującego osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów, jeżeli osiągnięcie lub przekroczenie tego progu nastąpiło z naruszeniem obowiązków określonych w art. 69;
-- **2)** (uchylony)
-- **3)** akcji spółki publicznej, nabytych w wezwaniu po cenie ustalonej z naruszeniem art. 79–79b.
+### Art. 51.
 
-2. Podmiot, który przekroczył próg ogólnej liczby głosów, o którym mowa w art. 73 ust. 1, oraz podmiot, którego udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu w przypadku, o którym mowa w art. 73 ust. 3, nie mogą wykonywać prawa głosu z wszystkich akcji spółki publicznej, chyba że wykonają w terminie obowiązki określone w art. 73 ust. 1 lub zajdzie zdarzenie, o którym mowa w art. 73 ust. 2.
+### 1.
 
-2a. Zakaz wykonywania prawa głosu, o którym mowa w ust. 2, dotyczy także wszystkich akcji spółki publicznej posiadanych przez podmioty zależne od akcjonariusza lub podmiotu, który nie wykonał obowiązków określonych w art. 73 ust. 1 lub 3, a także akcji spółki publicznej posiadanych przez podmioty będące osobami trzecimi, o których mowa w art. 87 ust. 1 pkt 3 lit. a, oraz wszystkie strony porozumienia, o którym mowa w art. 87 ust. 1 pkt 5.
+Emitent lub wprowadzający jest obowiązany przekazywać Komisji niezwłocznie, nie później jednak niż w terminie 24 godzin, w formie aneksu do prospektu emisyjnego, wraz z wnioskiem o jego zatwierdzenie, informacje o wszelkich zdarzeniach lub okolicznościach, które mogłyby w sposób znaczący wpłynąć na ocenę papieru wartościowego, o których emitent lub wprowadzający powziął wiadomość po zatwierdzeniu prospektu emisyjnego do dnia:
 
-2b. W przypadku nabycia lub objęcia akcji spółki publicznej z naruszeniem zakazu, o którym mowa w art. 77g pkt 3 albo art. 88a, albo niezgodnie z art. 77g pkt 1, podmiot, który nabył lub objął akcje, oraz podmioty od niego zależne nie mogą wykonywać prawa głosu z tych akcji.
+### 1)
 
-3. Prawo głosu z akcji spółki publicznej wykonane wbrew zakazowi, o którym mowa w ust. 1–2b, nie jest uwzględniane przy obliczaniu wyniku głosowania nad uchwałą walnego zgromadzenia, z zastrzeżeniem przepisów innych ustaw.
+dokonania przydziału papierów wartościowych, ogłoszenia o niedojściu subskrypcji lub sprzedaży do skutku, lub ogłoszenia o odstąpieniu emitenta od przeprowadzenia subskrypcji lub sprzedaży albo o odwołaniu subskrypcji lub sprzedaży - jeżeli papiery wartościowe będące przedmiotem oferty publicznej nie będą podlegać dopuszczeniu do obrotu na rynku regulowanym, albo
 
-**Art. 90.**
+### 2)
 
-1. Z zastrzeżeniem ust. 1a, przepisów niniejszego rozdziału nie stosuje się w przypadku nabywania akcji przez firmę inwestycyjną, w celu realizacji określonych regulaminem, o którym mowa w art. 28 ust. 1 ustawy o obrocie instrumentami finansowymi, zadań związanych z organizacją rynku regulowanego.
+rozpoczęcia notowań papierów wartościowych na rynku regulowanym.
 
-1a. Przepisów art. 69–69b nie stosuje się w przypadku nabywania lub zbywania akcji przez firmę inwestycyjną w celu realizacji zadań, o których mowa w ust. 1, które łącznie z akcjami już posiadanymi w tym celu uprawniają do wykonywania mniej niż 10 % ogólnej liczby głosów w spółce publicznej, o ile:
+### 2.
 
-- **1)** prawa głosu przysługujące z tych akcji nie są wykonywane oraz
-- **2)** firma inwestycyjna, w terminie 4 dni roboczych od dnia zawarcia umowy z emitentem o realizację zadań, o których mowa w ust. 1, zawiadomi organ państwa macierzystego, o którym mowa w art. 55a, właściwy dla emitenta, o zamiarze wykonywania zadań związanych z organizacją rynku regulowanego oraz
-- **3)** firma inwestycyjna zapewni identyfikację akcji posiadanych w celu realizacji zadań, o których mowa w ust. 1.
+Treść aneksu podlega zatwierdzeniu przez Komisję w trybie określonym w art. 31, art. 32 i art. 33 ust. 2, jednak w terminie nie dłuższym niż 7 dni roboczych od dnia złożenia wniosku o zatwierdzenie aneksu.
 
-1b. Przepisów niniejszego rozdziału, z wyjątkiem art. 69–69b, art. 70 oraz art. 89 w zakresie dotyczącym art. 69, nie stosuje się w przypadku nabywania akcji w drodze krótkiej sprzedaży, o której mowa w art. 3 pkt 47 ustawy o obrocie instrumentami finansowymi.
+### 3.
 
-1c. Przepisów niniejszego rozdziału nie stosuje się w przypadku nabywania akcji:
+Komisja może odmówić zatwierdzenia aneksu w przypadku, gdy nie odpowiada on pod względem formy lub treści wymogom określonym w przepisach prawa. Odmawiając zatwierdzenia aneksu, Komisja nakazuje wstrzymanie rozpoczęcia oferty publicznej, przerwanie jej przebiegu lub wstrzymanie dopuszczenia papierów wartościowych do obrotu na rynku regulowanym na podstawie prospektu emisyjnego dotyczącego papierów wartościowych będących przedmiotem tej oferty lub dopuszczenia do tego obrotu.
 
-- **1)** w ramach systemu zabezpieczania płynności rozliczania transakcji, na zasadach określonych przez:
-    - **a)** Krajowy Depozyt w regulaminie, o którym mowa w art. 50 ustawy o obrocie instrumentami finansowymi,
-    - **b)** spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi, w regulaminie, o którym mowa w art. 48 ust. 15 tej ustawy,
-    - **c)** spółkę prowadzącą izbę rozliczeniową w regulaminie, o którym mowa w art. 68b ust. 2 ustawy o obrocie instrumentami finansowymi;
+### 4.
 
-- **2)** przez Krajowy Depozyt, spółkę której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy o obrocie instrumentami finansowymi oraz spółkę prowadzącą izbę rozliczeniową – w ramach dokonywanych przez nie rozliczeń transakcji.
+Zatwierdzony przez Komisję aneks do prospektu emisyjnego udostępnionego do publicznej wiadomości emitent lub wprowadzający powinien niezwłocznie udostępnić do publicznej wiadomości, w sposób, w jaki został udostępniony prospekt emisyjny lub jeden z dokumentów, o których mowa w art. 21 ust. 1 pkt 2, nie później niż w terminie 24 godzin od dnia otrzymania decyzji o zatwierdzeniu aneksu.
 
-1d. Przepisów art. 69–69b nie stosuje się do podmiotu dominującego towarzystwa funduszy inwestycyjnych, podmiotu dominującego spółki zarządzającej oraz podmiotu dominującego firmy inwestycyjnej, wykonujących czynności, o których mowa w art. 87 ust. 1 pkt 3 lit. b, pod warunkiem że:
+### 5.
 
-- **1)** towarzystwo funduszy inwestycyjnych, spółka zarządzająca lub firma inwestycyjna wykonują przysługujące im w związku z zarządzanymi portfelami prawa głosu niezależnie od podmiotu dominującego;
-- **2)** podmiot dominujący nie udziela bezpośrednio lub pośrednio żadnych instrukcji co do sposobu głosowania na walnym zgromadzeniu spółki publicznej;
-- **3)** podmiot dominujący przekaże do Komisji oświadczenie o spełnianiu warunków, o których mowa w pkt 1 i 2, wraz z listą zależnych towarzystw funduszy inwestycyjnych, spółek zarządzających oraz firm inwestycyjnych zarządzających portfelami ze wskazaniem właściwych organów nadzoru tych podmiotów.
+W przypadku gdy po rozpoczęciu subskrypcji lub sprzedaży do publicznej wiadomości został udostępniony aneks dotyczący zdarzenia lub okoliczności zaistniałych przed dokonaniem przydziału papierów wartościowych, o których emitent lub wprowadzający powziął wiadomość przed tym przydziałem, osoba, która złożyła zapis przed udostępnieniem aneksu, może uchylić się od skutków prawnych złożonego zapisu, składając w firmie inwestycyjnej oferującej te papiery wartościowe oświadczenie na piśmie, w terminie 2 dni roboczych od dnia udostępnienia aneksu. Emitent lub wprowadzający jest obowiązany do odpowiedniej zmiany terminu przydziału papierów wartościowych w celu umożliwienia inwestorowi uchylenia się od tych skutków prawnych.
 
-1e. Warunki, o których mowa w ust. 1d pkt 1 i 2, uważa się za spełnione, jeżeli:
+### 6.
 
-- **1)** struktura organizacyjna podmiotu dominującego oraz towarzystwa funduszy inwestycyjnych lub firmy inwestycyjnej zapewnia niezależność wykonywania prawa głosu z akcji spółki publicznej;
-- **2)** osoby decydujące o sposobie wykonywania prawa głosu przez towarzystwo funduszy inwestycyjnych lub firmę inwestycyjną, działają niezależnie;
-- **3)** w przypadku gdy podmiot dominujący zawarł z towarzystwem funduszy inwestycyjnych lub firmą inwestycyjną umowę o zarządzanie portfelem instrumentów finansowych – w relacjach pomiędzy tym podmiotem a towarzystwem funduszy inwestycyjnych lub firmą inwestycyjną zachowana zostaje niezależność.
+Na podstawie porozumienia z właściwym organem nadzoru w innym państwie członkowskim, Komisja przekazuje temu organowi rozpatrzenie wniosku o zatwierdzenie aneksu złożonego do Komisji przez emitenta, dla którego Rzeczpospolita Polska jest państwem macierzystym, jeżeli uprzednio przekazała temu organowi do zatwierdzenia prospekt emisyjny albo dokumenty, o których mowa w art. 21 ust. 1 pkt 2, zgodnie z przepisami art. 35 ust. 1.
 
-1f. Przepisów art. 69–69b nie stosuje się w przypadku nabywania lub zbywania akcji własnych przez spółkę publiczną lub podmiot działający na jej rachunek lub w jej imieniu, pod warunkiem że to nabywanie lub zbywanie odbywać się będzie w trybie, terminie i na warunkach określonych w przepisach rozporządzenia 596/2014, w ramach stabilizacji instrumentów finansowych, oraz że prawa głosu przysługujące z tych akcji nie są wykonywane ani w żaden inny sposób wykorzystywane w celu wpływania na zarządzanie emitentem.
+### 7.
 
-1g. Przepisów art. 69–69b nie stosuje się w przypadku nabywania lub zbywania instrumentów finansowych przez bank krajowy, instytucję kredytową lub firmę inwestycyjną, do portfela handlowego w rozumieniu rozporządzenia 575/2013, jeżeli:
+Do rozpatrzenia przez Komisję wniosku o zatwierdzenie aneksu przekazanego przez właściwy organ nadzoru w innym państwie członkowskim na podstawie porozumienia, o którym mowa w ust. 6, stosuje się odpowiednio przepisy ust. 1 i 2.
 
-- **1)** udział w ogólnej liczbie głosów związany z posiadanymi instrumentami finansowymi stanowi mniej niż 5 % ogólnej liczby głosów oraz
-- **2)** prawa głosu wynikające z akcji znajdujące się w portfelu handlowym nie są wykonywane.
+### 8.
 
-1h. Przepisy ust. 1d stosuje się odpowiednio do podmiotu dominującego wobec podmiotu mającego siedzibę w państwie niebędącym państwem członkowskim, który prowadzi działalność równoważną z działalnością spółki zarządzającej mającej siedzibę na terytorium państwa członkowskiego lub który wykonuje czynności polegające na zarządzaniu portfelami instrumentów finansowych.
+Obowiązek przekazania informacji w formie aneksu do prospektu emisyjnego nie wyłącza obowiązku, o którym mowa w art. 56 ust. 1.
 
-2. Przepisów niniejszego rozdziału, z wyjątkiem art. 69–69b, art. 70, art. 87 ust. 1 pkt 6 i art. 89 ust. 1 pkt 1 w zakresie dotyczącym art. 69, nie stosuje się również w przypadku porozumień, o których mowa w art. 87 ust. 1 pkt 5, zawieranych dla ochrony praw akcjonariuszy mniejszościowych, w celu wspólnego wykonywania przez nich uprawnień określonych w art. 84 i art. 85 oraz w art. 385 § 3, art. 400 § 1, art. 422, art. 425 i art. 429 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+### 9.
 
-3. Przepisów niniejszego rozdziału, z wyjątkiem art. 69–69b, art. 70 oraz art. 89 w zakresie dotyczącym art. 69, nie stosuje się w przypadku udzielenia pełnomocnictwa, o którym mowa w art. 87 ust. 1 pkt 4, dotyczącego wyłącznie jednego walnego zgromadzenia. Zawiadomienie składane w związku z udzieleniem lub otrzymaniem takiego pełnomocnictwa powinno zawierać informację dotyczącą zmian w zakresie praw głosu po utracie przez pełnomocnika możliwości wykonywania prawa głosu.
+Przepisy ust. 1-4 i ust. 6-8 stosuje się odpowiednio do zatwierdzonego dokumentu rejestracyjnego.
 
-4. Przepisów niniejszego rozdziału nie stosuje się w przypadku pośredniego nabycia akcji przez Skarb Państwa, pod warunkiem że:
+### Art. 52.
 
-- **1)** podmioty wykonujące uprawnienia wynikające z praw majątkowych Skarbu Państwa oraz podmioty od niego zależne wykonują przysługujące im prawa głosu niezależnie od siebie;
-- **2)** osoby decydujące o sposobie wykonywania prawa głosu przez podmioty zależne od Skarbu Państwa działają niezależnie.
+Treść i forma udostępnionego do publicznej wiadomości prospektu emisyjnego oraz aneksów powinny być zgodne z treścią i formą prospektu emisyjnego i aneksów zatwierdzonych przez Komisję.
 
-**Art. 90a.**
+### Art. 53.
 
-1. W przypadku spółki publicznej z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska, której akcje:
+### 1.
 
-- **1)** są dopuszczone do obrotu na rynku regulowanym wyłącznie na terytorium Rzeczypospolitej Polskiej,
-- **2)** zostały po raz pierwszy dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz są dopuszczone do obrotu na rynku regulowanym w innym państwie członkowskim niebędącym państwem siedziby tej spółki,
-- **3)** zostały jednocześnie dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz w innym państwie członkowskim niebędącym państwem siedziby tej spółki – jeżeli spółka wskazała Komisję jako organ właściwy do nadzoru w zakresie wezwań do zapisywania się na sprzedaż lub zamianę akcji – przepisu art. 73 nie stosuje się, z tym że w takim przypadku podmiot nabywający akcje jest obowiązany do ogłoszenia i przeprowadzenia wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji spółki zgodnie z przepisami państwa członkowskiego, w którym spółka publiczna ma siedzibę, z zastrzeżeniem ust. 2.
+Emitent lub wprowadzający może prowadzić akcję promocyjną w rozumieniu i w formie wskazanej w art. 2 pkt 9 i art. 34 rozporządzenia 809/2004.
 
-1a. W przypadku spółki publicznej z siedzibą w państwie członkowskim innym niż Rzeczpospolita Polska, której akcje:
+### 2.
 
-- **1)** są dopuszczone do obrotu na rynku regulowanym w państwie członkowskim, w którym spółka ma swoją siedzibę, oraz są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej,
-- **2)** zostały po raz pierwszy dopuszczone do obrotu na rynku regulowanym w innym niż Rzeczpospolita Polska państwie członkowskim niebędącym państwem siedziby tej spółki oraz są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej,
-- **3)** są jednocześnie dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz na rynku regulowanym w innym niż Rzeczpospolita Polska państwie członkowskim niebędącym państwem siedziby tej spółki – jeżeli spółka wskazała organ nadzoru w tym innym państwie jako organ właściwy do nadzoru w zakresie wezwań do zapisywania się na sprzedaż lub zamianę akcji – przepisów oddziału 2 nie stosuje się.
+W przypadku prowadzenia akcji promocyjnej w treści wszystkich materiałów promocyjnych należy jednoznacznie wskazać:
 
-2. W przypadku powstania obowiązku ogłoszenia wezwania, o którym mowa w ust. 1, do wezwania przeprowadzanego na terytorium Rzeczypospolitej Polskiej mają zastosowanie przepisy oddziału 2 oraz przepisy wydane na podstawie art. 81, w zakresie przedmiotu świadczenia oferowanego w wezwaniu, ceny akcji proponowanej w wezwaniu oraz procedury przeprowadzania wezwania, w szczególności dotyczące treści wezwania i trybu jego ogłaszania.
+### 1)
 
-3. W przypadkach, o których mowa w ust. 1 pkt 3 i ust. 1a pkt 3, spółka publiczna przed rozpoczęciem obrotu jej akcjami na rynku regulowanym na terytorium Rzeczypospolitej Polskiej jest obowiązana:
+że mają one wyłącznie charakter promocyjny lub reklamowy;
 
-- **1)** wskazać organ nadzoru właściwy w zakresie nabywania znacznych pakietów jej akcji oraz
-- **2)** zawiadomić organy nadzoru w państwach członkowskich, na terytorium których akcje zostały jednocześnie dopuszczone do obrotu na rynkach regulowanych, o wskazaniu organu, o którym mowa w pkt 1.
+### 2)
 
-4. Informację o wskazaniu organu nadzoru właściwego w zakresie wezwań do zapisywania się na sprzedaż lub zamianę jej akcji spółka publiczna przekazuje do publicznej wiadomości nie później niż w terminie 3 dni od dnia rozpoczęcia obrotu jej akcjami na rynku regulowanym na terytorium Rzeczypospolitej Polskiej.
+że został lub zostanie opublikowany prospekt emisyjny;
 
-**Art. 90b.** Ilekroć w niniejszym rozdziale, w zakresie obowiązków, o których mowa w art. 69–69b, jest mowa o papierach wartościowych, należy przez to rozumieć również instrumenty finansowe.
+### 3)
 
-#### Rozdział 4a Polityka wynagrodzeń i sprawozdanie o wynagrodzeniach
+miejsca, w których prospekt emisyjny jest lub będzie dostępny.
 
-**Art. 90c.**
+### 3.
 
-1. Ilekroć w przepisach niniejszego rozdziału jest mowa o spółce, należy przez to rozumieć spółkę z siedzibą na terytorium Rzeczypospolitej Polskiej, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym.
+Informacje przekazywane w ramach akcji promocyjnej nie mogą być sprzeczne z informacjami zamieszczonymi w prospekcie emisyjnym, jak również nie mogą wprowadzać inwestorów w błąd co do sytuacji emitenta i oceny papierów wartościowych.
 
-2. Przepisów niniejszego rozdziału nie stosuje się do spółek, które są:
+### 4.
 
-- **1)** bankami, w zakresie uregulowanym w art. 9ca i art. 9cb ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe oraz w przepisach wykonawczych wydanych na podstawie art. 9f ust. 1 pkt 2 i ust. 2 tej ustawy;
-- **2)** towarzystwami funduszy inwestycyjnych oraz zarządzającymi ASI w rozumieniu ustawy o funduszach inwestycyjnych, w zakresie uregulowanym odpowiednio w art. 47a ust. 1–3 ustawy o funduszach inwestycyjnych oraz w przepisach wykonawczych wydanych na podstawie art. 47a ust. 4 tej ustawy, oraz w art. 70j ust. 1 i 2 ustawy o funduszach inwestycyjnych i w przepisach wykonawczych wydanych na podstawie art. 70j ust. 3 tej ustawy;
-- **3)** domami maklerskimi w rozumieniu ustawy o obrocie instrumentami finansowymi, w zakresie uregulowanym w art. 110v i w art. 110w ust. 4 i 5 tej ustawy oraz w przepisach wykonawczych wydanych na podstawie art. 110x pkt 4 tej ustawy.
+W przypadku gdy zgodnie z ustawą nie jest wymagane sporządzenie, zatwierdzenie i udostępnienie prospektu emisyjnego do publicznej wiadomości, wszelkie informacje przekazywane inwestorom w ramach akcji promocyjnej powinny być udostępnione w takim samym zakresie wszystkim podmiotom, do których kierowana jest oferta publiczna lub które będą uczestniczyć w obrocie tymi papierami na rynku regulowanym.
 
-**Art. 90d.**
+### 5.
 
-1. Walne zgromadzenie spółki przyjmuje, w drodze uchwały, politykę wynagrodzeń członków zarządu i rady nadzorczej. Za informacje zawarte w polityce wynagrodzeń odpowiadają członkowie zarządu spółki.
+W przypadku stwierdzenia naruszenia obowiązków wynikających z ust. 2-4 Komisja może:
 
-2. Rozwiązania przyjęte w polityce wynagrodzeń powinny przyczyniać się do realizacji strategii biznesowej, długoterminowych interesów oraz stabilności spółki.
+### 1)
 
-3. Polityka wynagrodzeń zawiera w szczególności:
+nakazać wstrzymanie rozpoczęcia akcji promocyjnej lub przerwanie jej prowadzenia na okres nie dłuższy niż 10 dni roboczych, w celu usunięcia wskazanych nieprawidłowości, lub
 
-- **1)** opis stałych i zmiennych składników wynagrodzenia, jak również premii i innych świadczeń pieniężnych i niepieniężnych, które mogą zostać przyznane członkom zarządu i rady nadzorczej;
-- **2)** wskazanie wzajemnych proporcji składników wynagrodzenia, o których mowa w pkt 1;
-- **3)** wyjaśnienie, w jaki sposób warunki pracy i płacy pracowników spółki innych niż członkowie zarządu i rady nadzorczej zostały uwzględnione przy ustanawianiu polityki wynagrodzeń;
-- **4)** wskazanie okresu, na jaki zostały zawarte umowy o pracę, umowy zlecenia, umowy o dzieło lub inne umowy o podobnym charakterze z członkami zarządu i rady nadzorczej, oraz wskazanie okresów i warunków wypowiedzenia tych umów, a w przypadku gdy z członkiem zarządu lub rady nadzorczej nie została zawarta umowa – wskazanie rodzaju i okresu, na jaki został nawiązany stosunek prawny łączący członka zarządu lub rady nadzorczej ze spółką, oraz okresu i warunków rozwiązania tego stosunku prawnego;
-- **5)** opis głównych cech dodatkowych programów emerytalno-rentowych i programów wcześniejszych emerytur;
-- **6)** opis procesu decyzyjnego przeprowadzonego w celu ustanowienia, wdrożenia oraz przeglądu polityki wynagrodzeń;
-- **7)** opis środków podjętych w celu unikania konfliktów interesów związanych z polityką wynagrodzeń lub zarządzania takimi konfliktami interesów;
-- **8)** wskazanie, w jaki sposób polityka wynagrodzeń przyczynia się do realizacji celów określonych w ust. 2.
+### 2)
 
-4. W przypadku gdy spółka przyznaje członkom zarządu lub rady nadzorczej zmienne składniki wynagrodzenia, polityka wynagrodzeń zawiera również:
+zakazać prowadzenia akcji promocyjnej, jeżeli:
 
-- **1)** jasne, kompleksowe i zróżnicowane kryteria w zakresie wyników finansowych i niefinansowych, dotyczące przyznawania zmiennych składników wynagrodzenia, w tym kryteria dotyczące uwzględniania interesów społecznych, przyczyniania się spółki do ochrony środowiska oraz podejmowania działań nakierowanych na zapobieganie negatywnym skutkom społecznym działalności spółki i ich likwidowanie;
-- **2)** wyjaśnienie sposobu, w jaki kryteria, o których mowa w pkt 1, przyczyniają się do realizacji celów określonych w ust. 2;
-- **3)** metody stosowane w celu określenia, w jakim zakresie kryteria, o których mowa w pkt 1, zostały spełnione;
-- **4)** informacje dotyczące okresów odroczenia wypłaty oraz możliwości żądania przez spółkę zwrotu zmiennych składników wynagrodzenia.
+### a)
 
-5. W przypadku gdy spółka przyznaje członkom zarządu lub rady nadzorczej wynagrodzenie w formie instrumentów finansowych, polityka wynagrodzeń określa również okresy, w których nabywa się uprawnienie do otrzymania wynagrodzenia w tej formie, zasady zbywania tych instrumentów finansowych oraz wyjaśnienie, w jaki sposób przyznawanie wynagrodzenia w formie instrumentów finansowych przyczynia się do realizacji celów określonych w ust. 2.
+emitent lub wprowadzający uchyla się od usunięcia wskazanych przez Komisję nieprawidłowości w terminie wskazanym w pkt 1 lub
 
-6. Polityka wynagrodzeń zawiera również opis istotnych zmian wprowadzonych w stosunku do poprzednio obowiązującej polityki wynagrodzeń oraz opis sposobu, w jaki zostały w niej uwzględnione treść uchwały, o której mowa w art. 90g ust. 6, lub wyniki dyskusji, o której mowa w art. 90g ust. 7.
+### b)
 
-7. Walne zgromadzenie może upoważnić radę nadzorczą do uszczegółowienia elementów polityki wynagrodzeń określonych w ust. 3 pkt 1, ust. 4 pkt 1 i 4 oraz ust. 5, w granicach określonych uprzednio przez walne zgromadzenie.
+treść materiałów promocyjnych lub reklamowych narusza przepisy ustawy, lub
 
-**Art. 90e.**
+### 3)
 
-1. Spółka wypłaca wynagrodzenie członkom zarządu i rady nadzorczej wyłącznie zgodnie z polityką wynagrodzeń.
+opublikować, na koszt emitenta lub wprowadzającego, informację o niezgodnym z prawem prowadzeniu akcji promocyjnej, wskazując naruszenia prawa.
 
-2. W przypadku nieprzyjęcia przez walne zgromadzenie polityki wynagrodzeń spółka wypłaca wynagrodzenia zgodnie z dotychczas obowiązującą polityką wynagrodzeń. Zmieniona polityka wynagrodzeń przyjmowana jest, w drodze uchwały, na kolejnym walnym zgromadzeniu.
+### 6.
 
-3. W przypadku gdy w spółce nie obowiązuje polityka wynagrodzeń, spółka może wypłacać wynagrodzenia zgodnie z dotychczasową praktyką. Zmieniona polityka wynagrodzeń przyjmowana jest, w drodze uchwały, na kolejnym walnym zgromadzeniu.
+W przypadku stwierdzenia naruszenia obowiązków wynikających z ust. 2-4, Komisja może również nałożyć na emitenta lub wprowadzającego karę pieniężną do wysokości 250 000 zł.
 
-4. Uchwała w sprawie polityki wynagrodzeń jest podejmowana nie rzadziej niż co cztery lata. Istotna zmiana polityki wynagrodzeń wymaga jej przyjęcia, w drodze uchwały, przez walne zgromadzenie.
+### 7.
 
-5. Spółka niezwłocznie zamieszcza politykę wynagrodzeń oraz uchwałę w sprawie polityki wynagrodzeń, wraz z datą jej podjęcia i wynikami głosowania, na swojej stronie internetowej. Dokumenty te pozostają dostępne co najmniej tak długo, jak długo mają one zastosowanie.
+W przypadku, o którym mowa w ust. 5 pkt 1 i 2, przepisy art. 18 ust. 2 i art. 19 stosuje się odpowiednio.
 
-**Art. 90f.** Jeżeli jest to niezbędne do realizacji długoterminowych interesów i stabilności finansowej spółki lub do zagwarantowania jej rentowności, rada nadzorcza spółki może zdecydować o czasowym odstąpieniu od stosowania polityki wynagrodzeń. Polityka wynagrodzeń określa przesłanki i tryb takiego czasowego odstąpienia oraz elementy, od których można zastosować odstępstwo.
+### Art. 54.
 
-**Art. 90g.**
+### 1.
 
-1. Rada nadzorcza spółki sporządza corocznie sprawozdanie o wynagrodzeniach przedstawiające kompleksowy przegląd wynagrodzeń, w tym wszystkich świadczeń, niezależnie od ich formy, otrzymanych przez poszczególnych członków zarządu i rady nadzorczej lub należnych poszczególnym członkom zarządu i rady nadzorczej w ostatnim roku obrotowym, zgodnie z polityką wynagrodzeń. Za informacje zawarte w sprawozdaniu o wynagrodzeniach odpowiadają członkowie rady nadzorczej spółki.
+Prospekt emisyjny może nie zawierać ceny emisyjnej lub ceny sprzedaży papierów wartościowych lub ostatecznej liczby oferowanych papierów wartościowych pod warunkiem:
 
-2. Sprawozdanie o wynagrodzeniach w odniesieniu do każdego członka zarządu i rady nadzorczej zawiera w szczególności:
+### 1)
 
-- **1)** wysokość całkowitego wynagrodzenia w podziale na składniki, o których mowa w art. 90d ust. 3 pkt 1, oraz wzajemne proporcje między tymi składnikami wynagrodzenia;
-- **2)** wyjaśnienie sposobu, w jaki całkowite wynagrodzenie jest zgodne z przyjętą polityką wynagrodzeń, w tym w jaki sposób przyczynia się do osiągnięcia długoterminowych wyników spółki;
-- **3)** informacje na temat sposobu, w jaki zostały zastosowane kryteria dotyczące wyników;
-- **4)** informację o zmianie, w ujęciu rocznym, wynagrodzenia, wyników spółki oraz średniego wynagrodzenia pracowników tej spółki niebędących członkami zarządu ani rady nadzorczej, w okresie co najmniej pięciu ostatnich lat obrotowych, w ujęciu łącznym, w sposób umożliwiający porównanie;
-- **5)** wysokość wynagrodzenia od podmiotów należących do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863);
-- **6)** liczbę przyznanych lub zaoferowanych instrumentów finansowych oraz główne warunki wykonywania praw z tych instrumentów, w tym cenę i datę wykonania oraz ich zmiany;
-- **7)** informacje na temat korzystania z możliwości żądania zwrotu zmiennych składników wynagrodzenia;
-- **8)** informacje dotyczące odstępstw od procedury wdrażania polityki wynagrodzeń oraz odstępstw zastosowanych zgodnie z art. 90f, w tym wyjaśnienie przesłanek i trybu, oraz wskazanie elementów, od których zastosowano odstępstwa.
+wskazania w prospekcie emisyjnym co najmniej ceny maksymalnej lub kryteriów i zasad ustalenia ostatecznej ceny emisyjnej lub ceny sprzedaży papierów wartościowych, lub ostatecznej liczby oferowanych papierów wartościowych, lub
 
-3. Informacje dotyczące lat obrotowych, za które rada nadzorcza nie była obowiązana do sporządzania sprawozdania o wynagrodzeniach, mogą być podane na podstawie szacunków, w przypadku gdy zostanie to wyraźnie wskazane w sprawozdaniu o wynagrodzeniach, lub pominięte.
+### 2)
 
-4. W sprawozdaniu o wynagrodzeniach nie zamieszcza się danych osobowych członków zarządu i rady nadzorczej, o których mowa w art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+wskazania w prospekcie emisyjnym, że osobie, która złożyła zapis przed przekazaniem do publicznej wiadomości informacji o cenie lub liczbie oferowanych papierów wartościowych, przysługuje uprawnienie do uchylenia się od skutków prawnych złożonego zapisu poprzez złożenie w firmie inwestycyjnej oferującej papiery wartościowe oświadczenia na piśmie, w terminie 2 dni roboczych od dnia przekazania do publicznej wiadomości tej informacji.
 
-5. W przypadku gdy w skład wynagrodzenia członków zarządu i rady nadzorczej wchodzą świadczenia pieniężne lub niepieniężne przyznane na rzecz osób najbliższych takich osób, w sprawozdaniu o wynagrodzeniach zamieszcza się informacje o wartości takich świadczeń. Za osobę najbliższą uznaje się małżonka, wstępnego, zstępnego, rodzeństwo, powinowatego w tej samej linii lub tym samym stopniu, osobę pozostającą w stosunku przysposobienia oraz jej małżonka, a także osobę pozostającą we wspólnym pożyciu. W informacjach tych nie podaje się:
+### 2.
 
-- **1)** podstawy przyznania takich świadczeń;
-- **2)** danych osobowych osób, na rzecz których je wypłacono.
+Emitent lub wprowadzający jest obowiązany do odpowiedniej zmiany terminu przydziału papierów wartościowych w celu umożliwienia inwestorowi uchylenia się od skutków prawnych, o których mowa w ust. 1 pkt 2.
 
-6. Walne zgromadzenie podejmuje uchwałę opiniującą sprawozdanie o wynagrodzeniach. Uchwała ma charakter doradczy.
+### 3.
 
-7. W spółce będącej:
+Emitent lub wprowadzający jest obowiązany do niezwłocznego przekazania informacji o ostatecznie ustalonej cenie emisyjnej lub cenie sprzedaży oraz liczbie oferowanych papierów wartościowych do Komisji oraz do publicznej wiadomości w sposób, w jaki został udostępniony prospekt emisyjny, oraz w trybie określonym w art. 56 ust. 1.
 
-- **1)** jednostką małą w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, lub
-- **2)** spółką inną niż jednostka mała w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, która w roku obrotowym, za który sporządza sprawozdanie finansowe, oraz w roku poprzedzającym ten rok obrotowy, a w przypadku spółki rozpoczynającej działalność albo prowadzenie ksiąg rachunkowych w sposób określony ustawą z dnia 29 września 1994 r. o rachunkowości – w roku obrotowym, w którym rozpoczęła działalność albo prowadzenie ksiąg rachunkowych w sposób określony tą ustawą, nie przekroczyła co najmniej dwóch z trzech następujących wielkości:
-    - **a)** 127 500 000 zł – w przypadku sumy aktywów bilansu na koniec roku obrotowego,
-    - **b)** 255 000 000 zł – w przypadku przychodów netto ze sprzedaży towarów i produktów za rok obrotowy,
-    - **c)** 250 osób – w przypadku średniorocznego zatrudnienia w przeliczeniu na pełne etaty – zamiast powzięcia uchwały, o której mowa w ust. 6, walne zgromadzenie może przeprowadzić dyskusję nad sprawozdaniem o wynagrodzeniach.
+### Art. 55.
 
-8. Sprawozdanie o wynagrodzeniach zawiera wyjaśnienie, w jaki sposób została w nim uwzględniona uchwała, o której mowa w ust. 6, lub dyskusja, o której mowa w ust. 7, odnoszące się do poprzedniego sprawozdania o wynagrodzeniach.
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-9. Spółka zamieszcza sprawozdanie o wynagrodzeniach na swojej stronie internetowej i udostępnia je bezpłatnie przez co najmniej 10 lat od zakończenia obrad walnego zgromadzenia, o którym mowa w ust. 6 lub 7. Jeżeli spółka udostępnia sprawozdanie o wynagrodzeniach po tym okresie, sprawozdanie nie zawiera danych osobowych członków zarządu i rady nadzorczej.
+### 1)
 
-10. Sprawozdanie o wynagrodzeniach poddaje się ocenie biegłego rewidenta w zakresie zamieszczenia w nim informacji wymaganych na podstawie ust. 1–5 oraz 8. Art. 90ga. Komisja może wydać zalecenia w stosunku do spółki w celu zaprzestania naruszania przez nią obowiązków określonych w niniejszym rozdziale.
+szczegółowe warunki, jakim powinno odpowiadać memorandum informacyjne, o którym mowa w art. 39 ust. 1 oraz art. 42 ust. 1. Rozporządzenie powinno określać treść i zakres informacji ujawnianych w memorandum informacyjnym tak, aby zapewnić nabywcom papierów wartościowych podstawowe dane niezbędne do oceny ryzyka związanego z inwestowaniem w te papiery wartościowe;
 
-#### Rozdział 4b Transakcje z podmiotami powiązanymi
+### 2)
 
-**Art. 90h.**
+podmioty uprawnione do ubiegania się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym, szczególne warunki, jakie są obowiązane spełniać te podmioty, szczegółowe warunki, jakim powinny odpowiadać warunki obrotu, o których mowa w art. 44 ust. 1, oraz szczególny tryb i warunki zatwierdzenia warunków obrotu, w tym kryteria, jakie muszą spełniać te instrumenty finansowe, aby mogły być przedmiotem obrotu tak, aby zapewnić nabywcom tych instrumentów finansowych podstawowe dane niezbędne do oceny ryzyka związanego z inwestowaniem w nie;
 
-1. Ilekroć w przepisach niniejszego rozdziału jest mowa o:
+### 3)
 
-- **1)** istotnej transakcji – należy przez to rozumieć transakcję zawieraną przez spółkę z podmiotem powiązanym, której wartość przekracza 5 % sumy aktywów w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, ustalonych na podstawie ostatniego zatwierdzonego sprawozdania finansowego spółki;
-- **2)** podmiocie powiązanym – należy przez to rozumieć podmiot powiązany w rozumieniu międzynarodowych standardów rachunkowości przyjętych na podstawie rozporządzenia (WE) nr 1606/2002 Parlamentu Europejskiego i Rady z dnia 19 lipca 2002 r. w sprawie stosowania międzynarodowych standardów rachunkowości (Dz. Urz. UE L 243 z 11.09.2002, str. 1, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne rozdz. 13, t. 29, str. 609);
-- **3)** spółce – należy przez to rozumieć spółkę z siedzibą na terytorium Rzeczypospolitej Polskiej, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym.
+zakres informacji wykazywanych w sprawozdaniach finansowych i skonsolidowanych sprawozdaniach finansowych wymaganych w prospekcie emisyjnym dla emitentów z siedzibą na terytorium Rzeczypospolitej Polskiej, dla których, z uwzględnieniem zasad określonych w rozporządzeniu 809/2004, właściwe są polskie zasady rachunkowości. Rozporządzenie powinno określać składniki sprawozdań finansowych i skonsolidowanych sprawozdań finansowych oraz ich zakres informacyjny tak, aby zapewnić nabywcom papierów wartościowych dane niezbędne do oceny sytuacji majątkowej, finansowej i wyniku finansowego emitenta.
 
-2. W przypadku transakcji, których przedmiotem są świadczenia powtarzające się, które mają być spełniane na podstawie umowy zawartej na czas określony, za wartość transakcji uznaje się sumę świadczeń za cały czas trwania umowy.
+### Rozdział 3 Obowiązki informacyjne emitentów
 
-3. W przypadku transakcji, których przedmiotem są świadczenia powtarzające się, które mają być spełniane na podstawie umowy zawartej na czas nieokreślony, za wartość transakcji uznaje się sumę świadczeń przewidzianych w umowie w pierwszych trzech latach jej obowiązywania.
+### Art. 56.
 
-**Art. 90i.**
+### 1.
 
-1. Spółka zamieszcza na swojej stronie internetowej informację o istotnej transakcji najpóźniej w momencie zawarcia tej transakcji.
+Emitent, którego papiery wartościowe są przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub są dopuszczone do obrotu na tym rynku, jest obowiązany do równoczesnego przekazywania Komisji i spółce prowadzącej ten rynek regulowany, a po upływie 20 minut od chwili przekazania tym podmiotom - także do publicznej wiadomości:
 
-2. Informacja, o której mowa w ust. 1, zawiera w szczególności:
+### 1)
 
-- **1)** firmę (nazwę) podmiotu powiązanego, z którym zawierana jest istotna transakcja, a w przypadku podmiotów powiązanych będących osobami fizycznymi – ich imię i nazwisko;
-- **2)** opis charakteru powiązań między spółką a podmiotem powiązanym, z którym zawierana jest istotna transakcja;
-- **3)** datę i wartość istotnej transakcji;
-- **4)** informacje niezbędne do oceny, czy istotna transakcja została zawarta na warunkach rynkowych i czy jest uzasadniona interesem spółki i akcjonariuszy niebędących podmiotami powiązanymi, w tym akcjonariuszy mniejszościowych.
+informacji poufnych, w rozumieniu art. 154 ustawy o obrocie instrumentami finansowymi, zwanych dalej „informacjami poufnymi”;
 
-3. Zawarcie istotnej transakcji wymaga zgody rady nadzorczej spółki. Przy podejmowaniu decyzji o wyrażeniu zgody na zawarcie istotnej transakcji rada nadzorcza spółki bierze pod uwagę zapobieżenie wykorzystaniu przez podmiot powiązany swojej pozycji oraz zapewnienie odpowiedniej ochrony interesów spółki i akcjonariuszy niebędących podmiotami powiązanymi, w tym akcjonariuszy mniejszościowych.
+### 2)
 
-4. W przypadku gdy istotna transakcja dotyczy interesów członka rady nadzorczej, nie bierze on udziału w podejmowaniu decyzji o wyrażeniu zgody na zawarcie tej transakcji.
+informacji bieżących i okresowych:
 
-5. Statut spółki może przewidywać, że zgodę na zawarcie istotnej transakcji może wyrażać również walne zgromadzenie. W takim przypadku, jeżeli istotna transakcja dotyczy interesów akcjonariusza, nie bierze on udziału w głosowaniu.
+### a)
 
-6. Przepisów ust. 1 i 2 nie stosuje się do informacji o istotnej transakcji, do której stosuje się art. 17 rozporządzenia 596/2014.
+zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2 - w przypadku emitentów papierów wartościowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku oficjalnych notowań giełdowych w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi, albo
 
-**Art. 90j.**
+### b)
 
-1. Przepisy art. 90i nie mają zastosowania do transakcji:
+zgodnie z postanowieniami regulaminów, o których mowa w art. 61 - w przypadku emitentów papierów wartościowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie wyłącznie do obrotu na rynku giełdowym niebędącym rynkiem oficjalnych notowań giełdowych lub obrotu na rynku pozagiełdowym.
 
-- **1)** zawieranych na warunkach rynkowych w ramach zwykłej działalności spółki;
-- **2)** zawieranych przez spółkę ze spółką będącą jej podmiotem zależnym, jeżeli spółka jest jedynym akcjonariuszem lub udziałowcem spółki będącej jej podmiotem zależnym, z którą zawiera transakcję;
-- **3)** związanych z wypłatą wynagrodzeń członkom zarządu lub rady nadzorczej, należnych zgodnie z przyjętą w spółce polityką wynagrodzeń.
+### 2.
 
-2. Rada nadzorcza opracowuje procedurę okresowej oceny, czy transakcje, o których mowa w ust. 1 pkt 1, spełniają warunki określone w tym przepisie.
+Informacje, o których mowa w ust. 1 pkt 1, emitent jest obowiązany, z zastrzeżeniem art. 57 ust. 1:
 
-**Art. 90k.** Przepisy art. 90i ust. 1 i 2 oraz art. 90j stosuje się odpowiednio do transakcji zawieranej przez podmiot powiązany spółki ze spółką będącą jej podmiotem zależnym, jeżeli wartość tej transakcji przekracza 5 % sumy aktywów w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości, ustalonych na podstawie ostatniego zatwierdzonego sprawozdania finansowego tego podmiotu zależnego. Do ustalenia wartości transakcji, których przedmiotem są świadczenia powtarzające się, przepisy art. 90h ust. 2 i 3 stosuje się.
+### 1)
 
-**Art. 90l.**
+przekazać niezwłocznie po zajściu zdarzeń lub okoliczności, które uzasadniają ich przekazanie, lub po powzięciu o nich wiadomości, nie później jednak niż w terminie 24 godzin;
 
-1. Wartości poszczególnych transakcji zawartych z tym samym podmiotem powiązanym w okresie poprzedzających 12 miesięcy, z których żadna nie przekracza wielkości, o której mowa w art. 90h ust. 1 pkt 1, sumuje się.
+### 2)
 
-2. W przypadku gdy suma wartości transakcji, o których mowa w ust. 1, przekracza wielkość, o której mowa w art. 90h ust. 1 pkt 1, przepisy art. 90h–90k stosuje się odpowiednio, z tym że:
+umieścić w sieci Internet na swojej stronie, z wyłączeniem danych osobowych osób, których te informacje dotyczą.
 
-- **1)** informacja, o której mowa w art. 90i ust. 1, dotyczy wszystkich transakcji, których suma wartości, o których mowa w ust. 1, przekracza wielkość, o której mowa w art. 90h ust. 1 pkt 1, i jest zamieszczana na stronie internetowej spółki niezwłocznie po takim przekroczeniu;
-- **2)** zgoda, o której mowa w art. 90i ust. 3, jest wymagana na zawarcie transakcji, której zawarcie doprowadzi do przekroczenia wielkości, o której mowa w art. 90h ust. 1 pkt 1.
+### 3.
 
-#### Rozdział 5 Wycofanie i wykluczenie akcji z obrotu zorganizowanego
+Emitent nie może łączyć przekazywania do publicznej wiadomości informacji, o których mowa w ust. 1 pkt 1, z przekazywaniem informacji w ramach działań marketingowych dotyczących jego działalności, w sposób mogący powodować wprowadzenie w błąd co do charakteru tych informacji.
 
-**Art. 91.**
+### 4.
 
-1. Komisja, na wniosek spółki publicznej, udziela zezwolenia na wycofanie akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu, jeżeli zostały spełnione warunki określone w ust. 3–5, 9 i 10. W decyzji udzielającej zezwolenia Komisja określa termin, nie dłuższy niż miesiąc, po upływie którego następuje wycofanie akcji z obrotu.
+W szczególnie uzasadnionych przypadkach Komisja może przedłużyć termin przekazania do publicznej wiadomości informacji okresowych, sporządzanych za okres inny niż rok obrotowy.
 
-1a. Zezwolenie Komisji, o którym mowa w ust. 1, nie jest wymagane wobec akcji wprowadzonych do obrotu na wielostronnej platformie obrotu opartej na DLT w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/858 z dnia 30 maja 2022 r. w sprawie systemu pilotażowego na potrzeby infrastruktur rynkowych opartych na technologii rozproszonego rejestru, a także zmiany rozporządzeń (UE) nr 600/2014 i (UE) nr 909/2014 oraz dyrektywy 2014/65/UE (Dz. Urz. UE L 151 z 02.06.2022, str. 1), jeżeli wycofanie z obrotu na tej platformie następuje w celu wprowadzenia do obrotu w alternatywnym systemie obrotu innym niż wielostronna platforma obrotu oparta na DLT w rozumieniu art. 2 pkt 6 tego rozporządzenia, w wyniku strategii przejścia, o której mowa w art. 7 ust. 7 tego rozporządzenia.
+### 5.
 
-2. Wycofanie akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu albo wykluczenie akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu uchyla skutki ich dopuszczenia do obrotu na tym rynku regulowanym albo wprowadzenia do alternatywnego systemu obrotu. Z chwilą wycofania lub wykluczenia akcji uważa się je za zarejestrowane w depozycie papierów wartościowych na podstawie art. 328 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, a w przypadku akcji zarejestrowanych w systemie depozytowym prowadzonym przez spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi – za zarejestrowane w tym systemie.
+Emitent jest obowiązany do przekazania w trybie określonym w ust. 1 każdej informacji, która stanowi znaczącą zmianę informacji, o której mowa w ust. 1 pkt 1. Przepisy ust. 2 oraz art. 57 ust. 1 i 2 stosuje się odpowiednio.
 
-3. Wniosek, o którym mowa w ust. 1, można złożyć, jeżeli walne zgromadzenie lub inny właściwy organ stanowiący spółki publicznej, większością 9/10 głosów oddanych w obecności akcjonariuszy reprezentujących przynajmniej połowę kapitału zakładowego, podjęły uchwałę o wycofaniu akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu. Do wniosku należy dołączyć odpis uchwały.
+### Art. 57.
 
-4. Umieszczenie w porządku obrad walnego zgromadzenia sprawy podjęcia uchwały, o której mowa w ust. 3, może być dokonane wyłącznie w trybie określonym w art. 400 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+### 1.
 
-5. Akcjonariusz lub akcjonariusze żądający umieszczenia w porządku obrad walnego zgromadzenia lub innego właściwego organu stanowiącego sprawy podjęcia uchwały, o której mowa w ust. 3, są obowiązani do uprzedniego ogłoszenia wezwania do zapisywania się na sprzedaż akcji tej spółki przez wszystkich pozostałych akcjonariuszy. Do wezwania stosuje się odpowiednio przepisy art. 77–77h i art. 79–79f. W przypadku spółki publicznej z siedzibą w państwie innym niż Rzeczpospolita Polska obowiązek ogłoszenia wezwania dotyczy akcji tej spółki, które zostały nabyte w wyniku transakcji zawartych w obrocie na rynku regulowanym lub w alternatywnym systemie obrotu na terytorium Rzeczypospolitej Polskiej i są zapisane na rachunkach papierów wartościowych prowadzonych na tym terytorium według stanu na koniec drugiego dnia od dnia ogłoszenia tego wezwania.
+W przypadku gdy wykonanie obowiązku, o którym mowa w art. 56 ust. 1, mogłoby naruszyć słuszny interes emitenta papierów wartościowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek z państw członkowskich, niezależnie od tego, czy transakcje danym papierem wartościowym są dokonywane na tym rynku, może on w zakresie odnoszącym się do informacji, o których mowa w art. 56 ust. 1 pkt 1 - na własną odpowiedzialność oraz w sposób zgodny z przepisami wydanymi na podstawie art. 60 ust. 1 - opóźnić na czas określony wykonanie tych obowiązków, przekazując Komisji informację o opóźnieniu wraz z podaniem przyczyn uzasadniających opóźnienie i wskazaniem terminu, w którym informacja będzie przekazana podmiotom, o których mowa w art. 56 ust. 1.
 
-6. W przypadku spółki publicznej, której akcje zostały wprowadzone wyłącznie do alternatywnego systemu obrotu, cena akcji proponowana w wezwaniu, o którym mowa w ust. 5, nie może być niższa od średniej ceny rynkowej z okresu 6 miesięcy poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, w czasie których dokonywany był obrót tymi akcjami w alternatywnym systemie obrotu, a jeżeli obrót akcjami spółki w alternatywnym systemie obrotu był dokonywany przez okres krótszy niż 6 miesięcy – średniej ceny rynkowej z tego krótszego okresu. Cena akcji takiej spółki publicznej nie może być jednak niższa od średniej ceny rynkowej z okresu 3 miesięcy obrotu tymi akcjami poprzedzających przekazanie zawiadomienia, o którym mowa w art. 77a ust. 1, w czasie których dokonywany był obrót tymi akcjami w alternatywnym systemie obrotu.
+### 2.
 
-7. W przypadku gdy nie jest możliwe ustalenie ceny zgodnie z ust. 6, a także w przypadku spółki, w stosunku do której otwarte zostało postępowanie restrukturyzacyjne lub ogłoszono upadłość, cena akcji nie może być niższa od ich wartości godziwej.
+Opóźnienie przekazania informacji, o którym mowa w ust. 1, może nastąpić wyłącznie pod warunkiem, że:
 
-7a. W przypadkach, o których mowa w ust. 7, wartość godziwą akcji wyznacza wybrana przez wzywającego firma audytorska.
+### 1)
 
-8. Za średnią cenę rynkową, o której mowa w ust. 6, uważa się cenę będącą średnią arytmetyczną ze średnich dziennych cen ważonych wolumenem obrotu.
+emitent zapewni zachowanie poufności tych informacji do chwili wykonania obowiązku oraz
 
-9. Akcjonariusz lub akcjonariusze żądający umieszczenia w porządku obrad walnego zgromadzenia lub innego właściwego organu stanowiącego spółki sprawy podjęcia uchwały, o której mowa w ust. 3, mogą nabywać akcje tej spółki w okresie między zgłoszeniem żądania a zakończeniem wezwania, o którym mowa w ust. 5, jedynie w drodze tego wezwania.
+### 2)
 
-10. Obowiązek ogłoszenia wezwania, o którym mowa w ust. 5, nie powstaje w przypadku, gdy z wnioskiem o umieszczenie w porządku obrad walnego zgromadzenia lub innego właściwego organu stanowiącego sprawy podjęcia uchwały, o której mowa w ust. 3, występują wszyscy akcjonariusze spółki.
+nie spowoduje to wprowadzenia w błąd opinii publicznej.
 
-11. Skutek określony w ust. 2 oraz wycofanie akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu następują z mocy prawa bez spełnienia warunków, o których mowa w ust. 3–5, po upływie 6 miesięcy od dnia uprawomocnienia się postanowienia o ogłoszeniu upadłości spółki publicznej lub postanowienia o oddaleniu wniosku o ogłoszenie jej upadłości ze względu na to, że majątek spółki nie wystarcza lub wystarcza jedynie na zaspokojenie kosztów postępowania. Krajowy Depozyt lub spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi, mogą rozwiązać umowę o rejestrację akcji w drodze jednostronnego oświadczenia woli złożonego spółce.
+### 3.
 
-12. Wycofanie lub wykluczenie akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu następuje w terminie wskazanym decyzją Komisji o takim wycofaniu lub wykluczeniu.
+W przypadku opóźnienia, o którym mowa w ust. 1, emitent jest obowiązany przekazać informacje w terminie wskazanym Komisji, zgodnie z tym przepisem.
 
-13. Spółka prowadząca rynek regulowany lub alternatywny system obrotu niezwłocznie informuje Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi, o wycofaniu lub wykluczeniu akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu. [14. W przypadku wycofania lub wykluczenia akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu albo podjęcia przez walne zgromadzenie spółki niebędącej spółką publiczną uchwały o rejestracji akcji w rejestrze akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, spółka może rozwiązać umowę o rejestrację akcji w depozycie papierów wartościowych zawartą z Krajowym Depozytem lub spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi. Rozwiązanie umowy następuje z upływem 14 dni od dnia złożenia przez spółkę oświadczenia o jej rozwiązaniu. Z dniem rozwiązania umowy następuje wyrejestrowanie akcji z depozytu papierów wartościowych.] <14. W przypadku wycofania lub wykluczenia akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu albo podjęcia przez walne zgromadzenie spółki niebędącej spółką publiczną uchwały o rejestracji akcji w rejestrze akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. ‒ Kodeks spółek handlowych, a także po zakończeniu likwidacji spółki, spółka może rozwiązać umowę o rejestrację akcji w depozycie papierów wartościowych zawartą z Krajowym Depozytem lub spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1‒6 ustawy o obrocie instrumentami finansowymi. Rozwiązanie umowy następuje z upływem 14 dni od dnia złożenia przez spółkę oświadczenia o jej rozwiązaniu. Z dniem rozwiązania umowy następuje wyrejestrowanie akcji z depozytu papierów wartościowych.> [15. W przypadku wycofania lub wykluczenia akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu albo podjęcia przez walne zgromadzenie spółki niebędącej spółką publiczną uchwały o rejestracji akcji w rejestrze akcjonariuszy, o którym mowa w art. 328 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, uczestnicy Krajowego Depozytu lub spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi, przekazują spółce, w terminie wskazanym przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi, dane osobowe akcjonariuszy, ze wskazaniem liczby akcji posiadanych przez każdego z nich, a także obciążeń ustanowionych na tych akcjach oraz danych osobowych osób, na których rzecz obciążenia te ustanowiono. Informacje te są sporządzane według stanu na dzień wyrejestrowania akcji z depozytu papierów wartościowych, na podstawie zapisów dokonanych na prowadzonych przez uczestników rachunkach papierów wartościowych i rachunkach zbiorczych oraz na podstawie wskazań dokonanych przez posiadaczy rachunków zbiorczych zgodnie z art. 8a ust. 4 ustawy o obrocie instrumentami finansowymi.] <15. W razie rozwiązania umowy o rejestrację akcji w depozycie papierów wartościowych uczestnicy Krajowego Depozytu lub spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1‒6 ustawy o obrocie instrumentami finansowymi, przekazują spółce, a w przypadku spółki w upadłości ‒ jej syndykowi, w terminie wskazanym przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1‒6 ustawy o obrocie instrumentami finansowymi, dane osobowe akcjonariuszy, ze wskazaniem liczby akcji posiadanych przez każdego z nich oraz odrębnych oznaczeń tych akcji, o których mowa w art. 55 ustawy o obrocie instrumentami finansowymi, a także obciążeń ustanowionych na tych akcjach oraz danych osobowych osób, na których rzecz obciążenia te ustanowiono. Informacje te są sporządzane według stanu na dzień wyrejestrowania akcji z depozytu papierów wartościowych, na podstawie zapisów dokonanych na prowadzonych przez uczestników rachunkach papierów wartościowych i rachunkach zbiorczych oraz na podstawie wskazań dokonanych przez posiadaczy rachunków zbiorczych zgodnie z art. 8a ust. 4 ustawy o obrocie instrumentami finansowymi.> [16. W zakresie, w jakim akcje wycofane lub wykluczone z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu są zapisane na rachunku papierów wartościowych lub rachunku zbiorczym prowadzonym przez Krajowy Depozyt, informacje, o których mowa w ust. 15, są przekazywane spółce przez Krajowy Depozyt.] <16. W zakresie, w jakim akcje są zapisane na rachunku papierów wartościowych lub rachunku zbiorczym prowadzonym przez Krajowy Depozyt, informacje, o których mowa w ust. 15, są przekazywane spółce przez Krajowy Depozyt.>
+### Art. 58.
 
-17. W przypadku gdy akcje spółki są zarejestrowane w systemie depozytowym prowadzonym przez spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 1 pkt 1–6 ustawy o obrocie instrumentami finansowymi, przepisy:
+### 1.
 
-- **1)** ust. 15 stosuje się odpowiednio do tej spółki i jej uczestników;
-- **2)** ust. 16 stosuje się odpowiednio do tej spółki.
+Emitent ma obowiązek przekazywania do publicznej wiadomości informacji, o których mowa w art. 56 ust. 1, za pośrednictwem jednej lub więcej osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, wskazanej w drodze uchwały przez Komisję, zwanej dalej „agencją informacyjną”.
 
-18. Przepisu ust. 1 nie stosuje się w przypadku, gdy spółka wycofuje akcje z obrotu w alternatywnym systemie obrotu, pod warunkiem dopuszczenia ich do obrotu na rynku regulowanym.
+### 2.
 
-19. Przepisu ust. 1 nie stosuje się w przypadku, gdy akcje zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu na wniosek podmiotu innego niż emitent.
+Agencja informacyjna zapewnia powszechny dostęp do informacji, o których mowa w art. 56 ust. 1, niezwłocznie po ich otrzymaniu od emitenta.
 
-**Art. 92.**
+### Art. 59.
 
-1. Wycofania akcji z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu w trybie i na warunkach określonych w art. 91 wymaga:
+### 1.
 
-- **1)** przekształcenie spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej w inną spółkę niż spółka akcyjna;
-- **2)** połączenie spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej z inną spółką lub podział takiej spółki, chyba że akcje spółki lub spółek nowo zawiązanych lub przejmujących są dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu albo organ podmiotu prowadzącego dany system obrotu instrumentami finansowymi podjął decyzję o ich dopuszczeniu lub wprowadzeniu do takiego obrotu pod warunkiem dojścia do skutku odpowiednio połączenia lub podziału.
+Emitent kwitów depozytowych jest obowiązany do przekazywania informacji dotyczących własnej sytuacji gospodarczej lub finansowej, o ile mogłyby one w istotny sposób wpłynąć na możliwość wywiązania się przez niego z obowiązków wynikających z wystawienia kwitów depozytowych.
 
-2. W przypadku gdy podział spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej jest dokonywany w drodze podziału przez wyodrębnienie, o którym mowa w art. 529 § 1 pkt 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przepisu ust. 1 pkt 2 nie stosuje się.
+### 2.
 
-#### Rozdział 6 Opłaty
+Emitent kwitów depozytowych jest obowiązany do przekazywania w trybie i w zakresie określonym w art. 56 informacji bieżących i okresowych przekazywanych przez emitenta papierów wartościowych będących podstawą wystawienia kwitów depozytowych na rynku regulowanym, na którym te papiery wartościowe są przedmiotem obrotu, oraz, w zakresie wskazanym w rozporządzeniu, o którym mowa w art. 60 ust. 2, tłumaczenia tych informacji na język polski.
 
-**Art. 93.** Udzielenie zezwolenia lub zgody przewidzianych w ustawie, a także uzyskanie przez dany podmiot statusu agencji informacyjnej w związku z wydaniem decyzji, o której mowa w art. 58 ust. 1, podlegają opłacie w wysokości nie większej niż równowartość w złotych 4500 euro.
+### Art. 60.
 
-**Art. 93a.** Zatwierdzenie prospektu podlega opłacie w wysokości równowartości w złotych 6000 euro.
+### 1.
 
-**Art. 93b.** Zatwierdzenie memorandum informacyjnego podlega opłacie w wysokości równowartości w złotych 3000 euro.
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, rodzaje informacji, które mogą naruszyć słuszny interes emitenta, oraz sposób postępowania emitenta w związku z opóźnianiem przekazania do publicznej wiadomości informacji poufnych, przy uwzględnieniu konieczności zapewnienia poufności i kontroli dostępu do tych informacji do chwili ich przekazania.
 
-**Art. 94.** (uchylony)
+### 2.
 
-**Art. 94a.**
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, rodzaj, zakres i formę informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku oficjalnych notowań giełdowych w rozumieniu przepisów ustawy o obrocie instrumentami finansowymi oraz terminy i częstotliwość ich przekazywania, przy uwzględnieniu rodzaju rynku, na którym papiery wartościowe są lub będą notowane, regulacji w zakresie rachunkowości, na podstawie których mają być ujawniane dane finansowe, oraz zakresu ujawnianych danych finansowych, w sposób umożliwiający inwestorom właściwą ocenę sytuacji gospodarczej, majątkowej i finansowej emitenta.
 
-1. Spółka publiczna, której akcje dopuszczone są do obrotu na rynku regulowanym, w przypadku gdy Rzeczpospolita Polska jest dla tej spółki macierzystym państwem członkowskim w rozumieniu art. 2 lit. m rozporządzenia 2017/1129, jest obowiązana do wnoszenia rocznej opłaty ustalanej na podstawie kapitału własnego wykazanego w ostatnim rocznym sprawozdaniu finansowym tej spółki opublikowanym lub przekazanym do publicznej wiadomości na podstawie przepisów niniejszej ustawy, w wysokości nie większej niż 0,01 % tego kapitału, jednak nie mniej niż równowartość w złotych 1500 euro.
+### Art. 61.
 
-2. W przypadku gdy ostatnie sprawozdanie finansowe nie zostało opublikowane lub przekazane do publicznej wiadomości na podstawie przepisów niniejszej ustawy, wartość kapitału własnego ustala się na podstawie ostatniego sprawozdania finansowego sporządzonego zgodnie z obowiązującymi spółkę przepisami o rachunkowości.
+Rodzaj i formę oraz wskazanie regulacji i odpowiednio zakres informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie wyłącznie do obrotu na rynku giełdowym niebędącym rynkiem oficjalnych notowań giełdowych lub na rynku pozagiełdowym, oraz terminy ich przekazywania, określają regulaminy tych rynków. Regulaminy powinny określać zakres informacji oraz częstotliwość ich przekazywania tak, aby umożliwić inwestorom ocenę sytuacji gospodarczej, majątkowej i finansowej emitenta oraz ocenę ryzyka inwestycyjnego związanego z inwestowaniem w papiery wartościowe.
 
-3. W przypadku gdy spółka, o której mowa w ust. 1, sporządza roczne skonsolidowane sprawozdanie finansowe, wartość kapitału własnego, o którym mowa w ust. 1 i 2, ustala się na podstawie ostatniego rocznego skonsolidowanego sprawozdania finansowego sporządzonego zgodnie z obowiązującymi spółkę przepisami o rachunkowości.
+### Art. 62.
 
-4. Spółka publiczna, której akcje są wprowadzone do alternatywnego systemu obrotu, w przypadku gdy Rzeczpospolita Polska jest siedzibą tej spółki, obowiązana jest do wnoszenia rocznej opłaty w wysokości równowartości w złotych 1500 euro.
+### 1.
 
-**Art. 94b.**
+W przypadku gdy przekazanie do publicznej wiadomości informacji niestanowiącej informacji poufnej, zawartej w informacjach:
 
-1. Emitent papierów wartościowych, innych niż akcje, dopuszczonych do obrotu na rynku regulowanym, dla którego Rzeczpospolita Polska jest macierzystym państwem członkowskim w rozumieniu art. 2 lit. m rozporządzenia 2017/1129, obowiązany jest do wnoszenia rocznej opłaty w wysokości równowartości w złotych 750 euro.
+### 1)
 
-2. Opłaty, o której mowa w ust. 1, nie pobiera się od Skarbu Państwa i Narodowego Banku Polskiego.
+okresowych, sporządzanych za inny okres niż rok obrotowy,
 
-**Art. 94c.** Od agencji informacyjnej pobiera się opłatę roczną z tytułu korzystania ze środków technicznych, o których mowa w art. 55 ust. 1 pkt 1 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146), w kwocie nie wyższej niż równowartość w złotych 20 000 euro.
+### 2)
 
-**Art. 95.** Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w art. 93–94c, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym.
+innych niż określone w pkt 1, dotyczących osób fizycznych wchodzących w skład organów zarządzających lub nadzorujących emitenta
 
-#### Rozdział 7 Sankcje administracyjne za naruszenie przepisów
+- - mogłoby być sprzeczne z interesem publicznym lub spowodować istotną szkodę dla interesów emitenta, informację tę emitent może przekazać wyłącznie Komisji wraz z wnioskiem o zwolnienie z obowiązku przekazania jej innym podmiotom wymienionym w art. 56 ust. 1 oraz do publicznej wiadomości
 
-**Art. 96.**
+- - pod warunkiem, że brak tej informacji nie uniemożliwi inwestorom prawidłowej oceny rzeczywistej sytuacji gospodarczej, majątkowej i finansowej emitenta lub ryzyka związanego z inwestowaniem w papiery wartościowe emitenta.
 
-1. W przypadku gdy emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym:
+### 2.
 
-- **1)** nie wykonuje obowiązków, o których mowa w art. 15a ust. 3, art. 20, art. 54 ust. 2, art. 55d ust. 1, art. 56–56c w zakresie dotyczącym informacji bieżących, art. 58 ust. 1–1b, art. 59 w zakresie dotyczącym informacji bieżących, art. 62 ust. 6 i 8 i art. 70 pkt 3, albo wykonuje je nienależycie, 1a) nie zawiadamia Komisji w terminie, o którym mowa w art. 37a ust. 4 lub art. 37b ust. 3a,
-- **2)** nie wykonuje obowiązków wynikających z art. 37a ust. 2 lub 3, art. 37b ust. 2 zdanie pierwsze lub zdanie drugie w zakresie art. 19 ust. 1–3 rozporządzenia 2017/1129 lub art. 37b ust. 3–5 i 7–9, art. 38 ust. 1 w związku z art. 37b ust. 2–5 lub 7–9, art. 38 ust. 2 zdanie pierwsze w związku z art. 37b ust. 2, 3 lub 9, art. 38 ust. 2 zdanie drugie, art. 38a zdanie pierwsze lub zdanie drugie w związku z art. 37b ust. 3–5, art. 38b ust. 3 w związku z art. 37b ust. 2–5 lub 7–9, art. 39 ust. 1 w związku z art. 37b ust. 2–5, art. 40 ust. 2 lub 3 lub ust. 4 w związku z art. 37b ust. 9 lub art. 19 ust. 1–3 rozporządzenia 2017/1129, lub art. 40 ust. 5 zdanie trzecie w związku z art. 37b ust. 7 lub 8, albo wykonuje je nienależycie,
-- **3)** nie wykonuje w terminie obowiązku udostępnienia suplementu do memorandum informacyjnego lub suplementu do dokumentów, o których mowa w art. 38 ust. 1 lub 2 lub art. 39 ust. 1,
-- **4)** nie przekazuje w terminie Komisji suplementu, o którym mowa w art. 38b ust. 3 – Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym, a w przypadku gdy papiery wartościowe emitenta są wprowadzone do obrotu w alternatywnym systemie obrotu – decyzję o wykluczeniu tych papierów wartościowych z obrotu w tym systemie, albo nałożyć, biorąc pod uwagę w szczególności sytuację finansową podmiotu, na który jest nakładana kara, karę pieniężną do wysokości 1 000 000 zł, albo zastosować obie sankcje łącznie.
+W przypadku nieuwzględnienia wniosku Przewodniczący Komisji, w drodze decyzji, nakazuje emitentowi przekazanie tych informacji. W takim przypadku emitent przekazuje informacje do publicznej wiadomości niezwłocznie, nie później niż w terminie 24 godzin od doręczenia decyzji.
 
-1a. W przypadku gdy uczestnik oferty kaskadowej, o którym mowa w art. 15a ust. 1, dokonuje sprzedaży objętych lub nabytych papierów wartościowych, w swoim imieniu i na swój rachunek, w drodze oferty publicznej, na podstawie prospektu emitenta, bez pisemnej zgody tego emitenta, Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym albo nałożyć karę pieniężną do wysokości 1 000 000 zł, albo zastosować obie sankcje łącznie.
+### 3.
 
-1b. W przypadku gdy:
+Od decyzji, o której mowa w ust. 2, emitent może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia jej doręczenia. W tym zakresie nie stosuje się art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271, Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524.](#gloss-0:6:)).
 
-- **1)** emitent, oferujący lub inne podmioty uczestniczące w ofercie publicznej, subskrypcji lub sprzedaży w imieniu lub na zlecenie emitenta lub oferującego nie wykonują nakazu, o którym mowa w art. 16 ust. 1 pkt 1, albo wykonują go nienależycie, albo naruszają zakaz, o którym mowa w art. 16 ust. 1 pkt 2,
-- **2)** emitent, podmiot, o którym mowa w art. 11a ust. 2, lub podmioty występujące w ich imieniu lub na ich zlecenie nie wykonują nakazu, o którym mowa w art. 17 ust. 1 pkt 1, albo wykonują go nienależycie, albo naruszają zakaz, o którym mowa w art. 17 ust. 1 pkt 2,
-- **3)** emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub inne osoby i podmioty, za pośrednictwem których prowadzą oni reklamę, nie wykonują nakazu, o którym mowa w art. 15b ust. 1 pkt 1, albo wykonują go nienależycie, albo naruszają zakaz, o którym mowa w art. 15b ust. 1 pkt 2,
-- **4)** spółka prowadząca system obrotu instrumentami finansowymi nie wykonuje żądania, o którym mowa w art. 17a ust. 1 lub art. 17b ust. 1 – Komisja może nałożyć karę pieniężną do wysokości 5 000 000 zł. 1ba. W przypadku gdy:
-- **1)** dostawca usług finansowania społecznościowego nie wykonuje obowiązków wynikających z art. 37c ust. 2 albo wykonuje je nienależycie,
-- **2)** właściciel projektu, o którym mowa w art. 2 ust. 1 lit. h rozporządzenia 2020/1503, sporządza arkusz kluczowych informacji inwestycyjnych niezgodnie z załącznikiem I do rozporządzenia 2020/1503,
-- **3)** właściciel projektu, o którym mowa w art. 2 ust. 1 lit. h rozporządzenia 2020/1503, sporządza arkusz kluczowych informacji inwestycyjnych w języku innym niż język polski lub język wskazany w decyzji wydanej na podstawie art. 17 ust. 1 ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom – Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
+### 4.
 
-1c. W przypadku gdy emitent lub oferujący prowadzi reklamę oferty publicznej z naruszeniem art. 53 ust. 4 lub 5, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
+W przypadku gdy szczegółowe wymogi odnoszące się do treści informacji okresowych, o których mowa w art. 56 ust. 1 pkt 2, nie odpowiadają specyfice działalności emitenta, Komisja może zezwolić na odstąpienie od tych wymogów i odpowiednie ich dostosowanie. Decyzja Komisji określa zakres możliwych odstępstw i wskazuje na sposób prezentacji danych, których dotyczą wymogi, po przedstawieniu ich propozycji wraz z uzasadnieniem przez emitenta.
 
-1d. W przypadku rażącego naruszenia przepisów, o których mowa w ust. 1b lub 1c, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł na osobę działającą w imieniu lub na zlecenie emitenta lub oferującego przy dokonywaniu czynności związanych z ofertą publiczną lub reklamą oferty publicznej, w szczególności na członka zarządu, komplementariusza w spółce komandytowo-akcyjnej lub komandytowej lub wspólnika w spółce jawnej lub partnerskiej.
+### 5.
 
-1e. Jeżeli emitent nie wykonuje albo nienależycie wykonuje obowiązki, o których mowa w art. 56–56c w zakresie informacji okresowych, art. 59 w zakresie informacji okresowych lub art. 63, Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym albo nałożyć karę pieniężną do wysokości 5 000 000 zł albo kwoty stanowiącej równowartość 5 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 5 000 000 zł, albo zastosować obie sankcje łącznie. Jeżeli emitent nie wykonuje albo nienależycie wykonuje obowiązki, o których mowa w art. 70 pkt 1, Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym, a w przypadku gdy papiery wartościowe emitenta są wprowadzone do obrotu w alternatywnym systemie obrotu – decyzję o wykluczeniu tych papierów wartościowych z obrotu w tym systemie, albo nałożyć karę pieniężną do wysokości 5 000 000 zł albo kwoty stanowiącej równowartość 5 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 5 000 000 zł, albo zastosować obie sankcje łącznie.
+Emitent jest obowiązany przekazać kopię informacji okresowych jednocześnie do Komisji i właściwych organów nadzoru wszystkich państw członkowskich, w których jego papiery wartościowe są dopuszczone do oficjalnych notowań, nie później niż w chwili, gdy informacja ta jest po raz pierwszy udostępniana do publicznej wiadomości na terytorium państwa członkowskiego.
 
-1f. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez emitenta w wyniku naruszenia obowiązków, o których mowa w ust. 1e, zamiast kary, o której mowa w ust. 1e, Komisja może nałożyć karę pieniężną do wysokości dwukrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+### 6.
 
-1g. W przypadku gdy emitent jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1e, 1i oraz 1j, stanowi kwota całkowitego skonsolidowanego rocznego przychodu tego emitenta lub uczestnika rynku uprawnień do emisji ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy. 1ga. Przepis ust. 1g stosuje się do uczestnika rynku uprawnień do emisji.
+Jeżeli emitent z siedzibą w państwie niebędącym państwem członkowskim przekazuje do publicznej wiadomości informacje okresowe, sporządzane za okres inny niż rok obrotowy, w państwie niebędącym państwem członkowskim, emitent za zezwoleniem Komisji może przekazywać do publicznej wiadomości te informacje zamiast informacji okresowych, o których mowa w art. 56 ust. 1 pkt 2, sporządzonych za inny okres niż rok obrotowy, pod warunkiem że podawane w nich informacje odpowiadają informacjom okresowym, o których mowa w art. 56 ust. 1 pkt 2, sporządzanym za ten okres.
 
-1h. Przy wymierzaniu kary za naruszenia, o których mowa w ust. 1–1e oraz ust. 1i–1l, Komisja bierze w szczególności pod uwagę:
+### 7.
 
-- **1)** wagę naruszenia oraz czas jego trwania;
-- **2)** przyczyny naruszenia;
-- **3)** sytuację finansową podmiotu, na który nakładana jest kara;
-- **4)** skalę korzyści uzyskanych lub strat unikniętych przez podmiot, który dopuścił się naruszenia, lub podmiot, w którego imieniu lub interesie działał podmiot, który dopuścił się naruszenia, o ile można tę skalę ustalić;
-- **5)** straty poniesione przez osoby trzecie w związku z naruszeniem, o ile można te straty ustalić;
-- **6)** gotowość podmiotu dopuszczającego się naruszenia do współpracy z Komisją podczas wyjaśniania okoliczności tego naruszenia;
-- **7)** uprzednie naruszenia przepisów niniejszej ustawy, a także bezpośrednio stosowanych aktów prawa Unii Europejskiej, regulujących funkcjonowanie rynku kapitałowego, popełnione przez podmiot, na który jest nakładana kara.
+W przypadku gdy emitent sporządza zarówno jednostkowe, jak i skonsolidowane informacje okresowe, Komisja może zezwolić na przekazanie do publicznej wiadomości jedynie informacji jednostkowej albo skonsolidowanej, pod warunkiem że informacja, która nie będzie przekazywana do publicznej wiadomości, nie zawiera żadnych istotnych informacji dodatkowych.
 
-1i. Jeżeli emitent nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 17 ust. 1 i 4–8 rozporządzenia 596/2014, Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym, a w przypadku gdy papiery wartościowe emitenta są wprowadzone do obrotu w alternatywnym systemie obrotu – decyzję o wykluczeniu tych papierów wartościowych z obrotu w tym systemie, albo nałożyć karę pieniężną do wysokości 10 364 000 zł lub kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 10 364 000 zł, albo zastosować obie sankcje łącznie.
+### Art. 63.
 
-1j. Jeżeli uczestnik rynku uprawnień do emisji nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa w art. 17 ust. 2, 4, 7 lub 8 rozporządzenia 596/2014, Komisja może nałożyć karę pieniężną do wysokości 10 364 000 zł lub kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 10 364 000 zł.
+### 1.
 
-1k. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez emitenta w wyniku naruszenia obowiązków, o których mowa w ust. 1i lub ust. 1j, zamiast kary, o której mowa w tych przepisach, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+W przypadku gdy emitent papierów wartościowych ma obowiązek udostępniać informacje okresowe za okres inny niż rok obrotowy, do publicznej wiadomości na terytorium Rzeczypospolitej Polskiej oraz w co najmniej jednym innym państwie członkowskim, Komisja niezwłocznie zwraca się do właściwych organów nadzoru tego państwa członkowskiego o uzgodnienie, że udostępnieniu na terytorium Rzeczypospolitej Polskiej oraz w tym państwie będzie podlegać treść informacji okresowych w zakresie wymaganym przepisami prawa obowiązującymi:
 
-1l. Przepis ust. 1k stosuje się do uczestnika rynku uprawnień do emisji.
+### 1)
 
-1m. Jeżeli uczestnik rynku uprawnień do emisji nie wykonuje albo nienależycie wykonuje obowiązki, o których mowa w art. 58 ust. 1a, Komisja może nałożyć karę pieniężną do wysokości 4 145 600 zł.
+w tym państwie, w którym akcje tego emitenta zostały jako pierwsze dopuszczone do oficjalnych notowań, albo
 
-2. W przypadku naruszenia przez emitenta obowiązków, o których mowa w art. 56 ust. 1 pkt 2 lit. b, Komisja przed wydaniem decyzji, o której mowa w ust. 1e lub 1f, zasięga opinii spółki prowadzącej rynek regulowany, na którym notowane są papiery wartościowe emitenta.
+### 2)
 
-3. W przypadku wydania decyzji stwierdzającej naruszenie obowiązków, o których mowa w ust. 1 lub 1e, Komisja może dodatkowo zobowiązać emitenta do niezwłocznego opublikowania wymaganych informacji w dwóch dziennikach ogólnopolskich lub przekazania ich do publicznej wiadomości w inny sposób lub dokonania zmiany informacji w zakresie i terminie określonych w decyzji.
+w państwie siedziby emitenta - jeżeli dopuszczenie jego papierów wartościowych do oficjalnych notowań nastąpiło jednocześnie na dwu lub więcej giełdach usytuowanych lub działających na terytorium Rzeczypospolitej Polskiej lub na terytorium co najmniej jednego innego państwa członkowskiego.
 
-4. Umowy przeniesienia papierów wartościowych zawarte przed wydaniem decyzji, o których mowa w ust. 1 pkt 1, ust. 1e i 1f, są ważne.
+### 2.
 
-5. W decyzji o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu Komisja określa termin, nie krótszy niż 14 dni, po upływie którego skutek ten następuje.
+Przedmiotem uzgodnienia może być również udostępnienie informacji okresowych o treści najbardziej zbliżonej do treści, o której mowa w ust. 1 pkt 1.
 
-6. W przypadku naruszenia obowiązków, o których mowa w:
+### 3.
 
-- **1)** ust. 1 – Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka zarządu emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 100 000 zł;
-- **2)** ust. 1e – Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka zarządu emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 1 000 000 zł;
-- **3)** ust. 1i, 1j lub 1m – Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka zarządu emitenta, uczestnika rynku uprawnień do emisji, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 4 145 600 zł, przy czym przy wymierzaniu tej kary stosuje się ust. 1h.
+W przypadku ustalenia, przy zastosowaniu zasad określonych w ust. 1 lub 2, że udostępnieniu w każdym z państw powinna podlegać treść informacji okresowych w zakresie wymaganym przepisami prawa polskiego, Komisja - zwracając się o uzgodnienie zakresu treści informacji okresowych - informuje o tym ustaleniu właściwe organy nadzoru państw członkowskich.
 
-6a. W przypadku rażącego naruszenia obowiązków, o których mowa w:
+### 4.
 
-- **1)** ust. 1 – Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka rady nadzorczej lub członka innego organu nadzorującego emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 50 000 zł;
-- **2)** ust. 1e, 1i, 1j lub 1m – Komisja może nałożyć na osobę, która w tym okresie pełniła funkcję członka rady nadzorczej lub członka innego organu nadzorującego emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 100 000 zł.
+Komisja niezwłocznie zawiadamia emitenta o uzgodnionym zakresie treści informacji okresowych.
 
-7. Kara, o której mowa w ust. 6, nie może być nałożona, jeżeli od wydania decyzji, o których mowa w ust. 1, 1e lub 1f, upłynęło więcej niż 12 miesięcy.
+### 5.
 
-7a. W przypadku rażącego naruszenia obowiązków, o których mowa w ust. 1, 1e lub 1i, przez podmiot, o którym mowa w tych przepisach, Komisja może nałożyć karę, o której mowa w ust. 6, na osobę, która w tym okresie pełniła funkcję członka zarządu tego podmiotu. Przepisu ust. 7 nie stosuje się.
+Emitent, po otrzymaniu zawiadomienia, o którym mowa w ust. 4, przekazuje w trybie określonym w art. 56 ust. 1 - zamiast informacji okresowych sporządzonych zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2 - informacje sporządzone zgodnie z przepisami państwa określonego w zawiadomieniu.
 
-8. W przypadku emitenta będącego funduszem inwestycyjnym zamkniętym kara pieniężna nakładana jest na towarzystwo funduszy inwestycyjnych będące organem tego funduszu.
+### 6.
 
-8a. W przypadku emitenta będącego alternatywną spółką inwestycyjną zarządzaną przez zewnętrznie zarządzającego ASI albo zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych kara pieniężna nakładana jest odpowiednio na zewnętrznie zarządzającego ASI albo zarządzającego z UE.
+W przypadku nieotrzymania zawiadomienia, o którym mowa w ust. 4, nie później niż na 30 dni przed dniem zakończenia okresu, za który informacje mają być sporządzone, emitent przekazuje, w trybie określonym w art. 56 ust. 1, informacje zgodnie z przepisami wydanymi na podstawie art. 60 ust. 2.
 
-9. (uchylony)
+### 7.
 
-10. Komisja może, w drodze uchwały, przekazać do publicznej wiadomości treść decyzji stwierdzającej niewywiązywanie się emitenta z obowiązków, o których mowa w ust. 1, lub decyzji, o których mowa w ust. 13 i 14.
+W przypadku:
 
-10a. Komisja przekazuje do publicznej wiadomości:
+### 1)
 
-- **1)** informację o treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, imię i nazwisko osoby fizycznej lub firmę (nazwę) innego podmiotu, na który nałożona została sankcja, o której mowa w ust. 1e, 1f, 6 lub 6a;
-- **2)** w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy – informację o jego złożeniu, o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy;
-- **3)** informację o treści rozstrzygnięcia ostatecznej decyzji.
+emitenta z siedzibą w państwie innym niż państwo członkowskie - stosuje się odpowiednio przepisy ust. 1 pkt 2 oraz ust. 3-6;
 
-10b. Komisja może, w drodze uchwały, opóźnić przekazanie do publicznej wiadomości informacji o decyzji, o której mowa w ust. 10a, lub przekazać taką informację bez wskazywania osoby fizycznej lub innego podmiotu, na który została nałożona sankcja, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości:
+### 2)
 
-- **1)** w przypadku danych osobowych – jest nieproporcjonalne do wagi stwierdzonego naruszenia;
-- **2)** stanowiłoby poważne zagrożenie dla stabilności systemu finansowego lub będącego w toku postępowania administracyjnego, wyjaśniającego lub karnego;
-- **3)** wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego.
+uzgodnienia, o którym mowa w ust. 1, podjętego z inicjatywy właściwego organu nadzoru w państwie członkowskim innym niż Rzeczpospolita Polska - stosuje się odpowiednio ust. 3-6.
 
-10c. Informacje, o których mowa w ust. 10a, są dostępne na stronie internetowej Komisji przez 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, dostępne są na tej stronie przez rok.
+### Art. 64.
 
-11. (uchylony)
+W przypadku gdy papiery wartościowe dopuszczone do obrotu na rynku oficjalnych notowań giełdowych są również dopuszczone do oficjalnych notowań:
 
-12. (uchylony)
+### 1)
 
-13. W przypadku gdy emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym nie wykonuje obowiązków, o których mowa w art. 10 ust. 4, albo wykonuje je nienależycie, Komisja może nałożyć karę pieniężną do wysokości 100 000 zł. Przepisy ust. 6, 7 i 8 stosuje się odpowiednio, z tym że kara pieniężna, o której mowa w ust. 6 pkt 2, może być nałożona do wysokości 100 000 zł.
+w co najmniej jednym państwie członkowskim niebędącym Rzecząpospolitą Polską - emitent papierów wartościowych przekazuje do publicznej wiadomości informacje bieżące i okresowe wymagane na rynku oficjalnych notowań giełdowych, w zakresie nie mniejszym niż informacje tego rodzaju przekazywane w każdym z państw członkowskich, albo
 
-13a. (uchylony)
+### 2)
 
-14. W przypadku gdy podmiot ubiegający się o dopuszczenie do obrotu na rynku regulowanym instrumentów finansowych niebędących papierami wartościowymi nie wykonuje obowiązków, o których mowa w art. 55d ust. 2, Komisja może:
+w co najmniej jednym państwie członkowskim i w innych państwach
 
-- **1)** wydać decyzję o wykluczeniu instrumentów finansowych z obrotu na rynku regulowanym albo
-- **2)** nałożyć karę pieniężną do wysokości 1 000 000 zł, albo
-- **3)** zastosować obie sankcje łącznie.
+- emitent papierów wartościowych przekazuje do publicznej wiadomości informacje bieżące i okresowe wymagane na rynku oficjalnych notowań giełdowych i w państwach członkowskich, w zakresie nie mniejszym niż informacje tego rodzaju przekazywane w każdym z tych innych państw, o ile informacje te mogą mieć znaczenie dla oceny ryzyka związanego z nabywaniem tych papierów.
 
-15. W przypadkach, o których mowa w ust. 14, przepisy ust. 4–6 i 7 stosuje się odpowiednio, z tym że kara pieniężna, o której mowa w ust. 6 pkt 2, może być nałożona do wysokości 100 000 zł.
+### Art. 65.
 
-16. Przy wymierzaniu kar, o których mowa w ust. 6, 6a, 13 i 14, stosuje się ust. 1h.
+### 1.
 
-17. W przypadku stwierdzenia naruszenia obowiązków wymienionych w ust. 1i, 1j lub 1m, Komisja może nakazać podmiotowi, który dopuścił się ich naruszenia, zaprzestania ich naruszania, a także zobowiązać go do podjęcia we wskazanym terminie działań, które mają zapobiec naruszaniu tych przepisów w przyszłości. Środek ten może być stosowany bez względu na zastosowanie innych sankcji określonych w ust. 1i–1m.
+Emitenci papierów wartościowych dopuszczonych do obrotu na rynku regulowanym, dla których Rzeczpospolita Polska jest państwem macierzystym, przekazują corocznie do Komisji oraz do publicznej wiadomości wykaz wszystkich informacji określonych w art. 56 ust. 1, przekazanych do publicznej wiadomości, w okresie ostatniego roku kalendarzowego, bez względu na miejsce ich publikacji, ze wskazaniem miejsca, gdzie te informacje są dostępne.
 
-18. W przypadku stwierdzenia naruszenia przez osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej przepisów rozporządzenia 596/2014 w zakresie wskazanym w ust. 1i lub 1j, Komisja może, w drodze decyzji, zakazać osobie fizycznej, do której obowiązków należy zapewnienie przestrzegania przez tę osobę prawną lub jednostkę organizacyjną przepisów rozporządzenia 596/2014 w zakresie wskazanym w ust. 1i lub 1j, zawierania, na rachunek własny lub na rachunek osoby trzeciej, transakcji, których przedmiotem są instrumenty finansowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu, na czas określony, nieprzekraczający 5 lat. Środek ten może być stosowany bez względu na zastosowanie innych sankcji za naruszenie obowiązków, o których mowa w ust. 1i oraz 1j.
+### 2.
 
-19. W przypadku stwierdzenia naruszenia przepisów rozporządzenia 596/2014 w zakresie wskazanym w ust. 1i lub 1j przez osobę fizyczną, Komisja może, w decyzji w sprawie zastosowania środków, o których mowa w ust. 1i lub 1j, zakazać tej osobie fizycznej zawierania, na rachunek własny lub na rachunek osoby trzeciej, transakcji, których przedmiotem są instrumenty finansowe dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu w alternatywnym systemie obrotu, na czas określony, nieprzekraczający 5 lat.
+Obowiązek, o którym mowa w ust. 1, nie dotyczy emitentów papierów wartościowych o charakterze nieudziałowym, których jednostkowa wartość nominalna wynosi nie mniej niż 50 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień podjęcia uchwały o emisji tych papierów wartościowych.
 
-20. W przypadku gdy emitent poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach wymienionych w ust. 1, Komisja może dodatkowo zakazać emitentowi lub oferującemu ubiegania się o zatwierdzenie każdego kolejnego prospektu przez okres nie dłuższy niż 5 lat.
+### 3.
 
-**Art. 96a.**
+Termin oraz sposób przekazywania wykazu, o którym mowa w ust. 1, określa art. 27 rozporządzenia 809/2004.
 
-1. W przypadku gdy emitent, dla którego Rzeczpospolita Polska jest państwem przyjmującym, nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 96 ust. 1 lub 1e, Komisja przekazuje informację o tym zdarzeniu właściwemu organowi państwa macierzystego tego emitenta oraz Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych.
+### Art. 66.
 
-2. W przypadku gdy, mimo poinformowania przez Komisję, właściwy organ państwa macierzystego emitenta nie podejmuje działań mających zapobiec dalszemu naruszaniu przepisów prawa lub gdy te działania są nieskuteczne, Komisja może, w celu ochrony interesu inwestorów, po uprzednim poinformowaniu tego organu, zastosować sankcje, o których mowa w art. 96 ust. 1, 1e lub 1f. Komisja niezwłocznie przekazuje Komisji Europejskiej i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o zastosowaniu tych sankcji.
+### 1.
 
-**Art. 96b.** W przypadku gdy zarząd spółki publicznej nie wykonuje obowiązku, o którym mowa w art. 80 ust. 1, Komisja może nałożyć osobno na każdą z osób wchodzących w skład zarządu tej spółki karę pieniężną do wysokości 100 000 zł.
+Przed wykonaniem obowiązków, o których mowa w art. 45-52, 54 i 56-61, emitent lub wprowadzający może przekazywać informacje określone w tych przepisach wyłącznie:
 
-**Art. 96c.**
+### 1)
 
-1. W przypadku gdy emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym nie wykonuje obowiązków, o których mowa w art. 16 ust. 1–3, art. 17, art. 19 ust. 1–3, art. 20 ust. 1, art. 21 ust. 1–4 lub 7–11, art. 22 ust. 2–5, art. 23 ust. 1 lub ust. 2 akapit drugi, lub art. 27 rozporządzenia 2017/1129, albo wykonuje je nienależycie, Komisja może wydać decyzję o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym, a w przypadku gdy papiery wartościowe emitenta są wprowadzone do obrotu w alternatywnym systemie obrotu – decyzję o wykluczeniu tych papierów wartościowych z obrotu w tym systemie. W decyzji o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym lub w alternatywnym systemie obrotu Komisja określa termin, nie krótszy niż 14 dni, po upływie którego skutek ten następuje.
+osobom lub podmiotom świadczącym na jego rzecz usługi doradztwa finansowego, ekonomicznego, podatkowego lub prawnego, jak również tym, z którymi prowadzi negocjacje;
 
-2. W przypadku gdy emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym nie wykonuje obowiązków, o których mowa w art. 16 ust. 1–3, art. 17, art. 19 ust. 1–3, art. 21 ust. 1–4 lub 7–11, art. 22 ust. 2–5, art. 23 ust. 2 akapit drugi lub art. 27 rozporządzenia 2017/1129, albo wykonuje je nienależycie, lub nie wykonuje w terminie obowiązku udostępnienia suplementu do prospektu, Komisja może również:
+### 2)
 
-- **1)** nałożyć na emitenta, oferującego, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym, karę pieniężną do wysokości 21 100 000 zł lub kwoty stanowiącej równowartość 3 % całkowitego rocznego przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym za rok obrotowy, lub
-- **2)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań w przyszłości, lub
-- **3)** nałożyć karę pieniężną do wysokości 3 000 000 zł na osoby fizyczne odpowiedzialne za zaistniałe naruszenia.
+osobom lub podmiotom uprawnionym do otrzymania tych informacji w przypadkach określonych we właściwych przepisach prawa polskiego lub obcego.
 
-3. W przypadku gdy jest możliwe ustalenie kwoty osiągniętej korzyści lub unikniętej straty w wyniku naruszenia przepisów wymienionych w ust. 2, kara pieniężna, o której mowa w ust. 2 pkt 1, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści lub unikniętej straty.
+### 2.
 
-4. W przypadku gdy emitent, oferujący, podmiot, o którym mowa w art. 11a ust. 2, lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym jest jednostką dominującą lub jednostką zależną jednostki dominującej, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu jednostki dominującej najwyższego szczebla ujawniona w ostatnim zatwierdzonym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+Osoby i podmioty, o których mowa w ust. 1, są obowiązane zachować poufność otrzymanych informacji.
 
-5. Komisja, ustalając rodzaj i wysokość kary, uwzględnia okoliczności, o których mowa w art. 39 ust. 1 rozporządzenia 2017/1129.
+### Art. 67.
 
-6. W przypadku emitenta będącego funduszem inwestycyjnym zamkniętym kara pieniężna nakładana jest na towarzystwo funduszy inwestycyjnych będące organem tego funduszu.
+### 1.
 
-7. W przypadku emitenta będącego alternatywną spółką inwestycyjną zarządzaną przez zewnętrznie zarządzającego ASI albo zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych kara pieniężna nakładana jest odpowiednio na zewnętrznie zarządzającego ASI albo zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych.
+Podmiot dominujący wobec emitenta, podmioty działające na zlecenie tego podmiotu dominującego oraz inne podmioty wobec niego dominujące lub od niego zależne, które uzyskały informację w trybie określonym w art. 66 - do czasu podania tej informacji przez emitenta lub wprowadzającego do publicznej wiadomości w wykonaniu obowiązków, o których mowa w art. 45-52, 54 i 56-61 - nie mogą nabywać i zbywać papierów wartościowych emitenta, którego ta informacja dotyczy. W takim przypadku przepisów art. 428 § 4 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych nie stosuje się.
 
-8. W przypadku gdy emitent poważnie i wielokrotnie naruszył obowiązki, o których mowa w przepisach wymienionych w ust. 1, Komisja może dodatkowo zakazać emitentowi lub oferującemu ubiegania się o zatwierdzenie każdego kolejnego prospektu przez okres nie dłuższy niż 5 lat.
+### 2.
 
-**Art. 96d.**
+Zakaz, o którym mowa w ust. 1, stosuje się również do osób fizycznych uprawnionych do reprezentowania podmiotów wymienionych w tym przepisie lub pozostających z nimi w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze.
 
-1. Komisja przekazuje do publicznej wiadomości, przez zamieszczenie na swojej stronie internetowej:
+### Art. 68.
 
-- **1)** informację o treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, zawierającą imię i nazwisko osoby fizycznej lub firmę (nazwę) innego podmiotu, na który nałożona została sankcja, o której mowa w art. 96c ust. 1 lub 2;
-- **2)** w przypadku złożenia wniosku o ponowne rozpatrzenie sprawy – informację o jego złożeniu, jeżeli Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy;
-- **3)** informację o treści rozstrzygnięcia ostatecznej decyzji.
+### 1.
 
-2. Przekazanie do publicznej wiadomości informacji, o której mowa w ust. 1 pkt 1, następuje po doręczeniu decyzji stronie postępowania.
+Na żądanie Komisji lub jej upoważnionego przedstawiciela, osoby wchodzące w skład organów zarządzających lub nadzorczych emitenta papierów wartościowych dopuszczonych do obrotu na rynku regulowanym lub będących przedmiotem ubiegania się o to dopuszczenie albo pozostające z nim w stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt emitenta, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień, w celu umożliwienia wykonywania ustawowych zadań Komisji w zakresie:
 
-3. Komisja może, w drodze uchwały, opóźnić przekazanie do publicznej wiadomości informacji o decyzji, o której mowa w ust. 1, lub przekazać taką informację bez wskazywania osoby fizycznej lub innego podmiotu, na który została nałożona sankcja, w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości:
+### 1)
 
-- **1)** wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego;
-- **2)** w przypadku danych osobowych lub firmy (nazwy) podmiotu – jest nieproporcjonalne do wagi stwierdzonego naruszenia;
-- **3)** stanowiłoby poważne zagrożenie dla stabilności systemu finansowego lub będącego w toku postępowania administracyjnego, wyjaśniającego lub karnego.
+nadzoru nad sposobem wykonywania przez te podmioty obowiązków informacyjnych;
 
-4. Komisja może nie przekazywać do publicznej wiadomości informacji o sankcjach nałożonych na podstawie art. 96c ust. 1 lub 2 w przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości mogłoby:
+### 2)
 
-- **1)** naruszyć stabilność systemu finansowego lub
-- **2)** wyrządzić niewspółmierną i znaczącą szkodę podmiotom, które dopuściły się naruszenia.
+ujawniania i przeciwdziałania manipulacji, o której mowa w art. 39 ustawy o obrocie instrumentami finansowymi;
 
-5. W przypadku gdy Komisja nie przekazała do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej lub firmie (nazwie) innego podmiotu, może upublicznić te dane, jeżeli ustały przesłanki, o których mowa w ust. 3, nie później jednak niż w terminie 5 lat, licząc od dnia wydania decyzji o nałożeniu sankcji na tę osobę lub ten podmiot.
+### 3)
 
-6. Informacje, o których mowa w ust. 1, są dostępne na stronie internetowej Komisji przez co najmniej 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, są dostępne na tej stronie przez rok.
+ujawniania i przeciwdziałania ujawnieniu lub wykorzystywaniu informacji poufnej.
 
-7. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o nieprzekazaniu do publicznej wiadomości informacji zgodnie z ust. 4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych również o złożeniu przez stronę wniosku o ponowne rozpatrzenie sprawy oraz o treści rozstrzygnięcia ostatecznej decyzji.
+### 2.
 
-**Art. 96e.** W przypadku niewykonania lub nienależytego wykonania przez spółkę, o której mowa w art. 90c ust. 1, obowiązków, o których mowa w rozdziale 4a, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
+Obowiązek, o którym mowa w ust. 1, spoczywa również na biegłym rewidencie oraz osobach wchodzących w skład organów zarządzających podmiotu uprawnionego do badania sprawozdań finansowych lub pozostających z tym podmiotem w stosunku pracy - w zakresie dotyczącym czynności podejmowanych przez te osoby lub podmiot w związku z badaniem sprawozdań finansowych emitenta, o którym mowa w ust. 1, lub świadczeniem na jego rzecz innych usług wymienionych w art. 10 ust. 3 ustawy z dnia 13 października 1994 r. o biegłych rewidentach i ich samorządzie ([Dz. U. z 2001 r. Nr 31, poz. 359](https://api.sejm.gov.pl/eli/acts/DU/2001/359/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052, z 2003 r. Nr 124, poz. 1152 oraz z 2004 r. Nr 62, poz. 577, Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 213, poz. 2155.](#gloss-0:7:)). Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 4a tej ustawy.
 
-**Art. 97.**
+### 3.
 
-1. Na każdego kto:
+W razie powzięcia wątpliwości co do prawidłowości lub rzetelności informacji okresowych, o których mowa w art. 56 ust. 1 pkt 2, lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych informacji i ksiąg rachunkowych podmiotowi uprawnionemu do badania sprawozdań finansowych. W przypadku gdy kontrola wykaże, że wątpliwości były uzasadnione, emitent zwraca Komisji koszty przeprowadzenia kontroli.
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** (uchylony) 3a) nie wykonuje lub niewłaściwie wykonuje obowiązki, o których mowa w art. 77a, 3b) bezpośrednio lub pośrednio nabywa lub zbywa akcje z naruszeniem art. 77d, 3c) nie dokonuje w terminie zapłaty różnicy w cenie akcji, w przypadku określonym w art. 79c lub art. 79d ust. 1,
-- **4)** nie zachowuje warunków, o których mowa w art. 76 lub 77, 4a) nie ogłasza wezwania lub nie przeprowadza w terminie wezwania – w przypadku, o którym mowa w art. 11a ust. 9,
-- **5)** nie ogłasza lub nie przeprowadza wezwania, o którym mowa w art. 73 ust. 1 i 3, 5a) (uchylony) 5b) nie ogłasza wezwania lub nie przeprowadza w terminie wezwania, w przypadku, o którym mowa w art. 90a ust. 1,
-- **6)** (uchylony)
-- **7)** wbrew żądaniu, o którym mowa w art. 77b ust. 1, 2 lub 3, w określonym w nim terminie nie wprowadza niezbędnych zmian lub uzupełnień w treści wezwania albo nie przekazuje wyjaśnień dotyczących jego treści, albo nie zmienia rodzaju lub wysokości zabezpieczenia,
-- **8)** (uchylony)
-- **9)** w wezwaniu, o którym mowa w art. 11a ust. 9, art. 72a, art. 73 lub art. 91 ust. 5, proponuje cenę niższą niż określona na podstawie art. 79 ust. 1, 2, 3a, 3b lub art. 79a, a w przypadku wezwania, o którym mowa w art. 91 ust. 5, dotyczącego akcji spółki publicznej, której akcje zostały wprowadzone wyłącznie do alternatywnego systemu obrotu, proponuje cenę niższą niż określona zgodnie z art. 91 ust. 5–8, 9a) bezpośrednio lub pośrednio nabywa lub obejmuje akcje z naruszeniem art. 77g pkt 1 lub 3 albo art. 88a,
-- **10)** nabywa akcje własne z naruszeniem trybu, terminów i warunków określonych w art. 73, art. 79, art. 79a lub art. 91 ust. 5, 10a) dokonuje przymusowego wykupu niezgodnie z zasadami, o których mowa w art. 82, 10b) nie czyni zadość żądaniu, o którym mowa w art. 83,
-- **11)** wbrew obowiązkowi określonemu w art. 86 ust. 1 nie udostępnia dokumentów rewidentowi do spraw szczególnych lub nie udziela mu wyjaśnień, 11a) nie wykonuje obowiązku, o którym mowa w art. 90a ust. 3,
-- **12)** dopuszcza się czynu określonego w pkt 1–11a, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 10 000 000 zł.
+### Rozdział 4 Znaczne pakiety akcji spółek publicznych
 
-1a. Na każdego, kto nie dokonuje w terminie zawiadomienia, o którym mowa w art. 69–69b, lub dokonuje takiego zawiadomienia z naruszeniem warunków określonych w tych przepisach, Komisja może nałożyć karę pieniężną:
+### Oddział 1 Ujawnianie stanu posiadania
 
-- **1)** w przypadku osób fizycznych – do wysokości 1 000 000 zł;
-- **2)** w przypadku innych podmiotów – do wysokości 5 000 000 zł albo kwoty stanowiącej równowartość 5 % całkowitego rocznego przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 5 000 000 zł.
+### Art. 69.
 
-1b. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej w wyniku naruszenia, o którym mowa w ust. 1a, przez podmiot niedokonujący zawiadomienia, o którym mowa w art. 69–69b, lub dokonujący takiego zawiadomienia z naruszeniem warunków określonych w tych przepisach, zamiast kary, o której mowa w ust. 1a, Komisja może nałożyć karę pieniężną do wysokości dwukrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+### 1.
 
-1c. W przypadku gdy podmiot jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa w ust. 1a pkt 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu emitenta ujawniona w ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+Kto:
 
-1d. W przypadku gdy fundusz inwestycyjny lub alternatywna spółka inwestycyjna nie dokonuje w terminie zawiadomienia, o którym mowa w art. 69– 69b, lub dokonuje takiego zawiadomienia z naruszeniem warunków określonych w tych przepisach, Komisja może nałożyć na:
+### 1)
 
-- **1)** towarzystwo funduszy inwestycyjnych będące organem tego funduszu inwestycyjnego,
-- **2)** zewnętrznie zarządzającego ASI w rozumieniu ustawy o funduszach inwestycyjnych,
-- **3)** zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, zarządzającego tą alternatywną spółką inwestycyjną – karę pieniężną, o której mowa w ust. 1a lub 1b.
+osiągnął lub przekroczył 5%, 10%, 20%, 25%, 33%, 50% albo 75% ogólnej liczby głosów w spółce publicznej albo
 
-1e. W przypadku gdy fundusz inwestycyjny, co do którego towarzystwo funduszy inwestycyjnych zawarło umowy, o których mowa w art. 4 ust. 1a albo 1b ustawy o funduszach inwestycyjnych, nie dokonuje w terminie zawiadomienia, o którym mowa w art. 69–69b, lub dokonuje takiego zawiadomienia z naruszeniem warunków określonych w tych przepisach, Komisja może nałożyć karę pieniężną, o której mowa w ust. 1a lub 1b, odpowiednio na spółkę zarządzającą albo na zarządzającego z UE.
+### 2)
 
-1f. W przypadku wydania decyzji nakładającej karę, o której mowa w ust. 1, 1a, 1b, 1d, 6, 7 lub 8, przepisy art. 96 ust. 10a–10c stosuje się odpowiednio.
+posiadał co najmniej 5%, 10%, 20%, 25%, 33%, 50% albo 75% ogólnej liczby głosów w tej spółce, a w wyniku zmniejszenia tego udziału osiągnął odpowiednio 5%, 10%, 20%, 25%, 33%, 50% albo 75% lub mniej ogólnej liczby głosów
 
-1g. Przy wymierzaniu kary za naruszenia, o których mowa w ust. 1 lub 1a, Komisja bierze w szczególności pod uwagę:
+- jest obowiązany zawiadomić o tym Komisję oraz spółkę, w terminie 4 dni od dnia zmiany udziału w ogólnej liczbie głosów albo od dnia, w którym dowiedział się o takiej zmianie lub przy zachowaniu należytej staranności mógł się o niej dowiedzieć.
 
-- **1)** wagę naruszenia oraz czas jego trwania;
-- **2)** przyczyny naruszenia;
-- **3)** sytuację finansową podmiotu, na który nakładana jest kara;
-- **4)** skalę korzyści uzyskanych lub strat unikniętych przez podmiot, który dopuścił się naruszenia, lub podmiot, w którego imieniu lub interesie działał podmiot, który dopuścił się naruszenia, o ile można tę skalę ustalić;
-- **5)** straty poniesione przez osoby trzecie w związku z naruszeniem, o ile można te straty ustalić;
-- **6)** gotowość podmiotu dopuszczającego się naruszenia do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
-- **7)** uprzednie naruszenia przepisów niniejszej ustawy popełnione przez podmiot, na który nakładana jest kara.
+### 2.
 
-1h. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub starty unikniętej w wyniku naruszenia obowiązków, o których mowa w ust. 1 pkt 1–12, zamiast kary, o której mowa w ust. 1, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+Obowiązek dokonania zawiadomienia, o którym mowa w ust. 1, powstaje również w przypadku:
 
-2. Kara pieniężna w wysokości, o której mowa w:
+### 1)
 
-- **1)** ust. 1 albo 1h – może zostać nałożona odrębnie za każdy z czynów określonych w ust. 1;
-- **2)** ust. 1a albo 1b – może zostać nałożona odrębnie za każdy z czynów określonych w ust. 1a.
+zmiany dotychczas posiadanego udziału ponad 10% ogólnej liczby głosów o co najmniej:
 
-3. Kara pieniężna, o której mowa w:
+### a)
 
-- **1)** ust. 1 albo 1h,
-- **2)** ust. 1a albo 1b – może być nałożona odrębnie na każdy z podmiotów wchodzących w skład porozumienia, o którym mowa w art. 87 ust. 1 pkt 5.
+2% ogólnej liczby głosów - w spółce publicznej, której akcje są dopuszczone do obrotu na rynku oficjalnych notowań giełdowych,
 
-4. W decyzji, o której mowa w ust. 1, 1a, 1b, 1d, 1e lub 1h, Komisja może zobowiązać podmiot dopuszczający się naruszenia do zaniechania lub powstrzymania się od podejmowania działań stanowiących naruszenie lub wyznaczyć termin ponownego wykonania obowiązku lub dokonania czynności wymaganej przepisami, których naruszenie było podstawą nałożenia kary pieniężnej. W razie bezskutecznego upływu tego terminu Komisja może powtórnie wydać decyzję o nałożeniu kary pieniężnej. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+### b)
 
-5. (uchylony)
+5% ogólnej liczby głosów - w spółce publicznej, której akcje są dopuszczone do obrotu na innym rynku regulowanym niż określony w lit. a;
 
-6. W przypadku rażącego naruszenia obowiązków, o których mowa w ust. 1a, Komisja może nałożyć na osobę, która pełniła w tym okresie funkcję członka zarządu lub członka organu zarządzającego podmiotu, lub była wspólnikiem uprawnionym do reprezentowania podmiotu, karę pieniężną do wysokości 1 000 000 zł.
+### 2)
 
-7. W przypadku rażącego naruszenia przez fundusz inwestycyjny lub alternatywną spółkę inwestycyjną obowiązków, o których mowa w ust. 1a, Komisja może nałożyć na członka organu zarządzającego:
+zmiany dotychczas posiadanego udziału ponad 33% ogólnej liczby głosów o co najmniej 1% ogólnej liczby głosów.
 
-- **1)** towarzystwa funduszy inwestycyjnych będącego organem tego funduszu inwestycyjnego,
-- **2)** zewnętrznie zarządzającego ASI w rozumieniu ustawy o funduszach inwestycyjnych,
-- **3)** zarządzającego z UE w rozumieniu ustawy o funduszach inwestycyjnych, zarządzającego tą alternatywną spółką inwestycyjną – karę pieniężną do wysokości 1 000 000 zł.
+### 3.
 
-8. W przypadku gdy fundusz inwestycyjny, co do którego towarzystwo funduszy inwestycyjnych zawarło umowy, o których mowa w art. 4 ust. 1a albo 1b ustawy o funduszach inwestycyjnych, rażąco narusza obowiązki, o których mowa w ust. 1a, Komisja może nałożyć odpowiednio na członka organu zarządzającego spółki zarządzającej albo zarządzającego z UE karę pieniężną do wysokości 1 000 000 zł.
+Obowiązek dokonania zawiadomienia, o którym mowa w ust. 1 i 2, nie powstaje w przypadku, gdy po rozliczeniu w depozycie papierów wartościowych kilku transakcji zawartych na rynku regulowanym w tym samym dniu zmiana udziału w ogólnej liczbie głosów w spółce publicznej na koniec dnia rozliczenia nie powoduje osiągnięcia lub przekroczenia progu ogólnej liczby głosów, z którym wiąże się powstanie tych obowiązków.
 
-9. Kara, o której mowa w ust. 6–8, nie może być nałożona, jeżeli od wydania decyzji, o której mowa w ust. 1a, 1b, 1d lub 1e, upłynęło więcej niż 12 miesięcy.
+### 4.
 
-10. Przy wymierzaniu kar, o których mowa w ust. 6–8, stosuje się ust. 1g.
+Zawiadomienie, o którym mowa w ust. 1, zawiera informacje o:
 
-**Art. 97a.** W przypadku gdy sprawozdania finansowe, o których mowa w art. 96 ust. 1e lub 1g lub w art. 97 ust. 1a lub 1c, sporządzone zostały w walucie innej niż polska, wartości wyrażone w tej walucie przelicza się na walutę polską po średnim kursie, ogłoszonym przez Narodowy Bank Polski, na dzień bilansowy.
+### 1)
 
-**Art. 97b.** W przypadku nieprzekazania informacji, wyjaśnień, kopii dokumentów lub innych nośników informacji wbrew obowiązkowi, o którym mowa w art. 68b ust. 3, Komisja może nałożyć na osobę lub podmiot, do których żądanie przekazania informacji zostało skierowane, karę pieniężną do wysokości 1 000 000 zł.
+dacie i rodzaju zdarzenia powodującego zmianę udziału, której dotyczy zawiadomienie;
 
-**Art. 97c.** Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych:
+### 2)
 
-**Art. 97d.** Emitent jest obowiązany posiadać procedury anonimowego zgłaszania przez pracowników wskazanemu członkowi zarządu, a w szczególnych przypadkach – radzie nadzorczej, naruszeń prawa, w szczególności przepisów ustawy, rozporządzenia 2017/1129, oraz procedur i standardów etycznych.
+liczbie akcji posiadanych przed zmianą udziału i ich procentowym udziale w kapitale zakładowym spółki oraz o liczbie głosów z tych akcji i ich procentowym udziale w ogólnej liczbie głosów;
 
-#### Rozdział 8 Odpowiedzialność cywilna
+### 3)
 
-**Art. 98.**
+liczbie aktualnie posiadanych akcji i ich procentowym udziale w kapitale zakładowym spółki oraz o liczbie głosów z tych akcji i ich procentowym udziale w ogólnej liczbie głosów;
 
-1. Podmiot odpowiedzialny za zgodność ze stanem faktycznym informacji zamieszczonych w prospekcie, memorandum informacyjnym oraz innych dokumentach sporządzanych i udostępnianych w związku z ofertą publiczną dotyczącą papierów wartościowych, dopuszczeniem papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym lub ubieganiem się o takie dopuszczenie, oraz za to, że dokumenty te nie pomijają niczego, co mogłoby wpływać na ich znaczenie, w szczególności za to, że informacje te są prawdziwe, rzetelne i kompletne, obowiązany jest do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości informacji niezgodnej ze stanem faktycznym lub informacji, która mogłaby mieć wpływ na znaczenie udostępnionych dokumentów, w tym informacji nieprawdziwej, nierzetelnej lub niekompletnej, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy, z zastrzeżeniem ust. 2.
+### 4)
 
-2. Informacje zawarte w podsumowaniu prospektu, a także w specjalnym podsumowaniu prospektu UE na rzecz rozwoju, o którym mowa w art. 15 ust. 1 rozporządzenia 2017/1129, w tym w ich tłumaczeniach, nie są podstawą odpowiedzialności cywilnej, chyba że, odczytywane łącznie z pozostałymi częściami prospektu, wprowadzają w błąd, są nieprawdziwe, nieprecyzyjne, niezgodne z odpowiednimi częściami prospektu lub nie przedstawiają kluczowych informacji mających pomóc inwestorom w podjęciu decyzji inwestycyjnej. Podsumowanie prospektu zawiera wyraźne ostrzeżenie w tym zakresie.
+informacje dotyczące zamiarów dalszego zwiększania udziału w ogólnej liczbie głosów w okresie 12 miesięcy od złożenia zawiadomienia oraz celu zwiększania tego udziału - w przypadku gdy zawiadomienie jest składane w związku z osiągnięciem lub przekroczeniem 10% ogólnej liczby głosów.
 
-3. (uchylony)
+### 5.
 
-4. (uchylony)
+W przypadku zmiany zamiarów lub celu, o których mowa w ust. 4 pkt 4, akcjonariusz jest obowiązany niezwłocznie, nie później niż w terminie 3 dni od zaistnienia tej zmiany, poinformować o tym Komisję oraz tę spółkę.
 
-5. Odpowiedzialność, o której mowa w ust. 1 i 2, ponoszą również osoby, które wykorzystują w swojej działalności w zakresie obrotu instrumentami finansowymi informacje wskazane w tych przepisach, chyba że nieprawdziwość lub przemilczenie informacji nie była i nie mogła być im znana.
+### Art. 70.
 
-6. Odpowiedzialność podmiotów określonych w ust. 1, 2 i 5 jest solidarna i nie można jej ograniczyć lub wyłączyć. Nie wyłącza to możliwości zawarcia umowy określającej wzajemne zobowiązania tych podmiotów z tytułu tej odpowiedzialności.
+Spółka publiczna jest obowiązana do:
 
-7. Emitent oraz podmiot, który sporządził lub brał udział w sporządzeniu informacji, o których mowa w art. 56 ust. 1, jest obowiązany do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nieprawdziwej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy.
+### 1)
 
-7a. Emitent oraz podmiot, który sporządził lub brał udział w sporządzeniu informacji, o których mowa w art. 17 ust. 1 lub 2 rozporządzenia 596/2014, jest obowiązany do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nieprawdziwej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy.
+niezwłocznego przekazywania informacji, w zakresie określonym w art. 69, równocześnie Komisji, agencji informacyjnej oraz spółce prowadzącej rynek regulowany, na którym notowane są akcje tej spółki;
 
-7b. Przepis ust. 7a stosuje się do uczestnika rynku uprawnień do emisji.
+### 2)
 
-8. Emitent kwitów depozytowych oraz podmiot, który sporządził lub brał udział w sporządzeniu informacji, o których mowa w art. 59, jest obowiązany do naprawienia szkody wyrządzonej przez udostępnienie do publicznej wiadomości nieprawdziwej informacji lub przemilczenie informacji, chyba że ani on, ani osoby, za które odpowiada, nie ponoszą winy.
+przekazywania Komisji, nie później niż do dnia poprzedzającego wyznaczony dzień walnego zgromadzenia, wykazu akcjonariuszy uprawnionych do udziału w tym zgromadzeniu, z określeniem liczby akcji i głosów z akcji przysługujących każdemu z nich;
 
-9. Podmioty, o których mowa w ust. 1, 2 i 5–8, powinny przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności.
+### 3)
 
-#### Rozdział 9 Przepisy karne
+równoczesnego przekazywania Komisji, agencji informacyjnej oraz spółce prowadzącej rynek regulowany, na którym notowane są akcje tej spółki, w terminie 7 dni od dnia odbycia walnego zgromadzenia, wykazu akcjonariuszy posiadających co najmniej 5% liczby głosów na tym zgromadzeniu, z określeniem liczby głosów przysługujących każdemu z nich z posiadanych akcji i wskazaniem ich procentowego udziału w liczbie głosów na tym walnym zgromadzeniu oraz w ogólnej liczbie głosów.
 
-**Art. 99.**
+### Art. 71.
 
-1. Kto dokonuje oferty publicznej papierów wartościowych bez wymaganego przepisami:
+Komisja może zwolnić spółkę publiczną z obowiązku przekazania informacji, o których mowa w art. 70 pkt 1, w przypadku, gdy ujawnienie takich informacji mogłoby:
 
-- **1)** rozporządzenia 2017/1129 zatwierdzenia prospektu lub jego udostępnienia do publicznej wiadomości albo udostępnienia do publicznej wiadomości dokumentów, o których mowa w art. 1 ust. 4 lit. f–i oraz ust. 5 lit. e–h i lit. j pkt (v) rozporządzenia 2017/1129, albo
-- **2)** ustawy przekazania do Komisji memorandum informacyjnego lub jego udostępnienia do publicznej wiadomości lub osobom, do których skierowana jest oferta publiczna, albo
-- **3)** ustawy udostępnienia dokumentu, o którym mowa w art. 37a ust. 1, do publicznej wiadomości lub osobom, do których skierowana jest oferta publiczna, albo
-- **4)** ustawy i rozporządzenia 2020/1503 udostępnienia arkusza kluczowych informacji inwestycyjnych do publicznej wiadomości – podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+### 1)
 
-2. Tej samej karze podlega, kto na terytorium jednego państwa członkowskiego udostępnia 150 osobom lub większej liczbie osób, lub nieoznaczonemu adresatowi reklamę oferty publicznej, o której mowa w art. 1 ust. 4 lit. b rozporządzenia 2017/1129.
+zaszkodzić interesowi publicznemu lub
 
-3. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1 lub 2, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+### 2)
 
-4. W przypadku mniejszej wagi sprawca czynu określonego w ust. 1–3 podlega grzywnie do 2 500 000 zł.
+spowodować istotną szkodę dla interesów tej spółki - o ile brak odpowiedniej informacji nie spowoduje wprowadzenia w błąd ogółu inwestorów w zakresie oceny wartości papierów wartościowych.
 
-**Art. 99a.**
+### Oddział 2 Wezwania
 
-1. Kto wbrew zakazowi, o którym mowa w art. 3 ust. 2, dokonuje oferty publicznej papierów wartościowych emitowanych przez instytucje wspólnego inwestowania typu otwartego, z uwzględnieniem rozporządzenia delegowanego Komisji (UE) nr 694/2014 z dnia 17 grudnia 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE w odniesieniu do regulacyjnych standardów technicznych służących określeniu typów zarządzających alternatywnymi funduszami inwestycyjnymi, inne niż:
+### Art. 72.
 
-- **1)** fundusze zagraniczne, o których mowa w art. 2 pkt 9 ustawy o funduszach inwestycyjnych,
-- **2)** unijne AFI, o których mowa w art. 2 pkt 10b ustawy o funduszach inwestycyjnych, oraz alternatywne fundusze inwestycyjne z siedzibą w państwach będących stroną umowy o Europejskim Obszarze Gospodarczym, wprowadzone do obrotu na terytorium Rzeczypospolitej Polskiej zgodnie z przepisami tej ustawy,
-- **3)** alternatywne spółki inwestycyjne, o których mowa w art. 8a ust. 1 ustawy o funduszach inwestycyjnych,
-- **4)** fundusze inwestycyjne zamknięte – podlega grzywnie do 10 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+### 1.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+Nabycie akcji spółki publicznej w liczbie powodującej zwiększenie udziału w ogólnej liczbie głosów o więcej niż:
 
-**Art. 100.**
+### 1)
 
-1. Kto, będąc odpowiedzialnym za informacje zawarte w prospekcie, memorandum informacyjnym lub dokumentach, o których mowa w art. 37a ust. 1, art. 38, art. 38a lub art. 39 ust. 1, albo za inne informacje związane z ofertą publiczną lub dopuszczeniem papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym, lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym, albo za informacje, o których mowa w art. 17 ust. 1 lub 2 rozporządzenia 596/2014 lub art. 56 ust. 1, podaje nieprawdziwe dane lub zataja prawdziwe dane, w istotny sposób wpływające na treść informacji, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
+10% ogólnej liczby głosów w okresie krótszym niż 60 dni, przez podmiot, którego udział w ogólnej liczbie głosów w tej spółce wynosi mniej niż 33%,
 
-1a. Tej samej karze podlega, kto, będąc odpowiedzialnym za informacje udostępniane do publicznej wiadomości w formie suplementu do prospektu, memorandum informacyjnego lub innych dokumentów, o których mowa w art. 38 lub art. 39 ust. 1, podaje nieprawdziwe dane lub zataja prawdziwe dane, w istotny sposób wpływające na treść informacji.
+### 2)
 
-2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+5% ogólnej liczby głosów w okresie krótszym niż 12 miesięcy, przez akcjonariusza, którego udział w ogólnej liczbie głosów w tej spółce wynosi co najmniej 33%
 
-**Art. 101.**
+- może nastąpić, z zastrzeżeniem ust. 2, wyłącznie w wyniku ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę tych akcji.
 
-1. Kto, będąc odpowiedzialnym za informacje przekazywane do Komisji w związku z opóźnieniem podania do wiadomości publicznej informacji poufnej, o którym mowa w art. 17 ust. 4 rozporządzenia 596/2014, podaje nieprawdziwe dane lub zataja prawdziwe dane, w sposób istotny wpływające na ocenę zasadności tego opóźnienia, podlega grzywnie do 2 000 000 zł.
+### 2.
 
-2. Tej samej karze podlega, kto, będąc odpowiedzialnym za treść informacji przekazywanych do Komisji, w celu uzyskania zgody, o której mowa w art. 17 ust. 5 lit. d rozporządzenia 596/2014, podaje nieprawdziwe dane lub zataja prawdziwe dane.
+W przypadku gdy w okresie, o którym mowa w ust. 1 pkt 1 lub 2, zwiększenie udziału w ogólnej liczbie głosów odpowiednio o więcej niż 10% lub 5% ogólnej liczby głosów nastąpiło w wyniku zajścia innego zdarzenia prawnego niż czynność prawna, akcjonariusz jest obowiązany, w terminie trzech miesięcy od dnia zajścia zdarzenia, do zbycia takiej liczby akcji, która spowoduje, że ten udział nie zwiększy się w tym okresie odpowiednio o więcej niż 10% lub 5% ogólnej liczby głosów.
 
-**Art. 102.**
+### Art. 73.
 
-1. Kto nie wykonuje obowiązku, o którym mowa w art. 68, lub wykonuje go nienależycie, podlega grzywnie do 500 000 zł, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+### 1.
 
-2. (uchylony)
+Przekroczenie 33% ogólnej liczby głosów w spółce publicznej może nastąpić, z zastrzeżeniem ust. 2, wyłącznie w wyniku ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji tej spółki w liczbie zapewniającej osiągnięcie 66% ogólnej liczby głosów, z wyjątkiem przypadku, gdy przekroczenie 33% ogólnej liczby głosów ma nastąpić w wyniku ogłoszenia wezwania, o którym mowa w art. 74.
 
-**Art. 103.** Kto, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, nie przekazuje Komisji suplementu do prospektu lub do memorandum informacyjnego, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+### 2.
 
-**Art. 104.** Kto, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, nie udostępnia do publicznej wiadomości suplementu do prospektu, do memorandum informacyjnego, lub do dokumentu, o którym mowa w art. 38 lub art. 39 ust. 1, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+W przypadku gdy przekroczenie progu 33% ogólnej liczby głosów nastąpiło w wyniku nabycia akcji w ofercie publicznej lub w ramach wnoszenia ich do spółki jako wkładu niepieniężnego, połączenia lub podziału spółki, w wyniku zmiany statutu spółki, wygaśnięcia uprzywilejowania akcji lub zajścia innego niż czynność prawna zdarzenia prawnego, akcjonariusz jest obowiązany, w terminie trzech miesięcy od przekroczenia 33% ogólnej liczby głosów, do:
 
-**Art. 104a.** Kto wbrew zakazowi, o którym mowa w art. 68b ust. 5, ujawnia informację, o której mowa w tym przepisie, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+### 1)
 
-**Art. 104b.**
+ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji tej spółki w liczbie powodującej osiągnięcie 66% ogólnej liczby głosów albo
 
-1. Kto, będąc członkiem zarządu spółki publicznej, nie przedstawia sądowi rejestrowemu wniosku o wyznaczenie biegłego rewidenta w celu wydania przez niego oceny, o której mowa w art. 6a, podlega grzywnie do 20 000 zł.
+### 2)
 
-2. Grzywnę, o której mowa w ust. 1, nakłada sąd rejestrowy.
+zbycia akcji w liczbie powodującej osiągnięcie nie więcej niż 33% ogólnej liczby głosów
 
-**Art. 104c.** Kto uporczywie uchyla się od obowiązku sporządzenia lub zamieszczenia na stronie internetowej sprawozdania o wynagrodzeniach, o którym mowa w art. 90g ust. 1, polityki wynagrodzeń lub uchwały w sprawie polityki wynagrodzeń, o których mowa w art. 90d ust. 1, podlega grzywnie.
+- chyba że w tym terminie udział akcjonariusza w ogólnej liczbie głosów ulegnie zmniejszeniu do nie więcej niż 33% ogólnej liczby głosów, odpowiednio w wyniku podwyższenia kapitału zakładowego, zmiany statutu spółki lub wygaśnięcia uprzywilejowania jego akcji.
 
-**Art. 104d.** Kto, będąc odpowiedzialnym za informacje zawarte w polityce wynagrodzeń, o których mowa w art. 90d ust. 3–6, podaje nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tej polityki, podlega grzywnie.
+### 3.
 
-**Art. 104e.** Kto, będąc odpowiedzialnym za informacje zawarte w sprawozdaniu o wynagrodzeniach, o którym mowa w art. 90g, podaje nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tego sprawozdania, podlega grzywnie.
+Jeżeli przekroczenie 33% ogólnej liczby głosów nastąpiło w wyniku dziedziczenia, obowiązek, o którym mowa w ust. 2, ma zastosowanie w przypadku, gdy po takim nabyciu akcji udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu; termin wykonania tego obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące zwiększenie udziału w ogólnej liczbie głosów.
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących
+### Art. 74.
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+### 1.
 
-**Art. 128.**
+Przekroczenie 66% ogólnej liczby głosów w spółce publicznej może nastąpić, z zastrzeżeniem ust. 2, wyłącznie w wyniku ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki.
 
-1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy tej ustawy.
+### 2.
 
-2. Pozostają w mocy, z zastrzeżeniem ust. 3–5, skutki dopuszczenia papierów wartościowych do publicznego obrotu na podstawie ustawy z dnia 21 sierpnia 1997 r. – Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2005 r. poz. 937, 1108, 1199, 1362 i 1538).
+W przypadku gdy przekroczenie progu, o którym mowa w ust. 1, nastąpiło w wyniku nabycia akcji w ofercie publicznej lub w ramach wnoszenia ich do spółki jako wkładu niepieniężnego, połączenia lub podziału spółki, w wyniku zmiany statutu spółki, wygaśnięcia uprzywilejowania akcji lub zajścia innego niż czynność prawna zdarzenia prawnego, akcjonariusz jest obowiązany, w terminie trzech miesięcy od przekroczenia 66% ogólnej liczby głosów, do:
 
-3. Do prospektu emisyjnego:
+### 1)
 
-- **1)** obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy – stosuje się przepisy dotychczasowe;
-- **2)** dotyczącego programu obligacji w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy – stosuje się przepisy dotychczasowe w okresie do dnia upływu terminu ważności ostatniego, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy, prospektu danej emisji obligacji objętej danym programem obligacji;
-- **3)** dotyczącego programu obligacji w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, których emitentem jest:
-    - **a)** jednostka samorządu terytorialnego albo
-    - **b)** bank, jeżeli łączna wartość emisji tych obligacji, w okresie kolejnych 12 miesięcy, liczona według ceny emisyjnej, stanowi mniej niż 50 000 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia ceny emisyjnej tych obligacji – stosuje się przepisy dotychczasowe w okresie do dnia zakończenia ostatniej emisji obligacji w ramach danego programu obligacji;
+ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę wszystkich pozostałych akcji tej spółki albo
 
-- **4)** dotyczącego programu obligacji w innych przypadkach niż określone w pkt 3, albo programu listów zastawnych w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, których emitentem jest instytucja finansowa z siedzibą w państwie członkowskim – stosuje się przepisy dotychczasowe w okresie do dnia upływu terminu ważności ostatniego, udostępnionego do publicznej wiadomości przed dniem 31 grudnia 2008 r., prospektu danej emisji odpowiednio obligacji lub listów zastawnych, objętej programem obligacji albo programem listów zastawnych;
-- **5)** obejmującego papiery wartościowe, o których mowa w art. 7 ust. 3 pkt 6, dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, nieudostępnionego do publicznej wiadomości przed wejściem w życie niniejszej ustawy – stosuje się przepisy dotychczasowe.
+### 2)
 
-4. W przypadku gdy prospekt emisyjny obejmujący papiery wartościowe niebędące papierami wartościowymi, o których mowa w art. 7 ust. 3 pkt 6, dopuszczone do publicznego obrotu przed dniem 1 lipca 2005 r. na podstawie ustawy, o której mowa w ust. 2, nie został udostępniony do publicznej wiadomości przed dniem wejścia w życie ustawy – emitent lub wprowadzający jest obowiązany do sporządzenia prospektu emisyjnego, uzyskania jego zatwierdzenia oraz udostępnienia go do publicznej wiadomości, w trybie i na warunkach określonych w niniejszej ustawie, przed odpowiednio rozpoczęciem oferty publicznej lub uzyskaniem dopuszczenia do obrotu na rynku regulowanym.
+zbycia akcji w liczbie powodującej osiągnięcie nie więcej niż 66% ogólnej liczby głosów
 
-5. W przypadku gdy przed dniem wejścia w życie ustawy:
+- chyba że w tym terminie udział akcjonariusza w ogólnej liczbie głosów ulegnie zmniejszeniu do nie więcej niż 66% ogólnej liczby głosów, odpowiednio w wyniku podwyższenia kapitału zakładowego, zmiany statutu spółki lub wygaśnięcia uprzywilejowania jego akcji.
 
-- **1)** w stosunku do spółki będącej emitentem akcji dopuszczonych do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, uprawomocniło się postanowienie o ogłoszeniu upadłości obejmującej likwidację jej majątku lub postanowienie o oddaleniu wniosku o ogłoszenie tej upadłości ze względu na to, że majątek spółki nie wystarcza na zaspokojenie kosztów postępowania – skutek określony w art. 91 ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4–6 tego przepisu, z dniem wejścia w życie niniejszej ustawy, nie wcześniej jednak niż po upływie 6 miesięcy od dnia uprawomocnienia się postanowienia; do zniesienia dematerializacji akcji art. 91 ust. 9 zdanie drugie oraz ust. 10 i 11 stosuje się odpowiednio;
-- **2)** akcje dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, i objęte prospektem emisyjnym, który przed tym dniem utracił ważność, nie były przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym – skutek określony w art. 91 ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4– 6 tego przepisu, z dniem wejścia w życie niniejszej ustawy; do zniesienia dematerializacji akcji art. 91 ust. 9 zdanie drugie oraz ust. 10 i 11 stosuje się odpowiednio.
+### 3.
 
-6. Do dnia 31 grudnia 2008 r. prospekt emisyjny dotyczący programu obligacji albo programu listów zastawnych w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, których emitentem jest instytucja finansowa z siedzibą w państwie członkowskim, mających być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym wyłącznie na terytorium Rzeczypospolitej Polskiej, może być sporządzony, udostępniony do publicznej wiadomości i aktualizowany na podstawie przepisów dotychczasowych, według wyboru emitenta, przy czym udostępnienie do publicznej wiadomości ostatniego prospektu danej emisji odpowiednio obligacji lub listów zastawnych, objętej programem obligacji albo programem listów zastawnych, nie może nastąpić później niż w dniu 31 grudnia 2008 r.
+Akcjonariusz, który w okresie 6 miesięcy po przeprowadzeniu wezwania ogłoszonego zgodnie z ust. 1 nabył, po cenie wyższej niż cena określona w tym wezwaniu, kolejne akcje tej spółki, w inny sposób niż w ramach wezwań, jest obowiązany, w terminie miesiąca od tego nabycia, do zapłacenia różnicy ceny wszystkim osobom, które zbyły akcje w tym wezwaniu, z wyłączeniem osób, od których akcje zostały nabyte po cenie obniżonej w przypadku określonym w art. 79 ust. 4.
 
-7. W okresie dwóch lat od dnia wejścia w życie ustawy nie jest wymagane sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego w przypadku ubiegania się o dopuszczenie do obrotu na rynku giełdowym, niebędącym rynkiem oficjalnych notowań, akcji:
+### 4.
 
-- **1)** dopuszczonych od co najmniej 18 miesięcy do obrotu na rynku nieurzędowym pozagiełdowym w rozumieniu ustawy, o której mowa w ust. 2;
-- **2)** których emitent wypełnia obowiązki związane z dopuszczeniem do obrotu na rynku wskazanym w pkt 1. W takim przypadku emitent sporządza w języku polskim memorandum informacyjne, o którym mowa w art. 39 ust. 1, i udostępnia je do publicznej wiadomości w sposób, o którym mowa w art. 47 ust. 1.
+Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zwiększania w spółce publicznej stanu posiadania ogólnej liczby głosów przez podmioty określone w art. 79 ust. 2 pkt 1.
 
-8. Pozostają w mocy zgody i zezwolenia udzielone przez Komisję przed dniem wejścia ustawy w życie.
+### 5.
 
-9. Obowiązek ogłoszenia wezwania, o którym mowa w art. 74, ma zastosowanie również w przypadku przekraczania 66 % ogólnej liczby głosów przez osobę, która przed dniem wejścia w życie ustawy przekroczyła 50 % ogólnej liczby głosów.
+Jeżeli przekroczenie 66% ogólnej liczby głosów nastąpiło w wyniku dziedziczenia, obowiązek, o którym mowa w ust. 2, ma zastosowanie w przypadku, gdy po takim nabyciu akcji udział w ogólnej liczbie głosów uległ dalszemu zwiększeniu; termin wykonania tego obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące zwiększenie udziału w ogólnej liczbie głosów.
 
-10. W przypadku gdy przekroczenie progu ogólnej liczby głosów, które powoduje powstanie obowiązku wykupienia akcji, o którym mowa w art. 82 i 83, nastąpiło przed dniem wejścia w życie ustawy, obowiązek ten ma zastosowanie, o ile po tym dniu udział w ogólnej liczbie głosów ulegnie dalszemu zwiększeniu. W takim przypadku termin wykonania tego obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące zwiększenie udziału w ogólnej liczbie głosów.
+### Art. 75.
 
-**Art. 129.** W okresie siedmiu lat od dnia wejścia w życie niniejszej ustawy sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego nie jest wymagane w przypadku ofert publicznych prowadzonych przez Skarb Państwa:
+### 1.
 
-**Art. 130.** (pominięty)
+Obowiązki, o których mowa w art. 72, nie powstają w przypadku nabywania akcji w obrocie pierwotnym, w ramach wnoszenia ich do spółki jako wkładu niepieniężnego oraz w przypadku połączenia lub podziału spółki.
 
-**Art. 131.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+### 2.
 
+Obowiązki, o których mowa w art. 72 i 73, nie powstają w przypadku nabywania akcji od Skarbu Państwa:
+
+### 1)
+
+w wyniku pierwszej oferty publicznej;
+
+### 2)
+
+w okresie 3 lat od dnia zakończenia sprzedaży przez Skarb Państwa akcji w wyniku pierwszej oferty publicznej.
+
+### 3.
+
+Obowiązki, o których mowa w art. 72-74, nie powstają w przypadku nabywania akcji:
+
+### 1)
+
+wprowadzonych do alternatywnego systemu obrotu, które nie są przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym lub nie są dopuszczone do tego obrotu;
+
+### 2)
+
+od podmiotu wchodzącego w skład tej samej grupy kapitałowej;
+
+### 3)
+
+w trybie określonym przepisami prawa upadłościowego i naprawczego oraz w postępowaniu egzekucyjnym;
+
+### 4)
+
+zgodnie z umową o ustanowienie zabezpieczenia finansowego, zawartą przez uprawnione podmioty na warunkach określonych w ustawie z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych ([Dz. U. Nr 91, poz. 871](https://api.sejm.gov.pl/eli/acts/DU/2004/871/text.html) oraz z [2005 r. Nr 83, poz. 719](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.html) i [Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html));
+
+### 5)
+
+obciążonych zastawem w celu zaspokojenia zastawnika uprawnionego na podstawie innych ustaw do korzystania z trybu zaspokojenia polegającego na przejęciu na własność przedmiotu zastawu;
+
+### 6)
+
+w drodze dziedziczenia, z wyłączeniem przypadków, o których mowa w art. 73 ust. 3 i art. 74 ust. 5.
+
+### 4.
+
+Akcje obciążone zastawem, do chwili jego wygaśnięcia, nie mogą być przedmiotem obrotu, z wyjątkiem przypadku, gdy nabycie tych akcji następuje w wykonaniu umowy o ustanowienie zabezpieczenia finansowego w rozumieniu ustawy, o której mowa w ust. 3 pkt 4. Do akcji tych stosuje się tryb postępowania określony w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1 ustawy o obrocie instrumentami finansowymi.
+
+### Art. 76.
+
+### 1.
+
+W zamian za akcje będące przedmiotem wezwania do zapisywania się na zamianę akcji mogą być nabywane wyłącznie:
+
+### 1)
+
+zdematerializowane:
+
+### a)
+
+akcje innej spółki,
+
+### b)
+
+kwity depozytowe,
+
+### c)
+
+listy zastawne;
+
+### 2)
+
+obligacje emitowane przez Skarb Państwa.
+
+### 2.
+
+W przypadku gdy przedmiotem wezwania mają być wszystkie pozostałe akcje spółki, wezwanie musi przewidywać możliwość sprzedaży akcji przez podmiot zgłaszający się w odpowiedzi na to wezwanie, po cenie ustalonej zgodnie z art. 79 ust. 1-3.
+
+### Art. 77.
+
+### 1.
+
+Ogłoszenie wezwania następuje po ustanowieniu zabezpieczenia w wysokości nie mniejszej niż 100% wartości akcji, które mają być przedmiotem wezwania. Ustanowienie zabezpieczenia powinno być udokumentowane zaświadczeniem banku lub innej instytucji finansowej udzielającej zabezpieczenia lub pośredniczącej w jego udzieleniu.
+
+### 2.
+
+Wezwanie jest ogłaszane i przeprowadzane za pośrednictwem podmiotu prowadzącego działalność maklerską na terytorium Rzeczypospolitej Polskiej, który jest obowiązany - nie później niż na 7 dni roboczych przed dniem rozpoczęcia przyjmowania zapisów - do równoczesnego zawiadomienia o zamiarze jego ogłoszenia Komisji oraz spółki prowadzącej rynek regulowany, na którym notowane są dane akcje. Podmiot ten załącza do zawiadomienia treść wezwania.
+
+### 3.
+
+Odstąpienie od ogłoszonego wezwania jest niedopuszczalne, chyba że po jego ogłoszeniu inny podmiot ogłosił wezwanie dotyczące tych samych akcji. Odstąpienie od wezwania ogłoszonego na wszystkie pozostałe akcje tej spółki jest dopuszczalne jedynie wtedy, gdy inny podmiot ogłosił wezwanie na wszystkie pozostałe akcje tej spółki po cenie nie niższej niż w tym wezwaniu.
+
+### 4.
+
+W okresie między dokonaniem zawiadomienia, o którym mowa w ust. 2, a zakończeniem wezwania, podmiot obowiązany do ogłoszenia wezwania oraz podmioty, o których mowa w art. 79 ust. 2 pkt 1:
+
+### 1)
+
+mogą nabywać akcje spółki, której dotyczy wezwanie, jedynie w ramach tego wezwania i w sposób w nim określony;
+
+### 2)
+
+nie mogą zbywać akcji spółki, której dotyczy wezwanie, ani zawierać umów, z których mógłby wynikać obowiązek zbycia przez nie tych akcji, w czasie trwania wezwania.
+
+### 5.
+
+Po ogłoszeniu wezwania, podmiot obowiązany do ogłoszenia wezwania oraz zarząd spółki, której akcji wezwanie dotyczy, przekazują informację o tym wezwaniu, wraz z jego treścią, odpowiednio przedstawicielom zakładowych organizacji zrzeszających pracowników spółki, a w przypadku braku takiej organizacji - bezpośrednio pracownikom.
+
+### Art. 78.
+
+### 1.
+
+Po otrzymaniu zawiadomienia, o którym mowa w art. 77 ust. 2, Komisja może, najpóźniej na 3 dni robocze przed dniem rozpoczęcia przyjmowania zapisów, zgłosić żądanie wprowadzenia niezbędnych zmian lub uzupełnień w treści wezwania albo przekazania wyjaśnień dotyczących jego treści, w terminie określonym w żądaniu, nie krótszym niż 2 dni.
+
+### 2.
+
+Rozpoczęcie przyjmowania zapisów w wezwaniu ulega wstrzymaniu do czasu dokonania czynności wskazanych w żądaniu, o którym mowa w ust. 1, przez podmiot obowiązany do ogłoszenia wezwania.
+
+### Art. 79.
+
+### 1.
+
+Cena akcji proponowana w wezwaniu, o którym mowa w art. 72-74:
+
+### 1)
+
+w przypadku gdy którekolwiek z akcji spółki są przedmiotem obrotu na rynku regulowanym, nie może być niższa od:
+
+### a)
+
+średniej ceny rynkowej z okresu 6 miesięcy poprzedzających ogłoszenie wezwania, w czasie których dokonywany był obrót tymi akcjami na rynku głównym, albo
+
+### b)
+
+średniej ceny rynkowej z krótszego okresu - jeżeli obrót akcjami spółki był dokonywany na rynku głównym przez okres krótszy niż określony w lit. a;
+
+### 2)
+
+w przypadku gdy nie jest możliwe ustalenie ceny zgodnie z pkt 1 albo w przypadku spółki, w stosunku do której otwarte zostało postępowanie układowe lub upadłościowe - nie może być niższa od ich wartości godziwej.
+
+### 2.
+
+Cena akcji proponowana w wezwaniach, o których mowa w art. 72-74, nie może być również niższa od:
+
+### 1)
+
+najwyższej ceny, jaką za akcje będące przedmiotem wezwania podmiot obowiązany do jego ogłoszenia, podmioty od niego zależne lub wobec niego dominujące, lub podmioty będące stronami zawartego z nim porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, zapłaciły w okresie 12 miesięcy przed ogłoszeniem wezwania, albo
+
+### 2)
+
+najwyższej wartości rzeczy lub praw, które podmiot obowiązany do ogłoszenia wezwania lub podmioty, o których mowa w pkt 1, wydały w zamian za akcje będące przedmiotem wezwania, w okresie 12 miesięcy przed ogłoszeniem wezwania.
+
+### 3.
+
+Cena akcji proponowana w wezwaniu, o którym mowa w art. 74, nie może być również niższa od średniej ceny rynkowej z okresu 3 miesięcy obrotu tymi akcjami na rynku regulowanym poprzedzających ogłoszenie wezwania.
+
+### 4.
+
+Cena proponowana w wezwaniu, o którym mowa w art. 72-74, może być niższa od ceny ustalonej zgodnie z ust. 1 i 2, w odniesieniu do akcji stanowiących co najmniej 5% wszystkich akcji spółki, które będą nabyte w wezwaniu od oznaczonej osoby zgłaszającej się na wezwanie, jeżeli podmiot obowiązany do ogłoszenia wezwania i ta osoba tak postanowiły.
+
+### 5.
+
+Za cenę proponowaną w wezwaniu na zamianę akcji uważa się wartość zdematerializowanych akcji innej spółki, których własność zostanie przeniesiona w zamian za akcje będące przedmiotem wezwania.
+
+### 6.
+
+Wartość akcji zdematerializowanych, o których mowa w ust. 5, ustala się:
+
+### 1)
+
+w przypadku akcji będących przedmiotem obrotu na rynku regulowanym:
+
+### a)
+
+według średniej ceny rynkowej z okresu 6 miesięcy obrotu tymi akcjami na rynku regulowanym poprzedzających ogłoszenie wezwania albo
+
+### b)
+
+według średniej ceny z krótszego okresu - jeżeli obrót akcjami był dokonywany na rynku regulowanym przez okres krótszy niż określony w lit. a;
+
+### 2)
+
+w przypadku gdy nie jest możliwe ustalenie wartości akcji zgodnie z pkt 1 albo w przypadku spółki, w stosunku do której otwarte zostało postępowanie układowe lub upadłościowe - według ich wartości godziwej.
+
+### 7.
+
+Za średnią cenę rynkową, o której mowa w ust. 1 pkt 1, ust. 3 i ust. 6 pkt 1, uważa się cenę będącą średnią arytmetyczną ze średnich, dziennych cen ważonych wolumenem obrotu.
+
+### 8.
+
+Przepisy ust. 1-7 stosuje się odpowiednio do papierów wartościowych, o których mowa w art. 76 ust. 1 pkt 1 lit. b i c oraz pkt 2, nabywanych w zamian za akcje będące przedmiotem wezwania do zapisywania się na zamianę akcji.
+
+### 9.
+
+Rynkiem głównym, o którym mowa w ust. 1 pkt 1 lit. a i b, jest rynek giełdowy albo pozagiełdowy, na którym notowany jest dany instrument finansowy, a w przypadku gdy dany instrument finansowy jest notowany na kilku rynkach objętych definicją rynku regulowanego:
+
+### 1)
+
+rynek, na którym wartość obrotu danym instrumentem finansowym w roku kalendarzowym poprzedzającym rok, w którym ustalany jest rynek główny, była największa, albo
+
+### 2)
+
+w przypadku gdy rozpoczęcie obrotu na rynku regulowanym nastąpiło w roku, w którym ustalany jest rynek główny - rynek, na którym wcześniej rozpoczęto notowania danego instrumentu finansowego.
+
+### Art. 80.
+
+### 1.
+
+Spółka, której akcje objęte są wezwaniem, o którym mowa w art. 72-74, jest obowiązana, nie później niż na 2 dni robocze przed dniem rozpoczęcia przyjmowania zapisów, przekazać w trybie określonym w art. 56 ust. 1 stanowisko zarządu spółki dotyczące ogłoszonego wezwania. Stanowisko zarządu spółki przedstawiane jest równocześnie przedstawicielom zakładowych organizacji zrzeszających pracowników spółki, a w przypadku braku takiej organizacji - bezpośrednio pracownikom.
+
+### 2.
+
+Stanowisko zarządu spółki, oparte na informacjach podanych przez podmiot obowiązany do ogłoszenia wezwania w treści tego wezwania, zawiera w szczególności opinię dotyczącą wpływu wezwania na interes spółki, w tym zatrudnienie w spółce, strategicznych planów tego podmiotu wobec spółki i ich prawdopodobnego wpływu na zatrudnienie w spółce oraz na lokalizację prowadzenia jej działalności, jak również stwierdzenie, czy zdaniem zarządu cena proponowana w wezwaniu odpowiada wartości godziwej spółki, przy czym dotychczasowe notowania giełdowe nie mogą być jedynym miernikiem tej wartości.
+
+### 3.
+
+W przypadku zasięgnięcia opinii zewnętrznego podmiotu (biegłego) na temat ceny akcji w wezwaniu, jak również w przypadku uzyskania opinii działających w spółce organizacji, o których mowa w ust. 1, spółka przekazuje również te opinie w trybie określonym w art. 56 ust. 1.
+
+### Art. 81.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wzory wezwań, o których mowa w art. 72-74 oraz art. 91 ust. 6, warunki nabywania akcji w wezwaniach oraz szczegółowy sposób ich ogłaszania. Rozporządzenie powinno określać taką treść wezwań, która, w zależności od charakteru i celu wezwania, daje możliwość właściwej oceny warunków transakcji oraz kształtować warunki nabywania akcji w wezwaniach przy zapewnieniu zrównania uprawnień podmiotów odpowiadających na te wezwania.
+
+### Oddział 3 Szczególne uprawnienia i obowiązki akcjonariuszy spółki publicznej
+
+### Art. 82.
+
+### 1.
+
+Akcjonariuszowi spółki publicznej, który samodzielnie lub wspólnie z podmiotami od niego zależnymi lub wobec niego dominującymi oraz podmiotami będącymi stronami zawartego z nim porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, osiągnął lub przekroczył 90% ogólnej liczby głosów w tej spółce, przysługuje prawo żądania od pozostałych akcjonariuszy sprzedaży wszystkich posiadanych przez nich akcji (przymusowy wykup).
+
+### 2.
+
+Cenę przymusowego wykupu ustala się zgodnie z art. 79 ust. 1-3.
+
+### 3.
+
+Nabycie akcji w wyniku przymusowego wykupu następuje bez zgody akcjonariusza, do którego skierowane jest żądanie wykupu.
+
+### 4.
+
+Ogłoszenie żądania sprzedaży akcji w ramach przymusowego wykupu następuje po ustanowieniu zabezpieczenia w wysokości nie mniejszej niż 100% wartości akcji, które mają być przedmiotem przymusowego wykupu. Ustanowienie zabezpieczenia powinno być udokumentowane zaświadczeniem banku lub innej instytucji finansowej udzielającej zabezpieczenia lub pośredniczącej w jego udzieleniu.
+
+### 5.
+
+Przymusowy wykup jest ogłaszany i przeprowadzany za pośrednictwem podmiotu prowadzącego działalność maklerską na terytorium Rzeczypospolitej Polskiej, który jest obowiązany - nie później niż na 14 dni roboczych przed rozpoczęciem przymusowego wykupu - do równoczesnego zawiadomienia o zamiarze jego ogłoszenia Komisji oraz spółki prowadzącej rynek regulowany, na którym notowane są dane akcje, a jeżeli akcje spółki notowane są na kilku rynkach regulowanych - wszystkie te spółki. Podmiot ten załącza do zawiadomienia informacje na temat przymusowego wykupu.
+
+### 6.
+
+Odstąpienie od ogłoszonego przymusowego wykupu jest niedopuszczalne.
+
+### 7.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowy sposób ogłaszania informacji o zamiarze nabycia akcji w drodze przymusowego wykupu i szczegółowe warunki nabywania akcji, uwzględniając konieczność zapewnienia zbywcom możliwości właściwej oceny warunków nabywania akcji w drodze przymusowego wykupu oraz konieczność ukształtowania tych warunków przy zapewnieniu zrównania uprawnień zbywców akcji.
+
+### Art. 83.
+
+### 1.
+
+Akcjonariusz spółki publicznej może zażądać wykupienia posiadanych przez niego akcji przez innego akcjonariusza, który osiągnął lub przekroczył 90% ogólnej liczby głosów w tej spółce. Żądanie składa się na piśmie.
+
+### 2.
+
+Żądaniu, o którym mowa w ust. 1, są obowiązani zadośćuczynić solidarnie akcjonariusz, który osiągnął lub przekroczył 90% ogólnej liczby głosów, jak również podmioty wobec niego zależne i dominujące, w terminie 30 dni od dnia jego zgłoszenia.
+
+### 3.
+
+Obowiązek nabycia akcji od akcjonariusza spoczywa również solidarnie na każdej ze stron porozumienia, o którym mowa w art. 87 ust. 1 pkt 5, o ile członkowie tego porozumienia posiadają wspólnie, wraz z podmiotami dominującymi i zależnymi, co najmniej 90% ogólnej liczby głosów.
+
+### 4.
+
+Akcjonariusz żądający wykupienia akcji na zasadach, o których mowa w ust. 1-3, uprawniony jest do otrzymania ceny nie niższej niż określona zgodnie z art. 79 ust. 1-3.
+
+### Art. 84.
+
+### 1.
+
+Na wniosek akcjonariusza lub akcjonariuszy spółki publicznej, posiadających co najmniej 5% ogólnej liczby głosów, walne zgromadzenie może podjąć uchwałę w sprawie zbadania przez biegłego, na koszt spółki, określonego zagadnienia związanego z utworzeniem spółki lub prowadzeniem jej spraw (rewident do spraw szczególnych). Akcjonariusze ci mogą w tym celu żądać zwołania nadzwyczajnego walnego zgromadzenia lub żądać umieszczenia sprawy podjęcia tej uchwały w porządku obrad najbliższego walnego zgromadzenia. Art. 400 i 401 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych stosuje się odpowiednio.
+
+### 2.
+
+Rewidentem do spraw szczególnych może być wyłącznie podmiot posiadający wiedzę fachową i kwalifikacje niezbędne do zbadania sprawy określonej w uchwale walnego zgromadzenia, które zapewnią sporządzenie rzetelnego i obiektywnego sprawozdania z badania, z zastrzeżeniem ust. 3.
+
+### 3.
+
+Rewidentem do spraw szczególnych nie może być podmiot świadczący w okresie objętym badaniem, o którym mowa w ust. 1, usługi na rzecz spółki publicznej, o której mowa w ust. 1, jej podmiotu dominującego lub zależnego, jak również jej jednostki dominującej lub znaczącego inwestora w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości. Rewidentem do spraw szczególnych nie może być również podmiot, który należy do tej samej grupy kapitałowej co podmiot, który świadczył usługi, o których mowa powyżej.
+
+### 4.
+
+Uchwała walnego zgromadzenia, o której mowa w ust. 1, powinna określać w szczególności:
+
+### 1)
+
+oznaczenie rewidenta do spraw szczególnych, na którego wnioskodawca wyraził zgodę na piśmie;
+
+### 2)
+
+przedmiot i zakres badania, zgodny z treścią wniosku, chyba że wnioskodawca wyraził na piśmie zgodę na ich zmianę;
+
+### 3)
+
+rodzaje dokumentów, które spółka powinna udostępnić biegłemu;
+
+### 4)
+
+termin rozpoczęcia badania, nie dłuższy niż 3 miesiące od dnia podjęcia uchwały.
+
+### 5.
+
+Przed podjęciem uchwały zarząd spółki publicznej przedstawia walnemu zgromadzeniu pisemną opinię dotyczącą zgłoszonego wniosku.
+
+### 6.
+
+Uchwała walnego zgromadzenia, o której mowa w ust. 1, powinna zostać podjęta na walnym zgromadzeniu, którego porządek obrad obejmuje rozpatrzenie wniosku w sprawie tej uchwały.
+
+### Art. 85.
+
+### 1.
+
+Jeżeli walne zgromadzenie nie podejmie uchwały zgodnej z treścią wniosku, o którym mowa w art. 84 ust. 1, albo podejmie taką uchwałę z naruszeniem art. 84 ust. 4, wnioskodawcy mogą, w terminie 14 dni od dnia podjęcia uchwały, wystąpić do sądu rejestrowego o wyznaczenie wskazanego podmiotu jako rewidenta do spraw szczególnych. Przepisy art. 312 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych stosuje się odpowiednio.
+
+### 2.
+
+Sąd rejestrowy może, na wniosek zarządu spółki publicznej, uzależnić wydanie postanowienia o wyznaczeniu rewidenta do spraw szczególnych od złożenia przez wnioskodawców stosownego zabezpieczenia. W razie gdy badanie nie wykaże naruszeń prawa, sąd rejestrowy na wniosek zarządu spółki może postanowić o przepadku zabezpieczenia na rzecz spółki. Na postanowienie sądu w sprawie przepadku zabezpieczenia służy zażalenie.
+
+### 3.
+
+Przed wydaniem postanowienia o wyznaczeniu rewidenta do spraw szczególnych, sąd rejestrowy wezwie zarząd i radę nadzorczą spółki do zajęcia stanowiska w sprawie w terminie 7 dni od dnia otrzymania wezwania. Nieudzielenie odpowiedzi w tym terminie nie wstrzymuje wydania postanowienia.
+
+### 4.
+
+Sąd odmówi wyznaczenia rewidenta do spraw szczególnych, jeżeli wybór podmiotu wskazanego przez wnioskodawcę naruszy wymogi określone w art. 84 ust. 2 lub 3. Odmowa wyznaczenia rewidenta do spraw szczególnych może nastąpić również w przypadku, gdy z innych przyczyn wybór ten nie zapewni sporządzenia rzetelnego i obiektywnego sprawozdania z badania.
+
+### 5.
+
+Na postanowienie sądu o odmowie wyznaczenia rewidenta do spraw szczególnych służy zażalenie.
+
+### 6.
+
+Rewident do spraw szczególnych wyznaczony przez sąd przeprowadza badanie na koszt spółki.
+
+### Art. 86.
+
+### 1.
+
+Zarząd i rada nadzorcza spółki publicznej są obowiązane udostępnić rewidentowi do spraw szczególnych dokumenty określone w uchwale walnego zgromadzenia, o której mowa w art. 84 ust. 1, albo w postanowieniu sądu o wyznaczeniu rewidenta do spraw szczególnych, a także udzielić wyjaśnień niezbędnych dla przeprowadzenia badania.
+
+### 2.
+
+Rewident do spraw szczególnych jest obowiązany przedstawić zarządowi i radzie nadzorczej spółki pisemne sprawozdanie z wyników badania. Zarząd jest obowiązany przekazać to sprawozdanie w trybie określonym w art. 56 ust. 1. Sprawozdanie rewidenta do spraw szczególnych nie może ujawniać informacji stanowiących tajemnicę techniczną, handlową lub organizacyjną spółki, chyba że jest to niezbędne do uzasadnienia stanowiska zawartego w tym sprawozdaniu.
+
+### 3.
+
+Zarząd składa sprawozdanie ze sposobu uwzględnienia wyników badania na najbliższym walnym zgromadzeniu.
+
+### 4.
+
+Na żądanie Komisji lub jej upoważnionego przedstawiciela rewident do spraw szczególnych jest obowiązany do niezwłocznego sporządzenia i przekazania, na własny koszt, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień - w zakresie dotyczącym czynności podejmowanych w związku z badaniem przeprowadzonym przez rewidenta do spraw szczególnych. Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 4a ustawy z dnia 13 października 1994 r. o biegłych rewidentach i ich samorządzie.
+
+### Oddział 4 Przepisy szczególne
+
+### Art. 87.
+
+### 1.
+
+Z zastrzeżeniem wyjątków przewidzianych w przepisach niniejszego rozdziału, obowiązki w nim określone spoczywają:
+
+### 1)
+
+również na podmiocie, który osiągnął lub przekroczył określony w ustawie próg ogólnej liczby głosów w związku z:
+
+### a)
+
+zajściem innego niż czynność prawna zdarzenia prawnego,
+
+### b)
+
+nabywaniem lub zbywaniem obligacji zamiennych na akcje spółki publicznej, kwitów depozytowych wystawionych w związku z akcjami takiej spółki, jak również innych papierów wartościowych, z których wynika prawo lub obowiązek nabycia jej akcji,
+
+### c)
+
+uzyskaniem statusu podmiotu dominującego w spółce kapitałowej lub innej osobie prawnej posiadającej akcje spółki publicznej, lub w innej spółce kapitałowej bądź innej osobie prawnej będącej wobec niej podmiotem dominującym,
+
+### d)
+
+dokonywaniem czynności prawnej przez jego podmiot zależny lub zajściem innego zdarzenia prawnego dotyczącego tego podmiotu zależnego;
+
+### 2)
+
+na funduszu inwestycyjnym - również w przypadku, gdy osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji łącznie przez:
+
+### a)
+
+inne fundusze inwestycyjne zarządzane przez to samo towarzystwo funduszy inwestycyjnych,
+
+### b)
+
+inne fundusze inwestycyjne utworzone poza terytorium Rzeczypospolitej Polskiej, zarządzane przez ten sam podmiot;
+
+### 3)
+
+również na podmiocie, w przypadku którego osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach następuje w związku z posiadaniem akcji:
+
+### a)
+
+przez osobę trzecią w imieniu własnym, lecz na zlecenie lub na rzecz tego podmiotu, z wyłączeniem akcji nabytych w ramach wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 2 ustawy o obrocie instrumentami finansowymi,
+
+### b)
+
+w ramach wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 4 ustawy o obrocie instrumentami finansowymi - w zakresie akcji wchodzących w skład zarządzanych portfeli papierów wartościowych, z których podmiot ten, jako zarządzający, może w imieniu zleceniodawców wykonywać prawo głosu na walnym zgromadzeniu,
+
+### c)
+
+przez osobę trzecią, z którą ten podmiot zawarł umowę, której przedmiotem jest przekazanie uprawnienia do wykonywania prawa głosu;
+
+### 4)
+
+również na podmiocie prowadzącym na terytorium Rzeczypospolitej Polskiej działalność maklerską, który w ramach reprezentowania posiadaczy papierów wartościowych wobec emitentów tych papierów wykonuje, na zlecenie osoby trzeciej, prawo głosu z akcji spółki publicznej, jeżeli osoba ta nie wydała wiążącej dyspozycji co do sposobu głosowania;
+
+### 5)
+
+również łącznie na wszystkich podmiotach, które łączy pisemne lub ustne porozumienie dotyczące nabywania przez te podmioty akcji spółki publicznej lub zgodnego głosowania na walnym zgromadzeniu dotyczącego istotnych spraw spółki, chociażby tylko jeden z tych podmiotów podjął lub zamierzał podjąć czynności powodujące powstanie tych obowiązków;
+
+### 6)
+
+na podmiotach, które zawierają porozumienie, o którym mowa w pkt 5, posiadając akcje spółki publicznej, w liczbie zapewniającej łącznie osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów określonego w tych przepisach.
+
+### 2.
+
+Obowiązki określone w przepisach niniejszego rozdziału powstają również w przypadku, gdy prawa głosu są związane z:
+
+### 1)
+
+papierami wartościowymi stanowiącymi przedmiot zabezpieczenia; nie dotyczy to sytuacji, gdy podmiot, na rzecz którego ustanowiono zabezpieczenie, ma prawo wykonywać prawo głosu i deklaruje zamiar wykonywania tego prawa - w takim przypadku prawa głosu uważa się za należące do podmiotu, na rzecz którego ustanowiono zabezpieczenie;
+
+### 2)
+
+akcjami, z których prawa przysługują danemu podmiotowi osobiście i dożywotnio;
+
+### 3)
+
+papierami wartościowymi zdeponowanymi lub zarejestrowanymi w podmiocie, który może nimi rozporządzać według własnego uznania.
+
+### 3.
+
+W przypadkach, o których mowa w ust. 1 pkt 5 i 6, obowiązki określone w tym rozdziale mogą być wykonywane przez jedną ze stron porozumienia, wskazaną przez strony porozumienia.
+
+### 4.
+
+Istnienie porozumienia, o którym mowa w ust. 1 pkt 5, domniemywa się w przypadku podejmowania czynności określonych w tym przepisie przez:
+
+### 1)
+
+małżonków, ich wstępnych, zstępnych i rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki i kurateli;
+
+### 2)
+
+osoby pozostające we wspólnym gospodarstwie domowym;
+
+### 3)
+
+mocodawcę lub jego pełnomocnika, niebędącego firmą inwestycyjną, upoważnionego do dokonywania na rachunku papierów wartościowych czynności zbycia lub nabycia papierów wartościowych;
+
+### 4)
+
+jednostki powiązane w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości.
+
+### 5.
+
+Do liczby głosów, która powoduje powstanie obowiązków określonych w przepisach niniejszego rozdziału:
+
+### 1)
+
+po stronie podmiotu dominującego - wlicza się liczbę głosów posiadanych przez jego podmioty zależne;
+
+### 2)
+
+po stronie podmiotu prowadzącego na terytorium Rzeczypospolitej Polskiej działalność maklerską, który wykonuje czynności, o których mowa w ust. 1 pkt 4 - wlicza się liczbę głosów z akcji spółki objętych zleceniem udzielonym temu podmiotowi przez osobę trzecią;
+
+### 3)
+
+wlicza się liczbę głosów z wszystkich akcji, nawet jeżeli wykonywanie z nich prawa głosu jest ograniczone lub wyłączone z mocy statutu, umowy lub przepisu prawa.
+
+### Art. 88.
+
+### 1.
+
+Obligacje zamienne na akcje spółki publicznej oraz kwity depozytowe wystawione w związku z akcjami takiej spółki uważa się za papiery wartościowe, z którymi wiąże się taki udział w ogólnej liczbie głosów, jaką posiadacz tych papierów wartościowych może osiągnąć w wyniku zamiany na akcje.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do innych papierów wartościowych, z których wynika prawo lub obowiązek nabycia akcji spółki publicznej.
+
+### Art. 89.
+
+### 1.
+
+Akcjonariusz nie może wykonywać prawa głosu z:
+
+### 1)
+
+akcji spółki publicznej będących przedmiotem czynności prawnej lub innego zdarzenia prawnego powodującego osiągnięcie lub przekroczenie danego progu ogólnej liczby głosów, jeżeli osiągnięcie lub przekroczenie tego progu nastąpiło z naruszeniem obowiązków określonych odpowiednio w art. 69, art. 72 ust. 1 lub art. 73 ust. 1;
+
+### 2)
+
+wszystkich akcji spółki publicznej, jeżeli przekroczenie progu 66% ogólnej liczby głosów nastąpiło z naruszeniem obowiązków określonych w art. 74 ust. 1;
+
+### 3)
+
+akcji spółki publicznej, nabytych w wezwaniu po cenie ustalonej z naruszeniem art. 79.
+
+### 2.
+
+Podmiot, którego udział w ogólnej liczbie głosów powodujący powstanie obowiązków, o których mowa odpowiednio w art. 72 ust. 1, art. 73 ust. 1 lub art. 74 ust. 1, uległ zmianie w wyniku zdarzeń, o których mowa odpowiednio w art. 72 ust. 2, art. 73 ust. 2 i 3 lub art. 74 ust. 2 i 3, nie może wykonywać prawa głosu z wszystkich akcji spółki publicznej do dnia wykonania obowiązków określonych w tych przepisach.
+
+### 3.
+
+Prawo głosu z akcji spółki publicznej wykonane wbrew zakazowi, o którym mowa w ust. 1 lub 2, nie jest uwzględniane przy obliczaniu wyniku głosowania nad uchwałą walnego zgromadzenia, z zastrzeżeniem przepisów innych ustaw.
+
+### Art. 90.
+
+### 1.
+
+Przepisów niniejszego rozdziału, z wyjątkiem art. 69 i 70, oraz art. 89 w zakresie dotyczącym art. 69, nie stosuje się w przypadku nabywania akcji:
+
+### 1)
+
+w trybie i na warunkach określonych w przepisach wydanych na podstawie art. 94 ust. 1 pkt 3 ustawy o obrocie instrumentami finansowymi;
+
+### 2)
+
+przez firmę inwestycyjną, w celu realizacji określonych regulaminami, o których mowa odpowiednio w art. 28 ust. 1 i art. 37 ust. 1 ustawy o obrocie instrumentami finansowymi, zadań związanych z organizacją rynku regulowanego;
+
+### 3)
+
+w ramach systemu zabezpieczania płynności rozliczania transakcji, na zasadach określonych przez Krajowy Depozyt w regulaminie, o którym mowa w art. 50 ustawy o obrocie instrumentami finansowymi.
+
+### 2.
+
+Przepisów niniejszego rozdziału, z wyjątkiem art. 69, art. 70 oraz art. 87 ust. 1 pkt 6 i art. 89 ust. 1 pkt 1 - w zakresie dotyczącym art. 69, nie stosuje się również w przypadku porozumień, o których mowa w art. 87 ust. 1 pkt 5, zawieranych dla ochrony praw akcjonariuszy mniejszościowych, w celu wspólnego wykonywania przez nich uprawnień określonych w art. 84 i 85 oraz w art. 385 § 3, art. 400 § 1, art. 422, 425, art. 429 § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych.
+
+### Rozdział 5 Zniesienie dematerializacji akcji
+
+### Art. 91.
+
+### 1.
+
+Komisja, na wniosek emitenta z siedzibą na terytorium Rzeczypospolitej Polskiej, udziela zezwolenia na przywrócenie akcjom formy dokumentu (zniesienie dematerializacji akcji), jeżeli zostały spełnione warunki określone w ust. 5-8.
+
+### 2.
+
+Udzielenie zezwolenia wywołuje skutek prawny zaprzestania podlegania obowiązkom wynikającym z ustawy, powstałym w związku z ofertą publiczną akcji lub dopuszczeniem ich do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej. W decyzji udzielającej zezwolenia Komisja określa termin, nie dłuższy niż miesiąc, po upływie którego skutek ten następuje.
+
+### 3.
+
+Zniesienie dematerializacji akcji na podstawie zezwolenia, o którym mowa w ust. 1, następuje nie wcześniej niż z dniem upływu terminu, o którym mowa w ust. 2.
+
+### 4.
+
+Złożenie wniosku, o którym mowa w ust. 1, jest dopuszczalne, jeżeli walne zgromadzenie spółki, większością 4/5 głosów oddanych w obecności akcjonariuszy reprezentujących przynajmniej połowę kapitału zakładowego, podjęto uchwałę o zniesieniu dematerializacji akcji. Do wniosku należy dołączyć odpis uchwały.
+
+### 5.
+
+Umieszczenie w porządku obrad walnego zgromadzenia sprawy podjęcia uchwały, o której mowa w ust. 4, może być dokonane wyłącznie w trybie określonym w art. 400 § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych. Przepisu § 2 tego artykułu nie stosuje się.
+
+### 6.
+
+Akcjonariusz lub akcjonariusze żądający umieszczenia w porządku obrad sprawy podjęcia uchwały, o której mowa w ust. 4, są obowiązani do uprzedniego ogłoszenia wezwania do zapisywania się na sprzedaż akcji tej spółki przez wszystkich pozostałych akcjonariuszy. Do wezwania stosuje się odpowiednio przepisy art. 77-79.
+
+### 7.
+
+Akcjonariusz lub akcjonariusze żądający umieszczenia w porządku obrad walnego zgromadzenia spółki sprawy podjęcia uchwały, o której mowa w ust. 4, mogą nabywać akcje tej spółki w okresie między zgłoszeniem żądania a zakończeniem wezwania, o którym mowa w ust. 6, jedynie w drodze tego wezwania.
+
+### 8.
+
+Obowiązek ogłoszenia wezwania, o którym mowa w ust. 6, nie powstaje w przypadku, gdy z wnioskiem o umieszczenie w porządku obrad walnego zgromadzenia sprawy podjęcia uchwały, o której mowa w ust. 4, występują wszyscy akcjonariusze spółki.
+
+### 9.
+
+Skutek określony w ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4-6, po upływie 6 miesięcy od dnia uprawomocnienia się postanowienia o ogłoszeniu upadłości tej spółki, obejmującej likwidację jej majątku, lub postanowienia o oddaleniu wniosku o ogłoszenie tej upadłości ze względu na to, że majątek spółki nie wystarcza na zaspokojenie kosztów postępowania. Zniesienie dematerializacji akcji następuje nie wcześniej niż z dniem upływu tego terminu.
+
+### 10.
+
+Wycofanie akcji z obrotu na rynku regulowanym następuje w terminie, o którym mowa odpowiednio w ust. 2 lub 9.
+
+### 11.
+
+W przypadku udzielenia przez Komisję zezwolenia, o którym mowa w ust. 1, lub uprawomocnienia się postanowienia, o którym mowa w ust. 9, uczestnicy Krajowego Depozytu są obowiązani przekazać spółce, w terminie wskazanym przez Krajowy Depozyt, dane osobowe akcjonariuszy, ze wskazaniem liczby akcji zapisanych na ich rachunkach papierów wartościowych według stanu odpowiednio na dzień, w którym upłynął termin, o którym mowa w ust. 2 lub 9.
+
+### Art. 92.
+
+Zniesienia dematerializacji akcji w trybie i na warunkach określonych w art. 91 wymaga:
+
+### 1)
+
+przekształcenie spółki z siedzibą na terytorium Rzeczypospolitej Polskiej, której akcje były przedmiotem oferty publicznej lub są dopuszczone do obrotu na rynku regulowanym, w inną spółkę niż akcyjna;
+
+### 2)
+
+połączenie spółki z siedzibą na terytorium Rzeczypospolitej Polskiej, której akcje były przedmiotem oferty publicznej lub są dopuszczone do obrotu na rynku regulowanym, z inną spółką lub podział takiej spółki - w przypadku gdy akcje spółki lub spółek nowo zawiązanych lub przejmujących nie są zdematerializowane;
+
+### 3)
+
+wycofanie z obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej akcji spółki publicznej dopuszczonych do tego obrotu, które są jednocześnie przedmiotem obrotu na rynku regulowanym w innym państwie, z tym że obowiązek ogłoszenia wezwania dotyczy akcji tej spółki, które zostały nabyte w wyniku transakcji zawartych w obrocie na rynku regulowanym na terytorium Rzeczypospolitej Polskiej i są zapisane na rachunkach papierów wartościowych prowadzonych na tym terytorium według stanu na koniec trzeciego dnia od dnia ogłoszenia tego wezwania.
+
+### Rozdział 6 Opłaty
+
+### Art. 93.
+
+Udzielenie zezwolenia lub zgody przewidzianych w ustawie podlega opłacie w wysokości nie większej niż równowartość w złotych 4 500 euro.
+
+### Art. 94.
+
+Z tytułu wpisu do ewidencji, o której mowa w art. 10, od emitenta, wprowadzającego lub podmiotu ubiegającego się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym lub wprowadzenie do alternatywnego systemu obrotu pobiera się opłatę ewidencyjną, naliczaną odrębnie od każdej emisji (serii) tych papierów lub instrumentów finansowych, w wysokości do:
+
+### 1)
+
+0,03% wartości papierów wartościowych danej emisji (serii) - w przypadku papierów wartościowych o charakterze nieudziałowym,
+
+### 2)
+
+0,06% wartości instrumentów finansowych danej emisji (serii) - w przypadku pozostałych instrumentów finansowych
+
+- ustalonej na dzień poprzedzający datę przekazania do Komisji informacji, o której mowa w art. 10 ust. 4, nie większej jednak niż równowartość w złotych 25 000 euro.
+
+### Art. 95.
+
+Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w art. 93 i 94, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym ([Dz. U. Nr 183, poz. 1537](https://api.sejm.gov.pl/eli/acts/DU/2005/1537/text.html)).
+
+### Rozdział 7 Sankcje administracyjne za naruszenie przepisów
+
+### Art. 96.
+
+### 1.
+
+W przypadku gdy emitent lub wprowadzający nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 14 ust. 2, art. 15 ust. 2, art. 37 ust. 4 i 5, art. 38 ust. 1 i 5, art. 39 ust. 1, art. 42 ust. 1 i 6, art. 44 ust. 1, art. 45, 46, art. 47 ust. 1, 2 i 4, art. 48, 50, art. 51 ust. 4, art. 52, art. 54 ust. 2 i 3, art. 56 i 57, art. 58 ust. 1, art. 59, art. 62 ust. 2, 5 i 6, art. 63 ust. 5 i 6, art. 64, 66 i 70, lub nie wykonuje albo wykonuje nienależycie obowiązki wynikające z art. 42 ust. 5 w związku z art. 45, 46, art. 47 ust. 1, 2 i 4, art. 51 ust. 4, art. 52, art. 54 ust. 2 i 3, nie wykonuje lub wykonuje nienależycie nakaz, o którym mowa w art. 16 pkt 1, narusza zakaz, o którym mowa w art. 16 pkt 2, lub nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 22 ust. 4 i 7, art. 26 ust. 5 i 7, art. 27, art. 29-31 i art. 33 rozporządzenia 809/2004, Komisja może:
+
+### 1)
+
+wydać decyzję o wykluczeniu, na czas określony lub bezterminowo, papierów wartościowych z obrotu na rynku regulowanym albo
+
+### 2)
+
+nałożyć, biorąc pod uwagę w szczególności sytuację finansową podmiotu, na który kara jest nakładana, karę pieniężną do wysokości 1 000 000 zł, albo
+
+### 3)
+
+zastosować obie sankcje łącznie.
+
+### 2.
+
+W przypadku naruszenia przez emitenta obowiązków, o których mowa w art. 56 ust. 1 pkt 2 lit. b, Komisja, przed wydaniem decyzji, o której mowa w ust. 1, zasięga opinii spółki prowadzącej rynek regulowany, na którym notowane są papiery wartościowe emitenta.
+
+### 3.
+
+W przypadku wydania decyzji stwierdzającej naruszenie obowiązków, o których mowa w ust. 1, Komisja może dodatkowo zobowiązać emitenta do niezwłocznego opublikowania wymaganych informacji w dwóch dziennikach ogólnopolskich lub przekazania ich do publicznej wiadomości w inny sposób.
+
+### 4.
+
+Umowy przeniesienia papierów wartościowych zawarte przed wydaniem decyzji, o której mowa w ust. 1 pkt 1, są ważne.
+
+### 5.
+
+W decyzji o wykluczeniu papierów wartościowych z obrotu na rynku regulowanym Komisja określa termin, nie krótszy niż 14 dni, po upływie którego skutek ten następuje. W przypadku bezterminowego wykluczenia papierów wartościowych z obrotu na rynku regulowanym, w terminie tym następuje wycofanie papierów wartościowych z tego obrotu; art. 91 ust. 11 stosuje się odpowiednio.
+
+### 6.
+
+Za rażące naruszenie obowiązków, o których mowa w ust. 1, Komisja może nakładać na członków zarządu spółki publicznej lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego kary pieniężne do wysokości trzykrotnego miesięcznego wynagrodzenia brutto tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące przed nałożeniem kary.
+
+### 7.
+
+Kara nie może być nałożona, jeżeli od wydania decyzji, o której mowa w ust. 1, upłynęło więcej niż 6 miesięcy.
+
+### 8.
+
+W przypadku emitenta będącego funduszem inwestycyjnym zamkniętym kara pieniężna nakładana jest na towarzystwo funduszy inwestycyjnych będące organem tego funduszu.
+
+### 9.
+
+Przepisy art. 19 stosuje się odpowiednio.
+
+### 10.
+
+Komisja może przekazać do publicznej wiadomości treść decyzji stwierdzającej niewywiązywanie się emitenta z obowiązków, o których mowa w ust. 1.
+
+### 11.
+
+Przekazanie przez Komisję do publicznej wiadomości informacji, o której mowa w ust. 10, nie narusza obowiązku zachowania tajemnicy zawodowej w rozumieniu ustawy o obrocie instrumentami finansowymi.
+
+### 12.
+
+Uprawnienia Komisji, wynikające z przepisów ust. 1-11, w zakresie dotyczącym art. 57 ust. 1 i 2, mają zastosowanie do:
+
+### 1)
+
+zdarzeń zaistniałych na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+zdarzeń zaistniałych na terytorium Rzeczypospolitej Polskiej dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium któregokolwiek z innych państw członkowskich.
+
+### 13.
+
+W przypadku gdy emitent lub wprowadzający nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 10 ust. 5 lub w art. 65 ust. 1, Komisja może nałożyć karę pieniężną do wysokości 100 000 zł. Przepisy ust. 6-11 stosuje się odpowiednio.
+
+### 14.
+
+W przypadku gdy podmiot ubiegający się o dopuszczenie do obrotu na rynku regulowanym instrumentów finansowych niebędących papierami wartościowymi nie wykonuje obowiązków, o których mowa w art. 44 ust. 2, Komisja może:
+
+### 1)
+
+wydać decyzję o wykluczeniu instrumentów finansowych, na czas określony lub bezterminowo, z obrotu na rynku regulowanym albo
+
+### 2)
+
+nałożyć karę pieniężną do wysokości 1 000 000 zł, albo
+
+### 3)
+
+zastosować obie sankcje łącznie.
+
+### 15.
+
+W przypadkach, o których mowa w ust. 14, przepisy ust. 4-7 oraz 10 i 11 stosuje się odpowiednio.
+
+### Art. 97.
+
+### 1.
+
+Na każdego kto:
+
+### 1)
+
+nabywa lub zbywa papiery wartościowe z naruszeniem zakazu, o którym mowa w art. 67,
+
+### 2)
+
+nie dokonuje w terminie zawiadomienia, o którym mowa w art. 69, lub dokonuje takiego zawiadomienia z naruszeniem warunków określonych w tych przepisach,
+
+### 3)
+
+przekracza określony próg ogólnej liczby głosów bez zachowania warunków, o których mowa w art. 72-74,
+
+### 4)
+
+nie zachowuje warunków, o których mowa w art. 76 lub 77,
+
+### 5)
+
+nie ogłasza lub nie przeprowadza w terminie wezwania albo nie zbywa w terminie akcji w przypadkach, o których mowa w art. 72 ust. 2, art. 73 ust. 2 i 3 oraz art. 74 ust. 2 i 5,
+
+### 6)
+
+podaje do publicznej wiadomości informację o zamiarze ogłoszenia wezwania przed przekazaniem informacji o tym w trybie, o którym mowa w art. 77 ust. 2,
+
+### 7)
+
+wbrew żądaniu, o którym mowa w art. 78, w określonym w nim terminie nie wprowadza niezbędnych zmian lub uzupełnień w treści wezwania albo nie przekazuje wyjaśnień dotyczących jego treści,
+
+### 8)
+
+nie dokonuje w terminie zapłaty różnicy w cenie akcji w przypadku określonym w art. 74 ust. 3,
+
+### 9)
+
+w wezwaniu, o którym mowa w art. 72-74 lub art. 91 ust. 6, proponuje cenę niższą niż określona na podstawie art. 79,
+
+### 10)
+
+nabywa akcje własne z naruszeniem trybu, terminów i warunków określonych w art. 72-74, art. 79 lub art. 91 ust. 6,
+
+### 11)
+
+wbrew obowiązkowi określonemu w art. 86 ust. 1 nie udostępnia dokumentów rewidentowi do spraw szczególnych lub nie udziela mu wyjaśnień,
+
+### 12)
+
+dopuszcza się czynu określonego w pkt 1-11, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej
+
+- Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+### 2.
+
+Kara pieniężna w wysokości, o której mowa w ust. 1, może zostać nałożona odrębnie za każdy z czynów określonych w tym przepisie.
+
+### 3.
+
+Kara pieniężna, o której mowa w ust. 1, może być nałożona odrębnie na każdy z podmiotów wchodzących w skład porozumienia, o którym mowa w art. 87 ust. 1 pkt 5.
+
+### 4.
+
+W decyzji, o której mowa w ust. 1, Komisja może wyznaczyć termin ponownego wykonania obowiązku lub dokonania czynności wymaganej przepisami, których naruszenie było podstawą nałożenia kary pieniężnej. W razie bezskutecznego upływu tego terminu Komisja może powtórnie wydać decyzję o nałożeniu kary pieniężnej. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+### 5.
+
+Wydanie decyzji następuje po przeprowadzeniu rozprawy.
+
+### Rozdział 8 Odpowiedzialność cywilna
+
+### Art. 98.
+
+### 1.
+
+Odpowiedzialność za szkodę wyrządzoną wskutek udostępnienia do publicznej wiadomości nieprawdziwej informacji lub przemilczenia informacji, która powinna być zawarta w dokumentach sporządzanych i udostępnianych w związku z ofertą publiczną dotyczącą papierów wartościowych, dopuszczeniem papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym lub ubieganiem się o takie dopuszczenie, a także informacji, o której mowa w art. 56 ust. 1 pkt 1, ponosi emitent, z wyjątkiem przypadku określonego w ust. 3, subemitent usługowy, podmiot udzielający zabezpieczenia, wprowadzający lub podmiot ubiegający się o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym, jak również osoby, które informację sporządziły lub w jej sporządzeniu brały udział, chyba że ani oni, ani osoby, za które odpowiadają, nie ponoszą winy, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Osoby sporządzające podsumowanie lub jego tłumaczenie ponoszą odpowiedzialność jedynie za szkodę wyrządzoną w przypadku, gdy podsumowanie lub tłumaczenie wprowadza w błąd, jest niedokładne lub sprzeczne z innymi częściami prospektu emisyjnego.
+
+### 3.
+
+W przypadku informacji dotyczących kwitów depozytowych, wystawionych na podstawie umowy z emitentem papierów wartościowych będących podstawą wystawienia tych kwitów, wystawianych na terytorium Rzeczypospolitej Polskiej, emitent kwitów depozytowych ponosi odpowiedzialność jedynie za szkodę wyrządzoną wskutek niepodania lub podania nieprawdziwych informacji dotyczących jego własnej sytuacji finansowej i prawnej. W pozostałym zakresie odpowiedzialność ponosi emitent papierów wartościowych będących podstawą wystawienia kwitów depozytowych. W tym zakresie wyłącza się odpowiedzialność instytucji finansowej, o której mowa w art. 3 pkt 30 ustawy o obrocie instrumentami finansowymi.
+
+### 4.
+
+W przypadku informacji dotyczących kwitów depozytowych innych niż określone w ust. 3, wystawianych na terytorium Rzeczypospolitej Polskiej, emitent tych kwitów ponosi odpowiedzialność jedynie za szkodę wyrządzoną wskutek niepodania lub podania nieprawdziwych informacji dotyczących jego własnej sytuacji finansowej i prawnej, jak również wynikłą wskutek niewłaściwego lub nieterminowego przekazania przezeń informacji udzielanych przez emitenta papierów wartościowych będących podstawą wystawienia tych kwitów na rynku regulowanym, na którym te papiery wartościowe są przedmiotem obrotu.
+
+### 5.
+
+Odpowiedzialność, o której mowa w ust. 1-4, ponoszą również osoby, które wykorzystują w swojej działalności w zakresie obrotu instrumentami finansowymi informacje wskazane w tych przepisach, chyba że nieprawdziwość lub przemilczenie informacji nie była i nie mogła być im znana.
+
+### 6.
+
+Odpowiedzialność osób określonych w ust. 1-5 jest solidarna i nie można jej ograniczyć lub wyłączyć z góry. Nie wyłącza to możliwości zawarcia umowy określającej wzajemne zobowiązania osób z tytułu tej odpowiedzialności.
+
+### 7.
+
+Odpowiedzialność za szkodę wyrządzoną wskutek podania nieprawidłowej informacji lub przemilczenia prawdziwej informacji, o której mowa w art. 56 ust. 1 pkt 2, ponosi emitent, jak również osoby, które taką informację sporządziły lub w jej sporządzeniu brały udział.
+
+### 8.
+
+Osoby, o których mowa w ust. 1-7, powinny przy wykonywaniu swoich obowiązków dołożyć staranności wynikającej z zawodowego charakteru swojej działalności.
+
+### Rozdział 9 Przepisy karne
+
+### Art. 99.
+
+### 1.
+
+Kto proponuje publicznie nabycie papierów wartościowych bez wymaganego ustawą zatwierdzenia prospektu emisyjnego, złożenia zawiadomienia obejmującego memorandum informacyjne albo udostępnienia takiego dokumentu do publicznej wiadomości lub do wiadomości zainteresowanych inwestorów, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+### 2.
+
+Tej samej karze podlega, kto proponuje publicznie nabycie papierów wartościowych objętych memorandum informacyjnym dotyczącym oferty publicznej, przed upływem terminu do zgłoszenia przez Komisję sprzeciwu dotyczącego zawiadomienia, o którym mowa w ust. 1, albo mimo zgłoszenia takiego sprzeciwu.
+
+### 3.
+
+W wypadku mniejszej wagi sprawca czynu określonego w ust. 1 lub 2 podlega grzywnie do 250 000 zł.
+
+### Art. 100.
+
+### 1.
+
+Kto, będąc odpowiedzialnym za informacje zawarte w prospekcie emisyjnym lub innych dokumentach informacyjnych albo inne informacje związane z ofertą publiczną lub dopuszczeniem lub ubieganiem się o dopuszczenie papierów wartościowych lub innych instrumentów finansowych do obrotu na rynku regulowanym, albo informacje, o których mowa w art. 51 ust. 1 i art. 56 ust. 1, albo informacje, których obowiązek przekazywania wynika z art. 42 ust. 5 w związku z art. 51 ust. 1, podaje nieprawdziwe lub zataja prawdziwe dane, w istotny sposób wpływające na treść informacji, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 5, albo obu tym karom łącznie.
+
+### 2.
+
+Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+### Art. 101.
+
+### 1.
+
+Kto, będąc odpowiedzialnym za informacje przekazywane do Komisji w związku z opóźnieniem przekazania informacji poufnej, o którym mowa w art. 57 ust. 1, podaje nieprawdziwe dane lub zataja prawdziwe dane, w sposób istotny wpływające na treść tej informacji, podlega grzywnie do 2 000 000 zł.
+
+### 2.
+
+Tej samej karze podlega, kto, będąc odpowiedzialnym za poprawność informacji przekazywanych do Komisji, w celu uzyskania zwolnienia emitenta z obowiązków przekazywania informacji do publicznej wiadomości, podaje nieprawdziwe dane lub zataja prawdziwe dane, w sposób istotny wpływające na treść wniosku, o którym mowa w art. 62 ust. 1.
+
+### Art. 102.
+
+### 1.
+
+Kto uniemożliwia albo utrudnia przeprowadzanie czynności, o których mowa w art. 68, podlega karze aresztu albo ograniczenia wolności albo karze grzywny.
+
+### 2.
+
+Orzekanie w sprawach określonych w ust. 1 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
+
+### Art. 103.
+
+### 1.
+
+Kto działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 51 ust. 1 lub wynikającemu z art. 42 ust. 5 w związku z art. 51 ust. 1, nie przekazuje aneksu do prospektu emisyjnego lub memorandum informacyjnego, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+### 2.
+
+Tej samej karze podlega, kto działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 51 ust. 1 lub wynikającemu z art. 42 ust. 5 w związku z art. 51 ust. 1, nie przekazuje w terminie aneksu do prospektu emisyjnego lub memorandum informacyjnego.
+
+### Art. 104.
+
+### 1.
+
+Kto działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 51 ust. 4 lub wynikającemu z art. 42 ust. 5 w związku z art. 51 ust. 4, nie udostępnia do publicznej wiadomości aneksu do prospektu emisyjnego lub memorandum informacyjnego, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+### 2.
+
+Tej samej karze podlega, kto działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, wbrew obowiązkowi, o którym mowa w art. 51 ust. 4 lub wynikającemu z art. 42 ust. 5 w związku z art. 51 ust. 4, nie udostępnia do publicznej wiadomości w terminie aneksu do prospektu emisyjnego lub memorandum informacyjnego.
+
+### Rozdział 10 Zmiany w przepisach obowiązujących
+
+### Art. 105.
+
+W ustawie z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw ([Dz. U. Nr 18, poz. 82](https://api.sejm.gov.pl/eli/acts/DU/1993/82/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 52, poz. 235, Nr 106, poz. 496 i Nr 118, poz. 561, z 1997 r. Nr 98, poz. 603 i Nr 141, poz. 943 oraz z 2001 r. Nr 63, poz. 637.](#gloss-0:8:)) w art. 41 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przelew nie może być dokonany na rzecz dłużnika lub podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539).
+
+” .
+
+### Art. 106.
+
+W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa ([Dz. U. z 2005 r. Nr 31, poz. 264](https://api.sejm.gov.pl/eli/acts/DU/2005/264/text.html), [Nr 132, poz. 1110](https://api.sejm.gov.pl/eli/acts/DU/2005/1110/text.html), [Nr 150, poz. 1259](https://api.sejm.gov.pl/eli/acts/DU/2005/1259/text.html) i [Nr 163, poz. 1362](https://api.sejm.gov.pl/eli/acts/DU/2005/1362/text.html)) w art. 10b w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+sprzedaż nie może być dokonana na rzecz dłużnika, jego zstępnych i wstępnych, podmiotu będącego w stosunku do dłużnika podmiotem dominującym lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539).
+
+” .
+
+### Art. 107.
+
+W ustawie z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym ([Dz. U. Nr 98, poz. 473](https://api.sejm.gov.pl/eli/acts/DU/1994/473/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 152, poz. 724, z 1997 r. Nr 121, poz. 770, z 2001 r. Nr 76, poz. 810 oraz z 2004 r. Nr 42, poz. 386.](#gloss-0:9:)) w art. 11b w ust. 2 zdanie trzecie otrzymuje brzmienie: „ Do zbywania akcji nie stosuje się przepisów ustawy, o której mowa w ust. 1. ” .
+
+### Art. 108.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2002 r. Nr 76, poz. 694](https://api.sejm.gov.pl/eli/acts/DU/2002/694/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66.](#gloss-0:10:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+jednostek organizacyjnych działających na podstawie Prawa bankowego, przepisów o obrocie papierami wartościowymi, przepisów o funduszach inwestycyjnych, przepisów o działalności ubezpieczeniowej lub przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, bez względu na wielkość przychodów,
+
+” ;
+
+### 2)
+
+w art. 3 w ust. 1 pkt 3a otrzymuje brzmienie:
+
+„
+
+### 3a)
+
+przepisach o obrocie papierami wartościowymi - rozumie się przez to przepisy ustawy o obrocie instrumentami finansowymi, ustawy o nadzorze nad rynkiem kapitałowym, ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+
+” ;
+
+### 3)
+
+w art. 45:
+
+### a)
+
+ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Sprawozdania finansowe emitentów papierów wartościowych dopuszczonych, emitentów zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego mogą być sporządzane zgodnie z MSR.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Sprawozdania finansowe oraz sprawozdania z działalności emitentów papierów wartościowych dopuszczonych, emitentów zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego sporządza się na podstawie przepisów ustawy, z uwzględnieniem przepisów o obrocie papierami wartościowymi.
+
+” ;
+
+### 4)
+
+w art. 55 ust. 6a i 6b otrzymują brzmienie:
+
+„
+
+### 6a.
+
+Skonsolidowane sprawozdania finansowe emitentów papierów wartościowych oraz banków sporządza się zgodnie z MSR.
+
+### 6b.
+
+Skonsolidowane sprawozdania finansowe emitentów papierów wartościowych zamierzających ubiegać się lub ubiegających się o ich dopuszczenie do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego mogą być sporządzane zgodnie z MSR.
+
+” ;
+
+### 5)
+
+w art. 56 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Jeżeli jednostka dominująca lub jednostka jej podporządkowana jest emitentem papierów wartościowych dopuszczonych do obrotu, zamierza ubiegać się lub ubiega się o dopuszczenie papierów wartościowych do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego, nie stosuje się zwolnień, o których mowa w ust. 1 i 2.
+
+” ;
+
+### 6)
+
+art. 63d otrzymuje brzmienie:
+
+„
+
+### Art. 63d.
+
+Sprawozdania finansowe jednostek powiązanych oraz sprawozdania z ich działalności, w przypadku gdy jednostkami dominującymi lub znaczącymi inwestorami są emitenci papierów wartościowych dopuszczonych, emitenci zamierzający ubiegać się lub ubiegający się o ich dopuszczenie do obrotu na rynku regulowanym jednego z krajów Europejskiego Obszaru Gospodarczego, sporządza się na podstawie przepisów ustawy, z uwzględnieniem przepisów o obrocie papierami wartościowymi.
+
+” ;
+
+### 7)
+
+w art. 64 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+jednostek działających na podstawie przepisów o obrocie papierami wartościowymi oraz przepisów o funduszach inwestycyjnych,
+
+” ;
+
+### 8)
+
+w art. 82 pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+po zasięgnięciu opinii Przewodniczącego Komisji Papierów Wartościowych i Giełd, określić szczególne zasady rachunkowości Krajowego Depozytu Papierów Wartościowych oraz funduszu rozliczeniowego, o którym mowa w przepisach o obrocie papierami wartościowymi, w tym zakres informacji wykazywanych w sprawozdaniu finansowym oraz odpowiednio w sprawozdaniu finansowym jednostek powiązanych, a także w sprawozdaniach z działalności,
+
+### 3)
+
+po zasięgnięciu opinii Przewodniczącego Komisji Papierów Wartościowych i Giełd, określić szczególne zasady rachunkowości funduszu gwarancyjnego, o którym mowa w przepisach o obrocie papierami wartościowymi, w tym zakres informacji wykazywanych w sprawozdaniu finansowym,
+
+” ;
+
+### 9)
+
+w art. 83 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+po zasięgnięciu opinii Przewodniczącego Komisji Papierów Wartościowych i Giełd - dla jednostek działających na podstawie przepisów o obrocie papierami wartościowymi,
+
+” .
+
+### Art. 109.
+
+W ustawie z dnia 29 czerwca 1995 r. o obligacjach ([Dz. U. z 2001 r. Nr 120, poz. 1300](https://api.sejm.gov.pl/eli/acts/DU/2001/1300/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124 oraz z 2005 r. Nr 157, poz. 1316 i Nr 183, poz. 1538.](#gloss-0:11:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5a w ust. 3 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+firma inwestycyjna,
+
+” ;
+
+### 2)
+
+uchyla się art. 5c;
+
+### 3)
+
+art. 9 otrzymuje brzmienie:
+
+„
+
+### Art. 9.
+
+Emisja obligacji może nastąpić przez:
+
+### 1)
+
+publiczne proponowanie nabycia, o którym mowa w art. 3 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539),
+
+### 2)
+
+publiczne proponowanie nabycia w sposób wskazany w art. 3 ust. 1 ustawy, o której mowa w pkt 1, obligacji, do których nie stosuje się przepisów tej ustawy,
+
+### 3)
+
+proponowanie nabycia obligacji w inny sposób niż określony w pkt 1 i 2.
+
+” ;
+
+### 4)
+
+w art. 31 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+będący wprowadzającym papiery wartościowe danego emitenta w rozumieniu art. 4 pkt 6 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+
+” ;
+
+### 5)
+
+w art. 33 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przekazywania bankowi-reprezentantowi informacji bieżących i okresowych, o których mowa w ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+
+” .
+
+### Art. 110.
+
+W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ([Dz. U. z 2002 r. Nr 171, poz. 1397](https://api.sejm.gov.pl/eli/acts/DU/2002/1397/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418 i Nr 178, poz. 1479.](#gloss-0:12:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 13 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+posiadać akcji lub udziałów u przedsiębiorców tworzonych przez spółkę, z wyjątkiem akcji dopuszczonych do obrotu na rynku regulowanym,
+
+” ;
+
+### 2)
+
+w art. 33 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+przyjęcia oferty w odpowiedzi na wezwanie ogłoszone na podstawie art. 72-74 lub art. 91 ust. 6 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539).
+
+” ;
+
+### 3)
+
+w art. 62 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przepisów ust. 1 i 2 nie stosuje się do informacji udostępnianych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, w związku z ofertą publiczną lub ubieganiem się o dopuszczenie akcji do obrotu na rynku regulowanym.
+
+” .
+
+### Art. 111.
+
+W ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych ([Dz. U. z 2003 r. Nr 99, poz. 919](https://api.sejm.gov.pl/eli/acts/DU/2003/919/text.html)) w art. 8 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W zakresie nieuregulowanym niniejszą ustawą do zasad emisji, obrotu i wykupu hipotecznych listów zastawnych mają zastosowanie przepisy:
+
+### 1)
+
+ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539);
+
+### 2)
+
+ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html));
+
+### 3)
+
+ustawy z dnia 29 czerwca 1995 r. o obligacjach ([Dz. U. z 2001 r. Nr 120, poz. 1300](https://api.sejm.gov.pl/eli/acts/DU/2001/1300/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124 oraz z 2005 r. Nr 157, poz. 1316 i Nr 183, poz. 1538 i Nr 184, poz. 1539.](#gloss-0:13:)), z wyjątkiem przepisów art. 7 ust. 1 i 2 oraz art. 28-39.
+
+” .
+
+### Art. 112.
+
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html), z późn. zm.[14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248, Nr 163, poz. 1362, Nr 164, poz. 1366, Nr 169, poz. 1412 i Nr 183, poz. 1538.](#gloss-0:14:)) w art. 65 w ust. 2:
+
+### 1)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+obligacjach emitowanych przez spółki publiczne w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539).
+
+” ;
+
+### 2)
+
+uchyla się pkt 6.
+
+### Art. 113.
+
+W ustawie z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” ([Dz. U. Nr 84, poz. 948](https://api.sejm.gov.pl/eli/acts/DU/2000/948/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252 oraz z 2005 r. Nr 157, poz. 1315.](#gloss-0:15:)) w art. 20 uchyla się ust. 5.
+
+### Art. 114.
+
+W ustawie z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), z późn. zm.[16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276 oraz z 2005 r. Nr 132, poz. 1108 i Nr 183, poz. 1538.](#gloss-0:16:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w § 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+spółka publiczna - spółkę w rozumieniu przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+
+” ;
+
+### 2)
+
+w art. 431 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Uchwała o podwyższeniu kapitału zakładowego nie może być zgłoszona do sądu rejestrowego po upływie sześciu miesięcy od dnia jej powzięcia, a w przypadku akcji nowej emisji będących przedmiotem oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym załączonym do zawiadomienia dotyczącego tych akcji, na podstawie przepisów o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych - od dnia odpowiednio zatwierdzenia prospektu albo złożenia zawiadomienia, przy czym wniosek o zatwierdzenie prospektu albo zawiadomienie nie mogą zostać złożone po upływie czterech miesięcy od dnia powzięcia uchwały o podwyższeniu kapitału zakładowego.
+
+” ;
+
+### 3)
+
+w art. 436 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Wykonanie prawa poboru akcji w ramach oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym na podstawie przepisów określonych w art. 431 § 4 następuje w jednym terminie, wskazanym w prospekcie emisyjnym albo memorandum informacyjnym. Jednakże termin, do którego akcjonariusze mogą wykonywać prawo poboru akcji, nie może być krótszy niż dwa tygodnie od dnia udostępnienia do publicznej wiadomości odpowiednio tego prospektu emisyjnego albo memorandum informacyjnego.
+
+### § 2.
+
+Akcjonariusze, którym służy prawo poboru akcji, o których mowa w § 1, mogą w terminie jego wykonania dokonać jednocześnie dodatkowego zapisu na akcje w liczbie nie większej niż wielkość emisji, w razie niewykonania prawa poboru przez pozostałych akcjonariuszy.
+
+” ;
+
+### 4)
+
+w art. 440 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Przepisów § 1 oraz art. 434 nie stosuje się do subskrypcji akcji w ramach oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym na podstawie przepisów określonych w art. 431 § 4.
+
+” ;
+
+### 5)
+
+w art. 441:
+
+### a)
+
+w § 2 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+jeżeli objęcie akcji nastąpiło w trybie subskrypcji prywatnej - umowę objęcia akcji albo, w przypadku subskrypcji akcji w ramach oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym na podstawie przepisów określonych w art. 431 § 4 - formularz zapisu na akcje wypełniony przez subskrybenta,
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+W przypadku objęcia akcji w ramach oferty publicznej objętej prospektem emisyjnym albo memorandum informacyjnym na podstawie przepisów określonych w art. 431 § 4 należy dołączyć ten dokument.
+
+” .
+
+### Art. 115.
+
+W ustawie z dnia 16 listopada 2000 r. o domach składowych oraz o zmianie Kodeksu cywilnego, Kodeksu postępowania cywilnego i innych ustaw ([Dz. U. Nr 114, poz. 1191](https://api.sejm.gov.pl/eli/acts/DU/2000/1191/text.html), z [2004 r. Nr 173, poz. 1808](https://api.sejm.gov.pl/eli/acts/DU/2004/1808/text.html) oraz z [2005 r. Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html)) w art. 2 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+podmiot dominujący lub zależny - podmiot dominujący lub zależny w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539),
+
+” .
+
+### Art. 116.
+
+W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów ([Dz. U. z 2003 r. Nr 86, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2003/804/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959 oraz z 2005 r. Nr 163, poz. 1362.](#gloss-0:17:)) w art. 63 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do informacji powszechnie dostępnych, informacji o wszczęciu postępowania, z wyjątkiem postępowania w sprawach dotyczących koncentracji z udziałem spółek publicznych w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), oraz informacji o wydaniu decyzji kończących postępowanie i ich ustaleniach.
+
+” .
+
+### Art. 117.
+
+W ustawie z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa ([Dz. U. z 2001 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/2001/24/text.html) i [Nr 102, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2001/1118/text.html), z [2004 r. Nr 141, poz. 1492](https://api.sejm.gov.pl/eli/acts/DU/2004/1492/text.html) oraz z [2005 r. Nr 157, poz. 1315](https://api.sejm.gov.pl/eli/acts/DU/2005/1315/text.html)) w art. 2 w pkt 1 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+spółki handlowe, w odniesieniu do których Skarb Państwa jest podmiotem dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), z wyłączeniem Polskich Kolei Państwowych Spółki Akcyjnej,
+
+” .
+
+### Art. 118.
+
+W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym ([Dz. U. Nr 67, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2001/679/text.html), z późn. zm.[18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249 oraz z 2005 r. Nr 94, poz. 788.](#gloss-0:18:)) w art. 12 w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+listę udziałowców lub akcjonariuszy oraz wielkość znacznych pakietów akcji, o których mowa w przepisach rozdziału 4 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), posiadanych przez udziałowców lub akcjonariuszy,
+
+” .
+
+### Art. 119.
+
+W ustawie z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali ([Dz. U. Nr 111, poz. 1196](https://api.sejm.gov.pl/eli/acts/DU/2001/1196/text.html), z późn. zm.[19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 56, poz. 495, Nr 90, poz. 844 i Nr 139, poz. 1325, z 2004 r. Nr 12, poz. 102 i Nr 120, poz. 1252 oraz z 2005 r. Nr 167, poz. 1398.](#gloss-0:19:)) w art. 4 w ust. 5 uchyla się pkt 2.
+
+### Art. 120.
+
+W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. z 2004 r. Nr 53, poz. 533](https://api.sejm.gov.pl/eli/acts/DU/2004/533/text.html), z późn. zm.[20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362 i Nr 179, poz. 1485.](#gloss-0:20:)) w art. 2 pkt 7b otrzymuje brzmienie:
+
+„
+
+### 7b)
+
+importem równoległym - jest każde działanie polegające na sprowadzeniu produktu leczniczego z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym spełniającego łącznie następujące warunki:
+
+- - sprowadzony produkt leczniczy posiada tę samą substancję czynną (substancje czynne), co najmniej te same wskazania, tę samą postać, moc i drogę podania jak produkt leczniczy dopuszczony do obrotu na terytorium Rzeczypospolitej Polskiej,
+
+- - sprowadzony produkt leczniczy posiada pozwolenie na dopuszczenie do obrotu wydane na tych samych zasadach w kraju, z którego jest sprowadzony, i na terytorium Rzeczypospolitej Polskiej,
+
+- - pozwolenie na dopuszczenie do obrotu w Rzeczypospolitej Polskiej jest wydane na rzecz podmiotu odpowiedzialnego posiadającego pozwolenie na dopuszczenie do obrotu w państwie, z którego produkt jest sprowadzany, lub podmiotu odpowiedzialnego będącego w stosunku do tego podmiotu - podmiotem zależnym lub dominującym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539);
+
+” .
+
+### Art. 121.
+
+W ustawie z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze ([Dz. U. Nr 60, poz. 535](https://api.sejm.gov.pl/eli/acts/DU/2003/535/text.html), z późn. zm.[21) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2005 r. Nr 94, poz. 785 i Nr 183, poz. 1538.](#gloss-0:21:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 22 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+informację, czy dłużnik jest spółką publiczną w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539);
+
+” ;
+
+### 2)
+
+w art. 53 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Jeżeli upadły jest spółką publiczną w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, postanowienie o ogłoszeniu upadłości doręcza się także Przewodniczącemu Komisji Papierów Wartościowych i Giełd.
+
+” .
+
+### Art. 122.
+
+W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej ([Dz. U. Nr 124, poz. 1151](https://api.sejm.gov.pl/eli/acts/DU/2003/1151/text.html), z późn. zm.[22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396 i Nr 183, poz. 1538.](#gloss-0:22:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+pkt 8 i 8a otrzymują brzmienie:
+
+„
+
+### 8)
+
+podmiot dominujący - podmiot dominujący w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539); 8a) podmiot zależny - podmiot zależny w rozumieniu ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;
+
+” .
+
+### b)
+
+uchyla się pkt 9,
+
+### c)
+
+pkt 11 otrzymuje brzmienie:
+
+„
+
+### 11)
+
+spółka publiczna - spółkę publiczną w rozumieniu ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych;
+
+” ;
+
+### 2)
+
+w art. 35:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Podmiot, który zamierza, bezpośrednio lub pośrednio poprzez podmioty zależne lub w drodze porozumień, nabyć albo objąć akcje lub prawa z akcji krajowego zakładu ubezpieczeń w liczbie zapewniającej dysponowanie albo przekroczenie odpowiednio 20%, 33%, 50% głosów na walnym zgromadzeniu lub udziału w kapitale zakładowym, jest obowiązany każdorazowo zawiadomić organ nadzoru o zamiarze nabycia albo objęcia. Podmiot, który zamierza podjąć inne działania, o których mowa w art. 4 pkt 14 ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych, powodujące, że krajowy zakład ubezpieczeń stanie się jego podmiotem zależnym, obowiązany jest każdorazowo zawiadomić o tym zamiarze organ nadzoru. Podmiot dokonujący zawiadomienia przekazuje również informację o posiadanych bezpośrednio lub pośrednio poprzez podmioty zależne lub w drodze porozumień akcjach lub prawach z akcji krajowego zakładu ubezpieczeń, jak również o podmiotach dominujących tego podmiotu i zawartych przez ten podmiot porozumieniach, stanach faktycznych i prawnych pozwalających innym podmiotom na wykonywanie praw z akcji krajowego zakładu ubezpieczeń lub podejmowanie działań, o których mowa w art. 4 pkt 14 ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Organ nadzoru może, w drodze decyzji, w terminie 3 miesięcy od dnia złożenia zawiadomienia, o którym mowa w ust. 2, zgłosić sprzeciw co do nabycia albo objęcia akcji lub praw z akcji albo co do podjęcia innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stanie się podmiotem zależnym podmiotu składającego zawiadomienie. W przypadku gdy organ nadzoru nie zgłasza sprzeciwu, może, w drodze decyzji, ustalić maksymalny termin nabycia albo objęcia akcji lub praw z akcji albo podjęcia innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stanie się podmiotem zależnym podmiotu składającego zawiadomienie.
+
+” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Organ nadzoru może zgłosić sprzeciw, o którym mowa w ust. 3, jeżeli nabywający albo obejmujący akcje albo podejmujący inne działania, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, wskutek których krajowy zakład ubezpieczeń stanie się podmiotem zależnym tego podmiotu, nie wykaże, że:
+
+### 1)
+
+daje rękojmię prowadzenia spraw krajowego zakładu ubezpieczeń w sposób należycie zabezpieczający interesy ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia;
+
+### 2)
+
+w okresie od dnia zawiadomienia organu nadzoru o zamiarze, o którym mowa w ust. 2, do dnia nabycia włącznie, środki przeznaczone na nabycie albo objęcie akcji lub praw z akcji krajowego zakładu ubezpieczeń lub na podjęcie innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stanie się podmiotem zależnym, nie pochodzą z kredytu lub pożyczki albo nie są w inny sposób obciążone;
+
+### 3)
+
+wpłaty na akcje lub na podjęcie innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stanie się podmiotem zależnym, nie pochodzą z nielegalnych lub nieujawnionych źródeł.
+
+” ,
+
+### d)
+
+ust. 7a otrzymuje brzmienie:
+
+„
+
+### 7a.
+
+W przypadku podjęcia innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stanie się podmiotem zależnym podmiotu podejmującego te działania, z naruszeniem warunków, o których mowa w ust. 2, albo w przypadku zgłoszenia sprzeciwu przez organ nadzoru albo podjęcia tych działań po wyznaczonym przez organ nadzoru maksymalnym terminie na podjęcie tych działań, członkowie zarządu krajowego zakładu ubezpieczeń powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w podmiocie dominującym nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowego zakładu ubezpieczeń. W przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia podjęcia prze: podmiot dominujący innych działań, o których mowa w art. 4 pkt 14 ustawy, o której mowa w ust. 2, powodujących, że krajowy zakład ubezpieczeń stał się podmiotem zależnym podmiotu podejmującego te działania.
+
+” .
+
+### Art. 123.
+
+W ustawie z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw ([Dz. U. Nr 188, poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2003/1840/text.html) oraz z [2004 r. Nr 123, poz. 1291](https://api.sejm.gov.pl/eli/acts/DU/2004/1291/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html)) w art. 8 w ust. 3 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+przedsiębiorcy, w którego kapitale zakładowym podmiot dominujący w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539), wobec podatnika lub przedsiębiorcy, o których mowa w pkt 1, posiada udział wynoszący co najmniej 90%.
+
+” .
+
+### Art. 124.
+
+W ustawie z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. Nr 19, poz. 177](https://api.sejm.gov.pl/eli/acts/DU/2004/177/text.html), z późn. zm.[23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1207, Nr 145, poz. 1537 i Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1362.](#gloss-0:23:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 120 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Umowy zawarte między wykonawcami w celu wspólnego ubiegania się o udzielenie zamówienia oraz umowy z podmiotami będącymi w stosunku do wykonawców podmiotami dominującymi lub zależnymi w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539) nie są uważane za umowy o podwykonawstwo w rozumieniu ust. 1,
+
+### 3.
+
+Wykonawca składa wraz z ofertą listę podmiotów, o których mowa w ust. 2.
+
+” ;
+
+### 2)
+
+w art. 121 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się do udzielania zamówień podmiotom będącym w stosunku do wykonawcy podmiotami dominującymi lub zależnym w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz podmiotom, z którymi koncesjonariusz zawarł umowę w celu wspólnego ubiegania się o udzielenie koncesji.
+
+” .
+
+### Art. 125.
+
+W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html) oraz z [2005 r. Nr 83, poz. 719](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.html) i [Nr 183, poz. 1537](https://api.sejm.gov.pl/eli/acts/DU/2005/1537/text.html) i [1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2:
+
+### a)
+
+po pkt 1a dodaje się pkt 1b w brzmieniu:
+
+„
+
+### 1b)
+
+ustawie o ofercie publicznej - rozumie się przez to ustawę z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. Nr 184, poz. 1539);
+
+” ,
+
+### b)
+
+pkt 25 i 26 otrzymują brzmienie:
+
+„
+
+### 25)
+
+podmiocie dominującym - rozumie się przez to podmiot dominujący w rozumieniu ustawy o ofercie publicznej;
+
+### 26)
+
+podmiocie zależnym - rozumie się przez to podmiot zależny w rozumieniu ustawy o ofercie publicznej;
+
+” ,
+
+### c)
+
+dodaje się pkt 36 i 37 w brzmieniu:
+
+„
+
+### 36)
+
+publicznych certyfikatach inwestycyjnych - rozumie się przez to certyfikaty inwestycyjne, których emisja jest związana z obowiązkiem uzyskania zatwierdzenia prospektu emisyjnego lub złożenia zawiadomienia zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej lub dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alternatywnego systemu obrotu;
+
+### 37)
+
+niepublicznych certyfikatach inwestycyjnych - rozumie się przez to certyfikaty inwestycyjne emitowane przez fundusz inwestycyjny zamknięty, których emisja nie jest związana z obowiązkiem sporządzenia lub zatwierdzenia prospektu emisyjnego lub złożenia zawiadomienia zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej i które nie podlegają dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu.
+
+” ;
+
+### 2)
+
+w art. 3 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przez publiczne proponowanie nabycia, o którym mowa w ust. 1, rozumie się proponowanie nabycia w sposób określony w art. 3 ustawy o ofercie publicznej.
+
+” ;
+
+### 3)
+
+art. 117 otrzymuje brzmienie:
+
+„
+
+### Art. 117.
+
+### 1.
+
+Fundusz inwestycyjny zamknięty emituje:
+
+### 1)
+
+publiczne certyfikaty inwestycyjne albo
+
+### 2)
+
+niepubliczne certyfikaty inwestycyjne, na zasadach określonych w niniejszym rozdziale.
+
+### 2.
+
+Statut funduszu określa, czy emitowane przez fundusz certyfikaty są publicznymi certyfikatami inwestycyjnymi, czy niepublicznymi certyfikatami inwestycyjnymi.
+
+### 3.
+
+Certyfikaty inwestycyjne, o których mowa w ust. 1 pkt 2, mogą zostać przekształcone w publiczne certyfikaty inwestycyjne wyłącznie w przypadku, gdy przekształcenie będzie obejmować również certyfikaty wcześniejszych emisji. Przekształcenie certyfikatów wymaga zmiany statutu funduszu oraz zatwierdzenia przez komisje prospektu emisyjnego obejmującego wszystkie wyemitowane certyfikaty inwestycyjne funduszu.
+
+” ;
+
+### 4)
+
+art. 118 otrzymuje brzmienie:
+
+„
+
+### Art. 118.
+
+### 1.
+
+Do sporządzenia oraz zatwierdzenia prospektu emisyjnego lub niezgłoszenia sprzeciwu oferty publicznej na podstawie zawiadomienia w rozumieniu przepisów rozdziału 2 ustawy o ofercie publicznej dotyczącego publicznych certyfikatów inwestycyjnych lub dopuszczenia publicznych certyfikatów do obrotu na rynku regulowanym lub wprowadzenia publicznych certyfikatów inwestycyjnych do alternatywnego systemu obrotu stosuje się przepisy ustawy o ofercie publicznej, jeżeli ustawa nie stanowi inaczej.
+
+### 2.
+
+Do obrotu publicznymi certyfikatami inwestycyjnymi stosuje się przepisy ustawy o obrocie instrumentami finansowymi, jeżeli ustawa nie stanowi inaczej.
+
+### 3.
+
+Z wnioskiem o zatwierdzenie prospektu emisyjnego, o którym mowa w ust. 1, lub z zawiadomieniem, o którym mowa w ust. 1, występuje towarzystwo, a w przypadku, o którym mowa w art. 38 ust. 2, spółka akcyjna ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo.
+
+” ;
+
+### 5)
+
+art. 119 otrzymuje brzmienie:
+
+„
+
+### Art. 119.
+
+### 1.
+
+Wydanie przez Komisję zezwolenia na utworzenie funduszu inwestycyjnego zamkniętego jest równoznaczne z zatwierdzeniem prospektu emisyjnego funduszu lub niezgłoszeniem sprzeciwu do zawiadomienia o ofercie publicznej funduszu zgodnie z przepisami rozdziału 2 ustawy o ofercie publicznej.
+
+### 2.
+
+Fundusz inwestycyjny zamknięty, który wyemitował publiczne certyfikaty inwestycyjne, jest obowiązany do emitowania wyłącznie publicznych certyfikatów inwestycyjnych.
+
+### 3.
+
+W przypadku gdy wniosek o zatwierdzenie prospektu emisyjnego obejmuje certyfikaty inwestycyjne więcej niż jednej emisji, statut funduszu powinien określać liczbę emisji, maksymalną liczbę certyfikatów inwestycyjnych kolejnych emisji oraz termin, przed upływem którego fundusz zaoferuje certyfikaty inwestycyjne kolejnych emisji.
+
+### 4.
+
+W przypadku publicznych certyfikatów inwestycyjnych do zatwierdzenia prospektu emisyjnego lub niezgłoszenia sprzeciwu do zawiadomienia nie stosuje się terminów, o których mowa w ustawie o ofercie publicznej.
+
+” ;
+
+### 6)
+
+w art. 144 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Statut funduszu, o którym mowa w art. 196, który emituje niepubliczne certyfikaty inwestycyjne, albo publiczne certyfikaty inwestycyjne, których cena emisyjna jednego certyfikatu wynosi nie mniej niż równowartość w złotych kwoty 40 000 euro, może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków.
+
+” ;
+
+### 7)
+
+w art. 146 w ust. 8 pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+niezwłocznie po ich sporządzeniu, nie później jednak niż w terminie podawania do publicznej wiadomości raportów okresowych zgodnie z przepisami ustawy o ofercie publicznej - w przypadku funduszu inwestycyjnego zamkniętego, emitującego publiczne certyfikaty inwestycyjne;
+
+### 3)
+
+na żądanie uczestnika - w przypadku funduszu inwestycyjnego zamkniętego, emitującego niepubliczne certyfikaty inwestycyjne.
+
+” ;
+
+### 8)
+
+w art. 152 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Emisja obligacji przez fundusz zamknięty emitujący publiczne certyfikaty inwestycyjne może nastąpić wyłącznie w trybie przewidzianym w ustawie o ofercie publicznej.
+
+” ;
+
+### 9)
+
+w art. 164 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Utworzenie nowego subfunduszu wymaga zmiany statutu funduszu, a w przypadku funduszu zamkniętego emitującego publiczne certyfikaty inwestycyjne także emisji certyfikatów inwestycyjnych, które będą związane z tym subfunduszem jako publicznych certyfikatów inwestycyjnych.
+
+” ;
+
+### 10)
+
+w art. 173 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W przypadku gdy funduszem podstawowym jest fundusz inwestycyjny zamknięty, do oferowania certyfikatów inwestycyjnych nie stosuje się przepisów ustawy o ofercie publicznej.
+
+” ;
+
+### 11)
+
+w art. 179:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Fundusz inwestycyjny zamknięty może być utworzony jako fundusz portfelowy dokonujący w sposób ciągły emisji publicznych certyfikatów inwestycyjnych, pod warunkiem że fundusz lokuje swoje aktywa wyłącznie w sposób określony w art. 182.
+
+” ,
+
+### b)
+
+ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+Wydanie przez Komisję zezwolenia na utworzenie funduszu portfelowego jest równoznaczne z zatwierdzeniem prospektu emisyjnego obejmującego certyfikaty inwestycyjne pierwszej i następnych emisji tego funduszu, pod warunkiem zarejestrowania funduszu w rejestrze funduszy inwestycyjnych.
+
+### 5.
+
+Fundusz portfelowy jest obowiązany, w terminie 7 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych, do złożenia wniosku o dopuszczenie certyfikatów inwestycyjnych do obrotu na rynku regulowanym, przy czym dopuszczenie certyfikatów do obrotu na rynku regulowanym dotyczy certyfikatów inwestycyjnych pierwszej i następnych emisji tego funduszu.
+
+” ;
+
+### 12)
+
+w art. 219 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Fundusz inwestycyjny zamknięty emitujący publiczne certyfikaty inwestycyjne publikuje prospekt emisyjny oraz skrót tego prospektu w sposób określony przepisami ustawy o ofercie publicznej.
+
+” ;
+
+### 13)
+
+w art. 247 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W zakresie określonym w ust. 1 i 2 w przypadku funduszy inwestycyjnych zamkniętych stosuje się również przepisy ustawy o ofercie publicznej.
+
+” ;
+
+### 14)
+
+art. 260 otrzymuje brzmienie:
+
+„
+
+### Art. 260.
+
+Do zbywania tytułów uczestnictwa emitowanych przez fundusze zagraniczne nie stosuje się przepisów ustawy o obrocie instrumentami finansowymi oraz ustawy o ofercie publicznej.
+
+” ;
+
+### 15)
+
+w art. 321 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Specjalistyczny fundusz inwestycyjny zamknięty oraz fundusz inwestycyjny mieszany, których certyfikaty zostały wprowadzone do publicznego obrotu, mogą się przekształcić wyłącznie w fundusz inwestycyjny zamknięty emitujący publiczne certyfikaty inwestycyjne.
+
+### 3.
+
+Specjalistyczny fundusz inwestycyjny zamknięty, którego certyfikaty nie podlegają wprowadzeniu do publicznego obrotu, może zostać przekształcony w fundusz inwestycyjny zamknięty emitujący publiczne certyfikaty inwestycyjne, pod warunkiem zatwierdzenia przez Komisję prospektu emisyjnego obejmującego wszystkie wyemitowane certyfikaty inwestycyjne funduszu.
+
+” .
+
+### Art. 126.
+
+W ustawie z dnia 27 sierpnia 2004 r. o zmianie ustawy o rachunkowości oraz o zmianie ustawy o biegłych rewidentach i ich samorządzie ([Dz. U. Nr 213, poz. 2155](https://api.sejm.gov.pl/eli/acts/DU/2004/2155/text.html)) w art. 2 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Skonsolidowane sprawozdania finansowe emitentów wyłącznie dłużnych papierów wartościowych dopuszczonych do obrotu na jednym z rynków regulowanych krajów Europejskiego Obszaru Gospodarczego: ” .
+
+### Art. 127.
+
+W ustawie z dnia 16 grudnia 2004 r. o zmianie ustawy o portach i przystaniach morskich oraz o zmianie niektórych innych ustaw ([Dz. U. Nr 281, poz. 2782](https://api.sejm.gov.pl/eli/acts/DU/2004/2782/text.html)) w art. 5 w ust. 3 uchyla się zdanie trzecie.
+
+### Rozdział 11 Przepisy przejściowe i końcowe
+
+### Art. 128.
+
+### 1.
+
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy tej ustawy.
+
+### 2.
+
+Pozostają w mocy, z zastrzeżeniem ust. 3-5, skutki dopuszczenia papierów wartościowych do publicznego obrotu na podstawie ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi ([Dz. U. z 2005 r. Nr 111, poz. 937](https://api.sejm.gov.pl/eli/acts/DU/2005/937/text.html), [Nr 132, poz. 1108](https://api.sejm.gov.pl/eli/acts/DU/2005/1108/text.html), [Nr 143, poz. 1199](https://api.sejm.gov.pl/eli/acts/DU/2005/1199/text.html) i [Nr 163, poz. 1362](https://api.sejm.gov.pl/eli/acts/DU/2005/1362/text.html)).
+
+### 3.
+
+Do prospektu emisyjnego:
+
+### 1)
+
+obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy - stosuje się przepisy dotychczasowe;
+
+### 2)
+
+dotyczącego programu obligacji w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy - stosuje się przepisy dotychczasowe w okresie do dnia upływu terminu ważności ostatniego, udostępnionego do publicznej wiadomości przed dniem wejścia w życie ustawy, prospektu danej emisji obligacji objętej danym programem obligacji;
+
+### 3)
+
+dotyczącego programu obligacji w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, których emitentem jest:
+
+### a)
+
+jednostka samorządu terytorialnego albo
+
+### b)
+
+bank, jeżeli łączna wartość emisji tych obligacji, w okresie kolejnych 12 miesięcy, liczona według ceny emisyjnej, stanowi mniej niż 50 000 000 euro lub równowartość tej kwoty w złotych, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień ustalenia ceny emisyjnej tych obligacji
+
+- stosuje się przepisy dotychczasowe w okresie do dnia zakończenia ostatniej emisji obligacji w ramach danego programu obligacji;
+
+### 4)
+
+dotyczącego programu obligacji w innych przypadkach niż określone w pkt 3, albo programu listów zastawnych w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, obejmującego papiery wartościowe dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, których emitentem jest instytucja finansowa z siedzibą w państwie członkowskim - stosuje się przepisy dotychczasowe w okresie do dnia upływu terminu ważności ostatniego, udostępnionego do publicznej wiadomości przed dniem 31 grudnia 2008 r., prospektu danej emisji odpowiednio obligacji lub listów zastawnych, objętej programem obligacji albo programem listów zastawnych;
+
+### 5)
+
+obejmującego papiery wartościowe, o których mowa w art. 7 ust. 3 pkt 6, dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, nieudostępnionego do publicznej wiadomości przed wejściem w życie niniejszej ustawy - stosuje się przepisy dotychczasowe.
+
+### 4.
+
+W przypadku gdy prospekt emisyjny obejmujący papiery wartościowe niebędące papierami wartościowymi, o których mowa w art. 7 ust. 3 pkt 6, dopuszczone do publicznego obrotu przed dniem 1 lipca 2005 r. na podstawie ustawy, o której mowa w ust. 2, nie został udostępniony do publicznej wiadomości przed dniem wejścia w życie ustawy - emitent lub wprowadzający jest obowiązany do sporządzenia prospektu emisyjnego, uzyskania jego zatwierdzenia oraz udostępnienia go do publicznej wiadomości, w trybie i na warunkach określonych w niniejszej ustawie, przed odpowiednio rozpoczęciem oferty publicznej lub uzyskaniem dopuszczenia do obrotu na rynku regulowanym.
+
+### 5.
+
+W przypadku gdy przed dniem wejścia w życie ustawy:
+
+### 1)
+
+w stosunku do spółki będącej emitentem akcji dopuszczonych do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, uprawomocniło się postanowienie o ogłoszeniu upadłości obejmującej likwidację jej majątku lub postanowienie o oddaleniu wniosku o ogłoszenie tej upadłości ze względu na to, że majątek spółki nie wystarcza na zaspokojenie kosztów postępowania - skutek określony w art. 91 ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4-6 tego przepisu, z dniem wejścia w życie niniejszej ustawy, nie wcześniej jednak niż po upływie 6 miesięcy od dnia uprawomocnienia się postanowienia; do zniesienia dematerializacji akcji art. 91 ust. 9 zdanie drugie oraz ust. 10 i 11 stosuje się odpowiednio;
+
+### 2)
+
+akcje dopuszczone do publicznego obrotu na podstawie ustawy, o której mowa w ust. 2, i objęte prospektem emisyjnym, który przed tym dniem utracił ważność, nie były przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym - skutek określony w art. 91 ust. 2 zdanie pierwsze następuje z mocy prawa bez spełnienia warunków, o których mowa w ust. 4-6 tego przepisu, z dniem wejścia w życie niniejszej ustawy; do zniesienia dematerializacji akcji art. 91 ust. 9 zdanie drugie oraz ust. 10 i 11 stosuje się odpowiednio.
+
+### 6.
+
+Do dnia 31 grudnia 2008 r. prospekt emisyjny dotyczący programu obligacji albo programu listów zastawnych w rozumieniu przepisów wydanych na podstawie art. 75 ustawy, o której mowa w ust. 2, których emitentem jest instytucja finansowa z siedzibą w państwie członkowskim, mających być przedmiotem oferty publicznej lub dopuszczenia do obrotu na rynku regulowanym wyłącznie na terytorium Rzeczypospolitej Polskiej, może być sporządzony, udostępniony do publicznej wiadomości i aktualizowany na podstawie przepisów dotychczasowych, według wyboru emitenta, przy czym udostępnienie do publicznej wiadomości ostatniego prospektu danej emisji odpowiednio obligacji lub listów zastawnych, objętej programem obligacji albo programem listów zastawnych, nie może nastąpić później niż w dniu 31 grudnia 2008 r.
+
+### 7.
+
+W okresie dwóch lat od dnia wejścia w życie ustawy nie jest wymagane sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego w przypadku ubiegania się o dopuszczenie do obrotu na rynku giełdowym, niebędącym rynkiem oficjalnych notowań, akcji:
+
+### 1)
+
+dopuszczonych od co najmniej 18 miesięcy do obrotu na rynku nieurzędowym pozagiełdowym w rozumieniu ustawy, o której mowa w ust. 2;
+
+### 2)
+
+których emitent wypełnia obowiązki związane z dopuszczeniem do obrotu na rynku wskazanym w pkt 1.
+
+W takim przypadku emitent sporządza w języku polskim memorandum informacyjne, o którym mowa w art. 39 ust. 1, i udostępnia je do publicznej wiadomości w sposób, o którym mowa w art. 47 ust. 1.
+
+### 8.
+
+Pozostają w mocy zgody i zezwolenia udzielone przez Komisję przed dniem wejścia ustawy w życie.
+
+### 9.
+
+Obowiązek ogłoszenia wezwania, o którym mowa w art. 74, ma zastosowanie również w przypadku przekraczania 66% ogólnej liczby głosów przez osobę, która przed dniem wejścia w życie ustawy przekroczyła 50% ogólnej liczby głosów.
+
+### 10.
+
+W przypadku gdy przekroczenie progu ogólnej liczby głosów, które powoduje powstanie obowiązku wykupienia akcji, o którym mowa w art. 82 i 83, nastąpiło przed dniem wejścia w życie ustawy, obowiązek ten ma zastosowanie, o ile po tym dniu udział w ogólnej liczbie głosów ulegnie dalszemu zwiększeniu. W takim przypadku termin wykonania tego obowiązku liczy się od dnia, w którym nastąpiło zdarzenie powodujące zwiększenie udziału w ogólnej liczbie głosów.
+
+### Art. 129.
+
+W okresie trzech lat od dnia wejścia w życie niniejszej ustawy sporządzenie, zatwierdzenie oraz udostępnienie do publicznej wiadomości prospektu emisyjnego nie jest wymagane w przypadku ofert publicznych prowadzonych przez Skarb Państwa:
+
+### 1)
+
+dotyczących nabycia co najmniej 10% akcji danej spółki przez jednego nabywcę lub
+
+### 2)
+
+dotyczących nabycia przez jednego nabywcę akcji w spółce, w której udział Skarbu Państwa stanowi mniej niż 10% kapitału zakładowego
+
+- dokonywanych w procesie prywatyzacji prowadzonym na podstawie odrębnych przepisów.
+
+### Art. 130.
+
+Do dnia wejścia w życie przepisów wykonawczych określonych w ustawie pozostają w mocy, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia w życie, przepisy wykonawcze wydane na podstawie art. 69, art. 81 ust. 5 i 7 oraz art. 157 ustawy, o której mowa w art. 128 ust. 2.
+
+### Art. 131.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1)
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
+
+### 1)
+
+dyrektywy Parlamentu Europejskiego i Rady 2001/34/WE z dnia 28 maja 2001 r. w sprawie dopuszczenia papierów wartościowych do publicznego obrotu giełdowego oraz informacji dotyczących tych papierów wartościowych, które podlegają publikacji ([Dz. Urz. WE L 184 z 06.07.2001](https://api.sejm.gov.pl/eli/acts//text.html), Dz. Urz. WE L 96 z 12.04.2003, Dz. Urz. WE L 345 z 31.12.2003 oraz Dz. Urz. WE L 390 z 31.12.2004);
+
+### 2)
+
+dyrektywy Parlamentu Europejskiego i Rady 2003/6/WE z dnia 28 stycznia 2003 r. w sprawie wykorzystywania poufnych informacji i manipulacji na rynku (nadużyć na rynku) ([Dz. Urz. WE L 96 z 12.04.2003](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 3)
+
+dyrektywy Parlamentu Europejskiego i Rady 2003/71/WE z dnia 4 listopada 2003 r. w sprawie prospektu emisyjnego publikowanego w związku z publiczną ofertą lub dopuszczeniem do obrotu papierów wartościowych i zmieniającej dyrektywę 2001/34/WE ([Dz. Urz. WE L 345 z 31.12.2003](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 4)
+
+dyrektywy Komisji 2003/124/WE z dnia 22 grudnia 2003 r. wykonującej dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady w zakresie definicji i publicznego ujawniania informacji wewnętrznych oraz definicji manipulacji na rynku ([Dz. Urz. WE L 339 z 24.12.2003](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+Dane dotyczące ogłoszenia aktów prawa Unii Europejskiej, zamieszczone w niniejszej ustawie - z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej - dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej - wydanie specjalne.Niniejsza ustawa zmienia ustawy: ustawę z dnia 3 lutego 1993 r. o restrukturyzacji finansowej przedsiębiorstw i banków oraz o zmianie niektórych ustaw, ustawę z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa, ustawę z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 czerwca 1995 r. o obligacjach, ustawę z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, ustawę z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”, ustawę z dnia 15 września 2000 r. - Kodeks spółek handlowych, ustawę z dnia 16 listopada 2000 r. o domach składowych oraz o zmianie Kodeksu cywilnego, Kodeksu postępowania cywilnego i innych ustaw, ustawę z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów, ustawę z dnia 15 grudnia 2000 r. o zasadach zbywania mieszkań będących własnością przedsiębiorstw państwowych, niektórych spółek handlowych z udziałem Skarbu Państwa, państwowych osób prawnych oraz niektórych mieszkań będących własnością Skarbu Państwa, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej, ustawę z dnia 2 października 2003 r. o zmianie ustawy o specjalnych strefach ekonomicznych i niektórych ustaw, ustawę z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, ustawę z dnia 27 maja 2004 r. o funduszach inwestycyjnych, ustawę z dnia 27 sierpnia 2004 r. o zmianie ustawy o rachunkowości oraz o zmianie ustawy o biegłych rewidentach i ich samorządzie, ustawę z dnia 16 grudnia 2004 r. o zmianie ustawy o portach i przystaniach morskich oraz o zmianie niektórych innych ustaw.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135 oraz z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420 i Nr 175, poz. 1462. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276 oraz z 2005 r. Nr 132, poz. 1108 i Nr 183, poz. 1538. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271, Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2052, z 2003 r. Nr 124, poz. 1152 oraz z 2004 r. Nr 62, poz. 577, Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 213, poz. 2155. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 52, poz. 235, Nr 106, poz. 496 i Nr 118, poz. 561, z 1997 r. Nr 98, poz. 603 i Nr 141, poz. 943 oraz z 2001 r. Nr 63, poz. 637. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 152, poz. 724, z 1997 r. Nr 121, poz. 770, z 2001 r. Nr 76, poz. 810 oraz z 2004 r. Nr 42, poz. 386. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124 oraz z 2005 r. Nr 157, poz. 1316 i Nr 183, poz. 1538. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 60, poz. 535 i Nr 90, poz. 844, z 2004 r. Nr 6, poz. 39, Nr 116, poz. 1207, Nr 123, poz. 1291 i Nr 273, poz. 2703 i 2722 oraz z 2005 r. Nr 167, poz. 1400, Nr 169, poz. 1418 i Nr 178, poz. 1479. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 216, poz. 1824, z 2003 r. Nr 217, poz. 2124 oraz z 2005 r. Nr 157, poz. 1316 i Nr 183, poz. 1538 i Nr 184, poz. 1539. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074, z 2003 r. Nr 56, poz. 498, Nr 65, poz. 595, Nr 135, poz. 1268, Nr 149, poz. 1450, Nr 166, poz. 1609, Nr 170, poz. 1651, Nr 190, poz. 1864, Nr 210, poz. 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 19, poz. 177, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808, Nr 187, poz. 1925 i Nr 210, poz. 2135 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 132, poz. 1110, Nr 143, poz. 1199 i 1202, Nr 150, poz. 1248, Nr 163, poz. 1362, Nr 164, poz. 1366, Nr 169, poz. 1412 i Nr 183, poz. 1538. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802, z 2002 r. Nr 205, poz. 1730 i Nr 240, poz. 2055, z 2003 r. Nr 6, poz. 63, Nr 80, poz. 720 i Nr 203, poz. 1966, z 2004 r. Nr 96, poz. 959 i Nr 120, poz. 1252 oraz z 2005 r. Nr 157, poz. 1315. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276 oraz z 2005 r. Nr 132, poz. 1108 i Nr 183, poz. 1538. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 93, poz. 891 i Nr 96, poz. 959 oraz z 2005 r. Nr 163, poz. 1362. 18) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249 oraz z 2005 r. Nr 94, poz. 788. 19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 56, poz. 495, Nr 90, poz. 844 i Nr 139, poz. 1325, z 2004 r. Nr 12, poz. 102 i Nr 120, poz. 1252 oraz z 2005 r. Nr 167, poz. 1398. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 69, poz. 625, Nr 91, poz. 877, Nr 92, poz. 882, Nr 93, poz. 896, Nr 173, poz. 1808, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 94, poz. 787, Nr 163, poz. 1362 i Nr 179, poz. 1485. 21) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 217, poz. 2125, z 2004 r. Nr 91, poz. 870 i 871, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546, Nr 173, poz. 1808 i Nr 210, poz. 2135 oraz z 2005 r. Nr 94, poz. 785 i Nr 183, poz. 1538. 22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 91, poz. 870 i Nr 96, poz. 959 oraz z 2005 r. Nr 83, poz. 719, Nr 143, poz. 1204, Nr 167, poz. 1396 i Nr 183, poz. 1538. 23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1207, Nr 145, poz. 1537 i Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1362.

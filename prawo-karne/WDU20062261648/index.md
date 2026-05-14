@@ -8,11 +8,9 @@ pos: 1648
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
-
-*USTAWA dnia 16 listopada 2006 o zmianie ustawy – Kodeks karny oraz niektórych innych ustaw*
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się także: ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,79 +22,316 @@ domain: null
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-12-11 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062261648) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1648/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/1648/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/1648) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 – Kodeks karny (Dz. U. 88, 553, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 6 czerwca 1997 – Kodeks postępowania karnego (Dz. U. 89, 555, późn. zm. ) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 517a.** W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu zwyczajnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409 i Nr 218, poz. 1592.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 517b.**
+### 1)
 
-1. W postępowaniu przyspieszonym mogą być rozpoznawane sprawy o przestępstwa podlegające rozpoznaniu trybie uproszczonym, jeżeli sprawca został ujęty na gorącym uczynku popełnienia przestępstwa lub bezpośrednio potem, zatrzymany oraz ciągu 48 godzin doprowadzony przez Policję przekazany do dyspozycji sądu wraz wnioskiem o rozpoznanie sprawy postępowaniu przyspieszonym, zwanym dalej „wnioskiem o rozpoznanie”.
+art. 49a otrzymuje brzmienie:
 
-2. Postępowanie przyspieszone toczy się trybie publicznoskargowym także o przestępstwa ścigane oskarżenia prywatnego, jeżeli miały one charakter chuligański.
+„
 
-3. Dochodzenia można zaniechać lub przeprowadzić je niezbędnym zakresie. W wypadku prowadzenia dochodzenia czynności procesowych określonych art. 303, 313 321 można nie dokonywać. W razie przesłuchania osoby podejrzanej charakterze podejrzanego poucza się ją o uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do korzystania pomocy obrońcy, jak również o obowiązkach konsekwencjach wskazanych art. 74, 75, 138 139. Otrzymanie tego pouczenia osoba przesłuchiwana potwierdza podpisem.
+### Art. 49a.
 
-4. Jeżeli zachodzą wystarczające podstawy do sporządzenia wniosku o rozpoznanie, funkcjonariusz Policji przedstawia ten wniosek na piśmie prokuratorowi, który go zatwierdza, a następnie kieruje do sądu; wniosek o rozpoznanie zastępuje akt oskarżenia. W razie odmowy zatwierdzenia prokurator podejmuje decyzję co do dalszego biegu sprawy.
+### § 1.
 
-5. Przed podjęciem decyzji, o których mowa 4, prokurator przesłuchuje osobę podejrzaną lub – razie wcześniejszego jej przesłuchania – podejrzanego.
+Organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47, 49 i 57a § 2, muszą obejmować swoją działalnością terytorium całego kraju.
 
-6. Wniosek o rozpoznanie powinien zawierać dane, o których mowa art. 332 1 pkt 1-5; przepisy art. 333 1-3 art. 334 1 stosuje się odpowiednio; art. 334 2 nie stosuje się. Policja oraz jego obrońcy, oznaczając czas na przygotowanie do obrony. Oskarżonemu należy umożliwić kontakt obrońcą bez udziału osób trzecich.
+### § 2.
 
-8. Powództwo cywilne jest niedopuszczalne.
+Minister Sprawiedliwości prowadzi wykaz, do którego wpisuje instytucje, organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47, 49 i 57a § 2. Wpisu do wykazu dokonuje się na wniosek zainteresowanego podmiotu. Wykaz jest publikowany co najmniej raz w roku, w formie obwieszczenia, w Dzienniku Urzędowym Ministra Sprawiedliwości.
 
-9. Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, a także jeżeli ciągu 48 godzin od chwili zatrzymania przez uprawniony organ nie zostanie on przekazany do dyspozycji sądu wraz wnioskiem o rozpoznanie; należy go także zwolnić na polecenie sądu lub prokuratora. Przepisy art. 248 2 3 stosuje się.
+” ;
 
-10. Sąd przystępuje niezwłocznie do rozpoznania sprawy; przepisów art. 335, 339 1 3-5, art. 351 1 oraz art. 353 nie stosuje się.
+### 2)
 
-11. Sąd rejonowy rozpoznaje sprawę jednoosobowo. W postępowaniu odwoławczym prezes sądu okręgowego może zarządzić rozpoznanie sprawy jednoosobowo, jeżeli jest to uzasadnione jej szczególnymi okolicznościami. Jeżeli sąd rozpoznaje sprawę jednoosobowo, sędzia ma prawa obowiązki przewodniczącego.
+po art. 57 dodaje się art. 57a w brzmieniu:
 
-12. Każda osoba wezwana przez Policję charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się sądzie we wskazanym terminie.
+„
 
-**Art. 517c.**
+### Art. 57a.
 
-1. Postępowanie przyspieszone prowadzi się również razie jednorazowej przerwy rozprawie trwającej nie dłużej niż 14 dni; zarządzając przerwę, sąd rozstrzyga przedmiocie zastosowania środka zapobiegawczego. W sprawie o występek o charakterze chuligańskim sąd stosuje środek zapobiegawczy, przy czym chuligański charakter czynu stanowi samoistną podstawę zastosowania tego środka; przepisu art. 259 3 nie stosuje się.
+### § 1.
 
-2. Jeżeli sąd przed rozprawą główną lub jej toku stwierdzi, że sprawa nie podlega rozpoznaniu trybie przyspieszonym albo nie można jej rozpoznać terminie 14 dni, rozpoznaje sprawę dalszym ciągu trybie uproszczonym tym samym składzie. W razie niemożności rozpoznania sprawy także trybie uproszczonym, sąd rozstrzyga przedmiocie środka zapobiegawczego przekazuje sprawę prokuratorowi celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego.
+Skazując za występek o charakterze chuligańskim, sąd wymierza karę przewidzianą za przypisane sprawcy przestępstwo w wysokości nie niższej od dolnej granicy ustawowego zagrożenia zwiększonego o połowę.
 
-3. Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd stwierdzi, że zachodzi potrzeba uzupełnienia postępowania dowodowego, zaś dokonanie niezbędnych czynności postępowaniu sądowym powodowałoby znaczne trudności, przekazuje sprawę prokuratorowi celu przeprowadzenia postępowania przygotowawczego na zasabez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga przedmiocie środka zapobiegawczego. Chuligański charakter czynu stanowi samoistną podstawę zastosowania tego środka; przepisu art. 259 3 nie stosuje się.
+### § 2.
 
-**Art. 517d.** Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga przedmiocie środka zapobiegawczego przekazuje sprawę prokuratorowi celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział wydaniu postanowienia, jest mocy prawa wyłączony od dalszego udziału sprawie.
+W wypadku określonym w § 1 sąd orzeka nawiązkę na rzecz pokrzywdzonego, chyba że orzeka obowiązek naprawienia szkody lub nawiązkę na podstawie art. 46. Jeżeli pokrzywdzony nie został ustalony, sąd może orzec nawiązkę na rzecz instytucji, stowarzyszenia, fundacji lub organizacji społecznej, wpisanej do wykazu prowadzonego przez Ministra Sprawiedliwości, której podstawowym zadaniem lub celem statutowym jest spełnianie świadczeń na określony cel społeczny, bezpośrednio związany z ochroną dobra naruszonego lub zagrożonego przestępstwem, za które skazano sprawcę, z przeznaczeniem na ten cel.
 
-**Art. 517e.** W postępowaniu przyspieszonym przepisów art. 98 2 art. 411 1 nie stosuje się.
+” ;
 
-**Art. 517f.**
+### 3)
 
-1. W terminie zawitym 3 dni od daty ogłoszenia wyroku strona może złożyć wniosek o sporządzenie na piśmie doręczenie uzasadnienia wyroku. Wniosek ten może być zgłoszony ustnie do protokołu albo sporządzony na piśmie. Wniosek niepochodzący od oskarżonego powinien wskazywać tego oskarżonych, którego dotyczy.
+w art. 58 § 4 otrzymuje brzmienie:
 
-2. Termin do wniesienia apelacji wynosi 7 dni biegnie dla każdego uprawnionego od daty doręczenia mu wyroku uzasadnieniem.
+„
 
-**Art. 517g.**
+### § 4.
 
-1. Sąd sporządza uzasadnienie wyroku terminie 3 dni od daty złożenia wniosku o sporządzenie uzasadnienia.
+Przepisu § 3 nie stosuje się do sprawcy występku umyślnego, który był uprzednio skazany na karę pozbawienia wolności na czas nie krótszy niż 6 miesięcy bez warunkowego zawieszenia jej wykonania, oraz do sprawcy występku o charakterze chuligańskim.
 
-2. Akta przekazuje się niezwłocznie sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej ciągu miesiąca od otrzymania akt sprawy wraz apelacją. Przepisu art. 448 nie stosuje się.
+” ;
 
-3. W wypadku wniesienia apelacji przez prokuratora, obrońcę lub pełnomocnika sąd odwoławczy dołącza do zawiadomienia o terminie rozprawy apelacyjnej odpis apelacji strony przeciwnej.
+### 4)
 
-**Art. 517h.**
+art. 59 otrzymuje brzmienie:
 
-1. Jeżeli po rozpoznaniu środka odwoławczego sąd stwierdza, że zachodzi potrzeba uzupełnienia postępowania dowodowego co do istoty sprawy, może przekazać sprawę prokuratorowi celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+„
 
-2. W wypadku uchylenia wyroku przekazania sprawy do ponownego rozpoznania dalsze postępowanie toczy się trybie uproszczonym. W razie niemożności rozpoznania sprawy postępowaniu uproszczonym, uchylając wyrok, sąd przekazuje sprawę prokuratorowi celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych. wego do rozpoznania sprawy wyznacza mu obrońcę urzędu; przepis art. 81 2 stosuje się.
+### Art. 59.
 
-3. Jeżeli sprawie, której oskarżony korzysta obrońcy wyboru, obrońca lub oskarżony wypowiada stosunek obrończy, prezes sądu lub sąd wyznacza obrońcę urzędu, o ile oskarżony nie ustanowił niezwłocznie obrońcy wyboru.
+### § 1.
 
-4. Dla realizacji prawa oskarżonego do korzystania pomocy obrońcy postępowaniu przyspieszonym ustanawia się obowiązek pełnienia przez adwokatów dyżurów czasie miejscu ustalonym odrębnych przepisach. Obrońcę urzędu prezes sądu lub sąd wyznacza spośród adwokatów pełniących dyżur, a razie braku takiej możliwości przyczyn obiektywnych może go wyznaczyć spośród innych adwokatów.
+Jeżeli przestępstwo jest zagrożone karą pozbawienia wolności nieprzekraczającą 3 lat albo alternatywnie karami wymienionymi w art. 32 pkt 1-3 i społeczna szkodliwość czynu nie jest znaczna, sąd może odstąpić od wymierzenia kary, jeżeli orzeka równocześnie środek karny, a cele kary zostaną przez ten środek spełnione.
 
-**Art. 517j.** Minister Sprawiedliwości określi, drodze rozporządzenia, sposób zapewnienia oskarżonemu możliwości korzystania pomocy obrońcy, tym organizacji dyżurów, o których mowa art. 517i 4, mając na uwadze konieczność udziału obrońcy postępowaniu przyspieszonym.”;
+### § 2.
 
-**Art. 3.** W ustawie dnia 6 czerwca 1997 – Kodeks karny wykonawczy (Dz. U. 90, 557, późn. zm. ) art. 196a 2 otrzymuje brzmienie: „§ 2. Instytucje, fundacje, stowarzyszenia lub organizacje społeczne, które wyniku wykonania prawomocnie orzeczonego środka karnego postaci nawiązki określonej art. 47 57a 2 Kodeksu karnego lub świadczenia pieniężnego określonego art. 49 Kodeksu karnego otrzymały środki finansowe, są obowiązane do sporządzania przekazywania Ministrowi Sprawiedliwości rocznych sprawozdań dotyczących wykorzystania tych środków terminie do dnia 20 lutego roku następującego po roku, którym je otrzymały, oraz do wyodrębnienia tych środków ewidencji księgowej.”.
+Przepisu § 1 nie stosuje się do sprawcy występku o charakterze chuligańskim.
 
-**Art. 4.** W ustawie dnia 24 sierpnia 2001 – Kodeks postępowania sprawach o wykroczenia (Dz. U. 106, 1148, późn. zm. ) art. 90 3 otrzymuje brzmienie: charakterze chuligańskim.”.
+” ;
 
-**Art. 5.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia.
+### 5)
 
+w art. 69 po § 3 dodaje się § 4 w brzmieniu:
+
+„
+
+### § 4.
+
+Zawieszenia wykonania kary ograniczenia wolności lub grzywny nie stosuje się wobec sprawcy występku o charakterze chuligańskim; sąd może warunkowo zawiesić wykonanie kary pozbawienia wolności w szczególnie uzasadnionych wypadkach.
+
+” ;
+
+### 6)
+
+w art. 115 po § 20 dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Występkiem o charakterze chuligańskim jest występek polegający na umyślnym zamachu na zdrowie, na wolność, na cześć lub nietykalność cielesną, na bezpieczeństwo powszechne, na działalność instytucji państwowych lub samorządu terytorialnego, na porządek publiczny, albo na umyślnym niszczeniu, uszkodzeniu lub czynieniu niezdatną do użytku cudzej rzeczy, jeżeli sprawca działa publicznie i bez powodu albo z oczywiście błahego powodu, okazując przez to rażące lekceważenie porządku prawnego.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 244 § 1 otrzymuje brzmienie:
+
+„
+
+### 11.
+
+Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że popełniła ona przestępstwo, a zachodzi obawa ucieczki lub ukrycia się tej osoby albo zatarcia śladów przestępstwa bądź też nie można ustalić jej tożsamości albo istnieją przesłanki do przeprowadzenia przeciwko tej osobie postępowania w trybie przyspieszonym.
+
+” ;
+
+### 2)
+
+w art. 439 w § 1 pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+oskarżony w postępowaniu sądowym nie miał obrońcy w wypadkach określonych w art. 79 § 1 i 2, art. 80 oraz art. 517i § 1 lub obrońca nie brał udziału w czynnościach, w których jego udział był obowiązkowy,
+
+” ;
+
+### 3)
+
+po rozdziale 54 dodaje się rozdział 54a w brzmieniu:
+
+„
+
+### Rozdział 54a Postępowanie przyspieszone
+
+### Art. 517a.
+
+W postępowaniu przyspieszonym stosuje się przepisy o postępowaniu zwyczajnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+
+### Art. 517b.
+
+### § 1.
+
+W postępowaniu przyspieszonym mogą być rozpoznawane sprawy o przestępstwa podlegające rozpoznaniu w trybie uproszczonym, jeżeli sprawca został ujęty na gorącym uczynku popełnienia przestępstwa lub bezpośrednio potem, zatrzymany oraz w ciągu 48 godzin doprowadzony przez Policję i przekazany do dyspozycji sądu wraz z wnioskiem o rozpoznanie sprawy w postępowaniu przyspieszonym, zwanym dalej „wnioskiem o rozpoznanie”.
+
+### § 2.
+
+Postępowanie przyspieszone toczy się w trybie publicznoskargowym także o przestępstwa ścigane z oskarżenia prywatnego, jeżeli miały one charakter chuligański.
+
+### § 3.
+
+Dochodzenia można zaniechać lub przeprowadzić je w niezbędnym zakresie. W wypadku prowadzenia dochodzenia czynności procesowych określonych w art. 303, 313 i 321 można nie dokonywać. W razie przesłuchania osoby podejrzanej w charakterze podejrzanego poucza się ją o uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do korzystania z pomocy obrońcy, jak również o obowiązkach i konsekwencjach wskazanych w art. 74, 75, 138 i 139. Otrzymanie tego pouczenia osoba przesłuchiwana potwierdza podpisem.
+
+### § 4.
+
+Jeżeli zachodzą wystarczające podstawy do sporządzenia wniosku o rozpoznanie, funkcjonariusz Policji przedstawia ten wniosek na piśmie prokuratorowi, który go zatwierdza, a następnie kieruje do sądu; wniosek o rozpoznanie zastępuje akt oskarżenia. W razie odmowy zatwierdzenia prokurator podejmuje decyzję co do dalszego biegu sprawy.
+
+### § 5.
+
+Przed podjęciem decyzji, o których mowa w § 4, prokurator przesłuchuje osobę podejrzaną lub - w razie wcześniejszego jej przesłuchania - podejrzanego.
+
+### § 6.
+
+Wniosek o rozpoznanie powinien zawierać dane, o których mowa w art. 332 § 1 pkt 1-5; przepisy art. 333 § 1-3 i art. 334 § 1 stosuje się odpowiednio; art. 334 § 2 nie stosuje się. Policja doręcza pokrzywdzonemu pisemne pouczenie o uprawnieniach wynikających z art. 49a i 387 oraz o prawie do złożenia oświadczenia o działaniu w postępowaniu w charakterze oskarżyciela posiłkowego.
+
+### § 7.
+
+Odpis wniosku o rozpoznanie prezes sądu doręcza oskarżonemu oraz jego obrońcy, oznaczając czas na przygotowanie do obrony. Oskarżonemu należy umożliwić kontakt z obrońcą bez udziału osób trzecich.
+
+### § 8.
+
+Powództwo cywilne jest niedopuszczalne.
+
+### § 9.
+
+Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, a także jeżeli w ciągu 48 godzin od chwili zatrzymania przez uprawniony organ nie zostanie on przekazany do dyspozycji sądu wraz z wnioskiem o rozpoznanie; należy go także zwolnić na polecenie sądu lub prokuratora. Przepisy art. 248 § 2 i 3 stosuje się.
+
+### § 10.
+
+Sąd przystępuje niezwłocznie do rozpoznania sprawy; przepisów art. 335, 339 § 1 i § 3-5, art. 351 § 1 oraz art. 353 nie stosuje się.
+
+### § 11.
+
+Sąd rejonowy rozpoznaje sprawę jednoosobowo. W postępowaniu odwoławczym prezes sądu okręgowego może zarządzić rozpoznanie sprawy jednoosobowo, jeżeli jest to uzasadnione jej szczególnymi okolicznościami. Jeżeli sąd rozpoznaje sprawę jednoosobowo, sędzia ma prawa i obowiązki przewodniczącego.
+
+### § 12.
+
+Każda osoba wezwana przez Policję w charakterze świadka, biegłego, tłumacza lub specjalisty jest obowiązana stawić się w sądzie we wskazanym terminie.
+
+### Art. 517c.
+
+### § 1.
+
+Postępowanie przyspieszone prowadzi się również w razie jednorazowej przerwy w rozprawie trwającej nie dłużej niż 14 dni; zarządzając przerwę, sąd rozstrzyga w przedmiocie zastosowania środka zapobiegawczego. W sprawie o występek o charakterze chuligańskim sąd stosuje środek zapobiegawczy, przy czym chuligański charakter czynu stanowi samoistną podstawę zastosowania tego środka; przepisu art. 259 § 3 nie stosuje się.
+
+### § 2.
+
+Jeżeli sąd przed rozprawą główną lub w jej toku stwierdzi, że sprawa nie podlega rozpoznaniu w trybie przyspieszonym albo nie można jej rozpoznać w terminie 14 dni, rozpoznaje sprawę w dalszym ciągu w trybie uproszczonym w tym samym składzie. W razie niemożności rozpoznania sprawy także w trybie uproszczonym, sąd rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego.
+
+### § 3.
+
+Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd stwierdzi, że zachodzi potrzeba uzupełnienia postępowania dowodowego, zaś dokonanie niezbędnych czynności w postępowaniu sądowym powodowałoby znaczne trudności, przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych, zawiadamiając o tym pokrzywdzonego; przed przekazaniem sprawy sąd rozstrzyga w przedmiocie środka zapobiegawczego.
+
+### § 4.
+
+W razie skazania oskarżonego na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania sąd, po wysłuchaniu stron, rozstrzyga w przedmiocie środka zapobiegawczego. Chuligański charakter czynu stanowi samoistną podstawę zastosowania tego środka; przepisu art. 259 § 3 nie stosuje się.
+
+### Art. 517d.
+
+Jeżeli na podstawie okoliczności ujawnionych po rozpoczęciu przewodu sądowego sąd przewiduje możliwość wymierzenia kary powyżej 2 lat pozbawienia wolności, rozstrzyga w przedmiocie środka zapobiegawczego i przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych; sędzia, który brał udział w wydaniu postanowienia, jest z mocy prawa wyłączony od dalszego udziału w sprawie.
+
+### Art. 517e.
+
+W postępowaniu przyspieszonym przepisów art. 98 § 2 i art. 411 § 1 nie stosuje się.
+
+### Art. 517f.
+
+### § 1.
+
+W terminie zawitym 3 dni od daty ogłoszenia wyroku strona może złożyć wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku. Wniosek ten może być zgłoszony ustnie do protokołu albo sporządzony na piśmie. Wniosek niepochodzący od oskarżonego powinien wskazywać tego z oskarżonych, którego dotyczy.
+
+### § 2.
+
+Termin do wniesienia apelacji wynosi 7 dni i biegnie dla każdego uprawnionego od daty doręczenia mu wyroku z uzasadnieniem.
+
+### Art. 517g.
+
+### § 1.
+
+Sąd sporządza uzasadnienie wyroku w terminie 3 dni od daty złożenia wniosku o sporządzenie uzasadnienia.
+
+### § 2.
+
+Akta przekazuje się niezwłocznie sądowi odwoławczemu, który rozpoznaje sprawę najpóźniej w ciągu miesiąca od otrzymania akt sprawy wraz z apelacją. Przepisu art. 448 nie stosuje się.
+
+### § 3.
+
+W wypadku wniesienia apelacji przez prokuratora, obrońcę lub pełnomocnika sąd odwoławczy dołącza do zawiadomienia o terminie rozprawy apelacyjnej odpis apelacji strony przeciwnej.
+
+### Art. 517h.
+
+### § 1.
+
+Jeżeli po rozpoznaniu środka odwoławczego sąd stwierdza, że zachodzi potrzeba uzupełnienia postępowania dowodowego co do istoty sprawy, może przekazać sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+
+### § 2.
+
+W wypadku uchylenia wyroku i przekazania sprawy do ponownego rozpoznania dalsze postępowanie toczy się w trybie uproszczonym. W razie niemożności rozpoznania sprawy w postępowaniu uproszczonym, uchylając wyrok, sąd przekazuje sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+
+### Art. 517i.
+
+### § 1.
+
+W postępowaniu przyspieszonym przed sądem oskarżony musi mieć obrońcę. Przepis art. 79 § 3 stosuje się odpowiednio.
+
+### § 2.
+
+Jeżeli oskarżony nie ma obrońcy z wyboru, prezes sądu właściwego do rozpoznania sprawy wyznacza mu obrońcę z urzędu; przepis art. 81 § 2 stosuje się.
+
+### § 3.
+
+Jeżeli w sprawie, w której oskarżony korzysta z obrońcy z wyboru, obrońca lub oskarżony wypowiada stosunek obrończy, prezes sądu lub sąd wyznacza obrońcę z urzędu, o ile oskarżony nie ustanowił niezwłocznie obrońcy z wyboru.
+
+### § 4.
+
+Dla realizacji prawa oskarżonego do korzystania z pomocy obrońcy w postępowaniu przyspieszonym ustanawia się obowiązek pełnienia przez adwokatów dyżurów w czasie i miejscu ustalonym w odrębnych przepisach. Obrońcę z urzędu prezes sądu lub sąd wyznacza spośród adwokatów pełniących dyżur, a w razie braku takiej możliwości z przyczyn obiektywnych może go wyznaczyć spośród innych adwokatów.
+
+### Art. 517j.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zapewnienia oskarżonemu możliwości korzystania z pomocy obrońcy, w tym organizacji dyżurów, o których mowa w art. 517i § 4, mając na uwadze konieczność udziału obrońcy w postępowaniu przyspieszonym.
+
+” ;
+
+### 4)
+
+art. 646 otrzymuje brzmienie:
+
+„
+
+### Art. 646.
+
+W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przepisów o postępowaniu uproszczonym, prywatnoskargowym, nakazowym i przyspieszonym. Poza tym stosuje się przepisy działów poprzednich, chyba że przepisy działu niniejszego stanowią inaczej.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy ([Dz. U. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708.](#gloss-0:4:)) w art. 196a § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Instytucje, fundacje, stowarzyszenia lub organizacje społeczne, które w wyniku wykonania prawomocnie orzeczonego środka karnego w postaci nawiązki określonej w art. 47 i 57a § 2 Kodeksu karnego lub świadczenia pieniężnego określonego w art. 49 Kodeksu karnego otrzymały środki finansowe, są obowiązane do sporządzania i przekazywania Ministrowi Sprawiedliwości rocznych sprawozdań dotyczących wykorzystania tych środków w terminie do dnia 20 lutego roku następującego po roku, w którym je otrzymały, oraz do wyodrębnienia tych środków w ewidencji księgowej.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. Nr 106, poz. 1148](https://api.sejm.gov.pl/eli/acts/DU/2001/1148/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203.](#gloss-0:5:)) w art. 90 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Postępowanie przyspieszone stosuje się także wobec sprawców wykroczeń o charakterze chuligańskim.
+
+” .
+
+### Art. 5.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się także: ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493 oraz z 2006 r. Nr 190, poz. 1409 i Nr 218, poz. 1592. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479 oraz z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679, z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750, z 2004 r. Nr 93, poz. 889, Nr 210, poz. 2135, Nr 240, poz. 2405, Nr 243, poz. 2426 i Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1363 i Nr 178, poz. 1479 oraz z 2006 r. Nr 104, poz. 708. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 109, poz. 1031 i Nr 213, poz. 2081, z 2004 r. Nr 128, poz. 1351 oraz z 2005 r. Nr 132, poz. 1103 i Nr 143, poz. 1203.

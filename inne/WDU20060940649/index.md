@@ -8,11 +8,9 @@ pos: 649
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
-
-*USTAWA z dnia 5 kwietnia 2006 r.*
+# Ustawa z dnia 5 kwietnia 2006 r. o finansowaniu Papieskiego Wydziału Teologicznego we Wrocławiu z budżetu państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2006-04-05 |
 | Data wydania | 2006-06-05 |
 | Ostatnia zmiana | 2024-06-28 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/649/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/649/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/649) |
 
-**Art. 1.** Papieski Wydział Teologiczny we Wrocławiu otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2006 r.
+### Art. 1.
 
+Papieski Wydział Teologiczny we Wrocławiu otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych, z wyjątkiem finansowania kosztów realizacji inwestycji budowlanych.
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 października 2006 r.

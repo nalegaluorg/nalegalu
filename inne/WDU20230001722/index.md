@@ -8,9 +8,9 @@ pos: 1722
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych
+# Ustawa z dnia 13 lipca 2023 r. o szczególnych rozwiązaniach dotyczących regulacji stanu prawnego niektórych dróg ogólnodostępnych
 
 | Pole | Wartość |
 |---|---|
@@ -22,125 +22,350 @@ domain: null
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-29 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1722/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1722/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1722) |
 
-**Art. 1.** Ustawa określa:
+## Treść ustawy
 
-**Art. 2.** Ilekroć niniejszej ustawie jest o:
+### Art. 1.
 
-**Art. 3.**
+Ustawa określa:
 
-1. Nieruchomości gruntowe pozostające dniu wejścia życie ustawy co najmniej 20 lat we władaniu gminy, użytkowane jako ogólnodostępne, niezaliczone kategorii dróg publicznych, mogą zostać nabyte na własność gminy.
+### 1)
 
-2. Przez nieruchomość, której ust. 1, należy rozumieć nieruchomość niezabudowaną, utwardzoną, użytkowaną jako drogę ogólnodostępną znaczeniu lokalnym, po której odbywa się ruch pojazdów pieszych, wykorzystywaną przez nieokreśloną liczbę użytkowników, stanowiącą uzupełnienie sieci dróg służących miejscowym potrzebom, funkcjonalnie zbliżoną dróg publicznych połączoną drogami publicznymi.
+szczególne rozwiązania dotyczące nabywania przez gminę własności niektórych nieruchomości gruntowych użytkowanych jako drogi ogólnodostępne;
 
-**Art. 4.**
+### 2)
 
-1. Nabycie własności nieruchomości, których art. 3 ust. 1, następuje na podstawie nieruchomości.
+organy właściwe w sprawach dotyczących regulacji stanu prawnego niektórych nieruchomości gruntowych użytkowanych jako drogi ogólnodostępne;
 
-2. Decyzję wydaje właściwy miejscowo starosta wykonujący zadania zakresu administracji rządowej na wniosek wójta (burmistrza, prezydenta miasta).
+### 3)
 
-3. Wójt (burmistrz, prezydent miasta) może złożyć wniosek wydanie najpóźniej 31 grudnia 2035 r.
+zasady ustalania odszkodowania za niektóre nieruchomości gruntowe użytkowane jako drogi ogólnodostępne.
 
-4. W przypadku gdy co najmniej 2/3 właścicieli nieruchomości, których art. 3 ust. 1, stanowiących dojazd co najmniej 10 zabudowanych, wystąpi wójta (burmistrza, prezydenta miasta) złożenie wniosku, którym ust. 2, wójt (burmistrz, prezydent miasta) składa wniosek wydanie terminie 6 miesięcy wystąpienia wnioskiem przez właścicieli nieruchomości, których art. 3 ust. 1, albo wskazuje przyczyny, uwagi na wniosek nie może być złożony.
+### Art. 2.
 
-5. Wniosek, którym ust. 2, zawiera szczególności:
+Ilekroć w niniejszej ustawie jest mowa o:
 
-- **1)** mapę skali 1:5000 albo większej przedstawiającą przebieg według stanu na dzień wejścia życie ustawy;
-- **2)** mapy projektami podziału nieruchomości, przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie ustawą 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. 2023 r. poz. 344, 1113, 1463, 1506 1688) oraz ustawą 17 maja 1989 r. – Prawo geodezyjne kartograficzne; jej właściciela użytkownika wieczystego;
-- **7)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających wskazane zgodnie pkt 4;
-- **8)** dokumenty potwierdzające władanie przez gminę nieruchomościami objętymi wnioskiem co najmniej 20 lat wejścia życie ustawy.
+### 1)
 
-6. Dokumentami, których ust. 5 pkt 8, są szczególności:
+katastrze nieruchomości - należy przez to rozumieć kataster w rozumieniu ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2021 r. poz. 1990](https://api.sejm.gov.pl/eli/acts/DU/2021/1990/text.html), [z 2022 r. poz. 1846](https://api.sejm.gov.pl/eli/acts/DU/2022/1846/text.html) i [2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html) oraz [z 2023 r. poz. 803](https://api.sejm.gov.pl/eli/acts/DU/2023/803/text.html), [1615](https://api.sejm.gov.pl/eli/acts/DU/2023/1615/text.html) i [1688](https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text.html));
 
-- **1)** umowy dotyczące robót budowlanych utrzymania ogólnodostępnej;
-- **2)** rachunki faktury wykonanie robót budowlanych oraz protokoły odbioru robót budowlanych dotyczących ogólnodostępnej;
-- **3)** umowy ubezpieczenia ogólnodostępnej;
-- **4)** metryki, plany liniowe, rejestry wykonanych robót protokoły przeglądu ogólnodostępnej;
-- **5)** dowody zeznań właścicieli użytkowanych jako ogólnodostępne, właścicieli sąsiednich, pracowników właściwych urzędów oraz świadków;
-- **6)** dokumenty potwierdzające przeznaczenie środków budżetu gminy na inwestycje drogowe;
-- **7)** dokumentacja prac geodezyjnych wykonanych celu uregulowania stanu prawnego istniejącej ogólnodostępnej;
-- **8)** dokumentacja projektowa przebudowy sporządzona przed wejściem życie ustawy;
-- **9)** wypis ewidencji gruntów budynków.
+### 2)
 
-**Art. 5.**
+nieruchomości o nieuregulowanym stanie prawnym - należy przez to rozumieć nieruchomość, dla której, ze względu na brak księgi wieczystej, zbioru dokumentów albo innych dokumentów, nie można ustalić osób, którym przysługują do niej prawa rzeczowe, lub nieruchomość, której dotychczasowy właściciel lub użytkownik wieczysty nie żyje, a spadkobiercy nie wykazali prawa do spadku.
 
-1. Starosta, terminie 14 dni wszczęcia postępowania sprawie wydania nieruchomości, zawiadamia wszczęciu tego postępowania:
+### Art. 3.
 
-- **1)** wnioskodawcę;
-- **2)** właścicieli użytkowników wieczystych objętych wnioskiem, którym art. 4 ust. 2, na adres wskazany katastrze nieruchomości; doręczenie zawiadomienia na adres wskazany katastrze jest skuteczne.
+### 1.
 
-2. Zawiadomienie, którym ust. 1, zawiera szczególności:
+Nieruchomości gruntowe pozostające w dniu wejścia w życie ustawy od co najmniej 20 lat we władaniu gminy, użytkowane jako drogi ogólnodostępne, niezaliczone do kategorii dróg publicznych, mogą zostać nabyte na własność gminy.
 
-- **1)** wskazanie objętych wnioskiem, którym art. 4 ust. 2;
-- **2)** informację terminie miejscu, którym strony mogą zapoznać się aktami sprawy;
-- **3)** informację zakazie, którym ust. 4.
+### 2.
 
-3. W przypadku nieuregulowanym stanie prawnym starosta wysyła zawiadomienie, którym ust. 1, jedynie wnioskodawcy, zaś pozostałe strony postępowania zawiadamia, drodze obwieszczenia, siedzibie swojego urzędu, a także urzędzie gminy właściwej ze względu na położenie nieruchomości, oraz Biuletynie Informacji Publicznej na stronach podmiotowych tych urzędów.
+Przez nieruchomość, o której mowa w ust. 1, należy rozumieć nieruchomość niezabudowaną, utwardzoną, użytkowaną jako drogę ogólnodostępną o znaczeniu lokalnym, po której odbywa się ruch pojazdów i pieszych, wykorzystywaną przez nieokreśloną liczbę użytkowników, stanowiącą uzupełnienie sieci dróg służących miejscowym potrzebom, funkcjonalnie zbliżoną do dróg publicznych i połączoną z drogami publicznymi.
 
-4. Z dniem doręczenia zawiadomienia, którym ust. 1, objęte wnioskiem, którym art. 4 ust. 2, nie mogą być przedmiotem obrotu rozumieniu ustawy 21 sierpnia 1997 r. gospodarce nieruchomościami dnia, którym decyzja sprawie tego wniosku stała się ostateczna.
+### Art. 4.
 
-5. Czynność dokonana naruszeniem ust. 4 jest nieważna.
+### 1.
 
-**Art. 6.**
+Nabycie własności nieruchomości, o których mowa w art. 3 ust. 1, następuje na podstawie decyzji o nabyciu nieruchomości.
 
-1. Decyzja zawiera szczególności: stała się ostateczna.
+### 2.
 
-4. Jeżeli części, których ust. 1 pkt 2, zostały oddane użytkowanie wieczyste, to użytkowanie to zakresie wskazanym wygasa dniem, którym decyzja ta stała się ostateczna.
+Decyzję o nabyciu nieruchomości wydaje właściwy miejscowo starosta wykonujący zadania z zakresu administracji rządowej na wniosek wójta (burmistrza, prezydenta miasta).
 
-5. Jeżeli części, których ust. 1 pkt 2, prawa użytkowania wieczystego tych są obciążone ograniczonymi prawami rzeczowymi, prawa te wygasają dniem, którym decyzja stała się ostateczna.
+### 3.
 
-6. Droga ogólnodostępna, której ust. 1 pkt 1, zostaje mocy prawa zaliczona kategorii dróg gminnych dniem, którym decyzja stała się ostateczna.
+Wójt (burmistrz, prezydent miasta) może złożyć wniosek o wydanie decyzji o nabyciu nieruchomości najpóźniej do dnia 31 grudnia 2035 r.
 
-7. Ostateczna decyzja stanowi podstawę dokonania wpisów księdze wieczystej katastrze nieruchomości.
+### 4.
 
-**Art. 7.**
+W przypadku gdy co najmniej 2/3 właścicieli nieruchomości, o których mowa w art. 3 ust. 1, stanowiących dojazd do co najmniej 10 nieruchomości zabudowanych, wystąpi do wójta (burmistrza, prezydenta miasta) o złożenie wniosku, o którym mowa w ust. 2, wójt (burmistrz, prezydent miasta) składa wniosek o wydanie decyzji o nabyciu nieruchomości w terminie 6 miesięcy od dnia wystąpienia z wnioskiem przez właścicieli nieruchomości, o których mowa w art. 3 ust. 1, albo wskazuje przyczyny, z uwagi na które wniosek nie może być złożony.
 
-1. Starosta, terminie 14 dni wydania nieruchomości, doręcza tę decyzję wnioskodawcy oraz zawiadamia jej wydaniu właścicieli użytkowników wieczystych objętych tą decyzją na adres wskazany katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany katastrze jest skuteczne.
+### 5.
 
-2. Zawiadomienie, którym ust. 1, zawiera informację miejscu, którym strony mogą zapoznać się treścią decyzji.
+Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
 
-3. W przypadku nieuregulowanym stanie prawnym zawiadomienie, którym ust. 1, następuje, drodze obwieszczenia, siedzibie organu prowadzącego postępowanie, a także urzędzie gminy właściwej ze względu na położenie nieruchomości, oraz Biuletynie Informacji Publicznej na stronach podmiotowych tych urzędów. W obwieszczeniu zamieszcza się informację miejscu, którym strony mogą zapoznać się treścią decyzji.
+### 1)
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do:
+mapę w skali 1:5000 albo większej przedstawiającą przebieg drogi ogólnodostępnej według stanu na dzień wejścia w życie ustawy;
 
-- **1)** zawiadamiania stron wniesieniu odwołania zażalenia na postanowienia wydane toku postępowania sprawie wydania nieruchomości;
-- **2)** zawiadamiania stron wszczęciu postępowania sprawie uchylenia zmiany nieruchomości;
-- **3)** zawiadamiania stron wznowieniu postępowania sprawie zakończonej ostateczną decyzją nieruchomości;
-- **4)** zawiadamiania stron wszczęciu postępowania sprawie stwierdzenia nieważności nieruchomości;
-- **5)** zawiadamiania stron wszczęciu postępowania sprawie stwierdzenia wygaśnięcia nieruchomości;
-- **6)** doręczeń wydanych sprawach, których pkt 1–5, oraz zawiadamiania wydaniu;
-- **7)** doręczeń postanowień wydanych toku postępowań sprawach, których pkt 1–5, których przysługuje zażalenie skarga sądu administracyjnego, oraz zawiadamiania wydaniu.
+### 2)
 
-5. Od stronie służy odwołanie wojewody.
+mapy z projektami podziału nieruchomości, w przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie z ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2023 r. poz. 344](https://api.sejm.gov.pl/eli/acts/DU/2023/344/text.html), [1113](https://api.sejm.gov.pl/eli/acts/DU/2023/1113/text.html), [1463](https://api.sejm.gov.pl/eli/acts/DU/2023/1463/text.html), [1506](https://api.sejm.gov.pl/eli/acts/DU/2023/1506/text.html) i [1688](https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text.html)) oraz ustawą z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne;
 
-**Art. 8.** W przypadku, którym art. 6 ust. 3, jeżeli własnością gminy stała się część nieruchomości, a pozostała część nie nadaje się prawidłowego wykorzystania na dotychczasowe cele, wójt (burmistrz, prezydent miasta) jest obowiązany nabycia tej nieruchomości, na wniosek właściciela użytkownika wieczystego nieruchomości, imieniu na rzecz gminy.
+### 3)
 
-**Art. 9.**
+analizę powiązania drogi ogólnodostępnej z drogami publicznymi;
 
-1. Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe części, których art. 6 ust. 1 pkt 2, przysługuje odszkodowanie wysokości uzgodnionej między gminą a dotychczasowym właścicielem, użytkownikiem wieczystym osobą, której przysługuje ograniczone prawo rzeczowe nieruchomości. waloryzacji na dzień wypłaty według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
+### 4)
 
-4. W przypadku, którym art. 6 ust. 5, wysokość przysługującego dotychczasowemu właścicielowi użytkownikowi wieczystemu zmniejsza się kwotę równą wartości ustalonego tytułu wygaśnięcia ograniczonych praw rzeczowych.
+wskazanie nieruchomości lub ich części stanowiących przyszły pas drogowy, które są planowane do nabycia na rzecz gminy;
 
-5. Suma wysokości przysługującego dotychczasowemu właścicielowi użytkownikowi wieczystemu wysokości tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej prawie użytkowania wieczystego nie może przekroczyć wartości prawa użytkowania wieczystego. Roszczenia osób uprawnionych tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw.
+### 5)
 
-6. Jeżeli na nieruchomościach częściach, których art. 6 ust. 1 pkt 2, prawie użytkowania wieczystego tych jest ustanowiona hipoteka, wysokość tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, zakresie, jakim wierzytelność ta nie wygasła, wraz odsetkami zabezpieczonymi tą hipoteką obliczonymi na dzień spłaty wierzyciela hipotecznego. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz odsetkami.
+analizę powiązania drogi ogólnodostępnej z istniejącymi urządzeniami infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami;
 
-7. Odszkodowania tytułu wygaśnięcia ograniczonych praw rzeczowych wysokości ustalonej zgodnie ust. 3 wypłaca się osobom, którym te prawa przysługiwały.
+### 6)
 
-8. Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe części, których art. 6 ust. 1 pkt 2, odszkodowanie wypłaca gmina.
+uproszczone wypisy z rejestru gruntów w postaci papierowej lub elektronicznej lub inne dokumenty w postaci papierowej lub pliku komputerowego sformatowanego zgodnie z obowiązującym standardem wymiany danych ewidencyjnych - wydane z katastru nieruchomości przez organ prowadzący ewidencję gruntów i budynków, zawierające oznaczenie działki ewidencyjnej oraz, o ile zostały ujawnione, numer jej księgi wieczystej, imię i nazwisko albo nazwę oraz adres jej właściciela lub użytkownika wieczystego;
 
-9. W przypadku gdy odszkodowanie dotyczy nieuregulowanym stanie prawnym, gmina, która nabyła własność nieruchomości, zabezpiecza środki wysokości kwoty swoich budżetach uchwalanych okresie kolejnych 6 lat budżetowych, poczynając roku, którym decyzja stała się ostateczna. Po upływie ostatniego tych lat budżetowych zabezpieczenie prawo wypłaty wygasa.
+### 7)
 
-10. Do ustalenia wysokości wypłacenia stosuje się odpowiednio przepisy ustawy 21 sierpnia 1997 r. gospodarce nieruchomościami.
+wskazanie ujawnionych ograniczonych praw rzeczowych obciążających nieruchomości lub ich części wskazane zgodnie z pkt 4;
 
-**Art. 10.** Wójt (burmistrz, prezydent miasta) informuje wydaniu oraz dacie, kiedy decyzja ta stała się ostateczna:
+### 8)
 
-**Art. 11.**
+dokumenty potwierdzające władanie przez gminę nieruchomościami objętymi wnioskiem od co najmniej 20 lat do dnia wejścia w życie ustawy.
 
-1. W zakresie nieuregulowanym niniejszej ustawie postępowań sprawach wydania stosuje się przepisy ustawy 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2023 r. poz. 775 803).
+### 6.
 
-2. W zakresie nieuregulowanym niniejszej ustawie stosuje się odpowiednio przepisy ustawy 21 sierpnia 1997 r. gospodarce nieruchomościami.
+Dokumentami, o których mowa w ust. 5 pkt 8, są w szczególności:
 
-**Art. 12.** Ustawa wchodzi życie po upływie 14 dni ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 1)
 
+umowy dotyczące robót budowlanych lub utrzymania drogi ogólnodostępnej;
+
+### 2)
+
+rachunki lub faktury za wykonanie robót budowlanych oraz protokoły odbioru robót budowlanych dotyczących drogi ogólnodostępnej;
+
+### 3)
+
+umowy ubezpieczenia drogi ogólnodostępnej;
+
+### 4)
+
+metryki, plany liniowe, rejestry wykonanych robót i protokoły przeglądu drogi ogólnodostępnej;
+
+### 5)
+
+dowody z zeznań właścicieli nieruchomości użytkowanych jako drogi ogólnodostępne, właścicieli nieruchomości sąsiednich, pracowników właściwych urzędów oraz innych świadków;
+
+### 6)
+
+dokumenty potwierdzające przeznaczenie środków z budżetu gminy na inwestycje drogowe;
+
+### 7)
+
+dokumentacja z prac geodezyjnych wykonanych w celu uregulowania stanu prawnego istniejącej drogi ogólnodostępnej;
+
+### 8)
+
+dokumentacja projektowa przebudowy drogi ogólnodostępnej sporządzona przed wejściem w życie ustawy;
+
+### 9)
+
+wypis z ewidencji gruntów i budynków.
+
+### Art. 5.
+
+### 1.
+
+Starosta, w terminie 14 dni od dnia wszczęcia postępowania w sprawie wydania decyzji o nabyciu nieruchomości, zawiadamia o wszczęciu tego postępowania:
+
+### 1)
+
+wnioskodawcę;
+
+### 2)
+
+właścicieli lub użytkowników wieczystych nieruchomości objętych wnioskiem, o którym mowa w art. 4 ust. 2, na adres wskazany w katastrze nieruchomości; doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1, zawiera w szczególności:
+
+### 1)
+
+wskazanie nieruchomości lub ich części objętych wnioskiem, o którym mowa w art. 4 ust. 2;
+
+### 2)
+
+informację o terminie i miejscu, w którym strony mogą zapoznać się z aktami sprawy;
+
+### 3)
+
+informację o zakazie, o którym mowa w ust. 4.
+
+### 3.
+
+W przypadku nieruchomości o nieuregulowanym stanie prawnym starosta wysyła zawiadomienie, o którym mowa w ust. 1, jedynie wnioskodawcy, zaś pozostałe strony postępowania zawiadamia, w drodze obwieszczenia, w siedzibie swojego urzędu, a także w urzędzie gminy właściwej ze względu na położenie nieruchomości, oraz w Biuletynie Informacji Publicznej na stronach podmiotowych tych urzędów.
+
+### 4.
+
+Z dniem doręczenia zawiadomienia, o którym mowa w ust. 1, nieruchomości objęte wnioskiem, o którym mowa w art. 4 ust. 2, nie mogą być przedmiotem obrotu w rozumieniu ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami do dnia, w którym decyzja w sprawie tego wniosku stała się ostateczna.
+
+### 5.
+
+Czynność dokonana z naruszeniem ust. 4 jest nieważna.
+
+### Art. 6.
+
+### 1.
+
+Decyzja o nabyciu nieruchomości zawiera w szczególności:
+
+### 1)
+
+określenie przebiegu drogi ogólnodostępnej według stanu na dzień wejścia w życie ustawy;
+
+### 2)
+
+wskazanie nieruchomości lub ich części stanowiących pas drogowy oznaczonych według katastru nieruchomości, które stają się własnością gminy;
+
+### 3)
+
+określenie granic pasa drogowego;
+
+### 4)
+
+zatwierdzenie podziału nieruchomości.
+
+### 2.
+
+Granice pasa drogowego ustalone decyzją o nabyciu nieruchomości stanowią linie podziału nieruchomości.
+
+### 3.
+
+Nieruchomości lub ich części, o których mowa w ust. 1 pkt 2, stają się własnością gminy z dniem, w którym decyzja o nabyciu nieruchomości stała się ostateczna.
+
+### 4.
+
+Jeżeli nieruchomości lub ich części, o których mowa w ust. 1 pkt 2, zostały oddane w użytkowanie wieczyste, to użytkowanie to w zakresie wskazanym w decyzji o nabyciu nieruchomości wygasa z dniem, w którym decyzja ta stała się ostateczna.
+
+### 5.
+
+Jeżeli nieruchomości lub ich części, o których mowa w ust. 1 pkt 2, lub prawa użytkowania wieczystego tych nieruchomości lub ich części są obciążone ograniczonymi prawami rzeczowymi, prawa te wygasają z dniem, w którym decyzja o nabyciu nieruchomości stała się ostateczna.
+
+### 6.
+
+Droga ogólnodostępna, o której mowa w ust. 1 pkt 1, zostaje z mocy prawa zaliczona do kategorii dróg gminnych z dniem, w którym decyzja o nabyciu nieruchomości stała się ostateczna.
+
+### 7.
+
+Ostateczna decyzja o nabyciu nieruchomości stanowi podstawę do dokonania wpisów w księdze wieczystej i katastrze nieruchomości.
+
+### Art. 7.
+
+### 1.
+
+Starosta, w terminie 14 dni od dnia wydania decyzji o nabyciu nieruchomości, doręcza tę decyzję wnioskodawcy oraz zawiadamia o jej wydaniu właścicieli lub użytkowników wieczystych nieruchomości objętych tą decyzją na adres wskazany w katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany w katastrze nieruchomości jest skuteczne.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1, zawiera informację o miejscu, w którym strony mogą zapoznać się z treścią decyzji.
+
+### 3.
+
+W przypadku nieruchomości o nieuregulowanym stanie prawnym zawiadomienie, o którym mowa w ust. 1, następuje, w drodze obwieszczenia, w siedzibie organu prowadzącego postępowanie, a także w urzędzie gminy właściwej ze względu na położenie nieruchomości, oraz w Biuletynie Informacji Publicznej na stronach podmiotowych tych urzędów. W obwieszczeniu zamieszcza się informację o miejscu, w którym strony mogą zapoznać się z treścią decyzji.
+
+### 4.
+
+Przepisy ust. 1-3 stosuje się odpowiednio do:
+
+### 1)
+
+zawiadamiania stron o wniesieniu odwołania od decyzji o nabyciu nieruchomości lub zażalenia na postanowienia wydane w toku postępowania w sprawie wydania decyzji o nabyciu nieruchomości;
+
+### 2)
+
+zawiadamiania stron o wszczęciu postępowania w sprawie uchylenia lub zmiany decyzji o nabyciu nieruchomości;
+
+### 3)
+
+zawiadamiania stron o wznowieniu postępowania w sprawie zakończonej ostateczną decyzją o nabyciu nieruchomości;
+
+### 4)
+
+zawiadamiania stron o wszczęciu postępowania w sprawie stwierdzenia nieważności decyzji o nabyciu nieruchomości;
+
+### 5)
+
+zawiadamiania stron o wszczęciu postępowania w sprawie stwierdzenia wygaśnięcia decyzji o nabyciu nieruchomości;
+
+### 6)
+
+doręczeń decyzji wydanych w sprawach, o których mowa w pkt 1-5, oraz zawiadamiania o ich wydaniu;
+
+### 7)
+
+doręczeń postanowień wydanych w toku postępowań w sprawach, o których mowa w pkt 1-5, od których przysługuje zażalenie lub skarga do sądu administracyjnego, oraz zawiadamiania o ich wydaniu.
+
+### 5.
+
+Od decyzji o nabyciu nieruchomości stronie służy odwołanie do wojewody.
+
+### Art. 8.
+
+W przypadku, o którym mowa w art. 6 ust. 3, jeżeli własnością gminy stała się część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, wójt (burmistrz, prezydent miasta) jest obowiązany do nabycia tej części nieruchomości, na wniosek właściciela lub użytkownika wieczystego nieruchomości, w imieniu i na rzecz gminy.
+
+### Art. 9.
+
+### 1.
+
+Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe do nieruchomości lub ich części, o których mowa w art. 6 ust. 1 pkt 2, przysługuje odszkodowanie w wysokości uzgodnionej między gminą a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości. Uzgodnienia dokonuje się w formie pisemnej pod rygorem nieważności.
+
+### 2.
+
+Jeżeli w terminie 2 miesięcy od dnia, w którym decyzja o nabyciu nieruchomości stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa w ust. 1, wysokość odszkodowania ustala starosta w drodze decyzji w terminie 30 dni od dnia wszczęcia postępowania.
+
+### 3.
+
+Wysokość odszkodowań, o których mowa w ust. 1 i 2, ustala się na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego według stanu nieruchomości w dniu wydania decyzji o nabyciu nieruchomości przez organ pierwszej instancji oraz według jej wartości w dniu uzgodnienia, o którym mowa w ust. 1, albo w dniu wydania decyzji, o której mowa w ust. 2. Nie uwzględnia się wzrostu wartości nieruchomości spowodowanego trwałymi nakładami poczynionymi po utracie przez osobę uprawnioną władztwa nad nieruchomością gruntową. Wysokość odszkodowania podlega waloryzacji na dzień wypłaty według zasad obowiązujących w przypadku zwrotu wywłaszczonych nieruchomości.
+
+### 4.
+
+W przypadku, o którym mowa w art. 6 ust. 5, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości odszkodowania ustalonego z tytułu wygaśnięcia ograniczonych praw rzeczowych.
+
+### 5.
+
+Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub prawa użytkowania wieczystego. Roszczenia osób uprawnionych z tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw.
+
+### 6.
+
+Jeżeli na nieruchomościach lub ich częściach, o których mowa w art. 6 ust. 1 pkt 2, lub prawie użytkowania wieczystego tych nieruchomości lub ich części jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się w wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, w zakresie, w jakim wierzytelność ta nie wygasła, wraz z odsetkami zabezpieczonymi tą hipoteką obliczonymi na dzień spłaty wierzyciela hipotecznego. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami.
+
+### 7.
+
+Odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych w wysokości ustalonej zgodnie z ust. 3 wypłaca się osobom, którym te prawa przysługiwały.
+
+### 8.
+
+Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe do nieruchomości lub ich części, o których mowa w art. 6 ust. 1 pkt 2, odszkodowanie wypłaca gmina.
+
+### 9.
+
+W przypadku gdy odszkodowanie dotyczy nieruchomości o nieuregulowanym stanie prawnym, gmina, która nabyła własność nieruchomości, zabezpiecza środki w wysokości kwoty odszkodowania w swoich budżetach uchwalanych w okresie kolejnych 6 lat budżetowych, poczynając od roku, w którym decyzja o nabyciu nieruchomości stała się ostateczna. Po upływie ostatniego z tych lat budżetowych zabezpieczenie i prawo do wypłaty odszkodowania wygasa.
+
+### 10.
+
+Do ustalenia wysokości i wypłacenia odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+### Art. 10.
+
+Wójt (burmistrz, prezydent miasta) informuje o wydaniu decyzji o nabyciu nieruchomości oraz o dacie, kiedy decyzja ta stała się ostateczna:
+
+### 1)
+
+pisemnie zarządców dróg, które łączą się lub przecinają się z drogą ogólnodostępną objętą tą decyzją oraz
+
+### 2)
+
+w drodze obwieszczenia w urzędzie gminy oraz w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu gminy
+
+- w terminie 14 dni od dnia, kiedy decyzja o nabyciu nieruchomości stała się ostateczna.
+
+### Art. 11.
+
+### 1.
+
+W zakresie nieuregulowanym w niniejszej ustawie do postępowań w sprawach wydania decyzji o nabyciu nieruchomości stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2023 r. poz. 775](https://api.sejm.gov.pl/eli/acts/DU/2023/775/text.html) i [803](https://api.sejm.gov.pl/eli/acts/DU/2023/803/text.html)).
+
+### 2.
+
+W zakresie nieuregulowanym w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+### Art. 12.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

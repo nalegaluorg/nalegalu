@@ -8,11 +8,9 @@ pos: 1817
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy (Dz. U. z 2015 poz. 1438), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 stycznia 2018 o zmianie niektórych ustaw celu zwiększenia udziału obywateli procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 września 2018
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 14 września 2018 sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 września 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ustroju miasta stołecznego Warszawy
 
 | Pole | Wartość |
 |---|---|
@@ -24,275 +22,604 @@ domain: null
 | Data ogłoszenia | 2018-09-14 |
 | Data wydania | 2018-09-25 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1817/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1817/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1817) |
 
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 ustawy z dnia 11 stycznia 2018 o zmianie niektórych ustaw celu zwiększenia udziału obywateli procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), który stanowi: „Art. 19. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 5 pkt 5 zakresie § 2, 4, 9 i 11–14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą życie z dniem 1 stycznia 2019 r.;
-2) art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą życie z pierwszym dniem kadencji Sejmu następującej po kadencji, czasie której niniejsza ustawa weszła życie.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA z dnia 15 marca 2002 o ustroju miasta stołecznego Warszawy
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Stolica Rzeczypospolitej Polskiej miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu.
+- [Załącznik - Tekst jednolity ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy](#part_2)
 
-2. Nazwa miasto stołeczne Warszawa może być określana skrótem „m.st. Warszawa”.
+TOC
 
-3. Herbem m.st. Warszawy jest wizerunek Syreny o wzorze określonym statucie m.st. Warszawy.
+## Treść obwieszczenia
 
-**Art. 2.** W skład Rady m.st. Warszawy wchodzą radni liczbie 60.
+### 1.
 
-**Art. 3.**
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy ([Dz. U. z 2015 r. poz. 1438](https://api.sejm.gov.pl/eli/acts/DU/2015/1438/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych ([Dz. U. poz. 130](https://api.sejm.gov.pl/eli/acts/DU/2018/130/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 września 2018 r.
 
-1. Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a szczególności zapewnia warunki niezbędne do:
+### 2.
 
-- **1)** funkcjonowania mieście naczelnych i centralnych organów państwa, obcych przedstawicielstw dyplomatycznych i urzędów konsularnych oraz organizacji międzynarodowych;
-- **2)** przyjmowania delegacji zagranicznych;
-- **3)** funkcjonowania urządzeń publicznych o charakterze infrastrukturalnym, mających znaczenie dla stołecznych funkcji miasta.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych ([Dz. U. poz. 130](https://api.sejm.gov.pl/eli/acts/DU/2018/130/text.html)), który stanowi:
 
-2. Zadania, o których mowa ust. 1, są zadaniami zleconymi z zakresu administracji rządowej.
+„
 
-**Art. 4.**
+### Art. 19.
 
-1. Projekt statutu m.st. Warszawy uchwala Rada m.st. Warszawy po zasięgnięciu opinii rad dzielnic. W przypadku niewyrażenia opinii przez radę dzielnicy terminie 14 dni od dnia otrzymania wystąpienia, wymóg zasięgnięcia opinii uważa się za spełniony.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
-2. Projekt statutu m.st. Warszawy podlega uzgodnieniu z Prezesem Rady Ministrów.
+### 1)
 
-3. Uzgodnienie projektu statutu następuje terminie nie dłuższym niż 30 dni od dnia jego przedłożenia.
+art. 5 pkt 5 w zakresie § 2, 4, 9 i 11-14, pkt 7, 8, 12, pkt 68 lit. a tiret drugie w zakresie pkt 3b i 3d, pkt 99, 109, 110, 129, 130, 134 i 135, które wchodzą w życie z dniem 1 stycznia 2019 r.;
 
-4. Jeżeli Prezes Rady Ministrów nie zajmie stanowiska terminie określonym ust. 3, statut uznaje się za uzgodniony.
+### 2)
 
-5. Prezes Rady Ministrów, przypadku stwierdzenia uchybień, przekazuje projekt statutu do ponownego rozpatrzenia, wskazując termin ich usunięcia.
+art. 5 pkt 59 oraz pkt 60 lit. a, b i d, które wchodzą w życie z pierwszym dniem kadencji Sejmu następującej po kadencji, w czasie której niniejsza ustawa weszła w życie.
 
-6. Zmiana statutu następuje trybie przewidzianym dla jego uchwalenia.
+” .
 
-**Art. 5.**
+## Załącznik - Tekst jednolity ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy
 
-1. W m.st. Warszawie utworzenie jednostek pomocniczych dzielnic m.st. Warszawy, zwanych dalej „dzielnicami”, jest obowiązkowe.
+### Art. 1.
 
-2. Rada m.st. Warszawy, drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy tworzy, łączy, dzieli i znosi jednostki pomocnicze. Przepis art. 4 ust. 3 ustawy z dnia 8 marca 1990 o samorządzie gminnym (Dz. U. z 2018 poz. 994, 1000, 1349 i 1432) stosuje się odpowiednio.
+### 1.
 
-3. Zmiany, o których mowa ust. 2, następują z dniem 1 stycznia, a roku, którym odbywają się wybory do rad gmin, mogą następować z dniem wyborów.
+Stolica Rzeczypospolitej Polskiej miasto stołeczne Warszawa jest gminą mającą status miasta na prawach powiatu.
 
-4. Statut dzielnicy nadany przez Radę m.st. Warszawy określa nazwę dzielnicy, jej granice, zadania i kompetencje oraz zasady i tryb funkcjonowania jej organów.
+### 2.
 
-**Art. 6.** Organem stanowiącym i kontrolnym dzielnicy jest rada dzielnicy, a organem wykonawczym zarząd dzielnicy.
+Nazwa miasto stołeczne Warszawa może być określana skrótem „m.st. Warszawa”.
 
-**Art. 7.**
+### 3.
 
-1. Wybory do rad dzielnic przeprowadza się łącznie z wyborami do Rady m.st. Warszawy.
+Herbem m.st. Warszawy jest wizerunek Syreny o wzorze określonym w statucie m.st. Warszawy.
 
-2. Do wyborów do rady dzielnicy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 Kodeks wyborczy (Dz. U. z 2018 poz. 754, 1000 i 1349) dotyczące wyboru radnych do rady gminy gminie liczącej powyżej 20 000 mieszkańców, z tym że komitetom wyborczym zgłaszającym kandydatów do rady dzielnicy nie przysługuje prawo do bezpłatnego rozpowszechniania audycji wyborczych publicznym radiu i publicznej telewizji z tytułu tego zgłoszenia. dzianych dla gminnych komisji wyborczych gminach liczących do 20 000 mieszkańców.
+### Art. 2.
 
-4. Podziału dzielnic na okręgi wyborcze dokonuje Rada m.st. Warszawy.
+W skład Rady m.st. Warszawy wchodzą radni w liczbie 60.
 
-5. Nie można jednocześnie kandydować do rady dzielnicy i do organu stanowiącego jednostki samorządu terytorialnego.
+### Art. 3.
 
-**Art. 8.**
+### 1.
 
-1. Do radnych dzielnicy stosuje się odpowiednio przepisy dotyczące radnych gminy.
+Miasto stołeczne Warszawa, oprócz zadań przewidzianych przepisami dotyczącymi samorządu gminnego i samorządu powiatowego, wykonuje zadania wynikające ze stołecznego charakteru miasta, a w szczególności zapewnia warunki niezbędne do:
 
-2. Liczbę radnych wybieranych do rady dzielnicy ustala się na podstawie przepisów o liczbie radnych wybieranych do rad gmin.
+### 1)
 
-**Art. 9.**
+funkcjonowania w mieście naczelnych i centralnych organów państwa, obcych przedstawicielstw dyplomatycznych i urzędów konsularnych oraz organizacji międzynarodowych;
 
-1. Kadencja rady dzielnicy rozpoczyna się dniu wyborów i upływa dniu poprzedzającym następne wybory.
+### 2)
 
-2. Pierwszą sesję rady dzielnicy zwołuje Prezydent m.st. Warszawy ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+przyjmowania delegacji zagranicznych;
 
-3. Po upływie terminu określonego ust. 2 pierwszą sesję zwołuje komisarz wyborczy ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+### 3)
 
-4. Pracami rady dzielnicy kieruje przewodniczący rady dzielnicy.
+funkcjonowania urządzeń publicznych o charakterze infrastrukturalnym, mających znaczenie dla stołecznych funkcji miasta.
 
-5. W sesjach rady dzielnicy mogą brać udział z głosem doradczym radni m.st. Warszawy.
+### 2.
 
-**Art. 10.**
+Zadania, o których mowa w ust. 1, są zadaniami zleconymi z zakresu administracji rządowej.
 
-1. Rada dzielnicy wybiera zarząd dzielnicy liczbie od 3 do 5 osób. W dzielnicach do 100 000 mieszkańców zarząd dzielnicy liczy 3 osoby.
+### Art. 4.
 
-2. W skład zarządu dzielnicy wchodzi burmistrz dzielnicy, jego zastępca lub zastępcy oraz pozostali członkowie zarządu, jeżeli statut dzielnicy tak stanowi.
+### 1.
 
-3. Wybór burmistrza następuje głosowaniu tajnym bezwzględną większością głosów. Pozostali członkowie zarządu wybierani są na wniosek burmistrza zwykłą większością głosów głosowaniu tajnym.
+Projekt statutu m.st. Warszawy uchwala Rada m.st. Warszawy po zasięgnięciu opinii rad dzielnic. W przypadku niewyrażenia opinii przez radę dzielnicy w terminie 14 dni od dnia otrzymania wystąpienia, wymóg zasięgnięcia opinii uważa się za spełniony.
 
-4. Jeżeli ciągu 30 dni od dnia pierwszego posiedzenia rady dzielnicy zarząd dzielnicy nie zostanie wybrany, Prezydent m.st. Warszawy nie później niż ciągu 14 dni powołuje zarząd dzielnicy, tym burmistrza dzielnicy.
+### 2.
 
-5. Odwołanie burmistrza następuje na wniosek Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady bezwzględną większością głosów głosowaniu tajnym. Odwołanie burmistrza jest równoznaczne z odwołaniem całego zarządu.
+Projekt statutu m.st. Warszawy podlega uzgodnieniu z Prezesem Rady Ministrów.
 
-6. Rada dzielnicy może odwołać członka zarządu na wniosek burmistrza, Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady dzielnicy zwykłą większością głosów głosowaniu tajnym.
+### 3.
 
-7. W przypadku odwołania zarządu stosuje się odpowiednio ust. 4.
+Uzgodnienie projektu statutu następuje w terminie nie dłuższym niż 30 dni od dnia jego przedłożenia.
 
-**Art. 11.**
+### 4.
 
-1. Dzielnica działa na podstawie statutu dzielnicy nadanego przez Radę m.st. Warszawy i innych uchwał Rady m.st. Warszawy przekazujących dzielnicy zadania i kompetencje gminne i powiatowe, zadania zlecone gminie z zakresu administracji rządowej oraz zadania realizowane na podstawie porozumień zawartych pomiędzy jednostkami samorządu terytorialnego.
+Jeżeli Prezes Rady Ministrów nie zajmie stanowiska w terminie określonym w ust. 3, statut uznaje się za uzgodniony.
 
-2. Do zakresu działania dzielnicy należą sprawy lokalne, a szczególności:
+### 5.
 
-- **1)** utrzymywanie i eksploatacja gminnych zasobów lokalowych;
-- **2)** utrzymywanie placówek oświaty i wychowania, kultury, pomocy społecznej, rekreacji, sportu i turystyki, zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
-- **3)** zadania związane z ochroną zdrowia, zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
-- **4)** utrzymanie zieleni i dróg o charakterze lokalnym, zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
-- **5)** utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych;
-- **6)** sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze;
-- **7)** podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy. nych spraw z zakresu administracji publicznej trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, tym do wydawania decyzji.
+Prezes Rady Ministrów, w przypadku stwierdzenia uchybień, przekazuje projekt statutu do ponownego rozpatrzenia, wskazując termin ich usunięcia.
 
-**Art. 12.**
+### 6.
 
-1. Gospodarka finansowa dzielnicy prowadzona jest na podstawie załącznika dzielnicowego do uchwały budżetowej m.st. Warszawy, stanowiącego integralną część tej uchwały, określającego środki przeznaczone do dyspozycji dzielnic na realizację ich zadań.
+Zmiana statutu następuje w trybie przewidzianym dla jego uchwalenia.
 
-2. Rada dzielnicy przedstawia Radzie m.st. Warszawy opinię na temat załącznika dzielnicowego do projektu uchwały budżetowej.
+### Art. 5.
 
-3. Środki finansowe przeznaczone do dyspozycji dzielnicy załączniku, o którym mowa ust. 1, nie mogą być mniejsze niż planowane budżecie m.st. Warszawy dochody stanowiące:
+### 1.
 
-- **1)** 100% wpływów, z obszaru dzielnicy, z tytułu:
-    - **a)** podatku od nieruchomości,
-    - **b)** podatku od środków transportowych,
-    - **c)** (uchylona)
-    - **d)** podatku rolnego,
-    - **e)** podatku leśnego,
-    - **f)** opłat lokalnych uiszczanych na podstawie ustawy z dnia 12 stycznia 1991 o podatkach i opłatach lokalnych (Dz. U. z 2018 poz. 1445, 1588, 1669, 1693 i 1722);
+W m.st. Warszawie utworzenie jednostek pomocniczych - dzielnic m.st. Warszawy, zwanych dalej „dzielnicami”, jest obowiązkowe.
 
-- **2)** 70% wpływów z majątku m.st. Warszawy znajdującego się na obszarze dzielnicy, który przed dniem wejścia życie ustawy był własnością gmin warszawskich;
-- **3)** 100% wpływów z innych dochodów m.st. Warszawy pozyskiwanych przez dzielnicę wyniku realizacji zadań statutowych dzielnicy.
+### 2.
 
-4. Załącznik, o którym mowa ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a szczególności:
+Rada m.st. Warszawy, w drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy tworzy, łączy, dzieli i znosi jednostki pomocnicze. Przepis art. 4 ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2018 r. poz. 994](https://api.sejm.gov.pl/eli/acts/DU/2018/994/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1349](https://api.sejm.gov.pl/eli/acts/DU/2018/1349/text.html) i [1432](https://api.sejm.gov.pl/eli/acts/DU/2018/1432/text.html)) stosuje się odpowiednio.
 
-- **1)** udział środkach finansowych przekazywanych do m.st. Warszawy z budżetu państwa stopniu proporcjonalnym do zadań, które są wykonywane przez dzielnicę i na które zostały przyznane te środki;
-- **2)** środki na realizację inwestycji i zadań własnych dzielnicy uzgodnione przez Prezydenta m.st. Warszawy i burmistrzów dzielnic;
-- **3)** środki wyrównawcze ustalane corocznie przez Radę m.st. Warszawy.
+### 3.
 
-5. Przekazując do dyspozycji dzielnicy środki finansowe, o których mowa ust. 4, Rada m.st. Warszawy uwzględnia potrzebę zapewnienia skuteczności decentralizacji zadań gminy, równomiernego rozwoju wszystkich dzielnic oraz maksymalnej możliwości zaspokojenia zbiorowych potrzeb wspólnot dzielnicach.
+Zmiany, o których mowa w ust. 2, następują z dniem 1 stycznia, a w roku, w którym odbywają się wybory do rad gmin, mogą następować z dniem wyborów.
 
-6. Przekazanie zadań, o których mowa art. 11, następuje wraz z zapewnieniem środków wystarczających na ich realizację.
+### 4.
 
-**Art. 13.** Obszar m.st. Warszawy, dniu wejścia życie ustawy, obejmuje obszar związku komunalnego m.st. Warszawy, utworzonego ustawą z dnia 25 marca 1994 o ustroju miasta stołecznego Warszawy (Dz. U. poz. 195, z późn. zm. ), oraz gminy Wesoła.
+Statut dzielnicy nadany przez Radę m.st. Warszawy określa nazwę dzielnicy, jej granice, zadania i kompetencje oraz zasady i tryb funkcjonowania jej organów.
 
-**Art. 14.** Dzielnicami m.st. Warszawy, dniu wejścia życie ustawy, są: Bemowo, Białołęka, Bielany, Mokotów, Ochota, Praga-Południe, Praga-Północ, Rembertów, Śródmieście, Targówek, Ursus, Ursynów, Wawer, Wesoła, Wilanów, Włochy, Wola i Żoliborz granicach dotychczasowych, odpowiednio, gmin warszawskich, gminy Wesoła lub dzielnic gminie Warszawa-Centrum.
+### Art. 6.
 
-**Art. 15.** Znosi się gminy warszawskie, dzielnice gminie Warszawa-Centrum i związek komunalny m.st. Warszawy, utworzone ustawą, o której mowa art. 13, oraz gminę Wesoła. 2. Gmina Sulejówek, dniu wejścia życie ustawy, wchodzi skład powiatu mińskiego.
+Organem stanowiącym i kontrolnym dzielnicy jest rada dzielnicy, a organem wykonawczym - zarząd dzielnicy.
 
-**Art. 17.**
+### Art. 7.
 
-1. Dotychczasowy Zarząd związku komunalnego m.st. Warszawy pełni obowiązki organu wykonawczego na obszarze m.st. Warszawy do czasu objęcia obowiązków przez organ wykonawczy m.st. Warszawy utworzony niniejszą ustawą.
+### 1.
 
-2. Dotychczasowe zarządy gmin warszawskich, zarządy dzielnic gminie Warszawa-Centrum oraz zarząd gminy Wesoła pełnią obowiązki zarządów dzielnic do czasu wyboru lub powołania zarządów dzielnic m.st. Warszawy na podstawie niniejszej ustawy.
+Wybory do rad dzielnic przeprowadza się łącznie z wyborami do Rady m.st. Warszawy.
 
-**Art. 18.**
+### 2[1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), która weszła w życie z dniem 31 stycznia 2018 r.](#gloss-0:1:).
 
-1. Dotychczasowe Biuro Zarządu m.st. Warszawy, starostwo powiatu warszawskiego, urzędy gmin warszawskich i urzędy dzielnic gminie Warszawa-Centrum oraz urząd gminy Wesoła stają się Urzędem m.st. Warszawy.
+Do wyborów do rady dzielnicy stosuje się odpowiednio przepisy ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy ([Dz. U. z 2018 r. poz. 754](https://api.sejm.gov.pl/eli/acts/DU/2018/754/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1349](https://api.sejm.gov.pl/eli/acts/DU/2018/1349/text.html)) dotyczące wyboru radnych do rady gminy w gminie liczącej powyżej 20 000 mieszkańców, z tym że komitetom wyborczym zgłaszającym kandydatów do rady dzielnicy nie przysługuje prawo do bezpłatnego rozpowszechniania audycji wyborczych w publicznym radiu i publicznej telewizji z tytułu tego zgłoszenia.
 
-2. Pracownicy samorządowi Biura Zarządu m.st. Warszawy, starostwa powiatu warszawskiego, urzędów gmin warszawskich i dzielnic gminy Warszawa-Centrum oraz urzędu gminy Wesoła stają się pracownikami samorządowymi Urzędu m.st. Warszawy.
+### 3[1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), która weszła w życie z dniem 31 stycznia 2018 r.](#gloss-0:1:).
 
-3. Stosunek pracy z pracownikami, o których mowa ust. 2, wygasa z ostatnim dniem miesiąca, którym upływa 6 miesięcy od dnia opublikowania przez komisarza wyborczego wyników wyborów do Rady m.st. Warszawy, jeżeli na miesiąc przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo razie ich nieprzyjęcia, ciągu 14 dni od dnia ich zaproponowania.
+Wybory do rad dzielnic przeprowadzają dzielnicowe komisje wyborcze powołane w trybie i na zasadach przewidzianych dla gminnych komisji wyborczych w gminach liczących do 20 000 mieszkańców.
 
-4. Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy.
+### 4.
 
-**Art. 19.** Do czasu uchwalenia statutów dzielnic m.st. Warszawy mają zastosowanie odpowiednio przepisy określające organizację dotychczasowych gmin warszawskich, dzielnic gminie Warszawa-Centrum oraz gminy Wesoła zakresie niesprzecznym z niniejszą ustawą.
+Podziału dzielnic na okręgi wyborcze dokonuje Rada m.st. Warszawy.
 
-**Art. 20.**
+### 5.
 
-1. Mienie gmin warszawskich, mienie gminy Wesoła oraz mienie powiatu warszawskiego działających na podstawie przepisów dotychczasowych, mienie związku komunalnego m.st. Warszawy utworzonego na podstawie art. 1 ustawy, o której mowa art. 13, a także mienie związków komunalnych gmin warszawskich utworzonych na podstawie art. 6 ustawy, o której mowa art. 13, staje się z mocy ustawy mieniem m.st. Warszawy.
+Nie można jednocześnie kandydować do rady dzielnicy i do organu stanowiącego jednostki samorządu terytorialnego.
 
-1a. Miasto stołeczne Warszawa staje się fundatorem fundacjach, których był nim podmiot określony ust. 1, szczególności obejmuje przewidziane statutach tych fundacji jego zadania i kompetencje.
+### Art. 8.
 
-2. Miasto stołeczne Warszawa staje się następcą prawnym podmiotów, o których mowa ust. 1, tym we wszczętych i niezakończonych do dnia wejścia życie ustawy postępowaniach o nabycie mienia na podstawie odrębnych przepisów.
+### 1.
 
-3. Ujawnienie księgach wieczystych zmian wynikających z przejęcia przez m.st. Warszawę mienia, o którym mowa ust. 1 i 2, następuje z urzędu.
+Do radnych dzielnicy stosuje się odpowiednio przepisy dotyczące radnych gminy.
 
-4. Do czasu ujawnienia księgach wieczystych zmian wynikających z przejęcia mienia przez m.st. Warszawę, jednak nie dłużej niż do dnia 31 grudnia 2003 r., czynności prawne mające za przedmiot mienie komunalne są, z uwzględnieniem przepisów Kodeksu cywilnego oraz przepisów o księgach wieczystych, ważne, jeżeli m.st. Warszawa, dokonując danej czynności, złoży formie przewidzianej dla tej czynności oświadczenie, że jest gminą właściwą dla dokonania tej czynności.
+### 2.
 
-5. Zobowiązania i wierzytelności podmiotów, o których mowa ust. 1, stają się z dniem wejścia życie ustawy zobowiązaniami i wierzytelnościami m.st. Warszawy.
+Liczbę radnych wybieranych do rady dzielnicy ustala się na podstawie przepisów o liczbie radnych wybieranych do rad gmin.
 
-**Art. 21.**
+### Art. 9.
 
-1. Przedsiębiorstwa komunalne i zakłady budżetowe, które wykonują zadania o charakterze użyteczności publicznej mające znaczenie dla całego miasta, podporządkowane i nadzorowane przez Zarząd m.st. Warszawy, ulegają z mocy prawa przekształceniu jednoosobowe spółki prawa handlowego m.st. Warszawy z dniem 1 stycznia 2003
+### 1.
 
-2. Przedsiębiorstwami komunalnymi, o których mowa ust. 1, są:
+Kadencja rady dzielnicy rozpoczyna się w dniu wyborów i upływa w dniu poprzedzającym następne wybory.
 
-- **1)** Miejskie Przedsiębiorstwo Oczyszczania;
-- **2)** Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji;
-- **3)** Stołeczne Przedsiębiorstwo Energetyki Cieplnej.
-- **1)** Miejskie Zakłady Autobusowe;
-- **2)** Tramwaje Warszawskie;
-- **3)** Metro Warszawskie.
+### 2.
 
-4. Przed upływem terminu, o którym mowa ust. 1, organ wykonawczy m.st. Warszawy ustala statut spółki (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru sądowego z dniem 1 stycznia 2003
+Pierwszą sesję rady dzielnicy zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
 
-5. Wartość kapitału spółki i jej majątek określi organ wykonawczy m.st. Warszawy.
+### 3.
 
-6. W sprawach nieuregulowanych ust. 1–5 stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 20 grudnia 1996 o gospodarce komunalnej (Dz. U. z 2017 poz. 827 oraz z 2018 poz. 1496 i 1693).
+Po upływie terminu określonego w ust. 2 pierwszą sesję zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
 
-**Art. 22.**
+### 4.
 
-1. Jednostki organizacyjne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego oraz powiatowe służby, inspekcje i straże stają się jednostkami organizacyjnymi, służbami, inspekcjami i strażami m.st. Warszawy.
+Pracami rady dzielnicy kieruje przewodniczący rady dzielnicy.
 
-2. Prezydent m.st. Warszawy jest zwierzchnikiem służbowym pracowników jednostek organizacyjnych oraz zwierzchnikiem służb, inspekcji i straży m.st. Warszawy.
+### 5.
 
-3. Do czasu wprowadzenia nowych regulaminów organizacyjnych jednostki organizacyjne, służby, inspekcje i straże m.st. Warszawy, z zastrzeżeniem ust. 2, działają na podstawie dotychczasowych przepisów.
+W sesjach rady dzielnicy mogą brać udział z głosem doradczym radni m.st. Warszawy.
 
-4. Osoby prawne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego stają się osobami prawnymi m.st. Warszawy.
+### Art. 10.
 
-**Art. 23.** Z dniem wejścia życie ustawy stroną zawartych wcześniej porozumień pomiędzy organami administracji rządowej lub jednostek samorządu terytorialnego a dotychczasowymi gminami warszawskimi, związkiem komunalnym m.st. Warszawy, gminą Wesoła lub powiatem warszawskim staje się m.st. Warszawa.
+### 1.
 
-**Art. 24.**
+Rada dzielnicy wybiera zarząd dzielnicy w liczbie od 3 do 5 osób. W dzielnicach do 100 000 mieszkańców zarząd dzielnicy liczy 3 osoby.
 
-1. Burmistrzowie gmin warszawskich, Prezydent m.st. Warszawy, burmistrz gminy Wesoła oraz starosta powiatu warszawskiego, działający na podstawie przepisów dotychczasowych, sporządzą i przekażą sprawozdanie budżetowe z wykonania budżetu jednostki samorządu terytorialnego na dzień poprzedzający wejście życie ustawy do Regionalnej Izby Obrachunkowej Warszawie.
+### 2.
 
-2. Na podstawie sprawozdań, o których mowa ust. 1, Prezes Regionalnej Izby Obrachunkowej Warszawie sporządza zbiorcze sprawozdanie z wykonania budżetów jednostek, o których mowa ust. 1, za okres od dnia 1 stycznia 2002 do dnia poprzedzającego wejście życie ustawy, terminie do 30 dnia miesiąca następującego po okresie sprawozdawczym. Sprawozdanie to przekazywane jest organom m.st. Warszawy oraz ministrowi właściwemu do spraw finansów publicznych.
+W skład zarządu dzielnicy wchodzi burmistrz dzielnicy, jego zastępca lub zastępcy oraz pozostali członkowie zarządu, jeżeli statut dzielnicy tak stanowi.
 
-3. Organ wykonawczy m.st. Warszawy sporządza sprawozdanie z wykonania budżetu za okres od dnia wejścia życie ustawy do końca okresu sprawozdawczego. Sprawozdanie to przekazywane jest do Regionalnej Izby Obrachunkowej Warszawie terminie do 25 dnia miesiąca następującego po okresie sprawozdawczym.
+### 3.
 
-**Art. 25.**
+Wybór burmistrza następuje w głosowaniu tajnym bezwzględną większością głosów. Pozostali członkowie zarządu wybierani są na wniosek burmistrza zwykłą większością głosów w głosowaniu tajnym.
 
-1. Prezes Regionalnej Izby Obrachunkowej Warszawie ustala budżet m.st. Warszawy na okres od dnia wejścia życie ustawy do dnia 31 grudnia 2002
+### 4.
 
-2. Budżet, o którym mowa ust. 1, stanowi podstawę gospodarki finansowej m.st. Warszawy do czasu podjęcia uchwały budżetowej przez Radę m.st. Warszawy.
+Jeżeli w ciągu 30 dni od dnia pierwszego posiedzenia rady dzielnicy zarząd dzielnicy nie zostanie wybrany, Prezydent m.st. Warszawy nie później niż w ciągu 14 dni powołuje zarząd dzielnicy, w tym burmistrza dzielnicy.
 
-3. Ustalone wpłaty gmin warszawskich i gminy Wesoła z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 o dochodach jednostek samorządu terytorialnego latach 1999–2003 (Dz. U. poz. 983, z późn. zm. ) , stają się z dniem wejścia życie ustawy zobowiązaniami m.st. Warszawy.
+### 5.
 
-4. Miasto stołeczne Warszawa dokonuje wpłat, o których mowa ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa ust. 3. ogólnej, przekazaną tym gminom do dnia wejścia życie ustawy.
+Odwołanie burmistrza następuje na wniosek Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady bezwzględną większością głosów w głosowaniu tajnym. Odwołanie burmistrza jest równoznaczne z odwołaniem całego zarządu.
 
-6. Do końca 2002 dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie i gminę Wesoła przekazywane są do budżetu m.st. Warszawy.
+### 6.
 
-**Art. 26.**
+Rada dzielnicy może odwołać członka zarządu na wniosek burmistrza, Prezydenta m.st. Warszawy lub na wniosek co najmniej 1/4 ustawowego składu rady dzielnicy zwykłą większością głosów w głosowaniu tajnym.
 
-1. W toczących się postępowaniach sądowych i administracyjnych, których stronami są dotychczasowe gminy warszawskie, związek komunalny m.st. Warszawy, gmina Wesoła oraz powiat warszawski, stroną staje się m.st. Warszawa.
+### 7.
 
-2. Niezakończone postępowania administracyjne, toczące się przed dotychczasowymi organami gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła oraz powiatu warszawskiego, toczą się nadal przed organami m.st. Warszawy.
+W przypadku odwołania zarządu stosuje się odpowiednio ust. 4.
 
-3. Pełnomocnictwa udzielone przez dotychczasowe rady i zarządy gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła, powiatu warszawskiego, burmistrzów gmin i Prezydenta m.st. Warszawy zachowują moc do dnia upływu 4 miesięcy od dnia wejścia życie ustawy, jeśli nie zostaną zmienione lub uchylone przez Radę m.st. Warszawy lub Prezydenta m.st. Warszawy.
+### Art. 11.
 
-**Art. 27.**
+### 1.
 
-1. Miejscowe plany zagospodarowania przestrzennego uchwalone przez gminy warszawskie po dniu 1 stycznia 1995 oraz miejscowe plany zagospodarowania przestrzennego gminy Wesoła stają się miejscowymi planami zagospodarowania przestrzennego m.st. Warszawy.
+Dzielnica działa na podstawie statutu dzielnicy nadanego przez Radę m.st. Warszawy i innych uchwał Rady m.st. Warszawy przekazujących dzielnicy zadania i kompetencje gminne i powiatowe, zadania zlecone gminie z zakresu administracji rządowej oraz zadania realizowane na podstawie porozumień zawartych pomiędzy jednostkami samorządu terytorialnego.
 
-2. Dotychczasowy plan zagospodarowania m.st. Warszawy z określeniem ustaleń wiążących przy sporządzaniu miejscowych planów zagospodarowania przestrzennego pełni funkcję studium uwarunkowań i kierunków zagospodarowania przestrzennego m.st. Warszawy rozumieniu przepisów o zagospodarowaniu przestrzennym.
+### 2.
 
-**Art. 28.**
+Do zakresu działania dzielnicy należą sprawy lokalne, a w szczególności:
 
-1. Pierwsze wybory do Rady m.st. Warszawy i do rad dzielnic m.st. Warszawie utworzonych na podstawie przepisów niniejszej ustawy zarządza Prezes Rady Ministrów, drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej. Termin wyborów wyznacza się na dzień wyborów do organów stanowiących jednostek samorządu terytorialnego przypadających związku z zakończeniem kadencji tych organów wybranych dniu 11 października 1998
+### 1)
 
-2. Wybory, o których mowa ust. 1, przeprowadza się z uwzględnieniem przepisów niniejszej ustawy.
+utrzymywanie i eksploatacja gminnych zasobów lokalowych;
 
-**Art. 29.**
+### 2)
 
-1. W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic m.st. Warszawie stosuje się przepisy ustawy, o której mowa art. 7 ust. 2, z następującymi zmianami:
+utrzymywanie placówek oświaty i wychowania, kultury, pomocy społecznej, rekreacji, sportu i turystyki, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
 
-- **1)** Wojewoda Mazowiecki ogłosi liczbę radnych wybieranych do rad dzielnic m.st. Warszawie wojewódzkim dzienniku urzędowym i poda do publicznej wiadomości, formie obwieszczenia, każdej z dzielnic, na cztery miesiące przed upływem kadencji rad wybranych dniu 11 października 1998 r.;
-- **2)** Rada m.st. Warszawy, na wniosek Prezydenta m.st. Warszawy, dokona pierwszego podziału m.st. Warszawy i dzielnic m.st. Warszawy, utworzonych na podstawie niniejszej ustawy, na okręgi wyborcze;
-- **3)** Rada m.st. Warszawy może dokonać zmian stałym podziale obszaru m.st. Warszawy na obwody głosowania z przyczyn określonych ustawie, o której mowa art. 7 ust. 2, oraz z przyczyn związanych z nowym podziałem m.st. Warszawy i dzielnic m.st. Warszawy na okręgi wyborcze.
+### 3)
 
-2. Do podziału na okręgi wyborcze, o którym mowa ust. 1 pkt 2, oraz do zmian podziale na obwody głosowania, o których mowa ust. 1 pkt 3, nie stosuje się terminów określonych art. 31 ust. 2 zdanie pierwsze i art. 92 ust. 1 ustawy, o której mowa art. 7 ust. 2.
+zadania związane z ochroną zdrowia, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
 
-**Art. 30.**
+### 4)
 
-1. Pierwszą sesję Rady m.st. Warszawy wybranej wyborach, o których mowa art. 28, zwołuje przewodniczący Rady m.st. Warszawy działającej na podstawie przepisów dotychczasowych, ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+utrzymanie zieleni i dróg o charakterze lokalnym, w zakresie określonym przez statut miasta i inne uchwały Rady m.st. Warszawy;
 
-2. Pierwszą sesję rady dzielnicy m.st. Warszawy wybranej wyborach, o których mowa art. 28, zwołuje Prezydent m.st. Warszawy ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+### 5)
 
-3. Po upływie terminu określonego ust. 1 i 2 pierwsze sesje zwołuje komisarz wyborczy ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+utrzymywanie i eksploatacja dzielnicowych obiektów administracyjnych;
 
-**Art. 31.** Ilekroć odrębnych przepisach jest mowa o m.st. Warszawie związku komunalnym, m.st. Warszawie
+### 6)
 
-**Art. 33.** Ustawa wchodzi życie dniu wyborów , o których mowa art. 28, z tym że art. 28 i art. 29 wchodzą życie po upływie 14 dni od dnia ogłoszenia ustawy .
+sprawowanie nadzoru nad jednostkami niższego rzędu utworzonymi na jej obszarze;
 
+### 7)
+
+podejmowanie we własnym zakresie działań na rzecz zaspokajania zbiorowych potrzeb wspólnoty mieszkańców dzielnicy.
+
+### 3.
+
+W zakresie kompetencji, o których mowa w ust. 1, zarząd dzielnicy może upoważnić poszczególnych członków zarządu oraz innych pracowników Urzędu m.st. Warszawy, wykonujących pracę w danej dzielnicy, do załatwiania indywidualnych spraw z zakresu administracji publicznej w trybie przepisów o postępowaniu administracyjnym i postępowaniu podatkowym, w tym do wydawania decyzji.
+
+### Art. 12.
+
+### 1.
+
+Gospodarka finansowa dzielnicy prowadzona jest na podstawie załącznika dzielnicowego do uchwały budżetowej m.st. Warszawy, stanowiącego integralną część tej uchwały, określającego środki przeznaczone do dyspozycji dzielnic na realizację ich zadań.
+
+### 2.
+
+Rada dzielnicy przedstawia Radzie m.st. Warszawy opinię na temat załącznika dzielnicowego do projektu uchwały budżetowej.
+
+### 3.
+
+Środki finansowe przeznaczone do dyspozycji dzielnicy w załączniku, o którym mowa w ust. 1, nie mogą być mniejsze niż planowane w budżecie m.st. Warszawy dochody stanowiące:
+
+### 1)
+
+100% wpływów, z obszaru dzielnicy, z tytułu:
+
+### a)
+
+podatku od nieruchomości,
+
+### b)
+
+podatku od środków transportowych,
+
+### c)
+
+(uchylona)
+
+### d)
+
+podatku rolnego,
+
+### e)
+
+podatku leśnego,
+
+### f)
+
+opłat lokalnych uiszczanych na podstawie ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. z 2018 r. poz. 1445](https://api.sejm.gov.pl/eli/acts/DU/2018/1445/text.html), [1588](https://api.sejm.gov.pl/eli/acts/DU/2018/1588/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html), [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html) i [1722](https://api.sejm.gov.pl/eli/acts/DU/2018/1722/text.html));
+
+### 2)
+
+70% wpływów z majątku m.st. Warszawy znajdującego się na obszarze dzielnicy, który przed dniem wejścia w życie ustawy był własnością gmin warszawskich;
+
+### 3)
+
+100% wpływów z innych dochodów m.st. Warszawy pozyskiwanych przez dzielnicę w wyniku realizacji zadań statutowych dzielnicy.
+
+### 4.
+
+Załącznik, o którym mowa w ust. 1, określa także dodatkowe środki finansowe, które są przekazywane do dyspozycji dzielnicy, a w szczególności:
+
+### 1)
+
+udział w środkach finansowych przekazywanych do m.st. Warszawy z budżetu państwa w stopniu proporcjonalnym do zadań, które są wykonywane przez dzielnicę i na które zostały przyznane te środki;
+
+### 2)
+
+środki na realizację inwestycji i zadań własnych dzielnicy uzgodnione przez Prezydenta m.st. Warszawy i burmistrzów dzielnic;
+
+### 3)
+
+środki wyrównawcze ustalane corocznie przez Radę m.st. Warszawy.
+
+### 5.
+
+Przekazując do dyspozycji dzielnicy środki finansowe, o których mowa w ust. 4, Rada m.st. Warszawy uwzględnia potrzebę zapewnienia skuteczności decentralizacji zadań gminy, równomiernego rozwoju wszystkich dzielnic oraz maksymalnej możliwości zaspokojenia zbiorowych potrzeb wspólnot w dzielnicach.
+
+### 6.
+
+Przekazanie zadań, o których mowa w art. 11, następuje wraz z zapewnieniem środków wystarczających na ich realizację.
+
+### Art. 13.
+
+Obszar m.st. Warszawy, w dniu wejścia w życie ustawy, obejmuje obszar związku komunalnego m.st. Warszawy, utworzonego ustawą z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ([Dz. U. poz. 195](https://api.sejm.gov.pl/eli/acts/DU/1994/195/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1994 r. poz. 396, z 1995 r. poz. 601, z 1998 r. poz. 847, z 1999 r. poz. 1044, z 2000 r. poz. 306 oraz z 2001 r. poz. 497.](#gloss-0:2:)), oraz gminy Wesoła.
+
+### Art. 14.
+
+Dzielnicami m.st. Warszawy, w dniu wejścia w życie ustawy, są: Bemowo, Białołęka, Bielany, Mokotów, Ochota, Praga-Południe, Praga-Północ, Rembertów, Śródmieście, Targówek, Ursus, Ursynów, Wawer, Wesoła, Wilanów, Włochy, Wola i Żoliborz w granicach dotychczasowych, odpowiednio, gmin warszawskich, gminy Wesoła lub dzielnic w gminie Warszawa-Centrum.
+
+### Art. 15.
+
+Znosi się gminy warszawskie, dzielnice w gminie Warszawa-Centrum i związek komunalny m.st. Warszawy, utworzone ustawą, o której mowa w art. 13, oraz gminę Wesoła.
+
+### Art. 16.
+
+### 1.
+
+Znosi się powiat warszawski.
+
+### 2.
+
+Gmina Sulejówek, w dniu wejścia w życie ustawy, wchodzi w skład powiatu mińskiego.
+
+### Art. 17.
+
+### 1.
+
+Dotychczasowy Zarząd związku komunalnego m.st. Warszawy pełni obowiązki organu wykonawczego na obszarze m.st. Warszawy do czasu objęcia obowiązków przez organ wykonawczy m.st. Warszawy utworzony niniejszą ustawą.
+
+### 2.
+
+Dotychczasowe zarządy gmin warszawskich, zarządy dzielnic w gminie Warszawa-Centrum oraz zarząd gminy Wesoła pełnią obowiązki zarządów dzielnic do czasu wyboru lub powołania zarządów dzielnic m.st. Warszawy na podstawie niniejszej ustawy.
+
+### Art. 18.
+
+### 1.
+
+Dotychczasowe Biuro Zarządu m.st. Warszawy, starostwo powiatu warszawskiego, urzędy gmin warszawskich i urzędy dzielnic w gminie Warszawa-Centrum oraz urząd gminy Wesoła stają się Urzędem m.st. Warszawy.
+
+### 2.
+
+Pracownicy samorządowi Biura Zarządu m.st. Warszawy, starostwa powiatu warszawskiego, urzędów gmin warszawskich i dzielnic gminy Warszawa-Centrum oraz urzędu gminy Wesoła stają się pracownikami samorządowymi Urzędu m.st. Warszawy.
+
+### 3.
+
+Stosunek pracy z pracownikami, o których mowa w ust. 2, wygasa z ostatnim dniem miesiąca, w którym upływa 6 miesięcy od dnia opublikowania przez komisarza wyborczego wyników wyborów do Rady m.st. Warszawy, jeżeli na miesiąc przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia, w ciągu 14 dni od dnia ich zaproponowania.
+
+### 4.
+
+Pracodawca obowiązany jest powiadomić na piśmie pracownika odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy.
+
+### Art. 19.
+
+Do czasu uchwalenia statutów dzielnic m.st. Warszawy mają zastosowanie odpowiednio przepisy określające organizację dotychczasowych gmin warszawskich, dzielnic w gminie Warszawa-Centrum oraz gminy Wesoła w zakresie niesprzecznym z niniejszą ustawą.
+
+### Art. 20.
+
+### 1.
+
+Mienie gmin warszawskich, mienie gminy Wesoła oraz mienie powiatu warszawskiego działających na podstawie przepisów dotychczasowych, mienie związku komunalnego m.st. Warszawy utworzonego na podstawie art. 1 ustawy, o której mowa w art. 13, a także mienie związków komunalnych gmin warszawskich utworzonych na podstawie art. 6 ustawy, o której mowa w art. 13, staje się z mocy ustawy mieniem m.st. Warszawy.
+
+### 1a.
+
+Miasto stołeczne Warszawa staje się fundatorem w fundacjach, w których był nim podmiot określony w ust. 1, w szczególności obejmuje przewidziane w statutach tych fundacji jego zadania i kompetencje.
+
+### 2.
+
+Miasto stołeczne Warszawa staje się następcą prawnym podmiotów, o których mowa w ust. 1, w tym we wszczętych i niezakończonych do dnia wejścia w życie ustawy postępowaniach o nabycie mienia na podstawie odrębnych przepisów.
+
+### 3.
+
+Ujawnienie w księgach wieczystych zmian wynikających z przejęcia przez m.st. Warszawę mienia, o którym mowa w ust. 1 i 2, następuje z urzędu.
+
+### 4.
+
+Do czasu ujawnienia w księgach wieczystych zmian wynikających z przejęcia mienia przez m.st. Warszawę, jednak nie dłużej niż do dnia 31 grudnia 2003 r., czynności prawne mające za przedmiot mienie komunalne są, z uwzględnieniem przepisów Kodeksu cywilnego oraz przepisów o księgach wieczystych, ważne, jeżeli m.st. Warszawa, dokonując danej czynności, złoży w formie przewidzianej dla tej czynności oświadczenie, że jest gminą właściwą dla dokonania tej czynności.
+
+### 5.
+
+Zobowiązania i wierzytelności podmiotów, o których mowa w ust. 1, stają się z dniem wejścia w życie ustawy zobowiązaniami i wierzytelnościami m.st. Warszawy.
+
+### Art. 21.
+
+### 1.
+
+Przedsiębiorstwa komunalne i zakłady budżetowe, które wykonują zadania o charakterze użyteczności publicznej mające znaczenie dla całego miasta, podporządkowane i nadzorowane przez Zarząd m.st. Warszawy, ulegają z mocy prawa przekształceniu w jednoosobowe spółki prawa handlowego m.st. Warszawy z dniem 1 stycznia 2003 r.
+
+### 2.
+
+Przedsiębiorstwami komunalnymi, o których mowa w ust. 1, są:
+
+### 1)
+
+Miejskie Przedsiębiorstwo Oczyszczania;
+
+### 2)
+
+Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji;
+
+### 3)
+
+Stołeczne Przedsiębiorstwo Energetyki Cieplnej.
+
+### 3.
+
+Zakładami budżetowymi, o których mowa w ust. 1, są:
+
+### 1)
+
+Miejskie Zakłady Autobusowe;
+
+### 2)
+
+Tramwaje Warszawskie;
+
+### 3)
+
+Metro Warszawskie.
+
+### 4.
+
+Przed upływem terminu, o którym mowa w ust. 1, organ wykonawczy m.st. Warszawy ustala statut spółki (akt założycielski) i niezwłocznie składa wniosek o wpisanie spółki do rejestru sądowego z dniem 1 stycznia 2003 r.
+
+### 5.
+
+Wartość kapitału spółki i jej majątek określi organ wykonawczy m.st. Warszawy.
+
+### 6.
+
+W sprawach nieuregulowanych w ust. 1-5 stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej ([Dz. U. z 2017 r. poz. 827](https://api.sejm.gov.pl/eli/acts/DU/2017/827/text.html) oraz [z 2018 r. poz. 1496](https://api.sejm.gov.pl/eli/acts/DU/2018/1496/text.html) i [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html)).
+
+### Art. 22.
+
+### 1.
+
+Jednostki organizacyjne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego oraz powiatowe służby, inspekcje i straże stają się jednostkami organizacyjnymi, służbami, inspekcjami i strażami m.st. Warszawy.
+
+### 2.
+
+Prezydent m.st. Warszawy jest zwierzchnikiem służbowym pracowników jednostek organizacyjnych oraz zwierzchnikiem służb, inspekcji i straży m.st. Warszawy.
+
+### 3.
+
+Do czasu wprowadzenia nowych regulaminów organizacyjnych jednostki organizacyjne, służby, inspekcje i straże m.st. Warszawy, z zastrzeżeniem ust. 2, działają na podstawie dotychczasowych przepisów.
+
+### 4.
+
+Osoby prawne gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła i powiatu warszawskiego stają się osobami prawnymi m.st. Warszawy.
+
+### Art. 23.
+
+Z dniem wejścia w życie ustawy stroną zawartych wcześniej porozumień pomiędzy organami administracji rządowej lub jednostek samorządu terytorialnego a dotychczasowymi gminami warszawskimi, związkiem komunalnym m.st. Warszawy, gminą Wesoła lub powiatem warszawskim staje się m.st. Warszawa.
+
+### Art. 24.
+
+### 1.
+
+Burmistrzowie gmin warszawskich, Prezydent m.st. Warszawy, burmistrz gminy Wesoła oraz starosta powiatu warszawskiego, działający na podstawie przepisów dotychczasowych, sporządzą i przekażą sprawozdanie budżetowe z wykonania budżetu jednostki samorządu terytorialnego na dzień poprzedzający wejście w życie ustawy do Regionalnej Izby Obrachunkowej w Warszawie.
+
+### 2.
+
+Na podstawie sprawozdań, o których mowa w ust. 1, Prezes Regionalnej Izby Obrachunkowej w Warszawie sporządza zbiorcze sprawozdanie z wykonania budżetów jednostek, o których mowa w ust. 1, za okres od dnia 1 stycznia 2002 r. do dnia poprzedzającego wejście w życie ustawy, w terminie do 30 dnia miesiąca następującego po okresie sprawozdawczym. Sprawozdanie to przekazywane jest organom m.st. Warszawy oraz ministrowi właściwemu do spraw finansów publicznych.
+
+### 3.
+
+Organ wykonawczy m.st. Warszawy sporządza sprawozdanie z wykonania budżetu za okres od dnia wejścia w życie ustawy do końca okresu sprawozdawczego. Sprawozdanie to przekazywane jest do Regionalnej Izby Obrachunkowej w Warszawie w terminie do 25 dnia miesiąca następującego po okresie sprawozdawczym.
+
+### Art. 25.
+
+### 1.
+
+Prezes Regionalnej Izby Obrachunkowej w Warszawie ustala budżet m.st. Warszawy na okres od dnia wejścia w życie ustawy do dnia 31 grudnia 2002 r.
+
+### 2.
+
+Budżet, o którym mowa w ust. 1, stanowi podstawę gospodarki finansowej m.st. Warszawy do czasu podjęcia uchwały budżetowej przez Radę m.st. Warszawy.
+
+### 3.
+
+Ustalone wpłaty gmin warszawskich i gminy Wesoła z przeznaczeniem na zwiększenie części podstawowej subwencji ogólnej, obliczone na podstawie art. 23 ust. 2 ustawy z dnia 26 listopada 1998 r. o dochodach jednostek samorządu terytorialnego w latach 1999-2003 ([Dz. U. poz. 983](https://api.sejm.gov.pl/eli/acts/DU/1998/983/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1119, z 2000 r. poz. 1041, z 2001 r. poz. 459, 574 i 1623, z 2002 r. poz. 1826 oraz z 2003 r. poz. 1725 i 1966.](#gloss-0:3:))[4) Obowiązywała w latach 1999-2003 na podstawie art. 1 pkt 2 ustawy z dnia 23 listopada 2002 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2002 oraz niektórych innych ustaw (Dz. U. poz. 1826), która weszła w życie z dniem 1 stycznia 2003 r.](#gloss-0:4:), stają się z dniem wejścia w życie ustawy zobowiązaniami m.st. Warszawy.
+
+### 4.
+
+Miasto stołeczne Warszawa dokonuje wpłat, o których mowa w ust. 3, zgodnie z art. 23 ust. 4 ustawy, o której mowa w ust. 3.
+
+### 5.
+
+Subwencję ogólną dla m.st. Warszawy ustala się w wysokości stanowiącej różnicę pomiędzy ustaloną na 2002 r. sumą kwot części subwencji ogólnej dla poszczególnych gmin warszawskich i gminy Wesoła a sumą kwot części subwencji ogólnej, przekazaną tym gminom do dnia wejścia w życie ustawy.
+
+### 6.
+
+Do końca 2002 r. dotacje celowe z budżetu państwa na zadania realizowane dotychczas przez gminy warszawskie i gminę Wesoła przekazywane są do budżetu m.st. Warszawy.
+
+### Art. 26.
+
+### 1.
+
+W toczących się postępowaniach sądowych i administracyjnych, w których stronami są dotychczasowe gminy warszawskie, związek komunalny m.st. Warszawy, gmina Wesoła oraz powiat warszawski, stroną staje się m.st. Warszawa.
+
+### 2.
+
+Niezakończone postępowania administracyjne, toczące się przed dotychczasowymi organami gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła oraz powiatu warszawskiego, toczą się nadal przed organami m.st. Warszawy.
+
+### 3.
+
+Pełnomocnictwa udzielone przez dotychczasowe rady i zarządy gmin warszawskich, związku komunalnego m.st. Warszawy, gminy Wesoła, powiatu warszawskiego, burmistrzów gmin i Prezydenta m.st. Warszawy zachowują moc do dnia upływu 4 miesięcy od dnia wejścia w życie ustawy, jeśli nie zostaną zmienione lub uchylone przez Radę m.st. Warszawy lub Prezydenta m.st. Warszawy.
+
+### Art. 27.
+
+### 1.
+
+Miejscowe plany zagospodarowania przestrzennego uchwalone przez gminy warszawskie po dniu 1 stycznia 1995 r. oraz miejscowe plany zagospodarowania przestrzennego gminy Wesoła stają się miejscowymi planami zagospodarowania przestrzennego m.st. Warszawy.
+
+### 2.
+
+Dotychczasowy plan zagospodarowania m.st. Warszawy z określeniem ustaleń wiążących przy sporządzaniu miejscowych planów zagospodarowania przestrzennego pełni funkcję studium uwarunkowań i kierunków zagospodarowania przestrzennego m.st. Warszawy w rozumieniu przepisów o zagospodarowaniu przestrzennym.
+
+### Art. 28.
+
+### 1.
+
+Pierwsze wybory do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie utworzonych na podstawie przepisów niniejszej ustawy zarządza Prezes Rady Ministrów, w drodze rozporządzenia, po zasięgnięciu opinii Państwowej Komisji Wyborczej. Termin wyborów wyznacza się na dzień wyborów do organów stanowiących jednostek samorządu terytorialnego przypadających w związku z zakończeniem kadencji tych organów wybranych w dniu 11 października 1998 r.
+
+### 2.
+
+Wybory, o których mowa w ust. 1, przeprowadza się z uwzględnieniem przepisów niniejszej ustawy.
+
+### Art. 29.
+
+### 1.
+
+W pierwszych wyborach do Rady m.st. Warszawy i do rad dzielnic w m.st. Warszawie stosuje się przepisy ustawy, o której mowa w art. 7 ust. 2, z następującymi zmianami:
+
+### 1)
+
+Wojewoda Mazowiecki ogłosi liczbę radnych wybieranych do rad dzielnic w m.st. Warszawie w wojewódzkim dzienniku urzędowym i poda do publicznej wiadomości, w formie obwieszczenia, w każdej z dzielnic, na cztery miesiące przed upływem kadencji rad wybranych w dniu 11 października 1998 r.;
+
+### 2)
+
+Rada m.st. Warszawy, na wniosek Prezydenta m.st. Warszawy, dokona pierwszego podziału m.st. Warszawy i dzielnic m.st. Warszawy, utworzonych na podstawie niniejszej ustawy, na okręgi wyborcze;
+
+### 3)
+
+Rada m.st. Warszawy może dokonać zmian w stałym podziale obszaru m.st. Warszawy na obwody głosowania z przyczyn określonych w ustawie, o której mowa w art. 7 ust. 2, oraz z przyczyn związanych z nowym podziałem m.st. Warszawy i dzielnic m.st. Warszawy na okręgi wyborcze.
+
+### 2.
+
+Do podziału na okręgi wyborcze, o którym mowa w ust. 1 pkt 2, oraz do zmian w podziale na obwody głosowania, o których mowa w ust. 1 pkt 3, nie stosuje się terminów określonych w art. 31 ust. 2 zdanie pierwsze i art. 92 ust. 1 ustawy, o której mowa w art. 7 ust. 2.
+
+### Art. 30.
+
+### 1.
+
+Pierwszą sesję Rady m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje przewodniczący Rady m.st. Warszawy działającej na podstawie przepisów dotychczasowych, w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+
+### 2.
+
+Pierwszą sesję rady dzielnicy m.st. Warszawy wybranej w wyborach, o których mowa w art. 28, zwołuje Prezydent m.st. Warszawy w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+
+### 3.
+
+Po upływie terminu określonego w ust. 1 i 2 pierwsze sesje zwołuje komisarz wyborczy w ciągu 21 dni po ogłoszeniu zbiorczych wyników wyborów na obszarze całego kraju.
+
+### Art. 31.
+
+Ilekroć w odrębnych przepisach jest mowa o m.st. Warszawie - związku komunalnym, m.st. Warszawie - obligatoryjnym związku gmin lub powiecie warszawskim, należy przez to rozumieć m.st. Warszawę.
+
+### Art. 32.
+
+Traci moc ustawa z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy.
+
+### Art. 33.
+
+Ustawa wchodzi w życie w dniu wyborów[5) Wybory, o których mowa w art. 28 tej ustawy, odbyły się w dniu 27 października 2002 r.](#gloss-0:5:), o których mowa w art. 28, z tym że art. 28 i art. 29 wchodzą w życie po upływie 14 dni od dnia ogłoszenia ustawy[6) Ustawa została ogłoszona w dniu 19 kwietnia 2002 r.](#gloss-0:6:).
+
+1) W brzmieniu ustalonym przez art. 4 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130), która weszła w życie z dniem 31 stycznia 2018 r. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1994 r. poz. 396, z 1995 r. poz. 601, z 1998 r. poz. 847, z 1999 r. poz. 1044, z 2000 r. poz. 306 oraz z 2001 r. poz. 497. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 1119, z 2000 r. poz. 1041, z 2001 r. poz. 459, 574 i 1623, z 2002 r. poz. 1826 oraz z 2003 r. poz. 1725 i 1966. 4) Obowiązywała w latach 1999-2003 na podstawie art. 1 pkt 2 ustawy z dnia 23 listopada 2002 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego w latach 1999-2002 oraz niektórych innych ustaw (Dz. U. poz. 1826), która weszła w życie z dniem 1 stycznia 2003 r. 5) Wybory, o których mowa w art. 28 tej ustawy, odbyły się w dniu 27 października 2002 r. 6) Ustawa została ogłoszona w dniu 19 kwietnia 2002 r.

@@ -8,11 +8,9 @@ pos: 388
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:4)(cid:8)(cid:9)(cid:6)(cid:10)(cid:2)(cid:11)(cid:12)(cid:13)(cid:1)(cid:14)(cid:9)(cid:6)(cid:12)(cid:4)(cid:15)(cid:16)(cid:2)(cid:17)(cid:15)(cid:4)(cid:15)(cid:3)(cid:5)(cid:18)(cid:2)(cid:19)(cid:6)(cid:20)(cid:6)(cid:12)(cid:16)(cid:6)(cid:2)(cid:11)(cid:21)(cid:18)(cid:5)(cid:8)(cid:14)(cid:15)(cid:20)(cid:22)(cid:23)(cid:6)(cid:15)(cid:16)(cid:24)
-
-*USTAWA z dnia 23 listopada 1989 r.*
+# Ustawa z dnia 23 listopada 1989 r. o rozwiązaniu Ochotniczej Rezerwy Milicji Obywatelskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,36 @@ domain: null
 | Data ogłoszenia | 1989-11-23 |
 | Data wydania | 1989-12-11 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890640388) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/388/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1989/388/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1989/388) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:3)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:5)(cid:12)(cid:10)(cid:2)(cid:13)(cid:14)(cid:15)(cid:16)(cid:5)(cid:3)(cid:15)(cid:17)(cid:8)(cid:9)(cid:10)(cid:18)(cid:2)(cid:19)(cid:10)(cid:16)(cid:15)(cid:3)(cid:4)(cid:6)(cid:10)(cid:20)(cid:21)(cid:17)(cid:22)(cid:2)(cid:23)(cid:16)(cid:5)(cid:17)(cid:3)(cid:15)(cid:10)(cid:1)(cid:9)(cid:3)(cid:9)(cid:13)(cid:4)(cid:15)(cid:10)(cid:24)(cid:5)(cid:25)(cid:5)(cid:17)(cid:8)(cid:5)(cid:10)(cid:21)(cid:26)(cid:27)(cid:4)(cid:15)(cid:23)(cid:9)lskiej”.
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. (cid:28)(cid:13)(cid:15)(cid:4)(cid:15)(cid:10) (cid:5)(cid:10) (cid:2)(cid:26)(cid:2)(cid:4)(cid:5)(cid:6)(cid:3)(cid:29)(cid:5)(cid:10) (cid:30)(cid:15)(cid:8)(cid:6)(cid:23)(cid:29)(cid:2)(cid:4)(cid:9)(cid:10) (cid:21)(cid:17)(cid:22)(cid:2)(cid:23)(cid:16)(cid:5)(cid:17)(cid:3)(cid:9)(cid:8)(cid:10) (cid:1)(cid:9)(cid:3)(cid:9)(cid:13)(cid:4)(cid:27)(cid:10) (cid:24)(cid:5)(cid:25)(cid:5)(cid:17)(cid:8)(cid:5)(cid:10) (cid:21)(cid:26)(cid:27)(cid:4)(cid:15)(cid:23)(cid:9)(cid:25)(cid:11)(cid:29)(cid:5)(cid:9)(cid:8) (cid:18)(cid:13)(cid:3)(cid:9)(cid:8)(cid:30)(cid:7)(cid:8)(cid:9)(cid:10)(cid:31)(cid:29)(cid:15)(cid:13)(cid:26)(cid:10)(cid:28)(cid:15) (cid:11)(cid:23)(cid:4)(cid:15)!
+Rozwiązuje się organizację pod nazwą „Ochotnicza Rezerwa Milicji Obywatelskiej”.
 
-2. (cid:1)(cid:15)(cid:19)(cid:15)(cid:10)(cid:24)(cid:5)(cid:16)(cid:5)(cid:11)(cid:23)(cid:13)"(cid:4)#(cid:10)(cid:4)(cid:10)(cid:19)(cid:13)(cid:2)(cid:19)(cid:3)(cid:9)(cid:10)(cid:13)(cid:2)(cid:3)(cid:18)(cid:2)(cid:13)(cid:3)(cid:6)(cid:19)(cid:3)(cid:9)(cid:16)(cid:5)(cid:15)#(cid:10)(cid:2)(cid:29)(cid:13)(cid:9)$(cid:25)(cid:5)(cid:10)(cid:11)(cid:18)(cid:2)(cid:11)"(cid:26)(cid:10)(cid:4)(cid:27)(cid:29)(cid:2)(cid:16)(cid:15)(cid:16)(cid:5)(cid:15)(cid:10)(cid:18)(cid:13)(cid:3)(cid:9)(cid:18)(cid:5)(cid:11)(cid:7) ust. 1.
+### Art. 2.
 
-**Art. 3.** %(cid:13)(cid:15)(cid:17)(cid:6)(cid:10)(cid:30)(cid:2)(cid:17)&
+### 1.
 
-**Art. 4.** 0(cid:11)(cid:23)(cid:15)(cid:4)(cid:15)(cid:10)(cid:4)(cid:17)(cid:22)(cid:2)(cid:19)(cid:3)(cid:5)(cid:10)(cid:4)(cid:10)6(cid:27)(cid:17)(cid:5)(cid:9)(cid:10)(cid:3)(cid:10)(cid:19)(cid:16)(cid:5)(cid:9)(cid:30)(cid:10)(cid:2)(cid:14)-(cid:2)(cid:11)(cid:3)(cid:9)(cid:16)(cid:5)(cid:15)!
+Prawa i obowiązki majątkowe Ochotniczej Rezerwy Milicji Obywatelskiej przejmuje Skarb Państwa.
 
+### 2.
+
+Rada Ministrów, w drodze rozporządzenia, określi sposób wykonania przepisu ust. 1.
+
+### Art. 3.
+
+Tracą moc:
+
+### 1)
+
+ustawa z dnia 13 czerwca 1967 r. o Ochotniczej Rezerwie Milicji Obywatelskiej ([Dz. U. z 1987 r. Nr 15, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1987/94/text.html) i [Nr 34, poz. 191](https://api.sejm.gov.pl/eli/acts/DU/1987/191/text.html)),
+
+### 2)
+
+art. 11 ustawy z dnia 14 lipca 1983 r. o urzędzie Ministra Spraw Wewnętrznych i zakresie działania podległych mu organów ([Dz. U. Nr 38, poz. 172](https://api.sejm.gov.pl/eli/acts/DU/1983/172/text.html) i z [1989 r. Nr 34, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1989/180/text.html)), w części dotyczącej Ochotniczej Rezerwy Milicji Obywatelskiej.
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

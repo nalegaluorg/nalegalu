@@ -8,11 +8,9 @@ pos: 2056
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# w sprawie ogłoszenia jednolitego tekstu ustawy o recyklingu pojazdów wycofanych z eksploatacji
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 października 2020 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 27 października 2020 r. w sprawie ogłoszenia jednolitego tekstu ustawy o recyklingu pojazdów wycofanych z eksploatacji
 
 | Pole | Wartość |
 |---|---|
@@ -24,583 +22,1392 @@ domain: null
 | Data ogłoszenia | 2020-10-27 |
 | Data wydania | 2020-11-20 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002056) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2056/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/2056/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/2056) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2019 r. poz. 1610), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284),
-2) ustawą z dnia 14 sierpnia 2020 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U.
-poz. 1517) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 października 2020 r.
-2. Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
-1) art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), który stanowi: „Art. 114. Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”;
-2) odnośnika nr 1 oraz art. 15, art. 23 i art. 29 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517), które stanowią: „ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 1999/37/WE z dnia 29 kwietnia 1999 r.
-w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351, Dz. Urz. UE L 236 z 23.09.2003, str. 17, Dz. Urz. UE L 10 z 16.01.2004, str. 29 Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 710, Dz. Urz. UE L 363 z 20.12.2006, str. 344, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 127 z 29.04.2014, str. 129).” „Art. 15. Zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu wydane przed dniem określonym w komunikacie, o którym mowa w art. 23, zachowują ważność.” „Art. 23. Minister właściwy do spraw informatyzacji ogłasza w Dzienniku Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Komunikat ogłasza się w terminie co najmniej 3 miesięcy przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.” „Art. 29. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 9 lit. e tiret pierwsze oraz pkt 15 i 30, art. 5, art. 7, art. 8 pkt 1 i 2 oraz art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-2) art. 1 pkt 33 i pkt 38 lit. e, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
-3) art. 1 pkt 1, pkt 10 w zakresie art. 73c, pkt 11 lit. c w zakresie art. 74 ust. 2c oraz pkt 14, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
-4) art. 1 pkt 10 w zakresie art. 73d, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
-5) art. 1 pkt 12 w zakresie art. 74b, który wchodzi w życie z dniem 1 stycznia 2022 r.;
-18 lit. b oraz c, pkt 20 i 22, pkt 23 lit. a, pkt 24 lit. a tiret drugie i trzecie oraz pkt 28, art. 4 pkt 1 i 2, pkt 4 lit. a oraz pkt 6 lit. a, art. 10–12 oraz art. 28, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia;
-7) art. 1 pkt 19 lit. b–e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających czasowe wycofanie z ruchu samochodu osobowego, określonym w komunikacie, o którym mowa w art. 17;
-8) art. 1 pkt 9 lit. b w zakresie art. 73 ust. 1a oraz pkt 11 lit. c w zakresie art. 74 ust. 2d i 2e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających zachowanie dotychczasowego numeru rejestracyjnego pojazdu, określonym w komunikacie, o którym mowa w art. 18;
-9) art. 1 pkt 24 lit. a tiret czwarte oraz lit. b i pkt 25 lit. a tiret pierwsze oraz lit. b, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie do centralnej ewidencji pojazdów i gromadzenie w tej ewidencji danych o przekroczeniach terminów, o których mowa w art. 71 ust. 7 i art. 78 ust. 2 pkt 1 ustawy zmienianej w art. 1, określonym w komunikacie, o którym mowa w art. 19;
-10) art. 1 pkt 27, który wchodzi w życie z dniem wdrożenia rozwiązań technicznych umożliwiających generowanie z systemu teleinformatycznego obsługującego centralną ewidencję pojazdów raportu potwierdzającego dane zgromadzone w tej ewidencji, określonym w komunikacie, o którym mowa w art. 21;
-11) art. 1 pkt 2 lit. a tiret pierwsze, pkt 34, 35 i 37, pkt 38 lit. a–d oraz pkt 40–44, art. 2, art. 3, art. 6, art. 8 pkt 3 i 4, art. 9 oraz art. 25, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających weryfikację danych o kierującym pojazdem w centralnej ewidencji kierowców i wprowadzanie do centralnej ewidencji kierowców informacji o zatrzymaniu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem oraz o ich zwrocie, określonym w komunikacie, o którym mowa w art. 22 ust. 1;
-12) art. 1 pkt 21 lit. b oraz art. 4 pkt 3, pkt 4 lit. b–e, pkt 5, pkt 6 lit. b oraz pkt 7 i 8, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu, określonym w komunikacie, o którym mowa w art. 23.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 20 stycznia 2005 r.
-o recyklingu pojazdów wycofanych z eksploatacji
-Art. 54–59. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.**
+- [Załącznik - Tekst jednolity ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Obowiązki wprowadzających pojazdy](#chpt_2) [Rozdział 3 - Obowiązki właścicieli pojazdów](#chpt_3) [Rozdział 4 - Obowiązki przedsiębiorców prowadzących stacje demontażu](#chpt_4) [Rozdział 5 - Obowiązki przedsiębiorców prowadzących punkty zbierania pojazdów](#chpt_5) [Rozdział 6 - Obowiązki przedsiębiorców prowadzących strzępiarki](#chpt_6) [Rozdział 7 - Obowiązki organów administracji publicznej](#chpt_7) [Rozdział 8 - Przepisy karne](#chpt_8) [Rozdział 8a - Kary pieniężne](#chpt_8a) [Rozdział 9 - Zmiany w przepisach obowiązujących](#chpt_9) [Rozdział 10 - Przepisy przejściowe i końcowe](#chpt_10)
 
-1. Ustawa określa zasady postępowania z pojazdami wycofanymi z eksploatacji w sposób zapewniający ochronę życia i zdrowia ludzi oraz ochronę środowiska zgodnie z zasadą zrównoważonego rozwoju.
+- [Załącznik - Wzory obliczania wysokości opłaty za brak sieci zbierania pojazdów](#part_3)
 
-2. W sprawach dotyczących postępowania z pojazdami wycofanymi z eksploatacji w zakresie nieuregulowanym w ustawie stosuje się przepisy o odpadach.
+TOC
 
-**Art. 2.**
+## Treść obwieszczenia
 
-1. Przepisy ustawy stosuje się do:
+### 1.
 
-- **1)** pojazdów wyprodukowanych na terytorium kraju;
-- **2)** pojazdów wprowadzonych na terytorium kraju w drodze importu lub wewnątrzwspólnotowego nabycia;
-- **3)** odpadów powstałych z pojazdów.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji ([Dz. U. z 2019 r. poz. 1610](https://api.sejm.gov.pl/eli/acts/DU/2019/1610/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-1a. Do motorowerów trójkołowych zaliczanych do kategorii L2e, określonej w przepisach o ruchu drogowym, stosuje się przepisy art. 11, art. 13–17, art. 18, art. 19, art. 21, art. 22, art. 23 ust. 1 oraz art. 39–41.
+### 1)
 
-2. Przepisów ustawy nie stosuje się do pojazdów historycznych.
+ustawą z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw ([Dz. U. poz. 284](https://api.sejm.gov.pl/eli/acts/DU/2020/284/text.html)),
 
-**Art. 3.** Ilekroć w ustawie jest mowa o:
+### 2)
 
-**Art. 3a.** (uchylony)
+ustawą z dnia 14 sierpnia 2020 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ([Dz. U. poz. 1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html))
 
-**Art. 4.**
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 października 2020 r.
 
-1. Wprowadzenie na terytorium kraju następuje z dniem:
+### 2.
 
-- **1)** wydania pojazdu z magazynu lub przekazania innemu podmiotowi w przypadku pojazdu wyprodukowanego na terytorium kraju;
-- **2)** dopuszczenia pojazdu do obrotu na terytorium kraju w przypadku importu;
-- **3)** wystawienia faktury albo przywozu pojazdu na terytorium kraju w przypadku wewnątrzwspólnotowego nabycia.
+Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy nie obejmuje:
 
-2. Jeżeli z przepisów ust. 1 wynika, że wprowadzenie na terytorium kraju mogło nastąpić w różnych terminach, za dzień wprowadzenia na terytorium kraju uważa się dzień najwcześniejszy.
+### 1)
 
-3. Ciężar udowodnienia, że wprowadzenie na terytorium kraju nie nastąpiło albo nastąpiło w innym dniu niż określony w ust. 1, spoczywa na wprowadzającym pojazd.
+art. 114 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw ([Dz. U. poz. 284](https://api.sejm.gov.pl/eli/acts/DU/2020/284/text.html)), który stanowi:
 
-**Art. 5.**
+„
 
-1. Zbieranie pojazdów wycofanych z eksploatacji mogą prowadzić wyłącznie przedsiębiorcy prowadzący punkty zbierania pojazdów i przedsiębiorcy prowadzący stacje demontażu.
+### Art. 114.
 
-2. Demontaż pojazdów wycofanych z eksploatacji może być prowadzony wyłącznie w stacjach demontażu.
+Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia, z wyjątkiem art. 106 ust. 4, art. 107 ust. 2 i art. 108 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 
-**Art. 5a.** Podmiot zajmujący się naprawą pojazdów gospodaruje częściami będącymi odpadami, usuniętymi w trakcie naprawy samochodów osobowych w rozumieniu art. 2 pkt 40 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, zwanych dalej „samochodami osobowymi”, lub przekazuje te części uprawnionemu posiadaczowi odpadów, w tym prowadzącemu stację demontażu, na zasadach określonych w art. 27 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2020 r. poz. 797 i 875).
+” ;
 
-#### Rozdział 2 Obowiązki wprowadzających pojazdy
+### 2)
 
-**Art. 6.**
+odnośnika nr 1 oraz art. 15, art. 23 i art. 29 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw ([Dz. U. poz. 1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html)), które stanowią: „ 1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Rady 1999/37/WE z dnia 29 kwietnia 1999 r. w sprawie dokumentów rejestracyjnych pojazdów (Dz. Urz. WE L 138 z 01.06.1999, str. 57 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 351, Dz. Urz. UE L 236 z 23.09.2003, str. 17, Dz. Urz. UE L 10 z 16.01.2004, str. 29 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 7, str. 710, Dz. Urz. UE L 363 z 20.12.2006, str. 344, Dz. Urz. UE L 158 z 10.06.2013, str. 356 oraz Dz. Urz. UE L 127 z 29.04.2014, str. 129). ”
 
-1. Przedsiębiorca będący producentem pojazdów jest obowiązany do:
+„
 
-- **1)** ograniczania stosowania substancji niebezpiecznych w pojazdach w celu zapobiegania emisji tych substancji do środowiska i ułatwienia recyklingu pojazdów wycofanych z eksploatacji;
-- **2)** uwzględniania wymogów demontażu i ponownego użycia przedmiotów wyposażenia i części pojazdów oraz odzysku i recyklingu pojazdów wycofanych z eksploatacji;
-- **3)** stosowania materiałów pochodzących z recyklingu do produkcji pojazdów.
+### Art. 15.
 
-2. Przepisy ust. 1 pkt 1 i 3 stosuje się odpowiednio do producentów przedmiotów wyposażenia i części pojazdów.
+Zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu wydane przed dniem określonym w komunikacie, o którym mowa w art. 23, zachowują ważność.
 
-**Art. 7.**
+”
 
-1. Materiały, przedmioty wyposażenia i części pojazdów nie mogą zawierać ołowiu, rtęci, kadmu i sześciowartościowego chromu.
+„
 
-2. Materiały, przedmioty wyposażenia i części pojazdów mogą zawierać metale, o których mowa w ust. 1, jeżeli jest to konieczne do uzyskania wymaganej charakterystyki technicznej tych przedmiotów i części.
+### Art. 23.
 
-3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw transportu, określi, w drodze rozporządzenia, listę materiałów, przedmiotów wyposażenia i części pojazdów, o których mowa w ust. 2, kierując się koniecznością ograniczania negatywnego oddziaływania na środowisko.
+Minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Komunikat ogłasza się w terminie co najmniej 3 miesięcy przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.
 
-4. W rozporządzeniu, o którym mowa w ust. 3, może również zostać określona dopuszczalna zawartość ołowiu, rtęci, kadmu lub sześciowartościowego chromu w materiałach, przedmiotach wyposażenia i częściach pojazdów.
+”
 
-**Art. 8.**
+„
 
-1. Wprowadzający pojazd jest obowiązany do zapewnienia oznaczania przedmiotów wyposażenia i części pojazdów z:
+### Art. 29.
 
-- **1)** elastomerów o wadze powyżej 200 g;
-- **2)** pozostałych tworzyw sztucznych o wadze powyżej 100 g.
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 
-2. Przepis ust. 1 stosuje się także do producentów i dokonujących wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów.
+### 1)
 
-3. Minister właściwy do spraw gospodarki, kierując się potrzebą identyfikacji materiału, z którego są wykonywane przedmioty wyposażenia i części pojazdów, określi, w drodze rozporządzenia, sposób oznaczania oraz rodzaje oznaczeń przedmiotów wyposażenia i części pojazdów.
+art. 1 pkt 9 lit. e tiret pierwsze oraz pkt 15 i 30, art. 5, art. 7, art. 8 pkt 1 i 2 oraz art. 22, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 
-**Art. 9.**
+### 2)
 
-1. Wprowadzający pojazd jest obowiązany do opracowania informacji dotyczącej sposobu demontażu nowego typu pojazdu w ciągu 6 miesięcy od wprowadzenia go na terytorium kraju.
+art. 1 pkt 33 i pkt 38 lit. e, które wchodzą w życie po upływie miesiąca od dnia ogłoszenia;
 
-2. Informacja, o której mowa w ust. 1, powinna zawierać w szczególności:
+### 3)
 
-- **1)** określenie rodzajów przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia,
-- **2)** wskazanie umiejscowienia elementów i substancji niebezpiecznych użytych w pojeździe w zakresie potrzebnym przedsiębiorcy prowadzącemu stację demontażu do spełnienia przez niego obowiązków wynikających z przepisów ustawy.
+art. 1 pkt 1, pkt 10 w zakresie art. 73c, pkt 11 lit. c w zakresie art. 74 ust. 2c oraz pkt 14, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia;
 
-3. Wprowadzający pojazd jest obowiązany do nieodpłatnego przekazania przedsiębiorcy prowadzącemu stację demontażu informacji, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia przez tego przedsiębiorcę wniosku o udzielenie informacji.
+### 4)
 
-4. Producenci oraz dokonujący wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów są obowiązani do nieodpłatnego udostępnienia wprowadzającemu pojazd oraz przedsiębiorcy prowadzącemu stację demontażu informacji dotyczącej sposobu demontażu, magazynowania i testowania przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia, w terminie 30 dni od dnia złożenia przez wprowadzającego pojazd lub przedsiębiorcę prowadzącego stację demontażu wniosku o udzielenie informacji.
+art. 1 pkt 10 w zakresie art. 73d, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
 
-**Art. 10.**
+### 5)
 
-- **2)** Przepisy art. 6–9 dotyczą wprowadzających pojazdy wydających kartę pojazdu, o której mowa w art. 77 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+art. 1 pkt 12 w zakresie art. 74b, który wchodzi w życie z dniem 1 stycznia 2022 r.;
 
-**Art. 10.**
+### 6)
 
-- **3)** Przepisy art. 6–9 dotyczą nowych pojazdów.
+art. 1 pkt 7, pkt 8 lit. a, lit. b tiret drugie i lit. c, pkt 9 lit. a, c, d oraz lit. e tiret drugie, pkt 13 lit. b, pkt 16 i 17, pkt 18 lit. b oraz c, pkt 20 i 22, pkt 23 lit. a, pkt 24 lit. a tiret drugie i trzecie oraz pkt 28, art. 4 pkt 1 i 2, pkt 4 lit. a oraz pkt 6 lit. a, art. 10-12 oraz art. 28, które wchodzą w życie po upływie 24 miesięcy od dnia ogłoszenia;
 
-**Art. 11.**
+### 7)
 
-1. Wprowadzający pojazd jest obowiązany zapewnić sieć zbierania pojazdów, zwaną dalej „siecią”, obejmującą terytorium kraju w taki sposób, aby w każdym województwie były prowadzone co najmniej trzy stacje demontażu lub punkty zbierania pojazdów, w tym co najmniej jedna stacja demontażu, położone w różnych miejscowościach, zapewniające właścicielowi pojazdu możliwość oddania pojazdu wycofanego z eksploatacji.
+art. 1 pkt 19 lit. b-e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających czasowe wycofanie z ruchu samochodu osobowego, określonym w komunikacie, o którym mowa w art. 17;
 
-2. Wprowadzający pojazd, który wprowadza na terytorium kraju nie więcej niż 1000 pojazdów w ciągu roku kalendarzowego, jest obowiązany zapewnić sieć obejmującą co najmniej trzy stacje demontażu lub punkty zbierania pojazdów, w tym co najmniej jedną stację demontażu, położone w różnych miejscowościach na terytorium kraju.
+### 8)
 
-3. Wprowadzający pojazd zapewnia sieć wyłącznie przez własne stacje demontażu i punkty zbierania pojazdów lub na podstawie umów z przedsiębiorcami prowadzącymi stacje demontażu.
+art. 1 pkt 9 lit. b w zakresie art. 73 ust. 1a oraz pkt 11 lit. c w zakresie art. 74 ust. 2d i 2e, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających zachowanie dotychczasowego numeru rejestracyjnego pojazdu, określonym w komunikacie, o którym mowa w art. 18;
 
-**Art. 11a.**
+### 9)
 
-1. Wprowadzający pojazd zapewniający sieć na podstawie umów z przedsiębiorcami prowadzącymi stacje demontażu jest obowiązany do ich zawarcia w formie pisemnej pod rygorem nieważności.
+art. 1 pkt 24 lit. a tiret czwarte oraz lit. b i pkt 25 lit. a tiret pierwsze oraz lit. b, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie do centralnej ewidencji pojazdów i gromadzenie w tej ewidencji danych o przekroczeniach terminów, o których mowa w art. 71 ust. 7 i art. 78 ust. 2 pkt 1 ustawy zmienianej w art. 1, określonym w komunikacie, o którym mowa w art. 19;
 
-2. Umowy, o których mowa w ust. 1, określają w szczególności warunki:
+### 10)
 
-- **1)** przyjmowania pojazdów wycofanych z eksploatacji przez stację demontażu;
-- **2)** finansowania przez wprowadzającego pojazd kosztów gospodarowania odpadami pochodzącymi z pojazdów wycofanych z eksploatacji, w szczególności z pojazdów wycofanych z eksploatacji nieposiadających wartości rynkowej lub o wartości rynkowej ujemnej, w sposób zapewniający osiągnięcie poziomów odzysku i recyklingu, uwzględniając liczbę pojazdów wprowadzonych na terytorium kraju przez danego wprowadzającego pojazd.
+art. 1 pkt 27, który wchodzi w życie z dniem wdrożenia rozwiązań technicznych umożliwiających generowanie z systemu teleinformatycznego obsługującego centralną ewidencję pojazdów raportu potwierdzającego dane zgromadzone w tej ewidencji, określonym w komunikacie, o którym mowa w art. 21;
 
-**Art. 12.** (uchylony)
+### 11)
 
-**Art. 13.** Wprowadzający pojazd podlega wpisowi do rejestru, o którym mowa w art. 49 ustawy z dnia 14 grudnia 2012 r. o odpadach.
+art. 1 pkt 2 lit. a tiret pierwsze, pkt 34, 35 i 37, pkt 38 lit. a-d oraz pkt 40-44, art. 2, art. 3, art. 6, art. 8 pkt 3 i 4, art. 9 oraz art. 25, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających weryfikację danych o kierującym pojazdem w centralnej ewidencji kierowców i wprowadzanie do centralnej ewidencji kierowców informacji o zatrzymaniu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem oraz o ich zwrocie, określonym w komunikacie, o którym mowa w art. 22 ust. 1;
 
-**Art. 14.**
+### 12)
 
-1. Wprowadzający pojazd, który nie zapewnił sieci w roku kalendarzowym, jest obowiązany bez wezwania do obliczenia i uiszczenia opłaty za brak sieci.
+art. 1 pkt 21 lit. b oraz art. 4 pkt 3, pkt 4 lit. b-e, pkt 5, pkt 6 lit. b oraz pkt 7 i 8, które wchodzą w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu, określonym w komunikacie, o którym mowa w art. 23.
 
-2. Wprowadzający pojazd jest zwolniony z opłaty za brak sieci, jeżeli nie zapewnił sieci przez okres nie dłuższy niż 21 dni w ciągu roku kalendarzowego.
+” .
 
-3. Wysokość opłaty za brak sieci oblicza się według wzorów określonych w załączniku do ustawy.
+## Załącznik - Tekst jednolity ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji[1) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji (Dz. Urz. WE L 269 z 21.10.2000, z późn. zm.). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej - wydanie specjalne.](#gloss-0:1:)
 
-4. Maksymalna wysokość opłaty stałej za brak sieci wynosi 20 000 zł.
+### Rozdział 1 Przepisy ogólne
 
-5. Maksymalna stawka opłaty za brak sieci wynosi 20 zł za brak jednej stacji demontażu lub jednego punktu zbierania pojazdów w ciągu roku kalendarzowego za każdy pojazd wprowadzony na terytorium kraju w ciągu tego roku.
+### Art. 1.
 
-6. Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, wysokość opłaty stałej za brak sieci oraz stawkę opłaty za brak sieci, uwzględniając koszty recyklingu pojazdów wycofanych z eksploatacji oraz kierując się koniecznością zapewnienia, aby opłata za brak sieci była środkiem ekonomicznym zachęcającym do budowy sieci przez wprowadzającego pojazd.
+### 1.
 
-**Art. 15.** Wprowadzający pojazd sporządza roczne sprawozdanie zawierające informacje, o których mowa w art. 73 ust. 2 pkt 1 i 4 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i trybie określonych w tej ustawie.
+Ustawa określa zasady postępowania z pojazdami wycofanymi z eksploatacji w sposób zapewniający ochronę życia i zdrowia ludzi oraz ochronę środowiska zgodnie z zasadą zrównoważonego rozwoju.
 
-**Art. 16.**
+### 2.
 
-1. Obowiązek obliczenia opłaty za brak sieci powstaje na koniec roku kalendarzowego.
+W sprawach dotyczących postępowania z pojazdami wycofanymi z eksploatacji w zakresie nieuregulowanym w ustawie stosuje się przepisy o odpadach.
 
-2. Opłata za brak sieci jest wpłacana na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej do dnia 31 marca roku następującego po roku, którego opłata dotyczy.
+### Art. 2.
 
-**Art. 17.**
+### 1.
 
-1. W przypadku stwierdzenia, że wprowadzający pojazd, mimo ciążącego na nim obowiązku, nie uiścił opłaty za brak sieci albo uiścił opłatę w wysokości niższej od należnej, Główny Inspektor Ochrony Środowiska wydaje decyzję, w której określa wysokość zobowiązania z tytułu opłaty za brak sieci.
+Przepisy ustawy stosuje się do:
 
-2. W przypadku niewykonania decyzji, o której mowa w ust. 1, w terminie 14 dni od dnia, w którym decyzja stała się ostateczna, Główny Inspektor Ochrony Środowiska ustala, w drodze decyzji, dodatkową opłatę za brak sieci w wysokości odpowiadającej 20% kwoty nieuiszczonej opłaty za brak sieci.
+### 1)
 
-3. Do należności z tytułu opłat za brak sieci stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325 i 1423), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi Ochrony Środowiska.
+pojazdów wyprodukowanych na terytorium kraju;
 
-**Art. 17a.** (uchylony)
+### 2)
 
-**Art. 17b.**
+pojazdów wprowadzonych na terytorium kraju w drodze importu lub wewnątrzwspólnotowego nabycia;
 
-1. Główny Inspektor Ochrony Środowiska stwierdza nadpłatę lub określa wysokość nadpłaty z tytułu opłaty za brak sieci.
+### 3)
 
-2. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje równowartość kwoty nadpłaty, o której mowa w ust. 1, na dochody budżetu państwa, w terminie 7 dni od dnia otrzymania oświadczenia Głównego Inspektora Ochrony Środowiska wskazującego:
+odpadów powstałych z pojazdów.
 
-- **1)** dzień, z którym decyzja Głównego Inspektora Ochrony Środowiska stwierdzająca nadpłatę lub określająca wysokość nadpłaty stała się ostateczna;
-- **2)** równowartość kwoty nadpłaty podlegającej przekazaniu;
-- **3)** rachunek bieżący dochodów budżetowych ministra właściwego do spraw klimatu, na który należy przekazać równowartość kwoty nadpłaty.
+### 1a.
 
-3. Za dzień przekazania równowartości kwoty nadpłaty uważa się dzień obciążenia rachunku bankowego Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+Do motorowerów trójkołowych zaliczanych do kategorii L2e, określonej w przepisach o ruchu drogowym, stosuje się przepisy art. 11, art. 13-17, art. 18, art. 19, art. 21, art. 22, art. 23 ust. 1 oraz art. 39-41.
 
-4. Przekazana równowartość kwoty nadpłaty zmniejsza wysokość zobowiązania określonego w art. 401c ust. 9 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378 i 1565) i nie może przekroczyć stanu tego zobowiązania ustalonego na dzień przekazania równowartości kwoty nadpłaty.
+### 2.
 
-5. Zwrotu kwoty nadpłaty z tytułu opłaty za brak sieci wraz z należnym oprocentowaniem dokonuje Główny Inspektor Ochrony Środowiska ze środków rezerwy celowej na zobowiązania wymagalne Skarbu Państwa.
+Przepisów ustawy nie stosuje się do pojazdów historycznych.
 
-#### Rozdział 3 Obowiązki właścicieli pojazdów
+### Art. 3.
 
-**Art. 18.** Właściciel pojazdu wycofanego z eksploatacji przekazuje go wyłącznie do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+Ilekroć w ustawie jest mowa o:
 
-**Art. 19.** Właściciel pojazdu wycofanego z eksploatacji lub upoważniona przez niego osoba, przekazując pojazd do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, jest obowiązany okazać:
+### 1)
 
-**Art. 20.**
+imporcie - rozumie się przez to przywóz pojazdu z terytorium państwa niebędącego członkiem Unii Europejskiej w celu wprowadzenia na terytorium kraju;
 
-- **7)** Właściciel pojazdu wycofanego z eksploatacji jest obowiązany w terminie 30 dni od dnia otrzymania zaświadczenia o demontażu pojazdu lub zaświadczenia o przyjęciu niekompletnego pojazdu złożyć wniosek o wyrejestrowanie pojazdu.
+### 2)
 
-**Art. 20.** (uchylony)
+masie pojazdu - rozumie się przez to masę własną w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2020 r. poz. 110](https://api.sejm.gov.pl/eli/acts/DU/2020/110/text.html), [284](https://api.sejm.gov.pl/eli/acts/DU/2020/284/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1087](https://api.sejm.gov.pl/eli/acts/DU/2020/1087/text.html) i [1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html)), pomniejszoną o masę paliwa w ilości nominalnej;
 
-#### Rozdział 4 Obowiązki przedsiębiorców prowadzących stacje demontażu
+### 2a)
 
-**Art. 21.**
+masie pojazdu wycofanego z eksploatacji - rozumie się przez to masę pojazdu zważonego przy przyjmowaniu pojazdu do stacji demontażu lub punktu zbierania pojazdów, po uprzednim usunięciu z niego innych odpadów, które nie pochodzą z tego pojazdu;
 
-1. Przedsiębiorca prowadzący stację demontażu powinien zapewniać bezpieczne dla środowiska i zdrowia ludzi przetwarzanie pojazdów wycofanych z eksploatacji i powstających z nich odpadów.
+### 3)
 
-2. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przekazania zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, który spełnia wymagania, o których mowa w art. 15 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2020 r. poz. 1850) i w przepisach wydanych na podstawie art. 63 ust. 7 tej ustawy.
+odzysku - rozumie się przez to odzysk w rozumieniu przepisów o odpadach;
 
-**Art. 21a.** Przedsiębiorca prowadzący stację demontażu podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+### 4)
 
-**Art. 22.**
+pojeździe - rozumie się przez to pojazdy samochodowe zaliczone do kategorii M1 lub N1, określonych w przepisach o ruchu drogowym, oraz motorowery trójkołowe zaliczone do kategorii L2e, określonych w przepisach o ruchu drogowym;
 
-- **4)** Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, minimalne wymagania dla stacji demontażu oraz sposób demontażu pojazdów wycofanych z eksploatacji, kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi demontażu pojazdów wycofanych z eksploatacji.
+### 5)
 
-**Art. 23.**
+pojeździe historycznym - rozumie się przez to:
 
-1. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+### a)
 
-2. Przedsiębiorca prowadzący stację demontażu jest także obowiązany do przyjęcia pojazdu wycofanego z eksploatacji, dla którego brak jest dowodu rejestracyjnego lub który nie posiada cech identyfikacyjnych pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym, a także odpadów pochodzących z pojazdów wycofanych z eksploatacji, jeżeli obowiązek przekazania tych odpadów do stacji demontażu wynika z postanowienia albo decyzji wydanych przez Głównego Inspektora Ochrony Środowiska na podstawie przepisów ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. z 2020 r. poz. 1792).
+pojazd zabytkowy w rozumieniu przepisów ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym,
 
-3. Przedsiębiorca prowadzący stację demontażu przy przyjmowaniu pojazdu wycofanego z eksploatacji nie pobiera opłaty od właściciela pojazdu.
+### b)
 
-4. Przedsiębiorca prowadzący stację demontażu przy przyjmowaniu pojazdu wycofanego z eksploatacji może pobrać opłatę od właściciela pojazdu, jeżeli jest spełniony co najmniej jeden z następujących warunków:
+pojazd mający co najmniej 25 lat, uznany przez rzeczoznawcę samochodowego za unikatowy lub mający szczególne znaczenie dla udokumentowania historii motoryzacji;
 
-- **1)** pojazd wycofany z eksploatacji nie jest zarejestrowany na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym;
-- **2)** pojazd wycofany z eksploatacji:
-    - **a)** jest niekompletny,
-    - **b)** zawiera odpady, które zostały do niego dodane.
+### 6)
 
-5. Za niekompletny pojazd uważa się pojazd, który nie zawiera co najmniej jednego istotnego elementu określonego w przepisach wydanych na podstawie ust. 9.
+pojeździe wycofanym z eksploatacji - rozumie się przez to pojazd stanowiący odpad w rozumieniu przepisów o odpadach;
 
-6. W przypadku przyjmowania niekompletnego pojazdu wycofanego z eksploatacji opłata, o której mowa w ust. 4, nie może przekraczać 10 zł za każdy kilogram brakującej masy pojazdu.
+### 7)
 
-7. Przedsiębiorca prowadzący stację demontażu nie pobiera opłaty, o której mowa w ust. 4, przy przyjmowaniu niekompletnego pojazdu wycofanego z eksploatacji należącego do Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, organów Krajowej Administracji Skarbowej, Służby Więziennej, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Centralnego Biura Antykorupcyjnego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego oraz jednostek ochrony przeciwpożarowej.
+ponownym użyciu - rozumie się przez to zastosowanie przedmiotów wyposażenia i części, wymontowanych z pojazdów wycofanych z eksploatacji, w tym samym celu, dla którego zostały pierwotnie zaprojektowane i wykonane;
 
-8. Przedsiębiorca prowadzący stację demontażu może odmówić przyjęcia pojazdu wycofanego z eksploatacji, jeżeli właściciel pojazdu nie uiścił opłaty, o której mowa w ust. 4.
+### 8)
 
-9. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw klimatu, mając na uwadze wymogi ochrony środowiska, potrzebę zapewnienia kompletności pojazdów w celu uzyskania odpowiednich poziomów odzysku i recyklingu oraz przeciwdziałanie niewłaściwemu zagospodarowaniu odpadów, określi, w drodze rozporządzenia, listę istotnych elementów pojazdu kompletnego.
+przetwarzaniu - rozumie się przez to czynności podejmowane po przekazaniu pojazdu wycofanego z eksploatacji do stacji demontażu w celu demontażu, odzysku lub przygotowania do unieszkodliwiania;
 
-**Art. 23a.**
+### 9)
 
-1. Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia będących odpadami części samochodów osobowych usuniętych w trakcie naprawy o ile nie spowoduje to przekroczenia masy odpadów przewidywanych do przetworzenia i powstających w wyniku przetwarzania w okresie roku, określonych w pozwoleniu zintegrowanym lub innej decyzji w zakresie gospodarki odpadami wymaganych w związku z prowadzeniem stacji demontażu.
+recyklingu - rozumie się przez to recykling w rozumieniu przepisów o odpadach;
 
-2. Przedsiębiorca prowadzący stację demontażu za przyjęcie będących odpadami części samochodów osobowych usuniętych w trakcie naprawy może pobrać opłatę.
+### 10)
 
-**Art. 24.**
+stacji demontażu - rozumie się przez to zakład prowadzący przetwarzanie, w tym demontaż obejmujący następujące czynności:
 
-1. Przedsiębiorca prowadzący stację demontażu, przyjmując pojazd wycofany z eksploatacji, który posiada wszystkie istotne elementy określone w przepisach wydanych na podstawie art. 23 ust. 9, jest obowiązany do:
+### a)
 
-- **1)** unieważnienia dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych;
-- **1)** unieważnienia dowodu rejestracyjnego i zwrotu unieważnionego dowodu rejestracyjnego właścicielowi pojazdu;
-- **2)** wydania zaświadczenia o demontażu pojazdu.
+usunięcie z pojazdów wycofanych z eksploatacji elementów i substancji niebezpiecznych, w tym płynów,
 
-1a. Obowiązek, o którym mowa w ust. 1, w zakresie tablic rejestracyjnych, nie dotyczy pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+### b)
 
-1a. Obowiązek, o którym mowa w ust. 1b, nie dotyczy pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+wymontowanie z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia i części nadających się do ponownego użycia,
 
-1b. Przedsiębiorca prowadzący stację demontażu dokonuje zniszczenia tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowuje je zgodnie z przepisami o odpadach.
+### c)
 
-2. Zaświadczenie o demontażu pojazdu powinno zawierać oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych.
+wymontowanie z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu;
 
-2. Zaświadczenie o demontażu pojazdu zawiera oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego oraz o zniszczeniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowaniu ich zgodnie z przepisami o odpadach.
+### 11)
 
-3. Zaświadczenie o demontażu pojazdu jest sporządzane w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi jest przekazywany przez przedsiębiorcę prowadzącego stację demontażu w terminie 7 dni organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu, z zastrzeżeniem ust. 5.
+strzępiarce - rozumie się przez to instalację służącą do rozdrabniania odpadów powstałych w trakcie demontażu pojazdów wycofanych z eksploatacji;
 
-3. Przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w dwóch egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, a drugi pozostaje u przedsiębiorcy prowadzącego stację demontażu. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu.
+### 12)
 
-4. Przedsiębiorca prowadzący stację demontażu, który otrzymuje zaświadczenia o demontażu pojazdu od przedsiębiorcy prowadzącego punkt zbierania pojazdów, o którym mowa w art. 33 ust. 3, przekazuje jeden egzemplarz zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a drugi pozostawia u siebie.
+terytorium kraju - rozumie się przez to terytorium Rzeczypospolitej Polskiej;
 
-4. (uchylony)
+### 13)
 
-5. W przypadku pojazdu niezarejestrowanego na terytorium kraju, egzemplarz zaświadczenia o demontażu pojazdu, przeznaczony dla organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu, jest przekazywany w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska.
+wewnątrzwspólnotowym nabyciu - rozumie się przez to przywóz pojazdu z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej w celu wprowadzenia na terytorium kraju;
 
-5. (uchylony)
+### 14)
 
-**Art. 25.**
+wprowadzającym pojazd - rozumie się przez to przedsiębiorcę będącego producentem pojazdu lub przedsiębiorcę prowadzącego działalność gospodarczą w zakresie wewnątrzwspólnotowego nabycia lub importu;
 
-1. W przypadku przyjmowania niekompletnego pojazdu przedsiębiorca prowadzący stację demontażu jest obowiązany do wydania zaświadczenia o przyjęciu niekompletnego pojazdu. Przepisy art. 24 ust. 1 pkt 1 i ust. 1a–5 stosuje się odpowiednio.
+### 15)
 
-1. W przypadku przyjmowania niekompletnego pojazdu przedsiębiorca prowadzący stację demontażu jest obowiązany do wydania zaświadczenia o przyjęciu niekompletnego pojazdu. Przepisy art. 24 ust. 1 pkt 1 i ust. 1a–3 stosuje się odpowiednio.
+substancji niebezpiecznej - rozumie się przez to każdą substancję spełniającą kryteria klasyfikacji dla którejkolwiek z klas lub kategorii zagrożenia wymienionych w:
 
-2. (uchylony)
+### a)
 
-3. Przedsiębiorca prowadzący stację demontażu nie wydaje zaświadczenia o przyjęciu niekompletnego pojazdu, jeżeli nie jest możliwe ustalenie cech identyfikacyjnych pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+części 2 w pkt 2.1-2.4, 2.6, 2.7, 2.8 (Typ A i B), 2.9, 2.10, 2.12, 2.13 (kategoria 1 i 2), 2.14 (kategoria 1 i 2) oraz 2.15 (Typ A-F),
 
-**Art. 26.** Przedsiębiorca prowadzący stację demontażu prowadzi ewidencję zaświadczeń o demontażu pojazdu oraz zaświadczeń o przyjęciu niekompletnego pojazdu, wydanych przez niego i przez przedsiębiorców prowadzących punkty zbierania pojazdów, z którymi zawarł umowę.
+### b)
 
-**Art. 27.** Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw klimatu, określi, w drodze rozporządzenia:
+części 3 w pkt 3.1-3.6, 3.7 (działanie szkodliwe na funkcje płciowe i płodność lub na rozwój potomstwa), 3.8 (z wyjątkiem substancji spełniających kryteria klasyfikacji ze względu na działanie narkotyczne), 3.9 i 3.10,
 
-**Art. 28.**
+### c)
 
-1. Przedsiębiorca prowadzący stację demontażu jest obowiązany osiągać poziom odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji w wysokości odpowiednio 95% i 85% masy pojazdów przyjętych do jego stacji demontażu rocznie.
+części 4 w pkt 4.1,
 
-2. (uchylony) 2a. Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+### d)
 
-3. Przy obliczaniu poziomów recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do recyklingu zalicza się procesy oznaczone jako R2–R9 w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach oraz wymontowanie przedmiotów wyposażenia i części pojazdów przeznaczonych do ponownego użycia.
+części 5 w pkt 5.1
 
-4. Przy obliczaniu poziomów odzysku odpadów pochodzących z pojazdów wycofanych z eksploatacji do odzysku zalicza się procesy uwzględnione przy obliczaniu poziomu recyklingu oraz procesy oznaczone jako R1 w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
+- załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html));
 
-5. Przy obliczaniu poziomów odzysku i recyklingu pojazdów wycofanych z eksploatacji przedmioty wyposażenia i części pojazdów przeznaczone do ponownego użycia zalicza się do odzysku i recyklingu.
+### 16)
 
-5a. Przedsiębiorca prowadzący stację demontażu przy obliczaniu poziomów odzysku i recyklingu, o których mowa w ust. 1, może uwzględnić masę odpadów pochodzących z pojazdów wycofanych z eksploatacji poddanych odzyskowi lub recyklingowi do końca lutego następnego roku w przypadku, gdy pochodzą z pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu pojazdów w okresie od 1 stycznia do 31 grudnia danego roku.
+wprowadzeniu na terytorium kraju - rozumie się przez to wprowadzenie pojazdu po raz pierwszy na terytorium kraju w celu używania lub dystrybucji.
 
-6. Ilość odpadów poddanych odzyskowi lub recyklingowi ustala się na podstawie ewidencji odpadów prowadzonej przez przedsiębiorcę prowadzącego stację demontażu.
+### Art. 3a.
 
-7. Minister właściwy do spraw klimatu, w porozumieniu z ministrem właściwym do spraw gospodarki, kierując się potrzebą ujednolicenia metodyki obliczania poziomów odzysku i recyklingu oraz uwzględniając zakres niezbędnych danych, określi, w drodze rozporządzenia:
+(uchylony)
 
-- **1)** frakcje materiałowe pochodzące ze strzępiarki, których zagospodarowanie zalicza się do recyklingu;
-- **2)** frakcje materiałowe pochodzące ze strzępiarki, których zagospodarowanie zalicza się do innych procesów odzysku niż recykling;
-- **3)** (uchylony)
-- **4)** sposób obliczania poziomów odzysku i recyklingu pojazdów wycofanych z eksploatacji.
+### Art. 4.
 
-**Art. 28a.**
+### 1.
 
-1. Przedsiębiorca prowadzący stację demontażu, który w roku kalendarzowym nie wykonał obowiązku, o którym mowa w art. 28 ust. 1, jest obowiązany do obliczenia i uiszczenia bez wezwania opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, obliczanej odrębnie w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu.
+Wprowadzenie na terytorium kraju następuje z dniem:
 
-2. Opłatę za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji oblicza się jako iloczyn stawki opłaty i brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+### 1)
 
-3. Stawka opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji wynosi:
+wydania pojazdu z magazynu lub przekazania innemu podmiotowi - w przypadku pojazdu wyprodukowanego na terytorium kraju;
 
-- **1)** 0,05 zł za każdy kilogram brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, w przypadku gdy do osiągnięcia wymaganego poziomu brakuje nie więcej niż 5%;
-- **2)** 0,1 zł za każdy kilogram brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, w przypadku gdy do osiągnięcia wymaganego poziomu brakuje więcej niż 5%.
+### 2)
 
-4. W przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji przez co najmniej dwa kolejne lata, stawka opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do obliczenia opłaty należnej za drugi i każdy kolejny rok nieosiągnięcia wymaganego poziomu stanowi dwukrotność stawki określonej zgodnie z ust. 3.
+dopuszczenia pojazdu do obrotu na terytorium kraju - w przypadku importu;
 
-5. Opłata za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji jest uiszczana na odrębny rachunek bankowy urzędu marszałkowskiego, w terminie do dnia 15 marca roku następującego po roku, którego opłata dotyczy.
+### 3)
 
-6. W przypadku stwierdzenia, że przedsiębiorca prowadzący stację demontażu, mimo ciążącego na nim obowiązku, nie uiścił opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji albo uiścił opłatę w wysokości niższej od należnej, marszałek województwa wydaje decyzję, w której określa wysokość tej opłaty.
+wystawienia faktury albo przywozu pojazdu na terytorium kraju - w przypadku wewnątrzwspólnotowego nabycia.
 
-7. Do należności z tytułu opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+### 2.
 
-**Art. 29.** (uchylony)
+Jeżeli z przepisów ust. 1 wynika, że wprowadzenie na terytorium kraju mogło nastąpić w różnych terminach, za dzień wprowadzenia na terytorium kraju uważa się dzień najwcześniejszy.
 
-**Art. 30.** Przedsiębiorca prowadzący stację demontażu jest obowiązany do sporządzenia rocznego sprawozdania zawierającego informacje, o których mowa w art. 75 ust. 2 pkt 1 i 4 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+### 3.
 
-**Art. 31.**
+Ciężar udowodnienia, że wprowadzenie na terytorium kraju nie nastąpiło albo nastąpiło w innym dniu niż określony w ust. 1, spoczywa na wprowadzającym pojazd.
 
-1. Przedsiębiorca prowadzący stację demontażu jest obowiązany w terminie 14 dni złożyć marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwemu miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu zawiadomienie o zakończeniu działalności w zakresie demontażu pojazdów wycofanych z eksploatacji lub o rozwiązaniu lub wygaśnięciu umowy z przedsiębiorcą prowadzącym punkt zbierania pojazdów.
+### Art. 5.
 
-2. Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
+### 1.
 
-- **1)** nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy;
-- **2)** datę zakończenia działalności lub rozwiązania lub wygaśnięcia umowy;
-- **3)** w przypadku rozwiązania lub wygaśnięcia umowy nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+Zbieranie pojazdów wycofanych z eksploatacji mogą prowadzić wyłącznie przedsiębiorcy prowadzący punkty zbierania pojazdów i przedsiębiorcy prowadzący stacje demontażu.
 
-3. Minister właściwy do spraw klimatu określi wzór zawiadomienia, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2020 r. poz. 346, 568, 695 i 1517).
+### 2.
 
-#### Rozdział 5 Obowiązki przedsiębiorców prowadzących punkty zbierania pojazdów
+Demontaż pojazdów wycofanych z eksploatacji może być prowadzony wyłącznie w stacjach demontażu.
 
-**Art. 32.**
+### Art. 5a.
 
-1. Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany zapewnić bezpieczne dla środowiska i zdrowia ludzi zbieranie pojazdów wycofanych z eksploatacji.
+Podmiot zajmujący się naprawą pojazdów gospodaruje częściami będącymi odpadami, usuniętymi w trakcie naprawy samochodów osobowych w rozumieniu art. 2 pkt 40 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, zwanych dalej „samochodami osobowymi”, lub przekazuje te części uprawnionemu posiadaczowi odpadów, w tym prowadzącemu stację demontażu, na zasadach określonych w art. 27 ustawy z dnia 14 grudnia 2012 r. o odpadach ([Dz. U. z 2020 r. poz. 797](https://api.sejm.gov.pl/eli/acts/DU/2020/797/text.html) i [875](https://api.sejm.gov.pl/eli/acts/DU/2020/875/text.html)).
 
-2. Do wniosku o wydanie zezwolenia na zbieranie odpadów przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany dołączyć kopię zawartej z przedsiębiorcą prowadzącym stację demontażu umowy dotyczącej przyjmowania pojazdów zebranych w punkcie zbierania pojazdów.
+### Rozdział 2 Obowiązki wprowadzających pojazdy
 
-3. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw klimatu, kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi zbierania pojazdów wycofanych z eksploatacji oraz uwzględniając wydawanie zaświadczeń o demontażu pojazdu, określi, w drodze rozporządzenia, minimalne wymagania dla punktów zbierania pojazdów.
+### Art. 6.
 
-**Art. 32a.** Przedsiębiorca prowadzący punkt zbierania pojazdów podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+### 1.
 
-**Art. 33.**
+Przedsiębiorca będący producentem pojazdów jest obowiązany do:
 
-1. Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym.
+### 1)
 
-2. Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23–25, z zastrzeżeniem ust. 3.
+ograniczania stosowania substancji niebezpiecznych w pojazdach w celu zapobiegania emisji tych substancji do środowiska i ułatwienia recyklingu pojazdów wycofanych z eksploatacji;
 
-2. Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23–25, z zastrzeżeniem ust. 3–5.
+### 2)
 
-3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi i trzeci są przekazywane w terminie 7 dni do przedsiębiorcy prowadzącego stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+uwzględniania wymogów demontażu i ponownego użycia przedmiotów wyposażenia i części pojazdów oraz odzysku i recyklingu pojazdów wycofanych z eksploatacji;
 
-3. Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a trzeci pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, dwa przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+### 3)
 
-4. Przedsiębiorca prowadzący punkt zbierania pojazdów przekazuje przedsiębiorcy prowadzącemu stację demontażu wraz z zaświadczeniami, o których mowa w ust. 3, tablice rejestracyjne przyjętego pojazdu wycofanego z eksploatacji.
+stosowania materiałów pochodzących z recyklingu do produkcji pojazdów.
 
-5. Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.
+### 2.
 
-**Art. 34.** Przedsiębiorca prowadzący punkt zbierania pojazdów może wydawać zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu, wyłącznie w imieniu przedsiębiorcy prowadzącego stację demontażu, jeżeli spełnia łącznie następujące warunki:
+Przepisy ust. 1 pkt 1 i 3 stosuje się odpowiednio do producentów przedmiotów wyposażenia i części pojazdów.
 
-**Art. 35.**
+### Art. 7.
 
-1. Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany, najpóźniej do dnia 10 stycznia, przekazać wszystkie zebrane w roku poprzednim pojazdy wycofane z eksploatacji do przedsiębiorcy prowadzącego stację demontażu, z którym zawarł umowę, jeżeli nie jest to ten sam przedsiębiorca.
+### 1.
 
-2. Do transportu pojazdów wycofanych z eksploatacji do stacji demontażu lub punktu zbierania pojazdów nie stosuje się przepisów art. 24 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach, chyba że ich stan stwarza zagrożenie dla środowiska.
+Materiały, przedmioty wyposażenia i części pojazdów nie mogą zawierać ołowiu, rtęci, kadmu i sześciowartościowego chromu.
 
-**Art. 36.**
+### 2.
 
-1. Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany w terminie 14 dni złożyć staroście właściwemu miejscowo do wydania zezwolenia na zbieranie odpadów zawiadomienie o zakończeniu działalności w zakresie zbierania pojazdów wycofanych z eksploatacji lub o rozwiązaniu lub wygaśnięciu umowy z przedsiębiorcą prowadzącym stację demontażu.
+Materiały, przedmioty wyposażenia i części pojazdów mogą zawierać metale, o których mowa w ust. 1, jeżeli jest to konieczne do uzyskania wymaganej charakterystyki technicznej tych przedmiotów i części.
 
-2. Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
+### 3.
 
-- **1)** nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy;
-- **2)** datę zakończenia działalności lub rozwiązania lub wygaśnięcia umowy;
-- **3)** w przypadku rozwiązania lub wygaśnięcia umowy nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy prowadzącego stację demontażu.
+Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw transportu, określi, w drodze rozporządzenia, listę materiałów, przedmiotów wyposażenia i części pojazdów, o których mowa w ust. 2, kierując się koniecznością ograniczania negatywnego oddziaływania na środowisko.
 
-3. Zezwolenie na zbieranie odpadów wydane przedsiębiorcy prowadzącemu punkt zbierania pojazdów wygasa z dniem zakończenia działalności lub rozwiązania lub wygaśnięcia umowy z przedsiębiorcą prowadzącym stację demontażu.
+### 4.
 
-#### Rozdział 6 Obowiązki przedsiębiorców prowadzących strzępiarki
+W rozporządzeniu, o którym mowa w ust. 3, może również zostać określona dopuszczalna zawartość ołowiu, rtęci, kadmu lub sześciowartościowego chromu w materiałach, przedmiotach wyposażenia i częściach pojazdów.
 
-**Art. 37.**
+### Art. 8.
 
-1. Przedsiębiorca prowadzący strzępiarkę jest obowiązany zapewnić bezpieczne dla środowiska i zdrowia ludzi rozdrabnianie odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+### 1.
 
-1a. Przedsiębiorca prowadzący strzępiarkę podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+Wprowadzający pojazd jest obowiązany do zapewnienia oznaczania przedmiotów wyposażenia i części pojazdów z:
 
-2. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw klimatu, kierując się potrzebą zapewnienia bezpiecznego dla środowiska sposobu rozdziału odpadów powstałych w trakcie demontażu pojazdów wycofanych z eksploatacji oraz właściwego gospodarowania tymi odpadami, określi, w drodze rozporządzenia, minimalne wymagania dla strzępiarek oraz metody rozdziału odpadów na frakcje materiałowe obejmujące frakcje metali żelaznych i nieżelaznych, tworzyw sztucznych, szkła i pozostałości.
+### 1)
 
-**Art. 38.**
+elastomerów o wadze powyżej 200 g;
 
-1. Przedsiębiorca prowadzący strzępiarkę jest obowiązany wykonać raz na 5 lat próbę strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w celu określenia zawartości uzyskiwanych frakcji materiałowych.
+### 2)
 
-1a. Przedsiębiorca prowadzący strzępiarkę wykonuje po raz pierwszy próbę strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia rozpoczęcia działalności w tym zakresie.
+pozostałych tworzyw sztucznych o wadze powyżej 100 g.
 
-1b. W przypadku dokonania zmian konstrukcyjnych lub technologicznych strzępiarki, skutkujących zmianą składu materiałowego rozdrobnionych odpadów, przedsiębiorca prowadzący strzępiarkę jest obowiązany do przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w terminie 30 dni od dnia dokonania tych zmian.
+### 2.
 
-2. Przedsiębiorca prowadzący strzępiarkę przekazuje przedsiębiorcom prowadzącym stacje demontażu, od których przyjmuje odpady do strzępienia, informację dotyczącą zawartości uzyskiwanych frakcji materiałowych określonej w wyniku przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w ciągu miesiąca od jej przeprowadzenia.
+Przepis ust. 1 stosuje się także do producentów i dokonujących wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów.
 
-3. Przedsiębiorca prowadzący strzępiarkę sporządza roczne sprawozdanie zawierające informacje, o których mowa w art. 75 ust. 2 pkt 1 i 5 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+### 3.
 
-4. Minister właściwy do spraw klimatu, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, odpady, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, oraz sposób jej wykonania, kierując się potrzebą ustalenia średniej zawartości uzyskiwanych frakcji materiałowych.
+Minister właściwy do spraw gospodarki, kierując się potrzebą identyfikacji materiału, z którego są wykonywane przedmioty wyposażenia i części pojazdów, określi, w drodze rozporządzenia, sposób oznaczania oraz rodzaje oznaczeń przedmiotów wyposażenia i części pojazdów.
 
-**Art. 38a.** (uchylony)
+### Art. 9.
 
-#### Rozdział 7 Obowiązki organów administracji publicznej
+### 1.
 
-**Art. 39.**
+Wprowadzający pojazd jest obowiązany do opracowania informacji dotyczącej sposobu demontażu nowego typu pojazdu w ciągu 6 miesięcy od wprowadzenia go na terytorium kraju.
 
-1. Starosta albo regionalny dyrektor ochrony środowiska wydaje zezwolenie na zbieranie odpadów przedsiębiorcy prowadzącemu punkt zbierania pojazdów po:
+### 2.
 
-- **1)** zaopiniowaniu przez:
-    - **a)** marszałka województwa,
-    - **b)** regionalnego dyrektora ochrony środowiska, o ile nie jest to ten sam organ właściwych miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu przedsiębiorcy prowadzącemu stację demontażu, z którym przedsiębiorca prowadzący punkt zbierania pojazdów zawarł umowę;
+Informacja, o której mowa w ust. 1, powinna zawierać w szczególności:
 
-- **2)** sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska spełnienia minimalnych wymagań dla punktów zbierania pojazdów określonych w przepisach wydanych na podstawie art. 32 ust. 3.
+### 1)
 
-2. W zezwoleniu, o którym mowa w ust. 1, starosta albo regionalny dyrektor ochrony środowiska określa przedsiębiorcę lub przedsiębiorców prowadzących stację demontażu, którym przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany przekazywać zebrane pojazdy wycofane z eksploatacji.
+określenie rodzajów przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia,
 
-3. Jeżeli przedsiębiorca prowadzący punkt zbierania pojazdów poświadcza nieprawdę w zaświadczeniu o demontażu pojazdu lub zaświadczeniu o przyjęciu niekompletnego pojazdu, starosta albo regionalny dyrektor ochrony środowiska cofa zezwolenie, o którym mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+### 2)
 
-4. Jeżeli przedsiębiorca prowadzący punkt zbierania pojazdów narusza przepisy ustawy, starosta albo regionalny dyrektor ochrony środowiska wzywa go do niezwłocznego zaniechania naruszeń.
+wskazanie umiejscowienia elementów i substancji niebezpiecznych użytych w pojeździe
 
-5. Jeżeli przedsiębiorca, o którym mowa w ust. 4, mimo wezwania nadal narusza przepisy ustawy, starosta albo regionalny dyrektor ochrony środowiska cofa zezwolenie, o którym mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+- w zakresie potrzebnym przedsiębiorcy prowadzącemu stację demontażu do spełnienia przez niego obowiązków wynikających z przepisów ustawy.
 
-6. Cofnięcie zezwolenia, o którym mowa w ust. 1, powoduje wstrzymanie działalności objętej tym zezwoleniem.
+### 3.
 
-7. Starosta albo regionalny dyrektor ochrony środowiska przekazuje marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska, o ile nie jest to ten sam organ, właściwym miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami, oraz marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwym ze względu na adres punktu zbierania pojazdów kopie zezwolenia, o którym mowa w ust. 1, oraz decyzji, o których mowa w ust. 3 i 5.
+Wprowadzający pojazd jest obowiązany do nieodpłatnego przekazania przedsiębiorcy prowadzącemu stację demontażu informacji, o której mowa w ust. 1, w terminie 30 dni od dnia złożenia przez tego przedsiębiorcę wniosku o udzielenie informacji.
 
-**Art. 40.**
+### 4.
 
-1. Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu jest marszałek województwa; w przypadku gdy stacja demontażu położona jest na terenie zamkniętym, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2020 r. poz. 276, 284, 782 i 1086), organem właściwym jest regionalny dyrektor ochrony środowiska.
+Producenci oraz dokonujący wewnątrzwspólnotowego nabycia lub importu przedmiotów wyposażenia i części pojazdów są obowiązani do nieodpłatnego udostępnienia wprowadzającemu pojazd oraz przedsiębiorcy prowadzącemu stację demontażu informacji dotyczącej sposobu demontażu, magazynowania i testowania przedmiotów wyposażenia i części pojazdów, które mogą być przeznaczone do ponownego użycia, w terminie 30 dni od dnia złożenia przez wprowadzającego pojazd lub przedsiębiorcę prowadzącego stację demontażu wniosku o udzielenie informacji.
 
-2. Pozwolenie na wytwarzanie odpadów może być wydane po uzyskaniu wymaganego pozwolenia na użytkowanie obiektu budowlanego w rozumieniu przepisów prawa budowlanego, z wyłączeniem nowo zbudowanych lub przebudowanych obiektów budowlanych, zespołów obiektów lub instalacji, do których ma zastosowanie art. 76 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, oraz po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do demontażu pojazdów wycofanych z eksploatacji.
+### Art. 10[2) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3.](#gloss-0:2:).
 
-3. Jeżeli przedsiębiorca prowadzący stację demontażu wydaje zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, bez przyjęcia pojazdu wycofanego z eksploatacji, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenie lub decyzję, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+Przepisy art. 6-9 dotyczą wprowadzających pojazdy wydających kartę pojazdu, o której mowa w art. 77 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
 
-4. Jeżeli przedsiębiorca prowadzący stację demontażu narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+### Art. 10[3) W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517), wejdzie w życie z dniem 4 września 2022 r.](#gloss-0:3:).
 
-5. Jeżeli przedsiębiorca, o którym mowa w ust. 4, mimo wezwania nadal narusza przepisy ustawy w zakresie prawidłowej eksploatacji stacji demontażu, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+Przepisy art. 6-9 dotyczą nowych pojazdów.
 
-6. Jeżeli przedsiębiorca, o którym mowa w ust. 4, narusza przepisy ustawy inne niż określone w ust. 5, marszałek województwa lub regionalny dyrektor ochrony środowiska może cofnąć pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji bez odszkodowania.
+### Art. 11.
 
-7. Regionalny dyrektor ochrony środowiska przekazuje marszałkowi województwa właściwemu ze względu na miejsce prowadzenia stacji demontażu informacje niezbędne do prowadzenia wykazu, o którym mowa w art. 42 ust. 1.
+### 1.
 
-**Art. 41.**
+Wprowadzający pojazd jest obowiązany zapewnić sieć zbierania pojazdów, zwaną dalej „siecią”, obejmującą terytorium kraju w taki sposób, aby w każdym województwie były prowadzone co najmniej trzy stacje demontażu lub punkty zbierania pojazdów, w tym co najmniej jedna stacja demontażu, położone w różnych miejscowościach, zapewniające właścicielowi pojazdu możliwość oddania pojazdu wycofanego z eksploatacji.
 
-1. Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem strzępiarki jest marszałek województwa; w przypadku gdy strzępiarka położona jest na terenie zamkniętym organem właściwym jest regionalny dyrektor ochrony środowiska.
+### 2.
 
-1a. Pozwolenie lub decyzja, o których mowa w ust. 1, są wydawane po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska spełnienia minimalnych wymagań dla strzępiarek, określonych w przepisach wydanych na podstawie art. 37 ust. 2.
+Wprowadzający pojazd, który wprowadza na terytorium kraju nie więcej niż 1000 pojazdów w ciągu roku kalendarzowego, jest obowiązany zapewnić sieć obejmującą co najmniej trzy stacje demontażu lub punkty zbierania pojazdów, w tym co najmniej jedną stację demontażu, położone w różnych miejscowościach na terytorium kraju.
 
-2. Jeżeli przedsiębiorca prowadzący strzępiarkę przekazał informację dotyczącą zawartości uzyskiwanych frakcji materiałowych, niezgodną ze stanem rzeczywistym, marszałek województwa albo regionalny dyrektor ochrony środowiska cofa pozwolenie lub decyzję, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+### 3.
 
-3. Jeżeli przedsiębiorca prowadzący strzępiarkę narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+Wprowadzający pojazd zapewnia sieć wyłącznie przez własne stacje demontażu i punkty zbierania pojazdów lub na podstawie umów z przedsiębiorcami prowadzącymi stacje demontażu.
 
-4. Jeżeli przedsiębiorca, o którym mowa w ust. 3, mimo wezwania nadal narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+### Art. 11a.
 
-**Art. 42.**
+### 1.
 
-1. Marszałek województwa zamieszcza na stronie internetowej Biuletynu Informacji Publicznej urzędu marszałkowskiego wykaz przedsiębiorców prowadzących stacje demontażu oraz punkty zbierania pojazdów, wpisanych do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+Wprowadzający pojazd zapewniający sieć na podstawie umów z przedsiębiorcami prowadzącymi stacje demontażu jest obowiązany do ich zawarcia w formie pisemnej pod rygorem nieważności.
 
-2. Wykaz, o którym mowa w ust. 1, zawiera następujące informacje:
+### 2.
 
-- **1)** firmę przedsiębiorcy prowadzącego stację demontażu lub punkt zbierania pojazdów oraz oznaczenie jego siedziby i adres;
-- **2)** adresy stacji demontażu lub punktów zbierania pojazdów.
+Umowy, o których mowa w ust. 1, określają w szczególności warunki:
 
-**Art. 43.** (uchylony)
+### 1)
 
-**Art. 43a.**
+przyjmowania pojazdów wycofanych z eksploatacji przez stację demontażu;
 
-1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+### 2)
 
-2. Wpływy z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji powiększone o dochody z oprocentowania rachunku bankowego i pomniejszone o dochód budżetu samorządu województwa, o którym mowa w ust. 3, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+finansowania przez wprowadzającego pojazd kosztów gospodarowania odpadami pochodzącymi z pojazdów wycofanych z eksploatacji, w szczególności z pojazdów wycofanych z eksploatacji nieposiadających wartości rynkowej lub o wartości rynkowej ujemnej, w sposób zapewniający osiągnięcie poziomów odzysku i recyklingu, uwzględniając liczbę pojazdów wprowadzonych na terytorium kraju przez danego wprowadzającego pojazd.
 
-3. Wpływy z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji powiększone o dochody z oprocentowania rachunku bankowego w wysokości 5% stanowią dochód budżetu samorządu województwa.
+### Art. 12.
 
-#### Rozdział 8 Przepisy karne
+(uchylony)
 
-**Art. 44.** Kto wbrew przepisom art. 7 wprowadza do obrotu materiały, przedmioty wyposażenia lub części pojazdów zawierające ołów, rtęć, kadm lub sześciowartościowy chrom, podlega karze grzywny.
+### Art. 13.
 
-**Art. 45.** Kto wbrew przepisom art. 8 nie zapewnia oznaczania przedmiotów wyposażenia lub części pojazdów, podlega karze grzywny.
+Wprowadzający pojazd podlega wpisowi do rejestru, o którym mowa w art. 49 ustawy z dnia 14 grudnia 2012 r. o odpadach.
 
-**Art. 46.** Kto wbrew przepisom art. 9:
+### Art. 14.
 
-**Art. 47.** (uchylony)
+### 1.
 
-**Art. 48.** Kto wbrew przepisowi art. 18 nie przekazuje pojazdu wycofanego z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, podlega karze grzywny.
+Wprowadzający pojazd, który nie zapewnił sieci w roku kalendarzowym, jest obowiązany bez wezwania do obliczenia i uiszczenia opłaty za brak sieci.
 
-**Art. 48a.** Kto, wbrew przepisowi art. 21 ust. 2, nie przekazuje zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, podlega karze grzywny.
+### 2.
 
-**Art. 49.**
+Wprowadzający pojazd jest zwolniony z opłaty za brak sieci, jeżeli nie zapewnił sieci przez okres nie dłuższy niż 21 dni w ciągu roku kalendarzowego.
 
-1. Kto wbrew przepisom art. 23 nie przyjmuje pojazdu wycofanego z eksploatacji do stacji demontażu, podlega karze grzywny.
+### 3.
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 33 nie przyjmuje pojazdu wycofanego z eksploatacji do punktu zbierania pojazdów.
+Wysokość opłaty za brak sieci oblicza się według wzorów określonych w załączniku do ustawy.
 
-**Art. 50.** (uchylony)
+### 4.
 
-**Art. 51.**
+Maksymalna wysokość opłaty stałej za brak sieci wynosi 20 000 zł.
 
-1. Kto, będąc do tego obowiązany na podstawie art. 24 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o demontażu pojazdu lub nie przekazuje tego zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, podlega karze grzywny.
+### 5.
 
-1. Kto, będąc do tego obowiązany na podstawie art. 24 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o demontażu pojazdu, podlega karze grzywny.
+Maksymalna stawka opłaty za brak sieci wynosi 20 zł za brak jednej stacji demontażu lub jednego punktu zbierania pojazdów w ciągu roku kalendarzowego za każdy pojazd wprowadzony na terytorium kraju w ciągu tego roku.
 
-2. Tej samej karze podlega, kto, będąc do tego obowiązany na podstawie art. 25 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o przyjęciu niekompletnego pojazdu lub nie przekazuje tego zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu.
+### 6[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
 
-2. Tej samej karze podlega, kto, będąc do tego obowiązany na podstawie art. 25 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o przyjęciu niekompletnego pojazdu.
+Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, wysokość opłaty stałej za brak sieci oraz stawkę opłaty za brak sieci, uwzględniając koszty recyklingu pojazdów wycofanych z eksploatacji oraz kierując się koniecznością zapewnienia, aby opłata za brak sieci była środkiem ekonomicznym zachęcającym do budowy sieci przez wprowadzającego pojazd.
 
-**Art. 52.** (uchylony)
+### Art. 15.
 
-**Art. 52a.** Kto wbrew przepisowi art. 35 ust. 1 nie przekazuje najpóźniej do dnia 10 stycznia wszystkich zebranych w roku poprzednim pojazdów wycofanych z eksploatacji do przedsiębiorcy prowadzącego stację demontażu, z którym zawarł umowę, jeżeli nie jest to ten sam przedsiębiorca, podlega karze grzywny.
+Wprowadzający pojazd sporządza roczne sprawozdanie zawierające informacje, o których mowa w art. 73 ust. 2 pkt 1 i 4 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i trybie określonych w tej ustawie.
 
-**Art. 52b.**
+### Art. 16.
 
-1. Kto wbrew przepisom art. 38:
+### 1.
 
-- **1)** ust. 1, nie wykonuje raz na 5 lat próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w celu określenia zawartości uzyskiwanych frakcji materiałowych,
-- **2)** ust. 1a, nie wykonuje po raz pierwszy próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia rozpoczęcia działalności w tym zakresie,
-- **3)** ust. 1b, nie przeprowadza próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia dokonania zmian konstrukcyjnych lub technologicznych strzępiarki, skutkujących zmianą składu materiałowego rozdrobnionych odpadów podlega karze grzywny.
+Obowiązek obliczenia opłaty za brak sieci powstaje na koniec roku kalendarzowego.
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 38 ust. 2 nie przekazuje przedsiębiorcom prowadzącym stacje demontażu, od których przyjmuje odpady do strzępienia, informacji dotyczącej zawartości uzyskiwanych frakcji materiałowych w wyniku przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w ciągu miesiąca od jej przeprowadzenia.
+### 2.
 
-**Art. 53.**
+Opłata za brak sieci jest wpłacana na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej do dnia 31 marca roku następującego po roku, którego opłata dotyczy.
 
-1. Orzekanie w sprawach, o których mowa w art. 44–46, art. 48–49, art. 51, art. 52a i art. 52b następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
+### Art. 17.
 
-2. Za wykroczenia, o których mowa w art. 44–46, art. 48–49, art. 51, art. 52a i art. 52b, odpowiada, jak sprawca, także ten, kto na podstawie przepisu prawa, decyzji właściwego organu, umowy lub faktycznego wykonywania zajmuje się sprawami gospodarczymi osoby fizycznej, osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, w zakresie wprowadzania do obrotu pojazdów wycofanych z eksploatacji, materiałów, przedmiotów wyposażenia, części takich pojazdów lub gospodarowania takimi pojazdami lub pochodzącymi z nich odpadami.
+### 1.
 
-#### Rozdział 8a Kary pieniężne
+W przypadku stwierdzenia, że wprowadzający pojazd, mimo ciążącego na nim obowiązku, nie uiścił opłaty za brak sieci albo uiścił opłatę w wysokości niższej od należnej, Główny Inspektor Ochrony Środowiska wydaje decyzję, w której określa wysokość zobowiązania z tytułu opłaty za brak sieci.
 
-**Art. 53a.**
+### 2.
 
-1. Kto poza stacją demontażu dokonuje:
+W przypadku niewykonania decyzji, o której mowa w ust. 1, w terminie 14 dni od dnia, w którym decyzja stała się ostateczna, Główny Inspektor Ochrony Środowiska ustala, w drodze decyzji, dodatkową opłatę za brak sieci w wysokości odpowiadającej 20% kwoty nieuiszczonej opłaty za brak sieci.
 
-- **1)** usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
-- **2)** wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
-- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu podlega karze pieniężnej od 15 000 do 500 000 zł.
+### 3.
 
-2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
+Do należności z tytułu opłat za brak sieci stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2020 r. poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2020/1325/text.html) i [1423](https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text.html)), z tym że uprawnienia organów podatkowych przysługują Głównemu Inspektorowi Ochrony Środowiska.
 
-3. Kary pieniężne, o których mowa w ust. 1, wnosi się na wyodrębniony rachunek bankowy wojewódzkiego inspektora ochrony środowiska.
+### Art. 17a.
 
-4. Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, należy uwzględnić stopień szkodliwości czynu, w szczególności zakres naruszeń, ilość odpadów, rodzaj stwarzanego zagrożenia dla środowiska oraz okoliczności uprzedniego naruszenia przepisów o odpadach.
+(uchylony)
 
-5. W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
+### Art. 17b.
 
-#### Rozdział 9 Zmiany w przepisach obowiązujących
+### 1.
 
-#### Rozdział 10 Przepisy przejściowe i końcowe
+Główny Inspektor Ochrony Środowiska stwierdza nadpłatę lub określa wysokość nadpłaty z tytułu opłaty za brak sieci.
 
-**Art. 60.** W okresie do dnia 31 grudnia 2014 r. poziomy odzysku i recyklingu, o których mowa w art. 28 ust. 1, wynoszą odpowiednio 85% i 80%.
+### 2.
 
-**Art. 61.** (pominięty)
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przekazuje równowartość kwoty nadpłaty, o której mowa w ust. 1, na dochody budżetu państwa, w terminie 7 dni od dnia otrzymania oświadczenia Głównego Inspektora Ochrony Środowiska wskazującego:
 
-**Art. 62.** Przepisy art. 7 ust. 1 stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych po dniu 1 lipca 2003 r.
+### 1)
 
-**Art. 63.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z tym że przepisy:
+dzień, z którym decyzja Głównego Inspektora Ochrony Środowiska stwierdzająca nadpłatę lub określająca wysokość nadpłaty stała się ostateczna;
 
+### 2)
+
+równowartość kwoty nadpłaty podlegającej przekazaniu;
+
+### 3[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:))
+
+rachunek bieżący dochodów budżetowych ministra właściwego do spraw klimatu, na który należy przekazać równowartość kwoty nadpłaty.
+
+### 3.
+
+Za dzień przekazania równowartości kwoty nadpłaty uważa się dzień obciążenia rachunku bankowego Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+### 4.
+
+Przekazana równowartość kwoty nadpłaty zmniejsza wysokość zobowiązania określonego w art. 401c ust. 9 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2020 r. poz. 1219](https://api.sejm.gov.pl/eli/acts/DU/2020/1219/text.html), [1378](https://api.sejm.gov.pl/eli/acts/DU/2020/1378/text.html) i [1565](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.html)) i nie może przekroczyć stanu tego zobowiązania ustalonego na dzień przekazania równowartości kwoty nadpłaty.
+
+### 5.
+
+Zwrotu kwoty nadpłaty z tytułu opłaty za brak sieci wraz z należnym oprocentowaniem dokonuje Główny Inspektor Ochrony Środowiska ze środków rezerwy celowej na zobowiązania wymagalne Skarbu Państwa.
+
+### Rozdział 3 Obowiązki właścicieli pojazdów
+
+### Art. 18.
+
+Właściciel pojazdu wycofanego z eksploatacji przekazuje go wyłącznie do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+### Art. 19.
+
+Właściciel pojazdu wycofanego z eksploatacji lub upoważniona przez niego osoba, przekazując pojazd do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, jest obowiązany okazać:
+
+### 1)
+
+dowód osobisty lub inny dokument potwierdzający tożsamość;
+
+### 2[5) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6.](#gloss-0:5:))
+
+dowód rejestracyjny pojazdu oraz kartę pojazdu, jeżeli była wydana, lub inny dokument potwierdzający dane zawarte w dowodzie rejestracyjnym;
+
+### 2[6) Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 3.](#gloss-0:6:))
+
+dowód rejestracyjny pojazdu lub inny dokument potwierdzający dane zawarte w dowodzie rejestracyjnym;
+
+### 3)
+
+dokument potwierdzający własność w przypadku właściciela pojazdu innego niż wpisany w dowodzie rejestracyjnym.
+
+### Art. 20[7) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8.](#gloss-0:7:).
+
+Właściciel pojazdu wycofanego z eksploatacji jest obowiązany w terminie 30 dni od dnia otrzymania zaświadczenia o demontażu pojazdu lub zaświadczenia o przyjęciu niekompletnego pojazdu złożyć wniosek o wyrejestrowanie pojazdu.
+
+### Art. 20.
+
+(uchylony)[8) Przez art. 4 pkt 3 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:8:)
+
+### Rozdział 4 Obowiązki przedsiębiorców prowadzących stacje demontażu
+
+### Art. 21.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu powinien zapewniać bezpieczne dla środowiska i zdrowia ludzi przetwarzanie pojazdów wycofanych z eksploatacji i powstających z nich odpadów.
+
+### 2.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do przekazania zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, który spełnia wymagania, o których mowa w art. 15 ust. 1 pkt 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach ([Dz. U. z 2020 r. poz. 1850](https://api.sejm.gov.pl/eli/acts/DU/2020/1850/text.html)) i w przepisach wydanych na podstawie art. 63 ust. 7 tej ustawy.
+
+### Art. 21a.
+
+Przedsiębiorca prowadzący stację demontażu podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+### Art. 22[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, minimalne wymagania dla stacji demontażu oraz sposób demontażu pojazdów wycofanych z eksploatacji, kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi demontażu pojazdów wycofanych z eksploatacji.
+
+### Art. 23.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### 2.
+
+Przedsiębiorca prowadzący stację demontażu jest także obowiązany do przyjęcia pojazdu wycofanego z eksploatacji, dla którego brak jest dowodu rejestracyjnego lub który nie posiada cech identyfikacyjnych pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, a także odpadów pochodzących z pojazdów wycofanych z eksploatacji, jeżeli obowiązek przekazania tych odpadów do stacji demontażu wynika z postanowienia albo decyzji wydanych przez Głównego Inspektora Ochrony Środowiska na podstawie przepisów ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów ([Dz. U. z 2020 r. poz. 1792](https://api.sejm.gov.pl/eli/acts/DU/2020/1792/text.html)).
+
+### 3.
+
+Przedsiębiorca prowadzący stację demontażu przy przyjmowaniu pojazdu wycofanego z eksploatacji nie pobiera opłaty od właściciela pojazdu.
+
+### 4.
+
+Przedsiębiorca prowadzący stację demontażu przy przyjmowaniu pojazdu wycofanego z eksploatacji może pobrać opłatę od właściciela pojazdu, jeżeli jest spełniony co najmniej jeden z następujących warunków:
+
+### 1)
+
+pojazd wycofany z eksploatacji nie jest zarejestrowany na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym;
+
+### 2)
+
+pojazd wycofany z eksploatacji:
+
+### a)
+
+jest niekompletny,
+
+### b)
+
+zawiera odpady, które zostały do niego dodane.
+
+### 5.
+
+Za niekompletny pojazd uważa się pojazd, który nie zawiera co najmniej jednego istotnego elementu określonego w przepisach wydanych na podstawie ust. 9.
+
+### 6.
+
+W przypadku przyjmowania niekompletnego pojazdu wycofanego z eksploatacji opłata, o której mowa w ust. 4, nie może przekraczać 10 zł za każdy kilogram brakującej masy pojazdu.
+
+### 7.
+
+Przedsiębiorca prowadzący stację demontażu nie pobiera opłaty, o której mowa w ust. 4, przy przyjmowaniu niekompletnego pojazdu wycofanego z eksploatacji należącego do Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, organów Krajowej Administracji Skarbowej, Służby Więziennej, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Centralnego Biura Antykorupcyjnego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego oraz jednostek ochrony przeciwpożarowej.
+
+### 8.
+
+Przedsiębiorca prowadzący stację demontażu może odmówić przyjęcia pojazdu wycofanego z eksploatacji, jeżeli właściciel pojazdu nie uiścił opłaty, o której mowa w ust. 4.
+
+### 9[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw klimatu, mając na uwadze wymogi ochrony środowiska, potrzebę zapewnienia kompletności pojazdów w celu uzyskania odpowiednich poziomów odzysku i recyklingu oraz przeciwdziałanie niewłaściwemu zagospodarowaniu odpadów, określi, w drodze rozporządzenia, listę istotnych elementów pojazdu kompletnego.
+
+### Art. 23a.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia będących odpadami części samochodów osobowych usuniętych w trakcie naprawy o ile nie spowoduje to przekroczenia masy odpadów przewidywanych do przetworzenia i powstających w wyniku przetwarzania w okresie roku, określonych w pozwoleniu zintegrowanym lub innej decyzji w zakresie gospodarki odpadami wymaganych w związku z prowadzeniem stacji demontażu.
+
+### 2.
+
+Przedsiębiorca prowadzący stację demontażu za przyjęcie będących odpadami części samochodów osobowych usuniętych w trakcie naprawy może pobrać opłatę.
+
+### Art. 24.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu, przyjmując pojazd wycofany z eksploatacji, który posiada wszystkie istotne elementy określone w przepisach wydanych na podstawie art. 23 ust. 9, jest obowiązany do:
+
+### 1[9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10.](#gloss-0:9:))
+
+unieważnienia dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych;
+
+### 1[10) W brzmieniu ustalonym przez art. 4 pkt 4 lit. a ustawy, o której mowa w odnośniku 3.](#gloss-0:10:))
+
+unieważnienia dowodu rejestracyjnego i zwrotu unieważnionego dowodu rejestracyjnego właścicielowi pojazdu;
+
+### 2)
+
+wydania zaświadczenia o demontażu pojazdu.
+
+### 1a[11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.](#gloss-0:11:).
+
+Obowiązek, o którym mowa w ust. 1, w zakresie tablic rejestracyjnych, nie dotyczy pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### 1a[12) Ze zmianą wprowadzoną przez art. 4 pkt 4 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:12:).
+
+Obowiązek, o którym mowa w ust. 1b, nie dotyczy pojazdów, o których mowa w art. 73 ust. 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### 1b[13) Dodany przez art. 4 pkt 4 lit. c ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:13:).
+
+Przedsiębiorca prowadzący stację demontażu dokonuje zniszczenia tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowuje je zgodnie z przepisami o odpadach.
+
+### 2[14) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15.](#gloss-0:14:).
+
+Zaświadczenie o demontażu pojazdu powinno zawierać oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego, karty pojazdu, jeżeli była wydana, oraz tablic rejestracyjnych.
+
+### 2[15) W brzmieniu ustalonym przez art. 4 pkt 4 lit. d ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:15:).
+
+Zaświadczenie o demontażu pojazdu zawiera oświadczenie przedsiębiorcy prowadzącego stację demontażu o unieważnieniu dowodu rejestracyjnego oraz o zniszczeniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji i zagospodarowaniu ich zgodnie z przepisami o odpadach.
+
+### 3[14) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15.](#gloss-0:14:).
+
+Zaświadczenie o demontażu pojazdu jest sporządzane w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi jest przekazywany przez przedsiębiorcę prowadzącego stację demontażu w terminie 7 dni organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu, z zastrzeżeniem ust. 5.
+
+### 3[15) W brzmieniu ustalonym przez art. 4 pkt 4 lit. d ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:15:).
+
+Przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w dwóch egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, a drugi pozostaje u przedsiębiorcy prowadzącego stację demontażu. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący stację demontażu sporządza zaświadczenie o demontażu pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu.
+
+### 4[16) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 17.](#gloss-0:16:).
+
+Przedsiębiorca prowadzący stację demontażu, który otrzymuje zaświadczenia o demontażu pojazdu od przedsiębiorcy prowadzącego punkt zbierania pojazdów, o którym mowa w art. 33 ust. 3, przekazuje jeden egzemplarz zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a drugi pozostawia u siebie.
+
+### 4.
+
+(uchylony)[17) Przez art. 4 pkt 4 lit. e ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:17:)
+
+### 5[16) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 17.](#gloss-0:16:).
+
+W przypadku pojazdu niezarejestrowanego na terytorium kraju, egzemplarz zaświadczenia o demontażu pojazdu, przeznaczony dla organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu, jest przekazywany w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska.
+
+### 5.
+
+(uchylony)[17) Przez art. 4 pkt 4 lit. e ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:17:)
+
+### Art. 25.
+
+### 1.
+
+W przypadku przyjmowania niekompletnego pojazdu przedsiębiorca prowadzący stację demontażu jest obowiązany do wydania zaświadczenia o przyjęciu niekompletnego pojazdu. Przepisy art. 24 ust. 1 pkt 1 i ust. 1a-5 stosuje się odpowiednio.[18) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 19.](#gloss-0:18:)
+
+### 1.
+
+W przypadku przyjmowania niekompletnego pojazdu przedsiębiorca prowadzący stację demontażu jest obowiązany do wydania zaświadczenia o przyjęciu niekompletnego pojazdu. Przepisy art. 24 ust. 1 pkt 1 i ust. 1a-3 stosuje się odpowiednio.[19) Zdanie drugie ze zmianą wprowadzoną przez art. 4 pkt 5 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:19:)
+
+### 2.
+
+(uchylony)
+
+### 3.
+
+Przedsiębiorca prowadzący stację demontażu nie wydaje zaświadczenia o przyjęciu niekompletnego pojazdu, jeżeli nie jest możliwe ustalenie cech identyfikacyjnych pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### Art. 26.
+
+Przedsiębiorca prowadzący stację demontażu prowadzi ewidencję zaświadczeń o demontażu pojazdu oraz zaświadczeń o przyjęciu niekompletnego pojazdu, wydanych przez niego i przez przedsiębiorców prowadzących punkty zbierania pojazdów, z którymi zawarł umowę.
+
+### Art. 27.
+
+Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw klimatu, określi, w drodze rozporządzenia:[20) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 40 ustawy, o której mowa w odnośniku 4.](#gloss-0:20:)
+
+### 1[21) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 22.](#gloss-0:21:))
+
+sposób unieważniania dowodu rejestracyjnego, karty pojazdu oraz tablic rejestracyjnych,
+
+### 1[22) Ze zmianą wprowadzoną przez art. 4 pkt 6 lit. a ustawy, o której mowa w odnośniku 3; w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 23.](#gloss-0:22:))
+
+sposób unieważniania dowodu rejestracyjnego oraz tablic rejestracyjnych,
+
+### 1[23) Ze zmianą wprowadzoną przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:23:))
+
+sposób unieważniania dowodu rejestracyjnego,
+
+### 2)
+
+wzór zaświadczenia o demontażu pojazdu,
+
+### 3)
+
+wzór zaświadczenia o przyjęciu niekompletnego pojazdu,
+
+### 4)
+
+sposób przechowywania zaświadczeń, o których mowa w pkt 2 i 3,
+
+### 5)
+
+sposób prowadzenia ewidencji, o której mowa w art. 26
+
+- kierując się potrzebami identyfikacji pojazdu, zapobiegania nieuprawnionemu używaniu dokumentów pojazdów wycofanych z eksploatacji, zapewnienia wiarygodności zaświadczeń dla wyrejestrowania pojazdu oraz ujednolicenia treści zaświadczeń, a także potwierdzenia masy pojazdu wycofanego z eksploatacji.
+
+### Art. 28.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany osiągać poziom odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji w wysokości odpowiednio 95% i 85% masy pojazdów przyjętych do jego stacji demontażu rocznie.
+
+### 2.
+
+(uchylony)
+
+### 2a.
+
+Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 70zm ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### 3.
+
+Przy obliczaniu poziomów recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do recyklingu zalicza się procesy oznaczone jako R2-R9 w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach oraz wymontowanie przedmiotów wyposażenia i części pojazdów przeznaczonych do ponownego użycia.
+
+### 4.
+
+Przy obliczaniu poziomów odzysku odpadów pochodzących z pojazdów wycofanych z eksploatacji do odzysku zalicza się procesy uwzględnione przy obliczaniu poziomu recyklingu oraz procesy oznaczone jako R1 w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
+
+### 5.
+
+Przy obliczaniu poziomów odzysku i recyklingu pojazdów wycofanych z eksploatacji przedmioty wyposażenia i części pojazdów przeznaczone do ponownego użycia zalicza się do odzysku i recyklingu.
+
+### 5a.
+
+Przedsiębiorca prowadzący stację demontażu przy obliczaniu poziomów odzysku i recyklingu, o których mowa w ust. 1, może uwzględnić masę odpadów pochodzących z pojazdów wycofanych z eksploatacji poddanych odzyskowi lub recyklingowi do końca lutego następnego roku w przypadku, gdy pochodzą z pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu pojazdów w okresie od 1 stycznia do 31 grudnia danego roku.
+
+### 6.
+
+Ilość odpadów poddanych odzyskowi lub recyklingowi ustala się na podstawie ewidencji odpadów prowadzonej przez przedsiębiorcę prowadzącego stację demontażu.
+
+### 7.
+
+Minister właściwy do spraw klimatu, w porozumieniu z ministrem właściwym do spraw gospodarki, kierując się potrzebą ujednolicenia metodyki obliczania poziomów odzysku i recyklingu oraz uwzględniając zakres niezbędnych danych, określi, w drodze rozporządzenia:[20) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 40 ustawy, o której mowa w odnośniku 4.](#gloss-0:20:)
+
+### 1)
+
+frakcje materiałowe pochodzące ze strzępiarki, których zagospodarowanie zalicza się do recyklingu;
+
+### 2)
+
+frakcje materiałowe pochodzące ze strzępiarki, których zagospodarowanie zalicza się do innych procesów odzysku niż recykling;
+
+### 3)
+
+(uchylony)
+
+### 4)
+
+sposób obliczania poziomów odzysku i recyklingu pojazdów wycofanych z eksploatacji.
+
+### Art. 28a.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu, który w roku kalendarzowym nie wykonał obowiązku, o którym mowa w art. 28 ust. 1, jest obowiązany do obliczenia i uiszczenia bez wezwania opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, obliczanej odrębnie w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu.
+
+### 2.
+
+Opłatę za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji oblicza się jako iloczyn stawki opłaty i brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+
+### 3.
+
+Stawka opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji wynosi:
+
+### 1)
+
+0,05 zł za każdy kilogram brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, w przypadku gdy do osiągnięcia wymaganego poziomu brakuje nie więcej niż 5%;
+
+### 2)
+
+0,1 zł za każdy kilogram brakującej masy odpadów niezbędnej do osiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji, w przypadku gdy do osiągnięcia wymaganego poziomu brakuje więcej niż 5%.
+
+### 4.
+
+W przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji przez co najmniej dwa kolejne lata, stawka opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do obliczenia opłaty należnej za drugi i każdy kolejny rok nieosiągnięcia wymaganego poziomu stanowi dwukrotność stawki określonej zgodnie z ust. 3.
+
+### 5.
+
+Opłata za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji jest uiszczana na odrębny rachunek bankowy urzędu marszałkowskiego, w terminie do dnia 15 marca roku następującego po roku, którego opłata dotyczy.
+
+### 6.
+
+W przypadku stwierdzenia, że przedsiębiorca prowadzący stację demontażu, mimo ciążącego na nim obowiązku, nie uiścił opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji albo uiścił opłatę w wysokości niższej od należnej, marszałek województwa wydaje decyzję, w której określa wysokość tej opłaty.
+
+### 7.
+
+Do należności z tytułu opłaty za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+
+### Art. 29.
+
+(uchylony)
+
+### Art. 30.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do sporządzenia rocznego sprawozdania zawierającego informacje, o których mowa w art. 75 ust. 2 pkt 1 i 4 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+
+### Art. 31.
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany w terminie 14 dni złożyć marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwemu miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu zawiadomienie o zakończeniu działalności w zakresie demontażu pojazdów wycofanych z eksploatacji lub o rozwiązaniu lub wygaśnięciu umowy z przedsiębiorcą prowadzącym punkt zbierania pojazdów.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
+
+### 1)
+
+nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy;
+
+### 2)
+
+datę zakończenia działalności lub rozwiązania lub wygaśnięcia umowy;
+
+### 3)
+
+w przypadku rozwiązania lub wygaśnięcia umowy - nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+### 3[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw klimatu określi wzór zawiadomienia, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2020 r. poz. 346](https://api.sejm.gov.pl/eli/acts/DU/2020/346/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html)).
+
+### Rozdział 5 Obowiązki przedsiębiorców prowadzących punkty zbierania pojazdów
+
+### Art. 32.
+
+### 1.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany zapewnić bezpieczne dla środowiska i zdrowia ludzi zbieranie pojazdów wycofanych z eksploatacji.
+
+### 2.
+
+Do wniosku o wydanie zezwolenia na zbieranie odpadów przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany dołączyć kopię zawartej z przedsiębiorcą prowadzącym stację demontażu umowy dotyczącej przyjmowania pojazdów zebranych w punkcie zbierania pojazdów.
+
+### 3[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw klimatu, kierując się potrzebą zapewnienia bezpiecznego dla środowiska i zdrowia ludzi zbierania pojazdów wycofanych z eksploatacji oraz uwzględniając wydawanie zaświadczeń o demontażu pojazdu, określi, w drodze rozporządzenia, minimalne wymagania dla punktów zbierania pojazdów.
+
+### Art. 32a.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+### Art. 33.
+
+### 1.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+### 2[24) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 25.](#gloss-0:24:).
+
+Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23-25, z zastrzeżeniem ust. 3.
+
+### 2[25) Ze zmianą wprowadzoną przez art. 4 pkt 7 lit. a ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:25:).
+
+Do przedsiębiorcy prowadzącego punkt zbierania pojazdów stosuje się odpowiednio przepisy art. 23-25, z zastrzeżeniem ust. 3-5.
+
+### 3[26) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 27.](#gloss-0:26:).
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi i trzeci są przekazywane w terminie 7 dni do przedsiębiorcy prowadzącego stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+### 3[27) W brzmieniu ustalonym przez art. 4 pkt 7 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:27:).
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a trzeci pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów. W przypadku pojazdu niezarejestrowanego na terytorium kraju przedsiębiorca prowadzący punkt zbierania pojazdów sporządza zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu w czterech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, dwa przekazuje w terminie 7 dni przedsiębiorcy prowadzącemu stację demontażu, w którego imieniu zaświadczenie zostało wydane, a czwarty pozostaje u przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+### 4[28) Dodany przez art. 4 pkt 7 lit. c ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:28:).
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów przekazuje przedsiębiorcy prowadzącemu stację demontażu wraz z zaświadczeniami, o których mowa w ust. 3, tablice rejestracyjne przyjętego pojazdu wycofanego z eksploatacji.
+
+### 5[28) Dodany przez art. 4 pkt 7 lit. c ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:28:).
+
+Zaświadczenie o demontażu pojazdu albo zaświadczenie o przyjęciu niekompletnego pojazdu wydane przez przedsiębiorcę prowadzącego punkt zbierania pojazdów zawierają oświadczenie przedsiębiorcy o unieważnieniu dowodu rejestracyjnego oraz o przekazaniu tablic rejestracyjnych przyjętego pojazdu wycofanego z eksploatacji przedsiębiorcy prowadzącemu stację demontażu.
+
+### Art. 34.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów może wydawać zaświadczenia o demontażu pojazdu oraz zaświadczenia o przyjęciu niekompletnego pojazdu, wyłącznie w imieniu przedsiębiorcy prowadzącego stację demontażu, jeżeli spełnia łącznie następujące warunki:
+
+### 1)
+
+zawarł umowę z przedsiębiorcą prowadzącym stację demontażu, jeżeli nie jest to ten sam przedsiębiorca;
+
+### 2)
+
+przekazuje przyjęte pojazdy wycofane z eksploatacji do stacji demontażu.
+
+### Art. 35.
+
+### 1.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany, najpóźniej do dnia 10 stycznia, przekazać wszystkie zebrane w roku poprzednim pojazdy wycofane z eksploatacji do przedsiębiorcy prowadzącego stację demontażu, z którym zawarł umowę, jeżeli nie jest to ten sam przedsiębiorca.
+
+### 2.
+
+Do transportu pojazdów wycofanych z eksploatacji do stacji demontażu lub punktu zbierania pojazdów nie stosuje się przepisów art. 24 ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach, chyba że ich stan stwarza zagrożenie dla środowiska.
+
+### Art. 36.
+
+### 1.
+
+Przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany w terminie 14 dni złożyć staroście właściwemu miejscowo do wydania zezwolenia na zbieranie odpadów zawiadomienie o zakończeniu działalności w zakresie zbierania pojazdów wycofanych z eksploatacji lub o rozwiązaniu lub wygaśnięciu umowy z przedsiębiorcą prowadzącym stację demontażu.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
+
+### 1)
+
+nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy;
+
+### 2)
+
+datę zakończenia działalności lub rozwiązania lub wygaśnięcia umowy;
+
+### 3)
+
+w przypadku rozwiązania lub wygaśnięcia umowy - nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy prowadzącego stację demontażu.
+
+### 3.
+
+Zezwolenie na zbieranie odpadów wydane przedsiębiorcy prowadzącemu punkt zbierania pojazdów wygasa z dniem zakończenia działalności lub rozwiązania lub wygaśnięcia umowy z przedsiębiorcą prowadzącym stację demontażu.
+
+### Rozdział 6 Obowiązki przedsiębiorców prowadzących strzępiarki
+
+### Art. 37.
+
+### 1.
+
+Przedsiębiorca prowadzący strzępiarkę jest obowiązany zapewnić bezpieczne dla środowiska i zdrowia ludzi rozdrabnianie odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+
+### 1a.
+
+Przedsiębiorca prowadzący strzępiarkę podlega wpisowi do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+### 2[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw klimatu, kierując się potrzebą zapewnienia bezpiecznego dla środowiska sposobu rozdziału odpadów powstałych w trakcie demontażu pojazdów wycofanych z eksploatacji oraz właściwego gospodarowania tymi odpadami, określi, w drodze rozporządzenia, minimalne wymagania dla strzępiarek oraz metody rozdziału odpadów na frakcje materiałowe obejmujące frakcje metali żelaznych i nieżelaznych, tworzyw sztucznych, szkła i pozostałości.
+
+### Art. 38.
+
+### 1.
+
+Przedsiębiorca prowadzący strzępiarkę jest obowiązany wykonać raz na 5 lat próbę strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w celu określenia zawartości uzyskiwanych frakcji materiałowych.
+
+### 1a.
+
+Przedsiębiorca prowadzący strzępiarkę wykonuje po raz pierwszy próbę strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia rozpoczęcia działalności w tym zakresie.
+
+### 1b.
+
+W przypadku dokonania zmian konstrukcyjnych lub technologicznych strzępiarki, skutkujących zmianą składu materiałowego rozdrobnionych odpadów, przedsiębiorca prowadzący strzępiarkę jest obowiązany do przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w terminie 30 dni od dnia dokonania tych zmian.
+
+### 2.
+
+Przedsiębiorca prowadzący strzępiarkę przekazuje przedsiębiorcom prowadzącym stacje demontażu, od których przyjmuje odpady do strzępienia, informację dotyczącą zawartości uzyskiwanych frakcji materiałowych określonej w wyniku przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w ciągu miesiąca od jej przeprowadzenia.
+
+### 3.
+
+Przedsiębiorca prowadzący strzępiarkę sporządza roczne sprawozdanie zawierające informacje, o których mowa w art. 75 ust. 2 pkt 1 i 5 ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+
+### 4[4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r.](#gloss-0:4:).
+
+Minister właściwy do spraw klimatu, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, odpady, które podlegają próbie strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, oraz sposób jej wykonania, kierując się potrzebą ustalenia średniej zawartości uzyskiwanych frakcji materiałowych.
+
+### Art. 38a.
+
+(uchylony)
+
+### Rozdział 7 Obowiązki organów administracji publicznej
+
+### Art. 39.
+
+### 1.
+
+Starosta albo regionalny dyrektor ochrony środowiska wydaje zezwolenie na zbieranie odpadów przedsiębiorcy prowadzącemu punkt zbierania pojazdów po:
+
+### 1)
+
+zaopiniowaniu przez:
+
+### a)
+
+marszałka województwa,
+
+### b)
+
+regionalnego dyrektora ochrony środowiska, o ile nie jest to ten sam organ
+
+- właściwych miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu przedsiębiorcy prowadzącemu stację demontażu, z którym przedsiębiorca prowadzący punkt zbierania pojazdów zawarł umowę;
+
+### 2)
+
+sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska spełnienia minimalnych wymagań dla punktów zbierania pojazdów określonych w przepisach wydanych na podstawie art. 32 ust. 3.
+
+### 2.
+
+W zezwoleniu, o którym mowa w ust. 1, starosta albo regionalny dyrektor ochrony środowiska określa przedsiębiorcę lub przedsiębiorców prowadzących stację demontażu, którym przedsiębiorca prowadzący punkt zbierania pojazdów jest obowiązany przekazywać zebrane pojazdy wycofane z eksploatacji.
+
+### 3.
+
+Jeżeli przedsiębiorca prowadzący punkt zbierania pojazdów poświadcza nieprawdę w zaświadczeniu o demontażu pojazdu lub zaświadczeniu o przyjęciu niekompletnego pojazdu, starosta albo regionalny dyrektor ochrony środowiska cofa zezwolenie, o którym mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 4.
+
+Jeżeli przedsiębiorca prowadzący punkt zbierania pojazdów narusza przepisy ustawy, starosta albo regionalny dyrektor ochrony środowiska wzywa go do niezwłocznego zaniechania naruszeń.
+
+### 5.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 4, mimo wezwania nadal narusza przepisy ustawy, starosta albo regionalny dyrektor ochrony środowiska cofa zezwolenie, o którym mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 6.
+
+Cofnięcie zezwolenia, o którym mowa w ust. 1, powoduje wstrzymanie działalności objętej tym zezwoleniem.
+
+### 7.
+
+Starosta albo regionalny dyrektor ochrony środowiska przekazuje marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska, o ile nie jest to ten sam organ, właściwym miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami, oraz marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwym ze względu na adres punktu zbierania pojazdów kopie zezwolenia, o którym mowa w ust. 1, oraz decyzji, o których mowa w ust. 3 i 5.
+
+### Art. 40.
+
+### 1.
+
+Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu jest marszałek województwa; w przypadku gdy stacja demontażu położona jest na terenie zamkniętym, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2020 r. poz. 276](https://api.sejm.gov.pl/eli/acts/DU/2020/276/text.html), [284](https://api.sejm.gov.pl/eli/acts/DU/2020/284/text.html), [782](https://api.sejm.gov.pl/eli/acts/DU/2020/782/text.html) i [1086](https://api.sejm.gov.pl/eli/acts/DU/2020/1086/text.html)), organem właściwym jest regionalny dyrektor ochrony środowiska.
+
+### 2.
+
+Pozwolenie na wytwarzanie odpadów może być wydane po uzyskaniu wymaganego pozwolenia na użytkowanie obiektu budowlanego w rozumieniu przepisów prawa budowlanego, z wyłączeniem nowo zbudowanych lub przebudowanych obiektów budowlanych, zespołów obiektów lub instalacji, do których ma zastosowanie art. 76 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, oraz po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do demontażu pojazdów wycofanych z eksploatacji.
+
+### 3.
+
+Jeżeli przedsiębiorca prowadzący stację demontażu wydaje zaświadczenie o demontażu pojazdu lub zaświadczenie o przyjęciu niekompletnego pojazdu, bez przyjęcia pojazdu wycofanego z eksploatacji, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenie lub decyzję, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 4.
+
+Jeżeli przedsiębiorca prowadzący stację demontażu narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+
+### 5.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 4, mimo wezwania nadal narusza przepisy ustawy w zakresie prawidłowej eksploatacji stacji demontażu, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 6.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 4, narusza przepisy ustawy inne niż określone w ust. 5, marszałek województwa lub regionalny dyrektor ochrony środowiska może cofnąć pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji bez odszkodowania.
+
+### 7.
+
+Regionalny dyrektor ochrony środowiska przekazuje marszałkowi województwa właściwemu ze względu na miejsce prowadzenia stacji demontażu informacje niezbędne do prowadzenia wykazu, o którym mowa w art. 42 ust. 1.
+
+### Art. 41.
+
+### 1.
+
+Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem strzępiarki jest marszałek województwa; w przypadku gdy strzępiarka położona jest na terenie zamkniętym organem właściwym jest regionalny dyrektor ochrony środowiska.
+
+### 1a.
+
+Pozwolenie lub decyzja, o których mowa w ust. 1, są wydawane po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska spełnienia minimalnych wymagań dla strzępiarek, określonych w przepisach wydanych na podstawie art. 37 ust. 2.
+
+### 2.
+
+Jeżeli przedsiębiorca prowadzący strzępiarkę przekazał informację dotyczącą zawartości uzyskiwanych frakcji materiałowych, niezgodną ze stanem rzeczywistym, marszałek województwa albo regionalny dyrektor ochrony środowiska cofa pozwolenie lub decyzję, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 3.
+
+Jeżeli przedsiębiorca prowadzący strzępiarkę narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+
+### 4.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 3, mimo wezwania nadal narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### Art. 42.
+
+### 1.
+
+Marszałek województwa zamieszcza na stronie internetowej Biuletynu Informacji Publicznej urzędu marszałkowskiego wykaz przedsiębiorców prowadzących stacje demontażu oraz punkty zbierania pojazdów, wpisanych do rejestru, o którym mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+
+### 2.
+
+Wykaz, o którym mowa w ust. 1, zawiera następujące informacje:
+
+### 1)
+
+firmę przedsiębiorcy prowadzącego stację demontażu lub punkt zbierania pojazdów oraz oznaczenie jego siedziby i adres;
+
+### 2)
+
+adresy stacji demontażu lub punktów zbierania pojazdów.
+
+### Art. 43.
+
+(uchylony)
+
+### Art. 43a.
+
+### 1.
+
+Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji.
+
+### 2.
+
+Wpływy z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji powiększone o dochody z oprocentowania rachunku bankowego i pomniejszone o dochód budżetu samorządu województwa, o którym mowa w ust. 3, marszałek województwa przekazuje, w terminie 30 dni po upływie każdego kwartału, na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+### 3.
+
+Wpływy z tytułu opłat za nieosiągnięcie wymaganego poziomu odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji powiększone o dochody z oprocentowania rachunku bankowego w wysokości 5% stanowią dochód budżetu samorządu województwa.
+
+### Rozdział 8 Przepisy karne
+
+### Art. 44.
+
+Kto wbrew przepisom art. 7 wprowadza do obrotu materiały, przedmioty wyposażenia lub części pojazdów zawierające ołów, rtęć, kadm lub sześciowartościowy chrom, podlega karze grzywny.
+
+### Art. 45.
+
+Kto wbrew przepisom art. 8 nie zapewnia oznaczania przedmiotów wyposażenia lub części pojazdów, podlega karze grzywny.
+
+### Art. 46.
+
+Kto wbrew przepisom art. 9:
+
+### 1)
+
+nie przekazuje przedsiębiorcy prowadzącemu stację demontażu informacji dotyczących sposobu demontażu nowego typu pojazdu,
+
+### 2)
+
+nie udostępnia wprowadzającemu pojazd lub przedsiębiorcy prowadzącemu stację demontażu informacji dotyczących sposobu demontażu, magazynowania lub testowania przedmiotów wyposażenia lub części pojazdu, które mogą być przeznaczone do ponownego użycia
+
+- podlega karze grzywny.
+
+### Art. 47.
+
+(uchylony)
+
+### Art. 48.
+
+Kto wbrew przepisowi art. 18 nie przekazuje pojazdu wycofanego z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, podlega karze grzywny.
+
+### Art. 48a.
+
+Kto, wbrew przepisowi art. 21 ust. 2, nie przekazuje zużytych baterii samochodowych kwasowo-ołowiowych i zużytych akumulatorów samochodowych kwasowo-ołowiowych zbierającemu zużyte baterie lub zużyte akumulatory lub prowadzącemu zakład przetwarzania zużytych baterii lub zużytych akumulatorów, podlega karze grzywny.
+
+### Art. 49.
+
+### 1.
+
+Kto wbrew przepisom art. 23 nie przyjmuje pojazdu wycofanego z eksploatacji do stacji demontażu, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisom art. 33 nie przyjmuje pojazdu wycofanego z eksploatacji do punktu zbierania pojazdów.
+
+### Art. 50.
+
+(uchylony)
+
+### Art. 51.
+
+### 1[29) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 30.](#gloss-0:29:).
+
+Kto, będąc do tego obowiązany na podstawie art. 24 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o demontażu pojazdu lub nie przekazuje tego zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, podlega karze grzywny.
+
+### 1[30) Ze zmianą wprowadzoną przez art. 4 pkt 8 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:30:).
+
+Kto, będąc do tego obowiązany na podstawie art. 24 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o demontażu pojazdu, podlega karze grzywny.
+
+### 2[29) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 30.](#gloss-0:29:).
+
+Tej samej karze podlega, kto, będąc do tego obowiązany na podstawie art. 25 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o przyjęciu niekompletnego pojazdu lub nie przekazuje tego zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu.
+
+### 2[30) Ze zmianą wprowadzoną przez art. 4 pkt 8 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym.](#gloss-0:30:).
+
+Tej samej karze podlega, kto, będąc do tego obowiązany na podstawie art. 25 lub art. 33, nie wydaje właścicielowi pojazdu zaświadczenia o przyjęciu niekompletnego pojazdu.
+
+### Art. 52.
+
+(uchylony)
+
+### Art. 52a.
+
+Kto wbrew przepisowi art. 35 ust. 1 nie przekazuje najpóźniej do dnia 10 stycznia wszystkich zebranych w roku poprzednim pojazdów wycofanych z eksploatacji do przedsiębiorcy prowadzącego stację demontażu, z którym zawarł umowę, jeżeli nie jest to ten sam przedsiębiorca, podlega karze grzywny.
+
+### Art. 52b.
+
+### 1.
+
+Kto wbrew przepisom art. 38:
+
+### 1)
+
+ust. 1, nie wykonuje raz na 5 lat próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji w celu określenia zawartości uzyskiwanych frakcji materiałowych,
+
+### 2)
+
+ust. 1a, nie wykonuje po raz pierwszy próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia rozpoczęcia działalności w tym zakresie,
+
+### 3)
+
+ust. 1b, nie przeprowadza próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w terminie 30 dni od dnia dokonania zmian konstrukcyjnych lub technologicznych strzępiarki, skutkujących zmianą składu materiałowego rozdrobnionych odpadów
+
+- podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisom art. 38 ust. 2 nie przekazuje przedsiębiorcom prowadzącym stacje demontażu, od których przyjmuje odpady do strzępienia, informacji dotyczącej zawartości uzyskiwanych frakcji materiałowych w wyniku przeprowadzenia próby strzępienia odpadów pochodzących z pojazdów wycofanych z eksploatacji, w ciągu miesiąca od jej przeprowadzenia.
+
+### Art. 53.
+
+### 1.
+
+Orzekanie w sprawach, o których mowa w art. 44-46, art. 48-49, art. 51, art. 52a i art. 52b następuje na zasadach i w trybie określonych w ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2020 r. poz. 729](https://api.sejm.gov.pl/eli/acts/DU/2020/729/text.html), [956](https://api.sejm.gov.pl/eli/acts/DU/2020/956/text.html) i [1423](https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text.html)).
+
+### 2.
+
+Za wykroczenia, o których mowa w art. 44-46, art. 48-49, art. 51, art. 52a i art. 52b, odpowiada, jak sprawca, także ten, kto na podstawie przepisu prawa, decyzji właściwego organu, umowy lub faktycznego wykonywania zajmuje się sprawami gospodarczymi osoby fizycznej, osoby prawnej albo jednostki organizacyjnej nieposiadającej osobowości prawnej, której odrębne przepisy przyznają zdolność prawną, w zakresie wprowadzania do obrotu pojazdów wycofanych z eksploatacji, materiałów, przedmiotów wyposażenia, części takich pojazdów lub gospodarowania takimi pojazdami lub pochodzącymi z nich odpadami.
+
+### Rozdział 8a Kary pieniężne
+
+### Art. 53a.
+
+### 1.
+
+Kto poza stacją demontażu dokonuje:
+
+### 1)
+
+usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
+
+### 2)
+
+wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
+
+### 3)
+
+wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu
+
+- podlega karze pieniężnej od 15 000 do 500 000 zł.
+
+### 2.
+
+Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
+
+### 3.
+
+Kary pieniężne, o których mowa w ust. 1, wnosi się na wyodrębniony rachunek bankowy wojewódzkiego inspektora ochrony środowiska.
+
+### 4.
+
+Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, należy uwzględnić stopień szkodliwości czynu, w szczególności zakres naruszeń, ilość odpadów, rodzaj stwarzanego zagrożenia dla środowiska oraz okoliczności uprzedniego naruszenia przepisów o odpadach.
+
+### 5.
+
+W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
+
+### Rozdział 9 Zmiany w przepisach obowiązujących
+
+### Art. 54-59.
+
+(pominięte)
+
+### Rozdział 10 Przepisy przejściowe i końcowe
+
+### Art. 60.
+
+W okresie do dnia 31 grudnia 2014 r. poziomy odzysku i recyklingu, o których mowa w art. 28 ust. 1, wynoszą odpowiednio 85% i 80%.
+
+### Art. 61.
+
+(pominięty)
+
+### Art. 62.
+
+Przepisy art. 7 ust. 1 stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych po dniu 1 lipca 2003 r.
+
+### Art. 63.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia[31) Ustawa została ogłoszona w dniu 11 lutego 2005 r.](#gloss-0:31:), z tym że przepisy:
+
+### 1)
+
+art. 7, art. 8, art. 44, art. 45, art. 57 pkt 2 i art. 62 wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+
+### 2)
+
+art. 11-17, art. 28, art. 47, art. 55, art. 56, art. 57 pkt 3, art. 58 pkt 1 i 3 w zakresie dotyczącym art. 401 ust. 11 i 12 i art. 415 ust. 5a i 5b, w brzmieniu nadanym niniejszą ustawą, i art. 60 wchodzą w życie z dniem 1 stycznia 2006 r.;
+
+### 3)
+
+art. 23 ust. 3 w stosunku do pojazdów wprowadzonych na terytorium kraju przed dniem 1 lipca 2002 r. stosuje się od dnia 1 stycznia 2007 r.;
+
+### 4)
+
+art. 58 pkt 1 w zakresie dotyczącym art. 401 ust. 1-10 i 13-16, w brzmieniu nadanym niniejszą ustawą, wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Przepisy niniejszej ustawy wdrażają postanowienia dyrektywy 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji (Dz. Urz. WE L 269 z 21.10.2000, z późn. zm.). Dane dotyczące aktów prawa Unii Europejskiej ogłoszonych przed dniem 1 maja 2004 r., zamieszczone w niniejszej ustawie, dotyczą ogłoszenia tych aktów w Dzienniku Urzędowym Unii Europejskiej - wydanie specjalne. 2) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 3. 3) W brzmieniu ustalonym przez art. 4 pkt 1 ustawy z dnia 14 sierpnia 2020 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1517), wejdzie w życie z dniem 4 września 2022 r. 4) Ze zmianą wprowadzoną przez art. 40 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 284), która weszła w życie z dniem 29 lutego 2020 r. 5) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 6. 6) Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 3. 7) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 8. 8) Przez art. 4 pkt 3 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10. 10) W brzmieniu ustalonym przez art. 4 pkt 4 lit. a ustawy, o której mowa w odnośniku 3. 11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12. 12) Ze zmianą wprowadzoną przez art. 4 pkt 4 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 13) Dodany przez art. 4 pkt 4 lit. c ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 14) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 15. 15) W brzmieniu ustalonym przez art. 4 pkt 4 lit. d ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 16) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 17. 17) Przez art. 4 pkt 4 lit. e ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 18) Zdanie drugie w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 19. 19) Zdanie drugie ze zmianą wprowadzoną przez art. 4 pkt 5 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 20) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 40 ustawy, o której mowa w odnośniku 4. 21) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 22. 22) Ze zmianą wprowadzoną przez art. 4 pkt 6 lit. a ustawy, o której mowa w odnośniku 3; w tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 23. 23) Ze zmianą wprowadzoną przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 24) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 25. 25) Ze zmianą wprowadzoną przez art. 4 pkt 7 lit. a ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 26) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 27. 27) W brzmieniu ustalonym przez art. 4 pkt 7 lit. b ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 28) Dodany przez art. 4 pkt 7 lit. c ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 29) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 30. 30) Ze zmianą wprowadzoną przez art. 4 pkt 8 ustawy, o której mowa w odnośniku 3; wejdzie w życie z dniem wdrożenia rozwiązań technicznych umożliwiających przekazywanie przez przedsiębiorców prowadzących stacje demontażu lub punkty zbierania pojazdów do centralnej ewidencji pojazdów danych o demontażu pojazdu lub przyjęciu niekompletnego pojazdu. Na podstawie art. 23 ustawy, o której mowa w odnośniku 3, minister właściwy do spraw informatyzacji ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający dzień wdrożenia rozwiązań technicznych, o których mowa w zdaniu pierwszym. 31) Ustawa została ogłoszona w dniu 11 lutego 2005 r.
+
+## Załącznik - Wzory obliczania wysokości opłaty za brak sieci zbierania pojazdów
+
+### 1.
+
+Wysokość opłaty za brak sieci zbierania pojazdów dla wprowadzającego pojazdy, o którym mowa w art. 11 ust. 1, należy obliczać w następujący sposób: \( A = B + \left( {C \times D \times {{E_1 + E_2 + ... + E_{48} } \over {365}}} \right) \)
+
+### 2.
+
+Wysokość opłaty za brak sieci zbierania pojazdów dla wprowadzającego pojazdy, o którym mowa w art. 11 ust. 2, należy obliczać w następujący sposób: \( A = B + \left( {C \times D \times {{E_1 + E_2 + E_3 } \over {365}}} \right) \) Objaśnienia: A - wysokość opłaty za brak sieci liczona w zł, B - opłata stała za brak sieci w zł, C - liczba pojazdów wprowadzonych na terytorium kraju w ciągu roku kalendarzowego przez danego wprowadzającego w szt., D - stawka opłaty za brak sieci w zł, E z indeksem liczbowym - liczba dni, w których do zapewnienia sieci brakowało kolejnych stacji demontażu lub punktów zbierania pojazdów.

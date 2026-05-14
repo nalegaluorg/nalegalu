@@ -8,9 +8,9 @@ pos: 2357
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# w sprawie ogłoszenia jednolitego tekstu ustawy o polskiej strefie rybołówstwa morskiego
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 7 grudnia 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o polskiej strefie rybołówstwa morskiego
 
 | Pole | Wartość |
 |---|---|
@@ -22,35 +22,108 @@ domain: null
 | Data ogłoszenia | 2018-12-07 |
 | Data wydania | 2018-12-19 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002357) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2357/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2357/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2357) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego (Dz. U. Nr 37, poz. 163), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. Nr 32, poz. 131),
-2) ustawą z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 grudnia 2018 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 71 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U.
-Nr 32, poz. 131), który stanowi: „Art. 71. Ustawa wchodzi w życie z dniem 1 lipca 1991 r.”;
-2) art. 236 ustawy z dnia 6 marca 2018 r. – Przepisy wprowadzające ustawę – Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), który stanowi: „Art. 236. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.;
-2) art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.;
-3) art. 188, który wchodzi w życie z dniem 1 października 2018 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA z dnia 17 grudnia 1977 r.
-o polskiej strefie rybołówstwa morskiego W celu wzmożenia ochrony żywych zasobów wód przyległych do brzegu morskiego Rzeczypospolitej Polskiej i zapewnienia ich racjonalnego wykorzystania, stanowi się, co następuje:
+## Spis treści
 
-**Art. 1.** (uchylony)
+- [Treść obwieszczenia](#part_1)
 
-**Art. 2.**
+- [Załącznik - Tekst jednolity ustawy z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego](#part_2)
 
-1. (uchylony)
+TOC
 
-2. (uchylony)
+## Treść obwieszczenia
 
-3. Zewnętrzną granicę polskiej strefy rybołówstwa morskiego stanowi linia łącząca skrajne punkty na liniach będących bocznymi granicami polskiej strefy rybołówstwa morskiego. Szczegółowy przebieg zewnętrznej granicy polskiej strefy rybołówstwa morskiego określają umowy międzynarodowe.
+### 1.
 
-4. W razie braku umów międzynarodowych, o których mowa w ust. 2 i 3, Rada Ministrów może w drodze rozporządzenia określić granice polskiej strefy rybołówstwa morskiego. Art. 3–9. (uchylone)
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html) oraz [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego ([Dz. U. Nr 37, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1977/163/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-**Art. 10.** Traci moc ustawa z dnia 12 lutego 1970 r. o ustanowieniu polskiej strefy rybołówstwa morskiego (Dz. U. poz.
+### 1)
 
-**Art. 11.** Ustawa wchodzi w życie z dniem 1 stycznia 1978 r.
+ustawą z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html)),
 
+### 2)
+
+ustawą z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej ([Dz. U. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html))
+
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 grudnia 2018 r.
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+
+### 1)
+
+art. 71 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html)), który stanowi:
+
+„
+
+### Art. 71.
+
+Ustawa wchodzi w życie z dniem 1 lipca 1991 r.
+
+” ;
+
+### 2)
+
+art. 236 ustawy z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej ([Dz. U. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html)), który stanowi:
+
+„
+
+### Art. 236.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 184, który wchodzi w życie z dniem 1 lipca 2018 r.;
+
+### 2)
+
+art. 185, który wchodzi w życie z dniem 11 lipca 2019 r.;
+
+### 3)
+
+art. 188, który wchodzi w życie z dniem 1 października 2018 r.
+
+” .
+
+## Załącznik - Tekst jednolity ustawy z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego
+
+W celu wzmożenia ochrony żywych zasobów wód przyległych do brzegu morskiego Rzeczypospolitej Polskiej i zapewnienia ich racjonalnego wykorzystania, stanowi się, co następuje:[1) Preambuła w brzmieniu ustalonym przez art. 7 ustawy z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r.](#gloss-0:1:)
+
+### Art. 1.
+
+(uchylony)[2) Przez art. 65 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. poz. 131), która weszła w życie z dniem 1 lipca 1991 r.](#gloss-0:2:)
+
+### Art. 2.
+
+### 1.
+
+(uchylony)[2) Przez art. 65 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. poz. 131), która weszła w życie z dniem 1 lipca 1991 r.](#gloss-0:2:)
+
+### 2.
+
+(uchylony)[2) Przez art. 65 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. poz. 131), która weszła w życie z dniem 1 lipca 1991 r.](#gloss-0:2:)
+
+### 3.
+
+Zewnętrzną granicę polskiej strefy rybołówstwa morskiego stanowi linia łącząca skrajne punkty na liniach będących bocznymi granicami polskiej strefy rybołówstwa morskiego. Szczegółowy przebieg zewnętrznej granicy polskiej strefy rybołówstwa morskiego określają umowy międzynarodowe.
+
+### 4.
+
+W razie braku umów międzynarodowych, o których mowa w ust. 2 i 3, Rada Ministrów może w drodze rozporządzenia określić granice polskiej strefy rybołówstwa morskiego.
+
+### Art. 3-9.
+
+(uchylone)[2) Przez art. 65 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. poz. 131), która weszła w życie z dniem 1 lipca 1991 r.](#gloss-0:2:)
+
+### Art. 10.
+
+Traci moc ustawa z dnia 12 lutego 1970 r. o ustanowieniu polskiej strefy rybołówstwa morskiego ([Dz. U. poz. 14](https://api.sejm.gov.pl/eli/acts/DU/1970/14/text.html)).
+
+### Art. 11.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1978 r.
+
+1) Preambuła w brzmieniu ustalonym przez art. 7 ustawy z dnia 6 marca 2018 r. - Przepisy wprowadzające ustawę - Prawo przedsiębiorców oraz inne ustawy dotyczące działalności gospodarczej (Dz. U. poz. 650), która weszła w życie z dniem 30 kwietnia 2018 r. 2) Przez art. 65 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. poz. 131), która weszła w życie z dniem 1 lipca 1991 r.

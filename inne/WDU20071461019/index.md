@@ -8,11 +8,9 @@ pos: 1019
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu nowej nazwy Akademii Ekonomicznej w Krakowie
-
-*USTAWA z dnia 6 lipca 2007 r.*
+# Ustawa z dnia 6 lipca 2007 r. o nadaniu nowej nazwy Akademii Ekonomicznej w Krakowie
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2007-07-06 |
 | Data wydania | 2007-08-10 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071461019) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1019/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/1019/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/1019) |
 
-**Art. 1.** Akademii Ekonomicznej w Krakowie nadaje się nazwę „Uniwersytet Ekonomiczny w Krakowie”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Akademii Ekonomicznej w Krakowie nadaje się nazwę „Uniwersytet Ekonomiczny w Krakowie”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

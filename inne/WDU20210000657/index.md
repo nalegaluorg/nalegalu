@@ -1,0 +1,56 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 8 kwietnia 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej
+address: WDU20210000657
+eli: DU/2021/657
+publisher: DU
+year: 2021
+pos: 657
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Zdrowiaz dnia 8 kwietnia 2021 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 657 |
+| ISAP | WDU20210000657 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-04-08 |
+| Data wydania | 2021-04-08 |
+| Wejście w życie | 2021-04-09 |
+| Ostatnia zmiana | 2025-04-29 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/657/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/657) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2020 r. poz. 1398](https://api.sejm.gov.pl/eli/acts/DU/2020/1398/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Zdrowia z dnia 4 stycznia 2019 r. zmieniającym rozporządzenie w sprawie ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej ([Dz. U. poz. 34](https://api.sejm.gov.pl/eli/acts/DU/2019/34/text.html), [1629](https://api.sejm.gov.pl/eli/acts/DU/2019/1629/text.html) i [2511](https://api.sejm.gov.pl/eli/acts/DU/2019/2511/text.html) oraz [z 2020 r. poz. 545](https://api.sejm.gov.pl/eli/acts/DU/2020/545/text.html) i [2304](https://api.sejm.gov.pl/eli/acts/DU/2020/2304/text.html)) w § 2:
+
+### 1)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku przeprowadzenia postępowania w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej w rodzaju ratownictwo medyczne, które wynika ze zmiany planu działania systemu Państwowe Ratownictwo Medyczne, informację określoną w ust. 1 świadczeniodawca sporządza także według stanu na dzień rozpoczęcia realizacji umowy i przekazuje na podstawie jednorazowego raportu do ostatniego dnia miesiąca następującego po miesiącu, w którym rozpoczęto realizację umowy.
+
+” ;
+
+### 2)
+
+w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2 i 2a”.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 stycznia 2021 r.
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1470 i 1541). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97 i 159.

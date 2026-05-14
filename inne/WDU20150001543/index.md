@@ -8,11 +8,9 @@ pos: 1543
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o samorządzie załogi przedsiębiorstwa państwowego
-
-*USTAWA z dnia 25 września 1981 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 17 września 2015 r. w sprawie ogłoszenia jednolitego tekstu ustawy o samorządzie załogi przedsiębiorstwa państwowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,337 +22,834 @@ domain: null
 | Data ogłoszenia | 2015-09-17 |
 | Data wydania | 2015-10-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001543) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1543/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1543/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1543) |
 
-#### Rozdział 1 Organy samorządu załogi przedsiębiorstwa
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Załoga uczestniczy w zarządzaniu przedsiębiorstwem państwowym na zasadach określonych w niniejszej ustawie.
+- [Załącznik - Tekst jednolity ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego](#part_2) [Rozdział 1 - Organy samorządu załogi przedsiębiorstwa](#chpt_1) [Rozdział 2 - Ogólne zebranie](#chpt_2) [Rozdział 3 - Rada pracownicza przedsiębiorstwa](#chpt_3) [Rozdział 4 - Rada pracownicza zakładu](#chpt_4) [Rozdział 5 - Współpraca z innymi organizacjami](#chpt_5) [Rozdział 6 - Samorząd załogi a dyrektor przedsiębiorstwa](#chpt_6) [Rozdział 7 - Rozstrzyganie sporów](#chpt_7) [Rozdział 8 - Piecza Sejmu](#chpt_8) [Rozdział 9 - Przepisy przejściowe i końcowe](#chpt_9)
 
-2. Do samorządu załogi przedsiębiorstwa państwowego należy stanowienie w istotnych sprawach przedsiębiorstwa, wyrażanie opinii, podejmowanie inicjatywy i zgłaszanie wniosków oraz sprawowanie kontroli działalności przedsiębiorstwa.
+TOC
 
-3. Samorząd załogi oraz jego organy realizują zadania określone w ust. 2 niezależnie od organów administracji państwowej, organizacji społecznych, związkowych i politycznych.
+## Treść obwieszczenia
 
-**Art. 2.**
+### 1.
 
-1. Organami samorządu załogi są:
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2015 r. poz. 1484](https://api.sejm.gov.pl/eli/acts/DU/2015/1484/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ([Dz. U. Nr 24, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1981/123/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-- **1)** ogólne zebranie pracowników przedsiębiorstwa, ogólne zebranie pracowników poszczególnych zakładów oraz innych jednostek organizacyjnych wchodzących w skład przedsiębiorstwa;
-- **2)** rada pracownicza przedsiębiorstwa, która w statucie samorządu załogi może być nazwana radą robotniczą;
-- **3)** rada pracownicza zakładu w przedsiębiorstwie wielozakładowym.
+### 1)
 
-2. Załoga może wypowiadać się w istotnych sprawach przedsiębiorstwa w formie referendum.
+ustawą z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych ([Dz. U. Nr 17, poz. 99](https://api.sejm.gov.pl/eli/acts/DU/1990/99/text.html)),
 
-3. Rada pracownicza przedsiębiorstwa reprezentuje samorząd załogi.
+### 2)
 
-**Art. 3.** Z zastrzeżeniem art. 39 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 2013 r. poz. 1384 oraz z 2015 r. poz.
+ustawą z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw ([Dz. U. z 1991 r. Nr 2, poz. 6](https://api.sejm.gov.pl/eli/acts/DU/1991/6/text.html)),
 
-**Art. 4.** Członkowie rady pracowniczej przedsiębiorstwa oraz członkowie rady pracowniczej zakładu, zwani dalej członkami rady pracowniczej, są odpowiedzialni wobec załogi.
+### 3)
 
-**Art. 5.** Członek rady pracowniczej zachowuje prawo do wynagrodzenia za czas niewykonywania pracy z powodu pełnienia swoich zadań w godzinach pracy.
+ustawą z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw ([Dz. U. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html)),
 
-**Art. 6.**
+### 4)
 
-1. Przedsiębiorstwo państwowe nie może bez zgody rady pracowniczej przedsiębiorstwa wypowiedzieć ani rozwiązać stosunku pracy z członkiem rady pracowniczej w czasie trwania kadencji tej rady oraz w ciągu jednego roku po jej upływie. Przedsiębiorstwo nie może też bez zgody rady pracowniczej przedsiębiorstwa zmienić w tym czasie członkowi rady warunków pracy i płacy na jego niekorzyść.
+ustawą z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ([Dz. U. Nr 118, poz. 561](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html) oraz z [2001 r. Nr 76, poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2001/807/text.html)),
 
-2. Postanowienia, o których mowa w ust. 1, nie naruszają przepisów o rozwiązywaniu stosunku pracy bez wypowiedzenia.
+### 5)
 
-#### Rozdział 2 Ogólne zebranie
+ustawą z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych ([Dz. U. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html)),
 
-**Art. 7.**
+### 6)
 
-1. Ogólne zebranie pracowników przedsiębiorstwa jednozakładowego oraz ogólne zebranie pracowników zakładu w przedsiębiorstwie wielozakładowym, zwane dalej ogólnym zebraniem pracowników, stanowi formę bezpośredniego uczestniczenia załogi w zarządzaniu przedsiębiorstwem.
+ustawą z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji ([Dz. U. Nr 79, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2006/550/text.html))
 
-2. Do ważności uchwał ogólnego zebrania pracowników wymagana jest obecność na posiedzeniu co najmniej połowy liczby pracowników, jeżeli statut samorządu załogi nie stanowi inaczej.
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 września 2015 r.
 
-3. Uchwały ogólnego zebrania pracowników zapadają zwykłą większością głosów.
+### 2.
 
-**Art. 8.**
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 
-1. W przedsiębiorstwie jednozakładowym oraz w zakładzie przedsiębiorstwa wielozakładowego, w którym liczba zatrudnionych przekracza trzystu pracowników, funkcje ogólnego zebrania pracowników pełni zebranie delegatów wybranych na okres dwóch lat przez pracowników przedsiębiorstwa lub zakładu, w wyborach powszechnych, bezpośrednich i równych, w głosowaniu tajnym. Liczbę delegatów określa statut samorządu załogi.
+### 1)
 
-2. Wyborcy, na wniosek co najmniej jednej piątej uprawnionych do głosowania, mogą w tajnym głosowaniu odwołać delegata.
+art. 9 ustawy z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych ([Dz. U. Nr 17, poz. 99](https://api.sejm.gov.pl/eli/acts/DU/1990/99/text.html)), który stanowi:
 
-3. Statut samorządu załogi określa sposób zwoływania ogólnego zebrania pracowników.
+„
 
-**Art. 9.**
+### Art. 9.
 
-1. Ogólne zebranie pracowników odbywa posiedzenia co najmniej dwa razy w roku.
+Ustawa wchodzi w życie z dniem ogłoszenia.
 
-2. Na pisemny wniosek co najmniej jednej piątej liczby członków ogólnego zebrania pracowników rada pracownicza zwołuje w ciągu siedmiu dni posiedzenie tego zebrania.
+” ;
 
-3. Ogólne zebranie pracowników na każdym posiedzeniu wybiera w głosowaniu tajnym przewodniczącego zebrania, jego zastępcę i sekretarza.
+### 2)
 
-**Art. 10.** Ogólne zebranie pracowników przedsiębiorstwa:
+art. 5 i art. 6 ustawy z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw ([Dz. U. z 1991 r. Nr 2, poz. 6](https://api.sejm.gov.pl/eli/acts/DU/1991/6/text.html)), które stanowią:
 
-**Art. 11.** Ogólne zebranie pracowników ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa.
+„
 
-**Art. 12.**
+### Art. 5.
 
-1. Co najmniej raz w roku rada pracownicza przedsiębiorstwa składa na ogólnym zebraniu pracowników sprawozdanie ze swej działalności.
+### 1.
 
-2. Na żądanie jednej piątej członków ogólnego zebrania pracowników rada pracownicza ma obowiązek w ciągu siedmiu dni przedstawić sprawozdanie w sprawach wymienionych w żądaniu.
+Uprawnienie do prowizji, o której mowa w art. 398 ustawy o przedsiębiorstwach państwowych, przysługuje od dnia 1 kwietnia 1990 r.
 
-#### Rozdział 3 Rada pracownicza przedsiębiorstwa
+### 2.
 
-**Art. 13.**
+Uprawnienie do prowizji od zysku na zasadach określonych w art. 398 za okres od dnia 1 kwietnia 1990 r. do dnia 31 grudnia 1990 r. przysługuje również członkom rad pracowniczych.
 
-1. Rada pracownicza przedsiębiorstwa składa się z piętnastu członków. Statut samorządu załogi może ustalić inną liczbę członków rady pracowniczej.
+### Art. 6.
 
-2. Radę pracowniczą przedsiębiorstwa wybierają pracownicy przedsiębiorstwa w wyborach powszechnych, bezpośrednich i równych, w głosowaniu tajnym.
+Ustawa wchodzi w życie z dniem ogłoszenia.
 
-3. Kadencja rady pracowniczej przedsiębiorstwa trwa dwa lata.
+” ;
 
-4. Wyborcy, w trybie przewidzianym w ust. 2, mogą przed upływem kadencji odwołać członka rady pracowniczej przedsiębiorstwa lub całą radę.
+### 3)
 
-5. Wniosek o odwołanie członka rady pracowniczej przedsiębiorstwa lub całej rady wymaga podpisu jednej piątej liczby wyborców.
+art. 43 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw ([Dz. U. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html)), który stanowi:
 
-**Art. 14.**
+„
 
-1. Czynne prawo wyborcze przysługuje każdemu pracownikowi przedsiębiorstwa.
+### Art. 43.
 
-2. Każdy pracownik przedsiębiorstwa ma prawo zgłaszać kandydatów na członków rady pracowniczej.
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów:
 
-**Art. 15.**
+### 1)
 
-1. Bierne prawo wyborcze przysługuje pracownikom, którzy pracują w przedsiębiorstwie co najmniej dwa lata. Nie dotyczy to przedsiębiorstw nowo tworzonych.
+działu szóstego i siódmego Kodeksu pracy, które wchodzą w życie z dniem 1 stycznia 1997 r.,
 
-2. Bierne prawo wyborcze nie przysługuje dyrektorowi przedsiębiorstwa, jego zastępcom, głównego księgowemu, radcy prawnemu, kierownikom zakładów i ich zastępcom oraz pracownikowi przedsiębiorstwa oddelegowanemu do pracy poza przedsiębiorstwem na okres dłuższy niż pół roku.
+### 2)
 
-3. Pracownik przedsiębiorstwa nie może pełnić funkcji członka rady pracowniczej bez przerwy dłużej niż dwie kadencje.
+art. 217 i art. 2376 § 2 i 3 Kodeksu pracy, które wchodzą w życie po upływie jednego roku od dnia wejścia w życie ustawy,
 
-**Art. 16.**
+### 3)
 
-1. Wybory członków rady pracowniczej przedsiębiorstwa organizuje i przeprowadza komisja wyborcza.
+art. 220 § 1 Kodeksu pracy, który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 220 § 2 Kodeksu pracy,
 
-2. Statut samorządu załogi przedsiębiorstwa określa szczegółowo zasady powoływania komisji wyborczej oraz tryb jej działania.
+### 4)
 
-**Art. 17.** Komisja wyborcza określa, proporcjonalnie do liczby pracowników zatrudnionych w poszczególnych wewnętrznych jednostkach organizacyjnych przedsiębiorstwa, liczbę członków rady pracowniczej, którzy mają być wybrani przez pracowników zatrudnionych w tych jednostkach.
+art. 221 § 2 Kodeksu pracy, który wchodzi w życie po upływie jednego roku od dnia ogłoszenia przepisów, o których mowa w art. 221 § 5 Kodeksu pracy.
 
-**Art. 18.** W wypadku złożenia wniosku o odwołanie całego składu rady pracowniczej przedsiębiorstwa lub poszczególnych jej członków, głosowanie nad tym wnioskiem przeprowadza komisja wyborcza, powołana zgodnie z przepisami art. 16.
+” ;
 
-**Art. 19.** W razie zmniejszenia się składu rady pracowniczej przedsiębiorstwa o połowę – w celu przeprowadzenia wyborów uzupełniających – rada pracownicza może inicjować powołanie komisji wyborczej. Przepisy art. 16 i 17 stosuje się odpowiednio.
+### 4)
 
-**Art. 20.** W nowo utworzonym przedsiębiorstwie wybory rady pracowniczej przedsiębiorstwa powinny odbyć się przed upływem pół roku od dnia wpisania przedsiębiorstwa do rejestru.
+art. 61, art. 65, art. 67 i art. 77 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ([Dz. U. Nr 118, poz. 561](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html) oraz z [2001 r. Nr 76, poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2001/807/text.html)), które stanowią:
 
-**Art. 21.**
+„
 
-1. Rada pracownicza przedsiębiorstwa wybiera ze swego grona na okres dwóch lat prezydium w składzie: przewodniczący, jeden lub więcej zastępców przewodniczącego oraz sekretarz.
+### Art. 61.
 
-2. Członkiem prezydium rady pracowniczej przedsiębiorstwa nie może być pracownik przedsiębiorstwa, który pełni funkcję kierowniczą w organizacji politycznej lub związkowej działającej w przedsiębiorstwie.
+### 1.
 
-**Art. 22.**
+W okresie roku od wpisania spółki do rejestru przedsiębiorców nie można, bez zgody rady nadzorczej, rozwiązać za wypowiedzeniem stosunku pracy z pracownikiem będącym członkiem rady pracowniczej w dniu wykreślenia przedsiębiorstwa państwowego z rejestru, jak również zmienić za wypowiedzeniem takiemu pracownikowi warunków pracy i płacy na jego niekorzyść.
 
-1. Prezydium jest wewnętrznym organem rady pracowniczej przedsiębiorstwa i realizuje określone przez nią zadania.
+### 2.
 
-2. Rada pracownicza przedsiębiorstwa nie może upoważnić prezydium do występowania w jej imieniu w sprawach należących do jej kompetencji.
+Jeżeli roczny okres ochrony stosunku pracy, o którym mowa w art. 6 ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego ([Dz. U. Nr 24, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1981/123/text.html), z [1986 r. Nr 17, poz. 88](https://api.sejm.gov.pl/eli/acts/DU/1986/88/text.html), z [1987 r. Nr 33, poz. 181](https://api.sejm.gov.pl/eli/acts/DU/1987/181/text.html), z [1989 r. Nr 10, poz. 57](https://api.sejm.gov.pl/eli/acts/DU/1989/57/text.html), z [1990 r. Nr 17, poz. 99](https://api.sejm.gov.pl/eli/acts/DU/1990/99/text.html), z [1991 r. Nr 2, poz. 6](https://api.sejm.gov.pl/eli/acts/DU/1991/6/text.html) oraz z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html)), rozciąga się w części na okres zatrudnienia pracownika w spółce powstałej w wyniku komercjalizacji przedsiębiorstwa państwowego - wypowiedzenie w tym okresie stosunku pracy pracownikowi korzystającemu z ochrony wymaga zgody rady nadzorczej.
 
-**Art. 23.**
+### 3.
 
-1. Rada pracownicza przedsiębiorstwa może powoływać komisje i zespoły spośród swoich członków oraz innych pracowników przedsiębiorstwa. Komisje i zespoły są pomocniczymi organami rady pracowniczej przedsiębiorstwa.
+Zgoda rady nadzorczej jest konieczna do zmiany za wypowiedzeniem warunków pracy i płacy na niekorzyść pracownika, o którym mowa w ust. 2.
 
-2. Statut samorządu załogi może przewidywać powoływanie do prac komisji i zespołów również osób niebędących pracownikami przedsiębiorstwa.
+”
 
-**Art. 24.**
+„
 
-1. Do kompetencji stanowiących rady pracowniczej przedsiębiorstwa należy:
+### Art. 65.
 
-- **1)** uchwalanie oraz zmiana planu rocznego przedsiębiorstwa;
-- **2)** przyjmowanie sprawozdania rocznego oraz zatwierdzanie bilansu;
-- **3)** podejmowanie uchwał w sprawie inwestycji;
-- **4)** wyrażanie zgody na utworzenie lub przystąpienie do spółki handlowej lub innej struktury organizacyjnej przewidzianej przepisami prawa bądź nabycie jej udziałów (akcji), jak również podejmowanie uchwał w sprawie wystąpienia z takiej struktury, żądania jej rozwiązania lub zbycia jej udziałów (akcji);
-- **5)** wyrażanie zgody na oddawanie środków trwałych przedsiębiorstwa osobom prawnym lub fizycznym do korzystania z nich w formie przewidzianej w prawie cywilnym;
-- **6)** podejmowanie uchwał w sprawie łączenia i podziału przedsiębiorstw;
-- **7)** podejmowanie uchwał w sprawie zakładowego budownictwa mieszkaniowego i socjalnego;
-- **8)** podejmowanie uchwał w sprawie zmiany kierunku działalności przedsiębiorstwa;
-- **9)** podejmowanie uchwał w sprawie podziału na fundusze wygospodarowanego dochodu pozostającego w dyspozycji przedsiębiorstwa oraz zasad wykorzystania tych funduszów z zastrzeżeniem przepisu ust. 3;
-- **10)** wyrażanie zgody na zbywanie środków trwałych stanowiących przedmiot stałego użytku przedsiębiorstwa oraz na dokonanie darowizny;
-- **11)** decydowanie o przystąpieniu przedsiębiorstwa w charakterze członka zbiorowego do organizacji społecznych;
-- **12)** podejmowanie uchwał w sprawie klubów techniki i racjonalizacji;
-- **13)** (uchylony)
-- **14)** podejmowanie uchwał o przeprowadzeniu w przedsiębiorstwie referendum;
-- **15)** wybieranie swego przedstawiciela do rady zrzeszenia przedsiębiorstw.
+Upływająca w czasie trwania prywatyzacji bezpośredniej kadencja organów samorządu załogi ulega przedłużeniu do dnia wydania zarządzenia o prywatyzacji bezpośredniej.
 
-2. Do kompetencji stanowiących rady pracowniczej przedsiębiorstwa należy również podejmowanie uchwał w sprawach powołania i odwołania dyrektora przedsiębiorstwa oraz innych osób wykonujących kierownicze funkcje w przedsiębiorstwie, zgodnie z przepisami ustawy o przedsiębiorstwach państwowych.
+”
 
-3. Rada pracownicza dokonując podziału, o którym mowa w ust. 1 pkt 9, powinna zapewnić niezbędne środki na prowizje od zysku zgodnie z odrębnymi przepisami.
+„
 
-**Art. 25.**
+### Art. 67.
 
-1. Rada pracownicza przedsiębiorstwa ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa oraz jego kierownictwa.
+Skutki prawne czynności dokonanych przed dniem wejścia w życie ustawy ocenia się według przepisów dotychczasowych.
 
-1a. Rada pracownicza przedsiębiorstwa ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550, z 2008 r. Nr 93, poz. 584 oraz z 2009 r. Nr 97, poz. 805).
+”
 
-2. Właściwe organy obowiązane są do zasięgania opinii rady pracowniczej przedsiębiorstwa w sprawach: zmiany aktu o utworzeniu i likwidacji przedsiębiorstwa, komercjalizacji i prywatyzacji bezpośredniej przedsiębiorstwa – z wyjątkiem przypadku, gdy z wnioskiem wystąpił dyrektor przedsiębiorstwa państwowego i rada pracownicza, zawierania przez przedsiębiorstwo porozumień i umów długoterminowych z innymi organizacjami gospodarczymi oraz organami administracji państwowej, wniosków o nadanie orderów i odznaczeń państwowych, decyzji dyrektora o przydziale mieszkań.
+„
 
-3. Rada pracownicza przedsiębiorstwa ma obowiązek wyrażenia opinii w sprawach przedłożonych przez dyrektora przedsiębiorstwa i organ założycielski, a wymienionych w ust. 2.
+### Art. 77.
 
-**Art. 26.**
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z tym że przepisy art. 4, 25, 39, 48-50, 63 i 70-73 oraz rozdziału 2 działu IV wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
 
-1. Wyrażenie opinii przez radę pracowniczą przedsiębiorstwa w sprawach wymienionych w art. 25 ust. 2 powinno nastąpić przed upływem dwóch tygodni od dnia otrzymania zapytania, chyba że termin na wyrażenie opinii został przedłużony. W sprawach pilnych właściwy organ może zwrócić się o wyrażenie opinii w terminie krótszym, jednakże nie krótszym niż pięć dni.
+” ;
 
-2. Niewyrażenie przez radę pracowniczą przedsiębiorstwa opinii w określonym lub uzgodnionym terminie uważa się za brak zgłoszenia zastrzeżeń.
+### 5)
 
-**Art. 27.**
+art. 24 ust. 1 i art. 25 ustawy z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych ([Dz. U. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html)), które stanowią:
 
-1. Rada pracownicza przedsiębiorstwa ma prawo występowania z inicjatywami, wnioskami i uwagami we wszystkich sprawach dotyczących przedsiębiorstwa.
+### Art. 24.
 
-2. Rada pracownicza przedsiębiorstwa ma prawo zwracania się do dyrektora przedsiębiorstwa z zapytaniem w sprawach stanu przedsiębiorstwa lub działalności organów przedsiębiorstwa.
+„1. Przepisy wykonawcze wydane przed dniem wejścia w życie ustawy na podstawie upoważnień zawartych w ustawach wymienionych w art. 1-4, 6, 8, 9, 18, 20 i 22, które zostały zmienione niniejszą ustawą, zachowują moc do czasu wydania przepisów na podstawie upoważnień w brzmieniu określonym niniejszą ustawą.
 
-3. Dyrektor przedsiębiorstwa ma obowiązek powiadomić radę pracowniczą przedsiębiorstwa o zajętym stanowisku w sprawie przedstawionej inicjatywy lub zgłoszonego wniosku oraz udzielić odpowiedzi na pytanie niezwłocznie, nie później jednak niż w ciągu dwóch tygodni.
+”
 
-**Art. 28.**
+„
 
-1. Rada pracownicza przedsiębiorstwa ma prawo kontroli całokształtu działalności przedsiębiorstwa, ze szczególnym uwzględnieniem dbałości o racjonalną gospodarkę mieniem przedsiębiorstwa.
+### Art. 25.
 
-2. Kontrola obejmuje w szczególności zbadanie i ocenę wykonania zadań planowych oraz realizacji zawartych umów i porozumień, analizę sprawozdania rocznego i bilansu, analizę i ocenę okresowych oraz doraźnych sprawozdań dyrektora przedsiębiorstwa, kontrolę wykonania uchwał rady pracowniczej, właściwego wykorzystania zasobów pracy, prawidłowości gospodarki materiałowej i finansowej, ochrony środowiska, a w porozumieniu ze związkami zawodowymi – kontrolę przestrzegania norm pracy oraz dyscypliny pracy i płac.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-3. Dyrektor przedsiębiorstwa jest obowiązany udostępnić dokumenty i materiały niezbędne do przeprowadzenia kontroli.
+” ;
 
-**Art. 29.**
+### 6)
 
-1. Rada pracownicza przedsiębiorstwa odbywa posiedzenia co najmniej raz na kwartał.
+odnośnika nr 1 oraz art. 28 ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji ([Dz. U. Nr 79, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2006/550/text.html)), które stanowią: „ 1) Przepisy ustawy wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2002/14/WE z dnia 11 marca 2002 r. ustanawiającej ogólne ramowe warunki informowania i przeprowadzania konsultacji z pracownikami we Wspólnocie Europejskiej ([Dz. Urz. WE L 80 z 23.03.2002](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 05, t. 4, str. 219](https://api.sejm.gov.pl/eli/acts//text.html)). ”
 
-2. Na pisemny wniosek jednej piątej liczby członków rady pracowniczej przedsiębiorstwa prezydium rady ma obowiązek zwołać posiedzenie rady.
+„
 
-**Art. 30.**
+### Art. 28.
 
-1. Do ważności podejmowanych uchwał niezbędna jest obecność co najmniej połowy liczby członków rady pracowniczej przedsiębiorstwa. Do ważności uchwał w sprawach wymienionych w art. 40 wymagana jest obecność na posiedzeniu dwóch trzecich liczby członków rady pracowniczej.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-2. Uchwały zapadają zwykłą większością głosów.
+” .
 
-**Art. 31.**
+## Załącznik - Tekst jednolity ustawy z dnia 25 września 1981 r. o samorządzie załogi przedsiębiorstwa państwowego
 
-1. Głosowanie na posiedzeniach odbywa się jawnie. Wyjątek stanowi głosowanie w sprawach osobowych, które odbywa się tajnie.
+### Rozdział 1 Organy samorządu załogi przedsiębiorstwa
 
-2. Głosowanie tajne odbywa się również na wniosek członka rady pracowniczej przedsiębiorstwa.
+### Art. 1.
 
-**Art. 32.**
+### 1.
 
-1. Szczegółowy tryb działania rady pracowniczej przedsiębiorstwa oraz zasady zwoływania i odbywania posiedzeń reguluje statut samorządu załogi.
+Załoga uczestniczy w zarządzaniu przedsiębiorstwem państwowym na zasadach określonych w niniejszej ustawie.
 
-2. Rada pracownicza przedsiębiorstwa może uchwalić odrębny od statutu regulamin posiedzeń.
+### 2.
 
-#### Rozdział 4 Rada pracownicza zakładu
+Do samorządu załogi przedsiębiorstwa państwowego należy stanowienie w istotnych sprawach przedsiębiorstwa, wyrażanie opinii, podejmowanie inicjatywy i zgłaszanie wniosków oraz sprawowanie kontroli działalności przedsiębiorstwa.
 
-**Art. 33.**
+### 3.
 
-1. W zakładach i innych wewnętrznych jednostkach organizacyjnych przedsiębiorstwa sporządzających bilans statut samorządu załogi może przewidzieć powoływanie rady pracowniczej zakładu.
+Samorząd załogi oraz jego organy realizują zadania określone w ust. 2 niezależnie od organów administracji państwowej, organizacji społecznych, związkowych i politycznych.
 
-2. Statut samorządu załogi może przewidzieć prawo powoływania rady pracowniczej zakładu również i w innych jednostkach organizacyjnych niż określone w ust. 1.
+### Art. 2.
 
-3. Wybory członków rady pracowniczej zakładu odbywają się na zasadach określonych w art. 13–20.
+### 1.
 
-4. Statut samorządu załogi określa, jakie sprawy dotyczące zakładu rada pracownicza przedsiębiorstwa może przekazać radzie pracowniczej zakładu. Przy przekazywaniu spraw należy uwzględnić charakter spraw oraz możliwość ich realizacji.
+Organami samorządu załogi są:
 
-5. Do członków rady pracowniczej zakładu stosuje się odpowiednio postanowienia art. 6.
+### 1)
 
-#### Rozdział 5 Współpraca z innymi organizacjami
+ogólne zebranie pracowników przedsiębiorstwa, ogólne zebranie pracowników poszczególnych zakładów oraz innych jednostek organizacyjnych wchodzących w skład przedsiębiorstwa;
 
-**Art. 34.** (uchylony)
+### 2)
 
-**Art. 35.** Rady pracownicze przedsiębiorstw mogą się porozumiewać w sprawie współpracy oraz podejmowania wspólnych działań.
+rada pracownicza przedsiębiorstwa, która w statucie samorządu załogi może być nazwana radą robotniczą;
 
-**Art. 36.** Jeżeli uchwały organów samorządu załogi lub decyzje dyrektora przedsiębiorstwa dotyczą spraw wchodzących w zakres działania związków zawodowych, przed ich podjęciem organy przedsiębiorstwa obowiązane są umożliwić związkom zawodowym zajęcie w tych sprawach stanowiska zgodnie z ustawą o związkach zawodowych oraz Kodeksem pracy.
+### 3)
 
-#### Rozdział 6 Samorząd załogi a dyrektor przedsiębiorstwa
+rada pracownicza zakładu w przedsiębiorstwie wielozakładowym.
 
-**Art. 37.**
+### 2.
 
-1. Dyrektor przedsiębiorstwa uczestniczy w posiedzeniach rady pracowniczej przedsiębiorstwa. Na zaproszenie dyrektor uczestniczy również w posiedzeniach prezydium rady pracowniczej.
+Załoga może wypowiadać się w istotnych sprawach przedsiębiorstwa w formie referendum.
 
-2. Dyrektor przedsiębiorstwa wykonuje uchwały rady pracowniczej przedsiębiorstwa dotyczące działalności przedsiębiorstwa.
+### 3.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do kierowników zakładów, w których działają rady pracownicze zakładu.
+Rada pracownicza przedsiębiorstwa reprezentuje samorząd załogi.
 
-**Art. 38.** Dyrektor przedsiębiorstwa jest odpowiedzialny przed załogą za prawidłowe prowadzenie przedsiębiorstwa. Dyrektor składa załodze co najmniej raz w roku sprawozdanie z działalności przedsiębiorstwa oraz informację o jego stanie.
+### Art. 3[1) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99), która weszła w życie z dniem 21 marca 1990 r.](#gloss-0:1:).
 
-**Art. 39.**
+Z zastrzeżeniem art. 398 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych ([Dz. U. z 2013 r. poz. 1384](https://api.sejm.gov.pl/eli/acts/DU/2013/1384/text.html) oraz [z 2015 r. poz. 1322](https://api.sejm.gov.pl/eli/acts/DU/2015/1322/text.html)) działalność w radzie pracowniczej przedsiębiorstwa oraz w radzie pracowniczej zakładu ma charakter społeczny.
 
-1. Dyrektor przedsiębiorstwa jest obowiązany zapewnić radzie pracowniczej przedsiębiorstwa możliwość zaznajomienia się z materiałami dotyczącymi działalności przedsiębiorstwa, przedkładać materiały na posiedzenia rady pracowniczej z odpowiednim wyprzedzeniem oraz informować radę o skutkach ekonomicznych, społecznych i prawnych zamierzonych uchwał rady.
+### Art. 4.
 
-2. Dyrektor przedsiębiorstwa jest obowiązany zapewnić samorządowi załogi warunki lokalowe oraz niezbędne środki umożliwiające właściwe jego funkcjonowanie.
+Członkowie rady pracowniczej przedsiębiorstwa oraz członkowie rady pracowniczej zakładu, zwani dalej członkami rady pracowniczej, sąodpowiedzialni wobec załogi.
 
-**Art. 40.** Radzie pracowniczej przedsiębiorstwa przysługuje prawo wstrzymania wykonania decyzji dyrektora przedsiębiorstwa, o ile decyzja ta jest:
+### Art. 5.
 
-**Art. 41.**
+Członek rady pracowniczej zachowuje prawo do wynagrodzenia za czas niewykonywania pracy z powodu pełnienia swoich zadań w godzinach pracy.
 
-1. Dyrektor przedsiębiorstwa wstrzymuje wykonanie uchwały ogólnego zebrania pracowników oraz rady pracowniczej przedsiębiorstwa, niezgodnej z przepisami prawa.
+### Art. 6.
 
-2. W wypadkach wymienionych w ust. 1 dyrektor zwraca się do rady pracowniczej o ponowne rozpatrzenie sprawy.
+### 1.
 
-3. Decyzja dyrektora przedsiębiorstwa o wstrzymaniu wykonania uchwały rady pracowniczej przedsiębiorstwa powinna być wydana na piśmie oraz zawierać uzasadnienie prawne i faktyczne.
+Przedsiębiorstwo państwowe nie może bez zgody rady pracowniczej przedsiębiorstwa wypowiedzieć ani rozwiązać stosunku pracy z członkiem rady pracowniczej w czasie trwania kadencji tej rady oraz w ciągu jednego roku po jej upływie. Przedsiębiorstwo nie może też bez zgody rady pracowniczej przedsiębiorstwa zmienić w tym czasie członkowi rady warunków pracy i płacy na jego niekorzyść.
 
-4. Do uchwał rady pracowniczej przedsiębiorstwa, o których mowa w art. 40, nie stosuje się przepisów ust. 1–3.
+### 2.
 
-**Art. 42.**
+Postanowienia, o których mowa w ust. 1, nie naruszają przepisów o rozwiązywaniu stosunku pracy bez wypowiedzenia.
 
-1. Rada pracownicza przedsiębiorstwa ma prawo wniesienia do dyrektora przedsiębiorstwa w ciągu siedmiu dni sprzeciwu od decyzji o wstrzymaniu wykonania uchwały rady pracowniczej.
+### Rozdział 2 Ogólne zebranie
 
-2. Jeżeli, mimo wniesienia sprzeciwu, dyrektor przedsiębiorstwa decyzję podtrzyma albo w ciągu trzech dni nie powiadomi rady pracowniczej przedsiębiorstwa o cofnięciu decyzji, radzie pracowniczej przedsiębiorstwa przysługuje prawo wystąpienia o rozstrzygnięcie sprawy w trybie spornym, określonym w art. 45.
+### Art. 7.
 
-**Art. 43.**
+### 1.
 
-1. Prawo wstrzymania wykonania uchwały na zasadach określonych w art. 41 przysługuje kierownikowi zakładu w stosunku do uchwał rady pracowniczej zakładu.
+Ogólne zebranie pracowników przedsiębiorstwa jednozakładowego oraz ogólne zebranie pracowników zakładu w przedsiębiorstwie wielozakładowym, zwane dalej ogólnym zebraniem pracowników, stanowi formę bezpośredniego uczestniczenia załogi w zarządzaniu przedsiębiorstwem.
 
-2. Spory spowodowane wstrzymaniem wykonania uchwały przez kierownika zakładu rozstrzyga rada pracownicza przedsiębiorstwa, po wysłuchaniu opinii dyrektora przedsiębiorstwa.
+### 2.
 
-**Art. 44.**
+Do ważności uchwał ogólnego zebrania pracowników wymagana jest obecność na posiedzeniu co najmniej połowy liczby pracowników, jeżeli statut samorządu załogi nie stanowi inaczej.
 
-1. Radzie pracowniczej przedsiębiorstwa przysługuje prawo zaskarżenia decyzji dyrektora, która istotnie narusza interes ogólnospołeczny.
+### 3.
 
-2. Dyrektorowi przedsiębiorstwa przysługuje prawo zaskarżenia uchwały rady pracowniczej przedsiębiorstwa, która istotnie narusza interes ogólnospołeczny.
+Uchwały ogólnego zebrania pracowników zapadają zwykłą większością głosów.
 
-3. Spór rozpatruje sąd.
+### Art. 8.
 
-#### Rozdział 7 Rozstrzyganie sporów
+### 1.
 
-**Art. 45.**
+W przedsiębiorstwie jednozakładowym oraz w zakładzie przedsiębiorstwa wielozakładowego, w którym liczba zatrudnionych przekracza trzystu pracowników, funkcje ogólnego zebrania pracowników pełni zebranie delegatów wybranych na okres dwóch lat przez pracowników przedsiębiorstwa lub zakładu, w wyborach powszechnych, bezpośrednich i równych, w głosowaniu tajnym. Liczbę delegatów określa statut samorządu załogi.
 
-1. Spory pomiędzy radą pracowniczą przedsiębiorstwa a dyrektorem przedsiębiorstwa rozstrzyga komisja rozjemcza, w której skład wchodzą: przedstawiciel rady pracowniczej przedsiębiorstwa i przedstawiciel dyrektora przedsiębiorstwa oraz zaproszony przez nich arbiter posiadający wykształcenie prawnicze – jako przewodniczący.
+### 2.
 
-2. Rada pracownicza przedsiębiorstwa lub dyrektor przedsiębiorstwa zgłaszają do komisji rozjemczej wnioski o rozpatrzenie sprawy w terminie czternastu dni od dnia powzięcia wiadomości o zdarzeniu stanowiącym przyczynę sporu. Komisja rozjemcza orzeczenie rozstrzygające spór wydaje w terminie czternastu dni od dnia zgłoszenia wniosku.
+Wyborcy, na wniosek co najmniej jednej piątej uprawnionych do głosowania, mogą w tajnym głosowaniu odwołać delegata.
 
-3. Spór uważa się za rozstrzygnięty, jeżeli obie strony zgodziły się na treść orzeczenia komisji rozjemczej.
+### 3.
 
-**Art. 46.** W wypadku nierozstrzygnięcia sporu przez komisję rozjemczą, rada pracownicza przedsiębiorstwa lub dyrektor przedsiębiorstwa w ciągu czternastu dni może wnieść sprawę do sądu.
+Statut samorządu załogi określa sposób zwoływania ogólnego zebrania pracowników.
 
-#### Rozdział 8 Piecza
+### Art. 9.
 
-**Art. 47.**
+### 1.
 
-1. Samorząd załogi przedsiębiorstwa podlega pieczy Polskiej Rzeczypospolitej Ludowej .
+Ogólne zebranie pracowników odbywa posiedzenia co najmniej dwa razy w roku.
 
-2. Sejm, raz do roku, na podstawie informacji i wniosków właściwych komisji ocenia całokształt działalności samorządu załóg przedsiębiorstw i uchwala odpowiednie zalecenia.
+### 2.
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+Na pisemny wniosek co najmniej jednej piątej liczby członków ogólnego zebrania pracowników rada pracownicza zwołuje w ciągu siedmiu dni posiedzenie tego zebrania.
 
-**Art. 48.** Organizację i funkcjonowanie samorządów załogi w przedsiębiorstwach, o którym mowa w art. 6 ustawy o przedsiębiorstwach państwowych, regulują ustawy dotyczące tych przedsiębiorstw.
+### 3.
 
-**Art. 49.**
+Ogólne zebranie pracowników na każdym posiedzeniu wybiera w głosowaniu tajnym przewodniczącego zebrania, jego zastępcę i sekretarza.
 
-1. Rada Ministrów określi, w drodze rozporządzenia, zakres stosowania przepisów ustawy do przedsiębiorstw, o których mowa w art. 3 ustawy o przedsiębiorstwach państwowych, oraz do przedsiębiorstw, które w całości lub w części prowadzą działalność poza granicami kraju.
+### Art. 10.
 
-2. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania w sprawach przedsiębiorstw, o których mowa w ust. 1, a do których na podstawie ust. 1 nie stosuje się przepisów niniejszej ustawy.
+Ogólne zebranie pracowników przedsiębiorstwa:
 
-**Art. 50.**
+### 1)
 
-1. Do czasu uregulowania w drodze odrębnej ustawy sposobu uczestniczenia załóg w zarządzaniu państwowymi organizacjami gospodarczymi, które nie są przedsiębiorstwami – załogi tych jednostek mogą zorganizować uczestniczenie w zarządzaniu na zasadach przewidzianych w niniejszej ustawie.
+uchwala, na wniosek dyrektora, statut przedsiębiorstwa;
 
-2. Państwowymi organizacjami gospodarczymi w rozumieniu ust. 1 są instytuty naukowo-badawcze i zakłady budżetowe, pracujące bezpośrednio na rzecz gospodarki narodowej.
+### 2)
 
-**Art. 51.**
+podejmuje uchwały w sprawie podziału zysku przeznaczonego dla załogi;
 
-1. Do dnia 31 grudnia 1981 r. w przedsiębiorstwach państwowych objętych zakresem niniejszej ustawy załogi zorganizują uczestniczenie w zarządzaniu przedsiębiorstwem na zasadach określonych w ustawie oraz uchwalą statut samorządu załogi.
+### 3)
 
-2. Załogi, które w dniu wejścia w życie ustawy uczestniczą w zarządzaniu przedsiębiorstwem według statutu tymczasowego bądź regulaminu, dostosują w terminie do dnia 31 grudnia 1981 r. udział w zarządzaniu przedsiębiorstwem do przepisów niniejszej ustawy; do tego czasu działające w dniu wejścia w życie ustawy organy samorządu załogi wykonują funkcje przewidziane w niniejszej ustawie.
+dokonuje rocznej oceny działalności rady pracowniczej przedsiębiorstwa oraz dyrektora przedsiębiorstwa;
 
-3. W przedsiębiorstwach, w których dotychczas nie działają żadne organy samorządu, pierwsze zebranie zmierzające do powołania samorządu załogi zwołuje dyrektor.
+### 4)
 
-4. Do czasu ukonstytuowania się przewidzianych w ustawie organów samorządu załogi przedsiębiorstwa państwowego ich kompetencje wykonuje dyrektor.
+uchwala wieloletnie plany przedsiębiorstwa;
 
-**Art. 52.** Traci moc ustawa z dnia 20 grudnia 1958 r. o samorządzie robotniczym (Dz. U. Nr 77, poz. 397 oraz z 1974 r. Nr 24, poz. 142).
+### 5)
 
-**Art. 53.** Ustawa wchodzi w życie z dniem 1 października 1981 r.
+uchwala, na wniosek rady pracowniczej przedsiębiorstwa, statut samorządu załogi przedsiębiorstwa.
 
+### Art. 11.
+
+Ogólne zebranie pracowników ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa.
+
+### Art. 12.
+
+### 1.
+
+Co najmniej raz w roku rada pracownicza przedsiębiorstwa składa na ogólnym zebraniu pracowników sprawozdanie ze swej działalności.
+
+### 2.
+
+Na żądanie jednej piątej członków ogólnego zebrania pracowników rada pracownicza ma obowiązek w ciągu siedmiu dni przedstawić sprawozdanie w sprawach wymienionych w żądaniu.
+
+### Rozdział 3 Rada pracownicza przedsiębiorstwa
+
+### Art. 13.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa składa się z piętnastu członków. Statut samorządu załogi może ustalić inną liczbę członków rady pracowniczej.
+
+### 2.
+
+Radę pracowniczą przedsiębiorstwa wybierają pracownicy przedsiębiorstwa w wyborach powszechnych, bezpośrednich i równych, w głosowaniu tajnym.
+
+### 3.
+
+Kadencja rady pracowniczej przedsiębiorstwa trwa dwa lata.
+
+### 4.
+
+Wyborcy, w trybie przewidzianym w ust. 2, mogą przed upływem kadencji odwołać członka rady pracowniczej przedsiębiorstwa lub całą radę.
+
+### 5.
+
+Wniosek o odwołanie członka rady pracowniczej przedsiębiorstwa lub całej rady wymaga podpisu jednej piątej liczby wyborców.
+
+### Art. 14.
+
+### 1.
+
+Czynne prawo wyborcze przysługuje każdemu pracownikowi przedsiębiorstwa.
+
+### 2.
+
+Każdy pracownik przedsiębiorstwa ma prawo zgłaszać kandydatów na członków rady pracowniczej.
+
+### Art. 15.
+
+### 1.
+
+Bierne prawo wyborcze przysługuje pracownikom, którzy pracują w przedsiębiorstwie co najmniej dwa lata. Nie dotyczy to przedsiębiorstw nowo tworzonych.
+
+### 2.
+
+Bierne prawo wyborcze nie przysługuje dyrektorowi przedsiębiorstwa, jego zastępcom, głównego księgowemu, radcy prawnemu, kierownikom zakładów i ich zastępcom oraz pracownikowi przedsiębiorstwa oddelegowanemu do pracy poza przedsiębiorstwem na okres dłuższy niż pół roku.
+
+### 3.
+
+Pracownik przedsiębiorstwa nie może pełnić funkcji członka rady pracowniczej bez przerwy dłużej niż dwie kadencje.
+
+### Art. 16.
+
+### 1.
+
+Wybory członków rady pracowniczej przedsiębiorstwa organizuje i przeprowadza komisja wyborcza.
+
+### 2.
+
+Statut samorządu załogi przedsiębiorstwa określa szczegółowo zasady powoływania komisji wyborczej oraz tryb jej działania.
+
+### Art. 17.
+
+Komisja wyborcza określa, proporcjonalnie do liczby pracowników zatrudnionych w poszczególnych wewnętrznych jednostkach organizacyjnych przedsiębiorstwa, liczbę członków rady pracowniczej, którzy mają być wybrani przez pracowników zatrudnionych w tych jednostkach.
+
+### Art. 18.
+
+W wypadku złożenia wniosku o odwołanie całego składu rady pracowniczej przedsiębiorstwa lub poszczególnych jej członków, głosowanie nad tym wnioskiem przeprowadza komisja wyborcza, powołana zgodnie z przepisami art. 16.
+
+### Art. 19.
+
+W razie zmniejszenia się składu rady pracowniczej przedsiębiorstwa o połowę - w celu przeprowadzenia wyborów uzupełniających - rada pracownicza może inicjować powołanie komisji wyborczej. Przepisy art. 16 i 17 stosuje się odpowiednio.
+
+### Art. 20.
+
+W nowo utworzonym przedsiębiorstwie wybory rady pracowniczej przedsiębiorstwa powinny odbyć się przed upływem pół roku od dnia wpisania przedsiębiorstwa do rejestru.
+
+### Art. 21.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa wybiera ze swego grona na okres dwóch lat prezydium w składzie: przewodniczący, jeden lub więcej zastępców przewodniczącego oraz sekretarz.
+
+### 2.
+
+Członkiem prezydium rady pracowniczej przedsiębiorstwa nie może być pracownik przedsiębiorstwa, który pełni funkcję kierowniczą w organizacji politycznej lub związkowej działającej w przedsiębiorstwie.
+
+### Art. 22.
+
+### 1.
+
+Prezydium jest wewnętrznym organem rady pracowniczej przedsiębiorstwa i realizuje określone przez nią zadania.
+
+### 2.
+
+Rada pracownicza przedsiębiorstwa nie może upoważnić prezydium do występowania w jej imieniu w sprawach należących do jej kompetencji.
+
+### Art. 23.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa może powoływać komisje i zespoły spośród swoich członków oraz innych pracowników przedsiębiorstwa. Komisje i zespoły są pomocniczymi organami rady pracowniczej przedsiębiorstwa.
+
+### 2.
+
+Statut samorządu załogi może przewidywać powoływanie do prac komisji i zespołów również osób niebędących pracownikami przedsiębiorstwa.
+
+### Art. 24.
+
+### 1.
+
+Do kompetencji stanowiących rady pracowniczej przedsiębiorstwa należy:
+
+### 1)
+
+uchwalanie oraz zmiana planu rocznego przedsiębiorstwa;
+
+### 2)
+
+przyjmowanie sprawozdania rocznego oraz zatwierdzanie bilansu;
+
+### 3)
+
+podejmowanie uchwał w sprawie inwestycji;
+
+### 4[2) W brzmieniu ustalonym przez art. 3 pkt 2 lit. a ustawy, o której mowa w odnośniku 1.](#gloss-0:2:))
+
+wyrażanie zgody na utworzenie lub przystąpienie do spółki handlowej lub innej struktury organizacyjnej przewidzianej przepisami prawa bądź nabycie jej udziałów (akcji), jak również podejmowanie uchwał w sprawie wystąpienia z takiej struktury, żądania jej rozwiązania lub zbycia jej udziałów (akcji);
+
+### 5[3) W brzmieniu ustalonym przez art. 3 pkt 1 lit. a ustawy z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw (Dz. U. z 1991 r. Nr 2, poz. 6), która weszła w życie z dniem 7 stycznia 1991 r.](#gloss-0:3:))
+
+wyrażanie zgody na oddawanie środków trwałych przedsiębiorstwa osobom prawnym lub fizycznym do korzystania z nich w formie przewidzianej w prawie cywilnym;
+
+### 6)
+
+podejmowanie uchwał w sprawie łączenia i podziału przedsiębiorstw;
+
+### 7)
+
+podejmowanie uchwał w sprawie zakładowego budownictwa mieszkaniowego i socjalnego;
+
+### 8)
+
+podejmowanie uchwał w sprawie zmiany kierunku działalności przedsiębiorstwa;
+
+### 9[4) Ze zmianą wprowadzoną przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 3.](#gloss-0:4:))
+
+podejmowanie uchwał w sprawie podziału na fundusze wygospodarowanego dochodu pozostającego w dyspozycji przedsiębiorstwa oraz zasad wykorzystania tych funduszów z zastrzeżeniem przepisu ust. 3;
+
+### 10[5) W brzmieniu ustalonym przez art. 3 pkt 2 lit. c ustawy, o której mowa w odnośniku 1.](#gloss-0:5:))
+
+wyrażanie zgody na zbywanie środków trwałych stanowiących przedmiot stałego użytku przedsiębiorstwa oraz na dokonanie darowizny;
+
+### 11)
+
+decydowanie o przystąpieniu przedsiębiorstwa w charakterze członka zbiorowego do organizacji społecznych;
+
+### 12)
+
+podejmowanie uchwał w sprawie klubów techniki i racjonalizacji;
+
+### 13)
+
+(uchylony)[6) Przez art. 32 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 24, poz. 110), która weszła w życie z dniem 2 czerwca 1996 r.](#gloss-0:6:)
+
+### 14)
+
+podejmowanie uchwał o przeprowadzeniu w przedsiębiorstwie referendum;
+
+### 15)
+
+wybieranie swego przedstawiciela do rady zrzeszenia przedsiębiorstw.
+
+### 2.
+
+Do kompetencji stanowiących rady pracowniczej przedsiębiorstwa należy również podejmowanie uchwał w sprawach powołania i odwołania dyrektora przedsiębiorstwa oraz innych osób wykonujących kierownicze funkcje w przedsiębiorstwie, zgodnie z przepisami ustawy o przedsiębiorstwach państwowych.
+
+### 3[7) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 3.](#gloss-0:7:).
+
+Rada pracownicza dokonując podziału, o którym mowa w ust. 1 pkt 9, powinna zapewnić niezbędne środki na prowizje od zysku zgodnie z odrębnymi przepisami.
+
+### Art. 25.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa ma prawo wyrażania opinii we wszystkich sprawach dotyczących przedsiębiorstwa oraz jego kierownictwa.
+
+### 1a[8) Dodany przez art. 20 ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550), która weszła w życie z dniem 25 maja 2006 r.](#gloss-0:8:).
+
+Rada pracownicza przedsiębiorstwa ma prawo do uzyskiwania informacji i przeprowadzania konsultacji zgodnie z przepisami ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji ([Dz. U. Nr 79, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2006/550/text.html), z [2008 r. Nr 93, poz. 584](https://api.sejm.gov.pl/eli/acts/DU/2008/584/text.html) oraz z [2009 r. Nr 97, poz. 805](https://api.sejm.gov.pl/eli/acts/DU/2009/805/text.html)).
+
+### 2[9) Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 118, poz. 561), który wszedł w życie z dniem 22 października 1996 r.](#gloss-0:9:).
+
+Właściwe organy obowiązane są do zasięgania opinii rady pracowniczej przedsiębiorstwa w sprawach: zmiany aktu o utworzeniu i likwidacji przedsiębiorstwa, komercjalizacji i prywatyzacji bezpośredniej przedsiębiorstwa - z wyjątkiem przypadku, gdy z wnioskiem wystąpił dyrektor przedsiębiorstwa państwowego i rada pracownicza, zawierania przez przedsiębiorstwo porozumień i umów długoterminowych z innymi organizacjami gospodarczymi oraz organami administracji państwowej, wniosków o nadanie orderów i odznaczeń państwowych, decyzji dyrektora o przydziale mieszkań.
+
+### 3.
+
+Rada pracownicza przedsiębiorstwa ma obowiązek wyrażenia opinii w sprawach przedłożonych przez dyrektora przedsiębiorstwa i organ założycielski, a wymienionych w ust. 2.
+
+### Art. 26.
+
+### 1.
+
+Wyrażenie opinii przez radę pracowniczą przedsiębiorstwa w sprawach wymienionych w art. 25 ust. 2 powinno nastąpić przed upływem dwóch tygodni od dnia otrzymania zapytania, chyba że termin na wyrażenie opinii został przedłużony. W sprawach pilnych właściwy organ może zwrócić się o wyrażenie opinii w terminie krótszym, jednakże nie krótszym niż pięć dni.
+
+### 2.
+
+Niewyrażenie przez radę pracowniczą przedsiębiorstwa opinii w określonym lub uzgodnionym terminie uważa się za brak zgłoszenia zastrzeżeń.
+
+### Art. 27.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa ma prawo występowania z inicjatywami, wnioskami i uwagami we wszystkich sprawach dotyczących przedsiębiorstwa.
+
+### 2.
+
+Rada pracownicza przedsiębiorstwa ma prawo zwracania się do dyrektora przedsiębiorstwa z zapytaniem w sprawach stanu przedsiębiorstwa lub działalności organów przedsiębiorstwa.
+
+### 3.
+
+Dyrektor przedsiębiorstwa ma obowiązek powiadomić radę pracowniczą przedsiębiorstwa o zajętym stanowisku w sprawie przedstawionej inicjatywy lub zgłoszonego wniosku oraz udzielić odpowiedzi na pytanie niezwłocznie, nie później jednak niż w ciągu dwóch tygodni.
+
+### Art. 28.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa ma prawo kontroli całokształtu działalności przedsiębiorstwa, ze szczególnym uwzględnieniem dbałości o racjonalną gospodarkę mieniem przedsiębiorstwa.
+
+### 2.
+
+Kontrola obejmuje w szczególności zbadanie i ocenę wykonania zadań planowych oraz realizacji zawartych umów i porozumień, analizę sprawozdania rocznego i bilansu, analizę i ocenę okresowych oraz doraźnych sprawozdań dyrektora przedsiębiorstwa, kontrolę wykonania uchwał rady pracowniczej, właściwego wykorzystania zasobów pracy, prawidłowości gospodarki materiałowej i finansowej, ochrony środowiska, a w porozumieniu ze związkami zawodowymi - kontrolę przestrzegania norm pracy oraz dyscypliny pracy i płac.
+
+### 3.
+
+Dyrektor przedsiębiorstwa jest obowiązany udostępnić dokumenty i materiały niezbędne do przeprowadzenia kontroli.
+
+### Art. 29.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa odbywa posiedzenia co najmniej raz na kwartał.
+
+### 2.
+
+Na pisemny wniosek jednej piątej liczby członków rady pracowniczej przedsiębiorstwa prezydium rady ma obowiązek zwołać posiedzenie rady.
+
+### Art. 30.
+
+### 1.
+
+Do ważności podejmowanych uchwał niezbędna jest obecność co najmniej połowy liczby członków rady pracowniczej przedsiębiorstwa. Do ważności uchwał w sprawach wymienionych w art. 40 wymagana jest obecność na posiedzeniu dwóch trzecich liczby członków rady pracowniczej.
+
+### 2.
+
+Uchwały zapadają zwykłą większością głosów.
+
+### Art. 31.
+
+### 1.
+
+Głosowanie na posiedzeniach odbywa się jawnie. Wyjątek stanowi głosowanie w sprawach osobowych, które odbywa się tajnie.
+
+### 2.
+
+Głosowanie tajne odbywa się również na wniosek członka rady pracowniczej przedsiębiorstwa.
+
+### Art. 32.
+
+### 1.
+
+Szczegółowy tryb działania rady pracowniczej przedsiębiorstwa oraz zasady zwoływania i odbywania posiedzeń reguluje statut samorządu załogi.
+
+### 2.
+
+Rada pracownicza przedsiębiorstwa może uchwalić odrębny od statutu regulamin posiedzeń.
+
+### Rozdział 4 Rada pracownicza zakładu
+
+### Art. 33.
+
+### 1.
+
+W zakładach i innych wewnętrznych jednostkach organizacyjnych przedsiębiorstwa sporządzających bilans statut samorządu załogi może przewidzieć powoływanie rady pracowniczej zakładu.
+
+### 2.
+
+Statut samorządu załogi może przewidzieć prawo powoływania rady pracowniczej zakładu również i w innych jednostkach organizacyjnych niż określone w ust. 1.
+
+### 3.
+
+Wybory członków rady pracowniczej zakładu odbywają się na zasadach określonych w art. 13-20.
+
+### 4.
+
+Statut samorządu załogi określa, jakie sprawy dotyczące zakładu rada pracownicza przedsiębiorstwa może przekazać radzie pracowniczej zakładu. Przy przekazywaniu spraw należy uwzględnić charakter spraw oraz możliwość ich realizacji.
+
+### 5.
+
+Do członków rady pracowniczej zakładu stosuje się odpowiednio postanowienia art. 6.
+
+### Rozdział 5 Współpraca z innymi organizacjami
+
+### Art. 34.
+
+(uchylony)[10) Przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 1.](#gloss-0:10:)
+
+### Art. 35.
+
+Rady pracownicze przedsiębiorstw mogą się porozumiewać w sprawie współpracy oraz podejmowania wspólnych działań.
+
+### Art. 36.
+
+Jeżeli uchwały organów samorządu załogi lub decyzje dyrektora przedsiębiorstwa dotyczą spraw wchodzących w zakres działania związków zawodowych, przed ich podjęciem organy przedsiębiorstwa obowiązane są umożliwić związkom zawodowym zajęcie w tych sprawach stanowiska zgodnie z ustawą o związkach zawodowych oraz Kodeksem pracy.
+
+### Rozdział 6 Samorząd załogi a dyrektor przedsiębiorstwa
+
+### Art. 37.
+
+### 1.
+
+Dyrektor przedsiębiorstwa uczestniczy w posiedzeniach rady pracowniczej przedsiębiorstwa. Na zaproszenie dyrektor uczestniczy również w posiedzeniach prezydium rady pracowniczej.
+
+### 2.
+
+Dyrektor przedsiębiorstwa wykonuje uchwały rady pracowniczej przedsiębiorstwa dotyczące działalności przedsiębiorstwa.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do kierowników zakładów, w których działają rady pracownicze zakładu.
+
+### Art. 38.
+
+Dyrektor przedsiębiorstwa jest odpowiedzialny przed załogą za prawidłowe prowadzenie przedsiębiorstwa. Dyrektor składa załodze co najmniej raz w roku sprawozdanie z działalności przedsiębiorstwa oraz informację o jego stanie.
+
+### Art. 39.
+
+### 1.
+
+Dyrektor przedsiębiorstwa jest obowiązany zapewnić radzie pracowniczej przedsiębiorstwa możliwość zaznajomienia się z materiałami dotyczącymi działalności przedsiębiorstwa, przedkładać materiały na posiedzenia rady pracowniczej z odpowiednim wyprzedzeniem oraz informować radę o skutkach ekonomicznych, społecznych i prawnych zamierzonych uchwał rady.
+
+### 2.
+
+Dyrektor przedsiębiorstwa jest obowiązany zapewnić samorządowi załogi warunki lokalowe oraz niezbędne środki umożliwiające właściwe jego funkcjonowanie.
+
+### Art. 40.
+
+Radzie pracowniczej przedsiębiorstwa przysługuje prawo wstrzymania wykonania decyzji dyrektora przedsiębiorstwa, o ile decyzja ta jest:
+
+### 1)
+
+sprzeczna z uchwałą rady pracowniczej lub uchwałą ogólnego zebrania pracowników;
+
+### 2)
+
+podjęta bez zasięgnięcia opinii rady pracowniczej w sprawach określonych w art. 25 ust. 2;
+
+### 3)
+
+podjęta bez uchwały rady pracowniczej w sprawach określonych w art. 24 ust. 1;
+
+### 4)
+
+niezgodna z przepisami prawa.
+
+### Art. 41.
+
+### 1.
+
+Dyrektor przedsiębiorstwa wstrzymuje wykonanie uchwały ogólnego zebrania pracowników oraz rady pracowniczej przedsiębiorstwa, niezgodnej z przepisami prawa.
+
+### 2.
+
+W wypadkach wymienionych w ust. 1 dyrektor zwraca się do rady pracowniczej o ponowne rozpatrzenie sprawy.
+
+### 3.
+
+Decyzja dyrektora przedsiębiorstwa o wstrzymaniu wykonania uchwały rady pracowniczej przedsiębiorstwa powinna być wydana na piśmie oraz zawierać uzasadnienie prawne i faktyczne.
+
+### 4.
+
+Do uchwał rady pracowniczej przedsiębiorstwa, o których mowa w art. 40, nie stosuje się przepisów ust. 1-3.
+
+### Art. 42.
+
+### 1.
+
+Rada pracownicza przedsiębiorstwa ma prawo wniesienia do dyrektora przedsiębiorstwa w ciągu siedmiu dni sprzeciwu od decyzji o wstrzymaniu wykonania uchwały rady pracowniczej.
+
+### 2.
+
+Jeżeli, mimo wniesienia sprzeciwu, dyrektor przedsiębiorstwa decyzję podtrzyma albo w ciągu trzech dni nie powiadomi rady pracowniczej przedsiębiorstwa o cofnięciu decyzji, radzie pracowniczej przedsiębiorstwa przysługuje prawo wystąpienia o rozstrzygnięcie sprawy w trybie spornym, określonym w art. 45.
+
+### Art. 43.
+
+### 1.
+
+Prawo wstrzymania wykonania uchwały na zasadach określonych w art. 41 przysługuje kierownikowi zakładu w stosunku do uchwał rady pracowniczej zakładu.
+
+### 2.
+
+Spory spowodowane wstrzymaniem wykonania uchwały przez kierownika zakładu rozstrzyga rada pracownicza przedsiębiorstwa, po wysłuchaniu opinii dyrektora przedsiębiorstwa.
+
+### Art. 44.
+
+### 1.
+
+Radzie pracowniczej przedsiębiorstwa przysługuje prawo zaskarżenia decyzji dyrektora, która istotnie narusza interes ogólnospołeczny.
+
+### 2.
+
+Dyrektorowi przedsiębiorstwa przysługuje prawo zaskarżenia uchwały rady pracowniczej przedsiębiorstwa, która istotnie narusza interes ogólnospołeczny.
+
+### 3.
+
+Spór rozpatruje sąd.
+
+### Rozdział 7 Rozstrzyganie sporów
+
+### Art. 45.
+
+### 1.
+
+Spory pomiędzy radą pracowniczą przedsiębiorstwa a dyrektorem przedsiębiorstwa rozstrzyga komisja rozjemcza, w której skład wchodzą: przedstawiciel rady pracowniczej przedsiębiorstwa i przedstawiciel dyrektora przedsiębiorstwa oraz zaproszony przez nich arbiter posiadający wykształcenie prawnicze - jako przewodniczący.
+
+### 2.
+
+Rada pracownicza przedsiębiorstwa lub dyrektor przedsiębiorstwa zgłaszają do komisji rozjemczej wnioski o rozpatrzenie sprawy w terminie czternastu dni od dnia powzięcia wiadomości o zdarzeniu stanowiącym przyczynę sporu. Komisja rozjemcza orzeczenie rozstrzygające spór wydaje w terminie czternastu dni od dnia zgłoszenia wniosku.
+
+### 3.
+
+Spór uważa się za rozstrzygnięty, jeżeli obie strony zgodziły się na treść orzeczenia komisji rozjemczej.
+
+### Art. 46.
+
+W wypadku nierozstrzygnięcia sporu przez komisję rozjemczą, rada pracownicza przedsiębiorstwa lub dyrektor przedsiębiorstwa w ciągu czternastu dni może wnieść sprawę do sądu.
+
+### Rozdział 8 Piecza Sejmu
+
+### Art. 47.
+
+### 1.
+
+Samorząd załogi przedsiębiorstwa podlega pieczy Sejmu Polskiej Rzeczypospolitej Ludowej [11) Obecnie Rzeczpospolita Polska, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 75, poz. 444), która weszła w życie z dniem 31 grudnia 1989 r.](#gloss-0:11:).
+
+### 2.
+
+Sejm, raz do roku, na podstawie informacji i wniosków właściwych komisji ocenia całokształt działalności samorządu załóg przedsiębiorstw i uchwala odpowiednie zalecenia.
+
+### Rozdział 9 Przepisy przejściowe i końcowe
+
+### Art. 48.
+
+Organizację i funkcjonowanie samorządów załogi w przedsiębiorstwach, o którym mowa w art. 6 ustawy o przedsiębiorstwach państwowych, regulują ustawy dotyczące tych przedsiębiorstw.
+
+### Art. 49[12) W brzmieniu ustalonym przez art. 6 ustawy z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 43, poz. 272), która weszła w życie z dniem 15 maja 1997 r.](#gloss-0:12:).
+
+### 1.
+
+Rada Ministrów określi, w drodze rozporządzenia, zakres stosowania przepisów ustawy do przedsiębiorstw, o których mowa w art. 3 ustawy o przedsiębiorstwach państwowych, oraz do przedsiębiorstw, które w całości lub w części prowadzą działalność poza granicami kraju.
+
+### 2.
+
+Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania w sprawach przedsiębiorstw, o których mowa w ust. 1, a do których na podstawie ust. 1 nie stosuje się przepisów niniejszej ustawy.
+
+### Art. 50.
+
+### 1.
+
+Do czasu uregulowania w drodze odrębnej ustawy sposobu uczestniczenia załóg w zarządzaniu państwowymi organizacjami gospodarczymi, które nie są przedsiębiorstwami - załogi tych jednostek mogą zorganizować uczestniczenie w zarządzaniu na zasadach przewidzianych w niniejszej ustawie.
+
+### 2.
+
+Państwowymi organizacjami gospodarczymi w rozumieniu ust. 1 są instytuty naukowo-badawcze i zakłady budżetowe, pracujące bezpośrednio na rzecz gospodarki narodowej.
+
+### Art. 51.
+
+### 1.
+
+Do dnia 31 grudnia 1981 r. w przedsiębiorstwach państwowych objętych zakresem niniejszej ustawy załogi zorganizują uczestniczenie w zarządzaniu przedsiębiorstwem na zasadach określonych w ustawie oraz uchwalą statut samorządu załogi.
+
+### 2.
+
+Załogi, które w dniu wejścia w życie ustawy uczestniczą w zarządzaniu przedsiębiorstwem według statutu tymczasowego bądź regulaminu, dostosują w terminie do dnia 31 grudnia 1981 r. udział w zarządzaniu przedsiębiorstwem do przepisów niniejszej ustawy; do tego czasu działające w dniu wejścia w życie ustawy organy samorządu załogi wykonują funkcje przewidziane w niniejszej ustawie.
+
+### 3.
+
+W przedsiębiorstwach, w których dotychczas nie działają żadne organy samorządu, pierwsze zebranie zmierzające do powołania samorządu załogi zwołuje dyrektor.
+
+### 4.
+
+Do czasu ukonstytuowania się przewidzianych w ustawie organów samorządu załogi przedsiębiorstwa państwowego ich kompetencje wykonuje dyrektor.
+
+### Art. 52.
+
+Traci moc ustawa z dnia 20 grudnia 1958 r. o samorządzie robotniczym ([Dz. U. Nr 77, poz. 397](https://api.sejm.gov.pl/eli/acts/DU/1958/397/text.html) oraz z [1974 r. Nr 24, poz. 142](https://api.sejm.gov.pl/eli/acts/DU/1974/142/text.html)).
+
+### Art. 53.
+
+Ustawa wchodzi w życie z dniem 1 października 1981 r.
+
+1) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 9 marca 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 17, poz. 99), która weszła w życie z dniem 21 marca 1990 r. 2) W brzmieniu ustalonym przez art. 3 pkt 2 lit. a ustawy, o której mowa w odnośniku 1. 3) W brzmieniu ustalonym przez art. 3 pkt 1 lit. a ustawy z dnia 20 grudnia 1990 r. o zmianie ustawy o przedsiębiorstwach państwowych oraz o zmianie niektórych innych ustaw (Dz. U. z 1991 r. Nr 2, poz. 6), która weszła w życie z dniem 7 stycznia 1991 r. 4) Ze zmianą wprowadzoną przez art. 3 pkt 1 lit. b ustawy, o której mowa w odnośniku 3. 5) W brzmieniu ustalonym przez art. 3 pkt 2 lit. c ustawy, o której mowa w odnośniku 1. 6) Przez art. 32 ustawy z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw (Dz. U. Nr 24, poz. 110), która weszła w życie z dniem 2 czerwca 1996 r. 7) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 3. 8) Dodany przez art. 20 ustawy z dnia 7 kwietnia 2006 r. o informowaniu pracowników i przeprowadzaniu z nimi konsultacji (Dz. U. Nr 79, poz. 550), która weszła w życie z dniem 25 maja 2006 r. 9) Ze zmianą wprowadzoną przez art. 71 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. Nr 118, poz. 561), który wszedł w życie z dniem 22 października 1996 r. 10) Przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 1. 11) Obecnie Rzeczpospolita Polska, na podstawie art. 1 pkt 8 ustawy z dnia 29 grudnia 1989 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej (Dz. U. Nr 75, poz. 444), która weszła w życie z dniem 31 grudnia 1989 r. 12) W brzmieniu ustalonym przez art. 6 ustawy z dnia 19 marca 1997 r. o zmianie niektórych upoważnień do wydawania aktów wykonawczych (Dz. U. Nr 43, poz. 272), która weszła w życie z dniem 15 maja 1997 r.

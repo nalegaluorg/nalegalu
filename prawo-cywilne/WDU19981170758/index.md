@@ -8,11 +8,9 @@ pos: 758
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo przewozowe
-
-*USTAWA z dnia 24 lipca 1998 r.*
+# Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo przewozowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +22,102 @@ domain: null
 | Data ogłoszenia | 1998-07-24 |
 | Data wydania | 1998-09-09 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981170758) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/758/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1998/758/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1998/758) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040 oraz z 1998 r. Nr 106, poz. 668) (cid:1)(cid:2)(cid:3)(cid:4)(cid:1)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:9)(cid:10)(cid:11)(cid:8)(cid:12)(cid:5)(cid:9)(cid:13)(cid:11)(cid:2)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:8)(cid:7)(cid:19)(cid:10)(cid:5)(cid:12)(cid:20)(cid:21)
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe (Dz.U. z 1995 r. Nr 119, poz. 575, z 1997 r. Nr 23, poz. 117, Nr 96, poz. 591, Nr 101, poz. 629 i Nr 141, poz. /.%(cid:8)(cid:4)(cid:3)(cid:5)(cid:7)(cid:8)(cid:7)(cid:8)*//-(cid:8)(cid:3)#(cid:8)7(cid:3)(cid:8)*89(cid:29)(cid:8)(cid:2)(cid:4)(cid:7)#(cid:8)99-:(cid:8)(cid:1)(cid:8)(cid:5)(cid:3)(cid:13)#(cid:8)9’(cid:8)(cid:14)(cid:9)(cid:13)#(cid:8)%;5(cid:8)(cid:4)(cid:13)(cid:3)(cid:7)(cid:20)(cid:19)(cid:14)(cid:15)(cid:16)(cid:8)(cid:23)(cid:3)(cid:7)(cid:19)(cid:10)(cid:18)(cid:12)(cid:10)(cid:18)(cid:21) <%#(cid:8)6(cid:3)(cid:7)(cid:18)(cid:1)(cid:4)=(cid:12)(cid:10)(cid:24)(cid:8)(cid:4)(cid:6)(cid:2)(cid:4)(cid:1)(cid:10)(cid:5)(cid:6)(cid:5)(cid:8)(cid:7)(cid:5)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:1)(cid:4)!(cid:4)(cid:12)(cid:18)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:7)(cid:8)(cid:2)(cid:4)(cid:6)(cid:3)"!(cid:12)(cid:18)(cid:28)(cid:4)(cid:8)(cid:3)(cid:7)(cid:18)(cid:17)(cid:7)(cid:20)(cid:8)(cid:15)(cid:5)(cid:24)(cid:8)(cid:7)(cid:5) (cid:2)(cid:3)(cid:7)(cid:18)(cid:9)(cid:20)(cid:27)(cid:24)(cid:11)(cid:29)(cid:8)(cid:15)(cid:18)!(cid:18)(cid:26)(cid:10)(cid:8)(cid:2)(cid:4)(cid:6)(cid:3)"!(cid:12)(cid:20)(cid:8)(cid:14)(cid:19)(cid:10)(cid:18)(cid:31)(cid:17)(cid:10)(cid:8)(cid:15)(cid:18)(cid:29)(cid:8)(cid:23)(cid:18)(cid:7)(cid:8)(cid:19)(cid:4)!(cid:26)(cid:10)(cid:1)(cid:4)(cid:31)(cid:17)(cid:10)(cid:8)(cid:9)(cid:2)(cid:3)(cid:5)(cid:1)(cid:4)(cid:1)(cid:5)(cid:12)(cid:10)(cid:5)(cid:8)(cid:12)(cid:5)(cid:6) (cid:12)(cid:10)(cid:19)(cid:10)(cid:8)(cid:9)(cid:13)(cid:5)(cid:27)(cid:18)(cid:28)(cid:4)(cid:8)(cid:12)(cid:5)(cid:6)(cid:7)(cid:4)(cid:3)(cid:14)(cid:29)(cid:8)(cid:1)(cid:8)(cid:19)(cid:10)(cid:18)(cid:15)(cid:9)(cid:17)(cid:14)(cid:8)(cid:1)(cid:9)(cid:24)(cid:5)(cid:7)(cid:5)(cid:12)(cid:20)(cid:19)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:7)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:1)(cid:4)=(cid:12)(cid:10)(cid:24)(cid:5)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:12)(cid:5) ten cel przeznaczonym. ’#(cid:8) 6(cid:3)(cid:4)(cid:1)(cid:5)(cid:6)(cid:7)(cid:16)(cid:17)(cid:20)(cid:8) (cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:9)(cid:10)(cid:11)(cid:23)(cid:10)(cid:4)(cid:3)(cid:9)(cid:13)(cid:1)(cid:4)(cid:8) (cid:18)(cid:24)(cid:9)(cid:2)(cid:26)(cid:4)(cid:5)(cid:13)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:8) (cid:31)(cid:3)(cid:4)(cid:6)(cid:24)(cid:10)(cid:8) (cid:13)(cid:3)(cid:5)(cid:12)(cid:9)(cid:2)(cid:4)(cid:3)(cid:13)(cid:4)(cid:1)(cid:18) z (cid:8)(cid:2)(cid:4)(cid:19)(cid:10)(cid:18)(cid:9)(cid:7)(cid:17)(cid:7)(cid:18)(cid:12)(cid:10)(cid:5)(cid:19)(cid:10)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:7)(cid:12)(cid:5)(cid:17)(cid:7)(cid:4)(cid:12)(cid:20)(cid:19)(cid:10)(cid:8)(cid:6)(cid:4)(cid:8)(cid:9)(cid:2)(cid:5)(cid:12)(cid:10)(cid:5)(cid:8)(cid:2)(cid:4)(cid:12)(cid:4)(cid:9)(cid:10)(cid:8)(cid:4)(cid:6)(cid:2)(cid:4)(cid:1)(cid:10)(cid:18)(cid:6)(cid:7)(cid:10)(cid:5)(cid:26)(cid:12)(cid:4)(cid:31)( (cid:4)(cid:24)(cid:3)(cid:18)(cid:31)(cid:26)(cid:4)(cid:12)(cid:16)(cid:8)(cid:1)(cid:8)(cid:14)(cid:9)(cid:13)#(cid:8)%(cid:8)(cid:7)(cid:5)(cid:8)(cid:3)(cid:7)(cid:18)(cid:17)(cid:7)(cid:20)(cid:8)(cid:7)(cid:5)(cid:7)(cid:1)(cid:20)(cid:17)(cid:7)(cid:5)(cid:15)(cid:8)(cid:1)(cid:12)(cid:4)(cid:9)(cid:7)(cid:4)(cid:12)(cid:18)(cid:8)(cid:6)(cid:4)(cid:8)(cid:13)(cid:5)(cid:24)(cid:10)(cid:17)(cid:25)(cid:8)(cid:2)(cid:4)(cid:19)(cid:10)(cid:18)(cid:9)(cid:7)(cid:17)(cid:7)(cid:18)4# 0(cid:5)(cid:8)(cid:10)(cid:12)(cid:12)(cid:18)(cid:8)(cid:3)(cid:7)(cid:18)(cid:17)(cid:7)(cid:20)(cid:8)(cid:4)(cid:6)(cid:2)(cid:4)(cid:1)(cid:10)(cid:18)(cid:6)(cid:7)(cid:10)(cid:5)(cid:26)(cid:12)(cid:4)(cid:31)((cid:8)(cid:2)(cid:3)(cid:4)(cid:1)(cid:5)(cid:6)(cid:7)(cid:16)(cid:17)(cid:18)(cid:28)(cid:4)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:9)(cid:10)(cid:11)(cid:23)(cid:10)(cid:4)(cid:3)(cid:9)(cid:13)(cid:1)(cid:4)(cid:8)(cid:4)(cid:28)(cid:3) a(cid:12)(cid:10)(cid:17)(cid:7)(cid:5)(cid:8)(cid:9)(cid:10)(cid:11)(cid:8)(cid:6)(cid:4)(cid:8)(cid:1)(cid:20)(cid:2)(cid:5)(cid:6)(cid:24)(cid:14)(cid:29)(cid:8)(cid:28)(cid:6)(cid:20)(cid:8)(cid:2)(cid:3)(cid:7)(cid:20)(cid:15)(cid:16)(cid:27)(cid:8)(cid:15)(cid:18)(cid:8)(cid:12)(cid:5)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:17)(cid:25)(cid:4)(cid:1)(cid:5)(cid:12)(cid:10)(cid:18)(cid:8)(cid:5)(cid:26)(cid:23)(cid:4)(cid:8)(cid:28)(cid:6)(cid:20)(cid:8)(cid:9)(cid:7)(cid:24)(cid:4)(cid:6)(cid:5) (cid:1)(cid:20)(cid:12)(cid:10)(cid:24)(cid:27)(cid:5)(cid:8)(cid:7)(cid:8)(cid:1)(cid:10)(cid:12)(cid:20)(cid:8)(cid:14)(cid:19)(cid:20)(cid:31)(cid:26)(cid:12)(cid:18)(cid:15)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:3)(cid:5)!(cid:16)(cid:17)(cid:18)(cid:28)(cid:4)(cid:8)(cid:12)(cid:10)(cid:18)(cid:6)(cid:23)(cid:5)(cid:26)(cid:9)(cid:13)(cid:1)(cid:5)(cid:8)(cid:15)(cid:18)(cid:28)(cid:4)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:4)(cid:9)(cid:4)(cid:23)(cid:20)(cid:8)(cid:14)(cid:8)(cid:12)(cid:10)ego zatrudnionej. .#(cid:8))(cid:20)(cid:9)(cid:4)(cid:24)(cid:4)(cid:31)((cid:8)(cid:4)(cid:6)(cid:9)(cid:7)(cid:24)(cid:4)(cid:6)(cid:4)(cid:1)(cid:5)(cid:12)(cid:10)(cid:5)(cid:8)(cid:12)(cid:5)(cid:26)(cid:18)!(cid:12)(cid:18)(cid:28)(cid:4)(cid:8)(cid:4)(cid:6)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:1)(cid:4)=(cid:12)(cid:10)(cid:24)(cid:5)(cid:8)(cid:5)(cid:26)(cid:23)(cid:4)(cid:8)(cid:2)(cid:3)(cid:4)(cid:1)(cid:5)(cid:6)(cid:7)(cid:16)(cid:17)(cid:18)(cid:28)(cid:4) (cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:9)(cid:10)(cid:11)(cid:23)(cid:10)(cid:4)(cid:3)(cid:9)(cid:13)(cid:1)(cid:4)(cid:8)(cid:18)(cid:24)(cid:9)(cid:2)(cid:26)(cid:4)(cid:5)(cid:13)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:8)(cid:31)(cid:3)(cid:4)(cid:6)(cid:24)(cid:10)(cid:8)(cid:13)(cid:3)(cid:5)(cid:12)(cid:9)(cid:2)(cid:4)(cid:3)(cid:13)(cid:4)(cid:1)(cid:18)(cid:8)(cid:7)(cid:8)(cid:2)(cid:4)(cid:19)(cid:10)(cid:18)(cid:9)(cid:7)(cid:17)(cid:7)(cid:18)(cid:12)(cid:10)(cid:5)(cid:19)(cid:10) (cid:2)(cid:3)(cid:7)(cid:18)(cid:7)(cid:12)(cid:5)(cid:17)(cid:7)(cid:4)(cid:12)(cid:20)(cid:19)(cid:10)(cid:8)(cid:6)(cid:4)(cid:8)(cid:9)(cid:2)(cid:5)(cid:12)(cid:10)(cid:5)(cid:8)(cid:7)(cid:5)(cid:8)(cid:14)(cid:13)(cid:3)(cid:5)(cid:13)(cid:11)(cid:29)(cid:8)(cid:14)(cid:23)(cid:20)(cid:13)(cid:18)(cid:24)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:14)(cid:9)(cid:7)(cid:24)(cid:4)(cid:6)(cid:7)(cid:18)(cid:12)(cid:10)(cid:18)(cid:8)(cid:3)(cid:7)(cid:18)(cid:17)(cid:7)(cid:20)(cid:8)(cid:1)y(cid:19)(cid:10)(cid:18)(cid:12)(cid:10)(cid:4)(cid:12)(cid:20)(cid:17)(cid:25)(cid:8)(cid:1)(cid:8)(cid:14)(cid:9)(cid:13)#(cid:8)*;’(cid:8)(cid:12)(cid:10)(cid:18)(cid:8)(cid:19)(cid:4)!(cid:18)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:1)(cid:20)!(cid:9)(cid:7)(cid:5)((cid:8)(cid:7)(cid:1)(cid:20)(cid:24)(cid:27)(cid:18)(cid:15)(cid:8)(cid:1)(cid:5)(cid:3)(cid:13)(cid:4)(cid:31)(cid:17)(cid:10)(cid:8)(cid:3)(cid:7)(cid:18)(cid:17)(cid:7)(cid:20)# 5#(cid:8) 6(cid:3)(cid:7)(cid:18)(cid:1)(cid:4)=(cid:12)(cid:10)(cid:24)(cid:8) (cid:5)(cid:26)(cid:23)(cid:4)(cid:8) (cid:2)(cid:3)(cid:4)(cid:1)(cid:5)(cid:6)(cid:7)(cid:16)(cid:17)(cid:20)(cid:8) (cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:9)(cid:10)(cid:11)(cid:23)(cid:10)(cid:4)(cid:3)(cid:9)(cid:13)(cid:1)(cid:4)(cid:8) (cid:18)(cid:24)(cid:9)(cid:2)(cid:26)(cid:4)(cid:5)(cid:13)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:8) (cid:31)(cid:3)(cid:4)(cid:6)(cid:24)(cid:10) transportowe z pomieszczeniami przeznaczonymi do spania nie ponosi (cid:4)(cid:6)(cid:2)(cid:4)(cid:1)(cid:10)(cid:18)(cid:6)(cid:7)(cid:10)(cid:5)(cid:26)(cid:12)(cid:4)(cid:31)(cid:17)(cid:10)(cid:8)(cid:7)(cid:5)(cid:8)(cid:14)(cid:13)(cid:3)(cid:5)(cid:13)(cid:11)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:14)(cid:9)(cid:7)(cid:24)(cid:4)(cid:6)(cid:7)(cid:18)(cid:12)(cid:10)(cid:18)(cid:8)(cid:2)(cid:10)(cid:18)(cid:12)(cid:10)(cid:11)(cid:6)(cid:7)(cid:20)(cid:29)(cid:8)(cid:2)(cid:5)(cid:2)(cid:10)(cid:18)(cid:3)"(cid:1)(cid:8)(cid:1)(cid:5)(cid:3)(cid:13)o(cid:31)(cid:17)(cid:10)(cid:4)(cid:1)(cid:20)(cid:17)(cid:25)(cid:8)(cid:10)(cid:8)(cid:17)(cid:18)(cid:12)(cid:12)(cid:20)(cid:17)(cid:25)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:19)(cid:10)(cid:4)(cid:13)"(cid:1)(cid:29)(cid:8)(cid:1)(cid:8)(cid:9)(cid:7)(cid:17)(cid:7)(cid:18)(cid:28)"(cid:26)(cid:12)(cid:4)(cid:31)(cid:17)(cid:10)(cid:8)(cid:24)(cid:4)(cid:9)(cid:7)(cid:13)(cid:4)(cid:1)(cid:12)(cid:4)(cid:31)(cid:17)(cid:10)(cid:8)(cid:5)(cid:26)(cid:23)(cid:4) (cid:2)(cid:3)(cid:7)(cid:18)(cid:6)(cid:19)(cid:10)(cid:4)(cid:13)"(cid:1)(cid:8)(cid:19)(cid:5)(cid:15)(cid:16)(cid:17)(cid:20)(cid:17)(cid:25)(cid:8)(cid:1)(cid:5)(cid:3)(cid:13)(cid:4)(cid:31)((cid:8)(cid:12)(cid:5)(cid:14)(cid:24)(cid:4)(cid:1)(cid:16)(cid:8)(cid:26)(cid:14)(cid:23)(cid:8)(cid:5)(cid:3)(cid:13)(cid:20)(cid:9)(cid:13)(cid:20)(cid:17)(cid:7)(cid:12)(cid:16)(cid:29)(cid:8)(cid:17)(cid:25)(cid:20)(cid:23)(cid:5)(cid:8)!(cid:18)(cid:8)(cid:3)(cid:7)e(cid:17)(cid:7)(cid:20)(cid:8)(cid:13)(cid:18)(cid:8)(cid:2)(cid:3)(cid:7)(cid:20)(cid:15)(cid:16)(cid:27)(cid:8)(cid:12)(cid:5)(cid:8)(cid:2)(cid:3)(cid:7)(cid:18)(cid:17)(cid:25)(cid:4)(cid:1)(cid:5)(cid:12)(cid:10)(cid:18)(cid:8)(cid:5)(cid:26)(cid:23)(cid:4)(cid:8)(cid:9)(cid:7)(cid:24)(cid:4)(cid:6)(cid:5)(cid:8)(cid:1)(cid:20)(cid:12)(cid:10)(cid:24)(cid:27)(cid:5)(cid:8)(cid:7)(cid:8)(cid:1)(cid:10)(cid:12)(cid:20)(cid:8)(cid:14)(cid:19)(cid:20)(cid:31)(cid:26)(cid:12)(cid:18)(cid:15)(cid:8)(cid:26)(cid:14)(cid:23) (cid:3)(cid:5)!(cid:16)cego niedbalstwa jego lub osoby u niego zatrudnionej.”.
+### Art. 1.
 
-**Art. 3.** (cid:22)(cid:9)(cid:13)(cid:5)(cid:1)(cid:5)(cid:8)(cid:1)(cid:17)(cid:25)(cid:4)(cid:6)(cid:7)(cid:10)(cid:8)(cid:1)(cid:8)!(cid:20)(cid:17)(cid:10)(cid:18)(cid:8)(cid:2)(cid:4)(cid:8)(cid:14)(cid:2)(cid:27)(cid:20)(cid:1)(cid:10)(cid:18)(cid:8)*.(cid:8)(cid:6)(cid:12)(cid:10)(cid:8)(cid:4)(cid:6)(cid:8)(cid:6)(cid:12)(cid:10)(cid:5)(cid:8)(cid:4)(cid:28)(cid:27)(cid:4)(cid:9)(cid:7)enia.
+W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z [1971 r. Nr 27, poz. 252](https://api.sejm.gov.pl/eli/acts/DU/1971/252/text.html), z [1976 r. Nr 19, poz. 122](https://api.sejm.gov.pl/eli/acts/DU/1976/122/text.html), z [1982 r. Nr 11, poz. 81](https://api.sejm.gov.pl/eli/acts/DU/1982/81/text.html), [Nr 19, poz. 147](https://api.sejm.gov.pl/eli/acts/DU/1982/147/text.html) i [Nr 30, poz. 210](https://api.sejm.gov.pl/eli/acts/DU/1982/210/text.html), z [1984 r. Nr 45, poz. 242](https://api.sejm.gov.pl/eli/acts/DU/1984/242/text.html), z [1985 r. Nr 22, poz. 99](https://api.sejm.gov.pl/eli/acts/DU/1985/99/text.html), z [1989 r. Nr 3, poz. 11](https://api.sejm.gov.pl/eli/acts/DU/1989/11/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), [Nr 55, poz. 321](https://api.sejm.gov.pl/eli/acts/DU/1990/321/text.html) i [Nr 79, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1990/464/text.html), z [1991 r. Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1993 r. Nr 17, poz. 78](https://api.sejm.gov.pl/eli/acts/DU/1993/78/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), [Nr 85, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/1994/388/text.html) i [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 83, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1995/417/text.html), z [1996 r. Nr 114, poz. 542](https://api.sejm.gov.pl/eli/acts/DU/1996/542/text.html), [Nr 139, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1996/646/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html), z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 115, poz. 741](https://api.sejm.gov.pl/eli/acts/DU/1997/741/text.html), [Nr 117, poz. 751](https://api.sejm.gov.pl/eli/acts/DU/1997/751/text.html) i [Nr 157, poz. 1040](https://api.sejm.gov.pl/eli/acts/DU/1997/1040/text.html) oraz z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)) wprowadza się następujące zmiany:
 
+### 1)
+
+art. 846 otrzymuje brzmienie:
+
+„
+
+### Art. 846.
+
+### § 1.
+
+Utrzymujący zarobkowo hotel lub podobny zakład jest odpowiedzialny za utratę lub uszkodzenie rzeczy wniesionych przez osobę korzystającą z usług hotelu lub podobnego zakładu, zwaną dalej „gościem”, chyba że szkoda wynikła z właściwości rzeczy wniesionej lub wskutek siły wyższej albo że powstała wyłącznie z winy poszkodowanego lub osoby, która mu towarzyszyła, była u niego zatrudniona albo go odwiedzała.
+
+### § 2.
+
+Rzeczą wniesioną w rozumieniu przepisów tytułu niniejszego jest rzecz, która w czasie korzystania przez gościa z usług hotelu lub podobnego zakładu znajduje się w tym hotelu lub podobnym zakładzie albo znajduje się poza nim, a została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym.
+
+### § 3.
+
+Rzeczą wniesioną jest również rzecz, która w krótkim, zwyczajowo przyjętym okresie poprzedzającym lub następującym po tym, kiedy gość korzystał z usług hotelu lub podobnego zakładu, została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym.
+
+### § 4.
+
+Pojazdów mechanicznych i rzeczy w nich pozostawionych oraz żywych zwierząt nie uważa się za rzeczy wniesione. Utrzymujący zarobkowo hotel lub podobny zakład może za nie odpowiadać jako przechowawca, jeżeli została zawarta umowa przechowania.
+
+### § 5.
+
+Wyłączenie lub ograniczenie odpowiedzialności, o której mowa w § 1, przez umowę lub ogłoszenie nie ma skutku prawnego,
+
+” ;
+
+### 2)
+
+art. 849 otrzymuje brzmienie:
+
+„
+
+### Art. 849.
+
+### § 1.
+
+Zakres obowiązku naprawienia szkody przez utrzymującego zarobkowo hotel lub podobny zakład w wypadku utraty lub uszkodzenia rzeczy wniesionych ogranicza się, względem jednego gościa, do wysokości stokrotnej należności za dostarczone mu mieszkanie, liczonej za jedną dobę. Jednakże odpowiedzialność za każdą rzecz nie może przekraczać pięćdziesięciokrotnej wysokości tej należności.
+
+### § 2.
+
+Ograniczenia zakresu obowiązku naprawienia szkody nie dotyczą wypadku, gdy utrzymujący zarobkowo hotel lub podobny zakład przyjął rzeczy na przechowanie albo odmówił ich przyjęcia na przechowanie, mimo że obowiązany był je przyjąć, jak również wypadku, gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej.
+
+### § 3.
+
+Utrzymujący zarobkowo hotel lub podobny zakład jest obowiązany przyjąć na przechowanie pieniądze, papiery wartościowe i cenne przedmioty, w szczególności kosztowności i przedmioty mające wartość naukową lub artystyczną. Może odmówić przyjęcia tych rzeczy tylko wówczas, jeżeli zagrażają one bezpieczeństwu albo jeżeli w stosunku do wielkości lub standardu hotelu albo podobnego zakładu mają zbyt dużą wartość lub gdy zajmują zbyt dużo miejsca.
+
+” ;
+
+### 3)
+
+art. 852 otrzymuje brzmienie:
+
+„
+
+### Art. 852.
+
+Przepisy o odpowiedzialności i ustawowym prawie zastawu utrzymującego zarobkowo hotel lub podobny zakład stosuje się odpowiednio do zakładów kąpielowych. Jednakże co się tyczy przedmiotów, które zazwyczaj nie bywają wnoszone przez osoby korzystające z usług tych zakładów, odpowiedzialność prowadzącego zakład ogranicza się do wypadku, gdy przyjął taki przedmiot na przechowanie albo gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego albo osoby u niego zatrudnionej.
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe ([Dz. U. z 1995 r. Nr 119, poz. 575](https://api.sejm.gov.pl/eli/acts/DU/1995/575/text.html), z [1997 r. Nr 23, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1997/117/text.html), [Nr 96, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1997/591/text.html), [Nr 101, poz. 629](https://api.sejm.gov.pl/eli/acts/DU/1997/629/text.html) i [Nr 141, poz. 942](https://api.sejm.gov.pl/eli/acts/DU/1997/942/text.html) oraz z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)) w art. 63 ust. 2-5 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Przewoźnik odpowiada za przewożone przez podróżnego rzeczy jak za przesyłkę, jeżeli podróżny umieści je, bez możliwości sprawowania nad nimi stałego nadzoru, w miejscu wskazanym przez przewoźnika lub na ten cel przeznaczonym.
+
+### 3.
+
+Prowadzący przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania ponosi odpowiedzialność określoną w ust. 2 za rzeczy zazwyczaj wnoszone do takich pomieszczeń. Za inne rzeczy odpowiedzialność prowadzącego przedsiębiorstwo ogranicza się do wypadku, gdy przyjął je na przechowanie albo gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej.
+
+### 4.
+
+Wysokość odszkodowania należnego od przewoźnika albo prowadzącego przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania za utratę, ubytek lub uszkodzenie rzeczy wymienionych w ust. 1-3 nie może przewyższać zwykłej wartości rzeczy.
+
+### 5.
+
+Przewoźnik albo prowadzący przedsiębiorstwo eksploatujące środki transportowe z pomieszczeniami przeznaczonymi do spania nie ponosi odpowiedzialności za utratę lub uszkodzenie pieniędzy, papierów wartościowych i cennych przedmiotów, w szczególności kosztowności albo przedmiotów mających wartość naukową lub artystyczną, chyba że rzeczy te przyjął na przechowanie albo szkoda wynikła z winy umyślnej lub rażącego niedbalstwa jego lub osoby u niego zatrudnionej.
+
+”
+
+### Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

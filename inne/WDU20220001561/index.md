@@ -8,11 +8,9 @@ pos: 1561
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie niektórych ustaw zakresie sposobu finansowania programów mieszkaniowych
-
-*USTAWA z dnia 7 lipca 2022 r.*
+# Ustawa z dnia 7 lipca 2022 r. o zmianie niektórych ustaw w zakresie sposobu finansowania programów mieszkaniowych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ustawę z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw, ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości, ustawę z dnia 1 października 2021 r. o gwarantowanym kredycie mieszkaniowym, ustawę z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,168 +22,1990 @@ domain: null
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-07-26 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1561/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1561) |
 
-**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2022 r. poz. 559, 583, 1005 i 1079) art. 9 uchyla się ust. 2a.
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm. ) art. 21 ust. 1 pkt 131a wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, z późn. zm. ) art. 17 ust. 1:
+W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2022 r. poz. 559](https://api.sejm.gov.pl/eli/acts/DU/2022/559/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [1005](https://api.sejm.gov.pl/eli/acts/DU/2022/1005/text.html) i [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html)) w art. 9 uchyla się ust. 2a.
 
-**Art. 5.** W ustawie z dnia 30 listopada 1995 r. o pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. z 2022 r. poz. 1202) art. 3 ust. 1 pkt 9 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+### Art. 2.
 
-**Art. 6.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2021 r. poz. 1208) wprowadza się następujące zmiany:
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2021 r. poz. 1128](https://api.sejm.gov.pl/eli/acts/DU/2021/1128/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459 i 1512.](#gloss-0:2:)) w art. 21 w ust. 1 w pkt 131a wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
 
-**Art. 7.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2022 r. poz. 172 i 975) wprowadza się następujące zmiany:
+### Art. 3.
 
-**Art. 8.** W ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2021 r. poz. 2021) art. 6 ust. 4 pkt 1a wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2021 r. poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2021/1800/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872, 1079 i 1265.](#gloss-0:3:)) w art. 17 w ust. 1:
 
-**Art. 9.** W ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2022 r. poz. 101) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 10.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2022 r. poz. 931, 974, 1137, 1301 i 1488) art. 43 ust. 1 pkt 36 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+w pkt 44 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
 
-**Art. 11.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2022 r. poz. 690, 830, 1079 i 1383) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 12.** W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób nabywaniu własnego mieszkania (Dz. U. z 2021 r. poz. 403) art. 7 po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Dopłata, o której mowa ust. 1, nie może być wyższa niż kwota odsetek należnych instytucji ustawowo upoważnionej do udzielania kredytów z tytułu spłaty raty odsetkowej lub kapitałowo-odsetkowej kredytu preferencyjnego.”.
+w pkt 61 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
 
-**Art. 13.** W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2022 r. poz. 377) wprowadza się następujące zmiany:
+### Art. 4.
 
-**Art. 8b.**
+W ustawie z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego ([Dz. U. z 2021 r. poz. 2224](https://api.sejm.gov.pl/eli/acts/DU/2021/2224/text.html) oraz [z 2022 r. poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html)) wprowadza się następujące zmiany:
 
-1. Finansowe wsparcie jest udzielane danym roku do łącznej wysokości środków budżetu państwa zaplanowanych na dany rok na zasilenie Funduszu Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia oraz wolnych środków tego funduszu.
+### 1)
 
-2. Do dnia 30 czerwca danego roku finansowego wsparcia na realizację przedsięwzięć, o których mowa w:
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o społecznych formach rozwoju mieszkalnictwa ” ;
 
-- **1)** art. 3, art. 4 lub art. 5a – udziela się do wysokości 40%,
-- **2)** art. 5 ust. 1 pkt 1–3 – udziela się do wysokości 35%,
-- **3)** art. 5 ust. 1 pkt 4 – udziela się do wysokości 15%,
-- **4)** art. 5c – udziela się do wysokości 10% – łącznej wysokości środków, o których mowa ust. 1.
+### 2)
 
-3. Do dnia 31 stycznia danego roku Bank ogłasza Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o łącznej wysokości środków, o których mowa ust. 1.
+w art. 15 w ust. 1 w zdaniu drugim wyraz „odrębnego” zastępuje się wyrazem „osobistego”;
 
-4. W przypadku gdy łączna kwota wynikająca z wniosków o finansowe wsparcie zakwalifikowanych do udzielenia finansowego wsparcia danym roku osiągnie równowartość łącznej wysokości środków, o których mowa ust. 1, Bank wstrzymuje kwalifikację wniosków o finansowe wsparcie.
+### 3)
 
-5. W przypadku gdy do dnia 30 czerwca danego roku kwota wynikająca z zakwalifikowanych danym roku wniosków o finansowe wsparcie na przedsięwzięcia, o których mowa w:
+w art. 15a:
 
-- **1)** art. 3, art. 4 lub art. 5a, osiągnie wysokość, o której mowa ust. 2 pkt 1,
-- **2)** art. 5 ust. 1 pkt 1–3, osiągnie wysokość, o której mowa ust. 2 pkt 2,
-- **4)** art. 5c, osiągnie wysokość, o której mowa ust. 2 pkt 4 – Bank wstrzymuje kwalifikację wniosków o finansowe wsparcie danego rodzaju przedsięwzięć.
+### a)
 
-6. W przypadkach, o których mowa ust. 4 lub 5, Bank ogłasza Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o wstrzymaniu kwalifikacji wniosków o finansowe wsparcie lub wniosków o finansowe wsparcie danego rodzaju przedsięwzięć.
+w ust. 2b wyrazy „i ust. 2a” zastępuje się wyrazami „, ust. 2a i 2b”,
 
-7. Jeżeli kwota finansowego wsparcia wynikająca z rozpatrywanego wniosku o finansowe wsparcie jest wyższa niż łączna wysokość środków, o których mowa ust. 1, Bank za zgodą beneficjenta wsparcia kwalifikuje ten wniosek zakresie pozwalającym na udzielenie finansowego wsparcia danym roku do łącznej wysokości środków, o których mowa ust. 1. W takim przypadku wniosek o finansowe wsparcie pozostałym zakresie jest kwalifikowany do udzielenia finansowego wsparcia roku następnym.
+### b)
 
-8. Przepis ust. 7 stosuje się również przypadkach, o których mowa ust. 5, z tym że wniosek o finansowe wsparcie pozostałym zakresie jest kwalifikowany do udzielenia finansowego wsparcia od dnia 1 lipca danego roku, jeżeli Funduszu Dopłat znajdują się wolne środki lub nie zostały wykorzystane środki budżetowe zaplanowane na ten rok.
+uchyla się ust. 4a;
 
-9. Wnioski o finansowe wsparcie niezakwalifikowane z powodu osiągnięcia łącznej wysokości środków danym roku, o których mowa ust. 1, Bank kwalifikuje do udzielenia finansowego wsparcia roku następnym pierwszej kolejności.
+### 4)
 
-10. Wnioski o finansowe wsparcie będące trakcie rozpatrywania momencie osiągnięcia łącznej wysokości środków danym roku, o których mowa ust. 1, Bank kwalifikuje do udzielenia finansowego wsparcia roku następnym – po uprzednim zakwalifikowaniu wniosków, o których mowa ust. 9. Przepisy art. 8 ust. 4–9 stosuje się.
+w art. 15b:
 
-11. Wnioski o finansowe wsparcie będące dniu 30 czerwca danego roku trakcie rozpatrywania Bank kwalifikuje do udzielenia finansowego wsparcia od dnia 1 lipca danego roku pierwszej kolejności. Przepisy art. 8 ust. 4–9 stosuje się.
+### a)
 
-12. Wnioski o finansowe wsparcie niezakwalifikowane do dnia 30 czerwca danego roku z powodu osiągnięcia wysokości środków, o których mowa ust. 2, Bank kwalifikuje do udzielenia finansowego wsparcia od dnia 1 lipca danego roku – po uprzednim zakwalifikowaniu wniosków, o których mowa ust. 11.
+w ust. 2a wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”,
 
-13. W przypadku gdy po ogłoszeniu danym roku komunikatu, o którym mowa ust. 6, a przed dniem 30 września tego roku zostaną uwolnione znajdujące się Funduszu Dopłat środki, Bank wznawia kwalifikację wniosków o finansowe wsparcie, z uwzględnieniem ust. 7.”;
+### b)
 
-- **12)** art. 12 ust. 1 skreśla się wyrazy „rok i”;
-- **13)** użyte art. 12a ust. 1 oraz art. 16 ust. 1 i 1a, różnej liczbie i różnym przypadku, wyrazy „ wniosek, o którym mowa art. 8” zastępuje się użytymi odpowiedniej liczbie i odpowiednim przypadku wyrazami „wniosek o finansowe wsparcie”;
-- **14)** art. 13: o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” – przypadku, o którym mowa art. 5c ust. 1 pkt 5 i ust. 1a pkt 2.”,
-    - **a)** użyte ust. 1 pkt 1 oraz ust. 1a pkt 1 wyrazy „gruntu stanowiącego własność inwestora” zastępuje się wyrazami „prawa własności albo prawa użytkowania wieczystego gruntu będącego we władaniu inwestora”,
-    - **b)** ust. 6: ‒ pkt 2 po wyrazach „pkt 2” dodaje się wyrazy „i ust. 1a pkt 1”, ‒ pkt 5 otrzymuje brzmienie: „5) ceny nieruchomości zbytej przez gminę na zasadach określonych ustawie z dnia 16 grudnia 2020 r.
-    - **c)** dodaje się ust. 7–11 brzmieniu: „7. Wysokość finansowego wsparcia na realizację przedsięwzięcia infrastrukturalnego nie może przekroczyć 10 000 000 zł.
+w ust. 3 zdanie drugie otrzymuje brzmienie: „ Do okresu kredytowania wlicza się okres karencji w spłacie kapitału. ” ;
 
-8. W przypadku wzrostu kosztów przedsięwzięcia, na które udzielono finansowego wsparcia, kwota finansowego wsparcia określona umowie, o której mowa art. 12 ust. 1, podlega aktualizacji, jednak nie więcej niż o wartość 20% kosztów przedsięwzięcia, na podstawie których kwotę tę określono.
+### 5)
 
-9. Aktualizacji, o której mowa ust. 8, dokonuje się na wniosek beneficjenta wsparcia złożony do Banku przed dniem przedłożenia rozliczenia, o którym mowa art. 18 ust. 1 pkt 1.
+użyte w art. 15b w ust. 2b, w art. 29a w ust. 2a, w art. 30b w ust. 1, w art. 33dl w ust. 4, w art. 33f w ust. 1b oraz w art. 33la w ust. 2 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych”;
 
-10. Do wniosku, o którym mowa ust. 9, stosuje się:
+### 6)
 
-- **1)** przepisy art. 8 ust. 1–3 i 8 oraz art. 8b ust. 1, 4, 6 i 7;
+w art. 15c w ust. 1 po wyrazie „kwartału” dodaje się wyrazy „, nie mniejszej niż 0,0% w skali roku”;
 
-11. Aktualizacji, o której mowa ust. 8, dokonuje się raz, formie aneksu do umowy, o której mowa art. 12 ust. 1.”;
+### 7)
 
-- **15)** uchyla się art. 13a;
-- **16)** art. 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. Przez koszty wykonania stanowisk postojowych lub garaży znajdujących się budynkach mieszkalnych i wielopoziomowych, o których mowa ust. 1 pkt 1 lit. a tiret drugie, rozumie się koszty wykonania stanowisk postojowych lub garaży zlokalizowanych obrębie finansowanego przedsięwzięcia liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy oraz przypadającej na finansowanie ramach przedsięwzięcia.”;
-- **17)** art. 15 ust. 1 wyrazy „pkt 1 i 2” zastępuje się wyrazami „ust. 1 pkt 1 i 2”;
-- **18)** art. 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Warunkiem uruchomienia finansowego wsparcia oraz jego przekazania na rachunek beneficjenta wsparcia jest zawarcie umowy, o której mowa art. 12 ust. 1.”,
-    - **b)** uchyla się ust. 2,
-    - **c)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. Kwota finansowego wsparcia jest przekazywana na rachunek beneficjenta wsparcia roku zawarcia umowy, o której mowa art. 12 ust. 1.”,
-    - **d)** ust. 4: – pkt 2 lit. b wyrazy „pkt 2 i 3” zastępuje się wyrazami „pkt 2–4,”, – dodaje się pkt 3 i 4 brzmieniu: „3) nierozpoczęcia robót budowlanych terminie 2 lat – przypadkach, o których mowa art. 3 ust. 1 pkt 1–4, art. 4 oraz art. 5c,
+w art. 25 w ust. 2 po wyrazach „określonej w” dodaje się wyrazy „umowie albo”;
 
-- **4)** nieprzeniesienia własności lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego terminie 2 lat – przypadkach, o których mowa art. 3 ust. 1 pkt 5 i 6”;
-- **19)** art. 19 otrzymuje brzmienie: „Art. 19. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego, określi, drodze rozporządzenia, dla przedsięwzięć, o których mowa art. 3–5 i art. 5c:
-- **1)** szczegółowy zakres informacji, jakie zawiera wniosek o finansowe wsparcie, oraz wykaz dokumentów, które dołącza się do wniosku, mając na względzie zapewnienie możliwości identyfikacji wnioskodawcy oraz stwierdzenia zgodności przedsięwzięcia z wymaganiami dotyczącymi udzielenia finansowego wsparcia;
-- **2)** wzór formularza, o którym mowa art. 18 ust. 2, mając na względzie zapewnienie ujednolicenia zakresu przekazywanych informacji;
-- **3)** sposób ustalania dopuszczalnej wysokości rekompensaty, o której mowa art. 5 ust. 5, oraz sposób i tryb weryfikowania zgodności jej przyznawania z przepisami prawa Unii Europejskiej dotyczącymi pomocy publicznej z tytułu świadczenia usług ogólnym interesie gospodarczym, mając na względzie konieczność zapewnienia bieżącego monitorowania wysokości wypłaconej rekompensaty oraz przeciwdziałania przekazaniu beneficjentom wsparcia nadmiernego przysporzenia.”.
+### 8)
 
-**Art. 14.** W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438) wprowadza się następujące zmiany:
+w art. 27:
 
-**Art. 16.** W ustawie z dnia 27 września 2013 r. o pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. z 2019 r. poz. 1116) wprowadza się następujące zmiany:
+### a)
 
-**Art. 17.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354 oraz z 2022 r. poz. 91, 583, 830, 835 i 1383) wprowadza się następujące zmiany:
+w ust. 1 po wyrazie „SIM” dodaje się wyrazy „, w tym SIM, której udziałowcem jest gmina,”,
 
-**Art. 18.** W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego (Dz. U. z 2021 r. poz. 303 i 2122 oraz z 2022 r. poz. 613, 655 i 1079) art. 62:
+### b)
 
-**Art. 19.** W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2021 r. poz. 1961 oraz z 2022 r. poz. 807) wprowadza się następujące zmiany:
+w ust. 2 we wprowadzeniu do wyliczenia po wyrazie „SIM” dodaje się wyrazy „, w tym SIM, której udziałowcem jest gmina,”;
 
-**Art. 20.** W ustawie z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw (Dz. U. poz. 756, z 2019 r. poz. 1309 oraz z 2021 r. poz. 11) art. 21 uchyla się ust. 2–7.
+### 9)
 
-**Art. 21.** W ustawie z dnia 20 lipca 2018 r. o pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych latach najmu mieszkania (Dz. U. z 2021 r. poz. 2158) wprowadza się następujące zmiany:
+w art. 28 po ust. 2a dodaje się ust. 2b w brzmieniu:
 
-**Art. 23.** W ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2021 r. poz. 717, 802 i 2165 oraz z 2022 r. poz. 640) art. 25 ust. 1 pkt 8 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”.
+„
 
-**Art. 24.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm. ) art. 15y wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+### 2b.
 
-**Art. 25.** W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ) uchyla się art. 90 i art. 90a.
+Jeżeli wartość odtworzeniowa lokalu będąca podstawą ustalenia stawki czynszu zgodnie z ust. 2 jest niższa niż koszt budowy lokalu mieszkalnego uwzględniający wartość nieruchomości, maksymalną stawkę czynszu, o której mowa w ust. 2, ustala się na podstawie kosztu budowy lokalu mieszkalnego. SIM informuje najemcę o tych kosztach.
 
-**Art. 26.** W ustawie z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223) wprowadza się następujące zmiany:
+” ;
 
-**Art. 27.** W ustawie z dnia 1 października 2021 r. o gwarantowanym kredycie mieszkaniowym (Dz. U. poz. 2133 i 2427) wprowadza się następujące zmiany:
+### 10)
 
-**Art. 29.** W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm. ) art. 70:
+w art. 31 w ust. 1 w zdaniu pierwszym skreśla się wyraz „spółki”;
 
-**Art. 30.** Umowy zawarte przed dniem wejścia życie niniejszego przepisu na podstawie art. 9 ust. 2a ustawy zmienianej art. 1 zachowują ważność przez okres, na jaki zostały zawarte.
+### 11)
 
-**Art. 31.** W przypadku gdy stopa redyskonta weksli Narodowym Banku Polskim osiągnie wartość niższą niż 0,00% skali roku, dla określenia wysokości oprocentowania kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego albo realizację infrastruktury technicznej na podstawie wniosku złożonego Banku Gospodarstwa Krajowego do dnia 30 września 2009 r. na podstawie przepisów ustawy zmienianej art. 4 brzmieniu obowiązującym do dnia 30 września 2009 r. przyjmuje się jej wartość równą 0,00% skali roku.
+w art. 33dj dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
 
-**Art. 32.** Do spłaty kredytów udzielonych przed dniem wejścia życie niniejszej ustawy na podstawie przepisów ustawy zmienianej art. 4 ramach finansowania zwrotnego stosuje się przepisy ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 33.** Do wsparcia udzielonego ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa przed dniem wejścia życie niniejszej ustawy na podstawie przepisów ustawy zmienianej art. 4 stosuje się przepisy ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą, z tym że przypadku udziałów lub akcji społecznej inicjatywy mieszkaniowej albo zmienianej art. 4, biegną od dnia wejścia życie niniejszej ustawy.
+### 2.
 
-**Art. 34.**
+W przypadku:
 
-1. Jeżeli do dnia wejścia życie niniejszej ustawy gmina nie zawarła ze społeczną inicjatywą mieszkaniową albo z towarzystwem budownictwa społecznego umowy, o której mowa art. 33p ust. 2 ustawy zmienianej art. 4 brzmieniu dotychczasowym, gmina i ta społeczna inicjatywa mieszkaniowa albo gmina i to towarzystwo budownictwa społecznego zawierają tę umowę terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+### 1)
 
-2. W terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy gmina, która przed tym dniem zawarła ze społeczną inicjatywą mieszkaniową albo z towarzystwem budownictwa społecznego umowę, o której mowa art. 33p ust. 2 ustawy zmienianej art. 4 brzmieniu dotychczasowym, dostosuje tę umowę do wymogów, o których mowa art. 33p ust. 2 ustawy zmienianej art. 4 brzmieniu nadanym niniejszą ustawą.
+rozwiązania przez najemcę umowy najmu uwzględniającej całkowite rozliczenie partycypacji i opróżnienia lokalu albo
 
-**Art. 35.** W terminie 18 miesięcy od dnia wejścia życie niniejszej ustawy społeczne inicjatywy mieszkaniowe dostosują umowy albo statuty spółki zakresie obowiązku, o którym mowa art. 33pa ust. 5 ustawy zmienianej art. 4.
+### 2)
 
-**Art. 36.** Z dniem wejścia życie niniejszej ustawy udziały lub akcje Krajowego Zasobu Nieruchomości społecznych inicjatywach mieszkaniowych i towarzystwach budownictwa społecznego objęte przed dniem wejścia życie niniejszej ustawy zamian za wkład pieniężny lub wartości niematerialne stają się udziałami lub akcjami Skarbu Państwa.
+rozwiązania umowy najmu w wyniku śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji, albo
 
-**Art. 37.**
+### 3)
 
-1. Do wniosków o finansowe wsparcie złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy trybie określonym przepisach wydanych na podstawie art. 19 ustawy zmienianej art. 13 stosuje się przepisy ustawy zmienianej art. 13 brzmieniu nadanym niniejszą ustawą.
+gdy osobą wstępującą w stosunek najmu po śmierci najemcy będącego stroną umowy najmu uwzględniającej całkowite rozliczenie partycypacji jest osoba inna niż określona w ust. 1
 
-2. Do przedsięwzięć realizowanych na podstawie ustawy zmienianej art. 13 brzmieniu dotychczasowym, dla których przed dniem wejścia życie niniejszej ustawy nie zostało przedłożone rozliczenie, o którym mowa art. 18 ust. 1 pkt 1 ustawy zmienianej art. 13, stosuje się przepisy ustawy zmienianej art. 13 brzmieniu nadanym niniejszą ustawą.
+- partycypację uznaje się za rozliczoną w całości.
 
-3. Do wniosków o finansowe wsparcie na pokrycie części kosztów przedsięwzięcia infrastrukturalnego, o którym mowa art. 5c ustawy zmienianej art. 13 brzmieniu dotychczasowym, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 13 brzmieniu nadanym niniejszą ustawą, z wyjątkiem art. 13 ust. 7 tej ustawy.
+### 3.
 
-**Art. 38.**
+W przedstawianych najemcy warunkach umowy najmu uwzględniającej całkowite rozliczenie partycypacji SIM umieszcza pouczenie w brzmieniu: „ Zawarcie umowy najmu uwzględniającej całkowite rozliczenie partycypacji pozbawia najemcę oraz osoby wstępujące po jego śmierci w stosunek najmu prawa do zwrotu kwoty partycypacji. Prawo do wstąpienia po śmierci najemcy w stosunek najmu na zasadach określonych w umowie najmu uwzględniającej całkowite rozliczenie partycypacji przysługiwać będzie wyłącznie osobie, która w dniu zawierania tej umowy osiągnęła wiek emerytalny, o którym mowa w art. 24 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, oraz przez cały okres obowiązywania tej umowy zamieszkiwać będzie w lokalu będącym jej przedmiotem.”. ” ;
 
-1. Kwota finansowego wsparcia wynikająca z umowy, o której mowa art. 12 ust. 1 ustawy zmienianej art. 13, zawartej z beneficjentem wsparcia przed dniem wejścia życie niniejszej ustawy, pomniejsza łączną wysokość środków, o których mowa art. 8b ust. 1 ustawy zmienianej art. 13, określoną na rok, na który tej umowie określono termin, jakim nastąpi uruchomienie finansowego wsparcia.
+” ;
 
-2. Kwota finansowego wsparcia wynikająca z wniosku o finansowe wsparcie zakwalifikowanego trybie określonym przepisach wydanych na podstawie art. 19 ustawy zmienianej art. 13 przed dniem wejścia życie niniejszej ustawy pomniejsza łączną wysokość środków, o których mowa art. 8b ust. 1 ustawy zmienianej art. 13, określoną na rok, na który zakwalifikowanym wniosku określono termin, jakim nastąpi uruchomienie finansowego wsparcia.
+### 12)
 
-**Art. 39.** W 2022 r. komunikat, o którym mowa art. 8b ust. 3 ustawy zmienianej art. 13, Bank Gospodarstwa Krajowego ogłasza Biuletynie Informacji Publicznej na swojej stronie podmiotowej terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+w art. 33dk w części wspólnej po wyrazach „chyba że” dodaje się wyrazy „umowa albo”;
 
-**Art. 40.** Do wynajmu i podnajmu przez gminę lokali mieszkalnych utworzonych albo zmodernizowanych ramach przedsięwzięć, o których mowa art. 3 ust. 1 i art. 5a ust. 1 ustawy zmienianej art. 13, rozpoczętych przed dniem wejścia życie niniejszej ustawy, nie stosuje się przepisów art. 7c ust. 2–6 ustawy zmienianej art. 13.
+### 13)
 
-**Art. 41.** W przypadku lokali mieszkalnych utworzonych ramach przedsięwzięć, o których mowa art. 5a ust. 1 ustawy zmienianej art. 13, inwestorzy, którzy przed dniem wejścia życie niniejszej ustawy zawarli z gminami albo związkami międzygminnymi umowy, o których mowa art. 5 ust. 2 ustawy zmienianej art. 13, dostosują wysokość określonych tych umowach stawek czynszu do limitów określonych art. 7c ust. 2 ustawy zmienianej art. 13, terminie roku od dnia wejścia życie niniejszej ustawy.
+w art. 33j w ust. 1 wyraz „towarzystwo” zastępuje się wyrazem „SIM”;
 
-**Art. 42.** Kadencja rady nadzorczej lub zarządu spółdzielni, która uległa przedłużeniu na podstawie art. 90a ustawy zmienianej art. 25, upływa dniu zwołania pierwszego walnego zgromadzenia po dniu wejścia życie niniejszego przepisu.
+### 14)
 
-**Art. 43.** Do gwarantowanych kredytów mieszkaniowych, o których mowa art. 2 pkt 7 ustawy zmienianej art. 27, udzielonych przed dniem wejścia życie niniejszego przepisu, stosuje się przepisy art. 6 ust. 6 i 7a oraz art. 7 ust. 3 ustawy zmienianej art. 27 brzmieniu nadanym niniejszą ustawą. nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 30 września 2022 r.
+w art. 33l pkt 1 i 2 otrzymują brzmienie:
 
-**Art. 45.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+„
 
+### 1)
+
+tworzonej albo istniejącej SIM, która przed dniem objęcia tych akcji lub udziałów nie prowadziła działalności na terenie tej gminy;
+
+### 2)
+
+istniejącej SIM, która przed dniem objęcia tych akcji lub udziałów prowadziła działalność na terenie tej gminy.
+
+” ;
+
+### 15)
+
+w art. 33m w ust. 3 wyraz „istniejącym” zastępuje się wyrazem „istniejącej”;
+
+### 16)
+
+w art. 33p:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Objęcie udziałów lub akcji SIM, z wykorzystaniem wsparcia, o którym mowa w art. 33l, stanowi udzieloną SIM rekompensatę z tytułu świadczenia usługi publicznej w rozumieniu przepisów prawa Unii Europejskiej, dotyczących pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
+
+„
+
+### 1a.
+
+Rozpoczęcie realizacji usługi publicznej, o której mowa w ust. 1, następuje nie później niż po upływie:
+
+### 1)
+
+7 lat od objęcia udziałów lub akcji SIM - w przypadku, o którym mowa w art. 33l pkt 1;
+
+### 2)
+
+5 lat od objęcia udziałów lub akcji SIM - w przypadku, o którym mowa w art. 33l pkt 2.
+
+### 1b.
+
+Rozpoczęcie realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji usługi publicznej, o której mowa w ust. 1, następuje nie później niż po upływie 12 miesięcy od dnia objęcia udziałów lub akcji SIM z wykorzystaniem wsparcia, o którym mowa w art. 33l. Rozpoczęciem realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji usługi publicznej, o której mowa w ust. 1, jest w rozumieniu niniejszego przepisu sporządzenie dotyczącego realizacji tego przedsięwzięcia projektu zagospodarowania działki lub terenu, a w przypadku gdy do jego realizacji nie jest wymagana decyzja o pozwoleniu na budowę albo zgłoszenie - podjęcie innego działania zmierzającego do rozpoczęcia realizacji usługi publicznej, o której mowa w ust. 1.
+
+### 1c.
+
+Na uzasadniony wniosek gminy minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa może wyrazić zgodę na wydłużenie terminów, o których mowa w ust. 1a i 1b, jednak o nie więcej niż 12 miesięcy. O wyrażeniu zgody minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiadamia ministra, o którym mowa w art. 33l.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rodzaj, planowany termin rozpoczęcia i okres realizacji usługi publicznej, o której mowa w ust. 1, oraz planowany termin rozpoczęcia realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji tej usługi określa umowa gminy z SIM, zawierana nie później niż po upływie 6 miesięcy od dnia objęcia przez gminę udziałów lub akcji SIM z wykorzystaniem wsparcia, o którym mowa w art. 33l.
+
+” ,
+
+### d)
+
+po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+
+„
+
+### 2a.
+
+O zawarciu umowy, o której mowa w ust. 2, określonym w niej rodzaju, planowanym terminie rozpoczęcia i okresie realizacji usługi publicznej, o której mowa w ust. 1, oraz planowanym terminie rozpoczęcia realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji tej usługi gmina informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministra, o którym mowa w art. 33l, w terminie 3 miesięcy od dnia zawarcia tej umowy.
+
+### 2b.
+
+O rozpoczęciu realizacji usługi publicznej określonej w umowie, o której mowa w ust. 2, gmina informuje ministra, o którym mowa w art. 33l, w terminie 3 miesięcy od dnia uzyskania informacji o rozpoczęciu realizacji tej usługi.
+
+### 2c.
+
+W przypadku gdy usługą publiczną rekompensowaną objęciem udziałów lub akcji SIM z wykorzystaniem wsparcia, o którym mowa w art. 33l, jest najem lokalu mieszkalnego wybudowanego w ramach przedsięwzięcia inwestycyjno-budowlanego realizowanego z wykorzystaniem finansowania zwrotnego, udziela się:
+
+### 1)
+
+finansowania zwrotnego na realizację tego przedsięwzięcia inwestycyjno-budowlanego, w ramach którego ma nastąpić utworzenie tego lokalu,
+
+### 2)
+
+finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, na realizację tego przedsięwzięcia, w ramach którego ma nastąpić utworzenie tego lokalu
+
+- jeżeli łączna kwota środków tego finansowego wsparcia, środków pochodzących ze wsparcia, o którym mowa w art. 33l, przeznaczonych na realizację tego przedsięwzięcia inwestycyjno-budowlanego oraz ekwiwalentu dotacji brutto finansowania zwrotnego wyliczanego przez Bank Gospodarstwa Krajowego zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, nie przekracza dopuszczalnej wysokości rekompensaty z tytułu świadczenia usługi publicznej w ogólnym interesie gospodarczym, ustalonej zgodnie z przepisami wydanymi na podstawie art. 15b ust. 5.
+
+### 2d.
+
+W przypadku gdy usługą publiczną rekompensowaną objęciem udziałów lub akcji SIM z wykorzystaniem wsparcia, o którym mowa w art. 33l, jest najem lokalu mieszkalnego realizowanego w ramach przedsięwzięcia, na którego realizację nie udzielono finansowania zwrotnego, udziela się finansowego wsparcia, o którym mowa w art. 5 ust. 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, na realizację tego przedsięwzięcia, w ramach którego ma nastąpić utworzenie tego lokalu, jeżeli łączna kwota środków tego finansowego wsparcia oraz środków pochodzących ze wsparcia, o którym mowa w art. 33l, przeznaczonych na realizację tego przedsięwzięcia inwestycyjno-budowlanego, nie przekracza dopuszczalnej wysokości rekompensaty z tytułu świadczenia usługi publicznej w ogólnym interesie gospodarczym, ustalonej zgodnie z przepisami wydanymi na podstawie art. 19 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych.
+
+” ;
+
+### 17)
+
+po art. 33p dodaje się art. 33pa w brzmieniu:
+
+„
+
+### Art. 33pa.
+
+### 1.
+
+W przypadku:
+
+### 1)
+
+niedopełnienia obowiązku zawarcia umowy, o której mowa w art. 33p ust. 2, lub
+
+### 2)
+
+nierozpoczęcia przez SIM realizacji usługi publicznej, o której mowa w art. 33p ust. 1, w terminie określonym w umowie, o której mowa w art. 33p ust. 2, lub
+
+### 3)
+
+niedotrzymania określonego w umowie, o której mowa w art. 33p ust. 2, terminu rozpoczęcia realizacji przedsięwzięcia inwestycyjno-budowlanego lub innego przedsięwzięcia służącego realizacji usługi publicznej, o której mowa w art. 33p ust. 1
+
+- gmina występuje o umorzenie udziałów lub akcji SIM objętych z wykorzystaniem wsparcia, o którym mowa w art. 33l.
+
+### 2.
+
+Uzyskane przez gminę w związku z umorzeniem udziałów lub akcji na podstawie:
+
+### 1)
+
+ust. 1 pkt 1 środki podlegają zwrotowi, wraz z odsetkami ustawowymi naliczonymi od dnia ich uzyskania do dnia ich zwrotu, na rachunek Funduszu, a w przypadku jego zlikwidowania - na rachunek Funduszu Dopłat;
+
+### 2)
+
+ust. 1 pkt 2 i 3 środki podlegają:
+
+### a)
+
+zwrotowi, wraz z odsetkami ustawowymi naliczonymi od dnia ich uzyskania do dnia ich zwrotu, na rachunek Funduszu, a w przypadku jego zlikwidowania - na rachunek Funduszu Dopłat albo
+
+### b)
+
+przeznaczeniu, w terminie 3 lat od dnia ich uzyskania, na realizację przez tę gminę przedsięwzięcia, o którym mowa w art. 1 pkt 1 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych.
+
+### 3.
+
+Uzyskane środki gmina gromadzi na rachunku, o którym mowa w art. 7c ust. 6 ustawy z dnia 8 grudnia 2006 r. o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, do dnia:
+
+### 1)
+
+zwrotu, o którym mowa w ust. 2 pkt 1 albo ust. 2 pkt 2 lit. a, albo
+
+### 2)
+
+przeznaczenia zgodnie z ust. 2 pkt 2 lit. b.
+
+### 4.
+
+O umorzeniu udziałów lub akcji na podstawie ust. 1 oraz przeznaczeniu uzyskanych w związku z tym umorzeniem środków zgodnie z ust. 2 pkt 2 lit. b gmina informuje ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz ministra, o którym mowa w art. 33l, w terminie 3 miesięcy od dnia tego zdarzenia.
+
+### 5.
+
+Tryb i sposób umarzania udziałów lub akcji objętych z wykorzystaniem wsparcia, o którym mowa w art. 33l, w przypadkach, o których mowa w ust. 1, określa umowa albo statut SIM.
+
+” ;
+
+### 18)
+
+w art. 33q w ust. 2 po wyrazach „do dnia zwrotu” dodaje się wyrazy „, a w przypadku jego zlikwidowania - na rachunek Funduszu Dopłat”;
+
+### 19)
+
+po art. 33q dodaje się art. 33qa w brzmieniu:
+
+„
+
+### Art. 33qa.
+
+### 1.
+
+Do dochodzenia od gminy roszczeń z tytułu:
+
+### 1)
+
+niezrealizowania działania, w związku z którym udzielono wsparcia, o którym mowa w art. 33l,
+
+### 2)
+
+niedopełnienia obowiązku zawarcia umowy określającej rodzaj, okres realizacji i planowany termin rozpoczęcia realizacji usługi publicznej, o której mowa w art. 33p ust. 1,
+
+### 3)
+
+niedopełnienia obowiązku, o którym mowa w art. 33pa ust. 2
+
+- właściwy jest minister, o którym mowa w art. 33l.
+
+### 2.
+
+Minister, o którym mowa w art. 33l, może zlecić Prezesowi KZN wykonywanie czynności, o których mowa w ust. 1.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, minister, o którym mowa w art. 33l, zawiera z KZN umowę określającą w szczególności:
+
+### 1)
+
+okres obowiązywania umowy;
+
+### 2)
+
+obowiązki sprawozdawcze;
+
+### 3)
+
+przyczyny i warunki rozwiązania umowy;
+
+### 4)
+
+szczegółowe obowiązki w zakresie przetwarzania danych osobowych;
+
+### 5)
+
+warunki wynagrodzenia KZN z tytułu pokrycia kosztów odzyskania środków;
+
+### 6)
+
+zakres odpowiedzialności KZN z tytułu wykonywania umowy;
+
+### 7)
+
+sposób kontroli wykonania umowy.
+
+### 4.
+
+Wynagrodzenie, o którym mowa w ust. 3 pkt 5, jest pokrywane ze środków Funduszu, a w przypadku jego zlikwidowania - ze środków Funduszu Dopłat.
+
+” ;
+
+### 20)
+
+w art. 33r w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+wpływów ze skarbowych papierów wartościowych;
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych ([Dz. U. z 2022 r. poz. 1202](https://api.sejm.gov.pl/eli/acts/DU/2022/1202/text.html)) w art. 3 w ust. 1 w pkt 9 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+
+### Art. 6.
+
+W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych ([Dz. U. z 2021 r. poz. 1208](https://api.sejm.gov.pl/eli/acts/DU/2021/1208/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 91wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+użyte w art. 11 w ust. 25wzdaniu pierwszym i drugim wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 7.
+
+W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego ([Dz. U. z 2022 r. poz. 172](https://api.sejm.gov.pl/eli/acts/DU/2022/172/text.html) i [975](https://api.sejm.gov.pl/eli/acts/DU/2022/975/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 w pkt 9a wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+użyte w art. 4 w ust. 1a oraz w art. 11 w ust. 11 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”;
+
+### 3)
+
+w art. 9a ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do mieszkań w zasobach społecznych inicjatyw mieszkaniowych oraz spółek, o których mowa w art. 15a ust. 2 pkt 3 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, wybudowanych przy wykorzystaniu kredytu udzielonego przez Bank Gospodarstwa Krajowego na podstawie wniosków o kredyt złożonych do dnia 30 września 2009 r. lub przy wykorzystaniu finansowania zwrotnego, o których mowa w przepisach tej ustawy, w zakresie czynszu stosuje się przepisy ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa.
+
+” ;
+
+### 4)
+
+w art. 21b:
+
+### a)
+
+w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację o wysokości dochodów członków gospodarstwa domowego w okresie 3 miesięcy poprzedzających złożenie deklaracji oraz oświadczenie o stanie majątkowym członków gospodarstwa domowego. ” ,
+
+### b)
+
+po ust. 1d dodaje się ust. 1e w brzmieniu:
+
+„
+
+### 1e.
+
+Rada gminy, w uchwale, o której mowa w art. 21 ust. 1 pkt 2, może ustalić, że osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy składa deklarację, o której mowa w ust. 1, za okres dłuższy niż 3 miesiące poprzedzające złożenie deklaracji.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W sprawach dotyczących wzoru deklaracji o wysokości dochodów członków gospodarstwa domowego stosuje się odpowiednio przepisy ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych ([Dz. U. z 2021 r. poz. 2021](https://api.sejm.gov.pl/eli/acts/DU/2021/2021/text.html) oraz [z 2022 r. poz. 1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)) dotyczące deklarowania dochodów przy ustalaniu wysokości dodatków mieszkaniowych.
+
+” ,
+
+### d)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Na żądanie gminy najemca lub osoba ubiegająca się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu wchodzącego w skład mieszkaniowego zasobu gminy jest obowiązana do złożenia oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Gmina odmawia zawarcia umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu w przypadku niezłożenia deklaracji o wysokości dochodów członków gospodarstwa domowego, oświadczenia o stanie majątkowym członków gospodarstwa domowego, oświadczenia o nieposiadaniu tytułu prawnego do innego lokalu położonego w tej samej lub pobliskiej miejscowości lub jeżeli występuje rażąca dysproporcja między niskimi dochodami wskazanymi w złożonej deklaracji a wykazanym w oświadczeniu stanem majątkowym członków gospodarstwa domowego osoby ubiegającej się o zawarcie umowy najmu albo podnajmu lokalu albo najmu socjalnego lokalu.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych ([Dz. U. z 2021 r. poz. 2021](https://api.sejm.gov.pl/eli/acts/DU/2021/2021/text.html)) w art. 6 w ust. 4 w pkt 1a wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+
+### Art. 9.
+
+W ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej ([Dz. U. z 2022 r. poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2022/101/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 2 wyrazy „Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast” zastępuje się wyrazami „ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa”;
+
+### 2)
+
+w art. 5:
+
+### a)
+
+w ust. 2:
+
+- - w pkt 4b wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”,
+
+- - po pkt 4b dodaje się pkt 4c w brzmieniu: „ 4c) wpływy ze skarbowych papierów wartościowych; ” ,
+
+### b)
+
+w ust. 3:
+
+- - w pkt 1b wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”,
+
+- - w pkt 1c wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”,
+
+- - po pkt 1e dodaje się pkt 1f w brzmieniu: „ 1f) wynagrodzenie Krajowego Zasobu Nieruchomości, o którym mowa w art. 33qa ust. 3 pkt 5 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa; ” ;
+
+### 3)
+
+uchyla się art. 6;
+
+### 4)
+
+w art. 8:
+
+### a)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Jeżeli w danym miesiącu stopa referencyjna jest ujemna, przekazaniu do Funduszu podlegają środki wpłacone przez kredytobiorcę do banku w kwocie odpowiadającej wysokości odsetek naliczonych według stałej stopy procentowej.
+
+” ,
+
+### b)
+
+ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+Rozliczenia banków z Bankiem Gospodarstwa Krajowego, o których mowa w ust. 3 i 3a, odbywają się w okresach kwartalnych, w terminie do końca miesiąca następującego po danym kwartale.
+
+### 5.
+
+Środki wpłacone przez kredytobiorcę, o których mowa w ust. 3 i 3a, pomniejszają kwotę dopłat ewidencjonowanych przez bank na rachunku tego kredytobiorcy.
+
+” ;
+
+### 5)
+
+w art. 12 w ust. 1 wyrazy „Prezesowi Urzędu Mieszkalnictwa i Rozwoju Miast” zastępuje się wyrazami „ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa”.
+
+### Art. 10.
+
+W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2022 r. poz. 931](https://api.sejm.gov.pl/eli/acts/DU/2022/931/text.html), [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html), [1137](https://api.sejm.gov.pl/eli/acts/DU/2022/1137/text.html), [1301](https://api.sejm.gov.pl/eli/acts/DU/2022/1301/text.html) i [1488](https://api.sejm.gov.pl/eli/acts/DU/2022/1488/text.html)) w art. 43 w ust. 1 w pkt 36 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177 i 1243)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+
+### Art. 11.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2022 r. poz. 690](https://api.sejm.gov.pl/eli/acts/DU/2022/690/text.html), [830](https://api.sejm.gov.pl/eli/acts/DU/2022/830/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html) i [1383](https://api.sejm.gov.pl/eli/acts/DU/2022/1383/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 88c w ust. 4 w pkt 1 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+użyte w art. 88c w ust. 6 w pkt 2 oraz w art. 88h w ust. 1 w pkt 2 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 12.
+
+W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania ([Dz. U. z 2021 r. poz. 403](https://api.sejm.gov.pl/eli/acts/DU/2021/403/text.html)) w art. 7 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Dopłata, o której mowa w ust. 1, nie może być wyższa niż kwota odsetek należnych instytucji ustawowo upoważnionej do udzielania kredytów z tytułu spłaty raty odsetkowej lub kapitałowo-odsetkowej kredytu preferencyjnego.
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń ([Dz. U. z 2022 r. poz. 377](https://api.sejm.gov.pl/eli/acts/DU/2022/377/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych ” ;
+
+### 2)
+
+skreśla się użyty w art. 1 w pkt 1 w lit. d, w art. 2 w pkt 5 w lit. g i w pkt 5a w lit. b, w art. 5c w ust. 1 we wprowadzeniu do wyliczenia oraz w art. 16 w ust. 4, w różnym przypadku, wyraz „komunalna”;
+
+### 3)
+
+w art. 2:
+
+### a)
+
+w pkt 7 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”,
+
+### b)
+
+pkt 11 i 12 otrzymują brzmienie:
+
+„
+
+### 11)
+
+infrastrukturze technicznej - należy przez to rozumieć obiekty budowlane służące wykonywaniu zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 2, 3 i 4 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2022 r. poz. 559](https://api.sejm.gov.pl/eli/acts/DU/2022/559/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [1005](https://api.sejm.gov.pl/eli/acts/DU/2022/1005/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html) i [1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)), lub zadań publicznych powiatu, o których mowa w art. 4 ust. 1 pkt 6 i 12 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2022 r. poz. 1526](https://api.sejm.gov.pl/eli/acts/DU/2022/1526/text.html));
+
+### 12)
+
+infrastrukturze społecznej - należy przez to rozumieć obiekty budowlane służące wykonywaniu zadań własnych gminy, o których mowa w art. 7 ust. 1 pkt 5, 6, 8-10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, lub zadań publicznych powiatu, o których mowa w art. 4 ust. 1 pkt 1-3, 7 i 8 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
+
+” ;
+
+### 4)
+
+użyte w art. 2 w pkt 10, w art. 5 w ust. 10, w art. 5c w ust. 1 w pkt 1 oraz w art. 7a w ust. 2 i 8 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”;
+
+### 5)
+
+w art. 5:
+
+### a)
+
+w ust. 1 w pkt 4 po wyrazie „jedynym” dodaje się wyrazy „albo większościowym”,
+
+### b)
+
+po ust. 7 dodaje się ust. 7a-7c w brzmieniu:
+
+„
+
+### 7a.
+
+Do kosztów inwestora związanych z usługą publiczną świadczoną w ogólnym interesie gospodarczym zalicza się:
+
+### 1)
+
+wartość brutto kosztów przedsięwzięcia, o których mowa w art. 14;
+
+### 2)
+
+koszty eksploatacji i remontów lokali oraz infrastruktury utworzonej przy udziale finansowego wsparcia, związane bezpośrednio z realizacją przedsięwzięcia, ponoszone w okresie, o którym mowa w ust. 8;
+
+### 3)
+
+koszty ubezpieczenia nieruchomości w trakcie realizacji przedsięwzięcia oraz w okresie, o którym mowa w ust. 8;
+
+### 4)
+
+pozostałe koszty związane ze świadczeniem usługi publicznej w ogólnym interesie gospodarczym polegającej na najmie lokali mieszkalnych, w tym koszty prowadzenia rachunków bankowych przeznaczonych do deponowania środków z pobranych od najemców kaucji zabezpieczających pokrycie należności z tytułu najmu lokali oraz środków gromadzonych w ramach odpisów na fundusz remontowy;
+
+### 5)
+
+wkład we wspólne koszty stałe inwestora w części wyliczonej na podstawie procentowego udziału powierzchni powstałej w wyniku realizowanego przedsięwzięcia w powierzchni całkowitej lokali mieszkalnych będących własnością inwestora;
+
+### 6)
+
+koszty nabycia nieruchomości związanej z realizacją przedsięwzięcia, w tym nieruchomości wraz z budynkiem, który zostanie przebudowany na cele mieszkaniowe.
+
+### 7b.
+
+Do kosztów nabycia nieruchomości, o której mowa w ust. 7a pkt 6, zalicza się również wartość nieruchomości, jeżeli została ona wniesiona jako wkład niepieniężny i jest przeznaczona do realizacji przedsięwzięcia. Wartość nieruchomości określa się na dzień zawarcia umowy, o której mowa w ust. 2, na podstawie operatu szacunkowego sporządzonego zgodnie z ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2021 r. poz. 1899](https://api.sejm.gov.pl/eli/acts/DU/2021/1899/text.html)).
+
+### 7c.
+
+Do przychodów inwestora związanych z usługą publiczną świadczoną w ogólnym interesie gospodarczym zalicza się:
+
+### 1)
+
+przychody z opłat czynszowych za najem lokali mieszkalnych, garaży i miejsc postojowych;
+
+### 2)
+
+przychody z tytułu odsetek od zdeponowanych środków pobranych od najemców z kaucji zabezpieczających pokrycie należności z tytułu najmu lokali;
+
+### 3)
+
+przychody z tytułu odsetek od zdeponowanych środków gromadzonych w ramach odpisów na fundusz remontowy;
+
+### 4)
+
+wartość nieruchomości, jeżeli została wniesiona jako wkład niepieniężny przez jednostkę samorządu terytorialnego i jest przeznaczona do realizacji przedsięwzięcia, określoną na podstawie operatu szacunkowego sporządzonego zgodnie z ustawą z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+” ;
+
+### 6)
+
+w art. 5c:
+
+### a)
+
+w ust. 1 w pkt 5 wyrazy „rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości (Dz. U. z 2021 r. poz. 223)” zastępuje się wyrazami „zbywaniu nieruchomości z rozliczeniem „lokal za grunt” (Dz. U. z 2021 r. poz. 223 oraz z 2022 r. poz. 1561)”,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Finansowego wsparcia na pokrycie części kosztów przedsięwzięcia infrastrukturalnego udziela się również powiatowi, jeżeli realizacja tego przedsięwzięcia jest powiązana z realizacją:
+
+### 1)
+
+przedsięwzięcia, o którym mowa w art. 6, realizowanego przez powiat;
+
+### 2)
+
+inwestycji w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, w przypadku gdy zbywcą nieruchomości jest powiat.
+
+” ,
+
+### c)
+
+ust. 2-5 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Finansowego wsparcia udziela się również gminie, związkowi międzygminnemu albo powiatowi, jako beneficjentowi wsparcia, na pokrycie części kosztów przedsięwzięcia infrastrukturalnego realizowanego przez inwestora, który realizuje przedsięwzięcie albo inwestycję powiązane z przedsięwzięciem infrastrukturalnym, o których mowa w ust. 1 i 1a, lub jednoosobową spółkę gminną, której gmina przekazała realizację jednego z zadań własnych, o których mowa w art. 7 ust. 1 pkt 2, 3, 4-6, 8-10 i 12 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, warunkiem udzielenia finansowego wsparcia:
+
+### 1)
+
+gminie albo związkowi międzygminnemu jest zawarcie przez tę gminę albo ten związek międzygminny umowy z inwestorem lub jednoosobową spółką gminną,
+
+### 2)
+
+powiatowi jest zawarcie przez ten powiat umowy z inwestorem
+
+- określającej udział tej gminy, tego związku międzygminnego albo powiatu w kosztach przedsięwzięcia infrastrukturalnego.
+
+### 4.
+
+Finansowe wsparcie, o którym mowa w ust. 1-2, może być udzielone jednokrotnie w zakresie przedsięwzięcia albo inwestycji powiązanych z przedsięwzięciem infrastrukturalnym, o których mowa w ust. 1 i 1a, jeżeli wniosek o finansowe wsparcie na przedsięwzięcie infrastrukturalne został złożony przed upływem 5 lat od dnia oddania do użytkowania przedsięwzięcia albo inwestycji powiązanych z przedsięwzięciem infrastrukturalnym, o których mowa w ust. 1 i 1a.
+
+### 5.
+
+W przypadku gdy beneficjentem finansowego wsparcia, o którym mowa w ust. 1-2, jest gmina albo związek międzygminny, które realizują przedsięwzięcia, o których mowa w ust. 1 pkt 2 i 3, albo powiat, który realizuje przedsięwzięcie lub inwestycję, o których mowa w ust. 1a, przedsięwzięcie infrastrukturalne stanowi odrębne przedsięwzięcie w rozumieniu ustawy.
+
+” ;
+
+### 7)
+
+uchyla się art. 6c;
+
+### 8)
+
+po art. 6c dodaje się art. 6d w brzmieniu:
+
+„
+
+### Art. 6d.
+
+Jeżeli przedsięwzięcie, o którym mowa w art. 3 ust. 1 pkt 3, art. 4 ust. 1 pkt 3 lub art. 5 ust. 1 pkt 4, dotyczy lokalu mieszkalnego znajdującego się w budynku wspólnoty mieszkaniowej, a beneficjent wsparcia w dniu rozpoczęcia realizacji przedsięwzięcia nie posiada większości udziałów w nieruchomości wspólnej, przepisów art. 35a-35c ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2021 r. poz. 305](https://api.sejm.gov.pl/eli/acts/DU/2021/305/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283.](#gloss-0:4:)) nie stosuje się.
+
+” ;
+
+### 9)
+
+w art. 7c dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2-6 w brzmieniu:
+
+„
+
+### 2.
+
+W przypadku gdy wysokość finansowego wsparcia udzielanego na pokrycie kosztów przedsięwzięcia, o którym mowa w art. 3 ust. 1, art. 5 ust. 1 oraz art. 5a ust. 1, w wyniku którego zostanie utworzony lokal mieszkalny, stanowi co najmniej:
+
+### 1)
+
+45% tych kosztów - stawka czynszu za 1 m2powierzchni użytkowej tego lokalu nie może przekroczyć w skali roku 3,5%,
+
+### 2)
+
+60% tych kosztów - stawka czynszu za 1 m2powierzchni użytkowej tego lokalu nie może przekroczyć w skali roku 3%,
+
+### 3)
+
+75% tych kosztów - stawka czynszu za 1 m2powierzchni użytkowej tego lokalu nie może przekroczyć w skali roku 2,5%,
+
+### 4)
+
+90% tych kosztów - stawka czynszu za 1 m2powierzchni użytkowej tego lokalu nie może przekroczyć w skali roku 2%
+
+- wartości odtworzeniowej lokalu, obliczonej zgodnie z art. 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
+
+### 3.
+
+W przypadku gdy finansowego wsparcia udzielano na pokrycie kosztów przedsięwzięcia, o którym mowa w art. 3 ust. 1 pkt 3, w wyniku którego lokal mieszkalny zostanie zmodernizowany, stawka czynszu za 1 m2powierzchni użytkowej tego lokalu nie może przekroczyć w skali roku 4% wartości odtworzeniowej lokalu, obliczonej zgodnie z art. 9 ust. 8 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego.
+
+### 4.
+
+Jeżeli wartość odtworzeniowa lokalu będąca podstawą ustalenia stawki czynszu zgodnie z ust. 1-3 jest niższa niż koszt utworzenia albo modernizacji lokalu mieszkalnego uwzględniający wartość nieruchomości, maksymalną stawkę czynszu, o której mowa w ust. 1-3, ustala się na podstawie kosztu utworzenia albo modernizacji lokalu mieszkalnego. Wynajmujący informuje najemcę o tych kosztach.
+
+### 5.
+
+W przypadku gdy ustalona na podstawie art. 8 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego stawka czynszu dla lokalu mieszkalnego przekracza limit określony w ust. 2 albo 3, a lokal ten utworzono albo zmodernizowano w ramach przedsięwzięcia, na pokrycie kosztów którego udzielono finansowego wsparcia, przy wynajmie i podnajmie tego lokalu gmina może stosować stawkę ustaloną na podstawie art. 8 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, z tym że środki stanowiące 80% różnicy między wpływami z czynszu ustalonego zgodnie z tą stawką a stawką ustaloną zgodnie z limitem określonym w ust. 2 albo 3 oraz odsetki uzyskane od tych środków gmina przeznacza na realizację przedsięwzięć, o których mowa w art. 1 pkt 1, lub zwraca do Funduszu Dopłat.
+
+### 6.
+
+Do dnia przeznaczenia na realizację przedsięwzięcia, o którym mowa w art. 1 pkt 1, lub zwrotu do Funduszu Dopłat środków, o których mowa w ust. 5, gmina albo związek międzygminny gromadzi te środki na wydzielonym rachunku bankowym. Otwarcie rachunku następuje nie później niż po upływie 3 miesięcy od dnia uzyskania środków podlegających gromadzeniu na tym rachunku.
+
+” ;
+
+### 10)
+
+w art. 8 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2-9 w brzmieniu:
+
+„
+
+### 2.
+
+Wniosek o finansowe wsparcie składa się za pomocą środków komunikacji elektronicznej przez elektroniczną skrzynkę podawczą Banku, o której mowa w art. 3 pkt 17 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2021 r. poz. 2070](https://api.sejm.gov.pl/eli/acts/DU/2021/2070/text.html) oraz [z 2022 r. poz. 1087](https://api.sejm.gov.pl/eli/acts/DU/2022/1087/text.html)).
+
+### 3.
+
+Wnioski o finansowe wsparcie rozpatruje się zgodnie z kolejnością wpływu, z uwzględnieniem art. 8b ust. 12. Za moment wpływu wniosku uznaje się datę i godzinę wprowadzenia albo przeniesienia dokumentu elektronicznego do systemu teleinformatycznego Banku wskazane w urzędowym poświadczeniu odbioru, o którym mowa w art. 3 pkt 20 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. W przypadku wniosku uzupełnianego w trybie ust. 5 kolejność wpływu ustala się zgodnie z momentem wpływu uzupełnionego wniosku.
+
+### 4.
+
+W terminie 30 dni od dnia wpływu wniosku o finansowe wsparcie Bank sprawdza, czy przedsięwzięcie jest zgodne z art. 3-6, art. 6b, art. 7, art. 13 oraz art. 14-16.
+
+### 5.
+
+W przypadku gdy przedsięwzięcie jest niezgodne z art. 3-6, art. 6b, art. 7, art. 13 lub art. 14-16, Bank wzywa wnioskodawcę do uzupełnienia wniosku o finansowe wsparcie, wskazując zakres tego uzupełnienia, oraz wyznacza termin na uzupełnienie nie dłuższy niż 30 dni od dnia doręczenia wezwania.
+
+### 6.
+
+W terminie 30 dni od dnia wpływu uzupełnionego wniosku o finansowe wsparcie Bank ponownie sprawdza, czy przedsięwzięcie jest zgodne z art. 3-6, art. 6b, art. 7, art. 13 oraz art. 14-16.
+
+### 7.
+
+Wniosek o finansowe wsparcie:
+
+### 1)
+
+na przedsięwzięcie niezgodne z art. 3-6, art. 6b, art. 7, art. 13 lub art. 14-16,
+
+### 2)
+
+nieuzupełniony w terminie, o którym mowa w ust. 5
+
+- pozostawia się bez rozpatrzenia.
+
+### 8.
+
+Bank informuje wnioskodawcę o pozostawieniu wniosku o finansowe wsparcie bez rozpatrzenia, wskazując przyczynę.
+
+### 9.
+
+Wniosek o finansowe wsparcie na przedsięwzięcie, które jest zgodne z art. 3-6, art. 6b, art. 7, art. 13 oraz art. 14-16, Bank kwalifikuje do udzielenia finansowego wsparcia.
+
+” ;
+
+### 11)
+
+po art. 8 dodaje się art. 8a i art. 8b w brzmieniu:
+
+„
+
+### Art. 8a.
+
+### 1.
+
+Wnioski o finansowe wsparcie Bank kwalifikuje do udzielenia finansowego wsparcia od dnia następującego po dniu ogłoszenia w danym roku komunikatu, o którym mowa w art. 8b ust. 3, do dnia 30 września tego roku, przy zachowaniu terminów wynikających z art. 8 ust. 3-6.
+
+### 2.
+
+W terminie do 15. dnia miesiąca następującego po danym kwartale Bank ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej listę zakwalifikowanych wniosków o finansowe wsparcie.
+
+### Art. 8b.
+
+### 1.
+
+Finansowe wsparcie jest udzielane w danym roku do łącznej wysokości środków budżetu państwa zaplanowanych na dany rok na zasilenie Funduszu Dopłat z przeznaczeniem na sfinansowanie wypłat finansowego wsparcia oraz wolnych środków tego funduszu.
+
+### 2.
+
+Do dnia 30 czerwca danego roku finansowego wsparcia na realizację przedsięwzięć, o których mowa w:
+
+### 1)
+
+art. 3, art. 4 lub art. 5a - udziela się do wysokości 40%,
+
+### 2)
+
+art. 5 ust. 1 pkt 1-3 - udziela się do wysokości 35%,
+
+### 3)
+
+art. 5 ust. 1 pkt 4 - udziela się do wysokości 15%,
+
+### 4)
+
+art. 5c - udziela się do wysokości 10%
+
+- łącznej wysokości środków, o których mowa w ust. 1.
+
+### 3.
+
+Do dnia 31 stycznia danego roku Bank ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o łącznej wysokości środków, o których mowa w ust. 1.
+
+### 4.
+
+W przypadku gdy łączna kwota wynikająca z wniosków o finansowe wsparcie zakwalifikowanych do udzielenia finansowego wsparcia w danym roku osiągnie równowartość łącznej wysokości środków, o których mowa w ust. 1, Bank wstrzymuje kwalifikację wniosków o finansowe wsparcie.
+
+### 5.
+
+W przypadku gdy do dnia 30 czerwca danego roku kwota wynikająca z zakwalifikowanych w danym roku wniosków o finansowe wsparcie na przedsięwzięcia, o których mowa w:
+
+### 1)
+
+art. 3, art. 4 lub art. 5a, osiągnie wysokość, o której mowa w ust. 2 pkt 1,
+
+### 2)
+
+art. 5 ust. 1 pkt 1-3, osiągnie wysokość, o której mowa w ust. 2 pkt 2,
+
+### 3)
+
+art. 5 ust. 1 pkt 4, osiągnie wysokość, o której mowa w ust. 2 pkt 3,
+
+### 4)
+
+art. 5c, osiągnie wysokość, o której mowa w ust. 2 pkt 4
+
+- Bank wstrzymuje kwalifikację wniosków o finansowe wsparcie danego rodzaju przedsięwzięć.
+
+### 6.
+
+W przypadkach, o których mowa w ust. 4 lub 5, Bank ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej komunikat o wstrzymaniu kwalifikacji wniosków o finansowe wsparcie lub wniosków o finansowe wsparcie danego rodzaju przedsięwzięć.
+
+### 7.
+
+Jeżeli kwota finansowego wsparcia wynikająca z rozpatrywanego wniosku o finansowe wsparcie jest wyższa niż łączna wysokość środków, o których mowa w ust. 1, Bank za zgodą beneficjenta wsparcia kwalifikuje ten wniosek w zakresie pozwalającym na udzielenie finansowego wsparcia w danym roku do łącznej wysokości środków, o których mowa w ust. 1. W takim przypadku wniosek o finansowe wsparcie w pozostałym zakresie jest kwalifikowany do udzielenia finansowego wsparcia w roku następnym.
+
+### 8.
+
+Przepis ust. 7 stosuje się również w przypadkach, o których mowa w ust. 5, z tym że wniosek o finansowe wsparcie w pozostałym zakresie jest kwalifikowany do udzielenia finansowego wsparcia od dnia 1 lipca danego roku, jeżeli w Funduszu Dopłat znajdują się wolne środki lub nie zostały wykorzystane środki budżetowe zaplanowane na ten rok.
+
+### 9.
+
+Wnioski o finansowe wsparcie niezakwalifikowane z powodu osiągnięcia łącznej wysokości środków w danym roku, o których mowa w ust. 1, Bank kwalifikuje do udzielenia finansowego wsparcia w roku następnym w pierwszej kolejności.
+
+### 10.
+
+Wnioski o finansowe wsparcie będące w trakcie rozpatrywania w momencie osiągnięcia łącznej wysokości środków w danym roku, o których mowa w ust. 1, Bank kwalifikuje do udzielenia finansowego wsparcia w roku następnym - po uprzednim zakwalifikowaniu wniosków, o których mowa w ust. 9. Przepisy art. 8 ust. 4-9 stosuje się.
+
+### 11.
+
+Wnioski o finansowe wsparcie będące w dniu 30 czerwca danego roku w trakcie rozpatrywania Bank kwalifikuje do udzielenia finansowego wsparcia od dnia 1 lipca danego roku w pierwszej kolejności. Przepisy art. 8 ust. 4-9 stosuje się.
+
+### 12.
+
+Wnioski o finansowe wsparcie niezakwalifikowane do dnia 30 czerwca danego roku z powodu osiągnięcia wysokości środków, o których mowa w ust. 2, Bank kwalifikuje do udzielenia finansowego wsparcia od dnia 1 lipca danego roku - po uprzednim zakwalifikowaniu wniosków, o których mowa w ust. 11.
+
+### 13.
+
+W przypadku gdy po ogłoszeniu w danym roku komunikatu, o którym mowa w ust. 6, a przed dniem 30 września tego roku zostaną uwolnione znajdujące się w Funduszu Dopłat środki, Bank wznawia kwalifikację wniosków o finansowe wsparcie, z uwzględnieniem ust. 7.
+
+” ;
+
+### 12)
+
+w art. 12 w ust. 1 skreśla się wyrazy „rok i”;
+
+### 13)
+
+użyte w art. 12a w ust. 1 oraz w art. 16 w ust. 1 i 1a, w różnej liczbie i różnym przypadku, wyrazy „ wniosek, o którym mowa w art. 8” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „wniosek o finansowe wsparcie”;
+
+### 14)
+
+w art. 13:
+
+### a)
+
+użyte w ust. 1 w pkt 1 oraz w ust. 1a w pkt 1 wyrazy „gruntu stanowiącego własność inwestora” zastępuje się wyrazami „prawa własności albo prawa użytkowania wieczystego gruntu będącego we władaniu inwestora”,
+
+### b)
+
+w ust. 6:
+
+- - w pkt 2 po wyrazach „pkt 2” dodaje się wyrazy „i ust. 1a pkt 1”,
+
+- - pkt 5 otrzymuje brzmienie: „ 5) ceny nieruchomości zbytej przez gminę na zasadach określonych w ustawie z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” - w przypadku, o którym mowa w art. 5c ust. 1 pkt 5 i ust. 1a pkt 2. ” ,
+
+### c)
+
+dodaje się ust. 7-11 w brzmieniu:
+
+„
+
+### 7.
+
+Wysokość finansowego wsparcia na realizację przedsięwzięcia infrastrukturalnego nie może przekroczyć 10 000 000 zł.
+
+### 8.
+
+W przypadku wzrostu kosztów przedsięwzięcia, na które udzielono finansowego wsparcia, kwota finansowego wsparcia określona w umowie, o której mowa w art. 12 ust. 1, podlega aktualizacji, jednak nie więcej niż o wartość 20% kosztów przedsięwzięcia, na podstawie których kwotę tę określono.
+
+### 9.
+
+Aktualizacji, o której mowa w ust. 8, dokonuje się na wniosek beneficjenta wsparcia złożony do Banku przed dniem przedłożenia rozliczenia, o którym mowa w art. 18 ust. 1 pkt 1.
+
+### 10.
+
+Do wniosku, o którym mowa w ust. 9, stosuje się:
+
+### 1)
+
+przepisy art. 8 ust. 1-3 i 8 oraz art. 8b ust. 1, 4, 6 i 7;
+
+### 2)
+
+odpowiednio przepisy art. 8 ust. 4-7 i 9 oraz art. 8a, z tym że wniosek jest kwalifikowany do udzielenia finansowego wsparcia od dnia 1 lipca danego roku, a terminy określone w art. 8 ust. 4-6 wynoszą 14 dni.
+
+### 11.
+
+Aktualizacji, o której mowa w ust. 8, dokonuje się raz, w formie aneksu do umowy, o której mowa w art. 12 ust. 1.
+
+” ;
+
+### 15)
+
+uchyla się art. 13a;
+
+### 16)
+
+w art. 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Przez koszty wykonania stanowisk postojowych lub garaży znajdujących się w budynkach mieszkalnych i wielopoziomowych, o których mowa w ust. 1 pkt 1 lit. a tiret drugie, rozumie się koszty wykonania stanowisk postojowych lub garaży zlokalizowanych w obrębie finansowanego przedsięwzięcia w liczbie nieprzekraczającej minimalnej liczby wynikającej z ustaleń miejscowego planu zagospodarowania przestrzennego albo decyzji o warunkach zabudowy oraz przypadającej na finansowanie w ramach przedsięwzięcia.
+
+” ;
+
+### 17)
+
+w art. 15 w ust. 1 wyrazy „pkt 1 i 2” zastępuje się wyrazami „ust. 1 pkt 1 i 2”;
+
+### 18)
+
+w art. 17:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Warunkiem uruchomienia finansowego wsparcia oraz jego przekazania na rachunek beneficjenta wsparcia jest zawarcie umowy, o której mowa w art. 12 ust. 1.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Kwota finansowego wsparcia jest przekazywana na rachunek beneficjenta wsparcia w roku zawarcia umowy, o której mowa w art. 12 ust. 1.
+
+” ,
+
+### d)
+
+w ust. 4:
+
+- - w pkt 2 w lit. b wyrazy „pkt 2 i 3” zastępuje się wyrazami „pkt 2-4,”,
+
+- - dodaje się pkt 3 i 4 w brzmieniu: „ 3) nierozpoczęcia robót budowlanych w terminie 2 lat - w przypadkach, o których mowa w art. 3 ust. 1 pkt 1-4, art. 4 oraz art. 5c, 4) nieprzeniesienia własności lokalu mieszkalnego, budynku mieszkalnego albo udziału we współwłasności budynku mieszkalnego w terminie 2 lat - w przypadkach, o których mowa w art. 3 ust. 1 pkt 5 i 6 ” ;
+
+### 19)
+
+art. 19 otrzymuje brzmienie:
+
+„
+
+### Art. 19.
+
+Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego, określi, w drodze rozporządzenia, dla przedsięwzięć, o których mowa w art. 3-5 i art. 5c:
+
+### 1)
+
+szczegółowy zakres informacji, jakie zawiera wniosek o finansowe wsparcie, oraz wykaz dokumentów, które dołącza się do wniosku, mając na względzie zapewnienie możliwości identyfikacji wnioskodawcy oraz stwierdzenia zgodności przedsięwzięcia z wymaganiami dotyczącymi udzielenia finansowego wsparcia;
+
+### 2)
+
+wzór formularza, o którym mowa w art. 18 ust. 2, mając na względzie zapewnienie ujednolicenia zakresu przekazywanych informacji;
+
+### 3)
+
+sposób ustalania dopuszczalnej wysokości rekompensaty, o której mowa w art. 5 ust. 5, oraz sposób i tryb weryfikowania zgodności jej przyznawania z przepisami prawa Unii Europejskiej dotyczącymi pomocy publicznej z tytułu świadczenia usług w ogólnym interesie gospodarczym, mając na względzie konieczność zapewnienia bieżącego monitorowania wysokości wypłaconej rekompensaty oraz przeciwdziałania przekazaniu beneficjentom wsparcia nadmiernego przysporzenia.
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2022 r. poz. 438) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6 w ust. 1 w pkt 2 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+w art. 24 w ust. 1 w pkt 1b wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 15.
+
+W ustawie z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi ([Dz. U. z 2021 r. poz. 379](https://api.sejm.gov.pl/eli/acts/DU/2021/379/text.html)) w art. 28:
+
+### 1)
+
+w ust. 2 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”;
+
+### 2)
+
+w ust. 2a wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych”.
+
+### Art. 16.
+
+W ustawie z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi ([Dz. U. z 2019 r. poz. 1116](https://api.sejm.gov.pl/eli/acts/DU/2019/1116/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 14 dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 6, nie może być niższa niż równowartość kwoty, o której mowa w ust. 1.
+
+” ;
+
+### 2)
+
+w art. 15 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Ustalona do zwrotu łączna kwota finansowego wsparcia wraz z odsetkami ustawowymi, o której mowa w ust. 1, nie może być niższa niż kwota otrzymanego wsparcia.
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach ([Dz. U. z 2021 r. poz. 2354](https://api.sejm.gov.pl/eli/acts/DU/2021/2354/text.html) oraz [z 2022 r. poz. 91](https://api.sejm.gov.pl/eli/acts/DU/2022/91/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [830](https://api.sejm.gov.pl/eli/acts/DU/2022/830/text.html), [835](https://api.sejm.gov.pl/eli/acts/DU/2022/835/text.html) i [1383](https://api.sejm.gov.pl/eli/acts/DU/2022/1383/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 139a w ust. 3 w pkt 3 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+użyte w art. 139o w ust. 2 w pkt 3 oraz w art. 142 w ust. 1 w pkt 3 w lit. a wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 18.
+
+W ustawie z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego ([Dz. U. z 2021 r. poz. 303](https://api.sejm.gov.pl/eli/acts/DU/2021/303/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2021/2122/text.html) oraz [z 2022 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2022/613/text.html), [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html) i [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html)) w art. 62:
+
+### 1)
+
+w ust. 2 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+w ust. 3 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 19.
+
+W ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości ([Dz. U. z 2021 r. poz. 1961](https://api.sejm.gov.pl/eli/acts/DU/2021/1961/text.html) oraz [z 2022 r. poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 ust. 4a otrzymuje brzmienie:
+
+„
+
+### 4a.
+
+Prawa z udziałów lub akcji Skarbu Państwa objętych na jego rzecz przez KZN wykonuje KZN, chyba że Rada Ministrów, na wniosek ministra właściwego do spraw aktywów państwowych, powierzy ich wykonywanie organom administracji rządowej, państwowym jednostkom budżetowym, o których mowa w art. 11 ust. 1 i art. 12 ust. 1 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, agencjom wykonawczym, o których mowa w art. 18 tej ustawy, pełnomocnikom rządu lub państwowym osobom prawnym, w tym jednoosobowym spółkom Skarbu Państwa.
+
+” ;
+
+### 2)
+
+w art. 7 w ust. 4 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”;
+
+### 3)
+
+w art. 7a w ust. 1 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 4)
+
+po art. 7a dodaje się art. 7b w brzmieniu:
+
+„
+
+### Art. 7b.
+
+W przypadku tworzenia podmiotów, o których mowa w art. 7 ust. 1 i art. 7a ust. 1, lub przystępowania do tych podmiotów, udziały w tych podmiotach lub ich akcje KZN obejmuje na rzecz Skarbu Państwa.
+
+” ;
+
+### 5)
+
+w art. 10:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Właściwe organy oraz spółki Skarbu Państwa sporządzają wykazy nieruchomości, o których mowa w art. 1 ust. 1 pkt 3, którymi gospodarują.
+
+” ,
+
+### b)
+
+w ust. 2 w pkt 5 w lit. e dodaje się tiret piętnaste i szesnaste w brzmieniu:
+
+„
+
+- - ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących,
+
+- - ustawy z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym ([Dz. U. z 2022 r. poz. 1275](https://api.sejm.gov.pl/eli/acts/DU/2022/1275/text.html)),
+
+” ;
+
+### 6)
+
+w art. 30a w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+lokalu mieszkalnego lub lokalu o innym przeznaczeniu wraz z pomieszczeniami przynależnymi w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2021 r. poz. 1048](https://api.sejm.gov.pl/eli/acts/DU/2021/1048/text.html)) oraz udziału w nieruchomości wspólnej;
+
+” ;
+
+### 7)
+
+użyty w art. 31 w ust. 4 w pkt 1, w art. 46 w ust. 1 w pkt 3 i w ust. 2 we wprowadzeniu do wyliczenia, w art. 48 w ust. 3 oraz w art. 135 wyraz „Zasobem” zastępuje się wyrazami „nieruchomościami wchodzącymi w skład Zasobu”;
+
+### 8)
+
+w art. 32 ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Członkowie Rady Nadzorczej pobierają wynagrodzenie na zasadach określonych w art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi ([Dz. U. z 2019 r. poz. 2136](https://api.sejm.gov.pl/eli/acts/DU/2019/2136/text.html)), z tym że wysokość wynagrodzenia ustala minister, o którym mowa w ust. 4.
+
+” ;
+
+### 9)
+
+w art. 33 w ust. 1:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+opiniowanie projektu rocznego planu finansowego KZN i rocznego sprawozdania finansowego KZN;
+
+” ,
+
+### b)
+
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+zatwierdzanie kwartalnych sprawozdań z realizacji planu finansowego KZN;
+
+” ;
+
+### 10)
+
+w art. 35:
+
+### a)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+ustanawianie zabezpieczeń, o których mowa w art. 66a ust. 1 pkt 2;
+
+” ,
+
+### b)
+
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+przekazanie, o którym mowa w art. 51 ust. 1 pkt 3a, gdy wartość przekazywanej nieruchomości przekracza 2 000 000 zł;
+
+” ,
+
+### c)
+
+w pkt 10:
+
+- - po wyrazie „udziałów” dodaje się wyrazy „lub akcji”,
+
+- - kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu: „ 11) realizowanie obowiązku dopłat w spółkach z udziałem KZN, jeżeli uchwała wspólników o zobowiązaniu do dopłaty zapadła jednogłośnie. ” ;
+
+### 11)
+
+w art. 38 w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+opracowywanie i przedstawianie do zatwierdzenia Radzie Nadzorczej kwartalnych sprawozdań z realizacji planu finansowego KZN;
+
+” ;
+
+### 12)
+
+w art. 45 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prezes KZN przedstawia ministrowi, o którym mowa w art. 31 ust. 3:
+
+### 1)
+
+kwartalne sprawozdanie z realizacji planu finansowego KZN zatwierdzone przez Radę Nadzorczą - w terminie do końca miesiąca następującego po kwartale, którego dotyczy sprawozdanie;
+
+### 2)
+
+do zatwierdzenia - roczne sprawozdanie finansowe KZN opracowane przez Prezesa KZN wraz ze sprawozdaniem z badania sporządzonym przez firmę audytorską i opinią Rady Nadzorczej - w terminie do dnia 30 kwietnia roku następującego po roku, którego dotyczy sprawozdanie.
+
+” ;
+
+### 13)
+
+w art. 46 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+dotacje podmiotowe oraz dotacje celowe z budżetu państwa przeznaczone na dofinansowanie bieżącej działalności KZN;
+
+” ;
+
+### 14)
+
+w art. 48 w ust. 5a pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+40% przychodów KZN:
+
+### a)
+
+z działalności w zakresie gospodarowania nieruchomościami wchodzącymi w skład Zasobu,
+
+### b)
+
+o których mowa w art. 46 ust. 1 pkt 4 i 8.
+
+” ;
+
+### 15)
+
+w art. 49 w ust. 1 w pkt 1 w lit. aa po wyrazie „udziałów” dodaje się wyrazy „lub akcji”;
+
+### 16)
+
+w art. 51:
+
+### a)
+
+w ust. 1:
+
+- - po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) przekazania jednostce samorządu terytorialnego w celu zbycia tej nieruchomości z rozliczeniem w jej cenie ceny lokali lub budynków przekazywanych na własność tej jednostce przez nabywcę nieruchomości, o którym mowa w ustawie z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” ([Dz. U. z 2021 r. poz. 223](https://api.sejm.gov.pl/eli/acts/DU/2021/223/text.html) oraz [z 2022 r. poz. 1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)); ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) aportu do spółki celowej, społecznej inicjatywy mieszkaniowej lub towarzystwa budownictwa społecznego; ” ,
+
+### b)
+
+w ust. 5:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku wystąpienia o wyrażenie zgody, o której mowa w art. 35 pkt 2a, 9 i 10, art. 51a ust. 3, art. 53 ust. 2 oraz art. 65 ust. 1, we wniosku o wyrażenie zgody wskazuje się: ” ,
+
+- - w pkt 1 skreśla się wyrazy „z wyszczególnieniem danych ewidencyjnych identyfikujących składniki aktywów trwałych”,
+
+- - po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) informację o danych ewidencyjnych identyfikujących składniki aktywów trwałych, z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej w skład Zasobu; ” ,
+
+- - pkt 2 otrzymuje brzmienie: „ 2) wartość nieruchomości, z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej w skład Zasobu; ” ,
+
+- - po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) wysokość wnoszonych środków w przypadku wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności przewidziano przeznaczenie tych środków na objęcie udziałów lub akcji w społecznych inicjatywach mieszkaniowych lub towarzystwach budownictwa społecznego; ” ,
+
+### c)
+
+w ust. 6 w pkt 1 w lit. b skreśla się średnik i dodaje się część wspólną liter w brzmieniu:
+
+„
+
+- - z wyjątkiem wniosku o wyrażenie zgody, o której mowa w art. 35 pkt 9 i 10, jeżeli w ramach objętej nią czynności nie przewidziano wniesienia jako aportu nieruchomości wchodzącej w skład Zasobu;
+
+” ;
+
+### 17)
+
+w art. 51a w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+ma być przedmiotem aportu do spółek lub wkładu własnego do spółek, o których mowa w art. 7 ust. 1, oraz spółek, o których mowa w art. 23 ust. 1 pkt 1 i 2 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, i spółek, o których mowa w art. 14 ust. 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;"
+
+### 18)
+
+po art. 51a dodaje się art. 51b w brzmieniu:
+
+„
+
+### Art. 51b.
+
+### 1.
+
+W przypadku przekazania jednostce samorządu terytorialnego nieruchomości, której wartość przekracza 2 000 000 zł, w celu, o którym mowa w art. 51 ust. 1 pkt 3a, uchwałę, o której mowa w art. 4 ust. 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, podejmuje się po uzgodnieniu z ministrem, o którym mowa w art. 31 ust. 3.
+
+### 2.
+
+W przypadku sprzedaży nieruchomości przekazanej jednostce samorządu terytorialnego w celu, o którym mowa w art. 51 ust. 1 pkt 3a, podlegająca zapłacie pieniężnej różnica, o której mowa w art. 10 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, stanowi przychód KZN ze zbycia tej nieruchomości.
+
+### 3.
+
+W przypadku gdy w terminie 3 lat od dnia przekazania jednostce samorządu terytorialnego nieruchomości w celu, o którym mowa w art. 51 ust. 1 pkt 3a, nie dojdzie do sprzedaży tej nieruchomości na zasadach określonych w uchwale, o której mowa w art. 4 ust. 2 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt”, KZN występuje do jednostki samorządu terytorialnego z żądaniem zwrotu tej nieruchomości do Zasobu albo zapłaty jej wartości rynkowej określonej na dzień żądania.
+
+### 4.
+
+Do umowy o przekazanie jednostce samorządu terytorialnego nieruchomości w celu, o którym mowa w art. 51 ust. 1 pkt 3a, przepis art. 52 ust. 8 stosuje się odpowiednio.
+
+” ;
+
+### 19)
+
+w art. 52 w ust. 1:
+
+### a)
+
+pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+w celu realizacji zadań, o których mowa w art. 7 ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2022 r. poz. 559](https://api.sejm.gov.pl/eli/acts/DU/2022/559/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [1005](https://api.sejm.gov.pl/eli/acts/DU/2022/1005/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html) i [1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)), art. 4 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2022 r. poz. 1526](https://api.sejm.gov.pl/eli/acts/DU/2022/1526/text.html)) oraz art. 14 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa ([Dz. U. z 2022 r. poz. 547](https://api.sejm.gov.pl/eli/acts/DU/2022/547/text.html) i [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html));
+
+” ,
+
+### b)
+
+uchyla się pkt 8;
+
+### 20)
+
+w art. 52b:
+
+### a)
+
+we wprowadzeniu do wyliczenia po wyrazie „udziałów” dodaje się wyrazy „lub akcji”,
+
+### b)
+
+w pkt 1 po wyrazie „udziałów” dodaje się wyrazy „lub akcji”;
+
+### 21)
+
+po art. 66 dodaje się art. 66a w brzmieniu:
+
+„
+
+### Art. 66a.
+
+### 1.
+
+KZN, za zgodą ministra, o którym mowa w art. 31 ust. 3, może wykorzystywać mienie Zasobu do ustanawiania zabezpieczeń:
+
+### 1)
+
+zaciąganych zobowiązań finansowych KZN w celu pełnego pokrycia wydatków własnych;
+
+### 2)
+
+zobowiązań finansowych podmiotów, o których mowa w art. 7 ust. 1 i art. 7a ust. 1, jeżeli są związane z realizacją zadań wynikających z polityki państwa, w szczególności w zakresie tworzenia warunków do zwiększenia dostępności mieszkań na wynajem, wspierania rozwoju społecznego budownictwa czynszowego, wdrażania i stosowania instrumentów wsparcia rozwoju mieszkalnictwa, aktywnej polityki mieszkaniowej oraz rozwoju budownictwa mieszkaniowego.
+
+### 2.
+
+Ustanowienie zabezpieczeń, o których mowa w ust. 1, może polegać w szczególności na ustanowieniu przez KZN hipotek na nieruchomościach Zasobu.
+
+### 3.
+
+Sumy hipotek, o których mowa w ust. 2, nie mogą łącznie przekroczyć kwoty 350 000 000 zł.
+
+” ;
+
+### 22)
+
+w art. 140 uchyla się ust. 2.
+
+### Art. 20.
+
+W ustawie z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw ([Dz. U. poz. 756](https://api.sejm.gov.pl/eli/acts/DU/2018/756/text.html), [z 2019 r. poz. 1309](https://api.sejm.gov.pl/eli/acts/DU/2019/1309/text.html) oraz [z 2021 r. poz. 11](https://api.sejm.gov.pl/eli/acts/DU/2021/11/text.html)) w art. 21 uchyla się ust. 2-7.
+
+### Art. 21.
+
+W ustawie z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania ([Dz. U. z 2021 r. poz. 2158](https://api.sejm.gov.pl/eli/acts/DU/2021/2158/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 1 w pkt 2 w lit. d wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 2)
+
+użyte w art. 4 w ust. 1 w pkt 2 w lit. e, w art. 6 w ust. 1 w pkt 4, w art. 7b w pkt 2 oraz w art. 31 w ust. 3 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”;
+
+### 3)
+
+w art. 7b pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+lokali mieszkalnych lub budynków mieszkalnych jednorodzinnych wniesionych jako wkład niepieniężny do spółki zgodnie z art. 12 ust. 1 ustawy z dnia 16 grudnia 2020 r. o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” ([Dz. U. z 2021 r. poz. 223](https://api.sejm.gov.pl/eli/acts/DU/2021/223/text.html) oraz [z 2022 r. poz. 1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)), zwanej dalej „ustawą „lokal za grunt” ”;
+
+” ;
+
+### 4)
+
+w art. 13 w ust. 1a wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”;
+
+### 5)
+
+w art. 15 po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Ustalone do zwrotu nienależnie pobrane kwoty dopłat wraz z odsetkami ustawowymi, o których mowa w ust. 6, nie mogą być niższe niż równowartość wypłaconych dopłat.
+
+” ;
+
+### 6)
+
+w art. 17 po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Ustalona do zwrotu łączna kwota zastosowanych dopłat i odsetek, o której mowa w ust. 3, nie może być niższa niż równowartość wypłaconych dopłat.
+
+” .
+
+### Art. 22.
+
+W ustawie z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg ([Dz. U. z 2022 r. poz. 505](https://api.sejm.gov.pl/eli/acts/DU/2022/505/text.html) i [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 24 w ust. 1 w pkt 7 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”;
+
+### 2)
+
+w art. 26 w ust. 1 w części wspólnej wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych”.
+
+### Art. 23.
+
+W ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej ([Dz. U. z 2021 r. poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2021/717/text.html), [802](https://api.sejm.gov.pl/eli/acts/DU/2021/802/text.html) i [2165](https://api.sejm.gov.pl/eli/acts/DU/2021/2165/text.html) oraz [z 2022 r. poz. 640](https://api.sejm.gov.pl/eli/acts/DU/2022/640/text.html)) w art. 25 w ust. 1 w pkt 8 wyrazy „tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń (Dz. U. z 2020 r. poz. 508 oraz z 2021 r. poz. 11 i 223)” zastępuje się wyrazami „niektórych przedsięwzięć mieszkaniowych (Dz. U. z 2022 r. poz. 377 i 1561)”.
+
+### Art. 24.
+
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. z 2021 r. poz. 2095](https://api.sejm.gov.pl/eli/acts/DU/2021/2095/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370 i 1488.](#gloss-0:5:)) w art. 15y wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2019 r. poz. 2195 oraz z 2021 r. poz. 11, 1177, 1243 i 1535)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”.
+
+### Art. 25.
+
+W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202.](#gloss-0:6:)) uchyla się art. 90 i art. 90a.
+
+### Art. 26.
+
+W ustawie z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości ([Dz. U. z 2021 r. poz. 223](https://api.sejm.gov.pl/eli/acts/DU/2021/223/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o zbywaniu nieruchomości z rozliczeniem „lokal za grunt” ” ;
+
+### 2)
+
+w art. 1 w ust. 1 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+zasady zbywania nieruchomości z gminnego albo powiatowego zasobu nieruchomości z rozliczaniem w cenie tych nieruchomości ceny lokali lub budynków przekazywanych przez nabywcę nieruchomości na własność gminie albo powiatowi;
+
+### 2)
+
+sposób postępowania z lokalami lub budynkami przekazanymi na własność gminie albo powiatowi przez nabywcę nieruchomości zbytej z gminnego albo powiatowego zasobu nieruchomości, których cenę rozliczono w cenie zbytej nieruchomości.
+
+” ;
+
+### 3)
+
+użyty w art. 2 w ust. 1 w pkt 1 w lit. a i b oraz w pkt 2, w art. 3 oraz w art. 5 w ust. 1 i 2 wyraz „ gminnego” zastępuje się wyrazami „gminnego albo powiatowego”;
+
+### 4)
+
+użyty w art. 2 w ust. 1 w pkt 1 w części wspólnej i w pkt 2 oraz w ust. 2, w art. 3, w art. 4 w ust. 3 w części wspólnej, w ust. 4 we wprowadzeniu do wyliczenia, w ust. 5, w ust. 6 we wprowadzeniu do wyliczenia i w pkt 1 w lit. b oraz w ust. 8, w ust. 9 we wprowadzeniu do wyliczenia i w ust. 10-12, w art. 5 w ust. 3, w art. 6 w ust. 2 w pkt 3 i w pkt 9 w lit. a-e, w art. 7 w ust. 1 w pkt 5 we wprowadzeniu do wyliczenia, w art. 9 w pkt 2, w pkt 4 we wprowadzeniu do wyliczenia oraz w pkt 5 i 6, w art. 10, w art. 11 w ust. 1 i 2, w art. 12 w ust. 3 we wprowadzeniu do wyliczenia oraz w art. 14 w ust. 1 w pkt 3 we wprowadzeniu do wyliczenia, w różnym przypadku, wyraz „ gmina” zastępuje się użytymi w odpowiednim przypadku wyrazami „ gmina albo powiat”;
+
+### 5)
+
+w art. 2 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+organ właściwy - organ wykonawczy gminy albo powiatu gospodarujący gminnym albo powiatowym zasobem nieruchomości, z którego pochodzi nieruchomość zbywana z rozliczaniem w cenie tej nieruchomości ceny lokali lub budynków przekazywanych przez inwestora na własność tej gminie albo temu powiatowi.
+
+” ;
+
+### 6)
+
+w art. 4:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+O zbyciu nieruchomości z rozliczeniem „lokal za grunt” rozstrzyga:
+
+### 1)
+
+rada gminy zgodnie z właściwością, o której mowa w art. 18 ust. 2 pkt 9 lit. a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2022 r. poz. 559](https://api.sejm.gov.pl/eli/acts/DU/2022/559/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [1005](https://api.sejm.gov.pl/eli/acts/DU/2022/1005/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html) i [1561](https://api.sejm.gov.pl/eli/acts/DU/2022/1561/text.html)) - w przypadku nieruchomości z gminnego zasobu nieruchomości;
+
+### 2)
+
+rada powiatu zgodnie z właściwością, o której mowa w art. 12 pkt 8 lit. a ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2022 r. poz. 1526](https://api.sejm.gov.pl/eli/acts/DU/2022/1526/text.html)) - w przypadku nieruchomości z powiatowego zasobu nieruchomości.
+
+### 2.
+
+Do projektu uchwały określającej zasady zbycia nieruchomości z rozliczeniem „lokal za grunt”, zwanej dalej „uchwałą o zbyciu nieruchomości”, dołącza się operat szacunkowy określający wartość tej nieruchomości sporządzony przez rzeczoznawcę majątkowego nie wcześniej niż 3 miesiące przed dniem złożenia projektu tej uchwały radzie, o której mowa w ust. 1.
+
+” ,
+
+### b)
+
+w ust. 9 w pkt 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ 20% wartości średniego wskaźnika przeliczeniowego - w przypadku wskazania w tej uchwale minimalnego standardu tego lokalu lub budynku w zakresie wyposażenia i wykończenia na poziomie umożliwiającym: ” ;
+
+### 7)
+
+w art. 6 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przetarg ogłasza, organizuje i przeprowadza organ właściwy. Przetarg ogłasza się nie wcześniej niż po upływie terminu, o którym mowa w art. 91 ust. 1 zdanie drugie ustawy z dnia 8 marca 1990 r. o samorządzie gminnym - w przypadku przetargu na zbycie nieruchomości z gminnego zasobu nieruchomości, oraz terminu, o którym mowa w art. 79 ust. 1 zdanie drugie ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym - w przypadku przetargu na zbycie nieruchomości z powiatowego zasobu nieruchomości.
+
+” ;
+
+### 8)
+
+w art. 12 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Gmina albo powiat może dokonać wniesienia lokali lub budynków przekazanych tej gminie albo temu powiatowi na własność przez inwestora w ramach rozliczenia „lokal za grunt” jako wkładu niepieniężnego do spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej, w której jednostki samorządu terytorialnego, Skarb Państwa lub inne państwowe osoby prawne dysponują łącznie ponad 50% głosów na zgromadzeniu wspólników lub walnym zgromadzeniu.
+
+” ;
+
+### 9)
+
+w art. 13 skreśla się wyrazy „ przez radę gminy”;
+
+### 10)
+
+w art. 14 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Gmina zbywająca albo powiat zbywający nieruchomości z gminnego albo powiatowego zasobu nieruchomości z rozliczeniem „lokal za grunt” przekazują właściwemu miejscowo wojewodzie kwartalne informacje o: ” ;
+
+### 11)
+
+uchyla się art. 20.
+
+### Art. 27.
+
+W ustawie z dnia 1 października 2021 r. o gwarantowanym kredycie mieszkaniowym ([Dz. U. poz. 2133](https://api.sejm.gov.pl/eli/acts/DU/2021/2133/text.html) i [2427](https://api.sejm.gov.pl/eli/acts/DU/2021/2427/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6:
+
+### a)
+
+w ust. 6 dodaje się zdanie trzecie w brzmieniu: „ Opłata prowizyjna nie podlega zwrotowi, z wyjątkiem przypadku, w którym nie doszło do objęcia gwarancją części gwarantowanego kredytu mieszkaniowego, oraz przypadku, o którym mowa w art. 15 lub art. 42 ust. 1 i 2 ustawy z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami ([Dz. U. z 2020 r. poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2020/1027/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html) oraz [z 2022 r. poz. 872](https://api.sejm.gov.pl/eli/acts/DU/2022/872/text.html) i [1488](https://api.sejm.gov.pl/eli/acts/DU/2022/1488/text.html)). ” ,
+
+### b)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Za spłatę części kapitałowej gwarantowanego kredytu mieszkaniowego uznaje się również zmniejszenie kwoty tego kredytu dokonane po jego udzieleniu, a przed uruchomieniem pełnej kwoty, z wyłączeniem przypadków, w których zmniejszenie kwoty kredytu jest decyzją kredytobiorcy i powoduje naruszenie warunków wskazanych w ust. 2 i 3.
+
+” ;
+
+### 2)
+
+w art. 7 w ust. 3 w części wspólnej skreśla się wyrazy „, przy czym wysokość pozostałej do spłaty części kapitałowej gwarantowanego kredytu mieszkaniowego ustala się na dzień powiększenia gospodarstwa domowego”.
+
+### Art. 28.
+
+W ustawie z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw ([Dz. U. poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w odnośniku nr 1 do ustawy wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”;
+
+### 2)
+
+w art. 3 we wprowadzeniu do wyliczenia wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”;
+
+### 3)
+
+w art. 14 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+w art. 32:
+
+### a)
+
+w ust. 1 wyraz „6” zastępuje się wyrazem „8”,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1 wyrazy „2 przedstawicieli” zastępuje się wyrazem „przedstawiciel”,
+
+- - po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) 4 przedstawicieli ministra właściwego do spraw rozwoju regionalnego; ” ,
+
+- - w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5;
+
+” ;
+
+### 4)
+
+w art. 24 w ust. 1 uchyla się pkt 3;
+
+### 5)
+
+w art. 33 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, w terminie 7 dni od dnia wejścia w życie art. 14, wskaże swojego przedstawiciela do składu Rady Nadzorczej Krajowego Zasobu Nieruchomości, o której mowa w art. 32 ust. 1 ustawy zmienianej w art. 14 w brzmieniu nadanym niniejszą ustawą.
+
+” ;
+
+### 6)
+
+art. 37 otrzymuje brzmienie:
+
+„
+
+### Art. 37.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 3, art. 6, art. 7, art. 9, art. 11, art. 12, art. 14-18 i art. 24-34, które wchodzą w życie z dniem 1 sierpnia 2022 r.;
+
+### 2)
+
+art. 10, art. 35 i art. 36, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
+” .
+
+### Art. 29.
+
+W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa ([Dz. U. poz. 583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087 i 1383.](#gloss-0:7:)) w art. 70:
+
+### 1)
+
+w ust. 1:
+
+### a)
+
+w pkt 2 wyrazy „niektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2021 r. poz. 2224)” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2021 r. poz. 2224 oraz z 2022 r. poz. 807 i 1561)”,
+
+### b)
+
+w części wspólnej „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”;
+
+### 2)
+
+w ust. 2 wyrazy „niektórych formach popierania budownictwa mieszkaniowego” zastępuje się wyrazami „społecznych formach rozwoju mieszkalnictwa”.
+
+### Art. 30.
+
+Umowy zawarte przed dniem wejścia w życie niniejszego przepisu na podstawie art. 9 ust. 2a ustawy zmienianej w art. 1 zachowują ważność przez okres, na jaki zostały zawarte.
+
+### Art. 31.
+
+W przypadku gdy stopa redyskonta weksli w Narodowym Banku Polskim osiągnie wartość niższą niż 0,00% w skali roku, dla określenia wysokości oprocentowania kredytu udzielonego na realizację przedsięwzięcia inwestycyjno-budowlanego albo realizację infrastruktury technicznej na podstawie wniosku złożonego w Banku Gospodarstwa Krajowego do dnia 30 września 2009 r. na podstawie przepisów ustawy zmienianej w art. 4 w brzmieniu obowiązującym do dnia 30 września 2009 r. przyjmuje się jej wartość równą 0,00% w skali roku.
+
+### Art. 32.
+
+Do spłaty kredytów udzielonych przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustawy zmienianej w art. 4 w ramach finansowania zwrotnego stosuje się przepisy ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 33.
+
+Do wsparcia udzielonego ze środków Rządowego Funduszu Rozwoju Mieszkalnictwa przed dniem wejścia w życie niniejszej ustawy na podstawie przepisów ustawy zmienianej w art. 4 stosuje się przepisy ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą, z tym że w przypadku udziałów lub akcji społecznej inicjatywy mieszkaniowej albo towarzystwa budownictwa społecznego objętych przez gminę z wykorzystaniem wsparcia, o którym mowa w art. 33l ustawy zmienianej w art. 4, przed dniem wejścia w życie niniejszej ustawy, terminy, o których mowa w art. 33p ust. 1a i 1b ustawy zmienianej w art. 4, biegną od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 34.
+
+### 1.
+
+Jeżeli do dnia wejścia w życie niniejszej ustawy gmina nie zawarła ze społeczną inicjatywą mieszkaniową albo z towarzystwem budownictwa społecznego umowy, o której mowa w art. 33p ust. 2 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym, gmina i ta społeczna inicjatywa mieszkaniowa albo gmina i to towarzystwo budownictwa społecznego zawierają tę umowę w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy gmina, która przed tym dniem zawarła ze społeczną inicjatywą mieszkaniową albo z towarzystwem budownictwa społecznego umowę, o której mowa w art. 33p ust. 2 ustawy zmienianej w art. 4 w brzmieniu dotychczasowym, dostosuje tę umowę do wymogów, o których mowa w art. 33p ust. 2 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 35.
+
+W terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy społeczne inicjatywy mieszkaniowe dostosują umowy albo statuty spółki w zakresie obowiązku, o którym mowa w art. 33pa ust. 5 ustawy zmienianej w art. 4.
+
+### Art. 36.
+
+Z dniem wejścia w życie niniejszej ustawy udziały lub akcje Krajowego Zasobu Nieruchomości w społecznych inicjatywach mieszkaniowych i towarzystwach budownictwa społecznego objęte przed dniem wejścia w życie niniejszej ustawy w zamian za wkład pieniężny lub wartości niematerialne stają się udziałami lub akcjami Skarbu Państwa.
+
+### Art. 37.
+
+### 1.
+
+Do wniosków o finansowe wsparcie złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy w trybie określonym w przepisach wydanych na podstawie art. 19 ustawy zmienianej w art. 13 stosuje się przepisy ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do przedsięwzięć realizowanych na podstawie ustawy zmienianej w art. 13 w brzmieniu dotychczasowym, dla których przed dniem wejścia w życie niniejszej ustawy nie zostało przedłożone rozliczenie, o którym mowa w art. 18 ust. 1 pkt 1 ustawy zmienianej w art. 13, stosuje się przepisy ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Do wniosków o finansowe wsparcie na pokrycie części kosztów przedsięwzięcia infrastrukturalnego, o którym mowa w art. 5c ustawy zmienianej w art. 13 w brzmieniu dotychczasowym, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą, z wyjątkiem art. 13 ust. 7 tej ustawy.
+
+### Art. 38.
+
+### 1.
+
+Kwota finansowego wsparcia wynikająca z umowy, o której mowa w art. 12 ust. 1 ustawy zmienianej w art. 13, zawartej z beneficjentem wsparcia przed dniem wejścia w życie niniejszej ustawy, pomniejsza łączną wysokość środków, o których mowa w art. 8b ust. 1 ustawy zmienianej w art. 13, określoną na rok, na który w tej umowie określono termin, w jakim nastąpi uruchomienie finansowego wsparcia.
+
+### 2.
+
+Kwota finansowego wsparcia wynikająca z wniosku o finansowe wsparcie zakwalifikowanego w trybie określonym w przepisach wydanych na podstawie art. 19 ustawy zmienianej w art. 13 przed dniem wejścia w życie niniejszej ustawy pomniejsza łączną wysokość środków, o których mowa w art. 8b ust. 1 ustawy zmienianej w art. 13, określoną na rok, na który w zakwalifikowanym wniosku określono termin, w jakim nastąpi uruchomienie finansowego wsparcia.
+
+### Art. 39.
+
+W 2022 r. komunikat, o którym mowa w art. 8b ust. 3 ustawy zmienianej w art. 13, Bank Gospodarstwa Krajowego ogłasza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 40.
+
+Do wynajmu i podnajmu przez gminę lokali mieszkalnych utworzonych albo zmodernizowanych w ramach przedsięwzięć, o których mowa w art. 3 ust. 1 i art. 5a ust. 1 ustawy zmienianej w art. 13, rozpoczętych przed dniem wejścia w życie niniejszej ustawy, nie stosuje się przepisów art. 7c ust. 2-6 ustawy zmienianej w art. 13.
+
+### Art. 41.
+
+W przypadku lokali mieszkalnych utworzonych w ramach przedsięwzięć, o których mowa w art. 5a ust. 1 ustawy zmienianej w art. 13, inwestorzy, którzy przed dniem wejścia w życie niniejszej ustawy zawarli z gminami albo związkami międzygminnymi umowy, o których mowa w art. 5 ust. 2 ustawy zmienianej w art. 13, dostosują wysokość określonych w tych umowach stawek czynszu do limitów określonych w art. 7c ust. 2 ustawy zmienianej w art. 13, w terminie roku od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 42.
+
+Kadencja rady nadzorczej lub zarządu spółdzielni, która uległa przedłużeniu na podstawie art. 90a ustawy zmienianej w art. 25, upływa w dniu zwołania pierwszego walnego zgromadzenia po dniu wejścia w życie niniejszego przepisu.
+
+### Art. 43.
+
+Do gwarantowanych kredytów mieszkaniowych, o których mowa w art. 2 pkt 7 ustawy zmienianej w art. 27, udzielonych przed dniem wejścia w życie niniejszego przepisu, stosuje się przepisy art. 6 ust. 6 i 7a oraz art. 7 ust. 3 ustawy zmienianej w art. 27 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 44.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19 ustawy zmienianej w art. 13 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 30 września 2022 r.
+
+### Art. 45.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 i art. 30, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+
+### 2)
+
+art. 25 i art. 42, które wchodzą w życie po upływie 6 tygodni od dnia ogłoszenia;
+
+### 3)
+
+art. 27 i art. 43, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 4)
+
+art. 28, który wchodzi w życie z dniem 1 sierpnia 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 marca 1990 r. o samorządzie gminnym, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 26 października 1995 r. o niektórych formach popierania budownictwa mieszkaniowego, ustawę z dnia 30 listopada 1995 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, ustawę z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych, ustawę z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania, ustawę z dnia 8 grudnia 2006 r. o finansowym wsparciu tworzenia lokali mieszkalnych na wynajem, mieszkań chronionych, noclegowni, schronisk dla osób bezdomnych, ogrzewalni i tymczasowych pomieszczeń, ustawę z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, ustawę z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, ustawę z dnia 27 września 2013 r. o pomocy państwa w nabyciu pierwszego mieszkania przez młodych ludzi, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 10 lipca 2015 r. o Agencji Mienia Wojskowego, ustawę z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, ustawę z dnia 22 marca 2018 r. o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych, ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego oraz niektórych innych ustaw, ustawę z dnia 20 lipca 2018 r. o pomocy państwa w ponoszeniu wydatków mieszkaniowych w pierwszych latach najmu mieszkania, ustawę z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg, ustawę z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, ustawę z dnia 16 grudnia 2020 r. o rozliczaniu ceny lokali lub budynków w cenie nieruchomości zbywanych z gminnego zasobu nieruchomości, ustawę z dnia 1 października 2021 r. o gwarantowanym kredycie mieszkaniowym, ustawę z dnia 9 lutego 2022 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw oraz ustawę z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328, 2376, 2427, 2430 i 2490 oraz z 2022 r. poz. 1, 24, 64, 138, 501, 558, 583, 646, 655, 830, 872, 1079, 1265, 1301, 1358, 1459 i 1512. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1927, 2105, 2106, 2269 i 2427 oraz z 2022 r. poz. 583, 655, 830, 872, 1079 i 1265. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583, 655, 1079 i 1283. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459 oraz z 2022 r. poz. 202, 218, 655, 830, 1301, 1370 i 1488. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368 oraz z 2022 r. poz. 64 i 202. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930, 1002, 1087 i 1383.

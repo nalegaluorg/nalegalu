@@ -8,11 +8,9 @@ pos: 2215
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o publicznej służbie krwi oraz o zmianie ustawy o zakładach opieki zdrowotnej
-
-*USTAWA z dnia 26 listopada 2003 r.*
+# Ustawa z dnia 26 listopada 2003 r. o zmianie ustawy o publicznej służbie krwi oraz o zmianie ustawy o zakładach opieki zdrowotnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,43 +22,816 @@ domain: null
 | Data ogłoszenia | 2003-11-26 |
 | Data wydania | 2003-12-29 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032232215) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2215/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2003/2215/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2003/2215) |
 
-**Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz.U. Nr 106, poz. 681, z 1998 r. Nr 117, poz. 756 oraz z 2001 r. Nr 126, poz. 1382), wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U. Nr 91, poz. 408, z późn. zm. ) w art. 48a w ust. 1 pkt 1 otrzymuje brzmienie: „1) wojewódzkich, powiatowych i granicznych stacjach sanitarnoepidemiologicznych, regionalnych centrach krwiodawstwa i krwiolecznictwa, Wojskowym Centrum Krwiodawstwa i Krwiolecznictwa, Centrum Krwiodawstwa i Krwiolecznictwa utworzonym przez ministra właściwego do spraw wewnętrznych,”.
+### Art. 1.
 
-**Art. 3.** Minister właściwy do spraw zdrowia, po zasięgnięciu opinii instytutu, o którym mowa w art. 23 ust. 1 ustawy, o której mowa w art. 1, określi, w drodze rozporządzenia, wysokość opłat za krew i jej składniki, wydawane przez jednostki organizacyjne publicznej służby krwi, obowiązujących do dnia 31 grudnia 2004 r., uwzględniając rodzaje kosztów ponoszonych przez jednostki organizacyjne publicznej służby krwi w związku z pobieraniem krwi, oddzielaniem jej składników, ich przechowywaniem i wydawaniem.
+W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi ([Dz. U. Nr 106, poz. 681](https://api.sejm.gov.pl/eli/acts/DU/1997/681/text.html), z [1998 r. Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html) oraz z [2001 r. Nr 126, poz. 1382](https://api.sejm.gov.pl/eli/acts/DU/2001/1382/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.**
+### 1)
 
-1. Nieruchomości, stanowiące własność Skarbu Państwa przed dniem utworzenia Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa pozostające w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, których organem założycielskim jest Minister Obrony Narodowej, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+art. 1 otrzymuje brzmienie:
 
-2. Urządzenia oraz inne składniki mienia, pozostające przed dniem utworzenia Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, których organem założycielskim jest Minister Obrony Narodowej, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+„
 
-3. Pracownicy zatrudnieni w komórkach organizacyjnych, wchodzących w skład samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, utworzonych przez Ministra Obrony Narodowej, realizujących zadania, o których mowa w art. 1 ustawy wymienionej w art. 1, stają się na zasadach, o których mowa w art. 23 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, z późn. zm. ), pracownikami Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+### Art. 1.
 
-4. Nieruchomości stanowiące własność Skarbu Państwa przed dniem utworzenia przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa, pozostające w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej, których organem założycielskim jest minister właściwy do spraw wewnętrznych, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+Ustawa określa zasady pobierania krwi ludzkiej, oddzielania jej składników, przechowywania i obrotu oraz warunki zapewniające ich dostępność, a także zadania oraz organizację publicznej służby krwi.
 
-5. Urządzenia oraz inne składniki mienia, pozostające przed dniem utworzenia przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej, których organem założycielskim jest minister właściwy do spraw wewnętrznych, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+” ;
 
-6. Pracownicy zatrudnieni w komórkach organizacyjnych wchodzących w skład samodzielnych publicznych zakładów opieki zdrowotnej utworzonych przez ministra właściwego do spraw wewnętrznych, realizujących zadania, o których mowa w art. 14 ustawy wymienionej w art. 1, stają się na zasadach, o których mowa w art. 23 ustawy wymienionej w ust. 3, pracownikami utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+### 2)
 
-**Art. 5.**
+po art. 1 dodaje się art. 1a w brzmieniu:
 
-1. Likwiduje się Krajowe Centrum Krwiodawstwa i Krwiolecznictwa.
+„
 
-2. Urządzenia oraz inne składniki mienia pozostające w użytkowaniu Krajowego Centrum Krwiodawstwa i Krwiolecznictwa przechodzą nieodpłatnie w użytkowanie instytutu naukowo-badawczego, o którym mowa w art. 23 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+### Art. 1a.
 
-3. Pracownicy zatrudnieni w Krajowym Centrum Krwiodawstwa i Krwiolecznictwa stają się na zasadach, o których mowa w art. 23 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, pracownikami instytutu naukowo-badawczego, o którym mowa w ust. 2.
+Ustawa nie dotyczy komórek przeznaczonych do przeszczepiania.
 
-**Art. 6.**
+” ;
 
-1. Pierwszą akredytację wymaganą przepisami ustawy jednostki organizacyjne publicznej służby krwi powinny uzyskać w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+### 3)
 
-2. Zezwolenie, o którym mowa w art. 14 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednostki organizacyjne publicznej służby krwi powinny uzyskać do dnia 30 kwietnia 2004 r.
+art. 2 otrzymuje brzmienie:
 
-**Art. 7.** Dotychczasowe przepisy wykonawcze zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień ustawowych zmienianych niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+„
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 2.
 
+### 1.
+
+Krew jest pobierana w celach leczniczych do przetoczenia jej biorcy bądź oddzielenia jej składników lub przetworzenia w leki.
+
+### 2.
+
+Krew może być pobierana również w celach diagnostycznych, naukowo-badawczych i upustów leczniczych.
+
+” ;
+
+### 4)
+
+w art. 4:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zadania w zakresie pobierania krwi, oddzielania jej składników oraz zaopatrzenia w krew do celów określonych w ustawie realizują jednostki organizacyjne publicznej służby krwi określone w ust. 3 pkt 2-4, z zastrzeżeniem art. 14 ust. 1.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jednostkami organizacyjnymi publicznej służby krwi są:
+
+### 1)
+
+instytut naukowo-badawczy, którego zadania określa art. 25, zwany dalej „Instytutem”,
+
+### 2)
+
+regionalne centra krwiodawstwa i krwiolecznictwa, zwane dalej „regionalnymi centrami”,
+
+### 3)
+
+Wojskowe Centrum Krwiodawstwa i Krwiolecznictwa, zwane dalej „Wojskowym Centrum”,
+
+### 4)
+
+Centrum Krwiodawstwa i Krwiolecznictwa utworzone przez ministra właściwego do spraw wewnętrznych, zwane dalej „Centrum MSWiA”.
+
+” ;
+
+### 5)
+
+w art. 5 uchyla się pkt 2;
+
+### 6)
+
+w art. 9 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wartość kaloryczną posiłku regeneracyjnego przysługującego dawcy krwi, uwzględniając ilość oddanej krwi oraz inne zabiegi związane z uodpornieniem dawcy.
+
+” ;
+
+### 7)
+
+art. 10 otrzymuje brzmienie:
+
+„
+
+### Art. 10.
+
+Zasłużonemu honorowemu dawcy krwi przysługują uprawnienia do korzystania poza kolejnością z ambulatoryjnej opieki zdrowotnej w ramach ubezpieczenia zdrowotnego i usług farmaceutycznych udzielanych w aptekach.
+
+” ;
+
+### 8)
+
+art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+### 1.
+
+Dawcom krwi rzadkich grup i dawcom, którzy przed pobraniem krwi zostali poddani zabiegowi uodpornienia lub innym zabiegom w celu uzyskania osocza lub surowic diagnostycznych, przysługuje, oprócz uprawnień określonych w art. 6-10, ekwiwalent pieniężny za pobraną krew i związane z tym zabiegi.
+
+### 2.
+
+Minister właściwy do spraw zdrowia, uwzględniając częstotliwość występowania w populacji poszczególnych antygenów krwinek czerwonych oraz wiedzę medyczną w tym zakresie, na wniosek Instytutu określi, w drodze rozporządzenia, rzadkie grupy krwi, rodzaje osocza i surowic diagnostycznych wymagających przed pobraniem krwi zabiegu uodpornienia dawcy lub innych zabiegów oraz wysokość ekwiwalentu pieniężnego za pobraną krew i związane z tym zabiegi.
+
+” ;
+
+### 9)
+
+w art. 13 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Oznakowanie opakowań krwi nie może zawierać danych umożliwiających identyfikację dawcy krwi przez biorcę lub inną osobę bądź jednostkę organizacyjną inną niż jednostka organizacyjna publicznej służby krwi.
+
+” ;
+
+### 10)
+
+tytuł rozdziału 3 otrzymuje brzmienie: „ Pobieranie krwi i oddzielanie jej składników ” ;
+
+### 11)
+
+w art. 14:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Pobieranie krwi i oddzielanie jej składników jest dopuszczalne wyłącznie przez jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2-4, po uzyskaniu akredytacji, a w zakresie pobierania krwi w celu wytwarzania produktów krwiopochodnych, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego - przepisy rozdziału 3 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. Nr 126, poz. 1381](https://api.sejm.gov.pl/eli/acts/DU/2001/1381/text.html), z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 141, poz. 1181 i Nr 152, poz. 1265 oraz z 2003 r. Nr 45, poz. 391 i Nr 189, poz. 1852.](#gloss-0:1:)) stosuje się odpowiednio.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a-1i w brzmieniu:
+
+„
+
+### 1a.
+
+Akredytacji udziela minister właściwy do spraw zdrowia na wniosek jednostki organizacyjnej publicznej służby krwi.
+
+### 1b.
+
+Jednostka organizacyjna publicznej służby krwi uzyskuje akredytację, jeżeli łącznie spełnia następujące warunki:
+
+### 1)
+
+posiada system zapewnienia jakości,
+
+### 2)
+
+zatrudnia personel posiadający odpowiednie kwalifikacje,
+
+### 3)
+
+posiada pomieszczenia i urządzenia odpowiadające wymaganiom fachowym i sanitarnym określonym w odrębnych przepisach.
+
+### 1c.
+
+Do wniosku, o którym mowa w ust. 1a, dołącza się:
+
+### 1)
+
+informację o ilości personelu i jego kwalifikacjach,
+
+### 2)
+
+listę szpitalnych banków krwi zaopatrywanych przez jednostkę organizacyjną publicznej służby krwi,
+
+### 3)
+
+opinię właściwego państwowego inspektora sanitarnego,
+
+### 4)
+
+wykaz pomieszczeń i urządzeń,
+
+### 5)
+
+schemat organizacyjny wraz z przydziałem obowiązków,
+
+### 6)
+
+imię i nazwisko oraz adres osoby odpowiedzialnej za przestrzeganie medycznych zasad pobierania krwi, oddzielania jej składników oraz wydawania, o której mowa w art. 14a ust. 1.
+
+### 1d.
+
+Instytut przygotowuje raport dla ministra właściwego do spraw zdrowia, w którym ocenia, czy jednostka ubiegająca się o akredytację spełnia warunki wymagane do jej uzyskania oraz czy przestrzega medycznych zasad pobierania krwi, oddzielania jej składników oraz wydawania.
+
+### 1e.
+
+Minister właściwy do spraw zdrowia udziela akredytacji po zapoznaniu się z raportem, o którym mowa w ust. 1d, i stwierdzeniu, iż jednostka ubiegająca się o akredytację spełnia warunki wymagane do jej uzyskania.
+
+### 1f.
+
+Minister właściwy do spraw zdrowia cofa akredytację, jeżeli jednostka publicznej służby krwi:
+
+### 1)
+
+przestała spełniać warunki wymagane do uzyskania akredytacji lub
+
+### 2)
+
+nie wykonała zaleceń pokontrolnych, o których mowa w art. 25a ust. 6, w terminie określonym w protokole kontroli, lub
+
+### 3)
+
+uniemożliwia przeprowadzenie kontroli niezbędnej do stwierdzenia, czy spełnia wymagania do realizacji zadań określonych ustawą.
+
+### 1g.
+
+Udzielenie akredytacji, odmowa udzielenia akredytacji oraz cofnięcie akredytacji następuje w drodze decyzji administracyjnej.
+
+### 1h.
+
+W sprawach nieuregulowanych niniejszymi przepisami stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+### 1i.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kwalifikacje wymagane od osób zatrudnionych w jednostkach organizacyjnych publicznej służby krwi przy pobieraniu krwi, oddzielaniu jej składników oraz wydawaniu, mając na uwadze bezpieczeństwo dawców i biorców.
+
+” ;
+
+### 12)
+
+po art. 14 dodaje się art. 14a w brzmieniu:
+
+„
+
+### Art. 14a.
+
+### 1.
+
+Jednostka organizacyjna publicznej służby krwi wyznacza osobę odpowiedzialną za przestrzeganie medycznych zasad pobierania krwi, oddzielania jej składników oraz wydawania.
+
+### 2.
+
+Osoba, o której mowa w ust. 1, musi posiadać wykształcenie wyższe w dziedzinie nauk medycznych lub biologicznych oraz co najmniej dwuletnie doświadczenie zawodowe w jednostkach organizacyjnych publicznej służby krwi.
+
+” ;
+
+### 13)
+
+w art. 15 w ust. 3 zdanie wstępne otrzymuje brzmienie: „ Jeżeli pobranie krwi ma być poprzedzone zabiegiem uodpornienia w celu uzyskania osocza lub surowic diagnostycznych, powinny być zachowane ponadto następujące warunki: ” ;
+
+### 14)
+
+w art. 16:
+
+### a)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+szczegółowe warunki dopuszczalności zabiegu uodpornienia w celu uzyskania osocza lub surowic diagnostycznych
+
+” ,
+
+### b)
+
+po pkt 4 dodaje się zdanie końcowe w brzmieniu:
+
+„
+
+- - mając na uwadze bezpieczeństwo dawcy i biorcy.
+
+” ;
+
+### 15)
+
+w art. 17:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rejestr, o którym mowa w ust. 1, zawiera następujące dane dawców krwi:
+
+### 1)
+
+imię i nazwisko,
+
+### 2)
+
+numer PESEL,
+
+### 3)
+
+adres zamieszkania i adres do korespondencji,
+
+### 4)
+
+grupę krwi,
+
+### 5)
+
+numer karty identyfikacyjnej lub legitymacji dawcy krwi,
+
+### 6)
+
+datę i przyczynę skreślenia z rejestru dawców krwi, jeżeli takie zdarzenie zaistniało.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+O skreśleniu dawcy krwi z rejestru, o którym mowa w ust. 1, jednostka organizacyjna publicznej służby krwi niezwłocznie informuje Instytut, przekazując dane dawcy krwi określone w ust. 2 pkt 1-5 oraz datę skreślenia z rejestru.
+
+### 2b.
+
+Instytut przekazuje wszystkim jednostkom organizacyjnym publicznej służby krwi dane określone w ust. 2 pkt 1-5 oraz datę skreślenia z rejestru, o którym mowa w ust. 1, co stanowi podstawę wykluczenia skreślonego dawcy krwi na terenie całego kraju.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia rejestru, o którym mowa w ust. 1, uwzględniając dane objęte wpisem do rejestru oraz wzór księgi rejestrowej, a także sposób informowania dawcy krwi o fakcie i przyczynie skreślenia z rejestru.
+
+” ;
+
+### 16)
+
+tytuł rozdziału 4 otrzymuje brzmienie: „ Wydawanie krwi ” ;
+
+### 17)
+
+art. 19 otrzymuje brzmienie:
+
+„
+
+### Art. 19.
+
+### 1.
+
+Krew jest wydawana przez jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2-4, za opłatą.
+
+### 2.
+
+Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Instytutu, określa corocznie, do dnia 30 czerwca, w drodze rozporządzenia, wysokość opłat za krew i jej składniki wydawane przez jednostki organizacyjne publicznej służby krwi, obowiązujących w następnym roku kalendarzowym, uwzględniając rodzaje kosztów ponoszonych przez jednostki organizacyjne publicznej służby krwi w związku z pobieraniem krwi, oddzielaniem jej składników, ich przechowywaniem i wydawaniem, a także uwzględniając wskaźnik cen towarów i usług konsumpcyjnych ogółem w roku poprzedzającym rok wydania rozporządzenia, ogłaszany przez Prezesa Głównego Urzędu Statystycznego.
+
+” ;
+
+### 18)
+
+w art. 20 skreśla się wyrazy „albo preparatu krwiopochodnego”;
+
+### 19)
+
+w art. 21:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+na zlecenie lekarza pielęgniarka lub położna zakładu opieki zdrowotnej, pod warunkiem że odbyła organizowane przez regionalne centrum, Wojskowe Centrum lub Centrum MSWiA odpowiednie przeszkolenie praktyczne i teoretyczne potwierdzone zaświadczeniem.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób szkolenia pielęgniarek i położnych dokonujących przetaczania krwi, uwzględniając wykaz umiejętności związanych z przetaczaniem krwi, będących przedmiotem szkolenia, a także tryb wydawania zaświadczenia o odbytym szkoleniu przez podmioty, o których mowa w ust. 1 pkt 2.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób i organizację leczenia krwią w zakładach opieki zdrowotnej, w których przebywają pacjenci ze wskazaniami do leczenia krwią i jej składnikami, uwzględniając obowiązki i zadania: kierownika zakładu opieki zdrowotnej, ordynatora oddziału, lekarzy i pielęgniarek, sposób powoływania banku krwi zakładu opieki zdrowotnej oraz jego lokalizację i organizację pracy, a także sposób sprawowania nadzoru nad działaniem banku krwi zakładu opieki zdrowotnej oraz stosowaniem leczenia krwią i jej składnikami w zakładzie opieki zdrowotnej.
+
+” ;
+
+### 20)
+
+art. 22 otrzymuje brzmienie:
+
+„
+
+### Art. 22.
+
+### 1.
+
+Zakład opieki zdrowotnej jest obowiązany natychmiast powiadomić jednostkę organizacyjną publicznej służby krwi, która dostarczyła krew, o każdym przypadku wystąpienia zagrażającego życiu bądź zdrowiu odczynu lub wstrząsu w trakcie przetaczania krwi lub po przetoczeniu oraz o każdym przypadku podejrzenia lub stwierdzenia choroby, która może być spowodowana przetoczeniem.
+
+### 2.
+
+Jednostka organizacyjna publicznej służby krwi, o której mowa w ust. 1, jest obowiązana przeprowadzić, we współdziałaniu z zakładem opieki zdrowotnej, odpowiednie postępowanie wyjaśniające w celu ustalenia przyczyny wystąpienia przypadków, o których mowa w ust. 1, i podjąć stosowne działania zapobiegawcze.
+
+” ;
+
+### 21)
+
+art. 23 otrzymuje brzmienie:
+
+„
+
+### Art. 23.
+
+### 1.
+
+Instytut jest jednostką badawczo-rozwojową w rozumieniu przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ([Dz. U. z 2001 r. Nr 33, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/2001/388/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1683 i Nr 240, poz. 2052.](#gloss-0:2:)) nadzorowaną przez ministra właściwego do spraw zdrowia i jest dofinansowywany w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w ustawie.
+
+### 2.
+
+Siedzibą Instytutu jest Warszawa.
+
+### 3.
+
+Regionalne centra są samodzielnymi publicznymi zakładami opieki zdrowotnej w rozumieniu przepisów ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ([Dz. U. Nr 91, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/1991/408/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663 i Nr 213, poz. 2081.](#gloss-0:3:)), tworzonymi przez ministra właściwego do spraw zdrowia, i są dofinansowywane w formie dotacji z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw zdrowia, w zakresie zadań określonych w art. 27 pkt 3-7.
+
+### 4.
+
+Wojskowe Centrum jest samodzielnym publicznym zakładem opieki zdrowotnej w rozumieniu przepisów ustawy, o której mowa w ust. 3, tworzonym przez Ministra Obrony Narodowej, i jest dofinansowywane z budżetu państwa, z części będącej w dyspozycji Ministra Obrony Narodowej, w zakresie zadań określonych w art. 27 pkt 3-6, związanych z obronnością państwa, w tym zadań mobilizacyjnych.
+
+### 5.
+
+Centrum MSWiA jest samodzielnym publicznym zakładem opieki zdrowotnej w rozumieniu przepisów ustawy, o której mowa w ust. 3, tworzonym przez ministra właściwego do spraw wewnętrznych, i jest dofinansowywane z budżetu państwa, z części będącej w dyspozycji ministra właściwego do spraw wewnętrznych, w zakresie zadań określonych w art. 27 pkt 3-6.
+
+” ;
+
+### 22)
+
+art. 24 otrzymuje brzmienie:
+
+„
+
+### Art. 24.
+
+### 1.
+
+Minister właściwy do spraw zdrowia koordynuje działalność w zakresie organizacji pobierania krwi, oddzielania jej składników oraz zaopatrzenia w krew, a także zatwierdza plany działania w dziedzinie krwiodawstwa i krwiolecznictwa przygotowywane przez Instytut.
+
+### 2.
+
+Wojskowe Centrum i Centrum MSWiA pobiera krew, oddziela jej składniki i wydaje krew zgodnie z medycznymi zasadami obowiązującymi jednostki publicznej służby krwi.
+
+” ;
+
+### 23)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+Do zadań Instytutu w zakresie publicznej służby krwi należy w szczególności:
+
+### 1)
+
+przygotowywanie raportu, o którym mowa w art. 14 ust. 1d,
+
+### 2)
+
+przeprowadzanie kontroli w jednostkach organizacyjnych publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2-4, oraz wydawanie zaleceń pokontrolnych,
+
+### 3)
+
+propagowanie honorowego krwiodawstwa we współdziałaniu z Polskim Czerwonym Krzyżem i organizacjami pozarządowymi,
+
+### 4)
+
+ocenianie potrzeb w zakresie zaopatrzenia w krew oraz programowanie związanych z tym zadań i sposobów ich realizacji,
+
+### 5)
+
+przekazywanie ministrowi właściwemu do spraw zdrowia danych i informacji niezbędnych do dokonywania ogólnokrajowych ocen zaopatrzenia w krew oraz opracowywania bieżących i perspektywicznych programów w tym zakresie,
+
+### 6)
+
+opracowywanie i przedstawianie ministrowi właściwemu do spraw zdrowia propozycji w sprawach, o których mowa w art. 16,
+
+### 7)
+
+organizowanie pomocy w sytuacjach wymagających dodatkowego zaopatrzenia w krew,
+
+### 8)
+
+prowadzenie krajowego rejestru dawców krwi,
+
+### 9)
+
+opracowywanie programów szkolenia w dziedzinach krwiodawstwa i krwiolecznictwa,
+
+### 10)
+
+udzielanie konsultacji związanych z leczeniem krwią i produktami krwiopochodnymi,
+
+### 11)
+
+prowadzenie rejestru powikłań poprzetoczeniowych,
+
+### 12)
+
+określanie medycznych zasad pobierania krwi, oddzielania jej składników i wydawania obowiązujących w jednostkach organizacyjnych publicznej służby krwi.
+
+” ;
+
+### 24)
+
+po art. 25 dodaje się art. 25a w brzmieniu:
+
+„
+
+### Art. 25a.
+
+### 1.
+
+Instytut przeprowadza kontrolę spełniania wymagań niezbędnych do realizacji zadań określonych ustawą przez jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2-4.
+
+### 2.
+
+Kontrola przeprowadzana jest w każdym uzasadnionym przypadku, nie rzadziej jednak niż raz na dwa lata.
+
+### 3.
+
+Czynności kontrolne przeprowadzają upoważnieni pracownicy Instytutu, na podstawie imiennego upoważnienia, określającego zakres kontroli oraz kontrolowaną jednostkę, wydanego przez dyrektora Instytutu.
+
+### 4.
+
+Upoważnieni pracownicy, o których mowa w ust. 3, mają prawo:
+
+### 1)
+
+swobodnego wstępu do obiektów i pomieszczeń jednostek kontrolowanych,
+
+### 2)
+
+wglądu do wszelkich dokumentów związanych z działalnością jednostek kontrolowanych,
+
+### 3)
+
+żądania od pracowników jednostek kontrolowanych udzielania ustnych oraz pisemnych wyjaśnień,
+
+### 4)
+
+żądania próbek krwi.
+
+### 5.
+
+Instytut przedstawia wyniki przeprowadzonej kontroli w protokole kontroli.
+
+### 6.
+
+Protokół kontroli wskazuje nieprawidłowości stwierdzone w funkcjonowaniu jednostki kontrolowanej oraz zawiera zalecenia pokontrolne dotyczące usunięcia stwierdzonych nieprawidłowości i termin na ich usunięcie albo informuje o braku nieprawidłowości.
+
+### 7.
+
+W terminie 14 dni od dnia doręczenia protokołu, o którym mowa w ust. 5, jednostce kontrolowanej przysługuje prawo wniesienia zastrzeżeń do dyrektora Instytutu.
+
+### 8.
+
+Dyrektor Instytutu uwzględnia lub odrzuca zastrzeżenia w terminie 14 dni od dnia ich wniesienia, przy czym stanowisko dyrektora jest ostateczne.
+
+### 9.
+
+W przypadku niewykonania przez kontrolowaną jednostkę zaleceń pokontrolnych w wyznaczonym terminie dyrektor Instytutu informuje ministra właściwego do spraw zdrowia o stwierdzonych nieprawidłowościach w działalności jednostki kontrolowanej i nieusunięciu ich przez tę jednostkę w wyznaczonym terminie.
+
+### 10.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb przeprowadzania kontroli, uwzględniając w szczególności sposób dokonywania poszczególnych czynności kontrolnych, ich zakres oraz dokumentację przebiegu kontroli, mając na uwadze potrzebę zapewnienia sprawnego przeprowadzenia kontroli.
+
+” ;
+
+### 25)
+
+w art. 26 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Do zadań Rady należy w szczególności:
+
+### 1)
+
+ocena działalności publicznej służby krwi oraz opiniowanie zamierzeń i programów rozwoju w tym zakresie,
+
+### 2)
+
+opiniowanie projektów aktów prawnych w zakresie krwiodawstwa i krwiolecznictwa.
+
+### 3.
+
+Minister właściwy do spraw zdrowia powołuje i odwołuje członków Rady spośród specjalistów z różnych dziedzin medycyny i innych dziedzin nauki, przedstawicieli Naczelnej Rady Lekarskiej, Wojskowej Izby Lekarskiej, Krajowej Rady Diagnostów Laboratoryjnych, Instytutu, regionalnych centrów, Wojskowego Centrum, Centrum MSWiA oraz Polskiego Czerwonego Krzyża i przedstawicieli organizacji pozarządowych.
+
+” ;
+
+### 26)
+
+art. 27 otrzymuje brzmienie:
+
+„
+
+### Art. 27.
+
+Do zadań regionalnego centrum, Wojskowego Centrum i Centrum MSWiA należy w szczególności:
+
+### 1)
+
+kwalifikowanie kandydatów na dawców i dawców do oddania krwi,
+
+### 2)
+
+prowadzenie rejestru dawców krwi oraz rejestru dawców krwi rzadkich grup, oddających krew odpowiednio w regionalnym centrum, Wojskowym Centrum albo Centrum MSWiA,
+
+### 3)
+
+pobieranie krwi oraz dokonywanie zabiegów z tym związanych,
+
+### 4)
+
+gromadzenie, konserwacja, przechowywanie i wydawanie krwi,
+
+### 5)
+
+propagowanie honorowego krwiodawstwa i pozyskiwanie dawców krwi we współdziałaniu z Polskim Czerwonym Krzyżem i jednostkami organizacji pozarządowych,
+
+### 6)
+
+zaopatrywanie zakładów opieki zdrowotnej w krew i jej składniki oraz w produkty krwiopochodne,
+
+### 7)
+
+zaopatrywanie wytwórni farmaceutycznych w osocze krwi,
+
+### 8)
+
+udzielanie konsultacji związanych z leczeniem krwią,
+
+### 9)
+
+prowadzenie rejestru powikłań poprzetoczeniowych,
+
+### 10)
+
+sprawowanie nadzoru w dziedzinach krwiodawstwa i krwiolecznictwa,
+
+### 11)
+
+organizowanie szkoleń w dziedzinach krwiodawstwa i krwiolecznictwa.
+
+” ;
+
+### 27)
+
+w art. 30 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kto nie mając do tego wymaganych, na podstawie niniejszej ustawy, uprawnień, pobiera krew z organizmu innej osoby w celu jej przetoczenia lub oddzielenia jej składników, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+” ;
+
+### 28)
+
+uchyla się art. 33 i 34;
+
+### 29)
+
+użyte w art. 6 w ust. 4, w art. 7 w ust. 4, w art. 8 w ust. 1 i 3, w art. 16, w art. 26 w ust. 1, 4 i 5 w różnych przypadkach wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw zdrowia”.
+
+### Art. 2.
+
+W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ([Dz. U. Nr 91, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/1991/408/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663 i Nr 213, poz. 2081.](#gloss-0:4:)) w art. 48a w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+wojewódzkich, powiatowych i granicznych stacjach sanitarno-epidemiologicznych, regionalnych centrach krwiodawstwa i krwiolecznictwa, Wojskowym Centrum Krwiodawstwa i Krwiolecznictwa, Centrum Krwiodawstwa i Krwiolecznictwa utworzonym przez ministra właściwego do spraw wewnętrznych,
+
+” .
+
+### Art. 3.
+
+Minister właściwy do spraw zdrowia, po zasięgnięciu opinii instytutu, o którym mowa w art. 23 ust. 1 ustawy, o której mowa w art. 1, określi, w drodze rozporządzenia, wysokość opłat za krew i jej składniki, wydawane przez jednostki organizacyjne publicznej służby krwi, obowiązujących do dnia 31 grudnia 2004 r., uwzględniając rodzaje kosztów ponoszonych przez jednostki organizacyjne publicznej służby krwi w związku z pobieraniem krwi, oddzielaniem jej składników, ich przechowywaniem i wydawaniem.
+
+### Art. 4.
+
+### 1.
+
+Nieruchomości, stanowiące własność Skarbu Państwa przed dniem utworzenia Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa pozostające w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, których organem założycielskim jest Minister Obrony Narodowej, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### 2.
+
+Urządzenia oraz inne składniki mienia, pozostające przed dniem utworzenia Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, których organem założycielskim jest Minister Obrony Narodowej, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### 3.
+
+Pracownicy zatrudnieni w komórkach organizacyjnych, wchodzących w skład samodzielnych publicznych zakładów opieki zdrowotnej i Wojskowego Instytutu Medycznego, utworzonych przez Ministra Obrony Narodowej, realizujących zadania, o których mowa w art. 1 ustawy wymienionej w art. 1, stają się na zasadach, o których mowa w art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081.](#gloss-0:5:)), pracownikami Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### 4.
+
+Nieruchomości stanowiące własność Skarbu Państwa przed dniem utworzenia przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa, pozostające w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej, których organem założycielskim jest minister właściwy do spraw wewnętrznych, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### 5.
+
+Urządzenia oraz inne składniki mienia, pozostające przed dniem utworzenia przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa w użytkowaniu samodzielnych publicznych zakładów opieki zdrowotnej, których organem założycielskim jest minister właściwy do spraw wewnętrznych, wykorzystywane do celów określonych w ustawie, o której mowa w art. 1, przechodzą nieodpłatnie w użytkowanie utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### 6.
+
+Pracownicy zatrudnieni w komórkach organizacyjnych wchodzących w skład samodzielnych publicznych zakładów opieki zdrowotnej utworzonych przez ministra właściwego do spraw wewnętrznych, realizujących zadania, o których mowa w art. 14 ustawy wymienionej w art. 1, stają się na zasadach, o których mowa w art. 231 ustawy wymienionej w ust. 3, pracownikami utworzonego przez ministra właściwego do spraw wewnętrznych Centrum Krwiodawstwa i Krwiolecznictwa z dniem jego utworzenia.
+
+### Art. 5.
+
+### 1.
+
+Likwiduje się Krajowe Centrum Krwiodawstwa i Krwiolecznictwa.
+
+### 2.
+
+Urządzenia oraz inne składniki mienia pozostające w użytkowaniu Krajowego Centrum Krwiodawstwa i Krwiolecznictwa przechodzą nieodpłatnie w użytkowanie instytutu naukowo-badawczego, o którym mowa w art. 23 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Pracownicy zatrudnieni w Krajowym Centrum Krwiodawstwa i Krwiolecznictwa stają się na zasadach, o których mowa w art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, pracownikami instytutu naukowo-badawczego, o którym mowa w ust. 2.
+
+### Art. 6.
+
+### 1.
+
+Pierwszą akredytację wymaganą przepisami ustawy jednostki organizacyjne publicznej służby krwi powinny uzyskać w terminie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Zezwolenie, o którym mowa w art. 14 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednostki organizacyjne publicznej służby krwi powinny uzyskać do dnia 30 kwietnia 2004 r.
+
+### Art. 7.
+
+Dotychczasowe przepisy wykonawcze zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień ustawowych zmienianych niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 141, poz. 1181 i Nr 152, poz. 1265 oraz z 2003 r. Nr 45, poz. 391 i Nr 189, poz. 1852. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271, Nr 200, poz. 1683 i Nr 240, poz. 2052. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663 i Nr 213, poz. 2081. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041, z 1998 r. Nr 106, poz. 668, Nr 117, poz. 756 i Nr 162, poz. 1115, z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935, z 2000 r. Nr 3, poz. 28, Nr 12, poz. 136, Nr 43, poz. 489, Nr 84, poz. 948, Nr 114, poz. 1193 i Nr 120, poz. 1268, z 2001 r. Nr 5, poz. 45, Nr 88, poz. 961, Nr 100, poz. 1083, Nr 111, poz. 1193, Nr 113, poz. 1207, Nr 126, poz. 1382, 1383 i 1384 i Nr 128, poz. 1407, z 2002 r. Nr 113, poz. 984 oraz z 2003 r. Nr 45, poz. 391, Nr 124, poz. 1151 i 1152, Nr 171, poz. 1663 i Nr 213, poz. 2081. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679 oraz z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081.

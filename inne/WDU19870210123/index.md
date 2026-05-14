@@ -8,11 +8,9 @@ pos: 123
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o Rzeczniku Praw Obywatelskich
-
-*USTAWA z dnia 15 lipca 1987 r.*
+# Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,263 +22,336 @@ domain: null
 | Data ogłoszenia | 1987-07-15 |
 | Data wydania | 1987-07-25 |
 | Ostatnia zmiana | 2024-09-30 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19870210123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1987/123/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1987/123) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustanawia się Rzecznika Praw Obywatelskich.
+W celu umacniania socjalistycznej praworządności i stworzenia dalszych gwarancji ochrony praw i wolności obywateli stanowi się, co następuje:
 
-2. Rzecznik Praw Obywatelskich, zwany dalej „Rzecznikiem”, stoi na straży wolności i praw człowieka i obywatela określonych w Konstytucji Rzeczypospolitej Polskiej oraz w innych aktach normatywnych, w tym również na straży realizacji zasady równego traktowania.
+### Art. 1.
 
-2a. W sprawach dzieci Rzecznik współpracuje z Rzecznikiem Praw Dziecka.
+### 1.
 
-2b. W sprawach mikroprzedsiębiorców oraz małych i średnich przedsiębiorców w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222) Rzecznik współpracuje z Rzecznikiem Małych i Średnich Przedsiębiorców.
+Ustanawia się Rzecznika Praw Obywatelskich.
 
-3. W sprawach o ochronę wolności i praw człowieka i obywatela Rzecznik bada, czy wskutek działania lub zaniechania organów, organizacji i instytucji, obowiązanych do przestrzegania i realizacji tych wolności i praw, nie nastąpiło naruszenie prawa, a także zasad współżycia i sprawiedliwości społecznej.
+### 2.
 
-4. Rzecznik wykonuje funkcje organu wizytującego do spraw zapobiegania torturom i innemu okrutnemu, nieludzkiemu lub poniżającemu traktowaniu albo karaniu (krajowy mechanizm prewencji) w rozumieniu Protokołu fakultatywnego do Konwencji w sprawie zakazu stosowania tortur oraz innego okrutnego, nieludzkiego lub poniżającego traktowania albo karania, przyjętego przez Zgromadzenie Ogólne Narodów Zjednoczonych w Nowym Jorku dnia 18 grudnia 2002 r. (Dz. U. z 2007 r. poz. 192).
+Rzecznik Praw Obywatelskich, zwany dalej Rzecznikiem, stoi na straży praw i wolności obywateli, określonych w Konstytucji Polskiej Rzeczypospolitej Ludowej i innych przepisach prawa.
 
-5. Rzecznik wykonuje zadania określone w ustawie z dnia 14 czerwca 2024 r. o ochronie sygnalistów (Dz. U. poz. 928).
+### 3.
 
-**Art. 2.** Rzecznikiem może być obywatel polski wyróżniający się wiedzą prawniczą, doświadczeniem zawodowym oraz wysokim autorytetem ze względu na swe walory moralne i wrażliwość społeczną.
+W sprawach o ochronę praw i wolności obywateli Rzecznik bada, czy wskutek działania lub zaniechania organów, organizacji i instytucji, obowiązanych do przestrzegania i realizacji tych praw i wolności, nie nastąpiło naruszenie prawa, a także zasad współżycia i sprawiedliwości społecznej.
 
-**Art. 3.**
+### Art. 2.
 
-1. Rzecznika powołuje Sejm za zgodą Senatu na wniosek Marszałka albo grupy 35 posłów.
+### 1.
 
-2. Szczegółowy tryb zgłaszania kandydatów na Rzecznika Praw Obywatelskich określa uchwała Sejmu.
+Rzecznika powołuje Sejm na wniosek Prezydium Sejmu, zgłoszony po zasięgnięciu opinii Rady Krajowej Patriotycznego Ruchu Odrodzenia Narodowego.
 
-3. Uchwałę o powołaniu Rzecznika Marszałek przesyła niezwłocznie Marszałkowi Senatu.
+### 2.
 
-4. Senat podejmuje uchwałę w sprawie wyrażenia zgody na powołanie Rzecznika w ciągu miesiąca od dnia przekazania Senatowi uchwały Sejmu, o której mowa w ust.
+Rzecznikiem może być obywatel polski, który wyróżnia się wiedzą prawniczą, doświadczeniem zawodowym i działalnością społeczną, cieszy się powszechnym autorytetem ze względu na swe wysokie walory moralne i wrażliwość społeczną.
 
-3. Niepodjęcie uchwały przez Senat w ciągu miesiąca oznacza wyrażenie zgody.
+### 3.
 
-5. Jeżeli Senat odmawia wyrażenia zgody na powołanie Rzecznika, Sejm powołuje na stanowisko Rzecznika inną osobę. Przepisy ust. 1–4 stosuje się odpowiednio.
+Kadencja Rzecznika trwa cztery lata, licząc od dnia podjęcia uchwały o jego powołaniu.
 
-6. (utracił moc)
+### 4.
 
-**Art. 4.** Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie: „Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków Rzecznika Praw Obywatelskich dochowam wierności Konstytucji Rzeczypospolitej Polskiej, będę strzec wolności i praw człowieka i obywatela, kierując się przepisami prawa oraz zasadami współżycia społecznego i sprawiedliwości. Ślubuję, że powierzone mi obowiązki wypełniać będę bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy prawnie chronionej.” Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
+Ta sama osoba nie może być Rzecznikiem więcej niż przez dwie kolejne kadencje.
 
-**Art. 5.**
+### Art. 3.
 
-1. Kadencja Rzecznika trwa pięć lat, licząc od dnia złożenia ślubowania przed Sejmem.
+Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie: „ Ślubuję uroczyście przy wykonywaniu powierzonych mi obowiązków Rzecznika Praw Obywatelskich dochować wierności Konstytucji Polskiej Rzeczypospolitej Ludowej i wynikającym z jej postanowień zasadom ustroju socjalistycznego Państwa i praworządności, strzec praw i wolności obywateli, kierując się przepisami prawa, a także zasadami współżycia i sprawiedliwości społecznej; powierzone mi obowiązki wypełniać bezstronnie, z najwyższą sumiennością i starannością, strzec godności powierzonego mi stanowiska, dochować tajemnicy państwowej i służbowej ” .
 
-2. Ta sama osoba nie może być Rzecznikiem więcej niż przez dwie kadencje.
+### Art. 4.
 
-**Art. 6.** Po zaprzestaniu wykonywania obowiązków Rzecznik ma prawo powrócić na stanowisko zajmowane poprzednio albo otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeżeli nie ma przeszkód prawnych.
+### 1.
 
-**Art. 7.**
+Rzecznik jest w swej działalności niezawisły, niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie.
 
-1. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, jeżeli:
+### 2.
 
-- **1)** zrzekł się wykonywania obowiązków;
-- **2)** stał się trwale niezdolny do pełnienia obowiązków na skutek choroby, ułomności lub upadku sił – stwierdzonych orzeczeniem lekarskim;
-- **3)** złożył niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu.
+Rzecznik nie może być pociągnięty do odpowiedzialności karnej, aresztowany lub zatrzymany bez zgody Sejmu, a gdy Sejm nie obraduje - bez zgody Rady Państwa. O udzieleniu lub odmowie udzielenia takiej zgody Rada Państwa informuje Sejm na najbliższym jego posiedzeniu.
 
-2. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, również jeżeli Rzecznik sprzeniewierzył się złożonemu ślubowaniu.
+### 3.
 
-3. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadku określonym w ust. 1 pkt 1, na wniosek Marszałka Sejmu.
+Z obowiązkami Rzecznika nie można łączyć innego zatrudnienia ani funkcji publicznej, z wyjątkiem mandatu posła na Sejm.
 
-4. Sejm podejmuje uchwałę w sprawie odwołania Rzecznika, w przypadkach określonych w ust. 1 pkt 2 oraz w ust. 2, na wniosek Marszałka lub grupy co najmniej 35 posłów, większością co najmniej 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów.
+### Art. 5.
 
-**Art. 7a.** Rzecznik nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne dla zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+### 1.
 
-**Art. 7b.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, jeżeli:
 
-**Art. 7c.**
+### 1)
 
-1. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+zrzekł się wykonywania obowiązków,
 
-2. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+### 2)
 
-3. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+stał się trwale niezdolny do pełnienia obowiązków na skutek choroby, ułomności lub upadku sił,
 
-4. Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+### 3)
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie.
+sprzeniewierzył się złożonemu ślubowaniu.
 
-**Art. 7d.**
+### 2.
 
-1. Wniosek o wyrażenie zgody na pociągnięcie Rzecznika do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+W wypadku określonym w ust. 1 pkt 3 wniosek o odwołanie zgłasza Prezydium Sejmu po zasięgnięciu opinii Rady Krajowej Patriotycznego Ruchu Odrodzenia Narodowego.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 7c ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+### Art. 6.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 7c ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Rzecznika o treści wniosku.
+Rzecznik podejmuje czynności przewidziane w ustawie, jeżeli poweźmie wiadomość wskazującą na naruszenie praw i wolności obywatela.
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Rzecznika o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+### Art. 7.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Rzecznika, udostępnia akta postępowania.
+Podjęcie czynności przez Rzecznika następuje:
 
-6. Rzecznik przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+### 1)
 
-7. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+na wniosek obywateli,
 
-8. W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Rzecznikowi przysługuje prawo do zabrania głosu.
+### 2)
 
-9. Sejm wyraża zgodę na pociągnięcie Rzecznika do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Rzecznika do odpowiedzialności karnej.
+na wniosek organów: Patriotycznego Ruchu Odrodzenia Narodowego, samorządów, organizacji politycznych, spółdzielczych, zawodowych, społeczno-zawodowych i innych organizacji społecznych,
 
-**Art. 7e.**
+### 3)
 
-1. Zakaz zatrzymania, o którym mowa w art. 7a, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Rzecznika przez organy stosujące przymus.
+z własnej inicjatywy.
 
-2. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika składa się za pośrednictwem Prokuratora Generalnego.
+### Art. 8.
 
-3. Wniosek, o którym mowa w ust. 2, powinien zawierać:
+Wniosek kierowany do Rzecznika jest wolny od opłat, nie wymaga zachowania szczególnej formy, lecz powinien zawierać oznaczenie wnioskodawcy oraz osoby, której praw i wolności sprawa dotyczy, a także określać przedmiot sprawy.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Rzecznika;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+### Art. 9.
 
-4. Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Rzecznika przepisy art. 7d ust. 1–8 stosuje się odpowiednio.
+Rzecznik po zapoznaniu się z każdym skierowanym do niego wnioskiem, z zastrzeżeniem art. 16, może:
 
-5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Rzecznika w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Rzecznika.
+### 1)
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+podjąć sprawę,
 
-**Art. 7f.**
+### 2)
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 7d ust. 9 i art. 7e ust. 5.
+poprzestać na wskazaniu wnioskodawcy przysługujących mu środków działania,
 
-2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 3)
 
-**Art. 7g.** Przepisy ustawy dotyczące odpowiedzialności karnej Rzecznika stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+przekazać sprawę według właściwości,
 
-**Art. 7h.** Szczegółowy tryb postępowania w sprawach, o których mowa w art. 7a–7g, określa regulamin Sejmu.
+### 4)
 
-**Art. 8.**
+nie podjąć sprawy
 
-1. Rzecznik podejmuje czynności przewidziane w ustawie, jeżeli poweźmie wiadomość wskazującą na naruszenie wolności i praw człowieka i obywatela, w tym zasady równego traktowania.
+- zawiadamiając o tym wnioskodawcę i osobę, której sprawa dotyczy.
 
-2. Rzecznik regularnie sprawdza sposób traktowania osób pozbawionych wolności.
+### Art. 10.
 
-**Art. 9.** Podjęcie czynności przez Rzecznika następuje:
+Podejmując sprawę Rzecznik może:
 
-**Art. 10.** Wniosek kierowany do Rzecznika jest wolny od opłat, nie wymaga zachowania szczególnej formy, lecz powinien zawierać oznaczenie wnioskodawcy oraz osoby, której wolności i praw sprawa dotyczy, a także określać przedmiot sprawy.
+### 1)
 
-**Art. 11.**
+samodzielnie prowadzić postępowanie wyjaśniające,
 
-1. Rzecznik po zapoznaniu się z każdym skierowanym do niego wnioskiem może:
+### 2)
 
-- **1)** podjąć sprawę,
-- **2)** poprzestać na wskazaniu wnioskodawcy przysługujących mu środków działania,
-- **3)** przekazać sprawę według właściwości,
-- **4)** nie podjąć sprawy – zawiadamiając o tym wnioskodawcę i osobę, której sprawa dotyczy.
+zwrócić się o zbadanie sprawy lub jej części do właściwych organów, w szczególności organów nadzoru, prokuratury, kontroli państwowej, zawodowej lub społecznej,
 
-2. W zakresie realizacji zasady równego traktowania między podmiotami prywatnymi Rzecznik może podjąć działania, o których mowa w ust. 1 pkt 2.
+### 3)
 
-**Art. 12.** Podejmując sprawę Rzecznik może:
+zwrócić się do Sejmu o zlecenie Najwyższej Izbie Kontroli przeprowadzenia kontroli dla zbadania określonej sprawy lub jej części. „
 
-**Art. 13.**
+### Art. 11.
 
-1. Prowadząc postępowanie, o którym mowa w art. 12 pkt 1, Rzecznik ma prawo:
+### 1.
 
-- **1)** zbadać, nawet bez uprzedzenia, każdą sprawę na miejscu;
-- **2)** żądać złożenia wyjaśnień, przedstawienia akt każdej sprawy prowadzonej przez naczelne i centralne organy administracji państwowej, organy administracji rządowej, organy organizacji spółdzielczych, społecznych, zawodowych i społeczno-zawodowych oraz organy jednostek organizacyjnych posiadających osobowość prawną, a także organy jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych;
-- **3)** żądać przedłożenia informacji o stanie sprawy prowadzonej przez sądy, a także prokuraturę i inne organy ścigania oraz żądać do wglądu w Biurze Rzecznika Praw Obywatelskich akt sądowych i prokuratorskich oraz akt innych organów ścigania po zakończeniu postępowania i zapadnięciu rozstrzygnięcia;
-- **4)** zlecać sporządzanie ekspertyz i opinii.
+Prowadząc postępowanie, o którym mowa w art. 10 pkt 1, Rzecznik ma prawo:
 
-1a. Podczas wykonywania zadania, o którym mowa w art. 8 ust. 2, Rzecznik ma również prawo:
+### 1)
 
-- **1)** rejestrować dźwięk lub obraz w miejscach, w których przebywają osoby pozbawione wolności, za zgodą osób, które będą rejestrowane;
-- **2)** odbywać spotkania z osobami pozbawionymi wolności, bez obecności innych osób, a także z innymi osobami, co do których uzna, że mogą dostarczyć istotnych informacji.
+zbadać każdą sprawę na miejscu,
 
-1b. Zarejestrowany obraz i dźwięk:
+### 2)
 
-- **1)** przechowuje się w Biurze Rzecznika Praw Obywatelskich, w pomieszczeniach zabezpieczonych przed dostępem osób nieupoważnionych, przez okres niezbędny w danej sprawie, jednak nie dłużej niż przez 10 lat;
-- **2)** udostępnia się osobie, która została zarejestrowana, a także jej przedstawicielowi ustawowemu lub pełnomocnikowi.
+żądać złożenia wyjaśnień, przedstawienia akt każdej sprawy prowadzonej przez organy administracji państwowej, organy organizacji spółdzielczych, społecznych, zawodowych i społeczno-zawodowych, organy jednostek organizacyjnych posiadających osobowość prawną, a także organy samorządów,
 
-2. W sprawach stanowiących informację niejawną o klauzuli tajności „tajne” lub „ściśle tajne” udzielanie informacji lub umożliwianie Rzecznikowi wglądu do akt następuje na zasadach i w trybie określonych w przepisach o ochronie informacji niejawnych.
+### 3)
 
-3. Rzecznik odmawia ujawnienia nazwiska i innych danych osobowych skarżącego, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki.
+żądać przedłożenia informacji o stanie sprawy prowadzonej przez sądy, a także prokuraturę i inne organy ścigania,
 
-**Art. 14.** Po zbadaniu sprawy Rzecznik może:
+### 4)
 
-**Art. 15.**
+zlecać sporządzanie ekspertyz i opinii.
 
-1. W wystąpieniu, o którym mowa w art. 14 pkt 2, Rzecznik formułuje opinie i wnioski co do sposobu załatwiania sprawy, a także może żądać wszczęcia postępowania dyscyplinarnego lub zastosowania sankcji służbowych.
+### 2.
 
-2. Organ, organizacja lub instytucja, do których zostało skierowane wystąpienie, obowiązane są bez zbędnej zwłoki, nie później jednak niż w terminie 30 dni, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku. W wypadku gdy Rzecznik nie podziela tego stanowiska, może zwrócić się do właściwej jednostki nadrzędnej o podjęcie odpowiednich działań.
+W sprawach objętych tajemnicą państwową udzielanie informacji lub umożliwianie Rzecznikowi wglądu do akt następuje na zasadach i w trybie określonych w przepisach o ochronie tajemnicy państwowej i służbowej.
 
-**Art. 16.**
+### Art. 12.
 
-1. W związku z rozpatrywanymi sprawami Rzecznik może przedstawiać właściwym organom, organizacjom i instytucjom oceny i wnioski zmierzające do zapewnienia skutecznej ochrony wolności i praw człowieka i obywatela i usprawnienia trybu załatwiania ich spraw.
+Po zbadaniu sprawy Rzecznik może:
 
-2. Rzecznik może również:
+### 1)
 
-- **1)** występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych w sprawach dotyczących wolności i praw człowieka i obywatela;
-- **2)** występować do Trybunału Konstytucyjnego z wnioskami w sprawach, o których mowa w art. 188 Konstytucji;
-- **3)** zgłosić udział w postępowaniu przed Trybunałem Konstytucyjnym i brać udział w tym postępowaniu;
-- **4)** występować z wnioskami do Sądu Najwyższego o podjęcie uchwały mającej na celu wyjaśnienie przepisów prawnych budzących wątpliwości w praktyce lub których stosowanie wywołało rozbieżności w orzecznictwie.
+wyjaśnić wnioskodawcy, że nie stwierdził naruszenia praw i wolności obywatela,
 
-3. W przypadku wystąpienia przez Rzecznika do Trybunału Konstytucyjnego z wnioskiem, o którym mowa w ust. 2 pkt 2, informuje on o tym Rzecznika Praw Dziecka, jeżeli wniosek dotyczy praw dziecka.
+### 2)
 
-**Art. 17.**
+skierować wystąpienie do organu, organizacji lub instytucji, w których działalności stwierdził naruszenie praw i wolności obywatela; wystąpienie takie nie może naruszać niezawisłości sędziowskiej,
 
-1. Organ, organizacja lub instytucja, do których zwróci się Rzecznik, obowiązane są z nim współdziałać i udzielać mu pomocy, a w szczególności:
+### 3)
 
-- **1)** zapewniać dostęp do akt i dokumentów na zasadach określonych w art. 13;
-- **2)** udzielać Rzecznikowi żądanych przez niego informacji i wyjaśnień;
-- **3)** udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć;
-- **4)** ustosunkowywać się do ogólnych ocen, uwag i opinii Rzecznika.
+zwrócić się do organu nadrzędnego nad jednostką, o której mowa w pkt 2, z wnioskiem o zastosowanie środków przewidzianych w przepisach prawa,
 
-2. Rzecznik może określić termin, w jakim powinny być dokonane czynności, o których mowa w ust. 1.
+### 4)
 
-**Art. 17a.** Rzecznik współdziała ze stowarzyszeniami, ruchami obywatelskimi, innymi dobrowolnymi zrzeszeniami i fundacjami oraz z zagranicznymi i międzynarodowymi organami i organizacjami na rzecz ochrony wolności i praw człowieka i obywatela, także w zakresie równego traktowania.
+żądać wszczęcia postępowania w sprawach cywilnych, jak również wziąć udział w każdym toczącym się już postępowaniu - na prawach przysługujących prokuratorowi,
 
-**Art. 17b.** Do zakresu działania Rzecznika, dotyczącego realizacji zasady równego traktowania, należy również:
+### 5)
 
-**Art. 17c.**
+żądać wszczęcia przez uprawnionego oskarżyciela postępowania przygotowawczego w sprawach o przestępstwa ścigane z urzędu,
 
-1. Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, niezbędne do realizacji swoich ustawowych zadań.
+### 6)
 
-2. Rzecznik może przetwarzać dane osobowe, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), wyłącznie w celu ochrony wolności i praw człowieka i obywatela przy realizacji swoich ustawowych zadań.
+zwrócić się o wszczęcie postępowania administracyjnego, zaskarżać decyzje do sądu administracyjnego, a także uczestniczyć w tych postępowaniach - na prawach przysługujących prokuratorowi,
 
-3. Rzecznik dopuszcza do przetwarzania danych osobowych osoby posiadające pisemne upoważnienie. Warunkiem udzielenia upoważnienia jest pisemne zobowiązanie się osoby upoważnianej do zachowania przetwarzanych danych osobowych w poufności.
+### 7)
 
-**Art. 18.** Przepisy ustawy dotyczące ochrony wolności i praw człowieka i obywatela stosuje się również odpowiednio do:
+wystąpić z wnioskiem o ukaranie, a także o uchylenie prawomocnego rozstrzygnięcia w postępowaniu w sprawach o wykroczenia, na zasadach i w trybie określonym w odrębnych przepisach,
 
-**Art. 19.**
+### 8)
 
-1. Rzecznik corocznie informuje Sejm i Senat o swojej działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela, w tym przekazuje:
+wnieść rewizję nadzwyczajną od każdego prawomocnego orzeczenia, na zasadach i w trybie określonym w odrębnych przepisach.
 
-- **1)** informację o prowadzonej działalności w obszarze równego traktowania oraz jej wynikach;
-- **2)** informację o przestrzeganiu zasady równego traktowania w Rzeczypospolitej Polskiej, przygotowaną w szczególności na podstawie badań, o których mowa w art. 17b pkt 2;
-- **3)** wnioski oraz rekomendacje dotyczące działań, które należy podjąć w celu zapewnienia przestrzegania zasady równego traktowania.
+### Art. 13.
 
-2. Informacja Rzecznika podawana jest do wiadomości publicznej.
+### 1.
 
-3. Rzecznik może przedkładać Sejmowi i Senatowi określone sprawy wynikające z jego działalności.
+W wystąpieniu, o którym mowa w art. 12 pkt 2, Rzecznik formułuje opinie i wnioski co do sposobu załatwiania sprawy, a także może żądać wszczęcia postępowania dyscyplinarnego lub zastosowania sankcji służbowych.
 
-4. Rzecznik na wniosek Marszałka przedstawia informację lub podejmuje czynności w określonych sprawach.
+### 2.
 
-5. Rzecznik raz na dwa lata przekazuje Sejmowi i Senatowi sprawozdanie z wykonania ustawy, o której mowa w art. 1 ust. 5.
+Organ, organizacja lub instytucja, do których zostało skierowane wystąpienie, obowiązane są bez zbędnej zwłoki, nie później jednak niż w terminie 30 dni, poinformować Rzecznika o podjętych działaniach lub zajętym stanowisku. W wypadku gdy Rzecznik nie podziela tego stanowiska, może zwrócić się do właściwej jednostki nadrzędnej o podjęcie odpowiednich działań.
 
-**Art. 20.**
+### Art. 14.
 
-1. Rzecznik wykonuje swoje zadania przy pomocy Biura Rzecznika Praw Obywatelskich.
+### 1.
 
-2. Rzecznik nadaje, w drodze zarządzenia, statut, który określa zadania i organizację Biura.
+W związku z rozpatrywanymi sprawami Rzecznik może przedstawiać właściwym organom, organizacjom i instytucjom oceny i wnioski zmierzające do zapewnienia skutecznej ochrony praw i wolności obywateli i usprawnienia trybu załatwiania ich spraw.
 
-3. Rzecznik może powołać nie więcej niż trzech zastępców Rzecznika. Rzecznik odwołuje zastępców Rzecznika.
+### 2.
 
-4. Rzecznik określa zakres zadań zastępcy (zastępców) Rzecznika.
+Rzecznik może również:
 
-5. Do zastępców Rzecznika oraz pracowników Biura Rzecznika Praw Obywatelskich stosuje się odpowiednio przepisy o pracownikach urzędów państwowych.
+### 1)
 
-6. (uchylony)
+występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych w sprawach dotyczących praw i wolności obywateli,
 
-7. (uchylony)
+### 2)
 
-**Art. 21.** Wydatki związane z funkcjonowaniem Rzecznika Praw Obywatelskich pokrywane są z budżetu państwa.
+występować z wnioskami, o których mowa w art. 19 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ([Dz. U. Nr 22, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1985/98/text.html)), na zasadach i w trybie określonych w tej ustawie.
 
-**Art. 22.** Rzecznik, za zgodą Sejmu, może ustanowić swoich pełnomocników terenowych. Art. 23–27. (pominięte)
+### Art. 15.
 
-**Art. 28.** Ustawa wchodzi w życie z dniem 1 stycznia 1988 r., z tym że art. 18 ust. 2 i art. 27 wchodzą w życie z dniem ogłoszenia .
+Organ, organizacja lub instytucja, do których zwróci się Rzecznik, obowiązane są z nim współdziałać i udzielać mu pomocy, a w szczególności:
 
+### 1)
+
+zapewniać dostęp do akt i dokumentów na zasadach określonych w art. 11,
+
+### 2)
+
+udzielać Rzecznikowi żądanych przez niego informacji i wyjaśnień,
+
+### 3)
+
+udzielać wyjaśnień dotyczących podstawy faktycznej i prawnej swoich rozstrzygnięć,
+
+### 4)
+
+ustosunkowywać się do ogólnych ocen, uwag i opinii Rzecznika.
+
+### Art. 16.
+
+Sprawy dotyczące obronności Państwa, Sił Zbrojnych Polskiej Rzeczypospolitej Ludowej oraz bezpieczeństwa Państwa Rzecznik przekazuje właściwym naczelnym organom administracji państwowej, które informują go w terminie 30 dni o podjętych działaniach lub zajętym stanowisku. Jeżeli Rzecznik uzna sposób załatwienia sprawy za niezadowalający, może w ciągu 30 dni od otrzymania informacji wystąpić w tej sprawie do Komitetu Obrony Kraju.
+
+### Art. 17.
+
+### 1.
+
+Rzecznik przedstawia Sejmowi corocznie sprawozdanie ze swojej działalności i uwagi o stanie przestrzegania praw i wolności obywateli.
+
+### 2.
+
+Sprawozdanie Rzecznika podawane jest do wiadomości publicznej.
+
+### 3.
+
+Rzecznik może przedkładać Prezydium Sejmu określone sprawy wynikające z jego działalności.
+
+### 4.
+
+Rzecznik na wniosek Prezydium Sejmu przedstawia informację lub podejmuje czynności w określonych sprawach.
+
+### Art. 18.
+
+### 1.
+
+Rzecznik wykonuje swoje zadania przy pomocy Biura Rzecznika Praw Obywatelskich.
+
+### 2.
+
+Zadania i organizację Biura określa statut, który nadaje Prezydium Sejmu na wniosek Rzecznika.
+
+### 3.
+
+Do pracowników Biura Rzecznika Praw Obywatelskich stosuje się odpowiednio przepisy o pracownikach urzędów państwowych, z uwzględnieniem ust. 4 i 5.
+
+### 4.
+
+W odniesieniu do pracowników Biura Rzecznika Praw Obywatelskich przepisy określone w art. 2 pkt 1. art. 4 ust. 3, art. 7 ust. 6, art. 20 ust. 4, art. 21 ust. 3, art. 22 ust. 2, art. 26 ust. 2, art. 36 ust. 7 i art. 41 ust. 3 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html) i z [1984 r. Nr 35, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1984/187/text.html)) wydaje Marszałek Sejmu.
+
+### 5.
+
+Uprawnienia wynikające z art. 30 ust. 1 i z art. 31 ust. 3 ustawy, o której mowa w ust. 4, przysługują - w odniesieniu do pracowników Biura Rzecznika Praw Obywatelskich - Marszałkowi Sejmu.
+
+### Art. 19.
+
+Wydatki związane z funkcjonowaniem Rzecznika Praw Obywatelskich pokrywane są z budżetu centralnego, w części dotyczącej Kancelarii Sejmu.
+
+### Art. 20.
+
+Rzecznik, za zgodą Sejmu, może ustanowić swoich pełnomocników terenowych.
+
+### Art. 21.
+
+W Kodeksie postępowania administracyjnego w art. 210 po wyrazach „Prokurator Generalny Polskiej Rzeczypospolitej Ludowej” dodaje się wyrazy „oraz Rzecznik Praw Obywatelskich”.
+
+### Art. 22.
+
+W Kodeksie postępowania cywilnego w art. 417 w § 1 po wyrazach „Prokurator Generalny Polskiej Rzeczypospolitej Ludowej” dodaje się wyrazy „oraz Rzecznik Praw Obywatelskich”.
+
+### Art. 23.
+
+W Kodeksie postępowania karnego w art. 464 na końcu dodaje się wyrazy „oraz Rzecznik Praw Obywatelskich”.
+
+### Art. 24.
+
+W ustawie z dnia 19 października 1972 r. o wynalazczości ([Dz. U. z 1984 r. Nr 33, poz. 177](https://api.sejm.gov.pl/eli/acts/DU/1984/177/text.html)) w art. 117 w zdaniu pierwszym po wyrazach „Prokurator Generalny Polskiej Rzeczypospolitej Ludowej” dodaje się wyrazy „a także Rzecznik Praw Obywatelskich”.
+
+### Art. 25.
+
+W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ([Dz. U. Nr 20, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1981/101/text.html), z [1982 r. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1985 r. Nr 22, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1985/98/text.html) i [Nr 50, poz. 262](https://api.sejm.gov.pl/eli/acts/DU/1985/262/text.html)) w art. 2 w pkt 1 na końcu dodaje się wyrazy „a także Rzecznika Praw Obywatelskich”.
+
+### Art. 26.
+
+W ustawie z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ([Dz. U. Nr 22, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1985/98/text.html)) w art. 19 w ust. 1 po wyrazach „Prezes Najwyższej Izby Kontroli” dodaje się wyrazy „Rzecznik Praw Obywatelskich”.
+
+### Art. 27.
+
+Powołania Rzecznika Praw Obywatelskich na pierwszą kadencję Sejm dokona nie później niż przed dniem 1 grudnia 1987 r.
+
+### Art. 28.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1988 r., z tym że art. 18 ust. 2 i art. 27 wchodzą w życie z dniem ogłoszenia.

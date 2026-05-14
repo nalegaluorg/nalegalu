@@ -8,11 +8,9 @@ pos: 145
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o odpadach oraz niektórych innych ustaw
-
-*USTAWA z dnia 22 stycznia 2010 r.*
+# Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich: 1) dyrektywy Rady 75/439/EWG z dnia 16 czerwca 1975 r. w sprawie unieszkodliwiania olejów odpadowych ( Dz. Urz. WE L 194 z 25.07.1975, str. 23 , L 42 z 12.02.1987, str. 43 , L 377 z 31.12.1991, str. 48 , L 243 z 24.09.1996, str. 31 i L 332 z 28.12.2000, str. 91 ; Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 14 ) ;](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,504 +22,3404 @@ domain: null
 | Data ogłoszenia | 2010-01-22 |
 | Data wydania | 2010-02-25 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100280145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/145/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/145/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/145) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. Nr 39, poz. 251 z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 21b.**
+### 2)
 
-1. Program gospodarki odpadami powinien zawierać:
+dyrektywy Rady 78/176/EWG z dnia 20 lutego 1978 r. w sprawie odpadów pochodzących z przemysłu ditlenku tytanu ([Dz. Urz. WE L 54 z 25.02.1978, str. 19](https://api.sejm.gov.pl/eli/acts//text.html), [L 378 z 31.12.1982, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 32 z 03.02.1983, str. 28](https://api.sejm.gov.pl/eli/acts//text.html), [L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html) i [L 409 z 31.12.1992, str. 11](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 71](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** wyszczególnienie rodzajów odpadów przewidzianych do wytwarzania, a w przypadkach gdy określenie rodzaju nie jest wystarczające do ustalenia zagrożeń, jakie mogą powodować odpady, organ właściwy może wezwać wnioskodawcę do podania podstawowego składu chemicznego i właściwości odpadów;
-- **2)** informacje wskazujące na sposoby zapobiegania negatywnemu oddziaływaniu odpadów na środowisko;
-- **3)** opis dalszego sposobu gospodarowania odpadami, z uwzględnieniem zbierania, transportu, odzysku i unieszkodliwiania odpadów;
-- **4)** wskazanie rodzaju magazynowanych odpadów oraz sposobu ich magazynowania;
-- **5)** oznaczenie obszaru prowadzonej działalności.
+### 3)
 
-2. We wniosku o zatwierdzenie programu gospodarki odpadami wytwórca odpadów określa czas prowadzenia działalności związanej z wytwarzaniem odpadów.
+dyrektywy Rady 86/278/EWG z dnia 12 czerwca 1986 r. w sprawie ochrony środowiska, w szczególności gleby, w przypadku wykorzystywania osadów ściekowych w rolnictwie ([Dz. Urz. WE L 181 z 04.07.1986, str. 6](https://api.sejm.gov.pl/eli/acts//text.html) i [L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 265](https://api.sejm.gov.pl/eli/acts//text.html));
 
-3. W decyzji zatwierdzającej program gospodarki odpadami, określa się:
+### 4)
 
-- **1)** wyszczególnienie rodzajów odpadów przewidzianych do wytwarzania;
-- **2)** sposób dalszego gospodarowania odpadami;
-- **3)** wskazanie rodzaju magazynowanych odpadów oraz sposobu ich magazynowania;
-- **4)** termin obowiązywania decyzji, którą wydaje się na czas oznaczony nie dłuższy niż 10 lat, a w przypadku działalności polegającej na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – nie dłuższy niż 5 lat;
-- **5)** oznaczenie obszaru prowadzonej działalności.”;
-- **13)** art. 22 otrzymuje brzmienie: „Art. 22. 1. Właściwy organ odmawia wydania decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi lub decyzji zatwierdzającej program gospodarki odpadami, jeżeli zamierzony sposób gospodarki odpadami:
-- **1)** mógłby powodować zagrożenia dla zdrowia, życia ludzi lub dla środowiska;
-- **2)** jest niezgodny z planami gospodarki odpadami;
-- **3)** jest niezgodny z przepisami prawa miejscowego;
-- **4)** jest niezgodny z przepisami z zakresu gospodarki odpadami.
+dyrektywy Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącej oczyszczania ścieków komunalnych ([Dz. Urz. WE L 135 z 30.05.1991, str. 40](https://api.sejm.gov.pl/eli/acts//text.html) i [L 67 z 07.03.1998, str. 29](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26](https://api.sejm.gov.pl/eli/acts//text.html));
 
-2. Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta.”;
+### 5)
 
-- **14)** art. 23 otrzymuje brzmienie: „Art. 23. 1. Jeżeli wytwórca odpadów narusza przepisy ustawy lub działa niezgodnie z decyzją zatwierdzającą program gospodarki odpadami niebezpiecznymi lub decyzją zatwierdzającą program gospodarki odpadami, właściwy organ wzywa go do niezwłocznego zaniechania naruszeń.
+dyrektywy Rady 91/689/EWG z dnia 12 grudnia 1991 r. w sprawie odpadów niebezpiecznych ([Dz. Urz. WE L 377 z 31.12.1991, str. 20](https://api.sejm.gov.pl/eli/acts//text.html) i [L 168 z 02.07.1994, str. 28](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 2, str. 78](https://api.sejm.gov.pl/eli/acts//text.html));
 
-2. Jeżeli mimo wezwania wytwórca odpadów nadal narusza przepisy ustawy lub działa niezgodnie z decyzją zatwierdzającą program gospodarki odpadami niebezpiecznymi lub decyzją zatwierdzającą program gospodarki odpadami, właściwy organ, w drodze decyzji, cofa zatwierdzenie programu gospodarki odpadami niebezpiecznymi lub zatwierdzenie programu gospodarki odpadami, w zakresie którego nastąpiło naruszenie.
+### 6)
 
-3. Z tytułu cofnięcia zatwierdzenia programów, o których mowa w ust. 2, odszkodowanie nie przysługuje.
+dyrektywy Parlamentu Europejskiego i Rady 94/62/WE z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych ([Dz. Urz. WE L 365 z 31.12.1994, str. 10](https://api.sejm.gov.pl/eli/acts//text.html), [L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 47 z 18.02.2004, str. 26](https://api.sejm.gov.pl/eli/acts//text.html) i [L 70 z 16.03.2005, str. 17](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 13, t. 13, str. 349](https://api.sejm.gov.pl/eli/acts//text.html));
 
-4. Cofnięcie zatwierdzenia programu gospodarki odpadami niebezpiecznymi lub zatwierdzenia programu gospodarki odpadami skutkuje wstrzymaniem działalności objętej tym zatwierdzeniem.
+### 7)
 
-5. Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności, uwzględniając potrzebę bezpiecznego dla środowiska zakończenia działalności wytwórcy odpadów w zakresie objętym programem gospodarki odpadami niebezpiecznymi lub programem gospodarki odpadami.
+dyrektywy Rady 1999/31/WE z dnia 26 kwietnia 1999 r. w sprawie składowania odpadów ([Dz. Urz. WE L 182 z 16.07.1999, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) i [L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 4, str. 228](https://api.sejm.gov.pl/eli/acts//text.html));
 
-6. Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt wytwórcy odpadów.
+### 8)
 
-7. Postępowanie w sprawie wydania decyzji, o której mowa w ust. 2, wszczyna się z urzędu.”;
+dyrektywy Parlamentu Europejskiego i Rady 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji ([Dz. Urz. WE L 269 z 21.10.2000, str. 34](https://api.sejm.gov.pl/eli/acts//text.html), [L 170 z 29.06.2002, str. 81](https://api.sejm.gov.pl/eli/acts//text.html), [L 25 z 28.01.2005, str. 73](https://api.sejm.gov.pl/eli/acts//text.html), [L 152 z 15.06.2005, str. 19](https://api.sejm.gov.pl/eli/acts//text.html) i [L 254 z 30.09.2005, str. 69](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 5, str. 224](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **15)** w art. 24:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Informację o wytwarzanych odpadach oraz sposobach gospodarowania wytworzonymi odpadami przedkłada się właściwemu organowi w terminie 30 dni przed dniem rozpoczęcia działalności powodującej powstawanie odpadów lub dniem zmiany tej działalności wpływającej na ilość lub rodzaj wytwarzanych odpadów lub sposobów gospodarowania nimi. Informację przedkłada się w czterech egzemplarzach.
+### 9)
 
-2. Właściwym organem, o którym mowa w ust. 1, jest:
+dyrektywy Parlamentu Europejskiego i Rady 2000/76/WE z dnia 4 grudnia 2000 r. w sprawie spalania odpadów ([Dz. Urz. WE L 332 z 28.12.2000, str. 91](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 5, str. 353](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa – dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **3)** starosta – dla pozostałych przedsięwzięć.”,
-    - **b)** ust. 9 otrzymuje brzmienie: „9. Jeden egzemplarz informacji o wytwarzanych odpadach oraz o sposobach gospodarowania wytworzonymi odpadami, a także kopie decyzji, o których mowa w ust. 5, 6 i 8, regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta jednego egzemplarza informacji oraz kopii wydanych przez starostę decyzji nie dotyczy prezydenta miasta na prawach powiatu.”;
+### 10)
 
-- **16)** w art. 25 ust. 3 otrzymuje brzmienie: „3. Jeżeli posiadacz odpadów, w tym wytwórca odpadów, przekazuje odpady następnemu posiadaczowi odpadów, który ma zezwolenie właściwego organu na zbieranie, odzysk, unieszkodliwianie odpadów lub koncesję na składowanie odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych, posiada decyzję, o której mowa w art. 31 lub w art. 32, lub jest wpisany do rejestru, o którym mowa w art. 33 ust. 5, odpowiedzialność za gospodarowanie odpadami przenosi się na tego następnego posiadacza odpadów.”;
-- **17)** w art. 26:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Właściwym organem, o którym mowa w ust. 2, jest:
+dyrektywy Parlamentu Europejskiego i Rady 2002/96/WE z dnia 27 stycznia 2003 r. w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE) ([Dz. Urz. WE L 37 z 13.02.2003, str. 24](https://api.sejm.gov.pl/eli/acts//text.html), [L 345 z 31.12.2003, str. 106](https://api.sejm.gov.pl/eli/acts//text.html) i [L 81 z 20.03.2008, str. 65](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 7, str. 359](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa – dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **3)** starosta – dla pozostałych przedsięwzięć.”,
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W przypadku przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych organem, o którym mowa w ust. 2, jest marszałek województwa właściwy według obszaru województwa, na którym następuje przetwarzanie tych odpadów.”,
-    - **c)** ust. 5 otrzymuje brzmienie: „5. Regionalny dyrektor ochrony środowiska albo marszałek województwa wydaje zezwolenie na odzysk lub unieszkodliwianie odpadów, po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce prowadzenia odzysku lub unieszkodliwiania odpadów.”,
-    - **d)** po ust. 6 dodaje się ust. 6a–6c w brzmieniu: „6a. W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego przyjmuje się, że wydano opinię pozytywną.
+### 11)
 
-6b. Na postanowienia, o których mowa w ust. 5 i 6, nie przysługuje zażalenie.
+dyrektywy Parlamentu Europejskiego i Rady 2006/12/WE z dnia 5 kwietnia 2006 r. w sprawie odpadów ([Dz. Urz. WE L 114 z 27.04.2006, str. 9](https://api.sejm.gov.pl/eli/acts//text.html));
 
-6c. Wymóg zasięgania opinii, o którym mowa w ust. 5, nie dotyczy przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych.”,
+### 12)
 
-- **e)** ust. 7 otrzymuje brzmienie: „7. Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce odzysku lub unieszkodliwiania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanej przez starostę decyzji nie dotyczy prezydenta miasta na prawach powiatu.”;
-- **18)** w art. 27:
-    - **a)** w ust. 1 pkt 5 i 6 otrzymują brzmienie: „5) wskazanie miejsca i sposobu oraz rodzaju magazynowanych odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – wskazanie sposobu oraz rodzaju magazynowanych odpadów;
+dyrektywy Parlamentu Europejskiego i Rady 2006/21/WE z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE ([Dz. Urz. L 102 z 11.04.2006, str. 15](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **6)** szczegółowy opis stosowanych metod odzysku lub unieszkodliwiania odpadów, w tym wskazanie procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy oraz opis procesu technologicznego;”,
-    - **b)** w ust. 2: – pkt 2 otrzymuje brzmienie: „2) miejsce i dopuszczone metody odzysku lub unieszkodliwiania odpadów, ze wskazaniem procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy, oraz opis procesu technologicznego;”, – pkt 4 otrzymuje brzmienie: „4) miejsce i sposób magazynowania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – wskazanie sposobu oraz rodzaju magazynowanych odpadów;”, – pkt 6 otrzymuje brzmienie: „6) czas obowiązywania zezwolenia, który w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych, nie może być dłuższy niż 5 lat.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Zezwolenie na unieszkodliwianie odpadów niebezpiecznych wydaje się po kontroli przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do unieszkodliwiania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych – po przeprowadzeniu, w pierwszym miejscu eksploatacji danego urządzenia, kontroli przez wojewódzkiego inspektora ochrony środowiska.”;
+### 13)
 
-- **19)** w art. 28:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Zezwolenie na zbieranie lub transport odpadów wydaje, w drodze decyzji, właściwy organ, którym jest:
+dyrektywy Parlamentu Europejskiego i Rady 2006/66/WE z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG ([Dz. Urz. WE L 266 z 26.09.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 76 z 19.03.2008, str. 39](https://api.sejm.gov.pl/eli/acts//text.html) i [L 327 z 05.12.2008, str. 7](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** starosta – dla pozostałych przedsięwzięć.
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.](#gloss-0:2:)
 
-3. Właściwym miejscowo organem, o którym mowa w ust. 2, jest:
+### Art. 1.
 
-- **1)** do wydania zezwolenia na zbieranie odpadów – regionalny dyrektor ochrony środowiska albo starosta właściwy ze względu na miejsce zbierania odpadów;
-- **2)** do wydania zezwolenia na transport odpadów – regionalny dyrektor ochrony środowiska albo starosta właściwy ze względu na miejsce siedziby lub zamieszkania transportującego odpady.”,
-    - **b)** ust. 7 otrzymuje brzmienie: „7. Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta:
+W ustawie z dnia 27 kwietnia 2001 r. o odpadach ([Dz. U. z 2007 r. Nr 39, poz. 251](https://api.sejm.gov.pl/eli/acts/DU/2007/251/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464 oraz z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666.](#gloss-0:3:)) wprowadza się następujące zmiany:
 
-- **1)** w przypadku zezwolenia na zbieranie odpadów – ze względu na miejsce zbierania odpadów;
-- **2)** w przypadku zezwolenia na transport odpadów – ze względu na miejsce siedziby lub zamieszkania transportującego odpady.”,
-    - **c)** ust. 9 otrzymuje brzmienie: „9. Uzyskanie zezwolenia, o którym mowa w ust. 1, nie dotyczy wytwórcy odpadów, który zbiera wytworzone przez siebie odpady w miejscu ich wytworzenia lub transportuje wytworzone przez siebie odpady.”,
-    - **d)** uchyla się ust. 10;
+### 1)
 
-- **20)** w art. 29:
-    - **a)** w ust. 1 dodaje się pkt 4 w brzmieniu: „4) jest niezgodny z przepisami prawa miejscowego.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Kopię wydanej decyzji regionalny dyrektor ochrony środowiska, marszałek województwa lub starosta przekazuje właściwemu wójtowi, burmistrzowi lub prezydentowi miasta.”;
+w art. 2:
 
-- **21)** po art. 29 dodaje się art. 29a w brzmieniu: „Art. 29a. 1. Stronami postępowania o wydanie decyzji lub zezwoleń, o których mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, są wnioskodawca lub władający powierzchnią ziemi, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów oraz, jeżeli w związku z eksploatacją instalacji utworzono obszar ograniczonego użytkowania, władający powierzchnią ziemi na tym obszarze.
+### a)
 
-2. Stronami postępowań, o których mowa w ust. 1, nie są właściciele nieruchomości sąsiadujących z instalacją lub nieruchomością, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów.
+w ust. 2 po pkt 6 dodaje się pkt 6a w brzmieniu:
 
-3. W postępowaniu o wydanie decyzji lub zezwoleń, o którym mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, nie stosuje się art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+„
 
-4. Przepisów ust. 1-3 nie stosuje się w postępowaniu o wydanie decyzji lub zezwolenia, o których mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, dla spalarni lub współspalarni odpadów oraz dla instalacji wymagającej uzyskania pozwolenia zintegrowanego.
+### 6a)
 
-5. Jeżeli liczba stron w postępowaniu przekracza 20, do stron innych niż wnioskodawca lub władający powierzchnią ziemi, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów, stosuje się art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
+zwłok zwierząt, w zakresie uregulowanym przepisami rozporządzenia (WE) nr 1774/2002 Parlamentu Europejskiego i Rady z dnia 3 października 2002 r. ustanawiającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego nieprzeznaczonych do spożycia przez ludzi ([Dz. Urz. WE 273 z 10.10.2002, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. Polskie wydanie specjalne, rozdz. 3, t. 37, str. 92](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
 
-- **22)** w art. 30 ust. 7 otrzymuje brzmienie: „7. Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta właściwemu ze względu na miejsce zbierania, odzysku lub unieszkodliwiania odpadów, a w przypadku transportu odpadów – właściwemu ze względu na miejsce siedziby lub zamieszkania transportującego odpady.”;
-- **23)** w art. 31 dodaje się ust. 5–7 w brzmieniu: „5. Wójt, burmistrz lub prezydent miasta wydaje opinię, o której mowa w ust. 4, w terminie 14 dni od dnia otrzymania żądania o wydanie opinii.
+” ,
 
-6. W przypadku niedotrzymania terminu, o którym mowa w ust. 5, przyjmuje się, że wydano opinię pozytywną.
+### b)
 
-7. Na postanowienie, o którym mowa w ust. 4, nie przysługuje zażalenie.”;
+w ust. 3 pkt 9 otrzymuje brzmienie:
 
-- **24)** w art. 33:
-    - **a)** ust. 5c otrzymuje brzmienie: „5c. Starosta dokonuje, w drodze decyzji, zmian w rejestrze na wniosek posiadacza odpadów lub transportującego odpady, który jest zwolniony z obowiązku uzyskiwania zezwoleń na zbieranie, transport, odzysk lub unieszkodliwienie odpadów.”,
-    - **b)** po ust. 5c dodaje się ust. 5d w brzmieniu: „5d. Kopie decyzji, o których mowa w ust. 5b i 5c, starosta przekazuje marszałkowi województwa.”,
-    - **c)** ust. 7 i 8 otrzymują brzmienie: „7. Decyzję, o której mowa w ust. 6, może wydać również państwowy wojewódzki inspektor sanitarny w przypadku stwierdzenia zagrożenia dla zdrowia lub życia ludzi.
+„
 
-8. W przypadkach określonych w ust. 6 i 7, na wniosek posiadacza odpadów, odpowiednio wojewódzki inspektor ochrony środowiska albo państwowy wojewódzki inspektor sanitarny, kierując się stopniem zagrożenia dla środowiska, zdrowia lub życia ludzi, może, w drodze decyzji, ustalić termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.”,
+### 9)
 
-- **d)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. W razie nieusunięcia nieprawidłowości w ustalonym terminie wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny wstrzyma, w drodze decyzji, działalność związaną z odzyskiem, unieszkodliwianiem, zbieraniem lub transportem odpadów.”,
-- **e)** ust. 9 otrzymuje brzmienie: „9. W decyzjach, o których mowa w ust. 6, 7 i 8a, określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska oraz dla zdrowia lub życia ludzi jej zakończenia. Termin wstrzymania działalności nie może być późniejszy niż rok od dnia doręczenia decyzji.”,
-- **f)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. Decyzjom, o których mowa w ust. 6, 7 i 8a, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny może nadać rygor natychmiastowej wykonalności.”,
-- **g)** ust. 10 otrzymuje brzmienie: „10. Postępowanie w sprawie wydania decyzji o wstrzymaniu działalności wszczyna się z urzędu.”,
-- **h)** po ust. 10 dodaje się ust. 10a–10d w brzmieniu: „10a. Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt posiadacza lub transportującego odpady.
+ustawy z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów ([Dz. U. Nr 124, poz. 859](https://api.sejm.gov.pl/eli/acts/DU/2007/859/text.html) oraz z [2010 r. Nr 28, poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2010/145/text.html)).
 
-10b. Po stwierdzeniu, że ustały przyczyny wstrzymania działalności na podstawie decyzji, o których mowa w ust. 6, 7 i 8a, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
+” ;
 
-10c. Kopie wydanych decyzji, o których mowa w ust. 6, 7, 8a i 10b, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje właściwemu organowi, o którym mowa w art. 26 ust. 3 lub w art. 28 ust. 3, w terminie 30 dni od dnia, w którym decyzja stała się ostateczna.
+### 2)
 
-10d. W przypadku, gdy organem właściwym, o którym mowa w art. 26 ust. 3 lub w art. 28 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 6, 7, 8a i 10b, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje dodatkowo właściwemu marszałkowi województwa.”;
+w art. 3 w ust. 3:
 
-- **25)** w art. 36:
-    - **a)** po ust. 1a dodaje się ust. 1b-1e w brzmieniu: „1b. W przypadku posiadacza odpadów przekazującego odpady na składowisko oraz zarządzającego składowiskiem odpadów ewidencja, o której mowa w ust. 1, dodatkowo obejmuje:
+### a)
 
-- **1)** podstawową charakterystykę odpadów;
-- **2)** wyniki testów zgodności, o których mowa w ust. 1e.
+pkt 4 otrzymuje brzmienie:
 
-1c. Podstawowa charakterystyka sporządzana przez wytwórcę lub posiadacza odpadów odpowiedzialnego za gospodarowanie tymi odpadami, a w przypadku odpadów komunalnych - przez prowadzącego działalność w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości, o którym mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach zawiera:
+„
 
-- **1)** informacje podstawowe: 1 pkt 1-7b w odpadach kierowanych na składowisko odpadów,
-    - **a)** nazwę, siedzibę i adres wytwórcy lub posiadacza odpadów kierującego odpady na składowisko odpadów,
-    - **b)** rodzaj odpadów,
-    - **c)** syntetyczny opis procesu wytwarzania odpadów uwzględniający podstawowe użyte surowce i wytworzone produkty,
-    - **d)** oświadczenie o braku odpadów wymienionych w art. 55 ust.
-    - **e)** opis zastosowanego procesu unieszkodliwiania lub odzysku, a także opis sposobu segregowania odpadów lub oświadczenie o przyczynie, dla której wymienione działania nie zostały wykonane,
-    - **f)** opis odpadu podający kolor, postać fizyczną oraz jego zapach,
-    - **g)** wykaz właściwości z załącznika nr 4 w odniesieniu do odpadów niebezpiecznych, które mogą zostać przekwalifikowane na inne niż niebezpieczne na podstawie art. 4 ust. 1 pkt 2,
-    - **h)** wskazanie typu składowiska odpadów, na którym odpady po przeprowadzeniu badań zgodnie z kryteriami dopuszczenia odpadów do składowania mogą być składowane,
-    - **i)** oświadczenie o braku możliwości odzysku, w tym recyklingu odpadów,
-    - **j)** podanie częstotliwości przeprowadzania testów zgodności;
+### 4)
 
-- **2)** informacje dodatkowe, o ile są istotne dla eksploatacji danego typu składowiska odpadów, dotyczące:
-    - **a)** fizykochemicznego składu oraz podatności odpadów na wymywanie,
-    - **b)** zachowania środków ostrożności na składowisku odpadów.
+odpadach komunalnych - rozumie się przez to odpady powstające w gospodarstwach domowych, z wyłączeniem pojazdów wycofanych z eksploatacji, a także odpady niezawierające odpadów niebezpiecznych pochodzące od innych wytwórców odpadów, które ze względu na swój charakter lub skład są podobne do odpadów powstających w gospodarstwach domowych;
 
-1d. Podstawową charakterystykę może stanowić kopia wydanej decyzji lub kopia przyjętej informacji, o których mowa w art. 17, pod warunkiem że zawiera ona informacje, o których mowa w ust. 1c. Jeżeli wydana decyzja lub przyjęta informacja nie zawiera wszystkich informacji, o których mowa w ust. 1c, podstawową charakterystykę uzupełnia się o brakujące informacje.
+” ,
 
-1e. Wyniki testów zgodności zawierają wyniki badań składu chemicznego i właściwości odpadów przeznaczonych do unieszkodliwiania na składowisku odpadów, umożliwiające weryfikację informacji zawartych w podstawowej charakterystyce odpadów, a w szczególności potwierdzenie faktu spełniania przez te odpady kryteriów dopuszczania odpadów do składowania na składowisku odpadów danego typu.”,
+### b)
 
-- **b)** ust. 2 otrzymuje brzmienie: „2. Obowiązek prowadzenia ewidencji odpadów, o której mowa w ust. 1, nie dotyczy wytwórców odpadów komunalnych, a także wytwórców odpadów w postaci pojazdów wycofanych z eksploatacji, jeżeli pojazdy te zostały przekazane do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.”,
-- **c)** ust. 8 otrzymuje brzmienie: „8. Kartę przekazania odpadu w odpowiedniej liczbie egzemplarzy – po jednym dla każdego z posiadaczy, o których mowa w ust. 7, oraz dla transportujących odpady – sporządza posiadacz odpadów, który przekazuje odpady.”,
-- **d)** po ust. 8 dodaje się ust. 8a w brzmieniu: „8a. Dopuszczalne jest niesporządzanie karty przekazania odpadu, jeżeli jeden z posiadaczy odpadów jest zwolniony z obowiązku prowadzenia ewidencji odpadów.”,
-- **e)** ust. 12 otrzymuje brzmienie: „12. Marszałek województwa właściwy ze względu na miejsce odbierania odpadów komunalnych, wytwarzania, odzysku lub unieszkodliwiania odpadów albo miejsce zamieszkania lub siedziby transportującego odpady, w drodze decyzji, zobowiązuje posiadacza odpadów lub transportującego odpady do przedłożenia dokumentów ewidencji odpadów, w przypadku gdy zbiorcze zestawienie danych, o którym mowa w art. 37, budzi wątpliwości co do prawidłowości wypełnienia lub gdy jest to niezbędne do prowadzenia innych postępowań z zakresu ochrony środowiska będących w jego kompetencjach.”,
-- **f)** ust. 14 otrzymuje brzmienie: „14. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory dokumentów stosowanych na potrzeby ewidencji odpadów, z wyjątkiem podstawowej charakterystyki odpadów oraz wyników testów zgodności.”;
-- **26)** w art. 37:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Zbiorcze zestawienia danych, o których mowa w ust. 1 i 2, posiadacz odpadów, w tym wytwórca komunalnych osadów ściekowych, jest obowiązany przekazać marszałkowi województwa właściwemu ze względu na miejsce wytwarzania, odbierania odpadów komunalnych, zbierania, odzysku lub unieszkodliwiania odpadów, w terminie do dnia 15 marca za poprzedni rok kalendarzowy.”,
-    - **b)** po ust. 3 dodaje się ust. 3a–3c w brzmieniu: „3a. Marszałek województwa weryfikuje informacje zawarte w zbiorczych zestawieniach danych, o których mowa w ust. 3.
+pkt 8a otrzymuje brzmienie:
 
-3b. Jeżeli z weryfikacji, o której mowa w ust. 3a, wynika, że informacje zawarte w zbiorczym zestawieniu danych są niezgodne ze stanem faktycznym marszałek województwa zobowiązuje, w drodze decyzji, do korekty sporządzonego zestawienia danych, określając termin przekazania korekty.
+„
 
-3c. Niedokonanie korekty zbiorczego zestawienia danych, zgodnie z decyzją, o której mowa w ust. 3b, skutkuje uznaniem, że posiadacz odpadów nie wykonał obowiązku przekazania zbiorczego zestawienia danych.”,
+### 8a)
 
-- **c)** ust. 7 otrzymuje brzmienie: „7. Dostęp do wojewódzkiej bazy danych posiadają: minister właściwy do spraw środowiska, minister właściwy do spraw gospodarki, Główny Inspektor Ochrony Środowiska, Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, Generalny Dyrektor Ochrony Środowiska, regionalny dyrektor ochrony środowiska, starosta, wójt, burmistrz lub prezydent miasta, wojewódzki inspektor ochrony środowiska, zarząd wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej oraz służby statystyki publicznej.”;
-- **27)** po art. 38 dodaje się art. 38a w brzmieniu: „Art. 38a. 1. Dopuszcza się przetwarzanie odpadów zawierających azbest w urządzeniach przewoźnych zapewniających takie przekształcenie włókien azbestu, aby nie stwarzały one zagrożenia dla zdrowia lub życia ludzi oraz dla środowiska, zgodnie z przepisami wydanymi na podstawie ust. 3.
+odpadach z wypadków - rozumie się przez to odpady powstające podczas prowadzenia akcji ratowniczej lub gaśniczej, z wyłączeniem:
 
-2. Jeżeli odpady powstałe po procesie przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych nadal zawierają włókna azbestu, podlegają unieszkodliwieniu przez składowanie na składowisku odpadów niebezpiecznych.
+### a)
 
-3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej,
 
-- **1)** szczegółowe warunki przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych, w tym parametry takie jak: temperatura, ciśnienie, czas prowadzenia procesu oraz stopień rozdrobnienia odpadów;
-- **2)** sposób i warunki przygotowania odpadów zawierających azbest do przetwarzania;
-- **3)** sposób i zakres prowadzenia monitoringu procesu, w tym parametrów, o których mowa w pkt 1, oraz metodykę i częstotliwość badań odpadów powstałych w wyniku prowadzenia procesów przetwarzania odpadów zawierających azbest;
-- **4)** warunki prowadzenia procesu odzysku dla odpadów powstających w wyniku przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych.
+### b)
 
-4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki kieruje się:
+odpadów powstałych w wyniku szkody w środowisku, o której mowa w art. 6 pkt 11 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. Nr 75, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/2007/493/text.html) oraz z [2008 r. Nr 138, poz. 865](https://api.sejm.gov.pl/eli/acts/DU/2008/865/text.html) i [Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html));
 
-- **1)** zagrożeniami stwarzanymi przez odpady zawierające azbest;
-- **2)** koniecznością zapewnienia skuteczności przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych;
-- **3)** koniecznością zapewniania monitoringu skuteczności prowadzenia procesów przetwarzania odpadów zawierających azbest rozumianej jako doprowadzenie odpadów zawierających azbest do takiej postaci, że stwierdzenie obecności włókien azbestu nie jest możliwe;
-- **4)** koniecznością zapewnienia właściwego przetwarzania każdej partii odpadów zawierających azbest.”;
-- **28)** w art. 40 ust. 4 otrzymuje brzmienie: „4. Marszałek województwa, biorąc pod uwagę stan oraz zagrożenia dla środowiska lub zdrowia lub życia ludzi, może, w drodze decyzji, zobowiązać posiadacza odpadów, o którym mowa w ust. 2, do prowadzenia dodatkowych badań wpływu odpadów na jakość wód oraz zwiększyć częstotliwość prowadzenia wszystkich badań.”;
-- **29)** w art. 42:
-    - **a)** ust. 1a otrzymuje brzmienie: „1a. Zakazuje się unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż te, które prowadzą do obniżenia zawartości ogólnego węgla organicznego do 5% w tych odpadach. Zakazuje się unieszkodliwiania tych odpadów przez ich współspalanie.”,
-    - **b)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Posiadacz odpadów medycznych lub odpadów weterynaryjnych, prowadzący unieszkodliwianie tych odpadów, jest obowiązany do prowadzenia tych procesów oraz do ich monitoringu, zgodnie z wymaganiami ochrony środowiska wynikającymi z przepisów wydanych na podstawie ust. 3.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+” ;
 
-- **1)** dopuszczalne sposoby unieszkodliwiania odpadów medycznych i odpadów weterynaryjnych, nieposiadających właściwości zakaźnych;
-- **2)** warunki prowadzenia procesów unieszkodliwiania odpadów medycznych i odpadów weterynaryjnych nieposiadających właściwości zakaźnych;
-- **3)** warunki prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, w tym: temperaturę, ciśnienie, czas prowadzenia procesu oraz stopień rozdrobnienia odpadów;
-- **4)** sposób i zakres prowadzenia monitoringu procesów, o których mowa w pkt 2 i 3, oraz metodykę i częstotliwość badań odpadów powstałych w wyniku prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych.”,
-    - **d)** po ust. 3 dodaje się ust. 4 w brzmieniu: „4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw zdrowia kieruje się:
+### 3)
 
-- **1)** potrzebą zapobiegania zagrożeniom stwarzanym przez odpady medyczne i odpady weterynaryjne;
-- **2)** koniecznością zapewnienia skuteczności unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, w tym metodami innymi niż termiczne;
-- **3)** koniecznością zapewniania prawidłowego monitoringu prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych;
-- **4)** koniecznością pozbawienia właściwości zakaźnych każdej partii zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych.”;
-- **30)** w art. 43:
-    - **a)** po ust. 1a dodaje się ust. 1b w brzmieniu: „1b. Odpowiedzialność za prawidłowe zastosowanie komunalnych osadów ściekowych do celów, o których mowa w ust. 1 pkt 1, 4 lub 5, spoczywa na wytwórcy tych osadów.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Zakazuje się nawadniania komunalnych osadów ściekowych poddanych uprzednio procesowi osuszania.”,
-    - **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Właściciel, dzierżawca lub inna osoba władająca nieruchomością, na której mają być stosowane komunalne osady ściekowe, jest obowiązana przechowywać wyniki badań i informacje, o których mowa w ust. 3 i 4, przez okres 5 lat.”,
-    - **d)** w ust. 6: – pkt 2 otrzymuje brzmienie: „2) na terenach ochrony pośredniej stref ochronnych ujęć wody, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2005 r. Nr 239, poz. 2019, z późn. zm. ) nie stanowi inaczej;”, – pkt 8 otrzymuje brzmienie: „8) na obszarach ochronnych zbiorników wód śródlądowych, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. – Prawo wodne, nie stanowi inaczej;”;
+w art. 4:
 
-- **31)** w art. 45 ust. 1 otrzymuje brzmienie: „1. Zarządzający spalarnią odpadów lub współspalarnią odpadów jest obowiązany, w czasie przyjmowania i termicznego przekształcania odpadów, do podejmowania niezbędnych środków ostrożności mających na celu zapobieżenie lub ograniczenie negatywnych skutków dla środowiska, w szczególności w odniesieniu do zanieczyszczeń powietrza, gleby, wód powierzchniowych i gruntowych oraz zapachów i hałasu, a także bezpośredniego zagrożenia zdrowia ludzi, oraz przestrzegania wymagań w zakresie termicznego przekształcania odpadów wynikających z przepisów wydanych na podstawie art. 47.”;
-- **32)** art. 48 otrzymuje brzmienie: „Art. 48. 1. W razie niedopełnienia przez zarządzającego spalarnią odpadów lub współspalarnią odpadów obowiązków, o których mowa w art. 44, w art. 45 lub w art. 47, wojewódzki inspektor ochrony środowiska, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może wyda ć decyzję o wstrzymaniu działalności w zakresie termicznego przekształcania odpadów.
+### a)
 
-2. W przypadkach określonych w ust. 1, na wniosek zarządzającego spalarnią odpadów lub współspalarnią odpadów, wojewódzki inspektor ochrony środowiska, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może, w drodze decyzji, ustalić termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.
+ust. 1a-1c otrzymują brzmienie:
 
-3. W razie nieusunięcia nieprawidłowości w ustalonym terminie, wojewódzki inspektor ochrony środowiska wstrzyma, w drodze decyzji, działalność w zakresie termicznego przekształcania odpadów.
+„
 
-4. W decyzjach, o których mowa w ust. 1 i 3, określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska jej zakończenia. Termin wstrzymania działalności nie może być dłuższy niż rok od dnia doręczenia decyzji.
+### 1a.
 
-5. Postępowanie w sprawie wydania decyzji o wstrzymaniu działalności wszczyna się z urzędu.
+Substancje i przedmioty, które nie spełniają wymagań technicznych, przez co stanowią zagrożenie dla środowiska lub stanowią zagrożenie dla zdrowia lub życia ludzi, są odpadami.
 
-6. Decyzjom, o których mowa w ust. 1–3, wojewódzki inspektor ochrony środowiska może nadać rygor natychmiastowej wykonalności.
+### 1b.
 
-7. Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt prowadzącego działalność w zakresie termicznego przekształcania odpadów.
+Ministrowie właściwi do spraw gospodarki, transportu, rolnictwa i zdrowia oraz Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw środowiska, mogą określić, każdy w zakresie swoich kompetencji, w drodze rozporządzeń, wymagania techniczne, o których mowa w ust. 1a.
 
-8. Po stwierdzeniu, że ustały przyczyny wstrzymania działalności, wojewódzki inspektor ochrony środowiska, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
+### 1c.
 
-9. Kopie wydanych decyzji, o których mowa w ust. 1–3 i 8, wojewódzki inspektor ochrony środowiska przekazuje właściwemu organowi, o którym mowa w art. 26 ust. 3, w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna.
+Wydając rozporządzenia, o których mowa w ust. 1b, ministrowie uwzględnią:
 
-10. W przypadku gdy organem właściwym, o którym mowa w art. 26 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 1–3 i 8, wojewódzki inspektor ochrony środowiska przekazuje dodatkowo właściwemu marszałkowi województwa.”;
+### 1)
 
-- **33)** w art. 49a w ust. 1 uchyla się pkt 6;
-- **34)** w art. 53:
-    - **a)** w ust. 2 dodaje się pkt 15 w brzmieniu: „15) określenie planu awaryjnego, w szczególnoś ci na wypadek wykrycia zmian w jakości wód gruntowych z powodu emisji substancji ze składowiska odpadów.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Instrukcję eksploatacji składowiska odpadów zatwierdza, w drodze decyzji:
+wymagania ochrony środowiska;
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa – dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **3)** starosta – dla pozostałych przedsięwzięć.”,
-    - **c)** w ust. 4 dodaje się pkt 14 w brzmieniu: „14) plan awaryjny, w szczególności na wypadek wykrycia zmian w jakości wód gruntowych w zakresie emisji substancji ze składowiska odpadów.”;
+### 2)
 
-- **35)** art. 54 otrzymuje brzmienie: „Art. 54. 1. Zamknięcie składowiska odpadów lub jego wydzielonej części wymaga zgody właściwego organu.
+bezpieczeństwo użytkowania substancji lub przedmiotów;
 
-2. Zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części wydaje, na wniosek zarządzającego składowiskiem odpadów, w drodze decyzji, właściwy organ, którym jest:
+### 3)
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć i zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa – dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
-- **3)** starosta – dla pozostałych przedsięwzięć.
+możliwe zagrożenia dla zdrowia lub życia ludzi;
 
-3. Przed wydaniem zgody, o której mowa w ust. 2, przeprowadzana jest kontrola składowiska odpadów, na wniosek właściwego organu, przez wojewódzkiego inspektora ochrony środowiska z udziałem przedstawiciela tego organu.
+### 4)
 
-4. Przeprowadzenie kontroli składowiska odpadów, o której mowa w ust. 3, nie jest wymagane, jeżeli potrzeba zamknięcia składowiska odpadów wynika z zarządzenia pokontrolnego wojewódzkiego inspektora ochrony środowiska.
+wymagania ochrony dóbr kultury lub
 
-5. Jeżeli techniczne zamknięcie składowiska odpadów lub jego rekultywacja odbywa się z wykorzystaniem odpadów, to organem właściwym do wydania zezwolenia na odzysk jest organ, który udzielił zgody na zamknięcie tego składowiska.
+### 5)
 
-6. Wniosek, o którym mowa w ust. 2, powinien zawierać:
+wymagania wynikające z przepisów Unii Europejskiej.
 
-- **1)** określenie technicznego sposobu zamknięcia składowiska odpadów lub jego wydzielonej części;
-- **2)** datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów;
-- **3)** harmonogram działań związanych z rekultywacją składowiska odpadów.
+” ,
 
-7. Zgoda na zamknięcie składowiska odpadów lub jego wydzielonej części powinna określać:
+### b)
 
-- **1)** techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
-- **2)** datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów, która stanowi datę zamknięcia składowiska;
-- **3)** harmonogram działań związanych z rekultywacją składowiska odpadów;
-- **4)** sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoringu, oraz warunki wykonania tego obowiązku.
+po ust. 1c dodaje się ust. 1d i 1e w brzmieniu:
 
-8. Data zaprzestania przyjmowania odpadów do składowania na składowisku odpadów, o której mowa w ust. 6 i 7, nie może być późniejsza niż 3 miesiące od dnia doręczenia decyzji o zgodzie na zamknięcie składowiska odpadów.
+„
 
-9. Podmiot zainteresowany przejęciem wszystkich warunków wynikających z decyzji o zgodzie na zamknięcie składowiska odpadów może złożyć wniosek o przeniesienie na niego praw i obowiązków wynikających z tej decyzji.
+### 1d.
 
-10. Przeniesienie praw i obowiązków jest możliwe tylko wtedy, gdy podmiot, o którym mowa w ust. 9, daje rękojmię prawidłowego wykonania tych obowiązków przez wykazanie posiadania odpowiednich kwalifikacji oraz środków technicznych i organizacyjnych gwarantujących wykonanie technicznego zamknięcia składowiska odpadów, wykonanie, zgodnie z harmonogramem, działań związanych z rekultywacją składowiska odpadów oraz sprawowanie nadzoru, w tym monitoringu, nad tym składowiskiem, zgodnego z decyzją, o której mowa w ust. 2.
+Przepisów ust. 1a-1c nie stosuje się do pojazdów wycofanych z eksploatacji.
 
-11. Przeniesienie lub odmowa przeniesienia praw i obowiązków następuje w drodze decyzji.
+### 1e.
 
-12. Podmiot, o którym mowa w ust. 9, przejmuje wszystkie obowiązki wynikające z decyzji o zgodzie na zamknięcie składowiska odpadów.
+Wojewódzki inspektor ochrony środowiska, w drodze decyzji, stwierdza niespełnienie wymagań technicznych, o których mowa w ust. 1a, przez substancje lub przedmioty i nakłada obowiązek pozbycia się tych odpadów, wskazując sposób wykonania tej decyzji.
 
-13. W decyzji przenoszącej prawa i obowiązki określa się obowiązek ustanowienia zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.
+” ;
 
-14. Decyzja, o której mowa w ust. 11:
+### 4)
 
-- **1)** wywołuje skutki prawne po uzyskaniu tytułu prawnego do składowiska odpadów lub jego wydzielonej części;
-- **2)** wygasa po upływie roku od dnia jej doręczenia, jeżeli wnioskodawca nie uzyskał tytułu prawnego do składowiska lub jego wydzielonej części.
+w art. 9:
 
-15. Zarządzający składowiskiem, po wykonaniu obowiązków określonych w decyzji o zgodzie na zamknięcie składowiska, może złożyć wniosek o zwrot ustanowionego zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.”;
+### a)
 
-- **36)** w art. 54a po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. Pozwolenie, o którym mowa w ust. 2, wydaje się po sporządzeniu przez zainteresowanego wydobyciem odpadów ekspertyzy, która w szczególności obejmuje:
-- **1)** szacunkową ilość odpadów przewidzianych do wydobycia;
-- **2)** techniczny sposób wydobywania odpadów;
-- **3)** sposoby zapobiegania negatywnemu oddziaływaniu wydobywania odpadów na zdrowie lub życie ludzi oraz na środowisko;
-- **4)** opis oddziaływania planowanego wydobycia odpadów na środowisko;
-- **5)** opis technicznego zabezpieczenia miejsca po wydobyciu odpadów, a w przypadkach zamkniętych składowisk lub ich części - także działań rekultywacyjnych.
+ust. 3 otrzymuje brzmienie:
 
-2b. W pozwoleniu, o którym mowa w ust. 2, należy uwzględnić:
+„
 
-- **1)** ilość odpadów dopuszczonych do wydobycia;
-- **2)** techniczny sposób wydobywania odpadów;
-- **3)** sposoby zapobiegania negatywnemu oddziaływaniu wydobywania odpadów na zdrowie lub życie ludzi oraz na środowisko;
-- **4)** opis technicznego zabezpieczenia miejsca po wydobyciu odpadów, a w przypadku zamkniętych składowisk lub ich części - także działań rekultywacyjnych.”;
-- **37)** po art. 54a dodaje się art. 54b–54e w brzmieniu: „Art. 54b. 1. W przypadku gdy:
-- **1)** składowisko odpadów lub jego wydzielona część nie spełniają wymogów technicznych lub formalnych określonych przepisami prawa lub
-- **2)** w wyniku przeprowadzonej kontroli wojewódzki inspektor ochrony środowiska stwierdzi, że na składowisku odpadów innych niż niebezpieczne i obojętne, na którym składowane są odpady komunalne, co najmniej od roku nie są przyjmowane odpady, lub
-- **3)** określona w decyzjach administracyjnych pojemność składowiska odpadów została zapełniona – a zarządzający składowiskiem nie wystąpił z wnioskiem o zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części – właściwy organ ze względu na lokalizację składowiska, wykonuje ekspertyzę.
+### 3.
 
-2. Właściwym organem, o którym mowa w ust. 1, jest:
+Zakazuje się poddawania odzyskowi lub unieszkodliwianiu niesegregowanych odpadów komunalnych, pozostałości z sortowania odpadów komunalnych oraz komunalnych osadów ściekowych poza obszarem województwa, na którym zostały wytworzone, z zastrzeżeniem ust. 4.
 
-- **1)** regionalny dyrektor ochrony środowiska – dla przedsięwzięć lub zdarzeń na terenach zamkniętych;
-- **2)** marszałek województwa – dla pozostałych przedsięwzięć.
+” ,
 
-3. Ekspertyza, o której mowa w ust. 1, określa w szczególności:
+### b)
 
-- **1)** techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
-- **2)** harmonogram działań związanych z rekultywacją składowiska odpadów;
-- **3)** sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoringu, oraz warunki wykonania tego obowiązku.
+po ust. 3 dodaje się ust. 3a w brzmieniu:
 
-**Art. 54c.**
+„
 
-1. Właściwy organ, o którym mowa w art. 54b ust. 2, na podstawie ekspertyzy, o której mowa w art. 54b ust. 1, wydaje decyzję o zamknięciu składowiska odpadów:
+### 3a.
 
-- **1)** zarządzającemu składowiskiem odpadów albo
-- **2)** władającemu powierzchnią ziemi, jeżeli zarządzający składowiskiem odpadów nie może zostać zidentyfikowany lub nie można wszcząć wobec niego postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna, albo
-- **3)** wójtowi, burmistrzowi lub prezydentowi miasta, właściwemu ze względu na lokalizację składowiska, jeżeli ani zarządzający składowiskiem odpadów ani władający powierzchnią ziemi nie mogą zostać zidentyfikowani lub nie można wszcząć wobec nich postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna.
+Zakazuje się przywozu na teren województwa, w celu poddawania odzyskowi lub unieszkodliwianiu, niesegregowanych odpadów komunalnych, pozostałości z sortowania odpadów komunalnych oraz komunalnych osadów ściekowych, wytworzonych poza terenem tego województwa, z zastrzeżeniem ust. 4.
 
-2. Decyzja, o której mowa w ust. 1, powinna określać:
+” ,
 
-- **1)** techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
-- **2)** datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów;
-- **3)** harmonogram działań związanych z rekultywacją składowiska odpadów;
-- **4)** sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoring, oraz warunki wykonania tego obowiązku.
+### c)
 
-3. Decyzję, o której mowa w ust. 1, właściwy organ, o którym mowa w art. 54b ust. 2, wydaje nie później niż w terminie miesiąca od dnia wykonania ekspertyzy, o której mowa w art. 54b ust. 1.
+ust. 4 otrzymuje brzmienie:
 
-4. Zarządzający składowiskiem, po wykonaniu obowiązków określonych w decyzji o zgodzie na zamknięcie składowiska, może złożyć wniosek o zwrot ustanowionego zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.
+„
 
-**Art. 54d.**
+### 4.
 
-1. Koszty sporządzenia ekspertyzy, o której mowa w art. 54b ust. 1, obciążają zarządzającego składowiskiem odpadów.
+Niesegregowane odpady komunalne, pozostałości z sortowania odpadów komunalnych oraz komunalne osady ściekowe mogą być poddane odzyskowi lub unieszkodliwianiu na obszarze województwa innego niż te, na którym zostały wytworzone, jeżeli odległość od miejsca wytwarzania odpadów do instalacji lub miejsca przeznaczonego do odzysku lub unieszkodliwiania jest mniejsza niż odległość do instalacji lub miejsca położonego na obszarze tego samego województwa.
 
-2. Na pokrycie kosztów związanych z zamknięciem składowiska odpadów, o których mowa w art. 54b ust. 1, oraz w przypadkach, o których mowa w art. 54c ust. 1 pkt 2 i 3, mogą być przeznaczone środki finansowe z ustanowionego zabezpieczenia roszczeń.
+” ,
 
-**Art. 54e.** Główny Inspektor Ochrony Środowiska przechowuje dane dotyczące rozmieszczenia eksploatowanych i zamkniętych składowisk odpadów, w tym składowisk odpadów zawierających azbest lub wydzielonych części na terenie innych składowisk odpadów, przeznaczonych do wyłącznego składowania odpadów zawierających azbest.”;
+### d)
 
-**Art. 79b.**
+po ust. 4 dodaje się ust. 4a w brzmieniu:
 
-1. Jeżeli posiadacz odpadów lub transportujący odpady:
+„
 
-- **1)** wytwarza odpady bez wymaganej decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi lub zatwierdzającej program gospodarki odpadami lub z naruszeniem jej warunków lub
-- **2)** wytwarza odpady bez wymaganego złożenia informacji o wytworzonych odpadach oraz sposobach gospodarowania wytworzonymi odpadami lub prowadzi gospodarkę odpadami niezgodnie ze złożoną informacją, lub
-- **3)** wytwarza odpady pomimo wniesienia sprzeciwu, o którym mowa w art. 24 ust. 5, albo rozpoczyna działalność powodującą powstawanie odpadów przed upływem terminu do wniesienia sprzeciwu, lub
-- **4)** będąc obowiązany do zgłoszenia do rejestru, o którym mowa w art. 33 ust. 5, nie dopełnił tego obowiązku lub wykonał go niezgodnie ze stanem faktycznym lub dokonuje zbierania odpadów lub transportu odpadów niezgodnie z informacjami zgłoszonymi do rejestru, podlega karze pieniężnej w wysokości 5 000 zł.
+### 4a.
 
-2. Jeżeli posiadacz odpadów lub transportujący odpady:
+Zasada, o której mowa w ust. 4, jest realizowana zgodnie z hierarchią postępowania z odpadami, o której mowa w art. 7.
 
-- **1)** pozbywa się odpadów wbrew przepisom dotyczącym gospodarowania odpadami lub
-- **2)** przekazuje je podmiotom, które nie uzyskały wymaganych zezwoleń, chyba że posiadanie zezwolenia nie było wymagane, lub
-- **3)** w celu spełnienia kryteriów dopuszczenia odpadów do składowania na składowiskach odpadów, rozcieńcza lub sporządza mieszaniny odpadów ze sobą lub innymi substancjami lub przedmiotami, lub
-- **4)** powodując wzrost zagrożenia dla zdrowia lub życia ludzi lub środowiska, miesza odpady niebezpieczne różnych rodzajów lub odpady niebezpieczne z odpadami innymi niż niebezpieczne lub dopuszcza do mieszania tych odpadów, lub
-- **5)** prowadzi działalność w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów bez wymaganego zezwolenia lub z naruszeniem jego warunków, lub
-- **6)** wbrew zakazom dotyczącym zbierania odpadów dokonuje zbierania odpadów, podlega karze pieniężnej w wysokości 10 000 zł.
+” ,
 
-**Art. 79c.**
+### e)
 
-1. Jeżeli zarządzający składowiskiem bez wymaganej zgody organu zamyka składowisko lub jego wydzieloną część podlega karze pieniężnej w wysokości 5 000 zł.
+ust. 5 otrzymuje brzmienie:
 
-2. Jeżeli zarządzający składowiskiem pomimo decyzji o zamknięciu składowiska przyjmuje odpady do składowania podlega karze pieniężnej w wysokości 20 000 zł.
+„
 
-3. Jeżeli posiadacz odpadów lub transportujący odpady, będąc obowiązanym do prowadzenia ewidencji odpadów lub przekazywania wymaganych informacji lub sporządzania i przekazywania zbiorczego zestawienia danych lub sporządzania podstawowej charakterystyki odpadów lub przeprowadzania testów zgodności, nie wykonuje tego obowiązku albo wykonuje go nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze pieniężnej w wysokości 10 000 zł.
+### 5.
 
-**Art. 79d.**
+Przepisy ust. 3, 3a i 4 stosuje się odpowiednio do unieszkodliwiania odpadów medycznych o właściwościach zakaźnych, zwanych dalej „zakaźnymi odpadami medycznymi”, oraz do unieszkodliwiania odpadów weterynaryjnych o właściwościach zakaźnych, zwanych dalej „zakaźnymi odpadami weterynaryjnymi”.
 
-1. Kary pieniężne, o których mowa w art. 79b, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
+” ;
 
-2. Kary pieniężne, o których mowa w art. 79b, wnosi się na odrębny rachunek bankowy wojewódzkiego inspektora ochrony środowiska w terminie 14 dni od dnia, w którym decyzja o wymiarze kary stała się ostateczna.
+### 5)
 
-3. Kary pieniężne, o których mowa w art. 79c, wymierza, w drodze decyzji, właściwy marszałek województwa.
+w art. 13:
 
-4. Kary pieniężne, o których mowa w art. 79c, wnosi się na odrębny rachunek bankowy zarządu województwa w terminie 14 dni od dnia, w którym decyzja o wymiarze kary stała się ostateczna.
+### a)
 
-5. W sprawach dotyczących kar pieniężnych, o których mowa w art. 79b i 79c, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa.”;
+ust. 6 otrzymuje brzmienie:
 
-- **50)** użyte w ustawie: 4a, w art. 36 ust. 1a pkt 2, w art. 59 ust. 1 pkt 5 i w art. 63 ust. 6 pkt 5 w różnej liczbie i przypadku wyrazy „działalność w zakresie odzysku lub unieszkodliwiania” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „odzysk lub unieszkodliwianie”,
-    - **a)** w art. 15 ust. 7 i w art. 49a ust. 1 pkt 5 w różnej liczbie i przypadku wyrazy „demontaż obiektów budowlanych” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami: „rozbiórka obiektów budowlanych”,
-    - **b)** w art. 25 ust. 2 wyrazy „działalności w zakresie gospodarki odpadami” zastępuje się wyrazami „gospodarowanie odpadami”,
-    - **c)** w art. 25 ust. 4–6, w art. 30 ust. 1, w art. 33 ust. 5 i 5a i w art. 36 ust. 6, 9– 11 w różnej liczbie i przypadku wyrazy „działalność w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „transport odpadów”,
-    - **d)** w art. 26 ust. 1, 2, 4, 6 i 8, w art. 27 ust. 1 i 2, w art. 32 ust. 1, w art. 33 ust.
-    - **e)** w art. 26 ust. 10 wyrazy „działalność w zakresie unieszkodliwiania” zastępuje się wyrazem „unieszkodliwianie”,
-    - **f)** w art. 28 ust. 1 i w art. 33 ust. 1a w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „transport odpadów”,
-    - **g)** w art. 28 ust. 1 wyrazy „działalności w zakresie zbierania” zastępuje się wyrazem „zbierania”,
-    - **h)** w art. 28 ust. 4–6, w art. 32, w art. 33 ust. 4 i w art. 63 ust. 6 pkt 6 w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie zbierania lub transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zbieranie lub transport odpadów”,
-    - **i)** w art. 28 ust. 8 wyrazy „prowadzenie działalności w zakresie zbierania odpadów” zastępuje się wyrazami „zbieranie odpadów”,
-    - **j)** w art. 29 ust. 1 i w art. 31 ust. 1–3 w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie odzysku, unieszkodliwiania, zbierania lub transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „odzysk, unieszkodliwianie, zbieranie lub transport odpadów”,
-    - **k)** w art. 30 ust. 1 wyrazy „prowadzenie działalności w zakresie odzysku, unieszkodliwiania, zbierania odpadów” zastępuje się wyrazami „odzysku, unieszkodliwiania, zbierania odpadów”,
-    - **l)** w art. 36 ust. 5 i 7a w różnej liczbie i przypadku wyrazy „działalność wyłącznie w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „wyłącznie transport odpadów”,
-    - **m)** w art. 32a wyrazy „prowadzenie działalności w zakresie zbierania, odzysku lub unieszkodliwiania” zastępuje się wyrazami „zbieranie, odzysk lub unieszkodliwianie”,
-    - **n)** w art. 33 ust. 5 wyrazy „prowadzenie działalności w zakresie zbierania, transportu, odzysku lub unieszkodliwiania” zastępuje się wyrazami „zbierania, transportu, odzysku lub unieszkodliwiania”,
-    - **o)** w art. 40 ust. 2 wyrazy „prowadzenie działalności w zakresie unieszkodliwiania” zastępuje się wyrazami „unieszkodliwianie”,
-    - **p)** w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zastępuje się wyrazem „odzysk”.
+„
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm. ) wprowadza się następujące zmiany:
+### 6.
 
-**Art. 3.** W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. Nr 124, poz. 1152, z późn. zm. ) w art. 84 w ust. 2 w pkt 2 dodaje się lit. c w brzmieniu: „c) Inspekcja Ochrony Środowiska.”.
+W razie niedopełnienia przez posiadacza odpadów, prowadzącego odzysk lub unieszkodliwianie odpadów, obowiązków, o których mowa w ust. 1 lub 5 lub w art. 11, w art. 12 lub w art. 25 ust. 2, wojewódzki inspektor ochrony środowiska, kierując się stopniem zagrożenia dla środowiska lub zdrowia lub życia ludzi, może wydać decyzję o wstrzymaniu tej działalności. Posiadacz odpadów pomimo wstrzymania prowadzonej działalności jest obowiązany do usunięcia jej skutków na własny koszt.
 
-**Art. 4.** W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. Nr 25, poz. 202, z późn. zm. ) wprowadza się następujące zmiany:
+” ,
 
-**Art. 53a.**
+### b)
 
-1. Kto poza stacją demontażu dokonuje:
+ust. 8 otrzymuje brzmienie:
 
-- **1)** usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
-- **2)** wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
-- **3)** wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu – podlega karze pieniężnej od 10 000 do 300 000 zł.
+„
 
-2. Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
+### 8.
 
-3. Kary pieniężne, o których mowa w ust. 1, wnosi się na wyodrębniony rachunek bankowy wojewódzkiego inspektora ochrony środowiska.
+W przypadkach określonych w ust. 6, na wniosek posiadacza odpadów, wojewódzki inspektor ochrony środowiska może, w drodze decyzji, ustalić termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.
 
-4. Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, należy uwzględnić stopień szkodliwości czynu, w szczególności zakres naruszeń, ilość odpadów, rodzaj stwarzanego zagrożenia dla środowiska oraz okoliczności uprzedniego naruszenia przepisów o odpadach.
+” ,
 
-5. W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.”.
+### c)
 
-**Art. 5.** W ustawie z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów (Dz. U. Nr 124, poz. 859) wprowadza się następujące zmiany:
+po ust. 8 dodaje się ust. 8a w brzmieniu:
 
-**Art. 6.** W ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. Nr 138, poz.
+„
 
-**Art. 7.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. Nr 199, poz. 1227, z późn. zm. ) w art. 131 w ust. 1 dodaje się pkt 11 w brzmieniu: „11) wykonywanie zadań, w tym wydawanie decyzji oraz zlecania ekspertyz z zakresu gospodarki odpadami.”.
+### 8a.
 
-**Art. 8.**
+W razie nieusunięcia nieprawidłowości w ustalonym terminie wojewódzki inspektor ochrony środowiska wstrzyma, w drodze decyzji, działalność związaną z odzyskiem lub unieszkodliwianiem odpadów.
 
-1. Posiadacz odpadów dotychczas prowadzący działalność w zakresie zbierania:
+” ,
 
-- **1)** pozostałości z sortowania odpadów komunalnych,
-- **2)** komunalnych osadów ściekowych,
-- **3)** zakaźnych odpadów medycznych,
-- **4)** zakaźnych odpadów weterynaryjnych,
-- **5)** odpadów pochodzących z unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie – może prowadzić swoją działalność w tym zakresie na podstawie zezwoleń, pozwoleń lub decyzji zatwierdzających program gospodarki odpadami niebezpiecznymi, nie dłużej jednak niż 3 miesiące od dnia wejścia w życie ustawy, o ile wcześniej nie straciły mocy.
+### d)
 
-2. Zezwolenia, pozwolenia oraz decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi, o których mowa w ust. 1, wygasają w całości lub w części dotyczącej zbierania po upływie 3 miesięcy od dnia wejścia w życie ustawy.
+ust. 9 otrzymuje brzmienie:
 
-**Art. 9.**
+„
 
-1. Wytwórca odpadów prowadzący przed dniem wejścia w życie ustawy działalność polegającą na świadczeniu usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, może prowadzić tę działalność w dotychczasowym zakresie do dnia 31 grudnia 2010 r. i jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarki odpadami do dnia 31 grudnia 2010 r.
+### 9.
 
-2. Wydane przed dniem wejścia w życie ustawy wytwórcy odpadów, o którym mowa w ust. 1, decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi zachowują ważność na czas, na jaki zostały wydane, jednak nie dłużej niż do dnia 31 grudnia 2010 r. albo do dnia uzyskania decyzji, o której mowa w ust. 1.
+W decyzjach, o których mowa w ust. 6 i 8a, określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska jej zakończenia. Termin wstrzymania działalności nie może być późniejszy niż rok od dnia doręczenia decyzji, o których mowa w ust. 6 lub 8a.
 
-**Art. 10.**
+” ,
 
-1. Posiadacz odpadów, który przed dniem wejścia w życie ustawy prowadził działalność w zakresie unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie odpadów, jest obowiązany dostosować warunki techniczne prowadzenia działalności do przepisów ustawy oraz uzyskać niezbędne decyzje w terminie 12 miesięcy od dnia wejścia w życie ustawy.
+### e)
 
-2. Zezwolenia, pozwolenia lub decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi w zakresie dotyczącym unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie odpadów zachowują moc na czas, na jaki zostały wydane, jednak nie dłużej niż 12 miesięcy od dnia wejścia w życie ustawy.
+dodaje się ust. 10-12 w brzmieniu:
 
-**Art. 11.** Z dniem wejścia w życie niniejszej ustawy wygasają decyzje o pozwoleniu na budowę składowiska odpadów wydane na podstawie ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2006 r. Nr 156, poz. 1118, z późn. zm. ), jeżeli do dnia wejścia w życie niniejszej ustawy nie rozpoczęto budowy tych składowisk.
+„
 
-**Art. 12.**
+### 10.
 
-1. Zarządzający składowiskiem odpadów jest obowiązany do dostosowania posiadanych zezwoleń, pozwoleń i decyzji w zakresie gospodarki odpadami, w tym zezwoleń na odzysk na składowisku odpadów oraz decyzji zatwierdzających instrukcję eksploatacji składowiska, do przepisów ustawy w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+Po stwierdzeniu, że ustały przyczyny wstrzymania działalności, na podstawie decyzji, o których mowa w ust. 6 i 8a, wojewódzki inspektor ochrony środowiska na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
 
-2. Jeżeli zarządzający, o którym mowa w ust. 1, nie dostosował posiadanych zezwoleń, pozwoleń i decyzji, o których mowa w ust. 1, te zezwolenia, pozwolenia i decyzje tracą ważność po upływie 3 miesięcy od dnia wejścia w życie ustawy.
+### 11.
 
-3. Zarządzający składowiskiem odpadów, który przed dniem wejścia w życie niniejszej ustawy uzyskał decyzję wyrażającą zgodę na zamknięcie składowiska odpadów, może przyjmować odpady do składowania do upływu terminu określonego w decyzji, jednak nie dłużej niż 30 dni od dnia wejścia w życie ustawy.
+Kopie wydanych decyzji, o których mowa w ust. 6, 8, 8a i 10, wojewódzki inspektor ochrony środowiska przekazuje właściwemu organowi, o którym mowa w art. 26 ust. 3, w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja ta stała się ostateczna.
 
-4. Zarządzający składowiskiem odpadów, który w pozwoleniu na budowę nie ma określonej wysokości i formy zabezpieczenia roszczeń, obowiązany jest do wystąpienia w terminie do 3 miesięcy od dnia wejścia w życie ustawy, z wnioskiem o zmianę pozwolenia na budowę w tym zakresie.
+### 12.
 
-5. Wniosek, o którym mowa w ust. 4, zawiera określenie proponowanej wysokości i formy zabezpieczenia roszczeń.
+W przypadku gdy organem właściwym, o którym mowa w art. 26 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 6, 8, 8a i 10, wojewódzki inspektor ochrony środowiska przekazuje dodatkowo właściwemu marszałkowi województwa w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja ta stała się ostateczna.
 
-6. W decyzji zmieniającej decyzję o pozwoleniu na budowę właściwy organ określa wysokość i formę zabezpieczenia roszczeń oraz termin wniesienia zabezpieczenia roszczeń nie dłuższy niż 3 miesiące od dnia otrzymania decyzji.
+” ;
 
-7. W przypadku składowisk odpadów, które z dniem wejścia w życie przepisów niniejszej ustawy spełniają warunki, o których mowa w art. 54b ust. 1 ustawy, o której mowa w art. 1, właściwy organ wykonuje ekspertyzę, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 6)
 
-**Art. 13.** W terminie 30 dni od dnia wejścia w życie ustawy wojewodowie przekażą marszałkom województw:
+po art. 13 dodaje się art. 13a w brzmieniu:
 
-**Art. 14.**
+„
 
-1. W terminie 3 miesięcy od dnia wejścia w życie ustawy wojewodowie, marszałkowie województw i starostowie przekażą właściwym regionalnym dyrektorom ochrony środowiska akta spraw w toczących się postępowaniach administracyjnych dotyczących gospodarki odpadami, w odniesieniu do przedsięwzięć i zdarzeń na terenach zamkniętych.
+### Art. 13a.
 
-2. Akta spraw, o których mowa w ust. 1, przekazuje się na podstawie protokołu zdawczo-odbiorczego zawierającego wykaz przekazywanych spraw oraz wykaz przekazywanych dokumentów.
+### 1.
 
-**Art. 15.**
+Zakazuje się zbierania:
 
-1. Do spraw wszczętych, a niezakończonych, prowadzonych na podstawie art. 40 ust. 5 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w brzmieniu dotychczasowym, stosuje się przepisy niniejszej ustawy.
+### 1)
 
-2. Do wydawania i sporządzania zaświadczeń, o których mowa w art. 29 ustawy zmienianej w art. 4, oraz sporządzania i składania sprawozdań, o których mowa w art. 30 ust. 1 ustawy zmienianej w art. 4, za 2010 r. stosuje się przepisy dotychczasowe.
+pozostałości z sortowania odpadów komunalnych,
 
-**Art. 16.**
+### 2)
 
-1. Przepisy wykonawcze wydane na podstawie upoważnień określonych w art. 33 ust. 4 i 4a, art. 36 ust. 14, art. 42 ust. 3, art. 55 ust. 3 ustawy, o której mowa w art. 1, art. 290 ust. 2 pkt 2 ustawy, o której mowa w art. 2, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień określonych w art. 33 ust. 4 i 4a, art. 36 ust. 14, art. 42 ust. 3, art. 55 ust. 3 i 3a ustawy, o której mowa w art. 1, art. 290 ust. 2 pkt 2 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą.
+komunalnych osadów ściekowych,
 
-2. Przepisy wykonawcze wydane na podstawie upoważnienia określonego w art. 42 ust. 3 ustawy, o której mowa w ust. 1 w brzmieniu nadanym niniejszą ustawą, powinny być ogłoszone nie później niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 3)
 
-**Art. 17.** Przepis art. 7 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych od dnia 1 lipca 2003 r.
+zakaźnych odpadów medycznych,
 
-**Art. 18.** Przepisy art. 2 pkt 5 w zakresie dotyczącym art. 402 ust. 13 i 16 tracą moc z dniem 1 stycznia 2011 r.
+### 4)
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+zakaźnych odpadów weterynaryjnych
 
+- poza miejscami ich wytwarzania.
+
+### 2.
+
+Jeżeli ze względów bezpieczeństwa lub w celu zapewnienia ciągłości odbioru zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych, zbieranie tych odpadów jest konieczne, marszałek województwa właściwy ze względu na miejsce zbierania może zezwolić, w drodze decyzji, na zbieranie tych odpadów.
+
+### 3.
+
+Zezwolenie, o którym mowa w ust. 2, może być wydane na okres nie dłuższy niż rok.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 2, art. 28 stosuje się odpowiednio.
+
+### 5.
+
+Zakaz zbierania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, o których mowa w ust. 1 pkt 3 i 4, nie dotyczy zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych powstałych w wyniku świadczenia usług medycznych lub weterynaryjnych na wezwanie.
+
+### 6.
+
+Wytwórca zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, o których mowa w ust. 5, zobowiązany jest do bezzwłocznego dostarczenia wytworzonych odpadów do odpowiednio przystosowanych do tego celu pomieszczeń spełniających wymagania w zakresie magazynowania takich odpadów.
+
+” ;
+
+### 7)
+
+tytuł rozdziału 4 otrzymuje brzmienie:
+
+„
+
+### Rozdział 4 Obowiązki posiadaczy odpadów i transportujących odpady”;
+
+### 8)
+
+w art. 17:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Wytwórca odpadów, który prowadzi działalność polegającą na świadczeniu usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, a także przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych, jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarki odpadami.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Wytwórca odpadów, który jednocześnie prowadzi działalność w zakresie rozbiórki i remontów obiektów, w wyniku której powstają odpady zawierające azbest i który przetwarza te odpady w urządzeniach przewoźnych, jest obowiązany do uzyskania jednej decyzji zatwierdzającej program gospodarki odpadami, obejmującej odpady powstające w wyniku rozbiórki i remontów oraz odpady powstałe w wyniku eksploatacji urządzeń przewoźnych do przetwarzania odpadów zawierających azbest.
+
+” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przepisów ust. 1 -4 nie stosuje się do odpadów komunalnych, odpadów z wypadków, odpadów powstałych w wyniku klęsk żywiołowych oraz odpadów powstałych w wyniku poważnej awarii lub poważnej awarii przemysłowej, a także do osób fizycznych niebędących przedsiębiorcami oraz do właścicieli pojazdów przekazujących pojazdy wycofane z eksploatacji do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+” ;
+
+### 9)
+
+w art. 18 ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Właściwy organ odmawia wydania pozwolenia na wytwarzanie odpadów w przypadkach określonych w przepisach o ochronie środowiska lub jeżeli zamierzony sposób gospodarki odpadami:
+
+### 1)
+
+mógłby powodować zagrożenia dla zdrowia, życia ludzi lub dla środowiska;
+
+### 2)
+
+jest niezgodny z planami gospodarki odpadami;
+
+### 3)
+
+jest niezgodny z przepisami prawa miejscowego;
+
+### 4)
+
+jest niezgodny z przepisami z zakresu gospodarki odpadami.
+
+### 4.
+
+Kopię wydanego pozwolenia na wytwarzanie odpadów regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanego przez starostę pozwolenia na wytwarzanie odpadów nie dotyczy prezydenta miasta na prawach powiatu.
+
+” ;
+
+### 10)
+
+art. 19 otrzymuje brzmienie:
+
+„
+
+### Art. 19.
+
+### 1.
+
+Wniosek o zatwierdzenie programu gospodarki odpadami niebezpiecznymi, do którego dołącza się ten program, wytwórca odpadów niebezpiecznych jest obowiązany przedłożyć właściwemu organowi na 30 dni przed dniem rozpoczęcia działalności powodującej powstawanie odpadów niebezpiecznych lub dniem zmiany tej działalności wpływającej na rodzaj, ilość wytwarzanych odpadów niebezpiecznych lub sposób gospodarowania nimi.
+
+### 2.
+
+Program gospodarki odpadami niebezpiecznymi jest zatwierdzany, w drodze decyzji, przez właściwy organ, którym jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2005 r. Nr 240, poz. 2027](https://api.sejm.gov.pl/eli/acts/DU/2005/2027/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.](#gloss-0:4:));
+
+### 2)
+
+marszałek województwa - dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 3)
+
+starosta - dla pozostałych przedsięwzięć.
+
+### 3.
+
+Właściwość miejscową organu, o którym mowa w ust. 2, ustała się według miejsca wytwarzania odpadów niebezpiecznych.
+
+### 4.
+
+Regionalny dyrektor ochrony środowiska albo marszałek województwa zatwierdza program gospodarki odpadami niebezpiecznymi, po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce wytwarzania odpadów niebezpiecznych.
+
+### 5.
+
+Starosta zatwierdza program gospodarki odpadami niebezpiecznymi po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce wytwarzania odpadów niebezpiecznych. Wymóg zasięgania opinii prezydenta miasta nie dotyczy prezydenta miasta na prawach powiatu.
+
+### 6.
+
+W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539 oraz z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676.](#gloss-0:5:)) przyjmuje się, że wydano opinię pozytywną.
+
+### 7.
+
+Na postanowienia, o których mowa w ust. 4 i 5, nie przysługuje zażalenie.
+
+### 8.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów niebezpiecznych marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanej przez starostę decyzji nie dotyczy prezydenta miasta na prawach powiatu.
+
+” ;
+
+### 11)
+
+w art. 21 uchyla się ust. 2;
+
+### 12)
+
+po art. 21 dodaje się art. 21a i 21b w brzmieniu:
+
+„
+
+### Art. 21a.
+
+### 1.
+
+Wniosek o zatwierdzenie programu gospodarki odpadami, do którego dołącza się ten program, wytwórca odpadów jest obowiązany przedłożyć właściwemu organowi na 30 dni przed dniem rozpoczęcia działalności powodującej wytwarzanie odpadów lub dniem zmiany tej działalności wpływającej na rodzaj, ilość wytwarzanych odpadów lub sposób gospodarowania nimi.
+
+### 2.
+
+Program gospodarki odpadami jest zatwierdzany, w drodze decyzji, przez właściwy organ, którym jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - w pozostałych przypadkach.
+
+### 3.
+
+Właściwość miejscową organu, o którym mowa w ust. 2, ustala się według miejsca siedziby lub zamieszkania wytwórcy odpadów, a w przypadku przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych oraz w przypadku, o którym mowa w art. 17 ust. 3a - według obszaru województwa, na którym następuje przetwarzanie tych odpadów.
+
+### 4.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub marszałek województwa przekazuje marszałkom województw oraz wojewódzkim inspektorom ochrony środowiska właściwym ze względu na miejsce wytwarzania odpadów, w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja ta stała się ostateczna.
+
+### Art. 21b.
+
+### 1.
+
+Program gospodarki odpadami powinien zawierać:
+
+### 1)
+
+wyszczególnienie rodzajów odpadów przewidzianych do wytwarzania, a w przypadkach gdy określenie rodzaju nie jest wystarczające do ustalenia zagrożeń, jakie mogą powodować odpady, organ właściwy może wezwać wnioskodawcę do podania podstawowego składu chemicznego i właściwości odpadów;
+
+### 2)
+
+informacje wskazujące na sposoby zapobiegania negatywnemu oddziaływaniu odpadów na środowisko;
+
+### 3)
+
+opis dalszego sposobu gospodarowania odpadami, z uwzględnieniem zbierania, transportu, odzysku i unieszkodliwiania odpadów;
+
+### 4)
+
+wskazanie rodzaju magazynowanych odpadów oraz sposobu ich magazynowania;
+
+### 5)
+
+oznaczenie obszaru prowadzonej działalności.
+
+### 2.
+
+We wniosku o zatwierdzenie programu gospodarki odpadami wytwórca odpadów określa czas prowadzenia działalności związanej z wytwarzaniem odpadów.
+
+### 3.
+
+W decyzji zatwierdzającej program gospodarki odpadami, określa się:
+
+### 1)
+
+wyszczególnienie rodzajów odpadów przewidzianych do wytwarzania;
+
+### 2)
+
+sposób dalszego gospodarowania odpadami;
+
+### 3)
+
+wskazanie rodzaju magazynowanych odpadów oraz sposobu ich magazynowania;
+
+### 4)
+
+termin obowiązywania decyzji, którą wydaje się na czas oznaczony nie dłuższy niż 10 lat, a w przypadku działalności polegającej na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych - nie dłuższy niż 5 lat;
+
+### 5)
+
+oznaczenie obszaru prowadzonej działalności.
+
+” ;
+
+### 13)
+
+art. 22 otrzymuje brzmienie:
+
+„
+
+### Art. 22.
+
+### 1.
+
+Właściwy organ odmawia wydania decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi lub decyzji zatwierdzającej program gospodarki odpadami, jeżeli zamierzony sposób gospodarki odpadami:
+
+### 1)
+
+mógłby powodować zagrożenia dla zdrowia, życia ludzi lub dla środowiska;
+
+### 2)
+
+jest niezgodny z planami gospodarki odpadami;
+
+### 3)
+
+jest niezgodny z przepisami prawa miejscowego;
+
+### 4)
+
+jest niezgodny z przepisami z zakresu gospodarki odpadami.
+
+### 2.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta.
+
+” ;
+
+### 14)
+
+art. 23 otrzymuje brzmienie:
+
+„
+
+### Art. 23.
+
+### 1.
+
+Jeżeli wytwórca odpadów narusza przepisy ustawy lub działa niezgodnie z decyzją zatwierdzającą program gospodarki odpadami niebezpiecznymi lub decyzją zatwierdzającą program gospodarki odpadami, właściwy organ wzywa go do niezwłocznego zaniechania naruszeń.
+
+### 2.
+
+Jeżeli mimo wezwania wytwórca odpadów nadal narusza przepisy ustawy lub działa niezgodnie z decyzją zatwierdzającą program gospodarki odpadami niebezpiecznymi lub decyzją zatwierdzającą program gospodarki odpadami, właściwy organ, w drodze decyzji, cofa zatwierdzenie programu gospodarki odpadami niebezpiecznymi lub zatwierdzenie programu gospodarki odpadami, w zakresie którego nastąpiło naruszenie.
+
+### 3.
+
+Z tytułu cofnięcia zatwierdzenia programów, o których mowa w ust. 2, odszkodowanie nie przysługuje.
+
+### 4.
+
+Cofnięcie zatwierdzenia programu gospodarki odpadami niebezpiecznymi lub zatwierdzenia programu gospodarki odpadami skutkuje wstrzymaniem działalności objętej tym zatwierdzeniem.
+
+### 5.
+
+Decyzji, o której mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności, uwzględniając potrzebę bezpiecznego dla środowiska zakończenia działalności wytwórcy odpadów w zakresie objętym programem gospodarki odpadami niebezpiecznymi lub programem gospodarki odpadami.
+
+### 6.
+
+Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt wytwórcy odpadów.
+
+### 7.
+
+Postępowanie w sprawie wydania decyzji, o której mowa w ust. 2, wszczyna się z urzędu.
+
+” ;
+
+### 15)
+
+w art. 24:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Informację o wytwarzanych odpadach oraz sposobach gospodarowania wytworzonymi odpadami przedkłada się właściwemu organowi w terminie 30 dni przed dniem rozpoczęcia działalności powodującej powstawanie odpadów lub dniem zmiany tej działalności wpływającej na ilość lub rodzaj wytwarzanych odpadów lub sposobów gospodarowania nimi. Informację przedkłada się w czterech egzemplarzach.
+
+### 2.
+
+Właściwym organem, o którym mowa w ust. 1, jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 3)
+
+starosta - dla pozostałych przedsięwzięć.
+
+” ,
+
+### b)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Jeden egzemplarz informacji o wytwarzanych odpadach oraz o sposobach gospodarowania wytworzonymi odpadami, a także kopie decyzji, o których mowa w ust. 5, 6 i 8, regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce wytwarzania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta jednego egzemplarza informacji oraz kopii wydanych przez starostę decyzji nie dotyczy prezydenta miasta na prawach powiatu.
+
+” ;
+
+### 16)
+
+w art. 25 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli posiadacz odpadów, w tym wytwórca odpadów, przekazuje odpady następnemu posiadaczowi odpadów, który ma zezwolenie właściwego organu na zbieranie, odzysk, unieszkodliwianie odpadów lub koncesję na składowanie odpadów w górotworze, w tym w podziemnych wyrobiskach górniczych, posiada decyzję, o której mowa w art. 31 lub w art. 32, lub jest wpisany do rejestru, o którym mowa w art. 33 ust. 5, odpowiedzialność za gospodarowanie odpadami przenosi się na tego następnego posiadacza odpadów.
+
+” ;
+
+### 17)
+
+w art. 26:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Właściwym organem, o którym mowa w ust. 2, jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 3)
+
+starosta - dla pozostałych przedsięwzięć.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+W przypadku przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych organem, o którym mowa w ust. 2, jest marszałek województwa właściwy według obszaru województwa, na którym następuje przetwarzanie tych odpadów.
+
+” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Regionalny dyrektor ochrony środowiska albo marszałek województwa wydaje zezwolenie na odzysk lub unieszkodliwianie odpadów, po zasięgnięciu opinii wójta, burmistrza lub prezydenta miasta, właściwego ze względu na miejsce prowadzenia odzysku lub unieszkodliwiania odpadów.
+
+” ,
+
+### d)
+
+po ust. 6 dodaje się ust. 6a-6c w brzmieniu:
+
+„
+
+### 6a.
+
+W przypadku niewydania opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego przyjmuje się, że wydano opinię pozytywną.
+
+### 6b.
+
+Na postanowienia, o których mowa w ust. 5 i 6, nie przysługuje zażalenie.
+
+### 6c.
+
+Wymóg zasięgania opinii, o którym mowa w ust. 5, nie dotyczy przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych.
+
+” ,
+
+### e)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu ze względu na miejsce odzysku lub unieszkodliwiania odpadów marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta. Wymóg przekazania prezydentowi miasta kopii wydanej przez starostę decyzji nie dotyczy prezydenta miasta na prawach powiatu.
+
+” ;
+
+### 18)
+
+w art. 27:
+
+### a)
+
+w ust. 1 pkt 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5)
+
+wskazanie miejsca i sposobu oraz rodzaju magazynowanych odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych - wskazanie sposobu oraz rodzaju magazynowanych odpadów;
+
+### 6)
+
+szczegółowy opis stosowanych metod odzysku lub unieszkodliwiania odpadów, w tym wskazanie procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy oraz opis procesu technologicznego;
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) miejsce i dopuszczone metody odzysku lub unieszkodliwiania odpadów, ze wskazaniem procesu odzysku lub unieszkodliwiania zgodnie z załącznikami 5 lub 6 do ustawy, oraz opis procesu technologicznego; ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) miejsce i sposób magazynowania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych - wskazanie sposobu oraz rodzaju magazynowanych odpadów; ” ,
+
+- - pkt 6 otrzymuje brzmienie: „ 6) czas obowiązywania zezwolenia, który w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych, nie może być dłuższy niż 5 lat. ” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zezwolenie na unieszkodliwianie odpadów niebezpiecznych wydaje się po kontroli przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do unieszkodliwiania odpadów, a w przypadku działań polegających na przetwarzaniu odpadów zawierających azbest w urządzeniach przewoźnych - po przeprowadzeniu, w pierwszym miejscu eksploatacji danego urządzenia, kontroli przez wojewódzkiego inspektora ochrony środowiska.
+
+” ;
+
+### 19)
+
+w art. 28:
+
+### a)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Zezwolenie na zbieranie lub transport odpadów wydaje, w drodze decyzji, właściwy organ, którym jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+starosta - dla pozostałych przedsięwzięć.
+
+### 3.
+
+Właściwym miejscowo organem, o którym mowa w ust. 2, jest:
+
+### 1)
+
+do wydania zezwolenia na zbieranie odpadów - regionalny dyrektor ochrony środowiska albo starosta właściwy ze względu na miejsce zbierania odpadów;
+
+### 2)
+
+do wydania zezwolenia na transport odpadów - regionalny dyrektor ochrony środowiska albo starosta właściwy ze względu na miejsce siedziby lub zamieszkania transportującego odpady.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje właściwemu marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta:
+
+### 1)
+
+w przypadku zezwolenia na zbieranie odpadów - ze względu na miejsce zbierania odpadów;
+
+### 2)
+
+w przypadku zezwolenia na transport odpadów - ze względu na miejsce siedziby lub zamieszkania transportującego odpady.
+
+” ,
+
+### c)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Uzyskanie zezwolenia, o którym mowa w ust. 1, nie dotyczy wytwórcy odpadów, który zbiera wytworzone przez siebie odpady w miejscu ich wytworzenia lub transportuje wytworzone przez siebie odpady.
+
+” ,
+
+### d)
+
+uchyla się ust. 10;
+
+### 20)
+
+w art. 29:
+
+### a)
+
+w ust. 1 dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+jest niezgodny z przepisami prawa miejscowego.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska, marszałek województwa lub starosta przekazuje właściwemu wójtowi, burmistrzowi lub prezydentowi miasta.
+
+” ;
+
+### 21)
+
+po art. 29 dodaje się art. 29a w brzmieniu:
+
+„
+
+### Art. 29a.
+
+### 1.
+
+Stronami postępowania o wydanie decyzji lub zezwoleń, o których mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, są wnioskodawca lub władający powierzchnią ziemi, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów oraz, jeżeli w związku z eksploatacją instalacji utworzono obszar ograniczonego użytkowania, władający powierzchnią ziemi na tym obszarze.
+
+### 2.
+
+Stronami postępowań, o których mowa w ust. 1, nie są właściciele nieruchomości sąsiadujących z instalacją lub nieruchomością, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów.
+
+### 3.
+
+W postępowaniu o wydanie decyzji lub zezwoleń, o którym mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, nie stosuje się art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### 4.
+
+Przepisów ust. 1-3 nie stosuje się w postępowaniu o wydanie decyzji lub zezwolenia, o których mowa w art. 19, art. 26, art. 28, art. 53 ust. 4, art. 54 oraz art. 54a, dla spalarni lub współspalarni odpadów oraz dla instalacji wymagającej uzyskania pozwolenia zintegrowanego.
+
+### 5.
+
+Jeżeli liczba stron w postępowaniu przekracza 20, do stron innych niż wnioskodawca lub władający powierzchnią ziemi, na której będzie prowadzone wytwarzanie, odzysk, unieszkodliwianie lub zbieranie odpadów, stosuje się art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+” ;
+
+### 22)
+
+w art. 30 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Kopię wydanej decyzji regionalny dyrektor ochrony środowiska lub starosta przekazuje marszałkowi województwa, wojewódzkiemu inspektorowi ochrony środowiska oraz wójtowi, burmistrzowi lub prezydentowi miasta właściwemu ze względu na miejsce zbierania, odzysku lub unieszkodliwiania odpadów, a w przypadku transportu odpadów - właściwemu ze względu na miejsce siedziby lub zamieszkania transportującego odpady.
+
+” ;
+
+### 23)
+
+w art. 31 dodaje się ust. 5-7 w brzmieniu:
+
+„
+
+### 5.
+
+Wójt, burmistrz lub prezydent miasta wydaje opinię, o której mowa w ust. 4, w terminie 14 dni od dnia otrzymania żądania o wydanie opinii.
+
+### 6.
+
+W przypadku niedotrzymania terminu, o którym mowa w ust. 5, przyjmuje się, że wydano opinię pozytywną.
+
+### 7.
+
+Na postanowienie, o którym mowa w ust. 4, nie przysługuje zażalenie.
+
+” ;
+
+### 24)
+
+w art. 33:
+
+### a)
+
+ust. 5c otrzymuje brzmienie:
+
+„
+
+### 5c.
+
+Starosta dokonuje, w drodze decyzji, zmian w rejestrze na wniosek posiadacza odpadów lub transportującego odpady, który jest zwolniony z obowiązku uzyskiwania zezwoleń na zbieranie, transport, odzysk lub unieszkodliwienie odpadów.
+
+” ,
+
+### b)
+
+po ust. 5c dodaje się ust. 5d w brzmieniu:
+
+„
+
+### 5d.
+
+Kopie decyzji, o których mowa w ust. 5b i 5c, starosta przekazuje marszałkowi województwa.
+
+” ,
+
+### c)
+
+ust. 7 i 8 otrzymują brzmienie:
+
+„
+
+### 7.
+
+Decyzję, o której mowa w ust. 6, może wydać również państwowy wojewódzki inspektor sanitarny w przypadku stwierdzenia zagrożenia dla zdrowia lub życia ludzi.
+
+### 8.
+
+W przypadkach określonych w ust. 6 i 7, na wniosek posiadacza odpadów, odpowiednio wojewódzki inspektor ochrony środowiska albo państwowy wojewódzki inspektor sanitarny, kierując się stopniem zagrożenia dla środowiska, zdrowia lub życia ludzi, może, w drodze decyzji, ustalić termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.
+
+” ,
+
+### d)
+
+po ust. 8 dodaje się ust. 8a w brzmieniu:
+
+„
+
+### 8a.
+
+W razie nieusunięcia nieprawidłowości w ustalonym terminie wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny wstrzyma, w drodze decyzji, działalność związaną z odzyskiem, unieszkodliwianiem, zbieraniem lub transportem odpadów.
+
+” ,
+
+### e)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+W decyzjach, o których mowa w ust. 6, 7 i 8a, określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska oraz dla zdrowia lub życia ludzi jej zakończenia. Termin wstrzymania działalności nie może być późniejszy niż rok od dnia doręczenia decyzji.
+
+” ,
+
+### f)
+
+po ust. 9 dodaje się ust. 9a w brzmieniu:
+
+„
+
+### 9a.
+
+Decyzjom, o których mowa w ust. 6, 7 i 8a, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny może nadać rygor natychmiastowej wykonalności.
+
+” ,
+
+### g)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Postępowanie w sprawie wydania decyzji o wstrzymaniu działalności wszczyna się z urzędu.
+
+” ,
+
+### h)
+
+po ust. 10 dodaje się ust. 10a-10d w brzmieniu:
+
+„
+
+### 10a.
+
+Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt posiadacza lub transportującego odpady.
+
+### 10b.
+
+Po stwierdzeniu, że ustały przyczyny wstrzymania działalności na podstawie decyzji, o których mowa w ust. 6, 7 i 8a, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
+
+### 10c.
+
+Kopie wydanych decyzji, o których mowa w ust. 6, 7, 8a i 10b, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje właściwemu organowi, o którym mowa w art. 26 ust. 3 lub w art. 28 ust. 3, w terminie 30 dni od dnia, w którym decyzja stała się ostateczna.
+
+### 10d.
+
+W przypadku, gdy organem właściwym, o którym mowa w art. 26 ust. 3 lub w art. 28 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 6, 7, 8a i 10b, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje dodatkowo właściwemu marszałkowi województwa.
+
+” ;
+
+### 25)
+
+w art. 36:
+
+### a)
+
+po ust. 1a dodaje się ust. 1b-1e w brzmieniu:
+
+„
+
+### 1b.
+
+W przypadku posiadacza odpadów przekazującego odpady na składowisko oraz zarządzającego składowiskiem odpadów ewidencja, o której mowa w ust. 1, dodatkowo obejmuje:
+
+### 1)
+
+podstawową charakterystykę odpadów;
+
+### 2)
+
+wyniki testów zgodności, o których mowa w ust. 1e.
+
+### 1c.
+
+Podstawowa charakterystyka sporządzana przez wytwórcę lub posiadacza odpadów odpowiedzialnego za gospodarowanie tymi odpadami, a w przypadku odpadów komunalnych - przez prowadzącego działalność w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości, o którym mowa w ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach zawiera:
+
+### 1)
+
+informacje podstawowe:
+
+### a)
+
+nazwę, siedzibę i adres wytwórcy lub posiadacza odpadów kierującego odpady na składowisko odpadów,
+
+### b)
+
+rodzaj odpadów,
+
+### c)
+
+syntetyczny opis procesu wytwarzania odpadów uwzględniający podstawowe użyte surowce i wytworzone produkty,
+
+### d)
+
+oświadczenie o braku odpadów wymienionych w art. 55 ust. 1 pkt 1-7b w odpadach kierowanych na składowisko odpadów,
+
+### e)
+
+opis zastosowanego procesu unieszkodliwiania lub odzysku, a także opis sposobu segregowania odpadów lub oświadczenie o przyczynie, dla której wymienione działania nie zostały wykonane,
+
+### f)
+
+opis odpadu podający kolor, postać fizyczną oraz jego zapach,
+
+### g)
+
+wykaz właściwości z załącznika nr 4 w odniesieniu do odpadów niebezpiecznych, które mogą zostać przekwalifikowane na inne niż niebezpieczne na podstawie art. 4 ust. 1 pkt 2,
+
+### h)
+
+wskazanie typu składowiska odpadów, na którym odpady po przeprowadzeniu badań zgodnie z kryteriami dopuszczenia odpadów do składowania mogą być składowane,
+
+### i)
+
+oświadczenie o braku możliwości odzysku, w tym recyklingu odpadów,
+
+### j)
+
+podanie częstotliwości przeprowadzania testów zgodności;
+
+### 2)
+
+informacje dodatkowe, o ile są istotne dla eksploatacji danego typu składowiska odpadów, dotyczące:
+
+### a)
+
+fizykochemicznego składu oraz podatności odpadów na wymywanie,
+
+### b)
+
+zachowania środków ostrożności na składowisku odpadów.
+
+### 1d.
+
+Podstawową charakterystykę może stanowić kopia wydanej decyzji lub kopia przyjętej informacji, o których mowa w art. 17, pod warunkiem że zawiera ona informacje, o których mowa w ust. 1c. Jeżeli wydana decyzja lub przyjęta informacja nie zawiera wszystkich informacji, o których mowa w ust. 1c, podstawową charakterystykę uzupełnia się o brakujące informacje.
+
+### 1e.
+
+Wyniki testów zgodności zawierają wyniki badań składu chemicznego i właściwości odpadów przeznaczonych do unieszkodliwiania na składowisku odpadów, umożliwiające weryfikację informacji zawartych w podstawowej charakterystyce odpadów, a w szczególności potwierdzenie faktu spełniania przez te odpady kryteriów dopuszczania odpadów do składowania na składowisku odpadów danego typu.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Obowiązek prowadzenia ewidencji odpadów, o której mowa w ust. 1, nie dotyczy wytwórców odpadów komunalnych, a także wytwórców odpadów w postaci pojazdów wycofanych z eksploatacji, jeżeli pojazdy te zostały przekazane do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+” ,
+
+### c)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Kartę przekazania odpadu w odpowiedniej liczbie egzemplarzy - po jednym dla każdego z posiadaczy, o których mowa w ust. 7, oraz dla transportujących odpady - sporządza posiadacz odpadów, który przekazuje odpady.
+
+” ,
+
+### d)
+
+po ust. 8 dodaje się ust. 8a w brzmieniu:
+
+„
+
+### 8a.
+
+Dopuszczalne jest niesporządzanie karty przekazania odpadu, jeżeli jeden z posiadaczy odpadów jest zwolniony z obowiązku prowadzenia ewidencji odpadów.
+
+” ,
+
+### e)
+
+ust. 12 otrzymuje brzmienie:
+
+„
+
+### 12.
+
+Marszałek województwa właściwy ze względu na miejsce odbierania odpadów komunalnych, wytwarzania, odzysku lub unieszkodliwiania odpadów albo miejsce zamieszkania lub siedziby transportującego odpady, w drodze decyzji, zobowiązuje posiadacza odpadów lub transportującego odpady do przedłożenia dokumentów ewidencji odpadów, w przypadku gdy zbiorcze zestawienie danych, o którym mowa w art. 37, budzi wątpliwości co do prawidłowości wypełnienia lub gdy jest to niezbędne do prowadzenia innych postępowań z zakresu ochrony środowiska będących w jego kompetencjach.
+
+” ,
+
+### f)
+
+ust. 14 otrzymuje brzmienie:
+
+„
+
+### 14.
+
+Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzory dokumentów stosowanych na potrzeby ewidencji odpadów, z wyjątkiem podstawowej charakterystyki odpadów oraz wyników testów zgodności.
+
+” ;
+
+### 26)
+
+w art. 37:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zbiorcze zestawienia danych, o których mowa w ust. 1 i 2, posiadacz odpadów, w tym wytwórca komunalnych osadów ściekowych, jest obowiązany przekazać marszałkowi województwa właściwemu ze względu na miejsce wytwarzania, odbierania odpadów komunalnych, zbierania, odzysku lub unieszkodliwiania odpadów, w terminie do dnia 15 marca za poprzedni rok kalendarzowy.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a-3c w brzmieniu:
+
+„
+
+### 3a.
+
+Marszałek województwa weryfikuje informacje zawarte w zbiorczych zestawieniach danych, o których mowa w ust. 3.
+
+### 3b.
+
+Jeżeli z weryfikacji, o której mowa w ust. 3a, wynika, że informacje zawarte w zbiorczym zestawieniu danych są niezgodne ze stanem faktycznym marszałek województwa zobowiązuje, w drodze decyzji, do korekty sporządzonego zestawienia danych, określając termin przekazania korekty.
+
+### 3c.
+
+Niedokonanie korekty zbiorczego zestawienia danych, zgodnie z decyzją, o której mowa w ust. 3b, skutkuje uznaniem, że posiadacz odpadów nie wykonał obowiązku przekazania zbiorczego zestawienia danych.
+
+” ,
+
+### c)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Dostęp do wojewódzkiej bazy danych posiadają: minister właściwy do spraw środowiska, minister właściwy do spraw gospodarki, Główny Inspektor Ochrony Środowiska, Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, Generalny Dyrektor Ochrony Środowiska, regionalny dyrektor ochrony środowiska, starosta, wójt, burmistrz lub prezydent miasta, wojewódzki inspektor ochrony środowiska, zarząd wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej oraz służby statystyki publicznej.
+
+” ;
+
+### 27)
+
+po art. 38 dodaje się art. 38a w brzmieniu:
+
+„
+
+### Art. 38a.
+
+### 1.
+
+Dopuszcza się przetwarzanie odpadów zawierających azbest w urządzeniach przewoźnych zapewniających takie przekształcenie włókien azbestu, aby nie stwarzały one zagrożenia dla zdrowia lub życia ludzi oraz dla środowiska, zgodnie z przepisami wydanymi na podstawie ust. 3.
+
+### 2.
+
+Jeżeli odpady powstałe po procesie przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych nadal zawierają włókna azbestu, podlegają unieszkodliwieniu przez składowanie na składowisku odpadów niebezpiecznych.
+
+### 3.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych, w tym parametry takie jak: temperatura, ciśnienie, czas prowadzenia procesu oraz stopień rozdrobnienia odpadów;
+
+### 2)
+
+sposób i warunki przygotowania odpadów zawierających azbest do przetwarzania;
+
+### 3)
+
+sposób i zakres prowadzenia monitoringu procesu, w tym parametrów, o których mowa w pkt 1, oraz metodykę i częstotliwość badań odpadów powstałych w wyniku prowadzenia procesów przetwarzania odpadów zawierających azbest;
+
+### 4)
+
+warunki prowadzenia procesu odzysku dla odpadów powstających w wyniku przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych.
+
+### 4.
+
+Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki kieruje się:
+
+### 1)
+
+zagrożeniami stwarzanymi przez odpady zawierające azbest;
+
+### 2)
+
+koniecznością zapewnienia skuteczności przetwarzania odpadów zawierających azbest w urządzeniach przewoźnych;
+
+### 3)
+
+koniecznością zapewniania monitoringu skuteczności prowadzenia procesów przetwarzania odpadów zawierających azbest rozumianej jako doprowadzenie odpadów zawierających azbest do takiej postaci, że stwierdzenie obecności włókien azbestu nie jest możliwe;
+
+### 4)
+
+koniecznością zapewnienia właściwego przetwarzania każdej partii odpadów zawierających azbest.
+
+” ;
+
+### 28)
+
+w art. 40 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Marszałek województwa, biorąc pod uwagę stan oraz zagrożenia dla środowiska lub zdrowia lub życia ludzi, może, w drodze decyzji, zobowiązać posiadacza odpadów, o którym mowa w ust. 2, do prowadzenia dodatkowych badań wpływu odpadów na jakość wód oraz zwiększyć częstotliwość prowadzenia wszystkich badań.
+
+” ;
+
+### 29)
+
+w art. 42:
+
+### a)
+
+ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Zakazuje się unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż te, które prowadzą do obniżenia zawartości ogólnego węgla organicznego do 5% w tych odpadach. Zakazuje się unieszkodliwiania tych odpadów przez ich współspalanie.
+
+” ,
+
+### b)
+
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+
+„
+
+### 1b.
+
+Posiadacz odpadów medycznych lub odpadów weterynaryjnych, prowadzący unieszkodliwianie tych odpadów, jest obowiązany do prowadzenia tych procesów oraz do ich monitoringu, zgodnie z wymaganiami ochrony środowiska wynikającymi z przepisów wydanych na podstawie ust. 3.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+
+### 1)
+
+dopuszczalne sposoby unieszkodliwiania odpadów medycznych i odpadów weterynaryjnych, nieposiadających właściwości zakaźnych;
+
+### 2)
+
+warunki prowadzenia procesów unieszkodliwiania odpadów medycznych i odpadów weterynaryjnych nieposiadających właściwości zakaźnych;
+
+### 3)
+
+warunki prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, w tym: temperaturę, ciśnienie, czas prowadzenia procesu oraz stopień rozdrobnienia odpadów;
+
+### 4)
+
+sposób i zakres prowadzenia monitoringu procesów, o których mowa w pkt 2 i 3, oraz metodykę i częstotliwość badań odpadów powstałych w wyniku prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych.
+
+” ,
+
+### d)
+
+po ust. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw zdrowia kieruje się:
+
+### 1)
+
+potrzebą zapobiegania zagrożeniom stwarzanym przez odpady medyczne i odpady weterynaryjne;
+
+### 2)
+
+koniecznością zapewnienia skuteczności unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych, w tym metodami innymi niż termiczne;
+
+### 3)
+
+koniecznością zapewniania prawidłowego monitoringu prowadzenia procesów unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych;
+
+### 4)
+
+koniecznością pozbawienia właściwości zakaźnych każdej partii zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych.
+
+” ;
+
+### 30)
+
+w art. 43:
+
+### a)
+
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+
+„
+
+### 1b.
+
+Odpowiedzialność za prawidłowe zastosowanie komunalnych osadów ściekowych do celów, o których mowa w ust. 1 pkt 1, 4 lub 5, spoczywa na wytwórcy tych osadów.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Zakazuje się nawadniania komunalnych osadów ściekowych poddanych uprzednio procesowi osuszania.
+
+” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Właściciel, dzierżawca lub inna osoba władająca nieruchomością, na której mają być stosowane komunalne osady ściekowe, jest obowiązana przechowywać wyniki badań i informacje, o których mowa w ust. 3 i 4, przez okres 5 lat.
+
+” ,
+
+### d)
+
+w ust. 6:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) na terenach ochrony pośredniej stref ochronnych ujęć wody, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2005 r. Nr 239, poz. 2019](https://api.sejm.gov.pl/eli/acts/DU/2005/2019/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664.](#gloss-0:6:)) nie stanowi inaczej; ” ,
+
+- - pkt 8 otrzymuje brzmienie: „ 8) na obszarach ochronnych zbiorników wód śródlądowych, o ile akt prawa miejscowego wydanego na podstawie art. 58 ustawy z dnia 18 lipca 2001 r. - Prawo wodne, nie stanowi inaczej; ” ;
+
+### 31)
+
+w art. 45 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zarządzający spalarnią odpadów lub współspalarnią odpadów jest obowiązany, w czasie przyjmowania i termicznego przekształcania odpadów, do podejmowania niezbędnych środków ostrożności mających na celu zapobieżenie lub ograniczenie negatywnych skutków dla środowiska, w szczególności w odniesieniu do zanieczyszczeń powietrza, gleby, wód powierzchniowych i gruntowych oraz zapachów i hałasu, a także bezpośredniego zagrożenia zdrowia ludzi, oraz przestrzegania wymagań w zakresie termicznego przekształcania odpadów wynikających z przepisów wydanych na podstawie art. 47.
+
+” ;
+
+### 32)
+
+art. 48 otrzymuje brzmienie:
+
+„
+
+### Art. 48.
+
+### 1.
+
+W razie niedopełnienia przez zarządzającego spalarnią odpadów lub współspalarnią odpadów obowiązków, o których mowa w art. 44, w art. 45 lub w art. 47, wojewódzki inspektor ochrony środowiska, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może wydać decyzję o wstrzymaniu działalności w zakresie termicznego przekształcania odpadów.
+
+### 2.
+
+W przypadkach określonych w ust. 1, na wniosek zarządzającego spalarnią odpadów lub współspalarnią odpadów, wojewódzki inspektor ochrony środowiska, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może, w drodze decyzji, ustalić termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.
+
+### 3.
+
+W razie nieusunięcia nieprawidłowości w ustalonym terminie, wojewódzki inspektor ochrony środowiska wstrzyma, w drodze decyzji, działalność w zakresie termicznego przekształcania odpadów.
+
+### 4.
+
+W decyzjach, o których mowa w ust. 1 i 3, określa się termin wstrzymania działalności, uwzględniając potrzebę bezpiecznego dla środowiska jej zakończenia. Termin wstrzymania działalności nie może być dłuższy niż rok od dnia doręczenia decyzji.
+
+### 5.
+
+Postępowanie w sprawie wydania decyzji o wstrzymaniu działalności wszczyna się z urzędu.
+
+### 6.
+
+Decyzjom, o których mowa w ust. 1-3, wojewódzki inspektor ochrony środowiska może nadać rygor natychmiastowej wykonalności.
+
+### 7.
+
+Wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt prowadzącego działalność w zakresie termicznego przekształcania odpadów.
+
+### 8.
+
+Po stwierdzeniu, że ustały przyczyny wstrzymania działalności, wojewódzki inspektor ochrony środowiska, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na podjęcie wstrzymanej działalności.
+
+### 9.
+
+Kopie wydanych decyzji, o których mowa w ust. 1 -3 i 8, wojewódzki inspektor ochrony środowiska przekazuje właściwemu organowi, o którym mowa w art. 26 ust. 3, w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna.
+
+### 10.
+
+W przypadku gdy organem właściwym, o którym mowa w art. 26 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 1-3 i 8, wojewódzki inspektor ochrony środowiska przekazuje dodatkowo właściwemu marszałkowi województwa.
+
+” ;
+
+### 33)
+
+w art. 49a w ust. 1 uchyla się pkt 6;
+
+### 34)
+
+w art. 53:
+
+### a)
+
+w ust. 2 dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+określenie planu awaryjnego, w szczególności na wypadek wykrycia zmian w jakości wód gruntowych z powodu emisji substancji ze składowiska odpadów.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Instrukcję eksploatacji składowiska odpadów zatwierdza, w drodze decyzji:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - dla przedsięwzięć lub instalacji, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 3)
+
+starosta - dla pozostałych przedsięwzięć.
+
+” ,
+
+### c)
+
+w ust. 4 dodaje się pkt 14 w brzmieniu:
+
+„
+
+### 14)
+
+plan awaryjny, w szczególności na wypadek wykrycia zmian w jakości wód gruntowych w zakresie emisji substancji ze składowiska odpadów.
+
+” ;
+
+### 35)
+
+art. 54 otrzymuje brzmienie:
+
+„
+
+### Art. 54.
+
+### 1.
+
+Zamknięcie składowiska odpadów lub jego wydzielonej części wymaga zgody właściwego organu.
+
+### 2.
+
+Zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części wydaje, na wniosek zarządzającego składowiskiem odpadów, w drodze decyzji, właściwy organ, którym jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - dla przedsięwzięć i zdarzeń, o których mowa w art. 378 ust. 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 3)
+
+starosta - dla pozostałych przedsięwzięć.
+
+### 3.
+
+Przed wydaniem zgody, o której mowa w ust. 2, przeprowadzana jest kontrola składowiska odpadów, na wniosek właściwego organu, przez wojewódzkiego inspektora ochrony środowiska z udziałem przedstawiciela tego organu.
+
+### 4.
+
+Przeprowadzenie kontroli składowiska odpadów, o której mowa w ust. 3, nie jest wymagane, jeżeli potrzeba zamknięcia składowiska odpadów wynika z zarządzenia pokontrolnego wojewódzkiego inspektora ochrony środowiska.
+
+### 5.
+
+Jeżeli techniczne zamknięcie składowiska odpadów lub jego rekultywacja odbywa się z wykorzystaniem odpadów, to organem właściwym do wydania zezwolenia na odzysk jest organ, który udzielił zgody na zamknięcie tego składowiska.
+
+### 6.
+
+Wniosek, o którym mowa w ust. 2, powinien zawierać:
+
+### 1)
+
+określenie technicznego sposobu zamknięcia składowiska odpadów lub jego wydzielonej części;
+
+### 2)
+
+datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów;
+
+### 3)
+
+harmonogram działań związanych z rekultywacją składowiska odpadów.
+
+### 7.
+
+Zgoda na zamknięcie składowiska odpadów lub jego wydzielonej części powinna określać:
+
+### 1)
+
+techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
+
+### 2)
+
+datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów, która stanowi datę zamknięcia składowiska;
+
+### 3)
+
+harmonogram działań związanych z rekultywacją składowiska odpadów;
+
+### 4)
+
+sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoringu, oraz warunki wykonania tego obowiązku.
+
+### 8.
+
+Data zaprzestania przyjmowania odpadów do składowania na składowisku odpadów, o której mowa w ust. 6 i 7, nie może być późniejsza niż 3 miesiące od dnia doręczenia decyzji o zgodzie na zamknięcie składowiska odpadów.
+
+### 9.
+
+Podmiot zainteresowany przejęciem wszystkich warunków wynikających z decyzji o zgodzie na zamknięcie składowiska odpadów może złożyć wniosek o przeniesienie na niego praw i obowiązków wynikających z tej decyzji.
+
+### 10.
+
+Przeniesienie praw i obowiązków jest możliwe tylko wtedy, gdy podmiot, o którym mowa w ust. 9, daje rękojmię prawidłowego wykonania tych obowiązków przez wykazanie posiadania odpowiednich kwalifikacji oraz środków technicznych i organizacyjnych gwarantujących wykonanie technicznego zamknięcia składowiska odpadów, wykonanie, zgodnie z harmonogramem, działań związanych z rekultywacją składowiska odpadów oraz sprawowanie nadzoru, w tym monitoringu, nad tym składowiskiem, zgodnego z decyzją, o której mowa w ust. 2.
+
+### 11.
+
+Przeniesienie lub odmowa przeniesienia praw i obowiązków następuje w drodze decyzji.
+
+### 12.
+
+Podmiot, o którym mowa w ust. 9, przejmuje wszystkie obowiązki wynikające z decyzji o zgodzie na zamknięcie składowiska odpadów.
+
+### 13.
+
+W decyzji przenoszącej prawa i obowiązki określa się obowiązek ustanowienia zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.
+
+### 14.
+
+Decyzja, o której mowa w ust. 11:
+
+### 1)
+
+wywołuje skutki prawne po uzyskaniu tytułu prawnego do składowiska odpadów lub jego wydzielonej części;
+
+### 2)
+
+wygasa po upływie roku od dnia jej doręczenia, jeżeli wnioskodawca nie uzyskał tytułu prawnego do składowiska lub jego wydzielonej części.
+
+### 15.
+
+Zarządzający składowiskiem, po wykonaniu obowiązków określonych w decyzji o zgodzie na zamknięcie składowiska, może złożyć wniosek o zwrot ustanowionego zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.
+
+” ;
+
+### 36)
+
+w art. 54a po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+Pozwolenie, o którym mowa w ust. 2, wydaje się po sporządzeniu przez zainteresowanego wydobyciem odpadów ekspertyzy, która w szczególności obejmuje:
+
+### 1)
+
+szacunkową ilość odpadów przewidzianych do wydobycia;
+
+### 2)
+
+techniczny sposób wydobywania odpadów;
+
+### 3)
+
+sposoby zapobiegania negatywnemu oddziaływaniu wydobywania odpadów na zdrowie lub życie ludzi oraz na środowisko;
+
+### 4)
+
+opis oddziaływania planowanego wydobycia odpadów na środowisko;
+
+### 5)
+
+opis technicznego zabezpieczenia miejsca po wydobyciu odpadów, a w przypadkach zamkniętych składowisk lub ich części - także działań rekultywacyjnych.
+
+### 2b.
+
+W pozwoleniu, o którym mowa w ust. 2, należy uwzględnić:
+
+### 1)
+
+ilość odpadów dopuszczonych do wydobycia;
+
+### 2)
+
+techniczny sposób wydobywania odpadów;
+
+### 3)
+
+sposoby zapobiegania negatywnemu oddziaływaniu wydobywania odpadów na zdrowie lub życie ludzi oraz na środowisko;
+
+### 4)
+
+opis technicznego zabezpieczenia miejsca po wydobyciu odpadów, a w przypadku zamkniętych składowisk lub ich części - także działań rekultywacyjnych.
+
+” ;
+
+### 37)
+
+po art. 54a dodaje się art. 54b-54e w brzmieniu:
+
+„
+
+### Art. 54b.
+
+### 1.
+
+W przypadku gdy:
+
+### 1)
+
+składowisko odpadów lub jego wydzielona część nie spełniają wymogów technicznych lub formalnych określonych przepisami prawa lub
+
+### 2)
+
+w wyniku przeprowadzonej kontroli wojewódzki inspektor ochrony środowiska stwierdzi, że na składowisku odpadów innych niż niebezpieczne i obojętne, na którym składowane są odpady komunalne, co najmniej od roku nie są przyjmowane odpady, lub
+
+### 3)
+
+określona w decyzjach administracyjnych pojemność składowiska odpadów została zapełniona
+
+- a zarządzający składowiskiem nie wystąpił z wnioskiem o zgodę na zamknięcie składowiska odpadów lub jego wydzielonej części - właściwy organ ze względu na lokalizację składowiska, wykonuje ekspertyzę.
+
+### 2.
+
+Właściwym organem, o którym mowa w ust. 1, jest:
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć lub zdarzeń na terenach zamkniętych;
+
+### 2)
+
+marszałek województwa - dla pozostałych przedsięwzięć.
+
+### 3.
+
+Ekspertyza, o której mowa w ust. 1, określa w szczególności:
+
+### 1)
+
+techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
+
+### 2)
+
+harmonogram działań związanych z rekultywacją składowiska odpadów;
+
+### 3)
+
+sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoringu, oraz warunki wykonania tego obowiązku.
+
+### Art. 54c.
+
+### 1.
+
+Właściwy organ, o którym mowa w art. 54b ust. 2, na podstawie ekspertyzy, o której mowa w art. 54b ust. 1, wydaje decyzję o zamknięciu składowiska odpadów:
+
+### 1)
+
+zarządzającemu składowiskiem odpadów albo
+
+### 2)
+
+władającemu powierzchnią ziemi, jeżeli zarządzający składowiskiem odpadów nie może zostać zidentyfikowany lub nie można wszcząć wobec niego postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna, albo
+
+### 3)
+
+wójtowi, burmistrzowi lub prezydentowi miasta, właściwemu ze względu na lokalizację składowiska, jeżeli ani zarządzający składowiskiem odpadów ani władający powierzchnią ziemi nie mogą zostać zidentyfikowani lub nie można wszcząć wobec nich postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna.
+
+### 2.
+
+Decyzja, o której mowa w ust. 1, powinna określać:
+
+### 1)
+
+techniczny sposób zamknięcia składowiska odpadów lub jego wydzielonej części;
+
+### 2)
+
+datę zaprzestania przyjmowania odpadów do składowania na składowisku odpadów;
+
+### 3)
+
+harmonogram działań związanych z rekultywacją składowiska odpadów;
+
+### 4)
+
+sposób sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoring, oraz warunki wykonania tego obowiązku.
+
+### 3.
+
+Decyzję, o której mowa w ust. 1, właściwy organ, o którym mowa w art. 54b ust. 2, wydaje nie później niż w terminie miesiąca od dnia wykonania ekspertyzy, o której mowa w art. 54b ust. 1.
+
+### 4.
+
+Zarządzający składowiskiem, po wykonaniu obowiązków określonych w decyzji o zgodzie na zamknięcie składowiska, może złożyć wniosek o zwrot ustanowionego zabezpieczenia roszczeń. Przepis art. 35 ust. 2 stosuje się odpowiednio.
+
+### Art. 54d.
+
+### 1.
+
+Koszty sporządzenia ekspertyzy, o której mowa w art. 54b ust. 1, obciążają zarządzającego składowiskiem odpadów.
+
+### 2.
+
+Na pokrycie kosztów związanych z zamknięciem składowiska odpadów, o których mowa w art. 54b ust. 1, oraz w przypadkach, o których mowa w art. 54c ust. 1 pkt 2 i 3, mogą być przeznaczone środki finansowe z ustanowionego zabezpieczenia roszczeń.
+
+### Art. 54e.
+
+Główny Inspektor Ochrony Środowiska przechowuje dane dotyczące rozmieszczenia eksploatowanych i zamkniętych składowisk odpadów, w tym składowisk odpadów zawierających azbest lub wydzielonych części na terenie innych składowisk odpadów, przeznaczonych do wyłącznego składowania odpadów zawierających azbest.
+
+” ;
+
+### 38)
+
+w art. 55:
+
+### a)
+
+w ust. 1:
+
+- - po pkt 7 dodaje się pkt 7a w brzmieniu: „ 7a) palnych selektywnie zebranych; ” ,
+
+- - po pkt 7a dodaje się pkt 7b w brzmieniu: „ 7b) ulegających biodegradacji selektywnie zebranych; ” ,
+
+### b)
+
+dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+W rozporządzeniu, o którym mowa w ust. 3, minister właściwy do spraw gospodarki może określić kryteria oraz procedury dopuszczania odpadów do składowania na składowisku odpadów innych niż niebezpieczne i obojętne, uwzględniając zawartość w odpadach substancji organicznych oraz rodzaje odpadów, których to dotyczy.
+
+” ;
+
+### 39)
+
+po art. 57 dodaje się art. 57a w brzmieniu:
+
+„
+
+### Art. 57a.
+
+### 1.
+
+Na składowisku odpadów innych niż niebezpieczne i obojętne mogą być składowane odpady:
+
+### 1)
+
+komunalne;
+
+### 2)
+
+inne niż odpady niebezpieczne i obojętne;
+
+### 3)
+
+stałe odpady niebezpieczne lub odpady powstałe w wyniku przekształcenia odpadów niebezpiecznych, spełniające kryteria dopuszczania tych odpadów do składowania na składowisku odpadów innych niż niebezpieczne i obojętne określone na podstawie art. 55 ust. 3.
+
+### 2.
+
+Odpady, o których mowa w ust. 1 pkt 3, nie mogą być składowane na kwaterach przeznaczonych dla odpadów innych niż odpady niebezpieczne, które ulegają biodegradacji.
+
+” ;
+
+### 40)
+
+w art. 59:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Ustalając zakres i harmonogram działań niezbędnych do usunięcia przyczyn i skutków stwierdzonych zagrożeń dla środowiska, wojewódzki inspektor ochrony środowiska w decyzji, o której mowa w ust. 2, uwzględnia odpowiednio plan awaryjny, w szczególności na wypadek wykrycia zmian w jakości wód gruntowych, o którym mowa w art. 53 ust. 4 pkt 14.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W przypadkach określonych w ust. 3 i 4, na wniosek zarządzającego składowiskiem odpadów, odpowiednio wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może ustalić, w drodze decyzji, termin do usunięcia stwierdzonych nieprawidłowości. Ustalony termin nie może być dłuższy niż rok od dnia doręczenia decyzji.
+
+” ,
+
+### c)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+W razie nieusunięcia nieprawidłowości w ustalonym terminie wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny wstrzyma, w drodze decyzji, użytkowanie składowiska odpadów.
+
+” ,
+
+### d)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+W decyzjach, o których mowa w ust. 3, 4 i 5a, określa się termin wstrzymania użytkowania, uwzględniając potrzebę bezpiecznego dla środowiska oraz dla zdrowia lub życia ludzi jego zakończenia. Termin wstrzymania użytkowania składowiska odpadów nie może być dłuższy niż rok od dnia doręczenia decyzji.
+
+” ,
+
+### e)
+
+dodaje się ust. 8-13 w brzmieniu:
+
+„
+
+### 8.
+
+Decyzjom, o których mowa w ust. 3, 4 i 5a, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny, kierując się stopniem niewykonania obowiązków oraz zagrożeniem dla środowiska lub dla zdrowia lub życia ludzi, może nadać rygor natychmiastowej wykonalności.
+
+### 9.
+
+Wstrzymanie użytkowania składowiska odpadów nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonego użytkowania na koszt zarządzającego składowiskiem.
+
+### 10.
+
+Po stwierdzeniu, że ustały przyczyny wstrzymania użytkowania składowiska odpadów, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny, na wniosek zainteresowanego, wyraża, w drodze decyzji, zgodę na wznowienie użytkowania składowiska.
+
+### 11.
+
+Kopie wydanych decyzji, o których mowa w ust. 3, 4, 5a i 10, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje właściwemu organowi, o którym mowa w art. 53 ust. 3, w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna.
+
+### 12.
+
+W przypadku gdy organem właściwym, o którym mowa w art. 53 ust. 3, jest regionalny dyrektor ochrony środowiska lub starosta, kopie wydanych decyzji, o których mowa w ust. 3, 4, 5a i 10, wojewódzki inspektor ochrony środowiska lub państwowy wojewódzki inspektor sanitarny przekazuje dodatkowo właściwemu marszałkowi województwa w terminie nie dłuższym niż 30 dni od dnia, w którym decyzja stała się ostateczna.
+
+### 13.
+
+Wstrzymanie użytkowania składowiska odpadów na podstawie decyzji, o których mowa w ust. 3, 4 i 5a, na okres dłuższy niż rok skutkuje cofnięciem decyzji na odzysk lub unieszkodliwianie odpadów oraz decyzji zatwierdzającej instrukcję eksploatacji składowiska.
+
+” ;
+
+### 41)
+
+w art. 63:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku decyzji zatwierdzającej program gospodarki odpadami lub zezwolenia na odzysk lub unieszkodliwianie odpadów zawierających azbest w urządzeniach przewoźnych, ust. 1 nie stosuje się.
+
+” ,
+
+### b)
+
+dodaje się ust. 7 i 8 w brzmieniu:
+
+„
+
+### 7.
+
+W decyzji zatwierdzającej program gospodarki odpadami lub zezwoleniu na odzysk lub unieszkodliwianie odpadów zawierających azbest w urządzeniach przewoźnych określa się sposób oraz rodzaj magazynowanych odpadów.
+
+### 8.
+
+Zakończenie wykonywania usługi, o której mowa w art. 17 ust. 1a, jest równoznaczne z obowiązkiem zakończenia magazynowania odpadów.
+
+” ;
+
+### 42)
+
+w art. 69a ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kto:
+
+### 1)
+
+przekazuje do odzysku lub unieszkodliwienia niesegregowane odpady komunalne, pozostałości z sortowania odpadów komunalnych lub komunalne osady ściekowe, niezgodnie z art. 9 ust. 3-4 lub
+
+### 2)
+
+poddaje odzyskowi lub unieszkodliwianiu niesegregowane odpady komunalne, pozostałości z sortowania odpadów komunalnych lub komunalne osady ściekowe niezgodnie z art. 9 ust. 3-4,
+
+podlega karze aresztu albo grzywny.
+
+” ;
+
+### 43)
+
+uchyla się art. 70;
+
+### 44)
+
+art. 75a otrzymuje brzmienie:
+
+„
+
+### Art. 75a.
+
+Kto, prowadząc punkt zbierania odpadów metali, przyjmuje odpady metali inne niż metalowe odpady opakowaniowe po produktach żywnościowych:
+
+### 1)
+
+bez potwierdzenia tożsamości osoby przekazującej te odpady lub
+
+### 2)
+
+bez wypełnienia formularza przyjęcia odpadów metali, lub
+
+### 3)
+
+wypełniając formularz przyjęcia odpadów metali niezgodnie ze stanem rzeczywistym,
+
+podlega karze aresztu albo grzywny.
+
+” ;
+
+### 45)
+
+uchyla się art. 76;
+
+### 46)
+
+art. 77a otrzymuje brzmienie:
+
+„
+
+### Art. 77a.
+
+Kto unieszkodliwia zakaźne odpady medyczne lub zakaźne odpady weterynaryjne innymi metodami niż te, które prowadzą do obniżenia zawartości ogólnego węgla organicznego do 5% w tych odpadach lub unieszkodliwia je przez ich współspalanie podlega karze aresztu albo grzywny.
+
+” ;
+
+### 47)
+
+art. 79 otrzymuje brzmienie:
+
+„
+
+### Art. 79.
+
+Orzekanie w sprawach, o których mowa w art. 69a-78, następuje na zasadach i w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589.](#gloss-0:7:)).
+
+” ;
+
+### 48)
+
+w art. 79a ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Termin płatności opłat sankcyjnych, o których mowa w ust. 1 i 2, może zostać odroczony na wniosek podmiotów, o których mowa w ust. 1 i 2, jeżeli realizują działania zapewniające usunięcie przyczyny nałożenia opłaty, w okresie nie dłuższym niż rok od dnia złożenia wniosku.
+
+” ;
+
+### 49)
+
+po rozdziale 9 dodaje się rozdział 9a w brzmieniu:
+
+„
+
+### Rozdział 9a Kary pieniężne
+
+### Art. 79b.
+
+### 1.
+
+Jeżeli posiadacz odpadów lub transportujący odpady:
+
+### 1)
+
+wytwarza odpady bez wymaganej decyzji zatwierdzającej program gospodarki odpadami niebezpiecznymi lub zatwierdzającej program gospodarki odpadami lub z naruszeniem jej warunków lub
+
+### 2)
+
+wytwarza odpady bez wymaganego złożenia informacji o wytworzonych odpadach oraz sposobach gospodarowania wytworzonymi odpadami lub prowadzi gospodarkę odpadami niezgodnie ze złożoną informacją, lub
+
+### 3)
+
+wytwarza odpady pomimo wniesienia sprzeciwu, o którym mowa w art. 24 ust. 5, albo rozpoczyna działalność powodującą powstawanie odpadów przed upływem terminu do wniesienia sprzeciwu, lub
+
+### 4)
+
+będąc obowiązany do zgłoszenia do rejestru, o którym mowa w art. 33 ust. 5, nie dopełnił tego obowiązku lub wykonał go niezgodnie ze stanem faktycznym lub dokonuje zbierania odpadów lub transportu odpadów niezgodnie z informacjami zgłoszonymi do rejestru,
+
+podlega karze pieniężnej w wysokości 5 000 zł.
+
+### 2.
+
+Jeżeli posiadacz odpadów lub transportujący odpady:
+
+### 1)
+
+pozbywa się odpadów wbrew przepisom dotyczącym gospodarowania odpadami lub
+
+### 2)
+
+przekazuje je podmiotom, które nie uzyskały wymaganych zezwoleń, chyba że posiadanie zezwolenia nie było wymagane, lub
+
+### 3)
+
+w celu spełnienia kryteriów dopuszczenia odpadów do składowania na składowiskach odpadów, rozcieńcza lub sporządza mieszaniny odpadów ze sobą lub innymi substancjami lub przedmiotami, lub
+
+### 4)
+
+powodując wzrost zagrożenia dla zdrowia lub życia ludzi lub środowiska, miesza odpady niebezpieczne różnych rodzajów lub odpady niebezpieczne z odpadami innymi niż niebezpieczne lub dopuszcza do mieszania tych odpadów, lub
+
+### 5)
+
+prowadzi działalność w zakresie zbierania, transportu, odzysku lub unieszkodliwiania odpadów bez wymaganego zezwolenia lub z naruszeniem jego warunków, lub
+
+### 6)
+
+wbrew zakazom dotyczącym zbierania odpadów dokonuje zbierania odpadów,
+
+podlega karze pieniężnej w wysokości 10 000 zł.
+
+### Art. 79c.
+
+### 1.
+
+Jeżeli zarządzający składowiskiem bez wymaganej zgody organu zamyka składowisko lub jego wydzieloną część podlega karze pieniężnej w wysokości 5 000 zł.
+
+### 2.
+
+Jeżeli zarządzający składowiskiem pomimo decyzji o zamknięciu składowiska przyjmuje odpady do składowania podlega karze pieniężnej w wysokości 20 000 zł.
+
+### 3.
+
+Jeżeli posiadacz odpadów lub transportujący odpady, będąc obowiązanym do prowadzenia ewidencji odpadów lub przekazywania wymaganych informacji lub sporządzania i przekazywania zbiorczego zestawienia danych lub sporządzania podstawowej charakterystyki odpadów lub przeprowadzania testów zgodności, nie wykonuje tego obowiązku albo wykonuje go nieterminowo lub niezgodnie ze stanem rzeczywistym podlega karze pieniężnej w wysokości 10 000 zł.
+
+### Art. 79d.
+
+### 1.
+
+Kary pieniężne, o których mowa w art. 79b, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
+
+### 2.
+
+Kary pieniężne, o których mowa w art. 79b, wnosi się na odrębny rachunek bankowy wojewódzkiego inspektora ochrony środowiska w terminie 14 dni od dnia, w którym decyzja o wymiarze kary stała się ostateczna.
+
+### 3.
+
+Kary pieniężne, o których mowa w art. 79c, wymierza, w drodze decyzji, właściwy marszałek województwa.
+
+### 4.
+
+Kary pieniężne, o których mowa w art. 79c, wnosi się na odrębny rachunek bankowy zarządu województwa w terminie 14 dni od dnia, w którym decyzja o wymiarze kary stała się ostateczna.
+
+### 5.
+
+W sprawach dotyczących kar pieniężnych, o których mowa w art. 79b i 79c, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676.](#gloss-0:8:)), z tym że uprawnienia organów podatkowych przysługują odpowiednio wojewódzkiemu inspektorowi ochrony środowiska oraz marszałkowi województwa.
+
+” ;
+
+### 50)
+
+użyte w ustawie:
+
+### a)
+
+w art. 15 ust. 7 i w art. 49a ust. 1 pkt 5 w różnej liczbie i przypadku wyrazy „demontaż obiektów budowlanych” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami: „rozbiórka obiektów budowlanych”,
+
+### b)
+
+w art. 25 ust. 2 wyrazy „działalności w zakresie gospodarki odpadami” zastępuje się wyrazami „gospodarowanie odpadami”,
+
+### c)
+
+w art. 25 ust. 4-6, w art. 30 ust. 1, w art. 33 ust. 5 i 5a i w art. 36 ust. 6, 9-11 w różnej liczbie i przypadku wyrazy „działalność w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „transport odpadów”,
+
+### d)
+
+w art. 26 ust. 1, 2, 4, 6 i 8, w art. 27 ust. 1 i 2, w art. 32 ust. 1, w art. 33 ust. 4a, w art. 36 ust. 1 a pkt 2, w art. 59 ust. 1 pkt 5 i w art. 63 ust. 6 pkt 5 w różnej liczbie i przypadku wyrazy „działalność w zakresie odzysku lub unieszkodliwiania” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „odzysk lub unieszkodliwianie”,
+
+### e)
+
+w art. 26 ust. 10 wyrazy „działalność w zakresie unieszkodliwiania” zastępuje się wyrazem „unieszkodliwianie”,
+
+### f)
+
+w art. 28 ust. 1 i w art. 33 ust. 1a w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „transport odpadów”,
+
+### g)
+
+w art. 28 ust. 1 wyrazy „działalności w zakresie zbierania” zastępuje się wyrazem „zbierania”,
+
+### h)
+
+w art. 28 ust. 4-6, w art. 32, w art. 33 ust. 4 i w art. 63 ust. 1 pkt 6 w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie zbierania lub transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „zbieranie lub transport odpadów”,
+
+### i)
+
+w art. 28 ust. 8 wyrazy „prowadzenie działalności w zakresie zbierania odpadów” zastępuje się wyrazami „zbieranie odpadów”,
+
+### j)
+
+w art. 29 ust. 1 i w art. 31 ust. 1-3 w różnej liczbie i przypadku wyrazy „prowadzenie działalności w zakresie odzysku, unieszkodliwiania, zbierania lub transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „odzysk, unieszkodliwianie, zbieranie lub transport odpadów”,
+
+### k)
+
+w art. 30 ust. 1 wyrazy „prowadzenie działalności w zakresie odzysku, unieszkodliwiania, zbierania odpadów” zastępuje się wyrazami „odzysku, unieszkodliwiania, zbierania odpadów”,
+
+### l)
+
+w art. 36 ust. 5 i 7a w różnej liczbie i przypadku wyrazy „działalność wyłącznie w zakresie transportu odpadów” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „wyłącznie transport odpadów”,
+
+### m)
+
+w art. 32a wyrazy „prowadzenie działalności w zakresie zbierania, odzysku lub unieszkodliwiania” zastępuje się wyrazami „zbieranie, odzysk lub unieszkodliwianie”,
+
+### n)
+
+w art. 33 ust. 5 wyrazy „prowadzenie działalności w zakresie zbierania, transportu, odzysku lub unieszkodliwiania” zastępuje się wyrazami „zbierania, transportu, odzysku lub unieszkodliwiania”,
+
+### o)
+
+w art. 40 ust. 2 wyrazy „prowadzenie działalności w zakresie unieszkodliwiania” zastępuje się wyrazami „unieszkodliwianie”,
+
+### p)
+
+w art. 43 ust. 5 wyrazy „prowadzenie działalności w zakresie odzysku” zastępuje się wyrazem „odzysk”.
+
+### Art. 2.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 236b po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku zlecania przez prowadzącego instalację, o którym mowa w ust. 1, usług związanych z eksploatacją instalacji innemu podmiotowi, w tym w zakresie świadczenia usług w zakresie budowy, rozbiórki, remontu instalacji, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, usługobiorca przekazuje prowadzącemu instalację niezbędne informacje potrzebne do sporządzenia sprawozdania, o którym mowa w ust. 1.
+
+” ;
+
+### 2)
+
+w art. 290 w ust. 2 w pkt 2 dodaje się lit. g w brzmieniu:
+
+„
+
+### g)
+
+roku obowiązywania stawki opłat.
+
+” ;
+
+### 3)
+
+w art. 293:
+
+### a)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Za składowanie odpadów w miejscu na ten cel nieprzeznaczonym podmiot korzystający ze środowiska ponosi opłaty podwyższone w wysokości 0,7 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą tonę odpadów i za każdą dobę składowania.
+
+### 4.
+
+W przypadku pozbycia się odpadów:
+
+### 1)
+
+nad brzegami zbiorników wodnych, w szczególności w strefach ochronnych ujęć wód i na terenach wypływu wód z warstw wodonośnych,
+
+### 2)
+
+na terenach parków narodowych i rezerwatów przyrody,
+
+### 3)
+
+na terenach leśnych albo uzdrowiskowych lub na terenach rekreacyjno-wypoczynkowych
+
+- podmiot korzystający ze środowiska ponosi opłaty podwyższone w wysokości 1,0 jednostkowej stawki opłaty za umieszczenie odpadów na składowisku za każdą tonę odpadów i za każdą dobę składowania.
+
+” ;
+
+### b)
+
+dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Opłatę podwyższoną ponosi się niezależnie od opłaty za umieszczenie odpadów na składowisku.
+
+” ;
+
+### 4)
+
+w art. 401 w ust. 7 po pkt 11 dodaje się pkt 11a i 11b w brzmieniu:
+
+„
+
+### 11a)
+
+wpływy z kar pieniężnych, o których mowa w art. 79b i 79c ustawy z dnia 27 kwietnia 2001 r. o odpadach;
+
+### 11b)
+
+wpływy z kar pieniężnych, o których mowa w art. 53a ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
+
+” ;
+
+### 5)
+
+w art. 402 po ust. 11 dodaje się ust. 12-16 w brzmieniu:
+
+„
+
+### 12.
+
+Wpływy z kar pieniężnych, o których mowa w art. 79b i 79c ustawy z dnia 27 kwietnia 2001 r. o odpadach, odpowiednio wojewódzcy inspektorzy ochrony środowiska i zarządy województw przekazują na rachunek bankowy Narodowego Funduszu w terminie do końca następnego miesiąca po upływie każdego kwartału.
+
+### 13.
+
+Wojewódzki inspektor ochrony środowiska przed przekazaniem na rachunek Narodowego Funduszu wpływów z kar, o których mowa w art. 79b ustawy z dnia 27 kwietnia 2001 r. o odpadach, pomniejsza je o 20%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na koszty egzekucji ustalonej należnej kary oraz koszty weryfikacji ustalenia jej wysokości.
+
+### 14.
+
+Zarząd województwa przed przekazaniem na rachunek Narodowego Funduszu wpływów z kar, o których mowa w art. 79c ustawy z dnia 27 kwietnia 2001 r. o odpadach, pomniejsza je o 20%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na koszty egzekucji ustalonej należnej kary oraz koszty weryfikacji ustalenia jej wysokości.
+
+### 15.
+
+Wpływy z kar pieniężnych, o których mowa w art. 53a ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, wojewódzcy inspektorzy ochrony środowiska przekazują na rachunek bankowy Narodowego Funduszu w terminie do końca następnego miesiąca po upływie każdego kwartału.
+
+### 16.
+
+Wojewódzki inspektor ochrony środowiska przed przekazaniem na rachunek Narodowego Funduszu wpływów z kar, o których mowa w art. 53a ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, pomniejsza je o 20%, a kwotę uzyskaną z tytułu pomniejszenia przeznacza na koszty egzekucji ustalonej należnej kary oraz koszty weryfikacji ustalenia jej wysokości.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ([Dz. U. Nr 124, poz. 1152](https://api.sejm.gov.pl/eli/acts/DU/2003/1152/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486 oraz z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802.](#gloss-0:10:)) w art. 84 w ust. 2 w pkt 2 dodaje się lit. c w brzmieniu:
+
+„
+
+### c)
+
+Inspekcja Ochrony Środowiska.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji ([Dz. U. Nr 25, poz. 202](https://api.sejm.gov.pl/eli/acts/DU/2005/202/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236 oraz z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664.](#gloss-0:11:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Do motorowerów trójkołowych zaliczanych do kategorii L2e, określonej w przepisach o ruchu drogowym, stosuje się przepisy art. 11-17, art. 21, art. 22 oraz art. 39-41.
+
+” ;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+masie pojazdu wycofanego z eksploatacji - rozumie się przez to masę pojazdu zważonego przy przyjmowaniu pojazdu do stacji demontażu lub punktu zbierania pojazdów, po uprzednim usunięciu z niego innych odpadów, które nie pochodzą z tego pojazdu;
+
+” ,
+
+### b)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+pojeździe - rozumie się przez to pojazdy samochodowe zaliczone do kategorii M1 lub N1, określonych w przepisach o ruchu drogowym, oraz motorowery trójkołowe zaliczone do kategorii L2e, określonych w przepisach o ruchu drogowym;
+
+” ,
+
+### c)
+
+w pkt 5 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+pojazd mający co najmniej 25 lat, uznany przez rzeczoznawcę samochodowego za unikatowy lub mający szczególne znaczenie dla udokumentowania historii motoryzacji;
+
+” ;
+
+### 3)
+
+po art. 3 dodaje się art. 3a w brzmieniu:
+
+„
+
+### Art. 3a.
+
+### 1.
+
+Pojazdy, które nie spełniają wymagań technicznych, zapewniających ochronę środowiska lub zdrowia lub życia ludzi, określonych w przepisach wydanych na podstawie ust. 2, są pojazdami wycofanymi z eksploatacji.
+
+### 2.
+
+Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, wymagania, o których mowa w ust. 1.
+
+### 3.
+
+Wydając rozporządzenie, o którym mowa w ust. 2, minister właściwy do spraw transportu uwzględnia, w szczególności:
+
+### 1)
+
+wymagania ochrony środowiska,
+
+### 2)
+
+bezpieczeństwo użytkowania pojazdów,
+
+### 3)
+
+możliwe zagrożenia dla zdrowia lub życia ludzi,
+
+### 4)
+
+wymagania ochrony dóbr kultury lub
+
+### 5)
+
+wymagania wynikające z przepisów Unii Europejskiej.
+
+” ;
+
+### 4)
+
+w art. 7 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Materiały, przedmioty wyposażenia i części pojazdów, z wyłączeniem ciężarków do wyważania kół, szczotek węglowych do silników elektrycznych oraz okładzin hamulcowych, nie mogą zawierać ołowiu, rtęci, kadmu i sześciowartościowego chromu.
+
+” ;
+
+### 5)
+
+w art. 11 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Wprowadzający pojazd, o którym mowa w art. 10, jest obowiązany zapewnić sieć zbierania pojazdów, zwaną dalej „siecią”, obejmującą terytorium kraju w taki sposób, aby zapewnić właścicielowi możliwość oddania pojazdu wycofanego z eksploatacji do punktu zbierania pojazdów lub stacji demontażu, położonych w odległości nie większej niż 50 km w linii prostej od miejsca zamieszkania albo siedziby właściciela pojazdu, z zastrzeżeniem art. 12 ust. 1.
+
+### 2.
+
+Wprowadzający pojazd zapewnia sieć wyłącznie przez własne stacje demontażu i punkty zbierania pojazdów lub na podstawie umów z przedsiębiorcami prowadzącymi stacje demontażu.
+
+” ;
+
+### 6)
+
+w art. 12 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wprowadzający pojazd, inny niż wymieniony w art. 10, nie zapewnia sieci.
+
+” ;
+
+### 7)
+
+w art. 15 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wprowadzający pojazd jest obowiązany do złożenia Głównemu Inspektorowi Ochrony Środowiska rocznego sprawozdania o wysokości należnej opłaty za brak sieci w terminie do dnia 15 marca roku następującego po roku, którego opłata dotyczy.
+
+” ;
+
+### 8)
+
+art. 18 otrzymuje brzmienie:
+
+„
+
+### Art. 18.
+
+Właściciel pojazdu wycofanego z eksploatacji przekazuje go wyłącznie do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów.
+
+” ;
+
+### 9)
+
+w art. 23:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do przyjęcia każdego pojazdu wycofanego z eksploatacji, który posiada cechy identyfikacyjne pojazdu, o których mowa w art. 66 ust. 3a pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2005 r. Nr 108, poz. 908](https://api.sejm.gov.pl/eli/acts/DU/2005/908/text.html) z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323.](#gloss-0:12:)), z zastrzeżeniem ust. 7 i 7a.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Przedsiębiorca prowadzący stację demontażu nie pobiera opłaty, o której mowa w ust. 2, przy przyjmowaniu niekompletnych pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji oraz jednostek ochrony przeciwpożarowej.
+
+” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a i 7b w brzmieniu:
+
+„
+
+### 7a.
+
+Przedsiębiorca prowadzący stację demontażu, który nie ma podpisanej umowy z wprowadzającymi pojazdy, może odmówić przyjęcia pojazdu niekompletnego.
+
+### 7b.
+
+Przedsiębiorca prowadzący stację demontażu, odmawiając przyjęcia pojazdu niekompletnego w przypadku, o którym mowa w ust. 7a, jest obowiązany do wskazania najbliższej stacji demontażu działającej w ramach sieci, o której mowa w art. 11 ust. 1.
+
+” ;
+
+### 10)
+
+w art. 24:
+
+### a)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Zaświadczenie o demontażu pojazdu jest sporządzane w trzech egzemplarzach, z których pierwszy otrzymuje właściciel pojazdu, drugi jest przekazywany przez przedsiębiorcę prowadzącego stację demontażu w terminie 7 dni organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a trzeci pozostaje u przedsiębiorcy prowadzącego stację demontażu, z zastrzeżeniem ust. 5.
+
+### 4.
+
+Przedsiębiorca prowadzący stację demontażu, który otrzymuje zaświadczenia o demontażu pojazdu od przedsiębiorcy prowadzącego punkt zbierania pojazdów, o którym mowa w art. 33 ust. 3, przekazuje jeden egzemplarz zaświadczenia organowi rejestrującemu właściwemu ze względu na miejsce ostatniej rejestracji pojazdu, a drugi pozostawia u siebie.
+
+” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+W przypadku pojazdu niezarejestrowanego na terytorium kraju, egzemplarz zaświadczenia o demontażu pojazdu, przeznaczony dla organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu, jest przekazywany w terminie 7 dni Głównemu Inspektorowi Ochrony Środowiska.
+
+” ;
+
+### 11)
+
+w art. 25 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku przyjmowania pojazdu, który nie spełnia warunków określonych w art. 23 ust. 3 pkt 2 lit. a, przedsiębiorca prowadzący stację demontażu jest obowiązany do wydania zaświadczenia o przyjęciu niekompletnego pojazdu. Przepisy art. 24 ust. 1 pkt 1 i ust. 2-5 stosuje się odpowiednio.
+
+” ;
+
+### 12)
+
+w art. 27 zdanie po tiret otrzymuje brzmienie:
+
+„
+
+- - kierując się potrzebami identyfikacji pojazdu, zapobiegania nieuprawnionemu używaniu dokumentów pojazdów wycofanych z eksploatacji, zapewnienia wiarygodności zaświadczeń dla wyrejestrowania pojazdu oraz ujednolicenia treści zaświadczeń, a także potwierdzenia masy pojazdu wycofanego z eksploatacji.
+
+” ;
+
+### 13)
+
+w art. 28:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany osiągać poziom odzysku i recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji w wysokości odpowiednio 95% i 85% masy pojazdów przyjętych do jego stacji demontażu rocznie.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przepisów ust. 1 nie stosuje się do niektórych pojazdów specjalnych, o których mowa w przepisach wydanych na podstawie art. 68 ust. 19 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
+
+” ,
+
+### d)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Przy obliczaniu poziomów recyklingu odpadów pochodzących z pojazdów wycofanych z eksploatacji do recyklingu zalicza się działania oznaczone jako R2-R9 w załączniku nr 5 do ustawy z dnia 27 kwietnia 2001 r. o odpadach ([Dz. U. z 2007 r. Nr 39, poz. 251](https://api.sejm.gov.pl/eli/acts/DU/2007/251/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666 oraz z 2010 r. Nr 28, poz. 145.](#gloss-0:13:)) oraz wymontowywanie przedmiotów wyposażenia i części pojazdów przeznaczonych do ponownego użycia.
+
+### 4.
+
+Przy obliczaniu poziomów odzysku odpadów pochodzących z pojazdów wycofanych z eksploatacji do odzysku zalicza się działania uwzględnione przy obliczaniu poziomu recyklingu oraz działania oznaczone jako R1 w załączniku nr 5 do ustawy z dnia 27 kwietnia 2001 r. o odpadach.
+
+” ,
+
+### e)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Przedsiębiorca prowadzący stację demontażu przy obliczaniu poziomów odzysku i recyklingu, o których mowa w ust. 1, może uwzględnić masę odpadów pochodzących z pojazdów wycofanych z eksploatacji poddanych odzyskowi lub recyklingowi do końca stycznia następnego roku w przypadku, gdy pochodzą z pojazdów wycofanych z eksploatacji przyjętych do stacji demontażu w okresie od dnia 1 stycznia do dnia 31 grudnia danego roku.
+
+” ,
+
+### f)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Ilość odpadów poddanych odzyskowi lub recyklingowi ustala się na podstawie ewidencji odpadów prowadzonej przez przedsiębiorcę prowadzącego stację demontażu.
+
+” ,
+
+### g)
+
+w ust. 7 uchyla się pkt 3;
+
+### 14)
+
+uchyla się art. 29;
+
+### 15)
+
+w art. 30 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany do sporządzenia rocznego sprawozdania zawierającego informacje o:
+
+### 1)
+
+liczbie, markach, masie i roku produkcji pojazdów oraz masie pojazdów wycofanych z eksploatacji, przyjętych do jego stacji demontażu;
+
+### 2)
+
+masie odpadów poddanych odzyskowi, w tym recyklingowi, oraz przekazanych do odzysku, w tym recyklingu, a także masie przeznaczonych do ponownego użycia przedmiotów wyposażenia i części wymontowanych z pojazdów wycofanych z eksploatacji;
+
+### 3)
+
+przedsiębiorcach, którym przekazano odpady do odzysku, w tym recyklingu, z podaniem nazwy, siedziby i adresu albo imienia, nazwiska i adresu przedsiębiorcy;
+
+### 4)
+
+przedsiębiorcach, którym przekazano odpady do unieszkodliwiania, z podaniem nazwy, siedziby i adresu albo imienia, nazwiska, miejsca zamieszkania i adresu przedsiębiorcy;
+
+### 5)
+
+osiągniętym w danej stacji demontażu poziomie odzysku i recyklingu.
+
+### 2.
+
+Przedsiębiorca prowadzący stację demontażu przekazuje Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej oraz marszałkowi województwa sprawozdanie, o którym mowa w ust. 1, w terminie do dnia 15 marca następnego roku.
+
+” ;
+
+### 16)
+
+w art. 31 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przedsiębiorca prowadzący stację demontażu jest obowiązany w terminie 14 dni złożyć marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwemu miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu zawiadomienie o zakończeniu działalności w zakresie demontażu pojazdów wycofanych z eksploatacji lub o rozwiązaniu lub wygaśnięciu umowy z przedsiębiorcą prowadzącym punkt zbierania pojazdów.
+
+” ;
+
+### 17)
+
+w art. 38 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw środowiska, w porozumieniu z ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, sposób wykonania próby strzępienia, o której mowa w ust. 1, oraz wzór informacji o wynikach próby strzępienia kierując się potrzebą ustalenia średniej zawartości uzyskiwanych frakcji materiałowych dla poszczególnych stacji demontażu.
+
+” ;
+
+### 18)
+
+po art. 38 dodaje się art. 38a w brzmieniu:
+
+„
+
+### Art. 38a.
+
+### 1.
+
+Przedsiębiorca prowadzący strzępiarkę prowadzi wykaz masy odpadów przeznaczonych do recyklingu, odzysku energii oraz unieszkodliwiania, pochodzących ze strzępienia pojazdów wycofanych z eksploatacji.
+
+### 2.
+
+Wykaz, o którym mowa w ust. 1, obejmuje w szczególności dane o frakcjach materiałowych metali żelaznych i nieżelaznych, tworzyw sztucznych, szkła i pozostałości.
+
+### 3.
+
+Przedsiębiorca prowadzący strzępiarkę przekazuje Głównemu Inspektorowi Ochrony Środowiska zbiorczą informację dotyczącą danych zgromadzonych w wykazie, o którym mowa w ust. 1, oraz wyniki próby strzępienia, o której mowa w art. 38 ust. 1, w terminie do dnia 31 stycznia następnego roku za poprzedni rok kalendarzowy.
+
+### 4.
+
+Minister właściwy do spraw środowiska, kierując się potrzebą ujednolicenia danych, może określić, w drodze rozporządzenia, wzór zbiorczej informacji, o której mowa w ust. 3.
+
+” ;
+
+### 19)
+
+w art. 39:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Starosta wydaje zezwolenie na prowadzenie działalności w zakresie zbierania odpadów przedsiębiorcy prowadzącemu punkt zbierania pojazdów po uzgodnieniu z marszałkiem województwa lub regionalnym dyrektorem ochrony środowiska właściwym miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu przedsiębiorcy prowadzącemu stację demontażu, z którym przedsiębiorca prowadzący punkt zbierania pojazdów zawarł umowę.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Starosta przekazuje marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwym miejscowo do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami, oraz marszałkowi województwa lub regionalnemu dyrektorowi ochrony środowiska właściwym ze względu na adres punktu zbierania pojazdów kopie zezwolenia, o którym mowa w ust. 1, oraz decyzji, o których mowa w ust. 3 i 5.
+
+” ;
+
+### 20)
+
+art. 40 otrzymuje brzmienie:
+
+„
+
+### Art. 40.
+
+### 1.
+
+Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem stacji demontażu jest marszałek województwa; w przypadku gdy stacja demontażu położona jest na terenie zamkniętym, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2005 r. Nr 240, poz. 2027](https://api.sejm.gov.pl/eli/acts/DU/2005/2027/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.](#gloss-0:14:)), organem właściwym jest regionalny dyrektor ochrony środowiska.
+
+### 2.
+
+Pozwolenie na wytwarzanie odpadów może być wydane po uzyskaniu wymaganego pozwolenia na użytkowanie obiektu budowlanego w rozumieniu przepisów prawa budowlanego, z wyłączeniem nowo zbudowanych lub przebudowanych obiektów budowlanych, zespołów obiektów lub instalacji, do których ma zastosowanie art. 76 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 28, poz. 145.](#gloss-0:15:)), oraz po sprawdzeniu przez wojewódzkiego inspektora ochrony środowiska funkcjonowania instalacji i urządzeń służących do demontażu pojazdów wycofanych z eksploatacji.
+
+### 3.
+
+Jeżeli przedsiębiorca prowadzący stację demontażu poświadcza nieprawdę w zaświadczeniu o demontażu pojazdu lub zaświadczeniu o przyjęciu niekompletnego pojazdu, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 4.
+
+Jeżeli przedsiębiorca prowadzący stację demontażu narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+
+### 5.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 4, mimo wezwania nadal narusza przepisy ustawy w zakresie prawidłowej eksploatacji stacji demontażu, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 6.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 4, narusza przepisy ustawy inne niż określone w ust. 5, marszałek województwa lub regionalny dyrektor ochrony środowiska może cofnąć pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji bez odszkodowania.
+
+### 7.
+
+Regionalny dyrektor ochrony środowiska przekazuje marszałkowi województwa właściwemu ze względu na miejsce prowadzenia stacji demontażu informacje niezbędne do prowadzenia wykazu, o którym mowa w art. 42 ust. 1.
+
+” ;
+
+### 21)
+
+art. 41 otrzymuje brzmienie:
+
+„
+
+### Art. 41.
+
+### 1.
+
+Organem właściwym do wydania pozwolenia zintegrowanego lub innej decyzji w zakresie gospodarki odpadami wymaganej w związku z prowadzeniem strzępiarki jest marszałek województwa; w przypadku gdy strzępiarka położona jest na terenie zamkniętym organem właściwym jest regionalny dyrektor ochrony środowiska.
+
+### 2.
+
+Jeżeli przedsiębiorca prowadzący strzępiarkę poświadcza nieprawdę w informacji dotyczącej zawartości uzyskiwanych frakcji materiałowych, o których mowa w art. 38 ust. 2, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+### 3.
+
+Jeżeli przedsiębiorca prowadzący strzępiarkę narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska wzywa go do zaniechania naruszeń w oznaczonym terminie.
+
+### 4.
+
+Jeżeli przedsiębiorca, o którym mowa w ust. 3, mimo wezwania nadal narusza przepisy ustawy, marszałek województwa lub regionalny dyrektor ochrony środowiska cofa pozwolenia lub decyzje, o których mowa w ust. 1, w drodze decyzji, bez odszkodowania.
+
+” ;
+
+### 22)
+
+art. 42 otrzymuje brzmienie:
+
+„
+
+### Art. 42.
+
+### 1.
+
+Marszałek województwa prowadzi wykaz przedsiębiorców prowadzących:
+
+### 1)
+
+stacje demontażu;
+
+### 2)
+
+punkty zbierania pojazdów.
+
+### 2.
+
+Wykaz, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+nazwę, siedzibę i adres albo imię, nazwisko i adres przedsiębiorcy prowadzącego stację demontażu lub punkt zbierania pojazdów;
+
+### 2)
+
+adresy stacji demontażu lub punktów zbierania pojazdów.
+
+### 3.
+
+Informację o umieszczeniu w wykazie lub usunięciu z wykazu, o którym mowa w ust. 1, marszałek województwa przekazuje do centralnej ewidencji pojazdów.
+
+### 4.
+
+Wykaz, o którym mowa w ust. 1, marszałek województwa zamieszcza na stronie internetowej Biuletynu Informacji Publicznej urzędu marszałkowskiego.
+
+” ;
+
+### 23)
+
+uchyla się art. 50;
+
+### 24)
+
+po rozdziale 8 dodaje się rozdział 8a w brzmieniu:
+
+„
+
+### Rozdział 8a Kary pieniężne
+
+### Art. 53a.
+
+### 1.
+
+Kto poza stacją demontażu dokonuje:
+
+### 1)
+
+usunięcia z pojazdów wycofanych z eksploatacji elementów lub substancji niebezpiecznych, w tym płynów,
+
+### 2)
+
+wymontowania z pojazdów wycofanych z eksploatacji przedmiotów wyposażenia lub części nadających się do ponownego użycia,
+
+### 3)
+
+wymontowania z pojazdów wycofanych z eksploatacji elementów nadających się do odzysku lub recyklingu
+
+- podlega karze pieniężnej od 10 000 do 300 000 zł.
+
+### 2.
+
+Kary pieniężne, o których mowa w ust. 1, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska.
+
+### 3.
+
+Kary pieniężne, o których mowa w ust. 1, wnosi się na wyodrębniony rachunek bankowy wojewódzkiego inspektora ochrony środowiska.
+
+### 4.
+
+Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 1, należy uwzględnić stopień szkodliwości czynu, w szczególności zakres naruszeń, ilość odpadów, rodzaj stwarzanego zagrożenia dla środowiska oraz okoliczności uprzedniego naruszenia przepisów o odpadach.
+
+### 5.
+
+W sprawach dotyczących kar pieniężnych, o których mowa w ust. 1, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują wojewódzkiemu inspektorowi ochrony środowiska.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów ([Dz. U. Nr 124, poz. 859](https://api.sejm.gov.pl/eli/acts/DU/2007/859/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 27 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Po wszczęciu postępowania administracyjnego, o którym mowa w ust. 3, Główny Inspektor Ochrony Środowiska, po konsultacji z organem, który dokonał ujawnienia transportu nielegalnie przemieszczanych odpadów, w drodze postanowienia, zobowiązuje odbiorcę odpadów sprowadzonych nielegalnie do określonego sposobu postępowania z tymi odpadami, do czasu zakończenia procedur określonych w art. 24 rozporządzenia nr 1013/2006 lub do czasu wydania decyzji, o której mowa w art. 26.
+
+” ;
+
+### 2)
+
+art. 29 otrzymuje brzmienie:
+
+„
+
+### Art. 29.
+
+Na postanowienia, o których mowa w art. 23 ust. 1, art. 25 ust. 1 i art. 27 ust. 4, przysługuje zażalenie do Głównego Inspektora Ochrony Środowiska.
+
+” ;
+
+### 3)
+
+w art. 32 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Wojewódzki Inspektor Ochrony Środowiska nakłada na odbiorcę odpadów sprowadzonych nielegalnie, który nie zastosował się do postanowienia, o którym mowa w art. 27 ust. 4, w drodze decyzji, karę pieniężną w wysokości od 25 000 do 150 000 zł.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych ([Dz. U. Nr 138, poz. 865](https://api.sejm.gov.pl/eli/acts/DU/2008/865/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Dla przedsięwzięć i zdarzeń na terenach zamkniętych, w rozumieniu przepisów ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2005 r. Nr 240, poz. 2027](https://api.sejm.gov.pl/eli/acts/DU/2005/2027/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241.](#gloss-0:16:)), decyzję, o której mowa w ust. 5, wydaje regionalny dyrektor ochrony środowiska.
+
+” ;
+
+### 2)
+
+w art. 12 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Posiadacz odpadów wydobywczych informuje właściwy organ o wszelkich zmianach w programie gospodarowania odpadami wydobywczymi w formie pisemnego oświadczenia na temat zmian dokonanych w programie gospodarowania odpadami wydobywczymi.
+
+” ;
+
+### 3)
+
+w art. 40 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+regionalny dyrektor ochrony środowiska - dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html), z późn. zm.[17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241.](#gloss-0:17:)) w art. 131 w ust. 1 dodaje się pkt 11 w brzmieniu:
+
+„
+
+### 11)
+
+wykonywanie zadań, w tym wydawanie decyzji oraz zlecania ekspertyz z zakresu gospodarki odpadami.
+
+” .
+
+### Art. 8.
+
+### 1.
+
+Posiadacz odpadów dotychczas prowadzący działalność w zakresie zbierania:
+
+### 1)
+
+pozostałości z sortowania odpadów komunalnych,
+
+### 2)
+
+komunalnych osadów ściekowych,
+
+### 3)
+
+zakaźnych odpadów medycznych,
+
+### 4)
+
+zakaźnych odpadów weterynaryjnych,
+
+### 5)
+
+odpadów pochodzących z unieszkodliwiania zakaźnych odpadów medycznych lub zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie
+
+- może prowadzić swoją działalność w tym zakresie na podstawie zezwoleń, pozwoleń lub decyzji zatwierdzających program gospodarki odpadami niebezpiecznymi, nie dłużej jednak niż 3 miesiące od dnia wejścia w życie ustawy, o ile wcześniej nie straciły mocy.
+
+### 2.
+
+Zezwolenia, pozwolenia oraz decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi, o których mowa w ust. 1, wygasają w całości lub w części dotyczącej zbierania po upływie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 9.
+
+### 1.
+
+Wytwórca odpadów prowadzący przed dniem wejścia w życie ustawy działalność polegającą na świadczeniu usług w zakresie budowy, rozbiórki, remontu obiektów, czyszczenia zbiorników lub urządzeń oraz sprzątania, konserwacji i napraw, może prowadzić tę działalność w dotychczasowym zakresie do dnia 31 grudnia 2010 r. i jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarki odpadami do dnia 31 grudnia 2010 r.
+
+### 2.
+
+Wydane przed dniem wejścia w życie ustawy wytwórcy odpadów, o którym mowa w ust. 1, decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi zachowują ważność na czas, na jaki zostały wydane, jednak nie dłużej niż do dnia 31 grudnia 2010 r. albo do dnia uzyskania decyzji, o której mowa w ust. 1.
+
+### Art. 10.
+
+### 1.
+
+Posiadacz odpadów, który przed dniem wejścia w życie ustawy prowadził działalność w zakresie unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie odpadów, jest obowiązany dostosować warunki techniczne prowadzenia działalności do przepisów ustawy oraz uzyskać niezbędne decyzje w terminie 12 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Zezwolenia, pozwolenia lub decyzje zatwierdzające program gospodarki odpadami niebezpiecznymi w zakresie dotyczącym unieszkodliwiania zakaźnych odpadów medycznych i zakaźnych odpadów weterynaryjnych innymi metodami niż termiczne przekształcanie odpadów zachowują moc na czas, na jaki zostały wydane, jednak nie dłużej niż 12 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 11.
+
+Z dniem wejścia w życie niniejszej ustawy wygasają decyzje o pozwoleniu na budowę składowiska odpadów wydane na podstawie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279.](#gloss-0:18:)), jeżeli do dnia wejścia w życie niniejszej ustawy nie rozpoczęto budowy tych składowisk.
+
+### Art. 12.
+
+### 1.
+
+Zarządzający składowiskiem odpadów jest obowiązany do dostosowania posiadanych zezwoleń, pozwoleń i decyzji w zakresie gospodarki odpadami, w tym zezwoleń na odzysk na składowisku odpadów oraz decyzji zatwierdzających instrukcję eksploatacji składowiska, do przepisów ustawy w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Jeżeli zarządzający, o którym mowa w ust. 1, nie dostosował posiadanych zezwoleń, pozwoleń i decyzji, o których mowa w ust. 1, te zezwolenia, pozwolenia i decyzje tracą ważność po upływie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 3.
+
+Zarządzający składowiskiem odpadów, który przed dniem wejścia w życie niniejszej ustawy uzyskał decyzję wyrażającą zgodę na zamknięcie składowiska odpadów, może przyjmować odpady do składowania do upływu terminu określonego w decyzji, jednak nie dłużej niż 30 dni od dnia wejścia w życie ustawy.
+
+### 4.
+
+Zarządzający składowiskiem odpadów, który w pozwoleniu na budowę nie ma określonej wysokości i formy zabezpieczenia roszczeń, obowiązany jest do wystąpienia w terminie do 3 miesięcy od dnia wejścia w życie ustawy, z wnioskiem o zmianę pozwolenia na budowę w tym zakresie.
+
+### 5.
+
+Wniosek, o którym mowa w ust. 4, zawiera określenie proponowanej wysokości i formy zabezpieczenia roszczeń.
+
+### 6.
+
+W decyzji zmieniającej decyzję o pozwoleniu na budowę właściwy organ określa wysokość i formę zabezpieczenia roszczeń oraz termin wniesienia zabezpieczenia roszczeń nie dłuższy niż 3 miesiące od dnia otrzymania decyzji.
+
+### 7.
+
+W przypadku składowisk odpadów, które z dniem wejścia w życie przepisów niniejszej ustawy spełniają warunki, o których mowa w art. 54b ust. 1 ustawy, o której mowa w art. 1, właściwy organ wykonuje ekspertyzę, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 13.
+
+W terminie 30 dni od dnia wejścia w życie ustawy wojewodowie przekażą marszałkom województw:
+
+### 1)
+
+rejestry, o których mowa w art. 162 ust. 7 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 2)
+
+informacje o rodzaju, ilości i miejscach występowania substancji stwarzających szczególne zagrożenie dla środowiska, o których mowa w art. 162 ust. 6 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+### Art. 14.
+
+### 1.
+
+W terminie 3 miesięcy od dnia wejścia w życie ustawy wojewodowie, marszałkowie województw i starostowie przekażą właściwym regionalnym dyrektorom ochrony środowiska akta spraw w toczących się postępowaniach administracyjnych dotyczących gospodarki odpadami, w odniesieniu do przedsięwzięć i zdarzeń na terenach zamkniętych.
+
+### 2.
+
+Akta spraw, o których mowa w ust. 1, przekazuje się na podstawie protokołu zdawczo-odbiorczego zawierającego wykaz przekazywanych spraw oraz wykaz przekazywanych dokumentów.
+
+### Art. 15.
+
+### 1.
+
+Do spraw wszczętych, a niezakończonych, prowadzonych na podstawie art. 40 ust. 5 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji w brzmieniu dotychczasowym, stosuje się przepisy niniejszej ustawy.
+
+### 2.
+
+Do wydawania i sporządzania zaświadczeń, o których mowa w art. 29 ustawy zmienianej w art. 4, oraz sporządzania i składania sprawozdań, o których mowa w art. 30 ust. 1 ustawy zmienianej w art. 4, za 2010 r. stosuje się przepisy dotychczasowe.
+
+### Art. 16.
+
+### 1.
+
+Przepisy wykonawcze wydane na podstawie upoważnień określonych w art. 33 ust. 4 i 4a, art. 36 ust. 14, art. 42 ust. 3, art. 55 ust. 3 ustawy, o której mowa w art. 1, art. 290 ust. 2 pkt 2 ustawy, o której mowa w art. 2, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień określonych w art. 33 ust. 4 i 4a, art. 36 ust. 14, art. 42 ust. 3, art. 55 ust. 3 i 3a ustawy, o której mowa w art. 1, art. 290 ust. 2 pkt 2 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Przepisy wykonawcze wydane na podstawie upoważnienia określonego w art. 42 ust. 3 ustawy, o której mowa w ust. 1 w brzmieniu nadanym niniejszą ustawą, powinny być ogłoszone nie później niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 17.
+
+Przepis art. 7 ust. 1 ustawy zmienianej w art. 4 w brzmieniu nadanym niniejszą ustawą stosuje się do materiałów, przedmiotów wyposażenia i części pojazdów wprowadzonych do obrotu po dniu wejścia w życie ustawy, przeznaczonych do stosowania w pojazdach wyprodukowanych od dnia 1 lipca 2003 r.
+
+### Art. 18.
+
+Przepisy art. 2 pkt 5 w zakresie dotyczącym art. 402 ust. 13 i 16 tracą moc z dniem 1 stycznia 2011 r.
+
+### Art. 19.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 26 lit. a, pkt 38 lit. a tiret 1, art. 2 pkt 1 oraz art. 4 pkt 13, 14, 15 i 18, które wchodzą w życie z dniem 1 stycznia 2011 r.;
+
+### 2)
+
+art. 1 pkt 38 lit. a tiret 2, który wchodzi w życie z dniem 1 stycznia 2013 r.
+
+1)
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Wspólnot Europejskich:
+
+### 1)
+
+dyrektywy Rady 75/439/EWG z dnia 16 czerwca 1975 r. w sprawie unieszkodliwiania olejów odpadowych ([Dz. Urz. WE L 194 z 25.07.1975, str. 23](https://api.sejm.gov.pl/eli/acts//text.html), [L 42 z 12.02.1987, str. 43](https://api.sejm.gov.pl/eli/acts//text.html), [L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html), [L 243 z 24.09.1996, str. 31](https://api.sejm.gov.pl/eli/acts//text.html) i [L 332 z 28.12.2000, str. 91](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 14](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+dyrektywy Rady 78/176/EWG z dnia 20 lutego 1978 r. w sprawie odpadów pochodzących z przemysłu ditlenku tytanu ([Dz. Urz. WE L 54 z 25.02.1978, str. 19](https://api.sejm.gov.pl/eli/acts//text.html), [L 378 z 31.12.1982, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 32 z 03.02.1983, str. 28](https://api.sejm.gov.pl/eli/acts//text.html), [L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html) i [L 409 z 31.12.1992, str. 11](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 71](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 3)
+
+dyrektywy Rady 86/278/EWG z dnia 12 czerwca 1986 r. w sprawie ochrony środowiska, w szczególności gleby, w przypadku wykorzystywania osadów ściekowych w rolnictwie ([Dz. Urz. WE L 181 z 04.07.1986, str. 6](https://api.sejm.gov.pl/eli/acts//text.html) i [L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 1, str. 265](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 4)
+
+dyrektywy Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącej oczyszczania ścieków komunalnych ([Dz. Urz. WE L 135 z 30.05.1991, str. 40](https://api.sejm.gov.pl/eli/acts//text.html) i [L 67 z 07.03.1998, str. 29](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 5)
+
+dyrektywy Rady 91/689/EWG z dnia 12 grudnia 1991 r. w sprawie odpadów niebezpiecznych ([Dz. Urz. WE L 377 z 31.12.1991, str. 20](https://api.sejm.gov.pl/eli/acts//text.html) i [L 168 z 02.07.1994, str. 28](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 2, str. 78](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 6)
+
+dyrektywy Parlamentu Europejskiego i Rady 94/62/WE z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych ([Dz. Urz. WE L 365 z 31.12.1994, str. 10](https://api.sejm.gov.pl/eli/acts//text.html), [L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 47 z 18.02.2004, str. 26](https://api.sejm.gov.pl/eli/acts//text.html) i [L 70 z 16.03.2005, str. 17](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 13, t. 13, str. 349](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 7)
+
+dyrektywy Rady 1999/31/WE z dnia 26 kwietnia 1999 r. w sprawie składowania odpadów ([Dz. Urz. WE L 182 z 16.07.1999, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) i [L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 4, str. 228](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 8)
+
+dyrektywy Parlamentu Europejskiego i Rady 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji ([Dz. Urz. WE L 269 z 21.10.2000, str. 34](https://api.sejm.gov.pl/eli/acts//text.html), [L 170 z 29.06.2002, str. 81](https://api.sejm.gov.pl/eli/acts//text.html), [L 25 z 28.01.2005, str. 73](https://api.sejm.gov.pl/eli/acts//text.html), [L 152 z 15.06.2005, str. 19](https://api.sejm.gov.pl/eli/acts//text.html) i [L 254 z 30.09.2005, str. 69](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 5, str. 224](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 9)
+
+dyrektywy Parlamentu Europejskiego i Rady 2000/76/WE z dnia 4 grudnia 2000 r. w sprawie spalania odpadów ([Dz. Urz. WE L 332 z 28.12.2000, str. 91](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 5, str. 353](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 10)
+
+dyrektywy Parlamentu Europejskiego i Rady 2002/96/WE z dnia 27 stycznia 2003 r. w sprawie zużytego sprzętu elektrycznego i elektronicznego (WEEE) ([Dz. Urz. WE L 37 z 13.02.2003, str. 24](https://api.sejm.gov.pl/eli/acts//text.html), [L 345 z 31.12.2003, str. 106](https://api.sejm.gov.pl/eli/acts//text.html) i [L 81 z 20.03.2008, str. 65](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. Polskie wydanie specjalne, rozdz. 15, t. 7, str. 359](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
+
+### 11)
+
+dyrektywy Parlamentu Europejskiego i Rady 2006/12/WE z dnia 5 kwietnia 2006 r. w sprawie odpadów ([Dz. Urz. WE L 114 z 27.04.2006, str. 9](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 12)
+
+dyrektywy Parlamentu Europejskiego i Rady 2006/21/WE z dnia 15 marca 2006 r. w sprawie gospodarowania odpadami pochodzącymi z przemysłu wydobywczego oraz zmieniającej dyrektywę 2004/35/WE ([Dz. Urz. L 102 z 11.04.2006, str. 15](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 13)
+
+dyrektywy Parlamentu Europejskiego i Rady 2006/66/WE z dnia 6 września 2006 r. w sprawie baterii i akumulatorów oraz zużytych baterii i akumulatorów oraz uchylającej dyrektywę 91/157/EWG ([Dz. Urz. WE L 266 z 26.09.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), [L 76 z 19.03.2008, str. 39](https://api.sejm.gov.pl/eli/acts//text.html) i [L 327 z 05.12.2008, str. 7](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 29 czerwca 2007 r. o międzynarodowym przemieszczaniu odpadów, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych oraz ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464 oraz z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539 oraz z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704, z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 168, poz. 1323 i Nr 215, poz. 1664. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651 oraz z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 26, poz. 225, Nr 96, poz. 959, Nr 141, poz. 1492, Nr 273, poz. 2703 i Nr 281, poz. 2778, z 2005 r. Nr 167, poz. 1396, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 49, poz. 328, Nr 82, poz. 557, Nr 102, poz. 691 i Nr 133, poz. 922, z 2008 r. Nr 225, poz. 1486 oraz z 2009 r. Nr 91, poz. 739 i Nr 97, poz. 802. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236 oraz z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574 oraz z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 88, poz. 587, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 223, poz. 1464, z 2009 r. Nr 18, poz. 97 i Nr 79, poz. 666 oraz z 2010 r. Nr 28, poz. 145. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104 i Nr 28, poz. 145. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206, Nr 42, poz. 334, Nr 98, poz. 817 i Nr 157, poz. 1241. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 127, poz. 880, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 160, poz. 1276 i Nr 161, poz. 1279.

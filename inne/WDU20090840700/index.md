@@ -8,11 +8,9 @@ pos: 700
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o inwestycjach zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu
-
-*USTAWA z dnia 24 kwietnia 2009 r.*
+# Ustawa z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu [1) Niniejsza ustawa dokonuje zmiany ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,730 +22,1192 @@ domain: null
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-06-04 |
 | Ostatnia zmiana | 2025-09-10 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090840700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/700/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/700/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/700) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Przygotowanie inwestycji w zakresie terminalu](#chpt_2) [Rozdział 3 - Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie terminalu](#chpt_3) [Rozdział 4 - Udzielanie zamówień na realizację inwestycji w zakresie terminalu](#chpt_4) [Rozdział 5 - Finansowanie inwestycji w zakresie terminalu](#chpt_5) [Rozdział 6 - Postępowanie administracyjne dla realizacji inwestycji w zakresie terminalu](#chpt_6) [Rozdział 7 - Inwestycje towarzyszące inwestycjom w zakresie terminalu](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy](#chpt_8)
 
-1. Ustawa określa zasady przygotowania, realizacji i finansowania inwestycji zakresie terminalu wymaganych ze względu na istotny interes bezpieczeństwa państwa oraz inwestycji towarzyszących.
+TOC
 
-2. Użyte ustawie określenia oznaczają:
+## Treść ustawy
 
-- **1)** terminal – terminal regazyfikacyjny skroplonego gazu ziemnego Świnoujściu wraz z obiektami, urządzeniami, sieciami i instalacjami służącymi do jego budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki, szczególności wraz z obiektami sieci gazowej, sieciami i przyłączami elektroenergetycznymi, wodorowymi, wodociągowymi, kanalizacyjnymi, cieplnymi, telekomunikacyjnymi i teleinformatycznymi, infrastrukturą drogową lub kolejową, nabrzeżami, placami składowymi, obiektami magazynowymi, budynkami produkcyjnymi, montowniami lub wytwórniami;
-- **2)** kataster nieruchomości – kataster rozumieniu ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2024 r. poz. 1151 i 1824 oraz z 2025 r. poz. 1019);
-- **3)** inwestor – podmiot realizujący odpowiednio inwestycję zakresie terminalu lub inwestycję towarzyszącą; (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620, 769, 794, 1165 i 1173);
-- **5)** inwestycje towarzyszące – inwestycje, o których mowa art. 38;
-- **6)** uzbrojenie terenu – urządzenia infrastruktury technicznej, o których mowa art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2024 r. poz. 1145, 1222, 1717 i 1881 oraz z 2025 r. poz. 1077 i 1080) oraz ropociągi;
-- **7)** infrastruktura niezbędna do obsługi – obiekty, urządzenia, sieci i instalacje służące do budowy, przebudowy, remontu, utrzymania, użytkowania, zmiany sposobu użytkowania, eksploatacji lub rozbiórki odpowiednio instalacji służących do poprawy parametrów jakościowych paliw gazowych, gazociągów, rurociągów wodorowych, jednostek kogeneracji, węzłów gazu, tłoczni gazu, instalacji magazynowych gazu, instalacji magazynowych wodoru, przyłączy, stacji regazyfikacji skroplonego gazu ziemnego, jednostek regazyfikacyjnych skroplonego gazu ziemnego, baz bunkrowania i przeładunku skroplonego gazu ziemnego lub budynku dla załóg jednostek pływających Straży Granicznej, o których mowa art. 2 ust. 2 pkt 3 lit. b i c, art. 38 pkt 1 lit. d i e, pkt 2 lit. b–zr oraz pkt 4, 5, 7 i 8, szczególności: obiekty sieci gazowej, sieci i przyłącza elektroenergetyczne, wodorowe, wodociągowe, kanalizacyjne, cieplne, telekomunikacyjne i teleinformatyczne, infrastruktura drogowa lub kolejowa, nabrzeża, place składowe, obiekty magazynowe, budynki produkcyjne, montownie lub wytwórnie.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 2.**
+### Art. 1.
 
-1. Inwestycje zakresie terminalu realizują: Urząd Morski Szczecinie, Zarząd Morskich Portów Szczecin i Świnoujście spółka akcyjna z siedzibą Szczecinie oraz Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie.
+### 1.
 
-2. Inwestycjami zakresie terminalu są następujące zadania inwestycyjne, realizowane przez:
+Ustawa określa zasady przygotowania, realizacji i finansowania inwestycji w zakresie terminalu wymaganych ze względu na istotny interes bezpieczeństwa państwa oraz inwestycji towarzyszących.
 
-- **1)** Urząd Morski Szczecinie:
-    - **a)** budowa infrastruktury zapewniającej dostęp do portu zewnętrznego, tym falochronu, toru wodnego, obrotnicy oraz oznakowania nawigacyjnego związanego z wymienioną infrastrukturą,
+### 2.
 
-- **2)** Zarząd Morskich Portów Szczecin i Świnoujście spółka akcyjna z siedzibą Szczecinie: budowa infrastruktury portowej, tym stanowisk statkowych wyposażonych urządzenia cumownicze, odbojowe i nawigacyjne, a także infrastruktury umożliwiającej zamontowanie instalacji do przesyłu gazu i poboru wody z morza, wraz z urządzeniami do rozładunku, załadunku i bunkrowania statków skroplonym gazem ziemnym;
-- **3)** Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie:
-    - **a)** budowa lub przebudowa terminalu,
-    - **b)** budowa zasilanej paliwem gazowym jednostki kogeneracji Świnoujściu wraz z infrastrukturą niezbędną do jej obsługi,
-    - **c)** budowa gazociągu Świnoujście – Szczecin, łączącego terminal z systemem przesyłowym, wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa zachodniopomorskiego.
+Użyte w ustawie określenia oznaczają:
 
-- **4)** (uchylony)
+### 1)
 
-3. Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie koordynuje przebieg realizacji inwestycji zakresie terminalu, szczególności:
+terminal - terminal regazyfikacyjny skroplonego gazu ziemnego w Świnoujściu wraz z instalacjami, urządzeniami i obiektami niezbędnymi dla jego uruchomienia i funkcjonowania;
 
-- **1)** opracowuje harmonogram przygotowania i realizacji inwestycji zakresie terminalu;
-- **2)** monitoruje i weryfikuje wykonywanie zadań zgodnie z harmonogramem przez podmioty, o których mowa ust. 1;
-- **3)** koordynuje obieg dokumentów i informacji między podmiotami, o których mowa ust. 1;
-- **4)** monitoruje przygotowanie i realizację inwestycji zakresie terminalu i sporządza raporty oraz rekomendacje działań usprawniających proces przygotowania i realizacji inwestycji zakresie terminalu.
+### 2)
 
-4. Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie opracowuje harmonogram, o którym mowa ust. 3 pkt 1, po otrzymaniu od pozostałych podmiotów, o których mowa ust. 1, informacji objętych jego zakresem. Harmonogram staje się wiążący dla podmiotów, o których mowa
+kataster nieruchomości - kataster w rozumieniu ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ([Dz. U. z 2005 r. Nr 240, poz. 2027](https://api.sejm.gov.pl/eli/acts/DU/2005/2027/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206 i Nr 42, poz. 334.](#gloss-0:2:));
 
-5. (uchylony)
+### 3)
 
-6. Podmioty, o których mowa ust. 1, są obowiązane do przekazywania Operatorowi Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie:
+inwestor - podmiot realizujący odpowiednio inwestycję w zakresie terminalu lub inwestycję towarzyszącą;
 
-- **1)** informacji o istotnych zdarzeniach mających wpływ na przygotowanie i realizację inwestycji zakresie terminalu, szczególności mogących mieć wpływ na opóźnienia realizacji harmonogramu, o którym mowa ust. 3 pkt 1;
-- **2)** żądanych przez niego informacji dotyczących przygotowania i realizacji inwestycji zakresie terminalu.
+### 4)
 
-7. Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie jest obowiązany do przekazywania Pełnomocnikowi Rządu do spraw Strategicznej Infrastruktury Energetycznej raportów dotyczących realizacji inwestycji zakresie terminalu.
+roboty budowlane, dostawy, usługi - roboty budowlane, dostawy, usługi w rozumieniu ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2007 r. Nr 223, poz. 1655](https://api.sejm.gov.pl/eli/acts/DU/2007/1655/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101 i Nr 65, poz. 545.](#gloss-0:3:));
 
-**Art. 3.** Nadzór nad zgodnym z zatwierdzonym harmonogramem, o którym mowa art. 2 ust. 3 pkt 1, przygotowaniem i realizacją inwestycji zakresie terminalu sprawuje Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej.
+### 5)
 
-**Art. 4.** Inwestycje zakresie terminalu oraz inwestycje towarzyszące są celami publicznymi rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+inwestycje towarzyszące - inwestycje, o których mowa w art. 38;
 
-#### Rozdział 2 Przygotowanie inwestycji zakresie terminalu
+### 6)
 
-**Art. 5.**
+uzbrojenie terenu - urządzenia infrastruktury technicznej, o których mowa w art. 143 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2004 r. Nr 261, poz. 2603](https://api.sejm.gov.pl/eli/acts/DU/2004/2603/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100 i Nr 42, poz. 335 i 340.](#gloss-0:4:)) oraz ropociągi.
 
-1. Decyzję o ustaleniu lokalizacji inwestycji zakresie terminalu, na wniosek inwestora, wydaje właściwy miejscowo wojewoda. Wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu może odnosić się do całości lub części zadania inwestycyjnego, o którym mowa art. 2 ust. 2.
+### Art. 2.
 
-2. Wojewoda wydaje decyzję, o której mowa ust. 1, odniesieniu do tej części inwestycji zakresie terminalu realizowanej przez danego inwestora, która jest zlokalizowana na obszarze danego województwa. planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+### 1.
 
-4. Wojewoda niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu oraz o wydaniu takiej decyzji.
+Inwestycje w zakresie terminalu realizują: Urząd Morski w Szczecinie, Zarząd Morskich Portów Szczecin i Świnoujście spółka akcyjna z siedzibą w Szczecinie, Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie oraz Polskie LNG spółka z ograniczoną odpowiedzialnością z siedzibą w Świnoujściu.
 
-**Art. 6.**
+### 2.
 
-1. Wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu zawiera:
+Inwestycjami w zakresie terminalu są następujące zadania inwestycyjne, realizowane przez:
 
-- **1)** określenie granic terenu objętego wnioskiem, przedstawionych na kopii aktualnej mapy zasadniczej lub przypadku jej braku na kopii aktualnej mapy ewidencyjnej skali 1:5000 lub większej, tym określenie:
-    - **a)** linii rozgraniczających teren inwestycji zakresie terminalu,
-    - **b)** granic obszaru, stosunku do którego decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 3, 6 i 6a,
-    - **c)** granic obszaru, stosunku do którego decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 24 ust. 1;
+### 1)
 
-- **2)** określenie lokalizacji sztucznych wysp, konstrukcji i urządzeń obszarach morskich Rzeczypospolitej Polskiej oraz kabli i rurociągów, za pomocą współrzędnych geocentrycznych geodezyjnych naniesionych na mapę morską, i ich charakterystyczne parametry techniczne;
-- **3)** określenie zmian dotychczasowym sposobie zagospodarowania i uzbrojeniu terenu;
-- **4)** analizę powiązania inwestycji z uzbrojeniem terenu;
-- **5)** charakterystykę inwestycji, obejmującą:
-    - **a)** określenie zapotrzebowania na wodę, energię oraz sposobu odprowadzania lub oczyszczania ścieków, a także innych potrzeb zakresie uzbrojenia terenu, a razie potrzeby również sposobu zagospodarowywania odpadów,
-    - **b)** określenie planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, tym przeznaczenia i gabarytów projektowanych obiektów budowlanych, przedstawione formie opisowej i graficznej,
+Urząd Morski w Szczecinie:
 
-- **6)** decyzję o środowiskowych uwarunkowaniach wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112, 1881 i 1940), z uwzględnieniem art. 19 – jeżeli jest ona wymagana;
-- **7)** (uchylony)
-- **8)** mapy z projektami podziału nieruchomości, przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami oraz ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne;
-- **9)** wskazanie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 3 i 6;
-- **9a)** wskazanie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 6a;
-- **10)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających nieruchomości wskazane zgodnie z pkt 9 i 9a;
-- **11)** wskazanie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 24 ust. 1, tym gruntów stanowiących własność Skarbu Państwa pokrytych wodami, gruntów stanowiących pas drogowy lub gruntów objętych obszarem kolejowym, jeżeli inwestycja zakresie terminalu wymaga przejścia przez te grunty, oraz gruntów stanowiących pas drogowy, jeżeli inwestycja zakresie terminalu wymaga budowy lub przebudowy zjazdów na tych gruntach; jeżeli inwestycja zakresie terminalu wymaga przejścia przez grunty stanowiące własność Skarbu Państwa pokryte wodami, grunty stanowiące pas drogowy lub grunty objęte obszarem kolejowym, inwestor określa sposób, miejsce i warunki umieszczenia na tych gruntach obiektów lub urządzeń; przypadku gdy inwestycja zakresie terminalu wymaga budowy zjazdów, 11a) wskazanie podmiotów innych niż inwestor, na rzecz których ograniczenie sposobu korzystania z nieruchomości ma nastąpić zgodnie z art. 24 ust. 1a, oraz zgodę tych podmiotów na takie ograniczenie na ich rzecz sposobu korzystania z nieruchomości;
-- **11b)** wskazanie okresu, jakim decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywoływać skutek, o którym mowa art. 24 ust. 1, przypadku gdy ograniczenie sposobu korzystania z nieruchomości, o którym mowa art. 24 ust. 1, ma nastąpić na czas określony;
-- **12)** opinie, o których mowa ust. 3;
-- **13)** (uchylony)
-- **14)** uproszczone wypisy z rejestru gruntów postaci papierowej lub elektronicznej lub inne dokumenty postaci papierowej lub pliku komputerowego sformatowanego zgodnie z obowiązującym standardem wymiany danych ewidencyjnych – wydane z katastru nieruchomości przez organ prowadzący ewidencję gruntów i budynków, zawierające oznaczenie działki ewidencyjnej oraz, o ile zostały ujawnione, numer jej księgi wieczystej, imię i nazwisko albo nazwę oraz adres jej właściciela lub użytkownika wieczystego.
+### a)
 
-2. Nie można uzależniać ustalenia lokalizacji inwestycji zakresie terminalu od zobowiązania inwestora do spełnienia nieprzewidzianych odrębnymi przepisami świadczeń lub warunków.
+budowa infrastruktury zapewniającej dostęp do portu zewnętrznego, w tym falochronu, toru wodnego, obrotnicy oraz oznakowania nawigacyjnego związanego z wymienioną infrastrukturą,
 
-3. Przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu inwestor występuje o opinie:
+### b)
 
-- **1)** ministra właściwego do spraw zdrowia – odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2025 r. poz. 1135);
-- **2)** ministrów właściwych do spraw: aktywów państwowych, gospodarki morskiej, energii, gospodarki surowcami energetycznymi, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, wewnętrznych strukcji i urządzeń obszarach morskich Rzeczypospolitej Polskiej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125 oraz z 2025 r. poz. 409);
-- **2a)** właściwego dyrektora urzędu morskiego oraz ministrów właściwych do spraw: energii, gospodarki surowcami energetycznymi, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – odniesieniu do układania i utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej; przypadku gdy kable lub rurociągi będą przebiegały również na odcinku lądowym, inwestor występuje także o opinię właściwego wójta, burmistrza albo prezydenta miasta;
-- **2b)** ministrów właściwych do spraw: gospodarki morskiej, energii, gospodarki surowcami energetycznymi, gospodarki, klimatu, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych i Ministra Obrony Narodowej – odniesieniu do lokalizacji oraz sposobów utrzymywania kabli lub rurociągów wyłącznej strefie ekonomicznej, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
-- **3)** właściwego dyrektora urzędu morskiego – odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
-- **4)** organu właściwego sprawach terenów zagrożonych osuwaniem się mas ziemnych – odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;
-- **5)** organów właściwych sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych – odniesieniu do gruntów wykorzystywanych na cele rolne i leśne, zgodnie z przepisami ustawy z dnia 3 lutego 1995 r. o ochronie
-- **6)** właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej – odniesieniu do wymagań dotyczących ochrony przeciwpożarowej, szczególności zapewnienia wody do celów przeciwpożarowych i dojazdu dla pojazdów jednostek ochrony przeciwpożarowej oraz wymagań dotyczących lokalizacji inwestycji bezpiecznej odległości od zakładów stwarzających zagrożenie wystąpienia poważnej awarii przemysłowej;
-- **7)** dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe – odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zgodnie z przepisami ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2025 r. poz. 567);
-- **7a)** właściwego organu nadzoru nad gospodarką leśną – odniesieniu do gruntów leśnych innych niż określone pkt 7;
-- **8)** właściwego wojewódzkiego konserwatora zabytków – odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2024 r. poz. 1292 i 1907 oraz z 2025 r. poz. 1168);
-- **9)** właściwego zarządcy drogi – odniesieniu do obszarów pasa drogowego, tym zakresie lokalizacji i parametrów technicznych zjazdów, jeżeli wniosek dotyczy budowy zjazdów, parametrów technicznych zjazdów, jeżeli wniosek dotyczy przebudowy zjazdów, oraz sposobu, miejsca i warunków umieszczenia pasie drogowym obiektów lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, zgodnie z przepisami ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz.
-- **889)** ;
-- **10)** właściwego zarządcy infrastruktury kolejowej lub innego właściwego podmiotu zarządzającego obszarem kolejowym – odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
-- **11)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta); ograniczających zabudowę lub stanowiących przeszkody lotnicze, zgodnie z przepisami ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z późn. zm. );
-- **13)** ministra właściwego do spraw gospodarki morskiej – odniesieniu do nieruchomości, o których mowa art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-- **14)** dyrektora parku narodowego – odniesieniu do obszarów położonych granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2024 r. poz. 1478 i 1940 oraz z 2025 r. poz. 884);
-- **15)** Ministra Obrony Narodowej – odniesieniu do inwestycji mogących oddziaływać na tereny zamknięte niezbędne dla obronności państwa, ustalone na podstawie ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne oraz na ich strefy ochronne, o których mowa ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2024 r. poz. 1130, 1907 i 1940 oraz z 2025 r. poz. 527 i 680);
-- **16)** właściwego podmiotu wykonującego prawa właścicielskie zgodnie z art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami – odniesieniu do sposobu, miejsca i warunków umieszczenia inwestycji na tych gruntach;
-- **17)** właściwego organu nadzoru górniczego – odniesieniu do terenów górniczych rozumieniu art. 6 ust. 1 pkt 15 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290 oraz z 2025 r. poz. 769 i 1023);
-- **18)** ministra właściwego do spraw środowiska – odniesieniu do złóż strategicznych rozumieniu art. 6 ust. 1 pkt 19a ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+poszerzenie istniejącego toru wodnego do Świnoujścia,
 
-4. Właściwy organ wydaje opinię, o której mowa ust. 3, terminie nie dłuższym niż 14 dni od dnia otrzymania wniosku o wydanie opinii. Kopię opinii inwestycji zakresie terminalu.
+### c)
 
-5. Opinie, o których mowa ust. 3, zastępują uzgodnienia, pozwolenia, opinie, zgody bądź stanowiska właściwych organów, wymagane odrębnymi przepisami dla lokalizacji inwestycji.
+przebudowa istniejącego falochronu w Świnoujściu;
 
-**Art. 7.**
+### 2)
 
-1. Decyzję o ustaleniu lokalizacji inwestycji zakresie terminalu wydaje się terminie miesiąca od dnia złożenia wniosku, o którym mowa art. 6 ust. 1. W przypadku niewydania decyzji terminie wskazanym zdaniu pierwszym, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wymierza wojewodzie, drodze postanowienia, co do którego przysługuje wniosek o ponowne rozpatrzenie sprawy, karę wysokości 1000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
+Zarząd Morskich Portów Szczecin i Świnoujście spółka akcyjna z siedzibą w Szczecinie: budowa infrastruktury portowej, w tym stanowiska statkowego wyposażonego w urządzenia cumownicze, odbojowe i nawigacyjne, a także infrastruktury umożliwiającej zamontowanie instalacji do przesyłu gazu i poboru wody z morza;
 
-2. Karę uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 1, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 1, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
+### 3)
 
-3. Do terminu, o którym mowa ust. 1, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony, albo z przyczyn niezależnych od organu.
+Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie: budowa gazociągu Świnoujście-Szczecin, łączącego terminal z systemem przesyłowym, wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa zachodniopomorskiego;
 
-**Art. 8.**
+### 4)
 
-1. Wojewoda zawiadamia o wszczęciu postępowania o ustalenie lokalizacji inwestycji zakresie terminalu:
+Polskie LNG spółka z ograniczoną odpowiedzialnością z siedzibą w Świnoujściu: budowa terminalu.
 
-- **1)** wnioskodawcę, wysyłając zawiadomienie na adres wskazany we wniosku;
-- **2)** właścicieli i użytkowników wieczystych nieruchomości objętych wnioskiem, przy czym zawiadomienia wysyła się na adres określony katastrze nieruchomości ze skutkiem doręczenia;
-- **3)** pozostałe strony, drodze obwieszczenia urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację inwestycji zakresie terminalu, Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu wojewódzkiego, a także prasie o zasięgu ogólnopolskim; postępowania Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu gminy.
+### 3.
 
-1a. W przypadku nieuregulowanego stanu prawnego nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu lub braku katastrze nieruchomości danych pozwalających na ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, do zawiadomienia właściciela lub użytkownika wieczystego o wszczęciu postępowania o ustalenie lokalizacji inwestycji zakresie terminalu, przepis ust. 1 pkt 3 stosuje się odpowiednio.
+Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie koordynuje przebieg realizacji inwestycji w zakresie terminalu, w szczególności:
 
-1b. W zawiadomieniu, o którym mowa ust. 1 pkt 2, oraz obwieszczeniu, o którym mowa ust. 1 pkt 3, zamieszcza się:
+### 1)
 
-- **1)** informację o miejscu, którym strony mogą zapoznać się z aktami sprawy;
-- **2)** pouczenie o obowiązkach nabywcy lub zbywcy, o których mowa ust. 3, oraz skutkach niedopełnienia tych obowiązków, o których mowa ust. 3a.
+opracowuje harmonogram przygotowania i realizacji inwestycji w zakresie terminalu;
 
-1c. W obwieszczeniu, o którym mowa ust. 1 pkt 3, zamieszcza się również oznaczenia nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu według katastru nieruchomości oraz numery ksiąg wieczystych, które zgodnie z danymi zawartymi ich dziale pierwszym są prowadzone dla tych nieruchomości.
+### 2)
 
-2. Z dniem doręczenia zawiadomienia, o którym mowa ust. 1:
+monitoruje wykonywanie zadań zgodnie z harmonogramem przez podmioty, o których mowa w ust. 1;
 
-- **1)** nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, nie mogą być przedmiotem obrotu rozumieniu przepisów o gospodarce nieruchomościami do dnia, którym decyzja ta stała się ostateczna;
-- **2)** odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, do dnia, którym decyzja ta stała się ostateczna, nie wydaje się decyzji o pozwoleniu na budowę; toczące się postępowania ulegają zawieszeniu z mocy prawa do dnia, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna; decyzja ta stała się ostateczna, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy i zagospodarowania terenu rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
-- **4)** odniesieniu do obszarów morskich Rzeczypospolitej Polskiej objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, do dnia, którym decyzja ta stała się ostateczna, zawiesza się postępowania o wydanie:
-    - **a)** pozwolenia na wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń obszarach morskich Rzeczypospolitej Polskiej,
-    - **b)** pozwolenia ustalającego lokalizację i warunki utrzymywania kabli lub rurociągów na obszarach morskich wód wewnętrznych i morza terytorialnego,
-    - **c)** decyzji uzgadniającej lokalizację oraz sposoby utrzymywania kabli lub rurociągów wyłącznej strefie ekonomicznej.
+### 3)
 
-2a. Przepisów ust. 2 pkt 2–4 nie stosuje się do postępowań:
+koordynuje obieg dokumentów i informacji między podmiotami, o których mowa w ust. 1;
 
-- **1)** dotyczących terenów zamkniętych ustanowionych przez Ministra Obrony Narodowej lub innych postępowań prowadzonych na wniosek jednostek podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych lub na rzecz tych jednostek;
-- **2)** sprawie wydania decyzji o warunkach zabudowy i zagospodarowania terenu, decyzji o pozwoleniu na budowę i decyzji oraz pozwoleń, o których mowa ust. 2 pkt 4, wszczętych na wniosek inwestora.
+### 4)
 
-2b. W przypadku, o którym mowa ust. 2 pkt 2, na wniosek strony postępowania, po uzyskaniu zgody inwestora, organ prowadzący postępowanie sprawie wydania decyzji o pozwoleniu na budowę odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu podejmie zawieszone postępowanie.
+monitoruje realizację inwestycji w zakresie terminalu i sporządza raporty oraz rekomenduje działania usprawniające proces realizacji inwestycji w zakresie terminalu.
 
-3. W przypadku gdy po doręczeniu zawiadomienia, o którym mowa ust. 1, nastąpi: terminalu,
+### 4.
 
-- **2)** przeniesienie wskutek innego zdarzenia prawnego własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu – nabywca, a przypadku, o którym mowa pkt 1, nabywca i zbywca, są obowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego.
+Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie opracowuje harmonogram, o którym mowa w ust. 3 pkt 1, po zasięgnięciu opinii pozostałych podmiotów, o których mowa w ust. 1. Harmonogram staje się wiążący dla podmiotów, o których mowa w ust. 1, po zatwierdzeniu przez ministra właściwego do spraw Skarbu Państwa.
 
-3a. Niedokonanie zgłoszenia zgodnie z ust. 3 i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
+### 5.
 
-4. Czynność prawna dokonana z naruszeniem ust. 2 pkt 1 jest nieważna.
+Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie może, na podstawie umowy, powierzyć niezależnemu podmiotowi posiadającemu niezbędną wiedzę i doświadczenie wykonywanie określonych zadań z zakresu koordynacji. Umowę o powierzeniu zadań z zakresu koordynacji Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie zawiera po zasięgnięciu opinii pozostałych podmiotów, o których mowa w ust. 1.
 
-5. (uchylony)
+### 6.
 
-**Art. 9.** W postępowaniu o ustalenie lokalizacji inwestycji zakresie terminalu przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się. W przypadkach określonych art. 97 § 1 pkt 1–3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania. Przepisy art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego stosuje się odpowiednio, z zastrzeżeniem, że organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania postępowaniu do czasu wyznaczenia przedstawiciela lub kuratora przez sąd.
+Podmioty, o których mowa w ust. 1, są zobowiązane do przekazywania Operatorowi Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie albo upoważnionemu podmiotowi, któremu zostały powierzone zadania z zakresu koordynacji, żądanych przez niego informacji dotyczących realizacji inwestycji w zakresie terminalu.
 
-**Art. 10.**
+### 7.
 
-1. Decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu określa i zawiera:
+Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie jest zobowiązana do przekazywania ministrowi właściwemu do spraw Skarbu Państwa, w terminach określonych w zatwierdzonym harmonogramie, o którym mowa w ust. 3 pkt 1, raportów dotyczących realizacji inwestycji w zakresie terminalu.
 
-- **1)** określenie granic terenu objętego inwestycją zakresie terminalu, tym określenie:
-    - **a)** linii rozgraniczających teren inwestycji,
-    - **b)** granic obszaru, stosunku do którego decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 3, 6 i 6a, art. 24 ust. 1;
+### Art. 3.
 
-- **2)** warunki techniczne realizacji inwestycji;
-- **3)** warunki wynikające z potrzeb ochrony środowiska i ochrony zabytków, tym dotyczące przeciwdziałania poważnym awariom przemysłowym;
-- **4)** warunki ochrony przeciwpożarowej dla inwestycji;
-- **5)** wymagania dotyczące ochrony interesów osób trzecich;
-- **6)** zatwierdzenie podziałów nieruchomości, o których mowa art. 20 ust. 1 lub 1a;
-- **7)** oznaczenie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 3 i 6;
-- **7a)** oznaczenie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 20 ust. 6a;
-- **8)** oznaczenie nieruchomości, stosunku do których decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu ma wywołać skutek, o którym mowa art. 24 ust. 1, tym gruntów stanowiących własność Skarbu Państwa pokrytych wodami, gruntów stanowiących pas drogowy lub gruntów objętych obszarem kolejowym, jeżeli inwestycja zakresie terminalu wymaga przejścia przez te grunty, oraz gruntów stanowiących pas drogowy, jeżeli inwestycja zakresie terminalu wymaga budowy lub przebudowy zjazdów na tych gruntach; jeżeli inwestycja zakresie terminalu wymaga przejścia przez grunty stanowiące własność Skarbu Państwa pokryte wodami, grunty stanowiące pas drogowy lub grunty objęte obszarem kolejowym, decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu określa sposób, miejsce i warunki umieszczenia na tych gruntach obiektów lub urządzeń; przypadku gdy inwestycja zakresie terminalu wymaga budowy zjazdów, decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu określa także lokalizację i parametry techniczne zjazdów, a gdy wymaga przebudowy zjazdów – ich parametry techniczne;
-- **8a)** wskazanie podmiotów innych niż inwestor, na rzecz których ograniczenie sposobu korzystania z nieruchomości ma nastąpić zgodnie z art. 24 ust. 1a; gdy ograniczenie sposobu korzystania z nieruchomości, o którym mowa art. 24 ust. 1, ma nastąpić na czas określony;
-- **9)** termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń;
-- **10)** lokalizację sztucznych wysp, konstrukcji i urządzeń obszarach morskich Rzeczypospolitej Polskiej oraz kabli i rurociągów, określoną za pomocą współrzędnych geocentrycznych geodezyjnych, ich charakterystyczne parametry techniczne, szczegółowe warunki i wymagania wynikające z przepisów odrębnych, a szczególności zakresie, o którym mowa art. 23 ust. 3 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej.
-- **11)** (uchylony)
+Nadzór nad zgodnym z zatwierdzonym harmonogramem, o którym mowa w art. 2 ust. 3 pkt 1, przygotowaniem i realizacją inwestycji w zakresie terminalu sprawuje minister właściwy do spraw Skarbu Państwa.
 
-2. Sporządzenie projektu decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu powierza się osobie, o której mowa art. 5 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, albo osobie wpisanej na listę izby samorządu zawodowego architektów posiadającej uprawnienia budowlane do projektowania bez ograniczeń specjalności architektonicznej albo uprawnienia budowlane do projektowania i kierowania robotami budowlanymi bez ograniczeń specjalności architektonicznej.
+### Art. 4.
 
-**Art. 11.**
+Inwestycje w zakresie terminalu oraz inwestycje towarzyszące są celami publicznymi w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-1. Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu lub brak danych katastrze nieruchomości pozwalających na ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o ustalenie lokalizacji inwestycji zakresie terminalu oraz wydania i doręczenia decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu oraz zawiadomienia o jej wydaniu.
+### Rozdział 2 Przygotowanie inwestycji w zakresie terminalu
 
-2. Przez nieuregulowany stan prawny należy rozumieć także sytuację, kiedy dotychczasowy właściciel lub użytkownik wieczysty nieruchomości nie żyje, a spadkobiercy nie wykazali prawa do spadku. drodze obwieszczenia, urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację inwestycji zakresie terminalu, Biuletynie Informacji Publicznej, na stronach podmiotowych urzędów tych gmin oraz urzędu wojewódzkiego, a także prasie o zasięgu ogólnopolskim. Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu zawiadomienie o wydaniu decyzji wysyła się na adres określony katastrze nieruchomości. Doręczenie zawiadomienia na adres wskazany katastrze nieruchomości jest skuteczne.
+### Art. 5.
 
-1a. W przypadku nieuregulowanego stanu prawnego nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu lub braku katastrze nieruchomości danych pozwalających na ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, do zawiadomienia właściciela lub użytkownika wieczystego o decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, przepis ust. 1 zdanie pierwsze stosuje się odpowiednio.
+### 1.
 
-2. Zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu zawiera informację o miejscu, którym strony mogą zapoznać się z treścią decyzji.
+Decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu, na wniosek inwestora, wydaje właściwy miejscowo wojewoda. Wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu może odnosić się do całości lub części zadania inwestycyjnego, o którym mowa w art. 2 ust. 2.
 
-2a. Zawiadomienie, o którym mowa ust. 1 zdanie pierwsze, uważa się za dokonane po upływie 14 dni od dnia, którym nastąpiło obwieszczenie urzędzie wojewódzkim.
+### 2.
 
-2b. Obwieszczenie, o którym mowa ust. 1 zdanie pierwsze, oraz zawiadomienie, o którym mowa ust. 1 zdanie drugie, zawierają również pouczenie o rozpoczęciu biegu terminu do wniesienia odwołania od decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu terminie 14 dni od dnia, którym zawiadomienie, o którym mowa ust. 1 zdanie pierwsze, uważa się za dokonane.
+Wojewoda wydaje decyzję, o której mowa w ust. 1, w odniesieniu do tej części inwestycji w zakresie terminalu realizowanej przez danego inwestora, która jest zlokalizowana na obszarze danego województwa.
 
-3. Przepisy ust. 1–2b stosuje się odpowiednio do doręczenia decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu wydanej przez organ wyższego stopnia i zawiadomienia stron o jej wydaniu.
+### 3.
 
-4. Przepisy ust. 1–2b stosuje się odpowiednio do: wydane toku postępowania sprawie wydania decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu;
+Organem wyższego stopnia w stosunku do wojewody w sprawach lokalizacji inwestycji w zakresie terminalu jest minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
 
-- **2)** zawiadamiania stron o wszczęciu postępowania sprawie uchylenia lub zmiany decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu;
-- **3)** zawiadamiania stron o wznowieniu postępowania sprawie zakończonej ostateczną decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu;
-- **4)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia nieważności decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu;
-- **5)** zawiadamiania stron o wszczęciu postępowania sprawie stwierdzenia wygaśnięcia decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu;
-- **6)** doręczeń decyzji wydanych sprawach, o których mowa pkt 1–5, oraz do zawiadamiania o ich wydaniu;
-- **7)** doręczeń postanowień wydanych toku postępowań sprawach, o których mowa pkt 1–5, od których przysługuje zażalenie lub skarga do sądu administracyjnego, oraz do zawiadamiania o ich wydaniu.
+### 4.
 
-**Art. 12a.** Do decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+Wojewoda niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu oraz o wydaniu takiej decyzji.
 
-**Art. 13.**
+### Art. 6.
 
-1. Przepisy o planowaniu i zagospodarowaniu przestrzennym nie mają zastosowania sprawach określonych niniejszym rozdziale, z wyjątkiem art. 57 ust. 1 i 4 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, które stosuje się do decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu.
+### 1.
 
-1a. W sprawach określonych niniejszym rozdziale nie mają zastosowania przepisy ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2024 r. poz.
+Wniosek o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu zawiera:
 
-- **278)** .
+### 1)
 
-2. Decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu wiąże właściwe organy przy sporządzaniu planu ogólnego gminy oraz miejscowych planów (burmistrzom, prezydentom miasta).
+określenie granic terenu objętego wnioskiem, przedstawionych na kopii mapy zasadniczej lub w przypadku jej braku, na kopii mapy katastralnej, przyjętych do państwowego zasobu geodezyjnego i kartograficznego, obejmujących teren, którego wniosek dotyczy i obszaru, na który ta inwestycja będzie oddziaływać, w skali 1:5000 lub większej;
 
-3. Decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu jest wiążąca dla właściwych organów zakresie wydawania decyzji o warunkach zabudowy i zagospodarowania terenu, pozwolenia na budowę, decyzji o ustaleniu lokalizacji linii kolejowej oraz decyzji o zezwoleniu na realizację inwestycji drogowej.
+### 2)
 
-**Art. 14.**
+określenie lokalizacji sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, jak również podmorskich kabli i rurociągów, za pomocą współrzędnych geograficznych naniesionych na mapę morską;
 
-1. Ostateczna decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stanowi podstawę do dokonywania wpisów księdze wieczystej i katastrze nieruchomości.
+### 3)
 
-1a. Właściwy wojewoda składa wnioski o wpisy, o których mowa ust. 1, terminie 30 dni od dnia, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna.
+określenie zmian w dotychczasowym sposobie zagospodarowania i uzbrojeniu terenu;
 
-1b. Ograniczenie sposobu korzystania z nieruchomości, o którym mowa art. 24 ust. 1, przypadku ustanowienia go na czas określony, wygasa z upływem okresu określonego decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu zgodnie z art. 10 ust. 1 pkt 8b. Wojewoda występuje z wnioskiem o wykreślenie tego ograniczenia z księgi wieczystej terminie 30 dni od dnia jego wygaśnięcia.
+### 4)
 
-2. (uchylony)
+analizę powiązania inwestycji z uzbrojeniem terenu;
 
-**Art. 14a.** Z dniem wydania decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu inwestor jest uprawniony do wystąpienia szczególności o wydanie decyzji o wygaśnięciu trwałego zarządu, o której mowa art. 22 ust. 1, zawarcie porozumienia, o którym mowa art. 25a ust. 1, oraz zawarcie porozumienia, o którym mowa art. 27 ust. 1a.
+### 5)
 
-**Art. 14b.**
+charakterystykę inwestycji, obejmującą:
 
-1. Do inwestycji zakresie terminalu, wobec której została wydana decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu, nie stosuje się przepisów odrębnych ustaw zakresie, jakim uzależniają one przygotowanie lub realizację tej inwestycji lub jej części od uzyskania decyzji administracyjnej lub innego rozstrzygnięcia, chyba że inwestor wystąpi o ich wydanie.
+### a)
 
-2. Przepisu ust. 1 nie stosuje się do:
+określenie zapotrzebowania na wodę, energię oraz sposobu odprowadzania lub oczyszczania ścieków, a także innych potrzeb w zakresie uzbrojenia terenu, a w razie potrzeby również sposobu zagospodarowywania odpadów,
 
-- **1)** zgody wodnoprawnej, o której mowa art. 18 ust. 1;
-- **3)** zezwoleń, o których mowa art. 56 ust. 1, 2, 2b i 2c ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
-- **4)** decyzji o warunkach prowadzenia działań, o której mowa art. 118 ust. 8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody.
+### b)
 
-**Art. 14c.** W przypadku gdy inwestor, przed wydaniem decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, uzyskał decyzję administracyjną lub inne rozstrzygnięcie, o których mowa art. 14b ust. 1, do postępowania sprawie wydania decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, zakresie objętym uzyskaną decyzją administracyjną lub innym rozstrzygnięciem, nie stosuje się przepisów art. 6 ust. 1 pkt 12 i ust. 3 oraz art. 10 ust. 1.
+określenie planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, w tym przeznaczenia i gabarytów projektowanych obiektów budowlanych, przedstawione w formie opisowej i graficznej,
 
-**Art. 15.**
+### c)
 
-1. Pozwolenie na budowę inwestycji zakresie terminalu lub pozwolenie na rozbiórkę tej inwestycji wydaje wojewoda na zasadach i trybie określonych ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), z uwzględnieniem przepisów niniejszej ustawy.
+określenie charakterystycznych parametrów technicznych inwestycji oraz danych charakteryzujących jej wpływ na środowisko;
 
-2. Decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu wiąże wojewodę wydającego pozwolenie na budowę.
+### 6)
 
-3. Pozwolenie na budowę inwestycji zakresie terminalu może zależności od żądania wniosku, obejmować całe zamierzenie budowlane położone na obszarze danego województwa lub jego część.
+decyzję o środowiskowych uwarunkowaniach wydaną zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html) i [Nr 227, poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.html) oraz z [2009 r. Nr 42, poz. 340](https://api.sejm.gov.pl/eli/acts/DU/2009/340/text.html) i [Nr 84, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2009/700/text.html)), z zastrzeżeniem art. 19;
 
-4. Do postępowania sprawie pozwolenia na budowę inwestycji zakresie terminalu lub pozwolenia na rozbiórkę tej inwestycji przepisy art. 7, art. 8 ust. 1–1c, 3 i 3a, art. 9, art. 11 oraz art. 12 stosuje się odpowiednio, z tym że karę, o której mowa art. 7 ust. 1, wymierza Główny Inspektor Nadzoru Budowlanego.
+### 7)
 
-4a. Organem wyższego stopnia stosunku do wojewody sprawach pozwolenia na budowę inwestycji zakresie terminalu lub pozwolenia na rozbiórkę tej inwestycji jest Główny Inspektor Nadzoru Budowlanego.
+pozwolenie wodnoprawne, jeżeli jest ono wymagane;
 
-5. Ilekroć przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji inwestycji zakresie terminalu.
+### 8)
 
-7. Zmiana oznaczenia katastrze nieruchomości, dotycząca nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, dokonana po wydaniu tej decyzji, wynikająca szczególności z podziału nieruchomości, scalenia i podziału nieruchomości, scalenia i wymiany gruntów lub aktualizacji operatu ewidencyjnego, nie stanowi przeszkody do wydania decyzji o pozwoleniu na budowę.
+mapy z projektami podziału nieruchomości, w przypadku konieczności dokonania podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami, z uwzględnieniem wskazań, o których mowa w pkt 9-11;
 
-7a. Niezgodność między oznaczeniem nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu katastrze nieruchomości a oznaczeniem tej nieruchomości decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, wynikająca z zatwierdzenia podziału tej nieruchomości decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, nie stanowi przeszkody do wydania decyzji o pozwoleniu na budowę.
+### 9)
 
-8. (uchylony)
+wskazanie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu ma wywołać skutek, o którym mowa w art. 20 ust. 3;
 
-**Art. 16.**
+### 10)
 
-1. W pozwoleniu na budowę inwestycji zakresie terminalu wojewoda zezwala, zakresie niezbędnym do realizacji inwestycji, na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu. Zezwolenie nie jest wymagane na usunięcie drzew lub krzewów, o których mowa art. 83f ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. Do inwestycji zakresie terminalu nie stosuje się przepisów rozdziału 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, z wyjątkiem art. 84–89 tej ustawy.
+wskazanie ograniczonych praw rzeczowych obciążających nieruchomości wskazane zgodnie z pkt 9;
 
-2. Wniosek o wydanie pozwolenia na budowę inwestycji zakresie terminalu przypadku, o którym mowa ust. 1, dodatkowo zawiera:
+### 11)
 
-- **1)** inwentaryzację znajdujących się na terenie objętym wnioskiem drzew i krzewów, na usunięcie których wymagane jest zezwolenie, z wyszczególnieniem gatunku, obwodu pnia drzewa mierzonego na wysokości 130 cm oraz przeznaczenia i dotychczasowego sposobu wykorzystania terenu, na którym rosną drzewa i krzewy;
-- **2)** plan gospodarki zielenią, jako część projektu zagospodarowania działki lub terenu, którym określa się przyczynę i termin zamierzonego usunięcia poszczególnych drzew lub krzewów, wielkość powierzchni, z której zostaną
+wskazanie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu ma wywołać skutek, o którym mowa w art. 24 ust. 1;
 
-3. Wojewoda może pozwoleniu na budowę inwestycji zakresie terminalu nałożyć obowiązek przesadzenia we wskazane miejsce drzew lub krzewów objętych zezwoleniem na usunięcie lub wykonania nasadzeń zastępczych liczbie nie mniejszej niż liczba usuwanych drzew lub krzewów.
+### 12)
 
-4. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, przypadku inwestycji zakresie terminalu przygotowywanej przez Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie, nie stosuje się przepisów ust. 1–3 oraz przepisów ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków.
+opinie, o których mowa w ust. 3;
 
-**Art. 17.**
+### 13)
 
-1. Pozwolenie na użytkowanie inwestycji zakresie terminalu wydaje właściwy wojewódzki inspektor nadzoru budowlanego na zasadach i trybie uregulowanym ustawie z dnia 7 lipca 1994 r. – Prawo budowlane, z uwzględnieniem przepisów niniejszej ustawy.
+wskazanie gruntów pokrytych powierzchniowymi wodami płynącymi.
 
-2. Do wydania decyzji o pozwoleniu na użytkowanie inwestycji zakresie terminalu art. 7 stosuje się odpowiednio, z tym że karę, o której mowa art. 7 ust. 1, wymierza Główny Inspektor Nadzoru Budowlanego.
+### 2.
 
-3. Organem wyższego stopnia stosunku do wojewódzkiego inspektora nadzoru budowlanego sprawach dotyczących pozwolenia na użytkowanie inwestycji zakresie terminalu jest Główny Inspektor Nadzoru Budowlanego.
+Nie można uzależniać ustalenia lokalizacji inwestycji w zakresie terminalu od zobowiązania inwestora do spełnienia nieprzewidzianych odrębnymi przepisami świadczeń lub warunków.
 
-4. Właściwy wojewódzki inspektor nadzoru budowlanego obowiązany jest przeprowadzić obowiązkową kontrolę przed upływem 14 dni od dnia otrzymania wniosku o wydanie pozwolenia na użytkowanie inwestycji zakresie terminalu. O terminie obowiązkowej kontroli właściwy wojewódzki inspektor nadzoru budowlanego zawiadamia inwestora terminie 7 dni od dnia otrzymania wniosku.
+### 3.
 
-**Art. 18.**
+Przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu inwestor występuje o opinie:
 
-1. Jeżeli realizacja inwestycji zakresie terminalu wymaga zgody wodnoprawnej, zgodę tę wydaje właściwy organ Państwowego Gospodarstwa Wodnego Wody Polskie terminie nie dłuższym niż 30 dni od dnia złożenia wniosku 20 lipca 2017 r. – Prawo wodne.
+### 1)
 
-1a. Zgoda wodnoprawna odniesieniu do inwestycji zakresie terminalu może być udzielona przed złożeniem wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu.
+ministra właściwego do spraw zdrowia - w odniesieniu do inwestycji lokalizowanych na obszarach, którym został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, zgodnie z przepisami ustawy z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych ([Dz. U. Nr 167, poz. 1399](https://api.sejm.gov.pl/eli/acts/DU/2005/1399/text.html), z [2007 r. Nr 133, poz. 921](https://api.sejm.gov.pl/eli/acts/DU/2007/921/text.html) oraz z [2009 r. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html));
 
-1b. Do uzyskania zgody wodnoprawnej nie jest wymagane dysponowanie przez inwestora tytułem prawnym do korzystania z nieruchomości usytuowanych zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych, lub na których wykonywane będą czynności, roboty lub urządzenia wodne.
+### 2)
 
-2. Stan prawny nieruchomości, o których mowa art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, oraz siedziby i adresy właścicieli i użytkowników wieczystych ustala się według katastru nieruchomości. Przepisy art. 8 ust. 1–1c, art. 11 i art. 12 stosuje się odpowiednio.
+ministrów właściwych do spraw gospodarki morskiej, gospodarki, kultury i dziedzictwa narodowego, rybołówstwa, spraw wewnętrznych oraz Ministra Obrony Narodowej - w odniesieniu do wznoszenia i wykorzystywania sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. z 2003 r. Nr 153, poz. 1502](https://api.sejm.gov.pl/eli/acts/DU/2003/1502/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 171, poz. 1055.](#gloss-0:5:));
 
-2a. Przepis art. 401 ust. 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne ma zastosowanie również tych postępowaniach, których liczba stron nie przekracza
+### 3)
 
-10.
+dyrektora właściwego urzędu morskiego - w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 
-2b. W sprawach określonych ust. 1, stosunku do:
+### 4)
 
-- **1)** wnioskodawcy, stosuje się odpowiednio przepis art. 8 ust. 1 pkt 1;
-- **2)** właściciela wody, stosuje się odpowiednio przepisy art. 8 ust. 1 pkt 2 i ust. 1a oraz art. 12.
+właściwego organu administracji geologicznej - w odniesieniu do terenów zagrożonych osuwaniem się mas ziemnych;
 
-3. W przypadku niewydania decyzji terminie, o którym mowa ust. 1, minister właściwy do spraw gospodarki wodnej wymierza Państwowemu Gospodarstwu Wodnemu Wody Polskie, drodze postanowienia, na które przysługuje zażalenie, karę wysokości 1000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
+### 5)
 
-4. Karę uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 3, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 3, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji. postępowania oraz okresów opóźnień spowodowanych z winy strony, albo z przyczyn niezależnych od organu.
+organów właściwych w sprawach ochrony gruntów rolnych i leśnych oraz melioracji wodnych - w odniesieniu do gruntów wykorzystywanych na cele rolne i leśne, w rozumieniu przepisów o gospodarce nieruchomościami, zgodnie z ustawą z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych ([Dz. U. z 2004 r. Nr 121, poz. 1266](https://api.sejm.gov.pl/eli/acts/DU/2004/1266/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3.](#gloss-0:6:)) oraz zgodnie z ustawą z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2005 r. Nr 239, poz. 2019](https://api.sejm.gov.pl/eli/acts/DU/2005/2019/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704 oraz z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505.](#gloss-0:7:));
 
-**Art. 19.**
+### 6)
 
-1. Wydanie decyzji o środowiskowych uwarunkowaniach realizacji inwestycji zakresie terminalu następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, z uwzględnieniem przepisów niniejszej ustawy.
+właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej - w odniesieniu do inwestycji podlegającej przepisom ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ([Dz. U. z 2002 r. Nr 147, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2002/1229/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59.](#gloss-0:8:)) oraz ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106 i Nr 79, poz. 666.](#gloss-0:9:));
 
-2. Organ właściwy do wydania decyzji, o której mowa ust. 1, niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach oraz o wydaniu takiej decyzji.
+### 7)
 
-3. Termin wydania decyzji, o której mowa ust. 1, wynosi 60 dni od dnia złożenia wniosku.
+dyrektora właściwej regionalnej dyrekcji Państwowego Gospodarstwa Leśnego Lasy Państwowe - w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe zgodnie z ustawą z dnia 28 września 1991 r. o lasach ([Dz. U. z 2005 r. Nr 45, poz. 435](https://api.sejm.gov.pl/eli/acts/DU/2005/435/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 340 i Nr 69, poz. 595.](#gloss-0:10:));
 
-3a. Termin rozpatrzenia przez organ wyższego stopnia odwołania od decyzji, o której mowa ust. 1, wynosi 60 dni od dnia otrzymania odwołania.
+### 8)
 
-4. Do terminów, o których mowa ust. 3 i 3a, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, szczególności ramach postępowania sprawie transgranicznego oddziaływania na środowisko, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+właściwego wojewódzkiego konserwatora zabytków - w odniesieniu do zabytków chronionych na podstawie przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ([Dz. U. Nr 162, poz. 1568](https://api.sejm.gov.pl/eli/acts/DU/2003/1568/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206.](#gloss-0:11:));
 
-5. Organ właściwy do:
+### 9)
 
-- **1)** wydania decyzji, o której mowa ust. 1, niezwłocznie po jej wydaniu przekazuje jej kopię ministrowi właściwemu do spraw transportu;
-- **2)** rozpatrzenia odwołania od decyzji, o której mowa ust. 1, niezwłocznie przekazuje ministrowi właściwemu do spraw transportu kopię decyzji wydanej wyniku rozpatrzenia tego odwołania.
+właściwego zarządcy drogi - w odniesieniu do obszarów pasa drogowego zgodnie z przepisami ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2007 r. Nr 19, poz. 115](https://api.sejm.gov.pl/eli/acts/DU/2007/115/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101.](#gloss-0:12:));
 
-6. O każdym przypadku niewydania terminie decyzji, o której mowa ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, ministra właściwego do spraw środowiska, Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej oraz Generalnego Dyrektora Ochrony Środowiska, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy. postępowania, ministra właściwego do spraw środowiska oraz Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+### 10)
 
-8. W przypadku niewydania decyzji, o której mowa ust. 1, terminie określonym ust. 3, z uwzględnieniem ust. 4, Generalny Dyrektor Ochrony Środowiska wymierza organowi właściwemu do wydania decyzji, drodze postanowienia, co do którego przysługuje wniosek o ponowne rozpatrzenie sprawy, karę wysokości 1000 zł za każdy dzień zwłoki.
+właściwego zarządcy terenów kolejowych - w odniesieniu do obszarów kolejowych, zgodnie z przepisami ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2007 r. Nr 16, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2007/94/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97 i Nr 19, poz. 100.](#gloss-0:13:));
 
-9. W przypadku nierozpatrzenia przez organ wyższego stopnia odwołania od decyzji, o której mowa ust. 1, terminie określonym ust. 3a, z uwzględnieniem ust. 4, minister właściwy do spraw środowiska wymierza organowi wyższego stopnia, drodze postanowienia, co do którego przysługuje wniosek o ponowne rozpatrzenie sprawy, karę wysokości 1000 zł za każdy dzień zwłoki.
+### 11)
 
-10. Karę uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 8 albo 9, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 8 albo 9, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
+właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta);
 
-11. Wpływy z kar, o których mowa ust. 8 i 9, stanowią dochód budżetu państwa.
+### 12)
 
-**Art. 19a.**
+Prezesa Urzędu Lotnictwa Cywilnego - w odniesieniu do obiektów budowanych w otoczeniu lotnisk lub stanowiących przeszkody lotnicze w rozumieniu przepisów ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze ([Dz. U. z 2006 r. Nr 100, poz. 696](https://api.sejm.gov.pl/eli/acts/DU/2006/696/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829, z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558, z 2008 r. Nr 97, poz. 625, Nr 144, poz. 901, Nr 177, poz. 1095, Nr 180, poz. 1113 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 340.](#gloss-0:14:));
 
-1. Jeżeli do przeprowadzenia pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko dla inwestycji zakresie terminalu, o których mowa ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub do przeprowadzenia prac niezbędnych do sporządzenia wniosku o wydanie decyzji, o których mowa art. 5 ust. 1, art. 15 ust. 1, art. 19 ust. 1 lub art. 19e ust. 1, lub dokonania zgłoszenia, o którym mowa art. 19f ust. 1, polegających szczególności na wykonaniu badań archeologicznych, geologicznych, hydrogeologicznych lub określeniu geotechnicznych warunków posadowienia obiektu, konieczne jest wejście na teren cudzej nieruchomości, inwestor może wystąpić z wnioskiem do właściwego
+### 13)
 
-2. Przed wystąpieniem z wnioskiem o wydanie decyzji o zezwoleniu, o której mowa ust. 1, inwestor jest obowiązany wystąpić do właściciela lub użytkownika wieczystego nieruchomości o zgodę na wejście na teren tej nieruchomości oraz uzgodnić z nim przewidywany sposób, zakres i terminy korzystania z nieruchomości.
+ministra właściwego do spraw Skarbu Państwa -w odniesieniu do nieruchomości, o których mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich ([Dz. U. z 2002 r. Nr 110, poz. 967](https://api.sejm.gov.pl/eli/acts/DU/2002/967/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 166, poz. 1361 i Nr 200, poz. 1683 oraz z 2004 r. Nr 169, poz. 1766 i Nr 281, poz. 2782.](#gloss-0:15:));
 
-2a. Przed wystąpieniem z wnioskiem o wydanie decyzji o zezwoleniu, o której mowa ust. 1, inwestor jest obowiązany wystąpić o zgodę na wejście na teren nieruchomości oraz uzgodnić przewidywany sposób, zakres i terminy korzystania z nieruchomości z właściwym:
+### 14)
 
-- **1)** zarządcą drogi – przypadku gruntów stanowiących pas drogowy;
-- **2)** zarządcą infrastruktury kolejowej lub innym podmiotem zarządzającym obszarem kolejowym – przypadku gruntów objętych obszarem kolejowym;
-- **3)** zarządzającym lotniskiem – przypadku lotnisk użytku publicznego.
+dyrektora parku narodowego - w odniesieniu do obszarów położonych w granicach parku i jego otuliny, zgodnie z ustawą z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. Nr 92, poz. 880](https://api.sejm.gov.pl/eli/acts/DU/2004/880/text.html), z późn. zm.[16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2007 r. Nr 75, poz. 493, Nr 176, poz. 1238 i Nr 181, poz. 1286, z 2008 r. Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 201, poz. 1237 oraz z 2009 r. Nr 18, poz. 97.](#gloss-0:16:)).
 
-3. W przypadku nieuzyskania zgody, o której mowa ust. 2 albo 2a, terminie 30 dni od dnia otrzymania odpowiednio przez właściciela, użytkownika wieczystego nieruchomości, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym albo właściwego zarządzającego lotniskiem wystąpienia inwestora o taką zgodę, wojewoda wydaje decyzję o zezwoleniu, o której mowa ust. 1.
+### 4.
 
-4. Wniosek o wydanie decyzji o zezwoleniu, o której mowa ust. 1, zawiera:
+Właściwy organ wydaje opinię, o której mowa w ust. 3, w terminie nie dłuższym niż 14 dni od dnia otrzymania wniosku o wydanie opinii. Kopię opinii właściwy organ przekazuje wojewodzie. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-- **1)** ogólną charakterystykę planowanej inwestycji zakresie terminalu;
-- **2)** określenie granic terenu objętego wnioskiem;
-- **3)** oznaczenie nieruchomości, na które wejście jest konieczne celu sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko, lub wniosku o wydanie decyzji, o których mowa art. 5 ust. 1, art. 15 ust. 1, art. 19 ust. 1 lub art. 19e ust. 1, lub dokonania zgłoszenia, o którym mowa art. 19f ust. 1;
-- **4)** wskazanie pomiarów, badań lub innych prac, które mają być przeprowadzone przez inwestora;
-- **5)** oświadczenie inwestora o braku zgody, o której mowa ust. 2 albo 2a.
+### 5.
 
-5. Decyzja o zezwoleniu, o której mowa ust. 1, określa sposób, zakres i terminy korzystania z nieruchomości. ustalenie danych osobowych, szczególności adresu zamieszkania, właściciela lub użytkownika wieczystego nieruchomości, o której mowa ust. 1, przepisów ust. 2 i ust. 4 pkt 5 nie stosuje się, a wojewoda wydaje decyzję o zezwoleniu, o której mowa ust. 1, terminie 30 dni od dnia złożenia wniosku przez inwestora.
+Opinie, o których mowa w ust. 3, zastępują uzgodnienia, pozwolenia, opinie, zgody bądź stanowiska właściwych organów, wymagane odrębnymi przepisami dla lokalizacji inwestycji.
 
-7. Sposób, zakres i terminy korzystania z nieruchomości uzgodnione na podstawie ust. 2 albo 2a albo określone decyzji o zezwoleniu, o której mowa ust. 1, nie mogą powodować:
+### Art. 7.
 
-- **1)** zagrożenia bezpieczeństwa ruchu drogowego, kolejowego lub lotniczego;
-- **2)** wstrzymania ruchu kolejowego lub lotniczego;
-- **3)** zamknięcia dróg publicznych, chyba że istnieje możliwość zorganizowania objazdów;
-- **4)** zamknięcia śródlądowych dróg wodnych;
-- **5)** negatywnego wpływu na działanie urządzeń lotniczych.
+### 1.
 
-**Art. 19b.**
+Decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu wydaje się w terminie miesiąca od dnia złożenia wniosku, o którym mowa w art. 6 ust. 1. W przypadku niewydania decyzji w terminie wskazanym w zdaniu pierwszym, minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej wymierza wojewodzie, w drodze postanowienia, co do którego przysługuje wniosek o ponowne rozpatrzenie sprawy, karę w wysokości 1 000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
 
-1. Do postępowania sprawie wydania decyzji o zezwoleniu, o której mowa art. 19a ust. 1, przepisy art. 5 ust. 3 i 4, art. 7, art. 8 ust. 1–1c, 3 i 3a, art. 9, art. 11 oraz art. 12 stosuje się odpowiednio.
+### 2.
 
-2. Decyzję o zezwoleniu, o której mowa art. 19a ust. 1, wydaje się na czas określony, nie dłuższy niż 3 lata.
+Karę uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 1. W przypadku nieuiszczenia kary, o której mowa w ust. 1, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 19c.**
+### 3.
 
-1. Inwestor po zakończeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia karty informacyjnej przedsięwzięcia lub raportu o oddziaływaniu przedsięwzięcia na środowisko dla inwestycji zakresie terminalu, o których mowa ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub po przeprowadzeniu prac niezbędnych do sporządzenia wniosku o wydanie decyzji, o których mowa art. 5 ust. 1, art. 15 ust. 1, art. 19 ust. 1 lub art. 19e ust. 1, lub dokonania zgłoszenia, o którym mowa art. 19f ust. 1, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje odszkodowanie. zawartego z wojewodą, pokrywa koszty ustalenia wysokości odszkodowań.
+Do terminu, o którym mowa w ust. 1, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony, albo z przyczyn niezależnych od organu.
 
-3. Odszkodowanie powinno odpowiadać wartości poniesionych szkód. Jeżeli wskutek poniesionych szkód zmniejszy się wartość nieruchomości, odszkodowaniu uwzględnia się kwotę odpowiadającą temu zmniejszeniu.
+### Art. 8.
 
-4. Do określenia wysokości odszkodowania przepisy art. 130, art. 134 i art. 135 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio.
+### 1.
 
-**Art. 19d.** Do wydania warunków przyłączenia do sieci, o których mowa art. 7 ust. 3a ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2024 r. poz. 266, z późn. zm. ), nie jest wymagane posiadanie przez inwestora tytułu prawnego do korzystania z nieruchomości, do których paliwa gazowe lub energia mają być dostarczane. Przepisu art. 7 ust. 8d ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne nie stosuje się.
+Wojewoda zawiadamia o wszczęciu postępowania o ustalenie lokalizacji inwestycji w zakresie terminalu:
 
-**Art. 19e.**
+### 1)
 
-1. Decyzja o zatwierdzeniu projektu robót geologicznych, o której mowa art. 80 ust. 1 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, dla inwestycji zakresie terminalu jest wydawana na zasadach i trybie określonych ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, z uwzględnieniem przepisów niniejszej ustawy.
+wnioskodawcę;
 
-2. Do decyzji, o której mowa ust. 1, przepisy art. 8 ust. 1–1c, 3 i 3a, art. 9, art. 11 oraz art. 12 stosuje się odpowiednio.
+### 2)
 
-**Art. 19f.**
+właścicieli i użytkowników wieczystych nieruchomości objętych wnioskiem, przy czym zawiadomienia wysyła się na adres określony w katastrze nieruchomości ze skutkiem doręczenia;
 
-1. Zgłoszenie dotyczące robót budowlanych, o których mowa art. 29 ust. 1 i 3 i art. 31 ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, zakresie inwestycji zakresie terminalu dokonywane jest organowi administracji architektoniczno-budowlanej na zasadach i trybie określonych ustawie z dnia 7 lipca 1994 r. – Prawo budowlane, z uwzględnieniem przepisów niniejszej ustawy.
+### 3)
 
-2. W sprawach zgłoszenia, o którym mowa ust. 1, właściwym organem administracji architektoniczno-budowlanej jest wojewoda.
+pozostałe strony, w drodze obwieszczenia w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację inwestycji w zakresie terminalu, na stronach internetowych urzędu wojewódzkiego, a także w prasie o zasięgu ogólnopolskim; w obwieszczeniu zamieszcza się oznaczenia nieruchomości objętych wnioskiem, według katastru nieruchomości oraz księgi wieczystej, a także informację o miejscu, w którym strony mogą zapoznać się z aktami sprawy;
 
-#### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji zakresie terminalu
+### 4)
 
-**Art. 20.**
+właściwe miejscowo organy w sprawach, o których mowa w ust. 2 pkt 2-4, przy czym wójt (burmistrz, prezydent miasta) niezwłocznie ogłasza o wszczęciu postępowania na stronach internetowych gminy.
 
-1. Decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu zatwierdza się podział nieruchomości. Mapy z projektami podziału nieruchomości stanowią integralną część decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu.
+### 2.
 
-1a. W zakresie wskazanym przez inwestora we wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu zatwierdza się również podziały nieruchomości znajdujących się liniach rozgraniczających teren inwestycji zakresie terminalu, wobec których ta decyzja nie wywołuje skutków, o których mowa ust. 3, 6 lub 6a.
+Z dniem doręczenia zawiadomienia, o którym mowa w ust. 1:
 
-1b. Podziały nieruchomości, o których mowa ust. 1 i 1a, nie mogą dotyczyć:
+### 1)
 
-- **1)** gruntów stanowiących pas drogowy;
-- **2)** nieruchomości zajętych pod lotniska użytku publicznego;
-- **3)** nieruchomości określonych wykazie nieruchomości, o którym mowa art. 40 ust. 2 pkt 9 i 10 ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. z 2024 r. poz. 1747);
-- **4)** nieruchomości oznaczonych decyzji o zezwoleniu na realizację inwestycji zakresie lotniska użytku publicznego zgodnie z art. 8 ust. 2 ustawy z dnia 12 lutego 2009 r. o szczególnych zasadach przygotowania i realizacji inwestycji zakresie lotnisk użytku publicznego (Dz. U. z 2024 r. poz. 1464).
+nieruchomości stanowiące własność Skarbu Państwa lub jednostki samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, nie mogą być przedmiotem obrotu w rozumieniu przepisów o gospodarce nieruchomościami;
 
-2. Linie rozgraniczające teren inwestycji ustalone decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu stanowią linie podziału nieruchomości zakresie, jakim inwestor wystąpił o zatwierdzenie podziału nieruchomości, przedstawiając mapy, o których mowa art. 6 ust. 1 pkt 8.
+### 2)
 
-3. Nieruchomości znajdujące się liniach rozgraniczających teren inwestycji zakresie oznaczonym decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu zgodnie z art. 10 ust. 1 pkt 7, stają się z mocy prawa własnością Skarbu
+w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu do czasu wydania takiej decyzji, nie wydaje się decyzji o pozwoleniu na budowę, decyzji o zezwoleniu na realizację inwestycji drogowej lub decyzji o zezwoleniu na realizację inwestycji w zakresie lotniska użytku publicznego; toczące się postępowania ulegają zawieszeniu z mocy prawa do czasu wydania decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu;
 
-4. Jeżeli nieruchomości, o których mowa ust. 3 lub 6a, lub prawa użytkowania wieczystego tych nieruchomości są obciążone ograniczonymi prawami rzeczowymi, z dniem, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna, prawa te wygasają za odszkodowaniem.
+### 3)
 
-5. W przypadku gdy nieruchomość podlegająca podziałowi zgodnie z ust. 1 lub 1a jest obciążona hipoteką, hipoteka wygasa wyłącznie stosunku do części nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu.
+w odniesieniu do nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, do czasu wydania takiej decyzji, zawiesza się postępowania o wydanie decyzji o warunkach zabudowy lub decyzji o ustaleniu lokalizacji inwestycji celu publicznego w rozumieniu ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635 oraz z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413.](#gloss-0:17:));
 
-6. Z zastrzeżeniem ust. 7, inwestor nabywa z mocy prawa z dniem, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna, prawo użytkowania wieczystego nieruchomości gruntowych, określonych ust. 3, oraz prawo własności budynków, innych urządzeń trwale z gruntem związanych i lokali znajdujących się na tych nieruchomościach.
+### 4)
 
-6a. Z wyjątkiem ust. 7, inwestor nabywa z mocy prawa z dniem, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna, prawo użytkowania wieczystego nieruchomości gruntowych należących dniu złożenia wniosku o wydanie decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu do Skarbu Państwa, znajdujących się liniach rozgraniczających teren inwestycji zakresie oznaczonym tej decyzji zgodnie z art. 10 ust. 1 pkt 7a, oraz prawo własności budynków, innych urządzeń trwale z gruntem związanych i lokali znajdujących się na tych nieruchomościach.
+w odniesieniu do obszarów morskich Rzeczypospolitej Polskiej objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, do czasu wydania takiej decyzji, zawiesza się postępowania o wydanie pozwolenia na wznoszenie i wykorzystywanie sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich.
 
-7. W przypadku inwestycji, o których mowa art. 2 ust. 2 pkt 1, z dniem, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna, ustanawia się trwały zarząd nieruchomości na czas nieoznaczony, na rzecz Urzędu Morskiego Szczecinie.
+### 3.
 
-8. Nabycie prawa użytkowania wieczystego, prawa własności budynków, innych urządzeń trwale z gruntem związanych i lokali oraz ustanowienie trwałego zarządu stwierdza wojewoda drodze decyzji.
+W przypadku zbycia własności lub prawa użytkowania wieczystego nieruchomości objętej wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, po doręczeniu zawiadomienia, o którym mowa w ust. 1, nabywca i zbywca są zobowiązani do zgłoszenia właściwemu wojewodzie danych nowego właściciela lub użytkownika wieczystego. Brak dokonania powyższego zgłoszenia i prowadzenie postępowania bez udziału nowego właściciela lub użytkownika wieczystego nie stanowi podstawy do wznowienia postępowania.
 
-8a. Nieruchomości, o których mowa ust. 3, do czasu rozbiórki inwestycji zakresie terminalu są zwolnione od opłat z tytułu użytkowania wieczystego. Od inwestora nie pobiera się pierwszej opłaty i opłat rocznych z tytułu nabycia prawa nieruchomościach następuje nieodpłatnie.
+### 4.
 
-8b. Nieruchomości, o których mowa ust. 3, do czasu rozbiórki inwestycji zakresie terminalu są zwolnione od opłat z tytułu trwałego zarządu. Od inwestora nie pobiera się opłat rocznych z tytułu ustanowienia trwałego zarządu tych nieruchomości.
+Czynność prawna dokonana z naruszeniem ust. 2 pkt 1 jest nieważna. Przepis ust. 2 pkt 2-4 nie dotyczy postępowań, których stroną są inni inwestorzy realizujący inwestycję w zakresie terminalu na danej nieruchomości.
 
-9. Opłaty z tytułu ustanowienia użytkowania wieczystego nieruchomości, o których mowa ust. 6a, oraz opłaty z tytułu trwałego zarządu tymi nieruchomościami są naliczane i nakładane zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+### 5.
 
-10. W decyzji, o której mowa ust. 8, ustala się odpowiednio:
+Wojewoda niezwłocznie składa wniosek do właściwego sądu o ujawnienie w księdze wieczystej wszczęcia postępowania w sprawie ustalenia lokalizacji inwestycji w zakresie terminalu, a jeżeli nieruchomość nie ma założonej księgi wieczystej - o złożenie do istniejącego zbioru dokumentów zawiadomienia o wszczęciu tego postępowania.
 
-- **1)** warunki użytkowania wieczystego, z zachowaniem zasad określonych art. 62 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami i art. 236 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172);
-- **2)** kwotę należną za nabycie prawa własności budynków, innych urządzeń trwale z gruntem związanych i lokali znajdujących się na nieruchomościach, o ile nabycie następuje odpłatnie;
-- **3)** warunki trwałego zarządu, z zachowaniem zasad określonych art. 45 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+### Art. 9.
 
-11. W stosunku do nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, nie stosuje się art. 4 i 4a ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich oraz art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+W postępowaniu o ustalenie lokalizacji inwestycji w zakresie terminalu przepisu art. 31 § 4 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.](#gloss-0:18:)), zwanej dalej „ Kodeksem postępowania administracyjnego”, nie stosuje się. W przypadkach określonych w art. 97 § 1 pkt 1-3 Kodeksu postępowania administracyjnego nie zawiesza się postępowania. Przepisy art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego stosuje się odpowiednio, z zastrzeżeniem, że organ prowadzący postępowanie wyznacza z urzędu przedstawiciela uprawnionego do działania w postępowaniu do czasu wyznaczenia przedstawiciela lub kuratora przez sąd.
 
-12. Jeżeli przeznaczona na inwestycję zakresie terminalu nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, zakresie wskazanym decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, użytkowanie to wygasa za odszkodowaniem, z dniem, którym decyzja o ustaleniu inwestycji zakresie terminalu stała się ostateczna. nieruchomościami, z zastrzeżeniem art. 23 i 24.
+### Art. 10.
 
-14. Z dniem wydania decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu inwestor uzyskuje prawo do dysponowania nieruchomościami, o których mowa ust. 3 i 6a oraz art. 24 ust. 1, na cele budowlane niezbędne do realizacji i eksploatacji inwestycji zakresie terminalu.
+### 1.
 
-**Art. 21.** Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu stosuje się przepisy o postępowaniu egzekucyjnym administracji.
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu określa i zawiera:
 
-**Art. 22.**
+### 1)
 
-1. Decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomościach oznaczonych treści decyzji zgodnie z art. 10 ust. 1 pkt 7 i 7a, przeznaczonych na inwestycję zakresie terminalu, lub zarządu odniesieniu do gruntów zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, z wyłączeniem nieruchomości położonych na terenie parków narodowych.
+określenie terenu objętego inwestycją w zakresie terminalu, w tym linii rozgraniczających teren inwestycji;
 
-2. Jeżeli przeznaczona na inwestycję zakresie terminalu nieruchomość oznaczona treści decyzji zgodnie z art. 10 ust. 1 pkt 7 i 7a została uprzednio wydzierżawiona, wynajęta lub użyczona, dzierżawa, najem lub użyczenie wygasają z upływem miesiąca od dnia, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna. Za straty poniesione na skutek wygaśnięcia umowy przysługuje odszkodowanie od inwestora.
+### 2)
 
-**Art. 23.**
+warunki techniczne realizacji inwestycji;
 
-1. Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe do nieruchomości, o których mowa art. 20 ust. 3, 4 i 12, przysługuje odszkodowanie wysokości uzgodnionej między wojewodą, a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości. Uzgodnienia dokonuje się formie pisemnej pod rygorem nieważności.
+### 3)
 
-2. Jeżeli terminie 2 miesięcy od dnia, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu stała się ostateczna, nie dojdzie do uzgodnienia,
+warunki wynikające z potrzeb ochrony środowiska i ochrony zabytków, w tym dotyczące przeciwdziałania poważnym awariom przemysłowym;
 
-3. Wysokość odszkodowania, o którym mowa ust. 1 i 2, ustala się na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego, według stanu nieruchomości dniu wydania decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu przez organ pierwszej instancji oraz według jej wartości dniu uzgodnienia, o którym mowa ust. 1, albo dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
+### 4)
 
-4. W przypadku, o którym mowa art. 20 ust. 4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości odszkodowania ustalonego z tytułu wygaśnięcia ograniczonych praw rzeczowych.
+warunki ochrony przeciwpożarowej dla inwestycji;
 
-5. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, z wyłączeniem kwot, o których mowa ust. 8 i 9, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego. Roszczenia osób uprawnionych z tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw, ustalonego zgodnie z odrębnymi przepisami.
+### 5)
 
-6. Jeżeli na nieruchomościach, o których mowa art. 20 ust. 3 lub 6a, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, zakresie, jakim wierzytelność ta nie wygasła, wraz z odsetkami zabezpieczonymi tą hipoteką obliczonymi na dzień spłaty wierzyciela hipotecznego. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami.
+wymagania dotyczące ochrony interesów osób trzecich;
 
-7. Odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych wysokości ustalonej zgodnie z ust. 3, wypłaca się osobom, którym te prawa przysługiwały. nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 28 dni od dnia otrzymania od inwestora wezwania do wydania nieruchomości, to wysokość odszkodowania powiększa się o kwotę równą 5 % wartości nieruchomości lub wartości prawa użytkowania wieczystego, określonej operacie, o którym mowa ust. 3.
+### 6)
 
-9. W przypadku gdy decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu tej nieruchomości, zamieszkałemu tym budynku albo lokalu powiększa się o kwotę 10 000 zł odniesieniu do tej nieruchomości.
+zatwierdzenie podziału nieruchomości, o którym mowa w art. 20 ust. 1;
 
-10. Odszkodowania za nieruchomości o nieuregulowanym stanie prawnym podlegają przekazaniu do depozytu sądowego na okres 6 lat.
+### 7)
 
-11. Jeżeli na nieruchomościach, o których mowa art. 20 ust. 3, są zlokalizowane obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane lub realizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
+oznaczenie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu ma wywołać skutek, o którym mowa w art. 20 ust. 3;
 
-12. Obowiązek zapłaty odszkodowań obciąża inwestora. Inwestor, na podstawie odrębnego porozumienia zawartego z wojewodą, może pokryć koszty ustalenia wysokości odszkodowań. Przepisu art. 132 ust. 8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami nie stosuje się.
+### 8)
 
-**Art. 24.**
+oznaczenie nieruchomości, w stosunku do których decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu ma wywołać skutek, o którym mowa w art. 24 ust. 1;
 
-1. W odniesieniu do nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, oznaczonych zgodnie związanych z rozbiórką, przebudową, zmianą sposobu użytkowania, utrzymaniem, eksploatacją, użytkowaniem, remontami oraz usuwaniem awarii, wojewoda decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu ograniczy, za odszkodowaniem, sposób korzystania z nieruchomości przez udzielenie zezwolenia szczególności na zakładanie i przeprowadzenie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do założenia, przeprowadzenia oraz korzystania z tych przewodów i urządzeń. Przepisy art. 124 ust. 4–7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio, z uwzględnieniem przepisów niniejszej ustawy.
+### 9)
 
-1a. Na wniosek inwestora ograniczenie sposobu korzystania z nieruchomości, o którym mowa ust. 1, może nastąpić na rzecz innego niż inwestor podmiotu, szczególności przedsiębiorstwa energetycznego, przedsiębiorstwa wodociągowo-kanalizacyjnego lub przedsiębiorcy telekomunikacyjnego.
+termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń;
 
-1b. Na wniosek inwestora ograniczenie sposobu korzystania z nieruchomości, o którym mowa ust. 1, może nastąpić na czas określony.
+### 10)
 
-1c. W przypadku gruntów stanowiących własność Skarbu Państwa pokrytych wodami, gruntów stanowiących pas drogowy drogi publicznej i gruntów objętych obszarem kolejowym ograniczenie sposobu korzystania z nieruchomości, o którym mowa ust. 1, następuje bez odszkodowania.
+lokalizację sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich oraz podmorskich kabli i rurociągów za pomocą współrzędnych geograficznych;
 
-2. Decyzje zakresie odszkodowań wydaje wojewoda. Obowiązek zapłaty odszkodowania obciąża inwestora. W przypadku, o którym mowa ust. 1a, obowiązek zapłaty odszkodowania obciąża podmiot, na rzecz którego następuje ograniczenie sposobu korzystania z nieruchomości. Inwestor albo podmiot, na rzecz którego następuje ograniczenie sposobu korzystania z nieruchomości, na podstawie odrębnego porozumienia zawartego z wojewodą, pokrywają koszty ustalenia wysokości odszkodowań.
+### 11)
 
-3. Przepis ust. 1 stosuje się z uwzględnieniem warunków wejścia na teren określonych wydanej decyzji o środowiskowych uwarunkowaniach realizacji inwestycji zakresie terminalu, o ile jest ona wymagana. art. 24 ust. 1, stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami, gruntów stanowiących pas drogowy lub gruntów objętych obszarem kolejowym, uprawnia inwestora do wystąpienia, odpowiednio do właściwego podmiotu wykonującego prawa właścicielskie zgodnie z art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, właściwego zarządcy drogi, właściwego zarządcy infrastruktury kolejowej lub innego właściwego podmiotu zarządzającego obszarem kolejowym, o zawarcie porozumienia określającego warunki wykonywania przysługującego inwestorowi prawa, o którym mowa art. 24 ust. 1.
+oznaczenie gruntów pokrytych powierzchniowymi wodami płynącymi.
 
-2. Porozumienie, o którym mowa ust. 1, nie może przewidywać opłat za wykonywanie przysługującego inwestorowi prawa, o którym mowa art. 24 ust. 1.
+### 2.
 
-3. W przypadku niezawarcia porozumienia, o którym mowa ust. 1, terminie 21 dni od dnia otrzymania, odpowiednio przez właściwy podmiot, o którym mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, właściwego zarządcę drogi, właściwego zarządcę infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym, wystąpienia, o którym mowa ust. 1, inwestor jest uprawniony do złożenia wniosku do wojewody o wydanie decyzji określającej warunki wykonywania przysługującego inwestorowi prawa, o którym mowa art. 24 ust. 1.
+Sporządzenie projektu decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu powierza się osobie wpisanej na listę izby samorządu zawodowego urbanistów lub architektów.
 
-4. Decyzja, o której mowa ust. 3, nie może przewidywać opłat za wykonywanie przysługującego inwestorowi prawa, o którym mowa art. 24 ust. 1.
+### Art. 11.
 
-5. Warunki zawarte porozumieniu, o którym mowa ust. 1, albo określone decyzji, o której mowa ust. 3, nie mogą powodować:
+### 1.
 
-- **1)** zagrożenia bezpieczeństwa ruchu drogowego, kolejowego lub lotniczego;
-- **2)** wstrzymania ruchu kolejowego lub lotniczego;
-- **3)** zamknięcia dróg publicznych, chyba że istnieje możliwość zorganizowania objazdów;
-- **4)** zamknięcia śródlądowych dróg wodnych;
-- **5)** negatywnego wpływu na działanie urządzeń lotniczych.
+Nieuregulowany stan prawny nieruchomości objętych wnioskiem o wydanie decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu nie stanowi przeszkody do wszczęcia i prowadzenia postępowania o ustalenie lokalizacji inwestycji w zakresie terminalu.
 
-6. Stronami postępowania o wydanie decyzji, o której mowa ust. 3, są wyłącznie inwestor oraz odpowiednio właściwy podmiot, o którym mowa zarządzający obszarem kolejowym.
+### 2.
 
-7. Do postępowania sprawie decyzji, o której mowa ust. 3, przepisy art. 5 ust. 4 i art. 7 stosuje się odpowiednio.
+Przez nieuregulowany stan prawny należy rozumieć także sytuację, kiedy dotychczasowy właściciel nie żyje, a spadkobiercy nie wykazali prawa do spadku.
 
-8. W przypadku zawarcia porozumienia, o którym mowa ust. 1, albo uzyskania decyzji, o której mowa ust. 3, stosunku do gruntów stanowiących własność Skarbu Państwa pokrytych wodami przepisu art. 261 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne nie stosuje się.
+### Art. 12.
 
-**Art. 26.** (uchylony)
+### 1.
 
-**Art. 27.**
+Wojewoda doręcza decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu wnioskodawcy oraz zawiadamia pozostałe strony o jej wydaniu, w drodze obwieszczenia, w urzędzie wojewódzkim i urzędach gmin właściwych ze względu na lokalizację inwestycji w zakresie terminalu, na stronach internetowych tych gmin oraz urzędu wojewódzkiego, a także w prasie o zasięgu ogólnopolskim, ze skutkiem doręczenia na dzień obwieszczenia w urzędzie wojewódzkim. Właścicielom i użytkownikom wieczystym nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu zawiadomienie o wydaniu decyzji wysyła się na adres określony w katastrze nieruchomości.
 
-1. Z uwzględnieniem ust. 1a, Państwowe Gospodarstwo Leśne Lasy Państwowe zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach, nieruchomościami objętymi pozwoleniem na budowę inwestycji zakresie terminalu jest obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia terminie oraz na warunkach ustalonych odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+### 2.
 
-1a. Państwowe Gospodarstwo Leśne Lasy Państwowe zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach, nieruchomościami objętymi decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu, przypadku inwestycji zakresie terminalu przygotowywanej przez Operatora Gazociągów przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie, jest obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia terminie oraz na warunkach ustalonych odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+Zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu zawiera informację o miejscu, w którym strony mogą zapoznać się z treścią decyzji.
 
-2. Jeżeli terminie 30 dni od dnia otrzymania przez Państwowe Gospodarstwo Leśne Lasy Państwowe wystąpienia o zawarcie porozumienia, o którym mowa ust. 1 lub 1a, nie dojdzie do jego zawarcia, termin oraz warunki wycinki drzew lub krzewów oraz ich uprzątnięcia ustala wojewoda drodze decyzji. Organem wyższego stopnia sprawie, o której mowa zdaniu pierwszym, jest minister właściwy do spraw środowiska.
+### 3.
 
-3. Drewno pozyskane z wycinki drzew i krzewów, o której mowa ust. 1, staje się, nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe. o których mowa ust. 1 lub 1a, innych niż zarządzane przez Państwowe Gospodarstwo Leśne Lasy Państwowe na podstawie ustawy z dnia 28 września 1991 r. o lasach.
+Przepisy ust. 1 i 2 stosuje się odpowiednio do doręczenia i zawiadamiania stron o decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu wydanej przez organ wyższego stopnia.
 
-**Art. 28.** Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji inwestycji zakresie terminalu nie stosuje się przepisów o ochronie gruntów rolnych i leśnych.
+### Art. 13.
 
-**Art. 29.** Organem wyższego stopnia sprawach określonych niniejszym rozdziale jest minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, z zastrzeżeniem art. 27 ust. 2.
+### 1.
 
-**Art. 30.** W sprawach nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji inwestycji zakresie terminalu.
+Przepisy o planowaniu i zagospodarowaniu przestrzennym nie mają zastosowania w sprawach określonych w niniejszym rozdziale, z wyjątkiem art. 57 ust. 1 i 4 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, które stosuje się do decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-#### Rozdział 4 Udzielanie zamówień na realizację inwestycji zakresie terminalu
+### 2.
 
-**Art. 31.** (uchylony)
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu wiąże właściwe organy przy sporządzaniu studium uwarunkowań i kierunków zagospodarowania przestrzennego oraz miejscowych planów zagospodarowania przestrzennego. Wojewoda przekazuje niezwłocznie wydane decyzje o ustaleniu lokalizacji inwestycji w zakresie terminalu właściwym wójtom (burmistrzom, prezydentom miasta).
 
-**Art. 32.** Umowy związane z wykorzystaniem inwestycji zakresie terminalu mogą być zawierane na okres dłuższy niż 4 lata.
+### 3.
 
-#### Rozdział 5 Finansowanie inwestycji zakresie terminalu
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu jest wiążąca dla właściwych organów w zakresie wydawania decyzji o warunkach zabudowy i decyzji o ustaleniu lokalizacji inwestycji celu publicznego, decyzji o ustaleniu lokalizacji linii kolejowej oraz decyzji o zezwoleniu na realizację inwestycji drogowej.
 
-**Art. 33.**
+### Art. 14.
 
-1. Inwestycje zakresie terminalu finansuje się:
+### 1.
 
-- **1)** ze środków własnych podmiotów realizujących inwestycje zakresie terminalu oraz uzyskanych przez nich kredytów bankowych i pożyczek, a także ze środków pochodzących z emisji obligacji, tym obligacji przychodowych;
-- **2)** ze środków pochodzących z budżetu państwa ustalonych programie wieloletnim, przypadku inwestycji, o których mowa art. 2 ust. 2 pkt 1, co
-- **3)** ze środków pochodzących z budżetu Unii Europejskiej;
-- **4)** z innych źródeł.
+Ostateczna decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stanowi podstawę do dokonywania wpisów w księdze wieczystej i w katastrze nieruchomości.
 
-2. Podmiotowi realizującemu inwestycje zakresie terminalu mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291).
+### 2.
 
-3. Koszty realizacji inwestycji zakresie terminalu stanowią koszty uzasadnione rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne, dotyczących kalkulacji taryfy.
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu wiąże zarządcę drogi wydającego zezwolenie na zajęcie pasa drogowego w celu umieszczenia w pasie drogowym uzbrojenia terenu, wchodzącego w skład inwestycji.
 
-#### Rozdział 6 Postępowanie administracyjne dla realizacji inwestycji zakresie terminalu
+### Art. 15.
 
-**Art. 34.**
+### 1.
 
-1. Decyzje administracyjne, o których mowa niniejszej ustawie, podlegają natychmiastowemu wykonaniu.
+Pozwolenie na budowę inwestycji w zakresie terminalu wydaje wojewoda na zasadach i w trybie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.](#gloss-0:19:)), zwanej dalej „Prawem budowlanym”, z zastrzeżeniem przepisów niniejszej ustawy.
 
-2. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, wnosi się terminie 7 dni od dnia ich doręczenia stronie albo terminie 14 dni od dnia, którym zawiadomienie o ich wydaniu drodze obwieszczenia uważa się za dokonane.
+### 2.
 
-3. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, powinno zawierać zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie.
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu wiąże wojewodę wydającego pozwolenie na budowę.
 
-4. Odwołanie od decyzji administracyjnych, o których mowa niniejszej ustawie, rozpatruje się terminie 14 dni, z wyjątkiem decyzji, o których mowa art. 5 ust. 1 i art. 15 ust. 1, od których odwołanie rozpatruje się terminie 60 dni.
+### 3.
 
-4a. Do terminów, o których mowa ust. 4, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+Pozwolenie na budowę inwestycji w zakresie terminalu może w zależności od żądania wniosku, obejmować całe zamierzenie budowlane położone na obszarze danego województwa lub jego część.
 
-4b. Do odwołania od decyzji administracyjnych, o których mowa niniejszej ustawie, przepisu art. 135 Kodeksu postępowania administracyjnego nie stosuje się, z uwarunkowaniach lub nieuwzględnienia postanowień decyzji o środowiskowych uwarunkowaniach.
+### 4.
 
-5. W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o których mowa niniejszej ustawie, całości ani stwierdzić ich nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca części inwestycji zakresie terminalu, nieruchomości lub działki.
+Do postępowania w sprawie pozwolenia na budowę inwestycji w zakresie terminalu przepisy art. 5 ust. 3, art. 7, art. 8 ust. 1, art. 9 oraz art. 12 stosuje się odpowiednio.
 
-6. W postępowaniu administracyjnym sprawie stwierdzenia nieważności decyzji administracyjnych, o których mowa niniejszej ustawie, nie stosuje się art. 159 Kodeksu postępowania administracyjnego.
+### 5.
 
-7. O każdym przypadku niewydania terminie decyzji, o których mowa art. 5 ust. 1, art. 15 ust. 1 lub art. 17 ust. 1, a także nierozpatrzenia terminie odwołania od decyzji, o których mowa art. 15 ust. 1 lub art. 17 ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa i Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy. O każdym przypadku niewydania terminie decyzji, o których mowa art. 15 ust. 1 lub art. 17 ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia również Głównego Inspektora Nadzoru Budowlanego, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+Ilekroć w przepisach Prawa budowlanego mowa jest o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-8. O każdym przypadku nierozpatrzenia terminie odwołania od decyzji, o której mowa art. 5 ust. 1, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zawiadamia strony postępowania oraz Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
+### Art. 16.
 
-8a. O każdym przypadku niewydania terminie decyzji, o której mowa art. 19e ust. 1, organ właściwy do rozpatrzenia sprawy zawiadamia strony postępowania, Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej oraz organ wyższego stopnia. strony postępowania oraz Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej.
+### 1.
 
-8c. Przepisu ust. 8a zakresie, jakim przewiduje obowiązek zawiadamiania organu wyższego stopnia, nie stosuje się, jeżeli organem pierwszej instancji jest minister.
+W pozwoleniu na budowę inwestycji w zakresie terminalu wojewoda zezwala na usunięcie drzew lub krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu. Do inwestycji w zakresie terminalu nie stosuje się przepisów rozdziału 4 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, z wyjątkiem art. 84-89 tej ustawy.
 
-9. W przypadku nierozpatrzenia przez organ wyższego stopnia odwołania od decyzji, o której mowa art. 15 ust. 1 albo art. 17 ust. 1, terminach określonych ust. 4, z uwzględnieniem ust. 4a, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa wymierza organowi wyższego stopnia, drodze postanowienia, co do którego przysługuje wniosek o ponowne rozpatrzenie sprawy, karę wysokości 1000 zł za każdy dzień zwłoki.
+### 2.
 
-10. Karę uiszcza się terminie 14 dni od dnia, którym postanowienie, o którym mowa ust. 9, stało się ostateczne. W przypadku nieuiszczenia kary, o której mowa ust. 9, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji. Wpływy z kar stanowią dochód budżetu państwa.
+Wniosek o wydanie pozwolenia na budowę inwestycji w zakresie terminalu w przypadku, o którym mowa w ust. 1, powinien dodatkowo zawierać:
 
-**Art. 35.**
+### 1)
 
-1. Do skarg na decyzje administracyjne, o których mowa niniejszej ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769), z wyłączeniem art. 61 § 3 tej ustawy, oraz z zastrzeżeniem przepisów niniejszej ustawy, z tym że:
+inwentaryzację drzew i krzewów znajdujących się na terenie objętym wnioskiem, z wyszczególnieniem struktury i wieku drzewostanu oraz przeznaczenia i dotychczasowego sposobu wykorzystywania terenu, na którym rosną drzewa i krzewy, oraz
 
-- **1)** przekazanie akt i odpowiedzi na skargę następuje terminie 15 dni od dnia otrzymania skargi;
-- **2)** skargę rozpatruje się terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
+### 2)
 
-1a. Wyłączenie, o którym mowa ust. 1, nie dotyczy skarg na decyzje o pozwoleniu na budowę inwestycji zakresie terminalu, ramach których wydano postanowienie, o którym mowa art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko. r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, stosuje się przepis art. 86g ust. 8 tej ustawy.
+plan gospodarki zielenią, jako część projektu zagospodarowania działki lub terenu, w którym określa się przyczynę i termin zamierzonego usunięcia poszczególnych drzew, wielkość powierzchni, z której zostaną usunięte krzewy i termin zamierzonego ich usunięcia.
 
-2. Termin rozpatrzenia skargi kasacyjnej wynikającej z realizacji inwestycji zakresie terminalu wynosi 2 miesiące od jej wniesienia.
+### 3.
 
-**Art. 36.**
+Wojewoda może w pozwoleniu na budowę inwestycji w zakresie terminalu nałożyć obowiązek przesadzenia drzew lub krzewów we wskazane miejsce.
 
-1. Nie stwierdza się nieważności ostatecznej decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, którym decyzja stała się ostateczna, a inwestor rozpoczął budowę. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+### Art. 17.
 
-1a. Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na budowę inwestycji zakresie terminalu, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 60 dni od dnia, którym decyzja stała się ostateczna, a inwestor rozpoczął budowę. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+### 1.
 
-2. W przypadku uwzględnienia skargi na decyzję o ustaleniu lokalizacji inwestycji zakresie terminalu, sąd administracyjny po upływie 30 dni od dnia rozpoczęcia budowy może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wyszczególnionych art. 145 lub 156 Kodeksu postępowania administracyjnego.
+Pozwolenie na użytkowanie inwestycji w zakresie terminalu wydaje wojewoda. Przepis art. 5 ust. 3 stosuje się odpowiednio.
 
-2a. W przypadku uwzględnienia skargi na decyzję o pozwoleniu na budowę inwestycji zakresie terminalu sąd administracyjny po upływie 60 dni od dnia rozpoczęcia budowy może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wyszczególnionych art. 145 lub art. 156 Kodeksu postępowania administracyjnego.
+### 2.
 
-2b. Przepisów ust. 1a i 2a nie stosuje się przypadku niezgodności decyzji o pozwoleniu na budowę inwestycji zakresie terminalu z:
+Wojewoda zobowiązany jest przeprowadzić obowiązkową kontrolę oraz wydać decyzję w przedmiocie pozwolenia na użytkowanie w terminie miesiąca od dnia zgłoszenia inwestycji do odbioru w rozumieniu Prawa budowlanego.
 
-- **1)** decyzją o środowiskowych uwarunkowaniach lub
-- **2)** postanowieniem, o którym mowa art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko. z naruszeniem prawa, naprawienie szkody powstałej wykonaniu tej decyzji może nastąpić wyłącznie przez zapłatę odpowiedniej sumy pieniężnej na rzecz poszkodowanego.
+### Art. 18.
 
-4. Przepis ust. 3 stosuje się odpowiednio do decyzji o pozwoleniu na budowę inwestycji zakresie terminalu.
+### 1.
 
-**Art. 36a.**
+Jeżeli realizacja inwestycji w zakresie terminalu wymaga wydania pozwolenia wodnoprawnego, odpowiednio, marszałek województwa albo starosta wydają to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie. W sprawach dotyczących wydania pozwolenia wodnoprawnego nie stosuje się art. 131 ust. 2 pkt 2 ustawy z dnia 18 lipca 2001 r. - Prawo wodne.
 
-1. Do zmiany decyzji, o której mowa art. 5 ust. 1, stosuje się odpowiednio przepis art. 155 Kodeksu postępowania administracyjnego, z zastrzeżeniem że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie tej decyzji.
+### 2.
 
-2. Wniosek o zmianę decyzji, o której mowa art. 5 ust. 1, zakresie objęcia nieruchomości znajdujących się na terenie objętym inwestycją zakresie terminalu skutkami, o których mowa art. 20 ust. 3, 6 i 6a lub art. 24 ust. 1, zawiera dane określone art. 6 ust. 1 pkt 8–12. Przepisów art. 6 ust. 3 pkt 1–8 oraz 11–15 i 17 nie stosuje się.
+Dla ustalenia stanu prawnego nieruchomości, o których mowa w art. 132 ust. 2 pkt 2 lit. c ustawy z dnia 18 lipca 2001 r. - Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
 
-3. Stronami postępowania o zmianę decyzji, o której mowa art. 5 ust. 1, zakresie, o którym mowa ust. 2, są wyłącznie inwestor, właściciel lub użytkownik wieczysty nieruchomości objętej wnioskiem oraz właściwy zarządca drogi, właściwy zarządca infrastruktury kolejowej lub inny właściwy podmiot zarządzający obszarem kolejowym.
+### 3.
 
-**Art. 37.** Przepisów niniejszego rozdziału nie stosuje się do decyzji, o której mowa art. 19 ust. 1, decyzji, o której mowa art. 23 ust. 2, oraz decyzji, o której mowa art. 24 ust. 2.
+W przypadku niewydania decyzji w terminie, o którym mowa w ust. 1, organ wyższego stopnia wymierza, odpowiednio marszałkowi województwa albo staroście, w drodze postanowienia, na które przysługuje zażalenie, karę w wysokości 1 000 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa.
 
-**Art. 37a.** Wojewoda jest organem egzekucyjnym prowadzącym egzekucję obowiązków o charakterze niepieniężnym wynikających z decyzji, o których mowa art. 5 ust. 1, art. 15 ust. 1, art. 19a ust. 1, art. 25a ust. 3 i art. 27 ust. 2.
+### 4.
 
-#### Rozdział 7 Inwestycje towarzyszące inwestycjom zakresie terminalu
+Karę uiszcza się w terminie 14 dni od dnia doręczenia postanowienia, o którym mowa w ust. 3. W przypadku nieuiszczenia kary, o której mowa w ust. 3, podlega ona ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-**Art. 38.** Inwestycjami towarzyszącymi inwestycjom zakresie terminalu są następujące inwestycje realizowane przez:
+### 5.
 
-**Art. 38a.**
+Do terminu, o którym mowa w ust. 1, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony, albo z przyczyn niezależnych od organu.
 
-1. Inwestycje towarzyszące, o których mowa art. 38 pkt 1, mogą być realizowane również przez:
+### Art. 19.
 
-- **1)** następcę prawnego Polskiego Górnictwa Naftowego i Gazownictwa spółka akcyjna z siedzibą Warszawie lub
-- **2)** podmiot będący spółką zależną Polskiego Górnictwa Naftowego i Gazownictwa spółka akcyjna z siedzibą Warszawie lub jej następcy prawnego, lub
-- **3)** podmiot, z którym Polskie Górnictwo Naftowe i Gazownictwo spółka akcyjna z siedzibą Warszawie lub jej następca prawny zawarły umowę przeniesienia przedsiębiorstwa albo jego zorganizowanej części, pod warunkiem wskazania tej umowie, że nabywca takiego przedsiębiorstwa albo jego zorganizowanej części będzie realizował inwestycje towarzyszące, o których mowa art. 38 pkt
+### 1.
 
-1.
+Z zastrzeżeniem przepisów niniejszej ustawy, wydanie decyzji o środowiskowych uwarunkowaniach realizacji inwestycji w zakresie terminalu następuje zgodnie z przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
-2. W przypadku gdy inwestycje towarzyszące, o których mowa art. 38 pkt 1, realizuje podmiot wskazany ust. 1, podmiot ten z chwilą, której staje się następcą prawnym lub nabywa przedsiębiorstwo albo jego zorganizowaną część:
+### 2.
 
-- **1)** wstępuje we wszystkie prawa i obowiązki przysługujące Polskiemu Górnictwu Naftowemu i Gazownictwu spółka akcyjna z siedzibą Warszawie wynikające z decyzji i innych aktów administracyjnych oraz zgłoszeń i innych czynności związku z realizacją inwestycji towarzyszących, o których mowa art. 38 pkt 1, wydanych i dokonanych na podstawie niniejszej ustawy i innych ustaw; towarzyszących, o których mowa art. 38 pkt 1;
-- **3)** przejmuje wszystkie prawa i obowiązki cywilnoprawne związane z realizacją inwestycji towarzyszących, o których mowa art. 38 pkt 1.
+Organ właściwy do wydania decyzji, o której mowa w ust. 1, niezwłocznie zawiadamia organ wyższego stopnia o złożeniu wniosku o wydanie decyzji o środowiskowych uwarunkowaniach oraz o wydaniu takiej decyzji.
 
-3. Przepisu ust. 2 pkt 1 nie stosuje się do decyzji związanych z realizacją inwestycji towarzyszących, o których mowa art. 38 pkt 1, wydanych na podstawie ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze. Tryb przenoszenia lub przejścia tych decyzji określa ustawa z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze.
+### 3.
 
-4. Jeżeli podmiotem przejmującym prawa i obowiązki, o których mowa ust. 2 pkt 3, jest podmiot, o którym mowa ust. 1 pkt 2, Polskie Górnictwo Naftowe i Gazownictwo spółka akcyjna z siedzibą Warszawie lub jej następca prawny ponoszą z podmiotem, o którym mowa ust. 1 pkt 2, odpowiedzialność solidarną za te obowiązki cywilnoprawne.
+Termin wydania decyzji, o której mowa w ust. 1, wynosi 45 dni od dnia złożenia wniosku.
 
-**Art. 39.**
+### 4.
 
-1. Do inwestycji towarzyszących stosuje się przepisy rozdziałów 2, 3 i 6 oraz art. 43, z uwzględnieniem ust. 1a i 1b.
+Do terminu, o którym mowa w ust. 3, nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, w szczególności w ramach postępowania w sprawie transgranicznego oddziaływania na środowisko, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
-1a. Do inwestycji towarzyszącej, o której mowa art. 38 pkt 2 lit. zi, nie stosuje się art. 16 ust. 4 oraz art. 27 ust. 1a.
+### Rozdział 3 Nabywanie tytułu prawnego do nieruchomości i realizacja inwestycji w zakresie terminalu
 
-1b. Do inwestycji towarzyszących, o których mowa art. 38 pkt 1, 4 i 5, przepisów art. 19 ust. 6 i 7 oraz art. 34 ust. 7 i 8–8b nie stosuje się zakresie, jakim organ właściwy do rozpatrzenia sprawy zawiadamia Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej o każdym przypadku odpowiednio niewydania terminie decyzji lub nierozpatrzenia terminie odwołania od tej decyzji.
+### Art. 20.
 
-2. Do wniosku o wydanie pozwolenia na budowę inwestycji towarzyszących, o których mowa art. 38 pkt 1, inwestor załącza opinię właściwego organu nadzoru górniczego. Przepisy art. 6 ust. 4 i 5 stosuje się odpowiednio.
+### 1.
 
-3. Do inwestycji towarzyszącej, o której mowa art. 38 pkt 2 lit. h, przepis art. 32 stosuje się odpowiednio.
+Decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu zatwierdza się podział nieruchomości. Mapy z projektami podziału nieruchomości stanowią integralną część decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-4. W związku z inwestycją towarzyszącą, o której mowa art. 38 pkt 2 lit. h, mogą być przyznawane ubezpieczenia gwarantowane zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. o ubezpieczeniach gwarantowanych przez Skarb Państwa (Dz. U. z 2024 r. poz. 284 oraz z 2025 r. poz. 1069). decyzja o ustaleniu lokalizacji tej inwestycji stała się ostateczna, ustanawia się trwały zarząd nieruchomości na czas nieoznaczony, na rzecz Urzędu Morskiego Gdyni.
+### 2.
 
-**Art. 39a.** Kosztami uzasadnionymi, o których mowa art. 33 ust. 3, są również:
+Linie rozgraniczające teren ustalone decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu stanowią linie podziału nieruchomości.
 
-**Art. 39b.** W zakresie inwestycji towarzyszącej, o której mowa art. 38 pkt 2 lit. h:
+### 3.
 
-**Art. 39c.**
+Nieruchomości znajdujące się w liniach rozgraniczających teren inwestycji w zakresie wskazanym w art. 10 ust. 1 pkt 7, stają się z mocy prawa własnością Skarbu Państwa z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stała się ostateczna, za odszkodowaniem.
 
-1. Operator Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie może występować do Urzędu Morskiego Gdyni o przekazanie informacji dotyczących przygotowania i realizacji inwestycji, o której mowa art. 38 pkt 6.
+### 4.
 
-2. Urząd Morski Gdyni jest obowiązany do niezwłocznego przekazywania Operatorowi Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie:
+Jeżeli nieruchomości, o których mowa w ust. 3, lub prawa użytkowania wieczystego tych nieruchomości są obciążone ograniczonymi prawami rzeczowymi, z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stała się ostateczna, prawa te wygasają za odszkodowaniem.
 
-- **1)** informacji o istotnych zdarzeniach mających wpływ na przygotowanie i realizację inwestycji, o której mowa art. 38 pkt 6, szczególności mogących
-- **2)** informacji, o których mowa ust. 1.
+### 5.
 
-**Art. 40.**
+W przypadku gdy nieruchomość podlegająca podziałowi zgodnie z ust. 1 jest obciążona hipoteką, hipoteka wygasa wyłącznie w stosunku do części nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu.
 
-1. W przypadku inwestycji towarzyszącej, o której mowa art. 38 pkt 2 lit. h, organ właściwy do wydania decyzji, o której mowa art. 5 ust. 1, jest obowiązany, za zgodą strony, na rzecz której decyzja została wydana, do jednokrotnego przeniesienia tej decyzji lub jej części na rzecz innego podmiotu będącego spółką zależną Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą Warszawie, jeżeli przyjmuje on warunki zawarte tej decyzji.
+### 6.
 
-2. Przeniesienie decyzji, o którym mowa ust. 1, nie wywołuje zmian zakresie skutków, o których mowa art. 20 i 24, zaistniałych przed dniem przeniesienia.
+Z zastrzeżeniem ust. 7, inwestor nabywa z mocy prawa z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stała się ostateczna, prawo użytkowania wieczystego nieruchomości gruntowych, określonych w ust. 3, oraz prawo własności budynków, innych urządzeń trwale z gruntem związanych i lokali znajdujących się na tych nieruchomościach.
 
-3. Stronami postępowania sprawie przeniesienia decyzji, o którym mowa ust. 1, są jedynie podmioty, między którymi ma być dokonane przeniesienie decyzji.
+### 7.
 
-4. Przez inwestora rozumie się również podmiot, na który została przeniesiona decyzja.
+Z dniem, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stała się ostateczna, ustanawia się trwały zarząd nieruchomości na czas nieoznaczony, na rzecz Urzędu Morskiego w Szczecinie.
 
-5. Przepisy ust. 1, 3 i 4 stosuje się odpowiednio do zgody wodnoprawnej oraz decyzji, o której mowa art. 19 ust. 1.
+### 8.
 
-**Art. 41.** W przypadku inwestycji towarzyszących właściwy organ rozpatruje wniosek o wydanie koncesji na podziemne bezzbiornikowe magazynowanie substancji terminie 21 dni od dnia złożenia wniosku. Przepis art. 7 ust. 3 stosuje się odpowiednio.
+Nabycie prawa użytkowania wieczystego, prawa własności budynków, innych urządzeń trwale z gruntem związanych i lokali oraz ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji.
 
-#### Rozdział 8 Zmiany przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+### 9.
 
-**Art. 42.** (pominięty)
+Opłaty z tytułu ustanowienia użytkowania wieczystego oraz opłaty z tytułu trwałego zarządu są naliczane i nakładane zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-**Art. 43.**
+### 10.
 
-1. W przypadku gdy lokalizacja inwestycji zakresie terminalu przewidziana jest obowiązującym miejscowym planie zagospodarowania przestrzennego lub decyzji o warunkach zabudowy i zagospodarowania terenu, inwestor każdym czasie może wystąpić o wydanie:
+W decyzji, o której mowa w ust. 8, ustala się odpowiednio warunki:
 
-- **1)** pozwolenia na budowę inwestycji zakresie terminalu trybie niniejszej ustawy; art. 6 ust. 1, nie stosuje się przepisów art. 6 ust. 3 pkt 1, 3, 4, 6, 8 i 11;
-- **3)** decyzji o ustaleniu lokalizacji inwestycji zakresie terminalu trybie niniejszej ustawy, zakresie skutków, o których mowa art. 20 lub art. 24 ust. 1, z zastrzeżeniem że takim przypadku:
-    - **a)** wniosek, o którym mowa art. 6 ust. 1, zawiera dane określone art. 6 ust. 1 pkt 8–11b,
-    - **b)** do wniosku, o którym mowa art. 6 ust. 1, nie stosuje się przepisów art. 6 ust. 3 pkt 1–8 oraz 11–15 – z uwzględnieniem ust. 1a.
+### 1)
 
-1a. W przypadku, o którym mowa ust. 1 pkt 2 lub 3, jeżeli wobec gruntów stanowiących pas drogowy, objętych wnioskiem, o którym mowa art. 6 ust. 1, została inwestorowi wydana decyzja o lokalizacji lub przebudowie zjazdu lub decyzja o lokalizacji pasie drogowym obiektów budowlanych lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, przepisu art. 6 ust. 3 pkt 9 nie stosuje się zakresie objętym tą decyzją. Decyzję tę dołącza się do wniosku, o którym mowa art. 6 ust. 1.
+użytkowania wieczystego, z zachowaniem zasad określonych w art. 62 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami i w art. 236 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341 i Nr 79, poz. 662.](#gloss-0:20:)) oraz kwotę należną za nabycie własności;
 
-1b. Z dniem, którym decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu, wydana na podstawie wniosku, o którym mowa art. 6 ust. 1, przypadku, o którym mowa ust. 1 pkt 2 lub 3, stała się ostateczna, wydane inwestorowi decyzje o lokalizacji lub przebudowie zjazdu, decyzje o lokalizacji pasie drogowym obiektów budowlanych lub urządzeń niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, o których mowa ust. 1a, wygasają zakresie, jakim decyzja o ustaleniu lokalizacji inwestycji zakresie terminalu wydana na podstawie tego wniosku obejmuje skutek, o którym mowa art. 24 ust. 1, wobec gruntów stanowiących pas drogowy.
+### 2)
 
-2. Do postępowań sprawach dotyczących inwestycji zakresie terminalu, wszczętych i niezakończonych do dnia wejścia życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe.
+trwałego zarządu, z zachowaniem zasad określonych w art. 45 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-**Art. 44.** Ustawa wchodzi życie z dniem ogłoszenia .
+### 11.
 
+W stosunku do nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu, nie stosuje się art. 4 i 4a ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich oraz art. 109 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+### 12.
+
+Jeżeli przeznaczona na inwestycję w zakresie terminalu nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana w użytkowanie wieczyste, w zakresie wskazanym w decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, użytkowanie to wygasa za odszkodowaniem, z dniem, w którym decyzja o ustaleniu inwestycji w zakresie terminalu stała się ostateczna.
+
+### 13.
+
+Do ustalenia wysokości i wypłacenia odszkodowania w przypadkach, o których mowa w ust. 3, 4 i 12, stosuje się odpowiednio przepisy o gospodarce nieruchomościami, z zastrzeżeniem art. 23 i 24.
+
+### Art. 21.
+
+Do egzekucji obowiązków wynikających z decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+### Art. 22.
+
+### 1.
+
+Decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na inwestycję w zakresie terminalu, stanowiącej własność Skarbu Państwa lub zarządu w odniesieniu do gruntów w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+### 2.
+
+Jeżeli przeznaczona na inwestycję w zakresie terminalu nieruchomość stanowiąca własność Skarbu Państwa została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stanowi podstawę do wypowiedzenia przez wojewodę umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie od Skarbu Państwa.
+
+### Art. 23.
+
+### 1.
+
+Za nieruchomości, użytkowanie wieczyste oraz ograniczone prawa rzeczowe do nieruchomości, o których mowa w art. 20 ust. 3, 4 i 12, przysługuje odszkodowanie w wysokości uzgodnionej między wojewodą, a dotychczasowym właścicielem, użytkownikiem wieczystym lub osobą, której przysługuje ograniczone prawo rzeczowe do nieruchomości. Uzgodnienia dokonuje się w formie pisemnej pod rygorem nieważności.
+
+### 2.
+
+Jeżeli w terminie 2 miesięcy od dnia, w którym decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu stała się ostateczna, nie dojdzie do uzgodnienia, o którym mowa w ust. 1, wysokość odszkodowania ustala wojewoda w drodze decyzji.
+
+### 3.
+
+Wysokość odszkodowania, o którym mowa w ust. 1 i 2, ustala się na podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego, według stanu nieruchomości w dniu wydania decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu przez organ pierwszej instancji oraz według jej wartości w dniu uzgodnienia, o którym mowa w ust. 1, albo w dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty, według zasad obowiązujących w przypadku zwrotu wywłaszczonych nieruchomości.
+
+### 4.
+
+W przypadku, o którym mowa w art. 20 ust. 4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości odszkodowania ustalonego z tytułu wygaśnięcia ograniczonych praw rzeczowych.
+
+### 5.
+
+Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, z wyłączeniem kwot, o których mowa w ust. 8 i 9, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego. Roszczenia osób uprawnionych z tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw, ustalonego zgodnie z odrębnymi przepisami.
+
+### 6.
+
+Jeżeli na nieruchomościach, o których mowa w art. 20 ust. 3, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się w wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, w zakresie, w jakim wierzytelność ta nie wygasła, wraz z odsetkami zabezpieczonymi tą hipoteką obliczonymi na dzień spłaty wierzyciela hipotecznego. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami.
+
+### 7.
+
+Odszkodowanie z tytułu wygaśnięcia ograniczonych praw rzeczowych wypłaca się osobom, którym te prawa przysługiwały. Wysokość odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych nie może przekraczać wartości nieruchomości ustalonej zgodnie z ust. 3.
+
+### 8.
+
+Jeżeli dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż w terminie 28 dni od dnia otrzymania od inwestora wezwania do wydania nieruchomości, to wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego, określonej w operacie, o którym mowa w ust. 3.
+
+### 9.
+
+W przypadku gdy decyzja o ustaleniu lokalizacji inwestycji w zakresie terminalu dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, w którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu tej nieruchomości, zamieszkałemu w tym budynku albo lokalu powiększa się o kwotę 10 000 zł w odniesieniu do tej nieruchomości.
+
+### 10.
+
+Odszkodowania za nieruchomości o nieuregulowanym stanie prawnym podlegają przekazaniu do depozytu sądowego na okres 10 lat.
+
+### 11.
+
+Jeżeli na nieruchomościach, o których mowa w art. 20 ust. 3, są zlokalizowane obiekty infrastruktury służące wykonywaniu przez jednostki samorządu terytorialnego zadań własnych, zrealizowane lub realizowane przy wykorzystaniu środków pochodzących z budżetu Unii Europejskiej lub innych źródeł zagranicznych, odszkodowanie powiększa się o kwotę podlegających zwrotowi środków pochodzących z dofinansowania wraz z odsetkami należnymi zgodnie z przepisami regulującymi zasady zwrotu dofinansowania. Odszkodowanie w części przenoszącej odszkodowanie należne na zasadach wynikających z ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami przyznaje się pod warunkiem rozwiązującym dokonania przez jednostkę samorządu terytorialnego, w trybie i terminie wynikającym z właściwych przepisów, zwrotu dofinansowania wraz z należnymi odsetkami.
+
+### 12.
+
+Organem właściwym do wypłaty odszkodowań jest wojewoda.
+
+### Art. 24.
+
+### 1.
+
+W odniesieniu do nieruchomości objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu, wskazanych zgodnie z art. 10 ust. 1 pkt 8, w celu zapewnienia prawa do wejścia na teren nieruchomości dla prowadzenia na nich budowy inwestycji w zakresie terminalu, a także prac związanych z konserwacją lub usuwaniem awarii, wojewoda w decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu ograniczy sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzenie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń. Przepisy art. 124 ust. 2 i 4-8 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami stosuje się odpowiednio, z zastrzeżeniem przepisów niniejszej ustawy.
+
+### 2.
+
+Decyzje w zakresie odszkodowania wydaje wojewoda.
+
+### Art. 25.
+
+### 1.
+
+W przypadku gdy inwestycja w zakresie terminalu wymaga przejścia przez tereny wód płynących, dróg publicznych, bądź tereny linii kolejowej, inwestor jest uprawniony do nieodpłatnego zajęcia tego terenu na czas realizacji tej inwestycji.
+
+### 2.
+
+Inwestor, niezwłocznie przed planowanym zajęciem terenu, o którym mowa w ust. 1, uzgadnia w drodze pisemnego porozumienia z zarządcą drogi, zarządcą infrastruktury kolejowej lub z odpowiednimi organami, o których mowa w art. 11 ust. 1 ustawy z dnia 18 lipca 2001 r. - Prawo wodne, zakres, termin i warunki zajęcia tego terenu.
+
+### Art. 26.
+
+Grunty pokryte wodami, stanowiące własność Skarbu Państwa, niezbędne do realizacji inwestycji w zakresie terminalu oddaje się inwestorowi na czas prowadzenia i eksploatacji inwestycji w użytkowanie za opłatą roczną, na zasadach określonych w art. 20 ustawy z dnia 18 lipca 2001 r. - Prawo wodne.
+
+### Art. 27.
+
+### 1.
+
+Państwowe Gospodarstwo Leśne Lasy Państwowe zarządzające, na podstawie ustawy z dnia 28 września 1991 r. o lasach, nieruchomościami objętymi pozwoleniem na budowę inwestycji w zakresie terminalu, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia w terminie oraz na warunkach ustalonych w odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe a inwestorem.
+
+### 2.
+
+Jeżeli w terminie miesiąca od dnia, w którym decyzja o pozwoleniu na budowę inwestycji w zakresie terminalu stała się ostateczna, nie dojdzie do zawarcia porozumienia, o którym mowa w ust. 1, termin oraz warunki wycinki drzew i krzewów oraz ich uprzątnięcia ustala wojewoda w drodze decyzji. Organem wyższego stopnia w sprawie, o której mowa w zdaniu pierwszym, jest minister właściwy do spraw środowiska.
+
+### 3.
+
+Drewno pozyskane z wycinki drzew i krzewów, o której mowa w ust. 1, staje się, nieodpłatnie własnością Państwowego Gospodarstwa Leśnego Lasy Państwowe.
+
+### 4.
+
+Koszty wycinki drzew i krzewów oraz ich uprzątnięcia ponosi inwestor.
+
+### Art. 28.
+
+Do gruntów rolnych i leśnych objętych decyzją o ustaleniu lokalizacji inwestycji w zakresie terminalu nie stosuje się przepisów o ochronie gruntów rolnych i leśnych.
+
+### Art. 29.
+
+Organem wyższego stopnia w sprawach określonych w niniejszym rozdziale jest minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej, z zastrzeżeniem art. 27 ust. 2.
+
+### Art. 30.
+
+W sprawach nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, przy czym ilekroć w przepisach tej ustawy mowa jest o decyzji o ustaleniu lokalizacji inwestycji celu publicznego, rozumie się przez to także decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu.
+
+### Rozdział 4 Udzielanie zamówień na realizację inwestycji w zakresie terminalu
+
+### Art. 31.
+
+### 1.
+
+Zamówienia udzielane w związku z przygotowaniem, realizacją i finansowaniem inwestycji określonych w art. 2 ust. 2, jeżeli wymaga tego istotny interes bezpieczeństwa państwa, są realizowane zgodnie z art. 4 pkt 5 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych. Zamówienia te udzielane są w sposób pozwalający na zawarcie umów bez zbędnej zwłoki, a jeśli wartość umowy bez podatku od towarów i usług jest równa lub przekracza wyrażoną w złotych równowartość kwoty określonej w ust. 2, to jest ona zawierana z zachowaniem warunków uczciwej konkurencji - w procedurze otwartej, rzetelnej, przejrzystej i niedyskryminacyjnej. Po złożeniu ofert i ewentualnej preselekcji procedura ta może obejmować negocjacje, zgodnie ze wspomnianymi zasadami, w celu określenia elementów najbardziej dostosowanych do specyfiki lub złożoności potrzeb.
+
+### 2.
+
+Kwoty, o których mowa w ust. 1, wynoszą:
+
+### 1)
+
+dla umów o roboty budowlane - 5 150 000 euro,
+
+### 2)
+
+dla umów o świadczenie usług - 412 000 euro,
+
+### 3)
+
+dla umów o dostawy - 412 000 euro
+
+- przy czym kurs złotego w stosunku do euro, stanowiący podstawę przeliczania wartości umów, o których mowa w ust. 1, ustalany jest zgodnie z przepisami wydanymi na podstawie art. 35 ust. 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych.
+
+### Art. 32.
+
+Umowy związane z wykorzystaniem inwestycji w zakresie terminalu mogą być zawierane na okres dłuższy niż 4 lata. Przepisu art. 142 ust. 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych nie stosuje się.
+
+### Rozdział 5 Finansowanie inwestycji w zakresie terminalu
+
+### Art. 33.
+
+### 1.
+
+Inwestycje w zakresie terminalu finansuje się:
+
+### 1)
+
+ze środków własnych podmiotów realizujących inwestycje w zakresie terminalu oraz uzyskanych przez nich kredytów bankowych i pożyczek, a także ze środków pochodzących z emisji obligacji, w tym obligacji przychodowych;
+
+### 2)
+
+ze środków pochodzących z budżetu państwa ustalonych w programie wieloletnim, w przypadku inwestycji, o których mowa w art. 2 ust. 2 pkt 1, co nie wyłącza finansowania tych inwestycji z innych źródeł, w tym określonych w pkt 3;
+
+### 3)
+
+ze środków pochodzących z budżetu Unii Europejskiej;
+
+### 4)
+
+z innych źródeł.
+
+### 2.
+
+Podmiotowi realizującemu inwestycje w zakresie terminalu mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. z 2003 r. Nr 174, poz. 1689](https://api.sejm.gov.pl/eli/acts/DU/2003/1689/text.html), z późn. zm.[21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538 oraz z 2009 r. Nr 65, poz. 545.](#gloss-0:21:)).
+
+### 3.
+
+Koszty realizacji inwestycji w zakresie terminalu stanowią koszty uzasadnione w rozumieniu przepisów ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2006 r. Nr 89, poz. 625](https://api.sejm.gov.pl/eli/acts/DU/2006/625/text.html), z późn. zm.[22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505 oraz z 2009 r. Nr 3, poz. 11 i Nr 69, poz. 586.](#gloss-0:22:)), dotyczących kalkulacji taryfy.
+
+### Rozdział 6 Postępowanie administracyjne dla realizacji inwestycji w zakresie terminalu
+
+### Art. 34.
+
+### 1.
+
+Decyzje administracyjne, o których mowa w niniejszej ustawie, podlegają natychmiastowemu wykonaniu.
+
+### 2.
+
+Odwołanie od decyzji administracyjnej, o której mowa w niniejszej ustawie, wnosi się w terminie 7 dni od dnia doręczenia decyzji stronie albo w terminie 14 dni od dnia obwieszczenia lub doręczenia zawiadomienia o wydaniu decyzji.
+
+### 3.
+
+Odwołanie od decyzji administracyjnej, o której mowa w niniejszej ustawie, powinno zawierać zarzuty odnoszące się do decyzji, określać istotę i zakres żądania będącego przedmiotem odwołania oraz wskazywać dowody uzasadniające to żądanie.
+
+### 4.
+
+Odwołanie od decyzji administracyjnej, o której mowa w niniejszej ustawie, rozpatruje się w terminie 14 dni. Przepisu art. 135 Kodeksu postępowania administracyjnego nie stosuje się.
+
+### 5.
+
+W postępowaniu przed organem wyższego stopnia oraz przed sądem administracyjnym nie można uchylić decyzji, o której mowa w niniejszej ustawie, w całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca części inwestycji w zakresie terminalu, nieruchomości lub działki.
+
+### 6.
+
+W postępowaniu administracyjnym w sprawie stwierdzenia nieważności decyzji administracyjnej, o której mowa w niniejszej ustawie, nie stosuje się art. 159 Kodeksu postępowania administracyjnego.
+
+### Art. 35.
+
+### 1.
+
+Do skarg na decyzje administracyjne, o których mowa w niniejszej ustawie, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html), z późn. zm.[23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367 oraz z 2009 r. Nr 53, poz. 433.](#gloss-0:23:)), z wyłączeniem art. 61 § 3 tej ustawy, oraz z zastrzeżeniem przepisów niniejszej ustawy, z tym że:
+
+### 1)
+
+przekazanie akt i odpowiedzi na skargę następuje w terminie 15 dni od dnia otrzymania skargi;
+
+### 2)
+
+skargę rozpatruje się w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
+
+### 2.
+
+Termin rozpatrzenia skargi kasacyjnej wynikającej z realizacji inwestycji w zakresie terminalu wynosi 2 miesiące od jej wniesienia.
+
+### Art. 36.
+
+### 1.
+
+Nie stwierdza się nieważności ostatecznej decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął budowę. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### 2.
+
+W przypadku uwzględnienia skargi na decyzję o ustaleniu lokalizacji inwestycji w zakresie terminalu, sąd administracyjny po upływie 30 dni od dnia rozpoczęcia budowy może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wyszczególnionych w art. 145 lub 156 Kodeksu postępowania administracyjnego.
+
+### 3.
+
+W przypadku stwierdzenia nieważności decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu albo stwierdzenia, że decyzja ta została wydana z naruszeniem prawa, naprawienie szkody powstałej w wykonaniu tej decyzji może nastąpić wyłącznie przez zapłatę odpowiedniej sumy pieniężnej na rzecz poszkodowanego.
+
+### 4.
+
+Przepisy ust. 1-3 stosuje się odpowiednio do decyzji o pozwoleniu na budowę w zakresie terminalu.
+
+### Art. 37.
+
+Przepisów niniejszego rozdziału nie stosuje się do decyzji, o której mowa w art. 19 ust. 1, decyzji, o której mowa w art. 23 ust. 2, oraz decyzji, o której mowa w art. 24 ust. 2.
+
+### Rozdział 7 Inwestycje towarzyszące inwestycjom w zakresie terminalu
+
+### Art. 38.
+
+Inwestycjami towarzyszącymi inwestycjom w zakresie terminalu są następujące inwestycje realizowane przez:
+
+### 1)
+
+Polskie Górnictwo Naftowe i Gazownictwo spółka akcyjna z siedzibą w Warszawie:
+
+### a)
+
+rozbudowa podziemnego magazynu gazu Wierzchowiec, w tym:
+
+- - budowa naziemnej infrastruktury technicznej,
+
+- - wykonanie odwiertów magazynowych,
+
+- - budowa gazociągów łączących obiekty instalacji magazynowej,
+
+### b)
+
+rozbudowa kawernowego podziemnego magazynu gazu Mogilno, w tym:
+
+- - rozbudowa instalacji ługowniczej,
+
+- - budowa komór magazynowych,
+
+- - rozbudowa naziemnej infrastruktury technicznej,
+
+- - budowa gazociągów łączących obiekty instalacji magazynowej,
+
+### c)
+
+budowa kawernowego podziemnego magazynu gazu Kosakowo oraz kawernowego podziemnego magazynu gazu Goleniów, w tym:
+
+- - instalacji ługowniczej,
+
+- - rurociągów i instalacji zrzutu solanki,
+
+- - komór magazynowych,
+
+- - naziemnej infrastruktury technicznej,
+
+- - gazociągów łączących obiekty instalacji magazynowej;
+
+### 2)
+
+Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie:
+
+### a)
+
+budowa gazociągów i instalacji przyłączeniowych dla podziemnych magazynów gazu, o których mowa w pkt 1,
+
+### b)
+
+budowa gazociągu Szczecin-Gdańsk wraz z infrastrukturą niezbędną do jego obsługi na terenie województw zachodniopomorskiego i pomorskiego,
+
+### c)
+
+budowa gazociągu Szczecin-Lwówek wraz z infrastrukturą niezbędną do jego obsługi na terenie województw zachodniopomorskiego, lubuskiego i wielkopolskiego,
+
+### d)
+
+budowa gazociągu Lwówek-Odolanów wraz z infrastrukturą niezbędną do jego obsługi na terenie województwa wielkopolskiego,
+
+### e)
+
+budowa gazociągu Gustorzyn-Odolanów wraz z infrastrukturą niezbędną do jego obsługi na terenie województw kujawsko-pomorskiego i wielkopolskiego,
+
+### f)
+
+budowa gazociągu Włocławek-Gdynia wraz z infrastrukturą niezbędną do jego obsługi na terenie województw pomorskiego i kujawsko-pomorskiego,
+
+### g)
+
+budowa gazociągu Rembelszczyzna-Gustorzyn wraz z infrastrukturą niezbędną do jego obsługi na terenie województw kujawsko-pomorskiego i mazowieckiego,
+
+### h)
+
+budowa międzysystemowego Gazociągu Bałtyckiego (Baltic Pipe) stanowiącego połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz infrastrukturą niezbędną do jego obsługi.
+
+### Art. 39.
+
+### 1.
+
+Do inwestycji towarzyszących stosuje się przepisy rozdziałów 2, 3 i 6 oraz art. 43.
+
+### 2.
+
+Do wniosku o wydanie pozwolenia na budowę inwestycji towarzyszących, o których mowa w art. 38 pkt 1, inwestor załącza opinię właściwego organu nadzoru górniczego. Przepisy art. 6 ust. 4 i 5 stosuje się odpowiednio.
+
+### 3.
+
+Do inwestycji towarzyszącej, o której mowa w art. 38 pkt 2 lit. h, przepis art. 32 stosuje się odpowiednio.
+
+### 4.
+
+W związku z inwestycją towarzyszącą, o której mowa w art. 38 pkt 2 lit. h, mogą być przyznawane ubezpieczenia eksportowe zgodnie z przepisami ustawy z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych ([Dz. U. z 2001 r. Nr 59, poz. 609](https://api.sejm.gov.pl/eli/acts/DU/2001/609/text.html), z [2004 r. Nr 96, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2004/959/text.html) oraz z [2005 r. Nr 143, poz. 1204](https://api.sejm.gov.pl/eli/acts/DU/2005/1204/text.html)).
+
+### Art. 40.
+
+### 1.
+
+W przypadku inwestycji towarzyszącej, o której mowa w art. 38 pkt 2 lit. h, organ właściwy do wydania decyzji, o której mowa w art. 5 ust. 1, jest obowiązany, za zgodą strony, na rzecz której decyzja została wydana, do jednokrotnego przeniesienia tej decyzji lub jej części na rzecz innego podmiotu będącego spółką zależną Operatora Gazociągów Przesyłowych GAZ-SYSTEM spółka akcyjna z siedzibą w Warszawie, jeżeli przyjmuje on warunki zawarte w tej decyzji.
+
+### 2.
+
+Przeniesienie decyzji, o którym mowa w ust. 1, nie wywołuje zmian w zakresie skutków, o których mowa w art. 20 i 24, zaistniałych przed dniem przeniesienia.
+
+### 3.
+
+Stronami postępowania w sprawie przeniesienia decyzji, o którym mowa w ust. 1, są jedynie podmioty, między którymi ma być dokonane przeniesienie decyzji.
+
+### 4.
+
+Przez inwestora rozumie się również podmiot, na który została przeniesiona decyzja.
+
+### 5.
+
+Przepisy ust. 1, 3 i 4 stosuje się odpowiednio do pozwolenia wodnoprawnego oraz decyzji, o której mowa w art. 19 ust. 1.
+
+### Art. 41.
+
+W przypadku inwestycji towarzyszących:
+
+### 1)
+
+termin, o którym mowa w art. 45 ust. 1a ustawy z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ([Dz. U. z 2005 r. Nr 228, poz. 1947](https://api.sejm.gov.pl/eli/acts/DU/2005/1947/text.html), z późn. zm.[24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556, z 2008 r. Nr 138, poz. 865, Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97.](#gloss-0:24:)), wynosi miesiąc;
+
+### 2)
+
+właściwy organ rozpatruje wniosek o wydanie koncesji na bezzbiornikowe magazynowanie substancji w górotworze w terminie 21 dni od dnia złożenia wniosku.
+
+### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i przepis końcowy
+
+### Art. 42.
+
+W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html) i [Nr 227, poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.html) oraz z [2009 r. Nr 42, poz. 340](https://api.sejm.gov.pl/eli/acts/DU/2009/340/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 64:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3, 10, 11, 13 i 15.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to opinii w sprawie obowiązku przeprowadzenia oceny oddziaływania przedsięwzięcia na środowisko dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz dla inwestycji realizowanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu ([Dz. U. Nr 84, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2009/700/text.html)) w zakresie zadań inwestycyjnych, o których mowa w art. 2 ust. 2 oraz art. 38 tej ustawy, zwanej dalej „inwestycją w zakresie terminalu.”;
+
+”
+
+### 2)
+
+w art. 67 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+zawierać informacje, o których mowa w art. 66, określone ze szczegółowością i dokładnością odpowiednio do posiadanych danych wynikających z projektu budowlanego i innych informacji uzyskanych po wydaniu decyzji o środowiskowych uwarunkowaniach i decyzji, o których mowa w art. 72 ust. 1 pkt 2-9 i pkt 11-15, jeżeli były już dla danego przedsięwzięcia wydane;
+
+### 2)
+
+określać stopień i sposób uwzględnienia wymagań dotyczących ochrony środowiska, zawartych w decyzji o środowiskowych uwarunkowaniach i decyzjach, o których mowa w art. 72 ust. 1 pkt 2-9 i pkt 11-15, jeżeli były już dla danego przedsięwzięcia wydane.
+
+” ;
+
+### 3)
+
+w art. 70 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3, pkt 10-13 i 15.
+
+” ;
+
+### 4)
+
+w art. 72 w ust. 1 dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu wydawanej na podstawie ustawy z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu.
+
+” ;
+
+### 5)
+
+w art. 74 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+dla przedsięwzięć, dla których organem prowadzącym postępowanie jest regionalny dyrektor ochrony środowiska - wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to wniosku o wydanie decyzji o środowiskowych uwarunkowaniach dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz dla inwestycji w zakresie terminalu;
+
+” ;
+
+### 6)
+
+w art. 75 w ust. 1 w pkt 1 dodaje się lit. f w brzmieniu:
+
+„
+
+### f)
+
+inwestycji w zakresie terminalu;
+
+” ;
+
+### 7)
+
+w art. 77:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zasięga opinii organu, o którym mowa w art. 78, w przypadku przedsięwzięć wymagających decyzji, o których mowa w art. 72 ust. 1 pkt 1-3 i pkt 10-15.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informację o jego braku; nie dotyczy to uzgodnień i opinii dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz dla inwestycji w zakresie terminalu.
+
+” ;
+
+### 8)
+
+w art. 80 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Właściwy organ wydaje decyzję o środowiskowych uwarunkowaniach po stwierdzeniu zgodności lokalizacji przedsięwzięcia z ustaleniami miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony. Nie dotyczy to decyzji o środowiskowych uwarunkowaniach wydawanej dla drogi publicznej, dla linii kolejowej o znaczeniu państwowym, dla przedsięwzięć Euro 2012, dla przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz dla inwestycji w zakresie terminalu.
+
+” ;
+
+### 9)
+
+w art. 96 w ust. 3 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+wypisu i wyrysu z miejscowego planu zagospodarowania przestrzennego, jeżeli plan ten został uchwalony, albo informacji o jego braku; nie dotyczy to drogi publicznej, linii kolejowej o znaczeniu państwowym, przedsięwzięć Euro 2012, przedsięwzięć wymagających koncesji na poszukiwanie i rozpoznawanie złóż kopalin oraz bezzbiornikowego magazynowania substancji w górotworze i inwestycji w zakresie terminalu.
+
+” .
+
+### Art. 43.
+
+### 1.
+
+W przypadku gdy lokalizacja inwestycji w zakresie terminalu przewidziana jest w obowiązującym miejscowym planie zagospodarowania przestrzennego, decyzji o ustaleniu lokalizacji inwestycji celu publicznego lub decyzji o warunkach zabudowy, inwestor w każdym czasie może wystąpić o wydanie:
+
+### 1)
+
+pozwolenia na budowę inwestycji w zakresie terminalu w trybie niniejszej ustawy;
+
+### 2)
+
+decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu w trybie niniejszej ustawy, z zastrzeżeniem że art. 6 ust. 3 pkt 1, 3, 4, 8 i 11 nie stosuje się;
+
+### 3)
+
+decyzji o ustaleniu lokalizacji inwestycji w zakresie terminalu w trybie niniejszej ustawy, w zakresie skutków, o których mowa w art. 20 lub art. 24 ust. 1, z zastrzeżeniem że w takim przypadku:
+
+### a)
+
+wniosek, o którym mowa w art. 6 ust. 1, zawiera dane określone w art. 6 ust. 1 pkt 8-11,
+
+### b)
+
+przepisu art. 6 ust. 3 nie stosuje się.
+
+### 2.
+
+Do postępowań w sprawach dotyczących inwestycji w zakresie terminalu, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy decyzją ostateczną, stosuje się przepisy dotychczasowe.
+
+### Art. 44.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.
+
+1) Niniejsza ustawa dokonuje zmiany ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206 i Nr 42, poz. 334. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 101 i Nr 65, poz. 545. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 64, poz. 456, Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601, z 2007 r. Nr 173, poz. 1218, z 2008 r. Nr 59, poz. 369 i Nr 220, poz. 1412 oraz z 2009 r. Nr 19, poz. 100 i Nr 42, poz. 335 i 340. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652, z 2004 r. Nr 6, poz. 41, Nr 93, poz. 895 i Nr 273, poz. 2703, z 2005 r. Nr 203, poz. 1683, z 2006 r. Nr 220, poz. 1600 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 171, poz. 1055. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1462, z 2006 r. Nr 12, poz. 63, z 2007 r. Nr 75, poz. 493, Nr 80, poz. 541 i Nr 191, poz. 1374, z 2008 r. Nr 237, poz. 1657 oraz z 2009 r. Nr 1, poz. 3. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 267, poz. 2255, z 2006 r. Nr 170, poz. 1217 i Nr 227, poz. 1658, z 2007 r. Nr 21, poz. 125, Nr 64, poz. 427, Nr 75, poz. 493, Nr 88, poz. 587, Nr 147, poz. 1033, Nr 176, poz. 1238, Nr 181, poz. 1286 i Nr 231, poz. 1704 oraz z 2008 r. Nr 199, poz. 1227 i Nr 227, poz. 1505. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106 i Nr 79, poz. 666. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 157, poz. 1315, Nr 167, poz. 1399 i Nr 175, poz. 1460 i 1462, z 2006 r. Nr 227, poz. 1658 i Nr 245, poz. 1775, z 2007 r. Nr 59, poz. 405, Nr 64, poz. 427 i Nr 181, poz. 1286, z 2008 r. Nr 163, poz. 1011 i Nr 199, poz. 1227 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 340 i Nr 69, poz. 595. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390, z 2006 r. Nr 50, poz. 362 i Nr 126, poz. 875, z 2007 r. Nr 192, poz. 1394 oraz z 2009 r. Nr 31, poz. 206. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 23, poz. 136 i Nr 192, poz. 1381, z 2008 r. Nr 54, poz. 326, Nr 218, poz. 1391 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100 i 101. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505 oraz z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97 i Nr 19, poz. 100. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 141, poz. 1008, Nr 170, poz. 1217 i Nr 249, poz. 1829, z 2007 r. Nr 50, poz. 331 i Nr 82, poz. 558, z 2008 r. Nr 97, poz. 625, Nr 144, poz. 901, Nr 177, poz. 1095, Nr 180, poz. 1113 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 42, poz. 340. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 166, poz. 1361 i Nr 200, poz. 1683 oraz z 2004 r. Nr 169, poz. 1766 i Nr 281, poz. 2782. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2007 r. Nr 75, poz. 493, Nr 176, poz. 1238 i Nr 181, poz. 1286, z 2008 r. Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 201, poz. 1237 oraz z 2009 r. Nr 18, poz. 97. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635 oraz z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206. 20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341 i Nr 79, poz. 662. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 123, poz. 1291, Nr 145, poz. 1537 i Nr 281, poz. 2785, z 2005 r. Nr 78, poz. 684 i Nr 183, poz. 1538 oraz z 2009 r. Nr 65, poz. 545. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505 oraz z 2009 r. Nr 3, poz. 11 i Nr 69, poz. 586. 23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367 oraz z 2009 r. Nr 53, poz. 433. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556, z 2008 r. Nr 138, poz. 865, Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97.

@@ -8,11 +8,9 @@ pos: 403
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych
-
-*USTAWA z dnia 8 marca 2013 r.*
+# Ustawa z dnia 8 marca 2013 r. o terminach zapłaty w transakcjach handlowych [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,444 +22,220 @@ domain: null
 | Data ogłoszenia | 2013-03-08 |
 | Data wydania | 2013-03-28 |
 | Ostatnia zmiana | 2025-12-16 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/403/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2013/403/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2013/403) |
 
-**Art. 1.** Ustawa określa szczególne uprawnienia wierzyciela i obowiązki dłużnika w związku z terminami zapłaty w transakcjach handlowych, skutki niewykonania takich obowiązków oraz postępowanie w sprawie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
+## Treść ustawy
 
-**Art. 2.** Przepisy ustawy stosuje się do transakcji handlowych, których wyłącznymi stronami są:
+### Art. 1.
 
-**Art. 3.** Przepisów ustawy nie stosuje się do:
+Ustawa określa szczególne uprawnienia wierzyciela i obowiązki dłużnika w związku z terminami zapłaty w transakcjach handlowych.
 
-**Art. 4.** Użyte w ustawie określenia oznaczają:
+### Art. 2.
 
-**Art. 4a.** Do transakcji handlowych nie stosuje się przepisu art. 481 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i 1285).
+Przepisy ustawy stosuje się do transakcji handlowych, których wyłącznymi stronami są:
 
-**Art. 4b.** Dłużnik będący dużym przedsiębiorcą nie może powoływać się przeciwko wierzycielowi będącemu mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą na jego oświadczenie, że nie jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą, chyba że mimo dołożenia należytej staranności nie wiedział o nieprawdziwości tego oświadczenia.
+### 1)
 
-**Art. 4c.**
+przedsiębiorcy w rozumieniu przepisów art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2010 r. Nr 220, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2010/1447/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407, 1445 i 1529.](#gloss-0:3:));
 
-1. Przedsiębiorca składa drugiej stronie transakcji handlowej oświadczenie o posiadaniu, uzyskaniu albo utracie statusu dużego przedsiębiorcy, jeżeli odpowiednio posiada, uzyskał albo utracił ten status.
+### 2)
 
-2. Oświadczenie o:
+podmioty prowadzące działalność, o której mowa w art. 3 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej;
 
-- **1)** posiadaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami,
-- **2)** uzyskaniu statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po uzyskaniu tego statusu,
-- **3)** utracie statusu dużego przedsiębiorcy składa się najpóźniej w momencie zawarcia pierwszej transakcji handlowej między stronami po utracie tego statusu – jednokrotnie, w formie, w jakiej jest zawierana ta transakcja handlowa.
+### 3)
 
-**Art. 5.** Jeżeli strony transakcji handlowej, z wyłączeniem podmiotu publicznego będącego podmiotem leczniczym, przewidziały w umowie termin zapłaty dłuższy niż 30 dni, wierzyciel, który nie jest dużym przedsiębiorcą, może żądać odsetek ustawowych po upływie 30 dni, liczonych od dnia spełnienia swojego świadczenia i doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, do dnia zapłaty, ale nie dłużej niż do dnia wymagalności świadczenia pieniężnego.
+podmioty, o których mowa w art. 3 ust. 1 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2010 r. Nr 113, poz. 759](https://api.sejm.gov.pl/eli/acts/DU/2010/759/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228, z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143, Nr 87, poz. 484, Nr 234, poz. 1386 i Nr 240, poz. 1429 oraz z 2012 r. poz. 769, 951, 1101, 1271 i 1529.](#gloss-0:4:));
 
-**Art. 6.**
+### 4)
 
-1. Jeżeli strony transakcji handlowej nie przewidziały w umowie terminu zapłaty, wierzycielowi, bez wezwania, przysługują odsetki ustawowe za opóźnienie w transakcjach handlowych, po upływie 30 dni liczonych od dnia spełnienia przez niego świadczenia, do dnia zapłaty. W przypadku, o którym mowa w art. 9 ust. 1, upływ 30 dni liczony jest od dnia zakończenia badania.
+osoby wykonujące wolny zawód;
 
-2. (uchylony)
+### 5)
 
-3. (uchylony)
+oddziały i przedstawicielstwa przedsiębiorców zagranicznych;
 
-**Art. 7.**
+### 6)
 
-1. W transakcjach handlowych – z wyłączeniem transakcji, w których dłużnikiem jest podmiot publiczny – wierzycielowi, bez wezwania, przysługują odsetki ustawowe za opóźnienie w transakcjach handlowych, chyba że strony uzgodniły wyższe odsetki, za okres od dnia wymagalności świadczenia pieniężnego do dnia zapłaty, jeżeli są spełnione łącznie następujące warunki:
+zagraniczni przedsiębiorcy, o których mowa w art. 1 ustawy z dnia 6 lipca 1982 r. o zasadach prowadzenia na terytorium Polskiej Rzeczypospolitej Ludowej działalności gospodarczej w zakresie drobnej wytwórczości przez zagraniczne osoby prawne i fizyczne ([Dz. U. z 1989 r. Nr 27, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/1989/148/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 74, poz. 442, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591, z 1997 r. Nr 121, poz. 769 i 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 173, poz. 1808 oraz z 2010 r. Nr 182, poz. 1228.](#gloss-0:5:)), prowadzący przedsiębiorstwa na terytorium Rzeczypospolitej Polskiej;
 
-- **1)** wierzyciel spełnił swoje świadczenie;
-- **2)** wierzyciel nie otrzymał zapłaty w terminie określonym w umowie.
+### 7)
 
-2. Termin zapłaty określony w umowie nie może przekraczać 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, chyba że strony w umowie wyraźnie ustalą inaczej i pod warunkiem że ustalenie to nie jest rażąco nieuczciwe wobec wierzyciela, z wyłączeniem ust. 2a.
+przedsiębiorcy z państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
 
-2a. Termin zapłaty określony w umowie nie może przekraczać 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, jeżeli dłużnikiem zobowiązanym do zapłaty za towary lub usługi jest duży przedsiębiorca, a wierzycielem jest mikroprzedsiębiorca, mały przedsiębiorca albo średni przedsiębiorca. W przypadku gdy strony ustalą harmonogram spełnienia świadczenia pieniężnego w częściach, termin ten stosuje się do zapłaty każdej części świadczenia pieniężnego.
+### Art. 3.
 
-3. Jeżeli termin zapłaty został określony w umowie niezgodnie z ust. 2 albo ust. 2a, wierzycielowi, który spełnił swoje świadczenie, po upływie 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, przysługują odsetki, o których mowa w ust. 1.
+Przepisów ustawy nie stosuje się do:
 
-3a. Wierzyciel może odstąpić od umowy albo wypowiedzieć umowę, jeżeli termin zapłaty określony w umowie przekracza 120 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, i został ustalony z naruszeniem przepisu ust. 2.
+### 1)
 
-3b. Jeżeli wierzyciel wypowiedział umowę na podstawie ust. 3a, świadczenia pieniężne przysługujące mu od dłużnika z tytułu już dostarczonych towarów lub wykonanych usług stają się wymagalne w terminie 7 dni od dnia wypowiedzenia umowy. Jeżeli wierzyciel nie otrzyma świadczenia pieniężnego w tym terminie, przysługują mu odsetki, o których mowa w ust. 1.
+długów objętych postępowaniami prowadzonymi na podstawie przepisów ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze ([Dz. U. z 2012 r. poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2012/1112/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html) oraz [z 2013 r. poz. 355](https://api.sejm.gov.pl/eli/acts/DU/2013/355/text.html));
 
-4. W przypadku gdy nie jest możliwe ustalenie dnia doręczenia faktury lub rachunku potwierdzających dostawę towaru lub wykonanie usługi albo gdy faktura lub rachunek zostały doręczone przed dostawą towaru lub wykonaniem usługi, termin zapłaty, o którym mowa w ust. 2, 2a lub 3a albo art. 13 ust. 2 pkt 1 lub 2, jest liczony od dnia otrzymania przez dłużnika towaru lub usługi.
+### 2)
 
-**Art. 8.**
+umów, na podstawie których są wykonywane czynności bankowe w rozumieniu przepisów art. 5 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2012 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2012/1376/text.html), [1385](https://api.sejm.gov.pl/eli/acts/DU/2012/1385/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html));
 
-1. W transakcjach handlowych, w których dłużnikiem jest podmiot publiczny, wierzycielowi, bez wezwania, przysługują odsetki ustawowe za opóźnienie w transakcjach handlowych, za okres od dnia wymagalności świadczenia pieniężnego do dnia zapłaty, jeżeli są spełnione łącznie następujące warunki:
+### 3)
 
-- **1)** wierzyciel spełnił swoje świadczenie;
-- **2)** wierzyciel nie otrzymał zapłaty w terminie określonym w umowie.
+umów, których stronami są wyłącznie podmioty zaliczane do sektora finansów publicznych w rozumieniu przepisów o finansach publicznych;
 
-2. Termin zapłaty określony w umowie nie może przekraczać 30 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, a w transakcjach handlowych, w których dłużnikiem jest podmiot publiczny będący podmiotem leczniczym, termin ten nie może przekraczać 60 dni. W przypadku gdy strony ustalą harmonogram spełnienia świadczenia pieniężnego w częściach, termin ten stosuje się do zapłaty każdej części świadczenia pieniężnego.
+### 4)
 
-3. (uchylony)
+dostaw i usług, do których stosuje się przepis art. 346 ust. 1 lit. b Traktatu o funkcjonowaniu Unii Europejskiej.
 
-4. Jeżeli ustalony w umowie termin zapłaty jest dłuższy niż 30 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, wierzycielowi, który spełnił swoje świadczenie, po upływie 30 dni przysługują odsetki, o których mowa w ust. 1.
+### Art. 4.
 
-4a. Jeżeli w transakcji handlowej, w której dłużnikiem jest podmiot publiczny będący podmiotem leczniczym, ustalony w umowie termin zapłaty jest dłuższy niż 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, wierzycielowi, który spełnił swoje świadczenie, po upływie 60 dni przysługują odsetki, o których mowa w ust. 1.
+Użyte w ustawie określenia oznaczają:
 
-5. W przypadku gdy nie jest możliwe ustalenie dnia doręczenia faktury lub rachunku potwierdzających dostawę towaru lub wykonanie usługi albo gdy faktura lub rachunek zostały doręczone przed dostawą towaru lub wykonaniem usługi, termin zapłaty, o którym mowa w ust. 2 albo art. 13 ust. 2 pkt 3 lub 4, jest liczony od dnia otrzymania przez dłużnika towaru lub usługi.
+### 1)
 
-**Art. 8a.** Strony transakcji handlowej nie mogą ustalać daty doręczenia faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi.
+transakcja handlowa - umowę, której przedmiotem jest odpłatna dostawa towaru lub odpłatne świadczenie usługi, jeżeli strony, o których mowa w art. 2, zawierają ją w związku z wykonywaną działalnością;
 
-**Art. 9.**
+### 2)
 
-1. Jeżeli strony transakcji handlowej przewidziały w umowie zbadanie towaru lub usługi celem potwierdzenia zgodności towaru lub usługi z umową, ustalony w umowie termin tego badania nie może być rażąco nieuczciwy wobec wierzyciela i nie może przekraczać 30 dni, licząc od dnia otrzymania towaru lub usługi.
+podmiot publiczny - podmioty, o których mowa w art. 3 ust. 1 pkt 1-3a ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych.
 
-2. W przypadku, o którym mowa w ust. 1, jeżeli dłużnik otrzymał fakturę lub rachunek, potwierdzające dostawę towaru lub wykonanie usługi, przed dniem rozpoczęcia badania towaru lub usługi lub w trakcie tego badania, termin zapłaty jest liczony od dnia zakończenia badania towaru lub usługi.
+### Art. 5.
 
-**Art. 9a.**
+Jeżeli strony transakcji handlowej, z wyłączeniem podmiotu publicznego będącego podmiotem leczniczym w rozumieniu art. 4 ust. 1 pkt 2-4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ([Dz. U. z 2013 r. poz. 217](https://api.sejm.gov.pl/eli/acts/DU/2013/217/text.html)), przewidziały w umowie termin zapłaty dłuższy niż 30 dni, wierzyciel może żądać odsetek ustawowych po upływie 30 dni, liczonych od dnia spełnienia swojego świadczenia i doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, do dnia zapłaty, ale nie dłużej niż do dnia wymagalności świadczenia pieniężnego.
 
-1. W transakcjach handlowych, w których dłużnikiem jest duży przedsiębiorca, a wierzycielem jest mikroprzedsiębiorca, mały przedsiębiorca albo średni przedsiębiorca, zastrzeżenie umowne wyłączające albo ograniczające prawo wierzyciela do przelewu wierzytelności staje się bezskuteczne, jeżeli zapłata nie nastąpiła w terminie określonym w umowie, a jeżeli tego terminu w umowie nie określono – od dnia wymagalności świadczenia pieniężnego.
+### Art. 6.
 
-2. Przepisu ust. 1 nie stosuje się do transakcji handlowych, w których dłużnikiem jest podmiot publiczny.
+### 1.
 
-**Art. 10.**
+W przypadku gdy termin zapłaty nie został określony w umowie, wierzycielowi, bez wezwania, przysługują odsetki ustawowe, po upływie 30 dni, liczonych od dnia spełnienia swojego świadczenia do dnia zapłaty, ale nie dłużej niż do dnia wymagalności świadczenia pieniężnego.
 
-1. Wierzycielowi, od dnia nabycia uprawnienia do odsetek, o których mowa w art. 7 ust. 1 lub art. 8 ust. 1, przysługuje od dłużnika, bez wezwania, rekompensata za koszty odzyskiwania należności, stanowiąca równowartość kwoty:
+### 2.
 
-- **1)** 40 euro – gdy wartość świadczenia pieniężnego nie przekracza 5000 złotych;
-- **2)** 70 euro – gdy wartość świadczenia pieniężnego jest wyższa niż 5000 złotych, ale niższa niż 50 000 złotych;
-- **3)** 100 euro – gdy wartość świadczenia pieniężnego jest równa lub wyższa od 50 000 złotych.
+Za dzień wymagalności świadczenia pieniężnego, o którym mowa w ust. 1, uważa się dzień określony w pisemnym wezwaniu dłużnika do zapłaty, w szczególności w doręczonej dłużnikowi fakturze lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, ale nie wcześniejszy niż dzień doręczenia wezwania.
 
-1a. Równowartość kwoty rekompensaty, o której mowa w ust. 1, jest ustalana przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski ostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym świadczenie pieniężne stało się wymagalne.
+### 3.
 
-2. Oprócz kwoty, o której mowa w ust. 1, wierzycielowi przysługuje również zwrot, w uzasadnionej wysokości, poniesionych kosztów odzyskiwania należności przewyższających tę kwotę.
+Za dzień wymagalności świadczenia pieniężnego, o którym mowa w ust. 1, uważa się również dzień określony w wezwaniu dłużnika do zapłaty dokonanym w postaci elektronicznej, o ile strony przewidziały w umowie taki sposób składania oświadczeń woli.
 
-3. Uprawnienie do kwoty, o której mowa w ust. 1, przysługuje od transakcji handlowej, z zastrzeżeniem art. 11 ust. 2 pkt 2.
+### Art. 7.
 
-4. Roszczenie o rekompensatę, o której mowa w ust. 1, nie może być zbyte.
+### 1.
 
-**Art. 11.**
+W transakcjach handlowych - z wyłączeniem transakcji, w których dłużnikiem jest podmiot publiczny - wierzycielowi, bez wezwania, przysługują odsetki w wysokości odsetek za zwłokę określanej na podstawie art. 56 § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2012 r. poz. 749](https://api.sejm.gov.pl/eli/acts/DU/2012/749/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35.](#gloss-0:6:)), chyba że strony uzgodniły wyższe odsetki, za okres od dnia wymagalności świadczenia pieniężnego do dnia zapłaty, jeżeli są spełnione łącznie następujące warunki:
 
-1. Strony transakcji handlowej mogą ustalić w umowie harmonogram spełnienia świadczenia pieniężnego w częściach, pod warunkiem że ustalenie takie nie jest rażąco nieuczciwe wobec wierzyciela.
+### 1)
 
-2. Jeżeli strony transakcji handlowej ustaliły w umowie, że świadczenie pieniężne będzie spełniane w częściach, uprawnienie do:
+wierzyciel spełnił swoje świadczenie;
 
-- **1)** odsetek, o których mowa w art. 7 ust. 1 lub art. 8 ust. 1,
-- **2)** kwoty, o której mowa w art. 10 ust. 1, oraz zwrotu poniesionych kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2 – przysługuje w stosunku do każdej niezapłaconej części.
+### 2)
 
-**Art. 11a.**
+wierzyciel nie otrzymał zapłaty w terminie określonym w umowie albo wezwaniu, o którym mowa w art. 6 ust. 2 i 3.
 
-1. Oceny, czy postanowienia umowne są rażąco nieuczciwe wobec wierzyciela, dokonuje się, biorąc pod uwagę wszystkie okoliczności sprawy, w szczególności:
+### 2.
 
-- **1)** rażące odstępstwa od dobrych praktyk handlowych, które naruszają zasadę działania w dobrej wierze i zasadę rzetelności;
-- **2)** właściwość towaru lub usługi, które są przedmiotem transakcji handlowej, w szczególności czas zwykle potrzebny na zbycie towaru przez dłużnika na rzecz osób trzecich, lub
-- **3)** dostosowanie harmonogramu dostawy towarów lub wykonania usługi w częściach do harmonogramu spełniania odpowiadających im części świadczenia pieniężnego.
+Termin zapłaty określony w umowie nie może przekraczać 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, chyba że strony ustalą inaczej i pod warunkiem że ustalenie to nie jest sprzeczne ze społeczno-gospodarczym celem umowy i zasadami współżycia społecznego oraz jest obiektywnie uzasadnione, biorąc pod uwagę właściwość towaru lub usługi.
 
-2. Na dłużniku spoczywa ciężar dowodu, że termin zapłaty dłuższy niż 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, albo liczonych zgodnie z art. 7 ust. 4 lub art. 9 ust. 2, nie jest rażąco nieuczciwy wobec wierzyciela.
+### 3.
 
-3. Ustalenia, że termin zapłaty był rażąco nieuczciwy wobec wierzyciela, wierzyciel może żądać przed upływem 3 lat od dnia, w którym nastąpiła zapłata lub w którym zgodnie z ustawą powinna nastąpić zapłata.
+Jeżeli ustalony w umowie termin zapłaty jest dłuższy niż 60 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, a nie jest spełniony warunek, o którym mowa w ust. 2, wierzycielowi, który spełnił swoje świadczenie, po upływie 60 dni przysługują odsetki, o których mowa w ust. 1.
 
-4. Zrzeczenie się roszczenia o ustalenie, że termin zapłaty jest rażąco nieuczciwy wobec wierzyciela, jest nieważne.
+### 4.
 
-**Art. 11b.** Do ustalenia wysokości odsetek ustawowych za opóźnienie w transakcjach handlowych stosuje się stopę referencyjną Narodowego Banku Polskiego obowiązującą w dniu:
+W przypadku gdy nie jest możliwe ustalenie daty otrzymania faktury lub rachunku potwierdzającego dostawę towaru lub wykonanie usługi albo gdy faktura lub rachunek zostały doręczone przed dostawą towaru lub wykonaniem usługi, termin zapłaty, o którym mowa w ust. 2, jest liczony od dnia otrzymania przez dłużnika towaru lub usługi.
 
-**Art. 11c.** Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość odsetek ustawowych za opóźnienie w transakcjach handlowych.
+### Art. 8.
 
-**Art. 12.**
+### 1.
 
-1. Krajowa lub regionalna organizacja, której celem statutowym jest ochrona interesów podmiotów, o których mowa w art. 2, może, za zgodą takiego podmiotu wyrażoną na piśmie, wytoczyć na jego rzecz powództwo o zapłatę odsetek, o których mowa w art. 5, art. 6 ust. 1, art. 7 ust. 1 i 3 oraz art. 8 ust. 1, 4 i 4a, a także zapłatę rekompensaty, o której mowa w art. 10 ust. 1, i zwrot poniesionych kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2, lub przystąpić do toczącego się postępowania.
+W transakcjach handlowych, w których dłużnikiem jest podmiot publiczny, wierzycielowi, bez wezwania, przysługują odsetki w wysokości odsetek za zwłokę określanej na podstawie art. 56 § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, za okres od dnia wymagalności świadczenia pieniężnego do dnia zapłaty, jeżeli są spełnione łącznie następujące warunki:
 
-2. Do pozwu lub pisma obejmującego przystąpienie organizacja, o której mowa w ust. 1, dołącza, wyrażoną na piśmie, zgodę podmiotu, o którym mowa w art. 2.
+### 1)
 
-3. Do organizacji, o której mowa w ust. 1, wytaczającej powództwo na rzecz podmiotu, o którym mowa w art. 2, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
+wierzyciel spełnił swoje świadczenie;
 
-4. Do przystąpienia organizacji, o której mowa w ust. 1, do strony w toczącym się postępowaniu stosuje się odpowiednio przepisy o interwencji ubocznej, do której nie mają odpowiedniego zastosowania przepisy o współuczestnictwie jednolitym.
+### 2)
 
-**Art. 13.**
+wierzyciel nie otrzymał zapłaty w terminie określonym w umowie albo wezwaniu, o którym mowa w art. 6 ust. 2 i 3.
 
-1. Postanowienia umowy wyłączające lub ograniczające uprawnienia wierzyciela lub obowiązki dłużnika, o których mowa w art. 5, art. 6 ust. 1, art. 7 ust. 1 i 3, art. 8 ust. 1, 4 i 4a, art. 10, art. 11 i art. 12, lub mające na celu obejście tych przepisów, są nieważne, a zamiast nich stosuje się przepisy ustawy.
+### 2.
 
-2. Zamiast postanowień umowy ustalających termin zapłaty z naruszeniem:
+Termin zapłaty określony w umowie nie może przekraczać 30 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, a w transakcjach handlowych, w których dłużnikiem jest podmiot publiczny będący podmiotem leczniczym w rozumieniu art. 4 ust. 1 pkt 2-4 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, termin ten nie może przekraczać 60 dni.
 
-- **1)** art. 7 ust. 2 – stosuje się termin zapłaty 60 dni,
-- **2)** art. 7 ust. 2a – stosuje się termin zapłaty 60 dni,
-- **3)** art. 8 ust. 2 – gdy dłużnikiem jest podmiot publiczny niebędący podmiotem leczniczym, stosuje się termin zapłaty 30 dni,
-- **4)** art. 8 ust. 2 – gdy dłużnikiem jest podmiot publiczny będący podmiotem leczniczym, stosuje się termin zapłaty 60 dni – liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, albo liczonych zgodnie z art. 7 ust. 4 albo art. 8 ust. 5 lub art. 9 ust. 2.
+### 3.
 
-3. Zawarte przez strony transakcji handlowej umowy niebędące transakcjami handlowymi mające na celu obejście ustawy są nieważne.
+Strony transakcji handlowej mogą ustalić termin zapłaty dłuższy niż 30 dni, pod warunkiem że ustalenie to jest obiektywnie uzasadnione właściwością lub szczególnymi elementami umowy, a termin ten nie przekracza 60 dni.
 
-4. Przepis ust. 3 stosuje się odpowiednio do postanowień umowy będącej transakcją handlową mających na celu obejście ustawy.
+### 4.
 
-**Art. 13a.**
+Jeżeli ustalony w umowie termin zapłaty jest dłuższy niż 30 dni, liczonych od dnia doręczenia dłużnikowi faktury lub rachunku, potwierdzających dostawę towaru lub wykonanie usługi, a nie jest spełniony warunek, o którym mowa w ust. 3, wierzycielowi, który spełnił swoje świadczenie, po upływie 30 dni przysługują odsetki, o których mowa w ust. 1.
 
-1. Podmioty, o których mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ), których indywidualne dane zostały podane do publicznej wiadomości w terminie wskazanym w art. 27b ust. 1 tej ustawy, z wyłączeniem podmiotów publicznych będących podmiotami leczniczymi oraz podmiotów, o których mowa w art. 6 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, przekazują ministrowi właściwemu do spraw gospodarki drogą elektroniczną w terminie do dnia 30 kwietnia roku bezpośrednio następującego po roku, w którym ich indywidualne dane zostały podane do publicznej wiadomości, sprawozdanie o stosowanych przez te podmioty w poprzednim roku kalendarzowym terminach zapłaty w transakcjach handlowych.
+### 5.
 
-1a. W sprawozdaniu, o którym mowa w ust. 1, nie uwzględnia się:
+W przypadku gdy nie jest możliwe ustalenie daty otrzymania faktury lub rachunku potwierdzającego dostawę towaru lub wykonanie usługi albo gdy faktura lub rachunek zostały doręczone przed dostawą towaru lub wykonaniem usługi, termin zapłaty, o którym mowa w ust. 2 i 3, jest liczony od dnia otrzymania przez dłużnika towaru lub usługi.
 
-- **1)** transakcji handlowych zawieranych w zakresie działalności ubezpieczeniowej i reasekuracyjnej, o których mowa odpowiednio w art. 4 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2023 r. poz. 656, 614 i 825);
-- **2)** transakcji handlowych, których wyłącznymi stronami są podmioty należące do tej samej grupy kapitałowej;
-- **3)** świadczeń pieniężnych, w przypadku których upłynął termin przedawnienia.
+### Art. 9.
 
-2. (uchylony)
+### 1.
 
-3. Za przekazanie w terminie sprawozdania, o którym mowa w ust. 1, jest odpowiedzialny kierownik podmiotu, o którym mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych. Za kierownika podmiotu uznaje się członka zarządu lub innego organu zarządzającego tego podmiotu, osobę pełniącą funkcję takiego organu, a jeżeli w podmiocie tym nie działa taki organ – osobę zarządzającą jego działalnością. W przypadku spółki komandytowo-akcyjnej oraz spółki komandytowej za kierownika podmiotu uznaje się komplementariusza prowadzącego sprawy spółki, a w przypadku spółki jawnej – wspólnika prowadzącego sprawy spółki. Za kierownika podmiotu uznaje się również likwidatora, syndyka oraz zarządcę ustanowionego w postępowaniu restrukturyzacyjnym.
+Jeżeli strony transakcji handlowej przewidziały w umowie zbadanie towaru lub usługi celem potwierdzenia zgodności towaru lub usługi z umową, czas trwania tego badania nie może być sprzeczny ze społeczno-gospodarczym celem umowy i zasadami współżycia społecznego oraz musi być obiektywnie uzasadniony, biorąc pod uwagę właściwość towaru lub usługi, i nie może przekraczać 30 dni, liczonych od dnia otrzymania towaru lub usługi.
 
-4. Sprawozdanie, o którym mowa w ust. 1, zawiera następujące dane dotyczące podmiotu, o którym mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych:
+### 2.
 
-- **1)** firmę (nazwę) i numer identyfikacji podatkowej;
-- **2)** wartość świadczeń pieniężnych otrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie;
-- **3)** wartość świadczeń pieniężnych spełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie;
-- **4)** wartość świadczeń pieniężnych nieotrzymanych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o:
-    - **a)** nie więcej niż 5 dni,
-    - **b)** 6 do 30 dni,
-    - **c)** 31 do 60 dni,
-    - **d)** 61 do 120 dni,
-    - **e)** więcej niż 120 dni;
+W przypadku, o którym mowa w ust. 1, jeżeli dłużnik otrzymał fakturę lub rachunek, potwierdzające dostawę towaru lub wykonanie usługi, przed dniem rozpoczęcia badania towaru lub usługi lub w trakcie tego badania, termin zapłaty jest liczony od dnia zakończenia badania towaru lub usługi.
 
-- **5)** wartość świadczeń pieniężnych niespełnionych w poprzednim roku kalendarzowym w terminie określonym w umowie, w przypadku których przekroczono ten termin o:
-    - **a)** nie więcej niż 5 dni,
-    - **b)** 6 do 30 dni,
-    - **c)** 31 do 60 dni,
-    - **d)** 61 do 120 dni,
-    - **e)** więcej niż 120 dni;
+### Art. 10.
 
-- **6)** udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 4, w całkowitej wartości świadczeń pieniężnych należnych temu podmiotowi w poprzednim roku kalendarzowym;
-- **7)** udział procentowy poszczególnych świadczeń pieniężnych, o których mowa w pkt 5, w całkowitej wartości świadczeń pieniężnych, do których spełnienia zobowiązany był ten podmiot w poprzednim roku kalendarzowym.
+### 1.
 
-4a. Dane, o których mowa w ust. 4 pkt 2–7, podaje się z uwzględnieniem art. 13 ust. 2.
+Wierzycielowi, od dnia nabycia uprawnienia do odsetek, o którym mowa w art. 7 ust. 1 lub art. 8 ust. 1, bez wezwania, przysługuje od dłużnika z tytułu rekompensaty za koszty odzyskiwania należności równowartość kwoty 40 euro przeliczonych na złote według średniego kursu euro ogłoszonego przez Narodowy Bank Polski ostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym świadczenie pieniężne stało się wymagalne.
 
-4b. Wartości świadczeń pieniężnych, o których mowa w ust. 4 pkt 2–5, podaje się w walucie polskiej.
+### 2.
 
-4c. Wyrażone w walucie obcej wartości świadczeń pieniężnych, o których mowa w ust. 4 pkt 2–5, przelicza się na walutę polską według zasad rachunkowości przyjętych przez podmiot, o którym mowa w art. 27b ust. 2 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+W przypadku gdy koszty odzyskiwania należności poniesione z tytułu opóźnień w zapłacie w transakcji handlowej przekroczą kwotę, o której mowa w ust. 1, wierzycielowi przysługuje zwrot tych kosztów, w tym kosztów postępowania sądowego, pomniejszonych o tę kwotę.
 
-4d. Wartości świadczeń pieniężnych, o których mowa w ust. 4 pkt 2–5, oraz udziały procentowe, o których mowa w ust. 4 pkt 6 i 7, podaje się z dokładnością odpowiednio do 1 grosza i setnych części procentu.
+### Art. 11.
 
-5. Minister właściwy do spraw gospodarki podaje do publicznej wiadomości, w Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego tego ministra, zbiorcze zestawienie sprawozdań, o których mowa w ust. 1, corocznie w terminie do dnia 31 sierpnia.
+Jeżeli strony transakcji handlowej zastrzegły w umowie, że świadczenie pieniężne będzie następować częściami, uprawnienie do:
 
-6. Sprawozdanie, o którym mowa w ust. 1, jest przekazywane ministrowi właściwemu do spraw gospodarki przy użyciu formularzy elektronicznych udostępnianych w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra lub za pośrednictwem elektronicznej platformy usług administracji publicznej w rozumieniu art. 3 pkt 13 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123 i 1234). Art. 13aa. 1. Podmiot, który przekazał sprawozdanie, o którym mowa w art. 13a ust. 1, składa korektę tego sprawozdania, jeżeli co najmniej w jednej pozycji przekazanego sprawozdania dane uległy zmianie o co najmniej 10% wartości, z wyłączeniem przypadku, o którym mowa w art. 13ab. Przepis art. 13a stosuje się odpowiednio.
+### 1)
 
-2. Korektę sprawozdania, o którym mowa w art. 13a ust. 1, składa się wraz z uzasadnieniem przyczyn korekty. Art. 13ab. Jeżeli wartości świadczeń pieniężnych zawarte w sprawozdaniu, o którym mowa w art. 13a ust. 1, uległy zmianie w latach następujących po roku, za który złożono sprawozdanie, zmiany te uwzględnia się w sprawozdaniu za rok, w którym świadczenie pieniężne w zakresie zmienionej wartości jest wymagalne.
+odsetek, o którym mowa w art. 7 ust. 1 lub art. 8 ust. 1 - przysługuje w stosunku do niezapłaconej części;
 
-**Art. 13b.**
+### 2)
 
-1. Zakazane jest nadmierne opóźnianie się ze spełnianiem świadczeń pieniężnych przez podmioty, o których mowa w art. 2, niebędące podmiotami publicznymi.
+kwoty, o której mowa w art. 10 ust. 1, oraz do zwrotu kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2 - przysługuje odrębnie do niezapłaconej części.
 
-2. Nadmierne opóźnianie się ze spełnianiem świadczeń pieniężnych przez podmiot, o którym mowa w art. 2, niebędący podmiotem publicznym, ma miejsce w przypadku, gdy w okresie 3 kolejnych miesięcy suma wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie przez ten podmiot wynosi co najmniej 2 000 000 złotych.
+### Art. 12.
 
-3. W przypadku gdy świadczenie pieniężne zostało wyrażone w walucie obcej, jego równowartość jest ustalana przy zastosowaniu średniego kursu waluty obcej ogłoszonego przez Narodowy Bank Polski:
+Krajowa lub regionalna organizacja, której celem statutowym jest ochrona interesów podmiotów, o których mowa w art. 2, może wystąpić, na wniosek wierzyciela będącego takim podmiotem, w jego imieniu i na jego rzecz, o zapłatę odsetek, o których mowa w art. 5, art. 6 ust. 1, art. 7 ust. 1 i 3, art. 8 ust. 1, kwoty, o której mowa w art. 10 ust. 1, i o zwrot kosztów odzyskiwania należności, o których mowa w art. 10 ust. 2.
 
-- **1)** ostatniego dnia roboczego okresu objętego postępowaniem, o którym mowa w art. 13c ust. 1 – w stosunku do świadczeń pieniężnych niespełnionych w okresie objętym tym postępowaniem;
-- **2)** ostatniego dnia roboczego poprzedzającego dzień spełnienia świadczenia pieniężnego – w stosunku do świadczeń pieniężnych spełnionych po terminie w okresie objętym postępowaniem, o którym mowa w art. 13c ust. 1.
+### Art. 13.
 
-4. Przy ustalaniu wystąpienia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „Prezesem Urzędu”, pomija:
+Postanowienia umowy wyłączające lub ograniczające uprawnienia wierzyciela lub obowiązki dłużnika, o których mowa w art. 5, art. 6 ust. 1, art. 7 ust. 1 i 3, art. 8 ust. 1 i art. 10-12, są nieważne.
 
-- **1)** niespełnione oraz spełnione po terminie świadczenia pieniężne, których termin spełnienia upłynął wcześniej niż 2 lata przed dniem wszczęcia postępowania, o którym mowa w art. 13c ust. 1;
-- **2)** transakcje handlowe, których wyłącznymi stronami są podmioty należące do tej samej grupy kapitałowej;
-- **3)** transakcje handlowe zawierane w zakresie działalności ubezpieczeniowej i reasekuracyjnej, o których mowa odpowiednio w art. 4 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
+### Art. 14.
 
-**Art. 13c.**
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621, z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342, Nr 233, poz. 1381 i Nr 234, poz. 1391 oraz z 2012 r. poz. 908, 1445 i 1529.](#gloss-0:7:)) w art. 485 § 2a otrzymuje brzmienie:
 
-1. Postępowanie w sprawie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych, zwane dalej „postępowaniem”, prowadzi Prezes Urzędu wobec podmiotów, o których mowa w art. 2, niebędących podmiotami publicznymi.
+„
 
-2. Postępowanie wszczyna się z urzędu, jeżeli posiadane przez Prezesa Urzędu informacje wskazują na wystąpienie nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
+### § 2a.
 
-3. Wszczęcie postępowania poprzedza przeprowadzana przez Prezesa Urzędu analiza prawdopodobieństwa nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych. Analiza ta obejmuje identyfikację obszarów, w których ryzyko powstawania takiego opóźniania się jest największe, w szczególności analiza ta uwzględnia szacowaną wartość świadczeń pieniężnych niespełnionych oraz spełnionych po terminie przez dany podmiot i liczbę wierzycieli, którzy takich świadczeń od tego podmiotu nie otrzymali lub otrzymali je po terminie.
+Sąd wydaje nakaz zapłaty na podstawie dołączonej do pozwu umowy, dowodu spełnienia wzajemnego świadczenia niepieniężnego, dowodu doręczenia dłużnikowi faktury lub rachunku, jeżeli powód dochodzi należności zapłaty świadczenia pieniężnego, odsetek w transakcjach handlowych określonych w ustawie z dnia 8 marca 2013 r. o terminach zapłaty w transakcjach handlowych ([Dz. U. poz. 403](https://api.sejm.gov.pl/eli/acts/DU/2013/403/text.html)) lub kwoty, o której mowa w art. 10 ust. 1 tej ustawy, oraz na podstawie dokumentów potwierdzających poniesienie kosztów odzyskiwania należności, jeżeli powód dochodzi również zwrotu kosztów, o których mowa w art. 10 ust. 2 tej ustawy.
 
-4. Prezes Urzędu może wystąpić do Szefa Krajowej Administracji Skarbowej z wnioskiem o przekazanie danych, o których mowa w art. 299f § 7 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), w celu dokonania analizy, o której mowa w ust. 3.
+” .
 
-5. Minister właściwy do spraw gospodarki przekazuje Prezesowi Urzędu sprawozdania, o których mowa w art. 13a ust. 1, oraz informację o podmiotach, które nie złożyły w terminie tych sprawozdań, ze wskazaniem ich firmy (nazwy) i numeru identyfikacji podatkowej. Prezes Urzędu wykorzystuje przekazane informacje przy dokonywaniu analizy, o której mowa w ust. 3.
+### Art. 15.
 
-6. Analizy, o której mowa w ust. 3, nie włącza się do akt postępowania. Art. 13ca. 1. Prezes Urzędu, bez wszczynania postępowania, może wystąpić do podmiotów, o których mowa w art. 2, niebędących podmiotami publicznymi, w sprawach z zakresu przeciwdziałania nadmiernemu opóźnianiu się ze spełnieniem świadczeń pieniężnych.
+### 1.
 
-2. Podmiot, do którego Prezes Urzędu skierował wystąpienie, może w terminie określonym przez Prezesa Urzędu przekazać stanowisko w sprawie, której dotyczy to wystąpienie.
+Do transakcji handlowych zawartych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
 
-3. Termin, o którym mowa w ust. 2, nie może być krótszy niż 14 dni, licząc od dnia otrzymania przez podmiot wystąpienia Prezesa Urzędu.
+### 2.
 
-**Art. 13d.**
+W przypadku transakcji handlowych zawieranych w wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego, na podstawie przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, wszczętych przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-1. Każdy może zgłosić Prezesowi Urzędu zawiadomienie dotyczące podejrzenia wystąpienia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
+### Art. 16.
 
-2. Zawiadomienie, o którym mowa w ust. 1, zawiera:
+Traci moc ustawa z dnia 12 czerwca 2003 r. o terminach zapłaty w transakcjach handlowych ([Dz. U. Nr 139, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2003/1323/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 19, poz. 177, Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2009 r. Nr 157, poz. 1241.](#gloss-0:8:)).
 
-- **1)** wskazanie podmiotu, wobec którego powzięto podejrzenie wystąpienia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych;
-- **2)** opis stanu faktycznego będącego podstawą zawiadomienia;
-- **3)** uprawdopodobnienie wystąpienia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych;
-- **4)** dane identyfikujące zgłaszającego zawiadomienie.
+### Art. 17.
 
-3. Do zawiadomienia, o którym mowa w ust. 1, dołącza się wszelkie dokumenty, które mogą stanowić dowód wystąpienia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych.
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
 
-4. Prezes Urzędu przekazuje, na piśmie, zgłaszającemu zawiadomienie, o którym mowa w ust. 1, informację o sposobie rozpatrzenia zawiadomienia wraz z uzasadnieniem. Do przekazania takiej informacji i uzasadnienia przepisy art. 35– 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803) stosuje się odpowiednio.
-
-5. Dane identyfikujące zgłaszającego zawiadomienie oraz treść zawiadomienia, o którym mowa w ust. 1, nie podlegają ujawnieniu.
-
-**Art. 13e.**
-
-1. Stroną postępowania jest każdy, wobec kogo postępowanie zostało wszczęte.
-
-2. Prezes Urzędu wydaje postanowienie o wszczęciu postępowania i zawiadamia o tym stronę postępowania.
-
-3. W postanowieniu o wszczęciu postępowania w szczególności wskazuje się okres objęty postępowaniem. Okres objęty postępowaniem stanowią jedynie 3 kolejne miesiące, o których mowa w art. 13b ust. 2, przypadające w okresie 2 lat przed dniem wszczęcia postępowania.
-
-**Art. 13f.**
-
-1. W toku postępowania podmioty, o których mowa w art. 2, także w przypadku gdy nie są stronami transakcji handlowej, są obowiązane do przekazywania koniecznych informacji i dokumentów na żądanie Prezesa Urzędu.
-
-2. Żądanie, o którym mowa w ust. 1, powinno zawierać:
-
-- **1)** wskazanie zakresu informacji;
-- **2)** wskazanie celu żądania;
-- **3)** wskazanie terminu udzielenia informacji;
-- **4)** określenie struktury i formatu przekazywanych danych oraz sposobu ich przekazania;
-- **5)** pouczenie o sankcjach za nieudzielenie informacji lub za udzielenie informacji nieprawdziwych lub wprowadzających w błąd.
-
-3. Każdy ma prawo składania, na piśmie, z własnej inicjatywy lub na prośbę Prezesa Urzędu, wyjaśnień dotyczących istotnych okoliczności sprawy.
-
-**Art. 13g.**
-
-1. Prezes Urzędu może w toku postępowania żądać od podmiotów, o których mowa w art. 2, także w przypadku gdy nie są stronami transakcji handlowej, prowadzących księgi podatkowe przy użyciu programów komputerowych, przekazania całości lub części tych ksiąg oraz dowodów księgowych za pomocą środków komunikacji elektronicznej lub na informatycznych nośnikach danych, w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wskazując rodzaj ksiąg podatkowych oraz okres, którego dotyczą.
-
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób przekazywania za pomocą środków komunikacji elektronicznej ksiąg podatkowych, części tych ksiąg oraz dowodów księgowych w postaci elektronicznej oraz wymagania techniczne dla informatycznych nośników danych, na których księgi, części tych ksiąg oraz dowody księgowe mogą być zapisane i przekazywane, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w księgach oraz potrzebę ich ochrony przed nieuprawnionym dostępem.
-
-**Art. 13h.** W postępowaniu stosuje się odpowiednio przepisy art. 51–53, art. 54–61, art. 69, art. 71–73, art. 77, art. 78 i art. 80 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
-
-**Art. 13i.**
-
-1. W toku postępowania może być przeprowadzona przez upoważnionego pracownika Urzędu Ochrony Konkurencji i Konsumentów lub Inspekcji Handlowej, zwanego dalej „kontrolującym”, kontrola u podmiotu, o którym mowa w art. 2, także w przypadku gdy nie jest on stroną transakcji handlowej, zwanego dalej „kontrolowanym”, w zakresie objętym tym postępowaniem.
-
-2. Prezes Urzędu może upoważnić do udziału w kontroli osoby posiadające wiadomości specjalne, jeżeli do przeprowadzenia kontroli są niezbędne tego rodzaju wiadomości.
-
-3. Do upoważnień do przeprowadzenia kontroli lub do udziału w kontroli stosuje się odpowiednio przepisy art. 105a ust. 3–5 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
-
-**Art. 13j.**
-
-1. W celu uzyskania informacji mogących stanowić dowód w sprawie kontrolujący ma prawo:
-
-- **1)** wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń oraz środków transportu kontrolowanego;
-- **2)** żądania udostępnienia związanych z przedmiotem kontroli akt, ksiąg, wszelkiego rodzaju pism, dokumentów oraz ich odpisów i wyciągów, korespondencji przesyłanej pocztą elektroniczną, informatycznych nośników danych w rozumieniu art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, innych urządzeń zawierających dane informatyczne lub systemów informatycznych, w tym także zapewnienia dostępu do systemów informatycznych będących własnością innego podmiotu zawierających dane kontrolowanego związane z przedmiotem kontroli, w zakresie, w jakim kontrolowany ma do nich dostęp;
-- **3)** sporządzania notatek z materiałów i korespondencji, o których mowa w pkt 2;
-- **4)** żądania sporządzenia przez kontrolowanego kopii lub wydruków materiałów, korespondencji, o których mowa w pkt 2, oraz informacji zgromadzonych na nośnikach, w urządzeniach lub w systemach, o których mowa w pkt 2;
-- **5)** żądania od kontrolowanego lub osób przez niego upoważnionych:
-    - **a)** ustnych wyjaśnień dotyczących przedmiotu kontroli,
-    - **b)** udostępnienia i wydania przedmiotów mogących stanowić dowód w sprawie.
-
-2. Osobie upoważnionej do udziału w kontroli na podstawie art. 13i ust. 2 przysługują uprawnienia kontrolującego w zakresie wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń oraz środków transportu kontrolowanego oraz dostępu do materiałów i korespondencji oraz informacji zgromadzonych na nośnikach, w urządzeniach lub w systemach, o których mowa w ust. 1 pkt 2, a także do sporządzania z nich notatek.
-
-**Art. 13k.**
-
-1. Kontrolujący może zwrócić się do właściwego ze względu na miejsce prowadzenia czynności kontrolnych komendanta Policji o udzielenie pomocy, jeżeli istnieje uzasadnione przypuszczenie, że w toku czynności kontrolnych kontrolujący natrafi na opór, który utrudni lub uniemożliwi mu wykonywanie tych czynności.
-
-2. Komendant Policji, o którym mowa w ust. 1, zapewnia pomoc przy przeprowadzeniu kontroli.
-
-3. Z pisemnym wnioskiem o udzielenie pomocy kontrolujący występuje do komendanta Policji, o którym mowa w ust. 1, co najmniej 7 dni przed dniem przeprowadzenia czynności kontrolnych.
-
-4. W pilnych przypadkach, jeżeli istnieje poważne zagrożenie dla życia, zdrowia ludzkiego lub bezpieczeństwa i porządku publicznego w miejscu przeprowadzania czynności kontrolnych albo uzasadnione podejrzenie wystąpienia takiego zagrożenia, albo w toku wykonywania czynności kontrolnych kontrolujący natrafił na opór, który utrudnia lub uniemożliwia mu wykonywanie tych czynności, wniosek, o którym mowa w ust. 3, może być złożony ustnie, bez zachowania określonego w ust. 3 terminu, po okazaniu upoważnienia do przeprowadzenia kontroli oraz legitymacji służbowej kontrolującego.
-
-5. W przypadku, o którym mowa w ust. 4, kontrolujący, nie później niż w terminie 3 dni od dnia zakończenia czynności kontrolnych, przekazuje na piśmie potwierdzenie złożonego ustnie wniosku.
-
-6. Pomoc udzielana przez komendanta Policji, o którym mowa w ust. 1, polega na umożliwieniu przeprowadzenia kontroli, w szczególności przez zapewnienie porządku w miejscu jej przeprowadzania oraz osobistego bezpieczeństwa osób obecnych w miejscu jej przeprowadzania, a także ustalenie tożsamości osób.
-
-7. Koszty poniesione przez Policję z tytułu udzielonej pomocy przy wykonywaniu czynności kontrolnych ponosi Prezes Urzędu. Koszty te ustala się w wysokości 1,5% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za poprzedni miesiąc, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 56 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, za każdy przypadek udzielenia pomocy.
-
-**Art. 13l.**
-
-1. Kontrolowany lub osoba przez niego upoważniona są obowiązani do:
-
-- **1)** udzielenia żądanych informacji;
-- **2)** umożliwienia wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń oraz środków transportu kontrolowanego;
-- **3)** udostępnienia i wydania materiałów, o których mowa w art. 13j ust. 1 pkt 2, lub innych przedmiotów mogących stanowić dowód w sprawie;
-- **4)** umożliwienia dostępu do informatycznych nośników danych, urządzeń lub systemów informatycznych, o których mowa w art. 13j ust. 1 pkt 2, w zakresie informacji zgromadzonych na tych nośnikach, w urządzeniach lub w systemach, w tym do korespondencji przesyłanej pocztą elektroniczną.
-
-2. Osoby, o których mowa w ust. 1, mogą odmówić udzielenia informacji lub współdziałania w toku kontroli tylko wtedy, gdy naraziłoby to je lub ich małżonka, wstępnych, zstępnych, rodzeństwo oraz powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki lub kurateli, a także osobę pozostającą we wspólnym pożyciu, na odpowiedzialność karną. Prawo odmowy udzielenia informacji lub współdziałania w toku kontroli trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia, opieki lub kurateli.
-
-**Art. 13m.**
-
-1. Kontrolowany zapewnia kontrolującemu oraz osobom upoważnionym do udziału w kontroli warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności:
-
-- **1)** sporządza we własnym zakresie kopie lub wydruki materiałów i korespondencji, o których mowa w art. 13j ust. 1 pkt 2, oraz informacji zgromadzonych na nośnikach, w urządzeniach lub systemach, o których mowa w art. 13j ust. 1 pkt 2;
-- **2)** zapewnia, w miarę możliwości, samodzielne, zamknięte pomieszczenie, jeżeli jest to niezbędne do przeprowadzenia kontroli;
-- **3)** zapewnia wydzielone miejsce do przechowywania dokumentów i zabezpieczonych podczas kontroli przedmiotów;
-- **4)** udostępnia, w miarę możliwości, środki łączności, którymi dysponuje, w zakresie niezbędnym do wykonywania czynności kontrolnych.
-
-2. Kontrolowany dokonuje potwierdzenia za zgodność z oryginałem sporządzonych kopii i wydruków, o których mowa w ust. 1 pkt 1.
-
-3. W przypadku odmowy przez kontrolowanego potwierdzenia za zgodność z oryginałem sporządzonych kopii i wydruków, o których mowa w ust. 1 pkt 1, potwierdza je kontrolujący, o czym czyni wzmiankę w protokole kontroli.
-
-**Art. 13n.** Do kontroli przeprowadzanej na podstawie art. 13i ust. 1 stosuje się odpowiednio przepisy art. 105a ust. 6 i 7, art. 105b ust. 4, art. 105f–105h, art. 105j i art. 105k ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów.
-
-**Art. 13o.** Czas trwania kontroli w ramach jednego postępowania nie może przekraczać 20 dni roboczych.
-
-**Art. 13p.** Do kontroli przeprowadzanej na podstawie art. 13i ust. 1 stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, z wyłączeniem przepisów art. 54 i art. 55 tej ustawy.
-
-**Art. 13q.** W sprawach nieuregulowanych w ustawie do postępowania stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem przepisu art. 31.
-
-**Art. 13r.** Postępowanie powinno być zakończone nie później niż w terminie 5 miesięcy od dnia jego wszczęcia.
-
-**Art. 13s.** Prezes Urzędu przedstawia Prezesowi Rady Ministrów, nie później niż do końca pierwszego kwartału roku następnego, sprawozdanie z prowadzonych w roku poprzednim postępowań.
-
-**Art. 13t.**
-
-1. Prezes Urzędu może, w drodze decyzji, nałożyć na podmiot, o którym mowa w art. 2, także w przypadku gdy nie jest stroną transakcji handlowej, administracyjną karę pieniężną w wysokości do 5% przychodu osiągniętego w poprzednim roku podatkowym, ale nie więcej niż równowartość 50 000 000 euro, jeżeli podmiot ten:
-
-- **1)** nie udzielił informacji żądanych przez Prezesa Urzędu na podstawie art. 13f lub udzielił informacji nieprawdziwych lub wprowadzających w błąd;
-- **2)** uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli, o której mowa w art. 13i.
-
-2. Jeżeli nie można ustalić wysokości przychodu podmiotu, o którym mowa w ust. 1, lub podmiot ten nie osiągnął w poprzednim roku podatkowym przychodu, administracyjna kara pieniężna, o której mowa w ust. 1, wynosi nie więcej niż równowartość 50 000 000 euro.
-
-3. Równowartość, o której mowa w ust. 1 i 2, oblicza się według średniego kursu euro ogłoszonego przez Narodowy Bank Polski, obowiązującego w ostatnim dniu roboczym roku poprzedzającego rok nałożenia kary.
-
-**Art. 13u.** Prezes Urzędu umarza postępowanie, w drodze decyzji, w przypadku gdy nie stwierdzi nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych przez stronę postępowania.
-
-**Art. 13v.**
-
-1. W przypadku stwierdzenia nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych przez stronę postępowania, Prezes Urzędu może nałożyć na nią, w drodze decyzji, administracyjną karę pieniężną.
-
-2. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, nie może być większa niż obliczona według następującego wzoru: WK = (WŚ1 × 1%) + (WŚ2 × 2%) + (WŚ3 × 4%) + (WŚ4 × 12%) + (WŚ5 × 24%) gdzie poszczególne symbole oznaczają: WK – maksymalną wysokość administracyjnej kary pieniężnej, WŚ1 – sumę wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie lub ich równowartości − w przypadku gdy zostały wyrażone w walucie obcej, w stosunku do których okres, który upłynął od dnia wymagalności niespełnionego lub spełnionego po terminie świadczenia pieniężnego do ostatniego dnia okresu objętego postępowaniem albo do dnia jego spełnienia, jeżeli świadczenie pieniężne zostało spełnione w okresie objętym postępowaniem, nie przekracza 30 dni, WŚ2 – sumę wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie lub ich równowartości − w przypadku gdy zostały wyrażone w walucie obcej, w stosunku do których okres, który upłynął od dnia wymagalności niespełnionego lub spełnionego po terminie świadczenia pieniężnego do ostatniego dnia okresu objętego postępowaniem albo do dnia jego spełnienia, jeżeli świadczenie pieniężne zostało spełnione w okresie objętym postępowaniem, wynosi od 31 do 60 dni, WŚ3 – sumę wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie lub ich równowartości − w przypadku gdy zostały wyrażone w walucie obcej, w stosunku do których okres, który upłynął od dnia wymagalności niespełnionego lub spełnionego po terminie świadczenia pieniężnego do ostatniego dnia okresu objętego postępowaniem albo do dnia jego spełnienia, jeżeli świadczenie pieniężne zostało spełnione w okresie objętym postępowaniem, wynosi od 61 do 120 dni, WŚ4 – sumę wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie lub ich równowartości − w przypadku gdy zostały wyrażone w walucie obcej, w stosunku do których okres, który upłynął od dnia wymagalności niespełnionego lub spełnionego po terminie świadczenia pieniężnego do ostatniego dnia okresu objętego postępowaniem albo do dnia jego spełnienia, jeżeli świadczenie pieniężne zostało spełnione w okresie objętym postępowaniem, wynosi od 121 do 365 dni, WŚ5 – sumę wartości wymagalnych świadczeń pieniężnych niespełnionych oraz spełnionych po terminie lub ich równowartości − w przypadku gdy zostały wyrażone w walucie obcej, w stosunku do których okres, który upłynął od dnia wymagalności niespełnionego lub spełnionego po terminie świadczenia pieniężnego do ostatniego dnia okresu objętego postępowaniem albo do dnia jego spełnienia, jeżeli świadczenie pieniężne zostało spełnione w okresie objętym postępowaniem, przekracza 365 dni.
-
-2a. Przy obliczaniu maksymalnej wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1, pomija się świadczenia pieniężne:
-
-- **1)** których termin spełnienia upłynął wcześniej niż 2 lata przed dniem wszczęcia postępowania;
-- **2)** wynikające z transakcji handlowych, których wyłącznymi stronami są podmioty należące do tej samej grupy kapitałowej;
-- **3)** wynikające z transakcji handlowych zawieranych w zakresie działalności ubezpieczeniowej i reasekuracyjnej, o których mowa odpowiednio w art. 4 ust. 1 i 2 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej.
-
-2b. Przy ustalaniu wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1, Prezes Urzędu bierze pod uwagę:
-
-- **1)** wagę naruszenia;
-- **2)** okoliczności naruszenia wykazane przez stronę postępowania;
-- **3)** działania podjęte przez stronę postępowania z własnej inicjatywy w celu zaprzestania naruszenia;
-- **4)** współpracę strony postępowania z Prezesem Urzędu w toku postępowania, w szczególności przyczynienie się do szybkiego i sprawnego przeprowadzenia postępowania;
-- **5)** spełnienie przez stronę postępowania wszystkich niespełnionych w terminie świadczeń pieniężnych wraz z odsetkami ustawowymi za opóźnienie w transakcjach handlowych, nie później niż w terminie 60 dni od dnia doręczenia stronie postanowienia o wszczęciu postępowania.
-
-3. Prezes Urzędu obniża wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, o 20% – w przypadku gdy strona postępowania w terminie 14 dni od dnia doręczenia decyzji uiści w całości tę karę oraz zrzeknie się wobec Prezesa Urzędu prawa do złożenia wniosku o ponowne rozpatrzenie sprawy.
-
-4. W przypadku, o którym mowa w ust. 3, Prezes Urzędu wydaje decyzję o zwrocie nadpłaconej administracyjnej kary pieniężnej, o której mowa w ust. 1.
-
-5. W przypadku gdy w okresie 2 lat od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna, Prezes Urzędu ponownie stwierdzi nadmierne opóźnianie się ze spełnianiem świadczeń pieniężnych przez ten sam podmiot, wysokość administracyjnej kary pieniężnej, jaka może zostać nałożona na ten podmiot w związku z ponownym stwierdzeniem nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych, obliczona zgodnie z ust. 2 i 2a, zostaje podwyższona o 50%. Przepisu ust. 3 nie stosuje się.
-
-6. (uchylony)
-
-7. W przypadku gdy do nadmiernego opóźniania się ze spełnianiem świadczeń pieniężnych doszło na skutek działania siły wyższej Prezes Urzędu odstępuje od wymierzenia administracyjnej kary pieniężnej.
-
-8. (uchylony)
-
-9. Od decyzji Prezesa Urzędu, o których mowa w ustawie, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 13r stosuje się odpowiednio.
-
-10. Przepisów działu IVa w tytule VII, księdze pierwszej, części pierwszej ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie stosuje się. Od decyzji Prezesa Urzędu, o których mowa w ustawie, przysługuje skarga do wojewódzkiego sądu administracyjnego.
-
-11. W sprawie zakończonej prawomocną decyzją o nałożeniu administracyjnej kary pieniężnej, o której mowa w ust. 1, na wniosek strony postępowania wznawia się postępowanie, jeżeli na skutek prawomocnego orzeczenia sądu powszechnego, ugody zawartej przed tym sądem albo zatwierdzonej przez ten sąd, wyroku sądu arbitrażowego (polubownego) albo ugody przed nim zawartej po uznaniu albo stwierdzeniu wykonalności tego wyroku albo tej ugody przez sąd powszechny, wartość niespełnionego lub spełnionego po terminie świadczenia pieniężnego okazała się niższa niż przyjęta zgodnie z ust. 2 i 2a do obliczenia maksymalnej wysokości administracyjnej kary pieniężnej, o której mowa w ust. 1. W takim przypadku Prezes Urzędu obniża wysokość nałożonej kary proporcjonalnie o udział obniżonej wartości świadczenia pieniężnego w maksymalnej wysokości kary oraz wydaje decyzję w przedmiocie zwrotu nadpłaconej kary. Art. 13va. Wykaz świadczeń pieniężnych poddanych analizie w toku postępowania wraz z danymi pozwalającymi na identyfikację danego świadczenia jest określony w załączniku do decyzji w sprawach, o których mowa w art. 13u i art. 13v ust. 1, 7 i 11. Załącznik może zawierać wykaz poddanych analizie przez Prezesa Urzędu długów i umów, do których nie stosuje się przepisów ustawy.
-
-**Art. 13w.** Prezes Urzędu publikuje na stronie internetowej Urzędu Ochrony Konkurencji i Konsumentów treść postanowienia o wszczęciu postępowania oraz decyzji, o których mowa w ustawie, z wyłączeniem informacji stanowiących tajemnicę przedsiębiorstwa oraz innych informacji podlegających ochronie na podstawie odrębnych przepisów. Publikacja treści decyzji jest opatrzona informacją, czy decyzja jest prawomocna.
-
-**Art. 13x.**
-
-1. Środki finansowe pochodzące z administracyjnych kar pieniężnych, o których mowa w art. 13t i art. 13v, stanowią dochód budżetu państwa, i są wnoszone na rachunek bieżący dochodów Urzędu Ochrony Konkurencji i Konsumentów.
-
-2. Administracyjną karę pieniężną, o której mowa w art. 13t i art. 13v, uiszcza się w terminie 30 dni od dnia, w którym decyzja o jej nałożeniu stała się ostateczna.
-
-3. W przypadku upływu terminu, o którym mowa w ust. 2, administracyjna kara pieniężna, o której mowa w art. 13t i art. 13v, podlega ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
-
-4. W przypadku nieterminowego uiszczenia administracyjnej kary pieniężnej, o której mowa w art. 13t i art. 13v, odsetek nie nalicza się. Art. 13xa. Prezes Urzędu może na wniosek podmiotu, na który została nałożona administracyjna kara pieniężna, odroczyć uiszczenie nałożonej kary albo rozłożyć ją na raty ze względu na ważny interes wnioskodawcy. Przepisy art. 113 ust. 1a–7 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów stosuje się odpowiednio.
-
-**Art. 13y.** W przypadku uchylenia albo stwierdzenia nieważności decyzji o nałożeniu administracyjnej kary pieniężnej, o której mowa w art. 13t albo art. 13v, albo zmiany tej decyzji polegającej na obniżeniu jej wysokości, uiszczona kara albo jej odpowiednia część podlega zwrotowi w terminie 30 dni od dnia doręczenia wezwania do jej zwrotu. Jeżeli uchylenia decyzji lub stwierdzenia jej nieważności dokonał sąd administracyjny, do wezwania dołącza się odpis wyroku sądu i, w uzasadnionym przypadku, postanowienie stwierdzające jego prawomocność. W przypadku zwrotu kary lub jej odpowiedniej części odsetek nie nalicza się.
-
-**Art. 13z.**
-
-1. Kto, będąc odpowiedzialnym za przekazanie sprawozdania, o którym mowa w art. 13a ust. 1, dopuszcza do jego nieprzekazania w terminie, o którym mowa w tym przepisie, podlega karze grzywny.
-
-2. Tej samej karze podlega ten, kto utrudnia lub udaremnia wywiązanie się z obowiązku, o którym mowa w ust. 1. Art. 13za. Kto wbrew obowiązkowi, o którym mowa w art. 4c, nie składa oświadczenia, o którym mowa w tym przepisie, albo składa oświadczenie niezgodne ze stanem rzeczywistym, podlega karze grzywny. Art. 13zb. Orzekanie w sprawach o czyny, o których mowa w art. 13z i art. 13za, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
-
-**Art. 14.** (pominięty)
-
-**Art. 15.**
-
-1. Do transakcji handlowych zawartych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
-
-2. W przypadku transakcji handlowych zawieranych w wyniku przeprowadzenia postępowań o udzielenie zamówienia publicznego, na podstawie przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, wszczętych przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
-
-**Art. 16.** Traci moc ustawa z dnia 12 czerwca 2003 r. o terminach zapłaty w transakcjach handlowych (Dz. U. poz. 1323, z 2004 r. poz. 177, 959 i 1808 oraz z 2009 r. poz. 1241).
-
-**Art. 17.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
-
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2011/7/UE z dnia 16 lutego 2011 r. w sprawie zwalczania opóźnień w płatnościach w transakcjach handlowych (Dz. Urz. UE L 48 z 23.02.2011, str. 1). 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407, 1445 i 1529. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228, z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143, Nr 87, poz. 484, Nr 234, poz. 1386 i Nr 240, poz. 1429 oraz z 2012 r. poz. 769, 951, 1101, 1271 i 1529. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 74, poz. 442, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591, z 1997 r. Nr 121, poz. 769 i 770, z 1998 r. Nr 106, poz. 668, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 173, poz. 1808 oraz z 2010 r. Nr 182, poz. 1228. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529 oraz z 2013 r. poz. 35. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621, z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342, Nr 233, poz. 1381 i Nr 234, poz. 1391 oraz z 2012 r. poz. 908, 1445 i 1529. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 19, poz. 177, Nr 96, poz. 959 i Nr 173, poz. 1808 oraz z 2009 r. Nr 157, poz. 1241.

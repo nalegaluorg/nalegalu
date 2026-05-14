@@ -1,0 +1,38 @@
+---
+title: Rozporządzenie Ministra Sprawiedliwości z dnia 28 lipca 2023 r. zmieniające rozporządzenie w sprawie przeprowadzania egzaminu radcowskiego
+address: WDU20230001548
+eli: DU/2023/1548
+publisher: DU
+year: 2023
+pos: 1548
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Sprawiedliwościz dnia 28 lipca 2023 r. zmieniające rozporządzenie w sprawie przeprowadzania egzaminu radcowskiego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1548 |
+| ISAP | WDU20230001548 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-07-28 |
+| Data wydania | 2023-08-08 |
+| Wejście w życie | 2023-08-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1548/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1548) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 361ust. 16 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ([Dz. U. z 2022 r. poz. 1166](https://api.sejm.gov.pl/eli/acts/DU/2022/1166/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Sprawiedliwości z dnia 17 grudnia 2013 r. w sprawie przeprowadzania egzaminu radcowskiego ([Dz. U. z 2016 r. poz. 116](https://api.sejm.gov.pl/eli/acts/DU/2016/116/text.html)) w § 9 w ust. 6 oraz w ust. 8 w zdaniu pierwszym wyrazy „zaświadczenie lekarskie potwierdzające fakt karmienia dziecka piersią” zastępuje się wyrazami „pisemne oświadczenie o karmieniu dziecka piersią”.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

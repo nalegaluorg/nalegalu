@@ -8,11 +8,9 @@ pos: 322
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o substancjach chemicznych i ich mieszaninach
-
-*USTAWA z dnia 25 lutego 2011 r.*
+# Ustawa z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach [1) Niniejszą ustawą zmienia się: ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 30 marca 2001 r. o kosmetykach, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 13 września 2002 r. o produktach biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,475 +22,2412 @@ domain: null
 | Data ogłoszenia | 2011-02-25 |
 | Data wydania | 2011-03-24 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110630322) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/322/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/322) |
 
-Art. 65–84. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Inspektor do spraw Substancji Chemicznych](#chpt_2) [Rozdział 3 - Informowanie o mieszaninach niebezpiecznych lub stwarzających zagrożenie](#chpt_3) [Rozdział 4 - Badania substancji i mieszanin](#chpt_4) [Rozdział 5 - Klasyfikacja, oznakowanie, opakowania, obrót i stosowanie substancji i ich mieszanin](#chpt_5) [Rozdział 6 - Przepisy o nadzorze](#chpt_6) [Rozdział 7 - Przepisy karne](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących](#chpt_8) [Rozdział 9 - Przepisy przejściowe i końcowe](#chpt_9)
 
-**Art. 1.**
+TOC
 
-1. Ustawa określa właściwość organów w zakresie wykonywania zadań administracyjnych i obowiązków wynikających z:
+## Treść ustawy
 
-- **1)** rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem nr 1907/2006”;
-- **2)** rozporządzenia (WE) nr 648/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie detergentów (Dz. Urz. UE L 104 z 08.04.2004, str. 1, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 48, z późn. zm.), zwanego dalej „rozporządzeniem nr 648/2004”;
-- **3)** rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 649/2012 z dnia 4 lipca 2012 r. dotyczącego wywozu i przywozu niebezpiecznych chemikaliów (Dz. Urz. UE L 201 z 27.07.2012, str. 60, z późn. zm.), zwanego dalej „rozporządzeniem nr 649/2012”;
-- **4)** rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1), zwanego dalej „rozporządzeniem nr 1272/2008”.
+[2) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw: 1) dyrektywy 67/548/EWG z dnia 27 czerwca 1967 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do klasyfikacji, pakowania i etykietowania substancji niebezpiecznych ( Dz. Urz. WE L 196 z 16.08.1967, str. 1 , z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 1, str. 27 ) ; 2) dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) ( Dz. Urz. WE L 245 z 26.08.1992, str. 23 , z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 89 ) ; 3) dyrektywy 1999/45/WE z dnia 31 maja 1999 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do klasyfikacji, pakowania i etykietowania preparatów niebezpiecznych ( Dz. Urz. WE L 200 z 30.07.1999, str. 1 , z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 24, str. 109 ) ; 4) dyrektywy 2004/9/WE z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) ( Dz. Urz. UE L 50 z 20.02.2004, str. 28 , z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65 ) ; 5) dyrektywy 2004/10/WE z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych ( Dz. Urz. UE L 50 z 20.02.2004, str. 44 , z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82 ) ; 6) dyrektywy 2008/112/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywy Rady 76/768/EWG, 88/378/EWG, 1999/13/WE oraz dyrektywy 2000/53/WE, 2002/96/WE i 2004/42/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin ( Dz. Urz. UE L 345 z 23.12.2008, str. 68 ) .](#gloss-0:2:)
 
-2. Ustawa reguluje warunki lub zakazy produkcji, wprowadzania do obrotu lub stosowania substancji chemicznych, zwanych dalej „substancjami”, w ich postaci własnej, jako składników mieszanin lub w wyrobach, w zakresie nieuregulowanym w przepisach rozporządzeń, o których mowa w ust. 1.
+### Rozdział 1 Przepisy ogólne
 
-3. Ustawa nie dotyczy warunków transportu substancji i mieszanin, w tym również warunków transportu w tranzycie pod dozorem celnym, jeżeli nie są w trakcie tranzytu przetwarzane lub przepakowywane.
+### Art. 1.
 
-4. Przepisów ustawy nie stosuje się do:
+### 1.
 
-- **1)** substancji i mieszanin stanowiących źródła promieniotwórcze, w zakresie określonym w odrębnych przepisach;
-- **2)** odpadów w rozumieniu przepisów o odpadach;
-- **3)** substancji i mieszanin w postaci gotowych produktów przeznaczonych dla końcowego użytkownika, będących:
-    - **a)** produktami leczniczymi w rozumieniu przepisów prawa farmaceutycznego,
-    - **b)** środkami spożywczymi w rozumieniu przepisów o bezpieczeństwie żywności i żywienia,
-    - **c)** paszami w rozumieniu przepisów o paszach;
-    - **d)** (uchylona)
-    - **e)** (uchylona)
-    - **f)** (uchylona) – (uchylona)
+Ustawa określa właściwość organów w zakresie wykonywania zadań administracyjnych i obowiązków wynikających z:
 
-- **4)** substancji i mieszanin przywożonych na terytorium Rzeczypospolitej Polskiej, gdy ich ilość i rodzaj wskazują na przeznaczenie wyłącznie do celów osobistych.
+### 1)
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE ([Dz. Urz. UE L 396 z 30.12.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 1907/2006”;
 
-**Art. 3.**
+### 2)
 
-1. W odniesieniu do niektórych substancji, w ich postaci własnej, jako składników mieszaniny lub w wyrobach, niezbędnych na potrzeby obronności państwa, zezwala się na zwolnienie ze stosowania rozporządzenia nr 1907/2006, z wyłączeniem przepisów tytułu IV tego rozporządzenia.
+rozporządzenia (WE) nr 648/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie detergentów ([Dz. Urz. UE L 104 z 08.04.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 48](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 648/2004”;
 
-2. W odniesieniu do niektórych substancji, w ich postaci własnej lub jako składników mieszaniny, niezbędnych na potrzeby obronności państwa, zezwala się na zwolnienie ze stosowania przepisu art. 40 rozporządzenia nr 1272/2008.
+### 3)
 
-3. Zwolnienia, o których mowa w ust. 1 i 2, wydaje, w drodze decyzji, Minister Obrony Narodowej, po uzyskaniu opinii ministra właściwego do spraw zdrowia i ministra właściwego do spraw gospodarki.
+rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 689/2008 z dnia 17 czerwca 2008 r. dotyczącego wywozu i przywozu niebezpiecznych chemikaliów ([Dz. Urz. UE L 204 z 31.07.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem nr 689/2008”;
 
-**Art. 4.** (uchylony)
+### 4)
 
-#### Rozdział 2 Prezes Biura do spraw Substancji Chemicznych
+rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem nr 1272/2008”.
 
-**Art. 5.** Tworzy się centralny organ administracji rządowej właściwy w sprawach substancji i ich mieszanin, którym jest Prezes Biura do spraw Substancji Chemicznych, zwany dalej „Prezesem Biura”.
+### 2.
 
-**Art. 6.**
+Ustawa reguluje warunki lub zakazy produkcji, wprowadzania do obrotu lub stosowania substancji chemicznych, zwanych dalej „substancjami”, w ich postaci własnej, jako składników mieszanin lub w wyrobach, w zakresie nieuregulowanym w przepisach rozporządzeń, o których mowa w ust. 1.
 
-1. Prezesa Biura powołuje minister właściwy do spraw zdrowia spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii ministra właściwego do spraw gospodarki i opinii ministra właściwego do spraw klimatu.
+### 3.
 
-2. Nadzór nad Prezesem Biura sprawuje minister właściwy do spraw zdrowia.
+Ustawa nie dotyczy warunków transportu substancji i mieszanin, w tym również warunków transportu w tranzycie pod dozorem celnym, jeżeli nie są w trakcie tranzytu przetwarzane lub przepakowywane.
 
-3. Prezesa Biura odwołuje minister właściwy do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw gospodarki i opinii ministra właściwego do spraw klimatu.
+### 4.
 
-**Art. 7.** Stanowisko Prezesa Biura może zajmować osoba, która:
+Przepisów ustawy nie stosuje się do:
 
-**Art. 8.**
+### 1)
 
-1. Informację o naborze na stanowisko Prezesa Biura udostępnia się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Biura do spraw Substancji Chemicznych, zwanego dalej „Biurem”, oraz w Biuletynie Informacji Publicznej Biura i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+substancji i mieszanin stanowiących źródła promieniotwórcze, w zakresie określonym w odrębnych przepisach;
 
-- **1)** nazwę i adres Biura;
-- **2)** określenie stanowiska;
-- **3)** określenie wymagań związanych ze stanowiskiem, wynikających z przepisów prawa;
-- **4)** określenie zakresu zadań wykonywanych na stanowisku;
-- **5)** wskazanie wymaganych dokumentów;
-- **6)** określenie terminu i miejsca składania dokumentów;
-- **7)** informację o metodach i technikach naboru.
+### 2)
 
-2. Termin, o którym mowa w ust. 1 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+odpadów w rozumieniu przepisów o odpadach;
 
-**Art. 9.**
+### 3)
 
-1. Nabór na stanowisko Prezesa Biura przeprowadza zespół, powołany przez ministra właściwego do spraw zdrowia, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów, zwany dalej „zespołem”.
+substancji i mieszanin w postaci gotowych produktów przeznaczonych dla końcowego użytkownika, będących:
 
-2. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+### a)
 
-3. Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 2, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
+produktami leczniczymi w rozumieniu przepisów prawa farmaceutycznego,
 
-4. Członek zespołu oraz osoba, o której mowa w ust. 3, są obowiązani do zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
+### b)
 
-5. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw zdrowia.
+środkami spożywczymi w rozumieniu przepisów o bezpieczeństwie żywności i żywienia,
 
-**Art. 10.**
+### c)
 
-1. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
+paszami w rozumieniu przepisów o paszach,
 
-- **1)** nazwę i adres Biura;
-- **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
-- **3)** imiona, nazwiska oraz miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360) nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze albo informację o niewyłonieniu kandydata;
-- **4)** informację o zastosowanych metodach i technikach naboru;
-- **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
-- **6)** skład zespołu: imię, nazwisko, zajmowane stanowisko służbowe, służbowy numer telefonu i służbowy adres poczty elektronicznej.
+### d)
 
-2. Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji w Biuletynie Informacji Publicznej Biura i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Informacja o wyniku naboru zawiera:
+środkami ochrony roślin w rozumieniu przepisów o ochronie roślin, z wyjątkiem przepisów dotyczących klasyfikacji tych środków pod względem stwarzanych przez nie zagrożeń, badań ich właściwości fizykochemicznych, toksyczności i ekotoksyczności, opakowań i oznakowania tych opakowań, przepisów wydanych na podstawie art. 26 ust. 1, przepisów art. 36, art. 41, art. 43 i art. 46 oraz przepisów karnych za nieprzestrzeganie przepisów rozporządzeń, o których mowa w ust. 1 pkt 1, 3 oraz 4,
 
-- **1)** nazwę i adres Biura;
-- **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny albo informację o niewyłonieniu kandydata.
+### e)
 
-3. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+kosmetykami w rozumieniu przepisów o kosmetykach, z wyjątkiem art. 29, art. 30, art. 36-40, art. 43 ust. 2, art. 49, art. 50, art. 57-60 i art. 64 oraz przepisów wydanych na podstawie art. 16 ust. 15, art. 17 ust. 4 i art. 26,
 
-**Art. 11.** Do decyzji i postanowień wydawanych przez Prezesa Biura stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052 oraz z 2022 r. poz. 1301), z tym że organem odwoławczym w stosunku do Prezesa Biura jest minister właściwy do spraw zdrowia.
+### f)
 
-**Art. 12.**
+inwazyjnymi wyrobami medycznymi w rozumieniu przepisów o wyrobach medycznych lub wyrobami medycznymi przeznaczonymi do stosowania w bezpośrednim kontakcie z ciałem człowieka, jeżeli te przepisy określają ich klasyfikację i oznakowanie zapewniające taki sam poziom poinformowania i ochrony człowieka i środowiska jak przepisy ustawy, z wyjątkiem art. 29, art. 30, art. 36-40, art. 43 ust. 2, art. 49, art. 50, art. 57-61 i art. 64 oraz przepisów wydanych na podstawie art. 26
 
-1. Do zadań Prezesa Biura należy:
+- o ile przepisy szczególne nie stanowią inaczej;
 
-- **1)** gromadzenie danych dotyczących mieszanin stwarzających zagrożenie;
-- **2)** udostępnianie danych dotyczących mieszanin stwarzających zagrożenie służbom medycznym i ratowniczym;
-- **3)** pełnienie funkcji: określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Unią a państwami trzecimi (Dz. Urz. UE L 22 z 26.01.2005, str. 1, z późn. zm. );
-    - **a)** właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu i przywozu niebezpiecznych chemikaliów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską,
-    - **b)** właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących detergentów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską,
-    - **c)** właściwego organu określonego w art. 8 rozporządzenia nr 648/2004, w art. 121 rozporządzenia nr 1907/2006, w art. 43 rozporządzenia nr 1272/2008 odpowiedzialnego za wnioski dotyczące zharmonizowanej klasyfikacji i zharmonizowanego oznakowania i w art. 45 tego rozporządzenia oraz wyznaczonego organu krajowego określonego w art. 4 rozporządzenia nr 649/2012,
-    - **d)** właściwego organu wyznaczonego do wykonywania zadań z zakresu dokonywania rejestracji, o której mowa w art. 3 ust. 6 rozporządzenia (WE) nr 273/2004 Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych (Dz. Urz. UE L 47 z 18.02.2004, str. 1 – Dz. Urz. UE Polskie wydanie specjalne rozdz. 15, t. 8, str. 46, z późn. zm. ), oraz rejestracji, o której mowa w art. 7 rozporządzenia Rady (WE) nr 111/2005 z dnia 22 grudnia 2004 r.
+### 4)
 
-- **4)** utworzenie w Biurze i prowadzenie Krajowego Centrum Informacyjnego, o którym mowa w art. 124 rozporządzenia nr 1907/2006 i w art. 44 rozporządzenia nr 1272/2008;
-- **5)** współpraca z organizacjami międzynarodowymi w zakresie substancji i mieszanin;
-- **6)** wykonywanie zadań, o których mowa w przepisach o przeciwdziałaniu narkomanii;
-- **7)** wykonywanie innych zadań nałożonych przez ministra właściwego do spraw zdrowia;
-- **8)** upowszechnianie wiedzy na temat szkodliwego oddziaływania substancji chemicznych i ich mieszanin na zdrowie człowieka i środowisko oraz wiedzy na temat zapobiegania takim oddziaływaniom;
-- **9)** coroczne przekazywanie Komisji Europejskiej i Organizacji Współpracy Gospodarczej i Rozwoju (OECD), zwanej dalej „OECD”, nie później niż do dnia 31 marca następnego roku, informacji za poprzedni rok w zakresie funkcjonowania Dobrej Praktyki Laboratoryjnej na terytorium Rzeczypospolitej Polskiej;
-- **10)** wykonywanie zadań nałożonych przepisami ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2021 r. poz. 276).
+substancji i mieszanin przywożonych na terytorium Rzeczypospolitej Polskiej, gdy ich ilość i rodzaj wskazują na przeznaczenie wyłącznie do celów osobistych.
 
-2. Prezes Biura realizuje swoje zadania przy pomocy Biura, którym kieruje i które reprezentuje na zewnątrz.
+### Art. 2.
 
-**Art. 13.**
+Ilekroć w ustawie jest mowa o:
 
-1. Szczegółowe zadania Prezesa Biura, organizację Biura oraz zasady współpracy Prezesa Biura z Komisją Europejską oraz OECD w zakresie Dobrej Praktyki Laboratoryjnej określa statut Biura.
+### 1)
 
-2. Minister właściwy do spraw zdrowia nadaje, w drodze rozporządzenia, statut Biura, mając na względzie właściwą realizację zadań nałożonych na Prezesa Biura.
+substancjach - rozumie się przez to substancje, o których mowa w art. 3 pkt 1 rozporządzenia nr 1907/2006;
 
-**Art. 14.** Minister właściwy do spraw zdrowia, minister właściwy do spraw gospodarki, minister właściwy do spraw pracy i minister właściwy do spraw klimatu, każdy w zakresie swojego działania, mogą wskazać instytuty badawcze lub inne jednostki organizacyjne przez nich nadzorowane lub im podległe właściwe do współpracy z Prezesem Biura przy wykonywaniu zadań dotyczących oceny substancji i ich mieszanin.
+### 2)
 
-#### Rozdział 3
+mieszaninach - rozumie się przez to mieszaniny lub roztwory, o których mowa w art. 3 pkt 2 rozporządzenia nr 1907/2006;
 
-#### Rozdział 4 Badania substancji i mieszanin
+### 3)
 
-**Art. 16.**
+wyrobie - rozumie się przez to przedmiot, o którym mowa w art. 3 pkt 3 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
 
-1. W przypadku gdy przepisy wydane na podstawie ustawy, przepisy rozporządzeń wymienionych w art. 1 ust. 1 albo przepisy odrębne wymagają wykonania badań substancji lub ich mieszanin zgodnie z zasadami Dobrej Praktyki Laboratoryjnej, badania takie są wykonywane w jednostkach organizacyjnych wykonujących badania substancji lub ich mieszanin, posiadających certyfikat Dobrej Praktyki Laboratoryjnej i wpisanych do wykazu jednostek badawczych certyfikowanych w zakresie Dobrej Praktyki Laboratoryjnej, zwanych dalej „certyfikowanymi jednostkami badawczymi”.
+### 4)
 
-2. Kontrola i weryfikacja spełniania przez jednostkę organizacyjną wykonującą badania substancji i ich mieszanin, zwaną dalej „jednostką badawczą”, zasad Dobrej Praktyki Laboratoryjnej w celu uzyskania przez tę jednostkę certyfikatu Dobrej Praktyki Laboratoryjnej i wpisu jej do wykazu certyfikowanych jednostek badawczych następują na wniosek tej jednostki.
+detergencie - rozumie się przez to substancję lub mieszaninę, o której mowa w art. 2 pkt 1 rozporządzenia nr 648/2004;
 
-3. Jednostką właściwą do kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze jest Biuro. Kontroli i weryfikacji dokonują inspektorzy Dobrej Praktyki Laboratoryjnej, każdorazowo wyznaczeni przez Prezesa Biura spośród pracowników Biura, którym Prezes Biura zapewnia okresowe szkolenia, w tym szkolenia organizowane przez OECD. W uzasadnionych przypadkach, gdy wymaga tego specyfika jednostki badawczej lub wykonywanych badań, w kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostkę badawczą mogą wziąć udział inne osoby wyznaczone przez Prezesa Biura.
+### 5)
 
-4. Na wniosek inspektorów Dobrej Praktyki Laboratoryjnej Prezes Biura, w drodze decyzji, stwierdza spełnianie albo niespełnianie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej. Spełnianie zasad Dobrej Praktyki Laboratoryjnej Prezes Biura potwierdza wydaniem certyfikatu Dobrej Praktyki Laboratoryjnej oraz wpisem do wykazu certyfikowanych jednostek badawczych. W certyfikacie oraz wykazie certyfikowanych jednostek badawczych określa się zakres badań wykonywanych przez certyfikowaną jednostkę badawczą zgodnie z zasadami Dobrej Praktyki Laboratoryjnej.
+środku powierzchniowo czynnym - rozumie się przez to substancję lub mieszaninę, o której mowa w art. 2 pkt 6 rozporządzenia nr 648/2004;
 
-4a. Certyfikat, o którym mowa w ust. 4, zawiera także:
+### 6)
 
-- **1)** numer certyfikatu;
-- **2)** wskazanie podstawy prawnej do przeprowadzenia kontroli i weryfikacji;
-- **3)** datę przeprowadzonej kontroli i weryfikacji;
-- **4)** nazwę certyfikowanej jednostki badawczej;
-- **5)** określenie daty wydania certyfikatu;
-- **6)** imiona, nazwiska oraz podpisy inspektorów Dobrej Praktyki Laboratoryjnej, którzy przeprowadzali kontrolę i weryfikację;
-- **7)** imię, nazwisko oraz podpis Prezesa Biura.
+rejestrującym - rozumie się przez to osobę, o której mowa w art. 3 pkt 7 rozporządzenia nr 1907/2006;
 
-5. Aktualny wykaz certyfikowanych jednostek badawczych oraz krajowy program monitorowania zgodności z zasadami Dobrej Praktyki Laboratoryjnej, o którym mowa w dyrektywie 2004/9/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) (Dz. Urz. UE L 50 z 20.02.2004, str. 28, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65), Prezes Biura zamieszcza w Biuletynie Informacji Publicznej Biura.
+### 7)
 
-6. W przypadku jednostki badawczej mającej siedzibę poza terytorium Rzeczypospolitej Polskiej uznaje się, że jednostka ta spełnia zasady Dobrej Praktyki Laboratoryjnej, po przedstawieniu ważnego certyfikatu lub innego właściwego dokumentu nadanego tej jednostce przez jednostkę właściwą do kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach OECD lub w innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki.
+produkcji - rozumie się przez to procesy, o których mowa w art. 3 pkt 8 rozporządzenia nr 1907/2006;
 
-7. Certyfikowane jednostki badawcze podlegają okresowej lub doraźnej kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej, do której stosuje się przepisy ust. 3, 4, 8a lub 8b. Kontrola i weryfikacja mogą również następować na wniosek jednostek właściwych do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach, o których mowa w ust. 6, lub na wniosek Komisji Europejskiej, Agencji lub OECD.
+### 8)
 
-8. W przypadku niespełniania zasad Dobrej Praktyki Laboratoryjnej przez certyfikowaną jednostkę badawczą Prezes Biura, w drodze decyzji, cofa wydany certyfikat i wykreśla jednostkę z wykazu certyfikowanych jednostek badawczych.
+producencie - rozumie się przez to osobę, o której mowa w art. 3 pkt 9 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
 
-8a. W przypadku stwierdzenia, że określone badanie lub badania zostały wykonane niezgodnie z zasadami Dobrej Praktyki Laboratoryjnej, Prezes Biura, w drodze decyzji, stwierdza niespełnianie zasad Dobrej Praktyki Laboratoryjnej w odniesieniu do określonego badania lub badań.
+### 9)
 
-8b. W przypadku gdy w wyniku kontroli doraźnej dotyczącej rewizji określonego badania lub badań nie stwierdzono, że określone badanie lub badania zostały wykonane niezgodnie z zasadami Dobrej Praktyki Laboratoryjnej, Prezes Biura przekazuje certyfikowanej jednostce badawczej informacje o wynikach kontroli doraźnej.
+wytwórcy wyrobu - rozumie się przez to osobę, o której mowa w art. 3 pkt 4 rozporządzenia nr 1907/2006;
 
-9. Kontrolę i weryfikację spełniania zasad Dobrej Praktyki Laboratoryjnej, o których mowa w ust. 2 i 7, przeprowadza się na podstawie pisemnego upoważnienia wydanego przez Prezesa Biura, które zawiera:
+### 10)
 
-- **1)** nazwisko i imię oraz numer dokumentu potwierdzającego tożsamość inspektora Dobrej Praktyki Laboratoryjnej lub osoby, o której mowa w ust. 3, dokonującej kontroli i weryfikacji;
-- **2)** nazwę jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja;
-- **3)** datę przeprowadzenia kontroli i weryfikacji, określenie ich zakresu i przewidywanego czasu trwania.
+imporcie - rozumie się przez to wprowadzenie, o którym mowa w art. 3 pkt 10 rozporządzenia nr 1907/2006;
 
-10. Inspektorzy Dobrej Praktyki Laboratoryjnej oraz osoby, o których mowa w ust. 3, dokonujący kontroli i weryfikacji są uprawnieni do:
+### 11)
 
-- **1)** wstępu na teren nieruchomości, obiektów i lokali jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja, w dniach i godzinach jej pracy;
-- **2)** wglądu do dokumentacji, w tym do danych źródłowych, oraz żądania informacji i wyjaśnień dotyczących wykonywanych przez jednostkę badawczą albo certyfikowaną jednostkę badawczą badań substancji lub ich mieszanin.
+importerze - rozumie się przez to osobę, o której mowa w art. 3 pkt 11 rozporządzenia nr 1907/2006;
 
-11. Czynności kontroli i weryfikacji są dokonywane w obecności upoważnionego przedstawiciela jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja.
+### 12)
 
-11a. Inspektorzy Dobrej Praktyki Laboratoryjnej, a także inne osoby wyznaczone przez Prezesa Biura do przeprowadzenia kontroli i weryfikacji przed przystąpieniem do wykonywania swoich obowiązków składają pisemne oświadczenie, że pomiędzy nimi a kontrolowaną jednostką badawczą lub certyfikowaną jednostką badawczą, a także jednostką organizacyjną zlecającą jednostce badawczej lub certyfikowanej jednostce badawczej przeprowadzenie badań nie istnieją żadne powiązania mogące mieć wpływ na bezstronność ich oceny. Inspektorzy Dobrej Praktyki Laboratoryjnej, a także inne osoby wyznaczone przez Prezesa Biura do przeprowadzenia kontroli i weryfikacji, informują Prezesa Biura o powstaniu okoliczności mogących mieć wpływ na bezstronność ich oceny, także w przypadku zaistnienia takich okoliczności w trakcie postępowania.
+dalszym użytkowniku - rozumie się przez to osobę, o której mowa w art. 3 pkt 13 rozporządzenia nr 1907/2006;
 
-11b. W przypadku gdy w trakcie kontroli i weryfikacji inspektorzy Dobrej Praktyki Laboratoryjnej lub inne osoby wyznaczone przez Prezesa Biura do przeprowadzenia kontroli i weryfikacji mają dostęp do informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), informacje takie nie mogą zostać ujawnione. W przypadku gdy takie informacje są zawarte w protokole z przeprowadzonej kontroli i weryfikacji, protokół może zostać ujawniony na wniosek odpowiednich władz krajowych, Komisji Europejskiej, jednostek badawczych lub certyfikowanych jednostek badawczych, w których przeprowadzono kontrolę i weryfikację, oraz gdy dotyczy to określonego badania – zlecającego to badanie.
+### 13)
 
-12. Z przeprowadzonej kontroli i weryfikacji sporządza się protokół i przedstawia go do podpisu upoważnionemu przedstawicielowi jednostki badawczej albo certyfikowanej jednostki badawczej, w której była dokonywana kontrola i weryfikacja. Protokół z kontroli i weryfikacji certyfikowanej jednostki badawczej może zawierać zalecenia pokontrolne.
+dystrybutorze - rozumie się przez to osobę, o której mowa w art. 3 pkt 14 rozporządzenia nr 1907/2006;
 
-13. Jednostka badawcza albo certyfikowana jednostka badawcza, w terminie 14 dni od dnia otrzymania protokołu, może wnieść zastrzeżenia do protokołu wraz z ich uzasadnieniem. Prezes Biura rozpatruje zastrzeżenia w terminie 30 dni od dnia ich otrzymania i zajmuje stanowisko w sprawie. Stanowisko Prezesa Biura jest ostateczne i wraz z uzasadnieniem jest doręczane jednostce badawczej albo certyfikowanej jednostce badawczej.
+### 14)
 
-14. Certyfikowana jednostka badawcza, co do której w protokole kontroli i weryfikacji zawarto zalecenia pokontrolne, jest obowiązana do ich realizacji pod rygorem cofnięcia certyfikatu i wykreślenia z wykazu certyfikowanych jednostek badawczych.
+dostawcy substancji lub mieszaniny - rozumie się przez to osobę, o której mowa w art. 3 pkt 32 rozporządzenia nr 1907/2006;
 
-14a. Przy realizacji zadań dotyczących spełniania albo niespełniania przez jednostkę badawczą albo certyfikowaną jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej oraz niespełniania zasad Dobrej Praktyki Laboratoryjnej w odniesieniu do określonego badania lub badań składana przez stronę dokumentacja może być sporządzona w języku angielskim.
+### 15)
 
-14b. W przypadku, o którym mowa w ust. 14a, na żądanie Prezesa Biura dostarcza się uwierzytelnione tłumaczenie dokumentacji na język polski.
+dostawcy wyrobu - rozumie się przez to osobę, o której mowa w art. 3 pkt 33 rozporządzenia nr 1907/2006;
 
-15. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+### 16)
 
-- **1)** zasady Dobrej Praktyki Laboratoryjnej,
-- **2)** sposób dokonywania kontroli i weryfikacji, o których mowa w ust. 2 i 7,
-- **3)** procedurę uzyskiwania i cofania certyfikatu Dobrej Praktyki Laboratoryjnej oraz wykreślania z wykazu certyfikowanych jednostek badawczych – uwzględniając obowiązujące w tym zakresie przepisy Unii Europejskiej i OECD oraz mając na celu zapewnienie właściwej jakości badań.
+odbiorcy substancji lub mieszaniny - rozumie się przez to osobę, o której mowa w art. 3 pkt 34 rozporządzenia nr 1907/2006;
 
-**Art. 17.**
+### 17)
 
-1. Kontrola i weryfikacja spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze w przypadku, o którym mowa w:
+odbiorcy wyrobu - rozumie się przez to osobę, o której mowa w art. 3 pkt 35 rozporządzenia nr 1907/2006;
 
-- **1)** art. 16 ust. 2 – podlegają opłacie jednorazowej, której dowód uiszczenia jednostka badawcza przedkłada wraz z wnioskiem o wydanie certyfikatu i wpis do wykazu certyfikowanych jednostek badawczych;
-- **2)** art. 16 ust. 7 – podlegają stałej opłacie rocznej.
+### 18)
 
-2. W przypadku uzyskania certyfikatu i wpisu do wykazu certyfikowanych jednostek badawczych opłata jednorazowa, o której mowa w ust. 1 pkt 1, staje się opłatą roczną, o której mowa w ust. 1 pkt 2, za rok, w którym jednostka badawcza uzyskała certyfikat.
+uczestniku łańcucha dostaw - rozumie się przez to osobę, o której mowa w art. 3 pkt 17 rozporządzenia nr 1907/2006;
 
-3. Opłaty, o których mowa w ust. 1, nie mogą być wyższe niż rzeczywiste koszty ponoszone przez Biuro w związku z przeprowadzeniem odpowiedniej kontroli i weryfikacji lub wydaniem certyfikatu.
+### 19)
 
-3a. W przypadku nieuiszczenia stałej opłaty rocznej, o której mowa w ust. 1 pkt 2, Prezes Biura, w drodze decyzji, cofa wydany certyfikat i wykreśla certyfikowaną jednostkę badawczą z wykazu, o którym mowa w art. 16 ust. 4.
+wprowadzeniu do obrotu - rozumie się przez to procesy, o których mowa w art. 3 pkt 12 rozporządzenia nr 1907/2006, o ile ustawa nie stanowi inaczej;
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób wnoszenia opłat, o których mowa w ust. 1, uwzględniając w szczególności zakres czynności wykonywanych przez inspektorów Dobrej Praktyki Laboratoryjnej oraz pracowników Biura w związku z kontrolą i weryfikacją spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze lub wydaniem certyfikatu.
+### 20)
 
-#### Rozdział 5 Oznakowanie, obrót i stosowanie substancji i ich mieszanin
+stosowaniu - rozumie się przez to procesy, o których mowa w art. 3 pkt 24 rozporządzenia nr 1907/2006;
 
-**Art. 18.** (uchylony)
+### 21)
 
-**Art. 19.** (uchylony)
+ograniczeniu - rozumie się przez to ograniczenie, o którym mowa w art. 3 pkt 31 rozporządzenia nr 1907/2006;
 
-**Art. 20.** (uchylony)
+### 22)
 
-**Art. 21.**
+karcie charakterystyki - rozumie się przez to kartę charakterystyki, o której mowa w art. 31 rozporządzenia nr 1907/2006;
 
-1. Pojemniki i zbiorniki służące do przechowywania substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie oraz pojemniki i zbiorniki służące do pracy z tymi substancjami lub mieszaninami, rurociągi zawierające substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie lub służące do ich transportowania oraz miejsca, w których są składowane znaczące ilości substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie, powinny być należycie oznakowane, w tym opatrzone znakami ostrzegawczymi.
+### 23)
 
-2. Odstąpienie od oznakowania, o którym mowa w ust. 1, jest możliwe w przypadku pojemników i zbiorników służących do pracy przez krótki czas z substancjami i mieszaninami zaklasyfikowanymi zgodnie z rozporządzeniem nr 1272/2008 jako stwarzające zagrożenie ze względu na zagrożenie dla zdrowia lub ze względu na właściwości fizyczne lub gdy zawartość pojemnika lub zbiornika ulega częstym zmianom.
+Agencji - rozumie się przez to Europejską Agencję Chemikaliów utworzoną na podstawie rozporządzenia nr 1907/2006;
 
-3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia:
+### 24)
 
-- **1)** sposób oznakowania pojemników i zbiorników służących do przechowywania substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie oraz pojemników i zbiorników służących do pracy z tymi substancjami lub mieszaninami, rurociągów zawierających substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie,
-- **2)** warunki, które należy spełnić w przypadku odstąpienia od oznakowania, o którym mowa w ust. 2 – uwzględniając potrzebę zapewnienia bezpieczeństwa i zdrowia w miejscu pracy.
+alternatywnej nazwie rodzajowej - rozumie się przez to nazwę chemiczną nieidentyfikującą dokładnie substancji z uwagi na zachowanie tajemnicy handlowej;
 
-**Art. 22.** (uchylony)
+### 25)
 
-**Art. 23.** W przypadku uznania, że obrót określonymi substancjami stwarzającymi zagrożenie i mieszaninami stwarzającymi zagrożenie może spowodować niedopuszczalne zagrożenie dla ogółu społeczeństwa, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia:
+Dobrej Praktyce Laboratoryjnej - rozumie się przez to system jakości odnoszący się do procesu organizacyjnego i warunków planowania, przeprowadzania i monitorowania nieklinicznych badań substancji i mieszanin pod względem bezpieczeństwa dla zdrowia człowieka i środowiska naturalnego oraz odnotowywania, archiwizowania i sprawozdawania ich wyników;
 
-**Art. 24.** (uchylony)
+### 26)
 
-**Art. 25.** Producent, importer oraz dalszy użytkownik są obowiązani ustanowić, prowadzić i aktualizować na bieżąco spis produkowanych, importowanych lub stosowanych substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie.
+klasie zagrożenia - rozumie się przez to klasę zagrożenia, o której mowa w art. 2 pkt 1 rozporządzenia nr 1272/2008;
 
-**Art. 25a.** Dostawca wyrobu w rozumieniu art. 3 pkt 33 rozporządzenia nr 1907/2006 przekazuje informacje Agencji w zakresie, o którym mowa w art. 33 ust. 1 tego rozporządzenia, wykorzystując format i narzędzie przygotowane w tym celu przez Agencję.
+### 27)
 
-**Art. 26.**
+kategorii zagrożenia - rozumie się przez to kategorię zagrożenia, o której mowa w art. 2 pkt 2 rozporządzenia nr 1272/2008;
 
-1. Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw zdrowia, ministra właściwego do spraw klimatu, ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw gospodarki wodnej, w przypadku stwierdzenia, że produkcja, obrót lub stosowanie substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie stwarzają nieuzasadnione ryzyko dla zdrowia człowieka lub środowiska, lub gdy wynika to z porozumień międzynarodowych określi, w drodze rozporządzenia, ograniczenia:
+### 28)
 
-- **1)** produkcji, obrotu lub stosowania takiej substancji lub mieszaniny,
-- **2)** wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę – uwzględniając w szczególności zastosowania takiej substancji lub mieszaniny, stosowanie w stężeniu lub proporcjach przewyższających określony poziom, występowanie w określonych stężeniach lub ilościach w określonych wyrobach.
+wywozie - rozumie się przez to wywóz, o którym mowa w art. 3 pkt 14 rozporządzenia nr 689/2008;
 
-2. W przypadkach określonych w załączniku XVII do rozporządzenia nr 1907/2006 minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, sposób stosowania ograniczeń wyszczególnionych w tym załączniku, uwzględniając cele tych ograniczeń.
+### 29)
 
-**Art. 27.**
+przywozie - rozumie się przez to przywóz, o którym mowa w art. 3 pkt 15 rozporządzenia nr 689/2008;
 
-1. W przypadku gdy Prezes Biura stwierdzi lub ma uzasadnione powody do stwierdzenia, że substancja w jej postaci własnej, jako składnik mieszaniny lub w wyrobie może stanowić poważne zagrożenie dla zdrowia ludzkiego lub środowiska, wstrzymuje, w drodze decyzji, jej produkcję, wprowadzanie do obrotu lub stosowanie lub nakazuje wycofanie z obrotu na czas niezbędny do dokonania oceny przez Komisję Europejską.
+### 30)
 
-2. Decyzja, o której mowa w ust. 1, może być wydana także na wniosek Głównego Inspektora Sanitarnego lub Głównego Inspektora Ochrony Środowiska.
+chemikaliach - rozumie się przez to chemikalia, o których mowa w art. 3 pkt 1 rozporządzenia nr 689/2008.
 
-**Art. 27a.** W przypadku gdy dalszy użytkownik substancji w jej postaci własnej lub jako składnika mieszaniny wbrew przepisom art. 37 ust. 4 rozporządzenia nr 1907/2006 nie sporządza wymaganego raportu bezpieczeństwa chemicznego, Prezes Biura może, na wniosek państwowego powiatowego inspektora sanitarnego składany za pośrednictwem Głównego Inspektora Sanitarnego lub na wniosek Głównego Inspektora Ochrony Środowiska, zakazać, w drodze decyzji, wprowadzania takiej substancji do obrotu lub stosowania na terytorium Rzeczypospolitej Polskiej do czasu sporządzenia wymaganego raportu bezpieczeństwa chemicznego lub określić termin, po którym taka decyzja zostanie wydana, w przypadku gdy wymagany raport bezpieczeństwa chemicznego nie zostanie sporządzony w tym terminie.
+### Art. 3.
 
-**Art. 28.**
+### 1.
 
-1. Jeżeli istnieją uzasadnione podstawy, aby przypuszczać, że detergent, mimo że spełnia wymagania określone w rozporządzeniu nr 648/2004, stwarza zagrożenie dla bezpieczeństwa lub zdrowia człowieka, lub zagrożenie dla środowiska, Prezes Biura, po uzyskaniu opinii Głównego Inspektora Sanitarnego i opinii Głównego Inspektora Ochrony Środowiska, może, na czas określony, nie dłuższy niż 6 miesięcy, zakazać, w drodze decyzji, wprowadzania takiego detergentu do obrotu na terytorium Rzeczypospolitej Polskiej lub określić warunki, jakie muszą zostać spełnione podczas wprowadzania go do obrotu, spełniając jednocześnie wymagania, o których mowa w art. 15 ust. 1 rozporządzenia nr 648/2004.
+W odniesieniu do niektórych substancji, w ich postaci własnej, jako składników mieszaniny lub w wyrobach, niezbędnych na potrzeby obronności państwa, zezwala się na zwolnienie ze stosowania rozporządzenia nr 1907/2006, z wyłączeniem przepisów tytułu IV tego rozporządzenia.
 
-2. Prezes Biura, w drodze decyzji, uchyla albo przedłuża o następne 6 miesięcy zakaz, o którym mowa w ust. 1, stosownie do wyników konsultacji przewidzianych w art. 15 ust. 2 rozporządzenia nr 648/2004.
+### 2.
 
-3. Prezes Biura, w drodze decyzji, uchyla zakaz, o którym mowa w ust. 1, po podjęciu decyzji przewidzianej w art. 15 ust. 2 rozporządzenia nr 648/2004.
+W odniesieniu do niektórych substancji, w ich postaci własnej lub jako składników mieszaniny, niezbędnych na potrzeby obronności państwa, zezwala się na zwolnienie ze stosowania przepisu art. 40 rozporządzenia nr 1272/2008.
 
-4. Decyzja, o której mowa w ust. 1, może być wydana także na wniosek Głównego Inspektora Sanitarnego, Głównego Inspektora Ochrony Środowiska lub Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
+### 3.
 
-#### Rozdział 6 Przepisy o nadzorze
+Zwolnienia, o których mowa w ust. 1 i 2, wydaje, w drodze decyzji, Minister Obrony Narodowej, po uzyskaniu opinii ministra właściwego do spraw zdrowia i ministra właściwego do spraw gospodarki.
 
-**Art. 29.** Nadzór nad przestrzeganiem przepisów ustawy oraz przepisów rozporządzeń, o których mowa w art. 1 ust. 1, sprawują, w zakresie swojej właściwości, Państwowa Inspekcja Sanitarna oraz Wojskowa Inspekcja Sanitarna, a także:
+### Art. 4.
 
-**Art. 30.** Organy wymienione w art. 29 sprawują nadzór na zasadach i w trybie określonych w odrębnych przepisach.
+### 1.
 
-#### Rozdział 7 Przepisy karne
+Substancjami niebezpiecznymi i mieszaninami niebezpiecznymi są substancje i mieszaniny zaklasyfikowane co najmniej do jednej z poniższych kategorii:
 
-**Art. 31.** Kto wbrew decyzji Prezesa Biura, o której mowa w art. 27 ust. 1, art. 27a lub art. 28 ust. 1, wprowadza do obrotu mieszaninę stwarzającą niedopuszczalne zagrożenie dla zdrowia człowieka lub zagrożenie dla środowiska lub substancję bez wymaganego raportu bezpieczeństwa chemicznego lub wprowadza do obrotu detergent, co do którego istnieją uzasadnione podstawy, aby przypuszczać, że stwarza zagrożenie dla zdrowia człowieka lub zagrożenie dla środowiska, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+### 1)
 
-**Art. 32.**
+substancje i mieszaniny o właściwościach wybuchowych;
 
-1. Kto wbrew przepisowi art. 15 ust. 2 rozporządzenia nr 649/2012 dokonuje wywozu chemikaliów lub wyrobu w rozumieniu art. 3 pkt 4 tego rozporządzenia, wymienionych w załączniku V do tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+### 2)
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 14 ust. 6 rozporządzenia nr 649/2012 dokonuje wywozu chemikaliów wymienionych w załączniku I część 2 lub 3 do tego rozporządzenia bez otrzymania informacji od Prezesa Biura, że wyznaczone władze krajowe strony przywozu lub właściwe organy innego kraju przywozu wyrażają zgodę na ten przywóz lub że wywóz może nastąpić zgodnie z przepisami art. 14 ust. 7 tego rozporządzenia.
+substancje i mieszaniny o właściwościach utleniających;
 
-**Art. 33.**
+### 3)
 
-1. Kto wbrew przepisowi art. 8 ust. 2 rozporządzenia nr 649/2012 nie zgłasza Prezesowi Biura wywozu chemikaliów wymienionych w załączniku I część 1 do tego rozporządzenia, nie później niż 35 dni przed pierwszym wywozem i nie później niż 35 dni przed pierwszym wywozem w każdym następnym roku kalendarzowym, podlega grzywnie.
+substancje i mieszaniny skrajnie łatwopalne;
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 10 ust. 1 rozporządzenia nr 649/2012 nie informuje w pierwszym kwartale każdego roku Prezesa Biura o wielkości wywozu i przywozu w roku poprzednim chemikaliów w postaci substancji lub substancji zawartych w mieszaninach lub wyrobach wymienionych w załączniku I do tego rozporządzenia.
+### 4)
 
-3. Karze określonej w ust. 1 podlega, kto wbrew przepisom art. 17 rozporządzenia nr 649/2012 dokonuje wywozu chemikaliów bez stosowanego w Unii Europejskiej oznakowania lub bez wymaganej karty charakterystyki.
+substancje i mieszaniny wysoce łatwopalne;
 
-**Art. 34.**
+### 5)
 
-1. Kto bez uzyskania wymaganej zgody na odstępstwo, o którym mowa w art. 5 rozporządzenia nr 648/2004, wprowadza do obrotu środek powierzchniowo czynny przeznaczony do stosowania w detergentach lub detergent zawierający środek powierzchniowo czynny, niespełniający warunków określonych w art. 4 ust. 3 tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+substancje i mieszaniny łatwopalne;
 
-2. Tej samej karze podlega, kto wbrew warunkom odstępstwa udzielonego na podstawie art. 5 rozporządzenia nr 648/2004 wprowadza do obrotu lub stosuje środek powierzchniowo czynny przeznaczony do stosowania w detergentach lub detergent zawierający środek powierzchniowo czynny.
+### 6)
 
-3. Karze określonej w ust. 1 podlega, kto wbrew przepisowi art. 4a rozporządzenia nr 648/2004 wprowadza do obrotu detergenty niespełniające wymagań dotyczących ograniczeń zawartości fosforanów i innych związków fosforu, o których mowa w załączniku VIa do tego rozporządzenia.
+substancje i mieszaniny bardzo toksyczne;
 
-**Art. 35.**
+### 7)
 
-1. Producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisom art. 11 ust. 2–6 tego rozporządzenia wprowadza do obrotu detergent bez wymaganego oznakowania albo niewłaściwie oznakowany, w szczególności nie umieszcza wymaganych informacji na opakowaniach detergentów lub w dokumentacji towarzyszącej detergentom transportowanym luzem, podlega karze grzywny.
+substancje i mieszaniny toksyczne;
 
-2. Tej samej karze podlega producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisowi art. 9 tego rozporządzenia nie udostępnia na żądanie Prezesa Biura albo personelu medycznego wymaganych informacji.
+### 8)
 
-3. Karze określonej w ust. 1 podlega producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisowi załącznika VII D do tego rozporządzenia nie udostępnia wymaganych informacji na stronie internetowej.
+substancje i mieszaniny szkodliwe;
 
-**Art. 36.**
+### 9)
 
-1. Kto wbrew ograniczeniom określonym w przepisach wydanych na podstawie art. 26 ust. 1 produkuje, wprowadza do obrotu lub stosuje substancję stwarzającą zagrożenie, mieszaninę stwarzającą zagrożenie lub wyrób zawierający taką substancję lub mieszaninę, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+substancje i mieszaniny żrące;
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 67 rozporządzenia nr 1907/2006 produkuje, wprowadza do obrotu lub stosuje substancję, w jej postaci własnej, jako składnik mieszaniny lub w wyrobie, w stosunku do której w załączniku XVII do tego rozporządzenia zostało określone ograniczenie, albo czyni to wbrew ograniczeniu ustalonemu w tym załączniku lub w przepisach wydanych na podstawie art. 26 ust. 2 ustawy.
+### 10)
 
-**Art. 37.** Producent, importer lub dalszy użytkownik, który wbrew przepisom art. 56 ust. 1–6 rozporządzenia nr 1907/2006 lub wbrew warunkom zezwolenia wprowadza do obrotu lub stosuje substancję, wymienioną w załączniku XIV do tego rozporządzenia, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+substancje i mieszaniny drażniące;
 
-**Art. 38.** Rejestrujący, który wykonuje lub zleca wykonanie badania na zwierzętach kręgowych wbrew przepisowi art. 26 ust. 3 rozporządzenia nr 1907/2006, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+### 11)
 
-**Art. 39.** Producent, importer lub wytwórca wyrobu, który wbrew przepisowi art. 9 ust. 6 rozporządzenia nr 1907/2006 nie stosuje się do warunków nałożonych przez Agencję zgodnie z art. 9 ust. 4 tego rozporządzenia, podlega grzywnie.
+substancje i mieszaniny uczulające;
 
-**Art. 40.** Dalszy użytkownik, który wbrew przepisowi art. 37 ust. 5 rozporządzenia nr 1907/2006 nie określa, nie stosuje i, w stosownych przypadkach, nie zaleca odpowiednich środków w celu właściwej kontroli ryzyka, podlega grzywnie.
+### 12)
 
-**Art. 41.** Producent, importer lub dalszy użytkownik, który wbrew przepisowi art. 4 ust. 1 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę bez dokonania klasyfikacji tej substancji lub mieszaniny, sporządzonej zgodnie z przepisami tego rozporządzenia, podlega karze grzywny.
+substancje i mieszaniny rakotwórcze;
 
-**Art. 42.** Kto wbrew przepisowi art. 4 ust. 2 rozporządzenia nr 1272/2008 nie klasyfikuje substancji, która nie została jeszcze wprowadzona do obrotu, lub klasyfikuje ją w sposób niespełniający wymagań określonych w tym rozporządzeniu, podlega karze grzywny.
+### 13)
 
-**Art. 43.** Kto wbrew przepisowi art. 65 rozporządzenia nr 1907/2006 nie umieszcza na etykiecie substancji lub mieszaniny wymaganego numeru zezwolenia przed ich wprowadzeniem do obrotu, podlega karze grzywny.
+substancje i mieszaniny mutagenne;
 
-**Art. 44.**
+### 14)
 
-1. Dostawca substancji lub mieszaniny, który wbrew przepisowi art. 4 ust. 4 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę stwarzającą zagrożenie bez oznakowania sporządzonego zgodnie z tytułem III tego rozporządzenia, podlega karze grzywny.
+substancje i mieszaniny działające szkodliwie na rozrodczość;
 
-2. Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 30 rozporządzenia nr 1272/2008 nie aktualizuje informacji zawartych na etykiecie.
+### 15)
 
-**Art. 45.** Kto wbrew przepisowi art. 21 nie zapewnia należytego oznakowania pojemników i zbiorników służących do przechowywania substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie oraz do pracy z nimi, rurociągów zawierających substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie, podlega karze grzywny.
+substancje i mieszaniny niebezpieczne dla środowiska.
 
-**Art. 46.** Kto wbrew przepisowi art. 4 ust. 4 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę stwarzającą zagrożenie bez opakowania spełniającego wymagania tytułu IV tego rozporządzenia, podlega karze grzywny.
+### 2.
 
-**Art. 47.** (uchylony)
+Substancjami stwarzającymi zagrożenie i mieszaninami stwarzającymi zagrożenie są substancje i mieszaniny należące co najmniej do jednej z klas zagrożenia wymienionych w częściach 2-5 załącznika I do rozporządzenia nr 1272/2008.
 
-**Art. 48.**
+### Rozdział 2 Inspektor do spraw Substancji Chemicznych
 
-1. Kto reklamuje substancję stwarzającą zagrożenie bez wymienienia klas i kategorii zagrożenia związanych z tą substancją, podlega karze grzywny.
+### Art. 5.
 
-2. Tej samej karze podlega, kto bez wymienienia rodzaju lub rodzajów zagrożeń określonych na etykiecie reklamuje mieszaninę stwarzającą zagrożenie lub mieszaninę, o której mowa w art. 25 ust. 6 rozporządzenia nr 1272/2008, umożliwiając konsumentom zawarcie umowy kupna bez uprzedniego obejrzenia etykiety.
+Tworzy się centralny organ administracji rządowej właściwy w sprawach substancji i ich mieszanin, którym jest Inspektor do spraw Substancji Chemicznych, zwany dalej „Inspektorem”.
 
-**Art. 49.**
+### Art. 6.
 
-1. Kto wbrew przepisowi art. 5 rozporządzenia nr 1907/2006 produkuje lub wprowadza do obrotu substancję w jej postaci własnej, jako składnik mieszaniny lub w wyrobie bez dokonania wymaganej w tym przepisie rejestracji, podlega karze grzywny do 200 000 zł.
+### 1.
 
-2. Rejestrujący, który wbrew przepisom art. 22 ust. 1, 2 i 4 rozporządzenia nr 1907/2006 nie dopełnia obowiązku wprowadzenia do dokumentów rejestracyjnych wymaganych nowych informacji i nie przedkłada ich Agencji lub nie dokonuje wymaganej aktualizacji dokumentów rejestracyjnych, podlega karze grzywny do 50 000 zł.
+Inspektora powołuje minister właściwy do spraw zdrowia spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii ministra właściwego do spraw gospodarki i opinii ministra właściwego do spraw środowiska.
 
-**Art. 50.** Właściciel wyników badania, który wbrew przepisom art. 30 ust. 1, 3 i 4 rozporządzenia nr 1907/2006 odmawia uczestnikom forum wymiany informacji o substancjach (SIEF) przedstawienia w terminie dokumentów stanowiących dowód poniesienia kosztów tego badania lub udostępnienia w terminie dokumentacji tego badania, podlega grzywnie do 50 000 zł.
+### 2.
 
-**Art. 51.**
+Nadzór nad Inspektorem sprawuje minister właściwy do spraw zdrowia.
 
-1. Kto wbrew przepisowi art. 7 ust. 1 rozporządzenia nr 1272/2008 przeprowadza nowe badania na zwierzętach, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+### 3.
 
-2. Tej samej karze podlega, kto wbrew przepisom art. 7 ust. 2 i 3 rozporządzenia nr 1272/2008 przeprowadza badania na naczelnych innych niż ludzie albo badania na ludziach.
+Inspektora odwołuje minister właściwy do spraw zdrowia, po zasięgnięciu opinii ministra właściwego do spraw gospodarki i opinii ministra właściwego do spraw środowiska.
 
-3. Karze określonej w ust. 1 podlega, kto przeprowadza nowe badania na zwierzętach kręgowych w celu uzyskania informacji dotyczących substancji i mieszanin wbrew art. 8 ust. 1 rozporządzenia nr 1272/2008.
+### Art. 7.
 
-**Art. 52.**
+Stanowisko Inspektora może zajmować osoba, która:
 
-1. Dostawca substancji lub mieszaniny, który wbrew przepisom art. 31 ust. 1 i 3–8 rozporządzenia nr 1907/2006 nie dostarcza wymaganej karty charakterystyki sporządzonej zgodnie z załącznikiem II do tego rozporządzenia, podlega karze grzywny.
+### 1)
 
-2. Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 31 ust. 9 rozporządzenia nr 1907/2006 dostarcza niezaktualizowaną kartę charakterystyki.
+posiada tytuł zawodowy magistra lub równorzędny;
 
-**Art. 53.**
+### 2)
 
-1. Dostawca substancji lub mieszaniny, który wbrew przepisom art. 32 rozporządzenia nr 1907/2006 nie przekazuje wymaganej informacji, podlega karze grzywny.
+jest obywatelem polskim;
 
-2. Tej samej karze podlega dostawca substancji lub mieszaniny, który nie dokonuje wymaganej aktualizacji informacji, o której mowa w ust. 1.
+### 3)
 
-**Art. 54.**
+korzysta z pełni praw publicznych;
 
-1. Dostawca wyrobu zawierającego w stężeniu powyżej 0,1% wagowego substancji spełniającej kryteria zawarte w art. 57 rozporządzenia nr 1907/2006 i zidentyfikowanej zgodnie z art. 59 ust. 1 tego rozporządzenia, który wbrew przepisowi art. 33 ust. 1 tego rozporządzenia nie przekazuje odbiorcy wyrobu wymaganej informacji, podlega karze grzywny.
+### 4)
 
-2. Tej samej karze podlega dostawca wyrobu, który wbrew przepisowi art. 33 ust. 2 rozporządzenia nr 1907/2006 nie przekazuje konsumentowi, na jego żądanie, wymaganej informacji.
+nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 
-**Art. 54a.** Dostawca wyrobu, który wbrew art. 25a nie przekazuje Agencji informacji zgodnie z art. 33 ust. 1 rozporządzenia nr 1907/2006, wykorzystując format i narzędzie przygotowane w tym celu przez tę Agencję, podlega karze grzywny.
+### 5)
 
-**Art. 55.**
+posiada kompetencje kierownicze;
 
-1. Uczestnik łańcucha dostaw substancji lub mieszaniny, który wbrew przepisowi art. 34 rozporządzenia nr 1907/2006 nie przekazuje uczestnikowi lub dystrybutorowi stanowiącemu poprzednie ogniwo łańcucha dostaw wymaganych informacji, podlega karze grzywny.
+### 6)
 
-2. Tej samej karze podlega dystrybutor, który wbrew przepisowi art. 34 rozporządzenia nr 1907/2006 nie przekazuje otrzymanych zgodnie z ust. 1 informacji osobie stanowiącej poprzednie ogniwo łańcucha dostaw.
+posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
 
-**Art. 56.**
+### 7)
 
-1. Kto wbrew przepisowi art. 36 rozporządzenia nr 1907/2006 nie przechowuje lub nie udostępnia informacji wymaganych od niego w celu wypełnienia obowiązków wynikających z przepisów tego rozporządzenia, podlega karze grzywny.
+posiada doświadczenie i wiedzę z zakresu spraw należących do właściwości Inspektora.
 
-2. Tej samej karze podlega, kto wbrew przepisowi art. 49 rozporządzenia nr 1272/2008 nie przechowuje lub nie udostępnia informacji, które wykorzystał do celów klasyfikacji i oznakowania na mocy przepisów tego rozporządzenia.
+### Art. 8.
 
-**Art. 57.**
+### 1.
 
-1. Dalszy użytkownik, który wbrew przepisom art. 37 ust. 4 i 7 rozporządzenia nr 1907/2006, w terminach określonych w art. 39 ust. 1 tego rozporządzenia, nie sporządza lub nie aktualizuje wymaganego raportu bezpieczeństwa chemicznego, podlega karze grzywny nie niższej niż 2000 zł.
+Informację o naborze na stanowisko Inspektora udostępnia się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Biura do spraw Substancji Chemicznych, zwanego dalej „Biurem”, oraz w Biuletynie Informacji Publicznej Biura i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
 
-2. Tej samej karze podlega dalszy użytkownik, który wbrew przepisowi art. 38 rozporządzenia nr 1907/2006, w terminach określonych w art. 39 ust. 2 tego rozporządzenia, nie przekazuje do Agencji lub nie aktualizuje wymaganych informacji.
+### 1)
 
-3. Karze określonej w ust. 1 podlega dystrybutor, który wbrew przepisowi art. 37 ust. 2 rozporządzenia nr 1907/2006 nie przekazuje wymaganych informacji uczestnikowi lub dystrybutorowi stanowiącemu poprzednie ogniwo łańcucha dostaw.
+nazwę i adres Biura;
 
-**Art. 58.** Rejestrujący lub dalszy użytkownik, który wbrew decyzji Agencji podjętej na podstawie art. 40 ust. 3 rozporządzenia nr 1907/2006 nie dostarcza Agencji w ustalonym terminie wymaganych informacji, podlega karze grzywny.
+### 2)
 
-**Art. 59.**
+określenie stanowiska;
 
-1. Rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 41 ust. 3 rozporządzenia nr 1907/2006 nie przedstawia w ustalonym terminie informacji wymaganych do zapewnienia zgodności dokumentów rejestracyjnych z przepisami tego rozporządzenia, podlega karze grzywny.
+### 3)
 
-2. Tej samej karze podlega rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 46 ust. 1 rozporządzenia nr 1907/2006 nie dostarcza Agencji w ustalonym terminie wymaganych dalszych informacji.
+określenie wymagań związanych ze stanowiskiem, wynikających z przepisów prawa;
 
-**Art. 60.** Dalszy użytkownik, który wbrew przepisowi art. 66 ust. 1 rozporządzenia nr 1907/2006 i w terminie określonym w tym przepisie nie zgłasza do Agencji stosowania substancji, o której mowa w art. 56 ust. 2 tego rozporządzenia, podlega karze grzywny.
+### 4)
 
-**Art. 61.**
+określenie zakresu zadań wykonywanych na stanowisku;
 
-1. Kto wbrew przepisom art. 40 ust. 1 i 3 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję, o której mowa w art. 39 tego rozporządzenia, bez zgłoszenia Agencji wymaganych informacji, podlega karze grzywny.
+### 5)
 
-2. Tej samej karze podlega, kto wbrew przepisowi art. 40 ust. 2 rozporządzenia nr 1272/2008 nie uaktualnia zgłoszonych informacji.
+wskazanie wymaganych dokumentów;
 
-3. Tej samej karze podlega, kto wprowadza do obrotu mieszaninę zaklasyfikowaną jako stwarzająca zagrożenie na podstawie wywieranych skutków fizycznych lub działania na zdrowie, co do której nie zostały przekazane jednostkom wyznaczonym na podstawie art. 45 ust. 1 rozporządzenia nr 1272/2008 informacje, o których mowa w części B załącznika VIII do tego rozporządzenia, lub nie uaktualnia zgłoszonych informacji.
+### 6)
 
-**Art. 62.** Kto wbrew obowiązkowi nie zapewnia swoim pracownikom i ich przedstawicielom dostępu do informacji dostarczanych zgodnie z przepisami art. 31 i art. 32 rozporządzenia nr 1907/2006 w odniesieniu do substancji lub mieszanin, które stosują lub na które mogą być narażeni w trakcie swojej pracy, podlega karze grzywny.
+określenie terminu i miejsca składania dokumentów;
 
-**Art. 63.**
+### 7)
 
-1. Kto, nie będąc do tego uprawnionym, uiszcza ulgową opłatę lub należność na podstawie art. 3–10 rozporządzenia Komisji (WE) nr 340/2008 z dnia 16 kwietnia 2008 r. w sprawie opłat i należności wnoszonych na rzecz Europejskiej Agencji Chemikaliów na mocy rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) (Dz. Urz. UE L 107 z 17.04.2008, str. 6) albo korzysta ze zwolnienia z opłaty na podstawie art. 74 ust. 2 rozporządzenia nr 1907/2006, podlega karze grzywny.
+informację o metodach i technikach naboru.
 
-2. Tej samej karze podlega, kto, nie będąc do tego uprawnionym, uiszcza obniżoną opłatę na podstawie art. 3 i 4 rozporządzenia Komisji (UE) nr 440/2010 z dnia 21 maja 2010 r. w sprawie opłat wnoszonych na rzecz Europejskiej Agencji Chemikaliów na mocy rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin (Dz. Urz. UE L 126 z 22.05.2010, str. 1).
+### 2.
 
-**Art. 64.** Orzekanie w sprawach o czyny, o których mowa w art. 35, art. 41– 49 i art. 52–63, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124).
+Termin, o którym mowa w ust. 1 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+### Art. 9.
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+### 1.
 
-**Art. 85.**
+Nabór na stanowisko Inspektora przeprowadza zespół, powołany przez ministra właściwego do spraw zdrowia, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów, zwany dalej „zespołem”.
 
-1. Z dniem wejścia w życie ustawy Inspektor do Spraw Substancji i Preparatów Chemicznych powołany na podstawie dotychczasowych przepisów staje się Inspektorem do spraw Substancji Chemicznych.
+### 2.
 
-2. Z dniem wejścia w życie ustawy Biuro do Spraw Substancji i Preparatów Chemicznych utworzone na podstawie dotychczasowych przepisów staje się Biurem do spraw Substancji Chemicznych.
+W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
 
-3. Z dniem wejścia w życie ustawy pracownicy Biura do Spraw Substancji i Preparatów Chemicznych utworzonego na podstawie dotychczasowych przepisów stają się pracownikami Biura do spraw Substancji Chemicznych.
+### 3.
 
-4. Statut Biura do Spraw Substancji i Preparatów Chemicznych utworzonego na podstawie dotychczasowych przepisów zachowuje moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 2 ustawy, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 2, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
 
-**Art. 86.** Ilekroć w odrębnych przepisach jest mowa o Inspektorze do Spraw Substancji i Preparatów Chemicznych lub Biurze do Spraw Substancji i Preparatów Chemicznych, rozumie się przez to, odpowiednio, Inspektora do spraw Substancji Chemicznych lub Biuro do spraw Substancji Chemicznych.
+### 4.
 
-**Art. 87.**
+Członek zespołu oraz osoba, o której mowa w ust. 3, są obowiązani do zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
 
-1. Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 5.
 
-2. Opłatę, o której mowa w art. 17 ust. 1 pkt 2, po raz pierwszy wnosi się po upływie czasu, na jaki została wniesiona opłata pobierana na podstawie dotychczasowych przepisów.
+W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw zdrowia.
 
-3. Certyfikaty potwierdzające spełnianie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej, wydane na podstawie decyzji Inspektora do Spraw Substancji i Preparatów Chemicznych przed dniem wejścia w życie ustawy, zachowują ważność na czas, na jaki zostały wydane.
+### Art. 10.
 
-4. Pierwszy wykaz certyfikowanych jednostek badawczych, o którym mowa w art. 16 ust. 1, obejmuje jednostki, które uzyskały certyfikaty potwierdzające spełnianie zasad Dobrej Praktyki Laboratoryjnej przed dniem wejścia w życie ustawy.
+### 1.
 
-**Art. 88.** Przepisy wykonawcze wydane na podstawie:
+Z przeprowadzonego naboru zespół sporządza protokół zawierający:
 
-**Art. 89.** Traci moc ustawa z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych (Dz. U. z 2009 r. poz. 1222 oraz z 2010 r. poz. 679 i 1228).
+### 1)
 
-**Art. 90.** Przepisy art. 20 ust. 3 i ust. 11 pkt 4 tracą moc z dniem 1 czerwca 2015 r.
+nazwę i adres Biura;
 
-**Art. 91.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+### 2)
 
+określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
+
+### 3)
+
+imiona, nazwiska oraz miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075 oraz z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037.](#gloss-0:3:)) nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze albo informację o niewyłonieniu kandydata;
+
+### 4)
+
+informację o zastosowanych metodach i technikach naboru;
+
+### 5)
+
+uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
+
+### 6)
+
+skład zespołu: imię, nazwisko, zajmowane stanowisko służbowe, służbowy numer telefonu i służbowy adres poczty elektronicznej.
+
+### 2.
+
+Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji w Biuletynie Informacji Publicznej Biura i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Informacja o wyniku naboru zawiera:
+
+### 1)
+
+nazwę i adres Biura;
+
+### 2)
+
+określenie stanowiska, na które był prowadzony nabór;
+
+### 3)
+
+imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny albo informację o niewyłonieniu kandydata.
+
+### 3.
+
+Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+
+### Art. 11.
+
+Do decyzji i postanowień wydawanych przez Inspektora stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18 i Nr 34, poz. 173.](#gloss-0:4:)), z tym że organem odwoławczym w stosunku do Inspektora jest minister właściwy do spraw zdrowia.
+
+### Art. 12.
+
+### 1.
+
+Do zadań Inspektora należy:
+
+### 1)
+
+gromadzenie danych dotyczących mieszanin niebezpiecznych lub mieszanin stwarzających zagrożenie oraz dostarczanych przez Agencję informacji dotyczących substancji;
+
+### 2)
+
+udostępnianie danych dotyczących substancji niebezpiecznych i mieszanin niebezpiecznych lub substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie służbom medycznym i ratowniczym;
+
+### 3)
+
+pełnienie funkcji:
+
+### a)
+
+właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących wywozu i przywozu niebezpiecznych chemikaliów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej oraz z Komisją Europejską,
+
+### b)
+
+właściwego organu wyznaczonego do wykonywania, określonych w przepisach Unii Europejskiej, zadań administracyjnych dotyczących detergentów i współpraca w tym zakresie z innymi państwami członkowskimi Unii Europejskiej, Konfederacją Szwajcarską lub państwami członkowskimi Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronami umowy o Europejskim Obszarze Gospodarczym oraz Komisją Europejską,
+
+### c)
+
+właściwego organu określonego w art. 8 rozporządzenia nr 648/2004, w art. 121 rozporządzenia nr 1907/2006, w art. 43 rozporządzenia nr 1272/2008 oraz wyznaczonego organu krajowego określonego w art. 4 rozporządzenia nr 689/2008;
+
+### 4)
+
+utworzenie w Biurze i prowadzenie Krajowego Centrum Informacyjnego, o którym mowa w art. 124 rozporządzenia nr 1907/2006 i w art. 44 rozporządzenia nr 1272/2008;
+
+### 5)
+
+współpraca z organizacjami międzynarodowymi w zakresie substancji i mieszanin;
+
+### 6)
+
+przyjmowanie i gromadzenie danych dotyczących prekursorów kategorii 2 określonych w przepisach o przeciwdziałaniu narkomanii;
+
+### 7)
+
+wykonywanie innych zadań nałożonych przez ministra właściwego do spraw zdrowia.
+
+### 2.
+
+Inspektor realizuje swoje zadania przy pomocy Biura, którym kieruje i które reprezentuje na zewnątrz.
+
+### Art. 13.
+
+### 1.
+
+Szczegółowe zadania Inspektora, organizację Biura oraz zasady współpracy Inspektora z Komisją Europejską oraz Organizacją Współpracy Gospodarczej i Rozwoju (OECD), zwaną dalej „OECD”, w zakresie Dobrej Praktyki Laboratoryjnej określa statut Biura.
+
+### 2.
+
+Minister właściwy do spraw zdrowia nadaje, w drodze rozporządzenia, statut Biura, mając na względzie właściwą realizację zadań nałożonych na Inspektora.
+
+### Art. 14.
+
+Minister właściwy do spraw zdrowia, minister właściwy do spraw gospodarki, minister właściwy do spraw pracy i minister właściwy do spraw środowiska, każdy w zakresie swojego działania, mogą wskazać instytuty naukowe lub inne podległe im jednostki organizacyjne właściwe do współpracy z Inspektorem przy wykonywaniu zadań dotyczących oceny substancji i ich mieszanin, określonych w ustawie.
+
+### Rozdział 3 Informowanie o mieszaninach niebezpiecznych lub stwarzających zagrożenie
+
+### Art. 15.
+
+### 1.
+
+Osoba fizyczna lub prawna wytwarzająca na terytorium Rzeczypospolitej Polskiej mieszaninę niebezpieczną lub mieszaninę stwarzającą zagrożenie oraz osoba fizyczna lub prawna, która sprowadza taką mieszaninę na terytorium Rzeczypospolitej Polskiej, przekazują informację o takiej mieszaninie do Inspektora.
+
+### 2.
+
+Informację, o której mowa w ust. 1, przekazuje się najpóźniej w dniu wytworzenia mieszaniny lub jej sprowadzenia na terytorium Rzeczypospolitej Polskiej. Informacja zawiera:
+
+### 1)
+
+imię i nazwisko oraz adres miejsca wykonywania działalności albo nazwę i adres siedziby wraz z numerem telefonu podmiotu przekazującego informację;
+
+### 2)
+
+nazwę handlową tej mieszaniny;
+
+### 3)
+
+kartę charakterystyki tej mieszaniny.
+
+### 3.
+
+W przypadku braku obowiązku dostarczenia karty charakterystyki mieszaniny, jeżeli nie została ona sporządzona, osoby, o których mowa w ust. 1, przedstawiają informacje określone w pkt 2 i 3 załącznika II do rozporządzenia nr 1907/2006.
+
+### 4.
+
+W przypadku aktualizacji karty charakterystyki albo aktualizacji informacji, o których mowa w ust. 3, osoby wskazane w ust. 1 są obowiązane przedstawić ją Inspektorowi w terminie 14 dni od dnia jej aktualizacji.
+
+### 5.
+
+Jeżeli Inspektor uzna, że istnieją uzasadnione podstawy pozwalające przypuszczać, że mieszanina stwarza niedopuszczalne zagrożenie dla zdrowia człowieka lub środowiska, może zażądać, w drodze decyzji, ujawnienia szczegółowego składu chemicznego mieszaniny. Informacja taka stanowi tajemnicę prawnie chronioną i może zostać wykorzystana wyłącznie w celach medycznych do zapobiegania i postępowania leczniczego.
+
+### Rozdział 4 Badania substancji i mieszanin
+
+### Art. 16.
+
+### 1.
+
+W przypadku gdy przepisy wydane na podstawie ustawy, przepisy rozporządzeń wymienionych w art. 1 ust. 1 albo przepisy odrębne wymagają wykonania badań substancji lub ich mieszanin zgodnie z zasadami Dobrej Praktyki Laboratoryjnej, badania takie są wykonywane w jednostkach organizacyjnych wykonujących badania substancji lub ich mieszanin, posiadających certyfikat Dobrej Praktyki Laboratoryjnej i wpisanych do wykazu jednostek badawczych certyfikowanych w zakresie Dobrej Praktyki Laboratoryjnej, zwanych dalej „certyfikowanymi jednostkami badawczymi”.
+
+### 2.
+
+Kontrola i weryfikacja spełniania przez jednostkę organizacyjną wykonującą badania substancji i ich mieszanin, zwaną dalej „jednostką badawczą”, zasad Dobrej Praktyki Laboratoryjnej w celu uzyskania przez tę jednostkę certyfikatu Dobrej Praktyki Laboratoryjnej i wpisu jej do wykazu certyfikowanych jednostek badawczych następują na wniosek tej jednostki.
+
+### 3.
+
+Jednostką właściwą do kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze jest Biuro. Kontroli i weryfikacji dokonują inspektorzy Dobrej Praktyki Laboratoryjnej, każdorazowo wyznaczeni przez Inspektora spośród pracowników Biura, którym Inspektor zapewnia okresowe szkolenia, w tym szkolenia organizowane przez OECD. W uzasadnionych przypadkach, gdy wymaga tego specyfika jednostki badawczej lub wykonywanych badań, w kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostkę badawczą mogą wziąć udział inne osoby wyznaczone przez Inspektora.
+
+### 4.
+
+Na wniosek inspektorów Dobrej Praktyki Laboratoryjnej Inspektor, w drodze decyzji, stwierdza spełnianie albo niespełnienie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej. Spełnianie zasad Dobrej Praktyki Laboratoryjnej Inspektor potwierdza wydaniem certyfikatu Dobrej Praktyki Laboratoryjnej oraz wpisem do wykazu certyfikowanych jednostek badawczych. W certyfikacie oraz wykazie certyfikowanych jednostek badawczych określa się zakres badań wykonywanych przez certyfikowaną jednostkę badawczą zgodnie z zasadami Dobrej Praktyki Laboratoryjnej.
+
+### 5.
+
+Aktualny wykaz certyfikowanych jednostek badawczych Inspektor zamieszcza w Biuletynie Informacji Publicznej Biura.
+
+### 6.
+
+W przypadku jednostki badawczej mającej siedzibę poza terytorium Rzeczypospolitej Polskiej uznaje się, że jednostka ta spełnia zasady Dobrej Praktyki Laboratoryjnej, po przedstawieniu ważnego certyfikatu lub innego właściwego dokumentu nadanego tej jednostce przez jednostkę właściwą do kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach OECD lub w innych państwach, w których ustanowiono w porozumieniu z OECD takie jednostki.
+
+### 7.
+
+Certyfikowane jednostki badawcze podlegają okresowej lub doraźnej kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej, do której stosuje się przepis ust. 3. Kontrola i weryfikacja mogą również następować na wniosek jednostek właściwych do spraw kontroli i weryfikacji spełniania zasad Dobrej Praktyki Laboratoryjnej w państwach, o których mowa w ust. 6, lub jednostek właściwych do spraw Dobrej Praktyki Laboratoryjnej w Komisji Europejskiej i w OECD.
+
+### 8.
+
+W przypadku niespełnienia zasad Dobrej Praktyki Laboratoryjnej przez certyfikowaną jednostkę badawczą Inspektor, w drodze decyzji, cofa wydany certyfikat i wykreśla jednostkę z wykazu certyfikowanych jednostek badawczych.
+
+### 9.
+
+Kontrolę i weryfikację spełniania zasad Dobrej Praktyki Laboratoryjnej, o których mowa w ust. 2 i 7, przeprowadza się na podstawie pisemnego upoważnienia wydanego przez Inspektora, które zawiera:
+
+### 1)
+
+nazwisko i imię oraz numer dokumentu potwierdzającego tożsamość inspektora Dobrej Praktyki Laboratoryjnej lub osoby, o której mowa w ust. 3, dokonującej kontroli i weryfikacji;
+
+### 2)
+
+nazwę jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja;
+
+### 3)
+
+datę przeprowadzenia kontroli i weryfikacji, określenie ich zakresu i przewidywanego czasu trwania.
+
+### 10.
+
+Inspektorzy Dobrej Praktyki Laboratoryjnej oraz osoby, o których mowa w ust. 3, dokonujący kontroli i weryfikacji są uprawnieni do:
+
+### 1)
+
+wstępu na teren nieruchomości, obiektów i lokali jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja, w dniach i godzinach jej pracy;
+
+### 2)
+
+wglądu do dokumentacji, w tym do danych źródłowych, oraz żądania informacji i wyjaśnień dotyczących wykonywanych przez jednostkę badawczą albo certyfikowaną jednostkę badawczą badań substancji lub ich mieszanin.
+
+### 11.
+
+Czynności kontroli i weryfikacji są dokonywane w obecności upoważnionego przedstawiciela jednostki badawczej albo certyfikowanej jednostki badawczej, w której jest dokonywana kontrola i weryfikacja.
+
+### 12.
+
+Z przeprowadzonej kontroli i weryfikacji sporządza się protokół i przedstawia go do podpisu upoważnionemu przedstawicielowi jednostki badawczej albo certyfikowanej jednostki badawczej, w której była dokonywana kontrola i weryfikacja. Protokół z kontroli i weryfikacji certyfikowanej jednostki badawczej może zawierać zalecenia pokontrolne.
+
+### 13.
+
+Jednostka badawcza albo certyfikowana jednostka badawcza, w terminie 14 dni od dnia otrzymania protokołu, może wnieść zastrzeżenia do protokołu wraz z ich uzasadnieniem. Inspektor rozpatruje zastrzeżenia w terminie 30 dni od dnia ich otrzymania i zajmuje stanowisko w sprawie. Stanowisko Inspektora jest ostateczne i wraz z uzasadnieniem jest doręczane jednostce badawczej albo certyfikowanej jednostce badawczej.
+
+### 14.
+
+Certyfikowana jednostka badawcza, co do której w protokole kontroli i weryfikacji zawarto zalecenia pokontrolne, jest obowiązana do ich realizacji pod rygorem cofnięcia certyfikatu i wykreślenia z wykazu certyfikowanych jednostek badawczych.
+
+### 15.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+### 1)
+
+zasady Dobrej Praktyki Laboratoryjnej,
+
+### 2)
+
+sposób dokonywania kontroli i weryfikacji, o których mowa w ust. 2 i 7,
+
+### 3)
+
+procedurę uzyskiwania i cofania certyfikatu Dobrej Praktyki Laboratoryjnej oraz wykreślania z wykazu certyfikowanych jednostek badawczych
+
+- uwzględniając obowiązujące w tym zakresie przepisy Unii Europejskiej i OECD oraz mając na celu zapewnienie właściwej jakości badań.
+
+### Art. 17.
+
+### 1.
+
+Kontrola i weryfikacja spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze w przypadku, o którym mowa w:
+
+### 1)
+
+art. 16 ust. 2 - podlegają opłacie jednorazowej, której dowód uiszczenia jednostka badawcza przedkłada wraz z wnioskiem o wydanie certyfikatu i wpis do wykazu certyfikowanych jednostek badawczych;
+
+### 2)
+
+art. 16 ust. 7 - podlegają stałej opłacie rocznej.
+
+### 2.
+
+W przypadku uzyskania certyfikatu i wpisu do wykazu certyfikowanych jednostek badawczych opłata jednorazowa, o której mowa w ust. 1 pkt 1, staje się opłatą roczną, o której mowa w ust. 1 pkt 2, za rok, w którym jednostka badawcza uzyskała certyfikat.
+
+### 3.
+
+Opłaty, o których mowa w ust. 1, nie mogą być wyższe niż rzeczywiste koszty ponoszone przez Biuro w związku z przeprowadzeniem odpowiedniej kontroli i weryfikacji lub wydaniem certyfikatu.
+
+### 4.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób wnoszenia opłat, o których mowa w ust. 1, uwzględniając w szczególności zakres czynności wykonywanych przez inspektorów Dobrej Praktyki Laboratoryjnej oraz pracowników Biura w związku z kontrolą i weryfikacją spełniania zasad Dobrej Praktyki Laboratoryjnej przez jednostki badawcze lub wydaniem certyfikatu.
+
+### Rozdział 5 Klasyfikacja, oznakowanie, opakowania, obrót i stosowanie substancji i ich mieszanin
+
+### Art. 18.
+
+Producenci, importerzy i dystrybutorzy substancji, które nie zostały umieszczone w tabeli 3.2 załącznika VI do rozporządzenia nr 1272/2008, są obowiązani do zebrania wiarygodnych informacji dotyczących potencjalnych zagrożeń dla zdrowia człowieka lub dla środowiska, wynikających z ich swoistych właściwości fizykochemicznych i biologicznych, oraz do udostępniania tych informacji odbiorcom tych substancji na zasadach określonych w rozporządzeniu nr 1907/2006.
+
+### Art. 19.
+
+### 1.
+
+Substancje i mieszaniny podlegają procedurze klasyfikacji w celu określenia przynależności do kategorii, o których mowa w art. 4 ust. 1. W przypadku środków ochrony roślin stwarzających zagrożenie dla zdrowia człowieka lub dla środowiska przypisuje się ponadto zwroty wskazujące na rodzaj tego zagrożenia.
+
+### 2.
+
+Klasyfikacji dokonuje w przypadku:
+
+### 1)
+
+substancji lub mieszanin wprowadzanych do obrotu - osoba dokonująca takiego wprowadzenia;
+
+### 2)
+
+substancji, które nie zostały wprowadzone do obrotu, a art. 6, art. 7 ust. 1 lub 5, art. 17 lub art. 18 rozporządzenia nr 1907/2006 przewiduje obowiązek rejestracji substancji - osoba dokonująca takiej rejestracji;
+
+### 3)
+
+substancji, które nie zostały wprowadzone do obrotu, a art. 7 ust. 2 lub art. 9 ust. 2 rozporządzenia nr 1907/2006 przewiduje obowiązek przekazania informacji - osoba dokonująca takiego przekazania.
+
+### 3.
+
+Substancje zamieszczone w tabeli 3.2 załącznika VI do rozporządzenia nr 1272/2008 klasyfikuje się zgodnie z tą tabelą, z zastrzeżeniem, że klasyfikacja określona dla poszczególnych pozycji w tej tabeli dotyczy kategorii zagrożenia określonych w tych pozycjach. Wszystkie pozostałe zagrożenia stwarzane przez taką substancję, jeżeli takie istnieją, stwierdza się na podstawie klasyfikacji dokonanej zgodnie z przepisami wydanymi na podstawie ust. 5.
+
+### 4.
+
+Klasyfikacji substancji niezamieszczonych w tabeli 3.2 załącznika VI do rozporządzenia nr 1272/2008 oraz mieszanin dokonuje się zgodnie z przepisami wydanymi na podstawie ust. 5.
+
+### 5.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
+
+### 1)
+
+kryteria i sposób klasyfikacji substancji i mieszanin na podstawie właściwości fizykochemicznych, toksyczności, analizy skutków specyficznych dla zdrowia człowieka oraz analizy skutków oddziaływania na środowisko,
+
+### 2)
+
+sposób klasyfikacji mieszanin na podstawie zawartości niebezpiecznych składników,
+
+### 3)
+
+stężenia substancji niebezpiecznych w mieszaninie wymagające uwzględnienia tych substancji w klasyfikacji mieszaniny,
+
+### 4)
+
+kryteria przypisywania zwrotów wskazujących szczególny rodzaj zagrożenia dla zdrowia człowieka lub dla środowiska, stwarzanego przez środki ochrony roślin,
+
+### 5)
+
+zwroty wskazujące rodzaj zagrożenia (zwroty R) oraz ich numery,
+
+### 6)
+
+dodatkowe zwroty wskazujące szczególny rodzaj zagrożenia dla zdrowia człowieka lub dla środowiska, stwarzanego przez środki ochrony roślin, oraz ich numery
+
+- uwzględniając przepisy obowiązujące w Unii Europejskiej oraz mając na uwadze ochronę zdrowia ludzi i środowiska.
+
+### 6.
+
+Przepisy ust. 1-5 stosuje się zgodnie z art. 61 ust. 1-5 rozporządzenia nr 1272/2008, z zastrzeżeniem, że odwołania do dyrektyw 67/548/EWG i 1999/45/WE w tym rozporządzeniu oznaczają odwołania do ust. 1-4, przepisów wydanych na podstawie ust. 5 oraz do art. 4 ust. 1.
+
+### Art. 20.
+
+### 1.
+
+Opakowania substancji niebezpiecznych i mieszanin niebezpiecznych oraz niektórych mieszanin wprowadzanych do obrotu muszą być odpowiednio oznakowane.
+
+### 2.
+
+Oznakowanie opakowania substancji niebezpiecznej i mieszaniny niebezpiecznej zawiera:
+
+### 1)
+
+nazwę umożliwiającą jednoznaczną identyfikację substancji niebezpiecznej lub mieszaniny niebezpiecznej;
+
+### 2)
+
+nazwę, adres siedziby i numer telefonu przedsiębiorcy, a w przypadku osoby fizycznej - imię i nazwisko, adres miejsca wykonywania działalności i numer telefonu osoby wprowadzającej substancję lub mieszaninę do obrotu;
+
+### 3)
+
+w przypadku mieszanin niebezpiecznych:
+
+### a)
+
+nazwy substancji niebezpiecznych,
+
+### b)
+
+alternatywne nazwy rodzajowe substancji niebezpiecznych
+
+- jeżeli dotyczy;
+
+### 4)
+
+znak lub znaki ostrzegawcze i napisy określające ich znaczenie;
+
+### 5)
+
+zwrot lub zwroty wskazujące rodzaj zagrożenia (zwroty R), a w przypadku środków ochrony roślin dodatkowe zwroty wskazujące szczególny rodzaj zagrożenia dla zdrowia człowieka lub dla środowiska, umieszczone zgodnie z przepisami o klasyfikacji substancji i ich mieszanin;
+
+### 6)
+
+zwrot lub zwroty bezpiecznego stosowania (zwroty S), a w przypadku środków ochrony roślin dodatkowe zwroty określające warunki bezpiecznego stosowania.
+
+### 3.
+
+Zastosowanie alternatywnej nazwy rodzajowej wymaga uzyskania zgody Inspektora. Inspektor, na wniosek osoby wprowadzającej mieszaninę niebezpieczną do obrotu, wydaje zgodę albo odmawia wydania zgody na zastosowanie alternatywnej nazwy rodzajowej dla zawartych w mieszaninie substancji niebezpiecznych, w drodze decyzji. Inspektor odmawia wydania zgody na zastosowanie alternatywnej nazwy rodzajowej dla zawartych w mieszaninie substancji niebezpiecznych, w przypadku gdy substancja nie spełnia warunków określonych w przepisach wydanych na podstawie ust. 11.
+
+### 4.
+
+W przypadku niektórych rodzajów lub kategorii substancji niebezpiecznych lub mieszanin niebezpiecznych oraz niektórych rodzajów opakowań, oznakowanie opakowania może nie zawierać wszystkich elementów, o których mowa w ust. 2.
+
+### 5.
+
+W przypadku mieszanin niebezpiecznych dostępnych dla ogółu społeczeństwa oznakowanie opakowania zawiera informację o nominalnej ilości mieszaniny w opakowaniu, jeżeli informacja ta nie jest podana w innym miejscu na opakowaniu.
+
+### 6.
+
+W przypadku substancji zamieszczonej w tabeli 3.2 załącznika VI do rozporządzenia nr 1272/2008 oznakowanie opakowania zawiera numer WE, jeżeli został przypisany danej substancji, oraz wyrazy „Oznakowanie WE”.
+
+### 7.
+
+Oznakowanie opakowania substancji niebezpiecznej lub mieszaniny niebezpiecznej ma odpowiednie wymiary zależne od pojemności opakowania.
+
+### 8.
+
+Oznakowanie opakowania substancji niebezpiecznej lub mieszaniny niebezpiecznej, wprowadzanych do obrotu na terytorium Rzeczypospolitej Polskiej, powinno być sporządzone w języku polskim, zgodnie z wymogami określonymi w przepisach o języku polskim.
+
+### 9.
+
+Na opakowaniach substancji niebezpiecznych i mieszanin niebezpiecznych nie wolno umieszczać oznaczeń wskazujących, że taka substancja lub taka mieszanina nie są niebezpieczne.
+
+### 10.
+
+W przypadku niektórych mieszanin, w tym także niezaklasyfikowanych jako niebezpieczne, oznakowanie opakowania zawiera dodatkowe napisy mające znaczenie dla użytkownika.
+
+### 11.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw pracy, ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób oznakowania opakowań substancji niebezpiecznych i mieszanin niebezpiecznych,
+
+### 2)
+
+sposób tworzenia nazwy umożliwiającej jednoznaczną identyfikację substancji niebezpiecznej i mieszaniny niebezpiecznej,
+
+### 3)
+
+kategorie substancji niebezpiecznych, których nazwy są umieszczane na oznakowaniu opakowania mieszanin niebezpiecznych,
+
+### 4)
+
+sposób uzyskania zgody Inspektora na zastosowanie alternatywnej nazwy rodzajowej dla niektórych substancji zawartych w mieszaninach niebezpiecznych i warunki, jakie musi spełniać substancja niebezpieczna, żeby Inspektor wydał taką zgodę, oraz sposób tworzenia alternatywnej nazwy rodzajowej,
+
+### 5)
+
+wzory znaków ostrzegawczych i napisy określające ich znaczenie oraz kryteria zamieszczania na oznakowaniu opakowań substancji niebezpiecznych lub mieszanin niebezpiecznych tych znaków,
+
+### 6)
+
+brzmienie zwrotów bezpiecznego stosowania (zwrotów S) oraz dodatkowych zwrotów określających warunki bezpiecznego stosowania, używanych na oznakowaniu opakowań środków ochrony roślin, oraz kryteria przypisywania tych zwrotów,
+
+### 7)
+
+rodzaje i kategorie substancji niebezpiecznych i mieszanin niebezpiecznych oraz rodzaje opakowań, których etykieta może nie zawierać wszystkich elementów, o których mowa w ust. 2, wraz ze wskazaniem tych elementów,
+
+### 8)
+
+treści dodatkowych napisów, a także kryteria ich umieszczania na oznakowaniu opakowania niektórych mieszanin,
+
+### 9)
+
+wymiary oznakowania w zależności od pojemności opakowania
+
+- mając na uwadze ochronę zdrowia ludzi i środowiska.
+
+### 12.
+
+Przepisy ust. 1-11 stosuje się zgodnie z art. 61 ust. 1-5 rozporządzenia nr 1272/2008, z zastrzeżeniem, że odwołania do dyrektyw 67/548/EWG i 1999/45/WE w tym rozporządzeniu oznaczają odwołania do ust. 1-10, przepisów wydanych na podstawie ust. 11 oraz do art. 4 ust. 1.
+
+### Art. 21.
+
+### 1.
+
+Pojemniki i zbiorniki służące do przechowywania substancji niebezpiecznych lub mieszanin niebezpiecznych oraz pojemniki i zbiorniki służące do pracy z tymi substancjami lub mieszaninami, rurociągi zawierające substancje niebezpieczne lub mieszaniny niebezpieczne lub służące do ich transportowania oraz miejsca, w których są składowane znaczące ilości substancji niebezpiecznych lub mieszanin niebezpiecznych, powinny być należycie oznakowane, w tym opatrzone znakami ostrzegawczymi.
+
+### 2.
+
+Odstąpienie od oznakowania, o którym mowa w ust. 1, jest możliwe, w przypadku gdy pojemniki i zbiorniki są używane w miejscu pracy przez krótki czas lub gdy zawartość pojemnika lub zbiornika ulega częstym zmianom.
+
+### 3.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób oznakowania pojemników i zbiorników służących do przechowywania substancji niebezpiecznych lub mieszanin niebezpiecznych oraz pojemników i zbiorników służących do pracy z tymi substancjami lub mieszaninami, rurociągów zawierających substancje niebezpieczne lub mieszaniny niebezpieczne lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji niebezpiecznych lub mieszanin niebezpiecznych,
+
+### 2)
+
+warunki, w których można odstąpić od oznakowania, o którym mowa w ust. 1, w przypadku gdy pojemniki i zbiorniki są używane w miejscu pracy przez krótki czas lub gdy zawartość pojemnika lub zbiornika ulega częstym zmianom
+
+- mając na celu zapewnienie ochrony zdrowia człowieka i środowiska oraz obowiązujące w tym zakresie przepisy Unii Europejskiej.
+
+### Art. 22.
+
+### 1.
+
+Opakowania substancji niebezpiecznych i mieszanin niebezpiecznych wprowadzanych do obrotu:
+
+### 1)
+
+powinny mieć konstrukcję uniemożliwiającą wydostanie się zawartości z opakowania w sposób przypadkowy; wymóg ten nie ma zastosowania, jeżeli w stosunku do opakowań są wymagane szczególne techniczne środki bezpieczeństwa;
+
+### 2)
+
+powinny być wykonane z materiałów odpornych na niszczące działanie ich zawartości i uniemożliwiających tworzenie się substancji niebezpiecznych w wyniku oddziaływania zawartości na materiał opakowania;
+
+### 3)
+
+powinny zachowywać szczelność w warunkach działających na opakowanie obciążeń i napięć w trakcie jego normalnej eksploatacji;
+
+### 4)
+
+w przypadku opakowań z zamknięciami wielokrotnego użytku - powinny one gwarantować zachowanie szczelności podczas wielokrotnego otwierania i zamykania w warunkach normalnej eksploatacji;
+
+### 5)
+
+w przypadku opakowań, które zawierają mieszaniny niebezpieczne przeznaczone do sprzedaży dla konsumentów, nie mogą one mieć:
+
+### a)
+
+kształtu lub dekoracji graficznej, które mogą przyciągać uwagę i ciekawość dzieci lub wprowadzać konsumentów w błąd,
+
+### b)
+
+wyglądu lub oznaczenia stosowanego dla środków spożywczych lub pasz, leków lub kosmetyków.
+
+### 2.
+
+Spełnienie przez opakowania transportowe wymagań określonych w przepisach o transporcie towarów niebezpiecznych jest równoznaczne ze spełnieniem wymagań, o których mowa w ust. 1 pkt 1-3.
+
+### 3.
+
+Opakowania niektórych substancji niebezpiecznych lub mieszanin niebezpiecznych oferowane lub sprzedawane konsumentom wyposaża się, niezależnie od pojemności opakowania, w zamknięcia utrudniające otwarcie przez dzieci lub wyczuwalne dotykiem ostrzeżenie o niebezpieczeństwie.
+
+### 4.
+
+Zamknięcia utrudniające otwarcie przez dzieci lub wyczuwalne dotykiem ostrzeżenie o niebezpieczeństwie muszą spełniać wymagania norm określonych w przepisach wydanych na podstawie ust. 7.
+
+### 5.
+
+Zgodność z normami, o których mowa w ust. 4, może być potwierdzona wyłącznie przez jednostki organizacyjne spełniające wymagania normy serii EN 45 000 lub jednostki równoważne przez wydanie świadectwa.
+
+### 6.
+
+Wykonywanie badań dotyczących zamknięć utrudniających otwarcie przez dzieci przewidzianych w normach, o których mowa w ust. 4, nie jest obowiązkowe, jeżeli wydaje się oczywiste, że opakowanie jest wystarczająco bezpieczne dla dzieci, ponieważ otwarcie opakowania nie jest możliwe bez użycia narzędzi. We wszystkich innych przypadkach oraz jeżeli istnieją obawy, że opakowanie substancji niebezpiecznej lub mieszaniny niebezpiecznej, dla którego jest wymagane zamknięcie utrudniające jego otwarcie przez dzieci, nie jest wystarczająco bezpieczne dla dzieci, właściwe organy nadzoru mogą wymagać od osoby odpowiedzialnej za wprowadzanie produktu do obrotu okazania im świadectwa wydanego przez jednostkę, o której mowa w ust. 5, stwierdzającego, że:
+
+### 1)
+
+typ zamknięcia jest taki, że przeprowadzanie badania dotyczącego zamknięć utrudniających otwarcie przez dzieci w opakowaniach wielokrotnego zamykania lub w opakowaniach bez zamknięć wielokrotnego zamykania nie jest konieczne, lub
+
+### 2)
+
+zamknięcie zostało zbadane i stwierdzono, że jest ono zgodne z normami, o których mowa w ust. 4.
+
+### 7.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia:
+
+### 1)
+
+kategorie substancji niebezpiecznych i mieszanin niebezpiecznych, których opakowania wyposaża się w zamknięcia utrudniające ich otwarcie przez dzieci i wyczuwalne dotykiem ostrzeżenie o niebezpieczeństwie,
+
+### 2)
+
+wymagania dotyczące zamknięć i ostrzeżeń, o których mowa w pkt 1, oraz normy, które muszą spełniać takie zamknięcia, a także wyczuwalne dotykiem ostrzeżenia
+
+- mając na celu zapewnienie ochrony zdrowia człowieka i środowiska oraz obowiązujące w tym zakresie przepisy Unii Europejskiej.
+
+### 8.
+
+Przepisy ust. 1-7 stosuje się zgodnie z art. 61 ust. 1-4 rozporządzenia nr 1272/2008, z zastrzeżeniem, że odwołania do dyrektyw 67/548/EWG i 1999/45/WE w tym rozporządzeniu oznaczają odwołania do przepisów ust. 1-6 oraz przepisów wydanych na podstawie ust. 7.
+
+### Art. 23.
+
+W przypadku uznania, że obrót określonymi kategoriami substancji niebezpiecznych i mieszanin niebezpiecznych lub substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie może spowodować niedopuszczalne zagrożenie dla ogółu społeczeństwa, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki może określić, w drodze rozporządzenia:
+
+### 1)
+
+kategorie tych substancji niebezpiecznych i mieszanin niebezpiecznych lub substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie,
+
+### 2)
+
+wymagania dotyczące kwalifikacji, które muszą posiadać osoby prowadzące na terytorium Rzeczypospolitej Polskiej obrót tymi substancjami niebezpiecznymi i mieszaninami niebezpiecznymi lub substancjami stwarzającymi zagrożenie i mieszaninami stwarzającymi zagrożenie,
+
+### 3)
+
+sposób potwierdzania kwalifikacji, o których mowa w pkt 2, posiadanych przez obywateli państw członkowskich Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej
+
+- biorąc pod uwagę konieczność ochrony zdrowia ludzi i ochrony środowiska przed zagrożeniami stwarzanymi przez substancje niebezpieczne i mieszaniny niebezpieczne lub substancje stwarzające zagrożenie i mieszaniny stwarzające zagrożenie.
+
+### Art. 24.
+
+### 1.
+
+Zabroniona jest reklama substancji niebezpiecznej bez wymienienia kategorii, do której albo do których substancja ta została zaklasyfikowana.
+
+### 2.
+
+Każda reklama mieszaniny niebezpiecznej lub mieszaniny, dla której w przepisach wydanych na podstawie art. 20 ust. 11 jest wymagane oznakowanie, a która umożliwia nabycie takiej mieszaniny konsumentom bez uprzedniego obejrzenia oznakowania opakowania, zawiera informację o rodzaju lub rodzajach zagrożeń wymienionych na oznakowaniu opakowania.
+
+### Art. 25.
+
+Producent, importer oraz dalszy użytkownik są obowiązani ustanowić, prowadzić i aktualizować na bieżąco spis produkowanych, importowanych lub stosowanych substancji niebezpiecznych, mieszanin niebezpiecznych, substancji stwarzających zagrożenie lub mieszanin stwarzających zagrożenie.
+
+### Art. 26.
+
+### 1.
+
+Minister właściwy do spraw gospodarki, na wniosek ministra właściwego do spraw zdrowia, ministra właściwego do spraw środowiska lub ministra właściwego do spraw rolnictwa, w przypadku stwierdzenia, że produkcja, obrót lub stosowanie substancji niebezpiecznej, mieszaniny niebezpiecznej, substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie stwarzają nieuzasadnione ryzyko dla zdrowia człowieka lub środowiska, lub gdy wynika to z porozumień międzynarodowych, określi, w drodze rozporządzenia, ograniczenia:
+
+### 1)
+
+produkcji, obrotu lub stosowania takiej substancji lub mieszaniny,
+
+### 2)
+
+wprowadzania do obrotu lub stosowania wyrobów zawierających taką substancję lub mieszaninę
+
+- uwzględniając w szczególności zastosowania takiej substancji lub mieszaniny, stosowanie w stężeniu lub proporcjach przewyższających określony poziom, występowanie w określonych stężeniach lub ilościach w określonych wyrobach.
+
+### 2.
+
+W przypadkach określonych w załączniku XVII do rozporządzenia nr 1907/2006 minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, sposób stosowania ograniczeń wyszczególnionych w tym załączniku, uwzględniając cele tych ograniczeń.
+
+### Art. 27.
+
+### 1.
+
+Jeżeli istnieją uzasadnione podstawy, aby przypuszczać, że mieszanina stwarza niedopuszczalne zagrożenie dla zdrowia człowieka lub środowiska, nawet w przypadku gdy osoba wprowadzająca taką mieszaninę do obrotu na terytorium Rzeczypospolitej Polskiej spełnia wszystkie wymogi ustawy, Inspektor może, na czas określony, nie dłuższy niż 3 miesiące, zakazać, w drodze decyzji, wprowadzania takiej mieszaniny do obrotu na terytorium Rzeczypospolitej Polskiej lub określić warunki, jakie muszą zostać spełnione podczas wprowadzania jej do obrotu.
+
+### 2.
+
+Decyzja, o której mowa w ust. 1, może być wydana także na wniosek Głównego Inspektora Sanitarnego lub Głównego Inspektora Ochrony Środowiska.
+
+### Art. 28.
+
+### 1.
+
+Jeżeli istnieją uzasadnione podstawy, aby przypuszczać, że detergent, mimo że spełnia wymagania określone w rozporządzeniu nr 648/2004, stwarza zagrożenie dla bezpieczeństwa lub zdrowia człowieka, lub zagrożenie dla środowiska, Inspektor, po uzyskaniu opinii Głównego Inspektora Sanitarnego i opinii Głównego Inspektora Ochrony Środowiska, może, na czas określony, nie dłuższy niż 6 miesięcy, zakazać, w drodze decyzji, wprowadzania takiego detergentu do obrotu na terytorium Rzeczypospolitej Polskiej lub określić warunki, jakie muszą zostać spełnione podczas wprowadzania go do obrotu, spełniając jednocześnie wymagania, o których mowa w art. 15 ust. 1 rozporządzenia nr 648/2004.
+
+### 2.
+
+Inspektor, w drodze decyzji, uchyla albo przedłuża o następne 6 miesięcy zakaz, o którym mowa w ust. 1, stosownie do wyników konsultacji przewidzianych w art. 15 ust. 2 rozporządzenia nr 648/2004.
+
+### 3.
+
+Inspektor, w drodze decyzji, uchyla zakaz, o którym mowa w ust. 1, po podjęciu decyzji przewidzianej w art. 15 ust. 2 rozporządzenia nr 648/2004.
+
+### 4.
+
+Decyzja, o której mowa w ust. 1, może być wydana także na wniosek Głównego Inspektora Sanitarnego, Głównego Inspektora Ochrony Środowiska lub Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
+
+### Rozdział 6 Przepisy o nadzorze
+
+### Art. 29.
+
+Nadzór nad przestrzeganiem przepisów ustawy oraz przepisów rozporządzeń, o których mowa w art. 1 ust. 1, sprawują, w zakresie swojej właściwości, Państwowa Inspekcja Sanitarna, Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych i Administracji oraz Wojskowa Inspekcja Sanitarna, a także:
+
+### 1)
+
+Inspekcja Ochrony Środowiska - w zakresie zagrożeń dla środowiska dotyczących:
+
+### a)
+
+prawidłowości kart charakterystyki w zakresie:
+
+- - postępowania w przypadku niezamierzonego uwolnienia substancji lub mieszaniny do środowiska,
+
+- - magazynowania substancji lub mieszaniny,
+
+- - postępowania z odpadami,
+
+- - informacji ekologicznych,
+
+### b)
+
+spełnienia przez dalszych użytkowników obowiązków określonych w art. 37 ust. 5 i 6 rozporządzenia nr 1907/2006, dotyczących stosowania środków kontroli ryzyka - w zakresie niezbędnym do zapewnienia, że ryzyko dla środowiska jest odpowiednio kontrolowane,
+
+### c)
+
+przestrzegania warunków zezwolenia wydanego zgodnie z przepisami tytułu VII rozporządzenia nr 1907/2006 na stosowanie substancji chemicznych, zawartych w załączniku XIV do rozporządzenia nr 1907/2006,
+
+### d)
+
+przestrzegania przez dalszych użytkowników przepisów dotyczących ograniczeń produkcji, obrotu i stosowania substancji chemicznych i ich mieszanin, zgodnie z art. 26 ustawy, lub przepisów, o których mowa w art. 67 rozporządzenia nr 1907/2006 - w zakresie swoich kompetencji,
+
+### e)
+
+przestrzegania przepisów rozporządzenia nr 1907/2006 dotyczących substancji odzyskiwanych w postaci własnej lub jako składnik mieszaniny;
+
+### 2)
+
+Państwowa Inspekcja Pracy - w zakresie nadzoru i kontroli nad przestrzeganiem przepisów ustawy - w zakresie swoich kompetencji;
+
+### 3)
+
+Inspekcja Handlowa - w zakresie przestrzegania:
+
+### a)
+
+obowiązku dokonania wymaganej rejestracji substancji oraz obowiązku dostarczenia odbiorcy substancji lub mieszaniny wymaganej karty charakterystyki,
+
+### b)
+
+przepisów, o których mowa w art. 26 ustawy, lub przepisów, o których mowa w art. 67 rozporządzenia nr 1907/2006 - w zakresie swoich kompetencji,
+
+### c)
+
+przepisów art. 11 rozporządzenia nr 648/2004 - w zakresie oznakowania detergentów w handlu hurtowym i detalicznym,
+
+### d)
+
+art. 20 i art. 22 ustawy oraz przepisów tytułu III i IV rozporządzenia nr 1272/2008 - w odniesieniu do handlu hurtowego i detalicznego;
+
+### 4)
+
+Państwowa Straż Pożarna - w zakresie właściwego oznakowania miejsc składowania substancji i mieszanin, o których mowa w art. 4 ust. 1 pkt 1-5 ustawy oraz w części 2 załącznika I do rozporządzenia nr 1272/2008;
+
+### 5)
+
+organy celne - w zakresie przestrzegania przepisów dotyczących:
+
+### a)
+
+wywozu i przywozu niebezpiecznych chemikaliów, określonych w rozporządzeniu nr 689/2008,
+
+### b)
+
+substancji, mieszaniny lub wyrobu, których import jest zakazany lub które podlegają ograniczeniom w imporcie, zgodnie z przepisami wydanymi na podstawie art. 26,
+
+### c)
+
+importu substancji, mieszaniny lub wyrobu, określonych w tytule VII rozporządzenia nr 1907/2006,
+
+### d)
+
+importu substancji, mieszaniny lub wyrobu wymienionego w załączniku XVII do rozporządzenia nr 1907/2006; o przypadkach importu substancji, mieszanin lub wyrobów, które budzą wątpliwości organu celnego co do przestrzegania przez importerów warunków określonych w tym załączniku, organy celne informują właściwego państwowego inspektora sanitarnego.
+
+### Art. 30.
+
+Organy wymienione w art. 29 sprawują nadzór na zasadach i w trybie określonych w odrębnych przepisach.
+
+### Rozdział 7 Przepisy karne
+
+### Art. 31.
+
+Kto wbrew decyzji Inspektora, o której mowa w art. 27 ust. 1 lub art. 28 ust. 1, wprowadza do obrotu mieszaninę stwarzającą niedopuszczalne zagrożenie dla zdrowia człowieka lub środowiska lub detergent, co do którego istnieją uzasadnione podstawy, aby przypuszczać, że stwarza zagrożenie dla zdrowia człowieka lub zagrożenie dla środowiska, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+### Art. 32.
+
+### 1.
+
+Kto wbrew przepisom art. 14 ust. 2 rozporządzenia nr 689/2008 dokonuje wywozu chemikaliów lub wyrobu w rozumieniu art. 3 pkt 3 tego rozporządzenia, wymienionych w załączniku V do tego rozporządzenia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisom art. 13 ust. 6 rozporządzenia nr 689/2008 dokonuje wywozu chemikaliów wymienionych w załączniku I część 2 lub 3 do tego rozporządzenia bez otrzymania informacji od Inspektora, że wyznaczone władze krajowe strony przywozu lub właściwe organy innego kraju przywozu wyrażają zgodę na ten przywóz.
+
+### Art. 33.
+
+### 1.
+
+Kto wbrew przepisowi art. 7 ust. 2 rozporządzenia nr 689/2008 nie zgłasza Inspektorowi wywozu chemikaliów wymienionych w załączniku I część 1 do tego rozporządzenia, nie później niż 30 dni przed pierwszym wywozem i nie później niż 15 dni przed pierwszym wywozem w każdym następnym roku kalendarzowym, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisowi art. 9 ust. 1 rozporządzenia nr 689/2008 nie informuje w pierwszym kwartale każdego roku Inspektora o wielkości wywozu i przywozu chemikaliów (w postaci substancji lub zawartych w mieszaninach lub wyrobach) wymienionych w załączniku I do tego rozporządzenia w roku poprzednim.
+
+### 3.
+
+Karze określonej w ust. 1 podlega, kto wbrew przepisowi art. 16 rozporządzenia nr 689/2008 dokonuje wywozu chemikaliów bez stosowanego w Unii Europejskiej oznakowania lub bez wymaganej karty charakterystyki.
+
+### Art. 34.
+
+### 1.
+
+Kto bez uzyskania wymaganej zgody na odstępstwo, o którym mowa w art. 5 rozporządzenia nr 648/2004, wprowadza do obrotu środek powierzchniowo czynny przeznaczony do stosowania w detergentach lub detergent zawierający środek powierzchniowo czynny, niespełniający warunków określonych w art. 4 ust. 3 tego rozporządzenia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew warunkom odstępstwa udzielonego na podstawie art. 5 rozporządzenia nr 648/2004 wprowadza do obrotu lub stosuje środek powierzchniowo czynny przeznaczony do stosowania w detergentach lub detergent zawierający środek powierzchniowo czynny.
+
+### Art. 35.
+
+### 1.
+
+Producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisom art. 11 ust. 2-6 tego rozporządzenia wprowadza do obrotu detergent bez wymaganego oznakowania albo niewłaściwie oznakowany, w szczególności nie umieszcza wymaganych informacji na opakowaniach detergentów lub w dokumentacji towarzyszącej detergentom transportowanym luzem, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisowi art. 9 tego rozporządzenia nie udostępnia na żądanie Inspektora albo personelu medycznego wymaganych informacji.
+
+### 3.
+
+Karze określonej w ust. 1 podlega producent w rozumieniu art. 2 pkt 10 rozporządzenia nr 648/2004, który wbrew przepisowi załącznika VII D do tego rozporządzenia nie udostępnia wymaganych informacji na stronie internetowej.
+
+### Art. 36.
+
+### 1.
+
+Kto wbrew ograniczeniom określonym w przepisach wydanych na podstawie art. 26 ust. 1 produkuje, wprowadza do obrotu lub stosuje substancję niebezpieczną, substancję stwarzającą zagrożenie, mieszaninę niebezpieczną, mieszaninę stwarzającą zagrożenie lub wyrób zawierający taką substancję lub mieszaninę, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisom art. 67 rozporządzenia nr 1907/2006 produkuje, wprowadza do obrotu lub stosuje substancję, w jej postaci własnej, jako składnik mieszaniny lub w wyrobie, w stosunku do której w załączniku XVII do tego rozporządzenia zostało określone ograniczenie, albo czyni to wbrew ograniczeniu ustalonemu w tym załączniku lub w przepisach wydanych na podstawie art. 26 ust. 2 ustawy.
+
+### Art. 37.
+
+Producent, importer lub dalszy użytkownik, który wbrew przepisom art. 56 ust. 1-6 rozporządzenia nr 1907/2006 lub wbrew warunkom zezwolenia wprowadza do obrotu lub stosuje substancję, wymienioną w załączniku XIV do tego rozporządzenia, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+
+### Art. 38.
+
+Rejestrujący, który wykonuje lub zleca wykonanie badania na zwierzętach kręgowych wbrew przepisowi art. 26 ust. 3 rozporządzenia nr 1907/2006, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+
+### Art. 39.
+
+Producent, importer lub wytwórca wyrobu, który wbrew przepisowi art. 9 ust. 6 rozporządzenia nr 1907/2006 nie stosuje się do warunków nałożonych przez Agencję zgodnie z art. 9 ust. 4 tego rozporządzenia, podlega karze grzywny.
+
+### Art. 40.
+
+Dalszy użytkownik, który wbrew przepisowi art. 37 ust. 5 rozporządzenia nr 1907/2006 nie określa, nie stosuje i, w stosownych przypadkach, nie zaleca odpowiednich środków w celu właściwej kontroli ryzyka, podlega karze grzywny.
+
+### Art. 41.
+
+Producent, importer lub dalszy użytkownik, który wbrew przepisowi art. 19 ust. 1 ustawy albo art. 4 ust. 1 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę bez dokonania klasyfikacji tej substancji lub mieszaniny, sporządzonej zgodnie z przepisami, odpowiednio, tej ustawy albo tego rozporządzenia, podlega karze grzywny.
+
+### Art. 42.
+
+Kto wbrew przepisowi art. 19 ust. 2 ustawy albo art. 4 ust. 2 rozporządzenia nr 1272/2008 nie klasyfikuje substancji, która nie została jeszcze wprowadzona do obrotu, lub klasyfikuje ją w sposób niespełniający wymagań określonych, odpowiednio, w przepisach tej ustawy albo tego rozporządzenia, podlega karze grzywny.
+
+### Art. 43.
+
+### 1.
+
+Kto wprowadza do obrotu substancję niebezpieczną lub mieszaninę niebezpieczną, lub mieszaninę wymagającą szczególnego sposobu oznakowania, bez oznakowania wymaganego przepisami art. 20 lub z oznakowaniem niespełniającym tych wymagań, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisowi art. 65 rozporządzenia nr 1907/2006 nie umieszcza na etykiecie substancji lub mieszaniny wymaganego numeru zezwolenia przed ich wprowadzeniem do obrotu.
+
+### Art. 44.
+
+### 1.
+
+Dostawca substancji lub mieszaniny, który wbrew przepisowi art. 4 ust. 4 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę stwarzającą zagrożenie bez oznakowania sporządzonego zgodnie z tytułem III tego rozporządzenia, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 30 rozporządzenia nr 1272/2008 nie aktualizuje informacji zawartych na etykiecie.
+
+### Art. 45.
+
+Kto wbrew przepisowi art. 21 nie zapewnia należytego oznakowania pojemników i zbiorników służących do przechowywania substancji niebezpiecznych lub mieszanin niebezpiecznych oraz do pracy z nimi, rurociągów zawierających substancje niebezpieczne lub mieszaniny niebezpieczne lub służących do ich transportowania oraz miejsc, w których są składowane znaczące ilości substancji niebezpiecznych lub mieszanin niebezpiecznych, podlega karze grzywny.
+
+### Art. 46.
+
+### 1.
+
+Kto wbrew przepisowi art. 22 nie zapewnia wymaganych opakowań substancji niebezpiecznych i mieszanin niebezpiecznych, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 4 ust. 4 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję lub mieszaninę stwarzającą zagrożenie bez opakowania spełniającego wymagania tytułu IV tego rozporządzenia.
+
+### Art. 47.
+
+### 1.
+
+Kto reklamuje substancję niebezpieczną bez wymienienia kategorii, o których mowa w art. 4 ust. 1, do której lub których jest ona zaklasyfikowana, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto zamieszcza reklamę mieszaniny niebezpiecznej lub mieszaniny, w odniesieniu do której w przepisach wydanych na podstawie art. 20 ust. 11 jest wymagane oznakowanie, jeżeli reklama ta nie zawiera informacji o rodzaju lub rodzajach zagrożeń wymienionych na oznakowaniu opakowania takiej mieszaniny, a umożliwia konsumentom nabycie takiej mieszaniny bez uprzedniego obejrzenia oznakowania na jej opakowaniu.
+
+### Art. 48.
+
+### 1.
+
+Kto reklamuje substancję stwarzającą zagrożenie bez wymienienia klas i kategorii zagrożenia związanych z tą substancją, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto bez wymienienia rodzaju lub rodzajów zagrożeń określonych na etykiecie reklamuje mieszaninę stwarzającą zagrożenie lub mieszaninę, o której mowa w art. 25 ust. 6 rozporządzenia nr 1272/2008, umożliwiając konsumentom zawarcie umowy kupna bez uprzedniego obejrzenia etykiety.
+
+### Art. 49.
+
+Rejestrujący, który wbrew przepisom art. 22 ust. 1, 2 i 4 rozporządzenia nr 1907/2006 nie dopełnia obowiązku wprowadzenia do dokumentów rejestracyjnych wymaganych nowych informacji i nie przedkłada ich Agencji lub nie dokonuje wymaganej aktualizacji dokumentów rejestracyjnych, podlega karze grzywny.
+
+### Art. 50.
+
+Właściciel wyników badania, który wbrew przepisom art. 30 ust. 1, 3 i 4 rozporządzenia nr 1907/2006 odmawia uczestnikom forum wymiany informacji o substancjach (SIEF) przedstawienia w terminie dokumentów stanowiących dowód poniesienia kosztów tego badania lub udostępnienia w terminie dokumentacji tego badania, podlega karze grzywny do 50 000 zł.
+
+### Art. 51.
+
+### 1.
+
+Kto wbrew przepisowi art. 7 ust. 1 rozporządzenia nr 1272/2008 przeprowadza nowe badania na zwierzętach, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do roku.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisom art. 7 ust. 2 i 3 rozporządzenia nr 1272/2008 przeprowadza badania na naczelnych innych niż ludzie albo badania na ludziach.
+
+### 3.
+
+Karze określonej w ust. 1 podlega, kto przeprowadza nowe badania na zwierzętach kręgowych w celu uzyskania informacji dotyczących substancji i mieszanin wbrew art. 8 ust. 1 rozporządzenia nr 1272/2008.
+
+### Art. 52.
+
+### 1.
+
+Dostawca substancji lub mieszaniny, który wbrew przepisom art. 31 ust. 1 i 3-8 rozporządzenia nr 1907/2006 nie dostarcza wymaganej karty charakterystyki sporządzonej zgodnie z załącznikiem II do tego rozporządzenia, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dostawca substancji lub mieszaniny, który wbrew przepisowi art. 31 ust. 9 rozporządzenia nr 1907/2006 dostarcza niezaktualizowaną kartę charakterystyki.
+
+### Art. 53.
+
+### 1.
+
+Dostawca substancji lub mieszaniny, który wbrew przepisom art. 32 rozporządzenia nr 1907/2006 nie przekazuje wymaganej informacji, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dostawca substancji lub mieszaniny, który nie dokonuje wymaganej aktualizacji informacji, o której mowa w ust. 1.
+
+### Art. 54.
+
+### 1.
+
+Dostawca wyrobu zawierającego w stężeniu powyżej 0,1% wagowego substancji spełniającej kryteria zawarte w art. 57 rozporządzenia nr 1907/2006 i zidentyfikowanej zgodnie z art. 59 ust. 1 tego rozporządzenia, który wbrew przepisowi art. 33 ust. 1 tego rozporządzenia nie przekazuje odbiorcy wyrobu wymaganej informacji, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dostawca wyrobu, który wbrew przepisowi art. 33 ust. 2 rozporządzenia nr 1907/2006 nie przekazuje konsumentowi, na jego żądanie, wymaganej informacji.
+
+### Art. 55.
+
+### 1.
+
+Uczestnik łańcucha dostaw substancji lub mieszaniny, który wbrew przepisowi art. 34 rozporządzenia nr 1907/2006 nie przekazuje uczestnikowi lub dystrybutorowi stanowiącemu poprzednie ogniwo łańcucha dostaw wymaganych informacji, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega dystrybutor, który wbrew przepisowi art. 34 rozporządzenia nr 1907/2006 nie przekazuje otrzymanych zgodnie z ust. 1 informacji osobie stanowiącej poprzednie ogniwo łańcucha dostaw.
+
+### Art. 56.
+
+### 1.
+
+Kto wbrew przepisowi art. 36 rozporządzenia nr 1907/2006 nie przechowuje lub nie udostępnia informacji wymaganych od niego w celu wypełnienia obowiązków wynikających z przepisów tego rozporządzenia, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto wbrew przepisowi art. 49 rozporządzenia nr 1272/2008 nie przechowuje lub nie udostępnia informacji, które wykorzystał do celów klasyfikacji i oznakowania na mocy przepisów tego rozporządzenia.
+
+### Art. 57.
+
+### 1.
+
+Dalszy użytkownik, który wbrew przepisom art. 37 ust. 4 i 7 rozporządzenia nr 1907/2006, w terminach określonych w art. 39 ust. 1 tego rozporządzenia, nie sporządza lub nie aktualizuje wymaganego raportu bezpieczeństwa chemicznego, podlega karze grzywny nie niższej niż 2000 zł.
+
+### 2.
+
+Tej samej karze podlega dalszy użytkownik, który wbrew przepisowi art. 38 rozporządzenia nr 1907/2006, w terminach określonych w art. 39 ust. 2 tego rozporządzenia, nie przekazuje do Agencji lub nie aktualizuje wymaganych informacji.
+
+### 3.
+
+Karze określonej w ust. 1 podlega dystrybutor, który wbrew przepisowi art. 37 ust. 2 rozporządzenia nr 1907/2006 nie przekazuje wymaganych informacji uczestnikowi lub dystrybutorowi stanowiącemu poprzednie ogniwo łańcucha dostaw.
+
+### Art. 58.
+
+Rejestrujący lub dalszy użytkownik, który wbrew decyzji Agencji podjętej na podstawie art. 40 ust. 3 rozporządzenia nr 1907/2006 nie dostarcza Agencji w ustalonym terminie wymaganych informacji, podlega karze grzywny.
+
+### Art. 59.
+
+### 1.
+
+Rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 41 ust. 3 rozporządzenia nr 1907/2006 nie przedstawia w ustalonym terminie informacji wymaganych do zapewnienia zgodności dokumentów rejestracyjnych z przepisami tego rozporządzenia, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega rejestrujący, który wbrew decyzji Agencji podjętej na podstawie art. 46 ust. 1 rozporządzenia nr 1907/2006 nie dostarcza Agencji w ustalonym terminie wymaganych dalszych informacji.
+
+### Art. 60.
+
+Dalszy użytkownik, który wbrew przepisowi art. 66 ust. 1 rozporządzenia nr 1907/2006 i w terminie określonym w tym przepisie nie zgłasza do Agencji stosowania substancji, o której mowa w art. 56 ust. 2 tego rozporządzenia, podlega karze grzywny.
+
+### Art. 61.
+
+### 1.
+
+Kto wbrew przepisom art. 40 ust. 1 i 3 rozporządzenia nr 1272/2008 wprowadza do obrotu substancję, o której mowa w art. 39 tego rozporządzenia, bez zgłoszenia Agencji wymaganych informacji, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto nie przekazuje Inspektorowi informacji, o których mowa w art. 15 ustawy, lub wbrew przepisowi art. 40 ust. 2 rozporządzenia nr 1272/2008 nie uaktualnia zgłoszonych informacji.
+
+### Art. 62.
+
+Kto wbrew obowiązkowi nie zapewnia swoim pracownikom i ich przedstawicielom dostępu do informacji dostarczanych zgodnie z przepisami art. 31 i art. 32 rozporządzenia nr 1907/2006 w odniesieniu do substancji lub mieszanin, które stosują lub na które mogą być narażeni w trakcie swojej pracy, podlega karze grzywny.
+
+### Art. 63.
+
+Kto, nie będąc do tego uprawnionym, uiszcza ulgową opłatę lub należność na podstawie art. 3-10 rozporządzenia Komisji (WE) nr 340/2008 z dnia 16 kwietnia 2008 r. w sprawie opłat i należności wnoszonych na rzecz Europejskiej Agencji Chemikaliów na mocy rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) ([Dz. Urz. UE L 107 z 17.04.2008, str. 6](https://api.sejm.gov.pl/eli/acts//text.html)) albo korzysta ze zwolnienia z opłaty na podstawie art. 74 ust. 2 rozporządzenia nr 1907/2006, podlega karze grzywny.
+
+### Art. 64.
+
+Orzekanie w sprawach o czyny, o których mowa w art. 35, art. 41-49 i art. 52-63, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589 oraz z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466.](#gloss-0:5:)).
+
+### Rozdział 8 Zmiany w przepisach obowiązujących
+
+### Art. 65.
+
+W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 220 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Przepisy § 2 nie dotyczą substancji chemicznych i ich mieszanin.
+
+” ;
+
+### 2)
+
+w art. 221 § 1-4 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Niedopuszczalne jest stosowanie substancji chemicznych i ich mieszanin nieoznakowanych w sposób widoczny, umożliwiający ich identyfikację.
+
+### § 2.
+
+Niedopuszczalne jest stosowanie substancji niebezpiecznej, mieszaniny niebezpiecznej, substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie bez posiadania aktualnego spisu tych substancji i mieszanin oraz kart charakterystyki, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem.
+
+### § 3.
+
+Stosowanie substancji niebezpiecznej, mieszaniny niebezpiecznej, substancji stwarzającej zagrożenie lub mieszaniny stwarzającej zagrożenie jest dopuszczalne pod warunkiem zastosowania środków zapewniających pracownikom ochronę ich zdrowia i życia.
+
+### § 4.
+
+Zasady klasyfikacji substancji chemicznych i ich mieszanin pod względem zagrożeń dla zdrowia lub życia, wykaz substancji chemicznych niebezpiecznych, wymagania dotyczące kart charakterystyki oraz sposób ich oznakowania określają odrębne przepisy.
+
+” ;
+
+### 3)
+
+art. 222 otrzymuje brzmienie:
+
+„
+
+### Art. 222.
+
+### § 1.
+
+W razie zatrudniania pracownika w warunkach narażenia na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym, pracodawca zastępuje te substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne mniej szkodliwymi dla zdrowia lub stosuje inne dostępne środki ograniczające stopień tego narażenia, przy odpowiednim wykorzystaniu osiągnięć nauki i techniki.
+
+### § 2.
+
+Pracodawca rejestruje wszystkie rodzaje prac w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym lub mutagennym, określonymi w wykazie, o którym mowa w § 3, a także prowadzi rejestr pracowników zatrudnionych przy tych pracach.
+
+### § 3.
+
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw pracy, uwzględniając zróżnicowane właściwości substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym, ich zastosowanie oraz konieczność podjęcia niezbędnych środków zabezpieczających przed zagrożeniami wynikającymi z ich stosowania, określi, w drodze rozporządzenia:
+
+### 1)
+
+wykaz substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym i sposób ich rejestrowania,
+
+### 2)
+
+sposób prowadzenia rejestru prac, których wykonywanie powoduje konieczność pozostawania w kontakcie z substancjami chemicznymi, ich mieszaninami, czynnikami lub procesami technologicznymi o działaniu rakotwórczym lub mutagennym,
+
+### 3)
+
+sposób prowadzenia rejestru pracowników zatrudnionych przy tych pracach,
+
+### 4)
+
+wzory dokumentów dotyczących narażenia pracowników na substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym lub mutagennym oraz sposób przechowywania i przekazywania tych dokumentów do podmiotów właściwych do rozpoznawania lub stwierdzania chorób zawodowych,
+
+### 5)
+
+szczegółowe warunki ochrony pracowników przed zagrożeniami spowodowanymi przez substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym lub mutagennym,
+
+### 6)
+
+warunki i sposób monitorowania stanu zdrowia pracowników narażonych na działanie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym.
+
+” ;
+
+### 4)
+
+w art. 23711a w § 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+zmian w organizacji pracy i wyposażeniu stanowisk pracy, wprowadzania nowych procesów technologicznych oraz substancji chemicznych i ich mieszanin, jeżeli mogą one stwarzać zagrożenie dla zdrowia lub życia pracowników,
+
+” ;
+
+### 5)
+
+w art. 283 w § 2 w pkt 5 lit. b i c otrzymują brzmienie:
+
+„
+
+### b)
+
+substancje chemiczne i ich mieszaniny nieoznakowane w sposób widoczny i umożliwiający ich identyfikację,
+
+### c)
+
+substancje niebezpieczne, mieszaniny niebezpieczne, substancje stwarzające zagrożenie lub mieszaniny stwarzające zagrożenie nieposiadające kart charakterystyki, a także opakowań zabezpieczających przed ich szkodliwym działaniem, pożarem lub wybuchem,
+
+” .
+
+### Art. 66.
+
+W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej ([Dz. U. z 2006 r. Nr 122, poz. 851](https://api.sejm.gov.pl/eli/acts/DU/2006/851/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871, Nr 182, poz. 1228 i Nr 213, poz. 1396.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+przestrzegania przez producentów, importerów, osoby wprowadzające do obrotu, stosujące lub eksportujące substancje chemiczne, ich mieszaniny lub wyroby w rozumieniu przepisów ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)) obowiązków wynikających z tej ustawy oraz z rozporządzeń Wspólnot Europejskich w niej wymienionych;
+
+” ;
+
+### 2)
+
+w art. 27b:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+W przypadku stwierdzenia, że do obrotu zostały wprowadzone substancje chemiczne, ich mieszaniny lub wyroby wbrew ograniczeniom określonym w przepisach wydanych na podstawie art. 26 ust. 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach lub przepisach załącznika XVII do rozporządzenia nr 1907/2006 albo wbrew warunkom określonym w tych przepisach, właściwy państwowy inspektor sanitarny nakazuje, w drodze decyzji, wstrzymanie produkcji lub wprowadzania do obrotu tej substancji, mieszaniny lub wyrobu albo, o ile to konieczne, wycofanie tej substancji, mieszaniny lub wyrobu z rynku i niezwłocznie powiadamia Inspektora do spraw Substancji Chemicznych.
+
+### 2.
+
+W przypadku stwierdzenia, że jest produkowana lub została wprowadzona do obrotu substancja chemiczna w jej postaci własnej, jako składnik mieszaniny lub w wyrobie bez jej zarejestrowania, jeżeli jest to wymagane, zgodnie z odpowiednimi przepisami tytułu II i III rozporządzenia nr 1907/2006 oraz wbrew terminom określonym w art. 21 tego rozporządzenia, właściwy państwowy inspektor sanitarny nakazuje, w drodze decyzji, wstrzymanie produkcji lub wprowadzania do obrotu tej substancji chemicznej, jej mieszaniny lub wyrobu albo, o ile to konieczne, wycofanie tej substancji chemicznej, jej mieszaniny lub wyrobu z rynku i niezwłocznie powiadamia Inspektora do spraw Substancji Chemicznych.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki, tryb i sposób wycofania substancji chemicznej, jej mieszaniny lub wyrobu, o których mowa w ust. 1-3, z obrotu oraz warunki i sposób ich przechowywania, mając na względzie zapewnienie właściwego poziomu ochrony zdrowia i środowiska.
+
+” ,
+
+### c)
+
+dodaje się ust. 5 i 6 w brzmieniu:
+
+„
+
+### 5.
+
+W przypadku uzasadnionego podejrzenia, że zachodzą okoliczności określone w ust. 1 i 2, właściwy państwowy inspektor sanitarny pobiera próbki substancji chemicznych, ich mieszanin oraz wyrobów.
+
+### 6.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+### 1)
+
+tryb pobierania i badania próbek substancji chemicznych, ich mieszanin oraz wyrobów,
+
+### 2)
+
+wzór protokołu pobrania próbki,
+
+### 3)
+
+sposób zabezpieczenia próbek,
+
+### 4)
+
+wzór sprawozdania z badań,
+
+### 5)
+
+sposób postępowania z pozostałościami po tych próbkach
+
+- mając na względzie zapewnienie wysokiej jakości badań i bezpieczeństwo osób prowadzących badania.
+
+” ;
+
+### 3)
+
+art. 29 otrzymuje brzmienie:
+
+„
+
+### Art. 29.
+
+W przypadkach wymienionych w art. 27-28 państwowi inspektorzy sanitarni są uprawnieni do zabezpieczenia pomieszczeń, środków transportu, maszyn i innych urządzeń, środków spożywczych, przedmiotów użytku, materiałów i wyrobów przeznaczonych do kontaktu z żywnością, kosmetyków, detergentów, substancji chemicznych, ich mieszanin oraz wyrobów w rozumieniu przepisów ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, a także innych wyrobów mogących mieć wpływ na zdrowie ludzi. Do postępowania zabezpieczającego stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2005 r. Nr 229, poz. 1954](https://api.sejm.gov.pl/eli/acts/DU/2005/1954/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143, Nr 40, poz. 229, Nr 75, poz. 474, Nr 122, poz. 826, Nr 152, poz. 1018 i Nr 229, poz. 1497.](#gloss-0:8:)), jeżeli przepisy szczególne nie stanowią inaczej.
+
+” ;
+
+### 4)
+
+art. 37b otrzymuje brzmienie:
+
+„
+
+### Art. 37b.
+
+Kto wbrew decyzji właściwego państwowego inspektora sanitarnego produkuje, wprowadza do obrotu lub nie wycofuje z rynku substancji chemicznej, jej mieszaniny lub wyrobu, podlega karze grzywny, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+” .
+
+### Art. 67.
+
+W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. z 2007 r. Nr 44, poz. 287](https://api.sejm.gov.pl/eli/acts/DU/2007/287/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 75, poz. 493, Nr 88, poz. 587 i Nr 124, poz. 859, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 79, poz. 666 i Nr 130, poz. 1070 oraz z 2010 r. Nr 182, poz. 1228 i Nr 239, poz. 1592.](#gloss-0:9:)) w art. 2 w ust. 1 w pkt 12 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)),
+
+” .
+
+### Art. 68.
+
+W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej ([Dz. U. z 2009 r. Nr 151, poz. 1219](https://api.sejm.gov.pl/eli/acts/DU/2009/1219/text.html) oraz z [2010 r. Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 pkt 1c otrzymuje brzmienie:
+
+„
+
+### 1c)
+
+kontrola substancji chemicznych, ich mieszanin, wyrobów i detergentów przeznaczonych dla konsumentów, w zakresie określonym w przepisach o substancjach chemicznych i ich mieszaninach;
+
+” ;
+
+### 2)
+
+art. 18a otrzymuje brzmienie:
+
+„
+
+### Art. 18a.
+
+### 1.
+
+W przypadku stwierdzenia w toku kontroli wprowadzenia do obrotu substancji, jej mieszaniny lub wyrobu wbrew ograniczeniom określonym w przepisach wydanych na podstawie art. 26 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)) lub przepisach załącznika XVII do rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE ([Dz. Urz. UE L 396 z 30.12.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 1907/2006”, wojewódzki inspektor zakazuje kontrolowanemu, w drodze decyzji, dalszego przekazywania tej substancji, jej mieszaniny lub wyrobu.
+
+### 2.
+
+Wobec wyrobów niespełniających, z uwagi na zagrożenia stwarzane przez substancje chemiczne lub ich mieszaniny zawarte w tych wyrobach, ogólnych wymagań bezpieczeństwa, określonych na podstawie ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, stosuje się przepisy o ogólnym bezpieczeństwie produktów.
+
+### 3.
+
+Wobec wyrobów niespełniających zasadniczych wymagań, z uwagi na zagrożenia stwarzane przez substancje chemiczne lub ich mieszaniny zawarte w tych wyrobach, stosuje się przepisy o systemie oceny zgodności.
+
+### 4.
+
+O decyzji wydanej na podstawie przepisów o systemie oceny zgodności wobec wyrobu, który nie jest zgodny z zasadniczymi wymaganiami w związku z zawartymi w nim substancjami chemicznymi lub ich mieszaninami, Prezes Urzędu niezwłocznie powiadamia Inspektora do spraw Substancji Chemicznych.
+
+### 5.
+
+W przypadku stwierdzenia produkcji lub wprowadzania do obrotu substancji chemicznej w jej postaci własnej, w mieszaninie lub w wyrobie bez jej zarejestrowania, jeżeli jest to wymagane, zgodnie z odpowiednimi przepisami tytułu II rozporządzenia nr 1907/2006 oraz wbrew terminom określonym w art. 21 tego rozporządzenia, wojewódzki inspektor niezwłocznie powiadamia właściwego państwowego inspektora sanitarnego.
+
+” .
+
+### Art. 69.
+
+W ustawie z dnia 30 marca 2001 r. o kosmetykach ([Dz. U. Nr 42, poz. 473](https://api.sejm.gov.pl/eli/acts/DU/2001/473/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 73, poz. 659, Nr 189, poz. 1852 i Nr 208, poz. 2019, z 2004 r. Nr 213, poz. 2158, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106 i Nr 91, poz. 740 oraz z 2010 r. Nr 107, poz. 679.](#gloss-0:10:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W rozumieniu ustawy kosmetykiem jest każda substancja chemiczna lub mieszanina, przeznaczone do zewnętrznego kontaktu z ciałem człowieka: skórą, włosami, wargami, paznokciami, zewnętrznymi narządami płciowymi, zębami i błonami śluzowymi jamy ustnej, których wyłącznym lub podstawowym celem jest utrzymanie ich w czystości, pielęgnowanie, ochrona, perfumowanie, zmiana wyglądu ciała lub ulepszenie jego zapachu.
+
+” ;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+składnik kosmetyku - substancję chemiczną pochodzenia syntetycznego lub naturalnego lub jej mieszaninę; nie są składnikami kosmetyku wynikające z procesu technologicznego zanieczyszczenia, pomocnicze materiały techniczne oraz rozpuszczalniki i nośniki kompozycji zapachowych i aromatycznych,
+
+” ,
+
+### b)
+
+dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+mieszanina - mieszaninę lub roztwór, o których mowa w art. 3 pkt 2 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE ([Dz. Urz. UE L 396 z 30.12.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.),
+
+” ,
+
+### c)
+
+pkt 7 i 8 otrzymują brzmienie:
+
+„
+
+### 7)
+
+kompozycja zapachowa - substancję pochodzenia syntetycznego lub naturalnego lub mieszaninę, służące do nadania kosmetykowi zapachu,
+
+### 8)
+
+kompozycja aromatyczna - substancję pochodzenia syntetycznego lub naturalnego lub mieszaninę, służące do nadania kosmetykowi aromatu lub smaku,
+
+” ;
+
+### 3)
+
+w art. 4 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zakazuje się stosowania w kosmetykach substancji zaklasyfikowanych jako rakotwórcze, mutagenne lub działające szkodliwie na rozrodczość, kategorii 1A, 1B i 2 na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem (WE) nr 1272/2008”; substancje kategorii 2 mogą być stosowane w przypadku umieszczenia ich na listach, o których mowa w art. 5 ust. 3 pkt 1-3.
+
+” ;
+
+### 4)
+
+w art. 4a ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zakaz, o którym mowa w ust. 2 pkt 1 lit. b i pkt 2, obowiązuje od momentu zastąpienia testów na zwierzętach przez jedną lub więcej uznanych metod wymienionych w rozporządzeniu Komisji (WE) nr 440/2008 z dnia 30 maja 2008 r. ustalającym metody badań zgodnie z rozporządzeniem (WE) nr 1907/2006 Parlamentu Europejskiego i Rady w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) ([Dz. Urz. UE L 142 z 31.05.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.) lub w rozporządzeniu wydanym na podstawie ust. 4.
+
+” ;
+
+### 5)
+
+w art. 11 ust. 2 i 2a otrzymują brzmienie:
+
+„
+
+### 2.
+
+Ocena, o której mowa w ust. 1 pkt 4, jest wykonywana zgodnie z zasadami Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach, w przypadku gdy stosowanie zasad Dobrej Praktyki Laboratoryjnej jest uzasadnione.
+
+### 2a.
+
+Producent zapewnia publiczny dostęp do informacji o składzie kosmetyku, z podaniem danych ilościowych w odniesieniu do substancji spełniających kryteria klasyfikacji dla którejkolwiek z klas lub kategorii zagrożenia wymienionych w:
+
+### 1)
+
+części 2 w pkt 2.1-2.4, 2.6, 2.7, 2.8 (Typ A i B), 2.9, 2.10, 2.12, 2.13 (kategoria 1 i 2), 2.14 (kategoria 1 i 2) oraz 2.15 (Typ A-F),
+
+### 2)
+
+części 3 w pkt 3.1-3.6, 3.7 (działanie szkodliwe na funkcje płciowe i płodność lub na rozwój potomstwa), 3.8 (z wyjątkiem substancji spełniających kryteria klasyfikacji ze względu na działanie narkotyczne), 3.9 i 3.10,
+
+### 3)
+
+części 4 w pkt 4.1,
+
+### 4)
+
+części 5 w pkt 5.1
+
+- załącznika I do rozporządzenia (WE) nr 1272/2008, oraz do danych wymienionych w ust. 1 pkt 5; informacje te muszą być łatwo dostępne za pośrednictwem odpowiednich środków przekazu informacji, w szczególności drogą pocztową, telefoniczną lub elektroniczną.
+
+” .
+
+### Art. 70.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159.](#gloss-0:11:)) w art. 147a w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+certyfikowane jednostki badawcze, o których mowa w art. 16 ust. 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html))
+
+” .
+
+### Art. 71.
+
+W ustawie z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych ([Dz. U. Nr 63, poz. 638](https://api.sejm.gov.pl/eli/acts/DU/2001/638/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 7, poz. 78, z 2004 r. Nr 11, poz. 97 i Nr 96, poz. 959 oraz z 2005 r. Nr 175, poz. 1458.](#gloss-0:12:)) w art. 3 w ust. 3 pkt 3a otrzymuje brzmienie:
+
+„
+
+### 3a)
+
+środkach niebezpiecznych - rozumie się przez to:
+
+### a)
+
+substancje chemiczne i ich mieszaniny zaklasyfikowane na podstawie przepisów o substancjach chemicznych i ich mieszaninach jako bardzo toksyczne, toksyczne, rakotwórcze kategorii 1 lub 2, mutagenne kategorii 1 lub 2, działające szkodliwie na rozrodczość kategorii 1 lub 2 lub niebezpieczne dla środowiska z przypisanym symbolem N lub
+
+### b)
+
+substancje chemiczne i ich mieszaniny zaklasyfikowane na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem (WE) nr 1272/2008”, w klasie toksyczności ostrej w kategorii 1, 2 lub 3 lub jako rakotwórcze kategorii 1A lub 1B, mutagenne kategorii 1A lub 1B, działające szkodliwie na rozrodczość kategorii 1A lub 1B lub jako stwarzające zagrożenie dla środowiska wodnego ze względu na toksyczność ostrą w kategorii 1 lub ze względu na toksyczność przewlekłą w kategorii 1 i 2, lub
+
+### c)
+
+środki ochrony roślin zaklasyfikowane jako bardzo toksyczne, toksyczne lub niebezpieczne dla środowiska wodnego z przypisanym symbolem N na podstawie przepisów o substancjach chemicznych i ich mieszaninach lub zaklasyfikowane w klasie toksyczności ostrej w kategorii 1, 2 lub 3 lub jako stwarzające zagrożenie dla środowiska wodnego ze względu na toksyczność ostrą w kategorii 1 lub ze względu na toksyczność przewlekłą w kategorii 1 i 2 na podstawie przepisów rozporządzenia (WE) nr 1272/2008, lub
+
+### d)
+
+środki ochrony roślin zaklasyfikowane jako toksyczne dla pszczół lub organizmów wodnych, określone w przepisach o ochronie roślin,
+
+” .
+
+### Art. 72.
+
+W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. z 2008 r. Nr 45, poz. 271](https://api.sejm.gov.pl/eli/acts/DU/2008/271/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817 oraz z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679.](#gloss-0:13:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 17 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Badania, o których mowa w art. 10 ust. 2 pkt 4 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego lub badania, o których mowa w art. 10 ust. 2b pkt 6 lit. b, przeprowadzane w celu oceny bezpieczeństwa produktu leczniczego weterynaryjnego są wykonywane w jednostkach spełniających zasady Dobrej Praktyki Laboratoryjnej w rozumieniu ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)).
+
+” ;
+
+### 2)
+
+w art. 65 w ust. 10 pkt 2 i 2a otrzymują brzmienie:
+
+„
+
+### 2)
+
+instytuty badawcze oraz laboratoria kontroli jakości leków, w zakresie badań produktów leczniczych określonych w ust. 4 pkt 1-3 i ust. 7 - uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+
+### 2a)
+
+laboratoria kontroli jakości leków specjalizujące się w badaniach produktów, o których mowa w ust. 4 pkt 4 - uwzględniając w szczególności przestrzeganie przez te podmioty zasad Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+
+” .
+
+### Art. 73.
+
+W ustawie z dnia 13 września 2002 r. o produktach biobójczych ([Dz. U. z 2007 r. Nr 39, poz. 252](https://api.sejm.gov.pl/eli/acts/DU/2007/252/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 20, poz. 106 oraz z 2010 r. Nr 107, poz. 679 i Nr 225, poz. 1464.](#gloss-0:14:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 8c otrzymuje brzmienie:
+
+„
+
+### Art. 8c.
+
+Karty charakterystyki sporządza się dla produktów biobójczych oraz substancji czynnych wchodzących w skład produktu biobójczego na zasadach określonych w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE ([Dz. Urz. UE L 396 z 30.12.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanym dalej „rozporządzeniem nr 1907/2006”.
+
+” ;
+
+### 2)
+
+w art. 8d ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Badania właściwości fizykochemicznych, badania toksykologiczne i ekotoksykologiczne oraz dodatkowe badania, o których mowa w art. 20 ust. 2, są wykonywane metodami określonymi na podstawie art. 13 rozporządzenia nr 1907/2006 oraz tam, gdzie to właściwe, zgodnie z zasadami Dobrej Praktyki Laboratoryjnej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach.
+
+” ;
+
+### 3)
+
+art. 16 otrzymuje brzmienie:
+
+„
+
+### Art. 16.
+
+Pozwolenie dotyczące produktu biobójczego:
+
+### 1)
+
+zaklasyfikowanego na podstawie przepisów o substancjach chemicznych i ich mieszaninach przynajmniej jako toksyczny, bardzo toksyczny lub rakotwórczy kategorii 1 lub 2 lub mutagenny kategorii 1 lub 2 lub jako działający szkodliwie na rozrodczość kategorii 1 lub 2 albo
+
+### 2)
+
+zaklasyfikowanego na podstawie przepisów rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), przynajmniej w klasie toksyczności ostrej w kategorii 1, 2 lub 3 lub jako rakotwórczy kategorii 1A lub 1B lub mutagenny kategorii 1A lub 1B lub jako działający szkodliwie na rozrodczość kategorii 1A lub 1B
+
+- określa ponadto zakres jego obrotu i stosowania, z wyłączeniem dopuszczalności sprzedaży detalicznej lub powszechnego stosowania.
+
+” ;
+
+### 4)
+
+w art. 24a w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+nazwę i zawartość substancji czynnej obecnej w tym produkcie, a także nazwę i zawartość każdej substancji niebezpiecznej w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+
+” ;
+
+### 5)
+
+w art. 27 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+została zaklasyfikowana, opakowana i oznakowana zgodnie z przepisami o substancjach chemicznych i ich mieszaninach;
+
+” ;
+
+### 6)
+
+art. 29 otrzymuje brzmienie:
+
+„
+
+### Art. 29.
+
+Minister właściwy do spraw zdrowia odmawia wystąpienia z wnioskiem, o którym mowa w art. 28, jeżeli substancja czynna przeznaczona do zastosowania w produktach biobójczych niskiego ryzyka:
+
+### 1)
+
+została zaklasyfikowana zgodnie z przepisami o substancjach chemicznych i ich mieszaninach jako rakotwórcza, mutagenna, działająca szkodliwie na rozrodczość, uczulająca lub
+
+### 2)
+
+zgodnie z kryteriami zawartymi w przepisach o substancjach chemicznych i ich mieszaninach nie ulega łatwo rozkładowi albo ulega biokumulacji w środowisku.
+
+” ;
+
+### 7)
+
+w art. 44 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Produkty biobójcze powinny być klasyfikowane i oznakowane, z zastrzeżeniem ust. 2-4, zgodnie z przepisami o substancjach chemicznych i ich mieszaninach.
+
+” .
+
+### Art. 74.
+
+W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary ([Dz. U. Nr 197, poz. 1661](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344, z 2009 r. Nr 20, poz. 106, Nr 62, poz. 504, Nr 166, poz. 1317 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530 i Nr 127, poz. 857.](#gloss-0:15:)) w art. 16 w ust. 1 w pkt 8 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+art. 31-34 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)),
+
+” .
+
+### Art. 75.
+
+W ustawie z dnia 17 października 2003 r. o wykonywaniu prac podwodnych ([Dz. U. Nr 199, poz. 1936](https://api.sejm.gov.pl/eli/acts/DU/2003/1936/text.html), z późn. zm.[16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1298, z 2007 r. Nr 64, poz. 428 oraz z 2008 r. Nr 180, poz. 1112.](#gloss-0:16:)) w art. 2 pkt 19 otrzymuje brzmienie:
+
+„
+
+### 19)
+
+szczególnie niebezpieczne prace podwodne - czynności wykonywane pod powierzchnią wody z zastosowaniem materiałów wybuchowych lub pirotechnicznych, przy skażeniu substancjami niebezpiecznymi lub stwarzającymi zagrożenie albo ich mieszaninami niebezpiecznymi lub stwarzającymi zagrożenie, przy cięciu i spawaniu metali, przy użyciu urządzeń hydraulicznych i pneumatycznych, przy poszukiwaniu, przenoszeniu i rozbrajaniu min lub amunicji, a także przy prowadzeniu prób nowego sprzętu nurkowego lub sprawdzaniu nowych technologii prac podwodnych.
+
+” .
+
+### Art. 76.
+
+W ustawie z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów ([Dz. U. Nr 229, poz. 2275](https://api.sejm.gov.pl/eli/acts/DU/2003/2275/text.html), z późn. zm.[17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976 oraz z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106.](#gloss-0:17:)) art. 24a otrzymuje brzmienie:
+
+„
+
+### Art. 24a.
+
+Organ nadzoru informuje Inspektora do spraw Substancji Chemicznych o decyzjach wydanych na podstawie art. 24 ust. 1, 2 i 4, w przypadku gdy decyzje te dotyczą zagrożeń stwarzanych przez produkty zawierające substancje chemiczne lub ich mieszaniny w rozumieniu przepisowo substancjach chemicznych i ich mieszaninach.
+
+” .
+
+### Art. 77.
+
+W ustawie z dnia 18 grudnia 2003 r. o ochronie roślin ([Dz. U. z 2008 r. Nr 133, poz. 849](https://api.sejm.gov.pl/eli/acts/DU/2008/849/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 54, poz. 278.](#gloss-0:18:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 38 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+zostały określone oznakowania i opakowania środka ochrony roślin, zgodnie z przepisami o substancjach chemicznych i ich mieszaninach;
+
+” ;
+
+### 2)
+
+w art. 39 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Badania środka ochrony roślin, z wyłączeniem badań skuteczności działania środka ochrony roślin, oraz badania jego substancji aktywnej, o których mowa w ust. 4 pkt 3 i 4, przeprowadza się:
+
+### 1)
+
+zgodnie z zasadami Dobrej Praktyki Laboratoryjnej określonymi w przepisach o substancjach chemicznych i ich mieszaninach;
+
+### 2)
+
+w jednostkach badawczych spełniających zasady Dobrej Praktyki Laboratoryjnej zgodnie z przepisami o substancjach chemicznych i ich mieszaninach;
+
+### 3)
+
+za pomocą metod określonych na podstawie art. 13 rozporządzenia nr 1907/2006.
+
+” ;
+
+### 3)
+
+w art. 45 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Klasyfikacji środków ochrony roślin, o której mowa w ust. 1 pkt 4, dokonuje się zgodnie z przepisami o substancjach chemicznych i ich mieszaninach, z tym że klasyfikacji pod względem zagrożenia dla pszczół nie dokonuje się dla środków ochrony roślin, których zakres i sposób stosowania wykluczają możliwość zetknięcia się z pszczołami.
+
+” ;
+
+### 4)
+
+w art. 47a w ust. 2:
+
+### a)
+
+w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+sklasyfikowany zgodnie z przepisami Unii Europejskiej dotyczącymi oznakowania i klasyfikacji substancji i mieszanin chemicznych,
+
+” ,
+
+### b)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+oznakowanie i opakowanie środka ochrony roślin zostały określone zgodnie z przepisami o substancjach chemicznych i ich mieszaninach.
+
+” ;
+
+### 5)
+
+w art. 58 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+nazw i zawartości substancji aktywnych oraz nazw substancji niebezpiecznych w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach;
+
+” ;
+
+### 6)
+
+art. 118 otrzymuje brzmienie:
+
+„
+
+### Art. 118.
+
+Jeżeli badania, o których mowa w art. 39 ust. 4 pkt 3 i 4, zostały wykonane przed dniem wejścia w życie niniejszej ustawy lub jeżeli metody tych badań nie zostały określone w przepisach o substancjach chemicznych i ich mieszaninach, minister właściwy do spraw rolnictwa może uznać, w drodze postanowienia, badania, jeżeli zostały one wykonane metodami, które są uznane przez organizacje międzynarodowe.
+
+” .
+
+### Art. 78.
+
+W ustawie z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową ([Dz. U. Nr 121, poz. 1263](https://api.sejm.gov.pl/eli/acts/DU/2004/1263/text.html), z [2005 r. Nr 175, poz. 1458](https://api.sejm.gov.pl/eli/acts/DU/2005/1458/text.html) i [Nr 203, poz. 1683](https://api.sejm.gov.pl/eli/acts/DU/2005/1683/text.html) oraz z [2009 r. Nr 215, poz. 1664](https://api.sejm.gov.pl/eli/acts/DU/2009/1664/text.html)) w art. 6 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W zakresie nieuregulowanym niniejszą ustawą do oznakowania pojemników zawierających substancje kontrolowane stosuje się przepisy o substancjach chemicznych i ich mieszaninach.
+
+” .
+
+### Art. 79.
+
+W ustawie z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji ([Dz. U. Nr 25, poz. 202](https://api.sejm.gov.pl/eli/acts/DU/2005/202/text.html), z późn. zm.[19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236, z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664 oraz z 2010 r. Nr 28, poz. 145 i Nr 76, poz. 489.](#gloss-0:19:)) w art. 3 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+substancji niebezpiecznej - rozumie się przez to każdą substancję spełniającą kryteria klasyfikacji dla którejkolwiek z klas lub kategorii zagrożenia wymienionych w:
+
+### a)
+
+części 2 w pkt 2.1 -2.4, 2.6, 2.7, 2.8 (Typ A i B), 2.9, 2.10, 2.12, 2.13 (kategoria 1 i 2), 2.14 (kategoria 1 i 2) oraz 2.15 (Typ A-F),
+
+### b)
+
+części 3 w pkt 3.1-3.6, 3.7 (działanie szkodliwe na funkcje płciowe i płodność lub na rozwój potomstwa), 3.8 (z wyjątkiem substancji spełniających kryteria klasyfikacji ze względu na działanie narkotyczne), 3.9 i 3.10,
+
+### c)
+
+części 4 w pkt 4.1,
+
+### d)
+
+części 5 w pkt 5.1
+
+- załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+” .
+
+### Art. 80.
+
+W ustawie z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach ([Dz. U. Nr 33, poz. 289](https://api.sejm.gov.pl/eli/acts/DU/2005/289/text.html), z [2006 r. Nr 171, poz. 1225](https://api.sejm.gov.pl/eli/acts/DU/2006/1225/text.html) i [Nr 220, poz. 1600](https://api.sejm.gov.pl/eli/acts/DU/2006/1600/text.html) oraz z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html)) w art. 16 w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+jednostki organizacyjne posiadające specjalistyczne laboratoria, wykonujące badania produktów leczniczych, środków spożywczych, substancji chemicznych i ich mieszanin, środków ochrony roślin, produktów biobójczych i organizmów genetycznie zmodyfikowanych, jeżeli obowiązek przeprowadzania takich badań wynika z odrębnych przepisów, w szczególności przepisów: prawa farmaceutycznego, o bezpieczeństwie żywności i żywienia, o substancjach chemicznych i ich mieszaninach, o ochronie roślin, o produktach biobójczych i przepisów o organizmach genetycznie zmodyfikowanych.
+
+” .
+
+### Art. 81.
+
+W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii ([Dz. U. Nr 179, poz. 1485](https://api.sejm.gov.pl/eli/acts/DU/2005/1485/text.html), z późn. zm.[20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486.](#gloss-0:20:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+substancji chemicznych i ich mieszanin, które są prekursorami, w zakresie nieuregulowanym w przepisach o substancjach chemicznych i ich mieszaninach.
+
+” ;
+
+### 2)
+
+w art. 44 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Inspektor do spraw Substancji Chemicznych prowadzi rejestr producentów, importerów i innych podmiotów wprowadzających do obrotu prekursory kategorii 2, uwzględniający dane, o których mowa w art. 3 ust. 6 rozporządzenia 273/2004, oraz powiadamia o zgłoszeniu właściwego państwowego powiatowego inspektora sanitarnego.
+
+” .
+
+### Art. 82.
+
+W ustawie z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym ([Dz. U. Nr 180, poz. 1495](https://api.sejm.gov.pl/eli/acts/DU/2005/1495/text.html), z [2008 r. Nr 223, poz. 1464](https://api.sejm.gov.pl/eli/acts/DU/2008/1464/text.html) oraz z [2009 r. Nr 79, poz. 666](https://api.sejm.gov.pl/eli/acts/DU/2009/666/text.html) i [Nr 215, poz. 1664](https://api.sejm.gov.pl/eli/acts/DU/2009/1664/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+składnik niebezpieczny - mieszaninę niebezpieczną w rozumieniu art. 4 ust. 1 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)) lub substancję spełniającą kryteria klasyfikacji dla którejkolwiek z klas lub kategorii zagrożenia wymienionych w:
+
+### a)
+
+części 2 w pkt 2.1-2.4, 2.6, 2.7, 2.8 (Typ A i B), 2.9, 2.10, 2.12, 2.13 (kategoria 1 i 2), 2.14 (kategoria 1 i 2) oraz 2.15 (Typ A-F),
+
+### b)
+
+części 3 w pkt 3.1-3.6, 3.7 (działanie szkodliwe na funkcje płciowe i płodność lub na rozwój potomstwa), 3.8 (z wyjątkiem substancji spełniających kryteria klasyfikacji ze względu na działanie narkotyczne), 3.9 i 3.10,
+
+### c)
+
+części 4 w pkt 4.1,
+
+### d)
+
+części 5 w pkt 5.1
+
+- załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem (WE) nr 1272/2008”.
+
+” ;
+
+### 2)
+
+w załączniku nr 2 do ustawy:
+
+### a)
+
+w ust. 1 pkt 13 otrzymuje brzmienie:
+
+„
+
+### 13)
+
+części składowe zawierające ogniotrwałe włókna ceramiczne, określone w tabeli 3.2 załącznika VI do rozporządzenia (WE) nr 1272/2008,
+
+” ,
+
+### b)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zebrany zużyty sprzęt elektryczny i elektroniczny, z którego usunięto substancje i mieszaniny oraz części składowe wymienione w ust. 1, należy przetworzyć w następujący sposób: ” .
+
+### Art. 83.
+
+W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. Nr 75, poz. 493](https://api.sejm.gov.pl/eli/acts/DU/2007/493/text.html) oraz z [2008 r. Nr 138, poz. 865](https://api.sejm.gov.pl/eli/acts/DU/2008/865/text.html) i [Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html)) w art. 3 w ust. 2 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+substancji niebezpiecznych i mieszanin niebezpiecznych lub substancji stwarzających zagrożenie i mieszanin stwarzających zagrożenie w rozumieniu przepisów o substancjach chemicznych i ich mieszaninach,
+
+” .
+
+### Art. 84.
+
+W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej ([Dz. U. Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html) i [Nr 201, poz. 1540](https://api.sejm.gov.pl/eli/acts/DU/2009/1540/text.html) oraz z [2010 r. Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html)) w art. 2 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+rozpoznawanie, wykrywanie, zapobieganie i zwalczanie przestępstw i wykroczeń związanych z naruszeniem przepisów dotyczących wprowadzania na terytorium Rzeczypospolitej Polskiej oraz wyprowadzania z jej terytorium towarów objętych ograniczeniami lub zakazami obrotu ze względu na bezpieczeństwo i porządek publiczny lub bezpieczeństwo międzynarodowe, w szczególności takich jak odpady, substancje chemiczne i ich mieszaniny, materiały jądrowe i promieniotwórcze, środki odurzające i substancje psychotropowe, broń, amunicja, materiały wybuchowe oraz towary i technologie o znaczeniu strategicznym;
+
+” .
+
+### Rozdział 9 Przepisy przejściowe i końcowe
+
+### Art. 85.
+
+### 1.
+
+Z dniem wejścia w życie ustawy Inspektor do Spraw Substancji i Preparatów Chemicznych powołany na podstawie dotychczasowych przepisów staje się Inspektorem do spraw Substancji Chemicznych.
+
+### 2.
+
+Z dniem wejścia w życie ustawy Biuro do Spraw Substancji i Preparatów Chemicznych utworzone na podstawie dotychczasowych przepisów staje się Biurem do spraw Substancji Chemicznych.
+
+### 3.
+
+Z dniem wejścia w życie ustawy pracownicy Biura do Spraw Substancji i Preparatów Chemicznych utworzonego na podstawie dotychczasowych przepisów stają się pracownikami Biura do spraw Substancji Chemicznych.
+
+### 4.
+
+Statut Biura do Spraw Substancji i Preparatów Chemicznych utworzonego na podstawie dotychczasowych przepisów zachowuje moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 2 ustawy, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 86.
+
+Ilekroć w odrębnych przepisach jest mowa o Inspektorze do Spraw Substancji i Preparatów Chemicznych lub Biurze do Spraw Substancji i Preparatów Chemicznych, rozumie się przez to, odpowiednio, Inspektora do spraw Substancji Chemicznych lub Biuro do spraw Substancji Chemicznych.
+
+### Art. 87.
+
+### 1.
+
+Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Opłatę, o której mowa w art. 17 ust. 1 pkt 2, po raz pierwszy wnosi się po upływie czasu, na jaki została wniesiona opłata pobierana na podstawie dotychczasowych przepisów.
+
+### 3.
+
+Certyfikaty potwierdzające spełnianie przez jednostkę badawczą zasad Dobrej Praktyki Laboratoryjnej, wydane na podstawie decyzji Inspektora do Spraw Substancji i Preparatów Chemicznych przed dniem wejścia w życie ustawy, zachowują ważność na czas, na jaki zostały wydane.
+
+### 4.
+
+Pierwszy wykaz certyfikowanych jednostek badawczych, o którym mowa w art. 16 ust. 1, obejmuje jednostki, które uzyskały certyfikaty potwierdzające spełnianie zasad Dobrej Praktyki Laboratoryjnej przed dniem wejścia w życie ustawy.
+
+### Art. 88.
+
+Przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 4 ust. 2, art. 24 ust. 2 i 5, art. 26, art. 27 ust. 2, art. 28 ust. 3 i art. 31 ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 15, art. 17 ust. 4, art. 19 ust. 5, art. 20 ust. 11, art. 21 ust. 3, art. 22 ust. 7 i art. 26 niniejszej ustawy,
+
+### 2)
+
+art. 33c ustawy, o której mowa w art. 89, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 6 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą,
+
+### 3)
+
+art. 222 § 3 ustawy, o której mowa w art. 65, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 222 § 3 ustawy, o której mowa w art. 65, w brzmieniu nadanym niniejszą ustawą,
+
+### 4)
+
+art. 27b ust. 4 ustawy, o której mowa w art. 66, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27b ust. 4 ustawy, o której mowa w art. 66, w brzmieniu nadanym niniejszą ustawą
+
+- nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 89.
+
+Traci moc ustawa z dnia 11 stycznia 2001 r. o substancjach i preparatach chemicznych ([Dz. U. z 2009 r. Nr 152, poz. 1222](https://api.sejm.gov.pl/eli/acts/DU/2009/1222/text.html) oraz z [2010 r. Nr 107, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2010/679/text.html) i [Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html)).
+
+### Art. 90.
+
+Przepisy art. 20 ust. 3 i ust. 11 pkt 4 tracą moc z dniem 1 czerwca 2015 r.
+
+### Art. 91.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się: ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej, ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 30 marca 2001 r. o kosmetykach, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 11 maja 2001 r. o opakowaniach i odpadach opakowaniowych, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 13 września 2002 r. o produktach biobójczych, ustawę z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów, ustawę z dnia 18 grudnia 2003 r. o ochronie roślin, ustawę z dnia 20 kwietnia 2004 r. o substancjach zubożających warstwę ozonową, ustawę z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, ustawę z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 29 lipca 2005 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.
+
+2)
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw:
+
+### 1)
+
+dyrektywy 67/548/EWG z dnia 27 czerwca 1967 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do klasyfikacji, pakowania i etykietowania substancji niebezpiecznych ([Dz. Urz. WE L 196 z 16.08.1967, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 1, str. 27](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+dyrektywy 92/58/EWG z dnia 24 czerwca 1992 r. w sprawie minimalnych wymagań dotyczących znaków bezpieczeństwa i/lub zdrowia w miejscu pracy (dziewiąta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) ([Dz. Urz. WE L 245 z 26.08.1992, str. 23](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 89](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 3)
+
+dyrektywy 1999/45/WE z dnia 31 maja 1999 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych Państw Członkowskich odnoszących się do klasyfikacji, pakowania i etykietowania preparatów niebezpiecznych ([Dz. Urz. WE L 200 z 30.07.1999, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 24, str. 109](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 4)
+
+dyrektywy 2004/9/WE z dnia 11 lutego 2004 r. w sprawie kontroli i weryfikacji dobrej praktyki laboratoryjnej (DPL) ([Dz. Urz. UE L 50 z 20.02.2004, str. 28](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 65](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 5)
+
+dyrektywy 2004/10/WE z dnia 11 lutego 2004 r. w sprawie harmonizacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do stosowania zasad dobrej praktyki laboratoryjnej i weryfikacji jej stosowania na potrzeby badań substancji chemicznych ([Dz. Urz. UE L 50 z 20.02.2004, str. 44](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 8, str. 82](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 6)
+
+dyrektywy 2008/112/WE z dnia 16 grudnia 2008 r. zmieniającej dyrektywy Rady 76/768/EWG, 88/378/EWG, 1999/13/WE oraz dyrektywy 2000/53/WE, 2002/96/WE i 2004/42/WE Parlamentu Europejskiego i Rady w celu dostosowania ich do rozporządzenia (WE) nr 1272/2008 w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin ([Dz. Urz. UE L 345 z 23.12.2008, str. 68](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075 oraz z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18 i Nr 34, poz. 173. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589 oraz z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 143, poz. 1032, Nr 170, poz. 1217, Nr 171, poz. 1225 i Nr 220, poz. 1600, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106, Nr 92, poz. 753 i Nr 157, poz. 1241 oraz z 2010 r. Nr 21, poz. 105, Nr 81, poz. 529, Nr 130, poz. 871, Nr 182, poz. 1228 i Nr 213, poz. 1396. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 157, poz. 1119 i Nr 187, poz. 1381, z 2007 r. Nr 89, poz. 589, Nr 115, poz. 794, Nr 176, poz. 1243 i Nr 192, poz. 1378, z 2008 r. Nr 209, poz. 1318, z 2009 r. Nr 3, poz. 11, Nr 39, poz. 308, Nr 131, poz. 1075, Nr 157, poz. 1241 i Nr 201, poz. 1540 oraz z 2010 r. Nr 28, poz. 143, Nr 40, poz. 229, Nr 75, poz. 474, Nr 122, poz. 826, Nr 152, poz. 1018 i Nr 229, poz. 1497. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 75, poz. 493, Nr 88, poz. 587 i Nr 124, poz. 859, z 2008 r. Nr 138, poz. 865, Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 79, poz. 666 i Nr 130, poz. 1070 oraz z 2010 r. Nr 182, poz. 1228 i Nr 239, poz. 1592. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 73, poz. 659, Nr 189, poz. 1852 i Nr 208, poz. 2019, z 2004 r. Nr 213, poz. 2158, z 2009 r. Nr 18, poz. 97, Nr 20, poz. 106 i Nr 91, poz. 740 oraz z 2010 r. Nr 107, poz. 679. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 7, poz. 78, z 2004 r. Nr 11, poz. 97 i Nr 96, poz. 959 oraz z 2005 r. Nr 175, poz. 1458. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817 oraz z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 171, poz. 1056, z 2009 r. Nr 20, poz. 106 oraz z 2010 r. Nr 107, poz. 679 i Nr 225, poz. 1464. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 93, poz. 889, Nr 191, poz. 1956 i Nr 243, poz. 2442, z 2005 r. Nr 157, poz. 1316, Nr 178, poz. 1479, Nr 180, poz. 1492 i Nr 183, poz. 1538, z 2006 r. Nr 120, poz. 826, z 2007 r. Nr 75, poz. 492 i Nr 166, poz. 1172, z 2008 r. Nr 214, poz. 1344, z 2009 r. Nr 20, poz. 106, Nr 62, poz. 504, Nr 166, poz. 1317 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530 i Nr 127, poz. 857. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 155, poz. 1298, z 2007 r. Nr 64, poz. 428 oraz z 2008 r. Nr 180, poz. 1112. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976 oraz z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 20, poz. 106, Nr 31, poz. 206 i Nr 98, poz. 817, z 2010 r. Nr 47, poz. 278 oraz z 2011 r. Nr 54, poz. 278. 19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 175, poz. 1458, z 2007 r. Nr 176, poz. 1236, z 2009 r. Nr 79, poz. 666, Nr 92, poz. 753 i Nr 215, poz. 1664 oraz z 2010 r. Nr 28, poz. 145 i Nr 76, poz. 489. 20) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826, z 2007 r. Nr 7, poz. 48 i Nr 82, poz. 558, z 2009 r. Nr 18, poz. 97, Nr 63, poz. 520, Nr 92, poz. 753 i Nr 98, poz. 817 oraz z 2010 r. Nr 28, poz. 146, Nr 143, poz. 962, Nr 213, poz. 1396 i Nr 228, poz. 1486.

@@ -1,0 +1,46 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 23 lutego 2022 r. w sprawie wielokrotności kwoty bazowej, stanowiącej przeciętne uposażenie funkcjonariuszy Służby Ochrony Państwa"
+address: WDU20220000544
+eli: DU/2022/544
+publisher: DU
+year: 2022
+pos: 544
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 23 lutego 2022 r. w sprawie wielokrotności kwoty bazowej, stanowiącej przeciętne uposażenie funkcjonariuszy Służby Ochrony Państwa
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 544 |
+| ISAP | WDU20220000544 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-02-23 |
+| Data wydania | 2022-03-07 |
+| Wejście w życie | 2022-03-08 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/544/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/544) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 162 ust. 16 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2021 r. poz. 575](https://api.sejm.gov.pl/eli/acts/DU/2021/575/text.html), [1728](https://api.sejm.gov.pl/eli/acts/DU/2021/1728/text.html) i [2333](https://api.sejm.gov.pl/eli/acts/DU/2021/2333/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Wielokrotność kwoty bazowej, stanowiącą przeciętne uposażenie funkcjonariuszy Służby Ochrony Państwa, ustala się na 4,899.
+
+### § 2.
+
+Przepisy rozporządzenia mają zastosowanie do uposażeń funkcjonariuszy Służby Ochrony Państwa od dnia 1 stycznia 2022 r.
+
+### § 3.
+
+Traci moc rozporządzenie Rady Ministrów z dnia 3 marca 2020 r. w sprawie wielokrotności kwoty bazowej, stanowiącej przeciętne uposażenie funkcjonariuszy Służby Ochrony Państwa ([Dz. U. poz. 369](https://api.sejm.gov.pl/eli/acts/DU/2020/369/text.html)).
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

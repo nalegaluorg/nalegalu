@@ -1,0 +1,125 @@
+---
+title: Obwieszczenie Ministra Zdrowia z dnia 8 kwietnia 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych
+address: WDU20140000746
+eli: DU/2014/746
+publisher: DU
+year: 2014
+pos: 746
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Zdrowiaz dnia 8 kwietnia 2014 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 746 |
+| ISAP | WDU20140000746 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2014-04-08 |
+| Data wydania | 2014-06-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/746/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/746) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Zdrowia z dnia 27 maja 2010 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2011 r. Nr 197, poz. 1172](https://api.sejm.gov.pl/eli/acts/DU/2011/1172/text.html) i [Nr 232, poz. 1378](https://api.sejm.gov.pl/eli/acts/DU/2011/1378/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 27 maja 2010 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych ([Dz. U. Nr 108, poz. 706](https://api.sejm.gov.pl/eli/acts/DU/2010/706/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Zdrowia z dnia 15 marca 2013 r. zmieniającym rozporządzenie w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych ([Dz. U. poz. 410](https://api.sejm.gov.pl/eli/acts/DU/2013/410/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 15 marca 2013 r. zmieniającego rozporządzenie w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych ([Dz. U. poz. 410](https://api.sejm.gov.pl/eli/acts/DU/2013/410/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Zdrowia z dnia 27 maja 2010 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych[1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672).](#gloss-0:1:)
+
+Na podstawie art. 15 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ([Dz. U. z 2013 r. poz. 947](https://api.sejm.gov.pl/eli/acts/DU/2013/947/text.html) oraz [z 2014 r. poz. 619](https://api.sejm.gov.pl/eli/acts/DU/2014/619/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa kwalifikacje wymagane od członków zespołu kontroli zakażeń szpitalnych, zwanego dalej „zespołem”, powołanego przez kierownika szpitala lub zespołu zakładów opieki zdrowotnej, w skład którego wchodzi szpital.
+
+### § 2.
+
+Przewodniczący zespołu posiada co najmniej 3-letnie doświadczenie w wykonywaniu zawodu lekarza w szpitalu oraz:
+
+### 1)
+
+posiada tytuł specjalisty lub uzyskał specjalizację I stopnia w jednej z następujących dziedzin medycyny:
+
+### a)
+
+epidemiologia lub higiena i epidemiologia,
+
+### b)
+
+mikrobiologia lub mikrobiologia lekarska,
+
+### c)
+
+choroby zakaźne,
+
+### d)
+
+organizacja ochrony zdrowia,
+
+### e)
+
+zdrowie publiczne lub
+
+### 2)
+
+rozpoczął specjalizację w jednej z dziedzin wymienionych w pkt 1 lub posiada inną specjalizację oraz co najmniej 2-letnie doświadczenie w pracy w zespole kontroli zakażeń szpitalnych i ukończył kurs specjalistyczny w zakresie epidemiologii szpitalnej i posiada świadectwo jego ukończenia lub jest w trakcie odbywania kursu specjalistycznego w zakresie epidemiologii szpitalnej prowadzonego przez podmioty, o których mowa w art. 19 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ([Dz. U. z 2011 r. Nr 277, poz. 1634](https://api.sejm.gov.pl/eli/acts/DU/2011/1634/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456 oraz z 2013 r. poz. 1245, 1287, 1645 i 1650.](#gloss-0:2:)).
+
+### § 3.
+
+Specjalista do spraw epidemiologii lub higieny i epidemiologii:
+
+### 1[3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 marca 2013 r. zmieniającego rozporządzenie w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych (Dz. U. poz. 410), które weszło w życie z dniem 13 kwietnia 2013 r.](#gloss-0:3:))
+
+posiada specjalizację w dziedzinie pielęgniarstwa epidemiologicznego, epidemiologii lub higieny i epidemiologii;
+
+### 2)
+
+posiada średnie medyczne lub wyższe wykształcenie w dziedzinie pielęgniarstwa;
+
+### 3)
+
+posiada co najmniej 3-letnie doświadczenie w zawodzie pielęgniarki lub w zawodzie położnej wykonywanym w szpitalu.
+
+### § 4[4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:4:).
+
+Specjalista do spraw mikrobiologii:
+
+### 1)
+
+posiada specjalizację w dziedzinie mikrobiologii, mikrobiologii medycznej lub mikrobiologii lekarskiej;
+
+### 2)
+
+posiada co najmniej 2-letnie doświadczenie w zawodzie diagnosty laboratoryjnego w szpitalnym laboratorium mikrobiologicznym albo innym laboratorium mikrobiologicznym wykonującym badania na rzecz szpitali.
+
+### § 5.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[5) Rozporządzenie zostało ogłoszone w dniu 18 czerwca 2010 r.](#gloss-0:5:).[6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 grudnia 2004 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń zakładowych (Dz. U. Nr 285, poz. 2869), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 68 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570).](#gloss-0:6:)
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. Nr 248, poz. 1495 i Nr 284, poz. 1672). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 291, poz. 1707, z 2012 r. poz. 95 i 1456 oraz z 2013 r. poz. 1245, 1287, 1645 i 1650. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 15 marca 2013 r. zmieniającego rozporządzenie w sprawie kwalifikacji członków zespołu kontroli zakażeń szpitalnych (Dz. U. poz. 410), które weszło w życie z dniem 13 kwietnia 2013 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 3. 5) Rozporządzenie zostało ogłoszone w dniu 18 czerwca 2010 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 grudnia 2004 r. w sprawie kwalifikacji członków zespołu kontroli zakażeń zakładowych (Dz. U. Nr 285, poz. 2869), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 68 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. Nr 234, poz. 1570).

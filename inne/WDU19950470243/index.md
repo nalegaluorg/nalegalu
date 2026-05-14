@@ -8,11 +8,9 @@ pos: 243
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zapobieganiu zanieczyszczaniu morza przez statki
-
-*USTAWA z dnia 16 marca 1995 r.*
+# Ustawa z dnia 16 marca 1995 r. o zapobieganiu zanieczyszczaniu morza przez statki
 
 | Pole | Wartość |
 |---|---|
@@ -24,834 +22,724 @@ domain: null
 | Data ogłoszenia | 1995-03-16 |
 | Data wydania | 1995-03-31 |
 | Ostatnia zmiana | 2024-12-13 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950470243) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/243/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1995/243/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1995/243) |
 
-Art. 39–40. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zanieczyszczenia eksploatacyjne ze statków](#chpt_2) [Rozdział 3 - Zatapianie ze statków odpadów i innych substancji](#chpt_3) [Rozdział 4 - Zwalczanie zanieczyszczeń morza i współpraca międzynarodowa w tym zakresie](#chpt_4) [Rozdział 5 - Nadzór nad statkami](#chpt_5) [Rozdział 6 - Zasady postępowania dyrektora urzędu morskiego](#chpt_6) [Rozdział 7 - Kary pieniężne](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących i przepisy końcowe](#chpt_8)
 
-**Art. 1.** Do zapobiegania zanieczyszczaniu morza przez statki stosuje się:
+TOC
 
-**Art. 2.**
+## Treść ustawy
 
-1. Z zastrzeżeniem ust. 2 i 3, przepisy ustawy stosuje się do:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** statków znajdujących się w polskich obszarach morskich;
-- **2)** statków o polskiej przynależności znajdujących się poza granicami polskich obszarów morskich.
+### Art. 1.
 
-2. Postanowienia umów międzynarodowych, o których mowa w art. 1, stosuje się na polskich obszarach morskich również do statków o przynależności do państwa niebędącego stroną którejkolwiek z nich; jednakże postanowienia tych konwencji będą stosowane do takich statków tylko w zakresie, w jakim jest to niezbędne do zapewnienia, że statki te nie spowodują zanieczyszczenia.
+Do zapobiegania zanieczyszczaniu morza przez statki stosuje się:
 
-3. Rada Ministrów może, w drodze rozporządzenia, poddać wszystkim lub niektórym przepisom ustawy jednostki pływające Marynarki Wojennej, Straży Granicznej i Policji oraz statki pełniące specjalną służbę państwową i inne statki nieobjęte umowami międzynarodowymi wymienionymi w art. 1.
+### 1)
 
-**Art. 3.** Przepisów ustawy nie stosuje się, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej.
+postanowienia następujących umów międzynarodowych, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób:
 
-**Art. 4.** W rozumieniu niniejszej ustawy:
+### a)
 
-#### Rozdział 2 Zanieczyszczenia ze statków oraz inspekcja statku
+Międzynarodowej konwencjio zapobieganiu zanieczyszczaniu morza przez statki, 1973, sporządzonej w Londynie dnia 2 listopada 1973 r., zmienionej Protokołem uzupełniającym, sporządzonym w Londynie dnia 17 lutego 1978 r. ([Dz. U. z 1987 r. Nr 17, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1987/101/text.html)), zwanej dalej „Konwencją MARPOL 1973/78”,
 
-**Art. 5.** Do zapobiegania zanieczyszczaniu morza związanemu z uprawianiem żeglugi lub prowadzeniem innej działalności morskiej przez statki stosuje się postanowienia Konwencji MARPOL, Konwencji o zatapianiu, Konwencji AFS, Konwencji BWM, a na Morzu Bałtyckim – również postanowienia Konwencji Helsińskiej 1992.
+### b)
 
-**Art. 6.** Statek nie może być używany do żeglugi morskiej lub innej działalności na morzu, jeżeli nie odpowiada wymaganiom w zakresie zapobiegania zanieczyszczaniu morza, określonym:
+Konwencji o ochronie środowiska morskiego obszaru Morza Bałtyckiego, sporządzonej w Helsinkach dnia 22 marca 1974 r. ([Dz. U. z 1980 r. Nr 18, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/1980/64/text.html)), zwanej dalej „Konwencją helsińską”,
 
-**Art. 7.**
+### c)
 
-1. W celu zapewnienia przestrzegania przez statek wymagań, o których mowa w art. 6, statek podlega przeglądom i inspekcjom w zakresie i terminach określonych w umowach międzynarodowych lub przepisach ustawy.
+Konwencji o zapobieganiu zanieczyszczaniu mórz przez zatapianie odpadów i innych substancji, sporządzonej w Moskwie, Waszyngtonie, Londynie i Meksyku dnia 29 grudnia 1972 r. ([Dz. U. z 1984 r. Nr 11, poz. 46](https://api.sejm.gov.pl/eli/acts/DU/1984/46/text.html)), zwanej dalej „Konwencją o zatapianiu”,
 
-1a. Inspekcje, o których mowa w ust. 1, powinny być poprzedzone przeglądami statku dokonywanymi przez uznaną organizację w rozumieniu art. 5 pkt 17 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim sprawującą nadzór techniczny nad statkiem.
+### 2)
 
-2. Niezależnie od przeglądów i inspekcji, o których mowa w ust. 1, statek może być poddawany inspekcjom doraźnym.
+przepisy niniejszej ustawy.
 
-3. Organami inspekcyjnymi są dyrektorzy urzędów morskich, a za granicą również konsulowie.
+### Art. 2.
 
-4. (uchylony)
+### 1.
 
-5. Organ inspekcyjny może zlecić każdorazowo dokonanie określonych w przepisach wydanych na podstawie art. 14 ust. 4 przeglądów lub inspekcji uznanej organizacji upoważnionej do wykonywania zadań administracji morskiej.
+Z zastrzeżeniem ust. 2 i 3, przepisy ustawy stosuje się do:
 
-5a. Minister właściwy do spraw gospodarki morskiej może powierzyć zadania organu inspekcyjnego uznanej organizacji upoważnionej zgodnie z art. 8 ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
+### 1)
 
-6. Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojego działania, określą, w drodze rozporządzenia, organy inspekcyjne dla jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji oraz tryb przeprowadzania przeglądów i inspekcji, a także ich rodzaje.
+statków znajdujących się w polskich obszarach morskich,
 
-**Art. 8.**
+### 2)
 
-1. W przypadku pozytywnego wyniku przeglądów i inspekcji, organ inspekcyjny wydaje statkowi międzynarodowe świadectwa przewidziane w:
+statków o polskiej przynależności znajdujących się poza granicami tych obszarów.
 
-- **1)** Konwencji MARPOL, ważne na najdłuższy dopuszczalny okres wynikający z tej Konwencji, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich stosownie do wymogów Konwencji;
-- **2)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach;
-- **3)** Konwencji BWM, ważne na okres 5 lat, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich;
-- **4)** rozporządzeniu 1257/2013, ważne na najdłuższy dopuszczalny okres wynikający z tego rozporządzenia, oraz potwierdza ich ważność na podstawie przeglądów, o których mowa w art. 8 tego rozporządzenia.
+### 2.
 
-2. Polski organ inspekcyjny może wydać międzynarodowe świadectwa potwierdzające spełnienie wymagań przewidzianych w:
+Postanowienia umów międzynarodowych, o których mowa w art. 1, stosuje się na polskich obszarach morskich również do statków o przynależności do państwa nie będącego stroną którejkolwiek z nich; jednakże postanowienia tych konwencji będą stosowane do takich statków tylko w zakresie, w jakim jest to niezbędne do zapewnienia, że statki te nie spowodują zanieczyszczenia.
 
-- **1)** Konwencji MARPOL, statkowi o obcej przynależności – na wniosek właściwego organu państwa przynależności statku, będącego stroną tej Konwencji;
-- **2)** rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz rozporządzeniu Komisji (WE) nr 536/2008 z dnia 13 czerwca 2008 r. nadającemu moc art. 6 ust. 3 i art. 7 rozporządzenia (WE) nr 782/2003 Parlamentu Europejskiego i Rady w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz zmieniającemu to rozporządzenie – na wniosek organu państwa przynależności statku;
-- **3)** Konwencji BWM, statkowi o obcej przynależności – na wniosek właściwego organu państwa przynależności statku, będącego stroną tej Konwencji.
+### 3.
 
-2a. W przypadku pozytywnego wyniku przeglądu statku nieuprawiającego żeglugi międzynarodowej lub statku niepodlegającego konwencjom, o których mowa w art. 1 pkt 1, uznana organizacja upoważniona do wykonywania zadań administracji morskiej, sprawująca nadzór techniczny nad statkiem wydaje statkowi zaświadczenie o zgodności na formularzu określonym przez tę organizację.
+Rada Ministrów może, w drodze rozporządzenia, poddać wszystkim lub niektórym przepisom ustawy jednostki pływające Marynarki Wojennej, Straży Granicznej i Policji oraz statki pełniące specjalną służbę państwową i inne statki nie objęte umowami międzynarodowymi wymienionymi w art. 1.
 
-3. Świadectwa, o których mowa w ust. 1 i 2, tracą ważność przed upływem okresu, na który zostały wystawione, jeżeli:
+### Art. 3.
 
-- **1)** bez zgody organu inspekcyjnego wprowadzono istotne zmiany w konstrukcji, wyposażeniu, systemach, osprzęcie, urządzeniach lub materiałach;
-- **2)** nie została potwierdzona ich ważność;
-- **3)** nastąpiła zmiana przynależności statku.
+Przepisów ustawy nie stosuje się, jeżeli umowa międzynarodowa, której Rzeczypospolita Polska jest stroną, stanowi inaczej.
 
-4. Za przeprowadzenie inspekcji oraz wystawienie lub potwierdzenie świadectw, o których mowa w ust. 1 i 2, pobiera się opłaty określone w załączniku nr 1 do ustawy, z tym że nie pobiera się opłat za inspekcję doraźną.
+### Art. 4.
 
-4a. Za zatwierdzanie dokumentacji technicznej i planów oraz zatwierdzanie systemów obróbki wód balastowych pobiera się opłaty określone w załączniku nr 2 do ustawy.
+W rozumieniu niniejszej ustawy:
 
-5. Opłaty, o których mowa w ust. 4 i 4a, stanowią dochód budżetu państwa.
+### 1)
 
-6. W przypadku gdy czynności, o których mowa w ust. 4 i 4a, wykonuje uznana organizacja upoważniona do wykonywania zadań administracji morskiej, dochód budżetu państwa stanowi 10 % opłaty określonej w załącznikach nr 1 i 2 do ustawy.
+statek - oznacza urządzenie pływające używane w środowisku morskim, w tym również wodoloty, poduszkowce, statki podwodne oraz umocowane i pływające platformy wiertnicze,
 
-**Art. 8a.**
+### 2)
 
-1. W celu zapewnienia prawidłowego użytkowania THETIS-EU przez administrację morską minister właściwy do spraw gospodarki morskiej powołuje i odwołuje Krajowego Administratora THETIS-EU, zwanego dalej „Administratorem THETIS-EU”.
+armator - oznacza osobę, która przy użyciu własnego lub cudzego statku prowadzi działalność w środowisku morskim we własnym imieniu,
 
-2. Na stanowisko Administratora THETIS-EU może być powołana osoba, która spełnia następujące wymagania:
+### 3)
 
-- **1)** posiada minimum 3-letnie doświadczenie w zakresie inspekcji państwa portu lub inspekcji państwa bandery;
-- **2)** posiada wykształcenie wyższe;
-- **3)** wykazuje się dobrą znajomością języka angielskiego w mowie i piśmie;
-- **4)** posiada wiedzę w zakresie uregulowanym w przepisach, o których mowa w art. 4 pkt 9;
-- **5)** posiada znajomość obsługi THETIS-EU.
+kapitan - oznacza osobę kierującą pracą na statku.
 
-3. Do zadań Administratora THETIS-EU należy:
+### Rozdział 2 Zanieczyszczenia eksploatacyjne ze statków
 
-- **1)** udzielanie praw dostępu do THETIS-EU;
-- **2)** przygotowanie i aktualizacja wzorów formularzy służących do elektronicznego raportowania o wynikach inspekcji przeprowadzonych przez organ inspekcyjny;
-- **3)** szkolenie inspektorów inspekcji państwa bandery i inspekcji państwa portu w zakresie obsługi THETIS-EU oraz przeprowadzanie niezbędnych konsultacji dotyczących użytkowania systemu;
-- **4)** informowanie do dnia 31 stycznia każdego roku ministra właściwego do spraw gospodarki morskiej oraz dyrektorów urzędów morskich o liczbie inspekcji koniecznych do przeprowadzenia przez organy inspekcyjne w danym roku kalendarzowym w ramach THETIS-EU;
-- **5)** weryfikacja poprawności i kompletności wprowadzonych do THETIS-EU informacji o wynikach inspekcji przeprowadzonych przez organy inspekcyjne oraz informowanie właściwego dyrektora urzędu morskiego o wykrytych niezgodnościach;
-- **6)** monitorowanie działań podjętych przez organ inspekcyjny wobec statków, które w THETIS-EU zostały wskazane do inspekcji;
-- **7)** pełnienie funkcji punktu kontaktowego w zakresie THETIS-EU i udział w pracach EMSA dotyczących funkcjonowania oraz modyfikacji THETIS-EU;
-- **8)** sporządzanie i przekazywanie w terminie do dnia 30 kwietnia każdego roku ministrowi właściwemu do spraw gospodarki morskiej sprawozdania z inspekcji przeprowadzonych przez organy inspekcyjne w roku poprzednim w zakresie objętym THETIS-EU;
-- **9)** wykonywanie innych zadań związanych z funkcjonowaniem THETIS-EU.
+### Art. 5.
 
-**Art. 8b.**
+Do zapobiegania zanieczyszczaniu morza związanego z uprawianiem żeglugi lub prowadzeniem innej działalności morskiej przez statki stosuje się postanowienia Konwencji MARPOL 1973/78, a na Morzu Bałtyckim - również postanowienia Konwencji helsińskiej.
 
-1. Organ inspekcyjny niezwłocznie zamieszcza w THETIS-EU informacje o wynikach inspekcji przeprowadzonej zgodnie z przepisami, o których mowa w art. 4 pkt 9.
+### Art. 6.
 
-2. W przypadku, o którym mowa w art. 8a ust. 3 pkt 5, właściwy dyrektor urzędu morskiego niezwłocznie podejmuje czynności w celu usunięcia stwierdzonych niezgodności.
+Statek nie może być używany do żeglugi morskiej lub innej działalności na morzu, jeżeli nie odpowiada wymaganiom w zakresie zapobiegania zanieczyszczaniu morza, określonym:
 
-**Art. 9.** Kapitan statku jest obowiązany sprawdzić i zapewnić, aby:
+### 1)
 
-**Art. 9a.** Zabrania się:
+dla statków objętych Konwencją MARPOL 1973/78 - w postanowieniach tej Konwencji,
 
-**Art. 10.**
+### 2)
 
-1. Niniejszego artykułu nie stosuje się do statków uczestniczących w usługach portowych w rozumieniu art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/352 z dnia 15 lutego 2017 r. ustanawiającego ramy w zakresie świadczenia usług portowych oraz wspólne zasady dotyczące przejrzystości finansowej portów (Dz. Urz. UE L 57 z 03.03.2017, str. 1).
+dla innych jednostek - w przepisach ustawy lub przepisach wydanych na jej podstawie.
 
-2. Kapitan statku lub jego przedstawiciel przed zawinięciem do portu lub przystani morskiej znajdującej się na terytorium Rzeczypospolitej Polskiej powiadamia podmiot zarządzający portem lub przystanią morską o zamiarze zdania odpadów ze statków, informując o odpadach ze statków znajdujących się na statku za pomocą Krajowego Pojedynczego Punktu Kontaktowego. Informacja jest przekazywana na formularzu zawierającym w szczególności:
+### Art. 7.
 
-- **1)** dane dotyczące statku;
-- **2)** dane dotyczące portu lub rejsu;
-- **3)** rodzaj i ilość odpadów oraz pojemność magazynowania.
+### 1.
 
-3. Kapitan statku lub jego przedstawiciel przekazują informację podmiotowi zarządzającemu portem lub przystanią morską:
+W celu zapewnienia przestrzegania przez statek wymagań, o których mowa w art. 6, statek podlega przeglądom i inspekcjom w zakresie i terminach określonych w umowach międzynarodowych lub przepisach ustawy.
 
-- **1)** co najmniej 24 godziny przed przybyciem do portu, jeżeli port zawinięcia na terytorium Rzeczypospolitej Polskiej jest znany;
-- **2)** gdy tylko będzie znany port zawinięcia, jeżeli ta informacja jest dostępna w okresie krótszym niż 24 godziny przed przybyciem do portu, lub
-- **3)** najpóźniej w chwili wyjścia z poprzedniego portu, jeżeli ta informacja jest dostępna w okresie krótszym niż 24 godziny.
+### 2.
 
-4. Przepis ust. 2 stosuje się do statków o pojemności brutto (GT) 300 jednostek i większej, z wyjątkiem statków rybackich, statków zabytkowych i rekreacyjnych jednostek pływających o długości mniejszej niż 45 metrów.
+Niezależnie od przeglądów i inspekcji, o których mowa w ust. 1, statek może być poddawany inspekcjom doraźnym.
 
-5. Informacje o odpadach ze statków znajdujących się na statku, o których mowa w ust. 2, kapitan statku przechowuje na statku w postaci elektronicznej do czasu zawinięcia do następnego portu lub przystani morskiej oraz udostępnia na żądanie:
+### 3.
 
-- **1)** właściwych organów inspekcyjnych państw członkowskich Unii Europejskiej będących odpowiednikiem organów, o których mowa w art. 18 ust. 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim;
-- **2)** organów inspekcyjnych;
-- **3)** organów Państwowej Inspekcji Sanitarnej;
-- **4)** organów administracji publicznej, które sprawują kontrolę nad przestrzeganiem i stosowaniem przepisów ustawy z dnia 12 maja 2022 r. o portowych urządzeniach do odbioru odpadów ze statków, zwanej dalej „ustawą o portowych urządzeniach do odbioru odpadów ze statków”;
-- **5)** odbiorcy odpadów ze statków, z którym zawarto umowę na odbiór odpadów ze statków.
+Organami inspekcyjnymi są dyrektorzy urzędów morskich, a za granicą również konsulowie.
 
-6. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzór formularza, o którym mowa w ust. 2, mając na względzie konieczność zapewnienia organizacji procesu odbioru odpadów ze statków w sposób niepowodujący nieuzasadnionych opóźnień w ruchu statków.
+### 4.
 
-7. Statek podczas postoju w porcie lub przystani morskiej albo w stoczni znajdujących się na terytorium Rzeczypospolitej Polskiej jest obowiązany zdać do portowych urządzeń do odbioru odpadów ze statków wszystkie odpady ze statków, których zrzut do Morza Bałtyckiego jest niedozwolony.
+Minister Transportu i Gospodarki Morskiej może powierzyć, w drodze rozporządzenia, określone zadania organu inspekcyjnego instytucji klasyfikacyjnej.
 
-8. Z obowiązku zdawania odpadów ze statków do portowych urządzeń do odbioru odpadów ze statków przed wypłynięciem z portu lub przystani morskiej są zwolnione statki, jeżeli:
+### 5.
 
-- **1)** kapitan statku lub jego przedstawiciel przed zawinięciem do portu lub przystani morskiej poinformował podmiot zarządzający portem lub przystanią morską o odpadach ze statków znajdujących się na statku zgodnie z wymaganiami określonymi w ust. 2 i 3 oraz z tych informacji wynika, że statek ma dostateczną pojemność magazynowania odpadów ze statków, lub
-- **2)** informacje dostępne na pokładzie statku wskazują, że statek ma dostateczną pojemność magazynowania odpadów ze statków, lub
-- **3)** statek zawija na kotwicowisko na czas krótszy niż 24 godziny lub w niesprzyjających warunkach pogodowych, chyba że obszar ten został wyłączony z granic infrastruktury portu lub przystani morskiej.
+Organ inspekcyjny może upoważnić każdorazowo do dokonywania określonych przeglądów lub czynności inspekcyjnych wyznaczone w tym celu osoby lub instytucje klasyfikacyjne, również zagraniczne.
 
-9. Dostateczną pojemność magazynowania, o której mowa w ust. 8 pkt 1 i 2, ustala właściwy dyrektor urzędu morskiego w trybie kontroli, o której mowa w art. 26 ustawy o portowych urządzeniach do odbioru odpadów ze statków, stosując metody, wskaźniki i kryteria określone w rozporządzeniu wykonawczym Komisji (UE) 2022/89 z dnia 21 stycznia 2022 r. ustanawiającym zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/883 w odniesieniu do metody, którą należy stosować do obliczania dostatecznej pojemności magazynowania (Dz. Urz. UE L 15 z 24.01.2022, str. 1).
+### 6.
 
-10. Z obowiązków, o których mowa w ust. 2 i 7, są zwolnione statki przebywające na kotwicowisku wchodzącym w skład infrastruktury portu lub przystani morskiej bez zamiaru zawinięcia do portu lub przystani morskiej.
+Minister Obrony Narodowej oraz Minister Spraw Wewnętrznych, każdy w zakresie swojego działania, określą, w drodze rozporządzenia, organy inspekcyjne dla jednostek pływających Marynarki Wojennej, Straży Granicznej i Policji oraz tryb przeprowadzania przeglądów i inspekcji, a także ich rodzaje.
 
-11. Organy Państwowej Inspekcji Sanitarnej mogą uzależnić przyjęcie odpadów ze statków od wyniku przeprowadzonej przez nie kontroli.
+### Art. 8.
 
-12. Opłaty za odbiór i przetwarzanie odpadów ze statków określają przepisy rozdziału 4 ustawy o portowych urządzeniach do odbioru odpadów ze statków.
+### 1.
 
-13. W przypadku gdy na podstawie danych dostępnych w Narodowym Systemie SafeSeaNet lub GISIS wynika, że nie ma odpowiednich portowych urządzeń do odbioru odpadów ze statków w następnym porcie lub przystani morskiej zawinięcia statku, lub jeżeli port lub przystań morska nie jest znana, statek zdaje odpady ze statków do portowych urządzeń do odbioru odpadów ze statków przed wypłynięciem z portu lub przystani morskiej.
+Organ inspekcyjny w razie pozytywnego wyniku przeglądów i inspekcji wydaje statkowi międzynarodowe świadectwa przewidziane w Konwencji MARPOL 1973/78, ważne na okres 5 lat, oraz potwierdza ich ważność na podstawie inspekcji rocznych i pośrednich.
 
-14. W przypadku zdania odpadów ze statków w porcie lub przystani morskiej przez statek, o którym mowa w ust. 4, kapitan statku lub jego przedstawiciel przed wypłynięciem z portu lub przystani morskiej lub niezwłocznie po otrzymaniu pokwitowania odbioru odpadów ze statków, o którym mowa w art. 7 ust. 2 ustawy o portowych urządzeniach do odbioru odpadów ze statków, wprowadza zawarte w tym pokwitowaniu informacje do Krajowego Pojedynczego Punktu Kontaktowego.
+### 2.
 
-15. Informacje zawarte w pokwitowaniu, o którym mowa w art. 7 ust. 2 ustawy o portowych urządzeniach do odbioru odpadów ze statków, są dostępne na statku przez co najmniej dwa lata od dnia wydania tego pokwitowania i są udostępniane na żądanie właściwych organów inspekcyjnych państw członkowskich Unii Europejskiej, o których mowa w ust. 5 pkt 1, wraz z książką zapisów olejowych, książką zapisów ładunkowych, książką zapisów o postępowaniu z odpadami ze statków lub planem postępowania z odpadami ze statków.
+Polski organ inspekcyjny może wydać międzynarodowe świadectwa potwierdzające spełnienie wymagań przewidzianych w Konwencji MARPOL 1973/78 statkowi o obcej przynależności na wniosek właściwego organu państwa przynależności statku, będącego stroną tej Konwencji.
 
-16. Właściwy dyrektor urzędu morskiego udziela armatorowi na jego wniosek, w drodze decyzji, zwolnienia z obowiązku wcześniejszego informowania o odpadach ze statków na statku zgodnie z ust. 2, każdorazowego zdawania odpadów ze statków przed wypłynięciem z portu lub przystani morskiej zgodnie z ust. 8 oraz każdorazowego wnoszenia opłaty pośredniej zgodnie z art. 20 ustawy o portowych urządzeniach do odbioru odpadów ze statków, jeżeli w odniesieniu do statku są spełnione następujące warunki:
+### 3.
 
-- **1)** statek jest włączony w ustalony harmonogram podróży z częstymi zawinięciami do portów lub przystani morskich oraz regularnymi zawinięciami do portów lub przystani morskich;
-- **2)** zawarto uzgodnienie zapewniające odprowadzanie odpadów ze statków i uiszczanie opłat, o których mowa w ust. 12, w porcie lub przystani morskiej wzdłuż trasy statku:
-    - **a)** które jest potwierdzone zawartą umową z podmiotem zarządzającym portem lub przystanią morską albo odbiorcą odpadów ze statków oraz pokwitowaniami odbioru odpadów ze statków,
-    - **b)** o tym uzgodnieniu poinformowano wszystkie porty lub przystanie morskie położone na trasie statku oraz
-    - **c)** jeżeli z informacji dostępnych w GISIS lub Narodowym Systemie SafeSeaNet wynika, że zostało zaakceptowane przez port lub przystań morską Unii Europejskiej lub inny port lub przystań morską, w którym są dostępne odpowiednie portowe urządzenia do odbioru odpadów ze statków, w których następuje zdanie odpadów ze statków i uiszczenie opłat;
+Świadectwa, o których mowa w ust. 1 i 2, tracą ważność przed upływem okresu, na który zostały wystawione, jeżeli:
 
-- **3)** zwolnienie nie będzie powodować negatywnego wpływu na bezpieczeństwo morskie, środowisko morskie, zdrowie, warunki życia lub warunki pracy na statku.
+### 1)
 
-17. Wniosek, o którym mowa w ust. 16, zawiera:
+bez zgody organu inspekcyjnego wprowadzono istotne zmiany w konstrukcji, wyposażeniu, systemach, osprzęcie, urządzeniach lub materiałach,
 
-- **1)** dane dotyczące statku i armatora;
-- **2)** informację zawierającą nazwy portów znajdujących się na trasie statku oraz dane o częstotliwości rejsów;
-- **3)** informację o umowach zawartych z podmiotem zarządzającym portem lub przystanią morską lub odbiorcą odpadów ze statków zapewniającym odbiór odpadów ze statków oraz o uiszczaniu opłat za odprowadzenie odpadów ze statków;
-- **4)** oznaczenie miejsca, datę i podpis osoby upoważnionej do złożenia wniosku.
+### 2)
 
-18. Do wniosku, o którym mowa w ust. 16, dołącza się:
+nie została potwierdzona ich ważność,
 
-- **1)** kopię umowy lub umów o świadczeniu usług odbioru odpadów ze statków zawartych z odbiorcą odpadów ze statków zapewniających odbiór tych odpadów lub podmiotem zarządzającym portem lub przystanią morską, do którego zawija statek podczas rejsów na stałej linii żeglugowej, oraz kopie pokwitowań odbioru odpadów ze statków;
-- **2)** kopię zezwolenia na prowadzenie działalności polegającej na odbiorze i gospodarowaniu odpadami ze statków odbieranymi ze statków wydanego przez właściwe organy podmiotom, z którymi kapitan statku lub jego przedstawiciel, lub armator zawarł umowę, o której mowa w pkt 1;
-- **3)** potwierdzenie przez podmiot odbierający odpady ze statków lub podmiot zarządzający portem lub przystanią morską, w którym są zdawane odpady ze statków, że umowa, o której mowa w pkt 1, zawiera postanowienia zgodne z informacjami dotyczącymi dostępu do odpowiednich portowych urządzeń do odbioru odpadów ze statków, przekazanymi drogą elektroniczną za pomocą Krajowego Pojedynczego Punktu Kontaktowego.
+### 3)
 
-19. Do dokumentów, o których mowa w ust. 18, sporządzonych w języku obcym, dołącza się tłumaczenia tych dokumentów na język polski sporządzone przez tłumacza przysięgłego.
+nastąpiła zmiana przynależności statku.
 
-20. Zwolnienia, o którym mowa w ust. 16, udziela się na okres obowiązywania umowy, o której mowa w ust. 16 pkt 2 lit. a, lecz nie dłuższy niż 2 lata.
+### 4.
 
-21. Decyzję, o której mowa w ust. 16, dyrektor właściwego urzędu morskiego przekazuje podmiotowi zarządzającemu portem lub przystanią morską, którego dotyczy zwolnienie z obowiązku każdorazowego zdawania odpadów ze statków.
+Za przeprowadzenie przeglądów, inspekcji oraz wystawienie lub potwierdzenie międzynarodowych świadectw pobiera się opłaty.
 
-22. Właściwy dyrektor urzędu morskiego, który wydał decyzję, o której mowa w ust. 16, wydaje zaświadczenie o udzieleniu zwolnienia oraz wprowadza informacje zawarte w zaświadczeniu do Narodowego Systemu SafeSeaNet.
+### Art. 9.
 
-23. Zaświadczenie, o którym mowa w ust. 22, zawiera:
+Kapitan statku jest obowiązany sprawdzić i zapewnić, aby:
 
-- **1)** dane dotyczące statku i armatora;
-- **2)** informację o włączeniu statku w ustalony harmonogram podróży obejmujący częste i regularne zawinięcia do wskazanego portu lub przystani morskiej bądź portów lub przystani morskich zgodnie z wcześniej ustaloną trasą;
-- **3)** informację o zawijaniu statku co najmniej raz na dwa tygodnie do wskazanych portów lub przystani morskich;
-- **4)** informację o zawartej umowie, o której mowa w ust. 16 pkt 2 lit. a;
-- **5)** wskazanie podstawy prawnej zwolnienia, o którym mowa w ust. 16;
-- **6)** termin ważności;
-- **7)** oznaczenie miejsca, datę i podpis osoby upoważnionej do wydania zaświadczenia.
+### 1)
 
-24. Minister właściwy do spraw gospodarki morskiej, w drodze rozporządzenia, określi wzór:
+statek przed rozpoczęciem i w czasie żeglugi lub innej działalności morskiej odpowiadał wymaganiom w zakresie zapobiegania zanieczyszczaniu morza, potwierdzonym odpowiednimi świadectwami, oraz posiadał plan zabezpieczenia przed zanieczyszczaniem morza,
 
-- **1)** wniosku o udzielenie zwolnienia, o którym mowa w ust. 16,
-- **2)** zaświadczenia, o którym mowa w ust. 22 – kierując się koniecznością ujednolicenia zakresu przekazywanych informacji oraz – w przypadku wzoru zaświadczenia – zapewniając jego zgodność z załącznikiem V do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/883 z dnia 17 kwietnia 2019 r. w sprawie portowych urządzeń do odbioru odpadów ze statków, zmieniającej dyrektywę 2010/65/UE i uchylającej dyrektywę 2000/59/WE.
+### 2)
 
-25. Jeżeli statek nie posiada dostępnej dostatecznej pojemności magazynowania odpadów ze statków mimo posiadania zwolnienia, o którym mowa w ust. 16, przed wypłynięciem z portu lub przystani morskiej, statek ten zdaje odpady ze statków do portowych urządzeń do odbioru odpadów ze statków i uiszcza opłaty, o których mowa w przepisach rozdziału 4 ustawy o portowych urządzeniach do odbioru odpadów ze statków.
+prowadzono na bieżąco wymagane zapisy olejowe lub ładunkowe,
 
-26. Jeżeli statek, który wypłynął z portu lub przystani morskiej, nie dopełnił obowiązku zdania odpadów ze statków do portowych urządzeń do odbioru odpadów ze statków, właściwy dyrektor urzędu morskiego niezwłocznie informuje o niedopełnieniu tego obowiązku właściwe władze w następnym porcie lub przystani morskiej, do którego ma zawinąć statek.
+### 3)
 
-**Art. 10a.**
+statek był obsadzony załogą mającą należyte przeszkolenie w zakresie czynności służących zapobieganiu zanieczyszczaniu morza.
 
-1. Armator statku przewożącego ładunki niebezpieczne lub zanieczyszczające, zdążającego do portu morskiego lub na kotwicowiska położone w polskich obszarach morskich, a także wychodzącego z portu morskiego, jest obowiązany przed przybyciem lub wyjściem statku poinformować właściwego dyrektora urzędu morskiego o rodzaju przewożonego ładunku, zamierzonej trasie i czasie podróży oraz o stanie bezpieczeństwa statku za pomocą Krajowego Pojedynczego Punktu Kontaktowego, o którym mowa w art. 91 ust. 1a ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
+### Art. 10.
 
-2. Minister właściwy do spraw gospodarki morskiej, mając na uwadze potrzebę stworzenia jednolitych procedur informowania dyrektorów urzędów morskich, określi, w drodze rozporządzenia, zasady i tryb przekazywania oraz zakres informacji, o których mowa w ust. 1.
+### 1.
 
-3. Dyrektor urzędu morskiego właściwy dla portu zawinięcia statku może zwolnić statek odbywający, przez okres co najmniej jednego miesiąca, żeglugę na linii regularnej pomiędzy portami polskimi lub pomiędzy portem polskim a portem innego państwa członkowskiego Unii Europejskiej, z obowiązku, o którym mowa w ust. 1, jeżeli:
+Statek podczas postoju w porcie lub stoczni remontowej powinien korzystać z urządzeń odbiorczych, jeżeli objętość pozostałych na statku substancji szkodliwych przekracza pojemność statkowych urządzeń przy uwzględnieniu możliwości technicznych do nieszkodliwego ich usuwania.
 
-- **1)** armator statku wykonującego żeglugę na linii regularnej:
-    - **a)** przekazuje na bieżąco dyrektorowi urzędu morskiego aktualną listę takich statków oraz
-    - **b)** ustanowił system umożliwiający natychmiastowy elektroniczny dostęp do informacji, o których mowa w ust. 1, dotyczących każdej podróży statku wykonującego żeglugę na linii regularnej, organom administracji morskiej i Morskiej Służbie Poszukiwania i Ratownictwa, na ich żądanie, przez całą dobę;
+### 2.
 
-- **2)** przewidywany czas trwania rejsu w ramach żeglugi na linii regularnej nie przekracza 12 godzin.
+Organy portowej inspekcji sanitarnej mogą uzależnić przyjęcie zanieczyszczeń ze statków oraz usunięcie wód balastowych od wyniku przeprowadzonej inspekcji.
 
-3a. Kapitan statku, o którym mowa w ust. 3, powiadamia dyrektora urzędu morskiego lub port przeznaczenia, o zmianach w stosunku do planowanej godziny przybycia do portu przeznaczenia lub do stacji pilotowej, wynoszących co najmniej trzy godziny.
+### 3.
 
-4. Dyrektor urzędu morskiego wydaje zwolnienie, o którym mowa w ust. 3, na wniosek armatora lub właściwego organu państwa członkowskiego Unii Europejskiej. W przypadku gdy żegluga na linii regularnej odbywa się pomiędzy portami kilku państw członkowskich Unii Europejskiej, z których jednym jest Rzeczpospolita Polska, zwolnienie wydaje się w uzgodnieniu z tymi państwami.
+Podmiot zarządzający portem, bazą przeładunkową lub stocznią remontową jest obowiązany zapewnić na swoim obszarze sprawne urządzenia odbiorcze do przyjmowania zanieczyszczeń ze statków; urządzenia te powinny być wystarczające do zaspokojenia potrzeb korzystających z nich statków w zakresie niezbędnym do usunięcia zanieczyszczeń.
 
-5. Dyrektor urzędu morskiego, który wydał zezwolenie, cofa je w przypadku gdy przestaje być spełniony którykolwiek z warunków, o których mowa w ust. 3.
+### 4.
 
-**Art. 10b.**
+W razie niesprawności urządzeń odbiorczych, o których mowa w ust. 3, port, baza przeładunkowa lub stocznia remontowa są obowiązane niezwłocznie zgłosić o tym dyrektorowi urzędu morskiego.
 
-1. Zabrania się załadowcy podstawiania towarów niebezpiecznych lub zanieczyszczających do ładowania na statek celem przewozu bez dostarczenia kapitanowi deklaracji o tych towarach.
+### Art. 11.
 
-2. Załadowca obowiązany jest dostarczyć kapitanowi statku deklarację, o której mowa w ust. 1, wraz z oświadczeniem, że podstawiony do przewozu towar odpowiada informacjom zawartym w deklaracji. Kapitan, przed wyruszeniem w podróż, przekazuje deklarację armatorowi.
+### 1.
 
-3. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, zakres informacji, którą powinna zawierać deklaracja, o której mowa w ust. 1, kierując się koniecznością ujednolicenia zakresu przekazywanych informacji, z uwzględnieniem przepisów Unii Europejskiej w zakresie systemu monitorowania i informacji o ruchu statków.
+Kapitan statku o polskiej przynależności, który zauważy na morzu zanieczyszczenie lub wypadek powodujący albo mogący spowodować rozlew oleju lub zanieczyszczenia innego rodzaju, przekazuje niezwłocznie meldunek o tym do stacji brzegowej najbliższego państwa nadbrzeżnego.
 
-**Art. 11.**
+### 2.
 
-1. Kapitan statku o polskiej przynależności znajdującego się poza polskimi obszarami morskimi, który zauważy na morzu zanieczyszczenie lub wypadek powodujący albo mogący spowodować rozlew oleju lub zanieczyszczenie innego rodzaju, przekazuje niezwłocznie informację do stacji brzegowej najbliższego państwa nadbrzeżnego oraz do armatora statku.
+Kapitan statku o polskiej przynależności:
 
-2. Kapitan statku o polskiej przynależności:
+### 1)
 
-- **1)** uczestniczącego w wypadku powodującym zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
-- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego – jest obowiązany do niezwłocznego przekazania informacji o tym do stacji brzegowej najbliższego państwa nadbrzeżnego i armatora statku oraz dyrektora urzędu morskiego właściwego dla portu macierzystego statku.
+uczestniczącego w wypadku powodującym zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
 
-3. Kapitan statku znajdującego się w polskich obszarach morskich, który zauważy na morzu zanieczyszczenie lub wypadek powodujący albo mogący spowodować rozlew oleju lub zanieczyszczenia innego rodzaju, przekazuje niezwłocznie informację do najbliższej stacji brzegowej lub Służby Kontroli Ruchu Statków, zwanej dalej „Służbą VTS”, oraz do armatora statku.
+### 2)
 
-4. Kapitan statku znajdującego się w polskich obszarach morskich:
+na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
 
-- **1)** uczestniczącego w wypadku powodującym zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego,
-- **2)** na którym nastąpiło zdarzenie powodujące zagrożenie zanieczyszczeniem środowiska morskiego lub zanieczyszczenie środowiska morskiego – jest obowiązany do niezwłocznego przekazania informacji o tym do najbliższej stacji brzegowej lub Służby VTS i do armatora statku.
+powinien niezwłocznie powiadomić o tym stację brzegową najbliższego państwa nadbrzeżnego oraz przekazać sprawozdanie dyrektorowi urzędu morskiego właściwego dla portu macierzystego statku, stosując się do wytycznych zawartych w Protokole I do Konwencji MARPOL 1973/78.
 
-5. Informacja, o której mowa w ust. 1–4, zawiera:
+### 3.
 
-- **1)** identyfikację, pozycję, port wyjścia i port przeznaczenia statku;
-- **2)** adres, pod którym dostępna jest informacja o towarach niebezpiecznych lub zanieczyszczających, jeżeli są przewożone na statku;
-- **3)** ilość osób na statku;
-- **4)** szczegóły zdarzenia oraz inne informacje niezbędne do prowadzenia akcji ratowniczych, zgodnie z wymaganiami ustanowionymi przez Międzynarodową Organizację Morską (Protokół I do Konwencji MARPOL oraz Rezolucja IMO Nr A.851 (20)).
+Jeżeli kapitan, z uzasadnionego powodu, nie mógł złożyć sprawozdania, o którym mowa w ust. 2, obowiązek ten spoczywa na armatorze.
 
-6. Jeżeli kapitan statku, z uzasadnionego powodu, nie mógł przekazać informacji, o której mowa w ust. 1–5, obowiązek ten spoczywa na armatorze statku.
+### Art. 12.
 
-**Art. 12.**
+Kapitan statku uczestniczącego w wypadku, o którym mowa w art. 11, powinien niezwłocznie podjąć wszelkie działania konieczne dla:
 
-1. Kapitan statku znajdującego się w polskich obszarach morskich uczestniczącego w wypadku powodującym albo mogącym spowodować rozlew oleju lub zanieczyszczenie innego rodzaju podejmuje niezwłocznie wszelkie działania konieczne dla zapobieżenia, ograniczenia i usunięcia zanieczyszczenia środowiska morskiego.
+### 1)
 
-2. Działania, o których mowa w ust. 1, dotyczą również kapitanów statków o polskiej przynależności znajdujących się poza polskimi obszarami morskimi.
+zapobieżenia zanieczyszczaniu środowiska morskiego,
 
-3. Jeżeli kapitan statku lub stacja brzegowa nie może skontaktować się z armatorem statku, dyrektor urzędu morskiego jest obowiązany poinformować o zaistniałej sytuacji organ państwa, który wydał dla statku certyfikat zgodności lub certyfikat zarządzania bezpieczeństwem.
+### 2)
 
-**Art. 13.**
+ograniczenia zanieczyszczenia środowiska morskiego,
 
-1. Kapitan lub armator statku o polskiej przynależności, w razie wypadku na statku lub wykrycia uszkodzeń, wpływających poważnie na stan techniczny statku, jego urządzeń i wyposażenia, powodujących zagrożenie zanieczyszczeniem środowiska morskiego, powinien niezwłocznie powiadomić o tym polski organ inspekcyjny.
+### 3)
 
-2. Jeżeli statek o polskiej przynależności znajduje się w porcie państwa strony Konwencji MARPOL, a zaszło zdarzenie, o którym mowa w ust. 1, kapitan lub armator powinien o tym również niezwłocznie zawiadomić właściwe organy tego państwa.
+usunięcia zanieczyszczenia środowiska morskiego.
 
-**Art. 13a.** Czynności polegające na odzysku substancji kontrolowanych lub fluorowanych gazów cieplarnianych ze znajdujących się na statkach urządzeń chłodniczych, klimatyzacyjnych, systemów ochrony przeciwpożarowej, rozdzielnic elektrycznych oraz gaśnic w celu zapewnienia regeneracji, recyklingu lub unieszkodliwienia tych substancji lub gazów wykonywane są przez członka załogi statku posiadającego co najmniej dyplom oficera mechanika wachtowego lub osobę posiadającą certyfikat dla personelu, o którym mowa w art. 20 ustawy z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, albo przez przedsiębiorcę zatrudniającego taką osobę.
+### Art. 13.
 
-**Art. 13b.** Do dnia 31 stycznia każdego roku dyrektorzy urzędów morskich przedstawiają ministrowi właściwemu do spraw środowiska raport w sprawie oceny stanu przestrzegania w roku poprzednim przepisów dotyczących stosowania oraz eksploatacji urządzeń chłodniczych, klimatyzacyjnych, rozdzielnic elektrycznych oraz systemów ochrony przeciwpożarowej i gaśnic zawierających substancje kontrolowane, nowe substancje, fluorowane gazy cieplarniane i pozostałe fluorowane gazy cieplarniane, o których mowa w ustawie z dnia 15 maja 2015 r. o substancjach zubożających warstwę ozonową oraz o niektórych fluorowanych gazach cieplarnianych, na statkach.
+### 1.
 
-**Art. 13c.**
+Kapitan lub armator statku o polskiej przynależności, w razie wypadku na statku lub wykrycia uszkodzeń, wpływających poważnie na stan techniczny statku, jego urządzeń i wyposażenia, powodujących zagrożenie zanieczyszczeniem środowiska morskiego, powinien niezwłocznie powiadomić o tym polski organ inspekcyjny.
 
-1. Z zastrzeżeniem wyjątków określonych w Konwencji MARPOL, zabrania się na statkach o polskiej przynależności oraz na statkach o obcej przynależności przebywających w polskich obszarach morskich używania paliwa żeglugowego niespełniającego wymagań lub dodatkowych kryteriów jakościowych określonych w przepisach wydanych na podstawie art. 13f ust. 3 i 4.
+### 2.
 
-2. Na statkach o polskiej przynależności oraz na statkach o obcej przynależności przebywających w polskich obszarach morskich dopuszcza się stosowanie metod redukcji emisji, jako alternatywę dla stosowania paliwa żeglugowego spełniającego wymagania i dodatkowe kryteria jakościowe określone w przepisach wydanych na podstawie art. 13f ust. 3 i 4.
+Jeżeli statek o polskiej przynależności znajduje się w porcie państwa strony Konwencji MARPOL 1973/78, a zaszło zdarzenie, o którym mowa w ust. 1, kapitan lub armator powinien o tym również niezwłocznie zawiadomić właściwe organy tego państwa.
 
-3. Przez metodę redukcji emisji rozumie się stosowanie elementu instalacji, materiału, urządzenia instalowanego na statku, procedury, alternatywnego paliwa lub inną metodę, zapewniające osiągnięcie redukcji emisji dwutlenku siarki, którą można zweryfikować, oznaczyć ilościowo i zastosować. Minimalne kryteria, które powinny spełniać metody redukcji emisji, określa załącznik II do dyrektywy Rady 1999/32/WE z dnia 26 kwietnia 1999 r. odnoszącej się do redukcji zawartości siarki w niektórych paliwach ciekłych oraz zmieniającej dyrektywę 93/12/EWG (Dz. Urz. WE L 121 z 11.05.1999, str. 13, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 24, str. 17).
+### Art. 14.
 
-4. Na statkach, na których stosuje się metodę redukcji emisji, należy uzyskiwać w sposób ciągły redukcję emisji dwutlenku siarki co najmniej do poziomu stanowiącego równoważną wartość emisji dwutlenku siarki, którą uzyskiwano by, stosując paliwo żeglugowe spełniające wymagania i dodatkowe kryteria jakościowe określone w przepisach wydanych na podstawie art. 13f ust. 3 i 4. Równoważne wartości emisji dwutlenku siarki określa załącznik I do dyrektywy, o której mowa w ust. 3.
+### 1.
 
-5. Na statkach cumujących w portach dopuszcza się, jako alternatywę dla stosowania metod redukcji emisji, stosowanie rozwiązania polegającego na korzystaniu z lądowych systemów zasilania, o ile są one dostępne w danym porcie.
+Minister Transportu i Gospodarki Morskiej, w porozumieniu z zainteresowanymi ministrami, może określać, w drodze rozporządzenia, szczegółowe przepisy w zakresie zapobiegania zanieczyszczaniu morza przez statki.
 
-**Art. 13d.** (uchylony) Art. 13da. 1. Przeprowadzenie testów metod redukcji emisji jest dopuszczalne w przypadku spełniania następujących warunków:
+### 2.
 
-**Art. 13e.**
+Minister Transportu i Gospodarki Morskiej może, w drodze zarządzenia, wprowadzić do stosowania zalecenia dotyczące zapobiegania zanieczyszczaniu morza przez statki, uchwalone przez Międzynarodową Organizację Morską lub Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego, zwaną dalej „Komisją helsińską”.
 
-1. Dyrektorzy urzędów morskich prowadzą ewidencję działających w polskich obszarach morskich dostawców paliwa przeznaczonego do użycia przez statki, zwanych dalej „dostawcami”.
+### 3.
 
-2. Przed dokonaniem pierwszej dostawy dostawca jest obowiązany do zgłoszenia właściwemu dla miejsca dostawy dyrektorowi urzędu morskiego informacji dotyczących działalności w zakresie dostaw paliwa w polskich obszarach morskich.
+Minister Transportu i Gospodarki Morskiej może, w drodze rozporządzenia, uznać za obowiązujące przepisy techniczne w zakresie zapobiegania zanieczyszczaniu morza, dotyczące projektowania, konstrukcji i wyposażenia statków, wydane dla:
 
-3. Zgłoszenie, o którym mowa w ust. 2, zawiera nazwę, siedzibę, adres korespondencyjny oraz numer telefonu dostawcy, a także określa rodzaje dostarczanych paliw z użyciem nomenklatury scalonej (kodów CN) oraz nazwy portów i przystani morskich, w których planowane jest dostarczanie poszczególnych paliw. Do zgłoszenia, o którym mowa w ust. 2, załącza się kopię koncesji na obrót paliwami oraz kopię pisemnego potwierdzenia zgłoszenia rejestracyjnego, o którym mowa w art. 16 ust. 3 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723).
+### 1)
 
-4. Dostawca informuje właściwego dla miejsca dostaw dyrektora urzędu morskiego o zmianie danych, o których mowa w ust. 3, w terminie 7 dni od dnia dokonania zmiany.
+statków klasyfikowanych przez polską instytucję klasyfikacyjną - przez tę instytucję,
 
-5. Do ostatniego dnia miesiąca następującego po każdym kwartale dostawca jest obowiązany do złożenia właściwemu dla miejsca dostaw dyrektorowi urzędu morskiego sprawozdania z działalności za dany kwartał, zawierającego co najmniej informację o ilości i rodzaju paliwa sprzedanego w poszczególnych portach i przystaniach morskich, z uwzględnieniem zawartości siarki i kodów CN.
+### 2)
 
-6. W przypadku zakończenia działalności w zakresie dostaw paliwa w polskich obszarach morskich dostawca jest obowiązany do pisemnego poinformowania o tym właściwego dla miejsca dostaw dyrektora urzędu morskiego w terminie 7 dni od dnia zakończenia tej działalności.
+statków o przynależności polskiej, będących w klasyfikacji zagranicznych instytucji klasyfikacyjnych - przez te instytucje.
 
-7. Minister właściwy do spraw gospodarki morskiej na podstawie informacji przekazanych przez dyrektora urzędu morskiego udostępnia w Biuletynie Informacji Publicznej na stronie urzędu obsługującego tego ministra aktualną listę dostawców działających na obszarze właściwości dyrektora urzędu morskiego.
+### 4.
 
-8. Lista, o której mowa w ust. 7, zawiera:
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, tryb przeprowadzania przeglądów i inspekcji, wzory międzynarodowych świadectw i sposób ich potwierdzania oraz wysokość opłat za czynności, o których mowa w art. 8 ust. 4.
 
-- **1)** nazwy dostawców;
-- **2)** siedziby dostawców;
-- **3)** adresy korespondencyjne dostawców;
-- **4)** numery telefonów dostawców;
-- **5)** określenie rodzajów dostarczanych przez dostawców paliw z użyciem kodów CN;
-- **6)** nazwy portów i przystani morskich, w których poszczególne paliwa mogą być dostarczane.
+### Rozdział 3 Zatapianie ze statków odpadów i innych substancji
 
-9. Dyrektor urzędu morskiego przekazuje informacje, o których mowa w ust. 2, 4 i 6, ministrowi właściwemu do spraw gospodarki morskiej nie później niż w terminie 7 dni od dnia, w którym uzyskał informacje od dostawcy.
+### Art. 15.
 
-10. Minister właściwy do spraw gospodarki morskiej zapewnia na bieżąco aktualizację listy, o której mowa w ust. 7.
+Do zatapiania odpadów i innych substancji ze statków stosuje się postanowienia Konwencji o zatapianiu, a na Morzu Bałtyckim również postanowienia Konwencji helsińskiej.
 
-11. Do dnia 30 czerwca każdego roku minister właściwy do spraw gospodarki morskiej udostępnia w Biuletynie Informacji Publicznej na stronach podmiotowych urzędu obsługującego tego ministra roczne podsumowanie informacji o ilości i rodzajach paliw żeglugowych dostarczonych w poszczególnych portach i przystaniach morskich w roku poprzednim.
+### Art. 16.
 
-**Art. 13f.**
+### 1.
 
-1. Dostawca jest obowiązany do dostarczenia na statek paliwa spełniającego wymagania określone w przepisach wydanych na podstawie ust. 3 i 4.
+Zabrania się zatapiania odpadów lub innych substancji, z wyjątkiem przypadków określonych w Konwencji helsińskiej:
 
-2. Szczegółowe obowiązki dostawcy oraz kapitana statku, w zakresie dostaw paliwa na statek, określa Konwencja MARPOL.
+### 1)
 
-2a. W przypadku gdy kapitan statku o polskiej przynależności znajdującego się poza polskimi obszarami morskimi nie może nabyć paliwa żeglugowego o zawartości siarki dopuszczalnej na danym obszarze morskim, powiadamia o tym dyrektora urzędu morskiego właściwego dla portu macierzystego statku oraz właściwe władze portu przeznaczenia.
+statkom o polskiej przynależności - na obszarze Morza Bałtyckiego,
 
-2b. W przypadku gdy kapitan statku znajdującego się w polskich obszarach morskich nie może nabyć paliwa żeglugowego o zawartości siarki dopuszczalnej na tych obszarach morskich, powiadamia o tym dyrektora urzędu morskiego właściwego dla obszaru, w którym znajduje się statek, administrację państwa przynależności statku, oraz właściwe władze portu przeznaczenia.
+### 2)
 
-3. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, wymagania dotyczące zawartości siarki w paliwie żeglugowym, w tym sposób jej oznaczania, mając na względzie przepisy Unii Europejskiej w zakresie ograniczenia zawartości siarki w paliwach.
+statkom obcej przynależności - na polskich obszarach morskich.
 
-4. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki surowcami energetycznymi może określić, w drodze rozporządzenia, dodatkowe kryteria jakościowe dla paliw żeglugowych dostarczanych na statek, mając na względzie ochronę środowiska przed zanieczyszczeniami ze statków.
+### 2.
 
-5. Jednostki pływające Marynarki Wojennej, Straży Granicznej i Policji obowiązane są stosować paliwa żeglugowe spełniające wymagania, o których mowa w przepisach wydanych na podstawie ust. 3, lub zatwierdzone metody redukcji emisji dwutlenku siarki, o ile nie zagraża to obronności lub bezpieczeństwu państwa.
+Zabrania się na terytorium Polski ładowania na statki, bez względu na ich przynależność, odpadów lub innych substancji przeznaczonych do zatapiania na obszarze Morza Bałtyckiego.
 
-6. Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojego działania, w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki morskiej, mogą określić, w drodze rozporządzenia, warunki, w jakich jednostki pływające, o których mowa w ust. 5, mogą nie stosować paliw żeglugowych spełniających wymagania, o których mowa w przepisach wydanych na podstawie ust. 3, lub zatwierdzonych metod redukcji emisji dwutlenku siarki, mając na względzie charakter zadań wykonywanych przez te jednostki oraz konieczność zapewnienia należytej ochrony środowiska morskiego.
+### 3.
 
-**Art. 13g.**
+Nie zabrania się usuwania do morza urobku z pogłębiania dna, jeżeli zostanie ono dokonane zgodnie z postanowieniami załącznika V Konwencji helsińskiej - pod warunkiem uzyskania odpowiedniego zezwolenia.
 
-1. Dyrektor urzędu morskiego przeprowadza inspekcje w zakresie zawartości siarki w paliwie żeglugowym.
+### Art. 17.
 
-2. Inspekcja w zakresie zawartości siarki w paliwie żeglugowym jest przeprowadzana zgodnie z art. 3–6 decyzji 2015/253 i obejmuje:
+### 1.
 
-- **1)** sprawdzanie każdorazowo dokumentów dostawy paliwa zawierających informacje dostawcy paliwa o zawartości siarki w paliwie żeglugowym, w tym sprawdzanie, czy towarzyszą tym dokumentom zaplombowane próbki paliwa żeglugowego podpisane przez przedstawiciela statku przyjmującego paliwo, oraz sprawdzanie dziennika maszynowego i książki zapisów olejowych w zakresie wpisów dokumentujących operacje zmiany paliwa;
-- **2)** w odniesieniu do co najmniej 40 % inspekcjonowanych statków pobieranie próbek paliwa żeglugowego:
-    - **a)** z systemu obiegu paliwa na statku,
-    - **b)** ze zbiornika paliwowego statku, jeżeli jest to technicznie możliwe,
-    - **c)** wykorzystując zaplombowane próbki paliwa żeglugowego towarzyszące dokumentom dostawy paliwa, przekazane na statek przez dostawcę paliwa zgodnie z prawidłem 18 załącznika VI do Konwencji MARPOL lub
-    - **d)** w trakcie jego dostawy na statek – i badanie w nim zawartości siarki.
+Zabrania się zatapiania w morzu, ze statków o polskiej przynależności, odpadów lub innych substancji, wymienionych w załączniku I do Konwencji o zatapianiu, z wyjątkiem przypadków określonych w art. V ust. 1 Konwencji i stosownie do jego postanowień.
 
-3. W przypadku pobrania próbek paliwa żeglugowego na statku zgodnie z przepisami decyzji 2015/253, przedstawiciel statku przechowuje jedną próbkę przez okres nie krótszy niż 12 miesięcy, licząc od daty jej pobrania.
+### 2.
 
-4. W przypadku ustalenia w wyniku inspekcji, że na danym statku nie przestrzega się wymagań dotyczących zawartości siarki w paliwie żeglugowym, dyrektor urzędu morskiego żąda od kapitana tego statku:
+Zabrania się ładowania na terytorium Polski na statki, bez względu na ich przynależność, odpadów lub substancji, o których mowa w ust. 1, z przeznaczeniem do zatopienia ich w morzu, z wyjątkiem przypadków określonych w art. V ust. 2 Konwencji o zatapianiu oraz stosownie do jego postanowień i na podstawie przewidzianego tam zezwolenia.
 
-- **1)** o ile jest to możliwe, podjęcia działań mających na celu dostosowanie paliwa żeglugowego do przepisów wykonawczych wydanych na podstawie art. 13f ust. 3;
-- **2)** przedstawienia:
-    - **a)** wykazu działań podjętych w celu osiągnięcia zgodności z wymaganiami dotyczącymi zawartości siarki w paliwie żeglugowym na danym obszarze morskim,
-    - **b)** dowodu, że podjęto próbę nabycia paliwa żeglugowego o zawartości siarki dopuszczalnej na danym obszarze morskim zgodnie z planem podróży oraz, jeżeli paliwo to nie było dostępne w miejscu, w którym zaplanowano jego nabycie, że podjęto próbę zlokalizowania alternatywnych źródeł takiego paliwa, a także że pomimo podjęcia tych prób nabycie takiego paliwa nie było możliwe.
+### 3.
 
-5. Za dowód podjęcia próby nabycia paliwa żeglugowego o zawartości siarki dopuszczalnej na danym obszarze morskim uznaje się pisemne oświadczenie dostawcy paliwa o braku dostępności takiego paliwa w danym porcie.
+Nie zabrania się zatapiania w morzu ze statków o polskiej przynależności lub ładowania na terytorium Polski na statki, bez względu na ich przynależność, z przeznaczeniem do zatopienia w morzu, odpadów lub innych substancji, wymienionych w załączniku II do Konwencji o zatapianiu, jeżeli uzyskano na to zezwolenie specjalne, a wszelkich odpadów lub substancji innych niż wymienione w załącznikach I i II do tej Konwencji - jeżeli uzyskano na to zezwolenie ogólne.
 
-6. Przy żądaniu podjęcia działań, o których mowa w ust. 4, dyrektor urzędu morskiego uwzględnia ustalony plan podróży danego statku, w tym planowany termin opuszczenia portu.
+### Art. 18.
 
-6a. W przypadku uzasadnionego podejrzenia użycia przez statek paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim lub spowodowania zanieczyszczenia dyrektor urzędu morskiego właściwy dla obszaru położenia portu wydaje kapitanowi statku, w drodze decyzji, zakaz wyjścia statku z portu oraz określa wysokość kaucji lub innego odpowiedniego zabezpieczenia finansowego na poczet ewentualnej kary. Decyzja zawiera pouczenie o treści ust. 6b.
+### 1.
 
-6b. Statkowi, w stosunku do którego wydano zakaz, o którym mowa w ust. 6a, dyrektor urzędu morskiego właściwy dla obszaru położenia portu może udzielić, w drodze decyzji, zgody na opuszczenie portu, w przypadku gdy nie są jeszcze znane wyniki badań pobranej ze statku próbki paliwa lub próbki substancji ropopochodnych pobranych z powierzchni wody wokół statku lub ze statku, pod warunkiem wpłacenia kaucji lub złożenia innego odpowiedniego zabezpieczenia finansowego na poczet ewentualnej kary dyrektorowi urzędu morskiego właściwemu dla obszaru położenia portu.
+Zezwolenia, o których mowa w art. 16 ust. 3 i art. 17 ust. 2 i 3, wydaje dyrektor urzędu morskiego statkom:
 
-6c. Decyzja, o której mowa w ust. 6a, traci moc w zakresie zakazu wyjścia statku z portu z chwilą wydania decyzji, o której mowa w ust. 6b.
+### 1)
 
-6d. W przypadku uzyskania wyników badań próbek niepotwierdzających podejrzenia użycia przez statek paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim lub spowodowania zanieczyszczenia, o których mowa w ust. 6b, dyrektor urzędu morskiego właściwy dla obszaru położenia portu, w drodze decyzji, cofa zakaz wyjścia statku z portu oraz niezwłocznie zwraca kaucję lub inne zabezpieczenie finansowe armatorowi statku, o którym mowa w ust. 6a.
+ładowanym na terytorium Polski,
 
-6e. Kaucja lub inne odpowiednie zabezpieczenie finansowe, o których mowa w ust. 6b, są zwracane nie później niż w terminie 10 dni od końca miesiąca, w którym uzyskano wyniki badań próbek, o których mowa w ust. 6d. Zwrot kaucji następuje na rachunek podmiotu, o którym mowa w ust. 6d.
+### 2)
 
-7. Informacje o wynikach przeprowadzonej inspekcji statku w zakresie zawartości siarki w paliwie żeglugowym obejmują:
+o polskiej przynależności.
 
-- **1)** datę przeprowadzonej inspekcji;
-- **2)** dane identyfikacyjne statku: numer identyfikacyjny nadany przez Międzynarodową Organizację Morską, nazwę, przynależność, sygnał rozpoznawczy, pojemność brutto (GT), rodzaj napędu, metody redukcji emisji, jeżeli są inne niż polegające na stosowaniu paliw niskosiarkowych;
-- **3)** nazwy posiadanych przez statek zbiorników paliwowych i określenie ich pojemności;
-- **4)** podanie typu urządzenia spalinowego oraz jego mocy określonej w kW;
-- **5)** dane dotyczące paliwa żeglugowego dostarczonego na statek uzyskane z dokumentów dostawy paliwa lub na podstawie zapisów w dzienniku maszynowym: datę dostarczenia paliwa, typ paliwa, ilość w m , zawartość siarki w %, nazwę dostawcy paliwa i nazwę portu dostawy paliwa;
-- **6)** dane z Międzynarodowego certyfikatu o zapobieganiu zanieczyszczeniu powietrza przez statki: nazwę organu, który wydał certyfikat, datę wydania, datę ważności, nazwę organu, który przeprowadził inspekcję okresową potwierdzającą ważność certyfikatu, oraz datę i miejsce przeprowadzenia ostatniej inspekcji okresowej;
-- **7)** dane dotyczące pobranej próbki paliwa żeglugowego: typ paliwa, ilość w ml, zawartość siarki w %, źródło poboru próbki, metodę poboru próbki, numer identyfikacyjny próbki, nazwę portu, w którym pobrano próbkę, oraz datę wykonania analizy próbki i nazwę laboratorium przeprowadzającego analizę próbki;
-- **8)** stwierdzone niezgodności z wymaganiami w zakresie zawartości siarki w paliwie żeglugowym, w tym rodzaj uchybienia, oraz działania podjęte w celu osiągnięcia zgodności;
-- **9)** inne dane uzyskane w ramach inspekcji.
+### 2.
 
-8. Z przeprowadzonych inspekcji w zakresie zawartości siarki w paliwie żeglugowym dyrektor urzędu morskiego sporządza corocznie sprawozdanie, które przekazuje do dnia 30 kwietnia następnego roku Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
+Minister Transportu i Gospodarki Morskiej, w porozumieniu z Ministrem Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa, określi, w drodze rozporządzenia, tryb wydawania zezwoleń, o których mowa w ust. 1.
 
-9. Sprawozdanie, o którym mowa w ust. 8, zawiera w szczególności informacje o:
+### Art. 19.
 
-- **1)** całkowitej liczbie przebadanych próbek paliwa żeglugowego z podziałem na rodzaje paliwa żeglugowego;
-- **2)** każdorazowo użytej do badania ilości paliwa żeglugowego i wyliczonej średniej zawartości siarki;
-- **3)** liczbie inspekcji przeprowadzonych na statkach;
-- **4)** średniej zawartości siarki w paliwach żeglugowych stosowanych na obszarze właściwości dyrektora urzędu morskiego, obliczonej na podstawie przeprowadzonych badań oraz przekazanych przez dostawców paliwa informacji.
+Dyrektor urzędu morskiego, na podstawie zawiadomienia dokonanego przez kapitana statku, zgłasza dokonanie zatopienia:
 
-10. Minister właściwy do spraw gospodarki morskiej zapewnia przekazanie Komisji Europejskiej informacji, o których mowa w art. 7 decyzji 2015/253, do dnia 30 czerwca każdego roku.
+### 1)
 
-**Art. 13h.** Dyrektor urzędu morskiego może wyrazić zgodę, aby węglowodory wydobywane przez platformę lub urządzenie wiertnicze były używane jako paliwo, jeżeli będą one używane wyłącznie przez tę platformę lub to urządzenie wiertnicze.
+w przypadkach określonych w art. 9 ust. 4 Konwencji helsińskiej - Komisji Helsińskiej,
 
-**Art. 13i.** Podmiot, który nakłada lub usuwa szkodliwe pokrycia przeciwporostowe, ma obowiązek zapewnić, aby odpady powstałe podczas prac zostały zebrane i poddane procesom przetwarzania zgodnie z ustawą z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
+### 2)
 
-**Art. 13j.**
+w przypadkach określonych w art. V Konwencji o zatapianiu - Międzynarodowej Organizacji Morskiej.
 
-1. Dyrektor urzędu morskiego przekazuje niezwłocznie ministrowi właściwemu do spraw gospodarki morskiej:
+### Art. 20.
 
-- **1)** informację o udzieleniu pozwolenia na przeprowadzenie testów metod redukcji emisji;
-- **2)** wyniki testów metod redukcji emisji;
-- **3)** informację o niemożności nabycia przez kapitana statku paliwa żeglugowego o zawartości siarki dopuszczalnej na danym obszarze morskim.
+Minister Transportu i Gospodarki Morskiej składa właściwym organizacjom międzynarodowym okresowe informacje o wydanych zezwoleniach oraz dokonanych, na ich podstawie, zatopieniach.
 
-2. Minister właściwy do spraw gospodarki morskiej przekazuje Komisji Europejskiej:
+### Rozdział 4 Zwalczanie zanieczyszczeń morza i współpraca międzynarodowa w tym zakresie
 
-- **1)** informację, o której mowa w ust. 1 pkt 1 – w terminie 6 miesięcy przed dniem rozpoczęcia testów metod redukcji emisji;
-- **2)** wyniki, o których mowa w ust. 1 pkt 2 – w terminie 6 miesięcy od dnia zakończenia testów metod redukcji emisji;
-- **3)** informację, o której mowa w ust. 1 pkt 3 – niezwłocznie po jej otrzymaniu.
+### Art. 21.
 
-**Art. 13k.** Dyrektor urzędu morskiego wykonuje zadanie, o którym mowa w art. 19 ust. 3 rozporządzenia 2015/757.
+### 1.
 
-**Art. 13l.** Raport, o którym mowa w art. 11 ust. 1 rozporządzenia 2015/757, przedkłada się dyrektorowi urzędu morskiego właściwemu dla portu macierzystego statku.
+Dyrektor urzędu morskiego, do którego wpłynie meldunek lub sprawozdanie, o których mowa w art. 11, albo który otrzyma z innego źródła wiadomość o zanieczyszczeniu lub zagrożeniu zanieczyszczeniem polskich obszarów morskich, jest obowiązany:
 
-**Art. 13m.**
+### 1)
 
-1. Dyrektor urzędu morskiego wykonuje zadania kontrolne państwa portu, o których mowa w art. 11 rozporządzenia 1257/2013.
+dokonać oceny faktycznej sytuacji w celu ustalenia rodzaju i stopnia zanieczyszczenia morza lub zagrożenia zanieczyszczeniem,
 
-2. Dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku wykonuje zadania organu administracji, o których mowa w przepisach rozporządzenia 1257/2013.
+### 2)
 
-3. Minister właściwy do spraw gospodarki morskiej przekazuje Komisji Europejskiej sprawozdanie, o którym mowa w art. 21 ust. 1 rozporządzenia 1257/2013.
+w razie potrzeby zarządzić i podjąć odpowiednie działania,
 
-**Art. 14.**
+### 3)
 
-1. Minister właściwy do spraw gospodarki morskiej, w porozumieniu z zainteresowanymi ministrami, może określać, w drodze rozporządzenia, szczegółowe przepisy w zakresie zapobiegania zanieczyszczaniu morza przez statki.
+niezwłocznie poinformować właściwe organy innych państw stron Konwencji helsińskiej o istniejącej sytuacji i podjętej lub zamierzonej akcji, jeżeli rozlew przemieszcza się lub może przemieścić się do obszaru morskiego tych państw.
 
-2. Minister właściwy do spraw gospodarki morskiej może, w drodze rozporządzenia, wprowadzić do stosowania zalecenia uchwalone przez Międzynarodową Organizację Morską lub Komisję Ochrony Środowiska Morskiego Morza Bałtyckiego, zwaną dalej „Komisją Helsińską”, mając na względzie właściwą implementację międzynarodowych przepisów w zakresie zapobiegania zanieczyszczaniu morza przez statki.
+### 2.
 
-3. Minister właściwy do spraw gospodarki morskiej może, w drodze rozporządzenia, uznać za obowiązujące przepisy techniczne w zakresie zapobiegania zanieczyszczaniu morza, dotyczące projektowania, konstrukcji i wyposażenia statków, wydane dla:
+W przypadku zanieczyszczenia lub zagrożenia zanieczyszczeniem polskiego obszaru morskiego, dyrektor urzędu morskiego może nakazać kapitanowi:
 
-- **1)** statków klasyfikowanych przez polską instytucję klasyfikacyjną – przez tę instytucję;
-- **2)** statków o przynależności polskiej, będących w klasyfikacji zagranicznych instytucji klasyfikacyjnych – przez te instytucje.
+### 1)
 
-4. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, rodzaje przeglądów i inspekcji oraz sposób, zakres i terminy ich przeprowadzania, sposób wydawania i potwierdzania oraz wzory międzynarodowych świadectw, o których mowa w art. 8, w zakresie ochrony morza przed zanieczyszczaniem przez statki, z uwzględnieniem przepisów międzynarodowych oraz przepisów prawa Unii Europejskiej w zakresie przeprowadzania inspekcji i przeglądów na statkach.
+opuszczenie polskich obszarów morskich przez statek,
 
-#### Rozdział 3 Zatapianie ze statków odpadów i innych substancji
+### 2)
 
-**Art. 15.** Do zatapiania odpadów i innych substancji ze statków stosuje się postanowienia Konwencji o zatapianiu, a na Morzu Bałtyckim również postanowienia Konwencji Helsińskiej 1992.
+przeholowanie, ratowanie statku lub przeprowadzenie niezbędnych napraw,
 
-**Art. 16.**
+### 3)
 
-1. Zabrania się zatapiania odpadów lub innych substancji, z wyjątkiem przypadków określonych w Konwencji Helsińskiej 1992:
+wyładowanie we właściwym miejscu szkodliwych substancji.
 
-- **1)** statkom o polskiej przynależności – na obszarze Morza Bałtyckiego;
-- **2)** statkom o obcej przynależności – na polskich obszarach morskich.
+### Art. 22.
 
-2. Zabrania się na terytorium Polski ładowania na statki, bez względu na ich przynależność, odpadów lub innych substancji przeznaczonych do zatapiania na obszarze Morza Bałtyckiego.
+### 1.
 
-3. Nie zabrania się usuwania do morza urobku z pogłębiania dna, jeżeli zostanie ono dokonane zgodnie z postanowieniami Konwencji Helsińskiej 1992 – pod warunkiem uzyskania odpowiedniego zezwolenia.
+Dyrektor urzędu morskiego, w celu zwalczania zanieczyszczenia na polskich obszarach morskich, może bezpośrednio zwrócić się o pomoc do właściwych organów innych państw stron Konwencji helsińskiej, przede wszystkim tych, które mogą zostać również dotknięte skutkami zanieczyszczenia.
 
-**Art. 17.**
+### 2.
 
-1. Zabrania się zatapiania w morzu, ze statków o polskiej przynależności, odpadów lub innych substancji, wymienionych w załączniku I do Konwencji o zatapianiu, z wyjątkiem przypadków określonych w art. V ust. 1 Konwencji i stosownie do jego postanowień.
+Dyrektor urzędu morskiego, wezwany do udzielenia pomocy przez organ innego państwa strony Konwencji helsińskiej, ma obowiązek podjąć starania w celu udzielenia takiej pomocy.
 
-2. Zabrania się ładowania na terytorium Polski na statki, bez względu na ich przynależność, odpadów lub substancji, o których mowa w ust. 1, z przeznaczeniem do zatopienia ich w morzu, z wyjątkiem przypadków określonych w art. V ust. 2 Konwencji o zatapianiu oraz stosownie do jego postanowień i na podstawie przewidzianego tam zezwolenia.
+### 3.
 
-3. Nie zabrania się zatapiania w morzu ze statków o polskiej przynależności lub ładowania na terytorium Polski na statki, bez względu na ich przynależność, z przeznaczeniem do zatopienia w morzu, odpadów lub innych substancji, wymienionych w załączniku II do Konwencji o zatapianiu, jeżeli uzyskano na to zezwolenie specjalne, a wszelkich odpadów lub substancji innych niż wymienione w załącznikach I i II do tej Konwencji – jeżeli uzyskano na to zezwolenie ogólne.
+W przypadkach przewidzianych w ust. 1 i 2 dyrektor urzędu morskiego powiadamia Komisję Helsińską o podjętych działaniach.
 
-**Art. 18.**
+### Art. 23.
 
-1. Zezwolenia, o których mowa w art. 16 ust. 3 i art. 17 ust. 2 i 3, wydaje dyrektor urzędu morskiego statkom:
+### 1.
 
-- **1)** ładowanym na terytorium Polski;
-- **2)** o polskiej przynależności.
+Dyrektor urzędu morskiego, który otrzyma wiadomość o zanieczyszczeniu na obszarze Morza Bałtyckiego, mogącym stanowić poważną groźbę dla środowiska tego obszaru lub związanych z tym interesów jakiegokolwiek państwa strony Konwencji helsińskiej, po sprawdzeniu, przekazuje niezwłocznie wszystkie odpowiednie informacje właściwym organom państwa, które może być zagrożone skutkiem zanieczyszczenia, łącznie z informacją o zamierzonych lub podjętych działaniach, a w odniesieniu do wypadku dotyczącego statku, przekazuje te informacje również właściwemu organowi państwa przynależności statku.
 
-2. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, szczegółowe warunki, niezbędne dane oraz tryb wydawania zezwoleń, o których mowa w ust. 1, z uwzględnieniem przepisów Konwencji Helsińskiej 1992 oraz Konwencji o zatapianiu.
+### 2.
 
-3. Dyrektor urzędu morskiego może uzależnić wydanie zezwoleń, o których mowa w ust. 1, od przedłożenia przez wnioskodawcę zezwoleń wymaganych na podstawie odrębnych przepisów lub innych dodatkowych dokumentów albo wyników ekspertyz.
+Przesyłanie, do właściwych organów zainteresowanych stron Konwencji helsińskiej, informacji, o których mowa w ust. 1, ponawia się do czasu uzyskania zawiadomienia o podjętych przez te państwa działaniach.
 
-4. Zezwolenia, o których mowa w ust. 1, powinny określać w szczególności:
+### 3.
 
-- **1)** rodzaj zezwolenia;
-- **2)** numer zezwolenia według kolejności jego wydania w danym roku;
-- **3)** okres ważności zezwolenia;
-- **4)** rodzaj usuwanej do morza lub zatapianej w nim substancji oraz jej ilość;
-- **5)** współrzędne geograficzne miejsca usunięcia do morza urobku bądź zatopienia w nim odpadów lub innych substancji;
-- **6)** rodzaj wymaganego opakowania zatapianych w morzu odpadów lub innych substancji;
-- **7)** sposób zatapiania w morzu odpadów lub innych substancji;
-- **8)** sposób powiadamiania o zamierzonych terminach usunięcia do morza urobku z pogłębiania dna oraz zatapiania w morzu odpadów lub innych substancji oraz o fakcie zakończenia tych operacji.
+Jeżeli rozmiar zanieczyszczenia to uzasadnia, dyrektor urzędu morskiego przekazuje informacje, o których mowa w ust. 1, Międzynarodowej Organizacji Morskiej.
 
-**Art. 19.** Dyrektor urzędu morskiego, na podstawie zawiadomienia dokonanego przez kapitana statku, zgłasza dokonanie zatopienia:
+### Art. 24.
 
-**Art. 20.** Minister właściwy do spraw gospodarki morskiej składa właściwym organizacjom międzynarodowym okresowe informacje o wydanych zezwoleniach oraz dokonanych, na ich podstawie, zatopieniach.
+### 1.
 
-#### Rozdział 3a Postępowanie z wodami balastowymi i osadami
+Rada Ministrów określi, w drodze rozporządzenia, organizację i sposób zwalczania zanieczyszczeń na morzu oraz organy i jednostki organizacyjne biorące udział w zwalczaniu tych zanieczyszczeń.
 
-**Art. 20a.** Przepisów dotyczących postępowania z wodami balastowymi i osadami nie stosuje się do statków wymienionych w art. 3 ust. 2 Konwencji BWM.
+### 2.
 
-**Art. 20b.**
+Dyrektor urzędu morskiego może zlecić wykonanie czynności, określonych w art. 21 ust. 1 pkt 3 oraz w art. 22 i 23, kierownikowi jednostki organizacyjnej, biorącej udział w zwalczaniu zanieczyszczeń.
 
-1. Zabroniony jest zrzut do morza wód balastowych niespełniających wymogów Konwencji BWM oraz osadów, z uwzględnieniem art. 20c.
+### Art. 25.
 
-2. W przypadku statku wskazanego w prawidle A-5 załącznika do Konwencji BWM, jeżeli:
+### 1.
 
-- **1)** cechy konstrukcyjne tego statku nie pozwalają na zastosowanie wymagań określonych w Konwencji BWM,
-- **2)** jest to uzasadnione ze względu na rejon lub warunki żeglugi – możliwe jest, na wniosek armatora złożony do dyrektora urzędu morskiego właściwego ze względu na port macierzysty statku, zwolnienie tego statku z obowiązku spełniania wymagań określonych w Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych w przepisach wydanych na podstawie ust. 7.
+Minister Transportu i Gospodarki Morskiej może wydać decyzję o zastosowaniu na polskich obszarach morskich, w stosunku do statków o polskiej przynależności, niezbędnych środków, łącznie z zatopieniem lub zniszczeniem statku, w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego polskim wybrzeżom lub związanym z nimi interesom, powstałego na skutek zanieczyszczenia lub zagrożenia zanieczyszczeniem morza.
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+### 2.
 
-- **1)** podstawowe dane o statku i armatorze:
-    - **a)** nazwę i numer indentyfikacyjny statku,
-    - **b)** nazwę portu macierzystego statku,
-    - **c)** pojemność brutto GT, długość kadłuba [m],
-    - **d)** pojemność balastową statku [m ] (w odniesieniu do wszelkich zbiorników, przestrzeni lub przedziałów na statku używanych dla przewozu, załadunku lub zrzutu wód balastowych),
-    - **e)** nazwę armatora;
+W sytuacji, o której mowa w ust. 1, do obcych statków znajdujących się na polskich obszarach morskich stosuje się odpowiednio postanowienia Międzynarodowej konwencji dotyczącej interwencji na morzu pełnym w razie zanieczyszczenia olejami, sporządzonej w Brukseli dnia 29 listopada 1969 r. ([Dz. U. z 1976 r. Nr 35, poz. 207](https://api.sejm.gov.pl/eli/acts/DU/1976/207/text.html)), oraz uzupełniającego ją Protokołu dotyczącego interwencji na morzu pełnym w razie zanieczyszczenia morza substancjami innymi niż olej, sporządzonego w Londynie dnia 2 listopada 1973 r. ([Dz. U. z 1984 r. Nr 24, poz. 116](https://api.sejm.gov.pl/eli/acts/DU/1984/116/text.html)).
 
-- **2)** informację o przyczynie wnioskowania o zwolnienie;
-- **3)** informację na temat przewidywanych obszarów żeglugi;
-- **4)** informację o rozwiązaniach równoważnych z wymaganiami Konwencji BWM, które zostaną wdrożone na statku.
+### Rozdział 5 Nadzór nad statkami
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się:
+### Art. 26.
 
-- **1)** kopię planu postępowania z wodami balastowymi;
-- **2)** kopię książki zapisów balastowych.
+Dyrektor urzędu morskiego może:
 
-5. Zwolnienie statku z obowiązku spełniania wymagań określonych w Konwencji BWM i wyrażenie zgody na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, określonych w przepisach wydanych na podstawie ust. 7, lub odmowa wydania zwolnienia i wyrażenia zgody następuje w drodze decyzji właściwego dyrektora urzędu morskiego.
+### 1)
 
-6. Statek, który został zwolniony z wymagań określonych w Konwencji BWM i który otrzymał zgodę na zastosowanie rozwiązań równoważnych z wymaganiami Konwencji BWM, otrzymuje odpowiedni wpis w książce zapisów balastowych.
+w stosunku do statku o przynależności do państwa strony Konwencji MARPOL 1973/78:
 
-7. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, rozwiązania równoważne z wymaganiami Konwencji BWM dla statków wskazanych w prawidle A-5 załącznika do Konwencji BWM, mając na uwadze potrzebę zapewnienia odpowiedniego poziomu ochrony środowiska morskiego.
+### a)
 
-8. Za udzielenie zwolnienia, o którym mowa w ust. 2, pobiera się opłatę określoną w załączniku nr 2 do ustawy.
+przeprowadzić, na statku w porcie lub w bazie przeładunkowej na morzu, inspekcje w zakresie i w trybie przewidzianym w art. 28 oraz kontrole książek zapisów olejowych i ładunkowych w celu ustalenia, czy ze statku nie dokonano zrzutu szkodliwych substancji z naruszeniem postanowień Konwencji; wyniki inspekcji ujmuje się w sprawozdaniu, które dyrektor przekazuje armatorowi; jeżeli stwierdzono naruszenie Konwencji przez statek o obcej przynależności, dyrektor urzędu morskiego przekazuje sprawozdanie również organom państwa przynależności statku,
 
-9. Opłata, o której mowa w ust. 8, stanowi dochód budżetu państwa.
+### b)
 
-**Art. 20c.** Do statków uprawiających żeglugę wyłącznie pomiędzy portami Morza Bałtyckiego nie ma zastosowania prawidło D-1 załącznika do Konwencji BWM.
+odmówić statkowi o obcej przynależności zezwolenia na wejście do portu lub do bazy przeładunkowej na morzu albo podjąć działania zapewniające, że uprawianie żeglugi tym statkiem nie będzie stanowiło istotnego zagrożenia dla środowiska morskiego, jeżeli statek nie odpowiada wymaganiom przewidzianym w Konwencji; o odmowie dyrektor urzędu morskiego powiadamia konsula lub przedstawiciela dyplomatycznego państwa przynależności statku, a gdy jest to niemożliwe - inny właściwy organ tego państwa,
 
-**Art. 20d.**
+### c)
 
-1. Dyrektor urzędu morskiego właściwy dla portu zawinięcia statku na wniosek armatora złożony w formie pisemnej może, w drodze decyzji, udzielić statkowi podróżującemu pomiędzy określonymi portami lub miejscami lub statkowi eksploatowanemu wyłącznie pomiędzy określonymi portami lub miejscami zwolnienia, o którym mowa w prawidle A-4 załącznika do Konwencji BWM.
+odmówić statkowi zezwolenia na opuszczenie portu do czasu doprowadzenia tego statku do należytego stanu technicznego, jeżeli istnieją podstawy do podejrzenia, że stan statku lub jego wyposażenia w istotny sposób odbiega od stanu stwierdzonego w posiadanych świadectwach lub gdy statek nie posiada ważnych świadectw; dyrektor tego urzędu może jednak zezwolić takiemu statkowi opuszczenie portu w celu przejścia do najbliższej stoczni remontowej,
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### 2)
 
-- **1)** podstawowe dane o statku i armatorze:
-    - **a)** nazwę i numer identyfikacyjny statku,
-    - **b)** nazwę portu macierzystego statku,
-    - **c)** pojemność brutto GT,
-    - **d)** nazwę armatora,
-    - **e)** znak wywoławczy statku;
+w stosunku do statków o polskiej przynależności, niezależnie od zastosowania środków przewidzianych w pkt 1 lit. a) i c), także odmówić dopuszczenia statku do żeglugi lub cofnąć świadectwa, jeżeli statek nie spełnia wymagań przewidzianych w przepisach ustawy,
 
-- **2)** informacje o stosowanej metodzie postępowania z wodami balastowymi, w tym informacje o systemie obróbki wód balastowych, jeżeli został zainstalowany;
-- **3)** informację o terminie, na jaki wymagane jest zwolnienie (od MM-RRRR do MM-RRRR);
-- **4)** informację o przyczynie wnioskowania o zwolnienie;
-- **5)** informację o trasie objętej zwolnieniem (podanie nazwy portu/portów, w których pobierane będą wody balastowe, oraz nazwy portu, gdzie zrzucane będą wody balastowe);
-- **6)** datę oraz godzinę rozpoczęcia i zakończenia podróży – w przypadku jednorazowej podróży;
-- **7)** informację o częstotliwości rejsów, regularności oraz przewidywanych ilościach wód balastowych, które będą zrzucane w okresie zwolnienia – w przypadku wielokrotnych podróży;
-- **8)** przewidywany czas oraz daty rozpoczęcia i zakończenia rejsów;
-- **9)** informację o wszystkich portach, które statek planuje odwiedzić w okresie zwolnienia, poza portami objętymi zwolnieniem;
-- **10)** informację na temat przewidywanej łącznej liczby podróży oraz ilości wód balastowych, które zostaną zrzucone w ciągu okresu trwania zwolnienia – w przypadku wielokrotnych podróży.
+### 3)
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się:
+w stosunku do statków o przynależności do obcego państwa nie będącego stroną Konwencji MARPOL 1973/78:
 
-- **1)** kopię planu postępowania z wodami balastowymi;
-- **2)** kopię książki zapisów balastowych;
-- **3)** informację z internetowego narzędzia wspomagania decyzji, o którym mowa w ust. 9, o poziomie ryzyka introdukcji szkodliwych organizmów wodnych lub patogenów w związku z usunięciem w polskich obszarach morskich wód balastowych ze statku, którego dotyczy zwolnienie, lub dane niezbędne do oceny poziomu ryzyka za pomocą internetowego narzędzia wspomagania decyzji w przypadku ich braku w internetowym narzędziu.
+### a)
 
-4. Wniosek, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający wniosek zamieszcza w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+przeprowadzić inspekcję statku w celu sprawdzenia, czy stan statku odpowiada podstawowym wymaganiom Konwencji MARPOL 1973/78; w razie stwierdzenia, że stan statku nie odpowiada tym wymaganiom, a uprawianie żeglugi tym statkiem stanowi istotne zagrożenie dla środowiska morskiego, może odmówić statkowi zezwolenia na wejście do portu lub bazy przeładunkowej,
 
-5. Decyzja, o której mowa w ust. 1, jest wydawana po zasięgnięciu opinii o wniosku, o którym mowa w ust. 1, właściwych dla portu zawinięcia statku organów Państwowej Inspekcji Sanitarnej i regionalnego dyrektora ochrony środowiska oraz na podstawie oceny poziomu ryzyka introdukcji szkodliwych organizmów wodnych lub patogenów w związku z usunięciem w polskich obszarach morskich wód balastowych ze statku, którego dotyczy zwolnienie.
+### b)
 
-6. Organy Państwowej Inspekcji Sanitarnej wydają w terminie 14 dni opinię w zakresie zagrożeń sanitarno-epidemiologicznych wynikających z usunięcia wód balastowych statku, którego dotyczy zwolnienie.
+jeżeli inspekcja jest przeprowadzona w porcie lub bazie przeładunkowej, dyrektor urzędu morskiego może zarządzić dokonanie na statku odpowiednich napraw albo opuszczenie portu lub bazy przeładunkowej.
 
-7. Regionalny dyrektor ochrony środowiska wydaje w terminie 14 dni opinię w zakresie zagrożenia dla środowiska wynikającego z usunięcia wód balastowych statku, którego dotyczy zwolnienie, o którym mowa w ust. 1.
+### Art. 27.
 
-8. Organy, o których mowa w ust. 5, wydają negatywną opinię w przypadku stwierdzenia, że usunięcie wód balastowych ze statku, którego dotyczy zwolnienie, może spowodować zagrożenie sanitarno-epidemiologiczne lub zagrożenie inwazją gatunków obcych w polskich obszarach morskich.
+Dyrektor urzędu morskiego może:
 
-9. Poziom ryzyka introdukcji szkodliwych organizmów wodnych lub patogenów, o którym mowa w ust. 5, ustala się za pomocą internetowego narzędzia wspomagania decyzji opracowanego przez Komisję Ochrony Środowiska Morza Bałtyckiego (HELCOM) i Komisję Ochrony Środowiska Morskiego Obszaru Północno-Wschodniego Atlantyku (OSPAR) w ramach „Wspólnej Zharmonizowanej Procedury dla państw-Stron HELCOM i OSPAR w zakresie udzielania zwolnień w ramach Międzynarodowej konwencji o kontroli i postępowaniu ze statkowymi wodami balastowymi i osadami, Prawidło A-4”.
+### 1)
 
-10. Dyrektor urzędu morskiego wydaje decyzję o udzieleniu zwolnienia, o której mowa w ust. 1, w przypadku poziomu ryzyka introdukcji szkodliwych organizmów wodnych lub patogenów, o którym mowa w ust. 5, ustalonego jako „niski”.
+zażądać od statku przepływającego przez polskie obszary morskie informacji dotyczących identyfikacji, portu rejestracji, ostatniego i następnego portu zawinięcia oraz innych niezbędnych informacji, w razie uzasadnionego podejrzenia, że statek płynąc przez te obszary naruszył przepisy ustawy, powodując zanieczyszczenie lub zagrożenie zanieczyszczeniem,
 
-11. Dyrektor urzędu morskiego odmawia udzielenia zwolnienia, o którym mowa w ust. 1, jeżeli poziom ryzyka introdukcji szkodliwych organizmów wodnych lub patogenów, o którym mowa w ust. 5, jest ustalony jako „wysoki” albo „średni”, lub na podstawie negatywnej opinii przynajmniej jednego z organów, o których mowa w ust. 5.
+### 2)
 
-12. Za udzielenie zwolnienia, o którym mowa w ust. 1, pobiera się opłatę określoną w załączniku nr 2 do ustawy.
+przeprowadzić inspekcję statku przepływającego przez polskie obszary morskie, w razie:
 
-13. Opłata, o której mowa w ust. 12, stanowi dochód budżetu państwa.
+### a)
 
-14. Dyrektor urzędu morskiego dokonuje wpisu o udzielonym zwolnieniu, o którym mowa w ust. 1, do książki zapisów balastowych statku.
+uzasadnionego podejrzenia, że naruszył przepisy ustawy wskutek zrzutu powodującego lub grożącego znacznym zanieczyszczeniem morza,
 
-15. Kopię decyzji, o której mowa w ust. 1, dyrektor właściwego urzędu morskiego niezwłocznie doręcza ministrowi właściwemu do spraw gospodarki morskiej.
+### b)
 
-16. Minister właściwy do spraw gospodarki morskiej niezwłocznie przekazuje informację o udzielonym zwolnieniu, o którym mowa w ust. 1:
+odmowy udzielenia informacji, o których mowa w pkt 1, lub jeżeli informacja podana przez statek jest w sposób oczywisty różna od stanu faktycznego, a okoliczności sprawy uzasadniają taką inspekcję.
 
-- **1)** władzom państwa bandery statku;
-- **2)** państwom-stronom Konwencji Helsińskiej 1992 i OSPAR;
-- **3)** Międzynarodowej Organizacji Morskiej.
+### Art. 28.
 
-17. Dyrektor urzędu morskiego, który udzielił zwolnienia, o którym mowa w ust. 1, cofa je, w drodze decyzji:
+### 1.
 
-- **1)** w przypadku gdy statek przestał spełniać warunki, o których mowa w prawidle A-4 załącznika do Konwencji BWM, lub
-- **2)** na wniosek organów Państwowej Inspekcji Sanitarnej lub Regionalnego Dyrektora Ochrony Środowiska, w przypadku stwierdzenia przez te organy, że stan wód morskich może spowodować zagrożenie sanitarno-epidemiologiczne lub zagrożenie dla środowiska, w przypadku ich pobrania i zrzutu jako wody balastowe przez statek.
+Inspekcja statku o przynależności do państwa strony Konwencji MARPOL 1973/78 powinna być ograniczona do sprawdzenia świadectw i innych dokumentów przewidzianych w tej Konwencji.
 
-18. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzór wniosku o udzielenie zwolnienia, o którym mowa w ust. 1, kierując się potrzebą zapewnienia kompletności i przejrzystości informacji.
+### 2.
 
-**Art. 20e.**
+Inspekcja może być rozszerzona po sprawdzeniu dokumentów, o których mowa w ust. 1, wyłącznie gdy:
 
-1. Podmiot, który dokonuje czyszczenia lub naprawy zbiorników wód balastowych, ma obowiązek zapewnić urządzenia do odbioru osadów powstających podczas czyszczenia lub naprawy zbiorników, spełniające potrzeby korzystających z nich statków w zakresie wydajności oraz zapewnienia, że działanie tych urządzeń nie powoduje bezpodstawnych opóźnień statków, a także, że osady usuwane są w sposób bezpieczny dla środowiska, zdrowia ludzkiego, mienia oraz zasobów.
+### 1)
 
-2. Odpady powstałe podczas czyszczenia lub naprawy zbiorników wód balastowych są zbierane i poddawane procesom przetwarzania zgodnie z ustawą z dnia 14 grudnia 2012 r. o odpadach.
+istnieje uzasadnione podejrzenie, że stan statku lub jego wyposażenie odbiega w istotny sposób od stanu stwierdzonego w jego dokumentach,
 
-**Art. 20f.**
+### 2)
 
-1. Kapitan statku przed zawinięciem do portu znajdującego się na terytorium Rzeczypospolitej Polskiej jest obowiązany do przekazania kapitanowi tego portu informacji na temat aktualnej ilości wód balastowych na statku oraz przeprowadzonych operacji balastowych na statku.
+treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia albo
 
-2. Informacje, o których mowa w ust. 1, są przekazywane nie później niż na 24 godziny przed zawinięciem statku do portu lub przystani morskiej za pomocą Krajowego Pojedynczego Punktu Kontaktowego na formularzu, którego wzór jest określony w przepisach wydanych na podstawie ust. 3.
+### 3)
 
-3. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzór formularza dotyczącego przekazywania informacji, o których mowa w ust. 1, kierując się koniecznością ujednolicenia zakresu przekazywanych informacji oraz potrzebą zapewnienia kontroli w odniesieniu do operacji balastowych na statkach przebywających w polskich obszarach morskich.
+statek nie posiada ważnych świadectw z załącznikami.
 
-4. W przypadku gdy podróż statku trwa krócej niż 24 godziny, informacje, o których mowa w ust. 1, są przekazywane nie później niż w chwili opuszczenia przez statek portu poprzedniego.
+### 3.
 
-5. Jeżeli port przeznaczenia nie jest znany lub zmienia się podczas podróży, informacje są przekazywane niezwłocznie po uzyskaniu informacji o porcie przeznaczenia.
+Inspekcja nie może wpłynąć na przetrzymywanie statku w porcie.
 
-#### Rozdział 4 Zwalczanie zanieczyszczeń morza i współpraca międzynarodowa w tym zakresie
+### Rozdział 6 Zasady postępowania dyrektora urzędu morskiego
 
-**Art. 21.**
+### Art. 29.
 
-1. Dyrektor urzędu morskiego, do którego wpłynie meldunek lub sprawozdanie, o których mowa w art. 11, albo który otrzyma z innego źródła wiadomość o zanieczyszczeniu lub zagrożeniu zanieczyszczeniem polskich obszarów morskich, jest obowiązany:
+Dyrektor urzędu morskiego jest obowiązany przeprowadzić postępowanie, o którym mowa w niniejszym rozdziale:
 
-- **1)** dokonać oceny faktycznej sytuacji w celu ustalenia rodzaju i stopnia zanieczyszczenia morza lub zagrożenia zanieczyszczeniem;
-- **2)** w razie potrzeby zarządzić i podjąć odpowiednie działania;
-- **3)** niezwłocznie poinformować właściwe organy innych państw stron Konwencji Helsińskiej 1992 o istniejącej sytuacji i podjętej lub zamierzonej akcji, jeżeli rozlew przemieszcza się lub może przemieścić się do obszaru morskiego tych państw.
+### 1)
 
-2. W przypadku zanieczyszczenia lub zagrożenia zanieczyszczeniem polskiego obszaru morskiego, dyrektor urzędu morskiego może nakazać kapitanowi:
+w odniesieniu do statku o polskiej przynależności:
 
-- **1)** opuszczenie polskich obszarów morskich przez statek;
-- **2)** przeholowanie, ratowanie statku lub przeprowadzenie niezbędnych napraw;
-- **3)** wyładowanie we właściwym miejscu szkodliwych substancji;
-- **4)** skierowanie statku do miejsca schronienia.
+### a)
 
-**Art. 22.**
+który spowodował zanieczyszczenie środowiska morskiego lub zagrożenie zanieczyszczeniem, z naruszeniem przepisów ustawy,
 
-1. Dyrektor urzędu morskiego, w celu zwalczania zanieczyszczenia na polskich obszarach morskich, może bezpośrednio zwrócić się o pomoc do właściwych organów innych państw stron Konwencji Helsińskiej 1992, przede wszystkim tych, które mogą zostać również dotknięte skutkami zanieczyszczenia.
+### b)
 
-2. Dyrektor urzędu morskiego, wezwany do udzielenia pomocy przez organ innego państwa strony Konwencji Helsińskiej 1992, ma obowiązek podjąć starania w celu udzielenia takiej pomocy.
+na wniosek organu każdego państwa, w razie podejrzenia naruszenia przepisów ustawy, jeżeli zostały zabezpieczone dowody,
 
-3. W przypadkach przewidzianych w ust. 1 i 2 dyrektor urzędu morskiego powiadamia Komisję Helsińską o podjętych działaniach.
+### 2)
 
-**Art. 23.**
+w odniesieniu do statku o obcej przynależności, przebywającego w porcie polskim lub bazie przeładunkowej, który spowodował zanieczyszczenie środowiska morskiego lub zagrożenie zanieczyszczeniem na polskich obszarach morskich, naruszając przepisy ustawy.
 
-1. Dyrektor urzędu morskiego, który otrzyma wiadomość o zanieczyszczeniu na obszarze Morza Bałtyckiego, mogącym stanowić poważną groźbę dla środowiska tego obszaru lub związanych z tym interesów jakiegokolwiek państwa strony Konwencji Helsińskiej 1992, po sprawdzeniu, przekazuje niezwłocznie wszystkie odpowiednie informacje właściwym organom państwa, które może być zagrożone skutkiem zanieczyszczenia, łącznie z informacją o zamierzonych lub podjętych działaniach, a w odniesieniu do wypadku dotyczącego statku, przekazuje te informacje również właściwemu organowi państwa przynależności statku.
+### Art. 30.
 
-2. Przesyłanie, do właściwych organów zainteresowanych państw stron Konwencji Helsińskiej 1992, informacji, o których mowa w ust. 1, ponawia się do czasu uzyskania zawiadomienia o podjętych przez te państwa działaniach.
+Dyrektor urzędu morskiego jest obowiązany przeprowadzić także postępowanie w odniesieniu do statku o obcej przynależności, przebywającego w polskim porcie lub bazie przeładunkowej, na wniosek:
 
-3. Jeżeli rozmiar zanieczyszczenia to uzasadnia, dyrektor urzędu morskiego przekazuje informacje, o których mowa w ust. 1, Międzynarodowej Organizacji Morskiej.
+### 1)
 
-**Art. 23a.** Zadania w zakresie zwalczania zagrożeń i zanieczyszczeń na morzu wykonuje Morska Służba Poszukiwania i Ratownictwa, określona przepisami ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim.
+organu każdego państwa, w razie podejrzenia zrzutu przez ten statek poza polskim obszarem morskim, jeżeli zrzut ten spowodował lub zagroził zanieczyszczeniem na jego wodach wewnętrznych, morzu terytorialnym lub w wyłącznej strefie ekonomicznej,
 
-**Art. 23b.**
+### 2)
 
-1. Podmiot zarządzający portem lub przystanią morską oraz podmiot prowadzący działalność i użytkujący nabrzeże w granicach portu morskiego lub przystani morskiej, którego działalność może powodować zagrożenie zanieczyszczenia wód portowych, jest obowiązany do opracowania i aktualizacji planów zwalczania zagrożeń i zanieczyszczeń wód portowych.
+organu państwa strony Konwencji MARPOL 1973/78 w sprawie takiego zrzutu, niezależnie od miejsca jego dokonania.
 
-2. Plany, o których mowa w ust. 1, podlegają uzgodnieniu z dyrektorem Morskiej Służby Poszukiwania i Ratownictwa oraz właściwym komendantem wojewódzkim Państwowej Straży Pożarnej.
+### Art. 31.
 
-3. Uzgodnione plany, o których mowa w ust. 1, zatwierdza, w drodze decyzji, dyrektor urzędu morskiego właściwy dla obszaru położenia portu. Dyrektor urzędu morskiego prowadzi ewidencję tych planów.
+Dyrektor urzędu morskiego może wszcząć postępowanie, w razie zabezpieczenia dowodów, w odniesieniu do statku o obcej przynależności, który:
 
-4. W portach wojennych plany, o których mowa w ust. 1, są opracowywane, aktualizowane i uzgadniane przez komendanta portu wojennego.
+### 1)
 
-5. Kompetencje dyrektora urzędu morskiego, o którym mowa w ust. 3, w stosunku do planów, o których mowa w ust. 4, wykonuje Dowódca Generalny Rodzajów Sił Zbrojnych.
+przebywa w porcie polskim lub w bazie przeładunkowej, jeżeli spowodował zanieczyszczenie lub zagrożenie zanieczyszczeniem poza polskimi obszarami morskimi, z naruszeniem uznanych norm międzynarodowych,
 
-6. Na pisemny wniosek podmiotu prowadzącego działalność i użytkującego nabrzeże w granicach portu morskiego lub przystani morskiej, dyrektor urzędu morskiego właściwy dla obszaru położenia portu lub przystani morskiej może udzielić, w drodze decyzji, zwolnienia z obowiązku opracowania planu zwalczania zagrożeń i zanieczyszczeń wód portowych.
+### 2)
 
-7. Wniosek, o którym mowa w ust. 6, zawiera:
+płynąc po polskim morzu terytorialnym spowodował zanieczyszczenie lub zagrożenie zanieczyszczeniem tego obszaru morza,
 
-- **1)** nazwę albo imię i nazwisko wnioskodawcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania i adres wnioskodawcy;
-- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) lub numer w Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), jeżeli zostały nadane.
+### 3)
 
-8. Do wniosku, o którym mowa w ust. 6, dołącza się:
+płynąc po polskiej wyłącznej strefie ekonomicznej lub morzu terytorialnym, wskutek zanieczyszczenia w wyłącznej strefie ekonomicznej, spowodował poważną szkodę lub zagrożenie poważną szkodą dla wybrzeży albo innych istotnych interesów państwa.
 
-- **1)** dokument nabycia lub użytkowania nieruchomości;
-- **2)** kopię mapy zasadniczej z zaznaczonym obrysem działki lub działek oraz nabrzeża, na których użytkownik portu lub przystani morskiej prowadzi działalność;
-- **3)** informację o stosowanych rozwiązaniach chroniących środowisko.
+### Art. 32.
 
-9. W przypadku każdej zmiany w zakresie działalności podmiotu prowadzącego działalność i użytkującego nabrzeże w granicach portu morskiego lub przystani morskiej, podmiot ten obowiązany jest poinformować o tych zmianach w terminie 7 dni od ich wystąpienia dyrektora urzędu morskiego właściwego dla obszaru położenia portu lub przystani morskiej.
+W razie otrzymania wiadomości o:
 
-10. Jeżeli zmiana zakresu działalności podmiotu prowadzącego działalność i użytkującego nabrzeże w granicach portu morskiego lub przystani morskiej powoduje zagrożenie zanieczyszczenia wód portowych, dyrektor urzędu morskiego właściwy dla obszaru położenia portu lub przystani morskiej, w terminie 7 dni od otrzymania informacji o zmianie, o której mowa w ust. 9, w drodze decyzji, cofa zwolnienie, o którym mowa w ust. 6, określając termin na sporządzenie planu zwalczania zagrożeń i zanieczyszczeń wód portowych przez ten podmiot.
+### 1)
 
-11. Termin na opracowanie przez podmiot, o którym mowa w ust. 9, planu zwalczania zagrożeń i zanieczyszczeń wód portowych nie może być krótszy niż 14 dni.
+zanieczyszczeniu morza przez statki,
 
-12. Kopię decyzji, o której mowa w ust. 6 oraz w ust. 10, dyrektor urzędu morskiego właściwy dla obszaru położenia portu lub przystani morskiej przekazuje podmiotowi zarządzającemu portem lub przystanią morską, w granicach których podmiot prowadzi działalność i użytkuje nabrzeże.
+### 2)
 
-13. Przepisu ust. 1 nie stosuje się do podmiotu prowadzącego działalność i użytkującego nabrzeże w granicach portu morskiego lub przystani morskiej, w przypadku gdy zagrożenia i działania związane z likwidacją zanieczyszczeń wynikających z działalności tego podmiotu zostały ujęte w planie zwalczania zagrożeń i zanieczyszczeń wód portowych opracowanym przez podmiot zarządzający portem lub przystanią morską, na terenie których prowadzona jest działalność i użytkowane jest nabrzeże.
+zatopieniu odpadów lub innych szkodliwych substancji ze statków
 
-**Art. 24.**
+- dyrektor urzędu morskiego powinien niezwłocznie podjąć czynności w celu wykrycia sprawców i zabezpieczenia dowodów.
 
-1. Rada Ministrów, w drodze rozporządzenia, określi:
+### Art. 33.
 
-- **1)** sposób organizacji zwalczania zagrożeń i zanieczyszczeń na morzu, w tym sposób łagodzenia negatywnych skutków dla flory i fauny w granicach obszarów morskich, z uwzględnieniem opieki nad zaolejonymi zwierzętami,
-- **2)** jednostki organizacyjne współdziałające w zakresie zwalczania zagrożeń na morzu z Morską Służbą Poszukiwania i Ratownictwa,
-- **3)** podmiot właściwy do opracowania krajowego planu zwalczania zagrożeń i zanieczyszczeń środowiska morskiego, elementy składowe oraz sposób opracowania, konsultowania i ogłaszania tego planu,
-- **4)** zadania organów administracji morskiej w zakresie funkcjonowania systemu zwalczania zanieczyszczeń na morzu,
-- **5)** zadania i uprawnienia Morskiej Służby Poszukiwania i Ratownictwa w organizowaniu i koordynowaniu akcji zwalczania zagrożeń lub zanieczyszczeń na morzu,
-- **6)** zasady i sposób udostępniania w ramach współpracy międzynarodowej informacji o gotowości do zwalczania zagrożeń i zanieczyszczeń środowiska morskiego, mając na względzie celowość i sprawność działań na rzecz ochrony środowiska morskiego, a także zgodność z postanowieniami konwencji i umów międzynarodowych oraz zaleceń organizacji międzynarodowych w tym zakresie.
+Dyrektor urzędu morskiego niezwłocznie zawiadamia właściwy organ państwa przynależności statku i każdego innego zainteresowanego państwa o działaniach i środkach podjętych zgodnie z ustawą i przekazuje im odpowiednie dokumenty dotyczące tych działań i środków.
 
-2. Dyrektor urzędu morskiego może zlecić wykonanie czynności, określonych w art. 21 ust. 1 pkt 3 oraz w art. 22 i 23, kierownikowi jednostki organizacyjnej, biorącej udział w zwalczaniu zanieczyszczeń.
+### Art. 34.
 
-**Art. 25.**
+### 1.
 
-1. Minister właściwy do spraw gospodarki morskiej może wydać decyzję o zastosowaniu na polskich obszarach morskich, w stosunku do statków o polskiej przynależności, niezbędnych środków, łącznie z zatopieniem lub zniszczeniem statku, w celu zapobieżenia, ograniczenia lub usunięcia poważnego i bezpośredniego niebezpieczeństwa grożącego polskim wybrzeżom lub związanym z nimi interesom, powstałego na skutek zanieczyszczenia lub zagrożenia zanieczyszczeniem morza.
+Dyrektor urzędu morskiego w toku postępowania:
 
-2. W sytuacji, o której mowa w ust. 1, do obcych statków znajdujących się na polskich obszarach morskich stosuje się odpowiednio postanowienia Międzynarodowej konwencji dotyczącej interwencji na morzu pełnym w razie zanieczyszczenia olejami, sporządzonej w Brukseli dnia 29 listopada 1969 r. (Dz. U. z 1976 r. poz. 207 i 208), oraz uzupełniającego ją Protokołu dotyczącego interwencji na morzu pełnym w razie zanieczyszczenia morza substancjami innymi niż olej, sporządzonego w Londynie dnia 2 listopada 1973 r. (Dz. U. z 1984 r. poz. 116 i 117).
+### 1)
 
-#### Rozdział 5 Nadzór nad statkami
+dopuszcza dowody zgłoszone przez organy innego państwa,
 
-**Art. 26.** Dyrektor urzędu morskiego może:
+### 2)
 
-**Art. 27.** Dyrektor urzędu morskiego może:
+ułatwia udział w postępowaniu przedstawicielom właściwej organizacji międzynarodowej, państwa przynależności statku oraz każdego państwa dotkniętego zanieczyszczeniem morza,
 
-**Art. 28.**
+### 3)
 
-1. Inspekcja statku o przynależności do państwa strony Konwencji MARPOL lub Konwencji BWM ogranicza się do sprawdzenia świadectw i innych dokumentów przewidzianych w tych konwencjach.
+w przypadku określonym w art. 29 pkt 1, może zwrócić się do właściwych organów innego państwa o pomoc w wyjaśnianiu sprawy, jak również rozpatrywać wnioski innych państw w tym zakresie,
 
-2. Inspekcja może być rozszerzona po sprawdzeniu dokumentów, o których mowa w ust. 1, wyłącznie gdy:
+### 4)
 
-- **1)** istnieje uzasadnione podejrzenie, że stan statku lub jego wyposażenie odbiega w istotny sposób od stanu stwierdzonego w jego dokumentach;
-- **2)** treść dokumentów nie jest wystarczająca do potwierdzenia lub sprawdzenia podejrzanego naruszenia;
-- **3)** statek nie posiada ważnych świadectw z załącznikami;
-- **4)** na statku nie wdrożono procedur postępowania z wodami balastowymi i osadami wymaganych Konwencją BWM.
+w przypadkach określonych w art. 29-32, może zatrzymać statek, jednak nie dłużej niż jest to konieczne do celów postępowania.
 
-3. Inspekcja nie może wpłynąć na nieuzasadnione przetrzymywanie statku w porcie.
+### 2.
 
-**Art. 28a.**
+Jeżeli postępowanie wykaże naruszenie postanowień ustawy, z zastrzeżeniem art. 26 pkt 1 lit. c), statek zostanie niezwłocznie zwolniony po wpłaceniu kaucji lub złożeniu innego odpowiedniego zabezpieczenia finansowego.
 
-1. Jeżeli przeprowadzona inspekcja potwierdzi, że statek nie przestrzega przepisów ustawy w zakresie zdawania odpadów do portowych urządzeń odbiorczych, dyrektor właściwego urzędu morskiego odmawia zgody na opuszczenie portu przez statek, aż do momentu zdania tych odpadów.
+### Art. 35.
 
-1a. Jeżeli przeprowadzona inspekcja wykaże, że wody balastowe statku stanowią zagrożenie dla środowiska, zdrowia ludzkiego, zasobów lub mienia, właściwy dyrektor urzędu morskiego zakazuje zrzutu wód balastowych do czasu usunięcia zagrożenia.
+Do postępowania określonego w przepisach niniejszego rozdziału stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
 
-2. Jeżeli istnieje uzasadnione podejrzenie, że statek opuścił port nie dopełniając ciążących na nim obowiązków w zakresie informowania oraz zdawania odpadów, dyrektor właściwego urzędu morskiego niezwłocznie informuje o tym fakcie właściwe władze administracji morskiej w następnym porcie, do którego zawija statek.
+### Rozdział 7 Kary pieniężne
 
-3. Jeżeli dyrektor urzędu morskiego otrzyma informację, że do portu morskiego znajdującego się w terytorialnym zakresie jego działania zmierza statek, który opuścił inny port z naruszeniem przepisów w zakresie informowania oraz zdawania odpadów lub był eksploatowany z naruszeniem postanowień Konwencji BWM, zapewnia przeprowadzenie inspekcji tego statku przed udzieleniem pozwolenia na jego wyjście w morze.
+### Art. 36.
 
-#### Rozdział 6 Zasady postępowania dyrektora urzędu morskiego
+### 1.
 
-**Art. 29.** Dyrektor urzędu morskiego jest obowiązany przeprowadzić postępowanie, o którym mowa w niniejszym rozdziale:
+Armatorowi, z którego statku podczas przebywania w polskich obszarach morskich dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia środowiska morskiego, w związku z eksploatacją statku lub zatopieniem w morzu odpadów i innych substancji - wymierza się karę pieniężną o równowartości do 1 000 000 jednostek obliczeniowych, zwanych Specjalnym Prawem Ciągnienia (SDR), określonych przez Międzynarodowy Fundusz Walutowy.
 
-**Art. 30.** Dyrektor urzędu morskiego jest obowiązany przeprowadzić także postępowanie w odniesieniu do statku o obcej przynależności, przebywającego w polskim porcie lub bazie przeładunkowej, na wniosek:
+### 2.
 
-**Art. 31.** Dyrektor urzędu morskiego wszczyna postępowanie, w celu zabezpieczenia dowodów, w odniesieniu do statku o obcej przynależności, który:
+Karze, o której mowa w ust. 1, podlega armator statku o polskiej przynależności, z którego dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia środowiska morskiego poza polskimi obszarami morskimi, w związku z eksploatacją statku lub zatopieniem w morzu odpadów albo innych substancji, bez wymaganego zezwolenia lub wbrew jego warunkom.
 
-**Art. 32.** W razie otrzymania wiadomości o:
+### Art. 37.
 
-**Art. 33.** Dyrektor urzędu morskiego niezwłocznie zawiadamia właściwy organ państwa:
+Jeżeli kapitan lub inny członek załogi statku nie wykonując, ciążących na nim z mocy prawa, obowiązków:
 
-**Art. 34.**
+### 1)
 
-1. Dyrektor urzędu morskiego w toku postępowania:
+nie dba o zdatność statku do żeglugi lub innej działalności na morzu w zakresie zapobiegania zanieczyszczaniu morza,
 
-- **1)** dopuszcza dowody zgłoszone przez organy innego państwa;
-- **2)** ułatwia udział w postępowaniu przedstawicielom właściwej organizacji międzynarodowej, państwa przynależności statku oraz każdego państwa dotkniętego zanieczyszczeniem morza;
-- **3)** w przypadku określonym w art. 29 pkt 1, może zwrócić się do właściwych organów innego państwa o pomoc w wyjaśnieniu sprawy, jak również rozpatrywać wnioski innych państw w tym zakresie;
-- **4)** w przypadkach określonych w art. 29–32, może zatrzymać statek, jednak nie dłużej niż to jest konieczne do celów postępowania.
+### 2)
 
-2. Jeżeli postępowanie wykaże naruszenie postanowień ustawy, z zastrzeżeniem art. 26 pkt 1 lit. c, statek zostanie niezwłocznie zwolniony po wpłaceniu kaucji lub złożeniu innego odpowiedniego zabezpieczenia finansowego.
+nie prowadzi książki zapisów olejowych lub ładunkowych,
 
-**Art. 34a.** Dyrektor urzędu morskiego powiadamia ministra właściwego do spraw gospodarki morskiej, Komisję Europejską, EMSA, pozostałe państwa członkowskie Unii Europejskiej oraz zainteresowane państwo bandery o zastosowanych sankcjach, o których mowa w art. 20 ust. 2 rozporządzenia 2015/757.
+### 3)
 
-**Art. 34b.**
+nie zgłasza statku do przeglądu lub inspekcji, utrudnia bądź uniemożliwia przegląd lub inspekcję w zakresie przewidzianym w Konwencji MARPOL 1973/78,
 
-1. W przypadku określonym w art. 20 ust. 3 rozporządzenia 2015/757, dyrektor urzędu morskiego, w drodze decyzji, wydaje statkowi o obcej przynależności nakaz opuszczenia portu, o czym powiadamia ministra właściwego do spraw gospodarki morskiej, Komisję Europejską, EMSA, pozostałe państwa członkowskie Unii Europejskiej oraz zainteresowane państwo bandery. Decyzji nadaje się rygor natychmiastowej wykonalności.
+### 4)
 
-2. Dyrektor urzędu morskiego, w drodze decyzji, wydaje zakaz wejścia do portu statkowi o obcej przynależności, wobec którego w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej wydano nakaz opuszczenia portu z powodu nieprzechowywania na statku ważnego dokumentu zgodności w rozumieniu art. 3 lit. h rozporządzenia 2015/757, do czasu przedstawienia tego dokumentu.
+powoduje zanieczyszczenie morza,
 
-**Art. 34c.** Dyrektor urzędu morskiego niezwłocznie przekazuje Prezesowi Wyższego Urzędu Górniczego kopię decyzji kończącej postępowanie, o którym mowa w art. 29, jeżeli dotyczy ona zdarzenia związanego z działalnością polegającą na poszukiwaniu, rozpoznawaniu lub wydobywaniu węglowodorów ze złóż w granicach obszarów morskich Rzeczypospolitej Polskiej.
+### 5)
 
-**Art. 35.**
+nie składa meldunku o zauważonym zanieczyszczeniu albo sprawozdania o wypadku zagrożenia zanieczyszczeniem lub zanieczyszczenia środowiska morskiego,
 
-1. Do postępowania określonego w przepisach niniejszego rozdziału stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+### 6)
 
-2. W przypadku konieczności natychmiastowego opuszczenia portu przez statek, w stosunku do którego powzięto podejrzenie używania paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim, a znane są już wyniki badania laboratoryjnego próbki paliwa potwierdzające używanie przez ten statek takiego paliwa żeglugowego, nie stosuje się przepisów art. 10 § 1, art. 39 , art. 39 , art. 45, art. 49b, art. 79 i art. 79a ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+nie podejmuje koniecznych środków w celu zapobiegania zanieczyszczaniu, ograniczenia lub usunięcia zanieczyszczenia środowiska morskiego, będącego skutkiem wypadku,
 
-3. Decyzję dyrektora urzędu morskiego właściwego dla obszaru położenia portu zawierającą sankcję karną za używanie paliwa żeglugowego o zawartości siarki większej niż dopuszczalna na danym obszarze morskim doręcza się bezpośrednio kapitanowi statku lub jego przedstawicielowi na podstawie art. 39 i art. 40 § 1 lub 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+### 7)
 
-#### Rozdział 6a Przepisy karne
+nie przekazuje, na żądanie właściwych organów, informacji w przypadkach przewidzianych w art. 27,
 
-**Art. 35a.**
+### 8)
 
-1. Kto usuwa ze statku substancje objęte załącznikami I (olej) i II (szkodliwe substancje ciekłe) do Konwencji MARPOL w takiej ilości lub takiej postaci, że może to doprowadzić do pogorszenia jakości wody, zagrażać życiu lub zdrowiu wielu osób lub spowodować zniszczenie fauny i flory morskiej w znacznych rozmiarach, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+nie zdaje w porcie lub w stoczni remontowej pozostałości substancji szkodliwych do urządzeń lądowych, jeżeli objętość pozostałych na statku substancji szkodliwych przekracza pojemność urządzeń statkowych, przy uwzględnieniu technicznych urządzeń do nieszkodliwego ich usuwania,
 
-2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+### 9)
 
-#### Rozdział 7 Kary pieniężne
+nie zgłasza organom inspekcyjnym zdarzeń wpływających poważnie na stan techniczny statku, jego urządzeń lub wyposażenia, powodujących zagrożenie dla środowiska morskiego,
 
-**Art. 36.**
+podlega karze pieniężnej do wysokości nie przekraczającej dwudziestokrotnego przeciętnego wynagrodzenia miesięcznego wynagrodzenia w gospodarce narodowej za rok poprzedzający, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
 
-1. Armatorowi statku, z którego podczas przebywania w polskich obszarach morskich dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia, w związku z eksploatacją statku lub zatopieniem w morzu odpadów i innych substancji – wymierza się karę pieniężną o równowartości do 1 000 000 jednostek obliczeniowych, zwanych Specjalnym Prawem Ciągnienia (SDR), określanych przez Międzynarodowy Fundusz Walutowy.
+### Art. 38.
 
-2. Tej samej karze podlega również armator statku o polskiej przynależności, z którego dokonano, z naruszeniem przepisów ustawy, zanieczyszczenia poza polskimi obszarami morskimi, w związku z eksploatacją statku lub zatopieniem w morzu odpadów lub innych substancji, bez wymaganego zezwolenia lub wbrew jego warunkom.
+Właściwość organów oraz tryb wymierzania i ściągania kar pieniężnych z tytułu naruszenia przepisów, o których mowa w art. 36 i 37, oraz sposób wykorzystania kwot ściągniętych z tytułu kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html) i z [1995 r. Nr 7, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1995/31/text.html)).
 
-**Art. 36a.** Jeżeli armator statku, nie wykonując ciążących na nim z mocy prawa obowiązków lub łamiąc ustanowione prawem zakazy:
+### Rozdział 8 Zmiany w przepisach obowiązujących i przepisy końcowe
 
-**Art. 36b.** Załadowca, który nie dopełnia obowiązku określonego w art. 10b, podlega karze pieniężnej do wysokości 50 000 SDR.
+### Art. 39.
 
-**Art. 36c.** Dostawca, który dostarczając paliwo nie wykonuje ciążących na nim obowiązków, określonych w art. 13e ust. 2–6 i 13f, podlega karze pieniężnej do wysokości 50 000 SDR.
+W ustawie z dnia 24 października 1974 r. - Prawo wodne ([Dz. U. Nr 38, poz. 230](https://api.sejm.gov.pl/eli/acts/DU/1974/230/text.html), z [1980 r. Nr 3, poz. 6](https://api.sejm.gov.pl/eli/acts/DU/1980/6/text.html), z [1983 r. Nr 44, poz. 201](https://api.sejm.gov.pl/eli/acts/DU/1983/201/text.html), z [1989 r. Nr 26, poz. 139](https://api.sejm.gov.pl/eli/acts/DU/1989/139/text.html) i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 39, poz. 222](https://api.sejm.gov.pl/eli/acts/DU/1990/222/text.html), z [1991 r. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html) i [Nr 77, poz. 335](https://api.sejm.gov.pl/eli/acts/DU/1991/335/text.html), z [1993 r. Nr 40, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1993/183/text.html) oraz z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html)) wprowadza się następujące zmiany:
 
-**Art. 37.** Jeżeli kapitan lub inny członek załogi statku nie wykonując, ciążących na nim z mocy prawa, obowiązków:
+### 1)
 
-**Art. 37a.** Kto nie wykonuje obowiązków określonych w przepisach rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 782/2003 z dnia 14 kwietnia 2003 r. w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz rozporządzenia Komisji (WE) nr 536/2008 z dnia 13 czerwca 2008 r. nadającego moc art. 6 ust. 3 i art. 7 rozporządzenia (WE) nr 782/2003 Parlamentu Europejskiego i Rady w sprawie zakazu stosowania związków cynoorganicznych na statkach oraz zmieniającego to rozporządzenie, podlega karze pieniężnej do wysokości 50 000 SDR.
+art. 7 otrzymuje brzmienie:
 
-**Art. 37b.** Armator albo kapitan statku, który nie przestrzega warunków określonych w decyzji w sprawie zwolnienia, o którym mowa w art. 20d ust. 1, podlega karze pieniężnej do wysokości 200 000 SDR.
+„
 
-**Art. 37c.** Podmiot zarządzający portem lub przystanią morską albo podmiot prowadzący działalność i użytkujący nabrzeże w granicach portu morskiego lub przystani morskiej, który nie wykonuje obowiązków sporządzania nowych lub aktualizacji istniejących planów, zgodnie z art. 23b, podlega karze pieniężnej do wysokości 50 000 SDR.
+### Art. 7.
 
-**Art. 38.**
+### 1.
 
-1. Właściwość organów oraz tryb wymierzania i ściągania kar pieniężnych z tytułu naruszenia przepisów, o których mowa w art. 36–37c, oraz sposób wykorzystania kwot ściągniętych z tytułu kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2024 r. poz. 1125).
+Przepisy ustawy stosuje się do wód śródlądowych.
 
-2. Wysokość kar pieniężnych, o których mowa w art. 36–37c, ustala się z uwzględnieniem zakresu naruszeń, korzyści finansowych uzyskanych z tytułu naruszeń i powtarzalności naruszeń.
+### 2.
 
-3. Kary pieniężnej, o której mowa w art. 36aa ust. 1, nie nakłada się, w przypadku gdy:
+Przepisy ustawy stosuje się również do morskich wód wewnętrznych i morza terytorialnego w zakresie ochrony przed zanieczyszczaniem ze źródeł lądowych i ochrony przed powodzią, a w pozostałym zakresie - w wypadkach w niej określonych.
 
-- **1)** armator statku zastosował zatwierdzone metody redukcji emisji dwutlenku siarki;
-- **2)** przedstawiony dowód, o którym mowa w art. 13g ust. 5, wykazał, że nie było możliwe nabycie paliwa żeglugowego o zawartości siarki dopuszczalnej na danym obszarze morskim.
+” ;
 
-**Art. 38a.** Nie podlega odpowiedzialności przewidzianej w art. 36 ust. 1 lub art. 37 pkt 4 osoba fizyczna, której zachowanie realizuje jednocześnie znamiona przestępstwa określonego w art. 35a, a przestępstwo to zostało stwierdzone prawomocnym wyrokiem skazującym.
+### 2)
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących i przepisy końcowe
+w art. 64 ust. 1 skreśla się wyrazy „morskich oraz na statkach”.
 
-**Art. 41.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+### Art. 40.
 
+W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html) i z [1995 r. Nr 7, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1995/31/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 55 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Przepisu ust. 1 pkt 2 nie stosuje się w przypadkach określonych w przepisach o zapobieganiu zanieczyszczaniu morza przez statki.
+
+” ;
+
+### 2)
+
+art. 60 otrzymuje brzmienie:
+
+„
+
+### Art. 60.
+
+Ściągnięte kwoty z tytułu kar pieniężnych są przychodami środków specjalnych będących w dyspozycji Ministra Transportu i Gospodarki Morskiej, z przeznaczeniem na ochronę środowiska morskiego i żywych zasobów morza.
+
+”
+
+### Art. 41.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.

@@ -8,11 +8,9 @@ pos: 2368
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
-
-*USTAWA 17 listopada zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych niektórych innych ustaw*
+# Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 20 lipca 2017 r. - Prawo wodne, ustawę z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,61 +22,474 @@ domain: null
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2368/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/2368/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/2368) |
 
-**Art. 1.** W ustawie 2 marca 2020 szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 2095, 2120, 2133, 2262, 2269 2317) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie 4 września 1997 działach administracji rządowej (Dz. U. poz. 1893) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie 20 lipca 2017 – Prawo wodne (Dz. U. poz. 2233) wprowadza się następujące zmiany:
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. z 2021 r. poz. 2095](https://api.sejm.gov.pl/eli/acts/DU/2021/2095/text.html), [2120](https://api.sejm.gov.pl/eli/acts/DU/2021/2120/text.html), [2133](https://api.sejm.gov.pl/eli/acts/DU/2021/2133/text.html), [2262](https://api.sejm.gov.pl/eli/acts/DU/2021/2262/text.html), [2269](https://api.sejm.gov.pl/eli/acts/DU/2021/2269/text.html) i [2317](https://api.sejm.gov.pl/eli/acts/DU/2021/2317/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie 9 sierpnia 2019 inwestycjach zakresie budowy portów zewnętrznych (Dz. U. poz. 1853) po 39d dodaje się 39e brzmieniu: „Art. 39e. 1. W roku 2022 minister właściwy spraw budżetu, na wniosek ministra właściwego spraw gospodarki morskiej, przekaże spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna skarbowe papiery wartościowe przeznaczeniem na podwyższenie kapitału zakładowego tej spółki. 2. Wartość nominalna skarbowych papierów wartościowych, których 1, nie może przekroczyć 360 000 000 zł. 3. Łączna wartość nominalna skarbowych papierów wartościowych, których 1, skarbowych papierów wartościowych przekazanych spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna na podstawie 39a, nie może przekroczyć równowartości 150 mln euro. 4. Akcje podwyższonym kapitale zakładowym spółki Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna obejmuje Skarb Państwa. 5. Przepisy 39b–39d stosuje się.”.
+### 1)
 
-**Art. 7.**
+po art. 15zzzt dodaje się art. 15zzzt1 w brzmieniu:
 
-1. W celu przeciwdziałania skutkom COVID-19 minister właściwy spraw transportu przekazuje Polskiej Agencji Żeglugi Powietrznej, zwanej dalej „Agencją”, środki finansowe na pokrycie kosztów realizacji zadań określonych 15zzzzl ustawy zmienianej 1, brzmieniu dotychczasowym, zwanych dalej „zadaniami”, zrealizowanych przez Agencję przed dniem wejścia życie ustawy, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania.
+„
 
-2. Środki finansowe, których 1, pochodzą Funduszu Przeciwdziałania COVID-19, 65 ustawy zmienianej 5.
+### Art. 15zzzt1.
 
-3. Środki finansowe, których 1, są wypłacane wysokości środków zarezerwowanych na ten cel planie Funduszu Przeciwdziałania COVID-19, 65 ustawy zmienianej 5.
+W przypadku gdy termin ważności dyplomu i świadectwa przeszkolenia, o których mowa odpowiednio w art. 63 pkt 1 i 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, lub świadectwa operatora urządzeń radiowych w służbie morskiej, o którym mowa w art. 150 ust. 1a ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, upływa w okresie od dnia 1 lutego 2020 r. do dnia 13 marca 2020 r. albo w okresie obowiązywania na obszarze Rzeczypospolitej Polskiej stanu zagrożenia epidemicznego albo stanu epidemii, termin ważności tych dokumentów ulega przedłużeniu do dnia upływu 90 dni od dnia odwołania stanu zagrożenia epidemicznego albo stanu epidemii, w zależności od tego, który z nich zostanie odwołany później.
 
-4. Środki finansowe, których 1, są przekazywane Agencji na jej wniosek.
+” ;
 
-5. Agencja składa wniosek, 4, terminie 7 dni od wejścia życie ustawy, formie pisemnej postaci papierowej na adres urzędu obsługującego ministra właściwego spraw transportu albo postaci elektronicznej na elektroniczną skrzynkę podawczą tego ministra. Wniosek składany postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+### 2)
 
-6. Wniosek, 4, zawiera:
+w art. 15zzzzl:
 
-- **1)** oznaczenie wnioskodawcy, jego siedzibę adres;
-- **2)** wskazanie numeru rachunku bankowego, na który zostaną przekazane środki finansowe, których 1;
-- **3)** informację wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania;
-- **4)** miejscowość datę sporządzenia wniosku;
-- **5)** imię nazwisko wskazanie funkcji osoby uprawnionej podpisania wniosku;
-- **6)** podpis osoby uprawnionej podpisania wniosku.
+### a)
 
-7. Do wniosku, 4, dołącza się:
+ust. 1 otrzymuje brzmienie:
 
-- **1)** sprawozdanie realizacji zadań, które zawiera:
-    - **a)** szczegółowy opis działań podjętych przez Agencję ramach realizacji zadań,
-    - **b)** zestawienie zrealizowanych przez Agencję przyjęć zgłoszeń operacji użyciem bezzałogowych statków powietrznych,
-    - **c)** zestawienie poniesionych kosztów realizacji zadań, tym kosztów nabycia autorskich praw majątkowych, których 15zzzzl 5 ustawy zmienianej 1, brzmieniu dotychczasowym, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania,
-    - **d)** oświadczenie Prezesa Agencji, że poniesione koszty realizacji zadań wykazane zestawieniu, lit. c, zostały poniesione na realizację zadań nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania;
+„
 
-- **2)** dokumenty potwierdzające poniesienie kosztów realizacji zadań wykazanych zestawieniu, pkt lit. c, którymi są:
-    - **a)** kopia umowy lub porozumienia świadczenie usług lub nabycie aktywów trwałych, tytułu których zostały poniec) oświadczenie lub zestawienie raport, potwierdzające poniesienie kosztów realizacji zadań związanych wynagrodzeniem osób, które brały udział realizacji tych zadań, sporządzone na podstawie listy płac osób zatrudnionych Agencji.
+### 1.
 
-8. Oświadczenie, 7 pkt lit. d, składa się pod rygorem odpowiedzialności karnej składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej składanie fałszywych oświadczeń.
+W okresie obowiązywania ustawy operacje z użyciem systemów bezzałogowych statków powietrznych mogą być realizowane po poinformowaniu Polskiej Agencji Żeglugi Powietrznej o zamiarze wykonania lotu za pośrednictwem systemu teleinformatycznego, określonego przez Polską Agencję Żeglugi Powietrznej.
 
-9. Minister właściwy spraw transportu niezwłocznie po otrzymaniu poprawnego pod względem formalnym, rachunkowym merytorycznym wniosku, 4, przekazuje Banku Gospodarstwa Krajowego dyspozycję wypłaty środków finansowych, których 1, na rachunek bankowy wskazany tym wniosku.
+” ,
 
-10. Wysokość kosztów realizacji zadań, tym kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, poniesionych od 18 kwietnia 2020 wejścia życie ustawy, podlega weryfikacji przez biegłego rewidenta.
+### b)
 
-11. Agencja przekazuje ministra właściwego spraw transportu informację weryfikacji wysokości poniesionych kosztów realizacji zadań dokonanej przez biegłego rewidenta, tym zweryfikowanej wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, terminie 15 kwietnia 2022
+uchyla się ust. 2-4;
 
-12. W przypadku stwierdzenia, że wysokość przekazanych Agencji środków finansowych, których 1, przekracza wysokość poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, różnica między wysokością przekazanych Agencji środków finansowych a wysokością poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, podlega zwrotowi Funduszu Przeciwdziałania COVID-19, 65 ustawy zmienianej 5, najpóźniej terminie przekazania informacji, której 11.
+### 3)
 
-**Art. 8.** Środki finansowe, których 15zzzzl ustawy zmienianej 1, przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym miesiące czwartego kwartału są wypłacane 31 marca 2022
+w art. 15zzzzl1 ust. 9 otrzymuje brzmienie:
 
-**Art. 9.** Przepis 65 28a ustawy zmienianej 5, brzmieniu nadanym niniejszą ustawą, stosuje się również uchwał dotyczących wsparcia na inwestycyjne zadania dla jednostek samorządu terytorialnego będących organami prowadzącymi jednostki systemu oświaty podjętych przed dniem wejścia życie niniejszej ustawy na podstawie 65 28 ustawy zmienianej 5.
+„
 
-**Art. 10.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia:
+### 9.
 
+Środki finansowe, o których mowa w ust. 1, są przekazywane za okres nie dłuższy niż do dnia 31 grudnia 2021 r.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2021 r. poz. 1893](https://api.sejm.gov.pl/eli/acts/DU/2021/1893/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 11 w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+melioracji.
+
+” ;
+
+### 2)
+
+w art. 23 w ust. 1 w pkt 4 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+zaopatrzenia wsi i rolnictwa w wodę oraz oczyszczania ścieków i gospodarki odpadami,
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 20 lipca 2017 r. - Prawo wodne ([Dz. U. z 2021 r. poz. 2233](https://api.sejm.gov.pl/eli/acts/DU/2021/2233/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 210:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, sposób: ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej:
+
+### 1)
+
+uwzględni potrzebę stworzenia bazy informacyjnej dla planowania, odbudowy, przebudowy oraz utrzymania urządzeń melioracji wodnych;
+
+### 2)
+
+uwzględni zasadę interoperacyjności, o której mowa w art. 7 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, a także potrzebę harmonizacji zbiorów danych ewidencji melioracji wodnych z innymi zbiorami danych tworzącymi infrastrukturę informacji przestrzennej;
+
+### 3)
+
+kieruje się zasięgiem wpływu poszczególnych rodzajów urządzeń melioracji wodnych na poprawę zdolności produkcyjnej gleby.
+
+” ;
+
+### 2)
+
+w art. 552:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2023 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Do dnia 31 grudnia 2023 r. Wody Polskie opracują metodykę wyznaczania średniego niskiego przepływu z wielolecia (SNQ) na potrzeby ustalania wysokości opłat za usługi wodne.
+
+” ;
+
+### 3)
+
+w art. 555 w ust. 2 pkt 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6)
+
+plany gospodarowania wodami na obszarach dorzeczy - stają się planami gospodarowania wodami na obszarach dorzeczy w rozumieniu art. 318 ust. 1 niniejszej ustawy i podlegają przeglądowi i aktualizacji do dnia 22 grudnia 2022 r.;
+
+### 7)
+
+plany zarządzania ryzykiem powodziowym dla obszarów dorzeczy - stają się planami zarządzania ryzykiem powodziowym dla obszarów dorzeczy w rozumieniu art. 172 ust. 1 niniejszej ustawy i podlegają przeglądowi do dnia 22 grudnia 2022 r. i w razie potrzeby aktualizacji;
+
+” ;
+
+### 4)
+
+w art. 561 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do dnia 31 grudnia 2023 r. górne jednostkowe stawki opłat za pobór wód w formie opłaty stałej wynoszą: ” ;
+
+### 5)
+
+w art. 566 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepisy wykonawcze wydane na podstawie art. 88h ust. 13 oraz art. 114 ust. 5 ustawy uchylanej w art. 573 zachowują moc do dnia 22 grudnia 2022 r. i mogą być zmieniane.
+
+” ;
+
+### 6)
+
+po art. 568a dodaje się art. 568b w brzmieniu:
+
+„
+
+### Art. 568b.
+
+Od dnia 1 marca 2022 r. do dnia 31 grudnia 2022 r. podmioty wykonujące czynności, o których mowa w art. 306 ust. 1, zwalnia się z należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz z urządzeń wodnych stanowiących własność Skarbu Państwa usytuowanych na śródlądowych wodach powierzchniowych.
+
+” ;
+
+### 7)
+
+w art. 574 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2024 r.;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych ([Dz. U. z 2021 r. poz. 1853](https://api.sejm.gov.pl/eli/acts/DU/2021/1853/text.html)) po art. 39d dodaje się art. 39e w brzmieniu:
+
+„
+
+### Art. 39e.
+
+### 1.
+
+W roku 2022 minister właściwy do spraw budżetu, na wniosek ministra właściwego do spraw gospodarki morskiej, przekaże spółce Zarząd Morskich Portów Szczecin i Świnoujście Spółka Akcyjna skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego tej spółki.
+
+### 2.
+
+Wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, nie może przekroczyć 360 000 000 zł.
+
+### 3.
+
+Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, oraz skarbowych papierów wartościowych przekazanych spółce Zarząd Morskich Portów Szczecin i Świnoujście Spółka Akcyjna na podstawie art. 39a, nie może przekroczyć równowartości 150 mln euro.
+
+### 4.
+
+Akcje w podwyższonym kapitale zakładowym spółki Zarząd Morskich Portów Szczecin i Świnoujście Spółka Akcyjna obejmuje Skarb Państwa.
+
+### 5.
+
+Przepisy art. 39b-39d stosuje się.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535.](#gloss-0:2:)) w art. 65:
+
+### 1)
+
+po ust. 28 dodaje się ust. 28a w brzmieniu:
+
+„
+
+### 28a.
+
+Wsparcie uzyskane na podstawie ust. 28 przez jednostki samorządu terytorialnego będące organami prowadzącymi jednostki systemu oświaty może być wydatkowane również na rozwijanie infrastruktury jednostek systemu oświaty, wyposażenie w pomoce dydaktyczne lub na kształtowanie i rozwijanie umiejętności podstawowych i przekrojowych dzieci i młodzieży, w tym poprzez rozwijanie kompetencji kadry uczącej.
+
+” ;
+
+### 2)
+
+dodaje się ust. 31-37 w brzmieniu:
+
+„
+
+### 31.
+
+W celu przeciwdziałania skutkom społeczno-gospodarczym COVID-19 Rada Ministrów może przyjąć, w drodze uchwały, rządowy program polegający na udzieleniu organom prowadzącym jednostki systemu oświaty lub szkołom funkcjonującym za granicą prowadzącym nauczanie w języku polskim wsparcia ze środków Funduszu na rozwijanie infrastruktury tych jednostek lub szkół, wyposażenie w pomoce dydaktyczne lub na kształtowanie i rozwijanie umiejętności podstawowych i przekrojowych dzieci i młodzieży, w tym przez rozwijanie kompetencji kadry uczącej.
+
+### 32.
+
+Wsparcie, o którym mowa w ust. 31, jest udzielane na wniosek, który może być składany za pośrednictwem strony internetowej. Stronę internetową programu, o którym mowa w ust. 31, i jej obsługę zapewnia Kancelaria Prezesa Rady Ministrów we współpracy z ministrem właściwym do spraw oświaty i wychowania.
+
+### 33.
+
+Za pośrednictwem strony internetowej programu, o której mowa w ust. 32, jest możliwe składanie dokumentów dotyczących programu, o którym mowa w ust. 31, w tym informacji o wykorzystaniu wsparcia. Na stronie internetowej programu są podawane do publicznej wiadomości dokumenty, informacje i zalecenia dotyczące realizacji programu oraz harmonogram programu, a także jest możliwe pobranie materiałów informacyjnych, w tym związanych z identyfikacją wizualną programu.
+
+### 34.
+
+Organy prowadzące jednostki systemu oświaty i jednostki systemu oświaty oraz szkoły funkcjonujące za granicą prowadzące nauczanie w języku polskim, które są objęte wsparciem, o którym mowa w ust. 31, są obowiązane do brania udziału w ewaluacjach i monitorowaniu programu, o którym mowa w ust. 31.
+
+### 35.
+
+Przy ustalaniu wysokości wsparcia, o którym mowa w ust. 31, bierze się pod uwagę dane systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej ([Dz. U. z 2021 r. poz. 584](https://api.sejm.gov.pl/eli/acts/DU/2021/584/text.html), [619](https://api.sejm.gov.pl/eli/acts/DU/2021/619/text.html) i [1981](https://api.sejm.gov.pl/eli/acts/DU/2021/1981/text.html)), lub kryteria sprzyjające eliminowaniu barier edukacyjnych.
+
+### 36.
+
+W przypadku przyjęcia programu, o którym mowa w ust. 31, Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe zasady rozdziału i przekazywania wsparcia udzielanego organom prowadzącym jednostki systemu oświaty lub szkołom funkcjonującym za granicą prowadzącym nauczanie w języku polskim oraz formy i szczegółowy zakres tego wsparcia,
+
+### 2)
+
+tryb udzielania wsparcia organom prowadzącym jednostki systemu oświaty lub szkołom funkcjonującym za granicą prowadzącym nauczanie w języku polskim, w tym tryb oceny wniosku o udział w programie oraz wniosku o udzielenie wsparcia, a także zakres informacji zawartych w tych wnioskach,
+
+### 3)
+
+sposób realizacji programu,
+
+### 4)
+
+szczegółowy zakres ewaluacji i monitorowania programu,
+
+### 5)
+
+sposób monitorowania programu
+
+- uwzględniając wymóg skuteczności i efektywności przedsięwzięć podejmowanych w ramach programu ułatwiających przystosowanie się do zmian zachodzących w życiu społecznym i gospodarczym lub sprzyjających eliminowaniu barier edukacyjnych.
+
+### 37.
+
+Rada Ministrów może określić, w przepisach wydanych na podstawie ust. 36, dysponenta części budżetowej lub ministra kierującego określonym działem administracji rządowej zgodnie z ustawą z dnia 4 września 1997 r. o działach administracji rządowej właściwego do udzielenia wsparcia, o którym mowa w ust. 31, biorąc pod uwagę rodzaje jednostek systemu oświaty lub szkół funkcjonujących za granicą prowadzących nauczanie w języku polskim, objętych wsparciem.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym ([Dz. U. z 2021 r. poz. 839](https://api.sejm.gov.pl/eli/acts/DU/2021/839/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 w ust. 1 i 2 wyrazy „31 marca 2022 r.” zastępuje się wyrazami „30 września 2022 r.”;
+
+### 2)
+
+w art. 17 wyrazy „ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2019 r. poz. 1843 oraz z 2020 r. poz. 1086)” zastępuje się wyrazami „ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598, 2054 i 2269)”;
+
+### 3)
+
+w art. 30 wyrazy „ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych” zastępuje się wyrazami „ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych”;
+
+### 4)
+
+w art. 48 wyrazy „oraz do dnia 31 sierpnia 2022 r.” zastępuje się wyrazami „, do dnia 31 sierpnia 2022 r. oraz do dnia 30 kwietnia 2023 r.”.
+
+### Art. 7.
+
+### 1.
+
+W celu przeciwdziałania skutkom COVID-19 minister właściwy do spraw transportu przekazuje Polskiej Agencji Żeglugi Powietrznej, zwanej dalej „Agencją”, środki finansowe na pokrycie kosztów realizacji zadań określonych w art. 15zzzzl ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zwanych dalej „zadaniami”, zrealizowanych przez Agencję przed dniem wejścia w życie ustawy, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania.
+
+### 2.
+
+Środki finansowe, o których mowa w ust. 1, pochodzą z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy zmienianej w art. 5.
+
+### 3.
+
+Środki finansowe, o których mowa w ust. 1, są wypłacane do wysokości środków zarezerwowanych na ten cel w planie Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy zmienianej w art. 5.
+
+### 4.
+
+Środki finansowe, o których mowa w ust. 1, są przekazywane Agencji na jej wniosek.
+
+### 5.
+
+Agencja składa wniosek, o którym mowa w ust. 4, w terminie 7 dni od dnia wejścia w życie ustawy, w formie pisemnej w postaci papierowej na adres urzędu obsługującego ministra właściwego do spraw transportu albo w postaci elektronicznej na elektroniczną skrzynkę podawczą tego ministra. Wniosek składany w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 6.
+
+Wniosek, o którym mowa w ust. 4, zawiera:
+
+### 1)
+
+oznaczenie wnioskodawcy, jego siedzibę i adres;
+
+### 2)
+
+wskazanie numeru rachunku bankowego, na który zostaną przekazane środki finansowe, o których mowa w ust. 1;
+
+### 3)
+
+informację o wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania;
+
+### 4)
+
+miejscowość i datę sporządzenia wniosku;
+
+### 5)
+
+imię i nazwisko oraz wskazanie funkcji osoby uprawnionej do podpisania wniosku;
+
+### 6)
+
+podpis osoby uprawnionej do podpisania wniosku.
+
+### 7.
+
+Do wniosku, o którym mowa w ust. 4, dołącza się:
+
+### 1)
+
+sprawozdanie z realizacji zadań, które zawiera:
+
+### a)
+
+szczegółowy opis działań podjętych przez Agencję w ramach realizacji zadań,
+
+### b)
+
+zestawienie zrealizowanych przez Agencję przyjęć zgłoszeń operacji z użyciem bezzałogowych statków powietrznych,
+
+### c)
+
+zestawienie poniesionych kosztów realizacji zadań, w tym kosztów nabycia autorskich praw majątkowych, o których mowa w art. 15zzzzl ust. 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania,
+
+### d)
+
+oświadczenie Prezesa Agencji, że poniesione koszty realizacji zadań wykazane w zestawieniu, o którym mowa w lit. c, zostały poniesione na realizację zadań i nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania;
+
+### 2)
+
+dokumenty potwierdzające poniesienie kosztów realizacji zadań wykazanych w zestawieniu, o którym mowa w pkt 1 lit. c, którymi są:
+
+### a)
+
+kopia umowy lub porozumienia o świadczenie usług lub nabycie aktywów trwałych, z tytułu których zostały poniesione koszty realizacji zadań, potwierdzone za zgodność z oryginałem przez Agencję albo osobę upoważnioną przez Agencję, lub
+
+### b)
+
+kopia faktury potwierdzającej poniesienie kosztów realizacji zadań lub innego dokumentu księgowego potwierdzającego poniesienie kosztów realizacji zadań, potwierdzona za zgodność z oryginałem przez Agencję albo osobę upoważnioną przez Agencję, lub
+
+### c)
+
+oświadczenie lub zestawienie i raport, potwierdzające poniesienie kosztów realizacji zadań związanych z wynagrodzeniem osób, które brały udział w realizacji tych zadań, sporządzone na podstawie listy płac osób zatrudnionych w Agencji.
+
+### 8.
+
+Oświadczenie, o którym mowa w ust. 7 pkt 1 lit. d, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### 9.
+
+Minister właściwy do spraw transportu niezwłocznie po otrzymaniu poprawnego pod względem formalnym, rachunkowym i merytorycznym wniosku, o którym mowa w ust. 4, przekazuje do Banku Gospodarstwa Krajowego dyspozycję wypłaty środków finansowych, o których mowa w ust. 1, na rachunek bankowy wskazany w tym wniosku.
+
+### 10.
+
+Wysokość kosztów realizacji zadań, w tym kosztów realizacji zadań, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania, poniesionych od dnia 18 kwietnia 2020 r. do dnia wejścia w życie ustawy, podlega weryfikacji przez biegłego rewidenta.
+
+### 11.
+
+Agencja przekazuje do ministra właściwego do spraw transportu informację o weryfikacji wysokości poniesionych kosztów realizacji zadań dokonanej przez biegłego rewidenta, w tym o zweryfikowanej wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania, w terminie do dnia 15 kwietnia 2022 r.
+
+### 12.
+
+W przypadku stwierdzenia, że wysokość przekazanych Agencji środków finansowych, o których mowa w ust. 1, przekracza wysokość poniesionych kosztów realizacji zadań, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania, różnica między wysokością przekazanych Agencji środków finansowych a wysokością poniesionych kosztów realizacji zadań, które nie zostały sfinansowane z innych środków publicznych, uzyskanych ze wsparcia z innych źródeł finansowania, podlega zwrotowi do Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy zmienianej w art. 5, najpóźniej w terminie przekazania informacji, o której mowa w ust. 11.
+
+### Art. 8.
+
+Środki finansowe, o których mowa w art. 15zzzzl1 ustawy zmienianej w art. 1, przekazywane operatorowi publicznego transportu zbiorowego w przewozach pasażerskich w transporcie kolejowym za miesiące czwartego kwartału 2021 r. są wypłacane do dnia 31 marca 2022 r.
+
+### Art. 9.
+
+Przepis art. 65 ust. 28a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, stosuje się również do uchwał dotyczących wsparcia na inwestycyjne zadania dla jednostek samorządu terytorialnego będących organami prowadzącymi jednostki systemu oświaty podjętych przed dniem wejścia w życie niniejszej ustawy na podstawie art. 65 ust. 28 ustawy zmienianej w art. 5.
+
+### Art. 10.
+
+Ustawa wchodzi w życie zd niem następującym po dniu ogłoszenia:
+
+### 1)
+
+z wyjątkiem:
+
+### a)
+
+art. 2 i art. 3 pkt 1, które wchodzą w życie z dniem 1 stycznia 2022 r.,
+
+### b)
+
+art. 3 pkt 2, 4 i 7, które wchodzą w życie z dniem 31 grudnia 2021 r.,
+
+### c)
+
+art. 3 pkt 6, który wchodzi w życie z dniem 1 marca 2022 r.,
+
+### d)
+
+art. 4 i art. 6 pkt 1 i 4, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+### 2)
+
+z tym że art. 1 pkt 3 z mocą od dnia 1 października 2021 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 20 lipca 2017 r. - Prawo wodne, ustawę z dnia 9 sierpnia 2019 r. o inwestycjach w zakresie budowy portów zewnętrznych, ustawę z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw oraz ustawę z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255 oraz z 2021 r. poz. 1535.

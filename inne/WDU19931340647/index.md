@@ -8,9 +8,9 @@ pos: 647
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
+# Ustawa z dnia 29 grudnia 1993 r. o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,14 @@ domain: null
 | Data ogłoszenia | 1993-12-29 |
 | Data wydania | 1993-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931340647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/647/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1993/647/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1993/647) |
 
-**Art. 1.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa innych państwowych osób prawnych (Dz.U. Nr 44, poz. 255, z 1991 r. Nr 75, poz. 331 i z 1993 r. Nr
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 1994 r.
+### Art. 1.
 
+W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych ([Dz. U. Nr 44, poz. 255](https://api.sejm.gov.pl/eli/acts/DU/1990/255/text.html), z [1991 r. Nr 75, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/1991/331/text.html) i z [1993 r. Nr 16, poz. 67](https://api.sejm.gov.pl/eli/acts/DU/1993/67/text.html)) w art. 2 w ust. 1 skreśla się wyrazy „w terminie do dnia 31 grudnia 1993 r.”
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1994 r.

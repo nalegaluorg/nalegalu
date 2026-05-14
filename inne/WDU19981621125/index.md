@@ -8,11 +8,9 @@ pos: 1125
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o pracownikach sądów i prokuratury
-
-*USTAWA z dnia 18 grudnia 1998 r.*
+# Ustawa z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury
 
 | Pole | Wartość |
 |---|---|
@@ -24,211 +22,398 @@ domain: null
 | Data ogłoszenia | 1998-12-18 |
 | Data wydania | 1998-12-30 |
 | Ostatnia zmiana | 2026-03-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621125) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1125/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1998/1125/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1998/1125) |
 
-**Art. 1.** Ustawa określa obowiązki i prawa urzędników oraz innych pracowników zatrudnionych w:
+## Treść ustawy
 
-**Art. 1a.** Ilekroć w ustawie jest mowa o dyrektorze sądu, w przypadku sądów wojskowych należy przez to rozumieć prezesa wojskowego sądu okręgowego albo prezesa wojskowego sądu garnizonowego.
+### Art. 1.
 
-**Art. 2.** Urzędnikiem może zostać osoba:
+### 1.
 
-**Art. 3.**
+Ustawa określa obowiązki i prawa urzędników oraz innych pracowników zatrudnionych w:
 
-1. Staż urzędniczy ma na celu praktyczne i teoretyczne przygotowanie do wykonywania obowiązków urzędnika.
+### 1)
 
-2. Staż urzędniczy trwa 6 miesięcy i kończy się egzaminem.
+sądach powszechnych i wojskowych,
 
-**Art. 3a.**
+### 2)
 
-1. Na staż urzędniczy może być przyjęta osoba, która spełnia wymogi określone w art. 2 pkt 1–6.
+powszechnych i wojskowych jednostkach organizacyjnych prokuratury.
 
-2. Właściwy dyrektor sądu właściwy prokurator, o którym mowa w art. 5 pkt 5–8, zwany dalej „prokuratorem”, może zwolnić z obowiązku odbywania stażu urzędniczego jego części osobę, wybraną w drodze konkursu na staż urzędniczy, zwanego dalej „konkursem”, która wykaże się wymaganą programem stażu urzędniczego wiedzą teoretyczną, w szczególności znajomością organizacji i funkcjonowania sądu prokuratury, umiejętnościami stosowania tej wiedzy w praktyce oraz znajomością metod i techniki pracy biurowej.
+### Art. 2.
 
-**Art. 3b.**
+Urzędnikiem może być osoba, która:
 
-1. Dyrektor sądu prokurator organizuje, w drodze konkursu, nabór kandydatów na staż urzędniczy w sądzie prokuraturze.
+### 1)
 
-2. Dyrektor sądu prokurator informuje o konkursie przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie sądu prokuratury, we właściwym, ze względu na siedzibę sądu prokuratury, urzędzie pracy, w Biuletynie Informacji Publicznej oraz może poinformować w inny sposób, w szczególności zamieszczając ogłoszenie w prasie lokalnej.
+korzysta z pełni praw cywilnych i publicznych,
 
-3. Konkurs przeprowadza komisja konkursowa powołana przez dyrektora sądu prokuratora.
+### 2)
 
-4. Konkurs ma na celu sprawdzenie wiedzy, umiejętności, predyspozycji oraz zdolności ogólnych kandydatów, niezbędnych do wykonywania obowiązków urzędnika.
+nie była karana za przestępstwo popełnione umyślnie,
 
-5. Komisja konkursowa po przeprowadzeniu konkursu, w oparciu o jego wyniki, może wyłonić rezerwową listę kandydatów na wypadek zaistnienia możliwości zatrudnienia większej liczby osób, rezygnacji kandydata bądź w sytuacji ustania stosunku pracy z osobą odbywającą staż urzędniczy przed ukończeniem tego stażu. Rezerwowa lista kandydatów jest ważna do następnego konkursu, jednakże nie dłużej niż 12 miesięcy od przeprowadzenia ostatniego konkursu.
+### 3)
 
-6. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania konkursów na staż urzędniczy w sądach i prokuraturze, w szczególności skład komisji konkursowych oraz sposób i tryb ich działania, etapy i przebieg konkursu, a także zakres i sposób udostępniania informacji kandydatowi, mając na uwadze właściwy dobór kadry urzędniczej do pracy w sądach i prokuraturze.
+ma co najmniej średnie wykształcenie i zna dobrze język polski,
 
-2. Stosunek pracy z urzędnikiem nawiązuje się na podstawie umowy o pracę na czas nieokreślony.
+### 4)
 
-3. (uchylony)
+odbyła staż urzędniczy w sądzie lub prokuraturze,
 
-4. Warunkiem ubiegania się o zatrudnienie w sądzie prokuraturze jest złożenie przez osobę ubiegającą się o przyjęcie na staż urzędniczy oświadczenia, że nie jest prowadzone przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego przestępstwo skarbowe.
+### 5)
 
-5. Dyrektor sądu prokurator kierujący jednostką organizacyjną prokuratury przed przyjęciem osoby na staż urzędniczy zasięga informacji z Krajowego Rejestru Karnego o tej osobie.
+ma stan zdrowia pozwalający na zatrudnienie na określonym stanowisku,
 
-6. W uzasadnionych przypadkach dyrektor sądu prokurator zasięga informacji z Krajowego Rejestru Karnego o osobie zatrudnionej w sądzie prokuraturze.
+### 6)
 
-7. (uchylony)
+cieszy się nieposzlakowaną opinią.
 
-**Art. 4a.** W przypadku zniesienia sądu, w pierwszej kolejności na wolne etaty urzędnicze i pracownicze w sądach prokuraturach, na ich wniosek, są zatrudniani urzędnicy i pracownicy zniesionego sądu.
+### Art. 3.
 
-**Art. 5.** Stosunek pracy z osobami, o których mowa w art. 4, nawiązuje i rozwiązuje odpowiednio w:
+### 1.
 
-**Art. 6.** Urzędnik jest obowiązany:
+Staż urzędniczy ma na celu praktyczne i teoretyczne przygotowanie do wykonywania obowiązków urzędnika.
 
-**Art. 7.**
+### 2.
 
-1. Urzędnik jest obowiązany wykonywać polecenia służbowe przełożonych.
+Staż urzędniczy trwa 12 miesięcy i kończy się egzaminem.
 
-2. Jeżeli w przekonaniu urzędnika polecenie służbowe jest niezgodne z prawem zawiera znamiona pomyłki, jest on obowiązany na piśmie poinformować o tym przełożonego. W razie pisemnego potwierdzenia polecenia urzędnik jest obowiązany je wykonać.
+### 3.
 
-3. Urzędnik nie wykonuje polecenia służbowego, jeżeli prowadziłoby to do popełnienia przestępstwa groziłoby niepowetowanymi stratami.
+Od odbycia stażu urzędniczego zwolnione są osoby, które ukończyły aplikację sądową, prokuratorską lub referendarską.
 
-**Art. 8.**
+### Art. 4.
 
-1. Urzędnicy i inni pracownicy sądów i prokuratury podlegają okresowym ocenom kwalifikacyjnym. Oceny dokonuje dyrektor sądu prokurator, biorąc pod uwagę opinię bezpośredniego przełożonego i komisji kwalifikacyjnej, powoływanej przez dyrektora sądu prokuratora.
+### 1.
 
-2. Ocena okresowa sporządzana jest na piśmie nie rzadziej niż raz na 24 miesiące i nie częściej niż raz na 12 miesięcy.
+Stosunek pracy z osobą ubiegającą się o przyjęcie na staż urzędniczy nawiązuje się na podstawie umowy o pracę na czas określony.
 
-3. Ocena okresowa dotyczy wykonywania przez urzędnika innego pracownika sądu prokuratury powierzonych im obowiązków. Ocenę niezwłocznie doręcza się osobie ocenianej.
+### 2.
 
-4. Od oceny służy, w ciągu 7 dni od dnia doręczenia, sprzeciw do dyrektora sądu prokuratora.
+Stosunek pracy z urzędnikiem nawiązuje się na podstawie umowy o pracę na czas nie określony.
 
-5. Sprzeciw rozpatruje się w terminie 14 dni od dnia jego wniesienia.
+### Art. 5.
 
-6. W razie uwzględnienia sprzeciwu ocenę okresową zmienia się albo sporządza ponownie.
+Stosunek pracy z osobami, o których mowa w art. 4, nawiązuje i rozwiązuje odpowiednio w:
 
-7. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania przy dokonywaniu ocen urzędników i innych pracowników sądów i prokuratury, mając na uwadze właściwy poziom wykonywanych przez nich obowiązków.
+### 1)
 
-**Art. 9.** Urzędnik przy wykonywaniu obowiązków służbowych nie może kierować się swoimi poglądami politycznymi, religijnymi ani interesem jednostkowym grupowym.
+sądzie apelacyjnym - prezes sądu apelacyjnego,
 
-**Art. 10.** Między urzędnikami nie może powstać układ podległości służbowej, jeżeli są małżonkami albo pozostają ze sobą w stosunku pokrewieństwa do drugiego
+### 2)
 
-**Art. 11.**
+sądzie okręgowym - prezes sądu okręgowego,
 
-1. Urzędnik nie może podejmować dodatkowego zatrudnienia bez zgody przełożonego.
+### 3)
 
-2. Urzędnik nie może wykonywać zajęć sprzecznych z obowiązkami urzędnika i podważających zaufanie do sądu prokuratury.
+sądzie rejonowym - prezes sądu rejonowego,
 
-**Art. 11a.**
+### 4)
 
-1. Minister Sprawiedliwości może delegować urzędnika, za jego zgodą, do wykonywania obowiązków służbowych w innym sądzie, Ministerstwie Sprawiedliwości innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
+wojskowym sądzie okręgowym i garnizonowym - prezes wojskowego sądu okręgowego,
 
-2. Minister Sprawiedliwości może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie Ministerstwie Sprawiedliwości, mających siedzibę w tej samej miejscowości, na czas określony, nie dłuższy niż dwa lata. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+### 5)
 
-3. Właściwy dyrektor sądu apelacyjnego może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie na obszarze danej apelacji, na warunkach określonych w ust. 1, na czas określony, nie dłuższy niż 12 miesięcy, a na warunkach określonych w ust. 2 – na czas określony, nie dłuższy niż sześć miesięcy. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+Naczelnej Prokuraturze Wojskowej - Naczelny Prokurator Wojskowy,
 
-4. Minister Sprawiedliwości, jeżeli przemawiają za tym potrzeby sądownictwa, może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie Ministerstwie Sprawiedliwości, mających siedzibę w innej miejscowości, na czas określony, nie dłuższy niż sześć miesięcy w ciągu roku. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+### 6)
 
-5. Delegowaniu nie podlegają urzędnicy zajmujący w sądzie stanowiska: głównego księgowego i audytora wewnętrznego.
+prokuraturze apelacyjnej - prokurator apelacyjny,
 
-6. Niedopuszczalne jest delegowanie, bez zgody zainteresowanego, do sądu Ministerstwa Sprawiedliwości, mającego siedzibę w innej miejscowości, kobiety w ciąży urzędnika sprawującego opiekę nad dzieckiem w wieku do czternastu lat,
+### 7)
 
-7. Urzędnik delegowany na podstawie ust. 1, na czas nieokreślony, może być odwołany z delegowania, względnie z niego ustąpić za trzymiesięcznym uprzedzeniem.
+prokuraturze okręgowej i rejonowej - prokurator okręgowy,
 
-8. W okresie delegowania urzędnik ma prawo do wynagrodzenia przysługującego mu na dotychczas zajmowanym stanowisku i dodatku za wieloletnią pracę. W przypadku powierzenia pełnienia funkcji w okresie delegowania urzędnikowi przysługuje dodatek funkcyjny w stawce przewidzianej dla tej funkcji.
+### 8)
 
-9. W okresie delegowania do Ministerstwa Sprawiedliwości Krajowej Szkoły Sądownictwa i Prokuratury urzędnik otrzymuje dodatek funkcyjny z tytułu delegowania.
+wojskowej prokuraturze okręgowej i garnizonowej - wojskowy prokurator okręgowy.
 
-10. Jeżeli delegowanie następuje do innej miejscowości niż miejscowość będąca siedzibą sądu, w której urzędnik jest zatrudniony, przysługuje mu prawo do bezpłatnego zakwaterowania zwrotu kosztów zamieszkania w miejscu delegowania, a także świadczenia dodatkowe, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pracy: zwrot kosztów przejazdu, diety, zwrot kosztów noclegu ryczałt za nocleg, jednorazowy ryczałt z tytułu przeniesienia, zwrot kosztów przewozu urządzenia domowego.
+### Art. 6.
 
-11. Świadczenia związane z delegowaniem urzędnika wypłaca odpowiednio sąd, do którego urzędnik został delegowany, albo Ministerstwo Sprawiedliwości.
+Urzędnik jest obowiązany:
 
-12. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe warunki delegowania urzędników do wykonywania obowiązków służbowych w Ministerstwie Sprawiedliwości, wysokość dodatku funkcyjnego z tytułu delegowania oraz szczegółowe warunki i zakres świadczeń dodatkowych związanych z delegowaniem urzędników poza stałe miejsce pracy, mając na względzie poziom świadczeń przysługujących pracownikom państwowych jednostek sfery budżetowej odbywającym podróże służbowe oraz czasowo przenoszonym.
+### 1)
 
-**Art. 11b.**
+przestrzegać Konstytucji Rzeczypospolitej Polskiej i innych przepisów prawa,
 
-1. Prokurator Krajowy może delegować urzędnika, za jego zgodą, do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury w biurze delegowanego prokuratora europejskiego, a na wniosek Ministra Sprawiedliwości – do Ministerstwa Sprawiedliwości innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony. delegowanego prokuratora europejskiego, a na wniosek Ministra Sprawiedliwości – do Ministerstwa Sprawiedliwości, mających siedzibę w tej samej miejscowości, na czas określony, nie dłuższy niż dwa lata. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+### 2)
 
-3. Właściwy prokurator regionalny może delegować urzędnika do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury na obszarze danego regionu, na warunkach określonych w ust. 1, na czas określony, nie dłuższy niż rok, a na warunkach określonych w ust. 2 – na czas określony, nie dłuższy niż sześć miesięcy. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+rzetelnie i bezstronnie, sprawnie i terminowo wykonywać powierzone zadania,
 
-4. Prokurator Krajowy, jeżeli przemawiają za tym potrzeby prokuratury, może delegować urzędnika do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury na wniosek Ministra Sprawiedliwości do Ministerstwa Sprawiedliwości, mających siedzibę w innej miejscowości, na czas określony, nie dłuższy niż sześć miesięcy w ciągu roku. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+### 3)
 
-5. Delegowaniu nie podlegają urzędnicy zajmujący w prokuraturze stanowiska: dyrektora finansowo-administracyjnego, głównego księgowego i audytora wewnętrznego.
+dochowywać tajemnicy państwowej i służbowej,
 
-6. Niedopuszczalne jest delegowanie, bez zgody zainteresowanego, do prokuratury, biura delegowanego prokuratora europejskiego Ministerstwa Sprawiedliwości, mającego siedzibę w innej miejscowości, kobiety w ciąży urzędnika sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste rodzinne urzędnika.
+### 4)
 
-7. Urzędnik delegowany na podstawie ust. 1, na czas nieokreślony, może być odwołany z delegowania, względnie z niego ustąpić za trzymiesięcznym uprzedzeniem.
+zachowywać się godnie,
 
-8. W okresie delegowania urzędnik ma prawo do wynagrodzenia przysługującego mu na dotychczas zajmowanym stanowisku i dodatku za wieloletnią pracę. W przypadku powierzenia pełnienia funkcji w okresie delegowania urzędnikowi przysługuje dodatek funkcyjny w stawce przewidzianej dla tej funkcji. delegowanego prokuratora europejskiego urzędnik otrzymuje dodatek funkcyjny z tytułu delegowania.
+### 5)
 
-10. Jeżeli delegowanie następuje do innej miejscowości niż miejscowość będąca siedzibą prokuratury, w której urzędnik jest zatrudniony, przysługuje mu prawo do bezpłatnego zakwaterowania zwrotu kosztów zamieszkania w miejscu delegowania, a także świadczenia dodatkowe, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pracy: zwrot kosztów przejazdu, diety, zwrot kosztów noclegu ryczałt za nocleg, jednorazowy ryczałt z tytułu przeniesienia, zwrot kosztów przewozu urządzenia domowego.
+poszerzać wiedzę zawodową.
 
-11. Świadczenia związane z delegowaniem urzędnika wypłaca odpowiednio jednostka organizacyjna prokuratury, do której urzędnik został delegowany, albo Ministerstwo Sprawiedliwości.
+### Art. 7.
 
-11a. Świadczenia związane z delegowaniem urzędnika do biura delegowanego prokuratora europejskiego wypłaca jednostka organizacyjna prokuratury, z której urzędnik został delegowany.
+### 1.
 
-12. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe warunki delegowania urzędników do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury, w biurze delegowanego prokuratora europejskiego w Ministerstwie Sprawiedliwości, wysokość dodatku funkcyjnego z tytułu delegowania do Prokuratury Krajowej, Ministerstwa Sprawiedliwości biura delegowanego prokuratora europejskiego oraz szczegółowe warunki i zakres świadczeń dodatkowych związanych z delegowaniem urzędników poza stałe miejsce pracy, mając na względzie poziom świadczeń przysługujących pracownikom państwowych jednostek sfery budżetowej odbywającym podróże służbowe oraz czasowo przenoszonym.
+Urzędnik jest obowiązany wykonywać polecenia służbowe przełożonych.
 
-**Art. 12.**
+### 2.
 
-1. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia następuje w razie prawomocnego skazania za umyślne przestępstwo umyślne przestępstwo skarbowe.
+Jeżeli w przekonaniu urzędnika polecenie służbowe jest niezgodne z prawem lub zawiera znamiona pomyłki, jest on obowiązany na piśmie poinformować o tym przełożonego. W razie pisemnego potwierdzenia polecenia urzędnik jest obowiązany je wykonać.
 
-2. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia może nastąpić w razie prawomocnego skazania za nieumyślne przestępstwo nieumyślne przestępstwo skarbowe. całkowitego.
+### 3.
 
-4. Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia może nastąpić w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok odosobnienia ze względu na chorobę zakaźną w okresie pobierania z tego tytułu zasiłku, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn, po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
+Urzędnik nie wykonuje polecenia służbowego, jeżeli prowadziłoby to do popełnienia przestępstwa lub groziłoby niepowetowanymi stratami.
 
-5. Przepisy ust. 1–3 stosuje się odpowiednio do urzędników zatrudnionych na podstawie mianowania. W takim przypadku przepisu art. 22 nie stosuje się.
+### Art. 8.
 
-6. Przepis art. 52 Kodeksu pracy stosuje się odpowiednio.
+### 1.
 
-**Art. 12a.** W razie niezdolności do pracy z powodu choroby, o której mowa w art. 12, odosobnienia ze względu na chorobę zakaźną urzędnik zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
+Urzędnicy i inni pracownicy sądów i prokuratury podlegają okresowym ocenom kwalifikacyjnym. Oceny dokonuje właściwy prezes sądu lub prokurator, biorąc pod uwagę opinię bezpośredniego przełożonego. Dla dokonania tej czynności właściwy prezes sądu lub prokurator powołuje komisję kwalifikacyjną.
 
-**Art. 12b.**
+### 2.
 
-1. Dyrektor sądu prokurator zawiesza urzędnika osobę odbywającą staż urzędniczy w pełnieniu obowiązków, jeżeli:
+Minister właściwy do spraw sprawiedliwości określa, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania przy dokonywaniu ocen urzędników i innych pracowników sądów i prokuratury oraz tryb postępowania odwoławczego w tych sprawach.
 
-- **1)** przy wszczęciu w toku postępowania o częściowe bądź całkowite ubezwłasnowolnienie urzędnika osoby odbywającej staż urzędniczy ustanowiono doradcę tymczasowego;
-- **2)** przeciwko urzędnikowi osobie odbywającej staż urzędniczy prowadzone jest postępowanie o umyślne przestępstwo ścigane z oskarżenia publicznego umyślne przestępstwo skarbowe, chyba że stosunek pracy został rozwiązany w trybie art. 52 Kodeksu pracy.
+### Art. 9.
 
-2. Okres zawieszenia, o którym mowa w ust. 1, trwa do prawomocnego zakończenia postępowania.
+Urzędnik przy wykonywaniu obowiązków służbowych nie może kierować się swoimi poglądami politycznymi, religijnymi ani interesem jednostkowym lub grupowym.
 
-3. Okres zawieszenia wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+### Art. 10.
 
-4. W okresie zawieszenia, o którym mowa w ust. 1, urzędnik osoba odbywająca staż urzędniczy zachowuje prawo do wynagrodzenia w pełnej wysokości oraz do innych przysługujących mu uprawnień i świadczeń, nie dłużej jednak niż przez 3 miesiące. prawomocnego zakończenia postępowania.
+Między urzędnikami nie może powstać układ podległości służbowej, jeżeli są małżonkami albo pozostają ze sobą w stosunku pokrewieństwa do drugiego stopnia włącznie lub powinowactwa pierwszego stopnia albo przysposobienia, opieki lub kurateli.
 
-6. W przypadku oddalenia odrzucenia wniosku o ubezwłasnowolnienie albo umorzenia postępowania o ubezwłasnowolnienie bądź umorzenia postępowania karnego albo wydania wyroku uniewinniającego urzędnikowi osobie odbywającej staż urzędniczy należy wypłacić pozostałą część wynagrodzenia.
+### Art. 11.
 
-**Art. 12c.** Dyrektor sądu prokurator może zawiesić urzędnika osobę odbywającą staż urzędniczy w pełnieniu obowiązków, przeciwko której prowadzone jest postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego nieumyślne przestępstwo skarbowe. Przepis art. 12b ust. 2–6 stosuje się.
+### 1.
 
-**Art. 13.** (uchylony)
+Urzędnik nie może podejmować dodatkowego zatrudnienia bez zgody przełożonego.
 
-**Art. 14.**
+### 2.
 
-1. Minister Sprawiedliwości, w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia:
+Urzędnik nie może wykonywać zajęć sprzecznych z obowiązkami urzędnika i podważających zaufanie do sądu lub prokuratury.
 
-- **1)** stanowiska w sądach powszechnych i wojskowych oraz powszechnych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane do zajmowania tych stanowisk,
-- **2)** szczegółowe zasady wynagradzania urzędników i innych pracowników sądów i powszechnych jednostek organizacyjnych prokuratury,
-- **3)** tabele wynagrodzenia zasadniczego urzędników i innych pracowników sądów i powszechnych jednostek organizacyjnych prokuratury,
-- **4)** wysokość dodatku przysługującego z tytułu zajmowanego stanowiska oraz pełnionej funkcji,
-- **5)** sposób i tryb odbywania stażu urzędniczego oraz przeprowadzania egzaminu – uwzględniając potrzebę zapewnienia prawidłowej organizacji działalności administracyjnej sądów i powszechnych jednostek organizacyjnych prokuratury, właściwego poziomu funkcjonowania sekretariatów sądów i powszechnych jednostek organizacyjnych prokuratury oraz wysokiego poziomu kultury pracy, sprawności, racjonalności, szybkości i profesjonalizmu przy wykonywaniu czynności niezbędnych do sprawnego przebiegu postępowań w sądach i w powszechnych jednostkach organizacyjnych prokuratury, potrzebę zróżnicowania wynagrodzenia w zależności od stażu pracy, pełnionej funkcji oraz zajmowanego stanowiska i jego znaczenia dla funkcjonowania sądu powszechnych jednostek organizacyjnych prokuratury, organizacyjnych prokuratury, specyfikę i charakter pracy urzędnika oraz szczególne wymagania dotyczące wykonywania czynności w sądach i powszechnych jednostkach organizacyjnych prokuratury.
+### Art. 12.
 
-2. Minister Sprawiedliwości może określić, w drodze rozporządzenia:
+Rozwiązanie stosunku pracy z urzędnikiem bez wypowiedzenia może nastąpić w razie jego nieobecności w pracy z powodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaźną w okresie pobierania z tego tytułu zasiłku, a także w razie usprawiedliwionej nieobecności w pracy z innych przyczyn, po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
 
-- **1)** regulamin premiowania urzędników i innych pracowników zatrudnionych przy ściąganiu należności sądowych oraz w wydziałach ksiąg wieczystych,
-- **2)** regulamin przyznawania urzędnikom i innym pracownikom sądów i prokuratury nagród za szczególne osiągnięcia w pracy – uwzględniając charakter i rodzaj czynności wykonywanych przez urzędników i innych pracowników oraz zajmowane stanowisko, a także rzetelność, inicjatywę, sumienność i zaangażowanie przy wykonywaniu obowiązków i poleceń służbowych.
+### Art. 13.
 
-**Art. 14a.** Podwyższenie wynagrodzeń urzędników i innych pracowników sądów i prokuratury pracowników Biura Służby Prawnej Trybunału Konstytucyjnego następuje w terminach i na zasadach określonych dla pracowników państwowej sfery budżetowej nieobjętych mnożnikowymi systemami wynagrodzeń.
+### 1.
 
-**Art. 15.** Urzędnikowi i innemu pracownikowi sądu prokuratury pracownikowi Biura Służby Prawnej Trybunału Konstytucyjnego przysługuje dodatek za wieloletnią pracę w wysokości wynoszącej po 5 latach pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
+Środki na wynagrodzenia zasadnicze urzędników ustala się:
 
-**Art. 16.** Za wieloletnią pracę urzędnik i inny pracownik sądu prokuratury pracownik Biura Służby Prawnej Trybunału Konstytucyjnego otrzymuje nagrodę jubileuszową w wysokości:
+### 1)
 
-**Art. 17.** Urzędnikowi albo innemu pracownikowi sądu prokuratury pracownikowi Biura Służby Prawnej Trybunału Konstytucyjnego, którego stosunek
+w pierwszym roku obowiązywania ustawy - przeciętnie w wysokości 35% wynagrodzenia zasadniczego sędziego sądu rejonowego,
 
-**Art. 18.** W sprawach nieuregulowanych niniejszą ustawą do urzędników i innych pracowników sądów i prokuratury pracowników Biura Służby Prawnej Trybunału Konstytucyjnego stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 1917 oraz z 2025 r. poz. 39, 620 i 820), a w sprawach nieuregulowanych także w tej ustawie – przepisy ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277 i 807).
+### 2)
 
-**Art. 19.** (pominięty)
+w drugim roku obowiązywania ustawy - przeciętnie w wysokości 40% wynagrodzenia zasadniczego sędziego sądu rejonowego,
 
-**Art. 20.** (pominięty)
+### 3)
 
-**Art. 21.**
+w trzecim roku obowiązywania ustawy - przeciętnie w wysokości 50% wynagrodzenia zasadniczego sędziego sądu rejonowego
 
-1. Z dniem wejścia w życie ustawy osoby zatrudnione na podstawie dotychczasowych przepisów jako pracownicy administracyjni przez okres co najmniej roku w sądach jednostkach organizacyjnych prokuratury stają się urzędnikami w rozumieniu ustawy.
+z tym że w drugim i trzecim roku obowiązywania ustawy środki na wynagrodzenia zasadnicze urzędników podwyższa się o wartość składki na ubezpieczenia emerytalne i rentowe, o której mowa w art. 110 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html)).
 
-2. Z dniem wejścia w życie ustawy osoby zatrudnione w sądach jednostkach organizacyjnych prokuratury na stanowiskach pomocniczych, technicznych, robotniczych i obsługi oraz pracownicy administracyjni zatrudnieni przez okres krótszy niż rok stają się innymi pracownikami w rozumieniu ustawy.
+### 2.
 
-**Art. 22.** Stosunki pracy nawiązane przed dniem wejścia w życie ustawy na podstawie mianowania pozostają w mocy i mogą być zmieniane i rozwiązywane na zasadach określonych w ustawie o pracownikach urzędów państwowych.
+Podwyższenie indywidualnych wynagrodzeń urzędników nalicza się od dnia 1 stycznia każdego roku.
 
-**Art. 23.** Ustawa wchodzi w życie z dniem ogłoszenia .
+### Art. 14.
 
+### 1.
+
+Minister właściwy do spraw sprawiedliwości w porozumieniu z ministrami właściwymi do spraw obrony narodowej i do spraw pracy określa, w drodze rozporządzenia:
+
+### 1)
+
+stanowiska w sądach powszechnych i wojskowych oraz w powszechnych i wojskowych jednostkach organizacyjnych prokuratury, na których zatrudniani są urzędnicy i inni pracownicy, a także kwalifikacje wymagane do zajmowania tych stanowisk,
+
+### 2)
+
+szczegółowe zasady wynagradzania urzędników i innych pracowników sądów i prokuratury,
+
+### 3)
+
+tabele wynagrodzenia zasadniczego urzędników i innych pracowników sądów i prokuratury,
+
+### 4)
+
+wysokość dodatku przysługującego z tytułu zajmowanego stanowiska oraz pełnionej funkcji,
+
+### 5)
+
+szczegółowe zasady odbywania stażu urzędniczego oraz przeprowadzania egzaminu,
+
+### 6)
+
+warunki zwalniania od odbycia stażu urzędniczego osób innych niż wymienione w art. 3 ust. 3, jeżeli osoby te wykażą się praktycznym i teoretycznym przygotowaniem do wykonywania obowiązków urzędnika.
+
+### 2.
+
+W rozporządzeniu, o którym mowa w ust. 1, należy uwzględnić zasadę, że wynagrodzenie jest różnicowane w zależności od stażu pracy, pełnionej funkcji oraz zajmowanego stanowiska i jego znaczenia dla funkcjonowania sądu lub prokuratury.
+
+### 3.
+
+Minister właściwy do spraw sprawiedliwości może określić, w drodze rozporządzenia:
+
+### 1)
+
+regulamin premiowania urzędników i innych pracowników zatrudnionych przy ściąganiu należności sądowych oraz w wydziałach ksiąg wieczystych,
+
+### 2)
+
+regulamin przyznawania urzędnikom i innym pracownikom sądów i prokuratury nagród za szczególne osiągnięcia w pracy.
+
+### Art. 15.
+
+Urzędnikowi i innemu pracownikowi sądu lub prokuratury przysługuje dodatek za wieloletnią pracę w wysokości wynoszącej po 5 latach pracy 5% miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1% za każdy dalszy rok pracy aż do osiągnięcia 20% miesięcznego wynagrodzenia zasadniczego.
+
+### Art. 16.
+
+Za wieloletnią pracę urzędnik i inny pracownik sądu lub prokuratury otrzymuje nagrodę jubileuszową w wysokości:
+
+### 1)
+
+po 20 latach pracy - 75% wynagrodzenia miesięcznego,
+
+### 2)
+
+po 25 latach pracy - 100% wynagrodzenia miesięcznego,
+
+### 3)
+
+po 30 latach pracy - 150% wynagrodzenia miesięcznego,
+
+### 4)
+
+po 35 latach pracy - 200% wynagrodzenia miesięcznego,
+
+### 5)
+
+po 40 latach pracy - 300% wynagrodzenia miesięcznego,
+
+### 6)
+
+po 45 latach pracy - 400% wynagrodzenia miesięcznego.
+
+### Art. 17.
+
+Urzędnikowi albo innemu pracownikowi sądu lub prokuratury, którego stosunek pracy ustał w związku z przejściem na rentę z tytułu niezdolności do pracy lub emeryturę, przysługuje jednorazowa odprawa w wysokości:
+
+### 1)
+
+dwumiesięcznego wynagrodzenia - po 10 latach pracy w sądzie lub prokuraturze,
+
+### 2)
+
+trzymiesięcznego wynagrodzenia - po 15 latach pracy w sądzie lub prokuraturze,
+
+### 3)
+
+sześciomiesięcznego wynagrodzenia - po 20 latach pracy w sądzie lub prokuraturze.
+
+### Art. 18.
+
+W sprawach nie uregulowanych niniejszą ustawą do urzędników i innych pracowników sądów i prokuratury stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1984 r. Nr 35, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1984/187/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1989/24/text.html), [Nr 34, poz. 178 i 182](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html), z [1990 r. Nr 20, poz. 121](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.html), z [1991 r. Nr 55, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.html), [Nr 88, poz. 400](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.html) i [Nr 95, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 90, poz. 451](https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html), z [1994 r. Nr 136, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1994/704/text.html), z [1995 r. Nr 132, poz. 640](https://api.sejm.gov.pl/eli/acts/DU/1995/640/text.html), z [1996 r. Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 133, poz. 882 i 883](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 131, poz. 860](https://api.sejm.gov.pl/eli/acts/DU/1998/860/text.html), [Nr 155, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text.html) i [Nr 162, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.html)), a w sprawach nie uregulowanych także w tej ustawie - przepisy ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), [Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 113, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/1998/717/text.html)).
+
+### Art. 19.
+
+W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych ([Dz. U. z 1994 r. Nr 7, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/1994/25/text.html), [Nr 77, poz. 355](https://api.sejm.gov.pl/eli/acts/DU/1994/355/text.html), [Nr 91, poz. 421](https://api.sejm.gov.pl/eli/acts/DU/1994/421/text.html) i [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 81, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1995/406/text.html), z [1996 r. Nr 77, poz. 367](https://api.sejm.gov.pl/eli/acts/DU/1996/367/text.html), z [1997 r. Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 106, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/1997/679/text.html), [Nr 117, poz. 751-753](https://api.sejm.gov.pl/eli/acts/DU/1997/751/text.html), [Nr 121, poz. 769](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html), [Nr 124, poz. 782](https://api.sejm.gov.pl/eli/acts/DU/1997/782/text.html) i [Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html) oraz z [1998 r. Nr 98, poz. 607](https://api.sejm.gov.pl/eli/acts/DU/1998/607/text.html), [Nr 160, poz. 1064](https://api.sejm.gov.pl/eli/acts/DU/1998/1064/text.html) i [Nr 162, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł działu V otrzymuje brzmienie: „ Kuratorzy, referendarze sądowi, urzędnicy i inni pracownicy sądowi ” ;
+
+### 2)
+
+w art. 120 dodaje się § 7 w brzmieniu:
+
+„
+
+### § 7.
+
+W sprawach nie uregulowanych niniejszą ustawą do kuratorów zawodowych stosuje się odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125).
+
+” ;
+
+### 3)
+
+w art. 1221 dodaje się § 6 w brzmieniu:
+
+„
+
+### § 6.
+
+W sprawach nie uregulowanych niniejszą ustawą do referendarzy sądowych stosuje się odpowiednio przepisy ustawy z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125).
+
+” ;
+
+### 4)
+
+art. 123 otrzymuje brzmienie:
+
+„
+
+### Art. 123.
+
+### § 1.
+
+W sądach są zatrudnieni urzędnicy i inni pracownicy sądowi.
+
+### § 2.
+
+Zasady zatrudniania urzędników i innych pracowników sądowych oraz ich obowiązki i prawa określają odrębne przepisy.
+
+” ;
+
+### 5)
+
+w art. 124 w § 1 skreśla się pkt 4.
+
+### Art. 20.
+
+W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 1994 r. Nr 19, poz. 70](https://api.sejm.gov.pl/eli/acts/DU/1994/70/text.html) i [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html), z [1996 r. Nr 77, poz. 367](https://api.sejm.gov.pl/eli/acts/DU/1996/367/text.html), z [1997 r. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), [Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 106, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/1997/679/text.html), [Nr 117, poz. 752 i 753](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 124, poz. 782](https://api.sejm.gov.pl/eli/acts/DU/1997/782/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html) oraz z [1998 r. Nr 98, poz. 607](https://api.sejm.gov.pl/eli/acts/DU/1998/607/text.html), [Nr 155, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text.html) i [Nr 162, poz. 1123](https://api.sejm.gov.pl/eli/acts/DU/1998/1123/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł rozdziału 6 otrzymuje brzmienie: „ Urzędnicy i inni pracownicy ” ;
+
+### 2)
+
+art. 101 otrzymuje brzmienie:
+
+„
+
+### Art. 101.
+
+### 1.
+
+W powszechnych jednostkach organizacyjnych prokuratury zatrudnieni są urzędnicy i inni pracownicy.
+
+### 2.
+
+Zasady zatrudniania urzędników i innych pracowników oraz ich obowiązki i prawa określają odrębne przepisy.
+
+”
+
+### Art. 21.
+
+### 1.
+
+Z dniem wejścia w życie ustawy osoby zatrudnione na podstawie dotychczasowych przepisów jako pracownicy administracyjni przez okres co najmniej roku w sądach lub jednostkach organizacyjnych prokuratury stają się urzędnikami w rozumieniu ustawy.
+
+### 2.
+
+Z dniem wejścia w życie ustawy osoby zatrudnione w sądach lub jednostkach organizacyjnych prokuratury na stanowiskach pomocniczych, technicznych, robotniczych i obsługi oraz pracownicy administracyjni zatrudnieni przez okres krótszy niż rok stają się innymi pracownikami w rozumieniu ustawy.
+
+### Art. 22.
+
+Stosunki pracy nawiązane przed dniem wejścia w życie ustawy na podstawie mianowania pozostają w mocy i mogą być zmieniane i rozwiązywane na zasadach określonych w ustawie o pracownikach urzędów państwowych.
+
+### Art. 23.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

@@ -1,0 +1,68 @@
+---
+title: Rozporządzenie Ministra Cyfryzacji z dnia 21 grudnia 2016 r. zmieniające rozporządzenie w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców
+address: WDU20160002219
+eli: DU/2016/2219
+publisher: DU
+year: 2016
+pos: 2219
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Cyfryzacjiz dnia 21 grudnia 2016 r. zmieniające rozporządzenie w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców [1) Minister Cyfryzacji kieruje działem administracji rządowej - informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 2219 |
+| ISAP | WDU20160002219 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-12-21 |
+| Data wydania | 2016-12-29 |
+| Wejście w życie | 2017-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/2219/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/2219) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 48a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami ([Dz. U. z 2016 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2016/627/text.html), [904](https://api.sejm.gov.pl/eli/acts/DU/2016/904/text.html), [1241](https://api.sejm.gov.pl/eli/acts/DU/2016/1241/text.html), [1579](https://api.sejm.gov.pl/eli/acts/DU/2016/1579/text.html), [1948](https://api.sejm.gov.pl/eli/acts/DU/2016/1948/text.html) i [2001](https://api.sejm.gov.pl/eli/acts/DU/2016/2001/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Cyfryzacji z dnia 9 sierpnia 2016 r. w sprawie przekazywania staroście informacji o naruszeniach przepisów ruchu drogowego przez osoby szkolone w ośrodku szkolenia kierowców ([Dz. U. poz. 1274](https://api.sejm.gov.pl/eli/acts/DU/2016/1274/text.html)) § 5 i 6 otrzymują brzmienie:
+
+„
+
+### § 5.
+
+Informację udostępnia się po raz pierwszy:
+
+### 1)
+
+w przypadku informacji sporządzanej za okres miesięczny - w dniu 7 lipca 2018 r.;
+
+### 2)
+
+w przypadku informacji sporządzanej za okres kwartalny - w dniu 7 października 2018 r., za okres od dnia 4 czerwca 2018 r. do dnia 30 września 2018 r.;
+
+### 3)
+
+w przypadku informacji sporządzanej za okres półroczny - w dniu 7 stycznia 2019 r., za poprzednie półrocze;
+
+### 4)
+
+w przypadku informacji sporządzanej za okres roczny - w dniu 7 stycznia 2020 r., za poprzedni rok kalendarzowy.
+
+### § 6.
+
+Rozporządzenie wchodzi w życie z dniem 4 czerwca 2018 r.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+
+1) Minister Cyfryzacji kieruje działem administracji rządowej - informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1910 i 2090).

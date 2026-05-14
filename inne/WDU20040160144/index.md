@@ -8,11 +8,9 @@ pos: 144
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 10 grudnia 2003 r.*
+# Ustawa z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +22,50 @@ domain: null
 | Data ogłoszenia | 2003-12-10 |
 | Data wydania | 2004-02-04 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040160144) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/144/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/144/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/144) |
 
-**Art. 1.** Na obszarze Rzeczypospolitej Polskiej wprowadza się czas urzędowy.
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania.
+Na obszarze Rzeczypospolitej Polskiej wprowadza się czas urzędowy.
 
-2. Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL).
+### Art. 2.
 
-3. Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL).
+### 1.
 
-4. Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości.
+Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania.
 
-**Art. 3.** Prezes Rady Ministrów wprowadza i odwołuje czas letni środkowoeuropejski, w drodze rozporządzenia, ustalając na okres co najmniej jednego roku kalendarzowego dokładne daty, od których następuje wprowadzenie lub odwołanie czasu letniego, uwzględniając istniejące standardy międzynarodowe w tym zakresie.
+### 2.
 
-**Art. 4.**
+Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL).
 
-1. Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar.
+### 3.
 
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygna łów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników.
+Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL).
 
-**Art. 5.** Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim (Dz. U. Nr 29, poz. 128).
+### 4.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości.
 
+### Art. 3.
+
+Prezes Rady Ministrów wprowadza i odwołuje czas letni środkowoeuropejski, w drodze rozporządzenia, ustalając na okres co najmniej jednego roku kalendarzowego dokładne daty, od których następuje wprowadzenie lub odwołanie czasu letniego, uwzględniając istniejące standardy międzynarodowe w tym zakresie.
+
+### Art. 4.
+
+### 1.
+
+Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar.
+
+### 2.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników.
+
+### Art. 5.
+
+Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim ([Dz. U. Nr 29, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1996/128/text.html)).
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

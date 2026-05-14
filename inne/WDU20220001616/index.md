@@ -8,9 +8,9 @@ pos: 1616
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych
+# Ustawa z dnia 7 lipca 2022 r. o zmianie ustawy o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej oraz ustawy o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych [1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60, Dz. Urz. UE L 134 z 24.05.2016, str. 135, Dz. Urz. UE L 317 z 01.12.2017, str. 119, Dz. Urz. UE L 104 z 15.04.2019, str. 1, Dz. Urz. UE L 131 z 24.04.2020, str. 1 oraz Dz. Urz. UE L 444 z 10.12.2021, str. 16); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/958 z dnia 28 czerwca 2018 r. w sprawie analizy proporcjonalności przed przyjęciem nowych regulacji dotyczących zawodów (Dz. Urz. UE L 173 z 09.07.2018, str. 25).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,372 @@ domain: null
 | Data ogłoszenia | 2022-07-07 |
 | Data wydania | 2022-08-02 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001616) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1616/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1616/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1616) |
 
-**Art. 1.** W ustawie 22 grudnia 2015 o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. 2021 poz. 1646) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 3.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### Art. 1.
 
+W ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej ([Dz. U. z 2021 r. poz. 1646](https://api.sejm.gov.pl/eli/acts/DU/2021/1646/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 4 otrzymuje brzmienie:
+
+„
+
+### Art. 4.
+
+Przepisów ustawy nie stosuje się do zawodu notariusza oraz do zawodów regulowanych i działalności regulowanych bezpośrednio i szczególnie związanych z wykonywaniem władzy publicznej na terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 2)
+
+w art. 5 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu:
+
+„
+
+### 20)
+
+istotnie różniącym się materiale - oznacza to materiał obejmujący nabytą wiedzę, umiejętności i kompetencje, które mają zasadnicze znaczenie dla wykonywania zawodu, i w odniesieniu do którego kształcenie odbyte przez wnioskodawcę wykazuje istotne, pod względem treści, różnice w porównaniu z zakresem kształcenia wymaganym w Rzeczypospolitej Polskiej.
+
+” ;
+
+### 3)
+
+w art. 20:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Właściwy organ, z zachowaniem proporcjonalności, może uzależnić, w drodze postanowienia, wydanie decyzji w sprawie uznania kwalifikacji od odbycia przez wnioskodawcę stażu adaptacyjnego lub przystąpienia przez niego do testu umiejętności, w przypadku gdy:
+
+### 1)
+
+zakres kształcenia lub szkolenia odbytego przez wnioskodawcę obejmuje istotnie różniący się materiał lub
+
+### 2)
+
+na zawód regulowany w Rzeczypospolitej Polskiej składa się co najmniej jedna czynność zawodowa, która nie wchodzi w zakres odpowiadającego mu zawodu w państwie wnioskodawcy, a kształcenie lub szkolenie wymagane w Rzeczypospolitej Polskiej obejmuje istotnie różniący się materiał od materiału objętego kształceniem lub szkoleniem, którego ukończenie potwierdza dokument potwierdzający posiadanie formalnych kwalifikacji wnioskodawcy.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Właściwy organ przed wydaniem postanowienia, o którym mowa w ust. 1, ustala na podstawie dokumentów wydanych w państwie członkowskim lub w państwie niebędącym państwem członkowskim, czy wiedza, umiejętności i kompetencje nabyte przez wnioskodawcę:
+
+### 1)
+
+podczas zdobywania doświadczenia zawodowego lub
+
+### 2)
+
+przez potwierdzone efekty uczenia się w rozumieniu przepisów o szkolnictwie wyższym i nauce, lub
+
+### 3)
+
+przez potwierdzone efekty kształcenia w rozumieniu przepisów o systemie oświaty
+
+- wyrównują w całości albo w części istotnie różniący się materiał.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W postanowieniu, o którym mowa w ust. 1, właściwy organ określa:
+
+### 1)
+
+poziom kwalifikacji zawodowych wymagany do wykonywania zawodu regulowanego w Rzeczypospolitej Polskiej i poziom kwalifikacji zawodowych posiadanych przez wnioskodawcę,
+
+### 2)
+
+zakres istotnie różniącego się materiału podlegającego wyrównaniu oraz powody braku możliwości wyrównania tego materiału wiedzą, umiejętnościami i kompetencjami nabytymi przez wnioskodawcę w sposób określony w ust. 1a,
+
+### 3)
+
+zakres i czas trwania stażu adaptacyjnego lub zakres testu umiejętności
+
+- mając na uwadze konieczność wyrównania istotnie różniącego się materiału w stopniu niezbędnym do wykonywania zawodu regulowanego albo podjęcia lub wykonywania działalności regulowanej.
+
+” ;
+
+### 4)
+
+w art. 21 w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+wskazania zakresu istotnie różniącego się materiału, z uwzględnieniem stopnia wyrównania tego materiału w sposób określony w art. 20 ust. 1a.
+
+” ;
+
+### 5)
+
+art. 29 otrzymuje brzmienie:
+
+„
+
+### Art. 29.
+
+### 1.
+
+Osoba, której kwalifikacje zawodowe do wykonywania zawodu regulowanego albo podjęcia lub wykonywania działalności regulowanej podlegają uznaniu, jest obowiązana posiadać znajomość języka polskiego w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej.
+
+### 2.
+
+Właściwy organ, po wydaniu decyzji w sprawie uznania kwalifikacji albo po wydaniu europejskiej legitymacji zawodowej:
+
+### 1)
+
+może sprawdzić znajomość języka polskiego w przypadku osoby wykonującej zawód mający wpływ na bezpieczeństwo pacjentów, a także w przypadku osoby wykonującej inny zawód ‒ jeżeli zachodzi uzasadniona wątpliwość co do posiadania znajomości języka polskiego w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej;
+
+### 2)
+
+sprawdza znajomość języka polskiego na wniosek osoby, której kwalifikacje zawodowe do wykonywania zawodu regulowanego albo podjęcia lub wykonywania działalności regulowanej podlegały uznaniu.
+
+### 3.
+
+Znajomość języka polskiego jest sprawdzana z zachowaniem proporcjonalności w odniesieniu do danego zawodu regulowanego albo danej działalności regulowanej.
+
+### 4.
+
+Osoba, o której mowa w ust. 2, może potwierdzić znajomość języka polskiego przez:
+
+### 1)
+
+przedłożenie właściwemu organowi dokumentu potwierdzającego znajomość języka polskiego w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej, wydanego przez uprawniony podmiot działający w Rzeczypospolitej Polskiej lub w innym państwie członkowskim, w szczególności świadectwa dojrzałości uzyskanego po zdaniu egzaminu maturalnego w języku polskim lub dyplomu ukończenia studiów prowadzonych w języku polskim;
+
+### 2)
+
+złożenie egzaminu z języka polskiego, przeprowadzanego przez właściwy organ.
+
+### 5.
+
+Za przeprowadzenie egzaminu z języka polskiego jest pobierana opłata, której wysokość ustala jednostka przeprowadzająca egzamin. Opłatę wnosi się na rachunek bankowy jednostki przeprowadzającej egzamin.
+
+### 6.
+
+Opłata, o której mowa w ust. 5, jest ustalana w wysokości kosztów przeprowadzenia egzaminu z języka polskiego, przy czym jej wysokość nie może przekroczyć 15% minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, obowiązującego w roku przeprowadzenia egzaminu.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 2, właściwy organ na podstawie dokumentu, o którym mowa w ust. 4 pkt 1, lub na podstawie wyniku egzaminu z języka polskiego wydaje zaświadczenie o znajomości języka polskiego w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej. Odmowa potwierdzenia znajomości języka polskiego następuje w drodze decyzji administracyjnej.
+
+### 8.
+
+W przypadku uzyskania negatywnego wyniku egzaminu z języka polskiego właściwy organ, przed wydaniem decyzji, o której mowa w ust. 7, wyznacza termin, w którym osoba, o której mowa w ust. 2, może ponownie przystąpić do egzaminu.
+
+### 9.
+
+Minister kierujący działem administracji rządowej właściwy w sprawach uznawania kwalifikacji zawodowych do wykonywania zawodu regulowanego albo podejmowania lub wykonywania działalności regulowanej należących do danego działu może określić, w drodze rozporządzenia:
+
+### 1)
+
+zakres znajomości języka polskiego w mowie i w piśmie w stopniu niezbędnym do wykonywania danego zawodu regulowanego albo danej działalności regulowanej,
+
+### 2)
+
+sposób przeprowadzania egzaminu z języka polskiego,
+
+### 3)
+
+jednostki przeprowadzające egzamin z języka polskiego
+
+- mając na względzie zakres czynności zawodowych wykonywanych w ramach danego zawodu regulowanego albo danej działalności regulowanej, konieczność zachowania proporcjonalności sprawdzania znajomości języka polskiego oraz przejrzystość przeprowadzania egzaminu z języka polskiego.
+
+” ;
+
+### 6)
+
+w art. 34 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku gdy zakres kształcenia lub szkolenia odbytego przez usługodawcę obejmuje istotnie różniący się materiał, w którym wykazano różnice mogące być szkodliwe dla zdrowia lub bezpieczeństwa publicznego, a wiedza, umiejętności lub kompetencje nabyte przez usługodawcę podczas zdobywania doświadczenia zawodowego lub przez potwierdzone efekty uczenia się, lub przez potwierdzone efekty kształcenia nie mogą wyrównać tych różnic, właściwy organ zobowiązuje usługodawcę do przystąpienia do testu umiejętności i w terminie miesiąca od nałożenia tego zobowiązania wydaje decyzję w sprawie uznania kwalifikacji.
+
+” ;
+
+### 7)
+
+w art. 36:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku uzasadnionych wątpliwości właściwy organ może wystąpić do właściwych organów państwa usługodawcy o potwierdzenie, że usługodawca wykonuje zawód regulowany albo działalność regulowaną zgodnie z prawem i z dołożeniem należytej staranności oraz że nie zostały na niego nałożone kary dyscyplinarne lub nie został skazany prawomocnym wyrokiem sądu w związku z wykonywaniem zawodu regulowanego albo działalności regulowanej.
+
+” ,
+
+### b)
+
+w ust. 2 po wyrazach „informacji dotyczących kształcenia lub szkolenia ukończonego przez usługodawcę” dodaje się przecinek i wyrazy „w zakresie niezbędnym do oceny, czy różnice wykazane w istotnie różniącym się materiale mogą być szkodliwe dla zdrowia lub bezpieczeństwa publicznego”;
+
+### 8)
+
+w art. 39:
+
+### a)
+
+w ust. 1 wyrazy „różnic w zakresie zawodu i niemożliwości wyrównania brakującej wiedzy, umiejętności i kompetencji, wymaganych” zastępuje się wyrazami „niewyrównania w całości istotnie różniącego się materiału w zakresie kształcenia lub szkolenia wymaganego”,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przepisów ust. 1‒3 nie stosuje się do automatycznego uznania:
+
+### 1)
+
+kwalifikacji zawodowych uznawanych na podstawie dokumentów, o których mowa w załącznikach V i VI do dyrektywy, albo uznanych na zasadzie praw nabytych;
+
+### 2)
+
+kwalifikacji zawodowych, o których mowa w art. 16 ust. 1;
+
+### 3)
+
+kwalifikacji zawodowych do wykonywania zawodów regulowanych i działalności regulowanych, o których mowa w art. 30.
+
+” ;
+
+### 9)
+
+w art. 50a w ust. 3 po wyrazie „przeprowadza” dodaje się wyrazy „w sposób obiektywny i niezależny”;
+
+### 10)
+
+w art. 50b w ust. 5:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ W ramach oceny w zakresie, o którym mowa w ust. 3 pkt 6, uwzględnia się wymóg zawarty w przepisach regulacyjnych, dotyczący: ” ,
+
+### b)
+
+w części wspólnej wyraz „występują” zastępuje się wyrazem „występuje”;
+
+### 11)
+
+w art. 50e w ust. 3:
+
+### a)
+
+we wprowadzeniu do wyliczenia wyraz „wymogi” zastępuje się wyrazem „wymóg”,
+
+### b)
+
+w części wspólnej wyraz „występują” zastępuje się wyrazem „występuje”;
+
+### 12)
+
+w art. 50f w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Powody uznania projektowanych przepisów regulacyjnych lub projektowanych wymogów dotyczących świadczenia usług transgranicznych za zgodne z zasadami proporcjonalności, uzasadnionego i niedyskryminującego charakteru przedstawia się w sposób szczegółowy, umożliwiający weryfikację zgodności tych przepisów lub wymogów z wymienionymi zasadami, w uzasadnieniu projektu aktu prawnego, w tym aktu normatywnego, zawierającego te przepisy lub wymogi albo w załączniku do oceny skutków regulacji, stanowiącej odrębną część uzasadnienia projektu aktu normatywnego. ” ;
+
+### 13)
+
+w art. 52c we wprowadzeniu do wyliczenia wyraz „dotyczące” zastępuje się wyrazem „do”.
+
+### Art. 2.
+
+W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych ([Dz. U. z 2019 r. poz. 1140](https://api.sejm.gov.pl/eli/acts/DU/2019/1140/text.html) oraz [z 2022 r. poz. 1570](https://api.sejm.gov.pl/eli/acts/DU/2022/1570/text.html)) w art. 2h:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Lekarz weterynarii, będący obywatelem państwa członkowskiego, który posiada prawo wykonywania zawodu lekarza weterynarii w innym niż Rzeczpospolita Polska państwie członkowskim, może czasowo wykonywać ten zawód na terytorium Rzeczypospolitej Polskiej bez konieczności wpisu do rejestru członków okręgowej izby lekarsko-weterynaryjnej prowadzonego przez okręgową radę lekarsko-weterynaryjną, jeżeli przed podjęciem czynności zawodowych złoży właściwej ze względu na miejsce, w którym zamierza wykonywać ten zawód, okręgowej radzie lekarsko-weterynaryjnej, a w przypadku gdy określenie tego miejsca nie jest możliwe, wybranej przez niego okręgowej radzie lekarsko-weterynaryjnej:
+
+### 1)
+
+pisemne oświadczenie o zamiarze wykonywania tego zawodu, z podaniem, jeżeli jest to możliwe, miejsca i czasu jego wykonywania oraz adresu poczty elektronicznej lub numeru telefonu, jeżeli posiada;
+
+### 2)
+
+dokument potwierdzający obywatelstwo;
+
+### 3)
+
+zaświadczenie, wydane przez właściwe organy państwa członkowskiego, potwierdzające, że:
+
+### a)
+
+posiada w tym państwie prawo wykonywania tego zawodu, które nie jest zawieszone lub ograniczone,
+
+### b)
+
+wykonuje ten zawód;
+
+### 4)
+
+dokument potwierdzający kwalifikacje do wykonywania tego zawodu.
+
+” ;
+
+### 2)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Okręgowa rada lekarsko-weterynaryjna prowadzi ewidencję lekarzy weterynarii określonych w ust. 1, czasowo wykonujących zawód lekarza weterynarii.
+
+” ;
+
+### 3)
+
+w ust. 6 pkt 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4)
+
+adres czasowego wykonywania zawodu i oznaczenie czasu wykonywania czynności zawodowych podjętych na terenie działania okręgowej izby lekarsko-weterynaryjnej, jeżeli jest to możliwe;
+
+### 5)
+
+adres poczty elektronicznej lub numer telefonu, jeżeli zostały podane.
+
+” .
+
+### Art. 3.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejsza ustawa w zakresie swojej regulacji wdraża: 1) dyrektywę 2005/36/WE Parlamentu Europejskiego i Rady z dnia 7 września 2005 r. w sprawie uznawania kwalifikacji zawodowych (Dz. Urz. UE L 255 z 30.09.2005, str. 22, Dz. Urz. UE L 363 z 20.12.2006, str. 141, Dz. Urz. UE L 271 z 16.10.2007, str. 18, Dz. Urz. UE L 320 z 06.12.2007, str. 3, Dz. Urz. UE L 93 z 04.04.2008, str. 28, Dz. Urz. UE L 205 z 01.08.2008, str. 10, Dz. Urz. UE L 311 z 21.11.2008, str. 1, Dz. Urz. UE L 93 z 07.04.2009, str. 11, Dz. Urz. UE L 59 z 04.03.2011, str. 4, Dz. Urz. UE L 112 z 24.04.2012, str. 21, Dz. Urz. UE L 180 z 12.07.2012, str. 9, Dz. Urz. UE L 158 z 10.06.2013, str. 368, Dz. Urz. UE L 354 z 28.12.2013, str. 132, Dz. Urz. UE L 305 z 24.10.2014, str. 115, Dz. Urz. UE L 177 z 08.07.2015, str. 60, Dz. Urz. UE L 134 z 24.05.2016, str. 135, Dz. Urz. UE L 317 z 01.12.2017, str. 119, Dz. Urz. UE L 104 z 15.04.2019, str. 1, Dz. Urz. UE L 131 z 24.04.2020, str. 1 oraz Dz. Urz. UE L 444 z 10.12.2021, str. 16); 2) dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/958 z dnia 28 czerwca 2018 r. w sprawie analizy proporcjonalności przed przyjęciem nowych regulacji dotyczących zawodów (Dz. Urz. UE L 173 z 09.07.2018, str. 25).

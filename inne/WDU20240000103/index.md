@@ -1,0 +1,115 @@
+---
+title: Obwieszczenie Ministra Zdrowia z dnia 25 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej
+address: WDU20240000103
+eli: DU/2024/103
+publisher: DU
+year: 2024
+pos: 103
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Zdrowiaz dnia 25 stycznia 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 103 |
+| ISAP | WDU20240000103 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-01-25 |
+| Data wydania | 2024-01-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/103/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/103) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Zdrowia z dnia 15 kwietnia 2019 r. w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 15 kwietnia 2019 r. w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej ([Dz. U. z 2022 r. poz. 1417](https://api.sejm.gov.pl/eli/acts/DU/2022/1417/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającym rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej ([Dz. U. poz. 398](https://api.sejm.gov.pl/eli/acts/DU/2023/398/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającego rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej ([Dz. U. poz. 398](https://api.sejm.gov.pl/eli/acts/DU/2023/398/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Do dnia 30 czerwca 2023 r. skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, mogą być wystawiane na dotychczasowych zasadach.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).
+
+## Załącznik - Rozporządzenie Ministra Zdrowia z dnia 15 kwietnia 2019 r. w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej[1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704).](#gloss-0:1:)
+
+Na podstawie art. 59aa ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2022 r. poz. 2561](https://api.sejm.gov.pl/eli/acts/DU/2022/2561/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733, 1831, 1872, 1938 i 2730.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa wykaz świadczeń opieki zdrowotnej, dla których skierowania są wystawiane w postaci elektronicznej w Systemie Informacji Medycznej, o którym mowa w art. 5 ust. 1 pkt 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ([Dz. U. z 2023 r. poz. 2465](https://api.sejm.gov.pl/eli/acts/DU/2023/2465/text.html)).
+
+### § 2.
+
+Skierowania, o których mowa w § 1, są wystawiane na:
+
+### 1)
+
+ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych, o których mowa w art. 57 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem porady specjalistycznej - logopedia, o której mowa w przepisach wydanych na podstawie art. 31d tej ustawy;
+
+### 2)
+
+badania:
+
+### a)
+
+echokardiograficzne płodu finansowane ze środków publicznych,
+
+### b)
+
+endoskopowe przewodu pokarmowego finansowane ze środków publicznych,
+
+### c)
+
+medycyny nuklearnej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne,
+
+### d)
+
+rezonansu magnetycznego finansowane ze środków publicznych,
+
+### e)
+
+tomografii komputerowej finansowane ze środków publicznych oraz ze środków innych niż środki publiczne;
+
+### 3)
+
+leczenie szpitalne w szpitalu, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o którym mowa w art. 58 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+
+### 4)
+
+rehabilitację leczniczą u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, o której mowa w art. 59 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+
+### 5[3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającego rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. poz. 398), które weszło w życie z dniem 17 marca 2023 r.](#gloss-0:3:))
+
+leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, o których mowa w art. 33 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem przypadku, gdy świadczenie ma być zrealizowane przez podmioty udzielające świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego poza granicami kraju.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[4) Rozporządzenie zostało ogłoszone w dniu 17 kwietnia 2019 r.](#gloss-0:4:).
+
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - zdrowie kieruje Minister Zdrowia, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2704). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2674 i 2770 oraz z 2023 r. poz. 605, 650, 658, 1234, 1429, 1675, 1692, 1733, 1831, 1872, 1938 i 2730. 3) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 2 stycznia 2023 r. zmieniającego rozporządzenie w sprawie skierowań wystawianych w postaci elektronicznej w Systemie Informacji Medycznej (Dz. U. poz. 398), które weszło w życie z dniem 17 marca 2023 r. 4) Rozporządzenie zostało ogłoszone w dniu 17 kwietnia 2019 r.

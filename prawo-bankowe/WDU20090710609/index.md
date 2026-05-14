@@ -8,8 +8,8 @@ pos: 609
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
 # Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe
 
 | Pole | Wartość |
@@ -22,63 +22,274 @@ domain: null
 | Data ogłoszenia | 2009-04-24 |
 | Data wydania | 2009-05-12 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090710609) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/609/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/609/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/609) |
 
-**Art. 1.** W ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. U. 2007 11, 74, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 – Prawo bankowe (Dz. U. 2002 72,
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2007 r. Nr 11, poz. 74](https://api.sejm.gov.pl/eli/acts/DU/2007/74/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6, poz. 33, Nr 8, poz. 38, Nr 14, poz. 75, Nr 18, poz. 97, Nr 22, poz. 120 i Nr 68, poz. 574.](#gloss-0:1:)) wprowadza się następujące zmiany:
 
-1. Na wniosek płatnika składek, który okresie od dnia 1 stycznia 1999 do dnia wejścia życie niniejszej ustawy, zgłaszał ubezpieczonego podlegającego obowiązkowo ubezpieczeniom emerytalnemu, rentowym wypadkowemu tytułu, o którym mowa art. 6 1 pkt 5 ustawy zmienianej art. 1, jednocześnie pobierającego zasiłek macierzyński lub zasiłek wysokości macierzyńskiego innego tytułu, Zakład Ubezpieczeń Społecznych umarza należności tytułu składek te ubezpieczenia należnych za tego ubezpieczonego związku prowadzeniem pozarolniczej działalności lub współpracy przy tej działalności za okres, którym ubezpieczony pobierał zasiłek macierzyński lub zasiłek wysokości innego tytułu.
+### 1)
 
-2. Jeżeli wyniku umorzenia należności powstała nadpłata tytułu składek ubezpieczenia emerytalne, rentowe wypadkowe, zalicza się ją poczet zaległych, bieżących lub przyszłych składek, a razie ich braku zwraca płatnikowi składek.
+w art. 9:
 
-3. Przepisy 1 2 stosuje się również do składek ubezpieczenie chorobowe Fundusz Pracy.
+### a)
 
-4. Zaliczenie poczet zaległych, bieżących lub przyszłych składek albo jej zwrot obejmuje również opłacone odsetki za zwłokę, części odpowiadającej kwocie zaliczenia lub zwrotu.
+po ust. 1b dodaje się ust. 1c i 1d w brzmieniu:
 
-5. Przepisy 1-4 stosuje się odpowiednio do opłaty prolongacyjnej.
+„
 
-**Art. 4.**
+### 1c.
 
-1. Na wniosek płatnika składek, który okresie od dnia 1 stycznia 1999 do dnia wejścia życie niniejszej ustawy, zgłaszał ubezpieczonego podlegającego obowiązkowo ubezpieczeniom emerytalnemu, rentowym wypadkowemu tytułu, o którym mowa art. 6 1 pkt 5 ustawy zmienianej art. 1, jednocześnie przebywającego urlopie wychowawczym, Zakład Ubezpieczeń Społecznych umarza całości lub części należności tytułu nieopłaconych składek te ubezpieczenia należnych za tego ubezpieczonego związku prowadzeniem pozarolniczej działalności lub współpracy przy tej działalności za okres, którym ubezpieczony przebywał urlopie wychowawczym.
+Osoby, o których mowa w art. 6 ust. 1 pkt 2, 4, 5, 8 i 10, spełniające jednocześnie warunki do objęcia ich obowiązkowo ubezpieczeniami emerytalnym i rentowymi z tytułu pobierania zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego, podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym z tytułu pobierania zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego. Mogą one jednak dobrowolnie, na swój wniosek, być objęte ubezpieczeniami emerytalnym i rentowymi także z pozostałych, wszystkich lub wybranych, tytułów.
 
-2. Na wniosek płatnika składek, pobrane przez Zakład Ubezpieczeń Społecznych okresie od 1 stycznia 1999 do dnia wejścia niniejszej ustawy życie, odsetki wy płatnika składek albo rachunek spółdzielczej kasie oszczędnościowokredytowej począwszy od dnia 1 stycznia 2010 r., terminie 5 lat od dnia wejścia życie niniejszej ustawy, kwotach ustalonych ustawie budżetowej dany rok. Do tego zwrotu nie stosuje się art. 24 6d ustawy zmienianej art.
+### 1d.
 
-1.
+Osoby, o których mowa w art. 6 ust. 1 pkt 1, 3 i 18a, spełniające jednocześnie warunki do objęcia ich obowiązkowo ubezpieczeniami emerytalnym i rentowymi z tytułu pobierania zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego, podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym z obu tytułów.
 
-5. Przepisy 1–4 stosuje się odpowiednio do należności Funduszu Pracy tytułu składek ten Fundusz.
+” ,
 
-**Art. 5.**
+### b)
 
-1. W sprawie umorzenia należności tytułu składek, o których mowa art. 3, Zakład Ubezpieczeń Społecznych wydaje decyzję, której określa wysokość umorzonych należności oraz kwoty podlegającej zaliczeniu lub zwrotowi, jeżeli powstała nadpłata, o której mowa art. 3 2.
+ust. 6 otrzymuje brzmienie:
 
-2. Od decyzji, o której mowa 1, przysługuje odwołanie do właściwego sądu terminie zasadach określonych art. 83 2, 3 5–7 ustawy zmienianej art. 1.
+„
 
-3. Zwrot następuje:
+### 6.
 
-- **1)** gotówce, podstawie przekazu pocztowego,
-- **2)** wskazany rachunek bankowy płatnika składek lub rachunek spółdzielczej kasie oszczędnościowo-kredytowej – terminie miesiąca od dnia doręczenia decyzji określającej wysokość kwoty zwrotu nadpłaty.
+Osoby, o których mowa w art. 6 ust. 1 pkt 8, i osoby przebywające na urlopach wychowawczych podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym, jeżeli nie mają ustalonego prawa do emerytury lub renty i nie mają innych tytułów rodzących obowiązek ubezpieczeń społecznych.
 
-4. Za dzień zwrotu uważa się dzień:
+” ;
 
-- **1)** obciążenia rachunku bankowego Zakładu Ubezpieczeń Społecznych podstawie polecenia przelewu;
-- **2)** nadania przekazu pocztowego.
+### 2)
 
-5. Jeżeli zwrot nie nastą pi terminie określonym 3, nadpłata podlega oprocentowaniu wysokości równej odsetkom za zwłokę pobieranym od zaległości podatkowych, od dnia złożenia wniosku, o którym mowa art. 3 1, do dnia dokonania zwrotu przez Zakład Ubezpieczeń Społecznych.
+w art. 12:
 
-6. Składki odprowadzone do otwartego funduszu emerytalnego podlegają zwrotowi zasadach określonych art. 24 8 8e ustawy zmienianej art. 1.
+### a)
 
-7. Przepisy 1, 2 4 stosuje się odpowiednio do zwrotu nadpłaty, o której mowa art. 4 3 4.
+ust. 1 otrzymuje brzmienie:
 
-1. W przypadku uwzględnienia wniosku, o którym mowa art. 3 1, koncie ubezpieczonego, którego dotyczył wniosek, Zakład Ubezpieczeń Społecznych, zewidencjonuje do dnia 31 grudnia 2012 całość składek ubezpieczenia emerytalne rentowe za okres pobierania lub wysokości macierzyńskiego, ustalonych od podstawy odpowiadającej kwocie tego zasiłku.
+„
 
-2. Do składek ubezpieczenia emerytalne rentowe zewidencjonowanych koncie ubezpieczonego stosuje się art. 19 ustawy zmienianej art. 1.
+### 1.
 
-**Art. 8.** Przepisy art. 3–7 stosuje się również do osób, które okresie od dnia 1 stycznia 1999 do dnia 31 marca 2001 były wspólnikami spółki cywilnej, nie posiadając wpisu do ewidencji działalności gospodarczej.
+Obowiązkowo ubezpieczeniu wypadkowemu podlegają osoby podlegające ubezpieczeniom emerytalnemu i rentowym.
 
-**Art. 9.** Przepisów art. 3–7 nie stosuje się do osób, za które związku prowadzoną pozarolniczą działalnością lub współpracą przy niej zostały opłacone należne składki które tego tytułu pobrały świadczenia ubezpieczeń społecznych.
+” ,
 
-**Art. 10.** Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, wyjątkiem art. 1 pkt 2, który wchodzi życie dniem 1 stycznia 2010 r., oraz art. 1 pkt 5, który wchodzi życie pierwszego dnia miesiąca następującego po upływie 12 miesięcy od dnia ogłoszenia.
+### b)
 
+uchyla się ust. 3;
+
+### 3)
+
+w art. 36:
+
+### a)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Osoba przebywająca na urlopie wychowawczym jest obowiązana poinformować płatnika składek o ustaleniu prawa do emerytury lub renty albo o podleganiu ubezpieczeniom społecznym z innego tytułu niż przebywanie na urlopie wychowawczym.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Osoby, które są obejmowane ubezpieczeniami społecznymi na zasadach dobrowolności, zgłaszają wniosek o objęcie ich ubezpieczeniem w terminie przez nie wybranym. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+” ,
+
+### c)
+
+uchyla się ust. 6;
+
+### 4)
+
+w art. 36a ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Za okres zawieszenia wykonywania działalności gospodarczej przedsiębiorca będący płatnikiem składek wyłącznie za siebie nie ma obowiązku składania deklaracji rozliczeniowej oraz opłacania składek na ubezpieczenia społeczne przewidzianych w ustawie.
+
+” ;
+
+### 5)
+
+w art. 47:
+
+### a)
+
+ust. 2c otrzymuje brzmienie:
+
+„
+
+### 2c.
+
+Osoby, o których mowa w ust. 2a, 2b, 2d i 2e, są zwolnione z obowiązku składania deklaracji rozliczeniowej lub imiennych raportów miesięcznych za kolejny miesiąc także wówczas, gdy zmiana w stosunku do miesiąca poprzedniego jest spowodowana wyłącznie zmianą minimalnego wynagrodzenia lub przeciętnego wynagrodzenia.
+
+” ,
+
+### b)
+
+po ust. 2c dodaje się ust. 2d i 2e w brzmieniu:
+
+„
+
+### 2d.
+
+Duchowni opłacający składki wyłącznie za siebie są zwolnieni z obowiązku składania deklaracji rozliczeniowej za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarowali do podstawy wymiaru składek:
+
+### 1)
+
+na ubezpieczenia społeczne - kwotę w wysokości określonej w art. 18 ust. 4 pkt 5a lub w ust. 4c;
+
+### 2)
+
+na ubezpieczenia zdrowotne - kwotę w wysokości określonej w art. 81 ust. 1 lub 10 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+### 2e.
+
+Osoby wymienione w art. 7 i 10 opłacające składki wyłącznie za siebie są zwolnione z obowiązku składania deklaracji rozliczeniowej za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarowali do podstawy wymiaru składek na ubezpieczenia społeczne - kwotę w wysokości określonej w art. 18 ust. 7.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341 i Nr 65, poz. 545.](#gloss-0:2:)) w art. 105 po ust. 2a dodaje się ust. 2b w brzmieniu:
+
+„
+
+### 2b.
+
+Banki, na pisemne żądanie organu wypłacającego świadczenie z ubezpieczenia społecznego lub zaopatrzenia emerytalnego albo uposażenie w stanie spoczynku, są obowiązane do sporządzania i przekazywania danych umożliwiających identyfikację współposiadacza (współposiadaczy) rachunku wspólnego, na który zostały przekazane świadczenia lub uposażenia za okres po śmierci świadczeniobiorcy.
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Na wniosek płatnika składek, który w okresie od dnia 1 stycznia 1999 r. do dnia wejścia w życie niniejszej ustawy zgłaszał ubezpieczonego podlegającego obowiązkowo ubezpieczeniom emerytalnemu, rentowym i wypadkowemu z tytułu, o którym mowa w art. 6 ust. 1 pkt 5 ustawy zmienianej w art. 1, i jednocześnie pobierającego zasiłek macierzyński lub zasiłek w wysokości zasiłku macierzyńskiego z innego tytułu, Zakład Ubezpieczeń Społecznych umarza należności z tytułu składek na te ubezpieczenia należnych za tego ubezpieczonego w związku z prowadzeniem pozarolniczej działalności lub współpracy przy tej działalności za okres, w którym ubezpieczony pobierał zasiłek macierzyński lub zasiłek w wysokości zasiłku macierzyńskiego z innego tytułu.
+
+### 2.
+
+Jeżeli w wyniku umorzenia należności powstała nadpłata z tytułu składek na ubezpieczenia emerytalne, rentowe i wypadkowe, zalicza się ją na poczet zaległych, bieżących lub przyszłych składek, a w razie ich braku - zwraca płatnikowi składek.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się również do składek na ubezpieczenie chorobowe i Fundusz Pracy.
+
+### 4.
+
+Zaliczenie nadpłaty na poczet zaległych, bieżących lub przyszłych składek albo jej zwrot obejmuje również opłacone odsetki za zwłokę, w części odpowiadającej kwocie zaliczenia lub zwrotu.
+
+### 5.
+
+Przepisy ust. 1-4 stosuje się odpowiednio do opłaty prolongacyjnej.
+
+### Art. 4.
+
+### 1.
+
+Na wniosek płatnika składek, który w okresie od dnia 1 stycznia 1999 r. do dnia wejścia w życie niniejszej ustawy zgłaszał ubezpieczonego podlegającego obowiązkowo ubezpieczeniom emerytalnemu, rentowym i wypadkowemu z tytułu, o którym mowa w art. 6 ust. 1 pkt 5 ustawy zmienianej w art. 1, i jednocześnie przebywającego na urlopie wychowawczym, Zakład Ubezpieczeń Społecznych umarza w całości lub w części należności z tytułu nieopłaconych składek na te ubezpieczenia należnych za tego ubezpieczonego w związku z prowadzeniem pozarolniczej działalności lub współpracy przy tej działalności za okres, w którym ubezpieczony przebywał na urlopie wychowawczym.
+
+### 2.
+
+Na wniosek płatnika składek, pobrane przez Zakład Ubezpieczeń Społecznych w okresie od dnia 1 stycznia 1999 r. do dnia wejścia niniejszej ustawy w życie, odsetki za zwłokę z tytułu nieopłaconych w terminie składek na ubezpieczenia emerytalne, rentowe i wypadkowe, o których mowa w ust. 1, podlegają umorzeniu.
+
+### 3.
+
+Jeżeli w wyniku umorzenia odsetek za zwłokę powstała nadpłata, zalicza się ją na poczet zaległych, bieżących lub przyszłych składek, a w razie ich braku - zwraca płatnikowi składek.
+
+### 4.
+
+Zwrotu, o którym mowa w ust. 3, Zakład Ubezpieczeń Społecznych dokonuje w gotówce, na podstawie przekazu pocztowego lub na wskazany rachunek bankowy płatnika składek albo rachunek w spółdzielczej kasie oszczędnościowo-kredytowej począwszy od dnia 1 stycznia 2010 r., w terminie 5 lat od dnia wejścia w życie niniejszej ustawy, w kwotach ustalonych w ustawie budżetowej na dany rok. Do tego zwrotu nie stosuje się art. 24 ust. 6d ustawy zmienianej w art. 1.
+
+### Art. 5.
+
+### 1.
+
+W sprawie umorzenia należności z tytułu składek, o których mowa w art. 3, Zakład Ubezpieczeń Społecznych wydaje decyzję, w której określa wysokość umorzonych należności oraz kwoty podlegającej zaliczeniu lub zwrotowi, jeżeli powstała nadpłata, o której mowa w art. 3 ust. 2.
+
+### 2.
+
+Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do właściwego sądu w terminie i na zasadach określonych w art. 83 ust. 2, 3 i 5-7 ustawy zmienianej w art. 1.
+
+### 3.
+
+Zwrot nadpłaty następuje:
+
+### 1)
+
+w gotówce, na podstawie przekazu pocztowego,
+
+### 2)
+
+na wskazany rachunek bankowy płatnika składek lub rachunek w spółdzielczej kasie oszczędnościowo-kredytowej
+
+- w terminie miesiąca od dnia doręczenia decyzji określającej wysokość kwoty zwrotu nadpłaty.
+
+### 4.
+
+Za dzień zwrotu nadpłaty uważa się dzień:
+
+### 1)
+
+obciążenia rachunku bankowego Zakładu Ubezpieczeń Społecznych na podstawie polecenia przelewu;
+
+### 2)
+
+nadania przekazu pocztowego.
+
+### 5.
+
+Jeżeli zwrot nadpłaty nie nastąpi w terminie określonym w ust. 3, nadpłata podlega oprocentowaniu w wysokości równej odsetkom za zwłokę pobieranym od zaległości podatkowych, od dnia złożenia wniosku, o którym mowa w art. 3 ust. 1, do dnia dokonania zwrotu nadpłaty przez Zakład Ubezpieczeń Społecznych.
+
+### 6.
+
+Składki odprowadzone do otwartego funduszu emerytalnego podlegają zwrotowi na zasadach określonych w art. 24 ust. 8 i 8e ustawy zmienianej w art. 1.
+
+### 7.
+
+Przepisy ust. 1, 2 i 4 stosuje się odpowiednio do zwrotu nadpłaty, o której mowa w art. 4 ust. 3 i 4.
+
+### Art. 6.
+
+Wniosek, o którym mowa w art. 3 ust. 1 i w art. 4 ust. 1 i 2, można złożyć w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 7.
+
+### 1.
+
+W przypadku uwzględnienia wniosku, o którym mowa w art. 3 ust. 1, na koncie ubezpieczonego, którego dotyczył wniosek, Zakład Ubezpieczeń Społecznych zewidencjonuje do dnia 31 grudnia 2012 r. całość składek na ubezpieczenia emerytalne i rentowe za okres pobierania zasiłku macierzyńskiego lub zasiłku w wysokości zasiłku macierzyńskiego, ustalonych od podstawy odpowiadającej kwocie tego zasiłku.
+
+### 2.
+
+Do składek na ubezpieczenia emerytalne i rentowe zewidencjonowanych na koncie ubezpieczonego stosuje się art. 19 ustawy zmienianej w art. 1.
+
+### Art. 8.
+
+Przepisy art. 3-7 stosuje się również do osób, które w okresie od dnia 1 stycznia 1999 r. do dnia 31 marca 2001 r. były wspólnikami spółki cywilnej, nie posiadając wpisu do ewidencji działalności gospodarczej.
+
+### Art. 9.
+
+Przepisów art. 3-7 nie stosuje się do osób, za które w związku z prowadzoną pozarolniczą działalnością lub współpracą przy niej zostały opłacone należne składki i które z tego tytułu pobrały świadczenia z ubezpieczeń społecznych.
+
+### Art. 10.
+
+Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 2, który wchodzi w życie z dniem 1 stycznia 2010 r., oraz art. 1 pkt 5, który wchodzi w życie pierwszego dnia miesiąca następującego po upływie 12 miesięcy od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 17, poz. 95, Nr 21, poz. 125, Nr 112, poz. 769, Nr 115, poz. 791, 792 i 793 i Nr 176, poz. 1243, z 2008 r. Nr 63, poz. 394, Nr 67, poz. 411, Nr 141, poz. 888, Nr 171, poz. 1056, Nr 209, poz. 1318, Nr 220, poz. 1417 i 1418, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 6, poz. 33, Nr 8, poz. 38, Nr 14, poz. 75, Nr 18, poz. 97, Nr 22, poz. 120 i Nr 68, poz. 574. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341 i Nr 65, poz. 545.

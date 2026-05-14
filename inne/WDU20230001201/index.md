@@ -1,0 +1,48 @@
+---
+title: Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2023 r. w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty
+address: WDU20230001201
+eli: DU/2023/1201
+publisher: DU
+year: 2023
+pos: 1201
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 26 czerwca 2023 r. w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 716).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1201 |
+| ISAP | WDU20230001201 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-06-26 |
+| Data wydania | 2023-06-26 |
+| Wejście w życie | 2023-06-26 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1201/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1201) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 40d ust. 6 pkt 1 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych ([Dz. U. z 2023 r. poz. 287](https://api.sejm.gov.pl/eli/acts/DU/2023/287/text.html) i [412](https://api.sejm.gov.pl/eli/acts/DU/2023/412/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Wniosek o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub wytworzonego w ramach produkcji ekologicznej w rozumieniu art. 2 ust. 1 pkt 10 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej ([Dz. U. poz. 1370](https://api.sejm.gov.pl/eli/acts/DU/2022/1370/text.html) oraz [z 2023 r. poz. 412](https://api.sejm.gov.pl/eli/acts/DU/2023/412/text.html) i [588](https://api.sejm.gov.pl/eli/acts/DU/2023/588/text.html)) materiału siewnego kategorii elitarny lub kwalifikowany, zwanego dalej „ekologicznym materiałem siewnym kategorii elitarny lub kwalifikowany”, składa się w terminie od dnia 25 maja do dnia 10 lipca danego roku kalendarzowego.
+
+### § 2.
+
+Dopłatę, o której mowa w § 1, wypłaca się w terminie 30 dni od dnia wydania decyzji o przyznaniu dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany lub ekologicznego materiału siewnego kategorii elitarny lub kwalifikowany, na rachunek bankowy producenta rolnego wskazany we wniosku o przyznanie tej dopłaty.
+
+### § 3.
+
+Do wniosków, o których mowa w art. 40d ust. 1 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, złożonych w 2023 r. przed dniem wejścia w życie rozporządzenia stosuje się przepisy tego rozporządzenia.
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem ogłoszenia.[2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 listopada 2018 r. w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty (Dz. U. z 2021 r. poz. 1204), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ust. 3 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588).](#gloss-0:2:)
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 716). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 13 listopada 2018 r. w sprawie terminów składania wniosków o przyznanie dopłaty z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany oraz terminu i sposobu wypłaty tej dopłaty (Dz. U. z 2021 r. poz. 1204), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 41 ust. 3 ustawy z dnia 23 czerwca 2022 r. o rolnictwie ekologicznym i produkcji ekologicznej (Dz. U. poz. 1370 oraz z 2023 r. poz. 412 i 588).

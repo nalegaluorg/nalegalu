@@ -8,11 +8,9 @@ pos: 433
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury oraz niektórych innych ustaw
-
-*USTAWA z dnia 29 marca 2007 r.*
+# Ustawa z dnia 29 marca 2007 r. o zmianie ustawy o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1985 r. o prokuraturze, ustawę z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,379 +22,1974 @@ domain: null
 | Data ogłoszenia | 2007-03-29 |
 | Data wydania | 2007-04-11 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070640433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/433/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/433/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/433) |
 
-**Art. 1.** W ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury (Dz. U. Nr 169, poz. 1410 i Nr 264, poz. 2204) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 10b.**
+### Art. 1.
 
-1. Przed przystąpieniem do naboru kandydat na aplikanta uiszcza opłatę za udział w naborze. Opłata stanowi dochód budżetu państwa.
+W ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ([Dz. U. Nr 169, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2005/1410/text.html) i [Nr 264, poz. 2204](https://api.sejm.gov.pl/eli/acts/DU/2005/2204/text.html)) wprowadza się następujące zmiany:
 
-2. Minister Sprawiedliwości po zasięgnięciu opinii Dyrektora Krajowego Centrum określi, w drodze rozporządzenia, wysokość opłaty za udział w naborze – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z pracę (Dz. U. Nr 200, poz. 1679, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314) – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru.
+### 1)
 
-**Art. 10c.** Aplikantem może zostać osoba, która:
+w art. 2:
 
-**Art. 10d.**
+### a)
 
-1. Dyrektor Krajowego Centrum, po uzyskaniu informacji, o których mowa w art. 10a ust. 15, wydaje decyzję w sprawie przyjęcia na aplikację.
+ust. 1 otrzymuje brzmienie:
 
-2. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+„
 
-3. Rozpoznanie odwołania następuje w terminie nie dłuższym niż 14 dni od dnia jego wniesienia.
+### 1.
 
-4. Termin do wniesienia skargi do wojewódzkiego sądu administracyjnego wynosi 14 dni od dnia doręczenia decyzji.
+Zadaniem Krajowego Centrum jest prowadzenie aplikacji sądowo-prokuratorskiej, o której mowa w art. 137 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 433.](#gloss-0:2:)) oraz art. 90 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2002 r. Nr 21, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/2002/206/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 431, 432 i 433.](#gloss-0:3:)), zwanej dalej „aplikacją”, której celem jest uzyskanie niezbędnej wiedzy i praktycznego przygotowania do zajmowania stanowiska sędziego i prokuratora, a także szkolenie i doskonalenie zawodowe sędziów, prokuratorów, asesorów sądowych, asesorów prokuratury, referendarzy sądowych, asystentów sędziów, zawodowych kuratorów sądowych oraz urzędników sądów i prokuratury w celu uzupełnienia ich specjalistycznej wiedzy i umiejętności zawodowych.
 
-5. Przed objęciem obowiązków aplikanta aplikant składa ślubowanie wobec Dyrektora Krajowego Centrum, według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta Krajowego Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury, w postępowaniu kierować się zasadami godności i uczciwości, dbać o dobre imię Krajowego Centrum oraz dochować tajemnicy państwowej, służbowej i zawodowej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”.
+” ,
 
-**Art. 10e.**
+### b)
 
-1. Aplikacja trwa trzy lata.
+ust. 2 otrzymuje brzmienie:
 
-2. Pierwszy rok aplikacji rozpoczyna się 1 września roku, w którym Minister Sprawiedliwości zarządził nabór i trwa do 31 lipca roku następnego. W tym czasie aplikanci odbywają wspólne zajęcia seminaryjne w Krajowym Centrum oraz praktyki zgodnie z programem aplikacji.
+„
 
-3. W ostatnim miesiącu pierwszego roku aplikacji aplikanci zdają kolokwium z całości materiału objętego programem aplikacji w okresie poprzedzającym to kolokwium, przed komisją powołaną przez Dyrektora Krajowego Centrum w uzgodnieniu z Ministrem Sprawiedliwości, zwaną dalej „komisją do przeprowadzenia kolokwium”. kwium oceniane są w systemie punktowym.
+### 2.
 
-5. Warunkiem zdania kolokwium jest uzyskanie minimum punktów określonego przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum.
+Zadania Krajowego Centrum są realizowane w szczególności przez: Dopracowywanie programów zajęć seminaryjnych i praktyk, które odbywają aplikanci sądowo-prokuratorscy, zwani dalej „aplikantami”, oraz podejmowanie działań organizacyjnych związanych z realizacją tych programów, z uwzględnieniem specjalizacji sądowej lub prokuratorskiej;
 
-6. W terminie 14 dni od dnia uzyskania wyników kolokwium Dyrektor Krajowego Centrum ogłasza listę klasyfikacyjną aplikantów.
+### 2)
 
-7. O kolejności miejsca na liście klasyfikacyjnej decyduje suma punktów uzyskanych przez aplikanta z kolokwium. W przypadku równej liczby punktów uzyskanych przez dwóch lub większą liczbę aplikantów o kolejności miejsca na tej liście decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji.
+przygotowywanie i organizację egzaminów sędziowskiego i prokuratorskiego;
 
-8. Aplikant, w kolejności miejsca na liście klasyfikacyjnej, wybiera specjalizację sądową albo prokuratorską na czas dalszej aplikacji, w ramach limitów miejsc dla poszczególnych specjalizacji określonych przez Ministra Sprawiedliwości.
+### 3)
 
-9. Aplikant, który nie zdał kolokwium, może raz przystąpić do ponownego jego zdawania przed komisją, o której mowa w ust. 3. Kolokwium poprawkowe odbywa się w terminie wyznaczonym przez Dyrektora Krajowego Centrum, nie później jednak niż w ciągu dwóch miesięcy od dnia zakończenia poprzedniego kolokwium. Przepisy ust. 4 i 5 stosuje się odpowiednio.
+opracowywanie programów i organizowanie centralnych szkoleń i innych cyklicznych form doskonalenia zawodowego;
 
-10. W terminie 7 dni od dnia uzyskania wyników kolokwium, o którym mowa w ust. 9, Dyrektor Krajowego Centrum ogłasza poprawkową listę klasyfikacyjną. Przepisy ust. 7 i 8 stosuje się odpowiednio, z tym że aplikant wybiera specjalizację na czas dalszej aplikacji spośród miejsc, które pozostały w ramach limitów dla poszczególnych specjalizacji.
+### 4)
 
-11. Aplikanci drugiego i trzeciego roku aplikacji odbywają w ramach specjalizacji sądowej lub prokuratorskiej zajęcia seminaryjne w Krajowym Centrum i praktyki zgodnie z programem aplikacji, odrębnym dla każdej z tych specjalizacji.
+koordynowanie działalności szkoleniowej sądów i prokuratury;
 
-12. Zajęcia seminaryjne i praktyki dla aplikantów, o których mowa w ust. 11, rozpoczynają się 1 września i trwają do 31 lipca roku następnego.
+### 5)
 
-**Art. 10f.**
+przygotowywanie oraz organizowanie konferencji, sympozjów, seminariów z poszczególnych dziedzin prawa;
 
-1. W ostatnim miesiącu trzeciego roku aplikacji aplikanci składają egzamin sędziowski albo prokuratorski, stosownie do specjalizacji sądowej albo prokuratorskiej. Egzaminy przeprowadzają komisje powołane przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum, zwane dalej „komisjami egzaminacyjnymi”.
+### 6)
 
-2. Egzaminy sędziowski i prokuratorski składają się z części pisemnej i ustnej.
+współpracę międzynarodową oraz współdziałanie z wydziałami prawa uczelni wyższych, instytucjami i placówkami naukowo-badawczymi w zakresie działalności szkoleniowej oraz innych form doskonalenia zawodowego;
 
-3. Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu opracowuje zespół powołany przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum, zwany dalej „zespołem egzaminacyjnym”. lenia na zdawanie egzaminu w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu w terminie, o którym mowa w ust. 1.
+### 7)
 
-5. Zezwolenia, o którym mowa w ust. 4, Dyrektor Krajowego Centrum udziela na pisemny wniosek aplikanta, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu.
+prowadzenie działalności wydawniczej związanej z publikacją materiałów szkoleniowych;
 
-6. Aplikant, który nie przystąpił do egzaminu w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 4, albo odstąpił bez usprawiedliwienia od egzaminu w czasie jego trwania, składa egzamin tylko raz, według zasad obowiązujących w przypadku niezdania egzaminu.
+### 8)
 
-7. Uprawnienie do zdawania egzaminu wygasa po upływie dwóch lat od ukończenia aplikacji.
+wykonywanie innych zadań związanych z doskonaleniem kadr sądów powszechnych i prokuratury wskazanych przez Ministra Sprawiedliwości.
 
-8. Dyrektor Krajowego Centrum, w terminie 14 dni od dnia zakończenia egzaminu sędziowskiego lub prokuratorskiego, sporządza i przekazuje Ministrowi Sprawiedliwości końcową listę klasyfikacyjną egzaminowanych aplikantów, zwaną dalej „listą egzaminowanych aplikantów”. Warunkiem umieszczenia na tej liście jest zdanie egzaminu sędziowskiego lub prokuratorskiego.
+” ;
 
-9. O kolejności miejsca na liście egzaminowanych aplikantów decyduje suma punktów uzyskanych przez aplikanta z kolokwium i egzaminu sędziowskiego albo prokuratorskiego. W przypadku równej liczby punktów uzyskanych przez dwóch lub większą liczbę aplikantów o kolejności miejsca na tej liście decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji.
+### 2)
 
-10. Minister Sprawiedliwości, w kolejności miejsca na liście egzaminowanych aplikantów, przedstawia egzaminowanemu aplikantowi propozycje pracy na stanowisku: asesora sądowego, referendarza sądowego, asystenta sędziego albo asesora powszechnych jednostek organizacyjnych prokuratury lub asystenta prokuratora.
+art. 3 otrzymuje brzmienie:
 
-11. Aplikant, który nie zdał egzaminu sędziowskiego albo prokuratorskiego może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin przeprowadzają komisje egzaminacyjne w terminie wyznaczonym przez Ministra Sprawiedliwości w uzgodnieniu z Dyrektorem Krajowego Centrum. Przepisy ust. 2 i 3 oraz ust. 8-10 stosuje się odpowiednio.
+„
 
-**Art. 10g.** Za udział w pracach zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej, komisji do przeprowadzenia kolokwium i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie.
+### Art. 3.
 
-**Art. 10h.** Aplikant jest uprawniony do bezpłatnego korzystania z bazy dydaktycznej i informatycznej oraz wyposażenia i sprzętu Krajowego Centrum w celu pogłębiania wiedzy i doskonalenia swoich umiejętności, na warunkach określonych przez Dyrektora wego Centrum.
+Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowemu Centrum określający jego ustrój, organizację, siedzibę, siedziby filii oraz symbole Krajowego Centrum, mając na uwadze stworzenie optymalnych warunków organizacyjnych do prawidłowej realizacji zadań Krajowego Centrum.
 
-**Art. 10i.**
+” ;
 
-1. Aplikant może brać udział w wykonywaniu w kraju lub za granicą zadań naukowo-szkoleniowych nieobjętych programem aplikacji, zlecanych przez Dyrektora Krajowego Centrum.
+### 3)
 
-2. W przypadku, o którym mowa w ust. 1, aplikantowi przysługuje dieta oraz zwrot kosztów podróży i noclegów, na zasadach określonych odpowiednio w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju albo w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju.
+w art. 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
 
-**Art. 10j.** Do obowiązków aplikanta należy:
+„
 
-**Art. 10k.**
+### 2.
 
-1. Dyrektor Krajowego Centrum zawiesza aplikanta w jego prawach i obowiązkach, jeżeli:
+W skład Krajowego Centrum wchodzą filie, jako zamiejscowe jednostki organizacyjne Krajowego Centrum.
 
-- **1)** aplikant został zatrzymany z powodu schwytania na gorącym uczynku popełnienia przestępstwa;
-- **2)** prowadzone jest przeciwko aplikantowi postępowanie o umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
-- **3)** przy wszczęciu lub w toku postępowania o częściowe bądź całkowite ubezwłasnowolnienie aplikanta sąd ustanowił doradcę tymczasowego.
+” ;
 
-2. Dyrektor Krajowego Centrum może zawiesić aplikanta w jego prawach i obowiązkach, jeżeli:
+### 4)
 
-- **1)** prowadzone jest przeciwko aplikantowi postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe; z innych ważnych przyczyn.
+w art. 7 ust. 1 otrzymuje brzmienie:
 
-3. Na czas trwania zawieszenia Dyrektor Krajowego Centrum może zarządzić wstrzymanie wypłacania przyznanego aplikantowi stypendium lub obniżenie do 50% jego wysokości.
+„
 
-4. Zawieszenie ustaje, jeżeli postępowanie, o którym mowa w ust. 1 pkt 2 oraz w ust. 2 pkt 1, zostało umorzone lub zakończyło się uniewinnieniem.
+### 1.
 
-5. W przypadkach, o których mowa w ust. 4, aplikantowi wypłaca się wstrzymane stypendium.
+Do zadań Rady należy:
 
-6. Zawieszenie, o którym mowa w ust.1 pkt 3 i ust. 2 pkt 2, trwa do czasu ustania przyczyny zawieszenia, nie dłużej jednak niż do upływu terminu, w którym aplikant, zgodnie z programem aplikacji, powinien ją ukończyć.
+### 1)
 
-7. Od decyzji Dyrektora Krajowego Centrum o zawieszeniu, aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+ustalanie ogólnych kierunków działalności Krajowego Centrum;
 
-8. Uchylenie zawieszenia w przypadku ustania jego przyczyny, o której mowa w ust. 2 pkt 2, następuje na wniosek aplikanta.
+### 2)
 
-9. Warunkiem uchylenia zawieszenia jest spełnianie przez aplikanta wymagań określonych w art. 10c pkt 1-4. Przepis art. 10a ust. 15 stosuje się odpowiednio.
+opracowywanie rocznych harmonogramów działalności szkoleniowej Krajowego Centrum;
 
-10. Jeżeli od momentu zawieszenia nie upłynął okres dłuższy niż dwa lata, aplikant po uchyleniu zawieszenia kontynuuje aplikację od etapu, na którym została ona przerwana, jeżeli pozwala na to ustalony program aplikacji. W pozostałych przypadkach aplikant kontynuuje aplikację od etapu i na warunkach wyznaczonych przez Dyrektora Krajowego Centrum.
+### 3)
 
-**Art. 10l.**
+opiniowanie programów aplikacji;
 
-1. Dyrektor Krajowego Centrum skreśla z listy aplikantów aplikanta, który:
+### 4)
 
-- **1)** został prawomocnie skazany za umyślne przestępstwo lub przestępstwo skarbowe;
-- **2)** przestał spełniać wymagania określone w art. 10c pkt 1 i 2;
-- **3)** uzyskał negatywną ocenę z kolokwium wyznaczonego w czasie aplikacji;
-- **4)** odmówił kontynuowania aplikacji w ramach specjalizacji, o której mowa w art. 10e ust. 8;
-- **5)** złożył pisemne oświadczenie o rezygnacji z odbywania aplikacji;
-- **6)** rażąco naruszył obowiązki aplikanta;
-- **7)** w sposób rażący uchybił godności aplikanta lub jego zachowanie godzi w dobre imię Krajowego Centrum.
+ustalanie rocznych planów wydawniczych Krajowego Centrum;
 
-2. Dyrektor Krajowego Centrum może skreślić z listy aplikantów aplikanta, który: przestępstwo skarbowe;
+### 5)
 
-- **2)** opuścił z przyczyn nieusprawiedliwionych ponad 20% zajęć seminaryjnych lub praktyk w danym roku szkoleniowym, ujętych w programie aplikacji;
-- **3)** nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, do co najmniej dwóch sprawdzianów wiedzy przewidzianych w programie aplikacji;
-- **4)** został dwukrotnie ukarany karą nagany.
+ustalanie zasad rekrutacji na szkolenia;
 
-3. Przed skreśleniem aplikanta z listy aplikantów, z przyczyn określonych w ust. 1 i 2, Dyrektor Krajowego Centrum umożliwia aplikantowi złożenie wyjaśnień oraz zapoznaje się z opinią wskazanych przez niego osób.
+### 6)
 
-4. Od decyzji Dyrektora Krajowego Centrum o skreśleniu z listy aplikantów aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+opiniowanie regulaminu organizacyjnego Krajowego Centrum;
 
-**Art. 10m.**
+### 7)
 
-1. Dyrektor Krajowego Centrum przyznaje aplikantowi, na jego wniosek, stypendium na czas aplikacji. Wysokość stypendium nie może przekraczać 50% wynagrodzenia zasadniczego w stawce podstawowej sędziego sądu rejonowego.
+opiniowanie regulaminu działalności szkoleniowej Krajowego Centrum;
 
-2. Okres aplikacji zalicza się aplikantowi do wszelkich uprawnień pracowniczych związanych ze stażem pracy, pod warunkiem zdania egzaminu sędziowskiego albo prokuratorskiego.
+### 8)
 
-3. Stypendium nie wypłaca się:
+zgłaszanie i opiniowanie kandydatów na wykładowców.
 
-- **1)** za dni nieusprawiedliwionej nieobecności aplikanta na zajęciach seminaryjnych lub praktykach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć w poszczególnych dniach, w okresie miesiąca kalendarzowego;
-- **2)** za dni usprawiedliwionej nieobecności aplikanta z innych przyczyn niż zdrowotne, jeżeli okres tej nieobecności trwa nieprzerwanie dłużej niż 7 dni zajęć seminaryjnych lub praktyk albo przekracza 7 dni zajęć seminaryjnych lub praktyk w miesiącu.
+” ;
 
-4. Aplikant, który pobierał stypendium, jest obowiązany do jego zwrotu, jeżeli:
+### 5)
 
-- **1)** został skreślony z listy aplikantów;
-- **2)** nie zdał egzaminu sędziowskiego albo prokuratorskiego, albo nie przystąpił do tego egzaminu;
-- **3)** odmówił podjęcia pracy w sądzie lub prokuraturze na stanowisku: asesora sądowego, referendarza sądowego, asystenta sędziego albo asesora powszechnych jednostek organizacyjnych prokuratury lub asystenta prokuratora, zaproponowanym przez Ministra Sprawiedliwości, w kolejności miejsca na liście egzaminowanych aplikantów; okresie nie dłuższym niż trzy lata od daty ukończenia aplikacji:
-    - **a)** rozwiązał stosunek pracy,
-    - **b)** rozwiązano z nim stosunek pracy bez wypowiedzenia z jego winy.
+w art. 9 ust. 6 otrzymuje brzmienie:
 
-5. Stypendium podlega zwrotowi w wysokości proporcjonalnej do czasu jego pobierania lub do czasu pracy na stanowisku, o którym mowa w ust. 4 pkt 3, w okresie krótszym niż trzy lata od dnia jej podjęcia.
+„
 
-6. Aplikant nie ma obowiązku zwrotu stypendium, w przypadku:
+### 6.
 
-- **1)** skreślenia z listy aplikantów z przyczyn zdrowotnych lub konieczności sprawowania przez aplikanta samotnie wychowującego dziecko opieki nad dzieckiem do lat dwóch lub dzieckiem szczególnej troski;
-- **2)** niepodjęcia pracy lub rezygnacji z pracy na stanowisku, o którym mowa w ust. 4 pkt 3, z przyczyn zdrowotnych;
-- **3)** niepodjęcia pracy lub rezygnacji z pracy na stanowisku, o którym mowa w ust. 4 pkt 3, za zgodą Ministra Sprawiedliwości.
+Minister Sprawiedliwości zawiesza w czynnościach służbowych Dyrektora Krajowego Centrum, przeciwko któremu wszczęto postępowanie dyscyplinarne na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych lub ustawie z dnia 20 czerwca 1985 r. o prokuraturze. Przepisy o obniżeniu wynagrodzenia sędziego lub prokuratora na czas trwania zawieszenia w czynnościach służbowych stosuje się odpowiednio.
 
-7. Decyzję w sprawie obowiązku zwrotu stypendium wydaje Dyrektor Krajowego Centrum.
+” ;
 
-8. W razie zmiany miejsca pracy w okresie, o którym mowa w ust. 5, prezes sądu apelacyjnego lub prokurator apelacyjny właściwy ze względu na sąd lub prokuraturę, w której osoba, która pobierała stypendium była zatrudniona przedstawia informację o tym Dyrektorowi Krajowego Centrum.
+### 6)
 
-9. Dyrektor Krajowego Centrum po zasięgnięciu opinii odpowiednio prezesa właściwego sądu apelacyjnego lub prokuratora apelacyjnego, o którym mowa w ust. 8, może, w szczególnie uzasadnionych przypadkach, umorzyć aplikantowi lub osobie, która pobierała stypendium, w całości lub w części, należność z tytułu zwrotu stypendium.
+art. 10 otrzymuje brzmienie:
 
-10. Od decyzji Dyrektora Krajowego Centrum w sprawie zwrotu stypendium lub umorzenia należności z tytułu zwrotu stypendium, osobie, która pobierała stypendium przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+„
 
-**Art. 10n.**
+### Art. 10.
 
-1. Aplikant nie może podejmować zatrudnienia lub zajęcia, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym w łącznym wymiarze nieprzekraczającym połowy wymiaru czasu pracy pracowników zatrudnionych na tych stanowiskach oraz zajęcia o charakterze naukowym, dydaktycznym lub publicystycznym, jeżeli wykonywanie tego zatrudnienia lub zajęcia nie przeszkadza w wykonywaniu obowiązków aplikanta. kant jest obowiązany zawiadomić Dyrektora Krajowego Centrum.
+### 1.
 
-3. Dyrektor Krajowego Centrum może wyrazić sprzeciw wobec zamiaru podjęcia przez aplikanta zatrudnienia, jeżeli uzna, że będzie to przeszkadzało w wykonywaniu obowiązków aplikanta.
+Dyrektor kieruje Krajowym Centrum przy pomocy nie więcej niż 7 zastępców, których powołuje i odwołuje, na wniosek Dyrektora Krajowego Centrum, Minister Sprawiedliwości. W razie utworzenia filii Krajowego Centrum filią kieruje jeden z zastępców Dyrektora Krajowego Centrum. Do zastępców Dyrektora Krajowego Centrum stosuje się odpowiednio przepis art. 9 ust. 3.
 
-**Art. 10o.**
+### 2.
 
-1. Dyrektor Krajowego Centrum może przyznać aplikantowi nagrodę za szczególne osiągnięcia oraz za zadania wykonane, poza jego obowiązkami, na rzecz Krajowego Centrum.
+Do zadań Dyrektora Krajowego Centrum należy: Dopracowywanie regulaminu organizacyjnego Krajowego Centrum;
 
-2. Nagrodami są:
+### 2)
 
-- **1)** nagroda pieniężna w wysokości do 30% kwoty przyznanego stypendium;
-- **2)** pochwała pisemna udzielona przez Dyrektora Krajowego Centrum.
+ustalanie zakresu zadań zastępców Dyrektora Krajowego Centrum;
 
-3. Informacja o nagrodzie zamieszczana jest w aktach osobowych aplikanta.
+### 3)
 
-**Art. 10p.**
+sprawowanie bezpośredniego nadzoru nad komórkami organizacyjnymi Krajowego Centrum;
 
-1. Dyrektor Krajowego Centrum może ukarać aplikanta karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności aplikanta.
+### 4)
 
-2. Karami porządkowymi są:
+wykonywanie czynności w sprawach z zakresu prawa pracy;
 
-- **1)** upomnienie;
-- **2)** nagana.
+### 5)
 
-3. Nie można ukarać aplikanta po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+zapewnianie realizacji procesów dydaktycznych oraz opracowywanie regulaminu działalności szkoleniowej Krajowego Centrum;
 
-4. Przed ukaraniem karą porządkową aplikantowi umożliwia się złożenie wyjaśnień.
+### 6)
 
-5. Od decyzji o ukaraniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+realizowanie rocznych harmonogramów działalności szkoleniowej Krajowego Centrum;
 
-6. Odpis prawomocnej decyzji o ukaraniu karą porządkową dołącza się do akt osobowych aplikanta.
+### 7)
 
-7. Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową Dyrektor Krajowego Centrum zarządza usunięcie odpisu decyzji z akt osobowych aplikanta, jeżeli w tym czasie nie ukarano aplikanta inną karą.
+realizowanie rocznych planów wydawniczych Krajowego Centrum;
 
-**Art. 10r.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
+### 8)
 
-**Art. 2.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2002 r. Nr 21, poz. 206, z późn. zm. ) wprowadza się następujące zmiany:
+realizowanie zadań związanych z przygotowaniem i przeprowadzeniem naboru na aplikację, kolokwium w trakcie aplikacji oraz egzaminów sędziowskiego i prokuratorskiego;
 
-**Art. 91b.**
+### 9)
 
-1. Naczelny Prokurator Wojskowy, po uzyskaniu informacji, o której mowa w art. 91 ust. 11, wydaje decyzję w sprawie przyjęcia na aplikację.
+wyznaczanie aplikantom pierwszego roku konsultantów naukowych i patronów praktyk oraz aplikantom drugiego i trzeciego roku patronów koordynatorów i patronów poszczególnych praktyk w ramach specjalizacji sądowej lub prokuratorskiej;
 
-2. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+### 10)
 
-3. Rozpoznanie odwołania następuje w terminie nie dłuższym niż 14 dni od dnia jego wniesienia.
+sporządzanie i przedstawianie Ministrowi Sprawiedliwości corocznych sprawozdań z działalności Krajowego Centrum;
 
-4. Termin do wniesienia skargi do wojewódzkiego sądu administracyjnego wynosi 14 dni od dnia doręczenia decyzji.
+### 11)
 
-**Art. 91c.**
+realizowanie innych zadań wyznaczonych przez Ministra Sprawiedliwości, związanych z działalnością Krajowego Centrum.
 
-1. Kandydat na stanowisko wojskowego aplikanta prokuratorskiego jest powoływany do zawodowej służby wojskowej, pełnionej jako służba kontraktowa na podstawie dobrowolnego zgłoszenia się do tej służby, po uprzednim zakwalifikowaniu się w drodze konkursu na stanowisko wojskowego aplikanta prokuratorskiego, odbyciu przeszkolenia wojskowego, zdaniu egzaminu na oficera, mianowaniu na stopień wojskowy podporucznika (podporucznika marynarki) i podpisaniu kontraktu na pełnienie służby terminowej.
+### 3.
 
-2. Do odbycia przeszkolenia wojskowego, o którym mowa w ust. 1, powołuje, na wniosek Naczelnego Prokuratora Wojskowego, właściwy organ uprawniony do powoływania do służby kandydackiej na podstawie odrębnych przepisów, określając miejsce szkolenia.
+Konsultantów naukowych powołuje Dyrektor Krajowego Centrum spośród wykładowców Krajowego Centrum.
 
-3. Rozkaz personalny o powołaniu do zawodowej służby wojskowej kandydata na stanowisko wojskowego aplikanta prokuratorskiego wydaje na wniosek Naczelnego Prokuratora Wojskowego, z dniem powołania na stanowisko, Szef Sztabu Generalnego Wojska Polskiego.
+### 4.
 
-4. Kontrakt na pełnienie służby terminowej na stanowisko wojskowego aplikanta prokuratorskiego zawiera Naczelny Prokurator Wojskowy. by wojskowej i mianowania na stopień oficerski, nie stosuje się do kandydatów na stanowisko wojskowych aplikantów prokuratorskich, którzy pełnią już zawodową służbę wojskową.
+Patronów, o których mowa w ust. 2 pkt 9, powołuje Dyrektor Krajowego Centrum spośród sędziów co najmniej sądu okręgowego oraz prokuratorów co najmniej prokuratury okręgowej. Patronom przysługuje wynagrodzenie za sprawowanie patronatu.
 
-6. W odniesieniu do zasad powoływania kandydatów na stanowiska wojskowych aplikantów prokuratorskich do zawodowej służby wojskowej i zawierania z nimi kontraktów na jej pełnienie, w sprawach nieuregulowanych w ustawie, stosuje się przepisy o służbie wojskowej żołnierzy zawodowych.”;
+### 5.
 
-- **7)** art. 92 otrzymuje brzmienie: „Art. 92. Przed objęciem obowiązków wojskowy aplikant prokuratorski składa ślubowanie wobec Naczelnego Prokuratora Wojskowego według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki wojskowego aplikanta prokuratorskiego, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”.”;
-- **8)** po art. 92 dodaje się art. 92a-92d w brzmieniu: „Art. 92a. Wojskowy aplikant prokuratorski odbywa aplikację w wojskowej jednostce organizacyjnej prokuratury oraz uczestniczy w zajęciach seminaryjnych i praktykach dla aplikantów sądowoprokuratorskich odbywających aplikację na zasadach określonych w art. 10e ust. 1-5, 9, 11 i 12 ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+Dyrektor Krajowego Centrum może powoływać zespoły konsultacyjno-doradcze do realizacji zadań Krajowego Centrum.
 
-**Art. 92b.**
+” ;
 
-1. Do obowiązków wojskowego aplikanta prokuratorskiego należy:
+### 7)
 
-- **1)** uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych prowadzonych w Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury, zwanym dalej „Krajowym Centrum”, oraz w praktykach odbywających się w jednostkach organizacyjnych prokuratury, sądach i innych instytucjach związanych z funkcjonowaniem wymiaru sprawiedliwości,
-- **2)** samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury,
-- **3)** przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu prokuratorskiego,
-- **4)** przestrzeganie regulaminu organizacyjnego Krajowego Centrum oraz zarządzeń i poleceń porządkowych Dyrektora Krajowego Centrum.
+po art. 10 dodaje się art. 10a-10r w brzmieniu:
 
-2. Na czas trwania aplikacji Naczelny Prokurator Wojskowy wyznacza wojskowemu aplikantowi prokuratorskiemu patrona spośród prokuratorów wojskowych jednostek organizacyjnych prokuratury. Patronom przysługuje wynagrodzenie za sprawowanie patronatu w wysokości równej wynagrodzeniu patronów, o których mowa w art. 10 ust. 2 pkt 9 ustawy z dnia 1 lipca 2005 r. o Kratury.
+„
 
-**Art. 92c.**
+### Art. 10a.
 
-1. Naczelny Prokurator Wojskowy zwalnia ze stanowiska wojskowego aplikanta prokuratorskiego, który:
+### 1.
 
-- **1)** został prawomocnie skazany za umyślne przestępstwo lub przestępstwo skarbowe,
-- **2)** przestał spełniać wymagania określone w art. 91 ust. 1 pkt 1 i 2,
-- **3)** uzyskał negatywną ocenę z kolokwium wyznaczonego w czasie aplikacji,
-- **4)** złożył pisemne oświadczenie o rezygnacji z odbywania aplikacji,
-- **5)** został uznany orzeczeniem wojskowej komisji lekarskiej za trwale niezdolnego do pełnienia zawodowej służby wojskowej,
-- **6)** rażąco naruszył obowiązki wojskowego aplikanta prokuratorskiego,
-- **7)** w sposób rażący uchybił godności wojskowego aplikanta prokuratorskiego lub jego zachowanie godzi w dobre imię Krajowego Centrum lub wojskowych jednostek organizacyjnych prokuratury.
+Minister Sprawiedliwości zarządza, w zależności od potrzeb kadrowych sądów powszechnych i prokuratury, nabór na aplikację, zwany dalej „naborem”, i wyznacza limit miejsc na aplikację.
 
-2. Naczelny Prokurator Wojskowy może zwolnić ze stanowiska wojskowego aplikanta prokuratorskiego, który:
+### 2.
 
-- **1)** został prawomocnie skazany za nieumyślne przestępstwo lub przestępstwo skarbowe,
-- **2)** opuścił z przyczyn nieusprawiedliwionych ponad 20% zajęć seminaryjnych lub praktyk w danym roku szkoleniowym, ujętych w programie aplikacji,
-- **3)** nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, do co najmniej dwóch sprawdzianów wiedzy przewidzianych w programie aplikacji,
-- **4)** został dwukrotnie ukarany karą nagany.
+Nabór odbywa się w drodze:
 
-3. Przed zwolnieniem wojskowego aplikanta prokuratorskiego ze stanowiska, z przyczyn określonych w ust. 1 i 2, Naczelny Prokurator Wojskowy umożliwia wojskowemu aplikantowi prokuratorskiemu złożenie wyjaśnień.
+### 1)
 
-4. Od decyzji Naczelnego Prokuratora Wojskowego o zwolnieniu ze stanowiska wojskowemu aplikantowi prokuratorskiemu przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+konkursu składającego się z części pisemnej i ustnej;
 
-**Art. 92d.**
+### 2)
 
-1. Naczelny Prokurator Wojskowy może ukarać wojskowego aplikanta prokuratorskiego karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności wojskowego aplikanta prokuratorskiego.
+badania predyspozycji kandydata na aplikanta do zajmowania stanowiska sędziego lub prokuratora, zwanego dalej „badaniem predyspozycji”.
 
-2. Karami porządkowymi są:
+### 3.
 
-- **2)** nagana.
+W przypadku dużej liczby kandydatów na aplikantów Minister Sprawiedliwości, na wniosek Dyrektora Krajowego Centrum, może zarządzić przeprowadzenie części preselekcyjnej naboru, w postaci testu jednokrotnego wyboru, zwanego dalej „testem preselekcyjnym”, i powierzyć jej przeprowadzenie wskazanym sądom lub prokuraturom apelacyjnym.
 
-3. Nie można ukarać wojskowego aplikanta prokuratorskiego po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+### 4.
 
-4. Przed ukaraniem karą porządkową wojskowemu aplikantowi prokuratorskiemu umożliwia się złożenie wyjaśnień.
+Test preselekcyjny obejmuje ocenę wiedzy z poszczególnych dziedzin prawa i nauk pokrewnych. W sądach i prokuraturach, którym powierzono przeprowadzenie tej części konkursu, kandydaci na aplikantów rozwiązują ten sam test preselekcyjny.
 
-5. Od decyzji o ukaraniu wojskowemu aplikantowi prokuratorskiemu przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+### 5.
 
-6. Odpis prawomocnej decyzji o ukaraniu karą porządkową dołącza się do teczki akt personalnych wojskowego aplikanta prokuratorskiego.
+Przebieg testu preselekcyjnego nadzorują komisje powoływane przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum. Przewodniczącymi komisji są członkowie komisji konkursowych wskazani przez Dyrektora Krajowego Centrum.
 
-7. Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową Naczelny Prokurator Wojskowy zarządza usunięcie odpisu decyzji z akt personalnych wojskowego aplikanta prokuratorskiego, jeżeli w tym czasie nie ukarano aplikanta inną karą.”;
+### 6.
 
-- **9)** art. 94 otrzymuje brzmienie: „Art. 94. 1. W ostatnim miesiącu trzeciego roku aplikacji wojskowy aplikant prokuratorski składa egzamin prokuratorski przed komisją egzaminacyjną powołaną przez Prokuratora Generalnego. W skład komisji wchodzi prokurator wojskowy będący przedstawicielem Naczelnego Prokuratora Wojskowego.
+W przypadku zarządzenia przeprowadzenia testu preselekcyjnego, warunkiem dopuszczenia do części pisemnej konkursu jest uzyskanie z testu minimum punktów, określonego przez Ministra Sprawiedliwości.
 
-2. Egzamin prokuratorski składa się z części pisemnej i ustnej.
+### 7.
 
-3. Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu prokuratorskiego opracowuje zespół egzaminacyjny powołany przez Prokuratora Generalnego. W skład zespołu wchodzi prokurator wojskowy będący przedstawicielem Naczelnego Prokuratora Wojskowego.
+Nabór przeprowadzają komisje konkursowe, powołane przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum.
 
-4. Naczelny Prokurator Wojskowy może udzielić wojskowemu aplikantowi prokuratorskiemu zezwolenia na zdawanie egzaminu prokuratorskiego w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez wojskowego aplikanta prokuratorskiego przyczyna uniemożliwiają przystąpienie do egzaminu prokuratorskiego w terminie, o którym mowa w ust. 1.
+### 8.
 
-5. Zezwolenia, o którym mowa w ust. 4, Naczelny Prokurator Wojskowy udziela na pisemny wniosek wojskowego aplikanta prokuratorskiego, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu prokuratorskiego.
+Część pisemna konkursu składa się z:
 
-6. Wojskowy aplikant prokuratorski, który nie przystąpił do egzaminu prokuratorskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 4, albo odstąpił bez usprawiedliwienia od egzaminu prokuratorskiego w czasie jego trwania, składa egzamin prokuratorski tylko raz, według zasad obowiązujących w przypadku niezdania egzaminu prokuratorskiego. upływie okresu kontraktu, o którym mowa w art. 91c ust. 4.
+### 1)
 
-8. Wojskowy aplikant prokuratorski, który nie zdał egzaminu prokuratorskiego, może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin prokuratorski przeprowadza komisja egzaminacyjna, o której mowa w ust. 1, w terminie wyznaczonym przez Prokuratora Generalnego. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+testu wiedzy z poszczególnych dziedzin prawa i nauk pokrewnych;
 
-9. Po złożeniu egzaminu prokuratorskiego wojskowy aplikant prokuratorski może być powołany na stanowisko asesora wojskowej jednostki organizacyjnej prokuratury.
+### 2)
 
-10. W razie zwolnienia ze stanowiska, nieprzystąpienia do egzaminu prokuratorskiego lub niezdania tego egzaminu, wojskowego aplikanta prokuratorskiego zwalnia się z zawodowej służby wojskowej.”;
+pracy pisemnej, będącej opracowaniem wybranego tematu dotyczącego szczegółowych zagadnień z poszczególnych dziedzin prawa.
 
-- **10)** art. 94a otrzymuje brzmienie: „Art. 94a. Za udział w pracach zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie w wysokości równej wynagrodzeniu odpowiednio członków zespołów i komisji określonych w ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.”;
-- **11)** uchyla się art. 94b-96;
-- **12)** art. 97 otrzymuje brzmienie: „Art. 97. Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
-- **1)** szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację prokuratorską w wojskowych jednostkach organizacyjnych prokuratury, skład, sposób powoływania członków zespołu konkursowego i komisji konkursowej oraz tryb ich postępowania – mając na uwadze zakres wiedzy podlegającej sprawdzeniu w trakcie konkursu, pisemną i ustną formę poszczególnych części konkursu, system punktowy ocen konkursowych, a także ocenę predyspozycji kandydata do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury;
-- **2)** organizację i przebieg aplikacji, w tym:
-    - **a)** system punktowy oceny postępów wojskowego aplikanta prokuratorskiego w czasie aplikacji, a także wyników kolokwium oraz egzaminu prokuratorskiego,
-    - **b)** szczegółowy tryb i warunki odbywania aplikacji,
-    - **c)** szczegółowy tryb i warunki sprawowania patronatu nad wojskowym aplikantem prokuratorskim niezbędnej do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury;
+### 9.
 
-- **3)** zakres, szczegółowe warunki i tryb przeprowadzania egzaminu prokuratorskiego, skład zespołu egzaminacyjnego i komisji egzaminacyjnej, sposób powoływania ich członków oraz tryb postępowania – uwzględniając zakres odbytej aplikacji, pisemną i ustną formę egzaminu, kwalifikacje członków komisji egzaminacyjnej, a także mając na uwadze konieczność zagwarantowania właściwego poziomu organizacyjnego i merytorycznego egzaminu prokuratorskiego oraz zabezpieczenia jednakowych warunków jego składania przez wszystkich wojskowych aplikantów prokuratorskich;”;
-- **13)** w art. 110 ust. 1 otrzymuje brzmienie: „1. Zwolnienie asesora lub wojskowego aplikanta prokuratorskiego ze służby w wojskowych jednostkach organizacyjnych prokuratury następuje odpowiednio w przypadkach określonych w art. 94 ust. 10 i w art. 100 ust. 3, a także gdy przepisy o służbie wojskowej przewidują zwolnienie z zawodowej lub okresowej służby wojskowej.”.
+Warunkiem dopuszczenia kandydata do części ustnej konkursu jest uzyskanie z części pisemnej konkursu minimum punktów, określonego przez Ministra Sprawiedliwości.
 
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. – Prawo o ustroju sądów wojskowych (Dz. U. Nr 117, poz. 753, z późn. zm. ) wprowadza się następujące zmiany:
+### 10.
 
-**Art. 51b.**
+Część ustna konkursu obejmuje odpowiedzi na pytania, zawarte w wylosowanym przez kandydata zestawie, dotyczące wiedzy ogólnej oraz wiadomości z zakresu poszczególnych dziedzin prawa i nauk pokrewnych.
 
-§ 1. Dyrektor departamentu, o którym mowa w art. 5 § 4, może ukarać aplikanta karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności aplikanta.
+### 11.
 
-§ 2. Karami porządkowymi są:
+Badanie predyspozycji przeprowadza się w formie testu psychologicznego.
 
-- **1)** upomnienie,
-- **2)** nagana.
+### 12.
 
-§ 3. Nie można ukarać aplikanta po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+Test preselekcyjny, tematy i test na część pisemną konkursu, pytania na część ustną konkursu oraz test psychologiczny opracowuje zespół konkursowy powołany przez Dyrektora Krajowego Centrum, zwany dalej „zespołem konkursowym”. Tematy i testy są zatwierdzane przez Ministra Sprawiedliwości.
 
-§ 4. Przed ukaraniem karą porządkową aplikantowi umożliwia się złożenie wyjaśnień.
+### 13.
 
-§ 5. Od decyzji o ukaraniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia. się do teczki akt personalnych aplikanta.
+Po przeprowadzeniu konkursu oraz badania predyspozycji komisja konkursowa sporządza listę kandydatów na aplikantów, zwaną dalej „listą kwalifikacyjną”.
 
-§ 7. Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową dyrektor departamentu, o którym mowa w art. 5 § 4, zarządza usunięcie odpisu decyzji z akt personalnych aplikanta, jeżeli w tym czasie nie ukarano aplikanta inną karą.
+### 14.
 
-**Art. 51c.**
+Warunkiem umieszczenia na liście kwalifikacyjnej jest uzyskanie przez kandydata minimum punktów ze wszystkich części konkursu, określonego przez Ministra Sprawiedliwości, oraz potwierdzenie predyspozycji kandydata do zajmowania stanowiska sędziego lub prokuratora. O kolejności miejsca na liście kwalifikacyjnej decyduje suma uzyskanych punktów.
 
-§ 1. W ostatnim miesiącu trzeciego roku aplikacji aplikant składa egzamin sędziowski przed komisją egzaminacyjną powołaną przez Ministra Sprawiedliwości. W skład komisji wchodzi sędzia wojskowy będący przedstawicielem dyrektora departamentu, o którym mowa w art. 5 § 4.
+### 15.
 
-§ 2. Egzamin sędziowski składa się z części pisemnej i ustnej.
+Dyrektor Krajowego Centrum, po przeprowadzeniu naboru, zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do właściwego komendanta wojewódzkiego Policji o nadesłanie informacji o każdej osobie umieszczonej na liście kwalifikacyjnej, zawierającej istotne dla oceny spełniania wymogu nieposzlakowanej opinii, dane o:
 
-§ 3. Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu sędziowskiego opracowuje zespół egzaminacyjny powołany przez Ministra Sprawiedliwości. W skład zespołu wchodzi sędzia wojskowy będący przedstawicielem dyrektora departamentu, o którym mowa w art. 5 § 4.
+### 1)
 
-§ 4. Dyrektor departamentu, o którym mowa w art. 5 § 4, może udzielić aplikantowi zezwolenia na zdawanie egzaminu sędziowskiego w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu sędziowskiego w terminie, o którym mowa w § 1.
+zachowaniach świadczących o naruszeniu przez nią porządku prawnego;
 
-§ 5. Zezwolenia, o którym mowa w § 4, dyrektor departamentu, o którym mowa w art. 5 § 4, udziela na pisemny wniosek aplikanta, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu sędziowskiego.
+### 2)
 
-§ 6. Aplikant, który nie przystąpił do egzaminu sędziowskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w § 4, albo odstąpił bez usprawiedliwienia od egzaminu sędziowskiego w czasie jego trwania, składa egzamin sędziowski tylko raz, według zasad obowiązujących w przypadku niezdania egzaminu sędziowskiego.
+kontaktach ze środowiskami przestępczymi lub grupami środowiskowymi patologii społecznej i o charakterze tych kontaktów;
 
-§ 7. Uprawnienie do zdawania egzaminu sędziowskiego wygasa po upływie okresu kontraktu, o którym mowa w art. 49 § 2.
+### 3)
 
-§ 8. Aplikant, który nie zdał egzaminu sędziowskiego, może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin sędziowski przeprowadza komisja egzaminacyjna, o której mowa w § 1, w terminie wyznaczonym przez Ministra Sprawiedliwości. Przepisy § 2 i 3 stosuje się odpowiednio.
+okolicznościach wskazujących na uzależnienie od alkoholu, środków odurzających lub substancji psychotropowych.
 
-§ 9. Po złożeniu egzaminu sędziowskiego aplikant może być powołany na stanowisko asesora w wojskowym sądzie garnizonowym.
+### 16.
 
-§ 10. W razie zwolnienia ze stanowiska, nieprzystąpienia do egzaminu sędziowskiego lub nie zdania tego egzaminu, aplikanta zwalnia się z zawodowej służby wojskowej. nego oraz komisji konkursowej i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie w wysokości równej wynagrodzeniu odpowiednio członków zespołów i komisji określonych w ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.”;
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób i tryb uzyskiwania, sporządzania i przekazywania przez właściwego komendanta wojewódzkiego Policji informacji o osobie umieszczonej na liście kwalifikacyjnej oraz wzór kwestionariusza tej informacji, mając na względzie charakter i zakres obowiązków aplikanta oraz prawa i wolności chronione konstytucyjnie.
 
-- **6)** art. 52 otrzymuje brzmienie: „Art. 52. Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
-- **1)** szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację, skład, sposób powoływania członków zespołu konkursowego i komisji konkursowej oraz tryb ich postępowania – mając na uwadze zakres wiedzy podlegającej sprawdzeniu w trakcie konkursu, pisemną i ustną formę poszczególnych części konkursu, system punktowy ocen konkursowych, a także ocenę predyspozycji kandydata do zajmowania stanowiska sędziego sądu wojskowego,
-- **2)** organizację i przebieg aplikacji, w tym:
-    - **a)** system punktowy oceny postępów aplikanta w czasie aplikacji, a także wyników kolokwium oraz egzaminu sędziowskiego,
-    - **b)** szczegółowy tryb i warunki odbywania aplikacji,
-    - **c)** szczegółowy tryb i warunki sprawowania patronatu nad aplikantem – uwzględniając zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska sędziego sądu wojskowego,
+### Art. 10b.
 
-- **3)** zakres, szczegółowe warunki i tryb przeprowadzania egzaminu sędziowskiego, skład zespołu egzaminacyjnego i komisji egzaminacyjnej, sposób powoływania ich członków oraz tryb postępowania – uwzględniając zakres odbytej aplikacji, pisemną i ustną formę egzaminu, kwalifikacje członków komisji egzaminacyjnej, a także mając na uwadze konieczność zagwarantowania właściwego poziomu organizacyjnego i merytorycznego egzaminu sędziowskiego oraz zabezpieczenia jednakowych warunków jego składania przez wszystkich aplikantów.”.
+### 1.
 
-**Art. 4.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm. ) w art. 3 ust. 3 otrzymuje brzmienie: „3. Od odbycia stażu urzędniczego zwolnione są osoby, które ukończyły aplikację sądową, aplikację prokuratorską lub aplikację sądowo-prokuratorską prowadzoo Krajowym Centrum Szkolenia Kadr Sądów i Prokuratury (Dz. U. Nr 169, poz. 1410 i Nr 264, poz. 2204 oraz z 2007 r. Nr 64, poz. 433).”.
+Przed przystąpieniem do naboru kandydat na aplikanta uiszcza opłatę za udział w naborze. Opłata stanowi dochód budżetu państwa.
 
-**Art. 5.** W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr 110, poz. 1255, z późn. zm. ) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 6.** W ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) wprowadza się następujące zmiany:
+Minister Sprawiedliwości po zasięgnięciu opinii Dyrektora Krajowego Centrum określi, w drodze rozporządzenia, wysokość opłaty za udział w naborze - nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. Nr 200, poz. 1679](https://api.sejm.gov.pl/eli/acts/DU/2002/1679/text.html), z [2004 r. Nr 240, poz. 2407](https://api.sejm.gov.pl/eli/acts/DU/2004/2407/text.html) oraz z [2005 r. Nr 157, poz. 1314](https://api.sejm.gov.pl/eli/acts/DU/2005/1314/text.html)) - uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru.
 
-**Art. 7.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. Nr 210, poz. 2135, z późn. zm. ) wprowadza się następujące zmiany:
+### Art. 10c.
 
-**Art. 8.** Do osób będących w chwili wejścia w życie ustawy aplikantami sądowymi, aplikantami powszechnych jednostek organizacyjnych prokuratury, aplikantami wojskowych jednostek organizacyjnych prokuratury oraz aplikantami w sądzie wojskowym stosuje się przepisy dotychczasowe.
+Aplikantem może zostać osoba, która:
 
-**Art. 9.** Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+### 1)
 
+posiada obywatelstwo polskie i pełną zdolność do czynności prawnych;
+
+### 2)
+
+posiada nieposzlakowaną opinię;
+
+### 3)
+
+nie była karana za przestępstwo lub przestępstwo skarbowe;
+
+### 4)
+
+nie jest prowadzone przeciwko niej postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+
+### 5)
+
+ukończyła wyższe studia prawnicze w Polsce i uzyskała tytuł magistra prawa lub zagraniczne uznane w Polsce;
+
+### 6)
+
+została umieszczona na liście kwalifikacyjnej.
+
+### Art. 10d.
+
+### 1.
+
+Dyrektor Krajowego Centrum, po uzyskaniu informacji, o których mowa w art. 10a ust. 15, wydaje decyzję w sprawie przyjęcia na aplikację.
+
+### 2.
+
+Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+
+### 3.
+
+Rozpoznanie odwołania następuje w terminie nie dłuższym niż 14 dni od dnia jego wniesienia.
+
+### 4.
+
+Termin do wniesienia skargi do wojewódzkiego sądu administracyjnego wynosi 14 dni od dnia doręczenia decyzji.
+
+### 5.
+
+Przed objęciem obowiązków aplikanta aplikant składa ślubowanie wobec Dyrektora Krajowego Centrum, według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta Krajowego Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury, w postępowaniu kierować się zasadami godności i uczciwości, dbać o dobre imię Krajowego Centrum oraz dochować tajemnicy państwowej, służbowej i zawodowej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”.
+
+### Art. 10e.
+
+### 1.
+
+Aplikacja trwa trzy lata.
+
+### 2.
+
+Pierwszy rok aplikacji rozpoczyna się 1 września roku, w którym Minister Sprawiedliwości zarządził nabór, i trwa do 31 lipca roku następnego. W tym czasie aplikanci odbywają wspólne zajęcia seminaryjne w Krajowym Centrum oraz praktyki zgodnie z programem aplikacji.
+
+### 3.
+
+W ostatnim miesiącu pierwszego roku aplikacji aplikanci zdają kolokwium z całości materiału objętego programem aplikacji w okresie poprzedzającym to kolokwium, przed komisją powołaną przez Dyrektora Krajowego Centrum w uzgodnieniu z Ministrem Sprawiedliwości, zwaną dalej „komisją do przeprowadzenia kolokwium”.
+
+### 4.
+
+Kolokwium składa się z części pisemnej i ustnej. Wyniki kolokwium oceniane są w systemie punktowym.
+
+### 5.
+
+Warunkiem zdania kolokwium jest uzyskanie minimum punktów określonego przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum.
+
+### 6.
+
+W terminie 14 dni od dnia uzyskania wyników kolokwium Dyrektor Krajowego Centrum ogłasza listę klasyfikacyjną aplikantów.
+
+### 7.
+
+O kolejności miejsca na liście klasyfikacyjnej decyduje suma punktów uzyskanych przez aplikanta z kolokwium. W przypadku równej liczby punktów uzyskanych przez dwóch lub większą liczbę aplikantów o kolejności miejsca na tej liście decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji.
+
+### 8.
+
+Aplikant, w kolejności miejsca na liście klasyfikacyjnej, wybiera specjalizację sądową albo prokuratorską na czas dalszej aplikacji, w ramach limitów miejsc dla poszczególnych specjalizacji określonych przez Ministra Sprawiedliwości.
+
+### 9.
+
+Aplikant, który nie zdał kolokwium, może raz przystąpić do ponownego jego zdawania przed komisją, o której mowa w ust. 3. Kolokwium poprawkowe odbywa się w terminie wyznaczonym przez Dyrektora Krajowego Centrum, nie później jednak niż w ciągu dwóch miesięcy od dnia zakończenia poprzedniego kolokwium. Przepisy ust. 4 i 5 stosuje się odpowiednio.
+
+### 10.
+
+W terminie 7 dni od dnia uzyskania wyników kolokwium, o którym mowa w ust. 9, Dyrektor Krajowego Centrum ogłasza poprawkową listę klasyfikacyjną. Przepisy ust. 7 i 8 stosuje się odpowiednio, z tym że aplikant wybiera specjalizację na czas dalszej aplikacji spośród miejsc, które pozostały w ramach limitów dla poszczególnych specjalizacji.
+
+### 11.
+
+Aplikanci drugiego i trzeciego roku aplikacji odbywają w ramach specjalizacji sądowej lub prokuratorskiej zajęcia seminaryjne w Krajowym Centrum i praktyki zgodnie z programem aplikacji, odrębnym dla każdej z tych specjalizacji.
+
+### 12.
+
+Zajęcia seminaryjne i praktyki dla aplikantów, o których mowa w ust. 11, rozpoczynają się 1 września i trwają do 31 lipca roku następnego.
+
+### Art. 10f.
+
+### 1.
+
+W ostatnim miesiącu trzeciego roku aplikacji aplikanci składają egzamin sędziowski albo prokuratorski, stosownie do specjalizacji sądowej albo prokuratorskiej. Egzaminy przeprowadzają komisje powołane przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum, zwane dalej „komisjami egzaminacyjnymi”.
+
+### 2.
+
+Egzaminy sędziowski i prokuratorski składają się z części pisemnej i ustnej.
+
+### 3.
+
+Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu opracowuje zespół powołany przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowego Centrum, zwany dalej „zespołem egzaminacyjnym”.
+
+### 4.
+
+Dyrektor Krajowego Centrum może udzielić aplikantowi zezwolenia na zdawanie egzaminu w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu w terminie, o którym mowa w ust. 1.
+
+### 5.
+
+Zezwolenia, o którym mowa w ust. 4, Dyrektor Krajowego Centrum udziela na pisemny wniosek aplikanta, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu.
+
+### 6.
+
+Aplikant, który nie przystąpił do egzaminu w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 4, albo odstąpił bez usprawiedliwienia od egzaminu w czasie jego trwania, składa egzamin tylko raz, według zasad obowiązujących w przypadku niezdania egzaminu.
+
+### 7.
+
+Uprawnienie do zdawania egzaminu wygasa po upływie dwóch lat od ukończenia aplikacji.
+
+### 8.
+
+Dyrektor Krajowego Centrum, w terminie 14 dni od dnia zakończenia egzaminu sędziowskiego lub prokuratorskiego, sporządza i przekazuje Ministrowi Sprawiedliwości końcową listę klasyfikacyjną egzaminowanych aplikantów, zwaną dalej „listą egzaminowanych aplikantów”. Warunkiem umieszczenia na tej liście jest zdanie egzaminu sędziowskiego lub prokuratorskiego.
+
+### 9.
+
+O kolejności miejsca na liście egzaminowanych aplikantów decyduje suma punktów uzyskanych przez aplikanta z kolokwium i egzaminu sędziowskiego albo prokuratorskiego. W przypadku równej liczby punktów uzyskanych przez dwóch lub większą liczbę aplikantów o kolejności miejsca na tej liście decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji.
+
+### 10.
+
+Minister Sprawiedliwości, w kolejności miejsca na liście egzaminowanych aplikantów, przedstawia egzaminowanemu aplikantowi propozycje pracy na stanowisku: asesora sądowego, referendarza sądowego, asystenta sędziego albo asesora powszechnych jednostek organizacyjnych prokuratury lub asystenta prokuratora.
+
+### 11.
+
+Aplikant, który nie zdał egzaminu sędziowskiego albo prokuratorskiego, może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin przeprowadzają komisje egzaminacyjne w terminie wyznaczonym przez Ministra Sprawiedliwości w uzgodnieniu z Dyrektorem Krajowego Centrum. Przepisy ust. 2 i 3 oraz ust. 8-10 stosuje się odpowiednio.
+
+### Art. 10g.
+
+Za udział w pracach zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej, komisji do przeprowadzenia kolokwium i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie.
+
+### Art. 10h.
+
+Aplikant jest uprawniony do bezpłatnego korzystania z bazy dydaktycznej i informatycznej oraz wyposażenia i sprzętu Krajowego Centrum w celu pogłębiania wiedzy i doskonalenia swoich umiejętności, na warunkach określonych przez Dyrektora Krajowego Centrum.
+
+### Art. 10i.
+
+### 1.
+
+Aplikant może brać udział w wykonywaniu w kraju lub za granicą zadań naukowo-szkoleniowych nieobjętych programem aplikacji, zlecanych przez Dyrektora Krajowego Centrum.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, aplikantowi przysługuje dieta oraz zwrot kosztów podróży i noclegów, na zasadach określonych odpowiednio w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju albo w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej poza granicami kraju.
+
+### Art. 10j.
+
+Do obowiązków aplikanta należy:
+
+### 1)
+
+uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych prowadzonych w Krajowym Centrum oraz w praktykach odbywających się w sądach, jednostkach organizacyjnych prokuratury i innych instytucjach związanych z funkcjonowaniem wymiaru sprawiedliwości;
+
+### 2)
+
+samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska sędziego lub prokuratora;
+
+### 3)
+
+przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu sędziowskiego albo prokuratorskiego;
+
+### 4)
+
+przestrzeganie regulaminu organizacyjnego Krajowego Centrum oraz zarządzeń i poleceń porządkowych Dyrektora Krajowego Centrum.
+
+### Art. 10k.
+
+### 1.
+
+Dyrektor Krajowego Centrum zawiesza aplikanta w jego prawach i obowiązkach, jeżeli:
+
+### 1)
+
+aplikant został zatrzymany z powodu schwytania na gorącym uczynku popełnienia przestępstwa;
+
+### 2)
+
+prowadzone jest przeciwko aplikantowi postępowanie o umyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+
+### 3)
+
+przy wszczęciu lub w toku postępowania o częściowe bądź całkowite ubezwłasnowolnienie aplikanta sąd ustanowił doradcę tymczasowego.
+
+### 2.
+
+Dyrektor Krajowego Centrum może zawiesić aplikanta w jego prawach i obowiązkach, jeżeli:
+
+### 1)
+
+prowadzone jest przeciwko aplikantowi postępowanie o nieumyślne przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+
+### 2)
+
+wniósł o to sam aplikant z powodu długotrwałej choroby lub z innych ważnych przyczyn.
+
+### 3.
+
+Na czas trwania zawieszenia Dyrektor Krajowego Centrum może zarządzić wstrzymanie wypłacania przyznanego aplikantowi stypendium lub obniżenie do 50% jego wysokości.
+
+### 4.
+
+Zawieszenie ustaje, jeżeli postępowanie, o którym mowa w ust. 1 pkt 2 oraz w ust. 2 pkt 1, zostało umorzone lub zakończyło się uniewinnieniem.
+
+### 5.
+
+W przypadkach, o których mowa w ust. 4, aplikantowi wypłaca się wstrzymane stypendium.
+
+### 6.
+
+Zawieszenie, o którym mowa w ust. 1 pkt 3 i ust. 2 pkt 2, trwa do czasu ustania przyczyny zawieszenia, nie dłużej jednak niż do upływu terminu, w którym aplikant, zgodnie z programem aplikacji, powinien ją ukończyć.
+
+### 7.
+
+Od decyzji Dyrektora Krajowego Centrum o zawieszeniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+
+### 8.
+
+Uchylenie zawieszenia w przypadku ustania jego przyczyny, o której mowa w ust. 2 pkt 2, następuje na wniosek aplikanta.
+
+### 9.
+
+Warunkiem uchylenia zawieszenia jest spełnianie przez aplikanta wymagań określonych w art. 10c pkt 1-4. Przepis art. 10a ust. 15 stosuje się odpowiednio.
+
+### 10.
+
+Jeżeli od momentu zawieszenia nie upłynął okres dłuższy niż dwa lata, aplikant po uchyleniu zawieszenia kontynuuje aplikację od etapu, na którym została ona przerwana, jeżeli pozwala na to ustalony program aplikacji. W pozostałych przypadkach aplikant kontynuuje aplikację od etapu i na warunkach wyznaczonych przez Dyrektora Krajowego Centrum.
+
+### Art. 10l.
+
+### 1.
+
+Dyrektor Krajowego Centrum skreśla z listy aplikantów aplikanta, który:
+
+### 1)
+
+został prawomocnie skazany za umyślne przestępstwo lub przestępstwo skarbowe;
+
+### 2)
+
+przestał spełniać wymagania określone w art. 10c pkt 1 i 2;
+
+### 3)
+
+uzyskał negatywną ocenę z kolokwium wyznaczonego w czasie aplikacji;
+
+### 4)
+
+odmówił kontynuowania aplikacji w ramach specjalizacji, o której mowa w art. 10e ust. 8;
+
+### 5)
+
+złożył pisemne oświadczenie o rezygnacji z odbywania aplikacji;
+
+### 6)
+
+rażąco naruszył obowiązki aplikanta;
+
+### 7)
+
+w sposób rażący uchybił godności aplikanta lub jego zachowanie godzi w dobre imię Krajowego Centrum.
+
+### 2.
+
+Dyrektor Krajowego Centrum może skreślić z listy aplikantów aplikanta, który:
+
+### 1)
+
+został prawomocnie skazany za nieumyślne przestępstwo lub przestępstwo skarbowe;
+
+### 2)
+
+opuścił z przyczyn nieusprawiedliwionych ponad 20% zajęć seminaryjnych lub praktyk w danym roku szkoleniowym, ujętych w programie aplikacji;
+
+### 3)
+
+nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, co najmniej do dwóch sprawdzianów wiedzy przewidzianych w programie aplikacji;
+
+### 4)
+
+został dwukrotnie ukarany karą nagany.
+
+### 3.
+
+Przed skreśleniem aplikanta z listy aplikantów, z przyczyn określonych w ust. 1 i 2, Dyrektor Krajowego Centrum umożliwia aplikantowi złożenie wyjaśnień oraz zapoznaje się z opinią wskazanych przez niego osób.
+
+### 4.
+
+Od decyzji Dyrektora Krajowego Centrum o skreśleniu z listy aplikantów aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+
+### Art. 10m.
+
+### 1.
+
+Dyrektor Krajowego Centrum przyznaje aplikantowi, na jego wniosek, stypendium na czas aplikacji. Wysokość stypendium nie może przekraczać 50% wynagrodzenia zasadniczego w stawce podstawowej sędziego sądu rejonowego.
+
+### 2.
+
+Okres aplikacji zalicza się aplikantowi do wszelkich uprawnień pracowniczych związanych ze stażem pracy, pod warunkiem zdania egzaminu sędziowskiego albo prokuratorskiego.
+
+### 3.
+
+Stypendium nie wypłaca się:
+
+### 1)
+
+za dni nieusprawiedliwionej nieobecności aplikanta na zajęciach seminaryjnych lub praktykach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć w poszczególnych dniach, w okresie miesiąca kalendarzowego;
+
+### 2)
+
+za dni usprawiedliwionej nieobecności aplikanta z innych przyczyn niż zdrowotne, jeżeli okres tej nieobecności trwa nieprzerwanie dłużej niż 7 dni zajęć seminaryjnych lub praktyk albo przekracza 7 dni zajęć seminaryjnych lub praktyk w miesiącu.
+
+### 4.
+
+Aplikant, który pobierał stypendium, jest obowiązany do jego zwrotu, jeżeli:
+
+### 1)
+
+został skreślony z listy aplikantów;
+
+### 2)
+
+nie zdał egzaminu sędziowskiego albo prokuratorskiego, albo nie przystąpił do tego egzaminu;
+
+### 3)
+
+odmówił podjęcia pracy w sądzie lub prokuraturze na stanowisku: asesora sądowego, referendarza sądowego, asystenta sędziego albo asesora powszechnych jednostek organizacyjnych prokuratury lub asystenta prokuratora, zaproponowanym przez Ministra Sprawiedliwości, w kolejności miejsca na liście egzaminowanych aplikantów;
+
+### 4)
+
+po podjęciu pracy na stanowisku, o którym mowa w pkt 3, w okresie nie dłuższym niż trzy lata od daty ukończenia aplikacji:
+
+### a)
+
+rozwiązał stosunek pracy,
+
+### b)
+
+rozwiązano z nim stosunek pracy bez wypowiedzenia z jego winy.
+
+### 5.
+
+Stypendium podlega zwrotowi w wysokości proporcjonalnej do czasu jego pobierania lub do czasu pracy na stanowisku, o którym mowa w ust. 4 pkt 3, w okresie krótszym niż trzy lata od dnia jej podjęcia.
+
+### 6.
+
+Aplikant nie ma obowiązku zwrotu stypendium, w przypadku:
+
+### 1)
+
+skreślenia z listy aplikantów z przyczyn zdrowotnych lub konieczności sprawowania przez aplikanta samotnie wychowującego dziecko opieki nad dzieckiem do lat dwóch lub dzieckiem szczególnej troski;
+
+### 2)
+
+niepodjęcia pracy lub rezygnacji z pracy na stanowisku, o którym mowa w ust. 4 pkt 3, z przyczyn zdrowotnych;
+
+### 3)
+
+niepodjęcia pracy lub rezygnacji z pracy na stanowisku, o którym mowa w ust. 4 pkt 3, za zgodą Ministra Sprawiedliwości.
+
+### 7.
+
+Decyzję w sprawie obowiązku zwrotu stypendium wydaje Dyrektor Krajowego Centrum.
+
+### 8.
+
+W razie zmiany miejsca pracy w okresie, o którym mowa w ust. 5, prezes sądu apelacyjnego lub prokurator apelacyjny właściwy ze względu na sąd lub prokuraturę, w której osoba, która pobierała stypendium, była zatrudniona, przedstawia informację o tym Dyrektorowi Krajowego Centrum.
+
+### 9.
+
+Dyrektor Krajowego Centrum po zasięgnięciu opinii odpowiednio prezesa właściwego sądu apelacyjnego lub prokuratora apelacyjnego, o którym mowa w ust. 8, może, w szczególnie uzasadnionych przypadkach, umorzyć aplikantowi lub osobie, która pobierała stypendium, w całości lub w części, należność z tytułu zwrotu stypendium.
+
+### 10.
+
+Od decyzji Dyrektora Krajowego Centrum w sprawie zwrotu stypendium lub umorzenia należności z tytułu zwrotu stypendium, osobie, która pobierała stypendium, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+
+### Art. 10n.
+
+### 1.
+
+Aplikant nie może podejmować zatrudnienia lub zajęcia, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym w łącznym wymiarze nieprzekraczającym połowy wymiaru czasu pracy pracowników zatrudnionych na tych stanowiskach oraz zajęcia o charakterze naukowym, dydaktycznym lub publicystycznym, jeżeli wykonywanie tego zatrudnienia lub zajęcia nie przeszkadza w wykonywaniu obowiązków aplikanta.
+
+### 2.
+
+O zamiarze podjęcia zatrudnienia, o którym mowa w ust. 1, aplikant jest obowiązany zawiadomić Dyrektora Krajowego Centrum.
+
+### 3.
+
+Dyrektor Krajowego Centrum może wyrazić sprzeciw wobec zamiaru podjęcia przez aplikanta zatrudnienia, jeżeli uzna, że będzie to przeszkadzało w wykonywaniu obowiązków aplikanta.
+
+### Art. 10o.
+
+### 1.
+
+Dyrektor Krajowego Centrum może przyznać aplikantowi nagrodę za szczególne osiągnięcia oraz za zadania wykonane, poza jego obowiązkami, na rzecz Krajowego Centrum.
+
+### 2.
+
+Nagrodami są:
+
+### 1)
+
+nagroda pieniężna w wysokości do 30% kwoty przyznanego stypendium;
+
+### 2)
+
+pochwała pisemna udzielona przez Dyrektora Krajowego Centrum.
+
+### 3.
+
+Informacja o nagrodzie zamieszczana jest w aktach osobowych aplikanta.
+
+### Art. 10p.
+
+### 1.
+
+Dyrektor Krajowego Centrum może ukarać aplikanta karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności aplikanta.
+
+### 2.
+
+Karami porządkowymi są:
+
+### 1)
+
+upomnienie;
+
+### 2)
+
+nagana.
+
+### 3.
+
+Nie można ukarać aplikanta po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+
+### 4.
+
+Przed ukaraniem karą porządkową aplikantowi umożliwia się złożenie wyjaśnień.
+
+### 5.
+
+Od decyzji o ukaraniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+
+### 6.
+
+Odpis prawomocnej decyzji o ukaraniu karą porządkową dołącza się do akt osobowych aplikanta.
+
+### 7.
+
+Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową Dyrektor Krajowego Centrum zarządza usunięcie odpisu decyzji z akt osobowych aplikanta, jeżeli w tym czasie nie ukarano aplikanta inną karą.
+
+### Art. 10r.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację, skład, sposób powoływania członków zespołu konkursowego i komisji konkursowej oraz tryb ich postępowania - mając na uwadze zakres wiedzy podlegającej sprawdzeniu w trakcie konkursu i części preselekcyjnej, pisemną i ustną formę poszczególnych części konkursu, system punktowy ocen konkursowych, a także ocenę predyspozycji kandydata do zajmowania stanowiska sędziego lub prokuratora;
+
+### 2)
+
+organizację i przebieg aplikacji, w tym:
+
+### a)
+
+system punktowy oceny postępów aplikanta w czasie aplikacji, a także wyników kolokwium oraz egzaminu sędziowskiego i prokuratorskiego,
+
+### b)
+
+szczegółowy tryb i warunki odbywania aplikacji, również w ramach specjalizacji sądowej lub prokuratorskiej,
+
+### c)
+
+szczegółowy tryb i warunki sprawowania patronatu nad aplikantami
+
+- uwzględniając zakres wiedzy teoretycznej i praktyki niezbędnej do zajmowania stanowiska sędziego lub prokuratora, a także specyfikę tych urzędów;
+
+### 3)
+
+zakres, szczegółowe warunki i tryb przeprowadzania egzaminu sędziowskiego i prokuratorskiego, skład zespołu egzaminacyjnego i komisji egzaminacyjnej, sposób powoływania ich członków oraz tryb postępowania - uwzględniając zakres odbytej aplikacji w ramach specjalizacji sądowej lub prokuratorskiej, pisemną i ustną formę egzaminu, kwalifikacje członków komisji egzaminacyjnej, a także mając na uwadze konieczność zagwarantowania właściwego poziomu organizacyjnego i merytorycznego tych egzaminów oraz zabezpieczenia jednakowych warunków ich składania przez wszystkich aplikantów;
+
+### 4)
+
+wysokość oraz warunki i tryb wypłacania, a także zwrotu stypendium, mając na uwadze zapewnienie prawidłowego funkcjonowania Krajowego Centrum;
+
+### 5)
+
+wysokość wynagrodzenia członków zespołu konkursowego i zespołu egzaminacyjnego, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego sądu okręgowego w pierwszej stawce awansowej - uwzględniając zakres i nakład ich pracy przy przygotowywaniu odpowiednio konkursu, egzaminu sędziowskiego lub prokuratorskiego;
+
+### 6)
+
+wysokość wynagrodzenia członków komisji konkursowej, komisji do przeprowadzenia kolokwium oraz komisji egzaminacyjnej, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego sądu okręgowego w pierwszej stawce awansowej - uwzględniając zakres i nakład ich pracy odpowiednio w czasie konkursu, kolokwium lub egzaminów sędziowskiego lub prokuratorskiego oraz odrębności w ich przeprowadzaniu;
+
+### 7)
+
+wysokość wynagrodzenia patronów, o których mowa w art. 10 ust. 2 pkt 9, w wymiarze nie większym niż 15% kwoty bazowej stanowiącej podstawę wynagrodzenia zasadniczego sędziów i prokuratorów, ustalonej w ustawie budżetowej na dany rok, uwzględniając zakres i nakład ich pracy.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2002 r. Nr 21, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/2002/206/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 431 i 432.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 24 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+stanu i rozwoju kadry prokuratorskiej oraz kierunków szkolenia prokuratorów i asesorów,
+
+” ;
+
+### 2)
+
+w art. 52 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do okresu pracy, od którego zależy wymiar urlopu dodatkowego, wlicza się wszystkie okresy zatrudnienia w prokuraturze lub sądzie na stanowiskach: prokuratorów i sędziów, asesorów, w Prokuratorii Generalnej Skarbu Państwa na stanowisku radcy Prokuratorii Generalnej Skarbu Państwa, a także okresy wykonywania zawodu adwokata, radcy prawnego lub zajmowania samodzielnego stanowiska w organach władzy publicznej, z którym związana była praktyka prawnicza, oraz inne okresy pracy, jeżeli z tytułu tego zatrudnienia przysługiwał zwiększony wymiar urlopu.
+
+” ;
+
+### 3)
+
+w art. 76 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Protokolantem może być prokurator lub asesor wyznaczony przez przewodniczącego sądu dyscyplinarnego.
+
+” ;
+
+### 4)
+
+art. 90 otrzymuje brzmienie:
+
+„
+
+### Art. 90.
+
+### 1.
+
+Aplikację sądowo-prokuratorską przygotowującą kandydatów do zajmowania stanowiska prokuratora, zwanych dalej „aplikantami”, prowadzi się na zasadach określonych w przepisach ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ([Dz. U. Nr 169, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2005/1410/text.html) i [Nr 264, poz. 2204](https://api.sejm.gov.pl/eli/acts/DU/2005/2204/text.html) oraz z [2007 r. Nr 64, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/2007/433/text.html)).
+
+### 2.
+
+Minister Sprawiedliwości sprawuje nadzór merytoryczny nad aplikacją, o której mowa w ust. 1.
+
+### 3.
+
+Aplikacja prokuratorska w wojskowych jednostkach organizacyjnych prokuratury polega na przygotowaniu aplikanta wojskowej jednostki organizacyjnej prokuratury, zwanego dalej „wojskowym aplikantem prokuratorskim”, do należytego wykonywania obowiązków prokuratora wojskowej jednostki organizacyjnej prokuratury.
+
+” ;
+
+### 5)
+
+art. 91 otrzymuje brzmienie:
+
+„
+
+### Art. 91.
+
+### 1.
+
+Wojskowym aplikantem prokuratorskim może być tylko oficer pełniący zawodową służbę wojskową na podstawie kontraktu na pełnienie służby terminowej, który:
+
+### 1)
+
+posiada obywatelstwo polskie i pełną zdolność do czynności prawnych,
+
+### 2)
+
+posiada nieposzlakowaną opinię,
+
+### 3)
+
+nie był karany za przestępstwo lub przestępstwo skarbowe,
+
+### 4)
+
+nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe,
+
+### 5)
+
+ukończył studia prawnicze w Polsce i uzyskał tytuł magistra prawa lub zagraniczne uznane w Polsce,
+
+### 6)
+
+został umieszczony przez komisję konkursową na liście kwalifikacyjnej, o której mowa w ust. 9.
+
+### 2.
+
+Naczelny Prokurator Wojskowy zarządza, w zależności od potrzeb kadrowych wojskowych jednostek organizacyjnych prokuratury, nabór na aplikację i wyznacza limit miejsc na aplikację.
+
+### 3.
+
+Nabór odbywa się w drodze:
+
+### 1)
+
+konkursu składającego się z części pisemnej i ustnej,
+
+### 2)
+
+badania predyspozycji kandydata na aplikanta do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury, które przeprowadza się w formie testu psychologicznego.
+
+### 4.
+
+Nabór przeprowadza komisja konkursowa powołana przez Naczelnego Prokuratora Wojskowego.
+
+### 5.
+
+Część pisemna konkursu składa się z:
+
+### 1)
+
+testu wiedzy z poszczególnych dziedzin prawa i nauk pokrewnych,
+
+### 2)
+
+pracy pisemnej, będącej opracowaniem wybranego tematu dotyczącego szczegółowych zagadnień z poszczególnych dziedzin prawa.
+
+### 6.
+
+Warunkiem dopuszczenia kandydata do części ustnej konkursu jest uzyskanie z części pisemnej konkursu minimum punktów określonego przez Naczelnego Prokuratora Wojskowego.
+
+### 7.
+
+Część ustna konkursu obejmuje odpowiedzi na pytania zawarte w wylosowanym przez kandydata zestawie, dotyczące wiedzy ogólnej oraz wiadomości z zakresu poszczególnych dziedzin prawa i nauk pokrewnych.
+
+### 8.
+
+Tematy i test na część pisemną konkursu, pytania na część ustną konkursu oraz test psychologiczny opracowuje zespół konkursowy powołany przez Naczelnego Prokuratora Wojskowego.
+
+### 9.
+
+Po przeprowadzeniu konkursu oraz badania predyspozycji komisja konkursowa sporządza listę kandydatów na wojskowych aplikantów prokuratorskich, zwaną dalej „listą kwalifikacyjną”.
+
+### 10.
+
+Warunkiem umieszczenia na liście kwalifikacyjnej jest uzyskanie przez kandydata minimum punktów ze wszystkich części konkursu, określonego przez Naczelnego Prokuratora Wojskowego, oraz potwierdzenie predyspozycji kandydata do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury. O kolejności miejsca na liście kwalifikacyjnej decyduje suma uzyskanych punktów.
+
+### 11.
+
+Naczelny Prokurator Wojskowy, po przeprowadzeniu naboru, zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do właściwego komendanta wojewódzkiego Policji o nadesłanie informacji o każdej osobie umieszczonej na liście kwalifikacyjnej, na zasadach i w trybie dotyczącym kandydatów na aplikantów sądowo-prokuratorskich.
+
+### 12.
+
+Po uzyskaniu informacji, o których mowa w ust. 11, Naczelny Prokurator Wojskowy przekazuje je wraz z listą kwalifikacyjną Ministrowi Sprawiedliwości.
+
+” ;
+
+### 6)
+
+po art. 91 dodaje się art. 91a-91c w brzmieniu:
+
+„
+
+### Art. 91a.
+
+### 1.
+
+Przed przystąpieniem do naboru kandydat na wojskowego aplikanta prokuratorskiego uiszcza opłatę za udział w naborze. Opłata stanowi dochód budżetu państwa.
+
+### 2.
+
+Wysokość opłaty za udział w naborze jest równa opłacie za udział w naborze na aplikację sądowo-prokuratorską.
+
+### Art. 91b.
+
+### 1.
+
+Naczelny Prokurator Wojskowy, po uzyskaniu informacji, o której mowa w art. 91 ust. 11, wydaje decyzję w sprawie przyjęcia na aplikację.
+
+### 2.
+
+Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+
+### 3.
+
+Rozpoznanie odwołania następuje w terminie nie dłuższym niż 14 dni od dnia jego wniesienia.
+
+### 4.
+
+Termin do wniesienia skargi do wojewódzkiego sądu administracyjnego wynosi 14 dni od dnia doręczenia decyzji.
+
+### Art. 91c.
+
+### 1.
+
+Kandydat na stanowisko wojskowego aplikanta prokuratorskiego jest powoływany do zawodowej służby wojskowej, pełnionej jako służba kontraktowa na podstawie dobrowolnego zgłoszenia się do tej służby, po uprzednim zakwalifikowaniu się w drodze konkursu na stanowisko wojskowego aplikanta prokuratorskiego, odbyciu przeszkolenia wojskowego, zdaniu egzaminu na oficera, mianowaniu na stopień wojskowy podporucznika (podporucznika marynarki) i podpisaniu kontraktu na pełnienie służby terminowej.
+
+### 2.
+
+Do odbycia przeszkolenia wojskowego, o którym mowa w ust. 1, powołuje, na wniosek Naczelnego Prokuratora Wojskowego, właściwy organ uprawniony do powoływania do służby kandydackiej na podstawie odrębnych przepisów, określając miejsce szkolenia.
+
+### 3.
+
+Rozkaz personalny o powołaniu do zawodowej służby wojskowej kandydata na stanowisko wojskowego aplikanta prokuratorskiego wydaje na wniosek Naczelnego Prokuratora Wojskowego, z dniem powołania na stanowisko, Szef Sztabu Generalnego Wojska Polskiego.
+
+### 4.
+
+Kontrakt na pełnienie służby terminowej na stanowisko wojskowego aplikanta prokuratorskiego zawiera Naczelny Prokurator Wojskowy.
+
+### 5.
+
+Przepisów ust. 1-3, w zakresie powoływania do zawodowej służby wojskowej i mianowania na stopień oficerski, nie stosuje się do kandydatów na stanowisko wojskowych aplikantów prokuratorskich, którzy pełnią już zawodową służbę wojskową.
+
+### 6.
+
+W odniesieniu do zasad powoływania kandydatów na stanowiska wojskowych aplikantów prokuratorskich do zawodowej służby wojskowej i zawierania z nimi kontraktów na jej pełnienie, w sprawach nieuregulowanych w ustawie, stosuje się przepisy o służbie wojskowej żołnierzy zawodowych.
+
+” ;
+
+### 7)
+
+art. 92 otrzymuje brzmienie:
+
+„
+
+### Art. 92.
+
+Przed objęciem obowiązków wojskowy aplikant prokuratorski składa ślubowanie wobec Naczelnego Prokuratora Wojskowego według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki wojskowego aplikanta prokuratorskiego, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”.
+
+” ;
+
+### 8)
+
+po art. 92 dodaje się art. 92a-92d w brzmieniu:
+
+„
+
+### Art. 92a.
+
+Wojskowy aplikant prokuratorski odbywa aplikację w wojskowej jednostce organizacyjnej prokuratury oraz uczestniczy w zajęciach seminaryjnych i praktykach dla aplikantów sądowo-prokuratorskich odbywających aplikację na zasadach określonych w art. 10e ust. 1-5, 9, 11 i 12 ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+### Art. 92b.
+
+### 1.
+
+Do obowiązków wojskowego aplikanta prokuratorskiego należy:
+
+### 1)
+
+uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych prowadzonych w Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury, zwanym dalej „Krajowym Centrum”, oraz w praktykach odbywających się w jednostkach organizacyjnych prokuratury, sądach i innych instytucjach związanych z funkcjonowaniem wymiaru sprawiedliwości,
+
+### 2)
+
+samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury,
+
+### 3)
+
+przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu prokuratorskiego,
+
+### 4)
+
+przestrzeganie regulaminu organizacyjnego Krajowego Centrum oraz zarządzeń i poleceń porządkowych Dyrektora Krajowego Centrum.
+
+### 2.
+
+Na czas trwania aplikacji Naczelny Prokurator Wojskowy wyznacza wojskowemu aplikantowi prokuratorskiemu patrona spośród prokuratorów wojskowych jednostek organizacyjnych prokuratury. Patronom przysługuje wynagrodzenie za sprawowanie patronatu w wysokości równej wynagrodzeniu patronów, o których mowa w art. 10 ust. 2 pkt 9 ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+### Art. 92c.
+
+### 1.
+
+Naczelny Prokurator Wojskowy zwalnia ze stanowiska wojskowego aplikanta prokuratorskiego, który:
+
+### 1)
+
+został prawomocnie skazany za umyślne przestępstwo lub przestępstwo skarbowe,
+
+### 2)
+
+przestał spełniać wymagania określone w art. 91 ust. 1 pkt 1 i 2,
+
+### 3)
+
+uzyskał negatywną ocenę z kolokwium wyznaczonego w czasie aplikacji,
+
+### 4)
+
+złożył pisemne oświadczenie o rezygnacji z odbywania aplikacji,
+
+### 5)
+
+został uznany orzeczeniem wojskowej komisji lekarskiej za trwale niezdolnego do pełnienia zawodowej służby wojskowej,
+
+### 6)
+
+rażąco naruszył obowiązki wojskowego aplikanta prokuratorskiego,
+
+### 7)
+
+w sposób rażący uchybił godności wojskowego aplikanta prokuratorskiego lub jego zachowanie godzi w dobre imię Krajowego Centrum lub wojskowych jednostek organizacyjnych prokuratury.
+
+### 2.
+
+Naczelny Prokurator Wojskowy może zwolnić ze stanowiska wojskowego aplikanta prokuratorskiego, który:
+
+### 1)
+
+został prawomocnie skazany za nieumyślne przestępstwo lub przestępstwo skarbowe,
+
+### 2)
+
+opuścił z przyczyn nieusprawiedliwionych ponad 20% zajęć seminaryjnych lub praktyk w danym roku szkoleniowym, ujętych w programie aplikacji,
+
+### 3)
+
+nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, co najmniej do dwóch sprawdzianów wiedzy przewidzianych w programie aplikacji,
+
+### 4)
+
+został dwukrotnie ukarany karą nagany.
+
+### 3.
+
+Przed zwolnieniem wojskowego aplikanta prokuratorskiego ze stanowiska, z przyczyn określonych w ust. 1 i 2, Naczelny Prokurator Wojskowy umożliwia wojskowemu aplikantowi prokuratorskiemu złożenie wyjaśnień.
+
+### 4.
+
+Od decyzji Naczelnego Prokuratora Wojskowego o zwolnieniu ze stanowiska wojskowemu aplikantowi prokuratorskiemu przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
+
+### Art. 92d.
+
+### 1.
+
+Naczelny Prokurator Wojskowy może ukarać wojskowego aplikanta prokuratorskiego karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności wojskowego aplikanta prokuratorskiego.
+
+### 2.
+
+Karami porządkowymi są:
+
+### 1)
+
+upomnienie,
+
+### 2)
+
+nagana.
+
+### 3.
+
+Nie można ukarać wojskowego aplikanta prokuratorskiego po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+
+### 4.
+
+Przed ukaraniem karą porządkową wojskowemu aplikantowi prokuratorskiemu umożliwia się złożenie wyjaśnień.
+
+### 5.
+
+Od decyzji o ukaraniu wojskowemu aplikantowi prokuratorskiemu przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+
+### 6.
+
+Odpis prawomocnej decyzji o ukaraniu karą porządkową dołącza się do teczki akt personalnych wojskowego aplikanta prokuratorskiego.
+
+### 7.
+
+Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową Naczelny Prokurator Wojskowy zarządza usunięcie odpisu decyzji z akt personalnych wojskowego aplikanta prokuratorskiego, jeżeli w tym czasie nie ukarano aplikanta inną karą.
+
+” ;
+
+### 9)
+
+art. 94 otrzymuje brzmienie:
+
+„
+
+### Art. 94.
+
+### 1.
+
+W ostatnim miesiącu trzeciego roku aplikacji wojskowy aplikant prokuratorski składa egzamin prokuratorski przed komisją egzaminacyjną powołaną przez Prokuratora Generalnego. W skład komisji wchodzi prokurator wojskowy będący przedstawicielem Naczelnego Prokuratora Wojskowego.
+
+### 2.
+
+Egzamin prokuratorski składa się z części pisemnej i ustnej.
+
+### 3.
+
+Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu prokuratorskiego opracowuje zespół egzaminacyjny powołany przez Prokuratora Generalnego. W skład zespołu wchodzi prokurator wojskowy będący przedstawicielem Naczelnego Prokuratora Wojskowego.
+
+### 4.
+
+Naczelny Prokurator Wojskowy może udzielić wojskowemu aplikantowi prokuratorskiemu zezwolenia na zdawanie egzaminu prokuratorskiego w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez wojskowego aplikanta prokuratorskiego przyczyna uniemożliwiają przystąpienie do egzaminu prokuratorskiego w terminie, o którym mowa w ust. 1.
+
+### 5.
+
+Zezwolenia, o którym mowa w ust. 4, Naczelny Prokurator Wojskowy udziela na pisemny wniosek wojskowego aplikanta prokuratorskiego, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu prokuratorskiego.
+
+### 6.
+
+Wojskowy aplikant prokuratorski, który nie przystąpił do egzaminu prokuratorskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 4, albo odstąpił bez usprawiedliwienia od egzaminu prokuratorskiego w czasie jego trwania, składa egzamin prokuratorski tylko raz, według zasad obowiązujących w przypadku niezdarna egzaminu prokuratorskiego.
+
+### 7.
+
+Uprawnienie do zdawania egzaminu prokuratorskiego wygasa po upływie okresu kontraktu, o którym mowa w art. 91c ust. 4.
+
+### 8.
+
+Wojskowy aplikant prokuratorski, który nie zdał egzaminu prokuratorskiego, może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin prokuratorski przeprowadza komisja egzaminacyjna, o której mowa w ust. 1, w terminie wyznaczonym przez Prokuratora Generalnego. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+### 9.
+
+Po złożeniu egzaminu prokuratorskiego wojskowy aplikant prokuratorski może być powołany na stanowisko asesora wojskowej jednostki organizacyjnej prokuratury.
+
+### 10.
+
+W razie zwolnienia ze stanowiska, nieprzystąpienia do egzaminu prokuratorskiego lub niezdania tego egzaminu, wojskowego aplikanta prokuratorskiego zwalnia się z zawodowej służby wojskowej.
+
+” ;
+
+### 10)
+
+art. 94a otrzymuje brzmienie:
+
+„
+
+### Art. 94a.
+
+Za udział w pracach zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie w wysokości równej wynagrodzeniu odpowiednio członków zespołów i komisji określonych w ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 11)
+
+uchyla się art. 94b-96;
+
+### 12)
+
+art. 97 otrzymuje brzmienie:
+
+„
+
+### Art. 97.
+
+Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację prokuratorską w wojskowych jednostkach organizacyjnych prokuratury, skład, sposób powoływania członków zespołu konkursowego i komisji konkursowej oraz tryb ich postępowania - mając na uwadze zakres wiedzy podlegającej sprawdzeniu w trakcie konkursu, pisemną i ustną formę poszczególnych części konkursu, system punktowy ocen konkursowych, a także ocenę predyspozycji kandydata do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury;
+
+### 2)
+
+organizację i przebieg aplikacji, w tym:
+
+### a)
+
+system punktowy oceny postępów wojskowego aplikanta prokuratorskiego w czasie aplikacji, a także wyników kolokwium oraz egzaminu prokuratorskiego,
+
+### b)
+
+szczegółowy tryb i warunki odbywania aplikacji,
+
+### c)
+
+szczegółowy tryb i warunki sprawowania patronatu nad wojskowym aplikantem prokuratorskim
+
+- uwzględniając zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury;
+
+### 3)
+
+zakres, szczegółowe warunki i tryb przeprowadzania egzaminu prokuratorskiego, skład zespołu egzaminacyjnego i komisji egzaminacyjnej, sposób powoływania ich członków oraz tryb postępowania - uwzględniając zakres odbytej aplikacji, pisemną i ustną formę egzaminu, kwalifikacje członków komisji egzaminacyjnej, a także mając na uwadze konieczność zagwarantowania właściwego poziomu organizacyjnego i merytorycznego egzaminu prokuratorskiego oraz zabezpieczenia jednakowych warunków jego składania przez wszystkich wojskowych aplikantów prokuratorskich.
+
+” ;
+
+### 13)
+
+w art. 110 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zwolnienie asesora lub wojskowego aplikanta prokuratorskiego ze służby w wojskowych jednostkach organizacyjnych prokuratury następuje odpowiednio w przypadkach określonych w art. 94 ust. 10 i w art. 100 ust. 3, a także gdy przepisy o służbie wojskowej przewidują zwolnienie z zawodowej lub okresowej służby wojskowej.”/
+
+### Art. 3.
+
+W ustawie z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych ([Dz. U. Nr 117, poz. 753](https://api.sejm.gov.pl/eli/acts/DU/1997/753/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 185, poz. 1907, z 2005 r. Nr 249, poz. 2104 oraz z 2006 r. Nr 144, poz. 1044 i Nr 191, poz. 1414.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 49 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Aplikantem w wojskowym sądzie garnizonowym, zwanym dalej „aplikantem”, może być żołnierz zawodowy pełniący zawodową służbę wojskową na podstawie kontraktu na pełnienie służby terminowej i posiadający stopień podporucznika (podporucznika marynarki), który:
+
+### 1)
+
+posiada obywatelstwo polskie i pełną zdolność do czynności prawnych,
+
+### 2)
+
+posiada nieposzlakowaną opinię,
+
+### 3)
+
+nie był karany za przestępstwo lub przestępstwo skarbowe,
+
+### 4)
+
+nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe,
+
+### 5)
+
+ukończył studia prawnicze w Polsce i uzyskał tytuł magistra prawa lub zagraniczne uznane w Polsce,
+
+### 6)
+
+został umieszczony przez komisję konkursową na liście kwalifikacyjnej, o której mowa w art. 50 § 8.
+
+” ;
+
+### 2)
+
+art. 50 otrzymuje brzmienie:
+
+„
+
+### Art. 50.
+
+### § 1.
+
+Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej zarządza, w zależności od potrzeb kadrowych sądów wojskowych, nabór na aplikację i wyznacza limit miejsc na aplikację.
+
+### § 2.
+
+Nabór odbywa się w drodze:
+
+### 1)
+
+konkursu składającego się z części pisemnej i ustnej,
+
+### 2)
+
+badania predyspozycji kandydata na aplikanta do zajmowania stanowiska sędziego sądu wojskowego, które przeprowadza się w formie testu psychologicznego.
+
+### § 3.
+
+Nabór przeprowadza komisja konkursowa powołana przez dyrektora departamentu, o którym mowa w art. 5 § 4.
+
+### § 4.
+
+Część pisemna konkursu składa się z:
+
+### 1)
+
+testu wiedzy z poszczególnych dziedzin prawa i nauk pokrewnych,
+
+### 2)
+
+pracy pisemnej, będącej opracowaniem wybranego tematu dotyczącego szczegółowych zagadnień z poszczególnych dziedzin prawa.
+
+### § 5.
+
+Warunkiem dopuszczenia kandydata do części ustnej konkursu jest uzyskanie z pisemnej części konkursu minimum punktów, określonego przez dyrektora departamentu, o którym mowa w art. 5 § 4.
+
+### § 6.
+
+Część ustna konkursu obejmuje odpowiedzi na pytania zawarte w wylosowanym przez kandydata zestawie, dotyczące wiedzy ogólnej oraz wiadomości z zakresu poszczególnych dziedzin prawa i nauk pokrewnych.
+
+### § 7.
+
+Tematy i test na część pisemną konkursu, pytania na część ustną konkursu oraz test psychologiczny opracowuje zespół konkursowy powołany przez Ministra Sprawiedliwości.
+
+### § 8.
+
+Po przeprowadzeniu konkursu oraz badania predyspozycji komisja konkursowa sporządza listę kandydatów na aplikantów, zwaną dalej „listą kwalifikacyjną”.
+
+### § 9.
+
+Warunkiem umieszczenia na liście kwalifikacyjnej jest uzyskanie przez kandydata minimum punktów ze wszystkich części konkursu, określonego przez dyrektora departamentu, o którym mowa w art. 5 § 4, oraz potwierdzenie predyspozycji kandydata do zajmowania stanowiska sędziego sądu wojskowego. O miejscu na liście kwalifikacyjnej decyduje suma uzyskanych punktów.
+
+### § 10.
+
+Dyrektor departamentu, o którym mowa w art. 5 § 4, po przeprowadzeniu naboru, zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do właściwego komendanta wojewódzkiego Policji o nadesłanie informacji o każdej osobie umieszczonej na liście kwalifikacyjnej, na zasadach i w trybie dotyczącym kandydatów na aplikantów sądowo-prokuratorskich.
+
+### § 11.
+
+Po uzyskaniu informacji, o których mowa w § 10, dyrektor departamentu, o którym mowa w art. 5 § 4, przekazuje je wraz z listą kwalifikacyjną Ministrowi Sprawiedliwości.
+
+” ;
+
+### 3)
+
+po art. 50 dodaje się art. 50a w brzmieniu:
+
+„
+
+### Art. 50a.
+
+### § 1.
+
+Przed przystąpieniem do naboru kandydat na aplikanta uiszcza opłatę za udział w naborze. Opłata stanowi dochód budżetu państwa.
+
+### § 2.
+
+Wysokość opłaty za udział w naborze jest równa opłacie za udział w naborze na aplikację sądowo-prokuratorską.
+
+” ;
+
+### 4)
+
+art. 51 otrzymuje brzmienie:
+
+„
+
+### Art. 51.
+
+### § 1.
+
+Przed objęciem obowiązków aplikanta aplikant składa ślubowanie wobec dyrektora departamentu, o którym mowa w art. 5 § 4, według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki wojskowego aplikanta sądowego, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy państwowej i służbowej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”.
+
+### § 2.
+
+Aplikant odbywa aplikację w sądzie wojskowym oraz uczestniczy w zajęciach seminaryjnych i praktykach dla aplikantów sądowo-prokuratorskich odbywających aplikację na zasadach określonych w art. 10e ust. 1-5, 9, 11 i 12 ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ([Dz. U. Nr 169, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2005/1410/text.html) i [Nr 264, poz. 2204](https://api.sejm.gov.pl/eli/acts/DU/2005/2204/text.html) oraz z [2007 r. Nr 64, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/2007/433/text.html)).
+
+### § 3.
+
+Do obowiązków aplikanta należy:
+
+### 1)
+
+uczestniczenie w przewidzianych programem aplikacji zajęciach seminaryjnych prowadzonych w Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury, zwanym dalej „Krajowym Centrum”, oraz w praktykach odbywających się w sądach, jednostkach organizacyjnych prokuratury i innych instytucjach związanych z funkcjonowaniem wymiaru sprawiedliwości,
+
+### 2)
+
+samodzielne pogłębianie wiedzy prawniczej i praktycznych umiejętności niezbędnych do zajmowania stanowiska sędziego sądu wojskowego,
+
+### 3)
+
+przystępowanie, w wyznaczonym terminie, do sprawdzianów wiedzy oraz kolokwium, przeprowadzanych w czasie aplikacji, a także do egzaminu sędziowskiego,
+
+### 4)
+
+przestrzeganie regulaminu organizacyjnego Krajowego Centrum oraz zarządzeń i poleceń porządkowych Dyrektora Krajowego Centrum.
+
+### § 4.
+
+Na czas trwania aplikacji dyrektor departamentu, o którym mowa w art. 5 § 4, wyznacza aplikantowi patrona spośród sędziów sądów wojskowych. Patronom przysługuje wynagrodzenie za sprawowanie patronatu w wysokości równej wynagrodzeniu patronów, o których mowa w art. 10 ust. 2 pkt 9 ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 5)
+
+po art. 51 dodaje się art. 51a-51d w brzmieniu:
+
+„
+
+### Art. 51a.
+
+### § 1.
+
+Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej zwalnia aplikanta, który:
+
+### 1)
+
+został prawomocnie skazany za umyślne przestępstwo lub przestępstwo skarbowe,
+
+### 2)
+
+przestał spełniać wymagania określone w art. 49 § 1 pkt 1 i 2,
+
+### 3)
+
+uzyskał negatywną ocenę z kolokwium wyznaczonego w czasie aplikacji,
+
+### 4)
+
+zrzekł się stanowiska,
+
+### 5)
+
+został uznany orzeczeniem wojskowej komisji lekarskiej za trwale niezdolnego do pełnienia zawodowej służby wojskowej,
+
+### 6)
+
+rażąco naruszył obowiązki aplikanta,
+
+### 7)
+
+w sposób rażący uchybił godności aplikanta lub jego zachowanie godzi w dobre imię Krajowego Centrum lub sądów wojskowych.
+
+### § 2.
+
+Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej może zwolnić aplikanta, który:
+
+### 1)
+
+został prawomocnie skazany za nieumyślne przestępstwo lub przestępstwo skarbowe,
+
+### 2)
+
+opuścił z przyczyn nieusprawiedliwionych ponad 20% zajęć seminaryjnych lub praktyk w danym roku szkoleniowym, ujętych w programie aplikacji,
+
+### 3)
+
+nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, co najmniej do dwóch sprawdzianów wiedzy przewidzianych w programie aplikacji,
+
+### 4)
+
+został dwukrotnie ukarany karą nagany.
+
+### § 3.
+
+Przed zwolnieniem aplikanta ze stanowiska, z przyczyn określonych w § 1 i 2, Minister Sprawiedliwości umożliwia aplikantowi złożenie wyjaśnień.
+
+### Art. 51b.
+
+### § 1.
+
+Dyrektor departamentu, o którym mowa w art. 5 § 4, może ukarać aplikanta karą porządkową za przewinienie polegające na naruszeniu obowiązków lub uchybieniu godności aplikanta.
+
+### § 2.
+
+Karami porządkowymi są:
+
+### 1)
+
+upomnienie,
+
+### 2)
+
+nagana.
+
+### § 3.
+
+Nie można ukarać aplikanta po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub trzech miesięcy od dnia jego popełnienia.
+
+### § 4.
+
+Przed ukaraniem karą porządkową aplikantowi umożliwia się złożenie wyjaśnień.
+
+### § 5.
+
+Od decyzji o ukaraniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7 dni od dnia jej doręczenia.
+
+### § 6.
+
+Odpis prawomocnej decyzji o ukaraniu karą porządkową dołącza się do teczki akt personalnych aplikanta.
+
+### § 7.
+
+Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową dyrektor departamentu, o którym mowa w art. 5 § 4, zarządza usunięcie odpisu decyzji z akt personalnych aplikanta, jeżeli w tym czasie nie ukarano aplikanta inną karą.
+
+### Art. 51c.
+
+### § 1.
+
+W ostatnim miesiącu trzeciego roku aplikacji aplikant składa egzamin sędziowski przed komisją egzaminacyjną powołaną przez Ministra Sprawiedliwości. W skład komisji wchodzi sędzia wojskowy będący przedstawicielem dyrektora departamentu, o którym mowa w art. 5 § 4.
+
+### § 2.
+
+Egzamin sędziowski składa się z części pisemnej i ustnej.
+
+### § 3.
+
+Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu sędziowskiego opracowuje zespół egzaminacyjny powołany przez Ministra Sprawiedliwości. W skład zespołu wchodzi sędzia wojskowy będący przedstawicielem dyrektora departamentu, o którym mowa w art. 5 § 4.
+
+### § 4.
+
+Dyrektor departamentu, o którym mowa w art. 5 § 4, może udzielić aplikantowi zezwolenia na zdawanie egzaminu sędziowskiego w terminie późniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana i udokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu sędziowskiego w terminie, o którym mowa w § 1.
+
+### § 5.
+
+Zezwolenia, o którym mowa w § 4, dyrektor departamentu, o którym mowa w art. 5 § 4, udziela na pisemny wniosek aplikanta, złożony nie później niż w ciągu miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu sędziowskiego.
+
+### § 6.
+
+Aplikant, który nie przystąpił do egzaminu sędziowskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w § 4, albo odstąpił bez usprawiedliwienia od egzaminu sędziowskiego w czasie jego trwania, składa egzamin sędziowski tylko raz, według zasad obowiązujących w przypadku niezdania egzaminu sędziowskiego.
+
+### § 7.
+
+Uprawnienie do zdawania egzaminu sędziowskiego wygasa po upływie okresu kontraktu, o którym mowa w art. 49 § 2.
+
+### § 8.
+
+Aplikant, który nie zdał egzaminu sędziowskiego, może raz przystąpić do ponownego jego składania, nie później jednak niż w ciągu roku od dnia zakończenia poprzedniego egzaminu. Poprawkowy egzamin sędziowski przeprowadza komisja egzaminacyjna, o której mowa w § 1, w terminie wyznaczonym przez Ministra Sprawiedliwości. Przepisy § 2 i 3 stosuje się odpowiednio.
+
+### § 9.
+
+Po złożeniu egzaminu sędziowskiego aplikant może być powołany na stanowisko asesora w wojskowym sądzie garnizonowym.
+
+### § 10.
+
+W razie zwolnienia ze stanowiska, nieprzystąpienia do egzaminu sędziowskiego lub niezdania tego egzaminu, aplikanta zwalnia się z zawodowej służby wojskowej.
+
+### Art. 51d.
+
+Za udział w pracach zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej członkom tych zespołów i komisji przysługuje wynagrodzenie w wysokości równej wynagrodzeniu odpowiednio członków zespołów i komisji określonych w ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 6)
+
+art. 52 otrzymuje brzmienie:
+
+„
+
+### Art. 52.
+
+Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki i tryb przeprowadzania naboru dla kandydatów na aplikację, skład, sposób powoływania członków zespołu konkursowego i komisji konkursowej oraz tryb ich postępowania - mając na uwadze zakres wiedzy podlegającej sprawdzeniu w trakcie konkursu, pisemną i ustną formę poszczególnych części konkursu, system punktowy ocen konkursowych, a także ocenę predyspozycji kandydata do zajmowania stanowiska sędziego sądu wojskowego,
+
+### 2)
+
+organizację i przebieg aplikacji, w tym:
+
+### a)
+
+system punktowy oceny postępów aplikanta w czasie aplikacji, a także wyników kolokwium oraz egzaminu sędziowskiego,
+
+### b)
+
+szczegółowy tryb i warunki odbywania aplikacji,
+
+### c)
+
+szczegółowy tryb i warunki sprawowania patronatu nad aplikantem
+
+- uwzględniając zakres wiedzy teoretycznej i praktycznej niezbędnej do zajmowania stanowiska sędziego sądu wojskowego,
+
+### 3)
+
+zakres, szczegółowe warunki i tryb przeprowadzania egzaminu sędziowskiego, skład zespołu egzaminacyjnego i komisji egzaminacyjnej, sposób powoływania ich członków oraz tryb postępowania - uwzględniając zakres odbytej aplikacji, pisemną i ustną formę egzaminu, kwalifikacje członków komisji egzaminacyjnej, a także mając na uwadze konieczność zagwarantowania właściwego poziomu organizacyjnego i merytorycznego egzaminu sędziowskiego oraz zabezpieczenia jednakowych warunków jego składania przez wszystkich aplikantów.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ([Dz. U. Nr 162, poz. 1125](https://api.sejm.gov.pl/eli/acts/DU/1998/1125/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 oraz z 2007 r. Nr 64, poz. 432.](#gloss-0:6:)) w art. 3 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Od odbycia stażu urzędniczego zwolnione są osoby, które ukończyły aplikację sądową, aplikację prokuratorską lub aplikację sądowo-prokuratorską prowadzoną na zasadach określonych w przepisach ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ([Dz. U. Nr 169, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2005/1410/text.html) i [Nr 264, poz. 2204](https://api.sejm.gov.pl/eli/acts/DU/2005/2204/text.html) oraz z [2007 r. Nr 64, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/2007/433/text.html)).
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw ([Dz. U. Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805, z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609, Nr 179, poz. 1750, Nr 199, poz. 1939 i Nr 228, poz. 2256, z 2004 r. Nr 116, poz. 1203, Nr 240, poz. 2407 i Nr 273, poz. 2703, z 2005 r. Nr 164, poz. 1365 i Nr 249, poz. 2104 oraz z 2006 r. Nr 104, poz. 708 i 711.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+osoby zajmujące kierownicze stanowiska państwowe, członkowie korpusu służby cywilnej, etatowi członkowie samorządowych kolegiów odwoławczych i kolegiów regionalnych izb obrachunkowych, pracownicy Rządowego Centrum Legislacji, eksperci Urzędu Patentowego Rzeczypospolitej Polskiej, asesorzy prokuratorscy, funkcjonariusze Służby Celnej,
+
+” ;
+
+### 2)
+
+w art. 9 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Limity zatrudnienia ustala się łącznie dla sędziów, prokuratorów, asesorów prokuratorskich, o których mowa w art. 5 pkt 1 lit. a) i b).
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 91 w § 1a pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+dla asesorów sądowych - w wysokości 1 667,70 zł.
+
+” ;
+
+### 2)
+
+w art. 92 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Do okresu pracy, od którego zależy wymiar urlopu dodatkowego, wlicza się wszystkie okresy zatrudnienia w sądzie lub prokuraturze na stanowiskach: asesorów, sędziów i prokuratorów, w Prokuratorii Generalnej Skarbu Państwa na stanowisku radcy, a także okresy wykonywania zawodu adwokata, radcy prawnego lub zajmowania samodzielnego stanowiska w organach władzy publicznej, z którym związana była praktyka prawnicza, oraz inne okresy pracy, jeżeli z tytułu tego zatrudnienia przysługiwał zwiększony wymiar urlopu.
+
+” ;
+
+### 3)
+
+tytuł działu III otrzymuje brzmienie:
+
+„
+
+### Dział III Asesorzy sądowi i aplikacja sądowo-prokuratorska”;
+
+### 4)
+
+w art. 134 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Minister Sprawiedliwości może mianować asesorem sądowym osobę, która ukończyła aplikację sądową lub prokuratorską albo aplikację sądowo-prokuratorską prowadzoną na zasadach określonych w przepisach ustawy z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ([Dz. U. Nr 169, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2005/1410/text.html) i [Nr 264, poz. 2204](https://api.sejm.gov.pl/eli/acts/DU/2005/2204/text.html) oraz z [2007 r. Nr 64, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/2007/433/text.html)) i zdała egzamin sędziowski lub prokuratorski oraz spełnia warunki określone w art. 61 § 1 pkt 1-4.
+
+” ;
+
+### 5)
+
+w dziale III tytuł rozdziału 2 otrzymuje brzmienie:
+
+„
+
+### Rozdział 2 Aplikacja sądowo-prokuratorska”;
+
+### 6)
+
+art. 137 otrzymuje brzmienie:
+
+„
+
+### Art. 137.
+
+Aplikację sądowo-prokuratorską przygotowującą kandydatów do zajmowania stanowiska sędziego, zwanych dalej „aplikantami”, prowadzi się na zasadach określonych w przepisach ustawy, o której mowa w art. 134 § 1.
+
+” ;
+
+### 7)
+
+uchyla się art. 138;
+
+### 8)
+
+art. 139 otrzymuje brzmienie:
+
+„
+
+### Art. 139.
+
+Minister Sprawiedliwości sprawuje nadzór merytoryczny nad aplikacją sądowo-prokuratorską.
+
+” ;
+
+### 9)
+
+uchyla się art. 140;
+
+### 10)
+
+w dziale III uchyla się rozdział 3;
+
+### 11)
+
+art. 149 otrzymuje brzmienie:
+
+„
+
+### Art. 149.
+
+### § 1.
+
+Na stanowisko referendarza sądowego może być mianowany ten, kto:
+
+### 1)
+
+posiada obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich,
+
+### 2)
+
+jest nieskazitelnego charakteru,
+
+### 3)
+
+ukończył wyższe studia prawnicze w Polsce i uzyskał tytuł magistra prawa lub zagraniczne uznane w Polsce,
+
+### 4)
+
+ukończył 24 lata,
+
+### 5)
+
+odbył aplikację referendarską i złożył egzamin referendarski albo odbył aplikację sądową lub prokuratorską albo aplikację sądowo-prokuratorską prowadzoną na zasadach określonych w przepisach ustawy, o której mowa w art. 134 § 1, aplikację notarialną, adwokacką lub radcowską i złożył odpowiedni egzamin albo złożył egzamin referendarski.
+
+### § 2.
+
+Minister Sprawiedliwości może, w zależności od potrzeb kadrowych sądów, zarządzić nabór na aplikację referendarską w danym roku.
+
+### § 3.
+
+Aplikacja referendarską trwa rok i kończy się egzaminem referendarskim.
+
+” ;
+
+### 12)
+
+w art. 153:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Aplikanta referendarskiego mianuje na czas określony, oznaczony w art. 149 § 3, i zwalnia prezes sądu okręgowego. Mianowanie aplikanta referendarskiego następuje po przeprowadzeniu konkursu przez prezesa sądu apelacyjnego. Prezes sądu okręgowego przed mianowaniem aplikanta referendarskiego zasięga informacji z Krajowego Rejestru Karnego oraz zwraca się do komendanta wojewódzkiego Policji o nadesłanie informacji o kandydacie.
+
+” ,
+
+### b)
+
+po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb oraz zakres uzyskiwania informacji przez komendanta wojewódzkiego Policji o kandydacie na stanowisko aplikanta referendarskiego i referendarza sądowego oraz wzór kwestionariusza tej informacji, mając na względzie charakter i miejsce pracy oraz prawa i wolności chronione konstytucyjnie.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. Nr 210, poz. 2135](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z 2007 r. Nr 64, poz. 427.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 66 w ust. 1 w pkt 35 kropkę zastępuje się średnikiem i dodaje się pkt 36 w brzmieniu:
+
+„
+
+### 36)
+
+aplikanci Krajowego Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 2)
+
+w art. 73 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu:
+
+„
+
+### 18)
+
+osób, o których mowa w art. 66 ust. 1 pkt 36, powstaje z dniem przyznania stypendium, a wygasa z dniem utraty prawa do jego pobierania.
+
+” ;
+
+### 3)
+
+w art. 75 dodaje się ust. 18 w brzmieniu:
+
+„
+
+### 18.
+
+Osoby, o których mowa w art. 66 ust. 1 pkt 36, zgłasza do ubezpieczenia zdrowotnego Krajowe Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 4)
+
+w art. 81 w ust. 8 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
+
+„
+
+### 13)
+
+osób, o których mowa w art. 66 ust. 1 pkt 36, jest kwota odpowiadająca wysokości pobieranego stypendium.
+
+” ;
+
+### 5)
+
+w art. 86 w ust. 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+osób, o których mowa w art. 66 ust. 1 pkt 36, opłaca Krajowe Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury.
+
+” ;
+
+### 6)
+
+w art. 87 w ust. 4 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+osób wymienionych w art. 66 ust. 1 pkt 36 są opłacane i ewidencjonowane w Zakładzie Ubezpieczeń Społecznych.
+
+” .
+
+### Art. 8.
+
+Do osób będących w chwili wejścia w życie ustawy aplikantami sądowymi, aplikantami powszechnych jednostek organizacyjnych prokuratury, aplikantami wojskowych jednostek organizacyjnych prokuratury oraz aplikantami w sądzie wojskowym stosuje się przepisy dotychczasowe.
+
+### Art. 9.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 czerwca 1985 r. o prokuraturze, ustawę z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, ustawę z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 433. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 431, 432 i 433. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 213, poz. 1802, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 130, poz. 1085, Nr 167, poz. 1398 i Nr 169, poz. 1410 i 1417, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162 i Nr 64, poz. 431 i 432. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 75, poz. 853, z 2001 r. Nr 98, poz. 1070, z 2002 r. Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2004 r. Nr 185, poz. 1907, z 2005 r. Nr 249, poz. 2104 oraz z 2006 r. Nr 144, poz. 1044 i Nr 191, poz. 1414. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 oraz z 2007 r. Nr 64, poz. 432. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 19, poz. 239, z 2001 r. Nr 85, poz. 924, Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799, z 2002 r. Nr 74, poz. 676, Nr 152, poz. 1267, Nr 213, poz. 1802 i Nr 214, poz. 1805, z 2003 r. Nr 149, poz. 1454, Nr 166, poz. 1609, Nr 179, poz. 1750, Nr 199, poz. 1939 i Nr 228, poz. 2256, z 2004 r. Nr 116, poz. 1203, Nr 240, poz. 2407 i Nr 273, poz. 2703, z 2005 r. Nr 164, poz. 1365 i Nr 249, poz. 2104 oraz z 2006 r. Nr 104, poz. 708 i 711. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 94, poz. 788, Nr 132, poz. 1110, Nr 138, poz. 1154, Nr 157, poz. 1314, Nr 164, poz. 1366, Nr 169, poz. 1411 i Nr 179, poz. 1485, z 2006 r. Nr 75, poz. 519, Nr 104, poz. 708 i 711, Nr 143, poz. 1030, Nr 170, poz. 1217, Nr 191, poz. 1410, Nr 227, poz. 1658 i Nr 249, poz. 1824 oraz z 2007 r. Nr 64, poz. 427.

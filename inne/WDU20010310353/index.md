@@ -8,11 +8,9 @@ pos: 353
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o wyrobie alkoholu etylowego oraz wytwarzaniu wyrobów tytoniowych
-
-*USTAWA z dnia 2 marca 2001 r.*
+# Ustawa z dnia 2 marca 2001 r. o wyrobie spirytusu, wyrobie i rozlewie wyrobów spirytusowych oraz wytwarzaniu wyrobów tytoniowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,217 +22,276 @@ domain: null
 | Data ogłoszenia | 2001-03-02 |
 | Data wydania | 2001-04-11 |
 | Ostatnia zmiana | 2026-01-09 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010310353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/353/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/353/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/353) |
 
-**Art. 1.** Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej zakresie wyrobu alkoholu etylowego i jego skażania oraz wytwarzania wyrobów tytoniowych.
+## Treść ustawy
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+### Art. 1.
 
-**Art. 2a.**
+Ustawa określa zasady i warunki podejmowania i wykonywania działalności gospodarczej w zakresie wyrobu spirytusu i jego skażania, wyrobu i rozlewu wyrobów spirytusowych oraz wytwarzania wyrobów tytoniowych.
 
-1. Do postępowań sprawach indywidualnych rozstrzyganych drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), zwanej dalej „Kpa”, chyba że przepisy niniejszej ustawy stanowią inaczej.
+### Art. 2.
 
-2. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „KOWR”, wniosek ten składa się na piśmie.
+W rozumieniu niniejszej ustawy:
 
-3. Jeżeli przepisy ustawy przewidują złożenie na piśmie zawiadomienia do Dyrektora Generalnego KOWR, zawiadomienie to spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone przepisach Kpa.
+### 1)
 
-2. Działalność gospodarcza zakresie wytwarzania wyrobów tytoniowych jest działalnością regulowaną rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga wpisu do rejestru producentów wyrobów tytoniowych.
+spirytus oznacza płyn alkoholowy uzyskany w wyniku destylacji po fermentacji alkoholowej produktów pochodzenia rolniczego albo alkohol etylowy syntetyczny,
 
-3. Przedsiębiorca wykonujący działalność gospodarczą zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wykonujący działalność gospodarczą zakresie wytwarzania wyrobów tytoniowych jest obowiązany spełniać następujące warunki:
+### 2)
 
-- **1)** wdrożyć system wewnętrznej kontroli, obejmujący szczególności określenie:
-    - **a)** częstotliwości i sposobu pobierania próbek do badań jakościowych,
-    - **b)** metody badań,
-    - **c)** sposobu postępowania z produktami nieodpowiadającymi wymaganiom jakościowym;
+wyrób spirytusowy oznacza napój zawierający alkohol etylowy pochodzenia rolniczego w ilości nie mniejszej niż 18% objętościowych alkoholu, przeznaczony do spożycia przez ludzi,
 
-- **2)** dysponować planem zakładu obejmującym szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem:
-    - **a)** linii technologicznych,
-    - **b)** dróg przemieszczania surowców i produktów gotowych,
-    - **c)** stanowisk pracy;
+### 3)
 
-- **3)** wyznaczyć osobę odpowiedzialną za kontrolę jakości;
-- **4)** zagospodarować wywar powstały przy produkcji alkoholu etylowego na cele paszowe lub inne cele rolnicze albo go utylizować, przypadku przedsiębiorców prowadzących wyrób alkoholu etylowego;
-- **5)** posiadać tytuł prawny do obiektów budowlanych, których będzie wykonywana działalność gospodarcza;
-- **6)** nie zalegać z należnościami wobec Skarbu Państwa, Zakładu Ubezpieczeń Społecznych lub Kasy Rolniczego Ubezpieczenia Społecznego, a przypadku gdy zalega z należnościami z tytułu podatków stanowiących dochód budżetu państwa – jeżeli zostało przyjęte zabezpieczenie, o którym mowa art. 33d § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej zakresie, o którym mowa ust. 1 lub 2, wymagań określonych przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska, co potwierdza zaświadczenie wydane na wniosek tego przedsiębiorcy przez:
-- **1)** komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej,
-- **2)** państwowego powiatowego inspektora sanitarnego oraz
-- **3)** wojewódzkiego inspektora ochrony środowiska – właściwych ze względu na planowane miejsce wykonywania danej działalności.
+wyrób tytoniowy oznacza wyrób wyprodukowany z tytoniu przeznaczony do palenia oraz tabakę.
 
-5. Działalność gospodarczą zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego oraz wytwarzania wyrobów tytoniowych może wykonywać przedsiębiorca, który nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe, a przypadku przedsiębiorcy będącego:
+### Art. 3.
 
-- **1)** osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub za przestępstwo skarbowe;
-- **2)** spółką jawną – którego wspólnik nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa pkt 1, a przypadku wspólnika będącego osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa;
-- **3)** spółką komandytową – którego komplementariusz nie był skazany prawomocnym wyrokiem sądu za przestępstwa, o których mowa pkt 1, a przypadku komplementariusza będącego osobą prawną – którego członek zarządu nie był skazany prawomocnym wyrokiem sądu za te przestępstwa; o którym mowa art. 3 ust. 2, oraz zmiany wpisu tych rejestrach dokonuje się na wniosek przedsiębiorcy.
+### 1.
 
-1a. Wniosek o wpis do rejestru, o którym mowa art. 3 ust. 1, albo rejestru, o którym mowa art. 3 ust. 2, oraz wniosek o zmianę wpisu tych rejestrach składa się na formularzu udostępnionym na stronie internetowej KOWR.
+Wykonywanie działalności gospodarczej w zakresie:
 
-2. Wniosek o wpis do rejestru, o którym mowa art. 3 ust. 1, albo rejestru, o którym mowa art. 3 ust. 2, zawiera następujące dane:
+### 1)
 
-- **1)** firmę przedsiębiorcy, jego siedzibę i adres oraz adres do doręczeń;
-- **2)** numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
-- **3)** numer identyfikacji podatkowej (NIP);
-- **4)** wskazanie:
-    - **a)** rodzaju działalności gospodarczej, która będzie wykonywana, spośród następujących: – wyrób alkoholu etylowego, – oczyszczanie alkoholu etylowego, – skażanie alkoholu etylowego, – odwadnianie alkoholu etylowego,
-    - **b)** maksymalnej rocznej wielkości produkcji ramach danego rodzaju działalności gospodarczej, która będzie wykonywana, wyrażonej litrach alkoholu 100 % objętościowych (obj.) – przypadku wniosku o wpis do rejestru, o którym mowa art. 3 ust. 1;
+wyrobu, oczyszczania, skażania lub odwadniania spirytusu,
 
-- **4a)** wskazanie maksymalnej rocznej wielkości wytwarzanych wyrobów tytoniowych wyrażonej: o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych,
-    - **a)** tonach lub
-    - **b)** sztukach, jeżeli wyrób tytoniowy będzie wyrabiany postaci: – cygaretek rozumieniu art. 2 pkt 2 ustawy z dnia 9 listopada 1995 r.
+### 2)
 
-- **5)** wskazanie miejsca lub miejsc wykonywania działalności gospodarczej;
-- **6)** oświadczenie, że przedsiębiorca dniu złożenia wniosku:
-    - **a)** spełnia wymagania określone art. 3 ust. 3 pkt 2, 3, 5 i 6 oraz ust. 4 i 5,
-    - **b)** nie jest wobec niego prowadzone postępowanie egzekucyjne, likwidacyjne lub upadłościowe;
+wyrobu lub rozlewu wyrobów spirytusowych,
 
-- **7)** oświadczenie przedsiębiorcy wnioskującego o wpis do rejestru, o którym mowa art. 3 ust. 1, że dane zawarte we wniosku o wpis do rejestru podmiotów wykonujących działalność zakresie wyrobu i przetwarzania alkoholu etylowego są kompletne i zgodne z prawdą;
-- **8)** oświadczenie przedsiębiorcy wnioskującego o wpis do rejestru, o którym mowa art. 3 ust. 2, że dane zawarte we wniosku o wpis do rejestru producentów wyrobów tytoniowych są kompletne i zgodne z prawdą.
+### 3)
 
-3. (uchylony)
+wytwarzania wyrobów tytoniowych
 
-4. (uchylony)
+wymaga uzyskania zezwolenia.
 
-5. (uchylony)
+### 2.
 
-6. Oświadczenie, o którym mowa ust. 2 pkt 6, 7 lub 8, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+Zezwolenie na wyrób wyrobów spirytusowych dotyczy również rozlewu wytworzonych we własnym zakresie wyrobów.
 
-7. Jeżeli wniosek o wpis do rejestru, o którym mowa art. 3 ust. 1, albo rejestru, o którym mowa art. 3 ust. 2, spełnia wymagania określone ust. 1–2 i 6 oraz nie zachodzą przesłanki odmowy wpisu do tych rejestrów określone art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, Dyrektor Generalny KOWR wpisuje przedsiębiorcę do rejestru, o którym mowa art. 3 ust. 1, albo rejestru, o którym mowa art. 3 ust. 2.
+### Art. 4.
 
-**Art. 6.**
+Organem właściwym w sprawach wydania, odmowy wydania i cofnięcia zezwolenia jest minister właściwy do spraw rynków rolnych, zwany dalej „organem zezwalającym”.
 
-1. Wpisowi do rejestrów, o których mowa art. 3 ust. 1 i 2, podlegają następujące dane:
+### Art. 5.
 
-2. (uchylony)
+### 1.
 
-3. Rejestry są jawne.
+Wniosek o udzielenie zezwolenia, poza wymaganiami określonymi przepisami o działalności gospodarczej, zawiera ponadto:
 
-4. Dyrektor Generalny KOWR wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru lub zaświadczenie o zmianie wpisu rejestrze.
+### 1)
 
-5. Dyrektor Generalny KOWR prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+określenie zdolności produkcyjnej posiadanych przez wnioskodawcę urządzeń technicznych w skali roku,
 
-6. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu rejestrze terminie 14 dni od dnia, którym nastąpiła zmiana tych danych.
+### 2)
 
-7. Wniosek o zmianę wpisu rejestrze, o którym mowa art. 3 ust. 1, albo rejestrze, o którym mowa art. 3 ust. 2, zawiera informacje, o których mowa art. 5 ust. 2 pkt 1–3, oraz wskazanie danych zawartych danym rejestrze, które uległy zmianie, a jeżeli zmiana dotyczy zmiany danych zawartych rejestrze, o którym mowa:
+informacje dotyczące rodzaju przerabianego surowca.
 
-- **1)** art. 3 ust. 1, zakresie:
-    - **a)** wskazania rodzaju lub maksymalnej rocznej wielkości produkcji ramach działalności gospodarczej objętej wpisem lub
-    - **b)** określenia miejsca lub miejsc wykonywania działalności gospodarczej – wniosek o zmianę wpisu tym rejestrze zawiera również oświadczenie zakresie, o którym mowa art. 5 ust. 2 pkt 6 i 7;
+### 2.
 
-- **2)** art. 3 ust. 2, zakresie:
-    - **a)** wskazania maksymalnej rocznej wielkości wytwarzanych wyrobów tytoniowych lub
-    - **b)** określenia miejsca lub miejsc wykonywania działalności gospodarczej – wniosek o zmianę wpisu tym rejestrze zawiera również oświadczenie zakresie, o którym mowa art. 5 ust. 2 pkt 6 i 8.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-8. W przypadku zmiany danych rejestrze, o którym mowa art. 3:
+### 1)
 
-- **1)** ust. 1, innych niż wskazane ust. 7 pkt 1,
-- **2)** ust. 2, innych niż wskazane ust. 7 pkt 2 „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+dokument potwierdzający tytuł prawny wnioskodawcy do obiektów budowlanych, w których ma być wykonywana działalność gospodarcza objęta wnioskiem,
 
-10. Jeżeli wniosek o zmianę wpisu rejestrze, o którym mowa art. 3 ust. 1, albo rejestrze, o którym mowa art. 3 ust. 2, spełnia wymagania określone ust. 7 i 8, art. 5 ust. 1, 1a i ust. 2 pkt 1–3 oraz nie zachodzą przesłanki odmowy wpisu do rejestru określone art. 43 ust. 3 pkt 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, Dyrektor Generalny KOWR dokonuje zmiany wpisu danym rejestrze.
+### 2)
 
-**Art. 6a.**
+zaświadczenia właściwego urzędu skarbowego oraz Zakładu Ubezpieczeń Społecznych stwierdzające, że wnioskodawca nie zalega z wpłatami należności na rzecz tych instytucji,
 
-1. Wpisu przedsiębiorcy do rejestrów, o których mowa art. 3 ust. 1 i 2, dokonuje się terminie 7 dni od dnia wpływu do Dyrektora Generalnego KOWR wniosku o wpis do danego rejestru.
+### 3)
 
-2. Jeżeli Dyrektor Generalny KOWR nie dokona wpisu do danego rejestru terminie, o którym mowa ust. 1, a od dnia wpływu wniosku o wpis do rejestru upłynęło 14 dni, przedsiębiorca może rozpocząć wykonywanie działalności gospodarczej po uprzednim zawiadomieniu o tym Dyrektora Generalnego KOWR na piśmie. Nie dotyczy to przypadku, gdy Dyrektor Generalny KOWR wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia otrzymania tego wniosku. W takim przypadku termin, o którym mowa zdaniu pierwszym, biegnie od dnia wpływu do Dyrektora Generalnego KOWR uzupełnienia wniosku o wpis do danego rejestru.
+zaświadczenie o niekaralności przedsiębiorcy ubiegającego się o zezwolenie lub członków zarządu osoby prawnej za przestępstwa przeciwko mieniu i wiarygodności dokumentów,
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do wniosku o zmianę wpisu rejestrach, o których mowa art. 3 ust. 1 i 2.
+### 4)
 
-**Art. 7.**
+zaświadczenia komendanta powiatowego Państwowej Straży Pożarnej, powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania działalności gospodarczej objętej wnioskiem spełniają wymagania określone w przepisach o ochronie przeciwpożarowej, sanitarnych i o ochronie środowiska.
 
-1. Dyrektor Generalny KOWR wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności przypadkach:
+### Art. 6.
 
-- **1)** gdy przedsiębiorca złożył oświadczenie, o którym mowa art. 5 ust. 2 pkt 6, 7 lub 8 albo art. 6 ust. 7 i 8, niezgodne ze stanem faktycznym;
-- **4)** cofnięcia przez właściwego dla podatnika naczelnika urzędu skarbowego zezwolenia na prowadzenie składu podatkowego, z uwagi na:
-    - **a)** zaległości z tytułu cła i podatków stanowiących dochód budżetu państwa, składek na ubezpieczenia społeczne i zdrowotne,
-    - **b)** kierowanie podmiotem przez osoby skazane prawomocnym wyrokiem sądu za przestępstwo przeciwko wiarygodności dokumentów, przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe,
-    - **c)** prowadzenie działalności niezgodnie z uzyskanym zezwoleniem,
-    - **d)** nieposiadanie tytułu prawnego do korzystania z miejsca, którym prowadzono skład podatkowy.
+### 1.
 
-2. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 Dyrektor Generalny KOWR wyznacza termin usunięcia stwierdzonych naruszeń.
+Zezwolenie wydaje się, jeżeli:
 
-3. Dyrektor Generalny KOWR powiadamia Szefa Krajowej Administracji Skarbowej o wydaniu decyzji, o której mowa ust. 1.
+### 1)
 
-**Art. 7a.**
+wniosek spełnia warunki określone w art. 5 ust. 1,
 
-1. Decyzja, o której mowa art. 7 ust. 1, podlega natychmiastowemu wykonaniu.
+### 2)
 
-2. (uchylony)
+do wniosku dołączono dokumenty, o których mowa w art. 5 ust. 2.
 
-**Art. 7b.**
+### 2.
 
-1. Przedsiębiorca, wobec którego wydano decyzję o zakazie wykonywania działalności, o której mowa art. 7 ust. 1, może uzyskać wpis do rejestru tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji.
+Zezwolenie określa również:
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru działalności regulowanej. Nie dotyczy to sytuacji określonej art. 6a ust. 2. Art. 7ba. 1. W razie śmierci, rozwiązania albo przekształcenia przedsiębiorcy wpisanego do rejestru, o którym mowa art. 3 ust. 1 lub 2, albo przypadku zbycia całości lub części przedsiębiorstwa lub wystąpienia innego zdarzenia prawnego, wyniku których nastąpiło następstwo prawne, Dyrektor Generalny KOWR
+### 1)
 
-- **a)** pkt 7 – przypadku następcy prawnego wnioskującego o wpis do rejestru, o którym mowa art. 3 ust. 1,
-- **b)** pkt 8 – przypadku następcy prawnego wnioskującego o wpis do rejestru, o którym mowa art. 3 ust. 2.
+rodzaj działalności gospodarczej objętej zezwoleniem oraz wielkość produkcji w skali roku, która nie może przekraczać zdolności produkcyjnych posiadanych przez przedsiębiorcę urządzeń technicznych,
 
-2. Do wniosku, o którym mowa ust. 1 pkt 1, następca prawny dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego, a jeżeli jest kilku właścicieli przedsiębiorstwa – pisemną zgodę pozostałych właścicieli przedsiębiorstwa na przeniesienie na wnioskującego właściciela przedsiębiorstwa uprawnień wynikających z wpisu do danego rejestru.
+### 2)
 
-3. Wniosek, o którym mowa ust. 1 pkt 1, składa się terminie 6 miesięcy od dnia wykreślenia przedsiębiorcy wpisanego do danego rejestru z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego.
+miejsce wykonywania działalności gospodarczej.
 
-4. W przypadku gdy wniosek, o którym mowa ust. 1 pkt 1, został złożony po terminie, o którym mowa ust. 3, nie wszczyna się postępowania sprawie zmiany wpisu rejestrze, o którym mowa art. 3 ust. 1 lub 2.
+### Art. 7.
 
-5. Do dokonania wpisu do rejestrów, o których mowa art. 3 ust. 1 i 2, zmienionych danych, przypadkach określonych ust. 1, stosuje się odpowiednio przepisy art. 5 ust. 2, 6 i 7.
+### 1.
 
-6. Jeżeli zostały spełnione wymagania, o których mowa ust. 2 i art. 5 ust. 2 pkt 6, 7 lub 8, następca prawny może wykonywać uprawnienia wynikające z wpisu przedsiębiorcy do danego rejestru także przed dokonaniem zmiany wpisu rejestrze. Od dnia złożenia wniosku, o którym mowa ust. 1 pkt 1, następca prawny jest obowiązany wykonywać obowiązki związane z wpisem do danego rejestru.
+W razie powzięcia przez organ zezwalający informacji lub stwierdzenia okoliczności uzasadniających cofnięcie zezwolenia, organ ten wszczyna z urzędu postępowanie w tej sprawie.
 
-7. Jeżeli zostały spełnione określone ustawie wymagania dotyczące przeniesienia na następcę prawnego uprawnień wynikających z wpisu do danego rejestru, Dyrektor Generalny KOWR dokonuje zmiany wpisu rejestrze.
+### 2.
 
-8. W przypadku gdy został ustanowiony zarząd sukcesyjny, o którym mowa ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby
+Organ zezwalający cofa zezwolenie w przypadkach określonych przepisami o działalności gospodarczej.
 
-- **2)** przypadku gdy:
-    - **a)** przedsiębiorca nie jest wpisany do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego od 6 miesięcy od dnia uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo Krajowego Rejestru Sądowego o braku wpisu albo wykreśleniu przedsiębiorcy,
-    - **b)** decyzja, o której mowa art. 7 ust. 1, stała się ostateczna,
-    - **c)** następca prawny nie złoży wniosku, o którym mowa art. 7ba ust. 1 pkt 1, albo nie złoży tego wniosku terminie określonym art. 7ba ust. 3.
+### Art. 8.
 
-2. Wykreślenie, o którym mowa ust. 1 pkt 1, jest czynnością materialno-techniczną.
+### 1.
 
-**Art. 7d.** W sprawach dotyczących wykonywania działalności gospodarczej zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego oraz wytwarzania wyrobów tytoniowych, zakresie nieuregulowanym ustawie, stosuje się przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+Przedsiębiorca, który uzyskał zezwolenie, oprócz wymagań określonych odrębnymi przepisami jest obowiązany do:
 
-**Art. 8.**
+### 1)
 
-1. (uchylony)
+wdrożenia systemu wewnętrznej kontroli, obejmującego w szczególności określenie:
 
-2. W przypadku zakończenia lub zawieszenia działalności gospodarczej zakresie wyrobu, oczyszczania, skażania lub odwadniania alkoholu etylowego albo wytwarzania wyrobów tytoniowych przedsiębiorca jest obowiązany zawiadomić o tym, terminie 14 dni od dnia zakończenia lub zawieszenia wykonywania działalności gospodarczej, Dyrektora Generalnego KOWR.
+### a)
 
-**Art. 9.**
+częstotliwości i sposobu pobierania próbek do badań jakościowych,
 
-1. Alkohol etylowy skaża się jednym ze środków skażających, który zmienia smak, zapach albo zabarwienie alkoholu etylowego taki sposób, że bez zmiany istotnych właściwości alkohol etylowy ten staje się niezdatny do spożycia.
+### b)
 
-2. Minister właściwy do spraw rynków rolnych określi, drodze rozporządzenia, środki dopuszczone do skażania alkoholu etylowego oraz minimalną ilość ich zastosowania tym celu, mając na względzie, że środki te nie mogą zagrażać identyfikacji.
+metody badań,
 
-3. Z każdej partii skażonego alkoholu etylowego pobiera się miejscu skażenia próbkę ilości 0,5 litra, która po zabezpieczeniu musi być przechowywana przez okres trzech miesięcy, z tym że przy skażaniu alkoholu etylowego na cele perfumeryjno-kosmetyczne próbkę pobiera się ilości nie mniejszej niż 0,05 litra.
+### c)
 
-4. Po trzymiesięcznym okresie przechowywania próbki skażonego alkoholu etylowego muszą być zagospodarowane lub komisyjnie zlikwidowane.
+sposobu postępowania z produktami nieodpowiadającymi wymaganiom jakościowym,
 
-5. Pomieszczenia lub wydzielone miejsca, gdzie przechowywane są próbki skażonego alkoholu etylowego, muszą być zabezpieczone sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
+### 2)
 
-**Art. 11.** Z czynności skażania alkoholu etylowego przedsiębiorca sporządza protokół, który zawiera:
+dysponowania planem zakładu obejmującym w szczególności pomieszczenia produkcyjne, magazynowe, socjalne i sanitarne, z zaznaczeniem:
 
-**Art. 12.**
+### a)
 
-1. Kto, będąc wpisanym do rejestrów, o których mowa art. 3 ust. 1 i 2, wbrew obowiązkowi, o którym mowa:
+linii technologicznych,
 
-- **1)** art. 3 ust. 3:
-    - **a)** pkt 1, nie wdrożył systemu wewnętrznej kontroli,
-    - **b)** pkt 2, nie dysponuje planem zakładu,
-    - **c)** pkt 3, nie wyznaczył osoby odpowiedzialnej za kontrolę jakości, wykonywania tej działalności – podlega karze grzywny.
+### b)
 
-2. Postępowanie sprawach, o których mowa ust. 1, toczy się według przepisów o postępowaniu sprawach o wykroczenia.
+dróg przemieszczania surowców i produktów gotowych,
 
-**Art. 12a.**
+### c)
 
-1. Kto, bez wymaganego wpisu do rejestrów, o których mowa art. 3 ust. 1 i 2, wyrabia, oczyszcza, skaża lub odwadnia alkohol etylowy albo wytwarza wyroby tytoniowe – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+stanowisk pracy,
 
-2. Kto dopuszcza się czynu określonego ust. 1, jeżeli czyn ten dotyczy alkoholu etylowego lub wyrobów tytoniowych znacznej wartości – podlega karze pozbawienia wolności od 6 miesięcy do lat 5.
+### 3)
 
-**Art. 13.** Kto odkaża skażony alkohol etylowy lub osłabia działanie środka skażającego – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+wyznaczenia osoby odpowiedzialnej za kontrolę jakości,
 
-**Art. 14.** Jeżeli z popełniania przestępstw określonych art. 12a lub art. 13 sprawca uczynił sobie stałe źródło dochodu – podlega karze pozbawienia wolności od lat 3 do lat 8.
+### 4)
 
-**Art. 14a.** W przypadkach określonych art. 12a i art. 13 sąd może orzec przepadek rzeczy stanowiącej przedmiot przestępstwa albo służących lub przeznaczonych do jego popełnienia, choćby nie były własnością sprawcy.
+zagospodarowania wywaru powstałego przy produkcji spirytusu na cele paszowe lub inne cele rolnicze albo jego utylizacji, w przypadku przedsiębiorców prowadzących wyrób spirytusu.
 
-**Art. 15.** (pominięty)
+### 2.
 
-**Art. 16.** Traci moc ustawa z dnia 22 kwietnia 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu (Dz. U. poz. 169, z późn. zm. ).
+W przypadku zakończenia działalności gospodarczej określonej w zezwoleniu przedsiębiorca jest obowiązany zawiadomić o tym, w terminie 14 dni, organ zezwalający.
 
+### Art. 9.
+
+### 1.
+
+Spirytus skaża się jednym ze środków skażających, który zmienia smak, zapach albo zabarwienie spirytusu w taki sposób, że bez zmiany istotnych właściwości spirytus ten staje się niezdatny do spożycia.
+
+### 2.
+
+Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, środki dopuszczone do skażania spirytusu oraz minimalną ilość ich zastosowania w tym celu, mając na względzie, że środki te nie mogą zagrażać zdrowiu lub życiu ludzi, a jednocześnie muszą uniemożliwiać spożycie spirytusu nimi skażonego.
+
+### Art. 10.
+
+### 1.
+
+Czynności związane ze skażaniem spirytusu dokonuje się przy udziale co najmniej dwóch pracowników przedsiębiorcy wykonującego skażanie.
+
+### 2.
+
+Środki skażające przed ich zastosowaniem muszą być zbadane w celu ich identyfikacji.
+
+### 3.
+
+Z każdej partii skażonego spirytusu pobiera się w miejscu skażenia próbkę w ilości 0,5 litra, która po zabezpieczeniu musi być przechowywana przez okres trzech miesięcy, z tym że przy skażaniu spirytusu na cele perfumeryjno-kosmetyczne próbkę pobiera się w ilości nie mniejszej niż 0,05 litra.
+
+### 4.
+
+Po trzymiesięcznym okresie przechowywania próbki skażonego spirytusu muszą być zagospodarowane lub komisyjnie zlikwidowane.
+
+### 5.
+
+Pomieszczenia lub wydzielone miejsca, gdzie przechowywane są próbki skażonego spirytusu, muszą być zabezpieczone w sposób uniemożliwiający dostęp do nich osób nieuprawnionych.
+
+### Art. 11.
+
+Z czynności skażania spirytusu przedsiębiorca sporządza protokół, który zawiera:
+
+### 1)
+
+nazwę przedsiębiorcy skażającego, jego siedzibę oraz numer zezwolenia,
+
+### 2)
+
+nazwę przedsiębiorcy, dla którego dokonano skażenia spirytusu,
+
+### 3)
+
+datę i miejsce skażenia spirytusu,
+
+### 4)
+
+ilość spirytusu przeznaczonego do skażenia,
+
+### 5)
+
+ilość spirytusu skażonego oraz jego moc pozorną (pogrążenie alkoholomierza) przy określonej temperaturze,
+
+### 6)
+
+nazwę środka skażającego i jego ilość użytą do skażenia w przeliczeniu na 100 litrów spirytusu 100%,
+
+### 7)
+
+imiona i nazwiska oraz podpisy osób uczestniczących w czynności skażenia spirytusu.
+
+### Art. 12.
+
+### 1.
+
+Kto bez wymaganego zezwolenia wyrabia, skaża, oczyszcza lub odwadnia spirytus albo wyrabia lub rozlewa wyroby spirytusowe lub wyrabia wyroby tytoniowe, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+### 2.
+
+Kto dopuszcza się czynu określonego w ust. 1, jeżeli czyn ten dotyczy spirytusu, wyrobów spirytusowych lub wyrobów tytoniowych znacznej wartości, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+### Art. 13.
+
+Kto odkaża spirytus skażony lub w jakikolwiek sposób osłabia działanie środka skażającego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+### Art. 14.
+
+Jeżeli z popełniania przestępstw określonych w art. 12 lub art. 13 sprawca uczynił sobie stałe źródło dochodu, podlega karze pozbawienia wolności do lat 3.
+
+### Art. 15.
+
+W dekrecie z dnia 24 czerwca 1953 r. o uprawie tytoniu i wytwarzaniu wyrobów tytoniowych ([Dz. U. Nr 34, poz. 144](https://api.sejm.gov.pl/eli/acts/DU/1953/144/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1993 r. Nr 47, poz. 211](https://api.sejm.gov.pl/eli/acts/DU/1993/211/text.html), z [1996 r. Nr 10, poz. 55](https://api.sejm.gov.pl/eli/acts/DU/1996/55/text.html) i z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)) w art. 4 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Tej samej karze podlega, kto zataja tytoń uzyskany przez siebie z uprawy rośliny tytoniowej.
+
+”
+
+### Art. 16.
+
+Traci moc ustawa z dnia 22 kwietnia 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu ([Dz. U. Nr 27, poz. 169](https://api.sejm.gov.pl/eli/acts/DU/1959/169/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1991 r. Nr 107, poz. 460](https://api.sejm.gov.pl/eli/acts/DU/1991/460/text.html), z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html) i [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), z [1999 r. Nr 101, poz. 1178](https://api.sejm.gov.pl/eli/acts/DU/1999/1178/text.html) oraz z [2000 r. Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html)).
+
+### Art. 17.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

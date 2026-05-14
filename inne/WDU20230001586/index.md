@@ -8,11 +8,9 @@ pos: 1586
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw
-
-*USTAWA 7 lipca 2023 zmianie ustawy szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw*
+# Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. - Karta Nauczyciela, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka, ustawę z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów oraz ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,184 +22,722 @@ domain: null
 | Data ogłoszenia | 2023-07-07 |
 | Data wydania | 2023-08-10 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1586/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1586/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1586) |
 
-**Art. 1.** W ustawie 1 grudnia 2022 szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 (Dz. U. poz. 2666) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 5.**
+### Art. 1.
 
-1. W okresie od 1 stycznia 2023 do 30 czerwca 2023 fundusz socjalny, którym 27 ust. 7 ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. 2022 poz. 2528 oraz 2023 poz. 347, 658 i 1429), tworzy się odpisu wysokości 0,6% środków zaplanowanych ustawie budżetowej na rok 2019 16 stycznia 2019 (Dz. U. poz. 198) na emerytury i renty.
+W ustawie z dnia 1 grudnia 2022 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2023 (Dz. U. poz. 2666) wprowadza się następujące zmiany:
 
-2. W okresie od 1 lipca 2023 do 31 grudnia 2023 fundusz socjalny, którym 27 ust. 7 ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, tworzy się odpisu wysokości 0,6% środków zaplanowanych ustawie budżetowej na rok 2021 20 stycznia 2021 (Dz. U. poz. 190 i 1900) na emerytury i renty.
+### 1)
 
-3. Równowartość dokonanego odpisu naliczonego zgodnie ust. 1 i 2 wojskowy organ emerytalny przekazuje na rachunek bankowy funduszu socjalnego, którym 27 ust. 7 ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, terminie do 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę dokonanego odpisu ustalonego zgodnie ust. 1.
+art. 4-6 otrzymują brzmienie:
 
-**Art. 6.**
+„
 
-1. W okresie od 1 stycznia 2023 do 30 czerwca 2023 fundusz socjalny, którym 27 ust. 1a ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. 2023 poz. 1280 i 1429),
+### Art. 4.
 
-2. W okresie od 1 lipca 2023 do 31 grudnia 2023 fundusz socjalny, którym 27 ust. 1a ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, tworzy się odpisu wysokości 0,5% środków zaplanowanych ustawie budżetowej na rok 2021 20 stycznia 2021 na emerytury i renty.
+### 1.
 
-3. Równowartość dokonanego odpisu naliczonego zgodnie ust. 1 i 2 właściwy organ emerytalny przekazuje dysponentom na rachunki bankowe funduszu socjalnego, którym 27 ust. 1a ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, terminie do 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę dokonanego odpisu ustalonego zgodnie ust. 1.”;
+W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. do ustalania odpisu na zakładowy fundusz świadczeń socjalnych dla nauczycieli, o którym mowa w art. 53 ust. 1 ustawy - Karta Nauczyciela, stosuje się kwotę bazową obowiązującą w dniu 1 stycznia 2019 r.
 
-- **2)** 23 ust. 4 otrzymuje brzmienie: „4. Wartość nominalna zobowiązań tytułu wyemitowanych skarbowych papierów wartościowych, których ust. 1 i 3, nie może przekroczyć kwoty 1 090 000 tys. zł.”;
-- **3)** po 31 dodaje się 31a brzmieniu: „Art. 31a. W roku 2023 środki Funduszu Cyberbezpieczeństwa, którym 1 pkt 1 ustawy 2 grudnia 2021 szczególnych zasadach wynagradzania osób realizujących zadania zakresu cyberbezpieczeństwa (Dz. U. 2023 poz. 667), przeznacza się także na finansowanie zadań ministra właściwego do spraw informatyzacji związanych cyberbezpieczeństwem. Do finansowania tych zadań nie stosuje się przepisów 2 ust. 9 i 10 ustawy 2 grudnia 2021 szczególnych zasadach wynagradzania osób realizujących zadania zakresu cyberbezpieczeństwa.”;
-- **4)** po 33 dodaje się 33a i 33b brzmieniu: „Art. 33a. 1. W roku 2023 środki pieniężne stanowiące zysk netto oraz środki funduszu rezerwowego instytutu badawczego nadzorowanego przez ministra właściwego do spraw informatyzacji mogą stanowić przychód Funduszu – Centralna Ewidencja Pojazdów i Kierowców, którym 80d ustawy 20 czerwca 1997 – Prawo ruchu drogowym.
+### 2.
 
-2. W roku 2023 instytut badawczy nadzorowany przez ministra właściwego do spraw informatyzacji przekazuje środki pieniężne stanowiące zysk netto lub środki funduszu rezerwowego na zwiększenie Funduszu – Centralna Ewidencja Pojazdów i Kierowców, którym 80d ustawy 20 czerwca 1997 – Prawo ruchu drogowym, na zasadach określonych ust. 3.
+W okresie od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. do ustalania odpisu na zakładowy fundusz świadczeń socjalnych dla nauczycieli, o którym mowa w art. 53 ust. 1 ustawy - Karta Nauczyciela, stosuje się kwotę bazową obowiązującą w dniu 1 stycznia 2021 r.
 
-3. Na polecenie ministra właściwego do spraw informatyzacji uzasadnione potrzebami finansowymi Funduszu – Centralna Ewidencja Pojazdów i Kierowców, którym 80d ustawy 20 czerwca 1997 – Prawo ruchu drogowym, oraz uwzględniające wysokość środków, których ust. 1, dyrektor instytutu badawczego nadzorowanego przez tego ministra przekazuje środki, których ust. 1.
+### 3.
 
-**Art. 33b.** W roku 2023 źródłem przychodu Funduszu Rozwoju Kultury Fizycznej, którym 86 ustawy 19 listopada 2009 grach hazardowych (Dz. U. 2023 poz. 227), może być również wpłata budżetu państwa przekazana przez ministra właściwego do spraw kultury fizycznej.”;
+Równowartość dokonanych odpisów w wysokości naliczonej zgodnie z ust. 1 i 2 pracodawca przekazuje na rachunek bankowy zakładowego funduszu świadczeń socjalnych dla nauczycieli w terminie do dnia 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę dokonanych odpisów, o których mowa w art. 53 ustawy - Karta Nauczyciela, naliczonych w oparciu o kwotę bazową obowiązującą w dniu 1 stycznia 2019 r.
 
-**Art. 41b.**
+### Art. 5.
 
-1. W roku 2023 sędziom sądów powszechnych, sądów wojskowych, sądów administracyjnych, Sądu Najwyższego, Trybunału Konstytucyjnego, asesorom sądowym oraz referendarzom sądowym przysługuje dodatkowe jednorazowe wynagrodzenie wysokości 3,2% kwoty stanowiącej 5/8 sumy wynagrodzenia zasadniczego oraz dodatków: stażowego i funkcyjnego należnych od 1 stycznia do 31 sierpnia 2023
+### 1.
 
-2. Wynagrodzenie, którym ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat wynikających odrębnych przepisów, tym dodatkowego wynagrodzenia rocznego.
+W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. fundusz socjalny, o którym mowa w art. 27 ust. 7 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2022 r. poz. 2528](https://api.sejm.gov.pl/eli/acts/DU/2022/2528/text.html) oraz [z 2023 r. poz. 347](https://api.sejm.gov.pl/eli/acts/DU/2023/347/text.html), [658](https://api.sejm.gov.pl/eli/acts/DU/2023/658/text.html) i [1429](https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text.html)), tworzy się z odpisu w wysokości 0,6% środków zaplanowanych w ustawie budżetowej na rok 2019 z dnia 16 stycznia 2019 r. ([Dz. U. poz. 198](https://api.sejm.gov.pl/eli/acts/DU/2019/198/text.html)) na emerytury i renty.
 
-3. Wynagrodzenie, którym ust. 1, jest wypłacane jednorazowo do 30 września 2023
+### 2.
 
-**Art. 41c.**
+W okresie od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. fundusz socjalny, o którym mowa w art. 27 ust. 7 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, tworzy się z odpisu w wysokości 0,6% środków zaplanowanych w ustawie budżetowej na rok 2021 z dnia 20 stycznia 2021 r. ([Dz. U. poz. 190](https://api.sejm.gov.pl/eli/acts/DU/2021/190/text.html) i [1900](https://api.sejm.gov.pl/eli/acts/DU/2021/1900/text.html)) na emerytury i renty.
 
-1. W razie zbiegu u jednej osoby prawa do:
+### 3.
 
-- **1)** nagrody specjalnej okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej, której 92a ust. 1 ustawy 26 stycznia 1982 – Karta Nauczyciela,
-- **2)** specjalnego dodatku motywacyjnego, którym 41a,
-- **3)** dodatkowego jednorazowego wynagrodzenia, którym 41b – wypłaca się jedno nich, wybrane przez osobę uprawnioną.
+Równowartość dokonanego odpisu naliczonego zgodnie z ust. 1 i 2 wojskowy organ emerytalny przekazuje na rachunek bankowy funduszu socjalnego, o którym mowa w art. 27 ust. 7 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, w terminie do dnia 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę dokonanego odpisu ustalonego zgodnie z ust. 1.
 
-2. Osoba uprawniona składa pracodawcy oświadczenie wyborze, którym ust. 1, zgodnie wzorem oraz trybie i sposób określonych przez kierownika jednostki, a przypadku jednostek, których tworzy się stanowisko dyrektora generalnego urzędu – dyrektora generalnego.”.
+### Art. 6.
 
-**Art. 2.** W ustawie 26 stycznia 1982 – Karta Nauczyciela (Dz. U. 2023 poz. 984 i 1234) po 92 dodaje się 92a–92h brzmieniu: „Art. 92a. 1. W roku 2023 nauczycielowi pozostającemu dniu 20 września 2023 stosunku pracy szkole przyznaje się nagrodę specjalną okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej wysokości 1125 zł. 2. Nagroda, której ust. 1, nie przysługuje nauczycielowi, który okresie od 1 września 2023 do 20 września 2023 przebywa nieprzerwanie na urlopie bezpłatnym. 3. Nagroda, której ust. 1, jest wypłacana terminie do 14 października 2023 5. Nauczycielowi pozostającemu jednocześnie więcej niż jednym stosunku pracy szkołach nagrodę, której ust. 1, wypłaca szkoła, której nauczyciel był zatrudniony dniu 20 września 2023 najwyższym wymiarze. 6. Nauczycielowi, który dniu 20 września 2023 pozostawał jednocześnie więcej niż jednym stosunku pracy szkołach takim samym wymiarze zatrudnienia, nagrodę, której ust. 1, wypłaca szkoła, której stosunek pracy został nawiązany wcześniej, a przypadku gdy stosunki pracy zostały nawiązane tym samym dniu – szkoła, której nauczyciel jest zatrudniony na podstawie mianowania lub umowy pracę na czas nieokreślony. 7. Nauczycielowi, który dniu 20 września 2023 pozostawał jednocześnie więcej niż jednym stosunku pracy szkołach takim samym wymiarze zatrudnienia, którego stosunki pracy zostały nawiązane tym samym dniu oraz podstawa prawna zatrudnienia jest taka sama, nagrodę, której ust. 1, wypłaca szkoła niższym numerze Rejestrze Szkół i Placówek Oświatowych, którym 4 ust. 1 pkt 1 ustawy 15 kwietnia 2011 systemie informacji oświatowej (Dz. U. 2022 poz. 2597 oraz 2023 poz. 185 i 1234), spośród szkół, których ten nauczyciel jest zatrudniony. 8. Nagrody, której ust. 1, nie uwzględnia się przy obliczaniu kwot wydatkowanych na średnie wynagrodzenia nauczycieli, których 30 ust. 3. 9. Przepisy ust. 1–8 stosuje się odpowiednio do nauczycieli, wychowawców i innych pracowników pedagogicznych, których 1 ust. 2 pkt 1 lit. d oraz pkt 1b i 2.
+### 1.
 
-**Art. 92b.**
+W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. fundusz socjalny, o którym mowa w art. 27 ust. 1a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2023 r. poz. 1280](https://api.sejm.gov.pl/eli/acts/DU/2023/1280/text.html) i [1429](https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text.html)), tworzy się z odpisu w wysokości 0,5% środków zaplanowanych w ustawie budżetowej na rok 2019 z dnia 16 stycznia 2019 r. na emerytury i renty.
 
-1. Minister właściwy do spraw oświaty i wychowania, terminie do 29 września 2023 r., przekazuje ministrowi właściwemu do spraw finansów publicznych propozycję podziału środków finansowych między ministrów, których 8 ust. 4–14a ustawy 14 grudnia 2016 – Prawo oświatowe, i jednostki samorządu terytorialnego, przeznaczeniem na wypłatę nagrody, której 92a ust. 1.
+### 2.
 
-2. Do podziału środków wykorzystuje się dane dotyczące nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., zgromadzone systemie informacji oświatowej, których 29 ustawy 15 kwietnia 2011 systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023
+W okresie od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. fundusz socjalny, o którym mowa w art. 27 ust. 1a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, tworzy się z odpisu w wysokości 0,5% środków zaplanowanych w ustawie budżetowej na rok 2021 z dnia 20 stycznia 2021 r. na emerytury i renty.
 
-3. Minister właściwy do spraw finansów publicznych, terminie do 6 października 2023 r., na wnioski właściwych ministrów, których 8 ust. 4–14a ustawy 14 grudnia 2016 – Prawo oświatowe, zwiększa wydatki odpowiednich częściach budżetowych środki rezerwy celowej budżetu państwa, przeznaczeniem na wypłatę nagrody, której 92a ust. 1.
+### 3.
 
-**Art. 92c.** Środki na wypłatę nagrody, której 92a ust. 1, są przekazywane odpowiednio rezerwy, której 36 ust. 4 pkt 1 ustawy 13 listopada 2003 dochodach jednostek samorządu terytorialnego (Dz. U. 2022 poz. 2267), oraz części budżetowych, którymi dysponują ministrowie, których 8 ust. 4–14a ustawy 14 grudnia 2016 – Prawo oświatowe.
+Równowartość dokonanego odpisu naliczonego zgodnie z ust. 1 i 2 właściwy organ emerytalny przekazuje dysponentom na rachunki bankowe funduszu socjalnego, o którym mowa w art. 27 ust. 1a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, w terminie do dnia 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę dokonanego odpisu ustalonego zgodnie z ust. 1.
 
-**Art. 92d.**
+” ;
 
-1. Organ rejestrujący, którym 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych (Dz. U. 2023 poz. 1400), oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udzielają dotacji celowej przeznaczonej na wypłatę nagrody, której 92a ust. 1.
+### 2)
 
-2. Dotacja celowa, której ust. 1, jest udzielana przedszkolu, innej formie wychowania przedszkolnego, szkole i placówce, których nauczyciel jest uprawniony do otrzymania nagrody, której 92a ust. 1, prowadzonym przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
+w art. 23 ust. 4 otrzymuje brzmienie:
 
-3. Przedszkole, inna forma wychowania przedszkolnego, szkoła i placówka, których ust. 2, terminie do 2 października 2023 r., składają wniosek udzielenie dotacji celowej, której ust. 1, do organu rejestrującego, którym 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych, a przypadku szkół i placówek artystycznych – do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+„
 
-4. Wniosek, którym ust. 3, zawiera:
+### 4.
 
-- **1)** nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, których ust. 2; którym 47 ust. 1 ustawy 29 czerwca 1995 statystyce publicznej (Dz. U. 2023 poz. 773), a przypadku szkół i placówek artystycznych – wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **3)** wnioskowaną kwotę dotacji celowej;
-- **4)** numer rachunku bankowego, na który będzie przekazana dotacja celowa;
-- **5)** miejscowość i datę sporządzenia wniosku;
-- **6)** podpis dyrektora odpowiednio przedszkola, szkoły lub placówki, a przypadku innej formy wychowania przedszkolnego – osoby kierującej daną inną formą wychowania przedszkolnego wyznaczonej przez osobę prowadzącą tę inną formę wychowania przedszkolnego.
+Wartość nominalna zobowiązań z tytułu wyemitowanych skarbowych papierów wartościowych, o których mowa w ust. 1 i 3, nie może przekroczyć kwoty 1 090 000 tys. zł.
 
-5. Kwota dotacji, której ust. 4 pkt 3, nie może być wyższa niż kwota stanowiąca iloczyn liczby uprawnionych nauczycieli ustalonej na podstawie danych dotyczących nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., zgromadzonych systemie informacji oświatowej, których 29 ustawy 15 kwietnia 2011 systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023 r., i kwoty, której 92a ust. 1.
+” ;
 
-6. Organ rejestrujący, którym 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonują naliczenia dotacji celowej, której ust. 1, na podstawie:
+### 3)
 
-- **1)** wniosku, którym ust. 3,
-- **2)** danych dotyczących nauczycieli pozostających stosunku pracy szkole dniu 20 września 2023 r., uprawnionych do otrzymania nagrody, której 92a ust. 1, zgromadzonych systemie informacji oświatowej, których 28 ustawy 15 kwietnia 2011 systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej dniu 27 września 2023 – i przekazują dotację celową na rachunek bankowy wskazany we wniosku, którym ust. 3, terminie do 11 października 2023
+po art. 31 dodaje się art. 31a w brzmieniu:
 
-7. Rozliczenia dotacji celowej, której ust. 1, dokonuje dyrektor, który podpisał wniosek, którym ust. 3, a przypadku innej formy wychowania przedszkolnego – osoba kierująca inną formą wychowania przedszkolnego, wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego, która podpisała wniosek, którym ust. 3.
+„
 
-8. Rozliczenie, którym ust. 7, zawiera:
+### Art. 31a.
 
-- **1)** nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki;
-- **2)** nazwę organu rejestrującego, którym 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych, oraz jego kod krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, którym 47 ust. 1 ustawy 29 czerwca 1995 statystyce publicznej, a przypadku szkół i placówek artystycznych – wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **3)** przyznaną kwotę dotacji celowej;
-- **4)** wykorzystaną kwotę dotacji celowej;
-- **5)** kwotę dotacji celowej podlegającej zwrotowi odpowiednio do budżetu jednostki samorządu terytorialnego albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
-- **6)** listę nauczycieli, którym wypłacono nagrodę, której 92a ust. 1, zawierającą nazwiska, imiona i numery PESEL tych nauczycieli, a przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, oraz ich własnoręczne podpisy stanowiące potwierdzenie otrzymania tej nagrody;
-- **7)** miejscowość i datę sporządzenia rozliczenia;
+W roku 2023 środki Funduszu Cyberbezpieczeństwa, o którym mowa w art. 1 pkt 1 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa ([Dz. U. z 2023 r. poz. 667](https://api.sejm.gov.pl/eli/acts/DU/2023/667/text.html)), przeznacza się także na finansowanie zadań ministra właściwego do spraw informatyzacji związanych z cyberbezpieczeństwem. Do finansowania tych zadań nie stosuje się przepisów art. 2 ust. 9 i 10 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.
 
-9. Rozliczenia dotacji celowej, której ust. 1, oraz zwrotu niewykorzystanej kwoty dotacji celowej dokonuje się do 30 listopada 2023
+” ;
 
-**Art. 92e.** W zakresie niezbędnym do naliczenia i rozliczenia dotacji celowej, której 92d ust. 1, odpowiednio organ rejestrujący, którym 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przetwarzają dane osobowe nauczycieli określone 92d ust. 6 pkt 2 i ust. 8 pkt 6, tym wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
+### 4)
 
-**Art. 92f.** W przypadku przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, wchodzących skład zespołu zarejestrowanego Rejestrze Szkół i Placówek Oświatowych, którym 4 ust. 1 pkt 1 ustawy 15 kwietnia 2011 systemie informacji oświatowej, dla których organami rejestrującymi, których 2 pkt 16 ustawy 27 października 2017 finansowaniu zadań oświatowych, są różne jednostki samorządu terytorialnego, odpowiednio czynności, zadania i uprawnienia tego organu rejestrującego wykonuje jednostka samorządu terytorialnego, która jest dla tego zespołu podmiotem przekazującym dane do Rejestru Szkół i Placówek Oświatowych, którym 4 ust. 1 pkt 1 ustawy 15 kwietnia 2011 systemie informacji oświatowej.
+po art. 33 dodaje się art. 33a i art. 33b w brzmieniu:
 
-**Art. 92g.** Wydatków bieżących wynikających wypłaty nagrody, której 92a ust. 1, nie wlicza się do zaplanowanych na rok 2023:
+„
 
-**Art. 92h.** W roku 2023 nagrodę, której 92a ust. 1, przyznaje się także osobom, których 15 ustawy 14 grudnia 2016 – Prawo oświatowe, zatrudnionym przedszkolach, szkołach i placówkach oraz innych jednostkach organizacyjnych, których 1 ust. 1 i ust. 2 pkt 1b i 2, a także ich zespołach. Przepisy 92a–92g stosuje się odpowiednio.”.
+### Art. 33a.
 
-**Art. 3.** W ustawie 4 marca 1994 zakładowym funduszu świadczeń socjalnych (Dz. U. 2023 poz. 998) 5l otrzymuje brzmienie: „Art. 5l. 1. W okresie od 1 stycznia 2023 do 30 czerwca 2023 przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, którym 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2019 ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie 5 ust. 7. 2. W okresie od 1 lipca 2023 do 31 grudnia 2023 przez przeciętne wynagrodzenie miesięczne gospodarce narodowej, którym 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2021 ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie 5 ust. 7.”.
+### 1.
 
-**Art. 4.** W ustawie 13 listopada 2003 dochodach jednostek samorządu terytorialnego (Dz. U. 2022 poz. 2267) po 70n dodaje się 70o–70u brzmieniu: „Art. 70o. 1. W roku 2023 jednostki samorządu terytorialnego celu wsparcia realizacji zadań otrzymują budżetu państwa dodatkowe dochody łącznej wysokości 14 083 303 tys. zł tytułu subwencji ogólnej. 2. Na dodatkowe dochody, których ust. 1, składają się kwoty wysokości:
+W roku 2023 środki pieniężne stanowiące zysk netto oraz środki funduszu rezerwowego instytutu badawczego nadzorowanego przez ministra właściwego do spraw informatyzacji mogą stanowić przychód Funduszu - Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym.
 
-**Art. 70p.**
+### 2.
 
-1. Kwota dodatkowych dochodów, której 70o ust. 2 pkt 1, podlega podziałowi na części przysługujące:
+W roku 2023 instytut badawczy nadzorowany przez ministra właściwego do spraw informatyzacji przekazuje środki pieniężne stanowiące zysk netto lub środki funduszu rezerwowego na zwiększenie Funduszu - Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, na zasadach określonych w ust. 3.
 
-- **1)** gminom,
-- **2)** powiatom,
-- **3)** województwom – proporcjonalnie do wysokości udziału kwoty dochodów ustalonych na rok 2023 tytułu udziału we wpływach podatku dochodowego od osób fizycznych gmin, powiatów i województw, której 33 ust. 1 pkt 2, łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego tego tytułu.
+### 3.
 
-2. Kwotę, której ust. 1 pkt 1, rozdziela się między poszczególne gminy proporcjonalnie do wysokości dochodów gmin ustalonych na rok 2023 tytułu udziału we wpływach podatku dochodowego od osób fizycznych, przy czym dodatkowe dochody gminy tego tytułu nie mogą być niższe niż 1 500 tys. zł i wyższe niż 100 000 tys. zł.
+Na polecenie ministra właściwego do spraw informatyzacji uzasadnione potrzebami finansowymi Funduszu - Centralna Ewidencja Pojazdów i Kierowców, o którym mowa w art. 80d ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, oraz uwzględniające wysokość środków, o których mowa w ust. 1, dyrektor instytutu badawczego nadzorowanego przez tego ministra przekazuje środki, o których mowa w ust. 1.
 
-3. Przepis ust. 2 stosuje się odpowiednio do podziału kwot, których ust. 1 pkt 2 i 3, tym że dodatkowe dochody tego tytułu nie mogą być:
+### Art. 33b.
 
-- **1)** niższe niż 3 400 tys. zł i wyższe niż 55 000 tys. zł – przypadku powiatu;
-- **2)** niższe niż 10 000 tys. zł i wyższe niż 35 000 tys. zł – przypadku województwa.
+W roku 2023 źródłem przychodu Funduszu Rozwoju Kultury Fizycznej, o którym mowa w art. 86 ustawy z dnia 19 listopada 2009 r. o grach hazardowych ([Dz. U. z 2023 r. poz. 227](https://api.sejm.gov.pl/eli/acts/DU/2023/227/text.html)), może być również wpłata z budżetu państwa przekazana przez ministra właściwego do spraw kultury fizycznej.
 
-**Art. 70q.**
+” ;
 
-1. Kwota dodatkowych dochodów, której 70o ust. 2 pkt 2, podlega podziałowi sposób określony 70p ust. 1, na części przysługujące:
+### 5)
 
-- **1)** gminom;
-- **2)** powiatom;
-- **3)** województwom.
+po art. 41 dodaje się art. 41a-41c w brzmieniu:
 
-2. Kwotę, której ust. 1 pkt 1, rozdziela się między gminy, których dochody podatkowe, których 20 ust. 3 pkt 1–8, za rok 2021 ustalone uwzględnieniem 32 ust. 3 oraz ustalone na rok 2023 dochody podatkowe, których 20 ust. 3 pkt 9 i 10, powiększone część wyrównawczą i równoważącą subwencji ogólnej na rok 2023, których 33 ust. 1 pkt 2, i dodatkowe dochody tytułu uzupełnienia subwencji ogólnej, których 70p ust. 2, oraz pomniejszone wpłaty, których 29, ustalone na rok 2023, przeliczeniu na jednego mieszkańca gminy, są niższe od 110% średnich dochodów wszystkich gmin tych samych tytułów, przeliczeniu na jednego mieszkańca kraju.
+„
 
-3. Kwotę, której ust. 1 pkt 1, rozdziela się proporcjonalnie do udziału kwoty stanowiącej wyrównanie do 110% średnich dochodów łącznej kwocie tego wyrównania dla gmin spełniających warunek, którym ust. 2.
+### Art. 41a.
 
-4. Przepisy ust. 2 i 3 stosuje się odpowiednio do podziału kwot, których ust. 1 pkt 2 i 3.
+### 1.
 
-- **2)** 1 000 000 tys. zł dla gmin, których liczba mieszkańców przekracza 40 tys., ale nie przekracza 100 tys.,
-- **3)** 250 000 tys. zł dla gmin, których liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys. – które rozdziela się proporcjonalnie do udziału wydatków majątkowych gminy wydatkach majątkowych wszystkich gmin spełniających dany warunek.
+W roku 2023 pracownikom państwowej sfery budżetowej, o których mowa w art. 5 pkt 1 lit. a, b i d oraz pkt 2 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, z wyłączeniem osób zajmujących kierownicze stanowiska państwowe oraz sędziów delegowanych do Ministerstwa Sprawiedliwości lub innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, których wynagrodzenia są finansowane ze środków pozostających w dyspozycji Ministra Sprawiedliwości, można przyznać jednorazowo specjalny dodatek motywacyjny z utworzonego na ten cel w jednostkach dodatkowego funduszu motywacyjnego w wysokości 3,2% kwoty stanowiącej 5/12 planowanych na rok 2023 wynagrodzeń osobowych i uposażeń.
 
-2. Podziału kwoty, której 70o ust. 2 pkt 3, dokonuje się na podstawie średnich wydatków majątkowych za lata 2020–2022. Do wyliczenia średnich wydatków majątkowych przyjmuje się dane wykazane sprawozdaniach gminy, których obowiązek sporządzania wynika przepisów finansach publicznych zakresie sprawozdawczości budżetowej, uwzględnieniem korekt złożonych do właściwych regionalnych izb obrachunkowych, terminie odpowiednio do 30 czerwca 2021 i do 30 czerwca 2022 Za 2022 przyjmuje się dane wykazane sprawozdaniach, uwzględnieniem korekt, które wpłynęły do urzędu obsługującego ministra właściwego do spraw finansów publicznych do 10 maja 2023
+### 2.
 
-**Art. 70s.**
+Do wynagrodzeń osobowych i uposażeń, o których mowa w ust. 1, nie wlicza się:
 
-1. W roku 2023 rezerwę subwencji ogólnej, której 36 ust. 4 pkt 1, zwiększa się kwotę 935 437 tys. zł, przeznaczeniem na wypłatę roku 2023 nagrody specjalnej, której 92a ust. 1 ustawy 26 stycznia 1982 – Karta Nauczyciela. Do podziału tych środków przepisu 36a nie stosuje się.
+### 1)
 
-2. W przypadku gdy kwota, której ust. 1, będzie niewystarczająca na wypłatę roku 2023 nagrody specjalnej, której 92a ust. 1 ustawy 26 stycznia 1982 – Karta Nauczyciela, rezerwa subwencji ogólnej, której 36 ust. 4 pkt 1, może być zwiększona środki rezerwy celowej budżetu państwa przeznaczonej na utrzymanie rezultatów niektórych projektów zrealizowanych przy udziale środków Unii Europejskiej, tym systemy informatyczne, a także środki na wsparcie potencjału realizacji zadań publicznych oraz na uzupełnienie dochodów jednostek samorządu terytorialnego, celu zapewnienia środków na wypłatę roku 2023 tej nagrody. Do podziału tych środków przepisów 36a i 36b nie stosuje się.
+środków zaplanowanych w roku 2023 na regulację wynagrodzeń na podstawie odrębnych przepisów;
 
-3. W przypadku gdy środki rezerwy subwencji ogólnej, których ust. 1 lub 2, nie zostaną całości rozdzielone między jednostki samorządu terytorialnego, przeznaczeniem na wypłatę 2023 nagrody specjalnej, której 92a ust. 1 ustawy 26 stycznia 1982 – Karta Nauczyciela, podlegają podziałowi na podstawie 36a.
+### 2)
 
-**Art. 70t.** W roku 2023 środki rezerwy subwencji ogólnej, której 36 ust. 4 pkt 1, oprócz dofinansowania jednostek samorządu terytorialnego, których 36a ust. 1, mogą być przeznaczone także na uzupełnienie dochodów jednostek samorządu terytorialnego.
+środków na sfinansowanie wypłaty nagród, o których mowa w art. 46 ust. 2 pkt 2 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej ([Dz. U. z 2023 r. poz. 1109](https://api.sejm.gov.pl/eli/acts/DU/2023/1109/text.html)).
 
-**Art. 70u.**
+### 3.
 
-1. Jeżeli suma dodatkowych dochodów uzyskanych przez miasto na prawach powiatu wyniku podziałów, których 70p–70r, jest niższa niż:
+Specjalny dodatek motywacyjny, o którym mowa w ust. 1, ma charakter uznaniowy i jest przyznawany w szczególności za zaangażowanie w pracy.
 
-- **1)** 30 000 tys. zł – dla miasta, którym liczba mieszkańców nie przekracza 50 tys.,
-- **2)** 35 000 tys. zł – dla miasta, którym liczba mieszkańców przekracza 50 tys., ale nie przekracza 100 tys.,
-- **3)** 40 000 tys. zł – dla miasta, którym liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys.,
-- **4)** 45 000 tys. zł – dla miasta, którym liczba mieszkańców przekracza 150 tys., ale nie przekracza 250 tys.,
-- **5)** 80 000 tys. zł – dla miasta, którym liczba mieszkańców przekracza 250 tys. – miasto na prawach powiatu otrzymuje 2023 dodatkowe uzupełnienie dochodów wysokości gwarantującej kwotę wymienioną odpowiednio pkt 1–5.
+### 4.
 
-2. Kwota dodatkowego uzupełnienia dochodów dla miast na prawach powiatu stanowi uzupełnienie subwencji ogólnej. Przepisy 70o ust. 4–6 stosuje się odpowiednio.”.
+Dodatkowym funduszem motywacyjnym, o którym mowa w ust. 1, dysponuje kierownik jednostki, a w przypadku jednostek, w których tworzy się stanowisko dyrektora generalnego urzędu - dyrektor generalny.
 
-**Art. 5.** W ustawie 24 lipca 2015 Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. 2018 poz. 2232, 2020 poz. 568 i 2157, 2021 poz. 2445 oraz 2022 poz. 2666) 88 ust. 1 pkt 1 lit. h otrzymuje brzmienie: „h) 2023 – 4 019 tys. zł,”.
+### 5.
 
-**Art. 7.** W ustawie 8 lutego 2018 Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka (Dz. U. poz. 538) 35 ust. 1 pkt 6 otrzymuje brzmienie: „6) 2023 – 10 250 000 zł;”.
+Podmiot dysponujący dodatkowym funduszem motywacyjnym, o którym mowa w ust. 4, przedstawia propozycję sposobu i kryteriów przyznania specjalnego dodatku motywacyjnego, o którym mowa w ust. 1, zakładowej organizacji związkowej, celem wyrażenia opinii.
 
-**Art. 8.** W ustawie 20 lipca 2018 przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów (Dz. U. 2023 poz. 904) 27 ust. 1:
+### 6.
 
-**Art. 9.** W ustawie 17 grudnia 2021 zmianie niektórych ustaw związku powołaniem Centralnego Biura Zwalczania Cyberprzestępczości (Dz. U. poz. 2447, 2022 poz. 2666 oraz 2023 poz. 1088) 20 ust. 1:
+Termin na przedstawienie opinii, o której mowa w ust. 5, nie może być dłuższy niż 10 dni. Nieprzedstawienie opinii w tym terminie uważa się za rezygnację z prawa jej wyrażenia.
 
-**Art. 10.** W roku 2023 wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonać zmian planie dochodów i wydatków budżetu jednostki samorządu terytorialnego związanych uzyskaniem dodatkowych dochodów, których 70s ustawy zmienianej 4, przeznaczeniem na nagrody specjalne okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej, których 92a ust. 1 ustawy zmienianej 2.
+### 7.
 
-**Art. 11.** W roku 2023 do udzielania dotacji celowych budżetu państwa, przeznaczonych na wypłatę dodatków do wynagrodzeń dla pracowników zatrudnionych domach pomocy społecznej prowadzonych przez jednostki samorządu terytorialnego lub domach pomocy społecznej prowadzonych na zlecenie jednostek samorządu terytorialnego przepisu 128 ust. 2 ustawy 27 sierpnia 2009 finansach publicznych (Dz. U. 2023 poz. 1270, 1273, 1407 i 1429) oraz ograniczenia wysokości dotacji wskazanego 115 ust. 1 ustawy 12 marca 2004 pomocy społecznej (Dz. U. 2023 poz. 901) nie stosuje się.
+Specjalny dodatek motywacyjny, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego, nagród rocznych i dodatkowego uposażenia rocznego.
 
-**Art. 12.** Równowartość dokonanych odpisów i zwiększeń naliczonych na rok 2023 zgodnie 5 ustawy zmienianej 3, uwzględnieniem 5l tej ustawy, pracodawca przekazuje na rachunek bankowy zakładowego funduszu świadczeń socjalnych terminie do 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę odpisów i zwiększeń dokonanych zgodnie 5 tej ustawy, naliczonych oparciu przeciętne wynagrodzenie miesięczne gospodarce narodowej drugim półroczu 2019 ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie 5 ust. 7 tej ustawy.
+### 8.
 
-**Art. 13.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+Specjalny dodatek motywacyjny, o którym mowa w ust. 1, jest wypłacany jednorazowo w terminie do dnia 30 września 2023 r.
 
+### 9.
+
+W przypadku:
+
+### 1)
+
+pracowników zatrudnionych w podmiotach, o których mowa w art. 139 ust. 2 ustawy o finansach publicznych, z wyłączeniem posłów i senatorów oraz osób wymienionych w art. 41b ust. 1,
+
+### 2)
+
+pracowników zatrudnionych w powiatowych inspektoratach nadzoru budowlanego,
+
+### 3)
+
+pracowników zatrudnionych w komendach powiatowych (miejskich) Państwowej Straży Pożarnej oraz funkcjonariuszy pełniących służbę w tych komendach
+
+- przepisy ust. 1-8 stosuje się odpowiednio.
+
+### Art. 41b.
+
+### 1.
+
+W roku 2023 sędziom sądów powszechnych, sądów wojskowych, sądów administracyjnych, Sądu Najwyższego, Trybunału Konstytucyjnego, asesorom sądowym oraz referendarzom sądowym przysługuje dodatkowe jednorazowe wynagrodzenie w wysokości 3,2% kwoty stanowiącej 5/8 sumy wynagrodzenia zasadniczego oraz dodatków: stażowego i funkcyjnego należnych od dnia 1 stycznia do dnia 31 sierpnia 2023 r.
+
+### 2.
+
+Wynagrodzenie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego.
+
+### 3.
+
+Wynagrodzenie, o którym mowa w ust. 1, jest wypłacane jednorazowo do dnia 30 września 2023 r.
+
+### Art. 41c.
+
+### 1.
+
+W razie zbiegu u jednej osoby prawa do:
+
+### 1)
+
+nagrody specjalnej z okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela,
+
+### 2)
+
+specjalnego dodatku motywacyjnego, o którym mowa w art. 41a,
+
+### 3)
+
+dodatkowego jednorazowego wynagrodzenia, o którym mowa w art. 41b
+
+- wypłaca się jedno z nich, wybrane przez osobę uprawnioną.
+
+### 2.
+
+Osoba uprawniona składa pracodawcy oświadczenie o wyborze, o którym mowa w ust. 1, zgodnie z wzorem oraz w trybie i sposób określonych przez kierownika jednostki, a w przypadku jednostek, w których tworzy się stanowisko dyrektora generalnego urzędu - dyrektora generalnego.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. z 2023 r. poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2023/984/text.html) i [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)) po art. 92 dodaje się art. 92a-92h w brzmieniu:
+
+„
+
+### Art. 92a.
+
+### 1.
+
+W roku 2023 nauczycielowi pozostającemu w dniu 20 września 2023 r. w stosunku pracy w szkole przyznaje się nagrodę specjalną z okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej w wysokości 1125 zł.
+
+### 2.
+
+Nagroda, o której mowa w ust. 1, nie przysługuje nauczycielowi, który w okresie od dnia 1 września 2023 r. do dnia 20 września 2023 r. przebywa nieprzerwanie na urlopie bezpłatnym.
+
+### 3.
+
+Nagroda, o której mowa w ust. 1, jest wypłacana w terminie do dnia 14 października 2023 r.
+
+### 4.
+
+Nagrodę, o której mowa w ust. 1, wypłaca szkoła, w której nauczyciel pozostawał w stosunku pracy w dniu 20 września 2023 r.
+
+### 5.
+
+Nauczycielowi pozostającemu jednocześnie w więcej niż jednym stosunku pracy w szkołach nagrodę, o której mowa w ust. 1, wypłaca szkoła, w której nauczyciel był zatrudniony w dniu 20 września 2023 r. w najwyższym wymiarze.
+
+### 6.
+
+Nauczycielowi, który w dniu 20 września 2023 r. pozostawał jednocześnie w więcej niż jednym stosunku pracy w szkołach w takim samym wymiarze zatrudnienia, nagrodę, o której mowa w ust. 1, wypłaca szkoła, w której stosunek pracy został nawiązany wcześniej, a w przypadku gdy stosunki pracy zostały nawiązane w tym samym dniu - szkoła, w której nauczyciel jest zatrudniony na podstawie mianowania lub umowy o pracę na czas nieokreślony.
+
+### 7.
+
+Nauczycielowi, który w dniu 20 września 2023 r. pozostawał jednocześnie w więcej niż jednym stosunku pracy w szkołach w takim samym wymiarze zatrudnienia, którego stosunki pracy zostały nawiązane w tym samym dniu oraz podstawa prawna zatrudnienia jest taka sama, nagrodę, o której mowa w ust. 1, wypłaca szkoła o niższym numerze w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej ([Dz. U. z 2022 r. poz. 2597](https://api.sejm.gov.pl/eli/acts/DU/2022/2597/text.html) oraz [z 2023 r. poz. 185](https://api.sejm.gov.pl/eli/acts/DU/2023/185/text.html) i [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)), spośród szkół, w których ten nauczyciel jest zatrudniony.
+
+### 8.
+
+Nagrody, o której mowa w ust. 1, nie uwzględnia się przy obliczaniu kwot wydatkowanych na średnie wynagrodzenia nauczycieli, o których mowa w art. 30 ust. 3.
+
+### 9.
+
+Przepisy ust. 1-8 stosuje się odpowiednio do nauczycieli, wychowawców i innych pracowników pedagogicznych, o których mowa w art. 1 ust. 2 pkt 1 lit. d oraz pkt 1b i 2.
+
+### Art. 92b.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania, w terminie do dnia 29 września 2023 r., przekazuje ministrowi właściwemu do spraw finansów publicznych propozycję podziału środków finansowych między ministrów, o których mowa w art. 8 ust. 4-14a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, i jednostki samorządu terytorialnego, z przeznaczeniem na wypłatę nagrody, o której mowa w art. 92a ust. 1.
+
+### 2.
+
+Do podziału środków wykorzystuje się dane dotyczące nauczycieli pozostających w stosunku pracy w szkole w dniu 20 września 2023 r., zgromadzone w systemie informacji oświatowej, o których mowa w art. 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej w dniu 27 września 2023 r.
+
+### 3.
+
+Minister właściwy do spraw finansów publicznych, w terminie do dnia 6 października 2023 r., na wnioski właściwych ministrów, o których mowa w art. 8 ust. 4-14a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, zwiększa wydatki w odpowiednich częściach budżetowych o środki z rezerwy celowej budżetu państwa, z przeznaczeniem na wypłatę nagrody, o której mowa w art. 92a ust. 1.
+
+### Art. 92c.
+
+Środki na wypłatę nagrody, o której mowa w art. 92a ust. 1, są przekazywane odpowiednio z rezerwy, o której mowa w art. 36 ust. 4 pkt 1 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego ([Dz. U. z 2022 r. poz. 2267](https://api.sejm.gov.pl/eli/acts/DU/2022/2267/text.html)), oraz części budżetowych, którymi dysponują ministrowie, o których mowa w art. 8 ust. 4-14a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+### Art. 92d.
+
+### 1.
+
+Organ rejestrujący, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych ([Dz. U. z 2023 r. poz. 1400](https://api.sejm.gov.pl/eli/acts/DU/2023/1400/text.html)), oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udzielają dotacji celowej przeznaczonej na wypłatę nagrody, o której mowa w art. 92a ust. 1.
+
+### 2.
+
+Dotacja celowa, o której mowa w ust. 1, jest udzielana przedszkolu, innej formie wychowania przedszkolnego, szkole i placówce, w których nauczyciel jest uprawniony do otrzymania nagrody, o której mowa w art. 92a ust. 1, prowadzonym przez osobę prawną niebędącą jednostką samorządu terytorialnego lub osobę fizyczną.
+
+### 3.
+
+Przedszkole, inna forma wychowania przedszkolnego, szkoła i placówka, o których mowa w ust. 2, w terminie do dnia 2 października 2023 r., składają wniosek o udzielenie dotacji celowej, o której mowa w ust. 1, do organu rejestrującego, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, a w przypadku szkół i placówek artystycznych - do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+### 4.
+
+Wniosek, o którym mowa w ust. 3, zawiera:
+
+### 1)
+
+nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, o których mowa w ust. 2;
+
+### 2)
+
+nazwę organu rejestrującego, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz jego kod z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ([Dz. U. z 2023 r. poz. 773](https://api.sejm.gov.pl/eli/acts/DU/2023/773/text.html)), a w przypadku szkół i placówek artystycznych - wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
+
+### 3)
+
+wnioskowaną kwotę dotacji celowej;
+
+### 4)
+
+numer rachunku bankowego, na który będzie przekazana dotacja celowa;
+
+### 5)
+
+miejscowość i datę sporządzenia wniosku;
+
+### 6)
+
+podpis dyrektora odpowiednio przedszkola, szkoły lub placówki, a w przypadku innej formy wychowania przedszkolnego - osoby kierującej daną inną formą wychowania przedszkolnego wyznaczonej przez osobę prowadzącą tę inną formę wychowania przedszkolnego.
+
+### 5.
+
+Kwota dotacji, o której mowa w ust. 4 pkt 3, nie może być wyższa niż kwota stanowiąca iloczyn liczby uprawnionych nauczycieli ustalonej na podstawie danych dotyczących nauczycieli pozostających w stosunku pracy w szkole w dniu 20 września 2023 r., zgromadzonych w systemie informacji oświatowej, o których mowa w art. 29 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej w dniu 27 września 2023 r., i kwoty, o której mowa w art. 92a ust. 1.
+
+### 6.
+
+Organ rejestrujący, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dokonują naliczenia dotacji celowej, o której mowa w ust. 1, na podstawie:
+
+### 1)
+
+wniosku, o którym mowa w ust. 3,
+
+### 2)
+
+danych dotyczących nauczycieli pozostających w stosunku pracy w szkole w dniu 20 września 2023 r., uprawnionych do otrzymania nagrody, o której mowa w art. 92a ust. 1, zgromadzonych w systemie informacji oświatowej, o których mowa w art. 28 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, według stanu bazy danych systemu informacji oświatowej w dniu 27 września 2023 r.
+
+- i przekazują dotację celową na rachunek bankowy wskazany we wniosku, o którym mowa w ust. 3, w terminie do dnia 11 października 2023 r.
+
+### 7.
+
+Rozliczenia dotacji celowej, o której mowa w ust. 1, dokonuje dyrektor, który podpisał wniosek, o którym mowa w ust. 3, a w przypadku innej formy wychowania przedszkolnego - osoba kierująca inną formą wychowania przedszkolnego, wyznaczona przez osobę prowadzącą inną formę wychowania przedszkolnego, która podpisała wniosek, o którym mowa w ust. 3.
+
+### 8.
+
+Rozliczenie, o którym mowa w ust. 7, zawiera:
+
+### 1)
+
+nazwę, adres siedziby i numer REGON odpowiednio przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki;
+
+### 2)
+
+nazwę organu rejestrującego, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz jego kod z krajowego rejestru urzędowego podziału terytorialnego kraju TERYT, o którym mowa w art. 47 ust. 1 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, a w przypadku szkół i placówek artystycznych - wskazanie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
+
+### 3)
+
+przyznaną kwotę dotacji celowej;
+
+### 4)
+
+wykorzystaną kwotę dotacji celowej;
+
+### 5)
+
+kwotę dotacji celowej podlegającej zwrotowi odpowiednio do budżetu jednostki samorządu terytorialnego albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego;
+
+### 6)
+
+listę nauczycieli, którym wypłacono nagrodę, o której mowa w art. 92a ust. 1, zawierającą nazwiska, imiona i numery PESEL tych nauczycieli, a w przypadku braku numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, oraz ich własnoręczne podpisy stanowiące potwierdzenie otrzymania tej nagrody;
+
+### 7)
+
+miejscowość i datę sporządzenia rozliczenia;
+
+### 8)
+
+podpis dyrektora odpowiednio przedszkola, szkoły lub placówki, a w przypadku innej formy wychowania przedszkolnego - osoby kierującej daną inną formą wychowania przedszkolnego wyznaczonej przez osobę prowadzącą inną formę wychowania przedszkolnego.
+
+### 9.
+
+Rozliczenia dotacji celowej, o której mowa w ust. 1, oraz zwrotu niewykorzystanej kwoty dotacji celowej dokonuje się do dnia 30 listopada 2023 r.
+
+### Art. 92e.
+
+W zakresie niezbędnym do naliczenia i rozliczenia dotacji celowej, o której mowa w art. 92d ust. 1, odpowiednio organ rejestrujący, o którym mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, oraz minister właściwy do spraw kultury i ochrony dziedzictwa narodowego przetwarzają dane osobowe nauczycieli określone w art. 92d ust. 6 pkt 2 i ust. 8 pkt 6, w tym z wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
+
+### Art. 92f.
+
+W przypadku przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, wchodzących w skład zespołu zarejestrowanego w Rejestrze Szkół i Placówek Oświatowych, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, dla których organami rejestrującymi, o których mowa w art. 2 pkt 16 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, są różne jednostki samorządu terytorialnego, odpowiednio czynności, zadania i uprawnienia tego organu rejestrującego wykonuje jednostka samorządu terytorialnego, która jest dla tego zespołu podmiotem przekazującym dane do Rejestru Szkół i Placówek Oświatowych, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej.
+
+### Art. 92g.
+
+Wydatków bieżących wynikających z wypłaty nagrody, o której mowa w art. 92a ust. 1, nie wlicza się do zaplanowanych na rok 2023:
+
+### 1)
+
+wydatków bieżących jednostki samorządu terytorialnego uwzględnianych przy ustalaniu podstawowej kwoty dotacji, o której mowa w art. 12 i art. 50 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych;
+
+### 2)
+
+wydatków bieżących budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego uwzględnianych przy ustalaniu podstawowej kwoty dotacji, o której mowa w art. 13 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych.
+
+### Art. 92h.
+
+W roku 2023 nagrodę, o której mowa w art. 92a ust. 1, przyznaje się także osobom, o których mowa w art. 15 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, zatrudnionym w przedszkolach, szkołach i placówkach oraz innych jednostkach organizacyjnych, o których mowa w art. 1 ust. 1 i ust. 2 pkt 1b i 2, a także ich zespołach. Przepisy art. 92a-92g stosuje się odpowiednio.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych ([Dz. U. z 2023 r. poz. 998](https://api.sejm.gov.pl/eli/acts/DU/2023/998/text.html)) art. 5l otrzymuje brzmienie:
+
+„
+
+### Art. 5l.
+
+### 1.
+
+W okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2023 r. przez przeciętne wynagrodzenie miesięczne w gospodarce narodowej, o którym mowa w art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2019 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+
+### 2.
+
+W okresie od dnia 1 lipca 2023 r. do dnia 31 grudnia 2023 r. przez przeciętne wynagrodzenie miesięczne w gospodarce narodowej, o którym mowa w art. 5 ust. 2, należy rozumieć przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2021 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego ([Dz. U. z 2022 r. poz. 2267](https://api.sejm.gov.pl/eli/acts/DU/2022/2267/text.html)) po art. 70n dodaje się art. 70o-70u w brzmieniu:
+
+„
+
+### Art. 70o.
+
+### 1.
+
+W roku 2023 jednostki samorządu terytorialnego w celu wsparcia realizacji zadań otrzymują z budżetu państwa dodatkowe dochody w łącznej wysokości 14 083 303 tys. zł z tytułu subwencji ogólnej.
+
+### 2.
+
+Na dodatkowe dochody, o których mowa w ust. 1, składają się kwoty w wysokości:
+
+### 1)
+
+7 500 000 tys. zł, która podlega podziałowi w sposób określony w art. 70p między jednostki samorządu terytorialnego proporcjonalnie do dochodów z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych w 2023 r.;
+
+### 2)
+
+3 500 000 tys. zł, która podlega podziałowi w sposób określony w art. 70q między gminy, powiaty i województwa, w których dochody, w przeliczeniu na jednego mieszkańca, są niższe od 110% średnich dochodów odpowiednio wszystkich gmin, powiatów i województw, w przeliczeniu na jednego mieszkańca kraju;
+
+### 3)
+
+2 000 000 tys. zł, która podlega podziałowi między gminy w sposób określony w art. 70r;
+
+### 4)
+
+935 437 tys. zł - na zwiększenie rezerwy subwencji ogólnej, o którym mowa w art. 70s, z przeznaczeniem na nagrodę specjalną, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela;
+
+### 5)
+
+147 866 tys. zł - na zwiększenie rezerwy, o której mowa w art. 28 ust. 2, w związku ze zwiększeniem odpisu na zakładowy fundusz świadczeń socjalnych dla nauczycieli.
+
+### 3.
+
+Miastom na prawach powiatu przysługują dodatkowe dochody, o których mowa w ust. 1, wyliczone jak dla gmin i powiatów, z każdej z części ustalonej odpowiednio dla gmin i powiatów.
+
+### 4.
+
+Do podziału dodatkowych dochodów, o których mowa w ust. 2 pkt 2 i 3, przyjmuje się liczbę mieszkańców według stanu na dzień 31 grudnia 2022 r.
+
+### 5.
+
+Dodatkowe dochody, o których mowa w ust. 1, przekaże jednostkom samorządu terytorialnego minister właściwy do spraw finansów publicznych, przy czym przekazanie może nastąpić w ratach.
+
+### 6.
+
+O przeznaczeniu dodatkowych dochodów, o których mowa w ust. 1, decyduje organ stanowiący jednostki samorządu terytorialnego.
+
+### Art. 70p.
+
+### 1.
+
+Kwota dodatkowych dochodów, o której mowa w art. 70o ust. 2 pkt 1, podlega podziałowi na części przysługujące:
+
+### 1)
+
+gminom,
+
+### 2)
+
+powiatom,
+
+### 3)
+
+województwom
+
+- proporcjonalnie do wysokości udziału kwoty dochodów ustalonych na rok 2023 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych gmin, powiatów i województw, o której mowa w art. 33 ust. 1 pkt 2, w łącznej kwocie dochodów wszystkich jednostek samorządu terytorialnego z tego tytułu.
+
+### 2.
+
+Kwotę, o której mowa w ust. 1 pkt 1, rozdziela się między poszczególne gminy proporcjonalnie do wysokości dochodów gmin ustalonych na rok 2023 z tytułu udziału we wpływach z podatku dochodowego od osób fizycznych, przy czym dodatkowe dochody gminy z tego tytułu nie mogą być niższe niż 1 500 tys. zł i wyższe niż 100 000 tys. zł.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do podziału kwot, o których mowa w ust. 1 pkt 2 i 3, z tym że dodatkowe dochody z tego tytułu nie mogą być:
+
+### 1)
+
+niższe niż 3 400 tys. zł i wyższe niż 55 000 tys. zł - w przypadku powiatu;
+
+### 2)
+
+niższe niż 10 000 tys. zł i wyższe niż 35 000 tys. zł - w przypadku województwa.
+
+### Art. 70q.
+
+### 1.
+
+Kwota dodatkowych dochodów, o której mowa w art. 70o ust. 2 pkt 2, podlega podziałowi w sposób określony w art. 70p ust. 1, na części przysługujące:
+
+### 1)
+
+gminom;
+
+### 2)
+
+powiatom;
+
+### 3)
+
+województwom.
+
+### 2.
+
+Kwotę, o której mowa w ust. 1 pkt 1, rozdziela się między gminy, w których dochody podatkowe, o których mowa w art. 20 ust. 3 pkt 1-8, za rok 2021 ustalone z uwzględnieniem art. 32 ust. 3 oraz ustalone na rok 2023 dochody podatkowe, o których mowa w art. 20 ust. 3 pkt 9 i 10, powiększone o część wyrównawczą i równoważącą subwencji ogólnej na rok 2023, o których mowa w art. 33 ust. 1 pkt 2, i o dodatkowe dochody z tytułu uzupełnienia subwencji ogólnej, o których mowa w art. 70p ust. 2, oraz pomniejszone o wpłaty, o których mowa w art. 29, ustalone na rok 2023, w przeliczeniu na jednego mieszkańca gminy, są niższe od 110% średnich dochodów wszystkich gmin z tych samych tytułów, w przeliczeniu na jednego mieszkańca kraju.
+
+### 3.
+
+Kwotę, o której mowa w ust. 1 pkt 1, rozdziela się proporcjonalnie do udziału kwoty stanowiącej wyrównanie do 110% średnich dochodów w łącznej kwocie tego wyrównania dla gmin spełniających warunek, o którym mowa w ust. 2.
+
+### 4.
+
+Przepisy ust. 2 i 3 stosuje się odpowiednio do podziału kwot, o których mowa w ust. 1 pkt 2 i 3.
+
+### Art. 70r.
+
+### 1.
+
+Z kwoty dodatkowych dochodów, o której mowa w art. 70o ust. 2 pkt 3, wydziela się kwoty:
+
+### 1)
+
+750 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 10 tys., ale nie przekracza 40 tys.,
+
+### 2)
+
+1 000 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 40 tys., ale nie przekracza 100 tys.,
+
+### 3)
+
+250 000 tys. zł dla gmin, w których liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys.
+
+- które rozdziela się proporcjonalnie do udziału wydatków majątkowych gminy w wydatkach majątkowych wszystkich gmin spełniających dany warunek.
+
+### 2.
+
+Podziału kwoty, o której mowa w art. 70o ust. 2 pkt 3, dokonuje się na podstawie średnich wydatków majątkowych za lata 2020-2022. Do wyliczenia średnich wydatków majątkowych przyjmuje się dane wykazane w sprawozdaniach gminy, których obowiązek sporządzania wynika z przepisów o finansach publicznych w zakresie sprawozdawczości budżetowej, z uwzględnieniem korekt złożonych do właściwych regionalnych izb obrachunkowych, w terminie odpowiednio do dnia 30 czerwca 2021 r. i do dnia 30 czerwca 2022 r. Za 2022 r. przyjmuje się dane wykazane w sprawozdaniach, z uwzględnieniem korekt, które wpłynęły do urzędu obsługującego ministra właściwego do spraw finansów publicznych do dnia 10 maja 2023 r.
+
+### Art. 70s.
+
+### 1.
+
+W roku 2023 rezerwę subwencji ogólnej, o której mowa w art. 36 ust. 4 pkt 1, zwiększa się o kwotę 935 437 tys. zł, z przeznaczeniem na wypłatę w roku 2023 nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela. Do podziału tych środków przepisu art. 36a nie stosuje się.
+
+### 2.
+
+W przypadku gdy kwota, o której mowa w ust. 1, będzie niewystarczająca na wypłatę w roku 2023 nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, rezerwa subwencji ogólnej, o której mowa w art. 36 ust. 4 pkt 1, może być zwiększona o środki z rezerwy celowej budżetu państwa przeznaczonej na utrzymanie rezultatów niektórych projektów zrealizowanych przy udziale środków z Unii Europejskiej, w tym systemy informatyczne, a także środki na wsparcie potencjału realizacji zadań publicznych oraz na uzupełnienie dochodów jednostek samorządu terytorialnego, w celu zapewnienia środków na wypłatę w roku 2023 tej nagrody. Do podziału tych środków przepisów art. 36a i art. 36b nie stosuje się.
+
+### 3.
+
+W przypadku gdy środki rezerwy subwencji ogólnej, o których mowa w ust. 1 lub 2, nie zostaną w całości rozdzielone między jednostki samorządu terytorialnego, z przeznaczeniem na wypłatę w 2023 r. nagrody specjalnej, o której mowa w art. 92a ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela, podlegają podziałowi na podstawie art. 36a.
+
+### Art. 70t.
+
+W roku 2023 środki rezerwy subwencji ogólnej, o której mowa w art. 36 ust. 4 pkt 1, oprócz dofinansowania jednostek samorządu terytorialnego, o których mowa w art. 36a ust. 1, mogą być przeznaczone także na uzupełnienie dochodów jednostek samorządu terytorialnego.
+
+### Art. 70u.
+
+### 1.
+
+Jeżeli suma dodatkowych dochodów uzyskanych przez miasto na prawach powiatu w wyniku podziałów, o których mowa w art. 70p-70r, jest niższa niż:
+
+### 1)
+
+30 000 tys. zł - dla miasta, w którym liczba mieszkańców nie przekracza 50 tys.,
+
+### 2)
+
+35 000 tys. zł - dla miasta, w którym liczba mieszkańców przekracza 50 tys., ale nie przekracza 100 tys.,
+
+### 3)
+
+40 000 tys. zł - dla miasta, w którym liczba mieszkańców przekracza 100 tys., ale nie przekracza 150 tys.,
+
+### 4)
+
+45 000 tys. zł - dla miasta, w którym liczba mieszkańców przekracza 150 tys., ale nie przekracza 250 tys.,
+
+### 5)
+
+80 000 tys. zł - dla miasta, w którym liczba mieszkańców przekracza 250 tys.
+
+- miasto na prawach powiatu otrzymuje w 2023 r. dodatkowe uzupełnienie dochodów w wysokości gwarantującej kwotę wymienioną odpowiednio w pkt 1-5.
+
+### 2.
+
+Kwota dodatkowego uzupełnienia dochodów dla miast na prawach powiatu stanowi uzupełnienie subwencji ogólnej. Przepisy art. 70o ust. 4-6 stosuje się odpowiednio.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego ([Dz. U. z 2018 r. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2018/2232/text.html), [z 2020 r. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html) i [2157](https://api.sejm.gov.pl/eli/acts/DU/2020/2157/text.html), [z 2021 r. poz. 2445](https://api.sejm.gov.pl/eli/acts/DU/2021/2445/text.html) oraz [z 2022 r. poz. 2666](https://api.sejm.gov.pl/eli/acts/DU/2022/2666/text.html)) w art. 88 w ust. 1 w pkt 1 lit. h otrzymuje brzmienie:
+
+„
+
+### h)
+
+2023 - 4 019 tys. zł,
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2023 r. poz. 66](https://api.sejm.gov.pl/eli/acts/DU/2023/66/text.html), [z 2022 r. poz. 2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html) oraz [z 2023 r. poz. 240](https://api.sejm.gov.pl/eli/acts/DU/2023/240/text.html), [347](https://api.sejm.gov.pl/eli/acts/DU/2023/347/text.html) i [641](https://api.sejm.gov.pl/eli/acts/DU/2023/641/text.html)) w art. 390 w ust. 1:
+
+### 1)
+
+we wprowadzeniu do wyliczenia wyrazy „3 673 180 tys. zł” zastępuje się wyrazami „3 748 180 tys. zł”;
+
+### 2)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+2023 r. - 437 555 tys. zł;
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka ([Dz. U. poz. 538](https://api.sejm.gov.pl/eli/acts/DU/2018/538/text.html)) w art. 35 w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+2023 r. - 10 250 000 zł;
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów ([Dz. U. z 2023 r. poz. 904](https://api.sejm.gov.pl/eli/acts/DU/2023/904/text.html)) w art. 27 w ust. 1:
+
+### 1)
+
+we wprowadzeniu do wyliczenia wyrazy „1371,30 mln zł” zastępuje się wyrazami „1373,35 mln zł”;
+
+### 2)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+2023 r. - 154,15 mln zł;
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości ([Dz. U. poz. 2447](https://api.sejm.gov.pl/eli/acts/DU/2021/2447/text.html), [z 2022 r. poz. 2666](https://api.sejm.gov.pl/eli/acts/DU/2022/2666/text.html) oraz [z 2023 r. poz. 1088](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.html)) w art. 20 w ust. 1:
+
+### 1)
+
+we wprowadzeniu do wyliczenia wyrazy „4 441 739 tys. zł” zastępuje się wyrazami „4 443 021 tys. zł”;
+
+### 2)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+w 2023 r. - 277 021 tys. zł;
+
+” .
+
+### Art. 10.
+
+W roku 2023 wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonać zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego związanych z uzyskaniem dodatkowych dochodów, o których mowa w art. 70s ustawy zmienianej w art. 4, z przeznaczeniem na nagrody specjalne z okazji 250. rocznicy utworzenia Komisji Edukacji Narodowej, o których mowa w art. 92a ust. 1 ustawy zmienianej w art. 2.
+
+### Art. 11.
+
+W roku 2023 do udzielania dotacji celowych z budżetu państwa, przeznaczonych na wypłatę dodatków do wynagrodzeń dla pracowników zatrudnionych w domach pomocy społecznej prowadzonych przez jednostki samorządu terytorialnego lub w domach pomocy społecznej prowadzonych na zlecenie jednostek samorządu terytorialnego przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2023 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2023/1270/text.html), [1273](https://api.sejm.gov.pl/eli/acts/DU/2023/1273/text.html), [1407](https://api.sejm.gov.pl/eli/acts/DU/2023/1407/text.html) i [1429](https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text.html)) oraz ograniczenia wysokości dotacji wskazanego w art. 115 ust. 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2023 r. poz. 901](https://api.sejm.gov.pl/eli/acts/DU/2023/901/text.html)) nie stosuje się.
+
+### Art. 12.
+
+Równowartość dokonanych odpisów i zwiększeń naliczonych na rok 2023 zgodnie z art. 5 ustawy zmienianej w art. 3, z uwzględnieniem art. 5l tej ustawy, pracodawca przekazuje na rachunek bankowy zakładowego funduszu świadczeń socjalnych w terminie do dnia 30 września 2023 r., uwzględniając dotychczas przekazaną kwotę odpisów i zwiększeń dokonanych zgodnie z art. 5 tej ustawy, naliczonych w oparciu o przeciętne wynagrodzenie miesięczne w gospodarce narodowej w drugim półroczu 2019 r. ogłoszone przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 5 ust. 7 tej ustawy.
+
+### Art. 13.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 stycznia 1982 r. - Karta Nauczyciela, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, ustawę z dnia 8 lutego 2018 r. o Instytucie Współpracy Polsko-Węgierskiej im. Wacława Felczaka, ustawę z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów oraz ustawę z dnia 17 grudnia 2021 r. o zmianie niektórych ustaw w związku z powołaniem Centralnego Biura Zwalczania Cyberprzestępczości.

@@ -8,11 +8,9 @@ pos: 613
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Dz.U. 2013 poz. 613 o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw
-
-*USTAWA z dnia 19 kwietnia 2013 r.*
+# Ustawa z dnia 19 kwietnia 2013 r. o zmianie ustawy o spółdzielczych kasach oszczędnościowo-kredytowych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz ustawę z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,870 +22,4006 @@ domain: null
 | Data ogłoszenia | 2013-04-19 |
 | Data wydania | 2013-05-28 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2013/613/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2013/613) |
 
-**Art. 1.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2012 r. poz. 855 i 1166) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 9b.** Kasa może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności faktycznych związanych z wykonywaniem czynności, o których mowa w art. 3 ust. 1. Przepisy art. 9a ust. 2–11 oraz przepisy wydane na podstawie art. 9h stosuje się odpowiednio.
+### Art. 1.
 
-**Art. 9c.** Powierzenie wykonywania czynności, o którym mowa w art. 9a i art. 9b, nie może obejmować:
+W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2012 r. poz. 855](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.html) i [1166](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.html)) wprowadza się następujące zmiany:
 
-**Art. 9d.** Kasa prowadzi ewidencję umów, o których mowa w art. 9a ust. 1 i art. 9b, zawierającą co najmniej:
+### 1)
 
-**Art. 9e.**
+po art. 1 dodaje się art. 1a w brzmieniu:
 
-1. Kasa jest obowiązana do zachowania tajemnicy zawodowej obejmującej wszystkie informacje dotyczące czynności, o których mowa w art. 3 ust. 1, w tym także informacje uzyskane w czasie negocjacji, w trakcie zawierania i realizacji umowy, na podstawie której kasa tę czynność wykonuje.
+„
 
-2. Dostęp do tajemnicy, o której mowa w ust. 1, mają wyłącznie członkowie organów kasy, niezależnie od podstawy prawnej pełnienia funkcji członka organu kasy, oraz osoby pozostające z kasą w stosunku pracy.
+### Art. 1a.
 
-3. Osoby, o których mowa w ust. 2, są obowiązane do zachowania tajemnicy, zarówno w trakcie pełnienia funkcji lub pozostawania w stosunku pracy, jak również po zakończeniu pełnienia funkcji lub ustaniu stosunku pracy.
+Użyte w ustawie określenia oznaczają:
 
-**Art. 9f.**
+### 1)
 
-1. Nie narusza obowiązku zachowania tajemnicy zawodowej, o której mowa w art. 9e ust. 1, przekazywanie informacji objętej tajemnicą zawodową:
+przedsiębiorca - przedsiębiorcę, o którym mowa w art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2010 r. Nr 220, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2010/1447/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407, 1445 i 1529.](#gloss-0:2:));
 
-- **1)** w zakresie niezbędnym do należytego wykonania umowy, na podstawie której wykonywane są czynności, o których mowa w art. 3 ust. 1, lub należytego wykonania czynności pozostających w związku z zawarciem i wykonaniem tej umowy, w tym także przekazywanie – na zasadzie wzajemności – innym instytucjom ustawowo upoważnionym do udzielania kredytów informacji o wierzytelnościach oraz o obrotach i stanach rachunków;
-- **2)** przedsiębiorcy lub przedsiębiorcy zagranicznemu, któremu kasa zgodnie z art. 9a i art. 9b powierzyła wykonywanie czynności, o których mowa w art. 3 ust. 1, lub czynności faktycznych związanych z wykonywaniem czynności, o których mowa w art. 3 ust. 1, w zakresie niezbędnym do należytego wykonywania tych czynności;
-- **3)** nabywcy wierzytelności kredytowych kasy;
-- **4)** na żądanie Komisji Nadzoru Finansowego, w tym w toku wykonywania czynności kontrolnych;
-- **5)** na żądanie Kasy Krajowej w zakresie niezbędnym do wykonywania przez Kasę Krajową działalności określonej w ustawie oraz w zakresie niezbędnym do wykonania zawartej z Kasą Krajową umowy;
-- **6)** lustratorowi w związku z wykonywaniem przez niego czynności w ramach lustracji, o której mowa w art. 44 ust. 7;
-- **7)** biegłemu rewidentowi upoważnionemu na podstawie zawartej umowy do badania sprawozdań finansowych kasy lub jej ksiąg rachunkowych i portfela kredytowego;
-- **8)** adwokatowi lub radcy prawnemu w związku ze świadczeniem pomocy prawnej na rzecz kasy;
-- **9)** w zawiadomieniu o podejrzeniu popełnienia przestępstwa;
-- **10)** instytucjom upoważnionym do gromadzenia, przetwarzania i udostępniania informacji stanowiących tajemnicę bankową, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **11)** za wyrażoną na piśmie zgodą osoby, której ta informacja dotyczy; i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2011 r. Nr 287, poz. 1687, z późn. zm. );
-- **13)** na żądanie sądu lub prokuratora w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe;
-- **14)** na żądanie sądu w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej będącej stroną umowy sprawą o alimenty lub o rentę o charakterze alimentacyjnym, a także innym postępowaniem cywilnym, jeżeli informacje nie dotyczą osób trzecich niebędących stroną postępowania;
-- **15)** na żądanie komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym;
-- **16)** na żądanie dyrektora izby celnej, w związku z prowadzoną przez organ celny sprawą o przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko członkowi kasy, o ile informacje mają związek z tą sprawą;
-- **17)** na żądanie banku upoważnionego do dokonywania czynności obrotu dewizowego w zakresie ustalenia istnienia wymagalnego zobowiązania stanowiącego podstawę do przekazania za granicę waluty obcej;
-- **18)** na żądanie Generalnego Inspektora Ochrony Danych Osobowych, w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. Nr 101, poz. 926, z późn. zm. );
-- **19)** na żądanie Prezesa Urzędu Ochrony Konkurencji i Konsumentów w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
-- **20)** na żądanie Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki;
-- **21)** na żądanie Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
-- **22)** na żądanie Szefa Centralnego Biura Antykorupcyjnego, w trybie i na zasadach określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2012 r. poz. 621, 627 i 664);
-- **23)** na pisemne żądanie Zakładu Ubezpieczeń Społecznych w zakresie sporządzania i przekazywania informacji dotyczących numerów rachunków płatników składek oraz przekazywania danych umożliwiających identyfikację posiadaczy tych rachunków;
-- **24)** na pisemne żądanie organu wypłacającego świadczenie z ubezpieczenia społecznego lub zaopatrzenia emerytalnego albo uposażenie w stanie spoczynku w zakresie sporządzania i przekazywania danych umożliwiających identyfikację współposiadacza (współposiadaczy) rachunku wspólnego, na który zostały przekazane świadczenia lub uposażenia za okres po śmierci świadczeniobiorcy;
-- **25)** na żądanie Bankowego Funduszu Gwarancyjnego w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z 2009 r. Nr 84, poz. 711, z późn. zm. ).
+### 2)
 
-2. Zakres oraz zasady udzielania informacji przez kasy organom podatkowym, Generalnemu Inspektorowi Informacji Finansowej oraz organom kontroli skarbowej regulują odrębne przepisy. podmiotów, jeżeli nie są pracownikami, mogą wykorzystywać uzyskane informacje tylko zgodnie z celem ich przekazania. O ile odrębne przepisy nie stanowią inaczej, uzyskane informacje nie mogą być ujawniane innym osobom, organom lub podmiotom.
+przedsiębiorca zagraniczny - przedsiębiorcę zagranicznego w rozumieniu art. 5 pkt 3 ustawy wymienionej w pkt 1;
 
-4. Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy.
+### 3)
 
-**Art. 9g.** Przepisy art. 9e i art. 9f stosuje się odpowiednio do Kasy Krajowej, z tym że w zakresie tajemnicy zawodowej uwzględnia się wszystkie informacje wytworzone lub pozyskane od kas w związku z wykonywaniem przez Kasę Krajową działalności określonej w ustawie, o ile ich ujawnienie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą.
+karta płatnicza - kartę płatniczą w rozumieniu art. 2 pkt 7 ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych ([Dz. U. z 2012 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2012/1232/text.html));
 
-**Art. 9h.** Minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, określi wykaz dokumentów dotyczących działalności gospodarczej przedsiębiorcy zagranicznego, dołączanych do wniosku, o którym mowa w art. 9a ust. 3, mając na uwadze zapewnienie Komisji Nadzoru Finansowego informacji pozwalających na rzetelną i miarodajną ocenę wpływu zawieranej umowy na ostrożne i stabilne zarządzanie kasą.”;
+### 4)
 
-**Art. 39.**
+bank krajowy - bank, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2012 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2012/1376/text.html), [1385](https://api.sejm.gov.pl/eli/acts/DU/2012/1385/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html)).
 
-1. W przypadku gdy kwota udzielonych kredytów płynnościowych, pomniejszona o wartość środków, o których mowa w art. 38 ust. 12, przekracza 60% środków, o których mowa w art. 38 ust. 3 pkt 2, Kasa Krajowa może zobowiązać kasy do przeznaczenia dodatkowych środków na rezerwę płynną, określając jednocześnie ich wysokość. Wartość dodatkowych środków, które mają być utrzymywane jako rezerwa płynna, nie może przekroczyć wysokości 5% funduszu oszczędnościowo-pożyczkowego.
+” ;
 
-2. Kwota rezerwy płynnej w części przekraczającej 10% funduszu oszczędnościowo-pożyczkowego może być utrzymywana wyłącznie w postaci środków, o których mowa w art. 38 ust. 3 pkt 2.
+### 2)
 
-3. Kasa jest obowiązana utrzymywać środki, o których mowa w ust. 2, do czasu, gdy kwota udzielonych kredytów płynnościowych, pomniejszona o wartość środków, o których mowa w art. 38 ust. 12, przez 30 kolejnych dni jest nie wyższa niż 60% środków, o których mowa w art. 38 ust. 3 pkt 2. Kasa Krajowa informuje kasy o ustaniu obowiązku utrzymywania środków, o których mowa w ust. 2.
+w art. 3:
 
-4. Kasa Krajowa niezwłocznie przekazuje do Komisji Nadzoru Finansowego, Narodowego Banku Polskiego oraz Bankowego Funduszu Gwarancyjnego także informację, o której mowa w ust. 3.
+### a)
 
-5. Kasa Krajowa, zobowiązując kasy do przeznaczenia dodatkowych środków na rezerwę płynną, niezwłocznie informuje o tym Komisję Nadzoru Finansowego, Narodowy Bank Polski oraz Bankowy Fundusz Gwarancyjny.”;
+po ust. 1 dodaje się ust. 1a w brzmieniu:
 
-- **16)** uchyla się art. 40;
-- **17)** art. 44 otrzymuje brzmienie: „Art. 44. 1. Kasa Krajowa prowadzi działalność wyłącznie na rzecz swoich członków.
+„
 
-2. Działalność, o której mowa w ust. 1, polega na:
+### 1a.
 
-- **1)** reprezentowaniu interesów kas przed organami administracji państwowej i organami samorządu terytorialnego, a także w organizacjach międzynarodowych;
-- **2)** wyrażaniu opinii o projektach aktów prawnych dotyczących kas;
-- **3)** zapewnianiu doradztwa prawnego, organizacyjnego i finansowego;
-- **4)** organizowaniu szkoleń i prowadzeniu działalności wydawniczej związanej z działalnością kas;
-- **5)** opracowywaniu standardów świadczenia usług i prowadzenia dokumentacji przez kasy oraz systemów informatycznych dla kas;
-- **7)** udzielaniu pożyczek i kredytów kasom;
-- **8)** pośredniczeniu w przeprowadzaniu rozliczeń, o których mowa w art. 3 ust. 1, oraz wydawaniu kart płatniczych, jeżeli kasa nie wybierze innego sposobu prowadzenia tej działalności;
-- **9)** udzielaniu pomocy nowo powstającym kasom;
-- **10)** wypełnianiu za kasy obowiązków informacyjnych wobec Narodowego Banku Polskiego.
+Kasa, po uzyskaniu zezwolenia Komisji Nadzoru Finansowego, o którym mowa w art. 32 ust. 2 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433.](#gloss-0:3:)), może pośredniczyć w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych z siedzibą w państwach należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD) innych niż państwo członkowskie Unii Europejskiej lub państwo należące do Europejskiego Obszaru Gospodarczego (EEA).
 
-3. Działalność Kasy Krajowej, o której mowa w ust. 2 pkt 3–8, regulują umowy zawierane pomiędzy Kasą Krajową a kasami.
+” ,
 
-4. Komisja Nadzoru Finansowego zatwierdza wzorzec umowy, o której mowa w ust. 3.
+### b)
 
-5. Kasa Krajowa może prowadzić na rzecz kasy lub jej członków działalność inną niż określona w ust. 2 na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
+ust. 2 otrzymuje brzmienie:
 
-6. Kasa Krajowa, w zakresie wydawanych kart płatniczych, prowadzi działalność także na rzecz członków kas na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
+„
 
-7. Kasa Krajowa przeprowadza lustrację zrzeszonych kas zgodnie z przepisami ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze. Przepisy tej ustawy o związkach rewizyjnych dotyczące lustracji stosuje się odpowiednio do Kasy Krajowej.
+### 2.
 
-8. Kasa Krajowa może prowadzić działalność na rzecz podmiotu przejmującego kasę, przejmującego wybrane prawa majątkowe lub wybrane zobowiązania kasy, nabywcy przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych, w zakresie i na warunkach działalności prowadzonej na rzecz kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu lub likwidacji. Za zgodą przejmującego lub nabywcy oraz Kasy Krajowej zakres i warunki, o których mowa w zdaniu poprzedzającym, mogą zostać zmienione.”;
+Do rozliczeń, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe o bankowych rozliczeniach pieniężnych.
 
-- **18)** uchyla się art. 46;
-- **19)** w art. 49 dodaje się ust. 4 w brzmieniu: „4. Kadencję rady nadzorczej określa statut, z tym że nie może ona trwać dłużej niż 5 lat. Mandat członka rady nadzorczej wygasa z dniem powołania nowego członka rady nadzorczej.”;
-- **20)** w art. 51:
-    - **a)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Kadencję zarządu określa statut, z tym że nie może ona trwać dłużej niż 4 lata. Mandat członka zarządu wygasa z dniem powołania nowego członka zarządu.”,
-    - **b)** ust. 5 otrzymuje brzmienie: „5. Jeżeli powołanie członka zarządu dotyczy kolejnej kadencji tej samej osoby, nie stosuje się do tej osoby przepisu ust. 1, o ile nie zachodzą w stosunku do niej przesłanki określone w ust. 3 i 4.”,
-    - **c)** dodaje się ust. 7 w brzmieniu: „7. Nie jest dopuszczalne łączenie funkcji członka rady nadzorczej albo zarządu kasy z funkcją członka zarządu lub pracownika Kasy Krajowej.”;
+” ;
 
-- **21)** w art. 52 ust. 2 otrzymuje brzmienie: „2. Komisja funduszu stabilizacyjnego składa się z 7 do 11 członków: przewodniczącego, wiceprzewodniczącego, sekretarza i pozostałych członków, powoływanych i odwoływanych przez radę nadzorczą na wniosek zarządu.”;
-- **22)** w art. 55 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu: „1a. W przypadku, o którym mowa w art. 38r ust. 2 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, Kasa Krajowa przekazuje bezzwrotnie i nieodpłatnie Bankowemu Funduszowi Gwarancyjnemu, na jego wniosek, wolne środki funduszu stabilizacyjnego na wypłaty środków gwarantowanych zgromadzonych w kasach, do wysokości, w jakiej kwota zobowiązań z tytułu środków gwarantowanych przewyższa środki funduszu kas do wykorzystania. zgromadzenie Kasy Krajowej przeznaczona na jej fundusz zasobowy, z zastrzeżeniem art. 57 ust. 3.”;
-- **23)** w art. 61 w ust. 2 pkt 2 otrzymuje brzmienie: „2) prawidłowości wykorzystania funduszu stabilizacyjnego oraz innych środków deponowanych przez kasy w Kasie Krajowej;”;
-- **24)** po art. 61 dodaje się art. 61a i art. 61b w brzmieniu: „Art. 61a. 1. Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru nad kasami i Kasą Krajową, w tym informacje, o których mowa w art. 9e ust. 1 i art. 9g, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru, stanowią tajemnicę chronioną.
+### 3)
 
-2. Obowiązku ochrony tajemnicy, o której mowa w ust. 1, nie narusza:
+art. 4 otrzymuje brzmienie:
 
-- **1)** udzielenie bankowi centralnemu wchodzącemu w skład Europejskiego Systemu Banków Centralnych informacji niezbędnych do realizacji przypisanych mu prawem zadań, w tym zadań dotyczących polityki monetarnej i zapewnienia związanej z tym płynności, zadań związanych z nadzorem nad systemami płatności, rozliczeń i rozrachunku oraz zadań realizowanych na rzecz stabilności systemu finansowego;
-- **2)** złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
-- **3)** przekazanie informacji osobie, organowi lub innemu podmiotowi na podstawie przepisów odrębnych.
+„
 
-**Art. 61b.**
+### Art. 4.
 
-1. Kasy są obowiązane do wnoszenia wpłat z tytułu nadzoru, o którym mowa w art. 60, stanowiących iloczyn sumy aktywów bilansowych kas i stawki nieprzekraczającej 0,024%.
+Do stosunków zobowiązaniowych pomiędzy kasami a ich członkami, o których mowa w art. 3 ust. 1 i 1a, stosuje się przepisy ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów ([Dz. U. Nr 50, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173.](#gloss-0:4:)) w zakresie praktyk naruszających zbiorowe interesy konsumentów.
 
-2. Należności z tytułu wpłat na finansowanie kosztów nadzoru, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+” ;
 
-3. Prezes Rady Ministrów określa, w drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat oraz sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1, uwzględniając zapewnienie skuteczności sprawowanego nadzoru.
+### 4)
 
-4. W przypadku niedotrzymania terminu uiszczania wpłat, określonego w przepisach wydanych na podstawie ust. 3, pobiera się odsetki w wysokości odsetek ustawowych.”;
+po art. 9 dodaje się art. 9a-9h w brzmieniu:
 
-- **25)** po art. 62 dodaje się art. 62a–62f w brzmieniu: „Art. 62a. Wyboru podmiotu uprawnionego do badania sprawozdań finansowych dokonuje się przed upływem roku obrotowego, jednakże ten sam podmiot może być wybrany na okres nie dłuższy niż 5 lat.
+„
 
-**Art. 62b.**
+### Art. 9a.
 
-1. Kasa jest obowiązana przekazywać Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu zatwierdzone roczne sprawozdanie finansowe wraz z opinią i raportem biegłego rewidenta oraz z odpisem uchwały o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty.
+### 1.
 
-2. Kasa Krajowa jest obowiązana przekazywać Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu:
+Kasa może, w drodze umowy agencyjnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu pośrednictwo w zawieraniu i zmianie umów o wykonywanie czynności, o których mowa w art. 3 ust. 1. Umowę zawiera się w formie pisemnej.
 
-- **1)** zatwierdzone roczne sprawozdanie finansowe wraz z opinią i raportem biegłego rewidenta oraz z odpisem uchwały o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku albo pokryciu straty;
-- **2)** kwartalne sprawozdania:
-    - **a)** z przeprowadzonych w kasach czynności kontrolnych,
-    - **b)** ze stanu i wykorzystania środków funduszu stabilizacyjnego,
-    - **c)** ze stanu i wykorzystania środków rezerwy płynnej.
+### 2.
 
-3. Sprawozdania, o których mowa w ust. 1 i 2 pkt 1, przekazywane są w terminie nie dłuższym niż 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego przez organ zatwierdzający.
+Powierzenie wykonywania czynności, o którym mowa w ust. 1, nie może prowadzić do naruszenia przepisów prawa ani wpływać niekorzystnie na ostrożne i stabilne zarządzanie kasą, możliwość wykonywania obowiązków przez biegłego rewidenta upoważnionego do badania sprawozdań finansowych kasy na podstawie zawartej z kasą umowy oraz ochronę tajemnicy prawnie chronionej.
 
-4. Sprawozdania, o których mowa w ust. 2 pkt 2, przekazywane są nie później niż ostatniego dnia miesiąca następującego po zakończeniu kwartału, za który zostały sporządzone. w szczególności dane o:
+### 3.
 
-- **1)** strukturze organizacyjnej kasy, liczbie zatrudnionych, liczbie członków oraz liczbie wkładów członkowskich zadeklarowanych i wkładów członkowskich wpłaconych, a także niezbędne dane kontaktowe dotyczące osób sporządzających i zatwierdzających informacje sprawozdawcze;
-- **2)** bilansie oraz rachunku zysków i strat;
-- **3)** inwestycjach kasy;
-- **4)** płynności oraz rezerwie płynnej;
-- **5)** aktywach finansowych;
-- **6)** zobowiązaniach finansowych;
-- **7)** zobowiązaniach z tytułu zabezpieczeń pieniężnych oraz z tytułu oszczędności;
-- **8)** funduszach własnych;
-- **9)** przekroczeniu koncentracji zaangażowań;
-- **10)** zobowiązaniach z tytułu kredytów;
-- **11)** zobowiązaniach z tytułu własnej emisji;
-- **12)** zobowiązaniach pozabilansowych udzielonych oraz zobowiązaniach pozabilansowych otrzymanych;
-- **13)** promesach udzielenia kredytu;
-- **14)** kredytach, pożyczkach i pozostałych należnościach kasy;
-- **15)** przyjętych przez kasę zabezpieczeniach;
-- **16)** strukturze aktywów i pasywów;
-- **17)** rachunku przepływów pieniężnych;
-- **18)** rezerwie obowiązkowej;
-- **19)** radzie nadzorczej i zarządzie kasy;
-- **20)** współczynniku wypłacalności.
+Zawarcie umowy, o której mowa w ust. 1, z przedsiębiorcą zagranicznym niemającym miejsca stałego zamieszkania lub nieposiadającym siedziby na terytorium państwa członkowskiego Unii Europejskiej lub umowy przewidującej, że powierzone czynności będą wykonywane poza terytorium Unii Europejskiej, wymaga zezwolenia Komisji Nadzoru Finansowego udzielonego na wniosek kasy. Do wniosku dołącza się dokumenty dotyczące przedsiębiorcy zagranicznego lub wykonywania powierzonych czynności poza terytorium Unii Europejskiej. Przepisy dotyczące państw członkowskich Unii Europejskiej stosuje się również do państw niebędących państwami członkowskimi Unii Europejskiej, ale należących do Europejskiego Obszaru Gospodarczego.
 
-2. Kasa Krajowa przekazuje Komisji Nadzoru Finansowego informacje sprawozdawcze obejmujące w szczególności dane o:
+### 4.
 
-- **1)** strukturze organizacyjnej Kasy, liczbie zatrudnionych, liczbie członków oraz liczbie wkładów członkowskich zadeklarowanych i wkładów członkowskich wpłaconych, a także niezbędne dane kontaktowe dotyczące osób sporządzających i zatwierdzających informacje sprawozdawcze;
-- **2)** bilansie oraz rachunku zysków i strat;
-- **3)** środkach na rachunkach bieżących i ekwiwalentów środków pieniężnych;
-- **4)** instrumentach dłużnych;
-- **5)** instrumentach kapitałowych;
-- **6)** kredytach, pożyczkach i pozostałych należnościach;
-- **7)** pozostałych instrumentach finansowych;
-- **8)** zobowiązaniach finansowych, z uwzględnieniem:
-    - **a)** zobowiązań finansowych przeznaczonych do obrotu,
-    - **b)** zobowiązań finansowych wycenianych w wysokości skorygowanej ceny nabycia;
+Komisja Nadzoru Finansowego nakazuje kasie, w drodze decyzji, zmianę albo rozwiązanie umowy, o której mowa w ust. 1, jeżeli:
 
-- **10)** funduszu stabilizacyjnym, w tym wykorzystaniu środków funduszu stabilizacyjnego;
-- **11)** promesach udzielenia kredytu;
-- **12)** aktywach finansowych, w tym:
-    - **a)** aktywach finansowych przeznaczonych do obrotu,
-    - **b)** aktywach finansowych dostępnych do sprzedaży,
-    - **c)** pożyczkach udzielonych i należnościach własnych,
-    - **d)** aktywach finansowych utrzymywanych do terminu wymagalności,
-    - **e)** utracie wartości aktywów finansowych;
+### 1)
 
-- **13)** rzeczowym majątku trwałym, nieruchomościach inwestycyjnych oraz wartościach niematerialnych i prawnych, w tym będących przedmiotem leasingu;
-- **14)** rezerwach;
-- **15)** wartości godziwej aktywów finansowych oraz zobowiązań finansowych;
-- **16)** przychodach z tytułu odsetek oraz kosztach z tytułu odsetek;
-- **17)** zyskach i stratach z tytułu aktywów finansowych oraz zobowiązań finansowych;
-- **18)** pozostałych przychodach i kosztach operacyjnych;
-- **19)** kosztach działania, w tym kosztach pracowniczych, kosztach usług obcych, podatkach i opłatach;
-- **20)** zobowiązaniach pozabilansowych udzielonych oraz zobowiązaniach pozabilansowych otrzymanych;
-- **21)** radzie nadzorczej i zarządzie Kasy Krajowej.
+wykonanie umowy może zagrażać ostrożnemu i stabilnemu zarządzaniu kasą;
 
-3. Komisja Nadzoru Finansowego, w drodze decyzji, na wniosek kasy, w uzasadnionych przypadkach może zwolnić ją z obowiązków określonych w ust. 1 lub ograniczyć ich zakres.
+### 2)
 
-4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczegółowy zakres, formę, sposób i częstotliwość sporządzania sprawozdań z danymi, o których mowa w ust. 1 i 2, oraz terminy i sposób ich przekazywania Komisji Nadzoru Finansowego, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania efektywnego nadzoru nad kasami i Kasą Krajową.
+przedsiębiorca lub przedsiębiorca zagraniczny będący stroną umowy nie posiada wymaganych uprawnień niezbędnych do wykonywania tej umowy albo je utracił w trakcie obowiązywania umowy;
 
-**Art. 62d.**
+### 3)
 
-1. W przypadku stwierdzenia nieprawidłowości w przeprowadzonym badaniu sprawozdania finansowego na zlecenie kasy lub Kasy Krajowej, Komisja Nadzoru Finansowego może zobowiązać kasę lub Kasę Krajową do zlecenia wskazanemu biegłemu rewidentowi zbadania prawidłowości i rzetelności sprawozdań finansowych sporządzanych przez kasę lub Kasę Krajową, kontroli ksiąg rachunkowych lub analizy portfela kredytowego. Jeżeli w wyniku przeprowadzonych badań stwierdzono nieprawidłowości w kasie albo Kasie Krajowej, koszty badania ponosi odpowiednio kasa albo Kasa Krajowa, a w razie niestwierdzenia w wyniku przeprowadzonych badań nieprawidłowości w kasie albo Kasie Krajowej, koszty badania ponosi Komisja Nadzoru Finansowego.
+istnieje zagrożenie naruszenia tajemnicy prawnie chronionej;
 
-2. Zlecenie badania określonego w ust. 1 może zostać udzielone także bezpośrednio przez Komisję Nadzoru Finansowego. Koszty badania ponosi wówczas Komisja Nadzoru Finansowego. Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Finansowego stwierdzono nieprawidłowości w kasie albo w Kasie Krajowej, koszty badania ponosi odpowiednio kasa albo Kasa Krajowa.
+### 4)
 
-3. Do zlecenia biegłemu rewidentowi badania sprawozdania finansowego kasy albo Kasy Krajowej, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2010 r. Nr 113, poz. 759, z późn. zm. ). badanie, o którym mowa w art. 62d, jest obowiązany niezwłocznie powiadomić Komisję Nadzoru Finansowego o ujawnionych faktach wskazujących na:
+w państwie, w którym powierzone czynności mają być albo są wykonywane, obowiązujące prawo uniemożliwia Komisji Nadzoru Finansowego wykonywanie efektywnego nadzoru;
 
-- **1)** popełnienie przestępstwa;
-- **2)** naruszenie przepisów regulujących działalność kasy lub Kasy Krajowej;
-- **3)** naruszenie zasad dobrych praktyk lub inne zagrożenie interesów klientów kasy;
-- **4)** istnienie przesłanek do wyrażenia opinii negatywnej na temat sprawozdania finansowego kasy lub Kasy Krajowej lub odmowy wyrażenia tej opinii.
+### 5)
 
-2. Przepisy ust. 1 stosuje się odpowiednio do biegłych rewidentów badających sprawozdania finansowe przedsiębiorcy, o którym mowa w art. 9a i art. 9b, oraz podmiotów posiadających bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe z kasą lub Kasą Krajową.
+powierzenie wykonywania czynności, o których mowa w art. 3 ust. 1, mogłoby prowadzić do naruszenia przepisów prawa lub wpływać niekorzystnie na ostrożne i stabilne zarządzanie kasą lub możliwość wykonywania obowiązków przez biegłego rewidenta upoważnionego do badania sprawozdań finansowych kasy na podstawie zawartej z kasą umowy.
 
-**Art. 62f.** Kasa jest obowiązana:
+### 5.
 
-**Art. 70b.** Organy kasy i Kasy Krajowej oraz jej pracownicy, na żądanie Komisji Nadzoru Finansowego, działającej przez upoważnione przez nią osoby, są obowiązani do udzielania pisemnych lub ustnych informacji i wyjaśnień oraz okazywania dokumentów lub innych nośników informacji, jak również udostępnienia danych związanych z działalnością kasy i Kasy Krajowej, niezbędnych do wykonywania przez Komisję Nadzoru Finansowego zadań z zakresu nadzoru.”;
+Decyzja, o której mowa w ust. 4, może być wydana z określeniem terminu.
 
-**Art. 72a.**
+### 6.
 
-1. W razie powstania w kasie straty bilansowej albo groźby jej wystąpienia, albo powstania niebezpieczeństwa niewypłacalności lub zagrożenia utraty płynności płatniczej, zarząd kasy niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego oraz Kasę Krajową i przystępuje do opracowania programu postępowania naprawczego.
+Od decyzji, o której mowa w ust. 4, kasa może wnieść skargę do sądu administracyjnego w terminie 14 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2013 r. poz. 267](https://api.sejm.gov.pl/eli/acts/DU/2013/267/text.html)) nie stosuje się.
 
-2. Program postępowania naprawczego, o którym mowa w ust. 1, kasa przedstawia do zaopiniowania Kasie Krajowej oraz przedkłada Komisji Nadzoru Finansowego, zapewniając jego realizację.
+### 7.
 
-3. Komisja Nadzoru Finansowego może wyznaczyć kasie termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zlecić jego uzupełnienie lub ponowne opracowanie.
+Komisja Nadzoru Finansowego może, bez konieczności uprzedniego upomnienia na piśmie, zastosować środki określone w art. 71 ust. 2, w przypadku gdy kasa nie doprowadzi, zgodnie z treścią decyzji, o której mowa w ust. 4, do zmiany albo rozwiązania umowy.
 
-4. W razie zaniechania działań, o których mowa w ust. 1, Komisja Nadzoru Finansowego może zobowiązać kasę do wszczęcia postępowania naprawczego i opracowania programu postępowania naprawczego, o którym mowa w ust. 1, informując o tym Kasę Krajową.
+### 8.
 
-**Art. 72b.**
+Do przedsiębiorcy lub przedsiębiorcy zagranicznego, o którym mowa w ust. 1, przepisy art. 64 ust. 1 i art. 70b stosuje się odpowiednio.
 
-1. W razie powstania w Kasie Krajowej straty bilansowej albo groźby jej wystąpienia, albo powstania niebezpieczeństwa niewypłacalności lub zagrożenia utraty płynności płatniczej, zarząd Kasy Krajowej niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego oraz przystępuje do opracowania programu postępowania naprawczego. Kasa Krajowa przedkłada program Komisji Nadzoru Finansowego oraz zapewnia jego realizację.
+### 9.
 
-2. Komisja Nadzoru Finansowego może wyznaczyć Kasie Krajowej termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zlecić jego uzupełnienie lub ponowne opracowanie.
+Odpowiedzialności przedsiębiorcy lub przedsiębiorcy zagranicznego, o którym mowa w ust. 1, wobec kasy za szkody wyrządzone członkom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć.
 
-3. W razie zaniechania działań, o których mowa w ust. 1, Komisja Nadzoru Finansowego może zobowiązać Kasę Krajową do wszczęcia postępowania naprawczego i opracowania programu postępowania naprawczego, o którym mowa w ust. 1.
+### 10.
 
-**Art. 72c.**
+Odpowiedzialności kasy za szkody wyrządzone członkom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa w ust. 1, nie można wyłączyć ani ograniczyć.
 
-1. Komisja Nadzoru Finansowego może ustanowić kuratora nadzorującego wykonanie programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1.
+### 11.
 
-2. Kuratorowi przysługuje prawo uczestniczenia w posiedzeniach organów kasy lub Kasy Krajowej oraz uzyskiwania wszelkich informacji niezbędnych do wykonywania jego funkcji.
+Przepisów ust. 1-10 nie stosuje się do pośrednictwa przy zawieraniu umów ubezpieczenia.
 
-3. Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu i rady nadzorczej odpowiednio kasy lub Kasy Krajowej. Oświadczenie o zamiarze wniesienia sprzeciwu zgłoszone na posiedzeniu rady nadzorczej lub zarządu wstrzymuje wykonanie uchwały lub decyzji.
+### Art. 9b.
 
-4. Sprzeciw, o którym mowa w ust. 3, kurator wnosi do właściwego sądu okręgowego sądu gospodarczego w terminie 14 dni od daty podjęcia uchwały lub decyzji zarządu lub rady nadzorczej.
+Kasa może, w drodze umowy zawartej w formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności faktycznych związanych z wykonywaniem czynności, o których mowa w art. 3 ust. 1. Przepisy art. 9a ust. 2-11 oraz przepisy wydane na podstawie art. 9h stosuje się odpowiednio.
 
-5. W przypadku braku wniesienia sprzeciwu do sądu w terminie, o którym mowa w ust. 4, lub w przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o których mowa w ust. 3, może zostać wykonana. art. 42 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
+### Art. 9c.
 
-7. Kurator otrzymuje w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
+Powierzenie wykonywania czynności, o którym mowa w art. 9a i art. 9b, nie może obejmować:
 
-8. Okres urlopu bezpłatnego zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych.
+### 1)
 
-9. Od decyzji o ustanowieniu kuratora kasa lub Kasa Krajowa może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+zarządzania kasą w rozumieniu art. 48 ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze, a w szczególności zarządzania ryzykiem związanym z prowadzeniem działalności kasy, w tym zarządzania aktywami i pasywami, dokonywania oceny zdolności kredytowej i analizy ryzyka kredytowego;
 
-10. Kurator składa Komisji Nadzoru Finansowego kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez kasę lub Kasę Krajową programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1. W przypadku programów postępowania naprawczego, o których mowa w art. 72a ust. 1, realizowanych w kasach sprawozdania przekazywane są także Kasie Krajowej.
+### 2)
 
-11. Koszty związane z wykonywaniem funkcji kuratora obciążają koszty działalności kasy lub Kasy Krajowej. Wynagrodzenie kuratora ustala Komisja Nadzoru Finansowego, z tym że w kasach, w których w statutach przewidziano wynagrodzenie dla prezesa zarządu, wynagrodzenie kuratora nie może być wyższe niż wynagrodzenie prezesa zarządu kasy, w której ustanowiono kuratora.
+funkcji kontroli wewnętrznej w kasie.
 
-12. Komisja Nadzoru Finansowego odwołuje kuratora nadzorującego wykonywanie programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1, po zrealizowaniu tego programu przez kasę lub Kasę Krajową, a także w przypadku jego rezygnacji, niewłaściwego wykonywania funkcji lub też innych względów uniemożliwiających kuratorowi należyte wykonywanie tej funkcji.”;
+### Art. 9d.
 
-- **39)** w art. 73:
-    - **a)** ust. 1–3 otrzymują brzmienie: „1. W przypadku powstania groźby zaprzestania spłacania zobowiązań przez kasę lub Kasę Krajową lub jeżeli zarząd kasy lub Kasy Krajowej nie przekaże programu postępowania naprawczego zgodnie z art. 72a i art. 72b albo gdy realizacja tego programu okaże się nieskuteczna, Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu zarządcy komisarycznego. Ustanowienie zarządcy komisarycznego w kasie lub w Kasie Krajowej nie wpływa na organizację i sposób działania odpowiednio kasy lub Kasy Krajowej, z wyjątkiem zmian przewidzianych ustawą.
+Kasa prowadzi ewidencję umów, o których mowa w art. 9a ust. 1 i art. 9b, zawierającą co najmniej:
 
-2. Zarządca komisaryczny, o którym mowa w ust. 1, ustanawiany jest na czas nie dłuższy niż do końca realizacji programu postępowania naprawczego.
+### 1)
 
-3. Z dniem ustanowienia zarządcy komisarycznego członkowie zarządu kasy lub Kasy Krajowej zostają odwołani z mocy prawa, a udzielone wcześniej prokury i pełnomocnictwa wygasają. Kompetencje innych organów kasy lub Kasy Krajowej ulegają zawieszeniu. Na zarządcę komisarycznego przechodzi prawo podejmowania decyzji we wszystkich sprawach kasy lub Kasy Krajowej, z wyjątkiem wprowadzania zmian w ich statutach.”,
+dane identyfikujące przedsiębiorców lub przedsiębiorców zagranicznych, z którymi zostały zawarte umowy, o których mowa w art. 9a ust. 1 lub art. 9b;
 
-- **b)** ust. 5 i 6 otrzymują brzmienie: „5. Zarządca komisaryczny opracowuje i uzgadnia z Komisją Nadzoru Finansowego program postępowania naprawczego, kieruje jego realizacją oraz informuje Komisję Nadzoru Finansowego i radę nadzorczą kasy lub Kasy Krajowej o wynikach jego realizacji.
+### 2)
 
-6. Od decyzji, o której mowa w ust. 1, rada nadzorcza kasy lub Kasy Krajowej może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.”,
+zakres powierzonych czynności i miejsce ich wykonywania;
 
-- **c)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Członkowie zarządu komisarycznego otrzymują w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
+### 3)
 
-6b. Okres urlopu bezpłatnego zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych.”,
+okres obowiązywania umów.
 
-- **e)** dodaje się ust. 8 i 9 w brzmieniu: „8. Koszty związane z wykonywaniem funkcji zarządcy komisarycznego w kasie lub Kasie Krajowej obciążają odpowiednio koszty działalności kasy lub Kasy Krajowej. Wynagrodzenie zarządcy komisarycznego ustala Komisja Nadzoru Finansowego.
+### Art. 9e.
 
-9. W przypadku realizacji programu postępowania naprawczego w kasie, zarządca komisaryczny przekazuje Kasie Krajowej informacje, o których mowa w ust. 5.”;
+### 1.
 
-- **40)** po art. 73 dodaje się art. 73a w brzmieniu: „Art. 73a. 1. Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu w kasie lub w Kasie Krajowej zarządcy komisarycznego także w przypadku gdy działalność kasy lub Kasy Krajowej wykazuje rażące lub uporczywe naruszanie przepisów prawa. Zarządcę komisarycznego ustanawia się na okres niezbędny do usunięcia nieprawidłowości związanych z rażącym lub uporczywym naruszaniem przepisów prawa.
+Kasa jest obowiązana do zachowania tajemnicy zawodowej obejmującej wszystkie informacje dotyczące czynności, o których mowa w art. 3 ust. 1, w tym także informacje uzyskane w czasie negocjacji, w trakcie zawierania i realizacji umowy, na podstawie której kasa tę czynność wykonuje.
 
-2. Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu w kasie lub w Kasie Krajowej zarządcy komisarycznego także w przypadku gdy skład zarządu kasy lub Kasy Krajowej nie odpowiada wymogom ustawy, w celu zorganizowania wyboru nowego zarządu. Zarządca komisaryczny działa nie dłużej niż do chwili powołania nowego zarządu kasy lub Kasy Krajowej oraz uzyskania zgody Komisji Nadzoru Finansowego na powołanie prezesa zarządu. Przepisy art. 73 ust. 3, 6–6b i 8 stosuje się odpowiednio.”;
+### 2.
 
-- **41)** uchyla się art. 74;
-- **42)** po art. 74 dodaje się rozdziały 6b i 6c w brzmieniu: „Rozdział 6b Przejęcie, likwidacja i upadłość kas
+Dostęp do tajemnicy, o której mowa w ust. 1, mają wyłącznie członkowie organów kasy, niezależnie od podstawy prawnej pełnienia funkcji członka organu kasy, oraz osoby pozostające z kasą w stosunku pracy.
 
-**Art. 74a.**
+### 3.
 
-1. Kasa może połączyć się z inną kasą po uzyskaniu zezwolenia Komisji Nadzoru Finansowego.
+Osoby, o których mowa w ust. 2, są obowiązane do zachowania tajemnicy, zarówno w trakcie pełnienia funkcji lub pozostawania w stosunku pracy, jak również po zakończeniu pełnienia funkcji lub ustaniu stosunku pracy.
 
-2. Komisja Nadzoru Finansowego odmawia wydania zezwolenia, jeżeli połączenie prowadziłoby do naruszenia przepisów prawa lub bezpieczeństwa środków gromadzonych w kasie biorącej udział w połączeniu lub jeżeli połączenie mogłoby okazać się niekorzystne dla ostrożnego i stabilnego zarządzania działalnością kas podlegających łączeniu.
+### Art. 9f.
 
-**Art. 74b.**
+### 1.
 
-1. W przypadku podziału kasy z wydzielonej części kasy podlegającej podziałowi może zostać utworzona wyłącznie nowa kasa.
+Nie narusza obowiązku zachowania tajemnicy zawodowej, o której mowa w art. 9e ust. 1, przekazywanie informacji objętej tajemnicą zawodową:
 
-2. Podział kasy, o którym mowa w ust. 1, wymaga zezwolenia Komisji Nadzoru Finansowego.
+### 1)
 
-3. Do zezwolenia, o którym mowa w ust. 2, art. 7 stosuje się odpowiednio.
+w zakresie niezbędnym do należytego wykonania umowy, na podstawie której wykonywane są czynności, o których mowa w art. 3 ust. 1, lub należytego wykonania czynności pozostających w związku z zawarciem i wykonaniem tej umowy, w tym także przekazywanie - na zasadzie wzajemności - innym instytucjom ustawowo upoważnionym do udzielania kredytów informacji o wierzytelnościach oraz o obrotach i stanach rachunków;
 
-4. Komisja Nadzoru Finansowego odmawia wydania zezwolenia także w przypadku gdy podział kasy okazałby się niekorzystny dla ostrożnego i stabilnego zarządzania kasą dzieloną albo kasami, na które zostaje przeniesiony majątek dzielonej kasy.
+### 2)
 
-**Art. 74c.**
+przedsiębiorcy lub przedsiębiorcy zagranicznemu, któremu kasa zgodnie z art. 9a i art. 9b powierzyła wykonywanie czynności, o których mowa w art. 3 ust. 1, lub czynności faktycznych związanych z wykonywaniem czynności, o których mowa w art. 3 ust. 1, w zakresie niezbędnym do należytego wykonywania tych czynności;
 
-1. Jeżeli strata bilansowa kasy spowoduje obniżenie wyrażonego procentowo stosunku funduszy własnych do wartości aktywów poniżej 1%, kasa niezwłocznie informuje o tym Komisję Nadzoru Finansowego, Bankowy Fundusz Gwarancyjny i Kasę Krajową.
+### 3)
 
-2. Kasa Krajowa, po uzyskaniu opinii komisji funduszu stabilizacyjnego, o której mowa w art. 52 ust. 1, w terminie 14 dni od dnia uzyskania informacji, o której mowa w ust. 1, przedstawia Komisji Nadzoru Finansowego decyzję o udzieleniu lub odmowie udzielenia pomocy z funduszu stabilizacyjnego dla kasy. Minimalna kwota pomocy powinna zapewnić kasie utrzymanie wyrażonego procentowo stosunku funduszy własnych do wartości aktywów powyżej poziomu określonego w ust. 1.
+nabywcy wierzytelności kredytowych kasy;
 
-3. W przypadku gdy Kasa Krajowa odmówi udzielenia pomocy z funduszu stabilizacyjnego, o której mowa w ust. 2, Komisja Nadzoru Finansowego może podjąć decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę, za zgodą kasy przejmującej. Decyzja o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę może zostać podjęta przez Komisję Nadzoru Finansowego, jeżeli w wyniku przejęcia wyrażony procentowo stosunek funduszy własnych wybranych zobowiązań kasy nie obniży się poniżej poziomu określonego w ust. 1.
+### 4)
 
-4. W przypadku braku zgody innej kasy na przejęcie kasy lub braku możliwości przejęcia kasy przez inną kasę, Komisja Nadzoru Finansowego uwzględniając potrzebę ochrony stabilności rynku finansowego i bezpieczeństwa środków zgromadzonych na rachunkach kasy może podjąć decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez bank krajowy, za jego zgodą albo decyzję o likwidacji kasy.
+na żądanie Komisji Nadzoru Finansowego, w tym w toku wykonywania czynności kontrolnych;
 
-5. Podejmując decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy Komisja Nadzoru Finansowego uwzględnia zakres zgody przejmującego oraz w przypadku gdy wartość przejmowanych praw majątkowych jest niższa niż wartość przejmowanych zobowiązań kasy, decyzję Bankowego Funduszu Gwarancyjnego odnośnie udzielenia wsparcia w formie, o której mowa w art. 20g ust. 2 pkt 4 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym.
+### 5)
 
-6. W przypadku decyzji o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przejęcie powinno obejmować wszystkie prawa majątkowe i zobowiązania wobec członka kasy oraz wartość jego prawa do funduszu udziałowego.
+na żądanie Kasy Krajowej w zakresie niezbędnym do wykonywania przez Kasę Krajową działalności określonej w ustawie oraz w zakresie niezbędnym do wykonania zawartej z Kasą Krajową umowy;
 
-7. Tryb i terminy przejęcia lub likwidacji kasy określa decyzja, o której mowa w ust. 3 i 4. W decyzji o likwidacji kasy Komisja Nadzoru Finansowego ustanawia także likwidatora.
+### 6)
 
-8. Od decyzji, o której mowa w ust. 3 i 4, rada nadzorcza kasy może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty jej doręczenia. Wniesienie skargi nie wstrzymuje wykonania decyzji, jednakże przed rozpatrzeniem skargi nie może być rozpoczęte zbywanie majątku kasy w likwidacji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
+lustratorowi w związku z wykonywaniem przez niego czynności w ramach lustracji, o której mowa w art. 44 ust. 7;
 
-9. W przypadku uznania skargi na decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy za zasadną, sąd orzeka o jej wydaniu z naruszeniem prawa. Przepisu art. 145 § 1 pkt 1 i 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r. poz. 270, 1101 i 1529) nie stosuje się.
+### 7)
 
-10. W przypadku podjęcia przez Komisję Nadzoru Finansowego decyzji o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy Komisja Nadzoru Finansowego podejmuje jednocześnie decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej. Przepisy art. 73 ust. 3–6b, 8 i 9 stosuje się odpowiednio.
+biegłemu rewidentowi upoważnionemu na podstawie zawartej umowy do badania sprawozdań finansowych kasy lub jej ksiąg rachunkowych i portfela kredytowego;
 
-11. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy zobowiązania pozostałe w kasie zaspokajane są z majątku tej kasy.
+### 8)
 
-12. Przejęcie wybranych praw majątkowych lub wybranych zobowiązań kasy nie wymaga zgody dłużników, wierzycieli oraz członków kasy, której prawa majątkowe lub zobowiązania są przedmiotem przejęcia.
+adwokatowi lub radcy prawnemu w związku ze świadczeniem pomocy prawnej na rzecz kasy;
 
-13. W przypadku przejęcia kasy albo przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez bank spółdzielczy przepisy art. 5 ust. 3 i 4 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz. U. Nr 119, poz. 1252, z późn. zm. ) stosuje się odpowiednio.
+### 9)
 
-14. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przepisy art. 100 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio. 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm. ), nie może być krótszy niż 2 dni. W przypadku decyzji o likwidacji kasy przepisu art. 23 tej ustawy nie stosuje się.
+w zawiadomieniu o podejrzeniu popełnienia przestępstwa;
 
-**Art. 74d.** Z dniem określonym w decyzji Komisji Nadzoru Finansowego o likwidacji kasy, o której mowa w art. 74c ust. 4, zarząd kasy ulega rozwiązaniu, mandaty jego członków ulegają wygaśnięciu, a zarząd majątkiem likwidowanej kasy obejmuje likwidator. Kompetencje rady nadzorczej, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone. Likwidator reprezentuje kasę w likwidacji w sądzie i poza sądem. Przepisy art. 119–129 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze stosuje się odpowiednio.
+### 10)
 
-**Art. 74e.**
+instytucjom upoważnionym do gromadzenia, przetwarzania i udostępniania informacji stanowiących tajemnicę bankową, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
 
-1. Bilans otwarcia likwidacji, program likwidacji oraz sprawozdanie z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego.
+### 11)
 
-2. Likwidator, nie rzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego, Bankowemu Funduszowi Gwarancyjnemu, Kasie Krajowej i radzie nadzorczej sprawozdania z przebiegu likwidacji.
+za wyrażoną na piśmie zgodą osoby, której ta informacja dotyczy;
 
-3. Podział pomiędzy członków kasy majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji.
+### 12)
 
-**Art. 74f.**
+Policji, jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwu, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2011 r. Nr 287, poz. 1687](https://api.sejm.gov.pl/eli/acts/DU/2011/1687/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664, 908, 951 i 1529.](#gloss-0:5:));
 
-1. Likwidatorowi przysługuje prawo żądania zmiany treści zobowiązania zaciągniętego przez kasę w okresie roku przed otwarciem likwidacji, jeżeli druga strona uzyskała wierzytelność na warunkach korzystniejszych od stosowanych w tym okresie przez kasę. Powództwo rozpoznaje właściwy miejscowo sąd okręgowy sąd gospodarczy.
+### 13)
 
-2. Likwidator prowadzi likwidację w taki sposób, aby zapewnić zaspokojenie lub przejęcie zobowiązań kasy w likwidacji z tytułu środków gwarantowanych zdeponowanych na rachunkach deponentów, o których mowa w art. 38l pkt 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym.
+na żądanie sądu lub prokuratora w związku z toczącym się postępowaniem o przestępstwo lub przestępstwo skarbowe;
 
-3. Likwidator może potrącić z wierzytelności likwidowanej kasy dług wynikający z rachunku kasy także wtedy, gdy terminy jego spłaty jeszcze nie nastąpiły.
+### 14)
 
-4. Po zakończeniu likwidacji likwidator sporządza sprawozdanie likwidacyjne i składa je Komisji Nadzoru Finansowego, Kasie Krajowej oraz sądowi rejestrowemu z wnioskiem o wykreślenie kasy z rejestru.
+na żądanie sądu w związku z prowadzonym postępowaniem spadkowym lub o podział majątku między małżonkami albo prowadzoną przeciwko osobie fizycznej będącej stroną umowy sprawą o alimenty lub o rentę o charakterze alimentacyjnym, a także innym postępowaniem cywilnym, jeżeli informacje nie dotyczą osób trzecich niebędących stroną postępowania;
 
-**Art. 74g.** W przypadku podjęcia przez Komisję Nadzoru Finansowego decyzji o połączeniu kas, przejęciu kasy albo przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy art. 10 i art. 11 nie stosuje się.
+### 15)
 
-**Art. 74h.**
+na żądanie komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym;
 
-1. W czasie likwidacji wynajmujący lub wydzierżawiający, bez zgody likwidatora, nie może wypowiedzieć umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo kasy w likwidacji, o ile kasa w likwidacji wywiązuje się z zobowiązań określonych w umowie.
+### 16)
 
-2. W przypadku przejęcia kasy albo przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy, wynajmujący lub wydzierżawiający nie może, bez zgody przejmującego, w okresie 6 miesięcy od dnia, w którym nastąpiło przejęcie kasy albo wybranych praw majątkowych lub wybranych zobowiązań kasy, wypowiedzieć umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone zbyte przedsiębiorstwo lub jego część, o ile przejmujący wywiązuje się z zobowiązań określonych w umowie najmu lub dzierżawy.
+na żądanie dyrektora izby celnej, w związku z prowadzoną przez organ celny sprawą o przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko członkowi kasy, o ile informacje mają związek z tą sprawą;
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do umów leasingu, ubezpieczeń majątkowych, umów rachunku bankowego, umów poręczeń i gwarancji bankowych oraz akredytyw, jak również umów obejmujących licencje.
+### 17)
 
-**Art. 74i.**
+na żądanie banku upoważnionego do dokonywania czynności obrotu dewizowego w zakresie ustalenia istnienia wymagalnego zobowiązania stanowiącego podstawę do przekazania za granicę waluty obcej;
 
-1. Przejęcie kasy rozlicza się i ujmuje w księgach rachunkowych kasy albo banku krajowego przejmującego na podstawie sprawozdania finansowego sporządzonego na dzień przejęcia. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przejmowane prawa majątkowe lub zobowiązania praw majątkowych lub wybranych zobowiązań, a także kasy albo banku krajowego przejmującego na podstawie sprawozdania finansowego sporządzonego na dzień przejęcia. Sprawozdanie sporządza przejmujący kasę, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań zarządca komisaryczny.
+### 18)
 
-2. Z dniem przejęcia kasa albo bank krajowy przejmujący wchodzi we wszystkie prawa i obowiązki kasy przejmowanej, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań, następstwo prawne ogranicza się do przejmowanych praw majątkowych i zobowiązań.
+na żądanie Generalnego Inspektora Ochrony Danych Osobowych, w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371.](#gloss-0:6:));
 
-3. Sprawozdanie finansowe, o którym mowa w ust. 1, poddawane jest badaniu przez podmiot uprawniony do badania sprawozdań finansowych.
+### 19)
 
-4. Kasa albo bank krajowy przejmujący zgłosi do właściwego rejestru sądowego przejęcie kasy wraz ze sprawozdaniem finansowym zbadanym przez podmiot uprawniony do badania sprawozdań finansowych. Zarządca komisaryczny kasy, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań, zgłosi do właściwego rejestru sądowego przejęcie wybranych praw majątkowych lub wybranych zobowiązań wraz ze sprawozdaniem finansowym zbadanym przez podmiot uprawniony do badania sprawozdań finansowych.
+na żądanie Prezesa Urzędu Ochrony Konkurencji i Konsumentów w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
 
-5. Kasa albo bank krajowy przejmujący złoży do właściwego rejestru sądowego wniosek o wykreślenie z rejestru przejmowanej kasy.
+### 20)
 
-6. Fundusze własne przejmowanej kasy przeznacza się w pierwszej kolejności na pokrycie strat bilansowych tej kasy.
+na żądanie Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera w zakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki;
 
-7. Po zaspokojeniu lub zabezpieczeniu wierzycieli przejętej kasy z jej majątku, kasa albo bank krajowy przejmujący dokonuje wypłat członkom przejętej kasy z jej pozostałego majątku w proporcji do funduszu udziałowego przejmowanej kasy ustalonego na dzień przejęcia. Wartość prawa do funduszu udziałowego jest ustalana przy uwzględnieniu sprawozdania finansowego kasy przejmowanej sporządzonego za okres sprawozdawczy kończący się w dniu przejęcia.
+### 21)
 
-8. Jeżeli w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy wartość przejmowanych praw majątkowych ustalonych zgodnie z ust. 1 jest wyższa niż wartość przejmowanych zobowiązań, przejmujący w terminie 14 dni od ustalenia wartości zgodnie z ust. 1 jest zobowiązany zapłacić nadwyżkę kasie, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań.
+na żądanie Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Biura Ochrony Rządu i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 
-9. W przypadku gdy przejęcie kasy albo przejęcie wybranych praw majątkowych lub wybranych zobowiązań kasy jest przyczyną szkody dochodzonej na zasadach ogólnych, poszkodowany nie może żądać naprawienia poniesionej szkody poprzez zapłatę kwoty wyższej niż różnica między kwotą, która zostałaby uzyskana w przypadku wydania przez sąd postanowienia o ogłoszeniu upadłości kasy obejmującej likwidację majątku dłużnika, a kwotą uzyskaną w wyniku zaspokojenia wierzytelności lub wartością udziałów ustaloną zgodnie z ust. 1. Ustalenia różnicy kwot, o której mowa w poprzednim zdaniu, dokonuje się przy założeniu, że w dniu przejęcia, określonym zgodnie z art. 74c ust. 7, sąd wydał postanowienie o ogłoszeniu upadłości kasy obejmującej likwidację majątku dłużnika.
+### 22)
 
-**Art. 74j.**
+na żądanie Szefa Centralnego Biura Antykorupcyjnego, w trybie i na zasadach określonych w art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2012 r. poz. 621](https://api.sejm.gov.pl/eli/acts/DU/2012/621/text.html), [627](https://api.sejm.gov.pl/eli/acts/DU/2012/627/text.html) i [664](https://api.sejm.gov.pl/eli/acts/DU/2012/664/text.html));
 
-1. Z dniem określonym w decyzji Komisji Nadzoru Finansowego o przejęciu kasy:
+### 23)
 
-- **1)** zarząd albo zarządca komisaryczny przejmowanej kasy ulegają rozwiązaniu, a kompetencje innych jej organów, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone;
-- **2)** kasa albo bank krajowy przejmujący obejmuje zarząd majątkiem przejmowanej kasy w zakresie określonym decyzją, o której mowa w art. 74c ust. 3 i 4;
-- **3)** wygasają prokury i pełnomocnictwa udzielone przez przejętą kasę.
+na pisemne żądanie Zakładu Ubezpieczeń Społecznych w zakresie sporządzania i przekazywania informacji dotyczących numerów rachunków płatników składek oraz przekazywania danych umożliwiających identyfikację posiadaczy tych rachunków;
 
-2. Kasa albo bank krajowy przejmujący dwukrotnie ogłasza w dziennikach o zasięgu ogólnopolskim i w Monitorze Spółdzielczym decyzję o przejęciu kasy oraz wzywa wierzycieli tej kasy do zgłoszenia roszczeń w terminie miesiąca od daty ostatniego ogłoszenia. Obowiązek ten nie dotyczy wierzycieli z tytułu rachunków. W przypadku braku zgłoszenia roszczenia przez wierzyciela przejmowanej kasy wierzytelność nie przysługuje w stosunku do kasy lub banku krajowego przejmującego.
+### 24)
 
-3. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przepisów ust. 1 i 2 nie stosuje się. przejmujący dwukrotnie ogłasza o takim przejęciu w dzienniku o zasięgu ogólnopolskim i w Monitorze Sądowym i Gospodarczym.
+na pisemne żądanie organu wypłacającego świadczenie z ubezpieczenia społecznego lub zaopatrzenia emerytalnego albo uposażenie w stanie spoczynku w zakresie sporządzania i przekazywania danych umożliwiających identyfikację współposiadacza (współposiadaczy) rachunku wspólnego, na który zostały przekazane świadczenia lub uposażenia za okres po śmierci świadczeniobiorcy;
 
-5. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasa lub bank krajowy przejmujący powiadomi dłużników i wierzycieli przejmowanych praw majątkowych lub zobowiązań o przejęciu:
+### 25)
 
-- **1)** poprzez ogłoszenie na swojej stronie internetowej lub
-- **2)** poprzez ogłoszenie w swojej siedzibie i placówkach, lub
-- **3)** w sposób określony w umowach zawartych z dłużnikami i wierzycielami.
+na żądanie Bankowego Funduszu Gwarancyjnego w zakresie wykonywania przez niego zadań określonych w ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781 oraz z 2012 r. poz. 596 i 1166.](#gloss-0:7:)).
 
-6. Kasa, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań, na wniosek kasy albo banku przejmującego niezwłocznie zamieszcza ogłoszenie, o którym mowa w ust. 5:
+### 2.
 
-- **1)** na swojej stronie internetowej;
-- **2)** w swojej siedzibie i placówkach.
+Zakres oraz zasady udzielania informacji przez kasy organom podatkowym, Generalnemu Inspektorowi Informacji Finansowej oraz organom kontroli skarbowej regulują odrębne przepisy.
 
-**Art. 74k.**
+### 3.
 
-1. Jeżeli na dzień sprawozdawczy określony w przepisach wydanych na podstawie art. 62c ust. 4 aktywa kasy nie wystarczają na zaspokojenie jej zobowiązań, zarząd kasy, zarządca komisaryczny lub likwidator powiadamia o tym niezwłocznie Komisję Nadzoru Finansowego, która podejmuje decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został ustanowiony wcześniej, i może podjąć decyzję o zawieszeniu działalności kasy oraz wystąpić do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy, a także Kasę Krajową. O podjętej decyzji Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny oraz Kasę Krajową. Przepisy art. 73 ust. 3–6b i 8 stosuje się odpowiednio.
+Osoby, organy i podmioty wymienione w ust. 1 i 2, w tym także pracownicy lub członkowie organów tych podmiotów, jeżeli nie są pracownikami, mogą wykorzystywać uzyskane informacje tylko zgodnie z celem ich przekazania. O ile odrębne przepisy nie stanowią inaczej, uzyskane informacje nie mogą być ujawniane innym osobom, organom lub podmiotom.
 
-2. Jeżeli z powodów związanych bezpośrednio z sytuacją finansową kasy nie reguluje ona swoich zobowiązań w zakresie wypłaty środków, o których mowa w art. 38l pkt 2 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, wobec deponentów w rozumieniu art. 38l pkt 1 tej ustawy, Komisja Nadzoru Finansowego – w terminie 5 dni roboczych od dnia stwierdzenia tej okoliczności – podejmuje decyzję, o której mowa w ust. 1. O podjętej decyzji Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny.
+### 4.
 
-3. Decyzję, o której mowa w ust. 1, Komisja Nadzoru Finansowego może podjąć także z własnej inicjatywy, jeżeli nie nastąpi powiadomienie, o którym mowa w ust. 1.
+Kasa nie ponosi odpowiedzialności za szkodę wynikającą z ujawnienia tajemnicy zawodowej przez osoby lub podmioty, którym kasa udzieliła informacji stanowiących tajemnicę zawodową na podstawie przepisów ustawy.
 
-4. Decyzja o zawieszeniu działalności kasy, o której mowa w ust. 1, jest podawana do publicznej wiadomości w drodze ogłoszenia w dzienniku o zasięgu ogólnopolskim i w Monitorze Sądowym i Gospodarczym.
+### Art. 9g.
 
-5. Wniosek o ogłoszenie upadłości kasy może złożyć wyłącznie Komisja Nadzoru Finansowego.
+Przepisy art. 9e i art. 9f stosuje się odpowiednio do Kasy Krajowej, z tym że w zakresie tajemnicy zawodowej uwzględnia się wszystkie informacje wytworzone lub pozyskane od kas w związku z wykonywaniem przez Kasę Krajową działalności określonej w ustawie, o ile ich ujawnienie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą.
 
-**Art. 74l.**
+### Art. 9h.
 
-1. W okresie zawieszenia działalności, o którym mowa w art. 74k ust. 1, kasa:
+Minister właściwy do spraw instytucji finansowych, w drodze rozporządzenia, określi wykaz dokumentów dotyczących działalności gospodarczej przedsiębiorcy zagranicznego, dołączanych do wniosku, o którym mowa w art. 9a ust. 3, mając na uwadze zapewnienie Komisji Nadzoru Finansowego informacji pozwalających na rzetelną i miarodajną ocenę wpływu zawieranej umowy na ostrożne i stabilne zarządzanie kasą.
 
-- **1)** nie reguluje swoich zobowiązań, z wyjątkiem związanych z ponoszeniem uzasadnionych kosztów bieżącej działalności, i nie prowadzi działalności, o której mowa w art. 3 ust. 1 i 1a, a jedynie prowadzi działalność w zakresie windykacji należności oraz realizacji poleceń przelewu na rachunki organów podatkowych;
-- **2)** nie wypłaca środków pochodzących z nadwyżki bilansowej ani oprocentowania wkładów.
+” ;
 
-2. W okresie zawieszenia w stosunku do kasy nie może zostać wszczęte postępowanie egzekucyjne, a wszczęte wcześniej ulega zawieszeniu. Zawieszeniu ulega również egzekucja z rachunków prowadzonych przez tę kasę.
+### 5)
 
-3. Warunki i zakres działalności kasy w okresie zawieszenia określa decyzja, o której mowa w art. 74k ust. 1.
+w art. 12:
 
-**Art. 74m.**
+### a)
 
-1. Bezskuteczne w stosunku do majątku kasy przejmowanej lub kasy w likwidacji są czynności prawne dokonane przez kasę w ciągu roku przed dniem wydania decyzji o przejęciu lub likwidacji, o których mowa w art. 74c ust. 3 i 4, którymi rozporządziła ona swoim majątkiem, jeżeli dokonane zostały nieodpłatnie albo odpłatnie, ale wartość świadczenia kasy przewyższa w rażącym stopniu wartość świadczenia otrzymanego przez kasę lub zastrzeżonego dla kasy lub dla osoby trzeciej.
+ust. 2 otrzymuje brzmienie:
 
-2. Przepis ust. 1 stosuje się odpowiednio do ugody sądowej, uznania powództwa i zrzeczenia się roszczenia.
+„
 
-3. Bezskuteczne są również zabezpieczenie i zapłata długu niewymagalnego, dokonane przez kasę w terminie 2 miesięcy przed dniem wydania decyzji, o których mowa w ust. 1. 6 miesięcy przed dniem przejęcia albo likwidacji, z jej członkami zarządu, pełnomocnikami lub ich małżonkami, jak również z podmiotami powiązanymi w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, ich wspólnikami lub członkami, członkami zarządu, pełnomocnikami zarządu, lub małżonkami tych osób.
+### 2.
 
-2. Przepis ust. 1 stosuje się także do czynności kasy, których dokonała z innym podmiotem, jeżeli jeden z nich był podmiotem dominującym w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439, z późn. zm. ), w dacie dokonania czynności.
+Wkład członkowski jest oprocentowany, jeżeli statut tak stanowi. Zasady ustalania wysokości oprocentowania wkładu członkowskiego i jego zmiany określa statut.
 
-**Art. 74o.**
+” ,
 
-1. Bezskuteczne są obciążenia majątku kasy przejmowanej lub kasy w likwidacji hipoteką, zastawem, zastawem rejestrowym lub hipoteką morską, jeżeli kasa nie była dłużnikiem osobistym zabezpieczonego wierzyciela, a obciążenie to zostało ustanowione w ciągu roku przed dniem decyzji o przejęciu lub likwidacji, o których mowa w art. 74c ust. 3 i 4, i w związku z jego ustanowieniem kasa nie otrzymała żadnego świadczenia.
+### b)
 
-2. Przepis ust. 1 stosuje się odpowiednio, jeżeli zabezpieczenie rzeczowe ustanowione zostało w zamian za świadczenie, które jest niewspółmiernie niskie w stosunku do wartości udzielanego zabezpieczenia.
+ust. 4 otrzymuje brzmienie:
 
-3. Bez względu na wysokość świadczenia otrzymanego przez kasę bezskuteczne są obciążenia, o których mowa w ust. 1 i 2, jeżeli obciążenia te zabezpieczają zobowiązania osób, o których mowa w art. 74n ust. 1.
+„
 
-**Art. 74p.**
+### 4.
 
-1. Bezskuteczna jest umowa przeniesienia własności rzeczy, wierzytelności lub innego prawa majątkowego kasy przejmowanej lub kasy w likwidacji zawarta w celu zabezpieczenia wierzytelności, jeżeli nie została zawarta w formie pisemnej z datą pewną.
+Wkład członkowski nie może być wypłacony przed ustaniem członkostwa. Nie dotyczy to kwot przewyższających obowiązkową wysokość wkładu członkowskiego.
 
-2. Umowa ustanawiająca zabezpieczenie finansowe na podstawie ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2012 r. poz. 942 i 1166) dla swojej skuteczności wobec kasy nie wymaga zachowania formy pisemnej z datą pewną.
+” ;
 
-**Art. 74q.**
+### 6)
 
-1. Jeżeli wynagrodzenie za pracę członka zarządu albo pełnomocnika kasy, w stosunku do której podjęto decyzję, o której mowa w art. 74c ust. 3 i 4, określone w umowie o pracę lub umowie o świadczenie usług zawartej przed dniem decyzji, o których mowa w art. 74c ust. 3 i 4, jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, wynagrodzenie lub jego część przypadające za okres przed tym dniem, nie dłużej jednak niż 6 miesięcy, jest bezskuteczne w stosunku do kasy, chociażby zostało już wypłacone.
+w art. 15 ust. 1 otrzymuje brzmienie:
 
-2. Przepis ust. 1 stosuje się odpowiednio do świadczeń przysługujących w związku z rozwiązaniem stosunku pracy albo umowy o usługi związane z zarządzaniem przedsiębiorstwem kasy.
+„
 
-3. Powództwo odpowiednio likwidatora, kasy lub banku przejmującego o ustalenie wysokości należnego wynagrodzenia rozpoznaje właściwy miejscowo sąd okręgowy sąd gospodarczy.
+### 1.
 
-**Art. 74r.** W sprawach nieuregulowanych w art. 74m–74q do zaskarżenia czynności prawnych kasy przejmowanej lub kasy w likwidacji dokonanych z pokrzywdzeniem wierzycieli, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm. ) o ochronie wierzyciela w razie niewypłacalności dłużnika.
+Kasa i Kasa Krajowa jest obowiązana przeciwdziałać wykorzystaniu swojej działalności dla celów mających związek z przestępstwem, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431 oraz z 2012 r. poz. 611.](#gloss-0:8:)).
 
-**Art. 74s.**
+” ;
 
-1. Nie można uznać czynności za bezskuteczną po upływie dwóch lat od dnia wydania decyzji, o których mowa w art. 74c ust. 3 i 4, chyba że na podstawie przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny uprawnienie to wygasło wcześniej. za bezskuteczną, wówczas to, co wskutek tej czynności ubyło z majątku kasy lub do niego nie weszło, podlega przekazaniu do kasy przejmowanej lub kasy w likwidacji, a gdy przekazanie w naturze jest niemożliwe, do kasy powinna być wpłacona równowartość w pieniądzach. Do chwili przekazania osobie trzeciej nie zwraca się świadczenia wzajemnego.
+### 7)
 
-**Art. 74t.**
+w art. 16 ust. 1 otrzymuje brzmienie:
 
-1. Kasa jest uprawniona do sprzedaży wierzytelności pieniężnych byłych członków wynikających z tytułu udzielonych pożyczek i kredytów po ustaniu członkostwa w kasie zbywającej wierzytelności.
+„
 
-2. Wierzytelności kredytowe kasy są zbywane:
+### 1.
 
-- **1)** w drodze aukcji i przetargu;
-- **2)** na podstawie oferty publicznej;
-- **3)** w wyniku negocjacji podjętych na podstawie publicznego zaproszenia.
+W razie zaistnienia uzasadnionego podejrzenia, że działalność kasy i Kasy Krajowej jest wykorzystywana w celu ukrycia działań przestępczych lub dla celów mających związek z przestępstwem skarbowym lub innym przestępstwem niż przestępstwo, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny - kasa lub Kasa Krajowa zawiadamia o tym prokuratora, Policję albo inny właściwy organ uprawniony do prowadzenia postępowania przygotowawczego.
 
-3. Nabywcą niewymagalnych wierzytelności kredytowych kas może być:
+” ;
 
-- **1)** kasa;
-- **2)** bank krajowy.
+### 8)
 
-4. Umowa sprzedaży wierzytelności powinna być zawarta w formie pisemnej pod rygorem nieważności.
+po art. 16 dodaje się art. 16a w brzmieniu:
 
-5. W przypadku nabycia wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym sąd prowadzący księgę wieczystą lub rejestr zastawów, na wniosek nabywcy o wpis zmiany dotychczasowego wierzyciela, dokonuje wpisu w księdze wieczystej lub w rejestrze zastawów o zmianie wierzyciela, na rzecz którego była ustanowiona hipoteka lub zastaw rejestrowy. Nabywca, składając wniosek do sądu, dołącza wyciąg z ksiąg rachunkowych, podpisany przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych nabywcy, opatrzony pieczęcią nabywcy, potwierdzający nabycie wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym.
+„
 
-**Art. 74u.** W przypadku gdy decyzja o likwidacji kasy została podjęta przez jej członków, likwidacja prowadzona jest zgodnie z zasadami obowiązującymi przy likwidacji spółdzielni, z tym że:
+### Art. 16a.
 
-#### Rozdział 6c Przepisy karne
+Na żądanie blokady rachunku, o którym mowa w art. 75e ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej ([Dz. U. Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016 oraz z 2012 r. poz. 362, 627, 707, 908 i 1544.](#gloss-0:9:)), kasa jest obowiązana do uniemożliwienia dysponowania i korzystania ze wszystkich wartości majątkowych zgromadzonych na rachunku członka kasy przez okres 72 godzin od momentu otrzymania żądania. Kasa nie ponosi odpowiedzialności za szkodę, która może wyniknąć z wykonania w dobrej wierze tego żądania.
 
-**Art. 74v.** Kto, jako członek zarządu kasy, będąc obowiązanym do podania Komisji Nadzoru Finansowego albo Bankowemu Funduszowi Gwarancyjnemu informacji dotyczącej kasy i jej członków w zakresie określonym w ustawie, podaje nieprawdziwe lub zataja prawdziwe dane będące w jego posiadaniu, podlega grzywnie do 1 000 000 zł i karze pozbawienia wolności do lat 2.
+” ;
 
-**Art. 74w.**
+### 9)
 
-1. Kto, będąc obowiązanym do zachowania w tajemnicy informacji, o których mowa w art. 9e ust. 1 lub art. 9g, ujawnia je niezgodnie z upoważnieniem określonym w ustawie, podlega grzywnie do 500 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+uchyla się art. 17;
 
-2. Jeżeli sprawca dopuszcza się czynu, o którym mowa w ust. 1, w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”;
+### 10)
 
-- **43)** uchyla się art. 75–80. poz. 397, z późn. zm. ) wprowadza się następujące zmiany:
-- **1)** w art. 12 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) w spółdzielczych kasach oszczędnościowo-kredytowych – kwota stanowiąca równowartość rozwiązanych lub zmniejszonych odpisów aktualizujących, o których mowa w art. 16 ust. 1 pkt 26b, zaliczonych uprzednio do kosztów uzyskania przychodów;”;
-- **2)** w art. 16:
-    - **a)** w ust. 1 po pkt 26a dodaje się pkt 26b w brzmieniu: „26b) w spółdzielczych kasach oszczędnościowo-kredytowych odpisów aktualizujących wartość należności, z wyjątkiem odpisów aktualizujących wartość należności z tytułu udzielonych pożyczek i kredytów, utworzonych zgodnie z przepisami o rachunkowości, pomniejszonych o wartość odpisów aktualizujących dotyczącą odsetek od tych pożyczek i kredytów, których nieściągalność została uprawdopodobniona na podstawie ust. 2a pkt 3;”,
-    - **b)** w ust. 2a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) w przypadku określonym w ust. 1 pkt 26b, jeżeli:
-    - **a)** spełniony jest warunek określony w pkt 1 lit. a lub
-    - **b)** zostało wszczęte postępowanie upadłościowe z możliwością zawarcia układu w rozumieniu przepisów prawa upadłościowego i naprawczego, lub
-    - **c)** opóźnienie w spłacie kapitału pożyczki i kredytu lub odsetek od tych należności przekracza 6 miesięcy, a ponadto: – spełniony jest warunek określony w pkt 1 lit. d albo – wierzytelność została skierowana na drogę postępowania egzekucyjnego, albo – miejsce pobytu dłużnika jest nieznane i nie został ujawniony jego majątek mimo podjęcia przez spółdzielczą kasę oszczędnościowo-kredytową działań zmierzających do ustalenia tego miejsca i majątku.”,
-    - **c)** po ust. 2d dodaje się ust. 2e w brzmieniu: „2e. W spółdzielczych kasach oszczędnościowo-kredytowych podstawę dokonywania odpisów aktualizujących, o których mowa w ust. 1 pkt 26b, pomniejsza się o wartość zabezpieczeń wymienionych w ust. 2b w takim zakresie, w jakim kasa pomniejszy podstawę tworzenia odpisów aktualizujących zaliczanych do kosztów na podstawie przepisów ustawy o rachunkowości.”.
+w art. 18:
 
-**Art. 3.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2013 r. poz. 330) w art. 81 w ust. 2 w pkt 8 lit. d otrzymuje brzmienie: „d) szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym: – zakres informacji wykazywanych w sprawozdaniu finansowym, – zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących – uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych;”. z późn. zm. ) wprowadza się następujące zmiany:
+### a)
 
-**Art. 13b.**
+ust. 4 otrzymuje brzmienie:
 
-1. Dla celów ewidencyjnych fundusz kas dzieli się na fundusz kas do wykorzystania i fundusz kas wykorzystany.
+„
 
-2. Udzielone z funduszu kas przez Fundusz pożyczki, zrealizowane gwarancje, poręczenia i nabyte wierzytelności, wydatki na nabycie lub objęcie akcji, zmniejszają stan funduszu kas do wykorzystania, powiększając fundusz kas wykorzystany. Dotacje, o których mowa w art. 20g ust. 2 pkt 4, odpisy aktualizujące aktywa nabyte lub objęte z funduszu kas oraz rezerwy na gwarancje i poręczenia zmniejszają fundusz kas do wykorzystania, z uwzględnieniem art. 38r ust. 1.
+### 4.
 
-3. Spłata pożyczek oraz kwoty uzyskane z tytułu wierzytelności wynikających z udzielonych gwarancji i poręczeń, a także sprzedaż nabytych uprzednio wierzytelności oraz nabytych lub objętych akcji, zwiększają stan funduszu kas do wykorzystania, zmniejszając fundusz kas wykorzystany. Rozwiązanie rezerw na gwarancje lub poręczenia, rozwiązanie odpisów aktualizujących aktywa nabyte lub objęte z funduszu kas, otrzymane przez Fundusz spłaty roszczeń, o których mowa w art. 20j, oraz otrzymane przez Fundusz środki przekazane przez Kasę Krajową ze środków funduszu stabilizacyjnego zwiększają fundusz kas do wykorzystania, z uwzględnieniem art. 13c ust. 6.
+Członkowie zarządu kasy powinni dawać rękojmię ostrożnego i stabilnego zarządzania kasą, przy czym co najmniej 2 członków zarządu musi posiadać co najmniej wykształcenie średnie oraz kwalifikacje i doświadczenie niezbędne do kierowania kasą.
 
-4. W celu zabezpieczenia należności uznanych za zagrożone z tytułu udzielonych pożyczek, gwarancji i poręczeń, a także nabytych wierzytelności Fundusz tworzy odpisy aktualizujące zmniejszające stan funduszu kas do wykorzystania.
+” ,
 
-5. Rozwiązanie odpisów aktualizujących, o których mowa w ust. 4, zwiększa stan funduszu kas do wykorzystania.
+### b)
 
-6. Wypłata środków z funduszu kas następuje na podstawie uchwały Zarządu Funduszu o udzieleniu pomocy lub wsparcia.
+uchyla się ust. 5;
 
-7. Zwiększenia wartości akcji notowanych na rynku regulowanym, w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, objętych lub nabytych w ramach realizacji zadań, o których mowa w art. 4 ust. 1d pkt 4, powyżej ceny nabycia oraz zmniejszenia wartości akcji do poziomu ceny nabycia ujmowane są w rachunku zysków i strat, z zastrzeżeniem ust. 9.
+### 11)
 
-8. Zmniejszenia wartości akcji objętych lub nabytych poniżej ceny nabycia (skorygowanej ceny nabycia) oraz zwiększenia wartości akcji do poziomu ceny nabycia (skorygowanej ceny nabycia) ujmowane są odpowiednio jako zmniejszenia i zwiększenia funduszu kas, z zastrzeżeniem ust. 9.
+w art. 24:
 
-9. Przychody z tytułu dywidend ujmuje się w rachunku zysków i strat.
+### a)
 
-10. Przepisy ust. 7 i 8 stosuje się do zysków i strat ze zbycia objętych lub nabytych akcji.
+ust. 2 otrzymuje brzmienie:
 
-**Art. 13c.**
+„
 
-1. Kasy wnoszą na rzecz Funduszu obowiązkowe opłaty roczne w wysokości iloczynu stawki nieprzekraczającej 0,3% i wartości aktywów oraz zobowiązań pozabilansowych ustalonych na dzień określony przez Radę Funduszu.
+### 2.
 
-2. Wysokość stawki, o której mowa w ust. 1, na kolejny rok określa na wniosek Zarządu Funduszu i przekazuje kasom Rada Funduszu, nie później niż do końca roku kalendarzowego poprzedzającego rok, w którym opłata ma być wniesiona. później niż do dnia 31 marca każdego roku.
+Funduszami własnymi kasy są:
 
-4. Wniesiona opłata roczna, o której mowa w ust. 1, stanowi koszt uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+### 1)
 
-5. Z dniem spełnienia warunku gwarancji przez kasę jest ona zwolniona z obowiązku wnoszenia opłat rocznych, o których mowa w ust. 1.
+fundusz udziałowy - powstający z wpłat udziałów członkowskich;
 
-6. Obowiązkowe opłaty roczne, o których mowa w ust. 1, dotacje na potrzeby funduszu kas udzielone na wniosek Funduszu z budżetu państwa na zasadach określonych w przepisach o finansach publicznych, oraz dotacje udzielone przez Kasę Krajową zwiększają fundusz kas.
+### 2)
 
-7. Z tytułu opóźnienia w dokonywaniu opłat rocznych, o których mowa w ust. 1, Funduszowi przysługują odsetki w wysokości odsetek pobieranych od zaległości podatkowych.
+fundusz zasobowy - powstający z wpłat wpisowego wnoszonego przez członków oraz nadwyżki bilansowej;
 
-**Art. 13d.** Wyciągi z ksiąg Funduszu dotyczące funduszu kas, podpisane przez upoważnionych członków Zarządu Funduszu i opatrzone jego pieczęcią, stwierdzające istnienie zobowiązania kasy na rzecz Funduszu i zaopatrzone w oświadczenie, że oparte na nich roszczenia są wymagalne, mają moc tytułów wykonawczych bez potrzeby uzyskiwania dla nich klauzul wykonalności. Przepisy art. 37 ust. 2–4 stosuje się odpowiednio.”;
+### 3)
 
-**Art. 20c.**
+fundusz z aktualizacji wyceny rzeczowych aktywów trwałych - utworzony na podstawie odrębnych przepisów;
 
-1. Realizując zadania, o których mowa w art. 4 ust. 1d pkt 1, Fundusz może udzielać kasom objętym systemem gwarantowania pożyczek, gwarancji lub poręczeń. gwarancji lub poręczeń, o których mowa w ust. 1, mogą być przeznaczone tylko na usunięcie niebezpieczeństwa niewypłacalności, o ile spełnione zostały warunki, o których mowa w art. 20d.
+### 4)
 
-3. Fundusz może udzielić pożyczki kasie tylko w celu zaliczenia uzyskanych w ten sposób środków do funduszy własnych.
+za zgodą Komisji Nadzoru Finansowego, zobowiązania z tytułu przyjęcia przez kasę (zobowiązania podporządkowane) otrzymanych z:
 
-4. Do gwarancji, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące gwarancji udzielanych przez banki.
+### a)
 
-**Art. 20d.** Warunkiem udzielenia przez Fundusz pomocy, o której mowa w art. 4 ust. 1d pkt 1 i 2, jest w szczególności:
+funduszu stabilizacyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20% tej kwoty - środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki:
 
-**Art. 20e.**
+- - środki pieniężne przyjęto na okres co najmniej 5 lat,
 
-1. Komisja Nadzoru Finansowego informuje niezwłocznie Zarząd Funduszu o wystąpieniu konieczności wszczęcia przez zarząd kasy postępowania naprawczego, o którym mowa w art. 72a ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+- - środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5,
 
-2. Fundusz, na swój wniosek skierowany do Komisji Nadzoru Finansowego, jest ustanawiany kuratorem, o którym mowa w art. 72c ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w stosunku do kasy objętej systemem gwarantowania. Funduszowi nie przysługuje wynagrodzenie, o którym mowa w art. 72c ust. 11 tej ustawy.
+- - środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji,
 
-3. Do wierzytelności Funduszu związanych z udzieleniem pomocy i wsparcia, o których mowa w art. 4 ust. 1d, stosuje się przepisy Kodeksu cywilnego oraz innych ustaw regulujących rodzaje i sposoby zabezpieczeń wierzytelności banków.
+- - zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
 
-4. Czynności cywilnoprawne, poprzez które dochodzi do realizacji zadań, o których mowa w art. 4 ust. 1d, wolne są od opłaty skarbowej oraz podatku od czynności cywilnoprawnych.
+### b)
 
-**Art. 20f.** Kasa objęta systemem gwarantowania, korzystająca z pomocy Funduszu, jest obowiązana udzielać na żądanie Funduszu informacji niezbędnych do wykonywania działań, o których mowa w art. 4 ust. 1d pkt 5 i 6.
+innych źródeł w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20% tej kwoty - środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki:
 
-**Art. 20g.**
+- - środki pieniężne przyjęto na okres co najmniej 5 lat,
 
-1. Realizując zadania, o których mowa w art. 4 ust. 1d pkt 3, Fundusz może udzielać wsparcia podmiotom przejmującym kasy, przejmującym wybrane prawa majątkowe lub wybrane zobowiązania kasy lub nabywcom przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych. Wsparcie może zostać udzielone również bankowi, o którym mowa w art. 4 ust. 1h.
+- - środki pieniężne mogą być wycofane z kasy na jej wniosek przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5,
 
-2. Wsparcie, o którym mowa w ust. 1, może nastąpić poprzez:
+- - środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji,
 
-- **1)** objęcie akcji banku przejmującego;
-- **2)** udzielenie pożyczki lub gwarancji;
-- **3)** udzielenie gwarancji całkowitego lub częściowego pokrycia strat wynikających z ryzyka związanego z przejmowanymi lub nabywanymi prawami majątkowymi lub przejmowanymi zobowiązaniami;
-- **4)** udzielenie dotacji na pokrycie różnicy między wartością przejmowanych lub nabywanych praw majątkowych i przejmowanych zobowiązań z tytułu środków gwarantowanych na rachunkach deponentów kasy do wysokości łącznej maksymalnej kwoty z tytułu gwarancji w kasie liczonej jako suma środków gwarantowanych na niewypłacalności.
+- - zwrot środków pieniężnych nie jest zabezpieczony przez kasę bezpośrednio lub pośrednio,
 
-3. W przypadku, o którym mowa w ust. 2 pkt 1, przepisu art. 25 ust. 1 ustawy – Prawo bankowe nie stosuje się.
+### c)
 
-**Art. 20h.** Warunkiem udzielenia przez Fundusz wsparcia, o którym mowa w art. 4 ust. 1d pkt 3, jest w szczególności:
+Bankowego Funduszu Gwarancyjnego w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Finansowego, wydanej na wniosek kasy, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20% tej kwoty - środków pieniężnych spełniających, zgodnie z umową, łącznie następujące warunki:
 
-**Art. 20i.** Podmiot korzystający ze wsparcia Funduszu jest obowiązany udzielać na żądanie Funduszu informacji niezbędnych do oceny ryzyka zwrotu udzielonego wsparcia lub strat związanych z nabywanymi lub przejmowanymi prawami majątkowymi lub zobowiązaniami.
+- - środki pieniężne przyjęto na okres co najmniej 5 lat,
 
-**Art. 20j.** Z tytułu udzielenia wsparcia, o którym mowa w art. 20g ust. 2 pkt 3 i 4, Funduszowi przysługuje roszczenie w stosunku do kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań lub o likwidacji, a w przypadku ogłoszenia upadłości kasy do jej masy upadłości.”;
+- - środki pieniężne mogą być wycofane z kasy, na jej wniosek, przed upływem okresu umowy za zgodą Komisji Nadzoru Finansowego, z zachowaniem wymogu, o którym mowa w ust. 5,
 
-**Art. 38l.** Użyte w rozdziale określenia oznaczają:
+- - środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości kasy lub jej likwidacji;
 
-**Art. 38m.** W przypadku prowadzenia przez kasę jednego rachunku dla kilku osób (rachunek wspólny) deponentem jest każda z tych osób w granicach określonych w umowie rachunku, a w przypadku braku postanowień umownych lub przepisów w tym zakresie – w częściach równych.
+### 5)
 
-**Art. 38n.** Celem obowiązkowego systemu gwarantowania środków pieniężnych zgromadzonych w kasach, zwanego dalej „systemem gwarantowania kas”, jest zapewnienie deponentom wypłaty, do wysokości określonej ustawą, środków gwarantowanych w razie ich niedostępności.
+za zgodą Komisji Nadzoru Finansowego, dodatkowa kwota odpowiedzialności członków, w części określonej przez Komisję Nadzoru Finansowego, przy czym suma kwoty dodatkowej odpowiedzialności członków, o której mowa w art. 26 ust. 3, i kwoty, o której mowa w pkt 4, nie może przewyższać 50% sumy funduszu udziałowego i funduszu zasobowego;
 
-**Art. 38o.**
+### 6)
 
-1. Podmiotami stosunku gwarancji są:
+niezrealizowane zyski na instrumentach dłużnych zaklasyfikowanych, zgodnie z odrębnymi przepisami, jako dostępne do sprzedaży;
 
-- **1)** Fundusz;
-- **2)** deponent. nabywa on w stosunku do Funduszu, na warunkach określonych w ustawie, uprawnienie do świadczenia pieniężnego.
+### 7)
 
-3. Fundusz dokonuje wypłat deponentom ze środków, o których mowa w art. 38r.
+niezrealizowane zyski na instrumentach kapitałowych zaklasyfikowanych, zgodnie z odrębnymi przepisami, jako dostępne do sprzedaży.
 
-4. Świadczenie pieniężne, o którym mowa w ust. 2, jest płatne w złotych, w terminie 20 dni roboczych od dnia spełnienia warunku gwarancji, z zastrzeżeniem ust. 5.
+” ,
 
-5. W przypadku wystąpienia okoliczności uniemożliwiających wypłatę świadczenia pieniężnego w terminie określonym w ust. 4, w szczególności ze względu na nieprawidłowości w prowadzeniu ksiąg rachunkowych kasy lub nieprawidłowości w funkcjonowaniu systemu wyliczania, Komisja Nadzoru Finansowego przedłuża, na wniosek Zarządu Funduszu, termin wypłat, nie dłużej jednak niż o 10 dni roboczych liczonych od dnia, w którym upływa termin, o którym mowa w ust. 4.
+### b)
 
-6. W sprawie wniosku, o którym mowa w ust. 5, Komisja Nadzoru Finansowego podejmuje decyzję w terminie 2 dni roboczych od dnia wniesienia wniosku.
+po ust. 2 dodaje się ust. 2a w brzmieniu:
 
-7. Fundusz nie ponosi odpowiedzialności za wypłatę środków gwarantowanych osobom nieuprawnionym ani wypłatę środków gwarantowanych w niewłaściwej wysokości, dokonanych zgodnie z listą deponentów, a także za niedokonanie wypłaty osobie uprawnionej w wyniku nieujawnienia jej na tej liście.
+„
 
-8. Członkowie Zarządu Funduszu działający z należytą starannością nie ponoszą odpowiedzialności za szkodę wynikłą z niewłaściwej realizacji wypłat środków gwarantowanych.
+### 2a.
 
-9. Fundusz nie ponosi odpowiedzialności za niedokonanie wypłaty środków gwarantowanych w terminach określonych w ustawie, jeżeli było to spowodowane siłą wyższą.
+Pozycje, o których mowa w ust. 2 pkt 6 i 7, ujmuje się w wysokości równej wartości bilansowej.
 
-**Art. 38p.**
+” ,
 
-1. Środki gwarantowane objęte są obowiązkowym systemem gwarantowania kas od dnia ich wniesienia na rachunek prowadzony przez kasę nie później niż w dniu poprzedzającym dzień spełnienia warunku gwarancji, a w przypadku należności wynikających z czynności, o których mowa w art. 3 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, o ile czynności te zostały dokonane przed dniem spełnienia warunku gwarancji – do wysokości (łącznie z odsetkami naliczonymi do dnia spełnienia warunku gwarancji, zgodnie z oprocentowaniem wskazanym w umowie niezależnie od terminu ich wymagalności) równowartości w złotych 100 000 euro – w 100%.
+### c)
 
-2. Do obliczenia równowartości euro w złotych przyjmuje się kurs średni z dnia spełnienia warunku gwarancji ogłaszany przez Narodowy Bank Polski.
+ust. 3 otrzymuje brzmienie:
 
-3. Kwota, o której mowa w ust. 1, określa maksymalną wysokość roszczeń deponenta w stosunku do Funduszu, niezależnie od tego, w jakiej wysokości i na ilu rachunkach posiadał środki pieniężne lub z ilu wierzytelności przysługują mu należności w danej kasie.
+„
 
-4. Roszczenia z tytułu gwarancji przedawniają się po upływie 5 lat od dnia spełnienia warunku gwarancji.
+### 3.
 
-**Art. 38q.** Deponent nie traci prawa do dochodzenia swych roszczeń od kasy ponad kwotę określoną w art. 38p ust. 1.
+Fundusze własne pomniejsza się o:
 
-**Art. 38r.**
+### 1)
 
-1. Wypłaty środków gwarantowanych dokonywane są przez Fundusz ze środków funduszu kas do wykorzystania.
+stratę z lat ubiegłych;
 
-2. W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa środki funduszu kas do wykorzystania Fundusz dokonuje wypłat środków gwarantowanych ze środków przekazanych przez Kasę Krajową z funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, na zasadach określonych w art. 55 ust. 1a tej ustawy.
+### 2)
 
-3. W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa sumę środków, o których mowa w ust. 1 i 2, Fundusz pokrywa pozostającą do wypłaty kwotę zobowiązań z dotacji lub pożyczki z budżetu państwa lub z dotacji lub pożyczki z Kasy Krajowej lub z innych funduszy własnych, na zasadach określonych przez Radę Funduszu, z wyłączeniem:
+stratę w trakcie zatwierdzania;
 
-- **1)** części funduszu własnego, tworzonego w celu zapewnienia środków na nabycie rzeczowego majątku trwałego;
-- **2)** funduszy własnych utworzonych wyłącznie w celu ewidencjonowania środków pieniężnych uzyskiwanych na podstawie odrębnych ustaw;
-- **4)** niezatwierdzonego zysku z lat ubiegłych;
-- **5)** zysku roku obrotowego.
+### 3)
 
-4. Po wyczerpaniu środków, o których mowa w ust. 1–3, w sytuacji wystąpienia zagrożenia stabilności finansowej oraz w celu pokrycia pilnych potrzeb Funduszu Narodowy Bank Polski, na wniosek Zarządu Funduszu, może udzielić Funduszowi kredytu krótkoterminowego pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+stratę bieżącego okresu;
 
-5. Minister właściwy do spraw instytucji finansowych może, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Funduszu i Przewodniczącego Komisji Nadzoru Finansowego, podwyższyć wysokość stawki opłaty rocznej na rok bieżący, nie więcej jednak niż do wysokości 0,6%, w przypadku wyczerpania się środków, o których mowa w ust. 1, określając dzień, na który oblicza się wysokość oraz termin wniesienia opłat i uwzględniając w szczególności wysokość niezaspokojonych zobowiązań Funduszu.
+### 4)
 
-**Art. 38s.**
+zaangażowania kapitałowe kasy w instytucje finansowe, instytucje kredytowe, banki krajowe, banki zagraniczne, zakłady ubezpieczeń i zakłady reasekuracji, kasy, w postaci:
 
-1. Z tytułu wypłaty środków gwarantowanych Funduszowi przysługuje roszczenie do kasy, w przypadku której nastąpiło spełnienie warunku gwarancji, o zapłatę kwot odpowiadających wysokości sumy środków gwarantowanych. Funduszowi przysługuje roszczenie także po ogłoszeniu upadłości kasy.
+### a)
 
-2. Wypłata środków gwarantowanych pomniejsza proporcjonalnie poszczególne wierzytelności deponenta będące podstawą wyliczenia środków gwarantowanych.
+posiadanych akcji lub udziałów,
 
-**Art. 38t.**
+### b)
 
-1. Na Fundusz przechodzą wierzytelności przysługujące deponentowi w stosunku do masy upadłości, w wysokości środków gwarantowanych.
+kwot zakwalifikowanych na podstawie ustawy albo odrębnych przepisów do zobowiązań podporządkowanych,
 
-2. W przypadku nabycia przedsiębiorstwa kasy w trybie art. 437 ust. 2 i 3 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze na nabywcę nie przechodzą zobowiązania wynikające z wierzytelności Funduszu, o których mowa w ust. 1.
+### c)
 
-3. Kwoty uzyskane przez Fundusz z masy upadłości kasy zasilają fundusz kas.
+innego zaangażowania kapitałowego w składniki zaliczane do funduszy własnych lub kapitałów tych podmiotów, w tym dopłaty na rzecz spółki z ograniczoną odpowiedzialnością, według wartości bilansowej
 
-**Art. 38u.**
+- z zastrzeżeniem ust. 3a i 3b;
 
-1. W przypadku spełnienia warunku gwarancji zarządca komisaryczny, po ustaleniu stanu ksiąg rachunkowych kasy na dzień spełnienia warunku gwarancji, sporządza listę deponentów.
+### 5)
 
-2. Zarządca komisaryczny kasy jest odpowiedzialny za sporządzenie listy deponentów zgodnie z przepisami wydanymi na podstawie art. 38zq.
+brakującą kwotę odpisów aktualizujących na należności związane z działalnością kasy, rozumianą jako różnica pomiędzy wymaganym odrębnymi przepisami a faktycznym poziomem odpisów aktualizujących kasy;
 
-**Art. 38v.**
+### 6)
 
-1. Zarząd Funduszu sprawuje bieżącą kontrolę przygotowania przez zarządcę komisarycznego listy deponentów.
+niezrealizowane straty na instrumentach dłużnych zaklasyfikowanych jako dostępne do sprzedaży;
 
-2. Kontrola, o której mowa w ust. 1, obejmuje w szczególności dane deponentów znajdujące się na liście deponentów.
+### 7)
 
-3. W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi są udostępniane dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach.
+niezrealizowane straty na instrumentach kapitałowych zaklasyfikowanych jako dostępne do sprzedaży;
 
-4. Fundusz przetwarza dane osobowe deponentów w zakresie niezbędnym do realizacji zadań określonych w ustawie.
+### 8)
 
-5. O nieprawidłowościach ujawnionych w toku kontroli, o której mowa w ust. 1, Fundusz zawiadamia Komisję Nadzoru Finansowego, wzywając zarządcę komisarycznego do ich usunięcia.
+inne pomniejszenia funduszy własnych kasy.
 
-**Art. 38w.**
+” ,
 
-1. Zarządca komisaryczny kasy niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia spełnienia warunku gwarancji, przekazuje Funduszowi listę deponentów.
+### d)
 
-2. W przypadku uzasadnionych wątpliwości co do poprawności poszczególnych danych na liście deponentów Fundusz dokonuje odpowiednich wypłat niezwłocznie po potwierdzeniu poprawności danych przez zarządcę komisarycznego kasy.
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
 
-**Art. 38x.**
+„
 
-1. Wypłat środków gwarantowanych dokonuje w imieniu i na rachunek Funduszu zarządca komisaryczny lub podmiot, z którym Zarząd Funduszu zawrze umowę o dokonanie wypłat środków gwarantowanych. Decyzję w tym zakresie podejmuje Zarząd Funduszu. Przy wyborze trybu wypłaty środków gwarantowanych Zarząd wypłat, a także poziom kosztów przewidzianych do poniesienia w celu wypłaty środków gwarantowanych.
+### 3a.
 
-2. Zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych, Zarząd Funduszu przekazuje listę wypłat, zawierającą dane niezbędne do dokonywania wypłat.
+Pomniejszeniem funduszy własnych, o którym mowa w ust. 3 pkt 4, jest zaangażowanie kapitałowe kasy w danym podmiocie, w przypadku gdy podmiotem tym jest:
 
-3. Zarząd Funduszu sprawuje bieżącą kontrolę dokonywania wypłat środków gwarantowanych. W przypadku wypłat dokonywanych przez zarządcę komisarycznego przepisy art. 38v ust. 5 stosuje się odpowiednio.
+### 1)
 
-**Art. 38y.** W przypadku ogłoszenia upadłości w trakcie dokonywania przez zarządcę komisarycznego wypłat, o których mowa w art. 38x ust. 1, obowiązki związane z kontynuacją wypłat realizuje zarządca lub syndyk.
+bank krajowy, bank zagraniczny, instytucja kredytowa lub instytucja finansowa, kasa, a przy tym:
 
-**Art. 38z.**
+### a)
 
-1. Zarząd Funduszu określa, w drodze uchwały:
+zaangażowanie stanowi więcej niż 10% kapitału (funduszy własnych) tego podmiotu albo
 
-- **1)** informacje o podmiocie, za pośrednictwem którego będą realizowane wypłaty środków gwarantowanych;
-- **2)** sposób dokonywania wypłat środków gwarantowanych;
-- **3)** kwotę stanowiącą sumę środków gwarantowanych przekazywaną podmiotowi, o którym mowa w pkt 1, na wypłaty środków gwarantowanych.
+### b)
 
-2. Zarząd Funduszu, określając na podstawie ust. 1 pkt 2 sposób dokonywania wypłat, ustala także zasady i tryb stwierdzania tożsamości deponenta, a w szczególności:
+zaangażowanie stanowi nie więcej niż 10% kapitału (funduszy własnych) tego podmiotu i łącznie z innymi zaangażowaniami kapitałowymi kasy w banki krajowe, banki zagraniczne, instytucje kredytowe i instytucje finansowe, kasy nieprzekraczającymi 10% kapitału (funduszy własnych) tych podmiotów indywidualnie stanowi więcej niż 10% funduszy własnych kasy przed pomniejszeniem ich o pozycje określone w ust. 3 pkt 4;
 
-- **1)** dane identyfikujące deponenta, których umieszczenie na liście deponentów jest niezbędne do ustalenia tożsamości deponenta przez podmiot dokonujący wypłat, mając na uwadze powszechność posługiwania się tymi danymi przez deponentów, możliwość dokonania za pomocą tych danych jednoznacznej identyfikacji deponenta;
-- **2)** rodzaje dokumentów stwierdzających tożsamość, za pomocą których podmiot dokonujący wypłat będzie identyfikował deponentów ubiegających się o wypłatę świadczeń gwarantowanych.
+### 2)
 
-3. Uchwałę, o której mowa w ust. 1, Zarząd Funduszu podaje do publicznej wiadomości, w drodze ogłoszenia w dzienniku o zasięgu ogólnokrajowym, oraz przekazuje kasom i zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych. Art. 38za. Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 38z ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości oraz nie podlegają egzekucji sądowej ani administracyjnej. Art. 38zb. 1. Koszty czynności związanych z przygotowaniem i dokonaniem wypłat środków gwarantowanych obciążają kasę, w przypadku której nastąpiło spełnienie warunku gwarancji.
+zakład ubezpieczeń lub zakład reasekuracji, a zaangażowanie stanowi co najmniej 20% kapitału zakładowego tego podmiotu lub pozwala na wykonywanie co najmniej 20% głosów w organach tego podmiotu.
 
-2. W przypadku realizacji wypłat przez podmiot, z którym Fundusz zawarł odpowiednią umowę w tym zakresie, Fundusz pokrywa koszty tych czynności.
+### 3b.
 
-3. Z tytułu kosztów, o których mowa w ust. 2, Funduszowi przysługuje roszczenie do kasy, o której mowa w ust. 1.
+W przypadku pośredniego zaangażowania kapitałowego kasy poprzez instytucje niefinansowe, zaangażowanie kapitałowe kasy oblicza się jako udział zaangażowania kapitałowego jednostki dominującej niższego szczebla w bank krajowy, bank zagraniczny, instytucję kredytową, instytucję finansową lub kasę proporcjonalny do udziału zaangażowania kapitałowego kasy w kapitale (funduszu) podstawowym tej jednostki, nieprzekraczający zaangażowania kapitałowego kasy w podmiot zależny. Zasadę tę stosuje się odpowiednio, w przypadku gdy pośrednie powiązania pomiędzy kasą a bankiem krajowym, bankiem zagranicznym, instytucją kredytową, instytucją finansową lub kasą mają charakter wielopoziomowy.
 
-4. Po ogłoszeniu upadłości kasy, o której mowa w ust. 1, przepis ust. 3 stosuje się odpowiednio. Art. 38zc. Po zakończeniu wypłat podmiot, o którym mowa w art. 38z ust. 1 pkt 1, lub zarządca albo syndyk, w terminie 5 dni roboczych od ostatniego dnia wypłat, dokonuje rozliczenia przeprowadzonych wypłat, przekazując Funduszowi w szczególności:
+” ,
 
-- **1)** listę wypłat wraz z oznaczeniem świadczeń wypłaconych i niewypłaconych;
-- **2)** dokumentację potwierdzającą dokonanie wypłat;
-- **3)** niewypłacone kwoty. Art. 38zd. 1. Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania listy deponentów uzupełnionej przez zarządcę albo syndyka lub po ustaleniu listy wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec kasy, w przypadku której nastąpiło spełnienie warunku gwarancji. kasy Zarząd Funduszu zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu. Art. 38ze. 1. Jeżeli w dniu spełnienia warunku gwarancji uprawnienia z tytułu środków gwarantowanych przysługiwały następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, i – niezależnie od przyczyny faktycznej lub prawnej – nie zostały wykazane w systemie wyliczania kasy jako uprawnienia innej osoby lub innych osób, Fundusz jest obowiązany do spełnienia wyłącznie jednego świadczenia gwarancyjnego z tytułu środków gwarantowanych, na rzecz następcy lub następców prawnych lub osób, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+### e)
 
-2. W przypadku, o którym mowa w ust. 1:
+uchyla się ust. 4,
 
-- **1)** wysokość świadczenia zostaje określona bez uwzględnienia środków gwarantowanych, jakie mogą przysługiwać następcom prawnym oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, z tytułu czynności dokonanych odrębnie od czynności będących podstawą powstania środków gwarantowanych poprzednika prawnego;
-- **2)** uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasady dysponowania majątkiem, jaki należał do poprzednika prawnego. Art. 38zf. Jeżeli w dniu wypłaty środków gwarantowanych przysługiwały one wyłącznie deponentowi, a następnie weszły do majątku, do którego uprawnienia przysługują następcy lub następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasadami dysponowania majątkiem, jaki należał do poprzednika prawnego. Art. 38zg. 1. W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, zawiesza się wypłatę deponentowi środków gwarantowanych na czas trwania blokady.
+### f)
 
-2. Jeżeli środki zdeponowane na rachunku zostaną uznane w całości lub w części prawomocnym wyrokiem sądu za przedmiot pochodzący bezpośrednio albo pośrednio z przestępstwa przewidzianego w art. 165a lub art. 299 Kodeksu karnego albo za korzyść z takiego przestępstwa lub za ich równowartość, przy obliczaniu świadczenia z tytułu środków gwarantowanych nie uwzględnia się środków zdeponowanych na rachunku lub odpowiedniej ich części. Środki te nie korzystają z ochrony systemu gwarantowania w części, co do której orzeczono przepadek.
+po ust. 5 dodaje się ust. 5a w brzmieniu:
 
-3. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom w przypadku określonym w ust. 1, uwzględniając dane, jakie powinno zawierać zawiadomienie Funduszu o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu, termin i sposób wysłania zawiadomienia, dane, jakie powinna zawierać informacja o zawieszeniu wypłaty środków gwarantowanych wysłana deponentowi, termin i sposób wysłania informacji oraz dane, jakie powinien zawierać rejestr zawieszonych wypłat środków gwarantowanych prowadzony przez Fundusz. Art. 38zh. 1. Komisja Nadzoru Finansowego przekazuje Funduszowi informacje:
+„
 
-- **1)** o stanie finansowym kasy i podejmowanych w stosunku do niej działaniach na podstawie odrębnych przepisów, w razie powzięcia wiadomości, że w kasie powstała strata, groźba jej wystąpienia lub powstało niebezpieczeństwo niewypłacalności kasy lub zagrożenie utraty płynności płatniczej, w szczególności o programie postępowania naprawczego kasy, jego ocenie i raportach z jego realizacji;
-- **2)** o wynikach przeprowadzonych czynności kontrolnych, wydanych zaleceniach, środkach, jakie zostały podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach nadzoru i o ich wykonaniu przez kasę;
-- **3)** o zaistnieniu innych okoliczności, mogących skutkować powstaniem zobowiązań Funduszu wobec deponentów z tytułu środków gwarantowanych.
+### 5a.
 
-2. Komisja Nadzoru Finansowego przekazuje Funduszowi informacje sprawozdawcze uzyskane od kas oraz od Kasy Krajowej na podstawie przepisów wydanych na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych. w rozumieniu przepisów o ochronie informacji niejawnych, w zakresie niezbędnym do wykonywania jego ustawowo określonych zadań.
+W przypadku niespełnienia wymogu, o którym mowa w ust. 5, kasa jest obowiązana niezwłocznie powiadomić Komisję Nadzoru Finansowego.
 
-4. Funduszowi przysługuje prawo uzyskiwania informacji dotyczących kas, mających wpływ na realizację jego zadań, posiadanych przez Narodowy Bank Polski, ministra właściwego do spraw instytucji finansowych, Komisję Nadzoru Finansowego i Najwyższą Izbę Kontroli.
+” ,
 
-5. Fundusz przekazuje Narodowemu Bankowi Polskiemu informacje niezbędne do oceny stabilności i ryzyka systemu kas, w tym dotyczące poszczególnych kas objętych systemem gwarantowania, podlegające ochronie na podstawie odrębnych przepisów.
+### g)
 
-6. Przedmiot, zakres, tryb i terminy przekazywania informacji, o których mowa w ust. 4 i 5, określają odrębne porozumienia zawarte między Funduszem a Prezesem Narodowego Banku Polskiego, ministrem właściwym do spraw instytucji finansowych i Prezesem Najwyższej Izby Kontroli, a także umowa o współpracy oraz o wymianie informacji między Funduszem a Komisją Nadzoru Finansowego, o której mowa w art. 17 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+ust. 6 otrzymuje brzmienie:
 
-7. Kasa Krajowa jest obowiązana do przekazywania Funduszowi w imieniu kas informacji dotyczących poszczególnych kas, niezbędnych do wykonywania zadań Funduszu.
+„
 
-8. Uzyskiwane informacje dotyczące kas Fundusz może wykorzystywać tylko w celu realizacji zadań określonych w ustawie.
+### 6.
 
-9. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego oraz Prezesa Funduszu, uwzględniając konieczność prawidłowej realizacji zadań Funduszu, może określić, w drodze rozporządzenia, zakres, tryb i terminy przekazywania przez Kasę Krajową informacji, o których mowa w ust. 7. Art. 38zi. 1. Informacje uzyskane w trybie określonym w art. 38zh mogą być wykorzystywane przez Fundusz do opracowywania analiz i prognoz dotyczących sektora kas.
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, po zasięgnięciu opinii Komisji Nadzoru Finansowego i Kasy Krajowej, sposób obliczania współczynnika wypłacalności kasy, mając na względzie w szczególności konieczność uwzględnienia rodzajów i poziomu ryzyka występującego w działalności kasy oraz wymaganego poziomu funduszy własnych przez kasę.
 
-2. Informacje określone w ust. 1 nie mogą być udostępniane przez Fundusz innym podmiotom, z zastrzeżeniem art. 38zh ust. 5.
+” ,
 
-3. Analizy i prognozy, o których mowa w ust. 1, mogą być publikowane. Fundusz może je także udostępniać zainteresowanym podmiotom. Art. 38zj. 1. Kasy informują osoby korzystające oraz zainteresowane korzystaniem z ich usług o:
+### h)
 
-- **1)** swojej sytuacji ekonomiczno-finansowej;
-- **2)** uczestnictwie w ustawowym systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
-    - **a)** kwotę określającą maksymalną wysokość gwarancji,
-    - **b)** rodzaje podmiotów, które zgodnie z ustawą mogą być uznane za deponenta uprawnionego do otrzymania świadczenia pieniężnego.
+dodaje się ust. 7 w brzmieniu:
 
-2. Kasy są obowiązane poinformować osoby korzystające oraz zainteresowane korzystaniem z ich usług o braku ochrony gwarancyjnej w przypadku gdy:
+„
 
-- **1)** wierzytelność powstająca w związku z wykonywaniem czynności, o których mowa w art. 3 ust. 1 i 1a ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, przez kasy, nie będzie chroniona przez ustawowy system gwarantowania, w szczególności jeżeli osoby korzystające oraz zainteresowane korzystaniem z ich usług nie mogą być uznane za deponenta;
-- **2)** w związku z usługami świadczonymi przez kasy, w szczególności polegającymi na pośredniczeniu w zawieraniu umów, powstają lub mogą powstać jakiekolwiek wierzytelności osoby korzystającej oraz zainteresowanej korzystaniem z ich usług wobec innego podmiotu, który nie jest objęty systemem gwarantowania.
+### 7.
 
-3. Informacje, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 1, powinny być również zawarte w umowach między osobami korzystającymi z usług a kasą. zostać udostępnione na wniosek osoby korzystającej oraz zainteresowanej korzystaniem z usług kasy.
+Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, po zasięgnięciu opinii Komisji Nadzoru Finansowego i Kasy Krajowej, inne pomniejszenia funduszy własnych kasy, o których mowa w ust. 3 pkt 8, mając na względzie potrzebę stabilnego i bezpiecznego funkcjonowania kasy.
 
-5. Wszelkie informacje udostępniane osobom korzystającym oraz zainteresowanym korzystaniem z usług stosownie do przepisów ust. 1–3 powinny być podawane w sposób:
+” ;
 
-- **1)** w jaki podawane są informacje o świadczonych usługach;
-- **2)** jednoznaczny i zrozumiały.
+### 12)
 
-6. Informacje o uczestnictwie w obowiązkowym systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2. Art. 38zk. Środki gwarantowane są płatne na podstawie danych znajdujących się w systemie wyliczania kasy. Art. 38zl. 1. Odpowiedzialnym za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania oraz za zgodność danych zawartych w systemie wyliczania z zapisami w księgach rachunkowych kasy oraz z rzeczywistym stanem prawnym jest zarząd kasy.
+w art. 26 dodaje się ust. 4 w brzmieniu:
 
-2. Za przekazywanie Funduszowi danych, o których mowa w art. 38zn ust. 1, znajdujących się w systemie wyliczania, w okresie do dnia spełnienia warunku gwarancji, jest odpowiedzialny zarząd kasy. Art. 38zm. W przypadku spełnienia warunku gwarancji zapewnienie funkcjonowania systemu wyliczania oraz przekazywania Funduszowi danych znajdujących się w systemie wyliczania jest zadaniem zarządcy komisarycznego. Art. 38zn. 1. System wyliczania zapewnia gotowość do bieżącego sporządzania danych pozwalających na identyfikację deponentów, miejsca ich zamieszkania lub siedziby oraz na określenie wysokości należnych poszczególnym deponentom środków gwarantowanych, według stanu na koniec każdego dnia.
+„
 
-2. Kasa przechowuje dane w systemie wyliczania w sposób zapewniający ich odtworzenie oraz dostęp do nich Komisji Nadzoru Finansowego oraz Funduszowi.
+### 4.
 
-3. Funduszowi przysługuje prawo kontroli prawidłowości danych zawartych w systemie wyliczania.
+Jeżeli kasa realizuje program postępowania naprawczego, jej strata bilansowa pokrywana jest w terminie i na zasadach określonych w tym programie.
 
-4. System wyliczania ani uzyskiwane i przetwarzane w nim dane nie mogą znajdować się poza terytorium Rzeczypospolitej Polskiej.
+” ;
 
-5. Kasa stosuje odpowiednie zabezpieczenia, które zapewniają prawidłowe funkcjonowanie systemu wyliczania.
+### 13)
 
-6. Kasa przeprowadza co najmniej raz na 6 miesięcy test systemu wyliczania, w szczególności w zakresie ustalenia, czy spełnione zostały warunki do wykonania obowiązków ustawowych na wypadek spełnienia warunku gwarancji oraz czy zapewniona jest prawidłowość sporządzania przez kasę danych o deponentach i środkach gwarantowanych. Wyniki testów przechowywane są przez kasę w formie raportów przez 3 lata od dnia ich sporządzenia i udostępniane na żądanie Funduszowi lub Komisji Nadzoru Finansowego. Art. 38zo. 1. Kasa przekazuje Funduszowi na każde jego żądanie dane znajdujące się w systemie wyliczania pozwalające na identyfikację deponentów oraz wysokości środków gwarantowanych należnych poszczególnym deponentom. Funduszowi przysługuje prawo kontroli otrzymanych danych.
+po art. 29 dodaje się art. 29a w brzmieniu:
 
-2. W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi udostępniane są dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach. Art. 38zp. 1. Nadzór nad prawidłowością funkcjonowania systemów wyliczania sprawuje Komisja Nadzoru Finansowego.
+„
 
-2. W przypadku niewykonywania lub nienależytego wykonywania przez kasę obowiązków związanych z wdrożeniem i utrzymywaniem prawidłowo funkcjonującego systemu wyliczania, Komisja Nadzoru Finansowego może zastosować środki nadzorcze określone w art. 71 ust. 2 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+### Art. 29a.
 
-3. W przypadku gdy kasa nie posiada systemu wyliczania lub posiada nieprawidłowo funkcjonujący system wyliczania, Komisja Nadzoru Finansowego może na nią nałożyć karę pieniężną w wysokości do 0,3% sumy aktywów oraz zobowiązań pozabilansowych. osoby odpowiedzialne za wdrożenie i funkcjonowanie systemów wyliczania Komisja Nadzoru Finansowego może nałożyć na te osoby kary pieniężne do wysokości sześciokrotności miesięcznego wynagrodzenia brutto tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 6 miesięcy przed nałożeniem kary.
+Kasa może wystawiać tytuły egzekucyjne kasy na podstawie ksiąg lub innych dokumentów związanych z dokonywaniem czynności, o których mowa w art. 3 ust. 1, lub zabezpieczaniem wierzytelności wynikających z tych czynności.
 
-5. Komisja Nadzoru Finansowego odprowadza kwoty wyegzekwowane z tytułu kar pieniężnych, o których mowa w ust. 3 i 4, na rzecz Funduszu.
+” ;
 
-6. Kasa zawiadamia Komisję Nadzoru Finansowego o członku zarządu, do którego zakresu obowiązków należy zapewnienie wdrożenia i funkcjonowania systemu wyliczania.
+### 14)
 
-7. Fundusz może wystąpić do Komisji Nadzoru Finansowego o podjęcie czynności kontrolnych lub środków w ramach nadzoru w zakresie kontroli prawidłowości funkcjonowania systemów wyliczania. Art. 38zq. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Funduszu, określi, w drodze rozporządzenia:
+w art. 37 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
 
-- **1)** minimalne wymogi, jakie powinien spełniać system wyliczania,
-- **2)** szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu,
-- **3)** format i tryb przekazywania danych do Funduszu, uwzględniając ich zabezpieczenie przed nieuprawnionym dostępem,
-- **4)** sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 Kodeksu karnego,
-- **5)** tryb i sposób weryfikacji prawidłowości danych zawartych w systemie wyliczania – mając na względzie potrzebę zapewnienia otrzymywania przez Fundusz należycie przygotowanych i zweryfikowanych danych na potrzeby realizacji ustawowych zadań Funduszu oraz warunki wykonywania czynności faktycznych związanych z działalnością kasy.”;
-- **17)** po art. 42 dodaje się art. 42a w brzmieniu: „Art. 42a. Kto, będąc członkiem zarządu kasy objętej ustawowym systemem gwarantowania środków pieniężnych, doprowadza do powstania straty po stronie Funduszu w wyniku tego, że kasa nie odprowadziła obowiązkowej opłaty rocznej, o której mowa w art. 13c ust. 1, albo nie odprowadziła opłaty w odpowiedniej wysokości mimo dysponowania przez tę kasę środkami pieniężnymi wystarczającymi na odprowadzenie tej opłaty, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.”.
+„
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2005 r. Nr 1, poz. 2, z późn. zm. ) wprowadza się następujące zmiany:
+### 5)
 
-**Art. 6.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2010 r. Nr 46, poz. 276, z późn. zm. ) wprowadza się następujące zmiany:
+jako inne kategorie lokat i inwestycji, za zgodą Komisji Nadzoru Finansowego.
 
-**Art. 7.** W ustawie z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. z 2012 r. poz. 1112 i 1529 oraz z 2013 r. poz. 355) wprowadza się następujące zmiany:
+” ;
 
-**Art. 8.** Spółdzielcze kasy oszczędnościowo-kredytowe, które przed dniem wejścia w życie niniejszej ustawy powierzyły przedsiębiorcy lub przedsiębiorcy zagranicznemu w drodze umowy wykonywanie czynności, o których mowa w art. 3 ust. 1 ustawy zmienianej w art. 1, są obowiązane dostosować działalność w tym zakresie do wymagań określonych w art. 9a–9d tej ustawy w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 15)
 
-**Art. 9.**
+art. 38 i art. 39 otrzymują brzmienie:
 
-1. W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, w przypadku zagrożenia płynności spółdzielczej kasy oszczędnościowo-kredytowej Narodowy Bank Polski może udzielić bezpośrednio tej kasie kredytu w celu uzupełnienia jej zasobów pieniężnych.
+„
 
-2. Do kredytu udzielonego zgodnie z ust. 1 stosuje się odpowiednio art. 4 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. Nr 39, poz. 308, z późn. zm. ).
+### Art. 38.
 
-3. Do kredytu udzielonego zgodnie z ust. 1 nie stosuje się przepisów art. 20c ust. 2 ustawy zmienianej w art. 4.
+### 1.
 
-4. Komisja Nadzoru Finansowego przekazuje na wniosek Narodowego Banku Polskiego opinię o sytuacji finansowej spółdzielczej kasy oszczędnościowo-kredytowej, w szczególności dotyczącą zdolności spółdzielczej kasy oszczędnościowo-kredytowej do spłaty kredytu, o którym mowa w ust. 1, wraz z odsetkami.
+Kasa ma obowiązek utrzymywać rezerwę płynną w wysokości nie mniejszej niż 10% funduszu oszczędnościowo-pożyczkowego.
 
-**Art. 10.**
+### 2.
 
-1. Przepisy wykonawcze wydane na podstawie art. 64 ust. 3 i art. 80 ust. 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych odpowiednio na podstawie art. 64 ust. 3 i art. 62c ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Rezerwa płynna służy zapewnieniu płynności kas.
 
-2. Przepisy wykonawcze wydane na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy zmienianej w art. 3 zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+### 3.
 
-3. Dotychczasowe zasady i metodyka opracowane przez radę nadzorczą Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej na podstawie art. 63 ust. 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 63 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Rezerwę płynną stanowią środki pieniężne:
 
-**Art. 11.**
+### 1)
 
-1. W okresie 6 miesięcy od dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l–38zg oraz 38zj–38zq, termin, o którym mowa w art. 38w ust. 1 ustawy zmienianej w art. 4, wynosi 10 dni roboczych. Fundusz Gwarancyjny realizując zadania w zakresie restrukturyzacji spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności, może:
+zgromadzone w kasie w formie gotówki;
 
-- **1)** udzielać zwrotnej pomocy finansowej kasom;
-- **2)** udzielać wsparcia podmiotom przejmującym kasy, podmiotom przejmującym wybrane prawa majątkowe lub wybrane zobowiązania kas lub nabywcom przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych;
-- **3)** obejmować akcje banku przejmującego oraz nabywać lub obejmować akcje banku, o którym mowa w art. 4 ust. 1h ustawy zmienianej w art. 4;
-- **4)** kontrolować prawidłowość wykorzystania pomocy i wsparcia, o których mowa w pkt 1 i 2, w szczególności realizację programu postępowania naprawczego, oraz monitorować sytuację ekonomiczno-finansową i system zarządzania kasy korzystającej z pomocy finansowej oraz podmiotów korzystających ze wsparcia.
+### 2)
 
-3. Do realizacji zadań, o których mowa w ust. 2, stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 4, z zastrzeżeniem ust. 4–6.
+utrzymywane na odrębnych rachunkach w Kasie Krajowej;
 
-4. Kwota pomocy finansowej lub wsparcia Bankowego Funduszu Gwarancyjnego w przypadku realizacji zadań, o których mowa w ust. 2, określona w art. 20d pkt 3, art. 20g ust. 2 pkt 4 oraz art. 20h pkt 3 ustawy zmienianej w art. 4 jako maksymalna kwota z tytułu gwarancji, nie może przekroczyć kwoty stanowiącej sumę środków pieniężnych zgromadzonych w kasie (łącznie z odsetkami naliczonymi do dnia złożenia wniosku o udzielenie pomocy lub wsparcia, zgodnie z oprocentowaniem wskazanym w umowie niezależnie od terminu ich wymagalności), z wyłączeniem środków wpłaconych tytułem udziałów i wkładów członkowskich w kasie, nie później niż w dniu poprzedzającym dzień złożenia wniosku o udzielenie pomocy lub wsparcia, przez:
+### 3)
 
-- **1)** osoby fizyczne,
-- **2)** organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm. ),
-- **3)** jednostki organizacyjne kościoła lub związku wyznaniowego, jeśli posiadają osobowość prawną,
-- **4)** spółdzielnie niebędące spółdzielczą kasą oszczędnościowo-kredytową ani Krajową Spółdzielczą Kasą Oszczędnościowo-Kredytową,
-- **5)** związki zawodowe oraz wspólnoty mieszkaniowe – będące stroną umowy imiennego rachunku lub posiadające wynikającą z przeprowadzania przez kasę rozliczeń finansowych wierzytelność do kasy, potwierdzoną wystawianymi przez tę kasę dokumentami imiennymi, oraz osoby, o których mowa w art. 14 ust. 1 ustawy zmienianej w art. 1, o ile ich wierzytelność do kasy stała się wymagalna przed dniem złożenia wniosku o udzielenie pomocy lub wsparcia.
+zgromadzone w formie jednostek uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych, o ile ich odkupienie nie zostało zawieszone w trybie określonym w art. 89 ust. 4 i ust. 5 pkt 1 i art. 227b oraz przypadku, o którym mowa w art. 246 ust. 3, tej ustawy.
 
-5. Przy wyliczaniu maksymalnej kwoty gwarancji, o której mowa w ust. 4, nie uwzględnia się środków pieniężnych zgromadzonych przez członków zarządu i rady nadzorczej kasy oraz pracowników podlegających bezpośrednio członkom zarządu, osób pełniących funkcje kierowników lub dyrektorów oddziałów tej kasy i ich zastępców, w przypadku gdy osoby te pełniły swoje funkcje w dniu złożenia wniosku o udzielenie pomocy lub wsparcia, bądź w okresie bieżącego roku obrotowego lub roku obrotowego poprzedzającego ten dzień.
+### 4.
 
-6. Sumowaniu, o którym mowa w ust. 4, podlegają środki pieniężne do równowartości w złotych 100 000 euro dla każdego z podmiotów, o których mowa w ust. 4. Do obliczenia równowartości euro w złotych przyjmuje się kurs średni z dnia złożenia wniosku o udzielenie pomocy lub wsparcia ogłaszany przez Narodowy Bank Polski.
+Środki pieniężne, o których mowa w ust. 3 pkt 2, mogą być inwestowane wyłącznie w:
 
-7. Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l–38zg oraz 38zj–38zq, kasa na żądanie Bankowego Funduszu Gwarancyjnego przekazuje dane pozwalające na identyfikację podmiotów, o których mowa w ust. 4, oraz dane o wysokości środków zgromadzonych przez te podmioty w kasie. Funduszowi przysługuje prawo kontroli otrzymanych danych, w tym kontroli w siedzibie kasy.
+### 1)
 
-8. Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l–38zg oraz 38zj–38zq, roszczenia członków kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o zawieszeniu działalności kasy, o której mowa w ust. 4–6, wypłacane są z funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, do wysokości wolnych środków tego funduszu.
+papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
 
-9. Roszczenia, o których mowa w ust. 8, zaspokajane są proporcjonalnie do kwoty roszczenia, do wysokości, o której mowa w ust. 6, na podstawie informacji sporządzonej przez zarządcę komisarycznego kasy w terminie 10 dni roboczych od dnia wydania przez Komisję Nadzoru Finansowego decyzji, o której mowa w art. 74k ust. 1 i 2 ustawy zmienianej w art. 1.
+### 2)
 
-10. Roszczenia, o których mowa w ust. 8, Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa zaspokaja z funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, w terminie 20 dni roboczych od dnia wydania przez Komisję Nadzoru Finansowego decyzji, o której mowa w art. 74k ust. 1 i 2 ustawy zmienianej w art. 1.
+papiery wartościowe emitowane przez Narodowy Bank Polski;
 
-11. W przypadku ogłoszenia upadłości kasy posiadającej dobrowolny system ubezpieczania środków pieniężnych członków lub prawomocnego oddalenia wniosku o ogłoszenie upadłości takiej kasy ze względu na to, że jej majątek nie wystarcza na zaspokojenie kosztów postępowania, niezaspokojone zgodnie z ust. 8–10 roszczenia członków kasy są w pierwszej kolejności zaspokajane w ramach tego systemu.
+### 3)
 
-12. Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l–38zg oraz 38zj–38zq, w przypadku wyczerpania środków funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, i wystąpieniu zagrożenia stabilności systemu spółdzielczych kas oszczędnościowo-kredytowych, Narodowy Bank Polski może udzielić Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej kredytu krótkoterminowego na uzupełnienie środków tego funduszu w celu realizacji zadań, o których mowa w ust. 8 oraz art. 42 ustawy zmienianej w art. 1, pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+papiery wartościowe emitowane przez rządy lub banki centralne państw należących do Organizacji Współpracy Gospodarczej i Rozwoju (OECD);
 
-13. Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l–38zg oraz 38zj–38zq, art. 91 ustawy zmienianej w art. 1 nie stosuje się.
+### 4)
 
-**Art. 12.**
+jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych, o ile ich odkupienie nie zostało zawieszone w trybie określonym w art. 89 ust. 4 i ust. 5 pkt 1 i art. 227b oraz przypadku, o którym mowa w art. 246 ust. 3, tej ustawy.
 
-1. Opłaty, o których mowa w art. 13c ust. 1 ustawy zmienianej w art. 4, w pierwszym roku obowiązywania niniejszej ustawy wnoszone są za cały rok, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 5.
 
-2. Rada Bankowego Funduszu Gwarancyjnego określi, po zasięgnięciu opinii Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, wysokość opłat, o których mowa w ust. 1, nie później niż w ciągu miesiąca od dnia wejścia w życie niniejszej ustawy.
+Ze środków, o których mowa w ust. 3 pkt 2, na wniosek kasy, w przypadku zagrożenia jej płynności, Kasa Krajowa może udzielić kredytu w złotych w celu uzupełnienia zasobów pieniężnych kasy (kredyt płynnościowy).
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+### 6.
 
+Przy udzielaniu kredytu płynnościowego Kasa Krajowa kieruje się zdolnością kasy do spłaty tego kredytu wraz z odsetkami w umówionych terminach.
+
+### 7.
+
+Kasa Krajowa może udzielić kredytu płynnościowego także kasie realizującej program postępowania naprawczego.
+
+### 8.
+
+Oprocentowanie kredytu płynnościowego nie może być wyższe niż stopa kredytu lombardowego ogłaszana przez Narodowy Bank Polski.
+
+### 9.
+
+Kredyt płynnościowy może być udzielony na okres do 30 dni.
+
+### 10.
+
+Umowa o kredyt płynnościowy może zostać rozwiązana przez każdą ze stron z zachowaniem siedmiodniowego terminu wypowiedzenia.
+
+### 11.
+
+O udzielonym kredycie płynnościowym Kasa Krajowa niezwłocznie informuje Komisję Nadzoru Finansowego, Narodowy Bank Polski i Bankowy Fundusz Gwarancyjny.
+
+### 12.
+
+Środki z tytułu spłaty kredytu płynnościowego, w tym odsetki, są zaliczane do środków, o których mowa w ust. 3 pkt 2.
+
+### Art. 39.
+
+### 1.
+
+W przypadku gdy kwota udzielonych kredytów płynnościowych, pomniejszona o wartość środków, o których mowa w art. 38 ust. 12, przekracza 60% środków, o których mowa w art. 38 ust. 3 pkt 2, Kasa Krajowa może zobowiązać kasy do przeznaczenia dodatkowych środków na rezerwę płynną, określając jednocześnie ich wysokość. Wartość dodatkowych środków, które mają być utrzymywane jako rezerwa płynna, nie może przekroczyć wysokości 5% funduszu oszczędnościowo-pożyczkowego.
+
+### 2.
+
+Kwota rezerwy płynnej w części przekraczającej 10% funduszu oszczędnościowo-pożyczkowego może być utrzymywana wyłącznie w postaci środków, o których mowa w art. 38 ust. 3 pkt 2.
+
+### 3.
+
+Kasa jest obowiązana utrzymywać środki, o których mowa w ust. 2, do czasu, gdy kwota udzielonych kredytów płynnościowych, pomniejszona o wartość środków, o których mowa w art. 38 ust. 12, przez 30 kolejnych dni jest nie wyższa niż 60% środków, o których mowa w art. 38 ust. 3 pkt 2. Kasa Krajowa informuje kasy o ustaniu obowiązku utrzymywania środków, o których mowa w ust. 2.
+
+### 4.
+
+Kasa Krajowa niezwłocznie przekazuje do Komisji Nadzoru Finansowego, Narodowego Banku Polskiego oraz Bankowego Funduszu Gwarancyjnego także informację, o której mowa w ust. 3.
+
+### 5.
+
+Kasa Krajowa, zobowiązując kasy do przeznaczenia dodatkowych środków na rezerwę płynną, niezwłocznie informuje o tym Komisję Nadzoru Finansowego, Narodowy Bank Polski oraz Bankowy Fundusz Gwarancyjny.
+
+” ;
+
+### 16)
+
+uchyla się art. 40;
+
+### 17)
+
+art. 44 otrzymuje brzmienie:
+
+„
+
+### Art. 44.
+
+### 1.
+
+Kasa Krajowa prowadzi działalność wyłącznie na rzecz swoich członków.
+
+### 2.
+
+Działalność, o której mowa w ust. 1, polega na:
+
+### 1)
+
+reprezentowaniu interesów kas przed organami administracji państwowej i organami samorządu terytorialnego, a także w organizacjach międzynarodowych;
+
+### 2)
+
+wyrażaniu opinii o projektach aktów prawnych dotyczących kas;
+
+### 3)
+
+zapewnianiu doradztwa prawnego, organizacyjnego i finansowego;
+
+### 4)
+
+organizowaniu szkoleń i prowadzeniu działalności wydawniczej związanej z działalnością kas;
+
+### 5)
+
+opracowywaniu standardów świadczenia usług i prowadzenia dokumentacji przez kasy oraz systemów informatycznych dla kas;
+
+### 6)
+
+przyjmowaniu lokat;
+
+### 7)
+
+udzielaniu pożyczek i kredytów kasom;
+
+### 8)
+
+pośredniczeniu w przeprowadzaniu rozliczeń, o których mowa w art. 3 ust. 1, oraz wydawaniu kart płatniczych, jeżeli kasa nie wybierze innego sposobu prowadzenia tej działalności;
+
+### 9)
+
+udzielaniu pomocy nowo powstającym kasom;
+
+### 10)
+
+wypełnianiu za kasy obowiązków informacyjnych wobec Narodowego Banku Polskiego.
+
+### 3.
+
+Działalność Kasy Krajowej, o której mowa w ust. 2 pkt 3-8, regulują umowy zawierane pomiędzy Kasą Krajową a kasami.
+
+### 4.
+
+Komisja Nadzoru Finansowego zatwierdza wzorzec umowy, o której mowa w ust. 3.
+
+### 5.
+
+Kasa Krajowa może prowadzić na rzecz kasy lub jej członków działalność inną niż określona w ust. 2 na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
+
+### 6.
+
+Kasa Krajowa, w zakresie wydawanych kart płatniczych, prowadzi działalność także na rzecz członków kas na podstawie umowy zawartej z kasą, o czym informuje Komisję Nadzoru Finansowego.
+
+### 7.
+
+Kasa Krajowa przeprowadza lustrację zrzeszonych kas zgodnie z przepisami ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze. Przepisy tej ustawy o związkach rewizyjnych dotyczące lustracji stosuje się odpowiednio do Kasy Krajowej.
+
+### 8.
+
+Kasa Krajowa może prowadzić działalność na rzecz podmiotu przejmującego kasę, przejmującego wybrane prawa majątkowe lub wybrane zobowiązania kasy, nabywcy przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych, w zakresie i na warunkach działalności prowadzonej na rzecz kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu lub likwidacji. Za zgodą przejmującego lub nabywcy oraz Kasy Krajowej zakres i warunki, o których mowa w zdaniu poprzedzającym, mogą zostać zmienione.
+
+” ;
+
+### 18)
+
+uchyla się art. 46;
+
+### 19)
+
+w art. 49 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Kadencję rady nadzorczej określa statut, z tym że nie może ona trwać dłużej niż 5 lat. Mandat członka rady nadzorczej wygasa z dniem powołania nowego członka rady nadzorczej.
+
+” ;
+
+### 20)
+
+w art. 51:
+
+### a)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Kadencję zarządu określa statut, z tym że nie może ona trwać dłużej niż 4 lata. Mandat członka zarządu wygasa z dniem powołania nowego członka zarządu.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Jeżeli powołanie członka zarządu dotyczy kolejnej kadencji tej samej osoby, nie stosuje się do tej osoby przepisu ust. 1, o ile nie zachodzą w stosunku do niej przesłanki określone w ust. 3 i 4.
+
+” ,
+
+### c)
+
+dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Nie jest dopuszczalne łączenie funkcji członka rady nadzorczej albo zarządu kasy z funkcją członka zarządu lub pracownika Kasy Krajowej.
+
+” ;
+
+### 21)
+
+w art. 52 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Komisja funduszu stabilizacyjnego składa się z 7 do 11 członków: przewodniczącego, wiceprzewodniczącego, sekretarza i pozostałych członków, powoływanych i odwoływanych przez radę nadzorczą na wniosek zarządu.
+
+” ;
+
+### 22)
+
+w art. 55 po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku, o którym mowa w art. 38r ust. 2 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, Kasa Krajowa przekazuje bezzwrotnie i nieodpłatnie Bankowemu Funduszowi Gwarancyjnemu, na jego wniosek, wolne środki funduszu stabilizacyjnego na wypłaty środków gwarantowanych zgromadzonych w kasach, do wysokości, w jakiej kwota zobowiązań z tytułu środków gwarantowanych przewyższa środki funduszu kas do wykorzystania.
+
+### 1b.
+
+Część nadwyżki bilansowej Kasy Krajowej za dany rok, nie większa niż 10%, może być przez walne zgromadzenie Kasy Krajowej przeznaczona na jej fundusz zasobowy, z zastrzeżeniem art. 57 ust. 3.
+
+” ;
+
+### 23)
+
+w art. 61 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+prawidłowości wykorzystania funduszu stabilizacyjnego oraz innych środków deponowanych przez kasy w Kasie Krajowej;
+
+” ;
+
+### 24)
+
+po art. 61 dodaje się art. 61a i art. 61b w brzmieniu:
+
+„
+
+### Art. 61a.
+
+### 1.
+
+Informacje uzyskane lub wytworzone w związku ze sprawowaniem nadzoru nad kasami i Kasą Krajową, w tym informacje, o których mowa w art. 9e ust. 1 i art. 9g, których udzielenie, ujawnienie lub potwierdzenie mogłoby naruszyć chroniony prawem interes podmiotów, których te informacje bezpośrednio lub pośrednio dotyczą, lub utrudnić sprawowanie nadzoru, stanowią tajemnicę chronioną.
+
+### 2.
+
+Obowiązku ochrony tajemnicy, o której mowa w ust. 1, nie narusza:
+
+### 1)
+
+udzielenie bankowi centralnemu wchodzącemu w skład Europejskiego Systemu Banków Centralnych informacji niezbędnych do realizacji przypisanych mu prawem zadań, w tym zadań dotyczących polityki monetarnej i zapewnienia związanej z tym płynności, zadań związanych z nadzorem nad systemami płatności, rozliczeń i rozrachunku oraz zadań realizowanych na rzecz stabilności systemu finansowego;
+
+### 2)
+
+złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa;
+
+### 3)
+
+przekazanie informacji osobie, organowi lub innemu podmiotowi na podstawie przepisów odrębnych.
+
+### Art. 61b.
+
+### 1.
+
+Kasy są obowiązane do wnoszenia wpłat z tytułu nadzoru, o którym mowa w art. 60, stanowiących iloczyn sumy aktywów bilansowych kas i stawki nieprzekraczającej 0,024%.
+
+### 2.
+
+Należności z tytułu wpłat na finansowanie kosztów nadzoru, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 3.
+
+Prezes Rady Ministrów określa, w drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat oraz sposób i terminy rozliczania należności z tytułu wpłat, o których mowa w ust. 1, uwzględniając zapewnienie skuteczności sprawowanego nadzoru.
+
+### 4.
+
+W przypadku niedotrzymania terminu uiszczania wpłat, określonego w przepisach wydanych na podstawie ust. 3, pobiera się odsetki w wysokości odsetek ustawowych.
+
+” ;
+
+### 25)
+
+po art. 62 dodaje się art. 62a-62f w brzmieniu:
+
+„
+
+### Art. 62a.
+
+Wyboru podmiotu uprawnionego do badania sprawozdań finansowych dokonuje się przed upływem roku obrotowego, jednakże ten sam podmiot może być wybrany na okres nie dłuższy niż 5 lat.
+
+### Art. 62b.
+
+### 1.
+
+Kasa jest obowiązana przekazywać Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu zatwierdzone roczne sprawozdanie finansowe wraz z opinią i raportem biegłego rewidenta oraz z odpisem uchwały o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku lub pokryciu straty.
+
+### 2.
+
+Kasa Krajowa jest obowiązana przekazywać Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu:
+
+### 1)
+
+zatwierdzone roczne sprawozdanie finansowe wraz z opinią i raportem biegłego rewidenta oraz z odpisem uchwały o zatwierdzeniu rocznego sprawozdania finansowego i podziale zysku albo pokryciu straty;
+
+### 2)
+
+kwartalne sprawozdania:
+
+### a)
+
+z przeprowadzonych w kasach czynności kontrolnych,
+
+### b)
+
+ze stanu i wykorzystania środków funduszu stabilizacyjnego,
+
+### c)
+
+ze stanu i wykorzystania środków rezerwy płynnej.
+
+### 3.
+
+Sprawozdania, o których mowa w ust. 1 i 2 pkt 1, przekazywane są w terminie nie dłuższym niż 15 dni od dnia zatwierdzenia rocznego sprawozdania finansowego przez organ zatwierdzający.
+
+### 4.
+
+Sprawozdania, o których mowa w ust. 2 pkt 2, przekazywane są nie później niż ostatniego dnia miesiąca następującego po zakończeniu kwartału, za który zostały sporządzone.
+
+### Art. 62c.
+
+### 1.
+
+Kasa przekazuje Komisji Nadzoru Finansowego informacje sprawozdawcze obejmujące w szczególności dane o:
+
+### 1)
+
+strukturze organizacyjnej kasy, liczbie zatrudnionych, liczbie członków oraz liczbie wkładów członkowskich zadeklarowanych i wkładów członkowskich wpłaconych, a także niezbędne dane kontaktowe dotyczące osób sporządzających i zatwierdzających informacje sprawozdawcze;
+
+### 2)
+
+bilansie oraz rachunku zysków i strat;
+
+### 3)
+
+inwestycjach kasy;
+
+### 4)
+
+płynności oraz rezerwie płynnej;
+
+### 5)
+
+aktywach finansowych;
+
+### 6)
+
+zobowiązaniach finansowych;
+
+### 7)
+
+zobowiązaniach z tytułu zabezpieczeń pieniężnych oraz z tytułu oszczędności;
+
+### 8)
+
+funduszach własnych;
+
+### 9)
+
+przekroczeniu koncentracji zaangażowań;
+
+### 10)
+
+zobowiązaniach z tytułu kredytów;
+
+### 11)
+
+zobowiązaniach z tytułu własnej emisji;
+
+### 12)
+
+zobowiązaniach pozabilansowych udzielonych oraz zobowiązaniach pozabilansowych otrzymanych;
+
+### 13)
+
+promesach udzielenia kredytu;
+
+### 14)
+
+kredytach, pożyczkach i pozostałych należnościach kasy;
+
+### 15)
+
+przyjętych przez kasę zabezpieczeniach;
+
+### 16)
+
+strukturze aktywów i pasywów;
+
+### 17)
+
+rachunku przepływów pieniężnych;
+
+### 18)
+
+rezerwie obowiązkowej;
+
+### 19)
+
+radzie nadzorczej i zarządzie kasy;
+
+### 20)
+
+współczynniku wypłacalności.
+
+### 2.
+
+Kasa Krajowa przekazuje Komisji Nadzoru Finansowego informacje sprawozdawcze obejmujące w szczególności dane o:
+
+### 1)
+
+strukturze organizacyjnej Kasy, liczbie zatrudnionych, liczbie członków oraz liczbie wkładów członkowskich zadeklarowanych i wkładów członkowskich wpłaconych, a także niezbędne dane kontaktowe dotyczące osób sporządzających i zatwierdzających informacje sprawozdawcze;
+
+### 2)
+
+bilansie oraz rachunku zysków i strat;
+
+### 3)
+
+środkach na rachunkach bieżących i ekwiwalentów środków pieniężnych;
+
+### 4)
+
+instrumentach dłużnych;
+
+### 5)
+
+instrumentach kapitałowych;
+
+### 6)
+
+kredytach, pożyczkach i pozostałych należnościach;
+
+### 7)
+
+pozostałych instrumentach finansowych;
+
+### 8)
+
+zobowiązaniach finansowych, z uwzględnieniem:
+
+### a)
+
+zobowiązań finansowych przeznaczonych do obrotu,
+
+### b)
+
+zobowiązań finansowych wycenianych w wysokości skorygowanej ceny nabycia;
+
+### 9)
+
+zobowiązaniach z tytułu własnej emisji papierów wartościowych;
+
+### 10)
+
+funduszu stabilizacyjnym, w tym wykorzystaniu środków funduszu stabilizacyjnego;
+
+### 11)
+
+promesach udzielenia kredytu;
+
+### 12)
+
+aktywach finansowych, w tym:
+
+### a)
+
+aktywach finansowych przeznaczonych do obrotu,
+
+### b)
+
+aktywach finansowych dostępnych do sprzedaży,
+
+### c)
+
+pożyczkach udzielonych i należnościach własnych,
+
+### d)
+
+aktywach finansowych utrzymywanych do terminu wymagalności,
+
+### e)
+
+utracie wartości aktywów finansowych;
+
+### 13)
+
+rzeczowym majątku trwałym, nieruchomościach inwestycyjnych oraz wartościach niematerialnych i prawnych, w tym będących przedmiotem leasingu;
+
+### 14)
+
+rezerwach;
+
+### 15)
+
+wartości godziwej aktywów finansowych oraz zobowiązań finansowych;
+
+### 16)
+
+przychodach z tytułu odsetek oraz kosztach z tytułu odsetek;
+
+### 17)
+
+zyskach i stratach z tytułu aktywów finansowych oraz zobowiązań finansowych;
+
+### 18)
+
+pozostałych przychodach i kosztach operacyjnych;
+
+### 19)
+
+kosztach działania, w tym kosztach pracowniczych, kosztach usług obcych, podatkach i opłatach;
+
+### 20)
+
+zobowiązaniach pozabilansowych udzielonych oraz zobowiązaniach pozabilansowych otrzymanych;
+
+### 21)
+
+radzie nadzorczej i zarządzie Kasy Krajowej.
+
+### 3.
+
+Komisja Nadzoru Finansowego, w drodze decyzji, na wniosek kasy, w uzasadnionych przypadkach może zwolnić ją z obowiązków określonych w ust. 1 lub ograniczyć ich zakres.
+
+### 4.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczegółowy zakres, formę, sposób i częstotliwość sporządzania sprawozdań z danymi, o których mowa w ust. 1 i 2, oraz terminy i sposób ich przekazywania Komisji Nadzoru Finansowego, mając na względzie zapewnienie Komisji Nadzoru Finansowego dostępu do danych niezbędnych do sprawowania efektywnego nadzoru nad kasami i Kasą Krajową.
+
+### Art. 62d.
+
+### 1.
+
+W przypadku stwierdzenia nieprawidłowości w przeprowadzonym badaniu sprawozdania finansowego na zlecenie kasy lub Kasy Krajowej, Komisja Nadzoru Finansowego może zobowiązać kasę lub Kasę Krajową do zlecenia wskazanemu biegłemu rewidentowi zbadania prawidłowości i rzetelności sprawozdań finansowych sporządzanych przez kasę lub Kasę Krajową, kontroli ksiąg rachunkowych lub analizy portfela kredytowego. Jeżeli w wyniku przeprowadzonych badań stwierdzono nieprawidłowości w kasie albo Kasie Krajowej, koszty badania ponosi odpowiednio kasa albo Kasa Krajowa, a w razie niestwierdzenia w wyniku przeprowadzonych badań nieprawidłowości w kasie albo Kasie Krajowej, koszty badania ponosi Komisja Nadzoru Finansowego.
+
+### 2.
+
+Zlecenie badania określonego w ust. 1 może zostać udzielone także bezpośrednio przez Komisję Nadzoru Finansowego. Koszty badania ponosi wówczas Komisja Nadzoru Finansowego. Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Finansowego stwierdzono nieprawidłowości w kasie albo w Kasie Krajowej, koszty badania ponosi odpowiednio kasa albo Kasa Krajowa.
+
+### 3.
+
+Do zlecenia biegłemu rewidentowi badania sprawozdania finansowego kasy albo Kasy Krajowej, o którym mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2010 r. Nr 113, poz. 759](https://api.sejm.gov.pl/eli/acts/DU/2010/759/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228, z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143, Nr 87, poz. 484, Nr 234, poz. 1386 i Nr 240, poz. 1429 oraz z 2012 r. poz. 769, 951, 1101, 1271 i 1529.](#gloss-0:10:)).
+
+### Art. 62e.
+
+### 1.
+
+Biegły rewident przeprowadzający badanie sprawozdań finansowych kasy lub Kasy Krajowej oraz badanie, o którym mowa w art. 62d, jest obowiązany niezwłocznie powiadomić Komisję Nadzoru Finansowego o ujawnionych faktach wskazujących na:
+
+### 1)
+
+popełnienie przestępstwa;
+
+### 2)
+
+naruszenie przepisów regulujących działalność kasy lub Kasy Krajowej;
+
+### 3)
+
+naruszenie zasad dobrych praktyk lub inne zagrożenie interesów klientów kasy;
+
+### 4)
+
+istnienie przesłanek do wyrażenia opinii negatywnej na temat sprawozdania finansowego kasy lub Kasy Krajowej lub odmowy wyrażenia tej opinii.
+
+### 2.
+
+Przepisy ust. 1 stosuje się odpowiednio do biegłych rewidentów badających sprawozdania finansowe przedsiębiorcy, o którym mowa w art. 9a i art. 9b, oraz podmiotów posiadających bliskie powiązania w rozumieniu art. 4 ust. 1 pkt 15 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe z kasą lub Kasą Krajową.
+
+### Art. 62f.
+
+Kasa jest obowiązana:
+
+### 1)
+
+zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o podjęciu albo zaprzestaniu działalności;
+
+### 2)
+
+udostępnić upoważnionym osobom do wglądu księgi rachunkowe, sprawozdania finansowe, rejestry, plany, sprawozdania i inne dokumenty oraz umożliwić, na pisemne żądanie, sporządzenie kopii tych dokumentów i innych nośników informacji, jak również udzielić wyjaśnień żądanych przez te osoby;
+
+### 3)
+
+niezwłocznie zawiadomić Komisję Nadzoru Finansowego i Kasę Krajową o środkach, jakie zostaną podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach kontroli oraz nadzoru.
+
+” ;
+
+### 26)
+
+w art. 63:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+Kasa Krajowa sporządza i przekazuje na żądanie Komisji Nadzoru Finansowego plan czynności kontrolnych w kasach na dany rok.
+
+### 2b.
+
+Kasa Krajowa na żądanie Komisji Nadzoru Finansowego dokonuje zmian w planie czynności kontrolnych w kasach na dany rok.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Kasy Krajowej, szczegółowy tryb wykonywania czynności kontrolnych w kasach przez Kasę Krajową, uwzględniając konieczność skutecznego sprawowania kontroli oraz prawidłową realizację zadań kas.
+
+” ;
+
+### 27)
+
+w art. 64 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Komisja Nadzoru Finansowego oraz osoby wykonujące czynności nadzoru nie ponoszą odpowiedzialności za szkodę wynikłą ze zgodnego z przepisami ustaw działania lub zaniechania, które pozostaje w związku ze sprawowanym przez Komisję Nadzoru Finansowego nadzorem nad działalnością kas oraz Kasy Krajowej.
+
+### 3.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, po zasięgnięciu opinii Komisji Nadzoru Finansowego, szczegółowy tryb wykonywania czynności kontrolnych w kasach i w Kasie Krajowej, uwzględniając konieczność skutecznego sprawowania nadzoru.
+
+” ;
+
+### 28)
+
+w art. 65 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zespół inspekcyjny przeprowadza czynności kontrolne w oparciu o dokumenty źródłowe w pomieszczeniach kasy lub Kasy Krajowej.
+
+” ;
+
+### 29)
+
+w art. 66 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+analizie sprawozdań finansowych kas;
+
+” ;
+
+### 30)
+
+art. 67 otrzymuje brzmienie:
+
+„
+
+### Art. 67.
+
+Czynności podejmowane przez Komisję Nadzoru Finansowego w ramach nadzoru nad działalnością kas polegają w szczególności na:
+
+### 1)
+
+dokonywaniu oceny sytuacji finansowej kasy, w tym badaniu wypłacalności, jakości aktywów, płynności płatniczej, wyniku finansowego kasy;
+
+### 2)
+
+badaniu jakości systemu zarządzania kasą, w tym systemu zarządzania ryzykiem oraz funkcji kontroli wewnętrznej;
+
+### 3)
+
+badaniu zgodności udzielanych kredytów, pożyczek pieniężnych oraz emitowanych papierów wartościowych z obowiązującymi w tym zakresie przepisami;
+
+### 4)
+
+badaniu zabezpieczenia i terminowości spłaty kredytów i pożyczek pieniężnych;
+
+### 5)
+
+badaniu przestrzegania limitów, o których mowa w art. 30-32 i art. 37;
+
+### 6)
+
+badaniu przestrzegania przez kasę norm dopuszczalnego ryzyka w działalności kasy, zarządzania ryzykiem prowadzonej działalności, w tym dostosowania do rodzaju i skali działalności kasy procesu identyfikacji i monitorowania ryzyka oraz sprawozdawania o ryzyku, a także dopuszczalnego ryzyka w działalności kasy;
+
+### 7)
+
+badaniu przestrzegania obowiązków wynikających z ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu ([Dz. U. z 2010 r. Nr 46, poz. 276](https://api.sejm.gov.pl/eli/acts/DU/2010/276/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 134, poz. 779, Nr 199, poz. 1175, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1529.](#gloss-0:11:)).
+
+” ;
+
+### 31)
+
+w art. 68 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Czynności podejmowane przez Komisję Nadzoru Finansowego w ramach nadzoru nad działalnością Kasy Krajowej polegają w szczególności na:
+
+### 1)
+
+dokonywaniu oceny sytuacji finansowej Kasy Krajowej, w tym badaniu wypłacalności, jakości aktywów, płynności płatniczej i wyniku finansowego;
+
+### 2)
+
+badaniu sposobu wykorzystania środków funduszu stabilizacyjnego oraz innych środków gromadzonych przez kasy w Kasie Krajowej;
+
+### 3)
+
+badaniu zasad, metod i standardów realizacji celu, o którym mowa w art. 42;
+
+### 4)
+
+kontroli realizacji zadań wynikających z art. 44 ust. 2;
+
+### 5)
+
+badaniu zgodności prowadzonej działalności z przepisami ustawy;
+
+### 6)
+
+badaniu przestrzegania obowiązków wynikających z ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+” ;
+
+### 32)
+
+po art. 68 dodaje się art. 68a w brzmieniu:
+
+„
+
+### Art. 68a.
+
+W celu realizacji zadań ustawowych w zakresie czynności kontrolnych, na podstawie art. 65 ust. 2, zespół inspekcyjny, w zakresie wynikającym z upoważnienia Komisji Nadzoru Finansowego, ma prawo:
+
+### 1)
+
+wstępu do pomieszczeń kontrolowanego;
+
+### 2)
+
+wglądu do dokumentów kontrolowanego;
+
+### 3)
+
+sporządzania uwierzytelnionych kopii, odpisów lub wyciągów z dokumentów oraz zestawień i danych niezbędnych do przeprowadzenia kontroli;
+
+### 4)
+
+wglądu do danych zawartych w systemie informatycznym kontrolowanego oraz sporządzania kopii lub wyciągów z tych danych, w tym w formie elektronicznej;
+
+### 5)
+
+żądania udzielania ustnych lub pisemnych wyjaśnień w zakresie objętym kontrolą, w wyznaczonym terminie, oraz zapewnienia terminowego udzielania wyjaśnień przez pracowników kasy;
+
+### 6)
+
+żądania zapewnienia warunków i środków będących w dyspozycji kontrolowanego niezbędnych do sprawnego przeprowadzania kontroli.
+
+” ;
+
+### 33)
+
+w art. 69:
+
+### a)
+
+ust. 3-6 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Czynności kontrolne są przeprowadzane po uprzednim pisemnym zawiadomieniu kasy lub Kasy Krajowej o terminie i czasie planowanych czynności kontrolnych, składzie zespołu inspekcyjnego oraz zakresie informacji niezbędnych do przygotowania przez jednostkę.
+
+### 4.
+
+Z przeprowadzonych czynności kontrolnych sporządzany jest protokół.
+
+### 5.
+
+Protokół sporządza się w terminie 30 dni roboczych od dnia zakończenia czynności kontrolnych, a jego odpisy przekazuje się odpowiednio:
+
+### 1)
+
+zarządowi kasy albo zarządowi Kasy Krajowej;
+
+### 2)
+
+radzie nadzorczej kasy albo radzie nadzorczej Kasy Krajowej.
+
+### 6.
+
+Protokół podpisują i parafują każdą jego stronę kierujący zespołem inspekcyjnym oraz dwaj członkowie zarządu jednostki kontrolowanej. Termin na podpisanie protokołu wynosi 14 dni roboczych od dnia doręczenia.
+
+” ,
+
+### b)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Odmowa podpisania protokołu przez jednostkę kontrolowaną lub zwłoka w jego podpisaniu nie wpływa na prowadzenie postępowania pokontrolnego, w szczególności wydanie jednostce zaleceń pokontrolnych.
+
+” ,
+
+### c)
+
+ust. 8 i 9 otrzymują brzmienie:
+
+„
+
+### 8.
+
+Zalecenia pokontrolne są przekazywane zarządowi i radzie nadzorczej odpowiednio kasy lub Kasy Krajowej nie później niż w terminie 30 dni roboczych od dnia doręczenia Komisji Nadzoru Finansowego podpisanego protokołu.
+
+### 9.
+
+W uzasadnionych przypadkach terminy, o których mowa w ust. 5 i 8, mogą być przedłużone o kolejne 30 dni roboczych.
+
+” ,
+
+### d)
+
+dodaje się ust. 10 w brzmieniu:
+
+„
+
+### 10.
+
+Zalecenia Komisji Nadzoru Finansowego kierowane do kasy są przekazywane Kasie Krajowej do wiadomości.
+
+” ;
+
+### 34)
+
+po art. 70 dodaje się art. 70a i art. 70b w brzmieniu:
+
+„
+
+### Art. 70a.
+
+### 1.
+
+Komisja Nadzoru Finansowego może żądać informacji od Kasy Krajowej oraz wyjaśnień od członków organów Kasy Krajowej w zakresie niezbędnym dla wykonywania zadań z zakresu nadzoru.
+
+### 2.
+
+Komisja Nadzoru Finansowego wzywa Kasę Krajową do usunięcia w wyznaczonym terminie uchybień stwierdzonych w jej działalności.
+
+### 3.
+
+Kasa Krajowa obowiązana jest niezwłocznie zawiadomić Komisję Nadzoru Finansowego o środkach, jakie zostaną podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach kontroli oraz nadzoru.
+
+### Art. 70b.
+
+Organy kasy i Kasy Krajowej oraz jej pracownicy, na żądanie Komisji Nadzoru Finansowego, działającej przez upoważnione przez nią osoby, są obowiązani do udzielania pisemnych lub ustnych informacji i wyjaśnień oraz okazywania dokumentów lub innych nośników informacji, jak również udostępnienia danych związanych z działalnością kasy i Kasy Krajowej, niezbędnych do wykonywania przez Komisję Nadzoru Finansowego zadań z zakresu nadzoru.
+
+” ;
+
+### 35)
+
+art. 71 otrzymuje brzmienie:
+
+„
+
+### Art. 71.
+
+### 1.
+
+Komisja Nadzoru Finansowego w ramach nadzoru może zalecić kasie lub Kasie Krajowej w szczególności:
+
+### 1)
+
+podjęcie środków koniecznych do przywrócenia płynności lub osiągnięcia i przestrzegania norm;
+
+### 2)
+
+usunięcie w wyznaczonym terminie stwierdzonych uchybień;
+
+### 3)
+
+zwiększenie funduszy własnych;
+
+### 4)
+
+zaniechanie określonych form reklamy;
+
+### 5)
+
+usunięcie w wyznaczonym terminie nieprawidłowości w zakresie przestrzegania obowiązków wynikających z ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+### 2.
+
+W przypadku stwierdzenia, że kasa albo Kasa Krajowa nie realizuje zaleceń, a także gdy działalność kasy albo Kasy Krajowej wykonywana jest z naruszeniem przepisów prawa lub statutu, lub stwarza zagrożenie dla interesów członków kasy albo Kasy Krajowej, Komisja Nadzoru Finansowego, po uprzednim upomnieniu na piśmie, może:
+
+### 1)
+
+wystąpić do właściwego organu kasy lub Kasy Krajowej o odwołanie członków zarządu kasy lub Kasy Krajowej bezpośrednio odpowiedzialnych za stwierdzone uchybienia;
+
+### 2)
+
+zawiesić w czynnościach poszczególnych członków zarządu kasy lub Kasy Krajowej, o których mowa w pkt 1, do czasu rozpatrzenia wniosku o ich odwołanie;
+
+### 3)
+
+nakazać kasie lub Kasie Krajowej ograniczenie zakresu działalności;
+
+### 4)
+
+nakazać kasie lub Kasie Krajowej zaprzestania prowadzenia określonej działalności.
+
+### 3.
+
+Zawieszenie w czynnościach, o którym mowa w ust. 2 pkt 2, polega na wyłączeniu poszczególnych członków zarządu kasy lub Kasy Krajowej z podejmowania decyzji przez kasę albo Kasę Krajową w zakresie jej praw i obowiązków majątkowych.
+
+### 4.
+
+Decyzja Komisji Nadzoru Finansowego o nakazaniu zaprzestania prowadzenia określonej działalności kasy lub Kasy Krajowej może zawierać warunki i terminy.
+
+### 5.
+
+Komisja Nadzoru Finansowego może także zawiesić w czynnościach członka zarządu kasy lub Kasy Krajowej w przypadku:
+
+### 1)
+
+przedstawienia mu zarzutów w postępowaniu karnym lub w postępowaniu w sprawie o przestępstwo skarbowe;
+
+### 2)
+
+spowodowania znaczących strat majątkowych w kasie lub Kasie Krajowej.
+
+Przepisy ust. 2 pkt 2 i ust. 3 stosuje się odpowiednio.
+
+### 6.
+
+Członek zarządu kasy lub Kasy Krajowej obowiązany jest poinformować Komisję Nadzoru Finansowego o postawieniu mu zarzutów w postępowaniu karnym, z wyłączeniem zarzutów dotyczących przestępstwa ściganego z oskarżenia prywatnego, lub w postępowaniu w sprawie o przestępstwo skarbowe w terminie 30 dni od daty postawienia zarzutów.
+
+### 7.
+
+Komisja Nadzoru Finansowego odwołuje członka zarządu kasy lub Kasy Krajowej w przypadku prawomocnego skazania go za przestępstwo umyślne lub przestępstwo skarbowe, z wyłączeniem przestępstw ściganych z oskarżenia prywatnego, a także w przypadku niedopełnienia przez niego obowiązku, o którym mowa w ust. 6.
+
+” ;
+
+### 36)
+
+po art. 71 dodaje się art. 71a w brzmieniu:
+
+„
+
+### Art. 71a.
+
+Decyzjom Komisji Nadzoru Finansowego w sprawie:
+
+### 1)
+
+zawieszenia w czynnościach członków zarządu kasy lub Kasy Krajowej,
+
+### 2)
+
+ograniczenia zakresu działalności kasy lub Kasy Krajowej,
+
+### 3)
+
+odwołania członka zarządu kasy lub Kasy Krajowej,
+
+### 4)
+
+odwołania kuratora,
+
+### 5)
+
+odwołania likwidatora kasy,
+
+### 6)
+
+zawieszenia działalności kasy
+
+- nadaje się rygor natychmiastowej wykonalności.
+
+” ;
+
+### 37)
+
+w art. 72:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W razie niewykonywania zaleceń, o których mowa w art. 71 ust. 1, Komisja Nadzoru Finansowego może nakładać na członków zarządu kasy lub Kasy Krajowej kary pieniężne do wysokości sześciokrotności minimalnego wynagrodzenia za pracę określonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. Nr 200, poz. 1679](https://api.sejm.gov.pl/eli/acts/DU/2002/1679/text.html), z [2004 r. Nr 240, poz. 2407](https://api.sejm.gov.pl/eli/acts/DU/2004/2407/text.html) oraz z [2005 r. Nr 157, poz. 1314](https://api.sejm.gov.pl/eli/acts/DU/2005/1314/text.html)), ustalonego na dany rok, na podstawie odrębnych przepisów, w dniu nałożenia kary.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W razie niewykonywania obowiązków, o których mowa w art. 62d i art. 70a, Komisja Nadzoru Finansowego może nakładać na członków zarządu odpowiednio kasy lub Kasy Krajowej kary pieniężne do wysokości, o której mowa w ust. 1.
+
+” ;
+
+### 38)
+
+po art. 72 dodaje się rozdział 6a w brzmieniu:
+
+„
+
+### Rozdział 6a Postępowanie naprawcze i zarząd komisaryczny
+
+### Art. 72a.
+
+### 1.
+
+W razie powstania w kasie straty bilansowej albo groźby jej wystąpienia, albo powstania niebezpieczeństwa niewypłacalności lub zagrożenia utraty płynności płatniczej, zarząd kasy niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego oraz Kasę Krajową i przystępuje do opracowania programu postępowania naprawczego.
+
+### 2.
+
+Program postępowania naprawczego, o którym mowa w ust. 1, kasa przedstawia do zaopiniowania Kasie Krajowej oraz przedkłada Komisji Nadzoru Finansowego, zapewniając jego realizację.
+
+### 3.
+
+Komisja Nadzoru Finansowego może wyznaczyć kasie termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zlecić jego uzupełnienie lub ponowne opracowanie.
+
+### 4.
+
+W razie zaniechania działań, o których mowa w ust. 1, Komisja Nadzoru Finansowego może zobowiązać kasę do wszczęcia postępowania naprawczego i opracowania programu postępowania naprawczego, o którym mowa w ust. 1, informując o tym Kasę Krajową.
+
+### Art. 72b.
+
+### 1.
+
+W razie powstania w Kasie Krajowej straty bilansowej albo groźby jej wystąpienia, albo powstania niebezpieczeństwa niewypłacalności lub zagrożenia utraty płynności płatniczej, zarząd Kasy Krajowej niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego oraz przystępuje do opracowania programu postępowania naprawczego. Kasa Krajowa przedkłada program Komisji Nadzoru Finansowego oraz zapewnia jego realizację.
+
+### 2.
+
+Komisja Nadzoru Finansowego może wyznaczyć Kasie Krajowej termin na opracowanie programu postępowania naprawczego, o którym mowa w ust. 1, oraz zlecić jego uzupełnienie lub ponowne opracowanie.
+
+### 3.
+
+W razie zaniechania działań, o których mowa w ust. 1, Komisja Nadzoru Finansowego może zobowiązać Kasę Krajową do wszczęcia postępowania naprawczego i opracowania programu postępowania naprawczego, o którym mowa w ust. 1.
+
+### Art. 72c.
+
+### 1.
+
+Komisja Nadzoru Finansowego może ustanowić kuratora nadzorującego wykonanie programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1.
+
+### 2.
+
+Kuratorowi przysługuje prawo uczestniczenia w posiedzeniach organów kasy lub Kasy Krajowej oraz uzyskiwania wszelkich informacji niezbędnych do wykonywania jego funkcji.
+
+### 3.
+
+Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu i rady nadzorczej odpowiednio kasy lub Kasy Krajowej. Oświadczenie o zamiarze wniesienia sprzeciwu zgłoszone na posiedzeniu rady nadzorczej lub zarządu wstrzymuje wykonanie uchwały lub decyzji.
+
+### 4.
+
+Sprzeciw, o którym mowa w ust. 3, kurator wnosi do właściwego sądu okręgowego sądu gospodarczego w terminie 14 dni od daty podjęcia uchwały lub decyzji zarządu lub rady nadzorczej.
+
+### 5.
+
+W przypadku braku wniesienia sprzeciwu do sądu w terminie, o którym mowa w ust. 4, lub w przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o których mowa w ust. 3, może zostać wykonana.
+
+### 6.
+
+Kurator może zaskarżyć do sądu uchwałę walnego zgromadzenia kasy lub Kasy Krajowej. Przepis art. 42 ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze stosuje się odpowiednio.
+
+### 7.
+
+Kurator otrzymuje w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
+
+### 8.
+
+Okres urlopu bezpłatnego zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych.
+
+### 9.
+
+Od decyzji o ustanowieniu kuratora kasa lub Kasa Krajowa może wnieść skargę do sądu administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego nie stosuje się.
+
+### 10.
+
+Kurator składa Komisji Nadzoru Finansowego kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez kasę lub Kasę Krajową programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1. W przypadku programów postępowania naprawczego, o których mowa w art. 72a ust. 1, realizowanych w kasach sprawozdania przekazywane są także Kasie Krajowej.
+
+### 11.
+
+Koszty związane z wykonywaniem funkcji kuratora obciążają koszty działalności kasy lub Kasy Krajowej. Wynagrodzenie kuratora ustala Komisja Nadzoru Finansowego, z tym że w kasach, w których w statutach przewidziano wynagrodzenie dla prezesa zarządu, wynagrodzenie kuratora nie może być wyższe niż wynagrodzenie prezesa zarządu kasy, w której ustanowiono kuratora.
+
+### 12.
+
+Komisja Nadzoru Finansowego odwołuje kuratora nadzorującego wykonywanie programu postępowania naprawczego, o którym mowa w art. 72a ust. 1 lub w art. 72b ust. 1, po zrealizowaniu tego programu przez kasę lub Kasę Krajową, a także w przypadku jego rezygnacji, niewłaściwego wykonywania funkcji lub też innych względów uniemożliwiających kuratorowi należyte wykonywanie tej funkcji.
+
+” ;
+
+### 39)
+
+w art. 73:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+W przypadku powstania groźby zaprzestania spłacania zobowiązań przez kasę lub Kasę Krajową lub jeżeli zarząd kasy lub Kasy Krajowej nie przekaże programu postępowania naprawczego zgodnie z art. 72a i art. 72b albo gdy realizacja tego programu okaże się nieskuteczna, Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu zarządcy komisarycznego. Ustanowienie zarządcy komisarycznego w kasie lub w Kasie Krajowej nie wpływa na organizację i sposób działania odpowiednio kasy lub Kasy Krajowej, z wyjątkiem zmian przewidzianych ustawą.
+
+### 2.
+
+Zarządca komisaryczny, o którym mowa w ust. 1, ustanawiany jest na czas nie dłuższy niż do końca realizacji programu postępowania naprawczego.
+
+### 3.
+
+Z dniem ustanowienia zarządcy komisarycznego członkowie zarządu kasy lub Kasy Krajowej zostają odwołani z mocy prawa, a udzielone wcześniej prokury i pełnomocnictwa wygasają. Kompetencje innych organów kasy lub Kasy Krajowej ulegają zawieszeniu. Na zarządcę komisarycznego przechodzi prawo podejmowania decyzji we wszystkich sprawach kasy lub Kasy Krajowej, z wyjątkiem wprowadzania zmian w ich statutach.
+
+” ,
+
+### b)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Zarządca komisaryczny opracowuje i uzgadnia z Komisją Nadzoru Finansowego program postępowania naprawczego, kieruje jego realizacją oraz informuje Komisję Nadzoru Finansowego i radę nadzorczą kasy lub Kasy Krajowej o wynikach jego realizacji.
+
+### 6.
+
+Od decyzji, o której mowa w ust. 1, rada nadzorcza kasy lub Kasy Krajowej może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego nie stosuje się.
+
+” ,
+
+### c)
+
+po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+„
+
+### 6a.
+
+Członkowie zarządu komisarycznego otrzymują w razie potrzeby urlop bezpłatny w macierzystym zakładzie pracy na czas pełnienia tej funkcji.
+
+### 6b.
+
+Okres urlopu bezpłatnego zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych.
+
+” ,
+
+### d)
+
+uchyla się ust. 7,
+
+### e)
+
+dodaje się ust. 8 i 9 w brzmieniu:
+
+„
+
+### 8.
+
+Koszty związane z wykonywaniem funkcji zarządcy komisarycznego w kasie lub Kasie Krajowej obciążają odpowiednio koszty działalności kasy lub Kasy Krajowej. Wynagrodzenie zarządcy komisarycznego ustala Komisja Nadzoru Finansowego.
+
+### 9.
+
+W przypadku realizacji programu postępowania naprawczego w kasie, zarządca komisaryczny przekazuje Kasie Krajowej informacje, o których mowa w ust. 5.
+
+” ;
+
+### 40)
+
+po art. 73 dodaje się art. 73a w brzmieniu:
+
+„
+
+### Art. 73a.
+
+### 1.
+
+Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu w kasie lub w Kasie Krajowej zarządcy komisarycznego także w przypadku gdy działalność kasy lub Kasy Krajowej wykazuje rażące lub uporczywe naruszanie przepisów prawa. Zarządcę komisarycznego ustanawia się na okres niezbędny do usunięcia nieprawidłowości związanych z rażącym lub uporczywym naruszaniem przepisów prawa.
+
+### 2.
+
+Komisja Nadzoru Finansowego może podjąć decyzję o ustanowieniu w kasie lub w Kasie Krajowej zarządcy komisarycznego także w przypadku gdy skład zarządu kasy lub Kasy Krajowej nie odpowiada wymogom ustawy, w celu zorganizowania wyboru nowego zarządu. Zarządca komisaryczny działa nie dłużej niż do chwili powołania nowego zarządu kasy lub Kasy Krajowej oraz uzyskania zgody Komisji Nadzoru Finansowego na powołanie prezesa zarządu. Przepisy art. 73 ust. 3, 6-6b i 8 stosuje się odpowiednio.
+
+” ;
+
+### 41)
+
+uchyla się art. 74;
+
+### 42)
+
+po art. 74 dodaje się rozdziały 6b i 6c w brzmieniu:
+
+„
+
+### Rozdział 6b Przejęcie, likwidacja i upadłość kas
+
+### Art. 74a.
+
+### 1.
+
+Kasa może połączyć się z inną kasą po uzyskaniu zezwolenia Komisji Nadzoru Finansowego.
+
+### 2.
+
+Komisja Nadzoru Finansowego odmawia wydania zezwolenia, jeżeli połączenie prowadziłoby do naruszenia przepisów prawa lub bezpieczeństwa środków gromadzonych w kasie biorącej udział w połączeniu lub jeżeli połączenie mogłoby okazać się niekorzystne dla ostrożnego i stabilnego zarządzania działalnością kas podlegających łączeniu.
+
+### Art. 74b.
+
+### 1.
+
+W przypadku podziału kasy z wydzielonej części kasy podlegającej podziałowi może zostać utworzona wyłącznie nowa kasa.
+
+### 2.
+
+Podział kasy, o którym mowa w ust. 1, wymaga zezwolenia Komisji Nadzoru Finansowego.
+
+### 3.
+
+Do zezwolenia, o którym mowa w ust. 2, art. 7 stosuje się odpowiednio.
+
+### 4.
+
+Komisja Nadzoru Finansowego odmawia wydania zezwolenia także w przypadku gdy podział kasy okazałby się niekorzystny dla ostrożnego i stabilnego zarządzania kasą dzieloną albo kasami, na które zostaje przeniesiony majątek dzielonej kasy.
+
+### Art. 74c.
+
+### 1.
+
+Jeżeli strata bilansowa kasy spowoduje obniżenie wyrażonego procentowo stosunku funduszy własnych do wartości aktywów poniżej 1%, kasa niezwłocznie informuje o tym Komisję Nadzoru Finansowego, Bankowy Fundusz Gwarancyjny i Kasę Krajową.
+
+### 2.
+
+Kasa Krajowa, po uzyskaniu opinii komisji funduszu stabilizacyjnego, o której mowa w art. 52 ust. 1, w terminie 14 dni od dnia uzyskania informacji, o której mowa w ust. 1, przedstawia Komisji Nadzoru Finansowego decyzję o udzieleniu lub odmowie udzielenia pomocy z funduszu stabilizacyjnego dla kasy. Minimalna kwota pomocy powinna zapewnić kasie utrzymanie wyrażonego procentowo stosunku funduszy własnych do wartości aktywów powyżej poziomu określonego w ust. 1.
+
+### 3.
+
+W przypadku gdy Kasa Krajowa odmówi udzielenia pomocy z funduszu stabilizacyjnego, o której mowa w ust. 2, Komisja Nadzoru Finansowego może podjąć decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę, za zgodą kasy przejmującej. Decyzja o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę może zostać podjęta przez Komisję Nadzoru Finansowego, jeżeli w wyniku przejęcia wyrażony procentowo stosunek funduszy własnych do wartości aktywów kasy przejmującej po przejęciu kasy albo po przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy nie obniży się poniżej poziomu określonego w ust. 1.
+
+### 4.
+
+W przypadku braku zgody innej kasy na przejęcie kasy lub braku możliwości przejęcia kasy przez inną kasę, Komisja Nadzoru Finansowego uwzględniając potrzebę ochrony stabilności rynku finansowego i bezpieczeństwa środków zgromadzonych na rachunkach kasy może podjąć decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez bank krajowy, za jego zgodą albo decyzję o likwidacji kasy.
+
+### 5.
+
+Podejmując decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy Komisja Nadzoru Finansowego uwzględnia zakres zgody przejmującego oraz w przypadku gdy wartość przejmowanych praw majątkowych jest niższa niż wartość przejmowanych zobowiązań kasy, decyzję Bankowego Funduszu Gwarancyjnego odnośnie udzielenia wsparcia w formie, o której mowa w art. 20g ust. 2 pkt 4 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym.
+
+### 6.
+
+W przypadku decyzji o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przejęcie powinno obejmować wszystkie prawa majątkowe i zobowiązania wobec członka kasy oraz wartość jego prawa do funduszu udziałowego.
+
+### 7.
+
+Tryb i terminy przejęcia lub likwidacji kasy określa decyzja, o której mowa w ust. 3 i 4. W decyzji o likwidacji kasy Komisja Nadzoru Finansowego ustanawia także likwidatora.
+
+### 8.
+
+Od decyzji, o której mowa w ust. 3 i 4, rada nadzorcza kasy może wnieść skargę do sądu administracyjnego w terminie 7 dni od daty jej doręczenia. Wniesienie skargi nie wstrzymuje wykonania decyzji, jednakże przed rozpatrzeniem skargi nie może być rozpoczęte zbywanie majątku kasy w likwidacji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego nie stosuje się.
+
+### 9.
+
+W przypadku uznania skargi na decyzję o przejęciu kasy albo o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy za zasadną, sąd orzeka o jej wydaniu z naruszeniem prawa. Przepisu art. 145 § 1 pkt 1 i 2 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. z 2012 r. poz. 270](https://api.sejm.gov.pl/eli/acts/DU/2012/270/text.html), [1101](https://api.sejm.gov.pl/eli/acts/DU/2012/1101/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html)) nie stosuje się.
+
+### 10.
+
+W przypadku podjęcia przez Komisję Nadzoru Finansowego decyzji o przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy Komisja Nadzoru Finansowego podejmuje jednocześnie decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej. Przepisy art. 73 ust. 3-6b, 8 i 9 stosuje się odpowiednio.
+
+### 11.
+
+W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy zobowiązania pozostałe w kasie zaspokajane są z majątku tej kasy.
+
+### 12.
+
+Przejęcie wybranych praw majątkowych lub wybranych zobowiązań kasy nie wymaga zgody dłużników, wierzycieli oraz członków kasy, której prawa majątkowe lub zobowiązania są przedmiotem przejęcia.
+
+### 13.
+
+W przypadku przejęcia kasy albo przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez bank spółdzielczy przepisy art. 5 ust. 3 i 4 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających ([Dz. U. Nr 119, poz. 1252](https://api.sejm.gov.pl/eli/acts/DU/2000/1252/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824, z 2003 r. Nr 137, poz. 1303 i Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 52, poz. 344, z 2008 r. Nr 209, poz. 1315 oraz z 2009 r. Nr 127, poz. 1050.](#gloss-0:12:)) stosuje się odpowiednio.
+
+### 14.
+
+W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przez inną kasę przepisy art. 100 ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze stosuje się odpowiednio.
+
+### 15.
+
+W przypadku przejęcia kasy termin na przekazanie informacji, o której mowa w art. 231 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2.](#gloss-0:13:)), nie może być krótszy niż 2 dni. W przypadku decyzji o likwidacji kasy przepisu art. 231 tej ustawy nie stosuje się.
+
+### Art. 74d.
+
+Z dniem określonym w decyzji Komisji Nadzoru Finansowego o likwidacji kasy, o której mowa w art. 74c ust. 4, zarząd kasy ulega rozwiązaniu, mandaty jego członków ulegają wygaśnięciu, a zarząd majątkiem likwidowanej kasy obejmuje likwidator. Kompetencje rady nadzorczej, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone. Likwidator reprezentuje kasę w likwidacji w sądzie i poza sądem. Przepisy art. 119-129 ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze stosuje się odpowiednio.
+
+### Art. 74e.
+
+### 1.
+
+Bilans otwarcia likwidacji, program likwidacji oraz sprawozdanie z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego.
+
+### 2.
+
+Likwidator, nie rzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego, Bankowemu Funduszowi Gwarancyjnemu, Kasie Krajowej i radzie nadzorczej sprawozdania z przebiegu likwidacji.
+
+### 3.
+
+Podział pomiędzy członków kasy majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji.
+
+### Art. 74f.
+
+### 1.
+
+Likwidatorowi przysługuje prawo żądania zmiany treści zobowiązania zaciągniętego przez kasę w okresie roku przed otwarciem likwidacji, jeżeli druga strona uzyskała wierzytelność na warunkach korzystniejszych od stosowanych w tym okresie przez kasę. Powództwo rozpoznaje właściwy miejscowo sąd okręgowy sąd gospodarczy.
+
+### 2.
+
+Likwidator prowadzi likwidację w taki sposób, aby zapewnić zaspokojenie lub przejęcie zobowiązań kasy w likwidacji z tytułu środków gwarantowanych zdeponowanych na rachunkach deponentów, o których mowa w art. 38l pkt 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym.
+
+### 3.
+
+Likwidator może potrącić z wierzytelności likwidowanej kasy dług wynikający z rachunku kasy także wtedy, gdy terminy jego spłaty jeszcze nie nastąpiły.
+
+### 4.
+
+Po zakończeniu likwidacji likwidator sporządza sprawozdanie likwidacyjne i składa je Komisji Nadzoru Finansowego, Kasie Krajowej oraz sądowi rejestrowemu z wnioskiem o wykreślenie kasy z rejestru.
+
+### Art. 74g.
+
+W przypadku podjęcia przez Komisję Nadzoru Finansowego decyzji o połączeniu kas, przejęciu kasy albo przejęciu wybranych praw majątkowych lub wybranych zobowiązań kasy art. 10 i art. 11 nie stosuje się.
+
+### Art. 74h.
+
+### 1.
+
+W czasie likwidacji wynajmujący lub wydzierżawiający, bez zgody likwidatora, nie może wypowiedzieć umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone przedsiębiorstwo kasy w likwidacji, o ile kasa w likwidacji wywiązuje się z zobowiązań określonych w umowie.
+
+### 2.
+
+W przypadku przejęcia kasy albo przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy, wynajmujący lub wydzierżawiający nie może, bez zgody przejmującego, w okresie 6 miesięcy od dnia, w którym nastąpiło przejęcie kasy albo wybranych praw majątkowych lub wybranych zobowiązań kasy, wypowiedzieć umowy najmu lub dzierżawy lokalu lub nieruchomości, w których jest prowadzone zbyte przedsiębiorstwo lub jego część, o ile przejmujący wywiązuje się z zobowiązań określonych w umowie najmu lub dzierżawy.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do umów leasingu, ubezpieczeń majątkowych, umów rachunku bankowego, umów poręczeń i gwarancji bankowych oraz akredytyw, jak również umów obejmujących licencje.
+
+### Art. 74i.
+
+### 1.
+
+Przejęcie kasy rozlicza się i ujmuje w księgach rachunkowych kasy albo banku krajowego przejmującego na podstawie sprawozdania finansowego sporządzonego na dzień przejęcia. W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przejmowane prawa majątkowe lub zobowiązania rozlicza się i ujmuje w księgach rachunkowych kasy, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań, a także kasy albo banku krajowego przejmującego na podstawie sprawozdania finansowego sporządzonego na dzień przejęcia. Sprawozdanie sporządza przejmujący kasę, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań zarządca komisaryczny.
+
+### 2.
+
+Z dniem przejęcia kasa albo bank krajowy przejmujący wchodzi we wszystkie prawa i obowiązki kasy przejmowanej, a w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań, następstwo prawne ogranicza się do przejmowanych praw majątkowych i zobowiązań.
+
+### 3.
+
+Sprawozdanie finansowe, o którym mowa w ust. 1, poddawane jest badaniu przez podmiot uprawniony do badania sprawozdań finansowych.
+
+### 4.
+
+Kasa albo bank krajowy przejmujący zgłosi do właściwego rejestru sądowego przejęcie kasy wraz ze sprawozdaniem finansowym zbadanym przez podmiot uprawniony do badania sprawozdań finansowych. Zarządca komisaryczny kasy, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań, zgłosi do właściwego rejestru sądowego przejęcie wybranych praw majątkowych lub wybranych zobowiązań wraz ze sprawozdaniem finansowym zbadanym przez podmiot uprawniony do badania sprawozdań finansowych.
+
+### 5.
+
+Kasa albo bank krajowy przejmujący złoży do właściwego rejestru sądowego wniosek o wykreślenie z rejestru przejmowanej kasy.
+
+### 6.
+
+Fundusze własne przejmowanej kasy przeznacza się w pierwszej kolejności na pokrycie strat bilansowych tej kasy.
+
+### 7.
+
+Po zaspokojeniu lub zabezpieczeniu wierzycieli przejętej kasy z jej majątku, kasa albo bank krajowy przejmujący dokonuje wypłat członkom przejętej kasy z jej pozostałego majątku w proporcji do funduszu udziałowego przejmowanej kasy ustalonego na dzień przejęcia. Wartość prawa do funduszu udziałowego jest ustalana przy uwzględnieniu sprawozdania finansowego kasy przejmowanej sporządzonego za okres sprawozdawczy kończący się w dniu przejęcia.
+
+### 8.
+
+Jeżeli w przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy wartość przejmowanych praw majątkowych ustalonych zgodnie z ust. 1 jest wyższa niż wartość przejmowanych zobowiązań, przejmujący w terminie 14 dni od ustalenia wartości zgodnie z ust. 1 jest zobowiązany zapłacić nadwyżkę kasie, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań.
+
+### 9.
+
+W przypadku gdy przejęcie kasy albo przejęcie wybranych praw majątkowych lub wybranych zobowiązań kasy jest przyczyną szkody dochodzonej na zasadach ogólnych, poszkodowany nie może żądać naprawienia poniesionej szkody poprzez zapłatę kwoty wyższej niż różnica między kwotą, która zostałaby uzyskana w przypadku wydania przez sąd postanowienia o ogłoszeniu upadłości kasy obejmującej likwidację majątku dłużnika, a kwotą uzyskaną w wyniku zaspokojenia wierzytelności lub wartością udziałów ustaloną zgodnie z ust. 1. Ustalenia różnicy kwot, o której mowa w poprzednim zdaniu, dokonuje się przy założeniu, że w dniu przejęcia, określonym zgodnie z art. 74c ust. 7, sąd wydał postanowienie o ogłoszeniu upadłości kasy obejmującej likwidację majątku dłużnika.
+
+### Art. 74j.
+
+### 1.
+
+Z dniem określonym w decyzji Komisji Nadzoru Finansowego o przejęciu kasy:
+
+### 1)
+
+zarząd albo zarządca komisaryczny przejmowanej kasy ulegają rozwiązaniu, a kompetencje innych jej organów, z zastrzeżeniem art. 74c ust. 8, zostają zawieszone;
+
+### 2)
+
+kasa albo bank krajowy przejmujący obejmuje zarząd majątkiem przejmowanej kasy w zakresie określonym decyzją, o której mowa w art. 74c ust. 3 i 4;
+
+### 3)
+
+wygasają prokury i pełnomocnictwa udzielone przez przejętą kasę.
+
+### 2.
+
+Kasa albo bank krajowy przejmujący dwukrotnie ogłasza w dziennikach o zasięgu ogólnopolskim i w Monitorze Spółdzielczym decyzję o przejęciu kasy oraz wzywa wierzycieli tej kasy do zgłoszenia roszczeń w terminie miesiąca od daty ostatniego ogłoszenia. Obowiązek ten nie dotyczy wierzycieli z tytułu rachunków. W przypadku braku zgłoszenia roszczenia przez wierzyciela przejmowanej kasy wierzytelność nie przysługuje w stosunku do kasy lub banku krajowego przejmującego.
+
+### 3.
+
+W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasy przepisów ust. 1 i 2 nie stosuje się.
+
+### 4.
+
+W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasa lub bank krajowy przejmujący dwukrotnie ogłasza o takim przejęciu w dzienniku o zasięgu ogólnopolskim i w Monitorze Sądowym i Gospodarczym.
+
+### 5.
+
+W przypadku przejęcia wybranych praw majątkowych lub wybranych zobowiązań kasa lub bank krajowy przejmujący powiadomi dłużników i wierzycieli przejmowanych praw majątkowych lub zobowiązań o przejęciu:
+
+### 1)
+
+poprzez ogłoszenie na swojej stronie internetowej lub
+
+### 2)
+
+poprzez ogłoszenie w swojej siedzibie i placówkach, lub
+
+### 3)
+
+w sposób określony w umowach zawartych z dłużnikami i wierzycielami.
+
+### 6.
+
+Kasa, w stosunku do której podjęto decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań, na wniosek kasy albo banku przejmującego niezwłocznie zamieszcza ogłoszenie, o którym mowa w ust. 5:
+
+### 1)
+
+na swojej stronie internetowej;
+
+### 2)
+
+w swojej siedzibie i placówkach.
+
+### Art. 74k.
+
+### 1.
+
+Jeżeli na dzień sprawozdawczy określony w przepisach wydanych na podstawie art. 62c ust. 4 aktywa kasy nie wystarczają na zaspokojenie jej zobowiązań, zarząd kasy, zarządca komisaryczny lub likwidator powiadamia o tym niezwłocznie Komisję Nadzoru Finansowego, która podejmuje decyzję o ustanowieniu zarządcy komisarycznego, o ile nie został ustanowiony wcześniej, i może podjąć decyzję o zawieszeniu działalności kasy oraz wystąpić do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy, a także Kasę Krajową. O podjętej decyzji Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny oraz Kasę Krajową. Przepisy art. 73 ust. 3-6b i 8 stosuje się odpowiednio.
+
+### 2.
+
+Jeżeli z powodów związanych bezpośrednio z sytuacją finansową kasy nie reguluje ona swoich zobowiązań w zakresie wypłaty środków, o których mowa w art. 38l pkt 2 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, wobec deponentów w rozumieniu art. 38l pkt 1 tej ustawy, Komisja Nadzoru Finansowego - w terminie 5 dni roboczych od dnia stwierdzenia tej okoliczności - podejmuje decyzję, o której mowa w ust. 1. O podjętej decyzji Komisja Nadzoru Finansowego niezwłocznie zawiadamia Bankowy Fundusz Gwarancyjny.
+
+### 3.
+
+Decyzję, o której mowa w ust. 1, Komisja Nadzoru Finansowego może podjąć także z własnej inicjatywy, jeżeli nie nastąpi powiadomienie, o którym mowa w ust. 1.
+
+### 4.
+
+Decyzja o zawieszeniu działalności kasy, o której mowa w ust. 1, jest podawana do publicznej wiadomości w drodze ogłoszenia w dzienniku o zasięgu ogólnopolskim i w Monitorze Sądowym i Gospodarczym.
+
+### 5.
+
+Wniosek o ogłoszenie upadłości kasy może złożyć wyłącznie Komisja Nadzoru Finansowego.
+
+### Art. 74l.
+
+### 1.
+
+W okresie zawieszenia działalności, o którym mowa w art. 74k ust. 1, kasa:
+
+### 1)
+
+nie reguluje swoich zobowiązań, z wyjątkiem związanych z ponoszeniem uzasadnionych kosztów bieżącej działalności, i nie prowadzi działalności, o której mowa w art. 3 ust. 1 i 1a, a jedynie prowadzi działalność w zakresie windykacji należności oraz realizacji poleceń przelewu na rachunki organów podatkowych;
+
+### 2)
+
+nie wypłaca środków pochodzących z nadwyżki bilansowej ani oprocentowania wkładów.
+
+### 2.
+
+W okresie zawieszenia w stosunku do kasy nie może zostać wszczęte postępowanie egzekucyjne, a wszczęte wcześniej ulega zawieszeniu. Zawieszeniu ulega również egzekucja z rachunków prowadzonych przez tę kasę.
+
+### 3.
+
+Warunki i zakres działalności kasy w okresie zawieszenia określa decyzja, o której mowa w art. 74k ust. 1.
+
+### Art. 74m.
+
+### 1.
+
+Bezskuteczne w stosunku do majątku kasy przejmowanej lub kasy w likwidacji są czynności prawne dokonane przez kasę w ciągu roku przed dniem wydania decyzji o przejęciu lub likwidacji, o których mowa w art. 74c ust. 3 i 4, którymi rozporządziła ona swoim majątkiem, jeżeli dokonane zostały nieodpłatnie albo odpłatnie, ale wartość świadczenia kasy przewyższa w rażącym stopniu wartość świadczenia otrzymanego przez kasę lub zastrzeżonego dla kasy lub dla osoby trzeciej.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do ugody sądowej, uznania powództwa i zrzeczenia się roszczenia.
+
+### 3.
+
+Bezskuteczne są również zabezpieczenie i zapłata długu niewymagalnego, dokonane przez kasę w terminie 2 miesięcy przed dniem wydania decyzji, o których mowa w ust. 1.
+
+### Art. 74n.
+
+### 1.
+
+Bezskuteczne są czynności prawne odpłatne rozporządzające dokonane przez kasę w terminie 6 miesięcy przed dniem przejęcia albo likwidacji, z jej członkami zarządu, pełnomocnikami lub ich małżonkami, jak również z podmiotami powiązanymi w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe, ich wspólnikami lub członkami, członkami zarządu, pełnomocnikami zarządu, lub małżonkami tych osób.
+
+### 2.
+
+Przepis ust. 1 stosuje się także do czynności kasy, których dokonała z innym podmiotem, jeżeli jeden z nich był podmiotem dominującym w rozumieniu art. 4 pkt 14 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego obrotu oraz o spółkach publicznych ([Dz. U. z 2009 r. Nr 185, poz. 1439](https://api.sejm.gov.pl/eli/acts/DU/2009/1439/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433.](#gloss-0:14:)), w dacie dokonania czynności.
+
+### Art. 74o.
+
+### 1.
+
+Bezskuteczne są obciążenia majątku kasy przejmowanej lub kasy w likwidacji hipoteką, zastawem, zastawem rejestrowym lub hipoteką morską, jeżeli kasa nie była dłużnikiem osobistym zabezpieczonego wierzyciela, a obciążenie to zostało ustanowione w ciągu roku przed dniem decyzji o przejęciu lub likwidacji, o których mowa w art. 74c ust. 3 i 4, i w związku z jego ustanowieniem kasa nie otrzymała żadnego świadczenia.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio, jeżeli zabezpieczenie rzeczowe ustanowione zostało w zamian za świadczenie, które jest niewspółmiernie niskie w stosunku do wartości udzielanego zabezpieczenia.
+
+### 3.
+
+Bez względu na wysokość świadczenia otrzymanego przez kasę bezskuteczne są obciążenia, o których mowa w ust. 1 i 2, jeżeli obciążenia te zabezpieczają zobowiązania osób, o których mowa w art. 74n ust. 1.
+
+### Art. 74p.
+
+### 1.
+
+Bezskuteczna jest umowa przeniesienia własności rzeczy, wierzytelności lub innego prawa majątkowego kasy przejmowanej lub kasy w likwidacji zawarta w celu zabezpieczenia wierzytelności, jeżeli nie została zawarta w formie pisemnej z datą pewną.
+
+### 2.
+
+Umowa ustanawiająca zabezpieczenie finansowe na podstawie ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych ([Dz. U. z 2012 r. poz. 942](https://api.sejm.gov.pl/eli/acts/DU/2012/942/text.html) i [1166](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.html)) dla swojej skuteczności wobec kasy nie wymaga zachowania formy pisemnej z datą pewną.
+
+### Art. 74q.
+
+### 1.
+
+Jeżeli wynagrodzenie za pracę członka zarządu albo pełnomocnika kasy, w stosunku do której podjęto decyzję, o której mowa w art. 74c ust. 3 i 4, określone w umowie o pracę lub umowie o świadczenie usług zawartej przed dniem decyzji, o których mowa w art. 74c ust. 3 i 4, jest rażąco wyższe od przeciętnego wynagrodzenia za tego rodzaju pracę lub usługi i nie jest uzasadnione nakładem pracy, wynagrodzenie lub jego część przypadające za okres przed tym dniem, nie dłużej jednak niż 6 miesięcy, jest bezskuteczne w stosunku do kasy, chociażby zostało już wypłacone.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do świadczeń przysługujących w związku z rozwiązaniem stosunku pracy albo umowy o usługi związane z zarządzaniem przedsiębiorstwem kasy.
+
+### 3.
+
+Powództwo odpowiednio likwidatora, kasy lub banku przejmującego o ustalenie wysokości należnego wynagrodzenia rozpoznaje właściwy miejscowo sąd okręgowy sąd gospodarczy.
+
+### Art. 74r.
+
+W sprawach nieuregulowanych w art. 74m-74q do zaskarżenia czynności prawnych kasy przejmowanej lub kasy w likwidacji dokonanych z pokrzywdzeniem wierzycieli, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432, Nr 85, poz. 458 i Nr 230, poz. 1370.](#gloss-0:15:)) o ochronie wierzyciela w razie niewypłacalności dłużnika.
+
+### Art. 74s.
+
+### 1.
+
+Nie można uznać czynności za bezskuteczną po upływie dwóch lat od dnia wydania decyzji, o których mowa w art. 74c ust. 3 i 4, chyba że na podstawie przepisów ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny uprawnienie to wygasło wcześniej.
+
+### 2.
+
+Jeżeli czynność kasy przejmowanej lub kasy w likwidacji jest bezskuteczna z mocy prawa lub została uznana za bezskuteczną, wówczas to, co wskutek tej czynności ubyło z majątku kasy lub do niego nie weszło, podlega przekazaniu do kasy przejmowanej lub kasy w likwidacji, a gdy przekazanie w naturze jest niemożliwe, do kasy powinna być wpłacona równowartość w pieniądzach. Do chwili przekazania osobie trzeciej nie zwraca się świadczenia wzajemnego.
+
+### Art. 74t.
+
+### 1.
+
+Kasa jest uprawniona do sprzedaży wierzytelności pieniężnych byłych członków wynikających z tytułu udzielonych pożyczek i kredytów po ustaniu członkostwa w kasie zbywającej wierzytelności.
+
+### 2.
+
+Wierzytelności kredytowe kasy są zbywane:
+
+### 1)
+
+w drodze aukcji i przetargu;
+
+### 2)
+
+na podstawie oferty publicznej;
+
+### 3)
+
+w wyniku negocjacji podjętych na podstawie publicznego zaproszenia.
+
+### 3.
+
+Nabywcą niewymagalnych wierzytelności kredytowych kas może być:
+
+### 1)
+
+kasa;
+
+### 2)
+
+bank krajowy.
+
+### 4.
+
+Umowa sprzedaży wierzytelności powinna być zawarta w formie pisemnej pod rygorem nieważności.
+
+### 5.
+
+W przypadku nabycia wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym sąd prowadzący księgę wieczystą lub rejestr zastawów, na wniosek nabywcy o wpis zmiany dotychczasowego wierzyciela, dokonuje wpisu w księdze wieczystej lub w rejestrze zastawów o zmianie wierzyciela, na rzecz którego była ustanowiona hipoteka lub zastaw rejestrowy. Nabywca, składając wniosek do sądu, dołącza wyciąg z ksiąg rachunkowych, podpisany przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych nabywcy, opatrzony pieczęcią nabywcy, potwierdzający nabycie wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym.
+
+### Art. 74u.
+
+W przypadku gdy decyzja o likwidacji kasy została podjęta przez jej członków, likwidacja prowadzona jest zgodnie z zasadami obowiązującymi przy likwidacji spółdzielni, z tym że:
+
+### 1)
+
+sprawozdanie finansowe sporządzone na dzień otwarcia likwidacji, program likwidacji oraz sprawozdanie z przeprowadzonej likwidacji podlegają zatwierdzeniu przez Komisję Nadzoru Finansowego;
+
+### 2)
+
+likwidator, nie rzadziej niż raz na miesiąc, składa Komisji Nadzoru Finansowego, Bankowemu Funduszowi Gwarancyjnemu, Kasie Krajowej i radzie nadzorczej kasy sprawozdania z przebiegu likwidacji;
+
+### 3)
+
+podział pomiędzy członków majątku pozostałego po zaspokojeniu i zabezpieczeniu wierzycieli nie może nastąpić przed upływem roku od daty ostatniego ogłoszenia o otwarciu likwidacji;
+
+### 4)
+
+Komisja Nadzoru Finansowego może podjąć decyzję o odwołaniu likwidatora wyznaczonego przez kasę, jeżeli prowadzi on likwidację kasy w sposób zagrażający bezpieczeństwu środków pieniężnych zgromadzonych na rachunkach oszczędnościowych; Komisja Nadzoru Finansowego powołuje wówczas nowego likwidatora.
+
+### Rozdział 6c
+
+Przepisy karne
+
+### Art. 74v.
+
+Kto, jako członek zarządu kasy, będąc obowiązanym do podania Komisji Nadzoru Finansowego albo Bankowemu Funduszowi Gwarancyjnemu informacji dotyczącej kasy i jej członków w zakresie określonym w ustawie, podaje nieprawdziwe lub zataja prawdziwe dane będące w jego posiadaniu, podlega grzywnie do 1 000 000 zł i karze pozbawienia wolności do lat 2.
+
+### Art. 74w.
+
+### 1.
+
+Kto, będąc obowiązanym do zachowania w tajemnicy informacji, o których mowa w art. 9e ust. 1 lub art. 9g, ujawnia je niezgodnie z upoważnieniem określonym w ustawie, podlega grzywnie do 500 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+### 2.
+
+Jeżeli sprawca dopuszcza się czynu, o którym mowa w ust. 1, w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+
+” ;
+
+### 43)
+
+uchyla się art. 75-80.
+
+### Art. 2.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2011 r. Nr 74, poz. 397](https://api.sejm.gov.pl/eli/acts/DU/2011/397/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21.](#gloss-0:16:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+w spółdzielczych kasach oszczędnościowo-kredytowych - kwota stanowiąca równowartość rozwiązanych lub zmniejszonych odpisów aktualizujących, o których mowa w art. 16 ust. 1 pkt 26b, zaliczonych uprzednio do kosztów uzyskania przychodów;
+
+” ;
+
+### 2)
+
+w art. 16:
+
+### a)
+
+w ust. 1 po pkt 26a dodaje się pkt 26b w brzmieniu:
+
+„
+
+### 26b)
+
+w spółdzielczych kasach oszczędnościowo-kredytowych odpisów aktualizujących wartość należności, z wyjątkiem odpisów aktualizujących wartość należności z tytułu udzielonych pożyczek i kredytów, utworzonych zgodnie z przepisami o rachunkowości, pomniejszonych o wartość odpisów aktualizujących dotyczącą odsetek od tych pożyczek i kredytów, których nieściągalność została uprawdopodobniona na podstawie ust. 2a pkt 3;
+
+” ,
+
+### b)
+
+w ust. 2a w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+w przypadku określonym w ust. 1 pkt 26b, jeżeli:
+
+### a)
+
+spełniony jest warunek określony w pkt 1 lit. a lub
+
+### b)
+
+zostało wszczęte postępowanie upadłościowe z możliwością zawarcia układu w rozumieniu przepisów prawa upadłościowego i naprawczego, lub
+
+### c)
+
+opóźnienie w spłacie kapitału pożyczki i kredytu lub odsetek od tych należności przekracza 6 miesięcy, a ponadto:
+
+- - spełniony jest warunek określony w pkt 1 lit. d albo
+
+- - wierzytelność została skierowana na drogę postępowania egzekucyjnego, albo
+
+- - miejsce pobytu dłużnika jest nieznane i nie został ujawniony jego majątek mimo podjęcia przez spółdzielczą kasę oszczędnościowo-kredytową działań zmierzających do ustalenia tego miejsca i majątku.
+
+” ,
+
+### c)
+
+po ust. 2d dodaje się ust. 2e w brzmieniu:
+
+„
+
+### 2e.
+
+W spółdzielczych kasach oszczędnościowo-kredytowych podstawę dokonywania odpisów aktualizujących, o których mowa w ust. 1 pkt 26b, pomniejsza się o wartość zabezpieczeń wymienionych w ust. 2b w takim zakresie, w jakim kasa pomniejszy podstawę tworzenia odpisów aktualizujących zaliczanych do kosztów na podstawie przepisów ustawy o rachunkowości.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2013 r. poz. 330](https://api.sejm.gov.pl/eli/acts/DU/2013/330/text.html)) w art. 81 w ust. 2 w pkt 8 lit. d otrzymuje brzmienie:
+
+„
+
+### d)
+
+szczególne zasady rachunkowości spółdzielczych kas oszczędnościowo-kredytowych, w tym:
+
+- - zakres informacji wykazywanych w sprawozdaniu finansowym,
+
+- - zasady wyceny aktywów i pasywów, w tym tworzenia odpisów aktualizujących
+
+- - uwzględniając specyfikę działalności spółdzielczych kas oszczędnościowo-kredytowych;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781 oraz z 2012 r. poz. 596 i 1166.](#gloss-0:17:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 1 otrzymuje brzmienie:
+
+„
+
+### Art. 1.
+
+Ustawa określa:
+
+### 1)
+
+zasady tworzenia i funkcjonowania obowiązkowego i umownego systemu gwarantowania środków pieniężnych zgromadzonych na rachunkach bankowych lub należnych z tytułu wierzytelności wynikających z czynności bankowych;
+
+### 2)
+
+zasady tworzenia i funkcjonowania obowiązkowego systemu gwarantowania środków pieniężnych zgromadzonych w spółdzielczych kasach oszczędnościowo-kredytowych, zwanych dalej „kasami”, lub należnych z tytułu przeprowadzania przez kasę rozliczeń finansowych;
+
+### 3)
+
+rodzaje działań, które mogą być podejmowane w celu udzielania podmiotom objętym obowiązkowym systemem gwarantowania środków pieniężnych oraz kasom objętym obowiązkowym systemem gwarantowania pomocy finansowej do wysokości środków gwarantowanych w przypadkach powstania niebezpieczeństwa niewypłacalności;
+
+### 4)
+
+zasady gromadzenia i wykorzystywania informacji o podmiotach objętych systemem gwarantowania oraz o kasach i Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, zwanej dalej „Kasą Krajową”;
+
+### 5)
+
+zasady udzielania wsparcia w celu restrukturyzacji kas, w których powstało niebezpieczeństwo niewypłacalności.
+
+” ;
+
+### 2)
+
+w art. 2 w pkt 1 lit. h otrzymuje brzmienie:
+
+„
+
+### h)
+
+kas, Kasy Krajowej w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2012 r. poz. 855](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.html) i [1166](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.html) oraz [z 2013 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.html)),
+
+” ;
+
+### 3)
+
+po art. 3 dodaje się art. 3a w brzmieniu:
+
+„
+
+### Art. 3a.
+
+Celem działalności Funduszu jest podejmowanie działań na rzecz stabilności krajowego systemu finansowego, w szczególności poprzez zapewnienie funkcjonowania obowiązkowego systemu gwarantowania środków pieniężnych oraz udzielanie pomocy finansowej i wsparcia na zasadach określonych w ustawie.
+
+” ;
+
+### 4)
+
+w art. 4:
+
+### a)
+
+po ust. 1a dodaje się ust. 1b-1i w brzmieniu:
+
+„
+
+### 1b.
+
+Do zadań Funduszu w zakresie funkcjonowania systemu gwarantowania środków pieniężnych w kasach należy wykonywanie obowiązków wynikających z gwarantowania środków pieniężnych na zasadach określonych w ustawie.
+
+### 1c.
+
+Do zadań Funduszu w zakresie gromadzenia i analizowania informacji o kasach należy w szczególności opracowywanie analiz i prognoz dotyczących sektora kas.
+
+### 1d.
+
+Do zadań Funduszu w zakresie restrukturyzacji kas, w których powstało niebezpieczeństwo niewypłacalności, należy:
+
+### 1)
+
+udzielanie zwrotnej pomocy finansowej, zgodnie z zasadami określonymi w art. 20c i art. 20d;
+
+### 2)
+
+nabywanie wierzytelności kas;
+
+### 3)
+
+udzielanie wsparcia podmiotom przejmującym kasy, przejmującym wybrane prawa majątkowe lub wybrane zobowiązania kas lub nabywcom przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych zgodnie z zasadami określonymi w art. 20g;
+
+### 4)
+
+obejmowanie akcji banku przejmującego oraz nabywanie lub obejmowanie akcji banku, o którym mowa w ust. 1h;
+
+### 5)
+
+kontrola prawidłowości wykorzystania pomocy i wsparcia, o których mowa w pkt 1 i 3, oraz monitorowanie sytuacji ekonomiczno-finansowej i systemu zarządzania kasy korzystającej z pomocy finansowej oraz podmiotu, któremu Fundusz udzielił wsparcia;
+
+### 6)
+
+kontrola realizacji programu postępowania naprawczego kasy w sytuacjach określonych w ustawie;
+
+### 7)
+
+określanie wysokości obowiązkowych opłat rocznych, o których mowa w art. 13c ust. 1.
+
+### 1e.
+
+Komisja Nadzoru Finansowego może, na wniosek banku, o którym mowa w ust. 1d pkt 4, wyłączyć część działalności lub całą działalność tego banku z obowiązku spełniania niektórych wymogów i norm, o których mowa w ustawie oraz w ustawie - Prawo bankowe.
+
+### 1f.
+
+Do funduszy własnych banku, o którym mowa w ust. 1h, nie stosuje się limitu udziału wkładów niepieniężnych w funduszach zasadniczych banku, określonego w art. 128 ust. 1 pkt 1 ustawy - Prawo bankowe.
+
+### 1g.
+
+W przypadku banku, o którym mowa w ust. 1h, przepisów art. 128 ust. 1 pkt 3, art. 138 ust. 3 pkt 3, 3a i 4 oraz ust. 6 pkt 3, art. 142-151, art. 153, art. 156, art. 158, art. 159 i art. 169 ustawy - Prawo bankowe nie stosuje się. W zakresie w jakim udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonania umów dotyczących zbycia praw majątkowych lub zobowiązań nie stosuje się również przepisu art. 104 ust. 1 ustawy - Prawo bankowe.
+
+### 1h.
+
+Fundusz może nabyć i obejmować akcje banku w celu przejęcia lub nabycia przedsiębiorstwa kasy, w przypadku której powstało niebezpieczeństwo niewypłacalności, wybranych praw majątkowych lub wybranych zobowiązań, kontynuowania działalności związanej z przejmowanymi lub nabywanymi prawami majątkowymi lub przejmowanymi zobowiązaniami kasy, w której powstało niebezpieczeństwo niewypłacalności oraz restrukturyzacji do czasu zbycia podmiotowi trzeciemu.
+
+### 1i.
+
+Zbycie praw majątkowych i przejęcie zobowiązań banku, o którym mowa w ust. 1h, nie wymaga uzyskania zgody dłużników oraz wierzycieli tego banku.
+
+” ,
+
+### b)
+
+ust. 2a i 3 otrzymują brzmienie:
+
+„
+
+### 2a.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki, zakres i tryb obrotu przez Fundusz wierzytelnościami, o których mowa w ust. 1d pkt 2 i ust. 2 pkt 1a, uwzględniając zapewnienie skuteczności udzielania pomocy podmiotom objętym systemem gwarantowania i kasom.
+
+### 3.
+
+Minister właściwy do spraw instytucji finansowych, może określić, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego oraz Przewodniczącego Komisji Nadzoru Finansowego, dodatkowe działania Funduszu na rzecz stabilności systemu finansowego oraz tryb ich wykonania, kierując się koniecznością zapewnienia stabilności krajowego systemu finansowego.
+
+” ;
+
+### 5)
+
+w art. 5 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Osoby pełniące funkcje w organach Funduszu nie mogą pełnić funkcji w organach lub być pracownikami banków, kas lub Kasy Krajowej, z wyjątkiem organów banku, o którym mowa w art. 4 ust. 1d pkt 4.
+
+” ;
+
+### 6)
+
+w art. 7 w ust. 2:
+
+### a)
+
+po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+zatwierdzanie wniosków Zarządu Funduszu w sprawie zaciągania kredytu krótkoterminowego na potrzeby realizacji zadań Funduszu z zakresu gwarantowania depozytów zgromadzonych w kasach;
+
+” ,
+
+### b)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+określanie na wniosek Zarządu Funduszu stawek obowiązkowej opłaty rocznej kas;
+
+” ,
+
+### c)
+
+po pkt 7 dodaje się pkt 7a-7d w brzmieniu:
+
+„
+
+### 7a)
+
+podejmowanie, na wniosek Zarządu Funduszu, decyzji o przekazaniu środków między funduszami własnymi Funduszu;
+
+### 7b)
+
+określanie zasad i form udzielania wsparcia oraz zabezpieczania i dochodzenia zwrotu środków z tytułu udzielenia wsparcia przejmującym lub nabywcom w procesie restrukturyzacji kas, o których mowa w art. 4 ust. 1d pkt 3;
+
+### 7c)
+
+określanie zasad udzielania pomocy finansowej, o której mowa w art. 4 ust. 1d pkt 1, oraz zasad i form zabezpieczania i dochodzenia zwrotu środków z tytułu udzielania tej pomocy;
+
+### 7d)
+
+określanie zasad nabywania lub obejmowania akcji banków w związku z realizacją zadań określonych w art. 4 ust. 1d pkt 4 oraz zasad zarządzania tymi akcjami;
+
+” ;
+
+### 7)
+
+w art. 10 w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+składanie wniosków do Rady Funduszu w sprawach, o których mowa w art. 7 ust. 2 pkt 4, 4a, 5, 5a i 7a;
+
+” ;
+
+### 8)
+
+po art. 13 dodaje się art. 13a-13d w brzmieniu:
+
+„
+
+### Art. 13a.
+
+### 1.
+
+W Funduszu tworzy się fundusz gwarancyjny kas, zwany dalej „funduszem kas”.
+
+### 2.
+
+Fundusz kas jest funduszem własnym Funduszu.
+
+### 3.
+
+Fundusz kas jest tworzony w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie wypłaty środków gwarantowanych, o których mowa w art. 4 ust. 1b, oraz na finansowanie zadań Funduszu w zakresie restrukturyzacji kas, o których mowa w art. 4 ust. 1d pkt 1-4.
+
+### Art. 13b.
+
+### 1.
+
+Dla celów ewidencyjnych fundusz kas dzieli się na fundusz kas do wykorzystania i fundusz kas wykorzystany.
+
+### 2.
+
+Udzielone z funduszu kas przez Fundusz pożyczki, zrealizowane gwarancje, poręczenia i nabyte wierzytelności, wydatki na nabycie lub objęcie akcji, zmniejszają stan funduszu kas do wykorzystania, powiększając fundusz kas wykorzystany. Dotacje, o których mowa w art. 20g ust. 2 pkt 4, odpisy aktualizujące aktywa nabyte lub objęte z funduszu kas oraz rezerwy na gwarancje i poręczenia zmniejszają fundusz kas do wykorzystania, z uwzględnieniem art. 38r ust. 1.
+
+### 3.
+
+Spłata pożyczek oraz kwoty uzyskane z tytułu wierzytelności wynikających z udzielonych gwarancji i poręczeń, a także sprzedaż nabytych uprzednio wierzytelności oraz nabytych lub objętych akcji, zwiększają stan funduszu kas do wykorzystania, zmniejszając fundusz kas wykorzystany. Rozwiązanie rezerw na gwarancje lub poręczenia, rozwiązanie odpisów aktualizujących aktywa nabyte lub objęte z funduszu kas, otrzymane przez Fundusz spłaty roszczeń, o których mowa w art. 20j, oraz otrzymane przez Fundusz środki przekazane przez Kasę Krajową ze środków funduszu stabilizacyjnego zwiększają fundusz kas do wykorzystania, z uwzględnieniem art. 13c ust. 6.
+
+### 4.
+
+W celu zabezpieczenia należności uznanych za zagrożone z tytułu udzielonych pożyczek, gwarancji i poręczeń, a także nabytych wierzytelności Fundusz tworzy odpisy aktualizujące zmniejszające stan funduszu kas do wykorzystania.
+
+### 5.
+
+Rozwiązanie odpisów aktualizujących, o których mowa w ust. 4, zwiększa stan funduszu kas do wykorzystania.
+
+### 6.
+
+Wypłata środków z funduszu kas następuje na podstawie uchwały Zarządu Funduszu o udzieleniu pomocy lub wsparcia.
+
+### 7.
+
+Zwiększenia wartości akcji notowanych na rynku regulowanym, w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, objętych lub nabytych w ramach realizacji zadań, o których mowa w art. 4 ust. 1d pkt 4, powyżej ceny nabycia oraz zmniejszenia wartości akcji do poziomu ceny nabycia ujmowane są w rachunku zysków i strat, z zastrzeżeniem ust. 9.
+
+### 8.
+
+Zmniejszenia wartości akcji objętych lub nabytych poniżej ceny nabycia (skorygowanej ceny nabycia) oraz zwiększenia wartości akcji do poziomu ceny nabycia (skorygowanej ceny nabycia) ujmowane są odpowiednio jako zmniejszenia i zwiększenia funduszu kas, z zastrzeżeniem ust. 9.
+
+### 9.
+
+Przychody z tytułu dywidend ujmuje się w rachunku zysków i strat.
+
+### 10.
+
+Przepisy ust. 7 i 8 stosuje się do zysków i strat ze zbycia objętych lub nabytych akcji.
+
+### Art. 13c.
+
+### 1.
+
+Kasy wnoszą na rzecz Funduszu obowiązkowe opłaty roczne w wysokości iloczynu stawki nieprzekraczającej 0,3% i wartości aktywów oraz zobowiązań pozabilansowych ustalonych na dzień określony przez Radę Funduszu.
+
+### 2.
+
+Wysokość stawki, o której mowa w ust. 1, na kolejny rok określa na wniosek Zarządu Funduszu i przekazuje kasom Rada Funduszu, nie później niż do końca roku kalendarzowego poprzedzającego rok, w którym opłata ma być wniesiona.
+
+### 3.
+
+Kasy obowiązane są do wnoszenia opłaty, o której mowa w ust. 1, w terminach określonych przez Fundusz, nie później niż do dnia 31 marca każdego roku.
+
+### 4.
+
+Wniesiona opłata roczna, o której mowa w ust. 1, stanowi koszt uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+
+### 5.
+
+Z dniem spełnienia warunku gwarancji przez kasę jest ona zwolniona z obowiązku wnoszenia opłat rocznych, o których mowa w ust. 1.
+
+### 6.
+
+Obowiązkowe opłaty roczne, o których mowa w ust. 1, dotacje na potrzeby funduszu kas udzielone na wniosek Funduszu z budżetu państwa na zasadach określonych w przepisach o finansach publicznych, oraz dotacje udzielone przez Kasę Krajową zwiększają fundusz kas.
+
+### 7.
+
+Z tytułu opóźnienia w dokonywaniu opłat rocznych, o których mowa w ust. 1, Funduszowi przysługują odsetki w wysokości odsetek pobieranych od zaległości podatkowych.
+
+### Art. 13d.
+
+Wyciągi z ksiąg Funduszu dotyczące funduszu kas, podpisane przez upoważnionych członków Zarządu Funduszu i opatrzone jego pieczęcią, stwierdzające istnienie zobowiązania kasy na rzecz Funduszu i zaopatrzone w oświadczenie, że oparte na nich roszczenia są wymagalne, mają moc tytułów wykonawczych bez potrzeby uzyskiwania dla nich klauzul wykonalności. Przepisy art. 37 ust. 2-4 stosuje się odpowiednio.
+
+” ;
+
+### 9)
+
+w art. 15:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+obowiązkowe opłaty roczne, o których mowa w art. 13 ust. 1 i art. 13c ust. 1, wnoszone przez podmioty objęte systemem gwarantowania i kasy;
+
+” ,
+
+### b)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+środki przekazane przez Kasę Krajową ze środków funduszu stabilizacyjnego;
+
+” ,
+
+### c)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+środki z kredytu krótkoterminowego udzielonego przez Narodowy Bank Polski zgodnie z art. 16a ust. 5 oraz art. 38r ust. 4;
+
+” ;
+
+### 10)
+
+w art. 16:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+finansowanie zadań Funduszu w zakresie udzielania podmiotom objętym systemem gwarantowania pomocy finansowej, o których mowa w rozdziale 3, oraz w zakresie restrukturyzacji kas, o których mowa w art. 4 ust. 1d pkt 1-4, przy czym finansowanie to może być dokonywane jedynie ze środków, o których mowa w art. 15 pkt 1, 3, 4 i 7, pomniejszonych o kwoty wydatków, o których mowa w ust. 5;
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Nadwyżka bilansowa Funduszu w danym roku powiększa jego fundusz własny tworzony w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania oraz fundusz kas, z zastrzeżeniem ust. 2a i 2b. Decyzję o podziale nadwyżki bilansowej podejmuje Rada Funduszu, na wniosek Zarządu Funduszu, po zatwierdzeniu przez Radę Ministrów rocznego sprawozdania finansowego.
+
+” ,
+
+### c)
+
+po ust. 2b dodaje się ust. 2c w brzmieniu:
+
+„
+
+### 2c.
+
+W przypadku wystąpienia straty, do sposobu jej pokrycia ust. 2 stosuje się odpowiednio.
+
+” ;
+
+### 11)
+
+po rozdziale 3 dodaje się rozdział 3a w brzmieniu:
+
+„
+
+### Rozdział 3a Restrukturyzacja kas
+
+### Art. 20c.
+
+### 1.
+
+Realizując zadania, o których mowa w art. 4 ust. 1d pkt 1, Fundusz może udzielać kasom objętym systemem gwarantowania pożyczek, gwarancji lub poręczeń.
+
+### 2.
+
+Środki uzyskane przez kasy objęte systemem gwarantowania w wyniku udzielenia przez Fundusz pożyczek, gwarancji lub poręczeń, o których mowa w ust. 1, mogą być przeznaczone tylko na usunięcie niebezpieczeństwa niewypłacalności, o ile spełnione zostały warunki, o których mowa w art. 20d.
+
+### 3.
+
+Fundusz może udzielić pożyczki kasie tylko w celu zaliczenia uzyskanych w ten sposób środków do funduszy własnych.
+
+### 4.
+
+Do gwarancji, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące gwarancji udzielanych przez banki.
+
+### Art. 20d.
+
+Warunkiem udzielenia przez Fundusz pomocy, o której mowa w art. 4 ust. 1d pkt 1 i 2, jest w szczególności:
+
+### 1)
+
+uznanie przez Zarząd Funduszu przedstawionych przez kasę objętą systemem gwarantowania, wnioskującą o udzielenie pomocy, wyników badania sprawozdania finansowego dotyczącego jej działalności;
+
+### 2)
+
+przedstawienie Zarządowi Funduszu przez kasę ubiegającą się o pomoc pozytywnej opinii Komisji Nadzoru Finansowego o programie postępowania naprawczego;
+
+### 3)
+
+wykazanie, że wysokość wnioskowanych przez kasę objętą systemem gwarantowania pożyczek, gwarancji, poręczeń oraz środków wydatkowanych przez Fundusz na wykup wierzytelności byłaby nie wyższa niż łączna maksymalna kwota z tytułu gwarancji w tej kasie liczona jako suma środków gwarantowanych na rachunkach deponentów kasy;
+
+### 4)
+
+wykorzystanie dotychczasowych funduszy własnych kasy na pokrycie strat kasy ubiegającej się o pomoc;
+
+### 5)
+
+w przypadku pomocy, o której mowa w art. 4 ust. 1d pkt 1, zabezpieczenie wierzytelności z tytułu udzielonej pomocy gwarantujące zwrot pełnej kwoty pomocy wraz z odsetkami.
+
+### Art. 20e.
+
+### 1.
+
+Komisja Nadzoru Finansowego informuje niezwłocznie Zarząd Funduszu o wystąpieniu konieczności wszczęcia przez zarząd kasy postępowania naprawczego, o którym mowa w art. 72a ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+
+### 2.
+
+Fundusz, na swój wniosek skierowany do Komisji Nadzoru Finansowego, jest ustanawiany kuratorem, o którym mowa w art. 72c ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w stosunku do kasy objętej systemem gwarantowania. Funduszowi nie przysługuje wynagrodzenie, o którym mowa w art. 72c ust. 11 tej ustawy.
+
+### 3.
+
+Do wierzytelności Funduszu związanych z udzieleniem pomocy i wsparcia, o których mowa w art. 4 ust. 1d, stosuje się przepisy Kodeksu cywilnego oraz innych ustaw regulujących rodzaje i sposoby zabezpieczeń wierzytelności banków.
+
+### 4.
+
+Czynności cywilnoprawne, poprzez które dochodzi do realizacji zadań, o których mowa w art. 4 ust. 1d, wolne są od opłaty skarbowej oraz podatku od czynności cywilnoprawnych.
+
+### Art. 20f.
+
+Kasa objęta systemem gwarantowania, korzystająca z pomocy Funduszu, jest obowiązana udzielać na żądanie Funduszu informacji niezbędnych do wykonywania działań, o których mowa w art. 4 ust. 1d pkt 5 i 6.
+
+### Art. 20g.
+
+### 1.
+
+Realizując zadania, o których mowa w art. 4 ust. 1d pkt 3, Fundusz może udzielać wsparcia podmiotom przejmującym kasy, przejmującym wybrane prawa majątkowe lub wybrane zobowiązania kasy lub nabywcom przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych. Wsparcie może zostać udzielone również bankowi, o którym mowa w art. 4 ust. 1h.
+
+### 2.
+
+Wsparcie, o którym mowa w ust. 1, może nastąpić poprzez:
+
+### 1)
+
+objęcie akcji banku przejmującego;
+
+### 2)
+
+udzielenie pożyczki lub gwarancji;
+
+### 3)
+
+udzielenie gwarancji całkowitego lub częściowego pokrycia strat wynikających z ryzyka związanego z przejmowanymi lub nabywanymi prawami majątkowymi lub przejmowanymi zobowiązaniami;
+
+### 4)
+
+udzielenie dotacji na pokrycie różnicy między wartością przejmowanych lub nabywanych praw majątkowych i przejmowanych zobowiązań z tytułu środków gwarantowanych na rachunkach deponentów kasy do wysokości łącznej maksymalnej kwoty z tytułu gwarancji w kasie liczonej jako suma środków gwarantowanych na rachunkach deponentów kasy, o których mowa w art. 38l pkt 1, w której stwierdzono niebezpieczeństwo niewypłacalności.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2 pkt 1, przepisu art. 25 ust. 1 ustawy - Prawo bankowe nie stosuje się.
+
+### Art. 20h.
+
+Warunkiem udzielenia przez Fundusz wsparcia, o którym mowa w art. 4 ust. 1d pkt 3, jest w szczególności:
+
+### 1)
+
+uznanie przez Zarząd Funduszu przedstawionych przez przejmującego lub nabywcę wyników badania sprawozdania finansowego dotyczącego jej działalności;
+
+### 2)
+
+przedstawienie Zarządowi Funduszu przez przejmującego lub nabywcę pozytywnej opinii Komisji Nadzoru Finansowego o celowości przejęcia i braku zagrożenia dla bezpieczeństwa środków deponentów gromadzonych w kasie, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu lub likwidacji, oraz w przejmującym lub nabywającym banku lub kasie;
+
+### 3)
+
+wykazanie, że wysokość środków zaangażowanych przez Fundusz we wsparcie przejmującego lub nabywcy byłaby nie wyższa niż łączna maksymalna kwota z tytułu gwarancji w kasie, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu lub likwidacji, liczona jako suma środków gwarantowanych na przejmowanych rachunkach deponentów, o których mowa w art. 38l pkt 1, tej kasy;
+
+### 4)
+
+wykorzystanie dotychczasowych funduszy własnych przejmowanej lub likwidowanej kasy na pokrycie strat;
+
+### 5)
+
+zabezpieczenie wierzytelności gwarantujące zwrot pełnej kwoty wsparcia wraz z odsetkami w przypadku wsparcia w formie, o której mowa w art. 20g ust. 2 pkt 2.
+
+### Art. 20i.
+
+Podmiot korzystający ze wsparcia Funduszu jest obowiązany udzielać na żądanie Funduszu informacji niezbędnych do oceny ryzyka zwrotu udzielonego wsparcia lub strat związanych z nabywanymi lub przejmowanymi prawami majątkowymi lub zobowiązaniami.
+
+### Art. 20j.
+
+Z tytułu udzielenia wsparcia, o którym mowa w art. 20g ust. 2 pkt 3 i 4, Funduszowi przysługuje roszczenie w stosunku do kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o przejęciu wybranych praw majątkowych lub wybranych zobowiązań lub o likwidacji, a w przypadku ogłoszenia upadłości kasy do jej masy upadłości.
+
+” ;
+
+### 12)
+
+w art. 26p ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania uzupełnionej listy deponentów przez zarządcę albo syndyka lub po ustaleniu listy wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec podmiotu objętego obowiązkowym systemem gwarantowania, w stosunku do którego nastąpiło spełnienie warunku gwarancji.
+
+” ;
+
+### 13)
+
+w art. 38 ust. 4a otrzymuje brzmienie:
+
+„
+
+### 4a.
+
+Fundusz przekazuje Narodowemu Bankowi Polskiemu informacje niezbędne do oceny stabilności i ryzyka systemu bankowego, w tym dotyczące poszczególnych podmiotów objętych systemem gwarantowania, podlegające ochronie na podstawie odrębnych przepisów.
+
+” ;
+
+### 14)
+
+w art. 38a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Informacje określone w ust. 1 nie mogą być udostępniane przez Fundusz innym podmiotom, z zastrzeżeniem art. 38 ust. 4a.
+
+” ;
+
+### 15)
+
+w art. 38g:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+System wyliczania zapewnia gotowość do bieżącego sporządzania danych pozwalających na identyfikację deponentów, miejsca ich zamieszkania lub siedziby oraz na określenie wysokości należnych poszczególnym deponentom środków gwarantowanych, zwanych dalej „danymi”, według stanu na koniec każdego dnia.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Podmiot objęty obowiązkowym systemem gwarantowania przeprowadza co najmniej raz na 6 miesięcy test systemu wyliczania, w szczególności w zakresie ustalenia, czy spełnione zostały warunki dla wykonania obowiązków ustawowych na wypadek spełnienia warunku gwarancji oraz czy zapewniona jest prawidłowość sporządzania przez podmiot objęty obowiązkowym system gwarantowania danych o deponentach i środkach gwarantowanych. Wyniki testów przechowywane są przez podmiot objęty obowiązkowym systemem gwarantowania w formie raportów przez 3 lata od ich sporządzenia i udostępniane na żądanie Funduszowi lub Komisji Nadzoru Finansowego.
+
+” ;
+
+### 16)
+
+po rozdziale 4b dodaje się rozdział 4c w brzmieniu:
+
+„
+
+### Rozdział 4c Obowiązkowy system gwarantowania spółdzielczych kas oszczędnościowo-kredytowych
+
+### Art. 38l.
+
+Użyte w rozdziale określenia oznaczają:
+
+### 1)
+
+deponent - osobę fizyczną, organizację pozarządową w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2010 r. Nr 234, poz. 1536](https://api.sejm.gov.pl/eli/acts/DU/2010/1536/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.](#gloss-0:18:)), jednostkę organizacyjną kościoła lub związku wyznaniowego posiadającą osobowość prawną, spółdzielnię niebędącą kasą ani Kasą Krajową, związek zawodowy oraz wspólnotę mieszkaniową, będącą stroną umowy imiennego rachunku lub posiadającą wynikającą z przeprowadzania przez kasę rozliczeń finansowych wierzytelność do kasy objętej obowiązkowym systemem gwarantowania, oraz osoby, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, z zastrzeżeniem art. 38ze, o ile ich wierzytelność do kasy stała się wymagalna przed dniem spełnienia warunku gwarancji, z wyłączeniem członków zarządu i rady nadzorczej kasy oraz pracowników podlegających bezpośrednio członkom zarządu, osób pełniących funkcje kierowników lub dyrektorów oddziałów tej kasy i ich zastępców, w przypadku gdy osoby te pełniły swoje funkcje w dniu spełnienia warunku gwarancji, bądź w okresie bieżącego roku obrotowego lub poprzedzającego dzień spełnienia warunku gwarancji;
+
+### 2)
+
+środki gwarantowane - środki pieniężne zgromadzone w kasie przez deponenta na rachunkach imiennych, z wyłączeniem środków wpłaconych tytułem udziałów i wkładów członkowskich do spółdzielni, oraz jego należności wynikające z przeprowadzania przez kasę rozliczeń finansowych, w walucie polskiej lub walutach obcych, według stanu na dzień spełnienia warunku gwarancji, potwierdzone wystawionymi przez tę kasę dokumentami imiennymi, powiększone o naliczone odsetki do dnia spełnienia warunku gwarancji, a także kwoty, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, z zastrzeżeniem art. 38ze, o ile stały się wymagalne przed dniem spełnienia warunku gwarancji - do wysokości określonej ustawą, z wyłączeniem środków, o których mowa w art. 38zg ust. 2;
+
+### 3)
+
+spełnienie warunku gwarancji - wydanie przez Komisję Nadzoru Finansowego decyzji o zawieszeniu działalności kasy, ustanowieniu zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienie do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy;
+
+### 4)
+
+dzień spełnienia warunku gwarancji - dzień wskazany w decyzji Komisji Nadzoru Finansowego jako dzień zawieszenia działalności kasy i ustanowienia zarządcy komisarycznego, o ile nie został on ustanowiony wcześniej, oraz wystąpienia do właściwego sądu z wnioskiem o ogłoszenie upadłości kasy;
+
+### 5)
+
+system wyliczania - system informatyczny kasy, przeznaczony do zapewnienia możliwości niezwłocznego uzyskania wszelkich danych pozwalających na identyfikację deponentów oraz określenie wysokości należnych poszczególnym deponentom środków gwarantowanych.
+
+### Art. 38m.
+
+W przypadku prowadzenia przez kasę jednego rachunku dla kilku osób (rachunek wspólny) deponentem jest każda z tych osób w granicach określonych w umowie rachunku, a w przypadku braku postanowień umownych lub przepisów w tym zakresie - w częściach równych.
+
+### Art. 38n.
+
+Celem obowiązkowego systemu gwarantowania środków pieniężnych zgromadzonych w kasach, zwanego dalej „systemem gwarantowania kas”, jest zapewnienie deponentom wypłaty, do wysokości określonej ustawą, środków gwarantowanych w razie ich niedostępności.
+
+### Art. 38o.
+
+### 1.
+
+Podmiotami stosunku gwarancji są:
+
+### 1)
+
+Fundusz;
+
+### 2)
+
+deponent.
+
+### 2.
+
+Przedmiotem gwarancji jest wierzytelność deponenta, w związku z którą z dniem spełnienia warunku gwarancji nabywa on w stosunku do Funduszu, na warunkach określonych w ustawie, uprawnienie do świadczenia pieniężnego.
+
+### 3.
+
+Fundusz dokonuje wypłat deponentom ze środków, o których mowa w art. 38r.
+
+### 4.
+
+Świadczenie pieniężne, o którym mowa w ust. 2, jest płatne w złotych, w terminie 20 dni roboczych od dnia spełnienia warunku gwarancji, z zastrzeżeniem ust. 5.
+
+### 5.
+
+W przypadku wystąpienia okoliczności uniemożliwiających wypłatę świadczenia pieniężnego w terminie określonym w ust. 4, w szczególności ze względu na nieprawidłowości w prowadzeniu ksiąg rachunkowych kasy lub nieprawidłowości w funkcjonowaniu systemu wyliczania, Komisja Nadzoru Finansowego przedłuża, na wniosek Zarządu Funduszu, termin wypłat, nie dłużej jednak niż o 10 dni roboczych liczonych od dnia, w którym upływa termin, o którym mowa w ust. 4.
+
+### 6.
+
+W sprawie wniosku, o którym mowa w ust. 5, Komisja Nadzoru Finansowego podejmuje decyzję w terminie 2 dni roboczych od dnia wniesienia wniosku.
+
+### 7.
+
+Fundusz nie ponosi odpowiedzialności za wypłatę środków gwarantowanych osobom nieuprawnionym ani wypłatę środków gwarantowanych w niewłaściwej wysokości, dokonanych zgodnie z listą deponentów, a także za niedokonanie wypłaty osobie uprawnionej w wyniku nieujawnienia jej na tej liście.
+
+### 8.
+
+Członkowie Zarządu Funduszu działający z należytą starannością nie ponoszą odpowiedzialności za szkodę wynikłą z niewłaściwej realizacji wypłat środków gwarantowanych.
+
+### 9.
+
+Fundusz nie ponosi odpowiedzialności za niedokonanie wypłaty środków gwarantowanych w terminach określonych w ustawie, jeżeli było to spowodowane siłą wyższą.
+
+### Art. 38p.
+
+### 1.
+
+Środki gwarantowane objęte są obowiązkowym systemem gwarantowania kas od dnia ich wniesienia na rachunek prowadzony przez kasę nie później niż w dniu poprzedzającym dzień spełnienia warunku gwarancji, a w przypadku należności wynikających z czynności, o których mowa w art. 3 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, o ile czynności te zostały dokonane przed dniem spełnienia warunku gwarancji - do wysokości (łącznie z odsetkami naliczonymi do dnia spełnienia warunku gwarancji, zgodnie z oprocentowaniem wskazanym w umowie niezależnie od terminu ich wymagalności) równowartości w złotych 100 000 euro - w 100%.
+
+### 2.
+
+Do obliczenia równowartości euro w złotych przyjmuje się kurs średni z dnia spełnienia warunku gwarancji ogłaszany przez Narodowy Bank Polski.
+
+### 3.
+
+Kwota, o której mowa w ust. 1, określa maksymalną wysokość roszczeń deponenta w stosunku do Funduszu, niezależnie od tego, w jakiej wysokości i na ilu rachunkach posiadał środki pieniężne lub z ilu wierzytelności przysługują mu należności w danej kasie.
+
+### 4.
+
+Roszczenia z tytułu gwarancji przedawniają się po upływie 5 lat od dnia spełnienia warunku gwarancji.
+
+### Art. 38q.
+
+Deponent nie traci prawa do dochodzenia swych roszczeń od kasy ponad kwotę określoną w art. 38p ust. 1.
+
+### Art. 38r.
+
+### 1.
+
+Wypłaty środków gwarantowanych dokonywane są przez Fundusz ze środków funduszu kas do wykorzystania.
+
+### 2.
+
+W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa środki funduszu kas do wykorzystania Fundusz dokonuje wypłat środków gwarantowanych ze środków przekazanych przez Kasę Krajową z funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, na zasadach określonych w art. 55 ust. 1a tej ustawy.
+
+### 3.
+
+W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa sumę środków, o których mowa w ust. 1 i 2, Fundusz pokrywa pozostającą do wypłaty kwotę zobowiązań z dotacji lub pożyczki z budżetu państwa lub z dotacji lub pożyczki z Kasy Krajowej lub z innych funduszy własnych, na zasadach określonych przez Radę Funduszu, z wyłączeniem:
+
+### 1)
+
+części funduszu własnego, tworzonego w celu zapewnienia środków na nabycie rzeczowego majątku trwałego;
+
+### 2)
+
+funduszy własnych utworzonych wyłącznie w celu ewidencjonowania środków pieniężnych uzyskiwanych na podstawie odrębnych ustaw;
+
+### 3)
+
+funduszu z aktualizacji wyceny;
+
+### 4)
+
+niezatwierdzonego zysku z lat ubiegłych;
+
+### 5)
+
+zysku roku obrotowego.
+
+### 4.
+
+Po wyczerpaniu środków, o których mowa w ust. 1-3, w sytuacji wystąpienia zagrożenia stabilności finansowej oraz w celu pokrycia pilnych potrzeb Funduszu Narodowy Bank Polski, na wniosek Zarządu Funduszu, może udzielić Funduszowi kredytu krótkoterminowego pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+
+### 5.
+
+Minister właściwy do spraw instytucji finansowych może, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Funduszu i Przewodniczącego Komisji Nadzoru Finansowego, podwyższyć wysokość stawki opłaty rocznej na rok bieżący, nie więcej jednak niż do wysokości 0,6%, w przypadku wyczerpania się środków, o których mowa w ust. 1, określając dzień, na który oblicza się wysokość oraz termin wniesienia opłat i uwzględniając w szczególności wysokość niezaspokojonych zobowiązań Funduszu.
+
+### Art. 38s.
+
+### 1.
+
+Z tytułu wypłaty środków gwarantowanych Funduszowi przysługuje roszczenie do kasy, w przypadku której nastąpiło spełnienie warunku gwarancji, o zapłatę kwot odpowiadających wysokości sumy środków gwarantowanych. Funduszowi przysługuje roszczenie także po ogłoszeniu upadłości kasy.
+
+### 2.
+
+Wypłata środków gwarantowanych pomniejsza proporcjonalnie poszczególne wierzytelności deponenta będące podstawą wyliczenia środków gwarantowanych.
+
+### Art. 38t.
+
+### 1.
+
+Na Fundusz przechodzą wierzytelności przysługujące deponentowi w stosunku do masy upadłości, w wysokości środków gwarantowanych.
+
+### 2.
+
+W przypadku nabycia przedsiębiorstwa kasy w trybie art. 437 ust. 2 i 3 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze na nabywcę nie przechodzą zobowiązania wynikające z wierzytelności Funduszu, o których mowa w ust. 1.
+
+### 3.
+
+Kwoty uzyskane przez Fundusz z masy upadłości kasy zasilają fundusz kas.
+
+### Art. 38u.
+
+### 1.
+
+W przypadku spełnienia warunku gwarancji zarządca komisaryczny, po ustaleniu stanu ksiąg rachunkowych kasy na dzień spełnienia warunku gwarancji, sporządza listę deponentów.
+
+### 2.
+
+Zarządca komisaryczny kasy jest odpowiedzialny za sporządzenie listy deponentów zgodnie z przepisami wydanymi na podstawie art. 38zq.
+
+### Art. 38v.
+
+### 1.
+
+Zarząd Funduszu sprawuje bieżącą kontrolę przygotowania przez zarządcę komisarycznego listy deponentów.
+
+### 2.
+
+Kontrola, o której mowa w ust. 1, obejmuje w szczególności dane deponentów znajdujące się na liście deponentów.
+
+### 3.
+
+W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi są udostępniane dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach.
+
+### 4.
+
+Fundusz przetwarza dane osobowe deponentów w zakresie niezbędnym do realizacji zadań określonych w ustawie.
+
+### 5.
+
+O nieprawidłowościach ujawnionych w toku kontroli, o której mowa w ust. 1, Fundusz zawiadamia Komisję Nadzoru Finansowego, wzywając zarządcę komisarycznego do ich usunięcia.
+
+### Art. 38w.
+
+### 1.
+
+Zarządca komisaryczny kasy niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia spełnienia warunku gwarancji, przekazuje Funduszowi listę deponentów.
+
+### 2.
+
+W przypadku uzasadnionych wątpliwości co do poprawności poszczególnych danych na liście deponentów Fundusz dokonuje odpowiednich wypłat niezwłocznie po potwierdzeniu poprawności danych przez zarządcę komisarycznego kasy.
+
+### Art. 38x.
+
+### 1.
+
+Wypłat środków gwarantowanych dokonuje w imieniu i na rachunek Funduszu zarządca komisaryczny lub podmiot, z którym Zarząd Funduszu zawrze umowę o dokonanie wypłat środków gwarantowanych. Decyzję w tym zakresie podejmuje Zarząd Funduszu. Przy wyborze trybu wypłaty środków gwarantowanych Zarząd Funduszu powinien uwzględnić konieczność zapewnienia ochrony interesów deponentów, w tym terminowości wypłat, a także poziom kosztów przewidzianych do poniesienia w celu wypłaty środków gwarantowanych.
+
+### 2.
+
+Zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych, Zarząd Funduszu przekazuje listę wypłat, zawierającą dane niezbędne do dokonywania wypłat.
+
+### 3.
+
+Zarząd Funduszu sprawuje bieżącą kontrolę dokonywania wypłat środków gwarantowanych. W przypadku wypłat dokonywanych przez zarządcę komisarycznego przepisy art. 38v ust. 5 stosuje się odpowiednio.
+
+### Art. 38y.
+
+W przypadku ogłoszenia upadłości w trakcie dokonywania przez zarządcę komisarycznego wypłat, o których mowa w art. 38x ust. 1, obowiązki związane z kontynuacją wypłat realizuje zarządca lub syndyk.
+
+### Art. 38z.
+
+### 1.
+
+Zarząd Funduszu określa, w drodze uchwały:
+
+### 1)
+
+informacje o podmiocie, za pośrednictwem którego będą realizowane wypłaty środków gwarantowanych;
+
+### 2)
+
+sposób dokonywania wypłat środków gwarantowanych;
+
+### 3)
+
+kwotę stanowiącą sumę środków gwarantowanych przekazywaną podmiotowi, o którym mowa w pkt 1, na wypłaty środków gwarantowanych.
+
+### 2.
+
+Zarząd Funduszu, określając na podstawie ust. 1 pkt 2 sposób dokonywania wypłat, ustala także zasady i tryb stwierdzania tożsamości deponenta, a w szczególności:
+
+### 1)
+
+dane identyfikujące deponenta, których umieszczenie na liście deponentów jest niezbędne do ustalenia tożsamości deponenta przez podmiot dokonujący wypłat, mając na uwadze powszechność posługiwania się tymi danymi przez deponentów, możliwość dokonania za pomocą tych danych jednoznacznej identyfikacji deponenta;
+
+### 2)
+
+rodzaje dokumentów stwierdzających tożsamość, za pomocą których podmiot dokonujący wypłat będzie identyfikował deponentów ubiegających się o wypłatę świadczeń gwarantowanych.
+
+### 3.
+
+Uchwałę, o której mowa w ust. 1, Zarząd Funduszu podaje do publicznej wiadomości, w drodze ogłoszenia w dzienniku o zasięgu ogólnokrajowym, oraz przekazuje kasom i zarządcy komisarycznemu lub podmiotowi, który będzie dokonywał wypłat środków gwarantowanych.
+
+### Art. 38za.
+
+Środki na wypłatę środków gwarantowanych, przekazane podmiotowi, o którym mowa w art. 38z ust. 1 pkt 1, na podstawie uchwały Zarządu Funduszu, nie mogą być wykorzystane na żaden inny cel niż wypłata środków gwarantowanych. Środki te nie wchodzą do masy upadłości oraz nie podlegają egzekucji sądowej ani administracyjnej.
+
+### Art. 38zb.
+
+### 1.
+
+Koszty czynności związanych z przygotowaniem i dokonaniem wypłat środków gwarantowanych obciążają kasę, w przypadku której nastąpiło spełnienie warunku gwarancji.
+
+### 2.
+
+W przypadku realizacji wypłat przez podmiot, z którym Fundusz zawarł odpowiednią umowę w tym zakresie, Fundusz pokrywa koszty tych czynności.
+
+### 3.
+
+Z tytułu kosztów, o których mowa w ust. 2, Funduszowi przysługuje roszczenie do kasy, o której mowa w ust. 1.
+
+### 4.
+
+Po ogłoszeniu upadłości kasy, o której mowa w ust. 1, przepis ust. 3 stosuje się odpowiednio.
+
+### Art. 38zc.
+
+Po zakończeniu wypłat podmiot, o którym mowa w art. 38z ust. 1 pkt 1, lub zarządca albo syndyk, w terminie 5 dni roboczych od ostatniego dnia wypłat, dokonuje rozliczenia przeprowadzonych wypłat, przekazując Funduszowi w szczególności:
+
+### 1)
+
+listę wypłat wraz z oznaczeniem świadczeń wypłaconych i niewypłaconych;
+
+### 2)
+
+dokumentację potwierdzającą dokonanie wypłat;
+
+### 3)
+
+niewypłacone kwoty.
+
+### Art. 38zd.
+
+### 1.
+
+Roszczenia deponentów z tytułu gwarancji, nieujawnione w ramach listy deponentów, Fundusz zaspokaja w terminie 20 dni roboczych od dnia otrzymania listy deponentów uzupełnionej przez zarządcę albo syndyka lub po ustaleniu listy wierzytelności lub po stwierdzeniu prawomocnym orzeczeniem sądu wierzytelności wobec kasy, w przypadku której nastąpiło spełnienie warunku gwarancji.
+
+### 2.
+
+W przypadku dokonania wypłaty środków gwarantowanych, o których mowa w ust. 1, po ogłoszeniu upadłości kasy Zarząd Funduszu zgłasza sędziemu-komisarzowi wierzytelność z tego tytułu.
+
+### Art. 38ze.
+
+### 1.
+
+Jeżeli w dniu spełnienia warunku gwarancji uprawnienia z tytułu środków gwarantowanych przysługiwały następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, i - niezależnie od przyczyny faktycznej lub prawnej - nie zostały wykazane w systemie wyliczania kasy jako uprawnienia innej osoby lub innych osób, Fundusz jest obowiązany do spełnienia wyłącznie jednego świadczenia gwarancyjnego z tytułu środków gwarantowanych, na rzecz następcy lub następców prawnych lub osób, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1:
+
+### 1)
+
+wysokość świadczenia zostaje określona bez uwzględnienia środków gwarantowanych, jakie mogą przysługiwać następcom prawnym oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, z tytułu czynności dokonanych odrębnie od czynności będących podstawą powstania środków gwarantowanych poprzednika prawnego;
+
+### 2)
+
+uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasady dysponowania majątkiem, jaki należał do poprzednika prawnego.
+
+### Art. 38zf.
+
+Jeżeli w dniu wypłaty środków gwarantowanych przysługiwały one wyłącznie deponentowi, a następnie weszły do majątku, do którego uprawnienia przysługują następcy lub następcom prawnym deponenta oraz osobom, o których mowa w art. 14 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, uprawnienia do odbioru środków gwarantowanych ustala się na zasadach ogólnych, zgodnie z przepisami określającymi skutki danego rodzaju następstwa prawnego oraz zasadami dysponowania majątkiem, jaki należał do poprzednika prawnego.
+
+### Art. 38zg.
+
+### 1.
+
+W przypadku gdy środki zdeponowane na rachunku zostały zablokowane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, zawiesza się wypłatę deponentowi środków gwarantowanych na czas trwania blokady.
+
+### 2.
+
+Jeżeli środki zdeponowane na rachunku zostaną uznane w całości lub w części prawomocnym wyrokiem sądu za przedmiot pochodzący bezpośrednio albo pośrednio z przestępstwa przewidzianego w art. 165a lub art. 299 Kodeksu karnego albo za korzyść z takiego przestępstwa lub za ich równowartość, przy obliczaniu świadczenia z tytułu środków gwarantowanych nie uwzględnia się środków zdeponowanych na rachunku lub odpowiedniej ich części. Środki te nie korzystają z ochrony systemu gwarantowania w części, co do której orzeczono przepadek.
+
+### 3.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, szczegółowe warunki i tryb zawieszania wypłaty środków gwarantowanych deponentom w przypadku określonym w ust. 1, uwzględniając dane, jakie powinno zawierać zawiadomienie Funduszu o prowadzonym postępowaniu karnym oraz zawiadomienie o jego zakończeniu, termin i sposób wysłania zawiadomienia, dane, jakie powinna zawierać informacja o zawieszeniu wypłaty środków gwarantowanych wysłana deponentowi, termin i sposób wysłania informacji oraz dane, jakie powinien zawierać rejestr zawieszonych wypłat środków gwarantowanych prowadzony przez Fundusz.
+
+### Art. 38zh.
+
+### 1.
+
+Komisja Nadzoru Finansowego przekazuje Funduszowi informacje:
+
+### 1)
+
+o stanie finansowym kasy i podejmowanych w stosunku do niej działaniach na podstawie odrębnych przepisów, w razie powzięcia wiadomości, że w kasie powstała strata, groźba jej wystąpienia lub powstało niebezpieczeństwo niewypłacalności kasy lub zagrożenie utraty płynności płatniczej, w szczególności o programie postępowania naprawczego kasy, jego ocenie i raportach z jego realizacji;
+
+### 2)
+
+o wynikach przeprowadzonych czynności kontrolnych, wydanych zaleceniach, środkach, jakie zostały podjęte w celu usunięcia nieprawidłowości stwierdzonych w ramach nadzoru i o ich wykonaniu przez kasę;
+
+### 3)
+
+o zaistnieniu innych okoliczności, mogących skutkować powstaniem zobowiązań Funduszu wobec deponentów z tytułu środków gwarantowanych.
+
+### 2.
+
+Komisja Nadzoru Finansowego przekazuje Funduszowi informacje sprawozdawcze uzyskane od kas oraz od Kasy Krajowej na podstawie przepisów wydanych na podstawie art. 62c ust. 4 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+
+### 3.
+
+Narodowy Bank Polski przekazuje Funduszowi informacje dotyczące kas, w tym informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych, w zakresie niezbędnym do wykonywania jego ustawowo określonych zadań.
+
+### 4.
+
+Funduszowi przysługuje prawo uzyskiwania informacji dotyczących kas, mających wpływ na realizację jego zadań, posiadanych przez Narodowy Bank Polski, ministra właściwego do spraw instytucji finansowych, Komisję Nadzoru Finansowego i Najwyższą Izbę Kontroli.
+
+### 5.
+
+Fundusz przekazuje Narodowemu Bankowi Polskiemu informacje niezbędne do oceny stabilności i ryzyka systemu kas, w tym dotyczące poszczególnych kas objętych systemem gwarantowania, podlegające ochronie na podstawie odrębnych przepisów.
+
+### 6.
+
+Przedmiot, zakres, tryb i terminy przekazywania informacji, o których mowa w ust. 4 i 5, określają odrębne porozumienia zawarte między Funduszem a Prezesem Narodowego Banku Polskiego, ministrem właściwym do spraw instytucji finansowych i Prezesem Najwyższej Izby Kontroli, a także umowa o współpracy oraz o wymianie informacji między Funduszem a Komisją Nadzoru Finansowego, o której mowa w art. 17 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+
+### 7.
+
+Kasa Krajowa jest obowiązana do przekazywania Funduszowi w imieniu kas informacji dotyczących poszczególnych kas, niezbędnych do wykonywania zadań Funduszu.
+
+### 8.
+
+Uzyskiwane informacje dotyczące kas Fundusz może wykorzystywać tylko w celu realizacji zadań określonych w ustawie.
+
+### 9.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, Przewodniczącego Komisji Nadzoru Finansowego oraz Prezesa Funduszu, uwzględniając konieczność prawidłowej realizacji zadań Funduszu, może określić, w drodze rozporządzenia, zakres, tryb i terminy przekazywania przez Kasę Krajową informacji, o których mowa w ust. 7.
+
+### Art. 38zi.
+
+### 1.
+
+Informacje uzyskane w trybie określonym w art. 38zh mogą być wykorzystywane przez Fundusz do opracowywania analiz i prognoz dotyczących sektora kas.
+
+### 2.
+
+Informacje określone w ust. 1 nie mogą być udostępniane przez Fundusz innym podmiotom, z zastrzeżeniem art. 38zh ust. 5.
+
+### 3.
+
+Analizy i prognozy, o których mowa w ust. 1, mogą być publikowane. Fundusz może je także udostępniać zainteresowanym podmiotom.
+
+### Art. 38zj.
+
+### 1.
+
+Kasy informują osoby korzystające oraz zainteresowane korzystaniem z ich usług o:
+
+### 1)
+
+swojej sytuacji ekonomiczno-finansowej;
+
+### 2)
+
+uczestnictwie w ustawowym systemie gwarantowania i zasadach jego funkcjonowania, w tym o zakresie podmiotowym i przedmiotowym ochrony przysługującej ze strony tego systemu, wskazując w szczególności:
+
+### a)
+
+kwotę określającą maksymalną wysokość gwarancji,
+
+### b)
+
+rodzaje podmiotów, które zgodnie z ustawą mogą być uznane za deponenta uprawnionego do otrzymania świadczenia pieniężnego.
+
+### 2.
+
+Kasy są obowiązane poinformować osoby korzystające oraz zainteresowane korzystaniem z ich usług o braku ochrony gwarancyjnej w przypadku gdy:
+
+### 1)
+
+wierzytelność powstająca w związku z wykonywaniem czynności, o których mowa w art. 3 ust. 1 i 1a ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, przez kasy, nie będzie chroniona przez ustawowy system gwarantowania, w szczególności jeżeli osoby korzystające oraz zainteresowane korzystaniem z ich usług nie mogą być uznane za deponenta;
+
+### 2)
+
+w związku z usługami świadczonymi przez kasy, w szczególności polegającymi na pośredniczeniu w zawieraniu umów, powstają lub mogą powstać jakiekolwiek wierzytelności osoby korzystającej oraz zainteresowanej korzystaniem z ich usług wobec innego podmiotu, który nie jest objęty systemem gwarantowania.
+
+### 3.
+
+Informacje, o których mowa w ust. 1 pkt 2 i ust. 2 pkt 1, powinny być również zawarte w umowach między osobami korzystającymi z usług a kasą.
+
+### 4.
+
+Informacje dotyczące trybu i warunków otrzymania świadczenia pieniężnego na podstawie ustawy powinny zostać udostępnione na wniosek osoby korzystającej oraz zainteresowanej korzystaniem z usług kasy.
+
+### 5.
+
+Wszelkie informacje udostępniane osobom korzystającym oraz zainteresowanym korzystaniem z usług stosownie do przepisów ust. 1-3 powinny być podawane w sposób:
+
+### 1)
+
+w jaki podawane są informacje o świadczonych usługach;
+
+### 2)
+
+jednoznaczny i zrozumiały.
+
+### 6.
+
+Informacje o uczestnictwie w obowiązkowym systemie gwarantowania nie mogą być wykorzystywane w celach reklamowych i powinny być ograniczone wyłącznie do informacji określonych w ust. 1 i 2.
+
+### Art. 38zk.
+
+Środki gwarantowane są płatne na podstawie danych znajdujących się w systemie wyliczania kasy.
+
+### Art. 38zl.
+
+### 1.
+
+Odpowiedzialnym za wdrożenie i utrzymywanie prawidłowo funkcjonującego systemu wyliczania oraz za zgodność danych zawartych w systemie wyliczania z zapisami w księgach rachunkowych kasy oraz z rzeczywistym stanem prawnym jest zarząd kasy.
+
+### 2.
+
+Za przekazywanie Funduszowi danych, o których mowa w art. 38zn ust. 1, znajdujących się w systemie wyliczania, w okresie do dnia spełnienia warunku gwarancji, jest odpowiedzialny zarząd kasy.
+
+### Art. 38zm.
+
+W przypadku spełnienia warunku gwarancji zapewnienie funkcjonowania systemu wyliczania oraz przekazywania Funduszowi danych znajdujących się w systemie wyliczania jest zadaniem zarządcy komisarycznego.
+
+### Art. 38zn.
+
+### 1.
+
+System wyliczania zapewnia gotowość do bieżącego sporządzania danych pozwalających na identyfikację deponentów, miejsca ich zamieszkania lub siedziby oraz na określenie wysokości należnych poszczególnym deponentom środków gwarantowanych, według stanu na koniec każdego dnia.
+
+### 2.
+
+Kasa przechowuje dane w systemie wyliczania w sposób zapewniający ich odtworzenie oraz dostęp do nich Komisji Nadzoru Finansowego oraz Funduszowi.
+
+### 3.
+
+Funduszowi przysługuje prawo kontroli prawidłowości danych zawartych w systemie wyliczania.
+
+### 4.
+
+System wyliczania ani uzyskiwane i przetwarzane w nim dane nie mogą znajdować się poza terytorium Rzeczypospolitej Polskiej.
+
+### 5.
+
+Kasa stosuje odpowiednie zabezpieczenia, które zapewniają prawidłowe funkcjonowanie systemu wyliczania.
+
+### 6.
+
+Kasa przeprowadza co najmniej raz na 6 miesięcy test systemu wyliczania, w szczególności w zakresie ustalenia, czy spełnione zostały warunki do wykonania obowiązków ustawowych na wypadek spełnienia warunku gwarancji oraz czy zapewniona jest prawidłowość sporządzania przez kasę danych o deponentach i środkach gwarantowanych. Wyniki testów przechowywane są przez kasę w formie raportów przez 3 lata od dnia ich sporządzenia i udostępniane na żądanie Funduszowi lub Komisji Nadzoru Finansowego.
+
+### Art. 38zo.
+
+### 1.
+
+Kasa przekazuje Funduszowi na każde jego żądanie dane znajdujące się w systemie wyliczania pozwalające na identyfikację deponentów oraz wysokości środków gwarantowanych należnych poszczególnym deponentom. Funduszowi przysługuje prawo kontroli otrzymanych danych.
+
+### 2.
+
+W celu realizacji kontroli, o której mowa w ust. 1, Funduszowi udostępniane są dane dotyczące deponentów zawarte w zbiorach prowadzonych przez podmioty lub osoby trzecie, w szczególności dane ze zbiorów meldunkowych, zbioru danych osobowych PESEL oraz ewidencji wydanych i unieważnionych dowodów osobistych, o których mowa w odrębnych przepisach.
+
+### Art. 38zp.
+
+### 1.
+
+Nadzór nad prawidłowością funkcjonowania systemów wyliczania sprawuje Komisja Nadzoru Finansowego.
+
+### 2.
+
+W przypadku niewykonywania lub nienależytego wykonywania przez kasę obowiązków związanych z wdrożeniem i utrzymywaniem prawidłowo funkcjonującego systemu wyliczania, Komisja Nadzoru Finansowego może zastosować środki nadzorcze określone w art. 71 ust. 2 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych.
+
+### 3.
+
+W przypadku gdy kasa nie posiada systemu wyliczania lub posiada nieprawidłowo funkcjonujący system wyliczania, Komisja Nadzoru Finansowego może na nią nałożyć karę pieniężną w wysokości do 0,3% sumy aktywów oraz zobowiązań pozabilansowych.
+
+### 4.
+
+W przypadku niewykonywania lub nienależytego wykonywania obowiązków, o których mowa w ust. 2, przez osoby odpowiedzialne za wdrożenie i funkcjonowanie systemów wyliczania Komisja Nadzoru Finansowego może nałożyć na te osoby kary pieniężne do wysokości sześciokrotności miesięcznego wynagrodzenia brutto tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 6 miesięcy przed nałożeniem kary.
+
+### 5.
+
+Komisja Nadzoru Finansowego odprowadza kwoty wyegzekwowane z tytułu kar pieniężnych, o których mowa w ust. 3 i 4, na rzecz Funduszu.
+
+### 6.
+
+Kasa zawiadamia Komisję Nadzoru Finansowego o członku zarządu, do którego zakresu obowiązków należy zapewnienie wdrożenia i funkcjonowania systemu wyliczania.
+
+### 7.
+
+Fundusz może wystąpić do Komisji Nadzoru Finansowego o podjęcie czynności kontrolnych lub środków w ramach nadzoru w zakresie kontroli prawidłowości funkcjonowania systemów wyliczania.
+
+### Art. 38zq.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego oraz Funduszu, określi, w drodze rozporządzenia:
+
+### 1)
+
+minimalne wymogi, jakie powinien spełniać system wyliczania,
+
+### 2)
+
+szczegółowy zakres i strukturę danych zawartych w systemie wyliczania, a także standard techniczny ich przygotowania i zapisu,
+
+### 3)
+
+format i tryb przekazywania danych do Funduszu, uwzględniając ich zabezpieczenie przed nieuprawnionym dostępem,
+
+### 4)
+
+sposób oznaczenia środków gwarantowanych, których dotyczy postępowanie w sprawach określonych w art. 165a lub art. 299 Kodeksu karnego,
+
+### 5)
+
+tryb i sposób weryfikacji prawidłowości danych zawartych w systemie wyliczania
+
+- mając na względzie potrzebę zapewnienia otrzymywania przez Fundusz należycie przygotowanych i zweryfikowanych danych na potrzeby realizacji ustawowych zadań Funduszu oraz warunki wykonywania czynności faktycznych związanych z działalnością kasy.
+
+” ;
+
+### 17)
+
+po art. 42 dodaje się art. 42a w brzmieniu:
+
+„
+
+### Art. 42a.
+
+Kto, będąc członkiem zarządu kasy objętej ustawowym systemem gwarantowania środków pieniężnych, doprowadza do powstania straty po stronie Funduszu w wyniku tego, że kasa nie odprowadziła obowiązkowej opłaty rocznej, o której mowa w art. 13c ust. 1, albo nie odprowadziła opłaty w odpowiedniej wysokości mimo dysponowania przez tę kasę środkami pieniężnymi wystarczającymi na odprowadzenie tej opłaty, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim ([Dz. U. z 2005 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/2005/2/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164, z 2010 r. Nr 109, poz. 709 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 117, poz. 676 oraz z 2012 r. poz. 855, 908 i 1166.](#gloss-0:19:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 38 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Rezerwę obowiązkową banków stanowi wyrażona w złotych część środków pieniężnych w złotych i w walutach obcych zgromadzonych na rachunkach bankowych, środków uzyskanych z tytułu emisji dłużnych papierów wartościowych oraz innych środków przyjętych przez bank podlegających zwrotowi, z wyjątkiem środków:
+
+### 1)
+
+przyjętych od innego banku krajowego, spółdzielczej kasy oszczędnościowo-kredytowej oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
+
+### 2)
+
+przyjętych od banku zagranicznego na podstawie umów zawartych przed dniem wejścia w życie ustawy;
+
+### 3)
+
+pozyskanych z zagranicy co najmniej na 2 lata;
+
+### 4)
+
+pozyskanych na podstawie umów o prowadzenie indywidualnych kont emerytalnych oraz pozyskanych na podstawie umów o prowadzenie indywidualnych kont zabezpieczenia emerytalnego w rozumieniu przepisów o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
+
+### 5)
+
+uzyskanych ze sprzedaży papierów wartościowych zabezpieczonych hipotecznie o okresie wykupu powyżej pięciu lat oraz ze sprzedaży listów zastawnych o okresie wykupu powyżej pięciu lat.
+
+### 3.
+
+Rezerwę obowiązkową spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej stanowi wyrażona w złotych część środków pieniężnych w złotych i w walutach obcych zgromadzonych na rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych oraz w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, środków uzyskanych z tytułu emisji dłużnych papierów wartościowych oraz innych środków podlegających zwrotowi, z wyjątkiem środków przyjętych od innej spółdzielczej kasy oszczędnościowo-kredytowej, Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej oraz od banku krajowego.
+
+” ;
+
+### 2)
+
+art. 43 otrzymuje brzmienie:
+
+„
+
+### Art. 43.
+
+### 1.
+
+W przypadkach uregulowanych w ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613.](#gloss-0:20:)) oraz ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2012 r. poz. 855](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.html) i [1166](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.html) oraz [z 2013 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.html)) NBP może udzielać kredytu krótkoterminowego Bankowemu Funduszowi Gwarancyjnemu.
+
+### 2.
+
+W przypadku zagrożenia płynności spółdzielczych kas oszczędnościowo-kredytowych NBP może udzielić Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej kredytu krótkoterminowego na zasilenie funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w razie zaistnienia groźby wyczerpania środków funduszu i pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+
+### 3.
+
+Komisja Nadzoru Finansowego przekazuje na wniosek NBP opinię o sytuacji sektora spółdzielczych kas oszczędnościowo-kredytowych oraz o zdolności Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej do spłaty kredytu, o którym mowa w ust. 2, wraz z odsetkami.
+
+### 4.
+
+Środki z kredytu, o którym mowa w ust. 2, mogą być wykorzystane przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową wyłącznie na udzielanie kredytów dla spółdzielczych kas oszczędnościowo-kredytowych w celu uzupełnienia ich zasobów pieniężnych.
+
+” ;
+
+### 3)
+
+w art. 51 w ust. 1 pkt 3a otrzymuje brzmienie:
+
+„
+
+### 3a)
+
+Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu ([Dz. U. z 2010 r. Nr 46, poz. 276](https://api.sejm.gov.pl/eli/acts/DU/2010/276/text.html), z późn. zm.[21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 134, poz. 779, Nr 199, poz. 1175, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1529.](#gloss-0:21:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w pkt 1 lit. l otrzymuje brzmienie:
+
+„
+
+### l)
+
+spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową,
+
+” ;
+
+### 2)
+
+w art. 33 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+Przewodniczącego Komisji Nadzoru Finansowego lub osób przez niego upoważnionych - wyłącznie w sprawach związanych z wykonywaniem nadzoru bankowego, w sprawach związanych z wykonywaniem nadzoru nad działalnością ubezpieczeniową oraz w stosunku do firm inwestycyjnych i banków powierniczych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi oraz zagranicznych osób prawnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską w zakresie obrotu towarami giełdowymi, towarowych domów maklerskich w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych i Krajowego Depozytu Papierów Wartościowych S.A., w stosunku do spółdzielczych kas oszczędnościowo-kredytowych w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2012 r. poz. 855](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.html) i [1166](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.html) oraz [z 2013 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.html)) oraz w stosunku do instytucji płatniczych, oddziałów unijnych instytucji płatniczych, biur usług płatniczych oraz ich agentów w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych;
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze ([Dz. U. z 2012 r. poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2012/1112/text.html) i [1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html) oraz [z 2013 r. poz. 355](https://api.sejm.gov.pl/eli/acts/DU/2013/355/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w części trzeciej tytuł tytułu II otrzymuje brzmienie: „ Postępowanie upadłościowe wobec banków i spółdzielczych kas oszczędnościowo-kredytowych ” ;
+
+### 2)
+
+w art. 440 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Należności Bankowego Funduszu Gwarancyjnego z tytułu wypłaty środków gwarantowanych, z tytułu pomocy, o której mowa w art. 20c ust. 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613.](#gloss-0:22:)) oraz wsparcia, o którym mowa w art. 20g ust. 2 tej ustawy, ulegają zaspokojeniu w kategorii drugiej.
+
+” ;
+
+### 3)
+
+po art. 441 dodaje się art. 441a w brzmieniu:
+
+„
+
+### Art. 441a.
+
+### 1.
+
+Wniosek o ogłoszenie upadłości spółdzielczej kasy oszczędnościowo-kredytowej może zgłosić wyłącznie Komisja Nadzoru Finansowego.
+
+### 2.
+
+W postępowaniu upadłościowym wobec spółdzielczej kasy oszczędnościowo-kredytowej syndykiem może być także inna spółdzielcza kasa oszczędnościowo-kredytowa.
+
+### 3.
+
+Propozycje układowe mogą złożyć także członkowie spółdzielczej kasy oszczędnościowo-kredytowej reprezentujący dwie trzecie funduszu udziałowego kasy.
+
+### 4.
+
+W pozostałym zakresie przepisy art. 426-441 stosuje się odpowiednio.
+
+” .
+
+### Art. 8.
+
+Spółdzielcze kasy oszczędnościowo-kredytowe, które przed dniem wejścia w życie niniejszej ustawy powierzyły przedsiębiorcy lub przedsiębiorcy zagranicznemu w drodze umowy wykonywanie czynności, o których mowa w art. 3 ust. 1 ustawy zmienianej w art. 1, są obowiązane dostosować działalność w tym zakresie do wymagań określonych w art. 9a-9d tej ustawy w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 9.
+
+### 1.
+
+W terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, w przypadku zagrożenia płynności spółdzielczej kasy oszczędnościowo-kredytowej Narodowy Bank Polski może udzielić bezpośrednio tej kasie kredytu w celu uzupełnienia jej zasobów pieniężnych.
+
+### 2.
+
+Do kredytu udzielonego zgodnie z ust. 1 stosuje się odpowiednio art. 4 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym ([Dz. U. Nr 39, poz. 308](https://api.sejm.gov.pl/eli/acts/DU/2009/308/text.html), z późn. zm.[23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166.](#gloss-0:23:)).
+
+### 3.
+
+Do kredytu udzielonego zgodnie z ust. 1 nie stosuje się przepisów art. 20c ust. 2 ustawy zmienianej w art. 4.
+
+### 4.
+
+Komisja Nadzoru Finansowego przekazuje na wniosek Narodowego Banku Polskiego opinię o sytuacji finansowej spółdzielczej kasy oszczędnościowo-kredytowej, w szczególności dotyczącą zdolności spółdzielczej kasy oszczędnościowo-kredytowej do spłaty kredytu, o którym mowa w ust. 1, wraz z odsetkami.
+
+### Art. 10.
+
+### 1.
+
+Przepisy wykonawcze wydane na podstawie art. 64 ust. 3 i art. 80 ust. 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych odpowiednio na podstawie art. 64 ust. 3 i art. 62c ust. 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Przepisy wykonawcze wydane na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy zmienianej w art. 3 zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 81 ust. 2 pkt 8 lit. d ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Dotychczasowe zasady i metodyka opracowane przez radę nadzorczą Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej na podstawie art. 63 ust. 3 ustawy zmienianej w art. 1 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 63 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 11.
+
+### 1.
+
+W okresie 6 miesięcy od dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, termin, o którym mowa w art. 38w ust. 1 ustawy zmienianej w art. 4, wynosi 10 dni roboczych.
+
+### 2.
+
+Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, Bankowy Fundusz Gwarancyjny realizując zadania w zakresie restrukturyzacji spółdzielczych kas oszczędnościowo-kredytowych, w których powstało niebezpieczeństwo niewypłacalności, może:
+
+### 1)
+
+udzielać zwrotnej pomocy finansowej kasom;
+
+### 2)
+
+udzielać wsparcia podmiotom przejmującym kasy, podmiotom przejmującym wybrane prawa majątkowe lub wybrane zobowiązania kas lub nabywcom przedsiębiorstwa kasy w likwidacji, jego zorganizowanej części lub wybranych praw majątkowych;
+
+### 3)
+
+obejmować akcje banku przejmującego oraz nabywać lub obejmować akcje banku, o którym mowa w art. 4 ust. 1h ustawy zmienianej w art. 4;
+
+### 4)
+
+kontrolować prawidłowość wykorzystania pomocy i wsparcia, o których mowa w pkt 1 i 2, w szczególności realizację programu postępowania naprawczego, oraz monitorować sytuację ekonomiczno-finansową i system zarządzania kasy korzystającej z pomocy finansowej oraz podmiotów korzystających ze wsparcia.
+
+### 3.
+
+Do realizacji zadań, o których mowa w ust. 2, stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 4, z zastrzeżeniem ust. 4-6.
+
+### 4.
+
+Kwota pomocy finansowej lub wsparcia Bankowego Funduszu Gwarancyjnego w przypadku realizacji zadań, o których mowa w ust. 2, określona w art. 20d pkt 3, art. 20g ust. 2 pkt 4 oraz art. 20h pkt 3 ustawy zmienianej w art. 4 jako maksymalna kwota z tytułu gwarancji, nie może przekroczyć kwoty stanowiącej sumę środków pieniężnych zgromadzonych w kasie (łącznie z odsetkami naliczonymi do dnia złożenia wniosku o udzielenie pomocy lub wsparcia, zgodnie z oprocentowaniem wskazanym w umowie niezależnie od terminu ich wymagalności), z wyłączeniem środków wpłaconych tytułem udziałów i wkładów członkowskich w kasie, nie później niż w dniu poprzedzającym dzień złożenia wniosku o udzielenie pomocy lub wsparcia, przez:
+
+### 1)
+
+osoby fizyczne,
+
+### 2)
+
+organizacje pozarządowe w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2010 r. Nr 234, poz. 1536](https://api.sejm.gov.pl/eli/acts/DU/2010/1536/text.html), z późn. zm.[24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.](#gloss-0:24:)),
+
+### 3)
+
+jednostki organizacyjne kościoła lub związku wyznaniowego, jeśli posiadają osobowość prawną,
+
+### 4)
+
+spółdzielnie niebędące spółdzielczą kasą oszczędnościowo-kredytową ani Krajową Spółdzielczą Kasą Oszczędnościowo-Kredytową,
+
+### 5)
+
+związki zawodowe oraz wspólnoty mieszkaniowe
+
+- będące stroną umowy imiennego rachunku lub posiadające wynikającą z przeprowadzania przez kasę rozliczeń finansowych wierzytelność do kasy, potwierdzoną wystawianymi przez tę kasę dokumentami imiennymi, oraz osoby, o których mowa w art. 14 ust. 1 ustawy zmienianej w art. 1, o ile ich wierzytelność do kasy stała się wymagalna przed dniem złożenia wniosku o udzielenie pomocy lub wsparcia.
+
+### 5.
+
+Przy wyliczaniu maksymalnej kwoty gwarancji, o której mowa w ust. 4, nie uwzględnia się środków pieniężnych zgromadzonych przez członków zarządu i rady nadzorczej kasy oraz pracowników podlegających bezpośrednio członkom zarządu, osób pełniących funkcje kierowników lub dyrektorów oddziałów tej kasy i ich zastępców, w przypadku gdy osoby te pełniły swoje funkcje w dniu złożenia wniosku o udzielenie pomocy lub wsparcia, bądź w okresie bieżącego roku obrotowego lub roku obrotowego poprzedzającego ten dzień.
+
+### 6.
+
+Sumowaniu, o którym mowa w ust. 4, podlegają środki pieniężne do równowartości w złotych 100 000 euro dla każdego z podmiotów, o których mowa w ust. 4. Do obliczenia równowartości euro w złotych przyjmuje się kurs średni z dnia złożenia wniosku o udzielenie pomocy lub wsparcia ogłaszany przez Narodowy Bank Polski.
+
+### 7.
+
+Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, kasa na żądanie Bankowego Funduszu Gwarancyjnego przekazuje dane pozwalające na identyfikację podmiotów, o których mowa w ust. 4, oraz dane o wysokości środków zgromadzonych przez te podmioty w kasie. Funduszowi przysługuje prawo kontroli otrzymanych danych, w tym kontroli w siedzibie kasy.
+
+### 8.
+
+Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, roszczenia członków kasy, wobec której Komisja Nadzoru Finansowego podjęła decyzję o zawieszeniu działalności kasy, o której mowa w art. 74k ust. 1 i 2 ustawy zmienianej w art. 1, z tytułu zgromadzonych w niej środków pieniężnych, o których mowa w ust. 4-6, wypłacane są z funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, do wysokości wolnych środków tego funduszu.
+
+### 9.
+
+Roszczenia, o których mowa w ust. 8, zaspokajane są proporcjonalnie do kwoty roszczenia, do wysokości, o której mowa w ust. 6, na podstawie informacji sporządzonej przez zarządcę komisarycznego kasy w terminie 10 dni roboczych od dnia wydania przez Komisję Nadzoru Finansowego decyzji, o której mowa w art. 74k ust. 1 i 2 ustawy zmienianej w art. 1.
+
+### 10.
+
+Roszczenia, o których mowa w ust. 8, Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa zaspokaja z funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, w terminie 20 dni roboczych od dnia wydania przez Komisję Nadzoru Finansowego decyzji, o której mowa w art. 74k ust. 1 i 2 ustawy zmienianej w art. 1.
+
+### 11.
+
+W przypadku ogłoszenia upadłości kasy posiadającej dobrowolny system ubezpieczania środków pieniężnych członków lub prawomocnego oddalenia wniosku o ogłoszenie upadłości takiej kasy ze względu na to, że jej majątek nie wystarcza na zaspokojenie kosztów postępowania, niezaspokojone zgodnie z ust. 8-10 roszczenia członków kasy są w pierwszej kolejności zaspokajane w ramach tego systemu.
+
+### 12.
+
+Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, w przypadku wyczerpania środków funduszu stabilizacyjnego, o którym mowa w art. 55 ustawy zmienianej w art. 1, i wystąpieniu zagrożenia stabilności systemu spółdzielczych kas oszczędnościowo-kredytowych, Narodowy Bank Polski może udzielić Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej kredytu krótkoterminowego na uzupełnienie środków tego funduszu w celu realizacji zadań, o których mowa w ust. 8 oraz art. 42 ustawy zmienianej w art. 1, pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+
+### 13.
+
+Do dnia wejścia w życie art. 4 pkt 16 ustawy, w zakresie dodawanych art. 38l-38zg oraz 38zj-38zq, art. 91 ustawy zmienianej w art. 1 nie stosuje się.
+
+### Art. 12.
+
+### 1.
+
+Opłaty, o których mowa w art. 13c ust. 1 ustawy zmienianej w art. 4, w pierwszym roku obowiązywania niniejszej ustawy wnoszone są za cały rok, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Rada Bankowego Funduszu Gwarancyjnego określi, po zasięgnięciu opinii Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, wysokość opłat, o których mowa w ust. 1, nie później niż w ciągu miesiąca od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 13.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 11 lit. b-h, które wchodzą w życie po upływie 12 miesięcy od dnia ogłoszenia;
+
+### 2)
+
+art. 1 pkt 18 oraz pkt 24 w zakresie dodawanego art. 61b, które wchodzą w życie z dniem 1 stycznia 2014 r.;
+
+### 3)
+
+art. 4 pkt 4 lit. b oraz pkt 16 w zakresie dodawanych art. 38l-38zg i art. 38zj-38zq, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+
+### 4)
+
+art. 5 pkt 1, który wchodzi w życie z dniem 28 stycznia 2014 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz ustawę z dnia 28 lutego 2003 r. - Prawo upadłościowe i naprawcze. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593, z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378 oraz z 2012 r. poz. 855, 1166, 1407, 1445 i 1529. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70 i 433. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 99, poz. 660 i Nr 171, poz. 1206, z 2008 r. Nr 157, poz. 976, Nr 223, poz. 1458 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 i Nr 157, poz. 1241 oraz z 2011 r. Nr 34, poz. 173. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 217, poz. 1280 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627, 664, 908, 951 i 1529. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238, z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497 oraz z 2011 r. Nr 230, poz. 1371. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781 oraz z 2012 r. poz. 596 i 1166. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431 oraz z 2012 r. poz. 611. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016 oraz z 2012 r. poz. 362, 627, 707, 908 i 1544. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228, z 2011 r. Nr 5, poz. 13, Nr 28, poz. 143, Nr 87, poz. 484, Nr 234, poz. 1386 i Nr 240, poz. 1429 oraz z 2012 r. poz. 769, 951, 1101, 1271 i 1529. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 134, poz. 779, Nr 199, poz. 1175, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1529. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 111, poz. 1195, z 2002 r. Nr 141, poz. 1178 i Nr 216, poz. 1824, z 2003 r. Nr 137, poz. 1303 i Nr 228, poz. 2260, z 2004 r. Nr 91, poz. 870, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 52, poz. 344, z 2008 r. Nr 209, poz. 1315 oraz z 2009 r. Nr 127, poz. 1050. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700, z 2011 r. Nr 36, poz. 181, Nr 63, poz. 322, Nr 80, poz. 432, Nr 144, poz. 855, Nr 149, poz. 887 i Nr 232, poz. 1378, z 2012 r. poz. 908 i 1110 oraz z 2013 r. poz. 2. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 167, poz. 1129, z 2012 r. poz. 836 i 1385 oraz z 2013 r. poz. 433. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506, z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075, z 2010 r. Nr 40, poz. 222 i Nr 155, poz. 1037 oraz z 2011 r. Nr 80, poz. 432, Nr 85, poz. 458 i Nr 230, poz. 1370. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781 oraz z 2012 r. poz. 596 i 1166. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317, z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164, z 2010 r. Nr 109, poz. 709 i Nr 257, poz. 1724, z 2011 r. Nr 75, poz. 398 i Nr 117, poz. 676 oraz z 2012 r. poz. 855, 908 i 1166. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 134, poz. 779, Nr 199, poz. 1175, Nr 234, poz. 1391 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1529. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613. 23) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378.

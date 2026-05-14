@@ -8,11 +8,9 @@ pos: 670
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o funduszach inwestycyjnych
-
-*USTAWA z dnia 9 kwietnia 2010 r.*
+# Ustawa z dnia 9 kwietnia 2010 r. o zmianie ustawy o funduszach inwestycyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,24 @@ domain: null
 | Data ogłoszenia | 2010-04-09 |
 | Data wydania | 2010-06-16 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060670) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/670/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/670/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/670) |
 
-**Art. 1.** W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. Nr 146, poz. 1546, z późn. zm. ) w art. 91 ust. 1 otrzymuje brzmienie: „1. Fundusz inwestycyjny otwarty sporządza i niezwłocznie przekazuje uczestnikowi funduszu pisemne potwierdzenie zbycia lub odkupienia jednostek uczestnictwa, chyba że uczestnik wyraził pisemną zgodę na przekazywanie tych potwierdzeń przy użyciu innego nośnika informacji niż papier, w innych terminach, na ich osobisty odbiór lub przekazywanie za pomocą poczty elektronicznej. Przekazanie potwierdzenia przy użyciu innego nośnika informacji niż papier może być dokonane, jeżeli nośnik ten umożliwia przechowywanie przez czas niezbędny, wynikający z charakteru informacji oraz celu ich sporządzenia i przekazania, zawartych na nim informacji w sposób uniemożliwiający ich zmianę lub pozwalający na odtworzenie informacji w wersji i formie, w jakiej zostały sporządzone lub przekazane.”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+### Art. 1.
 
+W ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html), z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530.](#gloss-0:1:)) w art. 91 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Fundusz inwestycyjny otwarty sporządza i niezwłocznie przekazuje uczestnikowi funduszu pisemne potwierdzenie zbycia lub odkupienia jednostek uczestnictwa, chyba że uczestnik wyraził pisemną zgodę na przekazywanie tych potwierdzeń przy użyciu innego nośnika informacji niż papier, w innych terminach, na ich osobisty odbiór lub przekazywanie za pomocą poczty elektronicznej. Przekazanie potwierdzenia przy użyciu innego nośnika informacji niż papier może być dokonane, jeżeli nośnik ten umożliwia przechowywanie przez czas niezbędny, wynikający z charakteru informacji oraz celu ich sporządzenia i przekazania, zawartych na nim informacji w sposób uniemożliwiający ich zmianę lub pozwalający na odtworzenie informacji w wersji i formie, w jakiej zostały sporządzone lub przekazane.
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 81, poz. 530.

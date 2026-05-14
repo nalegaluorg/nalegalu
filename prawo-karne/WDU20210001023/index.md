@@ -8,9 +8,9 @@ pos: 1023
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# dnia 20 kwietnia 2021 zmianie ustawy – Kodeks karny niektórych innych ustaw
+# Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw [1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/541/UE z dnia 15 marca 2017 r. w sprawie zwalczania terroryzmu i zastępującą decyzję ramową Rady 2002/475/WSiSW oraz zmieniającą decyzję Rady 2005/671/WSiSW (Dz. Urz. UE L 88 z 31.03.2017, str. 6).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,402 @@ domain: null
 | Data ogłoszenia | 2021-04-20 |
 | Data wydania | 2021-06-07 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001023) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1023/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1023/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1023) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 – Kodeks karny (Dz. U. poz. 1444 1517) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 20 maja 1971 – Kodeks wykroczeń (Dz. U. 2021 poz. 281 720) 57:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. - Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych.](#gloss-0:2:)
 
-**Art. 4.** W ustawie dnia 2 marca szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, późn. zm. ) wprowadza się następujące zmiany: mowa ust. 1, jeżeli przewód sądowy tej rozprawie rozpoczęto przed upływem tego okresu.”;
+### Art. 1.
 
-**Art. 5.** Do spraw wszczętych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej 3 brzmieniu nadanym niniejszą ustawą.
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. z 2020 r. poz. 1444](https://api.sejm.gov.pl/eli/acts/DU/2020/1444/text.html) i [1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html)) wprowadza się następujące zmiany:
 
-**Art. 6.** W sprawach, których przed dniem wejścia życie niniejszej ustawy rozpoczęto przewód sądowy rozprawie apelacyjnej, sąd orzeka składzie dotychczasowym czasu zakończenia postępowania tej instancji.
+### 1)
 
-**Art. 7.** Do czynów popełnionych przed dniem wejścia życie niniejszej ustawy kar orzeczonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy przedawnieniu brzmieniu nadanym tą ustawą, chyba że termin przedawnienia już upłynął.
+w art. 255a § 2 otrzymuje brzmienie:
 
-**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+„
 
+### § 2.
+
+Tej samej karze podlega, kto w celu popełnienia przestępstwa o charakterze terrorystycznym uczestniczy w szkoleniu mogącym umożliwić popełnienie takiego przestępstwa lub samodzielnie zapoznaje się z treściami, o których mowa w § 1.
+
+” ;
+
+### 2)
+
+art. 259a otrzymuje brzmienie:
+
+„
+
+### Art. 259a.
+
+Kto przekracza granicę Rzeczypospolitej Polskiej w celu popełnienia przestępstwa o charakterze terrorystycznym lub przestępstwa określonego w art. 255a lub art. 258 § 2 lub 4, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+” ;
+
+### 3)
+
+w art. 259b pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+popełnienia przestępstwa o charakterze terrorystycznym lub przestępstwa określonego w art. 255a lub art. 258 § 2 lub 4 i ujawnił przed organem powołanym do ścigania przestępstw wszystkie istotne okoliczności popełnienia czynu lub zapobiegł popełnieniu zamierzonego przestępstwa;
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. z 2021 r. poz. 281](https://api.sejm.gov.pl/eli/acts/DU/2021/281/text.html) i [720](https://api.sejm.gov.pl/eli/acts/DU/2021/720/text.html)) w art. 57:
+
+### 1)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Kto:
+
+### 1)
+
+organizuje lub przeprowadza zbiórkę ofiar na uiszczenie grzywny orzeczonej za przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe, świadczenia pieniężnego, przepadku przedmiotów stanowiących kwotę pieniężną, równowartości przepadku przedmiotów lub przedsiębiorstwa, przepadku korzyści majątkowej stanowiącej kwotę pieniężną, równowartości przepadku korzyści majątkowej, odszkodowania, zadośćuczynienia, nawiązki, podlegającej zwrotowi korzyści majątkowej stanowiącej kwotę pieniężną albo równowartości podlegającej zwrotowi korzyści majątkowej lub na poręczenie majątkowe lub zabezpieczenie majątkowe,
+
+### 2)
+
+nie będąc osobą najbliższą dla skazanego lub ukaranego uiszcza za niego grzywnę, świadczenie pieniężne, kwotę pieniężną stanowiącą przedmiot przepadku, równowartość przepadku przedmiotów lub przedsiębiorstwa, kwotę pieniężną stanowiącą przedmiot przepadku korzyści majątkowej, równowartość przepadku korzyści majątkowej, nawiązkę, podlegającą zwrotowi korzyść majątkową stanowiącą kwotę pieniężną albo równowartość podlegającej zwrotowi korzyści majątkowej lub uiszcza odszkodowanie lub zadośćuczynienie lub ofiarowuje mu albo osobie dla niego najbliższej pieniądze na ten cel
+
+- podlega karze aresztu albo grzywny.
+
+” ;
+
+### 2)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Przepadkowi podlegają:
+
+### 1)
+
+zebrane ofiary lub pieniądze uzyskane za zebrane ofiary w naturze, o których mowa w § 1 pkt 1;
+
+### 2)
+
+pieniądze wpłacone na poczet należności lub ofiarowane na cel, o których mowa w § 1 pkt 2.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2021 r. poz. 534](https://api.sejm.gov.pl/eli/acts/DU/2021/534/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 156:
+
+### a)
+
+w § 5 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli nie zachodzi potrzeba zabezpieczenia prawidłowego toku postępowania lub ochrony ważnego interesu państwa, w toku postępowania przygotowawczego stronom, obrońcom, pełnomocnikom i przedstawicielom ustawowym udostępnia się akta, umożliwia sporządzanie odpisów lub kopii oraz wydaje odpłatnie uwierzytelnione odpisy lub kopie. ” ,
+
+### b)
+
+po § 5a dodaje się § 5b w brzmieniu:
+
+„
+
+### § 5b.
+
+Przepis § 5 stosuje się odpowiednio do udostępniania akt zakończonego postępowania przygotowawczego.
+
+” ;
+
+### 2)
+
+w art. 218a:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Urzędy, instytucje i podmioty prowadzące działalność telekomunikacyjną lub świadczące usługi drogą elektroniczną oraz dostawcy usług cyfrowych obowiązani są niezwłocznie zabezpieczyć, na żądanie sądu lub prokuratora zawarte w postanowieniu, na czas określony, nieprzekraczający jednak 90 dni, dane informatyczne przechowywane w urządzeniach zawierających te dane na nośniku lub w systemie informatycznym. W sprawach o przestępstwa określone w art. 200b, art. 202 § 3, 4, 4a, 4b lub art. 255a Kodeksu karnego oraz w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii ([Dz. U. z 2020 r. poz. 2050](https://api.sejm.gov.pl/eli/acts/DU/2020/2050/text.html)) zabezpieczenie może być połączone z obowiązkiem uniemożliwienia dostępu do tych danych. Przepis art. 218 § 2 zdanie drugie stosuje się odpowiednio.
+
+” ,
+
+### b)
+
+dodaje się § 3 i 4 w brzmieniu:
+
+„
+
+### § 3.
+
+Przepisy § 1 i 2 stosuje się odpowiednio do zabezpieczania treści publikowanych lub udostępnianych drogą elektroniczną, przy czym podmiotem obowiązanym do wykonania żądania sądu lub prokuratora może być również administrator treści.
+
+### § 4.
+
+Jeżeli publikacja lub udostępnienie treści, o których mowa w § 3, stanowiło czyn zabroniony, o którym mowa w § 1, sąd lub prokurator może zarządzić usunięcie tych treści, nakładając obowiązek wykonania postanowienia na podmioty, o których mowa w § 1 lub 3.
+
+” ;
+
+### 3)
+
+art. 218b otrzymuje brzmienie:
+
+„
+
+### Art. 218b.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności, ministrem właściwym do spraw informatyzacji, Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób technicznego przygotowania systemów i sieci służących do przekazywania informacji - do gromadzenia danych, o których mowa w art. 218 § 1, niestanowiących treści rozmowy telefonicznej lub innego przekazu informacji, a także sposoby zabezpieczania danych informatycznych, o których mowa w art. 218 § 1 i art. 218a § 1, oraz treści, o których mowa w art. 218a § 3, w urządzeniach zawierających te dane oraz w systemach i na informatycznych nośnikach danych, mając na uwadze konieczność zabezpieczenia tych danych oraz treści przed ich utratą, zniekształceniem lub nieuprawnionym ujawnieniem, a w przypadku połączenia zabezpieczenia z obowiązkiem uniemożliwienia dostępu do tych danych informatycznych lub treści, również konieczność ich zabezpieczenia przed nieuprawnionym dostępem i ujawnieniem, a w przypadku usunięcia treści - przed ich nieuprawnionym odzyskaniem.
+
+” ;
+
+### 4)
+
+w art. 248 w § 2 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 136 § 1 stosuje się odpowiednio, w tym również w przypadku, gdy odbiór tego postanowienia przez zatrzymanego nie jest możliwy. ” ;
+
+### 5)
+
+w art. 266 po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Przedmiot poręczenia majątkowego nie może pochodzić z przysporzenia na rzecz oskarżonego albo innej osoby składającej poręczenie dokonanego na ten cel. Sąd albo prokurator może uzależnić przyjęcie przedmiotu poręczenia majątkowego od wykazania przez osobę składającą poręczenie źródła pochodzenia tego przedmiotu.
+
+” ;
+
+### 6)
+
+w art. 281 dotychczasową treść oznacza się jako § 1 i dodaje się § 2-4 w brzmieniu:
+
+„
+
+### § 2.
+
+W postępowaniu przygotowawczym list żelazny może być wydany na wniosek prokuratora albo przy braku jego sprzeciwu.
+
+### § 3.
+
+Udział prokuratora w posiedzeniu w przedmiocie wydania listu żelaznego jest obowiązkowy.
+
+### § 4.
+
+Wydając list żelazny, sąd uchyla tymczasowe aresztowanie. Postanowienie o uchyleniu tymczasowego aresztowania staje się wykonalne z dniem uprawomocnienia się postanowienia o wydaniu listu żelaznego.
+
+” ;
+
+### 7)
+
+w art. 282 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W postępowaniu przygotowawczym odwołanie listu żelaznego następuje na wniosek prokuratora.
+
+” ;
+
+### 8)
+
+w art. 284 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Na postanowienie w przedmiocie listu żelaznego oraz na postanowienie wydane na podstawie art. 283 § 2 przysługuje zażalenie.
+
+” ;
+
+### 9)
+
+po art. 284 dodaje się art. 284a w brzmieniu:
+
+„
+
+### Art. 284a.
+
+Wniosek o wydanie listu żelaznego nie wstrzymuje rozpoznania wniosku o zastosowanie wobec podejrzanego tymczasowego aresztowania.
+
+” ;
+
+### 10)
+
+w art. 334 po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+Odpisy aktu oskarżenia, o których mowa w § 2 pkt 2, mogą być przesłane sądowi w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów, którzy w dniu przesłania sądowi aktu oskarżenia są pozbawieni wolności lub których adresu poczty elektronicznej nie ustalono.
+
+” ;
+
+### 11)
+
+w art. 338:
+
+### a)
+
+§ 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu.
+
+” ,
+
+### b)
+
+dodaje się § 4 i 5 w brzmieniu:
+
+„
+
+### § 4.
+
+Odpis aktu oskarżenia w postaci elektronicznej doręcza się na adres poczty elektronicznej. Art. 132 § 3 zdanie drugie stosuje się.
+
+### § 5.
+
+O dacie doręczenia odpisu aktu oskarżenia oraz adresie poczty elektronicznej, na który odpis został wysłany, zawiadamia się adresata za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, a w uzasadnionych wypadkach można go zawiadomić telefonicznie.
+
+” ;
+
+### 12)
+
+art. 349 otrzymuje brzmienie:
+
+„
+
+### Art. 349.
+
+### § 1.
+
+Jeżeli przewidywany zakres postępowania dowodowego uzasadnia przypuszczenie, że przewód sądowy nie zostanie zamknięty na pierwszym terminie rozprawy, prezes sądu niezwłocznie wyznacza sędziego albo członków składu orzekającego, a przewodniczący składu orzekającego kieruje sprawę na posiedzenie wstępne. Posiedzenie wstępne może zostać wyznaczone na ten sam dzień, na który wyznaczono pierwszy termin rozprawy głównej. Posiedzenia wstępnego można nie przeprowadzać, jeżeli złożono wniosek, o którym mowa w art. 387 § 1.
+
+### § 2.
+
+W przypadku zaistnienia okoliczności określonych w § 1, uzasadniających odstąpienie od skierowania sprawy na posiedzenie wstępne, przewodniczący wydaje w tym przedmiocie zarządzenie. Zarządzenie wymaga uzasadnienia.
+
+### § 3.
+
+Udział prokuratora, obrońcy i pełnomocnika oskarżyciela posiłkowego w posiedzeniu wstępnym jest obowiązkowy, a pozostałych stron i pokrzywdzonego - jeżeli przewodniczący tak zarządzi. Niestawiennictwo strony, obrońcy, pełnomocnika lub pokrzywdzonego, należycie wezwanych na posiedzenie lub zawiadomionych o jego terminie, nie stoi na przeszkodzie przeprowadzeniu posiedzenia. Strony pozbawionej wolności nie sprowadza się, chyba że przewodniczący uzna to za konieczne.
+
+### § 4.
+
+Strony i inne osoby, których udział w posiedzeniu wstępnym jest obowiązkowy, a także pozostałe strony i pokrzywdzony mogą przedstawić stanowisko w przedmiocie planowania i organizacji rozprawy głównej. Stanowisko przedstawia się na piśmie, a na posiedzeniu można je przedstawić również ustnie. Przewodniczący może wezwać strony i inne osoby obowiązane lub uprawnione do udziału w posiedzeniu wstępnym do przedstawienia na piśmie oświadczeń lub wniosków, o których mowa w § 5, zakreślając w tym celu stosowny termin.
+
+### § 5.
+
+Stanowisko, o którym mowa w § 4, może obejmować oświadczenia o proponowanych terminach rozprawy i okresach występowania obiektywnych przeszkód uniemożliwiających udział w rozprawie, wnioski o przeprowadzenie dowodów bezpośrednio lub poprzez ich odczytanie, a także o ich przeprowadzenie w określonej kolejności, wnioski o sprowadzenie dowodu rzeczowego na rozprawę lub uzyskanie przez sąd określonego dokumentu urzędowego mającego znaczenie dla rozstrzygnięcia sprawy, wnioski o zezwolenie na udział w rozprawie na odległość z wykorzystaniem urządzeń umożliwiających jednoczesny i bezpośredni przekaz obrazu i dźwięku, a także inne oświadczenia i wnioski dotyczące okoliczności istotnych dla sprawnego i prawidłowego przeprowadzenia przewodu sądowego. Stanowisko może też obejmować wnioski dowodowe, jak również odniesienie się do wniosków dowodowych złożonych przez inną stronę.
+
+### § 6.
+
+W sprawach, w których wyznaczono posiedzenie wstępne, wnioski formalne dotyczące biegu postępowania, w tym dotyczące właściwości sądu, przekazania sprawy innemu sądowi, występowania okoliczności określonych w art. 17 § 1, przekazania sprawy prokuratorowi w celu uzupełnienia śledztwa lub dochodzenia, a także wnioski o wyłączenie sędziego powinny być złożone najpóźniej na tym posiedzeniu.
+
+### § 7.
+
+Wnioski, o których mowa w § 6, złożone po zakończeniu posiedzenia wstępnego pozostawia się bez rozpoznania, chyba że wnioskodawca wykaże, iż okoliczności uzasadniające złożenie wniosku powstały albo stały się mu znane później.
+
+### § 8.
+
+Na posiedzeniu wstępnym rozpoznaje się wnioski, o których mowa w § 6, a w razie potrzeby można rozpoznać wnioski dowodowe. Przewodniczący, biorąc pod uwagę stanowiska, o których mowa w § 5, rozstrzyga w drodze zarządzenia co do objętych nimi okoliczności oraz innych okoliczności istotnych dla sprawnego i prawidłowego przeprowadzenia przewodu sądowego, wyznacza terminy rozprawy, w liczbie co najmniej 5, o ile zakres przewidywanego postępowania dowodowego nie uzasadnia ich mniejszej liczby, a następnie ogłasza je stronom i innym osobom biorącym udział w posiedzeniu. Ogłoszenie wyznaczonych terminów rozprawy ma skutek równoznaczny z wezwaniem do stawiennictwa na rozprawie lub zawiadomieniem o jej terminie.
+
+### § 9.
+
+Jeżeli strona, obrońca lub pełnomocnik nie brali udziału w posiedzeniu wstępnym, o wyznaczonych terminach rozprawy powiadamia się ich na piśmie; powiadomienie ma skutek równoznaczny z wezwaniem do stawiennictwa na rozprawie lub zawiadomieniem o jej terminie. Przepisy art. 129 § 1 i 2 stosuje się odpowiednio.
+
+### § 10.
+
+Wniosek o zmianę terminu rozprawy wyznaczonego na posiedzeniu wstępnym można pozostawić bez rozpoznania, chyba że w sposób oczywisty zasługuje na uwzględnienie.
+
+### § 11.
+
+Na wniosek strony lub z urzędu można wyznaczyć posiedzenie w przedmiocie planowania i organizacji rozprawy głównej również po rozpoczęciu przewodu sądowego, jeżeli przyczyni się to do usprawnienia dalszego biegu postępowania. Przepisy § 3-10 stosuje się odpowiednio.
+
+” ;
+
+### 13)
+
+po art. 610 dodaje się art. 610a w brzmieniu:
+
+„
+
+### Art. 610a.
+
+Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa obcego porozumienie przewidujące podział kwot lub przedmiotów uzyskanych z wykonania orzeczenia skazującego na grzywnę lub z orzeczenia przepadku, o których mowa w art. 609 § 2 oraz art. 610 § 4 i 5.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. poz. 1842](https://api.sejm.gov.pl/eli/acts/DU/2020/1842/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694 i 981.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 14f dodaje się art. 14fa w brzmieniu:
+
+„
+
+### Art. 14fa.
+
+### 1.
+
+W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, oraz w okresie roku po ich odwołaniu w sprawach rozpoznawanych według przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego o przestępstwa zagrożone karą pozbawienia wolności, której górna granica nie przekracza 5 lat, na rozprawie apelacyjnej sąd orzeka w składzie jednego sędziego, jeżeli w pierwszej instancji sąd orzekał w takim samym składzie.
+
+### 2.
+
+Sąd orzeka na rozprawie apelacyjnej w składzie jednego sędziego również po upływie okresu, o którym mowa w ust. 1, jeżeli przewód sądowy na tej rozprawie rozpoczęto przed upływem tego okresu.
+
+” ;
+
+### 2)
+
+dodaje się art. 15zzr1 w brzmieniu:
+
+„
+
+### Art. 15zzr1.
+
+### 1.
+
+W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii, ogłoszonego z powodu COVID-19, oraz w okresie 6 miesięcy po ich odwołaniu nie biegnie przedawnienie karalności czynu oraz przedawnienie wykonania kary w sprawach o przestępstwa i przestępstwa skarbowe.
+
+### 2.
+
+Okresy, o których mowa w ust. 1, liczy się od dnia 14 marca 2020 r. - w przypadku stanu zagrożenia epidemicznego, oraz od dnia 20 marca 2020 r. - w przypadku stanu epidemii.
+
+” .
+
+### Art. 5.
+
+Do spraw wszczętych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 6.
+
+W sprawach, w których przed dniem wejścia w życie niniejszej ustawy rozpoczęto przewód sądowy na rozprawie apelacyjnej, sąd orzeka w składzie dotychczasowym do czasu zakończenia postępowania w tej instancji.
+
+### Art. 7.
+
+Do czynów popełnionych przed dniem wejścia w życie niniejszej ustawy oraz kar orzeczonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy o przedawnieniu w brzmieniu nadanym tą ustawą, chyba że termin przedawnienia już upłynął.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/541/UE z dnia 15 marca 2017 r. w sprawie zwalczania terroryzmu i zastępującą decyzję ramową Rady 2002/475/WSiSW oraz zmieniającą decyzję Rady 2005/671/WSiSW (Dz. Urz. UE L 88 z 31.03.2017, str. 6). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 maja 1971 r. - Kodeks wykroczeń, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego oraz ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694 i 981.

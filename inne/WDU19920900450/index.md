@@ -8,11 +8,9 @@ pos: 450
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o orderach i odznaczeniach
-
-*USTAWA z dnia 16 października 1992 r.*
+# Ustawa z dnia 16 października 1992 r. o orderach i odznaczeniach
 
 | Pole | Wartość |
 |---|---|
@@ -24,460 +22,528 @@ domain: null
 | Data ogłoszenia | 1992-10-16 |
 | Data wydania | 1992-12-08 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/450/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1992/450/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1992/450) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział I - Przepisy ogólne](#chpt_I) [Rozdział II - Ordery](#chpt_II) [Rozdział III - Odznaczenia](#chpt_III) [Rozdział IV - Kapituły orderów](#chpt_IV) [Rozdział V - Tryb nadawania i wręczania orderów i odznaczeń](#chpt_V) [Rozdział VI - Pozbawienie orderów i odznaczeń](#chpt_VI) [Rozdział VII - Przepisy szczególne i końcowe](#chpt_VII)
 
-1. Rzeczpospolita Polska zapewnia ciągłość tradycji narodowych w wyróżnianiu zasług, cnót obywatelskich i wybitnych osiągnięć.
+TOC
 
-2. Najwyższym wyróżnieniem zasług cywilnych i wojskowych położonych w czasie pokoju lub wojny dla chwały i rozwoju Rzeczypospolitej Polskiej są ordery i odznaczenia.
+## Treść ustawy
 
-3. Ordery w każdej klasie i odznaczenia w każdym stopniu nadaje się jeden raz, jeżeli ustawa nie stanowi inaczej.
+### Rozdział I Przepisy ogólne
 
-4. Ordery i odznaczenia nadaje się na zasadach określonych w ustawie.
+### Art. 1.
 
-**Art. 2.**
+### 1.
 
-1. Ordery i odznaczenia nadaje Prezydent Rzeczypospolitej Polskiej.
+Rzeczpospolita Polska zapewnia ciągłość tradycji narodowych w wyróżnianiu zasług, cnót obywatelskich i wybitnych osiągnięć.
 
-2. Prezydent nadaje ordery z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów oraz Kapituł Orderów.
+### 2.
 
-3. Prezydent nadaje odznaczenia z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów, a w przypadku odznaczenia, o którym mowa w art. 15a, na wniosek Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, zaś w przypadku odznaczenia, o którym mowa w art. 15b, na wniosek Dyrektora Instytutu Solidarności i Męstwa imienia Witolda Pileckiego.
+Najwyższym wyróżnieniem zasług cywilnych i wojskowych położonych w czasie pokoju lub wojny dla chwały i rozwoju Rzeczypospolitej Polskiej są ordery i odznaczenia.
 
-4. Ordery i odznaczenia wojenne w czasie wojny nadaje w Siłach Zbrojnych, z upoważnienia Prezydenta, Naczelny Dowódca Sił Zbrojnych Rzeczypospolitej Polskiej.
+### 3.
 
-**Art. 3.**
+Ordery w każdej klasie i odznaczenia w każdym stopniu nadaje się jeden raz, jeżeli ustawa nie stanowi inaczej.
 
-1. Z wnioskiem o nadanie Orderu Orła Białego, Orderu Odrodzenia Polski lub Krzyża Zasługi posłowi lub senatorowi można wystąpić po wygaśnięciu mandatu osoby proponowanej do odznaczenia.
+### 4.
 
-2. Przepis ust. 1 stosuje się również do osób zajmujących kierownicze stanowiska państwowe określone w odrębnych przepisach – w okresie zajmowania tych stanowisk.
+Ordery i odznaczenia nadaje się na zasadach określonych w ustawie.
 
-3. Przepisów ust. 1 i 2 nie stosuje się w czasie wojny.
+### Art. 2.
 
-**Art. 4.**
+### 1.
 
-1. Ordery i odznaczenia nadaje się obywatelom polskim.
+Ordery i odznaczenia nadaje Prezydent Rzeczypospolitej Polskiej.
 
-2. Ordery i odznaczenia mogą być nadawane również cudzoziemcom za zasługi położone dla Rzeczypospolitej Polskiej lub jej obywateli, a także stosownie do zwyczajów międzynarodowych.
+### 2.
 
-**Art. 5.** Obywatel polski może przyjąć order, odznaczenie lub inne zaszczytne wyróżnienie nadane przez najwyższe władze obcego państwa, po uzyskaniu na to zgody Prezydenta.
+Prezydent nadaje ordery z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów oraz Kapituł Orderów.
 
-**Art. 6.**
+### 3.
 
-1. Ordery i odznaczenia wojenne są nadawane tylko w czasie wojny lub nie później niż przez pięć lat od jej zakończenia.
+Prezydent nadaje odznaczenia z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów.
 
-2. (uchylony)
+### 4.
 
-**Art. 7.** Ordery i odznaczenia mogą być nadawane pośmiertnie.
+Ordery i odznaczenia wojenne w czasie wojny nadaje w Siłach Zbrojnych, z upoważnienia Prezydenta, Naczelny Dowódca Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-**Art. 8.**
+### Art. 3.
 
-1. Postanowienia Prezydenta o nadaniu orderów i odznaczeń są publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 1.
 
-2. Przepis ust. 1 nie ma zastosowania do postanowień Prezydenta o nadaniu Medalu za Długoletnią Służbę, odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda” oraz Medalu za Długoletnie Pożycie Małżeńskie.
+Z wnioskiem o nadanie Orderu Odrodzenia Polski lub Krzyża Zasługi posłowi lub senatorowi można wystąpić po wygaśnięciu mandatu osoby proponowanej do odznaczenia.
 
-3. Ze względu na ważny interes państwa można odstąpić od publikacji w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” postanowień Prezydenta o nadaniu orderów i odznaczeń.
+### 2.
 
-**Art. 8a.** Prezydent może, w trybie określonym dla nadania orderu lub odznaczenia, wyrazić zgodę na umieszczenie w oznaczeniu będącym znakiem towarowym w rozumieniu ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170) reprodukcji tego orderu lub odznaczenia.
+Przepis ust. 1 stosuje się również do osób zajmujących kierownicze stanowiska państwowe określone w odrębnych przepisach - w okresie zajmowania tych stanowisk.
 
-**Art. 9.**
+### 3.
 
-1. Prezydent, w drodze rozporządzenia, określa:
+Przepisów ust. 1 i 2 nie stosuje się w czasie wojny.
 
-- **1)** opis, materiał, wymiary i wzory rysunkowe odznak orderów i odznaczeń określonych w ustawie;
-- **2)** szczegółowy tryb postępowania w sprawach o nadanie orderów i odznaczeń oraz wzory odpowiednich dokumentów.
+### Art. 4.
 
-2. Prezydent, w drodze rozporządzenia, może określić sposób, a także okoliczności noszenia odznak orderów i odznaczeń.
+### 1.
 
-**Art. 9a.** Prezydent, w drodze rozporządzenia, może określić:
+Ordery i odznaczenia nadaje się obywatelom polskim.
 
-#### Rozdział 2 Ordery
+### 2.
 
-**Art. 10.**
+Ordery i odznaczenia mogą być nadawane również cudzoziemcom za zasługi położone dla Rzeczypospolitej Polskiej lub jej obywateli, a także stosownie do zwyczajów międzynarodowych.
 
-1. Ustanowiony w roku 1705 i odnowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 4 lutego 1921 r. Order Orła Białego jest najwyższym orderem Rzeczypospolitej Polskiej.
+### Art. 5.
 
-2. Order Orła Białego nadawany jest za znamienite zasługi zarówno cywilne, jak i wojskowe, położone w czasie pokoju lub wojny, dla chwały i pożytku Rzeczypospolitej Polskiej.
+Obywatel polski może przyjąć order, odznaczenie lub inne zaszczytne wyróżnienie nadane przez najwyższe władze obcego państwa, po uzyskaniu na to zgody Prezydenta.
 
-**Art. 11.**
+### Art. 6.
 
-1. Ustanowiony w roku 1792, a zatwierdzony Konstytucją Rzeczypospolitej z dnia 23 listopada 1793 r. i przywrócony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 1 sierpnia 1919 r. Order Wojenny Virtuti Militari jest nagrodą za wybitne czyny wojenne połączone z wyjątkową ofiarnością i odwagą.
+Ordery i odznaczenia wojenne są nadawane tylko w czasie wojny lub nie później niż przez pięć lat od jej zakończenia.
 
-2. Order Wojenny Virtuti Militari dzieli się na pięć klas: klasa I – Krzyż Wielki Orderu Wojennego Virtuti Militari, klasa II – Krzyż Komandorski Orderu Wojennego Virtuti Militari, klasa III – Krzyż Kawalerski Orderu Wojennego Virtuti Militari, klasa IV – Krzyż Złoty Orderu Wojennego Virtuti Militari, klasa V – Krzyż Srebrny Orderu Wojennego Virtuti Militari.
+### Art. 7.
 
-3. Order Wojenny Virtuti Militari może być nadany:
+Ordery i odznaczenia mogą być nadawane pośmiertnie.
 
-- **1)** Krzyż Wielki Orderu Wojennego Virtuti Militari – Naczelnemu Dowódcy Sił Zbrojnych Rzeczypospolitej Polskiej za zwycięską wojnę lub dowódcy armii albo wyższemu dowódcy za całokształt działalności w czasie wojny;
-- **2)** Krzyż Komandorski Orderu Wojennego Virtuti Militari – dowódcy armii lub innemu wyższemu dowódcy za śmiałe i pełne inicjatywy prowadzenie operacji wojennej, mającej duże znaczenie dla przebiegu wojny;
-- **3)** Krzyż Kawalerski Orderu Wojennego Virtuti Militari – dowódcy jednostki bojowej za nadzwyczajne czyny bojowe lub wybitną inicjatywę, połączoną z umiejętnym i skutecznym dowodzeniem, a wyjątkowo oficerowi sztabu za współpracę z dowódcą, jeżeli współpraca ta w sposób wybitny przyczyniła się do zwycięstwa w bitwie;
-- **4)** Krzyż Złoty Orderu Wojennego Virtuti Militari – oficerowi za umiejętne i skuteczne dowodzenie jednostką bojową lub za inny czyn zapewniający sukces bojowy; podoficerowi lub żołnierzowi posiadającemu już Krzyż Srebrny za czyn wybitnego męstwa, połączony z narażeniem życia;
-- **5)** Krzyż Srebrny Orderu Wojennego Virtuti Militari – dowódcy lub żołnierzowi za śmiały czyn bojowy lub osobiste męstwo, a także osobom cywilnym za okazanie niezwykłego męstwa.
+### Art. 8.
 
-4. Krzyż Srebrny Orderu Wojennego Virtuti Militari może być nadany formacji walczącej lub miejscowości.
+Postanowienia Prezydenta o nadaniu orderów i odznaczeń są publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 12.**
+### Art. 9.
 
-1. Ustanowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 4 lutego 1921 r. Order Odrodzenia Polski jest nagrodą za wybitne zasługi położone w służbie Państwu i społeczeństwu.
+### 1.
 
-2. Order Odrodzenia Polski dzieli się na pięć klas: klasa I – Krzyż Wielki Orderu Odrodzenia Polski, klasa II – Krzyż Komandorski z Gwiazdą Orderu Odrodzenia Polski, klasa III – Krzyż Komandorski Orderu Odrodzenia Polski, klasa IV – Krzyż Oficerski Orderu Odrodzenia Polski, klasa V – Krzyż Kawalerski Orderu Odrodzenia Polski.
+Prezydent, w drodze rozporządzenia, określa:
 
-3. Order Odrodzenia Polski jest nadawany osobom, które zasłużyły się Polsce zwłaszcza poprzez:
+### 1)
 
-- **1)** wybitne osiągnięcia w podejmowanej z pożytkiem dla kraju działalności państwowej i publicznej;
-- **2)** szczególne zasługi dla umacniania suwerenności i obronności kraju;
-- **3)** szczególne zasługi dla rozwoju gospodarki narodowej, służby publicznej oraz wybitną twórczość naukową, literacką i artystyczną;
-- **4)** wybitne zasługi dla rozwoju współpracy Rzeczypospolitej Polskiej z innymi państwami i narodami.
+opis, materiał, wymiary i wzory rysunkowe odznak orderów i odznaczeń określonych w ustawie,
 
-**Art. 12a.**
+### 2)
 
-1. Order Krzyża Wojskowego jest nagrodą za wybitne czyny bojowe połączone z wyjątkową ofiarnością i odwagą w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju.
+szczegółowy tryb postępowania w sprawach o nadanie orderów i odznaczeń oraz wzory odpowiednich dokumentów.
 
-2. Order Krzyża Wojskowego dzieli się na trzy klasy: klasa I – Krzyż Wielki Orderu Krzyża Wojskowego, klasa II – Krzyż Komandorski Orderu Krzyża Wojskowego, klasa III – Krzyż Kawalerski Orderu Krzyża Wojskowego.
+### 2.
 
-3. Order Krzyża Wojskowego może być nadany:
+Prezydent, w drodze rozporządzenia, może określić sposób, a także okoliczności noszenia odznak orderów i odznaczeń.
 
-- **1)** Krzyż Wielki Orderu Krzyża Wojskowego – dowódcy jednostki bojowej za nadzwyczajne czyny bojowe lub wybitną inicjatywę, połączoną z umiejętnym i skutecznym dowodzeniem operacją lub akcją bojową;
-- **2)** Krzyż Komandorski Orderu Krzyża Wojskowego – dowódcy jednostki bojowej lub oficerowi za umiejętne i skuteczne dowodzenie jednostką bojową lub za inny czyn zapewniający sukces operacji lub akcji bojowej, wyjątkowo oficerowi sztabu za współpracę z dowódcą, jeżeli współpraca ta w sposób wybitny przyczyniła się do sukcesu operacji lub akcji bojowej, podoficerowi lub szeregowemu posiadającemu już Krzyż Kawalerski za czyn wybitnego męstwa połączony z narażeniem życia;
-- **3)** Krzyż Kawalerski Orderu Krzyża Wojskowego – dowódcy lub innemu żołnierzowi za śmiały czyn bojowy lub osobiste męstwo w czasie akcji bojowej, a także osobom cywilnym za okazanie niezwykłego męstwa.
+### Rozdział II Ordery
 
-4. Krzyż Kawalerski Orderu Krzyża Wojskowego może być nadany formacji walczącej.
+### Art. 10.
 
-5. Żołnierze formacji walczącej odznaczonej Krzyżem Kawalerskim Orderu Krzyża Wojskowego mają prawo do noszenia sznura orderowego Orderu Krzyża Wojskowego.
+### 1.
 
-**Art. 12b.**
+Ustanowiony w roku 1705 i odnowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 4 lutego 1921 r. Order Orła Białego jest najwyższym orderem Rzeczypospolitej Polskiej.
 
-1. Order Krzyża Niepodległości, będący kontynuacją ustanowionego rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z dnia 29 października 1930 r. Krzyża Niepodległości, jest nagrodą dla osób, które w latach 1939–1956 jako ochotnicy lub podejmując się służby ponad wymaganą od nich miarę położyły zasługi w obronie niepodległości Państwa Polskiego.
+### 2.
 
-2. Order Krzyża Niepodległości dzieli się na dwie klasy: klasa I – Krzyż z Mieczami Orderu Krzyża Niepodległości, klasa II – Krzyż Orderu Krzyża Niepodległości.
+Order Orła Białego nadawany jest za znamienite zasługi zarówno cywilne, jak i wojskowe, położone w czasie pokoju lub wojny, dla chwały i pożytku Rzeczypospolitej Polskiej.
 
-3. Order Krzyża Niepodległości może być nadany:
+### Art. 11.
 
-- **1)** Krzyż z Mieczami Orderu Krzyża Niepodległości – osobom, które walczyły z bronią w ręku o niepodległość i suwerenność Ojczyzny z niezwykłym poświęceniem lub walką tą kierowały;
-- **2)** Krzyż Orderu Krzyża Niepodległości – osobom, które przez znaczący okres czasu lub w sytuacji skrajnego zagrożenia broniły niepodległości i suwerenności Ojczyzny, walczyły o jej odzyskanie lub podtrzymywały funkcjonowanie instytucji i tradycji Rzeczypospolitej Polskiej.
+### 1.
 
-**Art. 13.**
+Ustanowiony w roku 1792, a zatwierdzony Konstytucją Sejmu Rzeczypospolitej z dnia 23 listopada 1793 r. i przywrócony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 1 sierpnia 1919 r. Order Wojenny Virtuti Militari jest nagrodą za wybitne czyny wojenne połączone z wyjątkową ofiarnością i odwagą.
 
-1. Order Zasługi Rzeczypospolitej Polskiej jest nagrodą za wybitne zasługi położone dla współpracy między narodami. Order jest nadawany cudzoziemcom i zamieszkałym za granicą obywatelom polskim, którzy swoją działalnością wnieśli wybitny wkład we współpracę międzynarodową oraz współpracę łączącą Rzeczpospolitą Polską z innymi państwami i narodami.
+### 2.
 
-2. Order Zasługi Rzeczypospolitej Polskiej dzieli się na pięć klas: klasa I – Krzyż Wielki Orderu Zasługi Rzeczypospolitej Polskiej, klasa II – Krzyż Komandorski z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej, klasa III – Krzyż Komandorski Orderu Zasługi Rzeczypospolitej Polskiej, klasa IV – Krzyż Oficerski Orderu Zasługi Rzeczypospolitej Polskiej, klasa V – Krzyż Kawalerski Orderu Zasługi Rzeczypospolitej Polskiej.
+Order Wojenny Virtuti Militari dzieli się na pięć klas: klasa I - Krzyż Wielki Orderu Wojennego Virtuti Militari, klasa II - Krzyż Komandorski Orderu Wojennego Virtuti Militari, klasa III - Krzyż Kawalerski Orderu Wojennego Virtuti Militari, klasa IV - Krzyż Złoty Orderu Wojennego Virtuti Militari, klasa V - Krzyż Srebrny Orderu Wojennego Virtuti Militari.
 
-#### Rozdział 3 Odznaczenia
+### 3.
 
-**Art. 14.**
+Order Wojenny Virtuti Militari może być nadany:
 
-1. Ustanowiony przez Radę Obrony Państwa rozporządzeniem z dnia 11 sierpnia 1920 r. Krzyż Walecznych jest odznaczeniem wojennym i stanowi nagrodę za czyny męstwa i odwagi wykazane w boju.
+### 1)
 
-2. Krzyż Walecznych może być nadany tej samej osobie czterokrotnie.
+Krzyż Wielki Orderu Wojennego Virtuti Militari - Naczelnemu Dowódcy Sił Zbrojnych Rzeczypospolitej Polskiej za zwycięską wojnę lub dowódcy armii albo wyższemu dowódcy za całokształt działalności w czasie wojny,
 
-3. Krzyż Walecznych może być nadany także formacji walczącej lub miejscowości.
+### 2)
 
-**Art. 14a.**
+Krzyż Komandorski Orderu Wojennego Virtuti Militari - dowódcy armii lub innemu wyższemu dowódcy za śmiałe i pełne inicjatywy prowadzenie operacji wojennej, mającej duże znaczenie dla przebiegu wojny,
 
-1. Krzyż Wojskowy jest odznaczeniem wojskowym będącym nagrodą za czyny męstwa i odwagi dokonane w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju.
+### 3)
 
-2. Krzyż Wojskowy nadaje się żołnierzom, a także policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej i Straży Pożarnej.
+Krzyż Kawalerski Orderu Wojennego Virtuti Militari - dowódcy jednostki bojowej za nadzwyczajne czyny bojowe lub wybitną inicjatywę, połączoną z umiejętnym i skutecznym dowodzeniem, a wyjątkowo oficerowi sztabu za współpracę z dowódcą, jeżeli współpraca ta w sposób wybitny przyczyniła się do zwycięstwa w bitwie,
 
-3. Krzyż Wojskowy może być nadany osobie cywilnej.
+### 4)
 
-4. Krzyż Wojskowy może być nadany tej samej osobie czterokrotnie.
+Krzyż Złoty Orderu Wojennego Virtuti Militari - oficerowi za umiejętne i skuteczne dowodzenie jednostką bojową lub za inny czyn zapewniający sukces bojowy; podoficerowi lub żołnierzowi posiadającemu już Krzyż Srebrny za czyn wybitnego męstwa, połączony z narażeniem życia,
 
-5. Krzyż Wojskowy może być nadany także formacji walczącej.
+### 5)
 
-**Art. 15.**
+Krzyż Srebrny Orderu Wojennego Virtuti Militari - dowódcy lub żołnierzowi za śmiały czyn bojowy lub osobiste męstwo, a także osobom cywilnym za okazanie niezwykłego męstwa.
 
-1. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej dekretem z dnia 19 października 1942 r. Krzyż Zasługi z Mieczami jest odznaczeniem wojennym i stanowi nagrodę za czyny męstwa i odwagi dokonane w czasie wojny niebezpośrednio w walce z nieprzyjacielem, a także położone w czasie wojny zasługi względem Państwa lub jego obywateli w warunkach szczególnie niebezpiecznych.
+### 4.
 
-2. Krzyż Zasługi z Mieczami dzieli się na trzy stopnie: I stopień – Złoty Krzyż Zasługi z Mieczami, II stopień – Srebrny Krzyż Zasługi z Mieczami, III stopień – Brązowy Krzyż Zasługi z Mieczami.
+Krzyż Srebrny Orderu Wojennego Virtuti Militari może być nadany formacji walczącej lub miejscowości.
 
-3. Krzyż Zasługi z Mieczami może być nadany tej samej osobie w każdym stopniu dwukrotnie.
+### Art. 12.
 
-**Art. 15a.**
+### 1.
 
-1. Krzyż Wolności i Solidarności jest odznaczeniem o charakterze pamiątkowym, będącym nagrodą dla działaczy opozycji wobec dyktatury komunistycznej, którzy w okresie od 1 stycznia 1956 r. do 4 czerwca 1989 r., z wyłączeniem okresu od 31 sierpnia 1980 r. do 12 grudnia 1981 r., na terytorium Polski co najmniej przez 12 miesięcy:
+Ustanowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 4 lutego 1921 r. Order Odrodzenia Polski jest nagrodą za wybitne zasługi położone w służbie Państwu i społeczeństwu.
 
-- **1)** byli aktywnymi członkami nielegalnych organizacji, które stawiały sobie za cel odzyskanie przez Polskę niepodległości i suwerenności lub respektowanie praw człowieka w Polskiej Rzeczypospolitej Ludowej, lub
-- **2)** prowadzili zagrożoną odpowiedzialnością karną lub represjami działalność na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania praw człowieka w Polskiej Rzeczypospolitej Ludowej.
+### 2.
 
-2. Krzyż Wolności i Solidarności nadaje się również osobom, które w okresie od 1 stycznia 1956 r. do 4 czerwca 1989 r. na terytorium Polski ze względu na prowadzoną działalność mającą na celu odzyskanie przez Polskę niepodległości i suwerenności lub respektowanie praw człowieka w Polskiej Rzeczypospolitej Ludowej lub też ze względu na świadome uczestnictwo w działaniach i manifestacjach mających taki cel:
+Order Odrodzenia Polski dzieli się na pięć klas: klasa I - Krzyż Wielki Orderu Odrodzenia Polski, klasa II - Krzyż Komandorski z Gwiazdą Orderu Odrodzenia Polski, klasa III - Krzyż Komandorski Orderu Odrodzenia Polski, klasa IV - Krzyż Oficerski Orderu Odrodzenia Polski, klasa V - Krzyż Kawalerski Orderu Odrodzenia Polski.
 
-- **1)** zostały zabite;
-- **2)** doznały ciężkiego uszczerbku na zdrowiu;
-- **3)** przez łączny okres co najmniej 30 dni były więzione, aresztowane, internowane lub w inny sposób pozbawione wolności;
-- **4)** zostały powołane na ćwiczenia wojskowe lub do odbycia zasadniczej służby wojskowej;
-- **5)** były pozbawione prawa lub możliwości wykonywania zawodu lub podjęcia pracy przez okres co najmniej 6 miesięcy;
-- **6)** zostały wydalone z wyższej uczelni lub szkoły na okres co najmniej 6 miesięcy.
+### 3.
 
-3. Nie mają prawa do otrzymania Krzyża Wolności i Solidarności osoby:
+Order Odrodzenia Polski jest nadawany osobom, które zasłużyły się Polsce zwłaszcza poprzez:
 
-- **1)** które były pracownikami, funkcjonariuszami, żołnierzami organów bezpieczeństwa państwa określonych w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), chyba że przedłożą dowody, że przed 4 czerwca 1989 r., bez wiedzy przełożonych czynnie wspierały osoby lub organizacje działające na rzecz odzyskania przez Polskę niepodległości i suwerenności lub respektowania praw człowieka w Polskiej Rzeczypospolitej Ludowej, albo
-- **2)** co do których w archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu zachowały się dokumenty wytworzone przez nie lub przy ich udziale, w ramach czynności wykonywanych przez nie w charakterze tajnego informatora lub pomocnika przy operacyjnym zdobywaniu informacji przez organy, o których mowa w pkt 1.
+### 1)
 
-3a. Przez dokumenty wytworzone przy udziale osób, o których mowa w ust. 3 pkt 2, przy operacyjnym zdobywaniu informacji przez organy bezpieczeństwa państwa rozumie się także pomoce ewidencyjne, takie jak dzienniki rejestracyjne, inwentarze archiwalne, karty ewidencyjne i Zintegrowany System Kartotek Operacyjnych organów bezpieczeństwa państwa, jeżeli potwierdzają fakt rejestracji ich w charakterze tajnych informatorów lub pomocników organów bezpieczeństwa państwa.
+wybitne osiągnięcia w podejmowanej z pożytkiem dla kraju działalności państwowej i publicznej,
 
-4. Przepisu art. 32 nie stosuje się.
+### 2)
 
-**Art. 15b.**
+szczególne zasługi dla umacniania suwerenności i obronności kraju,
 
-1. Medal Virtus et Fraternitas jest nagrodą dla osób zasłużonych w niesieniu pomocy lub pielęgnowaniu pamięci o osobach narodowości polskiej lub obywatelach polskich innych narodowości będących ofiarami zbrodni sowieckich, nazistowskich zbrodni niemieckich, zbrodni z pobudek nacjonalistycznych lub innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
+### 3)
 
-2. Nie mają prawa do otrzymania Medalu Virtus et Fraternitas osoby, które uczestniczyły w zbrodniach określonych w ust. 1.
+szczególne zasługi dla rozwoju gospodarki narodowej, służby publicznej oraz wybitną twórczość naukową, literacką i artystyczną,
 
-**Art. 16.**
+### 4)
 
-1. Ustanowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 23 czerwca 1923 r. Krzyż Zasługi jest nagrodą dla osób, które położyły zasługi dla Państwa lub obywateli spełniając czyny przekraczające zakres ich zwykłych obowiązków, a przynoszące znaczną korzyść Państwu lub obywatelom.
+wybitne zasługi dla rozwoju współpracy Rzeczypospolitej Polskiej z innymi państwami i narodami.
 
-2. Krzyż Zasługi dzieli się na trzy stopnie: I stopień – Złoty Krzyż Zasługi, II stopień – Srebrny Krzyż Zasługi, III stopień – Brązowy Krzyż Zasługi.
+### Art. 13.
 
-3. Krzyż Zasługi może być nadany także za:
+### 1.
 
-- **1)** (uchylony)
-- **2)** ofiarną działalność publiczną;
-- **3)** ofiarne niesienie pomocy oraz działalność charytatywną.
+Order Zasługi Rzeczypospolitej Polskiej jest nagrodą za wybitne zasługi położone dla współpracy między narodami. Order jest nadawany cudzoziemcom i zamieszkałym za granicą obywatelom polskim, którzy swoją działalnością wnieśli wybitny wkład we współpracę międzynarodową oraz współpracę łączącą Rzeczpospolitą Polską z innymi państwami i narodami.
 
-4. Krzyż Zasługi tego samego stopnia może być nadany tej samej osobie dwukrotnie.
+### 2.
 
-5. Przed nadaniem Krzyża Zasługi wyższego stopnia powinny upłynąć co najmniej 3 lata; odstępstwo od tej zasady jest dopuszczalne wyjątkowo.
+Order Zasługi Rzeczypospolitej Polskiej dzieli się na pięć klas: klasa I - Krzyż Wielki Orderu Zasługi Rzeczypospolitej Polskiej, klasa II - Krzyż Komandorski z Gwiazdą Orderu Zasługi Rzeczypospolitej Polskiej, klasa III - Krzyż Komandorski Orderu Zasługi Rzeczypospolitej Polskiej, klasa IV - Krzyż Oficerski Orderu Zasługi Rzeczypospolitej Polskiej, klasa V - Krzyż Kawalerski Orderu Zasługi Rzeczypospolitej Polskiej.
 
-**Art. 17.**
+### Rozdział III Odznaczenia
 
-1. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniem z dnia 7 marca 1928 r. Krzyż Zasługi za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbowej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.
+### Art. 14.
 
-2. Krzyż Zasługi za Dzielność może być nadany tej samej osobie wielokrotnie.
+### 1.
 
-3. Krzyż Zasługi za Dzielność może być wyjątkowo nadawany także innym osobom niewymienionym w ust. 1.
+Ustanowiony przez Radę Obrony Państwa rozporządzeniem z dnia 11 sierpnia 1920 r. Krzyż Walecznych jest odznaczeniem wojennym i stanowi nagrodę za czyny męstwa i odwagi wykazane w boju.
 
-**Art. 17a.**
+### 2.
 
-1. Nagrodą za zasługi podczas działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju są odznaczenia wojskowe:
+Krzyż Walecznych może być nadany tej samej osobie czterokrotnie.
 
-- **1)** Wojskowy Krzyż Zasługi z Mieczami;
-- **2)** Morski Krzyż Zasługi z Mieczami;
-- **3)** Lotniczy Krzyż Zasługi z Mieczami.
+### 3.
 
-2. Wojskowy Krzyż Zasługi z Mieczami może być nadany żołnierzowi Wojsk Lądowych, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, za sumienną służbę w czasie działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych poza granicami państwa w czasie pokoju w warunkach szczególnie niebezpiecznych, niebezpośrednio w styczności z przeciwnikiem.
+Krzyż Walecznych może być nadany także formacji walczącej lub miejscowości.
 
-3. Morski Krzyż Zasługi z Mieczami może być nadany żołnierzowi Marynarki Wojennej, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, za rzetelną i sumienną służbę w czasie działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych poza granicami państwa w czasie pokoju w warunkach szczególnie niebezpiecznych, niebezpośrednio w styczności z przeciwnikiem.
+### Art. 15.
 
-4. Lotniczy Krzyż Zasługi z Mieczami może być nadany żołnierzowi Sił Powietrznych, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych za rzetelną i sumienną służbę w czasie działań bojowych przeciwko aktom terroru w kraju lub podczas użycia Sił Zbrojnych poza granicami państwa w czasie pokoju w warunkach szczególnie niebezpiecznych, niebezpośrednio w styczności z przeciwnikiem.
+### 1.
 
-5. Krzyże, o których mowa w ust. 1, mogą być nadane tej samej osobie dwukrotnie.
+Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej dekretem z dnia 19 października 1942 r. Krzyż Zasługi z Mieczami jest odznaczeniem wojennym i stanowi nagrodę za czyny męstwa i odwagi dokonane w czasie wojny nie bezpośrednio w walce z nieprzyjacielem, a także położone w czasie wojny zasługi względem Państwa lub jego obywateli w warunkach szczególnie niebezpiecznych.
 
-**Art. 17b.**
+### 2.
 
-1. Nagrodą za zasługi w służbie w Siłach Zbrojnych Rzeczypospolitej Polskiej są odznaczenia wojskowe:
+Krzyż Zasługi z Mieczami dzieli się na trzy stopnie: I stopień - Złoty Krzyż Zasługi z Mieczami, II stopień - Srebrny Krzyż Zasługi z Mieczami, III stopień - Brązowy Krzyż Zasługi z Mieczami.
 
-- **1)** Wojskowy Krzyż Zasługi;
-- **2)** Morski Krzyż Zasługi;
-- **3)** Lotniczy Krzyż Zasługi.
+### 3.
 
-2. Wojskowy Krzyż Zasługi może być nadany żołnierzowi Wojsk Lądowych, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, za dokonany w czasie służby czyn przynoszący szczególną korzyść Wojskom Lądowym, a wykraczający poza zwykły obowiązek.
+Krzyż Zasługi z Mieczami może być nadany tej samej osobie w każdym stopniu dwukrotnie.
 
-3. Morski Krzyż Zasługi może być nadany żołnierzowi Marynarki Wojennej, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, za dokonany w czasie służby czyn przynoszący szczególną korzyść Marynarce Wojennej, a wykraczający poza zwykły obowiązek.
+### Art. 16.
 
-4. Lotniczy Krzyż Zasługi może być nadany żołnierzowi Sił Powietrznych, a wyjątkowo żołnierzowi innego rodzaju Sił Zbrojnych Rzeczypospolitej Polskiej, za dokonany w czasie służby czyn przynoszący szczególną korzyść Siłom Powietrznym, a wykraczający poza zwykły obowiązek.
+### 1.
 
-5. Krzyże, o których mowa w ust. 1, mogą być nadane tej samej osobie dwukrotnie.
+Ustanowiony przez Sejm Rzeczypospolitej Polskiej ustawą z dnia 23 czerwca 1923 r. Krzyż Zasługi jest nagrodą dla osób, które położyły zasługi dla Państwa lub obywateli spełniając czyny przekraczające zakres ich zwykłych obowiązków, a przynoszące znaczną korzyść Państwu lub obywatelom.
 
-6. (uchylony)
+### 2.
 
-**Art. 17c.** Nagrodą za wybitne osiągnięcia w realizacji zadań wynikających z bycia członkiem ochotniczej straży pożarnej jest Krzyż Świętego Floriana.
+Krzyż Zasługi dzieli się na trzy stopnie: I stopień - Złoty Krzyż Zasługi, II stopień - Srebrny Krzyż Zasługi, III stopień - Brązowy Krzyż Zasługi.
 
-**Art. 18.**
+### 3.
 
-1. Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal za Ofiarność i Odwagę stanowi nagrodę dla osób, które z narażeniem życia lub zdrowia ratowały zagrożone życie ludzkie lub mienie.
+Krzyż Zasługi może być nadany także za:
 
-2. Medal za Ofiarność i Odwagę może być nadany tej samej osobie wielokrotnie.
+### 1)
 
-**Art. 18a.**
+wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej,
 
-1. Nagrodą za wzorowe, wyjątkowo sumienne wykonywanie obowiązków wynikających z pracy zawodowej w służbie Państwa jest Medal za Długoletnią Służbę.
+### 2)
 
-2. Medal za Długoletnią Służbę dzieli się na trzy stopnie: I stopień – Medal Złoty za Długoletnią Służbę, II stopień – Medal Srebrny za Długoletnią Służbę, III stopień – Medal Brązowy za Długoletnią Służbę.
+ofiarną działalność publiczną,
 
-**Art. 19.** Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal za Długoletnie Pożycie Małżeńskie stanowi nagrodę dla osób, które przeżyły 50 lat w jednym związku małżeńskim.
+### 3)
 
-**Art. 19a.**
+ofiarne niesienie pomocy oraz działalność charytatywną.
 
-1. Nagrodą za nienaganną służbę w polskich kontyngentach wojskowych poza granicami państwa lub w rejonie prowadzenia operacji wojskowej są odznaczenia wojskowe o charakterze pamiątkowym mające w nazwie wyraz „Gwiazda” i nazwę państwa lub nazwę geograficzną terenu działania kontyngentu albo prowadzenia operacji wojskowej, bądź określenia sposobu działania kontyngentu.
+### 4.
 
-2. Odznaczenia, o których mowa w ust. 1, nadaje się:
+Krzyż Zasługi tego samego stopnia może być nadany tej samej osobie dwukrotnie.
 
-- **1)** żołnierzom, a także policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej i Państwowej Straży Pożarnej oraz osobom cywilnym, co najmniej za jeden dzień nienagannej służby rozpoczętej w ramach kontyngentu lub operacji wojskowej;
-- **2)** żołnierzom pełniącym służbę poza polskimi kontyngentami wojskowymi w międzynarodowych strukturach wojskowych i wykonującym zadania w rejonie działania kontyngentu lub w rejonie prowadzenia operacji wojskowej, co najmniej za jeden dzień nienagannej służby rozpoczętej w ramach tych struktur na danym terytorium;
-- **3)** członkom załóg wojskowych statków powietrznych pełniącym służbę poza polskimi kontyngentami wojskowymi i wykonującym zadania w przestrzeni powietrznej nad terytorium objętym działaniami polskiego kontyngentu wojskowego lub prowadzonej operacji wojskowej, co najmniej za jeden lot.
+### 5.
 
-2a. Odznaczenia, o których mowa w ust. 1, nadaje się również funkcjonariuszom Służby Ochrony Państwa, co najmniej za jeden dzień nienagannej służby pełnionej w państwie, na terytorium którego działa polski kontyngent wojskowy lub prowadzona jest operacja wojskowa z udziałem żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej, w związku z działalnością tego kontyngentu lub prowadzenia tej operacji.
+Przed nadaniem Krzyża Zasługi wyższego stopnia powinny upłynąć co najmniej 3 lata; odstępstwo od tej zasady jest dopuszczalne wyjątkowo.
 
-3. Odznaczeń, o których mowa w ust. 1, nie nadaje się członkom wizyt, inspekcji i kontroli.
+### Art. 17.
 
-4. Odznaczenia wymienione w ust. 1 mogą być nadane obywatelom innych państw współdziałającym z polskimi kontyngentami wojskowymi lub współdziałającym w operacji wojskowej.
+### 1.
 
-5. Prezydent, w drodze rozporządzenia, określa nazwę „Gwiazdy” właściwą dla danego polskiego kontyngentu wojskowego lub operacji wojskowej, wstążkę, która uwzględnia w swojej kolorystyce barwy flagi właściwe dla terenu działania kontyngentu lub prowadzenia operacji wojskowej, okucie na wstążkę oraz wzór rysunkowy odznaki.
+Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniem z dnia 7 marca 1928 r. Krzyż Zasługi Za Dzielność nadaje się policjantom, funkcjonariuszom Urzędu Ochrony Państwa, Straży Granicznej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.
 
-6. Prezydent określi, w drodze rozporządzenia, nazwę „Gwiazdy” właściwą dla sposobu działania kontyngentu, wstążkę, która uwzględnia w swojej kolorystyce barwy przyjęte dla kontyngentu, okucie na wstążkę oraz wzór rysunkowy odznaki – kierując się koniecznością jednolitego określenia nazwy, wstążki, okucia oraz wzoru rysunkowego dla poszczególnych odznaczeń.
+### 2.
 
-#### Rozdział 4 Kapituły Orderów
+Krzyż Zasługi Za Dzielność może być nadany tej samej osobie wielokrotnie.
 
-**Art. 20.**
+### 3.
 
-1. Na czele Orderu Orła Białego, Orderu Wojennego Virtuti Militari, Orderu Odrodzenia Polski, Orderu Krzyża Wojskowego i Orderu Krzyża Niepodległości stoją Kapituły.
+Krzyż Zasługi Za Dzielność może być wyjątkowo nadawany także innym osobom nie wymienionym w ust. 1.
 
-2. Kapituła stoi na straży honoru orderu, dla którego została ustanowiona.
+### Art. 18.
 
-**Art. 21.** Kapituła ma prawo wyrażania opinii we wszystkich sprawach dotyczących orderu, a w szczególności:
+### 1.
 
-**Art. 22.**
+Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal Za Ofiarność i Odwagę stanowi nagrodę dla osób, które z narażeniem życia lub zdrowia ratowały zagrożone życie ludzkie lub mienie.
 
-1. Kapituła po rozpatrzeniu przedstawionych jej wniosków o nadanie lub pozbawienie orderu podejmuje uchwały:
+### 2.
 
-- **1)** o pozytywnym zaopiniowaniu wniosku;
-- **2)** stwierdzające, że przedstawiony wniosek nie uzasadnia nadania lub pozbawienia orderu lub że wniosek nie może zostać uwzględniony z powodu niezgodności z obowiązującymi przepisami prawa.
+Medal Za Ofiarność i Odwagę może być nadany tej samej osobie wielokrotnie.
 
-2. Kapituła może przed wydaniem ostatecznej opinii zwrócić się do wnioskodawcy o uzupełnienie wniosku.
+### Art. 19.
 
-3. Kapituła może zaproponować nadanie innej niż proponowana klasy orderu.
+Ustanowiony ustawą z dnia 17 lutego 1960 r. Medal Za Długoletnie Pożycie Małżeńskie stanowi nagrodę dla osób, które przeżyły 50 lat w jednym związku małżeńskim.
 
-**Art. 23.**
+### Rozdział IV Kapituły orderów
 
-1. Kapitułę Orderu Orła Białego tworzą Wielki Mistrz Orderu i pięciu członków Kapituły.
+### Art. 20.
 
-2. Prezydent z tytułu swego wyboru na ten urząd staje się Kawalerem Orderu Orła Białego, Wielkim Mistrzem Orderu i przewodniczy jego Kapitule.
+### 1.
 
-3. Członków Kapituły powołuje Wielki Mistrz spośród Kawalerów Orderu Orła Białego na pięć lat.
+Na czele Orderu Orła Białego, Orderu Wojennego Virtuti Militari i Orderu Odrodzenia Polski stoją Kapituły.
 
-4. Kapituła wybiera ze swego grona Kanclerza Orderu i Sekretarza Kapituły. Kanclerz Orderu zastępuje Wielkiego Mistrza jako przewodniczącego Kapitule.
+### 2.
 
-**Art. 24.**
+Kapituła stoi na straży honoru orderu, dla którego została ustanowiona.
 
-1. Kapitułę Orderu Wojennego Virtuti Militari w czasie pokoju tworzą Kanclerz Orderu oraz pięciu członków Kapituły.
+### Art. 21.
 
-2. Stojącego na czele Kapituły Kanclerza Orderu oraz członków Kapituły powołuje Prezydent spośród Kawalerów Orderu Wojennego Virtuti Militari na pięć lat.
+Kapituła ma prawo wyrażania opinii we wszystkich sprawach dotyczących orderu, a w szczególności:
 
-3. Kapituła wybiera ze swego grona zastępcę Kanclerza Orderu oraz Sekretarza Kapituły.
+### 1)
 
-4. Przepisów ust. 1–3 nie stosuje się w czasie wojny.
+opiniuje wnioski o nadanie lub pozbawienie orderu, wniesione przez Prezesa Rady Ministrów przed ich przedstawieniem Prezydentowi,
 
-**Art. 25.**
+### 2)
 
-1. Kapitułę Orderu Odrodzenia Polski tworzą Wielki Mistrz Orderu i ośmiu członków Kapituły.
+może wystąpić do Prezydenta z inicjatywą nadania orderu lub jego pozbawienia,
 
-2. Prezydent z tytułu swego wyboru na ten urząd staje się Kawalerem Orderu Odrodzenia Polski I klasy, Wielkim Mistrzem Orderu i przewodniczy jego Kapitule.
+### 3)
 
-3. Członków Kapituły powołuje Wielki Mistrz spośród Kawalerów Orderu Odrodzenia Polski na pięć lat.
+zapoznaje się z projektami aktów normatywnych dotyczących orderu,
 
-4. Kapituła wybiera ze swego grona Kanclerza Orderu i Sekretarza Kapituły. Kanclerz Orderu zastępuje Wielkiego Mistrza jako przewodniczącego Kapitule.
+### 4)
 
-**Art. 25a.**
+może występować do organów uprawnionych o podjęcie inicjatywy ustawodawczej w sprawach dotyczących orderu.
 
-1. Kapitułę Orderu Krzyża Wojskowego tworzą Kanclerz Orderu i pięciu członków Kapituły.
+### Art. 22.
 
-2. Stojącego na czele Kapituły Kanclerza Orderu oraz członków Kapituły powołuje Prezydent spośród Kawalerów Orderu Krzyża Wojskowego na pięć lat.
+### 1.
 
-3. Kapituła wybiera ze swego grona zastępcę Kanclerza Orderu oraz Sekretarza Kapituły.
+Kapituła po rozpatrzeniu przedstawionych jej wniosków o nadanie lub pozbawienie orderu podejmuje uchwały:
 
-**Art. 25b.**
+### 1)
 
-1. Kapitułę Orderu Krzyża Niepodległości tworzą Kanclerz Orderu i pięciu członków Kapituły.
+o pozytywnym zaopiniowaniu wniosku,
 
-2. Stojącego na czele Kapituły Kanclerza Orderu oraz członków Kapituły powołuje Prezydent spośród Kawalerów Orderu Krzyża Niepodległości na pięć lat.
+### 2)
 
-3. Kapituła wybiera ze swego grona zastępcę Kanclerza Orderu oraz Sekretarza Kapituły.
+stwierdzające, że przedstawiony wniosek nie uzasadnia nadania lub pozbawienia orderu lub że wniosek nie może zostać uwzględniony z powodu niezgodności z obowiązującymi przepisami prawa.
 
-**Art. 26.** Członkami Kapituł Orderów mogą być tylko obywatele polscy.
+### 2.
 
-**Art. 27.** Kapituła Orderu działa na podstawie swojego statutu, zatwierdzonego przez Prezydenta.
+Kapituła może przed wydaniem ostatecznej opinii zwrócić się do wnioskodawcy o uzupełnienie wniosku.
 
-**Art. 28.** Kancelaria Prezydenta Rzeczypospolitej Polskiej zapewnia Kapitułom Orderów obsługę administracyjną i techniczną.
+### 3.
 
-#### Rozdział 5 Tryb nadawania i wręczania orderów i odznaczeń
+Kapituła może zaproponować nadanie innej niż proponowana klasy orderu.
 
-**Art. 29.**
+### Art. 23.
 
-1. Organy wymienione w art. 2 ust. 3 przedstawiają Prezydentowi wnioski o nadanie odznaczeń za zasługi w dziedzinach objętych zakresem ich działania.
+### 1.
 
-2. O nadanie odznaczeń osobom związanym z obszarem województwa miejscem zamieszkania, pracy lub działalności mogą występować wojewodowie.
+Kapitułę Orderu Orła Białego tworzą Wielki Mistrz Orderu i pięciu członków Kapituły.
 
-**Art. 30.**
+### 2.
 
-1. Organy uprawnione występują do Prezydenta z wnioskiem o nadanie orderu lub odznaczenia z własnej inicjatywy lub z inicjatywy jednostek organizacyjnych im podległych, organów samorządowych, organizacji społecznych i zawodowych.
+Prezydent z tytułu swego wyboru na ten urząd staje się Kawalerem Orderu Orła Białego, Wielkim Mistrzem Orderu i przewodniczy jego Kapitule.
 
-2. Zgłoszenie inicjatywy nadania orderu lub odznaczenia nie zobowiązuje organu uprawnionego do przedstawienia Prezydentowi wniosku w tej sprawie.
+### 3.
 
-3. Nieprzedstawienie Prezydentowi wniosku o nadanie orderu lub odznaczenia przez organ uprawniony wymaga zawiadomienia i podania przyczyny zgłaszającemu inicjatywę.
+Członków Kapituły powołuje Wielki Mistrz spośród Kawalerów Orderu Orła Białego na pięć lat.
 
-4. Nieprzedstawienie Prezydentowi wniosku o nadanie Krzyża Wolności i Solidarności przez organ uprawniony wymaga zawiadomienia zgłaszającego inicjatywę.
+### 4.
 
-**Art. 31.**
+Kapituła wybiera ze swego grona Kanclerza Orderu i Sekretarza Kapituły. Kanclerz Orderu zastępuje Wielkiego Mistrza jako przewodniczącego Kapitule.
 
-1. Wnioski o nadanie orderów i odznaczeń wojennych i wojskowych przedstawia Prezydentowi Minister Obrony Narodowej, z zastrzeżeniem ust. 2, 2a i 3.
+### Art. 24.
 
-2. Wnioski o nadanie Krzyża Wojskowego oraz odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda” przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych.
+### 1.
 
-2a. Wnioski o nadanie orderów i odznaczeń wojskowych przedstawia Prezydentowi Minister Obrony Narodowej albo minister właściwy do spraw wewnętrznych nie później niż przez 2 lata od zakończenia działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, w czasie których zaistniały przesłanki do nadania orderu lub odznaczenia.
+Kapitułę Orderu Wojennego Virtuti Militari w czasie pokoju tworzą Kanclerz Orderu oraz pięciu członków Kapituły.
 
-2b. Przepis ust. 2a nie ma zastosowania do wniosków o nadanie odznaczeń wojskowych o charakterze pamiątkowym mających w nazwie wyraz „Gwiazda”.
+### 2.
 
-3. Wnioski o nadanie Krzyża Zasługi za Dzielność przedstawia Prezydentowi minister właściwy do spraw wewnętrznych albo Minister Obrony Narodowej.
+Stojącego na czele Kapituły Kanclerza Orderu oraz członków Kapituły powołuje Prezydent spośród Kawalerów Orderu Wojennego Virtuti Militari na pięć lat.
 
-4. Wnioski o nadanie Medalu za Długoletnie Pożycie Małżeńskie przedstawiają Prezydentowi wojewodowie.
+### 3.
 
-5. Wniosek o nadanie orderu lub odznaczenia osobie nieposiadającej obywatelstwa polskiego lub zamieszkałej stale za granicą przedstawia Prezydentowi minister właściwy do spraw zagranicznych.
+Kapituła wybiera ze swego grona zastępcę Kanclerza Orderu oraz Sekretarza Kapituły.
 
-6. Wnioski o nadanie Krzyża Wolności i Solidarności przedstawia Prezydentowi Prezes Instytutu Pamięci Narodowej –Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Prezes Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w porozumieniu z ministrem właściwym do spraw zagranicznych.
+### 4.
 
-7. Wnioski o nadanie Medalu Virtus et Fraternitas przedstawia Prezydentowi Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego (Dz. U. z 2022 r. poz. 475), a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą – Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, oraz po zasięgnięciu opinii ministra właściwego do spraw zagranicznych.
+Przepisów ust. 1-3 nie stosuje się w czasie wojny.
 
-8. Wnioski o nadanie Krzyża Świętego Floriana przedstawia Prezydentowi minister właściwy do spraw wewnętrznych.
+### Art. 25.
 
-**Art. 31a.** Wniosek o nadanie orderu lub odznaczenia powinien zawierać informację o karalności osoby, której dotyczy.
+### 1.
 
-**Art. 32.** Z wnioskiem o odznaczenie zasłużonych osób zmarłych można występować wyjątkowo w uznaniu szczególnych i godnych upamiętnienia zasług dla Rzeczypospolitej Polskiej.
+Kapitułę Orderu Odrodzenia Polski tworzą Wielki Mistrz Orderu i ośmiu członków Kapituły.
 
-**Art. 32a.** Przed podjęciem decyzji o nadaniu orderu lub odznaczenia danej osobie Prezydent może zwrócić się do Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu o przekazanie informacji na temat istnienia w archiwum Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu dokumentów dotyczących kandydata do odznaczenia.
+### 2.
 
-**Art. 32b.** Przed podjęciem decyzji o nadaniu orderu lub odznaczenia Prezydent może zwrócić się do właściwych organów, organizacji lub instytucji o przekazanie informacji, które mogą mieć istotne znaczenie w sprawie o nadanie orderu lub odznaczenia.
+Prezydent z tytułu swego wyboru na ten urząd staje się Kawalerem Orderu Odrodzenia Polski I klasy, Wielkim Mistrzem Orderu i przewodniczy jego Kapitule.
 
-**Art. 33.**
+### 3.
 
-1. Odznaki orderów i odznaczeń wręcza Prezydent.
+Członków Kapituły powołuje Wielki Mistrz spośród Kawalerów Orderu Odrodzenia Polski na pięć lat.
 
-2. Odznaki orderów i odznaczeń w imieniu Prezydenta mogą wręczać osoby uprawnione do występowania do Prezydenta z wnioskami o nadanie orderów i odznaczeń oraz ich zastępcy, a także:
+### 4.
 
-- **1)** w Siłach Zbrojnych – dowódcy upoważnieni przez Ministra Obrony Narodowej, a w czasie wojny przez Naczelnego Dowódcę Sił Zbrojnych Rzeczypospolitej Polskiej;
-- **2)** za granicą – kierownicy polskich przedstawicielstw dyplomatycznych oraz kierownicy urzędów konsularnych.
+Kapituła wybiera ze swego grona Kanclerza Orderu i Sekretarza Kapituły. Kanclerz Orderu zastępuje Wielkiego Mistrza jako przewodniczącego Kapitule.
 
-2a. Odznakę Medalu za Długoletnie Pożycie Małżeńskie w imieniu Prezydenta mogą wręczać: marszałek województwa, starosta, wójt, burmistrz lub prezydent miasta.
+### Art. 26.
 
-3. Prezydent może upoważnić inne osoby do wręczania odznak orderów i odznaczeń w jego imieniu.
+Członkami Kapituł Orderów mogą być tylko obywatele polscy.
 
-**Art. 34.** Akt wręczenia odznak orderów i odznaczeń, dokonywany w imieniu Prezydenta, jest poprzedzony wypowiedzeniem formuły „W imieniu Prezydenta Rzeczypospolitej Polskiej wręczam ...”.
+### Art. 27.
 
-**Art. 35.**
+Kapituła Orderu działa na podstawie swojego statutu, zatwierdzonego przez Prezydenta.
 
-1. Jeżeli osoba odznaczona zmarła przed wręczeniem jej odznaki orderu lub odznaczenia, doręcza się je najbliższej rodzinie osoby zmarłej.
+### Art. 28.
 
-2. W razie nadania orderu lub odznaczenia pośmiertnie, stosuje się ceremoniał dekoracji ustalany każdorazowo, odpowiednio do okoliczności.
+Kancelaria Prezydenta Rzeczypospolitej Polskiej zapewnia Kapitułom Orderów obsługę administracyjną i techniczną.
 
-#### Rozdział 6 Pozbawienie orderów i odznaczeń
+### Rozdział V Tryb nadawania i wręczania orderów i odznaczeń
 
-**Art. 36.**
+### Art. 29.
 
-1. Prezydent może podjąć decyzję o pozbawieniu orderów i odznaczeń na wniosek Kapituł Orderów, organów wymienionych w art. 2 ust. 2 i 3 oraz z własnej inicjatywy po zasięgnięciu opinii wnioskodawcy, a w przypadku pozbawienia orderu – po zasięgnięciu opinii odpowiedniej Kapituły, w razie stwierdzenia, że:
+### 1.
 
-- **1)** nadanie orderu lub odznaczenia nastąpiło w wyniku wprowadzenia w błąd albo
-- **2)** odznaczony dopuścił się czynu, wskutek którego stał się niegodny orderu lub odznaczenia.
+Organy wymienione w art. 2 ust. 3 przedstawiają Prezydentowi wnioski o nadanie odznaczeń za zasługi w dziedzinach objętych zakresem ich działania.
 
-2. Decyzja o pozbawieniu może dotyczyć wszystkich lub tylko niektórych orderów i odznaczeń.
+### 2.
 
-3. Postanowienia Prezydenta w sprawie pozbawienia orderu lub odznaczenia są publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+O nadanie odznaczeń osobom związanym z obszarem województwa miejscem zamieszkania, pracy lub działalności mogą występować wojewodowie.
 
-#### Rozdział 7 Przepisy szczególne i końcowe
+### Art. 30.
 
-**Art. 37.** Państwo ma wyłączne prawo wyrobu odznak orderów i odznaczeń. Prawo to wykonuje jednostka gospodarcza określona przez Kancelarię Prezydenta.
+### 1.
 
-**Art. 37a.** (uchylony)
+Organy uprawnione występują do Prezydenta z wnioskiem o nadanie orderu lub odznaczenia z własnej inicjatywy lub z inicjatywy jednostek organizacyjnych im podległych, organów samorządowych, organizacji społecznych i zawodowych.
 
-**Art. 38.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawy .
+### 2.
 
+Zgłoszenie inicjatywy nadania orderu lub odznaczenia nie zobowiązuje organu uprawnionego do przedstawienia Prezydentowi wniosku w tej sprawie.
+
+### 3.
+
+Nieprzedstawienie Prezydentowi wniosku o nadanie orderu lub odznaczenia przez organ uprawniony wymaga zawiadomienia i podania przyczyny zgłaszającemu inicjatywę.
+
+### Art. 31.
+
+### 1.
+
+Wnioski o nadanie orderów i odznaczeń wojennych przedstawia Prezydentowi Minister Obrony Narodowej.
+
+### 2.
+
+Wnioski o nadanie Krzyża Zasługi Za Dzielność przedstawia Prezydentowi Minister Spraw Wewnętrznych albo Minister Obrony Narodowej.
+
+### 3.
+
+Wnioski o nadanie Medalu Za Długoletnie Pożycie Małżeńskie przedstawiają Prezydentowi wojewodowie.
+
+### 4.
+
+Wniosek o nadanie orderu lub odznaczenia osobie nie posiadającej obywatelstwa polskiego lub zamieszkałej stale za granicą przedstawia Prezydentowi Minister Spraw Zagranicznych.
+
+### Art. 32.
+
+Z wnioskiem o odznaczenie zasłużonych osób zmarłych można występować wyjątkowo w uznaniu szczególnych i godnych upamiętnienia zasług dla Rzeczypospolitej Polskiej.
+
+### Art. 33.
+
+### 1.
+
+Odznaki orderów i odznaczeń wręcza Prezydent.
+
+### 2.
+
+Odznaki orderów i odznaczeń w imieniu Prezydenta mogą wręczać osoby uprawnione do występowania do Prezydenta z wnioskami o nadanie orderów i odznaczeń oraz ich zastępcy, a także:
+
+### 1)
+
+w Siłach Zbrojnych - dowódcy upoważnieni przez Ministra Obrony Narodowej (w czasie wojny przez Naczelnego Dowódcę Sił Zbrojnych Rzeczypospolitej Polskiej) oraz Ministra Spraw Wewnętrznych,
+
+### 2)
+
+za granicą - kierownicy polskich przedstawicielstw dyplomatycznych oraz kierownicy urzędów konsularnych.
+
+### 3.
+
+Prezydent może upoważnić inne osoby do wręczania odznak orderów i odznaczeń w jego imieniu.
+
+### Art. 34.
+
+Akt wręczenia odznak orderów i odznaczeń, dokonywany w imieniu Prezydenta, jest poprzedzony wypowiedzeniem formuły „W imieniu Prezydenta Rzeczypospolitej Polskiej wręczam...”.
+
+### Art. 35.
+
+### 1.
+
+Jeżeli osoba odznaczona zmarła przed wręczeniem jej odznaki orderu lub odznaczenia, doręcza się je najbliższej rodzinie osoby zmarłej.
+
+### 2.
+
+W razie nadania orderu lub odznaczenia pośmiertnie, stosuje się ceremoniał dekoracji ustalany każdorazowo, odpowiednio do okoliczności.
+
+### Rozdział VI Pozbawienie orderów i odznaczeń
+
+### Art. 36.
+
+### 1.
+
+Prezydent może podjąć decyzję o pozbawieniu orderów i odznaczeń na wniosek Kapituł Orderów, organów wymienionych w art. 2 ust. 2 i 3 oraz z własnej inicjatywy po zasięgnięciu opinii wnioskodawcy, a w przypadku pozbawienia orderu - po zasięgnięciu opinii odpowiedniej Kapituły, w razie stwierdzenia, że:
+
+### 1)
+
+nadanie orderu lub odznaczenia nastąpiło w wyniku wprowadzenia w błąd albo
+
+### 2)
+
+odznaczony dopuścił się czynu, wskutek którego stał się niegodny orderu lub odznaczenia.
+
+### 2.
+
+Decyzja o pozbawieniu może dotyczyć wszystkich lub tylko niektórych orderów i odznaczeń.
+
+### 3.
+
+Postanowienia Prezydenta w sprawie pozbawienia orderu lub odznaczenia są publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Rozdział VII Przepisy szczególne i końcowe
+
+### Art. 37.
+
+Państwo ma wyłączne prawo wyrobu odznak orderów i odznaczeń. Prawo to wykonuje jednostka gospodarcza określona przez Kancelarię Prezydenta.
+
+### Art. 38.
+
+Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą - Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawy.

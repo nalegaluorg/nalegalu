@@ -8,11 +8,9 @@ pos: 727
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o ochronie informacji niejawnych oraz niektórych innych ustaw
-
-*USTAWA z dnia 15 kwietnia 2005 r.*
+# Ustawa z dnia 15 kwietnia 2005 r. o zmianie ustawy o ochronie informacji niejawnych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 8 października 2004 r. o zasadach finansowania nauki.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,483 +22,2406 @@ domain: null
 | Data ogłoszenia | 2005-04-15 |
 | Data wydania | 2005-05-16 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850727) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/727/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/727/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/727) |
 
-**Art. 1.** W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz.U. Nr 11, poz. 95, z późn. zm. ) wprowadza się następujące zmiany:
+## Spis treści
 
-**Art. 38.**
+- [Treść ustawy](#part_1) [Art. 1.](#arti_1) [Art. 2.](#arti_2) [Art. 3.](#arti_3) [Art. 4.](#arti_4) [Art. 5.](#arti_5) [Art. 6.](#arti_6) [Art. 7.](#arti_7) [Art. 8.](#arti_8) [Art. 9.](#arti_9) [Art. 10.](#arti_10) [Art. 11.](#arti_11) [Art. 12.](#arti_12)
 
-1. Poszerzone postępowanie sprawdzające prowadzi właściwa służba ochrony państwa na pisemny wniosek osoby upoważnionej do obsady stanowiska. Postępowanie to obejmuje:
+- [Załącznik nr 1 - Wykaz rodzajów informacji, które mogą stanowić tajemnicę państwową](#part_2)
 
-- **1)** czynności, o których mowa w art. 37 ust. 4 pkt 1 i 3,
-- **2)** sprawdzenie w ewidencjach i kartotekach niedostępnych powszechnie danych zawartych w ankiecie,
-- **3)** przeprowadzenie wywiadu w miejscu zamieszkania osoby sprawdzanej, jeżeli jest to konieczne w celu potwierdzenia danych zawartych w ankiecie,
-- **4)** rozmowę z przełożonymi osoby sprawdzanej oraz z innymi osobami, jeżeli jest to konieczne na podstawie uzyskanych informacji o osobie sprawdzanej,
-- **5)** w uzasadnionych przypadkach sprawdzenie stanu i obrotów na rachunku bankowym w trybie art. 105 ust. 1 pkt 2 lit. k) ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) oraz zadłużenia osoby sprawdzanej, a w szczególności wobec Skarbu Państwa, jeżeli jest to konieczne w celu sprawdzenia danych zawartych w ankiecie; przepisy art. 82 § 1 i 2 oraz art. 182 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. z 2005 r. Nr 8, poz. 60) oraz art. 33 ust. 1 ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) stosuje się odpowiednio.
+- [Załącznik nr 2 - Ankieta bezpieczeństwa osobowego (wzór)](#part_3)
 
-2. Wywiad, o którym mowa w ust. 1 pkt 3, przeprowadzają służby ochrony państwa i stosują w tym zakresie odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego wie przepisy dotyczące wywiadu środowiskowego.
+TOC
 
-**Art. 39.** Specjalne postępowanie sprawdzające prowadzi właściwa służba ochrony państwa na pisemny wniosek osoby upoważnionej do obsady stanowiska. Postępowanie to obejmuje czynności, o których mowa w art. 37 ust. 4 pkt 1 i w art. 38 ust. 1 pkt 2 -5, a ponadto:
+## Treść ustawy
 
-**Art. 45.**
+### Art. 1.
 
-1. W przypadku gdy w odniesieniu do osoby, której wydano poświadczenie bezpieczeństwa, zostaną ujawnione nowe fakty wskazujące, że nie daje ona rękojmi zachowania tajemnicy, służby ochrony państwa lub pełnomocnik ochrony przeprowadzają kontrolne postępowanie sprawdzające z pominięciem terminów, o których mowa w art. 36 ust. 2a, i obowiązku wypełnienia nowej ankiety przez osobę sprawdzaną.
+W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ([Dz. U. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 17, poz. 155 oraz z 2004 r. Nr 29, poz. 257.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-2. O wszczęciu kontrolnego postępowania sprawdzającego, o którym mowa w ust. 1, służby ochrony państwa lub pełnomocnik osobę odpowiedzialną za obsadę stanowiska wraz z wnioskiem o ograniczenie lub wyłączenie dostępu do informacji niejawnych osobie sprawdzanej.
+### 1)
 
-3. Po otrzymaniu zawiadomienia, o którym mowa w ust. 2, kierownik jednostki organizacyjnej lub osoba odpowiedzialna za obsadę stanowiska informują osobę sprawdzaną o wszczęciu kontrolnego postępowania sprawdzającego oraz ograniczają lub wyłączają jej dostęp do informacji niejawnych.
+w art. 1:
 
-**Art. 46.** Do kolejnego lub kontrolnego postępowania sprawdzającego stosuje się przepisy ustawy odnoszące się do właściwego postępowania sprawdzającego, z uwzględnieniem art. 47.
+### a)
 
-**Art. 47.**
+w ust. 2:
 
-1. Kontrolne postępowanie sprawdzające prowadzone przez służbę ochrony państwa lub pełnomocnika ochrony, wszczęte na podstawie art. 45 ust. 1, kończy się:
+- - pkt 2 otrzymuje brzmienie: „ 2) Sił Zbrojnych Rzeczypospolitej Polskiej i ich jednostek organizacyjnych, zwanych dalej „Siłami Zbrojnymi”, a także innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej lub przez niego nadzorowanych, ” ,
 
-- **1)** wydaniem decyzji o cofnięciu poświadczenia bezpieczeństwa albo
-- **2)** poinformowaniem osób, o których mowa w art. 45 ust. 2, i osoby sprawdzanej, o braku zastrzeżeń w stosunku do osoby, którą objęto kontrolnym postępowaniem sprawdzającym, z jednoczesnym potwierdzeniem jej dalszej zdolności do zachowania tajemnicy w zakresie określonym w posiadanym przez nią poświadczeniu bezpieczeństwa.
+- - pkt 5 otrzymuje brzmienie: „ 5) przedsiębiorców, jednostek naukowych lub badawczo-rozwojowych, zamierzających ubiegać się, ubiegających się o zawarcie lub wykonujących umowy związane z dostępem do informacji niejawnych albo wykonujących na podstawie przepisów prawa zadania związane z dostępem do informacji niejawnych. ” ,
 
-2. Do decyzji, o której mowa w ust. 1 pkt 1, stosuje się odpowiednio przepisy art. 41.
+### b)
 
-3. Do kontrolnego postępowania sprawdzającego przepisy art. 36 ust. 2b-2e stosuje się odpowiednio.”;
+dodaje się ust. 4 w brzmieniu:
 
-- **23)** w art. 48 ust. 2 otrzymuje brzmienie: „2. Pełnomocnik ochrony jest obowiązany przekazać właściwej służbie ochrony państwa dane wymagane do ewidencji osób dopuszczonych do pracy lub służby na stanowiskach, z którymi wiąże się dostęp do informacji niejawnych stanowiących tajemnicę służbową oznaczonych klauzulą „poufne”, a także do ewidencji osób, którym odmówiono wydania poświadczenia bezpieczeństwa lub wobec których podjęto decyzję o cofnięciu poświadczenia bezpiecze ństwa.”;
-- **24)** art. 48a otrzymuje brzmienie: „Art. 48a. 1. Od decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa służy osobie sprawdzanej odwołanie do Prezesa Rady Ministrów, z zastrzeżeniem art. 48i ust. 1.
+„
 
-2. Odwołanie nie wymaga uzasadnienia.
+### 4.
 
-3. Odwołanie wnosi się w terminie 14 dni od dnia doręczenia osobie sprawdzanej decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa, za pośrednictwem właściwej służby ochrony państwa.”;
+W zakresie nieuregulowanym w ustawie do postępowania sprawdzającego, postępowania odwoławczego oraz postępowania bezpieczeństwa przemysłowego stosuje się przepisy art. 6-8, art. 12, art. 14-16, art. 24 § 1 pkt 1-6 i § 2-4, art. 26 § 1, art. 28, art. 29, art. 30 § 1-3, art. 35 § 1, art. 39, art. 41-47, art. 57-60, art. 61 § 3 i 4, art. 63 § 4, art. 64, art. 97 § 1 pkt 4 i § 2, art. 98, art. 101, art. 104, art. 105, art. 107, art. 112, art. 113, art. 156-158 oraz art. 217 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565 i Nr 78, poz. 682.](#gloss-0:3:)).
 
-- **25)** w art. 48b dodaje się ust. 3 w brzmieniu: odpowiednio.”;
-- **26)** art. 48e i 48f otrzymują brzmienie: „Art. 48e. 1. Prezes Rady Ministrów umarza postępowanie odwoławcze w przypadku:
-- **1)** śmierci osoby sprawdzanej lub
-- **2)** cofnięcia odwołania przez osobę sprawdzaną przed wydaniem decyzji, o której mowa w art. 48f ust. 1.
+” ;
 
-2. Prezes Rady Ministrów nie uwzględnia cofnięcia odwołania, jeżeli prowadziłoby to do naruszającego prawo lub interes bezpieczeństwa państwa utrzymania w mocy decyzji o odmowie wydania poświadczenia bezpieczeństwa.
+### 2)
 
-**Art. 48f.**
+w art. 2:
 
-1. Prezes Rady Ministrów wydaje decyzję, w której:
+### a)
 
-- **1)** utrzymuje w mocy decyzję o odmowie wydania poświadczenia bezpieczeństwa lub decyzję o cofnięciu poświadczenia bezpieczeństwa albo
-- **2)** uchyla decyzję o odmowie wydania poświadczenia bezpieczeństwa i nakazuje służbie ochrony państwa wydanie poświadczenia bezpieczeństwa, albo
-- **3)** uchyla decyzję o cofnięciu poświadczenia bezpieczeństwa.
+pkt 1 otrzymuje brzmienie:
 
-2. Można odstąpić od uzasadnienia faktycznego decyzji lub je ograniczyć w zakresie, w jakim udostępnienie informacji osobie sprawdzanej mogłoby spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa.”;
+„
 
-- **27)** art. 48h otrzymuje brzmienie: „Art. 48 h. Decyzje i postanowienia doręcza się na piśmie osobie sprawdzanej i właściwej słu¿bie ochrony państwa, zawiadamiając o rozstrzygnięciu zawartym w decyzji lub postanowieniu osobę upowa¿nioną do obsady stanowiska.”;
-- **28)** w art. 48i ust. 1 otrzymuje brzmienie: „1. Od wydanej przez pełnomocnika ochrony decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa - osobie sprawdzanej służy odwołanie odpowiednio do Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Wojskowych Służb Informacyjnych.”;
-- **29)** art. 48j otrzymuje brzmienie: „Art. 48j. Osobie sprawdzanej przysługuje skarga do sądu administracyjnego na decyzj ę utrzymującą w mocy decyzję o odmowie wydania poświadczenia bezpieczeństwa lub decyzję o cofnięciu poświadczenia bezpieczeństwa oraz na postanowienie, o którym mowa w art. 48c ust. 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (Dz.U. Nr 153, poz. 1270 oraz z 2004 r. Nr 162, poz. 1692).”; „1) służby ochrony państwa stosuje się do Policji, Żandarmerii Wojskowej, Straży Granicznej, Agencji Wywiadu lub Służby Więziennej,
-- **2)** Szefa Agencji Bezpieczeństwa Wewnętrznego lub Szefa Wojskowych Słu¿b Informacyjnych stosuje się do Szefa Agencji Wywiadu, Komendanta Głównego Policji, Komendanta Głównego Żandarmerii Wojskowej, Komendanta Głównego Stra¿y Granicznej lub Dyrektora Generalnego Słu¿by Więziennej.”;
-- **31)** art. 49 otrzymuje brzmienie: „Art. 49. 1. Szef Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu lub Prezesa Rady Ministrów albo minister właściwy dla określonego działu administracji rządowej, Prezes Narodowego Banku Polskiego lub kierownik urzędu centralnego, a w przypadku ich braku właściwa służba ochrony państwa, może wyrazić pisemną zgodę na udostępnienie informacji niejawnych stanowiących tajemnicę państwową osobie lub jednostce organizacyjnej, wobec której wszczęto postępowanie sprawdzające. Odpis zgody przekazuje się właściwej służbie ochrony państwa.
+### 1)
 
-2. Zgodę na udostępnienie informacji niejawnych stanowiących tajemnicę służbową osobie, wobec której wszczęto zwykłe postępowanie sprawdzające, może wyrazić - w formie pisemnej - kierownik jednostki organizacyjnej, w której ta osoba jest zatrudniona lub wykonuje prace zlecone.
+tajemnicą państwową - jest informacja określona w wykazie rodzajów informacji, stanowiącym załącznik nr 1, której nieuprawnione ujawnienie może spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa,
 
-3. W wyjątkowych, szczególnie uzasadnionych przypadkach, z zastrzeżeniem art. 4 ust. 1, podmioty, o których mowa w ust. 1 i 2, mogą wyrazić pisemną zgodę na jednorazowe udostępnienie określonych informacji niejawnych osobie nieposiadającej odpowiedniego poświadczenia bezpieczeństwa lub jednostce organizacyjnej nieposiadającej świadectwa bezpieczeństwa przemysłowego.
+” ,
 
-4. Wyrażenie zgody na udostępnienie informacji niejawnych określa zakres podmiotowy i przedmiotowy udostępnienia oraz nie oznacza zmiany lub zniesienia ich klauzuli tajności.”;
+### b)
 
-- **32)** w art. 50 ust. 1 otrzymuje brzmienie: „1. Jednostka organizacyjna, w której są wytwarzane, przetwarzane, przekazywane lub przechowywane dokumenty zawierające informacje niejawne oznaczone klauzulą „poufne” lub stanowiące tajemnicę państwową, ma obowiązek zorganizowania kancelarii, zwanej dalej „kancelarią tajną”. W przypadku uzasadnionym względami organizacyjnymi kierownik jednostki organizacyjnej może utworzyć więcej niż jedną kancelarię tajną.”;
-- **33)** art. 51 otrzymuje brzmienie: „Art. 51. W kancelarii tajnej dokumenty o różnych klauzulach powinny być fizycznie od siebie oddzielone i obsługiwane przez osobę posiadającą poświadczenie bezpieczeństwa odpowiednie do najwyższej klauzuli wytwarzanych, przetwarzanych, przekazywanych lub przechowywanych w kancelarii dokumentów.”;
-- **34)** po art. 52 dodaje się art. 52a w brzmieniu: pkt 2, dopuszcza się organizowanie innych niż kancelaria tajna komórek organizacyjnych odpowiedzialnych za rejestrowanie, przechowywanie, obieg i udostępnianie materiałów niejawnych.
+pkt 7a otrzymuje brzmienie:
 
-2. Do komórek organizacyjnych, o których mowa w ust. 1, przepisy art. 51 i 52 stosuje się odpowiednio.”;
+„
 
-- **35)** art. 53 otrzymuje brzmienie: „Art. 53. 1. Rada Ministrów określi, w drodze rozporządzenia, wymagania w zakresie organizacji i funkcjonowania kancelarii tajnych. Rozporządzenie powinno określać:
-- **1)** strukturę organizacyjną kancelarii, z uwzględnieniem możliwości tworzenia jej oddziałów,
-- **2)** podstawowe zadania kierownika kancelarii,
-- **3)** zakres i warunki stosowania środków ochrony fizycznej, z uwzględnieniem klauzul tajności przechowywanych przez kancelarię dokumentów,
-- **4)** tryb obiegu informacji niejawnych,
-- **5)** wzór karty zapoznania z dokumentem.
+### 7a)
 
-2. Ministrowie właściwi do spraw: wewnętrznych, administracji publicznej, spraw zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Szefowie Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Biura Ochrony Rządu, a także Prezes Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji kancelarii tajnych, stosowania środków ochrony fizycznej oraz obiegu informacji niejawnych.
+jednostką naukową - jest jednostka naukowa w rozumieniu przepisów o zasadach finansowania nauki,
 
-3. Minister Obrony Narodowej określi, w drodze zarządzenia, szczególny sposób organizacji kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 52a ust. 1, stosowania środków ochrony fizycznej oraz obiegu informacji niejawnych.
+” ,
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb i sposób przyjmowania, przewożenia, wydawania i ochrony materiałów w celu ich zabezpieczenia przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem.”;
+### c)
 
-- **36)** w art. 54:
-    - **a)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) funkcjonariusze i żołnierze służb ochrony państwa - w stosunku do osób, o których mowa w art. 27 ust. 3-8, a także w stosunku do pełnomocników ochrony i ich zastępców,”,
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: przeprowadza się nie rzadziej niż co 5 lat.”;
+pkt 9 otrzymuje brzmienie:
 
-- **37)** art. 55 otrzymuje brzmienie: „Art. 55. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzory zaświadczeń stwierdzających odbycie szkolenia w zakresie ochrony informacji niejawnych, z uwzględnieniem odrębności wynikających z wydawania zaświadczeń przez służby ochrony państwa i pełnomocników ochrony.”;
-- **38)** rozdział 10 „Bezpieczeństwo systemów i sieci teleinformatycznych” otrzymuje brzmienie: „Rozdział 10 Bezpieczeństwo systemów i sieci teleinformatycznych
+„
 
-**Art. 60.**
+### 9)
 
-1. Systemy i sieci teleinformatyczne, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne, podlegają akredytacji bezpieczeństwa teleinformatycznego przez służby ochrony państwa.
+siecią teleinformatyczną - jest organizacyjne i techniczne połączenie systemów teleinformatycznych,
 
-2. Akredytacja, o której mowa w ust. 1, następuje na podstawie dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji.
+” ,
 
-3. Urządzenia i narzędzia kryptograficzne, służące do ochrony informacji niejawnych stanowiących tajemnicę państwową lub tajemnicę służbową oznaczonych klauzulą „poufne”, podlegają badaniom i certyfikacji prowadzonym przez służby ochrony państwa.
+### d)
 
-4. W wyniku badań i certyfikacji, o których mowa w ust. 3, służby ochrony państwa wydają wzajemnie uznawane certyfikaty ochrony kryptograficznej.
+dodaje się pkt 10 i 11 w brzmieniu:
 
-5. Wytwarzanie, przetwarzanie, przechowywanie lub przekazywanie informacji niejawnych stanowiących tajemnicę państwową, odpowiednio do ich klauzuli tajności, jest dopuszczalne po uzyskaniu certyfikatu akredytacji bezpieczeństwa teleinformatycznego dla systemu lub sieci teleinformatycznej, wydanego przez właściwą służbę ochrony państwa.
+„
 
-6. Certyfikat, o którym mowa w ust. 5, wydaje się na podstawie:
+### 10)
 
-- **1)** przeprowadzonych zgodnie z ustawą postępowań sprawdzających wobec osób mających dostęp do systemu lub sieci teleinformatycznej,
-- **2)** zatwierdzonych przez właściwą służbę ochrony państwa dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji,
-- **3)** audytu bezpieczeństwa systemu lub sieci teleinformatycznej, polegającego na weryfikacji poprawności realizacji wymagań i procedur, określonych w dokumentach szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji. nikiem analizy ryzyka dla bezpieczeństwa informacji niejawnych może, bez spełnienia niektórych wymagań w zakresie ochrony fizycznej, elektromagnetycznej lub kryptograficznej, dokonać, na czas określony, nie dłuższy jednak niż na 2 lata, akredytacji bezpieczeństwa teleinformatycznego systemu lub sieci teleinformatycznej, którym przyznano określoną klauzulę tajności, w przypadku gdy brak możliwości ich eksploatacji powodowałby zagrożenie dla porządku publicznego, obronności, bezpieczeństwa albo interesów międzynarodowych państwa.
+akredytacją bezpieczeństwa teleinformatycznego - jest dopuszczenie systemu lub sieci teleinformatycznej do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych, na zasadach określonych w ustawie,
 
-8. Kierownicy jednostek organizacyjnych organów uprawnionych do prowadzenia na mocy odrębnych przepisów czynności operacyjno-rozpoznawczych mogą podjąć decyzję o eksploatacji środków technicznych umożliwiających uzyskiwanie, przetwarzanie, przechowywanie i przekazywanie w sposób tajny informacji oraz utrwalanie dowodów, bez konieczności spełnienia wymagań określonych w ust. 1 i 3 oraz 5 i 6, w przypadkach gdy ich spełnienie uniemożliwiałoby lub w znacznym stopniu utrudniałoby realizację czynności operacyjnych.
+### 11)
 
-**Art. 61.**
+dokumentacją bezpieczeństwa systemu lub sieci informatycznej - są Szczególne Wymagania Bezpieczeństwa oraz Procedury Bezpiecznej Eksploatacji danego systemu lub sieci teleinformatycznej, sporządzone zgodnie z zasadami określonymi w ustawie.
 
-1. Dokumenty szczególnych wymagań bezpieczeństwa systemu lub sieci teleinformatycznej powinny być kompletnym i wyczerpującym opisem ich budowy, zasad działania i eksploatacji. Dokumenty te opracowuje się w fazie projektowania, bieżąco uzupełnia w fazie wdrażania i modyfikuje w fazie eksploatacji przed dokonaniem zmian w systemie lub sieci teleinformatycznej.
+” ;
 
-2. Procedury bezpiecznej eksploatacji opracowuje się i uzupełnia w fazie wdrażania oraz modyfikuje w fazie eksploatacji przed dokonaniem zmian w systemie lub sieci teleinformatycznej.
+### 3)
 
-3. Dokumenty, o których mowa w ust. 1, oraz procedury, o których mowa w ust. 2, opracowuje oraz przekazuje służbie ochrony państwa kierownik jednostki organizacyjnej, który jest także odpowiedzialny za eksploatację i bezpieczeństwo systemu lub sieci teleinformatycznej.
+w art. 14:
 
-4. Dokumenty szczególnych wymagań bezpieczeństwa oraz procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne stanowiące tajemnicę państwową, są w każdym przypadku indywidualnie zatwierdzane przez właściwą służbę ochrony pa ństwa w terminie 30 dni od dnia ich otrzymania.
+### a)
 
-5. Dokumenty szczególnych wymagań bezpieczeństwa oraz procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne stanowiące tajemnicę służbową, są przedstawiane właściwej służbie ochrony państwa. Niewniesienie zastrzeżeń przez służbę ochrony państwa do tych wymagań, w terminie 30 dni od dnia ich przedstawienia, uprawnia do przejścia do kolejnej fazy budowy systemu lub sieci teleinformatycznej, o której mowa w ust. 1. stawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy i sieci teleinformatyczne służące do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych, oraz sposób opracowywania dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji tych systemów i sieci.
+w ust. 1 pkt 1 otrzymuje brzmienie:
 
-2. W rozporządzeniu, o którym mowa w ust. 1, określa się w szczególności podstawowe wymagania bezpieczeństwa teleinformatycznego w zakresie ochrony fizycznej, elektromagnetycznej, kryptograficznej, niezawodności transmisji, kontroli dostępu w sieciach lub systemach teleinformatycznych służących do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych. W dokumentach szczególnych wymagań bezpieczeństwa określa się środki ochrony kryptograficznej, elektromagnetycznej, technicznej i organizacyjnej systemu lub sieci teleinformatycznej. Procedury bezpiecznej eksploatacji obejmują sposób i tryb postępowania w sprawach związanych z bezpieczeństwem informacji niejawnych oraz określają zakres odpowiedzialności użytkowników systemu lub sieci teleinformatycznych i pracowników mających do nich dostęp.
+„
 
-**Art. 63.**
+### 1)
 
-1. Za przeprowadzenie czynności, o których mowa w art. 60 ust. 36, pobiera się opłaty.
+kontroli ochrony informacji niejawnych i przestrzegania przepisów obowiązujących w tym zakresie, z uwzględnieniem prawidłowości postępowań sprawdzających prowadzonych przez pełnomocników ochrony, z wyłączeniem postępowań, o których mowa w art. 30,
 
-2. Z opłat, o których mowa w ust. 1, są zwolnione jednostki organizacyjne będące jednostkami budżetowymi.
+” ,
 
-3. Przedsiębiorcy obowiązani na podstawie odrębnych ustaw do wykonywania zadań publicznych na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego zwolnieni są z opłat za przeprowadzenie czynności, o których mowa w art. 60 ust. 5 i 6, w przypadku akredytacji bezpieczeństwa teleinformatycznego systemów i sieci teleinformatycznych niezbędnych do wykonania tych zadań.
+### b)
 
-4. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, z uwzględnieniem kosztów ponoszonych na przeprowadzenie czynności, o których mowa w art. 60 ust. 3-6.
+ust. 3 otrzymuje brzmienie:
 
-**Art. 64.**
+„
 
-1. Kierownik jednostki organizacyjnej wyznacza:
+### 3.
 
-- **1)** osobę lub zespół osób, odpowiedzialnych za funkcjonowanie systemów lub sieci teleinformatycznych oraz za przestrzeganie zasad i wymagań bezpieczeństwa systemów i sieci teleinformatycznych, zwane dalej „administratorem systemu”,
-- **2)** pracownika lub pracowników pionu ochrony pełniących funkcje inspektorów bezpieczeństwa teleinformatycznego, odpowiedzialnych za bieżącą kontrolę zgodności funkcjonowania sieci lub systemu teleinformatycznego ze szczególnymi wymaganiami bezpieczeństwa oraz za kontrolę przestrzegania procedur bezpiecznej eksploatacji, o których mowa w art. 61 ust. 2. zacyjnych pomocy niezbędnej dla realizacji ich zadań, w szczególności wydając zalecenia w zakresie bezpieczeństwa teleinformatycznego.
+Kierownicy jednostek organizacyjnych współdziałają ze służbami ochrony państwa w toku przeprowadzanych przez nie postępowań sprawdzających, a w szczególności udostępniają funkcjonariuszom albo żołnierzom, po przedstawieniu przez nich pisemnego upoważnienia, pozostające w ich dyspozycji informacje i dokumenty niezbędne do stwierdzenia, czy osoba objęta postępowaniem sprawdzającym daje rękojmię zachowania tajemnicy. Organy i służby, o których mowa w art. 30, udostępniają pozostające w ich dyspozycji informacje i dokumenty wyłącznie w przypadku, gdy w ich opinii osoba ta nie daje rękojmi zachowania tajemnicy; w przeciwnym przypadku informują, że nie posiadają informacji i dokumentów świadczących, że osoba objęta postępowaniem sprawdzającym nie daje tej rękojmi.
 
-3. Stanowiska lub funkcje administratora systemu albo inspektora bezpieczeństwa teleinformatycznego mogą zajmować lub pełnić osoby określone w art. 18 ust. 5, posiadające poświadczenia bezpieczeństwa odpowiednie do klauzuli informacji wytwarzanych, przetwarzanych, przechowywanych lub przekazywanych w systemach lub sieciach teleinformatycznych, po odbyciu specjalistycznych szkoleń z zakresu bezpieczeństwa teleinformatycznego prowadzonych przez służby ochrony państwa.”;
+” ;
 
-- **39)** rozdział 11 „Bezpieczeństwo przemysłowe” otrzymuje brzmienie: „Rozdział 11 Bezpieczeństwo przemysłowe
+### 4)
 
-**Art. 65.** Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, zamierzający ubiegać się, ubiegający się o zawarcie lub wykonujący umowę związaną z dostępem do informacji niejawnych, zwaną dalej „umową”, albo wykonujący na podstawie przepisów prawa zadania związane z dostępem do informacji niejawnych, mają obowiązek zapewnienia warunków do ochrony informacji niejawnych.
+w art. 17:
 
-**Art. 66.**
+### a)
 
-1. Dokumentem potwierdzającym zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony informacji niejawnych stanowiących tajemnicę państwową jest świadectwo bezpieczeństwa przemysłowego wydane po przeprowadzeniu postępowania sprawdzającego zwanego dalej „postępowaniem bezpieczeństwa przemysłowego”.
+po ust. 1 dodaje się ust. 1a w brzmieniu:
 
-2. Postępowanie bezpieczeństwa przemysłowego przeprowadzają:
+„
 
-- **1)** Wojskowe Służby Informacyjne, jeżeli:
-    - **a)** zlecającym umowę lub zadanie mają być Siły Zbrojne oraz jednostki organizacyjne podległe lub nadzorowane przez Ministra Obrony Narodowej,
-    - **b)** wykonawcami umowy lub zadania mają być jednostki organizacyjne wymienione w lit. a),
+### 1a.
 
-- **2)** Agencja Bezpieczeństwa Wewnętrznego w innych przypadkach niż wymienione w pkt 1.
+Czynności, o których mowa w art. 16 pkt 1-5 i 8, dokonywane przez służby ochrony państwa w stosunku do Sejmu Rzeczypospolitej Polskiej oraz Senatu Rzeczypospolitej Polskiej, wykonywane są w uzgodnieniu odpowiednio z Marszałkiem Sejmu Rzeczypospolitej Polskiej i Marszałkiem Senatu Rzeczypospolitej Polskiej. Uzgodnienia dokonuje Prezes Rady Ministrów, a w przypadku braku uzgodnienia czynność nie może być wykonana.
 
-3. Podział kompetencji określony w ust. 2 odnosi się również do:
+” ,
 
-- **1)** przedsiębiorców, jednostek naukowych lub badawczorozwojowych będących podwykonawcami tych umów lub zadań,
-- **2)** postępowań sprawdzających, o których mowa w art. 37 ust. 2 i 3.
+### b)
 
-4. W zależności od stopnia zdolności do ochrony informacji niejawnych stanowiących tajemnicę państwową o określonej klauzuli wiednio:
+ust. 2 otrzymuje brzmienie:
 
-- **1)** pierwszego stopnia - potwierdzające pełną zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji,
-- **2)** drugiego stopnia - potwierdzające zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji, z wyłączeniem możliwości ich wytwarzania, przechowywania, przekazywania lub przetwarzania we własnych systemach i sieciach teleinformatycznych,
-- **3)** trzeciego stopnia - potwierdzające zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji, z wyłączeniem możliwości ich wytwarzania, przechowywania, przekazywania lub przetwarzania w użytkowanych przez niego obiektach.
+„
 
-5. Właściwa służba ochrony państwa nie przeprowadza postępowania bezpieczeństwa przemysłowego, jeżeli przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa przedstawią odpowiednie świadectwo bezpieczeństwa przemysłowego wydane przez drugą służbę ochrony państwa.
+### 2.
 
-**Art. 67.** Służba ochrony państwa przeprowadza postępowanie wobec przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, sprawdzające zdolność do ochrony informacji niejawnych stanowiących tajemnicę służbową, tylko wtedy, gdy z umów międzynarodowych zawartych przez Rzeczpospolitą Polską lub z prawa wewnętrznego strony zlecającej umowę wynika obowiązek uzyskania świadectwa bezpieczeństwa przemysłowego upoważniającego do wykonywania umów związanych z dostępem do informacji niejawnych oznaczonych klauzulą „poufne” lub jej zagranicznym odpowiednikiem.
+Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb przygotowania i prowadzenia kontroli w zakresie ochrony informacji niejawnych, w tym uzgadniania kontroli w stosunku do Sejmu Rzeczypospolitej Polskiej i Senatu Rzeczypospolitej Polskiej, uwzględniając zadania funkcjonariuszy i żołnierzy służb ochrony państwa nadzorujących i wykonujących czynności kontrolne, dokumentowanie czynności kontrolnych oraz sporządzanie: protokołu kontroli, wystąpienia pokontrolnego i informacji o wynikach kontroli.
 
-**Art. 68.**
+” ;
 
-1. Właściwa służba ochrony państwa przeprowadza postępowanie bezpieczeństwa przemysłowego na wniosek przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, o których mowa w art. 1 ust. 2 pkt 5.
+### 5)
 
-2. We wniosku, o którym mowa w ust. 1, przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa określają stopień świadectwa bezpieczeństwa przemysłowego, o które ubiegają się, z uwzględnieniem klauzuli tajności.
+w art. 18:
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się ankiety osób określonych w ust. 4 lub kopie posiadanych przez te osoby poświadczeń bezpieczeństwa wydanych przez służby ochrony państwa i kwestionariusz bezpieczeństwa przemysłowego, o którym mowa w art. 69.
+### a)
 
-4. W toku postępowania bezpieczeństwa przemysłowego przeprowadza się postępowanie sprawdzające wobec:
+po ust. 2 dodaje się ust. 2a w brzmieniu:
 
-- **1)** osoby lub osób, które u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej zajmują stanowisko kierownika jednostki organizacyjnej, o którym mowa w art. 18 ust. 1,
-- **3)** administratora systemu, o ile podmiot wnioskujący będzie wytwarzał, przechowywał, przetwarzał lub przekazywał informacje niejawne stanowiące tajemnicę państwową we własnych systemach i sieciach teleinformatycznych,
-- **4)** osób wskazanych w kwestionariuszu bezpieczeństwa przemysłowego, mających kierować wykonaniem umowy lub zadania albo uczestniczyć w ich bezpośredniej realizacji u przedsiębiorcy, w jednostce naukowej lub badawczorozwojowej,
-- **5)** osób wskazanych w kwestionariuszu bezpieczeństwa przemysłowego, które w imieniu przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej uczestniczą w czynnościach zmierzających do zawarcia umowy.
+„
 
-5. Do osób, o których mowa w ust. 4, z wyjątkiem osób zajmujących stanowisko pełnomocnika ochrony, pracownika pionu ochrony oraz administratora systemu, nie stosuje się wymogu posiadania obywatelstwa polskiego, o którym mowa w art. 28 ust. 1 pkt 1.
+### 2a.
 
-6. W toku postępowania bezpieczeństwa przemysłowego sprawdzeniu podlegają:
+Kierownik jednostki organizacyjnej może powołać zastępcę pełnomocnika ochrony.
 
-- **1)** struktura kapitału oraz powiązania kapitałowe przedsiębiorcy,
-- **2)** struktura organizacyjna przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej oraz ich władz i organów,
-- **3)** sytuacja finansowa i źródła pochodzenia środków finansowych pozostających w dyspozycji podmiotów określonych w pkt 2,
-- **4)** osoby zarządzające lub wchodzące w skład organów zarządzających albo kontrolnych przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, a tak¿e osoby działające z ich upowa¿nienia - na podstawie danych zawartych w rejestrach, ewidencjach, kartotekach, w tym niedostępnych powszechnie,
-- **5)** system ochrony osób, materiałów i obiektów u przedsiębiorcy, w jednostce naukowej lub badawczorozwojowej, ze szczególnym uwzględnieniem elementów systemu ochrony informacji niejawnych.
+” ,
 
-7. Do sprawdzenia, o którym mowa w ust. 6, stosuje się odpowiednio art. 14 ust. 3, z tym że przez sprawdzenie rękojmi zachowania tajemnicy należy rozumieć sprawdzenie zdolności finansowej i organizacyjnej do zapewnienia ochrony informacji niejawnych.
+### b)
 
-**Art. 69.**
+po ust. 3 dodaje się ust. 3a w brzmieniu:
 
-1. Sprawdzenie, o którym mowa w art. 68 ust. 6, prowadzi się na podstawie danych zawartych w wypełnionym przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową kwestionariuszu bezpieczeństwa przemysłowego. szczególności:
+„
 
-- **1)** dane identyfikujące podmiot podlegający sprawdzeniu, w tym jego status prawny,
-- **2)** dane o strukturze kapitału i powiązaniach kapitałowych przedsiębiorcy,
-- **3)** dane o sytuacji finansowej przedsiębiorcy,
-- **4)** dane o strukturze organizacyjnej przedsiębiorcy,
-- **5)** dane dotyczące osób, o których mowa w art. 68 ust. 6 pkt 4,
-- **6)** dane o systemie ochrony przedsiębiorcy,
-- **7)** wykaz pracowników posiadających poświadczenia bezpieczeństwa uprawniające do dostępu do informacji niejawnych stanowiących tajemnicę państwową,
-- **8)** wykaz pracowników, którzy powinni być poddani poszerzonemu lub specjalnemu postępowaniu sprawdzającemu,
-- **9)** wykaz osób, które ze strony przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej wykonują lub będą wykonywać funkcje związane z ochroną informacji niejawnych,
-- **10)** podpis osoby upoważnionej do składania oświadczeń woli w imieniu przedsiębiorcy, jednostki naukowej lub badawczorozwojowej.
+### 3a.
 
-**Art. 69a.** Postępowanie bezpieczeństwa przemysłowego powinno być przeprowadzone bez zbędnej zwłoki i zakończone w terminie nie dłuższym niż 6 miesięcy od dnia przedłożenia wszystkich dokumentów niezbędnych do jego przeprowadzenia.
+Zastępcą pełnomocnika ochrony w jednostce organizacyjnej może być osoba, która spełnia warunki określone w ust. 3.
 
-**Art. 70.**
+” ,
 
-1. W przypadku pozytywnego wyniku postępowania, o którym mowa w art. 68 ust. 1, służba ochrony państwa wydaje świadectwo bezpieczeństwa przemysłowego, które zachowuje ważność od daty wydania przez okres:
+### c)
 
-- **1)** 5 lat - w przypadku umów lub zadań, związanych z dostępem do informacji niejawnych oznaczonych klauzulą „ściśle tajne”,
-- **2)** 7 lat - w przypadku umów lub zadań, związanych z dostępem do informacji niejawnych oznaczonych klauzulą „tajne”,
-- **3)** 10 lat - w przypadku świadectwa bezpieczeństwa przemysłowego, wydanego w wyniku postępowania, o którym mowa w art. 67.
+ust. 4 otrzymuje brzmienie:
 
-2. W okresie ważności świadectwa bezpieczeństwa przemysłowego służba ochrony pa ństwa może przeprowadzić z urzędu sprawdzenie, w zakresie określonym w art. 68 ust. 6 i 7, w celu ustalenia, czy przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa nie utracili zdolności do ochrony informacji niejawnych przed nieuprawnionym ujawnieniem.
+„
 
-**Art. 71.**
+### 4.
 
-1. Jednostka organizacyjna zlecająca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiądo umowy lub decyzji o zleceniu zadania instrukcji bezpieczeństwa przemysłowego, określającej:
+Pełnomocnik ochrony kieruje wyodrębnioną, wyspecjalizowaną komórką organizacyjną do spraw ochrony informacji niejawnych, zwaną dalej „pionem ochrony”, do której zadań należy:
 
-- **1)** szczegółowe wymagania dotyczące ochrony informacji niejawnych stanowiących tajemnicę państwową, które zostaną przekazane przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej w związku z wykonywaniem umowy lub zadania, odpowiednie do ilości tych informacji, klauzuli tajności oraz liczby osób mających do nich dostęp,
-- **2)** skutki oraz zakres odpowiedzialności wykonawcy umowy lub zadania z tytułu niewykonania lub nienależytego wykonania obowiązków wynikających z ustawy, a także nieprzestrzegania wymagań określonych w instrukcji bezpieczeństwa przemysłowego.
+### 1)
 
-2. W szczególności instrukcja bezpieczeństwa przemysłowego powinna określać:
+zapewnienie ochrony informacji niejawnych, w tym ich ochrony fizycznej,
 
-- **1)** klauzule tajności poszczególnych materiałów lub rodzajów materiałów niejawnych, które zostaną wytworzone przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową w związku z wykonaniem umowy lub zadania,
-- **2)** sposób postępowania z materiałami niejawnymi, które zostaną przekazane przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej lub przez niego wytworzone w związku z wykonaniem umowy lub zadania.
+### 2)
 
-3. Kierownik jednostki organizacyjnej, która zleca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiących tajemnicę państwową, wyznacza osobę odpowiedzialną za nadzorowanie, kontrolę i doradztwo w zakresie wykonywania przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową obowiązku ochrony przekazanych im informacji niejawnych.
+zapewnienie ochrony systemów i sieci teleinformatycznych, w których są wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne,
 
-4. Jeżeli w związku z wykonaniem umowy lub zadania zostaną wytworzone informacje niejawne, odpowiednią klauzulę tajności nadaje osoba, o której mowa w art. 21 ust. 1, zgodnie ze wskazaniami zawartymi w instrukcji bezpieczeństwa przemysłowego, a w przypadku ich braku, po uzgodnieniu z osobą, o której mowa w ust. 3.
+### 3)
 
-5. Jednostka organizacyjna zlecająca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiących tajemnicę państwową, ma obowiązek:
+kontrola ochrony informacji niejawnych oraz przestrzegania przepisów o ochronie tych informacji,
 
-- **1)** niezwłocznego informowania właściwej służby ochrony państwa o:
-    - **a)** nazwie i adresie przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, którym zleca wykonanie umowy lub zadania,
-    - **b)** przedmiocie umowy lub zadania, jawnych, do których dostęp będzie wiązał się z wykonaniem umowy lub zadania,
-    - **d)** naruszeniu przepisów o ochronie informacji niejawnych u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej, którym zlecono wykonanie umowy lub zadania,
-    - **e)** zakończeniu wykonania umowy lub zadania,
+### 4)
 
-- **2)** niezwłocznego przekazania właściwej służbie ochrony państwa:
-    - **a)** kopii instrukcji bezpieczeństwa przemysłowego, o której mowa w ust.1,
-    - **b)** kopii świadectwa bezpieczeństwa przemysłowego przedsiębiorcy, jednostki naukowej lub badawczorozwojowej, którym zlecono wykonanie umowy lub zadania.
+okresowa kontrola ewidencji, materiałów i obiegu dokumentów,
 
-**Art. 71a.**
+### 5)
 
-1. Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, w czasie trwania postępowania bezpieczeństwa przemysłowego, a także w okresie ważności świadectwa bezpieczeństwa przemysłowego, określonego w art. 70 ust. 1, mają obowiązek niezwłocznego informowania właściwej służby ochrony państwa o:
+opracowywanie planu ochrony informacji niejawnych w jednostce organizacyjnej i nadzorowanie jego realizacji,
 
-- **1)** zmianach danych zawartych w kwestionariuszu bezpieczeństwa przemysłowego,
-- **2)** ogłoszeniu upadłości, likwidacji lub rozwiązaniu jednostki organizacyjnej albo zakończeniu przez nią działalności w innej formie,
-- **3)** potrzebie zawarcia lub zawarciu umowy z podwykonawcą, związanej z dostępem do informacji niejawnych,
-- **4)** wypowiedzeniu umowy,
-- **5)** zakończeniu wykonania umowy lub zadania,
-- **6)** zawarciu nowej umowy lub podjęciu wykonania nowego zadania związanych z dostępem do informacji niejawnych, ze szczególnym uwzględnieniem:
-    - **a)** nazwy i adresu jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie,
-    - **b)** przedmiotu umowy lub zadania,
-    - **c)** najwyższej klauzuli tajności informacji niejawnych, do których dostęp będzie wiązał się z wykonaniem umowy lub zadania.
+### 6)
 
-2. Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, w czasie realizacji umowy albo zadania, mają obowiązek niezwłocznego informowania osoby, o której mowa w art. 71 ust. 3, o:
+szkolenie pracowników w zakresie ochrony informacji niejawnych na zasadach określonych w rozdziale 8.
 
-- **1)** zmianach w systemie ochrony informacji niejawnych,
-- **2)** zmianach osób wykonujących umowę lub zadanie, zanej z dostępem do informacji niejawnych.
+” ,
 
-**Art. 72.**
+### d)
 
-1. Świadome podanie nieprawdziwych danych lub zatajenie prawdziwych danych w kwestionariuszu bezpieczeństwa przemysłowego albo niewykonanie obowiązku wynikającego z art. 71a ust. 1 może stanowić podstawę do odmowy wydania świadectwa bezpieczeństwa przemysłowego.
+po ust. 4 dodaje się ust. 4a w brzmieniu:
 
-2. Utrata zdolności do ochrony informacji niejawnych stwierdzona w toku sprawdzenia, o którym mowa w art. 70 ust. 2, lub kontroli, o których mowa w art. 14 ust. 1 i art. 16, stanowi podstawę do cofnięcia świadectwa bezpieczeństwa przemysłowego, a niewykonanie obowiązku wynikającego z art. 71a ust. 1 może stanowić podstawę do cofnięcia świadectwa bezpieczeństwa przemysłowego.
+„
 
-3. O cofnięciu świadectwa bezpieczeństwa przemysłowego służba ochrony państwa zawiadamia niezwłocznie jednostki organizacyjne, które zleciły przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej wykonanie umowy albo zadania.
+### 4a.
 
-4. Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa mogą ponownie ubiegać się o wydanie świadectwa bezpieczeństwa przemysłowego w terminie nie krótszym niż rok od dnia doręczenia decyzji o jego cofnięciu.
+Kierownik jednostki organizacyjnej może powierzyć pełnomocnikowi ochrony wykonywanie innych zadań, o ile ich realizacja nie naruszy prawidłowego wykonywania zadań, o których mowa w ust. 4.
 
-**Art. 72a.**
+” ;
 
-1. Od decyzji o odmowie wydania lub decyzji o cofnięciu świadectwa bezpieczeństwa przemysłowego przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej służy odwołanie do Prezesa Rady Ministrów.
+### 6)
 
-2. Do odwołania, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 5a z wyłączeniem przepisów art. 48b ust. 3, art. 48e ust. 1 pkt 1, art. 48i oraz art. 48m.
+po art. 18 dodaje się art. 18a w brzmieniu:
 
-3. W przypadku likwidacji przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej albo ogłoszenia upadłości przedsiębiorcy Prezes Rady Ministrów umarza postępowanie odwoławcze.
+„
 
-**Art. 73.**
+### Art. 18a.
 
-1. Świadectwo bezpieczeństwa przemysłowego, decyzja o odmowie wydania oraz decyzja o cofnięciu świadectwa bezpieczeństwa przemysłowego powinny zawierać:
+### 1.
 
-- **1)** oznaczenie służby ochrony państwa, która wydała, odmówiła wydania bą dź cofnęła świadectwo bezpieczeństwa przemysłowego,
-- **2)** miejsce i datę wystawienia,
-- **3)** nazwę podmiotu i adres jego siedziby,
-- **4)** podstawę prawną,
-- **5)** stwierdzenie wydania świadectwa bezpieczeństwa przemysłowego, odmowy wydania lub jego cofnięcia,
-- **6)** w przypadku wydania świadectwa bezpieczeństwa przemysłowego - jego stopień, klauzulę tajności oraz termin ważności, riusza albo żołnierza służby ochrony państwa.
+W jednostkach organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, pełnomocnik ochrony, oprócz realizacji zadań określonych w art. 18 ust. 4 i 4a, zapewnia również ochronę fizyczną tych jednostek.
 
-2. Decyzja o odmowie wydania oraz decyzja o cofnięciu świadectwa bezpieczeństwa przemysłowego powinny zawierać uzasadnienie faktyczne i prawne oraz pouczenie o dopuszczalności i terminie wniesienia:
+### 2.
 
-- **1)** odwołania do Prezesa Rady Ministrów,
-- **2)** skargi do sądu administracyjnego.
+Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowe zadania pełnomocników ochrony w zakresie ochrony informacji niejawnych w jednostkach organizacyjnych jemu podległych i przez niego nadzorowanych, szczególne wymagania w zakresie ochrony fizycznej informacji niejawnych, tryb opracowywania oraz niezbędne elementy planów ochrony tych jednostek, a także sposób nadzorowania ich realizacji.
 
-3. Można odstąpić od uzasadnienia faktycznego decyzji lub je ograniczyć w zakresie, w jakim udostępnienie mogłoby spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa.
+### 3.
 
-**Art. 74.** Rada Ministrów określi, w drodze rozporządzenia, wzory:
+Rozporządzenie, o którym mowa w ust. 2, określi w szczególności zadania dotyczące koordynowania oraz nadzorowania działalności pionów ochrony przez pełnomocników ochrony bezpośrednio nadrzędnych jednostek organizacyjnych, podstawowe wymagania, jakim powinny odpowiadać plany ochrony, podział stref bezpieczeństwa na rodzaje, a także warunki dostępu do tych stref.
 
-**Art. 74a.**
+” ;
 
-1. Służby ochrony państwa pobierają opłaty za:
+### 7)
 
-- **1)** przeprowadzenie postępowań bezpieczeństwa przemysłowego, o których mowa w art. 68 ust. 4,
-- **2)** przeprowadzenie sprawdzeń, o których mowa w art. 68 ust. 6,
-- **3)** przeprowadzenie postępowań sprawdzających, o których mowa w art. 37 ust. 2 i 3.
+w art. 20 w ust. 1 pkt 3 otrzymuje brzmienie:
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w ust. 1, z uwzględnieniem kosztów ponoszonych na przeprowadzenie czynności, o których mowa w art. 37 ust. 2 i 3 oraz art. 68 ust. 4 i 6.
+„
 
-**Art. 75.**
+### 3)
 
-1. Dane zgromadzone w postępowaniu, o którym mowa w art. 68 ust. 1, podlegają ochronie i mogą być wykorzystywane wyłącznie w celu określonym w ustawie, a ich przekazywanie i udostępnianie innym osobom jest zabronione.
+muszą być chronione, odpowiednio do przyznanej klauzuli tajności, przy zastosowaniu środków określonych w rozdziałach 9 i 10.
 
-2. Dane, o których mowa w ust. 1, mogą być udostępniane przez służby ochrony państwa wyłącznie na żądanie sądu lub prokuratora dla celów postępowania karnego albo Prezydentowi Rzeczypospolitej Polskiej lub Prezesowi Rady Ministrów, gdy wymaga tego istotny interes Rzeczypospolitej Polskiej.
+” ;
 
-3. Akta postępowań sprawdzających prowadzonych w odniesieniu do przedsiębiorców, jednostek naukowych lub badawczorozwojowych są przechowywane jako wyodrębniona część w archiwach służb ochrony państwa. czo-rozwojowa zamierzają ubiegać się lub ubiegają się o wykonanie umowy albo zadań związanych z dostępem do informacji niejawnych stanowiących tajemnicę służbową, świadectwo bezpieczeństwa przemysłowego nie jest wymagane, z zastrzeżeniem art. 67. Przepisy art. 71 ust. 1-4 oraz art. 71a ust. 2 stosuje się odpowiednio.
+### 8)
 
-2. Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, o których mowa w ust. 1, są obowiązani powołać pełnomocnika ochrony oraz spełniać inne wymagania ustawy w zakresie ochrony informacji niejawnych, stosownie do ich klauzuli tajności.
+w art. 21 ust. 2 i 3 otrzymują brzmienie:
 
-3. Na wniosek przedsiębiorcy, jednostki naukowej lub badawczorozwojowej, o których mowa w ust. 1, zwykłe postępowanie sprawdzające wobec osób wymienionych w art. 68 ust. 4, z wyjątkiem osoby kandydata na pełnomocnika ochrony, może przeprowadzić pełnomocnik ochrony jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie, o których mowa w ust. 1. Wniosek składa się do kierownika jednostki organizacyjnej, która zleca wykonanie takiej umowy lub zadania.
+„
 
-4. Szkolenie w zakresie ochrony informacji niejawnych osób, wobec których przeprowadzono postępowanie sprawdzające, o którym mowa w ust. 3, przeprowadza pełnomocnik ochrony jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie, o których mowa w ust. 1.”;
+### 2.
 
-- **40)** załącznik nr 1 „Wykaz rodzajów informacji niejawnych stanowiących tajemnicę państwową” otrzymuje brzmienie określone w załączniku nr 1 do niniejszej ustawy;
-- **41)** załącznik nr 2 „Ankieta bezpieczeństwa osobowego” otrzymuje brzmienie określone w załączniku nr 2 do niniejszej ustawy.
+Uprawnienie do przyznawania, zmiany i znoszenia klauzuli tajności przysługuje wyłącznie w zakresie posiadanego prawa dostępu do informacji niejawnych.
 
-**Art. 2.** W ustawie z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi (Dz.U. z 2002 r. Nr 49, poz. 447, z późn. zm. ) w art. 160 ust. 1 otrzymuje brzmienie: „1. Nie narusza obowiązku zachowania tajemnicy zawodowej oraz informacji poufnej złożenie zawiadomienia o popełnieniu przestępstwa oraz przekazanie informacji służbom ochrony państwa w związku z postępowaniami sprawdzającymi prowadzonymi na podstawie przepisów o ochronie informacji niejawnych.”.
+### 3.
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. z 2002 r. Nr 72, poz. 665, z późn. zm. ) wprowadza się następujące zmiany: „k) służb ochrony państwa, Agencji Wywiadu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej i ich posiadających pisemne upoważnienie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych,”;
+Osoba, o której mowa w ust. 1, ponosi odpowiedzialność za przyznanie klauzuli tajności i bez jej zgody albo bez zgody jej przełożonego klauzula nie może być zmieniona lub zniesiona. Dotyczy to również osoby, która przekazała dane do dokumentu zbiorczego.
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. z 2005 r. Nr 8, poz. 60) wprowadza się następujące zmiany:
+” ;
 
-**Art. 5.** W ustawie z dnia 8 października 2004 r. o zasadach finansowania nauki (Dz.U. Nr 238, poz. 2390 i Nr 273, poz. 2703) w art. 6 ust. 1 otrzymuje brzmienie: „1. Wnioski, recenzje i umowy dotyczące projektów badawczych i projektów celowych, a także informacje otrzymane w toku postępowań dotyczących tych projektów stanowią tajemnicę przedsiębiorstw w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, z zastrzeżeniem przepisów ust. 2 i 3 oraz art. 18 ust. 2.”.
+### 9)
 
-**Art. 6.** Banki, inne instytucje ustawowo upoważnione do udzielania kredytów oraz instytucje utworzone na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe obowiązane są dostosować przetwarzanie informacji zgromadzonych przed nie nie dłuższym niż 3 lata od wejścia w życie niniejszej ustawy.
+w art. 23:
 
-**Art. 7.** Do postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
+### a)
 
-**Art. 8.** Poświadczenia bezpieczeństwa wydane przed dniem wejścia w życie ustawy, ważne w tym dniu, zachowują ważność w zakresie i okresie określonym ustawą z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych, w brzmieniu nadanym niniejszą ustawą.
+ust. 1 otrzymuje brzmienie:
 
-**Art. 9.** Świadectwa bezpieczeństwa przemysłowego wydane przedsiębiorcom, jednostkom naukowym lub badawczo-rozwojowym w związku z wykonaniem umowy lub zadania łączącego się z dostępem do informacji niejawnych stanowiących tajemnicę państwową zachowują ważność do czasu zakończenia danej umowy lub zadania, ale nie dłużej niż 2 lata od dnia wejścia w życie ustawy.
+„
 
-**Art. 10.** Dotychczasowe przepisy wykonawcze, wydane na podstawie upoważnień ustawowych zmienianych niniejszą ustawą, zachowują moc do czasu ich zastąpienia przez przepisy wykonawcze wydane na podstawie upoważnień ustawowych w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 1.
 
-**Art. 11.** Ogłoszenie tekstu jednolitego ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych nastąpi w terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy.
+Informacje niejawne zaklasyfikowane jako stanowiące tajemnicę państwową oznacza się klauzulą:
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+### 1)
 
-## Załącznik nr 1 — WYKAZ RODZAJÓW INFORMACJI, KTÓRE MOGĄ STANOWIĆ TAJEMNICĘ PAŃSTWOWĄ I. Informacje, które mogą być oznaczane klauzulą „ściśle tajne”:
+„ściśle tajne” - zgodnie z wykazem stanowiącym załącznik nr 1 do ustawy (część I),
 
-1. Informacje dotyczące zagrożeń zewnętrznych bezpieczeństwa państwa o charakterze militarnym, plany i prognozowanie obronne oraz wynikające z nich decyzje i zadania.
-2. Szczegółowa struktura, organizacja i funkcjonowanie systemu kierowania państwem oraz dowodzenia Siłami Zbrojnymi w czasie zagrożenia państwa lub wojny.
-3. Lokalizacja, wyposażenie, właściwości ochronne i organizacja obrony stanowisk kierowania państwem i stanowisk dowodzenia Siłami Zbrojnymi w czasie zagrożenia państwa lub wojny.
-4. Szczegółowa organizacja, funkcjonowanie systemów łączności kierowania państwem i dowodzenia Siłami Zbrojnymi w czasie wyższych stanów gotowości bojowej lub wojny.
-5. Centralny program mobilizacji gospodarki.
-6. Informacje dotyczące planowania, organizacji i funkcjonowania mobilizacyjnego rozwinięcia Sił Zbrojnych.
-7. Szczegółowa struktura Sił Zbrojnych, rodzajów Sił Zbrojnych oraz okręgów wojskowych i korpusów na czas wojny.
-8. Informacje dotyczące możliwości bojowych Sił Zbrojnych, rodzajów Sił Zbrojnych i okręgów wojskowych oraz potencjalnego przeciwnika na przewidywanych obszarach i kierunkach działań wojennych.
-9. Zadania bojowe Sił Zbrojnych i związków operacyjnych.
-10. Organizacja i funkcjonowanie systemu obrony powietrznej i przeciwlotniczej kraju.
-11. Organizacja, rozmieszczenie, zadania i możliwości działania systemu rozpoznania i walki radioelektronicznej.
-12. Planowanie i realizacja przedsięwzięć w zakresie operacyjnego maskowania wojsk.
-13. Planowanie, realizacja, wyniki badań naukowych i prac badawczo-rozwojowych o szczególnie ważnym znaczeniu dla obronności i bezpieczeństwa państwa.
-14. Hasła i kody dostępu do urządzeń przechowujących, przetwarzających i przesyłających informacje oznaczone klauzulą „ściśle tajne”.
-15. Szczególne wymagania bezpieczeństwa i procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych służących do wytwarzania, przetwarzania, przekazywania lub przechowywania informacji oznaczonych klauzulą „ściśle tajne”.
-16. Szczegółowe informacje dotyczące organizacji, form i metod pracy operacyjnej Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Wojskowych runki pracy operacyjnej i zainteresowań.
-17. Szczegółowa struktura organizacyjna oraz etatowa jednostek i komórek organizacyjnych wykonujących czynności operacyjno-rozpoznawcze w służbach, o których mowa w pkt 16, a także systemy ewidencji danych o funkcjonariuszach i żołnierzach tych jednostek i komórek organizacyjnych.
-18. Dane identyfikujące lub mogące doprowadzić do identyfikacji funkcjonariuszy i żołnierzy służb, o których mowa w pkt 16, realizujących czynności operacyjnorozpoznawcze.
-19. Dane identyfikujące lub mogące doprowadzić do identyfikacji osób niebędących funkcjonariuszami lub żołnierzami służb, o których mowa w pkt 16, a które udzieliły pomocy tym służbom w zakresie wykonywania czynności operacyjnorozpoznawczych.
-20. Dane identyfikujące lub mogące doprowadzić do identyfikacji świadków koronnych i osób dla nich najbliższych oraz świadków, o których mowa w art. 184 Kodeksu postępowania karnego.
-21. Informacje dotyczące dokumentów uniemożliwiających ustalenie danych identyfikujących funkcjonariuszy, żołnierzy lub pracowników organów, służb i instytucji państwowych uprawnionych do wykonania czynności operacyjnorozpoznawczych lub środków, którymi posługują się przy wykonywaniu czynności operacyjno-rozpoznawczych.
-22. Informacje dotyczące dokumentów uniemożliwiających ustalenie danych identyfikujących osoby udzielające organom, służbom i instytucjom państwowym uprawnionym do wykonywania czynności operacyjno-ropoznawczych pomocy przy wykonywaniu tych czynności.
-23. Plany i stan zaopatrzenia w sprzęt i materiały techniki specjalnej przeznaczone do wykonywania czynności operacyjno-rozpoznawczych przez służby, o których mowa w pkt 16.
-24. Informacje dotyczące prowadzonych przez Agencję Bezpieczeństwa Wewnętrznego, Wojskowe Służby Informacyjne oraz były Urzęd Ochrony Państwa kontroli operacyjnej, niejawnego nabycia lub przejęcia przedmiotów pochodzących z przestępstwa ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęcia lub wręczenia korzyści majątkowej oraz niejawnego nadzorowania, wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa.
-25. Informacje dotyczące planowanych, wykonywanych i zrealizowanych czynności operacyjno-rozpoznawczych przez służby, o których mowa w pkt 16, oraz informacje i przedmioty uzyskane w wyniku tych czynności, które pozwalają na identyfikację osób udzielających im pomocy w zakresie wykonywania czynności operacyjno-rozpoznawczych.
-26. Informacje o szczegółowych zasadach tworzenia, ewidencjonowania, gospodarowania i wykorzystaniu funduszu operacyjnego i środków specjalnych w służbach, o których mowa w pkt 16.
-27. Organizacja, funkcjonowanie i środki techniczne radiokontrwywiadowczej ochrony państwa.
-28. Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją Traktatu Północnoatlantyckiego, Unią Europejską i Unią Zachodnioeuropejską zulą „TOP SECRET” lub równorzędną, jeżeli wymagają tego umowy międzynarodowe, na zasadzie wzajemności.
-29. Informacje określone w pkt 16-19 i 23-26, będące w posiadaniu organów, służb i instytucji państwowych, innych niż służby, o których mowa w pkt 16, uprawnionych na podstawie ustaw do wykonywania czynności operacyjnorozpoznawczych, związane z działalnością tych organów, służb lub instytucji.
-II. Informacje, które mogą być oznaczane klauzulą „tajne”:
-1. Planowanie, rozmieszczenie i stan rezerw państwowych.
-2. Resortowe i wojewódzkie programy mobilizacji gospodarki.
-3. Plany obrony cywilnej państwa oraz plany obrony cywilnej województw.
-4. Szczegółowe założenia systemu finansowego państwa w czasie podwyższonej gotowości obronnej lub wojny.
-5. Stan rozwinięcia, ukompletowania i wyposażenia jednostek wojskowych w zakresie nieobjętym postanowieniami Traktatu o konwencjonalnych siłach zbrojnych w Europie (CFE).
-6. Szczegółowa struktura Sił Zbrojnych, rodzajów Sił Zbrojnych oraz okręgów wojskowych.
-7. Plany i prognozy rozwoju organizacyjnego i technicznego Sił Zbrojnych oraz poszczególnych rodzajów wojsk.
-8. Lokalizacja, rodzaj i przeznaczenie oraz właściwości techniczno-ochronne budownictwa specjalnego.
-9. Organizacja kompleksowego przygotowania jednolitej sieci telekomunikacyjnej państwa dla potrzeb obronnych.
-10. Informacje dotyczące przygotowania, budowy, zarządzania oraz funkcjonowania systemów i sieci telekomunikacyjnych, teleinformatycznych i pocztowych służących do przekazywania informacji niejawnych stanowiących tajemnicę państwową, wykorzystywanych dla potrzeb Sił Zbrojnych, służb ochrony państwa lub administracji publicznej w zakresie niezbędnym do zabezpieczenia tych systemów i sieci.
-11. Zbiorcze informacje dotyczące produkcji specjalnej przemysłu obronnego, a także prognozy rozwojowe, plany i zdolności produkcyjne oraz usługowe przedsiębiorców, jednostek naukowych i badawczo-rozwojowych w zakresie realizacji zamówień na uzbrojenie i sprzęt wojskowy.
-12. Wojskowe mapy specjalne i fotodokumenty przedstawiające uczytelnione obiekty inżynieryjnej rozbudowy terenu prognozowanych rejonów i kierunków działań wojennych.
-13. Współrzędne określające położenie obiektów (budynków, budowli, urządzeń) usytuowanych na terenach zamkniętych, o których mowa w przepisach szczególnych, jeżeli informacjom dotyczącym tych obiektów organ zamykający teren przyznał klauzulę „tajne”.
-14. Fotogrametryczne zobrazowanie lotnicze lub naziemne zarejestrowane na dowolnym nośniku oraz wysokorozdzielcze zdjęcia satelitarne, zawierające obraz obiektów, o których mowa w pkt 13.
-dzaju, charakterze lub przeznaczeniu obiektów, o których mowa w pkt 13.
-16. Materiały uzyskane w wyniku przetworzenia zobrazowań satelitarnych, zawierające dodaną informację o położeniu, rodzaju, charakterze lub przeznaczeniu obiektów, o których mowa w pkt 13.
-17. Informacje dotyczące przestawienia gospodarki narodowej na rzecz obronności w czasie podwyższonej gotowości obronnej państwa lub wojny.
-18. Informacje dotyczące przygotowania, organizacji oraz wykorzystywania transportu kolejowego, drogowego i wodnego oraz ochrony obiektów komunikacyjnych w czasie podwyższonej gotowości obronnej państwa lub wojny.
-19. Organizacja i funkcjonowanie systemu alarmowania wojsk oraz zadania jednostek wojskowych i garnizonów w procesie osiągania wyższych stanów gotowości bojowej.
-20. Zadania ministrów, centralnych organów administracji rządowej, wojewodów, a także innych konstytucyjnych organów władzy publicznej, związane z osiąganiem podwyższonej gotowości obronnej państwa.
-21. Organizacja i funkcjonowanie systemu zaopatrywania Sił Zbrojnych w uzbrojenie, sprzęt wojskowy i amunicję w procesie osiągania wyższych stanów gotowości bojowej.
-22. Dane oraz zasady funkcjonowania systemu ewidencji danych o osobach zajmujących stanowiska związane z obronnością kraju.
-23. Informacje dotyczące systemu ochrony i obrony jednostek organizacyjnych Służby Więziennej na czas podwyższonej gotowości obronnej państwa lub wojny.
-24. Organizacja ochrony, na wypadek wojny, dóbr kultury mających szczególne znaczenie dla dziedzictwa kulturalnego narodu.
-25. Dane dotyczące tworzonych na wypadek wojny rezerw rzeczowych jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych.
-26. Szczegółowe informacje dotyczące organizacji, metod i środków służących do ochrony informacji stanowiących tajemnicę państwową, których ujawnienie może spowodować brak ich skuteczności, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
-27. Szczególne wymagania bezpieczeństwa i procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych służących do wytwarzania, przetwarzania, przekazywania lub przechowywania informacji oznaczonych klauzulą „tajne”.
-28. Informacje dotyczące planowania, rozmieszczenia, przeznaczenia i wyposażenia obiektów i nieruchomości specjalnych oraz plany ich obrony i ochrony.
-29. Szczegółowe informacje dotyczące osób podejrzewanych o prowadzenie działalności godzącej w bezpieczeństwo, obronność, niezależność, całość lub międzynarodową pozycję państwa albo działalności terrorystycznej, uzyskane i przetwarzane przez służby, o których mowa w części I w pkt 16, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
-30. Szczegółowa struktura organizacyjna i etatowa jednostek organizacyjnych służb, o których mowa w części I w pkt 16, chyba że zawiera informacje oznaczone wyższą klauzulą tajności.
-służb, o których mowa w części I w pkt 16, chyba że zawiera informacje oznaczone wyższą klauzulą tajności.
-32. Informacje określone w części I w pkt 16-19 i 23-26, będące w posiadaniu organów, służb i instytucji państwowych, innych niż służby, o których mowa w części I w pkt 16, uprawnionych na podstawie ustaw do wykonywania czynności operacyjno-rozpoznawczych, związane z działalnością tych organów, służb lub instytucji, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
-33. Szczegółowe Informacje dotyczące systemu i sposobu ochrony granicy państwowej w tym działań antyterrorystycznych i antysabotażowych.
-34. Informacje z ewidencji operacyjnej, dotyczące pracy operacyjnej służb, o których mowa w części I pkt 16, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
-35. Szczegółowe informacje dotyczące ochrony i zabezpieczenia obiektów szczególnie ważnych dla gospodarki narodowej albo ze względu na obronność lub bezpieczeństwo państwa.
-36. Szczegółowe informacje dotyczące planowanych, wykonywanych i zrealizowanych czynności dochodzeniowo-śledczych, jeżeli ujawnienie tych informacji mogłoby stanowić przeszkodę dla prawidłowego toku postępowania karnego.
-37. Projekty wynalazcze uznane za tajne zgodnie z przepisami prawa o własności przemysłowej.
-38. Informacje dla Rady Ministrów i jej organów, dotyczące potencjału strategicznego państwa oraz strategicznych zamówień rządowych i ich realizacji.
-39. Instrukcje do negocjacji w sprawie zawierania umów finansowych o znaczeniu ogólnopaństwowym, których ujawnienie mogłoby mieć wpływ na dalszy tok negocjacji.
-40. Wnioski o udzielenie poręczenia, umowy poręczenia oraz umowy o udzielenie poręczenia dotyczące producentów sprzętu obronnego.
-41. Technologia produkcji i system zabezpieczeń znaków akcyzy w przedsiębiorstwach wytwarzających te znaki.
-42. Informacje dotyczące zabezpieczeń przed podrabianiem i przerabianiem znaków pieniężnych, papierów wartościowych emitowanych przez Skarb Państwa i Narodowy Bank Polski oraz znaków akcyzy, na etapie ich projektowania i przygotowania do produkcji, z wyłączeniem monet przeznaczonych na cele kolekcjonerskie.
-43. Informacje dotyczące technologii produkcji znaków pieniężnych, znaków akcyzy i papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski.
-44. Informacje dotyczące technologii produkcji oraz szczegółowych sposobów zabezpieczeń dokumentów tożsamości, a także innych zabezpieczonych dokumentów wydawanych przez organy władzy publicznej.
-45. Decyzje o skokowych zmianach kursu złotego w stosunku do walut obcych (dewaluacja, rewaluacja) dokonywane przez Narodowy Bank Polski do czasu podania ich do publicznej wiadomości.
-46. Wysokość stóp procentowych Narodowego Banku Polskiego - do czasu ich podania do publicznej wiadomości.
-do publicznej wiadomości.
-48. Prace badawczo-rozwojowe o szczególnie istotnym znaczeniu dla interesu gospodarczego państwa, zlecone przez ministrów i inne centralne organy państwowe.
-49. Informacje dotyczące rozwiązań technicznych, technologicznych i organizacyjnych, których ujawnienie naraziłoby na szkodę istotny interes gospodarczy państwa.
-50. Informacje o sposobie działania urządzeń kontrolno-sygnalizacyjnych i systemów alarmowych zabezpieczających dostęp do miejsc składowania i stosowania materiałów jądrowych kategorii I i II.
-51. Informacje dotyczące planów i zadań polityki zagranicznej, których ujawnienie naraziłoby na szkodę istotny interes państwa lub innego podmiotu stosunków międzynarodowych, do czasu oficjalnego ich ogłoszenia.
-52. Materiały, dokumenty, sprawozdania z negocjacji i konsultacji międzynarodowych oraz umowy międzynarodowe lub ich części, które zostały uznane za odpowiadające informacjom oznaczonym klauzulą „tajne” na wniosek jednej ze stron.
-53. Informacje polityczne, gospodarcze lub wojskowe dotyczące państw obcych, uzyskane pod warunkiem zapewnienia ich tajności.
-54. Organizacja i funkcjonowanie poczty dyplomatycznej.
-55. System ochrony polskich przedstawicielstw dyplomatycznych i urzędów konsularnych.
-56. Zadania polskich przedstawicielstw dyplomatycznych i urzędów konsularnych na czas wojny.
-57. Zadania w zakresie ochrony przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych w Rzeczypospolitej Polskiej w czasie wojny.
-58. Plany, prognozy i informacje na temat rozwoju obrotu z zagranicą sprzętem specjalnym i uzbrojeniem oraz technologiami i usługami specjalnymi.
-59. Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją Traktatu Północnoatlantyckiego, Unią Europejską i Unią Zachodnioeuropejską oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą „SECRET” lub równorzędną, jeżeli wymagają tego umowy międzynarodowe, na zasadzie wzajemności.
+### 2)
 
-## Załącznik nr 2 — ANKIETA BEZPIECZEŃSTWA OSOBOWEGO Szanowna Pani, Szanowny Panie, Rząd Rzeczypospolitej Polskiej, kierując się troską o bezpieczeństwo narodowe i mając powinność jego ochrony, przedstawia tę ankietę w przekonaniu, iż zostanie ona wypełniona zgodnie z Pana /Pani najlepszą wiedzą i wolą. Dziękując za współpracę, podkreślamy, że celem tej ankiety jest wyłącznie ochrona bezpieczeństwa narodowego przed zagrożeniami ze strony obcych służb specjalnych, ugrupowań terrorystycznych lub grup przestępczych. Prosimy uważnie przeczytać poniższą instrukcję, a w razie wątpliwości zwrócić się do pełnomocnika ochrony w Pana /Pani jednostce organizacyjnej lub do właściwej służby ochrony państwa o pomoc w wypełnieniu ankiety.
+„tajne” - zgodnie z wykazem stanowiącym załącznik nr 1 do ustawy (część II).
 
-Instrukcja
-1. Przed wypełnieniem ankiety proszę się z nią dokładnie zapoznać.
-2. Proszę wypełniać ankietę własnoręcznie, pismem drukowanym. Cudzoziemcy, nie władający językiem polskim, składają własnoręcznie wypełnione ankiety w językach ojczystych, dołączając do nich tłumaczenie ich treści, wykonane przez tłumacza przysięgłego.
-3. Jeśli ankieta zawiera zbyt mało miejsca na wpisanie danych, proszę je podać na osobnej karcie formatu A-4, którą należy dołączyć do ankiety.
-4. W razie braku wiedzy umożliwiającej podanie danych, proszę wpisać sformułowanie: „nie wiem”, z podaniem przyczyny.
-5. Jeżeli dane w kolejnych punktach ankiety są identyczne z danymi podanymi w poprzednich punktach, można w kolejnych punktach wpisywać sformułowanie: „jak w pkt ... lit. ...”.
-6. Jeżeli któryś z członków rodziny zmarł, proszę ograniczać wypełnianie takiego fragmentu ankiety wyłącznie do podania jego imienia, nazwiska, daty i miejsca urodzenia oraz sformułowania: „nie żyje”.
-7. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do informacji niejawnych oznaczonych klauzulą „zastrzeżone” wypełniają ankietę stanowiącą załącznik 2a.
-8. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do informacji niejawnych oznaczonych klauzulą „poufne” wypełniają ankietę stanowiącą załącznik 2b.
-9. Osoby objęte postępowaniem sprawdzającym w związku z dostępem do informacji niejawnych oznaczonych klauzulą „tajne” lub „ściśle tajne” wypełniają ankietę stanowiącą załącznik 2c - przy klauzuli „tajne” nie wypełnia się pkt 33 ankiety.
-10. Przy kolejnym postępowaniu sprawdzającym, przeprowadzanym po upływie 10 lat w stosunku do osoby, która otrzymała poświadczenie bezpieczeństwa uprawniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne” osobę tę prosi się o wypełnienie pkt: 17, 18, 19 i 23 z odniesieniem się wyłączpełnienia następnej ankiety. Jeżeli dane odnoszące się do wyżej wymienionych punktów nie uległy zmianie, należy przy nich wpisać sformułowanie: „bez zmian”.
-11. Przy kolejnym postępowaniu sprawdzającym, przeprowadzanym po upływie 5 lat w stosunku do osoby, która otrzymała poświadczenie bezpieczeństwa uprawniające do dostępu do informacji niejawnych oznaczonych klauzulą „ściśle tajne”, a po upływie 7 lat w stosunku do osoby, która otrzymała poświadczenie bezpieczeństwa upoważniające do dostępu do informacji oznaczonych klauzulą „tajne” - osoby te nie wypełniają punktów: 1j oraz 1k. Ponadto przy wypełnianiu punktów: 10, 19, 24-26 i 30-32 należy odnieść się wyłącznie do okresu począwszy od daty wypełnienia poprzedniej ankiety do dnia wypełnienia następnej ankiety. Jeżeli dane odnoszące się do wyżej wymienionych punktów nie uległy zmianie, należy przy nich wpisać sformułowanie: „bez zmian”.
+” ,
 
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób oznaczania materiałów, umieszczania na nich klauzul tajności, a także sposób zmiany nadanej klauzuli, uwzględniając, że materiały powinny być oznaczone w sposób zapewniający ich odróżnienie od materiałów jawnych oraz mając na uwadze rodzaje klauzul tajności i materiałów.
+
+### 4.
+
+Prezes Rady Ministrów może określić, w drodze rozporządzenia, dodatkowe oznaczenia materiałów, które:
+
+### 1)
+
+mogą poprzedzać klauzule wymienione w ust. 1 i 2, oraz wynikający z tych oznaczeń szczególny sposób postępowania z tak oznaczonymi materiałami; rozporządzenie powinno określać w szczególności: rodzaje oznaczeń, sposób ich nanoszenia na materiały oraz tryb wytwarzania, przetwarzania, przekazywania, udostępniania i przechowywania tak oznaczonych informacji niejawnych, a także krąg upoważnionych adresatów ze względu na wymóg wyższego stopnia ochrony tych materiałów,
+
+### 2)
+
+mogą poprzedzać lub następować bezpośrednio po klauzulach wymienionych w ust. 1 i 2 lub ich zagranicznych odpowiednikach, oraz wynikający z umów międzynarodowych, których Rzeczpospolita Polska jest stroną, szczególny sposób postępowania z tak oznaczonymi materiałami; rozporządzenie powinno określać w szczególności: rodzaje oznaczeń, sposób ich nanoszenia na materiały oraz tryb wytwarzania, przetwarzania, przekazywania, udostępniania i przechowywania tak oznaczonych informacji niejawnych, a także sposób oceny spełnienia warunków dostępu do tych informacji przez osoby fizyczne, przedsiębiorców, jednostki naukowe i badawczo-rozwojowe.
+
+” ;
+
+### 10)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+Informacje niejawne stanowiące tajemnicę państwową podlegają ochronie, w sposób określony ustawą, przez okres 50 lat od daty ich wytworzenia.
+
+### 2.
+
+Chronione bez względu na upływ czasu pozostają:
+
+### 1)
+
+dane identyfikujące funkcjonariuszy i żołnierzy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Wojskowych Służb Informacyjnych oraz byłego Urzędu Ochrony Państwa, wykonujących czynności operacyjno-rozpoznawcze,
+
+### 2)
+
+dane identyfikujące osoby, które udzieliły pomocy w zakresie czynności operacyjno-rozpoznawczych organom, służbom i instytucjom państwowym uprawnionym do ich wykonywania na podstawie ustawy,
+
+### 3)
+
+informacje niejawne uzyskane od organów innych państw lub organizacji międzynarodowych, jeżeli taki był warunek ich udostępnienia.
+
+### 3.
+
+Informacje niejawne stanowiące tajemnicę służbową podlegają ochronie w sposób określony ustawą przez okres:
+
+### 1)
+
+5 lat od daty wytworzenia - oznaczone klauzulą „poufne”,
+
+### 2)
+
+2 lat od daty wytworzenia - oznaczone klauzulą „zastrzeżone”.
+
+### 4.
+
+Osoba, o której mowa w art. 21 ust. 1, może:
+
+### 1)
+
+określić krótszy okres ochrony informacji niejawnych stanowiących tajemnicę służbową,
+
+### 2)
+
+po dokonaniu przeglądu materiałów zawierających informacje niejawne stanowiące tajemnicę służbową przedłużać okres ochrony tych informacji na kolejne okresy nie dłuższe niż 5 lat - dla oznaczonych klauzulą „poufne” i 2 lat - dla oznaczonych klauzulą „zastrzeżone”, nie dłużej jednak niż na okres do 20 lat od daty wytworzenia tych informacji.
+
+### 5.
+
+Rada Ministrów może określić, w drodze rozporządzenia, które spośród informacji niejawnych oznaczonych klauzulą „tajne” przestały stanowić tajemnicę państwową, jeżeli od ich powstania upłynęło co najmniej 20 lat, biorąc pod uwagę interesy obronności i bezpieczeństwa państwa oraz inne istotne interesy państwa.
+
+### 6.
+
+Uprawnienia osoby, o której mowa w art. 21 ust. 1, w zakresie przyznawania, zmiany lub znoszenia klauzuli tajności materiału oraz określania okresu, przez jaki informacja niejawna podlega ochronie, przechodzą, w przypadku rozwiązania, zniesienia, likwidacji, przekształcenia lub reorganizacji dotyczących stanowiska lub funkcji tej osoby, na jej następcę prawnego. W razie braku następcy prawnego uprawnienia w tym zakresie przechodzą na właściwą służbę ochrony państwa.
+
+” ;
+
+### 11)
+
+w art. 26:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kierownik jednostki organizacyjnej określi stanowiska oraz rodzaje prac zleconych, z którymi może łączyć się dostęp do informacji niejawnych, odrębnie dla każdej klauzuli tajności.
+
+” ,
+
+### b)
+
+uchyla się ust. 2;
+
+### 12)
+
+w art. 27 dodaje się ust. 10 w brzmieniu:
+
+„
+
+### 10.
+
+Udostępnianie informacji niejawnych sędziom i asesorom sądowym pełniącym czynności sędziowskie oraz prokuratorom i asesorom prokuratury pełniącym czynności prokuratorskie regulują przepisy o ustroju sądów powszechnych, o ustroju sądów wojskowych oraz o prokuraturze.
+
+” ;
+
+### 13)
+
+w art. 28:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+nieposiadające obywatelstwa polskiego, chyba że przepisy ustawy stanowią inaczej,
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Jeżeli z zawartych przez Rzeczpospolitą Polską umów międzynarodowych wynika, na zasadzie wzajemności, obowiązek dopuszczenia do informacji niejawnych obywateli obcych państw mających wykonywać w Rzeczypospolitej Polskiej pracę w interesie innego państwa lub organizacji międzynarodowej, postępowania sprawdzającego nie przeprowadza się.
+
+” ;
+
+### 14)
+
+w art. 29 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+wobec żołnierzy pozostających w służbie czynnej i pracowników wojska,
+
+” ;
+
+### 15)
+
+po art. 29 dodaje się art. 29a w brzmieniu:
+
+„
+
+### Art. 29a.
+
+Służba ochrony państwa przeprowadza postępowanie sprawdzające, o którym mowa w art. 36 ust. 1, wobec osób, które na mocy umów międzynarodowych zawartych przez Rzeczpospolitą Polską mają obowiązek uzyskania poświadczeń bezpieczeństwa upoważniających do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”, „tajne” lub „ściśle tajne”, z wyłączeniem osób sprawujących urzędy Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu, Marszałka Senatu i Prezesa Rady Ministrów.
+
+” ;
+
+### 16)
+
+w art. 31 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Nie przeprowadza się postępowania sprawdzającego, jeżeli osoba, o której mowa w ust. 1, przedstawi odpowiednie poświadczenie bezpieczeństwa. Kierownik jednostki organizacyjnej informuje w terminie 7 dni organ, który wydał poświadczenie bezpieczeństwa, o zatrudnieniu osoby przedstawiającej to poświadczenie.
+
+” ;
+
+### 17)
+
+w art. 33:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1,
+
+### b)
+
+dodaje się ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „ściśle tajne” uprawnia do dostępu do informacji niejawnych oznaczonych klauzulą:
+
+### 1)
+
+„tajne” - przez okres 7 lat od daty wystawienia,
+
+### 2)
+
+„poufne” albo „zastrzeżone” - przez okres 10 lat od daty wystawienia.
+
+### 3.
+
+Poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „tajne” uprawnia do dostępu do informacji niejawnych oznaczonych klauzulą „poufne” albo „zastrzeżone” przez okres 10 lat od daty wystawienia.
+
+” ;
+
+### 18)
+
+w art. 36:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a-2e w brzmieniu:
+
+„
+
+### 2a.
+
+Poświadczenie bezpieczeństwa wydaje się na okres:
+
+### 1)
+
+10 lat w przypadku dostępu do informacji niejawnych oznaczonych klauzulą „zastrzeżone” lub „poufne”,
+
+### 2)
+
+7 lat w przypadku dostępu do informacji niejawnych oznaczonych klauzulą „tajne”,
+
+### 3)
+
+5 lat w przypadku dostępu do informacji niejawnych oznaczonych klauzulą „ściśle tajne”.
+
+### 2b.
+
+Służba ochrony państwa lub pełnomocnik ochrony umarzają postępowanie sprawdzające w przypadku:
+
+### 1)
+
+śmierci osoby sprawdzanej,
+
+### 2)
+
+rezygnacji osoby sprawdzanej z ubiegania się albo zajmowania stanowiska lub wykonywania pracy, łączących się z dostępem do informacji niejawnych,
+
+### 3)
+
+odstąpienia przez kierownika jednostki organizacyjnej od zamiaru obsadzenia osoby sprawdzanej na stanowisku lub zlecenia jej prac związanych z dostępem do informacji niejawnych.
+
+### 2c.
+
+Służba ochrony państwa lub pełnomocnik ochrony mogą zawiesić postępowanie sprawdzające w przypadku:
+
+### 1)
+
+długotrwałej choroby osoby sprawdzanej, uniemożliwiającej skuteczne przeprowadzenie postępowania sprawdzającego,
+
+### 2)
+
+wyjazdu za granicę osoby sprawdzanej na okres przekraczający 30 dni,
+
+### 3)
+
+wszczęcia przeciwko osobie sprawdzanej postępowania karnego w sprawie o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego.
+
+### 2d.
+
+W przypadku umorzenia postępowania sprawdzającego służba ochrony państwa lub pełnomocnik ochrony zawiadamiają wnioskodawcę oraz, w przypadkach, o których mowa w ust. 2b pkt 2 i 3, osobę sprawdzaną. W przypadku zawieszenia postępowania służba ochrony państwa lub pełnomocnik ochrony zawiadamiają wnioskodawcę i osobę sprawdzaną.
+
+### 2e.
+
+Zawieszone postępowanie podejmuje się po uzyskaniu informacji o zakończeniu choroby, powrocie z zagranicy lub prawomocnym zakończeniu postępowania karnego. O podjęciu postępowania służba ochrony państwa lub pełnomocnik ochrony zawiadamiają wnioskodawcę i osobę sprawdzaną.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzory:
+
+### 1)
+
+poświadczenia bezpieczeństwa,
+
+### 2)
+
+decyzji o odmowie wydania poświadczenia bezpieczeństwa,
+
+### 3)
+
+decyzji o cofnięciu poświadczenia bezpieczeństwa.
+
+” ,
+
+### c)
+
+w ust. 4:
+
+- - zdanie wstępne otrzymuje brzmienie: „ Poświadczenie bezpieczeństwa, decyzja o odmowie wydania poświadczenia bezpieczeństwa oraz decyzja o cofnięciu poświadczenia bezpieczeństwa powinny zawierać odpowiednio: ” ,
+
+- - pkt 7 otrzymuje brzmienie: „ 7) stwierdzenie wydania poświadczenia bezpieczeństwa lub odmowy jego wydania bądź cofnięcia, ” ,
+
+### d)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Decyzja o odmowie wydania poświadczenia bezpieczeństwa i decyzja o jego cofnięciu powinny zawierać także uzasadnienie faktyczne i prawne. Można odstąpić od uzasadnienia faktycznego lub je ograniczyć w zakresie, w jakim udostępnienie informacji osobie sprawdzanej mogłoby spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej, dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa.
+
+” ,
+
+### e)
+
+uchyla się ust. 5;
+
+### 19)
+
+art. 37-39 otrzymują brzmienie:
+
+„
+
+### Art. 37.
+
+### 1.
+
+Zwykłe postępowania sprawdzające przeprowadza, z zastrzeżeniem ust. 2 i 3 oraz art. 76 ust. 3, pełnomocnik ochrony na pisemne polecenie kierownika jednostki organizacyjnej.
+
+### 2.
+
+Służba ochrony państwa przeprowadza zwykłe postępowania sprawdzające wobec kandydatów na pełnomocników ochrony i pełnomocników ochrony w jednostkach organizacyjnych na pisemny wniosek osoby upoważnionej do obsady stanowiska, zgodnie z właściwością określoną w art. 29.
+
+### 3.
+
+Służba ochrony państwa przeprowadza zwykłe postępowania sprawdzające wobec osób innych niż wymienione w ust. 2, gdy obowiązek taki wynika z umowy międzynarodowej zawartej przez Rzeczpospolitą Polską.
+
+### 4.
+
+Zwykłe postępowanie sprawdzające obejmuje:
+
+### 1)
+
+sprawdzenie, w niezbędnym zakresie, w ewidencjach, rejestrach i kartotekach, a w szczególności w Krajowym Rejestrze Karnym oraz Centralnym Zarządzie Służby Więziennej, danych zawartych w wypełnionej i podpisanej przez osobę sprawdzaną ankiecie bezpieczeństwa osobowego, zwanej dalej „ankietą”, której wzór wraz z instrukcją jej wypełnienia stanowi załącznik nr 2; ankietę po wypełnieniu oznacza się odpowiednią klauzulą tajności,
+
+### 2)
+
+sprawdzenie, na pisemny wniosek pełnomocnika ochrony, przez odpowiednie służby ochrony państwa, w ewidencjach i kartotekach niedostępnych powszechnie, zawartych w ankiecie danych dotyczących osoby kandydującej lub zajmującej stanowisko związane z dostępem do informacji niejawnych, oznaczonych klauzulą „poufne”,
+
+### 3)
+
+rozmowę z osobą sprawdzaną, jeżeli jest to konieczne na podstawie uzyskanych informacji,
+
+### 4)
+
+sprawdzenie akt stanu cywilnego dotyczących osoby sprawdzanej.
+
+### 5.
+
+W toku sprawdzeń, o których mowa w ust. 4 pkt 2, służby ochrony państwa mają prawo przeprowadzić rozmowę z osobą sprawdzaną w celu usunięcia nieścisłości lub sprzeczności zawartych w uzyskanych informacjach.
+
+### 6.
+
+Służby ochrony państwa przekazują pełnomocnikowi ochrony pisemną informację o wynikach czynności, o których mowa w ust. 4 pkt 2.
+
+### 7.
+
+Po zakończeniu zwykłego postępowania sprawdzającego z wynikiem pozytywnym pełnomocnik ochrony lub służba ochrony państwa, w przypadkach postępowań określonych w ust. 2 i 3, wydają poświadczenie bezpieczeństwa i przekazują je osobie sprawdzanej, zawiadamiając o tym osobę upoważnioną do obsady stanowiska. W przypadku negatywnego wyniku zwykłego postępowania sprawdzającego pełnomocnik ochrony lub służba ochrony państwa, w przypadkach postępowań określonych w ust. 2 i 3, odmawiają wydania poświadczenia bezpieczeństwa i doręczają decyzję o odmowie wydania poświadczenia bezpieczeństwa osobie sprawdzanej, zawiadamiając o tym osobę upoważnioną do obsady stanowiska.
+
+### 8.
+
+Pełnomocnik ochrony lub służba ochrony państwa, w przypadkach postępowań określonych w ust. 2 i 3, odmawiają wydania poświadczenia bezpieczeństwa, jeżeli osoba sprawdzana świadomie podała w ankiecie nieprawdziwe lub niepełne dane, albo gdy nie zostaną usunięte wątpliwości, o których mowa w art. 35 ust. 2.
+
+### 9.
+
+Pełnomocnik ochrony lub służba ochrony państwa, w przypadkach postępowań określonych w ust. 2 i 3, mogą odmówić wydania poświadczenia bezpieczeństwa, jeżeli osoba sprawdzana została skazana prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego, także popełnione za granicą.
+
+### Art. 38.
+
+### 1.
+
+Poszerzone postępowanie sprawdzające prowadzi właściwa służba ochrony państwa na pisemny wniosek osoby upoważnionej do obsady stanowiska. Postępowanie to obejmuje:
+
+### 1)
+
+czynności, o których mowa w art. 37 ust. 4 pkt 1 i 3,
+
+### 2)
+
+sprawdzenie w ewidencjach i kartotekach niedostępnych powszechnie danych zawartych w ankiecie,
+
+### 3)
+
+przeprowadzenie wywiadu w miejscu zamieszkania osoby sprawdzanej, jeżeli jest to konieczne w celu potwierdzenia danych zawartych w ankiecie,
+
+### 4)
+
+rozmowę z przełożonymi osoby sprawdzanej oraz z innymi osobami, jeżeli jest to konieczne na podstawie uzyskanych informacji o osobie sprawdzanej,
+
+### 5)
+
+w uzasadnionych przypadkach sprawdzenie stanu i obrotów na rachunku bankowym w trybie art. 105 ust. 1 pkt 2 lit. k) ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727.](#gloss-0:4:)) oraz zadłużenia osoby sprawdzanej, a w szczególności wobec Skarbu Państwa, jeżeli jest to konieczne w celu sprawdzenia danych zawartych w ankiecie; przepisy art. 82 § 1 i 2 oraz art. 182 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html)) oraz art. 33 ust. 1 ustawy z dnia 28 września 1991 r. o kontroli skarbowej ([Dz. U. z 2004 r. Nr 8, poz. 65](https://api.sejm.gov.pl/eli/acts/DU/2004/65/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808.](#gloss-0:5:)) stosuje się odpowiednio.
+
+### 2.
+
+Wywiad, o którym mowa w ust. 1 pkt 3, przeprowadzają służby ochrony państwa i stosują w tym zakresie odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461 i Nr 77, poz. 680.](#gloss-0:6:)) i wydane na jego podstawie przepisy dotyczące wywiadu środowiskowego.
+
+### Art. 39.
+
+Specjalne postępowanie sprawdzające prowadzi właściwa służba ochrony państwa na pisemny wniosek osoby upoważnionej do obsady stanowiska. Postępowanie to obejmuje czynności, o których mowa w art. 37 ust. 4 pkt 1 i w art. 38 ust. 1 pkt 2-5, a ponadto:
+
+### 1)
+
+rozmowę z osobą sprawdzaną,
+
+### 2)
+
+rozmowę z trzema osobami wskazanymi przez osobę sprawdzaną w celu potwierdzenia tożsamości tej osoby oraz innych informacji o osobie sprawdzanej.
+
+” ;
+
+### 20)
+
+w art. 40 ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Do poszerzonego i specjalnego postępowania sprawdzającego przepisy art. 37 ust. 7 stosuje się odpowiednio.
+
+### 4.
+
+Służba ochrony państwa odmawia wydania poświadczenia bezpieczeństwa, jeżeli osoba sprawdzana świadomie podała w ankiecie nieprawdziwe lub niepełne dane albo gdy nie zostaną usunięte wątpliwości, o których mowa w art. 35 ust. 2 i 3.
+
+” ;
+
+### 21)
+
+art. 42 otrzymuje brzmienie:
+
+„
+
+### Art. 42.
+
+### 1.
+
+Wszystkie czynności przeprowadzone w toku postępowań sprawdzających muszą być rzetelnie udokumentowane i powinny być zakończone przed upływem:
+
+### 1)
+
+2 miesięcy - od daty pisemnego polecenia przeprowadzenia zwykłego postępowania sprawdzającego lub złożenia wniosku o przeprowadzenie zwykłego postępowania sprawdzającego wraz z wypełnioną ankietą,
+
+### 2)
+
+2 miesięcy - od daty złożenia wniosku o przeprowadzenie poszerzonego postępowania sprawdzającego wraz z wypełnioną ankietą,
+
+### 3)
+
+3 miesięcy - od daty złożenia wniosku o przeprowadzenie specjalnego postępowania sprawdzającego wraz z wypełnioną ankietą.
+
+### 2.
+
+Akta zakończonych postępowań sprawdzających są przechowywane jako wyodrębniona część w archiwach służb, które przeprowadziły te postępowania, i mogą być udostępniane wyłącznie na pisemne żądanie:
+
+### 1)
+
+sądowi lub prokuratorowi dla celów postępowania karnego,
+
+### 2)
+
+służbom ochrony państwa dla celów postępowania sprawdzającego oraz potwierdzenia faktu wydania poświadczenia bezpieczeństwa,
+
+### 3)
+
+Prezesowi Rady Ministrów, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, Szefowi Wojskowych Służb Informacyjnych, Komendantowi Głównemu Policji, Komendantowi Głównemu Żandarmerii Wojskowej, Komendantowi Głównemu Straży Granicznej lub Dyrektorowi Generalnemu Służby Więziennej w celu rozpatrzenia odwołania,
+
+### 4)
+
+sądowi administracyjnemu w związku z rozpatrywaniem skargi.
+
+### 3.
+
+Akta zakończonych postępowań sprawdzających, prowadzonych w odniesieniu do osób ubiegających się o stanowisko lub zlecenie pracy, z którymi łączy się dostęp do informacji niejawnych stanowiących tajemnicę służbową, są przechowywane przez pełnomocnika ochrony i są udostępniane do wglądu wyłącznie na pisemne żądanie:
+
+### 1)
+
+osobie sprawdzanej,
+
+### 2)
+
+sądowi lub prokuratorowi dla celów postępowania karnego,
+
+### 3)
+
+Prezesowi Rady Ministrów, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, Szefowi Wojskowych Służb Informacyjnych, Komendantowi Głównemu Policji, Komendantowi Głównemu Żandarmerii Wojskowej, Komendantowi Głównemu Straży Granicznej lub Dyrektorowi Generalnemu Służby Więziennej w celu rozpatrzenia odwołania,
+
+### 4)
+
+sądowi administracyjnemu w związku z rozpatrywaniem skargi,
+
+### 5)
+
+osobie upoważnionej do obsady stanowiska, pełnomocnikom ochrony lub właściwym służbom ochrony państwa dla celów postępowania sprawdzającego lub kontroli, o której mowa w art. 14 ust. 1 pkt 1.
+
+### 4.
+
+W przypadku rozwiązania, zniesienia, likwidacji, przekształcenia lub reorganizacji jednostki organizacyjnej akta, o których mowa w ust. 3, przejmuje jej następca prawny, a w jego braku - właściwa służba ochrony państwa.
+
+### 5.
+
+Służby ochrony państwa, każda w zakresie swojego działania, prowadzą ewidencje osób, które uzyskały poświadczenie bezpieczeństwa, a także osób, które zajmują stanowiska lub wykonują prace, z którymi łączy się dostęp do informacji niejawnych oznaczonych klauzulą „poufne” lub stanowiących tajemnicę państwową, oraz ewidencje osób, którym odmówiono wydania poświadczenia bezpieczeństwa, a także wobec których podjęto decyzję o cofnięciu poświadczenia bezpieczeństwa.
+
+### 6.
+
+Dane z ewidencji, o których mowa w ust. 5, mogą obejmować wyłącznie:
+
+### 1)
+
+w odniesieniu do osoby - jej imię i nazwisko, numer PESEL, imię ojca, datę i miejsce urodzenia, adres miejsca zamieszkania lub pobytu, nazwę i adres jednostki organizacyjnej, w której osoba jest zatrudniona, nazwę komórki organizacyjnej i stanowiska oraz sygnaturę akt postępowania sprawdzającego,
+
+### 2)
+
+w odniesieniu do stanowiska lub pracy zleconej - datę objęcia stanowiska lub rozpoczęcia pracy, określenie, z dostępem do jakich informacji niejawnych łączy się to stanowisko, datę wydania i numer poświadczenia bezpieczeństwa.
+
+### 7.
+
+Dane z ewidencji, o których mowa w ust. 5, są udostępniane wyłącznie na pisemne żądanie:
+
+### 1)
+
+sądowi lub prokuratorowi dla celów postępowania karnego,
+
+### 2)
+
+służbom ochrony państwa dla celów postępowania sprawdzającego oraz potwierdzenia faktu wydania poświadczenia bezpieczeństwa,
+
+### 3)
+
+Prezesowi Rady Ministrów, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, Szefowi Wojskowych Służb Informacyjnych, Komendantowi Głównemu Policji, Komendantowi Głównemu Żandarmerii Wojskowej, Komendantowi Głównemu Straży Granicznej lub Dyrektorowi Generalnemu Służby Więziennej w celu rozpatrzenia odwołania,
+
+### 4)
+
+sądowi administracyjnemu w związku z rozpatrywaniem skargi.
+
+Dane udostępnia szef właściwej służby ochrony państwa bądź upoważniony przez niego funkcjonariusz lub żołnierz.
+
+### 8.
+
+Udostępnianie akt umorzonych postępowań sprawdzających oraz danych zebranych w ich toku odbywa się odpowiednio na zasadach określonych w ust. 2, 3 i 7.
+
+” ;
+
+### 22)
+
+art. 44-47 otrzymują brzmienie:
+
+„
+
+### Art. 44.
+
+### 1.
+
+Na pisemny wniosek osoby upoważnionej do obsady stanowiska, złożony co najmniej na 6 miesięcy przed upływem terminu ważności poświadczenia bezpieczeństwa, służba ochrony państwa, organy i służby wymienione w art. 30 oraz pełnomocnicy ochrony, w przypadkach postępowań sprawdzających wymienionych w art. 37 ust. 1, przeprowadzają kolejne postępowanie sprawdzające.
+
+### 2.
+
+Kolejne postępowanie sprawdzające powinno być zakończone przed upływem terminu ważności poświadczenia bezpieczeństwa. W przypadku kolejnego postępowania sprawdzającego terminy, o których mowa w art. 42 ust. 1, nie mają zastosowania.
+
+### Art. 45.
+
+### 1.
+
+W przypadku gdy w odniesieniu do osoby, której wydano poświadczenie bezpieczeństwa, zostaną ujawnione nowe fakty wskazujące, że nie daje ona rękojmi zachowania tajemnicy, służby ochrony państwa lub pełnomocnik ochrony przeprowadzają kontrolne postępowanie sprawdzające z pominięciem terminów, o których mowa w art. 36 ust. 2a, i obowiązku wypełnienia nowej ankiety przez osobę sprawdzaną.
+
+### 2.
+
+O wszczęciu kontrolnego postępowania sprawdzającego, o którym mowa w ust. 1, służby ochrony państwa lub pełnomocnik ochrony zawiadamiają kierownika jednostki organizacyjnej lub osobę odpowiedzialną za obsadę stanowiska wraz z wnioskiem o ograniczenie lub wyłączenie dostępu do informacji niejawnych osobie sprawdzanej.
+
+### 3.
+
+Po otrzymaniu zawiadomienia, o którym mowa w ust. 2, kierownik jednostki organizacyjnej lub osoba odpowiedzialna za obsadę stanowiska informują osobę sprawdzaną o wszczęciu kontrolnego postępowania sprawdzającego oraz ograniczają lub wyłączają jej dostęp do informacji niejawnych.
+
+### Art. 46.
+
+Do kolejnego lub kontrolnego postępowania sprawdzającego stosuje się przepisy ustawy odnoszące się do właściwego postępowania sprawdzającego, z uwzględnieniem art. 47.
+
+### Art. 47.
+
+### 1.
+
+Kontrolne postępowanie sprawdzające prowadzone przez służbę ochrony państwa lub pełnomocnika ochrony, wszczęte na podstawie art. 45 ust. 1, kończy się:
+
+### 1)
+
+wydaniem decyzji o cofnięciu poświadczenia bezpieczeństwa albo
+
+### 2)
+
+poinformowaniem osób, o których mowa w art. 45 ust. 2, i osoby sprawdzanej, o braku zastrzeżeń w stosunku do osoby, którą objęto kontrolnym postępowaniem sprawdzającym, z jednoczesnym potwierdzeniem jej dalszej zdolności do zachowania tajemnicy w zakresie określonym w posiadanym przez nią poświadczeniu bezpieczeństwa.
+
+### 2.
+
+Do decyzji, o której mowa w ust. 1 pkt 1, stosuje się odpowiednio przepisy art. 41.
+
+### 3.
+
+Do kontrolnego postępowania sprawdzającego przepisy art. 36 ust. 2b-2e stosuje się odpowiednio.
+
+” ;
+
+### 23)
+
+w art. 48 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pełnomocnik ochrony jest obowiązany przekazać właściwej służbie ochrony państwa dane wymagane do ewidencji osób dopuszczonych do pracy lub służby na stanowiskach, z którymi wiąże się dostęp do informacji niejawnych stanowiących tajemnicę służbową oznaczonych klauzulą „poufne”, a także do ewidencji osób, którym odmówiono wydania poświadczenia bezpieczeństwa lub wobec których podjęto decyzję o cofnięciu poświadczenia bezpieczeństwa.
+
+” ;
+
+### 24)
+
+art. 48a otrzymuje brzmienie:
+
+„
+
+### Art. 48a.
+
+### 1.
+
+Od decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa służy osobie sprawdzanej odwołanie do Prezesa Rady Ministrów, z zastrzeżeniem art. 48i ust. 1.
+
+### 2.
+
+Odwołanie nie wymaga uzasadnienia.
+
+### 3.
+
+Odwołanie wnosi się w terminie 14 dni od dnia doręczenia osobie sprawdzanej decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa, za pośrednictwem właściwej służby ochrony państwa.
+
+” ;
+
+### 25)
+
+w art. 48b dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Do postępowania odwoławczego przepisy art. 36 ust. 2d oraz 2e stosuje się odpowiednio.
+
+” ;
+
+### 26)
+
+art. 48e i 48f otrzymują brzmienie:
+
+„
+
+### Art. 48e.
+
+### 1.
+
+Prezes Rady Ministrów umarza postępowanie odwoławcze w przypadku:
+
+### 1)
+
+śmierci osoby sprawdzanej lub
+
+### 2)
+
+cofnięcia odwołania przez osobę sprawdzaną przed wydaniem decyzji, o której mowa w art. 48f ust. 1.
+
+### 2.
+
+Prezes Rady Ministrów nie uwzględnia cofnięcia odwołania, jeżeli prowadziłoby to do naruszającego prawo lub interes bezpieczeństwa państwa utrzymania w mocy decyzji o odmowie wydania poświadczenia bezpieczeństwa.
+
+### Art. 48f.
+
+### 1.
+
+Prezes Rady Ministrów wydaje decyzję, w której:
+
+### 1)
+
+utrzymuje w mocy decyzję o odmowie wydania poświadczenia bezpieczeństwa lub decyzję o cofnięciu poświadczenia bezpieczeństwa albo
+
+### 2)
+
+uchyla decyzję o odmowie wydania poświadczenia bezpieczeństwa i nakazuje służbie ochrony państwa wydanie poświadczenia bezpieczeństwa, albo
+
+### 3)
+
+uchyla decyzję o cofnięciu poświadczenia bezpieczeństwa.
+
+### 2.
+
+Można odstąpić od uzasadnienia faktycznego decyzji lub je ograniczyć w zakresie, w jakim udostępnienie informacji osobie sprawdzanej mogłoby spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa.
+
+” ;
+
+### 27)
+
+art. 48h otrzymuje brzmienie:
+
+„
+
+### Art. 48h.
+
+Decyzje i postanowienia doręcza się na piśmie osobie sprawdzanej i właściwej służbie ochrony państwa, zawiadamiając o rozstrzygnięciu zawartym w decyzji lub postanowieniu osobę upoważnioną do obsady stanowiska.
+
+” ;
+
+### 28)
+
+w art. 48i ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Od wydanej przez pełnomocnika ochrony decyzji o odmowie wydania poświadczenia bezpieczeństwa lub decyzji o cofnięciu poświadczenia bezpieczeństwa - osobie sprawdzanej służy odwołanie odpowiednio do Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Wojskowych Służb Informacyjnych.
+
+” ;
+
+### 29)
+
+art. 48j otrzymuje brzmienie:
+
+„
+
+### Art. 48j.
+
+Osobie sprawdzanej przysługuje skarga do sądu administracyjnego na decyzję utrzymującą w mocy decyzję o odmowie wydania poświadczenia bezpieczeństwa lub decyzję o cofnięciu poświadczenia bezpieczeństwa oraz na postanowienie, o którym mowa w art. 48c ust. 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html) oraz z [2004 r. Nr 162, poz. 1692](https://api.sejm.gov.pl/eli/acts/DU/2004/1692/text.html)).
+
+” ;
+
+### 30)
+
+w art. 48m pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+służby ochrony państwa stosuje się do Policji, Żandarmerii Wojskowej, Straży Granicznej, Agencji Wywiadu lub Służby Więziennej,
+
+### 2)
+
+Szefa Agencji Bezpieczeństwa Wewnętrznego lub Szefa Wojskowych Służb Informacyjnych stosuje się do Szefa Agencji Wywiadu, Komendanta Głównego Policji, Komendanta Głównego Żandarmerii Wojskowej, Komendanta Głównego Straży Granicznej lub Dyrektora Generalnego Służby Więziennej.
+
+” ;
+
+### 31)
+
+art. 49 otrzymuje brzmienie:
+
+„
+
+### Art. 49.
+
+### 1.
+
+Szef Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu lub Prezesa Rady Ministrów albo minister właściwy dla określonego działu administracji rządowej, Prezes Narodowego Banku Polskiego lub kierownik urzędu centralnego, a w przypadku ich braku właściwa służba ochrony państwa, może wyrazić pisemną zgodę na udostępnienie informacji niejawnych stanowiących tajemnicę państwową osobie lub jednostce organizacyjnej, wobec której wszczęto postępowanie sprawdzające. Odpis zgody przekazuje się właściwej służbie ochrony państwa.
+
+### 2.
+
+Zgodę na udostępnienie informacji niejawnych stanowiących tajemnicę służbową osobie, wobec której wszczęto zwykłe postępowanie sprawdzające, może wyrazić - w formie pisemnej - kierownik jednostki organizacyjnej, w której ta osoba jest zatrudniona lub wykonuje prace zlecone.
+
+### 3.
+
+W wyjątkowych, szczególnie uzasadnionych przypadkach, z zastrzeżeniem art. 4 ust. 1, podmioty, o których mowa w ust. 1 i 2, mogą wyrazić pisemną zgodę na jednorazowe udostępnienie określonych informacji niejawnych osobie nieposiadającej odpowiedniego poświadczenia bezpieczeństwa lub jednostce organizacyjnej nieposiadającej świadectwa bezpieczeństwa przemysłowego.
+
+### 4.
+
+Wyrażenie zgody na udostępnienie informacji niejawnych określa zakres podmiotowy i przedmiotowy udostępnienia oraz nie oznacza zmiany lub zniesienia ich klauzuli tajności.
+
+” ;
+
+### 32)
+
+w art. 50 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Jednostka organizacyjna, w której są wytwarzane, przetwarzane, przekazywane lub przechowywane dokumenty zawierające informacje niejawne oznaczone klauzulą „poufne” lub stanowiące tajemnicę państwową, ma obowiązek zorganizowania kancelarii, zwanej dalej „kancelarią tajną”. W przypadku uzasadnionym względami organizacyjnymi kierownik jednostki organizacyjnej może utworzyć więcej niż jedną kancelarię tajną.
+
+” ;
+
+### 33)
+
+art. 51 otrzymuje brzmienie:
+
+„
+
+### Art. 51.
+
+W kancelarii tajnej dokumenty o różnych klauzulach powinny być fizycznie od siebie oddzielone i obsługiwane przez osobę posiadającą poświadczenie bezpieczeństwa odpowiednie do najwyższej klauzuli wytwarzanych, przetwarzanych, przekazywanych lub przechowywanych w kancelarii dokumentów.
+
+” ;
+
+### 34)
+
+po art. 52 dodaje się art. 52a w brzmieniu:
+
+„
+
+### Art. 52a.
+
+### 1.
+
+W jednostkach organizacyjnych, o których mowa w art. 1 ust. 2 pkt 2, dopuszcza się organizowanie innych niż kancelaria tajna komórek organizacyjnych odpowiedzialnych za rejestrowanie, przechowywanie, obieg i udostępnianie materiałów niejawnych.
+
+### 2.
+
+Do komórek organizacyjnych, o których mowa w ust. 1, przepisy art. 51 i 52 stosuje się odpowiednio.
+
+” ;
+
+### 35)
+
+art. 53 otrzymuje brzmienie:
+
+„
+
+### Art. 53.
+
+### 1.
+
+Rada Ministrów określi, w drodze rozporządzenia, wymagania w zakresie organizacji i funkcjonowania kancelarii tajnych. Rozporządzenie powinno określać:
+
+### 1)
+
+strukturę organizacyjną kancelarii, z uwzględnieniem możliwości tworzenia jej oddziałów,
+
+### 2)
+
+podstawowe zadania kierownika kancelarii,
+
+### 3)
+
+zakres i warunki stosowania środków ochrony fizycznej, z uwzględnieniem klauzul tajności przechowywanych przez kancelarię dokumentów,
+
+### 4)
+
+tryb obiegu informacji niejawnych,
+
+### 5)
+
+wzór karty zapoznania z dokumentem.
+
+### 2.
+
+Ministrowie właściwi do spraw: wewnętrznych, administracji publicznej, zagranicznych, finansów publicznych, budżetu i instytucji finansowych, Minister Sprawiedliwości, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, Szefowie Kancelarii: Prezydenta Rzeczypospolitej Polskiej, Sejmu, Senatu oraz Prezesa Rady Ministrów, Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Komendant Główny Policji, Komendant Główny Straży Granicznej, Szef Biura Ochrony Rządu, a także Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu określą, w drodze zarządzenia, każdy w zakresie swojego działania, szczególny sposób organizacji kancelarii tajnych, stosowania środków ochrony fizycznej oraz obiegu informacji niejawnych.
+
+### 3.
+
+Minister Obrony Narodowej określi, w drodze zarządzenia, szczególny sposób organizacji kancelarii tajnych oraz komórek organizacyjnych, o których mowa w art. 52a ust. 1, stosowania środków ochrony fizycznej oraz obiegu informacji niejawnych.
+
+### 4.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb i sposób przyjmowania, przewożenia, wydawania i ochrony materiałów w celu ich zabezpieczenia przed nieuprawnionym ujawnieniem, utratą, uszkodzeniem lub zniszczeniem.
+
+” ;
+
+### 36)
+
+w art. 54:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+funkcjonariusze i żołnierze służb ochrony państwa - w stosunku do osób, o których mowa w art. 27 ust. 3-8, a także w stosunku do pełnomocników ochrony i ich zastępców,
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Szkolenie uzupełniające pełnomocników ochrony i ich zastępców przeprowadza się nie rzadziej niż co 5 lat.
+
+” ;
+
+### 37)
+
+art. 55 otrzymuje brzmienie:
+
+„
+
+### Art. 55.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzory zaświadczeń stwierdzających odbycie szkolenia w zakresie ochrony informacji niejawnych, z uwzględnieniem odrębności wynikających z wydawania zaświadczeń przez służby ochrony państwa i pełnomocników ochrony.
+
+” ;
+
+### 38)
+
+rozdział 10 „Bezpieczeństwo systemów i sieci teleinformatycznych” otrzymuje brzmienie:
+
+„
+
+### Rozdział 10 Bezpieczeństwo systemów i sieci teleinformatycznych
+
+### Art. 60.
+
+### 1.
+
+Systemy i sieci teleinformatyczne, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne, podlegają akredytacji bezpieczeństwa teleinformatycznego przez służby ochrony państwa.
+
+### 2.
+
+Akredytacja, o której mowa w ust. 1, następuje na podstawie dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji.
+
+### 3.
+
+Urządzenia i narzędzia kryptograficzne, służące do ochrony informacji niejawnych stanowiących tajemnicę państwową lub tajemnicę służbową oznaczonych klauzulą „poufne”, podlegają badaniom i certyfikacji prowadzonym przez służby ochrony państwa.
+
+### 4.
+
+W wyniku badań i certyfikacji, o których mowa w ust. 3, służby ochrony państwa wydają wzajemnie uznawane certyfikaty ochrony kryptograficznej.
+
+### 5.
+
+Wytwarzanie, przetwarzanie, przechowywanie lub przekazywanie informacji niejawnych stanowiących tajemnicę państwową, odpowiednio do ich klauzuli tajności, jest dopuszczalne po uzyskaniu certyfikatu akredytacji bezpieczeństwa teleinformatycznego dla systemu lub sieci teleinformatycznej, wydanego przez właściwą służbę ochrony państwa.
+
+### 6.
+
+Certyfikat, o którym mowa w ust. 5, wydaje się na podstawie:
+
+### 1)
+
+przeprowadzonych zgodnie z ustawą postępowań sprawdzających wobec osób mających dostęp do systemu lub sieci teleinformatycznej,
+
+### 2)
+
+zatwierdzonych przez właściwą służbę ochrony państwa dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji,
+
+### 3)
+
+audytu bezpieczeństwa systemu lub sieci teleinformatycznej, polegającego na weryfikacji poprawności realizacji wymagań i procedur, określonych w dokumentach szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji.
+
+### 7.
+
+Szef właściwej służby ochrony państwa po zapoznaniu się z wynikiem analizy ryzyka dla bezpieczeństwa informacji niejawnych może, bez spełnienia niektórych wymagań w zakresie ochrony fizycznej, elektromagnetycznej lub kryptograficznej, dokonać, na czas określony, nie dłuższy jednak niż na 2 lata, akredytacji bezpieczeństwa teleinformatycznego systemu lub sieci teleinformatycznej, którym przyznano określoną klauzulę tajności, w przypadku gdy brak możliwości ich eksploatacji powodowałby zagrożenie dla porządku publicznego, obronności, bezpieczeństwa albo interesów międzynarodowych państwa.
+
+### 8.
+
+Kierownicy jednostek organizacyjnych organów uprawnionych do prowadzenia na mocy odrębnych przepisów czynności operacyjno-rozpoznawczych mogą podjąć decyzję o eksploatacji środków technicznych umożliwiających uzyskiwanie, przetwarzanie, przechowywanie i przekazywanie w sposób tajny informacji oraz utrwalanie dowodów, bez konieczności spełnienia wymagań określonych w ust. 1 i 3 oraz 5 i 6, w przypadkach gdy ich spełnienie uniemożliwiałoby lub w znacznym stopniu utrudniałoby realizację czynności operacyjnych.
+
+### Art. 61.
+
+### 1.
+
+Dokumenty szczególnych wymagań bezpieczeństwa systemu lub sieci teleinformatycznej powinny być kompletnym i wyczerpującym opisem ich budowy, zasad działania i eksploatacji. Dokumenty te opracowuje się w fazie projektowania, bieżąco uzupełnia w fazie wdrażania i modyfikuje w fazie eksploatacji przed dokonaniem zmian w systemie lub sieci teleinformatycznej.
+
+### 2.
+
+Procedury bezpiecznej eksploatacji opracowuje się i uzupełnia w fazie wdrażania oraz modyfikuje w fazie eksploatacji przed dokonaniem zmian w systemie lub sieci teleinformatycznej.
+
+### 3.
+
+Dokumenty, o których mowa w ust. 1, oraz procedury, o których mowa w ust. 2, opracowuje oraz przekazuje służbie ochrony państwa kierownik jednostki organizacyjnej, który jest także odpowiedzialny za eksploatację i bezpieczeństwo systemu lub sieci teleinformatycznej.
+
+### 4.
+
+Dokumenty szczególnych wymagań bezpieczeństwa oraz procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne stanowiące tajemnicę państwową, są w każdym przypadku indywidualnie zatwierdzane przez właściwą służbę ochrony państwa w terminie 30 dni od dnia ich otrzymania.
+
+### 5.
+
+Dokumenty szczególnych wymagań bezpieczeństwa oraz procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych, w których mają być wytwarzane, przetwarzane, przechowywane lub przekazywane informacje niejawne stanowiące tajemnicę służbową, są przedstawiane właściwej służbie ochrony państwa. Niewniesienie zastrzeżeń przez służbę ochrony państwa do tych wymagań, w terminie 30 dni od dnia ich przedstawienia, uprawnia do przejścia do kolejnej fazy budowy systemu lub sieci teleinformatycznej, o której mowa w ust. 1.
+
+### Art. 62.
+
+### 1.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, podstawowe wymagania bezpieczeństwa teleinformatycznego, jakim powinny odpowiadać systemy i sieci teleinformatyczne służące do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych, oraz sposób opracowywania dokumentów szczególnych wymagań bezpieczeństwa i procedur bezpiecznej eksploatacji tych systemów i sieci.
+
+### 2.
+
+W rozporządzeniu, o którym mowa w ust. 1, określa się w szczególności podstawowe wymagania bezpieczeństwa teleinformatycznego w zakresie ochrony fizycznej, elektromagnetycznej, kryptograficznej, niezawodności transmisji, kontroli dostępu w sieciach lub systemach teleinformatycznych służących do wytwarzania, przetwarzania, przechowywania lub przekazywania informacji niejawnych. W dokumentach szczególnych wymagań bezpieczeństwa określa się środki ochrony kryptograficznej, elektromagnetycznej, technicznej i organizacyjnej systemu lub sieci teleinformatycznej. Procedury bezpiecznej eksploatacji obejmują sposób i tryb postępowania w sprawach związanych z bezpieczeństwem informacji niejawnych oraz określają zakres odpowiedzialności użytkowników systemu lub sieci teleinformatycznych i pracowników mających do nich dostęp.
+
+### Art. 63.
+
+### 1.
+
+Za przeprowadzenie czynności, o których mowa w art. 60 ust. 3-6, pobiera się opłaty.
+
+### 2.
+
+Z opłat, o których mowa w ust. 1, są zwolnione jednostki organizacyjne będące jednostkami budżetowymi.
+
+### 3.
+
+Przedsiębiorcy obowiązani na podstawie odrębnych ustaw do wykonywania zadań publicznych na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego zwolnieni są z opłat za przeprowadzenie czynności, o których mowa w art. 60 ust. 5 i 6, w przypadku akredytacji bezpieczeństwa teleinformatycznego systemów i sieci teleinformatycznych niezbędnych do wykonania tych zadań.
+
+### 4.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, z uwzględnieniem kosztów ponoszonych na przeprowadzenie czynności, o których mowa w art. 60 ust. 3-6.
+
+### Art. 64.
+
+### 1.
+
+Kierownik jednostki organizacyjnej wyznacza:
+
+### 1)
+
+osobę lub zespół osób, odpowiedzialnych za funkcjonowanie systemów lub sieci teleinformatycznych oraz za przestrzeganie zasad i wymagań bezpieczeństwa systemów i sieci teleinformatycznych, zwane dalej „administratorem systemu”,
+
+### 2)
+
+pracownika lub pracowników pionu ochrony pełniących funkcje inspektorów bezpieczeństwa teleinformatycznego, odpowiedzialnych za bieżącą kontrolę zgodności funkcjonowania sieci lub systemu teleinformatycznego ze szczególnymi wymaganiami bezpieczeństwa oraz za kontrolę przestrzegania procedur bezpiecznej eksploatacji, o których mowa w art. 61 ust. 2.
+
+### 2.
+
+Służby ochrony państwa udzielają kierownikom jednostek organizacyjnych pomocy niezbędnej dla realizacji ich zadań, w szczególności wydając zalecenia w zakresie bezpieczeństwa teleinformatycznego.
+
+### 3.
+
+Stanowiska lub funkcje administratora systemu albo inspektora bezpieczeństwa teleinformatycznego mogą zajmować lub pełnić osoby określone w art. 18 ust. 5, posiadające poświadczenia bezpieczeństwa odpowiednie do klauzuli informacji wytwarzanych, przetwarzanych, przechowywanych lub przekazywanych w systemach lub sieciach teleinformatycznych, po odbyciu specjalistycznych szkoleń z zakresu bezpieczeństwa teleinformatycznego prowadzonych przez służby ochrony państwa.
+
+” ;
+
+### 39)
+
+rozdział 11 „Bezpieczeństwo przemysłowe” otrzymuje brzmienie:
+
+„
+
+### Rozdział 11 Bezpieczeństwo przemysłowe
+
+### Art. 65.
+
+Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, zamierzający ubiegać się, ubiegający się o zawarcie lub wykonujący umowę związaną z dostępem do informacji niejawnych, zwaną dalej „umową”, albo wykonujący na podstawie przepisów prawa zadania związane z dostępem do informacji niejawnych, mają obowiązek zapewnienia warunków do ochrony informacji niejawnych.
+
+### Art. 66.
+
+### 1.
+
+Dokumentem potwierdzającym zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony informacji niejawnych stanowiących tajemnicę państwową jest świadectwo bezpieczeństwa przemysłowego wydane po przeprowadzeniu postępowania sprawdzającego, zwanego dalej „postępowaniem bezpieczeństwa przemysłowego”.
+
+### 2.
+
+Postępowanie bezpieczeństwa przemysłowego przeprowadzają:
+
+### 1)
+
+Wojskowe Służby Informacyjne, jeżeli:
+
+### a)
+
+zlecającym umowę lub zadanie mają być Siły Zbrojne oraz jednostki organizacyjne podległe lub nadzorowane przez Ministra Obrony Narodowej,
+
+### b)
+
+wykonawcami umowy lub zadania mają być jednostki organizacyjne wymienione w lit. a),
+
+### 2)
+
+Agencja Bezpieczeństwa Wewnętrznego w innych przypadkach niż wymienione w pkt 1.
+
+### 3.
+
+Podział kompetencji określony w ust. 2 odnosi się również do:
+
+### 1)
+
+przedsiębiorców, jednostek naukowych lub badawczo-rozwojowych będących podwykonawcami tych umów lub zadań,
+
+### 2)
+
+postępowań sprawdzających, o których mowa w art. 37 ust. 2 i 3.
+
+### 4.
+
+W zależności od stopnia zdolności do ochrony informacji niejawnych stanowiących tajemnicę państwową o określonej klauzuli wydaje się świadectwo bezpieczeństwa przemysłowego odpowiednio:
+
+### 1)
+
+pierwszego stopnia - potwierdzające pełną zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji,
+
+### 2)
+
+drugiego stopnia - potwierdzające zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji, z wyłączeniem możliwości ich wytwarzania, przechowywania, przekazywania lub przetwarzania we własnych systemach i sieciach teleinformatycznych,
+
+### 3)
+
+trzeciego stopnia - potwierdzające zdolność przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej do ochrony tych informacji, z wyłączeniem możliwości ich wytwarzania, przechowywania, przekazywania lub przetwarzania w użytkowanych przez niego obiektach.
+
+### 5.
+
+Właściwa służba ochrony państwa nie przeprowadza postępowania bezpieczeństwa przemysłowego, jeżeli przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa przedstawią odpowiednie świadectwo bezpieczeństwa przemysłowego wydane przez drugą służbę ochrony państwa.
+
+### Art. 67.
+
+Służba ochrony państwa przeprowadza postępowanie wobec przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, sprawdzające zdolność do ochrony informacji niejawnych stanowiących tajemnicę służbową, tylko wtedy, gdy z umów międzynarodowych zawartych przez Rzeczpospolitą Polską lub z prawa wewnętrznego strony zlecającej umowę wynika obowiązek uzyskania świadectwa bezpieczeństwa przemysłowego upoważniającego do wykonywania umów związanych z dostępem do informacji niejawnych oznaczonych klauzulą „poufne” lub jej zagranicznym odpowiednikiem.
+
+### Art. 68.
+
+### 1.
+
+Właściwa służba ochrony państwa przeprowadza postępowanie bezpieczeństwa przemysłowego na wniosek przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, o których mowa w art. 1 ust. 2 pkt 5.
+
+### 2.
+
+We wniosku, o którym mowa w ust. 1, przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa określają stopień świadectwa bezpieczeństwa przemysłowego, o które ubiegają się, z uwzględnieniem klauzuli tajności.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się ankiety osób określonych w ust. 4 lub kopie posiadanych przez te osoby poświadczeń bezpieczeństwa wydanych przez służby ochrony państwa i kwestionariusz bezpieczeństwa przemysłowego, o którym mowa w art. 69.
+
+### 4.
+
+W toku postępowania bezpieczeństwa przemysłowego przeprowadza się postępowanie sprawdzające wobec:
+
+### 1)
+
+osoby lub osób, które u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej zajmują stanowisko kierownika jednostki organizacyjnej, o którym mowa w art. 18 ust. 1,
+
+### 2)
+
+osób zatrudnionych w pionie ochrony,
+
+### 3)
+
+administratora systemu, o ile podmiot wnioskujący będzie wytwarzał, przechowywał, przetwarzał lub przekazywał informacje niejawne stanowiące tajemnicę państwową we własnych systemach i sieciach teleinformatycznych,
+
+### 4)
+
+osób wskazanych w kwestionariuszu bezpieczeństwa przemysłowego, mających kierować wykonaniem umowy lub zadania albo uczestniczyć w ich bezpośredniej realizacji u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej,
+
+### 5)
+
+osób wskazanych w kwestionariuszu bezpieczeństwa przemysłowego, które w imieniu przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej uczestniczą w czynnościach zmierzających do zawarcia umowy.
+
+### 5.
+
+Do osób, o których mowa w ust. 4, z wyjątkiem osób zajmujących stanowisko pełnomocnika ochrony, pracownika pionu ochrony oraz administratora systemu, nie stosuje się wymogu posiadania obywatelstwa polskiego, o którym mowa w art. 28 ust. 1 pkt 1.
+
+### 6.
+
+W toku postępowania bezpieczeństwa przemysłowego sprawdzeniu podlegają:
+
+### 1)
+
+struktura kapitału oraz powiązania kapitałowe przedsiębiorcy,
+
+### 2)
+
+struktura organizacyjna przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej oraz ich władz i organów,
+
+### 3)
+
+sytuacja finansowa i źródła pochodzenia środków finansowych pozostających w dyspozycji podmiotów określonych w pkt 2,
+
+### 4)
+
+osoby zarządzające lub wchodzące w skład organów zarządzających albo kontrolnych przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, a także osoby działające z ich upoważnienia - na podstawie danych zawartych w rejestrach, ewidencjach, kartotekach, w tym niedostępnych powszechnie,
+
+### 5)
+
+system ochrony osób, materiałów i obiektów u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej, ze szczególnym uwzględnieniem elementów systemu ochrony informacji niejawnych.
+
+### 7.
+
+Do sprawdzenia, o którym mowa w ust. 6, stosuje się odpowiednio art. 14 ust. 3, z tym że przez sprawdzenie rękojmi zachowania tajemnicy należy rozumieć sprawdzenie zdolności finansowej i organizacyjnej do zapewnienia ochrony informacji niejawnych.
+
+### Art. 69.
+
+### 1.
+
+Sprawdzenie, o którym mowa w art. 68 ust. 6, prowadzi się na podstawie danych zawartych w wypełnionym przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową kwestionariuszu bezpieczeństwa przemysłowego.
+
+### 2.
+
+Kwestionariusz bezpieczeństwa przemysłowego zawiera w szczególności:
+
+### 1)
+
+dane identyfikujące podmiot podlegający sprawdzeniu, w tym jego status prawny,
+
+### 2)
+
+dane o strukturze kapitału i powiązaniach kapitałowych przedsiębiorcy,
+
+### 3)
+
+dane o sytuacji finansowej przedsiębiorcy,
+
+### 4)
+
+dane o strukturze organizacyjnej przedsiębiorcy,
+
+### 5)
+
+dane dotyczące osób, o których mowa w art. 68 ust. 6 pkt 4,
+
+### 6)
+
+dane o systemie ochrony przedsiębiorcy,
+
+### 7)
+
+wykaz pracowników posiadających poświadczenia bezpieczeństwa uprawniające do dostępu do informacji niejawnych stanowiących tajemnicę państwową,
+
+### 8)
+
+wykaz pracowników, którzy powinni być poddani poszerzonemu lub specjalnemu postępowaniu sprawdzającemu,
+
+### 9)
+
+wykaz osób, które ze strony przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej wykonują lub będą wykonywać funkcje związane z ochroną informacji niejawnych,
+
+### 10)
+
+podpis osoby upoważnionej do składania oświadczeń woli w imieniu przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej.
+
+### Art. 69a.
+
+Postępowanie bezpieczeństwa przemysłowego powinno być przeprowadzone bez zbędnej zwłoki i zakończone w terminie nie dłuższym niż 6 miesięcy od dnia przedłożenia wszystkich dokumentów niezbędnych do jego przeprowadzenia.
+
+### Art. 70.
+
+### 1.
+
+W przypadku pozytywnego wyniku postępowania, o którym mowa w art. 68 ust. 1, służba ochrony państwa wydaje świadectwo bezpieczeństwa przemysłowego, które zachowuje ważność od daty wydania przez okres:
+
+### 1)
+
+5 lat - w przypadku umów lub zadań, związanych z dostępem do informacji niejawnych oznaczonych klauzulą „ściśle tajne”,
+
+### 2)
+
+7 lat - w przypadku umów lub zadań, związanych z dostępem do informacji niejawnych oznaczonych klauzulą „tajne”,
+
+### 3)
+
+10 lat - w przypadku świadectwa bezpieczeństwa przemysłowego, wydanego w wyniku postępowania, o którym mowa w art. 67.
+
+### 2.
+
+W okresie ważności świadectwa bezpieczeństwa przemysłowego służba ochrony państwa może przeprowadzić z urzędu sprawdzenie, w zakresie określonym w art. 68 ust. 6 i 7, w celu ustalenia, czy przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa nie utracili zdolności do ochrony informacji niejawnych przed nieuprawnionym ujawnieniem.
+
+### Art. 71.
+
+### 1.
+
+Jednostka organizacyjna zlecająca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiących tajemnicę państwową, jest odpowiedzialna za wprowadzenie do umowy lub decyzji o zleceniu zadania instrukcji bezpieczeństwa przemysłowego, określającej:
+
+### 1)
+
+szczegółowe wymagania dotyczące ochrony informacji niejawnych stanowiących tajemnicę państwową, które zostaną przekazane przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej w związku z wykonywaniem umowy lub zadania, odpowiednie do ilości tych informacji, klauzuli tajności oraz liczby osób mających do nich dostęp,
+
+### 2)
+
+skutki oraz zakres odpowiedzialności wykonawcy umowy lub zadania z tytułu niewykonania lub nienależytego wykonania obowiązków wynikających z ustawy, a także nieprzestrzegania wymagań określonych w instrukcji bezpieczeństwa przemysłowego.
+
+### 2.
+
+W szczególności instrukcja bezpieczeństwa przemysłowego powinna określać:
+
+### 1)
+
+klauzule tajności poszczególnych materiałów lub rodzajów materiałów niejawnych, które zostaną wytworzone przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową w związku z wykonaniem umowy lub zadania,
+
+### 2)
+
+sposób postępowania z materiałami niejawnymi, które zostaną przekazane przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej lub przez niego wytworzone w związku z wykonaniem umowy lub zadania.
+
+### 3.
+
+Kierownik jednostki organizacyjnej, która zleca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiących tajemnicę państwową, wyznacza osobę odpowiedzialną za nadzorowanie, kontrolę i doradztwo w zakresie wykonywania przez przedsiębiorcę, jednostkę naukową lub badawczo-rozwojową obowiązku ochrony przekazanych im informacji niejawnych.
+
+### 4.
+
+Jeżeli w związku z wykonaniem umowy lub zadania zostaną wytworzone informacje niejawne, odpowiednią klauzulę tajności nadaje osoba, o której mowa w art. 21 ust. 1, zgodnie ze wskazaniami zawartymi w instrukcji bezpieczeństwa przemysłowego, a w przypadku ich braku, po uzgodnieniu z osobą, o której mowa w ust. 3.
+
+### 5.
+
+Jednostka organizacyjna zlecająca wykonanie umowy lub zadania, związanych z dostępem do informacji niejawnych stanowiących tajemnicę państwową, ma obowiązek:
+
+### 1)
+
+niezwłocznego informowania właściwej służby ochrony państwa o:
+
+### a)
+
+nazwie i adresie przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, którym zleca wykonanie umowy lub zadania,
+
+### b)
+
+przedmiocie umowy lub zadania,
+
+### c)
+
+najwyższej koniecznej klauzuli tajności informacji niejawnych, do których dostęp będzie wiązał się z wykonaniem umowy lub zadania,
+
+### d)
+
+naruszeniu przepisów o ochronie informacji niejawnych u przedsiębiorcy, w jednostce naukowej lub badawczo-rozwojowej, którym zlecono wykonanie umowy lub zadania,
+
+### e)
+
+zakończeniu wykonania umowy lub zadania,
+
+### 2)
+
+niezwłocznego przekazania właściwej służbie ochrony państwa:
+
+### a)
+
+kopii instrukcji bezpieczeństwa przemysłowego, o której mowa w ust. 1,
+
+### b)
+
+kopii świadectwa bezpieczeństwa przemysłowego przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, którym zlecono wykonanie umowy lub zadania.
+
+### Art. 71a.
+
+### 1.
+
+Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, w czasie trwania postępowania bezpieczeństwa przemysłowego, a także w okresie ważności świadectwa bezpieczeństwa przemysłowego, określonego w art. 70 ust. 1, mają obowiązek niezwłocznego informowania właściwej służby ochrony państwa o:
+
+### 1)
+
+zmianach danych zawartych w kwestionariuszu bezpieczeństwa przemysłowego,
+
+### 2)
+
+ogłoszeniu upadłości, likwidacji lub rozwiązaniu jednostki organizacyjnej albo zakończeniu przez nią działalności w innej formie,
+
+### 3)
+
+potrzebie zawarcia lub zawarciu umowy z podwykonawcą, związanej z dostępem do informacji niejawnych,
+
+### 4)
+
+wypowiedzeniu umowy,
+
+### 5)
+
+zakończeniu wykonania umowy lub zadania,
+
+### 6)
+
+zawarciu nowej umowy lub podjęciu wykonania nowego zadania związanych z dostępem do informacji niejawnych, ze szczególnym uwzględnieniem:
+
+### a)
+
+nazwy i adresu jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie,
+
+### b)
+
+przedmiotu umowy lub zadania,
+
+### c)
+
+najwyższej klauzuli tajności informacji niejawnych, do których dostęp będzie wiązał się z wykonaniem umowy lub zadania.
+
+### 2.
+
+Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, w czasie realizacji umowy albo zadania, mają obowiązek niezwłocznego informowania osoby, o której mowa w art. 71 ust. 3, o:
+
+### 1)
+
+zmianach w systemie ochrony informacji niejawnych,
+
+### 2)
+
+zmianach osób wykonujących umowę lub zadanie,
+
+### 3)
+
+potrzebie zlecenia podwykonawcy wykonania umowy związanej z dostępem do informacji niejawnych.
+
+### Art. 72.
+
+### 1.
+
+Świadome podanie nieprawdziwych danych lub zatajenie prawdziwych danych w kwestionariuszu bezpieczeństwa przemysłowego albo niewykonanie obowiązku wynikającego z art. 71a ust. 1 może stanowić podstawę do odmowy wydania świadectwa bezpieczeństwa przemysłowego.
+
+### 2.
+
+Utrata zdolności do ochrony informacji niejawnych stwierdzona w toku sprawdzenia, o którym mowa w art. 70 ust. 2, lub kontroli, o których mowa w art. 14 ust. 1 i art. 16, stanowi podstawę do cofnięcia świadectwa bezpieczeństwa przemysłowego, a niewykonanie obowiązku wynikającego z art. 71a ust. 1 może stanowić podstawę do cofnięcia świadectwa bezpieczeństwa przemysłowego.
+
+### 3.
+
+O cofnięciu świadectwa bezpieczeństwa przemysłowego służba ochrony państwa zawiadamia niezwłocznie jednostki organizacyjne, które zleciły przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej wykonanie umowy albo zadania.
+
+### 4.
+
+Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa mogą ponownie ubiegać się o wydanie świadectwa bezpieczeństwa przemysłowego w terminie nie krótszym niż rok od dnia doręczenia decyzji o jego cofnięciu.
+
+### Art. 72a.
+
+### 1.
+
+Od decyzji o odmowie wydania lub decyzji o cofnięciu świadectwa bezpieczeństwa przemysłowego przedsiębiorcy, jednostce naukowej lub badawczo-rozwojowej służy odwołanie do Prezesa Rady Ministrów.
+
+### 2.
+
+Do odwołania, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 5a z wyłączeniem przepisów art. 48b ust. 3, art. 48e ust. 1 pkt 1, art. 48i oraz art. 48m.
+
+### 3.
+
+W przypadku likwidacji przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej albo ogłoszenia upadłości przedsiębiorcy Prezes Rady Ministrów umarza postępowanie odwoławcze.
+
+### Art. 73.
+
+### 1.
+
+Świadectwo bezpieczeństwa przemysłowego, decyzja o odmowie wydania oraz decyzja o cofnięciu świadectwa bezpieczeństwa przemysłowego powinny zawierać:
+
+### 1)
+
+oznaczenie służby ochrony państwa, która wydała, odmówiła wydania bądź cofnęła świadectwo bezpieczeństwa przemysłowego,
+
+### 2)
+
+miejsce i datę wystawienia,
+
+### 3)
+
+nazwę podmiotu i adres jego siedziby,
+
+### 4)
+
+podstawę prawną,
+
+### 5)
+
+stwierdzenie wydania świadectwa bezpieczeństwa przemysłowego, odmowy wydania lub jego cofnięcia,
+
+### 6)
+
+w przypadku wydania świadectwa bezpieczeństwa przemysłowego - jego stopień, klauzulę tajności oraz termin ważności,
+
+### 7)
+
+imienną pieczęć i czytelny podpis upoważnionego funkcjonariusza albo żołnierza służby ochrony państwa.
+
+### 2.
+
+Decyzja o odmowie wydania oraz decyzja o cofnięciu świadectwa bezpieczeństwa przemysłowego powinny zawierać uzasadnienie faktyczne i prawne oraz pouczenie o dopuszczalności i terminie wniesienia:
+
+### 1)
+
+odwołania do Prezesa Rady Ministrów,
+
+### 2)
+
+skargi do sądu administracyjnego.
+
+### 3.
+
+Można odstąpić od uzasadnienia faktycznego decyzji lub je ograniczyć w zakresie, w jakim udostępnienie mogłoby spowodować istotne zagrożenie dla podstawowych interesów Rzeczypospolitej Polskiej dotyczących porządku publicznego, obronności, bezpieczeństwa, stosunków międzynarodowych lub gospodarczych państwa.
+
+### Art. 74.
+
+Rada Ministrów określi, w drodze rozporządzenia, wzory:
+
+### 1)
+
+kwestionariusza bezpieczeństwa przemysłowego,
+
+### 2)
+
+świadectw bezpieczeństwa przemysłowego,
+
+### 3)
+
+decyzji o odmowie wydania świadectwa bezpieczeństwa przemysłowego,
+
+### 4)
+
+decyzji o cofnięciu świadectwa bezpieczeństwa przemysłowego.
+
+### Art. 74a.
+
+### 1.
+
+Służby ochrony państwa pobierają opłaty za:
+
+### 1)
+
+przeprowadzenie postępowań bezpieczeństwa przemysłowego, o których mowa w art. 68 ust. 4,
+
+### 2)
+
+przeprowadzenie sprawdzeń, o których mowa w art. 68 ust. 6,
+
+### 3)
+
+przeprowadzenie postępowań sprawdzających, o których mowa w art. 37 ust. 2 i 3.
+
+### 2.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość i tryb pobierania opłat, o których mowa w ust. 1, z uwzględnieniem kosztów ponoszonych na przeprowadzenie czynności, o których mowa w art. 37 ust. 2 i 3 oraz art. 68 ust. 4 i 6.
+
+### Art. 75.
+
+### 1.
+
+Dane zgromadzone w postępowaniu, o którym mowa w art. 68 ust. 1, podlegają ochronie i mogą być wykorzystywane wyłącznie w celu określonym w ustawie, a ich przekazywanie i udostępnianie innym osobom jest zabronione.
+
+### 2.
+
+Dane, o których mowa w ust. 1, mogą być udostępniane przez służby ochrony państwa wyłącznie na żądanie sądu lub prokuratora dla celów postępowania karnego albo Prezydentowi Rzeczypospolitej Polskiej lub Prezesowi Rady Ministrów, gdy wymaga tego istotny interes Rzeczypospolitej Polskiej.
+
+### 3.
+
+Akta postępowań sprawdzających prowadzonych w odniesieniu do przedsiębiorców, jednostek naukowych lub badawczo-rozwojowych są przechowywane jako wyodrębniona część w archiwach służb ochrony państwa.
+
+### Art. 76.
+
+### 1.
+
+W przypadku gdy przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa zamierzają ubiegać się lub ubiegają się o wykonanie umowy albo zadań związanych z dostępem do informacji niejawnych stanowiących tajemnicę służbową, świadectwo bezpieczeństwa przemysłowego nie jest wymagane, z zastrzeżeniem art. 67. Przepisy art. 71 ust. 1-4 oraz art. 71a ust. 2 stosuje się odpowiednio.
+
+### 2.
+
+Przedsiębiorca, jednostka naukowa lub badawczo-rozwojowa, o których mowa w ust. 1, są obowiązani powołać pełnomocnika ochrony oraz spełniać inne wymagania ustawy w zakresie ochrony informacji niejawnych, stosownie do ich klauzuli tajności.
+
+### 3.
+
+Na wniosek przedsiębiorcy, jednostki naukowej lub badawczo-rozwojowej, o których mowa w ust. 1, zwykłe postępowanie sprawdzające wobec osób wymienionych w art. 68 ust. 4, z wyjątkiem osoby kandydata na pełnomocnika ochrony, może przeprowadzić pełnomocnik ochrony jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie, o których mowa w ust. 1. Wniosek składa się do kierownika jednostki organizacyjnej, która zleca wykonanie takiej umowy lub zadania.
+
+### 4.
+
+Szkolenie w zakresie ochrony informacji niejawnych osób, wobec których przeprowadzono postępowanie sprawdzające, o którym mowa w ust. 3, przeprowadza pełnomocnik ochrony jednostki organizacyjnej zawierającej umowę lub zlecającej zadanie, o których mowa w ust. 1.
+
+” ;
+
+### 40)
+
+załącznik nr 1 „Wykaz rodzajów informacji niejawnych stanowiących tajemnicę państwową” otrzymuje brzmienie określone w załączniku nr 1 do niniejszej ustawy;
+
+### 41)
+
+załącznik nr 2 „Ankieta bezpieczeństwa osobowego” otrzymuje brzmienie określone w załączniku nr 2 do niniejszej ustawy.
+
+### Art. 2.
+
+W ustawie z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi ([Dz. U. z 2002 r. Nr 49, poz. 447](https://api.sejm.gov.pl/eli/acts/DU/2002/447/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216, z 2004 r. Nr 64, poz. 594, Nr 91, poz. 871, Nr 96, poz. 959, Nr 116, poz. 1205, Nr 146, poz. 1546 i Nr 273, poz. 2703 oraz z 2005 r. Nr 62, poz. 551 i Nr 83, poz. 719.](#gloss-0:7:)) w art. 160 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Nie narusza obowiązku zachowania tajemnicy zawodowej oraz informacji poufnej złożenie zawiadomienia o popełnieniu przestępstwa oraz przekazanie informacji służbom ochrony państwa w związku z postępowaniami sprawdzającymi prowadzonymi na podstawie przepisów o ochronie informacji niejawnych.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 105 w ust. 1 w pkt 2 lit. k otrzymuje brzmienie:
+
+„
+
+### k)
+
+służb ochrony państwa, Agencji Wywiadu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej i ich posiadających pisemne upoważnienie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych,
+
+” ;
+
+### 2)
+
+po art. 105 dodaje się art. 105a w brzmieniu:
+
+„
+
+### Art. 105a.
+
+### 1.
+
+Przetwarzanie przez banki, inne instytucje ustawowo upoważnione do udzielania kredytów oraz instytucje utworzone na podstawie art. 105 ust. 4, informacji stanowiących tajemnicę bankową w zakresie dotyczącym osób fizycznych (konsumentów) może być wykonywane, z zastrzeżeniem art. 104, 105 i 106-106c, w celu oceny zdolności kredytowej i analizy ryzyka kredytowego.
+
+### 2.
+
+Instytucje, o których mowa w ust. 1, mogą, z zastrzeżeniem ust. 3, przetwarzać informacje stanowiące tajemnicę bankową w zakresie dotyczącym osób fizycznych (konsumentów) po wygaśnięciu zobowiązania wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, pod warunkiem uzyskania pisemnej zgody osoby, której informacje te dotyczą. Zgoda ta może być w każdym czasie odwołana.
+
+### 3.
+
+Instytucje, o których mowa w ust. 1, mogą przetwarzać informacje stanowiące tajemnicę bankową oraz informacje, o których mowa w art. 105 ust. 4 pkt 2 w zakresie dotyczącym osób fizycznych (konsumentów) po wygaśnięciu zobowiązania wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów, bez zgody osoby, której informacje dotyczą, jeśli spełnione są łącznie następujące warunki:
+
+### 1)
+
+osoba ta nie wykonała zobowiązania lub dopuściła się zwłoki powyżej 60 dni w spełnieniu świadczenia wynikającego z umowy zawartej z bankiem lub inną instytucją ustawowo upoważnioną do udzielania kredytów,
+
+### 2)
+
+po zaistnieniu okoliczności, o której mowa w pkt 1, upłynęło co najmniej 30 dni od poinformowania tej osoby przez bank lub inną instytucję ustawowo upoważnioną do udzielania kredytów o zamiarze przetwarzania dotyczących jej informacji stanowiących tajemnicę bankową, bez jej zgody.
+
+### 4.
+
+Przetwarzanie informacji stanowiących tajemnicę bankową w przypadkach, o których mowa w ust. 3, może być wykonywane przez okres nie dłuższy niż 5 lat od dnia wygaśnięcia zobowiązania.
+
+### 5.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii właściwych nadzorów, określi, w drodze rozporządzenia, zakres przetwarzanych informacji, o których mowa w ust. 3, i tryb ich usuwania, uwzględniając właściwą ochronę praw osób, których informacje te dotyczą, oraz konieczność zapewnienia bezpieczeństwa środków zgromadzonych w bankach i innych instytucjach ustawowo upoważnionych do udzielania kredytów.
+
+” ;
+
+### 3)
+
+w art. 110 dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+służb ochrony państwa, Agencji Wywiadu, Policji, Żandarmerii Wojskowej, Straży Granicznej i Służby Więziennej w związku z postępowaniami sprawdzającymi prowadzonymi na podstawie przepisów o ochronie informacji niejawnych.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 297 w § 1 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+służbom ochrony państwa, Agencji Wywiadu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służbie Więziennej i ich posiadającym pisemne upoważnienie funkcjonariuszom lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych.
+
+” ;
+
+### 2)
+
+w art. 298:
+
+### a)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+sądowi, prokuratorowi, a także upoważnionym pisemnie przez prokuratora funkcjonariuszom Policji lub Agencji Bezpieczeństwa Wewnętrznego - w związku z toczącym się postępowaniem,
+
+” ,
+
+### b)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+służbom ochrony państwa, Agencji Wywiadu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służbie Więziennej i ich posiadającym pisemne upoważnienie funkcjonariuszom lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych,
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 8 października 2004 r. o zasadach finansowania nauki ([Dz. U. Nr 238, poz. 2390](https://api.sejm.gov.pl/eli/acts/DU/2004/2390/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html)) w art. 6 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wnioski, recenzje i umowy dotyczące projektów badawczych i projektów celowych, a także informacje otrzymane w toku postępowań dotyczących tych projektów stanowią tajemnicę przedsiębiorstw w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, z zastrzeżeniem przepisów ust. 2 i 3 oraz art. 18 ust. 2.
+
+” .
+
+### Art. 6.
+
+Banki, inne instytucje ustawowo upoważnione do udzielania kredytów oraz instytucje utworzone na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe obowiązane są dostosować przetwarzanie informacji zgromadzonych przed dniem wejścia w życie niniejszej ustawy do wymagań w niej określonych, w terminie nie dłuższym niż 3 lata od wejścia w życie niniejszej ustawy.
+
+### Art. 7.
+
+Do postępowań sprawdzających oraz postępowań bezpieczeństwa przemysłowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy tej ustawy.
+
+### Art. 8.
+
+Poświadczenia bezpieczeństwa wydane przed dniem wejścia w życie ustawy, ważne w tym dniu, zachowują ważność w zakresie i okresie określonym ustawą z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 9.
+
+Świadectwa bezpieczeństwa przemysłowego wydane przedsiębiorcom, jednostkom naukowym lub badawczo-rozwojowym w związku z wykonaniem umowy lub zadania łączącego się z dostępem do informacji niejawnych stanowiących tajemnicę państwową zachowują ważność do czasu zakończenia danej umowy lub zadania, ale nie dłużej niż 2 lata od dnia wejścia w życie ustawy.
+
+### Art. 10.
+
+Dotychczasowe przepisy wykonawcze, wydane na podstawie upoważnień ustawowych zmienianych niniejszą ustawą, zachowują moc do czasu ich zastąpienia przez przepisy wykonawcze wydane na podstawie upoważnień ustawowych w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+Ogłoszenie tekstu jednolitego ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych nastąpi w terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy.
+
+### Art. 12.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 8 października 2004 r. o zasadach finansowania nauki. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462, z 2001 r. Nr 22, poz. 247, Nr 27, poz. 298, Nr 56, poz. 580, Nr 110, poz. 1189, Nr 123, poz. 1353 i Nr 154, poz. 1800, z 2002 r. Nr 74, poz. 676, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 17, poz. 155 oraz z 2004 r. Nr 29, poz. 257. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692 oraz z 2005 r. Nr 64, poz. 565 i Nr 78, poz. 682. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461 i Nr 77, poz. 680. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 240, poz. 2055, z 2003 r. Nr 50, poz. 424, Nr 84, poz. 774, Nr 124, poz. 1151, Nr 170, poz. 1651 i Nr 223, poz. 2216, z 2004 r. Nr 64, poz. 594, Nr 91, poz. 871, Nr 96, poz. 959, Nr 116, poz. 1205, Nr 146, poz. 1546 i Nr 273, poz. 2703 oraz z 2005 r. Nr 62, poz. 551 i Nr 83, poz. 719. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719.
+
+## Załącznik nr 1 - Wykaz rodzajów informacji, które mogą stanowić tajemnicę państwową
+
+### I.
+
+Informacje, które mogą być oznaczane klauzulą „ściśle tajne”:
+
+### 1.
+
+Informacje dotyczące zagrożeń zewnętrznych bezpieczeństwa państwa o charakterze militarnym, plany i prognozowanie obronne oraz wynikające z nich decyzje i zadania.
+
+### 2.
+
+Szczegółowa struktura, organizacja i funkcjonowanie systemu kierowania państwem oraz dowodzenia Siłami Zbrojnymi w czasie zagrożenia państwa lub wojny.
+
+### 3.
+
+Lokalizacja, wyposażenie, właściwości ochronne i organizacja obrony stanowisk kierowania państwem i stanowisk dowodzenia Siłami Zbrojnymi w czasie zagrożenia państwa lub wojny.
+
+### 4.
+
+Szczegółowa organizacja, funkcjonowanie systemów łączności kierowania państwem i dowodzenia Siłami Zbrojnymi w czasie wyższych stanów gotowości bojowej lub wojny.
+
+### 5.
+
+Centralny program mobilizacji gospodarki.
+
+### 6.
+
+Informacje dotyczące planowania, organizacji i funkcjonowania mobilizacyjnego rozwinięcia Sił Zbrojnych.
+
+### 7.
+
+Szczegółowa struktura Sił Zbrojnych, rodzajów Sił Zbrojnych oraz okręgów wojskowych i korpusów na czas wojny.
+
+### 8.
+
+Informacje dotyczące możliwości bojowych Sił Zbrojnych, rodzajów Sił Zbrojnych i okręgów wojskowych oraz potencjalnego przeciwnika na przewidywanych obszarach i kierunkach działań wojennych.
+
+### 9.
+
+Zadania bojowe Sił Zbrojnych i związków operacyjnych.
+
+### 10.
+
+Organizacja i funkcjonowanie systemu obrony powietrznej i przeciwlotniczej kraju.
+
+### 11.
+
+Organizacja, rozmieszczenie, zadania i możliwości działania systemu rozpoznania i walki radioelektronicznej.
+
+### 12.
+
+Planowanie i realizacja przedsięwzięć w zakresie operacyjnego maskowania wojsk.
+
+### 13.
+
+Planowanie, realizacja, wyniki badań naukowych i prac badawczo-rozwojowych o szczególnie ważnym znaczeniu dla obronności i bezpieczeństwa państwa.
+
+### 14.
+
+Hasła i kody dostępu do urządzeń przechowujących, przetwarzających i przesyłających informacje oznaczone klauzulą „ściśle tajne”.
+
+### 15.
+
+Szczególne wymagania bezpieczeństwa i procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych służących do wytwarzania, przetwarzania, przekazywania lub przechowywania informacji oznaczonych klauzulą „ściśle tajne”.
+
+### 16.
+
+Szczegółowe informacje dotyczące organizacji, form i metod pracy operacyjnej Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Wojskowych Służb Informacyjnych oraz byłego Urzędu Ochrony Państwa, a także ich kierunki pracy operacyjnej i zainteresowań.
+
+### 17.
+
+Szczegółowa struktura organizacyjna oraz etatowa jednostek i komórek organizacyjnych wykonujących czynności operacyjno-rozpoznawcze w służbach, o których mowa w pkt 16, a także systemy ewidencji danych o funkcjonariuszach i żołnierzach tych jednostek i komórek organizacyjnych.
+
+### 18.
+
+Dane identyfikujące lub mogące doprowadzić do identyfikacji funkcjonariuszy i żołnierzy służb, o których mowa w pkt 16, realizujących czynności operacyjno-rozpoznawcze.
+
+### 19.
+
+Dane identyfikujące lub mogące doprowadzić do identyfikacji osób niebędących funkcjonariuszami lub żołnierzami służb, o których mowa w pkt 16, a które udzieliły pomocy tym służbom w zakresie wykonywania czynności operacyjno-rozpoznawczych.
+
+### 20.
+
+Dane identyfikujące lub mogące doprowadzić do identyfikacji świadków koronnych i osób dla nich najbliższych oraz świadków, o których mowa w art. 184 Kodeksu postępowania karnego.
+
+### 21.
+
+Informacje dotyczące dokumentów uniemożliwiających ustalenie danych identyfikujących funkcjonariuszy, żołnierzy lub pracowników organów, służb i instytucji państwowych uprawnionych do wykonania czynności operacyjno-rozpoznawczych lub środków, którymi posługują się przy wykonywaniu czynności operacyjno-rozpoznawczych.
+
+### 22.
+
+Informacje dotyczące dokumentów uniemożliwiających ustalenie danych identyfikujących osoby udzielające organom, służbom i instytucjom państwowym uprawnionym do wykonywania czynności operacyjno-ropoznawczych pomocy przy wykonywaniu tych czynności.
+
+### 23.
+
+Plany i stan zaopatrzenia w sprzęt i materiały techniki specjalnej przeznaczone do wykonywania czynności operacyjno-rozpoznawczych przez służby, o których mowa w pkt 16.
+
+### 24.
+
+Informacje dotyczące prowadzonych przez Agencję Bezpieczeństwa Wewnętrznego, Wojskowe Służby Informacyjne oraz były Urząd Ochrony Państwa kontroli operacyjnej, niejawnego nabycia lub przejęcia przedmiotów pochodzących z przestępstwa ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęcia lub wręczenia korzyści majątkowej oraz niejawnego nadzorowania, wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa.
+
+### 25.
+
+Informacje dotyczące planowanych, wykonywanych i zrealizowanych czynności operacyjno-rozpoznawczych przez służby, o których mowa w pkt 16, oraz informacje i przedmioty uzyskane w wyniku tych czynności, które pozwalają na identyfikację osób udzielających im pomocy w zakresie wykonywania czynności operacyjno-rozpoznawczych.
+
+### 26.
+
+Informacje o szczegółowych zasadach tworzenia, ewidencjonowania, gospodarowania i wykorzystaniu funduszu operacyjnego i środków specjalnych w służbach, o których mowa w pkt 16.
+
+### 27.
+
+Organizacja, funkcjonowanie i środki techniczne radiokontrwywiadowczej ochrony państwa.
+
+### 28.
+
+Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją Traktatu Północnoatlantyckiego, Unią Europejską i Unią Zachodnioeuropejską oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą „TOP SECRET” lub równorzędną, jeżeli wymagają tego umowy międzynarodowe, na zasadzie wzajemności.
+
+### 29.
+
+Informacje określone w pkt 16-19 i 23-26, będące w posiadaniu organów, służb i instytucji państwowych, innych niż służby, o których mowa w pkt 16, uprawnionych na podstawie ustaw do wykonywania czynności operacyjno-rozpoznawczych, związane z działalnością tych organów, służb lub instytucji.
+
+### II.
+
+Informacje, które mogą być oznaczane klauzulą „tajne”:
+
+### 1.
+
+Planowanie, rozmieszczenie i stan rezerw państwowych.
+
+### 2.
+
+Resortowe i wojewódzkie programy mobilizacji gospodarki.
+
+### 3.
+
+Plany obrony cywilnej państwa oraz plany obrony cywilnej województw.
+
+### 4.
+
+Szczegółowe założenia systemu finansowego państwa w czasie podwyższonej gotowości obronnej lub wojny.
+
+### 5.
+
+Stan rozwinięcia, ukompletowania i wyposażenia jednostek wojskowych w zakresie nieobjętym postanowieniami Traktatu o konwencjonalnych siłach zbrojnych w Europie (CFE).
+
+### 6.
+
+Szczegółowa struktura Sił Zbrojnych, rodzajów Sił Zbrojnych oraz okręgów wojskowych.
+
+### 7.
+
+Plany i prognozy rozwoju organizacyjnego i technicznego Sił Zbrojnych oraz poszczególnych rodzajów wojsk.
+
+### 8.
+
+Lokalizacja, rodzaj i przeznaczenie oraz właściwości techniczno-ochronne budownictwa specjalnego.
+
+### 9.
+
+Organizacja kompleksowego przygotowania jednolitej sieci telekomunikacyjnej państwa dla potrzeb obronnych.
+
+### 10.
+
+Informacje dotyczące przygotowania, budowy, zarządzania oraz funkcjonowania systemów i sieci telekomunikacyjnych, teleinformatycznych i pocztowych służących do przekazywania informacji niejawnych stanowiących tajemnicę państwową, wykorzystywanych dla potrzeb Sił Zbrojnych, służb ochrony państwa lub administracji publicznej w zakresie niezbędnym do zabezpieczenia tych systemów i sieci.
+
+### 11.
+
+Zbiorcze informacje dotyczące produkcji specjalnej przemysłu obronnego, a także prognozy rozwojowe, plany i zdolności produkcyjne oraz usługowe przedsiębiorców, jednostek naukowych i badawczo-rozwojowych w zakresie realizacji zamówień na uzbrojenie i sprzęt wojskowy.
+
+### 12.
+
+Wojskowe mapy specjalne i fotodokumenty przedstawiające uczytelnione obiekty inżynieryjnej rozbudowy terenu prognozowanych rejonów i kierunków działań wojennych.
+
+### 13.
+
+Współrzędne określające położenie obiektów (budynków, budowli, urządzeń) usytuowanych na terenach zamkniętych, o których mowa w przepisach szczególnych, jeżeli informacjom dotyczącym tych obiektów organ zamykający teren przyznał klauzulę „tajne”.
+
+### 14.
+
+Fotogrametryczne zobrazowanie lotnicze lub naziemne zarejestrowane na dowolnym nośniku oraz wysokorozdzielcze zdjęcia satelitarne, zawierające obraz obiektów, o których mowa w pkt 13.
+
+### 15.
+
+Materiały geodezyjne i kartograficzne zawierające informacje o położeniu, rodzaju, charakterze lub przeznaczeniu obiektów, o których mowa w pkt 13.
+
+### 16.
+
+Materiały uzyskane w wyniku przetworzenia zobrazowań satelitarnych, zawierające dodaną informację o położeniu, rodzaju, charakterze lub przeznaczeniu obiektów, o których mowa w pkt 13.
+
+### 17.
+
+Informacje dotyczące przestawienia gospodarki narodowej na rzecz obronności w czasie podwyższonej gotowości obronnej państwa lub wojny.
+
+### 18.
+
+Informacje dotyczące przygotowania, organizacji oraz wykorzystywania transportu kolejowego, drogowego i wodnego oraz ochrony obiektów komunikacyjnych w czasie podwyższonej gotowości obronnej państwa lub wojny.
+
+### 19.
+
+Organizacja i funkcjonowanie systemu alarmowania wojsk oraz zadania jednostek wojskowych i garnizonów w procesie osiągania wyższych stanów gotowości bojowej.
+
+### 20.
+
+Zadania ministrów, centralnych organów administracji rządowej, wojewodów, a także innych konstytucyjnych organów władzy publicznej, związane z osiąganiem podwyższonej gotowości obronnej państwa.
+
+### 21.
+
+Organizacja i funkcjonowanie systemu zaopatrywania Sił Zbrojnych w uzbrojenie, sprzęt wojskowy i amunicję w procesie osiągania wyższych stanów gotowości bojowej.
+
+### 22.
+
+Dane oraz zasady funkcjonowania systemu ewidencji danych o osobach zajmujących stanowiska związane z obronnością kraju.
+
+### 23.
+
+Informacje dotyczące systemu ochrony i obrony jednostek organizacyjnych Służby Więziennej na czas podwyższonej gotowości obronnej państwa lub wojny.
+
+### 24.
+
+Organizacja ochrony, na wypadek wojny, dóbr kultury mających szczególne znaczenie dla dziedzictwa kulturalnego narodu.
+
+### 25.
+
+Dane dotyczące tworzonych na wypadek wojny rezerw rzeczowych jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub przez niego nadzorowanych.
+
+### 26.
+
+Szczegółowe informacje dotyczące organizacji, metod i środków służących do ochrony informacji stanowiących tajemnicę państwową, których ujawnienie może spowodować brak ich skuteczności, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
+
+### 27.
+
+Szczególne wymagania bezpieczeństwa i procedury bezpiecznej eksploatacji systemów i sieci teleinformatycznych służących do wytwarzania, przetwarzania, przekazywania lub przechowywania informacji oznaczonych klauzulą „tajne”.
+
+### 28.
+
+Informacje dotyczące planowania, rozmieszczenia, przeznaczenia i wyposażenia obiektów i nieruchomości specjalnych oraz plany ich obrony i ochrony.
+
+### 29.
+
+Szczegółowe informacje dotyczące osób podejrzewanych o prowadzenie działalności godzącej w bezpieczeństwo, obronność, niezależność, całość lub międzynarodową pozycję państwa albo działalności terrorystycznej, uzyskane i przetwarzane przez służby, o których mowa w części I w pkt 16, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
+
+### 30.
+
+Szczegółowa struktura organizacyjna i etatowa jednostek organizacyjnych służb, o których mowa w części I w pkt 16, chyba że zawiera informacje oznaczone wyższą klauzulą tajności.
+
+### 31.
+
+System ewidencji danych o funkcjonariuszach, żołnierzach i pracownikach służb, o których mowa w części I w pkt 16, chyba że zawiera informacje oznaczone wyższą klauzulą tajności.
+
+### 32.
+
+Informacje określone w części I w pkt 16-19 i 23-26, będące w posiadaniu organów, służb i instytucji państwowych, innych niż służby, o których mowa w części I w pkt 16, uprawnionych na podstawie ustaw do wykonywania czynności operacyjno-rozpoznawczych, związane z działalnością tych organów, służb lub instytucji, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
+
+### 33.
+
+Szczegółowe informacje dotyczące systemu i sposobu ochrony granicy państwowej, w tym działań antyterrorystycznych i antysabotażowych.
+
+### 34.
+
+Informacje z ewidencji operacyjnej, dotyczące pracy operacyjnej służb, o których mowa w części I w pkt 16, chyba że zawierają informacje oznaczone wyższą klauzulą tajności.
+
+### 35.
+
+Szczegółowe informacje dotyczące ochrony i zabezpieczenia obiektów szczególnie ważnych dla gospodarki narodowej albo ze względu na obronność lub bezpieczeństwo państwa.
+
+### 36.
+
+Szczegółowe informacje dotyczące planowanych, wykonywanych i zrealizowanych czynności dochodzeniowo-śledczych, jeżeli ujawnienie tych informacji mogłoby stanowić przeszkodę dla prawidłowego toku postępowania karnego.
+
+### 37.
+
+Projekty wynalazcze uznane za tajne zgodnie z przepisami prawa o własności przemysłowej.
+
+### 38.
+
+Informacje dla Rady Ministrów i jej organów, dotyczące potencjału strategicznego państwa oraz strategicznych zamówień rządowych i ich realizacji.
+
+### 39.
+
+Instrukcje do negocjacji w sprawie zawierania umów finansowych o znaczeniu ogólnopaństwowym, których ujawnienie mogłoby mieć wpływ na dalszy tok negocjacji.
+
+### 40.
+
+Wnioski o udzielenie poręczenia, umowy poręczenia oraz umowy o udzielenie poręczenia dotyczące producentów sprzętu obronnego.
+
+### 41.
+
+Technologia produkcji i system zabezpieczeń znaków akcyzy w przedsiębiorstwach wytwarzających te znaki.
+
+### 42.
+
+Informacje dotyczące zabezpieczeń przed podrabianiem i przerabianiem znaków pieniężnych, papierów wartościowych emitowanych przez Skarb Państwa i Narodowy Bank Polski oraz znaków akcyzy, na etapie ich projektowania i przygotowania do produkcji, z wyłączeniem monet przeznaczonych na cele kolekcjonerskie.
+
+### 43.
+
+Informacje dotyczące technologii produkcji znaków pieniężnych, znaków akcyzy i papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski.
+
+### 44.
+
+Informacje dotyczące technologii produkcji oraz szczegółowych sposobów zabezpieczeń dokumentów tożsamości, a także innych zabezpieczonych dokumentów wydawanych przez organy władzy publicznej.
+
+### 45.
+
+Decyzje o skokowych zmianach kursu złotego w stosunku do walut obcych (dewaluacja, rewaluacja) dokonywane przez Narodowy Bank Polski do czasu podania ich do publicznej wiadomości.
+
+### 46.
+
+Wysokość stóp procentowych Narodowego Banku Polskiego - do czasu ich podania do publicznej wiadomości.
+
+### 47.
+
+Przedział odchyleń kursu złotego od centralnego parytetu - do czasu podania ich do publicznej wiadomości.
+
+### 48.
+
+Prace badawczo-rozwojowe o szczególnie istotnym znaczeniu dla interesu gospodarczego państwa, zlecone przez ministrów i inne centralne organy państwowe.
+
+### 49.
+
+Informacje dotyczące rozwiązań technicznych, technologicznych i organizacyjnych, których ujawnienie naraziłoby na szkodę istotny interes gospodarczy państwa.
+
+### 50.
+
+Informacje o sposobie działania urządzeń kontrolno-sygnalizacyjnych i systemów alarmowych zabezpieczających dostęp do miejsc składowania i stosowania materiałów jądrowych kategorii I i II.
+
+### 51.
+
+Informacje dotyczące planów i zadań polityki zagranicznej, których ujawnienie naraziłoby na szkodę istotny interes państwa lub innego podmiotu stosunków międzynarodowych, do czasu oficjalnego ich ogłoszenia.
+
+### 52.
+
+Materiały, dokumenty, sprawozdania z negocjacji i konsultacji międzynarodowych oraz umowy międzynarodowe lub ich części, które zostały uznane za odpowiadające informacjom oznaczonym klauzulą „tajne” na wniosek jednej ze stron.
+
+### 53.
+
+Informacje polityczne, gospodarcze lub wojskowe dotyczące państw obcych, uzyskane pod warunkiem zapewnienia ich tajności.
+
+### 54.
+
+Organizacja i funkcjonowanie poczty dyplomatycznej.
+
+### 55.
+
+System ochrony polskich przedstawicielstw dyplomatycznych i urzędów konsularnych.
+
+### 56.
+
+Zadania polskich przedstawicielstw dyplomatycznych i urzędów konsularnych na czas wojny.
+
+### 57.
+
+Zadania w zakresie ochrony przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych w Rzeczypospolitej Polskiej w czasie wojny.
+
+### 58.
+
+Plany, prognozy i informacje na temat rozwoju obrotu z zagranicą sprzętem specjalnym i uzbrojeniem oraz technologiami i usługami specjalnymi.
+
+### 59.
+
+Informacje niejawne wymieniane przez Rzeczpospolitą Polską z Organizacją Traktatu Północnoatlantyckiego, Unią Europejską i Unią Zachodnioeuropejską oraz z innymi organizacjami międzynarodowymi i państwami, oznaczone klauzulą „SECRET” lub równorzędną, jeżeli wymagają tego umowy międzynarodowe, na zasadzie wzajemności.
+
+## Załącznik nr 2 - Ankieta bezpieczeństwa osobowego (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

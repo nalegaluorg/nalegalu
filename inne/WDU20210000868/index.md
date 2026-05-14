@@ -8,11 +8,9 @@ pos: 868
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw
-
-*USTAWA z dnia 20 kwietnia 2021 r.*
+# Ustawa z dnia 20 kwietnia 2021 r. o zmianie ustawy o efektywności energetycznej oraz niektórych innych ustaw [1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2002 z dnia 11 grudnia 2018 r. zmieniającą dyrektywę 2012/27/UE w sprawie efektywności energetycznej (Dz. Urz. UE L 328 z 21.12.2018, str. 210) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,121 +22,1512 @@ domain: null
 | Data ogłoszenia | 2021-04-20 |
 | Data wydania | 2021-05-07 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000868) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/868/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/868) |
 
-**Art. 1.** W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 468) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 35a.**
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska oraz ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym.](#gloss-0:2:)
 
-1. Instytut Ochrony Środowiska – Państwowy Instytut Badawczy prowadzi centralny rejestr oszczędności energii finalnej, zwany dalej „rejestrem”, oraz jest administratorem danych zgromadzonych tym rejestrze.
+### Art. 1.
 
-2. W rejestrze są gromadzone dane oraz informacje dotyczące wysokości uzyskanej oszczędności energii finalnej.
+W ustawie z dnia 20 maja 2016 r. o efektywności energetycznej ([Dz. U. z 2021 r. poz. 468](https://api.sejm.gov.pl/eli/acts/DU/2021/468/text.html)) wprowadza się następujące zmiany:
 
-3. Rejestr zawiera:
+### 1)
 
-- **1)** informacje dotyczące:
-    - **a)** przedsięwzięć służących poprawie efektywności energetycznej zrealizowanych za pomocą środków alternatywnych, o których mowa art. 18 ust. 3, oraz ilości uzyskanej wyniku ich realizacji oszczędności energii finalnej, tym: ‒ rodzaju przedsięwzięcia służącego poprawie efektywności energetycznej, − kwoty dofinansowania przedsięwzięcia, ‒ formy dofinansowania przedsięwzięcia, ‒ okresu uzyskiwania oszczędności energii, ‒ ilości uzyskanych średniorocznych oszczędności energii finalnej, wyrażonej tonach oleju ekwiwalentnego na rok, ‒ sposobu potwierdzenia oszczędności, o których mowa tiret piątym, ‒ daty rozpoczęcia i zakończenia realizacji przedsięwzięcia,
-    - **b)** łącznej ilości oszczędności energii finalnej uzyskanej do 2030 r.;
+w art. 1:
 
-- **2)** wykaz osób upoważnionych, o których mowa art. 35b ust. 4, zwany dalej „wykazem”;
-- **3)** dane instytucji, o których mowa art. 18 ust. 5, tym:
-    - **a)** nazwę instytucji oraz adres jej siedziby,
-    - **b)** adres poczty elektronicznej.
+### a)
 
-4. Minister właściwy do spraw klimatu określi, drodze rozporządzenia, szczegółowy zakres informacji, o których mowa ust. 3 pkt 1 lit. a tiret pierwsze i szóste, gromadzonych rejestrze oraz sposób uwierzytelniania osób
+uchyla się pkt 1,
 
-5. Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2021 r. poz. 670).
+### b)
 
-**Art. 35b.**
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
 
-1. Dane wprowadza się do rejestru za pomocą systemu teleinformatycznego obsługującego ten rejestr. Wprowadzenie danych jest równoznaczne z wyrażeniem zgody na ich przetwarzanie.
+„
 
-2. Dane wprowadza się do rejestru przez pobranie danych zgromadzonych tym rejestrze, ich weryfikację oraz wpisanie do rejestru nowych danych. System teleinformatyczny obsługujący rejestr zapewnia automatyczną archiwizację wcześniej wprowadzonych danych do rejestru.
+### 5)
 
-3. Uprawnionymi do wprowadzania danych i informacji do rejestru są:
+zasady prowadzenia centralnego rejestru oszczędności energii finalnej.
 
-- **1)** Instytut Ochrony Środowiska – Państwowy Instytut Badawczy – jako administrator danych,
-- **2)** minister właściwy do spraw klimatu,
-- **3)** minister właściwy do spraw rozwoju regionalnego,
-- **4)** minister właściwy do spraw finansów publicznych,
-- **5)** Centrum Unijnych Projektów Transportowych,
-- **6)** Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej,
-- **7)** wojewódzkie fundusze ochrony środowiska i gospodarki wodnej,
-- **8)** jednostki samorządu terytorialnego,
-- **9)** Bank Ochrony Środowiska,
-- **10)** Bank Gospodarstwa Krajowego,
-- **11)** instytucje, o których mowa art. 18 ust. 5 ‒ zwane dalej „podmiotami uprawnionymi”.
+” ;
 
-4. Podmioty uprawnione, o których mowa ust. 3 pkt 2–11, wyznaczają osoby upoważnione do wprowadzania ich imieniu danych i informacji do rejestru. Dane osób upoważnionych gromadzi się wykazie.
+### 2)
 
-5. Dane osób upoważnionych wpisuje się do wykazu na wniosek:
+w art. 2:
 
-- **1)** dyrektora departamentu – przypadku podmiotów, o których mowa ust. 3 pkt 2–4;
-- **2)** dyrektora – przypadku podmiotu, o którym mowa ust. 3 pkt 5;
-- **3)** prezesa – przypadku podmiotów, o których mowa ust. 3 pkt 6, 7, 9 i 10;
-- **4)** sekretarza województwa, sekretarza powiatu albo wójta, burmistrza lub prezydenta miasta – przypadku podmiotów, o których mowa ust. 3 pkt 8;
-- **5)** właściwego organu lub osoby upoważnionej do reprezentowania instytucji – przypadku, o którym mowa ust. 3 pkt 11.
+### a)
 
-6. Wykaz zawiera:
+pkt 7 otrzymuje brzmienie:
 
-- **1)** imię i nazwisko oraz stanowisko osoby upoważnionej;
-- **2)** adres do korespondencji, tym adres poczty elektronicznej osoby upoważnionej.
+„
 
-7. Wniosek o wpis danych osób upoważnionych do wykazu oraz wniosek o zmianę danych zawartych wykazie zawiera dane, o których mowa ust. 6.
+### 7)
 
-8. Dyrektor IOŚ-PIB przyznaje osobie upoważnionej dostęp do systemu teleinformatycznego obsługującego rejestr. Osobie upoważnionej przez podmiot uprawniony, o którym mowa ust. 3 pkt 2, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru. Osobom upoważnionym przez podmioty uprawnione, o których mowa ust. 3 pkt 3–11, zapewnia się dostęp do informacji zgromadzonych tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru przez osoby upoważnione przez te podmioty.
+energia finalna - energię lub paliwa w rozumieniu art. 3 pkt 1 i 3 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne, dostarczone odbiorcy końcowemu;
 
-10. Wnioski, o których mowa ust. 7, składa się przy użyciu formularza elektronicznego udostępnionego pod adresem elektronicznym wskazanym Biuletynie Informacji Publicznej na stronie podmiotowej Instytutu Ochrony Środowiska – Państwowego Instytutu Badawczego.
+” ,
 
-11. Minister właściwy do spraw klimatu udostępnia wzory wniosków, o których mowa ust. 7, formie dokumentu elektronicznego rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, Biuletynie Informacji Publicznej urzędu obsługującego tego ministra, kierując się potrzebą zapewniania sprawności procesu wprowadzania danych do rejestru.
+### b)
 
-12. Dane, o których mowa ust. 6, przechowuje się do czasu dokonania zmiany, o której mowa ust. 9.
+w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14-17 w brzmieniu:
 
-13. Informacje, o których mowa art. 35a ust. 3 pkt 1 i 3, przechowuje się nie dłużej niż do dnia 31 grudnia 2035 r.
+„
 
-**Art. 35c.** Informacje zgromadzone rejestrze udostępnia się na wniosek za pomocą środków komunikacji elektronicznej.”;
+### 14)
 
-**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716) wprowadza się następujące zmiany:
+rozpoczęcie prac zmierzających do realizacji przedsięwzięcia służącego poprawie efektywności energetycznej - rozpoczęcie robót budowlanych związanych z realizacją przedsięwzięcia służącego poprawie efektywności energetycznej lub pierwsze prawnie wiążące zobowiązanie do zamówienia urządzeń służących poprawie efektywności energetycznej lub inne zobowiązanie, które sprawia, że przedsięwzięcie staje się nieodwracalne, w zależności od tego, które zdarzenie nastąpi wcześniej, z wyłączeniem zakupu gruntów oraz prac przygotowawczych polegających na uzyskiwaniu zezwoleń i wykonywaniu wstępnych studiów wykonalności oraz prac przygotowawczych, o których mowa w art. 41 ust. 2 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2020 r. poz. 1333](https://api.sejm.gov.pl/eli/acts/DU/2020/1333/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784.](#gloss-0:3:));
 
-**Art. 45d.**
+### 15)
 
-1. Minister właściwy do spraw energii określi, drodze rozporządzenia:
+paliwa ciekłe - następujące rodzaje ciekłych nośników energii:
 
-- **1)** szczegółowe warunki ustalania technicznej możliwości i opłacalności zastosowania urządzeń, o których mowa art. 45a ust. 7 pkt 2;
-- **2)** szczegółowe warunki wyboru metody, o której mowa art. 45a ust. 9;
-- **3)** zakres informacji, o których mowa art. 45c, zawartych indywidualnych rozliczeniach.
+### a)
 
-2. Wydając rozporządzenie, o którym mowa ust. 1, minister właściwy do spraw energii bierze pod uwagę:
+gaz płynny LPG o kodach CN: 2711 12, 2711 13 i 2711 19 00,
 
-- **1)** sposób doprowadzenia ciepła do budynku i do lokali, efektywność energetyczną budynku oraz efektywność kosztową zastosowania urządzeń, o których mowa art. 45a ust. 7 pkt 2;
-- **2)** promowanie energooszczędnych zachowań, zapewnienie ustalania opłat za zakupione ciepło sposób odpowiadający zużyciu ciepła na ogrzewanie i przygotowanie ciepłej wody użytkowej oraz uwzględnienie współczynników wyrównawczych zużycia ciepła na ogrzewanie, wynikających z położenia lokalu bryle budynku;
-- **3)** zakres informacji niezbędnych do dokonania indywidualnych rozliczeń oraz zapewnienia czytelności danych.”; „6a) będąc właścicielem lub zarządcą budynku wielolokalowego, o którym mowa art. 45a ust. 6, narusza obowiązek wyposażenia lokali budynku wielolokalowego przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody takich lokalach budynku wielolokalowego lub nie stosuje rozliczania kosztów według zużycia albo odmawia wypełnienia obowiązków informacyjnych, o których mowa art. 45a ust. 4a i art. 45c, lub pobiera opłaty za wypełnienie tych obowiązków informacyjnych;”.
+### b)
 
-**Art. 4.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802) art. 401c ust. 5 po pkt 8 dodaje się pkt 8a brzmieniu: „8a) działań związanych z utworzeniem i prowadzeniem centralnego rejestru oszczędności energii finalnej, o którym mowa art. 35a ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej;”.
+benzyny silnikowe o kodach CN: 2710 12 45 i 2710 12 49,
 
-**Art. 5.** W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2020 r. poz. 711 i 2275) art. 16b ust. 1 pkt 2 lit. i średnik zastępuje się przecinkiem i dodaje się lit. j brzmieniu: „j) przypadku umowy, której przedmiotem jest realizacja przedsięwzięcia służącego poprawie efektywności energetycznej, o którym mowa art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 468 i 868), średniorocznych oszczędności energii finalnej możliwych do uzyskania wyniku realizacji tego przedsięwzięcia oraz okresu uzyskiwania tych oszczędności;”.
+### c)
 
-**Art. 6.** Do umów o poprawę efektywności energetycznej zawartych wyniku postępowań o wyborze dostawcy usług związanych ze zużyciem energii wszczętych przed dniem 1 stycznia 2022 r. stosuje się przepisy dotychczasowe.
+oleje napędowe o kodach CN: 2710 19 43 i 2710 20 11
 
-**Art. 7.** Informacje, o których mowa art. 7a ust. 2 ustawy zmienianej art. 1, minister właściwy do spraw rozwoju regionalnego przekaże po raz pierwszy ministrowi właściwemu do spraw klimatu do dnia 31 marca 2022 r.
+- stosowane w transporcie drogowym lub kolejowym;
 
-**Art. 8.** Nie później niż do dnia 30 czerwca 2023 r. podmioty zobowiązane, o których mowa art. 10 ust. 1 ustawy zmienianej art. 1, mogą łącznie rozliczyć wykonanie obowiązku, o którym mowa art. 10 ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, za dwa lub trzy lata, jeżeli nie dokonały rozliczenia, o którym mowa art. 16 ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, przed dniem wejścia życie niniejszej ustawy.
+### 16)
 
-**Art. 9.** Do rozliczenia wykonania obowiązku, o którym mowa art. 10 ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, za rok 2019 oraz za rok 2020 stosuje się przepisy dotychczasowe.
+podmiot paliwowy - każdy podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, dokonujący, samodzielnie lub za pośrednictwem innego podmiotu, wytwarzania, importu lub nabycia wewnątrzwspólnotowego paliw ciekłych;
 
-**Art. 10.** Obowiązek, o którym mowa art. 14 ust. 1 pkt 4 lit. a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, podmiot, o którym mowa art. 10 ust. 2 pkt 6 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, wykonuje zakresie paliw ciekłych wprowadzonych do obrotu okresie od dnia wejścia życie niniejszej ustawy do dnia 31 grudnia 2021 r.
+### 17)
 
-**Art. 11.** Do wniosków o wydanie świadectwa efektywności energetycznej złożonych do Prezesa Urzędu Regulacji Energetyki przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+wprowadzenie do obrotu paliw ciekłych - pierwsze rozporządzenie paliwami ciekłymi na terytorium Rzeczypospolitej Polskiej przez podmiot paliwowy, który dokonał ich wytworzenia, importu lub nabycia wewnątrzwspólnotowego, polegające na dokonaniu jakiejkolwiek czynności prawnej lub faktycznej skutkującej trwałym wyzbyciem się tych paliw ciekłych lub zużycie ich na potrzeby własne na tym terytorium, z wyłączeniem przywozu paliw ciekłych przeznaczonych do użycia podczas transportu i przywożonych w standardowych zbiornikach, o których mowa w art. 33 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ([Dz. U. z 2020 r. poz. 722](https://api.sejm.gov.pl/eli/acts/DU/2020/722/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802.](#gloss-0:4:)).
 
-**Art. 12.** Za osobę uprawnioną do sporządzania audytów efektywności energetycznej, o której mowa art. 25 ust. 5 ustawy zmienianej art. 1, uznaje się osobę, która do dnia wejścia życie niniejszej ustawy uzyskała co najmniej roczne doświadczenie sporządzaniu audytów efektywności energetycznej, o których mowa art. 25 ust. 1 ustawy zmienianej art. 1, potwierdzone wydanymi przez Prezesa Urzędu Regulacji Energetyki na ich podstawie świadectwami efektywności energetycznej.
+” ;
 
-**Art. 13.** Tworzy się centralny rejestr oszczędności energii finalnej.
+### 3)
 
-**Art. 14.** Informacje i dane, o których mowa art. 35a ust. 3 pkt 1 i 3 ustawy zmienianej art. 1, za rok 2021, instytucja, o której mowa art. 18 ust. 5 ustawy zmienianej art. 1, przekaże po raz pierwszy do centralnego rejestru energii finalnej, o którym mowa art. 35a ust. 1 ustawy zmienianej art. 1, terminie do dnia 31 marca 2022 r.
+uchyla się rozdział 2;
 
-**Art. 15.** Do dnia 31 grudnia 2021 r. właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia uzyskanie informacji, o której mowa art. 45c ust. 2 ustawy zmienianej art. 3, nie rzadziej niż raz na pół roku, a przypadku otrzymywania elektronicznych rozliczeń na żądanie – nie rzadziej niż raz na kwartał, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa art. 45a ust. 7 pkt 2 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą.
+### 4)
 
-**Art. 16.** Do dnia 1 stycznia 2027 r. właściciel lub zarządca budynku wielolokalowego zastąpi ciepłomierze, podzielniki kosztów ogrzewania lub wodomierze do pomiaru ciepłej wody użytkowej zamontowane przed dniem wejścia życie ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, urządzeniami posiadającymi funkcję zdalnego odczytu. niu nadanym niniejszą ustawą, wynosi w:
+w art. 7 dodaje się ust. 3-6 w brzmieniu:
 
-**Art. 18.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+„
 
+### 3.
+
+Zobowiązania wynikające z umowy o poprawę efektywności energetycznej nie wpływają na poziom państwowego długu publicznego oraz deficyt sektora finansów publicznych, w przypadku gdy dostawca usług związanych ze zużyciem energii ponosi większość ryzyka budowy i ryzyka uzyskania gwarantowanego poziomu średniorocznych oszczędności energii z uwzględnieniem wpływu na wymienione ryzyka czynników, takich jak gwarancje i finansowanie przez dostawcę usług związanych ze zużyciem energii oraz alokacja aktywów po zakończeniu trwania umowy.
+
+### 4.
+
+Przez dostawcę usług związanych ze zużyciem energii, o którym mowa w ust. 3, rozumie się podmiot, w tym mający siedzibę lub miejsce zamieszkania poza terytorium Rzeczypospolitej Polskiej, który wykonuje usługi polegające na realizacji przedsięwzięć służących poprawie efektywności energetycznej.
+
+### 5.
+
+Minister właściwy do spraw rozwoju regionalnego w porozumieniu z ministrem właściwym do spraw klimatu oraz po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego określi, w drodze rozporządzenia, zakres ryzyk, o których mowa w ust. 3, oraz szczegółowe czynniki uwzględniane przy ich ocenie, mając na względzie zapewnienie przejrzystości tego rodzaju ryzyk.
+
+### 6.
+
+W sprawach nieuregulowanych w ustawie, do umów o poprawę efektywności energetycznej, finansowanych w całości lub w części przez dostawcę usług związanych ze zużyciem energii, w tym trybu wyboru tego dostawcy, stosuje się przepisy ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym ([Dz. U. z 2020 r. poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2020/711/text.html) i [2275](https://api.sejm.gov.pl/eli/acts/DU/2020/2275/text.html) oraz [z 2021 r. poz. 868](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.html)), z wyłączeniem przepisów art. 3a, art. 3b ust. 2, art. 7 ust. 1 i 2 oraz art. 17-18a tej ustawy.
+
+” ;
+
+### 5)
+
+po art. 7 dodaje się art. 7a w brzmieniu:
+
+„
+
+### Art. 7a.
+
+### 1.
+
+Minister właściwy do spraw klimatu zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wytyczne dotyczące zawierania umów o poprawę efektywności energetycznej.
+
+### 2.
+
+Minister właściwy do spraw rozwoju regionalnego przekazuje ministrowi właściwemu do spraw klimatu, do dnia 31 marca każdego roku, informację zawierającą:
+
+### 1)
+
+liczbę zawartych umów o poprawę efektywności energetycznej,
+
+### 2)
+
+średnioroczną oszczędność energii finalnej możliwą do uzyskania w wyniku realizacji przedsięwzięć służących poprawie efektywności energetycznej i okres uzyskiwania tych oszczędności
+
+- za poprzedni rok kalendarzowy.
+
+” ;
+
+### 6)
+
+w art. 8:
+
+### a)
+
+w ust. 1 w pkt 3 skreśla się wyrazy „(Dz. U. z 2020 r. poz. 1333, 2127 i 2320 oraz z 2021 r. poz. 11, 234 i 282)”,
+
+### b)
+
+uchyla się ust. 9 i 10;
+
+### 7)
+
+w art. 10:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 2 wyrazy „w art. 20 ust. 1” zastępuje się wyrazami „w art. 20 ust. 1, lub”,
+
+- - dodaje się pkt 3 w brzmieniu: „ 3) zrealizować przedsięwzięcie lub przedsięwzięcia służące poprawie efektywności energetycznej, o których mowa w art. 15a ust. 1 ” ,
+
+### b)
+
+w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+podmiot paliwowy wprowadzający do obrotu paliwa ciekłe.
+
+” ,
+
+### c)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Obowiązek, o którym mowa w ust. 1, nie dotyczy podmiotów paliwowych, które wytwarzają paliwa ciekłe wyłącznie przez mieszanie komponentów z paliwami ciekłymi w ilości stanowiącej nie więcej niż 0,2% objętości wytworzonego w ten sposób paliwa ciekłego, w zakresie dotyczącym dodawania tych komponentów.
+
+” ;
+
+### 8)
+
+w art. 11:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Obowiązek, o którym mowa w art. 10 ust. 1, w zakresie:
+
+### 1)
+
+20% tego obowiązku za 2021 r. i 2022 r.,
+
+### 2)
+
+10 % tego obowiązku za 2023 r., 2024 r. i 2025 r.
+
+- podmiot, o którym mowa w art. 10 ust. 2 pkt 6, może zrealizować, uiszczając opłatę zastępczą.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Podmiot zobowiązany może również zrealizować obowiązek, o którym mowa w art. 10 ust. 1, za każdy rok, w tym w zakresie wyższym niż określony w ust. 1a, uiszczając opłatę zastępczą, jeżeli w transakcjach sesyjnych w ciągu roku kalendarzowego, którego dotyczy obowiązek, o którym mowa w art. 10 ust. 1, nie nabył praw majątkowych wynikających ze świadectw efektywności energetycznej z uwagi na fakt, że cena praw majątkowych wynikających z tych świadectw była wyższa niż wysokość jednostkowej opłaty zastępczej, o której mowa w art. 12 ust. 2 i 3, lub z uwagi na niewystarczającą liczbę ofert sprzedaży tych praw.
+
+” ;
+
+### 9)
+
+w art. 12:
+
+### a)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej przekazuje ministrowi właściwemu do spraw klimatu sprawozdanie z realizacji przedsięwzięć służących poprawie efektywności energetycznej, uwzględniające rodzaje takich przedsięwzięć wymienione w art. 19 ust. 1, do dnia 31 lipca każdego roku za poprzedni rok kalendarzowy.
+
+” ,
+
+### b)
+
+dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Sprawozdanie, o którym mowa w ust. 6, obejmuje informacje o:
+
+### 1)
+
+sumarycznej wysokości środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będących równowartością wpływów z opłaty zastępczej, przeznaczonych w danym roku na realizację przedsięwzięć służących poprawie efektywności energetycznej, oraz o wysokości oszczędności energii finalnej uzyskanej w tym roku w wyniku realizacji z tych środków takich przedsięwzięć, w podziale na rodzaje przedsięwzięć wymienione w art. 19 ust. 1;
+
+### 2)
+
+wysokości środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej będących równowartością wpływów z opłaty zastępczej, przeznaczonych w danym roku na realizację poszczególnych przedsięwzięć służących poprawie efektywności energetycznej, oraz o oszczędnościach energii finalnej planowanych oraz uzyskanych w tym roku, odnoszących się do poszczególnych przedsięwzięć służących poprawie efektywności energetycznej, realizowanych oraz zrealizowanych z tych środków, z uwzględnieniem rodzajów przedsięwzięć wymienionych w art. 19 ust. 1.
+
+” ;
+
+### 10)
+
+w art. 14:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Podmioty zobowiązane są obowiązane uzyskać w każdym roku oszczędności energii finalnej:
+
+### 1)
+
+w wysokości 1,5% ilości energii elektrycznej, ciepła lub gazu ziemnego wyrażonej w tonach oleju ekwiwalentnego, sprzedanych w danym roku odbiorcom końcowym przyłączonym do sieci na terytorium Rzeczypospolitej Polskiej, pomniejszonej o ilość energii zaoszczędzonej przez odbiorców końcowych, o których mowa w art. 15 ust. 1, określonej w oświadczeniu wskazanym w tym przepisie;
+
+### 2)
+
+w wysokości 1,5% ilości energii elektrycznej lub gazu ziemnego, wyrażonej w tonach oleju ekwiwalentnego, zakupionych w danym roku:
+
+### a)
+
+na giełdzie towarowej lub na rynku organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany w transakcjach zawieranych we własnym imieniu przez odbiorców końcowych, o których mowa w art. 10 ust. 2 pkt 2,
+
+### b)
+
+poza giełdą towarową lub rynkiem organizowanym przez podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany lub przez spółkę, której Krajowy Depozyt Papierów Wartościowych S.A. przekazał wykonywanie czynności z zakresu zadań, o których mowa w art. 48 ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, w transakcjach zawieranych we własnym imieniu przez odbiorców końcowych, o których mowa w art. 10 ust. 2 pkt 3,
+
+### c)
+
+przez towarowy dom maklerski lub dom maklerski w rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, w odniesieniu do transakcji realizowanych na zlecenie odbiorców końcowych przyłączonych do sieci na terytorium Rzeczypospolitej Polskiej;
+
+### 3)
+
+w wysokości 1,5% ilości gazu ziemnego, wyrażonej w tonach oleju ekwiwalentnego, sprowadzonego w danym roku na terytorium Rzeczypospolitej Polskiej w ramach nabycia wewnątrzwspólnotowego lub importu w rozumieniu przepisów o podatku akcyzowym i zużytego na własny użytek;
+
+### 4)
+
+w wysokości:
+
+### a)
+
+0,2% w 2021 r.,
+
+### b)
+
+0,2% w 2022 r.,
+
+### c)
+
+0,4% w 2023 r.,
+
+### d)
+
+0,4% w 2024 r.,
+
+### e)
+
+0,5% w 2025 r.,
+
+### f)
+
+0,6% w 2026 r.,
+
+### g)
+
+0,7% w 2027 r.,
+
+### h)
+
+0,8% w 2028 r.,
+
+### i)
+
+0,9% w 2029 r.,
+
+### j)
+
+1% w 2030 r. i w każdym kolejnym roku
+
+- ilości paliw ciekłych, wyrażonej w tonach oleju ekwiwalentnego, wprowadzanych do obrotu w danym roku przez podmiot, o którym mowa w art. 10 ust. 2 pkt 6, z wyłączeniem biokomponentów, o których mowa w ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1 po wyrazach „na potrzeby wytwarzania energii elektrycznej lub ciepła,” dodaje się wyrazy „lub paliw ciekłych,”,
+
+- - uchyla się pkt 2;
+
+### 11)
+
+po art. 14 dodaje się art. 14a w brzmieniu:
+
+„
+
+### Art. 14a.
+
+### 1.
+
+Podmiot zobowiązany, który wprowadza do obrotu paliwa ciekłe wytworzone w procesie polegającym na mieszaniu komponentów z paliwami ciekłymi lub mieszaniu paliw ciekłych, w odniesieniu do których poprzedni podmiot paliwowy jest obowiązany zrealizować obowiązek, o którym mowa w art. 14 ust. 1 pkt 4, za podstawę obliczeń swojego obowiązku przyjmuje różnicę między całkowitą ilością paliw ciekłych wprowadzaną do obrotu i ilością paliw ciekłych, od której obowiązek ciąży na poprzednim podmiocie paliwowym, wyrażoną w tonach oleju ekwiwalentnego.
+
+### 2.
+
+Podmiot, o którym mowa w art. 10 ust. 1 pkt 6, w terminie miesiąca od zakończenia miesiąca, w którym dokonał rozporządzenia paliwem ciekłym, jest obowiązany przekazać podmiotowi paliwowemu nabywającemu od niego te paliwa ciekłe informację zawierającą:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer identyfikacji podatkowej (NIP);
+
+### 2)
+
+wskazanie rodzaju i ilości paliw ciekłych wyrażonej w tonach oleju ekwiwalentnego, w zakresie których podmiot paliwowy jest obowiązany zrealizować obowiązek, o którym mowa w art. 14 ust. 1 pkt 4.
+
+### 3.
+
+Do informacji, o której mowa w ust. 2, dołącza się podpisane przez osobę uprawnioną do reprezentowania podmiotu, o którym mowa w art. 10 ust. 1 pkt 6, oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny oświadczam, że zrealizowano obowiązek uzyskania oszczędności energii finalnej wyrażonej w tonach oleju ekwiwalentnego, o którym mowa w art. 14 ust. 1 pkt 4 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+” ;
+
+### 12)
+
+po art. 15 dodaje się art. 15a w brzmieniu:
+
+„
+
+### Art. 15a.
+
+### 1.
+
+Podmioty, o których mowa w art. 10 ust. 2 i art. 15 ust. 1, lub podmioty przez nie upoważnione mogą realizować programy bezzwrotnych dofinansowań, w celu współfinansowania przedsięwzięć służących poprawie efektywności energetycznej, polegających na:
+
+### 1)
+
+wymianie urządzeń lub instalacji służących do celów ogrzewania lub przygotowania ciepłej wody użytkowej na urządzenia lub instalacje służące do celów ogrzewania lub przygotowania ciepłej wody użytkowej charakteryzujące się wyższą klasą efektywności energetycznej, o której mowa w aktach delegowanych w rozumieniu art. 2 ust. 1 ustawy z dnia 14 września 2012 r. o etykietowaniu energetycznym produktów związanych z energią ([Dz. U. z 2020 r. poz. 378](https://api.sejm.gov.pl/eli/acts/DU/2020/378/text.html)), z zastrzeżeniem art. 7 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1369 z dnia 4 lipca 2017 r. ustanawiającego ramy etykietowania energetycznego i uchylającego dyrektywę 2010/30/UE ([Dz. Urz. UE L 198 z 28.07.2017, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)),
+
+### 2)
+
+przyłączeniu do sieci ciepłowniczej
+
+- zwane dalej „programami dofinansowań”, na podstawie umów zawieranych z odbiorcami końcowymi.
+
+### 2.
+
+Suma oszczędności energii finalnej zaoszczędzonej w ciągu roku kalendarzowego przez wszystkich odbiorców końcowych w wyniku realizacji programu dofinansowań stanowi ilość energii finalnej zaoszczędzonej przez tych odbiorców w wyniku zrealizowania przedsięwzięć współfinansowanych w ramach programu dofinansowań.
+
+### 3.
+
+Ilość energii finalnej, wyrażonej w tonach oleju ekwiwalentnego, zaoszczędzonej w ciągu roku kalendarzowego przez odbiorców końcowych w wyniku realizacji programu dofinansowań oblicza się z uwzględnieniem wartości referencyjnych oszczędności energii finalnej dla każdego przedsięwzięcia służącego poprawie efektywności energetycznej, o którym mowa w ust. 1.
+
+### 4.
+
+Przez wartość referencyjną oszczędności energii finalnej, o której mowa w ust. 3, rozumie się przeciętną ilość średniorocznych oszczędności energii finalnej, wyrażoną w tonach oleju ekwiwalentnego na rok, uzyskaną w wyniku realizacji danego rodzaju przedsięwzięcia służącego poprawie efektywności energetycznej, o którym mowa w ust. 1.
+
+### 5.
+
+Minister właściwy do spraw klimatu określi, w drodze rozporządzenia:
+
+### 1)
+
+wartości referencyjne oszczędności energii finalnej dla przedsięwzięć służących poprawie efektywności energetycznej, o których mowa w ust. 1, polegających na wymianie w budynkach mieszkalnych jednorodzinnych w rozumieniu art. 3 pkt 2a ustawy z dnia 7 lipca 1994 r. - Prawo budowlane standardowych indywidualnych źródeł ciepła, których wartości średniej rocznej sprawności zostały określone w przepisach wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków ([Dz. U. z 2021 r. poz. 497](https://api.sejm.gov.pl/eli/acts/DU/2021/497/text.html)),
+
+### 2)
+
+sposób obliczania wartości referencyjnych oszczędności energii finalnej dla przedsięwzięć służących poprawie efektywności energetycznej, o których mowa w ust. 1, polegających na wymianie źródeł ciepła innych niż wymienione w pkt 1, lub wymianie instalacji, w tym dane i metody wykorzystywane do obliczania tych wartości referencyjnych
+
+- biorąc pod uwagę aktualny stan wiedzy technicznej w zakresie efektywności energetycznej oraz zapewnienie sprawnej i prawidłowej weryfikacji oszczędności energii.
+
+### 6.
+
+Dopuszczalna wysokość dofinansowania przedsięwzięć służących poprawie efektywności energetycznej, o których mowa w ust. 1, realizowanych przez podmiot zobowiązany w ramach programu dofinansowań wynosi nie więcej niż iloczyn łącznej ilości energii finalnej zaoszczędzonej w ramach programu dofinansowań, wyrażonej w tonach oleju ekwiwalentnego, i jednostkowej opłaty zastępczej w danym roku kalendarzowym.
+
+### 7.
+
+Podmiot zobowiązany, który zamierza w danym roku kalendarzowym zrealizować program dofinansowań, jest obowiązany sporządzić regulamin programu dofinansowań i przekazać jego kopię do Prezesa URE najpóźniej do 15 grudnia roku poprzedzającego rok, w którym będzie realizowany program dofinansowań.
+
+### 8.
+
+Regulamin, o którym mowa w ust. 7, zawiera co najmniej:
+
+### 1)
+
+postanowienia określające grupę odbiorców końcowych;
+
+### 2)
+
+rodzaje przedsięwzięć służących poprawie efektywności energetycznej;
+
+### 3)
+
+warunki i sposób skorzystania z dofinansowań;
+
+### 4)
+
+ilość energii planowanej do zaoszczędzenia przez odbiorców końcowych korzystających z programu dofinansowania dla danych przedsięwzięć służących poprawie efektywności energetycznej;
+
+### 5)
+
+okres obowiązywania programu dofinansowania i warunki jego zakończenia;
+
+### 6)
+
+wzór umowy z odbiorcą końcowym.
+
+### 9.
+
+Podmiot zobowiązany przechowuje dla celów kontrolnych umowy zawarte z odbiorcami końcowymi w ramach realizacji programów dofinansowań przez okres co najmniej 5 lat od dnia upływu terminu rozliczenia wykonania obowiązku, o którym mowa w art. 10 ust. 1, określonego w art. 16 ust. 1.
+
+### 10.
+
+Koszty realizacji programów dofinansowań poniesione przez podmioty zobowiązane, o których mowa w art. 10 ust. 2 pkt 1, do wysokości określonej zgodnie z ust. 6, stanowią koszty uzasadnione w rozumieniu art. 3 pkt 21 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne, poniesione w związku z realizacją obowiązku, o którym mowa w art. 10 ust. 1, do wymaganego w danym roku poziomu oszczędności energii finalnej określonego w art. 14 i wyłącznie w tej wysokości są uwzględniane w kosztach uzasadnionych działalności tych podmiotów na podstawie art. 45 ust. 1e ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne. Koszty poniesione w zakresie wyższym niż te, o których mowa w zdaniu pierwszym, nie stanowią w danym roku kosztów uzasadnionych w rozumieniu art. 3 pkt 21 ustawy - Prawo energetyczne. Koszty te mogą być uwzględniane w kolejnych latach, aż do wyczerpania całości uzyskanej oszczędności energii finalnej.
+
+” ;
+
+### 13)
+
+w art. 16:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Podmiot zobowiązany może rozliczyć wykonanie obowiązku, o którym mowa w art. 10 ust. 1, w zakresie nierealizowanym opłatą zastępczą, do dnia 30 czerwca trzeciego roku następującego po roku, którego dotyczy obowiązek.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Do rozliczenia wykonania obowiązku, o którym mowa w art. 10 ust. 1 pkt 1, nie zalicza się:
+
+### 1)
+
+przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej, dla których zostały wydane świadectwa efektywności energetycznej, o których mowa w art. 20 ust. 1, lub
+
+### 2)
+
+przedsięwzięć, które zostały zrealizowane w ramach programu dofinansowań.
+
+” ,
+
+### d)
+
+dodaje się ust. 6 i 7 w brzmieniu:
+
+„
+
+### 6.
+
+Rozliczając wykonanie obowiązku, o którym mowa w art. 10 ust. 1 pkt 3, podmiot zobowiązany, o którym mowa w art. 10 ust. 2, przedkłada Prezesowi URE listę zawartych umów z odbiorcami końcowymi, o których mowa w art. 15a ust. 1, zawierającą ich imiona, nazwiska lub nazwy, adresy zamieszkania lub siedziby, daty zakończenia realizacji poszczególnych przedsięwzięć oraz ilość zaoszczędzonej energii finalnej uzyskanej w wyniku ich realizacji.
+
+### 7.
+
+Do listy, o której mowa w ust. 6, dołącza się podpisane przez osobę uprawnioną do reprezentowania podmiotu, o którym mowa w art. 10 ust. 2, oświadczenie następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny oświadczam, że zrealizowany został program bezzwrotnych dofinansowań w celu współfinansowania przedsięwzięć służących poprawie efektywności energetycznej, których beneficjentami są odbiorcy końcowi. Ilość energii finalnej zaoszczędzonej przez odbiorców końcowych w ramach tego programu dofinansowań, obliczona zgodnie z przepisami wydanymi na podstawie art. 15a ust. 5 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej, wynosi … ton oleju ekwiwalentnego.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+” ;
+
+### 14)
+
+w art. 17 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prezes URE ogłasza w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Regulacji Energetyki, zwanym dalej „BIP URE”, informacje o:
+
+### 1)
+
+uzyskanej oszczędności energii finalnej:
+
+### a)
+
+wynikającej z realizacji obowiązku, o którym mowa w art. 10 ust. 1, przez podmioty zobowiązane, o których mowa w art. 10 ust. 2 pkt 1-4 i 6,
+
+### b)
+
+osiągniętej przez odbiorcę końcowego, o którym mowa w art. 15 ust. 1,
+
+### 2)
+
+łącznej wielkości oszczędności energii finalnej uzyskanej przez podmioty, o których mowa w art. 10 ust. 2 pkt 1-4 i 6
+
+- do dnia 31 grudnia danego roku następującego po roku wykonania obowiązku określonego w art. 10 ust. 1.
+
+” ;
+
+### 15)
+
+w art. 18 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2-6 w brzmieniu:
+
+„
+
+### 2.
+
+Oszczędność energii finalnej uzyskana w wyniku realizacji obowiązku, o którym mowa w art. 10 ust. 1, oraz za pomocą środków alternatywnych, o których mowa w ust. 3, od dnia 1 stycznia 2021 r. do dnia 31 grudnia 2030 r. wynosi nie mniej niż 5580 tys. ton oleju ekwiwalentnego.
+
+### 3.
+
+Przez środki alternatywne rozumie się programy i instrumenty finansowe dotyczące przedsięwzięć służących poprawie efektywności energetycznej u odbiorcy końcowego, na których realizację uzyskano środki pochodzące:
+
+### 1)
+
+z budżetu państwa;
+
+### 2)
+
+z budżetu Unii Europejskiej oraz pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
+
+### 3)
+
+ze źródeł zagranicznych innych niż wymienione w pkt 2;
+
+### 4)
+
+z budżetów jednostek samorządu terytorialnego;
+
+### 5)
+
+z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, z wyłączeniem środków będących równowartością wpływów z opłaty zastępczej, o której mowa w art. 11;
+
+### 6)
+
+z wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
+
+### 4.
+
+Minister właściwy do spraw klimatu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wykaz programów i instrumentów finansowych dotyczących przedsięwzięć służących poprawie efektywności energetycznej u odbiorcy końcowego.
+
+### 5.
+
+Instytucje:
+
+### 1)
+
+zawierające z wnioskodawcami umowy o dofinansowanie, w rozumieniu art. 2 pkt 26 ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 ([Dz. U. z 2020 r. poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2020/818/text.html)), projektów realizowanych w ramach programów i instrumentów finansowych, o których mowa w ust. 4, lub podejmujące decyzje o dofinansowaniu, w rozumieniu art. 2 pkt 2 tej ustawy, takich projektów,
+
+### 2)
+
+inne niż wskazane w pkt 1, zawierające z wnioskodawcami umowy o dofinansowanie przedsięwzięć służących poprawie efektywności energetycznej u odbiorcy końcowego, realizowanych w ramach programów i instrumentów finansowych, o których mowa w ust. 4, lub przyznające dofinansowanie takich przedsięwzięć
+
+- wprowadzają do centralnego rejestru oszczędności energii finalnej, o którym mowa w art. 35a ust. 1, za pomocą systemu teleinformatycznego obsługującego ten rejestr, do dnia 31 marca każdego roku za poprzedni rok kalendarzowy, informacje o zrealizowanych przedsięwzięciach służących poprawie efektywności energetycznej oraz wysokości uzyskanej w wyniku ich realizacji oszczędności energii finalnej, zgodnie z zakresem określonym w art. 35a ust. 3 oraz przepisach wykonawczych wydanych na podstawie art. 35a ust. 4.
+
+### 6.
+
+Dyrektor Instytutu Ochrony Środowiska - Państwowego Instytutu Badawczego, zwany dalej „Dyrektorem IOŚ-PIB”, przekazuje ministrowi właściwemu do spraw klimatu dane dotyczące uzyskanych oszczędności energii finalnej w danym roku kalendarzowym, o których mowa w art. 35a ust. 3 pkt 1, do dnia 31 marca każdego roku.
+
+” ;
+
+### 16)
+
+w art. 19:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 3: - - lit. b otrzymuje brzmienie: „ b) urządzeń lub instalacji wykorzystywanych w procesach przemysłowych, energetycznych, telekomunikacyjnych lub informatycznych, ” , - - lit. d otrzymuje brzmienie: „ d) urządzeń przeznaczonych do użytku domowego, ” , - - dodaje się lit. e w brzmieniu: „ e) pojazdów służących do transportu drogowego lub kolejowego; ” , - w pkt 5: - - lit. b otrzymuje brzmienie: „ b) sieciowych związanych z przesyłaniem lub dystrybucją energii elektrycznej, gazu ziemnego lub paliw ciekłych, ” , - - w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu: „ f) związanych z magazynowaniem i przeładunkiem paliw ciekłych; ” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przepisu ust. 1 pkt 3 lit. b nie stosuje się do procesów energetycznych prowadzonych w instalacjach spalania paliw objętych systemem handlu uprawnieniami do emisji, o których mowa w załączniku nr 1 do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych ([Dz. U. z 2021 r. poz. 332](https://api.sejm.gov.pl/eli/acts/DU/2021/332/text.html)), z wyjątkiem urządzeń potrzeb własnych rozumianych jako urządzenia lub instalacje pomocnicze służące procesowi wytwarzania energii elektrycznej lub ciepła.
+
+” ;
+
+### 17)
+
+w art. 20:
+
+### a)
+
+w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+zrealizowanych w celu wypełnienia obowiązków, o których mowa w art. 10 ust. 1 pkt 1 i 3.
+
+” ,
+
+### b)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+planującego rozpoczęcie prac zmierzających do realizacji przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej albo
+
+” ,
+
+### c)
+
+w ust. 4:
+
+- - pkt 4 otrzymuje brzmienie: „ 4) oznaczenie terminu rozpoczęcia oraz terminu zakończenia prac zmierzających do realizacji przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej; ” ,
+
+- - dodaje się pkt 5 w brzmieniu: „ 5) wskazanie, czy został złożony inny wniosek o wydanie świadectwa efektywności energetycznej w odniesieniu do przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej przez podmiot, u którego będą realizowane te przedsięwzięcia, lub przez podmiot przez niego upoważniony. ” ,
+
+### d)
+
+w ust. 5 w pkt 2 wyrazy „oświadczenie następującej treści:” zastępuje się wyrazami „oświadczenie podpisane przez osobę uprawnioną do reprezentowania wnioskodawcy, o którym mowa w ust. 3, następującej treści:”,
+
+### e)
+
+dodaje się ust. 8 w brzmieniu:
+
+„
+
+### 8.
+
+W przypadku gdy audyt efektywności energetycznej nie został sporządzony przez osobę, która spełnia wymagania określone w art. 25 ust. 5, Prezes URE niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku przez dołączenie prawidłowo sporządzonego audytu efektywności energetycznej w terminie 30 dni od dnia doręczenia wezwania. Nieuzupełnienie wniosku w wyznaczonym terminie skutkuje pozostawieniem wniosku bez rozpoznania.
+
+” ;
+
+### 18)
+
+w art. 22 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Prezes URE przekazuje ministrowi właściwemu do spraw klimatu, do dnia 31 marca każdego roku za poprzedni rok kalendarzowy, sprawozdania z realizacji przedsięwzięć służących poprawie efektywności energetycznej, oddzielnie dla każdego rodzaju przedsięwzięć wymienionych w art. 19 ust. 1, które zawierają informacje o:
+
+### 1)
+
+liczbie wydanych świadectw efektywności energetycznej;
+
+### 2)
+
+wartości umorzonych świadectw efektywności energetycznej;
+
+### 3)
+
+wysokości oszczędności energii finalnej uzyskanej z przedsięwzięć służących poprawie efektywności energetycznej dla wydanych oraz umorzonych świadectw efektywności energetycznej, o których mowa w pkt 1 i 2.
+
+” ;
+
+### 19)
+
+po art. 23 dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+W przypadku uzyskania oszczędności energii finalnej z zakończonego przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej w wysokości innej niż określona w wydanym świadectwie efektywności energetycznej podmiot, o którym mowa w art. 23 ust. 1, składa wniosek o zmianę wartości świadectwa efektywności energetycznej dotyczącą ilości energii finalnej określonej w wydanym świadectwie efektywności energetycznej, zgodnie z dołączonym do tego wniosku audytem efektywności energetycznej, o którym mowa w art. 23 ust. 1.
+
+” ;
+
+### 20)
+
+w art. 24:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Podmiot, o którym mowa w art. 23 ust. 1, zawiadamia Prezesa URE o zakończeniu przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej. Do zawiadomienia należy dołączyć:
+
+### 1)
+
+audyt efektywności energetycznej, o którym mowa w art. 23 ust. 1, jeżeli jest wymagany;
+
+### 2)
+
+oświadczenie podpisane przez osobę uprawnioną do reprezentowania wnioskodawcy, o którym mowa w art. 20 ust. 3, następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny oświadczam, że zakończono przedsięwzięcie lub przedsięwzięcia tego samego rodzaju służące poprawie efektywności energetycznej i uzyskano oszczędność energii finalnej w ilości określonej w świadectwie efektywności energetycznej w rozumieniu przepisów o efektywności energetycznej.”; klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń;
+
+### 3)
+
+dokument potwierdzający:
+
+### a)
+
+rozpoczęcie prac zmierzających do realizacji przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej, w szczególności umowę z wykonawcą robót lub dokument potwierdzający zamówienie urządzeń,
+
+### b)
+
+zakończenie przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Prezes URE odmawia, w drodze decyzji, przekazania informacji, o której mowa w ust. 2, jeżeli:
+
+### 1)
+
+rozpoczęcie prac zmierzających do realizacji przedsięwzięcia służącego poprawie efektywności energetycznej nastąpiło przed dniem złożenia wniosku o wydanie świadectwa efektywności energetycznej, o którym mowa w art. 20 ust. 3, lub
+
+### 2)
+
+podmiot nie złożył wniosku o zmianę świadectwa efektywności energetycznej w przypadku określonym w art. 23a.
+
+” ;
+
+### 21)
+
+w art. 25 dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Audyt efektywności energetycznej może sporządzić wyłącznie osoba, która:
+
+### 1)
+
+posiada co najmniej dwuletnie doświadczenie zawodowe w zakresie obsługi, eksploatacji lub montażu danego rodzaju urządzeń technicznych lub instalacji, lub w zakresie obsługi lub eksploatacji danego rodzaju obiektów, objętych audytem efektywności energetycznej, lub
+
+### 2)
+
+ukończyła:
+
+### a)
+
+studia wyższe zakończone uzyskaniem tytułu zawodowego magistra, magistra inżyniera albo tytułu równorzędnego potwierdzającego wykształcenie wyższe na tym samym poziomie lub
+
+### b)
+
+studia podyplomowe
+
+- których program uwzględnia zagadnienia związane z energetyką, elektrotechniką, efektywnością energetyczną, wykonywaniem audytów energetycznych budynków, budownictwem energooszczędnym lub odnawialnymi źródłami energii.
+
+” ;
+
+### 22)
+
+w art. 26 w ust. 1 uchyla się pkt 2;
+
+### 23)
+
+uchyla się art. 27;
+
+### 24)
+
+art. 28 otrzymuje brzmienie:
+
+„
+
+### Art. 28.
+
+### 1.
+
+Podmiot, o którym mowa w art. 23 ust. 1, który zawiadamiając Prezesa URE o zakończeniu realizacji przedsięwzięcia lub przedsięwzięć tego samego rodzaju służących poprawie efektywności energetycznej, udzielił nieprawdziwych lub wprowadzających w błąd informacji o zakończeniu ich realizacji lub o uzyskanych oszczędnościach energii finalnej, a także w przypadku negatywnej weryfikacji oszczędności energii finalnej:
+
+### 1)
+
+nie może występować z wnioskiem o wydanie świadectwa efektywności energetycznej, o którym mowa w art. 20 ust. 3, przez okres 5 lat od uprawomocnienia się decyzji, o której mowa w ust. 2;
+
+### 2)
+
+jest obowiązany przedstawić do umorzenia, w terminie wskazanym w decyzji, o której mowa w ust. 2, świadectwo efektywności energetycznej na wartość nienależnie uzyskanej oszczędności energii finalnej wyrażonej w tonach oleju ekwiwalentnego wynikającej z wydanego świadectwa efektywności energetycznej, stanowiącej różnicę między ilością energii finalnej wynikającą ze świadectwa efektywności energetycznej wydanego temu podmiotowi a ilością energii faktycznie zaoszczędzonej, wyrażoną w tonach oleju ekwiwalentnego.
+
+### 2.
+
+W przypadku określonym w ust. 1 Prezes URE wydaje decyzję określającą wartość i termin przedstawienia do umorzenia świadectwa efektywności energetycznej na wartość nienależnie uzyskanej oszczędności, o której mowa w ust. 1 pkt 2.
+
+### 3.
+
+Do wykonywania obowiązku umorzenia świadectwa efektywności energetycznej, o którym mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 30 i art. 31.
+
+” ;
+
+### 25)
+
+w art. 32 w ust. 3 wyrazy „z zastrzeżeniem art. 16 ust. 1 i 2” zastępuje się wyrazami „z zastrzeżeniem art. 16 ust. 1”;
+
+### 26)
+
+po rozdziale 4 dodaje się rozdział 4a w brzmieniu:
+
+„
+
+### Rozdział 4a Zasady prowadzenia centralnego rejestru oszczędności energii finalnej
+
+### Art. 35a.
+
+### 1.
+
+Instytut Ochrony Środowiska - Państwowy Instytut Badawczy prowadzi centralny rejestr oszczędności energii finalnej, zwany dalej „rejestrem”, oraz jest administratorem danych zgromadzonych w tym rejestrze.
+
+### 2.
+
+W rejestrze są gromadzone dane oraz informacje dotyczące wysokości uzyskanej oszczędności energii finalnej.
+
+### 3.
+
+Rejestr zawiera:
+
+### 1)
+
+informacje dotyczące:
+
+### a)
+
+przedsięwzięć służących poprawie efektywności energetycznej zrealizowanych za pomocą środków alternatywnych, o których mowa w art. 18 ust. 3, oraz ilości uzyskanej w wyniku ich realizacji oszczędności energii finalnej, w tym:
+
+- - rodzaju przedsięwzięcia służącego poprawie efektywności energetycznej,
+
+− kwoty dofinansowania przedsięwzięcia,
+
+- - formy dofinansowania przedsięwzięcia,
+
+- - okresu uzyskiwania oszczędności energii,
+
+- - ilości uzyskanych średniorocznych oszczędności energii finalnej, wyrażonej w tonach oleju ekwiwalentnego na rok,
+
+- - sposobu potwierdzenia oszczędności, o których mowa w tiret piątym,
+
+- - daty rozpoczęcia i zakończenia realizacji przedsięwzięcia,
+
+### b)
+
+łącznej ilości oszczędności energii finalnej uzyskanej do 2030 r.;
+
+### 2)
+
+wykaz osób upoważnionych, o których mowa w art. 35b ust. 4, zwany dalej „wykazem”;
+
+### 3)
+
+dane instytucji, o których mowa w art. 18 ust. 5, w tym:
+
+### a)
+
+nazwę instytucji oraz adres jej siedziby,
+
+### b)
+
+adres poczty elektronicznej.
+
+### 4.
+
+Minister właściwy do spraw klimatu określi, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 3 pkt 1 lit. a tiret pierwsze i szóste, gromadzonych w rejestrze oraz sposób uwierzytelniania osób upoważnionych wpisanych do wykazu, mając na względzie użyteczność tych informacji, funkcjonalność rejestru oraz zapewnienie bezpieczeństwa rejestru i ochrony zgromadzonych w nim informacji.
+
+### 5.
+
+Rejestr jest prowadzony z wykorzystaniem systemu teleinformatycznego zgodnie z przepisami ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2021 r. poz. 670](https://api.sejm.gov.pl/eli/acts/DU/2021/670/text.html)).
+
+### Art. 35b.
+
+### 1.
+
+Dane wprowadza się do rejestru za pomocą systemu teleinformatycznego obsługującego ten rejestr. Wprowadzenie danych jest równoznaczne z wyrażeniem zgody na ich przetwarzanie.
+
+### 2.
+
+Dane wprowadza się do rejestru przez pobranie danych zgromadzonych w tym rejestrze, ich weryfikację oraz wpisanie do rejestru nowych danych. System teleinformatyczny obsługujący rejestr zapewnia automatyczną archiwizację wcześniej wprowadzonych danych do rejestru.
+
+### 3.
+
+Uprawnionymi do wprowadzania danych i informacji do rejestru są:
+
+### 1)
+
+Instytut Ochrony Środowiska - Państwowy Instytut Badawczy - jako administrator danych,
+
+### 2)
+
+minister właściwy do spraw klimatu,
+
+### 3)
+
+minister właściwy do spraw rozwoju regionalnego,
+
+### 4)
+
+minister właściwy do spraw finansów publicznych,
+
+### 5)
+
+Centrum Unijnych Projektów Transportowych,
+
+### 6)
+
+Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej,
+
+### 7)
+
+wojewódzkie fundusze ochrony środowiska i gospodarki wodnej,
+
+### 8)
+
+jednostki samorządu terytorialnego,
+
+### 9)
+
+Bank Ochrony Środowiska,
+
+### 10)
+
+Bank Gospodarstwa Krajowego,
+
+### 11)
+
+instytucje, o których mowa w art. 18 ust. 5
+
+- zwane dalej „podmiotami uprawnionymi”.
+
+### 4.
+
+Podmioty uprawnione, o których mowa w ust. 3 pkt 2-11, wyznaczają osoby upoważnione do wprowadzania w ich imieniu danych i informacji do rejestru. Dane osób upoważnionych gromadzi się w wykazie.
+
+### 5.
+
+Dane osób upoważnionych wpisuje się do wykazu na wniosek:
+
+### 1)
+
+dyrektora departamentu - w przypadku podmiotów, o których mowa w ust. 3 pkt 2-4;
+
+### 2)
+
+dyrektora - w przypadku podmiotu, o którym mowa w ust. 3 pkt 5;
+
+### 3)
+
+prezesa - w przypadku podmiotów, o których mowa w ust. 3 pkt 6, 7, 9 i 10;
+
+### 4)
+
+sekretarza województwa, sekretarza powiatu albo wójta, burmistrza lub prezydenta miasta - w przypadku podmiotów, o których mowa w ust. 3 pkt 8;
+
+### 5)
+
+właściwego organu lub osoby upoważnionej do reprezentowania instytucji - w przypadku, o którym mowa w ust. 3 pkt 11.
+
+### 6.
+
+Wykaz zawiera:
+
+### 1)
+
+imię i nazwisko oraz stanowisko osoby upoważnionej;
+
+### 2)
+
+adres do korespondencji, w tym adres poczty elektronicznej osoby upoważnionej.
+
+### 7.
+
+Wniosek o wpis danych osób upoważnionych do wykazu oraz wniosek o zmianę danych zawartych w wykazie zawiera dane, o których mowa w ust. 6.
+
+### 8.
+
+Dyrektor IOŚ-PIB przyznaje osobie upoważnionej dostęp do systemu teleinformatycznego obsługującego rejestr. Osobie upoważnionej przez podmiot uprawniony, o którym mowa w ust. 3 pkt 2, zapewnia się dostęp do informacji zgromadzonych w tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru. Osobom upoważnionym przez podmioty uprawnione, o których mowa w ust. 3 pkt 3-11, zapewnia się dostęp do informacji zgromadzonych w tym rejestrze oraz informacji archiwalnych wprowadzonych do rejestru przez osoby upoważnione przez te podmioty.
+
+### 9.
+
+Zmiana danych, o których mowa w ust. 6, następuje na wniosek podmiotów, o których mowa w ust. 5, składany za pomocą systemu teleinformatycznego obsługującego rejestr, w terminie 14 dni od dnia zaistnienia zmiany.
+
+### 10.
+
+Wnioski, o których mowa w ust. 7, składa się przy użyciu formularza elektronicznego udostępnionego pod adresem elektronicznym wskazanym w Biuletynie Informacji Publicznej na stronie podmiotowej Instytutu Ochrony Środowiska - Państwowego Instytutu Badawczego.
+
+### 11.
+
+Minister właściwy do spraw klimatu udostępnia wzory wniosków, o których mowa w ust. 7, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, w Biuletynie Informacji Publicznej urzędu obsługującego tego ministra, kierując się potrzebą zapewniania sprawności procesu wprowadzania danych do rejestru.
+
+### 12.
+
+Dane, o których mowa w ust. 6, przechowuje się do czasu dokonania zmiany, o której mowa w ust. 9.
+
+### 13.
+
+Informacje, o których mowa w art. 35a ust. 3 pkt 1 i 3, przechowuje się nie dłużej niż do dnia 31 grudnia 2035 r.
+
+### Art. 35c.
+
+Informacje zgromadzone w rejestrze udostępnia się na wniosek za pomocą środków komunikacji elektronicznej.
+
+” ;
+
+### 27)
+
+w art. 37 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Audyt energetyczny przedsiębiorstwa jest procedurą mającą na celu przeprowadzenie szczegółowych i potwierdzonych obliczeń dotyczących proponowanych przez nie przedsięwzięć realizowanych na terytorium Rzeczypospolitej Polskiej służących poprawie efektywności energetycznej oraz dostarczenie informacji o potencjalnych oszczędnościach energii osiągniętych w wyniku ich realizacji.
+
+” ;
+
+### 28)
+
+art. 38 otrzymuje brzmienie:
+
+„
+
+### Art. 38.
+
+### 1.
+
+Przedsiębiorca, o którym mowa w art. 36:
+
+### 1)
+
+ust. 1, zawiadamia Prezesa URE o przeprowadzonym audycie energetycznym przedsiębiorstwa,
+
+### 2)
+
+ust. 2, zawiadamia Prezesa URE o przeprowadzonym audycie energetycznym przedsiębiorstwa w ramach systemu, o którym mowa w art. 36 ust. 2
+
+- w terminie 30 dni od dnia jego przeprowadzenia, lecz nie później niż do dnia 31 grudnia roku, w którym przedsiębiorca jest obowiązany do przeprowadzenia audytu energetycznego przedsiębiorstwa; do zawiadomienia należy dołączyć informację o możliwych do uzyskania oszczędnościach energii wynikających z przeprowadzonego audytu energetycznego przedsiębiorstwa.
+
+### 2.
+
+Prezes URE przekazuje ministrowi właściwemu do spraw klimatu informacje o:
+
+### 1)
+
+liczbie przeprowadzonych audytów energetycznych przedsiębiorstwa,
+
+### 2)
+
+liczbie przedsiębiorców:
+
+### a)
+
+którzy przeprowadzili audyt energetyczny przedsiębiorstwa,
+
+### b)
+
+o których mowa w art. 36 ust. 2,
+
+### 3)
+
+możliwych do uzyskania oszczędnościach energii wynikających z przeprowadzonych audytów energetycznych przedsiębiorstwa
+
+- z zachowaniem przepisów o ochronie informacji niejawnych lub innych informacji prawnie chronionych, do dnia 31 marca roku następującego po roku, w którym przedsiębiorca, o którym mowa w art. 36 ust. 1, przesłał informację, o której mowa w ust. 1.
+
+” ;
+
+### 29)
+
+w art. 39 w ust. 1:
+
+### a)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+nie przedkłada podmiotowi paliwowemu informacji, o której mowa w art. 14a ust. 2, lub przedkłada ją niezgodną ze stanem faktycznym;
+
+” ,
+
+### b)
+
+w pkt 6 wyrazy „art. 28 ust. 1” zastępuje się wyrazami „art. 28 ust. 1 pkt 2”.
+
+### Art. 2.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2020 r. poz. 1426](https://api.sejm.gov.pl/eli/acts/DU/2020/1426/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 255, 464 i 794.](#gloss-0:5:)) w art. 21 w ust. 1 po pkt 148 dodaje się pkt 148a w brzmieniu:
+
+„
+
+### 148a)
+
+kwoty otrzymane od podmiotów zobowiązanych, o których mowa w art. 10 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej ([Dz. U. z 2021 r. poz. 468](https://api.sejm.gov.pl/eli/acts/DU/2021/468/text.html) i [868](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.html)), w wyniku realizacji programów dofinansowań, o których mowa w art. 15a tej ustawy.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2021 r. poz. 716](https://api.sejm.gov.pl/eli/acts/DU/2021/716/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 ust. 6c otrzymuje brzmienie:
+
+„
+
+### 6c.
+
+Sprzedawca energii elektrycznej, paliw gazowych lub ciepła informuje swojego odbiorcę o ilości energii elektrycznej, paliw gazowych lub ciepła zużytej przez tego odbiorcę w poprzednim roku oraz o miejscu, w którym są dostępne informacje o przeciętnym zużyciu energii elektrycznej, paliw gazowych lub ciepła dla danej grupy taryfowej, z której ten odbiorca korzystał, a także o środkach poprawy efektywności energetycznej w rozumieniu ustawy z dnia 20 maja 2016 r. o efektywności energetycznej ([Dz. U. z 2021 r. poz. 468](https://api.sejm.gov.pl/eli/acts/DU/2021/468/text.html) i [868](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.html)) i efektywnych energetycznie urządzeniach technicznych.
+
+” ;
+
+### 2)
+
+w art. 45a:
+
+### a)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Informacje na temat kosztów, o których mowa w ust. 2, są udzielane nieodpłatnie.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Jeżeli miejsce zainstalowania układu pomiarowo-rozliczeniowego służącego do rozliczeń kosztów zakupu ciepła lub chłodu jest wspólne dla dwóch lub więcej budynków wielolokalowych albo dwóch lub więcej grup lokali lub lokali, właściciele lub zarządcy tych budynków lub lokali są obowiązani wyposażyć:
+
+### 1)
+
+te budynki i grupy lokali w ciepłomierze,
+
+### 2)
+
+te lokale, o ile jest to technicznie wykonalne i opłacalne:
+
+### a)
+
+w ciepłomierze lub w podzielniki kosztów ogrzewania,
+
+### b)
+
+w wodomierze do pomiaru ciepłej wody użytkowej
+
+- posiadające funkcję zdalnego odczytu.
+
+” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a i 7b w brzmieniu:
+
+„
+
+### 7a.
+
+Budynki z instalacją ogrzewczą wodną zasilaną z sieci ciepłowniczej lub budynki mające więcej niż jedno mieszkanie lub lokal użytkowy zasilane z kotłowni wyposaża się w urządzenia służące do rozliczenia zużytego ciepła lub chłodu obejmujące:
+
+### 1)
+
+ciepłomierz do pomiaru ilości ciepła dostarczanego do instalacji ogrzewczej budynku, posiadający funkcję zdalnego odczytu;
+
+### 2)
+
+ciepłomierze lub podzielniki kosztów ogrzewania posiadające funkcję zdalnego odczytu umożliwiające indywidualne rozliczanie kosztów ogrzewania poszczególnych mieszkań lub lokali użytkowych w budynku, o ile jest to techniczne wykonalne i opłacalne;
+
+### 3)
+
+wodomierze do pomiaru ciepłej wody użytkowej dla poszczególnych mieszkań lub lokali użytkowych w budynku, posiadające funkcję zdalnego odczytu, o ile jest to techniczne wykonalne i opłacalne;
+
+### 4)
+
+urządzenie do pomiaru ilości zużytego paliwa w kotłowni.
+
+### 7b.
+
+Przy ocenie technicznej wykonalności i opłacalności wyposażenia budynków, grup lokali lub lokali w urządzenia, o których mowa w ust. 7 pkt 2 i ust. 7a pkt 2 i 3, bierze się pod uwagę w szczególności:
+
+### 1)
+
+jednopunktowe doprowadzanie ciepła do lokali;
+
+### 2)
+
+możliwość regulacji dostarczonego ciepła przez zawory na grzejnikach usytuowanych w lokalach;
+
+### 3)
+
+korzystanie z węzłów umożliwiających zminimalizowanie strat ciepła wynikających z transportu nośnika zewnętrzną instalacją odbiorczą;
+
+### 4)
+
+zakres termomodernizacji budynku;
+
+### 5)
+
+koszty montażu i obsługi ciepłomierzy lub podzielników kosztów ogrzewania w stosunku do planowanych oszczędności energii.
+
+” ,
+
+### d)
+
+w ust. 8:
+
+- - w pkt 1 lit. a i b otrzymują brzmienie: „ a) dla lokali mieszkalnych i użytkowych: - wskazania ciepłomierzy, - wskazania podzielników kosztów ogrzewania, - kubaturę lub powierzchnię lokali - wyłącznie w przypadkach gdy zastosowanie ciepłomierzy lub podzielników kosztów ogrzewania jest technicznie niewykonalne lub nieopłacalne, b) dla wspólnych części budynku wielolokalowego użytkowanych przez osoby, o których mowa w ust. 2, powierzchnię lub kubaturę tych części proporcjonalnie do powierzchni lub kubatury zajmowanych lokali; ” ,
+
+- - w pkt 2 lit. b otrzymuje brzmienie: „ b) liczbę osób zamieszkałych w lokalu; ” ,
+
+- - dodaje się pkt 3 w brzmieniu: „ 3) kosztów stałych dostawy ciepła: a) na centralne ogrzewanie wraz z kosztami, o których mowa w pkt 1 lit. b, wykorzystując proporcjonalny udział w powierzchni lub kubaturze lokali, b) na przygotowanie ciepłej wody użytkowej, wykorzystując liczbę lokali w budynku lub powierzchnię lokali. ” ,
+
+### e)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Właściciel lub zarządca budynku wielolokalowego dokonuje wyboru metody rozliczania całkowitych kosztów zakupu ciepła na poszczególne lokale mieszkalne i użytkowe w tym budynku.
+
+” ;
+
+### 3)
+
+po art. 45b dodaje się art. 45c i art. 45d w brzmieniu:
+
+„
+
+### Art. 45c.
+
+### 1.
+
+Właściciel lub zarządca budynku wielolokalowego dostarcza nieodpłatnie informację o rozliczeniach kosztów zakupu ciepła wszystkim użytkownikom lokali zaopatrywanym w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku nie rzadziej niż raz w roku.
+
+### 2.
+
+Właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia raz w miesiącu uzyskanie informacji o zużyciu ciepła wszystkim użytkownikom lokali zaopatrywanym w energię cieplną, chłodniczą lub ciepłą wodę użytkową z centralnego źródła w budynku, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa w art. 45a ust. 7 pkt 2.
+
+### Art. 45d.
+
+### 1.
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki ustalania technicznej możliwości i opłacalności zastosowania urządzeń, o których mowa w art. 45a ust. 7 pkt 2;
+
+### 2)
+
+szczegółowe warunki wyboru metody, o której mowa w art. 45a ust. 9;
+
+### 3)
+
+zakres informacji, o których mowa w art. 45c, zawartych w indywidualnych rozliczeniach.
+
+### 2.
+
+Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw energii bierze pod uwagę:
+
+### 1)
+
+sposób doprowadzenia ciepła do budynku i do lokali, efektywność energetyczną budynku oraz efektywność kosztową zastosowania urządzeń, o których mowa w art. 45a ust. 7 pkt 2;
+
+### 2)
+
+promowanie energooszczędnych zachowań, zapewnienie ustalania opłat za zakupione ciepło w sposób odpowiadający zużyciu ciepła na ogrzewanie i przygotowanie ciepłej wody użytkowej oraz uwzględnienie współczynników wyrównawczych zużycia ciepła na ogrzewanie, wynikających z położenia lokalu w bryle budynku;
+
+### 3)
+
+zakres informacji niezbędnych do dokonania indywidualnych rozliczeń oraz zapewnienia czytelności danych.
+
+” ;
+
+### 4)
+
+w art. 56 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+będąc właścicielem lub zarządcą budynku wielolokalowego, o którym mowa w art. 45a ust. 6, narusza obowiązek wyposażenia lokali budynku wielolokalowego w przyrządy pomiarowe lub urządzenia umożliwiające rozliczanie kosztów ciepła według zużycia kosztów ogrzewania oraz zużycia ciepłej wody w takich lokalach budynku wielolokalowego lub nie stosuje rozliczania kosztów według zużycia albo odmawia wypełnienia obowiązków informacyjnych, o których mowa w art. 45a ust. 4a i art. 45c, lub pobiera opłaty za wypełnienie tych obowiązków informacyjnych;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2020 r. poz. 1219](https://api.sejm.gov.pl/eli/acts/DU/2020/1219/text.html), [1378](https://api.sejm.gov.pl/eli/acts/DU/2020/1378/text.html), [1565](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.html), [2127](https://api.sejm.gov.pl/eli/acts/DU/2020/2127/text.html) i [2338](https://api.sejm.gov.pl/eli/acts/DU/2020/2338/text.html) oraz [z 2021 r. poz. 802](https://api.sejm.gov.pl/eli/acts/DU/2021/802/text.html)) w art. 401c w ust. 5 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+działań związanych z utworzeniem i prowadzeniem centralnego rejestru oszczędności energii finalnej, o którym mowa w art. 35a ust. 1 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej;
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym ([Dz. U. z 2020 r. poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2020/711/text.html) i [2275](https://api.sejm.gov.pl/eli/acts/DU/2020/2275/text.html)) w art. 16b w ust. 1 w pkt 2 w lit. i średnik zastępuje się przecinkiem i dodaje się lit. j w brzmieniu:
+
+„
+
+### j)
+
+w przypadku umowy, której przedmiotem jest realizacja przedsięwzięcia służącego poprawie efektywności energetycznej, o którym mowa w art. 2 pkt 12 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej ([Dz. U. z 2021 r. poz. 468](https://api.sejm.gov.pl/eli/acts/DU/2021/468/text.html) i [868](https://api.sejm.gov.pl/eli/acts/DU/2021/868/text.html)), średniorocznych oszczędności energii finalnej możliwych do uzyskania w wyniku realizacji tego przedsięwzięcia oraz okresu uzyskiwania tych oszczędności;
+
+” .
+
+### Art. 6.
+
+Do umów o poprawę efektywności energetycznej zawartych w wyniku postępowań o wyborze dostawcy usług związanych ze zużyciem energii wszczętych przed dniem 1 stycznia 2022 r. stosuje się przepisy dotychczasowe.
+
+### Art. 7.
+
+Informacje, o których mowa w art. 7a ust. 2 ustawy zmienianej w art. 1, minister właściwy do spraw rozwoju regionalnego przekaże po raz pierwszy ministrowi właściwemu do spraw klimatu do dnia 31 marca 2022 r.
+
+### Art. 8.
+
+Nie później niż do dnia 30 czerwca 2023 r. podmioty zobowiązane, o których mowa w art. 10 ust. 1 ustawy zmienianej w art. 1, mogą łącznie rozliczyć wykonanie obowiązku, o którym mowa w art. 10 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, za dwa lub trzy lata, jeżeli nie dokonały rozliczenia, o którym mowa w art. 16 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 9.
+
+Do rozliczenia wykonania obowiązku, o którym mowa w art. 10 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, za rok 2019 oraz za rok 2020 stosuje się przepisy dotychczasowe.
+
+### Art. 10.
+
+Obowiązek, o którym mowa w art. 14 ust. 1 pkt 4 lit. a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, podmiot, o którym mowa w art. 10 ust. 2 pkt 6 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, wykonuje w zakresie paliw ciekłych wprowadzonych do obrotu w okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2021 r.
+
+### Art. 11.
+
+Do wniosków o wydanie świadectwa efektywności energetycznej złożonych do Prezesa Urzędu Regulacji Energetyki przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 12.
+
+Za osobę uprawnioną do sporządzania audytów efektywności energetycznej, o której mowa w art. 25 ust. 5 ustawy zmienianej w art. 1, uznaje się osobę, która do dnia wejścia w życie niniejszej ustawy uzyskała co najmniej roczne doświadczenie w sporządzaniu audytów efektywności energetycznej, o których mowa w art. 25 ust. 1 ustawy zmienianej w art. 1, potwierdzone wydanymi przez Prezesa Urzędu Regulacji Energetyki na ich podstawie świadectwami efektywności energetycznej.
+
+### Art. 13.
+
+Tworzy się centralny rejestr oszczędności energii finalnej.
+
+### Art. 14.
+
+Informacje i dane, o których mowa w art. 35a ust. 3 pkt 1 i 3 ustawy zmienianej w art. 1, za rok 2021, instytucja, o której mowa w art. 18 ust. 5 ustawy zmienianej w art. 1, przekaże po raz pierwszy do centralnego rejestru energii finalnej, o którym mowa w art. 35a ust. 1 ustawy zmienianej w art. 1, w terminie do dnia 31 marca 2022 r.
+
+### Art. 15.
+
+Do dnia 31 grudnia 2021 r. właściciel lub zarządca budynku wielolokalowego nieodpłatnie umożliwia uzyskanie informacji, o której mowa w art. 45c ust. 2 ustawy zmienianej w art. 3, nie rzadziej niż raz na pół roku, a w przypadku otrzymywania elektronicznych rozliczeń na żądanie - nie rzadziej niż raz na kwartał, jeżeli rozliczenie dokonywane jest na podstawie wskazań urządzeń, o których mowa w art. 45a ust. 7 pkt 2 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 16.
+
+Do dnia 1 stycznia 2027 r. właściciel lub zarządca budynku wielolokalowego zastąpi ciepłomierze, podzielniki kosztów ogrzewania lub wodomierze do pomiaru ciepłej wody użytkowej zamontowane przed dniem wejścia w życie ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, urządzeniami posiadającymi funkcję zdalnego odczytu.
+
+### Art. 17.
+
+### 1.
+
+W latach 2021-2030 maksymalny limit wydatków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, będący skutkiem finansowym wejścia w życie art. 401c ust. 5 pkt 8a ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, wynosi w:
+
+### 1)
+
+2021 r. - 999 100,00 zł;
+
+### 2)
+
+2022 r. - 662 974,00 zł;
+
+### 3)
+
+2023 r. - 628 301,50 zł;
+
+### 4)
+
+2024 r. - 634 334,52 zł;
+
+### 5)
+
+2025 r. - 640 427,86 zł;
+
+### 6)
+
+2026 r. - 649 659,28 zł;
+
+### 7)
+
+2027 r. - 659 029,17 zł;
+
+### 8)
+
+2028 r. - 671 709,75 zł;
+
+### 9)
+
+2029 r. - 684 643,95 zł;
+
+### 10)
+
+2030 r. - 701 135,04 zł.
+
+### 2.
+
+Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, oraz wdraża mechanizm korygujący, o którym mowa w ust. 3.
+
+### 3.
+
+W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, minister właściwy do spraw klimatu informuje Zarząd Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej o konieczności obniżenia wielkości środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
+
+### 4.
+
+W przypadku gdy wielkość wydatków w poszczególnych miesiącach danego roku budżetowego jest zgodna z planem finansowym Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej na ten rok, przepisu ust. 3 nie stosuje się.
+
+### Art. 18.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 1 lit. a oraz pkt 3 i 6, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 1 pkt 10 lit. b, który wchodzi w życie z dniem 1 lipca 2021 r.;
+
+### 3)
+
+art. 1 pkt 1 lit. b, pkt 4 i 26, art. 5 oraz art. 13, które wchodzą w życie z dniem 1 stycznia 2022 r.
+
+1) Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2018/2002 z dnia 11 grudnia 2018 r. zmieniającą dyrektywę 2012/27/UE w sprawie efektywności energetycznej (Dz. Urz. UE L 328 z 21.12.2018, str. 210) oraz dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/944 z dnia 5 czerwca 2019 r. w sprawie wspólnych zasad rynku wewnętrznego energii elektrycznej oraz zmieniającą dyrektywę 2012/27/UE (Dz. Urz. UE L 158 z 14.06.2019, str. 125). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska oraz ustawę z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2127 i 2320 oraz z 2021 r. poz. 11, 234, 282 i 784. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1747, 2320 i 2419 oraz z 2021 r. poz. 72, 255, 694 i 802. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122, 2123, 2127, 2255 i 2320 oraz z 2021 r. poz. 255, 464 i 794.

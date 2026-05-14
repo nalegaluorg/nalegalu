@@ -8,11 +8,9 @@ pos: 2245
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw
-
-*USTAWA z dnia 22 listopada 2018 r.*
+# Ustawa z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych, ustawę z dnia 26 stycznia 1982 r. - Karta Nauczyciela, ustawę z dnia 22 marca 1989 r. o rzemiośle, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe, ustawę z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, ustawę z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1773 +22,12720 @@ domain: null
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-11-30 |
 | Ostatnia zmiana | 2025-08-29 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002245) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2245/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2245) |
 
-**Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290 i 1669) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 46b.**
+### Art. 1.
 
-1. Minister właściwy do spraw oświaty i wychowania ustala prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy.
+W ustawie z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) wprowadza się następujące zmiany:
 
-2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900), oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
+### 1)
 
-3. Prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 1 lutego danego roku.
+w art. 2:
 
-4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego ustala wykaz zawodów szkolnictwa branżowego o szczególnym znaczeniu dla kultury i dziedzictwa narodowego. Wykaz zawodów podlega ogłoszeniu, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.”;
+### a)
 
-- **24)** w art. 47:
-    - **a)** w ust. 1: – uchyla się pkt 2, – pkt 3 otrzymuje brzmienie: „3) ramowe plany nauczania dla poszczególnych typów szkół, w tym:
-    - **a)** tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej – semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych, z wyjątkiem wymiaru godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego w branżowej szkole II stopnia,
-    - **b)** minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
-    - **c)** minimalny wymiar godzin zajęć z zakresu doradztwa zawodowego,
-    - **d)** maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
-    - **e)** przeznaczenie godzin stanowiących różnicę między sumą godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego a minimalną liczbą godzin kształcenia zawodowego dla kwalifikacji wyodrębnionych w zawodzie określoną w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w szczególności na przygotowanie uczniów do uzyskania dodatkowych umiejętności zawodowych, kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji lub dodatkowych uprawnień zawodowych,
-    - **f)** tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej – semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
-    - **g)** warunki i sposób realizacji zajęć edukacyjnych – uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, potrzebę dostosowania oferty edukacyjnej szkół do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2, oraz możliwość przygotowania uczniów do uzyskania umiejętności przydatnych do wykonywania określonego zawodu;”, – uchyla się pkt 4,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe plany nauczania dla poszczególnych typów szkół i placówek artystycznych, w tym:
+pkt 1 otrzymuje brzmienie:
 
-- **1)** tygodniowy, a w przypadku policealnej szkoły artystycznej – semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych,
-- **2)** minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
-- **3)** maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
-- **4)** tygodniowy, a w przypadku policealnej szkoły artystycznej – semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
-- **5)** warunki i sposób realizacji zajęć edukacyjnych – uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego, potrzebę dostosowania oferty edukacyjnej szkół i placówek artystycznych do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2.”,
-    - **c)** w ust. 4 wyrazy „kształcenia w zawodach” zastępuje się wyrazami „podstawy programowej kształcenia w zawodzie szkolnictwa branżowego”,
-    - **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. W rozporządzeniu, o którym mowa w ust. 1a, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania może określić przypadki, w których uczniowi można przedłużyć oraz skrócić okres nauki w szkole artystycznej, biorąc pod uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa artystycznego.”,
-    - **e)** ust. 5 otrzymuje brzmienie: „5. W rozporządzeniu, o którym mowa w ust. 3 pkt 1, minister właściwy do spraw oświaty i wychowania może wyłączyć stosowanie niektórych przepisów niniejszej ustawy, ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych w odniesieniu do szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, oraz szkół polskich, w zakresie wynikającym ze szczególnych warunków funkcjonowania tych szkół, zespołów szkół i szkół polskich, a także wprowadzić w tym zakresie odrębne unormowania.”;
+„
 
-- **25)** w art. 51 w ust. 1:
-    - **a)** w pkt 4 lit. a otrzymuje brzmienie: „a) organów jednostek samorządu terytorialnego – w sprawach publicznych szkół i placówek, zakładanych i prowadzonych przez osoby prawne i osoby fizyczne, oraz niepublicznych szkół i placówek,”,
-    - **b)** po pkt 15 dodaje się pkt 15a w brzmieniu: „15a) koordynuje organizację dokształcania teoretycznego uczniów będących młodocianymi pracownikami;”;
+### 1)
 
-- **26)** w art. 53:
-    - **a)** ust. 1 i 1a otrzymują brzmienie: „1. Nadzór pedagogiczny nad publicznymi i niepublicznymi szkołami i placówkami artystycznymi, placówkami, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych oraz placówkami doskonalenia nauczycieli szkół artystycznych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, który w tym celu, a także w celu realizacji zadań organu prowadzącego w odniesieniu do szkół i placówek przez siebie prowadzonych, tworzy, w drodze rozporządzenia, specjalistyczną jednostkę nadzoru oraz określa jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego oraz zadań organu prowadzącego.
+przedszkola, w tym: specjalne, integracyjne, z oddziałami specjalnymi lub integracyjnymi, a także inne formy wychowania przedszkolnego;
 
-1a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w ust. 1, również zadania placówki doskonalenia nauczycieli szkół artystycznych.”,
+” ,
 
-- **b)** po ust. 1a dodaje się ust. 1b–1f w brzmieniu: „1b. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, sprawuje nadzór pedagogiczny również w formie badania jakości kształcenia artystycznego w szkołach artystycznych, w szczególności przeprowadzając przesłuchania muzyczne, przeglądy plastyczne i baletowe oraz testy w zakresie przedmiotów teoretycznych dla uczniów publicznych szkół artystycznych oraz niepublicznych szkół artystycznych o uprawnieniach publicznej szkoły artystycznej. Badanie jakości kształcenia artystycznego ma na celu w szczególności ocenę poziomu osiągania przez uczniów efektów kształcenia artystycznego, określonych w przepisach wydanych na podstawie art. 46a ust. 2.
+### b)
 
-1c. W celu przeprowadzenia badania jakości kształcenia artystycznego, dyrektor specjalistycznej jednostki nadzoru, o której mowa w ust. 1, powołuje komisje składające się z nauczycieli szkół artystycznych, nauczycieli akademickich lub artystów o uznanym dorobku artystycznym w zakresie właściwym dla danego zawodu szkolnictwa artystycznego, z zastrzeżeniem przepisów wydanych na podstawie ust. 1e pkt 2.
+pkt 4 otrzymuje brzmienie:
 
-1d. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza do dnia 15 czerwca w Biuletynie Informacji Publicznej, regulaminy poszczególnych form badania jakości kształcenia artystycznego przeprowadzanych w kolejnym roku szkolnym, w których określa w szczególności:
+„
 
-- **1)** zakres danej formy badania jakości kształcenia artystycznego;
-- **2)** szczegółowe zasady i terminy przeprowadzania badania jakości kształcenia artystycznego w danej formie;
-- **3)** tryb i termin zgłaszania uczniów do uczestnictwa w badaniu jakości kształcenia artystycznego w danej formie.
+### 4)
 
-1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
+placówki kształcenia ustawicznego oraz centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;
 
-- **1)** tryb i formy badania jakości kształcenia artystycznego, o którym mowa w ust. 1b,
-- **2)** skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego – uwzględniając wymogi sprawności, skuteczności i efektywności badania jakości kształcenia artystycznego w szkołach artystycznych, o których mowa w ust. 1b.
+” ;
 
-1f. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1e, może określić:
+### 2)
 
-- **1)** tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
-- **2)** przypadki, w których komisję przeprowadzającą badanie jakości kształcenia artystycznego może powołać dyrektor szkoły artystycznej.”,
-    - **c)** w ust. 5 wyrazy „art. 47 ust. 1 pkt 2, 3 lit. a, b, d, e i f oraz pkt 6 i 7” zastępuje się wyrazami „art. 47 ust. 1 pkt 6 i 7”,
-    - **d)** uchyla się ust. 6;
+w art. 3:
 
-- **27)** w art. 60:
-    - **a)** ust. 6 otrzymuje brzmienie: „6. Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może powierzyć podległej sobie jednostce organizacyjnej sprawowanie nadzoru pedagogicznego nad szkołami polskimi oraz szkołami i zespołami szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, a także wykonywanie w odniesieniu do nich zadań organu prowadzącego, o których mowa w art. 10 ust. 1 pkt 1–6, oraz zadań związanych z awansem zawodowym nauczycieli tych szkół, o którym mowa w ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela.”,
-    - **b)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Przepisy dotyczące wydawania decyzji w sprawach nadania albo odmowy nadania stopnia awansu zawodowego nauczycielom szkół polskich oraz szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o której mowa w przepisach wydanych na podstawie ust. 6. Do decyzji podjętych przez kierownika tej jednostki stosuje się odpowiednio przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
+### a)
 
-- **28)** w art. 61 wyrazy „oraz szkolnego punktu konsultacyjnego, o którym mowa w art. 8 ust. 5 pkt 1 lit. a,” zastępuje się wyrazami „i szkoły polskiej”;
-- **29)** w art. 63 ust. 16 otrzymuje brzmienie: „16. Jeżeli w składzie komisji konkursowej łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, byłaby mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, liczbę przedstawicieli tych organów zwiększa się proporcjonalnie, tak aby ich łączna liczba nie była mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, uwzględniając udział przedstawicieli organu sprawującego nadzór pedagogiczny w liczbie równej liczbie przedstawicieli organu prowadzącego szkołę lub placówkę.”;
-- **30)** w art. 68:
-    - **a)** ust. 7 otrzymuje brzmienie: „7. Dyrektor szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej, w porozumieniu z organem prowadzącym szkołę ustala zawody, w których kształci szkoła, po:
+po ust. 1 dodaje się ust. 1a w brzmieniu:
 
-- **1)** uzyskaniu opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, oraz
-- **2)** nawiązaniu współpracy odpowiednio z pracodawcą lub osobą prowadzącą indywidualne gospodarstwo rolne, których działalność jest związana z danym zawodem lub branżą, w ramach umowy, porozumienia lub ustaleń, o których mowa w art. 120a ust. 1, obejmujących co najmniej jeden cykl kształcenia w danym zawodzie.”,
-    - **b)** po ust. 7 dodaje się ust. 7a–7d w brzmieniu: „7a. Opinia wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie, o której mowa w ust. 7 pkt 1, nie jest wymagana w przypadku:
+„
 
-- **1)** rozpoczynania kształcenia w zawodzie o charakterze pomocniczym, jeżeli szkoła posiada opinię o zasadności kształcenia w zawodzie, dla którego w klasyfikacji zawodów szkolnictwa branżowego, przewidziano zawód o charakterze pomocniczym;
-- **2)** organizowania w branżowej szkole I stopnia oddziału wyłącznie dla uczniów będących młodocianymi pracownikami.
+### 1a.
 
-7b. Uzyskanie ponownej opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie, o której mowa w ust. 7 pkt 1, jest wymagane w przypadku gdy zawód ten nie jest wskazany przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art. 46b ust. 1.
+System oświaty w zakresie kształcenia zawodowego wspierają także pracodawcy, organizacje pracodawców, samorządy gospodarcze lub inne organizacje gospodarcze, stowarzyszenia lub samorządy zawodowe, sektorowe rady do spraw kompetencji oraz Rada Programowa do spraw kompetencji, o których mowa w ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości ([Dz. U. z 2018 r. poz. 110](https://api.sejm.gov.pl/eli/acts/DU/2018/110/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)).
 
-7c. Współpraca, o której mowa w ust. 7 pkt 2, polega w szczególności na:
+” ,
 
-- **1)** tworzeniu klas patronackich;
-- **2)** przygotowaniu propozycji programu nauczania zawodu;
-- **3)** realizacji kształcenia zawodowego, w tym praktycznej nauki zawodu;
-- **4)** wyposażeniu warsztatów lub pracowni szkolnych;
-- **5)** organizacji egzaminu zawodowego;
-- **6)** doskonaleniu nauczycieli kształcenia zawodowego, w tym organizowaniu szkoleń branżowych;
-- **7)** realizacji doradztwa zawodowego i promocji kształcenia zawodowego.
+### b)
 
-7d. Przepisów ust. 7 pkt 2 i ust. 7c, nie stosuje się do branżowych szkół II stopnia.”;
+w ust. 2 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”;
 
-- **31)** w art. 69:
-    - **a)** w ust. 3 skreśla się zdanie drugie,
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. W zebraniach rady pedagogicznej mogą również brać udział, z głosem doradczym, osoby zapraszane przez jej przewodniczącego za zgodą lub na wniosek rady pedagogicznej, w tym przedstawiciele stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza lub rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej i opiekuńczej szkoły lub placówki, a w przypadku szkoły prowadzącej kształcenie zawodowe – również przedstawiciele pracodawców, organizacji pracodawców, samorządu gospodarczego lub innych organizacji gospodarczych, stowarzyszeń lub samorządów zawodowych oraz sektorowych rad do spraw kompetencji.”;
+### 3)
 
-- **32)** w art. 70 w ust. 2 pkt 2 otrzymuje brzmienie: „2) projekt planu finansowego szkoły lub placówki będącej jednostką budżetową;”;
-- **33)** w art. 85 w ust. 9 zdanie pierwsze otrzymuje brzmienie: „Samorząd w szkole dla dorosłych, branżowej szkole II stopnia, szkole policealnej, policealnej szkole artystycznej lub placówce kształcenia ustawicznego, w celu wspierania działalności statutowej szkoły lub placówki, może gromadzić fundusze z dobrowolnych składek i innych źródeł.”;
-- **34)** w art. 88:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Szkołę lub placówkę publiczną zakłada się na podstawie aktu założycielskiego, który określa odpowiednio jej typ lub rodzaj, nazwę i siedzibę.
+w art. 4:
 
-2. Akt założycielski publicznej szkoły podstawowej, oprócz danych wymienionych w ust. 1, określa także jej zasięg terytorialny (obwód), w szczególności nazwy miejscowości, a w miastach – nazwy ulic lub ich części, należących do jej obwodu, oraz podporządkowane jej organizacyjnie szkoły filialne. Publicznej szkole podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.”, Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki.
+### a)
 
-- **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Akt założycielski publicznego centrum kształcenia zawodowego i publicznej placówki kształcenia ustawicznego, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie centrum lub placówce.”,
-- **c)** w ust. 4 pkt 1 otrzymuje brzmienie: „1) zezwolenia właściwego organu jednostki samorządu terytorialnego, której zadaniem jest prowadzenie szkół lub placówek publicznych odpowiednio danego typu lub rodzaju, wydanego po uzyskaniu pozytywnej opinii kuratora oświaty;”,
-- **d)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udziela zezwolenia, o którym mowa w ust. 4 pkt 2, po uzyskaniu opinii specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1.”,
-- **e)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Osoba fizyczna składająca wniosek o udzielenie zezwolenia, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej wniosek.
+w pkt 7-11 wyrazy „klasyfikacją zawodów szkolnictwa zawodowego, o której mowa w art. 46 ust. 1” zastępuje się wyrazami „klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a”,
 
-5b. Oświadczenie, o którym mowa w ust. 5a, może zostać złożone przez osobę fizyczną również po uzyskaniu zezwolenia, o którym mowa w ust. 4.”;
+### b)
 
-- **35)** w art. 89:
-    - **a)** w ust. 1 zdanie drugie otrzymuje brzmienie: „Organ prowadzący jest obowiązany, co najmniej na 6 miesięcy przed terminem likwidacji, zawiadomić o zamiarze likwidacji szkoły: rodziców uczniów, a w przypadku uczniów pełnoletnich – tych uczniów, właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu terytorialnego właściwej do prowadzenia szkół danego typu.”,
-    - **b)** w ust. 5 wyraz „wydawania” zastępuje się wyrazem „wydawana”,
-    - **c)** ust. 10 otrzymuje brzmienie: „10. Organ prowadzący szkołę lub placówkę może przenieść kształcenie w określonym zawodzie z tej szkoły lub placówki do innej szkoły tego samego typu lub innej placówki tego samego rodzaju prowadzonej przez ten organ, po zawiadomieniu, co najmniej na 6 miesięcy przed terminem przeniesienia, kuratora oświaty i rodziców uczniów, a w przypadku uczniów pełnoletnich – tych uczniów.”;
+pkt 15 otrzymuje brzmienie:
 
-- **36)** po art. 90 dodaje się art. 90a i art. 90b w brzmieniu: „Art. 90a. 1. Zmiana siedziby szkoły lub placówki publicznej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez tę szkołę lub placówkę wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio. Przepisów art. 89 ust. 1–9 nie stosuje się.
+„
 
-2. Zmiana siedziby szkoły lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę następuje z końcem roku szkolnego. W przypadku gdy dalsze prowadzenie zajęć dydaktycznych, wychowawczych i opiekuńczych w dotychczasowej siedzibie szkoły nie jest możliwe zmiana siedziby szkoły lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę może nastąpić w każdym czasie.
+### 15)
 
-3. Organ prowadzący szkołę lub placówkę publiczną, po zawiadomieniu rodziców uczniów albo uczniów pełnoletnich, składa wniosek o zmianę zezwolenia na założenie szkoły lub placówki publicznej, w zakresie odpowiednio siedziby szkoły lub placówki lub utworzenia innej lokalizacji prowadzenia przez nią zajęć dydaktycznych, wychowawczych i opiekuńczych, nie później niż na 3 miesiące przed planowanym dniem zmiany siedziby lub utworzenia innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych. W przypadku, o którym mowa w ust. 2 w zdaniu drugim, wniosek o zmianę zezwolenia może być złożony w każdym czasie.
+placówce rolniczej - należy przez to rozumieć placówki i centra, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
 
-4. Nowa siedziba szkoły lub placówki publicznej lub inna lokalizacja prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę lub placówkę nie mogą znajdować się na obszarze jednostki samorządu terytorialnego, innej niż ta, której organ wydał zezwolenie na założenie tej szkoły lub placówki.
+” ,
 
-**Art. 90b.**
+### c)
 
-1. Osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna prowadząca szkołę lub placówkę publiczną na podstawie zezwolenia, o którym mowa w art. 88 ust. 4, może przekazać prowadzenie szkoły lub placówki publicznej osobie prawnej innej niż jednostka samorządu terytorialnego lub osobie fizycznej.
+uchyla się pkt 23,
 
-2. Przekazanie, o którym mowa w ust. 1, wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1–9 nie stosuje się.
+### d)
 
-3. Organ prowadzący szkołę lub placówkę publiczną, do wniosku, o którym mowa w ust. 2, dołącza pisemne oświadczenie osoby prawnej innej niż jednostka samorządu terytorialnego lub osoby fizycznej przejmującej prowadzenie szkoły lub placówki o przejęciu zadań organu prowadzącego szkołę lub placówkę.
+po pkt 24 dodaje się pkt 24a i 24b w brzmieniu:
 
-4. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę publiczną przejęcie prowadzenia szkoły lub placówki przez osobę wskazaną w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b, wymaga zmiany zezwolenia na założenie szkoły lub placówki. Wniosek o zmianę zezwolenia składa osoba wskazana w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b. Przepisy art. 88 ust. 4–5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1–9 nie stosuje się.
+„
 
-5. Zmiana zezwolenia, o którym mowa w ust. 2 i 4, nie wymaga uzyskania pozytywnej opinii kuratora oświaty.
+### 24a)
 
-6. Przekazanie lub przejęcie prowadzenia szkoły lub placówki publicznej, o którym mowa odpowiednio w ust. 2 lub 4, następuje w terminie wskazanym w decyzji o zmianie zezwolenia.”;
+klasyfikacji zawodów szkolnictwa branżowego - należy przez to rozumieć klasyfikację zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1;
 
-- **37)** w art. 91:
-    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Organ prowadzący może połączyć w zespół liceum ogólnokształcące dla młodzieży i liceum ogólnokształcące dla dorosłych, jeżeli zajęcia edukacyjne w tych szkołach nie są prowadzone w tym samym czasie.”,
-    - **b)** ust. 7 otrzymuje brzmienie: „7. Organ prowadzący zespół szkół lub placówek albo szkół i placówek może wyłączyć z zespołu szkołę lub placówkę, włączyć do zespołu szkołę lub placówkę, a także może rozwiązać zespół.”,
-    - **c)** po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. W przypadku:
+### 24b)
 
-- **1)** utworzenia zespołu szkół lub placówek albo szkół i placówek oraz włączenia szkoły lub placówki do zespołu – przepisu art. 89 nie stosuje się;
-- **2)** wyłączenia szkoły lub placówki z zespołu szkół lub placówek oraz rozwiązania zespołu – przepisów art. 88 i art. 89 nie stosuje się.”;
-- **38)** w art. 93 ust. 1 i 2 otrzymują brzmienie: „1. Organ prowadzący szkoły dla dorosłych, szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych, placówki lub centra, o których mowa w art. 2 pkt 4, może je połączyć w zespół, zwany dalej „centrum kształcenia zawodowego i ustawicznego”.
+klasyfikacji zawodów szkolnictwa artystycznego - należy przez to rozumieć klasyfikację zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1;
 
-2. W skład centrum kształcenia zawodowego i ustawicznego wchodzi co najmniej jedna szkoła prowadząca kształcenie zawodowe, z wyjątkiem szkoły artystycznej, oraz co najmniej jedno centrum kształcenia zawodowego.”;
+” ,
 
-- **39)** w art. 96 dodaje się ust. 6 i 7 w brzmieniu: „6. W szkołach podstawowych specjalnych i szkołach ponadpodstawowych specjalnych, w tym zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej, działających w szczególnie trudnych warunkach demograficznych lub geograficznych, w zakresie danego etapu edukacyjnego, dopuszcza się organizację nauczania w klasach łączonych. Przepis ust. 5 stosuje się odpowiednio.
+### e)
 
-7. W szkołach ponadpodstawowych zorganizowanych w zakładach poprawczych i schroniskach dla nieletnich, działających w szczególnie trudnych warunkach demograficznych, dopuszcza się organizację nauczania w klasach łączonych.”;
+pkt 25 otrzymuje brzmienie:
 
-- **40)** w art. 98:
-    - **a)** w ust. 1 pkt 15 i 16 otrzymują brzmienie: „15) określenie formy kształcenia – w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej;
+„
 
-- **16)** organizację wewnątrzszkolnego systemu doradztwa zawodowego, z wyjątkiem szkoły artystycznej;”,
-    - **b)** w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „4) organizację żywienia, o którym mowa w art. 106a – w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.”,
-    - **c)** uchyla się ust. 3;
+### 25)
 
-- **41)** w art. 103:
-    - **a)** w ust. 1: – pkt 3 otrzymuje brzmienie: „3) świetlicy – w przypadku szkoły podstawowej, szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej i szkoły prowadzącej kształcenie specjalne, o której mowa w art. 127 ust. 1;”, – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „7) pomieszczenia umożliwiającego bezpieczne i higieniczne spożycie posiłków podczas pobytu w szkole – w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Wymagania określone w ust. 1 pkt 3–5 i 7 nie muszą być spełnione w szkołach dla dorosłych, a także w branżowych szkołach II stopnia i szkołach policealnych, prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.”;
+podstawie programowej kształcenia w zawodzie szkolnictwa branżowego - należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu lub kwalifikacji wyodrębnionej w zawodzie, uwzględnianych w programach nauczania, oraz kryteria weryfikacji tych efektów, umożliwiające ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, a także warunki realizacji kształcenia w zawodzie, w tym wyposażenie i sprzęt niezbędne do realizacji tego kształcenia oraz minimalną liczbę godzin kształcenia w zawodzie;
 
-- **42)** po art. 106 dodaje się art. 106a w brzmieniu: „Art. 106a. 1. Szkoła podstawowa, z wyjątkiem szkoły podstawowej dla dorosłych, oraz szkoła artystyczna realizująca kształcenie ogólne w zakresie szkoły podstawowej, zapewnia uczniom jeden gorący posiłek w ciągu dnia i stwarza im możliwość jego spożycia w czasie pobytu w szkole.
+” ,
 
-2. Korzystanie z posiłku, o którym mowa w ust. 1, jest dobrowolne i odpłatne.”;
+### f)
 
-- **43)** w art. 107:
-    - **a)** po ust. 9 dodaje się ust. 9a w brzmieniu: „9a. Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 9, dyrektora szkoły, w której zorganizowano internat.”,
-    - **b)** ust. 10 otrzymuje brzmienie: „10. Przepisów ust. 1–9a nie stosuje się do szkół prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.”;
+po pkt 25 dodaje się pkt 25a w brzmieniu:
 
-- **44)** w art. 109:
-    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) obowiązkowe zajęcia edukacyjne, do których zalicza się zajęcia edukacyjne z zakresu kształcenia ogólnego i z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3, w tym praktyczną naukę zawodu, a w przypadku szkół artystycznych – zajęcia edukacyjne artystyczne, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1a;”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W branżowej szkole II stopnia obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, w tym praktyczna nauka zawodu, są prowadzone w ramach kwalifikacyjnego kursu zawodowego.”,
-    - **c)** w ust. 6 dodaje się zdanie drugie w brzmieniu: „Przepis nie dotyczy szkół dla dorosłych.”;
+„
 
-- **45)** w art. 110:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej – na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku szkół lub przedszkoli prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej – na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli, które przedstawiły dyrektorowi szkoły lub przedszkola informację, o której mowa w art. 25 ust. 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.”,
-    - **c)** w ust. 5 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 2–3”;
+### 25a)
 
-- **46)** w art. 111 pkt 14 otrzymuje brzmienie: „14) organizację tygodnia pracy szkoły, z uwzględnieniem kształcenia w formie dziennej, stacjonarnej lub zaocznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.”;
-- **47)** po art. 111 dodaje się art. 111a w brzmieniu: „Art. 111a. Publiczna placówka kształcenia ustawicznego i publiczne centrum kształcenia zawodowego mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.”;
-- **48)** w art. 113 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) organizację tygodnia pracy szkoły artystycznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.”;
-- **49)** w art. 117:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Kształcenie ustawiczne jest organizowane i prowadzone w:
+podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego - należy przez to rozumieć obowiązkowy zestaw celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych, niezbędnych dla zawodu, uwzględnianych w programach nauczania i umożliwiających ustalenie kryteriów ocen szkolnych i wymagań egzaminacyjnych, oraz warunki realizacji kształcenia w zawodzie, w tym wyposażenie w pomoce dydaktyczne i sprzęt oraz minimalną liczbę godzin kształcenia w zawodzie;
 
-- **1)** publicznych i niepublicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych;
-- **2)** formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Kształcenie ustawiczne prowadzi się w następujących formach pozaszkolnych:
+” ,
 
-- **1)** kwalifikacyjny kurs zawodowy;
-- **2)** kurs umiejętności zawodowych;
-- **3)** kurs kompetencji ogólnych;
-- **4)** turnus dokształcania teoretycznego młodocianych pracowników;
-- **5)** kurs, inny niż wymienione w pkt 1–3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych.”,
-    - **c)** ust. 2 otrzymuje brzmienie: „2. Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
+### g)
 
-- **1)** publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
-- **2)** publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
-- **3)** instytucje rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową;
-- **4)** podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2, posiadające akredytację, o której mowa w art. 118.”,
-    - **d)** po ust. 2 dodaje się ust. 2a–2c w brzmieniu: „2a. Kursy umiejętności zawodowych mogą być prowadzone przez:
+pkt 27 otrzymuje brzmienie:
 
-- **1)** publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
-- **2)** publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+„
 
-2b. Kursy kompetencji ogólnych oraz kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+### 27)
 
-2c. Turnusy dokształcania teoretycznego młodocianych pracowników mogą być prowadzone przez:
+programie nauczania zawodu - należy przez to rozumieć program, o którym mowa w art. 3 pkt 13c ustawy o systemie oświaty;
 
-- **1)** publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych – w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
-- **2)** publiczne i niepubliczne centra kształcenia zawodowego.”, Turnus dokształcania młodocianych pracowników może być prowadzony wyłącznie w formie dziennej.”,
-    - **e)** ust. 3 otrzymuje brzmienie: „3. Kształcenie ustawiczne może być prowadzone w formie dziennej, stacjonarnej lub zaocznej, a w przypadku form pozaszkolnych – także z wykorzystaniem metod i technik kształcenia na odległość.
-    - **f)** ust. 5 otrzymuje brzmienie: „5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+” ,
 
-- **1)** rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego,
-- **2)** warunki, organizację i tryb prowadzenia kształcenia ustawicznego w poszczególnych formach pozaszkolnych, w tym wymogi jakie powinien spełniać program nauczania,
-- **3)** sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia prowadzonego w poszczególnych formach pozaszkolnych,
-- **4)** wzory dokumentów wydawanych po ukończeniu kształcenia prowadzonego w formach pozaszkolnych, o których mowa w ust. 1a pkt 1–4, a w przypadku formy pozaszkolnej, o której mowa w ust. 1a pkt 5 – zakres informacji, jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
-- **5)** przypadki, w których turnus dokształcania teoretycznego młodocianych pracowników może być prowadzony w więcej niż jednym zawodzie,
-- **6)** tryb zwalniania osób, o których mowa w ust. 12, z całości lub części opłat za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5, oraz warunki i tryb zwrotu opłaty w przypadkach określonych w ust. 11 – uwzględniając możliwość zaliczania potwierdzonych efektów kształcenia przy podejmowaniu kształcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ustawicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się oraz uzyskanie nowych kwalifikacji oraz włączenia pracodawców w proces kształcenia ustawicznego, a także konieczność prawidłowego udokumentowania w przypadku zwolnienia lub zwrotu opłaty, o której mowa w ust. 7.”,
-    - **g)** uchyla się ust. 6,
-    - **h)** dodaje się ust. 7–12 w brzmieniu: „7. Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5.
+### h)
 
-8. Wysokość opłaty ustala dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, w porozumieniu z organem prowadzącym. Opłata nie może przekraczać ponoszonych kosztów kształcenia w danej formie.
+po pkt 28 dodaje się pkt 28a w brzmieniu:
 
-9. Opłata jest wnoszona za cały okres kształcenia, w terminie do dnia rozpoczęcia kształcenia, na rachunek bankowy publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, wskazany przez dyrektora tej szkoły, placówki lub centrum.
+„
 
-10. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może w uzasadnionych przypadkach przedłużyć termin wniesienia opłaty lub wyrazić zgodę na wniesienie opłaty w ratach.
+### 28a)
 
-11. Opłata nie podlega zwrotowi. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających podjęcie kształcenia w danej formie pozaszkolnej, dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwrócić opłatę.
+szkole prowadzącej kształcenie zawodowe - należy przez to rozumieć:
 
-12. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwolnić w całości lub w części z opłaty osobę o niskich dochodach, w szczególności jeżeli dochód tej osoby nie przekracza kwot, o których mowa w art. 8 ust. 1 pkt 1 albo 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, 1693 i 2192).”;
+### a)
 
-- **50)** w art. 118: Akredytacja stanowi potwierdzenie spełniania określonych wymogów i zapewniania wysokiej jakości kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej.
-    - **a)** ust. 1–3 otrzymują brzmienie: „1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1–4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 – jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie odrębnych przepisów.
+szkoły, o których mowa w art. 18 ust. 1 pkt 2 lit. b, c, e i f, prowadzące kształcenie w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, do których są przyjmowane:
 
-2. Akredytację, w drodze decyzji administracyjnej, przyznaje kurator oświaty właściwy ze względu na miejsce prowadzenia kształcenia ustawicznego w danej formie pozaszkolnej na okres 5 lat.
+- - w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. b i c - osoby niepełnoletnie oraz niepełnoletnie i pełnoletnie osoby objęte kształceniem specjalnym zorganizowanym zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2,
 
-3. Akredytację, o której mowa w ust. 1, może uzyskać placówka lub centrum, które:
+- - w przypadku szkół, o których mowa w art. 18 ust. 1 pkt 2 lit. e i f - niepełnoletnie i pełnoletnie osoby, oraz
 
-- **1)** prowadziło kształcenie w formie lub formach pozaszkolnych przez okres co najmniej 3 lat;
-- **2)** opracowuje i stosuje system zapewniania jakości kształcenia oraz systematycznie go doskonali;
-- **3)** zapewnia bazę wyposażoną w środki dydaktyczne – w zakresie danej formy pozaszkolnej;
-- **4)** zapewnia wykwalifikowaną kadrę – w zakresie danej formy pozaszkolnej;
-- **5)** zapewnia program nauczania, o którym mowa w przepisach wydanych na podstawie art. 117 ust. 5 – w zakresie danej formy pozaszkolnej;
-- **6)** zapewnia warunki realizacji praktycznej nauki zawodu – w przypadku ubiegania się o akredytację na kształcenie w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 1 i 2;
-- **7)** zapewnia bezpieczne i higieniczne warunki realizacji kształcenia w danej formie pozaszkolnej;
-- **8)** udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne.”,
-    - **b)** uchyla się ust. 4,
-    - **c)** po ust. 4 dodaje się ust. 4a–4d w brzmieniu: „4a. Akredytację przyznaje się po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej w zakresie określonym w ust. 3.
+### b)
 
-4b. Członkom zespołu akredytacyjnego, o którym mowa w ust. 4a, przysługuje wynagrodzenie za udział w jego pracach, z tym że członkom będącym pracownikami kuratorium oświaty wynagrodzenie przysługuje tylko w przypadku udziału w pracach zespołu poza godzinami pracy w kuratorium.
+szkoły artystyczne;
 
-4c. Wysokość wynagrodzenia członków zespołu akredytacyjnego ustala kurator oświaty, z tym że wysokość wynagrodzenia jednego członka zespołu nie może przekroczyć 25% kwoty, o której mowa w ust. 6.
+” ,
 
-4d. W roku kalendarzowym suma wynagrodzeń członków zespołu akredytacyjnego, wraz z pochodnymi, nie może przekroczyć sumy opłat wniesionych przez placówki ubiegające się o akredytację.”,
+### i)
 
-- **d)** ust. 5 i 6 otrzymują brzmienie: „5. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez placówkę lub centrum warunków wymaganych do uzyskania akredytacji, po uprzednim wezwaniu do usunięcia uchybień.
+pkt 29 otrzymuje brzmienie:
 
-6. Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę w wysokości 1023 zł, waloryzowaną corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. Opłatę wnosi się na rachunek bankowy kuratorium oświaty. Opłata nie podlega zwrotowi od dnia złożenia wniosku.”,
+„
 
-- **e)** po ust. 6 dodaje się ust. 6a w brzmieniu: „6a. Minister właściwy do spraw oświaty i wychowania, w terminie do dnia 31 grudnia każdego roku, podaje do publicznej wiadomości na stronie urzędu obsługującego tego ministra wysokość opłaty w następnym roku kalendarzowym zwaloryzowanej zgodnie z ust. 6.”,
-- **f)** ust. 9 otrzymuje brzmienie: „9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i cofania akredytacji podmiotom, o których mowa w ust. 1 i 8, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.”,
-- **g)** uchyla się ust. 10,
-- **h)** dodaje się ust. 11 w brzmieniu: „11. Kurator oświaty prowadzi wykaz pozaszkolnych form kształcenia ustawicznego, na kształcenie w których przyznał akredytację, i podaje go do publicznej wiadomości na stronie internetowej kuratorium oświaty. Wykaz zawiera w szczególności: nazwę i adres podmiotu prowadzącego daną formę pozaszkolną, miejsce prowadzenia kształcenia, zakres i formę kształcenia.”;
-- **51)** w art. 120: z 2018 r. poz. 1030, 1490 i 1669), albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu. Spełnienie tego warunku jest potwierdzane oświadczeniem osoby prowadzącej praktyczną naukę zawodu.”,
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Praktyczna nauka zawodu może odbywać się u pracodawców lub w indywidualnych gospodarstwach rolnych, zapewniających rzeczywiste warunki pracy, a także w centrach kształcenia zawodowego, warsztatach szkolnych, pracowniach szkolnych i placówkach kształcenia ustawicznego.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Praktyczna nauka zawodu może być realizowana również za granicą na podstawie umów międzynarodowych lub porozumień o współpracy bezpośredniej zawieranych przez szkoły, jednostki samorządu terytorialnego i organy administracji rządowej lub w ramach programów edukacyjnych Unii Europejskiej.”,
-    - **c)** po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Praktyczną naukę zawodu może prowadzić osoba, która nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2018 r. poz. 1600 i 2077), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U.
-    - **d)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, warunki i tryb organizowania praktycznej nauki zawodu, uwzględniając zakres spraw, które powinny być określone w umowie, o której mowa w ust. 2, w tym prawa i obowiązki podmiotów, o których mowa w ust. 1, oraz przeznaczenie środków finansowych, o których mowa w art. 121, kwalifikacje wymagane od osób prowadzących praktyczną naukę zawodu i przysługujące im uprawnienia, ramowy program kursu pedagogicznego dla instruktorów praktycznej nauki zawodu oraz zakres informacji jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu tego kursu.”,
-    - **e)** w ust. 5 wyrazy „ust. 1, 2 i 4” zastępuje się wyrazami „ust. 1, 1a, 2, 3a i 4”,
-    - **f)** w ust. 6 wyrazy „samorządami gospodarczymi” zastępuje się wyrazami „przedsiębiorstwami, samorządami gospodarczymi”;
+### 29)
 
-- **52)** po art. 120 dodaje się art. 120a w brzmieniu: „Art. 120a. 1. Pracodawca zatrudniający młodocianych w celu przygotowania zawodowego odbywanego w formie nauki zawodu, kierujący ich na dokształcanie teoretyczne do branżowej szkoły I stopnia zgodnie z przepisami wydanymi na podstawie art. 191 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, ustala z dyrektorem szkoły:
-- **1)** zakres kształcenia zawodowego zapewnianego przez szkołę i pracodawcę, wynikający z programu nauczania zawodu;
-- **2)** liczbę dni w tygodniu, w których zajęcia praktyczne odbywają się u pracodawcy;
-- **3)** sposób monitorowania przez każdą ze stron realizacji programu nauczania zawodu.
+szkole dla dorosłych - należy przez to rozumieć szkołę, o której mowa w art. 18 ust. 1 pkt 1 i 2 lit. a, w której stosuje się odrębną organizację kształcenia i do której są przyjmowane osoby pełnoletnie oraz kończące 18 lat w roku kalendarzowym, w którym są przyjmowane do szkoły;
 
-2. Ustalenia, o których mowa w ust. 1, stanowią załącznik do umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.”;
+” ,
 
-- **53)** art. 121 otrzymuje brzmienie: „Art. 121. Szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkoły artystycznej, przekazują podmiotom przyjmującym uczniów na praktyczną naukę zawodu na podstawie umowy szkoły z tym podmiotem, wynikające z tej umowy środki finansowe umożliwiające uczniom odbycie praktycznej nauki zawodu.”;
-- **54)** po art. 121 dodaje się art. 121a w brzmieniu: „Art. 121a. 1. W celu ułatwienia uzyskiwania doświadczenia i nabywania umiejętności praktycznych niezbędnych do wykonywania pracy w zawodzie, w którym kształcą się, uczniowie technikum i uczniowie branżowej szkoły I stopnia niebędący młodocianymi pracownikami mogą w okresie nauki odbywać staż w rzeczywistych warunkach pracy, zwany dalej „stażem uczniowskim”.
+### j)
 
-2. W trakcie stażu uczniowskiego uczeń realizuje wszystkie albo wybrane treści programu nauczania zawodu w zakresie praktycznej nauki zawodu realizowanego w szkole, do której uczęszcza, lub treści nauczania związane z nauczanym zawodem nieobjęte tym programem.
+po pkt 29 dodaje się pkt 29a-29d w brzmieniu:
 
-3. Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej „podmiotem przyjmującym na staż uczniowski”, zawiera z uczniem albo rodzicami niepełnoletniego ucznia, w formie pisemnej, umowę o staż uczniowski.
+„
 
-4. Dyrektor szkoły może zwolnić ucznia, który odbył staż uczniowski, z obowiązku odbycia praktycznej nauki zawodu w całości lub w części.
+### 29a)
 
-5. Podmiot przyjmujący na staż uczniowski i dyrektor szkoły, w uzgodnieniu z uczniem albo rodzicem niepełnoletniego ucznia, ustalają zakres treści nauczania, o których mowa w ust. 2, oraz dobowy i tygodniowy wymiar czasu odbywania stażu uczniowskiego. Ustalając zakres treści nauczania wskazuje się, w jakim zakresie uczeń po zrealizowaniu tych treści zostanie zwolniony z obowiązku odbycia praktycznej nauki zawodu. Ustalenia te stanowią załącznik do umowy o staż uczniowski.
+kształceniu w formie dziennej - należy przez to rozumieć kształcenie, które odbywa się przez 5 dni w tygodniu albo przez 6 dni w tygodniu w przypadkach określonych w przepisach wydanych odpowiednio na podstawie art. 111 pkt 14 lub art. 113 pkt 9;
 
-6. Uczeń odbywający staż uczniowski otrzymuje miesięczne świadczenie pieniężne, chyba że strony umowy o staż uczniowski, postanowią, że staż jest odbywany nieodpłatnie.
+### 29b)
 
-7. Wysokość miesięcznego świadczenia pieniężnego, o którym mowa w ust. 6, nie może przekraczać wysokości minimalnego wynagrodzenia za pracę, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2018 r. poz. 2177).
+kształceniu w formie stacjonarnej - należy przez to rozumieć kształcenie, które odbywa się przez 3 lub 4 dni w tygodniu, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 
-8. Staż uczniowski może odbywać się również w okresie ferii letnich lub zimowych.
+### 29c)
 
-9. Do stażu uczniowskiego nie mają zastosowania przepisy prawa pracy, z wyjątkiem przepisów art. 18 –18 , art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 151 , art. 204 i art. 232 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, z zastrzeżeniem przepisów ust. 12–14.
+kształceniu w formie zaocznej - należy przez to rozumieć kształcenie, które odbywa się co 2 tygodnie przez 2 dni, a w uzasadnionych przypadkach - co tydzień przez 2 dni, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 
-10. Dobowy wymiar godzin stażu uczniowskiego uczniów w wieku do lat 16 nie może przekraczać 6 godzin, a uczniów w wieku powyżej 16 lat – 8 godzin. W uzasadnionych przypadkach wynikających ze specyfiki funkcjonowania ucznia niepełnosprawnego w wieku powyżej 16 lat, dopuszcza się możliwość obniżenia dobowego wymiaru godzin stażu uczniowskiego do 7 godzin.
+### 29d)
 
-11. Dobowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego nie może przekraczać 8 godzin, a tygodniowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego – 40 godzin.
+szkole polskiej - należy przez to rozumieć szkołę przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, która umożliwia uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich;
 
-12. W szczególnie uzasadnionych przypadkach dopuszcza się możliwość przedłużenia dobowego wymiaru godzin stażu uczniowskiego dla uczniów w wieku powyżej 18 lat, nie dłużej jednak niż do 12 godzin. Przedłużenie dobowego wymiaru godzin jest możliwe wyłącznie u podmiotów przyjmujących na staż uczniowski, u których przedłużony dobowy wymiar czasu pracy wynika z rodzaju pracy lub jej organizacji.
+” ,
 
-13. Staż uczniowski może być organizowany w systemie zmianowym, z tym że w przypadku uczniów w wieku poniżej 18 lat nie może wypadać w porze nocnej.
+### k)
 
-14. W przypadku ucznia niepełnosprawnego odbywającego staż uczniowski przepisy ust. 12 i 13 stosuje się wyłącznie za zgodą lekarza sprawującego opiekę nad tym uczniem.
+pkt 30 i 31 otrzymują brzmienie:
 
-15. Umowa o staż uczniowski określa w szczególności:
+„
 
-- **1)** strony umowy;
-- **2)** miejsce odbywania stażu uczniowskiego;
-- **3)** nazwę i adres szkoły, do której uczęszcza uczeń odbywający staż uczniowski;
-- **4)** zawód, w zakresie którego będzie odbywany staż uczniowski;
-- **5)** okres odbywania stażu uczniowskiego;
-- **6)** wysokość świadczenia pieniężnego, o którym mowa w ust. 7, w przypadku odpłatnego stażu uczniowskiego.
+### 30)
 
-16. Umowa o staż uczniowski nie może dotyczyć pracy szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 237 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+kształceniu ustawicznym - należy przez to rozumieć kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
 
-17. Umowa o staż uczniowski nie może być zawarta na okres dłuższy niż okres nauki w technikum albo branżowej szkole I stopnia.
+### 31)
 
-18. Umowa o staż uczniowski może być rozwiązana, na piśmie, przez każdą ze stron z zachowaniem 14-dniowego okresu wypowiedzenia.
+formach pozaszkolnych - należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
 
-19. Jeżeli uczeń przestał być uczniem szkoły przed końcem obowiązywania umowy dyrektor szkoły powiadamia o tym podmiot, który przyjął ucznia na staż uczniowski, a umowa o staż uczniowski wygasa.
+” ,
 
-20. Podmiot przyjmujący na staż uczniowski lub uczeń albo rodzice niepełnoletniego ucznia niezwłocznie zawiadamiają dyrektora szkoły o wypowiedzeniu umowy o staż uczniowski oraz przyczynie wypowiedzenia.
+### l)
 
-21. W czasie odbywania stażu uczniowskiego opiekę nad uczniem sprawuje wyznaczony przez podmiot przyjmujący na staż uczniowski opiekun stażu uczniowskiego.
+po pkt 33 dodaje się pkt 33a w brzmieniu:
 
-22. Opiekunem stażu uczniowskiego może być osoba spełniająca warunek określony w art. 120 ust. 3a. Spełnienie tego warunku jest potwierdzane oświadczeniem opiekuna stażu uczniowskiego.
+„
 
-23. Podmiot przyjmujący na staż uczniowski zapewnia uczniowi stanowisko pracy wyposażone w niezbędne urządzenia, sprzęt, narzędzia, materiały i dokumentację techniczną, uwzględniające wymagania bezpieczeństwa i higieny pracy, a także bezpieczne i higieniczne warunki odbywania stażu uczniowskiego na zasadach dotyczących pracowników określonych w odrębnych przepisach, w tym w zależności od rodzaju zagrożeń związanych z odbywaniem tego stażu – odpowiednie środki ochrony indywidualnej. Ponadto podmiot ten zapewnia w szczególności:
+### 33a)
 
-- **1)** pomieszczenia do przechowywania odzieży i obuwia roboczego oraz środków ochrony indywidualnej;
-- **2)** dostęp do urządzeń higieniczno-sanitarnych oraz pomieszczeń socjalno-bytowych;
-- **3)** dietę na zasadach uzgodnionych z armatorem – w przypadku uczniów odbywającym staż uczniowski na statkach morskich i śródlądowych;
-- **4)** świadczenia na zasadach określonych dla załóg statków – w przypadku uczniów odbywających staż uczniowski na statkach morskich i śródlądowych, wyokrętowanych ze statku za granicą wskutek wypadku lub choroby.
+zawodzie - należy przez to rozumieć również zawód o charakterze pomocniczym określony w klasyfikacji zawodów szkolnictwa branżowego;
 
-24. Podmiot przyjmujący na staż uczniowski jest obowiązany wystawić na piśmie zaświadczenie o odbyciu stażu uczniowskiego, które określa w szczególności okres odbytego stażu uczniowskiego, rodzaj realizowanych zadań i umiejętności nabyte w czasie odbywania stażu uczniowskiego.
+” ,
 
-25. Okres odbytego stażu uczniowskiego, na podstawie zaświadczenia, o którym mowa w ust. 24, zalicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+### m)
 
-26. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia wzór zaświadczenia, o którym mowa w ust. 24, uwzględniając konieczność prawidłowego udokumentowania okresu odbytego stażu uczniowskiego zaliczanego do okresu zatrudnienia.”;
+pkt 34 i 35 otrzymują brzmienie:
 
-- **55)** w art. 122: poz. 1267),
-    - **a)** w ust. 1: – pkt 2 otrzymuje brzmienie: „2) młodociany pracownik ukończył naukę zawodu i zdał:
-    - **a)** w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem – egzamin czeladniczy zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2018 r.
-    - **b)** w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem – egzamin zawodowy;”, – dodaje się pkt 3 w brzmieniu: „3) młodociany pracownik ukończył przyuczenie do wykonywania określonej pracy i zdał egzamin, zgodnie z przepisami, o których mowa w pkt 1.”,
-    - **b)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. W przypadku nauki zawodu prowadzonej w zawodach wskazanych przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art. 46b ust. 1, wysokość kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w ust. 2 pkt 1, wynosi do 10 000 zł.”,
-    - **c)** w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2 i 2a”,
-    - **d)** w ust. 7: – we wprowadzeniu do wyliczenia wyrazy „ust. 1 pkt 2” zastępuje się wyrazami „ust. 1 pkt 2 i 3”, – pkt 3 otrzymuje brzmienie: „3) kopię odpowiednio dyplomu, certyfikatu lub świadectwa, potwierdzającego zdanie egzaminu, o którym mowa w ust. 1 pkt 2 i 3, albo zaświadczenie potwierdzające zdanie tego egzaminu.”;
+„
 
-- **56)** po art. 122 dodaje się art. 122a w brzmieniu: „Art. 122a. 1. Dyrektor szkoły może zawrzeć umowę z instytucją certyfikującą, o której mowa w art. 2 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, dotyczącą jednokrotnego, nieodpłatnego przystąpienia przez uczniów lub absolwentów do walidacji i certyfikowania kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji. Umowa jest zawierana za zgodą ucznia lub absolwenta, a w przypadku niepełnoletniego ucznia lub absolwenta – za zgodą jego rodzica.
+### 34)
 
-2. Uprawnienie, o którym mowa w ust. 1, przysługuje uczniom lub absolwentom objętym umową nie krócej niż rok od zakończenia roku szkolnego, w którym ukończyli szkołę.
+kwalifikacji wyodrębnionej w zawodzie - należy przez to rozumieć wyodrębniony w zawodzie zestaw oczekiwanych efektów kształcenia, których osiągnięcie potwierdza certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną, po zdaniu egzaminu zawodowego w zakresie jednej kwalifikacji;
 
-3. Umowa określa w szczególności:
+### 35)
 
-- **1)** imiona i nazwiska oraz numer PESEL, a w przypadku braku numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, uczniów lub absolwentów, którzy mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
-- **2)** okres, w którym uczniowie lub absolwenci mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
-- **3)** wskazanie kwalifikacji rynkowej, której dotyczy umowa.
+kwalifikacyjnym kursie zawodowym - należy przez to rozumieć kurs, którego program nauczania uwzględnia podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej kwalifikacji, którego ukończenie umożliwia przystąpienie do egzaminu zawodowego w zakresie tej kwalifikacji;
 
-4. Dyrektor szkoły niezwłocznie przekazuje ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji informację o zawarciu umowy, o której mowa w ust. 1, ze wskazaniem instytucji certyfikującej, z którą umowa została zawarta, kwalifikacji, których dotyczy umowa, okresu obowiązywania umowy oraz liczby uczniów objętych umową.”;
+” ,
 
-- **57)** w art. 124 w ust. 2 wyrazy „art. 47 ust. 1 pkt 3 lit. a, b, d, e i f i art. 53 ust. 5” zastępuje się wyrazami „art. 47 ust. 1a”;
-- **58)** w art. 130 po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Do klasy I publicznej branżowej szkoły I stopnia młodocianych pracowników przyjmuje się na podstawie świadectwa ukończenia szkoły podstawowej i umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.”;
-- **59)** art. 132 otrzymuje brzmienie: „Art. 132. Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1, są przyjmowani w pierwszej kolejności do:
-- **1)** publicznej szkoły ponadpodstawowej, publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1;
-- **2)** publicznej szkoły ponadpodstawowej, o której mowa w art. 143 ust. 1, publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 137 ust. 1 i 4 oraz art. 143 ust. 1;
-- **3)** publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej oraz klasy wstępnej, o której mowa w art. 25 ust. 3, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 138 ust. 4 i art. 140 ust. 1 i 2, z tym że warunek uzyskania odpowiednio pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1, albo pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2, nie dotyczy laureata lub finalisty olimpiady przedmiotowej oraz laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole, oddziale albo klasie, o przyjęcie do których ubiega się laureat lub finalista.”;
-- **60)** w art. 134 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3– 5 w brzmieniu: „3) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616), przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
-- **4)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami rozdziału 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. );
-- **5)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.”;
-- **61)** w art. 135:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy:
+### n)
 
-- **1)** posiadają świadectwo ukończenia branżowej szkoły I stopnia;
-- **2)** posiadają zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
-- **3)** posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
-- **4)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
-- **5)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
-- **6)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5.
+po pkt 35 dodaje się pkt 35a-35c w brzmieniu:
 
-2. Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy ukończyli branżową szkołę I stopnia w okresie 5 lat szkolnych poprzedzających rok szkolny, na który ubiegają się o przyjęcie do publicznej branżowej szkoły II stopnia.”,
+„
 
-- **b)** uchyla się ust. 3,
-- **c)** w ust. 4 uchyla się pkt 3,
-- **d)** ust. 6 otrzymuje brzmienie: „6. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana szkoła, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
-- **1)** w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
-- **2)** w przypadku kandydata pełnoletniego – następujące kryteria:
-    - **a)** wielodzietność rodziny kandydata,
-    - **b)** niepełnosprawność kandydata,
-    - **c)** niepełnosprawność dziecka kandydata,
-    - **d)** niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
-    - **e)** samotne wychowywanie dziecka przez kandydata.”,
-    - **e)** po ust. 6 dodaje się ust. 6a i 6b w brzmieniu: „6a. Kryteria, o których mowa w ust. 6, mają jednakową wartość.
+### 35a)
 
-6b. Do kandydatów, o których mowa w ust. 1, nie stosuje się art. 147.”,
+kursie umiejętności zawodowych - należy przez to rozumieć kurs, którego program nauczania uwzględnia:
 
-- **f)** w ust. 8 wyrazy „do klasy I” zastępuje się wyrazami „na semestr pierwszy klasy I”;
-- **62)** w art. 136:
-    - **a)** w ust. 1 po pkt 2 dodaje się pkt 2a–2c w brzmieniu: „2a) w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
+### a)
 
-- **2b)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
-- **2c)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
+podstawę programową kształcenia w zawodzie szkolnictwa branżowego w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
 
-- **1)** w przypadku kandydata niepełnoletniego – kryteria, o których mowa w art. 131 ust. 2;
-- **2)** w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2.”;
-- **63)** w art. 141:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Do publicznej szkoły podstawowej dla dorosłych i na semestr pierwszy klasy I publicznego liceum ogólnokształcącego dla dorosłych przyjmuje się kandydatów, którzy:
+### b)
 
-- **1)** ukończyli sześcioletnią szkołę podstawową albo klasę VI lub VII ośmioletniej szkoły podstawowej – w przypadku ubiegania się o przyjęcie do szkoły podstawowej dla dorosłych;
-- **2)** ukończyli gimnazjum albo ośmioletnią szkołę podstawową – w przypadku ubiegania się o przyjęcie do liceum ogólnokształcącego dla dorosłych.”,
-    - **b)** uchyla się ust. 2,
-    - **c)** w ust. 3 w pkt 2 wyrazy „art. 136 ust. 3 pkt 2” zastępuje się wyrazami „art. 135 ust. 6 pkt 2”;
+efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1;
 
-- **64)** użyte w art. 142 w ust. 5 w pkt 2 i w art. 145 w ust. 1 w pkt 2, wyrazy „art. 136 ust. 3 pkt 2” zastępuje się wyrazami „art. 135 ust. 6 pkt 2”;
-- **65)** art. 146 otrzymuje brzmienie: „Art. 146. 1. Jeżeli kształcenie ustawiczne w formach pozaszkolnych jest realizowane przez publiczne szkoły, publiczne placówki lub publiczne centra, o których mowa w art. 2 pkt 4, jako forma nieodpłatna lub płatna, na pierwszym etapie postępowania rekrutacyjnego w odniesieniu do danej formy pozaszkolnej kształcenia ustawicznego są brane pod uwagę łącznie kryteria, o których mowa w art. 135 ust. 6 pkt 2. Przepis art. 131 ust. 3 stosuje się.
+### 35b)
 
-2. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana publiczna szkoła, publiczna placówka lub publiczne centrum, o których mowa w art. 2 pkt 4, nadal dysponują wolnymi miejscami na daną formę pozaszkolną kształcenia ustawicznego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów według kolejności zgłoszeń.
+kursie kompetencji ogólnych - należy przez to rozumieć kurs, którego program nauczania uwzględnia dowolnie wybraną część podstawy programowej kształcenia ogólnego;
 
-3. Przepisy ust. 1 i 2 nie mają zastosowania do form pozaszkolnych prowadzonych przez publiczne szkoły, publiczne placówki i publiczne centra, o których mowa w art. 2 pkt 4, na zlecenie innych podmiotów, a także do turnusów dokształcania teoretycznego młodocianych pracowników.”;
+### 35c)
 
-- **66)** w art. 147:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Na kwalifikacyjny kurs zawodowy prowadzony przez publiczną szkołę, publiczną placówkę lub publiczne centrum, o których mowa w art. 2 pkt 4, przyjmuje się kandydatów, którzy posiadają:
+turnusie dokształcania teoretycznego młodocianych pracowników - należy przez to rozumieć formę kształcenia zawodowego teoretycznego młodocianych pracowników w zakresie zawodu nauczanego w branżowej szkole I stopnia, którego program nauczania uwzględnia podstawę programową kształcenia w tym zawodzie;
 
-- **1)** zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
-- **2)** w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
-- **3)** w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5.”,
-    - **b)** w ust. 2 wyraz „ośrodku” zastąpić wyrazem „centrum”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. W przypadku większej liczby kandydatów spełniających kryterium, o którym mowa w ust. 2, niż liczba wolnych miejsc w publicznej szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 4, na dany kwalifikacyjny kurs zawodowy lub jeżeli publiczna szkoła, publiczna placówka lub publiczne centrum, o których mowa w art. 2 pkt 4, nadal dysponują wolnymi miejscami na dany kwalifikacyjny kurs zawodowy, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
+” ,
 
-- **1)** w przypadku kandydatów, o których mowa w przepisach wydanych na podstawie art. 36 ust. 16 – kryteria, o których mowa w art. 131 ust. 2;
-- **2)** w przypadku kandydata pełnoletniego – kryteria, o których mowa w art. 135 ust. 6 pkt 2;
-- **3)** w przypadku kandydatów, którzy ukończyli szkołę ponadpodstawową przed ukończeniem 18. roku życia – kryteria, o których mowa w art. 131 ust. 2.”,
-    - **d)** użyte w ust. 5–7, w różnej liczbie i różnym przypadku, wyrazy „publiczny ośrodek” zastępuje się, użytymi w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „publiczne centrum”;
+### o)
 
-- **67)** art. 148 otrzymuje brzmienie: „Art. 148. Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej, o którym mowa w art. 134 ust. 2 pkt 4 lit. a, art. 137 ust. 6 pkt 4 lit. a, art. 140 ust. 3 pkt 5 lit. a i art. 143 ust. 3 pkt 4 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.”;
-- **68)** w art. 149 pkt 4 i 5 otrzymują brzmienie: „4) publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych – na wybraną formę pozaszkolną kształcenia ustawicznego;
-- **5)** publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe – na wybrany kwalifikacyjny kurs zawodowy;”;
-- **69)** w art. 150 w ust. 2 w pkt 4:
-    - **a)** we wprowadzeniu do wyliczenia wyrazy „art. 135 ust. 1, 3 i 5” zastępuje się wyrazami „art. 135 ust. 1 i 5”,
-    - **b)** lit. d i e otrzymują brzmienie: „d) zaświadczenie o uzyskaniu tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub tytułu laureata konkursu dla uczniów szkól i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1,
-    - **e)** zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiega się o przyjęcie,”,
-    - **c)** po lit. f dodaje się lit. fa–fc w brzmieniu: „fa) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, fb) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, fc) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymaganiami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – świadectwo zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu,”,
-    - **d)** uchyla się lit. j;
+pkt 36 otrzymuje brzmienie:
 
-- **70)** w art. 154:
-    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) publicznych szkół podstawowych dla dorosłych, klas I publicznych szkół ponadpodstawowych, klas wstępnych, o których mowa w art. 25 ust. 3, i na semestr pierwszy klas I publicznych branżowych szkół II stopnia i publicznych szkół policealnych – określa do końca stycznia właściwy kurator oświaty.”,
-    - **b)** w ust. 2 w pkt 2 skreśla się wyrazy „i art. 141 ust. 2,”,
-    - **c)** w ust. 7 wyraz „ośrodka” zastępuje się wyrazem „centrum”,
-    - **d)** ust. 8 i 9 otrzymują brzmienie: „8. Dyrektor publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na pozaszkolne formy kształcenia, w tym terminy składania dokumentów.
+„
 
-9. W przypadku publicznych branżowych szkół II stopnia, publicznych szkół policealnych oraz publicznych szkół dla dorosłych komisja rekrutacyjna, w uzgodnieniu z dyrektorem szkoły, rozpatruje w postępowaniu uzupełniającym wniosek kandydata złożony po terminie określonym zgodnie z ust. 1 pkt 2, jeżeli szkoła nadal dysponuje wolnymi miejscami.”;
+### 36)
 
-- **71)** w art. 157 w ust. 2 w pkt 3 skreśla się wyrazy „art. 141 ust. 2,”;
-- **72)** użyte w art. 159, w różnym przypadku, wyrazy „publiczny ośrodek” zastępuje się, użytymi w odpowiednim przypadku, wyrazami „publiczne centrum”;
-- **73)** w art. 162 w pkt 1 wyrazy „art. 135 ust. 4 pkt 1–3” zastępuje się wyrazami „art. 135 ust. 4 pkt 1 i 2”;
-- **74)** art. 164 otrzymuje brzmienie: „Art. 164. 1. W przypadku przechodzenia ucznia ze:
-- **1)** szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – do szkoły publicznej innego typu,
-- **2)** szkoły publicznej lub szkoły niepublicznej – do szkoły publicznej tego samego typu – o przyjęciu ucznia do danej szkoły decyduje dyrektor szkoły; przepis art. 130 ust. 3 stosuje się odpowiednio.
+egzaminie zawodowym - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy o systemie oświaty;
 
-2. Uczeń przechodzący ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej, niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o której mowa w ust. 1, jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej innego typu albo tego samego typu, po dokonaniu oceny zakresu kształcenia zrealizowanego w szkole, do której uczeń uczęszczał, na podstawie kopii arkusza ocen ucznia, poświadczonej za zgodność z oryginałem przez dyrektora szkoły, do której uczeń uczęszczał, lub na podstawie zaświadczenia o przebiegu nauczania ucznia, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7.
+” ;
 
-3. W przypadku przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, jednego typu do szkoły publicznej innego typu można przeprowadzić egzamin klasyfikacyjny. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
+### 4)
 
-4. Uczeń niepublicznej szkoły artystycznej nieposiadającej uprawnień publicznej szkoły artystycznej jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej po zdaniu egzaminów klasyfikacyjnych. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
+w art. 8:
 
-5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+### a)
 
-- **1)** szczegółowe warunki przechodzenia ucznia szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o którym mowa w ust. 1,
-- **2)** przypadki, w których uczeń szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej – może być przyjęty do szkoły publicznej innego typu do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych – na semestr programowo wyższy, niż to wynika z kopii arkusza ocen ucznia lub zaświadczenia o przebiegu nauczania ucznia, o których mowa w ust. 2 – uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego.”;
-- **75)** w art. 165:
-    - **a)** w ust. 3 wyrazy „szkołach dla dorosłych,” zastępuje się wyrazami „szkołach dla dorosłych, publicznych branżowych szkołach II stopnia,”,
-    - **b)** ust. 14 otrzymuje brzmienie: „14. Oddziału przygotowawczego nie organizuje się w szkołach artystycznych, szkołach specjalnych, szkołach sportowych, szkołach mistrzostwa sportowego, szkołach dla dorosłych, szkołach policealnych i branżowych szkołach II stopnia.”;
+w ust. 5:
 
-- **76)** użyte w art. 165 w ust. 12 i w art. 166 w ust. 3 wyrazy „art. 39 ust. 2–4” zastępuje się wyrazami „art. 39 ust. 2–4a”;
-- **77)** w art. 168:
-    - **a)** ust. 2 i 3 otrzymują brzmienie: „2. Osoby prawne i osoby fizyczne mogą zakładać niepubliczne szkoły artystyczne po uzyskaniu wpisu do ewidencji prowadzonej przez specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1.
+- - w pkt 1 lit. a otrzymuje brzmienie: „ a) szkoły polskie, ” ,
 
-3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze rozporządzenia, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1, wydawanie decyzji, o których mowa w art. 176 ust. 4 i art. 179.”,
+- - w pkt 2 w lit. c w tiret drugie wyrazy „szkolnych punktów konsultacyjnych” zastępuje się wyrazami „szkół polskich”,
 
-- **b)** w ust. 4: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Zgłoszenie do ewidencji zawiera:”, – pkt 2 otrzymuje brzmienie: „2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe – nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego;”, – po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego – informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
-- **2b)** w przypadku szkoły podstawowej – informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne;”, – w pkt 3: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku szkoły artystycznej na terenie tej samej miejscowości, a także informację o warunkach lokalowych zapewniających:”, – – lit. c otrzymuje brzmienie: „c) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej – możliwość realizacji praktycznej nauki zawodu,”, – pkt 6 otrzymuje brzmienie: „6) zobowiązanie do przestrzegania wymagań określonych odpowiednio w: Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki niepublicznej.
-    - **a)** art. 14 ust. 3 – w przypadku szkoły niepublicznej niebędącej szkołą artystyczną,
-    - **b)** art. 14 ust. 4 – w przypadku niepublicznej szkoły artystycznej realizującej kształcenie ogólne, której z dniem rozpoczęcia działalności mają być nadane uprawnienia publicznej szkoły artystycznej;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) w przypadku szkoły, o której mowa w art. 178 ust. 1 – informację o zgodzie ministra właściwego do spraw oświaty i wychowania na założenie lub prowadzenie szkoły niepublicznej, która nie spełnia warunków określonych w art. 14 ust. 3;”,
-    - **c)** po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „4a. Osoba fizyczna składająca zgłoszenie do ewidencji, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej zgłoszenie.
+### b)
 
-4b. Oświadczenie, o którym mowa w ust. 4a, może zostać złożone przez osobę fizyczną również po uzyskaniu wpisu do ewidencji.”,
+w ust. 14 wyrazy „klasyfikacją zawodów szkolnictwa zawodowego, o której mowa w art. 46 ust. 1” zastępuje się wyrazami „klasyfikacją zawodów szkolnictwa branżowego”,
 
-- **d)** ust. 5 otrzymuje brzmienie: „5. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły prowadzącej kształcenie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister właściwy do spraw zdrowia – także opinię tego ministra o spełnieniu wymagań określonych w art. 14 ust. 3.”,
-- **e)** po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „5a. Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+### c)
 
-5b. Szkołę, o której mowa w art. 178 ust. 1, wpisuje się do ewidencji na podstawie zgody ministra właściwego do spraw oświaty i wychowania.”,
+po ust. 14 dodaje się ust. 14a w brzmieniu:
 
-- **f)** ust. 10 otrzymuje brzmienie: „10. Podmiot, o którym mowa w ust. 2, dokonuje wpisu do ewidencji w ciągu 30 dni od daty zgłoszenia oraz z urzędu doręcza zgłaszającemu zaświadczenie o wpisie do ewidencji, a kopię zaświadczenia przekazuje organowi podatkowemu, a w przypadku szkoły artystycznej realizującej kształcenie ogólne również właściwemu kuratorowi oświaty.”,
-- **g)** w ust. 11: – pkt 1 otrzymuje brzmienie: „1) nazwę organu lub podmiotu, który dokonał wpisu do ewidencji szkoły lub placówki;”, – w pkt 3 wyrazy „typ i rodzaj” zastępuje się wyrazami „typ lub rodzaj”, – pkt 5 i 6 otrzymują brzmienie: „5) adres szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie zostało przewidziane;
-- **6)** w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej – nazwy zawodów, w których kształci szkoła;”, – po pkt 6 dodaje się pkt 6a w brzmieniu: „6a) w przypadku szkoły artystycznej – nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła;”,
-    - **h)** w ust. 12 wprowadzenie do wyliczenia otrzymuje brzmienie: „Organ lub podmiot, o których mowa w ust. 1 i 2, wydają decyzje o odmowie wpisu do ewidencji, jeżeli:”,
-    - **i)** ust. 13 otrzymuje brzmienie: „13. Osoba prowadząca szkołę lub placówkę jest obowiązana zgłosić organowi lub podmiotowi, o których mowa w ust. 1 i 2, w ciągu 14 dni zmiany w danych zawartych w zgłoszeniu, powstałe po wpisie do ewidencji. Przepisy ust. 4–12 stosuje się odpowiednio.”,
-    - **j)** dodaje się ust. 14–16 w brzmieniu: „14. W przypadku zmiany organu prowadzącego szkołę lub placówkę wniosek o zmianę danych, o których mowa w ust. 4 pkt 1, składa, nie później niż na miesiąc przed planowanym dniem zmiany organu prowadzącego, osoba dotychczas prowadząca szkołę lub placówkę. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę wniosek składa osoba, która została wskazana w oświadczeniu, o którym mowa w ust. 4a lub 4b, w terminie 14 dni od dnia zgonu. Zmiana organu prowadzącego następuje z dniem dokonania wpisu tej zmiany do ewidencji. Przepisy ust. 4 pkt 1 i 4 oraz ust. 9– 12 stosuje się odpowiednio.
+„
 
-15. Organ lub podmiot właściwy do dokonania wpisu do ewidencji może wyrazić zgodę na złożenie wniosku, o którym mowa w ust. 14, w innym terminie niż określony w tym przepisie.
+### 14a.
 
-16. Organ lub podmiot, o których mowa w ust. 1 i 2, podają do publicznej wiadomości wykaz szkół i placówek niepublicznych, zawierający dane, o których mowa w ust. 11 pkt 3 i 5. Podmiot, o którym mowa w ust. 2, w wykazie uwzględnia także informację o posiadaniu przez niepubliczną szkołę artystyczną uprawnień publicznej szkoły artystycznej.”;
+Ministrowie właściwi do spraw zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego, niewymienieni w ust. 4-14, mogą zakładać i prowadzić publiczne szkoły prowadzące kształcenie zawodowe oraz placówki i centra, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których są właściwi.
 
-- **78)** w art. 169:
-    - **a)** w ust. 1 pkt 3 otrzymuje brzmienie: „3) stwierdzenia, w trybie nadzoru pedagogicznego, że działalność szkoły lub placówki lub organu prowadzącego tę szkołę lub placówkę jest niezgodna z przepisami niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutem, w szczególności:
-    - **a)** nie jest wypełnione zobowiązanie, o którym mowa w art. 168 ust. 4 pkt 6, albo
-    - **b)** nie są spełnione warunki funkcjonowania szkoły określone zgodnie z art. 178 ust. 4 – jeżeli szkoła lub placówka lub osoba prowadząca szkołę lub placówkę w wyznaczonym terminie nie zastosowała się do polecenia organu sprawującego nadzór pedagogiczny, o którym mowa w art. 180 ust. 2;”,
-    - **b)** dodaje się ust. 3 i 4 w brzmieniu: „3. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3 lit. b, organ lub podmiot, o których mowa w art. 168 ust. 1 albo 2, powiadamiają o wykreśleniu szkoły odpowiednio ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+” ,
 
-4. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3, przepisy art. 172 ust. 4 i 5, stosuje się odpowiednio.”;
+### d)
 
-- **79)** w art. 172 w ust. 2:
-    - **a)** po pkt 4 dodaje się pkt 4a–4d w brzmieniu: „4a) w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych:
-    - **a)** nazwę zawodu lub zawodów, w których kształci szkoła,
-    - **b)** organizację zajęć edukacyjnych w ramach kształcenia zawodowego, w tym organizację praktycznej nauki zawodu,
-    - **c)** organizację kształcenia ogólnego i zawodowego dla pracowników młodocianych – jeżeli szkoła takie kształcenie prowadzi;
+po ust. 21 dodaje się ust. 21a w brzmieniu:
 
-- **4b)** w przypadku szkół artystycznych:
-    - **a)** nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła,
-    - **b)** organizację zajęć edukacyjnych;
+„
 
-- **4c)** szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
-- **4d)** formę kształcenia – w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia, szkoły policealnej;”, 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e–fc”,
-    - **b)** pkt 5 otrzymuje brzmienie: „5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;”,
-    - **c)** w pkt 7 w lit. a wyrazy „art. 135 ust. 1–3, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. j oraz ust. 6” zastępuje się wyrazami „art.
-    - **d)** w pkt 8 wyrazy „o uprawnieniach szkoły publicznej” zastępuje się wyrazami „o uprawnieniach publicznej szkoły artystycznej”;
+### 21a.
 
-- **80)** po art. 172 dodaje się art. 172a w brzmieniu: „Art. 172a. Przepis art. 68 ust. 7–7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.”;
-- **81)** w art. 176:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Niepublicznej szkole artystycznej realizującej kształcenie ogólne założonej zgodnie z art. 168 ust. 1–10, przysługują uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności.
+Prowadzenie publicznych szkół, placówek i centrów, o których mowa w ust. 14a, może być przekazywane w drodze porozumienia zawieranego między właściwym ministrem a jednostką samorządu terytorialnego. Przepis ust. 21 stosuje się odpowiednio.
 
-2. Kurator oświaty w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez niepubliczną szkołę podstawową lub szkołę ponadpodstawową, jest obowiązany sprawdzić spełnianie warunków określonych w art. 14 ust. 3. W przypadku niepublicznej szkoły artystycznej realizującej kształcenie ogólne, która uzyskała uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności, specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1, jest obowiązana sprawdzić spełnianie warunków określonych w art. 14 ust. 4 w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez szkołę.”,
+” ;
 
-- **b)** uchyla się ust. 3,
-- **c)** ust. 4 otrzymuje brzmienie: „4. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek osoby prowadzącej niepubliczną szkołę artystyczną nieposiadającą uprawnień publicznej szkoły artystycznej, złożony nie wcześniej niż po zakończeniu przez szkołę pierwszego roku kształcenia, a w przypadku artystycznej szkoły policealnej – pierwszego semestru kształcenia, nadaje tej szkole uprawnienia publicznej szkoły artystycznej po stwierdzeniu, że szkoła ta spełnia warunki określone w art. 14 ust. 4, a w przypadku szkoły artystycznej realizującej kształcenie ogólne – także po przedstawieniu przez osobę prowadzącą pozytywnej opinii kuratora oświaty.”;
-- **82)** art. 177–179 otrzymują brzmienie: „Art. 177. Do przedszkoli niepublicznych, oddziałów przedszkolnych w niepublicznych szkołach podstawowych, niepublicznych innych form wychowania przedszkolnego, szkół i placówek niepublicznych stosuje się odpowiednio art. 127 ust. 1–3 oraz przepisy wydane na podstawie art. 47 ust. 1 pkt 5, art. 127 ust. 19 pkt 2 i ust. 20.
+### 5)
 
-**Art. 178.**
+w art. 10:
 
-1. Minister właściwy do spraw oświaty i wychowania może, w drodze decyzji, wyrazić zgodę na założenie lub prowadzenie szkoły niepublicznej, która nie spełnia warunków określonych w art. 14 ust. 3, w szczególności jeżeli uzna ją za eksperymentalną.
+### a)
 
-2. Wniosek o wyrażenie zgody na założenie lub prowadzenie szkoły, o której mowa w ust. 1, składa się do ministra właściwego do spraw oświaty i wychowania za pośrednictwem kuratora oświaty, który dołącza swoją opinię.
+w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
 
-3. Wniosek o uznanie szkoły za eksperymentalną zawiera cel, założenia i sposób realizacji eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – także czas trwania i uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
+„
 
-- **1)** opinię jednostki naukowej dotyczącą założeń eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – opinię jednostki naukowej właściwej dla danego zawodu, wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem tego eksperymentu;
-- **2)** zgodę rady pedagogicznej wyrażoną w uchwale;
-- **3)** w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego: o promocji zatrudnienia i instytucjach rynku pracy,
-    - **a)** podstawę programową kształcenia w tym zawodzie, sporządzoną z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, oraz propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w tym zawodzie,
-    - **b)** program nauczania tego zawodu,
-    - **c)** tygodniowy lub semestralny rozkład zajęć,
-    - **d)** opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r.
-    - **e)** pozytywną opinię w zakresie merytorycznej zawartości programu nauczania przewidzianego dla tego zawodu, wydaną przez jednostkę naukową właściwą dla tego zawodu, a także pozytywną opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, właściwego dla tego zawodu ze względu na treść wniosku, o którym mowa w ust. 2,
-    - **f)** harmonogram realizacji eksperymentu wraz z określeniem niezbędnych zasobów, w tym kadrowych, finansowych, rzeczowych oraz lokalowych,
-    - **g)** przykładowe zestawy zadań egzaminacyjnych – w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego;
+### 7)
 
-- **4)** pozytywną opinię ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego – ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 2.
+przekazanie do szkół dla dzieci i młodzieży oraz placówek, o których mowa w art. 2 pkt 7, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie artystyczne, informacji o podmiotach wykonujących działalność leczniczą udzielających świadczeń zdrowotnych w zakresie leczenia stomatologicznego dla dzieci i młodzieży, finansowanych ze środków publicznych.
 
-4. Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty. W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego decyzja obejmuje również przypisanie do kwalifikacji wyodrębnionych w tym zawodzie oraz do zawodu poziomu Polskiej Ramy Kwalifikacji. Dokonując przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodzie oraz zawodu, stosuje się przepisy art. 21 ust. 1–3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
+” ,
 
-5. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze decyzji, nadać uprawnienia publicznej szkoły artystycznej szkole niespełniającej warunków określonych w art. 14 ust. 4, jeżeli uzna ją za eksperymentalną.
+### b)
 
-6. Osoba prowadząca szkołę, o której mowa w ust. 5, składa wniosek o nadanie niepublicznej szkole artystycznej uprawnień publicznej szkoły artystycznej do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, która dołącza swoją opinię.
+w ust. 2 wyrazy „ust. 4-13” zastępuje się wyrazami „ust. 4-14a”;
 
-7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w decyzji, o której mowa w ust. 5, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty.
+### 6)
 
-8. Przepis ust. 3 stosuje się odpowiednio do niepublicznych szkół artystycznych, o których mowa w ust. 5.
+w art. 11 w ust. 7 w pkt 1 wyrazy „egzaminu potwierdzającego kwalifikacje w zawodzie” zastępuje się wyrazami „egzaminu zawodowego”;
 
-**Art. 179.**
+### 7)
 
-1. Uprawnienia publicznej szkoły artystycznej mogą zostać cofnięte przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, jeżeli w trybie nadzoru pedagogicznego zostanie stwierdzone niespełnianie warunków, o których mowa w art. 14 ust. 4, lub warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły artystycznej realizującej kształcenie ogólne jest równoznaczne z jej likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.
+w art. 14:
 
-2. W przypadku cofnięcia uprawnień publicznej szkoły artystycznej niepublicznej szkole artystycznej ponowny wniosek o nadanie tej szkole uprawnień publicznej szkoły artystycznej może zostać złożony nie wcześniej niż po upływie roku kształcenia, a w przypadku artystycznej szkoły policealnej – semestru kształcenia.
+### a)
 
-3. Organ prowadzący niepubliczną szkołę artystyczną jest obowiązany niezwłocznie poinformować rodziców ucznia lub pełnoletniego ucznia o cofnięciu tej szkole uprawnień publicznej szkoły artystycznej.”;
+w ust. 1 w pkt 4 lit. a otrzymuje brzmienie:
 
-- **83)** w art. 180:
-    - **a)** w ust. 1 skreśla się wyrazy „oraz placówkami, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzi działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutu lub nie wypełnia zobowiązań, o których mowa w art. 168 ust. 4 pkt 6, lub nie spełnia warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej – warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7, organ sprawujący nadzór pedagogiczny może polecić usunięcie uchybień w wyznaczonym terminie.”;
+„
 
-- **84)** w art. 182 wyrazy „uprawnień szkoły publicznej” zastępuje się wyrazami „uprawnień publicznej szkoły artystycznej”.
+### a)
 
-**Art. 2.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560 i 1669) wprowadza się następujące zmiany:
+programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe - również podstawy programowe kształcenia w zawodach szkolnictwa branżowego albo podstawy programowe kształcenia w zawodach szkolnictwa artystycznego,
 
-**Art. 3.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2018 r. poz. 1459, 1669 i 2182) w art. 98k w ust. 3 w pkt 8 w lit. b wyrazy „co najmniej średnie” zastępuje się wyrazami „co najmniej średnie lub średnie branżowe”.
+” ,
 
-**Art. 4.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm. ) wprowadza się następujące zmiany:
+### b)
 
-**Art. 5.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2018 r. poz. 441 i 1669) w art. 2a w pkt 12 wyrazy „szkoły niepubliczne o uprawnieniach szkół publicznych” zastępuje się wyrazami „szkoły niepubliczne i niepubliczne szkoły artystyczne o uprawnieniach publicznej szkoły artystycznej”.
+ust. 2 i 3 otrzymują brzmienie:
 
-**Art. 6.** W ustawie z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2018 r. poz. 967) wprowadza się następujące zmiany:
+„
 
-**Art. 9j.**
+### 2.
 
-1. Nauczyciele szkół za granicą, z wyjątkiem osób skazanych prawomocnym wyrokiem za umyślne przestępstwo, mogą ubiegać się o nadanie stopni awansu zawodowego, o których mowa w art. 9a ust. 1 pkt 2–
+Szkoły publiczne oraz szkoły niepubliczne, o których mowa w ust. 3, umożliwiają uzyskanie świadectw, certyfikatów, zaświadczeń, aneksów lub dyplomów państwowych.
 
-4. [2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela szkoły za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
+### 3.
 
-- **1)** w przypadku nauczyciela ubiegającego się o stopień nauczyciela kontraktowego albo nauczyciela mianowanego – zdanie egzaminu przed komisją egzaminacyjną;
-- **2)** w przypadku nauczyciela ubiegającego się o stopień nauczyciela dyplomowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy jego dorobku zawodowego i przeprowadzonej rozmowie.] <2. Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
-- **1)** w przypadku nauczyciela stażysty – uzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie;
-- **2)** w przypadku nauczyciela kontraktowego – zdanie egzaminu przed komisją egzaminacyjną;
-- **3)** w przypadku nauczyciela mianowanego – uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy dorobku zawodowego nauczyciela i przeprowadzonej rozmowie.>
+Szkołą niepubliczną niebędącą szkołą artystyczną jest szkoła, która:
 
-3. Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który w okresie 10 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela kontraktowego przez co najmniej 5 lat szkolnych prowadził zajęcia w szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela kontraktowego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć w szkole za granicą.
+### 1)
 
-4. Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który w okresie 20 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela mianowanego przez co najmniej 15 lat szkolnych prowadził zajęcia w szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela mianowanego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć w szkole za granicą.
+realizuje programy nauczania uwzględniające podstawę programową kształcenia ogólnego, a w przypadku szkoły prowadzącej kształcenie zawodowe - również podstawy programowe kształcenia w zawodach szkolnictwa branżowego;
 
-5. Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, nadaje stopień awansu zawodowego nauczycielowi szkoły za granicą spełniającemu warunki wymagane do uzyskania tego stopnia albo odmawia jego nadania.
+### 2)
 
-**Art. 9k.**
+realizuje obowiązkowe zajęcia edukacyjne w okresie nie krótszym oraz w wymiarze nie niższym niż łączny wymiar poszczególnych obowiązkowych zajęć edukacyjnych określony w ramowym planie nauczania szkoły publicznej danego typu;
 
-1. Minister właściwy do spraw oświaty i wychowania prowadzi system teleinformatyczny w celu obsługi postępowań związanych z awansem zawodowym nauczycieli szkół za granicą, zwany dalej „systemem teleinformatycznym”, oraz administruje nim.
+### 3)
 
-2. System teleinformatyczny w szczególności umożliwia nauczycielom szkół za granicą odbywającym staż utrzymywanie kontaktu z opiekunem stażu, a także dokumentowanie przebiegu stażu.
+stosuje zasady klasyfikowania i promowania uczniów oraz przeprowadzania egzaminów, o których mowa w ust. 1 pkt 5;
 
-3. Do dostępu do systemu teleinformatycznego są upoważnione osoby realizujące zadania w zakresie awansu zawodowego nauczycieli szkół za granicą, nauczyciele szkół za granicą ubiegający się o nadanie stopnia awansu zawodowego, osoby ubiegające się o wpisanie na listę nauczycieli mogących pełnić funkcję opiekuna stażu oraz opiekunowie stażu.
+### 4)
 
-**Art. 9l.**
+prowadzi dokumentację przebiegu nauczania ustaloną dla szkół publicznych;
 
-1. Nauczyciel szkoły za granicą składa wniosek o rozpoczęcie stażu na stopień awansu zawodowego za pośrednictwem systemu teleinformatycznego, w terminie do dnia 31 lipca danego roku.
+### 5)
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+w przypadku szkoły prowadzącej kształcenie zawodowe - kształci w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego;
 
-- **1)** imię (imiona) i nazwisko nauczyciela;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL – a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
-- **4)** adres do korespondencji;
-- **5)** numer telefonu;
-- **6)** adres poczty elektronicznej, jeżeli nauczyciel go posiada;
-- **7)** nazwę szkoły za granicą, w której nauczyciel prowadzi zajęcia;
-- **8)** nazwę nauczanego przedmiotu;
-- **9)** dokumenty potwierdzające posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2;
-- **10)** dokumenty potwierdzające posiadanie wymaganego okresu prowadzenia zajęć w szkołach za granicą, wydane przez osoby kierujące szkołami za granicą;
-- **11)** akt nadania stopnia awansu zawodowego, jeżeli nauczyciel posiada taki stopień;
-- **12)** oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo.
+### 6)
 
-3. Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa w ust. 2, w terminie do dnia 31 sierpnia informuje nauczyciela o możliwości rozpoczęcia stażu oraz wyznacza mu opiekuna stażu.
+zatrudnia nauczycieli obowiązkowych zajęć edukacyjnych, o których mowa w pkt 2, posiadających kwalifikacje określone dla nauczycieli szkół publicznych; przepisy art. 15 ust. 2, 4 i 6 stosuje się odpowiednio;
 
-4. Opiekunem stażu nauczyciela szkoły za granicą może być nauczyciel mianowany lub dyplomowany szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkoły i zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, szkoły europejskiej, a także innej szkoły w Polsce – za zgodą dyrektora szkoły, wpisany na listę nauczycieli mogących pełnić funkcję opiekuna stażu nauczycieli szkół za granicą, prowadzoną przez ministra właściwego do spraw oświaty i wychowania.
+### 7)
 
-5. Nauczyciel zainteresowany pełnieniem funkcji opiekuna stażu nauczyciela szkoły za granicą składa wniosek o wpisanie na listę, o której mowa w ust. 4, za pośrednictwem systemu teleinformatycznego.
+stosuje organizację roku szkolnego ustaloną dla szkół publicznych.
 
-6. Wniosek o wpisanie na listę, o której mowa w ust. 4, zawiera:
+” ,
 
-- **1)** imię (imiona) i nazwisko nauczyciela;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL – a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
-- **4)** adres do korespondencji;
-- **5)** numer telefonu;
-- **6)** adres poczty elektronicznej, jeżeli nauczyciel go posiada;
-- **7)** nazwę szkoły, w której nauczyciel jest zatrudniony;
-- **8)** nazwę nauczanego przedmiotu;
-- **9)** dokumenty potwierdzające posiadanie kwalifikacji do zajmowania stanowiska nauczyciela danego przedmiotu;
-- **10)** zgodę dyrektora szkoły, w której nauczyciel jest zatrudniony, na sprawowanie funkcji opiekuna stażu nauczyciela szkoły za granicą;
-- **11)** akt nadania stopnia awansu zawodowego;
-- **12)** dokument potwierdzający odbywanie stażu na stopień awansu zawodowego nauczyciela dyplomowanego, jeżeli nauczyciel odbywa taki staż;
-- **13)** dokument potwierdzający pełnienie funkcji opiekuna stażu nauczyciela szkoły za granicą, szkoły w Polsce, szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkoły lub zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, lub szkoły europejskiej, jeżeli nauczyciel taką funkcję pełnił.
+### c)
 
-7. Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa w ust. 6, wpisuje nauczyciela na listę, o której mowa w ust. 4, albo odmawia wpisania na tę listę.
+w ust. 4:
 
-**Art. 9m.**
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Niepubliczna szkoła artystyczna może uzyskać uprawnienia publicznej szkoły artystycznej, o których mowa w ust. 2, jeżeli: ” ,
 
-1. Staż nauczyciela szkoły za granicą trwa w przypadku ubiegania się o awans na stopień: [1) nauczyciela kontraktowego – rok i 9 miesięcy;] <1) nauczyciela kontraktowego – 9 miesięcy;>
+- - pkt 1 otrzymuje brzmienie: „ 1) realizuje programy nauczania uwzględniające podstawy programowe kształcenia w zawodach szkolnictwa artystycznego, a w przypadku szkoły artystycznej realizującej kształcenie ogólne - również podstawę programową kształcenia ogólnego; ” ,
 
-- **2)** nauczyciela mianowanego albo nauczyciela dyplomowanego – 2 lata i 9 miesięcy.
+- - pkt 6 otrzymuje brzmienie: „ 6) kształci w zawodach szkolnictwa artystycznego określonych w klasyfikacji zawodów szkolnictwa artystycznego; ” ,
 
-2. Nauczyciel szkoły za granicą posiadający stopień awansu zawodowego nauczyciela kontraktowego lub nauczyciela mianowanego, który posiada co najmniej stopień naukowy doktora, może ubiegać się o uzyskanie kolejnego stopnia awansu zawodowego po odbyciu stażu trwającego rok i 9 miesięcy.
+- - w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) stosuje organizację roku szkolnego ustaloną dla publicznych szkół artystycznych. ” ;
 
-**Art. 9n.** [1. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 3 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej 4 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego.] <1. Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 2 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej roku prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego.> 2. Nauczyciel szkoły za granicą rozpoczyna staż z początkiem roku szkolnego, nie później jednak niż w ciągu 30 dni od dnia rozpoczęcia zajęć w szkole za granicą, na swój wniosek skierowany do ministra właściwego do spraw oświaty i wychowania złożony w sposób określony w art. 9l ust. 1. 3. W przypadku rozpoczęcia przez nauczyciela prowadzenia zajęć w szkole za granicą po upływie terminu, o którym mowa w ust. 2, nauczyciel nie rozpoczyna stażu do końca tego roku szkolnego. 4. Przepisy ust. 2 i 3 stosuje się odpowiednio do dodatkowego stażu, o którym mowa w art. 9q ust. 5 i art. 9s ust. 3, oraz do ponownego odbywania stażu, o którym mowa w ust. 5. 5. W przypadku nieprowadzenia przez nauczyciela szkoły za granicą zajęć przez okres trwający nieprzerwanie dłużej niż miesiąc staż ulega przedłużeniu o czas nieprowadzenia zajęć. W przypadku nieprowadzenia zajęć przez okres dłuższy niż rok nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.
+### 8)
 
-**Art. 9o.**
+w art. 17:
 
-1. W okresie stażu nauczyciel szkoły za granicą realizuje plan rozwoju zawodowego zatwierdzony przez ministra właściwego do spraw oświaty i wychowania, uwzględniający wymagania określone w przepisach wydanych na podstawie art. 9w pkt 1.
+### a)
 
-2. Nauczycielowi szkoły za granicą ubiegającemu się o awans na stopień nauczyciela dyplomowanego za spełnienie odpowiednich wymagań, o których mowa w przepisach wydanych na podstawie art. 9w pkt 1, uznaje się także jego dorobek zawodowy ze szczególnym uwzględnieniem okresu od dnia uzyskania stopnia nauczyciela mianowanego.
+uchyla się ust. 1,
 
-3. Zadaniem opiekuna stażu, o którym mowa w art. 9l ust. 3, jest udzielanie pomocy nauczycielowi odbywającemu staż, w szczególności w przygotowaniu i realizacji w okresie stażu planu rozwoju zawodowego, oraz opracowanie opinii o realizacji planu rozwoju zawodowego nauczyciela.
+### b)
 
-4. Z nauczycielem mianowanym lub dyplomowanym, który został wyznaczony do pełnienia funkcji opiekuna stażu, minister właściwy do spraw oświaty i wychowania zawiera umowę cywilnoprawną na okres pełnienia tej funkcji.
+ust. 2 otrzymuje brzmienie:
 
-5. Nauczyciel, o którym mowa w ust. 4, otrzymuje wynagrodzenie w wysokości równej wysokości dodatku funkcyjnego dla nauczyciela, któremu powierzono funkcję opiekuna stażu, określonej w przepisach wydanych na podstawie art. 30 ust. 7.
+„
 
-**Art. 9p.**
+### 2.
 
-1. Nauczycielowi szkoły za granicą, który w okresie stażu podjął zatrudnienie w szkole w Rzeczypospolitej Polskiej, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, szkole europejskiej, albo rozpoczął prowadzenie zajęć w innej szkole za granicą, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną opinię opiekuna stażu o stopniu realizacji planu rozwoju zawodowego oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia zakończenia prowadzenia zajęć w szkole za granicą.
+Szkoła artystyczna realizująca kształcenie ogólne może być tylko szkołą publiczną albo niepubliczną o uprawnieniach publicznej szkoły artystycznej.
 
-2. Opinię, o której mowa w ust. 1, uwzględnia się przy dokonywaniu oceny realizacji planu rozwoju zawodowego nauczyciela za okres całego stażu.
+” ;
 
-3. Nauczyciel szkoły za granicą, który w okresie stażu podjął zatrudnienie w szkole w Rzeczypospolitej Polskiej szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w rozdziale 3a. Dyrektor szkoły przydziela nauczycielowi nowego opiekuna stażu spośród nauczycieli mianowanych i dyplomowanych zatrudnionych w szkole.
+### 9)
 
-4. Nauczyciel szkoły za granicą, który rozpoczął prowadzenie zajęć w innej szkole za granicą, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w niniejszym rozdziale. Opiekunem stażu tego nauczyciela pozostaje dotychczasowy opiekun. [5. Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał co najmniej dobrą ocenę pracy za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej.] <5. Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy – Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy – Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną ocenę dorobku zawodowego za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej.>
+w art. 18:
 
-6. Nauczyciel szkoły w Rzeczypospolitej Polskiej, który w okresie stażu rozpoczął prowadzenie zajęć w szkole za granicą, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w niniejszym rozdziale. Dotychczasowy opiekun stażu, po wpisaniu na listę, o której mowa w art. 9l ust. 4, może realizować zadania opiekuna stażu nauczyciela szkoły za granicą. Jeżeli dotychczasowy opiekun stażu nie wyraża zgody na realizowanie zadań opiekuna stażu nauczyciela szkoły za granicą, minister właściwy do spraw oświaty i wychowania wyznacza nauczycielowi nowego opiekuna stażu z listy nauczycieli, o której mowa w art. 9l ust. 4.
+### a)
 
-7. Nauczyciel kontraktowy i nauczyciel mianowany mogą przerwać staż na swój wniosek w każdym czasie. W przypadku ponownego rozpoczęcia stażu odbywają staż w pełnym wymiarze.
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
 
-**Art. 9q.**
+„
 
-1. Po zakończeniu stażu nauczyciel szkoły za granicą składa, za pośrednictwem systemu teleinformatycznego, ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie z realizacji planu rozwoju zawodowego, wraz z opinią opiekuna stażu o realizacji zadań wymienionych w planie. Nauczyciel dołącza do sprawozdania z realizacji planu rozwoju zawodowego opinie osoby kierującej szkołą za granicą i przedstawicielstwa rodziców uczniów uczęszczających do szkoły za granicą – o ile takie przedstawicielstwo zostało utworzone – dotyczące jego pracy. Niewydanie opinii przez osobę kierującą szkołę lub przedstawicielstwo rodziców w terminie 7 dni od dnia otrzymania wystąpienia o wydanie opinii nie wstrzymuje postępowania o nadanie stopnia awansu zawodowego.
+### 2a.
 
-2. Minister właściwy do spraw oświaty i wychowania ustala ocenę realizacji planu rozwoju zawodowego nauczyciela szkoły za granicą, w terminie 30 dni od dnia złożenia sprawozdania, o którym mowa w ust. 1, po zapoznaniu się z opiniami dołączonymi do sprawozdania.
+W szkole podstawowej, liceum ogólnokształcącym, technikum, branżowej szkole I stopnia, szkole specjalnej przysposabiającej do pracy oraz w szkołach artystycznych kształcenie odbywa się w formie dziennej, a w branżowej szkole II stopnia i szkole policealnej - kształcenie może odbywać się w formie dziennej, stacjonarnej lub zaocznej.
 
-3. Ocena realizacji planu rozwoju zawodowego nauczyciela, o której mowa w ust. 2, może być pozytywna albo negatywna. Ocenę sporządza się w formie pisemnej i doręcza nauczycielowi. Ocena zawiera uzasadnienie oraz pouczenie o możliwości złożenia wniosku o ponowne ustalenie oceny przez ministra właściwego do spraw oświaty i wychowania.
+### 2b.
 
-4. Od oceny realizacji planu rozwoju zawodowego nauczycielowi nie służy odwołanie, jednakże nauczyciel niezadowolony z oceny może, w terminie 14 dni od dnia jej doręczenia, zwrócić się o ponowne ustalenie oceny przez ministra właściwego do spraw oświaty i wychowania. Ocena realizacji planu rozwoju zawodowego nauczyciela ustalona w wyniku wniosku o ponowne ustalenie oceny jest ostateczna.
+W szkole dla dorosłych kształcenie odbywa się w formie stacjonarnej lub zaocznej.
 
-5. Jeżeli ostateczna ocena realizacji planu rozwoju zawodowego nauczyciela jest negatywna, ponowna ocena realizacji planu rozwoju zawodowego może być dokonana po odbyciu, na wniosek nauczyciela i za zgodą ministra właściwego do spraw oświaty i wychowania, jednego dodatkowego stażu w wymiarze 9 miesięcy.
+” ,
 
-**Art. 9r.**
+### b)
 
-1. Nauczyciel szkoły za granicą, który odbył staż:
+ust. 3 otrzymuje brzmienie:
 
-- **1)** na stopień nauczyciela kontraktowego lub nauczyciela mianowanego, składa wniosek o podjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w roku uzyskania pozytywnej oceny realizacji planu rozwoju zawodowego;
-- **2)** na stopień nauczyciela dyplomowanego, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego w okresie 3 lat od dnia otrzymania pozytywnej oceny stopnia realizacji planu rozwoju zawodowego.
+„
 
-2. Wnioski, o których mowa w ust. 1, składa się do ministra właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. W przypadku niedotrzymania terminu złożenia wniosku nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.
+### 3.
 
-3. Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 31 lipca danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego w terminie do dnia 30 września danego roku.
+Minister właściwy do spraw oświaty i wychowania może określić, w drodze rozporządzenia, typ szkoły inny niż wymieniony w ust. 1 oraz ustalić sposób organizacji kształcenia w tym typie szkoły, biorąc pod uwagę konieczność realizowania cyklu kształcenia uwzględniającego podstawę programową kształcenia ogólnego dla obowiązkowych zajęć edukacyjnych oraz podstawę programową kształcenia w zawodzie szkolnictwa branżowego.
 
-4. Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 30 listopada danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego w terminie do dnia 31 stycznia następnego roku.
+” ;
 
-5. Nauczyciele, o których mowa w art. 9j ust. 3 i 4, składają wniosek o nadanie stopnia awansu zawodowego do ministra właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. Wniosek może być złożony w ciągu całego roku.
+### 10)
 
-6. Wniosek, o którym mowa w ust. 5, zawiera:
+w art. 19 w ust. 2:
 
-- **1)** imię (imiona) i nazwisko nauczyciela;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL – a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
-- **4)** adres do korespondencji;
-- **5)** numer telefonu;
-- **6)** adres poczty elektronicznej, jeżeli nauczyciel go posiada;
-- **7)** nazwę szkoły za granicą, w której nauczyciel prowadzi zajęcia;
-- **8)** nazwę nauczanego przedmiotu;
-- **9)** dokumenty potwierdzające posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2;
-- **10)** dokumenty potwierdzające dorobek zawodowy;
-- **11)** dokumenty potwierdzające posiadanie wymaganego okresu prowadzenia zajęć w szkołach za granicą, wydane przez osoby kierujące szkołami za granicą;
-- **12)** oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo.
+### a)
 
-7. Nauczycielom szkół za granicą, o których mowa w art. 9j ust. 3 i 4, którzy złożyli wnioski o nadanie stopnia awansu zawodowego nauczyciela kontraktowego lub nauczyciela mianowanego zgodnie z ust. 5 i 6, minister właściwy do spraw oświaty i wychowania wydaje decyzję o nadaniu lub odmowie nadania stopnia awansu zawodowego w terminie 6 miesięcy od dnia złożenia wniosku o nadanie stopnia awansu zawodowego.
+pkt 3-5 otrzymują brzmienie:
 
-**Art. 9s.**
+„
 
-1. [Minister właściwy do spraw oświaty i wychowania powołuje komisję egzaminacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela mianowanego oraz komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela dyplomowanego.] <Minister właściwy do spraw oświaty i wychowania powołuje komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela dyplomowanego oraz komisję egzaminacyjną na stopień nauczyciela mianowanego.> W skład komisji wchodzą:
+### 3)
 
-- **1)** dwaj przedstawiciele ministra właściwego do spraw oświaty i wychowania spośród których jeden pełni funkcję przewodniczącego komisji;
-- **2)** dwaj eksperci z listy ekspertów prowadzonej przez ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 9g ust. 11;
-- **3)** opiekun stażu.
+technikum umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminów zawodowych w danym zawodzie oraz uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
 
-2. Komisja egzaminacyjna i komisja kwalifikacyjna, o których mowa w ust. 1, przeprowadzają odpowiednio postępowanie egzaminacyjne lub kwalifikacyjne na wniosek nauczyciela skierowany do ministra właściwego do spraw oświaty i wychowania.
+### 4)
 
-3. Nauczyciel, który nie zdał egzaminu przed komisją egzaminacyjną albo nie uzyskał akceptacji komisji kwalifikacyjnej, może ponownie złożyć wniosek o podjęcie postępowania egzaminacyjnego albo kwalifikacyjnego po odbyciu, za zgodą ministra właściwego do spraw oświaty i wychowania, dodatkowego stażu w wymiarze 9 miesięcy.
+branżowej szkoły I stopnia umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminu zawodowego w danym zawodzie, a także dalsze kształcenie w branżowej szkole II stopnia kształcącej w zawodzie, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, lub w liceum ogólnokształcącym dla dorosłych począwszy od klasy II;
 
-4. Komisja egzaminacyjna i komisja kwalifikacyjna, o których mowa w ust. 1, mogą przeprowadzić odpowiednio egzamin i rozmowę kwalifikacyjną w formie wideokonferencji z wykorzystaniem systemu teleinformatycznego.
+### 5)
 
-5. Komisja egzaminacyjna i komisja kwalifikacyjna wydają nauczycielowi zaświadczenie odpowiednio o zdaniu egzaminu lub uzyskaniu akceptacji. Minister właściwy do spraw oświaty i wychowania prowadzi rejestr zaświadczeń wydanych przez komisje egzaminacyjne i komisje kwalifikacyjne.
+branżowej szkoły II stopnia umożliwia uzyskanie dyplomu zawodowego w zawodzie nauczanym na poziomie technika, w którym wyodrębniono kwalifikację wspólną dla zawodu nauczanego w branżowej szkole I i II stopnia, po zdaniu egzaminu zawodowego w danym zawodzie, oraz uzyskanie świadectwa dojrzałości po zdaniu egzaminu maturalnego;
 
-**Art. 9t.**
+” ,
 
-1. Akt nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą, o którym mowa w art. 9j ust. 2, zawiera w szczególności: nazwę komisji egzaminacyjnej lub kwalifikacyjnej, numer i datę wydania zaświadczenia o zdaniu egzaminu lub uzyskaniu akceptacji, stopień awansu zawodowego, a także informację o poziomie wykształcenia nauczyciela.
+### b)
 
-2. Akt nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą, o którym mowa w art. 9j ust. 3 i 4, zawiera w szczególności: stopień awansu zawodowego, a także informację o poziomie wykształcenia nauczyciela.
+pkt 7 otrzymuje brzmienie:
 
-3. Nauczycielowi szkoły za granicą, który w trakcie prowadzenia zajęć w szkole uzyskał wyższy poziom wykształcenia niż określony w akcie nadania stopnia awansu zawodowego, minister właściwy do spraw oświaty i wychowania, na wniosek nauczyciela, wydaje nowy akt nadania odpowiedniego stopnia awansu zawodowego uwzględniający uzyskany poziom wykształcenia.
+„
 
-**Art. 9u.**
+### 7)
 
-1. Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może upoważnić kierownika podległej sobie jednostki organizacyjnej do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą, w tym do wydawania decyzji, o których mowa w art. 9j ust. 5.
+szkoły policealnej umożliwia uzyskanie dyplomu zawodowego po zdaniu egzaminów zawodowych w danym zawodzie.
 
-2. Przepisy dotyczące wydawania decyzji w sprawach nadania albo odmowy nadania stopnia awansu zawodowego nauczycielom szkół za granicą przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o którym mowa w przepisach wydanych na podstawie ust. 1. Do decyzji podjętych przez tego kierownika stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego.
+” ;
 
-**Art. 9w.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+### 11)
 
-**Art. 70d.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+w art. 20:
 
-**Art. 7.** W ustawie z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2018 r. poz. 1267) w art. 3 ust. 3b otrzymuje brzmienie: „3b. Podstawę przeprowadzania egzaminu czeladniczego w zawodzie określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i
+### a)
 
-**Art. 8.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. ) w art. 116a ust. 2 otrzymuje brzmienie: „2. Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.”.
+w ust. 2 w pkt 2 lit. b i c otrzymują brzmienie:
 
-**Art. 9.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 10.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm. ) wprowadza się następujące zmiany:
+### b)
 
-**Art. 11.** W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2018 r. poz. 1191, 1293 i 1669) w art. 6 w ust. 1 w pkt 13 wyrazy „szkolne punkty konsultacyjne przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a” zastępuje się wyrazami „szkoły polskie, o których mowa w art. 4 pkt 29d”.
+posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole I stopnia lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym w branżowej szkole I stopnia, lub
 
-**Art. 12.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2018 r. poz. 1202, 1276, 1496 i 1669) w art. 14 w ust. 3 w pkt 4 w lit. b tiret drugie otrzymuje brzmienie: „– dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika”.
+### c)
 
-**Art. 13.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2018 r. poz. 1155 i 1669) w art. 5 w ust. 1 pkt 4 otrzymuje brzmienie: „4) kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów i słuchaczy tych szkół, studentów oraz słuchaczy kwalifikacyjnych kursów zawodowych, którzy w trakcie praktycznej nauki zawodu lub stażu uczniowskiego są narażeni na działanie czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia;”.
+uzyskała dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe.
 
-**Art. 14.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2017 r. poz. 1840 oraz z 2018 r. poz. 650 i 663) w art. 12a w ust. 1 pkt 4 otrzymuje brzmienie: „4) są absolwentami szkół prowadzących kształcenie:
+” ,
 
-**Art. 15.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2018 r. poz. 2142) w art. 26 w ust. 7 pkt 1 otrzymuje brzmienie: „1) dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie technik ochrony fizycznej osób i mienia, albo świadectwo potwierdzające kwalifikację w zawodzie albo certyfikat kwalifikacji zawodowej, w zawodzie technik ochrony fizycznej osób i mienia;”.
+### b)
 
-**Art. 16.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270) w art. 7 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu: „13) udokumentowanego okresu odbytego stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245).”.
+w ust. 3 w pkt 2 lit. b i c otrzymują brzmienie:
 
-**Art. 17.** W ustawie z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200, z późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 18.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2017 r. poz. 1920, z późn. zm. ) w art. 134a ust. 2 otrzymuje brzmienie: „2. Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.”.
+### b)
 
-**Art. 19.** W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz. U. z 2013 r. poz. 737) w art. 2 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu: „16) przy odbywaniu stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245).”.
+posiada certyfikat kwalifikacji zawodowej w zakresie kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia lub świadectwo potwierdzające kwalifikację wyodrębnioną w zawodzie nauczanym w branżowej szkole II stopnia, która wraz z kwalifikacją, o której mowa w ust. 2 pkt 2 lit. a lub b, zostały wyodrębnione w tym samym zawodzie, lub
 
-**Art. 20.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361 oraz z 2018 r. poz. 650, 927, 1338 i 1629) w art. 22 wprowadza się następujące zmiany:
+### c)
 
-**Art. 21.** W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067) w art. 37b ust. 3 otrzymuje brzmienie: „3. Prace o charakterze technicznym w zakresie, o którym mowa w ust. 1, samodzielnie wykonuje osoba, która posiada świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie lub średnie branżowe i dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodach związanych z pielęgnacją zieleni, albo przez co najmniej 9 miesięcy brała udział w tego rodzaju pracach prowadzonych przy zabytkach wpisanych do rejestru lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.”.
+uzyskała dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika.
 
-**Art. 22.** W ustawie z dnia 17 października 2003 r. o wykonywaniu prac podwodnych (Dz. U. z 2017 r. poz. 1970) użyte w art. 20 w ust. 7 w pkt 1 i w ust. 8 w pkt 1, wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+” ;
 
-**Art. 23.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2018 r. poz. 1530, 2161 i 2193) w art. 28 w ust. 6:
+### 12)
 
-**Art. 24.** W ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, 1693 i 2192) użyte w art. 48a w ust. 2g w pkt 2, ust. 3a i 4a, wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+w art. 25 ust. 1 otrzymuje brzmienie:
 
-**Art. 25.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 26.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954) w art. 81 w ust. 5:
+### 1.
 
-**Art. 27.** W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2018 r. poz. 1541, 1669, 2136, 2227, 2242 i 2244) w art. 1 w ust. 3 w części wspólnej wyrazy „szkół dla dorosłych” zastępuje się wyrazami „szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych”.
+W szkołach publicznych i niepublicznych, z wyjątkiem szkół artystycznych, branżowych szkół I stopnia, branżowych szkół II stopnia i szkół policealnych, mogą być tworzone oddziały dwujęzyczne.
 
-**Art. 28.** W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62, 1000, 1366, 1669 i 1693) art. 223 otrzymuje brzmienie: „Art. 223. 1. Samorządowe jednostki budżetowe prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe gromadzą na wydzielonym rachunku dochody określone w uchwale przez organ stanowiący jednostki samorządu terytorialnego, pochodzące w szczególności:
+” ;
 
-**Art. 29.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2018 r. poz. 1542 i 1669) w art. 213 ust. 2 otrzymuje brzmienie: „2. Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.”.
+### 13)
 
-**Art. 30.** W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2017 r. poz. 978, z późn. zm. ) wprowadza się następujące zmiany:
+art. 26 otrzymuje brzmienie:
 
-**Art. 31.** W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900) wprowadza się następujące zmiany:
+„
 
-**Art. 32.** W ustawie z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126, z późn. zm. ) wprowadza się następujące zmiany:
+### Art. 26.
 
-**Art. 33.** W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2018 r. poz. 998, 1076 i 1544) wprowadza się następujące zmiany:
+### 1.
 
-**Art. 34.** W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137 i 1669) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie: „3) szkoły ponadpodstawowe i centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych, w tym ośrodki prowadzące działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich”.
+Szkoły oraz placówki, o których mowa w art. 2 pkt 3-5, 7 i 8, realizują program wychowawczo-profilaktyczny obejmujący:
 
-**Art. 35.** W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2018 r. poz. 514 i 650) w art. 84 w ust. 2 pkt 3 otrzymuje brzmienie: „3) centrów kształcenia zawodowego, umożliwiających uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych w zakresie rybołówstwa morskiego, których siedziba znajduje się na terytorium Rzeczypospolitej Polskiej.”.
+### 1)
 
-**Art. 36.** W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. z 2018 r. poz. 1207 i 1669) w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie: „1) posiada co najmniej wykształcenie średnie lub średnie branżowe oraz tytuł zawodowy technika lub dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy, w zawodach związanych z chowem lub hodowlą zwierząt;”.
+treści i działania o charakterze wychowawczym skierowane do uczniów oraz
 
-**Art. 37.** W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 1269, 1276, 1544, 1629 i 1669) w art. 136 w ust. 4 pkt 1 otrzymuje brzmienie: „1) dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie technik urządzeń i systemów energetyki odnawialnej wydany na podstawie przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2018 r. poz. 1457, 1560, 1669 i
+### 2)
 
-**Art. 38.** W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616) wprowadza się następujące zmiany:
+treści i działania o charakterze profilaktycznym skierowane do uczniów, nauczycieli i rodziców.
 
-**Art. 39.** W ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2018 r. poz. 2153) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 40.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, z późn. zm. ) w art. 151 w ust. 1 w pkt 4 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+Program wychowawczo-profilaktyczny opracowuje się na podstawie wyników corocznej diagnozy w zakresie występujących w środowisku szkolnym potrzeb rozwojowych uczniów, w tym czynników chroniących i czynników ryzyka, ze szczególnym uwzględnieniem zagrożeń związanych z używaniem substancji psychotropowych, środków zastępczych oraz nowych substancji psychoaktywnych.
 
-**Art. 41.** W ustawie z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60, 949 i 2203) wprowadza się następujące zmiany:
+### 3.
 
-**Art. 42.** W ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. poz. 819) wprowadza się następujące zmiany:
+Diagnozę, o której mowa w ust. 2, przeprowadza dyrektor szkoły lub placówki albo upoważniony przez niego pracownik szkoły lub placówki.
 
-**Art. 43.** W ustawie z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. poz. 1051) w art. 22 w ust. 2 w pkt 2 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+### 4.
 
-**Art. 44.** W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych (Dz. U. poz. 2203) wprowadza się następujące zmiany:
+Przepisów ust. 1-3 nie stosuje się do przedszkoli, szkół dla dorosłych, branżowych szkół II stopnia, szkół policealnych i policealnych szkół artystycznych.
 
-**Art. 31b.** Dotacja, o której mowa w art. 31 ust. 1a i art. 31a ust. 1, jest wypłacana jednorazowo, na rachunek bankowy szkoły, placówki lub zespołu szkół lub placówek, w terminie 30 dni od dnia złożenia powiatowi przez organ prowadzący szkołę zaświadczenia, o którym mowa w art. 33 ust. 1 pkt 4, i może być wykorzystana także na refundację wydatków związanych z realizacją zadań szkoły, o których mowa w art. 35 ust. 1, poniesionych przez szkołę w okresie roku budżetowego poprzedzającego rok wypłacenia dotacji.”;
+” ;
 
-**Art. 45.** W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669) w art. 191 ust. 2 otrzymuje brzmienie: „2. Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.”.
+### 14)
 
-**Art. 46.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668 i 2024) wprowadza się następujące zmiany:
+po art. 26 dodaje się art. 26a w brzmieniu:
 
-**Art. 47.** Ilekroć w dalszych przepisach jest mowa o:
+„
 
-**Art. 48.** Czynności podejmowane na rok szkolny 2019/2020 i następne lata szkolne dotyczące organizowania i prowadzenia kształcenia, wychowania i opieki w jednostkach organizacyjnych systemu oświaty, oraz realizowania zadań oświatowych w tych latach szkolnych, są podejmowane zgodnie z przepisami ustawy zmienianej w art. 1, art. 2, art. 6, art. 41 i art. 44, w brzmieniu nadanym niniejszą ustawą, a także zgodnie z przepisami wydanymi na podstawie tych ustaw, o ile przepisy szczególne nie stanowią inaczej.
+### Art. 26a.
 
-**Art. 49.** Do uczniów dotychczasowego czteroletniego technikum, klas dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum stosuje się przepisy dotychczasowe, o ile przepisy niniejszej ustawy lub przepisy szczególne nie stanowią inaczej.
+### 1.
 
-**Art. 50.**
+Przedszkola, oddziały przedszkolne w szkołach podstawowych i inne formy wychowania przedszkolnego oraz szkoły, z wyjątkiem szkół artystycznych, prowadzą zaplanowane i systematyczne działania w zakresie doradztwa zawodowego, w celu wspierania dzieci i uczniów w procesie rozpoznawania zainteresowań i predyspozycji zawodowych oraz podejmowania świadomych decyzji edukacyjnych i zawodowych, w tym przygotowania do wyboru kolejnego etapu kształcenia i zawodu, polegające w szczególności na prowadzeniu:
 
-1. Centrum kształcenia zawodowego, o którym mowa w art. 2 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zwane dalej „centrum kształcenia zawodowego”, tworzy się od dnia 1 września 2019 r.
+### 1)
 
-2. Z dniem 1 września 2019 r. dotychczasowa placówka kształcenia praktycznego staje się centrum kształcenia zawodowego, z zastrzeżeniem art. 54 ust. 1 i 2 oraz art. 58 ust. 1.
+w przedszkolach, oddziałach przedszkolnych w szkołach podstawowych i innych formach wychowania przedszkolnego preorientacji zawodowej, która ma na celu wstępne zapoznanie dzieci z wybranymi zawodami oraz pobudzanie i rozwijanie ich zainteresowań i uzdolnień;
 
-3. Z dniem 1 września 2019 r. dotychczasowy ośrodek dokształcania i doskonalenia zawodowego staje się centrum kształcenia zawodowego, z zastrzeżeniem art. 54 ust. 1 i 2 oraz art. 58 ust. 2.
+### 2)
 
-**Art. 51.**
+w klasach I-VI szkół podstawowych orientacji zawodowej, która ma na celu zapoznanie uczniów z wybranymi zawodami, kształtowanie pozytywnych postaw wobec pracy i edukacji oraz pobudzanie, rozpoznawanie i rozwijanie ich zainteresowań i uzdolnień;
 
-1. Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza przekształcenie tej placówki albo tego ośrodka w publiczne centrum kształcenia zawodowego zgodnie z odpowiednio art. 50 ust. 2 lub 3.
+### 3)
 
-2. Uchwała, o której mowa w ust. 1, stanowi akt założycielski publicznego centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+w klasach i szkołach, o których mowa w art. 109 ust. 6, zajęć z zakresu doradztwa zawodowego.
 
-3. Jeżeli prowadzona przez jednostkę samorządu terytorialnego dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego wchodzi w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w art. 54 ust 1 lub 2, organ stanowiący jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., dokonuje również zmiany uchwały, na podstawie której utworzono ten zespół.
+### 2.
 
-**Art. 52.**
+Doradztwo zawodowe jest realizowane na:
 
-1. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa odpowiednio w art. 50 ust. 2 lub 3, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tej placówki lub tego ośrodka:
+### 1)
 
-- **1)** wykaz nauczycieli przewidzianych do zatrudnienia w publicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
-- **2)** projekt aktu założycielskiego publicznego centrum kształcenia zawodowego oraz projekt statutu tego centrum, dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
-- **3)** zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+zajęciach edukacyjnych wychowania przedszkolnego;
 
-2. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+### 2)
 
-3. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, na podstawie dokumentów, o których mowa w ust. 1.
+obowiązkowych zajęciach edukacyjnych z zakresu kształcenia ogólnego lub kształcenia w zawodzie;
 
-4. Jeśli dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa w ust. 1, wchodzi w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w art. 54 ust. 1 lub 2, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia, o którym mowa w art. 91 ust. 5 w związku z art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tego zespołu.
+### 3)
 
-5. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego ulega likwidacji z dniem 31 sierpnia 2019 r., zgodnie z art. 89 ustawy zmienianej w art. 1, z tym że zawiadomień, o których mowa w art. 89 ust. 1 ustawy zmienianej w art. 1, dokonuje się w terminie do dnia 29 sierpnia 2019 r., a likwidacja tej placówki albo tego ośrodka nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy zmienianej w art. 1.
+zajęciach z zakresu doradztwa zawodowego;
 
-**Art. 53.**
+### 4)
 
-1. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową niepubliczną placówkę kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który prowadzi ewidencję placówek niepublicznych, o której mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do której wpisana jest ta placówka lub ten ośrodek:
+zajęciach związanych z wyborem kierunku kształcenia i zawodu prowadzonych w ramach pomocy psychologiczno-pedagogicznej;
 
-- **1)** wykaz nauczycieli przewidzianych do zatrudnienia w niepublicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
-- **2)** statut niepublicznego centrum kształcenia zawodowego, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
-- **3)** informację zawierającą wskazanie adresu siedziby niepublicznego centrum kształcenia zawodowego oraz innych lokalizacji prowadzenia zajęć przez to centrum, jeżeli lokalizacje te posiada dotychczasowa niepubliczna placówka kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, z uwzględnieniem art. 166 ust. 3;
-- **4)** informację o warunkach lokalowych, zapewniających możliwość prowadzenia zajęć dydaktyczno-wychowawczych i możliwość realizacji odpowiednio kształcenia teoretycznego lub praktycznej nauki zawodu oraz wyposażeniu w pomoce dydaktyczne i sprzęt niezbędny do realizacji zadań statutowych.
+### 5)
 
-2. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową niepubliczną placówkę kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+zajęciach z wychowawcą.
 
-3. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany wpisu do ewidencji placówek niepublicznych dotychczasowej niepublicznej placówki kształcenia praktycznego lub dotychczasowego niepublicznego ośrodka dokształcania i doskonalenia zawodowego na podstawie dokumentów, o których mowa w ust. 1.
+### 3.
 
-4. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa niepubliczna placówka kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, ulega likwidacji z dniem 31 sierpnia 2019 r. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, wykreśla z ewidencji placówek niepublicznych tę placówkę lub ten ośrodek, zgodnie z art. 169 ust. 2 ustawy zmienianej w art. 1.
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, treści programowe z zakresu doradztwa zawodowego, sposób realizacji doradztwa zawodowego, a także zadania doradcy zawodowego, uwzględniając rolę doradztwa zawodowego w przygotowaniu uczniów do wyboru zawodu i kierunku kształcenia.
 
-**Art. 54.**
+” ;
 
-1. Z dniem 1 września 2019 r. zespół publicznych placówek, w skład którego wchodzi jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, staje się publicznym centrum kształcenia zawodowego.
+### 15)
 
-2. Z dniem 1 września 2019 r. dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, wchodzące w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w ust. 1, stają się publicznym centrum kształcenia zawodowego, wchodzącym w skład tego zespołu publicznych szkół lub placówek.
+w art. 28 ust. 2 otrzymuje brzmienie:
 
-**Art. 55.**
+„
 
-1. Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasowy zespół publicznych placówek, o którym mowa w art. 54 ust. 1, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza jego przekształcenie w publiczne centrum kształcenia zawodowego zgodnie z art. 54 ust. 1.
+### 2.
 
-2. Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa w art. 54 ust. 2, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza przekształcenie ich w publiczne centrum kształcenia zawodowego zgodnie z art. 54 ust. 2 oraz dokonuje stosownej zmiany uchwały, na podstawie której utworzono zespół, o którym mowa w art. 54 ust. 2.
+Szkoły są obowiązane do prowadzenia zajęć wychowania fizycznego dla uczniów kształcących się w tych szkołach w formie dziennej, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie artystyczne. Obowiązkowy wymiar zajęć wychowania fizycznego dla uczniów klas IV-VIII szkół podstawowych wynosi 4 godziny lekcyjne, a dla uczniów szkół ponadpodstawowych - 3 godziny lekcyjne, w ciągu tygodnia.
 
-3. Uchwała, o której mowa w ust. 1 i 2, stanowi akt założycielski publicznego centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+” ;
 
-**Art. 56.** W przypadku, o którym mowa w art. 54 ust. 2, nie rozwiązuje się zespołu publicznych szkół lub placówek, o którym mowa w art. 54 ust. 2, ani nie wyłącza się z tego zespołu dotychczasowej publicznej placówki kształcenia praktycznego i dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o których mowa w art. 54 ust. 2.
+### 16)
 
-**Art. 57.**
+w art. 29:
 
-1. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasowy zespół, o którym mowa w art. 54 ust. 1 i 2, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 i art. 91 ust. 5 w związku art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie zespołu oraz placówki i ośrodka, o których mowa w art. 54 ust. 1 i 2:
+### a)
 
-- **1)** wykaz nauczycieli przewidzianych do zatrudnienia odpowiednio w publicznym centrum kształcenia zawodowego lub publicznym zespole, o którym mowa w art. 54 ust. 2, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
-- **2)** projekt aktu założycielskiego publicznego centrum kształcenia zawodowego lub zespołu, o którym mowa w art. 54 ust. 2, oraz projekt statutu tego centrum lub zespołu dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
-- **3)** zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+w ust. 1:
 
-2. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasowy zespół, o którym mowa w art. 54 ust. 1 lub 2, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+- - w pkt 1 wyrazy „art. 91 ust. 1, 2, 3 i 7” zastępuje się wyrazami „art. 91 ust. 1, 1a, 2, 3 i 7”,
 
-3. W przypadku, o którym mowa w art. 54 ust. 1, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie zespołu placówek, na podstawie dokumentów, o których mowa w ust. 1. Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego oraz zezwolenie na założenie dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, wchodzących w skład zespołu, o którym mowa w art. 54 ust. 1, wygasają z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego utworzone zgodnie z art. 54 ust. 1.
+- - w pkt 2 wyrazy „art. 10 ust. 1 pkt 1-5” zastępuje się wyrazami „art. 10 ust. 1 pkt 1-5 i 7”,
 
-4. W przypadku, o którym mowa w art. 54 ust. 2, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego oraz zezwolenia na założenie zespołu, na podstawie dokumentów, o których mowa w ust. 1. Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego, wchodzącej w skład zespołu, o którym mowa w art. 54 ust. 2, wygasa z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego utworzone zgodnie z art. 54 ust. 2.
+- - w pkt 3 po wyrazach „art. 106 ust. 3, 5 i 6” dodaje się przecinek i wyrazy „art. 107 ust. 6, 8, 9 i 9a, art. 110 ust. 3, art. 117 ust. 8”,
 
-5. W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego wchodzące w skład zespołu, o którym mowa w art. 54 ust. 1 lub 2, ulegają likwidacji z dniem 31 sierpnia 2019 r., zgodnie z art. 89 ustawy zmienianej w art. 1, z tym że zawiadomień, o których mowa w art. 89 ust. 1 ustawy zmienianej w art. 1, dokonuje się w terminie do dnia 29 sierpnia 2019 r., a likwidacja tej placówki i tego ośrodka nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy zmienianej w art. 1.
+### b)
 
-**Art. 58.**
+w ust. 3 skreśla się wyrazy „oraz zadania i kompetencje organu jednostki samorządu terytorialnego, o których mowa w art. 176 ust. 3,”;
 
-1. Z dniem 1 września 2019 r. dotychczasowa publiczna placówka kształcenia praktycznego może być przekształcona w filię centrum kształcenia zawodowego, jeżeli jej organ prowadzący prowadzi inną dotychczasową publiczną placówkę kształcenia praktycznego lub inny dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, który będzie przekształcony w publiczne centrum kształcenia zawodowego.
+### 17)
 
-2. Z dniem 1 września 2019 r. dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego może być przekształcony w filię centrum kształcenia zawodowego, jeżeli jej organ prowadzący prowadzi inną dotychczasową publiczną placówkę kształcenia praktycznego lub inny dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, który będzie przekształcony w publiczne centrum kształcenia zawodowego.
+w art. 31:
 
-3. Przekształceń, o których mowa w ust. 1 i 2, dokonuje się na podstawie art. 59 i art. 60.
+### a)
 
-**Art. 59.**
+w ust. 10 zdanie drugie otrzymuje brzmienie: „ W tym przypadku wójt (burmistrz, prezydent miasta) jest obowiązany pisemnie, nie później niż przed rozpoczęciem postępowania uzupełniającego, wskazać rodzicom inne publiczne przedszkole, oddział przedszkolny w publicznej szkole podstawowej albo publiczną inną formę wychowania przedszkolnego, albo niepubliczne przedszkole, o którym mowa w art. 17 ust. 1 ustawy o finansowaniu zadań oświatowych, oddział przedszkolny w niepublicznej szkole podstawowej, o którym mowa w art. 19 ust. 1 ustawy o finansowaniu zadań oświatowych, albo niepubliczną inną formę wychowania przedszkolnego, o której mowa w art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych, które mogą przyjąć dziecko. ” ,
 
-1. Rada powiatu może, w terminie do dnia 31 marca 2019 r., podjąć uchwałę w sprawie przekształcenia, prowadzonej przez powiat, dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2.
+### b)
 
-2. W uchwale, o której mowa w ust. 1:
+dodaje się ust. 12 i 13 w brzmieniu:
 
-- **1)** postanawia się o przekształceniu, z dniem 1 września 2019 r., dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2;
-- **2)** postanawia się o przekształceniu, z dniem 1 września 2019 r., dotychczasowej publicznej placówki lub placówek kształcenia praktycznego lub dotychczasowego publicznego ośrodka lub ośrodków dokształcania i doskonalenia zawodowego, które ulegają przekształceniu odpowiednio w filię lub filie, zgodnie z art. 58 ust. 1 lub 2.
+„
 
-3. Przekształcenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o którym mowa w ust. 2 pkt 2, jest równoznaczne z likwidacją dotychczasowej formy organizacyjno-prawnej tej placówki, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2017 r. poz. 2077 oraz z 2018 r. poz. 62, 1000, 1366, 1669 i 1693).
+### 12.
 
-4. Na podstawie uchwały, o której mowa w ust. 1, nie dokonuje się przekształceń innych niż wymienione w ust. 2.
+W roku szkolnym, w którym upływa okres, w jakim dzieci mogły korzystać z wychowania przedszkolnego w niepublicznym przedszkolu, oddziale przedszkolnym w niepublicznej szkole podstawowej lub niepublicznej innej formie wychowania przedszkolnego, o których mowa odpowiednio w art. 17 ust. 1, art. 19 ust. 1 i art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych, rodzice tych dzieci składają, na kolejny rok szkolny, do wójta (burmistrza, prezydenta miasta) wniosek o zamiarze kontynuowania wychowania przedszkolnego w terminie 7 dni poprzedzających termin rozpoczęcia postępowania rekrutacyjnego określony zgodnie z art. 154 ust. 1 pkt 1.
 
-5. Uchwała, o której mowa w ust. 1, stanowi akt założycielski publicznego centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1, prowadzonego przez powiat, i w tej części zawiera:
+### 13.
 
-- **1)** rodzaj, nazwę i adres siedziby placówki;
-- **2)** dzień rozpoczęcia działalności przez tę placówkę, określony zgodnie z ust. 2 pkt 1;
-- **3)** nazwę i adres lub nazwy i adresy filii.
+W przypadku, o którym mowa w ust. 12, wójt (burmistrz, prezydent miasta) jest obowiązany pisemnie wskazać rodzicom miejsce, w którym ich dzieci mogą kontynuować wychowanie przedszkolne, zgodnie z art. 22 ust. 3 pkt 2 ustawy o finansowaniu zadań oświatowych.
 
-6. Uchwała, o której mowa w ust. 1, podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+” ;
 
-7. Związki zawodowe, które opiniują projekt uchwały, o której mowa w art. 59 ust. 1, na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2015 r. poz. 1881 oraz z 2018 r. poz. 1608), przedstawiają opinię w terminie nie dłuższym niż 21 dni.
+### 18)
 
-**Art. 60.**
+w art. 32 w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Uchwała rady gminy podlega ogłoszeniu w wojewódzkim dzienniku urzędowym. ” ;
 
-1. W przypadku przekształcenia, o którym mowa w art. 58 ust. 1 lub 2, osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego składa organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tej placówki lub tego ośrodka, w terminie do dnia 30 kwietnia 2019 r., wniosek o zmianę zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o których mowa w ust. 2 pkt 1.
+### 19)
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+w art. 38 w ust. 5 skreśla się wyrazy „w stopniu umiarkowanym lub znacznym”;
 
-- **1)** wskazanie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego przekształcanej w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2;
-- **2)** wskazanie dotychczasowej publicznej placówki lub placówek kształcenia praktycznego lub dotychczasowego publicznego ośrodka lub ośrodków dokształcania i doskonalenia zawodowego, która ulega przekształceniu odpowiednio w filię lub filie, zgodnie z art. 58 ust. 1 lub 2.
+### 20)
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się:
+w art. 39:
 
-- **1)** wykaz nauczycieli przewidzianych do zatrudnienia w publicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
-- **2)** projekt aktu założycielskiego publicznego centrum kształcenia zawodowego oraz projekt statutu tego centrum zawierający postanowienia dotyczące filii, dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
-- **3)** zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+### a)
 
-4. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną placówkę lub dotychczasowy ośrodek, o którym mowa w ust. 1, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 maja 2019 r.
+po ust. 4 dodaje się ust. 4a w brzmieniu:
 
-5. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego przekształcanej w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, na podstawie wniosku, o którym mowa w ust. 1.
+„
 
-6. Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub publicznego ośrodka dokształcania i doskonalenia zawodowego, który został przekształcony w filię publicznego centrum kształcenia zawodowego, wygasa z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1.
+### 4a.
 
-7. W wyniku przekształcenia na podstawie wniosku, o którym mowa w ust. 1, nie może powstać centrum kształcenia zawodowego, którego filia będzie funkcjonować na terenie jednostki samorządu terytorialnego innej niż jednostka samorządu terytorialnego, na terenie której będzie funkcjonować publiczne centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1.
+Gmina może zorganizować dzieciom i młodzieży niepełnosprawnej, których kształcenie i wychowanie odbywa się na podstawie art. 127, bezpłatny transport i opiekę w czasie przewozu do szkoły ponadpodstawowej oraz ośrodka, o którym mowa w art. 2 pkt 7, również w przypadkach, w których nie ma takiego obowiązku.
 
-8. W przypadku niedołączenia do wniosku, o którym mowa w ust. 1, dokumentów, o których mowa w ust. 3, lub złożenia wniosku niezgodnie z ust. 2 lub 7, w terminie, o którym mowa w ust. 1 lub 4, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, odmawia zmiany tego zezwolenia na podstawie wniosku, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r.
+” ,
 
-9. W przypadku, o którym mowa w ust. 8, osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 16 sierpnia 2019 r., przedkłada organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej placówki lub dotychczasowego ośrodka, o których mowa w ust. 2, dokumenty, o których mowa odpowiednio w art. 52 ust. 1 lub art. 57 ust. 1. Przepisy art. 52 ust. 4 i 5 oraz art. 57 ust. 3–5 stosuje się odpowiednio.
+### b)
 
-10. W przypadku, o którym mowa w ust. 9, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 26 sierpnia 2019 r., dokonuje zmiany zezwoleń dotychczasowych placówek lub dotychczasowych ośrodków, o których mowa w ust. 2, na podstawie dokumentów, o których mowa odpowiednio w art. 52 ust. 1 i art. 57 ust.1.
+po ust. 5 dodaje się ust. 5a i 5b w brzmieniu:
 
-**Art. 61.**
+„
 
-1. Dotychczasowe placówki kształcenia praktycznego, dotychczasowe ośrodki dokształcania i doskonalenia zawodowego, dotychczasowe zespoły publicznych placówek, w skład których wchodzi jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, oraz zespoły szkół lub placówek, w których w skład wchodzi także dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, prowadzone przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi danego rodzaju placówki, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister.
+### 5a.
 
-2. Do dyrektorów, wicedyrektorów i nauczycieli, w tym nauczycieli zajmujących inne stanowiska kierownicze, zatrudnionych w dotychczasowych placówkach kształcenia praktycznego, dotychczasowych ośrodkach dokształcania i doskonalenia zawodowego, dotychczasowych zespołach publicznych placówek, w skład których wchodzą jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, oraz w zespołach szkół lub placówek, w których w skład wchodzi także dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, prowadzonych przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, stosuje się przepisy art. 68–76.
+W uchwale, o której mowa w ust. 5, wskazuje się adresy siedzib szkół, o których mowa w ust. 5, oraz adresy innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych.
 
-**Art. 62.**
+### 5b.
 
-1. Dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, przekazane do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., podlega zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy.
+Obwód szkoły podstawowej, w tym szkoły podstawowej obejmującej strukturą organizacyjną część klas szkoły podstawowej lub szkoły filialnej, nie może posiadać części wspólnej z obwodem innej szkoły podstawowej, z wyjątkiem szkoły podstawowej obejmującej strukturą organizacyjną część klas szkoły podstawowej lub szkoły filialnej, w zakresie klas nieobjętych strukturą organizacyjną tej szkoły.
 
-2. W terminie do dnia 9 sierpnia 2019 r. dokonuje się odpowiedniego dostosowania umowy, na podstawie której przekazano prowadzenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, przekształconych zgodnie z art. 50 ust. 2 i 3.
+” ,
 
-3. Organ stanowiący jednostki samorządu terytorialnego po przejęciu prowadzenia dotychczasowej publicznej placówki kształcenia praktycznego i dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o której mowa ust. 1, na podstawie art. 5 ust. 5j i 5k ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., w związku z art. 260 ustawy zmienianej w art. 41, w terminie jednego miesiąca od dnia przejęcia tej placówki, w drodze uchwały, stwierdza jej przekształcenie w centrum kształcenia zawodowego.
+### c)
 
-4. Uchwała, o której mowa w ust. 3, stanowi akt założycielski centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+w ust. 7 dodaje się zdanie drugie w brzmieniu: „Uchwała rady powiatu podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.”,
 
-**Art. 63.** W przypadku złożenia wniosku o udzielenie zezwolenia na założenie po dniu 31 sierpnia 2019 r. dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., dostosuje wniosek do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejsza ustawą, i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o której mowa w art. 88 ust. 4 ustawy zmienianej w art. 1:
+### d)
 
-**Art. 64.** W przypadku złożenia zgłoszenia do ewidencji niepublicznych placówek, dotyczącego dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., dostosuje zgłoszenie do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 168 ust. 1 ustawy zmienianej w art. 1:
+po ust. 7 dodaje się ust. 7a w brzmieniu:
 
-**Art. 65.**
+„
 
-1. Z dniem 1 września 2019 r. centra kształcenia zawodowego przejmują prawa, obowiązki, zobowiązania i wierzytelności dotychczasowych placówek kształcenia praktycznego i dotychczasowych ośrodków dokształcania i doskonalenia zawodowego.
+### 7a.
 
-2. Mienie dotychczasowych placówek kształcenia praktycznego i dotychczasowych ośrodków dokształcania i doskonalenia zawodowego staje się mieniem centrów kształcenia zawodowego.
+W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego tworzenie i likwidacja innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych stanowi przekształcenie szkoły. Przepisy art. 89 stosuje się.
 
-3. Z dniem 1 września 2019 r. uczestnicy form pozaszkolnych organizowanych odpowiednio przez dotychczasowe placówki kształcenia praktycznego i dotychczasowe ośrodki dokształcania i doskonalenia zawodowego stają się uczestnikami tych form pozaszkolnych organizowanych przez centrum kształcenia zawodowego.
+” ,
 
-**Art. 66.** Dotychczasowe statuty dotychczasowych publicznych placówek kształcenia praktycznego i dotychczasowych publicznych ośrodków dokształcania i doskonalenia zawodowego zachowują moc do dnia wejścia w życie statutów centrów kształcenia zawodowego wydanych na podstawie ustawy zmienianej w art. 1, nie dłużej jednak niż do dnia 30 listopada 2019 r. Przepisy art. 72 ust. 1, art. 80 ust. 2 pkt 1 i art. 82 ust. 2 ustawy zmienianej w art. 1, stosuje się odpowiednio.
+### e)
 
-**Art. 67.**
+ust. 8 otrzymuje brzmienie:
 
-1. Centrum kształcenia zawodowego powstałe z dniem 1 września 2019 r. na podstawie art. 50 ust. 2 lub 3, zachowuje numer REGON odpowiednio dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+„
 
-2. Publiczne centrum kształcenia zawodowego powstałe z dniem 1 września 2019 r. na podstawie art. 54 ust. 1 lub 2, zachowuje numer REGON dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego.
+### 8.
 
-**Art. 68.**
+Ustalenie planu sieci publicznych szkół, o którym mowa w ust. 5 i 7, następuje po uzyskaniu pozytywnej opinii kuratora oświaty o zgodności planu z warunkami określonymi odpowiednio w ust. 1, 2 i 5a-7a.
 
-1. Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowych placówkach kształcenia praktycznego i dotychczasowych ośrodkach dokształcania i doskonalenia zawodowego stają się nauczycielami centrum kształcenia zawodowego.
+” ;
 
-2. Dyrektor dotychczasowej placówki kształcenia praktycznego i dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w danej placówce o zmianie, o której mowa w ust. 1.
+### 21)
 
-3. Przepis ust. 1 i 2 stosuje się odpowiednio do pracowników niebędących nauczycielami, o których mowa w art. 7 ustawy zmienianej w art. 1, oraz osób, o których mowa w art. 15 ust. 2 i 6 ustawy zmienianej w art. 1.
+w art. 45:
 
-**Art. 69.**
+### a)
 
-1. Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowych zespołach placówek, o których mowa w art. 54 ust. 1, stają się nauczycielami centrum kształcenia zawodowego.
+ust. 3 otrzymuje brzmienie:
 
-2. Dyrektor dotychczasowego zespołu placówek, o którym mowa w ust. 1, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w danym zespole placówek o zmianie, o której mowa w ust. 1.
+„
 
-3. Przepis ust. 1 i 2 stosuje się odpowiednio do pracowników niebędących nauczycielami, o których mowa w art. 7 ustawy zmienianej w art. 1, oraz osób, o których mowa w art. 15 ust. 2 i 6 ustawy zmienianej w art. 1.
+### 3.
 
-**Art. 70.**
+Eksperyment pedagogiczny jest przeprowadzany pod opieką podmiotu w rozumieniu art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1668](https://api.sejm.gov.pl/eli/acts/DU/2018/1668/text.html) i [2024](https://api.sejm.gov.pl/eli/acts/DU/2018/2024/text.html)), zwanego dalej „jednostką naukową”, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - pod opieką jednostki naukowej właściwej dla danego zawodu.
 
-1. Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego przekształcanej w centrum kształcenia zawodowego na podstawie art. 50 ust. 2 staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowej placówki kształcenia praktycznego.
+” ,
 
-2. Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego.
+### b)
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+po ust. 4 dodaje się ust. 4a w brzmieniu:
 
-**Art. 71.**
+„
 
-1. Z dniem 1 września 2019 r. dyrektor dotychczasowego ośrodka dokształcania i doskonalenia zawodowego przekształcanego w centrum kształcenia zawodowego na podstawie art. 50 ust. 3 staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+### 4a.
 
-2. Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowym ośrodku dokształcania i doskonalenia zawodowego.
+Eksperyment pedagogiczny realizowany w szkole prowadzącej kształcenie zawodowe nie może polegać na nauczaniu zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego w innym typie szkoły niż typ szkoły wskazany w tych klasyfikacjach.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+” ,
 
-**Art. 72.**
+### c)
 
-1. Z dniem 1 września 2019 r. dyrektor zespołu placówek, o którym mowa w art. 54 ust. 1, staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego zespołu placówek, o którym mowa w art. 54 ust. 1.
+w ust. 8 skreśla się zdanie drugie,
 
-2. Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w zespole placówek, o którym mowa w art. 54 ust. 1.
+### d)
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+po ust. 8 dodaje się ust. 8a i 8b w brzmieniu:
 
-**Art. 73.**
+„
 
-1. Z dniem 1 września 2019 r. dyrektor zespołu szkół lub placówek innego niż ten, o którym mowa w art. 54 ust. 1, staje się dyrektorem zespołu szkół lub placówek, w skład którego wchodzi centrum kształcenia zawodowego, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego zespołu szkół lub placówek innego niż ten, o którym mowa w art. 54 ust. 1.
+### 8a.
 
-2. Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w zespole szkół lub placówek innym niż ten, o którym mowa w art. 54 ust. 1.
+Minister właściwy do spraw oświaty i wychowania wyraża zgodę na prowadzenie eksperymentu pedagogicznego, po uzyskaniu pozytywnej opinii ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego - ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+### 8b.
 
-**Art. 74.**
+Minister, o którym mowa w ust. 8a, może wydać opinię pozytywną, negatywną albo pozytywną pod warunkiem wprowadzenia we wniosku zmian wskazanych przez tego ministra.
 
-1. Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, przekształcanych w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, staje się dyrektorem centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora odpowiednio dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+” ,
 
-2. Wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego albo dotychczasowym ośrodku dokształcania i doskonalenia zawodowego, przekształcanych w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+### e)
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+ust. 11 otrzymuje brzmienie:
 
-4. W przypadku konkursu na stanowisko dyrektora centrum kształcenia zawodowego, o którym mowa w ust. 1, przeprowadzonego przed dniem 1 września 2019 r., w skład komisji konkursowej powołuje się po dwóch przedstawicieli rady pedagogicznej, z tym że przedstawicieli tych wyłania się spośród przedstawicieli rad pedagogicznych wszystkich dotychczasowych placówek kształcenia praktycznego lub dotychczasowych ośrodków dokształcania i doskonalenia zawodowego, które wejdą w skład centrum kształcenia zawodowego, o którym mowa w art. 59 ust. 2 pkt 1.
+„
 
-**Art. 75.**
+### 11.
 
-1. W przypadku przekształcenia dotychczasowej placówki kształcenia praktycznego i dotychczasowego ośrodka dokształcania i doskonalenia zawodowego w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, dyrektorów, wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego i dotychczasowym ośrodku dokształcania i doskonalenia zawodowego odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+Wniosek, o którym mowa w ust. 9, określa cel, założenia, czas trwania i sposób realizacji eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - także uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
 
-2. W konkursie na stanowisko dyrektora centrum kształcenia zawodowego, o którym mowa w ust. 1, przeprowadzonego przed dniem 1 września 2019 r., w skład komisji konkursowej powołuje się po dwóch przedstawicieli rady pedagogicznej, z tym że przedstawicieli tych wyłania się spośród przedstawicieli rad pedagogicznych wszystkich dotychczasowych placówek kształcenia praktycznego lub dotychczasowych ośrodków dokształcania i doskonalenia zawodowego, które wejdą w skład centrum kształcenia zawodowego.
+### 1)
 
-**Art. 76.**
+opinię jednostki naukowej dotyczącą założeń eksperymentu pedagogicznego wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem eksperymentu;
 
-1. Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, przekształcanych w filię centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 2, staje się kierownikiem tej filii podporządkowanej organizacyjnie centrum kształcenia zawodowego, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora odpowiednio dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+### 2)
 
-2. Wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego albo dotychczasowym ośrodku dokształcania i doskonalenia zawodowego, przekształcanych w filię centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 2, odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+zgodę rady pedagogicznej wyrażoną w uchwale, o której mowa w ust. 9, opinię rady szkoły lub placówki oraz opinię rady rodziców;
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+### 3)
 
-**Art. 77.**
+w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego:
 
-1. Z dniem 1 września 2019 r. dotychczasowe szkolne punkty konsultacyjne stają się szkołami polskimi, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### a)
 
-2. Z dniem 1 września 2019 r.:
+podstawę programową kształcenia w zawodzie, sporządzoną z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, oraz propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie,
 
-- **1)** szkoły polskie, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przejmują prawa, obowiązki, zobowiązania i wierzytelności dotychczasowych szkolnych punktów konsultacyjnych;
-- **2)** mienie dotychczasowych szkolnych punktów konsultacyjnych staje się mieniem szkół polskich, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### b)
 
-**Art. 78.**
+program nauczania zawodu,
 
-1. Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowym szkolnym punkcie konsultacyjnym stają się nauczycielami zatrudnionymi w szkole polskiej, o której mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### c)
 
-2. Kierownik dotychczasowego szkolnego punktu konsultacyjnego, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w szkolnym punkcie konsultacyjnym o zmianie, o której mowa w ust. 1.
+tygodniowy lub semestralny rozkład zajęć,
 
-3. Kierownik szkolnego punktu konsultacyjnego staje się kierownikiem szkoły polskiej i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko kierownika szkolnego punktu konsultacyjnego.
+### d)
 
-4. Dyrektor jednostki sprawującej nadzór pedagogiczny nad szkołami polskimi, podległej ministrowi właściwemu do spraw oświaty i wychowania, w terminie do dnia 15 maja 2019 r., informuje kierowników szkolnych punktów konsultacyjnych o zmianie, o której mowa w ust. 3.
+pozytywną opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2018 r. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.](#gloss-0:2:)),
 
-**Art. 79.** Organ stanowiący jednostki samorządu terytorialnego prowadzącej publiczną placówkę kształcenia ustawicznego dostosuje, w drodze uchwały, akt założycielski tej placówki do przepisu art. 88 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r.
+### e)
 
-**Art. 80.** Przepisów art. 32 ust. 1 i art. 39 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do uchwał podjętych przed dniem 1 stycznia 2019 r.
+pozytywną opinię dotyczącą zawartości merytorycznej programu nauczania zawodu wydaną przez:
 
-**Art. 81.**
+- - jednostkę naukową właściwą dla zawodu oraz
 
-1. Do uchwał podjętych zgodnie z art. 210 oraz art. 211 ust. 1 lub 5 ustawy zmienianej w art. 41, nie stosuje się art. 39 ust. 5a, 5b i 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- - organizację pracodawców, samorząd gospodarczy lub inną organizację gospodarczą, stowarzyszenie lub samorząd zawodowy, lub pracodawcę, właściwych dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 9,
 
-2. Uchwały, o których mowa w ust. 1, tracą moc z dniem 31 sierpnia 2019 r. w zakresie dotyczącym ustalenia planu sieci publicznych szkół podstawowych prowadzonych przez gminę i określenia granic obwodów publicznych szkół podstawowych.
+### f)
 
-3. Do ustalenia planu sieci publicznych szkół podstawowych prowadzonych przez gminę i określenia granic obwodów publicznych szkół podstawowych na okres od dnia 1 września 2019 r. stosuje się przepisy art. 39 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+harmonogram realizacji eksperymentu pedagogicznego oraz informację o niezbędnych warunkach prowadzenia eksperymentu, w tym warunkach lokalowych, finansowych, wyposażeniu oraz kadrze,
 
-**Art. 82.** Do dnia 31 października 2028 r. w informacji o stanie realizacji zadań oświatowych danej jednostki samorządu terytorialnego, o której mowa w art. 11 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnia się również wyniki egzaminu potwierdzającego kwalifikacje w zawodzie.
+### g)
 
-**Art. 83.** Przepis art. 10 ust. 1 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do dotychczasowych szkół ponadgimnazjalnych dla dzieci i młodzieży.
+przykładowe zestawy zadań egzaminacyjnych - w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego.
 
-**Art. 84.**
+” ,
 
-1. Od dnia 1 września 2020 r. kształcenie ustawiczne na kursach umiejętności zawodowych, odbywa się w oparciu o program nauczania uwzględniający:
+### f)
 
-- **1)** podstawę programową kształcenia w zawodach szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
-- **2)** efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+po ust. 11 dodaje się ust. 11a-11c w brzmieniu:
 
-2. Kształcenie ustawiczne na kursach umiejętności zawodowych w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji odbywa się do dnia 31 grudnia 2020 r.
+„
 
-**Art. 85.**
+### 11a.
 
-1. Kształcenie ustawiczne na kursie kompetencji ogólnych odbywające się według programu nauczania uwzględniającego podstawę programową kształcenia ogólnego dla branżowej szkoły II stopnia określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. g ustawy zmienianej w art. 1, prowadzi się począwszy od dnia 1 września 2020 r., zgodnie z art. 279 ustawy zmienianej w art. 41.
+W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego wniosek może dotyczyć wyłącznie jednego cyklu kształcenia, w którym będzie prowadzony eksperyment.
 
-2. Kształcenie ustawiczne na kursie kompetencji ogólnych odbywające się według programu nauczania uwzględniającego podstawę programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., może być również prowadzone zgodnie z przepisami wydanymi na podstawie art. 68a ust. 5 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., nie dłużej jednak niż do dnia 31 sierpnia 2023 r.
+### 11b.
 
-**Art. 86.**
+W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego egzamin zawodowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej, o której mowa w ust. 11 pkt 3 lit. a. Przepisy dotyczące egzaminu zawodowego stosuje się odpowiednio.
 
-1. Od dnia 1 września 2019 r. kształcenie ustawiczne na turnusie dokształcania młodocianych pracowników odbywa się w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 11c.
 
-2. Kształcenie ustawiczne na turnusie dokształcania młodocianych pracowników w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodzie określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, prowadzi się do dnia 31 sierpnia 2021 r.
+W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa artystycznego egzamin dyplomowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej, o której mowa w ust. 11 pkt 3 lit. a. Przepisy dotyczące egzaminu dyplomowego stosuje się odpowiednio.
 
-**Art. 87.**
+” ,
 
-1. Od dnia 1 września 2020 r. kształcenie na kwalifikacyjnych kursach zawodowych odbywa się w oparciu o podstawę programową kształcenia w zawodach szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### g)
 
-2. Kształcenie na kwalifikacyjnych kursach zawodowych w oparciu o podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, odbywa się do dnia 31 grudnia 2020 r.
+w ust. 12 wyrazy „organu prowadzącego szkołę” zastępuje się wyrazami „organu prowadzącego szkołę lub placówkę”,
 
-**Art. 88.**
+### h)
 
-1. Podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy zmienianej w art. 1, nieposiadające akredytacji, o której mowa w art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą prowadzić kwalifikacyjne kursy zawodowe, o których mowa w art. 290 ust. 1 ustawy zmienianej w art. 41, oraz art. 87 ust. 2, jednak nie dłużej niż do dnia 31 grudnia 2020 r.
+po ust. 12 dodaje się ust. 12a w brzmieniu:
 
-2. Od dnia 1 września 2020 r. kwalifikacyjne kursy zawodowe, o których mowa w art. 87 ust. 1, mogą być prowadzone wyłącznie przez podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy zmienianej w art. 1, posiadające akredytację, o której mowa w art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 89.** Do uczniów niepełnosprawnych dotychczasowych szkół ponadgimnazjalnych, których kształcenie i wychowanie odbywa się na podstawie orzeczeń, o których mowa w art. 312 ust. 1 i 2 ustawy zmienianej w art. 41, do czasu zakończenia kształcenia w tych szkołach, stosuje się odpowiednio przepis art. 39 ust. 4a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 12a.
 
-**Art. 90.**
+Dyrektor szkoły lub placówki prowadzącej eksperyment pedagogiczny przekazuje organowi sprawującemu nadzór pedagogiczny, nie później niż do dnia 30 września, sprawozdanie z realizacji eksperymentu w poprzednim roku szkolnym, zawierające wyniki i wnioski z przeprowadzonego przez dyrektora szkoły lub placówki nadzoru pedagogicznego w zakresie realizowanego eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - także informację o realizacji harmonogramu, o którym mowa w ust. 11 pkt 3 lit. f. Do sprawozdania dołącza się opinię jednostki naukowej sprawującej opiekę nad przebiegiem eksperymentu pedagogicznego.
 
-1. Wnioski, o których mowa w art. 45 ust. 9 ustawy zmienianej w art. 1, dotyczące eksperymentu pedagogicznego rozpoczynającego się w roku szkolnym 2019/2020, rozpatruje się zgodnie z przepisami dotychczasowymi, z zastrzeżeniem ust. 2 i 3.
+” ,
 
-2. Wnioski, o których mowa w ust. 1, mogą dotyczyć zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### i)
 
-3. Wnioski, o których mowa w ust. 1, dotyczące zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, albo klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą dotyczyć wyłącznie jednego cyklu kształcenia, w którym będzie prowadzony eksperyment.
+ust. 13 otrzymuje brzmienie:
 
-4. Eksperymenty pedagogiczne, których realizacja rozpoczęła się przed dniem 1 września 2020 r. są prowadzone zgodnie z przepisami dotychczasowymi.
+„
 
-**Art. 91.**
+### 13.
 
-1. Wnioski złożone na podstawie art. 178 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, i nierozpatrzone przed dniem 1 września 2019 r., rozpatruje się zgodnie z przepisami art. 178 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Dyrektor szkoły lub placówki prowadzącej eksperyment pedagogiczny przekazuje bezpośrednio po jego zakończeniu ministrowi właściwemu do spraw oświaty i wychowania, a w przypadku szkoły artystycznej - ministrowi właściwemu do spraw kultury i ochrony dziedzictwa narodowego, sprawozdanie zawierające wnioski z przeprowadzonego eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - także wnioski dotyczące potrzeby wprowadzenia tego zawodu do tej klasyfikacji. Do sprawozdania dołącza się opinię jednostki naukowej, która sprawuje opiekę nad przebiegiem eksperymentu pedagogicznego, a w przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego albo klasyfikacji zawodów szkolnictwa artystycznego - także opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, pracodawcy, właściwych dla danego zawodu.
 
-2. Szkoły niepubliczne funkcjonujące na podstawie decyzji, o której mowa w art. 178 ust. 4 i 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydanej przed dniem 1 września 2019 r., mogą nadal funkcjonować na warunkach określonych w tej decyzji.
+” ,
 
-**Art. 92.**
+### j)
 
-1. Wnioski, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem 1 stycznia 2019 r., rozpatruje się zgodnie z przepisami dotychczasowymi.
+po ust. 13 dodaje się ust. 13a w brzmieniu:
 
-2. Wnioski, o których mowa w ust. 1, stanowią podstawę do wprowadzenia zawodu do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 93.**
+### 13a.
 
-1. Zawody wprowadzone przed dniem 1 września 2019 r. do klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, są wprowadzane do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+W przypadku eksperymentu pedagogicznego dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego wnioski dotyczące potrzeby wprowadzenia tego zawodu do tej klasyfikacji minister właściwy do spraw oświaty i wychowania przekazuje do ministra właściwego dla zawodu.
 
-2. Zmiana w zakresie zawodu, o którym mowa w ust. 1, lub niewprowadzenie zawodu do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania uzgadnia z ministrem właściwym dla tego zawodu.
+” ;
 
-**Art. 94.**
+### 22)
 
-1. Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od roku szkolnego 2019/2020 w:
+art. 46 otrzymuje brzmienie:
 
-- **1)** klasie I branżowej szkoły I stopnia, która rozpoczyna się z dniem 1 września 2019 r. lub z dniem 1 lutego 2020 r.,
-- **2)** semestrze I szkoły policealnej,
-- **3)** klasie I dotychczasowego czteroletniego technikum – a w latach następnych również w kolejnych klasach lub semestrach tych szkół.
+„
 
-2. Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od roku szkolnego 2019/2020 w pięcioletnim technikum.
+### Art. 46.
 
-3. Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się, począwszy od roku szkolnego 2020/2021 w semestrze I branżowej szkoły II stopnia.
+### 1.
 
-4. Klasyfikację zawodów szkolnictwa zawodowego, określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oraz podstawę programową kształcenia w zawodzie, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się:
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 
-- **1)** w roku szkolnym 2019/2020 w:
-    - **a)** klasach II i III dotychczasowego czteroletniego technikum,
-    - **b)** klasie I branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum, którzy rozpoczęli naukę z dniem 1 lutego 2019 r.,
-    - **c)** klasach II i III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
-    - **d)** semestrach II–V szkoły policealnej;
+### 1)
 
-- **2)** w roku szkolnym 2020/2021 w:
-    - **a)** klasach III i IV dotychczasowego czteroletniego technikum,
-    - **b)** klasie II branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 1 lit. b,
-    - **c)** klasie III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
-    - **d)** semestrach IV i V szkoły policealnej;
+ogólne cele i zadania kształcenia w zawodach szkolnictwa branżowego,
 
-- **3)** w roku szkolnym 2021/2022 w:
-    - **a)** klasie IV dotychczasowego czteroletniego technikum,
-    - **b)** klasie III branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 2 lit. b.
+### 2)
 
-**Art. 95.**
+klasyfikację zawodów szkolnictwa branżowego, określającą:
 
-1. Na lata szkolne 2020/2021–2022/2023 na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się również kandydatów będących absolwentami dotychczasowej zasadniczej szkoły zawodowej, którzy rozpoczęli kształcenie w tej szkole począwszy od roku szkolnego 2012/2013.
+### a)
 
-2. Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, o których mowa w ust. 1, którzy:
+branże oraz zawody przyporządkowane do branż,
 
-- **1)** posiadają świadectwo ukończenia zasadniczej szkoły zawodowej;
-- **2)** posiadają zaświadczenie o zawodzie nauczanym w zasadniczej szkole zawodowej, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
-- **3)** posiadają zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 5 ustawy zmienianej w art. 13;
-- **4)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. – posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ustawy zmienianej w art. 38, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
-- **5)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym – posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami określonymi w rozdziale 12 ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą;
-- **6)** w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E – posiadają orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy zmienianej w art. 30.
+### b)
 
-3. W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 2 pkt 1 i 2, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego, są brane pod uwagę łącznie następujące kryteria:
+kwalifikacje wyodrębnione w zawodzie,
 
-- **1)** wymienione na świadectwie ukończenia zasadniczej szkoły zawodowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ogólnokształcących ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
-- **2)** świadectwo ukończenia zasadniczej szkoły zawodowej z wyróżnieniem;
-- **3)** w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji – wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 8.
+### c)
 
-4. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów z problemami zdrowotnymi, ograniczającymi możliwości wyboru kierunku kształcenia ze względu na stan zdrowia, potwierdzonymi opinią publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej.
+poziom Polskiej Ramy Kwalifikacji dla kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
 
-5. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana szkoła, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na trzecim etapie postępowania rekrutacyjnego, są brane pod uwagę łącznie następujące kryteria:
+### d)
 
-- **1)** w przypadku kandydata niepełnoletniego:
-    - **a)** wielodzietność rodziny kandydata,
-    - **b)** niepełnosprawność kandydata,
-    - **c)** niepełnosprawność jednego z rodziców kandydata,
-    - **d)** niepełnosprawność obojga rodziców kandydata,
-    - **e)** niepełnosprawność rodzeństwa kandydata,
-    - **f)** samotne wychowywanie kandydata w rodzinie,
-    - **g)** objęcie kandydata pieczą zastępczą;
+ministra właściwego dla zawodu,
 
-- **2)** w przypadku kandydata pełnoletniego:
-    - **a)** wielodzietność rodziny kandydata,
-    - **b)** niepełnosprawność kandydata,
-    - **c)** niepełnosprawność dziecka kandydata,
-    - **d)** niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
-    - **e)** samotne wychowywanie dziecka przez kandydata.
+### e)
 
-6. Kryteria, o których mowa w ust. 5, mają jednakową wartość.
+typy szkół ponadpodstawowych, w których może odbywać się kształcenie w zawodzie,
 
-7. Do kandydatów, o których mowa w ust. 1, nie stosuje się przepisów dotyczących postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe.
+### f)
 
-8. Jeżeli program nauczania realizowany w szkole lub oddziale wymaga od kandydatów szczególnych indywidualnych predyspozycji, na wniosek dyrektora branżowej szkoły II stopnia, pozytywnie zaopiniowany przez kuratora oświaty, minister właściwy do spraw oświaty i wychowania może wyrazić zgodę na przeprowadzenie sprawdzianu uzdolnień kierunkowych, na warunkach ustalonych przez radę pedagogiczną, jeżeli wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa wyrazi zgodę na dodatkowe godziny zajęć edukacyjnych w zakresie realizacji programu nauczania wymagającego od ucznia szczególnych indywidualnych predyspozycji.
+kwalifikacje wyodrębnione w zawodzie, w zakresie których kształcenie może być prowadzone na kwalifikacyjnym kursie zawodowym lub kursie umiejętności zawodowych,
 
-9. Przepisy ust. 1–8 stosuje się odpowiednio do postępowania rekrutacyjnego na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia integracyjnej lub oddziału integracyjnego w publicznej branżowej szkole II stopnia ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
+### g)
 
-10. W przypadku postępowania rekrutacyjnego, o którym mowa w ust. 1–9, stosuje się odpowiednio przepisy art. 149–163 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem ust. 11.
+szczególne uwarunkowania związane z kształceniem w zawodzie lub kwalifikacji wyodrębnionej w zawodzie, w szczególności związane z formą kształcenia lub kształceniem osób niepełnosprawnych,
 
-11. W przepisach wydanych na podstawie art. 162 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania, określi również sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w ust. 3 pkt 1 i 2.
+### 3)
 
-**Art. 96.**
+podstawy programowe kształcenia w zawodach szkolnictwa branżowego,
 
-1. W latach szkolnych 2020/2021 i 2021/2022:
+### 4)
 
-- **1)** obowiązkowe zajęcia edukacyjne z zakresu kształcenia ogólnego, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, są realizowane wspólnie przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia będących absolwentami dotychczasowego gimnazjum;
-- **2)** obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w tym praktyczna nauka zawodu, są realizowane w ramach tego samego kwalifikacyjnego kursu zawodowego przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia.
+dodatkowe umiejętności zawodowe w zakresie wybranych zawodów oraz zestawy celów kształcenia i treści nauczania opisanych w formie oczekiwanych efektów kształcenia: wiedzy, umiejętności zawodowych oraz kompetencji personalnych i społecznych w odniesieniu do tych umiejętności
 
-2. W roku szkolnym 2022/2023:
+- z uwzględnieniem wniosku ministra właściwego dla zawodu, o którym mowa w ust. 2, klasyfikacji zawodów i specjalności na potrzeby rynku pracy w zakresie nazwy i symbolu cyfrowego zawodu oraz możliwości podnoszenia kwalifikacji, kierując się potrzebą zapewnienia wysokiej jakości kształcenia zawodowego i dostosowania go do potrzeb rynku pracy.
 
-- **1)** obowiązkowe zajęcia edukacyjne z zakresu kształcenia ogólnego, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, są realizowane odrębnie przez:
-    - **a)** absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia będących absolwentami dotychczasowego gimnazjum,
-    - **b)** absolwentów branżowych szkół I stopnia będących absolwentami szkoły podstawowej;
+### 2.
 
-- **2)** obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w tym praktyczna nauka zawodu są realizowane w ramach tego samego kwalifikacyjnego kursu zawodowego przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia.
+Zmiany w przepisach wydanych na podstawie ust. 1, w zakresie wprowadzenia, zmiany albo wykreślenia zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, następują na wniosek ministra właściwego dla zawodu.
 
-**Art. 97.**
+### 3.
 
-1. Opinie wojewódzkich rad rynku pracy oraz powiatowych rad rynku pracy, o których mowa w art. 68 ust. 7 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydane przed dniem 1 stycznia 2019 r., zachowują moc do dnia 31 sierpnia 2022 r.
+Wniosek, o którym mowa w ust. 2, określa:
 
-2. Opinia wojewódzkiej rady rynku pracy, o której mowa w art. 68 ust. 7 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie jest wymagana w przypadku szkół, które od roku szkolnego 2019/2020 będą kontynuowały kształcenie w zawodach, których nazwa i symbol cyfrowy tego zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest tożsamy z nazwą i symbolem cyfrowym zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, nie dłużej jednak niż do dnia 31 sierpnia 2023 r.
+### 1)
 
-3. Wnioski o uzyskanie opinii wojewódzkich oraz powiatowych rad rynku pracy złożone przed dniem 1 stycznia 2019 r., na podstawie art. 68 ust. 7 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, rozpatruje się zgodnie z przepisami dotychczasowymi.
+nazwę zawodu i symbol cyfrowy zawodu odpowiadające nazwie i symbolowi cyfrowemu zawodu w klasyfikacji zawodów i specjalności na potrzeby rynku pracy, jeżeli zostały określone w tej klasyfikacji, nazwę kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych;
 
-**Art. 98.** W latach szkolnych 2019/2020–2021/2022 przepisu art. 68 ust. 7 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do szkół prowadzących kształcenie zawodowe, z wyjątkiem branżowej szkoły II stopnia, w odniesieniu do zawodów, w których już prowadzą kształcenie.
+### 2)
 
-**Art. 99.** Przepis art. 96 ust. 6 i 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do dotychczasowych szkół ponadgimnazjalnych.
+opis zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, wraz z propozycją zestawu oczekiwanych efektów kształcenia niezbędnych dla zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, oraz kryteriów weryfikacji tych efektów, sporządzonego z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, a w przypadku wprowadzenia lub zmiany dotyczącej zawodu lub kwalifikacji wyodrębnionej w zawodzie - także propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w zawodzie lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji;
 
-**Art. 100.** Do dnia 31 sierpnia 2022 r. w przypadku gdy szkoła nie ma możliwości zapewnienia pomieszczenia przeznaczonego wyłącznie do spożycia posiłków podczas pobytu w szkole, o którym mowa w art. 103 ust. 1 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, szkoła w inny sposób umożliwia uczniom bezpieczne i higieniczne spożycie posiłków.
+### 3)
 
-**Art. 101.** Przepis art. 121a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do uczniów dotychczasowego czteroletniego technikum.
+uzasadnienie potrzeby wprowadzenia, wykreślenia lub zmiany dotyczącej zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych, zawierające w szczególności analizę potrzeb rynku pracy w zakresie zawodu, kwalifikacji lub dodatkowych umiejętności;
 
-**Art. 101a.**
+### 4)
 
-1. Dofinansowanie kosztów kształcenia, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przysługuje również pracodawcy niebędącemu rzemieślnikiem, który zawarł z młodocianym pracownikiem umowę o pracę w celu przygotowania zawodowego, jeżeli młodociany pracownik ukończył naukę zawodu i zdał egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2019 r. Przepisy art. 122 ust. 2 i 3–11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+informację o możliwości podnoszenia kwalifikacji w ramach systemu oświaty;
 
-2. W przypadku młodocianego pracownika, który zdał egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2019 r., przeprowadzony w okresie czerwiec–lipiec 2019 r., wniosek o dofinansowanie kosztów kształcenia, o którym mowa w ust. 1, składa się w terminie do dnia 31 grudnia 2019 r.
+### 5)
 
-3. Dofinansowanie kosztów kształcenia, o którym mowa w ust. 1, przysługuje począwszy od roku szkolnego 2019/2020.
+informację o potencjalnych miejscach realizacji praktycznej nauki zawodu w zawodzie lub kwalifikacji wyodrębnionej w zawodzie oraz informację o potencjalnych miejscach przeprowadzania egzaminu zawodowego w części praktycznej;
 
-**Art. 102.** Przepis art. 122 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do młodocianych pracowników, którzy rozpoczęli naukę zawodu od roku szkolnego 2019/2020 i w kolejnych latach.
+### 6)
 
-**Art. 103.**
+ministra właściwego dla zawodu;
 
-1. Akredytacja kuratora oświaty przyznana przed dniem 1 września 2019 r. na podstawie art. 118 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowuje moc do zakończenia kształcenia ustawicznego w danej formie pozaszkolnej, nie dłużej niż do dnia 31 grudnia 2020 r.
+### 7)
 
-2. Postępowania o przyznanie akredytacji na kształcenie ustawiczne prowadzone w formie pozaszkolnej złożone i nierozpatrzone przed dniem 1 września 2019 r., rozpatruje się zgodnie z przepisami art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Wnioskodawca dostosuje wniosek do wymagań określonych w art. 118 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 31 grudnia 2019 r.
+typy szkół ponadpodstawowych, w których może odbywać się kształcenie w zawodzie;
 
-3. Akredytacja przyznana przez kuratora oświaty przed dniem 1 września 2017 r. na podstawie art. 68b ust. 2 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., zachowuje moc do dnia zakończenia kształcenia ustawicznego w danej formie pozaszkolnej, jednak nie dłużej niż do dnia 31 sierpnia 2021 r.
+### 8)
 
-**Art. 104.**
+kwalifikację wyodrębnioną w zawodzie, w zakresie której kształcenie może być prowadzone na kwalifikacyjnym kursie zawodowym lub kursie umiejętności zawodowych;
 
-1. Szkoła niepubliczna nieposiadająca uprawnień szkoły publicznej działająca przed dniem 1 września 2019 r., może prowadzić swoją działalność na podstawie dotychczasowych przepisów, do czasu zakończenia kształcenia w tej szkole, nie dłużej niż do dnia 31 sierpnia 2021 r., a w przypadku niepublicznej szkoły przysposabiającej do pracy nieposiadającej uprawnień szkoły publicznej, nie dłużej niż do dnia 31 sierpnia 2022 r.
+### 9)
 
-2. W przypadku szkoły, o której mowa w ust. 1, na rok szkolny 2019/2020 i lata następne nie przeprowadza się postępowania rekrutacyjnego do klasy I albo na semestr pierwszy tej szkoły.
+branżę, do której jest przyporządkowany zawód;
 
-3. Zgłoszenie o wpis do ewidencji szkół niepublicznych, o której mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, dotyczące szkoły niepublicznej nieposiadającej uprawnień szkoły publicznej, złożone i nierozpatrzone przed dniem 1 września 2019 r. pozostawia się bez rozpoznania.
+### 10)
 
-4. Szkoła niepubliczna o uprawnieniach szkoły publicznej staje się szkołą niepubliczną, o której mowa w art. 14 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+zawód o charakterze pomocniczym albo uzasadnienie braku możliwości kształcenia w takim zawodzie.
 
-5. Szkoła, o której mowa w ust. 4, dostosuje swoją działalność, w tym w szczególności statut szkoły, do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r.
+### 4.
 
-6. Do uczniów i słuchaczy szkół, o których mowa w ust. 1 i 4, którzy rozpoczęli naukę przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe, o ile przepisy szczególne nie stanowią inaczej.
+Do wniosku, o którym mowa w ust. 2, dołącza się opinię organizacji pracodawców reprezentatywnych w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego ([Dz. U. z 2018 r. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2018/2232/text.html)), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, oraz opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
-**Art. 105.**
+### 5.
 
-1. Organy prowadzące szkoły policealne dostosują działalność tych szkół do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r., w tym w szczególności statut szkoły.
+Wprowadzenie zawodu do klasyfikacji zawodów szkolnictwa branżowego nie może nastąpić, jeżeli wszystkie kwalifikacje wyodrębnione w tym zawodzie są tożsame ze wszystkimi kwalifikacjami wyodrębnionymi w zawodzie określonym w tej klasyfikacji.
 
-2. Dotychczasowe statuty szkół policealnych zachowują moc do dnia wejścia w życie statutów szkół policealnych wydanych na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 30 listopada 2019 r. Przepisy art. 72 ust. 1, art. 80 ust. 2 pkt 1 i art. 82 ust. 2 ustawy zmienianej w art. 1, stosuje się odpowiednio.
+### 6.
 
-3. Do uczniów szkół policealnych dla dzieci i młodzieży oraz słuchaczy szkół policealnych dla dorosłych, którzy rozpoczęli naukę przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe, o ile przepisy szczególne nie stanowią inaczej.
+Ministrowie właściwi dla zawodów mogą wspomagać materialnie i organizacyjnie szkoły prowadzące kształcenie zawodowe oraz placówki i centra, o których mowa w art. 2 pkt 4, w zakresie realizacji kształcenia zawodowego, w tym stosowania nowoczesnych technik i technologii w procesie kształcenia zawodowego odpowiednio do potrzeb rynku pracy.
 
-4. Na rok szkolny 2019/2020 nie przeprowadza się postępowania rekrutacyjnego do klasy I szkoły policealnej dla dzieci i młodzieży oraz na semestr pierwszy klasy I szkoły policealnej dla dorosłych.
+### 7.
 
-**Art. 106.**
+Organizacje pracodawców, samorządy gospodarcze lub inne organizacje gospodarcze, stowarzyszenia lub samorządy zawodowe, sektorowe rady do spraw kompetencji oraz ogólnopolskie organizacje jednostek samorządu terytorialnego mogą występować do właściwych ministrów z propozycją wprowadzenia do klasyfikacji zawodów szkolnictwa branżowego zawodu, wykreślenia zawodu lub dokonania zmiany dotyczącej zawodu, kwalifikacji wyodrębnionej w zawodzie lub dodatkowych umiejętności zawodowych.
 
-1. Organ stanowiący jednostki samorządu terytorialnego prowadzącej szkołę policealną, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, podejmuje uchwałę w sprawie dostosowania nazwy tej szkoły do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 8.
 
-2. Uchwałę, o której mowa w ust. 1, podejmuje się do dnia 31 sierpnia 2019 r. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodach lub kwalifikacji pełnej, o której mowa w art. 8 pkt 3a, 4a, 5a i 7a ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, stosuje się odpowiednio przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
-3. Do uchwały, o której mowa w ust. 2, nie stosuje się przepisów art. 89 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+” ;
 
-**Art. 107.**
+### 23)
 
-1. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca publiczną szkołę policealną, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 30 czerwca 2019 r., złoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wniosek o zmianę zezwolenia w zakresie nazwy szkoły. Do wniosku dołącza się projekt statutu tej szkoły, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+po art. 46 dodaje się art. 46a i art. 46b w brzmieniu:
 
-2. Organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, na założenie publicznej szkoły policealnej, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany tego zezwolenia, na podstawie wniosku, o którym mowa w ust. 1.
+„
 
-**Art. 108.**
+### Art. 46a.
 
-1. Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca niepubliczną szkołę policealną o uprawnieniach szkoły publicznej, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 30 czerwca 2019 r., złoży organowi jednostki samorządu terytorialnego, który dokonał wpisu do ewidencji szkół niepublicznych, o którym mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wniosek o zmianę wpisu do ewidencji szkół niepublicznych w zakresie nazwy szkoły. Do wniosku dołącza się projekt statutu tej szkoły, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 1.
 
-2. Organ jednostki samorządu terytorialnego, który dokonał wpisu niepublicznej szkoły, o której mowa w ust. 1, do ewidencji placówek niepublicznych, o którym mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany tego wpisu na podstawie wniosku, o którym mowa w ust. 1.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, klasyfikację zawodów szkolnictwa artystycznego, określającą:
 
-**Art. 109.** Szkoły policealne prowadzone przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi szkół policealnych, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister.
+### 1)
 
-**Art. 110.** W przypadku publicznej szkoły policealnej, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przekazanej do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub art. 9 ust. 1 ustawy zmienianej w art. 1, dokonuje się, w terminie do dnia 9 sierpnia 2019 r., odpowiedniego dostosowania umowy, na podstawie której przekazano prowadzenie szkoły policealnej.
+zawody,
 
-**Art. 111.** W przypadku złożenia i nierozpatrzenia, przed dniem 1 stycznia 2019 r., wniosku o udzielenie zezwolenia na założenie szkoły policealnej, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., uzupełni wniosek i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1:
+### 2)
 
-**Art. 112.** W przypadku złożenia i nierozpatrzenia, przed dniem 1 stycznia 2019 r., zgłoszenia do ewidencji niepublicznych szkół, dotyczącego szkoły policealnej o uprawnieniach szkoły publicznej, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., uzupełni zgłoszenie i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 168 ust. 1 ustawy zmienianej w art. 1:
+specjalności lub specjalizacje realizowane w ramach kształcenia w zawodach,
 
-**Art. 113.** Przepisy art. 105–112 stosuje się odpowiednio do szkół policealnych wchodzących w skład publicznych placówek kształcenia ustawicznego, zespołów szkół lub zespołów szkół i placówek.
+### 3)
 
-**Art. 114.** Przepis art. 22aa ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą stosuje się do dotychczasowego trzyletniego liceum ogólnokształcącego, dotychczasowego czteroletniego technikum i branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum.
+poziom Polskiej Ramy Kwalifikacji dla kwalifikacji pełnej, o której mowa w art. 8 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
 
-**Art. 115.**
+### 4)
 
-1. Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników do kształcenia w zawodach uwzględniających podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, są prowadzone do dnia 30 czerwca 2021 r., na podstawie dotychczasowych przepisów.
+typy szkół artystycznych, w których może odbywać się kształcenie w zawodzie
 
-2. Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników, o których mowa w ust. 1, wszczęte i niezakończone do dnia 30 czerwca 2021 r., umarza się.
+- z uwzględnieniem klasyfikacji zawodów i specjalności na potrzeby rynku pracy w zakresie nazwy i symbolu cyfrowego zawodu, kierując się potrzebą dostosowania oferty edukacyjnej szkół artystycznych do potrzeb rynku pracy w zakresie zawodów szkolnictwa artystycznego.
 
-**Art. 116.**
+### 2.
 
-1. Wykazy, o których mowa w art. 337 ust. 2 ustawy zmienianej w art. 41, prowadzi się do dnia 31 sierpnia 2022 r.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, podstawy programowe kształcenia w zawodach szkolnictwa artystycznego, uwzględniając potrzebę rozwijania zainteresowań i uzdolnień artystycznych uczniów oraz potrzeby rynku pracy w zakresie zawodów szkolnictwa artystycznego.
 
-2. Decyzje o dopuszczeniu do użytku szkolnego podręczników do kształcenia w zawodach wygasają z dniem 31 sierpnia 2022 r.
+### 3.
 
-**Art. 117.**
+Dokonując w rozporządzeniu, o którym mowa w ust. 1, przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji pełnej, o której mowa w art. 8 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, stosuje się odpowiednio przepisy art. 21 ust. 1-3 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji.
 
-1. Do wniosków o wpisanie na listę rzeczoznawców, złożonych i nierozpatrzonych przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
+### Art. 46b.
 
-2. Do wniosków o wpisanie na listę rzeczoznawców do spraw podręczników do kształcenia w zawodach, złożonych od dnia 1 stycznia 2019 r., stosuje się przepisy:
+### 1.
 
-- **1)** art. 22ar, art. 22as ust. 1 pkt 2 i 4 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym oraz
-- **2)** art. 22as ust. 1 pkt 1 i 3, ust. 2 pkt 2 i 3 oraz ust. 3 ustawy zmienianej w art. 2, oraz
-- **3)** art. 22as ust. 2 pkt 1 i 4 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+Minister właściwy do spraw oświaty i wychowania ustala prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy.
 
-**Art. 118.**
+### 2.
 
-1. Minister właściwy do spraw oświaty i wychowania prowadzi listę rzeczoznawców do spraw podręczników do kształcenia w zawodach do dnia 31 sierpnia 2022 r. Przepis art. 22as ust. 4 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stosuje się.
+Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej ([Dz. U. z 2018 r. poz. 1900](https://api.sejm.gov.pl/eli/acts/DU/2018/1900/text.html)), oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
 
-2. Dane rzeczoznawców do spraw podręczników do kształcenia w zawodach są publikowane na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania do dnia 31 sierpnia 2022 r.
+### 3.
 
-3. Do rzeczoznawców w zakresie podręczników do kształcenia w zawodach stosuje się przepisy:
+Prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 1 lutego danego roku.
 
-- **1)** art. 22at ust. 1 pkt 1 i ust. 2, art. 22au ust. 1 pkt 1 i ust. 2, art. 22av i art. 22aw ustawy zmienianej w art. 2, w brzmieniu dotychczasowym oraz
-- **2)** art. 22at ust. 1 pkt 2, 3 i 4 oraz art. 22au ust. 1 pkt 2 i 3 ustawy zmienianej w art. 2, oraz
-- **3)** art. 22at ust. 1 pkt 2a, ust. 1a i 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+### 4.
 
-**Art. 119.** Do postępowań wszczętych i niezakończonych przed dniem 1 stycznia 2020 r., w sprawach o dopuszczenie do użytku szkolnego podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczniki do zajęć z zakresu języka obcego nowożytnego, podręczników do zajęć edukacyjnych z zakresu kształcenia ogólnego, w tym podręczników przeznaczonych do kształcenia specjalnego, uwzgledniających podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy zmienianej w art. 1, nie stosuje się przepisu art. 22ao ust. 3 pkt 6a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego ustala wykaz zawodów szkolnictwa branżowego o szczególnym znaczeniu dla kultury i dziedzictwa narodowego. Wykaz zawodów podlega ogłoszeniu, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-**Art. 120.** Postanowienia wydane na podstawie art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096), w toku postępowania o dopuszczenie podręcznika do użytku szkolnego, wszczętego i niezakończonego przed dniem 1 stycznia 2019 r., wygasają z tym dniem.
+” ;
 
-**Art. 121.**
+### 24)
 
-1. Do dnia 30 września 2019 r. Centralna Komisja Egzaminacyjna opracuje i ogłosi w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatory zawierające w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przeprowadzanym w roku szkolnym 2019/2020.
+w art. 47:
 
-2. Do dnia 1 września 2020 r. Centralna Komisja Egzaminacyjna opracuje i ogłosi w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatory zawierające w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przeprowadzanym od roku szkolnego 2020/2021.
+### a)
 
-**Art. 122.**
+w ust. 1:
 
-1. Z dniem 1 września 2019 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, stają się również egzaminatorami w zakresie egzaminu zawodowego w zawodach odpowiadających zawodom, w zakresie których był dokonany dotychczasowy wpis do ewidencji.
+- - uchyla się pkt 2,
 
-2. Przepis ust. 1 stosuje się również do egzaminatorów wpisanych do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, z zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jeżeli zakres zawodu lub kwalifikacji określonej w tych przepisach odpowiada zakresowi zawodu lub kwalifikacji określonej w klasyfikacji zawodów szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+- - pkt 3 otrzymuje brzmienie: „ 3) ramowe plany nauczania dla poszczególnych typów szkół, w tym: a) tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej - semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych, z wyjątkiem wymiaru godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego w branżowej szkole II stopnia, b) minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych, c) minimalny wymiar godzin zajęć z zakresu doradztwa zawodowego, d) maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych, e) przeznaczenie godzin stanowiących różnicę między sumą godzin obowiązkowych zajęć edukacyjnych z zakresu kształcenia zawodowego a minimalną liczbą godzin kształcenia zawodowego dla kwalifikacji wyodrębnionych w zawodzie określoną w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w szczególności na przygotowanie uczniów do uzyskania dodatkowych umiejętności zawodowych, kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji lub dodatkowych uprawnień zawodowych, f) tygodniowy, a w przypadku szkół prowadzących zajęcia w formie zaocznej - semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły, g) warunki i sposób realizacji zajęć edukacyjnych - uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, potrzebę dostosowania oferty edukacyjnej szkół do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2, oraz możliwość przygotowania uczniów do uzyskania umiejętności przydatnych do wykonywania określonego zawodu; ” ,
 
-3. (uchylony)
+- - uchyla się pkt 4,
 
-4. (uchylony)
+### b)
 
-5. Z dniem 1 marca 2028 r. okręgowe komisje egzaminacyjne zaprzestają prowadzenia ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie.
+po ust. 1 dodaje się ust. 1a w brzmieniu:
 
-**Art. 123.**
+„
 
-1. Z dniem 1 września 2019 r. arbitrzy wpisani na listę arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stają się również arbitrami w zakresie egzaminu zawodowego w zawodach odpowiadających zawodom, w zakresie których był dokonany dotychczasowy wpis na listę.
+### 1a.
 
-2. Przepis ust. 1 stosuje się również do arbitrów wpisanych na listę arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2, ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, z zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jeżeli zakres zawodu lub kwalifikacji określonej w tych przepisach odpowiada zakresowi zawodu lub kwalifikacji określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia, ramowe plany nauczania dla poszczególnych typów szkół i placówek artystycznych, w tym:
 
-3. Do dnia 29 lutego 2028 r. do arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, stosuje się przepisy dotychczasowe oraz przepisy wydane na podstawie art. 9cc ustawy zmienianej w art. 2.
+### 1)
 
-4. W rozporządzeniu, o którym mowa w przepisach wydanych na podstawie art. 9cc ustawy zmienianej w art. 2, minister właściwy do spraw oświaty i wychowania, określi również:
+tygodniowy, a w przypadku policealnej szkoły artystycznej - semestralny, wymiar godzin obowiązkowych zajęć edukacyjnych,
 
-- **1)** tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym;
-- **2)** stawki za jedno zadanie egzaminacyjne rozpatrzone w ramach odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, przez arbitrów i egzaminatorów, o których mowa w art. 9cb ust. 6, ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, oraz sposób i tryb zwrotu kosztów przejazdu i zakwaterowania tych arbitrów i egzaminatorów;
-- **3)** wzór wniosku o wpis na listę arbitrów oraz wykaz dokumentów, które dołącza się do tego wniosku, biorąc pod uwagę konieczność wykazania przez osobę składającą wniosek spełnienia warunków, o których mowa w art. 9ca ust. 3–6 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, oraz zapewnienie możliwości weryfikacji spełnienia przez tę osobę tych warunków.
+### 2)
 
-5. Z dniem 1 marca 2028 r. minister właściwy do spraw oświaty i wychowania zaprzestaje prowadzenia listy arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+minimalny tygodniowy wymiar godzin zajęć rewalidacyjnych dla uczniów niepełnosprawnych,
 
-**Art. 124.**
+### 3)
 
-1. Do uczniów dotychczasowego czteroletniego technikum, którzy rozpoczęli kształcenie w latach szkolnych 2017/2018 i 2018/2019 stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., z tym że ocenianie osiągnięć edukacyjnych uczniów odbywa się w odniesieniu do wymagań określonych w podstawie programowej kształcenia ogólnego określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz efektów kształcenia określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+maksymalny tygodniowy wymiar i przeznaczenie godzin, które organ prowadzący może dodatkowo przyznać w roku szkolnym na realizację zajęć edukacyjnych, w szczególności dodatkowych zajęć edukacyjnych i zajęć z języka migowego, lub na zwiększenie liczby godzin wybranych obowiązkowych zajęć edukacyjnych,
 
-2. Do uczniów dotychczasowego czteroletniego technikum, którzy rozpoczęli kształcenie w roku szkolnym 2019/2020 stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., z tym że ocenianie osiągnięć edukacyjnych uczniów odbywa się w odniesieniu do wymagań określonych w podstawie programowej kształcenia ogólnego określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz efektów kształcenia i kryteriów weryfikacji określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepisy art. 44o i art. 44q ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+### 4)
 
-3. Do uczniów branżowej szkoły I stopnia będących absolwentami dotychczasowego gimnazjum, którzy rozpoczęli kształcenie w latach szkolnych 2017/2018 i 2018/2019, stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+tygodniowy, a w przypadku policealnej szkoły artystycznej - semestralny, wymiar i przeznaczenie godzin do dyspozycji dyrektora szkoły,
 
-4. Do uczniów dotychczasowych szkół policealnych dla dzieci i młodzieży oraz słuchaczy szkół policealnych dla dorosłych stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+### 5)
 
-**Art. 125.** Komunikat dyrektora Centralnej Komisji Egzaminacyjnej, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, dotyczy egzaminu zawodowego, o którym mowa w rozdziale 3b, w brzmieniu nadanym niniejszą ustawą, przeprowadzanego dla zdających, o których mowa w art. 44zzzb ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz zdających, o których mowa w art. 131 ust. 2.
+warunki i sposób realizacji zajęć edukacyjnych
 
-**Art. 126.** (uchylony)
+- uwzględniając zakres celów kształcenia i treści nauczania określonych w podstawie programowej kształcenia ogólnego lub podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego, potrzebę dostosowania oferty edukacyjnej szkół i placówek artystycznych do potrzeb i zainteresowań uczniów oraz potrzeb rynku pracy, a także realizację zajęć edukacyjnych, o których mowa w art. 109 ust. 2.
 
-**Art. 127.**
+” ,
 
-1. Począwszy od roku szkolnego 2021/2022 do absolwenta, o którym mowa w art. 297 ust. 2 pkt 2 i 3 ustawy zmienianej w art. 41, stosuje się przepis art. 44zzd ust. 4b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+### c)
 
-2. Absolwent, o którym mowa w ust. 1, spełniający warunek, o którym mowa w art. 44zzd ust. 4b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, zdał egzamin maturalny, jeżeli z każdego przedmiotu obowiązkowego w części ustnej i w części pisemnej otrzymał co najmniej 30% punktów możliwych do uzyskania.
+w ust. 4 wyrazy „kształcenia w zawodach” zastępuje się wyrazami „podstawy programowej kształcenia w zawodzie szkolnictwa branżowego”,
 
-3. Absolwent, o którym mowa w ust. 1, który nie przystąpił do egzaminu maturalnego z co najmniej jednego przedmiotu dodatkowego w części pisemnej, może otrzymać świadectwo dojrzałości wydane przez okręgową komisję egzaminacyjną, jeżeli w okresie 5 lat od pierwszego egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, spełnił warunek, o którym mowa w art. 44zzd ust. 4b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+### d)
 
-4. Po upływie 5 lat od daty pierwszego przystąpienia do egzaminu maturalnego, licząc od października roku, w którym absolwent przystąpił do egzaminu maturalnego po raz pierwszy, absolwent, o którym mowa w ust. 1, przystępuje do egzaminu maturalnego w pełnym zakresie, zgodnie z przepisami obowiązującymi w roku, w którym ponownie przystępuje do egzaminu maturalnego.
+po ust. 4 dodaje się ust. 4a w brzmieniu:
 
-**Art. 127a.**
+„
 
-1. Do egzaminu maturalnego przeprowadzanego dla absolwentów, o których mowa w art. 297 ust. 2 i art. 297a ustawy zmienianej w art. 41, stosuje się przepis art. 44zzq i art. 44zzra ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+### 4a.
 
-**Art. 128.** Upoważnienia udzielone przez dyrektora okręgowej komisji egzaminacyjnej na podstawie art. 9c ust. 2 pkt 9 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, do przeprowadzenia części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie oraz części pisemnej tego egzaminu z wykorzystaniem systemu elektronicznego pozostają w mocy przez okres, na jaki zostały udzielone.
+W rozporządzeniu, o którym mowa w ust. 1a, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania może określić przypadki, w których uczniowi można przedłużyć oraz skrócić okres nauki w szkole artystycznej, biorąc pod uwagę konieczność realizacji w tym okresie podstawy programowej kształcenia ogólnego lub podstawy programowej kształcenia w zawodzie szkolnictwa artystycznego.
 
-**Art. 129.**
+” ,
 
-1. Osoby, które po dniu 31 stycznia 2021 r. po raz pierwszy złożą wniosek o dopuszczenie do egzaminu eksternistycznego zawodowego z zakresu co najmniej jednej z kwalifikacji wyodrębnionych w danym zawodzie, przystępują do egzaminu eksternistycznego zawodowego z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminów eksternistycznych zawodowych ze wszystkich kwalifikacji wyodrębnionych w tym zawodzie, przeprowadzanych na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### e)
 
-2. Osoby, które w okresie od dnia 31 stycznia 2019 r. do dnia 31 stycznia 2021 r. po raz pierwszy złożą wniosek o dopuszczenie do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu co najmniej jednej z kwalifikacji wyodrębnionych w danym zawodzie, przystępują, do dnia 31 sierpnia 2028 r., do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację – egzaminów eksternistycznych potwierdzających kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w tym zawodzie, przeprowadzanych na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+ust. 5 otrzymuje brzmienie:
 
-3. Do dnia 31 sierpnia 2028 r. do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przystępują także osoby, o których mowa w art. 11 ust. 3–5 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933), w przypadku gdy przystępują do tego egzaminu zgodnie z art. 44zzzu ust. 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym. Przepisu ust. 1 nie stosuje się.
+„
 
-**Art. 129a.** Przepis art. 2 pkt 40 lit. a w zakresie art. 44q ust. 1 pkt 4 lit. b stosuje się począwszy od roku szkolnego 2019/2020 do uczniów rozpoczynających kształcenie w branżowej szkole I stopnia.
+### 5.
 
-**Art. 130.**
+W rozporządzeniu, o którym mowa w ust. 3 pkt 1, minister właściwy do spraw oświaty i wychowania może wyłączyć stosowanie niektórych przepisów niniejszej ustawy, ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych w odniesieniu do szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, oraz szkół polskich, w zakresie wynikającym ze szczególnych warunków funkcjonowania tych szkół, zespołów szkół i szkół polskich, a także wprowadzić w tym zakresie odrębne unormowania.
 
-1. Do egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2–6, oraz z uwzględnieniem art. 3 ustawy z dnia 25 kwietnia 2019 r. o zmianie ustawy o systemie oświaty i ustawy – Prawo oświatowe (Dz. U. poz. 761) i art. 19 ust. 2 pkt 3 ustawy z dnia 12 maja 2022 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1116, z 2023 r. poz. 2005 oraz z 2024 r. poz. 1933) oraz art. 14 i art. 15 ust. 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
+” ;
 
-2. W przeprowadzaniu części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
+### 25)
 
-3. Do asystentów technicznych, biorących udział w przeprowadzaniu części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 9c ust. 10a, 11 i 13 oraz art. 44zzzia ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+w art. 51 w ust. 1:
 
-4. W przepisach wydanych na podstawie art. 44zzzv ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania, określi również szczegółowe warunki i sposób przeprowadzania:
+### a)
 
-- **1)** egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, z uwzględnieniem przepisów ust. 2 i 3, w odniesieniu do uczniów, słuchaczy, absolwentów i osób, o których mowa w art. 131 ust. 1, egzaminatorów, o których mowa w art. 122, oraz asystentów technicznych, o których mowa w ust. 3, oraz
-- **2)** egzaminu zawodowego w odniesieniu do uczniów, o których mowa w art. 131 ust. 2 pkt 1.
+w pkt 4 lit. a otrzymuje brzmienie:
 
-5. W przeprowadzaniu części pisemnej oraz części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w ust. 1, w której do wykonania zadania lub zadań egzaminacyjnych jest niezbędne wykorzystanie komputera, może brać udział operator pracowni informatycznej.
+„
 
-6. Do operatora pracowni informatycznej, o którym mowa w ust. 5, stosuje się przepisy art. 9c ust. 9, 10a i 13, art. 9fa ust. 2 pkt 3a i art. 44zzzib ustawy zmienianej w art. 2, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, a także przepisy wydane na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 2, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, w związku z art. 16 ust. 2 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
+### a)
 
-**Art. 131.**
+organów jednostek samorządu terytorialnego - w sprawach publicznych szkół i placówek, zakładanych i prowadzonych przez osoby prawne i osoby fizyczne, oraz niepublicznych szkół i placówek,
 
-1. Egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1, jest przeprowadzany dla:
+” ,
 
-- **1)** uczniów dotychczasowego czteroletniego technikum, w tym uczniów, o których mowa w art. 302 ust. 1 i 3 ustawy zmienianej w art. 41, w brzmieniu nadanym niniejszą ustawą, branżowej szkoły I stopnia, szkoły policealnej oraz słuchaczy szkoły policealnej, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym;
-- **2)** absolwentów dotychczasowego czteroletniego technikum, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – do zakończenia roku szkolnego 2026/2027;
-- **3)** absolwentów branżowej szkoły I stopnia, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – do zakończenia roku szkolnego 2025/2026;
-- **4)** absolwentów szkoły policealnej, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – do zakończenia roku szkolnego 2025/2026;
-- **5)** osób, które ukończyły kwalifikacyjny kurs zawodowy prowadzony w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – do dnia 31 października 2027 r.;
-- **6)** osób dorosłych, które ukończyły praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, o których mowa odpowiednio w art. 53c i art. 53d ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm. ), jeżeli program przyuczenia do pracy uwzględniał wymagania określone w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – do dnia 31 października 2027 r.
+### b)
 
-2. Do egzaminu zawodowego przeprowadzanego zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przystępują:
+po pkt 15 dodaje się pkt 15a w brzmieniu:
 
-- **1)** uczniowie dotychczasowego czteroletniego technikum, którzy realizowali podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony)
-- **7)** (uchylony)
+„
 
-**Art. 132.** Komunikat w sprawie wykazu turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, o którym mowa w art. 44zzzw ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, uprawniających do zwolnienia z przystąpienia do części pisemnej egzaminu zawodowego, przeprowadzanego począwszy od roku szkolnego 2019/2020, minister właściwy do spraw oświaty i wychowania ogłosi w Biuletynie Informacji Publicznej do dnia 1 września 2019 r.
+### 15a)
 
-**Art. 132a.** Stypendium Prezesa Rady Ministrów, o którym mowa w art. 90h ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, może być przyznane dwóm uczniom, spełniającym warunki określone w art. 90h ust. 1 i 2 tej ustawy, uczęszczającym:
+koordynuje organizację dokształcania teoretycznego uczniów będących młodocianymi pracownikami;
 
-**Art. 133.**
+” ;
 
-1. Do dnia 31 sierpnia 2028 r. w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie stosuje się przepisy art. 20 pkt 1, art. 30 pkt 5, art. 42 pkt 10 i art. 55 ust. 1 i 2 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą.
+### 26)
 
-2. Do dnia 31 sierpnia 2028 r. w ramach danych, o których mowa w art. 20 pkt 2 lit. b ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, w bazie danych systemu informacji oświatowej gromadzi się dane dotyczące uzyskania świadectwa potwierdzającego kwalifikację w zawodzie po zdaniu egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie.
+w art. 53:
 
-3. Do dnia 31 sierpnia 2028 r. w ramach danych, o których mowa w art. 20 pkt 3 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, w bazie danych systemu informacji oświatowej gromadzi się informację o uzyskaniu dyplomu potwierdzającego kwalifikacje zawodowe.
+### a)
 
-4. W przepisach wydanych na podstawie art. 31 ust. 1 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania określi również szczegółowy zakres danych dziedzinowych gromadzonych w systemie informacji oświatowej w zbiorach danych szkół i placówek oświatowych, zbiorach danych jednostek, zbiorach danych uczniów i zbiorach danych nauczycieli oraz terminy przekazywania do bazy danych systemu informacji oświatowej danych, o których mowa w art. 20 pkt 1 ustawy zmienianej w art. 31, w brzmieniu dotychczasowym.
+ust. 1 i 1a otrzymują brzmienie:
 
-**Art. 134.** W okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2021 r., w terminie do dnia 10 października każdego roku kalendarzowego, według stanu za poprzedni rok szkolny, okręgowe komisje egzaminacyjne przekazują do systemu informacji oświatowej dane o liczbie:
+„
 
-**Art. 135.** Do dnia 1 września 2022 r. w ramach danych, o których mowa w art. 29 ust. 2 pkt 3 ustawy zmienianej w art. 31, oraz art. 43 ust. 2 pkt 3 ustawy zmienianej w art. 31, w brzmieniu dotychczasowym, gromadzi się i przekazuje się dane rzeczoznawców w zakresie dotyczącym rzeczoznawców do spraw podręczników do kształcenia w zawodach.
+### 1.
 
-**Art. 136.**
+Nadzór pedagogiczny nad publicznymi i niepublicznymi szkołami i placówkami artystycznymi, placówkami, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych oraz placówkami doskonalenia nauczycieli szkół artystycznych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, który w tym celu, a także w celu realizacji zadań organu prowadzącego w odniesieniu do szkół i placówek przez siebie prowadzonych, tworzy, w drodze rozporządzenia, specjalistyczną jednostkę nadzoru oraz określa jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego oraz zadań organu prowadzącego.
 
-1. Egzamin czeladniczy, o którym mowa w art. 3 ust. 3b ustawy zmienianej w art. 7, w brzmieniu dotychczasowym, dla:
+### 1a.
 
-- **1)** uczniów dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia, będących młodocianymi pracownikami, o których mowa w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm. ), odbywających przygotowanie zawodowe u pracodawcy będącego rzemieślnikiem, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
-- **2)** absolwentów dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia, którzy odbyli przygotowanie zawodowe u pracodawcy będącego rzemieślnikiem zgodnie z przepisami wydanymi na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym – jest przeprowadzany do zakończenia roku szkolnego 2025/2026.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w ust. 1, również zadania placówki doskonalenia nauczycieli szkół artystycznych.
 
-2. Egzamin czeladniczy, o którym mowa w art. 3 ust. 3b ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą, jest przeprowadzany począwszy od roku szkolnego 2021/2022, dla osób, które realizowały od roku szkolnego 2019/2020 podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+” ,
 
-**Art. 137.**
+### b)
 
-1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu zawodowego oraz egzaminów eksternistycznych:
+po ust. 1a dodaje się ust. 1b-1f w brzmieniu:
 
-- **1)** w 2019 r. – 256 mln zł;
-- **2)** w 2020 r. – 239 mln zł;
-- **3)** w 2021 r. – 247 mln zł;
-- **4)** w 2022 r. – 260 mln zł;
-- **5)** w 2023 r. – 269 mln zł;
-- **6)** w 2024 r. – 358 mln zł.
-- **7)** (uchylony)
-- **8)** (uchylony)
-- **9)** (uchylony)
-- **10)** (uchylony)
+„
 
-2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
+### 1b.
 
-3. W przypadku gdy łączne wydatki budżetu państwa na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu zawodowego oraz egzaminów eksternistycznych powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, minister właściwy do spraw oświaty i wychowania określa warunki wynagradzania egzaminatorów i nauczycieli akademickich biorących udział w przeprowadzaniu części ustnej egzaminu maturalnego, oraz egzaminatorów i asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie i egzaminu zawodowego, określone na podstawie przepisów wydanych na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w związku z art. 122 ust. 4, w sposób powodujący wyeliminowanie zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1.
+Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, sprawuje nadzór pedagogiczny również w formie badania jakości kształcenia artystycznego w szkołach artystycznych, w szczególności przeprowadzając przesłuchania muzyczne, przeglądy plastyczne i baletowe oraz testy w zakresie przedmiotów teoretycznych dla uczniów publicznych szkół artystycznych oraz niepublicznych szkół artystycznych o uprawnieniach publicznej szkoły artystycznej. Badanie jakości kształcenia artystycznego ma na celu w szczególności ocenę poziomu osiągania przez uczniów efektów kształcenia artystycznego, określonych w przepisach wydanych na podstawie art. 46a ust. 2.
 
-**Art. 138.**
+### 1c.
 
-1. Ustala się następujący maksymalny limit wydatków z Funduszu Pracy przeznaczonych na realizację zadania, o którym mowa w art. 122 ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw:
+W celu przeprowadzenia badania jakości kształcenia artystycznego, dyrektor specjalistycznej jednostki nadzoru, o której mowa w ust. 1, powołuje komisje składające się z nauczycieli szkół artystycznych, nauczycieli akademickich lub artystów o uznanym dorobku artystycznym w zakresie właściwym dla danego zawodu szkolnictwa artystycznego, z zastrzeżeniem przepisów wydanych na podstawie ust. 1e pkt 2.
 
-- **1)** w 2019 r. – 0 mln zł;
-- **2)** w 2020 r. – 0 mln zł;
-- **3)** w 2021 r. – 0 mln zł;
-- **4)** w 2022 r. – 254 mln zł;
-- **5)** w 2023 r. – 124 mln zł;
-- **6)** w 2024 r. – 129 mln zł;
-- **7)** w 2025 r. – 184 mln zł;
-- **8)** w 2026 r. – 184 mln zł;
-- **9)** w 2027 r. – 75 mln zł;
-- **10)** w 2028 r. – 129 mln zł.
+### 1d.
 
-2. Minister właściwy do spraw pracy monitoruje wykorzystanie limitów wydatków na zadanie, o których mowa w ust. 1 oraz, w razie potrzeby, wdraża mechanizm korygujący, o którym mowa w ust. 3.
+Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza do dnia 15 czerwca w Biuletynie Informacji Publicznej, regulaminy poszczególnych form badania jakości kształcenia artystycznego przeprowadzanych w kolejnym roku szkolnym, w których określa w szczególności:
 
-3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw pracy zastosuje mechanizm korygujący polegający na obniżeniu wysokości kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w art. 122 ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, w sposób powodujący wyeliminowanie zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1 do wysokości nie niższej niż wysokość określona w art. 122 ust. 2 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw.
+### 1)
 
-4. Minister właściwy do spraw pracy ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” kwotę dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w art. 122 ust. 2 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw, pomniejszoną zgodnie z ust. 3.
+zakres danej formy badania jakości kształcenia artystycznego;
 
-**Art. 139.**
+### 2)
 
-1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadania związanego z awansem zawodowym nauczycieli szkół za granicą, o którym mowa w rozdziale 3b ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą:
+szczegółowe zasady i terminy przeprowadzania badania jakości kształcenia artystycznego w danej formie;
 
-- **1)** w 2021 r. – 3 mln zł;
-- **2)** w 2022 r. – 3,5 mln zł;
-- **3)** w 2023 r. – 3,5 mln zł;
-- **4)** w 2024 r. – 3,5 mln zł;
-- **5)** w 2025 r. – 3,5 mln zł;
-- **6)** w 2026 r. – 4 mln zł;
-- **7)** w 2027 r. – 4,5 mln zł;
-- **8)** w 2028 r. – 4,5 mln zł;
-- **9)** w 2029 r. – 3 mln zł;
-- **10)** w 2030 r. – 2 mln zł.
+### 3)
 
-2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizm korygujący, o którym mowa w ust. 3.
+tryb i termin zgłaszania uczniów do uczestnictwa w badaniu jakości kształcenia artystycznego w danej formie.
 
-3. W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania zastosuje mechanizm korygujący polegający na zmianie kosztów realizacji zadania, o którym mowa w rozdziale 3b ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
+### 1e.
 
-**Art. 140.**
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
 
-1. Do postępowań w sprawie dokonania oceny pracy nauczyciela, wszczętych po dniu 31 sierpnia 2018 r. i niezakończonych przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
+### 1)
 
-2. Do postępowań w sprawie dokonania oceny pracy nauczycieli, którzy w okresie od dnia 1 września 2018 r. do dnia 31 grudnia 2018 r. zakończyli staż na kolejny stopień awansu zawodowego, stosuje się przepisy dotychczasowe.
+tryb i formy badania jakości kształcenia artystycznego, o którym mowa w ust. 1b,
 
-**Art. 141.** (uchylony)
+### 2)
 
-**Art. 142.** (uchylony)
+skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego
 
-**Art. 143.** Ze środków, o których mowa w art. 70a ust. 4 ustawy zmienianej w art. 6, można finansować również koszty obniżenia tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych nauczycielom, którym powierzono zadania doradcy metodycznego przed dniem 1 stycznia 2019 r. do końca okresu, na który zostały powierzone.
+- uwzględniając wymogi sprawności, skuteczności i efektywności badania jakości kształcenia artystycznego w szkołach artystycznych, o których mowa w ust. 1b.
 
-**Art. 143a.** W przypadku nauczycieli teoretycznych przedmiotów zawodowych i nauczycieli praktycznej nauki zawodu, którzy do dnia 31 sierpnia 2020 r. zostali zatrudnieni w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy zmienianej w art. 1, oraz w placówkach i centrach, o których mowa w art. 2 pkt 4 ustawy zmienianej w art. 1, pierwszy cykl szkolenia branżowego, o którym mowa w art. 70c ust. 1 ustawy zmienianej w art. 6, w łącznym wymiarze 40 godzin, wynosi 4 lata.
+### 1f.
 
-**Art. 144.**
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1e, może określić:
 
-1. Prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnia się po raz pierwszy w podziale części oświatowej subwencji ogólnej między poszczególne jednostki samorządu terytorialnego na 2020 r. przy różnicowaniu kwot ustalanych na uczniów objętych kształceniem zawodowym.
+### 1)
 
-2. W 2019 r. prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza nie później niż do dnia 31 marca 2019 r.
+tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
 
-**Art. 144a.** Przepisy art. 191 § 2 –2 i art. 191 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio również do uczniów i absolwentów dotychczasowych gimnazjów.
+### 2)
 
-**Art. 145.**
+przypadki, w których komisję przeprowadzającą badanie jakości kształcenia artystycznego może powołać dyrektor szkoły artystycznej.
 
-1. Osoby dorosłe, które rozpoczęły przygotowanie zawodowe dorosłych w formie praktycznej nauki zawodu dorosłych przed dniem 1 września 2019 r., zgodnie z programem praktycznej nauki zawodu dorosłych uwzględniającym wymagania określone w podstawie programowej kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, kontynuują tę naukę na dotychczasowych zasadach do dnia 31 października 2022 r.
+” ,
 
-2. Osoby dorosłe, które rozpoczęły przygotowanie zawodowe dorosłych w formie przyuczenia do pracy dorosłych przed dniem 1 września 2019 r., zgodnie z programem przyuczenia do pracy dorosłych uwzględniającym wymagania określone w podstawie programowej kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, kontynuują to przyuczenie na dotychczasowych zasadach do dnia 31 października 2022 r.
+### c)
 
-3. Do osób, o których mowa w ust. 1 i 2, stosuje się przepisy art. 2 ust. 1 pkt 27a lit. b i c, art. 53a ust. 2 pkt 1, art. 53c, art. 53d ust. 1 i 3 i ust. 4 pkt 2, art. 53h ust. 1 i 2 oraz art. 53l ust. 1 pkt 5 i ust. 2 ustawy zmienianej w art. 25, w brzmieniu dotychczasowym.
+w ust. 5 wyrazy „art. 47 ust. 1 pkt 2, 3 lit. a, b, d, e i f oraz pkt 6 i 7” zastępuje się wyrazami „art. 47 ust. 1 pkt 6 i 7”,
 
-**Art. 146.**
+### d)
 
-1. Przepisy art. 69 ust. 2 pkt 2a i 3a oraz art. 70 ust. 3 pkt 3 i 4 i ust. 4 ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą ustawą, oraz przepisy art. 69 ust. 2 pkt 2 i 3 ustawy zmienianej w art. 46, stosuje się do uchwał senatów uczelni ustalających warunki i tryb rekrutacji na studia, poczynając od uchwały dotyczącej roku akademickiego 2022/2023.
+uchyla się ust. 6;
 
-2. W ramach rekrutacji na studia na rok akademicki 2020/2021 i 2021/2022 uczelnia może przeprowadzić dodatkowo egzaminy wstępne tylko w przypadku konieczności sprawdzenia uzdolnień artystycznych, sprawności fizycznej lub szczególnych predyspozycji do podejmowania studiów niesprawdzanych w trybie egzaminu maturalnego. Egzaminy te nie mogą dotyczyć przedmiotów objętych egzaminem maturalnym. Przepisy art. 70 ust. 4 zdanie trzecie i czwarte ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą, ustawą stosuje się.
+### 27)
 
-3. Przepisy ust. 2 oraz art. 70 ust. 3 pkt 1 i 2 oraz zdanie drugie, ust. 4a i 5 ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą ustawą, stosuje się do uchwał senatów uczelni ustalających warunki i tryb rekrutacji na studia, poczynając od uchwały dotyczącej roku akademickiego 2020/2021.
+w art. 60:
 
-**Art. 147.**
+### a)
 
-1. Do kandydatów i uczniów dotychczasowego czteroletniego technikum oraz branżowej szkoły I stopnia będących absolwentami dotychczasowego gimnazjum, którzy realizują podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą.
+ust. 6 otrzymuje brzmienie:
 
-2. Do uczniów szkół, o których mowa w art. 94 ust. 4, którzy realizują podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oraz do uczniów, o których mowa w art. 282 ust. 2 i art. 283 ustawy zmienianej w art. 41, którzy realizują podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., stosuje się przepisy ustawy zmienianej w art. 30, w brzmieniu dotychczasowym.
+„
 
-**Art. 148.**
+### 6.
 
-1. W rozporządzeniach, o których mowa w przepisach wydanych na podstawie art. 69 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, określając wymagania, o których mowa w art. 69 ust. 1 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw środowiska uwzględnia również klasyfikację zawodów szkolnictwa zawodowego.
+Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może powierzyć podległej sobie jednostce organizacyjnej sprawowanie nadzoru pedagogicznego nad szkołami polskimi oraz szkołami i zespołami szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, a także wykonywanie w odniesieniu do nich zadań organu prowadzącego, o których mowa w art. 10 ust. 1 pkt 1-6, oraz zadań związanych z awansem zawodowym nauczycieli tych szkół, o którym mowa w ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela.
 
-2. W rozporządzeniach, o których mowa w przepisach wydanych na podstawie art. 69a ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, określając wymagania, o których mowa w art. 69a ust. 1 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw środowiska uwzględnia również klasyfikację zawodów szkolnictwa zawodowego.
+” ,
 
-**Art. 149.** Przepisy art. 4a ust. 1, 2 i 4 ustawy zmienianej w art. 38, w brzmieniu nadanym niniejszą ustawą, stosuje się również do:
+### b)
 
-**Art. 150.** Do dotacji udzielanych na rok budżetowy 2020 i 2021 dla publicznych branżowych szkół II stopnia, będących szkołami specjalnymi, przyjmuje się wskaźnik zwiększający, o którym mowa w art. 14 ust. 2 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, w wysokości ustalonej przez daną jednostkę samorządu terytorialnego dla publicznych pięcioletnich techników, będących szkołami specjalnymi.
+po ust. 6 dodaje się ust. 6a w brzmieniu:
 
-**Art. 151.** Przepisu art. 22 ust. 3 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do regulaminów otwartych konkursów ofert oraz kryteriów wyboru tych ofert, określonych w uchwałach rady gminy podjętych na podstawie art. 22 ust. 3 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, ogłoszonych przed dniem 1 stycznia 2019 r.
+„
 
-**Art. 152.** Do dotacji udzielonych na podstawie art. 80 i art. 90 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 stycznia 2018 r., przepis art. 36 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+### 6a.
 
-**Art. 153.** Uchwały rady gminy podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 52 ust. 1 ustawy zmienianej w art. 44, określające wysokość opłat za korzystanie z wychowania przedszkolnego zgodnie z art. 52 ust. 3 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 52 ust. 1 ustawy zmienianej w art. 44, określających wysokość opłat za korzystanie z wychowania przedszkolnego zgodnie z art. 52 ust. 3 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą.
+Przepisy dotyczące wydawania decyzji w sprawach nadania albo odmowy nadania stopnia awansu zawodowego nauczycielom szkół polskich oraz szkół i zespołów szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c, przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o której mowa w przepisach wydanych na podstawie ust. 6. Do decyzji podjętych przez kierownika tej jednostki stosuje się odpowiednio przepis art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
-**Art. 154.** Do dnia 31 grudnia 2022 r. dotacje, o których mowa w art. 25 ust. 5 i art. 26 ust. 5 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, szkoły policealne otrzymują również na każdego słuchacza, który uzyskał dyplom potwierdzający kwalifikacje zawodowe. Przepisy ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+” ;
 
-**Art. 155.** Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe szkoły ponadgimnazjalne i szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnych kursów zawodowych przed dniem 1 stycznia 2019 r., otrzymują dotację, o której mowa w art. 31 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, do dnia 31 grudnia 2023 r. Przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+### 28)
 
-**Art. 156.**
+w art. 61 wyrazy „oraz szkolnego punktu konsultacyjnego, o którym mowa w art. 8 ust. 5 pkt 1 lit. a,” zastępuje się wyrazami „i szkoły polskiej”;
 
-1. Dotychczasowe niepubliczne szkoły ponadgimnazjalne i niepubliczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości stanowiącej sumę kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczył w kursie, oraz kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin.
+### 29)
 
-2. Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+w art. 63 ust. 16 otrzymuje brzmienie:
 
-**Art. 157.**
+„
 
-1. Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe publiczne szkoły ponadgimnazjalne i publiczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. pkt 2 ustawy zmienianej w art. 1, otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym słuchacz ukończył ten kurs.
+### 16.
 
-2. Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+Jeżeli w składzie komisji konkursowej łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, byłaby mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, liczbę przedstawicieli tych organów zwiększa się proporcjonalnie, tak aby ich łączna liczba nie była mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, uwzględniając udział przedstawicieli organu sprawującego nadzór pedagogiczny w liczbie równej liczbie przedstawicieli organu prowadzącego szkołę lub placówkę.
 
-**Art. 158.** Uchwały organu stanowiącego jednostki samorządu terytorialnego podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 39 ust. 2 pkt 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc.
+” ;
 
-**Art. 159.**
+### 30)
 
-1. Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe publiczne szkoły ponadgimnazjalne i publiczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r. lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. pkt 2 ustawy zmienianej w art. 1, otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczy w tym kursie. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym rozpoczyna się ten kurs.
+w art. 68:
 
-2. Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym art. 31 ust. 1, stosuje się odpowiednio.
+### a)
 
-**Art. 160.** Do szkół niepublicznych nieposiadających uprawnień szkoły publicznej działających przed dniem 1 września 2019 r. przepis art. 32 ust. 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, stosuje się do czasu zakończenia kształcenia w tej szkole.
+ust. 7 otrzymuje brzmienie:
 
-**Art. 161.** Niepubliczne szkoły artystyczne o uprawnieniach szkół publicznych stają się z dniem 1 września 2019 r. niepublicznymi szkołami artystycznymi o uprawnieniach publicznych szkół artystycznych.
+„
 
-**Art. 162.** Do podziału części oświatowej subwencji ogólnej na 2019 r. przyjmuje się dane zgromadzone w systemie informacji oświatowej, o którym mowa w art. 105 ustawy zmienianej w art. 31.
+### 7.
 
-**Art. 163.** Do podziału części oświatowej subwencji ogólnej na 2022 r. nie uwzględnia się liczby słuchaczy, niebędących słuchaczami niepełnosprawnymi, którzy uzyskali świadectwo dojrzałości lub certyfikat kwalifikacji zawodowej w branżowej szkole II stopnia, niebędącej szkołą specjalną, o których mowa w art. 28 ust. 6 pkt 7 ustawy zmienianej w art. 23, w brzmieniu nadanym niniejszą ustawą.
+Dyrektor szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej, w porozumieniu z organem prowadzącym szkołę ustala zawody, w których kształci szkoła, po:
 
-**Art. 164.** W przypadku dotacji, o których mowa w art. 15– 21, art. 25, art. 26 oraz art. 28–32 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, udzielanych na rok 2019, warunek, o którym mowa w art. 33 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, jest spełniony przez przekazanie informacji i danych, o których mowa w art. 31 ust. 1 pkt 1 i 2 oraz art. 33 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym.
+### 1)
 
-**Art. 165.** Uchwały organu stanowiącego jednostki samorządu terytorialnego podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 38 ust. 1 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 38 ust. 1 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą.
+uzyskaniu opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, oraz
 
-**Art. 166.**
+### 2)
 
-1. Osoby prawne niebędące jednostkami samorządu terytorialnego i osoby fizyczne, prowadzące niepubliczne szkoły, w tym niepubliczne szkoły artystyczne, lub niepubliczne placówki, które uzyskały wpis do ewidencji, o którym mowa w art. 168 ust. 1 i 2 ustawy zmienianej w art. 1, przed dniem 1 stycznia 2019 r., zgłoszą właściwemu organowi, o którym mowa art. 168 ust. 1 i 2 ustawy zmienianej w art. 1, w terminie do dnia 28 lutego 2019 r., zmiany w danych zawartych w zgłoszeniu, jeżeli dane te nie zawierają informacji, o których mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+nawiązaniu współpracy odpowiednio z pracodawcą lub osobą prowadzącą indywidualne gospodarstwo rolne, których działalność jest związana z danym zawodem lub branżą, w ramach umowy, porozumienia lub ustaleń, o których mowa w art. 120a ust. 1, obejmujących co najmniej jeden cykl kształcenia w danym zawodzie.
 
-2. W przypadku zgłoszenia do ewidencji, o którym mowa w art. 168 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożonego i nierozpatrzonego przed dniem 1 stycznia 2019 r., osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r. dostosuje zgłoszenie do art. 168 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i przedłoży je właściwemu organowi, o którym mowa w art. 168 ust. 1 i 2 ustawy zmienianej w art. 1.
+” ,
 
-3. Osoby prawne niebędące jednostkami samorządu terytorialnego i osoby fizyczne prowadzące niepubliczne szkoły, w tym niepubliczne szkoły artystyczne, lub niepubliczne placówki, które posiadają inne lokalizacje prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych niespełniające warunków zawartych w art. 168 ust. 4 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 sierpnia 2020 r. dostosują organizację niepublicznej szkoły, w tym niepublicznej szkoły artystycznej, lub niepublicznej placówki do przepisów w art. 168 ust. 4 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. W tym przypadku zastosowanie mają przepisy art. 168 ust. 13 ustawy zmienianej w art. 1.
+### b)
 
-**Art. 167.** Minister właściwy do spraw oświaty i wychowania w przepisach wykonawczych wydanych na podstawie art. 164 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może zakresem spraw objąć również dotychczasową szkołę policealną dla dzieci i młodzieży oraz dotychczasową szkołę policealną dla dorosłych.
+po ust. 7 dodaje się ust. 7a-7d w brzmieniu:
 
-**Art. 168.**
+„
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 111, art. 117 ust. 5 i art. 120 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia kształcenia w dotychczasowej szkole policealnej dla dzieci i młodzieży oraz dotychczasowej szkole policealnej dla dorosłych, oraz mogą być zmieniane na podstawie tych przepisów.
+### 7a.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 44zb ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia kształcenia przez uczniów i słuchaczy, o których mowa w art. 124 ust. 3 i 4.
+Opinia wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie, o której mowa w ust. 7 pkt 1, nie jest wymagana w przypadku:
 
-**Art. 169.**
+### 1)
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 47 ust. 1 pkt 2 w związku z art. 53 ust. 5, art. 47 ust. 1 pkt 3 i 4 oraz ust. 3 pkt 1, art. 47 ust. 1 pkt 3 w związku z art. 53 ust. 5, art. 53 ust. 1, art. 60 ust. 6, art. 113, art. 162 oraz art. 164 ust. 5 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46a ust. 2, art. 47 ust. 1 pkt 3, art. 26a ust. 3, art. 47 ust. 3 pkt 1, art. 47 ust. 1a, art. 53 ust. 1, art. 60 ust. 6, art. 113, art. 162 oraz art. 164 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+rozpoczynania kształcenia w zawodzie o charakterze pomocniczym, jeżeli szkoła posiada opinię o zasadności kształcenia w zawodzie, dla którego w klasyfikacji zawodów szkolnictwa branżowego, przewidziano zawód o charakterze pomocniczym;
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 1 i art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, zachowują moc do dnia 31 sierpnia 2028 r., oraz mogą być zmieniane na podstawie tych przepisów.
+### 2)
 
-3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11 ust. 2, art. 11 ust. 2 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 8 w związku z art. 32a ust. 4 i art. 90u ust. 4 pkt 2 ustawy zmienianej w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 2, art. 11 ust. 4, art. 22 ust. 6 i art. 90u ust. 4 pkt 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+organizowania w branżowej szkole I stopnia oddziału wyłącznie dla uczniów będących młodocianymi pracownikami.
 
-4. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 3 ustawy zmienianej w art. 6, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 3 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+### 7b.
 
-5. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 81 ust. 1 ustawy zmienianej w art. 30, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 81 ust. 1 ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2019 r., oraz mogą być zmieniane na podstawie tych przepisów.
+Uzyskanie ponownej opinii wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie, o której mowa w ust. 7 pkt 1, jest wymagane w przypadku gdy zawód ten nie jest wskazany przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art. 46b ust. 1.
 
-6. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 69 oraz art. 69a ustawy zmienianej w art. 32, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 69 oraz art. 69a ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+### 7c.
 
-7. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 4 ustawy zmienianej w art. 39, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 4 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+Współpraca, o której mowa w ust. 7 pkt 2, polega w szczególności na:
 
-**Art. 170.** Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem:
+### 1)
 
+tworzeniu klas patronackich;
+
+### 2)
+
+przygotowaniu propozycji programu nauczania zawodu;
+
+### 3)
+
+realizacji kształcenia zawodowego, w tym praktycznej nauki zawodu;
+
+### 4)
+
+wyposażeniu warsztatów lub pracowni szkolnych;
+
+### 5)
+
+organizacji egzaminu zawodowego;
+
+### 6)
+
+doskonaleniu nauczycieli kształcenia zawodowego, w tym organizowaniu szkoleń branżowych;
+
+### 7)
+
+realizacji doradztwa zawodowego i promocji kształcenia zawodowego.
+
+### 7d.
+
+Przepisów ust. 7 pkt 2 i ust. 7c, nie stosuje się do branżowych szkół II stopnia.
+
+” ;
+
+### 31)
+
+w art. 69:
+
+### a)
+
+w ust. 3 skreśla się zdanie drugie,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+W zebraniach rady pedagogicznej mogą również brać udział, z głosem doradczym, osoby zapraszane przez jej przewodniczącego za zgodą lub na wniosek rady pedagogicznej, w tym przedstawiciele stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza lub rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej i opiekuńczej szkoły lub placówki, a w przypadku szkoły prowadzącej kształcenie zawodowe - również przedstawiciele pracodawców, organizacji pracodawców, samorządu gospodarczego lub innych organizacji gospodarczych, stowarzyszeń lub samorządów zawodowych oraz sektorowych rad do spraw kompetencji.
+
+” ;
+
+### 32)
+
+w art. 70 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+projekt planu finansowego szkoły lub placówki będącej jednostką budżetową;
+
+” ;
+
+### 33)
+
+w art. 85 w ust. 9 zdanie pierwsze otrzymuje brzmienie: „ Samorząd w szkole dla dorosłych, branżowej szkole II stopnia, szkole policealnej, policealnej szkole artystycznej lub placówce kształcenia ustawicznego, w celu wspierania działalności statutowej szkoły lub placówki, może gromadzić fundusze z dobrowolnych składek i innych źródeł. ” ;
+
+### 34)
+
+w art. 88:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Szkołę lub placówkę publiczną zakłada się na podstawie aktu założycielskiego, który określa odpowiednio jej typ lub rodzaj, nazwę i siedzibę.
+
+### 2.
+
+Akt założycielski publicznej szkoły podstawowej, oprócz danych wymienionych w ust. 1, określa także jej zasięg terytorialny (obwód), w szczególności nazwy miejscowości, a w miastach - nazwy ulic lub ich części, należących do jej obwodu, oraz podporządkowane jej organizacyjnie szkoły filialne. Publicznej szkole podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Akt założycielski publicznego centrum kształcenia zawodowego i publicznej placówki kształcenia ustawicznego, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie centrum lub placówce.
+
+” ,
+
+### c)
+
+w ust. 4 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+zezwolenia właściwego organu jednostki samorządu terytorialnego, której zadaniem jest prowadzenie szkół lub placówek publicznych odpowiednio danego typu lub rodzaju, wydanego po uzyskaniu pozytywnej opinii kuratora oświaty;
+
+” ,
+
+### d)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udziela zezwolenia, o którym mowa w ust. 4 pkt 2, po uzyskaniu opinii specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1.
+
+” ,
+
+### e)
+
+po ust. 5 dodaje się ust. 5a i 5b w brzmieniu:
+
+„
+
+### 5a.
+
+Osoba fizyczna składająca wniosek o udzielenie zezwolenia, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej wniosek. Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki.
+
+### 5b.
+
+Oświadczenie, o którym mowa w ust. 5a, może zostać złożone przez osobę fizyczną również po uzyskaniu zezwolenia, o którym mowa w ust. 4.
+
+” ;
+
+### 35)
+
+w art. 89:
+
+### a)
+
+w ust. 1 zdanie drugie otrzymuje brzmienie: „ Organ prowadzący jest obowiązany, co najmniej na 6 miesięcy przed terminem likwidacji, zawiadomić o zamiarze likwidacji szkoły: rodziców uczniów, a w przypadku uczniów pełnoletnich - tych uczniów, właściwego kuratora oświaty oraz organ wykonawczy jednostki samorządu terytorialnego właściwej do prowadzenia szkół danego typu. ” ,
+
+### b)
+
+w ust. 5 wyraz „wydawania” zastępuje się wyrazem „wydawana”,
+
+### c)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Organ prowadzący szkołę lub placówkę może przenieść kształcenie w określonym zawodzie z tej szkoły lub placówki do innej szkoły tego samego typu lub innej placówki tego samego rodzaju prowadzonej przez ten organ, po zawiadomieniu, co najmniej na 6 miesięcy przed terminem przeniesienia, kuratora oświaty i rodziców uczniów, a w przypadku uczniów pełnoletnich - tych uczniów.
+
+” ;
+
+### 36)
+
+po art. 90 dodaje się art. 90a i art. 90b w brzmieniu:
+
+„
+
+### Art. 90a.
+
+### 1.
+
+Zmiana siedziby szkoły lub placówki publicznej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez tę szkołę lub placówkę wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4-5 i 6 stosuje się odpowiednio. Przepisów art. 89 ust. 1-9 nie stosuje się.
+
+### 2.
+
+Zmiana siedziby szkoły lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę następuje z końcem roku szkolnego. W przypadku gdy dalsze prowadzenie zajęć dydaktycznych, wychowawczych i opiekuńczych w dotychczasowej siedzibie szkoły nie jest możliwe zmiana siedziby szkoły lub utworzenie innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę może nastąpić w każdym czasie.
+
+### 3.
+
+Organ prowadzący szkołę lub placówkę publiczną, po zawiadomieniu rodziców uczniów albo uczniów pełnoletnich, składa wniosek o zmianę zezwolenia na założenie szkoły lub placówki publicznej, w zakresie odpowiednio siedziby szkoły lub placówki lub utworzenia innej lokalizacji prowadzenia przez nią zajęć dydaktycznych, wychowawczych i opiekuńczych, nie później niż na 3 miesiące przed planowanym dniem zmiany siedziby lub utworzenia innej lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych. W przypadku, o którym mowa w ust. 2 w zdaniu drugim, wniosek o zmianę zezwolenia może być złożony w każdym czasie.
+
+### 4.
+
+Nowa siedziba szkoły lub placówki publicznej lub inna lokalizacja prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych przez szkołę lub placówkę nie mogą znajdować się na obszarze jednostki samorządu terytorialnego, innej niż ta, której organ wydał zezwolenie na założenie tej szkoły lub placówki.
+
+### Art. 90b.
+
+### 1.
+
+Osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna prowadząca szkołę lub placówkę publiczną na podstawie zezwolenia, o którym mowa w art. 88 ust. 4, może przekazać prowadzenie szkoły lub placówki publicznej osobie prawnej innej niż jednostka samorządu terytorialnego lub osobie fizycznej.
+
+### 2.
+
+Przekazanie, o którym mowa w ust. 1, wymaga zmiany zezwolenia na założenie szkoły lub placówki publicznej. Przepisy art. 88 ust. 4-5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1-9 nie stosuje się.
+
+### 3.
+
+Organ prowadzący szkołę lub placówkę publiczną, do wniosku, o którym mowa w ust. 2, dołącza pisemne oświadczenie osoby prawnej innej niż jednostka samorządu terytorialnego lub osoby fizycznej przejmującej prowadzenie szkoły lub placówki o przejęciu zadań organu prowadzącego szkołę lub placówkę.
+
+### 4.
+
+W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę publiczną przejęcie prowadzenia szkoły lub placówki przez osobę wskazaną w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b, wymaga zmiany zezwolenia na założenie szkoły lub placówki. Wniosek o zmianę zezwolenia składa osoba wskazana w oświadczeniu, o którym mowa w art. 88 ust. 5a lub 5b. Przepisy art. 88 ust. 4-5 i 6 stosuje się odpowiednio, z tym że wniosek o zmianę zezwolenia może być złożony w każdym czasie. Przepisów art. 89 ust. 1-9 nie stosuje się.
+
+### 5.
+
+Zmiana zezwolenia, o którym mowa w ust. 2 i 4, nie wymaga uzyskania pozytywnej opinii kuratora oświaty.
+
+### 6.
+
+Przekazanie lub przejęcie prowadzenia szkoły lub placówki publicznej, o którym mowa odpowiednio w ust. 2 lub 4, następuje w terminie wskazanym w decyzji o zmianie zezwolenia.
+
+” ;
+
+### 37)
+
+w art. 91:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Organ prowadzący może połączyć w zespół liceum ogólnokształcące dla młodzieży i liceum ogólnokształcące dla dorosłych, jeżeli zajęcia edukacyjne w tych szkołach nie są prowadzone w tym samym czasie.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Organ prowadzący zespół szkół lub placówek albo szkół i placówek może wyłączyć z zespołu szkołę lub placówkę, włączyć do zespołu szkołę lub placówkę, a także może rozwiązać zespół.
+
+” ,
+
+### c)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+W przypadku:
+
+### 1)
+
+utworzenia zespołu szkół lub placówek albo szkół i placówek oraz włączenia szkoły lub placówki do zespołu - przepisu art. 89 nie stosuje się;
+
+### 2)
+
+wyłączenia szkoły lub placówki z zespołu szkół lub placówek oraz rozwiązania zespołu - przepisów art. 88 i art. 89 nie stosuje się.
+
+” ;
+
+### 38)
+
+w art. 93 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Organ prowadzący szkoły dla dorosłych, szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych, placówki lub centra, o których mowa w art. 2 pkt 4, może je połączyć w zespół, zwany dalej „centrum kształcenia zawodowego i ustawicznego”.
+
+### 2.
+
+W skład centrum kształcenia zawodowego i ustawicznego wchodzi co najmniej jedna szkoła prowadząca kształcenie zawodowe, z wyjątkiem szkoły artystycznej, oraz co najmniej jedno centrum kształcenia zawodowego.
+
+” ;
+
+### 39)
+
+w art. 96 dodaje się ust. 6 i 7 w brzmieniu:
+
+„
+
+### 6.
+
+W szkołach podstawowych specjalnych i szkołach ponadpodstawowych specjalnych, w tym zorganizowanych w podmiotach leczniczych i jednostkach pomocy społecznej, działających w szczególnie trudnych warunkach demograficznych lub geograficznych, w zakresie danego etapu edukacyjnego, dopuszcza się organizację nauczania w klasach łączonych. Przepis ust. 5 stosuje się odpowiednio.
+
+### 7.
+
+W szkołach ponadpodstawowych zorganizowanych w zakładach poprawczych i schroniskach dla nieletnich, działających w szczególnie trudnych warunkach demograficznych, dopuszcza się organizację nauczania w klasach łączonych.
+
+” ;
+
+### 40)
+
+w art. 98:
+
+### a)
+
+w ust. 1 pkt 15 i 16 otrzymują brzmienie:
+
+„
+
+### 15)
+
+określenie formy kształcenia - w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej;
+
+### 16)
+
+organizację wewnątrzszkolnego systemu doradztwa zawodowego, z wyjątkiem szkoły artystycznej;
+
+” ,
+
+### b)
+
+w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+organizację żywienia, o którym mowa w art. 106a - w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.
+
+” ,
+
+### c)
+
+uchyla się ust. 3;
+
+### 41)
+
+w art. 103:
+
+### a)
+
+w ust. 1:
+
+- - pkt 3 otrzymuje brzmienie: „ 3) świetlicy - w przypadku szkoły podstawowej, szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej i szkoły prowadzącej kształcenie specjalne, o której mowa w art. 127 ust. 1; ” ,
+
+- - w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu: „ 7) pomieszczenia umożliwiającego bezpieczne i higieniczne spożycie posiłków podczas pobytu w szkole - w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wymagania określone w ust. 1 pkt 3-5 i 7 nie muszą być spełnione w szkołach dla dorosłych, a także w branżowych szkołach II stopnia i szkołach policealnych, prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
+
+” ;
+
+### 42)
+
+po art. 106 dodaje się art. 106a w brzmieniu:
+
+„
+
+### Art. 106a.
+
+### 1.
+
+Szkoła podstawowa, z wyjątkiem szkoły podstawowej dla dorosłych, oraz szkoła artystyczna realizująca kształcenie ogólne w zakresie szkoły podstawowej, zapewnia uczniom jeden gorący posiłek w ciągu dnia i stwarza im możliwość jego spożycia w czasie pobytu w szkole.
+
+### 2.
+
+Korzystanie z posiłku, o którym mowa w ust. 1, jest dobrowolne i odpłatne.
+
+” ;
+
+### 43)
+
+w art. 107:
+
+### a)
+
+po ust. 9 dodaje się ust. 9a w brzmieniu:
+
+„
+
+### 9a.
+
+Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 9, dyrektora szkoły, w której zorganizowano internat.
+
+” ,
+
+### b)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Przepisów ust. 1-9a nie stosuje się do szkół prowadzących kształcenie wyłącznie w formie stacjonarnej lub zaocznej.
+
+” ;
+
+### 44)
+
+w art. 109:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+obowiązkowe zajęcia edukacyjne, do których zalicza się zajęcia edukacyjne z zakresu kształcenia ogólnego i z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3, w tym praktyczną naukę zawodu, a w przypadku szkół artystycznych - zajęcia edukacyjne artystyczne, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1a;
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W branżowej szkole II stopnia obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, w tym praktyczna nauka zawodu, są prowadzone w ramach kwalifikacyjnego kursu zawodowego.
+
+” ,
+
+### c)
+
+w ust. 6 dodaje się zdanie drugie w brzmieniu: „ Przepis nie dotyczy szkół dla dorosłych. ” ;
+
+### 45)
+
+w art. 110:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej - na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku szkół lub przedszkoli prowadzonych przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną, arkusz organizacji szkoły lub przedszkola opracowuje dyrektor szkoły lub przedszkola, uwzględniając przepisy wydane na podstawie art. 47 ust. 1 pkt 3, a w przypadku szkoły artystycznej - na podstawie art. 47 ust. 1a, a następnie przekazuje do zaopiniowania zakładowym organizacjom związkowym będącym jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu tej ustawy, zrzeszających nauczycieli, które przedstawiły dyrektorowi szkoły lub przedszkola informację, o której mowa w art. 251ust. 2 ustawy z dnia 23 maja 1991 r. o związkach zawodowych.
+
+” ,
+
+### c)
+
+w ust. 5 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 2-3”;
+
+### 46)
+
+w art. 111 pkt 14 otrzymuje brzmienie:
+
+„
+
+### 14)
+
+organizację tygodnia pracy szkoły, z uwzględnieniem kształcenia w formie dziennej, stacjonarnej lub zaocznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
+
+” ;
+
+### 47)
+
+po art. 111 dodaje się art. 111a w brzmieniu:
+
+„
+
+### Art. 111a.
+
+Publiczna placówka kształcenia ustawicznego i publiczne centrum kształcenia zawodowego mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.
+
+” ;
+
+### 48)
+
+w art. 113 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+organizację tygodnia pracy szkoły artystycznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
+
+” ;
+
+### 49)
+
+w art. 117:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kształcenie ustawiczne jest organizowane i prowadzone w:
+
+### 1)
+
+publicznych i niepublicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych;
+
+### 2)
+
+formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Kształcenie ustawiczne prowadzi się w następujących formach pozaszkolnych:
+
+### 1)
+
+kwalifikacyjny kurs zawodowy;
+
+### 2)
+
+kurs umiejętności zawodowych;
+
+### 3)
+
+kurs kompetencji ogólnych;
+
+### 4)
+
+turnus dokształcania teoretycznego młodocianych pracowników;
+
+### 5)
+
+kurs, inny niż wymienione w pkt 1-3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
+
+### 1)
+
+publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+
+### 2)
+
+publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
+
+### 3)
+
+instytucje rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową;
+
+### 4)
+
+podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2, posiadające akredytację, o której mowa w art. 118.
+
+” ,
+
+### d)
+
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
+
+„
+
+### 2a.
+
+Kursy umiejętności zawodowych mogą być prowadzone przez:
+
+### 1)
+
+publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+
+### 2)
+
+publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+
+### 2b.
+
+Kursy kompetencji ogólnych oraz kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+
+### 2c.
+
+Turnusy dokształcania teoretycznego młodocianych pracowników mogą być prowadzone przez:
+
+### 1)
+
+publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
+
+### 2)
+
+publiczne i niepubliczne centra kształcenia zawodowego.
+
+” ,
+
+### e)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Kształcenie ustawiczne może być prowadzone w formie dziennej, stacjonarnej lub zaocznej, a w przypadku form pozaszkolnych - także z wykorzystaniem metod i technik kształcenia na odległość. Turnus dokształcania młodocianych pracowników może być prowadzony wyłącznie w formie dziennej.
+
+” ,
+
+### f)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego,
+
+### 2)
+
+warunki, organizację i tryb prowadzenia kształcenia ustawicznego w poszczególnych formach pozaszkolnych, w tym wymogi jakie powinien spełniać program nauczania,
+
+### 3)
+
+sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia prowadzonego w poszczególnych formach pozaszkolnych,
+
+### 4)
+
+wzory dokumentów wydawanych po ukończeniu kształcenia prowadzonego w formach pozaszkolnych, o których mowa w ust. 1a pkt 1-4, a w przypadku formy pozaszkolnej, o której mowa w ust. 1a pkt 5 - zakres informacji, jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
+
+### 5)
+
+przypadki, w których turnus dokształcania teoretycznego młodocianych pracowników może być prowadzony w więcej niż jednym zawodzie,
+
+### 6)
+
+tryb zwalniania osób, o których mowa w ust. 12, z całości lub części opłat za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5, oraz warunki i tryb zwrotu opłaty w przypadkach określonych w ust. 11
+
+- uwzględniając możliwość zaliczania potwierdzonych efektów kształcenia przy podejmowaniu kształcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ustawicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się oraz uzyskanie nowych kwalifikacji oraz włączenia pracodawców w proces kształcenia ustawicznego, a także konieczność prawidłowego udokumentowania w przypadku zwolnienia lub zwrotu opłaty, o której mowa w ust. 7.
+
+” ,
+
+### g)
+
+uchyla się ust. 6,
+
+### h)
+
+dodaje się ust. 7-12 w brzmieniu:
+
+„
+
+### 7.
+
+Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5.
+
+### 8.
+
+Wysokość opłaty ustala dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, w porozumieniu z organem prowadzącym. Opłata nie może przekraczać ponoszonych kosztów kształcenia w danej formie.
+
+### 9.
+
+Opłata jest wnoszona za cały okres kształcenia, w terminie do dnia rozpoczęcia kształcenia, na rachunek bankowy publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, wskazany przez dyrektora tej szkoły, placówki lub centrum.
+
+### 10.
+
+Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może w uzasadnionych przypadkach przedłużyć termin wniesienia opłaty lub wyrazić zgodę na wniesienie opłaty w ratach.
+
+### 11.
+
+Opłata nie podlega zwrotowi. W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających podjęcie kształcenia w danej formie pozaszkolnej, dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwrócić opłatę.
+
+### 12.
+
+Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwolnić w całości lub w części z opłaty osobę o niskich dochodach, w szczególności jeżeli dochód tej osoby nie przekracza kwot, o których mowa w art. 8 ust. 1 pkt 1 albo 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2018 r. poz. 1508](https://api.sejm.gov.pl/eli/acts/DU/2018/1508/text.html), [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html) i [2192](https://api.sejm.gov.pl/eli/acts/DU/2018/2192/text.html)).
+
+” ;
+
+### 50)
+
+w art. 118:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Placówka kształcenia ustawicznego i centrum kształcenia zawodowego może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1-4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 - jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie odrębnych przepisów. Akredytacja stanowi potwierdzenie spełniania określonych wymogów i zapewniania wysokiej jakości kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej.
+
+### 2.
+
+Akredytację, w drodze decyzji administracyjnej, przyznaje kurator oświaty właściwy ze względu na miejsce prowadzenia kształcenia ustawicznego w danej formie pozaszkolnej na okres 5 lat.
+
+### 3.
+
+Akredytację, o której mowa w ust. 1, może uzyskać placówka lub centrum, które:
+
+### 1)
+
+prowadziło kształcenie w formie lub formach pozaszkolnych przez okres co najmniej 3 lat;
+
+### 2)
+
+opracowuje i stosuje system zapewniania jakości kształcenia oraz systematycznie go doskonali;
+
+### 3)
+
+zapewnia bazę wyposażoną w środki dydaktyczne - w zakresie danej formy pozaszkolnej;
+
+### 4)
+
+zapewnia wykwalifikowaną kadrę - w zakresie danej formy pozaszkolnej;
+
+### 5)
+
+zapewnia program nauczania, o którym mowa w przepisach wydanych na podstawie art. 117 ust. 5 - w zakresie danej formy pozaszkolnej;
+
+### 6)
+
+zapewnia warunki realizacji praktycznej nauki zawodu - w przypadku ubiegania się o akredytację na kształcenie w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 1 i 2;
+
+### 7)
+
+zapewnia bezpieczne i higieniczne warunki realizacji kształcenia w danej formie pozaszkolnej;
+
+### 8)
+
+udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne.
+
+” ,
+
+### b)
+
+uchyla się ust. 4,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a-4d w brzmieniu:
+
+„
+
+### 4a.
+
+Akredytację przyznaje się po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej w zakresie określonym w ust. 3.
+
+### 4b.
+
+Członkom zespołu akredytacyjnego, o którym mowa w ust. 4a, przysługuje wynagrodzenie za udział w jego pracach, z tym że członkom będącym pracownikami kuratorium oświaty wynagrodzenie przysługuje tylko w przypadku udziału w pracach zespołu poza godzinami pracy w kuratorium.
+
+### 4c.
+
+Wysokość wynagrodzenia członków zespołu akredytacyjnego ustala kurator oświaty, z tym że wysokość wynagrodzenia jednego członka zespołu nie może przekroczyć 25% kwoty, o której mowa w ust. 6.
+
+### 4d.
+
+W roku kalendarzowym suma wynagrodzeń członków zespołu akredytacyjnego, wraz z pochodnymi, nie może przekroczyć sumy opłat wniesionych przez placówki ubiegające się o akredytację.
+
+” ,
+
+### d)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez placówkę lub centrum warunków wymaganych do uzyskania akredytacji, po uprzednim wezwaniu do usunięcia uchybień.
+
+### 6.
+
+Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę w wysokości 1023 zł, waloryzowaną corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. Opłatę wnosi się na rachunek bankowy kuratorium oświaty. Opłata nie podlega zwrotowi od dnia złożenia wniosku.
+
+” ,
+
+### e)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Minister właściwy do spraw oświaty i wychowania, w terminie do dnia 31 grudnia każdego roku, podaje do publicznej wiadomości na stronie urzędu obsługującego tego ministra wysokość opłaty w następnym roku kalendarzowym zwaloryzowanej zgodnie z ust. 6.
+
+” ,
+
+### f)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i cofania akredytacji podmiotom, o których mowa w ust. 1 i 8, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.
+
+” ,
+
+### g)
+
+uchyla się ust. 10,
+
+### h)
+
+dodaje się ust. 11 w brzmieniu:
+
+„
+
+### 11.
+
+Kurator oświaty prowadzi wykaz pozaszkolnych form kształcenia ustawicznego, na kształcenie w których przyznał akredytację, i podaje go do publicznej wiadomości na stronie internetowej kuratorium oświaty. Wykaz zawiera w szczególności: nazwę i adres podmiotu prowadzącego daną formę pozaszkolną, miejsce prowadzenia kształcenia, zakres i formę kształcenia.
+
+” ;
+
+### 51)
+
+w art. 120:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Praktyczna nauka zawodu może odbywać się u pracodawców lub w indywidualnych gospodarstwach rolnych, zapewniających rzeczywiste warunki pracy, a także w centrach kształcenia zawodowego, warsztatach szkolnych, pracowniach szkolnych i placówkach kształcenia ustawicznego.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Praktyczna nauka zawodu może być realizowana również za granicą na podstawie umów międzynarodowych lub porozumień o współpracy bezpośredniej zawieranych przez szkoły, jednostki samorządu terytorialnego i organy administracji rządowej lub w ramach programów edukacyjnych Unii Europejskiej.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Praktyczną naukę zawodu może prowadzić osoba, która nie była karana za umyślne przestępstwo przeciwko życiu i zdrowiu, przestępstwo przeciwko wolności seksualnej i obyczajności, przestępstwo przeciwko rodzinie i opiece, z wyjątkiem przestępstwa określonego w art. 209 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. z 2018 r. poz. 1600](https://api.sejm.gov.pl/eli/acts/DU/2018/1600/text.html) i [2077](https://api.sejm.gov.pl/eli/acts/DU/2018/2077/text.html)), przestępstwo określone w rozdziale 7 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii ([Dz. U. z 2018 r. poz. 1030](https://api.sejm.gov.pl/eli/acts/DU/2018/1030/text.html), [1490](https://api.sejm.gov.pl/eli/acts/DU/2018/1490/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)), albo wobec której nie orzeczono zakazu prowadzenia działalności związanej z wychowywaniem, leczeniem, edukacją małoletnich lub opieką nad nimi lub zakazu przebywania w określonych środowiskach lub miejscach, kontaktowania się z określonymi osobami, zbliżania się do określonych osób lub opuszczania określonego miejsca pobytu bez zgody sądu. Spełnienie tego warunku jest potwierdzane oświadczeniem osoby prowadzącej praktyczną naukę zawodu.
+
+” ,
+
+### d)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw pracy określi, w drodze rozporządzenia, warunki i tryb organizowania praktycznej nauki zawodu, uwzględniając zakres spraw, które powinny być określone w umowie, o której mowa w ust. 2, w tym prawa i obowiązki podmiotów, o których mowa w ust. 1, oraz przeznaczenie środków finansowych, o których mowa w art. 121, kwalifikacje wymagane od osób prowadzących praktyczną naukę zawodu i przysługujące im uprawnienia, ramowy program kursu pedagogicznego dla instruktorów praktycznej nauki zawodu oraz zakres informacji jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu tego kursu.
+
+” ,
+
+### e)
+
+w ust. 5 wyrazy „ust. 1, 2 i 4” zastępuje się wyrazami „ust. 1, 1a, 2, 3a i 4”,
+
+### f)
+
+w ust. 6 wyrazy „samorządami gospodarczymi” zastępuje się wyrazami „przedsiębiorstwami, samorządami gospodarczymi”;
+
+### 52)
+
+po art. 120 dodaje się art. 120a w brzmieniu:
+
+„
+
+### Art. 120a.
+
+### 1.
+
+Pracodawca zatrudniający młodocianych w celu przygotowania zawodowego odbywanego w formie nauki zawodu, kierujący ich na dokształcanie teoretyczne do branżowej szkoły I stopnia zgodnie z przepisami wydanymi na podstawie art. 191 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, ustala z dyrektorem szkoły:
+
+### 1)
+
+zakres kształcenia zawodowego zapewnianego przez szkołę i pracodawcę, wynikający z programu nauczania zawodu;
+
+### 2)
+
+liczbę dni w tygodniu, w których zajęcia praktyczne odbywają się u pracodawcy;
+
+### 3)
+
+sposób monitorowania przez każdą ze stron realizacji programu nauczania zawodu.
+
+### 2.
+
+Ustalenia, o których mowa w ust. 1, stanowią załącznik do umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.
+
+” ;
+
+### 53)
+
+art. 121 otrzymuje brzmienie:
+
+„
+
+### Art. 121.
+
+Szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkoły artystycznej, przekazują podmiotom przyjmującym uczniów na praktyczną naukę zawodu na podstawie umowy szkoły z tym podmiotem, wynikające z tej umowy środki finansowe umożliwiające uczniom odbycie praktycznej nauki zawodu.
+
+” ;
+
+### 54)
+
+po art. 121 dodaje się art. 121a w brzmieniu:
+
+„
+
+### Art. 121a.
+
+### 1.
+
+W celu ułatwienia uzyskiwania doświadczenia i nabywania umiejętności praktycznych niezbędnych do wykonywania pracy w zawodzie, w którym kształcą się, uczniowie technikum i uczniowie branżowej szkoły I stopnia niebędący młodocianymi pracownikami mogą w okresie nauki odbywać staż w rzeczywistych warunkach pracy, zwany dalej „stażem uczniowskim”.
+
+### 2.
+
+W trakcie stażu uczniowskiego uczeń realizuje wszystkie albo wybrane treści programu nauczania zawodu w zakresie praktycznej nauki zawodu realizowanego w szkole, do której uczęszcza, lub treści nauczania związane z nauczanym zawodem nieobjęte tym programem.
+
+### 3.
+
+Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej „podmiotem przyjmującym na staż uczniowski”, zawiera z uczniem albo rodzicami niepełnoletniego ucznia, w formie pisemnej, umowę o staż uczniowski.
+
+### 4.
+
+Dyrektor szkoły może zwolnić ucznia, który odbył staż uczniowski, z obowiązku odbycia praktycznej nauki zawodu w całości lub w części.
+
+### 5.
+
+Podmiot przyjmujący na staż uczniowski i dyrektor szkoły, w uzgodnieniu z uczniem albo rodzicem niepełnoletniego ucznia, ustalają zakres treści nauczania, o których mowa w ust. 2, oraz dobowy i tygodniowy wymiar czasu odbywania stażu uczniowskiego. Ustalając zakres treści nauczania wskazuje się, w jakim zakresie uczeń po zrealizowaniu tych treści zostanie zwolniony z obowiązku odbycia praktycznej nauki zawodu. Ustalenia te stanowią załącznik do umowy o staż uczniowski.
+
+### 6.
+
+Uczeń odbywający staż uczniowski otrzymuje miesięczne świadczenie pieniężne, chyba że strony umowy o staż uczniowski, postanowią, że staż jest odbywany nieodpłatnie.
+
+### 7.
+
+Wysokość miesięcznego świadczenia pieniężnego, o którym mowa w ust. 6, nie może przekraczać wysokości minimalnego wynagrodzenia za pracę, ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. z 2018 r. poz. 2177](https://api.sejm.gov.pl/eli/acts/DU/2018/2177/text.html)).
+
+### 8.
+
+Staż uczniowski może odbywać się również w okresie ferii letnich lub zimowych.
+
+### 9.
+
+Do stażu uczniowskiego nie mają zastosowania przepisy prawa pracy, z wyjątkiem przepisów art. 183a-183e, art. 131 § 1, art. 132 § 1, art. 133 § 1, art. 134, art. 1517, art. 204 i art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, z zastrzeżeniem przepisów ust. 12-14.
+
+### 10.
+
+Dobowy wymiar godzin stażu uczniowskiego uczniów w wieku do lat 16 nie może przekraczać 6 godzin, a uczniów w wieku powyżej 16 lat - 8 godzin. W uzasadnionych przypadkach wynikających ze specyfiki funkcjonowania ucznia niepełnosprawnego w wieku powyżej 16 lat, dopuszcza się możliwość obniżenia dobowego wymiaru godzin stażu uczniowskiego do 7 godzin.
+
+### 11.
+
+Dobowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego nie może przekraczać 8 godzin, a tygodniowy łączny wymiar zajęć edukacyjnych realizowanych przez ucznia w szkole i stażu uczniowskiego - 40 godzin.
+
+### 12.
+
+W szczególnie uzasadnionych przypadkach dopuszcza się możliwość przedłużenia dobowego wymiaru godzin stażu uczniowskiego dla uczniów w wieku powyżej 18 lat, nie dłużej jednak niż do 12 godzin. Przedłużenie dobowego wymiaru godzin jest możliwe wyłącznie u podmiotów przyjmujących na staż uczniowski, u których przedłużony dobowy wymiar czasu pracy wynika z rodzaju pracy lub jej organizacji.
+
+### 13.
+
+Staż uczniowski może być organizowany w systemie zmianowym, z tym że w przypadku uczniów w wieku poniżej 18 lat nie może wypadać w porze nocnej.
+
+### 14.
+
+W przypadku ucznia niepełnosprawnego odbywającego staż uczniowski przepisy ust. 12 i 13 stosuje się wyłącznie za zgodą lekarza sprawującego opiekę nad tym uczniem.
+
+### 15.
+
+Umowa o staż uczniowski określa w szczególności:
+
+### 1)
+
+strony umowy;
+
+### 2)
+
+miejsce odbywania stażu uczniowskiego;
+
+### 3)
+
+nazwę i adres szkoły, do której uczęszcza uczeń odbywający staż uczniowski;
+
+### 4)
+
+zawód, w zakresie którego będzie odbywany staż uczniowski;
+
+### 5)
+
+okres odbywania stażu uczniowskiego;
+
+### 6)
+
+wysokość świadczenia pieniężnego, o którym mowa w ust. 7, w przypadku odpłatnego stażu uczniowskiego.
+
+### 16.
+
+Umowa o staż uczniowski nie może dotyczyć pracy szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 23715 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 17.
+
+Umowa o staż uczniowski nie może być zawarta na okres dłuższy niż okres nauki w technikum albo branżowej szkole I stopnia.
+
+### 18.
+
+Umowa o staż uczniowski może być rozwiązana, na piśmie, przez każdą ze stron z zachowaniem 14-dniowego okresu wypowiedzenia.
+
+### 19.
+
+Jeżeli uczeń przestał być uczniem szkoły przed końcem obowiązywania umowy dyrektor szkoły powiadamia o tym podmiot, który przyjął ucznia na staż uczniowski, a umowa o staż uczniowski wygasa.
+
+### 20.
+
+Podmiot przyjmujący na staż uczniowski lub uczeń albo rodzice niepełnoletniego ucznia niezwłocznie zawiadamiają dyrektora szkoły o wypowiedzeniu umowy o staż uczniowski oraz przyczynie wypowiedzenia.
+
+### 21.
+
+W czasie odbywania stażu uczniowskiego opiekę nad uczniem sprawuje wyznaczony przez podmiot przyjmujący na staż uczniowski opiekun stażu uczniowskiego.
+
+### 22.
+
+Opiekunem stażu uczniowskiego może być osoba spełniająca warunek określony w art. 120 ust. 3a. Spełnienie tego warunku jest potwierdzane oświadczeniem opiekuna stażu uczniowskiego.
+
+### 23.
+
+Podmiot przyjmujący na staż uczniowski zapewnia uczniowi stanowisko pracy wyposażone w niezbędne urządzenia, sprzęt, narzędzia, materiały i dokumentację techniczną, uwzględniające wymagania bezpieczeństwa i higieny pracy, a także bezpieczne i higieniczne warunki odbywania stażu uczniowskiego na zasadach dotyczących pracowników określonych w odrębnych przepisach, w tym w zależności od rodzaju zagrożeń związanych z odbywaniem tego stażu - odpowiednie środki ochrony indywidualnej. Ponadto podmiot ten zapewnia w szczególności:
+
+### 1)
+
+pomieszczenia do przechowywania odzieży i obuwia roboczego oraz środków ochrony indywidualnej;
+
+### 2)
+
+dostęp do urządzeń higieniczno-sanitarnych oraz pomieszczeń socjalno-bytowych;
+
+### 3)
+
+dietę na zasadach uzgodnionych z armatorem - w przypadku uczniów odbywającym staż uczniowski na statkach morskich i śródlądowych;
+
+### 4)
+
+świadczenia na zasadach określonych dla załóg statków - w przypadku uczniów odbywających staż uczniowski na statkach morskich i śródlądowych, wyokrętowanych ze statku za granicą wskutek wypadku lub choroby.
+
+### 24.
+
+Podmiot przyjmujący na staż uczniowski jest obowiązany wystawić na piśmie zaświadczenie o odbyciu stażu uczniowskiego, które określa w szczególności okres odbytego stażu uczniowskiego, rodzaj realizowanych zadań i umiejętności nabyte w czasie odbywania stażu uczniowskiego.
+
+### 25.
+
+Okres odbytego stażu uczniowskiego, na podstawie zaświadczenia, o którym mowa w ust. 24, zalicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+
+### 26.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia wzór zaświadczenia, o którym mowa w ust. 24, uwzględniając konieczność prawidłowego udokumentowania okresu odbytego stażu uczniowskiego zaliczanego do okresu zatrudnienia.
+
+” ;
+
+### 55)
+
+w art. 122:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) młodociany pracownik ukończył naukę zawodu i zdał: a) w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem - egzamin czeladniczy zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle ([Dz. U. z 2018 r. poz. 1267](https://api.sejm.gov.pl/eli/acts/DU/2018/1267/text.html)), b) w przypadku młodocianego zatrudnionego w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem - egzamin zawodowy; ” ,
+
+- - dodaje się pkt 3 w brzmieniu: „ 3) młodociany pracownik ukończył przyuczenie do wykonywania określonej pracy i zdał egzamin, zgodnie z przepisami, o których mowa w pkt 1. ” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku nauki zawodu prowadzonej w zawodach wskazanych przez ministra właściwego do spraw oświaty i wychowania w prognozie, o której mowa w art. 46b ust. 1, wysokość kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w ust. 2 pkt 1, wynosi do 10 000 zł.
+
+” ,
+
+### c)
+
+w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 2 i 2a”,
+
+### d)
+
+w ust. 7:
+
+- - we wprowadzeniu do wyliczenia wyrazy „ust. 1 pkt 2” zastępuje się wyrazami „ust. 1 pkt 2 i 3”,
+
+- - pkt 3 otrzymuje brzmienie: „ 3) kopię odpowiednio dyplomu, certyfikatu lub świadectwa, potwierdzającego zdanie egzaminu, o którym mowa w ust. 1 pkt 2 i 3, albo zaświadczenie potwierdzające zdanie tego egzaminu. ” ;
+
+### 56)
+
+po art. 122 dodaje się art. 122a w brzmieniu:
+
+„
+
+### Art. 122a.
+
+### 1.
+
+Dyrektor szkoły może zawrzeć umowę z instytucją certyfikującą, o której mowa w art. 2 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, dotyczącą jednokrotnego, nieodpłatnego przystąpienia przez uczniów lub absolwentów do walidacji i certyfikowania kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji. Umowa jest zawierana za zgodą ucznia lub absolwenta, a w przypadku niepełnoletniego ucznia lub absolwenta - za zgodą jego rodzica.
+
+### 2.
+
+Uprawnienie, o którym mowa w ust. 1, przysługuje uczniom lub absolwentom objętym umową nie krócej niż rok od zakończenia roku szkolnego, w którym ukończyli szkołę.
+
+### 3.
+
+Umowa określa w szczególności:
+
+### 1)
+
+imiona i nazwiska oraz numer PESEL, a w przypadku braku numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, uczniów lub absolwentów, którzy mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
+
+### 2)
+
+okres, w którym uczniowie lub absolwenci mogą nieodpłatnie przystąpić do walidacji i certyfikowania danej kwalifikacji rynkowej;
+
+### 3)
+
+wskazanie kwalifikacji rynkowej, której dotyczy umowa.
+
+### 4.
+
+Dyrektor szkoły niezwłocznie przekazuje ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji informację o zawarciu umowy, o której mowa w ust. 1, ze wskazaniem instytucji certyfikującej, z którą umowa została zawarta, kwalifikacji, których dotyczy umowa, okresu obowiązywania umowy oraz liczby uczniów objętych umową.
+
+” ;
+
+### 57)
+
+w art. 124 w ust. 2 wyrazy „art. 47 ust. 1 pkt 3 lit. a, b, d, e i f i art. 53 ust. 5” zastępuje się wyrazami „art. 47 ust. 1a”;
+
+### 58)
+
+w art. 130 po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Do klasy I publicznej branżowej szkoły I stopnia młodocianych pracowników przyjmuje się na podstawie świadectwa ukończenia szkoły podstawowej i umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.
+
+” ;
+
+### 59)
+
+art. 132 otrzymuje brzmienie:
+
+„
+
+### Art. 132.
+
+Laureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1, są przyjmowani w pierwszej kolejności do:
+
+### 1)
+
+publicznej szkoły ponadpodstawowej, publicznej szkoły ponadpodstawowej integracyjnej lub oddziału integracyjnego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1;
+
+### 2)
+
+publicznej szkoły ponadpodstawowej, o której mowa w art. 143 ust. 1, publicznej szkoły ponadpodstawowej sportowej, publicznej szkoły ponadpodstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole ponadpodstawowej ogólnodostępnej, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 137 ust. 1 i 4 oraz art. 143 ust. 1;
+
+### 3)
+
+publicznej szkoły ponadpodstawowej dwujęzycznej, oddziału dwujęzycznego w publicznej szkole ponadpodstawowej ogólnodostępnej lub oddziału międzynarodowego w publicznej szkole ponadpodstawowej ogólnodostępnej oraz klasy wstępnej, o której mowa w art. 25 ust. 3, jeżeli spełniają odpowiednio warunki, o których mowa w art. 134 ust. 1, art. 138 ust. 4 i art. 140 ust. 1 i 2, z tym że warunek uzyskania odpowiednio pozytywnego wyniku sprawdzianu kompetencji językowych, o którym mowa w art. 140 ust. 1, albo pozytywnego wyniku sprawdzianu predyspozycji językowych, o którym mowa w art. 140 ust. 2, nie dotyczy laureata lub finalisty olimpiady przedmiotowej oraz laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim z języka obcego nowożytnego, który będzie drugim językiem nauczania w szkole, oddziale albo klasie, o przyjęcie do których ubiega się laureat lub finalista.
+
+” ;
+
+### 60)
+
+w art. 134 w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3-5 w brzmieniu:
+
+„
+
+### 3)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu ([Dz. U. z 2018 r. poz. 616](https://api.sejm.gov.pl/eli/acts/DU/2018/616/text.html)), przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
+
+### 4)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami rozdziału 12 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami ([Dz. U. z 2017 r. poz. 978](https://api.sejm.gov.pl/eli/acts/DU/2017/978/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172 i 2244.](#gloss-0:3:));
+
+### 5)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+
+” ;
+
+### 61)
+
+w art. 135:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy:
+
+### 1)
+
+posiadają świadectwo ukończenia branżowej szkoły I stopnia;
+
+### 2)
+
+posiadają zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
+
+### 3)
+
+posiadają zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
+
+### 4)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
+
+### 5)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+
+### 6)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5.
+
+### 2.
+
+Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, którzy ukończyli branżową szkołę I stopnia w okresie 5 lat szkolnych poprzedzających rok szkolny, na który ubiegają się o przyjęcie do publicznej branżowej szkoły II stopnia.
+
+” ,
+
+### b)
+
+uchyla się ust. 3,
+
+### c)
+
+w ust. 4 uchyla się pkt 3,
+
+### d)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana szkoła, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
+
+### 1)
+
+w przypadku kandydata niepełnoletniego - kryteria, o których mowa w art. 131 ust. 2;
+
+### 2)
+
+w przypadku kandydata pełnoletniego - następujące kryteria:
+
+### a)
+
+wielodzietność rodziny kandydata,
+
+### b)
+
+niepełnosprawność kandydata,
+
+### c)
+
+niepełnosprawność dziecka kandydata,
+
+### d)
+
+niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
+
+### e)
+
+samotne wychowywanie dziecka przez kandydata.
+
+” ,
+
+### e)
+
+po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+„
+
+### 6a.
+
+Kryteria, o których mowa w ust. 6, mają jednakową wartość.
+
+### 6b.
+
+Do kandydatów, o których mowa w ust. 1, nie stosuje się art. 147.
+
+” ,
+
+### f)
+
+w ust. 8 wyrazy „do klasy I” zastępuje się wyrazami „na semestr pierwszy klasy I”;
+
+### 62)
+
+w art. 136:
+
+### a)
+
+w ust. 1 po pkt 2 dodaje się pkt 2a-2c w brzmieniu:
+
+„
+
+### 2a)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 3, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 2;
+
+### 2b)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+
+### 2c)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
+
+### 1)
+
+w przypadku kandydata niepełnoletniego - kryteria, o których mowa w art. 131 ust. 2;
+
+### 2)
+
+w przypadku kandydata pełnoletniego - kryteria, o których mowa w art. 135 ust. 6 pkt 2.
+
+” ;
+
+### 63)
+
+w art. 141:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do publicznej szkoły podstawowej dla dorosłych i na semestr pierwszy klasy I publicznego liceum ogólnokształcącego dla dorosłych przyjmuje się kandydatów, którzy:
+
+### 1)
+
+ukończyli sześcioletnią szkołę podstawową albo klasę VI lub VII ośmioletniej szkoły podstawowej - w przypadku ubiegania się o przyjęcie do szkoły podstawowej dla dorosłych;
+
+### 2)
+
+ukończyli gimnazjum albo ośmioletnią szkołę podstawową - w przypadku ubiegania się o przyjęcie do liceum ogólnokształcącego dla dorosłych.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+w ust. 3 w pkt 2 wyrazy „art. 136 ust. 3 pkt 2” zastępuje się wyrazami „art. 135 ust. 6 pkt 2”;
+
+### 64)
+
+użyte w art. 142 w ust. 5 w pkt 2 i w art. 145 w ust. 1 w pkt 2, wyrazy „art. 136 ust. 3 pkt 2” zastępuje się wyrazami „art. 135 ust. 6 pkt 2”;
+
+### 65)
+
+art. 146 otrzymuje brzmienie:
+
+„
+
+### Art. 146.
+
+### 1.
+
+Jeżeli kształcenie ustawiczne w formach pozaszkolnych jest realizowane przez publiczne szkoły, publiczne placówki lub publiczne centra, o których mowa w art. 2 pkt 4, jako forma nieodpłatna lub płatna, na pierwszym etapie postępowania rekrutacyjnego w odniesieniu do danej formy pozaszkolnej kształcenia ustawicznego są brane pod uwagę łącznie kryteria, o których mowa w art. 135 ust. 6 pkt 2. Przepis art. 131 ust. 3 stosuje się.
+
+### 2.
+
+W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana publiczna szkoła, publiczna placówka lub publiczne centrum, o których mowa w art. 2 pkt 4, nadal dysponują wolnymi miejscami na daną formę pozaszkolną kształcenia ustawicznego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów według kolejności zgłoszeń.
+
+### 3.
+
+Przepisy ust. 1 i 2 nie mają zastosowania do form pozaszkolnych prowadzonych przez publiczne szkoły, publiczne placówki i publiczne centra, o których mowa w art. 2 pkt 4, na zlecenie innych podmiotów, a także do turnusów dokształcania teoretycznego młodocianych pracowników.
+
+” ;
+
+### 66)
+
+w art. 147:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na kwalifikacyjny kurs zawodowy prowadzony przez publiczną szkołę, publiczną placówkę lub publiczne centrum, o których mowa w art. 2 pkt 4, przyjmuje się kandydatów, którzy posiadają:
+
+### 1)
+
+zaświadczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 2;
+
+### 2)
+
+w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie, o którym mowa w art. 134 ust. 1 pkt 4;
+
+### 3)
+
+w przypadku kandydatów na kwalifikacyjny kurs zawodowy w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne, o którym mowa w art. 134 ust. 1 pkt 5.
+
+” ,
+
+### b)
+
+w ust. 2 wyraz „ośrodku” zastąpić wyrazem „centrum”,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku większej liczby kandydatów spełniających kryterium, o którym mowa w ust. 2, niż liczba wolnych miejsc w publicznej szkole, publicznej placówce lub publicznym centrum, o których mowa w art. 2 pkt 4, na dany kwalifikacyjny kurs zawodowy lub jeżeli publiczna szkoła, publiczna placówka lub publiczne centrum, o których mowa w art. 2 pkt 4, nadal dysponują wolnymi miejscami na dany kwalifikacyjny kurs zawodowy, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie:
+
+### 1)
+
+w przypadku kandydatów, o których mowa w przepisach wydanych na podstawie art. 36 ust. 16 - kryteria, o których mowa w art. 131 ust. 2;
+
+### 2)
+
+w przypadku kandydata pełnoletniego - kryteria, o których mowa w art. 135 ust. 6 pkt 2;
+
+### 3)
+
+w przypadku kandydatów, którzy ukończyli szkołę ponadpodstawową przed ukończeniem 18. roku życia - kryteria, o których mowa w art. 131 ust. 2.
+
+” ,
+
+### d)
+
+użyte w ust. 5-7, w różnej liczbie i różnym przypadku, wyrazy „publiczny ośrodek” zastępuje się, użytymi w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „publiczne centrum”;
+
+### 67)
+
+art. 148 otrzymuje brzmienie:
+
+„
+
+### Art. 148.
+
+Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej, o którym mowa w art. 134 ust. 2 pkt 4 lit. a, art. 137 ust. 6 pkt 4 lit. a, art. 140 ust. 3 pkt 5 lit. a i art. 143 ust. 3 pkt 4 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
+
+” ;
+
+### 68)
+
+w art. 149 pkt 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4)
+
+publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych - na wybraną formę pozaszkolną kształcenia ustawicznego;
+
+### 5)
+
+publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe - na wybrany kwalifikacyjny kurs zawodowy;
+
+” ;
+
+### 69)
+
+w art. 150 w ust. 2 w pkt 4:
+
+### a)
+
+we wprowadzeniu do wyliczenia wyrazy „art. 135 ust. 1, 3 i 5” zastępuje się wyrazami „art. 135 ust. 1 i 5”,
+
+### b)
+
+lit. d i e otrzymują brzmienie:
+
+„
+
+### d)
+
+zaświadczenie o uzyskaniu tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8 ustawy o systemie oświaty, lub tytułu laureata konkursu dla uczniów szkól i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6 ustawy o systemie oświaty, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1,
+
+### e)
+
+zaświadczenie o zawodzie nauczanym w branżowej szkole I stopnia, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiega się o przyjęcie,
+
+” ,
+
+### c)
+
+po lit. f dodaje się lit. fa-fc w brzmieniu: „ fa) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, fb) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, fc) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje kształcenie zgodnie z wymaganiami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. - świadectwo zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ust. 2 ustawy z dnia 5 sierpnia 2015 r. o pracy na morzu, ” ,
+
+### d)
+
+uchyla się lit. j;
+
+### 70)
+
+w art. 154:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+publicznych szkół podstawowych dla dorosłych, klas I publicznych szkół ponadpodstawowych, klas wstępnych, o których mowa w art. 25 ust. 3, i na semestr pierwszy klas I publicznych branżowych szkół II stopnia i publicznych szkół policealnych - określa do końca stycznia właściwy kurator oświaty.
+
+” ,
+
+### b)
+
+w ust. 2 w pkt 2 skreśla się wyrazy „i art. 141 ust. 2,”,
+
+### c)
+
+w ust. 7 wyraz „ośrodka” zastępuje się wyrazem „centrum”,
+
+### d)
+
+ust. 8 i 9 otrzymują brzmienie:
+
+„
+
+### 8.
+
+Dyrektor publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie ustawiczne w formach pozaszkolnych, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na pozaszkolne formy kształcenia, w tym terminy składania dokumentów.
+
+### 9.
+
+W przypadku publicznych branżowych szkół II stopnia, publicznych szkół policealnych oraz publicznych szkół dla dorosłych komisja rekrutacyjna, w uzgodnieniu z dyrektorem szkoły, rozpatruje w postępowaniu uzupełniającym wniosek kandydata złożony po terminie określonym zgodnie z ust. 1 pkt 2, jeżeli szkoła nadal dysponuje wolnymi miejscami.
+
+” ;
+
+### 71)
+
+w art. 157 w ust. 2 w pkt 3 skreśla się wyrazy „art. 141 ust. 2,”;
+
+### 72)
+
+użyte w art. 159, w różnym przypadku, wyrazy „publiczny ośrodek” zastępuje się, użytymi w odpowiednim przypadku, wyrazami „publiczne centrum”;
+
+### 73)
+
+w art. 162 w pkt 1 wyrazy „art. 135 ust. 4 pkt 1-3” zastępuje się wyrazami „art. 135 ust. 4 pkt 1 i 2”;
+
+### 74)
+
+art. 164 otrzymuje brzmienie:
+
+„
+
+### Art. 164.
+
+### 1.
+
+W przypadku przechodzenia ucznia ze:
+
+### 1)
+
+szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - do szkoły publicznej innego typu,
+
+### 2)
+
+szkoły publicznej lub szkoły niepublicznej - do szkoły publicznej tego samego typu
+
+- o przyjęciu ucznia do danej szkoły decyduje dyrektor szkoły; przepis art. 130 ust. 3 stosuje się odpowiednio.
+
+### 2.
+
+Uczeń przechodzący ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej, niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o której mowa w ust. 1, jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej innego typu albo tego samego typu, po dokonaniu oceny zakresu kształcenia zrealizowanego w szkole, do której uczeń uczęszczał, na podstawie kopii arkusza ocen ucznia, poświadczonej za zgodność z oryginałem przez dyrektora szkoły, do której uczeń uczęszczał, lub na podstawie zaświadczenia o przebiegu nauczania ucznia, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 7.
+
+### 3.
+
+W przypadku przechodzenia ucznia ze szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej, jednego typu do szkoły publicznej innego typu można przeprowadzić egzamin klasyfikacyjny. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
+
+### 4.
+
+Uczeń niepublicznej szkoły artystycznej nieposiadającej uprawnień publicznej szkoły artystycznej jest przyjmowany do odpowiedniej klasy lub na odpowiedni semestr szkoły publicznej po zdaniu egzaminów klasyfikacyjnych. Egzamin klasyfikacyjny przeprowadza się zgodnie z art. 44l ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
+
+### 5.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki przechodzenia ucznia szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - do szkoły publicznej innego typu albo szkoły publicznej tego samego typu, o którym mowa w ust. 1,
+
+### 2)
+
+przypadki, w których uczeń szkoły publicznej, publicznej szkoły artystycznej, szkoły niepublicznej lub niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - może być przyjęty do szkoły publicznej innego typu do klasy programowo wyższej, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych - na semestr programowo wyższy, niż to wynika z kopii arkusza ocen ucznia lub zaświadczenia o przebiegu nauczania ucznia, o których mowa w ust. 2
+
+- uwzględniając potrzebę uzupełnienia różnic programowych przez uczniów, w tym kontynuowania nauki języka obcego nowożytnego.
+
+” ;
+
+### 75)
+
+w art. 165:
+
+### a)
+
+w ust. 3 wyrazy „szkołach dla dorosłych,” zastępuje się wyrazami „szkołach dla dorosłych, publicznych branżowych szkołach II stopnia,”,
+
+### b)
+
+ust. 14 otrzymuje brzmienie:
+
+„
+
+### 14.
+
+Oddziału przygotowawczego nie organizuje się w szkołach artystycznych, szkołach specjalnych, szkołach sportowych, szkołach mistrzostwa sportowego, szkołach dla dorosłych, szkołach policealnych i branżowych szkołach II stopnia.
+
+” ;
+
+### 76)
+
+użyte w art. 165 w ust. 12 i w art. 166 w ust. 3 wyrazy „art. 39 ust. 2-4” zastępuje się wyrazami „art. 39 ust. 2-4a”;
+
+### 77)
+
+w art. 168:
+
+### a)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Osoby prawne i osoby fizyczne mogą zakładać niepubliczne szkoły artystyczne po uzyskaniu wpisu do ewidencji prowadzonej przez specjalistyczną jednostkę nadzoru, o której mowa w art. 53 ust. 1.
+
+### 3.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze rozporządzenia, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1, wydawanie decyzji, o których mowa w art. 176 ust. 4 i art. 179.
+
+” ,
+
+### b)
+
+w ust. 4:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zgłoszenie do ewidencji zawiera: ” ,
+
+- - pkt 2 otrzymuje brzmienie: „ 2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego; ” ,
+
+- - po pkt 2 dodaje się pkt 2a i 2b w brzmieniu: „ 2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego - informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych; 2b) w przypadku szkoły podstawowej - informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne; ” ,
+
+- - w pkt 3: - - wprowadzenie do wyliczenia otrzymuje brzmienie: „ wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku szkoły artystycznej na terenie tej samej miejscowości, a także informację o warunkach lokalowych zapewniających: ” , - - lit. c otrzymuje brzmienie: „ c) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej - możliwość realizacji praktycznej nauki zawodu, ” , - pkt 6 otrzymuje brzmienie: „ 6) zobowiązanie do przestrzegania wymagań określonych odpowiednio w: a) art. 14 ust. 3 - w przypadku szkoły niepublicznej niebędącej szkołą artystyczną, b) art. 14 ust. 4 - w przypadku niepublicznej szkoły artystycznej realizującej kształcenie ogólne, której z dniem rozpoczęcia działalności mają być nadane uprawnienia publicznej szkoły artystycznej; ” , - po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) w przypadku szkoły, o której mowa w art. 178 ust. 1 - informację o zgodzie ministra właściwego do spraw oświaty i wychowania na założenie lub prowadzenie szkoły niepublicznej, która nie spełnia warunków określonych w art. 14 ust. 3; ” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+„
+
+### 4a.
+
+Osoba fizyczna składająca zgłoszenie do ewidencji, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej zgłoszenie. Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki niepublicznej.
+
+### 4b.
+
+Oświadczenie, o którym mowa w ust. 4a, może zostać złożone przez osobę fizyczną również po uzyskaniu wpisu do ewidencji.
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Szkoła, o której mowa w ust. 4 pkt 6 lit. a, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi pozytywną opinię kuratora oświaty, a w przypadku szkoły prowadzącej kształcenie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister właściwy do spraw zdrowia - także opinię tego ministra o spełnieniu wymagań określonych w art. 14 ust. 3.
+
+” ,
+
+### e)
+
+po ust. 5 dodaje się ust. 5a i 5b w brzmieniu:
+
+„
+
+### 5a.
+
+Szkoła, o której mowa w ust. 4 pkt 6 lit. a, prowadząca kształcenie zawodowe, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
+
+### 5b.
+
+Szkołę, o której mowa w art. 178 ust. 1, wpisuje się do ewidencji na podstawie zgody ministra właściwego do spraw oświaty i wychowania.
+
+” ,
+
+### f)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Podmiot, o którym mowa w ust. 2, dokonuje wpisu do ewidencji w ciągu 30 dni od daty zgłoszenia oraz z urzędu doręcza zgłaszającemu zaświadczenie o wpisie do ewidencji, a kopię zaświadczenia przekazuje organowi podatkowemu, a w przypadku szkoły artystycznej realizującej kształcenie ogólne również właściwemu kuratorowi oświaty.
+
+” ,
+
+### g)
+
+w ust. 11:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) nazwę organu lub podmiotu, który dokonał wpisu do ewidencji szkoły lub placówki; ” ,
+
+- - w pkt 3 wyrazy „typ i rodzaj” zastępuje się wyrazami „typ lub rodzaj”, - pkt 5 i 6 otrzymują brzmienie: „ 5) adres szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie zostało przewidziane; 6) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej - nazwy zawodów, w których kształci szkoła; ” ,
+
+- - po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) w przypadku szkoły artystycznej - nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła; ” ,
+
+### h)
+
+w ust. 12 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Organ lub podmiot, o których mowa w ust. 1 i 2, wydają decyzje o odmowie wpisu do ewidencji, jeżeli: ” ,
+
+### i)
+
+ust. 13 otrzymuje brzmienie:
+
+„
+
+### 13.
+
+Osoba prowadząca szkołę lub placówkę jest obowiązana zgłosić organowi lub podmiotowi, o których mowa w ust. 1 i 2, w ciągu 14 dni zmiany w danych zawartych w zgłoszeniu, powstałe po wpisie do ewidencji. Przepisy ust. 4-12 stosuje się odpowiednio.
+
+” ,
+
+### j)
+
+dodaje się ust. 14-16 w brzmieniu:
+
+„
+
+### 14.
+
+W przypadku zmiany organu prowadzącego szkołę lub placówkę wniosek o zmianę danych, o których mowa w ust. 4 pkt 1, składa, nie później niż na miesiąc przed planowanym dniem zmiany organu prowadzącego, osoba dotychczas prowadząca szkołę lub placówkę. W przypadku zgonu osoby fizycznej prowadzącej szkołę lub placówkę wniosek składa osoba, która została wskazana w oświadczeniu, o którym mowa w ust. 4a lub 4b, w terminie 14 dni od dnia zgonu. Zmiana organu prowadzącego następuje z dniem dokonania wpisu tej zmiany do ewidencji. Przepisy ust. 4 pkt 1 i 4 oraz ust. 9-12 stosuje się odpowiednio.
+
+### 15.
+
+Organ lub podmiot właściwy do dokonania wpisu do ewidencji może wyrazić zgodę na złożenie wniosku, o którym mowa w ust. 14, w innym terminie niż określony w tym przepisie.
+
+### 16.
+
+Organ lub podmiot, o których mowa w ust. 1 i 2, podają do publicznej wiadomości wykaz szkół i placówek niepublicznych, zawierający dane, o których mowa w ust. 11 pkt 3 i 5. Podmiot, o którym mowa w ust. 2, w wykazie uwzględnia także informację o posiadaniu przez niepubliczną szkołę artystyczną uprawnień publicznej szkoły artystycznej.
+
+” ;
+
+### 78)
+
+w art. 169:
+
+### a)
+
+w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+stwierdzenia, w trybie nadzoru pedagogicznego, że działalność szkoły lub placówki lub organu prowadzącego tę szkołę lub placówkę jest niezgodna z przepisami niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutem, w szczególności:
+
+### a)
+
+nie jest wypełnione zobowiązanie, o którym mowa w art. 168 ust. 4 pkt 6, albo
+
+### b)
+
+nie są spełnione warunki funkcjonowania szkoły określone zgodnie z art. 178 ust. 4
+
+- jeżeli szkoła lub placówka lub osoba prowadząca szkołę lub placówkę w wyznaczonym terminie nie zastosowała się do polecenia organu sprawującego nadzór pedagogiczny, o którym mowa w art. 180 ust. 2;
+
+” ,
+
+### b)
+
+dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3 lit. b, organ lub podmiot, o których mowa w art. 168 ust. 1 albo 2, powiadamiają o wykreśleniu szkoły odpowiednio ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+### 4.
+
+W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3, przepisy art. 172 ust. 4 i 5, stosuje się odpowiednio.
+
+” ;
+
+### 79)
+
+w art. 172 w ust. 2:
+
+### a)
+
+po pkt 4 dodaje się pkt 4a-4d w brzmieniu:
+
+„
+
+### 4a)
+
+w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych:
+
+### a)
+
+nazwę zawodu lub zawodów, w których kształci szkoła,
+
+### b)
+
+organizację zajęć edukacyjnych w ramach kształcenia zawodowego, w tym organizację praktycznej nauki zawodu,
+
+### c)
+
+organizację kształcenia ogólnego i zawodowego dla pracowników młodocianych - jeżeli szkoła takie kształcenie prowadzi;
+
+### 4b)
+
+w przypadku szkół artystycznych:
+
+### a)
+
+nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła,
+
+### b)
+
+organizację zajęć edukacyjnych;
+
+### 4c)
+
+szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
+
+### 4d)
+
+formę kształcenia - w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia, szkoły policealnej;
+
+” ,
+
+### b)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
+
+” ,
+
+### c)
+
+w pkt 7 w lit. a wyrazy „art. 135 ust. 1-3, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. j oraz ust. 6” zastępuje się wyrazami „art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e-fc”,
+
+### d)
+
+w pkt 8 wyrazy „o uprawnieniach szkoły publicznej” zastępuje się wyrazami „o uprawnieniach publicznej szkoły artystycznej”;
+
+### 80)
+
+po art. 172 dodaje się art. 172a w brzmieniu:
+
+„
+
+### Art. 172a.
+
+Przepis art. 68 ust. 7-7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.
+
+” ;
+
+### 81)
+
+w art. 176:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Niepublicznej szkole artystycznej realizującej kształcenie ogólne założonej zgodnie z art. 168 ust. 1-10, przysługują uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności.
+
+### 2.
+
+Kurator oświaty w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez niepubliczną szkołę podstawową lub szkołę ponadpodstawową, jest obowiązany sprawdzić spełnianie warunków określonych w art. 14 ust. 3. W przypadku niepublicznej szkoły artystycznej realizującej kształcenie ogólne, która uzyskała uprawnienia publicznej szkoły artystycznej z dniem rozpoczęcia działalności, specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1, jest obowiązana sprawdzić spełnianie warunków określonych w art. 14 ust. 4 w ciągu 6 miesięcy od dnia rozpoczęcia działalności przez szkołę.
+
+” ,
+
+### b)
+
+uchyla się ust. 3,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, na wniosek osoby prowadzącej niepubliczną szkołę artystyczną nieposiadającą uprawnień publicznej szkoły artystycznej, złożony nie wcześniej niż po zakończeniu przez szkołę pierwszego roku kształcenia, a w przypadku artystycznej szkoły policealnej - pierwszego semestru kształcenia, nadaje tej szkole uprawnienia publicznej szkoły artystycznej po stwierdzeniu, że szkoła ta spełnia warunki określone w art. 14 ust. 4, a w przypadku szkoły artystycznej realizującej kształcenie ogólne - także po przedstawieniu przez osobę prowadzącą pozytywnej opinii kuratora oświaty.
+
+” ;
+
+### 82)
+
+art. 177-179 otrzymują brzmienie:
+
+„
+
+### Art. 177.
+
+Do przedszkoli niepublicznych, oddziałów przedszkolnych w niepublicznych szkołach podstawowych, niepublicznych innych form wychowania przedszkolnego, szkół i placówek niepublicznych stosuje się odpowiednio art. 127 ust. 1-3 oraz przepisy wydane na podstawie art. 47 ust. 1 pkt 5, art. 127 ust. 19 pkt 2 i ust. 20.
+
+### Art. 178.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania może, w drodze decyzji, wyrazić zgodę na założenie lub prowadzenie szkoły niepublicznej, która nie spełnia warunków określonych w art. 14 ust. 3, w szczególności jeżeli uzna ją za eksperymentalną.
+
+### 2.
+
+Wniosek o wyrażenie zgody na założenie lub prowadzenie szkoły, o której mowa w ust. 1, składa się do ministra właściwego do spraw oświaty i wychowania za pośrednictwem kuratora oświaty, który dołącza swoją opinię.
+
+### 3.
+
+Wniosek o uznanie szkoły za eksperymentalną zawiera cel, założenia i sposób realizacji eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego - także czas trwania i uzasadnienie potrzeby prowadzenia kształcenia w danym zawodzie. Do wniosku dołącza się:
+
+### 1)
+
+opinię jednostki naukowej dotyczącą założeń eksperymentu, a w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego - opinię jednostki naukowej właściwej dla danego zawodu, wraz ze zgodą tej jednostki na sprawowanie opieki nad przebiegiem tego eksperymentu;
+
+### 2)
+
+zgodę rady pedagogicznej wyrażoną w uchwale;
+
+### 3)
+
+w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego:
+
+### a)
+
+podstawę programową kształcenia w tym zawodzie, sporządzoną z uwzględnieniem charakterystyk poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia, oraz propozycję przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionej w tym zawodzie,
+
+### b)
+
+program nauczania tego zawodu,
+
+### c)
+
+tygodniowy lub semestralny rozkład zajęć,
+
+### d)
+
+opinię wojewódzkiej rady rynku pracy o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w art. 22 ust. 5 pkt 5 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy,
+
+### e)
+
+pozytywną opinię w zakresie merytorycznej zawartości programu nauczania przewidzianego dla tego zawodu, wydaną przez jednostkę naukową właściwą dla tego zawodu, a także pozytywną opinię organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, właściwego dla tego zawodu ze względu na treść wniosku, o którym mowa w ust. 2,
+
+### f)
+
+harmonogram realizacji eksperymentu wraz z określeniem niezbędnych zasobów, w tym kadrowych, finansowych, rzeczowych oraz lokalowych,
+
+### g)
+
+przykładowe zestawy zadań egzaminacyjnych - w przypadku eksperymentu dotyczącego zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego;
+
+### 4)
+
+pozytywną opinię ministra właściwego dla zawodu, a w przypadku zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa branżowego - ministra, który ze względu na zakres działu administracji rządowej, którym kieruje, jest właściwy dla zawodu, którego dotyczy wniosek, o którym mowa w ust. 2.
+
+### 4.
+
+Minister właściwy do spraw oświaty i wychowania w decyzji, o której mowa w ust. 1, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty.
+
+### 5.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może, w drodze decyzji, nadać uprawnienia publicznej szkoły artystycznej szkole niespełniającej warunków określonych w art. 14 ust. 4, jeżeli uzna ją za eksperymentalną.
+
+### 6.
+
+Osoba prowadząca szkołę, o której mowa w ust. 5, składa wniosek o nadanie niepublicznej szkole artystycznej uprawnień publicznej szkoły artystycznej do ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, za pośrednictwem specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1, która dołącza swoją opinię.
+
+### 7.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w decyzji, o której mowa w ust. 5, określa niezbędne warunki funkcjonowania szkoły, uwzględniając w szczególności założenia i sposób realizacji eksperymentu, wskazane we wniosku, a także możliwość wydawania świadectw, zaświadczeń i innych druków zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty.
+
+### 8.
+
+Przepis ust. 3 stosuje się odpowiednio do niepublicznych szkół artystycznych, o których mowa w ust. 5.
+
+### Art. 179.
+
+### 1.
+
+Uprawnienia publicznej szkoły artystycznej mogą zostać cofnięte przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, jeżeli w trybie nadzoru pedagogicznego zostanie stwierdzone niespełnianie warunków, o których mowa w art. 14 ust. 4, lub warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7. Cofnięcie uprawnień następuje w drodze decyzji administracyjnej i w przypadku szkoły artystycznej realizującej kształcenie ogólne jest równoznaczne z jej likwidacją z końcem roku szkolnego, w którym decyzja stała się ostateczna.
+
+### 2.
+
+W przypadku cofnięcia uprawnień publicznej szkoły artystycznej niepublicznej szkole artystycznej ponowny wniosek o nadanie tej szkole uprawnień publicznej szkoły artystycznej może zostać złożony nie wcześniej niż po upływie roku kształcenia, a w przypadku artystycznej szkoły policealnej - semestru kształcenia.
+
+### 3.
+
+Organ prowadzący niepubliczną szkołę artystyczną jest obowiązany niezwłocznie poinformować rodziców ucznia lub pełnoletniego ucznia o cofnięciu tej szkole uprawnień publicznej szkoły artystycznej.
+
+” ;
+
+### 83)
+
+w art. 180:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „oraz placówkami, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzi działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutu lub nie wypełnia zobowiązań, o których mowa w art. 168 ust. 4 pkt 6, lub nie spełnia warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej - warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7, organ sprawujący nadzór pedagogiczny może polecić usunięcie uchybień w wyznaczonym terminie.
+
+” ;
+
+### 84)
+
+w art. 182 wyrazy „uprawnień szkoły publicznej” zastępuje się wyrazami „uprawnień publicznej szkoły artystycznej”.
+
+### Art. 2.
+
+W ustawie z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2018 r. poz. 1457](https://api.sejm.gov.pl/eli/acts/DU/2018/1457/text.html), [1560](https://api.sejm.gov.pl/eli/acts/DU/2018/1560/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+użyte w art. 3 w pkt 13a i w art. 10 w ust. 4 wyrazy „podstawie programowej kształcenia w zawodach” zastępuje się wyrazami „podstawie programowej kształcenia w zawodzie szkolnictwa branżowego”;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+po pkt 13a dodaje się pkt 13aa w brzmieniu:
+
+„
+
+### 13aa)
+
+podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego - należy przez to rozumieć podstawę programową, o której mowa w art. 4 pkt 25a ustawy - Prawo oświatowe;
+
+” ,
+
+### b)
+
+pkt 13c otrzymuje brzmienie:
+
+„
+
+### 13c)
+
+programie nauczania zawodu - należy przez to rozumieć opis sposobu realizacji celów kształcenia i treści nauczania ustalonych w:
+
+### a)
+
+podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, w formie oczekiwanych efektów kształcenia, uwzględniający wyodrębnienie kwalifikacji w zawodzie, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy - Prawo oświatowe; program nauczania zawodu zawiera także programy nauczania do poszczególnych obowiązkowych zajęć edukacyjnych z zakresu kształcenia w zawodzie, ustalonych przez dyrektora szkoły - w przypadku szkół prowadzących kształcenie zawodowe, o których mowa w art. 4 pkt 28a lit. a ustawy - Prawo oświatowe,
+
+### b)
+
+podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego, w formie oczekiwanych efektów kształcenia, zgodnie z klasyfikacją zawodów szkolnictwa artystycznego, o której mowa w przepisach wydanych na podstawie art. 46a ust. 1 ustawy - Prawo oświatowe; program nauczania zawodu zawiera także programy nauczania do poszczególnych obowiązkowych zajęć edukacyjnych artystycznych określonych w ramowych planach nauczania dla szkół artystycznych - w przypadku szkół prowadzących kształcenie zawodowe, o których mowa w art. 4 pkt 28a lit. b ustawy - Prawo oświatowe;
+
+” ,
+
+### c)
+
+po pkt 14 dodaje się pkt 14a w brzmieniu:
+
+„
+
+### 14a)
+
+szkole prowadzącej kształcenie zawodowe - należy przez to rozumieć szkołę, o której mowa w art. 4 pkt 28a ustawy - Prawo oświatowe;
+
+” ,
+
+### d)
+
+po pkt 18b dodaje się pkt 18c w brzmieniu:
+
+„
+
+### 18c)
+
+zawodzie - należy przez to rozumieć zawód, o którym mowa w art. 4 pkt 33a ustawy - Prawo oświatowe;
+
+” ,
+
+### e)
+
+pkt 19-21 otrzymują brzmienie:
+
+„
+
+### 19)
+
+kwalifikacji wyodrębnionej w zawodzie - należy przez to rozumieć kwalifikację, o której mowa w art. 4 pkt 34 ustawy - Prawo oświatowe;
+
+### 20)
+
+kwalifikacyjnym kursie zawodowym - należy przez to rozumieć kurs, o którym mowa w art. 4 pkt 35 ustawy - Prawo oświatowe;
+
+### 21)
+
+egzaminie zawodowym - należy przez to rozumieć egzamin umożliwiający uzyskanie certyfikatu kwalifikacji zawodowej w zakresie jednej kwalifikacji, a w przypadku uzyskania certyfikatów kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie oraz posiadania wykształcenia zasadniczego zawodowego, wykształcenia zasadniczego branżowego, wykształcenia średniego branżowego lub wykształcenia średniego - również dyplomu zawodowego;
+
+” ,
+
+### f)
+
+pkt 23 i 24 otrzymują brzmienie:
+
+„
+
+### 23)
+
+podręczniku - należy przez to rozumieć podręcznik do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręcznik do zajęć z zakresu danego języka obcego nowożytnego, podręcznik do zajęć edukacyjnych z zakresu kształcenia ogólnego, w tym podręcznik przeznaczony do kształcenia specjalnego, dopuszczony do użytku szkolnego;
+
+### 24)
+
+materiale edukacyjnym - należy przez to rozumieć:
+
+### a)
+
+materiał do kształcenia ogólnego, w tym dostosowany do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, zastępujący lub uzupełniający podręcznik, umożliwiający realizację programu nauczania do danych zajęć edukacyjnych z zakresu kształcenia ogólnego, na danym etapie edukacyjnym,
+
+### b)
+
+materiał do kształcenia zawodowego, w tym dostosowany do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, umożliwiający realizację programu nauczania zawodu
+
+- mający postać papierową lub elektroniczną;
+
+” ;
+
+### 3)
+
+użyte w art. 9a w ust. 2 w pkt 1-5 i 9, w art. 9c w ust. 2 w pkt 1, 2, 5, w pkt 6 w lit. a, w pkt 11, w ust. 3 w pkt 1 i 4, w ust. 5 w pkt 2 w lit. b i c oraz w ust. 9 i 11, w art. 9ca w ust. 1 w pkt 2, w ust. 4 we wprowadzeniu do wyliczenia oraz w pkt 1 i 2, w art. 9cb w ust. 4 w części wspólnej, w ust. 6 w pkt 1 i w części wspólnej, w art. 9e w ust. 1 i 3, w tytule rozdziału 3b, w art. 44zzzc, w art. 44zzzd w ust. 1, w art. 44zzze w ust. 1 i 3, w art. 44zzzf w ust. 4-7, w ust. 8 we wprowadzeniu do wyliczenia oraz w pkt 4 i 5 oraz w ust. 10 i 13-15, w art. 44zzzg, w art. 44zzzh w ust. 2, w art. 44zzzi w ust. 4 i 6, w art. 44zzzj, w art. 44zzzm, w art. 44zzzn w ust. 1 i 3, w art. 44zzzp w ust. 1 w pkt 3 i w części wspólnej oraz w ust. 2, w art. 44zzzq w ust. 5 i 15, w art. 44zzzr w ust. 6, 7 i 10, w art. 44zzzt w ust. 4, 10 i w ust. 21 w części wspólnej, w art. 44zzzw w ust. 1 w pkt 1, w art. 44zzzy i w art. 90u w ust. 4 w pkt 2, w różnej liczbie i różnym przypadku, wyrazy „egzamin potwierdzający kwalifikacje w zawodzie” zastępuje się użytymi, w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „egzamin zawodowy”;
+
+### 4)
+
+w art. 9a w ust. 2:
+
+### a)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+ustalanie zasad przygotowywania propozycji zadań i arkuszy egzaminacyjnych, o których mowa w art. 9c ust. 2 pkt 2, oraz materiałów egzaminacyjnych, o których mowa w pkt 1, w tym określenie przypadków, w których w przygotowywaniu propozycji tych zadań i arkuszy egzaminacyjnych oraz materiałów egzaminacyjnych biorą udział pracownicy szkół wyższych lub przedstawiciele pracodawców;
+
+” ,
+
+### b)
+
+pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+ogłaszanie każdego roku w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej:
+
+### a)
+
+komunikatów w sprawie:
+
+- - harmonogramu przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminie głównym i terminie dodatkowym, a w przypadku egzaminu maturalnego - również w terminie poprawkowym, oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, w tym: - - terminów ogłaszania wyników egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego, - - terminów przekazywania szkołom wyników egzaminu ósmoklasisty i części pisemnej egzaminu maturalnego oraz zaświadczeń o szczegółowych wynikach egzaminu ósmoklasisty, świadectw dojrzałości, aneksów do świadectw dojrzałości i zaświadczeń o wynikach egzaminu maturalnego, - - terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, wyników egzaminu zawodowego oraz terminów przekazywania szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, i pracodawcom certyfikatów kwalifikacji zawodowych oraz terminów przekazywania szkołom dyplomów zawodowych, - materiałów i przyborów pomocniczych, z których można korzystać na egzaminie ósmoklasisty, egzaminie maturalnym, egzaminie zawodowym oraz egzaminach eksternistycznych, o których mowa w art. 10 ust. 1 i 3, a także listy systemów operacyjnych, programów użytkowych oraz języków programowania - w przypadku egzaminu maturalnego z informatyki, - szczegółowych sposobów dostosowania warunków i form przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3, do potrzeb osób, o których mowa w art. 44zzr, art. 44zzzf i art. 44zzzh, - listy kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy - Prawo oświatowe, z których zadania egzaminacyjne w części praktycznej egzaminu zawodowego są jawne, wraz z podaniem miejsca udostępnienia tych zadań do publicznej wiadomości,
+
+### b)
+
+informacji o sposobie organizacji i przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu zawodowego oraz egzaminów eksternistycznych, o których mowa w art. 10 ust. 1 i 3.
+
+” ;
+
+### 5)
+
+w art. 9c:
+
+### a)
+
+w ust. 2:
+
+- - po pkt 8 dodaje się pkt 8a w brzmieniu: „ 8a) przekazywanie dyrektorom szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, informacji o egzaminatorach wyznaczonych do przeprowadzenia części praktycznej egzaminu zawodowego, o których mowa w art. 44zzzn ust. 2, zawierającej imię i nazwisko egzaminatora oraz jego adres poczty elektronicznej i numer telefonu; ” ,
+
+- - pkt 9 otrzymuje brzmienie: „ 9) udzielanie szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, upoważnień do przeprowadzania części praktycznej lub części pisemnej egzaminu zawodowego; ” ,
+
+### b)
+
+ust. 2b otrzymuje brzmienie:
+
+„
+
+### 2b.
+
+Dla celów przeprowadzania egzaminu ósmoklasisty, egzaminu maturalnego oraz egzaminu zawodowego okręgowe komisje egzaminacyjne nadają szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcom i podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, indywidualne numery identyfikacyjne.
+
+” ,
+
+### c)
+
+w ust. 3 w pkt 2 wyrazy „szkole niepublicznej o uprawnieniach szkoły publicznej” zastępuje się wyrazami „szkole niepublicznej, niepublicznej szkole artystycznej o uprawnieniach publicznej szkoły artystycznej”,
+
+### d)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego może również być wpisana osoba, która:
+
+### 1)
+
+jest przedstawicielem pracodawcy lub organizacji pracodawców, samorządu gospodarczego lub innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego albo sektorowej rady do spraw kompetencji, oraz:
+
+### a)
+
+posiada kwalifikacje wymagane od instruktora praktycznej nauki zawodu i spełnia warunki określone w ust. 3 pkt 3 i 4 albo
+
+### b)
+
+posiada przygotowanie zawodowe uznane przez dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, za odpowiednie do prowadzenia zajęć z zakresu kształcenia zawodowego, o którym mowa w art. 15 ust. 6 ustawy - Prawo oświatowe, i spełnia warunki określone w ust. 3 pkt 3 i 4, albo
+
+### c)
+
+posiada co najmniej sześcioletnie udokumentowane doświadczenie w zawodzie, którego zakres odpowiada zawodowi, w zakresie którego ubiega się o wpis do ewidencji egzaminatorów, uzyskane w okresie ostatnich 10 lat, i spełnia warunki określone w ust. 3 pkt 3 i 4;
+
+### 2)
+
+jest egzaminatorem wpisanym na listę egzaminatorów prowadzoną przez ministra właściwego do spraw gospodarki morskiej, o której mowa w art. 77 ust. 3 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim ([Dz. U. z 2018 r. poz. 181](https://api.sejm.gov.pl/eli/acts/DU/2018/181/text.html), [1137](https://api.sejm.gov.pl/eli/acts/DU/2018/1137/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)), i spełnia warunki określone w ust. 3 pkt 3 i 4.
+
+” ,
+
+### e)
+
+w ust. 9 wyrazy „także pracodawcy” zastępuje się wyrazami „także asystenci techniczni, o których mowa w art. 44zzzia ust. 1, pracodawcy”,
+
+### f)
+
+po ust. 10 dodaje się ust. 10a w brzmieniu:
+
+„
+
+### 10a.
+
+Dyrektor okręgowej komisji egzaminacyjnej zawiera z asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, umowy określające zakres ich obowiązków oraz wysokość wynagrodzenia.
+
+” ,
+
+### g)
+
+w ust. 11 wyrazy „ust. 12” zastępuje się wyrazami „ust. 12 i 13”,
+
+### h)
+
+dodaje się ust. 13 w brzmieniu:
+
+„
+
+### 13.
+
+Nauczyciele będący egzaminatorami albo asystentami technicznymi, o których mowa w art. 44zzzia ust. 1, biorący udział w przeprowadzaniu części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, z którymi dyrektor okręgowej komisji egzaminacyjnej zawarł umowy, o których mowa odpowiednio w ust. 10 lub 10a, są zwolnieni od pracy w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, w której są zatrudnieni, na czas niezbędny do przeprowadzenia tego egzaminu, z zachowaniem prawa do wynagrodzenia.
+
+” ;
+
+### 6)
+
+w art. 9ca:
+
+### a)
+
+w ust. 7 w pkt 3 wyrazy „klasyfikacją zawodów szkolnictwa zawodowego” zastępuje się wyrazami „klasyfikacją zawodów szkolnictwa branżowego”,
+
+### b)
+
+w ust. 10 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+arbiter, podejmując rozstrzygnięcie w odniesieniu do zadania lub zadań egzaminacyjnych, nie przestrzega zasad oceniania rozwiązań zadań, o których mowa w art. 9a ust. 2 pkt 2.
+
+” ;
+
+### 7)
+
+w art. 9e dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Przepisów ust. 1-3 nie stosuje się do zadań egzaminacyjnych w części praktycznej egzaminu zawodowego, o których mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte.
+
+” ;
+
+### 8)
+
+po art. 9f dodaje się art. 9fa w brzmieniu:
+
+„
+
+### Art. 9fa.
+
+### 1.
+
+W roku 2019 ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+
+### 1)
+
+wynagrodzeniami egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+
+### 2)
+
+wynagrodzeniami przewodniczących zespołów egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+
+### 3)
+
+wynagrodzeniami asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.,
+
+### 4)
+
+przygotowaniem propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 5)
+
+przygotowywaniem materiałów egzaminacyjnych, w szczególności zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 6)
+
+opracowywaniem informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, wraz z rozwiązaniami, oraz przygotowaniem propozycji zadań do tych informatorów - w wysokości 20 zł za jednorazowe przystąpienie do egzaminu z każdej kwalifikacji wyodrębnionej w danym zawodzie osoby zdającej egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
+
+### 2.
+
+Ze środków Funduszu Pracy dofinansowuje się koszty przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego, związane odpowiednio z:
+
+### 1)
+
+wynagrodzeniami egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 2)
+
+wynagrodzeniami przewodniczących zespołów egzaminatorów sprawdzających i oceniających część praktyczną egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 3)
+
+wynagrodzeniami asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 4)
+
+przygotowaniem propozycji zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 5)
+
+przygotowywaniem materiałów egzaminacyjnych, w szczególności zadań i arkuszy egzaminacyjnych do przeprowadzania egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzaminu potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., oraz egzaminu zawodowego,
+
+### 6)
+
+opracowywaniem informatorów zawierających w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, wraz z rozwiązaniami oraz przygotowaniem propozycji zadań do tych informatorów
+
+- w roku 2020 w wysokości 51 zł, w roku 2021 w wysokości 71 zł, a od roku 2022 w wysokości 76 zł, za jednorazowe przystąpienie do egzaminu z każdej kwalifikacji wyodrębnionej w danym zawodzie osoby zdającej egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a, w brzmieniu obowiązującym przed dniem 1 września 2017 r., egzamin potwierdzający kwalifikacje w zawodzie przeprowadzany na podstawie wymagań określonej w podstawie programowej kształcenia w zawodach określonych w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy - Prawo oświatowe, w brzmieniu obowiązującym przed dniem 1 września 2019 r., lub egzamin zawodowy.
+
+” ;
+
+### 9)
+
+w art. 10 w ust. 3:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+certyfikat kwalifikacji zawodowej po zdaniu egzaminu eksternistycznego zawodowego w zakresie danej kwalifikacji, przeprowadzanego przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b;
+
+” ,
+
+### b)
+
+w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ dyplom zawodowy, jeżeli posiada certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie oraz posiada: ” ;
+
+### 10)
+
+art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+### 1.
+
+Świadectwa, certyfikaty, zaświadczenia, aneksy i dyplomy państwowe wydawane przez uprawnione do tego szkoły, placówki kształcenia ustawicznego i centra kształcenia zawodowego, kolegia pracowników służb społecznych oraz okręgowe komisje egzaminacyjne są dokumentami urzędowymi.
+
+### 2.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i tryb wydawania oraz wzory świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji ([Dz. U. z 2018 r. poz. 2153](https://api.sejm.gov.pl/eli/acts/DU/2018/2153/text.html)),
+
+### 2)
+
+tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych i innych druków,
+
+### 3)
+
+tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą,
+
+### 4)
+
+wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, certyfikatów, zaświadczeń, aneksów, dyplomów państwowych, odpisów świadectw dojrzałości i odpisów aneksów do świadectw dojrzałości oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą
+
+- uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej szkół i wyników egzaminów przeprowadzanych przez okręgowe komisje egzaminacyjne, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa, zaświadczenia lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
+
+### 3.
+
+W rozporządzeniu, o którym mowa w ust. 2, na świadectwach ukończenia szkół, o których mowa w art. 18 ust. 1 pkt 1 i 2 lit. a-c i e ustawy - Prawo oświatowe, zamieszcza się w szczególności informację o poziomie wykształcenia, a w przypadku szkół prowadzących kształcenie zawodowe, z wyjątkiem szkół artystycznych, również informację o tym, że świadectwo ukończenia tej szkoły nie potwierdza uzyskania kwalifikacji w zawodzie.
+
+### 4.
+
+W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i tryb wydawania oraz wzory świadectw, dyplomów państwowych i innych druków, w tym umieszczenie na wzorach znaków graficznych, o których mowa w art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji,
+
+### 2)
+
+tryb i sposób dokonywania sprostowań, zmiany imienia (imion) lub nazwiska oraz wydawania duplikatów świadectw, dyplomów państwowych i innych druków,
+
+### 3)
+
+tryb i sposób dokonywania uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą,
+
+### 4)
+
+wysokość i sposób dokonywania opłat za wydawanie duplikatów świadectw, dyplomów państwowych oraz innych druków, a także za dokonywanie uwierzytelnienia dokumentów przeznaczonych do obrotu prawnego z zagranicą
+
+- uwzględniając konieczność zapewnienia prawidłowego tworzenia dokumentacji przebiegu nauczania, oceniania wyników pracy dydaktyczno-wychowawczej publicznych szkół i placówek artystycznych, w tym możliwość poświadczania zgodności kopii z oryginałem świadectwa lub innego druku, a także wymóg, aby wysokość odpłatności za wykonywanie czynności, o których mowa w pkt 4, nie przewyższała kwoty opłaty skarbowej za uwierzytelnienie dokumentu, określonej w przepisach o opłacie skarbowej.
+
+” ;
+
+### 11)
+
+po art. 11a dodaje się art. 11b w brzmieniu:
+
+„
+
+### Art. 11b.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, warunki uzyskania przez osobę posiadającą certyfikat kwalifikacji zawodowej, świadectwo potwierdzające kwalifikację w zawodzie lub świadectwo czeladnicze, odpowiednio dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika, uwzględniając wykształcenie tej osoby oraz potwierdzone przez nią kwalifikacje wyodrębnione w zawodzie, a także sposób ustalania wyniku zgodnie z art. 44zzzo ust. 3 i 6.
+
+” ;
+
+### 12)
+
+w art. 22:
+
+### a)
+
+w ust. 2 w pkt 13 po wyrazach „o których mowa w art. 9c ust. 10,” dodaje się wyrazy „oraz asystentów technicznych, o których mowa w art. 44zzzia ust. 1,”,
+
+### b)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację oraz sposób przeprowadzania konkursów dla uczniów szkół i placówek artystycznych, uwzględniając, że konkursy powinny służyć odkrywaniu i rozwijaniu uzdolnień uczniów, pobudzaniu twórczego myślenia i wrażliwości artystycznej, wspomaganiu zdolności stosowania zdobytej wiedzy i umiejętności w praktycznym działaniu, a także lepszemu przygotowaniu uczniów do nauki w szkołach wyższego stopnia lub do wykonywania zawodu.
+
+” ;
+
+### 13)
+
+w art. 22a:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej, nauczyciel lub zespół nauczycieli prowadzących kształcenie zawodowe w danym zawodzie przedstawia dyrektorowi szkoły program nauczania tego zawodu. W przypadku szkoły artystycznej nauczyciel lub zespół nauczycieli prowadzących dane zajęcia edukacyjne artystyczne przedstawia dyrektorowi szkoły program nauczania danych zajęć edukacyjnych artystycznych.
+
+” ,
+
+### b)
+
+w ust. 4 wyrazy „podstawie programowej kształcenia w zawodach” zastępuje się, wyrazami „podstawie programowej kształcenia w zawodzie szkolnictwa branżowego albo podstawie programowej kształcenia w zawodzie szkolnictwa artystycznego”,
+
+### c)
+
+w ust. 7 wyrazy „a w przypadku szkoły prowadzącej kształcenie zawodowe - także całości podstawy programowej kształcenia w zawodach, w których kształci szkoła” zastępuje się wyrazami „a w przypadku szkoły prowadzącej kształcenie zawodowe - także podstaw programowych kształcenia w zawodach szkolnictwa branżowego albo podstaw programowych kształcenia w zawodach szkolnictwa artystycznego, w których kształci szkoła”,
+
+### d)
+
+w ust. 9 wyrazy „Programy nauczania do zawodów” zastępuje się wyrazami „Programy nauczania zawodów”,
+
+### e)
+
+w ust. 10 wyrazy „Programy nauczania do zawodów” zastępuje się wyrazami „Programy nauczania zawodów”,
+
+### f)
+
+w ust. 11 wyrazy „Programy nauczania do zawodów” zastępuje się wyrazami „Programy nauczania zawodów”;
+
+### 14)
+
+w art. 22aa dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Program nauczania może być realizowany również z wykorzystaniem w szczególności urządzeń, sprzętu lub oprogramowania, przydatnych do realizacji tego programu, z uwzględnieniem potrzeb edukacyjnych i możliwości psychofizycznych uczniów.
+
+” ;
+
+### 15)
+
+w art. 22an:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania dopuszcza do użytku szkolnego podręczniki, po uzyskaniu pozytywnych opinii rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania z listy rzeczoznawców prowadzonej przez tego ministra.
+
+” ,
+
+### b)
+
+uchyla się ust. 2-2b,
+
+### c)
+
+w ust. 3 skreśla się zdanie drugie,
+
+### d)
+
+uchyla się ust. 6,
+
+### e)
+
+dodaje się ust. 8 w brzmieniu:
+
+„
+
+### 8.
+
+Stroną postępowania w sprawie dopuszczenia podręcznika do użytku szkolnego jest wyłącznie wnioskodawca występujący z wnioskiem o dopuszczenie podręcznika. Przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego nie stosuje się.
+
+” ;
+
+### 16)
+
+w art. 22ao w ust. 3:
+
+### a)
+
+uchyla się pkt 3,
+
+### b)
+
+po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+w przypadku podręcznika w postaci papierowej - jest opracowany w postaci papierowej i ponadto jego cyfrowe odzwierciedlenie jest zamieszczone na informatycznym nośniku danych lub w Internecie;
+
+” ;
+
+### 17)
+
+art. 22ap otrzymuje brzmienie:
+
+„
+
+### Art. 22ap.
+
+Podręczniki dopuszczone do użytku szkolnego są wpisywane do wykazu, który jest podawany do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+” ;
+
+### 18)
+
+w art. 22aq:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, może cofnąć dopuszczenie do użytku szkolnego podręcznika: ” ,
+
+- - w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ z urzędu - jeżeli co najmniej dwóch rzeczoznawców wyznaczonych przez ministra właściwego do spraw oświaty i wychowania stwierdzi, że podręcznik: ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw oświaty i wychowania zamieszcza na stronie internetowej urzędu obsługującego tego ministra informację o terminie, po upływie którego podręcznik nie może być uwzględniony w zestawie, o którym mowa w art. 22ab ust. 4 pkt 1.
+
+” ;
+
+### 19)
+
+art. 22ar otrzymuje brzmienie:
+
+„
+
+### Art. 22ar.
+
+Wpis na listę rzeczoznawców jest dokonywany na wniosek osoby zainteresowanej.
+
+” ;
+
+### 20)
+
+w art. 22as:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) doświadczenie i osiągnięcia w pracy naukowej lub dydaktycznej; ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) rekomendację instytucji lub, w przypadku osoby ubiegającej się o wpis na listę rzeczoznawców do spraw podręczników przeznaczonych do kształcenia specjalnego, rekomendację organizacji pozarządowej, jeżeli statutowa działalność tej organizacji obejmuje działalność naukową lub edukacyjną na rzecz osób niepełnosprawnych, potwierdzającą posiadanie doświadczenia i osiągnięć odpowiednio w pracy naukowej lub dydaktycznej, przez osobę ubiegającą się o wpis na listę rzeczoznawców, zapewniających należyte wykonywanie obowiązków rzeczoznawcy do spraw podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczników do zajęć z zakresu danego języka obcego nowożytnego, podręczników do zajęć edukacyjnych z zakresu kształcenia ogólnego lub podręczników przeznaczonych do kształcenia specjalnego dla uczniów z danym rodzajem niepełnosprawności. ” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) przeciwko której toczy się postępowanie dyscyplinarne, postępowanie karne o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie karne skarbowe o umyślne przestępstwo skarbowe; ” ,
+
+- - w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) nie ma pełniej zdolności do czynności prawnych i nie korzysta z pełni praw publicznych. ” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Lista rzeczoznawców jest podawana do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania.
+
+” ;
+
+### 21)
+
+w art. 22at:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania skreśla rzeczoznawcę z listy rzeczoznawców: ” ,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) na wniosek rzeczoznawcy; ” ,
+
+- - po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) w przypadku utraty przez rzeczoznawcę pełnej zdolności do czynności prawnych lub pełni praw publicznych; ” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Rzeczoznawca ma obowiązek niezwłocznie poinformować ministra właściwego do spraw oświaty i wychowania o zaistnieniu okoliczności, o których mowa w ust. 1 pkt 2 i 2a.
+
+” ,
+
+### c)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania może skreślić rzeczoznawcę z listy rzeczoznawców, jeżeli: ” ,
+
+### d)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania zawiesza rzeczoznawcę w wykonywaniu jego zadań, w przypadku, gdy przeciwko rzeczoznawcy toczy się postępowanie dyscyplinarne , postępowanie karne o umyślne przestępstwo ścigane z oskarżenia publicznego lub postępowanie karne skarbowe o umyślne przestępstwo skarbowe.
+
+” ;
+
+### 22)
+
+w art. 22au:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+jest autorem lub współautorem podręcznika, który jest przeznaczony do tych samych zajęć edukacyjnych na tym samym etapie edukacyjnym;
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przed sporządzeniem opinii o podręczniku rzeczoznawca składa ministrowi właściwemu do spraw oświaty i wychowania oświadczenie, że nie zachodzą przesłanki, o których mowa w ust. 1.
+
+” ;
+
+### 23)
+
+w art. 22av wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wysokość wynagrodzenia rzeczoznawcy ustala minister właściwy do spraw oświaty i wychowania, biorąc pod uwagę: ” ;
+
+### 24)
+
+w art. 22aw w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia: ” ;
+
+### 25)
+
+w art. 22ay w ust. 2 wyrazy „szkolnych punktów konsultacyjnych” zastępuje się wyrazami „szkół polskich, o których mowa w art. 4 pkt 29d ustawy - Prawo oświatowe”;
+
+### 26)
+
+w art. 22c:
+
+### a)
+
+ust. 1-4 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania może zlecić opracowanie i wydanie, w tym dystrybucję:
+
+### 1)
+
+podręcznika,
+
+### 2)
+
+materiału edukacyjnego,
+
+### 3)
+
+dostosowanej do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych książki pomocniczej,
+
+### 4)
+
+dostosowanego do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych materiału ćwiczeniowego
+
+- lub ich części.
+
+### 2.
+
+Podręcznik lub jego część opracowane w wyniku zlecenia, o którym mowa w ust. 1, oraz zaakceptowane przez ministra właściwego do spraw oświaty i wychowania są dopuszczone do użytku szkolnego z mocy prawa.
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania przed zaakceptowaniem podręcznika lub jego części opracowanych w wyniku zlecenia, o którym mowa w ust. 1, zasięga opinii rzeczoznawców wyznaczonych z listy rzeczoznawców, o której mowa w art. 22an ust. 1. Przepisy art. 22at ust. 2 pkt 1, art. 22au i art. 22av stosuje się odpowiednio.
+
+### 4.
+
+Zadanie, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania może wykonywać wraz z jednostkami podległymi temu ministrowi lub przez niego nadzorowanymi, a także we współdziałaniu z wojewodami i kuratorami oświaty.
+
+” ,
+
+### b)
+
+uchyla się ust. 4a;
+
+### 27)
+
+w art. 32a uchyla się ust. 4;
+
+### 28)
+
+w art. 44b:
+
+### a)
+
+uchyla się ust. 2,
+
+### b)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+wymagań określonych w podstawie programowej kształcenia ogólnego lub efektów kształcenia i kryteriów weryfikacji w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego oraz wymagań edukacyjnych wynikających z realizowanych w szkole programów nauczania;
+
+” ,
+
+### c)
+
+w ust. 8 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Nauczyciele na początku każdego roku szkolnego informują uczniów oraz ich rodziców o: ” ;
+
+### 29)
+
+użyte w art. 44b w ust. 6 w pkt 1, 5 i 6 oraz w ust. 8 w pkt 1 i 3, w art. 44h w ust. 1, 3 i 4, w art. 44i w ust. 3 w pkt 2, w art. 44n w ust. 4 we wprowadzeniu do wyliczenia, w pkt 1 oraz w ust. 5 i 7, w różnej liczbie i różnym przypadku, wyrazy „roczna, a w szkole policealnej - semestralna, ocena klasyfikacyjna” zastępuje się użytymi, w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „roczna ocena klasyfikacyjna”;
+
+### 30)
+
+w art. 44e:
+
+### a)
+
+w ust. 1 w pkt 2 w lit. a skreśla się wyrazy „a w szkole policealnej - semestralne,”,
+
+### b)
+
+w ust. 2 skreśla się zdanie drugie,
+
+### c)
+
+w ust. 4 skreśla się zdanie drugie,
+
+### d)
+
+uchyla się ust. 6;
+
+### 31)
+
+w art. 44f:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+śródrocznej i rocznej;
+
+” ,
+
+### b)
+
+uchyla się ust. 4,
+
+### c)
+
+w ust. 5 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+roczne oceny klasyfikacyjne z zajęć edukacyjnych, ustalone w klasie programowo najwyższej oraz
+
+### 2)
+
+roczne oceny klasyfikacyjne z zajęć edukacyjnych, których realizacja zakończyła się w klasach programowo niższych w szkole danego typu, oraz
+
+” ,
+
+### d)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Klasyfikacji końcowej dokonuje się w klasie programowo najwyższej szkoły danego typu.
+
+” ;
+
+### 32)
+
+w art. 44g uchyla się ust. 2;
+
+### 33)
+
+w art. 44h ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W technikum i branżowej szkole I stopnia, które organizują praktyczną naukę zawodu, śródroczną i roczną ocenę klasyfikacyjną z zajęć prowadzonych w ramach praktycznej nauki zawodu ustalają nauczyciele praktycznej nauki zawodu lub osoby prowadzące praktyczną naukę zawodu, o których mowa w przepisach wydanych na podstawie art. 120 ust. 4 ustawy - Prawo oświatowe.
+
+” ;
+
+### 34)
+
+art. 44j otrzymuje brzmienie:
+
+„
+
+### Art. 44j.
+
+Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy - Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zb. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
+
+” ;
+
+### 35)
+
+w art. 44k ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Uczeń może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia w okresie, za który przeprowadzana jest klasyfikacja.
+
+” ;
+
+### 36)
+
+w art. 44l:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Dla ucznia technikum i branżowej szkoły I stopnia, nieklasyfikowanego z zajęć prowadzonych w ramach praktycznej nauki zawodu z powodu usprawiedliwionej nieobecności szkoła organizuje zajęcia umożliwiające uzupełnienie programu nauczania i ustalenie śródrocznej lub rocznej oceny klasyfikacyjnej z zajęć prowadzonych w ramach praktycznej nauki zawodu.
+
+” ;
+
+### 37)
+
+w art. 44m:
+
+### a)
+
+w ust. 1 we wprowadzeniu do wyliczenia wyrazy „klasyfikacji rocznej, a w szkole policealnej - semestralnej, otrzymał” zastępuje się wyrazami „klasyfikacji rocznej otrzymał”,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu poprawkowego w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie, wyznaczonym przez dyrektora szkoły, nie później niż do końca września.
+
+” ,
+
+### c)
+
+w ust. 4 wyrazy „Roczna, a w szkole policealnej - semestralna, ocena” zastępuje się wyrazami „Roczna ocena”,
+
+### d)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Uczeń, który nie zdał egzaminu poprawkowego nie otrzymuje promocji do klasy programowo wyższej i powtarza klasę.
+
+### 6.
+
+Rada pedagogiczna, uwzględniając możliwości edukacyjne ucznia, może jeden raz w ciągu danego etapu edukacyjnego promować do klasy programowo wyższej ucznia, który nie zdał egzaminu poprawkowego z jednych obowiązkowych zajęć edukacyjnych albo zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego, pod warunkiem że te zajęcia są realizowane w klasie programowo wyższej.
+
+” ;
+
+### 38)
+
+w art. 44n:
+
+### a)
+
+uchyla się ust. 2,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zastrzeżenia, o których mowa w ust. 1, zgłasza się od dnia ustalenia rocznej oceny klasyfikacyjnej z zajęć edukacyjnych lub rocznej oceny klasyfikacyjnej zachowania, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia rocznych zajęć dydaktyczno-wychowawczych.
+
+” ,
+
+### c)
+
+w ust. 6 wyrazy „rodzicami, a w szkole policealnej - w uzgodnieniu z uczniem” zastępuje się wyrazem „rodzicami”;
+
+### 39)
+
+w art. 44o:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Począwszy od klasy IV szkoły podstawowej, uczeń otrzymuje promocję do klasy programowo wyższej, jeżeli:
+
+### 1)
+
+ze wszystkich obowiązkowych zajęć edukacyjnych oraz zajęć z języka mniejszości narodowej, mniejszości etnicznej lub języka regionalnego otrzymał roczne pozytywne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb, z zastrzeżeniem art. 44m ust. 6;
+
+### 2)
+
+w przypadku technikum - przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danej klasie, z zastrzeżeniem ust. 8 i art. 44zzzga.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Uczeń, który nie otrzymał promocji do klasy programowo wyższej, powtarza klasę.
+
+” ,
+
+### c)
+
+dodaje się ust. 8 i 9 w brzmieniu:
+
+„
+
+### 8.
+
+Rada pedagogiczna, uwzględniając możliwości edukacyjne ucznia technikum, może jeden raz w ciągu danego etapu edukacyjnego promować do klasy programowo wyższej ucznia, który spełnił warunki określone w ust. 4 pkt 1, ale z przyczyn losowych lub zdrowotnych nie przystąpił do egzaminu zawodowego w terminie głównym i w terminie dodatkowym. Decyzja rady pedagogicznej jest ostateczna.
+
+### 9.
+
+Uczeń, o którym mowa w ust. 8, przystępuje do egzaminu zawodowego w możliwie najbliższym terminie głównym przeprowadzania tego egzaminu.
+
+” ;
+
+### 40)
+
+w art. 44q:
+
+### a)
+
+w ust. 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu:
+
+„
+
+### 3)
+
+w przypadku technikum - przystąpił ponadto do egzaminu zawodowego ze wszystkich kwalifikacji wyodrębnionych w zawodzie, z zastrzeżeniem art. 44zzzga;
+
+### 4)
+
+w przypadku branżowej szkoły I stopnia - przystąpił ponadto do:
+
+### a)
+
+egzaminu zawodowego - w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1,
+
+### b)
+
+egzaminu czeladniczego zgodnie z przepisami wydanymi na podstawie art. 3 ust. 4 ustawy z dnia 22 marca 1989 r. o rzemiośle ([Dz. U. z 2018 r. poz. 1267](https://api.sejm.gov.pl/eli/acts/DU/2018/1267/text.html)) - w przypadku ucznia będącego młodocianym pracownikiem zatrudnionym w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Uczeń:
+
+### 1)
+
+liceum ogólnokształcącego i szkoły specjalnej przysposabiającej do pracy, który nie spełnił warunku, o którym mowa w ust. 1 pkt 1,
+
+### 2)
+
+technikum i branżowej szkoły I stopnia, który nie spełnił warunku, o którym mowa w ust. 1 pkt 1, 3 lub 4
+
+- powtarza ostatnią klasę tej szkoły.
+
+” ;
+
+### 41)
+
+użyte w art. 44r, w art. 44s w ust. 2, w art. 44t, w art. 44u w ust. 1-3 i 6, w art. 44v w ust. 1 we wprowadzeniu do wyliczenia, w art. 44w w ust. 3, w art. 44x we wprowadzeniu do wyliczenia i w art. 44z w ust. 3, w różnej liczbie i różnym przypadku, wyrazy „szkoła dla dorosłych” zastępuje się użytymi, w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „szkoła dla dorosłych, branżowa szkoła II stopnia i szkoła policealna”;
+
+### 42)
+
+w art. 44s ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do słuchaczy szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej przepisy art. 44b ust. 1 pkt 1, ust. 3, 5 i 10 oraz art. 44j stosuje się odpowiednio.
+
+” ;
+
+### 43)
+
+po art. 44s dodaje się art. 44sa i art. 44sb w brzmieniu:
+
+„
+
+### Art. 44sa.
+
+### 1.
+
+W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej ocenianie wewnątrzszkolne obejmuje:
+
+### 1)
+
+formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
+
+### 2)
+
+ustalanie bieżących i semestralnych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
+
+### 3)
+
+przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy - Prawo oświatowe;
+
+### 4)
+
+ustalanie warunków i trybu otrzymania wyższych niż przewidywane semestralnych ocen klasyfikacyjnych z zajęć edukacyjnych;
+
+### 5)
+
+w przypadku niepełnoletnich słuchaczy - ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce oraz o szczególnych uzdolnieniach słuchacza.
+
+### 2.
+
+Nauczyciele na początku każdego semestru informują słuchaczy o:
+
+### 1)
+
+wymaganiach edukacyjnych niezbędnych do otrzymania przez słuchacza poszczególnych semestralnych ocen klasyfikacyjnych z zajęć edukacyjnych, wynikających z realizowanego przez siebie programu nauczania;
+
+### 2)
+
+sposobu sprawdzania osiągnięć edukacyjnych słuchaczy;
+
+### 3)
+
+warunkach i trybie otrzymania wyższej niż przewidywana semestralna ocena klasyfikacyjna z zajęć edukacyjnych.
+
+### Art. 44sb.
+
+### 1.
+
+Nauczyciel jest obowiązany indywidualizować pracę ze słuchaczem na zajęciach edukacyjnych odpowiednio do potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza.
+
+### 2.
+
+Nauczyciel jest obowiązany dostosować wymagania edukacyjne, o których mowa w art. 44sa ust. 2 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych słuchacza, w przypadkach określonych w przepisach wydanych na podstawie art. 44zb.
+
+” ;
+
+### 44)
+
+użyte w art. 44u w ust. 2, 4 i w ust. 5 we wprowadzeniu do wyliczenia oraz w art. 44w w ust. 4, w różnej liczbie i różnym przypadku, wyrazy „słuchacz, o którym mowa w art. 36 ust. 16 pkt 1 ustawy - Prawo oświatowe” zastępuje się użytymi, w odpowiedniej liczbie i odpowiednim przypadku, wyrazami „niepełnoletni słuchacz”;
+
+### 45)
+
+skreśla się użyte w art. 44u w ust. 4 i w ust. 5 we wprowadzeniu do wyliczenia, w art. 44v w ust. 2, w art. 44w w ust. 2, 4 i 5, w art. 44y w ust. 1 i 4 oraz w art. 44z w ust. 2 i 4, w różnej licznie i różnym przypadku, wyrazy „szkoła dla dorosłych”;
+
+### 46)
+
+w art. 44u w ust. 5 w pkt 4 wyrazy „art. 44n” zastępuje się wyrazami „art. 44ya”;
+
+### 47)
+
+w art. 44v w ust. 3 w pkt 2 wyrazy „w szkole dla dorosłych danego typu” zastępuje się wyrazami „w szkole dla dorosłych danego typu, branżowej szkole II stopnia i szkole policealnej”;
+
+### 48)
+
+w art. 44w w ust. 6 wyrazy „art. 44n i art. 44y” zastępuje się wyrazami „art. 44y i art. 44ya”;
+
+### 49)
+
+po art. 44w dodaje się art. 44wa w brzmieniu:
+
+„
+
+### Art. 44wa.
+
+### 1.
+
+Egzamin klasyfikacyjny, o którym mowa w art. 37 ust. 4, art. 115 ust. 3 i art. 164 ust. 3 i 4 ustawy - Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
+
+### 2.
+
+Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia semestralnych zajęć dydaktycznych. Termin egzaminu klasyfikacyjnego uzgadnia się ze słuchaczem, a w przypadku niepełnoletniego słuchacza - również z jego rodzicami.
+
+### 3.
+
+Słuchacz, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu klasyfikacyjnego w terminie ustalonym zgodnie z ust. 2, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej.
+
+### 4.
+
+Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44y i art. 44ya.
+
+### 5.
+
+Dla słuchacza branżowej szkoły II stopnia i szkoły policealnej nieklasyfikowanego z zajęć prowadzonych w ramach praktycznej nauki zawodu z powodu usprawiedliwionej nieobecności szkoła organizuje zajęcia umożliwiające uzupełnienie programu nauczania i ustalenie semestralnej oceny klasyfikacyjnej z zajęć prowadzonych w ramach praktycznej nauki zawodu.
+
+” ;
+
+### 50)
+
+w art. 44y w ust. 3 wyrazy „art. 44n ust. 7” zastępuje się wyrazami „art. 44ya ust. 6”;
+
+### 51)
+
+po art. 44y dodaje się art. 44ya w brzmieniu:
+
+„
+
+### Art. 44ya.
+
+### 1.
+
+Słuchacz, a w przypadku niepełnoletniego słuchacza - również jego rodzice, mogą zgłosić zastrzeżenia do dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej, jeżeli uznają, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
+
+### 2.
+
+Zastrzeżenia, o których mowa w ust. 1, zgłasza się od dnia ustalenia semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia semestralnych zajęć dydaktycznych.
+
+### 3.
+
+W przypadku stwierdzenia, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny, dyrektor szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej powołuje komisję, która, przeprowadza sprawdzian wiadomości i umiejętności słuchacza oraz ustala semestralną ocenę klasyfikacyjną z danych zajęć edukacyjnych.
+
+### 4.
+
+Ustalona przez komisję, o której mowa w ust. 3, semestralna ocena klasyfikacyjna z zajęć edukacyjnych nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej semestralnej oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zb, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44y ust. 1.
+
+### 5.
+
+Słuchacz, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 3, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły dla dorosłych, branżowej szkoły II stopnia lub szkoły policealnej w uzgodnieniu ze słuchaczem, a w przypadku niepełnoletniego słuchacza - również z jego rodzicami.
+
+### 6.
+
+Przepisy ust. 1-5 stosuje się odpowiednio w przypadku semestralnej oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 3, jest ostateczna.
+
+” ;
+
+### 52)
+
+w art. 44z:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W szkole dla dorosłych, branżowej szkole II stopnia i szkole policealnej, słuchacz otrzymuje promocję na semestr programowo wyższy, jeżeli:
+
+### 1)
+
+ze wszystkich obowiązkowych zajęć edukacyjnych otrzymał pozytywne semestralne oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
+
+### 2)
+
+w przypadku branżowej szkoły II stopnia i szkoły policealnej - przystąpił ponadto do egzaminu zawodowego, jeżeli egzamin ten był przeprowadzany w danym semestrze, z zastrzeżeniem art. 44zzzga.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Niepełnoletni słuchacz, który nie otrzymał promocji na semestr programowo wyższy, powtarza ten semestr.
+
+” ;
+
+### 53)
+
+art. 44za otrzymuje brzmienie:
+
+„
+
+### Art. 44za.
+
+### 1.
+
+Słuchacz kończy szkołę dla dorosłych, jeżeli:
+
+### 1)
+
+w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb;
+
+### 2)
+
+w przypadku szkoły podstawowej dla dorosłych - przystąpił ponadto do egzaminu ósmoklasisty, z zastrzeżeniem art. 44zw, art. 44zx i art. 44zz ust. 2.
+
+### 2.
+
+Niepełnoletni słuchacz szkoły podstawowej dla dorosłych, który nie spełnił warunków, o których mowa w ust. 1, powtarza ostatni semestr i przystępuje w roku szkolnym, w którym powtarza semestr, do egzaminu ósmoklasisty.
+
+### 3.
+
+Słuchacz kończy branżową szkołę II stopnia albo szkołę policealną, jeżeli:
+
+### 1)
+
+w wyniku klasyfikacji końcowej otrzymał ze wszystkich obowiązkowych zajęć edukacyjnych pozytywne końcowe oceny klasyfikacyjne, o których mowa w przepisach wydanych na podstawie art. 44zb, oraz
+
+### 2)
+
+przystąpił do egzaminu zawodowego ze wszystkich kwalifikacji wyodrębnionych w zawodzie, z zastrzeżeniem art. 44zzzga.
+
+### 4.
+
+Niepełnoletni słuchacz branżowej szkoły II stopnia lub szkoły policealnej, który nie spełnił warunków, o których mowa w ust. 3, powtarza ostatni semestr.
+
+” ;
+
+### 54)
+
+w art. 44zb:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przypadki, w których dostosowuje się wymagania edukacyjne, o których mowa odpowiednio w art. 44b ust. 8 pkt 1 i art. 44sa ust. 2 pkt 1, do indywidualnych potrzeb rozwojowych i edukacyjnych oraz możliwości psychofizycznych uczniów i słuchaczy oraz podstawę tego dostosowania, z uwzględnieniem konieczności właściwego zapewnienia procesu kształcenia uczniów i słuchaczy, w tym słuchaczy szkół dla dorosłych, branżowych szkół II stopnia i szkół policealnych funkcjonujących w zakładach karnych lub aresztach śledczych;
+
+” ,
+
+### b)
+
+pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+tryb i formę przeprowadzania sprawdzianu wiadomości i umiejętności ucznia, o którym mowa w art. 44n ust. 4 pkt 1 lub art. 44ya ust. 3, oraz ustalania rocznej oceny klasyfikacyjnej zachowania, o której mowa w art. 44n ust. 4 pkt 2, skład komisji, o których mowa w art. 44n ust. 4 lub art. 44ya ust. 3, z uwzględnieniem konieczności zapewnienia prawidłowości przeprowadzania tego sprawdzianu lub prawidłowości ustalania rocznej oceny klasyfikacyjnej zachowania oraz odpowiedniego udokumentowania pracy komisji;
+
+” ;
+
+### 55)
+
+w art. 44zd:
+
+### a)
+
+w ust. 3 w pkt 1 wyraz „zawodach” zastąpić wyrazem „zawodzie”,
+
+### b)
+
+uchyla się ust. 5,
+
+### c)
+
+dodaje się ust. 5a-5c w brzmieniu:
+
+„
+
+### 5a.
+
+Ocenianie osiągnięć edukacyjnych i zachowania ucznia odbywa się w ramach oceniania wewnątrzszkolnego, które ma na celu:
+
+### 1)
+
+informowanie ucznia o poziomie jego osiągnięć edukacyjnych i jego zachowaniu oraz o postępach w tym zakresie;
+
+### 2)
+
+udzielanie uczniowi pomocy w nauce poprzez przekazanie uczniowi informacji o tym, co zrobił dobrze i jak powinien się dalej uczyć;
+
+### 3)
+
+udzielanie wskazówek do samodzielnego planowania własnego rozwoju;
+
+### 4)
+
+motywowanie ucznia do dalszych postępów w nauce i zachowaniu;
+
+### 5)
+
+dostarczanie rodzicom i nauczycielom informacji o postępach i trudnościach w nauce i zachowaniu ucznia oraz o szczególnych uzdolnieniach ucznia;
+
+### 6)
+
+umożliwienie nauczycielom doskonalenia organizacji i metod pracy dydaktyczno-wychowawczej.
+
+### 5b.
+
+Ocenianie wewnątrzszkolne obejmuje:
+
+### 1)
+
+formułowanie przez nauczycieli wymagań edukacyjnych niezbędnych do otrzymania przez ucznia poszczególnych śródrocznych i rocznych, a w artystycznej szkole policealnej - semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3;
+
+### 2)
+
+ustalanie kryteriów oceniania zachowania;
+
+### 3)
+
+ustalanie ocen bieżących i śródrocznych ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródrocznej oceny klasyfikacyjnej zachowania;
+
+### 4)
+
+przeprowadzanie egzaminów klasyfikacyjnych, o których mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy - Prawo oświatowe;
+
+### 5)
+
+ustalanie rocznych, a w artystycznej szkole policealnej - semestralnych, ocen klasyfikacyjnych z obowiązkowych i dodatkowych zajęć edukacyjnych oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, oraz rocznej oceny klasyfikacyjnej zachowania;
+
+### 6)
+
+ustalanie warunków i trybu otrzymania wyższych niż przewidywane rocznych, a w artystycznej szkole policealnej - semestralnych, ocen klasyfikacyjnych z zajęć edukacyjnych oraz rocznej oceny klasyfikacyjnej zachowania;
+
+### 7)
+
+ustalanie warunków i sposobu przekazywania rodzicom informacji o postępach i trudnościach w nauce i zachowaniu ucznia oraz o szczególnych uzdolnieniach ucznia.
+
+### 5c.
+
+Ocenianie ucznia z religii i etyki odbywa się zgodnie z przepisami wydanymi na podstawie art. 12 ust. 2.
+
+” ;
+
+### 56)
+
+po art. 44zd dodaje się art. 44zda w brzmieniu:
+
+„
+
+### Art. 44zda.
+
+### 1.
+
+Uczeń w trakcie nauki w szkole artystycznej otrzymuje oceny:
+
+### 1)
+
+bieżące;
+
+### 2)
+
+klasyfikacyjne:
+
+### a)
+
+śródroczne i roczne, a w artystycznej szkole policealnej - semestralne,
+
+### b)
+
+końcowe.
+
+### 2.
+
+Oceny są jawne dla ucznia i jego rodziców. W artystycznej szkole policealnej oceny są jawne dla ucznia.
+
+### 3.
+
+Nauczyciel uzasadnia ustaloną ocenę w sposób określony w statucie szkoły.
+
+### 4.
+
+Sprawdzone i ocenione pisemne prace ucznia są udostępniane uczniowi i jego rodzicom. W artystycznej szkole policealnej sprawdzone i ocenione pisemne prace ucznia są udostępniane uczniowi.
+
+### 5.
+
+Na wniosek ucznia lub jego rodziców dokumentacja dotycząca:
+
+### 1)
+
+egzaminu klasyfikacyjnego, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy - Prawo oświatowe,
+
+### 2)
+
+egzaminu poprawkowego, o którym mowa w art. 44zk ust. 1,
+
+### 3)
+
+zastrzeżeń, o których mowa w art. 44zla,
+
+### 4)
+
+oceniania ucznia, inna niż wymieniona w pkt 1-3
+
+- jest udostępniana do wglądu uczniowi lub jego rodzicom.
+
+### 6.
+
+W artystycznej szkole policealnej dokumentacja, o której mowa w ust. 5, jest udostępniana uczniowi do wglądu na jego wniosek.
+
+### 7.
+
+Sposób udostępniania dokumentacji, o której mowa w ust. 4 i 5, określa statut szkoły artystycznej.
+
+” ;
+
+### 57)
+
+w art. 44ze ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Klasyfikacja roczna polega na podsumowaniu osiągnięć edukacyjnych ucznia z zajęć edukacyjnych, a w szkole artystycznej realizującej kształcenie ogólne - również zachowania ucznia, w danym roku szkolnym oraz ustaleniu odpowiednio rocznych ocen klasyfikacyjnych z zajęć edukacyjnych i rocznej oceny klasyfikacyjnej zachowania, z tym że w przypadku szkoły artystycznej realizującej kształcenie ogólne w zakresie klas I-III szkoły podstawowej w przypadku:
+
+### 1)
+
+obowiązkowych zajęć edukacyjnych ogólnokształcących ustala się jedną roczną ocenę klasyfikacyjną z tych zajęć;
+
+### 2)
+
+dodatkowych zajęć edukacyjnych ogólnokształcących ustala się jedną roczną ocenę klasyfikacyjną z tych zajęć;
+
+### 3)
+
+poszczególnych zajęć edukacyjnych artystycznych ustala się roczne oceny klasyfikacyjne według skali i w formie określonych w przepisach wydanych na podstawie art. 44zq.
+
+” ;
+
+### 58)
+
+w art. 44zg w ust. 10 i 11 wyrazy „art. 44n” zastępuje się wyrazami „art. 44zla”;
+
+### 59)
+
+po art. 44zg dodaje się art. 44zga w brzmieniu:
+
+„
+
+### Art. 44zga.
+
+### 1.
+
+W klasach odpowiadających klasom I-III szkoły podstawowej w szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej:
+
+### 1)
+
+oceny bieżące z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, są ustalane w sposób określony w statucie szkoły;
+
+### 2)
+
+śródroczne i roczne oceny klasyfikacyjne z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna i roczna ocena klasyfikacyjna zachowania są ocenami opisowymi.
+
+### 2.
+
+W klasach, o których mowa w ust. 1, oceny bieżące z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, mogą być ocenami opisowymi, jeżeli statut szkoły tak przewiduje.
+
+### 3.
+
+W szkole artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej, począwszy od klasy odpowiadającej klasie IV szkoły podstawowej, lub w zakresie liceum ogólnokształcącego:
+
+### 1)
+
+bieżące i śródroczne oceny klasyfikacyjne z obowiązkowych i dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna ocena klasyfikacyjna zachowania są ustalane w sposób określony w statucie szkoły;
+
+### 2)
+
+roczne oceny klasyfikacyjne z zajęć edukacyjnych ogólnokształcących oraz roczna ocena klasyfikacyjna zachowania są ustalane według skali określonej w przepisach wydanych na podstawie art. 44zq.
+
+### 4.
+
+W klasach, o których mowa w ust. 3, oceny bieżące oraz śródroczne oceny klasyfikacyjne ze wszystkich albo wybranych obowiązkowych lub dodatkowych zajęć edukacyjnych ogólnokształcących oraz zajęć, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3, a także śródroczna ocena klasyfikacyjna zachowania mogą być ocenami opisowymi, jeżeli statut szkoły tak przewiduje.
+
+### 5.
+
+Końcowe i roczne, a w artystycznej szkole policealnej - semestralne, oceny klasyfikacyjne z zajęć edukacyjnych oraz końcowa i roczna ocena klasyfikacyjna zachowania są wyrażane według skali określonej w przepisach wydanych na podstawie art. 44zq.
+
+” ;
+
+### 60)
+
+art. 44zh i art. 44zi otrzymują brzmienie:
+
+„
+
+### Art. 44zh.
+
+### 1.
+
+Laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy - Prawo oświatowe, lub laureat przeglądu plastycznego, o którym mowa w art. 53 ust. 1b ustawy - Prawo oświatowe, otrzymuje odpowiednio z danych zajęć edukacyjnych artystycznych najwyższą pozytywną roczną ocenę klasyfikacyjną, a w artystycznej szkole policealnej - najwyższą pozytywną semestralną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. W przypadku zajęć edukacyjnych artystycznych, z których ocena jest ustalana w trybie egzaminu promocyjnego lub końcowego, laureat jest jednocześnie zwolniony z tego egzaminu.
+
+### 2.
+
+Laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim oraz laureat lub finalista ogólnopolskiej olimpiady przedmiotowej, przeprowadzonych zgodnie z przepisami wydanymi na podstawie art. 22 ust. 2 pkt 8, a także laureat konkursu dla uczniów szkół i placówek artystycznych przeprowadzonego zgodnie z przepisami wydanymi na podstawie art. 22 ust. 6, którego organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego lub specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy - Prawo oświatowe, otrzymuje z danych zajęć edukacyjnych z zakresu kształcenia ogólnego najwyższą pozytywną roczną ocenę klasyfikacyjną, o której mowa w przepisach wydanych na podstawie art. 44zq. Uczeń, który tytuł laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim lub tytuł laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej lub tytuł laureata konkursu dla uczniów szkół i placówek artystycznych uzyskał po ustaleniu rocznej oceny klasyfikacyjnej z zajęć edukacyjnych, otrzymuje z tych zajęć edukacyjnych najwyższą pozytywną końcową ocenę klasyfikacyjną.
+
+### Art. 44zi.
+
+### 1.
+
+Dyrektor szkoły artystycznej zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych artystycznych ze względu na stan zdrowia, specyficzne trudności w uczeniu się lub niepełnosprawność, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+
+### 2.
+
+Dyrektor szkoły artystycznej realizującej kształcenie ogólne zwalnia ucznia z realizacji niektórych obowiązkowych zajęć edukacyjnych ogólnokształcących ze względu na stan zdrowia, specyficzne trudności w uczeniu się, niepełnosprawność, posiadane kwalifikacje lub zrealizowanie danych obowiązkowych zajęć edukacyjnych na wcześniejszym etapie edukacyjnym, w przypadkach i na okres określonych w przepisach wydanych na podstawie art. 44zq.
+
+” ;
+
+### 61)
+
+po art. 44zi dodaje się art. 44zia i art. 44zib w brzmieniu:
+
+„
+
+### Art. 44zia.
+
+### 1.
+
+Uczeń szkoły artystycznej może nie być klasyfikowany z jednego, kilku albo wszystkich zajęć edukacyjnych, jeżeli brak jest podstaw do ustalenia śródrocznej lub rocznej, a w artystycznej szkole policealnej - semestralnej, oceny klasyfikacyjnej z powodu nieobecności ucznia na tych zajęciach przekraczającej połowę czasu przeznaczonego na te zajęcia odpowiednio w okresie lub semestrze, za który przeprowadzana jest klasyfikacja.
+
+### 2.
+
+Uczeń nieklasyfikowany z powodu usprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny.
+
+### 3.
+
+Uczeń nieklasyfikowany z powodu nieusprawiedliwionej nieobecności może zdawać egzamin klasyfikacyjny za zgodą rady pedagogicznej.
+
+### Art. 44zib.
+
+### 1.
+
+Egzamin klasyfikacyjny, o którym mowa w art. 44zia ust. 2 i 3, a także w art. 37 ust. 4 i art. 115 ust. 3 ustawy - Prawo oświatowe, przeprowadza komisja powołana przez dyrektora szkoły artystycznej.
+
+### 2.
+
+Egzamin klasyfikacyjny przeprowadza się nie później niż w dniu poprzedzającym dzień zakończenia rocznych, a w artystycznej szkole policealnej - semestralnych, zajęć dydaktyczno-wychowawczych. Termin egzaminu klasyfikacyjnego uzgadnia się z uczniem i jego rodzicami, a w artystycznej szkole policealnej - z uczniem.
+
+### 3.
+
+Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do egzaminu klasyfikacyjnego w terminie ustalonym zgodnie z ust. 2, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej.
+
+### 4.
+
+Ocena ustalona w wyniku egzaminu klasyfikacyjnego jest ostateczna, z zastrzeżeniem art. 44zk i art. 44zla.
+
+” ;
+
+### 62)
+
+uchyla się art. 44zj;
+
+### 63)
+
+w art. 44zk:
+
+### a)
+
+w ust. 5 wyrazy „art. 44n ust. 7” zastępuje się wyrazami „art. 44zla ust. 7”,
+
+### b)
+
+w ust. 8 wyrazy „art. 68 ust. 3” zastępuje się wyrazami „art. 68 ust. 3a”;
+
+### 64)
+
+po art. 44zl dodaje się art. 44zla w brzmieniu:
+
+„
+
+### Art. 44zla.
+
+### 1.
+
+Uczeń lub jego rodzice mogą zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uznają, że roczna ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen.
+
+### 2.
+
+Uczeń w artystycznej szkole policealnej może zgłosić zastrzeżenia do dyrektora szkoły artystycznej, jeżeli uzna, że semestralna ocena klasyfikacyjna z zajęć edukacyjnych została ustalona niezgodnie z przepisami dotyczącymi trybu ustalania tej oceny.
+
+### 3.
+
+Zastrzeżenia, o których mowa w ust. 1 i 2, zgłasza się od dnia ustalenia rocznej, a w artystycznej szkole policealnej - semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych lub rocznej oceny klasyfikacyjnej zachowania, nie później jednak niż w terminie 2 dni roboczych od dnia zakończenia rocznych, a w artystycznej szkole policealnej - semestralnych, zajęć dydaktyczno-wychowawczych.
+
+### 4.
+
+W przypadku stwierdzenia, że roczna, a w artystycznej szkole policealnej - semestralna, ocena klasyfikacyjna z zajęć edukacyjnych lub roczna ocena klasyfikacyjna zachowania zostały ustalone niezgodnie z przepisami dotyczącymi trybu ustalania tych ocen, dyrektor szkoły artystycznej powołuje komisję, która:
+
+### 1)
+
+w przypadku rocznej, a w artystycznej szkole policealnej - semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych - przeprowadza sprawdzian wiadomości i umiejętności ucznia oraz ustala roczną, a w artystycznej szkole policealnej - semestralną, ocenę klasyfikacyjną z danych zajęć edukacyjnych;
+
+### 2)
+
+w przypadku rocznej oceny klasyfikacyjnej zachowania - ustala roczną ocenę klasyfikacyjną zachowania.
+
+### 5.
+
+Ustalona przez komisję, o której mowa w ust. 4, roczna, a w artystycznej szkole policealnej - semestralna, ocena klasyfikacyjna z zajęć edukacyjnych oraz roczna ocena klasyfikacyjna zachowania nie może być niższa od ustalonej wcześniej oceny. Ocena ustalona przez komisję jest ostateczna, z wyjątkiem negatywnej rocznej, a w artystycznej szkole policealnej - semestralnej, oceny klasyfikacyjnej, o której mowa w przepisach wydanych na podstawie art. 44zq, z zajęć edukacyjnych, która może być zmieniona w wyniku egzaminu poprawkowego, z zastrzeżeniem art. 44zk.
+
+### 6.
+
+Uczeń, który z przyczyn usprawiedliwionych nie przystąpił do sprawdzianu, o którym mowa w ust. 4 pkt 1, w wyznaczonym terminie, może przystąpić do niego w dodatkowym terminie wyznaczonym przez dyrektora szkoły artystycznej w uzgodnieniu z uczniem i jego rodzicami, a w artystycznej szkole policealnej - w uzgodnieniu z uczniem.
+
+### 7.
+
+Przepisy ust. 1-6 stosuje się odpowiednio w przypadku rocznej, a w artystycznej szkole policealnej - semestralnej, oceny klasyfikacyjnej z zajęć edukacyjnych ustalonej w wyniku egzaminu poprawkowego, z tym że termin do zgłoszenia zastrzeżeń wynosi 5 dni roboczych od dnia przeprowadzenia egzaminu poprawkowego. W tym przypadku ocena ustalona przez komisję, o której mowa w ust. 4, jest ostateczna.
+
+” ;
+
+### 65)
+
+w art. 44zn uchyla się ust. 8;
+
+### 66)
+
+w art. 44zq w pkt 7 wyrazy „art. 44n” zastępuje się wyrazami „art. 44zla”;
+
+### 67)
+
+w art. 44zzd ust. 4b otrzymuje brzmienie:
+
+„
+
+### 4b.
+
+Obowiązek przystąpienia do części pisemnej egzaminu maturalnego z jednego przedmiotu dodatkowego, o którym mowa w ust. 4, nie dotyczy absolwenta posiadającego:
+
+### 1)
+
+dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika albo
+
+### 2)
+
+dyplom zawodowy w zawodzie nauczanym na poziomie technika, albo
+
+### 3)
+
+świadectwa potwierdzające kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
+
+### 4)
+
+certyfikaty kwalifikacji zawodowych ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, albo
+
+### 5)
+
+świadectwa potwierdzające kwalifikacje w zawodzie i certyfikaty kwalifikacji zawodowych, ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie nauczanym na poziomie technika, z uwzględnieniem przepisów wydanych na podstawie art. 11b.
+
+” ;
+
+### 68)
+
+po art. 44zzi dodaje się art. 44zzia w brzmieniu:
+
+„
+
+### Art. 44zzia.
+
+Zdający, który wskazał w deklaracji, o której mowa w art. 44zzi, przedmiot dodatkowy, o którym mowa w art. 44zzd ust. 4, lub przedmioty dodatkowe, o których mowa w art. 44zzd ust. 5, oraz który spełnił warunek, o którym mowa w art. 44zzd ust. 4b, może złożyć dyrektorowi szkoły, nie później niż na 2 tygodnie przed terminem egzaminu maturalnego, pisemną informację o rezygnacji z przystąpienia do egzaminu maturalnego z tego przedmiotu dodatkowego lub tych przedmiotów dodatkowych. Dyrektor szkoły niezwłocznie przesyła tę informację do dyrektora okręgowej komisji egzaminacyjnej.
+
+” ;
+
+### 69)
+
+w art. 44zzj:
+
+### a)
+
+w ust. 1 wyrazy „absolwenta lub jego rodziców” zastępuje się wyrazami „absolwenta lub rodziców niepełnoletniego absolwenta”,
+
+### b)
+
+w ust. 2 w zdaniu pierwszym wyrazy „absolwent lub jego rodzice” zastępuje się wyrazami „absolwent lub rodzice niepełnoletniego absolwenta”;
+
+### 70)
+
+w art. 44zzl w ust. 1a wyrazy „Absolwent posiadający dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika” zastępuje się wyrazami „Absolwent, o którym mowa w art. 44zzd ust. 4b,”;
+
+### 71)
+
+w art. 44zzm w ust. 1a wyrazy „Absolwent posiadający dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika” zastępuje się wyrazami „Absolwent, o którym mowa w art. 44zzd ust. 4b”;
+
+### 72)
+
+w art. 44zzna w ust. 1 wyrazy „uzyskał dyplom potwierdzający kwalifikacje zawodowe w zawodzie nauczanym na poziomie technika” zastępuje się wyrazami „spełnił warunek, o którym mowa w art. 44zzd ust. 4b”;
+
+### 73)
+
+w art. 44zzq:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Opłata za egzamin maturalny, o której mowa w ust. 1, stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi. Jeżeli absolwent wniósł opłatę za egzamin maturalny, a następnie dyrektor okręgowej komisji egzaminacyjnej zwolnił absolwenta z tej opłaty na podstawie ust. 3b, dyrektor okręgowej komisji egzaminacyjnej zwraca absolwentowi tę opłatę.
+
+” ,
+
+### b)
+
+w ust. 3 wyrazy „do dnia 7 lutego” zastępuje się wyrazami „do dnia 7 marca”,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a i 3b w brzmieniu:
+
+„
+
+### 3a.
+
+W szczególnych przypadkach losowych lub zdrowotnych dyrektor okręgowej komisji egzaminacyjnej w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, na udokumentowany wniosek absolwenta, może wyrazić zgodę na wniesienie przez absolwenta opłaty, o której mowa w ust. 1, po terminie określonym w ust. 3, jednakże nie później niż do dnia 31 marca.
+
+### 3b.
+
+W przypadku absolwenta, o którym mowa w art. 44zzia, dyrektor okręgowej komisji egzaminacyjnej zwalnia z urzędu absolwenta z opłaty, o której mowa w ust. 1 pkt 2.
+
+” ;
+
+### 74)
+
+w art. 44zzr:
+
+### a)
+
+w ust. 13 wyrazy „rodziców ucznia, słuchacza albo absolwenta” zastępuje się wyrazami „ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodziców,”,
+
+### b)
+
+w ust. 14 wyrazy „Rodzice ucznia, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”;
+
+### 75)
+
+po art. 44zzr dodaje się art. 44zzra w brzmieniu:
+
+„
+
+### Art. 44zzra.
+
+Dyrektor okręgowej komisji egzaminacyjnej udostępnia szkole elektroniczny system wspomagający przeprowadzanie egzaminu ósmoklasisty lub egzaminu maturalnego.
+
+” ;
+
+### 76)
+
+w art. 44zzw:
+
+### a)
+
+w ust. 1 część wspólna otrzymuje brzmienie:
+
+„
+
+- - dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom, pisemną informację o zamiarze unieważnienia temu uczniowi, słuchaczowi albo absolwentowi odpowiednio egzaminu ósmoklasisty z danego przedmiotu albo egzaminu maturalnego z danego przedmiotu w części pisemnej. Dyrektor szkoły niezwłocznie przekazuje tę informację uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”,
+
+### c)
+
+w ust. 3 wyrazy „uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi” zastępuje się wyrazami „uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom,”,
+
+### d)
+
+w ust. 5 wyrazy „uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi” zastępuje się wyrazami „uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom,”,
+
+### e)
+
+w ust. 6 wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice”,
+
+### f)
+
+w ust. 7 wyrazy „ucznia lub jego rodziców, słuchacza albo absolwenta” zastępuje się wyrazami „ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodziców”,
+
+### g)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+W przypadku braku możliwości przekazania uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom, pisemnej informacji, o której mowa w ust. 1, dyrektor szkoły niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania informacji od dyrektora szkoły, rozstrzyga o unieważnieniu egzaminu ósmoklasisty z danego przedmiotu lub egzaminu maturalnego z danego przedmiotu w części pisemnej. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, pisemną informację o tym unieważnieniu wraz z uzasadnieniem uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+” ,
+
+### h)
+
+w ust. 10 we wprowadzeniu do wyliczenia wyrazy „uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”;
+
+### 77)
+
+w art. 44zzy:
+
+### a)
+
+w ust. 1 wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”,
+
+### b)
+
+w ust. 3 wyrazy „ucznia lub jego rodziców, słuchacza albo absolwenta” zastępuje się wyrazami „ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodziców,”,
+
+### c)
+
+w ust. 4 wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice”,
+
+### d)
+
+w ust. 5 wyrazy „ucznia lub jego rodziców, słuchacza albo absolwenta” zastępuje się wyrazami „ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodziców”;
+
+### 78)
+
+w art. 44zzz:
+
+### a)
+
+w ust. 1 we wprowadzeniu do wyliczenia wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”,
+
+### b)
+
+w ust. 2 wyrazy „uczniowi lub jego rodzicom, słuchaczowi albo absolwentowi” zastępuje się wyrazami „uczniowi, słuchaczowi albo absolwentowi, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzicom,”,
+
+### c)
+
+w ust. 2a wyrazy „uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”,
+
+### d)
+
+w ust. 3 wyrazy „Uczeń lub jego rodzice, słuchacz albo absolwent” zastępuje się wyrazami „ Uczeń, słuchacz albo absolwent, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodzice,”,
+
+### e)
+
+w ust. 5 wyrazy „ucznia lub jego rodziców, słuchacza albo absolwenta” zastępuje się wyrazami „ucznia, słuchacza albo absolwenta, a w przypadku niepełnoletniego ucznia, słuchacza albo absolwenta - jego rodziców,”,
+
+### f)
+
+ust. 20 otrzymuje brzmienie:
+
+„
+
+### 20.
+
+Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz absolwentowi, który wniósł odwołanie.
+
+” ;
+
+### 79)
+
+art. 44zzzb otrzymuje brzmienie:
+
+„
+
+### Art. 44zzzb.
+
+### 1.
+
+Egzamin zawodowy jest formą oceny poziomu opanowania przez osoby, o których mowa w ust. 3, wiadomości i umiejętności z zakresu jednej kwalifikacji wyodrębnionej w zawodzie, ustalonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+### 2.
+
+Egzamin zawodowy jest przeprowadzany na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+### 3.
+
+Do egzaminu zawodowego:
+
+### 1)
+
+przystępują uczniowie branżowych szkół I stopnia niebędący młodocianymi pracownikami oraz uczniowie będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem i uczniowie techników oraz słuchacze branżowych szkół II stopnia i szkół policealnych,
+
+### 2)
+
+mogą przystąpić uczniowie branżowych szkół I stopnia będący młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy będącego rzemieślnikiem,
+
+### 3)
+
+mogą przystąpić absolwenci branżowych szkół I stopnia, branżowych szkół II stopnia, techników i szkół policealnych oraz absolwenci szkół ponadgimnazjalnych: zasadniczych szkół zawodowych i techników, 4) mogą przystąpić osoby, które ukończyły kwalifikacyjny kurs zawodowy, 5) mogą przystąpić osoby dorosłe, które ukończyły praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, o których mowa odpowiednio w art. 53c i art. 53d ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2018 r. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.](#gloss-0:4:)), jeżeli program przyuczenia do pracy uwzględniał wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego lub podstawie programowej kształcenia w zawodach, 6) mogą przystąpić osoby spełniające warunki dopuszczenia do egzaminu eksternistycznego zawodowego określone w przepisach wydanych na podstawie art. 10 ust. 5 - zwane dalej „zdającymi”. 4. Dyrektor szkoły, o której mowa w ust. 3 pkt 1, informuje uczniów i słuchaczy o obowiązku przystąpienia do egzaminu zawodowego odpowiednio w danym roku szkolnym lub danym semestrze.
+
+” ;
+
+### 80)
+
+w art. 44zzzd:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Część pisemna jest przeprowadzana z wykorzystaniem elektronicznego systemu przeprowadzania egzaminu zawodowego, po uzyskaniu upoważnienia, o którym mowa w art. 44zzzl ust. 1.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Dyrektor okręgowej komisji egzaminacyjnej udostępnia szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcy lub podmiotowi prowadzącemu kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, elektroniczny system przeprowadzania egzaminu zawodowego.
+
+” ;
+
+### 81)
+
+w art. 44zzzf:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność może przystąpić do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju niepełnosprawności, na podstawie tego orzeczenia.
+
+### 2.
+
+Uczeń, słuchacz albo absolwent posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niedostosowanie społeczne lub zagrożenie niedostosowaniem społecznym może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających odpowiednio z niedostosowania społecznego lub zagrożenia niedostosowaniem społecznym, na podstawie tego orzeczenia.
+
+### 3.
+
+Uczeń albo słuchacz posiadający orzeczenie o potrzebie indywidualnego nauczania lub absolwent, który w roku szkolnym, w którym przystępuje do egzaminu zawodowego, posiadał orzeczenie o potrzebie indywidualnego nauczania, może przystąpić do egzaminu zawodowego w warunkach dostosowanych do jego potrzeb edukacyjnych oraz możliwości psychofizycznych, wynikających z jego stanu zdrowia, na podstawie tego orzeczenia.
+
+” ,
+
+### b)
+
+ust. 11 i 12 otrzymują brzmienie:
+
+„
+
+### 11.
+
+Dyrektor szkoły lub upoważniony przez niego nauczyciel informuje na piśmie ucznia, słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza - jego rodziców, albo absolwenta o wskazanych sposobach dostosowania warunków i form przeprowadzania egzaminu zawodowego do jego potrzeb edukacyjnych i możliwości psychofizycznych.
+
+### 12.
+
+Uczeń, słuchacz, a w przypadku niepełnoletniego ucznia lub słuchacza - jego rodzice, albo absolwent składają oświadczenie o korzystaniu albo niekorzystaniu ze wskazanych sposobów dostosowania, o których mowa w ust. 11, w terminie 3 dni roboczych od dnia otrzymania informacji, o której mowa w ust. 11.
+
+” ;
+
+### 82)
+
+po art. 44zzzf dodaje się art. 44zzzfa w brzmieniu:
+
+„
+
+### Art. 44zzzfa.
+
+Uczeń, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, posiadający orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, który kształci się w zawodzie, dla którego w przepisach wydanych na podstawie art. 46 ust. 1 ustawy - Prawo oświatowe, przewidziano zawód o charakterze pomocniczym, może przystąpić do egzaminu zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego dla:
+
+### 1)
+
+zawodu, w którym się kształci albo
+
+### 2)
+
+zawodu o charakterze pomocniczym przewidzianego dla zawodu, w którym się kształci.
+
+” ;
+
+### 83)
+
+po art. 44zzzg dodaje się art. 44zzzga w brzmieniu:
+
+„
+
+### Art. 44zzzga.
+
+### 1.
+
+Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, który z przyczyn losowych lub zdrowotnych, w terminie głównym:
+
+### 1)
+
+nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego albo
+
+### 2)
+
+przerwał egzamin zawodowy z części pisemnej lub części praktycznej
+
+- przystępuje do części pisemnej lub części praktycznej tego egzaminu w terminie dodatkowym na udokumentowany wniosek ucznia lub słuchacza, a w przypadku niepełnoletniego ucznia lub słuchacza - jego rodziców.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, składa się do dyrektora szkoły, do której uczeń lub słuchacz uczęszcza, nie później niż w dniu, w którym odbywa się część pisemna lub część praktyczna egzaminu zawodowego. Dyrektor szkoły przekazuje wniosek wraz z załączonymi do niego dokumentami dyrektorowi okręgowej komisji egzaminacyjnej nie później niż następnego dnia po otrzymaniu wniosku.
+
+### 3.
+
+Dyrektor okręgowej komisji egzaminacyjnej rozpatruje wniosek, o którym mowa w ust. 1, w terminie 2 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora okręgowej komisji egzaminacyjnej jest ostateczne.
+
+### 4.
+
+W szczególnych przypadkach losowych lub zdrowotnych, uniemożliwiających przystąpienie do części pisemnej lub części praktycznej egzaminu zawodowego w terminie dodatkowym, dyrektor okręgowej komisji egzaminacyjnej, na udokumentowany wniosek dyrektora szkoły, może zwolnić ucznia lub słuchacza z obowiązku przystąpienia do egzaminu zawodowego lub jego części. Dyrektor szkoły składa wniosek w porozumieniu z uczniem lub słuchaczem, a w przypadku niepełnoletniego ucznia lub słuchacza - z jego rodzicami.
+
+” ;
+
+### 84)
+
+w art. 44zzzh ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zdający, o których mowa w art. 44zzzb ust. 3 pkt 4-6: niewidomi, słabowidzący, niesłyszący, słabosłyszący, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną w stopniu lekkim lub z autyzmem, w tym z zespołem Aspergera, przystępują do egzaminu zawodowego w warunkach i formie dostosowanych do rodzaju ich niepełnosprawności, na podstawie zaświadczenia potwierdzającego występowanie danej dysfunkcji, wydanego przez lekarza. Przepisy art. 44zzzf ust. 7, 8 i 14 stosuje się odpowiednio.
+
+” ;
+
+### 85)
+
+w art. 44zzzi:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Za organizację i przebieg egzaminu zawodowego w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, odpowiada dyrektor tej szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, ten pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, lub upoważniony przez niego pracownik.
+
+### 2.
+
+Do przeprowadzenia egzaminu zawodowego dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, powołuje zespół egzaminacyjny.
+
+### 3.
+
+Dyrektor szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawca lub upoważniony przez niego pracownik lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, lub upoważniony przez niego pracownik jest przewodniczącym zespołu egzaminacyjnego. W przypadku choroby przewodniczącego zespołu egzaminacyjnego lub innych ważnych przyczyn uniemożliwiających jego udział w egzaminie zawodowym albo wynikających z konieczności zapewnienia właściwej organizacji tego egzaminu, przewodniczącym zespołu egzaminacyjnego może być osoba wskazana przez dyrektora okręgowej komisji egzaminacyjnej.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przewodniczący zespołu egzaminacyjnego organizuje i nadzoruje przebieg w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, egzaminu zawodowego, w tym:
+
+### 1)
+
+informuje zdających, którzy zamierzają przystąpić do egzaminu zawodowego, o tym egzaminie;
+
+### 2)
+
+zapewnia przekazanie do okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego;
+
+### 3)
+
+zapewnia warunki do samodzielnej pracy zdających podczas egzaminu zawodowego;
+
+### 4)
+
+zabezpiecza przed nieuprawnionym ujawnieniem materiały egzaminacyjne niezbędne do przeprowadzenia egzaminu zawodowego od momentu odbioru materiałów egzaminacyjnych do momentu ich przekazania dyrektorowi okręgowej komisji egzaminacyjnej.
+
+” ;
+
+### 86)
+
+po art. 44zzzi dodaje się art. 44zzzia w brzmieniu:
+
+„
+
+### Art. 44zzzia.
+
+### 1.
+
+W przeprowadzaniu części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
+
+### 2.
+
+Asystentem technicznym może być nauczyciel lub osoba niebędąca nauczycielem, wskazana przez odpowiednio dyrektora szkoły, placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcę lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe.
+
+” ;
+
+### 87)
+
+art. 44zzzk otrzymuje brzmienie:
+
+„
+
+### Art. 44zzzk.
+
+### 1.
+
+Egzamin zawodowy przeprowadza się w danej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, u danego pracodawcy albo w miejscu wskazanym przez pracodawcę, w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, albo w miejscu wskazanym przez ten podmiot.
+
+### 2.
+
+Dla osób, o których mowa w art. 44zzzb ust. 3 pkt 4, egzamin zawodowy organizuje podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe.
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się do słuchaczy branżowej szkoły II stopnia.
+
+” ;
+
+### 88)
+
+w art. 44zzzl:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Część praktyczną egzaminu zawodowego oraz część pisemną tego egzaminu przeprowadza się w szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, u pracodawcy lub w podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, posiadających upoważnienie wydane przez dyrektora okręgowej komisji egzaminacyjnej.
+
+### 2.
+
+Upoważnienie, o którym mowa w ust. 1, potwierdza, że szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawca lub podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, posiada warunki zapewniające prawidłowy przebieg egzaminu zawodowego:
+
+### 1)
+
+w przypadku części praktycznej:
+
+### a)
+
+zapewnia warunki do realizacji kształcenia w danym zawodzie, określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego,
+
+### b)
+
+zapewnia warunki do samodzielnego wykonywania przez zdających zadań egzaminacyjnych zawartych w arkuszu egzaminacyjnym, z uwzględnieniem bezpieczeństwa i higieny pracy, oraz warunki socjalne,
+
+### c)
+
+zapewnia zdającym przystąpienie do egzaminu zawodowego w warunkach dostosowanych do ich potrzeb i możliwości,
+
+### d)
+
+zapewnia zdającym pierwszą pomoc medyczną;
+
+### 2)
+
+w przypadku części pisemnej:
+
+### a)
+
+posiada odpowiednie wyposażenie indywidualnych stanowisk egzaminacyjnych wspomaganych elektronicznie,
+
+### b)
+
+zapewnia warunki do samodzielnego wykonywania zadań egzaminacyjnych przez zdających.
+
+” ,
+
+### b)
+
+w ust. 4 wyrazy „placówki, o której mowa” zastępuje się wyrazami „placówki lub centrum, o których mowa”;
+
+### 89)
+
+w art. 44zzzn:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Część praktyczną egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, obserwują i oceniają obecni w sali egzaminacyjnej egzaminatorzy wpisani do ewidencji egzaminatorów w zakresie przeprowadzania egzaminu zawodowego, o której mowa w art. 9c ust. 2 pkt 7, wyznaczeni przez dyrektora okręgowej komisji egzaminacyjnej.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Egzaminatorzy, o których mowa w ust. 2, wchodzą w skład zespołów egzaminacyjnych, o których mowa w art. 44zzzi ust. 2.
+
+” ;
+
+### 90)
+
+art. 44zzzo otrzymuje brzmienie:
+
+„
+
+### Art. 44zzzo.
+
+### 1.
+
+Wynik z części pisemnej oraz wynik z części praktycznej egzaminu zawodowego ustala dyrektor okręgowej komisji egzaminacyjnej na podstawie liczby punktów uzyskanych przez zdającego:
+
+### 1)
+
+w części pisemnej - po odczytaniu odpowiedzi zapisanych i zarchiwizowanych w elektronicznym systemie przeprowadzania egzaminu zawodowego;
+
+### 2)
+
+w części praktycznej - po elektronicznym odczytaniu karty oceny.
+
+### 2.
+
+Zdający zdał egzamin zawodowy, jeżeli uzyskał:
+
+### 1)
+
+z części pisemnej - co najmniej 50% punktów możliwych do uzyskania oraz
+
+### 2)
+
+z części praktycznej - co najmniej 75% punktów możliwych do uzyskania.
+
+### 3.
+
+Dla zdającego, który zdał egzamin zawodowy, dyrektor okręgowej komisji egzaminacyjnej ustala wynik egzaminu zawodowego według wzoru: W = 0,3 ×Wp + 0,7 ×Wpr w którym poszczególne symbole oznaczają: W - wynik z egzaminu zawodowego, Wp - wynik z części pisemnej egzaminu zawodowego, Wpr - wynik z części praktycznej egzaminu zawodowego.
+
+### 4.
+
+Zdający, który zdał egzamin zawodowy, otrzymuje certyfikat kwalifikacji zawodowej wydany przez okręgową komisję egzaminacyjną.
+
+### 5.
+
+Zdający, który nie zdał egzaminu zawodowego, otrzymuje informację o wynikach z poszczególnych części tego egzaminu opracowaną przez okręgową komisję egzaminacyjną.
+
+### 6.
+
+Dla zdających, którzy zdali egzaminy zawodowe ze wszystkich kwalifikacji wyodrębnionych w danym zawodzie, dyrektor okręgowej komisji egzaminacyjnej ustala końcowy wynik egzaminów zawodowych według wzoru: \( Wk = {{\sum {Kn} } \over n} \) w którym poszczególne symbole oznaczają: Wk - wynik końcowy z egzaminów zawodowych, Kn - wynik z egzaminu zawodowego z kwalifikacji wyodrębnionej w zawodzie, n - liczba kwalifikacji wyodrębnionych w danym zawodzie.
+
+### 7.
+
+W przypadku gdy uczeń lub słuchacz, o którym mowa w art. 44zzzb ust. 3 pkt 1 i 2, został zwolniony z obowiązku przystąpienia do części pisemnej lub części praktycznej egzaminu zawodowego w przypadku, o którym mowa w art. 44zzzga ust. 4, dyrektor szkoły przekazuje uczniowi lub słuchaczowi, a w przypadku niepełnoletniego ucznia lub słuchacza - jego rodzicom, informację o szczegółowych wynikach egzaminu zawodowego opracowaną przez okręgową komisję egzaminacyjną.
+
+” ;
+
+### 91)
+
+w art. 44zzzq:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+W przypadku stwierdzenia podczas sprawdzania i oceniania zadania lub zadań egzaminacyjnych przez egzaminatora, jeżeli jedynym rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja:
+
+### 1)
+
+niesamodzielnego wykonania zadania lub zadań przez zdającego w części praktycznej egzaminu zawodowego,
+
+### 2)
+
+występowania w pracy zdającego jednakowych sformułowań wskazujących na udostępnienie rozwiązań innemu zdającemu lub korzystanie z rozwiązań innego zdającego
+
+- dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o zamiarze unieważnienia temu zdającemu części praktycznej egzaminu zawodowego.
+
+### 2.
+
+W przypadku zdających, o których mowa w art. 44zzzb ust. 3 pkt 1-4, informację, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej przekazuje za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe. Dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, niezwłocznie przekazuje tę informację zdającemu lub rodzicom niepełnoletniego zdającego.
+
+### 3.
+
+Zdający lub rodzice niepełnoletniego zdającego mają prawo złożyć wniosek o wgląd do dokumentacji, na podstawie której dyrektor okręgowej komisji egzaminacyjnej zamierza unieważnić część praktyczną egzaminu zawodowego. Wniosek składa się do dyrektora okręgowej komisji egzaminacyjnej w terminie 2 dni roboczych od dnia otrzymania pisemnej informacji, o której mowa w ust. 1.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Dyrektor okręgowej komisji egzaminacyjnej przekazuje zdającemu lub rodzicom niepełnoletniego zdającego pisemną informację o unieważnieniu części praktycznej egzaminu zawodowego. Przepis ust. 2 stosuje się odpowiednio.
+
+” ,
+
+### c)
+
+ust. 10 i 11 otrzymują brzmienie:
+
+„
+
+### 10.
+
+W przypadku braku możliwości przekazania zdającemu, o którym mowa w art. 44zzzb ust. 3 pkt 1-4, lub rodzicom niepełnoletniego zdającego informacji, o której mowa w ust. 1, dyrektor szkoły, dyrektor placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawca albo podmiot prowadzący kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, niezwłocznie informuje o tym dyrektora okręgowej komisji egzaminacyjnej, który, w terminie 7 dni od dnia otrzymania tej informacji, rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje, za pośrednictwem dyrektora szkoły, dyrektora placówki lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcy lub podmiotu prowadzącego kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, pisemną informację o unieważnieniu wraz z uzasadnieniem, zdającemu lub rodzicom niepełnoletniego zdającego. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+### 11.
+
+W przypadku braku potwierdzenia otrzymania przez zdającego, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, informacji, o której mowa w ust. 1, dyrektor okręgowej komisji egzaminacyjnej rozstrzyga o unieważnieniu części praktycznej egzaminu zawodowego. W przypadku unieważnienia dyrektor okręgowej komisji egzaminacyjnej przekazuje pisemną informację o unieważnieniu temu zdającemu. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+” ,
+
+### d)
+
+ust. 14 otrzymuje brzmienie:
+
+„
+
+### 14.
+
+Dyrektor okręgowej komisji egzaminacyjnej po dokonaniu rozstrzygnięcia w sprawie unieważnienia wydaje:
+
+### 1)
+
+certyfikat kwalifikacji zawodowej, o którym mowa w art. 44zzzo ust. 4, jeżeli w wyniku tego rozstrzygnięcia nie została unieważniona część praktyczna egzaminu zawodowego tego zdającego i zdający spełnił warunki, o których mowa w art. 44zzzo ust. 2, lub
+
+### 2)
+
+informację, o której mowa w art. 44zzzo ust. 5, jeżeli zdający w wyniku tego rozstrzygnięcia nie spełnił warunków, o których mowa w art. 44zzzo ust. 2.
+
+” ;
+
+### 92)
+
+użyte w art. 44zzzq w ust. 4, 8 i 12, w art. 44zzzr w ust. 2 i 4 oraz w art. 44zzzt w ust. 2, 5, 13 i 14, w różnym przypadku, wyrazy „zdający, a w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1 - uczeń lub jego rodzice” zastępuje się użytymi, w odpowiednim przypadku, wyrazami „zdający lub rodzice niepełnoletniego zdającego”;
+
+### 93)
+
+użyte w art. 44zzzq w ust. 7, w art. 44zzzr w ust. 3 oraz w art. 44zzzt w ust. 3 i 8, wyrazy „Zdający, a w przypadku ucznia, o którym mowa w art. 44zzzb ust. 3 pkt 1 - uczeń lub jego rodzice” zastępuje się wyrazami „Zdający lub rodzice niepełnoletniego zdającego”;
+
+### 94)
+
+w art. 44zzzr:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zdający lub rodzice niepełnoletniego zdającego, w terminie 2 dni roboczych od dnia przeprowadzenia:
+
+### 1)
+
+części pisemnej egzaminu zawodowego,
+
+### 2)
+
+części praktycznej egzaminu zawodowego, której jedynym rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest dokumentacja
+
+- mogą zgłosić zastrzeżenia wraz z uzasadnieniem do dyrektora okręgowej komisji egzaminacyjnej, jeżeli uznają, że w trakcie egzaminu zostały naruszone przepisy dotyczące jego przeprowadzania.
+
+” ,
+
+### b)
+
+w ust. 8 wyrazy „placówkach, o których mowa” zastępuje się wyrazami „placówkach lub centrach, o których mowa”,
+
+### c)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+W przypadku niemożności ustalenia wyników danej części egzaminu zawodowego, z powodu zaginięcia lub zniszczenia kart oceny, prac egzaminacyjnych lub awarii elektronicznego systemu przeprowadzania egzaminu zawodowego, dyrektor okręgowej komisji egzaminacyjnej, w porozumieniu z dyrektorem Centralnej Komisji Egzaminacyjnej, unieważnia daną część egzaminu zawodowego danego zdającego i zarządza jego ponowne przeprowadzenie.
+
+” ;
+
+### 95)
+
+w art. 44zzzs ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku części praktycznej egzaminu zawodowego, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, zdający lub rodzice niepełnoletniego zdającego, mogą zgłosić do dyrektora okręgowej komisji egzaminacyjnej zastrzeżenia wraz z uzasadnieniem, jeżeli uznają, że w trakcie części praktycznej egzaminu zawodowego zostały naruszone przepisy dotyczące jej przeprowadzania. Zastrzeżenia wraz z uzasadnieniem zgłasza się w terminie 2 dni roboczych od dnia przeprowadzenia części praktycznej egzaminu zawodowego.
+
+” ;
+
+### 96)
+
+w art. 44zzzt:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zdający lub rodzice niepełnoletniego zdającego mają prawo wglądu do:
+
+### 1)
+
+zadań i udzielonych odpowiedzi - w przypadku części pisemnej egzaminu zawodowego,
+
+### 2)
+
+karty oceny - w przypadku części praktycznej egzaminu zawodowego
+
+- w miejscu i czasie wskazanym przez dyrektora okręgowej komisji egzaminacyjnej, w terminie 6 miesięcy od dnia wydania przez okręgową komisję egzaminacyjną certyfikatu kwalifikacji zawodowej lub informacji o wynikach egzaminu zawodowego, o których mowa w art. 44zzzo ust. 5. Jeżeli rezultatem końcowym wykonania zadania egzaminacyjnego w części praktycznej egzaminu zawodowego jest dokumentacja, zdający lub rodzice niepełnoletniego zdającego, mają prawo wglądu także do tej dokumentacji.
+
+” ,
+
+### b)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Podczas dokonywania wglądu, o którym mowa w ust. 1, zdający lub rodzice niepełnoletniego zdającego, mogą sporządzać notatki i wykonywać fotografie zadań egzaminacyjnych wraz z udzieloną odpowiedzią, karty oceny lub dokumentacji, o których mowa w ust. 1.
+
+” ,
+
+### c)
+
+ust. 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6.
+
+Jeżeli w wyniku przeprowadzonej weryfikacji suma punktów została podwyższona, dyrektor okręgowej komisji egzaminacyjnej ustala nowy wynik egzaminu zawodowego oraz:
+
+### 1)
+
+anuluje dotychczasowy certyfikat kwalifikacji zawodowej oraz wydaje nowy certyfikat kwalifikacji zawodowej albo
+
+### 2)
+
+anuluje informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje certyfikat kwalifikacji zawodowej, jeżeli zdający spełnił warunki określone w art. 44zzzo ust. 2, albo
+
+### 3)
+
+anuluje dotychczasową informację, o której mowa w art. 44zzzo ust. 5, oraz wydaje nową informację, jeżeli zdający nie spełnił warunków określonych w art. 44zzzo ust. 2.
+
+### 7.
+
+Zdający lub rodzice niepełnoletniego zdającego, mogą wnieść odwołanie od wyniku weryfikacji sumy punktów z części pisemnej egzaminu zawodowego, o którym mowa w ust. 5, do Kolegium Arbitrażu Egzaminacyjnego, za pośrednictwem dyrektora okręgowej komisji egzaminacyjnej, w terminie 7 dni od dnia otrzymania informacji, o której mowa w ust. 5.
+
+” ,
+
+### d)
+
+w ust. 11 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
+
+” ,
+
+### e)
+
+w ust. 12 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+wydruk zadań, które rozwiązywał zdający, wraz z udzielonymi odpowiedziami;
+
+” ,
+
+### f)
+
+ust. 20 otrzymuje brzmienie:
+
+„
+
+### 20.
+
+Dyrektor Centralnej Komisji Egzaminacyjnej przekazuje niezwłocznie informację o rozstrzygnięciu i treść uzasadnienia, o których mowa w ust. 18, dyrektorowi okręgowej komisji egzaminacyjnej oraz zdającemu lub rodzicom niepełnoletniego zdającego, którzy wnieśli odwołanie.
+
+” ;
+
+### 97)
+
+art. 44zzzu otrzymuje brzmienie:
+
+„
+
+### Art. 44zzzu.
+
+### 1.
+
+Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 1:
+
+### 1)
+
+który był zwolniony z przystąpienia do egzaminu zawodowego lub odpowiedniej części tego egzaminu na podstawie art. 44zzzga ust. 4 albo
+
+### 2)
+
+którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+
+### 3)
+
+który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu
+
+- ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania w trakcie nauki.
+
+### 2.
+
+Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 3 i 4:
+
+### 1)
+
+który nie przystąpił do egzaminu zawodowego lub odpowiedniej części tego egzaminu w wyznaczonym terminie albo
+
+### 2)
+
+którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+
+### 3)
+
+który nie uzyskał wymaganej do zdania egzaminu zawodowego liczby punktów z danej części tego egzaminu
+
+- ma prawo przystąpić do egzaminu zawodowego lub odpowiedniej części tego egzaminu w kolejnych terminach głównych jego przeprowadzania, z tym że w przypadku gdy przystępuje do egzaminu zawodowego lub jego części po raz trzeci lub kolejny, zdaje ten egzamin lub jego część na zasadach określonych dla egzaminu eksternistycznego zawodowego, z tym że tego zdającego nie dotyczy wykaz zawodów, o którym mowa w art. 10 ust. 6.
+
+### 3.
+
+Zdający, o którym mowa w art. 44zzzb ust. 3 pkt 5 i 6, który przystąpił do egzaminu zawodowego i nie uzyskał z jednej części tego egzaminu wymaganej do zdania liczby punktów, ma prawo przystąpić do tej części egzaminu zawodowego w kolejnych terminach jego przeprowadzania przez okres 5 lat, licząc od dnia, w którym przystąpił do tego egzaminu po raz pierwszy.
+
+### 4.
+
+Po upływie 5 lat, licząc od dnia zakończenia roku szkolnego, w którym zdający po raz pierwszy:
+
+### 1)
+
+przystąpił do egzaminu zawodowego i nie uzyskał z jednej lub obu części tego egzaminu wymaganej do zdania liczby punktów albo
+
+### 2)
+
+przystąpił do egzaminu zawodowego, którego część pisemna lub część praktyczna egzaminu zawodowego została unieważniona, albo
+
+### 3)
+
+nie przystąpił do części pisemnej lub części praktycznej egzaminu zawodowego w wyznaczonym terminie
+
+- zdający ten przystępuje do egzaminu zawodowego w pełnym zakresie.
+
+” ;
+
+### 98)
+
+art. 44zzzv otrzymuje brzmienie:
+
+„
+
+### Art. 44zzzv.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i sposób przeprowadzania egzaminu zawodowego, w tym:
+
+### 1)
+
+zakres danych, które powinna zawierać deklaracja o przystąpieniu do egzaminu zawodowego, oraz tryb składania tej deklaracji,
+
+### 2)
+
+zakres i terminy przekazywania dyrektorowi okręgowej komisji egzaminacyjnej informacji niezbędnych do przeprowadzenia egzaminu zawodowego, w tym informacji zawartych w deklaracjach, o których mowa w art. 44zzzg,
+
+### 3)
+
+tryb wydawania opinii, o której mowa w art. 44zzzf ust. 6,
+
+### 4)
+
+skład zespołów, o których mowa w art. 44zzzi ust. 4,
+
+### 5)
+
+szczegółowe zadania przewodniczącego zespołu egzaminacyjnego oraz zespołów nadzorujących, o których mowa w art. 44zzzi, egzaminatorów i zespołów egzaminatorów w zakresie części praktycznej egzaminu zawodowego, a także nauczycieli biorących udział w przeprowadzaniu egzaminu zawodowego,
+
+### 6)
+
+wymagania jakie musi spełnić asystent techniczny, o którym mowa w art. 44zzzia ust. 1, oraz zadania asystenta technicznego,
+
+### 7)
+
+zakres informacji, które zamieszcza się w protokołach, o których mowa w art. 44zzzi ust. 6,
+
+### 8)
+
+sposób postępowania z materiałami egzaminacyjnymi dostarczanymi do szkół, placówek lub centrów, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawców, podmiotów prowadzących kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, w tym tryb zgłaszania nieprawidłowości w tym zakresie,
+
+### 9)
+
+sposób organizacji i przeprowadzania każdej części egzaminu zawodowego, sposób postępowania w sytuacjach zagrożenia lub nagłego zakłócenia przebiegu egzaminu zawodowego, przeprowadzania egzaminu zawodowego w miejscu innym niż szkoła, placówka lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, u danego pracodawcy lub w danym podmiocie prowadzącym kwalifikacyjny kurs zawodowy, o którym mowa w art. 117 ust. 2 ustawy - Prawo oświatowe, ze względu na stan zdrowia zdającego lub jego niepełnosprawność,
+
+### 10)
+
+termin przechowywania prac zdających oraz dokumentacji egzaminu zawodowego,
+
+### 11)
+
+zakres informacji zawartych we wniosku, o którym mowa w art. 44zzzl ust. 4, termin złożenia tego wniosku oraz tryb udzielania i przedłużania upoważnienia szkołom, placówkom lub centrom, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, pracodawcom oraz podmiotom prowadzącym kwalifikacyjne kursy zawodowe, o których mowa w art. 117 ust. 2 ustawy - Prawo oświatowe,
+
+### 12)
+
+osoby, które nie wchodzą w skład zespołu egzaminacyjnego i nie biorą udziału w przeprowadzaniu egzaminu zawodowego, które mogą przebywać w sali egzaminacyjnej podczas tego egzaminu, w tym osoby, które mogą występować w charakterze obserwatorów podczas egzaminu zawodowego,
+
+### 13)
+
+wysokość opłat pobieranych za egzamin zawodowy przeprowadzany dla uczniów będących młodocianymi pracownikami zatrudnionymi w celu przygotowania zawodowego u pracodawcy niebędącego rzemieślnikiem oraz dla osób dorosłych, o których mowa w art. 44zzzb ust. 3 pkt 5, oraz możliwość zwalniania osób o niskich dochodach z całości lub części opłat za egzamin zawodowy oraz tryb tego zwalniania
+
+- z uwzględnieniem konieczności zapewnienia właściwej organizacji i przebiegu oraz właściwego dokumentowania egzaminu zawodowego, zapewnienia w składzie zespołów, o których mowa w art. 44zzzi ust. 4, co najmniej jednej osoby zatrudnionej w innej szkole, placówce lub centrum, o których mowa w art. 2 pkt 4 ustawy - Prawo oświatowe, zapewnienia możliwości wglądu, o którym mowa w art. 44zzzt ust. 1, oraz że wysokość opłaty za egzamin zawodowy nie może być wyższa niż koszt przeprowadzania tego egzaminu.
+
+” ;
+
+### 99)
+
+w art. 44zzzw w ust. 1:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw oświaty i wychowania ogłasza w Biuletynie Informacji Publicznej komunikat w sprawie wykazu olimpiad przedmiotowych przeprowadzanych z przedmiotu lub przedmiotów objętych egzaminem ósmoklasisty lub egzaminem maturalnym, turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, a także konkursów dla uczniów szkół i placówek artystycznych, uprawniających odpowiednio do: ” ,
+
+### b)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przyjmowania laureatów i finalistów tych olimpiad lub laureatów tych konkursów, w pierwszej kolejności do szkół wymienionych w art. 132 ustawy - Prawo oświatowe
+
+” ;
+
+### 100)
+
+w art. 90b:
+
+### a)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+uczniom szkół publicznych, niepublicznych i niepublicznych szkół artystycznych o uprawnieniach publicznych szkół artystycznych oraz słuchaczom kolegiów pracowników służb społecznych - do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 24. roku życia;
+
+” ,
+
+### b)
+
+uchyla się ust. 4;
+
+### 101)
+
+w art. 90g:
+
+### a)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Warunek uzyskania co najmniej dobrej oceny zachowania, o którym mowa w ust. 2, nie dotyczy słuchaczy branżowych szkół II stopnia, szkół policealnych oraz szkół dla dorosłych.
+
+” ,
+
+### b)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Wniosek o przyznanie stypendium za wyniki w nauce lub za osiągnięcia sportowe składa wychowawca klasy, a w przypadku branżowej szkoły II stopnia, szkoły policealnej i szkoły dla dorosłych - słuchacz, do komisji stypendialnej, która przekazuje wniosek wraz ze swoją opinią dyrektorowi szkoły.
+
+” ,
+
+### c)
+
+po ust. 11 dodaje się ust. 11a w brzmieniu:
+
+„
+
+### 11a.
+
+Dyrektor szkoły może przyznać stypendium za wyniki w nauce lub za osiągnięcia sportowe również uczniowi zamieszkałemu poza obwodem szkoły, do której uczęszcza.
+
+” ;
+
+### 102)
+
+w art. 90h ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Stypendium Prezesa Rady Ministrów może być przyznane uczniowi szkoły kształcącej w formie dziennej, która umożliwia uzyskanie świadectwa dojrzałości.
+
+” ;
+
+### 103)
+
+w art. 90i w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Stypendium ministra właściwego do spraw oświaty i wychowania może być przyznane uczniowi szkoły publicznej i niepublicznej dla młodzieży, publicznej i niepublicznej branżowej szkoły II stopnia oraz szkoły policealnej, uzyskującemu wybitne osiągnięcia edukacyjne, w szczególności: ” ;
+
+### 104)
+
+w art. 90j w ust. 1 wyrazy „szkoły artystycznej prowadzącej kształcenie w zawodzie artystycznym” zastępuje się wyrazami „szkoły artystycznej prowadzącej kształcenie zawodowe”;
+
+### 105)
+
+w art. 90n ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Wniosek o przyznanie stypendium szkolnego składa się do dnia 15 września danego roku szkolnego, a w przypadku:
+
+### 1)
+
+uczniów i słuchaczy szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym, powszednim dniu lutego - do dnia 15 lutego danego roku szkolnego;
+
+### 2)
+
+słuchaczy kolegiów pracowników służb społecznych - do dnia 15 października danego roku szkolnego.
+
+” ;
+
+### 106)
+
+w art. 90p w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+publicznych szkołach prowadzonych przez organy niebędące jednostkami samorządu terytorialnego, niepublicznych szkołach artystycznych o uprawnieniach publicznych szkół artystycznych, jest zadaniem organów prowadzących te szkoły.
+
+” ;
+
+### 107)
+
+w art. 90t w ust. 4 wyrazy „dzieciom i młodzieży” zastępuje się wyrazami „dzieciom i młodzieży pobierającej naukę na terenie danej jednostki samorządu terytorialnego bez względu na miejsce zamieszkania”;
+
+### 108)
+
+w art. 92q w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej ([Dz. U. z 2018 r. poz. 1459](https://api.sejm.gov.pl/eli/acts/DU/2018/1459/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2182](https://api.sejm.gov.pl/eli/acts/DU/2018/2182/text.html)) w art. 98k w ust. 3 w pkt 8 w lit. b wyrazy „co najmniej średnie” zastępuje się wyrazami „co najmniej średnie lub średnie branżowe”.
+
+### Art. 4.
+
+W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215 i 2244.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1032w§ 1 w pkt 3 wyrazy „egzaminu potwierdzającego kwalifikacje zawodowe” zastępuje się wyrazami „egzaminu potwierdzającego kwalifikacje w zawodzie lub egzaminu zawodowego”;
+
+### 2)
+
+w art. 190 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Zabronione jest zatrudnianie osoby, która nie ukończyła 15 lat, z zastrzeżeniem art. 191 § 21-23.
+
+” ,
+
+### 3)
+
+w art. 191:
+
+### a)
+
+po § 2 dodaje się § 21-27wbrzmieniu:
+
+„
+
+### § 21.
+
+Osoba, która ukończyła ośmioletnią szkołą podstawową, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w roku kalendarzowym, w którym kończy 15 lat.
+
+### § 22.
+
+Osoba, która ukończyła ośmioletnią szkołę podstawową, niemająca 15 lat, z wyjątkiem osoby, o której mowa w § 21, może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie nauki zawodu.
+
+### § 23.
+
+Osoba, która nie ukończyła ośmioletniej szkoły podstawowej, niemająca 15 lat, może być zatrudniona na zasadach określonych dla młodocianych w celu przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy.
+
+### § 24.
+
+Zawarcie umowy o pracę w celu przygotowania zawodowego z osobą, o której mowa w § 22i§ 23, jest dopuszczalne w przypadku wyrażenia na to zgody przez przedstawiciela ustawowego lub opiekuna prawnego tej osoby oraz uzyskania pozytywnej opinii poradni psychologiczno-pedagogicznej.
+
+### § 25.
+
+W przypadku osoby, o której mowa w § 23, wymagane jest również uzyskanie zezwolenia dyrektora ośmioletniej szkoły podstawowej, w której obwodzie mieszka ta osoba, na spełnianie obowiązku szkolnego poza szkołą.
+
+### § 26.
+
+Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, może być, na wniosek jej przedstawiciela ustawowego lub opiekuna, zawarta umowa o pracę w celu przygotowania zawodowego odbywanego w formie przyuczenia do wykonywania określonej pracy, jeżeli:
+
+### 1)
+
+została ona przyjęta do oddziału przysposabiającego do pracy utworzonego w ośmioletniej szkole podstawowej albo
+
+### 2)
+
+uzyskała zezwolenie dyrektora ośmioletniej szkoły podstawowej, w której obwodzie mieszka, na spełnianie obowiązku szkolnego poza szkołą oraz uzyskała pozytywną opinię poradni psychologiczno-pedagogicznej.
+
+### § 27.
+
+Z osobą, która ukończyła 15 lat i nie ukończyła ośmioletniej szkoły podstawowej, spełniającą obowiązek szkolny poza szkołą, może być, po ukończeniu przez nią przygotowania zawodowego w formie przyuczenia do wykonywania określonej pracy, zawarta umowa o pracę w celu przygotowania zawodowego w formie nauki zawodu. Przepis § 26pkt 2 stosuje się odpowiednio.
+
+” ,
+
+### b)
+
+uchyla się § 5;
+
+### 4)
+
+po art. 191 dodaje się art. 1911wbrzmieniu:
+
+„
+
+### Art. 1911.
+
+Osoba, która ukończyła 18 lat w trakcie nauki w ośmioletniej szkole podstawowej, może być zatrudniona na zasadach określonych dla młodocianych w roku kalendarzowym, w którym ukończyła tę szkołę.
+
+” ;
+
+### 5)
+
+w art. 203 w § 11zdanie drugie otrzymuje brzmienie: „ W przypadkach określonych w art. 191 § 21-23i§ 26pora nocna przypada pomiędzy godzinami 2000a600. ” .
+
+### Art. 5.
+
+W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych ([Dz. U. z 2018 r. poz. 441](https://api.sejm.gov.pl/eli/acts/DU/2018/441/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 2a w pkt 12 wyrazy „szkoły niepubliczne o uprawnieniach szkół publicznych” zastępuje się wyrazami „szkoły niepubliczne i niepubliczne szkoły artystyczne o uprawnieniach publicznej szkoły artystycznej”.
+
+### Art. 6.
+
+W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. z 2018 r. poz. 967](https://api.sejm.gov.pl/eli/acts/DU/2018/967/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2:
+
+### a)
+
+pkt 1a otrzymuje brzmienie:
+
+„
+
+### 1a)
+
+nauczyciele zatrudnieni w szkołach polskich, o których mowa w art. 4 pkt 29d ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz w publicznych szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej;
+
+” ,
+
+### b)
+
+po pkt 1b dodaje się pkt 1c i 1d w brzmieniu:
+
+„
+
+### 1c)
+
+nauczyciele skierowani przez ministra właściwego do spraw oświaty i wychowania do pracy w szkołach działających na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r. ([Dz. U. z 2005 r. poz. 10](https://api.sejm.gov.pl/eli/acts/DU/2005/10/text.html)), zwanych dalej „szkołami europejskimi”;
+
+### 1d)
+
+nauczyciele szkół za granicą;
+
+” ,
+
+### c)
+
+w pkt 2 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+przedszkolach niepublicznych, niepublicznych placówkach, o których mowa w ust. 1 pkt 1, oraz szkołach niepublicznych i niepublicznych szkołach artystycznych o uprawnieniach publicznych szkół artystycznych,
+
+” ;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+nauczycielach szkół za granicą - rozumie się przez to nauczycieli języka polskiego, historii, geografii oraz innych przedmiotów nauczanych w języku polskim w szkołach funkcjonujących w systemach oświaty innych państw lub nauczanych w innych formach prowadzonych przez organizacje społeczne zarejestrowane za granicą;
+
+” ,
+
+### b)
+
+po pkt 2 dodaje się pkt 2a i 2b w brzmieniu:
+
+„
+
+### 2a)
+
+szkołach za granicą - rozumie się przez to szkoły funkcjonujące w systemach oświaty innych państw oraz inne formy nauczania prowadzone przez organizacje społeczne zarejestrowane za granicą;
+
+### 2b)
+
+szkołach artystycznych bez bliższego określenia - rozumie się przez to szkoły artystyczne i placówki artystyczne;
+
+” ,
+
+### c)
+
+po pkt 3 dodaje się pkt 3a i 3b w brzmieniu:
+
+„
+
+### 3a)
+
+stażu nauczyciela szkoły za granicą - rozumie się przez to okres prowadzenia przez nauczyciela szkoły za granicą zajęć w szkołach za granicą, bez względu na ich wymiar, rozpoczęty i realizowany na zasadach określonych w przepisach rozdziału 3b;
+
+### 3b)
+
+prowadzeniu zajęć w szkole za granicą - rozumie się przez to prowadzenie przez nauczyciela szkoły za granicą zajęć z języka polskiego, historii, geografii oraz innych przedmiotów nauczanych w języku polskim w szkołach funkcjonujących w systemach oświaty innych państw lub nauczanych w innych formach przez organizacje społeczne zarejestrowane za granicą;
+
+” ,
+
+### d)
+
+w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+szkoleniu branżowym - rozumie się przez to obowiązkową formę doskonalenia zawodowego nauczycieli teoretycznych przedmiotów zawodowych i nauczycieli praktycznej nauki zawodu w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz placówkach i centrach, o których mowa w art. 2 pkt 4 tej ustawy, mającą na celu doskonalenie umiejętności i kwalifikacji zawodowych potrzebnych do wykonywania pracy i realizowaną odpowiednio u pracodawców lub w indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem.
+
+” ;
+
+### 3)
+
+w art. 6a:
+
+### a)
+
+w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+co 5 lat pracy w szkole od dnia uzyskania stopnia nauczyciela kontraktowego, nauczyciela mianowanego i nauczyciela dyplomowanego.
+
+” ,
+
+### b)
+
+uchyla się ust. 14-18;
+
+### 4)
+
+w art. 9 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może określić, w drodze rozporządzenia, szkoły artystyczne, w których stanowiska nauczycieli mogą zajmować osoby mające ukończoną szkołę artystyczną II stopnia w zakresie kierunku odpowiadającego nauczanym przedmiotom, uwzględniając w szczególności rodzaje szkół artystycznych, w których możliwe będzie zatrudnienie nauczycieli mających ukończoną szkołę artystyczną II stopnia.
+
+” ;
+
+### 5)
+
+w art. 9c ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Nauczycielowi stażyście i nauczycielowi kontraktowemu odbywającemu staż dyrektor szkoły przydziela spośród nauczycieli mianowanych lub dyplomowanych opiekuna, z tym że w przedszkolach, szkołach i placówkach, o których mowa w art. 1 ust. 2 pkt 2, opiekunem nauczyciela stażysty i nauczyciela kontraktowego może być również nauczyciel zajmujący stanowisko kierownicze, a w szkołach, o których mowa w art. 1 ust. 2 pkt 1a, opiekunem nauczyciela stażysty i nauczyciela kontraktowego może być również nauczyciel kontraktowy, w tym zajmujący stanowisko kierownicze.
+
+” ;
+
+### 6)
+
+w art. 9d ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Nauczyciel posiadający stopień nauczyciela kontraktowego lub mianowanego, który prowadził zajęcia w szkole za granicą, może po nawiązaniu stosunku pracy w szkole w Rzeczypospolitej Polskiej złożyć wniosek o podjęcie odpowiednio postępowania egzaminacyjnego o awans na stopień nauczyciela mianowanego lub postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po odbyciu stażu w wymiarze rok i 9 miesięcy.
+
+” ;
+
+### 7)
+
+w art. 9e ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor szkoły posiadający na tym stanowisku nieprzerwany okres pracy wynoszący co najmniej 3 lata, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora co najmniej 2 lata, oraz legitymujący się co najmniej bardzo dobrą oceną pracy może złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po upływie 5 lat od dnia nadania stopnia nauczyciela mianowanego, a w przypadku nauczyciela posiadającego co najmniej stopień naukowy doktora po upływie 4 lat od dnia nadania stopnia nauczyciela mianowanego.
+
+” ;
+
+### 8)
+
+w art. 9f ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Nauczycielom, którzy w okresie trwania stażu zmienili miejsce zatrudnienia, do stażu, o którym mowa w art. 9c ust. 1, zalicza się okres dotychczas odbytego stażu, jeżeli podjęli zatrudnienie w szkole nie później niż w okresie 3 miesięcy po ustaniu poprzedniego stosunku pracy i za okres dotychczas odbytego stażu otrzymali co najmniej dobrą ocenę pracy.
+
+” ;
+
+### 9)
+
+w art. 9g w ust. 6 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+urzędzie ministra właściwego do spraw zdrowia oraz publicznej placówce doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym, o której mowa w art. 8 ust. 14 ustawy - Prawo oświatowe - minister właściwy do spraw zdrowia;
+
+” ;
+
+### 10)
+
+po rozdziale 3a dodaje się rozdział 3b w brzmieniu:
+
+„
+
+### Rozdział 3b Awans zawodowy nauczycieli szkół za granicą
+
+### Art. 9j.
+
+### 1.
+
+Nauczyciele szkół za granicą, z wyjątkiem osób skazanych prawomocnym wyrokiem za umyślne przestępstwo, mogą ubiegać się o nadanie stopni awansu zawodowego, o których mowa w art. 9a ust. 1 pkt 2-4.
+
+### 2.
+
+Warunkiem nadania nauczycielowi szkoły za granicą stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, odbycie stażu nauczyciela szkoły za granicą zakończonego pozytywną oceną realizacji planu rozwoju zawodowego nauczyciela, o której mowa w art. 9q ust. 2, oraz:
+
+### 1)
+
+w przypadku nauczyciela ubiegającego się o stopień nauczyciela kontraktowego albo nauczyciela mianowanego - zdanie egzaminu przed komisją egzaminacyjną;
+
+### 2)
+
+w przypadku nauczyciela ubiegającego się o stopień nauczyciela dyplomowanego - uzyskanie akceptacji komisji kwalifikacyjnej po dokonaniu analizy jego dorobku zawodowego i przeprowadzonej rozmowie.
+
+### 3.
+
+Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który w okresie 10 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela kontraktowego przez co najmniej 5 lat szkolnych prowadził zajęcia w szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela kontraktowego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć w szkole za granicą.
+
+### 4.
+
+Nauczycielowi szkoły za granicą posiadającemu kwalifikacje, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2, oraz znaczący dorobek zawodowy, który w okresie 20 lat poprzedzających złożenie wniosku o nadanie stopnia nauczyciela mianowanego przez co najmniej 15 lat szkolnych prowadził zajęcia w szkole za granicą, minister właściwy do spraw oświaty i wychowania może nadać stopień nauczyciela mianowanego po przeprowadzeniu analizy dokumentów potwierdzających posiadanie wymaganych kwalifikacji, znaczącego dorobku zawodowego oraz okresu prowadzenia zajęć w szkole za granicą.
+
+### 5.
+
+Minister właściwy do spraw oświaty i wychowania, w drodze decyzji administracyjnej, nadaje stopień awansu zawodowego nauczycielowi szkoły za granicą spełniającemu warunki wymagane do uzyskania tego stopnia albo odmawia jego nadania.
+
+### Art. 9k.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania prowadzi system teleinformatyczny w celu obsługi postępowań związanych z awansem zawodowym nauczycieli szkół za granicą, zwany dalej „systemem teleinformatycznym”, oraz administruje nim.
+
+### 2.
+
+System teleinformatyczny w szczególności umożliwia nauczycielom szkół za granicą odbywającym staż utrzymywanie kontaktu z opiekunem stażu, a także dokumentowanie przebiegu stażu.
+
+### 3.
+
+Do dostępu do systemu teleinformatycznego są upoważnione osoby realizujące zadania w zakresie awansu zawodowego nauczycieli szkół za granicą, nauczyciele szkół za granicą ubiegający się o nadanie stopnia awansu zawodowego, osoby ubiegające się o wpisanie na listę nauczycieli mogących pełnić funkcję opiekuna stażu oraz opiekunowie stażu.
+
+### Art. 9l.
+
+### 1.
+
+Nauczyciel szkoły za granicą składa wniosek o rozpoczęcie stażu na stopień awansu zawodowego za pośrednictwem systemu teleinformatycznego, w terminie do dnia 31 lipca danego roku.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko nauczyciela;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL - a w przypadku jego braku - rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+
+### 4)
+
+adres do korespondencji;
+
+### 5)
+
+numer telefonu;
+
+### 6)
+
+adres poczty elektronicznej, jeżeli nauczyciel go posiada;
+
+### 7)
+
+nazwę szkoły za granicą, w której nauczyciel prowadzi zajęcia;
+
+### 8)
+
+nazwę nauczanego przedmiotu;
+
+### 9)
+
+dokumenty potwierdzające posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2;
+
+### 10)
+
+dokumenty potwierdzające posiadanie wymaganego okresu prowadzenia zajęć w szkołach za granicą, wydane przez osoby kierujące szkołami za granicą;
+
+### 11)
+
+akt nadania stopnia awansu zawodowego, jeżeli nauczyciel posiada taki stopień;
+
+### 12)
+
+oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo.
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa w ust. 2, w terminie do dnia 31 sierpnia informuje nauczyciela o możliwości rozpoczęcia stażu oraz wyznacza mu opiekuna stażu.
+
+### 4.
+
+Opiekunem stażu nauczyciela szkoły za granicą może być nauczyciel mianowany lub dyplomowany szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, szkoły i zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy - Prawo oświatowe, szkoły europejskiej, a także innej szkoły w Polsce - za zgodą dyrektora szkoły, wpisany na listę nauczycieli mogących pełnić funkcję opiekuna stażu nauczycieli szkół za granicą, prowadzoną przez ministra właściwego do spraw oświaty i wychowania.
+
+### 5.
+
+Nauczyciel zainteresowany pełnieniem funkcji opiekuna stażu nauczyciela szkoły za granicą składa wniosek o wpisanie na listę, o której mowa w ust. 4, za pośrednictwem systemu teleinformatycznego.
+
+### 6.
+
+Wniosek o wpisanie na listę, o której mowa w ust. 4, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko nauczyciela;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL - a w przypadku jego braku - rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+
+### 4)
+
+adres do korespondencji;
+
+### 5)
+
+numer telefonu;
+
+### 6)
+
+adres poczty elektronicznej, jeżeli nauczyciel go posiada;
+
+### 7)
+
+nazwę szkoły, w której nauczyciel jest zatrudniony;
+
+### 8)
+
+nazwę nauczanego przedmiotu;
+
+### 9)
+
+dokumenty potwierdzające posiadanie kwalifikacji do zajmowania stanowiska nauczyciela danego przedmiotu;
+
+### 10)
+
+zgodę dyrektora szkoły, w której nauczyciel jest zatrudniony, na sprawowanie funkcji opiekuna stażu nauczyciela szkoły za granicą;
+
+### 11)
+
+akt nadania stopnia awansu zawodowego;
+
+### 12)
+
+dokument potwierdzający odbywanie stażu na stopień awansu zawodowego nauczyciela dyplomowanego, jeżeli nauczyciel odbywa taki staż;
+
+### 13)
+
+dokument potwierdzający pełnienie funkcji opiekuna stażu nauczyciela szkoły za granicą, szkoły w Polsce, szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, szkoły lub zespołu szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy - Prawo oświatowe, lub szkoły europejskiej, jeżeli nauczyciel taką funkcję pełnił.
+
+### 7.
+
+Minister właściwy do spraw oświaty i wychowania po sprawdzeniu, czy wniosek zawiera dane, o których mowa w ust. 6, wpisuje nauczyciela na listę, o której mowa w ust. 4, albo odmawia wpisania na tę listę.
+
+### Art. 9m.
+
+### 1.
+
+Staż nauczyciela szkoły za granicą trwa w przypadku ubiegania się o awans na stopień:
+
+### 1)
+
+nauczyciela kontraktowego - rok i 9 miesięcy;
+
+### 2)
+
+nauczyciela mianowanego albo nauczyciela dyplomowanego - 2 lata i 9 miesięcy.
+
+### 2.
+
+Nauczyciel szkoły za granicą posiadający stopień awansu zawodowego nauczyciela kontraktowego lub nauczyciela mianowanego, który posiada co najmniej stopień naukowy doktora, może ubiegać się o uzyskanie kolejnego stopnia awansu zawodowego po odbyciu stażu trwającego rok i 9 miesięcy.
+
+### Art. 9n.
+
+### 1.
+
+Nauczyciel kontraktowy może rozpocząć staż na stopień nauczyciela mianowanego po upływie co najmniej 3 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela kontraktowego, a nauczyciel mianowany może rozpocząć staż na stopień nauczyciela dyplomowanego po upływie co najmniej 4 lat prowadzenia zajęć w szkole za granicą od dnia uzyskania stopnia nauczyciela mianowanego.
+
+### 2.
+
+Nauczyciel szkoły za granicą rozpoczyna staż z początkiem roku szkolnego, nie później jednak niż w ciągu 30 dni od dnia rozpoczęcia zajęć w szkole za granicą, na swój wniosek skierowany do ministra właściwego do spraw oświaty i wychowania złożony w sposób określony w art. 9l ust. 1.
+
+### 3.
+
+W przypadku rozpoczęcia przez nauczyciela prowadzenia zajęć w szkole za granicą po upływie terminu, o którym mowa w ust. 2, nauczyciel nie rozpoczyna stażu do końca tego roku szkolnego.
+
+### 4.
+
+Przepisy ust. 2 i 3 stosuje się odpowiednio do dodatkowego stażu, o którym mowa w art. 9q ust. 5 i art. 9s ust. 3, oraz do ponownego odbywania stażu, o którym mowa w ust. 5.
+
+### 5.
+
+W przypadku nieprowadzenia przez nauczyciela szkoły za granicą zajęć przez okres trwający nieprzerwanie dłużej niż miesiąc staż ulega przedłużeniu o czas nieprowadzenia zajęć. W przypadku nieprowadzenia zajęć przez okres dłuższy niż rok nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.
+
+### Art. 9o.
+
+### 1.
+
+W okresie stażu nauczyciel szkoły za granicą realizuje plan rozwoju zawodowego zatwierdzony przez ministra właściwego do spraw oświaty i wychowania, uwzględniający wymagania określone w przepisach wydanych na podstawie art. 9w pkt 1.
+
+### 2.
+
+Nauczycielowi szkoły za granicą ubiegającemu się o awans na stopień nauczyciela dyplomowanego za spełnienie odpowiednich wymagań, o których mowa w przepisach wydanych na podstawie art. 9w pkt 1, uznaje się także jego dorobek zawodowy ze szczególnym uwzględnieniem okresu od dnia uzyskania stopnia nauczyciela mianowanego.
+
+### 3.
+
+Zadaniem opiekuna stażu, o którym mowa w art. 9l ust. 3, jest udzielanie pomocy nauczycielowi odbywającemu staż, w szczególności w przygotowaniu i realizacji w okresie stażu planu rozwoju zawodowego, oraz opracowanie opinii o realizacji planu rozwoju zawodowego nauczyciela.
+
+### 4.
+
+Z nauczycielem mianowanym lub dyplomowanym, który został wyznaczony do pełnienia funkcji opiekuna stażu, minister właściwy do spraw oświaty i wychowania zawiera umowę cywilnoprawną na okres pełnienia tej funkcji.
+
+### 5.
+
+Nauczyciel, o którym mowa w ust. 4, otrzymuje wynagrodzenie w wysokości równej wysokości dodatku funkcyjnego dla nauczyciela, któremu powierzono funkcję opiekuna stażu, określonej w przepisach wydanych na podstawie art. 30 ust. 7.
+
+### Art. 9p.
+
+### 1.
+
+Nauczycielowi szkoły za granicą, który w okresie stażu podjął zatrudnienie w szkole w Rzeczypospolitej Polskiej, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy - Prawo oświatowe, szkole europejskiej, albo rozpoczął prowadzenie zajęć w innej szkole za granicą, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał pozytywną opinię opiekuna stażu o stopniu realizacji planu rozwoju zawodowego oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia zakończenia prowadzenia zajęć w szkole za granicą.
+
+### 2.
+
+Opinię, o której mowa w ust. 1, uwzględnia się przy dokonywaniu oceny realizacji planu rozwoju zawodowego nauczyciela za okres całego stażu.
+
+### 3.
+
+Nauczyciel szkoły za granicą, który w okresie stażu podjął zatrudnienie w szkole w Rzeczypospolitej Polskiej szkole polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy - Prawo oświatowe, albo szkole europejskiej, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w rozdziale 3a. Dyrektor szkoły przydziela nauczycielowi nowego opiekuna stażu spośród nauczycieli mianowanych i dyplomowanych zatrudnionych w szkole.
+
+### 4.
+
+Nauczyciel szkoły za granicą, który rozpoczął prowadzenie zajęć w innej szkole za granicą, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w niniejszym rozdziale. Opiekunem stażu tego nauczyciela pozostaje dotychczasowy opiekun.
+
+### 5.
+
+Nauczycielowi szkoły w Rzeczypospolitej Polskiej, który rozpoczął prowadzenie zajęć w szkole za granicą, szkole polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, szkole lub zespole szkół, o których mowa w art. 8 ust. 5 pkt 2 lit. c ustawy - Prawo oświatowe, albo szkole europejskiej, do stażu zalicza się okres dotychczas odbytego stażu, jeżeli otrzymał co najmniej dobrą ocenę pracy za okres odbytego stażu oraz podjął zatrudnienie lub rozpoczął prowadzenie zajęć nie później niż w okresie 12 miesięcy od dnia ustania zatrudnienia w szkole w Rzeczypospolitej Polskiej.
+
+### 6.
+
+Nauczyciel szkoły w Rzeczypospolitej Polskiej, który w okresie stażu rozpoczął prowadzenie zajęć w szkole za granicą, kontynuuje staż po uprzedniej zmianie planu rozwoju zawodowego, na zasadach określonych w niniejszym rozdziale. Dotychczasowy opiekun stażu, po wpisaniu na listę, o której mowa w art. 9l ust. 4, może realizować zadania opiekuna stażu nauczyciela szkoły za granicą. Jeżeli dotychczasowy opiekun stażu nie wyraża zgody na realizowanie zadań opiekuna stażu nauczyciela szkoły za granicą, minister właściwy do spraw oświaty i wychowania wyznacza nauczycielowi nowego opiekuna stażu z listy nauczycieli, o której mowa w art. 9l ust. 4.
+
+### 7.
+
+Nauczyciel kontraktowy i nauczyciel mianowany mogą przerwać staż na swój wniosek w każdym czasie. W przypadku ponownego rozpoczęcia stażu odbywają staż w pełnym wymiarze.
+
+### Art. 9q.
+
+### 1.
+
+Po zakończeniu stażu nauczyciel szkoły za granicą składa, za pośrednictwem systemu teleinformatycznego, ministrowi właściwemu do spraw oświaty i wychowania sprawozdanie z realizacji planu rozwoju zawodowego, wraz z opinią opiekuna stażu o realizacji zadań wymienionych w planie. Nauczyciel dołącza do sprawozdania z realizacji planu rozwoju zawodowego opinie osoby kierującej szkołą za granicą i przedstawicielstwa rodziców uczniów uczęszczających do szkoły za granicą - o ile takie przedstawicielstwo zostało utworzone - dotyczące jego pracy. Niewydanie opinii przez osobę kierującą szkołę lub przedstawicielstwo rodziców w terminie 7 dni od dnia otrzymania wystąpienia o wydanie opinii nie wstrzymuje postępowania o nadanie stopnia awansu zawodowego.
+
+### 2.
+
+Minister właściwy do spraw oświaty i wychowania ustala ocenę realizacji planu rozwoju zawodowego nauczyciela szkoły za granicą, w terminie 30 dni od dnia złożenia sprawozdania, o którym mowa w ust. 1, po zapoznaniu się z opiniami dołączonymi do sprawozdania.
+
+### 3.
+
+Ocena realizacji planu rozwoju zawodowego nauczyciela, o której mowa w ust. 2, może być pozytywna albo negatywna. Ocenę sporządza się w formie pisemnej i doręcza nauczycielowi. Ocena zawiera uzasadnienie oraz pouczenie o możliwości złożenia wniosku o ponowne ustalenie oceny przez ministra właściwego do spraw oświaty i wychowania.
+
+### 4.
+
+Od oceny realizacji planu rozwoju zawodowego nauczycielowi nie służy odwołanie, jednakże nauczyciel niezadowolony z oceny może, w terminie 14 dni od dnia jej doręczenia, zwrócić się o ponowne ustalenie oceny przez ministra właściwego do spraw oświaty i wychowania. Ocena realizacji planu rozwoju zawodowego nauczyciela ustalona w wyniku wniosku o ponowne ustalenie oceny jest ostateczna.
+
+### 5.
+
+Jeżeli ostateczna ocena realizacji planu rozwoju zawodowego nauczyciela jest negatywna, ponowna ocena realizacji planu rozwoju zawodowego może być dokonana po odbyciu, na wniosek nauczyciela i za zgodą ministra właściwego do spraw oświaty i wychowania, jednego dodatkowego stażu w wymiarze 9 miesięcy.
+
+### Art. 9r.
+
+### 1.
+
+Nauczyciel szkoły za granicą, który odbył staż:
+
+### 1)
+
+na stopień nauczyciela kontraktowego lub nauczyciela mianowanego, składa wniosek o podjęcie postępowania egzaminacyjnego w roku uzyskania pozytywnej oceny realizacji planu rozwoju zawodowego;
+
+### 2)
+
+na stopień nauczyciela dyplomowanego, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego w okresie 3 lat od dnia otrzymania pozytywnej oceny stopnia realizacji planu rozwoju zawodowego.
+
+### 2.
+
+Wnioski, o których mowa w ust. 1, składa się do ministra właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. W przypadku niedotrzymania terminu złożenia wniosku nauczyciel jest obowiązany do ponownego odbycia stażu w pełnym wymiarze.
+
+### 3.
+
+Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 31 lipca danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego w terminie do dnia 30 września danego roku.
+
+### 4.
+
+Nauczycielom szkół za granicą, którzy złożą wnioski o podjęcie odpowiednio postępowania egzaminacyjnego lub kwalifikacyjnego do dnia 30 listopada danego roku, wydaje się decyzję o nadaniu lub o odmowie nadania stopnia awansu zawodowego w terminie do dnia 31 stycznia następnego roku.
+
+### 5.
+
+Nauczyciele, o których mowa w art. 9j ust. 3 i 4, składają wniosek o nadanie stopnia awansu zawodowego do ministra właściwego do spraw oświaty i wychowania za pośrednictwem systemu teleinformatycznego. Wniosek może być złożony w ciągu całego roku.
+
+### 6.
+
+Wniosek, o którym mowa w ust. 5, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko nauczyciela;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL - a w przypadku jego braku - rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
+
+### 4)
+
+adres do korespondencji;
+
+### 5)
+
+numer telefonu;
+
+### 6)
+
+adres poczty elektronicznej, jeżeli nauczyciel go posiada;
+
+### 7)
+
+nazwę szkoły za granicą, w której nauczyciel prowadzi zajęcia;
+
+### 8)
+
+nazwę nauczanego przedmiotu;
+
+### 9)
+
+dokumenty potwierdzające posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1 oraz w przepisach wydanych na podstawie art. 9 ust. 2;
+
+### 10)
+
+dokumenty potwierdzające dorobek zawodowy;
+
+### 11)
+
+dokumenty potwierdzające posiadanie wymaganego okresu prowadzenia zajęć w szkołach za granicą, wydane przez osoby kierujące szkołami za granicą;
+
+### 12)
+
+oświadczenie, że nauczyciel nie został skazany prawomocnym wyrokiem za umyślne przestępstwo.
+
+### 7.
+
+Nauczycielom szkół za granicą, o których mowa w art. 9j ust. 3 i 4, którzy złożyli wnioski o nadanie stopnia awansu zawodowego nauczyciela kontraktowego lub nauczyciela mianowanego zgodnie z ust. 5 i 6, minister właściwy do spraw oświaty i wychowania wydaje decyzję o nadaniu lub odmowie nadania stopnia awansu zawodowego w terminie 6 miesięcy od dnia złożenia wniosku o nadanie stopnia awansu zawodowego.
+
+### Art. 9s.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania powołuje komisję egzaminacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela kontraktowego albo nauczyciela mianowanego oraz komisję kwalifikacyjną dla nauczycieli ubiegających się o awans na stopień nauczyciela dyplomowanego. W skład komisji wchodzą:
+
+### 1)
+
+dwaj przedstawiciele ministra właściwego do spraw oświaty i wychowania spośród których jeden pełni funkcję przewodniczącego komisji;
+
+### 2)
+
+dwaj eksperci z listy ekspertów prowadzonej przez ministra właściwego do spraw oświaty i wychowania, o której mowa w art. 9g ust. 11;
+
+### 3)
+
+opiekun stażu.
+
+### 2.
+
+Komisja egzaminacyjna i komisja kwalifikacyjna, o których mowa w ust. 1, przeprowadzają odpowiednio postępowanie egzaminacyjne lub kwalifikacyjne na wniosek nauczyciela skierowany do ministra właściwego do spraw oświaty i wychowania.
+
+### 3.
+
+Nauczyciel, który nie zdał egzaminu przed komisją egzaminacyjną albo nie uzyskał akceptacji komisji kwalifikacyjnej, może ponownie złożyć wniosek o podjęcie postępowania egzaminacyjnego albo kwalifikacyjnego po odbyciu, za zgodą ministra właściwego do spraw oświaty i wychowania, dodatkowego stażu w wymiarze 9 miesięcy.
+
+### 4.
+
+Komisja egzaminacyjna i komisja kwalifikacyjna, o których mowa w ust. 1, mogą przeprowadzić odpowiednio egzamin i rozmowę kwalifikacyjną w formie wideokonferencji z wykorzystaniem systemu teleinformatycznego.
+
+### 5.
+
+Komisja egzaminacyjna i komisja kwalifikacyjna wydają nauczycielowi zaświadczenie odpowiednio o zdaniu egzaminu lub uzyskaniu akceptacji. Minister właściwy do spraw oświaty i wychowania prowadzi rejestr zaświadczeń wydanych przez komisje egzaminacyjne i komisje kwalifikacyjne.
+
+### Art. 9t.
+
+### 1.
+
+Akt nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą, o którym mowa w art. 9j ust. 2, zawiera w szczególności: nazwę komisji egzaminacyjnej lub kwalifikacyjnej, numer i datę wydania zaświadczenia o zdaniu egzaminu lub uzyskaniu akceptacji, stopień awansu zawodowego, a także informację o poziomie wykształcenia nauczyciela.
+
+### 2.
+
+Akt nadania stopnia awansu zawodowego nauczycielowi szkoły za granicą, o którym mowa w art. 9j ust. 3 i 4, zawiera w szczególności: stopień awansu zawodowego, a także informację o poziomie wykształcenia nauczyciela.
+
+### 3.
+
+Nauczycielowi szkoły za granicą, który w trakcie prowadzenia zajęć w szkole uzyskał wyższy poziom wykształcenia niż określony w akcie nadania stopnia awansu zawodowego, minister właściwy do spraw oświaty i wychowania, na wniosek nauczyciela, wydaje nowy akt nadania odpowiedniego stopnia awansu zawodowego uwzględniający uzyskany poziom wykształcenia.
+
+### Art. 9u.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może upoważnić kierownika podległej sobie jednostki organizacyjnej do załatwiania indywidualnych spraw z zakresu awansu zawodowego nauczycieli szkół za granicą, w tym do wydawania decyzji, o których mowa w art. 9j ust. 5.
+
+### 2.
+
+Przepisy dotyczące wydawania decyzji w sprawach nadania albo odmowy nadania stopnia awansu zawodowego nauczycielom szkół za granicą przez ministra właściwego do spraw oświaty i wychowania stosuje się odpowiednio do kierownika jednostki organizacyjnej, o którym mowa w przepisach wydanych na podstawie ust. 1. Do decyzji podjętych przez tego kierownika stosuje się odpowiednio art. 127 § 3 Kodeksu postępowania administracyjnego.
+
+### Art. 9w.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+zakres wymagań niezbędnych do uzyskania poszczególnych stopni awansu zawodowego,
+
+### 2)
+
+sposób odbywania stażu,
+
+### 3)
+
+zakres spraw, które powinna określać umowa z opiekunem stażu,
+
+### 4)
+
+rodzaj dokumentacji dołączanej do wniosku o podjęcie postępowania egzaminacyjnego lub postępowania kwalifikacyjnego,
+
+### 5)
+
+osiągnięcia w pracy dydaktycznej i wychowawczej nauczyciela, o którym mowa w art. 9j ust. 3 i 4, które mogą być uznane za znaczący dorobek zawodowy,
+
+### 6)
+
+sposób przeprowadzania postępowania egzaminacyjnego i kwalifikacyjnego,
+
+### 7)
+
+wzory zaświadczeń o zdaniu egzaminu lub uzyskaniu akceptacji oraz wzory aktów nadania stopni awansu zawodowego nauczycielom, o których mowa w art. 9j ust. 2-4,
+
+### 8)
+
+sposób przetwarzania danych i zakres dostępu do systemu teleinformatycznego przez osoby upoważnione
+
+- uwzględniając potrzebę stopniowania i różnicowania wymagań stawianych nauczycielom szkół za granicą na poszczególnych stopniach awansu zawodowego oraz potrzebę prawidłowego przeprowadzania postępowań egzaminacyjnych i kwalifikacyjnych.
+
+” ;
+
+### 11)
+
+w art. 10a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+W przypadku nauczycieli prowadzących zajęcia bezpośrednio z uczniami lub wychowankami w wymiarze nie wyższym niż 4 godziny tygodniowo, powierzenie prowadzenia tych zajęć może nastąpić również na innej podstawie niż umowa o pracę, jeżeli w treści łączącego strony stosunku prawnego nie przeważają cechy charakterystyczne dla stosunku pracy.
+
+### 3.
+
+Nauczyciel, o którym mowa w ust. 2, prowadzący zajęcia na innej podstawie niż umowa o pracę, musi spełniać warunki, o których mowa w art. 10 ust. 5 pkt 3 i 4. Przepis art. 10 ust. 8a stosuje się odpowiednio.
+
+” ;
+
+### 12)
+
+w art. 17 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Nauczyciele skierowani przez ministra właściwego do spraw oświaty i wychowania do pracy w szkołach europejskich otrzymują urlop bezpłatny na czas skierowania.
+
+” ;
+
+### 13)
+
+w art. 33a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Nauczycielowi dyplomowanemu legitymującemu się co najmniej trzyletnim okresem pracy w szkole od dnia nadania stopnia nauczyciela dyplomowanego oraz wyróżniającą oceną pracy uzyskaną w okresie ostatnich 3 lat pracy przysługuje dodatek za wyróżniającą pracę w wysokości 16% kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Prawo do dodatku za wyróżniającą pracę wygasa z ostatnim dniem miesiąca kalendarzowego, w którym upływają 3 lata od dnia nabycia przez nauczyciela prawa do dodatku za wyróżniającą pracę, a jeżeli przed upływem tego terminu nauczyciel uzyska ocenę pracy niższą niż ocena wyróżniająca - z ostatnim dniem miesiąca kalendarzowego, w którym uzyskana przez nauczyciela ocena pracy niższa niż ocena wyróżniająca stała się ostateczna.
+
+” ;
+
+### 14)
+
+w art. 42:
+
+### a)
+
+w ust. 2b w pkt 2 po wyrazach „egzaminu ósmoklasisty,” dodaje się wyrazy „egzaminu zawodowego,”,
+
+### b)
+
+po ust. 2d dodaje się ust. 2e w brzmieniu:
+
+„
+
+### 2e.
+
+Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy - Prawo oświatowe, oraz placówkach i centrach, o których mowa w art. 2 pkt 4 tej ustawy odbywają szkolenia branżowe w ramach zajęć, o których mowa w ust. 2 pkt 3.
+
+” ,
+
+### c)
+
+w ust. 3 w tabeli:
+
+- - w lp. 3 wyrazy „przedmiotów teoretycznych” zastępuje się wyrazami „teoretycznych przedmiotów zawodowych” oraz skreśla się wyrazy „i innych placówkach kształcenia artystycznego”,
+
+- - w lp. 5 wyraz „22” zastępuje się wyrazem „20”,
+
+### d)
+
+w ust. 7 w pkt 3 w lit. b kropkę zastępuje się przecinkiem i dodaje się lit. c w brzmieniu:
+
+„
+
+### c)
+
+nauczycieli przedszkoli i innych placówek przedszkolnych pracujących z grupami obejmującymi dzieci 6-letnie i dzieci młodsze, z tym że wymiar ten nie może przekraczać 25 godzin.
+
+” ;
+
+### 15)
+
+w art. 42c w ust. 1 w zdaniu drugim po wyrazach „dokształcającym się,” dodaje się wyrazy „odbywającym szkolenie branżowe,”;
+
+### 16)
+
+w art. 64 po ust. 5a dodaje się ust. 5b w brzmieniu:
+
+„
+
+### 5b.
+
+Przepis ust. 5a stosuje się odpowiednio do dyrektora i wicedyrektora szkoły oraz nauczyciela zajmującego inne stanowisko kierownicze w szkole, a także nauczyciela, który przez okres co najmniej 10 miesięcy pełni obowiązki kierownicze w zastępstwie nauczyciela, któremu powierzono stanowisko kierownicze.
+
+” ;
+
+### 17)
+
+w art. 66 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W razie niewykorzystania przysługującego urlopu wypoczynkowego z powodu rozwiązania lub wygaśnięcia stosunku pracy, powołania do zasadniczej służby wojskowej albo do odbywania zastępczo obowiązku tej służby, do okresowej służby wojskowej lub do odbywania długotrwałego przeszkolenia wojskowego - nauczycielowi przysługuje ekwiwalent pieniężny za okres niewykorzystanego urlopu, nie więcej jednak niż za 8 tygodni w odniesieniu do nauczycieli, o których mowa w art. 64 ust. 1, a nie więcej niż za 35 dni roboczych w odniesieniu do nauczycieli, o których mowa w art. 64 ust. 2a i 3.
+
+” ;
+
+### 18)
+
+w art. 70a:
+
+### a)
+
+w ust. 1 po wyrazach „doskonalenia zawodowego nauczycieli” dodaje się przecinek i wyrazy „z uwzględnieniem szkoleń branżowych”,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Ze środków na dofinansowanie doskonalenia zawodowego nauczycieli, o których mowa w ust. 1, dofinansowuje się:
+
+### 1)
+
+koszty udziału nauczycieli w seminariach, konferencjach, wykładach, warsztatach, szkoleniach, studiach podyplomowych oraz innych formach doskonalenia zawodowego nauczycieli prowadzonych odpowiednio przez placówki doskonalenia nauczycieli, szkoły wyższe oraz inne podmioty, których zadania statutowe obejmują doskonalenie zawodowe nauczycieli;
+
+### 2)
+
+koszty udziału nauczycieli w formach kształcenia nauczycieli prowadzonych przez szkoły wyższe i placówki doskonalenia nauczycieli;
+
+### 3)
+
+wspomaganie szkół oraz sieci współpracy i samokształcenia dla nauczycieli prowadzonych przez placówki doskonalenia nauczycieli, poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne i biblioteki pedagogiczne;
+
+### 4)
+
+koszty udziału nauczycieli, o których mowa w art. 70c ust. 1, w szkoleniach branżowych.
+
+” ,
+
+### c)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Ze środków, o których mowa w ust. 4, wojewoda udziela jednostkom samorządu terytorialnego prowadzącym placówki doskonalenia nauczycieli zatrudniające doradców metodycznych, o których mowa w art. 183 ust. 4 ustawy - Prawo oświatowe, dotacji na finansowanie wydatków związanych z zatrudnieniem nauczycieli w celu realizacji zadań doradcy metodycznego.
+
+” ,
+
+### d)
+
+po ust. 8 dodaje się ust. 8a w brzmieniu:
+
+„
+
+### 8a.
+
+Ze środków, o których mowa w ust. 7, dofinansowuje się:
+
+### 1)
+
+centralne programy kształcenia i doskonalenia zawodowego nauczycieli;
+
+### 2)
+
+zadania w zakresie kształcenia i doskonalenia zawodowego nauczycieli, zlecane szkołom wyższym lub innym podmiotom.
+
+” ,
+
+### e)
+
+uchyla się ust. 9;
+
+### 19)
+
+uchyla się art. 70b;
+
+### 20)
+
+po art. 70b dodaje się art. 70c i art. 70d w brzmieniu:
+
+„
+
+### Art. 70c.
+
+### 1.
+
+Nauczyciele teoretycznych przedmiotów zawodowych i nauczyciele praktycznej nauki zawodu, zatrudnieni w szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz placówkach i centrach, o których mowa w art. 2 pkt 4 tej ustawy, są obowiązani doskonalić umiejętności i kwalifikacje zawodowe potrzebne do wykonywania pracy poprzez uczestniczenie w szkoleniach branżowych realizowanych w trzyletnich cyklach, w łącznym wymiarze 40 godzin w cyklu.
+
+### 2.
+
+Obowiązek, o którym mowa w ust. 1, nie dotyczy nauczycieli:
+
+### 1)
+
+prowadzących działalność gospodarczą związaną z nauczanym zawodem albo indywidualne gospodarstwo rolne, którego działalność jest związana z nauczanym zawodem, lub
+
+### 2)
+
+zatrudnionych u pracodawców na stanowiskach związanych z nauczanym zawodem, lub
+
+### 3)
+
+zatrudnionych w indywidualnych gospodarstwach rolnych, których działalność jest związana z nauczanym zawodem.
+
+### 3.
+
+Za spełnienie obowiązku, o którym mowa w ust. 1, uznaje się również odpowiednio udział nauczycieli teoretycznych przedmiotów zawodowych oraz nauczycieli praktycznej nauki zawodu, o których mowa w ust. 1, w formach doskonalenia zawodowego realizowanych u pracodawców w ramach regionalnych programów operacyjnych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju ([Dz. U. z 2018 r. poz. 1307](https://api.sejm.gov.pl/eli/acts/DU/2018/1307/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)).
+
+### 4.
+
+Szkolenia branżowe organizuje dyrektor szkoły, placówki lub centrum, o których mowa w ust. 1. W przypadku nauczyciela zatrudnionego w więcej niż jednej szkole lub placówce szkolenia branżowe organizuje dyrektor szkoły lub placówki wskazanej przez nauczyciela jako podstawowe miejsce zatrudnienia.
+
+### 5.
+
+Dyrektor szkoły, placówki lub centrum, o których mowa w ust. 1, kieruje nauczyciela na szkolenie branżowe odpowiednio u pracodawcy lub w indywidualnym gospodarstwie rolnym, z własnej inicjatywy lub na wniosek nauczyciela.
+
+### 6.
+
+Dyrektor szkoły zwalnia nauczyciela odbywającego szkolenie branżowe z całości lub części dnia pracy, na czas niezbędny, aby punktualnie przybyć na szkolenie oraz na czas jego trwania, jeżeli organizacja szkolenia branżowego tego wymaga.
+
+### 7.
+
+Za czas zwolnienia z całości lub części dnia pracy nauczyciel, o którym mowa w ust. 6, zachowuje prawo do wynagrodzenia.
+
+### 8.
+
+Nauczycielowi odbywającemu szkolenie branżowe w innej miejscowości niż miejsce zamieszkania lub miejsce pracy nauczyciela przysługują należności na pokrycie kosztów związanych z podróżą służbową na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 9.
+
+Nauczyciel, w terminie 30 dni od dnia zakończenia szkolenia branżowego, przedkłada dyrektorowi szkoły, placówki lub centrum, o których mowa w ust. 1, informację o zakresie i wymiarze odbytego szkolenia branżowego, potwierdzoną przez pracodawcę lub osobę prowadzącą indywidualne gospodarstwo rolne.
+
+### 10.
+
+Nauczyciel skierowany na szkolenie branżowe, który bez uzasadnionych przyczyn nie podejmie szkolenia albo je przerwie, jest obowiązany do zwrotu kosztów, o których mowa w ust. 8, poniesionych przez szkołę, placówkę lub centrum, o których mowa w ust. 1.
+
+### 11.
+
+Koszty szkolenia branżowego mogą być finansowane:
+
+### 1)
+
+przez pracodawców lub osoby prowadzące indywidualne gospodarstwa rolne, lub
+
+### 2)
+
+ze środków Krajowego Funduszu Szkoleniowego, o którym mowa w art. 69a ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2018 r. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.](#gloss-0:6:)), na zasadach dotyczących kursów, lub
+
+### 3)
+
+ze środków wyodrębnionych w budżetach organów prowadzących szkoły, o których mowa w art. 70a ust. 1, zgodnie z przepisami wydanymi na podstawie art. 70d, lub
+
+### 4)
+
+ze środków pochodzących z programów edukacyjnych Unii Europejskiej.
+
+### 12.
+
+W przypadku realizacji szkoleń branżowych w wymiarze większym niż 40 godzin w trzyletnim cyklu, źródłem finansowania tych szkoleń nie mogą być środki, o których mowa ust. 11 pkt 2 i 3.
+
+### Art. 70d.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje wydatków związanych z organizacją i prowadzeniem doskonalenia zawodowego nauczycieli, które mogą być dofinansowywane ze środków, o których mowa w art. 70a ust. 1,
+
+### 2)
+
+warunki, tryb i kryteria przyznawania środków, o których mowa w art. 70a ust. 1,
+
+### 3)
+
+szczegółowe cele szkolenia branżowego oraz tryb i warunki kierowania nauczycieli na szkolenia branżowe
+
+- uwzględniając kompetencje organów wymienionych w art. 70a ust. 1 oraz dyrektorów szkół w zakresie planowania i wydatkowania środków na doskonalenie zawodowe nauczycieli, a także konieczność organizacji doskonalenia zawodowego nauczycieli w sposób służący podnoszeniu jakości pracy szkół oraz efektywnego gospodarowania środkami przeznaczonymi na doskonalenie zawodowe nauczycieli i środkami na finansowanie kosztów szkoleń branżowych pochodzącymi z innych źródeł.
+
+” ;
+
+### 21)
+
+w art. 73 ust. 10a otrzymuje brzmienie:
+
+„
+
+### 10a.
+
+Dyrektor szkoły, na pisemny wniosek nauczyciela o udzielenie urlopu dla poratowania zdrowia, w terminie nie dłuższym niż 7 dni roboczych od dnia złożenia wniosku, wydaje skierowanie na badanie lekarskie przeprowadzane przez uprawnionego lekarza.
+
+” ;
+
+### 22)
+
+w art. 75 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Ilekroć w niniejszym rozdziale jest mowa o dyrektorze szkoły, należy przez to rozumieć także kierownika szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy - Prawo oświatowe.
+
+” ;
+
+### 23)
+
+w art. 91a w ust. 4 i 5 wyrazy „publicznych szkołach i szkolnych punktach konsultacyjnych” zastępuje się wyrazami „szkołach polskich, o których mowa w art. 4 pkt 29d ustawy - Prawo oświatowe, oraz publicznych szkołach i zespołach szkół”;
+
+### 24)
+
+w art. 91b:
+
+### a)
+
+w ust. 2 w pkt 1 i 2 skreśla się wyrazy „art. 10a,”,
+
+### b)
+
+po ust. 2c dodaje się ust. 2d w brzmieniu:
+
+„
+
+### 2d.
+
+Do nauczycieli teoretycznych przedmiotów zawodowych i nauczycieli praktycznej nauki zawodu, zatrudnionych w publicznych szkołach prowadzących kształcenie zawodowe w rozumieniu art. 4 pkt 28a lit. a ustawy - Prawo oświatowe, oraz publicznych placówkach i centrach, o których mowa w art. 2 pkt 4 tej ustawy, prowadzonych przez osoby fizyczne i osoby prawne niebędące jednostkami samorządu terytorialnego, bez względu na wymiar zatrudnienia, mają zastosowanie przepisy art. 70c i art. 70d.
+
+” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Do nauczycieli, o których mowa w art. 1 ust. 2 pkt 1c, stosuje się przepisy rozdziału 3a oraz art. 17 ust. 2a i 3. Na czas skierowania do pracy w szkołach europejskich nauczyciele ci są zatrudniani na podstawie umowy o pracę w jednostce organizacyjnej podległej ministrowi właściwemu do spraw oświaty i wychowania, której zadaniem statutowym jest organizacja i koordynacja funkcjonowania szkół, o których mowa w art. 1 ust. 2 pkt 1a.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 22 marca 1989 r. o rzemiośle ([Dz. U. z 2018 r. poz. 1267](https://api.sejm.gov.pl/eli/acts/DU/2018/1267/text.html)) w art. 3 ust. 3b otrzymuje brzmienie:
+
+„
+
+### 3b.
+
+Podstawę przeprowadzania egzaminu czeladniczego w zawodzie określonym w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), stanowią wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2017 r. poz. 2067](https://api.sejm.gov.pl/eli/acts/DU/2017/2067/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077 i 2102.](#gloss-0:7:)) w art. 116a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2018 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2018/1509/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242 i 2244.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23 w ust. 1 w pkt 55 po wyrazach „o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. z 2018 r. poz. 1244),” dodaje się wyrazy „świadczeń pieniężnych z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe,”;
+
+### 2)
+
+w art. 26:
+
+### a)
+
+w ust. 1 w pkt 9 w lit. c dodaje się na końcu przecinek i lit. d w brzmieniu:
+
+„
+
+### d)
+
+kształcenia zawodowego publicznym szkołom prowadzącym kształcenie zawodowe, o których mowa w art. 4 pkt 28a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz publicznym placówkom i centrom, o których mowa w art. 2 pkt 4 tej ustawy
+
+” ,
+
+### b)
+
+po ust. 6e dodaje się ust. 6ea i 6eb w brzmieniu:
+
+„
+
+### 6ea.
+
+Odliczenie darowizn, o którym mowa w ust. 1 pkt 9 lit. d, stosuje się w przypadku gdy przedmiotem darowizny są materiały dydaktyczne lub środki trwałe, z wyjątkiem materiałów dydaktycznych lub środków trwałych, które nie są kompletne, zdatne do użytku lub są starsze niż 12 lat.
+
+### 6eb.
+
+Prawo do odliczenia darowizny, o której mowa w ust. 1 pkt 9 lit. d, przysługuje podatnikom osiągającym przychody ze źródła, o którym mowa w art. 10 ust. 1 pkt 3.
+
+” ,
+
+### c)
+
+ust. 13a otrzymuje brzmienie:
+
+„
+
+### 13a.
+
+Wydatki na cele określone w ust. 1 podlegają odliczeniu od dochodu, jeżeli nie zostały zaliczone do kosztów uzyskania przychodów lub nie zostały odliczone od dochodów opodatkowanych na zasadach określonych w art. 30c lub nie zostały odliczone od przychodu na podstawie ustawy o zryczałtowanym podatku dochodowym albo nie zostały zwrócone podatnikowi w jakiejkolwiek formie.
+
+” ;
+
+### 3)
+
+w art. 30c:
+
+### a)
+
+w ust. 2 zdanie drugie otrzymuje brzmienie: „ Dochód ten podatnicy mogą pomniejszyć o składki na ubezpieczenie społeczne określone w art. 26 ust. 1 pkt 2 lit. a i pkt 2a, wpłaty na indywidualne konto zabezpieczenia emerytalnego określone w art. 26 ust. 1 pkt 2b oraz o darowiznę, o której mowa w art. 26 ust. 1 pkt 9 lit. d, w wysokości dokonanej darowizny, nie więcej jednak niż kwoty stanowiącej 6% dochodu. ” ,
+
+### b)
+
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Składki na ubezpieczenie społeczne, o których mowa w art. 26 ust. 1 pkt 2 i pkt 2a, wpłaty na indywidualne konto zabezpieczenia emerytalnego określone w art. 26 ust. 1 pkt 2b oraz dokonane darowizny na cele kształcenia zawodowego określone w art. 26 ust. 1 pkt 9 lit. d, podlegają odliczeniu od dochodu, jeżeli nie zostały: ” ,
+
+### c)
+
+ust. 3a otrzymuje brzmienie:
+
+„
+
+### 3a.
+
+Przepisy art. 26 ust. 5, 6, 6b, 6c, 6ea, 6eb, 6f, 7, 13b i 13c stosuje się odpowiednio.
+
+” ;
+
+### 4)
+
+w art. 35 w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+podmioty przyjmujące na praktykę absolwencką lub staż uczniowski - od świadczeń pieniężnych wypłacanych z tytułu odbywania praktyk absolwenckich, o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich lub odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2018 r. poz. 1036](https://api.sejm.gov.pl/eli/acts/DU/2018/1036/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243 i 2244.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 16 w ust. 1 w pkt 57 po wyrazach „o których mowa w ustawie z dnia 17 lipca 2009 r. o praktykach absolwenckich (Dz. U. poz. 1052 oraz z 2017 r. poz. 60),” dodaje się wyrazy „świadczeń pieniężnych z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000, 1290, 1669 i 2245),”;
+
+### 2)
+
+w art. 18:
+
+### a)
+
+w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+darowizn przekazanych na cele kształcenia zawodowego publicznym szkołom prowadzącym kształcenie zawodowe, o których mowa w art. 4 pkt 28a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz publicznym placówkom i centrom, o których mowa w art. 2 pkt 4 tej ustawy - łącznie do wysokości nieprzekraczającej 10% dochodu, o którym mowa w art. 7 ust. 3 albo w art. 7a ust. 1.
+
+” ,
+
+### b)
+
+w ust. 1a wprowadzenie do wyliczenia otrzymuje brzmienie: „ Łączna kwota odliczeń z tytułów określonych w ust. 1 pkt 1, 7 i 8 nie może przekroczyć 10% dochodu, o którym mowa w art. 7 ust. 3 albo w art. 7a ust. 1, z tym że odliczeniom nie podlegają darowizny na rzecz: ” ,
+
+### c)
+
+ust. 1c otrzymuje brzmienie:
+
+„
+
+### 1c.
+
+Odliczenie darowizn, o którym mowa w ust. 1 pkt 1, 7 i 8, oraz odliczenie wynikające z odrębnych ustaw stosuje się, jeżeli wysokość darowizny jest udokumentowana dowodem wpłaty na rachunek płatniczy obdarowanego lub jego rachunek w banku, inny niż rachunek płatniczy, a w przypadku darowizny innej niż pieniężna - dokumentem, z którego wynika wartość tej darowizny, oraz oświadczeniem obdarowanego o jej przyjęciu.
+
+” ,
+
+### d)
+
+po ust. 1c dodaje się ust. 1ca w brzmieniu:
+
+„
+
+### 1ca.
+
+Odliczenie darowizn, o którym mowa w ust. 1 pkt 8, stosuje się w przypadku gdy przedmiotem darowizny są materiały dydaktyczne lub środki trwałe, z wyjątkiem materiałów dydaktycznych lub środków trwałych, które nie są kompletne, zdatne do użytku lub są starsze niż 12 lat.
+
+” ,
+
+### e)
+
+ust. 1g otrzymuje brzmienie:
+
+„
+
+### 1g.
+
+Podatnicy korzystający z odliczenia darowizn, o którym mowa w ust. 1 pkt 1, 7 i 8, oraz wynikającego z odrębnych ustaw, są obowiązani wykazać w zeznaniu, o którym mowa w art. 27 ust. 1, kwotę przekazanej darowizny, kwotę dokonanego odliczenia oraz dane pozwalające na identyfikację obdarowanego, w szczególności jego nazwę, adres i numer identyfikacji podatkowej lub numer uzyskany w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, w którym obdarowany ma siedzibę, służący dla celów podatkowych identyfikacji.
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ([Dz. U. z 2018 r. poz. 1191](https://api.sejm.gov.pl/eli/acts/DU/2018/1191/text.html), [1293](https://api.sejm.gov.pl/eli/acts/DU/2018/1293/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 6 w ust. 1 w pkt 13 wyrazy „szkolne punkty konsultacyjne przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 1 lit. a” zastępuje się wyrazami „szkoły polskie, o których mowa w art. 4 pkt 29d”.
+
+### Art. 12.
+
+W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2018 r. poz. 1202](https://api.sejm.gov.pl/eli/acts/DU/2018/1202/text.html), [1276](https://api.sejm.gov.pl/eli/acts/DU/2018/1276/text.html), [1496](https://api.sejm.gov.pl/eli/acts/DU/2018/1496/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 14 w ust. 3 w pkt 4 w lit. b tiret drugie otrzymuje brzmienie:
+
+„
+
+- - dyplomu zawodowego albo dyplomu potwierdzającego kwalifikacje zawodowe, w zawodzie nauczanym na poziomie technika
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy ([Dz. U. z 2018 r. poz. 1155](https://api.sejm.gov.pl/eli/acts/DU/2018/1155/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 5 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+kandydatów do szkół ponadpodstawowych lub wyższych i na kwalifikacyjne kursy zawodowe, uczniów i słuchaczy tych szkół, studentów oraz słuchaczy kwalifikacyjnych kursów zawodowych, którzy w trakcie praktycznej nauki zawodu lub stażu uczniowskiego są narażeni na działanie czynników szkodliwych, uciążliwych lub niebezpiecznych dla zdrowia;
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt ([Dz. U. z 2017 r. poz. 1840](https://api.sejm.gov.pl/eli/acts/DU/2017/1840/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [663](https://api.sejm.gov.pl/eli/acts/DU/2018/663/text.html)) w art. 12a w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+są absolwentami szkół prowadzących kształcenie:
+
+### a)
+
+w zawodach ujętych w klasyfikacji zawodów szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), lub
+
+### b)
+
+w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe w brzmieniu obowiązującym przed dniem 1 września 2019 r., lub
+
+### c)
+
+w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2018 r. poz. 1457](https://api.sejm.gov.pl/eli/acts/DU/2018/1457/text.html), [1560](https://api.sejm.gov.pl/eli/acts/DU/2018/1560/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) w brzmieniu obowiązującym przed dniem 1 września 2017 r.
+
+- związanych z chowem lub hodowlą zwierząt, lub
+
+” .
+
+### Art. 15.
+
+W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ([Dz. U. z 2018 r. poz. 2142](https://api.sejm.gov.pl/eli/acts/DU/2018/2142/text.html)) w art. 26 w ust. 7 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie technik ochrony fizycznej osób i mienia, albo świadectwo potwierdzające kwalifikację w zawodzie albo certyfikat kwalifikacji zawodowej, w zawodzie technik ochrony fizycznej osób i mienia;
+
+” .
+
+### Art. 16.
+
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2018 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2018/1270/text.html)) w art. 7 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
+
+„
+
+### 13)
+
+udokumentowanego okresu odbytego stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)).
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 6 września 2001 r. o transporcie drogowym ([Dz. U. z 2017 r. poz. 2200](https://api.sejm.gov.pl/eli/acts/DU/2017/2200/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629.](#gloss-0:10:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 39b po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku kandydatów do szkoły oraz uczniów szkoły prowadzącej kształcenie w zawodzie, dla których podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu, o którym mowa w art. 39b ust. 1 pkt 3, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+
+### 1b.
+
+W przypadku kandydatów na kwalifikacyjny kurs zawodowy i słuchaczy kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla których podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy oraz umiejętności kierowania pojazdem silnikowym, spełnienie wymogu, o którym mowa w art. 39b ust. 1 pkt 3, następuje również na podstawie orzeczenia lekarskiego, o którym mowa w art. 79 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, oraz na podstawie orzeczenia psychologicznego, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+
+” ;
+
+### 2)
+
+w art. 39b1wust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przez okręgową komisję egzaminacyjną, po zakończeniu zajęć szkolnych dla uczniów, o których mowa w ust. 1 pkt 1, w ramach egzaminu potwierdzającego kwalifikacje w zawodzie albo egzaminu zawodowego, albo
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2017 r. poz. 1920](https://api.sejm.gov.pl/eli/acts/DU/2017/1920/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 138, 650, 723, 730, 1544, 1560 i 1669.](#gloss-0:11:)) w art. 134a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach ([Dz. U. z 2013 r. poz. 737](https://api.sejm.gov.pl/eli/acts/DU/2013/737/text.html)) w art. 2 w ust. 1 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu:
+
+„
+
+### 16)
+
+przy odbywaniu stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)).
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2017 r. poz. 2117](https://api.sejm.gov.pl/eli/acts/DU/2017/2117/text.html) i [2361](https://api.sejm.gov.pl/eli/acts/DU/2017/2361/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [927](https://api.sejm.gov.pl/eli/acts/DU/2018/927/text.html), [1338](https://api.sejm.gov.pl/eli/acts/DU/2018/1338/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html)) w art. 22 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ukończyła 18 lat;
+
+” ;
+
+### 2)
+
+po ust. 10 dodaje się ust. 10a w brzmieniu:
+
+„
+
+### 10a.
+
+Licencje maszynistów uzyskane przez osoby, które ukończyły 18 lat, do czasu ukończenia przez nich 20 lat, są ważne wyłącznie na terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 3)
+
+ust. 14 otrzymuje brzmienie:
+
+„
+
+### 14.
+
+Licencje maszynistów wydane w innych państwach członkowskich Unii Europejskiej, osobom, które ukończyły 20 lat, są ważne na terytorium Rzeczypospolitej Polskiej.
+
+” .
+
+### Art. 21.
+
+W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ([Dz. U. z 2018 r. poz. 2067](https://api.sejm.gov.pl/eli/acts/DU/2018/2067/text.html)) w art. 37b ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prace o charakterze technicznym w zakresie, o którym mowa w ust. 1, samodzielnie wykonuje osoba, która posiada świadectwo ukończenia szkoły średniej zawodowej oraz tytuł zawodowy albo wykształcenie średnie lub średnie branżowe i dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodach związanych z pielęgnacją zieleni, albo przez co najmniej 9 miesięcy brała udział w tego rodzaju pracach prowadzonych przy zabytkach wpisanych do rejestru lub była zatrudniona przy tych pracach w muzeum będącym instytucją kultury.
+
+” .
+
+### Art. 22.
+
+W ustawie z dnia 17 października 2003 r. o wykonywaniu prac podwodnych ([Dz. U. z 2017 r. poz. 1970](https://api.sejm.gov.pl/eli/acts/DU/2017/1970/text.html)) użyte w art. 20 w ust. 7 w pkt 1 i w ust. 8 w pkt 1, wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+### Art. 23.
+
+W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego ([Dz. U. z 2018 r. poz. 1530](https://api.sejm.gov.pl/eli/acts/DU/2018/1530/text.html), [2161](https://api.sejm.gov.pl/eli/acts/DU/2018/2161/text.html) i [2193](https://api.sejm.gov.pl/eli/acts/DU/2018/2193/text.html)) w art. 28 w ust. 6:
+
+### 1)
+
+pkt 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6)
+
+zróżnicowania kwot ustalanych na uczniów objętych kształceniem zawodowym w oparciu o prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html));
+
+### 7)
+
+liczby uczniów lub słuchaczy, niebędących uczniami lub słuchaczami niepełnosprawnymi, którzy uzyskali odpowiednio świadectwo dojrzałości, certyfikat kwalifikacji zawodowej, świadectwo potwierdzające kwalifikację w zawodzie, dyplom zawodowy lub dyplom potwierdzający kwalifikacje zawodowe, w liceach ogólnokształcących dla dorosłych, branżowych szkołach II stopnia oraz szkołach policealnych, niebędących szkołami specjalnymi;
+
+” ,
+
+### 2)
+
+dodaje się pkt 8 i 9 w brzmieniu:
+
+„
+
+### 8)
+
+liczby słuchaczy kwalifikacyjnych kursów zawodowych, którzy zdali egzamin zawodowy lub egzamin potwierdzający kwalifikacje w zawodzie, w zakresie danej kwalifikacji, w szkołach lub placówkach prowadzących kwalifikacyjne kursy zawodowe;
+
+### 9)
+
+zróżnicowania kwot ustalanych na uczniów objętych kształceniem zawodowym w zawodach szkolnictwa branżowego o szczególnym znaczeniu dla kultury i dziedzictwa narodowego określonych w wykazie, o którym mowa w art. 46b ust. 4 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+” .
+
+### Art. 24.
+
+W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2018 r. poz. 1508](https://api.sejm.gov.pl/eli/acts/DU/2018/1508/text.html), [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html) i [2192](https://api.sejm.gov.pl/eli/acts/DU/2018/2192/text.html)) użyte w art. 48a w ust. 2g w pkt 2, ust. 3a i 4a, wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+### Art. 25.
+
+wie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2018 r. poz. 1265, z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.](#gloss-0:12:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie:
+
+„
+
+### 2)
+
+bezrobotnym - oznacza to osobę, o której mowa w art. 1 ust. 3 pkt 1 i 2 lit. a-g, i, j, I oraz osobę, o której mowa w art. 1 ust. 3 pkt 2 lit. ha, która bezpośrednio przed rejestracją jako bezrobotna była zatrudniona nieprzerwanie na terytorium Rzeczypospolitej Polskiej przez okres co najmniej 6 miesięcy, oraz osobę, o której mowa w art. 1 ust. 3 pkt 3 i 4, niezatrudnioną i niewykonującą innej pracy zarobkowej, zdolną i gotową do podjęcia zatrudnienia w pełnym wymiarze czasu pracy obowiązującym w danym zawodzie lub w danej służbie albo innej pracy zarobkowej albo jeżeli jest osobą niepełnosprawną, zdolną i gotową do podjęcia zatrudnienia co najmniej w połowie tego wymiaru czasu pracy, nieuczącą się w szkole, z wyjątkiem uczącej się w szkołach dla dorosłych lub przystępującej do egzaminu eksternistycznego z zakresu programu nauczania tej szkoły oraz uczącej się w branżowej szkole II stopnia i szkole policealnej, prowadzącej kształcenie w formie stacjonarnej lub zaocznej, lub w szkole wyższej, gdzie studiuje na studiach niestacjonarnych, zarejestrowaną we właściwym dla miejsca zameldowania stałego lub czasowego powiatowym urzędzie pracy oraz poszukującą zatrudnienia lub innej pracy zarobkowej, jeżeli:
+
+” ,
+
+### b)
+
+w pkt 27a:
+
+- - lit. b otrzymuje brzmienie: „ b) certyfikatów kwalifikacji zawodowych, ” ,
+
+- - w lit c. wprowadzenie do wyliczenia otrzymuje brzmienie: „ c) dyplomu zawodowego po zdaniu egzaminów zawodowych ze wszystkich kwalifikacji wyodrębnionych w zawodzie przez osoby posiadające: ” ;
+
+### 2)
+
+w art. 4 w ust. 1 w pkt 2 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+określanie instrumentów stymulujących rozwój kształcenia ustawicznego rozumianego jako kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia, szkołach policealnych, a także uzyskiwanie i uzupełnianie lub doskonalenie wiedzy ogólnej, umiejętności i kwalifikacji zawodowych w odniesieniu do bezrobotnych, poszukujących pracy, pracowników i pracodawców,
+
+” ;
+
+### 3)
+
+w art. 8 w ust. 1 pkt 15 otrzymuje brzmienie:
+
+„
+
+### 15)
+
+coroczne określanie i ogłaszanie w wojewódzkim dzienniku urzędowym, w terminie do dnia 30 kwietnia, po zasięgnięciu opinii wojewódzkiej rady rynku pracy, na podstawie klasyfikacji zawodów i specjalności na potrzeby rynku pracy, o której mowa w art. 4 ust. 1 pkt 7 lit. b, oraz klasyfikacji zawodów, o której mowa w art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), wykazu zawodów, w których za przygotowanie zawodowe młodocianych pracowników może być dokonywana refundacja, o której mowa w art. 12 ust. 6, przy uwzględnieniu zapotrzebowania na kwalifikacje i umiejętności na rynku pracy określonego w szczególności w prognozie zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe;
+
+” ;
+
+### 4)
+
+w art. 22:
+
+### a)
+
+w ust. 5 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+składanie wniosków i wydawanie opinii w sprawach dotyczących kierunków kształcenia, w tym opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, szkolenia zawodowego oraz zatrudnienia w województwie;
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a-5d w brzmieniu:
+
+„
+
+### 5a.
+
+Przed wydaniem opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w ust. 5 pkt 5, wojewódzka rada rynku pracy może zasięgnąć opinii powiatowej rady rynku pracy.
+
+### 5b.
+
+Wojewódzka rada rynku pracy wydaje opinię o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w ust. 5 pkt 5, po zapoznaniu się z prognozą zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+### 5c.
+
+Opinia o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w ust. 5 pkt 5, jest wydawana na okres 5 lat, z zastrzeżeniem art. 68 ust. 7b ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+### 5d.
+
+W przypadku wydawania opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, o której mowa w ust. 5 pkt 5, marszałek województwa zaprasza do udziału w posiedzeniu wojewódzkiej rady rynku pracy:
+
+### 1)
+
+przedstawiciela pracodawców, organizacji pracodawców, samorządu gospodarczego, innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego, lub sektorowej rady do spraw kompetencji, właściwych dla opiniowanego zawodu, oraz
+
+### 2)
+
+dyrektora szkoły występującego o wydanie opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, oraz
+
+### 3)
+
+przedstawiciela organu prowadzącego szkołę, której dyrektor wystąpił o wydanie opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy, oraz
+
+### 4)
+
+przedstawiciela kuratora oświaty, oraz
+
+### 5)
+
+przedstawiciela właściwej miejscowo powiatowej rady rynku pracy ze względu na siedzibę szkoły, która wystąpiła o wydanie opinii o zasadności kształcenia w danym zawodzie zgodnie z potrzebami rynku pracy.
+
+” ;
+
+### 5)
+
+w art. 53a w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+praktycznej nauki zawodu dorosłych umożliwiającej przystąpienie do egzaminu zawodowego lub egzaminu czeladniczego;
+
+” ;
+
+### 6)
+
+art. 53c otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Program praktycznej nauki zawodu dorosłych uwzględnia w szczególności wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego lub standardy wymagań będące podstawą przeprowadzania egzaminu czeladniczego.
+
+### 2.
+
+Praktyczna nauka zawodu dorosłych kończy się egzaminem zawodowym przeprowadzanym przez okręgową komisję egzaminacyjną, zgodnie z przepisami rozdziału 3b ustawy z dnia 7 września 1991 r. o systemie oświaty, lub egzaminem czeladniczym przeprowadzanym przez komisje egzaminacyjne izb rzemieślniczych, zgodnie z przepisami w sprawie egzaminu czeladniczego, egzaminu mistrzowskiego oraz egzaminu sprawdzającego, przeprowadzanych przez komisje egzaminacyjne izb rzemieślniczych.
+
+### 3.
+
+Uczestnik praktycznej nauki zawodu dorosłych, który zdał odpowiednio egzamin zawodowy lub egzamin czeladniczy, z wynikiem pozytywnym, otrzymuje odpowiednio certyfikat kwalifikacji zawodowej lub dyplom zawodowy albo świadectwo czeladnicze, zgodnie z przepisami, o których mowa w ust. 2.
+
+” ;
+
+### 7)
+
+w art. 53d:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Program przyuczenia do pracy dorosłych uwzględnia w szczególności standardy kwalifikacji zawodowych dostępne w bazach danych prowadzonych przez ministra właściwego do spraw pracy lub wymagania określone w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przyuczenie do pracy dorosłych może kończyć się egzaminem zawodowym przeprowadzanym przez okręgową komisję egzaminacyjną, jeżeli program przyuczenia do pracy uwzględnia wymagania określone w podstawie programowej kształcenia w danym zawodzie szkolnictwa branżowego.
+
+” ,
+
+### c)
+
+w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+egzamin, o którym mowa w ust. 3, otrzymuje certyfikat kwalifikacji zawodowej.
+
+” ;
+
+### 8)
+
+w art. 53e ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku gdy pracodawca nie może zapewnić warunków do zrealizowania w pełni programu praktycznej nauki zawodu dorosłych, możliwe jest zrealizowanie części tego programu przez wskazane przez starostę publiczne centrum kształcenia zawodowego lub publiczną placówkę kształcenia ustawicznego, działające na podstawie przepisów ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, w wymiarze nieprzekraczającym 20% czasu programu.
+
+” ;
+
+### 9)
+
+art. 53h otrzymuje brzmienie:
+
+„
+
+### Art. 53h.
+
+### 1.
+
+Uczestnik przygotowania zawodowego dorosłych, który z własnej winy przerwał program tego przygotowania lub nie przystąpił odpowiednio do egzaminu zawodowego, egzaminu czeladniczego lub egzaminu sprawdzającego, jest obowiązany do zwrotu kosztów tego przygotowania poniesionych z Funduszu Pracy, z wyjątkiem sytuacji gdy powodem przerwania programu tego przygotowania lub nieprzystąpienia odpowiednio do egzaminu zawodowego egzaminu czeladniczego lub egzaminu sprawdzającego było podjęcie zatrudnienia, innej pracy zarobkowej lub działalności gospodarczej.
+
+### 2.
+
+Uczestnik przygotowania zawodowego dorosłych, który z własnej winy przerwał program tego przygotowania, nie przystąpił odpowiednio do egzaminu zawodowego, egzaminu czeladniczego lub egzaminu sprawdzającego, może być ponownie zarejestrowany w powiatowym urzędzie pracy, nie wcześniej niż po upływie 6 miesięcy od dnia przerwania programu lub nieprzystąpienia do egzaminu.
+
+” ;
+
+### 10)
+
+w art. 53l:
+
+### a)
+
+w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+koszty egzaminów zawodowych, egzaminów czeladniczych lub egzaminów sprawdzających
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku gdy uczestnik przygotowania zawodowego dorosłych nie złożył z wynikiem pozytywnym egzaminu, koszty ponownego przystąpienia do egzaminu zawodowego, egzaminu czeladniczego lub egzaminu sprawdzającego nie mogą być sfinansowane ze środków Funduszu Pracy.
+
+” ;
+
+### 11)
+
+w art. 108 w ust. 1 w pkt 60 kropkę zastępuje się średnikiem i dodaje się pkt 61 w brzmieniu:
+
+„
+
+### 61)
+
+kosztów przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminu zawodowego, o których mowa w art. 9fa ustawy z dnia 7 września 1991 r. o systemie oświaty.
+
+” ;
+
+### 12)
+
+po art. 109i dodaje się art. 109j w brzmieniu:
+
+„
+
+### Art. 109j.
+
+### 1.
+
+Minister właściwy do spraw pracy przekazuje corocznie na podstawie umowy zawartej z ministrem właściwym do spraw oświaty i wychowania, na wyodrębniony rachunek urzędu obsługującego ministra oświaty i wychowania, środki Funduszu Pracy na pokrycie kosztów przygotowania i przeprowadzenia egzaminu potwierdzającego kwalifikacje w zawodzie oraz egzaminu zawodowego, o których mowa w art. 9fa ustawy z dnia 7 września 1991 r. o systemie oświaty, w wysokości wynikającej z tego przepisu, nie wyższej jednak niż 5,5 mln zł w roku 2019, 15,3 mln zł w roku 2020, 33 mln zł w roku 2021 i nie wyższej niż 50 mln zł w latach kolejnych.
+
+### 2.
+
+Umowa, o której mowa w ust. 1, określa w szczególności tryb przekazywania środków oraz sposób ich rozliczenia.
+
+” .
+
+### Art. 26.
+
+W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. z 2018 r. poz. 1954](https://api.sejm.gov.pl/eli/acts/DU/2018/1954/text.html)) w art. 81 w ust. 5:
+
+### 1)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+szkół niepublicznych oraz niepublicznych szkół artystycznych o uprawnieniach publicznych szkół artystycznych, w których realizowany jest obowiązek szkolny lub obowiązek nauki,
+
+” ;
+
+### 2)
+
+w pkt 4 wyrazy „centrów kształcenia praktycznego” zastępuje się wyrazami „centrów kształcenia zawodowego”.
+
+### Art. 27.
+
+W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2018 r. poz. 1541](https://api.sejm.gov.pl/eli/acts/DU/2018/1541/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html), [2136](https://api.sejm.gov.pl/eli/acts/DU/2018/2136/text.html), [2227](https://api.sejm.gov.pl/eli/acts/DU/2018/2227/text.html), [2242](https://api.sejm.gov.pl/eli/acts/DU/2018/2242/text.html) i [2244](https://api.sejm.gov.pl/eli/acts/DU/2018/2244/text.html)) w art. 1 w ust. 3 w części wspólnej wyrazy „szkół dla dorosłych” zastępuje się wyrazami „szkół dla dorosłych, branżowych szkół II stopnia oraz szkół policealnych”.
+
+### Art. 28.
+
+W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2017 r. poz. 2077](https://api.sejm.gov.pl/eli/acts/DU/2017/2077/text.html) oraz [z 2018 r. poz. 62](https://api.sejm.gov.pl/eli/acts/DU/2018/62/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1366](https://api.sejm.gov.pl/eli/acts/DU/2018/1366/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html)) art. 223 otrzymuje brzmienie:
+
+„
+
+### Art. 223.
+
+### 1.
+
+Samorządowe jednostki budżetowe prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. - Prawo oświatowe gromadzą na wydzielonym rachunku dochody określone w uchwale przez organ stanowiący jednostki samorządu terytorialnego, pochodzące w szczególności:
+
+### 1)
+
+ze spadków, zapisów i darowizn w postaci pieniężnej na rzecz jednostki budżetowej;
+
+### 2)
+
+z odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie albo użytkowaniu jednostki budżetowej;
+
+### 3)
+
+z działalności polegającej na świadczeniu usług w ramach kształcenia zawodowego - w przypadku jednostek budżetowych prowadzących kształcenie zawodowe.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego określi w szczególności:
+
+### 1)
+
+jednostki budżetowe, które gromadzą dochody;
+
+### 2)
+
+źródła, z których dochody są gromadzone na rachunku;
+
+### 3)
+
+przeznaczenie dochodów, z tym że dochody wraz z odsetkami nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych;
+
+### 4)
+
+sposób i tryb sporządzania planu finansowego dochodów i wydatków nimi finansowanych, dokonywania zmian w tym planie oraz ich zatwierdzania.
+
+### 3.
+
+W przypadku samorządowych jednostek budżetowych, o których mowa w ust. 1, prowadzących kształcenie zawodowe, dochody gromadzone ze spadków, zapisów i darowizn w postaci pieniężnej przekazywanych na cele kształcenia zawodowego oraz z tytułu działalności, o której mowa w ust. 1 pkt 3, są przeznaczane na cele kształcenia zawodowego realizowanego przez te jednostki.
+
+### 4.
+
+Wydatki z rachunku, o którym mowa w ust. 1, mogą być dokonywane do wysokości kwot zgromadzonych dochodów, w ramach planu finansowego.
+
+### 5.
+
+Środki finansowe pozostające na rachunku, o którym mowa w ust. 1, na dzień 31 grudnia roku budżetowego, podlegają odprowadzeniu na rachunek budżetu jednostki samorządu terytorialnego w terminie do dnia 5 stycznia następnego roku.
+
+” .
+
+### Art. 29.
+
+W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej ([Dz. U. z 2018 r. poz. 1542](https://api.sejm.gov.pl/eli/acts/DU/2018/1542/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 213 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.
+
+” .
+
+### Art. 30.
+
+W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami ([Dz. U. z 2017 r. poz. 978](https://api.sejm.gov.pl/eli/acts/DU/2017/978/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172 i 2244.](#gloss-0:13:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 21:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Osoba ubiegająca się o uzyskanie uprawnienia do kierowania motorowerem, pojazdem silnikowym lub uprawnienia do kierowania tramwajem może rozpocząć szkolenie nie wcześniej niż 3 miesiące przed osiągnięciem minimalnego wieku, o którym mowa odpowiednio w art. 8 lub art. 9, wymaganego od kierującego pojazdem objętego tym uprawnieniem, a jeżeli osobą tą jest:
+
+### 1)
+
+uczeń szkoły ponadpodstawowej, prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym, albo
+
+### 2)
+
+słuchacz kwalifikacyjnego kursu zawodowego w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - może rozpocząć szkolenie wraz z rozpoczęciem nauki odpowiednio w tej szkole lub na tym kwalifikacyjnym kursie zawodowym.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Osoba ubiegająca się o uzyskanie uprawnienia do kierowania pojazdami w zakresie prawa jazdy kategorii C, C+E, D lub D+E może rozpocząć szkolenie nie wcześniej niż 3 miesiące przed osiągnięciem minimalnego wieku, o którym mowa w art. 9, także jeżeli jest w trakcie uzyskiwania odpowiednio kwalifikacji wstępnej lub wstępnej przyspieszonej w zakresie tej kategorii prawa jazdy, a jeżeli tą osobą jest:
+
+### 1)
+
+uczeń szkoły ponadpodstawowej, prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym, albo
+
+### 2)
+
+słuchacz kwalifikacyjnego kursu zawodowego w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym
+
+- może rozpocząć szkolenie wraz z rozpoczęciem nauki odpowiednio w tej szkole lub na tym kwalifikacyjnym kursie zawodowym.
+
+” ;
+
+### 2)
+
+w art. 23 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zajęć szkolnych - w zakresie uprawnienia do kierowania pojazdami silnikowymi.
+
+” ;
+
+### 3)
+
+w art. 26:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Szkolenie osoby ubiegającej się o uzyskanie uprawnienia do kierowania pojazdami silnikowymi w formie zajęć szkolnych jest prowadzone dla uczniów (słuchaczy) przez szkołę, jeżeli w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, jest przewidziane przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym.
+
+” ,
+
+### b)
+
+w ust. 5 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+nauczyciel lub osoba, o której mowa w art. 15 ust. 6 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, posiadający uprawnienia instruktora - w zakresie, o którym mowa w art. 23 ust. 2 pkt 1 i 2;
+
+” ;
+
+### 4)
+
+w art. 46 w ust. 3 w pkt 2 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+organu właściwego do wykonywania nadzoru pedagogicznego - w przypadku szkolenia w szkole, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub podstawa programowa kształcenia ogólnego przewiduje uzyskanie karty rowerowej.
+
+” ;
+
+### 5)
+
+w art. 47 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Nadzór nad szkołą, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub podstawa programowa kształcenia ogólnego przewiduje uzyskanie karty rowerowej, sprawuje organ właściwy do wykonywania nadzoru pedagogicznego.
+
+” ;
+
+### 6)
+
+w art. 75:
+
+### a)
+
+w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 i 8 w brzmieniu:
+
+„
+
+### 7)
+
+kandydat do szkoły ponadpodstawowej lub uczeń szkoły ponadpodstawowej, prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy i umiejętności kierowania pojazdem silnikowym;
+
+### 8)
+
+kandydat na kwalifikacyjny kurs zawodowy lub słuchacz kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym lub do uzyskania kwalifikacji do wykonywania pracy na stanowisku kierowcy i umiejętności kierowania pojazdem silnikowym.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1 wyrazy „pkt 1-3 i 6” zastępuje się wyrazami „pkt 1-3, 6 i 8”,
+
+- - w pkt 2 wyrazy „pkt 4 i 5” zastępuje się wyrazami „pkt 4, 5 i 7”,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Badanie lekarskie przeprowadzane dla kandydatów, uczniów i słuchaczy, o których mowa w ust. 1 pkt 7 i 8, wykonuje się w ramach realizacji zadania służby medycyny pracy, o którym mowa w art. 5 ust. 1 pkt 4 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy ([Dz. U. z 2018 r. poz. 1155](https://api.sejm.gov.pl/eli/acts/DU/2018/1155/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), z tym, że badanie to przeprowadzają lekarze, o których mowa w art. 9 ust. 1 i 2 tej ustawy, posiadający dodatkowo uprawnienia do przeprowadzania badań lekarskich kandydatów na kierowców i kierowców określonych w odrębnych przepisach.
+
+” ;
+
+### 7)
+
+w art. 76 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Badanie lekarskie jest przeprowadzane na koszt osoby badanej, z wyjątkiem badań, o których mowa w art. 229 Kodeksu pracy, oraz badania lekarskiego przeprowadzanego dla kandydatów i uczniów, o których mowa w art. 75 ust. 1 pkt 7, oraz dla niepełnoletnich słuchaczy i kandydatów, o których mowa w art. 75 ust. 1 pkt 8.
+
+” ;
+
+### 8)
+
+art. 78 otrzymuje brzmienie:
+
+„
+
+### Art. 78.
+
+Osoba podlegająca badaniu lekarskiemu, a w przypadku niepełnoletniego kandydata, ucznia i słuchacza, o których mowa w art. 75 ust. 1 pkt 7 i 8 - rodzic w rozumieniu art. 4 pkt 19 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, jest obowiązana wypełnić oświadczenie, w formie ankiety, dotyczące stanu zdrowia, pod rygorem odpowiedzialności karnej wynikającej z art. 233 Kodeksu karnego. Ankietę składa się uprawnionemu lekarzowi.
+
+” ;
+
+### 9)
+
+w art. 79 w ust. 4 zdanie drugie otrzymuje brzmienie: „ Ponowne badanie lekarskie jest przeprowadzane na koszt osoby badanej, z wyjątkiem badań, o których mowa w art. 229 Kodeksu pracy, oraz badania lekarskiego przeprowadzanego dla kandydatów i uczniów, o których mowa w art. 75 ust. 1 pkt 7. ” ;
+
+### 10)
+
+po art. 79 dodaje się art. 79a w brzmieniu:
+
+„
+
+### Art. 79a.
+
+Za badanie lekarskie przeprowadzone przez uprawnionego lekarza, o którym mowa w art. 79 ust. 1, oraz za przeprowadzenie ponownego badania lekarskiego, o którym mowa w art. 79 ust. 4, pobiera się opłatę, której wysokość nie może przekroczyć 200 zł za każde z tych badań.
+
+” ;
+
+### 11)
+
+w art. 81:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 3 wyrazy „art. 75 ust. 1 pkt 3-5” zastępuje się wyrazami „art. 75 ust. 1 pkt 3-5, 7 i 8”,
+
+- - w pkt 7 uchyla się lit. a,
+
+### b)
+
+w ust. 2 uchyla się pkt 6;
+
+### 12)
+
+w art. 82 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 i 4 w brzmieniu:
+
+„
+
+### 3)
+
+kandydat do szkoły ponadpodstawowej lub uczeń szkoły ponadpodstawowej, prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E;
+
+### 4)
+
+kandydat na kwalifikacyjny kurs zawodowy lub słuchacz kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla której podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E.
+
+” ;
+
+### 13)
+
+w art. 83:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Badanie psychologiczne w zakresie psychologii transportu jest przeprowadzane na koszt osoby badanej, z wyjątkiem badań, o których mowa w art. 229 Kodeksu pracy, oraz badań dla kandydatów i uczniów, o których mowa w art. 82 ust. 2 pkt 3.
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 6 i 7 w brzmieniu:
+
+„
+
+### 6.
+
+Badanie psychologiczne w zakresie psychologii transportu kandydatów i uczniów, o których mowa w art. 82 ust. 2 pkt 3, jest finansowane przez organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+### 7.
+
+Badanie psychologiczne w zakresie psychologii transportu przeprowadzane dla kandydatów i uczniów, o których mowa w art. 82 ust. 2 pkt 3, nie może być podstawą do wydania prawa jazdy.
+
+” ;
+
+### 14)
+
+po art. 83 dodaje się art. 83a w brzmieniu:
+
+„
+
+### Art. 83a.
+
+Skierowanie na badanie psychologiczne w zakresie psychologii transportu dla kandydatów i uczniów, o których mowa art. 82 ust. 2 pkt 3, wydaje dyrektor szkoły.
+
+” ;
+
+### 15)
+
+w art. 84 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Orzeczenie psychologiczne dla kandydatów i uczniów, o których mowa w art. 82 ust. 2 pkt 3, wydaje uprawniony psycholog.
+
+” .
+
+### Art. 31.
+
+W ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej ([Dz. U. z 2018 r. poz. 1900](https://api.sejm.gov.pl/eli/acts/DU/2018/1900/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5a w ust. 1 w pkt 2 wyrazy „centrów kształcenia ustawicznego” zastępuje się wyrazami „placówek kształcenia ustawicznego”;
+
+### 2)
+
+w art. 7 w ust. 1:
+
+### a)
+
+w pkt 7 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, placówki kształcenia ustawicznego, zakładu poprawczego lub schroniska dla nieletnich - także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, placówki, zakładu lub schroniska,
+
+” ,
+
+### b)
+
+w pkt 12 wyrazy „szkoła niepubliczna o uprawnieniach szkoły publicznej” zastępuje się wyrazami „niepubliczna szkoła artystyczna o uprawnieniach publicznej szkoły artystycznej”,
+
+### c)
+
+po pkt 12 dodaje się pkt 12a w brzmieniu:
+
+„
+
+### 12a)
+
+informacja, czy szkoła została założona lub jest prowadzona po uzyskaniu zgody, o której mowa w art. 178 ust. 1 ustawy - Prawo oświatowe;
+
+” ,
+
+### d)
+
+pkt 20 otrzymuje brzmienie:
+
+„
+
+### 20)
+
+zawód - w przypadku szkoły ponadpodstawowej prowadzącej kształcenie zawodowe;
+
+” ;
+
+### 3)
+
+w art. 8:
+
+### a)
+
+pkt 2a i 2b otrzymują brzmienie:
+
+„
+
+### 2a)
+
+dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego - według form tej pomocy;
+
+### 2b)
+
+dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną udzieloną przez szkołę, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego - według klas, do których uczniowie uczęszczają, i form tej pomocy;
+
+” ,
+
+### b)
+
+po pkt 2b dodaje się pkt 2ba i 2bb w brzmieniu:
+
+„
+
+### 2ba)
+
+dane dotyczące liczby uczniów uczestniczących w zajęciach wychowania do życia w rodzinie - według klas, do których uczniowie uczęszczają, oraz płci;
+
+### 2bb)
+
+dane dotyczące liczby uczniów korzystających ze świetlicy szkolnej - według klas, do których uczniowie uczęszczają;
+
+” ,
+
+### c)
+
+w pkt 2c lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+placówek kształcenia ustawicznego oraz centrów kształcenia zawodowego - liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, kursów umiejętności zawodowych oraz turnusów dokształcania teoretycznego, według rodzajów tych form, oraz liczba uczestników tych form,
+
+” ;
+
+### 4)
+
+art. 12 otrzymuje brzmienie:
+
+„
+
+### Art. 12.
+
+Dane dziedzinowe ucznia w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym obejmują numer, datę wydania, datę przedłożenia w szkole lub placówce oświatowej opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych, orzeczenia o potrzebie kształcenia specjalnego i datę zakończenia realizacji wczesnego wspomagania rozwoju, zajęć rewalidacyjno-wychowawczych i kształcenia specjalnego zorganizowanego na podstawie odpowiednio opinii lub orzeczenia oraz informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych - współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym.
+
+” ;
+
+### 5)
+
+w art. 14:
+
+### a)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+zawód oraz zajęcia realizowane w ramach godzin, o których mowa w art. 47 ust. 1 pkt 3 lit. e ustawy - Prawo oświatowe, których przeznaczenie określają przepisy wydane na podstawie art. 47 ust. 1 pkt 3 tej ustawy - w przypadku ucznia szkoły ponadpodstawowej prowadzącej kształcenie zawodowe;
+
+” ,
+
+### b)
+
+po pkt 5a dodaje się pkt 5b i 5c w brzmieniu:
+
+„
+
+### 5b)
+
+uczestniczenie w kursie umiejętności zawodowych;
+
+### 5c)
+
+uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+
+” ,
+
+### c)
+
+po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+formę kształcenia dzienną, stacjonarną lub zaoczną - w przypadku ucznia odpowiednio branżowej szkoły II stopnia, szkoły policealnej lub policealnej szkoły artystycznej;
+
+” ,
+
+### d)
+
+pkt 9 otrzymuje brzmienie:
+
+„
+
+### 9)
+
+status młodocianego pracownika, w tym miejsce odbywania jego dokształcania teoretycznego;
+
+” ,
+
+### e)
+
+w pkt 27 wyrazy „art. 39 ust. 3 i 4” zastępuje się wyrazami „art. 39 ust. 3, 4 i 4a”;
+
+### 6)
+
+w art. 16 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+datę rozpoczęcia i datę zakończenia pobytu w ośrodku, a w przypadku wychowanka młodzieżowego ośrodka socjoterapii - również datę rozpoczęcia i datę zakończenia korzystania z zakwaterowania w tym ośrodku;
+
+” ;
+
+### 7)
+
+w art. 19a:
+
+### a)
+
+we wprowadzeniu do wyliczenia wyrazy „placówce kształcenia ustawicznego, placówce kształcenia praktycznego lub ośrodku dokształcania i doskonalenia zawodowego” zastępuje się wyrazami „placówce kształcenia ustawicznego lub centrum kształcenia zawodowego”,
+
+### b)
+
+po pkt 2 dodaje się pkt 2a-2d w brzmieniu:
+
+„
+
+### 2a)
+
+uczestniczenie w kursie umiejętności zawodowych;
+
+### 2b)
+
+datę rozpoczęcia i datę zakończenia kursu umiejętności zawodowych;
+
+### 2c)
+
+uczestniczenie w turnusie dokształcania teoretycznego młodocianych pracowników;
+
+### 2d)
+
+datę rozpoczęcia i datę zakończenia turnusu dokształcania teoretycznego młodocianych pracowników;
+
+” ;
+
+### 8)
+
+art. 20 otrzymuje brzmienie:
+
+„
+
+### Art. 20.
+
+Dane dziedzinowe ucznia w związku z egzaminami przeprowadzanymi przez okręgowe komisje egzaminacyjne obejmują:
+
+### 1)
+
+wyniki egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego;
+
+### 2)
+
+wyniki egzaminów eksternistycznych:
+
+### a)
+
+typ szkoły ukończonej na podstawie egzaminów eksternistycznych,
+
+### b)
+
+uzyskanie certyfikatu kwalifikacji zawodowej po zdaniu egzaminu eksternistycznego zawodowego, z określeniem kwalifikacji,
+
+### c)
+
+zdanie egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia;
+
+### 3)
+
+informację o uzyskaniu dyplomu zawodowego.
+
+” ;
+
+### 9)
+
+w art. 23 w pkt 3a wyrazy „art. 117 ust. 2 pkt 4 i 5” zastępuje się wyrazami „art. 117 ust. 2 pkt 3 i 4”;
+
+### 10)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+Dane dziedzinowe ucznia w związku z egzaminem na tytuł czeladnika, przeprowadzanym przez izby rzemieślnicze, obejmują informację o uzyskaniu tytułu czeladnika, z określeniem zawodu, w którym tytuł został uzyskany.
+
+” ;
+
+### 11)
+
+w art. 30:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+art. 8 pkt 1 lit. a-c, e-k i pkt 2-4, art. 9 pkt 2, art. 14 pkt 25 i 32, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. j, pkt 1a lit. i, ust. 3 pkt 1 lit. g oraz pkt 2 lit. f;
+
+” ,
+
+### b)
+
+w pkt 5 wyrazy „egzaminu potwierdzającego kwalifikacje w zawodzie” zastępuje się wyrazami „egzaminu zawodowego”;
+
+### 12)
+
+w art. 31 w ust. 1:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+art. 8 pkt 1 lit. a-c, e-k i pkt 2-4, art. 9 pkt 2, art. 14 pkt 25 i 32, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. j, pkt 1a lit. i, ust. 3 pkt 1 lit. g oraz pkt 2 lit. f;
+
+” ,
+
+### b)
+
+w pkt 5 wyrazy „egzaminu potwierdzającego kwalifikacje w zawodzie” zastępuje się wyrazami „egzaminu zawodowego”;
+
+### 13)
+
+w art. 36 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku zmiany danych objętych RSPO, w tym likwidacji szkoły lub placówki oświatowej, podmiot zobowiązany do przekazywania danych do RSPO przekazuje do RSPO aktualne dane, z tym że aktualne:
+
+### 1)
+
+dane dotyczące numeru telefonu, numeru faksu, adresu poczty elektronicznej i strony internetowej szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych, o których mowa w art. 7 ust. 1 pkt 10 i ust. 1a pkt 3,
+
+### 2)
+
+dane dotyczące imienia i nazwiska dyrektora szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych, o których mowa w art. 7 ust. 1 pkt 26 i ust. 1a pkt 6,
+
+### 3)
+
+dane, o których mowa w art. 7 ust. 1 pkt 25 i ust. 1a pkt 5,
+
+### 4)
+
+dane, o których mowa w art. 7 ust. 1 pkt 20 i 21 - w przypadku szkół artystycznych nieprowadzonych przez jednostki samorządu terytorialnego
+
+- przekazuje dyrektor szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych.
+
+” ;
+
+### 14)
+
+w art. 40:
+
+### a)
+
+w ust. 1:
+
+- - pkt 4 i 5 otrzymują brzmienie: „ 4) liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego - według form tej pomocy; 5) liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez szkołę - według klas, do których uczniowie uczęszczają, i form tej pomocy; ” ,
+
+- - dodaje się pkt 6 i 7 w brzmieniu: „ 6) liczby uczniów uczestniczących w zajęciach wychowania do życia w rodzinie - według klas, do których uczniowie uczęszczają, oraz płci; 7) liczby uczniów korzystających ze świetlicy szkolnej - według klas, do których uczniowie uczęszczają. ” ,
+
+### b)
+
+w ust. 2 wyrazy „, placówki kształcenia praktycznego oraz ośrodki dokształcania i doskonalenia zawodowego” zastępuje się wyrazami „oraz centra kształcenia zawodowego”;
+
+### 15)
+
+w art. 42:
+
+### a)
+
+w pkt 6a wyrazy „placówki kształcenia praktycznego, ośrodki dokształcania i doskonalenia zawodowego” zastępuje się wyrazami „centra kształcenia zawodowego”,
+
+### b)
+
+w pkt 10 wyrazy „egzaminem potwierdzającym kwalifikacje w zawodzie” zastępuje się wyrazami „egzaminem zawodowym”,
+
+### c)
+
+pkt 12 otrzymuje brzmienie:
+
+„
+
+### 12)
+
+dane dotyczące uzyskania tytułu czeladnika, o których mowa w art. 25 - izby rzemieślnicze;
+
+” ;
+
+### 16)
+
+w art. 43 w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wpisanie na listę rzeczoznawców - przekazuje minister właściwy do spraw oświaty i wychowania;
+
+” ;
+
+### 17)
+
+uchyla się art. 45;
+
+### 18)
+
+uchyla się art. 48;
+
+### 19)
+
+art. 55 otrzymuje brzmienie:
+
+„
+
+### Art. 55.
+
+### 1.
+
+Okręgowe komisje egzaminacyjne, w związku z organizacją egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego mogą pozyskiwać następujące dane ucznia:
+
+### 1)
+
+z rejestru PESEL - drugie imię (imiona), datę i miejsce urodzenia;
+
+### 2)
+
+z bazy danych SIO - numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, imię i nazwisko, klasę, semestr i oddział, do którego uczeń uczęszcza albo uczęszczał, informację o orzeczeniu o potrzebie kształcenia specjalnego, nazwę i adres szkoły, do której uczeń uczęszcza albo uczęszczał w przypadku uczniów przystępujących do egzaminu maturalnego i egzaminu zawodowego, oraz numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty.
+
+### 2.
+
+Szkoły przekazują do bazy danych SIO dane identyfikacyjne uczniów przystępujących do egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminach określonych w przepisach wydanych na podstawie art. 31.
+
+” ;
+
+### 20)
+
+w art. 58 uchyla się ust. 4;
+
+### 21)
+
+w art. 62 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Uczelnie mogą pozyskiwać z bazy danych SIO, do celów rekrutacji na studia wyższe, dane dziedzinowe dotyczące wyników egzaminu maturalnego, egzaminu zawodowego lub egzaminu potwierdzającego kwalifikacje w zawodzie absolwenta oraz dane identyfikacyjne szkoły ponadpodstawowej, którą absolwent ukończył. Dane te są pozyskiwane po wyrażeniu przez absolwenta, w formie pisemnej, zgody na ich pozyskanie.
+
+” ;
+
+### 22)
+
+art. 66a otrzymuje brzmienie:
+
+„
+
+### Art. 66a.
+
+Minister właściwy do spraw rodziny, w celu umożliwienia wójtom, burmistrzom, prezydentom miast oraz wojewodom weryfikacji prawa odpowiednio do świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego, świadczenia wychowawczego, Karty Dużej Rodziny oraz świadczenia dobry start, a także w celu monitorowania przez ministra właściwego do spraw rodziny oraz wojewodę realizacji świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego, świadczenia wychowawczego, Karty Dużej Rodziny oraz świadczenia dobry start odpowiednio przez wójtów, burmistrzów, prezydentów miast oraz wojewodów, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL - imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:
+
+### 1)
+
+uczęszczaniu ucznia do szkoły lub placówki oświatowej;
+
+### 2)
+
+okresie uczęszczania ucznia do szkoły lub placówki oświatowej;
+
+### 3)
+
+typie szkoły lub rodzaju placówki oświatowej oraz nazwie i adresie siedziby szkoły lub placówki oświatowej, do której uczeń uczęszcza lub uczęszczał;
+
+### 4)
+
+klasie, do której uczeń uczęszcza lub uczęszczał.
+
+” ;
+
+### 23)
+
+w art. 70:
+
+### a)
+
+w ust. 2 po wyrazach „o której mowa w art. 68 ust. 1,” dodaje się wyrazy „lub osoba przez nią upoważniona,”,
+
+### b)
+
+w ust. 3 i 4 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 2”;
+
+### 24)
+
+w art. 71 po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+W przypadku uwierzytelnienia wniosku w sposób, o którym mowa w ust. 3, we wniosku, o którym mowa w ust. 1, nie jest wymagane drugie imię osoby, której mają być przyznane dane dostępowe.
+
+” ;
+
+### 25)
+
+w art. 73 w ust. 1 w pkt 4 wyrazy „art. 70 ust. 1” zastępuje się wyrazami „art. 70 ust. 1 i 2”.
+
+### Art. 32.
+
+W ustawie z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze ([Dz. U. z 2017 r. poz. 2126](https://api.sejm.gov.pl/eli/acts/DU/2017/2126/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637 i 1669.](#gloss-0:14:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 52:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+O stwierdzenie posiadania kwalifikacji w zawodzie geolog w kategorii XIII może ubiegać się osoba, która posiada co najmniej świadectwo dojrzałości oraz świadectwo ukończenia szkoły nadające prawo używania tytułu zawodowego lub dyplom uzyskania tytułu zawodowego, dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy, w zawodach określonych w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1, lub dyplom ukończenia studiów wyższych pierwszego lub drugiego stopnia lub jednolitych studiów magisterskich, których program umożliwia nabycie wiedzy i umiejętności w zakresie nauk geologicznych, oraz odbyła praktykę, określone w tych przepisach.
+
+” ,
+
+### b)
+
+w ust. 5 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+kategorii XIII - po uzyskaniu świadectwa ukończenia szkoły nadającego prawo używania tytułu zawodowego lub dyplomu uzyskania tytułu zawodowego, dyplomu potwierdzającego kwalifikacje zawodowe albo dyplomu zawodowego, w zawodach określonych w przepisach wydanych na podstawie art. 69 ust. 1 pkt 1 lub po zaliczeniu czwartego semestru studiów wyższych pierwszego stopnia lub jednolitych studiów magisterskich, o których mowa w ust. 2, lub po rozpoczęciu studiów wyższych drugiego stopnia, o których mowa w ust. 2.
+
+” ;
+
+### 2)
+
+w art. 69 w ust. 2 oraz w art. 69a w ust. 2 wyrazy „klasyfikację zawodów szkolnictwa zawodowego” zastępuje się wyrazami „klasyfikację zawodów szkolnictwa branżowego”.
+
+### Art. 33.
+
+W ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej ([Dz. U. z 2018 r. poz. 998](https://api.sejm.gov.pl/eli/acts/DU/2018/998/text.html), [1076](https://api.sejm.gov.pl/eli/acts/DU/2018/1076/text.html) i [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+użyte w art. 12 w ust. 1 w pkt 1 w lit. c, w art. 26 w ust.1 w pkt 1 w lit. b, w art. 97 w ust. 4 w pkt 1 oraz w art. 98 w ust. 2, wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+
+### 2)
+
+w art. 147 w pkt 1 wyrazy „szkole ponadgimnazjalnej lub uczelni” zastępuje się wyrazami „szkole ponadgimnazjalnej, szkole ponadpodstawowej lub uczelni”.
+
+### Art. 34.
+
+W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim ([Dz. U. z 2018 r. poz. 181](https://api.sejm.gov.pl/eli/acts/DU/2018/181/text.html), [1137](https://api.sejm.gov.pl/eli/acts/DU/2018/1137/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 74 w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+szkoły ponadpodstawowe i centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych, w tym ośrodki prowadzące działalność szkoleniową w państwach członkowskich Unii Europejskiej lub państwach trzecich
+
+” .
+
+### Art. 35.
+
+W ustawie z dnia 19 grudnia 2014 r. o rybołówstwie morskim ([Dz. U. z 2018 r. poz. 514](https://api.sejm.gov.pl/eli/acts/DU/2018/514/text.html) i [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html)) w art. 84 w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+centrów kształcenia zawodowego, umożliwiających uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych w zakresie rybołówstwa morskiego, których siedziba znajduje się na terytorium Rzeczypospolitej Polskiej.
+
+” .
+
+### Art. 36.
+
+W ustawie z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych ([Dz. U. z 2018 r. poz. 1207](https://api.sejm.gov.pl/eli/acts/DU/2018/1207/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 24 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+posiada co najmniej wykształcenie średnie lub średnie branżowe oraz tytuł zawodowy technika lub dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy, w zawodach związanych z chowem lub hodowlą zwierząt;
+
+” .
+
+### Art. 37.
+
+W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii ([Dz. U. z 2018 r. poz. 1269](https://api.sejm.gov.pl/eli/acts/DU/2018/1269/text.html), [1276](https://api.sejm.gov.pl/eli/acts/DU/2018/1276/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html), [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 136 w ust. 4 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+dyplom zawodowy albo dyplom potwierdzający kwalifikacje zawodowe, w zawodzie technik urządzeń i systemów energetyki odnawialnej wydany na podstawie przepisów ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2018 r. poz. 1457](https://api.sejm.gov.pl/eli/acts/DU/2018/1457/text.html), [1560](https://api.sejm.gov.pl/eli/acts/DU/2018/1560/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) lub
+
+” .
+
+### Art. 38.
+
+W ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu ([Dz. U. z 2018 r. poz. 616](https://api.sejm.gov.pl/eli/acts/DU/2018/616/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w pkt 6 wyraz „studenta” zastępuje się wyrazami „kandydata i studenta”;
+
+### 2)
+
+po art. 4 dodaje się art. 4a w brzmieniu:
+
+„
+
+### Art. 4a.
+
+### 1.
+
+Praktykanci są obowiązani posiadać świadectwo zdrowia, o którym mowa w art. 4 ust. 2.
+
+### 2.
+
+Świadectwo zdrowia dla praktykantów i kandydatów do szkół ponadpodstawowych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)), przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r., wydaje się na okres 2 lat.
+
+### 3.
+
+Koszty przeprowadzenia badania lekarskiego w celu wydania świadectwa zdrowia, o którym mowa w art. 4 ust. 2, dla kandydata i studenta uczelni, o której mowa w art. 74 ust. 2 pkt 1 i 2 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, odbywającego praktykę zawodową na statku szkolnym, którego ta uczelnia jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między uczelnią a tym armatorem, ponosi ten kandydat lub student.
+
+### 4.
+
+Na badanie lekarskie w celu wydania świadectwa zdrowia, o którym mowa w art. 4 ust. 2, kandydata do szkoły ponadpodstawowej, o którym mowa w ust. 2, oraz ucznia szkoły ponadpodstawowej odbywającego praktykę zawodową na statku szkolnym, którego ta szkoła jest armatorem, albo na statku innego armatora na podstawie umowy zawartej między szkołą a tym armatorem, kieruje dyrektor szkoły. Koszty przeprowadzenia tego badania ponosi organ prowadzący szkołę w rozumieniu art. 4 pkt 16 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+” ;
+
+### 3)
+
+w art. 5:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Kandydatowi do szkoły ponadpodstawowej, uczniowi szkoły ponadpodstawowej oraz dyrektorowi szkoły, o których mowa w art. 4a ust. 4, służy odwołanie od świadectwa zdrowia.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmioty, o których mowa w ust. 1 i 1a, wnoszą odwołanie w terminie 7 dni od dnia wydania świadectwa zdrowia za pośrednictwem lekarza, który je wydał, do: ” ,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) wojewódzkiego ośrodka medycyny pracy, właściwego ze względu na siedzibę odpowiednio armatora lub szkoły; ” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Koszty przeprowadzenia ponownego badania lekarskiego pokrywa podmiot, który wniósł odwołanie, a w przypadku wniesienia odwołania przez podmioty, o których mowa w ust. 1a - ponosi organ prowadzący szkołę.
+
+” .
+
+### Art. 39.
+
+W ustawie z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji ([Dz. U. z 2018 r. poz. 2153](https://api.sejm.gov.pl/eli/acts/DU/2018/2153/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2:
+
+### a)
+
+w pkt 16 wyrazy „Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (Dz. Urz. UE C 111 z 06.05.2008, str. 1)” zastępuje się wyrazami „Rady z dnia 22 maja 2017 r. w sprawie europejskich ram kwalifikacji dla uczenia się przez całe życie i uchylającego zalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (Dz. Urz. UE C 189 z 15.06.2017, str. 15)”,
+
+### b)
+
+po pkt 18 dodaje się pkt 18a w brzmieniu:
+
+„
+
+### 18a)
+
+sektorowa rada do spraw kompetencji - rada, o której mowa w art. 4c ust. 1 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości ([Dz. U. z 2018 r. poz. 110](https://api.sejm.gov.pl/eli/acts/DU/2018/110/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html));
+
+” ;
+
+### 2)
+
+w art. 8:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+dyplom potwierdzający kwalifikacje zawodowe:
+
+### a)
+
+po ukończeniu zasadniczej szkoły zawodowej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. a ustawy z dnia 7 września 1991 r. o systemie oświaty,
+
+### b)
+
+po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty
+
+- oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### b)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+dyplom zawodowy po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2018 r. poz. 996](https://api.sejm.gov.pl/eli/acts/DU/2018/996/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1290](https://api.sejm.gov.pl/eli/acts/DU/2018/1290/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### c)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+świadectwo czeladnicze wydawane po ukończeniu zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### d)
+
+po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+świadectwo czeladnicze wydawane po ukończeniu branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach, o których mowa w art. 3 ust. 3b ustawy z dnia 22 marca 1989 r. o rzemiośle - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### e)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+dyplom potwierdzający kwalifikacje zawodowe:
+
+### a)
+
+po ukończeniu technikum lub szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
+
+### b)
+
+po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty
+
+- oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### f)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+dyplom zawodowy:
+
+### a)
+
+po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
+
+### b)
+
+po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty
+
+- oraz po zdaniu egzaminów zawodowych w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### g)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+dyplom ukończenia szkoły artystycznej potwierdzający uzyskanie tytułu zawodowego - potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w przepisach wydanych na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ,
+
+### h)
+
+po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+dyplom zawodowy po ukończeniu szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie nauczanym wyłącznie w szkole policealnej - potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+” ;
+
+### 3)
+
+w art. 10:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przypisanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji uprawnia instytucje certyfikujące do umieszczania na dokumentach potwierdzających nadanie danej kwalifikacji znaku graficznego informującego o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji.
+
+” ,
+
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Znaki graficzne informujące o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji są odrębne dla kwalifikacji pełnych i dla kwalifikacji cząstkowych.
+
+### 4.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wzory znaków graficznych informujących o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji, uwzględniając konieczność ich dostosowania do funkcjonujących wzorów druków szkolnych i innych dokumentów potwierdzających nadanie kwalifikacji.
+
+” ;
+
+### 4)
+
+w art. 11:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy, z własnej inicjatywy lub na wniosek sektorowej rady do spraw kompetencji lub zainteresowanego podmiotu, podejmuje działania w celu włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji, jeżeli wstępna ocena celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji jest pozytywna.
+
+” ,
+
+### b)
+
+w ust. 3 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+ocenę celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz opinie reprezentantów branży lub sektora w tym zakresie, w szczególności opinie sektorowych rad do spraw kompetencji, działających w branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji;
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Wniosek złożony przez sektorową radę do spraw kompetencji działającą w branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji, nie wymaga opinii reprezentantów branży lub sektora, o której mowa w ust. 3 pkt 4.
+
+” ;
+
+### 5)
+
+w art. 15 w ust. 1 w pkt 2:
+
+### a)
+
+lit. f otrzymuje brzmienie:
+
+„
+
+### f)
+
+informację na temat grup osób, które mogą być zainteresowane uzyskaniem kwalifikacji, z uwzględnieniem możliwości przygotowania do jej uzyskania w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 w związku z art. 47 ust. 1 pkt 3 lit. e ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy,
+
+” ,
+
+### b)
+
+lit. k otrzymuje brzmienie:
+
+„
+
+### k)
+
+odniesienie do kwalifikacji o zbliżonym charakterze oraz wskazanie kwalifikacji ujętych w Zintegrowanym Rejestrze Kwalifikacji lub dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, zawierających wspólne zestawy efektów uczenia się;
+
+” ;
+
+### 6)
+
+w art. 19 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy przeprowadza konsultacje wniosku, o którym mowa w art. 14 ust. 1, ze środowiskami zainteresowanymi, w szczególności z sektorową radą do spraw kompetencji działającą w branży lub sektorze, których dotyczy kwalifikacja rynkowa objęta wnioskiem, o którym mowa w art. 14 ust. 1. Minister właściwy odnosi się do opinii zgłoszonych w trakcie konsultacji.
+
+” ;
+
+### 7)
+
+w art. 20 w ust. 2 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
+
+„
+
+### d)
+
+możliwość przygotowania do uzyskania danej kwalifikacji rynkowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwość jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy;
+
+” ;
+
+### 8)
+
+w art. 27 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadkach uzasadnionych potrzebami społeczno-gospodarczymi lub na wniosek sektorowej rady do spraw kompetencji minister właściwy może dokonać przeglądu włączonej do Zintegrowanego Systemu Kwalifikacji kwalifikacji rynkowej w terminie innym, niż określony w art. 25 ust. 2 pkt 9.
+
+” ;
+
+### 9)
+
+w art. 31 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W odniesieniu do kwalifikacji rynkowej, która otrzymała status kwalifikacji archiwalnej, sektorowa rada do spraw kompetencji działająca w danej branży lub sektorze, których dotyczy kwalifikacja rynkowa, lub podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń może wystąpić do ministra właściwego z wnioskiem o przywrócenie tej kwalifikacji statusu kwalifikacji rynkowej funkcjonującej w Zintegrowanym Systemie Kwalifikacji.
+
+” ;
+
+### 10)
+
+w art. 46 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Instytucja certyfikująca, która zawarła umowę, o której mowa w art. 122a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, wnosi kwartalną opłatę w wysokości pomniejszonej o kwotę stanowiącą iloczyn:
+
+### 1)
+
+liczby uczniów lub absolwentów objętych umową, którzy w danym kwartale nieodpłatnie przystąpili do walidacji oraz
+
+### 2)
+
+średniej wysokości opłat za walidację i certyfikowanie w danym kwartale, o których mowa w art. 65 ust. 1 pkt 2.
+
+” ;
+
+### 11)
+
+w art. 65 w ust. 1:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+średniej wysokości opłat za walidację i certyfikowanie w danym kwartale;
+
+” ,
+
+### b)
+
+w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+liczbie osób, które nieodpłatnie przystąpiły w danym kwartale do walidacji, zgodnie z umową, o której mowa w art. 122a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+” .
+
+### Art. 40.
+
+W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2018 r. poz. 508](https://api.sejm.gov.pl/eli/acts/DU/2018/508/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654 i 2193.](#gloss-0:15:)) w art. 151 w ust. 1 w pkt 4 wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+### Art. 41.
+
+W ustawie z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe ([Dz. U. z 2017 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.html), [949](https://api.sejm.gov.pl/eli/acts/DU/2017/949/text.html) i [2203](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 66 uchyla się pkt 3;
+
+### 2)
+
+w art. 148:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W latach szkolnych 2019/2020-2021/2022 w nowo tworzonych czteroletnich liceach ogólnokształcących oraz czteroletnich liceach ogólnokształcących utworzonych zgodnie z art. 129 ust. 3 pkt 5 i 7, można prowadzić klasy dotychczasowego trzyletniego liceum ogólnokształcącego dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 147.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”;
+
+### 3)
+
+w art. 154:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W latach szkolnych 2019/2020-2022/2023 w nowo tworzonych pięcioletnich technikach oraz pięcioletnich technikach utworzonych zgodnie z art. 129 ust. 3 pkt 6 i 8, można prowadzić klasy dotychczasowego czteroletniego technikum dla absolwentów dotychczasowego gimnazjum, aż do czasu likwidacji tych klas zgodnie z art. 153.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „ust. 1” zastępuje się wyrazami „ust. 1 i 1a”;
+
+### 4)
+
+w art. 155 w ust. 4 wyrazy „art. 367” zastępuje się wyrazami „art. 367, z tym że do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 1, na rok szkolny 2019/2020, stosuje się odpowiednio warunek, o którym mowa w art. 134 ust. 1 pkt 3-5 ustawy - Prawo oświatowe, w brzmieniu nadanym ustawą z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 2245)”;
+
+### 5)
+
+w art. 165 w ust. 3 wyrazy „art. 367” zastępuje się wyrazami „art. 367, z tym że do postępowania rekrutacyjnego, o którym mowa w ust. 2 pkt 1, na rok szkolny 2019/2020, stosuje się odpowiednio warunek, o którym mowa w art. 134 ust. 1 pkt 3-5 ustawy - Prawo oświatowe, w brzmieniu nadanym ustawą z dnia 22 listopada 2018 r. o zmianie ustawy - Prawo oświatowe, ustawy o systemie oświaty oraz niektórych innych ustaw”;
+
+### 6)
+
+po art. 165 dodaje się art. 165a w brzmieniu:
+
+„
+
+### Art. 165a.
+
+Na rok szkolny 2019/2020 do klasy I publicznej branżowej szkoły I stopnia dla kandydatów będących absolwentami dotychczasowego gimnazjum przyjmuje się na podstawie świadectwa ukończenia gimnazjum i umowy o pracę w celu przygotowania zawodowego odbywanego w formie nauki zawodu.
+
+” ;
+
+### 7)
+
+w art. 261 dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+Organ stanowiący jednostki samorządu terytorialnego po przejęciu prowadzenia szkoły na podstawie art. 9 ust. 5 lub ust. 6 ustawy - Prawo oświatowe, w terminie jednego miesiąca do dnia przejęcia szkoły, w drodze uchwały, stwierdza jej przekształcenie odpowiednio w ośmioletnią szkołę podstawową, branżową szkołę I stopnia, czteroletnie liceum ogólnokształcące lub pięcioletnie technikum.
+
+### 4.
+
+Uchwała, o której mowa w ust. 3, stanowi akt założycielski szkoły w rozumieniu przepisów ustawy - Prawo oświatowe.
+
+” ;
+
+### 8)
+
+w art. 265 po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Zezwolenie na utworzenie oddziału międzynarodowego w dotychczasowej szkole ponadgimnazjalnej zachowuje moc również w odniesieniu do szkoły ponadpodstawowej, która powstała w wyniku przekształcenia dotychczasowej szkoły ponadgimnazjalnej.
+
+” ;
+
+### 9)
+
+w art. 267 w ust. 4 uchyla się pkt 3;
+
+### 10)
+
+w art. 271 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Z dniem 1 stycznia 2019 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu przeprowadzanego w ostatnim roku nauki w dotychczasowym gimnazjum i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowej sześcioletniej szkoły podstawowej dla dorosłych i dotychczasowym gimnazjum dla dorosłych, stają się również egzaminatorami w zakresie egzaminu ósmoklasisty, o którym mowa w rozdziale 3b ustawy zmienianej w art. 15, w brzmieniu nadanym niniejszą ustawą, i egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania ośmioletniej szkoły podstawowej dla dorosłych, w zakresie przedmiotu, do którego nauczania posiadają wymagane kwalifikacje.
+
+### 2.
+
+Z dniem 1 lipca 2020 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 15, w zakresie egzaminu maturalnego oraz egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania trzyletniego liceum ogólnokształcącego dla dorosłych, stają się również egzaminatorami w zakresie egzaminów eksternistycznych z obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania czteroletniego liceum ogólnokształcącego dla dorosłych oraz egzaminów eksternistycznych zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia i branżowej szkoły II stopnia.
+
+” ;
+
+### 11)
+
+w art. 272:
+
+### a)
+
+w ust. 19 skreśla się zdanie drugie,
+
+### b)
+
+uchyla się ust. 20;
+
+### 12)
+
+w art. 282 uchyla się ust. 1;
+
+### 13)
+
+uchyla się art. 284 i art. 285;
+
+### 14)
+
+w art. 286 uchyla się ust. 1;
+
+### 15)
+
+uchyla się art. 288 i art. 289;
+
+### 16)
+
+w art. 290 uchyla się ust. 2;
+
+### 17)
+
+w art. 297 uchyla się ust. 1, 3 i 4;
+
+### 18)
+
+po art. 297 dodaje się art. 297a w brzmieniu:
+
+„
+
+### Art. 297a.
+
+Do egzaminu maturalnego, o którym mowa w art. 297 ust. 2, może przystąpić:
+
+### 1)
+
+w latach szkolnych 2019/2020-2021/2022 - absolwent czteroletniego liceum ogólnokształcącego;
+
+### 2)
+
+w latach szkolnych 2019/2020-2022/2023 - absolwent pięcioletniego technikum;
+
+### 3)
+
+w roku szkolnym 2022/2023 - absolwent branżowej szkoły II stopnia, który ukończył kształcenie w branżowej szkole I stopnia jako absolwent ośmioletniej szkoły podstawowej
+
+- który jako uczeń realizował indywidualny program lub tok nauki zgodnie z art. 115 ustawy - Prawo oświatowe.
+
+” ;
+
+### 19)
+
+w art. 302 w ust. 1 wyrazy „w latach szkolnych 2017/2018-2019/2020” zastępuje się wyrazami „w roku szkolnym 2017/2018 i 2018/2019”;
+
+### 20)
+
+w art. 302a uchyla się ust. 2;
+
+### 21)
+
+w art. 303 w ust. 1 uchyla się pkt 3-10;
+
+### 22)
+
+w art. 337 uchyla się ust. 12;
+
+### 23)
+
+uchyla się art. 352;
+
+### 24)
+
+w art. 369 uchyla się pkt 7.
+
+### Art. 42.
+
+W ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami ([Dz. U. poz. 819](https://api.sejm.gov.pl/eli/acts/DU/2017/819/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 49 w ust. 1 w pkt 1 w lit. c wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”;
+
+### 2)
+
+w art. 54 w ust. 4 w pkt 1 w lit. c wyrazy „średnie wykształcenie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+### Art. 43.
+
+W ustawie z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie ([Dz. U. poz. 1051](https://api.sejm.gov.pl/eli/acts/DU/2017/1051/text.html)) w art. 22 w ust. 2 w pkt 2 wyrazy „wykształcenie średnie” zastępuje się wyrazami „wykształcenie średnie lub średnie branżowe”.
+
+### Art. 44.
+
+W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych ([Dz. U. poz. 2203](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2:
+
+### a)
+
+w pkt 3 wyrazy „egzaminie potwierdzającym kwalifikacje w zawodzie” zastępuje się wyrazami „egzaminie zawodowym”,
+
+### b)
+
+po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+kształceniu w formie dziennej - należy przez to rozumieć kształcenie w formie dziennej, o którym mowa w art. 4 pkt 29a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe;
+
+” ,
+
+### c)
+
+pkt 12 otrzymuje brzmienie:
+
+„
+
+### 12)
+
+niepublicznej szkole - należy przez to rozumieć niepubliczną szkołę, o której mowa w art. 14 ust. 3 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe;
+
+” ,
+
+### d)
+
+po pkt 12 dodaje się pkt 12a w brzmieniu:
+
+„
+
+### 12a)
+
+niepublicznej szkole artystycznej o uprawnieniach publicznej szkoły artystycznej - należy przez to rozumieć niepubliczną szkołę artystyczną o uprawnieniach publicznej szkoły artystycznej, o której mowa w art. 14 ust. 4 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe;
+
+” ,
+
+### e)
+
+pkt 16 otrzymuje brzmienie:
+
+„
+
+### 16)
+
+organie rejestrującym - należy przez to rozumieć:
+
+### a)
+
+jednostkę samorządu terytorialnego wydającą zezwolenie, o którym mowa w art. 88 ust. 4 pkt 1 lub art. 90 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe,
+
+### b)
+
+jednostkę samorządu terytorialnego dokonującą wpisu do ewidencji, o którym mowa w art. 168 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe,
+
+### c)
+
+jednostkę samorządu terytorialnego, która przekazała osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, prowadzenie odpowiednio przedszkola lub szkoły, w drodze umowy, o której mowa w art. 9 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe,
+
+### d)
+
+jednostkę samorządu terytorialnego, która przekazała osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, prowadzenie odpowiednio przedszkola, szkoły lub placówki, w drodze umowy, o której mowa w art. 5 ust. 5g ustawy z dnia 7 września 1991 r. o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r.;
+
+” ,
+
+### f)
+
+pkt 27 otrzymuje brzmienie:
+
+„
+
+### 27)
+
+szkole - należy przez to rozumieć publiczną i niepubliczną szkołę, o której mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, publiczną szkołę artystyczną oraz niepubliczną szkołę artystyczną o uprawnieniach publicznej szkoły artystycznej;
+
+” ,
+
+### g)
+
+pkt 29 i 30 otrzymują brzmienie:
+
+„
+
+### 29)
+
+szkole, w której jest realizowany obowiązek szkolny lub obowiązek nauki - należy przez to rozumieć szkołę podstawową dla dzieci i młodzieży, liceum ogólnokształcące dla dzieci i młodzieży, technikum, branżową szkołę I stopnia i szkołę specjalną przysposabiającą do pracy;
+
+### 30)
+
+szkole, w której nie jest realizowany obowiązek szkolny lub obowiązek nauki - należy przez to rozumieć szkołę podstawową dla dorosłych, liceum ogólnokształcące dla dorosłych, branżową szkołę II stopnia i szkołę policealną;
+
+” ,
+
+### h)
+
+w pkt 33 wyrazy „szkoły dla dorosłych” zastępuje się wyrazami „szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej”;
+
+### 2)
+
+w art. 8 w ust. 2 w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ środków przeznaczonych w roku budżetowym na realizację zadań innych niż określone w pkt 2, w szkołach z oddziałami specjalnymi, niebędących szkołami specjalnymi, szkołach z oddziałami integracyjnymi i szkołach integracyjnych, prowadzonych przez jednostkę samorządu terytorialnego - w wysokości wyrażonej wzorem: ” ;
+
+### 3)
+
+tytuł rozdziału 3 otrzymuje brzmienie: „ Finansowanie placówek wychowania przedszkolnego, szkół i placówek ” ;
+
+### 4)
+
+użyte w art. 10 w ust. 5-8 wyrazy „szkołę danego typu” zastępuje się wyrazami „szkołę danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki,”;
+
+### 5)
+
+w art. 10:
+
+### a)
+
+uchyla się ust. 13 i 14,
+
+### b)
+
+ust. 19 i 20 otrzymują brzmienie:
+
+„
+
+### 19.
+
+Minister właściwy do spraw oświaty i wychowania udostępnia na stronie internetowej urzędu obsługującego tego ministra narzędzie pomocnicze do ustalania, dla każdej gminy dotującej i każdego powiatu dotującego, wykazu odpowiednio gmin i powiatów:
+
+### 1)
+
+spełniających warunki, o których mowa w ust. 2 pkt 1, ust. 4 pkt 1, ust. 6 pkt 1, ust. 8 pkt 1, ust. 10 pkt 1, ust. 12 pkt 1, ust. 16 pkt 1 i ust. 18 pkt 1,
+
+### 2)
+
+spełniających warunki, o których mowa ust. 2 pkt 3, ust. 4 pkt 3, ust. 6 pkt 3, ust. 8 pkt 3, ust. 10 pkt 3, ust. 12 pkt 3, ust. 16 pkt 3 i ust. 18 pkt 3
+
+- uszeregowanych pod względem najbardziej zbliżonego wskaźnika dochodów podatkowych na jednego mieszkańca, z wyszczególnieniem prowadzonych przez te gminy i powiaty przedszkoli, szkół w podziale na typy, w tym szkół będących szkołami specjalnymi, szkół niebędących szkołami specjalnymi oraz szkół, w których zorganizowano oddział przedszkolny lub internat; wykaz jest ustalany na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego.
+
+### 20.
+
+Najbliższa gmina lub powiat, o których mowa w ust. 1-12 i 15-18, przekazuje gminie dotującej lub powiatowi dotującemu, o których mowa w art. 16 ust. 1, art. 17 ust. 1 i 3, art. 18 ust. 1, art. 19 ust. 1 i 3, art. 20 ust. 1, art. 21 ust. 1 i 3 oraz art. 25 ust. 1, 2, 4 i 8, dane niezbędne do wyliczenia podstawowej kwoty dotacji, o której mowa w art. 12, oraz wskaźnika zwiększającego, o którym mowa w art. 14, w terminie 30 dni od dnia wystąpienia przez gminę dotującą lub powiat dotujący o przekazanie tych danych.
+
+” ;
+
+### 6)
+
+w art. 14:
+
+### a)
+
+w ust. 1:
+
+- - użyte w różnym przypadku wyrazy „szkoły danego typu” zastępuje się użytymi, w odpowiednim przypadku, wyrazami „szkoły danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki,”,
+
+- - wyrazy
+
+\( {{S_{t - 1} } \over {Lu_{t - 2} }} \) zastępuje się wyrazami \( {{S_{t - 1} } \over {LuS_{t - 1} }} \)
+
+- - po wyrazach „St-1 - kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu niebędących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu niebędących szkołami specjalnymi,” dodaje się wyrazy „LuSt-1 - liczbę dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych, przyjętą do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, w których jest realizowany obowiązek szkolny lub obowiązek nauki, niebędących szkołami specjalnymi,”,
+
+### b)
+
+w ust. 2:
+
+- - wyrazy
+
+\( {{S_{t - 1} } \over {Lu_{t - 2} }} \) zastępuje się wyrazami \( {{S_{t - 1} } \over {LuS_{t - 1} }} \)
+
+- - po wyrazach „St-1 - kwotę przewidzianą w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym na prowadzenie przez tę jednostkę szkół danego typu będących szkołami specjalnymi, bez uwzględnienia kwoty przewidzianej w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego na wychowanków internatów w prowadzonych przez tę jednostkę szkołach danego typu będących szkołami specjalnymi,” dodaje się wyrazy „LuSt-1 - liczba dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych przyjęta do naliczenia części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku bazowym w prowadzonych przez jednostkę samorządu terytorialnego szkołach danego typu, będących szkołami specjalnymi,”,
+
+### c)
+
+w ust. 3 wyrazy „nie wlicza się środków otrzymanych” zastępuje się wyrazami „wlicza się środki otrzymane”,
+
+### d)
+
+ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+W przypadku braku na terenie gminy odpowiednio szkoły danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki, niebędącej szkołą specjalną lub szkoły danego typu będącej szkołą specjalną, prowadzonej przez tę gminę, przyjmuje się wskaźnik zwiększający, o którym mowa w ust. 1 i 2, obliczony odpowiednio dla najbliższej gminy prowadzącej szkołę danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki, niebędącą szkołą specjalną lub dla najbliższej gminy prowadzącej szkołę danego typu będącą szkołą specjalną.
+
+### 5.
+
+W przypadku braku na terenie powiatu odpowiednio szkoły danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki, niebędącej szkołą specjalną lub szkoły danego typu będącej szkołą specjalną, prowadzonej przez ten powiat, przyjmuje się wskaźnik zwiększający, o którym mowa w ust. 1 i 2, obliczony odpowiednio dla najbliższego powiatu prowadzącego szkołę danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki, niebędącą szkołą specjalną lub dla najbliższego powiatu prowadzącego szkołę danego typu będącą szkołą specjalną.
+
+” ,
+
+### e)
+
+w ust. 7 w części wspólnej wyrazy „szkołę danego typu niebędącą szkołą specjalną” zastępuje się wyrazami „szkołę danego typu, w której jest realizowany obowiązek szkolny lub obowiązek nauki, niebędącą szkołą specjalną”;
+
+### 7)
+
+w art. 22 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Regulamin otwartego konkursu ofert oraz kryteria wyboru ofert określa rada gminy w drodze uchwały, uwzględniając konieczność zapewnienia jak najlepszych warunków realizacji wychowania przedszkolnego. Regulamin określa w szczególności:
+
+### 1)
+
+przewidywany okres, w jakim uczniowie będą mogli korzystać z placówek wychowania przedszkolnego, o których mowa w art. 17 ust. 1, art. 19 ust. 1 i art. 21 ust. 1, z tym że wskazane jest aby okres ten umożliwiał uczniowi uczęszczanie do danej placówki wychowania przedszkolnego do czasu zakończenia przez niego korzystania z wychowania przedszkolnego;
+
+### 2)
+
+miejsca, w których uczniowie będą kontynuowali wychowanie przedszkolne, po zakończeniu korzystania z wychowania przedszkolnego w placówkach wychowania przedszkolnego, o których mowa w art. 17 ust. 1, art. 19 ust. 1 i art. 21 ust. 1.
+
+” ;
+
+### 8)
+
+w art. 24 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli jednostka samorządu terytorialnego nie otrzymała oświadczenia, o którym mowa w ust. 1, dotację, o której mowa w art. 16-21, otrzymuje, do miesiąca poprzedzającego miesiąc udzielenia dotacji jednej placówce wychowania przedszkolnego, zgodnie z ust. 2, ta placówka wychowania przedszkolnego, w której uczeń jest wpisany do dziennika zajęć placówki wychowania przedszkolnego jako pierwszy. Jeżeli uczeń został wpisany do dziennika zajęć placówki wychowania przedszkolnego w tym samym terminie w więcej niż jednej placówce wychowania przedszkolnego, dotację, o której mowa w art. 16-21, otrzymuje placówka wychowania przedszkolnego wskazana przez jednostkę samorządu terytorialnego.
+
+” ;
+
+### 9)
+
+w art. 25:
+
+### a)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne publiczne licea ogólnokształcące dla dorosłych, publiczne branżowe szkoły II stopnia i publiczne szkoły policealne, niebędące szkołami specjalnymi, otrzymują, niezależnie od dotacji, o której mowa w ust. 3, na każdego ucznia, niebędącego uczniem niepełnosprawnym, który uzyskał:
+
+### 1)
+
+świadectwo dojrzałości - w przypadku publicznego liceum ogólnokształcącego dla dorosłych i publicznej branżowej szkoły II stopnia,
+
+### 2)
+
+certyfikat kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia - w przypadku publicznej branżowej szkoły II stopnia,
+
+### 3)
+
+dyplom zawodowy - w przypadku publicznej szkoły policealnej
+
+- dotację z budżetu jednostki samorządu terytorialnego będącej dla tych szkół organem rejestrującym, w wysokości równej kwocie przewidzianej na takiego ucznia, niebędącego uczniem niepełnosprawnym, w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku budżetowym, w którym ukończył on tę szkołę, należnej z tytułu uzyskania odpowiednio świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia, lub dyplomu zawodowego.
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Dotacja na ucznia publicznej branżowej szkoły II stopnia, o której mowa w ust. 5, jest przyznawana odrębnie za uzyskanie przez niego świadectwa dojrzałości lub certyfikatu kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia.
+
+” ,
+
+### c)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Dotacja, o której mowa w ust. 5, jest wypłacana jednorazowo, na rachunek bankowy szkoły, placówki lub zespołu szkół lub placówek, w terminie 30 dni od dnia złożenia przez organ prowadzący szkołę zaświadczenia oraz kopii świadectwa ukończenia szkoły, o których mowa w art. 33 ust. 1 pkt 3, i może być wykorzystana także na refundację wydatków związanych z realizacją zadań szkoły, o których mowa w art. 35 ust. 1, poniesionych przez szkołę w okresie:
+
+### 1)
+
+4 lat budżetowych poprzedzających rok wypłacenia dotacji - w przypadku dotacji przyznanej na ucznia publicznego liceum ogólnokształcącego dla dorosłych;
+
+### 2)
+
+2 lat budżetowych poprzedzających rok wypłacenia dotacji - w przypadku dotacji przyznanej na ucznia publicznej branżowej szkoły II stopnia lub publicznej szkoły policealnej.
+
+” ;
+
+### 10)
+
+w art. 26:
+
+### a)
+
+w ust. 2 wyrazy „50% obowiązkowych zajęć edukacyjnych w danym miesiącu” zastępuje się wyrazami „50% obowiązkowych zajęć edukacyjnych w danym miesiącu, z których uczeń nie został zwolniony na podstawie przepisów wydanych na podstawie art. 44zb ustawy o systemie oświaty,”,
+
+### b)
+
+w ust. 3 wyraz „własnoręcznymi” zastępuje się wyrazami „własnoręcznymi, czytelnymi”,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Niepubliczne licea ogólnokształcące dla dorosłych, niepubliczne branżowe szkoły II stopnia i niepubliczne szkoły policealne, niebędące szkołami specjalnymi otrzymują, niezależnie od dotacji, o której mowa w ust. 2, na każdego ucznia, niebędącego uczniem niepełnosprawnym, który uzyskał:
+
+### 1)
+
+świadectwo dojrzałości - w przypadku niepublicznego liceum ogólnokształcącego dla dorosłych i niepublicznej branżowej szkoły II stopnia,
+
+### 2)
+
+certyfikat kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia - w przypadku niepublicznej branżowej szkoły II stopnia,
+
+### 3)
+
+dyplom zawodowy - w przypadku niepublicznej szkoły policealnej
+
+- dotację z budżetu jednostki samorządu terytorialnego będącej dla tych szkół organem rejestrującym, w wysokości równej kwocie przewidzianej na takiego ucznia, niebędącego uczniem niepełnosprawnym, w części oświatowej subwencji ogólnej dla jednostki samorządu terytorialnego w roku budżetowym, w którym ukończył on tę szkołę, należnej z tytułu uzyskania odpowiednio świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia, lub dyplomu zawodowego.
+
+” ,
+
+### d)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Dotacja na ucznia niepublicznej branżowej szkoły II stopnia, o której mowa w ust. 5, jest przyznawana odrębnie za uzyskanie przez niego świadectwa dojrzałości lub certyfikatu kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Dotacja, o której mowa w ust. 5, jest wypłacana jednorazowo, na rachunek bankowy szkoły, placówki lub zespołu szkół lub placówek, w terminie 30 dni od dnia złożenia przez organ prowadzący szkołę zaświadczenia oraz kopii świadectwa ukończenia szkoły, o których mowa w art. 33 ust. 1 pkt 3, i może być wykorzystana także na refundację wydatków związanych z realizacją zadań szkoły, o których mowa w art. 35 ust. 1, poniesionych przez szkołę w okresie:
+
+### 1)
+
+4 lat budżetowych poprzedzających rok wypłacenia dotacji - w przypadku dotacji przyznanej na ucznia niepublicznego liceum ogólnokształcącego dla dorosłych;
+
+### 2)
+
+2 lat budżetowych poprzedzających rok wypłacenia dotacji - w przypadku dotacji przyznanej na ucznia niepublicznej branżowej szkoły II stopnia lub niepublicznej szkoły policealnej.
+
+” ;
+
+### 11)
+
+w art. 27 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli jednostka samorządu terytorialnego nie otrzymała oświadczenia, o którym mowa w ust. 1, dotację, o której mowa w art. 25 ust. 3 i 4 oraz art. 26 ust. 2, otrzymuje, do miesiąca poprzedzającego miesiąc udzielenia dotacji jednej szkole, zgodnie z ust. 2, ta szkoła, w której uczeń jest wpisany do księgi uczniów jako pierwszy. Jeżeli uczeń został wpisany do księgi uczniów w tym samym terminie w więcej niż jednej szkole, dotację, o której mowa w art. 25 ust. 3 i 4 oraz art. 26 ust. 2, otrzymuje szkoła wskazana przez jednostkę samorządu terytorialnego.
+
+” ;
+
+### 12)
+
+w art. 31:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne publiczne szkoły ponadpodstawowe prowadzące kwalifikacyjne kursy zawodowe, otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczy w tym kursie. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym rozpoczyna się ten kurs.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Szkoły, o których mowa w ust. 1, otrzymują, niezależnie od dotacji, o której mowa w ust. 1, na każdego słuchacza kwalifikacyjnego kursu zawodowego, który zdał egzamin zawodowy w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym słuchacz ukończył ten kurs.
+
+### 1b.
+
+Przepisów ust. 1 i 1a nie stosuje się do słuchacza branżowej szkoły II stopnia realizującego obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy - Prawo oświatowe, w tym praktyczną naukę zawodu, w ramach kwalifikacyjnego kursu zawodowego.
+
+” ,
+
+### c)
+
+uchyla się ust. 2;
+
+### 13)
+
+po art. 31 dodaje się art. 31a i art. 31b w brzmieniu:
+
+„
+
+### Art. 31a.
+
+### 1.
+
+Niepubliczne szkoły ponadpodstawowe prowadzące kwalifikacyjne kursy zawodowe otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, który zdał egzamin zawodowy w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości stanowiącej sumę kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczył w kursie, oraz kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym słuchacz ukończył ten kurs.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do słuchacza branżowej szkoły II stopnia realizującego obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy - Prawo oświatowe, w tym praktyczną naukę zawodu, w ramach kwalifikacyjnego kursu zawodowego.
+
+### Art. 31b.
+
+Dotacja, o której mowa w art. 31 ust. 1a i art. 31a ust. 1, jest wypłacana jednorazowo, na rachunek bankowy szkoły, placówki lub zespołu szkół lub placówek, w terminie 30 dni od dnia złożenia powiatowi przez organ prowadzący szkołę zaświadczenia, o którym mowa w art. 33 ust. 1 pkt 4, i może być wykorzystana także na refundację wydatków związanych z realizacją zadań szkoły, o których mowa w art. 35 ust. 1, poniesionych przez szkołę w okresie roku budżetowego poprzedzającego rok wypłacenia dotacji.
+
+” ;
+
+### 14)
+
+w art. 32 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Branżowe szkoły II stopnia prowadzące kształcenie w formie dziennej, w których zorganizowano internat, oraz niepubliczne placówki, o których mowa w art. 2 pkt 3, 6, 10 ustawy - Prawo oświatowe, mogą otrzymywać dotacje z budżetu powiatu w wysokości i na zasadach ustalonych przez radę powiatu.
+
+” ;
+
+### 15)
+
+w art. 33:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dotacje, o których mowa w art. 15-21, art. 25, art. 26 i art. 28-32, są przekazywane pod warunkiem, że:
+
+### 1)
+
+organ prowadzący przedszkole, inną formę wychowania przedszkolnego, szkołę oraz placówkę, o której mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe, przekaże organowi dotującemu informację o planowanej liczbie odpowiednio dzieci objętych wczesnym wspomaganiem rozwoju, uczniów, wychowanków, uczestników zajęć rewalidacyjno-wychowawczych lub słuchaczy kwalifikacyjnych kursów zawodowych, nie później niż do dnia 30 września roku bazowego - w przypadku dotacji, o których mowa w art. 15, art. 17, art. 19, art. 21, art. 26 ust. 1, 2, 5 i 8, art. 29, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1;
+
+### 2)
+
+przedszkole, inna forma wychowania przedszkolnego, szkoła oraz placówka, o której mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe, przekaże dane do systemu informacji oświatowej według stanu na dzień 30 września roku bazowego - w przypadku dotacji, o których mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32;
+
+### 3)
+
+organ prowadzący szkołę, w terminie 12 miesięcy od dnia, w którym uczeń, o którym mowa odpowiednio w art. 25 ust. 5 lub art. 26 ust. 5, ukończył odpowiednio publiczne lub niepubliczne: liceum ogólnokształcące dla dorosłych, branżową szkołę II stopnia lub szkołę policealną, przekaże:
+
+### a)
+
+zaświadczenie o uzyskaniu przez ucznia, o którym mowa w art. 25 ust. 5 lub art. 26 ust. 5, odpowiednio świadectwa dojrzałości, certyfikatu kwalifikacji zawodowej z kwalifikacji wyodrębnionej w zawodzie, w zakresie której kształcenie było prowadzone w branżowej szkole II stopnia, lub dyplomu zawodowego, wydane niezwłocznie przez okręgową komisję egzaminacyjną na wniosek organu prowadzącego tę szkołę,
+
+### b)
+
+kopię świadectwa ukończenia szkoły, o której mowa w art. 25 ust. 5 lub art. 26 ust. 5, przez ucznia tej szkoły poświadczoną za zgodność z oryginałem przez dyrektora tej szkoły, zgodnie z przepisami wydanymi na podstawie art. 11 ust. 2 ustawy o systemie oświaty
+
+- w przypadku dotacji, o której mowa w art. 25 ust. 5 i art. 26 ust. 5;
+
+### 4)
+
+organ prowadzący szkołę udokumentuje uzyskanie certyfikatu kwalifikacji zawodowej w zakresie danej kwalifikacji przez słuchacza kwalifikacyjnego kursu zawodowego w terminie 30 dni od dnia ogłoszenia wyników egzaminu zawodowego przez okręgową komisję egzaminacyjną; na wniosek organu prowadzącego szkołę okręgowa komisja egzaminacyjna wydaje niezwłocznie zaświadczenie o uzyskaniu certyfikatu kwalifikacji zawodowej w zakresie danej kwalifikacji przez słuchacza kwalifikacyjnego kursu zawodowego - w przypadku dotacji, o których mowa w art. 31 ust. 1a i art. 31a ust. 1.
+
+” ,
+
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Przepisu ust. 1 pkt 2 nie stosuje się do placówek wychowania przedszkolnego, szkół oraz placówek, o których mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe, które rozpoczynają działalność po dniu 30 września roku bazowego i uzyskały, do dnia 30 września roku bazowego, wpis do ewidencji, o której mowa w art. 168 ust. 1 ustawy - Prawo oświatowe, lub na podstawie wniosku, złożonego do dnia 30 września roku bazowego, uzyskały zezwolenie, o którym mowa w art. 88 ust. 4 pkt 1 lub art. 90 ust. 1 ustawy - Prawo oświatowe.
+
+### 4.
+
+Na wniosek organu prowadzącego odpowiednio przedszkole, inną formę wychowania przedszkolnego, szkołę lub placówkę, o której mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe, organ wykonawczy jednostki samorządu terytorialnego właściwej do udzielenia dotacji, o której mowa odpowiednio w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, może wyrazić zgodę na odstąpienie od terminu, o którym mowa w ust. 1 pkt 1, lub na udzielenie dotacji w terminie wcześniejszym niż od początku następnego roku budżetowego w przypadku nie przekazania informacji i danych, o których mowa w ust. 1 pkt 1 i 2.
+
+” ;
+
+### 16)
+
+w art. 34:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Dotacje, o których mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30 oraz 31 ust. 1, są przekazywane na rachunek bankowy przedszkola, innej formy wychowania przedszkolnego, szkoły lub placówki, o której mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe, lub zespołu szkół lub placówek, w 12 częściach w terminie do ostatniego dnia każdego miesiąca, z tym że części za styczeń i za grudzień są przekazywane w terminie odpowiednio do dnia 20 stycznia oraz do dnia 15 grudnia roku budżetowego; w przypadku dotacji, o której mowa w art. 31 ust. 1, liczba części należnej dotacji jest równa liczbie miesięcy, w których prowadzony jest dany kwalifikacyjny kurs zawodowy.
+
+### 2.
+
+Dotacje, o których mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30 oraz art. 31 ust. 1, są przekazywane na każde dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych lub słuchacza kwalifikacyjnego kursu zawodowego, będącego w danym miesiącu roku budżetowego odpowiednio dzieckiem objętym wczesnym wspomaganiem rozwoju, uczniem, wychowankiem, uczestnikiem zajęć rewalidacyjno-wychowawczych lub słuchaczem kwalifikacyjnego kursu zawodowego odpowiednio w placówce wychowywania przedszkolnego, szkole lub placówce, o której mowa w art. 2 pkt 6-8 ustawy - Prawo oświatowe.
+
+” ,
+
+### b)
+
+w ust. 3 wyrazy „50% obowiązkowych zajęć edukacyjnych w danym miesiącu” zastępuje się wyrazami „50% obowiązkowych zajęć edukacyjnych w danym miesiącu, z których uczeń nie został zwolniony na podstawie przepisów wydanych na podstawie art. 44zb ustawy o systemie oświaty”,
+
+### c)
+
+w ust. 4 wyrazy „art. 25 ust. 1-5 i 8 oraz art. 30” zastępuje się wyrazami „art. 25 ust. 1-5 i 8, art. 30 oraz art. 31 ust. 1”;
+
+### 17)
+
+w art. 35:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dotacje, o których mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, są przeznaczone na dofinansowanie realizacji zadań placówek wychowania przedszkolnego, szkół lub placówek w zakresie kształcenia, wychowania i opieki, w tym kształcenia specjalnego i profilaktyki społecznej. Dotacje mogą być wykorzystane wyłącznie na: ” ,
+
+- - w pkt 1: - - lit. a otrzymuje brzmienie: „ a) roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy o pracę w przedszkolu, innej formie wychowania przedszkolnego, szkole lub placówce w przeliczeniu na maksymalny wymiar czasu pracy - w wysokości nieprzekraczającej: - 250% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 4 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. z 2018 r. poz. 967](https://api.sejm.gov.pl/eli/acts/DU/2018/967/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) - w przypadku publicznych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek oraz niepublicznych przedszkoli, o których mowa w art. 17 ust. 1, oddziałów przedszkolnych w niepublicznych szkołach podstawowych, o których mowa w art. 19 ust. 1, i niepublicznych innych form wychowania przedszkolnego, o których mowa w art. 21 ust. 1, - 150% 12-krotnego średniego wynagrodzenia nauczyciela dyplomowanego, o którym mowa w art. 30 ust. 3 pkt 4 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela - w przypadku niepublicznych przedszkoli, oddziałów przedszkolnych w niepublicznych szkołach podstawowych i niepublicznych innych form wychowania przedszkolnego niewymienionych w tiret pierwszym, oraz niepublicznych szkół i placówek, ” , - - po lit. a dodaje się lit. aa w brzmieniu: „ aa) roczne wynagrodzenie osoby fizycznej zatrudnionej na podstawie umowy cywilnoprawnej w publicznym lub niepublicznym przedszkolu, innej formie wychowania przedszkolnego, szkole lub placówce oraz osoby fizycznej prowadzącej publiczne lub niepubliczne przedszkole, inną formę wychowania przedszkolnego, szkołę lub placówkę, jeżeli odpowiednio pełni funkcję dyrektora przedszkola, szkoły lub placówki albo prowadzi zajęcia w innej formie wychowania przedszkolnego - w wysokości nieprzekraczającej odpowiednio kwot określonych w lit. a, ” , - - lit. b otrzymuje brzmienie: „ b) sfinansowanie wydatków związanych z realizacją zadań organu prowadzącego, o których mowa w art. 10 ust. 1 ustawy - Prawo oświatowe, oraz zadania, o którym mowa w art. 83 ust. 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami ([Dz. U. z 2017 r. poz. 978](https://api.sejm.gov.pl/eli/acts/DU/2017/978/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172, 2244 i 2245.](#gloss-0:16:)), ” , - w pkt 2: - - we wprowadzeniu do wyliczenia wyrazy „zakup środków trwałych” zastępuje się wyrazami „pokrycie wydatków na zakup środków trwałych”, - - lit. c otrzymuje brzmienie: „ c) sprzęt rekreacyjny i sportowy dla dzieci objętych wczesnym wspomaganiem rozwoju, uczniów, wychowanków i uczestników zajęć rewalidacyjno-wychowawczych, ” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:
+
+„
+
+### 2a.
+
+Maksymalny wymiar czasu, o którym mowa w ust. 1 pkt 1 lit. a, oblicza się zgodnie z art. 130 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245.](#gloss-0:17:)), z uwzględnieniem art. 292 § 1 tej ustawy. 2b. Wynagrodzenie osoby fizycznej, która w tym samym przedszkolu, innej formie wychowania przedszkolnego, szkole lub placówce otrzymuje jednocześnie wynagrodzenie, o którym mowa w ust. 1 pkt 1 lit. a i aa, nie może łącznie przekroczyć wysokości określonych w ust. 1 pkt 1 lit. a.
+
+” ,
+
+### c)
+
+w ust. 3 wyrazy „art. 28-30” zastępuje się wyrazami „art. 28-31a”,
+
+### d)
+
+w ust. 4 wyrazy „art. 15-21, art. 25, art. 26, art. 28-30” zastępuje się wyrazami „art. 16-21, art. 25, art. 26, art. 28-31a”;
+
+### 18)
+
+w art. 36:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ dotujący, o którym mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, może kontrolować prawidłowość pobrania i wykorzystania dotacji udzielonych zgodnie z art. 15-21, art. 25, art. 26, art. 28-31a i art. 32.
+
+” ,
+
+### b)
+
+w ust. 4:
+
+- - we wprowadzeniu do wyliczenia wyrazy „może przetwarzać” zastępuje się wyrazem „przetwarza”,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) dzieci objętych wczesnym wspomaganiem rozwoju, uczniów, wychowanków, uczestników zajęć rewalidacyjno-wychowawczych i słuchaczy kwalifikacyjnych kursów zawodowych odpowiednio tych przedszkoli, innych form wychowania przedszkolnego, szkół i placówek, znajdujące się w dokumentacji, o której mowa w ust. 2, ” ,
+
+- - w pkt 2 wyrazy „art. 35 ust. 1 pkt 1 lit. a” zastępuje się wyrazami „art. 35 ust. 1 pkt 1 lit. a i aa oraz ust. 2b”;
+
+### 19)
+
+art. 38 otrzymuje brzmienie:
+
+„
+
+### Art. 38.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego, w drodze uchwały, ustala tryb udzielania i rozliczania dotacji, o których mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, oraz tryb przeprowadzania kontroli prawidłowości ich pobrania i wykorzystania, w tym zakres danych, które powinny być zawarte we wniosku o udzielenie dotacji i w rozliczeniu jej wykorzystania, termin przekazania informacji o liczbie odpowiednio dzieci objętych wczesnym wspomaganiem rozwoju, uczniów, wychowanków, uczestników zajęć rewalidacyjno-wychowawczych lub słuchaczy kwalifikacyjnych kursów zawodowych, o których mowa w art. 34 ust. 2, oraz termin i sposób rozliczenia wykorzystania dotacji.
+
+### 2.
+
+Organ dotujący, o którym mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, w związku z udzielaniem i rozliczaniem wykorzystania dotacji, o których mowa w art. 15-21, art. 25, art. 26, art. 28-31a i art. 32, przetwarza dane osobowe dzieci objętych wczesnym wspomaganiem rozwoju, uczniów, wychowanków, uczestników zajęć rewalidacyjno-wychowawczych i słuchaczy kwalifikacyjnych kursów zawodowych odpowiednio w przedszkolach, innych formach wychowania przedszkolnego, szkołach i placówkach, w tym z wykorzystaniem systemów teleinformatycznych służących do gromadzenia danych osobowych.
+
+” ;
+
+### 20)
+
+w art. 39:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1 - w wysokości wyższej niż określona odpowiednio w art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1;
+
+” ,
+
+### b)
+
+w ust. 2 uchyla się pkt 2,
+
+### c)
+
+w ust. 3 wyrazy „ust. 2” zastępuje się wyrazami „ust. 1 i 2”;
+
+### 21)
+
+w art. 41:
+
+### a)
+
+ust. 1-4 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Niepubliczne szkoły artystyczne o uprawnieniach publicznych szkół artystycznych realizujące kształcenie ogólne otrzymują na każdego ucznia dotację z budżetu państwa w wysokości równej podstawowej kwocie dotacji dla szkół artystycznych danego typu.
+
+### 2.
+
+Niepubliczne szkoły artystyczne o uprawnieniach publicznych szkół artystycznych realizujące wyłącznie kształcenie artystyczne otrzymują na każdego ucznia uczestniczącego w co najmniej 50% obowiązkowych zajęć edukacyjnych w danym miesiącu, z których uczeń nie został zwolniony na podstawie przepisów wydanych na podstawie art. 44zq ustawy o systemie oświaty, w danym miesiącu, dotację z budżetu państwa w wysokości nie niższej niż 25% podstawowej kwoty dotacji dla szkół artystycznych danego typu.
+
+### 3.
+
+Jeżeli minister właściwy do spraw kultury i ochrony dziedzictwa narodowego nie prowadzi szkoły artystycznej danego typu, kwotę dotacji, o której mowa w ust. 1 i 2, określa się:
+
+### 1)
+
+w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej realizującej kształcenie ogólne - w wysokości równej podstawowej kwocie dotacji dla szkół artystycznych realizujących kształcenie ogólne;
+
+### 2)
+
+w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej realizującej wyłącznie kształcenie artystyczne - w wysokości nie niższej niż 25% podstawowej kwoty dotacji dla szkół artystycznych prowadzących wyłącznie kształcenie artystyczne.
+
+### 4.
+
+W niepublicznej artystycznej szkole policealnej o uprawnieniach publicznej szkoły artystycznej uczestnictwo uczniów w obowiązkowych zajęciach edukacyjnych musi być potwierdzone na tych zajęciach ich własnoręcznymi, czytelnymi podpisami na listach obecności.
+
+” ,
+
+### b)
+
+w ust. 5 wyrazy „Niepubliczne szkoły artystyczne, o których mowa w ust. 1” zastępuje się wyrazami „Niepubliczne szkoły artystyczne o uprawnieniach publicznych szkół artystycznych realizujące kształcenie ogólne”,
+
+### c)
+
+w ust. 6 wyrazy „szkoły publicznej” zastępuje się wyrazami „publicznej szkoły artystycznej”;
+
+### 22)
+
+po art. 41 dodaje się art. 41a w brzmieniu:
+
+„
+
+### Art. 41a.
+
+### 1.
+
+Specjalistyczna jednostka nadzoru, o której mowa w art. 53 ust. 1 ustawy - Prawo oświatowe, oblicza wysokość i przekazuje dotacje, o których mowa w art. 40 ust. 1 i 3 oraz art. 41 ust. 1, 2, 5 i 6. Specjalistyczna jednostka nadzoru weryfikuje i przeprowadza kontrole prawidłowości pobrania i wykorzystania dotacji. Dyrektor specjalistycznej jednostki nadzoru wydaje jako organ pierwszej instancji decyzje o zwrocie dotacji, o których mowa w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+### 2.
+
+Kontrole prawidłowości pobrania i wykorzystania dotacji, o których mowa w art. 40 ust. 1 i 3 oraz art. 41 ust. 1, 2, 5 i 6, przeprowadza się na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej.
+
+” ;
+
+### 23)
+
+w art. 42:
+
+### a)
+
+w ust. 2 w pkt 2 i 3 wyrazy „art. 35 ust. 1-3 oraz art. 36” zastępuje się wyrazami „art. 35 ust. 1-3, art. 36 oraz art. 37”,
+
+### b)
+
+w ust. 3 uchyla się pkt 3;
+
+### 24)
+
+w art. 43:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Kwota dotacji, o której mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, ulega aktualizacji: ” ,
+
+### b)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Aktualizacji kwoty dotacji, o której mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, dokonuje się: ” ,
+
+### c)
+
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zaktualizowana kwota dotacji, o której mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, obowiązuje od: ” ,
+
+### d)
+
+ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+Jeżeli wysokość dotacji, o której mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, uległa zmianie, suma kolejnych przekazywanych części dotacji odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych lub słuchacza kwalifikacyjnego kursu zawodowego, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, stanowi różnicę pomiędzy wysokością dotacji, o której mowa odpowiednio w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, według stanu na pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji, a sumą części dotacji przekazanych odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych lub słuchacza kwalifikacyjnego kursu zawodowego od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
+
+### 5.
+
+W przypadku wyrównywania kwoty dotacji, o której mowa w art. 15-21, art. 25 ust. 1-4 i 8, art. 26 ust. 1, 2 i 8, art. 28-30, art. 31 ust. 1, art. 40 i art. 41, zgodnie z ust. 4, średnia arytmetyczna kolejnych przekazywanych części dotacji odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych lub słuchacza kwalifikacyjnego kursu zawodowego, począwszy od pierwszego dnia obowiązywania zaktualizowanej kwoty dotacji, może zwiększyć się maksymalnie o 50% albo zmniejszyć się maksymalnie o 25% średniej arytmetycznej części dotacji przekazanych odpowiednio na dziecko objęte wczesnym wspomaganiem rozwoju, ucznia, wychowanka, uczestnika zajęć rewalidacyjno-wychowawczych lub słuchacza kwalifikacyjnego kursu zawodowego od początku roku budżetowego do dnia poprzedzającego pierwszy dzień obowiązywania zaktualizowanej kwoty dotacji.
+
+” ;
+
+### 25)
+
+w art. 45 we wprowadzeniu do wyliczenia wyrazy „art. 26 ust. 1, 2 i 8 oraz art. 28-30” zastępuje się wyrazami „art. 26 ust. 1, 2 i 8, art. 28-30 oraz art. 31 ust. 1”;
+
+### 26)
+
+w art. 46 w ust. 1 w pkt 4 wyrazy „o których mowa w art. 10 ust. 1-18” zastępuje się wyrazami „o których mowa w art. 10 ust. 1-12 i 15-18”;
+
+### 27)
+
+w art. 47 wyrazy „art. 28-32, art. 40 i art. 41” zastępuje się wyrazami „art. 28-32 i art. 40-41a”;
+
+### 28)
+
+w art. 48 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku nieprzekazania dotacji, o której mowa w art. 15-21, art. 25, art. 26, art. 28-31a, art. 40 i art. 41, na rachunek bankowy przedszkola, innej formy wychowania przedszkolnego, szkoły, placówki lub zespołu szkół w terminie, o którym mowa odpowiednio w art. 25 ust. 6, art. 26 ust. 6, art. 31b, art. 34 ust. 1 i art. 42 ust. 1, z winy organu, o którym mowa w art. 15-21, art. 25, art. 26, art. 28-31a, art. 40, art. 41 i art. 41a, nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po dniu, w którym upłynął termin przekazania dotacji.
+
+” ;
+
+### 29)
+
+w art. 51 w ust. 9 wyrazy „w wieku do lat 5” zastępuje się wyrazami „objęty wychowaniem przedszkolnym do końca roku szkolnego w roku kalendarzowym, w którym kończy 6 lat,”;
+
+### 30)
+
+w art. 52 w ust. 3 wyrazy „za godzinę zajęć” zastępuje się wyrazami „za każdą rozpoczętą godzinę faktycznego pobytu dziecka w przedszkolu, oddziale przedszkolnym w szkole podstawowej oraz innej formie wychowania przedszkolnego”;
+
+### 31)
+
+w tytule rozdziału 7 wyrazy „publicznych i niepublicznych szkół oraz szkolnych punktów konsultacyjnych” zastępuje się wyrazami „szkół oraz szkół polskich”;
+
+### 32)
+
+w art. 54 w ust. 2 wyrazy „szkolnych punktów konsultacyjnych” zastępuje się wyrazami „szkół polskich”;
+
+### 33)
+
+w art. 71 w ust. 6 wyrazy „Niepubliczne szkoły artystyczne o uprawnieniach szkół publicznych” zastępuje się wyrazami „Niepubliczne szkoły artystyczne o uprawnieniach publicznych szkół artystycznych”;
+
+### 34)
+
+w art. 81 w zakresie art. 28 ust. 6 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+zróżnicowania kwot ustalanych na uczniów objętych kształceniem zawodowym w oparciu o prognozowane zapotrzebowanie na pracowników w danym zawodzie na krajowym i wojewódzkim rynku pracy;
+
+” ;
+
+### 35)
+
+w art. 123 uchyla się ust. 2 i 3;
+
+### 36)
+
+w art. 133 uchyla się ust. 3.
+
+### Art. 45.
+
+W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html), [1562](https://api.sejm.gov.pl/eli/acts/DU/2018/1562/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 191 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pomoc finansowa, o której mowa w ust. 1, przysługuje uczniom i słuchaczom ponadpodstawowych szkół publicznych i niepublicznych oraz publicznych i niepublicznych szkół artystycznych realizujących kształcenie ogólne w zakresie szkoły ponadpodstawowej, a także słuchaczom kolegiów pracowników służb społecznych, oraz studentom szkół wyższych do czasu ukończenia kształcenia, nie dłużej jednak niż do ukończenia 25. roku życia.
+
+” .
+
+### Art. 46.
+
+W ustawie z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1668](https://api.sejm.gov.pl/eli/acts/DU/2018/1668/text.html) i [2024](https://api.sejm.gov.pl/eli/acts/DU/2018/2024/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 69 w ust. 2:
+
+### a)
+
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+świadectwo dojrzałości i dyplom zawodowy w zawodzie nauczanym na poziomie technika, o których mowa w przepisach o systemie oświaty;
+
+” ,
+
+### b)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+świadectwo dojrzałości i zaświadczenie o wynikach egzaminu maturalnego z poszczególnych przedmiotów oraz dyplom zawodowy w zawodzie nauczanym na poziomie technika, o których mowa w przepisach o systemie oświaty;
+
+” ;
+
+### 2)
+
+w art. 70:
+
+### a)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Podstawą przyjęcia na studia pierwszego stopnia lub jednolite studia magisterskie są wyniki:
+
+### 1)
+
+egzaminu dojrzałości;
+
+### 2)
+
+egzaminu maturalnego;
+
+### 3)
+
+egzaminu dojrzałości lub egzaminu maturalnego i egzaminu lub egzaminów potwierdzających kwalifikacje w zawodzie;
+
+### 4)
+
+egzaminu dojrzałości lub egzaminu maturalnego i egzaminu lub egzaminów zawodowych.
+
+Uczelnia ustala, jakie wyniki stanowią podstawę przyjęcia na studia, i podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1.
+
+### 4.
+
+Uczelnia może przeprowadzić dodatkowo egzaminy wstępne tylko w przypadku konieczności sprawdzenia uzdolnień artystycznych, sprawności fizycznej lub szczególnych predyspozycji do podejmowania studiów niesprawdzanych w trybie egzaminu maturalnego, egzaminu zawodowego albo egzaminu potwierdzającego kwalifikacje w zawodzie. Egzaminy te nie mogą dotyczyć przedmiotów objętych egzaminem maturalnym lub kwalifikacji objętej egzaminem zawodowym lub egzaminem potwierdzającym kwalifikacje w zawodzie. Informacje o przeprowadzeniu egzaminów wstępnych i ich zakresie uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1. Wyniki egzaminu wstępnego sprawdzającego uzdolnienia artystyczne lub sprawność fizyczną mogą stanowić do 100% łącznego wyniku możliwego do uzyskania przez kandydata w toku rekrutacji.
+
+” ,
+
+### b)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Uczelnia może przeprowadzić egzaminy wstępne dla osób ubiegających się o przyjęcie na studia pierwszego stopnia lub jednolite studia magisterskie na podstawie świadectwa, dyplomu lub innego dokumentu, o którym mowa w art. 69 ust. 2 pkt 4-7, w przypadku konieczności sprawdzenia uzdolnień artystycznych, sprawności fizycznej lub szczególnych predyspozycji do podejmowania studiów lub w zakresie nieobjętym wynikami egzaminu zagranicznego lub wynikami kształcenia ujętymi na tym świadectwie, dyplomie lub dokumencie. Informacje o przeprowadzeniu egzaminów wstępnych i ich zakresie uczelnia podaje do wiadomości publicznej w terminie, o którym mowa w ust. 1. Wyniki egzaminu wstępnego sprawdzającego uzdolnienia artystyczne lub sprawność fizyczną mogą stanowić do 100% łącznego wyniku możliwego do uzyskania przez kandydata w toku rekrutacji.
+
+” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przepisy ust. 3 stosuje się odpowiednio do wyników egzaminu zagranicznego lub wyników kształcenia, potwierdzonych świadectwem, dyplomem lub innym dokumentem, o którym mowa w art. 69 ust. 2 pkt 4-7.
+
+” .
+
+### Art. 47.
+
+Ilekroć w dalszych przepisach jest mowa o:
+
+### 1)
+
+dotychczasowym gimnazjum - należy przez to rozumieć również klasy dotychczasowego gimnazjum prowadzone w szkole innego typu;
+
+### 2)
+
+dotychczasowym trzyletnim liceum ogólnokształcącym - należy przez to rozumieć klasy dotychczasowego trzyletniego liceum ogólnokształcącego prowadzone w czteroletnim liceum ogólnokształcącym;
+
+### 3)
+
+dotychczasowym czteroletnim technikum - należy przez to rozumieć klasy dotychczasowego czteroletniego technikum prowadzone w pięcioletnim technikum;
+
+### 4)
+
+dotychczasowych szkołach ponadgimnazjalnych - należy przez to rozumieć klasy dotychczasowych szkół ponadgimnazjalnych prowadzone w szkołach ponadpodstawowych.
+
+### Art. 48.
+
+Czynności podejmowane na rok szkolny 2019/2020 i następne lata szkolne dotyczące organizowania i prowadzenia kształcenia, wychowania i opieki w jednostkach organizacyjnych systemu oświaty, oraz realizowania zadań oświatowych w tych latach szkolnych, są podejmowane zgodnie z przepisami ustawy zmienianej w art. 1, art. 2, art. 6, art. 41 i art. 44, w brzmieniu nadanym niniejszą ustawą, a także zgodnie z przepisami wydanymi na podstawie tych ustaw, o ile przepisy szczególne nie stanowią inaczej.
+
+### Art. 49.
+
+Do uczniów dotychczasowego czteroletniego technikum, klas dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum stosuje się przepisy dotychczasowe, o ile przepisy niniejszej ustawy lub przepisy szczególne nie stanowią inaczej.
+
+### Art. 50.
+
+### 1.
+
+Centrum kształcenia zawodowego, o którym mowa w art. 2 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zwane dalej „centrum kształcenia zawodowego”, tworzy się od dnia 1 września 2019 r.
+
+### 2.
+
+Z dniem 1 września 2019 r. dotychczasowa placówka kształcenia praktycznego staje się centrum kształcenia zawodowego, z zastrzeżeniem art. 54 ust. 1 i 2 oraz art. 58 ust. 1.
+
+### 3.
+
+Z dniem 1 września 2019 r. dotychczasowy ośrodek dokształcania i doskonalenia zawodowego staje się centrum kształcenia zawodowego, z zastrzeżeniem art. 54 ust. 1 i 2 oraz art. 58 ust. 2.
+
+### Art. 51.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza przekształcenie tej placówki albo tego ośrodka w publiczne centrum kształcenia zawodowego zgodnie z odpowiednio art. 50 ust. 2 lub 3.
+
+### 2.
+
+Uchwała, o której mowa w ust. 1, stanowi akt założycielski publicznego centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+### 3.
+
+Jeżeli prowadzona przez jednostkę samorządu terytorialnego dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego wchodzi w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w art. 54 ust 1 lub 2, organ stanowiący jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., dokonuje również zmiany uchwały, na podstawie której utworzono ten zespół.
+
+### Art. 52.
+
+### 1.
+
+Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa odpowiednio w art. 50 ust. 2 lub 3, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tej placówki lub tego ośrodka:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia w publicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+projekt aktu założycielskiego publicznego centrum kształcenia zawodowego oraz projekt statutu tego centrum, dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+
+### 2.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+
+### 3.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, na podstawie dokumentów, o których mowa w ust. 1.
+
+### 4.
+
+Jeśli dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa w ust. 1, wchodzi w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w art. 54 ust. 1 lub 2, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia, o którym mowa w art. 91 ust. 5 w związku z art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tego zespołu.
+
+### 5.
+
+W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna placówka kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego ulega likwidacji z dniem 31 sierpnia 2019 r., zgodnie z art. 89 ustawy zmienianej w art. 1, z tym że zawiadomień, o których mowa w art. 89 ust. 1 ustawy zmienianej w art. 1, dokonuje się w terminie do dnia 29 sierpnia 2019 r., a likwidacja tej placówki albo tego ośrodka nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy zmienianej w art. 1.
+
+### Art. 53.
+
+### 1.
+
+Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową niepubliczną placówkę kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który prowadzi ewidencję placówek niepublicznych, o której mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do której wpisana jest ta placówka lub ten ośrodek:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia w niepublicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+statut niepublicznego centrum kształcenia zawodowego, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+informację zawierającą wskazanie adresu siedziby niepublicznego centrum kształcenia zawodowego oraz innych lokalizacji prowadzenia zajęć przez to centrum, jeżeli lokalizacje te posiada dotychczasowa niepubliczna placówka kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, z uwzględnieniem art. 166 ust. 3;
+
+### 4)
+
+informację o warunkach lokalowych, zapewniających możliwość prowadzenia zajęć dydaktyczno-wychowawczych i możliwość realizacji odpowiednio kształcenia teoretycznego lub praktycznej nauki zawodu oraz wyposażeniu w pomoce dydaktyczne i sprzęt niezbędny do realizacji zadań statutowych.
+
+### 2.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową niepubliczną placówkę kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+
+### 3.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany wpisu do ewidencji placówek niepublicznych dotychczasowej niepublicznej placówki kształcenia praktycznego lub dotychczasowego niepublicznego ośrodka dokształcania i doskonalenia zawodowego na podstawie dokumentów, o których mowa w ust. 1.
+
+### 4.
+
+W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa niepubliczna placówka kształcenia praktycznego lub dotychczasowy niepubliczny ośrodek dokształcania i doskonalenia zawodowego, ulega likwidacji z dniem 31 sierpnia 2019 r. Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, wykreśla z ewidencji placówek niepublicznych tę placówkę lub ten ośrodek, zgodnie z art. 169 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 54.
+
+### 1.
+
+Z dniem 1 września 2019 r. zespół publicznych placówek, w skład którego wchodzi jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, staje się publicznym centrum kształcenia zawodowego.
+
+### 2.
+
+Z dniem 1 września 2019 r. dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, wchodzące w skład zespołu publicznych szkół lub placówek, innego niż ten, o którym mowa w ust. 1, stają się publicznym centrum kształcenia zawodowego, wchodzącym w skład tego zespołu publicznych szkół lub placówek.
+
+### Art. 55.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasowy zespół publicznych placówek, o którym mowa w art. 54 ust. 1, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza jego przekształcenie w publiczne centrum kształcenia zawodowego zgodnie z art. 54 ust. 1.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego prowadzącej dotychczasową publiczną placówkę kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, o których mowa w art. 54 ust. 2, w terminie od dnia 1 września 2019 r. do dnia 30 listopada 2019 r., w drodze uchwały, stwierdza przekształcenie ich w publiczne centrum kształcenia zawodowego zgodnie z art. 54 ust. 2 oraz dokonuje stosownej zmiany uchwały, na podstawie której utworzono zespół, o którym mowa w art. 54 ust. 2.
+
+### 3.
+
+Uchwała, o której mowa w ust. 1 i 2, stanowi akt założycielski publicznego centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+### Art. 56.
+
+W przypadku, o którym mowa w art. 54 ust. 2, nie rozwiązuje się zespołu publicznych szkół lub placówek, o którym mowa w art. 54 ust. 2, ani nie wyłącza się z tego zespołu dotychczasowej publicznej placówki kształcenia praktycznego i dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o których mowa w art. 54 ust. 2.
+
+### Art. 57.
+
+### 1.
+
+Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasowy zespół, o którym mowa w art. 54 ust. 1 i 2, w terminie do dnia 30 czerwca 2019 r., przedłoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 i art. 91 ust. 5 w związku art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie zespołu oraz placówki i ośrodka, o których mowa w art. 54 ust. 1 i 2:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia odpowiednio w publicznym centrum kształcenia zawodowego lub publicznym zespole, o którym mowa w art. 54 ust. 2, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+projekt aktu założycielskiego publicznego centrum kształcenia zawodowego lub zespołu, o którym mowa w art. 54 ust. 2, oraz projekt statutu tego centrum lub zespołu dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+
+### 2.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasowy zespół, o którym mowa w art. 54 ust. 1 lub 2, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 lipca 2019 r.
+
+### 3.
+
+W przypadku, o którym mowa w art. 54 ust. 1, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie zespołu placówek, na podstawie dokumentów, o których mowa w ust. 1. Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego oraz zezwolenie na założenie dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, wchodzących w skład zespołu, o którym mowa w art. 54 ust. 1, wygasają z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego utworzone zgodnie z art. 54 ust. 1.
+
+### 4.
+
+W przypadku, o którym mowa w art. 54 ust. 2, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego oraz zezwolenia na założenie zespołu, na podstawie dokumentów, o których mowa w ust. 1. Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego, wchodzącej w skład zespołu, o którym mowa w art. 54 ust. 2, wygasa z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego utworzone zgodnie z art. 54 ust. 2.
+
+### 5.
+
+W przypadku nieprzedłożenia dokumentów, o których mowa w ust. 1, w terminie, o którym mowa w ust. 1 lub 2, dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego wchodzące w skład zespołu, o którym mowa w art. 54 ust. 1 lub 2, ulegają likwidacji z dniem 31 sierpnia 2019 r., zgodnie z art. 89 ustawy zmienianej w art. 1, z tym że zawiadomień, o których mowa w art. 89 ust. 1 ustawy zmienianej w art. 1, dokonuje się w terminie do dnia 29 sierpnia 2019 r., a likwidacja tej placówki i tego ośrodka nie wymaga uzyskania zgody, o której mowa w art. 89 ust. 3 ustawy zmienianej w art. 1.
+
+### Art. 58.
+
+### 1.
+
+Z dniem 1 września 2019 r. dotychczasowa publiczna placówka kształcenia praktycznego może być przekształcona w filię centrum kształcenia zawodowego, jeżeli jej organ prowadzący prowadzi inną dotychczasową publiczną placówkę kształcenia praktycznego lub inny dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, który będzie przekształcony w publiczne centrum kształcenia zawodowego.
+
+### 2.
+
+Z dniem 1 września 2019 r. dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego może być przekształcony w filię centrum kształcenia zawodowego, jeżeli jej organ prowadzący prowadzi inną dotychczasową publiczną placówkę kształcenia praktycznego lub inny dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, który będzie przekształcony w publiczne centrum kształcenia zawodowego.
+
+### 3.
+
+Przekształceń, o których mowa w ust. 1 i 2, dokonuje się na podstawie art. 59 i art. 60.
+
+### Art. 59.
+
+### 1.
+
+Rada powiatu może, w terminie do dnia 31 marca 2019 r., podjąć uchwałę w sprawie przekształcenia, prowadzonej przez powiat, dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2.
+
+### 2.
+
+W uchwale, o której mowa w ust. 1:
+
+### 1)
+
+postanawia się o przekształceniu, z dniem 1 września 2019 r., dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2;
+
+### 2)
+
+postanawia się o przekształceniu, z dniem 1 września 2019 r., dotychczasowej publicznej placówki lub placówek kształcenia praktycznego lub dotychczasowego publicznego ośrodka lub ośrodków dokształcania i doskonalenia zawodowego, które ulegają przekształceniu odpowiednio w filię lub filie, zgodnie z art. 58 ust. 1 lub 2.
+
+### 3.
+
+Przekształcenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o którym mowa w ust. 2 pkt 2, jest równoznaczne z likwidacją dotychczasowej formy organizacyjno-prawnej tej placówki, w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2017 r. poz. 2077](https://api.sejm.gov.pl/eli/acts/DU/2017/2077/text.html) oraz [z 2018 r. poz. 62](https://api.sejm.gov.pl/eli/acts/DU/2018/62/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1366](https://api.sejm.gov.pl/eli/acts/DU/2018/1366/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [1693](https://api.sejm.gov.pl/eli/acts/DU/2018/1693/text.html)).
+
+### 4.
+
+Na podstawie uchwały, o której mowa w ust. 1, nie dokonuje się przekształceń innych niż wymienione w ust. 2.
+
+### 5.
+
+Uchwała, o której mowa w ust. 1, stanowi akt założycielski publicznego centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1, prowadzonego przez powiat, i w tej części zawiera:
+
+### 1)
+
+rodzaj, nazwę i adres siedziby placówki;
+
+### 2)
+
+dzień rozpoczęcia działalności przez tę placówkę, określony zgodnie z ust. 2 pkt 1;
+
+### 3)
+
+nazwę i adres lub nazwy i adresy filii.
+
+### 6.
+
+Uchwała, o której mowa w ust. 1, podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+### 7.
+
+Związki zawodowe, które opiniują projekt uchwały, o której mowa w art. 59 ust. 1, na podstawie przepisów ustawy z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. z 2015 r. poz. 1881](https://api.sejm.gov.pl/eli/acts/DU/2015/1881/text.html) oraz [z 2018 r. poz. 1608](https://api.sejm.gov.pl/eli/acts/DU/2018/1608/text.html)), przedstawiają opinię w terminie nie dłuższym niż 21 dni.
+
+### Art. 60.
+
+### 1.
+
+W przypadku przekształcenia, o którym mowa w art. 58 ust. 1 lub 2, osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca dotychczasową publiczną placówkę kształcenia praktycznego lub dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego składa organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie tej placówki lub tego ośrodka, w terminie do dnia 30 kwietnia 2019 r., wniosek o zmianę zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o których mowa w ust. 2 pkt 1.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+wskazanie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego przekształcanej w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, o których mowa w art. 58 ust. 1 lub 2;
+
+### 2)
+
+wskazanie dotychczasowej publicznej placówki lub placówek kształcenia praktycznego lub dotychczasowego publicznego ośrodka lub ośrodków dokształcania i doskonalenia zawodowego, która ulega przekształceniu odpowiednio w filię lub filie, zgodnie z art. 58 ust. 1 lub 2.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia w publicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+projekt aktu założycielskiego publicznego centrum kształcenia zawodowego oraz projekt statutu tego centrum zawierający postanowienia dotyczące filii, dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+
+### 4.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, na wniosek osoby prawnej niebędącej jednostką samorządu terytorialnego lub osoby fizycznej prowadzącej dotychczasową publiczną placówkę lub dotychczasowy ośrodek, o którym mowa w ust. 1, może postanowić o przedłużeniu terminu, o którym mowa w ust. 1, nie dłużej jednak niż do dnia 31 maja 2019 r.
+
+### 5.
+
+Organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany zezwolenia na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego przekształcanej w publiczne centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, na podstawie wniosku, o którym mowa w ust. 1.
+
+### 6.
+
+Zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub publicznego ośrodka dokształcania i doskonalenia zawodowego, który został przekształcony w filię publicznego centrum kształcenia zawodowego, wygasa z dniem rozpoczęcia działalności przez publiczne centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1.
+
+### 7.
+
+W wyniku przekształcenia na podstawie wniosku, o którym mowa w ust. 1, nie może powstać centrum kształcenia zawodowego, którego filia będzie funkcjonować na terenie jednostki samorządu terytorialnego innej niż jednostka samorządu terytorialnego, na terenie której będzie funkcjonować publiczne centrum kształcenia zawodowego, o którym mowa w ust. 2 pkt 1.
+
+### 8.
+
+W przypadku niedołączenia do wniosku, o którym mowa w ust. 1, dokumentów, o których mowa w ust. 3, lub złożenia wniosku niezgodnie z ust. 2 lub 7, w terminie, o którym mowa w ust. 1 lub 4, organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, odmawia zmiany tego zezwolenia na podstawie wniosku, o którym mowa w ust. 1, w terminie do dnia 9 sierpnia 2019 r.
+
+### 9.
+
+W przypadku, o którym mowa w ust. 8, osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 16 sierpnia 2019 r., przedkłada organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, na założenie dotychczasowej placówki lub dotychczasowego ośrodka, o których mowa w ust. 2, dokumenty, o których mowa odpowiednio w art. 52 ust. 1 lub art. 57 ust. 1. Przepisy art. 52 ust. 4 i 5 oraz art. 57 ust. 3-5 stosuje się odpowiednio.
+
+### 10.
+
+W przypadku, o którym mowa w ust. 9, organ jednostki samorządu terytorialnego, o którym mowa w ust. 1, w terminie do dnia 26 sierpnia 2019 r., dokonuje zmiany zezwoleń dotychczasowych placówek lub dotychczasowych ośrodków, o których mowa w ust. 2, na podstawie dokumentów, o których mowa odpowiednio w art. 52 ust. 1 i art. 57 ust.1.
+
+### Art. 61.
+
+### 1.
+
+Dotychczasowe placówki kształcenia praktycznego, dotychczasowe ośrodki dokształcania i doskonalenia zawodowego, dotychczasowe zespoły publicznych placówek, w skład których wchodzi jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, oraz zespoły szkół lub placówek, w których w skład wchodzi także dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, prowadzone przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi danego rodzaju placówki, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister.
+
+### 2.
+
+Do dyrektorów, wicedyrektorów i nauczycieli, w tym nauczycieli zajmujących inne stanowiska kierownicze, zatrudnionych w dotychczasowych placówkach kształcenia praktycznego, dotychczasowych ośrodkach dokształcania i doskonalenia zawodowego, dotychczasowych zespołach publicznych placówek, w skład których wchodzą jedynie dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, oraz w zespołach szkół lub placówek, w których w skład wchodzi także dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, prowadzonych przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, stosuje się przepisy art. 68-76.
+
+### Art. 62.
+
+### 1.
+
+Dotychczasowa publiczna placówka kształcenia praktycznego i dotychczasowy publiczny ośrodek dokształcania i doskonalenia zawodowego, przekazane do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., podlega zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy.
+
+### 2.
+
+W terminie do dnia 9 sierpnia 2019 r. dokonuje się odpowiedniego dostosowania umowy, na podstawie której przekazano prowadzenie dotychczasowej publicznej placówki kształcenia praktycznego lub dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, przekształconych zgodnie z art. 50 ust. 2 i 3.
+
+### 3.
+
+Organ stanowiący jednostki samorządu terytorialnego po przejęciu prowadzenia dotychczasowej publicznej placówki kształcenia praktycznego i dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego, o której mowa ust. 1, na podstawie art. 5 ust. 5j i 5k ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., w związku z art. 260 ustawy zmienianej w art. 41, w terminie jednego miesiąca od dnia przejęcia tej placówki, w drodze uchwały, stwierdza jej przekształcenie w centrum kształcenia zawodowego.
+
+### 4.
+
+Uchwała, o której mowa w ust. 3, stanowi akt założycielski centrum kształcenia zawodowego w rozumieniu przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Uchwała podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+### Art. 63.
+
+W przypadku złożenia wniosku o udzielenie zezwolenia na założenie po dniu 31 sierpnia 2019 r. dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., dostosuje wniosek do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejsza ustawą, i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o której mowa w art. 88 ust. 4 ustawy zmienianej w art. 1:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia w publicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+projekt aktu założycielskiego publicznego centrum kształcenia zawodowego oraz projekt statutu tej placówki, dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+zobowiązanie do zapewnienia warunków działania publicznego centrum kształcenia zawodowego, w tym bezpiecznych i higienicznych warunków nauki, wychowania i opieki, oraz zobowiązanie do przestrzegania przepisów dotyczących placówek publicznych.
+
+### Art. 64.
+
+W przypadku złożenia zgłoszenia do ewidencji niepublicznych placówek, dotyczącego dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., dostosuje zgłoszenie do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 168 ust. 1 ustawy zmienianej w art. 1:
+
+### 1)
+
+wykaz nauczycieli przewidzianych do zatrudnienia w niepublicznym centrum kształcenia zawodowego, zawierający imiona i nazwiska nauczycieli oraz informację o ich kwalifikacjach;
+
+### 2)
+
+statut niepublicznego centrum kształcenia zawodowego, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+wskazanie adresu siedziby niepublicznego centrum kształcenia zawodowego oraz innych lokalizacji prowadzenia zajęć przez to centrum, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, z uwzględnieniem art. 166 ust. 3;
+
+### 4)
+
+informację o warunkach lokalowych, zapewniających możliwość prowadzenia zajęć dydaktyczno-wychowawczych i możliwość realizacji odpowiednio kształcenia teoretycznego lub praktycznej nauki zawodu oraz wyposażeniu w pomoce dydaktyczne i sprzęt niezbędny do realizacji zadań statutowych.
+
+### Art. 65.
+
+### 1.
+
+Z dniem 1 września 2019 r. centra kształcenia zawodowego przejmują prawa, obowiązki, zobowiązania i wierzytelności dotychczasowych placówek kształcenia praktycznego i dotychczasowych ośrodków dokształcania i doskonalenia zawodowego.
+
+### 2.
+
+Mienie dotychczasowych placówek kształcenia praktycznego i dotychczasowych ośrodków dokształcania i doskonalenia zawodowego staje się mieniem centrów kształcenia zawodowego.
+
+### 3.
+
+Z dniem 1 września 2019 r. uczestnicy form pozaszkolnych organizowanych odpowiednio przez dotychczasowe placówki kształcenia praktycznego i dotychczasowe ośrodki dokształcania i doskonalenia zawodowego stają się uczestnikami tych form pozaszkolnych organizowanych przez centrum kształcenia zawodowego.
+
+### Art. 66.
+
+Dotychczasowe statuty dotychczasowych publicznych placówek kształcenia praktycznego i dotychczasowych publicznych ośrodków dokształcania i doskonalenia zawodowego zachowują moc do dnia wejścia w życie statutów centrów kształcenia zawodowego wydanych na podstawie ustawy zmienianej w art. 1, nie dłużej jednak niż do dnia 30 listopada 2019 r. Przepisy art. 72 ust. 1, art. 80 ust. 2 pkt 1 i art. 82 ust. 2 ustawy zmienianej w art. 1, stosuje się odpowiednio.
+
+### Art. 67.
+
+### 1.
+
+Centrum kształcenia zawodowego powstałe z dniem 1 września 2019 r. na podstawie art. 50 ust. 2 lub 3, zachowuje numer REGON odpowiednio dotychczasowej placówki kształcenia praktycznego lub dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+
+### 2.
+
+Publiczne centrum kształcenia zawodowego powstałe z dniem 1 września 2019 r. na podstawie art. 54 ust. 1 lub 2, zachowuje numer REGON dotychczasowego publicznego ośrodka dokształcania i doskonalenia zawodowego.
+
+### Art. 68.
+
+### 1.
+
+Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowych placówkach kształcenia praktycznego i dotychczasowych ośrodkach dokształcania i doskonalenia zawodowego stają się nauczycielami centrum kształcenia zawodowego.
+
+### 2.
+
+Dyrektor dotychczasowej placówki kształcenia praktycznego i dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w danej placówce o zmianie, o której mowa w ust. 1.
+
+### 3.
+
+Przepis ust. 1 i 2 stosuje się odpowiednio do pracowników niebędących nauczycielami, o których mowa w art. 7 ustawy zmienianej w art. 1, oraz osób, o których mowa w art. 15 ust. 2 i 6 ustawy zmienianej w art. 1.
+
+### Art. 69.
+
+### 1.
+
+Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowych zespołach placówek, o których mowa w art. 54 ust. 1, stają się nauczycielami centrum kształcenia zawodowego.
+
+### 2.
+
+Dyrektor dotychczasowego zespołu placówek, o którym mowa w ust. 1, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w danym zespole placówek o zmianie, o której mowa w ust. 1.
+
+### 3.
+
+Przepis ust. 1 i 2 stosuje się odpowiednio do pracowników niebędących nauczycielami, o których mowa w art. 7 ustawy zmienianej w art. 1, oraz osób, o których mowa w art. 15 ust. 2 i 6 ustawy zmienianej w art. 1.
+
+### Art. 70.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego przekształcanej w centrum kształcenia zawodowego na podstawie art. 50 ust. 2 staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowej placówki kształcenia praktycznego.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 71.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor dotychczasowego ośrodka dokształcania i doskonalenia zawodowego przekształcanego w centrum kształcenia zawodowego na podstawie art. 50 ust. 3 staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowym ośrodku dokształcania i doskonalenia zawodowego.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 72.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor zespołu placówek, o którym mowa w art. 54 ust. 1, staje się dyrektorem centrum kształcenia zawodowego i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego zespołu placówek, o którym mowa w art. 54 ust. 1.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w zespole placówek, o którym mowa w art. 54 ust. 1.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 73.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor zespołu szkół lub placówek innego niż ten, o którym mowa w art. 54 ust. 1, staje się dyrektorem zespołu szkół lub placówek, w skład którego wchodzi centrum kształcenia zawodowego, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora dotychczasowego zespołu szkół lub placówek innego niż ten, o którym mowa w art. 54 ust. 1.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w zespole szkół lub placówek innym niż ten, o którym mowa w art. 54 ust. 1.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 74.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, przekształcanych w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, staje się dyrektorem centrum kształcenia zawodowego, któremu będzie podporządkowana organizacyjnie filia lub filie, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora odpowiednio dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+
+### 2.
+
+Wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego albo dotychczasowym ośrodku dokształcania i doskonalenia zawodowego, przekształcanych w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### 4.
+
+W przypadku konkursu na stanowisko dyrektora centrum kształcenia zawodowego, o którym mowa w ust. 1, przeprowadzonego przed dniem 1 września 2019 r., w skład komisji konkursowej powołuje się po dwóch przedstawicieli rady pedagogicznej, z tym że przedstawicieli tych wyłania się spośród przedstawicieli rad pedagogicznych wszystkich dotychczasowych placówek kształcenia praktycznego lub dotychczasowych ośrodków dokształcania i doskonalenia zawodowego, które wejdą w skład centrum kształcenia zawodowego, o którym mowa w art. 59 ust. 2 pkt 1.
+
+### Art. 75.
+
+### 1.
+
+W przypadku przekształcenia dotychczasowej placówki kształcenia praktycznego i dotychczasowego ośrodka dokształcania i doskonalenia zawodowego w centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 1, dyrektorów, wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego i dotychczasowym ośrodku dokształcania i doskonalenia zawodowego odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+
+### 2.
+
+W konkursie na stanowisko dyrektora centrum kształcenia zawodowego, o którym mowa w ust. 1, przeprowadzonego przed dniem 1 września 2019 r., w skład komisji konkursowej powołuje się po dwóch przedstawicieli rady pedagogicznej, z tym że przedstawicieli tych wyłania się spośród przedstawicieli rad pedagogicznych wszystkich dotychczasowych placówek kształcenia praktycznego lub dotychczasowych ośrodków dokształcania i doskonalenia zawodowego, które wejdą w skład centrum kształcenia zawodowego.
+
+### Art. 76.
+
+### 1.
+
+Z dniem 1 września 2019 r. dyrektor dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego, przekształcanych w filię centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 2, staje się kierownikiem tej filii podporządkowanej organizacyjnie centrum kształcenia zawodowego, i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko dyrektora odpowiednio dotychczasowej placówki kształcenia praktycznego albo dotychczasowego ośrodka dokształcania i doskonalenia zawodowego.
+
+### 2.
+
+Wicedyrektorów i nauczycieli zajmujących inne stanowiska kierownicze w dotychczasowej placówce kształcenia praktycznego albo dotychczasowym ośrodku dokształcania i doskonalenia zawodowego, przekształcanych w filię centrum kształcenia zawodowego na podstawie art. 59 ust. 2 pkt 2, odwołuje się ze stanowiska z dniem 31 sierpnia 2019 r.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do osoby, o której mowa w art. 62 ust. 2 ustawy zmienianej w art. 1.
+
+### Art. 77.
+
+### 1.
+
+Z dniem 1 września 2019 r. dotychczasowe szkolne punkty konsultacyjne stają się szkołami polskimi, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Z dniem 1 września 2019 r.:
+
+### 1)
+
+szkoły polskie, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przejmują prawa, obowiązki, zobowiązania i wierzytelności dotychczasowych szkolnych punktów konsultacyjnych;
+
+### 2)
+
+mienie dotychczasowych szkolnych punktów konsultacyjnych staje się mieniem szkół polskich, o których mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 78.
+
+### 1.
+
+Z dniem 1 września 2019 r. nauczyciele zatrudnieni w dotychczasowym szkolnym punkcie konsultacyjnym stają się nauczycielami zatrudnionymi w szkole polskiej, o której mowa w art. 4 pkt 29d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Kierownik dotychczasowego szkolnego punktu konsultacyjnego, w terminie do dnia 15 maja 2019 r., informuje na piśmie nauczycieli zatrudnionych w szkolnym punkcie konsultacyjnym o zmianie, o której mowa w ust. 1.
+
+### 3.
+
+Kierownik szkolnego punktu konsultacyjnego staje się kierownikiem szkoły polskiej i zajmuje to stanowisko do końca okresu, na jaki powierzono mu stanowisko kierownika szkolnego punktu konsultacyjnego.
+
+### 4.
+
+Dyrektor jednostki sprawującej nadzór pedagogiczny nad szkołami polskimi, podległej ministrowi właściwemu do spraw oświaty i wychowania, w terminie do dnia 15 maja 2019 r., informuje kierowników szkolnych punktów konsultacyjnych o zmianie, o której mowa w ust. 3.
+
+### Art. 79.
+
+Organ stanowiący jednostki samorządu terytorialnego prowadzącej publiczną placówkę kształcenia ustawicznego dostosuje, w drodze uchwały, akt założycielski tej placówki do przepisu art. 88 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r.
+
+### Art. 80.
+
+Przepisów art. 32 ust. 1 i art. 39 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do uchwał podjętych przed dniem 1 stycznia 2019 r.
+
+### Art. 81.
+
+### 1.
+
+Do uchwał podjętych zgodnie z art. 210 oraz art. 211 ust. 1 lub 5 ustawy zmienianej w art. 41, nie stosuje się art. 39 ust. 5a, 5b i 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Uchwały, o których mowa w ust. 1, tracą moc z dniem 31 sierpnia 2019 r. w zakresie dotyczącym ustalenia planu sieci publicznych szkół podstawowych prowadzonych przez gminę i określenia granic obwodów publicznych szkół podstawowych.
+
+### 3.
+
+Do ustalenia planu sieci publicznych szkół podstawowych prowadzonych przez gminę i określenia granic obwodów publicznych szkół podstawowych na okres od dnia 1 września 2019 r. stosuje się przepisy art. 39 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 82.
+
+Do dnia 31 października 2028 r. w informacji o stanie realizacji zadań oświatowych danej jednostki samorządu terytorialnego, o której mowa w art. 11 ust. 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnia się również wyniki egzaminu potwierdzającego kwalifikacje w zawodzie.
+
+### Art. 83.
+
+Przepis art. 10 ust. 1 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do dotychczasowych szkół ponadgimnazjalnych dla dzieci i młodzieży.
+
+### Art. 84.
+
+### 1.
+
+Od dnia 1 września 2020 r. kształcenie ustawiczne na kursach umiejętności zawodowych, odbywa się w oparciu o program nauczania uwzględniający:
+
+### 1)
+
+podstawę programową kształcenia w zawodach szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji albo
+
+### 2)
+
+efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Kształcenie ustawiczne na kursach umiejętności zawodowych w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w zakresie jednej z części efektów kształcenia wyodrębnionych w ramach danej kwalifikacji odbywa się do dnia 31 grudnia 2020 r.
+
+### Art. 85.
+
+### 1.
+
+Kształcenie ustawiczne na kursie kompetencji ogólnych odbywające się według programu nauczania uwzględniającego podstawę programową kształcenia ogólnego dla branżowej szkoły II stopnia określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. g ustawy zmienianej w art. 1, prowadzi się począwszy od dnia 1 września 2020 r., zgodnie z art. 279 ustawy zmienianej w art. 41.
+
+### 2.
+
+Kształcenie ustawiczne na kursie kompetencji ogólnych odbywające się według programu nauczania uwzględniającego podstawę programową kształcenia ogólnego, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., może być również prowadzone zgodnie z przepisami wydanymi na podstawie art. 68a ust. 5 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., nie dłużej jednak niż do dnia 31 sierpnia 2023 r.
+
+### Art. 86.
+
+### 1.
+
+Od dnia 1 września 2019 r. kształcenie ustawiczne na turnusie dokształcania młodocianych pracowników odbywa się w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodzie szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Kształcenie ustawiczne na turnusie dokształcania młodocianych pracowników w oparciu o program nauczania uwzględniający podstawę programową kształcenia w zawodzie określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, prowadzi się do dnia 31 sierpnia 2021 r.
+
+### Art. 87.
+
+### 1.
+
+Od dnia 1 września 2020 r. kształcenie na kwalifikacyjnych kursach zawodowych odbywa się w oparciu o podstawę programową kształcenia w zawodach szkolnictwa branżowego określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Kształcenie na kwalifikacyjnych kursach zawodowych w oparciu o podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, odbywa się do dnia 31 grudnia 2020 r.
+
+### Art. 88.
+
+### 1.
+
+Podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy zmienianej w art. 1, nieposiadające akredytacji, o której mowa w art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą prowadzić kwalifikacyjne kursy zawodowe, o których mowa w art. 290 ust. 1 ustawy zmienianej w art. 41, oraz art. 87 ust. 2, jednak nie dłużej niż do dnia 31 grudnia 2020 r.
+
+### 2.
+
+Od dnia 1 września 2020 r. kwalifikacyjne kursy zawodowe, o których mowa w art. 87 ust. 1, mogą być prowadzone wyłącznie przez podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2 ustawy zmienianej w art. 1, posiadające akredytację, o której mowa w art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 89.
+
+Do uczniów niepełnosprawnych dotychczasowych szkół ponadgimnazjalnych, których kształcenie i wychowanie odbywa się na podstawie orzeczeń, o których mowa w art. 312 ust. 1 i 2 ustawy zmienianej w art. 41, do czasu zakończenia kształcenia w tych szkołach, stosuje się odpowiednio przepis art. 39 ust. 4a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 90.
+
+### 1.
+
+Wnioski, o których mowa w art. 45 ust. 9 ustawy zmienianej w art. 1, dotyczące eksperymentu pedagogicznego rozpoczynającego się w roku szkolnym 2019/2020, rozpatruje się zgodnie z przepisami dotychczasowymi, z zastrzeżeniem ust. 2 i 3.
+
+### 2.
+
+Wnioski, o których mowa w ust. 1, mogą dotyczyć zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Wnioski, o których mowa w ust. 1, dotyczące zawodu nieokreślonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, albo klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mogą dotyczyć wyłącznie jednego cyklu kształcenia, w którym będzie prowadzony eksperyment.
+
+### 4.
+
+Eksperymenty pedagogiczne, których realizacja rozpoczęła się przed dniem 1 września 2020 r. są prowadzone zgodnie z przepisami dotychczasowymi.
+
+### Art. 91.
+
+### 1.
+
+Wnioski złożone na podstawie art. 178 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, i nierozpatrzone przed dniem 1 września 2019 r., rozpatruje się zgodnie z przepisami art. 178 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Szkoły niepubliczne funkcjonujące na podstawie decyzji, o której mowa w art. 178 ust. 4 i 5 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydanej przed dniem 1 września 2019 r., mogą nadal funkcjonować na warunkach określonych w tej decyzji.
+
+### Art. 92.
+
+### 1.
+
+Wnioski, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożone i nierozpatrzone przed dniem 1 stycznia 2019 r., rozpatruje się zgodnie z przepisami dotychczasowymi.
+
+### 2.
+
+Wnioski, o których mowa w ust. 1, stanowią podstawę do wprowadzenia zawodu do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 93.
+
+### 1.
+
+Zawody wprowadzone przed dniem 1 września 2019 r. do klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, są wprowadzane do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Zmiana w zakresie zawodu, o którym mowa w ust. 1, lub niewprowadzenie zawodu do klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania uzgadnia z ministrem właściwym dla tego zawodu.
+
+### Art. 94.
+
+### 1.
+
+Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od roku szkolnego 2019/2020 w:
+
+### 1)
+
+klasie I branżowej szkoły I stopnia, która rozpoczyna się z dniem 1 września 2019 r. lub z dniem 1 lutego 2020 r.,
+
+### 2)
+
+semestrze I szkoły policealnej,
+
+### 3)
+
+klasie I dotychczasowego czteroletniego technikum
+
+- a w latach następnych również w kolejnych klasach lub semestrach tych szkół.
+
+### 2.
+
+Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od roku szkolnego 2019/2020 w pięcioletnim technikum.
+
+### 3.
+
+Przepisy wydane na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się, począwszy od roku szkolnego 2020/2021 w semestrze I branżowej szkoły II stopnia.
+
+### 4.
+
+Klasyfikację zawodów szkolnictwa zawodowego, określoną w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oraz podstawę programową kształcenia w zawodzie, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się:
+
+### 1)
+
+w roku szkolnym 2019/2020 w:
+
+### a)
+
+klasach II i III dotychczasowego czteroletniego technikum,
+
+### b)
+
+klasie I branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum, którzy rozpoczęli naukę z dniem 1 lutego 2019 r.,
+
+### c)
+
+klasach II i III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
+
+### d)
+
+semestrach II-V szkoły policealnej;
+
+### 2)
+
+w roku szkolnym 2020/2021 w:
+
+### a)
+
+klasach III i IV dotychczasowego czteroletniego technikum,
+
+### b)
+
+klasie II branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 1 lit. b,
+
+### c)
+
+klasie III branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum,
+
+### d)
+
+semestrach IV i V szkoły policealnej;
+
+### 3)
+
+w roku szkolnym 2021/2022 w:
+
+### a)
+
+klasie IV dotychczasowego czteroletniego technikum,
+
+### b)
+
+klasie III branżowej szkoły I stopnia będącej kontynuacją klasy, o której mowa w pkt 2 lit. b.
+
+### Art. 95.
+
+### 1.
+
+Na lata szkolne 2020/2021-2022/2023 na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się również kandydatów będących absolwentami dotychczasowej zasadniczej szkoły zawodowej, którzy rozpoczęli kształcenie w tej szkole począwszy od roku szkolnego 2012/2013.
+
+### 2.
+
+Na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia przyjmuje się kandydatów, o których mowa w ust. 1, którzy:
+
+### 1)
+
+posiadają świadectwo ukończenia zasadniczej szkoły zawodowej;
+
+### 2)
+
+posiadają zaświadczenie o zawodzie nauczanym w zasadniczej szkole zawodowej, którego zakres odpowiada pierwszej kwalifikacji wyodrębnionej w zawodzie nauczanym w branżowej szkole II stopnia, do której ubiegają się o przyjęcie;
+
+### 3)
+
+posiadają zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 5 ustawy zmienianej w art. 13;
+
+### 4)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. - posiadają orzeczenie lekarskie wydawane w formie świadectwa zdrowia o zdolności do pracy na statku, o którym mowa w art. 4 ustawy zmienianej w art. 38, przy czym do kandydatów nie stosuje się warunku posiadania zaświadczenia, o którym mowa w pkt 3;
+
+### 5)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym - posiadają orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdami, wydane zgodnie z przepisami określonymi w rozdziale 12 ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą;
+
+### 6)
+
+w przypadku kandydatów do szkoły prowadzącej kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - posiadają orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy zmienianej w art. 30.
+
+### 3.
+
+W przypadku większej liczby kandydatów spełniających warunek, o którym mowa w ust. 2 pkt 1 i 2, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego, są brane pod uwagę łącznie następujące kryteria:
+
+### 1)
+
+wymienione na świadectwie ukończenia zasadniczej szkoły zawodowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ogólnokształcących ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
+
+### 2)
+
+świadectwo ukończenia zasadniczej szkoły zawodowej z wyróżnieniem;
+
+### 3)
+
+w przypadku kandydatów ubiegających się o przyjęcie do oddziałów wymagających szczególnych indywidualnych predyspozycji - wyniki sprawdzianu uzdolnień kierunkowych, o którym mowa w ust. 8.
+
+### 4.
+
+W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów z problemami zdrowotnymi, ograniczającymi możliwości wyboru kierunku kształcenia ze względu na stan zdrowia, potwierdzonymi opinią publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej.
+
+### 5.
+
+W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu dana szkoła, o której mowa w ust. 1, nadal dysponuje wolnymi miejscami, na trzecim etapie postępowania rekrutacyjnego, są brane pod uwagę łącznie następujące kryteria:
+
+### 1)
+
+w przypadku kandydata niepełnoletniego:
+
+### a)
+
+wielodzietność rodziny kandydata,
+
+### b)
+
+niepełnosprawność kandydata,
+
+### c)
+
+niepełnosprawność jednego z rodziców kandydata,
+
+### d)
+
+niepełnosprawność obojga rodziców kandydata,
+
+### e)
+
+niepełnosprawność rodzeństwa kandydata,
+
+### f)
+
+samotne wychowywanie kandydata w rodzinie,
+
+### g)
+
+objęcie kandydata pieczą zastępczą;
+
+### 2)
+
+w przypadku kandydata pełnoletniego:
+
+### a)
+
+wielodzietność rodziny kandydata,
+
+### b)
+
+niepełnosprawność kandydata,
+
+### c)
+
+niepełnosprawność dziecka kandydata,
+
+### d)
+
+niepełnosprawność innej osoby bliskiej, nad którą kandydat sprawuje opiekę,
+
+### e)
+
+samotne wychowywanie dziecka przez kandydata.
+
+### 6.
+
+Kryteria, o których mowa w ust. 5, mają jednakową wartość.
+
+### 7.
+
+Do kandydatów, o których mowa w ust. 1, nie stosuje się przepisów dotyczących postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe.
+
+### 8.
+
+Jeżeli program nauczania realizowany w szkole lub oddziale wymaga od kandydatów szczególnych indywidualnych predyspozycji, na wniosek dyrektora branżowej szkoły II stopnia, pozytywnie zaopiniowany przez kuratora oświaty, minister właściwy do spraw oświaty i wychowania może wyrazić zgodę na przeprowadzenie sprawdzianu uzdolnień kierunkowych, na warunkach ustalonych przez radę pedagogiczną, jeżeli wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa wyrazi zgodę na dodatkowe godziny zajęć edukacyjnych w zakresie realizacji programu nauczania wymagającego od ucznia szczególnych indywidualnych predyspozycji.
+
+### 9.
+
+Przepisy ust. 1-8 stosuje się odpowiednio do postępowania rekrutacyjnego na semestr pierwszy klasy I publicznej branżowej szkoły II stopnia integracyjnej lub oddziału integracyjnego w publicznej branżowej szkole II stopnia ogólnodostępnej, w przypadku kandydatów nieposiadających orzeczenia o potrzebie kształcenia specjalnego wydanego ze względu na niepełnosprawność.
+
+### 10.
+
+W przypadku postępowania rekrutacyjnego, o którym mowa w ust. 1-9, stosuje się odpowiednio przepisy art. 149-163 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, z uwzględnieniem ust. 11.
+
+### 11.
+
+W przepisach wydanych na podstawie art. 162 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania, określi również sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w ust. 3 pkt 1 i 2.
+
+### Art. 96.
+
+### 1.
+
+W latach szkolnych 2020/2021 i 2021/2022:
+
+### 1)
+
+obowiązkowe zajęcia edukacyjne z zakresu kształcenia ogólnego, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, są realizowane wspólnie przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia będących absolwentami dotychczasowego gimnazjum;
+
+### 2)
+
+obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w tym praktyczna nauka zawodu, są realizowane w ramach tego samego kwalifikacyjnego kursu zawodowego przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia.
+
+### 2.
+
+W roku szkolnym 2022/2023:
+
+### 1)
+
+obowiązkowe zajęcia edukacyjne z zakresu kształcenia ogólnego, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, są realizowane odrębnie przez:
+
+### a)
+
+absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia będących absolwentami dotychczasowego gimnazjum,
+
+### b)
+
+absolwentów branżowych szkół I stopnia będących absolwentami szkoły podstawowej;
+
+### 2)
+
+obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, o których mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w tym praktyczna nauka zawodu są realizowane w ramach tego samego kwalifikacyjnego kursu zawodowego przez absolwentów dotychczasowych zasadniczych szkół zawodowych oraz absolwentów branżowych szkół I stopnia.
+
+### Art. 97.
+
+### 1.
+
+Opinie wojewódzkich rad rynku pracy oraz powiatowych rad rynku pracy, o których mowa w art. 68 ust. 7 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydane przed dniem 1 stycznia 2019 r., zachowują moc do dnia 31 sierpnia 2022 r.
+
+### 2.
+
+Opinia wojewódzkiej rady rynku pracy, o której mowa w art. 68 ust. 7 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie jest wymagana w przypadku szkół, które od roku szkolnego 2019/2020, będą kontynuowały kształcenie w zawodach, których nazwa i symbol cyfrowy tego zawodu określonego w klasyfikacji zawodów szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jest tożsamy z nazwą i symbolem cyfrowym zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### 3.
+
+Wnioski o uzyskanie opinii wojewódzkich oraz powiatowych rad rynku pracy złożone przed dniem 1 stycznia 2019 r., na podstawie art. 68 ust. 7 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, rozpatruje się zgodnie z przepisami dotychczasowymi.
+
+### Art. 98.
+
+W latach szkolnych 2019/2020-2021/2022 przepisu art. 68 ust. 7 pkt 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do szkół prowadzących kształcenie zawodowe, z wyjątkiem branżowej szkoły II stopnia, w odniesieniu do zawodów, w których już prowadzą kształcenie.
+
+### Art. 99.
+
+Przepis art. 96 ust. 6 i 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do dotychczasowych szkół ponadgimnazjalnych.
+
+### Art. 100.
+
+Do dnia 31 sierpnia 2022 r. w przypadku gdy szkoła nie ma możliwości zapewnienia pomieszczenia przeznaczonego wyłącznie do spożycia posiłków podczas pobytu w szkole, o którym mowa w art. 103 ust. 1 pkt 7 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, szkoła w inny sposób umożliwia uczniom bezpieczne i higieniczne spożycie posiłków.
+
+### Art. 101.
+
+Przepis art. 121a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się również do uczniów dotychczasowego czteroletniego technikum.
+
+### Art. 102.
+
+Przepis art. 122 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do młodocianych pracowników, którzy rozpoczęli naukę zawodu od roku szkolnego 2019/2020.
+
+### Art. 103.
+
+### 1.
+
+Akredytacja kuratora oświaty przyznana przed dniem 1 września 2019 r. na podstawie art. 118 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowuje moc do zakończenia kształcenia ustawicznego w danej formie pozaszkolnej, nie dłużej niż do dnia 31 grudnia 2020 r.
+
+### 2.
+
+Postępowania o przyznanie akredytacji na kształcenie ustawiczne prowadzone w formie pozaszkolnej złożone i nierozpatrzone przed dniem 1 września 2019 r., rozpatruje się zgodnie z przepisami art. 118 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Wnioskodawca dostosuje wniosek do wymagań określonych w art. 118 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 31 grudnia 2019 r.
+
+### Art. 104.
+
+### 1.
+
+Szkoła niepubliczna nieposiadająca uprawnień szkoły publicznej działająca przed dniem 1 września 2019 r., może prowadzić swoją działalność na podstawie dotychczasowych przepisów, do czasu zakończenia kształcenia w tej szkole, nie dłużej niż do dnia 31 sierpnia 2021 r., a w przypadku niepublicznej szkoły przysposabiającej do pracy nieposiadającej uprawnień szkoły publicznej, nie dłużej niż do dnia 31 sierpnia 2022 r.
+
+### 2.
+
+W przypadku szkoły, o której mowa w ust. 1, na rok szkolny 2019/2020 i lata następne nie przeprowadza się postępowania rekrutacyjnego do klasy I albo na semestr pierwszy tej szkoły.
+
+### 3.
+
+Zgłoszenie o wpis do ewidencji szkół niepublicznych, o której mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, dotyczące szkoły niepublicznej nieposiadającej uprawnień szkoły publicznej, złożone i nierozpatrzone przed dniem 1 września 2019 r. pozostawia się bez rozpoznania.
+
+### 4.
+
+Szkoła niepubliczna o uprawnieniach szkoły publicznej staje się szkołą niepubliczną, o której mowa w art. 14 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 5.
+
+Szkoła, o której mowa w ust. 4, dostosuje swoją działalność, w tym w szczególności statut szkoły, do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r.
+
+### 6.
+
+Do uczniów i słuchaczy szkół, o których mowa w ust. 1 i 4, którzy rozpoczęli naukę przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe, o ile przepisy szczególne nie stanowią inaczej.
+
+### Art. 105.
+
+### 1.
+
+Organy prowadzące szkoły policealne dostosują działalność tych szkół do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, do dnia 30 listopada 2019 r., w tym w szczególności statut szkoły.
+
+### 2.
+
+Dotychczasowe statuty szkół policealnych zachowują moc do dnia wejścia w życie statutów szkół policealnych wydanych na podstawie ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 30 listopada 2019 r. Przepisy art. 72 ust. 1, art. 80 ust. 2 pkt 1 i art. 82 ust. 2 ustawy zmienianej w art. 1, stosuje się odpowiednio.
+
+### 3.
+
+Do uczniów szkół policealnych dla dzieci i młodzieży oraz słuchaczy szkół policealnych dla dorosłych, którzy rozpoczęli naukę przed dniem 1 września 2019 r., stosuje się przepisy dotychczasowe, o ile przepisy szczególne nie stanowią inaczej.
+
+### 4.
+
+Na rok szkolny 2019/2020 nie przeprowadza się postępowania rekrutacyjnego do klasy I szkoły policealnej dla dzieci i młodzieży oraz na semestr pierwszy klasy I szkoły policealnej dla dorosłych.
+
+### Art. 106.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego prowadzącej szkołę policealną, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, podejmuje uchwałę w sprawie dostosowania nazwy tej szkoły do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Uchwałę, o której mowa w ust. 1, podejmuje się do dnia 31 sierpnia 2019 r. Uchwała nie podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
+
+### 3.
+
+Do uchwały, o której mowa w ust. 2, nie stosuje się przepisów art. 89 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### Art. 107.
+
+### 1.
+
+Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca publiczną szkołę policealną, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 30 czerwca 2019 r., złoży organowi jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wniosek o zmianę zezwolenia w zakresie nazwy szkoły. Do wniosku dołącza się projekt statutu tej szkoły, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Organ jednostki samorządu terytorialnego, który wydał zezwolenie, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, na założenie publicznej szkoły policealnej, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany tego zezwolenia, na podstawie wniosku, o którym mowa w ust. 1.
+
+### Art. 108.
+
+### 1.
+
+Osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna prowadząca niepubliczną szkołę policealną o uprawnieniach szkoły publicznej, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 30 czerwca 2019 r., złoży organowi jednostki samorządu terytorialnego, który dokonał wpisu do ewidencji szkół niepublicznych, o którym mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wniosek o zmianę wpisu do ewidencji szkół niepublicznych w zakresie nazwy szkoły. Do wniosku dołącza się projekt statutu tej szkoły, dostosowany do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Organ jednostki samorządu terytorialnego, który dokonał wpisu niepublicznej szkoły, o której mowa w ust. 1, do ewidencji placówek niepublicznych, o którym mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, w terminie do dnia 9 sierpnia 2019 r., dokonuje zmiany tego wpisu na podstawie wniosku, o którym mowa w ust. 1.
+
+### Art. 109.
+
+Szkoły policealne prowadzone przez ministrów, o których mowa w art. 8 ust. 7 pkt 1 i ust. 12 ustawy zmienianej w art. 1, podlegają zmianom organizacyjnym zgodnie z przepisami niniejszej ustawy dotyczącymi szkół policealnych, z tym że kompetencje organu jednostki samorządu terytorialnego wykonuje właściwy minister.
+
+### Art. 110.
+
+W przypadku publicznej szkoły policealnej, której nazwa nie jest zgodna z przepisami ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przekazanej do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, na podstawie umowy, o której mowa w art. 5 ust. 5g ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub art. 9 ust. 1 ustawy zmienianej w art. 1, dokonuje się, w terminie do dnia 9 sierpnia 2019 r., odpowiedniego dostosowania umowy, na podstawie której przekazano prowadzenie szkoły policealnej.
+
+### Art. 111.
+
+W przypadku złożenia i nierozpatrzenia, przed dniem 1 stycznia 2019 r., wniosku o udzielenie zezwolenia na założenie szkoły policealnej, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., uzupełni wniosek i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 88 ust. 4 ustawy zmienianej w art. 1:
+
+### 1)
+
+projekt aktu założycielskiego publicznej szkoły policealnej,
+
+### 2)
+
+projekt statutu tej szkoły
+
+- dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 112.
+
+W przypadku złożenia i nierozpatrzenia, przed dniem 1 stycznia 2019 r., zgłoszenia do ewidencji niepublicznych szkół, dotyczącego szkoły policealnej o uprawnieniach szkoły publicznej, osoba prawna inna niż jednostka samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r., uzupełni zgłoszenie i przedłoży właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 168 ust. 1 ustawy zmienianej w art. 1:
+
+### 1)
+
+projekt aktu założycielskiego publicznej szkoły policealnej,
+
+### 2)
+
+projekt statutu tej szkoły
+
+- dostosowane do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 113.
+
+Przepisy art. 105-112 stosuje się odpowiednio do szkół policealnych wchodzących w skład publicznych placówek kształcenia ustawicznego, zespołów szkół lub zespołów szkół i placówek.
+
+### Art. 114.
+
+Przepis art. 22aa ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą stosuje się do dotychczasowego trzyletniego liceum ogólnokształcącego, dotychczasowego czteroletniego technikum i branżowej szkoły I stopnia w odniesieniu do oddziałów dla uczniów będących absolwentami dotychczasowego gimnazjum.
+
+### Art. 115.
+
+### 1.
+
+Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników do kształcenia w zawodach uwzględniających podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, są prowadzone do dnia 30 czerwca 2021 r., na podstawie dotychczasowych przepisów.
+
+### 2.
+
+Postępowania w sprawach o dopuszczenie do użytku szkolnego podręczników, o których mowa w ust. 1, wszczęte i niezakończone do dnia 30 czerwca 2021 r., umarza się.
+
+### Art. 116.
+
+### 1.
+
+Wykazy, o których mowa w art. 337 ust. 2 ustawy zmienianej w art. 41, prowadzi się do dnia 31 sierpnia 2022 r.
+
+### 2.
+
+Decyzje o dopuszczeniu do użytku szkolnego podręczników do kształcenia w zawodach wygasają z dniem 31 sierpnia 2022 r.
+
+### Art. 117.
+
+### 1.
+
+Do wniosków o wpisanie na listę rzeczoznawców, złożonych i nierozpatrzonych przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do wniosków o wpisanie na listę rzeczoznawców do spraw podręczników do kształcenia w zawodach, złożonych od dnia 1 stycznia 2019 r., stosuje się przepisy:
+
+### 1)
+
+art. 22ar, art. 22as ust. 1 pkt 2 i 4 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym oraz
+
+### 2)
+
+art. 22as ust. 1 pkt 1 i 3, ust. 2 pkt 2 i 3 oraz ust. 3 ustawy zmienianej w art. 2, oraz
+
+### 3)
+
+art. 22as ust. 2 pkt 1 i 4 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 118.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania prowadzi listę rzeczoznawców do spraw podręczników do kształcenia w zawodach do dnia 31 sierpnia 2022 r. Przepis art. 22as ust. 4 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stosuje się.
+
+### 2.
+
+Dane rzeczoznawców do spraw podręczników do kształcenia w zawodach są publikowane na stronie internetowej urzędu obsługującego ministra właściwego do spraw oświaty i wychowania do dnia 31 sierpnia 2022 r.
+
+### 3.
+
+Do rzeczoznawców w zakresie podręczników do kształcenia w zawodach stosuje się przepisy:
+
+### 1)
+
+art. 22at ust. 1 pkt 1 i ust. 2, art. 22au ust. 1 pkt 1 i ust. 2, art. 22av i art. 22aw ustawy zmienianej w art. 2, w brzmieniu dotychczasowym oraz
+
+### 2)
+
+art. 22at ust. 1 pkt 2, 3 i 4 oraz art. 22au ust. 1 pkt 2 i 3 ustawy zmienianej w art. 2, oraz
+
+### 3)
+
+art. 22at ust. 1 pkt 2a, ust. 1a i 3 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 119.
+
+Do postępowań wszczętych i niezakończonych przed dniem 1 stycznia 2020 r., w sprawach o dopuszczenie do użytku szkolnego podręczników do zajęć z zakresu edukacji: polonistycznej, matematycznej, przyrodniczej i społecznej, podręczniki do zajęć z zakresu języka obcego nowożytnego, podręczników do zajęć edukacyjnych z zakresu kształcenia ogólnego, w tym podręczników przeznaczonych do kształcenia specjalnego, uwzgledniających podstawę programową kształcenia ogólnego określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 ustawy zmienianej w art. 1, nie stosuje się przepisu art. 22ao ust. 3 pkt 6a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 120.
+
+Postanowienia wydane na podstawie art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2018 r. poz. 2096](https://api.sejm.gov.pl/eli/acts/DU/2018/2096/text.html)), w toku postępowania o dopuszczenie podręcznika do użytku szkolnego, wszczętego i niezakończonego przed dniem 1 stycznia 2019 r., wygasają z tym dniem.
+
+### Art. 121.
+
+### 1.
+
+Do dnia 30 września 2019 r. Centralna Komisja Egzaminacyjna opracuje i ogłosi w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatory zawierające w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przeprowadzanym w roku szkolnym 2019/2020.
+
+### 2.
+
+Do dnia 1 września 2020 r. Centralna Komisja Egzaminacyjna opracuje i ogłosi w Biuletynie Informacji Publicznej na stronie Centralnej Komisji Egzaminacyjnej informatory zawierające w szczególności przykładowe zadania, jakie mogą wystąpić na egzaminie zawodowym, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przeprowadzanym od roku szkolnego 2020/2021.
+
+### Art. 122.
+
+### 1.
+
+Z dniem 1 września 2019 r. egzaminatorzy wpisani do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, stają się również egzaminatorami w zakresie egzaminu zawodowego w zawodach odpowiadających zawodom, w zakresie których był dokonany dotychczasowy wpis do ewidencji.
+
+### 2.
+
+Przepis ust. 1 stosuje się również do egzaminatorów wpisanych do ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, z zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jeżeli zakres zawodu lub kwalifikacji określonej w tych przepisach odpowiada zakresowi zawodu lub kwalifikacji określonej w klasyfikacji zawodów szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Do dnia 29 lutego 2028 r. do egzaminatorów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, stosuje się przepisy dotychczasowe, przepisy wydane na podstawie art. 9c ust. 8 ustawy zmienianej w art. 2, oraz przepisy wydane na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 4.
+
+W rozporządzeniu, o którym mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania, określi również warunki wynagradzania egzaminatorów z zakresu egzaminu potwierdzającego kwalifikacje w zawodzie, obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowej sześcioletniej szkoły podstawowej dla dorosłych i dotychczasowym gimnazjum dla dorosłych, obowiązkowych zajęć edukacyjnych określonych w ramowym planie nauczania dotychczasowego trzyletniego liceum ogólnokształcącego dla dorosłych i obowiązkowych zajęć edukacyjnych określonych w podstawie programowej kształcenia ogólnego dla zasadniczej szkoły zawodowej oraz warunki wynagradzania asystentów technicznych z zakresu egzaminu potwierdzającego kwalifikacje w zawodzie.
+
+### 5.
+
+Z dniem 1 marca 2028 r. okręgowe komisje egzaminacyjne zaprzestają prowadzenia ewidencji egzaminatorów, o której mowa w art. 9c ust. 2 pkt 7 ustawy zmienianej w art. 2, w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie.
+
+### Art. 123.
+
+### 1.
+
+Z dniem 1 września 2019 r. arbitrzy wpisani na listę arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stają się również arbitrami w zakresie egzaminu zawodowego w zawodach odpowiadających zawodom, w zakresie których był dokonany dotychczasowy wpis na listę.
+
+### 2.
+
+Przepis ust. 1 stosuje się również do arbitrów wpisanych na listę arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2, ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, z zawodu określonego w klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub klasyfikacji zawodów szkolnictwa zawodowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, jeżeli zakres zawodu lub kwalifikacji określonej w tych przepisach odpowiada zakresowi zawodu lub kwalifikacji określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Do dnia 29 lutego 2028 r. do arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, stosuje się przepisy dotychczasowe oraz przepisy wydane na podstawie art. 9cc ustawy zmienianej w art. 2.
+
+### 4.
+
+W rozporządzeniu, o którym mowa w przepisach wydanych na podstawie art. 9cc ustawy zmienianej w art. 2, minister właściwy do spraw oświaty i wychowania, określi również:
+
+### 1)
+
+tryb wyznaczania składu Kolegium Arbitrażu Egzaminacyjnego do rozpatrzenia odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym;
+
+### 2)
+
+stawki za jedno zadanie egzaminacyjne rozpatrzone w ramach odwołania od wyniku weryfikacji sumy punktów z części pisemnej egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, przez arbitrów i egzaminatorów, o których mowa w art. 9cb ust. 6, ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, oraz sposób i tryb zwrotu kosztów przejazdu i zakwaterowania tych arbitrów i egzaminatorów;
+
+### 3)
+
+wzór wniosku o wpis na listę arbitrów oraz wykaz dokumentów, które dołącza się do tego wniosku, biorąc pod uwagę konieczność wykazania przez osobę składającą wniosek spełnienia warunków, o których mowa w art. 9ca ust. 3-6 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, oraz zapewnienie możliwości weryfikacji spełnienia przez tę osobę tych warunków.
+
+### 5.
+
+Z dniem 1 marca 2028 r. minister właściwy do spraw oświaty i wychowania zaprzestaje prowadzenia listy arbitrów w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w art. 9ca ust. 1 pkt 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+### Art. 124.
+
+### 1.
+
+Do uczniów dotychczasowego czteroletniego technikum, którzy rozpoczęli kształcenie w latach szkolnych 2017/2018 i 2018/2019 stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., z tym że ocenianie osiągnięć edukacyjnych uczniów odbywa się w odniesieniu do wymagań określonych w podstawie programowej kształcenia ogólnego określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz efektów kształcenia określonych w podstawie programowej kształcenia w zawodach określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### 2.
+
+Do uczniów dotychczasowego czteroletniego technikum, którzy rozpoczęli kształcenie w roku szkolnym 2019/2020 stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., z tym że ocenianie osiągnięć edukacyjnych uczniów odbywa się w odniesieniu do wymagań określonych w podstawie programowej kształcenia ogólnego określonej w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2 lit. b ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., oraz efektów kształcenia i kryteriów weryfikacji określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Przepisy art. 44o i art. 44q ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+
+### 3.
+
+Do uczniów branżowej szkoły I stopnia będących absolwentami dotychczasowego gimnazjum, którzy rozpoczęli kształcenie w latach szkolnych 2017/2018 i 2018/2019, stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+### 4.
+
+Do uczniów dotychczasowych szkół policealnych dla dzieci i młodzieży oraz słuchaczy szkół policealnych dla dorosłych stosuje się przepisy rozdziału 3a ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+### Art. 125.
+
+Komunikat dyrektora Centralnej Komisji Egzaminacyjnej, o którym mowa w art. 9a ust. 2 pkt 10 lit. a tiret czwarte ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, dotyczy egzaminu zawodowego, o którym mowa w rozdziale 3b, w brzmieniu nadanym niniejszą ustawą, przeprowadzanego dla zdających, o których mowa w art. 44zzzb ust. 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz zdających, o których mowa w art. 131 ust. 2.
+
+### Art. 126.
+
+### 1.
+
+Egzamin maturalny, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jest przeprowadzany dla:
+
+### 1)
+
+absolwentów czteroletniego liceum ogólnokształcącego - począwszy od roku szkolnego 2022/2023,
+
+### 2)
+
+absolwentów pięcioletniego technikum - począwszy od roku szkolnego 2023/2024,
+
+### 3)
+
+absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci ośmioletniej szkoły podstawowej - począwszy od roku szkolnego 2023/2024
+
+- na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy zmienianej w art. 1.
+
+### 2.
+
+Począwszy od roku szkolnego:
+
+### 1)
+
+2027/2028 - dla absolwentów dotychczasowego trzyletniego liceum ogólnokształcącego,
+
+### 2)
+
+2028/2029 - dla absolwentów dotychczasowego czteroletniego technikum,
+
+### 3)
+
+2029/2030 - dla absolwentów branżowej szkoły II stopnia, którzy ukończyli kształcenie w branżowej szkole I stopnia jako absolwenci dotychczasowego gimnazjum
+
+- egzamin maturalny jest przeprowadzany zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, na podstawie wymagań określonych w podstawie programowej kształcenia ogólnego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 1 lit. c i d ustawy zmienianej w art. 1.
+
+### Art. 127.
+
+Począwszy od roku szkolnego 2021/2022 do absolwenta, o którym mowa w art. 297 ust. 2 pkt 2 i 3 ustawy zmienianej w art. 41, stosuje się przepis art. 44zzd ust. 4b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 128.
+
+Upoważnienia udzielone przez dyrektora okręgowej komisji egzaminacyjnej na podstawie art. 9c ust. 2 pkt 9 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, do przeprowadzenia części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie oraz części pisemnej tego egzaminu z wykorzystaniem systemu elektronicznego pozostają w mocy przez okres, na jaki zostały udzielone.
+
+### Art. 129.
+
+### 1.
+
+Osoby, które po dniu 31 stycznia 2021 r. po raz pierwszy złożą wniosek o dopuszczenie do egzaminu eksternistycznego zawodowego z zakresu co najmniej jednej z kwalifikacji wyodrębnionych w danym zawodzie, przystępują do egzaminu eksternistycznego zawodowego z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację - egzaminów eksternistycznych zawodowych ze wszystkich kwalifikacji wyodrębnionych w tym zawodzie, przeprowadzanych na podstawie wymagań określonych w podstawie programowej kształcenia w zawodzie szkolnictwa branżowego, określonej w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Osoby, które w okresie od dnia 31 stycznia 2019 r. do dnia 31 stycznia 2021 r. po raz pierwszy złożą wniosek o dopuszczenie do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu co najmniej jednej z kwalifikacji wyodrębnionych w danym zawodzie, przystępują, do dnia 31 sierpnia 2028 r., do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie z zakresu kwalifikacji wyodrębnionej w tym zawodzie, a w przypadku gdy w zawodzie wyodrębniono więcej niż jedną kwalifikację - egzaminów eksternistycznych potwierdzających kwalifikacje w zawodzie ze wszystkich kwalifikacji wyodrębnionych w tym zawodzie, przeprowadzanych na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### 3.
+
+Do dnia 31 sierpnia 2028 r. do egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie przeprowadzanego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach, określonej w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przystępują także osoby, o których mowa w art. 131 ust. 1 pkt 2-5, w przypadku gdy przystępują do tego egzaminu zgodnie z art. 44zzzu ust. 2 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym. Przepisu ust. 1 nie stosuje się.
+
+### Art. 130.
+
+### 1.
+
+Do egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe, z zastrzeżeniem ust. 2-4.
+
+### 2.
+
+W przeprowadzaniu części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, której rezultatem końcowym wykonania zadania lub zadań egzaminacyjnych jest wyrób lub usługa, może brać udział asystent techniczny.
+
+### 3.
+
+Do asystentów technicznych, biorących udział w przeprowadzaniu części praktycznej egzaminu potwierdzającego kwalifikacje w zawodzie, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 9c ust. 10a, 11 i 13 oraz art. 44zzzia ust. 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 4.
+
+W przepisach wydanych na podstawie art. 44zzzv ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania, określi również szczegółowe warunki i sposób przeprowadzania:
+
+### 1)
+
+egzaminu potwierdzającego kwalifikacje w zawodzie, o którym mowa w rozdziale 3b ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, z uwzględnieniem przepisów ust. 2 i 3, w odniesieniu do uczniów, słuchaczy, absolwentów i osób, o których mowa w art. 131 ust. 1, egzaminatorów, o których mowa w art. 122, oraz asystentów technicznych, o których mowa w ust. 3, oraz
+
+### 2)
+
+egzaminu zawodowego w odniesieniu do uczniów, o których mowa w art. 131 ust. 2 pkt 1.
+
+### Art. 131.
+
+### 1.
+
+Egzamin potwierdzający kwalifikacje w zawodzie, o którym mowa w art. 130 ust. 1, jest przeprowadzany dla:
+
+### 1)
+
+uczniów dotychczasowego czteroletniego technikum, w tym uczniów, o których mowa w art. 302 ust. 1 i 3 ustawy zmienianej w art. 41, w brzmieniu nadanym niniejszą ustawą, branżowej szkoły I stopnia, szkoły policealnej oraz słuchaczy szkoły policealnej, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym;
+
+### 2)
+
+absolwentów dotychczasowego czteroletniego technikum, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym - do zakończenia roku szkolnego 2026/2027;
+
+### 3)
+
+absolwentów branżowej szkoły I stopnia, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym - do zakończenia roku szkolnego 2025/2026;
+
+### 4)
+
+absolwentów szkoły policealnej, którzy realizowali podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym - do zakończenia roku szkolnego 2025/2026;
+
+### 5)
+
+osób, które ukończyły kwalifikacyjny kurs zawodowy prowadzony w oparciu o podstawę programową kształcenia w zawodach określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym - do dnia 31 października 2027 r.;
+
+### 6)
+
+osób dorosłych, które ukończyły praktyczną naukę zawodu dorosłych lub przyuczenie do pracy dorosłych, o których mowa odpowiednio w art. 53c i art. 53d ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2018 r. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215.](#gloss-0:18:)), jeżeli program przyuczenia do pracy uwzględniał wymagania określone w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym - do dnia 31 października 2027 r.
+
+### 2.
+
+Do egzaminu zawodowego przeprowadzanego zgodnie z przepisami rozdziału 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, przystępują:
+
+### 1)
+
+uczniowie dotychczasowego czteroletniego technikum, którzy realizowali podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+
+### 2)
+
+absolwenci, o których mowa w ust. 1 pkt 2 - począwszy od roku szkolnego 2027/2028;
+
+### 3)
+
+absolwenci, o których mowa w ust. 1 pkt 3 - począwszy od roku szkolnego 2026/2027;
+
+### 4)
+
+absolwenci, o których mowa w ust. 1 pkt 4 - począwszy od roku szkolnego 2026/2027;
+
+### 5)
+
+osoby, o których mowa w ust. 1 pkt 5 i 6 - począwszy od dnia 1 listopada 2027 r.;
+
+### 6)
+
+absolwenci, o których mowa w art. 302a ust. 1 pkt 1-3 ustawy zmienianej w art. 41 - począwszy od roku szkolnego 2025/2026;
+
+### 7)
+
+osoby, o których mowa w art. 302a ust. 1 pkt 4 i 5 ustawy zmienianej w art. 41 - począwszy od dnia 1 listopada 2025 r.
+
+### Art. 132.
+
+Komunikat w sprawie wykazu turniejów lub olimpiad tematycznych związanych z wybranym przedmiotem lub dziedziną wiedzy, o którym mowa w art. 44zzzw ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, uprawniających do zwolnienia z przystąpienia do części pisemnej egzaminu zawodowego, przeprowadzanego począwszy od roku szkolnego 2019/2020, minister właściwy do spraw oświaty i wychowania ogłosi w Biuletynie Informacji Publicznej do dnia 1 września 2019 r.
+
+### Art. 133.
+
+### 1.
+
+Do dnia 31 sierpnia 2028 r. w zakresie egzaminu potwierdzającego kwalifikacje w zawodzie stosuje się przepisy art. 20 pkt 1, art. 30 pkt 5, art. 42 pkt 10 i art. 55 ust. 1 i 2 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do dnia 31 sierpnia 2028 r. w ramach danych, o których mowa w art. 20 pkt 2 lit. b ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, w bazie danych systemu informacji oświatowej gromadzi się dane dotyczące uzyskania świadectwa potwierdzającego kwalifikację w zawodzie po zdaniu egzaminu eksternistycznego potwierdzającego kwalifikacje w zawodzie.
+
+### 3.
+
+Do dnia 31 sierpnia 2028 r. w ramach danych, o których mowa w art. 20 pkt 3 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, w bazie danych systemu informacji oświatowej gromadzi się informację o uzyskaniu dyplomu potwierdzającego kwalifikacje zawodowe.
+
+### 4.
+
+W przepisach wydanych na podstawie art. 31 ust. 1 ustawy zmienianej w art. 31, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw oświaty i wychowania określi również szczegółowy zakres danych dziedzinowych gromadzonych w systemie informacji oświatowej w zbiorach danych szkół i placówek oświatowych, zbiorach danych jednostek, zbiorach danych uczniów i zbiorach danych nauczycieli oraz terminy przekazywania do bazy danych systemu informacji oświatowej danych, o których mowa w art. 20 pkt 1 ustawy zmienianej w art. 31, w brzmieniu dotychczasowym.
+
+### Art. 134.
+
+W okresie od dnia 1 września 2019 r. do dnia 31 grudnia 2021 r., w terminie do dnia 10 października każdego roku kalendarzowego, według stanu za poprzedni rok szkolny, okręgowe komisje egzaminacyjne przekazują do systemu informacji oświatowej dane o liczbie:
+
+### 1)
+
+uczniów lub słuchaczy, niebędących uczniami lub słuchaczami niepełnosprawnymi, którzy uzyskali odpowiednio świadectwo dojrzałości, certyfikat kwalifikacji zawodowej, świadectwo potwierdzające kwalifikację w zawodzie, dyplom zawodowy lub dyplom potwierdzający kwalifikacje zawodowe, w liceach ogólnokształcących, branżowych szkołach II stopnia oraz szkołach policealnych, niebędących szkołami specjalnymi, w odniesieniu do każdej szkoły wraz z podaniem jej numeru w Rejestrze Szkół i Placówek Oświatowych lub jej numeru REGON;
+
+### 2)
+
+słuchaczy kwalifikacyjnych kursów zawodowych, którzy zdali egzamin zawodowy lub egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, w szkołach lub placówkach prowadzących kwalifikacyjne kursy zawodowe, w odniesieniu do każdej szkoły lub placówki oświatowej wraz z podaniem jej numeru w Rejestrze Szkół i Placówek Oświatowych lub jej numeru REGON.
+
+### Art. 135.
+
+Do dnia 1 września 2022 r. w ramach danych, o których mowa w art. 29 ust. 2 pkt 3 ustawy zmienianej w art. 31, oraz art. 43 ust. 2 pkt 3 ustawy zmienianej w art. 31, w brzmieniu dotychczasowym, gromadzi się i przekazuje się dane rzeczoznawców w zakresie dotyczącym rzeczoznawców do spraw podręczników do kształcenia w zawodach.
+
+### Art. 136.
+
+### 1.
+
+Egzamin czeladniczy, o którym mowa w art. 3 ust. 3b ustawy zmienianej w art. 7, w brzmieniu dotychczasowym, dla:
+
+### 1)
+
+uczniów dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia, będących młodocianymi pracownikami, o których mowa w przepisach wydanych na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215 i 2244.](#gloss-0:19:)), odbywających przygotowanie zawodowe u pracodawcy będącego rzemieślnikiem, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
+
+### 2)
+
+absolwentów dotychczasowej zasadniczej szkoły zawodowej i branżowej szkoły I stopnia, którzy odbyli przygotowanie zawodowe u pracodawcy będącego rzemieślnikiem zgodnie z przepisami wydanymi na podstawie art. 191 § 3 i art. 195 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, którzy realizowali podstawę programową kształcenia w zawodach, o której mowa w art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym
+
+- jest przeprowadzany do zakończenia roku szkolnego 2025/2026.
+
+### 2.
+
+Egzamin czeladniczy, o którym mowa w art. 3 ust. 3b ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą, jest przeprowadzany począwszy od roku szkolnego 2021/2022, dla osób, które realizowały od roku szkolnego 2019/2020 podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 137.
+
+### 1.
+
+Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu zawodowego oraz egzaminów eksternistycznych:
+
+### 1)
+
+w 2019 r. - 256 mln zł;
+
+### 2)
+
+w 2020 r. - 239 mln zł;
+
+### 3)
+
+w 2021 r. - 247 mln zł;
+
+### 4)
+
+w 2022 r. - 260 mln zł;
+
+### 5)
+
+w 2023 r. - 269 mln zł;
+
+### 6)
+
+w 2024 r. - 275 mln zł;
+
+### 7)
+
+w 2025 r. - 283 mln zł;
+
+### 8)
+
+w 2026 r. - 292 mln zł;
+
+### 9)
+
+w 2027 r. - 300 mln zł;
+
+### 10)
+
+w 2028 r. - 309 mln zł.
+
+### 2.
+
+Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
+
+### 3.
+
+W przypadku gdy łączne wydatki budżetu państwa na zadania związane z przeprowadzaniem egzaminu gimnazjalnego, egzaminu ósmoklasisty, egzaminu maturalnego, egzaminu potwierdzającego kwalifikacje w zawodzie, egzaminu zawodowego oraz egzaminów eksternistycznych powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, minister właściwy do spraw oświaty i wychowania określa warunki wynagradzania egzaminatorów i nauczycieli akademickich biorących udział w przeprowadzaniu części ustnej egzaminu maturalnego, oraz egzaminatorów i asystentów technicznych biorących udział w przeprowadzaniu egzaminu potwierdzającego kwalifikacje w zawodzie i egzaminu zawodowego, określone na podstawie przepisów wydanych na podstawie art. 22 ust. 2 pkt 13 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w związku z art. 122 ust. 4, w sposób powodujący wyeliminowanie zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1.
+
+### Art. 138.
+
+### 1.
+
+Ustala się następujący maksymalny limit wydatków z Funduszu Pracy przeznaczonych na realizację zadania, o którym mowa w art. 122 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą:
+
+### 1)
+
+w 2019 r. - 0 mln zł;
+
+### 2)
+
+w 2020 r. - 0 mln zł;
+
+### 3)
+
+w 2021 r. - 0 mln zł;
+
+### 4)
+
+w 2022 r. - 254 mln zł;
+
+### 5)
+
+w 2023 r. - 124 mln zł;
+
+### 6)
+
+w 2024 r. - 129 mln zł;
+
+### 7)
+
+w 2025 r. - 184 mln zł;
+
+### 8)
+
+w 2026 r. - 184 mln zł;
+
+### 9)
+
+w 2027 r. - 75 mln zł;
+
+### 10)
+
+w 2028 r. - 129 mln zł.
+
+### 2.
+
+Minister właściwy do spraw pracy monitoruje wykorzystanie limitów wydatków na zadanie, o których mowa w ust. 1 oraz, w razie potrzeby, wdraża mechanizm korygujący, o którym mowa w ust. 3.
+
+### 3.
+
+W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw pracy zastosuje mechanizm korygujący polegający na obniżeniu wysokości kwoty dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w art. 122 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w sposób powodujący wyeliminowanie zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1 do wysokości nie niższej niż wysokość określona w art. 122 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 4.
+
+Minister właściwy do spraw pracy ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” kwotę dofinansowania kosztów kształcenia jednego młodocianego pracownika, o której mowa w art. 122 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, pomniejszoną, zgodnie z ust. 3.
+
+### Art. 139.
+
+### 1.
+
+Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na realizację zadania związanego z awansem zawodowym nauczycieli szkół za granicą, o którym mowa w rozdziale 3b ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą:
+
+### 1)
+
+w 2021 r. - 3 mln zł;
+
+### 2)
+
+w 2022 r. - 3,5 mln zł;
+
+### 3)
+
+w 2023 r. - 3,5 mln zł;
+
+### 4)
+
+w 2024 r. - 3,5 mln zł;
+
+### 5)
+
+w 2025 r. - 3,5 mln zł;
+
+### 6)
+
+w 2026 r. - 4 mln zł;
+
+### 7)
+
+w 2027 r. - 4,5 mln zł;
+
+### 8)
+
+w 2028 r. - 4,5 mln zł;
+
+### 9)
+
+w 2029 r. - 3 mln zł;
+
+### 10)
+
+w 2030 r. - 2 mln zł.
+
+### 2.
+
+Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizm korygujący, o którym mowa w ust. 3.
+
+### 3.
+
+W przypadku zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, minister właściwy do spraw oświaty i wychowania zastosuje mechanizm korygujący polegający na zmianie kosztów realizacji zadania, o którym mowa w rozdziale 3b ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 140.
+
+### 1.
+
+Do postępowań w sprawie dokonania oceny pracy nauczyciela, wszczętych po dniu 31 sierpnia 2018 r. i niezakończonych przed dniem 1 stycznia 2019 r., stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do postępowań w sprawie dokonania oceny pracy nauczycieli, którzy w okresie od dnia 1 września 2018 r. do dnia 31 grudnia 2018 r. zakończyli staż na kolejny stopień awansu zawodowego, stosuje się przepisy dotychczasowe.
+
+### Art. 141.
+
+### 1.
+
+Oceny pracy nauczyciela kontraktowego i nauczyciela mianowanego dokonuje się po raz pierwszy na zasadach określonych w art. 6a ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, do dnia 31 sierpnia 2023 r., a jeżeli nauczyciel w tym okresie rozpocznie staż na kolejny stopień awansu zawodowego - po zakończeniu tego stażu.
+
+### 2.
+
+Oceny pracy nauczyciela dyplomowanego dokonuje się po raz pierwszy na zasadach określonych w art. 6a ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, do dnia 30 czerwca 2022 r.
+
+### 3.
+
+Przepisów ust. 1 i 2 nie stosuje się do nauczycieli legitymujących się oceną pracy dokonaną na zasadach określonych w art. 6a ustawy zmienianej w art. 6, w brzmieniu obowiązującym od dnia 1 września 2018 r. do dnia 31 grudnia 2018 r.
+
+### Art. 142.
+
+Dodatek, o którym mowa w art. 133 ust. 1 i 2 ustawy zmienianej w art. 44, przysługuje nauczycielowi dyplomowanemu legitymującemu się co najmniej trzyletnim okresem pracy w szkole od dnia nadania stopnia nauczyciela dyplomowanego oraz wyróżniającą oceną pracy dokonaną na zasadach określonych w art. 6a ustawy zmienianej w art. 6, w brzmieniu obowiązującym od dnia 1 września 2018 r. do dnia 31 grudnia 2018 r., w okresie ostatnich trzech lat pracy, albo wyróżniającą oceną pracy dokonaną na zasadach określonych w art. 6a ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, w okresie ostatnich trzech lat pracy.
+
+### Art. 143.
+
+Ze środków, o których mowa w art. 70a ust. 4 ustawy zmienianej w art. 6, można finansować również koszty obniżenia tygodniowego obowiązkowego wymiaru godzin zajęć dydaktycznych, wychowawczych i opiekuńczych nauczycielom, którym powierzono zadania doradcy metodycznego przed dniem 1 stycznia 2019 r. do końca okresu, na który zostały powierzone.
+
+### Art. 144.
+
+### 1.
+
+Prognozę zapotrzebowania na pracowników w zawodach szkolnictwa branżowego na krajowym i wojewódzkim rynku pracy, o której mowa w art. 46b ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, uwzględnia się po raz pierwszy w podziale części oświatowej subwencji ogólnej między poszczególne jednostki samorządu terytorialnego na 2020 r. przy różnicowaniu kwot ustalanych na uczniów objętych kształceniem zawodowym.
+
+### 2.
+
+W 2019 r. prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza nie później niż do dnia 31 marca 2019 r.
+
+### Art. 145.
+
+### 1.
+
+Osoby dorosłe, które rozpoczęły przygotowanie zawodowe dorosłych w formie praktycznej nauki zawodu dorosłych przed dniem 1 września 2019 r., zgodnie z programem praktycznej nauki zawodu dorosłych uwzględniającym wymagania określone w podstawie programowej kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, kontynuują tę naukę na dotychczasowych zasadach do dnia 31 października 2022 r.
+
+### 2.
+
+Osoby dorosłe, które rozpoczęły przygotowanie zawodowe dorosłych w formie przyuczenia do pracy dorosłych przed dniem 1 września 2019 r., zgodnie z programem przyuczenia do pracy dorosłych uwzględniającym wymagania określone w podstawie programowej kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, kontynuują to przyuczenie na dotychczasowych zasadach do dnia 31 października 2022 r.
+
+### 3.
+
+Do osób, o których mowa w ust. 1 i 2, stosuje się przepisy art. 2 ust. 1 pkt 27a lit. b i c, art. 53a ust. 2 pkt 1, art. 53c, art. 53d ust. 1 i 3 i ust. 4 pkt 2, art. 53h ust. 1 i 2 oraz art. 53l ust. 1 pkt 5 i ust. 2 ustawy zmienianej w art. 25, w brzmieniu dotychczasowym.
+
+### Art. 146.
+
+### 1.
+
+Przepisy art. 69 ust. 2 pkt 2a i 3a oraz art. 70 ust. 3 pkt 3 i 4 i ust. 4 ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą ustawą, oraz przepisy art. 69 ust. 2 pkt 2 i 3 ustawy zmienianej w art. 46, stosuje się do uchwał senatów uczelni ustalających warunki i tryb rekrutacji na studia, poczynając od uchwały dotyczącej roku akademickiego 2022/2023.
+
+### 2.
+
+W ramach rekrutacji na studia na rok akademicki 2020/2021 i 2021/2022 uczelnia może przeprowadzić dodatkowo egzaminy wstępne tylko w przypadku konieczności sprawdzenia uzdolnień artystycznych, sprawności fizycznej lub szczególnych predyspozycji do podejmowania studiów niesprawdzanych w trybie egzaminu maturalnego. Egzaminy te nie mogą dotyczyć przedmiotów objętych egzaminem maturalnym. Przepisy art. 70 ust. 4 zdanie trzecie i czwarte ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą, ustawą stosuje się.
+
+### 3.
+
+Przepisy ust. 2 oraz art. 70 ust. 3 pkt 1 i 2 oraz zdanie drugie, ust. 4a i 5 ustawy zmienianej w art. 46, w brzmieniu nadanym niniejszą ustawą, stosuje się do uchwał senatów uczelni ustalających warunki i tryb rekrutacji na studia, poczynając od uchwały dotyczącej roku akademickiego 2020/2021.
+
+### Art. 147.
+
+### 1.
+
+Do kandydatów i uczniów dotychczasowego czteroletniego technikum oraz branżowej szkoły I stopnia będących absolwentami dotychczasowego gimnazjum, którzy realizują podstawy programowe kształcenia w zawodach szkolnictwa branżowego, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się przepisy ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do uczniów szkół, o których mowa w art. 94 ust. 4, którzy realizują podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, oraz do uczniów, o których mowa w art. 282 ust. 2 i art. 283 ustawy zmienianej w art. 41, którzy realizują podstawę programową kształcenia w zawodach, określoną w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., stosuje się przepisy ustawy zmienianej w art. 30, w brzmieniu dotychczasowym.
+
+### Art. 148.
+
+### 1.
+
+W rozporządzeniach, o których mowa w przepisach wydanych na podstawie art. 69 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, określając wymagania, o których mowa w art. 69 ust. 1 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw środowiska uwzględnia również klasyfikację zawodów szkolnictwa zawodowego.
+
+### 2.
+
+W rozporządzeniach, o których mowa w przepisach wydanych na podstawie art. 69a ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, określając wymagania, o których mowa w art. 69a ust. 1 ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, minister właściwy do spraw środowiska uwzględnia również klasyfikację zawodów szkolnictwa zawodowego.
+
+### Art. 149.
+
+Przepisy art. 4a ust. 1, 2 i 4 ustawy zmienianej w art. 38, w brzmieniu nadanym niniejszą ustawą, stosuje się również do:
+
+### 1)
+
+uczniów dotychczasowych szkół ponadgimnazjalnych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r.;
+
+### 2)
+
+uczniów dotychczasowych szkół ponadgimnazjalnych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodach, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r.;
+
+### 3)
+
+uczniów dotychczasowych szkół ponadgimnazjalnych prowadzących kształcenie w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego, o której mowa w przepisach wydanych na podstawie art. 46 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, przewiduje kształcenie zgodnie z wymogami określonymi w Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. oraz kandydatów do tych szkół.
+
+### Art. 150.
+
+Do dotacji udzielanych na rok budżetowy 2020 i 2021 dla publicznych branżowych szkół II stopnia, będących szkołami specjalnymi, przyjmuje się wskaźnik zwiększający, o którym mowa w art. 14 ust. 2 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, w wysokości ustalonej przez daną jednostkę samorządu terytorialnego dla publicznych pięcioletnich techników, będących szkołami specjalnymi.
+
+### Art. 151.
+
+Przepisu art. 22 ust. 3 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do regulaminów otwartych konkursów ofert oraz kryteriów wyboru tych ofert, określonych w uchwałach rady gminy podjętych na podstawie art. 22 ust. 3 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, ogłoszonych przed dniem 1 stycznia 2019 r.
+
+### Art. 152.
+
+Do dotacji udzielonych na podstawie art. 80 i art. 90 ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 stycznia 2018 r., przepis art. 36 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+
+### Art. 153.
+
+Uchwały rady gminy podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 52 ust. 1 ustawy zmienianej w art. 44, określające wysokość opłat za korzystanie z wychowania przedszkolnego zgodnie z art. 52 ust. 3 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 52 ust. 1 ustawy zmienianej w art. 44, określających wysokość opłat za korzystanie z wychowania przedszkolnego zgodnie z art. 52 ust. 3 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 154.
+
+Do dnia 31 grudnia 2022 r. dotacje, o których mowa w art. 25 ust. 5 i art. 26 ust. 5 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, szkoły policealne otrzymują również na każdego słuchacza, który uzyskał dyplom potwierdzający kwalifikacje zawodowe. Przepisy ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+
+### Art. 155.
+
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe szkoły ponadgimnazjalne i szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnych kursów zawodowych przed dniem 1 stycznia 2019 r., otrzymują dotację, o której mowa w art. 31 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, do dnia 31 grudnia 2023 r. Przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+
+### Art. 156.
+
+### 1.
+
+Dotychczasowe niepubliczne szkoły ponadgimnazjalne i niepubliczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, otrzymują na każdego słuchacza kursu, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości stanowiącej sumę kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczył w kursie, oraz kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin.
+
+### 2.
+
+Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+
+### Art. 157.
+
+### 1.
+
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe publiczne szkoły ponadgimnazjalne i publiczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. pkt 2 ustawy zmienianej w art. 1, otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, który zdał egzamin potwierdzający kwalifikacje w zawodzie w zakresie danej kwalifikacji, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który zdał ten egzamin. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym słuchacz ukończył ten kurs.
+
+### 2.
+
+Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, w zakresie dotyczącym art. 31, stosuje się odpowiednio.
+
+### Art. 158.
+
+Uchwały organu stanowiącego jednostki samorządu terytorialnego podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 39 ust. 2 pkt 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc.
+
+### Art. 159.
+
+### 1.
+
+Prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne dotychczasowe publiczne szkoły ponadgimnazjalne i publiczne szkoły ponadpodstawowe, które rozpoczęły prowadzenie kwalifikacyjnego kursu zawodowego po dniu 31 grudnia 2018 r. w oparciu o podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 22 ust. 2 pkt 2a ustawy zmienianej w art. 2, w brzmieniu obowiązującym przed dniem 1 września 2017 r. lub podstawę programową kształcenia w zawodach szkolnictwa zawodowego, o której mowa w przepisach wydanych na podstawie art. 47 ust. pkt 2 ustawy zmienianej w art. 1, otrzymują na każdego słuchacza kwalifikacyjnego kursu zawodowego, dotację z budżetu powiatu w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej dla powiatu na takiego słuchacza kwalifikacyjnego kursu zawodowego, który uczestniczy w tym kursie. Dotację ustala się w wysokości kwoty przewidzianej w części oświatowej subwencji ogólnej w roku budżetowym, w którym rozpoczyna się ten kurs.
+
+### 2.
+
+Do dotacji, o której mowa w ust. 1, przepisy ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, w zakresie dotyczącym art. 31 ust. 1, stosuje się odpowiednio.
+
+### Art. 160.
+
+Do szkół niepublicznych nieposiadających uprawnień szkoły publicznej działających przed dniem 1 września 2019 r. przepis art. 32 ust. 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, stosuje się do czasu zakończenia kształcenia w tej szkole.
+
+### Art. 161.
+
+Niepubliczne szkoły artystyczne o uprawnieniach szkół publicznych stają się z dniem 1 września 2019 r. niepublicznymi szkołami artystycznymi o uprawnieniach publicznych szkół artystycznych.
+
+### Art. 162.
+
+Do podziału części oświatowej subwencji ogólnej na 2019 r. przyjmuje się dane zgromadzone w systemie informacji oświatowej, o którym mowa w art. 105 ustawy zmienianej w art. 31.
+
+### Art. 163.
+
+Do podziału części oświatowej subwencji ogólnej na 2022 r. nie uwzględnia się liczby słuchaczy, niebędących słuchaczami niepełnosprawnymi, którzy uzyskali świadectwo dojrzałości lub certyfikat kwalifikacji zawodowej w branżowej szkole II stopnia, niebędącej szkołą specjalną, o których mowa w art. 28 ust. 6 pkt 7 ustawy zmienianej w art. 23, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 164.
+
+W przypadku dotacji, o których mowa w art. 15- 21, art. 25, art. 26 oraz art. 28-32 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, udzielanych na rok 2019, warunek, o którym mowa w art. 33 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą, jest spełniony przez przekazanie informacji i danych, o których mowa w art. 31 ust. 1 pkt 1 i 2 oraz art. 33 ust. 1 pkt 1 i 2 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym.
+
+### Art. 165.
+
+Uchwały organu stanowiącego jednostki samorządu terytorialnego podjęte przed dniem 1 stycznia 2019 r. na podstawie art. 38 ust. 1 ustawy zmienianej w art. 44, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie uchwał podjętych na podstawie art. 38 ust. 1 ustawy zmienianej w art. 44, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 166.
+
+### 1.
+
+Osoby prawne niebędące jednostkami samorządu terytorialnego i osoby fizyczne, prowadzące niepubliczne szkoły, w tym niepubliczne szkoły artystyczne, lub niepubliczne placówki, które uzyskały wpis do ewidencji, o którym mowa w art. 168 ust. 1 i 2 ustawy zmienianej w art. 1, przed dniem 1 stycznia 2019 r., zgłoszą właściwemu organowi, o którym mowa art. 168 ust. 1 i 2 ustawy zmienianej w art. 1, w terminie do dnia 28 lutego 2019 r., zmiany w danych zawartych w zgłoszeniu, jeżeli dane te nie zawierają informacji, o których mowa w art. 168 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+W przypadku zgłoszenia do ewidencji, o którym mowa w art. 168 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożonego i nierozpatrzonego przed dniem 1 stycznia 2019 r., osoba prawna niebędąca jednostką samorządu terytorialnego lub osoba fizyczna, w terminie do dnia 28 lutego 2019 r. dostosuje zgłoszenie do art. 168 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, i przedłoży je właściwemu organowi, o którym mowa w art. 168 ust. 1 i 2 ustawy zmienianej w art. 1.
+
+### 3.
+
+Osoby prawne niebędące jednostkami samorządu terytorialnego i osoby fizyczne prowadzące niepubliczne szkoły, w tym niepubliczne szkoły artystyczne, lub niepubliczne placówki, które posiadają inne lokalizacje prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych niespełniające warunków zawartych w art. 168 ust. 4 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 sierpnia 2020 r. dostosują organizację niepublicznej szkoły, w tym niepublicznej szkoły artystycznej, lub niepublicznej placówki do przepisów w art. 168 ust. 4 pkt 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. W tym przypadku zastosowanie mają przepisy art. 168 ust. 13 ustawy zmienianej w art. 1.
+
+### Art. 167.
+
+Minister właściwy do spraw oświaty i wychowania w przepisach wykonawczych wydanych na podstawie art. 164 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, może zakresem spraw objąć również dotychczasową szkołę policealną dla dzieci i młodzieży oraz dotychczasową szkołę policealną dla dorosłych.
+
+### Art. 168.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 111, art. 117 ust. 5 i art. 120 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia kształcenia w dotychczasowej szkole policealnej dla dzieci i młodzieży oraz dotychczasowej szkole policealnej dla dorosłych, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 44zb ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, zachowują moc do czasu zakończenia kształcenia przez uczniów i słuchaczy, o których mowa w art. 124 ust. 3 i 4.
+
+### Art. 169.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 47 ust. 1 pkt 2 w związku z art. 53 ust. 5, art. 47 ust. 1 pkt 3 i 4 oraz ust. 3 pkt 1, art. 47 ust. 1 pkt 3 w związku z art. 53 ust. 5, art. 53 ust. 1, art. 60 ust. 6, art. 113, art. 162 oraz art. 164 ust. 5 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 46a ust. 2, art. 47 ust. 1 pkt 3, art. 26a ust. 3, art. 47 ust. 3 pkt 1, art. 47 ust. 1a, art. 53 ust. 1, art. 60 ust. 6, art. 113, art. 162 oraz art. 164 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 46 ust. 1 i art. 47 ust. 1 pkt 2 ustawy zmienianej w art. 1, zachowują moc do dnia 31 sierpnia 2028 r., oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 3.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 11 ust. 2, art. 11 ust. 2 w związku z art. 32a ust. 4, art. 22 ust. 2 pkt 8 w związku z art. 32a ust. 4 i art. 90u ust. 4 pkt 2 ustawy zmienianej w art. 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 2, art. 11 ust. 4, art. 22 ust. 6 i art. 90u ust. 4 pkt 2 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 4.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 3 ustawy zmienianej w art. 6, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 3 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 5.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 81 ust. 1 ustawy zmienianej w art. 30, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 81 ust. 1 ustawy zmienianej w art. 30, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2019 r., oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 6.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 69 oraz art. 69a ustawy zmienianej w art. 32, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 69 oraz art. 69a ustawy zmienianej w art. 32, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### 7.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 10 ust. 4 ustawy zmienianej w art. 39, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ust. 4 ustawy zmienianej w art. 39, w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tych przepisów.
+
+### Art. 170.
+
+Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 20 lit. a, art. 4 pkt 2-5, art. 31 pkt 4, pkt 5 lit. e, pkt 10, pkt 15 lit. c i pkt 24, art. 41 pkt 2 i 3 oraz art. 89, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 1 pkt 25 lit. a, art. 2 pkt 75, pkt 101 lit. c i pkt 107, art. 6 pkt 2 lit. b w zakresie art. 3 pkt 2b, pkt 5, 7-9, 16, 17 i 21 oraz art. 41 pkt 8, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+### 3)
+
+art. 1 pkt 17, 18, pkt 20 lit. b-e, pkt 23 w zakresie art. 46b, pkt 26 lit. a i b, pkt 29, 30, pkt 34 lit. e, pkt 35 lit. b, pkt 36, pkt 37 lit. b i c, pkt 45, pkt 51 lit. f, pkt 58-73, pkt 77 lit. c i lit. j w zakresie art. 168 ust. 14 i 15, pkt 79 lit. c i pkt 80, art. 2 pkt 2 lit. f, pkt 4 lit. a, pkt 6 lit. b, pkt 8, 14, 15, pkt 16 lit. a, pkt 17-26, pkt 73 lit. a, b i lit. c w zakresie ust. 3a, art. 6 pkt 3, pkt 11, pkt 18 lit. c, pkt 24 lit. a, art. 9, art. 10, art. 17, art. 23 pkt 1 w zakresie art. 28 ust. 6 pkt 7, art. 23 pkt 2 w zakresie art. 28 ust. 6 pkt 8, art. 25 pkt 4 lit. a i pkt 4 lit. b w zakresie art. 22 ust. 5a i 5c, art. 25 pkt 11 i 12, art. 30 pkt 1 i 2, pkt 3 lit. b i pkt 6-15, art. 31 pkt 13, 16-18, 20 i 22, art. 38, art. 41 pkt 1, 4-7, 9-11 i 21-23, art. 44 pkt 1 lit. e, pkt 2, 4-8, pkt 10 lit. a i b, pkt 11-13, 15, 16, pkt 17 lit. a tiret pierwsze i tiret drugie w zakresie art. 35 ust. 1 pkt 1 lit. b, pkt 17 lit. a tiret trzecie, pkt 17 lit. c i d, pkt 18 lit. a i lit. b tiret pierwsze i drugie, pkt 19-28 i pkt 34-36, art. 46 pkt 2 lit. a w zakresie art. 70 ust. 3 pkt 1 i 2 oraz zdania drugiego i ust. 4, art. 46 pkt 2 lit. b i c, art. 47-81, art. 90, art. 92, art. 93, art. 95, art. 97, art. 98, art. 100, art. 102-118, art. 120, art. 121, art. 129, art. 132, art. 135, art. 137, art. 138, art. 140-142, art. 143, art. 144, art. 146, art. 147, art. 150-152, art. 153, art. 155-159, art. 162 oraz art. 164-169, które wchodzą w życie z dniem 1 stycznia 2019 r.;
+
+### 4)
+
+art. 2 pkt 16 lit. b, art. 23 pkt 1 w zakresie art. 28 ust. 6 pkt 6, art. 23 pkt 2 w zakresie art. 28 ust. 6 pkt 9, art. 44 pkt 17 lit. a tiret drugie w zakresie art. 35 ust. 1 pkt 1 lit. a i aa, pkt 17 lit. b i pkt 18 lit. b tiret trzecie oraz art. 119, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+
+### 5)
+
+art. 6 pkt 13, który wchodzi w życie z dniem 1 września 2020 r.;
+
+### 6)
+
+art. 6 pkt 1 lit. b, pkt 2 lit. a, pkt 2 lit. b w zakresie art. 3 pkt 2a, pkt 2 lit. c, pkt 6, pkt 10 i pkt 24 lit. c oraz art. 139, które wchodzą w życie z dniem 1 stycznia 2021 r.;
+
+### 7)
+
+art. 7, który wchodzi w życie z dniem 1 września 2021 r.;
+
+### 8)
+
+art. 31 pkt 21 oraz art. 46 pkt 1 i pkt 2 lit. a w zakresie art. 70 ust. 3 pkt 3 i 4, które wchodzą w życie z dniem 1 stycznia 2022 r;
+
+### 9)
+
+art. 1 pkt 40 lit. b i pkt 42, które wchodzą w życie z dniem 1 września 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych, ustawę z dnia 26 stycznia 1982 r. - Karta Nauczyciela, ustawę z dnia 22 marca 1989 r. o rzemiośle, ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 27 czerwca 1997 r. o służbie medycyny pracy, ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 6 września 2001 r. o transporcie drogowym, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego, ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 5 stycznia 2011 r. o kierujących pojazdami, ustawę z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, ustawę z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim, ustawę z dnia 19 grudnia 2014 r. o rybołówstwie morskim, ustawę z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, ustawę z dnia 20 lutego 2015 r. o odnawialnych źródłach energii, ustawę z dnia 5 sierpnia 2015 r. o pracy na morzu, ustawę z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe, ustawę z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami, ustawę z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie, ustawę z dnia 27 października 2017 r. o finansowaniu zadań oświatowych, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172 i 2244. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215 i 2244. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077 i 2102. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242 i 2244. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243 i 2244. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 12, 79, 138, 650, 1039, 1480, 1481, 1544, 1592 i 1629. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 138, 650, 723, 730, 1544, 1560 i 1669. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172 i 2244. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1563, 1629, 1637 i 1669. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 723, 1000, 1039, 1499, 1544, 1577, 1654 i 2193. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544, 1629, 2172, 2244 i 2245. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215, 2244 i 2245. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192 i 2215. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1000, 1076, 1608, 1629, 2215 i 2244.

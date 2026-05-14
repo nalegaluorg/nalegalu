@@ -1,0 +1,268 @@
+---
+title: Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 listopada 2017 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin
+address: WDU20170002378
+eli: DU/2017/2378
+publisher: DU
+year: 2017
+pos: 2378
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 30 listopada 2017 r. zmieniające rozporządzenie w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 2378 |
+| ISAP | WDU20170002378 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-11-30 |
+| Data wydania | 2017-12-20 |
+| Wejście w życie | 2018-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/2378/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/2378) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Tekst załącznika](#part_2)
+
+- [Załącznik nr 2 - Tekst załącznika](#part_3)
+
+- [Załącznik nr 3 - Tekst załącznika](#part_4)
+
+- [Załącznik nr 4 - Wymagania jakościowe dla materiału siewnego roślin pastewnych kategorii handlowy](#part_5)
+
+- [Załącznik nr 5 - Wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy](#part_6)
+
+TOC
+
+## Treść rozporządzenia
+
+[2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają postanowienia dyrektywy wykonawczej Komisji (UE) 2016/2109 z dnia 1 grudnia 2016 r. zmieniającej dyrektywę Rady 66/401/EWG w odniesieniu do włączenia nowych gatunków oraz nazwy botanicznej gatunku Lolium × boucheanum Kunth (Dz. Urz. UE L 327 z 02.12.2016, str. 59).](#gloss-0:2:) Na podstawie art. 40 ustawy z dnia 9 listopada 2012 r. o nasiennictwie ([Dz. U. z 2017 r. poz. 633](https://api.sejm.gov.pl/eli/acts/DU/2017/633/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 kwietnia 2013 r. w sprawie terminów składania wniosków o dokonanie oceny polowej materiału siewnego poszczególnych grup roślin lub gatunków roślin rolniczych i warzywnych oraz szczegółowych wymagań w zakresie wytwarzania i jakości materiału siewnego tych roślin ([Dz. U. poz. 517](https://api.sejm.gov.pl/eli/acts/DU/2013/517/text.html), [z 2014 r. poz. 441](https://api.sejm.gov.pl/eli/acts/DU/2014/441/text.html) i [1651](https://api.sejm.gov.pl/eli/acts/DU/2014/1651/text.html), [z 2016 r. poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2016/926/text.html) oraz [z 2017 r. poz. 1003](https://api.sejm.gov.pl/eli/acts/DU/2017/1003/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w załączniku nr 2 do rozporządzenia w części II „Wymagania dotyczące wytwarzania materiału siewnego roślin pastewnych”:
+
+### a)
+
+ust. 1 otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia,
+
+### b)
+
+w ust. 2 pkt 4 otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+
+### 2)
+
+w załączniku nr 5 do rozporządzenia:
+
+### a)
+
+tabele 5-7 otrzymują brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia,
+
+### b)
+
+część „Wymagania jakościowe dla materiału siewnego roślin pastewnych kategorii handlowy” otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+
+### 3)
+
+załącznik nr 8 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 5 do niniejszego rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Przepisy niniejszego rozporządzenia w zakresie swojej regulacji wdrażają postanowienia dyrektywy wykonawczej Komisji (UE) 2016/2109 z dnia 1 grudnia 2016 r. zmieniającej dyrektywę Rady 66/401/EWG w odniesieniu do włączenia nowych gatunków oraz nazwy botanicznej gatunku Lolium × boucheanum Kunth (Dz. Urz. UE L 327 z 02.12.2016, str. 59).
+
+## Załącznik nr 1 - Tekst załącznika
+
+### 1.
+
+Gatunki roślin pastewnych i obowiązujący najniższy stopień kwalifikacji:
+
+### 1)
+
+bobowate (motylkowate) Lp. Nazwa polska Nazwa łacińska Najniższy stopień kwalifikacji1) dla poszczególnych gatunków bobowate grubonasienne 1 Biserula grzebieniasta (syn. traganek grzebieniasty) Biserrula pelecinus L. C/2 2 Bobik Vicia faba L. (partim) C/1 3 Groch siewny Pisum sativum L. (partim) C/2 4 Groszek ciecierzycowaty Lathyrus cicera L. C/2 5 Łubin biały Lupinus albus L. C/2 6 Łubin wąskolistny Lupinus angustifolius L. C/2 7 Łubin żółty Lupinus luteus L. C/2 8 Wyka bengalska Vicia benghalensis L. C/2 9 Wyka kosmata Vicia villosa Roth C/2 10 Wyka siewna Vicia sativa L. C/2 bobowate drobnonasienne 1 Esparceta siewna Onobrychis viciifolia Scop. C/1 2 Komonica zwyczajna Lotus corniculatus L. C/1 3 Koniczyna biała Trifolium repens L. C/1 4 Koniczyna białoróżowa (koniczyna szwedzka) Trifolium hybridum L. C/1 5 Koniczyna gruczołkowata Trifolium glanduliferum Boiss. C/2 6 Koniczyna kosmata Trifolium hirtum All. C/2 7 Koniczyna krwistoczerwona (inkarnatka) Trifolium incarnatum L. C/1 8 Koniczyna łąkowa (koniczyna czerwona) Trifolium pratense L. C/1 9 Koniczyna łuskowata Trifolium squarrosum L. C/2 10 Koniczyna Michela Trifolium michelianum Savi C/2 11 Koniczyna perska Trifolium resupinatum L. C/1 12 Koniczyna pęcherzykowata Trifolium vesiculosum Savi C/2 13 Koniczyna podziemna Trifolium subterraneum L. C/2 14 Koniczyna przewężona Trifolium isthmocarpum Brot. C/2 15 Koniczyna rozdęta Trifolium fragiferum L. C/2 16 Lucerna chmielowa Medicago lupulina L. C/2 17 Lucerna kolczasta Medicago doliata Carmign. C/2 18 Lucerna mieszańcowa Medicago x varia T. Martyn C/2 19 Lucerna nadbrzeżna Medicago littoralis Rohde ex Loisel. C/2 20 Lucerna ostrostrąkowa Medicago murex Willd. C/2 21 Lucerna pomarszczona Medicago rugosa Desr. C/2 22 Lucerna siewna Medicago sativa L. C/2 23 Lucerna ściętolistkowa Medicago truncatula Gaertn. C/2 24 Lucerna tarczowata Medicago scutellata (L.) Mill. C/2 25 Lucerna wielokształtna Medicago polymorpha L. C/2 26 Lucerna włoska Medicago italica (Mill.) Fiori C/2 27 Rutwica wschodnia Galega orientalis Lam. C/2 28 Seradela pastewna Ornithopus sativus Brot. C/2 29 Seradela zwarta Ornithopus compressus L. C/2
+
+### 2)
+
+wiechlinowate (trawy) Lp. Nazwa polska Nazwa łacińska Najniższy stopień kwalifikacji1) dla poszczególnych gatunków 1 Festulolium Festuca spp. x Lolium spp. C/1 2 Kostrzewa czerwona Festuca rubra L. C/1 3 Kostrzewa łąkowa Festuca pratensis Huds. C/1 4 Kostrzewa nitkowata Festuca filiformis Pourr. C/1 5 Kostrzewa owcza Festuca ovina L. C/1 6 Kostrzewa szczeciniasta Festuca trachyphylla (Hack.) Krajina C/1 7 Kostrzewa trzcinowa Festuca arundinacea Schreb. C/1 8 Kupkówka pospolita Dactylis glomerata L. C/1 9 Mietlica biaława Agrostis giganthea Roth C/1 10 Mietlica pospolita Agrostis capillaris L. C/1 11 Mietlica psia Agrostis canina L. C/1 12 Mietlica rozłogowa Agrostis stolonifera L. C/1 13 Rajgras wyniosły (rajgras francuski) Arrhenatherum elatius (L.) Beauv. C/1 14 Stokłosa uniolowata Bromus catharticus Vahl. C/1 15 Tymotka kolankowata Phleum nodosum L. C/1 16 Tymotka łąkowa Phleum pratense L. C/1 17 Wiechlina błotna Poa palustris L. C/1 18 Wiechlina gajowa Poa nemoralis L. C/1 19 Wiechlina łąkowa Poa pratensis L. C/1 20 Wiechlina zwyczajna Poa trivalis L. C/1 21 Wyczyniec łąkowy Alopecurus pratensis L. C/1 22 Życica mieszańcowa (rajgras oldenburski) Lolium x hybridum Hausskn C/1 23 Życica trwała (rajgras angielski) Lolium perenne L. C/1 24 Życica wielokwiatowa (rajgras włoski i rajgras holenderski) Lolium multiflorum Lam. C/1
+
+### 3)
+
+inne gatunki Lp. Nazwa polska Nazwa łacińska Najniższy stopień kwalifikacji1)dla poszczególnych gatunków 1 Babka lancetowata Plantago lanceolata L. C/2 2 Brukiew Brassica napus L. var. napobrassica (L.) Rchb. C/1 3 Facelia błękitna Phacelia tanacetifolia Benth. C/1 4 Kapusta pastewna Brassica oleracea L. convar. acephala (D.C.) Alef. var. medullosa Thell. var. viridis L. C/1 5 Rzodkiew oleista Raphanus sativus L. var. oleiformis Pers. C/1
+
+Objaśnienie 1) Jeżeli w upoważnieniu dla prowadzącego obrót hodowca nie ustalił wyższego stopnia kwalifikacji.
+
+## Załącznik nr 2 - Tekst załącznika
+
+### 4)
+
+czystość odmianowa Bobowate grubonasienne Bobowate drobnonasienne Wiechlinowate (trawy) Inne gatunki 1) dla grochu i bobiku minimalna czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny - 99,7%, b) kwalifikowany:- C/1 - 99,0%,- C/2 - 98,0%;2) dla pozostałych gatunków czystość odmianowa wynosi dla materiału siewnego kategorii: a) elitarny- 1 roślina/30 m2, b) kwalifikowany- 1 roślina/10 m2 1) dla koniczyny podziemnej oraz Medicago spp., z wyłączeniem Medicago lupulina L, Medicago x varia T. Martyn, Medicago sativa L, minimalna czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny - 99,5%, b) kwalifikowany:- C/1 - 98,0%,- C/2 - 95,0%;2) dla pozostałych gatunków czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny- 1 roślina/30 m2, b) kwalifikowany- 1 roślina/10 m2 1) dla wiechliny łąkowej minimalna czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny- 1 roślina/20 m2, b) kwalifikowany- 4 rośliny/10 m2, c) kwalifikowanyodmianapomiktycznych jednoklonalnych - 6 roślin/10 m2;2) dla pozostałych gatunków traw czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny- 1 roślina/30 m2, b) kwalifikowany- 1 roślina/10 m2 1) dla kapusty pastewnej minimalna czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny - 99,7%, b) kwalifikowany - 99,0%;2) dla pozostałych gatunków minimalna czystość odmianowa wynosi dla plantacji nasiennej, na której jest wytwarzany materiał siewny kategorii: a) elitarny- 1 roślina/30 m2, b) kwalifikowany- 1 roślina/10 m2
+
+## Załącznik nr 3 - Tekst załącznika
+
+### Tabela 5
+
+Dopuszczalna wielkość partii oraz minimalna masa prób do badań dla roślin pastewnych Gatunek Wielkość partii1) Minimalna masa próby pobieranej z partii2) Minimalna masa próby do oznaczeń określonych w kolumnach 6-14 tabeli 6 oraz w kolumnach 12-14 tabeli 7 w tonach w gramach 1 2 3 4 ROŚLINY BOBOWATE GRUBONASIENNE (ROŚLINY STRĄCZKOWE) Biserula grzebieniasta (syn. traganek grzebieniasty)Biserrula pelecinus L. 10 30 3 BobikVicia faba L (partim) 30 1000 1000 Groch siewnyPisum sativum L (partim) 30 1000 1000 Groszek ciecierzycowatyLathyrus cicera L. 25 1000 140 Łubin białyLupinus albus L. 30 1000 1000 Łubin wąskolistnyLupinus angustifolius L. 30 1000 1000 Łubin żółtyLupinus luteus L. 30 1000 1000 Wyka bengalskaVicia benghalensis L. 20 1000 120 Wyka kosmataVicia villosa Roth 30 1000 1000 Wyka pannońskaVicia pannonica Crantz 30 1000 1000 Wyka siewnaVicia sativa L 30 1000 1000 ROŚLINY BOBOWATE DROBNONASIENNE (ROŚLINY MOTYLKOWATE DROBNONASIENNE) Esparceta siewnaOnobrychis viciifolia Scop. owoce 10 600 600 nasiona 10 400 400 Komonica zwyczajna Lotus corniculatus L. 10 200 30 Koniczyna białaTrifolium repens L. 10 200 20 Koniczyna białoróżowa (koniczyna szwedzka)Trifolium hybridum L. 10 200 20 Koniczyna egipska (koniczyna aleksandryjska)Trifolium alexandrinum L 10 400 60 Koniczyna gruczołkowataTrifolium glanduliferum Boiss. 10 20 2 Koniczyna kosmataTrifolium hirtum All. 10 70 7 Koniczyna krwistoczerwona (inkarnatka)Trifolium incarnatum L. 10 500 80 Koniczyna łąkowa (koniczyna czerwona)Trifolium pratense L. 10 300 50 Koniczyna łuskowataTrifolium squarrosum L 10 150 15 Koniczyna MichelaTrifolium michelianum Savi 10 25 2 Koniczyna perskaTrifolium resupinatum L. 10 200 20 Koniczyna pęcherzykowataTrifolium vesiculosum Savi 10 100 3 Koniczyna podziemnaTrifolium subterraneum L. 10 250 25 Koniczyna przewężonaTrifolium isthmocarpum Brot. 10 100 3 Koniczyna rozdętaTrifolium fragiferum L. 10 40 4 Kozieradka pospolita (koniczyna grecka)Trigonella foenum-graecum L. 10 500 450 Lucerna chmielowaMedicago lupulina L. 10 300 50 Lucerna kolczastaMedicago doliata Carmign. 10 100 10 Lucerna mieszańcowa (lucerna piaskowa) Medicago x varia T. Martyn 10 300 50 Lucerna nadbrzeżnaMedicago littoralis Rohde ex Loisel. 10 70 7 Lucerna ostrostrąkowaMedicago murex Willd. 10 50 5 Lucerna pomarszczonaMedicago rugosa Desr. 10 180 18 Lucerna siewna Medicago sativa L. 10 300 50 Lucerna ściętolistkowaMedicago truncatula Gaertn. 10 100 10 Lucerna tarczowataMedicago scutellata (L.) Mill. 10 400 40 Lucerna wielokształtnaMedicago polymorpha L. 10 70 7 Lucerna włoskaMedicago italica (Mill.) Fiori 10 100 10 Rutwica wschodniaGalega orientalis Lam. 10 250 200 Seradela pastewnaOrnithopus sativus Brot. 10 90 9 Seradela zwartaOrnithopus compressus L. 10 120 12 Siekiernica włoskaHedysarum coronarium L. owoce 10 1 000 300 nasiona 10 400 120 WIECHLINOWATE (TRAWY)3) Cynodon palczastyCynodon dactylon (L.) Pers. 10 50 5 Festuloliumx Festulolium Asch. & Graebn. 10 200 60 Konietlica łąkowaTrisetum flavescens (L) P. Beauv. 10 50 5 Kostrzewa czerwonaFestuca rubra L. 10 100 30 Kostrzewa łąkowaFestuca pratensis Huds. 10 100 50 Kostrzewa nitkowataFestuca filiformis Pourr. 10 100 30 Kostrzewa owczaFestuca ovina L 10 100 30 Kostrzewa szczeciniastaFestuca trachyphylla (Hack.) Krajina 10 100 30 Kostrzewa trzcinowaFestuca arundinacea Schreber 10 100 50 Kupkówka pospolitaDactylis glomerata L. 10 100 30 Mietlica białawaAgrostis gigantea Roth 10 50 5 Mietlica pospolitaAgrostis capillaris L. 10 50 5 Mietlica psiaAgrostis canina L. 10 50 5 Mietlica rozłogowaAgrostis stolonifera L. 10 50 5 Mozga HardingaPhalaris aquatica L 10 100 50 Rajgras wyniosły (rajgras francuski)Arrhenatherum elatius (L) P. Beauv. ex J. Presl & C. Presl 10 200 80 Stokłosa alaskańskaBromus sitchensis Trin. 10 200 200 Stokłosa uniolowataBromus catharticus Vahl 10 200 200 Tymotka kolankowataPhleum nodosum L. 10 50 10 Tymotka łąkowaPhleum pratense L. 10 50 10 Wiechlina błotnaPoa palustris L. 10 50 5 Wiechlina gajowaPoa nemoralis L. 10 50 5 Wiechlina łąkowaPoa pratensis L. 10 50 5 Wiechlina rocznaPoa annua L. 10 50 10 Wiechlina zwyczajnaPoa trivialis L 10 50 5 Wyczyniec łąkowyAlopecurus pratensis L. 10 100 30 Życica mieszańcowa (rajgras oldenburski)Lolium x hybridum Hausskn 10 200 60 Życica trwała (rajgras angielski)Lolium perenne 10 200 60 Życica wielokwiatowa (rajgras włoski i rajgras holenderski)Lolium multiflorum Lam. 10 200 60 INNE GATUNKI Babka lancetowataPlantago lanceolata L. 5 20 2 Brukiew pastewnaBrassica napus L var. napobrassica (L) Rchb. 10 200 100 Facelia błękitnaPhacelia tanacetifolia Benth. 10 300 40 Kapusta pastewnaBrassica oleracea L convar. acephala (D.C.) Alef. var. medullosa Thell. + var. viridis L. 10 200 100 Rzodkiew oleistaRaphanus sativus L var. oleiformis Pers. 10 300 300 Objaśnienia: 1) Wielkość partii może zostać przekroczona nie więcej niż o 5% masy podanej w tabeli. 2) Masa próby materiału siewnego przeznaczonego do okresowej oceny zdolności kiełkowania powinna stanowić co najmniej 1/4 podanej masy próby. 3) Maksymalna masa partii materiału siewnego traw może zostać zwiększona do 25 ton, jeżeli przedsiębiorca uzyskał na to zgodę właściwego wojewódzkiego inspektora ochrony roślin i nasiennictwa.
+
+### Tabela 6
+
+Wymagania jakościowe dla nasion roślin pastewnych kategorii elitarne Gatunek minimalna zdolność kiełkowania maksymalna zawartość nasion twardych Czystość analityczna Maksymalna zawartość nasion innych gatunków roślin w próbie o masie określonej w kolumnie 4 tabeli 5 Nasiona łubinu innej barwy lub gorzkie minimalna czystość analityczna Maksymalna zawartość nasion innych gatunków roślin łącznie jednego gatunku Elytrigia repens (Agropyron repens) Alopecurus myosuroides Melilotus spp. Raphanus raphanistrum Sinapis arvensis Avena fatua, Avena sterilis Cuscuta spp. Rumex spp., oprócz Rumex acetosella i Rumex maritimus % nasion czystych % wagowy liczba nasion w próbie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 ROŚLINY BOBOWATE GRUBONASIENNE (ROŚLINY STRĄCZKOWE) Biserula grzebieniasta (syn. traganek grzebieniasty)Biserrula pelecinus L 70 98 0,3 20 0(i) 0((j)(k) 5 BobikVicia faba L. (partim) 80 (a) (b) 5 98 0,3 20 0 (u) 0 0(j) 2 Groch siewnyPisum sativum L. (partim) 80 (a) 98 0,3 20 0 (u) 0 0(j) 2 Groszek ciecierzycowatyLathyrus cicera L. 80 95 0,3 20 0 (u) 0(i) 0 (j) (k) 5 Łubin białyLupinus albus L. 80 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0(j) 2 (o) (P) Łubin wąskolistnyLupinus angustifolius L. 75 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0(j) 2 (o) (P) Łubin żółtyLupinus luteus L. 80 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0(j) 2 (o) (P) Wyka bengalskaVicia benghalensis L 80(b) 20 97 (e) 0,3 20 0 (u) 0(i) 0 (j) (k) 5 Wyka kosmataVicia villosa Roth 85 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0 (j) 2 Wyka pannońskaVicia pannonica Crantz 85 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0 (j) 2 Wyka siewnaVicia sativa L. 85 (a) (b) 20 98 0,3 20 0 (u) 0(i) 0 (j) 2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 ROŚLINY BOBOWATE DROBNONASIENNE (ROŚLINY MOTYLKOWATE DROBNONASIENNE) Esparceta siewnaOnobrychis viciifolia Scop. 75 (a) (b) 20 95 0,3 20 0 (u) 0 0(j) 2 Komonica zwyczajnaLotus corniculatus L. 75 (a) (b) 40 95 0,3 20 0(w) 0 0 (l) (m) 3 Koniczyna białaTrifolium repens L. 80 (a) (b) 40 97 0,3 20 0(w) 0 0 (l) (m) 5 Koniczyna białoróżowa (koniczyna szwedzka)Trifolium hybridum L. 80 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 3 Koniczyna egipska (koniczyna aleksandryjska)Trifolium alexandrinum L. 80 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 3 Koniczyna gruczołkowataTrifolium glanduliferum Boiss. 70 (b) 30 98 0,3 20 0(i) (j)(k) 5 Koniczyna kosmataTrifolium hirtum All. 70 98 0,3 20 0(i) 0 (j) (k) 5 Koniczyna krwistoczerwona (inkarnatka)Trifolium incarnatum L. 75 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 3 Koniczyna łąkowa (koniczyna czerwona)Trifolium pratense L. 80 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 5 Koniczyna łuskowataTrifolium squarrosum L. 75 (b) 20 97 0,3 20 0 0 (l) (m) 5 Koniczyna MichelaTrifolium michelianum Savi 75 (b) 30 98 0,3 20 0(i) 0 (j) (k) 5 Koniczyna perskaTrifolium resupinatum L. 80 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 3 Koniczyna pęcherzykowataTrifolium vesiculosum Savi 70 98 0,3 20 0(i) 0(j)) 5 Koniczyna podziemnaTrifolium subterraneum L. 80 (b) 40 97 0,3 20 0(i) 0(j) (k) 5 Koniczyna przewężonaTrifolium isthmocarpum Brot. 70 98 0,3 20 0(i) 0(j) 5 Koniczyna rozdętaTrifolium fragiferum L. 70 98 0,3 20 0(i) 0(j) (k) 5 Kozieradka pospolita (koniczyna grecka)Trigonella foenum-graecum L. 80 (a) 95 0,3 20 0(u) 0 0 (j) 2 Lucerna chmielowaMedicago lupulina L. 80 (a) (b) 20 97 0,3 20 0(w) 0 0 (l) (m) 5 Lucerna kolczastaMedicago doliata Carmign. 70 98 0,3 20 0(w) 0(i) 0 (j) (k) 5 Lucerna mieszańcowa (lucerna piaskowa)Medicago x varia T. Martyn 80 (a) (b) 40 97 0,3 20 0(w) 0 0 (l) (m) 3 Lucerna nadbrzeżnaMedicago littoralis Rohde ex Loisel. 70 98 0,3 20 0(w) 0(i) 0 (j) (k) 5 Lucerna ostrostrąkowaMedicago murex Willd. 70 (b) 30 98 0,3 20 0(w) 0(i) 0 (j) (k) 5 Lucerna pomarszczonaMedicago rugosa Desr. 70 (b) 20 98 0,3 20 0(i) 0 (j) (k) 5 Lucerna siewnaMedicago sativa L. 80 (a) (b) 40 97 0,3 20 0(w) 0 0 (l) (m) 3 Lucerna ściętolistkowaMedicago truncatula Gaertn. 70 (b) 20 98 0,3 20 0(i) 0 (j) (k) 5 Lucerna tarczowataMedicago scutellata (L.) Mill. 70 98 0,3 20 0(i) 0 (j) (k) 5 Lucerna wielokształtnaMedicago polymorpha L. 70 (b) 30 98 0,3 20 0(i) 0 (j) (k) 5 Lucerna włoskaMedicago italica (Mill.) Fiori 70 (b) 20 98 0,3 20 0(w) 0(i) 0 (j) (k) 5 Rutwica wschodniaGalega orientalis Lam. 60 (a) (b) 40 7 0,3 20 0(w) 0 0 (l) (m) 2 Seradela pastewnaOrnithopus sativus Brot. 75 90 0,3 20 0(i) 0(j) (k)) 5 Seradela zwartaOrnithopus compressus L. 75 90 0,3 20 0(i) 0 (j) (k) 5 Siekiernica włoskaHedysarum coronarium L. 75 (a) (b) 30 95 0,3 20 0(w) 0 0(k) 2 WIECHLINOWATE (TRAWY) Cynodon palczastyCynodon dactylon (L.) Pers. 70 (a) 90 0,3 20 (r) 1 1 0 0(j) 1 Festuloliumx Festulolium Asch. & Graebn. 75 (a) 96 0,3 20 (r) 5 5 0 0(j) 2 Konietlica łąkowaTrisetum flavescens (L.) P. Beauv. 70 (a) 75 0,3 20 (t) 1 1 0(h) 0(j) 1 Kostrzewa czerwonaFestuca rubra L. 75 (a) 90 0,3 20 (r) 5 5 0 0(j) 2 Kostrzewa łąkowaFestuca pratensis Huds. 80 (a) 95 0,3 20 (r) 5 5 0 0(j) 2 Kostrzewa nitkowataFestuca filiformis Pourr. 75 (a) 85 0,3 20 (r) 5 5 0 0(j) 2 Kostrzewa owczaFestuca ovina L. 75 (a) 85 0,3 20 (r) 5 5 0 0(j) 2 Kostrzewa szczeciniastaFestuca trachyphylla (Hack.) Krajina 75 (a) 85 0,3 20 (r) 5 5 0 0(j) 2 Kostrzewa trzcinowaFestuca arundinacea Schreber 80 (a) 95 0,3 20 (r) 5 5 0 0(j)( 2 Kupkówka pospolitaDactylis glomerata L. 80 (a) 90 0,3 20 (r) 5 5 0 0(j) 2 Mietlica białawaAgrostis gigantea Roth 80 (a) 90 0,3 20 1 1 0 0(j) 1 Mietlica pospolitaAgrostis capillaris L. 75 (a) 90 0,3 20 1 1 0 0(j) 1 Mietlica psiaAgrostis canina L. 75 (a) 90 0,3 20 1 1 0 0(j) 1 Mietlica rozłogowaAgrostis stolonifera L. 75 (a) 90 0,3 20 1 1 0 0(j) 1 Mozga HardingaPhalaris aquatica L. 75 (a) 96 0,3 20 5 5 0 0(j) 2 Rajgras wyniosły (rajgras francuski)Arrhenatherum elatius (L.) P. Beauv. ex J. Presl & C. Presl 75 (a) 90 0,3 20 (r) 5 5 0(g) 0(j) 2 Stokłosa alaskańskaBromus sitchensis Trin. 75 (a) 97 0,4 20 5 5 0(g) 0(j) 5 Stokłosa uniolowataBromus catharticus Vahl 75 (a) 97 0,4 20 5 5 o(g) 0(j) 5 Tymotka kolankowataPhleum nodosum L. 80 (a) 96 0,3 20 0 0 2 Tymotka łąkowaPhleum pratense L. 80 (a) 96 0,3 20 0 0 2 Wiechlina błotnaPoa palustris L. 75 (a) 85 0,3 20 (s) 0 0(j) 1 Wiechlina gajowaPoa nemoralis L. 75 (a) 85 0,3 20 (s) 0 0(j) 1 Wiechlina łąkowaPoa pratensis L. 75 (a) 85 0,3 20 (s) 0 0(j) 1 Wiechlina rocznaPoa annua L. 75 (a) 85 0,3 20 (s) 0 0(j) 1 Wiechlina zwyczajnaPoa trivialis L. 75 (a) 85 0,3 20 (s) 1 1 0 0 (j) 1 Wyczyniec łąkowyAlopecurus pratensis L. 70 (a) 75 0,3 20 (r) 5 5 0 0(j) 2 Życica mieszańcowa (rajgras oldenburski)Lolium x hybridum Hausskn 75 (a) 96 0,3 20 (r) 5 5 0 0(j) 2 Życica trwała (rajgras angielski)Lolium perenne L. 80 (a) 96 0,3 20 (r) 5 5 0 0(j) 2 Życica wielokwiatowa (rajgras włoski)Lolium multiflorum Lam. 75 (a) 96 0,3 20 (r) 5 5 0 0(j) 2 INNE GATUNKI Babka lancetowataPlantago lanceolata L. 75 85 0,3 20 0(i) 0 (j) 3 Brukiew pastewnaBrassica napus L. var. napobrassica (L.) Rchb. 80 (a) 98 0,3 20 0 0 (j) (k) 2 Facelia błękitnaPhacelia tanacetifolia Benth. 80 (a) 96 0,3 20 0 0 (j) (k) Kapusta pastewnaBrassica oleracea L. corwar. acephala (D.C.) Alef. var. medullosa 75 (a) 98 0,3 20 0 0(j) 3 Rzodkiew oleistaRaphanus sativus L. var. oleiformis Pers. 80 (a) 97 0,3 20 0 0(j) 2
+
+### Tabela 7
+
+Wymagania jakościowe dla nasion roślin pastewnych kategorii kwalifikowane Gatunek minimalna zdolność kiełkowania maksymalna zawartość nasion twardych Czystość analityczna Maksymalna zawartość nasion innych gatunków roślin w próbie o masie określonej w kolumnie 4 tabeli 5 Nasiona łubinu innej barwy lub gorzkie minimalna czystość analityczna Maksymalna zawartość nasion innych gatunków roślin łącznie jednego gatunku Elytrigia repens (Agropyron repens) Alopecurus myosuroides Melilotus spp. Raphanus raphanistrum Sinapis arvensis Avena fatua, Avena sterilis Cuscuta spp. Rumex spp., oprócz Rumex acetosella i Rumex maritimus % nasion czystych % wagowy liczba nasion w próbie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 ROŚLINY BOBOWATE GRUBONASIENNE (ROŚLINY STRĄCZKOWE) Biserula grzebieniasta (syn. traganek grzebieniasty)Biserrula pelecinus L 70 98 0,5 0(i) 0(j) (k) 10 BobikVicia faba L. (partim) 80 (a) (b) 5 98 0,5 0,3 0,3 0 0(j) 5(n) Groch siewnyPisum sativum L. (partim) 80 (a) 98 0,5 0,3 0,3 0 0(j) 5(n) Groszek ciecierzycowatyLathyrus cicera L. 80 95 1 0,5 0,3 0(i) 0(j) (k) 20 Łubin białyLupinus albus L. 80 (a) (b) 20 98 0,5(e) 0,3 (e) 0,3 0(i) 0(j) 5(n) (o) (v) Łubin wąskolistnyLupinus angustifolius L. 75 (a) (b) 20 98 0,5 (e) 0,3 (e) 0,3 0(i) 0(j) 5(n) (o) (v) Łubin żółtyLupinus luteus L. 80 (a) (b) 20 98 0,5 (e) 0,3 (e) 0,3 0(i) 0(j) 5(n) (o) (v) Wyka bengalskaVicia benghalensis L 80 (b) 20 97 (e) 1 0(i) 0(j) (k) 10 Wyka kosmataVicia villosa Roth 85 (a) (b) 20 98 1,0 (e) 0,5 (e) 0,3 0(i) 0(j) 5(n) Wyka pannońskaVicia pannonica Crantz 85 (a) (b) 20 98 1,0 (e) 0,5 (e) 0,3 0(i) 0(j) 5(n) Wyka siewnaVicia sativa L. 85 (a) (b) 20 98 1,0 (e) 0,5 (e) 0,3 0(i) 0(j) 5(n) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 ROŚLINY BOBOWATE DROBNONASIENNE (ROŚLINY MOTYLKOWATE DROBNONASIENNE) Esparceta siewnaOnobrychis viciifolia Scop. 75 (a) (b) 20 95 2,5 1,0 0,3 0 0(j) 5 Komonica zwyczajnaLotus comiculatus L. 75 (a) (b) 40 95 1,8 (d) 1,0(d) 0,3 0 0 (l) (m) 10 Koniczyna białaTrifolium repens L. 80 (a) (b) 40 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna białoróżowa (koniczyna szwedzka)Trifolium hybridum L. 80 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna egipska (koniczyna aleksandryjska)Trifolium alexandrinum L. 80 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna gruczołkowataTrifolium glanduliferum Boiss. 70 (b) 30 98 1 0(i) 0(j) (k) 10 Koniczyna kosmataTrifolium hirtum All. 70 98 1 0(i) 0(j) (k) 10 Koniczyna krwistoczerwona (inkarnatka)Trifolium incarnatum L. 75 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna łąkowa (koniczyna czerwona)Trifolium pratense L. 80 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna łuskowataTrifolium squarrosum L. 75 (b) 20 97 1,5 0,3 0 0 (l) (m) 10 Koniczyna MichelaTrifolium michelianum Savi 75 (b) 30 98 1 0(i) 0(j) (k) 10 Koniczyna perskaTrifolium resupinatum L. 80 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Koniczyna pęcherzykowataTrifolium vesiculosum Savi 70 98 1 0(i) 0(j) (k) 10 Koniczyna podziemnaTrifolium subterraneum L. 80 (b) 40 97 0,5 0(i) 0(j) (k) 10 Koniczyna przewężonaTrifolium isthmocarpum Brot. 70 98 1 0(i) 0(j) (k) 10 Koniczyna rozdętaTrifolium fragiferum L. 70 98 1 0(i) 0(j) (k) 10 Kozieradka pospolita (koniczyna grecka)Trigonella foenum-graecum L. 80 (a) 95 1,0 0,5 0,3 0 0(j) 5 Lucerna chmielowaMedicago lupulina L. 80 (a) (b) 20 97 1,5 1,0 0,3 0 0 (l) (m) 10 Lucerna kolczastaMedicago doliata Carmign. 70 98 2 0(i) 0(j) (k) 10 Lucerna mieszańcowa (lucerna piaskowa)Medicago x varia T. Martyn 80 (a) (b) 40 97 1,5 1,0 0,3 0 0 (l) (m) 10 Lucerna nadbrzeżnaMedicago littoralis Rohde ex Loisel. 70 98 2 0(i) 0(j) (k) 10 Lucerna ostrostrąkowaMedicago murex Willd. 70 (b) 30 98 2 0(i) 0(j) (k) 10 Lucerna pomarszczonaMedicago rugosa Desr. 70 (b) 20 98 2 0(i) 0(j) (k) 10 Lucerna siewnaMedicago sativa L. 80 (a) (b) 40 97 1,5 1,0 0,3 0 0 (l) (m) 10 Lucerna ściętolistkowaMedicago truncatula Gaertn. 70 (b) 20 98 2 0(i) 0(j) (k) 10 Lucerna tarczowataMedicago scutellata (L.) Mill. 70 98 2 0(i) 0(j) (k) 10 Lucerna wielokształtnaMedicago polymorpha L. 70 (b) 30 98 2 0(i) 0(j) (k) 10 Lucerna włoskaMedicago italica (Mill.) Fiori 70 (b) 20 98 2 0(i) 0(j) (k) 10 Rutwica wschodniaGalega orientalis Lam. 60 (a) (b) 40 97 2,0 1,5 0,3 0 0 (l) (m) 10 (n) Seradela pastewnaOrnithopus sativus Brot. 75 90 1 0(i) 0(j) (k) 10 Seradela zwartaOrnithopus compressus L. 75 90 1 0(i) 0(j) (k) 10 Siekiernica włoskaHedysarum coronarium L. 75 (a) (b) 30 95 2,5 1,0 0,3 0 0(k) 5 WIECHLINOWATE (TRAWY) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Cynodon palczastyCynodon dactylon (L.) Pers. 70 (a) 90 2,0 1,0 0,3 0,3 0 0 (j) (k) 2 Festuca pratensis Huds.Kostrzewa łąkowa 80 (a) 95 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Festuloliumx Festulolium Asch. & Graebn. 75 (a) 96 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Konietlica łąkowaTrisetum flavescens (L.) P. Beauv. 70 (a) 75 3,0 1,0 (f) 0,3 0,3 0(h) 0 (j) (k) 2(n) Kostrzewa czerwonaFestuca rubra L. 75 (a) 90 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Kostrzewa nitkowataFestuca filiformis Pourr. 75 (a) 85 2,0 1,0 0,5 0,3 0 0 (j) (k) 5(n) Kostrzewa owczaFestuca ovina L. 75 (a) 85 2,0 1,0 0,5 0,3 0 0 (j) (k) 5(n) Kostrzewa szczeciniastaFestuca trachyphylla (Hack.) Krajina 75 (a) 85 2,0 1,0 0,5 0,3 0 0 (j) (k) 5(n) Kostrzewa trzcinowaFestuca arundinacea Schreber 80 (a) 95 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Kupkówka pospolitaDactylis glomerata L. 80 (a) 90 1,5 1,0 0,3 0,3 0 0 (j) (k) 5(n) Mietlica białawaAgrostis gigantea Roth 80 (a) 90 2,0 1,0 0,3 0,3 0 0 (j) (k) 2(n) Mietlica pospolitaAgrostis capillaris L. 75 (a) 90 2,0 1,0 0,3 0,3 0 0 (j) (k) 2(n) Mietlica psiaAgrostis canina L. 75 (a) 90 2,0 1,0 0,3 0,3 0 0 (j) (k) 2(n) Mietlica rozłogowaAgrostis stolonifera L. 75 (a) 90 2,0 1,0 0,3 0,3 0 0 (j) (k) 2(n) Mozga HardingaPhalaris aquatica L. 75 (a) 96 1,5 1,0 0,3 0,3 0 0 (j) (k) 5 Rajgras wyniosły (rajgras francuski)Arrhenatherum elatius (L.) P. Beauv. ex J. Presl & C. Presl 75 (a) 90 3,0 1,0 (f) 0,5 0,3 0(g) 0 (j) (k) 5(n) Stokłosa alaskańskaBromus sitchensis Trin. 75 (a) 97 1,5 1,0 0,5 0,3 o(g) 0 (j) (k) 10(n) Stokłosa uniolowataBromus catharticus Vahl 75 (a) 97 1,5 1,0 0,5 0,3 o(g) 0 (j) (k) 10(n) Tymotka kolankowataPhleum nodosum L. 80 (a) 96 1,5 1,0 0,3 0,3 0 0(k) 5 Tymotka łąkowaPhleum pratense L. 80 (a) 96 1,5 1,0 0,3 0,3 0 0(k) 5 Wiechlina błotnaPoa palustris L. 75 (a) 85 2,0 (c) 1,0 (c) 0,3 0,3 0 0 (j) (k) 2(n) Wiechlina gajowaPoa nemoralis L. 75 (a) 85 2,0 (c) 1,0 (c) 0,3 0,3 0 0 (j) (k) 2(n) Wiechlina łąkowaPoa pratensis L. 75 (a) 85 2,0 (c) 1,0 (c) 0,3 0,3 0 0 (j) (k) 2(n) Wiechlina rocznaPoa annua L. 75 (a) 85 2,0 (c) 1,0 (c) 0,3 0,3 0 0 (j) (k) 5(n) Wiechlina zwyczajnaPoa trivialis L. 75 (a) 85 2,0 (c) 1,0 (c) 0,3 0,3 0 0 (j) (k) 2(n) Wyczyniec łąkowyAlopecurus pratensis L. 70 (a) 75 2,5 1,0 (f) 0,3 0,3 0 0 (j) (k) 5(n) Życica mieszańcowa (rajgras oldenburski)Lolium x hybridum Hausskn 75 (a) 96 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Życica trwała (rajgras angielski)Lolium perenne L. 80 (a) 96 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) Życica wielokwiatowa (rajgras włoski)Lolium multiflorum Lam. 75 (a) 96 1,5 1,0 0,5 0,3 0 0 (j) (k) 5(n) INNE GATUNKI Babka lancetowataPlantago lanceolata L. 75 85 1,5 0(i) 0 (j) (k) 10 Brukiew pastewnaBrassica napus L. var. napobrassica (L.) Rchb. 80 (a) 98 1,0 0,5 0,3 0,3 0 0 (j) (k) 5 Facelia błękitnaPhacelia tanacetifolia Benth. 80 (a) 96 1,0 0,5 0 0 (j) (k) Kapusta pastewnaBrassica oleracea L. corwar. acephala (D.C.) Alef. var. medullosa 75 (a) 98 1,0 0,5 0,3 0,3 0 0 (j) (k) 10 Rzodkiew oleistaRaphanus sativus L. var. oleiformis Pers. 80 (a) 97 1,0 0,5 0,3 0,3 0 0(j) 5 Objaśnienia do tabeli 6 i 7:
+
+### (a)
+
+Wszystkie świeże, zdrowe nasiona, które nie skiełkowały po zastosowaniu zabiegów wstępnych, uznaje się jako nasiona skiełkowane.
+
+### (b)
+
+Nasiona twarde uznaje się za nasiona zdolne do kiełkowania w liczbie nie większej jednak, niż podano w kolumnie 3 tabeli 6 i 7.
+
+### (c)
+
+Nasion innych gatunków Poa spp., których łączna zawartość nie jest większa niż 0,8% wagowych, nie traktuje się jako zanieczyszczenie.
+
+### (d)
+
+Nasion Trifolium pratense, których zawartość nie jest większa niż 1% wagowy, nie traktuje się jako zanieczyszczenie.
+
+### (e)
+
+Nasiona gatunków: Lupinus albus, Lupinus angustifolius, Lupinus luteus, Pisum sativum, Vicia faba, Vicia spp., których łączna zawartość oznaczona w próbie materiału siewnego jednego z tych gatunków nie jest większa niż 0,5% wagowych, nie traktuje się jako zanieczyszczenie.
+
+### (f)
+
+Zawartości procentowej nasion jednego gatunku nie stosuje się do nasion gatunków Poa spp.
+
+### (g)
+
+Dopuszczalnnej łącznej zawartości dwóch ziarniaków Avena fatua i Avena sterilis w próbie o masie określonej w kolumnie 4 tabeli 1 nie uznaje się za zanieczyszczenie, jeżeli druga próba o tej samej masie jest wolna od ziarniaków tych gatunków.
+
+### (h)
+
+Jeżeli w badanej próbie stwierdzono obecność jednego nasienia Avena fatua i Avena sterilis, to nie uważa się go za zanieczyszczenie, o ile w drugiej próbie o dwukrotnie większej masie nie stwierdzono obecności nasion tych gatunków.
+
+### (i)
+
+Nie określa się obecności nasion Avena fatua i Avena sterilis, jeżeli nie ma wątpliwości, że oceniany materiał siewny jest wolny od nasion tych gatunków.
+
+### (j)
+
+Nie określa się obecności nasion Cuscuta spp., jeżeli nie ma wątpliwości, że oceniany materiał siewny jest wolny od nasion tych gatunków.
+
+### (k)
+
+Jeżeli w badanej próbie stwierdzono obecność jednego nasienia Cuscuta spp., to nie uważa się go za zanieczyszczenie, o ile w drugiej próbie o takiej samej masie nie stwierdzono obecności nasion Cuscuta spp.
+
+### (l)
+
+Oznaczanie obecności nasion Cuscuta spp. wykonuje się na próbie o dwukrotnie większej masie niż określona w kolumnie 4 tabeli 5.
+
+### (m)
+
+Jeżeli w badanej próbie stwierdzono obecność jednego nasienia Cuscuta spp., to nie uważa się go za zanieczyszczenie, o ile w drugiej próbie o dwukrotnie większej masie nie stwierdzono obecności nasion Cuscuta spp.
+
+### (n)
+
+Nie określa się obecności nasion gatunków Rumex innych niż Rumex acetosella i Rumex maritimus, jeżeli nie ma wątpliwości, że oceniany materiał siewny jest wolny od nasion tych gatunków.
+
+### (o)
+
+Procent liczbowy nasion łubinu o innym zabarwieniu nie powinien przekraczać: w materiale siewnym łubinu gorzkiego - 2%, w materiale siewnym łubinów innych niż gorzki - 1%.
+
+### (p)
+
+Procent liczbowy nasion łubinów gorzkich w odmianach innych niż łubin gorzki nie powinien przekraczać 1.
+
+### (r)
+
+Nasion gatunków Poa spp., łącznie do 80 sztuk, nie uważa się za zanieczyszczenie.
+
+### (s)
+
+Nie dotyczy nasion gatunków Poa spp., o ile łączna liczba nasion w badanej próbie gatunków Poa spp. innych niż oceniany nie przekracza 500 sztuk.
+
+### (t)
+
+Liczby stwierdzonych nasion gatunków Poa spp. łącznie nie więcej niż 20 sztuk nasion nie traktuje się jako zanieczyszczenie.
+
+### (u)
+
+Nie określa się obecności nasion gatunków Melilotus spp., jeżeli nie ma wątpliwości, że oceniany materiał siewny jest wolny od nasion tych gatunków.
+
+### (w)
+
+Jeżeli w badanej próbie stwierdzono obecność jednego nasiona Melilotus spp., to nie uważa się go za zanieczyszczenie, o ile w drugiej próbie o dwukrotnie większej masie nie stwierdzono obecności nasion Melilotus spp.
+
+### (v)
+
+Procent liczbowy nasion łubinów gorzkich w odmianach innych niż łubin gorzki nie powinien przekraczać 2,5%.
+
+## Załącznik nr 4 - Wymagania jakościowe dla materiału siewnego roślin pastewnych kategorii handlowy
+
+Wymagania dla materiału siewnego kategorii handlowy roślin pastewnych są takie jak dla materiału siewnego kategorii kwalifikowany, z uwzględnieniem:
+
+### 1)
+
+w kolumnach 5 i 6 tabeli 7 dopuszczalnej zawartości zwiększonej o 1 punkt procentowy;
+
+### 2)
+
+w materiale siewnym Poa annua dopuszczalnej zawartości nasion innych gatunków Poa spp. zwiększonej do 10% wagowych;
+
+### 3)
+
+w materiale siewnym gatunków Poa spp., z wyjątkiem Poa annua, dopuszczalnej zawartości innych nasion gatunków Poa zwiększonej się do 3% wagowych;
+
+### 4)
+
+w materiale siewnym Hedysarum coronarium dopuszczalnej zawartości nasion Melilotus spp. zwiększonej do 1% wagowego;
+
+### 5)
+
+dla materiału siewnego Lotus corniculatus określonej się zawartości nasion gatunków Melilotus spp.;
+
+### 6)
+
+dla materiału siewnego wszystkich gatunków łubinu:
+
+### a)
+
+minimalnej czystości analitycznej wynoszącej 97% wagowych,
+
+### b)
+
+dopuszczalnego procentu liczbowego nasion innej barwy:
+
+- - dla łubinu gorzkiego wynoszącego 4,
+
+- - dla łubinu innego niż gorzki wynoszącego 2;
+
+### 7)
+
+w materiale siewnym gatunków Vicia spp. dopuszczalnej łącznej zawartości nasion Vicia pannonica, Vicia villosa, Vicia benghalensis lub innych pokrewnych gatunków uprawnych, oznaczonej w próbie materiału siewnego poszczególnych gatunków, która nie powinna przekroczyć 6% wagowych;
+
+### 8)
+
+w materiale siewnym gatunków: Vicia pannonica, Vicia sativa, Vicia villosa i Vicia benghalensis minimalnej czystości analitycznej wynoszącej 97% wagowych;
+
+### 9)
+
+w materiale siewnym gatunku Latyrus cicera minimalnej czystości analitycznej wynoszącej 90% wagowych; maksymalna łaczna zawartość nasion podobnych gatunków uprawnych wynosząca 5% wagowych, nie jest uznawana za zanieczyszczenie.
+
+## Załącznik nr 5 - Wykaz gatunków roślin rolniczych, których materiał siewny może być uznany za materiał siewny kategorii handlowy
+
+Nazwa polska Nazwa łacińska Rośliny pastewne Bobowate - Fabaceae (Leguminosae) 1 Biserula grzebieniasta (syn. traganek grzebieniasty) Biserrula pelecinus L. 2 Esparceta siewna Onobrychis viciifolia Scop. 3 Groszek ciecierzycowaty Lathyrus cicera L. 4 Koniczyna gruczołkowata Trifolium glanduliferum Boiss. 5 Koniczyna kosmata Trifolium hirtum All. 6 Koniczyna łuskowata Trifolium squarrosum L. 7 Koniczyna Michela Trifolium michelianum Savi 8 Koniczyna pęcherzykowata Trifolium vesiculosum Savi 9 Koniczyna podziemna Trifolium subterraneum L. 10 Koniczyna przewężona Trifolium isthmocarpum Brot. 11 Koniczyna rozdęta Trifolium fragiferum L. 12 Kozieradka pospolita (koniczyna grecka) Trigonella foenum - graecum L. 13 Lucerna kolczasta Medicago doliata Carmign. 14 Lucerna nadbrzeżna Medicago littoralis Rohde ex Loisel. 15 Lucerna ostrostrąkowa Medicago murex Willd. 16 Lucerna pomarszczona Medicago rugosa Desr. 17 Lucerna ściętolistkowa Medicago truncatula Gaertn. 18 Lucerna tarczowata Medicago scutellata (L.) Mill. 19 Lucerna wielokształtna Medicago polymorpha L. 20 Lucerna włoska Medicago italica (Mill.) Fiori 21 Seradela pastewna Ornithopus sativus Brot. 22 Seradela zwarta Ornithopus compressus L. 23 Siekiernica włoska Hedysarum coronarium L. 24 Wyka bengalska Vicia benghalensis L. 25 Wyka pannońska Vicia pannonica Crantz Wiechlinowate - Poaceae (Gramineae) 26 Cynodon palczasty Cynodon dactylon (L.) Pers. 27 Mozga Hardinga Phalaris aquatica L. 28 Rajgras wyniosły (syn. rajgras francuski) Arrhenatherum elatius (L.)P. Beauv. ex J. Presl & C. Presl 29 Wiechlina roczna Poa annua L. Inne gatunki 30 Babka lancetowata Plantago lanceolata L. Rośliny oleiste i włókniste 31 Gorczyca czarna Brassica nigra L. 32 Orzech ziemny Arachis hypogaea L.

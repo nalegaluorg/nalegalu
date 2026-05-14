@@ -8,11 +8,9 @@ pos: 2754
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# systemie teleinformatycznym do obsługi niektórych umów
-
-*USTAWA z dnia 16 listopada 2022 r.*
+# Ustawa z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, ustawę z dnia 8 lutego 2018 r. o zmianie ustawy o pomocy społecznej oraz ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,232 +22,956 @@ domain: null
 | Data ogłoszenia | 2022-11-16 |
 | Data wydania | 2022-12-23 |
 | Ostatnia zmiana | 2025-05-30 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2754/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/2754/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/2754) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustawa określa zasady obsługi w systemie teleinformatycznym umów, których mowa w:
+### Art. 1.
 
-- **1)** art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237),
-- **2)** art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878 i 1222),
-- **3)** art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858) – zwanych dalej „umową”.
+### 1.
 
-2. Przez obsługę w systemie teleinformatycznym umowy należy rozumieć zawarcie, zmianę lub rozwiązanie umowy albo wygaśnięcie umowy oraz dokonywanie innych czynności niezbędnych do realizacji praw i obowiązków wynikających z takiej umowy za pośrednictwem systemu teleinformatycznego do obsługi umów.
+Ustawa określa zasady obsługi w systemie teleinformatycznym umów, o których mowa w:
 
-3. Umowy, których mowa w:
+### 1)
 
-- **1)** art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz w art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, mogą być obsługiwane w systemie teleinformatycznym w przypadku, gdy zleceniodawca lub pracodawca jest:
-    - **a)** mikroprzedsiębiorcą, którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236 i 1222), albo podmiotem niebędącym mikroprzedsiębiorcą zatrudniającym nie więcej niż 9 osób, zwanymi dalej „podmiotem zatrudniającym”, ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90 i 1243), zwanym dalej „rolnikiem”,
-    - **c)** osobą fizyczną, która nie jest przedsiębiorcą w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców ani rolnikiem;
+art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2022 r. poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2022/1360/text.html), [2337](https://api.sejm.gov.pl/eli/acts/DU/2022/2337/text.html) i [2339](https://api.sejm.gov.pl/eli/acts/DU/2022/2339/text.html)),
 
-- **2)** art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3, mogą być obsługiwane w systemie teleinformatycznym w przypadku, gdy jedną ze stron umowy jest rodzic w rozumieniu art. 3 tej ustawy, zwany dalej „rodzicem”.
+### 2)
 
-4. Pracodawca, zleceniodawca albo rodzic wprowadzają do systemu teleinformatycznego do obsługi umów, zwanego dalej „Systemem”, informację zmianie w zakresie statusu, którym mowa w ust. 3, w terminie 30 dni od zaistnienia okoliczności powodujących taką zmianę.
+art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2022 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2022/1510/text.html), [1700](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html)),
 
-5. Przepis ust. 4 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób.
+### 3)
 
-**Art. 2.**
+art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. z 2022 r. poz. 1324](https://api.sejm.gov.pl/eli/acts/DU/2022/1324/text.html), [1383](https://api.sejm.gov.pl/eli/acts/DU/2022/1383/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html))
 
-1. Minister właściwy do spraw pracy prowadzi i udostępnia System.
+- zwanych dalej „umową”.
 
-2. Dostęp do Systemu następuje za pośrednictwem systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, którym mowa w art. 26 ust. 1 pkt 7 lit. a ustawy z dnia 20 marca 2025 r. rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), lub systemu Punktu Informacji dla Przedsiębiorcy, którym mowa w art. 51 ust. 1 ustawy z dnia 6 marca 2018 r. Centralnej Ewidencji i Informacji Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841), po uwierzytelnieniu.
+### 2.
 
-3. Uwierzytelnienie następuje:
+Przez obsługę w systemie teleinformatycznym umowy należy rozumieć zawarcie, zmianę lub rozwiązanie umowy albo wygaśnięcie umowy oraz dokonywanie innych czynności niezbędnych do realizacji praw i obowiązków wynikających z takiej umowy za pośrednictwem systemu teleinformatycznego do obsługi umów.
 
-- **1)** zgodnie z metodami wymienionymi w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557) albo
-- **2)** z wykorzystaniem certyfikatu podstawowego, którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. z 2024 r. poz.
-- **1275)** . pracodawcy, pracownika, zleceniodawcy, zleceniobiorcy, rodzica i niani, zwanych dalej „stronami umowy”, uwierzytelnionych w Systemie.
+### 3.
 
-2. Minister właściwy do spraw pracy przetwarza dane osobowe w Systemie w celach określonych w ustawie w zakresie niezbędnym dla zapewnienia prawidłowego funkcjonowania Systemu.
+Umowy, o których mowa w:
 
-3. Dla celów statystycznych minister właściwy do spraw pracy przetwarza w Systemie dane zanonimizowane.
+### 1)
 
-4. Minister właściwy do spraw pracy w celu realizacji obowiązków, których mowa w art. 4 ust. 1 pkt 9 i 10, umożliwia za pośrednictwem Systemu przekazywanie właściwemu organowi Krajowej Administracji Skarbowej danych:
+art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny oraz w art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, mogą być obsługiwane w systemie teleinformatycznym w przypadku, gdy zleceniodawca lub pracodawca jest:
 
-- **1)** których mowa w art. 6 ust. 1–3;
-- **2)** niezbędnych do realizacji obowiązków wynikających z ustawy z dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, z późn. zm. ) oraz ustawy z dnia 15 lutego 1992 r. podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805, z późn. zm. ).
+### a)
 
-5. Minister właściwy do spraw pracy w celu realizacji obowiązków, których mowa w art. 4 ust. 2, umożliwia za pośrednictwem Systemu przekazywanie Zakładowi Ubezpieczeń Społecznych danych:
+mikroprzedsiębiorcą, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ([Dz. U. z 2021 r. poz. 162](https://api.sejm.gov.pl/eli/acts/DU/2021/162/text.html) i [2105](https://api.sejm.gov.pl/eli/acts/DU/2021/2105/text.html) oraz [z 2022 r. poz. 24](https://api.sejm.gov.pl/eli/acts/DU/2022/24/text.html), [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html) i [1570](https://api.sejm.gov.pl/eli/acts/DU/2022/1570/text.html)), albo podmiotem niebędącym mikroprzedsiębiorcą zatrudniającym nie więcej niż 9 osób, zwanymi dalej „podmiotem zatrudniającym”,
 
-- **1)** których mowa w art. 6 ust. 1–3;
-- **2)** najbliższych członków rodziny pracownika, zleceniobiorcy oraz niani w rozumieniu art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3, zwanej dalej „nianią”, w zakresie wymaganym: 146, 858 i 1222) oraz ustawą z dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863 i 1243) lub w przypadku utraty tych uprawnień,
-    - **a)** do uzyskania uprawnień do ubezpieczenia zdrowotnego przez członka rodziny zgodnie z ustawą z dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz.
-    - **b)** do skorzystania z uprawnień, których mowa w dziale ósmym ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+### b)
 
-- **1)** zawarcie umowy;
-- **2)** zmianę umowy;
-- **3)** rozwiązanie umowy;
-- **4)** obsługę wygaśnięcia umowy;
-- **5)** obliczanie wymiaru urlopu wypoczynkowego przysługującego pracownikowi;
-- **6)** prowadzenie i przechowywanie dokumentacji:
-    - **a)** w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracowników, zwanej dalej „dokumentacją pracowniczą”,
-    - **b)** dotyczącej osób wykonujących pracę na podstawie umów, których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny albo art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3, zwanej dalej „dokumentacją umowy”;
+rolnikiem, o którym mowa w art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2022 r. poz. 933](https://api.sejm.gov.pl/eli/acts/DU/2022/933/text.html), [1155](https://api.sejm.gov.pl/eli/acts/DU/2022/1155/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html)), zwanym dalej „rolnikiem”,
 
-- **7)** wydanie świadectwa pracy;
-- **8)** dostęp do dokumentacji pracowniczej i dokumentacji umowy;
-- **9)** obliczanie należności podatkowych pracownika, zleceniobiorcy oraz niani;
-- **10)** przekazywanie do urzędu skarbowego informacji pobranych zaliczkach na podatek dochodowy, których mowa w ustawie z dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych.
+### c)
 
-2. System umożliwia pracodawcy, zleceniodawcy i rodzicowi przekazanie do systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych danych ubezpieczeniowych związanych z ubezpieczeniami społecznymi lub ubezpieczeniem zdrowotnym pracownika, zleceniobiorcy, niani i członków ich rodzin, zgodnie z przepisami ustawy z dnia 13 października 1998 r. systemie ubezpieczeń społecznych.
+osobą fizyczną, która nie jest przedsiębiorcą w rozumieniu art. 4 ust. 1 i 2 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ani rolnikiem;
 
-3. Dane ubezpieczeniowe, których mowa w ust. 2, są przekazywane na profilu informacyjnym pracodawcy, zleceniodawcy albo rodzica utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. Jeżeli pracodawca, zleceniodawca albo rodzic nie posiadają profilu informacyjnego, Zakład Ubezpieczeń Społecznych zakłada ten profil po autoryzacji dostępu do systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych.
+### 2)
 
-4. Za pośrednictwem Systemu:
+art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, mogą być obsługiwane w systemie teleinformatycznym w przypadku, gdy jedną ze stron umowy są rodzice albo rodzic samotnie wychowujący dziecko w rozumieniu art. 3 tej ustawy, zwani dalej „rodzicami”.
 
-- **1)** pracodawca jest powiadamiany obowiązkach wynikających z art. 29 § 3–3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy; nabycia zasiłku dla bezrobotnych i uzyskania ubezpieczenia zdrowotnego.
+### 4.
 
-**Art. 5.**
+Pracodawca, zleceniodawca albo rodzice wprowadzają do systemu teleinformatycznego do obsługi umów, zwanego dalej „Systemem”, informację o zmianie w zakresie statusu, o którym mowa w ust. 3, w terminie 30 dni od zaistnienia okoliczności powodujących taką zmianę.
 
-1. Przed zawarciem umowy:
+### 5.
 
-- **1)** pracodawca, zleceniodawca, rodzic oraz osoby ubiegające się zawarcie umowy są powiadamiani za pośrednictwem Systemu warunkach obsługi umowy w Systemie;
-- **2)** pracodawca, zleceniodawca i rodzic informują osoby ubiegające się zawarcie umowy zamiarze obsługi umowy za pośrednictwem Systemu.
+Przepis ust. 4 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób.
 
-2. Do obsługi umowy za pośrednictwem Systemu jest wymagana zgoda stron umowy, która nie może zostać odwołana.
+### Art. 2.
 
-3. W celu zapewnienia obsługi umowy za pośrednictwem Systemu konieczne jest wprowadzenie do Systemu danych niezbędnych do zawarcia umowy oraz wypełnienie formularza umowy udostępnionego w Systemie. Za prawidłowość danych wprowadzanych do Systemu odpowiadają strony umowy w zakresie, w jakim wprowadziły te dane.
+### 1.
 
-4. Zawarcie umowy obsługiwanej za pośrednictwem Systemu następuje z chwilą opatrzenia umowy kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym przez strony umowy.
+Minister właściwy do spraw pracy prowadzi i udostępnia System.
 
-5. Opatrzenie umowy podpisem osobistym albo podpisem zaufanym wywołuje skutek prawny równoważny podpisowi własnoręcznemu.
+### 2.
 
-6. Zmiana umowy obsługiwanej za pośrednictwem Systemu albo jej rozwiązanie następują przy wykorzystaniu formularza udostępnionego w Systemie. Przepisy ust. 3–5 stosuje się odpowiednio.
+Dostęp do Systemu następuje za pośrednictwem systemu teleinformatycznego umożliwiającego wnoszenie wniosków w postaci elektronicznej do publicznych służb zatrudnienia, o którym mowa w art. 4 ust. 1 pkt 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2022 r. poz. 690](https://api.sejm.gov.pl/eli/acts/DU/2022/690/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140 i 2666.](#gloss-0:2:)), lub systemu Punktu Informacji dla Przedsiębiorcy, o którym mowa w art. 51 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy ([Dz. U. z 2022 r. poz. 541](https://api.sejm.gov.pl/eli/acts/DU/2022/541/text.html)), po uwierzytelnieniu.
 
-7. Wydanie świadectwa pracy w przypadku umowy obsługiwanej za pośrednictwem Systemu następuje przy wykorzystaniu formularza świadectwa pracy udostępnionego w Systemie. Pracodawca wypełnia formularz świadectwa pracy oraz opatruje go kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym. Opatrzenie świadectwa pracy podpisem osobistym albo podpisem zaufanym wywołuje skutek równoważny podpisowi własnoręcznemu.
+### 3.
 
-8. Minister właściwy do spraw pracy udostępnia w Systemie formularze, których mowa w ust. 3, 6 i 7, uwzględniające zakres danych niezbędnych do prawidłowego zawarcia, zmiany lub rozwiązania umowy oraz wydania świadectwa pracy, wymaganych przepisami prawa pracy, ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do działalności podmiotów realizujących zadania publiczne nie stosuje się.
+Uwierzytelnienie następuje:
 
-9. Zakres danych zawartych w formularzach, których mowa w ust. 3, 6 i 7, uzgadnia się z:
+### 1)
 
-- **1)** Ministrem Sprawiedliwości – w zakresie umów, których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
-- **2)** ministrem właściwym do spraw rodziny – w zakresie umów, których mowa w art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3;
-- **3)** ministrem właściwym do spraw gospodarki – w zakresie umów, których stroną jest mikroprzedsiębiorca, którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+zgodnie z metodami wymienionymi w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2021 r. poz. 2070](https://api.sejm.gov.pl/eli/acts/DU/2021/2070/text.html) oraz [z 2022 r. poz. 1087](https://api.sejm.gov.pl/eli/acts/DU/2022/1087/text.html)) albo
 
-**Art. 6.**
+### 2)
 
-1. W przypadku obsługi za pośrednictwem Systemu umowy, której mowa w art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, pracodawca wprowadza do Systemu:
+z wykorzystaniem certyfikatu, o którym mowa w art. 19e ust. 2a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, wydanego użytkownikowi publicznej aplikacji mobilnej po uwierzytelnieniu w sposób określony w art. 20a ust. 1 tej ustawy.
 
-- **1)** dane pracownika, których mowa w art. 22 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-- **2)** dane pracodawcy: Centralnej Ewidencji i Informacji Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy – w przypadku osoby fizycznej wykonującej działalność gospodarczą, – miejsca zamieszkania – w przypadku osoby fizycznej niewykonującej działalności gospodarczej, – siedziby – w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,
-    - **a)** imię i nazwisko, nazwę lub firmę,
-    - **b)** adres: – którym mowa w art. 5 ust. 1 pkt 6 ustawy z dnia 6 marca 2018 r.
-    - **c)** NIP – w przypadku osoby prawnej albo w przypadku jednostki organizacyjnej nieposiadającej osobowości prawnej,
-    - **d)** numer PESEL – w przypadku osoby fizycznej, a w przypadku jego braku – rodzaj, numer i serię dokumentu potwierdzającego tożsamość,
-    - **e)** numer w Krajowym Rejestrze Sądowym albo informację wpisie do Centralnej Ewidencji i Informacji Działalności Gospodarczej – jeżeli tej ewidencji;
+### Art. 3.
 
-- **3)** rodzaj umowy;
-- **4)** datę zawarcia umowy, termin rozpoczęcia pracy oraz datę wygaśnięcia i rozwiązania umowy;
-- **5)** warunki pracy i płacy, których mowa w art. 29 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-- **6)** informacje, których mowa w art. 29 § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy – jeżeli umowę pracę zawarto na czas określony w celu lub w przypadku określonym w tym przepisie.
+### 1.
 
-2. W przypadku obsługi za pośrednictwem Systemu umów, których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, zleceniodawca wprowadza do Systemu:
+Minister właściwy do spraw pracy jest administratorem danych pracodawcy, pracownika, zleceniodawcy, zleceniobiorcy, rodziców i niani, zwanych dalej „stronami umowy”, uwierzytelnionych w Systemie.
 
-- **1)** dane, których mowa w ust. 1 pkt 2, dotyczące zleceniodawcy;
-- **2)** dane dotyczące zleceniobiorcy: Centralnej Ewidencji i Informacji Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy – w przypadku osoby fizycznej wykonującej działalność gospodarczą, – miejsca zamieszkania – w przypadku osoby fizycznej niewykonującej działalności gospodarczej, – siedziby – w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,
-    - **a)** imię i nazwisko,
-    - **b)** adres: – którym mowa w art. 5 ust. 1 pkt 6 ustawy z dnia 6 marca 2018 r.
-    - **c)** numer PESEL, a w przypadku jego braku – rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+### 2.
 
-- **3)** datę zawarcia, rozpoczęcia i wygaśnięcia umowy;
-- **4)** przedmiot zlecenia;
-- **5)** wysokość wynagrodzenia;
-- **6)** informację, czy zleceniobiorca posiada inny tytuł do ubezpieczenia społecznego, wraz ze wskazaniem tego tytułu. w art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3, rodzic wprowadza do Systemu dane, których mowa w art. 50 ust. 4 tej ustawy.
+Minister właściwy do spraw pracy przetwarza dane osobowe w Systemie w celach określonych w ustawie w zakresie niezbędnym dla zapewnienia prawidłowego funkcjonowania Systemu.
 
-4. Pracodawca, zleceniodawca i rodzic mogą wprowadzić do Systemu szczególne warunki umowy uzgodnione między stronami umowy.
+### 3.
 
-5. Pracodawca, zleceniodawca i rodzic wprowadzają do Systemu dane:
+Dla celów statystycznych minister właściwy do spraw pracy przetwarza w Systemie dane zanonimizowane.
 
-- **1)** wymagane przepisami dotyczącymi dokumentacji pracowniczej albo dokumentacji umowy;
-- **2)** niezbędne do rozwiązania umowy lub wydania świadectwa pracy.
+### 4.
 
-6. W celu zapewnienia prawidłowej obsługi umowy strony umowy wprowadzają do Systemu numer telefonu oraz adres poczty elektronicznej.
+Minister właściwy do spraw pracy w celu realizacji obowiązków, o których mowa w art. 4 ust. 1 pkt 9 i 10, umożliwia za pośrednictwem Systemu przekazywanie właściwemu organowi Krajowej Administracji Skarbowej danych:
 
-7. Dane, których mowa w ust. 6, wprowadzone do Systemu przez pracownika, zleceniobiorcę albo nianię nie są udostępniane pracodawcy, zleceniodawcy albo rodzicowi.
+### 1)
 
-**Art. 7.**
+o których mowa w art. 6 ust. 1-3;
 
-1. Pracownik, zleceniobiorca i niania mogą składać za pośrednictwem Systemu:
+### 2)
 
-- **1)** oświadczenia woli, w tym oświadczenia dotyczące danych osobowych, zgromadzone w związku z ubieganiem się zatrudnienie;
-- **2)** wnioski dotyczące w szczególności korzystania z opieki nad dzieckiem do lat 14 lub urlopu okolicznościowego, lub urlopu bezpłatnego;
-- **3)** inne dokumenty dotyczące umowy.
+niezbędnych do realizacji obowiązków wynikających z ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2022 r. poz. 2647](https://api.sejm.gov.pl/eli/acts/DU/2022/2647/text.html), [2687](https://api.sejm.gov.pl/eli/acts/DU/2022/2687/text.html) i [2745](https://api.sejm.gov.pl/eli/acts/DU/2022/2745/text.html)) oraz ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2022 r. poz. 2587](https://api.sejm.gov.pl/eli/acts/DU/2022/2587/text.html), [2640](https://api.sejm.gov.pl/eli/acts/DU/2022/2640/text.html) i [2745](https://api.sejm.gov.pl/eli/acts/DU/2022/2745/text.html)).
 
-2. Pracodawca, zleceniodawca i rodzic dokumenty, których mowa w ust. 1 pkt 1 lub 3, składają za pośrednictwem Systemu.
+### 5.
 
-3. Dokumenty, których mowa w ust. 1, mogą być składane przy wykorzystaniu udostępnionego w Systemie formularza. Przepisy art. 5 ust. 3–5 stosuje się odpowiednio.
+Minister właściwy do spraw pracy w celu realizacji obowiązków, o których mowa w art. 4 ust. 2, umożliwia za pośrednictwem Systemu przekazywanie Zakładowi Ubezpieczeń Społecznych danych:
 
-4. Minister właściwy do spraw pracy może udostępnić w Systemie formularze dokumentów, których mowa w ust. 1, uwzględniające zakres danych niezbędnych do prawidłowego złożenia tych dokumentów, wymaganych przepisami prawa pracy, ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny lub ustawy z dnia 4 lutego 2011 r. opiece nad dziećmi w wieku do lat 3. Przepisu art. 19b ust. 3 ustawy z dnia 17 lutego 2005 r. informatyzacji działalności podmiotów realizujących zadania publiczne nie stosuje się. się z Ministrem Sprawiedliwości, ministrem właściwym do spraw rodziny oraz ministrem właściwym do spraw gospodarki.
+### 1)
 
-**Art. 8.**
+o których mowa w art. 6 ust. 1-3;
 
-1. W przypadku obsługi umowy za pośrednictwem Systemu dokumentacja tej umowy jest prowadzona i przechowywana w Systemie w postaci elektronicznej.
+### 2)
 
-2. W przypadku dokumentu utworzonego w postaci papierowej pracodawca, zleceniodawca albo rodzic wprowadzają do Systemu odwzorowanie cyfrowe tego dokumentu i opatrują go kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym potwierdzającym zgodność odwzorowania cyfrowego z dokumentem papierowym. W takim przypadku dokumentem stanowiącym dokumentację pracowniczą albo dokumentację umowy jest dokument umieszczony w Systemie.
+najbliższych członków rodziny pracownika, zleceniobiorcy oraz niani w rozumieniu art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, zwanej dalej „nianią”, w zakresie wymaganym:
 
-3. Do prowadzenia i przechowywania dokumentacji określającej sposób potwierdzania liczby godzin wykonywania zlecenia oraz potwierdzającej liczbę tych godzin przepis art. 8c ustawy z dnia 10 października 2002 r. minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667) stosuje się odpowiednio.
+### a)
 
-**Art. 9.**
+do uzyskania uprawnień do ubezpieczenia zdrowotnego przez członka rodziny zgodnie z ustawą z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2022 r. poz. 2561](https://api.sejm.gov.pl/eli/acts/DU/2022/2561/text.html) i [2674](https://api.sejm.gov.pl/eli/acts/DU/2022/2674/text.html)) oraz ustawą z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2022 r. poz. 1009](https://api.sejm.gov.pl/eli/acts/DU/2022/1009/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707.](#gloss-0:3:)) lub w przypadku utraty tych uprawnień,
 
-1. System zawiadamia strony umowy o:
+### b)
 
-- **1)** zmianie w zakresie danych, których mowa w art. 6,
-- **2)** otrzymaniu dokumentów, których mowa w art. 7 ust. 1 – przez wysłanie wiadomości na adres poczty elektronicznej wskazany w Systemie wraz z pouczeniem dotyczącym sposobu odbioru i potwierdzenia doręczenia dokumentów w Systemie.
+do skorzystania z uprawnień, o których mowa w dziale ósmym ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
 
-2. Strony umowy mogą być informowane otrzymaniu dokumentów, których mowa w art. 7 ust. 1, przez wysłanie zawiadomienia w postaci krótkiej wiadomości tekstowej (SMS) na wskazany w Systemie numer telefonu.
+### Art. 4.
 
-3. Datę złożenia dokumentów, których mowa w art. 7 ust. 1, System potwierdza automatycznie.
+### 1.
 
-4. Datą doręczenia dokumentów, których mowa w art. 7 ust. 1, adresatowi jest data potwierdzenia w Systemie zapoznania się przez niego z ich treścią. W przypadku braku takiego potwierdzenia dokument uznaje się za doręczony po upływie 14 dni od dnia wysłania wiadomości na adres poczty elektronicznej. lub dokumentację umowy.
+System umożliwia pracodawcy, zleceniodawcy i rodzicom:
 
-2. Pracownik albo były pracownik może pobrać z Systemu dokumentację pracowniczą w terminie, którym mowa w art. 94 pkt 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+### 1)
 
-3. W przypadku śmierci pracownika lub byłego pracownika osobom, których mowa w art. 94 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługuje prawo odbioru od pracodawcy dokumentacji pracowniczej pobranej z Systemu.
+zawarcie umowy;
 
-**Art. 11.**
+### 2)
 
-1. Minister właściwy do spraw pracy lub osoba przez niego upoważniona umożliwia dostęp do Systemu:
+zmianę umowy;
 
-- **1)** nowemu pracodawcy – w przypadku, którym mowa w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-- **2)** zarządcy sukcesyjnemu, którym mowa w ustawie z dnia 5 lipca 2018 r. zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), albo osobie, której mowa w art. 14 tej ustawy – w przypadku śmierci pracodawcy.
+### 3)
 
-2. Dostęp do Systemu następuje na wniosek podmiotów wskazanych w ust. 1.
+rozwiązanie umowy;
 
-3. W sprawach wynikających z prowadzenia przedsiębiorstwa w spadku po pracodawcy będącym podmiotem zatrudniającym podmioty wskazane w ust. 1 pkt 2 mogą zawierać nowe umowy za pośrednictwem Systemu na takich samych zasadach jak podmiot zatrudniający.
+### 4)
 
-**Art. 12.** Obsługa umowy w Systemie kończy się po upływie:
+obsługę wygaśnięcia umowy;
 
-**Art. 13.** Minister właściwy do spraw pracy niszczy w Systemie dokumentację pracowniczą albo dokumentację umowy w sposób uniemożliwiający odtworzenie jej treści:
+### 5)
 
-**Art. 14.**
+obliczanie wymiaru urlopu wypoczynkowego przysługującego pracownikowi;
 
-1. W przypadku utraty przez pracodawcę, zleceniodawcę albo rodzica statusu, którym mowa w art. 1 ust. 3, umowa jest obsługiwana w Systemie nie dłużej niż przez okres 2 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia zaistnienia tych okoliczności.
+### 6)
 
-2. W przypadku, którym mowa w ust. 1, dokumenty wchodzące w skład dokumentacji pracowniczej albo dokumentacji umowy będą przechowywane w Systemie do czasu zniszczenia tej dokumentacji zgodnie z art. 13.
+prowadzenie i przechowywanie dokumentacji:
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób. Art. 15–19. (pominięte)
+### a)
 
-**Art. 20.**
+w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracowników, zwanej dalej „dokumentacją pracowniczą”,
 
-1. W roku akademickim 2022/2023 wysokość miesięcznego dochodu na osobę w rodzinie studenta uprawniająca do ubiegania się stypendium socjalne, której mowa w art. 87 ust. 2 ustawy z dnia 20 lipca 2018 r. – Prawo szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234), od dnia 1 stycznia 2023 r. nie może być:
+### b)
 
-- **1)** mniejsza niż 1,30 kwoty określonej w art. 8 ust. 1 pkt 2 ustawy zmienianej w art. 15 ;
-- **2)** większa niż 1,60 sumy kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390, 658 i 1429).
+dotyczącej osób wykonujących pracę na podstawie umów, o których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny albo art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, zwanej dalej „dokumentacją umowy”;
 
-2. W przypadku gdy wysokość miesięcznego dochodu na osobę w rodzinie studenta uprawniająca do ubiegania się stypendium socjalne, ustalona zgodnie z ust. 1, jest większa niż 1,30 sumy kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych, stypendium socjalne może być przyznane z uwzględnieniem tej wysokości i wypłacane od dnia 1 stycznia 2023 r.
+### 7)
 
-**Art. 21.** Środki finansowe na szkolnictwo wyższe i naukę przyznane w formie dotacji celowej na rok 2022, na realizację zadań, których mowa w art. 365 pkt 2b ustawy z dnia 20 lipca 2018 r. – Prawo szkolnictwie wyższym i nauce, pozostają w roku 2023 na finansowanie realizacji zadań, na które zostały przyznane.
+wydanie świadectwa pracy;
 
-**Art. 22.** Roszczenia z tytułu umów jednorazowe środki na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej, a także umów refundację kosztów wyposażenia lub doposażenia stanowiska pracy, jednorazowe środki na utworzenie stanowiska pracy lub finansowanie spółdzielni socjalnej kosztów wynagrodzenia, nieprzedawnione w dniu wejścia w życie art. 16 pkt 8, ulegają przedawnieniu zgodnie z art. 76 ust. 3b ustawy zmienianej w art. 16 .
+### 8)
 
-**Art. 23.**
+dostęp do dokumentacji pracowniczej i dokumentacji umowy;
 
-1. Tworzy się System.
+### 9)
 
-2. Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw gospodarki udostępni System w okresie 3 lat od dnia wejścia w życie ustawy.
+obliczanie należności podatkowych pracownika, zleceniobiorcy oraz niani;
 
-3. Minister właściwy do spraw pracy ogłasza w swoim dzienniku urzędowym oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający termin wdrożenia rozwiązań technicznych umożliwiających udostępnienie Systemu. Komunikat ogłasza się w terminie co najmniej 30 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.
+### 10)
 
-**Art. 24.** Zakład Ubezpieczeń Społecznych zgłosi ministrowi właściwemu do spraw pracy gotowość systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych do przyjmowania danych ubezpieczeniowych, których mowa w art. 4 ust. 2.
+przekazywanie do urzędu skarbowego informacji o pobranych zaliczkach na podatek dochodowy, o których mowa w ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
 
-**Art. 25.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+### 2.
 
+System umożliwia pracodawcy, zleceniodawcy i rodzicom przekazanie do systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych danych ubezpieczeniowych związanych z ubezpieczeniami społecznymi lub ubezpieczeniem zdrowotnym pracownika, zleceniobiorcy, niani i członków ich rodzin, zgodnie z przepisami ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+
+### 3.
+
+Dane ubezpieczeniowe, o których mowa w ust. 2, są przekazywane na profilu informacyjnym pracodawcy, zleceniodawcy albo rodziców utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. Jeżeli pracodawca, zleceniodawca albo rodzice nie posiadają profilu informacyjnego, Zakład Ubezpieczeń Społecznych zakłada ten profil po autoryzacji dostępu do systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych.
+
+### 4.
+
+Za pośrednictwem Systemu:
+
+### 1)
+
+pracodawca jest powiadamiany o obowiązkach wynikających z art. 29 § 3-33 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy;
+
+### 2)
+
+osoba, z którą umowa została rozwiązana, jest powiadamiana o warunkach nabycia zasiłku dla bezrobotnych i uzyskania ubezpieczenia zdrowotnego.
+
+### Art. 5.
+
+### 1.
+
+Przed zawarciem umowy:
+
+### 1)
+
+pracodawca, zleceniodawca, rodzice oraz osoby ubiegające się o zawarcie umowy są powiadamiani za pośrednictwem Systemu o warunkach obsługi umowy w Systemie;
+
+### 2)
+
+pracodawca, zleceniodawca i rodzice informują osoby ubiegające się o zawarcie umowy o zamiarze obsługi umowy za pośrednictwem Systemu.
+
+### 2.
+
+Do obsługi umowy za pośrednictwem Systemu jest wymagana zgoda stron umowy, która nie może zostać odwołana.
+
+### 3.
+
+W celu zapewnienia obsługi umowy za pośrednictwem Systemu konieczne jest wprowadzenie do Systemu danych niezbędnych do zawarcia umowy oraz wypełnienie formularza umowy udostępnionego w Systemie. Za prawidłowość danych wprowadzanych do Systemu odpowiadają strony umowy w zakresie, w jakim wprowadziły te dane.
+
+### 4.
+
+Zawarcie umowy obsługiwanej za pośrednictwem Systemu następuje z chwilą opatrzenia umowy kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym przez strony umowy.
+
+### 5.
+
+Opatrzenie umowy podpisem osobistym albo podpisem zaufanym wywołuje skutek prawny równoważny podpisowi własnoręcznemu.
+
+### 6.
+
+Zmiana umowy obsługiwanej za pośrednictwem Systemu albo jej rozwiązanie następują przy wykorzystaniu formularza udostępnionego w Systemie. Przepisy ust. 3-5 stosuje się odpowiednio.
+
+### 7.
+
+Wydanie świadectwa pracy w przypadku umowy obsługiwanej za pośrednictwem Systemu następuje przy wykorzystaniu formularza świadectwa pracy udostępnionego w Systemie. Pracodawca wypełnia formularz świadectwa pracy oraz opatruje go kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym. Opatrzenie świadectwa pracy podpisem osobistym albo podpisem zaufanym wywołuje skutek równoważny podpisowi własnoręcznemu.
+
+### 8.
+
+Minister właściwy do spraw pracy udostępnia w Systemie formularze, o których mowa w ust. 3, 6 i 7, uwzględniające zakres danych niezbędnych do prawidłowego zawarcia, zmiany lub rozwiązania umowy oraz wydania świadectwa pracy, wymaganych przepisami prawa pracy, ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny lub ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3. Przepisu art. 19b ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne nie stosuje się.
+
+### 9.
+
+Zakres danych zawartych w formularzach, o których mowa w ust. 3, 6 i 7, uzgadnia się z:
+
+### 1)
+
+Ministrem Sprawiedliwości - w zakresie umów, o których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny;
+
+### 2)
+
+ministrem właściwym do spraw rodziny - w zakresie umów, o których mowa w art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3;
+
+### 3)
+
+ministrem właściwym do spraw gospodarki - w zakresie umów, których stroną jest mikroprzedsiębiorca, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców.
+
+### Art. 6.
+
+### 1.
+
+W przypadku obsługi za pośrednictwem Systemu umowy, o której mowa w art. 25 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, pracodawca wprowadza do Systemu:
+
+### 1)
+
+dane pracownika, o których mowa w art. 221 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy;
+
+### 2)
+
+dane pracodawcy:
+
+### a)
+
+imię i nazwisko, nazwę lub firmę,
+
+### b)
+
+adres:
+
+- - o którym mowa w art. 5 ust. 1 pkt 6 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy - w przypadku osoby fizycznej wykonującej działalność gospodarczą,
+
+- - miejsca zamieszkania - w przypadku osoby fizycznej niewykonującej działalności gospodarczej,
+
+- - siedziby - w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,
+
+### c)
+
+NIP - w przypadku osoby prawnej albo w przypadku jednostki organizacyjnej nieposiadającej osobowości prawnej,
+
+### d)
+
+numer PESEL - w przypadku osoby fizycznej, a w przypadku jego braku - rodzaj, numer i serię dokumentu potwierdzającego tożsamość,
+
+### e)
+
+numer w Krajowym Rejestrze Sądowym albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej - jeżeli podmiot zatrudniający podlega obowiązkowi wpisu do tego rejestru lub do tej ewidencji;
+
+### 3)
+
+rodzaj umowy;
+
+### 4)
+
+datę zawarcia umowy, termin rozpoczęcia pracy oraz datę wygaśnięcia i rozwiązania umowy;
+
+### 5)
+
+warunki pracy i płacy, o których mowa w art. 29 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy;
+
+### 6)
+
+informacje, o których mowa w art. 29 § 11 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy - jeżeli umowę o pracę zawarto na czas określony w celu lub w przypadku określonym w tym przepisie.
+
+### 2.
+
+W przypadku obsługi za pośrednictwem Systemu umów, o których mowa w art. 734 i art. 750 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny, zleceniodawca wprowadza do Systemu:
+
+### 1)
+
+dane, o których mowa w ust. 1 pkt 2, dotyczące zleceniodawcy;
+
+### 2)
+
+dane dotyczące zleceniobiorcy:
+
+### a)
+
+imię i nazwisko,
+
+### b)
+
+adres:
+
+- - o którym mowa w art. 5 ust. 1 pkt 6 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy - w przypadku osoby fizycznej wykonującej działalność gospodarczą,
+
+- - miejsca zamieszkania - w przypadku osoby fizycznej niewykonującej działalności gospodarczej,
+
+- - siedziby - w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej,
+
+### c)
+
+numer PESEL, a w przypadku jego braku - rodzaj, numer i serię dokumentu potwierdzającego tożsamość;
+
+### 3)
+
+datę zawarcia, rozpoczęcia i wygaśnięcia umowy;
+
+### 4)
+
+przedmiot zlecenia;
+
+### 5)
+
+wysokość wynagrodzenia;
+
+### 6)
+
+informację, czy zleceniobiorca posiada inny tytuł do ubezpieczenia społecznego, wraz ze wskazaniem tego tytułu.
+
+### 3.
+
+W przypadku obsługi za pośrednictwem Systemu umowy, o której mowa w art. 50 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, rodzice wprowadzają do Systemu dane, o których mowa w art. 50 ust. 4 tej ustawy.
+
+### 4.
+
+Pracodawca, zleceniodawca i rodzice mogą wprowadzić do Systemu szczególne warunki umowy uzgodnione między stronami umowy.
+
+### 5.
+
+Pracodawca, zleceniodawca i rodzice wprowadzają do Systemu dane:
+
+### 1)
+
+wymagane przepisami dotyczącymi dokumentacji pracowniczej albo dokumentacji umowy;
+
+### 2)
+
+niezbędne do rozwiązania umowy lub wydania świadectwa pracy.
+
+### 6.
+
+W celu zapewnienia prawidłowej obsługi umowy strony umowy wprowadzają do Systemu numer telefonu oraz adres poczty elektronicznej.
+
+### 7.
+
+Dane, o których mowa w ust. 6, wprowadzone do Systemu przez pracownika, zleceniobiorcę albo nianię nie są udostępniane pracodawcy, zleceniodawcy albo rodzicom.
+
+### Art. 7.
+
+### 1.
+
+Pracownik, zleceniobiorca i niania mogą składać za pośrednictwem Systemu:
+
+### 1)
+
+oświadczenia woli, w tym oświadczenia dotyczące danych osobowych, zgromadzone w związku z ubieganiem się o zatrudnienie;
+
+### 2)
+
+wnioski dotyczące w szczególności korzystania z opieki nad dzieckiem do lat 14 lub urlopu okolicznościowego, lub urlopu bezpłatnego;
+
+### 3)
+
+inne dokumenty dotyczące umowy.
+
+### 2.
+
+Pracodawca, zleceniodawca i rodzice dokumenty, o których mowa w ust. 1 pkt 1 lub 3, składają za pośrednictwem Systemu.
+
+### 3.
+
+Dokumenty, o których mowa w ust. 1, mogą być składane przy wykorzystaniu udostępnionego w Systemie formularza. Przepisy art. 5 ust. 3-5 stosuje się odpowiednio.
+
+### 4.
+
+Minister właściwy do spraw pracy może udostępnić w Systemie formularze dokumentów, o których mowa w ust. 1, uwzględniające zakres danych niezbędnych do prawidłowego złożenia tych dokumentów, wymaganych przepisami prawa pracy, ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny lub ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3. Przepisu art. 19b ust. 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne nie stosuje się.
+
+### 5.
+
+Zakres danych zawartych w formularzach, o których mowa w ust. 4, uzgadnia się z Ministrem Sprawiedliwości, ministrem właściwym do spraw rodziny oraz ministrem właściwym do spraw gospodarki.
+
+### Art. 8.
+
+### 1.
+
+W przypadku obsługi umowy za pośrednictwem Systemu dokumentacja tej umowy jest prowadzona i przechowywana w Systemie w postaci elektronicznej.
+
+### 2.
+
+W przypadku dokumentu utworzonego w postaci papierowej pracodawca, zleceniodawca albo rodzice wprowadzają do Systemu odwzorowanie cyfrowe tego dokumentu i opatrują go kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym potwierdzającym zgodność odwzorowania cyfrowego z dokumentem papierowym. W takim przypadku dokumentem stanowiącym dokumentację pracowniczą albo dokumentację umowy jest dokument umieszczony w Systemie.
+
+### 3.
+
+Do prowadzenia i przechowywania dokumentacji określającej sposób potwierdzania liczby godzin wykonywania zlecenia oraz potwierdzającej liczbę tych godzin przepis art. 8c ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. z 2020 r. poz. 2207](https://api.sejm.gov.pl/eli/acts/DU/2020/2207/text.html)) stosuje się odpowiednio.
+
+### Art. 9.
+
+### 1.
+
+System zawiadamia strony umowy o:
+
+### 1)
+
+zmianie w zakresie danych, o których mowa w art. 6,
+
+### 2)
+
+otrzymaniu dokumentów, o których mowa w art. 7 ust. 1
+
+- przez wysłanie wiadomości na adres poczty elektronicznej wskazany w Systemie wraz z pouczeniem dotyczącym sposobu odbioru i potwierdzenia doręczenia dokumentów w Systemie.
+
+### 2.
+
+Strony umowy mogą być informowane o otrzymaniu dokumentów, o których mowa w art. 7 ust. 1, przez wysłanie zawiadomienia w postaci krótkiej wiadomości tekstowej (SMS) na wskazany w Systemie numer telefonu.
+
+### 3.
+
+Datę złożenia dokumentów, o których mowa w art. 7 ust. 1, System potwierdza automatycznie.
+
+### 4.
+
+Datą doręczenia dokumentów, o których mowa w art. 7 ust. 1, adresatowi jest data potwierdzenia w Systemie zapoznania się przez niego z ich treścią. W przypadku braku takiego potwierdzenia dokument uznaje się za doręczony po upływie 14 dni od dnia wysłania wiadomości na adres poczty elektronicznej.
+
+### Art. 10.
+
+### 1.
+
+Strony umowy mogą pobrać z Systemu dokumentację pracowniczą lub dokumentację umowy.
+
+### 2.
+
+Pracownik albo były pracownik może pobrać z Systemu dokumentację pracowniczą w terminie, o którym mowa w art. 946 pkt 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 3.
+
+W przypadku śmierci pracownika lub byłego pracownika osobom, o których mowa w art. 949§ 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, przysługuje prawo odbioru od pracodawcy dokumentacji pracowniczej pobranej z Systemu.
+
+### Art. 11.
+
+### 1.
+
+Minister właściwy do spraw pracy lub osoba przez niego upoważniona umożliwia dostęp do Systemu:
+
+### 1)
+
+nowemu pracodawcy - w przypadku, o którym mowa w art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy;
+
+### 2)
+
+zarządcy sukcesyjnemu, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw ([Dz. U. z 2021 r. poz. 170](https://api.sejm.gov.pl/eli/acts/DU/2021/170/text.html)), albo osobie, o której mowa w art. 14 tej ustawy - w przypadku śmierci pracodawcy.
+
+### 2.
+
+Dostęp do Systemu następuje na wniosek podmiotów wskazanych w ust. 1.
+
+### 3.
+
+W sprawach wynikających z prowadzenia przedsiębiorstwa w spadku po pracodawcy będącym podmiotem zatrudniającym podmioty wskazane w ust. 1 pkt 2 mogą zawierać nowe umowy za pośrednictwem Systemu na takich samych zasadach jak podmiot zatrudniający.
+
+### Art. 12.
+
+Obsługa umowy w Systemie kończy się po upływie:
+
+### 1)
+
+okresu przechowywania, o którym mowa w art. 94 pkt 9b ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy - w przypadku dokumentacji pracowniczej;
+
+### 2)
+
+10 lat od końca roku kalendarzowego, w którym umowa uległa rozwiązaniu lub wygasła - w przypadku dokumentacji umowy.
+
+### Art. 13.
+
+Minister właściwy do spraw pracy niszczy w Systemie dokumentację pracowniczą albo dokumentację umowy w sposób uniemożliwiający odtworzenie jej treści:
+
+### 1)
+
+w terminie, o którym mowa w art. 947 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy - w przypadku dokumentacji pracowniczej;
+
+### 2)
+
+po upływie terminu, o którym mowa w art. 12 pkt 2 - w przypadku dokumentacji umowy.
+
+### Art. 14.
+
+### 1.
+
+W przypadku utraty przez pracodawcę, zleceniodawcę albo rodziców statusu, o którym mowa w art. 1 ust. 3, umowa jest obsługiwana w Systemie nie dłużej niż przez okres 2 lat, licząc od końca roku kalendarzowego, w którym dokonano zgłoszenia zaistnienia tych okoliczności.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, dokumenty wchodzące w skład dokumentacji pracowniczej albo dokumentacji umowy będą przechowywane w Systemie do czasu zniszczenia tej dokumentacji zgodnie z art. 13.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do podmiotu niebędącego mikroprzedsiębiorcą zatrudniającego nie więcej niż 9 osób.
+
+### Art. 15.
+
+W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2021 r. poz. 2268](https://api.sejm.gov.pl/eli/acts/DU/2021/2268/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127 i 2140.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 17 w ust. 1 uchyla się pkt 17;
+
+### 2)
+
+w art. 18:
+
+### a)
+
+w ust. 1 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu:
+
+„
+
+### 10)
+
+zapewnienie utrzymania oraz rozwoju systemu teleinformatycznego, a także sporządzanie sprawozdawczości i przekazywanie jej właściwemu wojewodzie, w formie dokumentu elektronicznego, z zastosowaniem systemu teleinformatycznego.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „o których mowa w ust. 1” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1-9”,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Środki na realizację zadania, o którym mowa w ust. 1 pkt 10, zapewnia budżet państwa.
+
+” ;
+
+### 3)
+
+w art. 19 uchyla się pkt 17;
+
+### 4)
+
+w art. 20 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+zapewnienie utrzymania oraz rozwoju systemu teleinformatycznego, a także sporządzanie sprawozdawczości i przekazywanie jej właściwemu wojewodzie, w formie dokumentu elektronicznego, z zastosowaniem systemu teleinformatycznego.
+
+” ;
+
+### 5)
+
+w art. 22 pkt 13 otrzymuje brzmienie:
+
+„
+
+### 13)
+
+sprawowanie nadzoru nad funkcjonowaniem systemu teleinformatycznego w jednostkach organizacyjnych pomocy społecznej w województwie;
+
+” ;
+
+### 6)
+
+w art. 23:
+
+### a)
+
+w ust. 1 pkt 9 otrzymuje brzmienie:
+
+„
+
+### 9)
+
+określanie zadań administracji publicznej w zakresie utrzymania i rozwoju systemu teleinformatycznego w jednostkach organizacyjnych pomocy społecznej w województwach, przekazywanie środków na finansowanie oraz sprawowanie nadzoru nad funkcjonowaniem tego systemu;
+
+” ,
+
+### b)
+
+w ust. 3 w pkt 1 wyrazy „art. 17 ust. 1 pkt 17, art. 19 pkt 17,” zastępuje się wyrazami „art. 18 ust. 1 pkt 10, art. 20 ust. 1 pkt 4a,”,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku gdy realizacja zadań określonych w ustawie jest związana z przekazywaniem informacji za pomocą systemu teleinformatycznego, podmioty obowiązane do przekazywania tych informacji na podstawie ustawy używają oprogramowania, które jest zgodne z wymaganiami określonymi przez ministra właściwego do spraw zabezpieczenia społecznego w przepisach wydanych na podstawie ust. 3.
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw zabezpieczenia społecznego, realizując zadania określone w ustawie związane z przekazywaniem informacji za pomocą środków komunikacji elektronicznej, uwzględnia zasadę równego traktowania wszystkich powszechnie użytkowanych w kraju systemów operacyjnych oraz uwzględnia potrzebę umożliwienia wszystkim podmiotom obowiązanym do przechowywania informacji w formie dokumentu elektronicznego, stosowania oprogramowania dostosowanego do używanych systemów teleinformatycznych.
+
+” .
+
+### Art. 16.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2022 r. poz. 690](https://api.sejm.gov.pl/eli/acts/DU/2022/690/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140 i 2666.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 1 w pkt 6 po wyrazach „Europejskiego Funduszu Społecznego” dodaje się wyrazy „lub Europejskiego Funduszu Społecznego Plus”;
+
+### 2)
+
+w art. 8 w ust. 1 w pkt 6:
+
+### a)
+
+we wprowadzeniu do wyliczenia po wyrazach „Europejskiego Funduszu Społecznego” dodaje się wyrazy „lub Europejskiego Funduszu Społecznego Plus”,
+
+### b)
+
+lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+wykonywanie zadań wynikających z programów, o których mowa w przepisach o Narodowym Planie Rozwoju, przepisach o zasadach prowadzenia polityki rozwoju, przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 lub przepisach o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027,
+
+” ;
+
+### 3)
+
+w art. 36d w ust. 5 po wyrazach „Europejskiego Funduszu Społecznego” dodaje się wyrazy „lub Europejskiego Funduszu Społecznego Plus”;
+
+### 4)
+
+w art. 40 w ust. 2c we wprowadzeniu do wyliczenia po wyrazach „Europejskiego Funduszu Społecznego” dodaje się wyrazy „, Europejskiego Funduszu Społecznego Plus”;
+
+### 5)
+
+w art. 41 ust. 11 otrzymuje brzmienie:
+
+„
+
+### 11.
+
+Osoby bezrobotne biorące udział bez skierowania starosty w szkoleniach finansowanych z publicznych środków wspólnotowych i publicznych środków krajowych na podstawie umowy o dofinansowanie projektu albo decyzji, o których mowa w przepisach o Narodowym Planie Rozwoju, przepisach o zasadach prowadzenia polityki rozwoju, przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 albo przepisach o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027, organizowanych przez inny podmiot niż powiatowy urząd pracy, powiadamiają powiatowy urząd pracy o udziale w szkoleniu w terminie 7 dni przed dniem rozpoczęcia szkolenia.
+
+” ;
+
+### 6)
+
+w art. 61ea pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+pożyczki na podjęcie działalności gospodarczej poszukującym pracy, którzy w okresie ostatnich trzech miesięcy przed miesiącem złożenia wniosku o pożyczkę średniomiesięcznie uzyskiwali wynagrodzenie z tytułu zatrudnienia lub innej pracy zarobkowej, zasiłki lub inne świadczenia wypłacane z Funduszu Pracy, lub inne przychody, w wysokości nieprzekraczającej przeciętnego wynagrodzenia;
+
+” ;
+
+### 7)
+
+w art. 62a w ust. 8 po wyrazach „Europejskiego Funduszu Społecznego” dodaje się wyrazy „lub Europejskiego Funduszu Społecznego Plus”;
+
+### 8)
+
+w art. 76 po ust. 3a dodaje się ust. 3b w brzmieniu:
+
+„
+
+### 3b.
+
+Roszczenia z tytułu umów o jednorazowe środki na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej, a także umów o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o jednorazowe środki na utworzenie stanowiska pracy lub o finansowanie spółdzielni socjalnej kosztów wynagrodzenia ulegają przedawnieniu z upływem 3 lat od dnia wykonania umowy, a w przypadku jej niewykonania - od dnia, w którym umowa powinna być wykonana.
+
+” ;
+
+### 9)
+
+w art. 108 w ust. 1 w pkt 65 kropkę zastępuje się średnikiem i dodaje się pkt 66 w brzmieniu:
+
+„
+
+### 66)
+
+kosztów budowy, funkcjonowania i rozwijania systemu teleinformatycznego do obsługi umów, o którym mowa w ustawie z dnia 16 listopada 2022 r. o systemie teleinformatycznym do obsługi niektórych umów ([Dz. U. poz. 2754](https://api.sejm.gov.pl/eli/acts/DU/2022/2754/text.html)), w zakresie właściwości ministra właściwego do spraw pracy.
+
+” ;
+
+### 10)
+
+w art. 109 w ust. 7 wyrazy „oraz przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020” zastępuje się wyrazami „, przepisach o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 oraz przepisach o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027”.
+
+### Art. 17.
+
+W ustawie z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny ([Dz. U. z 2021 r. poz. 1744](https://api.sejm.gov.pl/eli/acts/DU/2021/1744/text.html) oraz [z 2022 r. poz. 2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html) i [2243](https://api.sejm.gov.pl/eli/acts/DU/2022/2243/text.html)) w art. 36 w ust. 1:
+
+### 1)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Maksymalny limit wydatków z budżetu państwa na lata 2017-2028 na realizację ustawy przez gminy, wojewodów, ministra właściwego do spraw rodziny i ministra właściwego do spraw transportu wynosi 818,90 mln zł, z tego: ” ;
+
+### 2)
+
+pkt 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6)
+
+w 2022 r. - 78 mln zł, w tym:
+
+### a)
+
+7 mln zł na realizację ustawy przez gminy,
+
+### b)
+
+9 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
+
+### c)
+
+55 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
+
+### d)
+
+7 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+
+### 7)
+
+w 2023 r. - 91 mln zł, w tym:
+
+### a)
+
+10 mln zł na realizację ustawy przez gminy,
+
+### b)
+
+12 mln zł na realizację ustawy przez ministra właściwego do spraw rodziny,
+
+### c)
+
+60 mln zł na uprawnienia do ulgowych przejazdów środkami publicznego transportu zbiorowego dla rodziców oraz małżonków rodziców posiadających ważną Kartę Dużej Rodziny,
+
+### d)
+
+9 mln zł na uprawnienia do ulgowych opłat za wydanie paszportu;
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 8 lutego 2018 r. o zmianie ustawy o pomocy społecznej ([Dz. U. poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2018/700/text.html) oraz [z 2020 r. poz. 875](https://api.sejm.gov.pl/eli/acts/DU/2020/875/text.html)) art. 4 otrzymuje brzmienie:
+
+„
+
+### Art. 4.
+
+Podmioty prowadzące w dniu wejścia w życie niniejszej ustawy ogrzewalnie, noclegownie lub schroniska dla osób bezdomnych, niespełniające standardów określonych w przepisach wydanych na podstawie art. 48a ust. 14 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, są obowiązane dostosować do tych standardów ogrzewalnie, noclegownie lub schroniska dla osób bezdomnych, do dnia 31 grudnia 2023 r.
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych ([Dz. U. z 2022 r. poz. 569](https://api.sejm.gov.pl/eli/acts/DU/2022/569/text.html) i [1002](https://api.sejm.gov.pl/eli/acts/DU/2022/1002/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 152 w ust. 1 wyrazy „po dniu 31 stycznia 2023 r.” zastępuje się wyrazami „po dniu 31 grudnia 2023 r.”;
+
+### 2)
+
+w art. 155:
+
+### a)
+
+po ust. 9 dodaje się ust. 9a w brzmieniu:
+
+„
+
+### 9a.
+
+Udostępnienie punktu dostępu do usług rejestrowanego doręczenia elektronicznego w ruchu transgranicznym, o którym mowa w art. 58 ust. 1 pkt 4, następuje od dnia określonego w komunikacie wydanym na podstawie ust. 10.
+
+” ,
+
+### b)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Minister właściwy do spraw informatyzacji, mając na uwadze uwarunkowania techniczne i organizacyjne niezbędne do doręczania korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego lub publicznej usługi hybrydowej oraz udostępnienia w systemie teleinformatycznym punktu dostępu do usług rejestrowanego doręczenia elektronicznego w ruchu transgranicznym, ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający termin wdrożenia rozwiązań technicznych umożliwiających:
+
+### 1)
+
+podmiotom, o których mowa w:
+
+### a)
+
+ust. 1-5 oraz w art. 9 ust. 1 pkt 1-8, powszechne doręczanie i odbieranie korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego lub publicznej usługi hybrydowej,
+
+### b)
+
+ust. 6, powszechne doręczanie i odbieranie korespondencji z wykorzystaniem publicznej usługi rejestrowanego doręczenia elektronicznego;
+
+### 2)
+
+dostęp do usług rejestrowanego doręczenia elektronicznego w ruchu transgranicznym.
+
+” ;
+
+### 3)
+
+w art. 166:
+
+### a)
+
+w pkt 5 po wyrazach „art. 31,” dodaje się wyrazy „art. 58 ust. 1 pkt 4,”,
+
+### b)
+
+uchyla się pkt 7.
+
+### Art. 20.
+
+### 1.
+
+W roku akademickim 2022/2023 wysokość miesięcznego dochodu na osobę w rodzinie studenta uprawniająca do ubiegania się o stypendium socjalne, o której mowa w art. 87 ust. 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.](#gloss-0:6:)), od dnia 1 stycznia 2023 r. nie może być:
+
+### 1)
+
+mniejsza niż 1,30 kwoty określonej w art. 8 ust. 1 pkt 2 ustawy zmienianej w art. 15;
+
+### 2)
+
+większa niż 1,60 sumy kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. z 2022 r. poz. 615](https://api.sejm.gov.pl/eli/acts/DU/2022/615/text.html), [1265](https://api.sejm.gov.pl/eli/acts/DU/2022/1265/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html)).
+
+### 2.
+
+W przypadku gdy wysokość miesięcznego dochodu na osobę w rodzinie studenta uprawniająca do ubiegania się o stypendium socjalne, ustalona zgodnie z ust. 1, jest większa niż 1,30 sumy kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, stypendium socjalne może być przyznane z uwzględnieniem tej wysokości i wypłacane od dnia 1 stycznia 2023 r.
+
+### Art. 21.
+
+Środki finansowe na szkolnictwo wyższe i naukę przyznane w formie dotacji celowej na rok 2022, na realizację zadań, o których mowa w art. 365 pkt 2b ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, pozostają w dyspozycji podmiotu, któremu zostały przyznane, i mogą zostać wykorzystane w roku 2023 na finansowanie realizacji zadań, na które zostały przyznane.
+
+### Art. 22.
+
+Roszczenia z tytułu umów o jednorazowe środki na podjęcie działalności gospodarczej, założenie lub przystąpienie do spółdzielni socjalnej, a także umów o refundację kosztów wyposażenia lub doposażenia stanowiska pracy, o jednorazowe środki na utworzenie stanowiska pracy lub o finansowanie spółdzielni socjalnej kosztów wynagrodzenia, nieprzedawnione w dniu wejścia w życie art. 16 pkt 8, ulegają przedawnieniu zgodnie z art. 76 ust. 3b ustawy zmienianej w art. 16.
+
+### Art. 23.
+
+### 1.
+
+Tworzy się System.
+
+### 2.
+
+Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw gospodarki udostępni System w okresie 3 lat od dnia wejścia w życie ustawy.
+
+### 3.
+
+Minister właściwy do spraw pracy ogłasza w swoim dzienniku urzędowym oraz na stronie podmiotowej Biuletynu Informacji Publicznej komunikat określający termin wdrożenia rozwiązań technicznych umożliwiających udostępnienie Systemu. Komunikat ogłasza się w terminie co najmniej 30 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.
+
+### Art. 24.
+
+Zakład Ubezpieczeń Społecznych zgłosi ministrowi właściwemu do spraw pracy gotowość systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych do przyjmowania danych ubezpieczeniowych, o których mowa w art. 4 ust. 2.
+
+### Art. 25.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 15, który wchodzi w życie z dniem 1 stycznia 2024 r.;
+
+### 2)
+
+art. 16 pkt 1-7 i 10, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 10 listopada 2022 r.;
+
+### 3)
+
+art. 16 pkt 8 i art. 22, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia;
+
+### 4)
+
+art. 17, który wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 16 listopada 2022 r.;
+
+### 5)
+
+art. 18, art. 19 pkt 1 i art. 21, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 6)
+
+art. 19 pkt 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 1 października 2022 r.;
+
+### 7)
+
+art. 20, który wchodzi w życie z dniem 1 stycznia 2023 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 marca 2004 r. o pomocy społecznej, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, ustawę z dnia 8 lutego 2018 r. o zmianie ustawy o pomocy społecznej oraz ustawę z dnia 18 listopada 2020 r. o doręczeniach elektronicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140 i 2666. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1079, 1115, 1265, 1933, 2185, 2476 i 2707. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127 i 2140. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 830, 1079, 1383, 1561, 1812, 2140 i 2666. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.

@@ -8,11 +8,9 @@ pos: 300
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu nowych nazw niektórym akademiom rolniczym
-
-*USTAWA z dnia 7 lutego 2008 r.*
+# Ustawa z dnia 7 lutego 2008 r. o nadaniu nowych nazw niektórym akademiom rolniczym
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,22 @@ domain: null
 | Data ogłoszenia | 2008-02-07 |
 | Data wydania | 2008-03-27 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080520300) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/300/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/300/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/300) |
 
-**Art. 1.** Akademii Rolniczej im. Hugona Kołłątaja w Krakowie nadaje się nazwę „Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie”.
+## Treść ustawy
 
-**Art. 2.** Akademii Rolniczej w Lublinie nadaje się nazwę „Uniwersytet Przyrodniczy w Lublinie”.
+### Art. 1.
 
-**Art. 3.** Akademii Rolniczej im. Augusta Cieszkowskiego w Poznaniu nadaje się nazwę „Uniwersytet Przyrodniczy w Poznaniu”.
+Akademii Rolniczej im. Hugona Kołłątaja w Krakowie nadaje się nazwę „Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 2.
 
+Akademii Rolniczej w Lublinie nadaje się nazwę „Uniwersytet Przyrodniczy w Lublinie”.
+
+### Art. 3.
+
+Akademii Rolniczej im. Augusta Cieszkowskiego w Poznaniu nadaje się nazwę „Uniwersytet Przyrodniczy w Poznaniu”.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -8,11 +8,9 @@ pos: 401
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu nowej nazwy Akademii Ekonomicznej im. Oskara Langego we Wrocławiu
-
-*USTAWA z dnia 18 marca 2008 r.*
+# Ustawa z dnia 18 marca 2008 r. o nadaniu nowej nazwy Akademii Ekonomicznej im. Oskara Langego we Wrocławiu
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2008-03-18 |
 | Data wydania | 2008-04-21 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080660401) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/401/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/401/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/401) |
 
-**Art. 1.** Akademii Ekonomicznej im. Oskara Langego we Wrocławiu nadaje się nazwę „Uniwersytet Ekonomiczny we Wrocławiu”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Akademii Ekonomicznej im. Oskara Langego we Wrocławiu nadaje się nazwę „Uniwersytet Ekonomiczny we Wrocławiu”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

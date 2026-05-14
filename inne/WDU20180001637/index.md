@@ -8,9 +8,9 @@ pos: 1637
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy zwalczaniu oraz niektórych innych ustaw
+# Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz niektórych innych ustaw [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/943 z dnia 8 czerwca 2016 r. w sprawie ochrony niejawnego know-how i niejawnych informacji handlowych (tajemnic przedsiębiorstwa) przed ich bezprawnym pozyskiwaniem, wykorzystywaniem i ujawnianiem (Dz. Urz. UE L 157 z 15.06.2016, str. 1).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,35 +22,234 @@ domain: null
 | Data ogłoszenia | 2018-07-05 |
 | Data wydania | 2018-08-27 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1637/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1637/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1637) |
 
-**Art. 1.** W ustawie 16 kwietnia 1993 zwalczaniu 419) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie 17 listopada 1964 Kodeks postępowania cywilnego 1360, 1467, 1499, 1544 1629) wprowadza następujące zmiany:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 3 lipca 2002 r. - Prawo lotnicze, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym, ustawę z dnia 9 października 2015 r. o produktach biobójczych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi oraz ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu.](#gloss-0:2:)
 
-**Art. 4.** W ustawie 6 września 2001 Prawo farmaceutyczne 2017 2211, późn. zm. ) 8 3 wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu 2003 1503, późn. zm.)” zastępuje wyrazami „art. 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637)”.
+### Art. 1.
 
-**Art. 5.** W ustawie 3 lipca 2002 Prawo lotnicze 1183 1629) 77 6 wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu 419)” zastępuje wyrazami „art. 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637)”.
+W ustawie z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2018 r. poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2018/419/text.html)) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie 11 kwietnia 2003 kształtowaniu ustroju rolnego 1405 1496) 3a 3 wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu
+### 1)
 
-**Art. 7.** W ustawie 16 lutego 2007 ochronie konsumentów 798 650) 4 pkt 17 otrzymuje brzmienie: „17) tajemnicy przedsiębiorstwa rozumie to tajemnicę przedsiębiorstwa rozumieniu 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637);”.
+art. 11 otrzymuje brzmienie:
 
-**Art. 8.** W ustawie 25 lutego 2011 substancjach chemicznych ich mieszaninach 143) 16 11b wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu 2003 1503, późn. zm.)” zastępuje wyrazami „art. 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637)”.
+„
 
-**Art. 9.** W ustawie 9 czerwca 2011 Prawo geologiczne górnicze 2017 2126 oraz 650, 723, 1563 1629) 108 11a pkt 1 otrzymuje brzmienie: „1) tajemnicy przedsiębiorstwa rozumieniu 11 2 ustawy 16 kwietnia 1993 zwalczaniu nieuczciwej 419 1637);”.
+### Art. 11.
 
-**Art. 10.** W ustawie 5 sierpnia 2015 rozpatrywaniu reklamacji podmioty rynku finansowego Rzeczniku Finansowym 2017 2270 2486 oraz 1075) 32a 1 wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu 2003 1503, późn. zm.)” zastępuje wyrazami „art. 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637)”.
+### 1.
 
-**Art. 11.** W ustawie 9 października 2015 produktach biobójczych 122, 138, 650
+Czynem nieuczciwej konkurencji jest ujawnienie, wykorzystanie lub pozyskanie cudzych informacji stanowiących tajemnicę przedsiębiorstwa.
 
-**Art. 12.** W ustawie 10 czerwca 2016 Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji 2017 1937 2491 oraz 685 723) 181 319, 730 1495) 26 2 pkt 4 wyrazy „art. 11 4 ustawy 16 kwietnia 1993 zwalczaniu nieuczciwej 2003 1503, późn. zm.)” zastępuje wyrazami „art. 11 2 ustawy 16 kwietnia 1993 zwalczaniu 419 1637)”.
+### 2.
 
-**Art. 15.**
+Przez tajemnicę przedsiębiorstwa rozumie się informacje techniczne, technologiczne, organizacyjne przedsiębiorstwa lub inne informacje posiadające wartość gospodarczą, które jako całość lub w szczególnym zestawieniu i zbiorze ich elementów nie są powszechnie znane osobom zwykle zajmującym się tym rodzajem informacji albo nie są łatwo dostępne dla takich osób, o ile uprawniony do korzystania z informacji lub rozporządzania nimi podjął, przy zachowaniu należytej staranności, działania w celu utrzymania ich w poufności.
 
-1. Przepisy ustaw zmienianych 1 3–14 brzmieniu nadanym niniejszą ustawą stosuje oceny stanów faktycznych, zaistniałych po jej wejściu życie.
+### 3.
 
-2. Przepisy ustawy zmienianej 2 brzmieniu nadanym niniejszą ustawą stosuje także postępowań wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy.
+Pozyskanie informacji stanowiących tajemnicę przedsiębiorstwa stanowi czyn nieuczciwej konkurencji, w szczególności gdy następuje bez zgody uprawnionego do korzystania z informacji lub rozporządzania nimi i wynika z nieuprawnionego dostępu, przywłaszczenia, kopiowania dokumentów, przedmiotów, materiałów, substancji, plików elektronicznych obejmujących te informacje lub umożliwiających wnioskowanie o ich treści.
 
-**Art. 16.** Ustawa wchodzi życie po upływie 7 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 4.
 
+Wykorzystanie lub ujawnienie informacji stanowiących tajemnicę przedsiębiorstwa stanowi czyn nieuczciwej konkurencji, w szczególności gdy następuje bez zgody uprawnionego do korzystania z informacji lub rozporządzania nimi i narusza obowiązek ograniczenia ich wykorzystywania lub ujawniania wynikający z ustawy, czynności prawnej lub z innego aktu albo gdy zostało dokonane przez osobę, która pozyskała te informacje, dokonując czynu nieuczciwej konkurencji.
+
+### 5.
+
+Ujawnienie, wykorzystanie lub pozyskanie informacji stanowiących tajemnicę przedsiębiorstwa stanowi czyn nieuczciwej konkurencji także wówczas, gdy w chwili ich ujawnienia, wykorzystania lub pozyskania osoba wiedziała lub przy zachowaniu należytej staranności mogła wiedzieć, że informacje zostały pozyskane bezpośrednio lub pośrednio od tego, kto wykorzystał lub ujawnił je w okolicznościach określonych w ust. 4.
+
+### 6.
+
+Wykorzystywanie informacji stanowiących tajemnicę przedsiębiorstwa polegające na produkowaniu, oferowaniu, wprowadzaniu do obrotu, a także przywozie, wywozie i przechowywaniu w tych celach towarów stanowi czyn nieuczciwej konkurencji, jeżeli osoba dokonująca wskazanej czynności wiedziała lub przy zachowaniu należytej staranności mogła wiedzieć o tym, że właściwości towarów, w tym estetyczne lub funkcjonalne, proces ich wytwarzania lub zbywania zostały w znacznym stopniu ukształtowane w następstwie czynu określonego w ust. 1, dokonanego w okolicznościach określonych w ust. 4.
+
+### 7.
+
+Pozyskanie informacji stanowiących tajemnicę przedsiębiorstwa nie stanowi czynu nieuczciwej konkurencji, jeżeli nastąpiło w wyniku niezależnego odkrycia lub wytworzenia albo obserwacji, badania, rozłożenia na części, testowania przedmiotu dostępnego publicznie lub posiadanego zgodnie z prawem przez osobę, która pozyskała informacje i której uprawnienie do pozyskania informacji nie było ograniczone w chwili ich pozyskania.
+
+### 8.
+
+Ujawnienie, wykorzystanie lub pozyskanie informacji stanowiących tajemnicę przedsiębiorstwa nie stanowi czynu nieuczciwej konkurencji, gdy nastąpiło w celu ochrony uzasadnionego interesu chronionego prawem, w ramach korzystania ze swobody wypowiedzi lub w celu ujawnienia nieprawidłowości, uchybienia, działania z naruszeniem prawa dla ochrony interesu publicznego, lub gdy ujawnienie informacji stanowiących tajemnicę przedsiębiorstwa wobec przedstawicieli pracowników w związku z pełnieniem przez nich funkcji na podstawie przepisów prawa było niezbędne dla prawidłowego wykonywania tych funkcji.
+
+” ;
+
+### 2)
+
+w art. 18 dodaje się ust. 3-5 w brzmieniu:
+
+„
+
+### 3.
+
+W razie dokonania czynu nieuczciwej konkurencji polegającego na naruszeniu tajemnicy przedsiębiorstwa sąd, na wniosek uprawnionego, może zobowiązać pozwanego do podania do publicznej wiadomości informacji o wyroku albo treści wyroku, w oznaczony sposób i w oznaczonym zakresie, jeżeli jest to uzasadnione ze względu na okoliczności dokonania czynu nieuczciwej konkurencji, w szczególności sposób dokonania czynu, wartość informacji, których dotyczył czyn, skutek czynu oraz prawdopodobieństwo dokonania czynu nieuczciwej konkurencji w przyszłości, a w przypadku, jeżeli pozwanym jest osoba fizyczna - jeżeli dodatkowo nie sprzeciwia się temu uzasadniony interes pozwanego, w szczególności wzgląd na ochronę jego dóbr osobistych. Sposób i zakres podania do publicznej wiadomości informacji o wyroku albo treści wyroku nie może prowadzić do ujawnienia tajemnicy przedsiębiorstwa.
+
+### 4.
+
+W razie dokonania czynu nieuczciwej konkurencji polegającego na naruszeniu tajemnicy przedsiębiorstwa sąd, zamiast uwzględnienia żądania określonego w ust. 1 pkt 1 lub 2 lub ust. 2, może, na wniosek pozwanego, zobowiązać go do zapłaty na rzecz powoda stosownego wynagrodzenia, w wysokości nie wyższej niż wynagrodzenie, które w chwili jego dochodzenia byłoby należne tytułem udzielenia przez uprawnionego zgody na korzystanie z informacji, przez czas nie dłuższy niż do ustania stanu tajemnicy, jeżeli:
+
+### 1)
+
+pozwany w chwili wykorzystywania lub ujawniania informacji stanowiących tajemnicę przedsiębiorstwa nie wiedział ani przy zachowaniu należytej staranności nie mógł wiedzieć, że informacje te pozyskano od osoby, która je wykorzystała lub ujawniła w okolicznościach określonych w art. 11 ust. 4;
+
+### 2)
+
+uwzględnienie żądania, o którym mowa w ust. 1 pkt 1, spowodowałoby dla pozwanego niewspółmierne szkody;
+
+### 3)
+
+zobowiązanie do zapłaty wynagrodzenia nie narusza uzasadnionego interesu powoda.
+
+### 5.
+
+W razie dokonania czynu nieuczciwej konkurencji polegającego na naruszeniu tajemnicy przedsiębiorstwa uprawniony może żądać, zamiast odszkodowania określonego w ust. 1 pkt 4, naprawienia szkody przez zapłatę sumy pieniężnej w wysokości odpowiadającej wynagrodzeniu, które w chwili jego dochodzenia byłoby należne tytułem udzielenia przez uprawnionego zgody na korzystanie z informacji stanowiących tajemnicę przedsiębiorstwa.
+
+” ;
+
+### 3)
+
+w art. 20 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Jeżeli czyn nieuczciwej konkurencji polegający na naruszeniu tajemnicy przedsiębiorstwa stanowi jednocześnie zbrodnię albo występek, art. 442¹ § 2 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny nie stosuje się. W takim przypadku termin przedawnienia roszczenia o naprawienie szkody nie może skończyć się później niż z upływem lat dwudziestu od dnia popełnienia przestępstwa.
+
+” ;
+
+### 4)
+
+w art. 23 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Karze określonej w ust. 1 podlega, kto ujawnia lub wykorzystuje informację stanowiącą tajemnicę przedsiębiorstwa, z którą zapoznał się, biorąc udział w rozprawie lub w innych czynnościach postępowania sądowego dotyczącego roszczeń z tytułu czynu nieuczciwej konkurencji polegającego na naruszeniu tajemnicy przedsiębiorstwa albo przez dostęp do akt takiego postępowania, jeżeli w postępowaniu tym została wyłączona jawność rozprawy.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2018 r. poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2018/1360/text.html), [1467](https://api.sejm.gov.pl/eli/acts/DU/2018/1467/text.html), [1499](https://api.sejm.gov.pl/eli/acts/DU/2018/1499/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 739 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Wykonanie postanowienia o udzieleniu zabezpieczenia sąd może uzależnić od złożenia przez uprawnionego kaucji na zabezpieczenie roszczeń obowiązanego lub, stosownie do okoliczności, innych osób, powstałych w wyniku wykonania postanowienia o zabezpieczeniu. Z kaucji tej będzie przysługiwało obowiązanemu lub, stosownie do okoliczności, innym osobom dotkniętym wykonaniem postanowienia o zabezpieczeniu pierwszeństwo zaspokojenia przed innymi należnościami zaraz po kosztach egzekucyjnych.
+
+” ;
+
+### 2)
+
+po art. 755 dodaje się art. 7551wbrzmieniu:
+
+„
+
+### Art. 7551.
+
+W sprawach dotyczących roszczeń z tytułu czynów nieuczciwej konkurencji polegających na naruszeniu tajemnicy przedsiębiorstwa, w których udzielono zabezpieczenia polegającego na ustanowieniu zakazów, nakazów lub zajęciu rzeczy ruchomych, mającego na celu zaprzestanie wykorzystywania tajemnicy przedsiębiorstwa, sąd może, na wniosek obowiązanego, zamiast tych środków nakazać obowiązanemu złożenie na rachunek depozytowy Ministra Finansów odpowiedniej sumy pieniężnej dla zabezpieczenia roszczeń uprawnionego z tytułu dalszego wykorzystywania tajemnicy przedsiębiorstwa. Postanowienie może zapaść tylko po przeprowadzeniu rozprawy.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2018 r. poz. 755](https://api.sejm.gov.pl/eli/acts/DU/2018/755/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356 i 1629.](#gloss-0:3:)) w art. 5 w ust. 12 wyrazy „art. 11 ust. 4” zastępuje się wyrazami „art. 11 ust. 2”.
+
+### Art. 4.
+
+W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. z 2017 r. poz. 2211](https://api.sejm.gov.pl/eli/acts/DU/2017/2211/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544 i 1629.](#gloss-0:4:)) w art. 8 w ust. 3 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 5.
+
+W ustawie z dnia 3 lipca 2002 r. - Prawo lotnicze ([Dz. U. z 2018 r. poz. 1183](https://api.sejm.gov.pl/eli/acts/DU/2018/1183/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html)) w art. 77 w ust. 6 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 6.
+
+W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego ([Dz. U. z 2018 r. poz. 1405](https://api.sejm.gov.pl/eli/acts/DU/2018/1405/text.html) i [1496](https://api.sejm.gov.pl/eli/acts/DU/2018/1496/text.html)) w art. 3a w ust. 3 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 7.
+
+W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów ([Dz. U. z 2018 r. poz. 798](https://api.sejm.gov.pl/eli/acts/DU/2018/798/text.html) i [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html)) w art. 4 pkt 17 otrzymuje brzmienie:
+
+„
+
+### 17)
+
+tajemnicy przedsiębiorstwa - rozumie się przez to tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2018 r. poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2018/419/text.html) i [1637](https://api.sejm.gov.pl/eli/acts/DU/2018/1637/text.html));
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. z 2018 r. poz. 143](https://api.sejm.gov.pl/eli/acts/DU/2018/143/text.html)) w art. 16 w ust. 11b wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 9.
+
+W ustawie z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze ([Dz. U. z 2017 r. poz. 2126](https://api.sejm.gov.pl/eli/acts/DU/2017/2126/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [723](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.html), [1563](https://api.sejm.gov.pl/eli/acts/DU/2018/1563/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html)) w art. 108 w ust. 11a pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+tajemnicy przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2018 r. poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2018/419/text.html) i [1637](https://api.sejm.gov.pl/eli/acts/DU/2018/1637/text.html));
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym ([Dz. U. z 2017 r. poz. 2270](https://api.sejm.gov.pl/eli/acts/DU/2017/2270/text.html) i [2486](https://api.sejm.gov.pl/eli/acts/DU/2017/2486/text.html) oraz [z 2018 r. poz. 1075](https://api.sejm.gov.pl/eli/acts/DU/2018/1075/text.html)) w art. 32a w ust. 1 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 11.
+
+W ustawie z dnia 9 października 2015 r. o produktach biobójczych ([Dz. U. z 2018 r. poz. 122](https://api.sejm.gov.pl/eli/acts/DU/2018/122/text.html), [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 17 w ust. 6 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”;
+
+### 2)
+
+w art. 30 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji”.
+
+### Art. 12.
+
+W ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji ([Dz. U. z 2017 r. poz. 1937](https://api.sejm.gov.pl/eli/acts/DU/2017/1937/text.html) i [2491](https://api.sejm.gov.pl/eli/acts/DU/2017/2491/text.html) oraz [z 2018 r. poz. 685](https://api.sejm.gov.pl/eli/acts/DU/2018/685/text.html) i [723](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.html)) w art. 181 w ust. 7 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 13.
+
+W ustawie z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi ([Dz. U. z 2017 r. poz. 67](https://api.sejm.gov.pl/eli/acts/DU/2017/67/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html)) w art. 5 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+tajemnica przedsiębiorstwa - tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2018 r. poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2018/419/text.html) i [1637](https://api.sejm.gov.pl/eli/acts/DU/2018/1637/text.html)).
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu ([Dz. U. poz. 319](https://api.sejm.gov.pl/eli/acts/DU/2018/319/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2018/1495/text.html)) w art. 26 w ust. 2 w pkt 4 wyrazy „art. 11 ust. 4 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.)” zastępuje się wyrazami „art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2018 r. poz. 419 i 1637)”.
+
+### Art. 15.
+
+### 1.
+
+Przepisy ustaw zmienianych w art. 1 i art. 3-14 w brzmieniu nadanym niniejszą ustawą stosuje się do oceny stanów faktycznych, zaistniałych po jej wejściu w życie.
+
+### 2.
+
+Przepisy ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą stosuje się także do postępowań wszczętych i niezakończonych przed dniem wejścia wżycie niniejszej ustawy.
+
+### Art. 16.
+
+Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/943 z dnia 8 czerwca 2016 r. w sprawie ochrony niejawnego know-how i niejawnych informacji handlowych (tajemnic przedsiębiorstwa) przed ich bezprawnym pozyskiwaniem, wykorzystywaniem i ujawnianiem (Dz. Urz. UE L 157 z 15.06.2016, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 6 września 2001 r. - Prawo farmaceutyczne, ustawę z dnia 3 lipca 2002 r. - Prawo lotnicze, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, ustawę z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym, ustawę z dnia 9 października 2015 r. o produktach biobójczych, ustawę z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, ustawę z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi oraz ustawę z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 685, 771, 1000, 1356 i 1629. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544 i 1629.

@@ -8,11 +8,9 @@ pos: 1789
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niekt(cid:243)rych ustaw
-
-*USTAWA z dnia 14 grudnia 2001 r.*
+# Ustawa z dnia 14 grudnia 2001 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2001-12-14 |
 | Data wydania | 2001-12-29 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541789) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1789/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/1789/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/1789) |
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niekt(cid:243)rych ustaw (Dz.U. Nr 119, poz. 1250) w art. 52 w pkt 2 wyrazy (cid:132)1 stycznia 2002 r.(cid:148) zastępuje się wyrazami (cid:132)1 stycznia 2003 r.(cid:148).
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 31 grudnia 2001 r.
+### Art. 1.
 
+W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz o zmianie niektórych ustaw ([Dz. U. Nr 119, poz. 1250](https://api.sejm.gov.pl/eli/acts/DU/2000/1250/text.html)) w art. 52 w pkt 2 wyrazy „1 stycznia 2002 r.” zastępuje się wyrazami „1 stycznia 2003 r.”
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 31 grudnia 2001 r.

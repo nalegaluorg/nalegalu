@@ -8,9 +8,9 @@ pos: 2399
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o Policji oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 29 sierpnia 1997 r. o strażach gminnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,206 +22,2662 @@ domain: null
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2018-12-21 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002399) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2399/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2399) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2017 r. poz. 2067, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 15e.**
+### Art. 1.
 
-1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków portach i na dworcach oraz środkach transportu lądowego, powietrznego i wodnego polega na:
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2017 r. poz. 2067](https://api.sejm.gov.pl/eli/acts/DU/2017/2067/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102 i 2245.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-- **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się nich przedmiotów;
-- **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+### 1)
 
-2. Czynności, o których mowa ust. 1, wykonuje się obecności posiadacza bagaży lub ładunków, a przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub przypadku jego nieobecności – obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+w art. 15:
 
-3. W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa ust. 1, wykonuje się wyłącznie obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+### a)
 
-4. W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa ust. 2, policjant może wykonać czynności określone ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 15 ust. 1 pkt 5, lub podlegających przepadkowi.
+w ust. 1:
 
-5. Policjant związku z realizacją czynności, o których mowa ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, tym o których mowa ust. 5.
+- - pkt 5 otrzymuje brzmienie: „ 5) dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego: a) w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub b) w celu znalezienia: - broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub - przedmiotów, których posiadanie jest zabronione, lub mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 1 ust. 2 pkt 1, 2, 3a, 4, 4a, 6 i 7, oraz przepisów innych ustaw określających zadania Policji lub - przedmiotów podlegających przepadkowi w przypadku uzasadnionego przypuszczenia posiadania przez osobę broni lub takich przedmiotów lub uzasadnionego przypuszczenia ich użycia do popełnienia czynu zabronionego pod groźbą kary - na zasadach i w sposób określony w art. 15d i art. 15e; ” ,
 
-7. Czynności, o których mowa ust. 1, wykonuje się miarę możliwości sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+- - dodaje się pkt 9 i 10 w brzmieniu: „ 9) dokonywania sprawdzenia prewencyjnego w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie lub w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego lub: a) zapobiegania zdarzeniom o charakterze terrorystycznym - osób w związku z ich dostępem na teren obiektów lub obszarów ochranianych przez Policję lub w związku z zabezpieczeniem przez Policję imprez masowych lub zgromadzeń, bagaży lub przedmiotów posiadanych przez te osoby, a także środków transportu lądowego, powietrznego lub wodnego lub pojazdów, którymi się poruszają w związku z dostępem do tych obiektów lub obszarów, b) znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwości może spowodować zagrożenie życia lub zdrowia lub bezpieczeństwa przeprowadzonych czynności osób: - doprowadzanych przez Policję na polecenie lub zarządzenie uprawnionego organu lub w związku z realizacją czynności określonych przepisami prawa lub osób w stanie nietrzeźwości doprowadzanych przez Policję w celu wytrzeźwienia do siedziby jednostki organizacyjnej Policji lub innego miejsca określonego przepisami prawa lub wskazanego przez uprawniony organ, na polecenie lub zarządzenie którego dokonuje się doprowadzenia, w tym osób doprowadzanych umieszczonych w jednostkach organizacyjnych Policji w pomieszczeniach dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, - zatrzymywanych w przypadkach określonych w ust. 1 pkt 2-3, osób zatrzymanych, przyjmowanych do jednostek organizacyjnych Policji do pomieszczeń dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, pokoi przejściowych, tymczasowych pomieszczeń przejściowych lub policyjnych izb dziecka lub umieszczanych w tych pomieszczeniach, - pozbawionych wolności, w tym przebywających w zakładach karnych, aresztach śledczych, zakładach poprawczych, schroniskach dla nieletnich, policyjnych izbach dziecka lub innych ośrodkach dla nieletnich, a także osób skazanych lub tymczasowo aresztowanych przekazywanych na podstawie umów międzynarodowych, podczas wykonywania w stosunku do tych osób przez Policję, na polecenie sądu lub prokuratora, czynności polegających na przemieszczaniu tych osób w związku z wykonywaniem czynności procesowych lub innych czynności określonych przez sąd lub prokuratora; 10) wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonywania czynności określonych w pkt 1-5 lub 9 lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań Policji lub w granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnej realizacji zadań Policji albo uniknięcia zatarcia śladów przestępstwa lub wykroczenia. ” ,
 
-8. Przy dokonywaniu czynności, o których mowa ust. 1, przepisy art. 15d ust. 4 i 14 stosuje się odpowiednio.
+### b)
 
-9. Policjant po zakończeniu wykonywania czynności, o których mowa ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+ust. 7 i 8 otrzymują brzmienie:
 
-10. Z dokonania czynności, o których mowa ust. 1, sporządza się protokół przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz przypadku, gdy toku czynności znaleziono broń lub przedmioty, o których mowa art. 15 ust. 1 pkt 5. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 15d ust. 10 zdanie drugie.
+„
 
-11. Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano czynności określonych ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania, celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności przepis art. 15d ust. 12 stosuje się odpowiednio.
+### 7.
 
-12. W przypadku gdy toku czynności, o których mowa ust. 1, nie znaleziono broni lub przedmiotów, o których mowa art. 15 ust. 1 pkt 5, lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, nie jednostki organizacyjnej Policji właściwej według miejsca dokonania czynności określonych ust. 1. Jednostka organizacyjna Policji, o której mowa zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+Na sposób prowadzenia czynności, o których mowa w ust. 1 pkt 1-4a, 5a-7 i 10, przysługuje zażalenie do właściwego miejscowo prokuratora.
 
-**Art. 15f.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, sposób:
+### 8.
 
-**Art. 15g.**
+Rada Ministrów określi, w drodze rozporządzenia, sposób postępowania przy wykonywaniu uprawnień, o których mowa w ust. 1 pkt 1, 2a, 3, 3a lit. b i c, pkt 3b i 5a-10, oraz wzory dokumentów stosowanych w tych sprawach, mając na względzie zapewnienie skuteczności działań podejmowanych przez Policję, poszanowanie praw osób, wobec których działania te są podejmowane, a także konieczność dokumentowania wykonywanych czynności.
 
-1. Sprawdzenie prewencyjne, o którym mowa art. 15 ust. 1 pkt 9, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym, lub z wykorzystaniem psa służbowego zakresie niezbędnym do realizacji celu podejmowanych czynności danych okolicznościach oraz sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane. się kontroli osobistej na zasadach i sposób określony art. 15d.
+” ;
 
-3. W stosunku do osób zatrzymanych, doprowadzanych lub konwojowanych, sprawdzenie prewencyjne, o którym mowa art. 15 ust. 1 pkt 9, może polegać również na:
+### 2)
 
-- **1)** żądaniu zdjęcia przez osobę odzieży i obuwia,
-- **2)** zdjęciu osobie odzieży i obuwia przypadku niewykonania żądania, o którym mowa pkt 1,
-- **3)** dokonaniu oględzin ciała tych osób oraz sprawdzeniu zdjętej odzieży i obuwia, tym z wykorzystaniem środków, o których mowa ust. 1,
-- **4)** żądaniu wydania oraz oddania do depozytu, lub celu zajęcia lub zabezpieczenia:
-    - **a)** środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
-    - **b)** przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, tym broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 15 ust. 1 pkt 5, lub podlegających przepadkowi,
-    - **c)** przedmiotów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa osoby znajdującej się pomieszczeniu dla osób zatrzymanych lub doprowadzonych celu wytrzeźwienia, pokoju przejściowym, tymczasowym pomieszczeniu przejściowym lub policyjnej izbie dziecka, szczególności przedmiotów posiadających ostre krawędzie lub zakończenie, środków służących do obezwładniania, dopuszczonych do obrotu produktów leczniczych, produktów zawierających alkohol, sznurowadeł, pasków, szalików,
+po art. 15c dodaje się art. 15d-15g w brzmieniu:
 
-- **5)** odebraniu przedmiotów, o których mowa pkt 4, oraz ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu – szczególności gdy czynności te przeprowadza się przypadku zatrzymywania osoby zgodnie z art. 15 ust. 1 pkt 2–3, umieszczania osoby jednostce organizacyjnej Policji pomieszczeniu dla osób zatrzymanych lub doprowadzonych celu wytrzeźwienia, pokoju przejściowym, tymczasowym pomieszczeniu przejściowym lub policyjnej izbie dziecka, przejmowania osoby związku z wykonywanymi czynnościami przez Policję, a także po zakończeniu widzenia lub innej czynności związanej z kontaktem osoby zatrzymanej, konwojowanej lub doprowadzonej z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+„
 
-4. Czynności, o których mowa ust. 3 pkt 1–3, wykonuje się sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży – jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz warunkach zapewniających poszanowanie jej intymności.
+### Art. 15d.
 
-5. Do sprawdzenia prewencyjnego, o którym mowa art. 15 ust. 1 pkt 9, przepisy art. 15d ust. 5, 6 i 14 stosuje się odpowiednio.
+### 1.
 
-6. W przypadku gdy toku sprawdzenia prewencyjnego osób zatrzymanych, doprowadzonych lub konwojowanych, o którym mowa art. 15 ust. 1 pkt 9 lit. b, ujawniono broń lub przedmioty, o których mowa art. 15 ust. 1 pkt 5, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 15d.
+Kontrola osobista polega na sprawdzeniu:
 
-7. Osobie, o której mowa art. 15 ust. 1 pkt 9 lit. b:
+### 1)
 
-- **1)** umieszczonej jednostce organizacyjnej Policji pomieszczeniu dla osób zatrzymanych lub doprowadzonych celu wytrzeźwienia, pokoju przejściowym, tymczasowym pomieszczeniu przejściowym lub policyjnej izbie dziecka, która ukończyła 18 lat i upoważniła pisemnie wskazaną przez siebie osobę do odbioru przedmiotów miejscu ich zdeponowania umożliwia się rozporządzanie przekazanymi do depozytu
-- **2)** zwalnianej z pomieszczenia dla osób zatrzymanych lub doprowadzonych celu wytrzeźwienia z pokoju przejściowego, z tymczasowego pomieszczenia przejściowego lub z policyjnej izby dziecka wydaje się przedmioty przyjęte do depozytu, z wyjątkiem przedmiotów, które zostały zatrzymane lub zajęte drodze zabezpieczenia, podlegających przepadkowi bądź egzekucji administracyjnej.
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną” i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
 
-8. W przypadku zwalniania osoby z pomieszczenia dla osób zatrzymanych lub doprowadzonych celu wytrzeźwienia, z pokoju przejściowego, z tymczasowego pomieszczenia przejściowego lub z policyjnej izby dziecka celu jej przekazania do wykonania czynności procesowych lub innych czynności określonych przez sąd lub prokuratora, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa ust. 3 pkt 4 lit. a i c, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju policjant realizujący doprowadzenie lub konwój.
+### 2)
 
-9. Osobie, o której mowa art. 15 ust. 1 pkt 9 lit. a, odmawiającej poddania się sprawdzeniu prewencyjnemu, o którym mowa art. 15 ust. 1 pkt 9, można odmówić wstępu na teren obiektów lub obszarów ochranianych przez Policję lub na imprezę masową zabezpieczaną przez Policję, jak również uniemożliwić udział zgromadzeniu.”.
+zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm. ) wprowadza się następujące zmiany:
+### 3)
 
-**Art. 3.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2018 r. poz. 1869) art. 15:
+zawartości odzieży i obuwia osoby kontrolowanej i przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w celu oraz w zakresie niezbędnym do odebrania broni lub przedmiotów, o których mowa w art. 15 ust. 1 pkt 5, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1 lub 2 i gdy do ich odebrania nie jest wystarczające zastosowanie czynności określonych w pkt 1 i 2;
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987) art. 227 otrzymuje brzmienie: „Art. 227. Przeszukanie lub zatrzymanie rzeczy powinno być dokonane zgodnie z celem tej czynności, z zachowaniem umiaru, oraz granicach niezbędnych dla osiągnięcia celu tych czynności przy zachowaniu należytej staranności, poszanowaniu prywatności i godności osób, których ta czynność dotyczy, oraz bez wyrządzania niepotrzebnych szkód i dolegliwości.”.
+### 4)
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. z 2018 r. poz. 928) wprowadza się następujące zmiany:
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
 
-**Art. 6.** W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2018 r. poz. 430, 650 i 1544) wprowadza się następujące zmiany:
+### 5)
 
-**Art. 17b.**
+miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
 
-1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków portach, na dworcach oraz środkach transportu lądowego, powietrznego i wodnego polega na:
+### 2.
 
-- **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się nich przedmiotów;
-- **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+Policjant dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej kontroli. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 3 i 5, osoba kontrolowana powinna być częściowo ubrana. Policjant najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
 
-2. Czynności, o których mowa ust. 1, wykonuje się obecności posiadacza bagaży lub ładunków, a przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub przypadku jego nieobecności – obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+### 3.
 
-3. W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa ust. 1, wykonuje się wyłącznie obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+Sprawdzenia, o którym mowa w ust. 1 pkt 1-3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 - wzrokowo lub manualnie.
 
-4. W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa ust. 2, żołnierz Żandarmerii Wojskowej może wykonać czynności określone ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 17 ust. 1 pkt 10, lub podlegających przepadkowi.
+### 4.
 
-5. Żołnierz Żandarmerii Wojskowej związku z realizacją czynności, o których mowa ust. 1, ma prawo żądania udostępnienia bagaży lub tym wykonać czynności, o których mowa ust. 5.
+Policjant dokonujący kontroli osobistej:
 
-7. Czynności, o których mowa ust. 1, wykonuje się miarę możliwości sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+### 1)
 
-8. Przy dokonywaniu czynności, o których mowa ust. 1, przepisy art. 17a ust. 4 i 14 stosuje się odpowiednio.
+przystępując do czynności związanych z kontrolą osobistą podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a policjant nieumundurowany, na żądanie osoby kontrolowanej, okazuje również legitymację służbową w taki sposób, aby osoba kontrolowana miała możliwość odczytać i zanotować numer i organ, który wydał legitymację oraz nazwisko policjanta;
 
-9. Żołnierz Żandarmerii Wojskowej po zakończeniu wykonywania czynności, o których mowa ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+### 2)
 
-10. Z dokonania czynności, o których mowa ust. 1, sporządza się protokół przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz przypadku, gdy toku czynności znaleziono broń lub przedmioty, o których mowa ust. 1 pkt 2. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 17a ust. 10 zdanie drugie.
+podaje podstawę prawną i przyczynę podjęcia kontroli osobistej;
 
-11. Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano czynności określonych ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania, celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 17a ust. 12 stosuje się odpowiednio.
+### 3)
 
-12. W przypadku gdy toku czynności, o których mowa ust. 1, nie znaleziono broni lub przedmiotów, o których mowa ust. 1 pkt 2, lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
 
-13. Zażalenie, o którym mowa ust. 11, składa się za pośrednictwem jednostki organizacyjnej Żandarmerii Wojskowej właściwej według miejsca dokonania czynności określonych ust. 1. Jednostka organizacyjna Żandarmerii Wojskowej, o której mowa zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+### 4)
 
-**Art. 17c.** Minister Obrony Narodowej określi, drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa art. 17a ust. 10 i 13 oraz art. 17b ust. 10 i 12, a także wzory protokołów, o których mowa art. 17a ust. 9 i art. 17b ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków portach i na dworcach oraz środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 15 ust. 1 pkt 5, lub podlegających przepadkowi oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży lub przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych, jak również może żądać przyjęcia przez osobę kontrolowaną odpowiedniej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
 
-**Art. 17d.**
+### 5)
 
-1. Sprawdzenie prewencyjne, o którym mowa art. 17 ust. 1 pkt 16, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego zakresie niezbędnym do realizacji celu podejmowanych czynności Żandarmerii Wojskowej danych okolicznościach oraz sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia czynu zabronionego pod groźbą kary albo przedmioty, których posiadanie jest zabronione lub przedmioty mogące stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 15 ust. 1 pkt 5, lub podlegające przepadkowi;
 
-2. W przypadku gdy stosunku do osób, o których mowa art. 17 ust. 1 pkt 16 lit. a, osób doprowadzonych związku z realizacją czynności określonych przepisami prawa lub osób doprowadzanych przez art. 17 ust. 1 pkt 16, może polegać również na:
+### 6)
 
-- **1)** żądaniu zdjęcia przez osobę odzieży i obuwia,
-- **2)** zdjęciu osobie odzieży i obuwia przypadku niewykonania żądania, o którym mowa pkt 1,
-- **3)** dokonaniu oględzin ciała osoby oraz sprawdzeniu zdjętej odzieży i obuwia, tym z wykorzystaniem środków, o których mowa ust. 1,
-- **4)** żądaniu wydania oraz oddania do depozytu, lub celu zajęcia lub zabezpieczenia:
-    - **a)** środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
-    - **b)** przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnej lub innych osób albo bezpieczeństwa przeprowadzanych czynności, tym broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 17 ust. 1 pkt 10, lub podlegających przepadkowi,
-    - **c)** przedmiotów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa osoby znajdującej się pomieszczeniu izby zatrzymań lub innym miejscu określonym przepisami prawa, szczególności przedmiotów posiadających ostre krawędzie lub zakończenie, środków służących do obezwładniania, dopuszczonych do obrotu produktów leczniczych, produktów zawierających alkohol, sznurowadeł, pasków, szalików, zapałek, zapalniczek lub innych przedmiotów, których wymiary lub ilość naruszają ustalony porządek bądź bezpieczeństwo pobytu pomieszczeniu dla osób zatrzymanych lub doprowadzonych, wykonywanymi czynnościami przez Żandarmerię Wojskową, a także po zakończeniu widzenia lub innej czynności związanej z kontaktem osoby zatrzymanej, konwojowanej lub doprowadzonej z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+sprawdza, czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w zbiorach danych prowadzonych przez Policję lub w dostępnych Policji krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach, w celu ich odnalezienia;
 
-4. Czynności, o których mowa ust. 3 pkt 1–3, wykonuje się sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży – jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz warunkach zapewniających poszanowanie jej intymności.
+### 7)
 
-5. Do sprawdzenia prewencyjnego, o którym mowa art. 17 ust. 1 pkt 16, przepisy art. 17a ust. 5, 6 i 14 stosuje się odpowiednio.
+pobiera niezbędne dane osobowe osoby kontrolowanej lub innych osób, jeżeli uczestniczą w czynności, oraz dane dotyczące posiadanych przez osobę kontrolowaną dokumentów i podlegających sprawdzeniu przedmiotów, w tym dane związane z tymi przedmiotami lub utrwalone na tych dokumentach;
 
-6. W przypadku gdy toku sprawdzenia prewencyjnego osób zatrzymanych, doprowadzonych lub konwojowanych, o którym mowa art. 17 ust. 1 pkt 16 lit. b, ujawniono broń lub przedmioty, o których mowa art. 17 ust. 1 pkt 10, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 17a.
+### 8)
 
-7. W przypadku zwalniania osoby z izby zatrzymań lub innego miejsca określonego przepisami prawa celu jej przekazania do wykonania czynności procesowych lub innych czynności określonych przez sąd lub prokuratora, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa ust. 3 pkt 4 lit. a i c, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju żołnierz Żandarmerii Wojskowej realizujący doprowadzenie lub konwój.
+może odstąpić od wykonywania czynności, o których mowa w pkt 1 i 3, w przypadku gdy czynności te zostały wykonane przez policjanta bezpośrednio przed przystąpieniem do dokonania kontroli osobistej w ramach realizacji innych uprawnień określonych w art. 15, w szczególności w związku z legitymowaniem osoby.
 
-8. Osobie, o której mowa art. 17 ust. 1 pkt 16 lit. a, odmawiającej poddania się sprawdzeniu prewencyjnemu, można odmówić wstępu na teren obiektów lub obszarów ochranianych przez Żandarmerię Wojskową lub na imprezę masową zabezpieczaną przez Żandarmerię Wojskową, jak również uniemożliwić udział zgromadzeniu.”;
+### 5.
 
-- **3)** art. 22 otrzymuje brzmienie: od stopnia wojskowego żołnierza, wobec którego są wykonywane te czynności, z poszanowaniem praw osób, wobec których działania te są podejmowane oraz konieczność zapewnienia jednolitości dokumentów wykorzystywanych do tych uprawnień.”;
-- **4)** art. 24 ust. 1 otrzymuje brzmienie: „1. Na sposób przeprowadzenia czynności, o których mowa art. 17 ust. 1 pkt 1, 2, 12–14 i 16, osobie, wobec której została wykonana taka czynność, przysługuje zażalenie do prokuratora do spraw wojskowych powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania.”;
-- **5)** art. 51 ust. 1 otrzymuje brzmienie: „1. Żołnierzom wojskowych organów porządkowych wchodzących skład służby garnizonowej i służby wewnętrznej jednostki wojskowej związku z wykonywaniem czynności służbowych przysługują uprawnienia określone art. 17 ust. 1 pkt 1, 2, 4–6, 8, 11 i 16.”;
-- **6)** art. 52 ust. 1 otrzymuje brzmienie: „1. Na sposób przeprowadzenia czynności, o których mowa art. 17 ust. 1 pkt 1, 2 i 16, przez żołnierzy wojskowych organów porządkowych oraz na sposób użycia lub wykorzystania przez nich środków przymusu bezpośredniego lub broni palnej osobie, wobec której zostały wykonane te czynności lub użyto lub wykorzystano środki przymusu bezpośredniego lub broń palną, przysługuje zażalenie do prokuratora do spraw wojskowych powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, terminie 7 dni od dnia jej dokonania.”.
+Kontroli osobistej dokonuje policjant tej samej płci, co osoba kontrolowana w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
 
-**Art. 7.** W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2018 r. poz. 2387 i 2245) wprowadza się następujące zmiany:
+### 6.
 
-**Art. 23b.**
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać policjant płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 5, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
 
-1. Przeglądanie zawartości bagaży lub sprawdzanie ładunków portach, na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz środkach transportu lądowego, powietrznego i wodnego polega na:
+### 7.
 
-- **1)** wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się nich przedmiotów;
-- **2)** sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli osobistej może być obecna także osoba wskazana przez osobę kontrolowaną.
 
-2. Czynności, o których mowa ust. 1, wykonuje się obecności posiadacza bagaży lub ładunków, a przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub przypadku jego nieobecności – obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego. czynności określone ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 5 ust. 1 pkt 1–2b lub 5.
+### 8.
 
-5. Funkcjonariusz, związku z realizacją czynności, o których mowa ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+Osoba kontrolowana jest obowiązana umożliwić policjantom dokonanie czynności, o których mowa w ust. 1.
 
-6. Osoby, o których mowa ust. 2, są obowiązane udostępnić funkcjonariuszowi bagaż lub ładunek do przejrzenia lub sprawdzenia, tym wykonać czynności, o których mowa ust. 5.
+### 9.
 
-7. Czynności, o których mowa ust. 1, wykonuje się miarę możliwości sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+Po zakończeniu kontroli osobistej policjant poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
 
-8. Przy dokonywaniu czynności, o których mowa ust. 1, przepisy art. 23a ust. 4 i 14 stosuje się odpowiednio.
+### 10.
 
-9. Funkcjonariusz po zakończeniu wykonywania czynności, o których mowa ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub przedmioty, o których mowa w art. 15 ust. 1 pkt 5. Protokół zawiera w szczególności:
 
-10. Z dokonania czynności, o których mowa ust. 1, sporządza się protokół przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz przypadku, gdy toku czynności znaleziono broń lub inne poszukiwane przedmioty. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 23a ust. 10 zdanie drugie. jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 23a ust. 12 stosuje się odpowiednio.
+### 1)
 
-12. W przypadku gdy toku czynności, o których mowa ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa ust. 9.
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób uczestniczących w kontroli osobistej, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
 
-13. Zażalenie, o którym mowa ust. 11, składa się za pośrednictwem jednostki organizacyjnej ABW, której funkcjonariusz dokonał czynności, o której mowa ust. 1. Jednostka organizacyjna, o której mowa zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+### 2)
 
-**Art. 23c.** Prezes Rady Ministrów określi, drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa art. 23a ust. 10 i 13 oraz art. 23b ust. 10 i 12, a także wzory protokołów, o których mowa art. 23a ust. 9 i art. 23b ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków portach i na dworcach oraz środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+datę i godzinę rozpoczęcia i zakończenia czynności;
 
-**Art. 23d.**
+### 3)
 
-1. Funkcjonariusz, który toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa art. 43a ust. 4, ujawnił niezwłocznie powiadomić o tym Policję.
+dane policjanta dokonującego czynności obejmujące stopień, imię, nazwisko oraz nazwę jednostki organizacyjnej Policji, w której pełni służbę;
 
-2. Od obowiązków, o których mowa ust. 1, funkcjonariusz może odstąpić, przypadku wykonywania czynności określonych art. 29 ust. 1 lub art. 30 ust. 1.”;
+### 4)
 
-- **3)** art. 43 ust. 2 pkt 5 otrzymuje brzmienie: „5) dokonywania sprawdzenia prewencyjnego, a także sprawdzania bagaży, środków transportu i ładunków,”;
-- **4)** po art. 43 dodaje się art. 43a brzmieniu: „Art. 43a. 1. Sprawdzenie prewencyjne, o którym mowa art. 43 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego zakresie niezbędnym do realizacji celu podejmowanych czynności danych okolicznościach oraz sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+nazwę jednostki organizacyjnej Policji, właściwej ze względu na miejsce dokonania kontroli osobistej;
 
-2. W stosunku do osób zatrzymanych, doprowadzonych lub konwojowanych sprawdzenie prewencyjne, o którym mowa art. 43 ust. 2 pkt 5, może polegać na:
+### 5)
 
-- **1)** żądaniu zdjęcia przez osobę poddaną sprawdzeniu prewencyjnemu odzieży i obuwia,
-- **2)** zdjęciu osobie poddanej sprawdzeniu prewencyjnemu odzieży i obuwia przypadku niewykonania żądania, o którym mowa pkt 1,
-- **3)** dokonaniu oględzin ciała osoby poddanej sprawdzeniu prewencyjnemu oraz sprawdzeniu zdjętej odzieży i obuwia, tym z wykorzystaniem środków, o których mowa ust. 1,
-    - **b)** przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, tym broni lub przedmiotów, których posiadanie jest zabronione, lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód postępowaniu prowadzonym związku z realizacją zadań, o których mowa art. 5 ust. 1, lub podlegających przepadkowi,
+przebieg czynności, oświadczenia i wnioski jej uczestników;
 
-- **5)** odebraniu przedmiotów, o których mowa pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu – szczególności gdy czynności te przeprowadza się przypadku zatrzymywania osoby zgodnie z art. 23 ust. 1 pkt 3, lub innej czynności związanej z osobą zatrzymaną, konwojowaną lub doprowadzoną z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+### 6)
 
-3. Czynności, o których mowa ust. 2 pkt 1–3, wykonuje się sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży – jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz warunkach zapewniających poszanowanie jej intymności.
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
 
-4. Przeglądanie bagaży, środków transportu i ładunków polega na przeglądaniu zawartości bagaży i sprawdzeniu ładunku poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
+### 7)
 
-5. Do sprawdzenia prewencyjnego, o którym mowa art. 43 ust. 2 pkt 5, przepisy art. 23a ust. 5, 6 i 14 stosuje się odpowiednio.”. osobistej osoby, której dotyczy wniosek o udzielenie ochrony międzynarodowej, na zasadach określonych art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2017 r. poz. 2365, z późn. zm. ).”;
+pouczenie osoby kontrolowanej o jej prawach;
 
-- **2)** uchyla się ust. 4.
+### 8)
 
-**Art. 9.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. z 2017 r. poz. 1978 oraz z 2018 r. poz. 650, 1544 i 1669) wprowadza się następujące zmiany:
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
 
-**Art. 10.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2018 r. poz. 2104) wprowadza się następujące zmiany:
+### 11.
 
-**Art. 11.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2018 r. poz. 1542, 1669 i 2245) art. 18:
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
 
-**Art. 12.** W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2018 r. poz. 2094) art. 412:
+### 12.
 
-**Art. 14.** W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej (Dz. U. poz. 729 i 1669) wprowadza się następujące zmiany:
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej, sąd zawiadamia o tym prokuratora i kierownika jednostki organizacyjnej Policji nadrzędnej nad jednostką organizacyjną Policji, w której pełni służbę policjant, który dokonał kontroli osobistej.
 
-**Art. 15.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+### 13.
 
-**Art. 16.** W sprawach, których przed dniem wejścia życie niniejszej ustawy złożono zażalenie na sposób przeprowadzenia kontroli osobistej lub przeglądania zawartości bagaży i sprawdzania ładunków, niezakończonych przed dniem wejścia
+W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub przedmiotów, o których mowa w art. 15 ust. 1 pkt 5, lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli, kontrolę osobistą dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 9.
 
+### 14.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, policjant, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne, a w szczególności zabezpiecza miejsce zagrożone przed dostępem osób postronnych oraz powiadamia dyżurnego właściwej miejscowo jednostki organizacyjnej Policji o konieczności zarządzenia działań usuwających to niebezpieczeństwo.
+
+### 15.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej Policji właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna Policji, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 15e.
+
+### 1.
+
+Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+
+### 1)
+
+wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+
+### 2)
+
+sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+
+### 2.
+
+Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności - w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 3.
+
+W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa w ust. 1, wykonuje się wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 4.
+
+W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 2, policjant może wykonać czynności określone w ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 15 ust. 1 pkt 5, lub podlegających przepadkowi.
+
+### 5.
+
+Policjant w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+### 6.
+
+Osoby, o których mowa w ust. 2, są obowiązane udostępnić policjantowi bagaż lub ładunek do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+### 7.
+
+Czynności, o których mowa w ust. 1, wykonuje się w miarę możliwości w sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+
+### 8.
+
+Przy dokonywaniu czynności, o których mowa w ust. 1, przepisy art. 15d ust. 4 i 14 stosuje się odpowiednio.
+
+### 9.
+
+Policjant po zakończeniu wykonywania czynności, o których mowa w ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+
+### 10.
+
+Z dokonania czynności, o których mowa w ust. 1, sporządza się protokół w przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz w przypadku, gdy w toku czynności znaleziono broń lub przedmioty, o których mowa w art. 15 ust. 1 pkt 5. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 15d ust. 10 zdanie drugie.
+
+### 11.
+
+Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności przepis art. 15d ust. 12 stosuje się odpowiednio.
+
+### 12.
+
+W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub przedmiotów, o których mowa w art. 15 ust. 1 pkt 5, lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
+
+### 13.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej Policji właściwej według miejsca dokonania czynności określonych w ust. 1. Jednostka organizacyjna Policji, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 15f.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób:
+
+### 1)
+
+sporządzania dokumentów, o których mowa w art. 15d ust. 10 i 13 oraz art. 15e ust. 10 i 12, a także wzory protokołów, o których mowa w art. 15d ust. 9 i art. 15e ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności;
+
+### 2)
+
+postępowania w jednostkach organizacyjnych Policji ze złożonym zażaleniem, o którym mowa w art. 15d i art. 15e, celem nadania mu biegu, a także sposób postępowania z protokołami i dokumentacją służbową sporządzonymi w wyniku dokonania tych czynności.
+
+### Art. 15g.
+
+### 1.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 15 ust. 1 pkt 9, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym, lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+W przypadku gdy w stosunku do osób, o których mowa w art. 15 ust. 1 pkt 9 lit. a, osób doprowadzonych w związku z realizacją czynności określonych przepisami prawa lub osób doprowadzanych przez Policję w celu wytrzeźwienia, o których mowa w art. 15 ust. 1 pkt 9 lit. b tiret pierwsze, zaistniały przesłanki, o których mowa w art. 15 ust. 1 pkt 5, dokonuje się kontroli osobistej na zasadach i w sposób określony w art. 15d.
+
+### 3.
+
+W stosunku do osób zatrzymanych, doprowadzanych lub konwojowanych, sprawdzenie prewencyjne, o którym mowa w art. 15 ust. 1 pkt 9, może polegać również na:
+
+### 1)
+
+żądaniu zdjęcia przez osobę odzieży i obuwia,
+
+### 2)
+
+zdjęciu osobie odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1,
+
+### 3)
+
+dokonaniu oględzin ciała tych osób oraz sprawdzeniu zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1,
+
+### 4)
+
+żądaniu wydania oraz oddania do depozytu, lub w celu zajęcia lub zabezpieczenia:
+
+### a)
+
+środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
+
+### b)
+
+przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, w tym broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 15 ust. 1 pkt 5, lub podlegających przepadkowi,
+
+### c)
+
+przedmiotów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa osoby znajdującej się w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, w pokoju przejściowym, w tymczasowym pomieszczeniu przejściowym lub w policyjnej izbie dziecka, w szczególności przedmiotów posiadających ostre krawędzie lub zakończenie, środków służących do obezwładniania, dopuszczonych do obrotu produktów leczniczych, produktów zawierających alkohol, sznurowadeł, pasków, szalików, zapałek, zapalniczek lub innych przedmiotów, których wymiary lub ilość naruszają ustalony porządek bądź bezpieczeństwo pobytu w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, w pokoju przejściowym, w tymczasowym pomieszczeniu przejściowym lub w policyjnej izbie dziecka,
+
+### 5)
+
+odebraniu przedmiotów, o których mowa w pkt 4, oraz ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu
+
+- w szczególności gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 15 ust. 1 pkt 2-3, umieszczania osoby w jednostce organizacyjnej Policji w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, w pokoju przejściowym, w tymczasowym pomieszczeniu przejściowym lub w policyjnej izbie dziecka, przejmowania osoby w związku z wykonywanymi czynnościami przez Policję, a także po zakończeniu widzenia lub innej czynności związanej z kontaktem osoby zatrzymanej, konwojowanej lub doprowadzonej z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+
+### 4.
+
+Czynności, o których mowa w ust. 3 pkt 1-3, wykonuje się w sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży - jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
+
+### 5.
+
+Do sprawdzenia prewencyjnego, o którym mowa w art. 15 ust. 1 pkt 9, przepisy art. 15d ust. 5, 6 i 14 stosuje się odpowiednio.
+
+### 6.
+
+W przypadku gdy w toku sprawdzenia prewencyjnego osób zatrzymanych, doprowadzonych lub konwojowanych, o którym mowa w art. 15 ust. 1 pkt 9 lit. b, ujawniono broń lub przedmioty, o których mowa w art. 15 ust. 1 pkt 5, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 15d.
+
+### 7.
+
+Osobie, o której mowa w art. 15 ust. 1 pkt 9 lit. b:
+
+### 1)
+
+umieszczonej w jednostce organizacyjnej Policji w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, w pokoju przejściowym, w tymczasowym pomieszczeniu przejściowym lub w policyjnej izbie dziecka, która ukończyła 18 lat i upoważniła pisemnie wskazaną przez siebie osobę do odbioru przedmiotów w miejscu ich zdeponowania umożliwia się rozporządzanie przekazanymi do depozytu przedmiotami, o których mowa w ust. 3 pkt 4 lit. a i c, z wyjątkiem przekazania tych przedmiotów osobie zatrzymanej, osobie konwojowanej lub doprowadzanej oraz korzystania z tych przedmiotów i ich posiadana przez te osoby, a także z wyjątkiem przedmiotów, które zostały zatrzymane lub zajęte w drodze zabezpieczenia bądź egzekucji administracyjnej;
+
+### 2)
+
+zwalnianej z pomieszczenia dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia z pokoju przejściowego, z tymczasowego pomieszczenia przejściowego lub z policyjnej izby dziecka wydaje się przedmioty przyjęte do depozytu, z wyjątkiem przedmiotów, które zostały zatrzymane lub zajęte w drodze zabezpieczenia, podlegających przepadkowi bądź egzekucji administracyjnej.
+
+### 8.
+
+W przypadku zwalniania osoby z pomieszczenia dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, z pokoju przejściowego, z tymczasowego pomieszczenia przejściowego lub z policyjnej izby dziecka w celu jej przekazania do wykonania czynności procesowych lub innych czynności określonych przez sąd lub prokuratora, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa w ust. 3 pkt 4 lit. a i c, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju policjant realizujący doprowadzenie lub konwój.
+
+### 9.
+
+Osobie, o której mowa w art. 15 ust. 1 pkt 9 lit. a, odmawiającej poddania się sprawdzeniu prewencyjnemu, o którym mowa w art. 15 ust. 1 pkt 9, można odmówić wstępu na teren obiektów lub obszarów ochranianych przez Policję lub na imprezę masową zabezpieczaną przez Policję, jak również uniemożliwić udział w zgromadzeniu.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2017 r. poz. 2365](https://api.sejm.gov.pl/eli/acts/DU/2017/2365/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894 i 1544.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 11:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) dokonywania kontroli osobistej, a także przeglądania zawartości bagaży, sprawdzania ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej: a) w razie istnienia uzasadnionego podejrzenia popełniania czynu zabronionego pod groźbą kary, b) w celu znalezienia broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary, c) w celu znalezienia przedmiotów, których użycie może spowodować naruszenie bezpieczeństwa publicznego lub porządku publicznego, d) w celu znalezienia przedmiotów, których posiadanie jest zabronione, a także przedmiotów podlegających zajęciu na potrzeby postępowań prowadzonych w związku z realizacją czynności, o których mowa w art. 1 ust. 2 pkt 1-5b, 7 lub 10-14, e) gdy jest to niezbędne dla zapewnienia bezpieczeństwa innych osób, w tym funkcjonariuszy realizujących czynności służbowe lub osób w stosunku do których są wykonywane czynności służbowe, gdy osoby te są doprowadzane lub umieszczane lub przebywają w strzeżonym ośrodku lub areszcie dla cudzoziemców, f) jeżeli zachowanie osób, o których mowa w lit. e, wskazuje, że mogą one stanowić zagrożenie dla siebie lub z posiadanych informacji wynika, że podejmowały już wcześniej próby samookaleczenia, g) gdy jest to niezbędne dla zapewnienia porządku w strzeżonym ośrodku lub areszcie dla cudzoziemców. ” ,
+
+- - w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 i 14 w brzmieniu: „ 13) dokonywania sprawdzenia prewencyjnego osób doprowadzanych, umieszczanych lub przebywających w pomieszczeniach dla osób zatrzymanych lub osób konwojowanych, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego; 14) wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w pkt 1-2b, 4-6, 7, 7a, 9, 10 lub 13 lub w granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania tych czynności albo uniknięcia zatarcia śladów przestępstwa lub wykroczenia. ” ,
+
+### b)
+
+w ust. 2a lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+pkt 5 i 5a, w terminie 7 dni od dnia dokonania czynności,
+
+” ,
+
+### c)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy tryb dokonywania kontroli, o której mowa w ust. 1 pkt 1, a także poświadczania w dokumentach podróży przekroczenia granicy państwowej,
+
+### 2)
+
+wzory dokumentów wykorzystywanych w celu potwierdzenia wjazdu lub wyjazdu oraz poświadczających zatrzymanie dokumentu podczas kontroli granicznej,
+
+### 3)
+
+wzór pieczęci poświadczającej daty i miejsca przekroczenia granicy
+
+- uwzględniając możliwość ograniczenia lub odstąpienia od kontroli granicznej oraz jej dokonywania poza kolejnością, szczególne kategorie osób przekraczających granicę oraz okoliczności jej przekraczania, możliwość użycia środków technicznych oraz psa służbowego podczas tej kontroli, a także konieczność dokumentowania wykonanych czynności, w tym dostosowania wzorów dokumentów i pieczęci do obowiązujących w tym zakresie przepisów Unii Europejskiej.
+
+” ;
+
+### 2)
+
+po art. 11a dodaje się art. 11aa-11ad w brzmieniu:
+
+„
+
+### Art. 11aa.
+
+### 1.
+
+Kontrola osobista polega na sprawdzeniu:
+
+### 1)
+
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
+
+### 2)
+
+zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w celu oraz w zakresie niezbędnym do odebrania broni lub przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1, i gdy do ich odebrania nie jest wystarczające zastosowanie czynności, o których mowa w pkt 1;
+
+### 3)
+
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
+
+### 4)
+
+miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
+
+### 2.
+
+Funkcjonariusz dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do realizowania celu dokonywanej kontroli.
+
+### 3.
+
+Podczas sprawdzenia, o którym mowa w ust. 1 pkt 2 i 4, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+### 4.
+
+Sprawdzenia, o którym mowa w ust. 1 pkt 1 lub 2, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 3 lub 4 - wzrokowo lub manualnie.
+
+### 5.
+
+Osoba kontrolowana jest obowiązana umożliwić funkcjonariuszom dokonanie czynności, o których mowa w ust. 1.
+
+### 6.
+
+Kontrolę osobistą przeprowadza funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie dokonywania kontroli dla osób postronnych.
+
+### 7.
+
+Jeżeli kontrola osobista musi być przeprowadzona niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 6, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+### 8.
+
+Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+### 9.
+
+Funkcjonariusz dokonujący kontroli osobistej:
+
+### 1)
+
+podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, jeżeli wcześniej nie wykonał tych czynności;
+
+### 2)
+
+podaje podstawę prawną oraz przyczynę podjęcia czynności;
+
+### 3)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 4)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania broni lub przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d;
+
+### 5)
+
+może żądać:
+
+### a)
+
+opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych,
+
+### b)
+
+zdjęcia odzieży, obuwia lub bielizny przez osobę kontrolowaną,
+
+### c)
+
+przyjęcia przez osobę kontrolowaną odpowiednej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
+
+### 6)
+
+odbiera osobie kontrolowanej broń lub przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d;
+
+### 7)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w zbiorach danych prowadzonych przez Straż Graniczną lub w dostępnych Straży Granicznej krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
+
+### 10.
+
+Po zakończeniu kontroli osobistej funkcjonariusz:
+
+### 1)
+
+odnotowuje dokonanie kontroli osobistej w dokumentacji służbowej, określając datę, miejsce, czas i przyczynę jej przeprowadzenia, zakres przeprowadzonych czynności oraz dane osoby kontrolowanej i osób w niej uczestniczących - jeżeli w toku kontroli nie ujawniono przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d;
+
+### 2)
+
+sporządza protokół z kontroli osobistej - jeżeli w toku kontroli osobistej ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d.
+
+### 11.
+
+Funkcjonariusz poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 13, oraz o możliwości żądania sporządzenia protokołu z kontroli osobistej. Funkcjonariusz sporządza protokół z kontroli osobistej, jeżeli osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu.
+
+### 12.
+
+Protokół z kontroli osobistej zawiera w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób w niej uczestniczących, obejmujących imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane funkcjonariusza dokonującego kontroli obejmujące stopień, imię i nazwisko oraz nazwę jednostki organizacyjnej Straży Granicznej, w której pełni służbę;
+
+### 4)
+
+przebieg kontroli, oświadczenia i wnioski osoby kontrolowanej i osób w niej uczestniczących;
+
+### 5)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 6)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 7)
+
+w miarę potrzeby opis innych okoliczności dotyczących przebiegu kontroli.
+
+### 13.
+
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzenia czynności, w terminie 7 dni od dokonania kontroli osobistej, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+### 14.
+
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora oraz kierownika jednostki organizacyjnej Straży Granicznej nadrzędnej nad jednostką, w której pełni służbę funkcjonariusz, który dokonał kontroli osobistej.
+
+### 15.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne.
+
+### 16.
+
+Zażalenie, o którym mowa w ust. 13, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 11ab.
+
+### 1.
+
+Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej polega na:
+
+### 1)
+
+wzrokowej kontroli zawartości bagaży lub ładunków;
+
+### 2)
+
+manualnym sprawdzeniu elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+
+### 3)
+
+manualnym sprawdzeniu ładunków;
+
+### 4)
+
+sprawdzenie bagaży lub ładunków z wykorzystaniem psa służbowego;
+
+### 5)
+
+sprawdzeniu bagaży lub ładunków z wykorzystaniem psa służbowego lub urządzeń i sprzętu specjalistycznego, w szczególności służącego do wykrywania przedmiotów, których posiadanie jest zabronione, materiałów wybuchowych, środków odurzających lub substancji psychotropowych i ich prekursorów.
+
+### 2.
+
+Funkcjonariusz realizuje czynności, o których mowa w ust. 1, w zakresie, w jakim jest to niezbędne w danych okolicznościach.
+
+### 3.
+
+Funkcjonariusz realizuje czynności, o których mowa w ust. 1, w obecności osoby posiadającej bagaż lub przewożącej ładunek albo przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 4.
+
+W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 3, funkcjonariusz może przejrzeć zawartość bagaży lub sprawdzić ładunek bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, lub gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w sprawie albo podlegających zajęciu w postępowaniu karnym.
+
+### 5.
+
+Funkcjonariusz, w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+### 6.
+
+Osoby, o których mowa w ust. 3, są obowiązane udostępnić bagaż lub ładunek funkcjonariuszowi do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+### 7.
+
+Funkcjonariusz realizujący czynności, o których mowa w ust. 1:
+
+### 1)
+
+podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, jeżeli wcześniej nie wykonał tych czynności;
+
+### 2)
+
+podaje podstawę prawną oraz przyczynę podjęcia czynności;
+
+### 3)
+
+legitymuje osoby uczestniczące w czynności;
+
+### 4)
+
+może żądać wydania przez osoby, o których mowa w ust. 3, przedmiotów, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d;
+
+### 5)
+
+odbiera od osób, o których mowa w ust. 3, przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d.
+
+### 8.
+
+Sprawdzenia ładunku znajdującego się pod zamknięciem urzędowym dokonuje się w obecności funkcjonariusza Służby Celno-Skarbowej.
+
+### 9.
+
+Przeglądania zawartości bagaży lub sprawdzania ładunków dokonuje się w miarę możliwości w sposób niepowodujący ich uszkodzenia.
+
+### 10.
+
+Po zakończeniu realizacji czynności, o których mowa w ust. 1, funkcjonariusz poucza osoby, o których mowa w ust. 3, o prawie do złożenia zażalenia, o którym mowa w ust. 12, oraz o prawie do żądania sporządzenia protokołu z dokonanej czynności.
+
+### 11.
+
+Funkcjonariusz sporządza protokół, jeżeli osoby, o których mowa w ust. 3, zgłosiły takie żądanie bezpośrednio po dokonaniu czynności oraz gdy w toku czynności ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 11aa ust. 12.
+
+### 12.
+
+Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzenia czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+### 13.
+
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora oraz kierownika jednostki organizacyjnej Straży Granicznej nadrzędnej nad jednostką, w której pełni służbę funkcjonariusz, który dokonał kontroli osobistej.
+
+### 14.
+
+Zażalenie, o którym mowa w ust. 12, składa się za pośrednictwem jednostki organizacyjnej Straży Granicznej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 11ac.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory protokołów, o których mowa w art. 11aa ust. 10 pkt 2 i art. 11ab ust. 10, uwzględniając konieczność zawarcia informacji dotyczących czasu, miejsca i przyczyny dokonania kontroli osobistej albo przeglądania zawartości bagaży lub sprawdzania ładunków, danych osobowych osoby, w stosunku do której zostały wykonane czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+### Art. 11ad.
+
+### 1.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 11 ust. 1 pkt 13, może polegać również na:
+
+### 1)
+
+żądaniu zdjęcia przez osobę odzieży i obuwia;
+
+### 2)
+
+zdjęciu osobie odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1;
+
+### 3)
+
+sprawdzeniu ciała osoby oraz zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1.
+
+### 3.
+
+Czynności, o których mowa w ust. 2, wykonuje się w sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży - jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie intymności.
+
+### 4.
+
+Do sprawdzenia prewencyjnego, o którym mowa w art. 11 ust. 1 pkt 13, przepisy art. 11aa ust. 6, 7 i 15 stosuje się odpowiednio.
+
+### 5.
+
+W przypadku gdy w toku sprawdzenia prewencyjnego, o którym mowa w art. 11 ust. 1 pkt 13, ujawniono przedmioty, o których mowa w art. 11 ust. 1 pkt 2 lit. b-d, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 11aa.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej ([Dz. U. z 2018 r. poz. 1869](https://api.sejm.gov.pl/eli/acts/DU/2018/1869/text.html)) w art. 15:
+
+### 1)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary, osoba, o której mowa w ust. 1, jest obowiązana do udostępnienia do przejrzenia przedmioty, bagaże i środki transportu.
+
+” ;
+
+### 2)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Funkcjonariusze Straży Granicznej dokonają kontroli osobistej osoby, o której mowa w ust. 1, na zasadach określonych w art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2017 r. poz. 2365](https://api.sejm.gov.pl/eli/acts/DU/2017/2365/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894, 1544 i 2399.](#gloss-0:4:)).
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html)) art. 227 otrzymuje brzmienie:
+
+„
+
+### Art. 227.
+
+Przeszukanie lub zatrzymanie rzeczy powinno być dokonane zgodnie z celem tej czynności, z zachowaniem umiaru, oraz w granicach niezbędnych dla osiągnięcia celu tych czynności przy zachowaniu należytej staranności, w poszanowaniu prywatności i godności osób, których ta czynność dotyczy, oraz bez wyrządzania niepotrzebnych szkód i dolegliwości.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 29 sierpnia 1997 r. o strażach gminnych ([Dz. U. z 2018 r. poz. 928](https://api.sejm.gov.pl/eli/acts/DU/2018/928/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12:
+
+### a)
+
+w ust. 1:
+
+- - pkt 3a otrzymuje brzmienie: „ 3a) dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z wykonywaniem czynności określonych w ust. 1 pkt 3 - na zasadach i w sposób określony w ust. 1c-1m; ” ,
+
+- - po pkt 3a dodaje się pkt 3b w brzmieniu: „ 3b) dokonywania sprawdzenia prewencyjnego osób doprowadzanych, o których mowa w art. 11 ust. 1 pkt 7, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia; ” ,
+
+- - pkt 7 otrzymuje brzmienie: „ 7) wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonywania czynności określonych w pkt 1-6; ” ,
+
+### b)
+
+uchyla się ust. 1b,
+
+### c)
+
+dodaje się ust. 1c-1q w brzmieniu:
+
+„
+
+### 1c.
+
+Kontrola osobista polega na sprawdzeniu:
+
+### 1)
+
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele;
+
+### 2)
+
+zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
+
+### 3)
+
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej.
+
+### 1d.
+
+Sprawdzenia, o którym mowa w ust. 1c, można dokonać wzrokowo lub manualnie.
+
+### 1e.
+
+Strażnik dokonujący kontroli osobistej:
+
+### 1)
+
+przystępując do czynności związanych z kontrolą osobistą podaje swoje stanowisko, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a także podstawę prawną i przyczynę podjęcia kontroli osobistej;
+
+### 2)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 3)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmiotów, których posiadanie jest zabronione lub stanowiących zagrożenie życia lub zdrowia lub przedmiotów mogących stanowić dowód rzeczowy lub podlegających przepadkowi oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, obuwia lub przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
+
+### 4)
+
+odbiera osobie kontrolowanej posiadaną broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmioty, których posiadanie jest zabronione, lub które stanowią zagrożenie życia lub zdrowia, lub przedmioty mogące stanowić dowód rzeczowy lub podlegające przepadkowi.
+
+### 1f.
+
+Przedmioty, o których mowa w ust. 1e pkt 4, przekazuje się za potwierdzeniem odbioru właściwym podmiotom albo zwraca się osobie kontrolowanej.
+
+### 1g.
+
+Kontroli osobistej dokonuje strażnik tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+### 1h.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać strażnik płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 1g.
+
+### 1i.
+
+Podczas kontroli osobistej może być obecna osoba przybrana przez strażnika, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+### 1j.
+
+Po zakończeniu kontroli osobistej strażnik poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 1l, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
+
+### 1k.
+
+Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub przedmioty, o których mowa w ust. 1e pkt 4. Protokół zawiera w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawę prawną i przyczynę jej podjęcia;
+
+### 2)
+
+miejsce podjęcia czynności oraz datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+imię i nazwisko, datę i miejsce urodzenia oraz miejsce zamieszkania lub pobytu osoby kontrolowanej i osób uczestniczących w czynności;
+
+### 4)
+
+rodzaj dokumentu, który stanowił podstawę do ustalenia tożsamości, a w przypadku gdy tożsamość osoby ustalono w inny sposób - dane pozwalające na ustalenie tożsamości osoby;
+
+### 5)
+
+stanowisko, imię i nazwisko strażnika dokonującego czynności;
+
+### 6)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 7)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 8)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 9)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 1l.
+
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html)).
+
+### 1m.
+
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej, sąd zawiadamia o tym prokuratora i komendanta straży, w której zatrudniony jest strażnik, który dokonał kontroli osobistej.
+
+### 1n.
+
+W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub przedmiotów, o których mowa w ust. 1e pkt 4, lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli, kontrolę osobistą dokumentuje się w notatniku służbowym lub w notatce służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 1j.
+
+### 1o.
+
+Sprawdzenie prewencyjne osób doprowadzanych, o którym mowa w ust. 1 pkt 3b, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych.
+
+### 1p.
+
+W toku wykonywania czynności, o których mowa w ust. 1o, strażnik może, w uzasadnionych przypadkach, przeprowadzić badania na zawartość alkoholu w wydychanym powietrzu. Warunki oraz sposób przeprowadzania badań, o których mowa w zdaniu pierwszym, określają przepisy wykonawcze wydane na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi ([Dz. U. z 2018 r. poz. 2137](https://api.sejm.gov.pl/eli/acts/DU/2018/2137/text.html) i [2244](https://api.sejm.gov.pl/eli/acts/DU/2018/2244/text.html)).
+
+### 1q.
+
+W przypadku gdy w stosunku do osób doprowadzanych, o którym mowa w art. 11 ust. 1 pkt 7, zachodzi uzasadnione podejrzenie że posiadają przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego, dokonuje się kontroli osobistej na zasadach i w sposób określony w ust. 1c-1n.
+
+” ,
+
+### d)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, zakres i sposób wykonywania czynności, o których mowa w ust. 1 pkt 2, 3, 3b, 8 i 9, uwzględniając potrzebę zapewnienia skuteczności podejmowanych przez strażnika czynności, a także potrzebę respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
+
+” ;
+
+### 2)
+
+art. 20 otrzymuje brzmienie:
+
+„
+
+### Art. 20.
+
+Na zastosowanie i sposób przeprowadzenia czynności, o których mowa w art. 12 ust. 1 pkt 1-3 i 4-9 oraz art. 14, przysługuje zażalenie do prokuratora.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych ([Dz. U. z 2018 r. poz. 430](https://api.sejm.gov.pl/eli/acts/DU/2018/430/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 17 w ust. 1:
+
+### a)
+
+pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego:
+
+### a)
+
+w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub
+
+### b)
+
+w celu znalezienia:
+
+- - broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub
+
+- - przedmiotów, których posiadanie jest zabronione, lub mogących stanowić dowód w prowadzonym postępowaniu karnym, karnym skarbowym lub czynnościach wyjaśniających w sprawach o wykroczenia lub w związku z realizacją zadań, o których mowa w art. 4 ust. 1 pkt 2-4, 5, 6 i 8, lub
+
+- - przedmiotów podlegających przepadkowi, w przypadku uzasadnionego przypuszczenia posiadania przez osobę broni lub takich przedmiotów lub uzasadnionego przypuszczenia ich użycia do popełnienia czynu zabronionego pod groźbą kary
+
+- - na zasadach i w sposób określony w art. 17a i art. 17b;
+
+” ,
+
+### b)
+
+w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 i 17 w brzmieniu:
+
+„
+
+### 16)
+
+dokonywania sprawdzenia prewencyjnego w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie lub w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia lub bezpieczeństwa i porządku publicznego lub:
+
+### a)
+
+zapobiegania zdarzeniom o charakterze terrorystycznym - osób w związku z ich dostępem na tereny lub do obiektów ochranianych przez Żandarmerię Wojskową lub w związku z zabezpieczeniem przez Żandarmerię Wojskową imprez masowych lub zgromadzeń, bagaży lub przedmiotów posiadanych przez te osoby, a także środków transportu lądowego, powietrznego lub wodnego lub pojazdów, którymi się poruszają w związku z dostępem do tych terenów lub obiektów,
+
+### b)
+
+znalezienia i odebrania przedmiotów, których użycie ze względu na ich właściwości może spowodować zagrożenie życia lub zdrowia lub bezpieczeństwa przeprowadzonych czynności osób:
+
+- - doprowadzanych przez Żandarmerię Wojskową na polecenie lub zarządzenie uprawnionego organu lub w związku z realizacją czynności określonych przepisami prawa lub osób w stanie nietrzeźwości doprowadzanych przez Żandarmerię Wojskową do miejsca pełnienia czynnej służby wojskowej lub miejsca zamieszkania lub izby zatrzymań lub innego miejsca określonego przepisami prawa lub wskazanego przez uprawniony organ w poleceniu lub zarządzeniu, na podstawie którego dokonuje się doprowadzenia do izby zatrzymań lub innego miejsca określonego przepisami prawa,
+
+- - zatrzymywanych w przypadkach określonych w ust. 1 pkt 3 i 4, osób zatrzymanych, przyjmowanych i osadzanych w izbach zatrzymań lub innych miejscach określonych przepisami prawa,
+
+- - pozbawionych wolności, w tym przebywających w zakładach karnych, aresztach śledczych, zakładach poprawczych, a także osób skazanych lub tymczasowo aresztowanych, przekazywanych na podstawie umów międzynarodowych, podczas wykonywania w stosunku do tych osób przez Żandarmerię Wojskową na polecenie sądu lub prokuratora czynności polegających na przemieszczaniu tych osób w związku z wykonywaniem czynności procesowych lub innych czynności określonych przez sąd lub prokuratora;
+
+### 17)
+
+wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w pkt 1-7, 9 lub 10 lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań Żandarmerii Wojskowej lub w granicach niezbędnych do ochrony przed zatarciem śladów przy zabezpieczaniu miejsca zdarzenia lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnej realizacji zadań Żandarmerii Wojskowej albo uniknięcia zatarcia śladów przestępstwa lub wykroczenia.
+
+” ;
+
+### 2)
+
+po art. 17 dodaje się art. 17a-17d w brzmieniu:
+
+„
+
+### Art. 17a.
+
+### 1.
+
+Kontrola osobista polega na sprawdzeniu:
+
+### 1)
+
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
+
+### 2)
+
+zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
+
+### 3)
+
+zawartości odzieży i obuwia osoby kontrolowanej i przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w celu oraz w zakresie niezbędnym do odebrania broni lub przedmiotów, o których mowa w art. 17 ust. 1 pkt 10, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1 lub 2 i gdy do ich odebrania nie jest wystarczające zastosowanie czynności określonych w pkt 1 i 2;
+
+### 4)
+
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
+
+### 5)
+
+miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
+
+### 2.
+
+Żołnierz Żandarmerii Wojskowej dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej kontroli. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 3 i 5, osoba kontrolowana powinna być częściowo ubrana. Żołnierz Żandarmerii Wojskowej najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+### 3.
+
+Sprawdzenia, o którym mowa w ust. 1 pkt 1-3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 - wzrokowo lub manualnie.
+
+### 4.
+
+Żołnierz Żandarmerii Wojskowej dokonujący kontroli osobistej:
+
+### 1)
+
+przystępując do czynności związanych z kontrolą osobistą podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a żołnierz Żandarmerii Wojskowej nieumundurowany na żądanie osoby kontrolowanej okazuje również legitymację służbową w taki sposób, aby osoba kontrolowana miała możliwość odczytać i zanotować numer i organ, który wydał legitymację, oraz imię i nazwisko żołnierza Żandarmerii Wojskowej;
+
+### 2)
+
+podaje podstawę prawną i przyczynę podjęcia kontroli osobistej;
+
+### 3)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 4)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 17 ust. 1 pkt 10, lub podlegających przepadkowi oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych, jak również może żądać przyjęcia przez osobę kontrolowaną odpowiedniej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
+
+### 5)
+
+odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmioty, których posiadanie jest zabronione, lub przedmioty mogące stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 17 ust. 1 pkt 10, lub podlegające przepadkowi;
+
+### 6)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w zbiorach danych w dostępnych Żandarmerii Wojskowej krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia;
+
+### 7)
+
+pobiera niezbędne dane osobowe osoby kontrolowanej lub innych osób, jeżeli uczestniczą w czynności, oraz dane dotyczące posiadanych przez osobę kontrolowaną dokumentów i podlegających sprawdzeniu przedmiotów, w tym dane związane z tymi przedmiotami lub utrwalone na tych dokumentach;
+
+### 8)
+
+może odstąpić od wykonywania czynności, o których mowa w pkt 1 i 3, w przypadku gdy czynności te zostały wykonane przez żołnierza Żandarmerii Wojskowej bezpośrednio przed przystąpieniem do dokonania kontroli osobistej w ramach realizacji innych uprawnień określonych w art. 17, w szczególności w związku z legitymowaniem osoby.
+
+### 5.
+
+Kontroli osobistej dokonuje żołnierz Żandarmerii Wojskowej tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+### 6.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać żołnierz Żandarmerii Wojskowej płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 5, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+### 7.
+
+Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli osobistej może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+### 8.
+
+Osoba kontrolowana jest obowiązana umożliwić żołnierzom Żandarmerii Wojskowej dokonanie czynności, o których mowa w ust. 1.
+
+### 9.
+
+Po zakończeniu kontroli osobistej żołnierz Żandarmerii Wojskowej poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
+
+### 10.
+
+Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub przedmioty, o których mowa w art. 17 ust. 1 pkt 10. Protokół zawiera w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób uczestniczących w kontroli osobistej, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane żołnierza Żandarmerii Wojskowej dokonującego czynności, obejmujące stopień, imię, nazwisko oraz nazwę jednostki organizacyjnej Żandarmerii Wojskowej, w której pełni służbę;
+
+### 4)
+
+nazwę jednostki organizacyjnej Żandarmerii Wojskowej właściwej ze względu na miejsce dokonania kontroli osobistej;
+
+### 5)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 6)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 7)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 8)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 11.
+
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+### 12.
+
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora i Komendanta Głównego Żandarmerii Wojskowej.
+
+### 13.
+
+W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub przedmiotów, o których mowa w art. 17 ust. 1 pkt 10, lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli osobistej, kontrolę osobistą dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 9.
+
+### 14.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, żołnierz Żandarmerii Wojskowej, w granicach dostępnych środków, niezwłocznie podejmuje czynności ochronne, a w szczególności zabezpiecza miejsce zagrożone przed dostępem osób postronnych oraz powiadamia dyżurnego właściwej miejscowo jednostki organizacyjnej Żandarmerii Wojskowej o konieczności zarządzenia działań usuwających to niebezpieczeństwo.
+
+### 15.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej Żandarmerii Wojskowej właściwej według miejsca dokonania kontroli osobistej. Jednostka organizacyjna Żandarmerii Wojskowej, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 17b.
+
+### 1.
+
+Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach, na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+
+### 1)
+
+wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+
+### 2)
+
+sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+
+### 2.
+
+Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności - w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 3.
+
+W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa w ust. 1, wykonuje się wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 4.
+
+W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 2, żołnierz Żandarmerii Wojskowej może wykonać czynności określone w ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 17 ust. 1 pkt 10, lub podlegających przepadkowi.
+
+### 5.
+
+Żołnierz Żandarmerii Wojskowej w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+### 6.
+
+Osoby, o których mowa w ust. 2, są obowiązane udostępnić żołnierzowi Żandarmerii Wojskowej bagaż lub ładunek do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+### 7.
+
+Czynności, o których mowa w ust. 1, wykonuje się w miarę możliwości w sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+
+### 8.
+
+Przy dokonywaniu czynności, o których mowa w ust. 1, przepisy art. 17a ust. 4 i 14 stosuje się odpowiednio.
+
+### 9.
+
+Żołnierz Żandarmerii Wojskowej po zakończeniu wykonywania czynności, o których mowa w ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+
+### 10.
+
+Z dokonania czynności, o których mowa w ust. 1, sporządza się protokół w przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz w przypadku, gdy w toku czynności znaleziono broń lub przedmioty, o których mowa w ust. 1 pkt 2. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 17a ust. 10 zdanie drugie.
+
+### 11.
+
+Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 17a ust. 12 stosuje się odpowiednio.
+
+### 12.
+
+W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub przedmiotów, o których mowa w ust. 1 pkt 2, lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
+
+### 13.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej Żandarmerii Wojskowej właściwej według miejsca dokonania czynności określonych w ust. 1. Jednostka organizacyjna Żandarmerii Wojskowej, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 17c.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 17a ust. 10 i 13 oraz art. 17b ust. 10 i 12, a także wzory protokołów, o których mowa w art. 17a ust. 9 i art. 17b ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+### Art. 17d.
+
+### 1.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 17 ust. 1 pkt 16, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności Żandarmerii Wojskowej w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+W przypadku gdy w stosunku do osób, o których mowa w art. 17 ust. 1 pkt 16 lit. a, osób doprowadzonych w związku z realizacją czynności określonych przepisami prawa lub osób doprowadzanych przez Żandarmerię Wojskową, o których mowa w art. 17 ust. 1 pkt 16 lit. b tiret pierwsze, zaistniały przesłanki, o których mowa w art. 17 ust. 1 pkt 10, dokonuje się kontroli osobistej na zasadach i w sposób określony w art. 17a.
+
+### 3.
+
+W stosunku do osób zatrzymanych, doprowadzanych lub konwojowanych, sprawdzenie prewencyjne, o którym mowa w art. 17 ust. 1 pkt 16, może polegać również na:
+
+### 1)
+
+żądaniu zdjęcia przez osobę odzieży i obuwia,
+
+### 2)
+
+zdjęciu osobie odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1,
+
+### 3)
+
+dokonaniu oględzin ciała osoby oraz sprawdzeniu zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1,
+
+### 4)
+
+żądaniu wydania oraz oddania do depozytu, lub w celu zajęcia lub zabezpieczenia:
+
+### a)
+
+środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
+
+### b)
+
+przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnej lub innych osób albo bezpieczeństwa przeprowadzanych czynności, w tym broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 17 ust. 1 pkt 10, lub podlegających przepadkowi,
+
+### c)
+
+przedmiotów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa osoby znajdującej się w pomieszczeniu izby zatrzymań lub innym miejscu określonym przepisami prawa, w szczególności przedmiotów posiadających ostre krawędzie lub zakończenie, środków służących do obezwładniania, dopuszczonych do obrotu produktów leczniczych, produktów zawierających alkohol, sznurowadeł, pasków, szalików, zapałek, zapalniczek lub innych przedmiotów, których wymiary lub ilość naruszają ustalony porządek bądź bezpieczeństwo pobytu w pomieszczeniu dla osób zatrzymanych lub doprowadzonych,
+
+### 5)
+
+odebraniu przedmiotów, o których mowa w pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu
+
+- w szczególności, gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 17 ust. 1 pkt 3 lub 4 lub osoby zatrzymanej, przyjętej i osadzonej w izbie zatrzymań, przejmowania osoby w związku z wykonywanymi czynnościami przez Żandarmerię Wojskową, a także po zakończeniu widzenia lub innej czynności związanej z kontaktem osoby zatrzymanej, konwojowanej lub doprowadzonej z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+
+### 4.
+
+Czynności, o których mowa w ust. 3 pkt 1-3, wykonuje się w sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży - jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
+
+### 5.
+
+Do sprawdzenia prewencyjnego, o którym mowa w art. 17 ust. 1 pkt 16, przepisy art. 17a ust. 5, 6 i 14 stosuje się odpowiednio.
+
+### 6.
+
+W przypadku gdy w toku sprawdzenia prewencyjnego osób zatrzymanych, doprowadzonych lub konwojowanych, o którym mowa w art. 17 ust. 1 pkt 16 lit. b, ujawniono broń lub przedmioty, o których mowa w art. 17 ust. 1 pkt 10, sprawdzenie to traktuje się jako kontrolę osobistą oraz stosuje się odpowiednio przepisy art. 17a.
+
+### 7.
+
+W przypadku zwalniania osoby z izby zatrzymań lub innego miejsca określonego przepisami prawa w celu jej przekazania do wykonania czynności procesowych lub innych czynności określonych przez sąd lub prokuratora, środki, dokumenty tożsamości, urządzenia techniczne i przedmioty, o których mowa w ust. 3 pkt 4 lit. a i c, z wyjątkiem sznurowadeł, paska i szalika, przejmuje na czas doprowadzenia lub konwoju żołnierz Żandarmerii Wojskowej realizujący doprowadzenie lub konwój.
+
+### 8.
+
+Osobie, o której mowa w art. 17 ust. 1 pkt 16 lit. a, odmawiającej poddania się sprawdzeniu prewencyjnemu, można odmówić wstępu na teren obiektów lub obszarów ochranianych przez Żandarmerię Wojskową lub na imprezę masową zabezpieczaną przez Żandarmerię Wojskową, jak również uniemożliwić udział w zgromadzeniu.
+
+” ;
+
+### 3)
+
+art. 22 otrzymuje brzmienie:
+
+„
+
+### Art. 22.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób wykonywania uprawnień, o których mowa w art. 17 ust. 1 pkt 1, 2, 4, 5 i 11-13 i sposób ich dokumentowania oraz wzory dokumentów wykorzystywanych w ramach wykonywania tych uprawnień, uwzględniając przy tym sposób postępowania żołnierzy Żandarmerii Wojskowej w zależności od stopnia wojskowego żołnierza, wobec którego są wykonywane te czynności, z poszanowaniem praw osób, wobec których działania te są podejmowane oraz konieczność zapewnienia jednolitości dokumentów wykorzystywanych do tych uprawnień.
+
+” ;
+
+### 4)
+
+w art. 24 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na sposób przeprowadzenia czynności, o których mowa w art. 17 ust. 1 pkt 1, 2, 12-14 i 16, osobie, wobec której została wykonana taka czynność, przysługuje zażalenie do prokuratora do spraw wojskowych w powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania.
+
+” ;
+
+### 5)
+
+w art. 51 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Żołnierzom wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych przysługują uprawnienia określone w art. 17 ust. 1 pkt 1, 2, 4-6, 8, 11 i 16.
+
+” ;
+
+### 6)
+
+w art. 52 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na sposób przeprowadzenia czynności, o których mowa w art. 17 ust. 1 pkt 1, 2 i 16, przez żołnierzy wojskowych organów porządkowych oraz na sposób użycia lub wykorzystania przez nich środków przymusu bezpośredniego lub broni palnej osobie, wobec której zostały wykonane te czynności lub użyto lub wykorzystano środki przymusu bezpośredniego lub broń palną, przysługuje zażalenie do prokuratora do spraw wojskowych w powszechnej jednostce organizacyjnej prokuratury właściwej ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2018 r. poz. 2387](https://api.sejm.gov.pl/eli/acts/DU/2018/2387/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w pkt 2-5a lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań ABW lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania tych czynności albo uniknięcia zatarcia śladów przestępstwa; ” ,
+
+- - pkt 5 otrzymuje brzmienie: „ 5) dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego, w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z realizacją zadań określonych w art. 5 ust. 1 pkt 1-2b i 5; ” ,
+
+- - po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) dokonywania sprawdzenia prewencyjnego na zasadach i w sposób określony w art. 43a; ” ,
+
+### b)
+
+w ust. 7 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+pkt 1, 2, 7 i 8, w terminie 7 dni od dnia dokonania czynności,
+
+” ,
+
+### c)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki przeprowadzania i dokumentowania czynności, o których mowa w ust. 1 pkt 1-4 i 6, uwzględniając dostosowany do sytuacji sposób przeprowadzania przez funkcjonariuszy ABW czynności podejmowanych w ramach ustawowych uprawnień oraz obowiązki funkcjonariuszy podczas realizacji tych czynności.
+
+” ;
+
+### 2)
+
+po art. 23 dodaje się art. 23a-23d w brzmieniu:
+
+„
+
+### Art. 23a.
+
+### 1.
+
+Kontrola osobista polega na sprawdzeniu:
+
+### 1)
+
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
+
+### 2)
+
+zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
+
+### 3)
+
+zawartości odzieży i obuwia osoby kontrolowanej i przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w celu oraz w zakresie niezbędnym do odebrania broni lub innych poszukiwanych przedmiotów, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1 lub 2, i gdy do ich odebrania nie jest wystarczające zastosowanie czynności określonych w pkt 1 i 2;
+
+### 4)
+
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
+
+### 5)
+
+miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
+
+### 2.
+
+Funkcjonariusz dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej kontroli. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 3 i 5, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+### 3.
+
+Sprawdzenia, o którym mowa w ust. 1 pkt 1-3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 - wzrokowo lub manualnie.
+
+### 4.
+
+Funkcjonariusz dokonujący kontroli osobistej:
+
+### 1)
+
+przystępując do czynności związanych z kontrolą osobistą podaje swój stopień, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a funkcjonariusz nieumundurowany na żądanie osoby kontrolowanej okazuje również legitymację służbową w taki sposób, aby osoba kontrolowana miała możliwość odczytać i zanotować numer i organ, który wydał legitymację, oraz nazwisko funkcjonariusza;
+
+### 2)
+
+podaje podstawę prawną i przyczynę podjęcia kontroli osobistej;
+
+### 3)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 4)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych poszukiwanych przedmiotów oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych, jak również może żądać przyjęcia przez osobę kontrolowaną odpowiedniej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
+
+### 5)
+
+odbiera osobie kontrolowanej broń lub inne poszukiwane przedmioty;
+
+### 6)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia;
+
+### 7)
+
+pobiera niezbędne dane osobowe osoby kontrolowanej lub innych osób, jeżeli uczestniczą w czynności, oraz dane dotyczące posiadanych przez osobę kontrolowaną dokumentów i podlegających sprawdzeniu przedmiotów, w tym dane związane z tymi przedmiotami lub utrwalone na tych dokumentach;
+
+### 8)
+
+może odstąpić od wykonywania czynności, o których mowa w pkt 1 i 3, w przypadku gdy czynności te zostały wykonane przez funkcjonariusza bezpośrednio przed przystąpieniem do dokonania kontroli osobistej w ramach realizacji innych uprawnień ABW, w szczególności w związku z legitymowaniem osoby.
+
+### 5.
+
+Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+### 6.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 5, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+### 7.
+
+Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli osobistej może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+### 8.
+
+Osoba kontrolowana jest obowiązana umożliwić funkcjonariuszom dokonanie czynności, o których mowa w ust. 1.
+
+### 9.
+
+Po zakończeniu kontroli osobistej funkcjonariusz poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
+
+### 10.
+
+Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub inne poszukiwane przedmioty. Protokół zawiera w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób uczestniczących w kontroli osobistej, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane funkcjonariusza dokonującego czynności obejmujące imię, nazwisko i stanowisko służbowe;
+
+### 4)
+
+miejsce dokonania czynności;
+
+### 5)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 6)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 7)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 8)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 11.
+
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. 12. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej, sąd zawiadamia o tym prokuratora i Szefa ABW. 13. W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub innych poszukiwanych przedmiotów lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli, kontrolę osobistą dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 9. 14. W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa. 15. Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej ABW, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 23b.
+
+### 1.
+
+Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach, na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+
+### 1)
+
+wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+
+### 2)
+
+sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+
+### 2.
+
+Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności - w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 3.
+
+W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa w ust. 1, wykonuje się wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 4.
+
+W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 2, funkcjonariusz może wykonać czynności określone w ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 5 ust. 1 pkt 1-2b lub 5.
+
+### 5.
+
+Funkcjonariusz, w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+### 6.
+
+Osoby, o których mowa w ust. 2, są obowiązane udostępnić funkcjonariuszowi bagaż lub ładunek do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+### 7.
+
+Czynności, o których mowa w ust. 1, wykonuje się w miarę możliwości w sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+
+### 8.
+
+Przy dokonywaniu czynności, o których mowa w ust. 1, przepisy art. 23a ust. 4 i 14 stosuje się odpowiednio.
+
+### 9.
+
+Funkcjonariusz po zakończeniu wykonywania czynności, o których mowa w ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+
+### 10.
+
+Z dokonania czynności, o których mowa w ust. 1, sporządza się protokół w przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz w przypadku, gdy w toku czynności znaleziono broń lub inne poszukiwane przedmioty. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 23a ust. 10 zdanie drugie.
+
+### 11.
+
+Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 23a ust. 12 stosuje się odpowiednio.
+
+### 12.
+
+W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
+
+### 13.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej ABW, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 23c.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 23a ust. 10 i 13 oraz art. 23b ust. 10 i 12, a także wzory protokołów, o których mowa w art. 23a ust. 9 i art. 23b ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+### Art. 23d.
+
+### 1.
+
+Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 43a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań ABW, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań ABW, jest obowiązany niezwłocznie powiadomić o tym Policję.
+
+### 2.
+
+Od obowiązków, o których mowa w ust. 1, funkcjonariusz może odstąpić, w przypadku wykonywania czynności określonych w art. 29 ust. 1 lub art. 30 ust. 1.
+
+” ;
+
+### 3)
+
+w art. 43 w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+dokonywania sprawdzenia prewencyjnego, a także sprawdzania bagaży, środków transportu i ładunków,
+
+” ;
+
+### 4)
+
+po art. 43 dodaje się art. 43a w brzmieniu:
+
+„
+
+### Art. 43a.
+
+### 1.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 43 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+W stosunku do osób zatrzymanych, doprowadzonych lub konwojowanych sprawdzenie prewencyjne, o którym mowa w art. 43 ust. 2 pkt 5, może polegać na:
+
+### 1)
+
+żądaniu zdjęcia przez osobę poddaną sprawdzeniu prewencyjnemu odzieży i obuwia,
+
+### 2)
+
+zdjęciu osobie poddanej sprawdzeniu prewencyjnemu odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1,
+
+### 3)
+
+dokonaniu oględzin ciała osoby poddanej sprawdzeniu prewencyjnemu oraz sprawdzeniu zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1,
+
+### 4)
+
+żądaniu wydania oraz oddania do depozytu, lub w celu zajęcia lub zabezpieczenia:
+
+### a)
+
+środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
+
+### b)
+
+przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, w tym broni lub przedmiotów, których posiadanie jest zabronione, lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 5 ust. 1, lub podlegających przepadkowi,
+
+### 5)
+
+odebraniu przedmiotów, o których mowa w pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu
+
+- w szczególności gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 23 ust. 1 pkt 3, lub innej czynności związanej z osobą zatrzymaną, konwojowaną lub doprowadzoną z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+
+### 3.
+
+Czynności, o których mowa w ust. 2 pkt 1-3, wykonuje się w sposób umożliwiający osobie pozostawienie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży - jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
+
+### 4.
+
+Przeglądanie bagaży, środków transportu i ładunków polega na przeglądaniu zawartości bagaży i sprawdzeniu ładunku poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
+
+### 5.
+
+Do sprawdzenia prewencyjnego, o którym mowa w art. 43 ust. 2 pkt 5, przepisy art. 23a ust. 5, 6 i 14 stosuje się odpowiednio.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej ([Dz. U. z 2018 r. poz. 1109](https://api.sejm.gov.pl/eli/acts/DU/2018/1109/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 30:
+
+### 1)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Organ Straży Granicznej, o którym mowa w ust. 1, dokonuje kontroli osobistej osoby, której dotyczy wniosek o udzielenie ochrony międzynarodowej, na zasadach określonych w art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2017 r. poz. 2365](https://api.sejm.gov.pl/eli/acts/DU/2017/2365/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894, 1544 i 2399.](#gloss-0:5:)).
+
+” ;
+
+### 2)
+
+uchyla się ust. 4.
+
+### Art. 9.
+
+W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego ([Dz. U. z 2017 r. poz. 1978](https://api.sejm.gov.pl/eli/acts/DU/2017/1978/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 44 w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+dokonywania sprawdzenia prewencyjnego, a także sprawdzania bagaży, środków transportu i ładunków,
+
+” ;
+
+### 2)
+
+po art. 44 dodaje się art. 44a w brzmieniu:
+
+„
+
+### Art. 44a.
+
+### 1.
+
+Sprawdzenie prewencyjne o którym mowa w art. 44 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+Sprawdzanie bagaży, środków transportu i ładunków polega na sprawdzeniu zawartości bagaży i sprawdzeniu ładunku poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
+
+### 3.
+
+Sprawdzenia prewencyjnego, o którym mowa w art. 44 ust. 2 pkt 5, dokonuje funkcjonariusz tej samej płci, co osoba sprawdzana, w miejscu niedostępnym w czasie wykonywania sprawdzenia dla osób postronnych.
+
+### 4.
+
+W przypadku gdy sprawdzenie prewencyjne, o którym mowa w art. 44 ust. 2 pkt 5, musi być dokonane niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może go dokonać funkcjonariusz płci odmiennej niż osoba sprawdzana, także w miejscu niespełniającym warunku, o którym mowa w ust. 3, w sposób możliwie najmniej naruszający dobra osobiste osoby sprawdzanej.
+
+### 5.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1 lub 2, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa.
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2018 r. poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2018/2104/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 14:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonania czynności określonych w pkt 2-5a lub wykonywania innych czynności służbowych podejmowanych w zakresie i w celu realizacji ustawowych zadań CBA lub w celu uniknięcia bezpośredniego zagrożenia bezpieczeństwa osób lub mienia, gdy jest to niezbędne do sprawnego i zgodnego z prawem wykonywania tych czynności albo uniknięcia zatarcia śladów przestępstwa; ” ,
+
+- - pkt 5 otrzymuje brzmienie: „ 5) dokonywania kontroli osobistej, a także przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego, w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z realizacją zadań określonych w art. 2 ust. 1 pkt 1-2 i 7; ” ,
+
+- - po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) dokonywania sprawdzenia prewencyjnego na zasadach i w sposób określony w art. 30a; ” ,
+
+### b)
+
+w ust. 7 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+pkt 1, 2, 7 i 8, w terminie 7 dni od dnia dokonania czynności,
+
+” ,
+
+### c)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki przeprowadzania i dokumentowania czynności, o których mowa w ust. 1 pkt 1-4 i 6, uwzględniając dostosowany do sytuacji sposób przeprowadzania przez funkcjonariuszy CBA czynności podejmowanych w ramach ustawowych uprawnień oraz obowiązki funkcjonariuszy podczas realizacji tych czynności.
+
+” ;
+
+### 2)
+
+po art. 14a dodaje się art. 14aa-14ad w brzmieniu:
+
+„
+
+### Art. 14aa.
+
+### 1.
+
+Kontrola osobista polega na sprawdzeniu:
+
+### 1)
+
+zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała;
+
+### 2)
+
+zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
+
+### 3)
+
+zawartości odzieży i obuwia osoby kontrolowanej i przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała w celu oraz w zakresie niezbędnym do odebrania broni lub innych poszukiwanych przedmiotów, w przypadku gdy ujawniono ich posiadanie przez osobę kontrolowaną podczas sprawdzenia, o którym mowa w pkt 1 lub 2, i gdy do ich odebrania nie jest wystarczające zastosowanie czynności określonych w pkt 1 i 2;
+
+### 4)
+
+jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej;
+
+### 5)
+
+miejsc intymnych osoby kontrolowanej, w szczególnie uzasadnionych przypadkach.
+
+### 2.
+
+Funkcjonariusz dokonuje kontroli osobistej w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej kontroli. Podczas sprawdzenia, o którym mowa w ust. 1 pkt 3 i 5, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz najpierw sprawdza część odzieży, a przed sprawdzeniem kolejnej części umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+### 3.
+
+Sprawdzenia, o którym mowa w ust. 1 pkt 1-3, można dokonać wzrokowo, manualnie lub z wykorzystaniem psa służbowego lub środków technicznych niezbędnych do wykrywania materiałów i urządzeń, których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, a sprawdzenia, o którym mowa w ust. 1 pkt 4 i 5 - wzrokowo lub manualnie.
+
+### 4.
+
+Funkcjonariusz dokonujący kontroli osobistej:
+
+### 1)
+
+przystępując do czynności związanych z kontrolą osobistą podaje swoje imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a na żądanie osoby kontrolowanej okazuje również legitymację służbową w taki sposób, aby osoba kontrolowana miała możliwość odczytać i zanotować numer i organ, który wydał legitymację oraz nazwisko funkcjonariusza;
+
+### 2)
+
+podaje podstawę prawną i przyczynę podjęcia kontroli osobistej;
+
+### 3)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 4)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych poszukiwanych przedmiotów oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych, jak również może żądać przyjęcia przez osobę kontrolowaną odpowiedniej pozycji ciała w sposób umożliwiający sprawdzenie miejsc intymnych;
+
+### 5)
+
+odbiera osobie kontrolowanej broń lub inne poszukiwane przedmioty;
+
+### 6)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia;
+
+### 7)
+
+pobiera niezbędne dane osobowe osoby kontrolowanej lub innych osób, jeżeli uczestniczą w czynności, oraz dane dotyczące posiadanych przez osobę kontrolowaną dokumentów i podlegających sprawdzeniu przedmiotów, w tym dane związane z tymi przedmiotami lub utrwalone na tych dokumentach;
+
+### 8)
+
+może odstąpić od wykonywania czynności, o których mowa w pkt 1 i 3, w przypadku gdy czynności te zostały wykonane przez funkcjonariusza bezpośrednio przed przystąpieniem do dokonania kontroli osobistej w ramach realizacji innych uprawnień CBA, w szczególności w związku z legitymowaniem osoby.
+
+### 5.
+
+Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+### 6.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 5, w sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+### 7.
+
+Podczas kontroli osobistej może być obecna osoba przybrana przez dokonującego czynności, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, podczas kontroli osobistej może być obecna także osoba wskazana przez osobę kontrolowaną.
+
+### 8.
+
+Osoba kontrolowana jest obowiązana umożliwić funkcjonariuszom dokonanie czynności, o których mowa w ust. 1.
+
+### 9.
+
+Po zakończeniu kontroli osobistej funkcjonariusz poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
+
+### 10.
+
+Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub inne poszukiwane przedmioty. Protokół zawiera w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby kontrolowanej i osób uczestniczących w kontroli osobistej, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane funkcjonariusza dokonującego czynności, obejmujące imię, nazwisko i stanowisko służbowe;
+
+### 4)
+
+miejsce dokonania czynności;
+
+### 5)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 6)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 7)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 8)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 11.
+
+Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.
+
+### 12.
+
+W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej sąd zawiadamia o tym prokuratora i Szefa CBA.
+
+### 13.
+
+W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub innych poszukiwanych przedmiotów lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli, kontrolę osobistą dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 9.
+
+### 14.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności, o których mowa w ust. 1, stwarzają niebezpieczeństwo dla życia, zdrowia lub mienia, funkcjonariusz, w granicach dostępnych środków, niezwłocznie podejmuje działania zmierzające do usunięcia niebezpieczeństwa.
+
+### 15.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał kontroli osobistej. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 14ab.
+
+### 1.
+
+Przeglądanie zawartości bagaży lub sprawdzanie ładunków w portach i na dworcach lub innych miejscach odprawy podróżnych lub bagażu oraz w środkach transportu lądowego, powietrznego i wodnego polega na:
+
+### 1)
+
+wzrokowej i manualnej kontroli zawartości bagaży lub ładunków, w tym manualnym sprawdzeniu ładunków, elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów;
+
+### 2)
+
+sprawdzeniu bagaży i ładunków z wykorzystaniem psa służbowego lub z wykorzystaniem środków technicznych niezbędnych do wykrywania materiałów i urządzeń zabronionych, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów.
+
+### 2.
+
+Czynności, o których mowa w ust. 1, wykonuje się w obecności posiadacza bagaży lub ładunków, a w przypadku gdy nie można ustalić posiadacza bagaży lub ładunków lub w przypadku jego nieobecności - w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 3.
+
+W przypadku bagaży lub ładunków przyjętych do przewozu, czynności, o których mowa w ust. 1, wykonuje się wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego.
+
+### 4.
+
+W przypadku braku możliwości zapewnienia natychmiastowej obecności osób, o których mowa w ust. 2, funkcjonariusz może wykonać czynności określone w ust. 1 bez ich obecności, jeżeli z posiadanych informacji wynika, że zwłoka może spowodować zagrożenie życia lub zdrowia ludzkiego lub mienia, albo gdy istnieje uzasadniona obawa zniszczenia bądź utracenia przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 2 ust. 1 pkt 1-2 i 7.
+
+### 5.
+
+Funkcjonariusz, w związku z realizacją czynności, o których mowa w ust. 1, ma prawo żądania udostępnienia bagaży lub przewożonych ładunków, w tym otwarcia bagażnika oraz udostępnienia przestrzeni bagażowej w środkach komunikacji do przejrzenia, wyjęcia przewożonych bagaży lub ładunków oraz otwarcia i pokazania ich zawartości.
+
+### 6.
+
+Osoby, o których mowa w ust. 2, są obowiązane udostępnić funkcjonariuszowi bagaż lub ładunek do przejrzenia lub sprawdzenia, w tym wykonać czynności, o których mowa w ust. 5.
+
+### 7.
+
+Czynności, o których mowa w ust. 1, wykonuje się w miarę możliwości w sposób niepowodujący uszkodzenia przeglądanych bagaży lub ładunków.
+
+### 8.
+
+Przy dokonywaniu czynności, o których mowa w ust. 1, przepisy art. 14aa ust. 4 i 14 stosuje się odpowiednio.
+
+### 9.
+
+Funkcjonariusz po zakończeniu wykonywania czynności, o których mowa w ust. 1, poucza posiadacza bagaży lub ładunków lub przedstawiciela przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, o prawie do złożenia zażalenia, o którym mowa w ust. 11, oraz o prawie do żądania sporządzenia protokołu z dokonanych czynności.
+
+### 10.
+
+Z dokonania czynności, o których mowa w ust. 1, sporządza się protokół w przypadku, gdy posiadacz bagaży lub ładunków lub przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, zgłosił takie żądanie bezpośrednio po dokonaniu tych czynności oraz w przypadku, gdy w toku czynności znaleziono broń lub inne poszukiwane przedmioty. Do sporządzenia protokołu stosuje się odpowiednio przepis art. 14aa ust. 10 zdanie drugie.
+
+### 11.
+
+Posiadaczowi bagaży lub ładunków lub przedstawicielowi przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano czynności określonych w ust. 1, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania czynności, przepis art. 14aa ust. 12 stosuje się odpowiednio.
+
+### 12.
+
+W przypadku gdy w toku czynności, o których mowa w ust. 1, nie znaleziono broni lub poszukiwanych przedmiotów lub gdy posiadacz bagaży lub ładunków, przedstawiciel przewoźnika, spedytora lub agenta morskiego, w obecności którego dokonano tych czynności, nie zażądał sporządzenia protokołu, czynności dokumentuje się w dokumentacji służbowej, określając datę, czas, miejsce i przyczynę ich dokonania, dane osób w nich uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby, o którym mowa w ust. 9.
+
+### 13.
+
+Zażalenie, o którym mowa w ust. 11, składa się za pośrednictwem jednostki organizacyjnej CBA, której funkcjonariusz dokonał czynności, o której mowa w ust. 1. Jednostka organizacyjna, o której mowa w zdaniu pierwszym, niezwłocznie przekazuje zażalenie do sądu rejonowego.
+
+### Art. 14ac.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sporządzania dokumentów, o których mowa w art. 14aa ust. 10 i 13 oraz art. 14ab ust. 10 i 12, a także wzory protokołów, o których mowa w art. 14aa ust. 9 i art. 14ab ust. 9, z uwzględnieniem informacji niezbędnych do udokumentowania podstaw prawnych, celu i zakresu dokonanej kontroli osobistej, przeglądania zawartości bagaży i sprawdzania ładunków w portach i na dworcach oraz w środkach transportu lądowego, powietrznego i wodnego oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+### Art. 14ad.
+
+### 1.
+
+Funkcjonariusz, który w toku kontroli osobistej, sprawdzenia prewencyjnego, przeglądania zawartości bagażu lub sprawdzania środków transportu i ładunku lub sprawdzenia, o którym mowa w art. 30a ust. 4, ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo, którego ściganie należy do zadań CBA, lub podlegające zajęciu w takim postępowaniu, jest obowiązany rzeczy te zatrzymać za pokwitowaniem, a jeżeli ujawnił rzeczy mogące stanowić dowód w sprawie o przestępstwo lub podlegające zajęciu w postępowaniu, którego ściganie nie należy do zadań CBA, jest obowiązany niezwłocznie powiadomić o tym Policję.
+
+### 2.
+
+Od obowiązków, o których mowa w ust. 1, funkcjonariusz może odstąpić, w przypadku wykonywania czynności określonych w art. 19 ust. 1 ustawy.
+
+” ;
+
+### 3)
+
+w art. 30:
+
+### a)
+
+w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+dokonywania sprawdzenia prewencyjnego, a także sprawdzania bagaży, środków transportu i ładunków.
+
+” ,
+
+### b)
+
+ust. 2b otrzymuje brzmienie:
+
+„
+
+### 2b.
+
+Czynności, o których mowa w ust. 2 pkt 2a-5, mogą być wykonywane również w miejscu bezpośrednio sąsiadującym z chronionymi urządzeniami, obszarami lub obiektami, jeżeli jest to niezbędne do zapewnienia ich bezpieczeństwa lub bezpieczeństwa przebywających w nich osób.
+
+” ;
+
+### 4)
+
+po art. 30 dodaje się art. 30a w brzmieniu:
+
+„
+
+### Art. 30a.
+
+### 1.
+
+Sprawdzenie prewencyjne, o którym mowa w art. 30 ust. 2 pkt 5, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych, sprawdzeniu za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub których posiadanie jest zabronione, w szczególności broni, materiałów wybuchowych, środków odurzających, substancji psychotropowych i ich prekursorów, sprawdzeniu biochemicznym lub z wykorzystaniem psa służbowego w zakresie niezbędnym do realizacji celu podejmowanych czynności w danych okolicznościach oraz w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której czynności są wykonywane.
+
+### 2.
+
+W stosunku do osób zatrzymanych, doprowadzonych lub konwojowanych, sprawdzenie prewencyjne, o którym mowa w art. 30 ust. 2 pkt 5, może polegać na:
+
+### 1)
+
+żądaniu zdjęcia przez osobę poddaną sprawdzeniu prewencyjnemu odzieży i obuwia,
+
+### 2)
+
+zdjęciu osobie poddanej sprawdzeniu prewencyjnemu odzieży i obuwia w przypadku niewykonania żądania, o którym mowa w pkt 1,
+
+### 3)
+
+dokonaniu oględzin ciała osoby poddanej sprawdzeniu prewencyjnemu oraz sprawdzeniu zdjętej odzieży i obuwia, w tym z wykorzystaniem środków, o których mowa w ust. 1,
+
+### 4)
+
+żądaniu wydania oraz oddania do depozytu, lub w celu zajęcia lub zabezpieczenia:
+
+### a)
+
+środków płatniczych i przedmiotów wartościowych, dokumentów tożsamości, środków łączności oraz urządzeń technicznych służących do rejestrowania i odtwarzania informacji,
+
+### b)
+
+przedmiotów, które mogą stanowić zagrożenie życia lub zdrowia lub bezpieczeństwa osoby poddanej sprawdzeniu prewencyjnemu lub innych osób albo bezpieczeństwa przeprowadzanych czynności, w tym broni lub przedmiotów, których posiadanie jest zabronione, lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia przestępstwa lub wykroczenia lub przedmiotów mogących stanowić dowód w postępowaniu prowadzonym w związku z realizacją zadań, o których mowa w art. 2 ust. 1, lub podlegających przepadkowi,
+
+### 5)
+
+odebraniu przedmiotów, o których mowa w pkt 4, oraz odpowiednio ich przyjęciu do depozytu, zabezpieczeniu lub zajęciu
+
+- w szczególności gdy czynności te przeprowadza się w przypadku zatrzymywania osoby zgodnie z art. 14 ust. 1 pkt 3, lub innej czynności związanej z osobą zatrzymaną, konwojowaną lub doprowadzoną z innymi osobami lub po każdorazowej utracie kontaktu wzrokowego z osobą konwojowaną lub doprowadzaną.
+
+### 3.
+
+Czynności, o których mowa w ust. 2 pkt 1-3, wykonuje się w sposób umożliwiający osobie pozostawanie części odzieży na ciele, a po sprawdzeniu zdjętej odzieży - jej włożenie przed zdjęciem pozostałej niesprawdzonej części odzieży oraz w warunkach zapewniających poszanowanie jej intymności.
+
+### 4.
+
+Sprawdzanie bagaży, środków transportu i ładunków polega na sprawdzeniu zawartości bagaży i sprawdzeniu ładunku poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego lub sprawdzeniu środków transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych obiektów.
+
+### 5.
+
+Do sprawdzenia prewencyjnego, o którym mowa w art. 30 ust. 2 pkt 5, przepisy art. 14aa ust. 5, 6 i 14 stosuje się odpowiednio.
+
+” ;
+
+### 5)
+
+w art. 36 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariusz kontrolujący, z zachowaniem przepisów o ochronie informacji niejawnych, może swobodnie poruszać się na terenie jednostki kontrolowanej bez obowiązku uzyskiwania przepustki oraz zwolniony jest od kontroli osobistej i sprawdzenia prewencyjnego, o którym mowa w art. 30 ust. 2 pkt 5, jeżeli przewiduje je wewnętrzny regulamin jednostki kontrolowanej.
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej ([Dz. U. z 2018 r. poz. 1542](https://api.sejm.gov.pl/eli/acts/DU/2018/1542/text.html), [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) w art. 18:
+
+### 1)
+
+w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+żądania od osób wymienionych w pkt 1 i 2 przekazania do depozytu przedmiotów niebezpiecznych i przedmiotów niedozwolonych, dokonywania kontroli osobistej tych osób i kontroli ich odzieży, ubrania i przeglądania zawartości bagaży oraz innych przedmiotów, które posiadają przy sobie, sprawdzenia pojazdów wjeżdżających oraz wyjeżdżających, a także ładunków tych pojazdów, również przy użyciu urządzeń technicznych i psów specjalnych wyszkolonych w zakresie wyszukiwania środków odurzających i substancji psychotropowych lub materiałów wybuchowych;
+
+” ;
+
+### 2)
+
+po ust. 3 dodaje się ust. 3a-3c w brzmieniu:
+
+„
+
+### 3a.
+
+Kontrola osobista, o której mowa w ust. 1 pkt 3, może polegać na:
+
+### 1)
+
+oględzinach ciała, lub
+
+### 2)
+
+sprawdzeniu jamy ustnej, nosa, uszu oraz włosów, lub
+
+### 3)
+
+sprawdzeniu bielizny, a także, w szczególnie uzasadnionych przypadkach - miejsc intymnych.
+
+### 3b.
+
+Kontroli osobistej, o której mowa w ust. 1 pkt 3, dokonuje co najmniej dwóch funkcjonariuszy tej samej płci co osoba kontrolowana, w odrębnym pomieszczeniu niedostępnym w czasie wykonywania kontroli dla osób postronnych. Podczas sprawdzenia, o którym mowa w ust. 3a pkt 3, osoba kontrolowana powinna być częściowo ubrana.
+
+### 3c.
+
+Z kontroli osobistej, o której mowa w ust. 1 pkt 3, sporządza się protokół.
+
+” ;
+
+### 3)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb działań, o których mowa w ust. 1 pkt 1-3 i 5-8 oraz ust. 3a-3c, sposoby ich realizacji oraz sposób postępowania funkcjonariuszy w tym zakresie, mając na względzie zapewnienie skuteczności działań podejmowanych przez funkcjonariuszy.
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 12 grudnia 2013 r. o cudzoziemcach ([Dz. U. z 2018 r. poz. 2094](https://api.sejm.gov.pl/eli/acts/DU/2018/2094/text.html)) w art. 412:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Cudzoziemiec przy przyjęciu do strzeżonego ośrodka lub aresztu dla cudzoziemców i podczas pobytu w ośrodku lub areszcie podlega kontroli osobistej na zasadach określonych w art. 11aa ustawy z dnia 12 października 1990 r. o Straży Granicznej.
+
+” ;
+
+### 2)
+
+uchyla się ust. 2;
+
+### 3)
+
+użyte w ust. 3 wyrazy „szczegółowego sprawdzenia” zastępuje się wyrazami „kontroli osobistej”.
+
+### Art. 13.
+
+W ustawie z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669 i 2245.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 21:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+dokonywać kontroli osobistej polegającej na sprawdzeniu zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia oraz sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby kontrolowanej, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+
+” ,
+
+### b)
+
+po pkt 3 dodaje się pkt 3a i 3b w brzmieniu:
+
+„
+
+### 3a)
+
+przeglądać zawartość bagaży i sprawdzać ładunki poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+
+### 3b)
+
+sprawdzać pomieszczenia oraz środki transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 3 pkt 1;
+
+” ,
+
+### c)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+dokonywać kontroli bezpieczeństwa osób wchodzących na teren obiektów i placówek, o których mowa w art. 3 pkt 1 lit. e i f, a także na teren innych wydzielonych przez SOP stref bezpieczeństwa, oraz środków transportu lądowego, powietrznego lub wodnego służących do przewozu osób ochranianych, tras ich przejazdu, pojazdów, bagaży, przesyłek, obiektów lub obszaru w formie:
+
+### a)
+
+kontroli manualnej lub
+
+### b)
+
+sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub
+
+### c)
+
+sprawdzenia biochemicznego lub
+
+### d)
+
+sprawdzenia z wykorzystaniem psa służbowego
+
+- w zakresie niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1 lit. a-e;
+
+” ;
+
+### 2)
+
+po art. 21 dodaje się art. 21a w brzmieniu:
+
+„
+
+### Art. 21a.
+
+### 1.
+
+Sprawdzenia, o którym mowa w art. 21 pkt 3, można dokonać w formie:
+
+### 1)
+
+kontroli manualnej lub
+
+### 2)
+
+sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych, lub
+
+### 3)
+
+sprawdzenia biochemicznego, lub
+
+### 4)
+
+sprawdzenia z wykorzystaniem psa służbowego.
+
+### 2.
+
+Kontrola bezpieczeństwa, o której mowa w art. 21 pkt 4, polega na sprawdzeniu zawartości odzieży i obuwia osoby oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby, przeglądaniu zawartości jej bagaży lub sprawdzaniu ładunków oraz znajdujących się w nich przedmiotów.
+
+” ;
+
+### 3)
+
+art. 23 otrzymuje brzmienie:
+
+„
+
+### Art. 23.
+
+### 1.
+
+Czynności, o których mowa w art. 21, powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte, oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej czynności.
+
+### 2.
+
+Po przeprowadzeniu czynności, o których mowa w art. 21, funkcjonariusz poucza osobę, wobec której dokonano czynności, o prawie złożenia zażalenia, o którym mowa odpowiednio w ust. 3 lub 4.
+
+### 3.
+
+Na sposób prowadzenia czynności, o których mowa w art. 21 pkt 1, 2 i 3b-8, przysługuje zażalenie do właściwego miejscowo prokuratora w terminie 7 dni od dnia dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html)), zwanej dalej „Kodeksem postępowania karnego”.
+
+### 4.
+
+W celu zbadania zasadności, legalności i prawidłowości dokonania czynności, o których mowa w art. 21 pkt 3 i 3a, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzania czynności w terminie 7 dni od dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+
+### 5.
+
+Zażalenie, o którym mowa w ust. 4, składa się za pośrednictwem komórki organizacyjnej SOP, w której pełni służbę funkcjonariusz SOP, który dokonał czynności, o których mowa w art. 21 pkt 3 lub 3a. Komórka organizacyjna SOP, o której mowa w zdaniu pierwszym, jest obowiązana do niezwłocznego przekazania zażalenia sądowi rejonowemu właściwemu ze względu na miejsce przeprowadzania czynności.
+
+” ;
+
+### 4)
+
+w art. 26:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, a także może ona zostać dokonana w miejscu niespełniającym warunku określonego w ust. 2.
+
+### 4.
+
+Funkcjonariusz dokonujący kontroli osobistej, poza czynnościami, o których mowa w art. 24:
+
+### 1)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 2)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów służących do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży lub przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
+
+### 3)
+
+odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione;
+
+### 4)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych SOP krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
+
+” ;
+
+### 5)
+
+art. 30 otrzymuje brzmienie:
+
+„
+
+### Art. 30.
+
+### 1.
+
+W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-4, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub na żądanie osoby kontrolowanej złożone bezpośrednio po dokonaniu czynności, sporządza się odpowiednio protokół kontroli osobistej, protokół przeglądania zawartości bagaży i sprawdzenia ładunków lub protokół sprawdzenia pomieszczenia oraz środków transportu. Czynności, o których mowa w art. 21 pkt 5, dokumentuje się w protokole ujęcia.
+
+### 2.
+
+Protokoły, o których mowa w ust. 1, zawierają w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby, wobec której dokonano czynności i osób w nich uczestniczących, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane funkcjonariusza dokonującego czynności obejmujące stopień, imię, nazwisko oraz nazwę komórki organizacyjnej SOP, w której pełni służbę;
+
+### 4)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 5)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 6)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 7)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 3.
+
+Jeżeli w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-5, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, protokół, o którym mowa w ust. 1, przekazuje się do jednostki organizacyjnej Policji właściwej dla miejsca przeprowadzenia czynności.
+
+### 4.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
+
+### 5.
+
+W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-4, nie znaleziono przedmiotów mogących stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmiotów, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub osoba poddana tym czynnościom nie zgłosiła żądania sporządzenia protokołu z dokonanych czynności, dokonanie czynności dokumentuje się w dokumentacji służbowej, odnotowując rodzaj, czas, miejsce i wynik czynności oraz imiona, nazwiska i funkcje osób w nich uczestniczących.
+
+### 6.
+
+Rada Ministrów określi, w drodze rozporządzenia, treść pouczeń o prawach przysługujących osobie kontrolowanej lub ujętej oraz wzory protokołów, o których mowa w ust. 1, mając na względzie prawidłowe pouczenie osoby kontrolowanej albo ujętej o przysługującej jej prawach oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej ([Dz. U. poz. 729](https://api.sejm.gov.pl/eli/acts/DU/2018/729/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12:
+
+### a)
+
+w ust. 1:
+
+- - pkt 4 otrzymuje brzmienie: „ 4) dokonywać kontroli osobistej polegającej na sprawdzeniu zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby kontrolowanej, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2; ” ,
+
+- - po pkt 4 dodaje się pkt 4a i 4b w brzmieniu: „ 4a) przeglądać zawartość bagaży i sprawdzać ładunki poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2; 4b) sprawdzać pomieszczenia oraz środki transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 2 ust. 1 pkt 1 i 2; ” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Sprawdzenia, o którym mowa w ust. 1 pkt 4, można dokonać w formie, o której mowa w ust. 1 pkt 7 lit. a i b.
+
+### 1b.
+
+Kontrola bezpieczeństwa, o której mowa w ust. 1 pkt 7, polega na sprawdzeniu zawartości odzieży i obuwia osoby oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby, przeglądaniu zawartości jej bagaży lub sprawdzaniu ładunków oraz znajdujących się w nich przedmiotów.
+
+” ,
+
+### c)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Czynności, o których mowa w ust. 1 pkt 1-4b i 7, wykonuje się w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej czynności.
+
+” ,
+
+### d)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Po przeprowadzeniu czynności, o których mowa w ust. 1 pkt 1-4b lub 7, funkcjonariusz poucza osobę, wobec której dokonano czynności, o prawie do złożenia zażalenia, o którym mowa odpowiednio w ust. 7 lub 7a.
+
+” ,
+
+### e)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Na sposób prowadzenia czynności, o których mowa w ust. 1 pkt 1-3 i 4b-7, przysługuje zażalenie do właściwego miejscowo prokuratora w terminie 7 dni od dnia dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.
+
+” ,
+
+### f)
+
+po ust. 7 dodaje się ust. 7a-7g w brzmieniu:
+
+„
+
+### 7a.
+
+W celu zbadania zasadności, legalności i prawidłowości dokonania czynności, o których mowa w ust. 1 pkt 4 i 4a, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzania czynności w terminie 7 dni od dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.
+
+### 7b.
+
+Zażalenie, o którym mowa w ust. 7a, składa się za pośrednictwem Komendanta Straży Marszałkowskiej, który jest obowiązany do niezwłocznego przekazania zażalenia sądowi rejonowemu właściwemu ze względu na miejsce przeprowadzania czynności.
+
+### 7c.
+
+W przypadku gdy w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4-4b, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub na żądanie osoby złożone bezpośrednio po dokonaniu czynności, sporządza się odpowiednio protokół z kontroli osobistej, protokół przeglądania zawartości bagaży i sprawdzenia ładunków lub protokół sprawdzenia pomieszczenia oraz środków transportu. Czynności, o których mowa w ust. 1 pkt 3, dokumentuje się w protokole ujęcia.
+
+### 7d.
+
+Protokoły, o których mowa w ust. 7c, zawierają w szczególności:
+
+### 1)
+
+oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby, wobec której dokonano czynności i osób w nich uczestniczących, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+
+### 2)
+
+datę i godzinę rozpoczęcia i zakończenia czynności;
+
+### 3)
+
+dane funkcjonariusza Straży Marszałkowskiej dokonującego czynności obejmujące stopień, imię i nazwisko;
+
+### 4)
+
+przebieg czynności, oświadczenia i wnioski jej uczestników;
+
+### 5)
+
+spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+
+### 6)
+
+pouczenie osoby kontrolowanej o jej prawach;
+
+### 7)
+
+w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+
+### 7e.
+
+Jeżeli w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4-4b, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione protokół, o którym mowa w ust. 7d, przekazuje się do jednostki organizacyjnej Policji właściwej dla miejsca przeprowadzenia czynności.
+
+### 7f.
+
+W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
+
+### 7g.
+
+W przypadku gdy w toku przeprowadzania czynności, o których mowa w ust. 1 pkt 4-4b, nie znaleziono przedmiotów mogących stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmiotów, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub osoba poddana tym czynnościom nie zgłosiła żądania sporządzenia protokołu z dokonanej czynności, dokonanie czynności dokumentuje się w dokumentacji służbowej, odnotowując rodzaj, czas, miejsce i wynik czynności oraz imiona, nazwiska i funkcje osób w nich uczestniczących.
+
+” ,
+
+### g)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Rada Ministrów określi, w drodze rozporządzenia, treść pouczeń o prawach przysługujących osobie kontrolowanej lub ujętej oraz wzory protokołów, o których mowa w ust. 7c, mając na względzie prawidłowe pouczenie osoby kontrolowanej albo ujętej o przysługującej jej prawach oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
+
+” ;
+
+### 2)
+
+w art. 13:
+
+### a)
+
+w ust. 1 wyrazy „pkt 1-4” zastępuje się wyrazami „pkt 1-4b”,
+
+### b)
+
+w ust. 3 wyrazy „pkt 1” zastępuje się wyrazami „pkt 1 lub 2”;
+
+### 3)
+
+po art. 14 dodaje się art. 14a w brzmieniu:
+
+„
+
+### Art. 14a.
+
+### 1.
+
+Osoba kontrolowana może żądać obecności przy tej czynności osoby wskazanej przez siebie oraz osoby przybranej przez prowadzącego czynności, jeżeli obecność tych osób nie utrudni lub nie umożliwi dokonania kontroli.
+
+### 2.
+
+Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+
+### 3.
+
+W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, a także może ona zostać dokonana w miejscu niespełniającym warunku określonego w ust. 2.
+
+### 4.
+
+Funkcjonariusz dokonujący kontroli osobistej, poza czynnościami, o których mowa w art. 13 ust. 1:
+
+### 1)
+
+legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+
+### 2)
+
+może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów służących do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
+
+### 3)
+
+odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione;
+
+### 4)
+
+sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych Straży Marszałkowskiej krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
+
+” .
+
+### Art. 15.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 15 ust. 8 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 8 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
+
+### 2)
+
+art. 11 ust. 7 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 11 ust. 7 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą,
+
+### 3)
+
+art. 12 ust. 2 ustawy zmienianej w art. 5 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 12 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą,
+
+### 4)
+
+art. 22 ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą,
+
+### 5)
+
+art. 23 ust. 10 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 23 ust. 10 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą,
+
+### 6)
+
+art. 14 ust. 10 ustawy zmienianej w art. 10 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 10 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą,
+
+### 7)
+
+art. 18 ust. 7 ustawy zmienianej w art. 11 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 18 ust. 7 ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą,
+
+### 8)
+
+art. 30 ust. 3 ustawy zmienianej w art. 13 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 6 ustawy zmienianej w art. 13, w brzmieniu nadanym niniejszą ustawą,
+
+### 9)
+
+art. 12 ust. 8 ustawy zmienianej w art. 14 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 8 ustawy zmienianej w art. 14, w brzmieniu nadanym niniejszą ustawą
+
+- nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 16.
+
+Wsprawach, w których przed dniem wejścia w życie niniejszej ustawy złożono zażalenie na sposób przeprowadzenia kontroli osobistej lub przeglądania zawartości bagaży i sprawdzania ładunków, niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustaw zmienianych niniejszą ustawą w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 17.
+
+Ustawa wchodzi w życie po upływie 3 dni od dnia ogłoszenia, z wyjątkiem art. 15, który wchodzi w życie w dniu następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się następujące ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 29 sierpnia 1997 r. o strażach gminnych, ustawę z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym, ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej, ustawę z dnia 12 grudnia 2013 r. o cudzoziemcach, ustawę z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa oraz ustawę z dnia 26 stycznia 2018 r. o Straży Marszałkowskiej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102 i 2245. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894 i 1544. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894, 1544 i 2399. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 650, 730, 894, 1544 i 2399. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 730, 1544, 1562, 1669 i 2245.

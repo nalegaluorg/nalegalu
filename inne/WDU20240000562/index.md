@@ -8,9 +8,9 @@ pos: 562
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 10 kwietnia 2024 sprawie ogłoszenia jednolitego tekstu Komitecie Spraw Europejskich
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 10 kwietnia 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Komitecie do Spraw Europejskich
 
 | Pole | Wartość |
 |---|---|
@@ -22,115 +22,324 @@ domain: null
 | Data ogłoszenia | 2024-04-10 |
 | Data wydania | 2024-04-12 |
 | Ostatnia zmiana | 2024-04-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000562) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/562/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/562/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/562) |
 
-1. Na podstawie art. 16 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 27 sierpnia Komitecie Spraw Europejskich (Dz. U. 2020 2084), uwzględnieniem zmiany wprowadzonej ustawą 28 lipca 2023 zmianie współpracy Rady Ministrów Sejmem Senatem sprawach związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej oraz Komitecie Spraw Europejskich (Dz. U. 1914) oraz zmian wynikających przepisów ogłoszonych przed dniem 4 kwietnia 2024
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 4 28 lipca 2023 zmianie współpracy Rady Ministrów Sejmem Senatem sprawach związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej oraz Komitecie Spraw Europejskich (Dz. U. 1914), który stanowi: „Art. 4. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
-Marszałek Sejmu: S. Hołownia
+## Spis treści
 
-**Art. 1.** Ustawa określa zasady współpracy członków Rady Ministrów oraz innych organów administracji rządowej sprawach związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej ramach Komitetu Spraw Europejskich.
+- [Treść obwieszczenia](#part_1)
 
-**Art. 2.**
+- [Załącznik - Tekst jednolity ustawy z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich](#part_2)
 
-1. Tworzy się Komitet Spraw Europejskich, zwany dalej „Komitetem”.
+TOC
 
-2. W skład Komitetu wchodzą:
+## Treść obwieszczenia
 
-- **1)** Przewodniczący Komitetu minister właściwy spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej albo, zastrzeżeniem 4, wyznaczony niego sekretarz stanu lub podsekretarz stanu spraw europejskich urzędzie obsługującym tego ministra;
-- **2)** członkowie:
-    - **a)** ministrowie, których szczegółowy zakres działania określają przepisy wydane na podstawie art. 33 1 1a 8 sierpnia 1996 Radzie Ministrów (Dz. U. 2022 1188 oraz 2023 1195, 1234
+### 1.
 
-- **1641)** , reprezentowani sekretarza stanu albo podsekretarza stanu, zastrzeżeniem 4,
-    - **b)** Szef Kancelarii Prezesa Rady Ministrów albo wyznaczony niego sekretarz stanu lub podsekretarz stanu Kancelarii Prezesa Rady Ministrów,
-    - **c)** Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej albo wyznaczony niego wiceprezes Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich ([Dz. U. z 2020 r. poz. 2084](https://api.sejm.gov.pl/eli/acts/DU/2020/2084/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich ([Dz. U. poz. 1914](https://api.sejm.gov.pl/eli/acts/DU/2023/1914/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 kwietnia 2024 r.
 
-3. Prezes Rady Ministrów przewodniczy posiedzeniom Komitetu, ilekroć bierze nich udział. W takim przypadku Przewodniczący Komitetu uczestniczy posiedzeniu jako członek.
+### 2.
 
-4. W każdym czasie pracach Komitetu może brać udział minister. W przypadku gdy minister właściwy spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej bierze udział posiedzeniu Komitetu, przewodniczy on posiedzeniu, zastrzeżeniem 3.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 4 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich ([Dz. U. poz. 1914](https://api.sejm.gov.pl/eli/acts/DU/2023/1914/text.html)), który stanowi:
 
-5. W posiedzeniach Komitetu mogą uczestniczyć, bez prawa udziału podejmowaniu rozstrzygnięć, zaproszeni Przewodniczącego Komitetu przedstawiciele organów administracji rządowej oraz inne zaproszone niego osoby.
+„
 
-**Art. 3.**
+### Art. 4.
 
-1. Rada Ministrów może upoważnić Komitet do:
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-- **1)** rozpatrywania rozstrzygania zakresie:
-    - **a)** stanowisk dotyczących dokumentów Unii Europejskiej podlegających konsultacjom państwami członkowskimi oraz ich ocen sformułowanych właściwe instytucje lub inne organy Unii Europejskiej,
-    - **b)** przygotowania organów administracji rządowej wykonywania zadań wynikających członkostwa Rzeczypospolitej Polskiej Unii Europejskiej,
-    - **c)** informowania społeczeństwa procesach integracji europejskiej członkostwie Rzeczypospolitej Polskiej Unii Europejskiej,
-    - **d)** instrukcji na posiedzenia Rady Komitetu Stałych Przedstawicieli oraz sprawozdań tych posiedzeń, a także informacji sprawie stanowisk na posiedzenia Rady Europejskiej informacji wynikach tych posiedzeń,
-    - **e)** projektów inicjatyw stanowisk sprawach związanych funkcjonowaniem polityką Unii Europejskiej,
-    - **f)** założeń stanowisk Rzeczypospolitej Polskiej postępowaniach przed organami sądowymi Unii Europejskiej oraz prowadzonych instytucje Unii Europejskiej postępowaniach sprawie naruszenia Rzeczpospolitą Polską prawa Unii Europejskiej,
-    - **g)** informacji na temat wykorzystania Rzeczpospolitą Polską mechanizmów wsparcia finansowego Unii Europejskiej państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA),
-    - **d)** strategię działania Rzeczypospolitej Polskiej ramach Unii Europejskiej.
+” .
 
-2. Rada Ministrów może upoważnić Komitet rozpatrywania, rozstrzygania uzgadniania spraw innych niż wymienione 1, związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej.
+## Załącznik - Tekst jednolity ustawy z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich
 
-3. W przypadku gdy Rada Ministrów nie upoważni Komitetu sprawach związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej, których mowa 1 2, rozpatrywanie, rozstrzyganie uzgadnianie tych spraw następuje na zasadach trybie określonych regulaminie pracy Rady Ministrów.
+### Art. 1.
 
-**Art. 4.**
+Ustawa określa zasady współpracy członków Rady Ministrów oraz innych organów administracji rządowej w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej w ramach Komitetu do Spraw Europejskich.
 
-1. Przewodniczący Komitetu kieruje pracą Komitetu.
+### Art. 2.
 
-2. Przewodniczący Komitetu może, własnej inicjatywy lub na wniosek członka Komitetu, tworzyć zespoły robocze, określając ich skład, zakres zadań oraz tryb harmonogram prac.
+### 1.
 
-**Art. 5.**
+Tworzy się Komitet do Spraw Europejskich, zwany dalej „Komitetem”.
 
-1. Posiedzenia Komitetu odbywają się obecności co najmniej połowy jego składu.
+### 2.
 
-2. Rozstrzygnięcia Komitetu zapadają drodze uzgodnienia. W przypadku braku takiego uzgodnienia Przewodniczący Komitetu, porozumieniu członkiem Komitetu właściwym ze względu na przedmiot sprawy, sporządza protokół rozbieżności, który podlega rozpatrzeniu Radę Ministrów.
+W skład Komitetu wchodzą:
 
-**Art. 6.** Szczegółowy sposób tryb działania Komitetu określa regulamin przyjęty Komitet zatwierdzony Radę Ministrów.
+### 1)
 
-**Art. 7.**
+Przewodniczący Komitetu - minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej albo, z zastrzeżeniem ust. 4, wyznaczony przez niego sekretarz stanu lub podsekretarz stanu do spraw europejskich w urzędzie obsługującym tego ministra;
 
-1. Komitet przyjmuje plan pracy Komitetu przedstawia go Radzie Ministrów zatwierdzenia.
+### 2)
 
-2. Przewodniczący Komitetu przedstawia Radzie Ministrów półroczne sprawozdania realizacji planu, którym mowa 1.
+członkowie:
 
-**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej. Art. 9–16. (pominięte)
+### a)
 
-**Art. 17.**
+ministrowie, których szczegółowy zakres działania określają przepisy wydane na podstawie art. 33 ust. 1 i 1a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ([Dz. U. z 2022 r. poz. 1188](https://api.sejm.gov.pl/eli/acts/DU/2022/1188/text.html) oraz [z 2023 r. poz. 1195](https://api.sejm.gov.pl/eli/acts/DU/2023/1195/text.html), [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html) i [1641](https://api.sejm.gov.pl/eli/acts/DU/2023/1641/text.html)), reprezentowani przez sekretarza stanu albo podsekretarza stanu, z zastrzeżeniem ust. 4,
 
-1. Znosi się Komitet Integracji Europejskiej.
+### b)
 
-2. Urząd Komitetu Integracji Europejskiej ulega likwidacji.
+Szef Kancelarii Prezesa Rady Ministrów albo wyznaczony przez niego sekretarz stanu lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,
 
-**Art. 18.**
+### c)
 
-1. Należności zobowiązania urzędu Komitetu Integracji Europejskiej stają się należnościami zobowiązaniami urzędu obsługującego ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej.
+Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej albo wyznaczony przez niego wiceprezes Prokuratorii Generalnej Rzeczypospolitej Polskiej.
 
-2. Mienie Skarbu Państwa znajdujące się dyspozycji urzędu Komitetu Integracji Europejskiej, tym nieruchomości znajdujące się jego trwałym zarządzie, staje się mieniem odpowiednio dyspozycji oraz trwałym zarządzie urzędu obsługującego ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej.
+### 3.
 
-3. W prawa obowiązki Przewodniczącego Komitetu Integracji Europejskiej Sekretarza Komitetu Integracji Europejskiej wstępuje minister właściwy spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej.
+Prezes Rady Ministrów przewodniczy posiedzeniom Komitetu, ilekroć bierze w nich udział. W takim przypadku Przewodniczący Komitetu uczestniczy w posiedzeniu jako członek.
 
-4. W prawa obowiązki urzędu Komitetu Integracji Europejskiej wstępuje urząd obsługujący ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej.
+### 4.
 
-5. Postępowania oraz sprawy wszczęte urzędzie Komitetu Integracji Europejskiej niezakończone przed dniem wejścia życie są prowadzone urząd obsługujący ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej. zawiadamia na piśmie pracowników, których mowa art. 19, zmianach, jakie mają nastąpić zakresie ich stosunków pracy. Przepisy art. 23 § 4 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 94, późn. zm. ) stosuje się odpowiednio.
+W każdym czasie w pracach Komitetu może brać udział minister. W przypadku gdy minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej bierze udział w posiedzeniu Komitetu, przewodniczy on posiedzeniu, z zastrzeżeniem ust. 3.
 
-2. Przepisu 1 zdanie drugie nie stosuje się urzędników służby cywilnej, których stosuje się przepisy 21 listopada 2008 służbie cywilnej (Dz. U. 1505 oraz 1241).
+### 5.
 
-**Art. 21.**
+W posiedzeniach Komitetu mogą uczestniczyć, bez prawa udziału w podejmowaniu rozstrzygnięć, zaproszeni przez Przewodniczącego Komitetu przedstawiciele organów administracji rządowej oraz inne zaproszone przez niego osoby.
 
-1. Dyrektor generalny służby zagranicznej proponuje, terminie 3 miesięcy od wejścia życie ustawy, nowe warunki pracy płacy pracownikom, których mowa art. 19, zgodne ich kwalifikacjami przygotowaniem zawodowym.
+### Art. 3.
 
-2. Dyrektor generalny służby zagranicznej, biorąc pod uwagę doświadczenie zawodowe danej osoby, tym doświadczenie sferze stosunków zagranicznych, proponuje nowe warunki pracy płacy pracownikom, których mowa art. 19, niezatrudnionym komórkach organizacyjnych zapewniających obsługę zadań ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej, spełniającym wymagania określone art. 12 1 pkt 3–5 27 lipca 2001 służbie zagranicznej (Dz. U. 1403, późn. zm. ), a po ich przyjęciu nadaje im stopień dyplomatyczny.
+### 1.
 
-3. Pracownikom, których mowa art. 19, niezatrudnionym komórkach organizacyjnych zapewniających obsługę zadań ministra właściwego spraw członkostwa Rzeczypospolitej Polskiej Unii Europejskiej, oraz członkom służby zagranicznej nieposiadającym stopnia dyplomatycznego dyrektor generalny służby zagranicznej, na ich wniosek złożony terminie 30 dni od wejścia życie ustawy, nadaje stopień dyplomatyczny na okres 3 lat, jeżeli osoby te dniu wejścia życie ustawy:
+Rada Ministrów może upoważnić Komitet do:
 
-- **1)** spełniają wymagania określone art. 12 1 pkt 4 5 27 lipca 2001 służbie zagranicznej;
-- **2)** udokumentują znajomość jednego języka obcego sposób określony przepisach służbie zagranicznej;
-- **3)** posiadają co najmniej trzyletnie doświadczenie zawodowe pracy urzędach obsługujących ministrów przewodniczących komitetów wchodzących skład Rady Ministrów lub urzędach centralnych organów administracji rządowej.
+### 1)
 
-4. W przypadku potwierdzenia znajomości drugiego języka obcego oraz ukończenia szkoleń określonych pracodawcę osobę, której nadano stopień dyplomatyczny trybie określonym 3, okresie 3 lat od jego nadania stopień dyplomatyczny uważa się za nadany na czas nieokreślony.
+rozpatrywania i rozstrzygania w zakresie:
 
-5. Dyrektor generalny służby zagranicznej może wypowiedzieć umowę pracę zachowaniem trzymiesięcznego okresu wypowiedzenia pracownikowi, który otrzymał stopień dyplomatyczny trybie określonym 3, a który okresie 3 lat od jego nadania nie potwierdził znajomości drugiego języka obcego oraz nie ukończył szkoleń określonych pracodawcę.
+### a)
 
-6. Przepisy 1–5 stosuje się odpowiednio przypadku nadania stopnia dyplomatycznego ministra właściwego spraw zagranicznych.
+stanowisk dotyczących dokumentów Unii Europejskiej podlegających konsultacjom z państwami członkowskimi oraz ich ocen sformułowanych przez właściwe instytucje lub inne organy Unii Europejskiej,
 
-**Art. 22.** Przepisy art. 19–21 stosuje się odpowiednio pracowników urzędu Komitetu Integracji Europejskiej, którzy dniu wejścia życie ustawy:
+### b)
 
-**Art. 24.** Traci moc ustawa 8 sierpnia 1996 Komitecie Integracji Europejskiej (Dz. U. 494 oraz 2001
+przygotowania organów administracji rządowej do wykonywania zadań wynikających z członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej,
 
-**Art. 25.** Ustawa wchodzi życie dniem 1 stycznia 2010 r., wyjątkiem art. 20 oraz art. 23 2, które wchodzą życie dniem ogłoszenia .
+### c)
 
+informowania społeczeństwa o procesach integracji europejskiej i członkostwie Rzeczypospolitej Polskiej w Unii Europejskiej,
+
+### d)
+
+instrukcji na posiedzenia Rady i Komitetu Stałych Przedstawicieli oraz sprawozdań z tych posiedzeń, a także informacji w sprawie stanowisk na posiedzenia Rady Europejskiej i informacji o wynikach tych posiedzeń,
+
+### e)
+
+projektów inicjatyw i stanowisk w sprawach związanych z funkcjonowaniem i polityką Unii Europejskiej,
+
+### f)
+
+założeń do stanowisk Rzeczypospolitej Polskiej w postępowaniach przed organami sądowymi Unii Europejskiej oraz w prowadzonych przez instytucje Unii Europejskiej postępowaniach w sprawie naruszenia przez Rzeczpospolitą Polską prawa Unii Europejskiej,
+
+### g)
+
+informacji na temat wykorzystania przez Rzeczpospolitą Polską mechanizmów wsparcia finansowego Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA),
+
+### h)
+
+dokumentów związanych z koordynacją wdrażania prawa Unii Europejskiej do polskiego systemu prawa,
+
+### i[1) Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich (Dz. U. poz. 1914), która weszła w życie z dniem 4 października 2023 r.](#gloss-0:1:))
+
+współpracy Rady Ministrów z Prezydentem Rzeczypospolitej Polskiej oraz Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, określonych w odrębnych przepisach;
+
+### 2)
+
+uzgadniania projektów dokumentów rządowych zawierających:
+
+### a)
+
+stanowiska Rzeczypospolitej Polskiej wobec projektów umów międzynarodowych ustanawiających Wspólnoty Europejskie oraz Unię Europejską lub określających zasady ich działania,
+
+### b)
+
+stanowiska Rzeczypospolitej Polskiej przedstawiane w Radzie Europejskiej,
+
+### c)
+
+skargi kierowane w imieniu Rzeczypospolitej Polskiej do organów sądowych Unii Europejskiej,
+
+### d)
+
+strategię działania Rzeczypospolitej Polskiej w ramach Unii Europejskiej.
+
+### 2.
+
+Rada Ministrów może upoważnić Komitet do rozpatrywania, rozstrzygania i uzgadniania spraw innych niż wymienione w ust. 1, związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### 3.
+
+W przypadku gdy Rada Ministrów nie upoważni Komitetu w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, o których mowa w ust. 1 i 2, rozpatrywanie, rozstrzyganie i uzgadnianie tych spraw następuje na zasadach i w trybie określonych w regulaminie pracy Rady Ministrów.
+
+### Art. 4.
+
+### 1.
+
+Przewodniczący Komitetu kieruje pracą Komitetu.
+
+### 2.
+
+Przewodniczący Komitetu może, z własnej inicjatywy lub na wniosek członka Komitetu, tworzyć zespoły robocze, określając ich skład, zakres zadań oraz tryb i harmonogram prac.
+
+### Art. 5.
+
+### 1.
+
+Posiedzenia Komitetu odbywają się w obecności co najmniej połowy jego składu.
+
+### 2.
+
+Rozstrzygnięcia Komitetu zapadają w drodze uzgodnienia. W przypadku braku takiego uzgodnienia Przewodniczący Komitetu, w porozumieniu z członkiem Komitetu właściwym ze względu na przedmiot sprawy, sporządza protokół rozbieżności, który podlega rozpatrzeniu przez Radę Ministrów.
+
+### Art. 6.
+
+Szczegółowy sposób i tryb działania Komitetu określa regulamin przyjęty przez Komitet i zatwierdzony przez Radę Ministrów.
+
+### Art. 7.
+
+### 1.
+
+Komitet przyjmuje plan pracy Komitetu i przedstawia go Radzie Ministrów do zatwierdzenia.
+
+### 2.
+
+Przewodniczący Komitetu przedstawia Radzie Ministrów półroczne sprawozdania z realizacji planu, o którym mowa w ust. 1.
+
+### Art. 8.
+
+Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### Art. 9-16.
+
+(pominięte)
+
+### Art. 17.
+
+### 1.
+
+Znosi się Komitet Integracji Europejskiej.
+
+### 2.
+
+Urząd Komitetu Integracji Europejskiej ulega likwidacji.
+
+### Art. 18.
+
+### 1.
+
+Należności i zobowiązania urzędu Komitetu Integracji Europejskiej stają się należnościami i zobowiązaniami urzędu obsługującego ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### 2.
+
+Mienie Skarbu Państwa znajdujące się w dyspozycji urzędu Komitetu Integracji Europejskiej, w tym nieruchomości znajdujące się w jego trwałym zarządzie, staje się mieniem odpowiednio w dyspozycji oraz w trwałym zarządzie urzędu obsługującego ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### 3.
+
+W prawa i obowiązki Przewodniczącego Komitetu Integracji Europejskiej i Sekretarza Komitetu Integracji Europejskiej wstępuje minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### 4.
+
+W prawa i obowiązki urzędu Komitetu Integracji Europejskiej wstępuje urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### 5.
+
+Postępowania oraz sprawy wszczęte w urzędzie Komitetu Integracji Europejskiej i niezakończone przed dniem wejścia w życie ustawy są prowadzone przez urząd obsługujący ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.
+
+### Art. 19.
+
+### 1.
+
+Z dniem wejścia w życie ustawy członkowie korpusu służby cywilnej zatrudnieni w urzędzie Komitetu Integracji Europejskiej stają się członkami korpusu służby cywilnej zatrudnionymi w urzędzie obsługującym ministra właściwego do spraw zagranicznych.
+
+### 2.
+
+Osobom zatrudnionym na wyższych stanowiskach w służbie cywilnej w urzędzie Komitetu Integracji Europejskiej dyrektor generalny służby zagranicznej wyznaczy na czas określony, nie dłuższy niż 3 miesiące, stanowiska w urzędzie obsługującym ministra właściwego do spraw zagranicznych i określi wynagrodzenie nie niższe od otrzymywanego przed dniem wejścia w życie ustawy.
+
+### Art. 20.
+
+### 1.
+
+Dyrektor generalny urzędu Komitetu Integracji Europejskiej, w terminie 14 dni od dnia ogłoszenia ustawy, zawiadamia na piśmie pracowników, o których mowa w art. 19, o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepisy art. 231 § 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 717, z 1999 r. poz. 1152, z 2000 r. poz. 239, 489, 1127 i 1268, z 2001 r. poz. 84, 301, 538, 1075, 1194, 1354, 1405 i 1805, z 2002 r. poz. 676, 1146, 1660, 1673 i 1679, z 2003 r. poz. 1608 i 2081, z 2004 r. poz. 959, 1001, 1252 i 2407, z 2005 r. poz. 71, 610, 732 i 1398, z 2006 r. poz. 708, 711, 935, 1587 i 1615, z 2007 r. poz. 426, 589, 1239, 1288 i 1672, z 2008 r. poz. 586, 740, 1460 i 1654 oraz z 2009 r. poz. 33, 458, 485, 817, 825, 958 i 1241.](#gloss-0:2:)) stosuje się odpowiednio.
+
+### 2.
+
+Przepisu ust. 1 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.html) oraz [z 2009 r. poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html)).
+
+### Art. 21.
+
+### 1.
+
+Dyrektor generalny służby zagranicznej proponuje, w terminie 3 miesięcy od dnia wejścia w życie ustawy, nowe warunki pracy i płacy pracownikom, o których mowa w art. 19, zgodne z ich kwalifikacjami i przygotowaniem zawodowym.
+
+### 2.
+
+Dyrektor generalny służby zagranicznej, biorąc pod uwagę doświadczenie zawodowe danej osoby, w tym doświadczenie w sferze stosunków zagranicznych, proponuje nowe warunki pracy i płacy pracownikom, o których mowa w art. 19, niezatrudnionym w komórkach organizacyjnych zapewniających obsługę zadań ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, spełniającym wymagania określone w art. 12 ust. 1 pkt 3-5 ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej ([Dz. U. poz. 1403](https://api.sejm.gov.pl/eli/acts/DU/2001/1403/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 2703, z 2006 r. poz. 1217, 1218 i 1600, z 2008 r. poz. 1505 oraz z 2009 r. poz. 1277.](#gloss-0:3:)), a po ich przyjęciu nadaje im stopień dyplomatyczny.
+
+### 3.
+
+Pracownikom, o których mowa w art. 19, niezatrudnionym w komórkach organizacyjnych zapewniających obsługę zadań ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej, oraz członkom służby zagranicznej nieposiadającym stopnia dyplomatycznego dyrektor generalny służby zagranicznej, na ich wniosek złożony w terminie 30 dni od dnia wejścia w życie ustawy, nadaje stopień dyplomatyczny na okres 3 lat, jeżeli osoby te w dniu wejścia w życie ustawy:
+
+### 1)
+
+spełniają wymagania określone w art. 12 ust. 1 pkt 4 i 5 ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej;
+
+### 2)
+
+udokumentują znajomość jednego języka obcego w sposób określony w przepisach o służbie zagranicznej;
+
+### 3)
+
+posiadają co najmniej trzyletnie doświadczenie zawodowe w pracy w urzędach obsługujących ministrów i przewodniczących komitetów wchodzących w skład Rady Ministrów lub w urzędach centralnych organów administracji rządowej.
+
+### 4.
+
+W przypadku potwierdzenia znajomości drugiego języka obcego oraz ukończenia szkoleń określonych przez pracodawcę przez osobę, której nadano stopień dyplomatyczny w trybie określonym w ust. 3, w okresie 3 lat od dnia jego nadania stopień dyplomatyczny uważa się za nadany na czas nieokreślony.
+
+### 5.
+
+Dyrektor generalny służby zagranicznej może wypowiedzieć umowę o pracę z zachowaniem trzymiesięcznego okresu wypowiedzenia pracownikowi, który otrzymał stopień dyplomatyczny w trybie określonym w ust. 3, a który w okresie 3 lat od dnia jego nadania nie potwierdził znajomości drugiego języka obcego oraz nie ukończył szkoleń określonych przez pracodawcę.
+
+### 6.
+
+Przepisy ust. 1-5 stosuje się odpowiednio w przypadku nadania stopnia dyplomatycznego przez ministra właściwego do spraw zagranicznych.
+
+### Art. 22.
+
+Przepisy art. 19-21 stosuje się odpowiednio do pracowników urzędu Komitetu Integracji Europejskiej, którzy w dniu wejścia w życie ustawy:
+
+### 1)
+
+są oddelegowani, w tym do instytucji i agend Unii Europejskiej, z tym że czynności określone w art. 21 ust. 1 i 2 wobec tych pracowników dyrektor generalny służby zagranicznej wykonuje za pośrednictwem konsulów Rzeczypospolitej Polskiej w państwach przyjmujących, na terytoriach których znajdują się instytucje lub agendy, do których nastąpiło oddelegowanie;
+
+### 2)
+
+przebywają na urlopie macierzyńskim lub wychowawczym albo urlopie bezpłatnym, z tym że terminy, o których mowa w art. 21 ust. 1 i 3-5, liczy się od dnia zakończenia urlopu.
+
+### Art. 23.
+
+### 1.
+
+Pracownicy urzędu Komitetu Integracji Europejskiej, którzy w dniu wejścia w życie ustawy są zatrudnieni na stanowiskach pomocniczych, robotniczych i obsługi, nieobjętych mnożnikowym systemem wynagradzania, stają się pracownikami gospodarstwa pomocniczego Ministerstwa Spraw Zagranicznych, z zachowaniem dotychczasowych warunków pracy i płacy.
+
+### 2.
+
+Dyrektor generalny urzędu Komitetu Integracji Europejskiej, w terminie 14 dni od dnia ogłoszenia ustawy, zawiadamia na piśmie pracowników, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepisy art. 231 § 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy stosuje się odpowiednio.
+
+### 3.
+
+Pracownikom, o których mowa w ust. 1, dyrektor gospodarstwa pomocniczego Ministerstwa Spraw Zagranicznych proponuje, w terminie 3 miesięcy od dnia wejścia w życie ustawy, nowe warunki pracy i płacy, uwzględniając ich przygotowanie zawodowe.
+
+### 4.
+
+Przepisy ust. 1-3 stosuje się odpowiednio do pracowników zatrudnionych w urzędzie Komitetu Integracji Europejskiej na stanowiskach pomocniczych, robotniczych i obsługi, którzy w dniu wejścia w życie ustawy przebywają na urlopie macierzyńskim, wychowawczym albo urlopie bezpłatnym, z tym że termin, o którym mowa w ust. 3, liczy się od dnia zakończenia urlopu.
+
+### Art. 24.
+
+Traci moc ustawa z dnia 8 sierpnia 1996 r. o Komitecie Integracji Europejskiej ([Dz. U. poz. 494](https://api.sejm.gov.pl/eli/acts/DU/1996/494/text.html) oraz [z 2001 r. poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html)).
+
+### Art. 25.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., z wyjątkiem art. 20 oraz art. 23 ust. 2, które wchodzą w życie z dniem ogłoszenia[4) Ustawa została ogłoszona w dniu 30 września 2009 r.](#gloss-0:4:).
+
+1) Ze zmianą wprowadzoną przez art. 2 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o współpracy Rady Ministrów z Sejmem i Senatem w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej oraz ustawy o Komitecie do Spraw Europejskich (Dz. U. poz. 1914), która weszła w życie z dniem 4 października 2023 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. poz. 668 i 717, z 1999 r. poz. 1152, z 2000 r. poz. 239, 489, 1127 i 1268, z 2001 r. poz. 84, 301, 538, 1075, 1194, 1354, 1405 i 1805, z 2002 r. poz. 676, 1146, 1660, 1673 i 1679, z 2003 r. poz. 1608 i 2081, z 2004 r. poz. 959, 1001, 1252 i 2407, z 2005 r. poz. 71, 610, 732 i 1398, z 2006 r. poz. 708, 711, 935, 1587 i 1615, z 2007 r. poz. 426, 589, 1239, 1288 i 1672, z 2008 r. poz. 586, 740, 1460 i 1654 oraz z 2009 r. poz. 33, 458, 485, 817, 825, 958 i 1241. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. poz. 2703, z 2006 r. poz. 1217, 1218 i 1600, z 2008 r. poz. 1505 oraz z 2009 r. poz. 1277. 4) Ustawa została ogłoszona w dniu 30 września 2009 r.

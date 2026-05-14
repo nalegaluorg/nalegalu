@@ -8,11 +8,9 @@ pos: 268
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy o administracji rządowej w województwie
-
-*USTAWA z dnia 2 marca 2000 r.*
+# Ustawa z dnia 2 marca 2000 r. o zmianie ustawy - Kodeks postępowania administracyjnego oraz ustawy o administracji rządowej w województwie
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,44 @@ domain: null
 | Data ogłoszenia | 2000-03-02 |
 | Data wydania | 2000-03-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000220268) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/268/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2000/268/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2000/268) |
 
-**Art. 1.** W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz.U. z 1980 r. Nr 9, poz. 26 i Nr 27, poz. 111, z 1982 r. Nr 7, poz. 55 i Nr 45, poz. 289, z 1983 r. Nr 41, poz. 185, z 1984 r. Nr 34, poz. 183, z 1986 r. Nr 47, poz. 228, z 1987 r. Nr 21, poz. 123 i Nr 33, poz. 186, z 1989 r. Nr 20, poz. 107, z 1990 r. Nr 34, poz. 201, z 1991 r. Nr 100, poz. 442 i Nr 119, poz. 513, z 1994 r. Nr 122, poz. 593, z 1995 r. Nr 1, poz. 1 i Nr 74, poz. 368, z 1996 r. Nr 43, poz. 189 i Nr 106, poz. 496, z 1997 r. Nr 75, poz. 471, Nr 102, poz. 643, Nr 137, poz. 926 i Nr 141, poz. 944 oraz z 1998 r. Nr 162, poz. 1126) w art. 127:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w województwie (Dz.U. Nr 91, poz. 577, z 1999 r. Nr 70, poz. 778 i z 2000 r. Nr 12, poz. 136) w art. 7 pkt 4 otrzymuje brzmienie: „4) organem wyższego stopnia w rozumieniu przepisów o postępowaniu administracyjnym, jeżeli ustawy szczególne tak stanowią,”.
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 1980 r. Nr 9, poz. 26](https://api.sejm.gov.pl/eli/acts/DU/1980/26/text.html) i [Nr 27, poz. 111](https://api.sejm.gov.pl/eli/acts/DU/1980/111/text.html), z [1982 r. Nr 7, poz. 55](https://api.sejm.gov.pl/eli/acts/DU/1982/55/text.html) i [Nr 45, poz. 289](https://api.sejm.gov.pl/eli/acts/DU/1982/289/text.html), z [1983 r. Nr 41, poz. 185](https://api.sejm.gov.pl/eli/acts/DU/1983/185/text.html), z [1984 r. Nr 34, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1984/183/text.html), z [1986 r. Nr 47, poz. 228](https://api.sejm.gov.pl/eli/acts/DU/1986/228/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html) i [Nr 33, poz. 186](https://api.sejm.gov.pl/eli/acts/DU/1987/186/text.html), z [1989 r. Nr 20, poz. 107](https://api.sejm.gov.pl/eli/acts/DU/1989/107/text.html), z [1990 r. Nr 34, poz. 201](https://api.sejm.gov.pl/eli/acts/DU/1990/201/text.html), z [1991 r. Nr 100, poz. 442](https://api.sejm.gov.pl/eli/acts/DU/1991/442/text.html) i [Nr 119, poz. 513](https://api.sejm.gov.pl/eli/acts/DU/1991/513/text.html), z [1994 r. Nr 122, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/1994/593/text.html), z [1995 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1995/1/text.html) i [Nr 74, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1995/368/text.html), z [1996 r. Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html) oraz z [1998 r. Nr 162, poz. 1126](https://api.sejm.gov.pl/eli/acts/DU/1998/1126/text.html)) w art. 127:
 
-1. W sprawach z zakresu administracji rządowej należących do właściwości organów jednostek samorządu terytorialnego, jeżeli ustawa szczególna nie stanowi, że odwołanie od decyzji przysługuje do wojewody, nie stwierdza się nieważności decyzji organu odwoławczego, wydanych w okresie od dnia 1 stycznia 1999 r. do dnia wejścia w życie ustawy, z tej przyczyny, że decyzja została wydana z naruszeniem przepisów o w łaściwości wojewody albo samorządowego kolegium odwoławczego.
+### a)
 
-2. Odwołania w sprawach z zakresu administracji rządowej należących do właściwości organów jednostek samorządu terytorialnego, wszczęte po dniu 1 stycznia 1999 r. i nie zakończone przez organ wyższego stopnia decyzją ostateczną przed dniem wejścia w życie ustawy, podlegają rozpatrzeniu przez właściwe miejscowo samorządowe kolegium odwoławcze, chyba że ustawy szczególne stanowią inaczej.
+w § 3 po wyrazie „ministra” dodaje się wyrazy „lub samorządowe kolegium odwoławcze”,
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### b)
 
+skreśla się § 4.
+
+### Art. 2.
+
+W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej w województwie ([Dz. U. Nr 91, poz. 577](https://api.sejm.gov.pl/eli/acts/DU/1998/577/text.html), z [1999 r. Nr 70, poz. 778](https://api.sejm.gov.pl/eli/acts/DU/1999/778/text.html) i z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html)) w art. 7 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+organem wyższego stopnia w rozumieniu przepisów o postępowaniu administracyjnym, jeżeli ustawy szczególne tak stanowią,
+
+” .
+
+### Art. 3.
+
+### 1.
+
+W sprawach z zakresu administracji rządowej należących do właściwości organów jednostek samorządu terytorialnego, jeżeli ustawa szczególna nie stanowi, że odwołanie od decyzji przysługuje do wojewody, nie stwierdza się nieważności decyzji organu odwoławczego, wydanych w okresie od dnia 1 stycznia 1999 r. do dnia wejścia w życie ustawy, z tej przyczyny, że decyzja została wydana z naruszeniem przepisów o właściwości wojewody albo samorządowego kolegium odwoławczego.
+
+### 2.
+
+Odwołania w sprawach z zakresu administracji rządowej należących do właściwości organów jednostek samorządu terytorialnego, wszczęte po dniu 1 stycznia 1999 r. i nie zakończone przez organ wyższego stopnia decyzją ostateczną przed dniem wejścia w życie ustawy, podlegają rozpatrzeniu przez właściwe miejscowo samorządowe kolegium odwoławcze, chyba że ustawy szczególne stanowią inaczej.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

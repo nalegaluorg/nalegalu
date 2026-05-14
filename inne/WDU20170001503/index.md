@@ -8,11 +8,9 @@ pos: 1503
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o organizacji niektórych rynków rolnych
-
-*USTAWA z dnia 11 marca 2004 r.*
+# Ustawa z dnia 7 lipca 2017 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz zmianie niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz niektórych innych ustaw, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa i ustawę z dnia 10 lutego 2017 r. - Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,761 +22,1026 @@ domain: null
 | Data ogłoszenia | 2017-07-07 |
 | Data wydania | 2017-08-07 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001503) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1503/text.pdf) |
-
-Art. 40ha. Warunkiem prowadzenia przez producenta rolnego, w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, produkującego surowiec tytoniowy, zwanego dalej „producentem surowca tytoniowego”, działalności w zakresie uprawy tytoniu, produkcji lub zbytu surowca tytoniowego jest wpis do rejestru producentów surowca tytoniowego, prowadzonego przez dyrektora oddziału terenowego Krajowego Ośrodka właściwego ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy.
-Art. 40hb. 1. Decyzje w sprawach wpisu do rejestru producentów surowca tytoniowego wydaje dyrektor oddziału terenowego Krajowego Ośrodka właściwy ze względu na miejsce zamieszkania i adres albo siedzibę i adres producenta rolnego, który zamierza uprawiać tytoń, produkować lub zbywać surowiec tytoniowy, na wniosek tego producenta rolnego.
-2. Wniosek zawiera:
-1) imię i nazwisko albo nazwę wnioskodawcy;
-2) miejsce zamieszkania i adres albo siedzibę i adres wnioskodawcy;
-3) numer producenta rolnego nadany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
-4) numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) producenta rolnego, jeżeli taki numer został nadany, a w przypadku osoby fizycznej – numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), a jeżeli osoba fizyczna nie posiada numeru PESEL – numer paszportu lub innego dokumentu stwierdzającego tożsamość;
-5) adres lub miejsce położenia magazynu – w przypadku gdy surowiec tytoniowy będzie magazynowany poza terenem gospodarstwa rolnego.
-3. Wniosek składa się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
-4. W przypadku zmiany danych zawartych we wniosku producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia tych zmian.
-Art. 40hc. 1. Producent surowca tytoniowego przekazuje do dnia 15 maja każdego roku dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru producentów surowca tytoniowego, informacje:
-1) o powierzchni uprawy poszczególnych grup odmian tytoniu w poprzednim roku zbiorów, z podaniem identyfikatorów działek ewidencyjnych, na których był uprawiany tytoń;
-2) dotyczące zawartych w poprzednim roku zbiorów umów zbycia surowca tytoniowego, w tym:
-a) datę zawarcia każdej z umów zbycia surowca tytoniowego,
-b) rok uprawy tytoniu, z którego wyprodukowano zbywany surowiec tytoniowy,
-c) nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego,
-d) masę surowca tytoniowego objętego każdą z umów, wyrażoną w kilogramach, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych;
-3) o wyrażonej w kilogramach szacunkowej masie wyprodukowanego surowca tytoniowego w poprzednim roku zbiorów, z podziałem na grupy odmian tytoniu;
-4) o wyrażonej w kilogramach masie surowca tytoniowego dostarczonego nabywcy na podstawie każdej z umów zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu i lata jego zbiorów;
-5) o wyrażonym w kilogramach szacunkowym stanie magazynowym surowca tytoniowego na dzień 30 kwietnia roku złożenia tej informacji, z podziałem na grupy odmian tytoniu i lata jego zbiorów;
-6) o wyrażonej w kilogramach masie surowca tytoniowego zniszczonego od dnia 1 maja roku kalendarzowego poprzedzającego rok złożenia tej informacji do dnia 30 kwietnia roku złożenia informacji;
-7) dotyczące roku, w którym jest składana ta informacja:
-a) o powierzchni uprawy poszczególnych grup odmian tytoniu, z podaniem identyfikatorów działek ewidencyjnych, na których będzie uprawiany tytoń,
-b) dotyczące umów zbycia surowca tytoniowego, w tym: – datę zawarcia każdej z umów zbycia surowca tytoniowego, – nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego, – wyrażoną w kilogramach masę surowca tytoniowego objętego każdą z umów, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych, na których będzie uprawiany tytoń.
-2. Informacje, o których mowa w ust. 1, przekazuje się do dyrektora oddziału terenowego Krajowego Ośrodka na formularzu udostępnionym na stronie internetowej administrowanej przez Krajowy Ośrodek.
-3. W przypadku zmiany danych zawartych w informacjach, o których mowa w ust. 1, producent surowca tytoniowego przekazuje do dyrektora oddziału terenowego Krajowego Ośrodka pisemną informację o zmianach, w terminie 30 dni od dnia zaistnienia konieczności ich wprowadzenia.
-Art. 40hd. 1. W przypadku gdy producent surowca tytoniowego zamierza dokonać zniszczenia surowca tytoniowego, o zamiarze tym powiadamia dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha, co najmniej na 3 dni robocze przed dokonaniem zniszczenia, podając szacunkową masę surowca tytoniowego, który ma ulec zniszczeniu, oraz sposób zniszczenia surowca tytoniowego.
-2. W zniszczeniu, o którym mowa w ust. 1, bierze udział producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, lub osoba upoważniona przez producenta surowca tytoniowego.
-3. Czynność zniszczenia surowca tytoniowego odbywa się pod nadzorem osoby upoważnionej przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych.
-4. Z czynności zniszczenia surowca tytoniowego osoba, o której mowa w ust. 3, sporządza protokół.
-5. Protokół, o którym mowa w ust. 4, zawiera:
-1) imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę, siedzibę i adres producenta surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia;
-2) numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) producenta surowca tytoniowego, jeżeli taki numer został nadany, a w przypadku osoby fizycznej – numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (numer PESEL), a jeżeli osoba fizyczna nie posiada numeru PESEL – numer paszportu lub innego dokumentu stwierdzającego tożsamość;
-3) numer producenta surowca tytoniowego nadany w krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
-4) określenie położenia gospodarstwa, w którym odbywała się produkcja surowca tytoniowego;
-5) miejsce i sposób zniszczenia surowca tytoniowego;
-6) wyrażoną w kilogramach masę zniszczonego surowca tytoniowego, z podziałem na grupy odmian tytoniu;
-7) datę sporządzenia protokołu zniszczenia surowca tytoniowego oraz jego numer;
-8) podpisy osób obecnych przy zniszczeniu surowca tytoniowego.
-6. Protokół sporządza się w dwóch egzemplarzach.
-7. Protokół przedstawia się do podpisu producentowi surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, a w przypadku jego nieobecności – osobie upoważnionej przez producenta surowca tytoniowego.
-8. Przed podpisaniem protokołu osoby, o których mowa w ust. 7, mają prawo wnieść do niego swoje uwagi.
-9. Protokół podpisuje producent surowca tytoniowego albo osoba upoważniona przez producenta surowca tytoniowego. O odmowie złożenia podpisu osoba, o której mowa w ust. 3, zamieszcza adnotację w protokole.
-10. Jeden egzemplarz protokołu pozostawia się producentowi surowca tytoniowego albo osobie upoważnionej przez producenta surowca tytoniowego.
-11. Producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, może zgłosić do Dyrektora Generalnego Krajowego Ośrodka umotywowane zastrzeżenia do ustaleń zawartych w protokole, w terminie 7 dni od dnia podpisania protokołu.
-12. Dyrektor Generalny Krajowego Ośrodka rozpatruje zastrzeżenia w terminie 7 dni od dnia otrzymania zgłoszenia, o którym mowa w ust. 11, i w razie potrzeby zleca przeprowadzenie dodatkowych czynności kontrolnych.
-13. W przypadku uznania zgłoszonych zastrzeżeń zmiany w protokole wprowadza się w formie aneksu do protokołu. Aneks do protokołu podpisuje osoba, o której mowa w ust. 3, sporządzający aneks i producent surowca tytoniowego, który przeznaczył surowiec tytoniowy do zniszczenia, albo osoba upoważniona przez producenta surowca tytoniowego.
-14. W przypadku nieuznania zastrzeżeń w całości lub w części, Dyrektor Generalny Krajowego Ośrodka przekazuje niezwłocznie swoje stanowisko na piśmie producentowi surowca tytoniowego, o którym mowa w ust. 11.
-Art. 40he. 1. Rejestr, o którym mowa w art. 40ha:
-1) jest prowadzony w systemie teleinformatycznym;
-2) zawiera dane, o których mowa w art. 40hb ust. 2, oraz informacje, o których mowa w art. 40hc ust. 1.
-2. Dane zgromadzone w rejestrze udostępnia się:
-1) organom administracji publicznej, w związku z realizacją przez te organy działań i postępowań mających na celu ograniczanie nielegalnego obrotu surowcem tytoniowym oraz produkcji i obrotu wyrobami tytoniowymi;
-2) sądom i prokuratorom, w zakresie niezbędnym do wykonywania ich zadań ustawowych;
-3) na wniosek podmiotów, których dotyczą te dane.
-3. Dane, o których mowa w art. 40hb ust. 2, przechowuje się przez 5 lat od dnia wykreślenia producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
-4. Informacje, o których mowa w art. 40hc ust. 1 i 3, przechowuje się przez 5 lat od dnia ich przekazania do dyrektora oddziału terenowego Krajowego Ośrodka.
-Art. 40hf. 1. Producent surowca tytoniowego, który zaprzestał uprawy tytoniu, informuje o tym dyrektora oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do rejestru, o którym mowa w art. 40ha.
-2. W przypadku, o którym mowa w ust. 1, dyrektor oddziału terenowego Krajowego Ośrodka wykreśla, w drodze decyzji, producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
-3. W przypadku gdy producent surowca tytoniowego nie przekazał w terminie informacji, o których mowa w art. 40hc ust. 1, oraz nie poinformował o zaprzestaniu produkcji surowca tytoniowego, dyrektor oddziału terenowego Krajowego Ośrodka, o którym mowa w ust. 1, wykreśla, w drodze decyzji, producenta surowca tytoniowego z rejestru, o którym mowa w art. 40ha.
-4. Producent surowca tytoniowego, który został wykreślony z rejestru, o którym mowa w art. 40ha, i który nadal posiada surowiec tytoniowy, przekazuje dyrektorowi oddziału terenowego Krajowego Ośrodka, który wydał decyzję w sprawie wpisu do tego rejestru:
-1) informacje o zawarciu umowy zbycia surowca tytoniowego, a następnie zbyciu surowca tytoniowego, w terminie 30 dni od dnia dokonania każdej z tych czynności albo
-2) informacje, o których mowa w art. 40hd ust. 1.
-5. Informacja, o której mowa w ust. 4 pkt 1, zawiera:
-1) datę zawarcia umowy zbycia surowca tytoniowego;
-2) rok uprawy tytoniu, z którego wyprodukowano zbywany surowiec tytoniowy;
-3) nazwę, siedzibę, numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) nabywcy surowca tytoniowego;
-4) wyrażoną w kilogramach masę surowca tytoniowego objętego umową zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych;
-5) wyrażoną w kilogramach masę zbytego surowca tytoniowego objętego umową zbycia surowca tytoniowego, z podziałem na grupy odmian tytoniu, uzyskanego z upraw na działkach ewidencyjnych.
-6. Przepisu art. 38q ust. 3 dotyczącego terminu zawarcia umowy nie stosuje się w przypadku, o którym mowa w ust. 4 pkt 1.
-7. Do zniszczenia surowca tytoniowego, o którym mowa w ust. 4 pkt 2, stosuje się przepisy art. 40hd ust. 2–14.
-Art. 40hg. Dyrektor oddziału terenowego Krajowego Ośrodka, który wydał decyzję o wykreśleniu producenta, o którym mowa w art. 40hf ust. 4, z rejestru, o którym mowa w art. 40ha, jest upoważniony do przeprowadzania kontroli producenta surowca tytoniowego do czasu zbycia albo zniszczenia surowca tytoniowego będącego w jego posiadaniu w dniu wykreślenia z tego rejestru.
-Art. 40hh. 1. Krajowy Ośrodek przeprowadza kontrolę poprawności sporządzenia oraz zgodności ze stanem faktycznym informacji zawartych we wniosku, o którym mowa w art. 40hb ust. 2, oraz informacji, o których mowa w art. 40hc ust. 1.
-2. W ramach kontroli, o której mowa w ust. 1, czynności kontrolne w danym roku zbiorów są wykonywane co najmniej u 5% producentów surowca tytoniowego.
-3. W przypadku gdy z wykonanych czynności kontrolnych wynika, że informacje zawarte w rejestrze, o którym mowa w art. 40ha, są niezgodne ze stanem faktycznym, dyrektor oddziału terenowego Krajowego Ośrodka dokonuje z urzędu zmian w tym rejestrze oraz informuje producenta surowca tytoniowego o dokonaniu tych zmian.
-Art. 40hi. 1. Dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na koszt podmiotu prowadzącego tę uprawę, w przypadku gdy podmiot ten uprawia tytoń bez uzyskania wpisu do rejestru, o którym mowa w art. 40ha. Decyzja ta podlega natychmiastowemu wykonaniu.
-2. Zniszczenia, o którym mowa w ust. 1, dokonuje się pod nadzorem osoby upoważnionej przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych.
-3. W przypadku gdy stwierdzona w wyniku wykonywania czynności kontrolnych powierzchnia uprawy tytoniu jest większa co najmniej o 10% od powierzchni zgłoszonej przez producenta surowca tytoniowego w informacji, o której mowa w art. 40hc ust. 1 pkt 7 lit. a, dyrektor oddziału terenowego Krajowego Ośrodka wydaje, w drodze decyzji, nakaz zniszczenia uprawy tytoniu na powierzchni przekraczającej powierzchnię zgłoszoną do Krajowego Ośrodka, w danym roku uprawy, na koszt podmiotu prowadzącego uprawę. Do zniszczenia uprawy tytoniu stosuje się przepis ust. 2.
-4. Zniszczenie uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, odbywa się przez zaoranie, przekopanie gruntu albo w inny sposób, który zapewni skuteczne zniszczenie tej uprawy.
-5. Z czynności zniszczenia uprawy tytoniu osoba upoważniona przez Dyrektora Generalnego Krajowego Ośrodka do wykonywania czynności kontrolnych sporządza protokół. Do protokołu zniszczenia uprawy tytoniu w przypadkach, o których mowa w ust. 1 i 3, przepisy art. 40hd ust. 5–14 stosuje się odpowiednio.
-Art. 41–50. (pominięte)
-Art. 51–54. (pominięte)
-
-#### Rozdział 1 Przepisy ogólne
-
-**Art. 1.**
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1503/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1503) |
 
-1. Ustawa określa:
+## Treść ustawy
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** organizację rynku:
-    - **a)** mięsa,
-    - **b)** (uchylona)
-    - **c)** cukru,
-    - **d)** (uchylona) da) zbóż;
-    - **e)** (uchylona)
-    - **f)** (uchylona) 3a) zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw;
+### Art. 1.
 
-- **3b)** zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.), zwanego dalej „rozporządzeniem nr 1308/2013”;
-- **3c)** zasady realizacji na terytorium Rzeczypospolitej Polskiej programu dla szkół, ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013;
-- **4)** (uchylony)
-- **5)** zasady udzielania dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany;
-- **6)** zasady monitorowania uprawy tytoniu oraz produkcji i zbytu wysuszonych liści tytoniu, zwanych dalej „surowcem tytoniowym”, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego.
+W ustawie z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych ([Dz. U. z 2017 r. poz. 1006](https://api.sejm.gov.pl/eli/acts/DU/2017/1006/text.html)) wprowadza się następujące zmiany:
 
-1a. (uchylony)
+### 1)
 
-2. (uchylony)
+w art. 1 w ust. 1 po pkt 3b dodaje się pkt 3c w brzmieniu:
 
-3. (uchylony)
+„
 
-#### Rozdział 2 Kontrole
+### 3c)
 
-**Art. 2.** (uchylony)
+zasady realizacji na terytorium Rzeczypospolitej Polskiej programu dla szkół, ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013;
 
-**Art. 3.** (uchylony)
+” ;
 
-**Art. 4.** (uchylony)
+### 2)
 
-**Art. 5.** (uchylony)
+w art. 38q:
 
-**Art. 6.** (uchylony)
+### a)
 
-**Art. 6a.** (uchylony)
+ust. 1 otrzymuje brzmienie:
 
-**Art. 6b.** (uchylony)
+„
 
-**Art. 6c.** (uchylony)
+### 1.
 
-**Art. 6d.** (uchylony)
+Każde dostarczenie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, lit. c wyłącznie w zakresie buraków cukrowych, lit. f, h, i, n, o, lit. p wyłącznie w zakresie mleka surowego, lit. q, r. s oraz t rozporządzenia nr 1308/2013, z wyłączeniem dostaw bezpośrednich i rolniczego handlu detalicznego w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2017 r. poz. 149](https://api.sejm.gov.pl/eli/acts/DU/2017/149/text.html) i [60](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.html)) oraz sprzedaży bezpośredniej w rozumieniu ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego ([Dz. U. z 2017 r. poz. 242](https://api.sejm.gov.pl/eli/acts/DU/2017/242/text.html) i [471](https://api.sejm.gov.pl/eli/acts/DU/2017/471/text.html)), przez producenta będącego rolnikiem w rozumieniu art. 4 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 ([Dz. Urz. UE L 347 z 20.12.2013, str. 608](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 181 z 20.06.2014, str. 1, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 281 z 25.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 135 z 02.06.2015, str. 8, Dz. Urz. UE L 28 z 04.02.2016, str. 8 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 16.](#gloss-0:2:)), którego gospodarstwo rolne jest położone na terytorium Rzeczypospolitej Polskiej, do pierwszego nabywcy będącego przetwórcą lub dystrybutorem, który nie zbywa tych produktów rolnych bezpośrednio konsumentom finalnym, zwanym dalej „dystrybutorem”, wymaga zawarcia umowy obejmującej jedną lub wiele dostaw, spełniającej warunki określone w:
 
-**Art. 6e.** (uchylony)
+### 1)
 
-**Art. 6f.** (uchylony)
+art. 125 i art. 127 oraz w załącznikach X i XI do rozporządzenia nr 1308/2013 - w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych;
 
-**Art. 6g.** (uchylony)
+### 2)
 
-**Art. 7.** (uchylony)
+art. 148 ust. 2 rozporządzenia nr 1308/2013 - w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego;
 
-**Art. 8.** (uchylony)
+### 3)
 
-**Art. 9.** (uchylony)
+art. 168 ust. 4 i 6 rozporządzenia nr 1308/2013 - w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r. s oraz t rozporządzenia nr 1308/2013.
 
-**Art. 10.** (uchylony)
+” ,
 
-**Art. 11.** (uchylony)
+### b)
 
-**Art. 11a.** (uchylony)
+po ust. 1 dodaje się ust. 1a-1c w brzmieniu:
 
-**Art. 12.** (uchylony)
+„
 
-**Art. 12a.** (uchylony)
+### 1a.
 
-**Art. 13.** (uchylony)
+Uznaje się, że warunek zawarcia pisemnej umowy określony w punkcie I pkt 1 odpowiednio załącznika X i XI do rozporządzenia nr 1308/2013, art. 148 ust. 2 lit. b oraz art. 168 ust. 4 lit. b tego rozporządzenia jest spełniony również w przypadku zawarcia umowy w formie dokumentowej albo elektronicznej.
 
-**Art. 13a.** (uchylony)
+### 1b.
 
-**Art. 13b.** (uchylony)
+Oprócz przypadku, o którym mowa w art. 148 ust. 3 oraz art. 168 ust. 5 rozporządzenia nr 1308/2013, przepisów ust. 1 nie stosuje się również w przypadku, gdy producent, o którym mowa w ust. 1, będący członkiem:
 
-**Art. 14.** (uchylony)
+### 1)
 
-**Art. 15.** (uchylony)
+grupy producentów rolnych w rozumieniu przepisów o grupach producentów rolnych i ich związkach sprzedaje produkty rolne do grupy producentów rolnych, której jest członkiem,
 
-**Art. 16.** (uchylony)
+### 2)
 
-**Art. 17.** (uchylony)
+wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej grupy,
 
-**Art. 18.** (uchylony)
+### 3)
 
-**Art. 19.** (uchylony)
+uznanej organizacji producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej organizacji,
 
-**Art. 19a.** (uchylony)
+### 4)
 
-**Art. 20.**
+organizacji producentów uznanej na podstawie art. 38i ust. 1 lub uznanej w rozumieniu przepisów o organizacji rynku mleka i przetworów mlecznych sprzedaje produkty rolne do tej organizacji - jeżeli statut lub umowa, lub umowa członkowska tej grupy lub tej organizacji spełniają, w zależności od produktu, warunki określone w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz odpowiednio w załączniku X lub XI do tego rozporządzenia albo art. 148 ust. 2 lit. a-c, albo art. 168 ust. 4 lit. a-c tego rozporządzenia.
 
-1. Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, przeprowadza kontrole podmiotów uczestniczących w mechanizmach administrowanych przez tę Agencję określonych w ustawie.
+### 1c.
 
-2. Czynności kontrolne są wykonywane przez:
+Umowę, o której mowa w ust. 1 i 1a, nabywca, o którym mowa w ust. 1, przechowuje przez 2 lata, licząc od końca roku, w którym została zrealizowana ostatnia dostawa w ramach tej umowy.
 
-- **1)** służby techniczne Agencji, w skład których wchodzą pracownicy zatrudnieni w komórkach organizacyjnych Agencji,
-- **2)** jednostki organizacyjne, o których mowa w art. 21 – na podstawie upoważnienia do wykonywania tych czynności wydanego przez Prezesa Agencji.
+” ,
 
-3. Upoważnienie, o którym mowa w ust. 2, zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+### c)
 
-4. Przed przystąpieniem do czynności kontrolnych osoba upoważniona do ich wykonywania jest obowiązana okazać upoważnienie, o którym mowa w ust. 2.
+uchyla się ust. 2;
 
-5. Osoby upoważnione do wykonywania czynności kontrolnych mają prawo do:
+### 3)
 
-- **1)** wstępu do obiektów i pomieszczeń należących do przedsiębiorców, w szczególności do pomieszczeń produkcyjnych i magazynowych;
-- **1a)** wstępu na teren gospodarstwa rolnego;
-- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem czynności kontrolnych;
-- **3)** wglądu do dokumentów związanych z przedmiotem czynności kontrolnych, sporządzania z nich odpisów, wyciągów lub kopii oraz zabezpieczania tych dokumentów;
-- **4)** sporządzania dokumentacji fotograficznej z przeprowadzonej czynności kontrolnej;
-- **5)** pobierania do badań próbek produktów rolnych i żywnościowych oraz innych produktów zawierających w swoim składzie produkty rolne i żywnościowe.
+po rozdziale 7c dodaje się rozdział 7d w brzmieniu:
 
-6. Osoba wykonująca czynności kontrolne sporządza z tych czynności raport.
+„
 
-7. Raport podpisuje osoba wykonująca czynności kontrolne oraz przedsiębiorca.
+### Rozdział 7d Program dla szkół
 
-8. W przypadku odmowy podpisania raportu przez przedsiębiorcę, raport podpisuje tylko osoba wykonująca czynności kontrolne, dokonując w raporcie stosownej adnotacji o tej odmowie.
+### Art. 38s.
 
-9. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 2, mając na względzie ujednolicenie informacji zawartych w upoważnieniu.
+W zakresie określonym przepisami Unii Europejskiej Agencja realizuje zadania i obowiązki państwa członkowskiego lub właściwej władzy państwa członkowskiego związane z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013, chyba że ustawa lub przepisy odrębne stanowią inaczej.
 
-**Art. 21.**
+### Art. 38t.
 
-1. Prezes Agencji może powierzyć, w drodze umowy, przeprowadzanie czynności kontrolnych w ramach kontroli, o których mowa w art. 20 ust. 1, wyspecjalizowanym jednostkom organizacyjnym, dysponującym warunkami organizacyjnymi, technicznymi i kadrowymi określonymi w przepisach wydanych na podstawie ust. 4.
+Na finansowanie programu dla szkół poza środkami z budżetu Unii Europejskiej przeznacza się środki z budżetu państwa.
 
-2. Umowy, o których mowa w ust. 1, określają w szczególności:
+### Art. 38u.
 
-- **1)** szczegółowy zakres powierzonych zadań;
-- **2)** zakres obowiązków i odpowiedzialność jednostki organizacyjnej za ich wykonanie;
-- **3)** koszty realizacji powierzonych zadań;
-- **4)** sposób dokumentowania wykonywanych zadań oraz terminy informowania organów Agencji o wynikach przeprowadzonych czynności kontrolnych;
-- **5)** sposób postępowania z dokumentami związanymi z realizacją powierzonych zadań.
+### 1.
 
-3. Prezes Agencji może powierzyć, w drodze umowy, wykonywanie zadań w zakresie wydawania i poświadczenia formularza T5 jednostkom organizacyjnym, o których mowa w art. 36 ust. 1 pkt 5 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. poz. 1947, z późn. zm. ). Przepis ust. 2 stosuje się odpowiednio.
+W zakresie realizacji zadań, o których mowa w art. 38s, dyrektor oddziału terenowego Agencji, w drodze decyzji:
 
-4. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać jednostki organizacyjne, którym można powierzyć przeprowadzanie czynności kontrolnych w ramach kontroli, o których mowa w art. 20 ust. 1, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju.
+### 1)
 
-**Art. 21a.**
+zatwierdza wnioskodawców, o których mowa w art. 5 ust. 2 lit. a i c-e rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 ([Dz. Urz. UE L 5 z 10.01.2017, str. 11](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem 2017/40”, spełniających warunki określone w art. 6 rozporządzenia 2017/40, realizujących działania wymienione w art. 5 ust. 1 lit. a tego rozporządzenia, oraz zawiesza lub cofa zatwierdzenie na zasadach określonych w art. 7 tego rozporządzenia; 2) przyznaje pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40; 3) przyznaje pomoc krajową zgodnie z art. 23a ust. 6 oraz art. 217 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40.
 
-1. Krajowy Ośrodek Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”, przeprowadza kontrole podmiotów uczestniczących w mechanizmach administrowanych przez Krajowy Ośrodek określonych w ustawie.
+### 2.
 
-2. Do kontroli, o których mowa w ust. 1, stosuje się odpowiednio przepisy o Krajowym Ośrodku Wsparcia Rolnictwa.
+Agencja przyznaje, na podstawie umowy, pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. b-e rozporządzenia 2017/40, wnioskodawcom, o których mowa w art. 5 ust. 2 lit. d i e rozporządzenia 2017/40, spełniającym warunki określone w art. 6 rozporządzenia 2017/40, realizującym działania wymienione w art. 5 ust. 1 lit. b-d tego rozporządzenia, wyłonionym zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2015 r. poz. 2164](https://api.sejm.gov.pl/eli/acts/DU/2015/2164/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933.](#gloss-0:3:)).
 
-#### Rozdział 3 (uchylony)
+### Art. 38w.
 
-#### Rozdział 4 Rynek mięsa
+### 1.
 
-**Art. 27.**
+Minister właściwy do spraw rynków rolnych jest organem właściwym w sprawie opracowania i przekazania do Komisji Europejskiej:
 
-1. W zakresie określonym przepisami Unii Europejskiej:
+### 1)
 
-- **1)** (uchylony)
-- **2)** Dyrektor Generalny Krajowego Ośrodka:
-    - **a)** wydaje świadectwa autoryzacji zakładów odkostniających i chłodni, które będą świadczyć usługi przechowywania mięsa stanowiącego zapasy interwencyjne,
-    - **b)** przekazuje Komisji Europejskiej informacje dotyczące rynku mięsa w zakresie zadań realizowanych przez Krajowy Ośrodek,
-    - **c)** dokonuje, w drodze przetargów, wyboru podmiotów, o których mowa w lit. a, z którymi Krajowy Ośrodek zawrze umowy w zakresie odkostniania i przechowywania mięsa.
+strategii dotyczącej realizacji programu dla szkół, o której mowa w art. 23 ust. 8 rozporządzenia nr 1308/2013, na poziomie krajowym lub regionalnym;
 
-2. Wnioski o wydanie świadectw, o których mowa w ust. 1 pkt 2 lit. a, składa się na formularzach udostępnianych przez Krajowy Ośrodek.
+### 2)
 
-2a. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
+wniosku o pomoc z budżetu Unii Europejskiej na finansowanie programu dla szkół, o którym mowa w art. 23a ust. 3 rozporządzenia nr 1308/2013.
 
-- **1)** nazwę albo imię i nazwisko wnioskodawcy;
-- **2)** siedzibę i adres albo miejsce zamieszkania i adres wnioskodawcy;
-- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany;
-- **4)** nazwę i adres zakładu wnioskodawcy, w którym prowadzony będzie proces odkostniania lub przechowywania;
-- **5)** dane dotyczące posiadanej infrastruktury oraz wyposażenia w urządzenia służące do wykonywania czynności, o których mowa w pkt 4.
+### 2.
 
-3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, sposób przeprowadzania przetargów, o których mowa w ust. 1 pkt 2 lit. c, mając na względzie efektywność ekonomiczną przerobu i składowania zapasów interwencyjnych.
+Opracowując strategię, o której mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw zdrowia ustala wykaz produktów, które będą dostarczane w ramach programu dla szkół.
 
-**Art. 27a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+### Art. 38x.
 
-#### Rozdział 5 (uchylony)
+### 1.
 
-#### Rozdział 6 Rynek cukru
+Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowy zakres zadań realizowanych przez Agencję związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół oraz sposób i tryb realizacji tych zadań, mając na względzie zapewnienie skutecznego i efektywnego wdrożenia tego programu.
 
-**Art. 30.** (uchylony)
+### 2.
 
-**Art. 30a.** Zadania określone w niniejszym rozdziale są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw rynków rolnych może określić szczegółowe warunki uczestnictwa podmiotów w programie dla szkół oraz szczegółowe warunki i tryb przyznawania pomocy finansowej z tytułu realizacji działań w ramach programu dla szkół, a także zakres kontroli jej wykorzystania, mając na względzie zapewnienie prawidłowej i przejrzystej realizacji tego programu zgodnie z przepisami Unii Europejskiej obowiązującymi w tym zakresie.
 
-**Art. 31.**
+### 3.
 
-1. W zakresie określonym przepisami Unii Europejskiej dotyczącymi rynku cukru minister właściwy do spraw rynków rolnych:
+W przypadku gdy w przepisach Unii Europejskiej określonym podmiotom zostały przyznane uprawnienia lub na określone podmioty zostały nałożone obowiązki związane z wdrożeniem programu dla szkół, minister właściwy do spraw rynków rolnych w rozporządzeniu, o którym mowa w ust. 1, określi sposób realizacji tych uprawnień lub wykonania tych obowiązków, mając na względzie zapewnienie skutecznej realizacji tego programu.
 
-- **1)** realizuje zadania związane z kwotowaniem produkcji cukru i izoglukozy;
-- **2)** może wystąpić do Komisji Europejskiej o podjęcie środków ochronnych;
-- **3)** przekazuje Komisji Europejskiej informacje dotyczące rynku cukru oraz izoglukozy w zakresie zadań, o których mowa w pkt 1.
+### Art. 38y.
 
-2. Realizując zadania, o których mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w szczególności wydaje decyzje w sprawach:
+### 1.
 
-- **1)** przyznania kwoty produkcyjnej cukru oraz kwoty produkcyjnej izoglukozy;
-- **2)** (uchylony)
-- **3)** korekty przyznanej kwoty produkcyjnej cukru oraz kwoty produkcyjnej izoglukozy – w przypadku:
-    - **a)** skorygowania przez Komisję Europejską kwot produkcyjnych cukru lub kwot produkcyjnych izoglukozy,
-    - **b)** ustalenia przez Komisję Europejską współczynnika redukcji kwot produkcyjnych cukru lub kwot produkcyjnych izoglukozy;
+Środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, są realizowane co najmniej w jednym z zakresów wskazanych w art. 23 ust. 10 rozporządzenia nr 1308/2013.
 
-- **4)** przeniesienia między producentami cukru albo producentami izoglukozy kwoty produkcyjnej cukru albo kwoty produkcyjnej izoglukozy.
+### 2.
 
-3. Przed wydaniem decyzji, o których mowa w ust. 2, minister właściwy do spraw rynków rolnych zasięga opinii ogólnokrajowych społeczno-zawodowych organizacji rolniczych, reprezentujących interesy plantatorów buraków cukrowych.
+Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, w ramach zakresu wskazanego w art. 23 ust. 10 rozporządzenia nr 1308/2013, oraz szczegółowy sposób ich realizacji, mając na względzie prawidłową realizację programu dla szkół oraz potrzebę upowszechniania wśród dzieci zdrowych nawyków żywieniowych.
 
-4. Termin na wyrażenie opinii, o której mowa w ust. 3, wynosi 14 dni. W przypadku bezskutecznego upływu tego terminu wymóg zasięgnięcia opinii uważa się za spełniony.
+### Art. 38z.
 
-5. Decyzje, o których mowa w ust. 2 pkt 1, wydaje się na wniosek producenta cukru albo producenta izoglukozy, składany w terminie do dnia 30 września roku poprzedzającego rok gospodarczy, na który jest składany wniosek.
+Rada Ministrów określa, w drodze rozporządzenia, do dnia 31 sierpnia na dany rok szkolny:
 
-6. Decyzje w sprawach przyznania kwot produkcyjnych cukru oraz kwot produkcyjnych izoglukozy na dany rok gospodarczy są wydawane w terminie do dnia 30 listopada roku kalendarzowego poprzedzającego ten rok gospodarczy.
+### 1)
 
-7. (uchylony)
+wysokość środków finansowych przeznaczonych na wypłatę pomocy krajowej i pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40,
 
-8. Decyzje, o których mowa w ust. 2 pkt 3 i 4, powinny uwzględniać proporcjonalnie interesy wszystkich plantatorów buraków cukrowych.
+### 2)
 
-9. Decyzje, o których mowa w ust. 2 pkt 3 i 4, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+wysokość środków finansowych przeznaczonych na wypłatę pomocy unijnej w ramach finansowania programu dla szkół, przeznaczonych na realizację działań, o których mowa w art. 5 ust. 1 lit. b-d rozporządzenia 2017/40,
 
-10. Zmiany umów kontraktacji, o których mowa w ust. 9, powinny uwzględniać proporcjonalnie interesy plantatorów buraka cukrowego.
+### 3)
 
-10a. W przypadku cofnięcia zatwierdzenia producentowi cukru zgodnie z przepisami Unii Europejskiej dotyczącymi rynku cukru, minister właściwy do spraw rynków rolnych wydaje decyzję o cofnięciu przyznanej temu producentowi kwoty produkcyjnej cukru w zakresie kwoty niewykorzystanej przez niego do dnia, w którym decyzja o cofnięciu zatwierdzenia stała się ostateczna.
+wysokość stawek pomocy finansowej z tytułu realizacji działań, o których mowa w art. 5 ust. 1 lit. a rozporządzenia 2017/40
 
-10b. Kwotę produkcyjną cukru, o której mowa w ust. 10a, zwaną dalej „dostępną kwotą”, przyznaje się w drodze decyzji pozostałym producentom cukru, którym przyznano na dany rok gospodarczy kwotę produkcyjną cukru, na ich wniosek.
+- mając na względzie krajowe ceny produktów dystrybuowanych do placówek oświatowych zgodnie ze strategią dotyczącą realizacji programu dla szkół oraz wysokość środków finansowych z budżetu Unii Europejskiej na realizację programu określoną przez Komisję Europejską.
 
-10c. W przypadku wydania decyzji, o której mowa w ust. 10a, minister właściwy do spraw rynków rolnych przesyła producentom cukru, o których mowa w ust. 10b, pisemne informacje o możliwości ubiegania się o dostępną kwotę oraz o jej wysokości.
+” ;
 
-10d. Wnioski o przyznanie dostępnej kwoty producenci cukru, o których mowa w ust. 10b, mogą składać w terminie 30 dni od dnia otrzymania pisemnej informacji, o której mowa w ust. 10c.
+### 4)
 
-10e. Wniosek, o którym mowa w ust. 10b, zawiera w szczególności:
+w art. 40i:
 
-- **1)** nazwę, siedzibę i adres producenta cukru;
-- **2)** numer identyfikacji podatkowej (NIP) producenta cukru;
-- **3)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile producent cukru taki numer posiada;
-- **4)** wskazanie wysokości wnioskowanej kwoty produkcyjnej cukru;
-- **5)** informację o zatwierdzeniu producenta cukru;
-- **6)** zobowiązanie producenta cukru do przejęcia praw i obowiązków względem plantatorów dostarczających buraki cukrowe do producenta cukru, któremu została cofnięta kwota produkcyjna cukru.
+### a)
 
-10f. Dostępną kwotę przyznaje się we wnioskowanej wysokości, z zastrzeżeniem ust. 10g.
+ust. 1 otrzymuje brzmienie:
 
-10g. Jeżeli suma wnioskowanych przez producentów cukru, o których mowa w ust. 10b, kwot produkcyjnych cukru przekracza wysokość dostępnej kwoty, danemu producentowi cukru przyznaje się kwotę produkcyjną cukru w wysokości stanowiącej iloczyn ilorazu wielkości dostępnej kwoty i sumy wnioskowanych przez producentów cukru kwot produkcyjnych cukru oraz wielkości wnioskowanej przez danego producenta cukru kwoty produkcyjnej cukru.
+„
 
-10h. Decyzje, o których mowa w ust. 10b, stanowią podstawę do zmiany umów kontraktacji zawartych z dostawcami buraków cukrowych.
+### 1.
 
-10i. Przed podpisaniem umów kontraktacji producent cukru, któremu została przyznana kwota na podstawie ust. 10b, jest obowiązany do przeprowadzenia konsultacji ze społeczno-zawodową organizacją rolników reprezentującą plantatorów buraków cukrowych, działającą przy producencie cukru.
+Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, podlega karze pieniężnej w wysokości 10% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2017 r. poz. 1221](https://api.sejm.gov.pl/eli/acts/DU/2017/1221/text.html)) za produkty nabyte bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej.
 
-11. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzory wniosków, o których mowa w ust. 5, mając na względzie konieczność uzyskania informacji dotyczących dotychczasowej produkcji cukru oraz produkcji izoglukozy przez danego producenta cukru i producenta izoglukozy.
+” ,
 
-**Art. 31a.** (uchylony)
+### b)
 
-**Art. 31b.**
+po ust. 1 dodaje się ust. 1a-1d w brzmieniu:
 
-1. W przypadku braku porozumienia branżowego, o którym mowa w przepisach Unii Europejskiej, w zakresie warunków zakupu i dostawy buraków cukrowych, w tym rozdziału pomiędzy plantatorów buraków cukrowych ilości buraków cukrowych przeznaczonych do produkcji cukru w ramach kwoty produkcyjnej cukru, o której mowa w art. 31 ust. 6, stosuje się przepisy ust. 2–8 i przepisy wydane na podstawie ust. 9.
+„
 
-2. Producent cukru, w terminie do dnia 15 grudnia roku poprzedzającego rok gospodarczy, jest obowiązany w ramach przyznanej kwoty produkcyjnej cukru określić limit buraków cukrowych, które zapewnią wyprodukowanie cukru w wysokości przyznanej producentowi cukru kwoty produkcyjnej cukru.
+### 1a.
 
-3. Producent cukru jest obowiązany do 20 grudnia roku poprzedzającego rok gospodarczy dokonać rozdzielenia limitu buraków cukrowych, o którym mowa w ust. 2, pomiędzy plantatorów buraków cukrowych, przy czym suma części rozdzielonych limitów musi być równa limitowi, o którym mowa w ust. 2, oraz powiadomić tych plantatorów o wielkości przysługujących im części tego limitu.
+Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 148 ust. 2 lit. c ppkt ii, iii, iv, v lub vi lub art. 168 ust. 4 lit. c ppkt ii, iii, iv, v lub vi rozporządzenia nr 1308/2013, podlega karze pieniężnej w wysokości 1% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy - za każdy niespełniony warunek.
 
-4. Limit buraków cukrowych jest rozdzielany według wskaźnika określonego w ust. 5 między plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002, lub ich następców prawnych.
+### 1b.
 
-5. Wskaźnik rozdzielania limitu buraków cukrowych między plantatorów buraków cukrowych stanowi iloraz ogólnej ilości buraków cukrowych w tonach, skupionych przez producenta cukru w latach gospodarczych 1997–2001 od plantatora buraków cukrowych, który miał zawartą umowę kontraktacji na rok gospodarczy 2001/2002, i ogólnej ilości buraków cukrowych w tonach, skupionych przez producenta cukru w latach gospodarczych 1997–2001 od wszystkich plantatorów buraków cukrowych, którzy mieli zawarte umowy kontraktacji na rok gospodarczy 2001/2002.
+Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w:
 
-6. Część limitu buraków cukrowych określona dla plantatora w wyniku podziału, o którym mowa w ust. 3, stanowi wielkość przysługującego plantatorowi prawa do uprawy i dostawy.
+### 1)
 
-7. Producent cukru ma obowiązek zawrzeć z plantatorem, któremu przysługuje prawo do uprawy i dostawy, umowę kontraktacji, w ramach której jest obowiązany odebrać określoną przysługującym plantatorowi prawem do uprawy i dostawy ilość buraków cukrowych.
+art. 148 ust. 2 lit. a i c ppkt i rozporządzenia nr 1308/2013 - w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego,
 
-8. Producent cukru przed podjęciem czynności, o których mowa w ust. 2 i 3, oraz przed zawarciem z plantatorem umowy kontraktacji, o której mowa w ust. 7, jest zobowiązany do zasięgnięcia opinii ogólnokrajowej społeczno-zawodowej organizacji rolników reprezentującej interesy plantatorów buraków cukrowych.
+### 2)
 
-9. Minister właściwy do spraw rynków rolnych może, w drodze rozporządzenia, określić warunki zakupu lub dostawy buraków cukrowych przeznaczonych do produkcji cukru w ramach kwoty produkcyjnej cukru, o której mowa w art. 31 ust. 6, w zakresie określonym w przepisach Unii Europejskiej dla porozumień branżowych na rynku cukru, inne niż wskazane w ust. 2–8, mając na względzie konieczność zabezpieczenia interesów plantatorów buraków cukrowych i producentów cukrów.
+art. 168 ust. 4 lit. a i c ppkt i rozporządzenia nr 1308/2013 - w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r. s oraz t rozporządzenia nr 1308/2013
 
-**Art. 31c.** Tekst zawartego porozumienia branżowego, o którym mowa w przepisach Unii Europejskiej dotyczących rynku cukru, producent cukru ma obowiązek przekazać Krajowemu Ośrodkowi przed podpisaniem umów kontraktacji z plantatorami buraków cukrowych.
+- podlega karze pieniężnej w wysokości 4% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy - za każdy niespełniony warunek.
 
-**Art. 32.** (uchylony)
+### 1c.
 
-**Art. 33.**
+Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz w załączniku X lub XI do tego rozporządzenia, z wyjątkiem warunku określonego w punkcie I pkt 1 tych załączników - w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych, podlega karze pieniężnej w wysokości 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
 
-1. W zakresie określonym przepisami Unii Europejskiej dotyczącymi rynku cukru Krajowy Ośrodek w szczególności:
+### 1d.
 
-- **1)** wykonuje zadania związane z:
-    - **a)** zatwierdzaniem producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty,
-    - **b)** (uchylona)
-    - **c)** przetwarzaniem i wycofaniem cukru z rynku,
-    - **d)** przeprowadzaniem kontroli na rynku cukru,
-    - **e)** wyrażeniem zgody na zawarcie umowy pomiędzy producentami cukru, dotyczącej wyprodukowania cukru przez jednego z tych producentów w ramach kwoty produkcyjnej producenta zlecającego produkcję;
+W przypadku gdy umowa, o której mowa w art. 38q ust. 1 i 1a, nie spełnia więcej niż jednego z warunków wymienionych w ust. 1a i 1b, kary pieniężne sumują się, z tym że wysokość kary pieniężnej nie może przekroczyć 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
 
-- **2)** pobiera:
-    - **a)** (uchylona)
-    - **b)** opłaty za nadwyżki cukru i izoglukozy,
-    - **c)** opłaty produkcyjne,
-    - **d)** opłaty z tytułu niewypełnienia obowiązków wynikających z uczestnictwa w mechanizmach na rynku cukru;
-    - **e)** (uchylona)
+” ;
 
-- **3)** przyjmuje informacje, deklaracje, raporty, sprawozdania oraz wnioski;
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** udziela pomocy w zakresie prywatnego przechowywania cukru białego;
-- **7)** przekazuje właściwym organom Unii Europejskiej informacje i składa wnioski.
+### 5)
 
-2. (uchylony)
+w art. 40j:
 
-3. Realizując zadania, o których mowa w ust. 1, Dyrektor Generalny Krajowego Ośrodka:
+### a)
 
-- **1)** wydaje decyzje w sprawach:
-    - **a)** zatwierdzenia lub odmowy zatwierdzenia, zawieszenia, cofnięcia lub wygaszenia zatwierdzenia producentów cukru, producentów izoglukozy i przedsiębiorstw przetwarzających te produkty,
-    - **b)** autoryzacji miejsca przechowywania cukru pochodzącego z zapasów interwencyjnych,
-    - **c)** przyznania refundacji produkcyjnej;
+ust. 1 otrzymuje brzmienie:
 
-- **2)** (uchylony)
-- **3)** prowadzi rejestr podmiotów zatwierdzonych;
-- **4)** przekazuje ministrowi właściwemu do spraw rynków rolnych, na jego żądanie, informacje związane z wykonywaniem zadań, o których mowa w ust. 1.
+„
 
-4. Informacje, deklaracje i wnioski określone w przepisach Unii Europejskiej dotyczących rynku cukru składa się do Dyrektora Generalnego Krajowego Ośrodka na formularzach opracowanych przez Krajowy Ośrodek, udostępnionych na stronie internetowej Krajowego Ośrodka.
+### 1.
 
-5. Formularze, o których mowa w ust. 4, zawierają:
+Kary pieniężne, o których mowa w:
 
-- **1)** dane umożliwiające identyfikację składającego formularz, związane z prowadzoną przez niego działalnością;
-- **2)** informacje określone w przepisach Unii Europejskiej dotyczących rynku cukru lub
-- **3)** informacje niezbędne do ustalenia stanu faktycznego lub prawnego w zakresie bezpośrednio związanym z przedmiotem składanych informacji, deklaracji lub wniosków, dotyczące rodzaju wykonywanej działalności, lokalizacji miejsca produkcji, wielkości produkcji, tytułu prawnego do posiadanych obiektów i urządzeń lub wynikające z obowiązków związanych z uczestnictwem w mechanizmach na rynku cukru, określonych w przepisach Unii Europejskiej dotyczących rynku cukru.
+### 1)
 
-**Art. 34.**
+art. 40i ust. 1-1c,
 
-1. Opłaty, o których mowa w art. 33 ust. 1 pkt 2, stanowią dochód budżetu państwa i są wpłacane przez producentów cukru, producentów izoglukozy i przedsiębiorstwa przetwarzające te produkty na wydzielony rachunek bankowy Krajowego Ośrodka.
+### 2)
 
-2. Środki pochodzące z pobranych opłat, o których mowa w art. 33 ust. 1 pkt 2, Krajowy Ośrodek przekazuje na rachunek bankowy urzędu obsługującego ministra właściwego do spraw rynków rolnych, w terminie 5 dni od dnia ich wpływu na rachunek bankowy Krajowego Ośrodka.
+art. 8 rozporządzenia 2017/40, w odniesieniu do pomocy, o której mowa w art. 38u ust. 1 pkt 2
 
-**Art. 34a.** (uchylony)
+- wymierza, w drodze decyzji administracyjnej, dyrektor oddziału terenowego Agencji właściwy według miejsca siedziby lub zamieszkania nabywcy albo wnioskodawcy.
 
-**Art. 34b.** (uchylony)
+” ,
 
-**Art. 34c.** (uchylony)
+### b)
 
-**Art. 34d.** (uchylony)
+ust. 3 otrzymuje brzmienie:
 
-**Art. 34e.** (uchylony)
+„
 
-**Art. 34f.** (uchylony)
+### 3.
 
-**Art. 34g.** (uchylony)
+Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy Agencji, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
 
-**Art. 34h.** (uchylony)
+” .
 
-**Art. 34i.** (uchylony)
+### Art. 2.
 
-**Art. 34j.** (uchylony)
+W ustawie z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu ([Dz. U. z 2016 r. poz. 58](https://api.sejm.gov.pl/eli/acts/DU/2016/58/text.html) oraz [z 2017 r. poz. 624](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.html)) uchyla się art. 19a-19c.
 
-**Art. 34k.** (uchylony)
+### Art. 3.
 
-#### Rozdział 7 (uchylony)
+W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych ([Dz. U. z 2017 r. poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2017/1037/text.html)) wprowadza się następujące zmiany:
 
-#### Rozdział 7a Rynek zbóż
+### 1)
 
-**Art. 38h.** W zakresie określonym przepisami Unii Europejskiej:
+tytuł rozdziału 3 otrzymuje brzmienie: „ Interwencja rynkowa ” ;
 
-#### Rozdział 7b Zasady uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych funkcjonujących na rynkach rolnych innych niż rynki mleka i przetworów mlecznych oraz owoców i warzyw
+### 2)
 
-**Art. 38i.**
+uchyla się art. 45b-46b;
 
-1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 154, art. 156 ust. 1 oraz art. 158 rozporządzenia nr 1308/2013.
+### 3)
 
-2. Uznanie organizacji producentów, zrzeszenia organizacji producentów lub organizacji międzybranżowej następuje w drodze decyzji, na wniosek organizacji albo zrzeszenia, składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji lub zrzeszenia.
+w załączniku do ustawy:
 
-3. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+### a)
 
-- **1)** minimalną liczbę członków organizacji producentów lub minimalną ilość lub wartość zbywalnej produkcji, o których mowa w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013,
-- **2)** informacje, jakie powinien zawierać wniosek, o którym mowa w ust. 2,
-- **3)** rodzaje lub zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych – mając na względzie zapewnienie prawidłowego funkcjonowania organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
+uchyla się pkt 1, 6 i 13,
 
-**Art. 38j.**
+### b)
 
-1. W przypadku gdy:
+w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 i 16 w brzmieniu:
 
-- **1)** uznana organizacja producentów lub uznane zrzeszenie organizacji producentów nie spełnia wymagań określonych w art. 154 ust. 1 lit. a lub d rozporządzenia nr 1308/2013 lub w przepisach wydanych na podstawie art. 38i ust. 3 albo
-- **2)** uznana organizacja międzybranżowa nie spełnia wymagań określonych w art. 158 ust. 5 lit. c rozporządzenia nr 1308/2013 lub w przepisach wydanych na podstawie art. 38i ust. 3 – dyrektor oddziału regionalnego Agencji wzywa na piśmie do usunięcia naruszeń oraz określa termin ich usunięcia, nie dłuższy niż 12 miesięcy od dnia otrzymania wezwania przez organizację producentów lub zrzeszenie organizacji producentów, lub organizację międzybranżową, biorąc pod uwagę rodzaj naruszenia.
+„
 
-2. Organizacja producentów albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa, w terminie wyznaczonym przez dyrektora oddziału regionalnego Agencji w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Agencję, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające usunięcie tych naruszeń.
+### 15)
 
-3. Dyrektor oddziału regionalnego Agencji cofa, w drodze decyzji, uznanie:
+rozporządzenie delegowane Komisji (UE) 2016/1238 z dnia 18 maja 2016 r. uzupełniające rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania ([Dz. Urz. UE L 206 z 30.07.2016, str. 15](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** organizacji producentów albo zrzeszenia organizacji producentów, jeżeli pomimo wezwania, o którym mowa w ust. 1, organizacja ta albo zrzeszenie to, w terminie określonym w tym wezwaniu, nie usunęły stwierdzonych naruszeń;
-- **2)** organizacji międzybranżowej, jeżeli pomimo wezwania, o którym mowa w ust. 1, organizacja ta, w terminie określonym w tym wezwaniu, nie usunęła stwierdzonych naruszeń.
+### 16)
 
-**Art. 38k.**
+rozporządzenie wykonawcze Komisji (UE) 2016/1240 z dnia 18 maja 2016 r. ustalające zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do interwencji publicznej i dopłat do prywatnego przechowywania ([Dz. Urz. UE L 206 z 30.07.2016, str. 71](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-1. Uznane organizacje i zrzeszenia wpisuje się odpowiednio do rejestru:
+” .
 
-- **1)** organizacji producentów;
-- **2)** zrzeszeń organizacji producentów;
-- **3)** organizacji międzybranżowych.
+### Art. 4.
 
-2. Wpis do każdego z rejestrów, o których mowa w ust. 1, następuje na podstawie ostatecznej decyzji o uznaniu organizacji albo zrzeszenia.
+W ustawie z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz niektórych innych ustaw ([Dz. U. z 2017 r. poz. 5](https://api.sejm.gov.pl/eli/acts/DU/2017/5/text.html)) w art. 9:
 
-3. Rejestry, o których mowa w ust. 1, prowadzi w postaci elektronicznej dyrektor oddziału regionalnego Agencji.
+### 1)
 
-4. Rejestry, o których mowa w ust. 1, są jawne i udostępniane na stronie internetowej Agencji, z wyłączeniem danych, o których mowa w ust. 5 pkt 8.
+ust. 1 otrzymuje brzmienie:
 
-5. Rejestry, o których mowa w ust. 1, zawierają:
+„
 
-- **1)** numer w rejestrze nadany organizacji producentów albo zrzeszeniu organizacji producentów, albo organizacji międzybranżowej;
-- **2)** nazwę, siedzibę i adres organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
-- **3)** określenie rodzaju wykonywanej działalności lub wskazanie produktu lub grupy produktów, ze względu na które nastąpiło uznanie;
-- **4)** imiona i nazwiska osób upoważnionych do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
-- **5)** datę i numer decyzji o:
-    - **a)** uznaniu organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej,
-    - **b)** cofnięciu uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+### 1.
 
-- **6)** liczbę członków ogółem z podziałem na osoby fizyczne i prawne;
-- **7)** datę wpisu do rejestru organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej oraz datę ich wykreślenia z rejestru;
-- **8)** wartość rocznej produkcji oraz wartość produkcji wprowadzoną do obrotu przez organizację producentów oraz zrzeszenie organizacji producentów.
+Przepisów art. 43a ustawy zmienianej w art. 1 nie stosuje się do ponoszenia kosztów kwalifikowalnych objętych umową o przyznaniu pomocy lub pomocy technicznej zawartą przed dniem wejścia w życie niniejszej ustawy, a w przypadku:
 
-6. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa informuje dyrektora oddziału regionalnego Agencji, na formularzu opracowanym przez Agencję, o zmianie danych, o których mowa w ust. 5, w terminie 14 dni od dnia zaistnienia tych zmian.
+### 1)
 
-7. W przypadku zmiany danych, o których mowa w ust. 5 pkt 2 lub 4, uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa dostarcza, wraz z informacją, o której mowa w ust. 6, dokumenty potwierdzające zaistniałe zmiany.
+podmiotów obowiązanych do stosowania przepisów o zamówieniach publicznych - również do kosztów kwalifikowalnych objętych umową o przyznaniu pomocy lub pomocy technicznej zawartą od dnia wejścia w życie niniejszej ustawy, jeżeli przed dniem wejścia w życie niniejszej ustawy wszczęte zostało postępowanie o udzielenie zamówienia publicznego obejmującego te koszty;
 
-8. Dyrektor oddziału regionalnego Agencji gromadzi i przechowuje dokumenty stanowiące podstawę wpisu do rejestrów, o których mowa w ust. 1, i inne dokumenty składane przez uznane organizacje producentów, uznane zrzeszenia organizacji producentów i uznane organizacje międzybranżowe w sposób zapewniający ochronę tych dokumentów oraz zabezpieczający je przed utratą i nieuprawnionym dostępem.
+### 2)
 
-**Art. 38l.** Dyrektor oddziału regionalnego Agencji:
+poddziałania, o którym mowa w art. 3 ust. 1 pkt 4 lit. b ustawy zmienianej w art. 1 - również do kosztów kwalifikowalnych objętych umową o przyznaniu pomocy zawartą od dnia wejścia w życie niniejszej ustawy, jeżeli wniosek o przyznanie tej pomocy został złożony przed tym dniem;
 
-**Art. 38m.**
+### 3)
 
-1. Dyrektor oddziału regionalnego Agencji przekazuje Prezesowi Agencji informacje, o których mowa w art. 154 ust. 4 lit. d, art. 158 ust. 5 lit. e, art. 161 ust. 3 lit. d oraz art. 163 ust. 3 lit. e rozporządzenia nr 1308/2013.
+kosztów ogólnych, o których mowa w art. 45 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 ([Dz. Urz. UE L 347 z 20.12.2013, str. 487](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 oraz Dz. Urz. UE L 129 z 19.05.2017, str. 1.](#gloss-0:4:)) - również do tych kosztów objętych umową o przyznaniu pomocy zawartą od dnia wejścia w życie niniejszej ustawy, jeżeli zostały one poniesione przed tym dniem.
 
-2. Informacje, o których mowa w ust. 1, Prezes Agencji przekazuje ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej.
+” ;
 
-**Art. 38n.**
+### 2)
 
-1. Dyrektor oddziału regionalnego Agencji przeprowadza, co najmniej raz na dwa lata, kontrole uznanych organizacji i zrzeszeń w zakresie określonym przepisami Unii Europejskiej dotyczącymi uznawania organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych.
+w ust. 2:
 
-2. (uchylony)
+### a)
 
-**Art. 38o.**
+pkt 1 otrzymuje brzmienie:
 
-1. Minister właściwy do spraw rynków rolnych dokonuje oceny wniosku, o którym mowa w art. 164 ust. 1 rozporządzenia nr 1308/2013.
+„
 
-2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, poziom reprezentatywności, o którym mowa w art. 164 ust. 3 akapit drugi rozporządzenia nr 1308/2013, mając na względzie zapewnienie właściwego funkcjonowania porozumień, decyzji lub praktyk uzgodnionych w ramach uznanej organizacji producentów lub ich zrzeszenia rozszerzonych na producentów niebędących członkami tych organizacji oraz ochrony interesów podmiotów działających na rynku.
+### 1)
 
-3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia nr 1308/2013 oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania danego rynku oraz niezakłócania konkurencji na danym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
+na realizację operacji podmiotu, o którym mowa w art. 55 ust. 2 pkt 1 ustawy zmienianej w art. 1, zwanego dalej „partnerem KSOW”, w ramach dwuletniego planu operacyjnego, zawartą przed dniem wejścia w życie niniejszej ustawy, a w przypadku partnerów KSOW obowiązanych do stosowania przepisów o zamówieniach publicznych - również do kosztów objętych umową na realizację operacji partnera KSOW w ramach dwuletniego planu operacyjnego, zawartą od dnia wejścia w życie niniejszej ustawy, jeżeli przed dniem wejścia w życie niniejszej ustawy wszczęte zostało postępowanie o udzielenie zamówienia publicznego obejmującego te koszty.
 
-**Art. 38p.** Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia nr 1308/2013.
+” ,
 
-#### Rozdział 7c Zakres, w jakim mogą być zawierane umowy na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia nr 1308/2013
+### b)
 
-**Art. 38q.**
+uchyla się pkt 2.
 
-1. Każde dostarczenie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, lit. c wyłącznie w zakresie buraków cukrowych, lit. f, h, i, n, o, lit. p wyłącznie w zakresie mleka surowego, lit. q, r, s oraz t rozporządzenia nr 1308/2013, z wyłączeniem dostaw bezpośrednich i rolniczego handlu detalicznego w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2017 r. poz. 149 i 60) oraz sprzedaży bezpośredniej w rozumieniu ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego (Dz. U. z 2017 r. poz. 242 i 471), przez producenta będącego rolnikiem w rozumieniu art. 4 pkt 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 (Dz. Urz. UE L 347 z 20.12.2013, str. 608, z późn. zm. ), którego gospodarstwo rolne jest położone na terytorium Rzeczypospolitej Polskiej, do pierwszego nabywcy będącego przetwórcą lub dystrybutorem, który nie zbywa tych produktów rolnych bezpośrednio konsumentom finalnym, zwanym dalej „dystrybutorem”, wymaga zawarcia umowy obejmującej jedną lub wiele dostaw, spełniającej warunki określone w:
+### Art. 5.
 
-- **1)** art. 125 i art. 127 oraz w załącznikach X i XI do rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych;
-- **2)** art. 148 ust. 2 rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego;
-- **3)** art. 168 ust. 4 i 6 rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r, s oraz t rozporządzenia nr 1308/2013.
+W ustawie z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa ([Dz. U. poz. 623](https://api.sejm.gov.pl/eli/acts/DU/2017/623/text.html)) w art. 9:
 
-1a. Uznaje się, że warunek zawarcia pisemnej umowy określony w punkcie I pkt 1 odpowiednio załącznika X i XI do rozporządzenia nr 1308/2013, art. 148 ust. 2 lit. b oraz art. 168 ust. 4 lit. b tego rozporządzenia jest spełniony również w przypadku zawarcia umowy w formie dokumentowej albo elektronicznej.
+### 1)
 
-1b. Oprócz przypadku, o którym mowa w art. 148 ust. 3 oraz art. 168 ust. 5 rozporządzenia nr 1308/2013, przepisów ust. 1 nie stosuje się również w przypadku, gdy producent, o którym mowa w ust. 1, będący członkiem:
+w ust. 2 uchyla się pkt 18 i 19;
 
-- **1)** grupy producentów rolnych w rozumieniu przepisów o grupach producentów rolnych i ich związkach sprzedaje produkty rolne do grupy producentów rolnych, której jest członkiem,
-- **2)** wstępnie uznanej grupy producentów owoców i warzyw za organizację producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej grupy,
-- **3)** uznanej organizacji producentów owoców i warzyw w rozumieniu przepisów o organizacji rynków owoców i warzyw oraz rynku chmielu sprzedaje owoce lub warzywa do tej organizacji,
-- **4)** organizacji producentów uznanej na podstawie art. 38i ust. 1 lub uznanej w rozumieniu przepisów o organizacji rynku mleka i przetworów mlecznych sprzedaje produkty rolne do tej organizacji – jeżeli statut lub umowa, lub umowa członkowska tej grupy lub tej organizacji spełniają, w zależności od produktu, warunki określone w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz odpowiednio w załączniku X lub XI do tego rozporządzenia albo art. 148 ust. 2 lit. a–c, albo art. 168 ust. 4 lit. a–c tego rozporządzenia.
+### 2)
 
-1c. Umowę, o której mowa w ust. 1 i 1a, nabywca, o którym mowa w ust. 1, przechowuje przez 2 lata, licząc od końca roku, w którym została zrealizowana ostatnia dostawa w ramach tej umowy.
+dodaje się ust. 5 w brzmieniu:
 
-2. (uchylony)
+„
 
-3. Umowa, o której mowa w ust. 1, dotycząca dostarczania tytoniu zawierana jest w terminie do dnia 15 marca roku zbiorów.
+### 5.
 
-3a. Dyrektor oddziału terenowego Krajowego Ośrodka właściwy według miejsca siedziby lub zamieszkania nabywcy przeprowadza kontrole spełniania obowiązku zawierania umów, o których mowa w ust. 1.
+Dane gromadzone przez Krajowy Ośrodek są udostępniane Głównemu Urzędowi Statystycznemu zgodnie ze szczegółowym zakresem, w formie, postaci i terminach określonych w programie badań statystycznych statystyki publicznej, ustalonym na podstawie art. 18 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ([Dz. U. z 2016 r. poz. 1068](https://api.sejm.gov.pl/eli/acts/DU/2016/1068/text.html) oraz [z 2017 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.html)).
 
-4. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, minimalny okres obowiązywania umowy, o której mowa w ust. 1, oraz minimalny okres od zawarcia umowy do realizacji dostawy, mając na względzie zapewnienie właściwego funkcjonowania rynku wewnętrznego.
+” .
 
-**Art. 38r.**
+### Art. 6.
 
-1. Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 148 ust. 5 i art. 168 ust. 7 akapit drugi rozporządzenia nr 1308/2013.
+W ustawie z dnia 10 lutego 2017 r. - Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa ([Dz. U. poz. 624](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.html)) wprowadza się następujące zmiany:
 
-2. Dyrektor Generalny Krajowego Ośrodka jest organem właściwym do gromadzenia i przekazywania ministrowi właściwemu do spraw rynków rolnych oraz Komisji Europejskiej informacji w zakresie negocjacji umownych, o których mowa w rozporządzeniu nr 1308/2013.
+### 1)
 
-#### Rozdział 7d Program dla szkół
+w art. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
 
-**Art. 38s.** W zakresie określonym przepisami Unii Europejskiej Krajowy Ośrodek realizuje zadania i obowiązki państwa członkowskiego lub właściwej władzy państwa członkowskiego związane z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół ustanowionego zgodnie z art. 23 rozporządzenia nr 1308/2013, chyba że ustawa lub przepisy odrębne stanowią inaczej. Art. 38sa. Zadania, o których mowa w art. 38s, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+„
 
-**Art. 38t.** Na finansowanie programu dla szkół poza środkami z budżetu Unii Europejskiej przeznacza się środki z budżetu państwa.
+### 3)
 
-**Art. 38u.**
+w art. 9 w ust. 3 użyty dwukrotnie oraz w art. 10 w ust. 1 w pkt 3 wyraz „będącej” zastępuje się wyrazem „będącego”.
 
-1. W zakresie realizacji zadań, o których mowa w art. 38s, dyrektor oddziału terenowego Krajowego Ośrodka, w drodze decyzji:
+” ;
 
-- **1)** zatwierdza wnioskodawców, o których mowa w art. 5 ust. 2 lit. a i c–e rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 (Dz. Urz. UE L 5 z 10.01.2017, str. 11), zwanego dalej „rozporządzeniem 2017/40”, spełniających warunki określone w art. 6 rozporządzenia 2017/40, realizujących działania wymienione w art. 5 ust. 1 lit. a tego rozporządzenia, oraz zawiesza lub cofa zatwierdzenie na zasadach określonych w art. 7 tego rozporządzenia;
-- **2)** przyznaje pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40;
-- **3)** przyznaje pomoc krajową zgodnie z art. 23a ust. 6 oraz art. 217 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. a rozporządzenia 2017/40.
+### 2)
 
-2. Krajowy Ośrodek przyznaje, na podstawie umowy, pomoc unijną zgodnie z art. 23 ust. 1 rozporządzenia nr 1308/2013 na finansowanie kosztów, o których mowa w art. 4 ust. 1 lit. b–e rozporządzenia 2017/40, wnioskodawcom, o których mowa w art. 5 ust. 2 lit. d i e rozporządzenia 2017/40, spełniającym warunki określone w art. 6 rozporządzenia 2017/40, realizującym działania wymienione w art. 5 ust. 1 lit. b–d tego rozporządzenia, wyłonionym zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm. ).
+w art. 10 po pkt 1 dodaje się pkt 1a w brzmieniu:
 
-**Art. 38w.**
+„
 
-1. Minister właściwy do spraw rynków rolnych jest organem właściwym w sprawie opracowania i przekazania do Komisji Europejskiej:
+### 1a)
 
-- **1)** strategii dotyczącej realizacji programu dla szkół, o której mowa w art. 23 ust. 8 rozporządzenia nr 1308/2013, na poziomie krajowym lub regionalnym;
-- **2)** wniosku o pomoc z budżetu Unii Europejskiej na finansowanie programu dla szkół, o którym mowa w art. 23a ust. 3 rozporządzenia nr 1308/2013.
+w art. 6 w ust. 1 w pkt 2 wyraz „jej” zastępuje się wyrazem „jego”;
 
-2. Opracowując strategię, o której mowa w ust. 1 pkt 1, minister właściwy do spraw rynków rolnych w porozumieniu z ministrem właściwym do spraw zdrowia ustala wykaz produktów, które będą dostarczane w ramach programu dla szkół.
+” ;
 
-**Art. 38x.**
+### 3)
 
-1. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowy zakres zadań realizowanych przez Krajowy Ośrodek związanych z wdrożeniem na terytorium Rzeczypospolitej Polskiej programu dla szkół oraz sposób i tryb realizacji tych zadań, mając na względzie zapewnienie skutecznego i efektywnego wdrożenia tego programu.
+w art. 21 uchyla się pkt 13 i 14;
 
-2. W rozporządzeniu, o którym mowa w ust. 1, minister właściwy do spraw rynków rolnych może określić szczegółowe warunki uczestnictwa podmiotów w programie dla szkół oraz szczegółowe warunki i tryb przyznawania pomocy finansowej z tytułu realizacji działań w ramach programu dla szkół, a także zakres kontroli jej wykorzystania, mając na względzie zapewnienie prawidłowej i przejrzystej realizacji tego programu zgodnie z przepisami Unii Europejskiej obowiązującymi w tym zakresie.
+### 4)
 
-3. W przypadku gdy w przepisach Unii Europejskiej określonym podmiotom zostały przyznane uprawnienia lub na określone podmioty zostały nałożone obowiązki związane z wdrożeniem programu dla szkół, minister właściwy do spraw rynków rolnych w rozporządzeniu, o którym mowa w ust. 1, określi sposób realizacji tych uprawnień lub wykonania tych obowiązków, mając na względzie zapewnienie skutecznej realizacji tego programu.
+w art. 22:
 
-**Art. 38y.**
+### a)
 
-1. Środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, są realizowane co najmniej w jednym z zakresów wskazanych w art. 23 ust. 10 rozporządzenia nr 1308/2013.
+pkt 17 otrzymuje brzmienie:
 
-2. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, środki towarzyszące o charakterze edukacyjnym, o których mowa w art. 3 rozporządzenia 2017/40, w ramach zakresu wskazanego w art. 23 ust. 10 rozporządzenia nr 1308/2013, oraz szczegółowy sposób ich realizacji, mając na względzie prawidłową realizację programu dla szkół oraz potrzebę upowszechniania wśród dzieci zdrowych nawyków żywieniowych.
+„
 
-**Art. 38z.** Rada Ministrów określa, w drodze rozporządzenia, corocznie do dnia 31 maja na kolejny rok szkolny:
+### 17)
 
-#### Rozdział 8 (uchylony)
+w art. 38i w ust. 1 i 2, w art. 38j w ust. 1 w części wspólnej, w ust. 2 i w ust. 3 we wprowadzeniu do wyliczenia, w art. 38k w ust. 3, 6 i 8, w art. 38l we wprowadzeniu do wyliczenia, w art. 38m w ust. 1, w art. 38n w ust. 1 oraz w art. 40e w ust. 1 we wprowadzeniu do wyliczenia wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
 
-#### Rozdział 9 (uchylony)
+” ,
 
-#### Rozdział 9a (uchylony)
+### b)
 
-#### Rozdział 9b Udzielanie dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany
+pkt 19 otrzymuje brzmienie:
 
-**Art. 40c.**
+„
 
-1. Dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany udziela się producentom rolnym w rozumieniu ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+### 19)
 
-2. Warunkiem uzyskania dopłaty jest posiadanie przez producenta rolnego działek rolnych o łącznej powierzchni nie mniejszej niż 1 ha, na których uprawia się gatunki roślin uprawnych objęte dopłatami, przy czym działka rolna oznacza zwarty obszar gruntu rolnego, na którym jest prowadzona uprawa lub grupa upraw, o której mowa w rozporządzeniu Komisji (WE) nr 796/2004 z dnia 21 kwietnia 2004 r. ustanawiającym szczegółowe zasady wdrażania zasady współzależności, modulacji oraz zintegrowanego systemu administracji i kontroli przewidzianych w rozporządzeniu Rady (WE) nr 1782/2003 ustanawiającego wspólne zasady dla systemów pomocy bezpośredniej w zakresie wspólnej polityki rolnej oraz określonych systemów wsparcia dla rolników, oraz wdrażania zasady współzależności przewidzianej w rozporządzeniu (WE) nr 479/2008 (Dz. Urz. UE L 141 z 30.04.2004, str. 18, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 44, str. 243), o powierzchni nie mniejszej niż 0,1 ha wchodzący w skład gospodarstwa rolnego.
+w art. 38q ust. 3a otrzymuje brzmienie:
 
-3. Dopłaty udziela się do powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2, jeżeli:
+„
 
-- **1)** ilość materiału siewnego kategorii elitarny lub kwalifikowany, zużyta do obsiania lub obsadzenia tych powierzchni, jest nie mniejsza niż minimalna ilość tego materiału określona w przepisach wydanych na podstawie art. 40d ust. 6 pkt 2;
-- **2)** materiał siewny kategorii elitarny lub kwalifikowany został wytworzony:
-    - **a)** przez przedsiębiorcę wpisanego do ewidencji przedsiębiorców, o której mowa w przepisach o nasiennictwie, lub
-    - **b)** w gospodarstwie rolnym posiadanym przez rolnika wpisanego do ewidencji rolników, o której mowa w przepisach o nasiennictwie, lub
+### 3a.
 
-- **3)** materiał siewny kategorii elitarny lub kwalifikowany został zakupiony:
-    - **a)** od przedsiębiorcy wpisanego do ewidencji przedsiębiorców prowadzących obrót materiałem siewnym, o której mowa w przepisach o nasiennictwie, albo
-    - **b)** od rolnika prowadzącego obrót materiałem siewnym wytworzonym w posiadanym gospodarstwie rolnym, wpisanego do ewidencji rolników, o której mowa w przepisach o nasiennictwie, albo
-    - **c)** od podmiotu prowadzącego obrót materiałem siewnym na terytorium innego państwa członkowskiego Unii Europejskiej.
+Dyrektor oddziału terenowego Krajowego Ośrodka właściwy według miejsca siedziby lub zamieszkania nabywcy przeprowadza kontrole spełniania obowiązku zawierania umów, o których mowa w ust. 1.”;
 
-3a. Dopłatami nie obejmuje się uprawy przeznaczonej na przedplon lub poplon.
+” ,
 
-4. Wysokość dopłaty ustala się jako iloczyn powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie ust. 6 pkt 2 i stawek dopłat do 1 ha takiej powierzchni.
+” ,
 
-5. Dopłaty mają charakter pomocy de minimis w rolnictwie i są udzielane zgodnie z przepisami o postępowaniu w sprawach dotyczących pomocy publicznej.
+### c)
 
-6. Rada Ministrów określa, w drodze rozporządzenia:
+po pkt 19 dodaje się pkt 19a w brzmieniu:
 
-- **1)** corocznie do dnia 30 września stawki dopłat do 1 ha powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany, uwzględniając powierzchnię gruntów ornych obsianych lub obsadzonych materiałem siewnym, gatunki roślin uprawnych objętych dopłatą oraz środki finansowe przeznaczone na te dopłaty;
-- **2)** wykaz gatunków roślin uprawnych, do których materiału siewnego kategorii elitarny lub kwalifikowany przysługuje dopłata z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, uwzględniając poziom wymiany kwalifikowanego materiału siewnego w produkcji roślinnej.
+„
 
-**Art. 40d.**
+### 19a)
 
-1. Kierownik biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania lub siedzibę producenta rolnego przyznaje, w drodze decyzji, dopłatę z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany na wniosek producenta rolnego.
+w art. 38r w ust. 2 wyrazy „Prezes Agencji” zastępuje się wyrazami „Dyrektor Generalny Krajowego Ośrodka”;
 
-1a. Decyzję, o której mowa w ust. 1, wydaje się w terminie 60 dni od dnia wejścia w życie przepisów wydanych na podstawie art. 40c ust. 6 pkt 1.
+” ,
 
-2. Wniosek, o którym mowa w ust. 1, składa się na formularzu opracowanym i udostępnionym przez Agencję, zawierającym w szczególności:
+### d)
 
-- **1)** dane, o których mowa w art. 27 ust. 2a pkt 1–3;
-- **2)** oświadczenie o:
-    - **a)** powierzchni gruntów ornych obsianych lub obsadzonych materiałem siewnym kategorii elitarny lub kwalifikowany,
-    - **b)** sposobie wykorzystania działek rolnych, na których został wysiany lub wysadzony materiał siewny kategorii elitarny lub kwalifikowany.
+w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21-24 w brzmieniu:
 
-3. Do wniosku producent rolny dołącza oryginał albo potwierdzoną za zgodność z oryginałem przez notariusza albo upoważnionego pracownika Agencji kopię:
+„
 
-- **1)** faktury zakupu materiału siewnego kategorii elitarny lub kwalifikowany wystawionej w okresie od dnia 15 lipca roku poprzedzającego złożenie wniosku do dnia 15 czerwca roku złożenia wniosku, pod warunkiem że materiał ten został zużyty w tym okresie do siewu lub sadzenia;
-- **2)** dokumentu wydania z magazynu materiału siewnego kategorii elitarny lub kwalifikowany wystawionego w roku, w którym materiał ten został zużyty do siewu lub sadzenia, jeżeli producent rolny zużył do siewu lub sadzenia w posiadanym przez niego gospodarstwie rolnym materiał siewny kategorii elitarny lub kwalifikowany, o którym mowa w art. 40c ust. 3 pkt 2 lit. a lub b.
+### 21)
 
-4. Dokumenty, o których mowa w ust. 3, powinny zawierać w szczególności:
+użyty w art. 38s, art. 38u ust. 1 we wprowadzeniu do wyliczenia i ust. 2 oraz art. 38x ust. 1 w różnym przypadku wyraz „Agencja” zastępuje się użytymi w odpowiednim przypadku wyrazami „Krajowy Ośrodek”;
 
-- **1)** datę sprzedaży lub wydania z magazynu materiału siewnego;
-- **2)** nazwę gatunku i odmiany;
-- **3)** kategorię lub stopień kwalifikacji materiału siewnego;
-- **4)** numer partii materiału siewnego.
+### 22)
 
-4a. Do dokumentów, o których mowa w ust. 3, wystawionych dla mieszanek materiału siewnego, przepisów ust. 4 pkt 2 i 3 nie stosuje się.
+po art. 38s dodaje się art. 38sa w brzmieniu:
 
-5. Na żądanie Agencji producent rolny jest obowiązany dostarczyć oryginały dokumentów, o których mowa w ust. 3.
+„
 
-5a. Różnica powierzchni dla poszczególnych działek rolnych zgłoszonych we wniosku, o którym mowa w ust. 1, nie może przekroczyć 5% powierzchni działki rolnej.
+### Art. 38sa.
 
-5b. W przypadku stwierdzenia różnicy powierzchni działki rolnej, która przekracza 5%, wysokość dopłaty nie może być wyższa niż przysługująca do powierzchni ustalonej w wyniku kontroli, o której mowa w art. 20 ust. 1, nie większej jednak niż zgłoszonej we wniosku.
+Zadania, o których mowa w art. 38s, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia:
+” ;
 
-- **1)** terminy składania wniosków, o których mowa w ust. 1, oraz terminy i sposób wypłaty dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, mając na względzie zabezpieczenie przed nieuzasadnionym przyznaniem tych dopłat;
-- **2)** minimalną ilość materiału siewnego, jaka powinna być użyta do obsiania lub obsadzenia 1 ha powierzchni gruntów ornych, mając na względzie zalecane normy wysiewu dla poszczególnych gatunków roślin.
+### 23)
 
-**Art. 40e.**
+w art. 38z wprowadzenie do wyliczenia otrzymuje brzmienie: „ Rada Ministrów określa, w drodze rozporządzenia, corocznie do dnia 31 maja na kolejny rok szkolny: ” ;
 
-1. Wojewódzki inspektor ochrony roślin i nasiennictwa, zwany dalej „wojewódzkim inspektorem”, na wniosek dyrektora oddziału regionalnego Agencji przekazuje nieodpłatnie informacje o:
+### 24)
 
-- **1)** przedsiębiorcach wpisanych do ewidencji przedsiębiorców prowadzących obrót materiałem siewnym oraz rolnikach wpisanych do ewidencji rolników prowadzących obrót materiałem siewnym, o których mowa w przepisach o nasiennictwie, w zakresie:
-    - **a)** imienia i nazwiska, miejsca zamieszkania i adresu albo nazwy, siedziby i adresu oraz miejsca i adresu wykonywania działalności,
-    - **b)** numeru w ewidencji przedsiębiorców prowadzących obrót materiałem siewnym albo numeru w ewidencji rolników prowadzących obrót materiałem siewnym, prowadzonej przez wojewódzkiego inspektora,
-    - **c)** numeru identyfikacji podatkowej (NIP);
+w art. 40j w ust. 1 w części wspólnej i w ust. 3 wyraz „Agencji” zastępuje się wyrazami „Krajowego Ośrodka”.
 
-- **2)** (uchylony)
-- **3)** ilości wprowadzonego do obrotu materiału siewnego kategorii elitarny lub kwalifikowany gatunków roślin uprawnych określonych w przepisach wydanych na podstawie art. 40c ust. 6 pkt 2.
+” ;
 
-2. (uchylony)
+### 5)
 
-**Art. 40f.** (uchylony)
+w art. 25:
 
-**Art. 40g.** (uchylony)
+### a)
 
-**Art. 40h.** (uchylony)
+pkt 1-5 otrzymują brzmienie:
 
-#### Rozdział 9ba Zasady monitorowania uprawy tytoniu oraz produkcji i zbytu surowca tytoniowego, a także nadzoru nad uprawą tytoniu oraz produkcją i zbytem surowca tytoniowego
+„
 
-#### Rozdział 9c Przepisy o karach pieniężnych
+### 1)
 
-**Art. 40i.**
+w art. 2 wyrazy „Agencję Rynku Rolnego, zwaną dalej „Agencją”,” zastępuje się wyrazami „Krajowy Ośrodek Wsparcia Rolnictwa”;
 
-1. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, podlega karze pieniężnej w wysokości 10% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221) za produkty nabyte bez pisemnej umowy lub bez umowy zawartej w formie dokumentowej albo elektronicznej.
+### 2)
 
-1a. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 148 ust. 2 lit. c ppkt ii, iii, iv, v lub vi lub art. 168 ust. 4 lit. c ppkt ii, iii, iv, v lub vi rozporządzenia nr 1308/2013, podlega karze pieniężnej w wysokości 1% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy – za każdy niespełniony warunek.
+w art. 2a:
 
-1b. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w:
+### a)
 
-- **1)** art. 148 ust. 2 lit. a i c ppkt i rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. p rozporządzenia nr 1308/2013, wyłącznie w zakresie mleka surowego,
-- **2)** art. 168 ust. 4 lit. a i c ppkt i rozporządzenia nr 1308/2013 – w przypadku produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 lit. a, f, h, i, n, o, q, r, s oraz t rozporządzenia nr 1308/2013 – podlega karze pieniężnej w wysokości 4% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy – za każdy niespełniony warunek.
+ust. 1 otrzymuje brzmienie:
 
-1c. Kto jako pierwszy nabywca będący przetwórcą lub dystrybutorem nabywa, wbrew przepisom art. 38q ust. 1 lub 1a, produkty rolne należące do sektorów, o których mowa w art. 38q ust. 1, na podstawie umowy niespełniającej warunków określonych w art. 125 lub art. 127 rozporządzenia nr 1308/2013 oraz w załączniku X lub XI do tego rozporządzenia, z wyjątkiem warunku określonego w punkcie I pkt 1 tych załączników – w przypadku produktów rolnych należących do sektora, o którym mowa w art. 1 ust. 2 lit. c rozporządzenia nr 1308/2013, wyłącznie w zakresie buraków cukrowych, podlega karze pieniężnej w wysokości 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
+„
 
-1d. W przypadku gdy umowa, o której mowa w art. 38q ust. 1 i 1a, nie spełnia więcej niż jednego z warunków wymienionych w ust. 1a i 1b, kary pieniężne sumują się, z tym że wysokość kary pieniężnej nie może przekroczyć 5% zapłaty w rozumieniu art. 29a ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług za produkty nabyte wskutek takiej umowy.
+### 1.
 
-2. Nie mają wpływu na obowiązek uiszczenia kary pieniężnej i jej wysokość odstąpienie od umowy oraz czynności mające na celu zmniejszenie wartości umowy, w szczególności obniżenie ceny z tytułu wad produktów i wystawienie faktury korygującej.
+Informacje wymienione w art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, w zakresie określonym w rozporządzeniu, o którym mowa w pkt 14 załącznika, przekazuje się w terminie do 15. dnia każdego miesiąca za poprzedni miesiąc do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa właściwego ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego, na formularzu opracowanym przez Krajowy Ośrodek Wsparcia Rolnictwa, udostępnionym na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa.
 
-**Art. 40j.**
+” ,
 
-1. Kary pieniężne, o których mowa w:
+### b)
 
-- **1)** art. 40i ust. 1–1c,
-- **2)** art. 8 rozporządzenia 2017/40, w odniesieniu do pomocy, o której mowa w art. 38u ust. 1 pkt 2 – wymierza, w drodze decyzji administracyjnej, dyrektor oddziału terenowego Krajowego Ośrodka właściwy według miejsca siedziby lub zamieszkania nabywcy albo wnioskodawcy.
+w ust. 2 i 3 wyrazy „Prezes Agencji” zastępuje się wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa”,
 
-2. Egzekucja nałożonych kar pieniężnych następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+### c)
 
-3. Kary pieniężne stanowią dochód budżetu państwa i są wpłacane na rachunek bankowy Krajowego Ośrodka, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
+w ust. 6 wyrazy „Prezes Agencji zamieszcza na stronie internetowej Agencji” zastępuje się wyrazami „Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa zamieszcza na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa”,
 
-#### Rozdział 9d Przepisy karne
+### d)
 
-**Art. 40k.**
+w ust. 7 wyrazy „Prezesa Agencji” zastępuje się wyrazami „Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa”;
 
-1. Kto, będąc producentem surowca tytoniowego, nie przekazuje informacji, o których mowa w art. 40hc ust. 1, albo przekazuje te informacje po upływie terminu lub przekazuje informacje niepełne lub niezgodne ze stanem faktycznym, podlega karze grzywny.
+### 3)
 
-2. Nie podlega karze kto, będąc producentem surowca tytoniowego, w przekazanej informacji, o której mowa w art. 40hc ust. 1 pkt 1 i pkt 7 lit. a, podał powierzchnię uprawy poszczególnych grup odmian tytoniu, która różni się nie więcej niż o 5% od rzeczywistej powierzchni upraw ustalonej w wyniku kontroli.
+art. 42 otrzymuje brzmienie:
 
-3. Nie podlega karze ten, w odniesieniu do którego wydano decyzję o zniszczeniu uprawy tytoniu i dokonano tego zniszczenia w przypadku, o którym mowa w art. 40hi ust. 3.
+„
 
-**Art. 40l.** Orzekanie w sprawach, o których mowa w art. 40k, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm. ).
+### Art. 42.
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących
+### 1.
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+Krajowy Ośrodek Wsparcia Rolnictwa wykonuje zadania i czynności państwa członkowskiego, właściwego organu państwa członkowskiego lub agencji interwencyjnej w zakresie określonym w rozporządzeniach, o których mowa w pkt 3, 8, 11, 12 oraz 14-16 załącznika, w przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń oraz innych przepisach Unii Europejskiej dotyczących Wspólnej Polityki Rolnej w zakresie rynku mleka, chyba że ustawa lub przepisy odrębne stanowią inaczej.
 
-**Art. 55.**
+### 2.
 
-1. Agencja Rezerw Materiałowych przejmie od Agencji zadania i obowiązki związane z gromadzeniem i gospodarowaniem państwowymi rezerwami produktów rolnych oraz produktów i półproduktów żywnościowych.
+Zadania, o których mowa w ust. 1, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
 
-2. Agencja przekaże Agencji Rezerw Materiałowych środki rzeczowe i finansowe przeznaczone na realizację zadań i obowiązków, o których mowa w ust. 1, w terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy.
+” ;
 
-3. W terminie 3 miesięcy od dnia ogłoszenia niniejszej ustawy pracownicy Agencji zatrudnieni w Centrali oraz w oddziałach terenowych na stanowiskach pracy związanych z wykonywaniem zadań realizowanych w zakresie gromadzenia i gospodarowania rezerwami, stają się pracownikami Agencji Rezerw Materiałowych, z zachowaniem wymogów, o których mowa w art. 23 Kodeksu pracy.
+### 4)
 
-4. Agencja Rezerw Materiałowych staje się stroną umów i porozumień zawartych przez Agencję związanych z gospodarowaniem rezerwami państwowymi produktów rolnych, produktów i półproduktów żywnościowych.
+w art. 43 ust. 1 i 2 otrzymują brzmienie:
 
-5. (uchylony)
+„
 
-**Art. 56.**
+### 1.
 
-1. W postępowaniach administracyjnych wszczętych przez Prezesa Agencji oraz ministra właściwego do spraw rynków rolnych na podstawie art. 22 ustawy, o której mowa w art. 43, i niezakończonych przed dniem wejścia w życie niniejszej ustawy, organami właściwymi w tych sprawach stają się odpowiednio Prezes Agencji Rezerw Materiałowych albo minister właściwy do spraw gospodarki.
+Realizując zadania w zakresie interwencji publicznej określonym w rozporządzeniach, o których mowa w pkt 11, 12 i 15 załącznika, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa wydaje świadectwa autoryzacji:
 
-2. Organy prowadzące postępowania, o których mowa w ust. 1, przekażą odpowiednio Prezesowi Agencji Rezerw Materiałowych albo ministrowi właściwemu do spraw gospodarki akta tych postępowań, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy.
+### 1)
 
-**Art. 57.** (pominięty)
+zakładów produkcyjnych;
 
-**Art. 58.** Tracą moc:
+### 2)
 
-**Art. 59.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem art. 12 ust. 2, art. 16, art. 17, art. 20–23, art. 43, art. 48, art. 51, art. 52, art. 53 ust. 1 pkt 4 i art. 54–56, które wchodzą w życie z dniem ogłoszenia .
+chłodni;
 
+### 3)
+
+magazynów.
+
+### 2.
+
+Wnioski o wydanie świadectw autoryzacji, o których mowa w ust. 1, składa się do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa na formularzach opracowanych przez Krajowy Ośrodek Wsparcia Rolnictwa, udostępnionych na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa.
+
+” ;
+
+### 5)
+
+art. 45a otrzymuje brzmienie:
+
+„
+
+### Art. 45a.
+
+Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w zakresie określonym w rozporządzeniu, o którym mowa w pkt 15 załącznika, wydaje certyfikat jakości masła i odtłuszczonego mleka w proszku przeznaczonych do wykorzystania w ramach mechanizmów Wspólnej Polityki Rolnej w innych państwach członkowskich Unii Europejskiej.”;
+
+” ,
+
+” ,
+
+### b)
+
+uchyla się pkt 6 i 7,
+
+### c)
+
+po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+w art. 48a w ust. 1 wyrazy „Dyrektor oddziału terenowego Agencji” zastępuje się wyrazami „Dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”,”;
+
+” ,
+
+### d)
+
+pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+w art. 48a w ust. 2 we wprowadzeniu do wyliczenia i w ust. 3, w art. 48b w ust. 2 we wprowadzeniu do wyliczenia, w art. 48d w ust. 1, 4 i 7, w art. 48e w ust. 1 w części wspólnej, w ust. 4 we wprowadzeniu do wyliczenia i w ust. 5, w art. 48f we wprowadzeniu do wyliczenia, w art. 48g w ust. 1 i w ust. 2 we wprowadzeniu do wyliczenia, w art. 54o w ust. 1 oraz w art. 55 w ust. 4 wyraz „terenowego” zastępuje się wyrazem „regionalnego”;
+
+” ,
+
+### e)
+
+w pkt 9 lit. a i b otrzymują brzmienie:
+
+„
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji przeprowadza kontrole uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych w zakresie określonym w rozporządzeniu, o którym mowa w pkt 11 załącznika.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa przeprowadza kontrole pierwszych podmiotów skupujących mleko krowie w rozumieniu art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, obowiązanych do przekazywania informacji, o których mowa w art. 2a, oraz podmiotów wymienionych w art. 43 w zakresie wykonywania przez te podmioty obowiązków związanych z zakupem interwencyjnym, sprzedażą interwencyjną i dopłatami do przechowywania w ramach realizacji zadań określonych w ustawie.”,
+
+” ;
+
+” ;
+
+### 6)
+
+w art. 34 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+w art. 6:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1, w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3-9 w brzmieniu:
+
+„
+
+### 3)
+
+na rynkach produktów rolnych i żywnościowych mające na celu stabilizację tych rynków w ramach mechanizmów Wspólnej Polityki Rolnej;
+
+### 4)
+
+w zakresie opracowania i upowszechniania informacji związanych z realizacją mechanizmów Wspólnej Polityki Rolnej i mechanizmów krajowych oraz innych mechanizmów na rynkach produktów rolnych i żywnościowych oraz warunków udziału w tych mechanizmach;
+
+### 5)
+
+w zakresie wsparcia pszczelarstwa w ramach Wspólnej Polityki Rolnej;
+
+### 6)
+
+w zakresie programów krajowych mających na celu pomoc państwa dla podmiotów sektora rolnego oraz sektora rybackiego i ich grup, prowadzących działalność związaną z produkcją, przetwórstwem lub obrotem produktami rolnymi oraz produktami rybołówstwa, w zakresie określonym przepisami Unii Europejskiej lub dopuszczonym tymi przepisami do uregulowania przez państwo członkowskie Unii Europejskiej;
+
+### 7)
+
+w zakresie administrowania obrotem z zagranicą towarami rolnymi w ramach Wspólnej Polityki Rolnej oraz towarami przetworzonymi nieobjętymi załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej (towary z grupy non-aneks I), w szczególności przez:
+
+### a)
+
+wydawanie i rozliczanie pozwoleń na przywóz i wywóz,
+
+### b)
+
+wydawanie dokumentów wymaganych do naliczenia i wypłacenia refundacji wywozowych oraz naliczenia opłat wywozowych,
+
+### c)
+
+naliczanie i wypłacanie refundacji wywozowych i dopłat przywozowych,
+
+### d)
+
+nakładanie kar pieniężnych;
+
+### 8)
+
+określone w przepisach dotyczących:
+
+### a)
+
+rynków owoców i warzyw oraz rynku chmielu,
+
+### b)
+
+grup producentów rolnych i ich związków,
+
+### c)
+
+organizacji rynku mleka i przetworów mlecznych,
+
+### d)
+
+rynku cukru,
+
+### e)
+
+rynku mięsa,
+
+### f)
+
+rynku zbóż,
+
+### g)
+
+wyrobu i rozlewu wyrobów winiarskich, obrotu tymi wyrobami i organizacji rynku wina;
+
+### 9)
+
+związane:
+
+### a)
+
+z udzielaniem dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany,
+
+### b)
+
+ze wspieraniem działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych w ramach Wspólnej Polityki Rolnej,
+
+### c)
+
+z realizacją działań „Modernizacja gospodarstw rolnych” oraz „Zwiększanie wartości dodanej podstawowej produkcji rolnej i leśnej”, objętych Krajowym Programem Restrukturyzacji,
+
+### d)
+
+z przyznawaniem oraz wypłatą pomocy finansowej z tytułu realizacji działań w ramach programu dla szkół, o którym mowa w przepisach o organizacji niektórych rynków rolnych.
+
+” ,
+
+### b)
+
+dodaje się ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+Zadania agencji płatniczej w zakresie dotyczącym:
+
+### 1)
+
+programu dla szkół, o którym mowa w przepisach o organizacji niektórych rynków rolnych,
+
+### 2)
+
+rynku cukru, w tym w zakresie dywersyfikacji przemysłu cukrowniczego, monitorowania produkcji oraz opłat na rynku cukru, przetwarzania cukru przemysłowego i rafinacji cukru przywiezionego spoza Unii Europejskiej,
+
+### 3)
+
+administrowania obrotem z zagranicą towarami rolnymi w ramach Wspólnej Polityki Rolnej oraz towarami przetworzonymi nieobjętymi załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej (towary z grupy non-aneks I),
+
+### 4)
+
+dopłat do przechowywania oraz interwencyjnych zakupów i sprzedaży produktów rolnych na poszczególnych rynkach, w tym masła, odtłuszczonego mleka w proszku, zbóż i mięsa,
+
+### 5)
+
+administrowania potencjałem produkcyjnym winorośli i wina,
+
+### 6)
+
+wspierania działań promocyjnych i informacyjnych na rynkach wybranych produktów rolnych w ramach Wspólnej Polityki Rolnej,
+
+### 7)
+
+realizacji wsparcia pszczelarstwa w ramach Wspólnej Polityki Rolnej
+
+- z wyjątkiem dochodzenia zwrotu nienależnych kwot pomocy oraz dokonywania płatności, o którym mowa w art. 7 ust. 1 akapit drugi rozporządzenia nr 1306/2013, wykonuje, jako zadania delegowane zgodnie z pkt 1.C.1 załącznika I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro ([Dz. Urz. UE L 255 z 28.08.2014, str. 18](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.](#gloss-0:5:)), Krajowy Ośrodek Wsparcia Rolnictwa.
+
+### 3.
+
+Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, szczegółowy tryb i sposób działania Agencji w zakresie administrowania obrotem z zagranicą towarami, o których mowa w ust. 1 pkt 7, mając na względzie stabilizację rynku wewnętrznego oraz monitorowanie przywozu i wywozu produktów rolno-spożywczych w Unii Europejskiej.”;
+
+” ;
+
+” ;
+
+### 7)
+
+w art. 41 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+art. 7 i art. 8 otrzymują brzmienie:
+
+„
+
+### Art. 7.
+
+### 1.
+
+Minister właściwy do spraw rozwoju wsi:
+
+### 1)
+
+przekazuje Komisji Europejskiej informacje, o których mowa w art. 102 rozporządzenia nr 1306/2013;
+
+### 2)
+
+prowadzi sprawy związane z postępowaniami kontrolnymi Komisji Europejskiej, o których mowa w art. 52 rozporządzenia nr 1306/2013.
+
+### 2.
+
+Agencja płatnicza, organy administracji publicznej oraz państwowe i samorządowe jednostki organizacyjne na żądanie ministra właściwego do spraw rozwoju wsi udzielają informacji i wyjaśnień w zakresie dotyczącym spraw, o których mowa w ust. 1 pkt 2.
+
+### Art. 8.
+
+Agencja płatnicza przesyła ministrowi właściwemu do spraw rozwoju wsi dane finansowe i informacje w celu ich przekazania Komisji Europejskiej, w terminach i formie określonych w art. 7 ust. 3 rozporządzenia nr 1306/2013 oraz art. 3, art. 9, art. 10, art. 19-22 i art. 29 rozporządzenia nr 908/2014.”;
+
+” ;
+
+” ;
+
+### 8)
+
+po art. 47 dodaje się art. 47a w brzmieniu:
+
+„
+
+### Art. 47a.
+
+### 1.
+
+Przepisu art. 47 nie stosuje się w sprawach dotyczących przyznania dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, o których mowa w rozdziale 9b ustawy zmienianej w art. 22, za 2017 r.
+
+### 2.
+
+Organem właściwym w sprawach określonych w ust. 1 jest dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, a odwołanie przysługuje do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa.
+
+### 3.
+
+Wszczęte przed dniem wejścia w życie niniejszej ustawy postępowania w sprawach określonych w ust. 1 przez organy ARR prowadzą, z dniem wejścia w życie niniejszej ustawy, stosownie do swojej właściwości organy KOWR.
+
+### 4.
+
+Akta spraw określonych w ust. 1, prowadzone przez organy ARR, z dniem wejścia w życie niniejszej ustawy przejmują właściwe organy KOWR.
+
+### 5.
+
+Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, w terminie 14 dni od dnia, w którym decyzja w sprawach określonych w ust. 1, stała się ostateczna, przekazuje akta sprawy będącej przedmiotem takiej decyzji kierownikowi biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+### 6.
+
+W przypadku wydania decyzji w sprawach określonych w ust. 1 do:
+
+### 1)
+
+uchylenia bądź zmiany takiej decyzji - właściwy jest kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, jeżeli uchylenie bądź zmiana dotyczy decyzji, od której nie wniesiono odwołania, albo dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, gdy decyzja stała się ostateczna na skutek rozpatrzenia odwołania przez organ II instancji;
+
+### 2)
+
+stwierdzenia nieważności decyzji - właściwy jest dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, przy czym jeżeli decyzja została wydana przez Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, właściwy jest Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa;
+
+### 3)
+
+wznowienia postępowania - właściwy jest kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, jeżeli postępowanie, którego wznowienie dotyczy, zakończyło się decyzją, od której nie wniesiono odwołania, albo dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, gdy decyzja stała się ostateczna na skutek rozpatrzenia odwołania przez organ II instancji; w każdym przypadku podanie o wznowienie postępowania wnosi się do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+### 7.
+
+W przypadku stwierdzenia nieważności decyzji w sprawach określonych w ust. 1, po dniu wejścia w życie niniejszej ustawy organem właściwym do rozstrzygania w sprawach określonych w ust. 1 jest kierownik biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+### 8.
+
+Stroną postępowania sądowo-administracyjnego dotyczącego spraw określonych w ust. 1 jest dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+### 9.
+
+W 2017 r. stawki dopłat z tytułu zużytego do siewu lub sadzenia materiału siewnego kategorii elitarny lub kwalifikowany, o których mowa w art. 40c ust. 6 pkt 1 ustawy zmienianej w art. 22, Rada Ministrów określi do dnia 31 października 2017 r.
+
+” ;
+
+### 9)
+
+po art. 52 dodaje się art. 52a w brzmieniu:
+
+„
+
+### Art. 52a.
+
+Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przesyła ministrowi właściwemu do spraw rozwoju wsi dane finansowe i informacje dotyczące wydatków zrealizowanych przez Agencję Rynku Rolnego z Europejskiego Funduszu Rolniczego Gwarancji w okresie od dnia 16 października 2016 r. do dnia 31 sierpnia 2017 r. w celu ich przekazania Komisji Europejskiej, w terminach i formie określonych w art. 7 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 ([Dz. Urz. UE L 347 z 20.12.2013, str. 549](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.](#gloss-0:6:)) oraz art. 3, art. 9, art. 10, art. 19-22 i art. 29 rozporządzenia wykonawczego Komisji (UE) nr 908/2014 z dnia 6 sierpnia 2014 r. ustanawiającego zasady dotyczące stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, przepisów dotyczących kontroli, zabezpieczeń i przejrzystości ([Dz. Urz. UE L 255 z 28.08.2014, str. 59](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 97 z 14.04.2015, str. 5, Dz. Urz. UE L 122 z 19.05.2015, str. 1, Dz. Urz. UE L 316 z 02.12.2015, str. 2, Dz. Urz. UE L 273 z 08.10.2016, str. 31 oraz Dz. Urz. UE L 115 z 04.05.2017, str. 43.](#gloss-0:7:)).
+
+” ;
+
+### 10)
+
+po art. 58 dodaje się art. 58a w brzmieniu:
+
+„
+
+### Art. 58a.
+
+W sprawach określonych w:
+
+### 1)
+
+art. 14 ustawy z dnia 10 lipca 2015 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw ([Dz. U. poz. 1419](https://api.sejm.gov.pl/eli/acts/DU/2015/1419/text.html)),
+
+### 2)
+
+art. 7 ustawy z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. poz. 1888](https://api.sejm.gov.pl/eli/acts/DU/2015/1888/text.html))
+
+- w których właściwy jest dyrektor oddziału terenowego Agencji Rynku Rolnego albo Prezes Agencji Rynku Rolnego, z dniem wejścia w życie niniejszej ustawy jest właściwy odpowiednio dyrektor oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa albo Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa. Przepis art. 47 stosuje się odpowiednio.
+
+” ;
+
+### 11)
+
+w art. 59 uchyla się pkt 2;
+
+### 12)
+
+po art. 59 dodaje się art. 59a w brzmieniu:
+
+„
+
+### Art. 59a.
+
+Działania prowadzone przez Agencję Rynku Rolnego na podstawie przepisów wydanych na podstawie art. 12a ustawy zmienianej w art. 22 związane z rozkładaniem na raty opłaty należnej od producentów mleka za przekroczenie kwot indywidualnych w roku kwotowym 2014/2015 są prowadzone na podstawie przepisów dotychczasowych do dnia zakończenia tych działań, przy czym zadania związane z prowadzeniem tych działań realizuje Krajowy Ośrodek Wsparcia Rolnictwa.
+
+” ;
+
+### 13)
+
+w art. 60:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 19 ust. 2 pkt 2, 14 i 19 ustawy zmienianej w art. 21 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19 ust. 2 pkt 2, 14 i 19 ustawy zmienianej w art. 21,
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 4 i 5 otrzymują brzmienie: „ 4) art. 19 ust. 2 pkt 12 ustawy zmienianej w art. 21, 5) art. 20 ust. 9, art. 27 ust. 3, art. 38x ust. 1, art. 38y ust. 2 oraz art. 38z ustawy zmienianej w art. 22, ” ,
+
+- - pkt 7 otrzymuje brzmienie: „ 7) art. 48a ust. 7 ustawy zmienianej w art. 25, ” .
+
+### Art. 7.
+
+Do umów na dostarczanie produktów rolnych należących do sektorów, o których mowa w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 ([Dz. Urz. UE L 347 z 20.12.2013, str. 671](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 91 z 05.04.2017, str. 44.](#gloss-0:8:)), zwanego dalej „rozporządzeniem nr 1308/2013”, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 8.
+
+Do postępowań w sprawie nałożenia kar pieniężnych, wszczętych na podstawie ustawy zmienianej w art. 1 i niezakończonych decyzją ostateczną do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 9.
+
+### 1.
+
+Do pomocy w sprawach dotyczących realizacji programu „Owoce i warzywa w szkole”, w tym realizacji środków towarzyszących, o których mowa w art. 3 ust. 4 rozporządzenia Komisji (WE) nr 288/2009 z dnia 7 kwietnia 2009 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1234/2007 w odniesieniu do pomocy wspólnotowej przeznaczonej na dostarczanie dzieciom w placówkach oświatowych owoców i warzyw świeżych i przetworzonych oraz produktów z bananów w ramach programu „Owoce w szkole” ([Dz. Urz. UE L 94 z 08.04.2009, str. 38](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 14 z 19.01.2011, str. 6, Dz. Urz. UE L 305 z 23.11.2011, str. 53, Dz. Urz. UE L 14 z 18.01.2013, str. 7, Dz. Urz. UE L 69 z 08.03.2014, str. 102 oraz Dz. Urz. UE L 145 z 16.05.2014, str. 12.](#gloss-0:9:)) albo art. 2 ust. 2 rozporządzenia delegowanego Komisji (UE) 2016/247 z dnia 17 grudnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do pomocy unijnej na dostarczanie i dystrybucję owoców i warzyw, przetworzonych owoców i warzyw oraz produktów z bananów w ramach programu „Owoce i warzywa w szkole” ([Dz. Urz. UE L 46 z 23.02.2016, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), oraz programu „Mleko w szkole” do zakończenia roku szkolnego 2016/2017 stosuje się przepisy dotychczasowe, z tym że od dnia 1 września 2017 r.:
+
+### 1)
+
+zadania w tym zakresie stają się zadaniami Agencji Restrukturyzacji i Modernizacji Rolnictwa, jako agencji płatniczej, a wykonuje je, jako zadania delegowane, Krajowy Ośrodek Wsparcia Rolnictwa, zgodnie z pkt 1.C.1 załącznika I do rozporządzenia delegowanego Komisji (UE) nr 907/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do agencji płatniczych i innych organów, zarządzania finansami, rozliczania rachunków, zabezpieczeń oraz stosowania euro ([Dz. Urz. UE L 255 z 28.08.2014, str. 18](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11.](#gloss-0:10:)), z wyjątkiem dochodzenia zwrotu nienależnych kwot pomocy oraz dokonywania płatności, o którym mowa w art. 7 ust. 1 akapit drugi rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 ([Dz. Urz. UE L 347 z 20.12.2013, str. 549](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.](#gloss-0:11:));
+
+### 2)
+
+dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa jest właściwy w sprawach, w których był właściwy dyrektor oddziału terenowego Agencji Rynku Rolnego, a Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa jest właściwy w sprawach, w których był właściwy Prezes Agencji Rynku Rolnego.
+
+### 2.
+
+Do zadań delegowanych, o których mowa w ust. 1, stosuje się odpowiednio art. 6a ust. 1-4 ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa ([Dz. U. z 2016 r. poz. 1512](https://api.sejm.gov.pl/eli/acts/DU/2016/1512/text.html) i [2048](https://api.sejm.gov.pl/eli/acts/DU/2016/2048/text.html) oraz [z 2017 r. poz. 624](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.html)).
+
+### Art. 10.
+
+### 1.
+
+Podmioty zatwierdzone na podstawie ustawy zmienianej w art. 2 w zakresie dostarczania produktów dzieciom uczęszczającym do placówek oświatowych objętych programem „Owoce i warzywa w szkole” uznaje się za dostawców zatwierdzonych w zakresie określonym w art. 5 ust. 1 lit. a rozporządzenia delegowanego Komisji (UE) 2017/40 z dnia 3 listopada 2016 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013, w odniesieniu do pomocy unijnej na dostarczanie owoców i warzyw, bananów oraz mleka do placówek oświatowych oraz zmieniającego rozporządzenie delegowane Komisji (UE) nr 907/2014 ([Dz. Urz. UE L 5 z 10.01.2017, str. 11](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem 2017/40”, w odniesieniu do grupy produktów obejmującej produkty, o których mowa w art. 23 ust. 3 lit. a oraz ust. 4 lit. a rozporządzenia nr 1308/2013, zgodnie z przepisami ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Podmioty zatwierdzone na podstawie ustawy zmienianej w art. 3 uznaje się za dostawców zatwierdzonych w zakresie określonym w art. 5 ust. 1 lit. a rozporządzenia 2017/40 w odniesieniu do grupy produktów obejmującej produkty, o których mowa w art. 23 ust. 3 lit. b, ust. 4 lit. b oraz ust. 5 rozporządzenia nr 1308/2013, zgodnie z przepisami ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 11.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 3, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 5 i art. 6, które wchodzą w życie z dniem 1 września 2017 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 15 grudnia 2016 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz niektórych innych ustaw, ustawę z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa i ustawę z dnia 10 lutego 2017 r. - Przepisy wprowadzające ustawę o Krajowym Ośrodku Wsparcia Rolnictwa. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 181 z 20.06.2014, str. 1, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 281 z 25.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 135 z 02.06.2015, str. 8, Dz. Urz. UE L 28 z 04.02.2016, str. 8 oraz Dz. Urz. UE L 130 z 19.05.2016, str. 16. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 831, 996, 1020, 1250, 1265, 1579, 1920 i 2260 oraz z 2017 r. poz. 933. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1 oraz Dz. Urz. UE L 129 z 19.05.2017, str. 1. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11. 6) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 97 z 14.04.2015, str. 5, Dz. Urz. UE L 122 z 19.05.2015, str. 1, Dz. Urz. UE L 316 z 02.12.2015, str. 2, Dz. Urz. UE L 273 z 08.10.2016, str. 31 oraz Dz. Urz. UE L 115 z 04.05.2017, str. 43. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 189 z 27.06.2014, str. 261, Dz. Urz. UE L 130 z 19.05.2016, str. 20, Dz. Urz. UE L 135 z 24.05.2016, str. 1, Dz. Urz. UE L 193 z 19.07.2016, str. 17, Dz. Urz. UE L 202 z 28.07.2016, str. 5 oraz Dz. Urz. UE L 91 z 05.04.2017, str. 44. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 14 z 19.01.2011, str. 6, Dz. Urz. UE L 305 z 23.11.2011, str. 53, Dz. Urz. UE L 14 z 18.01.2013, str. 7, Dz. Urz. UE L 69 z 08.03.2014, str. 102 oraz Dz. Urz. UE L 145 z 16.05.2014, str. 12. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 27 z 03.02.2015, str. 7 oraz Dz. Urz. UE L 5 z 10.01.2017, str. 11. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 130 z 19.05.2016, str. 11 oraz Dz. Urz. UE L 135 z 24.05.2016, str. 1.

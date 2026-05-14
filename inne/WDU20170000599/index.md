@@ -8,11 +8,9 @@ pos: 599
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia
-
-*USTAWA z dnia 24 lutego 2017 r.*
+# Ustawa z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty oraz ustawę z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1088 +22,2504 @@ domain: null
 | Data ogłoszenia | 2017-02-24 |
 | Data wydania | 2017-03-20 |
 | Ostatnia zmiana | 2025-07-04 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000599) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/599/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/599/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/599) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustawa określa:
+### Art. 1.
 
-- **1)** zasady ustalania programu szkolenia specjalizacyjnego w dziedzinie mającej zastosowanie w ochronie zdrowia, zwanej dalej „dziedziną ochrony zdrowia”;
-- **2)** zasady uzyskiwania akredytacji do prowadzenia szkolenia specjalizacyjnego w dziedzinie ochrony zdrowia;
-- **3)** zasady sprawowania nadzoru nad prowadzeniem szkolenia specjalizacyjnego, w tym przeprowadzania jego kontroli;
-- **4)** warunki i tryb uzyskiwania tytułu specjalisty w dziedzinie ochrony zdrowia, w tym przystępowania i odbywania szkolenia specjalizacyjnego, a także organizacji i przeprowadzania Państwowego Egzaminu Specjalizacyjnego w dziedzinie ochrony zdrowia, zwanego dalej „PESoz”.
+### 1.
 
-2. (uchylony)
+Ustawa określa:
 
-**Art. 2.** Tytuł specjalisty w dziedzinie ochrony zdrowia, określonej w przepisach wydanych na podstawie art. 46 pkt 1, można uzyskać:
+### 1)
 
-**Art. 3.** Osoba niebędąca obywatelem polskim przystępuje do szkolenia specjalizacyjnego i odbywa je na warunkach i w sposób obowiązujący obywateli polskich.
+zasady ustalania programu szkolenia specjalizacyjnego w dziedzinie mającej zastosowanie w ochronie zdrowia, zwanej dalej „dziedziną ochrony zdrowia”;
 
-**Art. 4.**
+### 2)
 
-1. Program szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia zawiera:
+zasady uzyskiwania akredytacji do prowadzenia szkolenia specjalizacyjnego w dziedzinie ochrony zdrowia;
 
-- **1)** założenia organizacyjno-programowe określające:
-    - **a)** cele kształcenia,
-    - **b)** przewidziane do uzyskania kompetencje zawodowe,
-    - **c)** sposób organizacji szkolenia specjalizacyjnego;
+### 3)
 
-- **2)** liczbę godzin szkolenia specjalizacyjnego, w tym stażu podstawowego;
-- **3)** szczegółowy zakres wiedzy teoretycznej i wykaz umiejętności praktycznych będących przedmiotem szkolenia specjalizacyjnego;
-- **4)** moduły szkolenia specjalizacyjnego oraz formy i metody kształcenia stosowane w ramach poszczególnych modułów, w tym:
-    - **a)** kursy specjalizacyjne obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych wraz z liczbą godzin, w tym kurs w zakresie prawa medycznego,
-    - **b)** staże kierunkowe obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych oraz informacje dotyczące miejsca odbywania, liczby godzin i sposobu zaliczenia poszczególnych staży kierunkowych;
+zasady sprawowania nadzoru nad prowadzeniem szkolenia specjalizacyjnego, w tym przeprowadzania jego kontroli;
 
-- **5)** formy i metody samokształcenia, w tym przygotowanie opracowania teoretycznego, pracy poglądowej lub pracy oryginalnej, których temat odpowiada programowi szkolenia specjalizacyjnego;
-- **6)** metody oceny wiedzy teoretycznej i umiejętności praktycznych, w tym:
-    - **a)** kolokwium z zakresu wiedzy teoretycznej objętej programem danego modułu,
-    - **b)** kolokwium z zakresu wiedzy teoretycznej i sprawdzian umiejętności praktycznych objętych programem danego stażu kierunkowego,
-    - **c)** sprawdzian z zakresu objętego programem danego kursu specjalizacyjnego,
-    - **d)** ocenę opracowania teoretycznego, pracy poglądowej lub pracy oryginalnej.
+### 4)
 
-2. Program szkolenia specjalizacyjnego określa także standardy kształcenia w szkoleniu specjalizacyjnym dotyczące:
+warunki i tryb uzyskiwania tytułu specjalisty w dziedzinie ochrony zdrowia, w tym przystępowania i odbywania szkolenia specjalizacyjnego, a także organizacji i przeprowadzania Państwowego Egzaminu Specjalizacyjnego w dziedzinie ochrony zdrowia, zwanego dalej „PESoz”.
 
-- **1)** liczebności i kwalifikacji kadry dydaktycznej;
-- **2)** bazy dydaktycznej do prowadzenia szkolenia specjalizacyjnego;
-- **3)** sposobu realizacji programu szkolenia specjalizacyjnego;
-- **4)** wewnętrznego systemu oceny jakości kształcenia, uwzględniającego narzędzia oceny jakości kształcenia oraz metody tej oceny.
+### 2.
 
-**Art. 5.**
+Ustawa nie dotyczy osób wykonujących zawody medyczne, dla których zasady uzyskiwania tytułu specjalisty określają przepisy regulujące wykonywanie tych zawodów.
 
-1. Program szkolenia specjalizacyjnego opracowuje zespół ekspertów powoływany przez dyrektora Centrum Medycznego Kształcenia Podyplomowego, zwanego dalej „CMKP”.
+### Art. 2.
 
-2. W skład zespołu ekspertów, o którym mowa w ust. 1, wchodzą:
+Tytuł specjalisty w dziedzinie ochrony zdrowia, określonej w przepisach wydanych na podstawie art. 46 pkt 1, można uzyskać:
 
-- **1)** konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **2)** 2 osoby posiadające tytuł specjalisty w danej dziedzinie ochrony zdrowia lub legitymujące się dorobkiem naukowym i zawodowym w tej dziedzinie, zgłoszone przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **3)** przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
-- **4)** przedstawiciel CMKP.
+### 1)
 
-3. Program szkolenia specjalizacyjnego opracowany przez zespół ekspertów, o którym mowa w ust. 1, i zredagowany przez CMKP zatwierdza minister właściwy do spraw zdrowia.
+po ukończeniu w ramach kształcenia podyplomowego jednostopniowego szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia na podstawie programu szkolenia specjalizacyjnego w tej dziedzinie albo
 
-4. Zatwierdzony przez ministra właściwego do spraw zdrowia program szkolenia specjalizacyjnego CMKP zamieszcza na stronie internetowej CMKP i w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 5 ust. 1 pkt 2 lit. i ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465 oraz z 2024 r. poz. 1897), zwanym dalej „SMK”.
+### 2)
 
-5. Zespół ekspertów, o którym mowa w ust. 1, aktualizuje program szkolenia specjalizacyjnego zgodnie z postępem wiedzy, nie rzadziej jednak niż raz na 5 lat. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+po uznaniu dotychczasowego dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia
 
-6. Obsługę organizacyjną i finansowanie pracy zespołu ekspertów, o którym mowa w ust. 1, zapewnia CMKP.
+- oraz po zdaniu PESoz.
 
-**Art. 6.**
+### Art. 3.
 
-1. Szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia, zwane dalej „szkoleniem specjalizacyjnym”, może być prowadzone przez podmiot, który został wpisany na listę jednostek posiadających akredytację. Listę jednostek posiadających akredytację prowadzi dyrektor CMKP za pomocą SMK.
+Osoba niebędąca obywatelem polskim przystępuje do szkolenia specjalizacyjnego i odbywa je na warunkach i w sposób obowiązujący obywateli polskich.
 
-2. Akredytację może uzyskać podmiot, który:
+### Art. 4.
 
-- **1)** prowadzi działalność odpowiadającą profilowi szkolenia specjalizacyjnego, które ma być prowadzone;
-- **2)** spełnia standardy kształcenia w szkoleniu specjalizacyjnym określone w programie szkolenia specjalizacyjnego;
-- **3)** powołał zespół do spraw szkolenia specjalizacyjnego, którego zadaniem jest koordynowanie i organizowanie szkolenia specjalizacyjnego;
-- **4)** zawarł porozumienia z innymi podmiotami dotyczące prowadzenia kursów specjalizacyjnych lub staży kierunkowych określonych w programie szkolenia specjalizacyjnego, których prowadzenia nie może zapewnić w ramach swojej struktury organizacyjnej;
-- **5)** zawarł umowy dotyczące pełnienia obowiązków kierowników specjalizacji z osobami spełniającymi wymagania, o których mowa w art. 19 ust. 3;
-- **6)** opracował regulamin organizacyjny szkolenia specjalizacyjnego.
+### 1.
 
-3. Regulamin organizacyjny szkolenia specjalizacyjnego, o którym mowa w ust. 2 pkt 6, określa:
+Program szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia zawiera:
 
-- **1)** maksymalną liczbę miejsc szkoleniowych na szkolenie specjalizacyjne;
-- **2)** organizację szkolenia specjalizacyjnego, w tym harmonogram kursów specjalizacyjnych i staży kierunkowych;
-- **3)** zakres obowiązków osób odbywających szkolenie specjalizacyjne;
-- **4)** szczegółowy zakres obowiązków kierowników specjalizacji, opiekunów staży kierunkowych i innych osób wchodzących w skład kadry dydaktycznej;
-- **5)** metody sprawdzania wiedzy teoretycznej i umiejętności praktycznych osób odbywających szkolenie specjalizacyjne;
-- **6)** sposoby oceny organizacji i przebiegu szkolenia specjalizacyjnego przez osoby odbywające szkolenie specjalizacyjne.
+### 1)
 
-4. Podmiot ubiegający się o uzyskanie akredytacji składa do dyrektora CMKP, za pomocą SMK, wniosek o udzielenie akredytacji, w postaci elektronicznej, opatrzony kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+założenia organizacyjno-programowe określające:
 
-5. Wniosek, o którym mowa w ust. 4, zawiera:
+### a)
 
-- **1)** nazwę i adres siedziby podmiotu ubiegającego się o uzyskanie akredytacji;
-- **2)** określenie dziedziny ochrony zdrowia, w której ma być prowadzone szkolenie specjalizacyjne;
-- **3)** liczebność i kwalifikacje kadry dydaktycznej prowadzącej zajęcia teoretyczne i praktyczne na kursach specjalizacyjnych i stażach kierunkowych, ze wskazaniem posiadanych przez osoby wchodzące w jej skład tytułów specjalisty, specjalizacji, stopni lub tytułów naukowych;
-- **4)** opis bazy dydaktycznej i sposobu realizacji programu szkolenia specjalizacyjnego;
-- **5)** plan realizacji programu szkolenia specjalizacyjnego;
-- **6)** oświadczenie o spełnianiu warunków, o których mowa w ust. 2.
+cele kształcenia,
 
-6. Do wniosku, o którym mowa w ust. 4, dołącza się:
+### b)
 
-- **1)** elektroniczną kopię dokumentów potwierdzających status prawny podmiotu ubiegającego się o uzyskanie akredytacji;
-- **2)** informacje o dotychczasowym przebiegu działalności prowadzonej przez podmiot ubiegający się o uzyskanie akredytacji;
-- **3)** elektroniczną kopię dokumentów potwierdzających spełnianie warunków, o których mowa w ust. 2.
+przewidziane do uzyskania kompetencje zawodowe,
 
-7. Wniosek, o którym mowa w ust. 4, składa się nie później niż na 4 miesiące przed planowanym terminem rozpoczęcia szkolenia specjalizacyjnego.
+### c)
 
-8. Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 4, oraz dokumenty, o których mowa w ust. 6, a w przypadku stwierdzenia braków formalnych wzywa, za pomocą SMK, podmiot ubiegający się o uzyskanie akredytacji do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
+sposób organizacji szkolenia specjalizacyjnego;
 
-9. W celu uzyskania opinii w sprawie spełniania przez podmiot ubiegający się o uzyskanie akredytacji warunków, o których mowa w ust. 2, dyrektor CMKP powołuje zespół ekspertów w składzie:
+### 2)
 
-- **1)** 3 osoby zgłoszone przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **2)** przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń.
+liczbę godzin szkolenia specjalizacyjnego, w tym stażu podstawowego;
 
-10. Dyrektor CMKP wskazuje termin wydania opinii, o której mowa w ust. 9, nie krótszy jednak niż 2 miesiące.
+### 3)
 
-11. Zespół ekspertów, o którym mowa w ust. 9, przekazuje swoją opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia. Wniosek, o którym mowa w ust. 4, może być opiniowany w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności.
+szczegółowy zakres wiedzy teoretycznej i wykaz umiejętności praktycznych będących przedmiotem szkolenia specjalizacyjnego;
 
-12. Dyrektor CMKP:
+### 4)
 
-- **1)** w przypadku gdy opinia, o której mowa w ust. 9, jest pozytywna, dokonuje wpisu podmiotu ubiegającego się o uzyskanie akredytacji na listę jednostek posiadających akredytację, na okres 5 lat, wraz z określeniem maksymalnej liczby miejsc szkoleniowych na szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia;
-- **2)** w przypadku gdy opinia, o której mowa w ust. 9, jest negatywna, odmawia, w drodze decyzji, wpisu podmiotu ubiegającego się o uzyskanie akredytacji na listę jednostek posiadających akredytację.
+moduły szkolenia specjalizacyjnego oraz formy i metody kształcenia stosowane w ramach poszczególnych modułów, w tym:
 
-13. Informację o odmowie wpisu, o której mowa w ust. 12 pkt 2, dyrektor CMKP zamieszcza w SMK.
+### a)
 
-14. Od decyzji, o której mowa w ust. 12 pkt 2, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+kursy specjalizacyjne obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych wraz z liczbą godzin, w tym kurs w zakresie prawa medycznego,
 
-15. Dyrektor CMKP przed upływem okresu, o którym mowa w ust. 12 pkt 1, dokonuje oceny spełniania przez podmiot wpisany na listę jednostek posiadających akredytację, zwany dalej „jednostką szkolącą”, warunków, o których mowa w ust. 2. Dyrektor CMKP występuje do jednostki szkolącej co najmniej na 6 miesięcy przed upływem okresu, o którym mowa w ust. 12 pkt 1, o przedstawienie dokumentów potwierdzających spełnianie warunków, o których mowa w ust. 2. Przepisy ust. 2– 14 stosuje się odpowiednio.
+### b)
 
-16. Dyrektor CMKP zamieszcza i aktualizuje na stronie internetowej CMKP oraz w SMK listę jednostek posiadających akredytację.
+staże kierunkowe obejmujące szczegółowy zakres wiedzy teoretycznej i umiejętności praktycznych oraz informacje dotyczące miejsca odbywania, liczby godzin i sposobu zaliczenia poszczególnych staży kierunkowych;
 
-17. W przypadku gdy jednostka szkoląca przestała spełniać warunki, o których mowa w ust. 2, powiadamia o tym niezwłocznie wojewodę i dyrektora CMKP.
+### 5)
 
-18. Dyrektor CMKP, w drodze decyzji, skreśla z listy jednostek posiadających akredytację jednostkę szkolącą, która przestała spełniać warunki, o których mowa w ust. 2, albo nie realizuje programu szkolenia specjalizacyjnego.
+formy i metody samokształcenia, w tym przygotowanie opracowania teoretycznego, pracy poglądowej lub pracy oryginalnej, których temat odpowiada programowi szkolenia specjalizacyjnego;
 
-19. Od decyzji, o której mowa w ust. 18, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+### 6)
 
-**Art. 7.**
+metody oceny wiedzy teoretycznej i umiejętności praktycznych, w tym:
 
-1. Jednostki szkolące przekazują do wojewody, za pomocą SMK, informacje o wolnych miejscach szkoleniowych na szkolenie specjalizacyjne w poszczególnych dziedzinach ochrony zdrowia co najmniej na 2 miesiące przed terminem postępowania kwalifikacyjnego.
+### a)
 
-2. Na podstawie informacji, o których mowa w ust. 1, wojewoda ustala i zamieszcza w SMK, co najmniej na miesiąc przed terminem postępowania kwalifikacyjnego, informację o liczbie wolnych miejsc szkoleniowych w poszczególnych jednostkach szkolących na dane postępowanie kwalifikacyjne, w tym dla osób, o których mowa w art. 52.
+kolokwium z zakresu wiedzy teoretycznej objętej programem danego modułu,
 
-**Art. 8.**
+### b)
 
-1. Do szkolenia specjalizacyjnego może przystąpić osoba, która:
+kolokwium z zakresu wiedzy teoretycznej i sprawdzian umiejętności praktycznych objętych programem danego stażu kierunkowego,
 
-- **1)** posiada tytuł zawodowy magistra lub równorzędny uzyskany po ukończeniu studiów na kierunku określonym w przepisach wydanych na podstawie art. 46 pkt 3 oraz
-- **2)** została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
+### c)
 
-2. Do szkolenia specjalizacyjnego może przystąpić także osoba, która:
+sprawdzian z zakresu objętego programem danego kursu specjalizacyjnego,
 
-- **1)** posiada tytuł zawodowy magistra lub równorzędny uzyskany po ukończeniu studiów na kierunku innym niż określony w przepisach wydanych na podstawie art. 46 pkt 3 oraz
-- **2)** wykonywała co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia i uzyskała zgodę dyrektora CMKP na odbycie szkolenia specjalizacyjnego, oraz
-- **3)** została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
+### d)
 
-3. Do szkolenia specjalizacyjnego w dziedzinie chirurgiczna asysta lekarza, o której mowa w przepisach wydanych na podstawie art. 46 pkt 1, może przystąpić także osoba, która:
+ocenę opracowania teoretycznego, pracy poglądowej lub pracy oryginalnej.
 
-- **1)** posiada tytuł zawodowy licencjata po ukończeniu studiów na kierunku ratownictwo medyczne lub licencjata pielęgniarstwa po ukończeniu studiów na kierunku pielęgniarstwo oraz
-- **2)** wykonywała co najmniej przez 3 lata czynności zawodowe, o których mowa w art. 33 ust. 1 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. z 2023 r. poz. 2187 oraz z 2024 r. poz. 1897) lub w art. 4 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, 854 i 1897 oraz z 2025 r. poz. 129), pod warunkiem wystawienia przez podmiot leczniczy zaświadczenia potwierdzającego zapotrzebowanie w tym podmiocie leczniczym na osoby posiadające tę specjalizację, oraz
-- **3)** została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
+### 2.
 
-**Art. 9.**
+Program szkolenia specjalizacyjnego określa także standardy kształcenia w szkoleniu specjalizacyjnym dotyczące:
 
-1. Konto w SMK zakłada w celu dokonywania czynności w tym systemie:
+### 1)
 
-- **1)** osoba, o której mowa w art. 8;
-- **2)** kierownik specjalizacji.
+liczebności i kwalifikacji kadry dydaktycznej;
 
-2. Warunkiem dokonywania przez osobę określoną w ust. 1 czynności za pomocą SMK jest potwierdzenie tożsamości osoby, która konto założyła, i weryfikacja uprawnień tej osoby.
+### 2)
 
-3. Potwierdzenia tożsamości, o którym mowa w ust. 2, dokonuje się na podstawie wniosku o nadanie uprawnień:
+bazy dydaktycznej do prowadzenia szkolenia specjalizacyjnego;
 
-- **1)** opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub
-- **2)** potwierdzonego przez wojewodę w zakresie tożsamości osoby, która konto założyła.
+### 3)
 
-4. Weryfikacji uprawnień, o której mowa w ust. 2, dokonuje w stosunku do:
+sposobu realizacji programu szkolenia specjalizacyjnego;
 
-- **1)** osoby, o której mowa w art. 8 – wojewoda;
-- **2)** kierownika specjalizacji – właściwa jednostka szkoląca.
+### 4)
 
-**Art. 10.**
+wewnętrznego systemu oceny jakości kształcenia, uwzględniającego narzędzia oceny jakości kształcenia oraz metody tej oceny.
 
-1. Osoba, o której mowa w art. 8 ust. 2 pkt 1, która wykonywała co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia, w celu uzyskania zgody na odbycie szkolenia specjalizacyjnego składa wniosek do dyrektora CMKP.
+### Art. 5.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### 1.
 
-- **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **4)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **5)** określenie przedmiotu wniosku;
-- **6)** nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
-- **7)** informację o:
-    - **a)** wykonywaniu czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia,
-    - **b)** aktualnym miejscu zatrudnienia,
-    - **c)** posiadanym stopniu lub tytule naukowym,
-    - **d)** posiadanych tytułach specjalisty lub specjalizacjach.
+Program szkolenia specjalizacyjnego opracowuje zespół ekspertów powoływany przez dyrektora Centrum Medycznego Kształcenia Podyplomowego, zwanego dalej „CMKP”.
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się:
+### 2.
 
-- **1)** kopię:
-    - **a)** dyplomu ukończenia studiów wyższych,
-    - **b)** dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego,
-    - **c)** dyplomu potwierdzającego posiadanie tytułu specjalisty lub specjalizacji;
+W skład zespołu ekspertów, o którym mowa w ust. 1, wchodzą:
 
-- **2)** kopię dokumentu potwierdzającego wykonywanie co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
+### 1)
 
-4. Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 3, a w przypadku stwierdzenia braków formalnych wzywa wnioskodawcę do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
+konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
 
-5. Dyrektor CMKP w celu uzyskania opinii w sprawie wykonywania czynności zawodowych, o których mowa w art. 8 ust. 2 pkt 2, przekazuje wniosek, o którym mowa w ust. 1, wraz z załączonymi do niego dokumentami zespołowi ekspertów, o którym mowa w art. 5 ust. 1, oraz ustala termin i miejsce posiedzenia tego zespołu.
+### 2)
 
-6. Zespół ekspertów, o którym mowa w art. 5 ust. 1, przekazuje opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia.
+2 osoby posiadające tytuł specjalisty w danej dziedzinie ochrony zdrowia lub legitymujące się dorobkiem naukowym i zawodowym w tej dziedzinie, zgłoszone przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
 
-7. Dyrektor CMKP na podstawie opinii, o której mowa w ust. 5, w drodze decyzji, wydaje zgodę na odbycie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia albo odmawia jej wydania.
+### 3)
 
-8. Od decyzji, o której mowa w ust. 7, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
 
-**Art. 11.**
+### 4)
 
-1. Osoba ubiegająca się o odbywanie szkolenia specjalizacyjnego składa, za pomocą SMK, do wojewody właściwego ze względu na obszar województwa, na terenie którego zamierza odbywać szkolenie specjalizacyjne, wniosek o rozpoczęcie tego szkolenia.
+przedstawiciel CMKP.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### 3.
 
-- **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **4)** obywatelstwo (obywatelstwa);
-- **5)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **6)** nazwę i numer dokumentu, na podstawie którego cudzoziemiec niebędący obywatelem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwa członkowskiego Europejskiego Obszaru Gospodarczego przebywa na terytorium Rzeczypospolitej Polskiej;
-- **7)** informację o posiadanym stopniu lub tytule naukowym;
-- **8)** wykaz publikacji, których autorem albo współautorem jest wnioskodawca;
-- **9)** wnioskowany tryb odbywania szkolenia specjalizacyjnego.
+Program szkolenia specjalizacyjnego opracowany przez zespół ekspertów, o którym mowa w ust. 1, i zredagowany przez CMKP zatwierdza minister właściwy do spraw zdrowia.
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się elektroniczną kopię:
+### 4.
 
-- **1)** dyplomu ukończenia studiów wyższych;
-- **2)** dokumentu potwierdzającego okres wykonywania czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego, o których mowa w art. 12 ust. 6 pkt 1;
-- **3)** dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego;
-- **4)** zgody dyrektora CMKP na odbywanie szkolenia specjalizacyjnego – w przypadku osoby, o której mowa w art. 8 ust. 2 pkt 1;
-- **5)** zaświadczenia wystawionego przez podmiot leczniczy potwierdzającego zapotrzebowanie w tym podmiocie leczniczym na osoby posiadające specjalizację – w przypadku osób, o których mowa w art. 8 ust. 3 pkt 1;
-- **6)** dokumentu potwierdzającego okres wykonywania czynności zawodowych.
+Zatwierdzony przez ministra właściwego do spraw zdrowia program szkolenia specjalizacyjnego CMKP zamieszcza na stronie internetowej CMKP i w Systemie Monitorowania Kształcenia Pracowników Medycznych, o którym mowa w art. 5 ust. 1 pkt 2 lit. i ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ([Dz. U. z 2016 r. poz. 1535](https://api.sejm.gov.pl/eli/acts/DU/2016/1535/text.html), [1579](https://api.sejm.gov.pl/eli/acts/DU/2016/1579/text.html) i [2020](https://api.sejm.gov.pl/eli/acts/DU/2016/2020/text.html)), zwanym dalej „SMK”.
 
-4. Wniosek, o którym mowa w ust. 1, składa się w terminie:
+### 5.
 
-- **1)** od dnia 15 listopada do dnia 15 grudnia – na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 16 grudnia do dnia 15 stycznia;
-- **2)** od dnia 30 kwietnia do dnia 31 maja – na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 1 czerwca do dnia 30 czerwca.
+Zespół ekspertów, o którym mowa w ust. 1, aktualizuje program szkolenia specjalizacyjnego zgodnie z postępem wiedzy, nie rzadziej jednak niż raz na 5 lat. Przepisy ust. 3 i 4 stosuje się odpowiednio.
 
-5. Wojewoda potwierdza elektronicznie zapisanie danych zawartych we wniosku, o którym mowa w ust. 1.
+### 6.
 
-6. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej złożenie wniosku, o którym mowa w ust. 1, w okresie tygodnia przed upływem terminów, o których mowa w ust. 4, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przedłużenie terminu przez operatora systemu następuje z urzędu.
+Obsługę organizacyjną i finansowanie pracy zespołu ekspertów, o którym mowa w ust. 1, zapewnia CMKP.
 
-7. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 4. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+### Art. 6.
 
-**Art. 12.**
+### 1.
 
-1. W celu zakwalifikowania osoby ubiegającej się o odbywanie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia do odbywania tego szkolenia wojewoda przeprowadza postępowanie kwalifikacyjne.
+Szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia, zwane dalej „szkoleniem specjalizacyjnym”, może być prowadzone przez podmiot, który został wpisany na listę jednostek posiadających akredytację. Listę jednostek posiadających akredytację prowadzi dyrektor CMKP za pomocą SMK.
 
-2. Osoba ubiegająca się o odbywanie szkolenia specjalizacyjnego może przystąpić do postępowania kwalifikacyjnego tylko w jednej dziedzinie ochrony zdrowia i tylko w jednym województwie.
+### 2.
 
-3. Postępowanie kwalifikacyjne przeprowadza się dwa razy w roku: w terminie od dnia 16 grudnia do dnia 15 stycznia oraz w terminie od dnia 1 czerwca do dnia 30 czerwca.
+Akredytację może uzyskać podmiot, który:
 
-3a. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 3. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+### 1)
 
-4. Postępowanie kwalifikacyjne obejmuje ocenę spełniania warunków określonych w art. 8 ust. 1 pkt 1, w art. 8 ust. 2 pkt 1 i 2 albo w art. 8 ust. 3 pkt 1 i 2 oraz – w przypadku gdy liczba osób spełniających te warunki jest większa niż liczba miejsc szkoleniowych – postępowanie konkursowe.
+prowadzi działalność odpowiadającą profilowi szkolenia specjalizacyjnego, które ma być prowadzone;
 
-5. Postępowanie konkursowe przeprowadza komisja powoływana przez wojewodę spośród pracowników urzędu wojewódzkiego.
+### 2)
 
-6. W postępowaniu konkursowym przyznaje się punkty za:
+spełnia standardy kształcenia w szkoleniu specjalizacyjnym określone w programie szkolenia specjalizacyjnego;
 
-- **1)** okres wykonywania czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia – 1 punkt za każdy rok wykonywania tych czynności, maksymalnie 10 punktów;
-- **2)** posiadanie:
-    - **a)** stopnia naukowego – 2 punkty,
-    - **b)** tytułu naukowego – 5 punktów;
+### 3)
 
-- **3)** autorstwo albo współautorstwo jednej publikacji – 0,5 punktu, maksymalnie 5 punktów.
+powołał zespół do spraw szkolenia specjalizacyjnego, którego zadaniem jest koordynowanie i organizowanie szkolenia specjalizacyjnego;
 
-7. W przypadku gdy co najmniej 2 osoby ubiegające się o odbywanie szkolenia specjalizacyjnego uzyskały tę samą liczbę punktów, uwzględnia się wynik studiów na dyplomie ukończenia studiów wyższych.
+### 4)
 
-8. W przypadku gdy co najmniej 2 osoby ubiegające się o odbywanie szkolenia specjalizacyjnego mają ten sam wynik studiów na dyplomie ukończenia studiów wyższych, uwzględnia się średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku, ze wskazaniem skali ocen, jaka obowiązywała na uczelni.
+zawarł porozumienia z innymi podmiotami dotyczące prowadzenia kursów specjalizacyjnych lub staży kierunkowych określonych w programie szkolenia specjalizacyjnego, których prowadzenia nie może zapewnić w ramach swojej struktury organizacyjnej;
 
-9. W przypadku, o którym mowa w ust. 8, wojewoda niezwłocznie wzywa, za pomocą SMK, osobę ubiegającą się o odbywanie szkolenia specjalizacyjnego do dostarczenia dokumentu poświadczającego średnią ocen, o której mowa w ust. 8, albo jego elektronicznej kopii.
+### 5)
 
-10. Do odbywania szkolenia specjalizacyjnego kwalifikuje się osoby ubiegające się o odbywanie szkolenia specjalizacyjnego w liczbie odpowiadającej liczbie wolnych miejsc szkoleniowych, o których mowa w art. 7 ust. 2, w kolejności od najwyższego wyniku uzyskanego w postępowaniu konkursowym.
+zawarł umowy dotyczące pełnienia obowiązków kierowników specjalizacji z osobami spełniającymi wymagania, o których mowa w art. 19 ust. 3;
 
-11. O wyniku postępowania kwalifikacyjnego wojewoda zawiadamia, za pomocą SMK, osobę ubiegającą się o odbywanie szkolenia specjalizacyjnego.
+### 6)
 
-12. Osoba, która nie została zakwalifikowana do odbywania szkolenia specjalizacyjnego, może złożyć do wojewody wniosek o weryfikację postępowania kwalifikacyjnego w terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 11. O wyniku weryfikacji wojewoda zawiadamia tę osobę, za pomocą SMK, w terminie 7 dni od dnia otrzymania wniosku.
+opracował regulamin organizacyjny szkolenia specjalizacyjnego.
 
-13. Osobie zakwalifikowanej do odbywania szkolenia specjalizacyjnego wojewoda wskazuje, za pomocą SMK, jednostkę szkolącą posiadającą wolne miejsce szkoleniowe.
+### 3.
 
-14. W przypadku gdy osoba ubiegająca się o odbywanie szkolenia specjalizacyjnego zrezygnuje z rozpoczęcia tego szkolenia, wojewoda kieruje na to szkolenie kolejną osobę z listy wyłonioną w postępowaniu kwalifikacyjnym.
+Regulamin organizacyjny szkolenia specjalizacyjnego, o którym mowa w ust. 2 pkt 6, określa:
 
-**Art. 13.**
+### 1)
 
-1. Osobie zakwalifikowanej do odbywania szkolenia specjalizacyjnego wojewoda tworzy w SMK elektroniczną kartę przebiegu szkolenia specjalizacyjnego, zwaną dalej „EKS”, oraz określa w niej planowaną datę rozpoczęcia szkolenia specjalizacyjnego.
+maksymalną liczbę miejsc szkoleniowych na szkolenie specjalizacyjne;
 
-2. EKS zawiera:
+### 2)
 
-- **1)** dane dotyczące osoby, o której mowa w ust. 1:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę i miejsce urodzenia,
-    - **c)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania,
-    - **d)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada,
-    - **e)** nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy,
-    - **f)** numer i datę wydania dyplomu ukończenia studiów wyższych,
-    - **g)** informację o posiadanym stopniu lub tytule naukowym;
+organizację szkolenia specjalizacyjnego, w tym harmonogram kursów specjalizacyjnych i staży kierunkowych;
 
-- **2)** dane dotyczące przebiegu szkolenia specjalizacyjnego, w tym nazwę i adres siedziby jednostki szkolącej;
-- **3)** oznaczenie wojewody, który utworzył EKS.
+### 3)
 
-3. EKS z wymaganymi wpisami stanowi dowód odbycia szkolenia specjalizacyjnego.
+zakres obowiązków osób odbywających szkolenie specjalizacyjne;
 
-**Art. 14.**
+### 4)
 
-1. Osoba zakwalifikowana do odbywania szkolenia specjalizacyjnego rozpoczyna je w terminie nie dłuższym niż 3 miesiące, licząc od daty określonej w EKS jako planowana data rozpoczęcia szkolenia. Kierownik specjalizacji potwierdza w EKS faktyczną datę rozpoczęcia szkolenia specjalizacyjnego.
+szczegółowy zakres obowiązków kierowników specjalizacji, opiekunów staży kierunkowych i innych osób wchodzących w skład kadry dydaktycznej;
 
-2. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób zakwalifikowanych do rozpoczęcia szkolenia specjalizacyjnego, minister właściwy do spraw zdrowia może wydłużyć czas na rozpoczęcie szkolenia specjalizacyjnego o okres nie dłuższy niż 6 miesięcy. W przypadku nieustania okoliczności będących podstawą przedłużenia czasu rozpoczęcia szkolenia specjalizacyjnego, minister właściwy do spraw zdrowia może powtórnie przedłużyć czas rozpoczęcia szkolenia o okres nie dłuższy niż 3 miesiące.
+### 5)
 
-**Art. 15.**
+metody sprawdzania wiedzy teoretycznej i umiejętności praktycznych osób odbywających szkolenie specjalizacyjne;
 
-1. Dyrektor CMKP prowadzi rejestr osób odbywających szkolenie specjalizacyjne na obszarze danego województwa, zwany dalej „rejestrem”, za pomocą SMK, na podstawie danych na bieżąco zamieszczanych w SMK przez wojewodów.
+### 6)
 
-2. Rejestr zawiera:
+sposoby oceny organizacji i przebiegu szkolenia specjalizacyjnego przez osoby odbywające szkolenie specjalizacyjne.
 
-- **1)** numer wpisu do rejestru składający się z ciągu kolejnych znaków:
-    - **a)** unikalnego identyfikatora wpisu,
-    - **b)** numeru PESEL, a w przypadku jego braku – cech dokumentu potwierdzającego tożsamość: nazwy i numeru dokumentu oraz państwa jego wydania;
+### 4.
 
-- **2)** imię (imiona) i nazwisko osoby odbywającej szkolenie specjalizacyjne;
-- **3)** obywatelstwo (obywatelstwa) osoby odbywającej szkolenie specjalizacyjne;
-- **4)** numer i datę wydania dyplomu ukończenia studiów wyższych oraz określenie kierunku studiów;
-- **5)** określenie dziedziny ochrony zdrowia, w której jest odbywane szkolenie specjalizacyjne;
-- **6)** nazwę i adres siedziby jednostki szkolącej;
-- **7)** imię i nazwisko kierownika specjalizacji;
-- **8)** datę przeprowadzenia postępowania kwalifikacyjnego;
-- **9)** datę utworzenia EKS i jej numer;
-- **10)** datę rozpoczęcia i ukończenia szkolenia specjalizacyjnego;
-- **11)** datę, od której nastąpiło obniżenie wymiaru godzin szkolenia specjalizacyjnego, i liczbę godzin, o którą obniżono wymiar godzin;
-- **12)** datę skreślenia z rejestru;
-- **13)** datę uzyskania tytułu specjalisty w danej dziedzinie ochrony zdrowia.
+Podmiot ubiegający się o uzyskanie akredytacji składa do dyrektora CMKP, za pomocą SMK, wniosek o udzielenie akredytacji, w postaci elektronicznej, opatrzony kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP.
 
-**Art. 16.**
+### 5.
 
-1. Wojewoda, w drodze decyzji, skreśla z rejestru osobę odbywającą szkolenie specjalizacyjne w przypadku:
+Wniosek, o którym mowa w ust. 4, zawiera:
 
-- **1)** nierozpoczęcia szkolenia specjalizacyjnego w terminie 3 miesięcy od daty określonej w EKS jako planowana data rozpoczęcia szkolenia specjalizacyjnego;
-- **2)** zaprzestania odbywania szkolenia specjalizacyjnego;
-- **3)** nierealizowania programu szkolenia specjalizacyjnego;
-- **4)** wniosku osoby odbywającej szkolenie specjalizacyjne.
+### 1)
 
-2. W przypadku, o którym mowa w ust. 1 pkt 3, skreślenie następuje po otrzymaniu zawiadomienia kierownika specjalizacji o nierealizowaniu programu szkolenia specjalizacyjnego i po uzyskaniu opinii konsultanta wojewódzkiego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego.
+nazwę i adres siedziby podmiotu ubiegającego się o uzyskanie akredytacji;
 
-3. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+### 2)
 
-4. Wojewoda zamieszcza informację o skreśleniu z rejestru w SMK.
+określenie dziedziny ochrony zdrowia, w której ma być prowadzone szkolenie specjalizacyjne;
 
-**Art. 17.**
+### 3)
 
-1. Szkolenie specjalizacyjne może być odbywane:
+liczebność i kwalifikacje kadry dydaktycznej prowadzącej zajęcia teoretyczne i praktyczne na kursach specjalizacyjnych i stażach kierunkowych, ze wskazaniem posiadanych przez osoby wchodzące w jej skład tytułów specjalisty, specjalizacji, stopni lub tytułów naukowych;
 
-- **1)** na podstawie umowy o pracę zawartej z jednostką szkolącą na czas nieokreślony albo określony równy co najmniej okresowi trwania szkolenia specjalizacyjnego;
-- **2)** na podstawie umowy zawartej z jednostką szkolącą na czas trwania szkolenia specjalizacyjnego, określającej w szczególności wzajemne prawa i obowiązki wynikające z realizacji programu szkolenia specjalizacyjnego;
-- **3)** na podstawie umowy zawartej z innym podmiotem niż jednostka szkoląca i na podstawie skierowania przez ten podmiot do jednostki szkolącej w celu odbycia szkolenia specjalizacyjnego;
-- **4)** w ramach poszerzenia zajęć programowych studiów podyplomowych odbywanych w jednostce szkolącej o program szkolenia specjalizacyjnego, jeżeli jest on zgodny z zakresem studiów podyplomowych, a po ukończeniu tych studiów – w trybie określonym w pkt 1–3.
+### 4)
 
-2. W przypadkach, o których mowa w ust. 1 pkt 1, 3 i 4, kierownik jednostki szkolącej zawiera z osobą odbywającą szkolenie specjalizacyjne umowę o szkolenie określającą wzajemne prawa i obowiązki wynikające z realizacji programu szkolenia specjalizacyjnego.
+opis bazy dydaktycznej i sposobu realizacji programu szkolenia specjalizacyjnego;
 
-**Art. 18.**
+### 5)
 
-1. Osoba odbywająca szkolenie specjalizacyjne ponosi opłatę za szkolenie.
+plan realizacji programu szkolenia specjalizacyjnego;
 
-2. Wysokość opłaty za szkolenie specjalizacyjne ustala kierownik jednostki szkolącej. Wysokość opłaty nie może być większa niż koszty związane z przeprowadzeniem szkolenia specjalizacyjnego. Opłata stanowi przychód jednostki szkolącej.
+### 6)
 
-**Art. 19.**
+oświadczenie o spełnianiu warunków, o których mowa w ust. 2.
 
-1. Szkolenie specjalizacyjne odbywa się pod nadzorem kierownika specjalizacji.
+### 6.
 
-2. Kierownika specjalizacji powołuje, za jego zgodą, i odwołuje kierownik jednostki szkolącej.
+Do wniosku, o którym mowa w ust. 4, dołącza się:
 
-3. Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie ochrony zdrowia, w której odbywa się szkolenie specjalizacyjne, a w uzasadnionych przypadkach – w dziedzinie pokrewnej, albo osoba posiadająca decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+### 1)
 
-4. Kierownik specjalizacji może nadzorować szkolenie specjalizacyjne nie więcej niż 3 osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego – nie więcej niż 4 osób.
+elektroniczną kopię dokumentów potwierdzających status prawny podmiotu ubiegającego się o uzyskanie akredytacji;
 
-5. Kierownika specjalizacji odwołuje się w przypadku:
+### 2)
 
-- **1)** niewypełniania lub nienależytego wypełniania obowiązków, o których mowa w ust. 6;
-- **2)** uzasadnionego wniosku kierownika specjalizacji;
-- **3)** uzasadnionego wniosku osoby odbywającej szkolenie specjalizacyjne pod nadzorem tego kierownika specjalizacji.
+informacje o dotychczasowym przebiegu działalności prowadzonej przez podmiot ubiegający się o uzyskanie akredytacji;
 
-6. Do obowiązków kierownika specjalizacji należy:
+### 3)
 
-- **1)** udział w ustalaniu warunków odbywania szkolenia specjalizacyjnego, które umożliwi nabycie wiedzy i umiejętności praktycznych, określonych w programie szkolenia specjalizacyjnego;
-- **2)** nadzór nad realizacją szkolenia specjalizacyjnego;
-- **3)** ustalanie planowanego harmonogramu szkolenia specjalizacyjnego oraz jego aktualizacja;
-- **4)** prowadzenie ewaluacji szkolenia specjalizacyjnego zgodnie z jego programem;
-- **5)** potwierdzanie w EKS realizacji poszczególnych elementów szkolenia specjalizacyjnego;
-- **6)** potwierdzanie w EKS, że szkolenie specjalizacyjne odbyło się zgodnie z jego programem;
-- **7)** zawiadamianie wojewody, za pomocą SMK, o przerwaniu szkolenia specjalizacyjnego przez osobę odbywającą szkolenie specjalizacyjne, która nie realizuje albo nie będzie mogła realizować programu szkolenia specjalizacyjnego.
+elektroniczną kopię dokumentów potwierdzających spełnianie warunków, o których mowa w ust. 2.
 
-7. Kierownik specjalizacji dokonuje potwierdzeń, o których mowa w ust. 6 pkt 5 i 6, w terminie 14 dni od dnia zakończenia poszczególnych elementów szkolenia specjalizacyjnego albo od dnia odbycia szkolenia specjalizacyjnego.
+### 7.
 
-8. Kierownikowi specjalizacji w umowie, o której mowa w art. 6 ust. 2 pkt 5, mogą zostać powierzone dodatkowe obowiązki, niewymienione w ust. 6.
+Wniosek, o którym mowa w ust. 4, składa się nie później niż na 4 miesiące przed planowanym terminem rozpoczęcia szkolenia specjalizacyjnego.
 
-9. Kierownik specjalizacji ma prawo do udziału w egzaminie ustnym lub egzaminie praktycznym wchodzącym w skład PESoz w charakterze obserwatora.
+### 8.
 
-**Art. 20.**
+Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 4, oraz dokumenty, o których mowa w ust. 6, a w przypadku stwierdzenia braków formalnych wzywa, za pomocą SMK, podmiot ubiegający się o uzyskanie akredytacji do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
 
-1. Nadzór nad realizacją programu staży kierunkowych określonych w programie szkolenia specjalizacyjnego może sprawować opiekun stażu wyznaczony, za jego zgodą, przez kierownika specjalizacji spośród osób posiadających tytuł specjalisty w danej dziedzinie ochrony zdrowia albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+### 9.
 
-2. W przypadku dziedziny ochrony zdrowia, w której nie ma osób posiadających tytuł specjalisty albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, albo gdy nie wyraziły one zgody na pełnienie obowiązków opiekuna stażu, opiekunem stażu może być osoba wykonująca co najmniej przez 3 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia, wyznaczona, za jej zgodą, przez kierownika jednostki szkolącej.
+W celu uzyskania opinii w sprawie spełniania przez podmiot ubiegający się o uzyskanie akredytacji warunków, o których mowa w ust. 2, dyrektor CMKP powołuje zespół ekspertów w składzie:
 
-3. Opiekun stażu może nadzorować realizację programu stażu kierunkowego nie więcej niż 3 osób.
+### 1)
 
-**Art. 21.**
+3 osoby zgłoszone przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
 
-1. Osoba odbywająca szkolenie specjalizacyjne może wystąpić do dyrektora CMKP z wnioskiem o uznanie za równoważne ze zrealizowaniem części programu szkolenia specjalizacyjnego kursów lub staży odbytych w kraju lub za granicą w podmiotach prowadzących szkolenie specjalizacyjne i obniżenie wymiaru godzin szkolenia specjalizacyjnego, jeżeli okres od dnia ukończenia kursu albo stażu do dnia złożenia tego wniosku nie jest dłuższy niż 5 lat.
+### 2)
 
-2. W celu uzyskania opinii w sprawie obniżenia wymiaru godzin szkolenia specjalizacyjnego dyrektor CMKP powołuje zespół w składzie:
+przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń.
 
-- **1)** konsultant wojewódzki w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego;
-- **2)** kierownik specjalizacji;
-- **3)** przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
-- **4)** przedstawiciel CMKP.
+### 10.
 
-3. Na podstawie opinii, o której mowa w ust. 2, dyrektor CMKP, w drodze decyzji, obniża albo odmawia obniżenia wymiaru godzin szkolenia specjalizacyjnego.
+Dyrektor CMKP wskazuje termin wydania opinii, o której mowa w ust. 9, nie krótszy jednak niż 2 miesiące.
 
-4. Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+### 11.
 
-5. Dyrektor CMKP zamieszcza informację o obniżeniu wymiaru godzin szkolenia specjalizacyjnego w EKS.
+Zespół ekspertów, o którym mowa w ust. 9, przekazuje swoją opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia. Wniosek, o którym mowa w ust. 4, może być opiniowany w trybie obiegowym, z użyciem dostępnych systemów teleinformatycznych lub systemów łączności.
 
-**Art. 22.**
+### 12.
 
-1. Jeżeli jednostka szkoląca zostanie zlikwidowana, poddana restrukturyzacji uniemożliwiającej prowadzenie szkolenia specjalizacyjnego albo skreślona z listy jednostek posiadających akredytację, wojewoda w porozumieniu z kierownikiem specjalizacji i kierownikiem jednostki szkolącej, w której szkolenie specjalizacyjne ma być kontynuowane, wskazuje, za pomocą SMK, tę jednostkę i termin, w którym ma być kontynuowane szkolenie specjalizacyjne, osobie odbywającej szkolenie specjalizacyjne.
+Dyrektor CMKP:
 
-2. Jeżeli jednostka szkoląca, w której szkolenie specjalizacyjne ma być kontynuowane, ma siedzibę na obszarze innego województwa, wojewoda właściwy ze względu na siedzibę tej jednostki, na wniosek wojewody właściwego ze względu na siedzibę jednostki szkolącej, w której szkolenie specjalizacyjne było odbywane, w porozumieniu z kierownikiem specjalizacji i kierownikiem jednostki szkolącej, w której szkolenie specjalizacyjne ma być kontynuowane, wskazuje, za pomocą SMK, tę jednostkę i termin, w którym ma być kontynuowane szkolenie specjalizacyjne, osobie odbywającej szkolenie specjalizacyjne.
+### 1)
 
-3. W szczególnie uzasadnionym przypadku wojewoda może, na wniosek osoby odbywającej szkolenie specjalizacyjne, wskazać jej inną jednostkę szkolącą posiadającą wolne miejsce szkoleniowe. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+w przypadku gdy opinia, o której mowa w ust. 9, jest pozytywna, dokonuje wpisu podmiotu ubiegającego się o uzyskanie akredytacji na listę jednostek posiadających akredytację, na okres 5 lat, wraz z określeniem maksymalnej liczby miejsc szkoleniowych na szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia;
 
-**Art. 23.**
+### 2)
 
-1. Jednostka szkoląca przekazuje na bieżąco do CMKP, za pomocą SMK, informacje o kursach specjalizacyjnych i stażach kierunkowych prowadzonych w ramach szkolenia specjalizacyjnego, zawierające:
+w przypadku gdy opinia, o której mowa w ust. 9, jest negatywna, odmawia, w drodze decyzji, wpisu podmiotu ubiegającego się o uzyskanie akredytacji na listę jednostek posiadających akredytację.
 
-- **1)** nazwę kursu specjalizacyjnego lub stażu kierunkowego oraz nazwę i adres siedziby jednostki organizacyjnej albo imię, nazwisko i adres działalności osoby fizycznej, prowadzących ten kurs lub staż;
-- **2)** termin, miejsce odbywania oraz liczbę miejsc szkoleniowych na danym kursie specjalizacyjnym albo stażu kierunkowym.
+### 13.
 
-2. Dyrektor CMKP zamieszcza na stronie internetowej CMKP i w SMK informacje, o których mowa w ust. 1.
+Informację o odmowie wpisu, o której mowa w ust. 12 pkt 2, dyrektor CMKP zamieszcza w SMK.
 
-3. Jednostka szkoląca przekazuje do CMKP listę osób, które ukończyły kurs specjalizacyjny albo staż kierunkowy, zawierającą ich imiona i nazwiska oraz numery PESEL, a w przypadku braku numeru PESEL – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania.
+### 14.
 
-4. Kursy specjalizacyjne, o których mowa w ust. 1, mogą być realizowane z wykorzystaniem metod i technik kształcenia na odległość, jeżeli możliwość takiej formy przewiduje program specjalizacji lub została uzyskana zgoda dyrektora CMKP.
+Od decyzji, o której mowa w ust. 12 pkt 2, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-**Art. 24.**
+### 15.
 
-1. Nadzór nad prowadzeniem szkolenia specjalizacyjnego sprawuje minister właściwy do spraw zdrowia za pośrednictwem dyrektora CMKP.
+Dyrektor CMKP przed upływem okresu, o którym mowa w ust. 12 pkt 1, dokonuje oceny spełniania przez podmiot wpisany na listę jednostek posiadających akredytację, zwany dalej „jednostką szkolącą”, warunków, o których mowa w ust. 2. Dyrektor CMKP występuje do jednostki szkolącej co najmniej na 6 miesięcy przed upływem okresu, o którym mowa w ust. 12 pkt 1, o przedstawienie dokumentów potwierdzających spełnianie warunków, o których mowa w ust. 2. Przepisy ust. 2-14 stosuje się odpowiednio.
 
-2. W ramach nadzoru, o którym mowa w ust. 1, dyrektor CMKP jest uprawniony do:
+### 16.
 
-- **1)** kontroli jednostki szkolącej;
-- **2)** żądania przedstawienia dokumentacji przebiegu szkolenia specjalizacyjnego i wyjaśnień dotyczących prowadzonego szkolenia specjalizacyjnego;
-- **3)** wydawania zaleceń dotyczących usunięcia stwierdzonych uchybień.
+Dyrektor CMKP zamieszcza i aktualizuje na stronie internetowej CMKP oraz w SMK listę jednostek posiadających akredytację.
 
-**Art. 25.**
+### 17.
 
-1. Kontrolę, o której mowa w art. 24 ust. 2 pkt 1, przeprowadza zespół kontrolny powołany przez dyrektora CMKP. Zespół kontrolny składa się co najmniej z 3 osób.
+W przypadku gdy jednostka szkoląca przestała spełniać warunki, o których mowa w ust. 2, powiadamia o tym niezwłocznie wojewodę i dyrektora CMKP.
 
-2. W skład zespołu kontrolnego, o którym mowa w ust. 1, wchodzą:
+### 18.
 
-- **1)** pracownik lub pracownicy CMKP;
-- **2)** konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **3)** przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
-- **4)** osoba posiadająca tytuł specjalisty w danej dziedzinie ochrony zdrowia albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, zgłoszona przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **5)** przedstawiciel wojewody właściwego ze względu na siedzibę jednostki szkolącej.
+Dyrektor CMKP, w drodze decyzji, skreśla z listy jednostek posiadających akredytację jednostkę szkolącą, która przestała spełniać warunki, o których mowa w ust. 2, albo nie realizuje programu szkolenia specjalizacyjnego.
 
-3. Zespół kontrolny wykonuje czynności kontrolne za okazaniem upoważnień osób wchodzących w skład tego zespołu.
+### 19.
 
-4. Zespół kontrolny ma prawo:
+Od decyzji, o której mowa w ust. 18, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-- **1)** wstępu do pomieszczeń dydaktycznych;
-- **2)** udziału w zajęciach w charakterze obserwatora;
-- **3)** wglądu do dokumentacji przebiegu szkolenia specjalizacyjnego prowadzonej przez jednostkę szkolącą;
-- **4)** żądania od kierownika jednostki szkolącej ustnych i pisemnych wyjaśnień;
-- **5)** badania opinii osób odbywających szkolenie specjalizacyjne i kadry dydaktycznej.
+### Art. 7.
 
-5. Z przeprowadzonych czynności kontrolnych sporządza się protokół, który zawiera:
+### 1.
 
-- **1)** nazwę i adres siedziby jednostki szkolącej;
-- **2)** miejsce prowadzenia szkolenia specjalizacyjnego;
-- **3)** datę rozpoczęcia i datę zakończenia czynności kontrolnych;
-- **4)** imiona i nazwiska członków zespołu kontrolnego;
-- **5)** opis stanu faktycznego;
-- **6)** stwierdzone w trakcie kontroli nieprawidłowości;
-- **7)** wnioski pokontrolne dotyczące stwierdzonych w trakcie kontroli nieprawidłowości;
-- **8)** datę i miejsce sporządzenia protokołu;
-- **9)** informację o braku zastrzeżeń do treści protokołu albo opis wniesionych zastrzeżeń i wyjaśnienia tych zastrzeżeń;
-- **10)** informację o odmowie podpisania protokołu przez kierownika jednostki szkolącej.
+Jednostki szkolące przekazują do wojewody, za pomocą SMK, informacje o wolnych miejscach szkoleniowych na szkolenie specjalizacyjne w poszczególnych dziedzinach ochrony zdrowia co najmniej na 2 miesiące przed terminem postępowania kwalifikacyjnego.
 
-6. Protokół, o którym mowa w ust. 5, sporządza się w postaci papierowej, w 2 egzemplarzach, z których jeden przekazuje się kierownikowi jednostki szkolącej.
+### 2.
 
-7. Protokół, o którym mowa w ust. 5, podpisują członkowie zespołu kontrolnego oraz kierownik jednostki szkolącej.
+Na podstawie informacji, o których mowa w ust. 1, wojewoda ustala i zamieszcza w SMK, co najmniej na miesiąc przed terminem postępowania kwalifikacyjnego, informację o liczbie wolnych miejsc szkoleniowych w poszczególnych jednostkach szkolących na dane postępowanie kwalifikacyjne, w tym dla osób, o których mowa w art. 52.
 
-8. Kierownik jednostki szkolącej, przed podpisaniem protokołu, o którym mowa w ust. 5, może zgłosić umotywowane zastrzeżenia do treści protokołu. Zespół kontrolny jest obowiązany wyjaśnić te zastrzeżenia.
+### Art. 8.
 
-9. Odmowa podpisania protokołu, o którym mowa w ust. 5, przez kierownika jednostki szkolącej nie stanowi przeszkody do podpisania protokołu przez członków zespołu kontrolnego.
+### 1.
 
-10. Kierownik jednostki szkolącej w terminie 7 dni od dnia otrzymania protokołu, o którym mowa w ust. 5, może wnieść pisemnie umotywowane zastrzeżenia do treści protokołu. Zespół kontrolny jest obowiązany wyjaśnić te zastrzeżenia i przedstawić na piśmie swoje stanowisko kierownikowi jednostki szkolącej w terminie 14 dni od dnia otrzymania zastrzeżeń.
+Do szkolenia specjalizacyjnego może przystąpić osoba, która:
 
-11. Dyrektor CMKP przekazuje kierownikowi jednostki szkolącej zalecenia pokontrolne dotyczące stwierdzonych w trakcie kontroli nieprawidłowości i zobowiązuje go do usunięcia tych nieprawidłowości w wyznaczonym terminie. Kopię zaleceń pokontrolnych dyrektor CMKP przekazuje do wiadomości wojewodzie, konsultantowi krajowemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, i konsultantowi wojewódzkiemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego, właściwemu ze względu na siedzibę jednostki szkolącej.
+### 1)
 
-12. W przypadku niezrealizowania zaleceń pokontrolnych w wyznaczonym terminie dyrektor CMKP, w drodze decyzji, skreśla jednostkę szkolącą z listy jednostek posiadających akredytację.
+posiada tytuł zawodowy magistra lub równorzędny uzyskany po ukończeniu studiów na kierunku określonym w przepisach wydanych na podstawie art. 46 pkt 3 oraz
 
-13. Od decyzji, o której mowa w ust. 12, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+### 2)
 
-14. Członkom zespołu kontrolnego przysługuje:
+została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
 
-- **1)** wynagrodzenie za wykonanie czynności kontrolnych w wysokości do 300 zł;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878, 1222, 1871 i 1965), przysługujących pracownikom z tytułu podróży służbowej;
-- **3)** zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
+### 2.
 
-**Art. 26.**
+Do szkolenia specjalizacyjnego może przystąpić także osoba, która:
 
-1. CMKP monitoruje system szkolenia specjalizacyjnego, w tym analizuje dane o liczbie osób odbywających szkolenie specjalizacyjne oraz dane dotyczące jego przebiegu, znajdujące się w SMK.
+### 1)
 
-2. Dyrektor CMKP przedstawia ministrowi właściwemu do spraw zdrowia, co roku, w terminie do dnia 31 stycznia, informacje dotyczące systemu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia za rok poprzedni.
+posiada tytuł zawodowy magistra lub równorzędny uzyskany po ukończeniu studiów na kierunku innym niż określony w przepisach wydanych na podstawie art. 46 pkt 3 oraz
 
-**Art. 27.**
+### 2)
 
-1. Wojewoda w terminie 7 dni od dnia potwierdzenia w EKS przez kierownika specjalizacji ukończenia szkolenia specjalizacyjnego zwraca się, za pomocą SMK, do konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, o ocenę zgodności odbytego szkolenia specjalizacyjnego z programem szkolenia specjalizacyjnego.
+wykonywała co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia i uzyskała zgodę dyrektora CMKP na odbycie szkolenia specjalizacyjnego, oraz
 
-2. Konsultant krajowy dokonuje oceny, o której mowa w ust. 1, i przekazuje ją wojewodzie, za pomocą SMK, w terminie 14 dni. W przypadku stwierdzenia niezrealizowania programu szkolenia specjalizacyjnego konsultant krajowy wskazuje brakujący zakres tego programu.
+### 3)
 
-3. Wojewoda niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania oceny, o której mowa w ust. 1, w SMK:
+została zakwalifikowana do odbywania szkolenia specjalizacyjnego w postępowaniu kwalifikacyjnym.
 
-- **1)** potwierdza ukończenie szkolenia specjalizacyjnego albo
-- **2)** odmawia potwierdzenia ukończenia szkolenia specjalizacyjnego.
+### Art. 9.
 
-4. Wojewoda zawiadamia niezwłocznie, za pomocą SMK, osobę, która odbyła szkolenie specjalizacyjne, o potwierdzeniu albo odmowie potwierdzenia ukończenia szkolenia specjalizacyjnego, o których mowa w ust. 3. W przypadku odmowy potwierdzenia wojewoda wskazuje miejsce i termin realizacji brakującego zakresu programu szkolenia specjalizacyjnego.
+### 1.
 
-5. Osoba, której wojewoda odmówił potwierdzenia ukończenia szkolenia specjalizacyjnego, w terminie 14 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 4, może zwrócić się do wojewody o weryfikację rozstrzygnięcia.
+Konto w SMK zakłada w celu dokonywania czynności w tym systemie:
 
-6. W przypadku, o którym mowa w ust. 3 pkt 2, po zrealizowaniu brakującego zakresu programu szkolenia specjalizacyjnego, stosuje się przepisy ust. 1–4.
+### 1)
 
-**Art. 28.**
+osoba, o której mowa w art. 8;
 
-1. Minister właściwy do spraw zdrowia na wniosek osoby legitymującej się dorobkiem naukowym lub zawodowym w danej dziedzinie ochrony zdrowia, w drodze decyzji, może uznać ten dorobek za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie na podstawie opinii zespołu ekspertów, o którym mowa w art. 5 ust. 1, w sprawie uznania dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
+### 2)
 
-2. Wniosek, o którym mowa w ust. 1, składa się do dyrektora CMKP.
+kierownik specjalizacji.
 
-3. Wniosek, o którym mowa w ust. 1, zawiera:
+### 2.
 
-- **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **4)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **5)** określenie przedmiotu wniosku;
-- **6)** nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
-- **7)** informacje o przebiegu działalności naukowej lub zawodowej, w szczególności dotyczące osiągnięć w dziedzinie ochrony zdrowia, której dotyczy wniosek;
-- **8)** informację o:
-    - **a)** aktualnym miejscu zatrudnienia,
-    - **b)** posiadanym stopniu lub tytule naukowym,
-    - **c)** posiadanych tytułach specjalisty lub specjalizacjach.
+Warunkiem dokonywania przez osobę określoną w ust. 1 czynności za pomocą SMK jest potwierdzenie tożsamości osoby, która konto założyła, i weryfikacja uprawnień tej osoby.
 
-4. Do wniosku, o którym mowa w ust. 1, dołącza się:
+### 3.
 
-- **1)** dokumenty potwierdzające przebieg działalności naukowej lub zawodowej;
-- **2)** kopię:
-    - **a)** dyplomu ukończenia studiów wyższych,
-    - **b)** dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego,
-    - **c)** dyplomu potwierdzającego posiadanie tytułu specjalisty lub specjalizacji.
+Potwierdzenia tożsamości, o którym mowa w ust. 2, dokonuje się na podstawie wniosku o nadanie uprawnień:
 
-5. Wniosek, o którym mowa w ust. 1, może zostać złożony z wykorzystaniem formularza zamieszczonego w Biuletynie Informacji Publicznej CMKP.
+### 1)
 
-6. Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4, a w przypadku stwierdzenia braków formalnych wzywa wnioskodawcę do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
+opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP lub
 
-7. Dyrektor CMKP przekazuje wniosek, o którym mowa w ust. 1, wraz z dokumentami, o których mowa w ust. 4, zespołowi ekspertów, o którym mowa w art. 5 ust. 1, w celu wydania opinii w sprawie uznania dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia oraz ustala termin i miejsce posiedzenia tego zespołu. Wniosek może być opiniowany za pośrednictwem systemów teleinformatycznych.
+### 2)
 
-8. Zespół ekspertów, o którym mowa w art. 5 ust. 1, przekazuje dyrektorowi CMKP opinię, o której mowa w ust. 1, niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia.
+potwierdzonego przez wojewodę w zakresie tożsamości osoby, która konto założyła.
 
-9. Zespół ekspertów, o którym mowa w art. 5 ust. 1, opiniuje wnioski, o których mowa w ust. 1, nie rzadziej niż raz na kwartał.
+### 4.
 
-10. Dyrektor CMKP w terminie 7 dni roboczych od dnia otrzymania opinii, o której mowa w ust. 1, przekazuje tę opinię wraz z wnioskiem, o którym mowa w ust. 1, i dołączonymi do niego dokumentami, o których mowa w ust. 4, do ministra właściwego do spraw zdrowia.
+Weryfikacji uprawnień, o której mowa w ust. 2, dokonuje w stosunku do:
 
-11. Dyrektor CMKP zamieszcza w SMK informację o decyzji, o której mowa w ust. 1, podając:
+### 1)
 
-- **1)** numer decyzji i datę jej wydania;
-- **2)** imię (imiona) i nazwisko osoby, której decyzja dotyczy;
-- **3)** przedmiot decyzji;
-- **4)** rodzaj rozstrzygnięcia;
-- **5)** określenie organu wydającego decyzję.
+osoby, o której mowa w art. 8 - wojewoda;
 
-12. Osoba, która uzyskała decyzję, o której mowa w ust. 1, może:
+### 2)
 
-- **1)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 5 ust. 1;
-- **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
-- **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 25 ust. 1.
+kierownika specjalizacji - właściwa jednostka szkoląca.
 
-**Art. 29.**
+### Art. 10.
 
-1. Osoba, która uzyskała potwierdzenie ukończenia szkolenia specjalizacyjnego, o którym mowa w art. 27 ust. 3 pkt 1, składa, za pomocą SMK, do dyrektora Centrum Egzaminów Medycznych, zwanego dalej „CEM”, wniosek o przystąpienie do PESoz.
+### 1.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+Osoba, o której mowa w art. 8 ust. 2 pkt 1, która wykonywała co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia, w celu uzyskania zgody na odbycie szkolenia specjalizacyjnego składa wniosek do dyrektora CMKP.
 
-- **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **3)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **4)** nazwę uczelni, w której wnioskodawca ukończył studia;
-- **5)** nazwę jednostki szkolącej, w której wnioskodawca odbywał szkolenie specjalizacyjne;
-- **6)** numer i datę wydania decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli taką posiada;
-- **7)** imię i nazwisko, tytuł zawodowy oraz stopień lub tytuł naukowy kierownika specjalizacji;
-- **8)** wskazanie właściwego wojewody;
-- **9)** wskazanie dziedziny ochrony zdrowia, w której zakresie wnioskodawca zamierza przystąpić do PESoz;
-- **10)** wskazanie części PESoz, do której wnioskodawca zamierza przystąpić.
+### 2.
 
-3. Wniosek, o którym mowa w ust. 1, składa się w terminie:
+Wniosek, o którym mowa w ust. 1, zawiera:
 
-- **1)** do dnia 15 lipca – dla jesiennej sesji egzaminacyjnej;
-- **2)** do dnia 15 stycznia – dla wiosennej sesji egzaminacyjnej.
+### 1)
 
-4. W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej złożenie wniosku, o którym mowa w ust. 1, w okresie tygodnia przed upływem terminów, o których mowa w ust. 3, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przedłużenie terminu przez operatora systemu następuje z urzędu.
+imię (imiona) i nazwisko wnioskodawcy;
 
-5. W przypadku ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii minister właściwy do spraw zdrowia może zmienić terminy, o których mowa w ust. 3. W przypadku nieustania okoliczności będących przyczyną zmiany terminów minister właściwy do spraw zdrowia dokonuje ponownej zmiany tych terminów, jednak łączny okres przesunięcia danego terminu nie może być dłuższy niż 5 miesięcy. Informację o zmianie tych terminów minister właściwy do spraw zdrowia ogłasza na swojej stronie internetowej.
+### 2)
 
-**Art. 30.**
+datę i miejsce urodzenia;
 
-1. Osoba zamierzająca przystąpić do PESoz wnosi opłatę za ten egzamin w wysokości określonej w przepisach wydanych na podstawie art. 46 pkt 7.
+### 3)
 
-2. Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy wskazany przez CEM, za pomocą SMK, w trakcie składania wniosku, o którym mowa w art. 29 ust. 1. Opłatę wnosi się nie później niż w terminie 5 dni od dnia upływu terminu składania wniosku, o którym mowa w art. 29 ust. 3. Opłata stanowi dochód budżetu państwa.
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 
-3. W przypadku niewniesienia opłaty, o której mowa w ust. 1, albo wniesienia jej w wysokości mniejszej niż określona w przepisach wydanych na podstawie art. 46 pkt 7, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK, a w przypadku awarii SMK – pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 29 ust. 1, w terminie 7 dni od dnia otrzymania wezwania. W przypadku nieuzupełnienia braków formalnych wniosek, o którym mowa w art. 29 ust. 1, traktuje się jako niezłożony, o czym dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+### 4)
 
-4. Z opłaty, o której mowa w ust. 1, za kolejne zgłoszenie do PESoz może zostać zwolniona osoba, która w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii mimo zgłoszenia się do PESoz nie przystąpiła do tego egzaminu.
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 
-5. W celu uzyskania zwolnienia z opłaty, o którym mowa w ust. 4, osoba ta w terminie 30 dni od dnia, w którym odbył się PESoz, do którego miała przystąpić, składa do dyrektora CEM wniosek o zwolnienie z opłaty za kolejne zgłoszenie do PESoz.
+### 5)
 
-6. Do terminu, o którym mowa w ust. 5, nie stosuje się przepisów art. 58–60 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+określenie przedmiotu wniosku;
 
-**Art. 31.**
+### 6)
 
-1. PESoz organizuje CEM.
+nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
 
-2. Opracowanie pytań testowych, o których mowa w art. 35 ust. 1, testu i zadań egzaminacyjnych, o których mowa w art. 36 ust. 1, oraz przeprowadzenie PESoz jest finansowane przez CEM.
+### 7)
 
-**Art. 32.**
+informację o:
 
-1. PESoz przeprowadza Państwowa Komisja Egzaminacyjna, zwana dalej „PKE”.
+### a)
 
-2. Przewodniczącego PKE i jej członków powołuje i odwołuje dyrektor CEM.
+wykonywaniu czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia,
 
-3. Osoba powołana do PKE otrzymuje akt powołania. Powołanie następuje na czas nieokreślony. Powołanie nie skutkuje powstaniem stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+### b)
 
-4. Przewodniczący PKE i jej członkowie powinni posiadać tytuł specjalisty w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie ma osób posiadających tytuł specjalisty, albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+aktualnym miejscu zatrudnienia,
 
-5. Członkiem PKE nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+### c)
 
-6. Kandydatów do PKE mogą zgłaszać:
+posiadanym stopniu lub tytule naukowym,
 
-- **1)** konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
-- **2)** zarząd stowarzyszenia zrzeszającego osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, które posiadają tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+### d)
 
-7. Zgłoszenie, o którym mowa w ust. 6, zawiera:
+posiadanych tytułach specjalisty lub specjalizacjach.
 
-- **1)** imię i nazwisko kandydata;
-- **2)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **3)** wskazanie posiadanego tytułu specjalisty albo numeru i daty decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1;
-- **4)** wskazanie dziedziny ochrony zdrowia, w której kandydat ma być powołany do PKE;
-- **5)** adres do korespondencji kandydata oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada.
+### 3.
 
-8. Do zgłoszenia, o którym mowa w ust. 6, dołącza się kopię dyplomu potwierdzającego uzyskanie tytułu specjalisty albo decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, oraz oświadczenie kandydata składane pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-9. Kopia dyplomu specjalisty nie jest wymagana, w przypadku gdy kandydat uzyskał dyplom specjalisty wydany przez dyrektora CEM. W takim przypadku w zgłoszeniu, o którym mowa w ust. 6, należy podać datę wydania i numer dyplomu specjalisty.
+### 1)
 
-10. Członkostwo w PKE wygasa w przypadku śmierci członka PKE.
+kopię:
 
-11. Dyrektor CEM odwołuje członka PKE w przypadku:
+### a)
 
-- **1)** złożenia rezygnacji;
-- **2)** choroby trwale uniemożliwiającej sprawowanie funkcji członka PKE;
-- **3)** niewykonywania albo nienależytego wykonywania obowiązków;
-- **4)** skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
-- **5)** złożenia niezgodnego z prawdą oświadczenia, o którym mowa w ust. 8 i art. 33 ust. 6.
+dyplomu ukończenia studiów wyższych,
 
-12. Dyrektor CEM może odwołać członka PKE w przypadku otrzymania informacji o wszczęciu przeciwko niemu postępowania karnego w związku z podejrzeniem popełnienia umyślnego przestępstwa ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
+### b)
 
-**Art. 33.**
+dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego,
 
-1. Dyrektor CEM w porozumieniu z przewodniczącym PKE ustala dla danej sesji egzaminacyjnej listy osób zdających PESoz w danym terminie i miejscu, a następnie nadaje numery kodowe osobom zdającym oraz zawiadamia te osoby o terminie i miejscu PESoz i nadanym numerze kodowym nie później niż na 14 dni przed dniem rozpoczęcia PESoz. Zawiadomienie jest przekazywane za pomocą SMK, a w przypadku awarii SMK – pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 29 ust. 1.
+### c)
 
-2. Dyrektor CEM wyznacza spośród członków PKE zespoły egzaminacyjne przeprowadzające PESoz w ustalonych terminach i miejscach oraz wskazuje przewodniczących tych zespołów.
+dyplomu potwierdzającego posiadanie tytułu specjalisty lub specjalizacji;
 
-3. Zespół egzaminacyjny składa się co najmniej z 3 członków PKE. W skład zespołu egzaminacyjnego wchodzą osoby zgłoszone przez konsultanta krajowego i zarząd stowarzyszenia, o których mowa w art. 32 ust. 6.
+### 2)
 
-4. Członkiem zespołu egzaminacyjnego nie może być osoba, w stosunku do której osoba zdająca PESoz jest:
+kopię dokumentu potwierdzającego wykonywanie co najmniej przez 2 lata w ciągu ostatnich 5 lat czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
 
-- **1)** małżonkiem;
-- **2)** osobą pozostającą z nią w stosunku:
-    - **a)** pokrewieństwa albo powinowactwa do drugiego stopnia,
-    - **b)** przysposobienia;
+### 4.
 
-- **3)** osobą pozostającą wobec niej w stosunku zależności służbowej;
-- **4)** osobą pozostającą z nią we wspólnym pożyciu.
+Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 3, a w przypadku stwierdzenia braków formalnych wzywa wnioskodawcę do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
 
-5. Powody wyłączenia określone w ust. 4 pkt 1 i 2 trwają pomimo ustania małżeństwa albo przysposobienia.
+### 5.
 
-6. Członkowie zespołu egzaminacyjnego przed rozpoczęciem PESoz składają dyrektorowi CEM pisemne oświadczenie pod rygorem odpowiedzialności karnej, że nie pozostają z żadną z osób zdających PESoz przed tym zespołem egzaminacyjnym w stosunku, o którym mowa w ust. 4, oraz nie zostali skazani prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+Dyrektor CMKP w celu uzyskania opinii w sprawie wykonywania czynności zawodowych, o których mowa w art. 8 ust. 2 pkt 2, przekazuje wniosek, o którym mowa w ust. 1, wraz z załączonymi do niego dokumentami zespołowi ekspertów, o którym mowa w art. 5 ust. 1, oraz ustala termin i miejsce posiedzenia tego zespołu.
 
-7. Członkom zespołu egzaminacyjnego przysługuje:
+### 6.
 
-- **1)** wynagrodzenie za udział w pracach tego zespołu w wysokości do 500 zł dla przewodniczącego zespołu oraz do 300 zł dla członka zespołu;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej;
-- **3)** zwolnienie od pracy w dniu wykonywania czynności zespołu egzaminacyjnego bez zachowania prawa do wynagrodzenia.
+Zespół ekspertów, o którym mowa w art. 5 ust. 1, przekazuje opinię dyrektorowi CMKP niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia.
 
-8. Szczegółowy tryb wypłaty wynagrodzenia, o którym mowa w ust. 7 pkt 1, oraz zwrotu kosztów przejazdu, o których mowa w ust. 7 pkt 2, określa dyrektor CEM.
+### 7.
 
-**Art. 34.**
+Dyrektor CMKP na podstawie opinii, o której mowa w ust. 5, w drodze decyzji, wydaje zgodę na odbycie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia albo odmawia jej wydania.
 
-1. Zakres PESoz jest zgodny z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
+### 8.
 
-2. PESoz jest przeprowadzany 2 razy w roku:
+Od decyzji, o której mowa w ust. 7, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-- **1)** w wiosennej sesji egzaminacyjnej – od dnia 2 maja do dnia 15 czerwca;
-- **2)** w jesiennej sesji egzaminacyjnej – od dnia 2 listopada do dnia 15 grudnia.
+### Art. 11.
 
-3. PESoz składa się z 2 części: egzaminu teoretycznego i egzaminu praktycznego. Warunkiem dopuszczenia do egzaminu praktycznego jest uzyskanie pozytywnego wyniku z egzaminu teoretycznego.
+### 1.
 
-4. Egzamin teoretyczny przeprowadza się w formie:
+Osoba ubiegająca się o odbywanie szkolenia specjalizacyjnego składa, za pomocą SMK, do wojewody właściwego ze względu na obszar województwa, na terenie którego zamierza odbywać szkolenie specjalizacyjne, wniosek o rozpoczęcie tego szkolenia.
 
-- **1)** egzaminu testowego, jeżeli liczba osób zdających, o których mowa w art. 29 ust. 1, wynosi co najmniej 30, albo
-- **2)** egzaminu ustnego.
+### 2.
 
-5. Egzamin testowy odbywa się jednocześnie w całym kraju, w terminie ustalonym przez dyrektora CEM.
+Wniosek, o którym mowa w ust. 1, zawiera:
 
-6. W przypadkach uzasadnionych nadzwyczajnymi okolicznościami, w szczególności zagrażającymi życiu lub zdrowiu osób biorących udział w PESoz, minister właściwy do spraw zdrowia może odwołać w całości lub w części PESoz w danej dziedzinie ochrony zdrowia. Odwołując PESoz, minister właściwy do spraw zdrowia wydłuża czas trwania sesji egzaminacyjnej, w której miał się odbyć odwołany egzamin, jednorazowo o okres nie dłuższy niż 6 miesięcy. W przypadku nieustania okoliczności będących podstawą przedłużenia sesji egzaminacyjnej w czasie, o który została przedłużona dana sesja, minister właściwy do spraw zdrowia może powtórnie przedłużyć czas trwania danej sesji egzaminacyjnej o okres nie dłuższy niż 3 miesiące.
+### 1)
 
-7. O odwołaniu całości lub części PESoz w danej dziedzinie ochrony zdrowia i przedłużeniu sesji egzaminacyjnej minister właściwy do spraw zdrowia informuje na swojej stronie internetowej oraz na stronie internetowej CEM.
+imię (imiona) i nazwisko wnioskodawcy;
 
-8. Dyrektor CEM w porozumieniu z ministrem właściwym do spraw zdrowia ustala nowe terminy PESoz informuje o nich osoby, które miały przystąpić do odwołanego PESoz, co najmniej na dwa tygodnie przed datą egzaminu. Informacja o nowych terminach PESoz jest zamieszczana na stronie internetowej CEM.
+### 2)
 
-9. W uzasadnionych przypadkach minister właściwy do spraw zdrowia może, na wniosek dyrektora CEM, wyrazić zgodę na odstąpienie od przeprowadzenia egzaminu testowego dla wszystkich osób dopuszczonych do PESoz w danej dziedzinie w określonej sesji egzaminacyjnej, z zachowaniem egzaminu ustnego, albo zdecydować o przeprowadzeniu PESoz jeden raz w roku – z zachowaniem wszystkich jego części, w jednej z sesji egzaminacyjnych.
+datę i miejsce urodzenia;
 
-10. W uzasadnionych przypadkach, związanych z wystąpieniem zwiększonego zagrożenia epidemicznego lub innych okoliczności zagrażających bezpieczeństwu osób uczestniczących w PESoz, dyrektor CEM w porozumieniu z przewodniczącym właściwej PKE może zdecydować, że egzamin ustny PESoz zostanie przeprowadzony za pośrednictwem środków komunikacji elektronicznej umożliwiających jednoczesny udział zdającego i wszystkich członków zespołu egzaminacyjnego, zwany dalej „zdalnym PESoz”.
+### 3)
 
-11. Zdalny PESoz może być przeprowadzony w siedzibie CEM albo w innym miejscu wskazanym przez dyrektora CEM w porozumieniu z przewodniczącym zespołu egzaminacyjnego.
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
 
-12. Wojewoda jest obowiązany do współpracy z dyrektorem CEM przy organizacji i przeprowadzaniu zdalnego PESoz.
+### 4)
 
-13. W trakcie całego czasu trwania zdalnego PESoz zdający znajduje się pod bezpośrednim nadzorem pracownika CEM, przewodniczącego zespołu egzaminacyjnego albo przedstawiciela właściwego wojewody. Do przedstawiciela wojewody stosuje się art. 33 ust. 7 pkt 1 i ust. 8.
+obywatelstwo (obywatelstwa);
 
-14. Oprogramowanie służące do przeprowadzenia zdalnego PESoz jest udostępniane i konfigurowane przez CEM. Przebieg zdalnego PESoz jest rejestrowany.
+### 5)
 
-15. Zdający jest widziany i słyszany przez wszystkich członków zespołu egzaminacyjnego bezpośrednio lub za pomocą środków komunikacji, o których mowa w ust. 10.
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
 
-16. W przypadku zdalnego PESoz członkowie zespołu egzaminacyjnego składają ustne oświadczenia dotyczące wystawionych przez nich ocen. Oświadczenia te są rejestrowane za pomocą środków komunikacji, o których mowa w ust. 10, lub, jeżeli nie ma takiej możliwości, za pomocą oprogramowania dostępnego na stacjach roboczych członków zespołu egzaminacyjnego.
+### 6)
 
-17. Jeżeli w czasie stanu zagrożenia epidemicznego lub stanu epidemii przeprowadzenie egzaminu testowego albo ustnego, albo praktycznego PESoz nie będzie możliwe ze względu na bezpieczeństwo osób biorących udział w tym egzaminie, minister właściwy do spraw zdrowia może w trakcie sesji egzaminacyjnej podjąć decyzję o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego, albo praktycznego PESoz w danej dziedzinie w tej sesji z zachowaniem wyłącznie jednej formy PESoz.
+nazwę i numer dokumentu, na podstawie którego cudzoziemiec niebędący obywatelem państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej oraz państwa członkowskiego Europejskiego Obszaru Gospodarczego przebywa na terytorium Rzeczypospolitej Polskiej;
 
-18. Komunikat o odstąpieniu od przeprowadzenia egzaminu testowego albo ustnego, albo praktycznego PESoz, o których mowa w ust. 17, zamieszcza się na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia oraz na stronie internetowej CEM.
+### 7)
 
-**Art. 35.**
+informację o posiadanym stopniu lub tytule naukowym;
 
-1. Egzamin testowy polega na rozwiązaniu 120 pytań testowych zawierających 5 wariantów odpowiedzi, z których tylko jeden jest prawidłowy. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt. W przypadku braku odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane.
+### 8)
 
-2. W przypadku błędów drukarskich w pytaniu testowym uniemożliwiających udzielenie prawidłowej odpowiedzi osoba zdająca ma prawo złożyć w czasie trwania egzaminu testowego ustne zastrzeżenie przewodniczącemu zespołu egzaminacyjnego, wskazując numer pytania testowego zawierającego błąd i wersję testu. Przewodniczący zespołu egzaminacyjnego odnotowuje zastrzeżenie w protokole egzaminacyjnym, o którym mowa w art. 41 ust. 1 pkt 1.
+wykaz publikacji, których autorem albo współautorem jest wnioskodawca;
 
-3. Jeżeli zastrzeżenie, o którym mowa w ust. 2, jest zasadne, w przypadku oczywistej omyłki w pytaniu testowym przewodniczący zespołu egzaminacyjnego podaje osobom zdającym prawidłową treść tego pytania. W przypadku gdy egzamin testowy odbywa się w więcej niż jednej sali, przewodniczący zespołu egzaminacyjnego niezwłocznie informuje o zgłoszonym zastrzeżeniu i jego rozstrzygnięciu przewodniczącego PKE. Przewodniczący PKE przekazuje niezwłocznie informację o zgłoszonym zastrzeżeniu i ustalonej treści pytania testowego przewodniczącym pozostałych zespołów egzaminacyjnych, którzy podają prawidłową treść pytania testowego osobom zdającym.
+### 9)
 
-4. W przypadku innym niż określony w ust. 3, zastrzeżenie, o którym mowa w ust. 2, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. W przypadku uznania zastrzeżenia za zasadne zespół egzaminacyjny unieważnia pytanie testowe, którego dotyczyło zastrzeżenie.
+wnioskowany tryb odbywania szkolenia specjalizacyjnego.
 
-5. W przypadku uwag merytorycznych do pytań testowych osoba zdająca ma prawo złożyć pisemne zastrzeżenie przewodniczącemu zespołu egzaminacyjnego w czasie trwania egzaminu testowego albo niezwłocznie po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej. Zastrzeżenie składa się na karcie zastrzeżeń, według wzoru określonego w przepisach wydanych na podstawie art. 46 pkt 6. Kartę zastrzeżeń dołącza się do protokołu, o którym mowa w art. 41 ust. 1 pkt 1.
+### 3.
 
-6. Zastrzeżenie, o którym mowa w ust. 5, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. Przepis ust. 4 stosuje się.
+Do wniosku, o którym mowa w ust. 1, dołącza się elektroniczną kopię:
 
-7. Za unieważnione pytanie testowe nie przyznaje się punktu. Unieważnione pytanie testowe pomija się przy ustalaniu wyniku egzaminu testowego w stosunku do wszystkich osób zdających oraz odpowiednio obniża ogólną liczbę punktów możliwych do uzyskania z egzaminu testowego.
+### 1)
 
-8. Pozytywny wynik egzaminu testowego uzyskuje osoba zdająca, która otrzymała co najmniej 60 % liczby punktów możliwych do uzyskania z testu. Uzyskaną przez osobę zdającą liczbę punktów przelicza się na ocenę w sposób określony w przepisach wydanych na podstawie art. 46 pkt 6.
+dyplomu ukończenia studiów wyższych;
 
-**Art. 36.**
+### 2)
 
-1. Egzamin ustny obejmuje 3 albo 4 zadania egzaminacyjne, a egzamin praktyczny – od 1 do 3 zadań egzaminacyjnych.
+dokumentu potwierdzającego okres wykonywania czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego, o których mowa w art. 12 ust. 6 pkt 1;
 
-2. Zadanie egzaminacyjne jest oceniane odrębnie przez każdego członka zespołu egzaminacyjnego. Oceny wystawia się według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6.
+### 3)
 
-3. Ocena za zadanie egzaminacyjne jest ustalana jako średnia arytmetyczna ocen wystawionych przez poszczególnych członków zespołu egzaminacyjnego, zaokrąglona do drugiego miejsca po przecinku.
+dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego;
 
-4. Jeżeli co najmniej połowa członków zespołu egzaminacyjnego wystawi ocenę negatywną za zadanie egzaminacyjne, osoba zdająca otrzymuje ocenę negatywną za to zadanie.
+### 4)
 
-5. Na podstawie ocen uzyskanych za poszczególne zadania egzaminacyjne wylicza się średnią arytmetyczną, zaokrągloną do drugiego miejsca po przecinku, i ustala ocenę egzaminu ustnego i egzaminu praktycznego według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6 i w sposób określony w tych przepisach.
+zgody dyrektora CMKP na odbywanie szkolenia specjalizacyjnego - w przypadku osoby, o której mowa w art. 8 ust. 2 pkt 1.
 
-6. Uzyskanie przez osobę zdającą oceny negatywnej za którekolwiek z zadań egzaminacyjnych jest równoznaczne z uzyskaniem negatywnego wyniku z egzaminu ustnego albo egzaminu praktycznego.
+### 4.
 
-**Art. 37.**
+Wniosek, o którym mowa w ust. 1, składa się w terminie:
 
-1. Za wynik pozytywny PESoz uznaje się uzyskanie pozytywnych wyników z egzaminu teoretycznego i egzaminu praktycznego.
+### 1)
 
-2. Ocenę końcową PESoz ustala się na podstawie średniej arytmetycznej ocen uzyskanych z egzaminu teoretycznego i egzaminu praktycznego, zaokrąglonej do drugiego miejsca po przecinku, według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6 i w sposób określony w tych przepisach.
+od dnia 15 listopada do dnia 15 grudnia - na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 16 grudnia do dnia 15 stycznia;
 
-3. Wynik PESoz ustalony przez PKE jest ostateczny i nie służy na niego skarga do sądu administracyjnego.
+### 2)
 
-4. Wynik PESoz dyrektor CEM zamieszcza w SMK, a wyniki egzaminu testowego – także na stronie internetowej CEM, podając numer kodowy osoby zdającej.
+od dnia 30 kwietnia do dnia 31 maja - na postępowanie kwalifikacyjne przeprowadzane w terminie od dnia 1 czerwca do dnia 30 czerwca.
 
-5. Osoba, która nie przystąpiła do PESoz w wyznaczonym terminie albo uzyskała wynik negatywny, może przystąpić do PESoz w kolejnej sesji egzaminacyjnej. Przepisy art. 29 i art. 30 stosuje się.
+### 5.
 
-6. Wynik pozytywny z egzaminu teoretycznego jest uznawany w kolejnych 6 sesjach egzaminacyjnych, licząc od sesji, w której został uzyskany.
+Wojewoda potwierdza elektronicznie zapisanie danych zawartych we wniosku, o którym mowa w ust. 1.
 
-7. W przypadku nieuzyskania wyniku pozytywnego z egzaminu praktycznego, można przystąpić w innej sesji egzaminacyjnej tylko do tej części PESoz.
+### 6.
 
-**Art. 38.**
+W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej złożenie wniosku, o którym mowa w ust. 1, w okresie tygodnia przed upływem terminów, o których mowa w ust. 4, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przedłużenie terminu przez operatora systemu następuje z urzędu.
 
-1. Pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych dla PESoz są opracowywane przez autorów wskazanych przez dyrektora CEM spośród osób posiadających wysokie kwalifikacje i doświadczenie zawodowe w danej dziedzinie ochrony zdrowia. Test jest opracowywany odrębnie dla każdej dziedziny ochrony zdrowia oraz na każdą sesję egzaminacyjną.
+### Art. 12.
 
-2. Pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych podlegają weryfikacji przez recenzentów wyznaczonych przez dyrektora CEM w porozumieniu z konsultantem krajowym w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego.
+### 1.
 
-3. Testy i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych są opracowywane, przetwarzane, dystrybuowane i przechowywane w sposób uniemożliwiający dostęp do nich przez osoby inne niż uczestniczące w ich opracowywaniu, przetwarzaniu, dystrybuowaniu i przechowywaniu, przeprowadzające PESoz lub sprawujące nadzór nad jego przeprowadzaniem.
+W celu zakwalifikowania osoby ubiegającej się o odbywanie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia do odbywania tego szkolenia wojewoda przeprowadza postępowanie kwalifikacyjne.
 
-4. Test i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych mogą być udostępnione wyłącznie osobie zdającej, na jej wniosek, po ich wykorzystaniu w danym PESoz.
+### 2.
 
-5. Dyrektor CEM udostępnia testy i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych w drodze ich okazania w siedzibie CEM. Zakazane jest wynoszenie poza siedzibę CEM udostępnionych testów i pytań testowych oraz zadań egzaminacyjnych do egzaminów ustnych i praktycznych oraz ich reprodukowanie, kopiowanie jakąkolwiek techniką lub przepisywanie. W przypadku naruszenia tego zakazu udostępnianie zostaje przerwane. Przebieg udostępniania może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk.
+Osoba ubiegająca się o odbywanie szkolenia specjalizacyjnego może przystąpić do postępowania kwalifikacyjnego tylko w jednej dziedzinie ochrony zdrowia i tylko w jednym województwie.
 
-**Art. 39.**
+### 3.
 
-1. PESoz odbywa się w obecności co najmniej 3 członków PKE.
+Postępowanie kwalifikacyjne przeprowadza się dwa razy w roku: w terminie od dnia 16 grudnia do dnia 15 stycznia oraz w terminie od dnia 1 czerwca do dnia 30 czerwca.
 
-2. Nieobecność osoby zdającej podczas PESoz, bez względu na jej przyczynę, uważa się za odstąpienie od udziału w PESoz.
+### 4.
 
-3. Osoba zdająca może składać PESoz po okazaniu dokumentu potwierdzającego jej tożsamość.
+Postępowanie kwalifikacyjne obejmuje ocenę spełniania warunków określonych w art. 8 ust. 1 pkt 1 albo w art. 8 ust. 2 pkt 1 i 2 oraz - w przypadku gdy liczba osób spełniających te warunki jest większa niż liczba miejsc szkoleniowych - postępowanie konkursowe.
 
-**Art. 40.**
+### 5.
 
-1. Osoba zdająca podczas PESoz nie może korzystać z żadnych pomocy naukowych i dydaktycznych, a także nie może posiadać urządzeń służących do kopiowania, przekazywania i odbioru informacji.
+Postępowanie konkursowe przeprowadza komisja powoływana przez wojewodę spośród pracowników urzędu wojewódzkiego.
 
-2. Test jest rozwiązywany przez osobę zdającą samodzielnie.
+### 6.
 
-3. W przypadku stwierdzenia podczas PESoz naruszenia zakazu, o którym mowa w ust. 1, lub niesamodzielnego rozwiązywania testu, przewodniczący zespołu egzaminacyjnego dyskwalifikuje osobę zdającą.
+W postępowaniu konkursowym przyznaje się punkty za:
 
-4. Przebieg PESoz może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk. W przypadku ujawnienia po egzaminie na zarejestrowanych materiałach naruszenia zakazu, o którym mowa w ust. 1, lub niesamodzielnego rozwiązywania testu, osoba zdająca zostaje zdyskwalifikowana. Dyskwalifikacji dokonuje przewodniczący PKE na wniosek zespołu egzaminacyjnego lub dyrektora CEM.
+### 1)
 
-5. Fakt dyskwalifikacji, o której mowa w ust. 3 i 4, wraz ze wskazaniem jej przyczyny odnotowuje się w protokołach, o których mowa w art. 41 ust. 1. Dyskwalifikacja jest równoznaczna z uzyskaniem wyniku negatywnego z danej części PESoz.
+okres wykonywania czynności zawodowych zgodnych z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia - 1 punkt za każdy rok wykonywania tych czynności, maksymalnie 10 punktów;
 
-6. O dyskwalifikacji, o której mowa w ust. 4, dyrektor CEM zawiadamia na piśmie osobę zdyskwalifikowaną.
+### 2)
 
-7. Osoba zdyskwalifikowana może wnieść do dyrektora CEM uzasadnione zastrzeżenia w terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 6.
+posiadanie:
 
-8. Dyrektor CEM rozpatruje zastrzeżenia, o których mowa w ust. 7, i przekazuje informację o rozstrzygnięciu, za pomocą SMK, osobie zdyskwalifikowanej, w terminie 7 dni od dnia ich otrzymania. Rozstrzygnięcie dyrektora CEM jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+### a)
 
-9. Informację o dyskwalifikacji, o której mowa w ust. 3 i 4, dyrektor CEM zamieszcza w SMK.
+stopnia naukowego - 2 punkty,
 
-10. Osoba zdyskwalifikowana nie może przystąpić do PESoz w kolejnej sesji egzaminacyjnej. Za ponowne przystąpienie do PESoz osoba zdająca wnosi opłatę.
+### b)
 
-**Art. 41.**
+tytułu naukowego - 5 punktów;
 
-1. Zespół egzaminacyjny sporządza:
+### 3)
 
-- **1)** protokół przebiegu egzaminu testowego w danej sali egzaminacyjnej;
-- **2)** dla każdej osoby zdającej PESoz indywidualny protokół tego egzaminu.
+autorstwo albo współautorstwo jednej publikacji - 0,5 punktu, maksymalnie 5 punktów.
 
-2. Protokoły, o których mowa w ust. 1, podpisują wszyscy członkowie zespołu egzaminacyjnego.
+### 7.
 
-3. Przewodniczący zespołu egzaminacyjnego przesyła protokoły, o których mowa w ust. 1, wraz z pozostałą dokumentacją egzaminacyjną dyrektorowi CEM w terminie 14 dni od dnia zakończenia PESoz.
+W przypadku gdy co najmniej 2 osoby ubiegające się o odbywanie szkolenia specjalizacyjnego uzyskały tę samą liczbę punktów, uwzględnia się wynik studiów na dyplomie ukończenia studiów wyższych.
 
-**Art. 42.** Dyrektor CEM przekazuje wyniki PESoz, za pomocą SMK, wojewodom, dyrektorowi CMKP oraz jednostkom szkolącym.
+### 8.
 
-**Art. 43.**
+W przypadku gdy co najmniej 2 osoby ubiegające się o odbywanie szkolenia specjalizacyjnego mają ten sam wynik studiów na dyplomie ukończenia studiów wyższych, uwzględnia się średnią ocen uzyskaną w okresie studiów liczoną do dwóch znaków po przecinku, ze wskazaniem skali ocen, jaka obowiązywała na uczelni.
 
-1. Osoba, która uzyskała pozytywny wynik PESoz, otrzymuje dyplom potwierdzający uzyskanie tytułu specjalisty w danej dziedzinie ochrony zdrowia, wydany przez dyrektora CEM.
+### 9.
 
-2. Dyrektor CEM wydaje dyplom, o którym mowa w ust. 1, w terminie 30 dni od dnia otrzymania protokołów, o których mowa w art. 41 ust. 1, wraz z kompletną dokumentacją egzaminacyjną.
+W przypadku, o którym mowa w ust. 8, wojewoda niezwłocznie wzywa, za pomocą SMK, osobę ubiegającą się o odbywanie szkolenia specjalizacyjnego do dostarczenia dokumentu poświadczającego średnią ocen, o której mowa w ust. 8, albo jego elektronicznej kopii.
 
-3. Na wniosek osoby, która zdała PESoz, dyrektor CEM:
+### 10.
 
-- **1)** wydaje:
-    - **a)** odpis dyplomu,
-    - **b)** duplikat – w przypadku zniszczenia albo utraty dyplomu;
+Do odbywania szkolenia specjalizacyjnego kwalifikuje się osoby ubiegające się o odbywanie szkolenia specjalizacyjnego w liczbie odpowiadającej liczbie wolnych miejsc szkoleniowych, o których mowa w art. 7 ust. 2, w kolejności od najwyższego wyniku uzyskanego w postępowaniu konkursowym.
 
-- **2)** dokonuje wymiany dyplomu zawierającego błędy.
+### 11.
 
-4. Za wydanie odpisu dyplomu, jego duplikatu albo dokonanie wymiany dyplomu wnosi się opłatę w wysokości 50 zł. Opłaty nie wnosi się, w przypadku gdy wymiana dyplomu wynika z błędu CEM. Opłata stanowi dochód budżetu państwa.
+O wyniku postępowania kwalifikacyjnego wojewoda zawiadamia, za pomocą SMK, osobę ubiegającą się o odbywanie szkolenia specjalizacyjnego.
 
-5. Opłata, o której mowa w ust. 4, jest wnoszona na rachunek bankowy wskazany na stronie internetowej CEM.
+### 12.
 
-6. W przypadku niewniesienia opłaty, o której mowa w ust. 4, albo wniesienia jej w mniejszej wysokości, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych. W przypadku nieuzupełnienia braków w terminie 7 dni od dnia otrzymania wezwania, wniosek, o którym mowa w ust. 3, traktuje się jako niezłożony, o czym dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+Osoba, która nie została zakwalifikowana do odbywania szkolenia specjalizacyjnego, może złożyć do wojewody wniosek o weryfikację postępowania kwalifikacyjnego w terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 11. O wyniku weryfikacji wojewoda zawiadamia tę osobę, za pomocą SMK, w terminie 7 dni od dnia otrzymania wniosku.
 
-7. CEM prowadzi rejestr dyplomów, o których mowa w ust. 1, i przechowuje ich elektroniczne kopie.
+### 13.
 
-**Art. 44.** Dokumentacja dotycząca PESoz, która nie jest gromadzona w SMK, jest przechowywana przez CEM.
+Osobie zakwalifikowanej do odbywania szkolenia specjalizacyjnego wojewoda wskazuje, za pomocą SMK, jednostkę szkolącą posiadającą wolne miejsce szkoleniowe.
 
-**Art. 45.**
+### Art. 13.
 
-1. W przypadku rażących uchybień formalnych w przeprowadzeniu PESoz lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESoz dyrektor CEM na wniosek członka zespołu egzaminacyjnego, osoby zdającej albo z urzędu może unieważnić PESoz albo jego część w stosunku do wszystkich albo poszczególnych zdających.
+### 1.
 
-2. Dyrektor CEM podejmuje rozstrzygnięcie w sprawie unieważnienia PESoz albo jego części w terminie 14 dni od dnia powzięcia informacji o przyczynach uzasadniających unieważnienie.
+Osobie zakwalifikowanej do odbywania szkolenia specjalizacyjnego wojewoda tworzy w SMK elektroniczną kartę przebiegu szkolenia specjalizacyjnego, zwaną dalej „EKS”, oraz określa w niej planowaną datę rozpoczęcia szkolenia specjalizacyjnego.
 
-3. O rozstrzygnięciu, o którym mowa w ust. 1, dyrektor CEM zawiadamia na piśmie osobę, która złożyła wniosek, o którym mowa w ust. 1.
+### 2.
 
-4. Informację o rozstrzygnięciu, o którym mowa w ust. 1, dyrektor CEM zamieszcza również w SMK oraz na stronie internetowej CEM.
+EKS zawiera:
 
-5. Osoba, której unieważniono PESoz albo jego część, w terminie 7 dni od dnia otrzymania informacji o unieważnieniu może wnieść do dyrektora CEM uzasadnione zastrzeżenia.
+### 1)
 
-6. Dyrektor CEM rozpatruje zastrzeżenie, o którym mowa w ust. 5, i przekazuje, za pomocą SMK, informację o jego rozstrzygnięciu osobie, która wniosła zastrzeżenie, w terminie 7 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora CEM jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+dane dotyczące osoby, o której mowa w ust. 1:
 
-7. Unieważniony PESoz albo jego część są powtarzane nie później niż w terminie 3 miesięcy od dnia unieważnienia. Za powtórzony PESoz albo jego część nie pobiera się opłaty, o której mowa w art. 30 ust. 1.
+### a)
 
-8. Dyrektor CEM odnotowuje w protokołach, o których mowa w art. 41 ust. 1, unieważnienie PESoz albo jego części wraz ze wskazaniem przyczyny unieważnienia.
+imię (imiona) i nazwisko,
 
-**Art. 46.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+### b)
 
-**Art. 47.**
+datę i miejsce urodzenia,
 
-1. Minister właściwy do spraw zdrowia na wniosek osoby, która uzyskała tytuł specjalisty za granicą, może uznać ten tytuł za równoważny z tytułem specjalisty w dziedzinie ochrony zdrowia w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+### c)
 
-- **1)** czas szkolenia specjalizacyjnego odbytego za granicą nie odbiega od czasu określonego w programie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia odbywanego w Rzeczypospolitej Polskiej;
-- **2)** program szkolenia specjalizacyjnego odbytego za granicą w zakresie wymaganej wiedzy teoretycznej oraz umiejętności praktycznych odpowiada w istotnych elementach programowi szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia odbywanego w Rzeczypospolitej Polskiej.
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania,
 
-2. Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem dyrektora CMKP.
+### d)
 
-3. Wniosek, o którym mowa w ust. 1, zawiera:
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada,
 
-- **1)** imię (imiona) i nazwisko wnioskodawcy;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **4)** obywatelstwo (obywatelstwa);
-- **5)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **6)** określenie przedmiotu wniosku;
-- **7)** nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
-- **8)** informację o:
-    - **a)** posiadanym stopniu lub tytule naukowym,
-    - **b)** posiadanych tytułach specjalisty,
-    - **c)** aktualnym miejscu zatrudnienia.
+### e)
 
-4. Do wniosku, o którym mowa w ust. 1, dołącza się, wraz z tłumaczeniem na język polski:
+nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy,
 
-- **1)** dokumenty:
-    - **a)** potwierdzające uzyskanie tytułu specjalisty,
-    - **b)** zawierające informacje o: – miejscu i czasie odbycia szkolenia specjalizacyjnego oraz zrealizowanym programie szkolenia specjalizacyjnego, – sposobie i trybie złożenia egzaminu końcowego albo innej formie potwierdzającej nabytą wiedzę teoretyczną i umiejętności praktyczne oraz
+### f)
 
-- **2)** dokumenty potwierdzające wykonywanie czynności zawodowych po uzyskaniu tytułu specjalisty i wskazujące miejsce, czas i rodzaj tych czynności.
+numer i datę wydania dyplomu ukończenia studiów wyższych,
 
-5. Minister właściwy do spraw zdrowia, w drodze decyzji, uznaje albo odmawia uznania tytułu specjalisty w danej dziedzinie ochrony zdrowia uzyskanego za granicą, na podstawie opinii zespołu ekspertów, o którym mowa w art. 5 ust. 1, a w przypadku konieczności odbycia stażu uzupełniającego, o którym mowa w ust. 6 pkt 2, na podstawie opinii zawodowej, o której mowa w ust. 11.
+### g)
 
-6. Opinia, o której mowa w ust. 5, jest sporządzana na podstawie oceny merytorycznej wniosku, o którym mowa w ust. 1. W wyniku dokonania oceny zespół ekspertów, o którym mowa w art. 5 ust. 1, może wnioskować o:
+informację o posiadanym stopniu lub tytule naukowym;
 
-- **1)** uznanie tytułu specjalisty;
-- **2)** uznanie tytułu specjalisty po odbyciu stażu uzupełniającego w jednostce szkolącej wskazanej w tej opinii, którego zakres merytoryczny określa w indywidualnych przypadkach zespół ekspertów;
-- **3)** uznanie tytułu specjalisty po złożeniu PESoz;
-- **4)** odmowę uznania tytułu specjalisty.
+### 2)
 
-7. W sprawach, o których mowa w ust. 1, zespół ekspertów, o którym mowa w art. 5 ust. 1, zbiera się w miarę potrzeby, nie rzadziej jednak niż raz na kwartał.
+dane dotyczące przebiegu szkolenia specjalizacyjnego, w tym nazwę i adres siedziby jednostki szkolącej;
 
-8. Dyrektor CMKP w terminie 7 dni roboczych od dnia otrzymania opinii, o której mowa w ust. 5, przekazuje tę opinię wraz z wnioskiem, o którym mowa w ust. 1, oraz dokumentami, o których mowa w ust. 4, do ministra właściwego do spraw zdrowia.
+### 3)
 
-9. W przypadku gdy opinia, o której mowa w ust. 5, zawiera wskazanie do odbycia stażu uzupełniającego, o którym mowa w ust. 6 pkt 2, minister właściwy do spraw zdrowia kieruje osobę, o której mowa w ust. 1, do odbycia tego stażu, z uwzględnieniem czasu trwania i zakresu merytorycznego tego stażu oraz wskazuje jednostkę szkolącą, w której staż uzupełniający ma być odbyty.
+oznaczenie wojewody, który utworzył EKS.
 
-10. Osoba, o której mowa w ust. 1, odbywa staż uzupełniający, o którym mowa w ust. 6 pkt 2, na podstawie umowy o odbycie stażu uzupełniającego zawartej z jednostką szkolącą, na warunkach określonych w tej umowie.
+### 3.
 
-11. Staż uzupełniający, o którym mowa w ust. 6 pkt 2, kończy się uzyskaniem opinii zawodowej wystawianej przez kierownika właściwej komórki organizacyjnej jednostki szkolącej.
+EKS z wymaganymi wpisami stanowi dowód odbycia szkolenia specjalizacyjnego.
 
-12. Dyrektor CMKP zamieszcza w SMK informację o decyzji, o której mowa w ust. 5, podając:
+### Art. 14.
 
-- **1)** numer decyzji;
-- **2)** datę jej wydania;
-- **3)** imię (imiona) i nazwisko osoby, której decyzja dotyczy;
-- **4)** obywatelstwo (obywatelstwa) osoby, której decyzja dotyczy;
-- **5)** nazwę państwa, w którym uzyskano tytuł specjalisty;
-- **6)** przedmiot decyzji;
-- **7)** rodzaj rozstrzygnięcia;
-- **8)** określenie organu wydającego decyzję.
+Osoba zakwalifikowana do odbywania szkolenia specjalizacyjnego rozpoczyna je w terminie nie dłuższym niż 3 miesiące, licząc od daty określonej w EKS jako planowana data rozpoczęcia szkolenia. Kierownik specjalizacji potwierdza w EKS faktyczną datę rozpoczęcia szkolenia specjalizacyjnego.
 
-**Art. 48.** Dane zamieszczane w SMK są udostępniane podmiotom realizującym zadania określone w ustawie w zakresie niezbędnym do realizacji tych zadań, a także:
+### Art. 15.
 
-**Art. 49.** (pominięty)
+### 1.
 
-**Art. 50.** (pominięty)
+Dyrektor CMKP prowadzi rejestr osób odbywających szkolenie specjalizacyjne na obszarze danego województwa, zwany dalej „rejestrem”, za pomocą SMK, na podstawie danych na bieżąco zamieszczanych w SMK przez wojewodów.
 
-**Art. 51.** (pominięty)
+### 2.
 
-**Art. 52.**
+Rejestr zawiera:
 
-1. Osoba posiadająca specjalizację I stopnia w dziedzinie ochrony zdrowia określonej w przepisach wydanych na podstawie art. 46 pkt 4 może uzyskać tytuł specjalisty w danej dziedzinie ochrony zdrowia po ukończeniu uzupełniającego szkolenia specjalizacyjnego.
+### 1)
 
-2. Szkolenie uzupełniające, o którym mowa w ust. 1, jest prowadzone zgodnie z uzupełniającym programem szkolenia specjalizacyjnego, który jest dostosowany do zakresu wiedzy teoretycznej i umiejętności praktycznych objętych programem specjalizacji I stopnia. Do programu szkolenia uzupełniającego stosuje się odpowiednio przepisy art. 4 i art. 5.
+numer wpisu do rejestru składający się z ciągu kolejnych znaków:
 
-3. Osoba, o której mowa w ust. 1, odbywa szkolenie specjalizacyjne na zasadach określonych ustawą, z tym że we wniosku o rozpoczęcie szkolenia specjalizacyjnego wskazuje jako wnioskowany tryb odbywania tego szkolenia uzupełniające szkolenie specjalizacyjne.
+### a)
 
-**Art. 53.**
+unikalnego identyfikatora wpisu,
 
-1. Jednostki szkolące posiadające uprawnienia do prowadzenia szkolenia specjalizacyjnego nadane zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. z 2007 r. poz. 89, z późn. zm. ) stają się z dniem wejścia w życie ustawy jednostkami szkolącymi w rozumieniu ustawy.
+### b)
 
-2. Lista jednostek szkolących prowadzona przez CMKP zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej staje się z dniem wejścia w życie ustawy listą jednostek posiadających akredytację, o której mowa w art. 6 ust. 1. CMKP w terminie 30 dni od dnia wejścia w życie ustawy przeniesie tę listę do SMK.
+numeru PESEL, a w przypadku jego braku - cech dokumentu potwierdzającego tożsamość: nazwy i numeru dokumentu oraz państwa jego wydania;
 
-3. Członkowie zespołów ekspertów oceniających spełnianie przez jednostki szkolące wymagań niezbędnych do prowadzenia szkolenia specjalizacyjnego, powołanych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, stają się z dniem wejścia w życie ustawy członkami zespołów ekspertów, o których mowa w art. 6 ust. 9.
+### 2)
 
-4. Członkowie zespołów ekspertów do spraw programów specjalizacji powołanych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej stają się członkami zespołów ekspertów, o których mowa w art. 5 ust. 1.
+imię (imiona) i nazwisko osoby odbywającej szkolenie specjalizacyjne;
 
-5. Program specjalizacji opracowany zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej zachowuje ważność do dnia zatwierdzenia przez ministra właściwego do spraw zdrowia programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia zgodnie z art. 5 ust. 3.
+### 3)
 
-6. CMKP w terminie 30 dni od dnia wejścia w życie ustawy, wprowadzi programy specjalizacji, o których mowa w ust. 5, do SMK.
+obywatelstwo (obywatelstwa) osoby odbywającej szkolenie specjalizacyjne;
 
-**Art. 54.**
+### 4)
 
-1. Przewodniczący i członkowie Państwowej Komisji Egzaminacyjnej powołanej do przeprowadzania Państwowego Egzaminu Specjalizacyjnego zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej stają się z dniem wejścia w życie ustawy odpowiednio przewodniczącym i członkami PKE.
+numer i datę wydania dyplomu ukończenia studiów wyższych oraz określenie kierunku studiów;
 
-2. Testy, pytania i zadania egzaminacyjne Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia opracowane przed dniem wejścia w życie ustawy uznaje się za opracowane w trybie przewidzianym w ustawie.
+### 5)
 
-**Art. 55.** W sprawach przyznawania tytułu specjalisty w dziedzinie mającej zastosowanie w ochronie zdrowia osobom, które uzyskały tytuł specjalisty poza granicami Rzeczypospolitej Polskiej, wszczętych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy art. 47.
+określenie dziedziny ochrony zdrowia, w której jest odbywane szkolenie specjalizacyjne;
 
-**Art. 56.**
+### 6)
 
-1. Osoby, które rozpoczęły specjalizację na podstawie programów specjalizacji, o których mowa w art. 53 ust. 5, odbywają szkolenie specjalizacyjne na podstawie tych programów.
+nazwę i adres siedziby jednostki szkolącej;
 
-2. Osoby, które rozpoczęły specjalizację zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, odbywają szkolenie specjalizacyjne na podstawie tych przepisów.
+### 7)
 
-3. Rejestr osób odbywających specjalizację na obszarze danego województwa prowadzony zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej staje się z dniem wejścia w życie ustawy rejestrem, o którym mowa w art. 15 ust. 1. Właściwi wojewodowie w terminie 30 dni od dnia wejścia w życie ustawy wprowadzą dane znajdujące się w tym rejestrze do SMK.
+imię i nazwisko kierownika specjalizacji;
 
-**Art. 57.**
+### 8)
 
-1. Osoba, której minister właściwy do spraw zdrowia powierzył, w drodze decyzji, obowiązki specjalisty w danej dziedzinie ochrony zdrowia zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może:
+datę przeprowadzenia postępowania kwalifikacyjnego;
 
-- **1)** wchodzić w skład zespołu ekspertów, o którym mowa w art. 5 ust. 1 i art. 6 ust. 9;
-- **2)** pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
-- **3)** wchodzić w skład zespołu kontrolnego, o którym mowa w art. 25 ust. 1;
-- **4)** przystąpić do PESoz w danej dziedzinie ochrony zdrowia.
+### 9)
 
-2. Osoba, o której mowa w ust. 1, która przed dniem wejścia w życie ustawy nie przystąpiła do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia albo po przystąpieniu do niego nie uzyskała wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz w danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29–43.
+datę utworzenia EKS i jej numer;
 
-3. Osoba, o której mowa w ust. 1, składa wniosek o przystąpienie do PESoz za pomocą SMK.
+### 10)
 
-**Art. 58.**
+datę rozpoczęcia i ukończenia szkolenia specjalizacyjnego;
 
-1. Osoba, która przed dniem wejścia w życie ustawy rozpoczęła szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia i nie uzyskała potwierdzenia zakończenia szkolenia specjalizacyjnego przez wojewodę albo ukończyła szkolenie specjalizacyjne i nie została dopuszczona do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia, może przystąpić do PESoz w dziedzinie ochrony zdrowia, w której rozpoczęła albo ukończyła szkolenie specjalizacyjne, zgodnie z przepisami ustawy.
+### 11)
 
-2. Osoba, o której mowa w ust. 1, składa do właściwego wojewody wniosek o potwierdzenie ukończenia szkolenia specjalizacyjnego zgodnie z programem specjalizacji. Wniosek jest tworzony i pobierany za pomocą SMK, a następnie podpisywany przez tę osobę.
+datę, od której nastąpiło obniżenie wymiaru godzin szkolenia specjalizacyjnego, i liczbę godzin, o którą obniżono wymiar godzin;
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+### 12)
 
-- **1)** imię (imiona) i nazwisko osoby, o której mowa w ust. 1;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku jego braku – cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
-- **4)** obywatelstwo (obywatelstwa);
-- **5)** adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
-- **6)** dziedzinę ochrony zdrowia, w której odbywała szkolenie specjalizacyjne;
-- **7)** nazwę i adres jednostki szkolącej, w której odbywała szkolenie specjalizacyjne;
-- **8)** stopień lub tytuł naukowy oraz imię i nazwisko kierownika specjalizacji;
-- **9)** informację o skróceniu szkolenia specjalizacyjnego.
+datę skreślenia z rejestru;
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się, w postaci papierowej, dokumentację określoną w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
+### 13)
 
-5. Wojewoda w terminie 7 dni od dnia otrzymania kompletnej dokumentacji, o której mowa w ust. 4, przekazuje ją konsultantowi krajowemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, i zwraca się o ocenę odbycia przez osobę, o której mowa w ust. 1, szkolenia specjalizacyjnego zgodnie z jego programem, w terminie 14 dni od dnia przekazania dokumentacji. Konsultant krajowy przekazuje wojewodzie ocenę i zwraca otrzymaną dokumentację. Dokumentację, o której mowa w ust. 4, przechowuje wojewoda.
+datę uzyskania tytułu specjalisty w danej dziedzinie ochrony zdrowia.
 
-6. W przypadku niezrealizowania przez osobę, o której mowa w ust. 1, programu szkolenia specjalizacyjnego, konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, wskazuje brakujące elementy.
+### Art. 16.
 
-7. Wojewoda w terminie 7 dni od dnia uzyskania oceny od konsultanta krajowego:
+### 1.
 
-- **1)** potwierdza zakończenie szkolenia specjalizacyjnego;
-- **2)** w przypadku, o którym mowa w ust. 6, kieruje osobę, o której mowa w ust. 1, do zrealizowania brakującego elementu programu specjalizacji na czas niezbędny do realizacji tego elementu, uwzględniając okres przerwy wynikającej z procedur weryfikacji realizacji programu specjalizacji.
+Wojewoda, w drodze decyzji, skreśla z rejestru osobę odbywającą szkolenie specjalizacyjne w przypadku:
 
-8. Wojewoda zawiadamia osobę, o której mowa w ust. 1, o rozstrzygnięciu, o którym mowa w ust. 7, za pomocą SMK. W przypadku, o którym mowa w ust. 7 pkt 2, osoba, o której mowa w ust. 1, w terminie 14 dni od dnia otrzymania rozstrzygnięcia może zwrócić się do wojewody o weryfikację rozstrzygnięcia.
+### 1)
 
-9. W przypadku, o którym mowa w ust. 7 pkt 2, osoba, o której mowa w ust. 1, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego i potwierdzeniu tego faktu przez kierownika specjalizacji w karcie szkolenia specjalizacyjnego, może wystąpić z wnioskiem o potwierdzenie przez wojewodę zakończenia szkolenia specjalizacyjnego. Przepisy ust. 2–8 stosuje się.
+nierozpoczęcia szkolenia specjalizacyjnego w terminie 3 miesięcy od daty określonej w EKS jako planowana data rozpoczęcia szkolenia specjalizacyjnego;
 
-**Art. 59.**
+### 2)
 
-1. Osoba, która została dopuszczona do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia przed dniem wejścia w życie ustawy, ale do niego nie przystąpiła albo po przystąpieniu do niego nie uzyskała wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz w danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29–43.
+zaprzestania odbywania szkolenia specjalizacyjnego;
 
-2. Osoba, o której mowa w ust. 1, składa wniosek o przystąpienie do PESoz za pomocą SMK.
+### 3)
 
-**Art. 60.** Osoba, która przed dniem wejścia w życie ustawy uzyskała wynik pozytywny z części praktycznej Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia, przystępuje wyłącznie do części teoretycznej PESoz, pod warunkiem że od dnia uzyskania tego wyniku nie upłynął okres dłuższy niż 3 lata.
+nierealizowania programu szkolenia specjalizacyjnego;
 
-**Art. 61.**
+### 4)
 
-1. Osoba, o której mowa w art. 57 ust. 1, art. 58 ust. 1 i art. 59 ust. 1, zakłada konto w SMK w celu dokonywania czynności w tym systemie.
+wniosku osoby odbywającej szkolenie specjalizacyjne.
 
-2. Warunkiem dokonywania przez osobę, o której mowa w art. 57 ust. 1, art. 58 ust. 1 i art. 59 ust. 1, czynności za pomocą SMK jest potwierdzenie tożsamości osoby, która konto założyła i weryfikacja uprawnień tej osoby.
+### 2.
 
-3. Potwierdzenia tożsamości, o którym mowa w ust. 2, dokonuje się na podstawie wniosku o nadanie uprawnień:
+W przypadku, o którym mowa w ust. 1 pkt 3, skreślenie następuje po otrzymaniu zawiadomienia kierownika specjalizacji o nierealizowaniu programu szkolenia specjalizacyjnego i po uzyskaniu opinii konsultanta wojewódzkiego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego.
 
-- **1)** opatrzonego kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub
-- **2)** potwierdzonego przez właściwego wojewodę w zakresie tożsamości osoby, która konto założyła.
+### 3.
 
-4. Weryfikacji uprawnień, o której mowa w ust. 2, dokonuje właściwy wojewoda.
+Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
 
-**Art. 62.**
+### 4.
 
-1. PESoz w sesji wiosennej w 2017 r. jest przeprowadzany od dnia 2 czerwca 2017 r. do dnia 15 lipca 2017 r.
+Wojewoda zamieszcza informację o skreśleniu z rejestru w SMK.
 
-2. Wniosek o przystąpienie do PESoz w sesji wiosennej w 2017 r. składa się do dyrektora CEM terminie do dnia 31 marca 2017 r.
+### Art. 17.
 
-**Art. 63.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
+### 1.
 
+Szkolenie specjalizacyjne może być odbywane:
+
+### 1)
+
+na podstawie umowy o pracę zawartej z jednostką szkolącą na czas nieokreślony albo określony równy co najmniej okresowi trwania szkolenia specjalizacyjnego;
+
+### 2)
+
+na podstawie umowy zawartej z jednostką szkolącą na czas trwania szkolenia specjalizacyjnego, określającej w szczególności wzajemne prawa i obowiązki wynikające z realizacji programu szkolenia specjalizacyjnego;
+
+### 3)
+
+na podstawie umowy zawartej z innym podmiotem niż jednostka szkoląca i na podstawie skierowania przez ten podmiot do jednostki szkolącej w celu odbycia szkolenia specjalizacyjnego;
+
+### 4)
+
+w ramach poszerzenia zajęć programowych stacjonarnych studiów doktoranckich odbywanych w jednostce szkolącej o program szkolenia specjalizacyjnego, jeżeli jest on zgodny z zakresem studiów doktoranckich, a po ukończeniu tych studiów - w trybie określonym w pkt 1-3.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1 pkt 1, 3 i 4, kierownik jednostki szkolącej zawiera z osobą odbywającą szkolenie specjalizacyjne umowę o szkolenie określającą wzajemne prawa i obowiązki wynikające z realizacji programu szkolenia specjalizacyjnego.
+
+### Art. 18.
+
+### 1.
+
+Osoba odbywająca szkolenie specjalizacyjne ponosi opłatę za szkolenie.
+
+### 2.
+
+Wysokość opłaty za szkolenie specjalizacyjne ustala kierownik jednostki szkolącej. Wysokość opłaty nie może być większa niż koszty związane z przeprowadzeniem szkolenia specjalizacyjnego. Opłata stanowi przychód jednostki szkolącej.
+
+### Art. 19.
+
+### 1.
+
+Szkolenie specjalizacyjne odbywa się pod nadzorem kierownika specjalizacji.
+
+### 2.
+
+Kierownika specjalizacji powołuje, za jego zgodą, i odwołuje kierownik jednostki szkolącej.
+
+### 3.
+
+Kierownikiem specjalizacji może być osoba posiadająca tytuł specjalisty w dziedzinie ochrony zdrowia, w której odbywa się szkolenie specjalizacyjne, a w uzasadnionych przypadkach - w dziedzinie pokrewnej, albo osoba posiadająca decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+
+### 4.
+
+Kierownik specjalizacji może nadzorować szkolenie specjalizacyjne nie więcej niż 3 osób, a w uzasadnionych przypadkach, za zgodą konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego - nie więcej niż 4 osób.
+
+### 5.
+
+Kierownika specjalizacji odwołuje się w przypadku:
+
+### 1)
+
+niewypełniania lub nienależytego wypełniania obowiązków, o których mowa w ust. 6;
+
+### 2)
+
+uzasadnionego wniosku kierownika specjalizacji;
+
+### 3)
+
+uzasadnionego wniosku osoby odbywającej szkolenie specjalizacyjne pod nadzorem tego kierownika specjalizacji.
+
+### 6.
+
+Do obowiązków kierownika specjalizacji należy:
+
+### 1)
+
+ustalanie szczegółowych warunków odbywania szkolenia specjalizacyjnego w sposób umożliwiający nabycie wiedzy teoretycznej i umiejętności praktycznych określonych w programie szkolenia specjalizacyjnego;
+
+### 2)
+
+ustalanie szczegółowego planu zajęć objętych programem szkolenia specjalizacyjnego;
+
+### 3)
+
+wprowadzanie do EKS danych i informacji w zakresie przewidzianym dla kierownika specjalizacji;
+
+### 4)
+
+wskazywanie niezbędnego piśmiennictwa i innych źródeł informacji ułatwiających samokształcenie;
+
+### 5)
+
+prowadzenie ewaluacji szkolenia specjalizacyjnego;
+
+### 6)
+
+wystawianie opinii dotyczącej przebiegu szkolenia specjalizacyjnego osoby odbywającej to szkolenie, uzyskanych przez nią kompetencji zawodowych oraz jej stosunku do współpracowników i pacjentów, zamieszczanej w EKS;
+
+### 7)
+
+potwierdzanie w EKS ukończenia szkolenia specjalizacyjnego zgodnie z programem szkolenia specjalizacyjnego;
+
+### 8)
+
+zawiadamianie wojewody, za pomocą SMK, o nierealizowaniu programu szkolenia specjalizacyjnego przez osobę odbywającą szkolenie specjalizacyjne.
+
+### 7.
+
+Kierownik specjalizacji dokonuje potwierdzenia, o którym mowa w ust. 6 pkt 7, w terminie 14 dni od dnia ukończenia szkolenia specjalizacyjnego.
+
+### 8.
+
+Kierownikowi specjalizacji w umowie, o której mowa w art. 6 ust. 2 pkt 5, mogą zostać powierzone dodatkowe obowiązki, niewymienione w ust. 6.
+
+### 9.
+
+Kierownik specjalizacji ma prawo do udziału w egzaminie ustnym lub egzaminie praktycznym wchodzącym w skład PESoz w charakterze obserwatora.
+
+### Art. 20.
+
+### 1.
+
+Nadzór nad realizacją programu staży kierunkowych określonych w programie szkolenia specjalizacyjnego może sprawować opiekun stażu wyznaczony, za jego zgodą, przez kierownika specjalizacji spośród osób posiadających tytuł specjalisty w danej dziedzinie ochrony zdrowia albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+
+### 2.
+
+W przypadku dziedziny ochrony zdrowia, w której nie ma osób posiadających tytuł specjalisty albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, albo gdy nie wyraziły one zgody na pełnienie obowiązków opiekuna stażu, opiekunem stażu może być osoba wykonująca co najmniej przez 3 lata w ciągu ostatnich 5 lat czynności zawodowe zgodne z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia, wyznaczona, za jej zgodą, przez kierownika jednostki szkolącej.
+
+### 3.
+
+Opiekun stażu może nadzorować realizację programu stażu kierunkowego nie więcej niż 3 osób.
+
+### Art. 21.
+
+### 1.
+
+Osoba odbywająca szkolenie specjalizacyjne może wystąpić do dyrektora CMKP z wnioskiem o uznanie za równoważne ze zrealizowaniem części programu szkolenia specjalizacyjnego kursów lub staży odbytych w kraju lub za granicą w podmiotach prowadzących szkolenie specjalizacyjne i obniżenie wymiaru godzin szkolenia specjalizacyjnego, jeżeli okres od dnia ukończenia kursu albo stażu do dnia złożenia tego wniosku nie jest dłuższy niż 5 lat.
+
+### 2.
+
+W celu uzyskania opinii w sprawie obniżenia wymiaru godzin szkolenia specjalizacyjnego dyrektor CMKP powołuje zespół w składzie:
+
+### 1)
+
+konsultant wojewódzki w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego;
+
+### 2)
+
+kierownik specjalizacji;
+
+### 3)
+
+przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
+
+### 4)
+
+przedstawiciel CMKP.
+
+### 3.
+
+Na podstawie opinii, o której mowa w ust. 2, dyrektor CMKP, w drodze decyzji, obniża albo odmawia obniżenia wymiaru godzin szkolenia specjalizacyjnego.
+
+### 4.
+
+Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+
+### 5.
+
+Dyrektor CMKP zamieszcza informację o obniżeniu wymiaru godzin szkolenia specjalizacyjnego w EKS.
+
+### Art. 22.
+
+### 1.
+
+Jeżeli jednostka szkoląca zostanie zlikwidowana, poddana restrukturyzacji uniemożliwiającej prowadzenie szkolenia specjalizacyjnego albo skreślona z listy jednostek posiadających akredytację, wojewoda w porozumieniu z kierownikiem specjalizacji i kierownikiem jednostki szkolącej, w której szkolenie specjalizacyjne ma być kontynuowane, wskazuje, za pomocą SMK, tę jednostkę i termin, w którym ma być kontynuowane szkolenie specjalizacyjne, osobie odbywającej szkolenie specjalizacyjne.
+
+### 2.
+
+Jeżeli jednostka szkoląca, w której szkolenie specjalizacyjne ma być kontynuowane, ma siedzibę na obszarze innego województwa, wojewoda właściwy ze względu na siedzibę tej jednostki, na wniosek wojewody właściwego ze względu na siedzibę jednostki szkolącej, w której szkolenie specjalizacyjne było odbywane, w porozumieniu z kierownikiem specjalizacji i kierownikiem jednostki szkolącej, w której szkolenie specjalizacyjne ma być kontynuowane, wskazuje, za pomocą SMK, tę jednostkę i termin, w którym ma być kontynuowane szkolenie specjalizacyjne, osobie odbywającej szkolenie specjalizacyjne.
+
+### 3.
+
+W szczególnie uzasadnionym przypadku wojewoda może, na wniosek osoby odbywającej szkolenie specjalizacyjne, wskazać jej inną jednostkę szkolącą posiadającą wolne miejsce szkoleniowe. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+
+### Art. 23.
+
+### 1.
+
+Jednostka szkoląca przekazuje na bieżąco do CMKP, za pomocą SMK, informacje o kursach specjalizacyjnych i stażach kierunkowych prowadzonych w ramach szkolenia specjalizacyjnego, zawierające:
+
+### 1)
+
+nazwę kursu specjalizacyjnego lub stażu kierunkowego oraz nazwę i adres siedziby jednostki organizacyjnej albo imię, nazwisko i adres działalności osoby fizycznej, prowadzących ten kurs lub staż;
+
+### 2)
+
+termin, miejsce odbywania oraz liczbę miejsc szkoleniowych na danym kursie specjalizacyjnym albo stażu kierunkowym.
+
+### 2.
+
+Dyrektor CMKP zamieszcza na stronie internetowej CMKP i w SMK informacje, o których mowa w ust. 1.
+
+### 3.
+
+Jednostka szkoląca przekazuje do CMKP listę osób, które ukończyły kurs specjalizacyjny albo staż kierunkowy, zawierającą ich imiona i nazwiska oraz numery PESEL, a w przypadku braku numeru PESEL - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania.
+
+### Art. 24.
+
+### 1.
+
+Nadzór nad prowadzeniem szkolenia specjalizacyjnego sprawuje minister właściwy do spraw zdrowia za pośrednictwem dyrektora CMKP.
+
+### 2.
+
+W ramach nadzoru, o którym mowa w ust. 1, dyrektor CMKP jest uprawniony do:
+
+### 1)
+
+kontroli jednostki szkolącej;
+
+### 2)
+
+żądania przedstawienia dokumentacji przebiegu szkolenia specjalizacyjnego i wyjaśnień dotyczących prowadzonego szkolenia specjalizacyjnego;
+
+### 3)
+
+wydawania zaleceń dotyczących usunięcia stwierdzonych uchybień.
+
+### Art. 25.
+
+### 1.
+
+Kontrolę, o której mowa w art. 24 ust. 2 pkt 1, przeprowadza zespół kontrolny powołany przez dyrektora CMKP. Zespół kontrolny składa się co najmniej z 3 osób.
+
+### 2.
+
+W skład zespołu kontrolnego, o którym mowa w ust. 1, wchodzą:
+
+### 1)
+
+pracownik lub pracownicy CMKP;
+
+### 2)
+
+konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
+
+### 3)
+
+przedstawiciel stowarzyszeń zrzeszających osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, który posiada tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli został zgłoszony przez zarządy tych stowarzyszeń;
+
+### 4)
+
+osoba posiadająca tytuł specjalisty w danej dziedzinie ochrony zdrowia albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, zgłoszona przez konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
+
+### 5)
+
+przedstawiciel wojewody właściwego ze względu na siedzibę jednostki szkolącej.
+
+### 3.
+
+Zespół kontrolny wykonuje czynności kontrolne za okazaniem upoważnień osób wchodzących w skład tego zespołu.
+
+### 4.
+
+Zespół kontrolny ma prawo:
+
+### 1)
+
+wstępu do pomieszczeń dydaktycznych;
+
+### 2)
+
+udziału w zajęciach w charakterze obserwatora;
+
+### 3)
+
+wglądu do dokumentacji przebiegu szkolenia specjalizacyjnego prowadzonej przez jednostkę szkolącą;
+
+### 4)
+
+żądania od kierownika jednostki szkolącej ustnych i pisemnych wyjaśnień;
+
+### 5)
+
+badania opinii osób odbywających szkolenie specjalizacyjne i kadry dydaktycznej.
+
+### 5.
+
+Z przeprowadzonych czynności kontrolnych sporządza się protokół, który zawiera:
+
+### 1)
+
+nazwę i adres siedziby jednostki szkolącej;
+
+### 2)
+
+miejsce prowadzenia szkolenia specjalizacyjnego;
+
+### 3)
+
+datę rozpoczęcia i datę zakończenia czynności kontrolnych;
+
+### 4)
+
+imiona i nazwiska członków zespołu kontrolnego;
+
+### 5)
+
+opis stanu faktycznego;
+
+### 6)
+
+stwierdzone w trakcie kontroli nieprawidłowości;
+
+### 7)
+
+wnioski pokontrolne dotyczące stwierdzonych w trakcie kontroli nieprawidłowości;
+
+### 8)
+
+datę i miejsce sporządzenia protokołu;
+
+### 9)
+
+informację o braku zastrzeżeń do treści protokołu albo opis wniesionych zastrzeżeń i wyjaśnienia tych zastrzeżeń;
+
+### 10)
+
+informację o odmowie podpisania protokołu przez kierownika jednostki szkolącej.
+
+### 6.
+
+Protokół, o którym mowa w ust. 5, sporządza się w postaci papierowej, w 2 egzemplarzach, z których jeden przekazuje się kierownikowi jednostki szkolącej.
+
+### 7.
+
+Protokół, o którym mowa w ust. 5, podpisują członkowie zespołu kontrolnego oraz kierownik jednostki szkolącej.
+
+### 8.
+
+Kierownik jednostki szkolącej, przed podpisaniem protokołu, o którym mowa w ust. 5, może zgłosić umotywowane zastrzeżenia do treści protokołu. Zespół kontrolny jest obowiązany wyjaśnić te zastrzeżenia.
+
+### 9.
+
+Odmowa podpisania protokołu, o którym mowa w ust. 5, przez kierownika jednostki szkolącej nie stanowi przeszkody do podpisania protokołu przez członków zespołu kontrolnego.
+
+### 10.
+
+Kierownik jednostki szkolącej w terminie 7 dni od dnia otrzymania protokołu, o którym mowa w ust. 5, może wnieść pisemnie umotywowane zastrzeżenia do treści protokołu. Zespół kontrolny jest obowiązany wyjaśnić te zastrzeżenia i przedstawić na piśmie swoje stanowisko kierownikowi jednostki szkolącej w terminie 14 dni od dnia otrzymania zastrzeżeń.
+
+### 11.
+
+Dyrektor CMKP przekazuje kierownikowi jednostki szkolącej zalecenia pokontrolne dotyczące stwierdzonych w trakcie kontroli nieprawidłowości i zobowiązuje go do usunięcia tych nieprawidłowości w wyznaczonym terminie. Kopię zaleceń pokontrolnych dyrektor CMKP przekazuje do wiadomości wojewodzie, konsultantowi krajowemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, i konsultantowi wojewódzkiemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta wojewódzkiego, właściwemu ze względu na siedzibę jednostki szkolącej.
+
+### 12.
+
+W przypadku niezrealizowania zaleceń pokontrolnych w wyznaczonym terminie dyrektor CMKP, w drodze decyzji, skreśla jednostkę szkolącą z listy jednostek posiadających akredytację.
+
+### 13.
+
+Od decyzji, o której mowa w ust. 12, przysługuje odwołanie do ministra właściwego do spraw zdrowia.
+
+### 14.
+
+Członkom zespołu kontrolnego przysługuje:
+
+### 1)
+
+wynagrodzenie za wykonanie czynności kontrolnych w wysokości do 300 zł;
+
+### 2)
+
+zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2016 r. poz. 1666](https://api.sejm.gov.pl/eli/acts/DU/2016/1666/text.html), [2138](https://api.sejm.gov.pl/eli/acts/DU/2016/2138/text.html) i [2255](https://api.sejm.gov.pl/eli/acts/DU/2016/2255/text.html) oraz [z 2017 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.html)), przysługujących pracownikom z tytułu podróży służbowej;
+
+### 3)
+
+zwolnienie od pracy w dniach wykonywania czynności kontrolnych bez zachowania prawa do wynagrodzenia.
+
+### Art. 26.
+
+### 1.
+
+CMKP monitoruje system szkolenia specjalizacyjnego, w tym analizuje dane o liczbie osób odbywających szkolenie specjalizacyjne oraz dane dotyczące jego przebiegu, znajdujące się w SMK.
+
+### 2.
+
+Dyrektor CMKP przedstawia ministrowi właściwemu do spraw zdrowia, co roku, w terminie do dnia 31 stycznia, informacje dotyczące systemu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia za rok poprzedni.
+
+### Art. 27.
+
+### 1.
+
+Wojewoda w terminie 7 dni od dnia potwierdzenia w EKS przez kierownika specjalizacji ukończenia szkolenia specjalizacyjnego zwraca się, za pomocą SMK, do konsultanta krajowego w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, o ocenę zgodności odbytego szkolenia specjalizacyjnego z programem szkolenia specjalizacyjnego.
+
+### 2.
+
+Konsultant krajowy dokonuje oceny, o której mowa w ust. 1, i przekazuje ją wojewodzie, za pomocą SMK, w terminie 14 dni. W przypadku stwierdzenia niezrealizowania programu szkolenia specjalizacyjnego konsultant krajowy wskazuje brakujący zakres tego programu.
+
+### 3.
+
+Wojewoda niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania oceny, o której mowa w ust. 1, w SMK:
+
+### 1)
+
+potwierdza ukończenie szkolenia specjalizacyjnego albo
+
+### 2)
+
+odmawia potwierdzenia ukończenia szkolenia specjalizacyjnego.
+
+### 4.
+
+Wojewoda zawiadamia niezwłocznie, za pomocą SMK, osobę, która odbyła szkolenie specjalizacyjne, o potwierdzeniu albo odmowie potwierdzenia ukończenia szkolenia specjalizacyjnego, o których mowa w ust. 3. W przypadku odmowy potwierdzenia wojewoda wskazuje miejsce i termin realizacji brakującego zakresu programu szkolenia specjalizacyjnego.
+
+### 5.
+
+Osoba, której wojewoda odmówił potwierdzenia ukończenia szkolenia specjalizacyjnego, w terminie 14 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 4, może zwrócić się do wojewody o weryfikację rozstrzygnięcia.
+
+### 6.
+
+W przypadku, o którym mowa w ust. 3 pkt 2, po zrealizowaniu brakującego zakresu programu szkolenia specjalizacyjnego, stosuje się przepisy ust. 1-4.
+
+### Art. 28.
+
+### 1.
+
+Minister właściwy do spraw zdrowia na wniosek osoby legitymującej się dorobkiem naukowym lub zawodowym w danej dziedzinie ochrony zdrowia, w drodze decyzji, może uznać ten dorobek za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w tej dziedzinie na podstawie opinii zespołu ekspertów, o którym mowa w art. 5 ust. 1, w sprawie uznania dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, składa się do dyrektora CMKP.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko wnioskodawcy;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+
+### 4)
+
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
+
+### 5)
+
+określenie przedmiotu wniosku;
+
+### 6)
+
+nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
+
+### 7)
+
+informacje o przebiegu działalności naukowej lub zawodowej, w szczególności dotyczące osiągnięć w dziedzinie ochrony zdrowia, której dotyczy wniosek;
+
+### 8)
+
+informację o:
+
+### a)
+
+aktualnym miejscu zatrudnienia,
+
+### b)
+
+posiadanym stopniu lub tytule naukowym,
+
+### c)
+
+posiadanych tytułach specjalisty lub specjalizacjach.
+
+### 4.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+### 1)
+
+dokumenty potwierdzające przebieg działalności naukowej lub zawodowej;
+
+### 2)
+
+kopię:
+
+### a)
+
+dyplomu ukończenia studiów wyższych,
+
+### b)
+
+dokumentu potwierdzającego posiadanie stopnia lub tytułu naukowego,
+
+### c)
+
+dyplomu potwierdzającego posiadanie tytułu specjalisty lub specjalizacji.
+
+### 5.
+
+Wniosek, o którym mowa w ust. 1, może zostać złożony z wykorzystaniem formularza zamieszczonego w Biuletynie Informacji Publicznej CMKP.
+
+### 6.
+
+Dyrektor CMKP sprawdza pod względem formalnym wniosek, o którym mowa w ust. 1, oraz dokumenty, o których mowa w ust. 4, a w przypadku stwierdzenia braków formalnych wzywa wnioskodawcę do ich usunięcia w terminie 7 dni od dnia otrzymania wezwania. Po bezskutecznym upływie tego terminu wniosek pozostawia się bez rozpoznania.
+
+### 7.
+
+Dyrektor CMKP przekazuje wniosek, o którym mowa w ust. 1, wraz z dokumentami, o których mowa w ust. 4, zespołowi ekspertów, o którym mowa w art. 5 ust. 1, w celu wydania opinii w sprawie uznania dorobku naukowego lub zawodowego za równoważny ze zrealizowaniem programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia oraz ustala termin i miejsce posiedzenia tego zespołu.
+
+### 8.
+
+Zespół ekspertów, o którym mowa w art. 5 ust. 1, przekazuje dyrektorowi CMKP opinię, o której mowa w ust. 1, niezwłocznie po jej sporządzeniu, nie później jednak niż w terminie 7 dni od dnia jej sporządzenia.
+
+### 9.
+
+Zespół ekspertów, o którym mowa w art. 5 ust. 1, opiniuje wnioski, o których mowa w ust. 1, nie rzadziej niż raz na kwartał.
+
+### 10.
+
+Dyrektor CMKP w terminie 7 dni roboczych od dnia otrzymania opinii, o której mowa w ust. 1, przekazuje tę opinię wraz z wnioskiem, o którym mowa w ust. 1, i dołączonymi do niego dokumentami, o których mowa w ust. 4, do ministra właściwego do spraw zdrowia.
+
+### 11.
+
+Dyrektor CMKP zamieszcza w SMK informację o decyzji, o której mowa w ust. 1, podając:
+
+### 1)
+
+numer decyzji i datę jej wydania;
+
+### 2)
+
+imię (imiona) i nazwisko osoby, której decyzja dotyczy;
+
+### 3)
+
+przedmiot decyzji;
+
+### 4)
+
+rodzaj rozstrzygnięcia;
+
+### 5)
+
+określenie organu wydającego decyzję.
+
+### 12.
+
+Osoba, która uzyskała decyzję, o której mowa w ust. 1, może:
+
+### 1)
+
+wchodzić w skład zespołu ekspertów, o którym mowa w art. 5 ust. 1;
+
+### 2)
+
+pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
+
+### 3)
+
+wchodzić w skład zespołu kontrolnego, o którym mowa w art. 25 ust. 1.
+
+### Art. 29.
+
+### 1.
+
+Osoba, która uzyskała potwierdzenie ukończenia szkolenia specjalizacyjnego, o którym mowa w art. 27 ust. 3 pkt 1, składa, za pomocą SMK, do dyrektora Centrum Egzaminów Medycznych, zwanego dalej „CEM”, wniosek o przystąpienie do PESoz.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko wnioskodawcy;
+
+### 2)
+
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+
+### 3)
+
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
+
+### 4)
+
+nazwę uczelni oraz podstawowej jednostki organizacyjnej uczelni, w której wnioskodawca ukończył studia wyższe;
+
+### 5)
+
+nazwę jednostki szkolącej, w której wnioskodawca odbywał szkolenie specjalizacyjne;
+
+### 6)
+
+numer i datę wydania decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, jeżeli taką posiada;
+
+### 7)
+
+imię i nazwisko, tytuł zawodowy oraz stopień lub tytuł naukowy kierownika specjalizacji;
+
+### 8)
+
+wskazanie właściwego wojewody;
+
+### 9)
+
+wskazanie dziedziny ochrony zdrowia, w której zakresie wnioskodawca zamierza przystąpić do PESoz;
+
+### 10)
+
+wskazanie części PESoz, do której wnioskodawca zamierza przystąpić.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 1, składa się w terminie:
+
+### 1)
+
+do dnia 15 lipca - dla jesiennej sesji egzaminacyjnej;
+
+### 2)
+
+do dnia 15 stycznia - dla wiosennej sesji egzaminacyjnej.
+
+### 4.
+
+W przypadku awarii SMK trwającej dłużej niż godzinę, uniemożliwiającej złożenie wniosku, o którym mowa w ust. 1, w okresie tygodnia przed upływem terminów, o których mowa w ust. 3, terminy te przedłuża się o czas trwania awarii od momentu jej usunięcia. Przedłużenie terminu przez operatora systemu następuje z urzędu.
+
+### Art. 30.
+
+### 1.
+
+Osoba zamierzająca przystąpić do PESoz wnosi opłatę za ten egzamin w wysokości określonej w przepisach wydanych na podstawie art. 46 pkt 7.
+
+### 2.
+
+Opłatę, o której mowa w ust. 1, wnosi się na rachunek bankowy wskazany przez CEM, za pomocą SMK, w trakcie składania wniosku, o którym mowa w art. 29 ust. 1. Opłatę wnosi się nie później niż w terminie 5 dni od dnia upływu terminu składania wniosku, o którym mowa w art. 29 ust. 3. Opłata stanowi dochód budżetu państwa.
+
+### 3.
+
+W przypadku niewniesienia opłaty, o której mowa w ust. 1, albo wniesienia jej w wysokości mniejszej niż określona w przepisach wydanych na podstawie art. 46 pkt 7, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych, za pomocą SMK, a w przypadku awarii SMK - pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 29 ust. 1, w terminie 7 dni od dnia otrzymania wezwania. W przypadku nieuzupełnienia braków formalnych wniosek, o którym mowa w art. 29 ust. 1, traktuje się jako niezłożony, o czym dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+
+### Art. 31.
+
+### 1.
+
+PESoz organizuje CEM.
+
+### 2.
+
+Opracowanie pytań testowych, o których mowa w art. 35 ust. 1, testu i zadań egzaminacyjnych, o których mowa w art. 36 ust. 1, oraz przeprowadzenie PESoz jest finansowane przez CEM.
+
+### Art. 32.
+
+### 1.
+
+PESoz przeprowadza Państwowa Komisja Egzaminacyjna, zwana dalej „PKE”.
+
+### 2.
+
+Przewodniczącego PKE i jej członków powołuje i odwołuje dyrektor CEM.
+
+### 3.
+
+Osoba powołana do PKE otrzymuje akt powołania. Powołanie następuje na czas nieokreślony. Powołanie nie skutkuje powstaniem stosunku pracy w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 4.
+
+Przewodniczący PKE i jej członkowie powinni posiadać tytuł specjalisty w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie ma osób posiadających tytuł specjalisty, albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+
+### 5.
+
+Członkiem PKE nie może być osoba skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe.
+
+### 6.
+
+Kandydatów do PKE mogą zgłaszać:
+
+### 1)
+
+konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego;
+
+### 2)
+
+zarząd stowarzyszenia zrzeszającego osoby wykonujące zawód w danej dziedzinie ochrony zdrowia, które posiadają tytuł specjalisty w tej dziedzinie albo decyzję, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1.
+
+### 7.
+
+Zgłoszenie, o którym mowa w ust. 6, zawiera:
+
+### 1)
+
+imię i nazwisko kandydata;
+
+### 2)
+
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+
+### 3)
+
+wskazanie posiadanego tytułu specjalisty albo numeru i daty decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1;
+
+### 4)
+
+wskazanie dziedziny ochrony zdrowia, w której kandydat ma być powołany do PKE;
+
+### 5)
+
+adres do korespondencji kandydata oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada.
+
+### 8.
+
+Do zgłoszenia, o którym mowa w ust. 6, dołącza się kopię dyplomu potwierdzającego uzyskanie tytułu specjalisty albo decyzji, o której mowa w art. 28 ust. 1 albo art. 57 ust. 1, oraz oświadczenie kandydata składane pod rygorem odpowiedzialności karnej, że nie został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+
+### 9.
+
+Kopia dyplomu specjalisty nie jest wymagana, w przypadku gdy kandydat uzyskał dyplom specjalisty wydany przez dyrektora CEM. W takim przypadku w zgłoszeniu, o którym mowa w ust. 6, należy podać datę wydania i numer dyplomu specjalisty.
+
+### 10.
+
+Członkostwo w PKE wygasa w przypadku śmierci członka PKE.
+
+### 11.
+
+Dyrektor CEM odwołuje członka PKE w przypadku:
+
+### 1)
+
+złożenia rezygnacji;
+
+### 2)
+
+choroby trwale uniemożliwiającej sprawowanie funkcji członka PKE;
+
+### 3)
+
+niewykonywania albo nienależytego wykonywania obowiązków;
+
+### 4)
+
+skazania prawomocnym wyrokiem sądu za umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;
+
+### 5)
+
+złożenia niezgodnego z prawdą oświadczenia, o którym mowa w ust. 8 i art. 33 ust. 6.
+
+### 12.
+
+Dyrektor CEM może odwołać członka PKE w przypadku otrzymania informacji o wszczęciu przeciwko niemu postępowania karnego w związku z podejrzeniem popełnienia umyślnego przestępstwa ściganego z oskarżenia publicznego lub umyślnego przestępstwa skarbowego.
+
+### Art. 33.
+
+### 1.
+
+Dyrektor CEM w porozumieniu z przewodniczącym PKE ustala dla danej sesji egzaminacyjnej listy osób zdających PESoz w danym terminie i miejscu, a następnie nadaje numery kodowe osobom zdającym oraz zawiadamia te osoby o terminie i miejscu PESoz i nadanym numerze kodowym nie później niż na 14 dni przed dniem rozpoczęcia PESoz. Zawiadomienie jest przekazywane za pomocą SMK, a w przypadku awarii SMK - pocztą elektroniczną na adres wskazany we wniosku, o którym mowa w art. 29 ust. 1.
+
+### 2.
+
+Dyrektor CEM wyznacza spośród członków PKE zespoły egzaminacyjne przeprowadzające PESoz w ustalonych terminach i miejscach oraz wskazuje przewodniczących tych zespołów.
+
+### 3.
+
+Zespół egzaminacyjny składa się co najmniej z 3 członków PKE. W skład zespołu egzaminacyjnego wchodzą osoby zgłoszone przez konsultanta krajowego i zarząd stowarzyszenia, o których mowa w art. 32 ust. 6.
+
+### 4.
+
+Członkiem zespołu egzaminacyjnego nie może być osoba, w stosunku do której osoba zdająca PESoz jest:
+
+### 1)
+
+małżonkiem;
+
+### 2)
+
+osobą pozostającą z nią w stosunku:
+
+### a)
+
+pokrewieństwa albo powinowactwa do drugiego stopnia,
+
+### b)
+
+przysposobienia;
+
+### 3)
+
+osobą pozostającą wobec niej w stosunku zależności służbowej;
+
+### 4)
+
+osobą pozostającą z nią we wspólnym pożyciu.
+
+### 5.
+
+Powody wyłączenia określone w ust. 4 pkt 1 i 2 trwają pomimo ustania małżeństwa albo przysposobienia.
+
+### 6.
+
+Członkowie zespołu egzaminacyjnego przed rozpoczęciem PESoz składają dyrektorowi CEM pisemne oświadczenie pod rygorem odpowiedzialności karnej, że nie pozostają z żadną z osób zdających PESoz przed tym zespołem egzaminacyjnym w stosunku, o którym mowa w ust. 4, oraz nie zostali skazani prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Oświadczenie zawiera klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywego oświadczenia.
+
+### 7.
+
+Członkom zespołu egzaminacyjnego przysługuje:
+
+### 1)
+
+wynagrodzenie za udział w pracach tego zespołu w wysokości do 500 zł dla przewodniczącego zespołu oraz do 300 zł dla członka zespołu;
+
+### 2)
+
+zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, przysługujących pracownikom z tytułu podróży służbowej;
+
+### 3)
+
+zwolnienie od pracy w dniu wykonywania czynności zespołu egzaminacyjnego bez zachowania prawa do wynagrodzenia.
+
+### 8.
+
+Szczegółowy tryb wypłaty wynagrodzenia, o którym mowa w ust. 7 pkt 1, oraz zwrotu kosztów przejazdu, o których mowa w ust. 7 pkt 2, określa dyrektor CEM.
+
+### Art. 34.
+
+### 1.
+
+Zakres PESoz jest zgodny z programem szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia.
+
+### 2.
+
+PESoz jest przeprowadzany 2 razy w roku:
+
+### 1)
+
+w wiosennej sesji egzaminacyjnej - od dnia 2 maja do dnia 15 czerwca;
+
+### 2)
+
+w jesiennej sesji egzaminacyjnej - od dnia 2 listopada do dnia 15 grudnia.
+
+### 3.
+
+PESoz składa się z 2 części: egzaminu teoretycznego i egzaminu praktycznego. Warunkiem dopuszczenia do egzaminu praktycznego jest uzyskanie pozytywnego wyniku z egzaminu teoretycznego.
+
+### 4.
+
+Egzamin teoretyczny przeprowadza się w formie:
+
+### 1)
+
+egzaminu testowego, jeżeli liczba osób zdających, o których mowa w art. 29 ust. 1, wynosi co najmniej 30, albo
+
+### 2)
+
+egzaminu ustnego.
+
+### 5.
+
+Egzamin testowy odbywa się jednocześnie w całym kraju, w terminie ustalonym przez dyrektora CEM.
+
+### Art. 35.
+
+### 1.
+
+Egzamin testowy polega na rozwiązaniu 120 pytań testowych zawierających 5 wariantów odpowiedzi, z których tylko jeden jest prawidłowy. Za każdą prawidłową odpowiedź osoba zdająca uzyskuje 1 punkt. W przypadku braku odpowiedzi, udzielenia nieprawidłowej odpowiedzi albo zaznaczenia więcej niż jednej odpowiedzi punkty nie są przyznawane.
+
+### 2.
+
+W przypadku błędów drukarskich w pytaniu testowym uniemożliwiających udzielenie prawidłowej odpowiedzi osoba zdająca ma prawo złożyć w czasie trwania egzaminu testowego ustne zastrzeżenie przewodniczącemu zespołu egzaminacyjnego, wskazując numer pytania testowego zawierającego błąd i wersję testu. Przewodniczący zespołu egzaminacyjnego odnotowuje zastrzeżenie w protokole egzaminacyjnym, o którym mowa w art. 41 ust. 1 pkt 1.
+
+### 3.
+
+Jeżeli zastrzeżenie, o którym mowa w ust. 2, jest zasadne, w przypadku oczywistej omyłki w pytaniu testowym przewodniczący zespołu egzaminacyjnego podaje osobom zdającym prawidłową treść tego pytania. W przypadku gdy egzamin testowy odbywa się w więcej niż jednej sali, przewodniczący zespołu egzaminacyjnego niezwłocznie informuje o zgłoszonym zastrzeżeniu i jego rozstrzygnięciu przewodniczącego PKE. Przewodniczący PKE przekazuje niezwłocznie informację o zgłoszonym zastrzeżeniu i ustalonej treści pytania testowego przewodniczącym pozostałych zespołów egzaminacyjnych, którzy podają prawidłową treść pytania testowego osobom zdającym.
+
+### 4.
+
+W przypadku innym niż określony w ust. 3, zastrzeżenie, o którym mowa w ust. 2, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. W przypadku uznania zastrzeżenia za zasadne zespół egzaminacyjny unieważnia pytanie testowe, którego dotyczyło zastrzeżenie.
+
+### 5.
+
+W przypadku uwag merytorycznych do pytań testowych osoba zdająca ma prawo złożyć pisemne zastrzeżenie przewodniczącemu zespołu egzaminacyjnego w czasie trwania egzaminu testowego albo niezwłocznie po jego zakończeniu, przed opuszczeniem sali egzaminacyjnej. Zastrzeżenie składa się na karcie zastrzeżeń, według wzoru określonego w przepisach wydanych na podstawie art. 46 pkt 6. Kartę zastrzeżeń dołącza się do protokołu, o którym mowa w art. 41 ust. 1 pkt 1.
+
+### 6.
+
+Zastrzeżenie, o którym mowa w ust. 5, rozstrzyga zespół egzaminacyjny po zakończeniu egzaminu testowego, przed ustaleniem jego wyników. Przepis ust. 4 stosuje się.
+
+### 7.
+
+Za unieważnione pytanie testowe nie przyznaje się punktu. Unieważnione pytanie testowe pomija się przy ustalaniu wyniku egzaminu testowego w stosunku do wszystkich osób zdających oraz odpowiednio obniża ogólną liczbę punktów możliwych do uzyskania z egzaminu testowego.
+
+### 8.
+
+Pozytywny wynik egzaminu testowego uzyskuje osoba zdająca, która otrzymała co najmniej 60% liczby punktów możliwych do uzyskania z testu. Uzyskaną przez osobę zdającą liczbę punktów przelicza się na ocenę w sposób określony w przepisach wydanych na podstawie art. 46 pkt 6.
+
+### Art. 36.
+
+### 1.
+
+Egzamin ustny obejmuje 3 albo 4 zadania egzaminacyjne, a egzamin praktyczny - od 1 do 3 zadań egzaminacyjnych.
+
+### 2.
+
+Zadanie egzaminacyjne jest oceniane odrębnie przez każdego członka zespołu egzaminacyjnego. Oceny wystawia się według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6.
+
+### 3.
+
+Ocena za zadanie egzaminacyjne jest ustalana jako średnia arytmetyczna ocen wystawionych przez poszczególnych członków zespołu egzaminacyjnego, zaokrąglona do drugiego miejsca po przecinku.
+
+### 4.
+
+Jeżeli co najmniej połowa członków zespołu egzaminacyjnego wystawi ocenę negatywną za zadanie egzaminacyjne, osoba zdająca otrzymuje ocenę negatywną za to zadanie.
+
+### 5.
+
+Na podstawie ocen uzyskanych za poszczególne zadania egzaminacyjne wylicza się średnią arytmetyczną, zaokrągloną do drugiego miejsca po przecinku, i ustala ocenę egzaminu ustnego i egzaminu praktycznego według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6 i w sposób określony w tych przepisach.
+
+### 6.
+
+Uzyskanie przez osobę zdającą oceny negatywnej za którekolwiek z zadań egzaminacyjnych jest równoznaczne z uzyskaniem negatywnego wyniku z egzaminu ustnego albo egzaminu praktycznego.
+
+### Art. 37.
+
+### 1.
+
+Za wynik pozytywny PESoz uznaje się uzyskanie pozytywnych wyników z egzaminu teoretycznego i egzaminu praktycznego.
+
+### 2.
+
+Ocenę końcową PESoz ustala się na podstawie średniej arytmetycznej ocen uzyskanych z egzaminu teoretycznego i egzaminu praktycznego, zaokrąglonej do drugiego miejsca po przecinku, według skali określonej w przepisach wydanych na podstawie art. 46 pkt 6 i w sposób określony w tych przepisach.
+
+### 3.
+
+Wynik PESoz ustalony przez PKE jest ostateczny i nie służy na niego skarga do sądu administracyjnego.
+
+### 4.
+
+Wynik PESoz dyrektor CEM zamieszcza w SMK, a wyniki egzaminu testowego - także na stronie internetowej CEM, podając numer kodowy osoby zdającej.
+
+### 5.
+
+Osoba, która nie przystąpiła do PESoz w wyznaczonym terminie albo uzyskała wynik negatywny, może przystąpić do PESoz w kolejnej sesji egzaminacyjnej. Przepisy art. 29 i art. 30 stosuje się.
+
+### 6.
+
+Wynik pozytywny z egzaminu teoretycznego jest uznawany w kolejnych 6 sesjach egzaminacyjnych, licząc od sesji, w której został uzyskany.
+
+### 7.
+
+W przypadku nieuzyskania wyniku pozytywnego z egzaminu praktycznego, można przystąpić w innej sesji egzaminacyjnej tylko do tej części PESoz.
+
+### Art. 38.
+
+### 1.
+
+Pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych dla PESoz są opracowywane przez autorów wskazanych przez dyrektora CEM spośród osób posiadających wysokie kwalifikacje i doświadczenie zawodowe w danej dziedzinie ochrony zdrowia. Test jest opracowywany odrębnie dla każdej dziedziny ochrony zdrowia oraz na każdą sesję egzaminacyjną.
+
+### 2.
+
+Pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych podlegają weryfikacji przez recenzentów wyznaczonych przez dyrektora CEM w porozumieniu z konsultantem krajowym w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego.
+
+### 3.
+
+Testy i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych są opracowywane, przetwarzane, dystrybuowane i przechowywane w sposób uniemożliwiający dostęp do nich przez osoby inne niż uczestniczące w ich opracowywaniu, przetwarzaniu, dystrybuowaniu i przechowywaniu, przeprowadzające PESoz lub sprawujące nadzór nad jego przeprowadzaniem.
+
+### 4.
+
+Test i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych mogą być udostępnione wyłącznie osobie zdającej, na jej wniosek, po ich wykorzystaniu w danym PESoz.
+
+### 5.
+
+Dyrektor CEM udostępnia testy i pytania testowe oraz zadania egzaminacyjne do egzaminów ustnych i praktycznych w drodze ich okazania w siedzibie CEM. Zakazane jest wynoszenie poza siedzibę CEM udostępnionych testów i pytań testowych oraz zadań egzaminacyjnych do egzaminów ustnych i praktycznych oraz ich reprodukowanie, kopiowanie jakąkolwiek techniką lub przepisywanie. W przypadku naruszenia tego zakazu udostępnianie zostaje przerwane. Przebieg udostępniania może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk.
+
+### Art. 39.
+
+### 1.
+
+PESoz odbywa się w obecności co najmniej 3 członków PKE.
+
+### 2.
+
+Nieobecność osoby zdającej podczas PESoz, bez względu na jej przyczynę, uważa się za odstąpienie od udziału w PESoz.
+
+### 3.
+
+Osoba zdająca może składać PESoz po okazaniu dokumentu potwierdzającego jej tożsamość.
+
+### Art. 40.
+
+### 1.
+
+Osoba zdająca podczas PESoz nie może korzystać z żadnych pomocy naukowych i dydaktycznych, a także nie może posiadać urządzeń służących do kopiowania, przekazywania i odbioru informacji.
+
+### 2.
+
+Test jest rozwiązywany przez osobę zdającą samodzielnie.
+
+### 3.
+
+W przypadku stwierdzenia podczas PESoz naruszenia zakazu, o którym mowa w ust. 1, lub niesamodzielnego rozwiązywania testu, przewodniczący zespołu egzaminacyjnego dyskwalifikuje osobę zdającą.
+
+### 4.
+
+Przebieg PESoz może być monitorowany za pomocą urządzeń rejestrujących obraz i dźwięk. W przypadku ujawnienia po egzaminie na zarejestrowanych materiałach naruszenia zakazu, o którym mowa w ust. 1, lub niesamodzielnego rozwiązywania testu, osoba zdająca zostaje zdyskwalifikowana. Dyskwalifikacji dokonuje przewodniczący PKE na wniosek zespołu egzaminacyjnego lub dyrektora CEM.
+
+### 5.
+
+Fakt dyskwalifikacji, o której mowa w ust. 3 i 4, wraz ze wskazaniem jej przyczyny odnotowuje się w protokołach, o których mowa w art. 41 ust. 1. Dyskwalifikacja jest równoznaczna z uzyskaniem wyniku negatywnego z danej części PESoz.
+
+### 6.
+
+O dyskwalifikacji, o której mowa w ust. 4, dyrektor CEM zawiadamia na piśmie osobę zdyskwalifikowaną.
+
+### 7.
+
+Osoba zdyskwalifikowana może wnieść do dyrektora CEM uzasadnione zastrzeżenia w terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w ust. 6.
+
+### 8.
+
+Dyrektor CEM rozpatruje zastrzeżenia, o których mowa w ust. 7, i przekazuje informację o rozstrzygnięciu, za pomocą SMK, osobie zdyskwalifikowanej, w terminie 7 dni od dnia ich otrzymania. Rozstrzygnięcie dyrektora CEM jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+### 9.
+
+Informację o dyskwalifikacji, o której mowa w ust. 3 i 4, dyrektor CEM zamieszcza w SMK.
+
+### 10.
+
+Osoba zdyskwalifikowana nie może przystąpić do PESoz w kolejnej sesji egzaminacyjnej. Za ponowne przystąpienie do PESoz osoba zdająca wnosi opłatę.
+
+### Art. 41.
+
+### 1.
+
+Zespół egzaminacyjny sporządza:
+
+### 1)
+
+protokół przebiegu egzaminu testowego w danej sali egzaminacyjnej;
+
+### 2)
+
+dla każdej osoby zdającej PESoz indywidualny protokół tego egzaminu.
+
+### 2.
+
+Protokoły, o których mowa w ust. 1, podpisują wszyscy członkowie zespołu egzaminacyjnego.
+
+### 3.
+
+Przewodniczący zespołu egzaminacyjnego przesyła protokoły, o których mowa w ust. 1, wraz z pozostałą dokumentacją egzaminacyjną dyrektorowi CEM w terminie 14 dni od dnia zakończenia PESoz.
+
+### Art. 42.
+
+Dyrektor CEM przekazuje wyniki PESoz, za pomocą SMK, wojewodom, dyrektorowi CMKP oraz jednostkom szkolącym.
+
+### Art. 43.
+
+### 1.
+
+Osoba, która uzyskała pozytywny wynik PESoz, otrzymuje dyplom potwierdzający uzyskanie tytułu specjalisty w danej dziedzinie ochrony zdrowia, wydany przez dyrektora CEM.
+
+### 2.
+
+Dyrektor CEM wydaje dyplom, o którym mowa w ust. 1, w terminie 30 dni od dnia otrzymania protokołów, o których mowa w art. 41 ust. 1, wraz z kompletną dokumentacją egzaminacyjną.
+
+### 3.
+
+Na wniosek osoby, która zdała PESoz, dyrektor CEM:
+
+### 1)
+
+wydaje:
+
+### a)
+
+odpis dyplomu,
+
+### b)
+
+duplikat - w przypadku zniszczenia albo utraty dyplomu;
+
+### 2)
+
+dokonuje wymiany dyplomu zawierającego błędy.
+
+### 4.
+
+Za wydanie odpisu dyplomu, jego duplikatu albo dokonanie wymiany dyplomu wnosi się opłatę w wysokości 50 zł. Opłaty nie wnosi się, w przypadku gdy wymiana dyplomu wynika z błędu CEM. Opłata stanowi dochód budżetu państwa.
+
+### 5.
+
+Opłata, o której mowa w ust. 4, jest wnoszona na rachunek bankowy wskazany na stronie internetowej CEM.
+
+### 6.
+
+W przypadku niewniesienia opłaty, o której mowa w ust. 4, albo wniesienia jej w mniejszej wysokości, dyrektor CEM wzywa wnioskodawcę do uzupełnienia braków formalnych. W przypadku nieuzupełnienia braków w terminie 7 dni od dnia otrzymania wezwania, wniosek, o którym mowa w ust. 3, traktuje się jako niezłożony, o czym dyrektor CEM informuje w wezwaniu do uzupełnienia braków formalnych.
+
+### 7.
+
+CEM prowadzi rejestr dyplomów, o których mowa w ust. 1, i przechowuje ich elektroniczne kopie.
+
+### Art. 44.
+
+Dokumentacja dotycząca PESoz, która nie jest gromadzona w SMK, jest przechowywana przez CEM.
+
+### Art. 45.
+
+### 1.
+
+W przypadku rażących uchybień formalnych w przeprowadzeniu PESoz lub nieprzewidzianych sytuacji mających wpływ na przeprowadzenie PESoz dyrektor CEM na wniosek członka zespołu egzaminacyjnego, osoby zdającej albo z urzędu może unieważnić PESoz albo jego część w stosunku do wszystkich albo poszczególnych zdających.
+
+### 2.
+
+Dyrektor CEM podejmuje rozstrzygnięcie w sprawie unieważnienia PESoz albo jego części w terminie 14 dni od dnia powzięcia informacji o przyczynach uzasadniających unieważnienie.
+
+### 3.
+
+O rozstrzygnięciu, o którym mowa w ust. 1, dyrektor CEM zawiadamia na piśmie osobę, która złożyła wniosek, o którym mowa w ust. 1.
+
+### 4.
+
+Informację o rozstrzygnięciu, o którym mowa w ust. 1, dyrektor CEM zamieszcza również w SMK oraz na stronie internetowej CEM.
+
+### 5.
+
+Osoba, której unieważniono PESoz albo jego część, w terminie 7 dni od dnia otrzymania informacji o unieważnieniu może wnieść do dyrektora CEM uzasadnione zastrzeżenia.
+
+### 6.
+
+Dyrektor CEM rozpatruje zastrzeżenie, o którym mowa w ust. 5, i przekazuje, za pomocą SMK, informację o jego rozstrzygnięciu osobie, która wniosła zastrzeżenie, w terminie 7 dni od dnia jego otrzymania. Rozstrzygnięcie dyrektora CEM jest ostateczne i nie służy na nie skarga do sądu administracyjnego.
+
+### 7.
+
+Unieważniony PESoz albo jego część są powtarzane nie później niż w terminie 3 miesięcy od dnia unieważnienia. Za powtórzony PESoz albo jego część nie pobiera się opłaty, o której mowa w art. 30 ust. 1.
+
+### 8.
+
+Dyrektor CEM odnotowuje w protokołach, o których mowa w art. 41 ust. 1, unieważnienie PESoz albo jego części wraz ze wskazaniem przyczyny unieważnienia.
+
+### Art. 46.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+
+### 1)
+
+dziedziny ochrony zdrowia, w których można uzyskać tytuł specjalisty,
+
+### 2)
+
+oznaczenia kodowe tytułów specjalisty w poszczególnych dziedzinach ochrony zdrowia,
+
+### 3)
+
+kierunki studiów, po których ukończeniu można przystąpić do szkolenia specjalizacyjnego w poszczególnych dziedzinach ochrony zdrowia,
+
+### 4)
+
+dziedziny ochrony zdrowia, w których posiadana specjalizacja I stopnia umożliwia uzyskanie tytułu specjalisty i dziedziny ochrony zdrowia, w których ten tytuł można uzyskać
+
+- uwzględniając aktualny stan wiedzy medycznej, konieczność zapewnienia świadczeń zdrowotnych na odpowiednim poziomie oraz potrzebę zabezpieczenia dostępu do tych świadczeń;
+
+### 5)
+
+szczegółowy zakres danych dotyczących przebiegu szkolenia specjalizacyjnego zawartych w EKS, wraz ze wskazaniem danych wprowadzanych do EKS przez osobę odbywającą szkolenie specjalizacyjne, kierownika specjalizacji, jednostkę szkolącą i wojewodę lub danych przez nich potwierdzanych, uwzględniając konieczność zapewnienia pełnych informacji niezbędnych do prowadzenia szkolenia specjalizacyjnego;
+
+### 6)
+
+szczegółowy sposób i tryb przeprowadzania PESoz oraz jego dokumentowania, w tym skalę ocen ze wskazaniem, które z ocen według tej skali uznaje się za oceny pozytywne, a które za negatywne, sposób przeliczania na ocenę liczby punktów uzyskanych z egzaminu testowego, o którym mowa w art. 35 ust. 8, i średniej arytmetycznej, o której mowa w art. 36 ust. 5 i art. 37 ust. 2, wzór karty zastrzeżeń, o której mowa w art. 35 ust. 5, oraz wzory protokołów, o których mowa w art. 41 ust. 1, uwzględniając konieczność zapewnienia prawidłowego i efektywnego przeprowadzania PESoz oraz jego dokumentowania, a także zapewnienia zachowania bezstronności pracy zespołu egzaminacyjnego;
+
+### 7)
+
+wysokość opłaty za PESoz, uwzględniając koszty przeprowadzania PESoz, nie wyższej niż 25% przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok, ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;
+
+### 8)
+
+wysokość wynagrodzenia przewodniczącego i członków zespołu egzaminacyjnego, o którym mowa w art. 33 ust. 7, uwzględniając nakład pracy przewodniczącego i członków zespołu egzaminacyjnego;
+
+### 9)
+
+wzór dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność zapewnienia przejrzystości dokumentu;
+
+### 10)
+
+tryb dokonywania przez dyrektora CEM wymiany dyplomu potwierdzającego uzyskanie tytułu specjalisty, uwzględniając konieczność prawidłowego i sprawnego wydawania dokumentu potwierdzającego uzyskanie tytułu specjalisty;
+
+### 11)
+
+wysokość wynagrodzenia za wykonywanie czynności kontrolnych, o którym mowa w art. 25 ust. 4, uwzględniając nakład pracy związany z przeprowadzaniem czynności kontrolnych.
+
+### Art. 47.
+
+### 1.
+
+Minister właściwy do spraw zdrowia na wniosek osoby, która uzyskała tytuł specjalisty za granicą, może uznać ten tytuł za równoważny z tytułem specjalisty w dziedzinie ochrony zdrowia w Rzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
+
+### 1)
+
+czas szkolenia specjalizacyjnego odbytego za granicą nie odbiega od czasu określonego w programie szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia odbywanego w Rzeczypospolitej Polskiej;
+
+### 2)
+
+program szkolenia specjalizacyjnego odbytego za granicą w zakresie wymaganej wiedzy teoretycznej oraz umiejętności praktycznych odpowiada w istotnych elementach programowi szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia odbywanego w Rzeczypospolitej Polskiej.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, składa się za pośrednictwem dyrektora CMKP.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko wnioskodawcy;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+
+### 4)
+
+obywatelstwo (obywatelstwa);
+
+### 5)
+
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
+
+### 6)
+
+określenie przedmiotu wniosku;
+
+### 7)
+
+nazwę ukończonej uczelni oraz uzyskany tytuł zawodowy;
+
+### 8)
+
+informację o:
+
+### a)
+
+posiadanym stopniu lub tytule naukowym,
+
+### b)
+
+posiadanych tytułach specjalisty,
+
+### c)
+
+aktualnym miejscu zatrudnienia.
+
+### 4.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się, wraz z tłumaczeniem na język polski:
+
+### 1)
+
+dokumenty:
+
+### a)
+
+potwierdzające uzyskanie tytułu specjalisty,
+
+### b)
+
+zawierające informacje o:
+
+- - miejscu i czasie odbycia szkolenia specjalizacyjnego oraz zrealizowanym programie szkolenia specjalizacyjnego,
+
+- - sposobie i trybie złożenia egzaminu końcowego albo innej formie potwierdzającej nabytą wiedzę teoretyczną i umiejętności praktyczne oraz
+
+### 2)
+
+dokumenty potwierdzające wykonywanie czynności zawodowych po uzyskaniu tytułu specjalisty i wskazujące miejsce, czas i rodzaj tych czynności.
+
+### 5.
+
+Minister właściwy do spraw zdrowia, w drodze decyzji, uznaje albo odmawia uznania tytułu specjalisty w danej dziedzinie ochrony zdrowia uzyskanego za granicą, na podstawie opinii zespołu ekspertów, o którym mowa w art. 5 ust. 1, a w przypadku konieczności odbycia stażu uzupełniającego, o którym mowa w ust. 6 pkt 2, na podstawie opinii zawodowej, o której mowa w ust. 11.
+
+### 6.
+
+Opinia, o której mowa w ust. 5, jest sporządzana na podstawie oceny merytorycznej wniosku, o którym mowa w ust. 1. W wyniku dokonania oceny zespół ekspertów, o którym mowa w art. 5 ust. 1, może wnioskować o:
+
+### 1)
+
+uznanie tytułu specjalisty;
+
+### 2)
+
+uznanie tytułu specjalisty po odbyciu stażu uzupełniającego w jednostce szkolącej wskazanej w tej opinii, którego zakres merytoryczny określa w indywidualnych przypadkach zespół ekspertów;
+
+### 3)
+
+uznanie tytułu specjalisty po złożeniu PESoz;
+
+### 4)
+
+odmowę uznania tytułu specjalisty.
+
+### 7.
+
+W sprawach, o których mowa w ust. 1, zespół ekspertów, o którym mowa w art. 5 ust. 1, zbiera się w miarę potrzeby, nie rzadziej jednak niż raz na kwartał.
+
+### 8.
+
+Dyrektor CMKP w terminie 7 dni roboczych od dnia otrzymania opinii, o której mowa w ust. 5, przekazuje tę opinię wraz z wnioskiem, o którym mowa w ust. 1, oraz dokumentami, o których mowa w ust. 4, do ministra właściwego do spraw zdrowia.
+
+### 9.
+
+W przypadku gdy opinia, o której mowa w ust. 5, zawiera wskazanie do odbycia stażu uzupełniającego, o którym mowa w ust. 6 pkt 2, minister właściwy do spraw zdrowia kieruje osobę, o której mowa w ust. 1, do odbycia tego stażu, z uwzględnieniem czasu trwania i zakresu merytorycznego tego stażu oraz wskazuje jednostkę szkolącą, w której staż uzupełniający ma być odbyty.
+
+### 10.
+
+Osoba, o której mowa w ust. 1, odbywa staż uzupełniający, o którym mowa w ust. 6 pkt 2, na podstawie umowy o odbycie stażu uzupełniającego zawartej z jednostką szkolącą, na warunkach określonych w tej umowie.
+
+### 11.
+
+Staż uzupełniający, o którym mowa w ust. 6 pkt 2, kończy się uzyskaniem opinii zawodowej wystawianej przez kierownika właściwej komórki organizacyjnej jednostki szkolącej.
+
+### 12.
+
+Dyrektor CMKP zamieszcza w SMK informację o decyzji, o której mowa w ust. 5, podając:
+
+### 1)
+
+numer decyzji;
+
+### 2)
+
+datę jej wydania;
+
+### 3)
+
+imię (imiona) i nazwisko osoby, której decyzja dotyczy;
+
+### 4)
+
+obywatelstwo (obywatelstwa) osoby, której decyzja dotyczy;
+
+### 5)
+
+nazwę państwa, w którym uzyskano tytuł specjalisty;
+
+### 6)
+
+przedmiot decyzji;
+
+### 7)
+
+rodzaj rozstrzygnięcia;
+
+### 8)
+
+określenie organu wydającego decyzję.
+
+### Art. 48.
+
+Dane zamieszczane w SMK są udostępniane podmiotom realizującym zadania określone w ustawie w zakresie niezbędnym do realizacji tych zadań, a także:
+
+### 1)
+
+uczelniom - w zakresie monitorowania karier zawodowych ich absolwentów na podstawie ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym ([Dz. U. z 2016 r. poz. 1842](https://api.sejm.gov.pl/eli/acts/DU/2016/1842/text.html), [1933](https://api.sejm.gov.pl/eli/acts/DU/2016/1933/text.html), [2169](https://api.sejm.gov.pl/eli/acts/DU/2016/2169/text.html) i [2260](https://api.sejm.gov.pl/eli/acts/DU/2016/2260/text.html) oraz [z 2017 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2017/60/text.html));
+
+### 2)
+
+konsultantom krajowym i konsultantom wojewódzkim - w zakresie wykonywania zadań określonych w ustawie oraz w ustawie z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia ([Dz. U. z 2015 r. poz. 126](https://api.sejm.gov.pl/eli/acts/DU/2015/126/text.html) oraz [z 2016 r. poz. 960](https://api.sejm.gov.pl/eli/acts/DU/2016/960/text.html)).
+
+### Art. 49.
+
+W ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ([Dz. U. z 2016 r. poz. 1535](https://api.sejm.gov.pl/eli/acts/DU/2016/1535/text.html), [1579](https://api.sejm.gov.pl/eli/acts/DU/2016/1579/text.html) i [2020](https://api.sejm.gov.pl/eli/acts/DU/2016/2020/text.html)) w art. 30 w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+art. 46 ustawy z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty w dziedzinach mających zastosowanie w ochronie zdrowia ([Dz. U. poz. 599](https://api.sejm.gov.pl/eli/acts/DU/2017/599/text.html)).
+
+” .
+
+### Art. 50.
+
+W ustawie z dnia 25 września 2015 r. o zawodzie fizjoterapeuty ([Dz. U. poz. 1994](https://api.sejm.gov.pl/eli/acts/DU/2015/1994/text.html)) w art. 152 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Osoba, o której mowa w ust. 1, która uzyskała wynik pozytywny z części praktycznej PESoz, przystępuje wyłącznie do części teoretycznej PESFZ, pod warunkiem że od dnia uzyskania tego wyniku nie upłynął okres dłuższy niż 3 lata.
+
+” .
+
+### Art. 51.
+
+W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw ([Dz. U. poz. 1991](https://api.sejm.gov.pl/eli/acts/DU/2015/1991/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 65, 580, 652, 832, 1579 i 2020.](#gloss-0:2:)) art. 44 otrzymuje brzmienie:
+
+„
+
+### Art. 44.
+
+Farmaceuta, który przed dniem 1 maja 2016 r. uzyskał pozytywny wynik z części praktycznej PESF, przystępuje wyłącznie do części teoretycznej tego egzaminu, pod warunkiem że od dnia uzyskania tego wyniku nie upłynął okres dłuższy niż 3 lata.
+
+” .
+
+### Art. 52.
+
+### 1.
+
+Osoba posiadająca specjalizację I stopnia w dziedzinie ochrony zdrowia określonej w przepisach wydanych na podstawie art. 46 pkt 4 może uzyskać tytuł specjalisty w danej dziedzinie ochrony zdrowia po ukończeniu uzupełniającego szkolenia specjalizacyjnego.
+
+### 2.
+
+Szkolenie uzupełniające, o którym mowa w ust. 1, jest prowadzone zgodnie z uzupełniającym programem szkolenia specjalizacyjnego, który jest dostosowany do zakresu wiedzy teoretycznej i umiejętności praktycznych objętych programem specjalizacji I stopnia. Do programu szkolenia uzupełniającego stosuje się odpowiednio przepisy art. 4 i art. 5.
+
+### 3.
+
+Osoba, o której mowa w ust. 1, odbywa szkolenie specjalizacyjne na zasadach określonych ustawą, z tym że we wniosku o rozpoczęcie szkolenia specjalizacyjnego wskazuje jako wnioskowany tryb odbywania tego szkolenia uzupełniające szkolenie specjalizacyjne.
+
+### Art. 53.
+
+### 1.
+
+Jednostki szkolące posiadające uprawnienia do prowadzenia szkolenia specjalizacyjnego nadane zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ([Dz. U. z 2007 r. poz. 89](https://api.sejm.gov.pl/eli/acts/DU/2007/89/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235.](#gloss-0:3:)) stają się z dniem wejścia w życie ustawy jednostkami szkolącymi w rozumieniu ustawy.
+
+### 2.
+
+Lista jednostek szkolących prowadzona przez CMKP zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej staje się z dniem wejścia w życie ustawy listą jednostek posiadających akredytację, o której mowa w art. 6 ust. 1. CMKP w terminie 30 dni od dnia wejścia w życie ustawy przeniesie tę listę do SMK.
+
+### 3.
+
+Członkowie zespołów ekspertów oceniających spełnianie przez jednostki szkolące wymagań niezbędnych do prowadzenia szkolenia specjalizacyjnego, powołanych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, stają się z dniem wejścia w życie ustawy członkami zespołów ekspertów, o których mowa w art. 6 ust. 9.
+
+### 4.
+
+Członkowie zespołów ekspertów do spraw programów specjalizacji powołanych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej stają się członkami zespołów ekspertów, o których mowa w art. 5 ust. 1.
+
+### 5.
+
+Program specjalizacji opracowany zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej zachowuje ważność do dnia zatwierdzenia przez ministra właściwego do spraw zdrowia programu szkolenia specjalizacyjnego w danej dziedzinie ochrony zdrowia zgodnie z art. 5 ust. 3.
+
+### 6.
+
+CMKP w terminie 30 dni od dnia wejścia w życie ustawy, wprowadzi programy specjalizacji, o których mowa w ust. 5, do SMK.
+
+### Art. 54.
+
+### 1.
+
+Przewodniczący i członkowie Państwowej Komisji Egzaminacyjnej powołanej do przeprowadzania Państwowego Egzaminu Specjalizacyjnego zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej stają się z dniem wejścia w życie ustawy odpowiednio przewodniczącym i członkami PKE.
+
+### 2.
+
+Testy, pytania i zadania egzaminacyjne Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia opracowane przed dniem wejścia w życie ustawy uznaje się za opracowane w trybie przewidzianym w ustawie.
+
+### Art. 55.
+
+W sprawach przyznawania tytułu specjalisty w dziedzinie mającej zastosowanie w ochronie zdrowia osobom, które uzyskały tytuł specjalisty poza granicami Rzeczypospolitej Polskiej, wszczętych zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy art. 47.
+
+### Art. 56.
+
+### 1.
+
+Osoby, które rozpoczęły specjalizację na podstawie programów specjalizacji, o których mowa w art. 53 ust. 5, odbywają szkolenie specjalizacyjne na podstawie tych programów.
+
+### 2.
+
+Osoby, które rozpoczęły specjalizację zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, odbywają szkolenie specjalizacyjne na podstawie tych przepisów.
+
+### 3.
+
+Rejestr osób odbywających specjalizację na obszarze danego województwa prowadzony zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej staje się z dniem wejścia w życie ustawy rejestrem, o którym mowa w art. 15 ust. 1. Właściwi wojewodowie w terminie 30 dni od dnia wejścia w życie ustawy wprowadzą dane znajdujące się w tym rejestrze do SMK.
+
+### Art. 57.
+
+### 1.
+
+Osoba, której minister właściwy do spraw zdrowia powierzył, w drodze decyzji, obowiązki specjalisty w danej dziedzinie ochrony zdrowia zgodnie z przepisami wydanymi na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, może:
+
+### 1)
+
+wchodzić w skład zespołu ekspertów, o którym mowa w art. 5 ust. 1 i art. 6 ust. 9;
+
+### 2)
+
+pełnić funkcję kierownika specjalizacji w danej dziedzinie ochrony zdrowia;
+
+### 3)
+
+wchodzić w skład zespołu kontrolnego, o którym mowa w art. 25 ust. 1;
+
+### 4)
+
+przystąpić do PESoz w danej dziedzinie ochrony zdrowia.
+
+### 2.
+
+Osoba, o której mowa w ust. 1, która przed dniem wejścia w życie ustawy nie przystąpiła do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia albo po przystąpieniu do niego nie uzyskała wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz w danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29-43.
+
+### 3.
+
+Osoba, o której mowa w ust. 1, składa wniosek o przystąpienie do PESoz za pomocą SMK.
+
+### Art. 58.
+
+### 1.
+
+Osoba, która przed dniem wejścia w życie ustawy rozpoczęła szkolenie specjalizacyjne w danej dziedzinie ochrony zdrowia i nie uzyskała potwierdzenia zakończenia szkolenia specjalizacyjnego przez wojewodę albo ukończyła szkolenie specjalizacyjne i nie została dopuszczona do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia, może przystąpić do PESoz w dziedzinie ochrony zdrowia, w której rozpoczęła albo ukończyła szkolenie specjalizacyjne, zgodnie z przepisami ustawy.
+
+### 2.
+
+Osoba, o której mowa w ust. 1, składa do właściwego wojewody wniosek o potwierdzenie ukończenia szkolenia specjalizacyjnego zgodnie z programem specjalizacji. Wniosek jest tworzony i pobierany za pomocą SMK, a następnie podpisywany przez tę osobę.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 2, zawiera:
+
+### 1)
+
+imię (imiona) i nazwisko osoby, o której mowa w ust. 1;
+
+### 2)
+
+datę i miejsce urodzenia;
+
+### 3)
+
+numer PESEL, a w przypadku jego braku - cechy dokumentu potwierdzającego tożsamość: nazwę i numer dokumentu oraz państwo jego wydania;
+
+### 4)
+
+obywatelstwo (obywatelstwa);
+
+### 5)
+
+adres do korespondencji oraz numer telefonu i adres poczty elektronicznej, jeżeli posiada;
+
+### 6)
+
+dziedzinę ochrony zdrowia, w której odbywała szkolenie specjalizacyjne;
+
+### 7)
+
+nazwę i adres jednostki szkolącej, w której odbywała szkolenie specjalizacyjne;
+
+### 8)
+
+stopień lub tytuł naukowy oraz imię i nazwisko kierownika specjalizacji;
+
+### 9)
+
+informację o skróceniu szkolenia specjalizacyjnego.
+
+### 4.
+
+Do wniosku, o którym mowa w ust. 2, dołącza się, w postaci papierowej, dokumentację określoną w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
+
+### 5.
+
+Wojewoda w terminie 7 dni od dnia otrzymania kompletnej dokumentacji, o której mowa w ust. 4, przekazuje ją konsultantowi krajowemu w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, i zwraca się o ocenę odbycia przez osobę, o której mowa w ust. 1, szkolenia specjalizacyjnego zgodnie z jego programem, w terminie 14 dni od dnia przekazania dokumentacji. Konsultant krajowy przekazuje wojewodzie ocenę i zwraca otrzymaną dokumentację. Dokumentację, o której mowa w ust. 4, przechowuje wojewoda.
+
+### 6.
+
+W przypadku niezrealizowania przez osobę, o której mowa w ust. 1, programu szkolenia specjalizacyjnego, konsultant krajowy w danej dziedzinie ochrony zdrowia albo w dziedzinie pokrewnej, jeżeli w danej dziedzinie ochrony zdrowia nie powołano konsultanta krajowego, wskazuje brakujące elementy.
+
+### 7.
+
+Wojewoda w terminie 7 dni od dnia uzyskania oceny od konsultanta krajowego:
+
+### 1)
+
+potwierdza zakończenie szkolenia specjalizacyjnego;
+
+### 2)
+
+w przypadku, o którym mowa w ust. 6, kieruje osobę, o której mowa w ust. 1, do zrealizowania brakującego elementu programu specjalizacji na czas niezbędny do realizacji tego elementu, uwzględniając okres przerwy wynikającej z procedur weryfikacji realizacji programu specjalizacji.
+
+### 8.
+
+Wojewoda zawiadamia osobę, o której mowa w ust. 1, o rozstrzygnięciu, o którym mowa w ust. 7, za pomocą SMK. W przypadku, o którym mowa w ust. 7 pkt 2, osoba, o której mowa w ust. 1, w terminie 14 dni od dnia otrzymania rozstrzygnięcia może zwrócić się do wojewody o weryfikację rozstrzygnięcia.
+
+### 9.
+
+W przypadku, o którym mowa w ust. 7 pkt 2, osoba, o której mowa w ust. 1, po zrealizowaniu brakującego elementu programu szkolenia specjalizacyjnego i potwierdzeniu tego faktu przez kierownika specjalizacji w karcie szkolenia specjalizacyjnego, może wystąpić z wnioskiem o potwierdzenie przez wojewodę zakończenia szkolenia specjalizacyjnego. Przepisy ust. 2-8 stosuje się.
+
+### Art. 59.
+
+### 1.
+
+Osoba, która została dopuszczona do Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia przed dniem wejścia w życie ustawy, ale do niego nie przystąpiła albo po przystąpieniu do niego nie uzyskała wyniku pozytywnego z całości albo z części tego egzaminu, może przystąpić do PESoz w danej dziedzinie ochrony zdrowia zgodnie z przepisami art. 29-43.
+
+### 2.
+
+Osoba, o której mowa w ust. 1, składa wniosek o przystąpienie do PESoz za pomocą SMK.
+
+### Art. 60.
+
+Osoba, która przed dniem wejścia w życie ustawy uzyskała wynik pozytywny z części praktycznej Państwowego Egzaminu Specjalizacyjnego w danej dziedzinie ochrony zdrowia, przystępuje wyłącznie do części teoretycznej PESoz, pod warunkiem że od dnia uzyskania tego wyniku nie upłynął okres dłuższy niż 3 lata.
+
+### Art. 61.
+
+### 1.
+
+Osoba, o której mowa w art. 57 ust. 1, art. 58 ust. 1 i art. 59 ust. 1, zakłada konto w SMK w celu dokonywania czynności w tym systemie.
+
+### 2.
+
+Warunkiem dokonywania przez osobę, o której mowa w art. 57 ust. 1, art. 58 ust. 1 i art. 59 ust. 1, czynności za pomocą SMK jest potwierdzenie tożsamości osoby, która konto założyła i weryfikacja uprawnień tej osoby.
+
+### 3.
+
+Potwierdzenia tożsamości, o którym mowa w ust. 2, dokonuje się na podstawie wniosku o nadanie uprawnień:
+
+### 1)
+
+opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym ePUAP lub
+
+### 2)
+
+potwierdzonego przez właściwego wojewodę w zakresie tożsamości osoby, która konto założyła.
+
+### 4.
+
+Weryfikacji uprawnień, o której mowa w ust. 2, dokonuje właściwy wojewoda.
+
+### Art. 62.
+
+### 1.
+
+PESoz w sesji wiosennej w 2017 r. jest przeprowadzany od dnia 2 czerwca 2017 r. do dnia 15 lipca 2017 r.
+
+### 2.
+
+Wniosek o przystąpienie do PESoz w sesji wiosennej w 2017 r. składa się do dyrektora CEM terminie do dnia 31 marca 2017 r.
+
+### Art. 63.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, ustawę z dnia 25 września 2015 r. o zawodzie fizjoterapeuty oraz ustawę z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 65, 580, 652, 832, 1579 i 2020. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235.

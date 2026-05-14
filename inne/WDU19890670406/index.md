@@ -8,11 +8,9 @@ pos: 406
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o Funduszu Daru Narodowego.
-
-*USTAWA z dnia 30 listopada 1989 r.*
+# Ustawa z dnia 30 listopada 1989 r. o Funduszu Daru Narodowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,87 +22,192 @@ domain: null
 | Data ogłoszenia | 1989-11-30 |
 | Data wydania | 1989-12-16 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890670406) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/406/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1989/406/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1989/406) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:7)(cid:15)(cid:16)(cid:4)(cid:12)(cid:7)(cid:17)(cid:16)(cid:4)(cid:3)(cid:14)(cid:3)(cid:2)(cid:18)(cid:19)(cid:3)(cid:20)(cid:7)(cid:5)(cid:2)(cid:16)(cid:13)(cid:6)(cid:7)(cid:14)(cid:16)(cid:21)(cid:18)(cid:22)(cid:7)(cid:23)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:18)(cid:24)(cid:25)(cid:26)
+### Art. 1.
 
-2. (cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:7)(cid:19)(cid:4)(cid:3)(cid:24)(cid:16)(cid:14)(cid:5)(cid:9)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:28)(cid:9)(cid:7)(cid:29)(cid:3)(cid:30)(cid:31)(cid:3)(cid:14)(cid:5) (cid:30)(cid:18)(cid:7)(cid:3)(cid:14)(cid:7)!(cid:3)(cid:21)(cid:16)(cid:28)"(cid:2)(cid:7)(cid:9)(cid:7)(cid:29)(cid:4)(cid:5)(cid:6)(cid:22)(cid:16)(cid:30)(cid:9)"#(cid:7)!(cid:3)(cid:21)(cid:8)(cid:28)(cid:9)(cid:7)(cid:2)(cid:7)(cid:28)(cid:4)(cid:16)(cid:22)(cid:12)(cid:7)(cid:9)(cid:7)(cid:5)(cid:16)(cid:7)(cid:19)(cid:4)(cid:16)(cid:13)(cid:9)(cid:30) (cid:26)
+### 1.
 
-**Art. 2.**
+Tworzy się Fundusz Daru Narodowego, zwany dalej „Funduszem”.
 
-1. $(cid:4)(cid:3)(cid:14)(cid:28)(cid:9)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:5)(cid:13)(cid:16)(cid:30)(cid:5)(cid:16)(cid:7)(cid:8)(cid:9)(cid:10)(cid:7)(cid:13)(cid:16)(cid:7)%(cid:9)(cid:13)(cid:16)(cid:13)(cid:8)(cid:3)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:29)(cid:3)&(cid:4)(cid:5)(cid:18)’(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:14)(cid:8)&(cid:16)(cid:2)(cid:9)(cid:16)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:5)(cid:7)(cid:4)(cid:5) (cid:14)(cid:20) (cid:28)(cid:3)(cid:27)(cid:30)(cid:9)(cid:3)#(cid:6)(cid:20)(cid:7)(cid:5)(cid:2)(cid:9) (cid:5)(cid:28)(cid:9)(cid:7)(cid:2)(cid:6)(cid:5)(cid:13)(cid:16)(cid:13)(cid:9)(cid:3)(cid:2)(cid:18)(cid:20)(cid:7)(cid:3)(cid:4)(cid:19)(cid:16)(cid:13)(cid:9)(cid:5)(cid:16)(cid:30)(cid:22)(cid:18)(cid:7)(cid:8)(cid:29)(cid:3)#(cid:18)(cid:30)(cid:5)(cid:13)(cid:18)(cid:20)(cid:7)(cid:16)(cid:7)(cid:2)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)(cid:13)(cid:16)(cid:7)(cid:2)(cid:8)(cid:29)(cid:9)(cid:18)(cid:4)(cid:16)(cid:13)(cid:9)(cid:18) (cid:3)(cid:30)(cid:31)(cid:4)(cid:3)(cid:13)(cid:6)(cid:7)(cid:5)(cid:14)(cid:4)(cid:3)(cid:2)(cid:9)(cid:16)(cid:7)(cid:9)(cid:7)(cid:29)(cid:3)(cid:24)(cid:3)(cid:30)(cid:6)(cid:7)(cid:8)(cid:29)(cid:3)#(cid:18)(cid:30)(cid:5)(cid:13)(cid:18)(cid:22)(cid:20)(cid:7)(cid:3)(cid:30)(cid:31)(cid:4)(cid:3)(cid:13)(cid:6)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:3)(cid:2)(cid:9)(cid:8)(cid:28)(cid:16)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:3)(cid:27)(cid:2)(cid:9)(cid:16)&(cid:6)(cid:20)(cid:7)(cid:13)(cid:16)(cid:12)(cid:28)(cid:9)(cid:7)(cid:9)(cid:7)(cid:28)(cid:12)(cid:21)&(cid:12)(cid:4)(cid:6)(cid:20)
+### 2.
 
-2. $(cid:4)(cid:3)(cid:14)(cid:28)(cid:9)(cid:7)(cid:14)(cid:18)(cid:2)(cid:9)(cid:5)(cid:3)(cid:2)(cid:18)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:24)(cid:3)(cid:19) (cid:7)’(cid:6)((cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:5)(cid:13)(cid:16)(cid:30)(cid:5)(cid:3)(cid:13)(cid:18)(cid:7)(cid:4)"(cid:2)(cid:13)(cid:9)(cid:18))(cid:7)(cid:13)(cid:16)(cid:7)(cid:5)(cid:24)(cid:13)(cid:9)(cid:18)(cid:22)(cid:8)(cid:5)(cid:18)(cid:13)(cid:9)(cid:18)(cid:7)(cid:5)(cid:16)(cid:14)#(cid:12))(cid:18)(cid:13)(cid:9)(cid:16) zagranicznego.
+Fundusz gromadzi środki pochodzące od Polaków i przyjaciół Polski w kraju i za granicą.
 
-**Art. 3.**
+### Art. 2.
 
-1. (cid:15)(cid:3)(cid:30)(cid:31)(cid:3)(cid:14)(cid:16)(cid:24)(cid:9)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:8) (cid:7)(cid:14)(cid:16)(cid:4)(cid:6)(cid:7)(cid:8)(cid:28)#(cid:16)(cid:14)(cid:16)(cid:13)(cid:18)(cid:7)(cid:9)(cid:13)(cid:14)(cid:6)(cid:2)(cid:9)(cid:14)(cid:12)(cid:16)(cid:21)(cid:13)(cid:9)(cid:18)(cid:7)(cid:21)(cid:12)’(cid:7)(cid:5)’(cid:9)(cid:3)(cid:4)(cid:3)(cid:2)(cid:3)(cid:7)(cid:2)(cid:7)(cid:29)(cid:3)(cid:8)&(cid:16)(cid:30)(cid:9)*
+### 1.
 
-- **1)** (cid:2)(cid:29)#(cid:16)&(cid:7)(cid:29)(cid:9)(cid:18)(cid:13)(cid:9)(cid:10))(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:3)’(cid:21)(cid:9)(cid:19)(cid:16)(cid:30)(cid:22)(cid:9)(cid:7)(cid:9)(cid:7)(cid:16)(cid:28)(cid:30)(cid:22)(cid:9)(cid:7)(cid:18)(cid:24)(cid:9)&(cid:3)(cid:2)(cid:16)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:13)(cid:16)(cid:7)(cid:3)’(cid:8)(cid:5)(cid:16)(cid:4)(cid:5)(cid:18)(cid:7)!(cid:3)(cid:21)(cid:8)(cid:28)(cid:9)(cid:18)(cid:22)(cid:7)+(cid:5)(cid:18)(cid:30)(cid:5)(cid:6)(cid:29)ospolitej Ludowej,
-- **2)** (cid:2)(cid:16)(cid:4)&(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)(cid:14)(cid:18)(cid:2)(cid:9)(cid:5)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:2)(cid:7)&(cid:6)(cid:24)(cid:7)(cid:2)(cid:16)(cid:21)(cid:12)&(cid:7)(cid:3)’(cid:30)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:2)(cid:6)(cid:8)&(cid:16)(cid:2)(cid:9)(cid:3)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:2)(cid:7)(cid:2)(cid:16)(cid:21)(cid:12)&(cid:16)(cid:30)(cid:31)(cid:7)(cid:3)’(cid:30)(cid:6)(cid:30)(cid:31)(cid:7)(cid:16)(cid:28)(cid:30)(cid:22)(cid:9)(cid:20) (cid:27)(cid:2)(cid:9)(cid:16)(cid:14)(cid:18)(cid:30)&(cid:2)(cid:7)(cid:12)(cid:14)(cid:5)(cid:9)(cid:16)#(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:3)’(cid:21)(cid:9)(cid:19)(cid:16)(cid:30)(cid:22)(cid:9)(cid:20)(cid:7)(cid:28)(cid:8)(cid:9) )(cid:18)(cid:30)(cid:5)(cid:18)(cid:28)(cid:7)(cid:9)(cid:7)(cid:9)(cid:13)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:14)(cid:3)(cid:2)(cid:3)(cid:14)"(cid:2)(cid:7)(cid:3)(cid:8)(cid:5)(cid:30)(cid:5)(cid:10)(cid:14)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20) (cid:30)(cid:18)(cid:4)&(cid:6)%(cid:9)(cid:28)(cid:16)&"(cid:2)(cid:7)(cid:9)(cid:7)(cid:28)(cid:2)(cid:9)&"(cid:2)(cid:7)(cid:14)(cid:18)(cid:29)(cid:3)(cid:5)(cid:6)&(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:30)(cid:5)(cid:18)(cid:28)"(cid:2)(cid:20)(cid:7)(cid:30)(cid:5)(cid:18)(cid:28)"(cid:2)(cid:7)(cid:29)(cid:3)(cid:14)(cid:4)")(cid:13)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:2)(cid:18)(cid:28)(cid:8)(cid:21)(cid:9)(cid:20)(cid:7)(cid:16)(cid:28)(cid:4)(cid:18)(cid:14)y&(cid:6)(cid:2)(cid:20)(cid:7)(cid:29)(cid:3)(cid:21)(cid:18)(cid:30)(cid:18),(cid:7)(cid:2)(cid:6)(cid:29)#(cid:16)&(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:9)(cid:13)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:14)(cid:3)(cid:28)(cid:12)(cid:24)(cid:18)(cid:13)&"(cid:2)(cid:7)’(cid:16)(cid:13)(cid:28)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7)(cid:9)(cid:7)%(cid:9)(cid:13)(cid:16)(cid:13)(cid:8)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7)(cid:29)(cid:3)(cid:14)(cid:21)(cid:18)(cid:19)(cid:16)(cid:22) cych wymianie na waluty obce,
-- **3)** (cid:14)(cid:16)(cid:4)"(cid:2)(cid:7)(cid:4)(cid:5)(cid:18)(cid:30)(cid:5)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7)-(cid:4)(cid:12)(cid:30)(cid:31)(cid:3)(cid:24)(cid:3)(cid:27)(cid:30)(cid:9).(cid:7)(cid:16)(cid:7)(cid:2)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)’(cid:9))(cid:12)&(cid:18)(cid:4)(cid:9)(cid:9)(cid:20)(cid:7)(cid:5)#(cid:3)&(cid:16)(cid:20)(cid:7)(cid:29)(cid:21)(cid:16)&(cid:6)(cid:13)(cid:6)(cid:20)(cid:7)(cid:8)(cid:4)(cid:18)’(cid:4)(cid:16)(cid:20) (cid:14)(cid:5)(cid:9)(cid:18)#(cid:7)(cid:8)(cid:5)&(cid:12)(cid:28)(cid:9)(cid:26) /(cid:26)(cid:7)(cid:7)0(cid:16)(cid:4)(cid:5) (cid:14)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:24)(cid:3))(cid:18)(cid:7)(cid:29)(cid:4)(cid:5)(cid:6)(cid:22) ((cid:7)(cid:14)(cid:16)(cid:4)(cid:6)(cid:7)(cid:2)(cid:7)(cid:9)(cid:13)(cid:13)(cid:18)(cid:22)(cid:7)(cid:29)(cid:3)(cid:8)&(cid:16)(cid:30)(cid:9)(cid:7)(cid:13)(cid:9))(cid:7)(cid:2)(cid:6)(cid:24)(cid:9)(cid:18)(cid:13)(cid:9)(cid:3)(cid:13)(cid:18)(cid:7)(cid:2)(cid:7)(cid:12)(cid:8)&(cid:26)1(cid:26)
+Środki Funduszu przeznacza się na finansowanie potrzeb przedstawianych przez rząd, kościoły, związki wyznaniowe, organizacje społeczne, a w szczególności na wspieranie ochrony zdrowia i pomocy społecznej, ochrony środowiska oraz oświaty, nauki i kultury.
 
-**Art. 4.** (cid:15)(cid:16)(cid:4)(cid:30)(cid:5)(cid:6),(cid:30)(cid:16)(cid:7)(cid:24)(cid:3))(cid:18)(cid:7)(cid:5)(cid:16)(cid:8)&(cid:4)(cid:5)(cid:18)(cid:30)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:18)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:5)(cid:13)(cid:16)(cid:30)(cid:5)(cid:18)(cid:13)(cid:9)(cid:18)(cid:7)(cid:14)(cid:16)(cid:4)(cid:12)(cid:7)(cid:21)(cid:12)’(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:6)(cid:7)(cid:8)(cid:29)(cid:3)(cid:8)"’(cid:7)(cid:22)(cid:18)(cid:19)(cid:3)(cid:7)(cid:2)(cid:6)(cid:28) o(cid:4)(cid:5)(cid:6)(cid:8)&(cid:16)(cid:13)(cid:9)(cid:16)(cid:20)(cid:7)(cid:16)(cid:7)&(cid:16)(cid:28))(cid:18)(cid:7)(cid:8)(cid:2)(cid:3)(cid:22) (cid:7)(cid:16)(cid:13)(cid:3)(cid:13)(cid:9)(cid:24)(cid:3)(cid:2)(cid:3)(cid:27)( .
+### 2.
 
-**Art. 5.**
+Środki dewizowe Funduszu mogą być przeznaczone również na zmniejszenie zadłużenia zagranicznego.
 
-1. (cid:15)(cid:16)(cid:4)(cid:30)(cid:5)(cid:6),(cid:30)(cid:16)(cid:7)(cid:5)(cid:2)(cid:3)(cid:21)(cid:13)(cid:9)(cid:3)(cid:13)(cid:6)(cid:7)(cid:22)(cid:18)(cid:8)&(cid:7)(cid:3)(cid:14)(cid:7)(cid:3)(cid:29)#(cid:16)&(cid:7)(cid:29)(cid:3)(cid:30)(cid:5)&(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)’(cid:16)(cid:13)(cid:28)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:13)(cid:3)&(cid:16)(cid:4)(cid:9)(cid:16)(cid:21)(cid:13)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:8) (cid:14)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20) (cid:8)(cid:28)(cid:16)(cid:4)’(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7)(cid:9)(cid:7)(cid:9)(cid:13)(cid:13)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:2)(cid:9) ) (cid:30)(cid:6)(cid:30)(cid:31)(cid:7)(cid:8)(cid:9)(cid:10)(cid:7)(cid:5)(cid:7)(cid:14)(cid:16)(cid:4)(cid:3)(cid:2)(cid:9)(cid:5)(cid:13) (cid:7)(cid:13)(cid:16)(cid:7)(cid:4)(cid:5)(cid:18)(cid:30)(cid:5)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:26)
+### Art. 3.
 
-2. 2(cid:29)#(cid:16)&(cid:6)(cid:7)(cid:2)(cid:6)(cid:24)(cid:9)(cid:18)(cid:13)(cid:9)(cid:3)(cid:13)(cid:18)(cid:7)(cid:2)(cid:7)(cid:12)(cid:8)&(cid:26)1(cid:7)(cid:29)(cid:3)(cid:13)(cid:3)(cid:8)(cid:9)(cid:7)3(cid:28)(cid:16)(cid:4)’(cid:7)!(cid:16),(cid:8)&(cid:2)(cid:16)(cid:26)
+### 1.
 
-**Art. 6.**
+Dochodami Funduszu są dary składane indywidualnie lub zbiorowo w postaci:
 
-1. (cid:15)(cid:16)(cid:4)(cid:6)(cid:7)(cid:13)(cid:16)(cid:7)(cid:4)(cid:5)(cid:18)(cid:30)(cid:5)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:5)(cid:2)(cid:3)(cid:21)(cid:13)(cid:9)(cid:3)(cid:13)(cid:18)(cid:7)(cid:8) (cid:7)(cid:3)(cid:14)(cid:7)(cid:29)(cid:3)(cid:14)(cid:16)&(cid:28)(cid:12)(cid:7)(cid:3)(cid:14)(cid:7)(cid:8)(cid:29)(cid:16)(cid:14)(cid:28)"(cid:2)(cid:7)(cid:9)(cid:7)(cid:14)(cid:16)(cid:4)(cid:3)(cid:2)(cid:9)(cid:5)(cid:13)(cid:26) kiem dochodowym, podatkiem wyrównawczym oraz podatkiem rolnym obliczanym od (cid:14)(cid:5)(cid:9)(cid:16)#"(cid:2)(cid:7)(cid:8)(cid:29)(cid:18)(cid:30)(cid:22)(cid:16)(cid:21)(cid:13)(cid:6)(cid:30)(cid:31)(cid:20)(cid:7)(cid:13)(cid:16)(cid:7)(cid:5)(cid:16)(cid:8)(cid:16)(cid:14)(cid:16)(cid:30)(cid:31)(cid:7)(cid:3)(cid:28)(cid:4)(cid:18)(cid:27)(cid:21)(cid:3)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:3)(cid:14)(cid:4)(cid:10)’(cid:13)(cid:6)(cid:24)(cid:9)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:29)(cid:9)(cid:8)(cid:16)(cid:24)(cid:9)(cid:26)
+### 1)
 
-3. (cid:15)(cid:3)(cid:28)(cid:3)(cid:13)(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:5)(cid:7)%(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:7)(cid:3)’(cid:4)(cid:3)&(cid:12)(cid:7)(cid:2)(cid:16)(cid:4)&(cid:3)(cid:27)(cid:30)(cid:9)(cid:16)(cid:24)(cid:9)(cid:7)(cid:14)(cid:18)(cid:2)(cid:9)(cid:5)(cid:3)(cid:2)(cid:6)(cid:24)(cid:9)(cid:7)(cid:13)(cid:9)(cid:18)(cid:7)(cid:2)(cid:6)(cid:24)(cid:16)(cid:19)(cid:16)(cid:7)(cid:5)(cid:18)(cid:5)(cid:2)(cid:3)(cid:21)(cid:18)(cid:13)(cid:9)(cid:16) dewizowego.
+wpłat pieniężnych oraz obligacji i akcji emitowanych na obszarze Polskiej Rzeczypospolitej Ludowej,
 
-**Art. 7.** 2(cid:4)(cid:19)(cid:16)(cid:13)(cid:16)(cid:24)(cid:9)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:8) (cid:7)+(cid:16)(cid:14)(cid:16)(cid:7)(cid:17)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:30)(cid:5)(cid:16)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)0(cid:16)(cid:4)(cid:5) (cid:14)(cid:26)
+### 2)
 
-**Art. 8.** +(cid:16)(cid:14)(cid:16)(cid:7)(cid:17)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:30)(cid:5)(cid:16)(cid:7)(cid:21)(cid:9)(cid:30)(cid:5)(cid:6)(cid:7)11(cid:7)(cid:3)(cid:8)"’(cid:7)(cid:2)(cid:7)(cid:8)(cid:28)#(cid:16)(cid:14)(cid:5)(cid:9)(cid:18)*(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:2)(cid:3)(cid:14)(cid:13)(cid:9)(cid:30)(cid:5) (cid:30)(cid:6)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:30)(cid:5)#(cid:3)(cid:13)(cid:28)(cid:3)(cid:2)(cid:9)(cid:18)(cid:20)(cid:7)(cid:29)(cid:3)(cid:2)(cid:3)#(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:7)(cid:9) (cid:3)(cid:14)(cid:2)(cid:3)#(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:7)(cid:2)(cid:8)(cid:29)"(cid:21)(cid:13)(cid:16)(cid:7)(cid:12)(cid:30)(cid:31)(cid:2)(cid:16)# (cid:7)!(cid:4)(cid:18)(cid:5)(cid:6)(cid:14)(cid:9)"(cid:2)(cid:7)3(cid:18)(cid:22)(cid:24)(cid:12)(cid:7)(cid:9)(cid:7)3(cid:18)(cid:13)(cid:16)&(cid:12)(cid:26)
+wartości dewizowych, w tym walut obcych, wystawionych w walutach obcych akcji, świadectw udziałowych, obligacji, książeczek i innych dowodów oszczędnościowych, certyfikatów i kwitów depozytowych, czeków, czeków podróżnych, weksli, akredytyw, poleceń wypłat oraz innych dokumentów bankowych i finansowych podlegających wymianie na waluty obce,
 
-**Art. 9.**
+### 3)
 
-1. +(cid:16)(cid:14)(cid:16)(cid:7)(cid:17)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:30)(cid:5)(cid:16)(cid:7)(cid:3)(cid:28)(cid:4)(cid:18)(cid:8)(cid:21)(cid:9)(cid:7)(cid:5)(cid:16)(cid:8)(cid:16)(cid:14)(cid:6)(cid:7)(cid:19)(cid:4)(cid:3)(cid:24)(cid:16)(cid:14)(cid:5)(cid:18)(cid:13)(cid:9)(cid:16)(cid:7)(cid:9)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:30)(cid:31)(cid:3)(cid:2)(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:16)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:28)"(cid:2)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5) (cid:13)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:12)(cid:22)(cid:18)(cid:7)(cid:22)(cid:18)(cid:19)(cid:3)(cid:7)(cid:14)(cid:5)(cid:9)(cid:16)#(cid:16)(cid:13)(cid:9)(cid:18)(cid:26)
+darów rzeczowych (ruchomości), a w szczególności biżuterii, złota, platyny, srebra, dzieł sztuki.
 
-2. (cid:15)(cid:3)(cid:7)+(cid:16)(cid:14)(cid:6)(cid:7)(cid:17)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:30)(cid:5)(cid:18)(cid:22)(cid:7)(cid:13)(cid:16)(cid:21)(cid:18))(cid:6)(cid:7)(cid:2)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)*
+### 2.
 
-- **1)** (cid:29)(cid:3)(cid:2)(cid:3)#(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:9)(cid:7)(cid:3)(cid:14)(cid:2)(cid:3)#(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:30)(cid:5)#(cid:3)(cid:13)(cid:28)"(cid:2)(cid:7)0(cid:16)(cid:4)(cid:5) (cid:14)(cid:12)(cid:20)
-- **2)** (cid:5)(cid:16)&(cid:2)(cid:9)(cid:18)(cid:4)(cid:14)(cid:5)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:4)(cid:18)(cid:19)(cid:12)(cid:21)(cid:16)(cid:24)(cid:9)(cid:13)(cid:12)(cid:7)(cid:29)(cid:4)(cid:16)(cid:30)(cid:7)0(cid:16)(cid:4)(cid:5) (cid:14)(cid:12)(cid:20)
-- **3)** (cid:12)(cid:14)(cid:5)(cid:9)(cid:18)(cid:21)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:29)(cid:18)#(cid:13)(cid:3)(cid:24)(cid:3)(cid:30)(cid:13)(cid:9)(cid:30)&(cid:2)(cid:7)(cid:3)(cid:19)"(cid:21)(cid:13)(cid:6)(cid:30)(cid:31)(cid:20)
-- **4)** (cid:3)(cid:28)(cid:4)(cid:18)(cid:27)(cid:21)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:5)(cid:16)(cid:8)(cid:16)(cid:14)(cid:7)(cid:2)(cid:6)(cid:30)(cid:18)(cid:13)(cid:6)(cid:7)(cid:9)(cid:7)(cid:8)(cid:29)(cid:4)(cid:5)(cid:18)(cid:14)(cid:16))(cid:6)(cid:7)(cid:14)(cid:16)(cid:4)"(cid:2)(cid:7)(cid:4)(cid:5)(cid:18)(cid:30)(cid:5)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:20)
-- **5)** (cid:3)(cid:28)(cid:4)(cid:18)(cid:27)(cid:21)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:28)(cid:9)(cid:18)(cid:4)(cid:12)(cid:13)(cid:28)"(cid:2)(cid:7)(cid:2)(cid:6)(cid:14)(cid:16)&(cid:28)(cid:3)(cid:2)(cid:16)(cid:13)(cid:9)(cid:16)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:28)"(cid:2)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:20)
-- **6)** (cid:8)(cid:28)#(cid:16)(cid:14)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7) (cid:3)(cid:28)(cid:4)(cid:18)(cid:8)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7) (cid:8)(cid:29)(cid:4)(cid:16)(cid:2)(cid:3)(cid:5)(cid:14)(cid:16),(cid:7) (cid:5)(cid:7) (cid:2)(cid:6)(cid:28)(cid:3)(cid:4)(cid:5)(cid:6)(cid:8)&(cid:16)(cid:13)(cid:9)(cid:16)(cid:7) (cid:27)(cid:4)(cid:3)(cid:14)(cid:28)"(cid:2)(cid:7) (cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7) !(cid:4)(cid:18)(cid:5)(cid:6)(cid:14)(cid:9)(cid:12)(cid:24) i Senatu oraz ich publikowanie,
-- **7)** (cid:12)(cid:8)&(cid:16)(cid:21)(cid:18)(cid:13)(cid:9)(cid:18)(cid:7)(cid:8)(cid:29)(cid:3)(cid:8)(cid:3)’(cid:12)(cid:7)(cid:9)(cid:7)&(cid:18)(cid:4)(cid:24)(cid:9)(cid:13)(cid:12)(cid:7)(cid:5)(cid:16)(cid:28)(cid:3),(cid:30)(cid:5)(cid:18)(cid:13)(cid:9)(cid:16)(cid:7)(cid:14)(cid:5)(cid:9)(cid:16)#(cid:16)(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:26)
+Zarząd Funduszu może przyjąć dary w innej postaci niż wymienione w ust. 1.
 
-**Art. 10.** +(cid:16)(cid:14)(cid:16)(cid:7)(cid:17)(cid:16)(cid:14)(cid:5)(cid:3)(cid:4)(cid:30)(cid:5)(cid:16)(cid:7)(cid:3)(cid:28)(cid:4)(cid:18)(cid:27)(cid:21)(cid:9)(cid:7)(cid:5)(cid:16)(cid:8)(cid:16)(cid:14)(cid:6)(cid:7)(cid:29)(cid:4)(cid:3)(cid:2)(cid:16)(cid:14)(cid:5)(cid:18)(cid:13)(cid:9)(cid:16)(cid:7)5(cid:8)(cid:9)(cid:10)(cid:19)(cid:9)(cid:7)(cid:15)(cid:16)(cid:4)"(cid:2)(cid:20)(cid:7)(cid:14)(cid:3)(cid:7)(cid:28)&"(cid:4)(cid:18)(cid:22)(cid:7)’(cid:10)(cid:14) (cid:7)(cid:2)(cid:29)(cid:9)(cid:8)(cid:6)(cid:2)(cid:16)(cid:13)(cid:9)(cid:7)(cid:14)(cid:16)r(cid:30)(cid:5)(cid:6),(cid:30)(cid:6)(cid:26)
+### Art. 4.
 
-**Art. 11.**
+Darczyńca może zastrzec szczególne przeznaczenie daru lub szczególny sposób jego wykorzystania, a także swoją anonimowość.
 
-1. 0(cid:16)(cid:4)(cid:5) (cid:14)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:8)&(cid:16)(cid:13)(cid:3)(cid:2)(cid:9) *(cid:7)(cid:29)(cid:4)(cid:18)(cid:5)(cid:18)(cid:8)(cid:7)(cid:9)(cid:7)(cid:14)(cid:2)"(cid:30)(cid:31)(cid:7)(cid:22)(cid:18)(cid:19)(cid:3)(cid:7)(cid:5)(cid:16)(cid:8)&(cid:10)(cid:29)(cid:30)"(cid:2)(cid:7)(cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:14)(cid:2)"(cid:30)(cid:31)(cid:7)(cid:30)(cid:5)#(cid:3)(cid:13)(cid:28)"(cid:2)(cid:26)
+### Art. 5.
 
-2. 0(cid:16)(cid:4)(cid:5) (cid:14)(cid:7)(cid:28)(cid:9)(cid:18)(cid:4)(cid:12)(cid:22)(cid:18)(cid:7)(cid:14)(cid:5)(cid:9)(cid:16)#(cid:16)(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9) (cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:26)
+### 1.
 
-3. (cid:15)(cid:3)(cid:7)(cid:5)(cid:16)(cid:14)(cid:16),(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:13)(cid:16)(cid:21)(cid:18))(cid:6)(cid:7)(cid:2)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9)
+Darczyńca zwolniony jest od opłat pocztowych, bankowych, notarialnych, sądowych, skarbowych i innych, wiążących się z darowizną na rzecz Funduszu.
 
-- **1)** (cid:18)(cid:2)(cid:9)(cid:14)(cid:18)(cid:13)(cid:30)(cid:22)(cid:3)(cid:13)(cid:3)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:2)(cid:29)#(cid:6)(cid:2)(cid:12)(cid:7)(cid:14)(cid:16)(cid:4)"(cid:2)(cid:7)(cid:9)(cid:7)(cid:2)(cid:6)(cid:14)(cid:16)&(cid:28)(cid:3)(cid:2)(cid:16)(cid:13)(cid:9)(cid:16)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:28)"(cid:2)(cid:20)
-- **2)** (cid:5)(cid:16)(cid:28)#(cid:16)(cid:14)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:28)(cid:3)(cid:13)&(cid:7)’(cid:16)(cid:13)(cid:28)(cid:3)(cid:2)(cid:6)(cid:30)(cid:31)(cid:7)(cid:9)(cid:7)(cid:29)(cid:3)(cid:14)(cid:16)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:14)(cid:3)(cid:7)(cid:29)(cid:12)’(cid:21)(cid:9)(cid:30)(cid:5)(cid:13)(cid:18)(cid:22)(cid:7)(cid:2)(cid:9)(cid:16)(cid:14)(cid:3)(cid:24)(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)(cid:14)(cid:16)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:3)(cid:7)&(cid:6)(cid:30)(cid:31) kontach,
-- **3)** (cid:14)(cid:6)(cid:8)(cid:29)(cid:3)(cid:13)(cid:3)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:27)(cid:4)(cid:3)(cid:14)(cid:28)(cid:16)(cid:24)(cid:9)(cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:20)
-- **4)** (cid:29)(cid:3)(cid:14)(cid:16)(cid:2)(cid:16)(cid:13)(cid:9)(cid:18)(cid:7)(cid:14)(cid:3)(cid:7)(cid:2)(cid:9)(cid:16)(cid:14)(cid:3)(cid:24)(cid:3)(cid:27)(cid:30)(cid:9)(cid:7)(cid:29)(cid:12)’(cid:21)(cid:9)(cid:30)(cid:5)(cid:13)(cid:18)(cid:22)(cid:7)(cid:21)(cid:9)(cid:8)&(cid:6)(cid:7)(cid:14)(cid:16)(cid:4)(cid:30)(cid:5)(cid:6),(cid:30)"(cid:2)(cid:20)
-- **5)** (cid:29)(cid:4)(cid:3)(cid:2)(cid:16)(cid:14)(cid:5)(cid:18)(cid:13)(cid:9)(cid:18)(cid:7)5(cid:8)(cid:9)(cid:10)(cid:19)(cid:9)(cid:7)(cid:15)(cid:16)(cid:4)"(cid:2)(cid:26) 6(cid:26)(cid:7)(cid:7)(cid:15)(cid:3)(cid:7)(cid:8)(cid:28)#(cid:16)(cid:14)(cid:16)(cid:13)(cid:9)(cid:16)(cid:7)(cid:3)(cid:27)(cid:2)(cid:9)(cid:16)(cid:14)(cid:30)(cid:5)(cid:18),(cid:7)(cid:2)(cid:3)(cid:21)(cid:9)(cid:7)(cid:12)(cid:29)(cid:3)(cid:2)(cid:16))(cid:13)(cid:9)(cid:3)(cid:13)(cid:6)(cid:30)(cid:31)(cid:7)(cid:22)(cid:18)(cid:8)&(cid:7)(cid:14)(cid:2)"(cid:30)(cid:31)(cid:7)(cid:30)(cid:5)#(cid:3)(cid:13)(cid:28)"(cid:2)(cid:7)0(cid:16)(cid:4)(cid:5) (cid:14)(cid:12)(cid:7)(cid:21)(cid:12)’(cid:7)(cid:30)(cid:5)#(cid:3)(cid:13)(cid:18)(cid:28) 0(cid:16)(cid:4)(cid:5) (cid:14)(cid:12)(cid:7)(cid:9)(cid:7)(cid:29)(cid:18)#(cid:13)(cid:3)(cid:24)(cid:3)(cid:30)(cid:13)(cid:9)(cid:28)(cid:26)
+### 2.
 
-1. (cid:15)(cid:16)(cid:4)(cid:6)(cid:7)(cid:2)(cid:7)(cid:29)(cid:3)(cid:8)&(cid:16)(cid:30)(cid:9)(cid:7)’(cid:9))(cid:12)&(cid:18)(cid:4)(cid:9)(cid:9)(cid:20)(cid:7)(cid:5)#(cid:3)&(cid:16)(cid:20)(cid:7)(cid:29)(cid:21)(cid:16)&(cid:6)(cid:13)(cid:6)(cid:20)(cid:7)(cid:8)(cid:4)(cid:18)’(cid:4)(cid:16)(cid:7)(cid:9)(cid:7)(cid:9)(cid:13)(cid:13)(cid:18)(cid:7)(cid:14)(cid:16)(cid:4)(cid:6)(cid:7)(cid:4)(cid:5)(cid:18)(cid:30)(cid:5)(cid:3)(cid:2)(cid:18)(cid:7)(cid:3)(cid:7)(cid:8)(cid:5)(cid:30)(cid:5)(cid:18)(cid:19)"(cid:21)(cid:13)(cid:18)(cid:22)(cid:7)(cid:2)(cid:16)(cid:4)&(cid:3)(cid:27)(cid:30)(cid:9) (cid:3)(cid:4)(cid:16)(cid:5)(cid:7)(cid:29)(cid:16)(cid:29)(cid:9)(cid:18)(cid:4)(cid:6)(cid:7)(cid:2)(cid:16)(cid:4)&(cid:3)(cid:27)(cid:30)(cid:9)(cid:3)(cid:2)(cid:18)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:30)(cid:31)(cid:3)(cid:2)(cid:6)(cid:2)(cid:16)(cid:13)(cid:18)(cid:7)(cid:8) (cid:7)(cid:2)(cid:7)%(cid:3)(cid:4)(cid:24)(cid:9)(cid:18)(cid:7)(cid:14)(cid:18)(cid:29)(cid:3)(cid:5)(cid:6)&(cid:12)(cid:7)(cid:2)(cid:7)(cid:17)(cid:16)(cid:4)(cid:3)(cid:14)(cid:3)(cid:2)(cid:6)(cid:24)(cid:7)7(cid:16)(cid:13)(cid:28)(cid:12) Polskim.
+Opłaty wymienione w ust. 1 ponosi Skarb Państwa.
 
-2. (cid:15)(cid:5)(cid:9)(cid:18)#(cid:16)(cid:7)(cid:8)(cid:5)&(cid:12)(cid:28)(cid:9)(cid:7)(cid:29)(cid:4)(cid:5)(cid:18)(cid:30)(cid:31)(cid:3)(cid:2)(cid:6)(cid:2)(cid:16)(cid:13)(cid:18)(cid:7)(cid:8) (cid:7)(cid:2)(cid:7)(cid:24)(cid:12)(cid:5)(cid:18)(cid:16)(cid:30)(cid:31)(cid:7)(cid:9)(cid:7)’(cid:9)’(cid:21)(cid:9)(cid:3)&(cid:18)(cid:28)(cid:16)(cid:30)(cid:31)(cid:20)(cid:7)(cid:28)&"(cid:4)(cid:6)(cid:30)(cid:31)(cid:7)(cid:2)(cid:6)(cid:28)(cid:16)(cid:5)(cid:7)(cid:12)(cid:8)&(cid:16)(cid:21)(cid:9)(cid:7)8(cid:9)(cid:13)(cid:9)(cid:8)&(cid:18)(cid:4) Kultury i Sztuki oraz w archiwach, których wykaz ustali Minister Edukacji Narodowej.
+### Art. 6.
 
-**Art. 13.**
+### 1.
 
-1. 2’(cid:8)#(cid:12)(cid:19)(cid:10)(cid:7)(cid:16)(cid:14)(cid:24)(cid:9)(cid:13)(cid:9)(cid:8)&(cid:4)(cid:16)(cid:30)(cid:6)(cid:22)(cid:13) (cid:7)(cid:9)(cid:7)&(cid:18)(cid:30)(cid:31)(cid:13)(cid:9)(cid:30)(cid:5)(cid:13)(cid:3)9(cid:3)(cid:4)(cid:19)(cid:16)(cid:13)(cid:9)(cid:5)(cid:16)(cid:30)(cid:6)(cid:22)(cid:13) (cid:7)%(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:5)(cid:16)(cid:29)(cid:18)(cid:2)(cid:13)(cid:9)(cid:16)(cid:22) (cid:7)(cid:7)5(cid:16)(cid:13)(cid:30)(cid:18)(cid:21)(cid:16)(cid:4)(cid:9)(cid:16) i Kancelaria Senatu.
+Dary na rzecz Funduszu zwolnione są od podatku od spadków i darowizn.
 
-2. 5(cid:3)(cid:8)(cid:5)&(cid:6)(cid:7)(cid:5)(cid:2)(cid:9) (cid:5)(cid:16)(cid:13)(cid:18)(cid:7)(cid:5)(cid:7)(cid:14)(cid:5)(cid:9)(cid:16)#(cid:16)(cid:21)(cid:13)(cid:3)(cid:27)(cid:30)(cid:9) (cid:7)(cid:11)(cid:12)(cid:13)(cid:14)(cid:12)(cid:8)(cid:5)(cid:12)(cid:7)(cid:29)(cid:3)(cid:28)(cid:4)(cid:6)(cid:2)(cid:16)(cid:13)(cid:18)(cid:7)(cid:8) (cid:7)(cid:2)(cid:7)’(cid:12)(cid:14))(cid:18)&(cid:12)(cid:7)(cid:30)(cid:18)(cid:13)&(cid:4)(cid:16)(cid:21)(cid:13)(cid:18)(cid:19)(cid:3)(cid:20)(cid:7)(cid:2)(cid:7)(cid:30)(cid:5)(cid:10)(cid:27)(cid:30)(cid:9)(cid:16)(cid:30)(cid:31)(cid:7)(cid:14)(cid:3)&(cid:6)(cid:30)(cid:5) (cid:30)(cid:6)(cid:30)(cid:31)(cid:7)(cid:7)5(cid:16)(cid:13)(cid:30)(cid:18)(cid:21)(cid:16)(cid:4)(cid:9)(cid:9)(cid:7)3(cid:18)(cid:22)(cid:24)(cid:12)(cid:7)(cid:9)(cid:7)5(cid:16)(cid:13)(cid:30)(cid:18)(cid:21)(cid:16)(cid:4)(cid:9)(cid:9)(cid:7)3(cid:18)(cid:13)(cid:16)&(cid:12)(cid:26)
+### 2.
 
-**Art. 14.** (cid:15)(cid:16)(cid:4)(cid:6)(cid:7)(cid:24)(cid:3)(cid:19) (cid:7)’(cid:6)((cid:7)(cid:8)(cid:28)#(cid:16)(cid:14)(cid:16)(cid:13)(cid:18)(cid:7)(cid:14)(cid:3)(cid:7)(cid:14)(cid:13)(cid:9)(cid:16)(cid:7)11(cid:7)(cid:21)(cid:9)(cid:8)&(cid:3)(cid:29)(cid:16)(cid:14)(cid:16)(cid:7)1::;(cid:7)(cid:4)(cid:26)
+Wartość darowizny odlicza się w pełnej wysokości od podstawy opodatkowania podatkiem dochodowym, podatkiem wyrównawczym oraz podatkiem rolnym obliczanym od działów specjalnych, na zasadach określonych odrębnymi przepisami.
 
-**Art. 15.** <(cid:8)&(cid:16)(cid:2)(cid:16)(cid:7)(cid:2)(cid:30)(cid:31)(cid:3)(cid:14)(cid:5)(cid:9)(cid:7)(cid:2)(cid:7))(cid:6)(cid:30)(cid:9)(cid:18)(cid:7)(cid:5)(cid:7)(cid:14)(cid:13)(cid:9)(cid:18)(cid:24)(cid:7)(cid:3)(cid:19)#(cid:3)(cid:8)(cid:5)(cid:18)(cid:13)(cid:9)(cid:16).
+### 3.
 
+Dokonywanie przez Fundusz obrotu wartościami dewizowymi nie wymaga zezwolenia dewizowego.
+
+### Art. 7.
+
+Organami Funduszu są Rada Nadzorcza oraz Zarząd.
+
+### Art. 8.
+
+Rada Nadzorcza liczy 11 osób w składzie: przewodniczący oraz członkowie, powoływani i odwoływani wspólną uchwałą Prezydiów Sejmu i Senatu.
+
+### Art. 9.
+
+### 1.
+
+Rada Nadzorcza określa zasady gromadzenia i przechowywania środków Funduszu oraz nadzoruje jego działanie.
+
+### 2.
+
+Do Rady Nadzorczej należy w szczególności:
+
+### 1)
+
+powoływanie i odwoływanie członków Zarządu,
+
+### 2)
+
+zatwierdzanie regulaminu prac Zarządu,
+
+### 3)
+
+udzielanie pełnomocnictw ogólnych,
+
+### 4)
+
+określanie zasad wyceny i sprzedaży darów rzeczowych,
+
+### 5)
+
+określanie kierunków wydatkowania środków Funduszu,
+
+### 6)
+
+składanie okresowych sprawozdań z wykorzystania środków Funduszu Prezydiom Sejmu i Senatu oraz ich publikowanie,
+
+### 7)
+
+ustalenie sposobu i terminu zakończenia działalności Funduszu.
+
+### Art. 10.
+
+Rada Nadzorcza określi zasady prowadzenia Księgi Darów, do której będą wpisywani darczyńcy.
+
+### Art. 11.
+
+### 1.
+
+Zarząd Funduszu stanowią: prezes i dwóch jego zastępców oraz dwóch członków.
+
+### 2.
+
+Zarząd kieruje działalnością Funduszu.
+
+### 3.
+
+Do zadań Zarządu należy w szczególności:
+
+### 1)
+
+ewidencjonowanie wpływu darów i wydatkowania środków,
+
+### 2)
+
+zakładanie kont bankowych i podawanie do publicznej wiadomości danych o tych kontach,
+
+### 3)
+
+dysponowanie środkami Funduszu,
+
+### 4)
+
+podawanie do wiadomości publicznej listy darczyńców,
+
+### 5)
+
+prowadzenie Księgi Darów.
+
+### 4.
+
+Do składania oświadczeń woli upoważnionych jest dwóch członków Zarządu lub członek Zarządu i pełnomocnik.
+
+### Art. 12.
+
+### 1.
+
+Dary w postaci biżuterii, złota, platyny, srebra i inne dary rzeczowe o szczególnej wartości oraz papiery wartościowe przechowywane są w formie depozytu w Narodowym Banku Polskim.
+
+### 2.
+
+Dzieła sztuki przechowywane są w muzeach i bibliotekach, których wykaz ustali Minister Kultury i Sztuki, oraz w archiwach, których wykaz ustali Minister Edukacji Narodowej.
+
+### Art. 13.
+
+### 1.
+
+Obsługę administracyjną i techniczno-organizacyjną Funduszu zapewniają Kancelaria Sejmu i Kancelaria Senatu.
+
+### 2.
+
+Koszty związane z działalnością Funduszu pokrywane są z budżetu centralnego, w częściach dotyczących Kancelarii Sejmu i Kancelarii Senatu.
+
+### Art. 14.
+
+Dary mogą być składane do dnia 11 listopada 1990 r.
+
+### Art. 15.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

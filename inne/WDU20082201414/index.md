@@ -8,11 +8,9 @@ pos: 1414
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie i
-
-*USTAWA z dnia 17 października 2008 r.*
+# Ustawa z dnia 17 października 2008 r. o zmianie imienia i nazwiska [1) Niniejszą ustawą zmienia się ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,109 +22,352 @@ domain: null
 | Data ogłoszenia | 2008-10-17 |
 | Data wydania | 2008-12-12 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1414/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/1414/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/1414) |
 
-**Art. 1.** Ustawa określa zasady zmiany inne imię nazwisko oraz właściwość organów administracji publicznej i tryb postępowania w sprawach zmiany nazwiska.
+## Treść ustawy
 
-**Art. 2.** Ustawę stosuje się do:
+### Art. 1.
 
-**Art. 3.** W rozumieniu ustawy:
+Ustawa określa zasady zmiany imienia lub nazwiska na inne imię lub nazwisko oraz właściwość organów administracji publicznej i tryb postępowania w sprawach zmiany imienia lub nazwiska.
 
-**Art. 4.**
+### Art. 2.
 
-1. Zmiany można dokonać wyłącznie z ważnych powodów, w szczególności gdy dotyczą zmiany:
+Ustawę stosuje się do:
 
-- **1)** ośmieszającego albo nielicującego z godnością człowieka; w Rzeczypospolitej Polskiej status uchodźcy, można dokonać wyłącznie ze szczególnie ważnych powodów związanych z zagrożeniem jego prawa do życia, zdrowia, wolności bezpieczeństwa osobistego.
+### 1)
 
-**Art. 5.** Zmiany nie dokonuje się w przypadku ubiegania się o zmianę nazwisko historyczne, wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę posiada członków rodziny o tym nazwisku.
+obywateli polskich;
 
-**Art. 6.**
+### 2)
 
-1. Po zmianie nazwiska, z zastrzeżeniem art. 4 ust. 1 pkt 4, nazwisko nie może składać się z więcej niż dwóch członów.
+cudzoziemców nieposiadających obywatelstwa żadnego państwa, jeżeli posiadają w Rzeczypospolitej Polskiej miejsce pobytu stałego;
 
-2. Po zmianie można mieć najwyżej dwa imiona.
+### 3)
 
-**Art. 7.**
+cudzoziemców, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy, z zastrzeżeniem art. 4 ust. 2.
 
-1. Zmiana może dotyczyć noszonego aktualnie rodowego.
+### Art. 3.
 
-2. Zmiana noszonego po zawarciu małżeństwa, gdy jest ono tożsame z nazwiskiem rodowym, rozciąga się nazwisko rodowe wyłącznie wyraźne żądanie osoby ubiegającej się o zmianę nazwiska.
+W rozumieniu ustawy:
 
-**Art. 8.**
+### 1)
 
-1. Zmiana obojga rodziców rozciąga się małoletnie dzieci i dzieci, które zrodzą się z tego małżeństwa.
+zmiana imienia oznacza zmianę na inne imię lub zmianę pisowni imienia;
 
-2. Zmiana rodowego jednego z rodziców rozciąga się małoletnie dzieci i dzieci, które pochodzą od tych samych rodziców, pod warunkiem że drugi z rodziców wyraził to zgodę, chyba że nie ma on pełnej zdolności do czynności prawnych jest pozbawiony władzy rodzicielskiej albo nie żyje. Jeżeli w chwili zmiany dziecko ukończyło 13 lat, do zmiany dziecka jest potrzebne także wyrażenie zgody przez dziecko.
+### 2)
 
-3. W przypadku braku porozumienia między rodzicami dziecka każde z nich może zwrócić się do sądu opiekuńczego o wyrażenie zgody zmianę dziecka. Rzeczypospolitej Polskiej.
+zmiana nazwiska oznacza zmianę na inne nazwisko, zmianę pisowni nazwiska lub zmianę nazwiska ze względu na formę właściwą dla rodzaju żeńskiego lub męskiego;
 
-5. Rodzic wyraża zgodę zmianę dziecka osobiście do protokołu przed kierownikiem urzędu stanu cywilnego albo jego zastępcą piśmie utrwalonym w postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza piśmie utrwalonym w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+### 3)
 
-**Art. 9.**
+członkiem rodziny jest małżonek i wstępny osoby ubiegającej się o zmianę imienia lub nazwiska.
 
-1. Zmiana następuje wniosek osoby ubiegającej się o zmianę, zwanej dalej „wnioskodawcą”.
+### Art. 4.
 
-2. Zmiana małoletniego dziecka następuje wniosek przedstawiciela ustawowego dziecka. Przepisy art. 8 ust. 25 stosuje się odpowiednio.
+### 1.
 
-**Art. 10.**
+Zmiany imienia lub nazwiska można dokonać wyłącznie z ważnych powodów, w szczególności gdy dotyczą zmiany:
 
-1. Wniosek o zmianę składa się do wybranego kierownika urzędu stanu cywilnego.
+### 1)
 
-2. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej wniosek o zmianę nazwiska, wskazując kierownika urzędu stanu cywilnego, któremu wniosek ma zostać przekazany.
+imienia lub nazwiska ośmieszającego albo nielicującego z godnością człowieka;
 
-**Art. 11.**
+### 2)
 
-1. Wniosek o zmianę zawiera:
+na imię lub nazwisko używane;
 
-- **1)** dane osoby, której zmiana dotyczy:
-    - **a)** imię (imiona) i nazwisko oraz nazwisko rodowe,
-    - **b)** wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana będzie dotyczyła tego aktu,
+### 3)
 
-- **4)** adres do korespondencji wnioskodawcy;
-- **5)** uzasadnienie;
-- **6)** oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego nie została wydana już decyzja odmowna.
+na imię lub nazwisko, które zostało bezprawnie zmienione;
 
-2. Jeżeli wnioskodawca i jego małoletnie dzieci nie posiadają aktów stanu cywilnego sporządzonych terytorium Rzeczypospolitej Polskiej, wraz z wnioskiem o zmianę wnioskodawca składa wniosek o transkrypcję zagranicznych dokumentów stanu cywilnego.
+### 4)
 
-3. W przypadku gdy wniosek o zmianę jest składany osobiście, wnioskodawca przedstawia do wglądu dokument stwierdzający tożsamość.
+na imię lub nazwisko noszone zgodnie z przepisami prawa państwa, którego obywatelstwo również się posiada.
 
-**Art. 11a.** Postępowanie administracyjne w sprawie zmiany i jest prowadzone z wykorzystaniem danych zawartych w rejestrze stanu cywilnego, o którym mowa w art. 2 ust. 2 ustawy z dnia 28 listopada 2014 r. – Prawo o aktach stanu cywilnego (Dz. U. z 2021 r. poz. 709), oraz w rejestrze PESEL, o którym mowa w art. 6 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2021 r. poz. 510, 1000 i 1641), w zakresie niezbędnym dla wydania rozstrzygnięcia w sprawie.
+### 2.
 
-**Art. 12.**
+Zmiany imienia lub nazwiska cudzoziemca, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy, można dokonać wyłącznie ze szczególnie ważnych powodów związanych z zagrożeniem jego prawa do życia, zdrowia, wolności lub bezpieczeństwa osobistego.
 
-1. Decyzję o zmianie bądź decyzję o odmowie zmiany wydaje kierownik urzędu stanu cywilnego, do którego został złożony wniosek, albo jego zastępca.
+### Art. 5.
 
-2. Decyzja o zmianie podlega natychmiastowemu wykonaniu.
+Zmiany nazwiska nie dokonuje się w przypadku ubiegania się o zmianę na nazwisko historyczne, wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę nazwiska posiada członków rodziny o tym nazwisku.
 
-**Art. 13.**
+### Art. 6.
 
-1. Kierownik urzędu stanu cywilnego albo jego zastępca, który wydał decyzję o zmianie nazwiska, przesyła ją, za pośrednictwem systemu teleinformatycznego, w którym jest prowadzony rejestr stanu cywilnego, do następującej wniosek przedstawiciela ustawowego dziecka decyzję o zmianie przekazuje się kierownikowi urzędu stanu cywilnego, który sporządził akt urodzenia dziecka.
+### 1.
 
-**Art. 14.**
+Po zmianie nazwiska, z zastrzeżeniem art. 4 ust. 1 pkt 4, nazwisko nie może składać się z więcej niż dwóch członów.
 
-1. Określone w ustawie zadania i kompetencje kierownika urzędu stanu cywilnego są zadaniami z zakresu administracji rządowej.
+### 2.
 
-2. Wojewodowie sprawują nadzór nad realizacją przez kierowników urzędów stanu cywilnego zadań, o których mowa w art. 12 i art. 13.
+Po zmianie imienia można mieć najwyżej dwa imiona.
 
-3. Wojewoda jest organem wyższego stopnia w sprawach prowadzonych podstawie ustawy.
+### Art. 7.
 
-4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody w zakresie zadań, o których mowa w art. 12 i art. 13.
+### 1.
 
-5. Sprawowanie nadzoru, o którym mowa w ust. 4, polega w szczególności na:
+Zmiana nazwiska może dotyczyć nazwiska noszonego aktualnie lub nazwiska rodowego.
 
-- **1)** przeprowadzaniu kontroli, w tym badaniu:
-    - **a)** prawidłowości prowadzonych przez wojewodę postępowań administracyjnych,
-    - **b)** terminowości załatwiania spraw z zakresu zmiany imion i nazwisk;
+### 2.
 
-- **2)** kształtowaniu jednolitej polityki w zakresie zmiany imion i nazwisk oraz kontroli wykonywania ustalonych sposobów postępowania.
+Zmiana nazwiska noszonego po zawarciu małżeństwa, gdy jest ono tożsame z nazwiskiem rodowym, rozciąga się na nazwisko rodowe wyłącznie na wyraźne żądanie osoby ubiegającej się o zmianę nazwiska.
 
-6. Kontrola, o której mowa w ust. 5 pkt 1, jest wykonywana zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej (Dz. U. z 2020 r. poz. 224).
+### Art. 8.
 
-**Art. 14a.** (uchylony)
+### 1.
 
-**Art. 15.** (pominięty)
+Zmiana nazwiska obojga rodziców rozciąga się na małoletnie dzieci i na dzieci, które zrodzą się z tego małżeństwa.
 
-**Art. 16.** (pominięty)
+### 2.
 
-**Art. 17.** Traci moc ustawa z dnia 15 listopada 1956 r. o zmianie imion i nazwisk (Dz. U. z 2005 r. poz. 1992 oraz z 2007 r. poz. 125).
+Zmiana nazwiska jednego z rodziców rozciąga się na małoletnie dzieci pod warunkiem, że drugi z rodziców wyraził na to zgodę, chyba że nie ma on pełnej zdolności do czynności prawnych, nie żyje lub nie jest znany albo jest pozbawiony władzy rodzicielskiej. Jeżeli w chwili zmiany nazwiska dziecko ukończyło 13 lat, do zmiany nazwiska dziecka jest potrzebne także wyrażenie zgody przez dziecko.
 
+### 3.
+
+W przypadku braku porozumienia między rodzicami dziecka, każde z nich może zwrócić się do sądu opiekuńczego o wyrażenie zgody na zmianę nazwiska dziecka.
+
+### 4.
+
+Zgoda dziecka oraz drugiego z rodziców na zmianę nazwiska dziecka powinna zostać wyrażona osobiście przed organami, o których mowa w art. 12, lub w formie pisemnej z podpisem notarialnie poświadczonym. Osoby zamieszkałe za granicą mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+
+### Art. 9.
+
+### 1.
+
+Zmiana imienia lub nazwiska następuje na pisemny wniosek osoby ubiegającej się o zmianę, zwanej dalej „wnioskodawcą”.
+
+### 2.
+
+Zmiana imienia lub nazwiska małoletniego dziecka następuje na pisemny wniosek przedstawiciela ustawowego dziecka. Przepisy art. 8 ust. 2-4 stosuje się odpowiednio.
+
+### Art. 10.
+
+### 1.
+
+Wniosek o zmianę imienia lub nazwiska składa się osobiście do organu, o którym mowa w art. 12.
+
+### 2.
+
+Osoby zamieszkałe za granicą wniosek o zmianę nazwiska mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej.
+
+### 3.
+
+Dopuszcza się złożenie wniosku o zmianę nazwiska bez zachowania wymogów określonych w ust. 1 i 2 pod warunkiem dokonania tej czynności w formie pisemnej z podpisem notarialnie poświadczonym.
+
+### Art. 11.
+
+### 1.
+
+Wniosek o zmianę imienia lub nazwiska zawiera:
+
+### 1)
+
+dane osoby, której zmiana dotyczy:
+
+### a)
+
+imię (imiona), nazwisko oraz nazwisko rodowe,
+
+### b)
+
+adres miejsca zameldowania na pobyt stały lub ostatni pobyt stały,
+
+### c)
+
+w przypadku braku miejsca zameldowania na pobyt, o którym mowa w lit. b, adres pobytu czasowego trwającego ponad 3 miesiące,
+
+### d)
+
+numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany dalej „numerem PESEL”;
+
+### 2)
+
+imię i nazwisko, na jakie ma nastąpić zmiana;
+
+### 3)
+
+uzasadnienie.
+
+### 2.
+
+Do wniosku o zmianę nazwiska dołącza się:
+
+### 1)
+
+odpis zupełny aktu urodzenia;
+
+### 2)
+
+odpis zupełny aktu małżeństwa;
+
+### 3)
+
+odpisy zupełne aktów urodzenia małoletnich dzieci, jeżeli zmiana nazwiska rozciąga się na dzieci;
+
+### 4)
+
+inne dokumenty uzasadniające zmianę nazwiska.
+
+### 3.
+
+Do wniosku o zmianę imienia dołącza się:
+
+### 1)
+
+odpis zupełny aktu urodzenia;
+
+### 2)
+
+odpis zupełny aktu małżeństwa;
+
+### 3)
+
+inne dokumenty uzasadniające zmianę imienia.
+
+### 4.
+
+Do wniosku nie dołącza się dokumentów wymienionych w ust. 2 pkt 1-3 oraz w ust. 3 pkt 1-2, jeżeli zostały sporządzone w urzędzie stanu cywilnego, w którym osoba ubiega się o zmianę nazwiska.
+
+### 5.
+
+W przypadkach, o których mowa w art. 10 ust. 1 i 2, wnioskodawca przedstawia do wglądu dokument stwierdzający tożsamość.
+
+### 6.
+
+Jeżeli dokument, o którym mowa w ust. 5, nie zawiera numeru PESEL, wnioskodawca przedstawia również powiadomienie o nadaniu numeru PESEL albo zaświadczenie o nadaniu tego numeru na podstawie przepisów ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych ([Dz. U. z 2006 r. Nr 139, poz. 993](https://api.sejm.gov.pl/eli/acts/DU/2006/993/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056 i Nr 195, poz. 1198.](#gloss-0:2:)).
+
+### Art. 12.
+
+### 1.
+
+Decyzję o wyrażeniu zgody na zmianę imienia lub nazwiska bądź o odmowie wyrażenia zgody na zmianę imienia lub nazwiska wydaje kierownik urzędu stanu cywilnego właściwy ze względu na miejsce pobytu stałego wnioskodawcy albo jego zastępca, a w przypadku braku takiego miejsca - kierownik urzędu stanu cywilnego właściwy ze względu na ostatnie miejsce pobytu stałego wnioskodawcy albo jego zastępca.
+
+### 2.
+
+Jeżeli nie można ustalić właściwości miejscowej w sposób wskazany w ust. 1, w sprawach określonych w ustawie rozstrzyga kierownik urzędu stanu cywilnego właściwy dla miasta stołecznego Warszawy albo jego zastępca.
+
+### Art. 13.
+
+### 1.
+
+Organy, o których mowa w art. 12, o zmianie imienia lub nazwiska niezwłocznie informują:
+
+### 1)
+
+kierownika urzędu stanu cywilnego właściwego ze względu na miejsce sporządzenia aktu urodzenia i małżeństwa wnioskodawcy, a także miejsce sporządzenia aktów urodzenia jego małoletnich dzieci, jeżeli zmiana nazwiska rozciąga się na dzieci, przekazując decyzję o zmianie imienia lub nazwiska;
+
+### 2)
+
+organ gminy prowadzący ewidencję ludności właściwy ze względu na miejsce pobytu stałego wnioskodawcy i jego małoletnich dzieci, jeżeli zmiana nazwiska rozciąga się na dzieci; w przypadku braku miejsca pobytu stałego tych osób - organ gminy prowadzący ewidencję ludności właściwy ze względu na ich ostatnie miejsce pobytu stałego lub organ gminy prowadzący ewidencję ludności właściwy ze względu na miejsce pobytu czasowego trwającego ponad 3 miesiące, jeżeli wnioskodawca lub jego małoletnie dzieci są zameldowani wyłącznie na ten pobyt, przekazując zawiadomienie o zmianie imienia lub nazwiska;
+
+### 3)
+
+ministra właściwego do spraw wewnętrznych, który prowadzi ewidencję ludności w formie zbioru danych osobowych Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli wnioskodawca lub jego małoletnie dzieci na terytorium Rzeczypospolitej Polskiej nigdy nie posiadali miejsca pobytu stałego oraz nie posiadają miejsca pobytu czasowego trwającego ponad 3 miesiące, przekazując zawiadomienie o zmianie imienia lub nazwiska;
+
+### 4)
+
+organ, który wydał dowód osobisty wnioskodawcy i jego małoletnim dzieciom, jeżeli zmiana nazwiska rozciąga się na te dzieci, przekazując zawiadomienie o zmianie imienia lub nazwiska.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1 pkt 2-4, zawiera:
+
+### 1)
+
+dane, o których mowa w art. 11 ust. 1 pkt 1;
+
+### 2)
+
+imię (imiona) lub nazwisko (nazwiska), na jakie nastąpiła zmiana;
+
+### 3)
+
+nazwę organu, który wydał decyzję o zmianie imienia lub nazwiska;
+
+### 4)
+
+oznaczenie i datę wydania decyzji.
+
+### 3.
+
+Decyzja i zawiadomienie, o których mowa w ust. 1 i 2, mogą być przekazywane przy wykorzystaniu środków komunikacji elektronicznej lub na informatycznych nośnikach danych, w formie dokumentów elektronicznych.
+
+### Art. 14.
+
+### 1.
+
+Określone w ustawie zadania i kompetencje kierownika urzędu stanu cywilnego i jego zastępcy są zadaniami z zakresu administracji rządowej.
+
+### 2.
+
+Wojewodowie sprawują nadzór nad realizacją zadań, o których mowa w art. 12 i art. 13 ust. 1, przez kierowników urzędów stanu cywilnego.
+
+### 3.
+
+Wojewoda jest organem wyższego stopnia w sprawach prowadzonych na podstawie ustawy.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych sprawuje zwierzchni nadzór nad sprawami objętymi niniejszą ustawą.
+
+### Art. 15.
+
+W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych ([Dz. U. z 2006 r. Nr 139, poz. 993](https://api.sejm.gov.pl/eli/acts/DU/2006/993/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056 i Nr 195, poz. 1198.](#gloss-0:3:)) w art. 14:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dane dotyczące zmiany stanu cywilnego oraz innych zmian w aktach stanu cywilnego kierownik urzędu stanu cywilnego przekazuje niezwłocznie do organu gminy właściwego ze względu na miejsce pobytu stałego osoby, której dane dotyczą, a w przypadku braku miejsca pobytu stałego osoby - do organu właściwego ze względu na ostatnie miejsce pobytu stałego lub czasowego trwającego ponad 3 miesiące oraz do organu, który wydał dowód osobisty.
+
+” ;
+
+### 2)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Do przekazywania danych dotyczących zmiany imienia lub nazwiska dokonanej na podstawie ustawy z dnia 17 października 2008 r. o zmianie imienia i nazwiska ([Dz. U. Nr 220, poz. 1414](https://api.sejm.gov.pl/eli/acts/DU/2008/1414/text.html)) stosuje się przepisy tej ustawy.
+
+” ;
+
+### 3)
+
+uchyla się ust. 3.
+
+### Art. 16.
+
+W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej ([Dz. U. Nr 225, poz. 1635](https://api.sejm.gov.pl/eli/acts/DU/2006/1635/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198 i Nr 216, poz. 1367.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+dokonanie czynności urzędowej i wydanie zaświadczenia w sprawach o zmianę imienia (imion) lub nazwiska osób, którym bezprawnie je zmieniono, a także zstępnych i małżonków tych osób;
+
+” ;
+
+### 2)
+
+w części I załącznika uchyla się ust. 6.
+
+### Art. 17.
+
+Traci moc ustawa z dnia 15 listopada 1956 r. o zmianie imion i nazwisk ([Dz. U. z 2005 r. Nr 233, poz. 1992](https://api.sejm.gov.pl/eli/acts/DU/2005/1992/text.html) oraz z [2007 r. Nr 21, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/2007/125/text.html)).
+
+### Art. 18.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych oraz ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056 i Nr 195, poz. 1198. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 144, poz. 1043, z 2007 r. Nr 21, poz. 125 oraz z 2008 r. Nr 70, poz. 416, Nr 171, poz. 1056 i Nr 195, poz. 1198. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 427, Nr 124, poz. 859, Nr 127, poz. 880 i Nr 128, poz. 883 oraz z 2008 r. Nr 44, poz. 262, Nr 63, poz. 394, Nr 182, poz. 1121, Nr 195, poz. 1198 i Nr 216, poz. 1367.

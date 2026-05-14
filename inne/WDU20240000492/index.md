@@ -8,11 +8,9 @@ pos: 492
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
-
-*USTAWA z dnia 7 marca 2024 r.*
+# Ustawa z dnia 7 marca 2024 r. o zmianie zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2024-03-07 |
 | Data wydania | 2024-04-02 |
 | Ostatnia zmiana | 2024-08-02 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000492) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/492/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/492/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/492) |
 
-**Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r., przez zawieszenie jego stosowania.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### Art. 1.
 
+Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Traktatu o konwencjonalnych siłach zbrojnych w Europie, podpisanego w Paryżu dnia 19 listopada 1990 r., przez zawieszenie jego stosowania.
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.

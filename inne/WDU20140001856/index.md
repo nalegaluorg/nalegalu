@@ -8,9 +8,9 @@ pos: 1856
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# „Program dla Odry – 2006”
+# Ustawa z dnia 28 listopada 2014 r. o uchyleniu ustawy o ustanowieniu programu wieloletniego „Program dla Odry - 2006” [1) Niniejszą ustawą zmienia się ustawę z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,34 +22,104 @@ domain: null
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2014-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001856) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1856/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/1856/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/1856) |
 
-**Art. 1.** Traci moc ustawa dnia 6 lipca 2001 o ustanowieniu programu wieloletniego „Program dla Odry – 2006” (Dz. Nr 98, poz. 1067, późn. zm. ).
+## Spis treści
 
-**Art. 2.** Znosi się Komitet Sterujący „Programu dla Odry – 2006”.
+- [Treść ustawy](#part_1)
 
-**Art. 3.**
+- [Załącznik - Wykaz zadań planowanych do realizacji w 2015 roku wraz z nakładami finansowymi](#part_2)
 
-1. Zadania inwestycyjne wynikające wieloletniego „Programu dla Odry – 2006”, zwanego dalej „Programem”, ujęte przejściowym dokumencie strategicznym – Masterplanie dla obszaru dorzecza Odry lub zaktualizowanych planach gospodarowania wodami, o mowa art. 114 dnia 18 lipca 2001 – Prawo wodne (Dz. poz. późn. zm. ), będą nadal realizowane.
+TOC
 
-2. Łączne nakłady na realizację zadań 2015 nie mogą przekroczyć 1 205 456 711 zł, według cen towarów usług obowiązujących 2014 r., tego budżetu państwa – kwoty określonej ustawie budżetowej na rok 2015.
+## Treść ustawy
 
-3. Wykaz zadań planowanych realizacji 2015 wraz nakładami finansowymi określa załącznik ustawy. [Art. 4. Zadania, o mowa art. 3, będą koordynowane przez Prezesa Krajowego Zarządu Gospodarki Wodnej.] <Art. 4. Zadania, o mowa art. 3, będą koordynowane przez Prezesa Państwowego Gospodarstwa Wodnego Wody Polskie.>
+### Art. 1.
 
-**Art. 5.** Rada Ministrów przedstawi Sejmowi, nie później niż dnia 30 czerwca roku następnego, informację o realizacji zadań wynikających Programu 2014 2015 budżetu państwa, jeżeli przewidują to odpowiednio programy, o mowa art. 8 ust. 1 pkt 1–3, albo strategia wykorzystania Funduszy Spójności, oparciu o kryteria, o mowa art. 4 ust. 1 pkt 7, albo wynika to przepisów dnia 16 grudnia 2005 o finansowaniu infrastruktury transportu lądowego (Dz. Nr 267, poz. 2251, 2007 Nr 23, poz. 136 2009 Nr 19, poz. 100), dnia 27 października 1994 o autostradach płatnych o Krajowym Funduszu Drogowym (Dz. poz. 931, późn. zm. ), dnia 28 marca 2003 o transporcie kolejowym (Dz. 2013 poz. 1594, późn. zm. ) lub dnia 18 lipca 2001 – Prawo wodne (Dz. poz. późn. zm. ).”.
+Traci moc ustawa z dnia 6 lipca 2001 r. o ustanowieniu programu wieloletniego „Program dla Odry - 2006” ([Dz. U. Nr 98, poz. 1067](https://api.sejm.gov.pl/eli/acts/DU/2001/1067/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 216, poz. 1827, z 2008 r. Nr 220, poz. 1427 oraz z 2009 r. Nr 161, poz. 1277.](#gloss-0:2:)).
 
-**Art. 7.**
+### Art. 2.
 
-1. Z dniem wejścia życie pracownicy wykonujący tego dnia zadania związane realizacją Programu Dolnośląskim Urzędzie Wojewódzkim stają się pracownikami Regionalnego Zarządu Gospodarki Wodnej we Wrocławiu.
+Znosi się Komitet Sterujący „Programu dla Odry - 2006”.
 
-2. Dotychczasowy pracodawca jest obowiązany terminie 14 dni od dnia ogłoszenia zawiadomić pracowników o zmianach zakresie ich stosunku pracy. Przepisy art. 23 § 4 Kodeksu pracy stosuje się odpowiednio.
+### Art. 3.
 
-3. Stosunek pracy pracownikami, o mowa ust. 1, wygasa po upływie 3 miesięcy od dnia wejścia życie niniejszej ustawy:
+### 1.
 
-- **1)** jeżeli przed upływem 2 miesięcy od dnia wejścia życie niniejszej nie zostaną im zaproponowane nowe warunki pracy lub płacy albo
-- **2)** razie odmowy przyjęcia nowych warunków pracy lub płacy terminie nie późniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia życie niniejszej ustawy. Programu Dyrektorowi Regionalnego Zarządu Gospodarki Wodnej we Wrocławiu terminie 14 dni od dnia wejścia życie ustawy.
+Zadania inwestycyjne wynikające z wieloletniego „Programu dla Odry - 2006”, zwanego dalej „Programem”, ujęte w przejściowym dokumencie strategicznym - Masterplanie dla obszaru dorzecza Odry lub w zaktualizowanych planach gospodarowania wodami, o których mowa w art. 114 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2012 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2012/145/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.](#gloss-0:3:)), będą nadal realizowane.
 
-**Art. 9.** W celu wykonania przepisów Prezes Rady Ministrów dokonuje, drodze rozporządzenia, przeniesienia planowanych dochodów wydatków budżetowych, tym wynagrodzeń, między częściami, działami rozdziałami budżetu państwa, zachowaniem przeznaczenia środków publicznych wynikającego budżetowej.
+### 2.
 
-**Art. 10.** Ustawa wchodzi życie dniem 1 stycznia 2015 r., wyjątkiem art. 7 ust. 2, który wchodzi życie dniem ogłoszenia. finansowymi Nakłady Data rozpoczęcia Przewidywana Lp. Nazwa zadania o g ó ł e m realizacji zadania data zakończenia 2015 realizacji 1 2.2 Budowa Zbiornika Racibórz 294 594 770 2004 2017 Dokończenie budowy 2 4 stopnia wodnego 50 274 000 1997 2015 Malczyce 17 635 000 2008 2015 3 6 Budowa jazu Chróścice 4 9 Zbiorniki poldery dorzeczu Odry Rzymówka na rzece 528 900 2013 2016 4.1 9.1 Kaczawie - polder Wielowieś-Klasztorna 355 470 2002 2016 4.2 9.4 na rzece Prosna Pozostałe dorzeczu 180 190 2011 2017 4.3 9.5 Warty Modernizacja systemu 5 10 ochrony od powodzi miast dolinie górnej Odry Ochrona od powodzi 1 593 000 2009 2015 5.1 10.3 Opola 5.2 10.4 Ochrona od powodzi 351 043 810 2004 2016 Wrocławia 6.2 11.4 ochrony bezpośredniej miasta Kłodzka Prace modernizacyjne dolinie Nysy Kłodzkiej 163 475 000 2006 2015 12 od Zb. Nysa 7 Skorogoszczy (w tym miasta Nysa Lewin Brzeski) Budowle regulacyjne na Odrze swobodnie płynącej dorzeczu 8 13.1 Warty - Odcinek od Lubiąża 26 683 449 2007 2022 ujścia Warty rzeki dorzecza Warty Naprawa modernizacja 36 688 002 1998 2022 9 14 wałów dorzeczu Odry wraz Wartą Modernizacja śluz Kanału 27 786 629 2008 2015 10 1 Gliwickiego Modernizacja 231 190 635 2006 2016 11 3 Wrocławskiego Węzła Wodnego 12 1 LASY 1 486 000 2002 2016 13 5 Zagospodarowanie przestrzenne 350 000 2002 2016 14 7 Monitoring przeciwpowodziowy 353 000 2002 2016 SUMA: 1 205 456 711
+Łączne nakłady na realizację zadań w 2015 r. nie mogą przekroczyć 1 205 456 711 zł, według cen towarów i usług obowiązujących w 2014 r., z tego z budżetu państwa - kwoty określonej w ustawie budżetowej na rok 2015.
 
+### 3.
+
+Wykaz zadań planowanych do realizacji w 2015 r. wraz z nakładami finansowymi określa załącznik do ustawy.
+
+### Art. 4.
+
+Zadania, o których mowa w art. 3, będą koordynowane przez Prezesa Krajowego Zarządu Gospodarki Wodnej.
+
+### Art. 5.
+
+Rada Ministrów przedstawi Sejmowi, nie później niż do dnia 30 czerwca roku następnego, informację o realizacji zadań wynikających z Programu w 2014 r. i w 2015 r.
+
+### Art. 6.
+
+W ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju ([Dz. U. z 2014 r. poz. 1448](https://api.sejm.gov.pl/eli/acts/DU/2014/1448/text.html)) w art. 30 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W odniesieniu do projektów realizowanych w ramach programów, o których mowa w art. 8 ust. 1, współfinansowanych z publicznych środków wspólnotowych oraz projektów w ramach strategii wykorzystania Funduszu Spójności, beneficjent może uzyskać dofinansowanie wkładu własnego z budżetu państwa, jeżeli przewidują to odpowiednio programy, o których mowa w art. 8 ust. 1 pkt 1-3, albo strategia wykorzystania Funduszy Spójności, w oparciu o kryteria, o których mowa w art. 4 ust. 1 pkt 7, albo wynika to z przepisów ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego ([Dz. U. Nr 267, poz. 2251](https://api.sejm.gov.pl/eli/acts/DU/2005/2251/text.html), z [2007 r. Nr 23, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2007/136/text.html) oraz z [2009 r. Nr 19, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/2009/100/text.html)), ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2012 r. poz. 931](https://api.sejm.gov.pl/eli/acts/DU/2012/931/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559.](#gloss-0:4:)), ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2013 r. poz. 1594](https://api.sejm.gov.pl/eli/acts/DU/2013/1594/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962.](#gloss-0:5:)) lub ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2012 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2012/145/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.](#gloss-0:6:)).
+
+” .
+
+### Art. 7.
+
+### 1.
+
+Z dniem wejścia w życie ustawy pracownicy wykonujący do tego dnia zadania związane z realizacją Programu w Dolnośląskim Urzędzie Wojewódzkim stają się pracownikami Regionalnego Zarządu Gospodarki Wodnej we Wrocławiu.
+
+### 2.
+
+Dotychczasowy pracodawca jest obowiązany w terminie 14 dni od dnia ogłoszenia ustawy zawiadomić pracowników o zmianach w zakresie ich stosunku pracy. Przepisy art. 231 § 4 Kodeksu pracy stosuje się odpowiednio.
+
+### 3.
+
+Stosunek pracy z pracownikami, o których mowa w ust. 1, wygasa po upływie 3 miesięcy od dnia wejścia w życie niniejszej ustawy:
+
+### 1)
+
+jeżeli przed upływem 2 miesięcy od dnia wejścia w życie niniejszej ustawy nie zostaną im zaproponowane nowe warunki pracy lub płacy albo
+
+### 2)
+
+w razie odmowy przyjęcia nowych warunków pracy lub płacy w terminie nie późniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 4.
+
+Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem.
+
+### 5.
+
+Przepisu ust. 2 zdanie drugie oraz ust. 3 i 4 nie stosuje się do urzędników służby cywilnej, do których zastosowanie mają przepisy ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. z 2014 r. poz. 1111](https://api.sejm.gov.pl/eli/acts/DU/2014/1111/text.html) i [1199](https://api.sejm.gov.pl/eli/acts/DU/2014/1199/text.html)).
+
+### Art. 8.
+
+Wojewoda Dolnośląski przekaże ruchomości służące realizacji zadań Programu Dyrektorowi Regionalnego Zarządu Gospodarki Wodnej we Wrocławiu w terminie 14 dni od dnia wejścia w życie ustawy.
+
+### Art. 9.
+
+W celu wykonania przepisów ustawy Prezes Rady Ministrów dokonuje, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+
+### Art. 10.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2015 r., z wyjątkiem art. 7 ust. 2, który wchodzi w życie z dniem ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1800, z 2002 r. Nr 216, poz. 1827, z 2008 r. Nr 220, poz. 1427 oraz z 2009 r. Nr 161, poz. 1277. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2013 r. poz. 433, 843, 1543 i 1646 oraz z 2014 r. poz. 805, 1310 i 1559. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 644, 768 i 962. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.
+
+## Załącznik - Wykaz zadań planowanych do realizacji w 2015 roku wraz z nakładami finansowymi
+
+Lp. Nazwa zadania Nakłady ogółem w 2015 r. Data rozpoczęcia realizacji zadania Przewidywana data zakończenia realizacji zadania 1 2.2 Budowa Zbiornika Racibórz 294 594 770 2004 2017 2 4 Dokończenie budowy stopnia wodnego Malczyce 50 274 000 1997 2015 3 6 Budowa jazu Chróścice 17 635 000 2008 2015 4 9 Zbiorniki i poldery w dorzeczu Odry 4.1 9.1 Rzymówka na rzece Kaczawie - polder 528 900 2013 2016 4.2 9.4 Wielowieś-Klasztorna na rzece Prosną 355 470 2002 2016 4.3 9.5 Pozostałe w dorzeczu Warty 180 190 2011 2017 5 10 Modernizacja systemu ochrony od powodzi miast w dolinie górnej Odry 5.1 10.3 Ochrona od powodzi Opola 1 593 000 2009 2015 5.2 10.4 Ochrona od powodzi Wrocławia 351 043 810 2004 2016 6 11 Ochrona od powodzi Ziemi Kłodzkiej 6.1 11.2 Przedsięwzięcia na rzece Bystrzyca Dusznicka 119 187 2011 2015 6.2 11.4 Przedsięwzięcia ochrony bezpośredniej miasta Kłodzka 1 119 669 2011 2015 7 12 Prace modernizacyjne w dolinie Nysy Kłodzkiej od Zb. Nysa do Skorogoszczy (w tym miasta Nysa i Lewin Brzeski) 163 475 000 2006 2015 8 13.1 Budowle regulacyjne na Odrze swobodnie płynącej i w dorzeczu Warty - Odcinek od Lubiąża do ujścia Warty oraz rzeki dorzecza Warty 26 683 449 2007 2022 9 14 Naprawa i modernizacja wałów w dorzeczu Odry wraz z Wartą 36 688 002 1998 2022 10 1 Modernizacja śluz Kanału Gliwickiego 27 786 629 2008 2015 11 3 Modernizacja Wrocławskiego Węzła Wodnego 231 190 635 2006 2016 12 1 LASY 1 486 000 2002 2016 13 5 Zagospodarowanie przestrzenne 350 000 2002 2016 14 7 Monitoring przeciwpowodziowy 353 000 2002 2016 SUMA: 1 205 456 711

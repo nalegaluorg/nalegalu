@@ -8,11 +8,9 @@ pos: 1461
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o podatkach i opłatach lokalnych
-
-*USTAWA z dnia 24 września 2010 r.*
+# Ustawa z dnia 24 września 2010 r. o zmianie ustawy o podatkach i opłatach lokalnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2010-09-24 |
 | Data wydania | 2010-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102251461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1461/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/1461/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/1461) |
 
-**Art. 1.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2010 r. Nr 95, poz. 613 i Nr 96, poz. 620) w art. 5 w ust. 1 w pkt 2 lit. d otrzymuje brzmienie: „d) związanych z prowadzeniem działalności gospodarczej w zakresie udzielania świadczeń zdrowotnych, zajętych przez podmioty udzielające tych świadczeń – 4,27 zł od 1 m powierzchni użytkowej,”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2011 r.
+### Art. 1.
 
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. z 2010 r. Nr 95, poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2010/613/text.html) i [Nr 96, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2010/620/text.html)) w art. 5 w ust. 1 w pkt 2 lit. d otrzymuje brzmienie:
+
+„
+
+### d)
+
+związanych z prowadzeniem działalności gospodarczej w zakresie udzielania świadczeń zdrowotnych, zajętych przez podmioty udzielające tych świadczeń - 4,27 zł od 1 m2 powierzchni użytkowej,
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2011 r.

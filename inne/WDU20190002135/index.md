@@ -1,0 +1,52 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 7 października 2019 r. zmieniające rozporządzenie w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów umożliwiających wykonywanie zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego"
+address: WDU20190002135
+eli: DU/2019/2135
+publisher: DU
+year: 2019
+pos: 2135
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 7 października 2019 r. zmieniające rozporządzenie w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów umożliwiających wykonywanie zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2135 |
+| ISAP | WDU20190002135 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-10-07 |
+| Data wydania | 2019-11-05 |
+| Wejście w życie | 2019-11-20 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/2135/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/2135) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Tekst załącznika](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 182 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. z 2018 r. poz. 1954](https://api.sejm.gov.pl/eli/acts/DU/2018/1954/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030, 1553, 1815 i 2005.](#gloss-0:1:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Rady Ministrów z dnia 20 stycznia 2012 r. w sprawie wymagań technicznych i eksploatacyjnych dla interfejsów umożliwiających wykonywanie zadań i obowiązków na rzecz obronności, bezpieczeństwa państwa oraz bezpieczeństwa i porządku publicznego ([Dz. U. poz. 200](https://api.sejm.gov.pl/eli/acts/DU/2012/200/text.html)) w załączniku w pkt IV w ppkt 1.7 tabela nr 2 otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2245 i 2354 oraz z 2019 r. poz. 643, 730, 1030, 1553, 1815 i 2005.
+
+## Załącznik - Tekst załącznika
+
+Tabela nr 2 LEAID Wartość LEA Opis 00 LEMF Operatora Przedsiębiorca telekomunikacyjny 01 ABW Agencja Bezpieczeństwa Wewnętrznego 02 Policja Policja 03 SKW Służba Kontrwywiadu Wojskowego 04 ZW Żandarmeria Wojskowa 05 SG Straż Graniczna 06 MF Ministerstwo Finansów 07 CBA Centralne Biuro Antykorupcyjne 08 SOP Służba Ochrony Państwa 09 BNW Biuro Nadzoru Wewnętrznego

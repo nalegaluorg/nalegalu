@@ -8,11 +8,9 @@ pos: 3
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o izbach rolniczych
-
-*USTAWA z dnia 14 grudnia 1995 r.*
+# Ustawa z dnia 14 grudnia 1995 r. o izbach rolniczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,608 +22,984 @@ domain: null
 | Data ogłoszenia | 1995-12-14 |
 | Data wydania | 1996-01-04 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960010003) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/3/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1996/3/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1996/3) |
 
-Art. 50–55. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zadania i zasady działania izb](#chpt_2) [Rozdział 3 - Organy izby](#chpt_3) [Rozdział 4 - Zasady przeprowadzania wyborów do walnego zgromadzenia izby](#chpt_4) [Rozdział 5 - Zasady gospodarki finansowej izb](#chpt_5) [Rozdział 6 - Reprezentacja krajowa izb](#chpt_6) [Rozdział 7 - Nadzór nad izbami](#chpt_7) [Rozdział 8 - Przepisy szczególne, przejściowe i końcowe](#chpt_8)
 
-**Art. 1.**
+TOC
 
-1. Tworzy się samorząd rolniczy działający na rzecz rozwiązywania problemów rolnictwa i reprezentujący interesy zrzeszonych w nim podmiotów.
+## Treść ustawy
 
-2. Członkami samorządu rolniczego z mocy prawa są:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** osoby fizyczne i prawne, będące podatnikami podatku rolnego w rozumieniu przepisów o podatku rolnym;
-- **2)** osoby fizyczne i prawne, będące podatnikami podatku dochodowego z działów specjalnych produkcji rolnej w rozumieniu przepisów o podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych;
-- **3)** członkowie rolniczych spółdzielni produkcyjnych posiadający w tych spółdzielniach wkłady gruntowe.
+### Art. 1.
 
-**Art. 2.**
+### 1.
 
-1. Samorząd rolniczy jest niezależny w wykonywaniu swych zadań i podlega tylko ustawom.
+Tworzy się samorząd rolniczy działający na rzecz rozwiązywania problemów rolnictwa i reprezentujący interesy zrzeszonych w nim podmiotów.
 
-2. Samodzielność samorządu rolniczego podlega ochronie sądowej.
+### 2.
 
-**Art. 3.**
+Członkami samorządu rolniczego z mocy prawa są:
 
-1. Jednostkami organizacyjnymi samorządu rolniczego są izby rolnicze, zwane dalej „izbami”.
+### 1)
 
-2. Terenem działania izby jest obszar województwa.
+osoby fizyczne i prawne, będące podatnikami podatku rolnego w rozumieniu przepisów o podatku rolnym,
 
-3. Członkami izby są osoby, o których mowa w art. 1 ust. 2 pkt 1 i 2, płacące podatek na terenie działania izby oraz osoby, o których mowa w art. 1 ust. 2 pkt 3, będące członkami rolniczych spółdzielni produkcyjnych, mających siedzibę na terenie działania izby.
+### 2)
 
-4. Izby działają na rzecz rolnictwa, wpływają na kształtowanie polityki rolnej i uczestniczą w jej realizacji.
+osoby fizyczne i prawne, będące podatnikami podatku dochodowego z działów specjalnych produkcji rolnej w rozumieniu przepisów o podatku dochodowym od osób fizycznych i podatku dochodowym od osób prawnych,
 
-5. Izby posiadają osobowość prawną.
+### 3)
 
-**Art. 4.** W celu realizacji wspólnych zadań izby mogą zawierać porozumienia regionalne.
+członkowie rolniczych spółdzielni produkcyjnych posiadający w tych spółdzielniach wkłady gruntowe.
 
-#### Rozdział 2 Zadania i zasady działania izb
+### Art. 2.
 
-**Art. 5.**
+### 1.
 
-1. Do zadań izb należy w szczególności:
+Samorząd rolniczy jest niezależny w wykonywaniu swych zadań i podlega tylko ustawom.
 
-- **1)** sporządzanie analiz, ocen, opinii i wniosków z zakresu produkcji rolnej oraz rynku rolnego i przedstawianie ich organom administracji rządowej i samorządu terytorialnego;
-- **2)** występowanie do organów administracji rządowej w województwie i organów samorządu terytorialnego z inicjatywą w zakresie regulacji prawnych dotyczących rolnictwa, rozwoju wsi i rynków rolnych oraz opiniowanie projektów tych przepisów;
-- **3)** prowadzenie działań na rzecz tworzenia rynku rolnego oraz poprawy warunków zbytu płodów rolnych i produktów rolnych;
-- **4)** prowadzenie analiz kosztów i opłacalności produkcji rolnej;
-- **5)** gromadzenie, przetwarzanie i przekazywanie informacji gospodarczych na potrzeby producentów rolnych oraz innych przedsiębiorców;
-- **6)** doradztwo w zakresie działalności rolniczej, wiejskiego gospodarstwa domowego oraz uzyskiwania przez rolników dodatkowych dochodów;
-- **7)** podejmowanie działań na rzecz rozwoju infrastruktury rolnictwa i wsi oraz poprawy struktury agrarnej;
-- **8)** podnoszenie kwalifikacji osób zatrudnionych w rolnictwie;
-- **9)** prowadzenie listy rzeczoznawców oraz przyznawanie tytułów kwalifikacyjnych w zakresie rolnictwa, na zasadach określonych w odrębnych przepisach;
-- **10)** kształtowanie i upowszechnianie zasad etyki i rzetelnego postępowania w działalności gospodarczej;
-- **11)** działanie na rzecz podnoszenia jakości środków i urządzeń stosowanych w działalności rolniczej oraz na rzecz poprawy warunków pracy i bezpieczeństwa w rolnictwie;
-- **12)** współdziałanie z jednostkami prowadzącymi szkoły rolnicze, wspieranie ich działalności, inicjowanie powstawania nowych szkół i zmian w programach nauczania oraz współorganizowanie praktyk;
-- **13)** kształtowanie świadomości ekologicznej producentów rolnych;
-- **14)** inicjowanie działań mających na celu powoływanie i wspieranie zrzeszeń i stowarzyszeń producentów rolnych i leśnych;
-- **15)** działanie na rzecz poprawy jakości produktów rolnych;
-- **16)** promowanie eksportu produktów rolnych;
-- **17)** rozwijanie współpracy z zagranicznymi organizacjami producentów rolnych;
-- **18)** współpraca z administracją publiczną w zakresie ochrony środowiska, zdrowia i wiejskiego dziedzictwa kulturowego;
-- **19)** przedstawianie opinii na temat oszacowania szkód, jeżeli został złożony wniosek, o którym mowa w art. 46d ust. 5 ustawy z dnia 13 października 1995 r. – Prawo łowieckie (Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 i 2112).
+### 2.
 
-2. Izby mogą wykonywać zadania zlecone z zakresu administracji rządowej, przekazane ustawami lub na podstawie porozumień z właściwymi organami administracji rządowej.
+Samodzielność samorządu rolniczego podlega ochronie sądowej.
 
-3. Izby mogą realizować zadania przekazane w drodze porozumienia przez organy samorządu terytorialnego z zakresu zadań własnych jednostek samorządu terytorialnego.
+### Art. 3.
 
-4. Zadania, o których mowa w ust. 2 i 3, są wykonywane przez izby po zapewnieniu koniecznych środków finansowych przez administrację rządową lub samorządową.
+### 1.
 
-**Art. 5a.**
+Jednostkami organizacyjnymi samorządu rolniczego są izby rolnicze, zwane dalej „izbami”.
 
-1. Organy administracji rządowej w województwie oraz organy samorządu terytorialnego zasięgają opinii właściwej miejscowo izby o projektach aktów prawa miejscowego dotyczących rolnictwa, rozwoju wsi i rynków rolnych, z wyjątkiem przepisów porządkowych.
+### 2.
 
-2. Termin do przedstawienia opinii, o której mowa w ust. 1, wynosi:
+Terenem działania izby jest obszar województwa.
 
-- **1)** co najmniej 14 dni od dnia doręczenia projektu – dla projektów przesłanych przez organy administracji rządowej w województwie;
-- **2)** 14 dni od dnia doręczenia projektu – dla projektów przesłanych przez organy samorządu terytorialnego.
+### 3.
 
-3. Nieprzedstawienie przez izbę stanowiska w wyznaczonym terminie uważa się za akceptację przedłożonego projektu.
+Członkami izby są osoby, o których mowa w art. 1 ust. 2 pkt 1 i 2, płacące podatek na terenie działania izby oraz osoby, o których mowa w art. 1 ust. 2 pkt 3, będące członkami rolniczych spółdzielni produkcyjnych, mających siedzibę na terenie działania izby.
 
-**Art. 6.**
+### 4.
 
-1. Sprawy indywidualne z zakresu administracji rządowej oraz wynikające z zakresu zadań własnych jednostek samorządu terytorialnego załatwiane są przez izbę w trybie postępowania administracyjnego.
+Izby działają na rzecz rolnictwa, wpływają na kształtowanie polityki rolnej i uczestniczą w jej realizacji.
 
-2. Decyzje administracyjne w sprawach z zakresu, o którym mowa w ust. 1, wydaje prezes izby.
+### 5.
 
-3. Prezes izby może upoważnić w formie pisemnej wiceprezesa izby lub innych członków zarządu, a także przewodniczących rad powiatowych izby, o których mowa w art. 9 ust. 1 pkt 4, do wydawania decyzji administracyjnych, o których mowa w ust. 2, w imieniu prezesa izby.
+Izby posiadają osobowość prawną.
 
-4. W postępowaniu administracyjnym organami wyższego stopnia są:
+### Art. 4.
 
-- **1)** w sprawach z zakresu administracji rządowej – wojewoda;
-- **2)** w sprawach z zakresu zadań własnych jednostek samorządu terytorialnego – samorządowe kolegium odwoławcze.
+W celu realizacji wspólnych zadań izby mogą zawierać porozumienia regionalne.
 
-**Art. 7.**
+### Rozdział 2 Zadania i zasady działania izb
 
-1. Izba:
+### Art. 5.
 
-- **1)** nie może prowadzić działalności gospodarczej;
-- **2)** może wyłącznie:
-    - **a)** być wspólnikiem spółki z ograniczoną odpowiedzialnością lub akcjonariuszem spółki akcyjnej,
-    - **b)** tworzyć fundacje,
-    - **c)** być członkiem wspierającym stowarzyszenia oraz założycielem lub członkiem związku stowarzyszeń – które prowadzą działalność w zakresie zgodnym z ustawowymi i statutowymi zadaniami izby.
+### 1.
 
-2. Dochód izby z tytułu posiadania udziałów lub akcji w spółkach może być przeznaczony wyłącznie na realizację zadań ustawowych i statutowych izby.
+Do zadań izb należy w szczególności:
 
-**Art. 8.**
+### 1)
 
-1. Izby działają na podstawie ustawy i statutu.
+sporządzanie analiz, ocen, opinii i wniosków z zakresu produkcji rolnej oraz rynku rolnego i przedstawianie ich organom administracji rządowej i samorządu terytorialnego,
 
-2. Statut izby określa w szczególności:
+### 2)
 
-- **1)** nazwę i siedzibę izby;
-- **2)** teren działania;
-- **3)** prawa i obowiązki członków izby;
-- **4)** zadania izby oraz sposoby ich realizacji;
-- **5)** strukturę organizacyjną;
-- **6)** tryb wyboru i odwoływania komisji rewizyjnej i zarządu izby;
-- **7)** zasady reprezentowania izby na zewnątrz;
-- **8)** zasady zawierania porozumień regionalnych;
-- **9)** zasady powoływania i pracy komisji problemowych;
-- **10)** zasady gospodarki finansowej, w tym sposób dysponowania majątkiem oraz zaciągania zobowiązań majątkowych;
-- **11)** szczegółowe zasady działania rad powiatowych izby.
+występowanie do organów administracji rządowej i samorządu terytorialnego z inicjatywą w zakresie regulacji prawnych oraz opiniowanie projektów przepisów,
 
-#### Rozdział 3 Organy izby
+### 3)
 
-**Art. 9.**
+prowadzenie działań na rzecz tworzenia rynku rolnego oraz poprawy warunków zbytu płodów rolnych i produktów rolnych,
 
-1. Organami izby są:
+### 4)
 
-- **1)** walne zgromadzenie;
-- **2)** komisja rewizyjna;
-- **3)** zarząd;
-- **4)** rady powiatowe izby.
+prowadzenie analiz kosztów i opłacalności produkcji rolnej,
 
-2. (uchylony)
+### 5)
 
-**Art. 10.**
+gromadzenie, przetwarzanie i przekazywanie informacji gospodarczych na potrzeby producentów rolnych oraz innych podmiotów gospodarczych,
 
-1. Najwyższym organem izby jest walne zgromadzenie.
+### 6)
 
-2. Kadencja walnego zgromadzenia trwa 4 lata, licząc od dnia wyborów.
+doradztwo w zakresie działalności rolniczej, wiejskiego gospodarstwa domowego oraz uzyskiwania przez rolników dodatkowych dochodów,
 
-**Art. 11.**
+### 7)
 
-1. Zarząd zwołuje walne zgromadzenie co najmniej dwa razy w roku.
+podejmowanie działań na rzecz rozwoju infrastruktury rolnictwa i wsi oraz poprawy struktury agrarnej,
 
-2. Zarząd zwołuje również walne zgromadzenie na wniosek komisji rewizyjnej albo na wniosek co najmniej 1/3 ogólnej liczby członków walnego zgromadzenia.
+### 8)
 
-**Art. 12.**
+podnoszenie kwalifikacji osób zatrudnionych w rolnictwie,
 
-1. Do wyłącznej właściwości walnego zgromadzenia należy:
+### 9)
 
-- **1)** uchwalanie i zmiana statutu;
-- **2)** wybór i odwoływanie, w głosowaniu tajnym, zarządu, poszczególnych jego członków oraz komisji rewizyjnej i poszczególnych jej członków;
-- **3)** uchwalanie regulaminu obrad;
-- **4)** uchwalanie regulaminów pracy zarządu i komisji rewizyjnej;
-- **5)** rozpatrywanie i zatwierdzanie sprawozdań zarządu i komisji rewizyjnej;
-- **6)** podejmowanie uchwał w sprawie absolutorium dla zarządu;
-- **7)** uchwalanie budżetu;
-- **8)** podejmowanie uchwał w sprawach majątkowych określonych w statucie, a także określanie maksymalnej kwoty zobowiązań, które może zaciągnąć zarząd;
-- **9)** podejmowanie uchwał w sprawie wysokości składki członkowskiej;
-- **10)** uchwalanie wysokości diet i zwrotu kosztów podróży służbowych członków walnego zgromadzenia, komisji rewizyjnej, zarządu, komisji problemowych, rad powiatowych izby oraz delegata do Krajowej Rady Izb Rolniczych, a także zasad i trybu ich wypłaty;
-- **11)** podejmowanie uchwał w sprawie przejęcia, w drodze porozumienia, zadań należących do właściwości administracji rządowej, o których mowa w art. 5 ust. 2;
-- **12)** podejmowanie uchwał w sprawie przejęcia zadań przekazywanych w drodze porozumienia przez organy samorządu terytorialnego, o których mowa w art. 5 ust. 3;
-- **13)** podejmowanie uchwał w sprawach:
-    - **a)** utworzenia lub przystąpienia do spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej,
-    - **b)** utworzenia fundacji,
-    - **c)** przystąpienia do stowarzyszenia w charakterze członka wspierającego,
-    - **d)** założenia związku stowarzyszeń lub przystąpienia do takiego związku;
+prowadzenie listy rzeczoznawców oraz przyznawanie tytułów kwalifikacyjnych w zakresie rolnictwa, na zasadach określonych w odrębnych przepisach,
 
-- **14)** wyrażanie zgody na członkostwo izby w innych organizacjach krajowych i zagranicznych;
-- **15)** ustalanie zasad odpłatności za usługi świadczone przez izbę.
+### 10)
 
-2. Statut izby może określić inne sprawy zastrzeżone do wyłącznej właściwości walnego zgromadzenia.
+kształtowanie i upowszechnianie zasad etyki i rzetelnego postępowania w działalności gospodarczej,
 
-**Art. 13.**
+### 11)
 
-1. Uchwały walnego zgromadzenia zapadają większością głosów w obecności co najmniej połowy ogólnej liczby członków, z zastrzeżeniem ust. 2.
+działanie na rzecz podnoszenia jakości środków i urządzeń stosowanych w działalności rolniczej oraz na rzecz poprawy warunków pracy i bezpieczeństwa w rolnictwie,
 
-2. Statut izby lub jego zmiana uchwalane są większością głosów w obecności co najmniej 2/3 ogólnej liczby członków walnego zgromadzenia.
+### 12)
 
-**Art. 14.**
+współdziałanie z jednostkami prowadzącymi szkoły rolnicze, wspieranie ich działalności, inicjowanie powstawania nowych szkół i zmian w programach nauczania oraz współorganizowanie praktyk,
 
-1. Walne zgromadzenie powołuje spośród swoich członków komisje problemowe.
+### 13)
 
-2. Na wniosek komisji, o których mowa w ust. 1, walne zgromadzenie może rozszerzyć ich skład o osoby niebędące członkami walnego zgromadzenia. Osoby te nie mogą stanowić więcej niż 50% składu komisji.
+kształtowanie świadomości ekologicznej producentów rolnych,
 
-**Art. 15.** W obradach walnego zgromadzenia mogą uczestniczyć bez prawa udziału w głosowaniu delegowani przedstawiciele:
+### 14)
 
-**Art. 16.**
+inicjowanie działań mających na celu powoływanie i wspieranie zrzeszeń i stowarzyszeń producentów rolnych,
 
-1. Komisja rewizyjna składa się z 5 osób wybranych spośród członków walnego zgromadzenia.
+### 15)
 
-2. Do zadań komisji rewizyjnej należy w szczególności:
+działanie na rzecz poprawy jakości produktów rolnych,
 
-- **1)** kontrola wykonywania uchwał walnego zgromadzenia;
-- **2)** kontrola działalności finansowej izby;
-- **3)** przedstawianie walnemu zgromadzeniu wniosków o udzielenie bądź odmowę udzielenia absolutorium zarządowi oraz wniosków wraz z uzasadnieniem o odwołanie zarządu lub poszczególnych jego członków;
-- **4)** podejmowanie uchwały w sprawie wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego.
+### 16)
 
-3. Członek komisji rewizyjnej nie może być jednocześnie członkiem zarządu.
+promowanie eksportu produktów rolnych,
 
-4. W przypadku wygaśnięcia mandatu członka walnego zgromadzenia będącego członkiem komisji rewizyjnej walne zgromadzenie dokonuje wyboru uzupełniającego na najbliższym posiedzeniu przypadającym po dniu wygaśnięcia mandatu.
+### 17)
 
-5. W przypadku odwołania komisji rewizyjnej bez równoczesnego wyboru nowej komisji rewizyjnej dotychczasowa komisja rewizyjna działa do czasu wyboru nowej komisji.
+rozwijanie współpracy z zagranicznymi organizacjami producentów rolnych.
 
-**Art. 17.** Uchwały komisji rewizyjnej zapadają większością głosów, w obecności co najmniej połowy jej składu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.
+### 2.
 
-**Art. 18.**
+Izby mogą wykonywać zadania zlecone z zakresu administracji rządowej, przekazane ustawami lub na podstawie porozumień z właściwymi organami administracji rządowej.
 
-1. Zarząd wybierany jest spośród członków walnego zgromadzenia izby.
+### 3.
 
-2. W skład zarządu wchodzą: prezes, wiceprezes i 3 członkowie.
+Izby mogą realizować zadania przekazane w drodze porozumienia przez organy samorządu terytorialnego z zakresu zadań własnych gminy.
 
-3. Zarząd wybierany jest na pierwszym posiedzeniu nowo wybranego walnego zgromadzenia, nie później jednak niż w ciągu 3 miesięcy od dnia wyborów, i działa do czasu wyboru nowego zarządu.
+### 4.
 
-4. Jeżeli walne zgromadzenie nie dokona wyboru zarządu w terminie określonym w ust. 3, ulega ono rozwiązaniu z mocy prawa.
+Zadania, o których mowa w ust. 2 i 3, są wykonywane przez izby po zapewnieniu koniecznych środków finansowych przez administrację rządową lub samorządową.
 
-5. Informację o rozwiązaniu walnego zgromadzenia z mocy prawa z przyczyny określonej w ust. 4 wojewoda przekazuje Zarządowi Krajowej Rady Izb Rolniczych, który zarządza przeprowadzenie wyborów do walnego zgromadzenia.
+### Art. 6.
 
-6. Do czasu wyboru zarządu przez nowe walne zgromadzenie wojewoda wyznacza osobę, która w tym okresie pełni funkcję organów izby.
+### 1.
 
-7. W przypadku wygaśnięcia mandatu członka walnego zgromadzenia będącego członkiem zarządu walne zgromadzenie dokonuje wyboru uzupełniającego na najbliższym posiedzeniu przypadającym po dniu wygaśnięcia mandatu.
+Sprawy indywidualne z zakresu administracji rządowej oraz wynikające z zakresu zadań własnych gminy załatwiane są przez izbę w trybie postępowania administracyjnego.
 
-8. W przypadku odwołania zarządu bez równoczesnego wyboru nowego zarządu dotychczasowy zarząd działa do czasu wyboru nowego zarządu.
+### 2.
 
-**Art. 19.** Do właściwości zarządu należą wszystkie sprawy izby niezastrzeżone ustawą lub statutem dla innych organów, a w szczególności:
+Decyzje administracyjne w sprawach z zakresu, o którym mowa w ust. 1, wydaje prezes izby.
 
-**Art. 20.**
+### 3.
 
-1. Uchwały zarządu zapadają większością głosów, w obecności co najmniej połowy jego składu. W przypadku równej liczby głosów rozstrzyga głos prezesa.
+Prezes izby może upoważnić w formie pisemnej wiceprezesa izby lub innych członków zarządu do wydawania decyzji administracyjnych, o których mowa w ust. 2, w imieniu prezesa izby.
 
-2. Delegat do Krajowej Rady Izb Rolniczych może uczestniczyć bez prawa głosu w posiedzeniach zarządu izby, o których terminie powinien być powiadamiany.
+### 4.
 
-**Art. 21.** Oświadczenia woli w zakresie praw i obowiązków oraz zobowiązań majątkowych izby składają dwaj członkowie zarządu lub jeden członek zarządu i pracownik biura upoważniony przez zarząd.
+W postępowaniu administracyjnym organami wyższego stopnia są:
 
-**Art. 21a.** Członkom walnego zgromadzenia, zarządu, komisji problemowych, komisji rewizyjnej, rady powiatowej izby i delegatowi do Krajowej Rady Izb Rolniczych przysługują diety oraz zwrot kosztów podróży służbowych na zasadach określonych przez walne zgromadzenie.
+### 1)
 
-**Art. 22.**
+w sprawach z zakresu administracji rządowej - wojewoda,
 
-1. Zarząd realizuje swoje zadania przy pomocy biura.
+### 2)
 
-2. Biurem kieruje dyrektor, który w stosunku do pracowników biura wykonuje czynności z zakresu prawa pracy.
+w sprawach z zakresu zadań własnych gminy - samorządowe kolegium odwoławcze.
 
-3. Dyrektora biura powołuje i odwołuje zarząd.
+### Art. 7.
 
-**Art. 22a.**
+### 1.
 
-1. Rada powiatowa izby działa na obszarze powiatu.
+Izby nie mogą prowadzić działalności gospodarczej, z zastrzeżeniem ust. 2.
 
-2. Pracami rady powiatowej izby kieruje jej przewodniczący.
+### 2.
 
-3. Do zadań rady powiatowej izby należy:
+Izba lub izby mogą być jedynie udziałowcami lub akcjonariuszami spółek prawa handlowego.
 
-- **1)** sporządzanie analiz i opinii, przedstawianie wniosków oraz dokonywanie ocen z zakresu rolnictwa, rozwoju wsi i rynków rolnych i przedstawianie ich zarządowi izby;
-- **2)** wydawanie opinii w sprawach zgłoszonych przez zarząd lub walne zgromadzenie izby;
-- **3)** realizacja innych obowiązków określonych w statucie izby.
+### 3.
 
-4. Przepis ust. 1 nie dotyczy miast na prawach powiatu.
+Spółki, o których mowa w ust. 2, mogą prowadzić działalność gospodarczą tylko w zakresie zgodnym z zadaniami ustawowymi i statutowymi izb.
 
-#### Rozdział 4 Zasady przeprowadzania wyborów do walnego zgromadzenia izby
+### 4.
 
-**Art. 23.**
+Dochód pochodzący z działalności spółek, o których mowa w ust. 2, może być przeznaczony wyłącznie na realizację zadań ustawowych i statutowych.
 
-1. Czynne i bierne prawo wyborcze w wyborach do walnego zgromadzenia mają członkowie izby.
+### Art. 8.
 
-2. Osoba prawna realizuje swoje prawa wyborcze za pośrednictwem przedstawiciela wskazanego przez władze tej osoby, uprawnionego do jej reprezentowania przy czynnościach prawnych.
+### 1.
 
-**Art. 24.**
+Izby działają na podstawie ustawy i statutu.
 
-1. Członkowie walnego zgromadzenia są wybierani spośród członków izby w wyborach pośrednich, dwustopniowych, przeprowadzanych w głosowaniu tajnym.
+### 2.
 
-2. Członkowie walnego zgromadzenia wybierani są według zasad:
+Statut izby określa w szczególności:
 
-- **1)** w okręgu wyborczym obejmującym obszar jednej gminy wybiera się członków rady powiatowej izby, z tym że:
-    - **a)** w okręgu wyborczym, w którym powierzchnia użytków rolnych nie przekracza 4 tys. ha, wybiera się jednego członka tej rady,
-    - **b)** w okręgu wyborczym, w którym powierzchnia użytków rolnych przekracza 4 tys. ha, wybiera się dwóch członków tej rady;
+### 1)
 
-- **2)** na pierwszym posiedzeniu rada powiatowa izby wybiera spośród swoich członków większością głosów przewodniczącego oraz delegata na walne zgromadzenie i niezwłocznie zgłasza ich wybór ustępującemu zarządowi izby.
+nazwę i siedzibę izby,
 
-3. W przypadku gdy w głosowaniu, o którym mowa w ust. 2 pkt 2, największą liczbę głosów otrzymało dwóch lub więcej kandydatów, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez radę powiatową izby.
+### 2)
 
-4. Przewodniczący oraz delegat, o których mowa w ust. 2 pkt 2, wchodzą w skład walnego zgromadzenia izby.
+teren działania,
 
-5. W okręgu wyborczym stanowiącym obszar miasta na prawach powiatu wybiera się jednego przedstawiciela, który wchodzi w skład rady powiatowej izby działającej na obszarze sąsiedniego powiatu. Przepisy dotyczące wyboru do rad powiatowych izby stosuje się odpowiednio.
+### 3)
 
-6. Jeżeli z miastem na prawach powiatu sąsiaduje więcej niż jeden powiat, radę powiatową izby, w skład której wchodzi przedstawiciel, o którym mowa w ust. 5, ustala, w drodze uchwały, ustępujące walne zgromadzenie izby, na której obszarze działania położone jest miasto na prawach powiatu, najpóźniej na 30 dni przed upływem kadencji tego zgromadzenia.
+prawa i obowiązki członków izby,
 
-7. Do czasu wyboru przewodniczącego, o którym mowa w ust. 2 pkt 2, obradom posiedzenia przewodniczy najstarszy wiekiem członek rady powiatowej obecny na posiedzeniu.
+### 4)
 
-**Art. 25.**
+zadania izby oraz sposoby ich realizacji,
 
-1. Wybory do walnego zgromadzenia zarządza, w drodze uchwały, Krajowa Rada Izb Rolniczych najpóźniej na 30 dni przed upływem kadencji walnego zgromadzenia. Datę wyborów wyznacza się na dzień wolny od pracy przypadający w ciągu 60 dni po upływie kadencji walnego zgromadzenia izby.
+### 5)
 
-2. W uchwale, o której mowa w ust. 1, określa się terminarz wykonania poszczególnych czynności związanych z przeprowadzeniem wyborów.
+strukturę organizacyjną,
 
-**Art. 26.**
+### 6)
 
-1. Wybory do rady powiatowej izby przeprowadzają:
+tryb wyboru i odwoływania organów izby,
 
-- **1)** komisja wojewódzka, w liczbie 11 osób, wybrana przez ustępujące walne zgromadzenie spośród osób uprawnionych, o których mowa w art. 23;
-- **2)** komisje okręgowe, w liczbie 5–7 osób, powołane przez komisję wojewódzką spośród osób uprawnionych, o których mowa w art. 23.
+### 7)
 
-2. Komisje, o których mowa w ust. 1, wybierają spośród swoich członków przewodniczącego, jego zastępcę i sekretarza komisji.
+zasady reprezentowania izby na zewnątrz,
 
-3. W skład komisji nie mogą wchodzić osoby kandydujące w wyborach do rady powiatowej.
+### 8)
 
-4. Osoby wchodzące w skład komisji pełnią swoje funkcje honorowo.
+zasady zawierania porozumień regionalnych,
 
-**Art. 27.**
+### 9)
 
-1. Prawo zgłaszania kandydatów w wyborach do rady powiatowej izby przysługuje członkom izby.
+zasady powoływania i pracy komisji problemowych,
 
-2. Zgłoszenie kandydatury wymaga poparcia co najmniej 50 członków danej izby posiadających prawo wyborcze w danym okręgu wyborczym, a w okręgu wyborczym, w którym liczba członków danej izby wynosi mniej niż 50, zgłoszenie kandydatury wymaga poparcia co najmniej 10% członków danej izby posiadających czynne prawo wyborcze w danym okręgu wyborczym.
+### 10)
 
-3. Poparcia, o którym mowa w ust. 2, można udzielić więcej niż jednemu kandydatowi. Wycofanie udzielonego poparcia jest nieskuteczne.
+zasady gospodarki finansowej, w tym sposób dysponowania majątkiem oraz zaciągania zobowiązań majątkowych.
 
-4. Do zgłoszenia załącza się:
+### Rozdział 3 Organy izby
 
-- **1)** pisemne oświadczenie kandydata o zgodzie na kandydowanie;
-- **2)** listę członków popierających kandydata, zawierającą czytelnie podane imię (imiona), nazwisko i adres zamieszkania oraz serię i numer dowodu osobistego osoby fizycznej udzielającej poparcia oraz jej podpis.
+### Art. 9.
 
-5. Zgłoszenia do komisji okręgowej dokonuje osobiście kandydat lub pisemnie wskazana przez niego osoba.
+### 1.
 
-6. W przypadku udzielenia poparcia przez osobę prawną podaje się odpowiednio jej nazwę, adres siedziby oraz imię i nazwisko przedstawiciela, o którym mowa w art. 23 ust. 2.
+Organami izby są:
 
-7. W przypadku zgłoszenia kandydata przez osobę prawną przepis ust. 6 stosuje się odpowiednio. Do zgłoszenia załącza się dokument o ustanowieniu przedstawiciela, o którym mowa w art. 23 ust. 2.
+### 1)
 
-8. Kandydować można tylko w jednym okręgu wyborczym.
+walne zgromadzenie,
 
-**Art. 28.**
+### 2)
 
-1. Głosowanie w wyborach do rady powiatowej izby przeprowadza się na obszarze okręgu wyborczego, który jest równocześnie obwodem głosowania. Komisja okręgowa może postanowić o podziale okręgu wyborczego na dwa lub więcej obwodów głosowania.
+komisja rewizyjna,
 
-2. Spis uprawnionych do udziału w głosowaniu, o których mowa w art. 3 ust. 3, sporządza się w urzędzie gminy. Sporządzanie spisu jest zadaniem zleconym gminie.
+### 3)
 
-3. Spis, o którym mowa w ust. 2, udostępniany jest do wglądu w siedzibie urzędu gminy najpóźniej w 14 dniu przed dniem wyborów. Każdy może wnieść zażalenie w sprawie nieprawidłowości spisu.
+zarząd.
 
-4. Organ, który sporządził spis, rozpatruje zażalenie w ciągu 3 dni od daty jego wniesienia i wydaje decyzję w sprawie.
+### 2.
 
-5. Od decyzji nieuwzględniającej zażalenia przysługuje prawo wniesienia, za pośrednictwem organu sporządzającego spis, skargi do sądu rejonowego w ciągu 3 dni.
+Kadencja organów izby trwa 4 lata.
 
-6. Sąd rozpoznaje skargę w postępowaniu nieprocesowym w terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.
+### Art. 10.
 
-**Art. 29.**
+### 1.
 
-1. W przypadku podziału okręgu wyborczego na obwody głosowania:
+Najwyższym organem izby jest walne zgromadzenie.
 
-- **1)** komisja okręgowa powołuje komisje obwodowe w liczbie 5–7 osób;
-- **2)** spis uprawnionych, o których mowa w art. 28 ust. 2, sporządza się odrębnie dla każdego obwodu głosowania;
-- **3)** głosowanie przeprowadzają komisje obwodowe, sporządzając po jego zakończeniu protokół wyników głosowania w obwodzie; protokół ten przekazywany jest niezwłocznie do komisji okręgowej.
+### 2.
 
-2. Przepisy art. 26 ust. 2–4 stosuje się odpowiednio.
+Członkowie walnego zgromadzenia są wybierani spośród członków izby w wyborach bezpośrednich, przeprowadzanych w głosowaniu tajnym.
 
-**Art. 30.**
+### Art. 11.
 
-1. Wyniki głosowania i wynik wyborów w okręgu wyborczym do rady powiatowej izby ustala komisja okręgowa.
+### 1.
 
-2. W okręgu jednomandatowym mandat członka rady powiatowej izby uzyskuje kandydat, który otrzymał największą liczbę głosów. W przypadku gdy dwóch lub więcej kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
+Zarząd zwołuje walne zgromadzenie co najmniej dwa razy w roku.
 
-3. W okręgu dwumandatowym mandaty członków rady powiatowej izby uzyskują dwaj kandydaci, którzy otrzymali kolejno największą liczbę głosów. W przypadku gdy dwóch lub więcej kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
+### 2.
 
-4. Komisja okręgowa sporządza protokół przeprowadzonego głosowania i wyborów w okręgu wyborczym, który przekazuje niezwłocznie komisji wojewódzkiej.
+Zarząd zwołuje również walne zgromadzenie na wniosek komisji rewizyjnej albo na wniosek co najmniej 1/3 ogólnej liczby członków walnego zgromadzenia.
 
-**Art. 31.**
+### Art. 12.
 
-1. Komisja wojewódzka na podstawie protokółów otrzymanych od komisji okręgowych stwierdza protokolarnie wyniki wyborów do rad powiatowych izby i przedkłada sprawozdanie z wyborów zarządowi izby.
+### 1.
 
-2. Zarząd izby zwołuje pierwsze posiedzenia rad powiatowych izby nie później niż w terminie 21 dni od dnia wyborów do rad powiatowych izby.
+Do wyłącznej właściwości walnego zgromadzenia należy:
 
-**Art. 32.** Szczegółowe zasady i tryb przeprowadzania wyborów do walnego zgromadzenia, w tym do rady powiatowej izby, określa, w drodze uchwały, Krajowa Rada Izb Rolniczych.
+### 1)
 
-**Art. 33.** Pierwsze posiedzenie nowo wybranego walnego zgromadzenia zwołuje ustępujący zarząd, nie później niż w terminie 42 dni od dnia wyborów do rad powiatowych izby. Do czasu wyboru przewodniczącego obrady pierwszego posiedzenia walnego zgromadzenia prowadzi najstarszy wiekiem członek walnego zgromadzenia obecny na posiedzeniu.
+uchwalanie i zmiana statutu,
 
-**Art. 34.**
+### 2)
 
-1. Wygaśnięcie mandatu członka walnego zgromadzenia następuje wskutek:
+wybór i odwoływanie, w głosowaniu tajnym, zarządu, poszczególnych jego członków oraz komisji rewizyjnej i poszczególnych jej członków,
 
-- **1)** utraty prawa wybieralności;
-- **2)** zrzeczenia się mandatu;
-- **3)** prawomocnego wyroku sądu orzeczonego za przestępstwo umyślne;
-- **4)** śmierci.
+### 3)
 
-2. Wygaśnięcie mandatu stwierdza walne zgromadzenie.
+uchwalanie regulaminu obrad,
 
-3. W przypadku wygaśnięcia mandatu członka rady powiatowej izby rada powiatowa izby, po stwierdzeniu wygaśnięcia mandatu, podejmuje na następnym posiedzeniu uchwałę o wstąpieniu na jego miejsce kandydata, który w wyborach uzyskał kolejno najwyższą liczbę głosów w tym samym okręgu, a nie utracił biernego prawa wyborczego. W przypadku uzyskania równej liczby głosów przez dwóch lub więcej kandydatów o uzyskaniu mandatu rozstrzyga losowanie przeprowadzone przez radę powiatową.
+### 4)
 
-#### Rozdział 5 Zasady gospodarki finansowej izb
+uchwalanie regulaminów pracy zarządu i komisji rewizyjnej,
 
-**Art. 35.**
+### 5)
 
-1. Dochody izb pochodzą:
+rozpatrywanie i zatwierdzanie sprawozdań zarządu i komisji rewizyjnej,
 
-- **1)** z odpisu w wysokości 2% od uzyskanych wpływów z tytułu podatku rolnego pobieranego na obszarze działania izby;
-- **2)** ze środków na realizację zadań zleconych przez administrację rządową lub samorządową;
-- **3)** z udziałów lub akcji spółek, o których mowa w art. 7 ust. 1 pkt 2 lit. a;
-- **4)** z innego majątku izby;
-- **5)** z darowizn, zapisów, dotacji i innych wpłat;
-- **6)** ze składek członkowskich;
-- **7)** z opłat z tytułu usług świadczonych przez izbę;
-- **8)** z wpływów z oprocentowania rachunków bankowych oraz lokat.
+### 6)
 
-2. Wpływy z podatku rolnego stanowiące dochody izb określone w ust. 1 pkt 1 gminy odprowadzają na rachunki bankowe właściwych izb w terminie 21 dni od dnia, w którym upływa termin płatności danej raty podatku rolnego.
+podejmowanie uchwał w sprawie absolutorium dla zarządu,
 
-3. Dochody izb z odpisu, o którym mowa w ust. 1 pkt 1, przysługującego od wpływów gminy z tytułu zaległości podatkowych w podatku rolnym oraz odsetek za zwłokę od tych zaległości, gminy odprowadzają na rachunki bankowe właściwych izb w najbliższym terminie, o którym mowa w ust. 2, przypadającym po dniu wpływu tych dochodów na rachunek bankowy gminy.
+### 7)
 
-4. Wójt (burmistrz, prezydent miasta) przekazuje na wniosek zarządu izby kwartalne informacje o stanie i terminach realizacji dochodów izb, o których mowa w ust. 1 pkt 1.
+uchwalanie budżetu,
 
-5. Jeżeli dochody, o których mowa w ust. 1 pkt 1, pobrane na rzecz izby rolniczej nie zostaną przekazane izbie rolniczej w terminie, przysługują jej odsetki ustawowe za opóźnienie.
+### 8)
 
-6. W przypadku nieprzekazania izbie rolniczej dochodów z tytułu odpisu, o którym mowa w ust. 1 pkt 1, przysługuje jej prawo dochodzenia należnego świadczenia wraz z odsetkami ustawowymi za opóźnienie.
+podejmowanie uchwał w sprawach majątkowych określonych w statucie, a także określanie maksymalnej kwoty zobowiązań, które może zaciągnąć zarząd,
 
-**Art. 35a.**
+### 9)
 
-1. Izby są obowiązane do przekazywania na wyodrębniony rachunek bankowy Krajowej Rady Izb Rolniczych kwoty z tytułu odpisu od dochodów, o których mowa w art. 35 ust. 1 pkt 1, w wysokości określonej w drodze uchwały przez Krajową Radę Izb Rolniczych, w terminie 7 dni od dnia wpływu tych dochodów na rachunki bankowe izb.
+podejmowanie uchwał w sprawie wysokości składki członkowskiej,
 
-2. W przypadku niedotrzymania terminu określonego w ust. 1 Krajowej Radzie Izb Rolniczych przysługuje prawo dochodzenia należnego świadczenia wraz z odsetkami ustawowymi za opóźnienie.
+### 10)
 
-3. Środki finansowe z odpisu, o którym mowa w ust. 1, przeznacza się na wyrównanie dochodów izb, których wpływy z tytułu odpisu, o którym mowa w art. 35 ust. 1 pkt 1, zostały zmniejszone w wyniku udzielania ulg, zwolnień, odroczeń lub umorzeń podatku rolnego albo zastosowania zaniechania poboru tego podatku lub jego raty.
+uchwalanie zasad wynagradzania członków zarządu oraz uchwalanie wynagrodzenia prezesa,
 
-4. Krajowa Rada Izb Rolniczych przekazuje środki na wyrównanie dochodów, o których mowa w ust. 3, za dany kwartał na wniosek właściwej izby w terminie 14 dni od dnia otrzymania wniosku.
+### 11)
 
-5. Do wniosku, o którym mowa w ust. 4, należy dołączyć zaświadczenia wydane przez właściwe organy gmin, określające wysokość wpływów zmniejszonych w danym kwartale z tytułu podatku rolnego w wyniku udzielania ulg, zwolnień, odroczeń lub umorzeń podatku rolnego albo zastosowania zaniechania poboru tego podatku lub jego raty.
+podejmowanie uchwał w sprawie przejęcia, w drodze porozumienia, zadań należących do właściwości administracji rządowej, o których mowa w art. 5 ust. 2,
 
-6. Szczegółowe zasady dysponowania środkami przeznaczonymi na wyrównanie dochodów izb, o których mowa w ust. 3, określa, w drodze uchwały, Krajowa Rada Izb Rolniczych.
+### 12)
 
-**Art. 35b.**
+podejmowanie uchwał w sprawie przejęcia zadań przekazywanych w drodze porozumienia przez organy samorządu terytorialnego, o których mowa w art. 5 ust. 3,
 
-1. Koszty związane z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej są w roku 2014 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+### 13)
 
-1a. Koszty związane z uczestnictwem:
+podejmowanie uchwał w sprawie utworzenia lub przystąpienia do spółek, o których mowa w art. 7 ust. 2,
 
-- **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników, w tym rolniczych spółdzielni produkcyjnych i pracodawców rolnych, w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
-- **2)** Krajowej Rady Spółdzielczej, działającej na podstawie ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2021 r. poz. 648) w Głównym Komitecie Spółdzielczości Rolniczej (COGECA),
-- **3)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA) – są w latach 2015–2020 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+### 14)
 
-1b. Koszty związane z uczestnictwem:
+wyrażanie zgody na członkostwo izby w innych organizacjach krajowych i zagranicznych,
 
-- **1)** izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w ponadnarodowych organizacjach rolniczych reprezentujących interesy zawodowe rolników indywidualnych wobec instytucji Unii Europejskiej,
-- **2)** stowarzyszeń zrzeszających młodych rolników w Europejskiej Radzie Młodych Rolników (CEJA),
-- **3)** organizacji pracodawców zrzeszających pracodawców rolnych w Grupie Pracodawców Rolniczych Organizacji Zawodowych Unii Europejskiej (GEOPA) – są w latach 2021–2026 ponoszone przez Krajową Radę Izb Rolniczych i dofinansowywane z budżetu państwa w formie dotacji celowej.
+### 15)
 
-2. Dofinansowania udziela się, na wniosek, Krajowej Radzie Izb Rolniczych, na podstawie umowy zawartej między Krajową Radą Izb Rolniczych a ministrem właściwym do spraw rolnictwa.
+ustalanie zasad odpłatności za usługi świadczone przez izbę.
 
-2a. Umowa, o której mowa w ust. 2, zawiera co najmniej:
+### 2.
 
-- **1)** oznaczenie stron umowy;
-- **2)** określenie:
-    - **a)** warunków udzielenia dofinansowania,
-    - **b)** celu, na jaki dofinansowanie jest udzielane,
-    - **c)** wysokości dofinansowania z podziałem na organizacje rolnicze, którym zostanie udzielone to dofinansowanie, oraz poszczególne koszty,
-    - **d)** terminu złożenia wniosku o przekazanie środków z tytułu udzielonego dofinansowania,
-    - **e)** terminu wykorzystania dofinansowania, nie dłuższego niż do dnia 31 grudnia roku budżetowego,
-    - **f)** terminu rozliczenia udzielonego dofinansowania oraz terminu i warunków zwrotu niewykorzystanej części dofinansowania;
+Statut izby może określić inne sprawy zastrzeżone do wyłącznej właściwości walnego zgromadzenia.
 
-- **3)** numer rachunku bankowego, na który zostanie przekazane dofinansowanie.
+### Art. 13.
 
-2b. Po zawarciu umowy, o której mowa w ust. 2, dofinansowanie jest udzielane izbom rolniczym, związkom zawodowym rolników indywidualnych, społeczno-zawodowym organizacjom rolników, stowarzyszeniom zrzeszającym młodych rolników oraz organizacjom pracodawców zrzeszającym pracodawców rolnych.
+### 1.
 
-2c. Umowa zawarta między Krajową Radą Izb Rolniczych a związkami zawodowymi rolników indywidualnych, społeczno-zawodowymi organizacjami rolników, stowarzyszeniami zrzeszającymi młodych rolników albo organizacjami pracodawców zrzeszającymi pracodawców rolnych, na podstawie której jest udzielane dofinansowanie, zawiera co najmniej:
+Uchwały walnego zgromadzenia zapadają większością głosów w obecności co najmniej połowy ogólnej liczby członków, z zastrzeżeniem ust. 2.
 
-- **1)** warunki i sposób udzielenia oraz rozliczenia dofinansowania;
-- **2)** termin i warunki zwrotu niewykorzystanego dofinansowania;
-- **3)** tryb przeprowadzania przez Krajową Radę Izb Rolniczych weryfikacji dokumentów dotyczących wykorzystania udzielonego dofinansowania.
+### 2.
 
-3. Krajowa Rada Izb Rolniczych otrzymując dofinansowanie jest obowiązana prowadzić wyodrębnioną ewidencję księgową środków z tytułu dofinansowania oraz wydatków dokonanych z tych środków.
+Statut izby lub jego zmiana uchwalane są większością głosów w obecności co najmniej 2/3 ogólnej liczby członków walnego zgromadzenia.
 
-4. W razie nieprowadzenia ewidencji, o której mowa w ust. 3, pobrane dofinansowanie podlega zwrotowi jak dofinansowanie wykorzystane niezgodnie z przeznaczeniem.
+### Art. 14.
 
-4a. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników odpowiednio w organizacjach, o których mowa w ust. 1 i 1a.
+### 1.
 
-4b. Krajowa Rada Izb Rolniczych przedstawia ministrowi właściwemu do spraw rolnictwa, corocznie do dnia 15 stycznia, informację z uczestnictwa izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych odpowiednio w organizacjach, o których mowa w ust. 1b.
+Walne zgromadzenie powołuje spośród swoich członków komisje problemowe.
 
-5. Rada Ministrów określi, w drodze rozporządzenia:
+### 2.
 
-- **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych oraz społeczno-zawodowych organizacji rolników w organizacjach, o których mowa w ust. 1,
-- **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych.
+Na wniosek komisji, o których mowa w ust. 1, walne zgromadzenie może rozszerzyć ich skład o osoby nie będące członkami walnego zgromadzenia. Osoby te nie mogą stanowić więcej niż 50% składu komisji.
 
-6. Rada Ministrów określi, w drodze rozporządzenia:
+### Art. 15.
 
-- **1)** szczegółowy zakres i tryb udzielania oraz sposób rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej oraz stowarzyszeń zrzeszających młodych rolników w organizacjach, o których mowa w ust. 1a,
-- **2)** konieczne elementy umowy o udzielenie dofinansowania kosztów, o których mowa w ust. 1a,
-- **3)** konieczne elementy informacji, o której mowa w ust. 4a – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w organizacjach, o których mowa w ust. 1a, w wysokości co najmniej 95% kosztów.
+W obradach walnego zgromadzenia mogą uczestniczyć bez prawa udziału w głosowaniu delegowani przedstawiciele:
 
-7. Rada Ministrów określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** szczegółowy zakres i sposób udzielania oraz rozliczania dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b,
-- **2)** wysokość dofinansowania,
-- **3)** sposób przekazywania środków finansowych z tytułu udzielenia dofinansowania,
-- **4)** elementy informacji, o której mowa w ust. 4b, oraz tryb opracowania tej informacji – mając na względzie zapewnienie prawidłowości i przejrzystości wydatkowania środków publicznych oraz dofinansowania kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w ust. 1b, a także biorąc pod uwagę wysokość limitu środków finansowych na udzielenie dofinansowania z budżetu państwa w formie dotacji celowej oraz to, że w przypadku dofinansowania składek członkowskich i kosztów obsługi w języku polskim prac w tych organizacjach dofinansowanie to wynosi co najmniej 95% tych kosztów.
+wojewódzkiego sejmiku samorządowego,
 
-**Art. 35c.** Środki pochodzące z budżetu państwa przeznaczone na pokrycie kosztów związanych z uczestnictwem izb rolniczych, związków zawodowych rolników indywidualnych, społeczno-zawodowych organizacji rolników, Krajowej Rady Spółdzielczej, stowarzyszeń zrzeszających młodych rolników oraz organizacji pracodawców zrzeszających pracodawców rolnych w organizacjach, o których mowa w art. 35b ust. 1–1b, nie podlegają egzekucji, z wyjątkiem przypadków gdy zostały wykorzystane niezgodnie z przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości.
+### 2)
 
-**Art. 36.** Izby prowadzą rachunkowość i sprawozdawczość zgodnie z ogólnie obowiązującymi przepisami prawa.
+związków zawodowych rolników indywidualnych, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla związków zawodowych,
 
-#### Rozdział 6 Reprezentacja krajowa izb
+### 3)
 
-**Art. 37.**
+społeczno-zawodowych organizacji rolników, mających struktury wojewódzkie zarejestrowane w sądzie właściwym dla organizacji społeczno-zawodowych.
 
-1. Izby tworzą Krajową Radę Izb Rolniczych, zwaną dalej „Krajową Radą”.
+### Art. 16.
 
-2. Krajowa Rada posiada osobowość prawną.
+### 1.
 
-3. W skład Krajowej Rady wchodzą prezesi izb oraz wybrani przez walne zgromadzenie delegaci po jednym z każdej izby.
+Komisja rewizyjna składa się z 5 osób wybranych spośród członków walnego zgromadzenia.
 
-**Art. 38.** Do zadań Krajowej Rady należy w szczególności:
+### 2.
 
-**Art. 39.**
+Do zadań komisji rewizyjnej należy w szczególności:
 
-1. Organem Krajowej Rady jest zarząd wybierany i odwoływany w głosowaniu tajnym przez Krajową Radę spośród jej członków.
+### 1)
 
-2. Zarząd Krajowej Rady stanowią: prezes, wiceprezes oraz trzej członkowie.
+kontrola wykonywania uchwał walnego zgromadzenia,
 
-**Art. 40.** Uchwały zarządu zapadają większością głosów, w obecności co najmniej połowy jego składu. W przypadku równej liczby głosów rozstrzyga głos prezesa.
+### 2)
 
-**Art. 41.**
+kontrola działalności finansowej izby,
 
-1. Zarząd realizuje swoje zadania przy pomocy biura.
+### 3)
 
-2. Biurem kieruje dyrektor, który w stosunku do pracowników biura wykonuje czynności z zakresu prawa pracy.
+przedstawianie walnemu zgromadzeniu wniosków o udzielenie bądź odmowę udzielenia absolutorium zarządowi oraz wniosków wraz z uzasadnieniem o odwołanie zarządu lub poszczególnych jego członków,
 
-3. Dyrektora biura powołuje i odwołuje zarząd.
+### 4)
 
-**Art. 42.**
+podejmowanie uchwały w sprawie wyboru podmiotu uprawnionego do badania rocznego sprawozdania finansowego.
 
-1. Organem Krajowej Rady jest również komisja rewizyjna wybierana i odwoływana w głosowaniu tajnym przez Krajową Radę spośród jej członków.
+### 3.
 
-2. Komisja rewizyjna składa się z 5 osób.
+Członek komisji rewizyjnej nie może być jednocześnie członkiem zarządu.
 
-3. Członek komisji rewizyjnej nie może być jednocześnie członkiem zarządu Krajowej Rady.
+### Art. 17.
 
-**Art. 42a.**
+Uchwały komisji rewizyjnej zapadają większością głosów, w obecności co najmniej połowy jej składu. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.
 
-1. W przypadku wygaśnięcia mandatu członka Krajowej Rady będącego członkiem komisji rewizyjnej lub członkiem zarządu Krajowej Rady, Krajowa Rada dokonuje wyboru uzupełniającego na najbliższym posiedzeniu przypadającym po dniu wygaśnięcia mandatu.
+### Art. 18.
 
-2. W przypadku odwołania komisji rewizyjnej lub zarządu Krajowej Rady, bez równoczesnego wyboru nowego organu, dotychczasowy organ działa do czasu wyboru nowego organu.
+### 1.
 
-3. Zarząd wybierany jest na pierwszym posiedzeniu Krajowej Rady.
+Zarząd wybierany jest spośród członków walnego zgromadzenia izby.
 
-4. Jeżeli zarząd nie zostanie wybrany na pierwszym posiedzeniu, wyboru zarządu należy dokonać w ciągu 3 miesięcy od dnia odbycia tego posiedzenia.
+### 2.
 
-**Art. 42b.** Członkom Krajowej Rady, komisji problemowych, zarządu oraz komisji rewizyjnej Krajowej Rady przysługują diety oraz zwrot kosztów podróży służbowych na zasadach określonych przez Krajową Radę.
+W skład zarządu wchodzą: prezes, wiceprezes i 3 członkowie.
 
-**Art. 43.**
+### 3.
 
-1. Dochody Krajowej Rady pochodzą:
+Zarząd wybierany jest na pierwszym posiedzeniu nowo wybranego walnego zgromadzenia.
 
-- **1)** ze składek opłacanych przez izby;
-- **2)** z darowizn, spadków i zapisów;
-- **3)** z opłat z tytułu usług świadczonych przez Krajową Radę;
-- **4)** z wpływów z oprocentowania rachunków bankowych oraz lokat;
-- **5)** z innych źródeł.
+### Art. 19.
 
-2. Składki, o których mowa w ust. 1 pkt 1, są pokrywane z odpisów od dochodów izb, określonych w art. 35 ust. 1. Wysokość, sposób i terminy opłacania składek przez izby określa Krajowa Rada w drodze uchwały.
+Do właściwości zarządu należą wszystkie sprawy izby nie zastrzeżone ustawą lub statutem dla innych organów, a w szczególności:
 
-3. Zarząd izby przekazuje Krajowej Radzie kwartalne informacje o stanie i terminach realizacji dochodów izb, o których mowa w art. 35 ust. 1, do 15 dnia miesiąca następującego po upływie danego kwartału.
+### 1)
 
-4. Jeżeli należności z tytułu składek na rzecz Krajowej Rady nie zostaną przekazane przez izbę w terminie, Krajowej Radzie przysługują odsetki ustawowe za opóźnienie.
+przygotowywanie projektów uchwał walnego zgromadzenia,
 
-5. W przypadku niedotrzymania przez izbę terminu wpłaty należności z tytułu składek na rzecz Krajowej Rady, przysługuje jej prawo dochodzenia należnego świadczenia wraz z odsetkami ustawowymi za opóźnienie.
+### 2)
 
-**Art. 44.** Szczegółowe zasady organizacji i gospodarki finansowej Krajowej Rady określa jej statut.
+opracowywanie projektów budżetu, wraz z planem finansowym,
 
-**Art. 45.**
+### 3)
 
-1. Organy administracji rządowej zasięgają opinii Krajowej Rady o projektach ustaw i aktów wykonawczych dotyczących rolnictwa, rozwoju wsi oraz rynków rolnych.
+przedstawianie walnemu zgromadzeniu do zatwierdzenia rocznych sprawozdań z działalności statutowej i finansowej,
 
-2. Termin do przedstawienia opinii, o której mowa w ust. 1, nie może być krótszy niż 14 dni od dnia doręczenia projektu.
+### 4)
 
-3. Nieprzedstawienie przez Krajową Radę stanowiska w wyznaczonym terminie uważa się za akceptację przedłożonego projektu.
+podejmowanie uchwał w sprawach zaciągania kredytów i innych zobowiązań finansowych do wysokości ustalonej przez walne zgromadzenie,
 
-#### Rozdział 7 Nadzór nad izbami
+### 5)
 
-**Art. 46.** Nadzór nad działalnością izb sprawowany jest na podstawie kryterium zgodności z prawem.
+ustalanie zasad wynagradzania pracowników biura izby oraz ustalanie wysokości wynagrodzenia dyrektora biura,
 
-**Art. 47.**
+### 6)
 
-1. Nadzór nad działalnością Krajowej Rady sprawuje minister właściwy do spraw rolnictwa, a nad działalnością izb – właściwi wojewodowie.
+zarządzanie wyborów do walnego zgromadzenia,
 
-2. Nadzór nad gospodarką izb w zakresie wykorzystania środków przekazanych na realizację zadań zleconych sprawuje organ zlecający te zadania.
+### 7)
 
-3. Do gospodarki środkami, o których mowa w art. 35 ust. 1 pkt 1 i 2, stosuje się odpowiednio przepisy ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. z 2003 r. poz. 148, z późn. zm. ) .
+podejmowanie czynności związanych z utworzeniem spółek, o których mowa w art. 7 ust. 2.
 
-**Art. 48.**
+### Art. 20.
 
-1. Zarząd izby przedstawia organom nadzoru uchwały organów izby oraz zatwierdzone przez walne zgromadzenie sprawozdanie z rocznej działalności izby w terminie 14 dni od dnia ich uchwalenia.
+Uchwały zarządu zapadają większością głosów, w obecności co najmniej połowy jego składu. W przypadku równej liczby głosów rozstrzyga głos prezesa.
 
-2. Organy nadzoru, o których mowa w art. 47 ust. 1, mogą stwierdzić nieważność uchwał organów izby w terminie nie dłuższym niż 30 dni od dnia ich doręczenia.
+### Art. 21.
 
-3. W terminie 30 dni od dnia otrzymania decyzji organów nadzoru stwierdzających nieważność uchwał organów izby zarządowi izby przysługuje prawo zaskarżenia tych decyzji do sądu administracyjnego.
+Oświadczenia woli w zakresie praw i obowiązków oraz zobowiązań majątkowych izby składają dwaj członkowie zarządu lub jeden członek zarządu i pracownik biura upoważniony przez zarząd.
 
-**Art. 49.** W razie powtarzającego się naruszania prawa przez zarząd izby, minister właściwy do spraw rolnictwa może zwołać, na wniosek wojewody, walne zgromadzenie w celu rozpatrzenia jego wniosku o odwołanie zarządu i powołanie nowego zarządu.
+### Art. 22.
 
-#### Rozdział 8 Przepisy szczególne, przejściowe i końcowe
+### 1.
 
-**Art. 56.**
+Zarząd realizuje swoje zadania przy pomocy biura.
 
-1. Nazwa „izba rolnicza” może być używana wyłącznie w odniesieniu do izb, o których mowa w ustawie.
+### 2.
 
-2. Podmioty posługujące się nazwą „izba rolnicza” przed dniem wejścia ustawy w życie są obowiązane dokonać zmiany swojej nazwy, z uwzględnieniem ust. 1, w terminie jednego roku od dnia wejścia w życie niniejszej ustawy.
+Biurem kieruje dyrektor, który w stosunku do pracowników biura jest kierownikiem zakładu pracy w rozumieniu przepisów Kodeksu pracy.
 
-3. Wniosek o zmianę wpisu we właściwym dla nich rejestrze jest wolny od opłat sądowych.
+### 3.
 
-**Art. 57.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+Dyrektora biura powołuje i odwołuje zarząd.
 
+### Rozdział 4 Zasady przeprowadzania wyborów do walnego zgromadzenia izby
+
+### Art. 23.
+
+### 1.
+
+Czynne i bierne prawo wyborcze w wyborach do walnego zgromadzenia mają członkowie izby.
+
+### 2.
+
+Osoba prawna realizuje swoje prawa wyborcze za pośrednictwem przedstawiciela wskazanego przez władze tej osoby, uprawnionego do jej reprezentowania przy czynnościach prawnych.
+
+### Art. 24.
+
+### 1.
+
+Wybory przeprowadza się w okręgach wyborczych.
+
+### 2.
+
+Okręg wyborczy obejmuje obszar jednej gminy.
+
+### 3.
+
+Członkowie walnego zgromadzenia wybierani są według zasad:
+
+### 1)
+
+w okręgu wyborczym, w którym powierzchnia użytków rolnych nie przekracza 4 tys. ha, wybiera się jednego członka,
+
+### 2)
+
+w okręgu wyborczym, w którym powierzchnia użytków rolnych przekracza 4 tys. ha, wybiera się dwóch członków.
+
+### Art. 25.
+
+Wybory do walnego zgromadzenia zarządza zarząd izby, wyznaczając ich datę na dzień wolny od pracy przypadający najpóźniej w 15 dniu przed upływem 4 lat od dnia poprzednich wyborów. Zarząd izby ustala na podstawie danych z ewidencji gruntów rolnych prowadzonych w gminie liczbę członków wybieranych w poszczególnych okręgach wyborczych oraz terminy wykonania czynności związanych z przeprowadzeniem wyborów.
+
+### Art. 26.
+
+### 1.
+
+Wybory przeprowadzają:
+
+### 1)
+
+komisja wojewódzka, w liczbie 11 osób, wybrana przez ustępujące walne zgromadzenie spośród osób uprawnionych, o których mowa w art. 23,
+
+### 2)
+
+komisje okręgowe, w liczbie 5-7 osób, powołane przez komisję wojewódzką spośród osób uprawnionych, o których mowa w art. 23.
+
+### 2.
+
+Komisje, o których mowa w ust. 1, wybierają spośród swoich członków przewodniczącego, jego zastępcę i sekretarza komisji.
+
+### 3.
+
+W skład komisji nie mogą wchodzić osoby kandydujące w wyborach do walnego zgromadzenia.
+
+### 4.
+
+Osoby wchodzące w skład komisji pełnią swoje funkcje honorowo.
+
+### Art. 27.
+
+### 1.
+
+Prawo zgłaszania kandydatów w wyborach do walnego zgromadzenia izby przysługuje członkom izby.
+
+### 2.
+
+Zgłoszenie kandydatury wymaga poparcia co najmniej 50 członków danej izby posiadających prawo wyborcze w danym okręgu wyborczym.
+
+### 3.
+
+Poparcia, o którym mowa w ust. 2, można udzielić więcej niż jednemu kandydatowi. Wycofanie udzielonego poparcia jest nieskuteczne.
+
+### 4.
+
+Do zgłoszenia załącza się:
+
+### 1)
+
+pisemne oświadczenie kandydata o zgodzie na kandydowanie,
+
+### 2)
+
+listę członków popierających kandydata, zawierającą czytelnie podane imię (imiona), nazwisko i adres zamieszkania oraz serię i numer dowodu osobistego osoby fizycznej udzielającej poparcia oraz jej podpis.
+
+### 5.
+
+Zgłoszenia do komisji okręgowej dokonuje osobiście kandydat lub pisemnie wskazana przez niego osoba.
+
+### 6.
+
+W przypadku udzielenia poparcia przez osobę prawną podaje się odpowiednio jej nazwę, adres siedziby oraz imię i nazwisko przedstawiciela, o którym mowa w art. 23 ust. 2.
+
+### 7.
+
+W przypadku zgłoszenia kandydata przez osobę prawną przepis ust. 6 stosuje się odpowiednio. Do zgłoszenia załącza się dokument o ustanowieniu przedstawiciela, o którym mowa w art. 23 ust. 2.
+
+### 8.
+
+Kandydować można tylko w jednym okręgu wyborczym.
+
+### Art. 28.
+
+### 1.
+
+Głosowanie przeprowadza się na obszarze okręgu wyborczego, który jest równocześnie obwodem głosowania. Komisja okręgowa może postanowić o podziale okręgu wyborczego na dwa lub więcej obwodów głosowania.
+
+### 2.
+
+Spis uprawnionych do udziału w głosowaniu, o których mowa w art. 3 ust. 3, sporządza się w urzędzie gminy. Sporządzanie spisu jest zadaniem zleconym gminie.
+
+### 3.
+
+Spis, o którym mowa w ust. 2, udostępniany jest do wglądu w siedzibie urzędu gminy najpóźniej w 14 dniu przed dniem wyborów. Każdy może wnieść zażalenie w sprawie nieprawidłowości spisu.
+
+### 4.
+
+Organ, który sporządził spis, rozpatruje zażalenie w ciągu 3 dni od daty jego wniesienia i wydaje decyzję w sprawie.
+
+### 5.
+
+Od decyzji nie uwzględniającej zażalenia przysługuje prawo wniesienia, za pośrednictwem organu sporządzającego spis, skargi do sądu rejonowego w ciągu 3 dni.
+
+### 6.
+
+Sąd rozpoznaje skargę w postępowaniu nieprocesowym w składzie jednego sędziego w terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.
+
+### Art. 29.
+
+### 1.
+
+W przypadku podziału okręgu wyborczego na obwody głosowania:
+
+### 1)
+
+komisja okręgowa powołuje komisje obwodowe w liczbie 5-7 osób,
+
+### 2)
+
+spis uprawnionych, o których mowa w art. 28 ust. 2, sporządza się odrębnie dla każdego obwodu głosowania,
+
+### 3)
+
+głosowanie przeprowadzają komisje obwodowe, sporządzając po jego zakończeniu protokół wyników głosowania w obwodzie; protokół ten przekazywany jest niezwłocznie do komisji okręgowej.
+
+### 2.
+
+Przepisy art. 26 ust. 2-4 stosuje się odpowiednio.
+
+### Art. 30.
+
+### 1.
+
+Wyniki głosowania i wynik wyborów w okręgu wyborczym do walnego zgromadzenia ustala komisja okręgowa.
+
+### 2.
+
+W okręgu jednomandatowym mandat do walnego zgromadzenia uzyskuje kandydat, który otrzymał największą liczbę głosów. W przypadku gdy dwóch lub więcej kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
+
+### 3.
+
+W okręgu dwumandatowym mandaty do walnego zgromadzenia uzyskują dwaj kandydaci, którzy otrzymali kolejno największą liczbę głosów. W przypadku gdy dwóch lub więcej kandydatów otrzymało równą liczbę głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzone przez komisję okręgową.
+
+### 4.
+
+Komisja okręgowa sporządza protokół z przeprowadzonego głosowania i z wyborów w okręgu wyborczym, który przekazuje niezwłocznie komisji wojewódzkiej.
+
+### Art. 31.
+
+Komisja wojewódzka na podstawie protokołów otrzymanych od komisji okręgowych stwierdza protokolarnie wyniki wyborów do walnego zgromadzenia i przedkłada sprawozdanie z wyborów ustępującemu zarządowi izby.
+
+### Art. 32.
+
+Szczegółowy tryb przeprowadzania wyborów do walnego zgromadzenia określa statut izby.
+
+### Art. 33.
+
+Pierwsze posiedzenie nowo wybranego walnego zgromadzenia zwołuje ustępujący zarząd, nie później niż trzydziestego dnia od daty wyborów. Obradom pierwszego posiedzenia nowo wybranego zgromadzenia przewodniczy senior izby, którym jest najstarszy wiekiem członek walnego zgromadzenia.
+
+### Art. 34.
+
+### 1.
+
+Wygaśnięcie mandatu członka walnego zgromadzenia następuje wskutek:
+
+### 1)
+
+utraty prawa wybieralności,
+
+### 2)
+
+zrzeczenia się mandatu,
+
+### 3)
+
+prawomocnego wyroku sądu orzeczonego za przestępstwo umyślne,
+
+### 4)
+
+śmierci.
+
+### 2.
+
+Wygaśnięcie mandatu stwierdza walne zgromadzenie.
+
+### 3.
+
+W przypadku gdy do zakończenia kadencji walnego zgromadzenia pozostało nie mniej niż 6 miesięcy, to w ciągu 3 miesięcy od dnia stwierdzenia wygaśnięcia 10% mandatów przeprowadza się wybory uzupełniające.
+
+### Rozdział 5 Zasady gospodarki finansowej izb
+
+### Art. 35.
+
+Dochody izb pochodzą:
+
+### 1)
+
+ze środków przekazywanych przez wojewodę w wysokości określonej na ten cel w ustawie budżetowej na dany rok, w okresie pierwszej kadencji organów izby,
+
+### 2)
+
+ze środków na realizację zadań zleconych przez administrację rządową lub samorządową,
+
+### 3)
+
+z udziału lub akcji spółek, o których mowa w art. 7 ust. 2,
+
+### 4)
+
+z innego majątku izby,
+
+### 5)
+
+z darowizn, zapisów, dotacji i innych wpłat,
+
+### 6)
+
+ze składek członkowskich,
+
+### 7)
+
+z odpisu, w wysokości 2% od uzyskanych wpływów z tytułu podatku rolnego - po pierwszych 4 latach działania izby, pobieranego na obszarze działania izby,
+
+### 8)
+
+z opłat z tytułu usług świadczonych przez izbę.
+
+### Art. 36.
+
+Izby prowadzą rachunkowość i sprawozdawczość zgodnie z ogólnie obowiązującymi przepisami prawa.
+
+### Rozdział 6 Reprezentacja krajowa izb
+
+### Art. 37.
+
+### 1.
+
+Izby tworzą Krajową Radę Izb Rolniczych, zwaną dalej „Krajową Radą”.
+
+### 2.
+
+Krajowa Rada posiada osobowość prawną.
+
+### 3.
+
+W skład Krajowej Rady wchodzą prezesi izb oraz wybrani przez walne zgromadzenie delegaci po jednym z każdej izby.
+
+### Art. 38.
+
+Do zadań Krajowej Rady należy w szczególności:
+
+### 1)
+
+reprezentowanie izb przed organami Państwa,
+
+### 2)
+
+opiniowanie projektów aktów prawnych dotyczących rolnictwa i gospodarki żywnościowej oraz założeń i programów polityki rolnej,
+
+### 3)
+
+przedstawianie właściwym organom administracji państwowej wniosków w sprawie sytuacji w rolnictwie,
+
+### 4)
+
+udzielanie izbom pomocy w wykonywaniu ich zadań.
+
+### Art. 39.
+
+### 1.
+
+Organem Krajowej Rady jest zarząd wybierany i odwoływany w głosowaniu tajnym przez Krajową Radę spośród jej członków.
+
+### 2.
+
+Zarząd Krajowej Rady stanowią: prezes, wiceprezes oraz trzej członkowie.
+
+### Art. 40.
+
+Uchwały zarządu zapadają większością głosów, w obecności co najmniej połowy jego składu. W przypadku równej liczby głosów rozstrzyga głos prezesa.
+
+### Art. 41.
+
+### 1.
+
+Zarząd realizuje swoje zadania przy pomocy biura.
+
+### 2.
+
+Biurem kieruje dyrektor, który w stosunku do pracowników biura jest kierownikiem zakładu pracy w rozumieniu przepisów Kodeksu pracy.
+
+### 3.
+
+Dyrektora biura powołuje i odwołuje zarząd.
+
+### Art. 42.
+
+### 1.
+
+Organem Krajowej Rady jest również komisja rewizyjna wybierana i odwoływana w głosowaniu tajnym przez Krajową Radę spośród jej członków.
+
+### 2.
+
+Komisja rewizyjna składa się z 5 osób.
+
+### 3.
+
+Członek komisji rewizyjnej nie może być jednocześnie członkiem zarządu Krajowej Rady.
+
+### Art. 43.
+
+Szczegółowe zasady organizacji i finansowania Krajowej Rady określa statut uchwalony na pierwszym posiedzeniu Krajowej Rady.
+
+### Art. 44.
+
+Koszty działalności Krajowej Rady ponoszą izby, opłacając składki w wysokości określonej przez Krajową Radę.
+
+### Art. 45.
+
+Naczelne i centralne organy administracji rządowej są zobowiązane do zasięgania opinii Krajowej Rady o projektach ustaw i aktów wykonawczych dotyczących rolnictwa i gospodarki żywnościowej.
+
+### Rozdział 7 Nadzór nad izbami
+
+### Art. 46.
+
+Nadzór nad działalnością izb sprawowany jest na podstawie kryterium zgodności z prawem.
+
+### Art. 47.
+
+### 1.
+
+Nadzór nad działalnością Krajowej Rady sprawuje Minister Rolnictwa i Gospodarki Żywnościowej, a nad działalnością izb - właściwi wojewodowie.
+
+### 2.
+
+Nadzór nad gospodarką izb w zakresie wykorzystania środków przekazanych na realizację zadań zleconych sprawuje organ zlecający te zadania.
+
+### 3.
+
+Do gospodarki środkami o których mowa w art. 35 pkt 1, 2 i 7, stosuje się odpowiednio przepisy ustawy - Prawo budżetowe.
+
+### Art. 48.
+
+### 1.
+
+Zarząd izby przedstawia organom nadzoru uchwały organów izby oraz zatwierdzone przez walne zgromadzenie sprawozdanie z rocznej działalności izby w terminie 14 dni od dnia ich uchwalenia.
+
+### 2.
+
+Organy nadzoru, o których mowa w art. 47 ust. 1, mogą stwierdzić nieważność uchwał organów izby w terminie nie dłuższym niż 30 dni od dnia ich doręczenia.
+
+### 3.
+
+W terminie 30 dni od dnia otrzymania decyzji organów nadzoru stwierdzających nieważność uchwał organów izby zarządowi izby przysługuje prawo zaskarżenia tych decyzji do Naczelnego Sądu Administracyjnego.
+
+### Art. 49.
+
+W razie powtarzającego się naruszania prawa przez zarząd izby, Minister Rolnictwa i Gospodarki Żywnościowej może zwołać, na wniosek wojewody, walne zgromadzenie w celu rozpatrzenia jego wniosku o odwołanie zarządu i powołanie nowego zarządu.
+
+### Rozdział 8 Przepisy szczególne, przejściowe i końcowe
+
+### Art. 50.
+
+### 1.
+
+Minister Rolnictwa i Gospodarki Żywnościowej, w drodze rozporządzenia, ustala termin pierwszych wyborów walnych zgromadzeń izb, na wniosek wojewody, po zasięgnięciu opinii sejmiku samorządowego, wyznaczając ich datę na dzień wolny od pracy przypadający najpóźniej w ciągu 6 miesięcy od dnia wejścia w życie ustawy. W rozporządzeniu określa się jednocześnie terminarz wykonania poszczególnych czynności związanych z przeprowadzeniem wyborów.
+
+### 2.
+
+Tryb przeprowadzenia wyborów, o których mowa w ust. 1, ustala Minister Rolnictwa i Gospodarki Żywnościowej.
+
+### 3.
+
+Komisję wojewódzką powołuje wojewoda, po zasięgnięciu opinii sejmiku samorządowego. Na sekretarza komisji może być powołany kierownik wojewódzkiego biura wyborczego lub osoba przez niego wskazana.
+
+### 4.
+
+Protokół wyników wyborów do walnego zgromadzenia komisja wojewódzka przekazuje niezwłocznie wojewodzie. O wynikach wyborów wojewoda informuje Ministra Rolnictwa i Gospodarki Żywnościowej.
+
+### 5.
+
+Czynności organizacyjne związane z przeprowadzeniem wyborów wykonuje wojewoda we współdziałaniu z wojewódzkim biurem wyborczym. Zasady udziału wojewódzkiego biura wyborczego w wyborach określa porozumienie wojewody i kierownika wojewódzkiego biura wyborczego.
+
+### 6.
+
+Zarząd gminy zapewnia obsługę i techniczno-materialne warunki pracy komisji okręgowej, jako zadanie zlecone gminie.
+
+### 7.
+
+Wydatki związane z przeprowadzeniem wyborów, w tym na zadania zlecone gminie, oraz środki materialne i finansowe na podjęcie działalności izby zapewnia wojewoda, w wysokości określonej na ten cel w ustawie budżetowej na dany rok.
+
+### Art. 51.
+
+Pierwsze posiedzenie walnego zgromadzenia wybranego w wyborach, o których mowa w art. 50 ust. 1, zwołuje Minister Rolnictwa i Gospodarki Żywnościowej najpóźniej w 30 dniu od dnia wyborów. Obradom pierwszego posiedzenia przewodniczy senior izby, którym jest najstarsza wiekiem osoba wybrana do walnego zgromadzenia.
+
+### Art. 52.
+
+### 1.
+
+Utworzenie izby następuje, jeżeli w pierwszych wyborach zarządzonych zgodnie z art. 50 ust. 1 wzięło udział co najmniej 20% uprawnionych do głosowania.
+
+### 2.
+
+W przypadku gdy w wyniku pierwszych wyborów nie utworzono izby, ponowne wybory mogą odbyć się nie wcześniej niż po upływie 6 miesięcy od daty pierwszych wyborów i na wniosek co najmniej 5% uprawnionych do głosowania, złożony właściwemu wojewodzie.
+
+### 3.
+
+Wojewoda po sprawdzeniu w ciągu 21 dni prawidłowości złożonego wniosku, o którym mowa w ust. 2, występuje niezwłocznie do Ministra Rolnictwa i Gospodarki Żywnościowej o zarządzenie ponownych wyborów.
+
+### 4.
+
+Ponowne wybory przeprowadza się w trybie i na zasadach określonych w art. 50.
+
+### 5.
+
+Do ponownych wyborów nie stosuje się przepisu ust. 1.
+
+### Art. 53.
+
+W wypadku utworzenia izb w co najmniej połowie województw, izby tworzą Krajową Radę.
+
+### Art. 54.
+
+### 1.
+
+Minister Rolnictwa i Gospodarki Żywnościowej zwołuje pierwsze posiedzenie Krajowej Rady nie później niż przed upływem 9 miesięcy od dnia utworzenia izb w co najmniej połowie województw.
+
+### 2.
+
+Krajowa Rada na pierwszym posiedzeniu wybiera zarząd i komisję rewizyjną.
+
+### Art. 55.
+
+Minister Finansów w porozumieniu z Ministrem Rolnictwa i Gospodarki Żywnościowej określi, w drodze rozporządzenia, źródła finansowania i szczegółowy sposób prowadzenia gospodarki finansowej Krajowej Rady w I kadencji.
+
+### Art. 56.
+
+### 1.
+
+Nazwa „izba rolnicza” może być używana wyłącznie w odniesieniu do izb, o których mowa w ustawie.
+
+### 2.
+
+Podmioty posługujące się nazwą „izba rolnicza” przed dniem wejścia ustawy w życie są obowiązane dokonać zmiany swojej nazwy, z uwzględnieniem ust. 1, w terminie jednego roku od dnia wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Wniosek o zmianę wpisu we właściwym dla nich rejestrze jest wolny od opłat sądowych.
+
+### Art. 57.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.

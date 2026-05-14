@@ -8,9 +8,9 @@ pos: 683
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# dnia 23 marca 2022 zmianie ustawy pomocy obywatelom Ukrainy związku konfliktem zbrojnym terytorium tego państwa
+# Ustawa z dnia 23 marca 2022 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa
 
 | Pole | Wartość |
 |---|---|
@@ -22,65 +22,434 @@ domain: null
 | Data ogłoszenia | 2022-03-23 |
 | Data wydania | 2022-03-26 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000683) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/683/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/683/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/683) |
 
-**Art. 1.** W ustawie dnia 12 marca 2022 pomocy obywatelom Ukrainy związku konfliktem zbrojnym terytorium tego państwa (Dz. U. poz. 583 682) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 25b.**
+### Art. 1.
 
-1. Dane ewidencji małoletnich przetwarza się zakresie niezbędnym realizacji zadań ustawowych mogą one być udostępniane:
+W ustawie z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa ([Dz. U. poz. 583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html) i [682](https://api.sejm.gov.pl/eli/acts/DU/2022/682/text.html)) wprowadza się następujące zmiany:
 
-- **1)** konsulom Ukrainy – zakresie niezbędnym realizacji 31 umowy między Rzecząpospolitą Polską a Ukrainą pomocy prawnej stosunkach prawnych sprawach cywilnych karnych, sporządzonej Kijowie dnia 24 maja 1993 (Dz. U. 1994 poz. 465);
-- **2)** wojewodzie właściwemu dla miejsca pobytu małoletniego, celu sprawowania kontroli nad realizacją zadań powiatowych centrów pomocy rodzinie;
-- **3)** ministrowi właściwemu spraw rodziny;
-- **4)** powiatowym centrom pomocy rodzinie;
-- **5)** organowi właściwemu rozumieniu ustawy dnia 28 listopada 2003 świadczeniach rodzinnych, za pośrednictwem ministra właściwego spraw rodziny – celu weryfikacji danych dotyczących osób ubiegających się świadczenia, których 26 1 pkt 1, osób pobierających te świadczenia oraz członków ich rodzin;
-- **6)** Zakładowi Ubezpieczeń Społecznych – celu weryfikacji danych dotyczących osób ubiegających się świadczenia, których 26 1 pkt 2–4, oraz dofinansowanie, którym 26 1 pkt 5, osób pobierających te świadczenia dofinansowanie oraz członków ich rodzin;
-- **7)** sądom;
-- **8)** prokuratorom.
+### 1)
 
-2. Administratorami danych osobowych, których 25a 5, rozumieniu 4 pkt 7 rozporządzenia Parlamentu Europejskiego Rady (UE) 2016/679 dnia 27 kwietnia 2016 sprawie ochrony osób fizycznych związku przetwarzaniem danych osobowych sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie ochronie danych) (Dz. Urz. UE L 119 04.05.2016, str. 1, późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, są minister właściwy spraw rodziny powiatowe centra pomocy rodzinie, tym że administratorem danych osobowych zakresie zapewnienia, utrzymania rozwoju systemu teleinformatycznego, którym 25a 2, jest minister właściwy spraw rodziny.
+w art. 25:
 
-3. Minister właściwy spraw rodziny może, drodze umowy, powierzyć przetwarzanie danych osobowych systemie teleinformatycznym wyspecjalizowanemu podmiotowi dającemu rękojmię stworzenia warunków organizacyjnych technicznych zapewniających ochronę danych gromadzonych przetwarzanych ewidencji małoletnich, szczególności zabezpieczenie tych danych osobowych przed nieuprawnionym dostępem, przetwarzaniem, zmianą, uszkodzeniem, zniszczeniem utratą.
+### a)
 
-25a². Realizacja obowiązku informacyjnego jest możliwa również przez umieszczenie stosownych informacji miejscach widocznych siedzibie miejscu działania pracowników urzędu obsługującego ministra właściwego spraw rodziny.
+po ust. 3 dodaje się ust. 3a-3c w brzmieniu:
 
-6. Zabezpieczenia stosowane przez administratorów danych celu ochrony danych osobowych polegają co najmniej na:
+„
 
-- **1)** dopuszczeniu przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych przetwarzania danych osobowych zachowania ich tajemnicy.
+### 3a.
 
-**Art. 25c.**
+Powiatowe centrum pomocy rodzinie zapewnia wsparcie przy sprawowaniu nadzoru nad realizacją praw i obowiązków opiekuna tymczasowego przez jednostki, o których mowa w ust. 3.
 
-1. Minister właściwy spraw rodziny może dokonać zakupu sprzętu komputerowego oprogramowania informatycznego niezbędnego prowadzenia ewidencji małoletnich rzecz powiatowych centrów pomocy rodzinie oraz urzędu obsługującego ministra właściwego spraw rodziny.
+### 3b.
 
-2. Minister właściwy spraw rodziny może nieodpłatnie przekazać powiatowym centrom pomocy rodzinie zakupiony sprzęt, którym 1.
+Powiatowe centrum pomocy rodzinie zapewnia pomoc prawną, organizacyjną i psychologiczną opiekunom tymczasowym oraz przebywającym pod ich opieką małoletnim.
 
-3. Do zakupu sprzętu, którym 1, przepisy 12 6 7 stosuje się odpowiednio.”;
+### 3c.
 
-- **3)** 26:
-    - **a)** 4 zdanie pierwsze otrzymuje brzmienie: „Przysługujące dziecko świadczenia, których 1 pkt 1, wyłączeniem świadczenia rodzicielskiego, którym ustawie dnia 28 listopada 2003 świadczeniach rodzinnych, oraz świadczenia dofinansowanie, których 1 pkt 2, 3 5, przysługują także opiekunowi tymczasowemu, którym
+W przypadku gdy opiekun tymczasowy ma pod opieką więcej niż 15 dzieci, kierownik powiatowego centrum pomocy rodzinie zatrudnia, na podstawie umowy o pracę lub umowy zlecenia, realizowanych w wymiarze co najmniej 8 godzin dziennie przez 5 dni w tygodniu, na każdą grupę 15 dzieci, liczoną począwszy od 16. dziecka, nad którym opiekun tymczasowy sprawuje opiekę, osobę do pomocy w sprawowaniu opieki.
 
-25. ”,
+” ,
 
-- **b)** po 4 dodaje się 4a–4d brzmieniu: „4a. Wniosek wypłatę jednorazowej zapomogi, której 15b ustawy dnia 28 listopada 2003 świadczeniach rodzinnych, opiekun tymczasowy składa terminie 12 miesięcy od dnia narodzin dziecka.
+### b)
 
-4b. W postępowaniach przyznanie świadczeń dofinansowania, których 1, imieniu rzecz opiekuna tymczasowego, którym 25 7 zdanie trzecie, wnioski świadczenia dofinansowanie składa działa tych postępowaniach wyłącznie starosta upoważniony przez niego pracownik jednostki organizacyjnej powiatu.
+w ust. 5 dodaje się zdanie trzecie w brzmieniu: „ Przepisy art. 148 ustawy z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy ([Dz. U. z 2020 r. poz. 1359](https://api.sejm.gov.pl/eli/acts/DU/2020/1359/text.html)) stosuje się. ” ,
 
-4c. Opiekunowi tymczasowemu, którym 25 7 zdanie trzecie, przyznane świadczenia wypłaca się rachunek bankowy powiatu, terenie którego opiekun ten sprawuje opiekę nad dziećmi. Powiat przekazuje przyznane opiekunowi tymczasowemu świadczenia szczególności formie rzeczowej formie opłacania usług.
+### c)
 
-4d. Termin ustalenie prawa świadczeń dofinansowania, których 1 pkt 2, 3 5, oraz wypłatę przysługujących opiekunowi tymczasowemu świadczeń dofinansowania liczony jest nie wcześniej niż od dnia udostępnienia odpowiednio organowi właściwemu rozumieniu ustawy dnia 28 listopada 2003 świadczeniach rodzinnych Zakładowi Ubezpieczeń Społecznych elektronicznego dostępu danych gromadzonych ewidencji małoletnich.”; mie pieczy zastępczej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.”,
+ust. 7 otrzymuje brzmienie:
 
-- **b)** 3 otrzymuje brzmienie: „3. Za zgodą wojewody oraz odpowiednio wójta, starosty marszałka województwa limitów, których 28 2, 53 1, 61 1, 67 2 3, 95 3, 4 4a, 109 2 3 111 2 ustawy dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, oraz limitów określonych przepisach wydanych podstawie 127 tej ustawy nie wlicza się umieszczonych pieczy zastępczej dzieci będących obywatelami Ukrainy, przebywających terytorium Rzeczypospolitej Polskiej, których pobyt terytorium Rzeczypospolitej Polskiej jest uznawany za legalny podstawie 2 1.”,
-- **c)** po 14 dodaje się 14a–14c brzmieniu: „14a. Obywatel Ukrainy, przebywający terytorium Rzeczypospolitej Polskiej, którego pobyt terytorium Rzeczypospolitej Polskiej jest uznawany za legalny podstawie 2 1, starający się zatrudnienie placówce wsparcia dziennego instytucjonalnej formie pieczy zastępczej, składa oświadczenie, że spełnia warunki, których odpowiednio 26 2, 27 1 oraz 98 3 pkt 1–3 ustawy dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+„
 
-14b. Obywatel Ukrainy, przebywający terytorium Rzeczypospolitej Polskiej, którego pobyt terytorium Rzeczypospolitej Polskiej jest uznawany za legalny podstawie 2 1, starający się zatrudnienie jako osoba pomocy przy sprawowaniu opieki nad dziećmi przy pracach gospodarskich, której ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej, składa oświadczenie, że spełnia warunki, których 64 5 tej ustawy. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+### 7.
 
-14c. Przepisy 14a 14b stosuje się odpowiednio wolontariuszy, których 28 3, 66 1 99 4 ustawy dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej.”.
+Tę samą osobę można ustanowić opiekunem tymczasowym dla więcej niż jednego małoletniego, jeżeli nie zachodzi sprzeczność między interesami małoletnich. Opiekunem tymczasowym dla rodzeństwa w miarę możliwości ustanawia się tę samą osobę. Jeżeli małoletni przed przybyciem na terytorium Rzeczypospolitej Polskiej byli umieszczeni w pieczy zastępczej na terytorium Ukrainy i przybyli wraz z osobą sprawującą nad nimi tę pieczę, sąd ustanawia tę osobę opiekunem tymczasowym dla wszystkich tych małoletnich.
 
-**Art. 2.** Do ewidencji, której 25a ustawy zmienianej 1, wprowadza się dane dotyczące małoletnich osób, których 25a 5 ustawy zmienianej 1, przybyli terytorium Rzeczypospolitej Polskiej od dnia 24 lutego 2022
+” ,
 
-**Art. 3.** W sprawach świadczenia dofinansowanie, których 26 1 ustawy zmienianej 1, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą.
+### d)
 
-**Art. 4.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 24 lutego 2022 Prezydent Rzeczypospolitej Polskiej: A. Duda
+po ust. 10 dodaje się ust. 10a w brzmieniu:
 
+„
+
+### 10a.
+
+Kandydat na opiekuna tymczasowego składa oświadczenie, że nie zachodzą wobec niego okoliczności, o których mowa w art. 148 § 1 i 1a ustawy z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+” ,
+
+### e)
+
+ust. 16 otrzymuje brzmienie:
+
+„
+
+### 16.
+
+Odpis postanowienia sąd doręcza uczestnikom postępowania, właściwej jednostce pomocy społecznej, właściwemu ze względu na miejsce pobytu małoletniego kierownikowi powiatowego centrum pomocy rodzinie oraz Komendantowi Głównemu Straży Granicznej.
+
+” ,
+
+### f)
+
+dodaje się ust. 20 i 21 w brzmieniu:
+
+„
+
+### 20.
+
+Powiat może zlecić zatrudnienie osoby do pomocy, o której mowa w ust. 3c, organizacjom pozarządowym prowadzącym działalność w zakresie wspierania rodziny, pieczy zastępczej lub pomocy społecznej lub osobom prawnym i jednostkom organizacyjnym działającym na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancji wolności sumienia i wyznania, jeżeli ich cele statutowe obejmują prowadzenie działalności w zakresie wspierania rodziny i systemu pieczy zastępczej lub pomocy społecznej. Do zlecania realizacji zadania stosuje się ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+### 21.
+
+Zatrudnienie osoby do pomocy, o której mowa w ust. 3c, stanowi zadanie zlecone z zakresu administracji rządowej i jest finansowane z budżetu państwa.
+
+” ;
+
+### 2)
+
+po art. 25 dodaje się art. 25a-25c w brzmieniu:
+
+„
+
+### Art. 25a.
+
+### 1.
+
+Małoletni obywatel Ukrainy, który przybył na terytorium Rzeczypospolitej Polskiej bez opieki osoby sprawującej faktyczną pieczę nad nim, oraz małoletni obywatel Ukrainy, który przybył na terytorium Rzeczypospolitej Polskiej i przed przybyciem był umieszczony w pieczy zastępczej na terytorium Ukrainy, podlega wpisowi do ewidencji, zwanej dalej „ewidencją małoletnich”.
+
+### 2.
+
+Ewidencja małoletnich jest prowadzona przez ministra właściwego do spraw rodziny i powiatowe centra pomocy rodzinie za pomocą systemu teleinformatycznego umożliwiającego prowadzenie tej ewidencji, przekazywanie do niej danych, usuwanie z niej danych oraz udostępnianie z niej danych.
+
+### 3.
+
+Utrzymanie i rozwój ewidencji małoletnich, w celu realizacji zadań określonych w ustawie, zapewnia administrator, w tym:
+
+### 1)
+
+zapewnia ochronę przed nieuprawnionym dostępem do ewidencji małoletnich;
+
+### 2)
+
+zapewnia integralność danych w ewidencji małoletnich;
+
+### 3)
+
+zapewnia dostępność systemu teleinformatycznego, w którym ewidencja małoletnich jest prowadzona, dla podmiotów przetwarzających dane w tej ewidencji;
+
+### 4)
+
+przeciwdziała uszkodzeniom systemu teleinformatycznego, w którym ewidencja małoletnich jest prowadzona;
+
+### 5)
+
+określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
+
+### 6)
+
+określa zasady zgłoszenia naruszenia ochrony danych osobowych;
+
+### 7)
+
+zapewnia rozliczalność działań dokonywanych na danych w ewidencji małoletnich;
+
+### 8)
+
+zapewnia poprawność danych przetwarzanych w ewidencji małoletnich.
+
+### 4.
+
+Minister właściwy do spraw rodziny może upoważnić inne osoby niż pracownicy urzędu obsługującego tego ministra do wprowadzania, aktualizacji i usuwania danych w ewidencji małoletnich.
+
+### 5.
+
+W ewidencji małoletnich przechowuje się:
+
+### 1)
+
+dane obejmujące:
+
+### a)
+
+imię (imiona) i nazwisko (nazwiska) osoby, która przybyła na terytorium Rzeczypospolitej Polskiej z małoletnim, w stosunku do którego sprawowała pieczę zastępczą na terytorium Ukrainy, oraz osoby reprezentującej małoletniego na terytorium Rzeczypospolitej Polskiej, zwanych dalej „sprawującym opiekę”,
+
+### b)
+
+imię (imiona) i nazwisko (nazwiska) małoletniego,
+
+### c)
+
+obywatelstwo małoletniego i sprawującego opiekę,
+
+### d)
+
+adres ostatniego miejsca pobytu małoletniego w Ukrainie,
+
+### e)
+
+niepełnosprawność małoletniego,
+
+### f)
+
+stan zdrowia małoletniego,
+
+### g)
+
+pokrewieństwo małoletniego z innymi małoletnimi, którzy przekroczyli granicę,
+
+### h)
+
+numer PESEL małoletniego i sprawującego opiekę - jeżeli zostały nadane,
+
+### i)
+
+datę urodzenia małoletniego i sprawującego opiekę - jeżeli nie nadano numeru PESEL,
+
+### j)
+
+adres miejsca pobytu małoletniego i sprawującego opiekę na terytorium Rzeczypospolitej Polskiej,
+
+### k)
+
+datę przybycia małoletniego i sprawującego opiekę do miejsca pobytu na terytorium Rzeczypospolitej Polskiej,
+
+### l)
+
+rodzaj dokumentu stanowiącego podstawę przekroczenia granicy przez małoletniego i sprawującego opiekę - jeżeli występuje,
+
+### m)
+
+serię i numer dokumentu stanowiącego podstawę przekroczenia granicy przez małoletniego i sprawującego opiekę - jeżeli występują,
+
+### n)
+
+adres poczty elektronicznej sprawującego opiekę,
+
+### o)
+
+numer telefonu sprawującego opiekę,
+
+### p)
+
+rodzaj, numer i odwzorowanie cyfrowe dokumentu potwierdzającego tożsamość małoletniego,
+
+### q)
+
+rodzaj, numer i odwzorowanie cyfrowe dokumentu potwierdzającego tożsamość sprawującego opiekę,
+
+### r)
+
+fotografię małoletniego,
+
+### s)
+
+fotografię osoby, która przybyła z małoletnim na terytorium Rzeczypospolitej Polskiej, w stosunku do którego sprawowała pieczę zastępczą na terytorium Ukrainy;
+
+### 2)
+
+informacje o miejscu i dacie przekroczenia granicy przez małoletniego i sprawującego opiekę;
+
+### 3)
+
+informacje o sytuacji opiekuńczej małoletniego, w tym wskazanie informacji o ustanowieniu opiekuna tymczasowego, o którym mowa w art. 25 ust. 7 zdanie trzecie, oraz dane sprawującego opiekę, o których mowa w pkt 1 lit. a, c, h-o, q i s oraz pkt 2;
+
+### 4)
+
+informację o dacie zakończenia sprawowania opieki przez sprawującego opiekę lub opuszczenia terytorium Rzeczypospolitej Polskiej przez sprawującego opiekę.
+
+### 6.
+
+Dane do ewidencji małoletnich wprowadza się, aktualizuje i usuwa niezwłocznie po powzięciu informacji wymagających wpisu, aktualizacji lub usunięcia.
+
+### 7.
+
+Dane, o których mowa w ust. 5 pkt 3, w zakresie opiekuna tymczasowego, o którym mowa w art. 25 ust. 7 zdanie trzecie, wprowadza, aktualizuje i usuwa powiatowe centrum pomocy rodzinie.
+
+### 8.
+
+Zadania związane z prowadzeniem ewidencji małoletnich realizowane przez powiatowe centra pomocy rodzinie są zadaniami zleconymi z zakresu administracji rządowej.
+
+### 9.
+
+Zadania związane z prowadzeniem ewidencji małoletnich realizowane przez ministra właściwego do spraw rodziny oraz przez powiatowe centra pomocy rodzinie są finansowane ze środków budżetu państwa.
+
+### Art. 25b.
+
+### 1.
+
+Dane z ewidencji małoletnich przetwarza się w zakresie niezbędnym do realizacji zadań ustawowych i mogą one być udostępniane:
+
+### 1)
+
+konsulom Ukrainy - w zakresie niezbędnym do realizacji art. 31 umowy między Rzecząpospolitą Polską a Ukrainą o pomocy prawnej i stosunkach prawnych w sprawach cywilnych i karnych, sporządzonej w Kijowie dnia 24 maja 1993 r. ([Dz. U. z 1994 r. poz. 465](https://api.sejm.gov.pl/eli/acts/DU/1994/465/text.html));
+
+### 2)
+
+wojewodzie właściwemu dla miejsca pobytu małoletniego, w celu sprawowania kontroli nad realizacją zadań powiatowych centrów pomocy rodzinie;
+
+### 3)
+
+ministrowi właściwemu do spraw rodziny;
+
+### 4)
+
+powiatowym centrom pomocy rodzinie;
+
+### 5)
+
+organowi właściwemu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, za pośrednictwem ministra właściwego do spraw rodziny - w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia, o których mowa w art. 26 ust. 1 pkt 1, osób pobierających te świadczenia oraz członków ich rodzin;
+
+### 6)
+
+Zakładowi Ubezpieczeń Społecznych - w celu weryfikacji danych dotyczących osób ubiegających się o świadczenia, o których mowa w art. 26 ust. 1 pkt 2-4, oraz dofinansowanie, o którym mowa w art. 26 ust. 1 pkt 5, osób pobierających te świadczenia i dofinansowanie oraz członków ich rodzin;
+
+### 7)
+
+sądom;
+
+### 8)
+
+prokuratorom.
+
+### 2.
+
+Administratorami danych osobowych, o których mowa w art. 25a ust. 5, w rozumieniu art. 4 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ([Dz. Urz. UE L 119 z 04.05.2016, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.](#gloss-0:1:), zwanego dalej „rozporządzeniem 2016/679”, są minister właściwy do spraw rodziny i powiatowe centra pomocy rodzinie, z tym że administratorem danych osobowych w zakresie zapewnienia, utrzymania i rozwoju systemu teleinformatycznego, o którym mowa w art. 25a ust. 2, jest minister właściwy do spraw rodziny.
+
+### 3.
+
+Minister właściwy do spraw rodziny może, w drodze umowy, powierzyć przetwarzanie danych osobowych w systemie teleinformatycznym wyspecjalizowanemu podmiotowi dającemu rękojmię stworzenia warunków organizacyjnych i technicznych zapewniających ochronę danych gromadzonych i przetwarzanych w ewidencji małoletnich, w szczególności zabezpieczenie tych danych osobowych przed nieuprawnionym dostępem, przetwarzaniem, zmianą, uszkodzeniem, zniszczeniem lub utratą.
+
+### 4.
+
+Minister właściwy do spraw rodziny przechowuje dane, o których mowa w art. 25a ust. 5, w systemie teleinformatycznym przez okres 12 miesięcy od dnia ustania przesłanek, dla których dane te zostały wprowadzone. Dane, o których mowa w art. 25a ust. 5, usuwa się niezwłocznie po upływie okresu przechowywania.
+
+### 5.
+
+Minister właściwy do spraw rodziny może wykonać obowiązek, o którym mowa w art. 13 ust. 1 i 2 oraz art. 14 ust. 1 i 2 rozporządzenia 2016/679, przez udostępnienie informacji, o których mowa w tych przepisach, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej lub w systemie teleinformatycznym, o którym mowa w art. 25a ust. 2. Realizacja obowiązku informacyjnego jest możliwa również przez umieszczenie stosownych informacji w miejscach widocznych w siedzibie lub miejscu działania pracowników urzędu obsługującego ministra właściwego do spraw rodziny.
+
+### 6.
+
+Zabezpieczenia stosowane przez administratorów danych w celu ochrony danych osobowych polegają co najmniej na:
+
+### 1)
+
+dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
+
+### 2)
+
+pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
+
+### Art. 25c.
+
+### 1.
+
+Minister właściwy do spraw rodziny może dokonać zakupu sprzętu komputerowego i oprogramowania informatycznego niezbędnego do prowadzenia ewidencji małoletnich na rzecz powiatowych centrów pomocy rodzinie oraz urzędu obsługującego ministra właściwego do spraw rodziny.
+
+### 2.
+
+Minister właściwy do spraw rodziny może nieodpłatnie przekazać powiatowym centrom pomocy rodzinie zakupiony sprzęt, o którym mowa w ust. 1.
+
+### 3.
+
+Do zakupu sprzętu, o którym mowa w ust. 1, przepisy art. 12 ust. 6 i 7 stosuje się odpowiednio.
+
+” ;
+
+### 3)
+
+w art. 26:
+
+### a)
+
+w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Przysługujące na dziecko świadczenia, o których mowa w ust. 1 pkt 1, z wyłączeniem świadczenia rodzicielskiego, o którym mowa w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, oraz świadczenia lub dofinansowanie, o których mowa w ust. 1 pkt 2, 3 i 5, przysługują także opiekunowi tymczasowemu, o którym mowa w art. 25. ” ,
+
+### b)
+
+po ust. 4 dodaje się ust. 4a-4d w brzmieniu:
+
+„
+
+### 4a.
+
+Wniosek o wypłatę jednorazowej zapomogi, o której mowa w art. 15b ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, opiekun tymczasowy składa w terminie 12 miesięcy od dnia narodzin dziecka.
+
+### 4b.
+
+W postępowaniach o przyznanie świadczeń i dofinansowania, o których mowa w ust. 1, w imieniu i na rzecz opiekuna tymczasowego, o którym mowa w art. 25 ust. 7 zdanie trzecie, wnioski o świadczenia i dofinansowanie składa i działa w tych postępowaniach wyłącznie starosta lub upoważniony przez niego pracownik jednostki organizacyjnej powiatu.
+
+### 4c.
+
+Opiekunowi tymczasowemu, o którym mowa w art. 25 ust. 7 zdanie trzecie, przyznane świadczenia wypłaca się na rachunek bankowy powiatu, na terenie którego opiekun ten sprawuje opiekę nad dziećmi. Powiat przekazuje przyznane opiekunowi tymczasowemu świadczenia w szczególności w formie rzeczowej lub w formie opłacania usług.
+
+### 4d.
+
+Termin na ustalenie prawa do świadczeń lub dofinansowania, o których mowa w ust. 1 pkt 2, 3 i 5, oraz wypłatę przysługujących opiekunowi tymczasowemu świadczeń i dofinansowania liczony jest nie wcześniej niż od dnia udostępnienia odpowiednio organowi właściwemu w rozumieniu ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych lub Zakładowi Ubezpieczeń Społecznych elektronicznego dostępu do danych gromadzonych w ewidencji małoletnich.
+
+” ;
+
+### 4)
+
+w art. 27:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Kandydat do pełnienia funkcji rodziny zastępczej lub prowadzenia rodzinnego domu dziecka, będący obywatelem Ukrainy przebywającym na terytorium Rzeczypospolitej Polskiej, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, składa oświadczenie, że spełnia warunki, o których mowa w art. 42 ust. 1 pkt 1-4 oraz ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Za zgodą wojewody oraz odpowiednio wójta, starosty lub marszałka województwa do limitów, o których mowa w art. 28 ust. 2, art. 53 ust. 1, art. 61 ust. 1, art. 67 ust. 2 i 3, art. 95 ust. 3, 4 i 4a, art. 109 ust. 2 i 3 i art. 111 ust. 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, oraz limitów określonych w przepisach wydanych na podstawie art. 127 tej ustawy nie wlicza się umieszczonych w pieczy zastępczej dzieci będących obywatelami Ukrainy, przebywających na terytorium Rzeczypospolitej Polskiej, których pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1.
+
+” ,
+
+### c)
+
+po ust. 14 dodaje się ust. 14a-14c w brzmieniu:
+
+„
+
+### 14a.
+
+Obywatel Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, starający się o zatrudnienie w placówce wsparcia dziennego lub instytucjonalnej formie pieczy zastępczej, składa oświadczenie, że spełnia warunki, o których mowa odpowiednio w art. 26 ust. 2, art. 27 ust. 1 oraz art. 98 ust. 3 pkt 1-3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### 14b.
+
+Obywatel Ukrainy, przebywający na terytorium Rzeczypospolitej Polskiej, którego pobyt na terytorium Rzeczypospolitej Polskiej jest uznawany za legalny na podstawie art. 2 ust. 1, starający się o zatrudnienie jako osoba do pomocy przy sprawowaniu opieki nad dziećmi i przy pracach gospodarskich, o której mowa w ustawie z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, składa oświadczenie, że spełnia warunki, o których mowa w art. 64 ust. 5 tej ustawy. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### 14c.
+
+Przepisy ust. 14a i 14b stosuje się odpowiednio do wolontariuszy, o których mowa w art. 28 ust. 3, art. 66 ust. 1 i art. 99 ust. 4 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej.
+
+” .
+
+### Art. 2.
+
+Do ewidencji, o której mowa w art. 25a ustawy zmienianej w art. 1, wprowadza się dane dotyczące małoletnich i osób, o których mowa w art. 25a ust. 5 ustawy zmienianej w art. 1, którzy przybyli na terytorium Rzeczypospolitej Polskiej od dnia 24 lutego 2022 r.
+
+### Art. 3.
+
+W sprawach o świadczenia i dofinansowanie, o których mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 24 lutego 2022 r.
+
+1) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.

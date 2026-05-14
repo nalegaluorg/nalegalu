@@ -8,11 +8,9 @@ pos: 731
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawy Policji, ustawy cudzoziemcach i ustawy zmianie ustawy cudzoziemcach oraz zmianie niektórych ustaw
-
-*USTAWA dnia 23 maja 2002 r.*
+# Ustawa z dnia 23 maja 2002 r. o zmianie ustawy o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawy o Policji, ustawy o cudzoziemcach i ustawy o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,322 @@ domain: null
 | Data ogłoszenia | 2002-05-23 |
 | Data wydania | 2002-06-21 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020810731) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/731/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/731/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/731) |
 
-**Art. 1.** W ustawie dnia 6 lipca 2001 r. gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych (Dz.U. Nr 110, poz. 1189 i Nr 154, poz. 1800) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 6 kwietnia 1990 r. Policji (Dz.U. 2002 r. Nr 7, poz. 58, Nr 19, poz. 185 i Nr 74, poz. 676) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 25 czerwca 1997 r. cudzoziemcach (Dz.U. 2001 r. Nr 127, poz. 1400 oraz 2002 r. Nr 41, poz. 365 i Nr 74, poz. 676) wprowadza się następujące zmiany:
+W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych ([Dz. U. Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 11 kwietnia 2001 r. zmianie ustawy cudzoziemcach oraz zmianie niekt(cid:243)rych ustaw (Dz.U. Nr 42, poz. 475 i 2002 r. Nr 25, poz. 253) 18 ust. 3 otrzymuje brzmienie: (cid:132)3. Szef Krajowego Centrum Informacji Kryminalnych utworzy Krajowy System Informatyczny do dnia 30 czerwca 2003 r.(cid:148).
+### 1)
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2003 r., wyjątkiem 1 pkt 15, kt(cid:243)ry wchodzi życie po upływie 14 dni od dnia ogłoszenia, mocą od dnia 5 kwietnia 2002 r.
+art. 5 otrzymuje brzmienie:
 
+„
+
+### Art. 5.
+
+### 1.
+
+Organem administracji rządowej właściwym w sprawach gromadzenia, przetwarzania i przekazywania informacji kryminalnych jest Komendant Główny Policji.
+
+### 2.
+
+Komendant Główny Policji wykonuje swoje zadania przy pomocy Krajowego Centrum Informacji Kryminalnych, zwanego dalej «Centrum», będącego komórką organizacyjną w Komendzie Głównej Policji.
+
+” ;
+
+### 2)
+
+art. 6 otrzymuje brzmienie:
+
+„
+
+### Art. 6.
+
+Do zadań Komendanta Głównego Policji, będącego Szefem Krajowego Centrum Informacji Kryminalnych, zwanego dalej «Szefem Centrum», należy w szczególności:
+
+### 1)
+
+gromadzenie, przetwarzanie i przekazywanie informacji kryminalnych,
+
+### 2)
+
+prowadzenie baz danych, w tym Krajowego Systemu Informatycznego,
+
+### 3)
+
+opracowywanie analiz informacji kryminalnych,
+
+### 4)
+
+zapewnienie bezpieczeństwa gromadzonym i przetwarzanym w Centrum informacjom kryminalnym, zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html), [Nr 50, poz. 580](https://api.sejm.gov.pl/eli/acts/DU/2000/580/text.html) i [Nr 116, poz. 1216](https://api.sejm.gov.pl/eli/acts/DU/2000/1216/text.html), z [2001 r. Nr 42, poz. 474](https://api.sejm.gov.pl/eli/acts/DU/2001/474/text.html), [Nr 49, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.html) i [Nr 100, poz. 1087](https://api.sejm.gov.pl/eli/acts/DU/2001/1087/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) oraz ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ([Dz. U. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html) i [Nr 39, poz. 462](https://api.sejm.gov.pl/eli/acts/DU/2000/462/text.html), z [2001 r. Nr 22, poz. 247](https://api.sejm.gov.pl/eli/acts/DU/2001/247/text.html), [Nr 27, poz. 298](https://api.sejm.gov.pl/eli/acts/DU/2001/298/text.html), [Nr 56, poz. 580](https://api.sejm.gov.pl/eli/acts/DU/2001/580/text.html), [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html), [Nr 123, poz. 1353](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)),
+
+### 5)
+
+współpraca międzynarodowa przy wykonywaniu ratyfikowanych umów międzynarodowych w zakresie przekazywania informacji kryminalnych.
+
+” ;
+
+### 3)
+
+skreśla się art. 7-10;
+
+### 4)
+
+w art. 11 skreśla się ust. 3 i 4;
+
+### 5)
+
+art. 12 otrzymuje brzmienie:
+
+„
+
+### Art. 12.
+
+Do pracy w Centrum mogą być, na zasadach określonych w odrębnych przepisach, oddelegowani żołnierze, funkcjonariusze oraz pracownicy podmiotów uprawnionych.
+
+” ;
+
+### 6)
+
+w art. 13 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+dane personalne:
+
+### a)
+
+nazwisko,
+
+### b)
+
+imiona,
+
+### c)
+
+imiona i nazwiska poprzednie,
+
+### d)
+
+imiona rodziców i nazwisko rodowe matki,
+
+### e)
+
+datę i miejsce urodzenia,
+
+### f)
+
+płeć,
+
+### g)
+
+pseudonim,
+
+### h)
+
+adres miejsca zameldowania,
+
+### i)
+
+adres miejsca pobytu,
+
+### j)
+
+cechy dokumentów tożsamości: rodzaj dokumentu, datę wystawienia dokumentu, organ wystawiający dokument, numer, serię dokumentu,
+
+### k)
+
+numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) lub obywatelstwo, w przypadku cudzoziemca nieposiadającego numeru PESEL,
+
+### l)
+
+numer identyfikacji podatkowej NIP,
+
+### m)
+
+numer identyfikacyjny REGON,
+
+” ;
+
+### 7)
+
+w art. 15 wyrazy „o której mowa w art. 22 ust. 1” zastępuje się wyrazami „o której mowa w art. 21 ust. 2”;
+
+### 8)
+
+w art. 19 w pkt 11 kropkę na końcu zastępuje się przecinkiem oraz dodaje się pkt 12 w brzmieniu:
+
+„
+
+### 12)
+
+organy administracji publicznej właściwe w sprawach obywatelstwa, cudzoziemców i repatriacji.
+
+” ;
+
+### 9)
+
+art. 21 otrzymuje brzmienie:
+
+„
+
+### Art. 21.
+
+### 1.
+
+Podmioty uprawnione przekazują z urzędu informacje kryminalne Szefowi Centrum niezwłocznie po ich uzyskaniu, z zastrzeżeniem art. 24 ust. 1. Informacje kryminalne, o których mowa w art. 13 ust. 1 pkt 5 lit. e), podmioty uprawnione przekazują na zapytanie.
+
+### 2.
+
+Podmioty uprawnione przekazują Szefowi Centrum informacje kryminalne na wypełnionych kartach rejestracyjnych.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory kart rejestracyjnych, sposób ich wypełniania oraz katalog rodzajów przestępstw, cech rysopisowych i znaków szczególnych, uwzględniając zakres gromadzonych informacji kryminalnych określonych w art. 13.
+
+” ;
+
+### 10)
+
+art. 22 otrzymuje brzmienie:
+
+„
+
+### Art. 22.
+
+Podmioty zobowiązane, niebędące podmiotami uprawnionymi, przekazują informacje kryminalne Szefowi Centrum wyłącznie na jego zapytanie, z zastrzeżeniem art. 24 ust. 1.
+
+” ;
+
+### 11)
+
+w art. 23 wyrazy „uwzględniającego wzory kart, o których mowa w art. 22 ust. 3” zastępuje się wyrazami „uwzględniającego wzory kart, o których mowa w art. 21 ust. 3 oraz w art. 28 ust. 5”;
+
+### 12)
+
+w art. 25 w ust. 2 po wyrazach „od niego otrzymały” skreśla się wyrazy „lub mu przekazały”;
+
+### 13)
+
+w art. 28:
+
+### a)
+
+w ust. 1 w zdaniu pierwszym skreśla się wyrazy „wraz z uzasadnieniem”,
+
+### b)
+
+skreśla się ust. 3;
+
+### 14)
+
+art. 37 otrzymuje brzmienie:
+
+„
+
+### Art. 37.
+
+Szef Centrum składa ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, zbiorczą analizę zgromadzonych w Centrum informacji kryminalnych, uwzględniającą zakres danych określonych w art. 13.
+
+” ;
+
+### 15)
+
+w art. 76 wyrazy „po upływie 6 miesięcy od dnia ogłoszenia” zastępuje się wyrazami „z dniem 1 stycznia 2003 r.”
+
+### Art. 2.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2002 r. Nr 7, poz. 58](https://api.sejm.gov.pl/eli/acts/DU/2002/58/text.html), [Nr 19, poz. 185](https://api.sejm.gov.pl/eli/acts/DU/2002/185/text.html) i [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2:
+
+### a)
+
+pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+gromadzenie, przetwarzanie i przekazywanie informacji kryminalnych,
+
+”
+
+### b)
+
+po pkt 8 dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+prowadzenie Krajowego Systemu Informatycznego.
+
+” ;
+
+### 2)
+
+w art. 21 w ust. 1 skreśla się wyrazy „, a także Szefa Krajowego Centrum Informacji Kryminalnych”.
+
+### Art. 3.
+
+W ustawie z dnia 25 czerwca 1997 r. o cudzoziemcach ([Dz. U. z 2001 r. Nr 127, poz. 1400](https://api.sejm.gov.pl/eli/acts/DU/2001/1400/text.html) oraz z [2002 r. Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html) i [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 75a otrzymuje brzmienie:
+
+„
+
+### Art. 75a.
+
+Dla potrzeb kontroli granicznej, kontroli legalności pobytu, o której mowa w art. 26 ust. 1, jak również dla potrzeb innych postępowań prowadzonych na podstawie ustaw tworzy się Krajowy System Informatyczny stanowiący bazę danych prowadzoną w Krajowym Centrum Informacji Kryminalnych.
+
+” ;
+
+### 2)
+
+w art. 75b w ust. 1 w pkt 1 skreśla się lit. b);
+
+### 3)
+
+w art. 75d:
+
+### a)
+
+użyte w ust. 1 i 3 wyrazy „minister właściwy do spraw wewnętrznych” zastępuje się wyrazami „Szef Krajowego Centrum Informacji Kryminalnych”,
+
+### b)
+
+w ust. 2:
+
+- - skreśla się pkt 7,
+
+- - w pkt 15 kropkę zastępuje się przecinkiem i dodaje się pkt 16 w brzmieniu: „ 16) Policji. ” ,
+
+### c)
+
+w ust. 4 wyrazy „o których mowa w ust. 2 pkt 1-14” zastępuje się wyrazami „o których mowa w ust. 2 pkt 1-14 i 16”;
+
+### Art. 4.
+
+W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o cudzoziemcach oraz o zmianie niektórych ustaw ([Dz. U. Nr 42, poz. 475](https://api.sejm.gov.pl/eli/acts/DU/2001/475/text.html) i z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html)) w art. 18 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Szef Krajowego Centrum Informacji Kryminalnych utworzy Krajowy System Informatyczny do dnia 30 czerwca 2003 r.
+
+”
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 1 pkt 15, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia z mocą od dnia 5 kwietnia 2002 r.

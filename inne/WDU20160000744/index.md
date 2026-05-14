@@ -8,11 +8,9 @@ pos: 744
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej oraz pomniki
-
-*USTAWA z dnia 1 kwietnia 2016 r.*
+# Ustawa z dnia 1 kwietnia 2016 r. o zakazie propagowania komunizmu lub innego ustroju totalitarnego przez nazwy budowli, obiektów i urządzeń użyteczności publicznej
 
 | Pole | Wartość |
 |---|---|
@@ -24,80 +22,84 @@ domain: null
 | Data ogłoszenia | 2016-04-01 |
 | Data wydania | 2016-06-01 |
 | Ostatnia zmiana | 2025-12-16 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000744) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/744/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/744/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/744) |
 
-#### Rozdział 1 Zakaz propagowania komunizmu lub innego ustroju totalitarnego przez nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej
+## Treść ustawy
 
-**Art. 1.**
+### Art. 1.
 
-1. Nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów i urządzeń użyteczności publicznej, tym dróg, ulic, mostów i placów, nadawane przez jednostki samorządu terytorialnego nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani inny sposób takiego ustroju propagować.
+### 1.
 
-2. Za propagujące komunizm uważa także nazwy odwołujące do osób, organizacji, wydarzeń lub dat symbolizujących represyjny, autorytarny i niesuwerenny system władzy Polsce latach 1944–1989.
+Nazwy budowli, obiektów i urządzeń użyteczności publicznej, w tym dróg, ulic, mostów i placów, nadawane przez jednostki samorządu terytorialnego nie mogą upamiętniać osób, organizacji, wydarzeń lub dat symbolizujących komunizm lub inny ustrój totalitarny, ani w inny sposób takiego ustroju propagować.
 
-3. Za jednostki organizacyjne uważa szczególności szkoły i ich zespoły, przedszkola, szpitale, placówki opiekuńczo-wychowawcze, instytucje kultury oraz instytucje społeczne.
+### 2.
 
-**Art. 2.**
+Za propagujące komunizm uważa się także nazwy odwołujące się do osób, organizacji, wydarzeń lub dat symbolizujących represyjny, autorytarny i niesuwerenny system władzy w Polsce w latach 1944-1989.
 
-1. Stwierdzenie przez wojewodę nieważności uchwały nadającej nazwę jednostce organizacyjnej, jednostce pomocniczej gminy, budowli, obiektowi lub urządzeniu użyteczności publicznej, zakresie jakim nadaje nazwę niezgodną z wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej tę niezgodność. stwierdzenie nieważności aktu.
+### Art. 2.
 
-**Art. 3.**
+### 1.
 
-1. Jeżeli terminie 3 miesięcy od dnia uprawomocnienia rozstrzygnięcia nadzorczego, 2 nie zostanie nadana nowa nazwa, a jej nadanie jest konieczne do oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, nadaje nazwę zgodną z 1.
+Stwierdzenie przez wojewodę nieważności uchwały nadającej nazwę budowli, obiektowi lub urządzeniu użyteczności publicznej, w zakresie w jakim nadaje nazwę niezgodną z art. 1, wymaga opinii Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej tę niezgodność.
 
-2. (uchylony)
+### 2.
 
-3. Do czasu nadania nowej nazwy stosuje nazwę dotychczasową.
+Wojewoda może także zasięgnąć opinii Rady Ochrony Pamięci Walk i Męczeństwa.
 
-4. Przepisy 98, 100 i 102a ustawy z dnia 8 marca 1990 r. samorządzie gminnym (Dz. U. z 2017 r. poz. 1875 i 2232 oraz z 2018 r. poz. 130), 85, 86 i 90a ustawy z dnia 5 czerwca 1998 r. samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868 oraz z 2018 r. poz. 130) oraz 86, 87 i 88a ustawy z dnia 5 czerwca 1998 r. samorządzie województwa (Dz. U. z 2017 r. poz. 2096 oraz z 2018 r. poz. 130) stosuje odpowiednio.
+### 3.
 
-5. Zarządzenie zastępcze, podlega wykonaniu począwszy od dnia wejścia życie.
+Opinie, o których mowa w ust. 1 i 2, są przedstawiane niezwłocznie, nie później jednak niż w terminie 2 tygodni od dnia doręczenia żądania wojewody. Oczekiwanie na opinie wstrzymuje bieg terminu na stwierdzenie nieważności aktu.
 
-**Art. 4.** Przepisy 1–3 stosuje odpowiednio do nazw jednostek organizacyjnych, budowli, obiektów i urządzeń użyteczności publicznej nadawanych przez związki jednostek samorządu terytorialnego i związki metropolitalne.
+### Art. 3.
 
-**Art. 5.**
+### 1.
 
-1. Pisma oraz postępowania sądowe i administracyjne sprawach dotyczących ujawnienia księgach wieczystych oraz uwzględnienia rejestrach, ewidencjach i dokumentach urzędowych zmiany nazwy dokonanej podstawie ustawy są wolne od opłat.
+Jeżeli w terminie 3 miesięcy od dnia uprawomocnienia się rozstrzygnięcia nadzorczego, o którym mowa w art. 2 ust. 1, nie zostanie nadana nowa nazwa, a jej nadanie jest konieczne do oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, w którym nadaje nazwę zgodną z art. 1.
 
-2. Zmiana nazwy dokonana podstawie ustawy nie ma wpływu ważność dokumentów zawierających nazwę dotychczasową. symbolizujących komunizm lub inny ustrój totalitarny, ani inny sposób takiego ustroju propagować. Przepis 1 2 stosuje się.
+### 2.
 
-2. Przez pomniki rozumie również kopce, obeliski, kolumny, rzeźby, posągi, popiersia, kamienie pamiątkowe, płyty i tablice pamiątkowe, napisy i znaki.
+Wydanie zarządzenia zastępczego w sprawie nadania nazwy drodze wewnętrznej wymaga uzyskania pisemnej zgody właścicieli terenów, na których jest ona zlokalizowana.
 
-3. Przepisu 1 nie stosuje do pomników:
+### 3.
 
-- **1)** niewystawionych widok publiczny;
-- **2)** znajdujących terenie cmentarzy albo innych miejsc spoczynku;
-- **3)** wystawionych widok publiczny ramach działalności artystycznej, edukacyjnej, kolekcjonerskiej, naukowej lub podobnym charakterze, celu innym niż propagowanie ustroju totalitarnego;
-- **4)** wpisanych – samodzielnie albo jako część większej całości – do rejestru zabytków.
+Do czasu nadania nowej nazwy stosuje się nazwę dotychczasową.
 
-**Art. 5b.**
+### 4.
 
-1. Wojewoda, drodze decyzji, nakazuje właścicielowi albo użytkownikowi wieczystemu nieruchomości, której znajduje pomnik, który nie spełnia warunków określonych 5a usunięcie tego pomnika.
+Przepisy art. 98, art. 100 i art. 102a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym ([Dz. U. z 2016 r. poz. 446](https://api.sejm.gov.pl/eli/acts/DU/2016/446/text.html)), art. 85, art. 86 i art. 90a ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym ([Dz. U. z 2015 r. poz. 1445](https://api.sejm.gov.pl/eli/acts/DU/2015/1445/text.html) i [1890](https://api.sejm.gov.pl/eli/acts/DU/2015/1890/text.html)) oraz art. 86, art. 87 i art. 88a ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa ([Dz. U. z 2016 r. poz. 486](https://api.sejm.gov.pl/eli/acts/DU/2016/486/text.html)) stosuje się odpowiednio.
 
-2. Wydanie decyzji usunięciu pomnika wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej, że pomnik nie spełnia warunków określonych 5a 1. Przepis 2 3 zdanie pierwsze stosuje odpowiednio.
+### Art. 4.
 
-3. Organem wyższego stopnia rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) stosunku do wojewody sprawach usunięcie pomnika jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+Przepisy art. 1-3 stosuje się odpowiednio do nazw budowli, obiektów i urządzeń użyteczności publicznej nadawanych przez związki jednostek samorządu terytorialnego i związki metropolitalne.
 
-4. Koszty usunięcia pomnika ponosi właściciel albo użytkownik wieczysty nieruchomości, której znajduje pomnik. Przepisy dostosowujące i przepis końcowy
+### Art. 5.
 
-**Art. 6.**
+### 1.
 
-1. Obowiązujące dniu wejścia życie ustawy nazwy budowli, obiektów i urządzeń użyteczności publicznej, tym dróg, ulic, mostów i placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, właściwy organ jednostki samorządu terytorialnego albo związku, 4, zmienia terminie 12 miesięcy od dnia jej wejścia życie.
+Pisma oraz postępowania sądowe i administracyjne w sprawach dotyczących ujawnienia w księgach wieczystych oraz uwzględnienia w rejestrach, ewidencjach i dokumentach urzędowych zmiany nazwy dokonanej na podstawie ustawy są wolne od opłat.
 
-2. W przypadku niewykonania obowiązku, wojewoda wydaje zarządzenie zastępcze, nadaje nazwę zgodną z terminie 3 miesięcy od dnia, upłynął termin, 1.
+### 2.
 
-3. Wydanie zarządzenia zastępczego, 2, wymaga opinii Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej dniu wejścia życie ustawy z 1. Przepis 2 3 stosuje odpowiednio.
+Zmiana nazwy dokonana na podstawie ustawy nie ma wpływu na ważność dokumentów zawierających nazwę dotychczasową.
 
-4. Przepisy 3 4 oraz 5 stosuje odpowiednio.
+### Art. 6.
 
-5. Zarządzenie zastępcze, 2, podlega wykonaniu począwszy od dnia wejścia życie.
+### 1.
 
-**Art. 6a.**
+Obowiązujące w dniu wejścia w życie ustawy nazwy budowli, obiektów i urządzeń użyteczności publicznej, w tym dróg, ulic, mostów i placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój w inny sposób, właściwy organ jednostki samorządu terytorialnego albo związku, o którym mowa w art. 4, zmienia w terminie 12 miesięcy od dnia jej wejścia w życie.
 
-1. W przypadku niewykonania przez jednostkę samorządu terytorialnego albo związek wskazany 4 zarządzenia zastępczego, 3 1 oraz 6 2, terminie 30 dni od dnia jego wejścia życie, wojewoda zapewnia jego wykonanie koszt tej jednostki albo związku.
+### 2.
 
-2. W przypadku wykonania przez wojewodę czynności, których zwrot kosztów przez jednostkę samorządu terytorialnego albo związek, 4, następuje podstawie właściwych danym przypadku dokumentów finansowo-księgowych, terminie 30 dni od dnia ich przekazania przez wojewodę.
+W przypadku niewykonania obowiązku, o którym mowa w ust. 1, wojewoda wydaje zarządzenie zastępcze, w którym nadaje nazwę zgodną z art. 1, w terminie 3 miesięcy od dnia, w którym upłynął termin, o którym mowa w ust. 1.
 
-**Art. 6b.** W przypadku nadania nazwy trybie zarządzenia zastępczego, 3 1 oraz 6 2, jej zmiana przez jednostkę samorządu 3 1 oraz 6 2, przysługuje jednostce samorządu terytorialnego albo związkowi, 4, jedynie przypadku, gdy brak możliwości wykonania obowiązku, 3 1 oraz 6 wynikał z przyczyn niezależnych od tej jednostki albo związku.
+### 3.
 
-**Art. 7.** Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia .
+Wydanie zarządzenia zastępczego, o którym mowa w ust. 2, wymaga opinii Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej w dniu wejścia w życie ustawy z art. 1. Wojewoda może także zasięgnąć opinii Rady Ochrony Pamięci Walk i Męczeństwa. Przepis art. 2 ust. 3 stosuje się odpowiednio.
 
+### 4.
+
+Przepisy art. 3 ust. 2 i 4 oraz art. 5 stosuje się odpowiednio.
+
+### Art. 7.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.

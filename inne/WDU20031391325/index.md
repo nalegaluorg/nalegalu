@@ -8,11 +8,9 @@ pos: 1325
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
 # Ustawa z dnia 27 czerwca 2003 r. o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz o zmianie niektórych ustaw
-
-*USTAWA dnia 27 czerwca 2003 zmianie poręczeniach gwarancjach udzielanych przez Skarb Państwa niekt(cid:243)re osoby prawne zmianie niekt(cid:243)rych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,114 @@ domain: null
 | Data ogłoszenia | 2003-06-27 |
 | Data wydania | 2003-08-08 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031391325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1325/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2003/1325/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2003/1325) |
 
-**Art. 1.** W ustawie dnia 8 maja 1997 poręczeniach gwarancjach udzielanych przez Skarb Państwa niekt(cid:243)re osoby prawne (Dz.U. 79, 484, p(cid:243)źn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 27 października 1994 autostradach płatnych (Dz.U. 2001 110, 1192, 2002 25, 253 2003 80, 721) 39e 2 otrzymuje brzmienie: (cid:132)2. Do gwarancji, kt(cid:243)rych mowa 1, nie stosuje się przepis(cid:243)w dnia 8 maja 1997 poręczeniach gwarancjach udzielanych przez Skarb Państwa niekt(cid:243)re osoby prawne (Dz.U.Nr 79, 484, 80, 511, 2000 48, 550, 60, 693 86, 958, 2001 16, 167 81, 876, 2002 25, 253, 121, 1032 1824 2003 83, 758 139,
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 29 listopada 2000 objęciu poręczeniami Skarbu Państwa spłaty niekt(cid:243)rych kredyt(cid:243)w mieszkaniowych (Dz.U. 122, 1310) 7 otrzymuje brzmienie: (cid:132)Art. 7. Do poręczeń udzielanych przez Skarb Państwa na podstawie nie mają zastosowania przepisy dnia 8 maja 1997 poręczeniach gwarancjach udzielanych przez Skarb Państwa niekt(cid:243)re osoby prawne (Dz.U.Nr 79, 484, 80, 511, 2000 48, 550, 60, 693 86, 958, 2001 16, 167 81, 876, 2002 25, 253, 121, 1032 1824 2003 83, 758 139, 1325), wyjątkiem 29, 31, 4444b, 46 47.(cid:148).
+W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 24 sierpnia 2001 restrukturyzacji hutnictwa żelaza stali (Dz.U. 111, 1196 2003 56, 495 90, 844) 13 7 otrzymuje brzmienie: (cid:132)7. Do poręczeń lub gwarancji, kt(cid:243)rych mowa 6, nie stosuje się przepis(cid:243)w dnia 8 maja 1997 poręczeniach gwarancjach udzielanych przez Skarb Państwa niekt(cid:243)re osoby prawne (Dz.U.Nr 79, 484, 80, 511, 2000 48, 550, 60, 693 86, 958, 2001 16, 167 81, 876, 2002 25, 253, 121, 1032 1824 2003 83, 758 139, 1325), wyjątkiem 1, 2b, 31, 4344b, 46 pkt 1 47.(cid:148).
+### 1)
 
-**Art. 5.** Rozporządzenie wydane na podstawie upoważnienia zmienionego 1 pkt 2 niniejszej zachowuje moc do czasu wydania nowego rozporządzenia, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie.
+po art. 42a dodaje się art. 42b w brzmieniu:
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
+„
 
+### Art. 42b.
+
+### 1.
+
+Do dnia 31 grudnia 2004 r. Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może udzielać, w imieniu Skarbu Państwa, poręczeń lub gwarancji spłaty części lub całości kredytów wraz z odsetkami oraz spełnienia przez emitenta świadczeń pieniężnych wynikających z wyemitowanych przez niego obligacji, jeżeli środki uzyskane z kredytu lub emisji obligacji zostaną przeznaczone na finansowanie:
+
+### 1)
+
+restrukturyzacji zatrudnienia w przedsiębiorstwach górniczych w rozumieniu ustawy z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych ([Dz. U. Nr 162, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/1998/1112/text.html), z [2001 r. Nr 5, poz. 41](https://api.sejm.gov.pl/eli/acts/DU/2001/41/text.html) i [Nr 154, poz. 1802](https://api.sejm.gov.pl/eli/acts/DU/2001/1802/text.html), z [2002 r. Nr 216, poz. 1826](https://api.sejm.gov.pl/eli/acts/DU/2002/1826/text.html) i [Nr 238, poz. 2020](https://api.sejm.gov.pl/eli/acts/DU/2002/2020/text.html) oraz z [2003 r. Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html)),
+
+### 2)
+
+likwidacji kopalni,
+
+### 3)
+
+usuwania szkód górniczych.
+
+### 2.
+
+Łączna kwota poręczeń i gwarancji, o których mowa w ust. 1, nie może przekroczyć 2 500 000 000 złotych, w tym suma kwot poręczonych lub gwarantowanych kredytów oraz kwot poręczonych lub gwarantowanych świadczeń pieniężnych, o których mowa w ust. 1, nie może przekroczyć 1 692 100 000 złotych.
+
+### 3.
+
+Poręczenia i gwarancje, o których mowa w ust. 1, są udzielane na wniosek kredytobiorcy lub emitenta obligacji.
+
+### 4.
+
+Do poręczeń i gwarancji, o których mowa w ust. 1, stosuje się przepisy rozdziału 1 i 1a oraz art. 5, art. 8, art. 17, art. 31, art. 43-44b, art. 45 pkt 1, art. 46 pkt 1 i art. 47, z zastrzeżeniem ust. 5 i 6.
+
+### 5.
+
+Poręczenia i gwarancje, o których mowa w ust. 1, zwalnia się z opłaty prowizyjnej.
+
+### 6.
+
+Poręczenia lub gwarancje mogą być udzielane na cele określone w ust. 1 także w przypadku, gdy z analizy, o której mowa w art. 2a ust. 1, wynika, że podmiot, którego zobowiązania mają zostać objęte poręczeniem lub gwarancją, nie uzyskałby takiego poręczenia lub gwarancji, zgodnie z art. 2a ust. 2.
+
+” ;
+
+### 2)
+
+w art. 43 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, warunki i tryb sprzedaży wierzytelności Skarbu Państwa z tytułu udzielonych poręczeń i gwarancji, zamiany tych wierzytelności na akcje (udziały), rozłożenia ich spłaty na raty oraz umorzenia wierzytelności w całości lub w części, z uwzględnieniem zróżnicowanej sytuacji finansowo-ekonomicznej dłużników, ich znaczenia dla gospodarki narodowej lub dla regionu kraju.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 27 października 1994 r. o autostradach płatnych ([Dz. U. z 2001 r. Nr 110, poz. 1192](https://api.sejm.gov.pl/eli/acts/DU/2001/1192/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html) oraz z [2003 r. Nr 80, poz. 721](https://api.sejm.gov.pl/eli/acts/DU/2003/721/text.html)) w art. 39e ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do gwarancji, o których mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html) i [Nr 80, poz. 511](https://api.sejm.gov.pl/eli/acts/DU/1997/511/text.html), z [2000 r. Nr 48, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2000/550/text.html), [Nr 60, poz. 693](https://api.sejm.gov.pl/eli/acts/DU/2000/693/text.html) i [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html), z [2001 r. Nr 16, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.html) i [Nr 81, poz. 876](https://api.sejm.gov.pl/eli/acts/DU/2001/876/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 121, poz. 1032](https://api.sejm.gov.pl/eli/acts/DU/2002/1032/text.html) i [Nr 216, poz. 1824](https://api.sejm.gov.pl/eli/acts/DU/2002/1824/text.html) oraz z [2003 r. Nr 83, poz. 758](https://api.sejm.gov.pl/eli/acts/DU/2003/758/text.html) i [Nr 139, poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2003/1325/text.html)), z wyjątkiem art. 2a, art. 2b, art. 31, art. 46 i art. 47.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 29 listopada 2000 r. o objęciu poręczeniami Skarbu Państwa spłaty niektórych kredytów mieszkaniowych ([Dz. U. Nr 122, poz. 1310](https://api.sejm.gov.pl/eli/acts/DU/2000/1310/text.html)) art. 7 otrzymuje brzmienie:
+
+„
+
+### Art. 7.
+
+Do poręczeń udzielanych przez Skarb Państwa na podstawie ustawy nie mają zastosowania przepisy ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html) i [Nr 80, poz. 511](https://api.sejm.gov.pl/eli/acts/DU/1997/511/text.html), z [2000 r. Nr 48, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2000/550/text.html), [Nr 60, poz. 693](https://api.sejm.gov.pl/eli/acts/DU/2000/693/text.html) i [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html), z [2001 r. Nr 16, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.html) i [Nr 81, poz. 876](https://api.sejm.gov.pl/eli/acts/DU/2001/876/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 121, poz. 1032](https://api.sejm.gov.pl/eli/acts/DU/2002/1032/text.html) i [Nr 216, poz. 1824](https://api.sejm.gov.pl/eli/acts/DU/2002/1824/text.html) oraz z [2003 r. Nr 83, poz. 758](https://api.sejm.gov.pl/eli/acts/DU/2003/758/text.html) i [Nr 139, poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2003/1325/text.html)), z wyjątkiem art. 29, art. 31, art. 44-44b, art. 46 i art. 47.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali ([Dz. U. Nr 111, poz. 1196](https://api.sejm.gov.pl/eli/acts/DU/2001/1196/text.html) oraz z [2003 r. Nr 56, poz. 495](https://api.sejm.gov.pl/eli/acts/DU/2003/495/text.html) i [Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html)) w art. 13 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Do poręczeń lub gwarancji, o których mowa w ust. 6, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html) i [Nr 80, poz. 511](https://api.sejm.gov.pl/eli/acts/DU/1997/511/text.html), z [2000 r. Nr 48, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2000/550/text.html), [Nr 60, poz. 693](https://api.sejm.gov.pl/eli/acts/DU/2000/693/text.html) i [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html), z [2001 r. Nr 16, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/2001/167/text.html) i [Nr 81, poz. 876](https://api.sejm.gov.pl/eli/acts/DU/2001/876/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 121, poz. 1032](https://api.sejm.gov.pl/eli/acts/DU/2002/1032/text.html) i [Nr 216, poz. 1824](https://api.sejm.gov.pl/eli/acts/DU/2002/1824/text.html) oraz z [2003 r. Nr 83, poz. 758](https://api.sejm.gov.pl/eli/acts/DU/2003/758/text.html) i [Nr 139, poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2003/1325/text.html)), z wyjątkiem art. 2a ust. 1, art. 2b, art. 31, art. 43-44b, art. 46 pkt 1 i art. 47.
+
+” .
+
+### Art. 5.
+
+Rozporządzenie wydane na podstawie upoważnienia zmienionego w art. 1 pkt 2 niniejszej ustawy zachowuje moc do czasu wydania nowego rozporządzenia, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia ustawy w życie.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 80, poz. 511, z 2000 r. Nr 48, poz. 550, Nr 60, poz. 693 i Nr 86, poz. 958, z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876, z 2002 r. Nr 25, poz. 253, Nr 121, poz. 1032 i Nr 216, poz. 1824 oraz z 2003 r. Nr 83, poz. 758.

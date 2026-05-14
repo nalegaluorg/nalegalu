@@ -8,11 +8,9 @@ pos: 1390
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o europejskim ugrupowaniu współpracy terytorialnej
-
-*USTAWA z dnia 7 listopada 2008 r.*
+# Ustawa z dnia 7 listopada 2008 r. o europejskim ugrupowaniu współpracy terytorialnej [1) Przepisy ustawy wykonują postanowienia rozporządzenia (WE) nr 1082/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. w sprawie europejskiego ugrupowania współpracy terytorialnej (EUWT) (Dz. Urz. UE L 210 z 31.07.2006, str. 19).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,141 +22,208 @@ domain: null
 | Data ogłoszenia | 2008-11-07 |
 | Data wydania | 2008-12-09 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082181390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1390/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/1390/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/1390) |
 
-**Art. 1.** Ustawa reguluje zasady tworzenia i funkcjonowania europejskich ugrupowań współpracy terytorialnej oraz zasady prowadzenia rejestru tych ugrupowań, celu wykonania postanowień rozporządzenia (WE) nr 1082/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. sprawie europejskiego ugrupowania współpracy terytorialnej (EUWT) (Dz. Urz. UE L 210 z 31.07.2006, str. 19, z późn. zm.), zwanego dalej „rozporządzeniem 1082/2006”.
+## Treść ustawy
 
-**Art. 2.** W rozumieniu ustawy określenie:
+### Art. 1.
 
-**Art. 3.** W sprawach nieuregulowanych rozporządzeniu 1082/2006 oraz ustawie do ugrupowania stosuje się odpowiednio przepisy o stowarzyszeniach.
+Ustawa reguluje zasady organizacji europejskiego ugrupowania współpracy terytorialnej w celu wykonania postanowień rozporządzenia (WE) nr 1082/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. w sprawie europejskiego ugrupowania współpracy terytorialnej (EUWT) ([Dz. Urz. UE L 210 z 31.07.2006, str. 19](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem 1082/2006”.
 
-**Art. 4.**
+### Art. 2.
 
-1. Uchwałę o przystąpieniu do ugrupowania Rzeczypospolitej Polskiej podejmuje Rada Ministrów. o której mowa art. 3 1 lit. a rozporządzenia 1082/2006, zgodę wyraża, drodze uchwały, Rada Ministrów.
+W rozumieniu ustawy określenie:
 
-4. W uchwale, o której mowa 1 albo 3, Rada Ministrów zatwierdza konwencję ugrupowania, do którego przystępuje Rzeczpospolita Polska albo organ administracji rządowej, jeżeli zatwierdzenie jest wymagane na podstawie art. 4 rozporządzenia 1082/2006.
+### 1)
 
-**Art. 5.**
+podmiot prawa publicznego - oznacza podmiot, o którym mowa w dyrektywie 2004/18/WE Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie koordynacji procedur udzielania zamówień publicznych na roboty budowlane, dostawy i usługi ([Dz. Urz. UE L 134 z 30.04.2004, str. 114](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 6, t. 7, str. 132](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
 
-1. Uchwałę o przystąpieniu do ugrupowania jednostki samorządu terytorialnego podejmuje organ stanowiący tej jednostki bezwzględną większością głosów ustawowego składu.
+### 2)
 
-2. Uchwała o przystąpieniu do ugrupowania jednostki samorządu terytorialnego oraz decyzja o przystąpieniu do ugrupowania podmiotu prawa publicznego wchodzą życie po uzyskaniu zgody, o której mowa art. 6 1.
+ugrupowanie - oznacza europejskie ugrupowanie współpracy terytorialnej, o którym mowa w rozporządzeniu 1082/2006.
 
-**Art. 6.**
+### Art. 3.
 
-1. Na przystąpienie do ugrupowania jednostki samorządu terytorialnego, podmiotu prawa publicznego, przedsiębiorstwa publicznego albo przedsiębiorstwa, o którym mowa art. 3 1 lit. e rozporządzenia 1082/2006, zgodę wyraża, drodze decyzji, minister właściwy do spraw zagranicznych uzgodnieniu z ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw rozwoju regionalnego. Decyzja zawiera również rozstrzygnięcie sprawie zatwierdzenia konwencji ugrupowania, jeżeli zatwierdzenie jest wymagane na podstawie art. 4 rozporządzenia 1082/2006.
+W sprawach nieuregulowanych w rozporządzeniu 1082/2006 oraz w ustawie do ugrupowania stosuje się odpowiednio przepisy o stowarzyszeniach.
 
-2. Organ, do którego minister właściwy do spraw zagranicznych wystąpił o uzgodnienie decyzji, o której mowa 1, zajmuje stanowisko terminie 21 dni od dnia otrzymania tego wystąpienia. Niezajęcie stanowiska terminie uznaje się za uzgodnienie decyzji, o której mowa 1.
+### Art. 4.
 
-3. Minister właściwy do spraw zagranicznych może wystąpić do ministra innego niż wymieniony 1 o wyrażenie opinii sprawie zgody na przystąpienie do ugrupowania lub zatwierdzenia jego konwencji, jeżeli jest to uzasadnione charakterem przystąpienie do ugrupowania i zatwierdzenie jego konwencji, jeżeli zatwierdzenie jest wymagane na podstawie art. 4 rozporządzenia 1082/2006.
+### 1.
 
-5. W przypadku, o którym mowa 4, postępowanie sprawie wydania decyzji, o której mowa 1, podlega umorzeniu.
+Uchwałę o przystąpieniu do ugrupowania Rzeczypospolitej Polskiej podejmuje Rada Ministrów.
 
-6. Przepisów 4 i 5 nie stosuje się, jeżeli wniosek dotyczy tworzącego się ugrupowania, którego siedziba statutowa ma znajdować się na terytorium Rzeczypospolitej Polskiej.
+### 2.
 
-7. W postępowaniu sprawie wydania decyzji, o której mowa 1, do dokumentów sporządzonych języku obcym załącza się ich poświadczone tłumaczenie na język polski.
+Rada Ministrów w uchwale, o której mowa w ust. 1, wskazuje ministra właściwego, na podstawie ustawy z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2007 r. Nr 65, poz. 437](https://api.sejm.gov.pl/eli/acts/DU/2007/437/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218 oraz z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 216, poz. 1370.](#gloss-0:2:)), do reprezentowania Rzeczypospolitej Polskiej w ugrupowaniu, do którego Rzeczpospolita Polska przystąpiła.
 
-**Art. 7.**
+### Art. 5.
 
-1. Tworzy się Rejestr Europejskich Ugrupowań Współpracy Terytorialnej, zwany dalej „rejestrem”.
+### 1.
 
-2. Rejestr jest prowadzony przez ministra właściwego do spraw zagranicznych postaci elektronicznej.
+Uchwałę o przystąpieniu do ugrupowania jednostki samorządu terytorialnego podejmuje organ stanowiący tej jednostki bezwzględną większością głosów ustawowego składu.
 
-3. Rejestr jest jawny.
+### 2.
 
-**Art. 8.**
+Uchwała o przystąpieniu do ugrupowania jednostki samorządu terytorialnego oraz decyzja o przystąpieniu do ugrupowania podmiotu prawa publicznego wchodzą w życie po uzyskaniu zgody, o której mowa w art. 6 ust. 1.
 
-1. Ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej podlega wpisowi do rejestru.
+### Art. 6.
 
-2. Ugrupowanie nabywa osobowość prawną z dniem wpisania do rejestru.
+### 1.
 
-**Art. 9.**
+Na przystąpienie do ugrupowania jednostki samorządu terytorialnego lub podmiotu prawa publicznego zgodę wyraża, w drodze decyzji, minister właściwy do spraw zagranicznych w uzgodnieniu z ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw rozwoju regionalnego, w terminie 3 miesięcy od dnia otrzymania uchwały lub decyzji, o których mowa w art. 5 ust. 2.
 
-1. Zgłoszenia ugrupowania do rejestru dokonuje osoba upoważniona przez członków ugrupowania do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru.
+### 2.
 
-2. Do zgłoszenia, o którym mowa 1, dołącza się:
+W przypadku przesłania wraz z uchwałą lub decyzją, o których mowa w art. 5 ust. 2, dokumentów sporządzonych w języku obcym, załącza się ich poświadczone tłumaczenie na język polski.
 
-- **1)** konwencję i statut ugrupowania;
-- **2)** uchwały albo decyzje członków ugrupowania o przyjęciu statutu;
-- **3)** upoważnienia do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru;
-- **4)** zgody na przystąpienie każdego z członków do ugrupowania wydane zgodnie z art. 4 3 rozporządzenia 1082/2006; upoważnioną do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru do usunięcia braków terminie 14 dni od dnia otrzymania wezwania z pouczeniem, że nieusunięcie braków terminie będzie skutkowało odmową wpisu do rejestru.
+### Art. 7.
 
-**Art. 9a.**
+### 1.
 
-1. W rejestrze zamieszcza się:
+Tworzy się Rejestr Europejskich Ugrupowań Współpracy Terytorialnej, zwany dalej „rejestrem”.
 
-- **1)** datę wpisu ugrupowania do rejestru oraz datę i numer decyzji o wpisie;
-- **2)** nazwę ugrupowania, adres siedziby statutowej oraz numer identyfikacyjny REGON;
-- **3)** dane dotyczące struktury organizacyjnej ugrupowania;
-- **4)** wykaz członków ugrupowania oraz daty ich przystąpienia i wystąpienia z ugrupowania;
-- **5)** cel i zadania ugrupowania;
-- **6)** informacje dotyczące ogłoszenia konwencji i statutu ugrupowania oraz ich zmian;
-- **7)** imiona i nazwiska osób uprawnionych do reprezentowania ugrupowania oraz ich funkcje ugrupowaniu;
-- **8)** okres, na jaki utworzono ugrupowanie;
-- **9)** informacje o rozwiązaniu ugrupowania i jego likwidacji;
-- **10)** informację o wykreśleniu ugrupowania z rejestru.
+### 2.
 
-2. Wszelkie zmiany danych podlegających wpisowi do rejestru zgłasza się ministrowi właściwemu do spraw zagranicznych terminie 21 dni od dnia ich zaistnienia, załączając dokumenty potwierdzające te zmiany.
+Rejestr jest prowadzony przez ministra właściwego do spraw zagranicznych.
 
-3. Jeżeli informacje i dane podlegające wpisowi do rejestru są znane z urzędu, minister właściwy do spraw zagranicznych może dokonać wpisu rejestrze bez zgłoszenia, o którym mowa 2.
+### Art. 8.
 
-4. Informację o osobach uprawnionych do reprezentowania ugrupowania zgłasza się ministrowi właściwemu do spraw zagranicznych niezwłocznie po uzyskaniu przez nie uprawnienia wraz z dokumentami potwierdzającymi to uprawnienie. rejestrze, wykreślenia z rejestru lub odmowy dokonania wpisu do rejestru, a także inne dokumenty, jeżeli były składane.
+### 1.
 
-2. Minister właściwy do spraw zagranicznych określi, drodze rozporządzenia, szczegółowość informacji i danych, o których mowa art. 9a 1, zamieszczanych rejestrze, uwzględniając konieczność zapewnienia kompletności, aktualności i przejrzystości danych wpisanych do rejestru.
+Ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej podlega wpisowi do rejestru.
 
-**Art. 11.** Wpis do rejestru, odmowa wpisu do rejestru, zmiany rejestrze oraz wykreślenie ugrupowania z rejestru następują drodze decyzji.
+### 2.
 
-**Art. 12.**
+Ugrupowanie nabywa osobowość prawną z dniem wpisania do rejestru.
 
-1. Ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej informuje ministra właściwego do spraw zagranicznych o zmianie swojej konwencji lub statutu terminie 21 dni od dnia jej przyjęcia.
+### Art. 9.
 
-2. W przypadku gdy zmiana konwencji ugrupowania mającego siedzibę statutową na terytorium Rzeczypospolitej Polskiej wymaga zatwierdzenia, o którym mowa art. 4 6 zdanie drugie rozporządzenia 1082/2006, a członkiem ugrupowania jest:
+### 1.
 
-- **1)** Rzeczpospolita Polska albo organ administracji rządowej – zatwierdzenia dokonuje, drodze uchwały, Rada Ministrów;
-- **2)** podmiot, który przystąpił do ugrupowania za zgodą, o której mowa art. 6 – zatwierdzenia dokonuje, drodze decyzji, na wniosek tego podmiotu, minister właściwy do spraw zagranicznych uzgodnieniu z ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw rozwoju regionalnego.
+Zgłoszenia ugrupowania do rejestru dokonuje osoba upoważniona przez członków ugrupowania do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru.
 
-3. Do zatwierdzenia, o którym mowa 2 pkt 2, stosuje się odpowiednio przepisy art. 6 2–5 i 7.
+### 2.
 
-**Art. 13.** Konwencja i statut ugrupowania mającego siedzibę statutową na terytorium Rzeczypospolitej Polskiej oraz ich zmiany podlegają nieodpłatnemu ogłoszeniu Monitorze Sądowym i Gospodarczym. Ogłoszenia dokonuje minister właściwy do spraw zagranicznych. informują ministra właściwego do spraw zagranicznych o:
+Do zgłoszenia, o którym mowa w ust. 1, dołącza się:
 
-**Art. 16.** Bez finansowego wkładu ze strony Unii Europejskiej ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej może wykonywać działania jedynie zakresie określonym art. 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1299/2013 z dnia 17 grudnia 2013 r. sprawie przepisów szczegółowych dotyczących wsparcia z Europejskiego Funduszu Rozwoju Regionalnego ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 347 z 20.12.2013, str. 259).
+### 1)
 
-**Art. 17.** Kontrola zarządzania środkami publicznymi ugrupowania jest wykonywana na podstawie odrębnych przepisów.
+konwencję i statut ugrupowania;
 
-**Art. 19.**
+### 2)
 
-1. Skarb Państwa nie ponosi odpowiedzialności za zobowiązania ugrupowania, którego członkiem jest Rzeczpospolita Polska.
+uchwały albo decyzje członków ugrupowania o przyjęciu statutu;
 
-2. Jednostki samorządu terytorialnego, państwowe osoby prawne oraz samorządowe osoby prawne nie ponoszą odpowiedzialności za zobowiązania ugrupowania, którego są członkiem.
+### 3)
 
-**Art. 20.** Organem nadzorującym ugrupowania mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej oraz udział ugrupowaniach mających siedzibę statutową poza terytorium Rzeczypospolitej Polskiej ich członków działających na podstawie prawa polskiego jest minister właściwy do spraw zagranicznych.
+upoważnienia do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru;
 
-**Art. 21.**
+### 4)
 
-1. W przypadku prowadzenia przez ugrupowanie działalności, o której mowa art. 13 rozporządzenia 1082/2006, organ nadzorujący, po zasięgnięciu opinii ministra właściwego ze względu na charakter tej działalności, wzywa:
+zgody na przystąpienie każdego z członków do ugrupowania wydane zgodnie z art. 4 ust. 3 rozporządzenia 1082/2006.
 
-- **1)** ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej – do zaprzestania prowadzenia tej działalności,
-- **2)** organ administracji rządowej upoważniony do reprezentowania Rzeczypospolitej Polskiej ugrupowaniu mającym siedzibę statutową poza terytorium Rzeczypospolitej Polskiej albo będący członkiem takiego ugrupowania – do podjęcia działań skutkujących zaprzestaniem prowadzenia tej działalności przez ugrupowanie,
-- **3)** członka ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej, który przystąpił do ugrupowania za zgodą, o której mowa art. 6 – do podjęcia działań skutkujących zaprzestaniem prowadzenia tej działalności przez ugrupowanie albo, gdy zaprzestanie prowadzenia takiej działalności nie jest możliwe – do wystąpienia z ugrupowania – terminie wyznaczonym wezwaniu, informując o skutkach niezastosowania się do wezwania.
+### 3.
 
-2. W wyznaczonym terminie wezwany podmiot może przedstawić wyjaśnienia dotyczące działalności prowadzonej przez ugrupowanie lub wystąpić o przedłużenie 1082/2006, organ nadzorujący:
+Jeżeli zgłoszenie, o którym mowa w ust. 1, nie czyni zadość wymaganiom określonym w ust. 1 lub 2, minister właściwy do spraw zagranicznych wzywa osobę upoważnioną do dokonywania czynności związanych z wpisaniem ugrupowania do rejestru do usunięcia braków w terminie 14 dni od dnia otrzymania wezwania z pouczeniem, że nieusunięcie braków w terminie będzie skutkowało odmową wpisu do rejestru.
 
-- **1)** wykreśla ugrupowanie z rejestru i wyznacza likwidatora ugrupowania;
-- **2)** występuje do Rady Ministrów z wnioskiem o podjęcie uchwały sprawie wystąpienia Rzeczypospolitej Polskiej z ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej albo sprawie cofnięcia zgody na przystąpienie do takiego ugrupowania organu administracji rządowej;
-- **3)** cofa, drodze decyzji, zgodę na przystąpienie do ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej, o której mowa art. 6.
+### Art. 10.
 
-4. Wykreślenie, o którym mowa 3 pkt 1, wymaga:
+### 1.
 
-- **1)** zgody Rady Ministrów, wyrażonej drodze uchwały, na wniosek ministra właściwego do spraw zagranicznych – przypadku gdy członkiem ugrupowania jest Rzeczpospolita Polska albo organ administracji rządowej;
-- **2)** zasięgnięcia opinii ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego – przypadku gdy członkiem ugrupowania jest podmiot, który przystąpił do niego za zgodą, o której mowa art. 6.
+Jeżeli dokumenty złożone do rejestru są sporządzone w języku obcym, dołącza się ich poświadczone tłumaczenie na język polski.
 
-5. Cofnięcie zgody, o którym mowa 3 pkt 3, wymaga zasięgnięcia opinii ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw rozwoju regionalnego.
+### 2.
 
-**Art. 21a.**
+Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia, sposób prowadzenia rejestru oraz sposób dokonywania zmian wpisów w rejestrze i wykreśleń z rejestru, uwzględniając dokumenty niezbędne do dokonania tych czynności oraz dane podlegające wpisaniu.
 
-1. W przypadku wystąpienia do organu nadzorującego z wnioskiem o wydanie nakazu, o którym mowa art. 14 rozporządzenia 1082/2006, organ nadzorujący, terminie dwóch miesięcy od dnia otrzymania wniosku, wzywa ugrupowanie do podjęcia określonych działań naprawczych terminie wyznaczonym wezwaniu, informując o skutkach niezastosowania się do wezwania, albo informuje wnioskodawcę o braku podstaw do dokonania takiego wezwania.
+### Art. 11.
 
-2. W przypadku niepodjęcia przez ugrupowanie działań naprawczych wyznaczonym terminie organ nadzorujący wykreśla ugrupowanie z rejestru i
+Wpis do rejestru, odmowa wpisu do rejestru, zmiany w rejestrze oraz wykreślenie ugrupowania z rejestru następują w drodze decyzji.
 
-**Art. 23.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia
+### Art. 12.
 
+Statut ugrupowania określa zasady likwidacji ugrupowania w przypadku:
+
+### 1)
+
+rozwiązania ugrupowania w wyniku uchwały jego członków;
+
+### 2)
+
+wykreślenia ugrupowania mającego siedzibę statutową na terytorium Rzeczypospolitej Polskiej z rejestru ze względu na prowadzenie przez ugrupowanie działalności, o której mowa w art. 13 rozporządzenia 1082/2006;
+
+### 3)
+
+wykreślenia ugrupowania z rejestru z przyczyn określonych w art. 14 ust. 1 rozporządzenia 1082/2006.
+
+### Art. 13.
+
+Konwencja i statut ugrupowania oraz ich zmiany podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski B”. Ogłoszenia dokonuje minister właściwy do spraw zagranicznych.
+
+### Art. 14.
+
+Wystąpienie członka z ugrupowania lub rozwiązanie ugrupowania w wyniku uchwały jego członków zgłasza do rejestru dyrektor ugrupowania.
+
+### Art. 15.
+
+Członkowie ugrupowania mającego siedzibę statutową poza terytorium Rzeczypospolitej Polskiej, działający na podstawie prawa polskiego, informują ministra właściwego do spraw zagranicznych o konwencji oraz o rejestracji i opublikowaniu statutu tego ugrupowania.
+
+### Art. 16.
+
+Bez finansowego wkładu ze strony Wspólnoty Europejskiej ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej może wykonywać działania jedynie w zakresie określonym w art. 6 rozporządzenia (WE) nr 1080/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i uchylające rozporządzenie (WE) nr 1783/1999 ([Dz. Urz. UE L 210 z 31.07.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### Art. 17.
+
+Kontrola zarządzania środkami publicznymi ugrupowania jest wykonywana na podstawie odrębnych przepisów.
+
+### Art. 18.
+
+### 1.
+
+Ugrupowanie prowadzi rachunkowość na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2002 r. Nr 76, poz. 694](https://api.sejm.gov.pl/eli/acts/DU/2002/694/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056 i Nr 214, poz. 1343.](#gloss-0:3:)).
+
+### 2.
+
+Sprawozdanie finansowe ugrupowania podlega badaniu, a także ogłoszeniu, zgodnie z art. 70 ustawy, o której mowa w ust. 1.
+
+### Art. 19.
+
+### 1.
+
+Skarb Państwa nie ponosi odpowiedzialności za zobowiązania ugrupowania, którego członkiem jest Rzeczpospolita Polska.
+
+### 2.
+
+Jednostki samorządu terytorialnego, państwowe osoby prawne oraz samorządowe osoby prawne nie ponoszą odpowiedzialności za zobowiązania ugrupowania, którego są członkiem.
+
+### Art. 20.
+
+Organem nadzorującym ugrupowania jest minister właściwy do spraw zagranicznych.
+
+### Art. 21.
+
+### 1.
+
+W przypadku prowadzenia przez ugrupowanie mające siedzibę statutową na terytorium Rzeczypospolitej Polskiej działalności, o której mowa w art. 13 rozporządzenia 1082/2006, organ nadzorujący wykreśla ugrupowanie z rejestru.
+
+### 2.
+
+W przypadku prowadzenia przez ugrupowanie mające siedzibę statutową poza terytorium Rzeczypospolitej Polskiej działalności, o której mowa w art. 13 rozporządzenia 1082/2006, organ nadzorujący uchyla decyzję, o której mowa w art. 6 ust. 1, wydaną w stosunku do członka tego ugrupowania.
+
+### 3.
+
+W przypadkach, o których mowa w art. 14 ust. 1 rozporządzenia 1082/2006, organ nadzorujący wykreśla ugrupowanie z rejestru.
+
+### 4.
+
+W przypadkach, o których mowa w ust. 1 i 3, organ nadzorujący wyznacza likwidatora ugrupowania.
+
+### Art. 22.
+
+W przypadkach, o których mowa w art. 12 pkt 1 i art. 21 ust. 1 i 3, likwidator ugrupowania zawiadamia organ nadzorujący o wszczęciu likwidacji ugrupowania.
+
+### Art. 23.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Przepisy ustawy wykonują postanowienia rozporządzenia (WE) nr 1082/2006 Parlamentu Europejskiego i Rady z dnia 5 lipca 2006 r. w sprawie europejskiego ugrupowania współpracy terytorialnej (EUWT) (Dz. Urz. UE L 210 z 31.07.2006, str. 19). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 107, poz. 732, Nr 120, poz. 818 i Nr 173, poz. 1218 oraz z 2008 r. Nr 63, poz. 394, Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 216, poz. 1370. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 60, poz. 535, Nr 124, poz. 1152, Nr 139, poz. 1324 i Nr 229, poz. 2276, z 2004 r. Nr 96, poz. 959, Nr 145, poz. 1535, Nr 146, poz. 1546 i Nr 213, poz. 2155, z 2005 r. Nr 10, poz. 66, Nr 184, poz. 1539 i Nr 267, poz. 2252, z 2006 r. Nr 157, poz. 1119 i Nr 208, poz. 1540 oraz z 2008 r. Nr 63, poz. 393, Nr 144, poz. 900, Nr 171, poz. 1056 i Nr 214, poz. 1343.

@@ -8,11 +8,9 @@ pos: 889
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 16 kwietnia 2004 r. o zmianie ustawy - kodeks karny oraz niektórych innych ustaw
-
-*USTAWA dnia 16 kwietnia 2004 o zmianie - Kodeks karny niektórych innych ustaw*
+# Ustawa z dnia 16 kwietnia 2004 r. o zmianie ustawy - Kodeks karny oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,67 +22,350 @@ domain: null
 | Data ogłoszenia | 2004-04-16 |
 | Data wydania | 2004-04-30 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040930889) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/889/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/889/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/889) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 - Kodeks karny (Dz.U. 88, 553, późn. zm. ) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 589c.**
+### Art. 1.
 
-§ 1. Zespół, w ramach którego współpraca odbywa na terytorium Rzeczypospolitej Polskiej, zwany dalej „zespołem polskim”, można powołać w szczególności, gdy: niono, że sprawca działał lub następstwa jego czynu wystąpiły na terytorium innego państwa zachodzi potrzeba wykonania czynności śledztwa na terytorium tego państwa lub udziałem jego organu,
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255 oraz z 2004 r. Nr 25, poz. 219 i Nr 69, poz. 626.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-- **2)** prowadzone na terytorium Rzeczypospolitej Polskiej postępowanie przygotowawcze pozostaje w związku przedmiotowym lub podmiotowym postępowaniem przygotowawczym o przestępstwo wymienione w pkt 1, prowadzonym na terytorium innego państwa zachodzi potrzeba wykonania większości czynności śledztwa w obu postępowaniach na terytorium Rzeczypospolitej Polskiej.
+### 1)
 
-§ 2. Pracami zespołu polskiego kieruje polski prokurator.
+art. 65 otrzymuje brzmienie:
 
-§ 3. W skład zespołu polskiego mogą wchodzić inni polscy prokuratorzy przedstawiciele innych organów uprawnionych do prowadzenia śledztwa funkcjonariusze właściwych organów państwa współpracującego, zwani dalej „funkcjonariuszami delegowanymi”.
+„
 
-§ 4. Do czynności w postępowaniu przygotowawczym wykonywanych w ramach zespołu polskiego stosuje przepisy prawa krajowego, zastrzeżeniem § 5-8 art. 589e.
+### Art. 65.
 
-§ 5. Funkcjonariusze delegowani mogą być obecni przy wszystkich czynnościach procesowych wykonywanych w ramach zespołu polskiego, chyba że w szczególnym wypadku, uzasadnionym potrzebą ochrony ważnego interesu Rzeczypospolitej Polskiej lub praw jednostki, osoba kierująca tym zespołem zarządzi inaczej.
+### § 1.
 
-§ 6. Za zgodą stron porozumienia o utworzeniu zespołu polskiego osoba kierująca tym zespołem może powierzyć funkcjonariuszowi delegowanemu wykonanie określonej czynności śledztwa, wyłączeniem wydawania postanowień przewidzianych w niniejszym kodeksie. W takim wypadku w czynności uczestniczy polski członek zespołu sporządza niej protokół.
+Przepisy dotyczące wymiaru kary, środków karnych oraz środków związanych z poddaniem sprawcy próbie, przewidziane wobec sprawcy określonego w art. 64 § 2, stosuje się także do sprawcy, który z popełnienia przestępstwa uczynił sobie stałe źródło dochodu lub popełnia przestępstwo działając w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa oraz wobec sprawcy przestępstwa o charakterze terrorystycznym.
 
-§ 7. Jeżeli zachodzi potrzeba wykonania czynności śledztwa na terytorium państwa współpracującego, wnioskiem o pomoc prawną zwraca do właściwej instytucji lub organu funkcjonariusz delegowany przez to państwo. Do sporzą dzonych w wykonaniu tego wniosku protokołów stosuje odpowiednio przepis art. 587.
+### § 2.
 
-§ 8. W granicach określonych w porozumieniu o powołaniu zespołu polskiego przedstawicielowi instytucji międzynarodowej, o którym mowa w art. 589b § 4, przysługują uprawnienia określone wiednio Prokurator Generalny albo inny właściwy organ.
+Do sprawcy przestępstwa z art. 258 mają odpowiednie zastosowanie przepisy dotyczące sprawcy określonego w art. 64 § 2, z wyjątkiem przewidzianego w tym przepisie zaostrzenia kary.
 
-§ 2. Członkowi zespołu, o którym mowa w § 1, będącemu polskim prokuratorem przysługują uprawnienia prokuratora państwa obcego określone w art. 588 § 1. Przepisu art. 613 § 1 nie stosuje się.
+” ;
 
-§ 3. Instytucje organy Rzeczypospolitej Polskiej, inne niż prokurator, o którym mowa w § 2, udzielają niezbędnej pomocy polskiemu członkowi zespołu, o którym mowa w § 1, w granicach zastosowaniem przepisów prawa krajowego.
+### 2)
 
-**Art. 589e.**
+art. 110 otrzymuje brzmienie:
 
-§ 1. Informacje uzyskane przez członka zespołu w związku udziałem w pracach zespołu, niedostępne w innym trybie dla państwa, które go delegowało, mogą być wykorzystane przez właściwy organ tego państwa także w celu:
+„
 
-- **1)** przeprowadzenia postępowania karnego we własnym zakresie - za zgodą państwa współpracującego, którego instytucja lub organ udzieliły informacji,
-- **2)** zapobiegnięcia bezpośredniemu, poważnemu zagrożeniu dla bezpieczeństwa publicznego,
-- **3)** innym niż wymienione w pkt 1 2, jeżeli tak stanowi porozumienie o powołaniu zespołu.
+### Art. 110.
 
-§ 2. Zgoda, o której mowa w § 1 pkt 1, może być cofnięta wyłącznie wtedy, gdy wykorzystanie informacji mogłoby zagrażać dobru postępowania przygotowawczego prowadzonego w państwie współpracującym, którego instytucja lub organ udzieliły informacji, w wypadku, w którym państwo to mogłoby odmówić wzajemnej pomocy.
+### § 1.
 
-**Art. 589f.**
+Ustawę karną polską stosuje się do cudzoziemca, który popełnił za granicą czyn zabroniony skierowany przeciwko interesom Rzeczypospolitej Polskiej, obywatela polskiego, polskiej osoby prawnej lub polskiej jednostki organizacyjnej niemającej osobowości prawnej oraz do cudzoziemca, który popełnił za granicą przestępstwo o charakterze terrorystycznym.
 
-§ 1. Za szkodę wyrządzoną przez członka zespołu w związku wykonywanymi czynnościami odpowiada państwo, które go delegowało, na zasadach określonych w przepisach państwa, na którego terytorium odbywała współpraca zespołu.
+### § 2.
 
-§ 2. Jeżeli szkoda wyrządzona innej osobie jest następstwem działania lub zaniechania członka zespołu delegowanego przez inne państwo współpracujące, kwotę pieniężną stanowiącą równowartość odszkodowania tymczasowo wypłaca poszkodowanemu właściwy organ państwa, na którego terytorium odbywała współpraca zespołu.
+Ustawę karną polską stosuje się w razie popełnienia przez cudzoziemca za granicą czynu zabronionego innego niż wymieniony w § 1, jeżeli czyn zabroniony jest w ustawie karnej polskiej zagrożony karą przekraczającą 2 lata pozbawienia wolności, a sprawca przebywa na terytorium Rzeczypospolitej Polskiej i nie postanowiono go wydać.
 
-§ 3. W wypadku określonym w § 2 wypłacona kwota pieniężna podlega zwrotowi organowi, który ją tymczasowo wypłacił, na jego wniosek.”.
+” ;
 
-- **1)** w art. 11 § 1 otrzymuje brzmienie: „§ 1. Sąd, kierując orzeczenie do wykonania, przesyła jego odpis lub wyciąg, ze wzmianką o wykonalności, a w wypadku orzeczenia prawomocnego - datą jego uprawomocnienia się, odpowiedniemu organowi powołanemu do wykonywania orzeczenia. Sąd przesyła dyrektorowi zakładu karnego lub aresztu śledczego orzeczenie wraz uzasadnieniem, jeżeli zostało sporządzone nie zawiera informacji niejawnych stanowiących tajemnicę państwową, dane zawierające imię, nazwisko adres pokrzywdzonego.”;
-- **2)** w Rozdziale X dodaje Oddział 13 w brzmieniu: „Oddział 13 Informowanie pokrzywdzonego o opuszczeniu przez skazanego zakładu karnego
+### 3)
 
-**Art. 168a.**
+w art. 115 dodaje się § 20 w brzmieniu:
 
-§ 1. Na wniosek pokrzywdzonego, odpowiednio, sędzia penitencjarny lub dyrektor zakładu karnego niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, o zwolnieniu skazanego zakładu karnego po odbyciu kary, o ucieczce skazanego zakładu karnego, a także o wydaniu decyzji o udzieleniu skazanemu:
+„
 
-- **1)** przepustki, o której mowa w art. 91 pkt 7 w art. 92 pkt 9,
-- **2)** czasowego zezwolenia na opuszczenie zakładu karnego bez dozoru lub bez konwoju funkcjonariusza Służby Więziennej albo asysty innej osoby godnej zaufania, o którym mowa w art. 138 § 1 pkt 7 lub 8, art. 141a § 1 art. 165 § 2,
-- **3)** przerwy w wykonaniu kary,
-- **4)** warunkowego zwolnienia.
+### § 20.
 
-§ 2. O prawie do złożenia wniosku, o którym mowa w § 1, poucza pokrzywdzonego sąd, kierując orzeczenie do wykonania.”.
+Przestępstwem o charakterze terrorystycznym jest czyn zabroniony zagrożony karą pozbawienia wolności, której górna granica wynosi co najmniej 5 lat, popełniony w celu:
 
-**Art. 4.** W ustawie dnia 28 października 2002 o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz.U. 197, 1661) wprowadza następujące zmiany:
+### 1)
 
-**Art. 5.** Ustawa wchodzi w życie dniem 1 maja 2004
+poważnego zastraszenia wielu osób,
 
+### 2)
+
+zmuszenia organu władzy publicznej Rzeczypospolitej Polskiej lub innego państwa albo organu organizacji międzynarodowej do podjęcia lub zaniechania określonych czynności,
+
+### 3)
+
+wywołania poważnych zakłóceń w ustroju lub gospodarce Rzeczypospolitej Polskiej, innego państwa lub organizacji międzynarodowej - a także groźba popełnienia takiego czynu.
+
+” ;
+
+### 4)
+
+art. 258 otrzymuje brzmienie:
+
+„
+
+Art. 258 § 1. Kto bierze udział w zorganizowanej grupie albo związku mających na celu popełnienie przestępstwa lub przestępstwa skarbowego, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+### § 2.
+
+Jeżeli grupa albo związek określone w § 1 mają charakter zbrojny albo mają na celu popełnienie przestępstwa o charakterze terrorystycznym, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+### § 3.
+
+Kto grupę albo związek określone w § 1 w tym mające charakter zbrojny zakłada lub taką grupą albo związkiem kieruje, podlega karze pozbawienia wolności od roku do lat 10.
+
+### § 4.
+
+Kto grupę albo związek mające na celu popełnienie przestępstwa o charakterze terrorystycznym zakłada lub taką grupą lub związkiem kieruje, podlega karze pozbawienia wolności na czas nie krótszy od lat 3.
+
+” ;
+
+### 5)
+
+w art. 264 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Kto organizuje innym osobom przekraczanie wbrew przepisom granicy Rzeczypospolitej Polskiej, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+” ;
+
+### 6)
+
+po art. 264 dodaje się art. 264a w brzmieniu:
+
+„
+
+### Art. 264a.
+
+### § 1.
+
+Kto, w celu osiągnięcia korzyści majątkowej lub osobistej, umożliwia lub ułatwia innej osobie pobyt na terytorium Rzeczypospolitej Polskiej wbrew przepisom, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+### § 2.
+
+W wyjątkowych wypadkach, gdy sprawca nie osiągnął korzyści majątkowej, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188 oraz z 2004 r. Nr 51, poz. 514 i Nr 69, poz. 626.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 253 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Sąd lub prokurator niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, o uchyleniu, nieprzedłużeniu lub zmianie tymczasowego aresztowania na inny środek zapobiegawczy, chyba że pokrzywdzony oświadczy, iż z takiego uprawnienia rezygnuje.
+
+” ;
+
+### 2)
+
+w rozdziale 62 po art. 589a dodaje się art. 589b-589f w brzmieniu:
+
+„
+
+### Art. 589b.
+
+### § 1.
+
+Pomoc prawna w postępowaniu przygotowawczym między polskimi organami uprawnionymi do prowadzenia tego postępowania oraz właściwymi organami państwa członkowskiego Unii Europejskiej lub innego państwa, jeżeli pozwala na to umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, albo na zasadach wzajemności, może także polegać na wykonywaniu czynności śledztwa w ramach wspólnego zespołu śledczego, zwanego dalej „zespołem”.
+
+### § 2.
+
+Zespół powołują, w drodze porozumienia, Prokurator Generalny oraz właściwy organ państwa, o którym mowa w § 1, zwanego dalej „państwem współpracującym”, na potrzeby określonego postępowania przygotowawczego, na czas oznaczony.
+
+### § 3.
+
+Porozumienie o powołaniu zespołu powinno określać:
+
+### 1)
+
+przedmiot, cel, miejsce i okres współpracy,
+
+### 2)
+
+skład zespołu, ze wskazaniem osoby kierującej,
+
+### 3)
+
+zadania poszczególnych członków zespołu.
+
+### § 4.
+
+W porozumieniu o powołaniu zespołu można zastrzec możliwość dopuszczenia do prac w zespole, w określonych warunkach, przedstawiciela instytucji międzynarodowej powołanej do zwalczania przestępczości.
+
+### § 5.
+
+Okres współpracy w ramach zespołu, wskazany w porozumieniu o powołaniu zespołu, może być przedłużony na dalszy czas oznaczony, niezbędny do osiągnięcia celu tej współpracy; przedłużenie wymaga zgody wszystkich stron porozumienia.
+
+### Art. 589c.
+
+### § 1.
+
+Zespół, w ramach którego współpraca odbywa się na terytorium Rzeczypospolitej Polskiej, zwany dalej „zespołem polskim”, można powołać w szczególności, gdy:
+
+### 1)
+
+w toku prowadzonego na terytorium Rzeczypospolitej Polskiej postępowania przygotowawczego w sprawie o przestępstwo o charakterze terrorystycznym, handlu ludźmi, obrotu środkami odurzającymi, substancjami psychotropowymi lub ich prekursorami albo o inne ciężkie przestępstwo ujawniono, że sprawca działał lub następstwa jego czynu wystąpiły na terytorium innego państwa i zachodzi potrzeba wykonania czynności śledztwa na terytorium tego państwa lub z udziałem jego organu,
+
+### 2)
+
+prowadzone na terytorium Rzeczypospolitej Polskiej postępowanie przygotowawcze pozostaje w związku przedmiotowym lub podmiotowym z postępowaniem przygotowawczym o przestępstwo wymienione w pkt 1, prowadzonym na terytorium innego państwa i zachodzi potrzeba wykonania większości czynności śledztwa w obu postępowaniach na terytorium Rzeczypospolitej Polskiej.
+
+### § 2.
+
+Pracami zespołu polskiego kieruje polski prokurator.
+
+### § 3.
+
+W skład zespołu polskiego mogą wchodzić inni polscy prokuratorzy i przedstawiciele innych organów uprawnionych do prowadzenia śledztwa oraz funkcjonariusze właściwych organów państwa współpracującego, zwani dalej „funkcjonariuszami delegowanymi”.
+
+### § 4.
+
+Do czynności w postępowaniu przygotowawczym wykonywanych w ramach zespołu polskiego stosuje się przepisy prawa krajowego, z zastrzeżeniem § 5-8 oraz art. 589e.
+
+### § 5.
+
+Funkcjonariusze delegowani mogą być obecni przy wszystkich czynnościach procesowych wykonywanych w ramach zespołu polskiego, chyba że w szczególnym wypadku, uzasadnionym potrzebą ochrony ważnego interesu Rzeczypospolitej Polskiej lub praw jednostki, osoba kierująca tym zespołem zarządzi inaczej.
+
+### § 6.
+
+Za zgodą stron porozumienia o utworzeniu zespołu polskiego osoba kierująca tym zespołem może powierzyć funkcjonariuszowi delegowanemu wykonanie określonej czynności śledztwa, z wyłączeniem wydawania postanowień przewidzianych w niniejszym kodeksie. W takim wypadku w czynności uczestniczy polski członek zespołu i sporządza z niej protokół.
+
+### § 7.
+
+Jeżeli zachodzi potrzeba wykonania czynności śledztwa na terytorium państwa współpracującego, z wnioskiem o pomoc prawną zwraca się do właściwej instytucji lub organu funkcjonariusz delegowany przez to państwo. Do sporządzonych w wykonaniu tego wniosku protokołów stosuje się odpowiednio przepis art. 587.
+
+### § 8.
+
+W granicach określonych w porozumieniu o powołaniu zespołu polskiego przedstawicielowi instytucji międzynarodowej, o którym mowa w art. 589b § 4, przysługują uprawnienia określone w § 5.
+
+### Art. 589d.
+
+### § 1.
+
+Prokurator lub przedstawiciel innego organu uprawnionego do prowadzenia śledztwa może być delegowany do zespołu na terytorium innego państwa współpracującego w wypadkach określonych przepisami państwa, na którego terytorium odbywa się współpraca zespołu. O delegowaniu decyduje odpowiednio Prokurator Generalny albo inny właściwy organ.
+
+### § 2.
+
+Członkowi zespołu, o którym mowa w § 1, będącemu polskim prokuratorem przysługują uprawnienia prokuratora państwa obcego określone w art. 588 § 1. Przepisu art. 613 § 1 nie stosuje się.
+
+### § 3.
+
+Instytucje i organy Rzeczypospolitej Polskiej, inne niż prokurator, o którym mowa w § 2, udzielają niezbędnej pomocy polskiemu członkowi zespołu, o którym mowa w § 1, w granicach i z zastosowaniem przepisów prawa krajowego.
+
+### Art. 589e.
+
+### § 1.
+
+Informacje uzyskane przez członka zespołu w związku z udziałem w pracach zespołu, niedostępne w innym trybie dla państwa, które go delegowało, mogą być wykorzystane przez właściwy organ tego państwa także w celu:
+
+### 1)
+
+przeprowadzenia postępowania karnego we własnym zakresie - za zgodą państwa współpracującego, którego instytucja lub organ udzieliły informacji,
+
+### 2)
+
+zapobiegnięcia bezpośredniemu, poważnemu zagrożeniu dla bezpieczeństwa publicznego,
+
+### 3)
+
+innym niż wymienione w pkt 1 i 2, jeżeli tak stanowi porozumienie o powołaniu zespołu.
+
+### § 2.
+
+Zgoda, o której mowa w § 1 pkt 1, może być cofnięta wyłącznie wtedy, gdy wykorzystanie informacji mogłoby zagrażać dobru postępowania przygotowawczego prowadzonego w państwie współpracującym, którego instytucja lub organ udzieliły informacji, oraz w wypadku, w którym państwo to mogłoby odmówić wzajemnej pomocy.
+
+### Art. 589f.
+
+### § 1.
+
+Za szkodę wyrządzoną przez członka zespołu w związku z wykonywanymi czynnościami odpowiada państwo, które go delegowało, na zasadach określonych w przepisach państwa, na którego terytorium odbywała się współpraca zespołu.
+
+### § 2.
+
+Jeżeli szkoda wyrządzona innej osobie jest następstwem działania lub zaniechania członka zespołu delegowanego przez inne państwo współpracujące, kwotę pieniężną stanowiącą równowartość odszkodowania tymczasowo wypłaca poszkodowanemu właściwy organ państwa, na którego terytorium odbywała się współpraca zespołu.
+
+### § 3.
+
+W wypadku określonym w § 2 wypłacona kwota pieniężna podlega zwrotowi organowi, który ją tymczasowo wypłacił, na jego wniosek.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy ([Dz. U. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679 oraz z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 11 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd, kierując orzeczenie do wykonania, przesyła jego odpis lub wyciąg, ze wzmianką o wykonalności, a w wypadku orzeczenia prawomocnego - z datą jego uprawomocnienia się, odpowiedniemu organowi powołanemu do wykonywania orzeczenia. Sąd przesyła dyrektorowi zakładu karnego lub aresztu śledczego orzeczenie wraz z uzasadnieniem, jeżeli zostało sporządzone i nie zawiera informacji niejawnych stanowiących tajemnicę państwową, oraz dane zawierające imię, nazwisko i adres pokrzywdzonego.
+
+” ;
+
+### 2)
+
+w rozdziale X dodaje się Oddział 13 w brzmieniu:
+
+„
+
+### Oddział 13 Informowanie pokrzywdzonego o opuszczeniu przez skazanego zakładu karnego
+
+### Art. 168a.
+
+### § 1.
+
+Na wniosek pokrzywdzonego, odpowiednio, sędzia penitencjarny lub dyrektor zakładu karnego niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, o zwolnieniu skazanego z zakładu karnego po odbyciu kary, o ucieczce skazanego z zakładu karnego, a także o wydaniu decyzji o udzieleniu skazanemu:
+
+### 1)
+
+przepustki, o której mowa w art. 91 pkt 7 i w art. 92 pkt 9,
+
+### 2)
+
+czasowego zezwolenia na opuszczenie zakładu karnego bez dozoru lub bez konwoju funkcjonariusza Służby Więziennej albo asysty innej osoby godnej zaufania, o którym mowa w art. 138 § 1 pkt 7 lub 8, art. 141a § 1 oraz art. 165 § 2,
+
+### 3)
+
+przerwy w wykonaniu kary,
+
+### 4)
+
+warunkowego zwolnienia.
+
+### § 2.
+
+O prawie do złożenia wniosku, o którym mowa w § 1, poucza pokrzywdzonego sąd, kierując orzeczenie do wykonania.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary ([Dz. U. Nr 197, poz. 1661](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 16 w ust. 1 w pkt 11 kropkę zastępuje się średnikiem i dodaje pkt 12 w brzmieniu:
+
+„
+
+### 12)
+
+o charakterze terrorystycznym.
+
+” ;
+
+### 2)
+
+w art. 17 po wyrazach „o którym mowa w art. 16 w ust. 1 w pkt 1- 3” dodaje się wyrazy „i 12”.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem 1 maja 2004 r.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255 oraz z 2004 r. Nr 25, poz. 219 i Nr 69, poz. 626. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188 oraz z 2004 r. Nr 51, poz. 514 i Nr 69, poz. 626. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 60, poz. 701, Nr 120, poz. 1268 i Nr 122, poz. 1318, z 2001 r. Nr 98, poz. 1071, Nr 111, poz. 1194 i Nr 151, poz. 1686, z 2002 r. Nr 74, poz. 676, Nr 121, poz. 1033 i Nr 200, poz. 1679 oraz z 2003 r. Nr 111, poz. 1061, Nr 142, poz. 1380 i Nr 179, poz. 1750.

@@ -8,11 +8,9 @@ pos: 397
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o rzeczach znalezionych
-
-*USTAWA z dnia 20 lutego 2015 r.*
+# Ustawa z dnia 20 lutego 2015 r. o rzeczach znalezionych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. - Kodeks cywilny oraz ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,158 +22,612 @@ domain: null
 | Data ogłoszenia | 2015-02-20 |
 | Data wydania | 2015-03-20 |
 | Ostatnia zmiana | 2026-03-05 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000397) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/397/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/397/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/397) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa:
+- [Treść ustawy](#part_1) [Rozdział 1](#chpt_1) [Rozdział 2 - Obowiązki i prawa znalazcy oraz przechowującego](#chpt_2) [Rozdział 3 - Postępowanie w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru](#chpt_3) [Rozdział 4 - Postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących](#chpt_5) [Rozdział 6 - Przepis przejściowy i przepisy końcowe](#chpt_6)
 
-**Art. 2.** Przepisy o rzeczach znalezionych stosuje się odpowiednio do rzeczy porzuconych bez zamiaru wyzbycia się własności, jak również do zwierząt, które zabłąkały się lub uciekły.
+TOC
 
-**Art. 3.** Przepisów ustawy nie stosuje się do:
+## Treść ustawy
 
-#### Rozdział 2 Obowiązki i prawa znalazcy oraz przechowującego
+Przepisy ogólne
 
-**Art. 4.**
+### Rozdział 1
 
-1. Kto znalazł rzecz i zna osobę uprawnioną do jej odbioru oraz jej miejsce pobytu, niezwłocznie zawiadamia ją o znalezieniu rzeczy i wzywa do jej odbioru.
+### Art. 1.
 
-2. Przepis ust. 1 stosuje się do osoby, której rzecz została oddana na przechowanie zgodnie z przepisami ustawy (przechowujący).
+Ustawa określa:
 
-**Art. 5.** [1. Kto znalazł rzecz i nie zna osoby uprawnionej do jej odbioru lub nie zna jej miejsca pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy starostę właściwego ze względu na miejsce zamieszkania znalazcy lub miejsce znalezienia rzeczy (właściwy starosta).] <1. Kto znalazł rzecz i nie zna osoby uprawnionej do jej odbioru lub nie zna jej miejsca pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy starostę właściwego ze względu na miejsce znalezienia rzeczy (właściwy starosta).> 2. Kto znalazł rzecz w cudzym pomieszczeniu niezwłocznie zawiadamia o tym osobę zajmującą pomieszczenie i na żądanie tej osoby oddaje jej rzecz na przechowanie. Jeżeli osoba zajmująca pomieszczenie nie zna osoby uprawnionej do odbioru rzeczy lub nie zna miejsca jej pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy właściwego starostę. [3. Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze a ich kwota nie przekracza 100 złotych lub równowartości tej kwoty obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski z dnia znalezienia pieniędzy, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.] <3. Kto znalazł pieniądze, papiery wartościowe, kosztowności, o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście, chyba że znalezione zostały jedynie pieniądze, a ich kwota nie przekracza 5 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu znalezienia pieniędzy, lub – w przypadku znalezienia pieniędzy w walucie obcej – równowartości tej kwoty w tej walucie, obliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski w dniu ich znalezienia, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu – według ostatniego kursu ogłoszonego przed tym dniem.> <3a. Kto znalazł dokument w rozumieniu art. 77 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184), zwanej dalej „Kodeksem cywilnym”, zawierający dane osobowe i nie zna osoby uprawnionej do jego odbioru lub nie zna jej miejsca pobytu, oddaje go niezwłocznie właściwemu staroście, chyba że dokument ten zawiera informacje o innym sposobie postępowania w przypadku jego znalezienia.> [4. Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście.] <4. Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oddaje rzecz niezwłocznie właściwemu staroście albo najbliższej jednostce organizacyjnej Żandarmerii Wojskowej.> <4a. Kto znalazł dokument wojskowy, w szczególności legitymację, książeczkę lub zaświadczenie wojskowe albo kartę powołania, niezwłocznie oddaje go organowi wskazanemu w dokumencie, a w przypadku gdy dokument ten nie zawiera informacji o sposobie postępowania w przypadku jego znalezienia – właściwemu staroście albo najbliższej jednostce organizacyjnej Żandarmerii Wojskowej.> 5. Kto znalazł rzecz inną niż rzecz, o której mowa w [ust. 3 i 4] <ust. 3–4a>, może ją oddać właściwemu staroście. <6. Jeżeli zgodnie z ust. 1–5 o znalezieniu rzeczy zawiadamia się właściwego starostę lub oddaje się temu staroście rzecz znalezioną albo można mu oddać tę rzecz, znalazca rzeczy może odpowiednio:
+### 1)
 
-**Art. 7.** [1. Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy.] <1. Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca).> <1a. Jeżeli właściwy zarządca zna osobę uprawnioną do odbioru rzeczy lub jej miejsce pobytu, niezwłocznie zawiadamia ją o znalezieniu rzeczy i wzywa do jej odbioru. Jeżeli właściwy zarządca nie zna osoby uprawnionej do odbioru rzeczy lub jej miejsca pobytu, o znalezieniu rzeczy zamieszcza ogłoszenie na swojej stronie internetowej, o ile ją prowadzi. 1b. Po upływie 30 dni od dnia otrzymania rzeczy właściwy zarządca niezwłocznie przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do jej odbioru.> [2. Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia – zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy.] <2. Kto znalazł w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję albo materiały wybuchowe, lub rzecz, której oddanie wiązałoby się z zagrożeniem życia lub zdrowia, niezwłocznie zawiadamia o tym właściwego zarządcę. Przepis art. 6 stosuje się odpowiednio, z tym że o miejscu, w którym rzecz się znajduje, jednostkę organizacyjną Policji zawiadamia właściwy zarządca.>
+obowiązki i prawa znalazcy oraz przechowującego;
 
-**Art. 8.** W przypadku gdy przechowanie lub oddanie rzeczy przez znalazcę jest niemożliwe albo połączone z niebezpieczeństwem pogorszenia się rzeczy, trudnościami lub znacznymi kosztami, znalazca może ograniczyć się do wskazania osobie uprawnionej do odbioru rzeczy, właściwemu staroście lub właściwemu zarządcy miejsca, w którym rzecz się znajduje.
+### 2)
 
-**Art. 9.**
+postępowanie w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru;
 
-1. Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej [ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339), zwanej dalej „Kodeksem cywilnym”] <Kodeksu cywilnego>, z tym, że przechowanie jest nieodpłatne.
+### 3)
 
-2. Poniesione przez znalazcę lub przechowującego koszty przechowania oraz utrzymania rzeczy w należytym stanie, a także koszty poszukiwania osoby uprawnionej do jej odbioru, obciążają osobę uprawnioną do odbioru rzeczy do wysokości wartości rzeczy w dniu odbioru.
+postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej.
 
-3. Znalazcy lub przechowującemu przysługuje prawo zatrzymania.
+### Art. 2.
 
-4. Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży.
+Przepisy o rzeczach znalezionych stosuje się odpowiednio do rzeczy porzuconych bez zamiaru wyzbycia się własności, jak również do zwierząt, które zabłąkały się lub uciekły.
 
-**Art. 10.**
+### Art. 3.
 
-1. Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru.
+Przepisów ustawy nie stosuje się do zabytków archeologicznych.
 
-2. W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy.
+### Rozdział 2 Obowiązki i prawa znalazcy oraz przechowującego
 
-**Art. 11.**
+### Art. 4.
 
-1. W przypadku gdy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym i stała się własnością Skarbu Państwa, znalazcy przysługuje nagroda.
+### 1.
 
-2. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, rodzaje, wysokość, a także warunki i tryb przyznawania nagród, o których mowa w ust. 1, biorąc pod uwagę znaczenie znalezionych zabytków lub materiałów archiwalnych dla dziedzictwa narodowego i uwzględniając ich wartość historyczną, naukową, artystyczną oraz materialną.
+Kto znalazł rzecz i zna osobę uprawnioną do jej odbioru oraz jej miejsce pobytu, niezwłocznie zawiadamia ją o znalezieniu rzeczy i wzywa do jej odbioru.
 
-#### Rozdział 3 Postępowanie w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru
+### 2.
 
-**Art. 12.**
+Przepis ust. 1 stosuje się do osoby, której rzecz została oddana na przechowanie zgodnie z przepisami ustawy (przechowujący).
 
-1. Prowadzenie postępowania w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru należy do zadań właściwego starosty, chyba że przepis szczególny stanowi inaczej.
+### Art. 5.
 
-2. Zadanie, o którym mowa w ust. 1, stanowi zadanie własne powiatu.
+### 1.
 
-3. W przypadku gdy organem właściwym do przechowania rzeczy ze względu na jej szczególne właściwości jest jednostka organizacyjna Policji albo Żandarmerii Wojskowej, właściwy starosta przekazuje rzecz tej jednostce organizacyjnej. [4. Właściwy starosta może odmówić przyjęcia rzeczy, której szacunkowa wartość nie przekracza 100 złotych, chyba że jest to rzecz o wartości historycznej, naukowej lub artystycznej.] <4. Właściwy starosta może odmówić przyjęcia rzeczy, której szacunkowa wartość nie przekracza 5 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, obowiązującego w dniu znalezienia rzeczy, chyba że jest to rzecz o wartości historycznej, naukowej lub artystycznej lub dokument zawierający dane osobowe.>
+Kto znalazł rzecz i nie zna osoby uprawnionej do jej odbioru lub nie zna jej miejsca pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy starostę właściwego ze względu na miejsce zamieszkania znalazcy lub miejsce znalezienia rzeczy (właściwy starosta).
 
-5. W przypadku odmowy przyjęcia rzeczy przez właściwego starostę znalazca albo właściwy zarządca może postąpić z rzeczą według swojego uznania.
+### 2.
 
-**Art. 13.** [1. Odebranie zawiadomienia o znalezieniu rzeczy oraz przyjęcie rzeczy przez właściwego starostę stwierdza się w sporządzonym przez niego protokole, który stanowi podstawę wydania znalazcy poświadczenia przyjęcia zawiadomienia o znalezieniu rzeczy albo znalezieniu oraz przyjęciu rzeczy. Protokół i poświadczenie sporządza się także w przypadku wskazania przez znalazcę miejsca, w którym rzecz się znajduje.] <1. Odebranie zawiadomienia o znalezieniu rzeczy lub przyjęcie rzeczy przez właściwego starostę, starostę właściwego ze względu na miejsce zamieszkania znalazcy albo jednostkę organizacyjną Policji albo Żandarmerii Wojskowej stwierdza się w protokole. Protokół sporządza się także w przypadku wskazania miejsca, w którym rzecz się znajduje.> [2. W poświadczeniu, o którym mowa w ust. 1, wskazuje się imię, nazwisko i adres zamieszkania znalazcy oraz dokładnie określa rzecz, czas i miejsce znalezienia rzeczy. Właściwy starosta poucza znalazcę o prawie do żądania znaleźnego oraz zasadach nabycia własności w przypadku bezskutecznego upływu terminu do odbioru rzeczy przez osobę uprawnioną. Jeżeli znalazca żąda znaleźnego, czyni się o tym wzmiankę w poświadczeniu.] <2. W protokole, o którym mowa w ust. 1, wskazuje się imię, nazwisko i adres zamieszkania znalazcy oraz dokładnie określa się rzecz, czas i miejsce znalezienia rzeczy, a ponadto poucza się znalazcę o prawie do żądania znaleźnego oraz zasadach nabycia własności w przypadku bezskutecznego upływu terminu do odbioru rzeczy przez osobę uprawnioną. Jeżeli znalazca żąda znaleźnego, czyni się o tym wzmiankę w protokole. Odpis protokołu wydaje się znalazcy na jego żądanie, a odpis protokołu sporządzonego przez starostę właściwego ze względu na miejsce zamieszkania znalazcy albo jednostkę organizacyjną Policji albo Żandarmerii Wojskowej przesyła się właściwemu staroście.> 3. Złożenie zawiadomienia o znalezieniu rzeczy, zgłoszenie żądania znaleźnego, a także nabycie własności w przypadku bezskutecznego upływu terminu do odbioru rzeczy przez osobę uprawnioną znalazca potwierdza w protokole, o którym mowa w ust. 1, własnoręcznym podpisem.
+Kto znalazł rzecz w cudzym pomieszczeniu niezwłocznie zawiadamia o tym osobę zajmującą pomieszczenie i na żądanie tej osoby oddaje jej rzecz na przechowanie. Jeżeli osoba zajmująca pomieszczenie nie zna osoby uprawnionej do odbioru rzeczy lub nie zna miejsca jej pobytu, niezwłocznie zawiadamia o znalezieniu rzeczy właściwego starostę.
 
-**Art. 14.** Właściwy starosta umieszcza w swojej siedzibie w widocznym miejscu tablicę, na której zamieszcza informację o godzinach urzędowania komórki organizacyjnej, powołanej do odbierania zawiadomień o znalezieniu rzeczy, przyjmowania, przechowania tych rzeczy, poszukiwania osób uprawnionych do ich odbioru oraz udzielania wyjaśnień osobom zgłaszającym istnienie ich praw.
+### 3.
 
-**Art. 15.** [1. W przypadku gdy adres zamieszkania albo siedziby osoby uprawnionej do odbioru rzeczy nie jest znany, właściwy starosta występuje do organu prowadzącego właściwą ewidencję, rejestr lub zbiór danych o udzielenie informacji umożliwiających ustalenie tego adresu.] <1. W przypadku gdy adres zamieszkania albo siedziby osoby uprawnionej do odbioru rzeczy nie jest znany, właściwy starosta występuje do właściwych podmiotów o udzielenie informacji umożliwiających ustalenie tego adresu.> 2. Jeżeli osoba uprawniona do odbioru rzeczy i jej adres zamieszkania albo siedziby zostanie ustalony, właściwy starosta wzywa niezwłocznie tę osobę do odbioru rzeczy. [3. W przypadku gdy brak jest możliwości doręczenia osobie uprawnionej wezwania do odbioru rzeczy lub osoba ta jest nieznana, a szacunkowa wartość rzeczy przekracza 100 złotych, właściwy starosta dokonuje wezwania na tablicy, o której mowa w art. 14, przez okres roku, licząc od dnia znalezienia rzeczy, oraz zamieszcza ogłoszenie w Biuletynie Informacji Publicznej. Jeżeli szacunkowa wartość rzeczy przekracza 5000 złotych, właściwy starosta zamieszcza również ogłoszenie w dzienniku o zasięgu lokalnym lub ogólnopolskim.] <3. W przypadku gdy brak jest możliwości doręczenia osobie uprawnionej wezwania do odbioru rzeczy lub osoba ta jest nieznana, a szacunkowa wartość rzeczy przekracza 5 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę, obowiązującego w dniu znalezienia rzeczy, właściwy starosta dokonuje wezwania poprzez jego wywieszenie na tablicy, o której mowa w art. 14, przez okres 6 miesięcy, licząc od dnia znalezienia rzeczy, oraz zamieszcza ogłoszenie w Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu go obsługującego, w terminie trzech dni roboczych od dnia odebrania zawiadomienia o znalezieniu rzeczy lub przyjęcia rzeczy.> 4. Wezwania, o których mowa w ust. 2 i 3, zawierają termin do odbioru rzeczy oraz pouczenie o skutkach przewidzianych w art. 187 Kodeksu cywilnego. <5. Właściwy starosta jest zobowiązany udostępniać niezwłocznie w portalu danych w rozumieniu art. 2 pkt 13 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524) dane o rzeczach zamieszczone w ogłoszeniu, o którym mowa w ust. 3. 6. Do udostępniania danych, o którym mowa w ust. 5, stosuje się odpowiednio przepisy ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego. 7. Aktualizacja danych, o których mowa w ust. 5, następuje niezwłocznie.>
+Kto znalazł pieniądze, papiery wartościowe, kosztowności , o których mowa w art. 21 ust. 4, lub rzeczy o wartości historycznej, naukowej lub artystycznej i nie zna osoby uprawnionej do ich odbioru lub nie zna jej miejsca pobytu, oddaje rzecz niezwłocznie właściwemu staroście.
 
-**Art. 16.**
+### 4.
 
-1. Rzeczy oddane organowi właściwemu do przechowania rzeczy przechowuje się w warunkach zapewniających ich bezpieczeństwo i trwałość.
+Kto znalazł rzecz, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, oddaje rzecz lub dokument niezwłocznie właściwemu staroście. 5. Kto znalazł rzecz inną niż rzecz, o której mowa w ust. 3 i 4, może ją oddać właściwemu staroście.
 
-2. Rzeczy, co do których zachodzi niebezpieczeństwo pogorszenia, w szczególności szybkiego zepsucia lub znacznego obniżenia wartości, w miarę możliwości przechowuje się w warunkach pozwalających na zachowanie ich w należytym stanie do czasu sprzedaży.
+### Art. 6.
 
-**Art. 17.**
+Kto znalazł rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, niezwłocznie oddaje rzecz najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy.
 
-1. W przypadku gdy właściwy starosta przyjął na przechowanie rzecz ulegającą szybkiemu zepsuciu lub której przechowanie byłoby związane z kosztami niewspółmiernie wysokimi w stosunku do jej wartości rynkowej lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jej wartości rynkowej – sprzedaje tę rzecz z wolnej ręki zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
+### Art. 7.
 
-2. W przypadku gdy nie jest możliwe ustalenie wartości rynkowej rzeczy, której przechowanie byłoby związane z kosztami niewspółmiernie wysokimi w stosunku do jej szacunkowej wartości lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jej szacunkowej wartości, właściwy starosta występuje do sądu o zarządzenie jej sprzedaży.
+### 1.
 
-3. Wniosek o zarządzenie przez sąd sprzedaży rzeczy rozpoznaje sąd rejonowy właściwy ze względu na miejsce przechowania rzeczy, stosując odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) o postępowaniu nieprocesowym. Sprzedaż rzeczy w drodze licytacji publicznej odbywa się zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego o egzekucji z ruchomości.
+Kto znalazł rzecz w budynku publicznym, innym budynku lub pomieszczeniu otwartym dla publiczności albo środku transportu publicznego, oddaje rzecz zarządcy budynku, pomieszczenia albo środka transportu publicznego (właściwy zarządca), który po upływie 3 dni od dnia otrzymania rzeczy przekazuje ją właściwemu staroście, chyba że w tym terminie zgłosi się osoba uprawniona do odbioru rzeczy. 2. Rzecz, której posiadanie wymaga pozwolenia, w szczególności broń, amunicję, materiały wybuchowe albo dowód osobisty lub paszport, właściwy zarządca niezwłocznie oddaje najbliższej jednostce organizacyjnej Policji, a jeżeli oddanie rzeczy wiązałoby się z zagrożeniem życia lub zdrowia - zawiadamia o miejscu, w którym rzecz się znajduje. Jednostka organizacyjna Policji niezwłocznie zawiadamia właściwego starostę o znalezieniu rzeczy oraz znalazcy.
 
-4. W przypadku gdy osoba uprawniona do odbioru rzeczy jest znana i znane jest jej miejsce pobytu albo adres siedziby właściwy starosta zawiadamia tę osobę o planowanej sprzedaży rzeczy najpóźniej na 2 tygodnie przed jej dokonaniem. W przypadku gdy przechowywana rzecz jest rzeczą ulegającą szybkiemu zepsuciu właściwy starosta niezwłocznie zawiadamia osobę uprawnioną do odbioru rzeczy o planowanej sprzedaży.
+### Art. 8.
 
-5. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży.
+W przypadku gdy przechowanie lub oddanie rzeczy przez znalazcę jest niemożliwe albo połączone z niebezpieczeństwem pogorszenia się rzeczy, trudnościami lub znacznymi kosztami, znalazca może ograniczyć się do wskazania osobie uprawnionej do odbioru rzeczy, właściwemu staroście lub właściwemu zarządcy miejsca, w którym rzecz się znajduje.
 
-**Art. 18.**
+### Art. 9.
 
-1. Właściwy starosta informuje osobę uprawnioną do odbioru rzeczy o kosztach przechowania oraz utrzymania rzeczy w należytym stanie, a także o kosztach poszukiwania osoby uprawnionej do odbioru rzeczy.
+### 1.
 
-2. Właściwy starosta wydaje rzecz osobie uprawnionej do odbioru rzeczy po uiszczeniu przez nią kosztów, o których mowa w ust. 1.
+Do przechowania rzeczy przez znalazcę lub przechowującego stosuje się odpowiednio przepisy tytułu XXVIII księgi trzeciej ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2014 r. poz. 121](https://api.sejm.gov.pl/eli/acts/DU/2014/121/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397.](#gloss-0:2:)), zwanej dalej „Kodeksem cywilnym”, z tym, że przechowanie jest nieodpłatne.
 
-3. O wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby właściwy starosta niezwłocznie zawiadamia znalazcę, który zażądał znaleźnego. Zawiadomienie wysyła się na adres zamieszkania wskazany w wydanym znalazcy poświadczeniu.
+### 2.
 
-**Art. 19.**
+Poniesione przez znalazcę lub przechowującego koszty przechowania oraz utrzymania rzeczy w należytym stanie, a także koszty poszukiwania osoby uprawnionej do jej odbioru, obciążają osobę uprawnioną do odbioru rzeczy do wysokości wartości rzeczy w dniu odbioru.
 
-1. W przypadku gdy rzecz znaleziona nie została odebrana przez osobę uprawnioną do jej odbioru, w terminie określonym w [art. 187] <art. 187 § 1> Kodeksu cywilnego, właściwy starosta zawiadamia o tym znalazcę oraz wzywa go do odbioru rzeczy w terminie, nie krótszym niż 2 tygodnie, z pouczeniem, że w przypadku nieodebrania rzeczy w tym terminie jej właścicielem stanie się powiat. Przepisy art. 18 ust. 1 i 2 stosuje się odpowiednio. [2. Przepisu ust. 1 nie stosuje się do zabytków oraz materiałów archiwalnych.] <2. Przepisu ust. 1 nie stosuje się do zabytków, materiałów archiwalnych, dokumentów zawierających dane osobowe ani rzeczy umożliwiających dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności kluczy, kart dostępu ani pilotów.> [3. Właściwy starosta wydaje znalazcy, który odebrał rzecz, zaświadczenie stwierdzające upływ terminów przechowania rzeczy oraz zawierające informację o wydaniu rzeczy. W zaświadczeniu zamieszcza się informację o treści ust. 1.] <3. Właściwy starosta wydaje znalazcy, który nabył własność rzeczy, zaświadczenie stwierdzające upływ terminów, o których mowa w art. 187 § 1 Kodeksu cywilnego, a jeżeli rzecz została odebrana przez znalazcę – również informację o wydaniu rzeczy.>
+### 3.
 
-**Art. 20.**
+Znalazcy lub przechowującemu przysługuje prawo zatrzymania.
 
-1. W przypadku znalezienia rzeczy, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, właściwy starosta niezwłocznie oddaje rzecz lub dokument najbliższej jednostce organizacyjnej Żandarmerii Wojskowej.
+### 4.
 
-2. Wydanie rzeczy, której posiadanie wymaga pozwolenia, może nastąpić dopiero po przedłożeniu przez osobę uprawnioną do odbioru rzeczy ważnego pozwolenia.
+Znalazca przechowujący rzecz, przechowujący lub właściwy zarządca przechowujący rzecz ulegającą szybkiemu zepsuciu sprzedaje ją niezwłocznie. Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży. Art. 10. 1. Znalazca przechowujący rzecz, który uczynił zadość swoim obowiązkom, może żądać znaleźnego w wysokości jednej dziesiątej wartości rzeczy, jeżeli zgłosił swoje roszczenie najpóźniej w chwili wydania rzeczy osobie uprawnionej do jej odbioru. 2. W przypadku gdy rzecz nie jest przechowywana przez znalazcę, znalazca może zastrzec wobec przechowującego, że będzie żądał znaleźnego. W takim przypadku przechowujący zawiadamia znalazcę o wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby, a znalazca może zgłosić żądanie znaleźnego w terminie miesiąca od dnia zawiadomienia go o wydaniu rzeczy. Przechowujący informuje o tym osobę uprawnioną do odbioru rzeczy.
 
-**Art. 21.** [1. W przypadku znalezienia pieniędzy, właściwy starosta sporządza ich opis zawierający liczbę banknotów lub monet, a także ich waluty i nominały. Po sporządzeniu opisu właściwy starosta wpłaca znalezione pieniądze na rachunek bankowy sum depozytowych.] <1. W przypadku znalezienia pieniędzy właściwy starosta sporządza ich opis zawierający liczbę banknotów lub monet, a także ich waluty i nominały. Po sporządzeniu opisu właściwy starosta wpłaca znalezione pieniądze w walucie polskiej na rachunek bankowy sum depozytowych. W przypadku znalezienia pieniędzy w walucie obcej właściwy starosta, po sporządzeniu opisu, wpłaca znalezione pieniądze na rachunek bankowy sum depozytowych albo przechowuje je zabezpieczone w kasie pancernej, skrytce sejfowej lub niezwłocznie oddaje na przechowanie bankowi.> 2. W przypadku znalezienia papierów wartościowych, właściwy starosta sporządza ich opis zawierający liczbę i rodzaj dokumentów ze wskazaniem ich wartości, numeru serii lub innego właściwego oznaczenia, oznaczenie emitenta lub wystawcy dokumentu oraz osoby uprawnionej według jego treści. 3. W przypadku znalezienia papieru wartościowego lub innego dokumentu, którego posiadanie legitymuje do świadczenia, właściwy starosta niezwłocznie zawiadamia emitenta lub wystawcę dokumentu, podając dokładne oznaczenie tego dokumentu. 4. W przypadku znalezienia złota, platyny, srebra, w tym monet, wyrobów użytkowych ze złota, platyny lub srebra, kamieni szlachetnych, pereł oraz koralu, właściwy starosta sporządza ich szczegółowy opis. 5. Rzeczy znalezione, o których mowa w ust. 2–4, przechowuje się zabezpieczone w kasie pancernej, w skrytce sejfowej lub niezwłocznie oddaje na przechowanie bankowi.
+### Art. 11.
 
-#### Rozdział 4 [Postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej] <Postępowanie z rzeczami stanowiącymi zabytek lub materiał archiwalny, dokumentami zawierającymi dane osobowe oraz rzeczami umożliwiającymi dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów> [Art. 22. W przypadku przypuszczenia, że rzecz znaleziona stanowi rzecz o wartości historycznej, naukowej lub artystycznej, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.] <Art. 22. W przypadku przypuszczenia, że rzecz znaleziona stanowi zabytek lub materiał archiwalny, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.>
+### 1.
 
-**Art. 23.**
+W przypadku gdy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym i stała się własnością Skarbu Państwa, znalazcy przysługuje nagroda.
 
-1. W terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w art. 22, wojewódzki konserwator zabytków dokonuje w siedzibie właściwego starosty albo w miejscu znalezienia oględzin rzeczy znalezionej i stwierdza, czy jest ona zabytkiem lub materiałem archiwalnym.
+### 2.
 
-2. W przypadku gdy w trakcie oględzin, o których mowa w ust. 1, okaże się, że rzecz znaleziona może być materiałem archiwalnym, wojewódzki konserwator zabytków zasięga opinii dyrektora właściwego archiwum państwowego.
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, rodzaje, wysokość, a także warunki i tryb przyznawania nagród, o których mowa w ust. 1, biorąc pod uwagę znaczenie znalezionych zabytków lub materiałów archiwalnych dla dziedzictwa narodowego i uwzględniając ich wartość historyczną, naukową, artystyczną oraz materialną.
 
-3. W przypadkach innych niż określone w ust. 2, wojewódzki konserwator zabytków może zasięgnąć opinii rzeczoznawcy, muzeum właściwego ze względu na rodzaj rzeczy znalezionej albo biblioteki.
+### Rozdział 3 Postępowanie w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru
 
-4. W przypadkach określonych w ust. 2 i 3, wojewódzki konserwator zabytków stwierdza, czy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym w terminie 3 dni od dnia otrzymania opinii.
+### Art. 12.
 
-**Art. 24.** W przypadku gdy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym, wojewódzki konserwator zabytków, w drodze decyzji, oddaje ją na przechowanie właściwemu ze względu na rodzaj rzeczy znalezionej muzeum państwowemu albo samorządowemu, bibliotece, dla której organizatorem jest minister, kierownik urzędu centralnego albo jednostka samorządu terytorialnego, albo archiwum państwowemu.
+### 1.
 
-**Art. 25.**
+Prowadzenie postępowania w sprawach odbierania zawiadomień o znalezieniu rzeczy, przyjmowania i przechowania rzeczy znalezionych oraz poszukiwania osób uprawnionych do ich odbioru należy do zadań właściwego starosty, chyba że przepis szczególny stanowi inaczej.
 
-1. W przypadku gdy rzecz znaleziona jest zabytkiem i stała się własnością Skarbu Państwa, muzeum albo biblioteka, którym rzecz została oddana na przechowanie, występują do właściwego starosty o przeniesienie własności tej rzeczy, w drodze umowy.
+### 2.
 
-2. W przypadku gdy rzecz znaleziona jest materiałem archiwalnym i stała się własnością Skarbu Państwa, wchodzi do zasobu archiwalnego tego archiwum państwowego, któremu została oddana na przechowanie. <Art. 25a. W przypadku gdy rzecz znaleziona jest dokumentem zawierającym dane osobowe lub umożliwia dostęp do pomieszczeń, pojazdów i innych zamykanych przedmiotów, w szczególności klucze, karty dostępu i piloty, i stała się własnością powiatu, właściwy starosta dokonuje niezwłocznie zniszczenia rzeczy. Z czynności zniszczenia sporządza się protokół.>
+Zadanie, o którym mowa w ust. 1, stanowi zadanie własne powiatu.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+### 3.
 
-**Art. 26.** (pominięty)
+W przypadku gdy organem właściwym do przechowania rzeczy ze względu na jej szczególne właściwości jest jednostka organizacyjna Policji albo Żandarmerii Wojskowej, właściwy starosta przekazuje rzecz tej jednostce organizacyjnej.
 
-**Art. 27.** (pominięty)
+### 4.
 
-#### Rozdział 6 Przepis przejściowy i przepisy końcowe
+Właściwy starosta może odmówić przyjęcia rzeczy, której szacunkowa wartość nie przekracza 100 złotych, chyba że jest to rzecz o wartości historycznej, naukowej lub artystycznej.
 
-**Art. 28.** Przepisy rozdziału 2a ustawy zmienianej w art. 27 stosuje się do rzeczy ruchomych utraconych w wyniku czynu zabronionego popełnionego po dniu wejścia w życie niniejszej ustawy.
+### 5.
 
-**Art. 29.**
+W przypadku odmowy przyjęcia rzeczy przez właściwego starostę znalazca albo właściwy zarządca może postąpić z rzeczą według swojego uznania.
 
-1. Maksymalny limit wydatków budżetu państwa na lata 2015– 2024 wyniesie 9 182 756 zł, z tym że w roku:
+### Art. 13.
 
-- **1)** 2015 – 972 720 zł;
-- **2)** 2016 – 792 765 zł;
-- **3)** 2017 – 820 511 zł;
-- **4)** 2018 – 849 229 zł;
-- **5)** 2019 – 878 952 zł;
-- **6)** 2020 – 909 716 zł;
-- **7)** 2021 – 940 646 zł;
-- **8)** 2022 – 972 628 zł;
-- **9)** 2023 – 1 005 698 zł;
-- **10)** 2024 – 1 039 891 zł.
+### 1.
 
-2. W przypadku zagrożenia przekroczenia limitów wydatków, o których mowa w ust. 1, na dany rok budżetowy, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych związanych z realizacją zadań związanych z prowadzeniem krajowego rejestru utraconych dóbr kultury.
+Odebranie zawiadomienia o znalezieniu rzeczy oraz przyjęcie rzeczy przez właściwego starostę stwierdza się w sporządzonym przez niego protokole, który stanowi podstawę wydania znalazcy poświadczenia przyjęcia zawiadomienia o znalezieniu rzeczy albo znalezieniu oraz przyjęciu rzeczy. Protokół i poświadczenie sporządza się także w przypadku wskazania przez znalazcę miejsca, w którym rzecz się znajduje.
 
-3. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+### 2.
 
-4. Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+W poświadczeniu, o którym mowa w ust. 1, wskazuje się imię, nazwisko i adres zamieszkania znalazcy oraz dokładnie określa rzecz, czas i miejsce znalezienia rzeczy. Właściwy starosta poucza znalazcę o prawie do żądania znaleźnego oraz zasadach nabycia własności w przypadku bezskutecznego upływu terminu do odbioru rzeczy przez osobę uprawnioną. Jeżeli znalazca żąda znaleźnego, czyni się o tym wzmiankę w poświadczeniu.
 
-**Art. 30.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+### 3.
 
+Złożenie zawiadomienia o znalezieniu rzeczy, zgłoszenie żądania znaleźnego, a także nabycie własności w przypadku bezskutecznego upływu terminu do odbioru rzeczy przez osobę uprawnioną znalazca potwierdza w protokole, o którym mowa w ust. 1, własnoręcznym podpisem.
+
+### Art. 14.
+
+Właściwy starosta umieszcza w swojej siedzibie w widocznym miejscu tablicę, na której zamieszcza informację o godzinach urzędowania komórki organizacyjnej, powołanej do odbierania zawiadomień o znalezieniu rzeczy, przyjmowania, przechowania tych rzeczy, poszukiwania osób uprawnionych do ich odbioru oraz udzielania wyjaśnień osobom zgłaszającym istnienie ich praw.
+
+### Art. 15.
+
+### 1.
+
+W przypadku gdy adres zamieszkania albo siedziby osoby uprawnionej do odbioru rzeczy nie jest znany, właściwy starosta występuje do organu prowadzącego właściwą ewidencję, rejestr lub zbiór danych o udzielenie informacji umożliwiających ustalenie tego adresu.
+
+### 2.
+
+Jeżeli osoba uprawniona do odbioru rzeczy i jej adres zamieszkania albo siedziby zostanie ustalony, właściwy starosta wzywa niezwłocznie tę osobę do odbioru rzeczy.
+
+### 3.
+
+W przypadku gdy brak jest możliwości doręczenia osobie uprawnionej wezwania do odbioru rzeczy lub osoba ta jest nieznana, a szacunkowa wartość rzeczy przekracza 100 złotych, właściwy starosta dokonuje wezwania na tablicy, o której mowa w art. 14, przez okres roku, licząc od dnia znalezienia rzeczy, oraz zamieszcza ogłoszenie w Biuletynie Informacji Publicznej. Jeżeli szacunkowa wartość rzeczy przekracza 5000 złotych, właściwy starosta zamieszcza również ogłoszenie w dzienniku o zasięgu lokalnym lub ogólnopolskim.
+
+### 4.
+
+Wezwania, o których mowa w ust. 2 i 3, zawierają termin do odbioru rzeczy oraz pouczenie o skutkach przewidzianych w art. 187 Kodeksu cywilnego.
+
+### Art. 16.
+
+### 1.
+
+Rzeczy oddane organowi właściwemu do przechowania rzeczy przechowuje się w warunkach zapewniających ich bezpieczeństwo i trwałość.
+
+### 2.
+
+Rzeczy, co do których zachodzi niebezpieczeństwo pogorszenia, w szczególności szybkiego zepsucia lub znacznego obniżenia wartości, w miarę możliwości przechowuje się w warunkach pozwalających na zachowanie ich w należytym stanie do czasu sprzedaży.
+
+### Art. 17.
+
+### 1.
+
+W przypadku gdy właściwy starosta przyjął na przechowanie rzecz ulegającą szybkiemu zepsuciu lub której przechowanie byłoby związane z kosztami niewspółmiernie wysokimi w stosunku do jej wartości rynkowej lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jej wartości rynkowej - sprzedaje tę rzecz z wolnej ręki zgodnie z przepisami ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2014 r. poz. 1619](https://api.sejm.gov.pl/eli/acts/DU/2014/1619/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396.](#gloss-0:3:)).
+
+### 2.
+
+W przypadku gdy nie jest możliwe ustalenie wartości rynkowej rzeczy, której przechowanie byłoby związane z kosztami niewspółmiernie wysokimi w stosunku do jej szacunkowej wartości lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jej szacunkowej wartości, właściwy starosta występuje do sądu o zarządzenie jej sprzedaży.
+
+### 3.
+
+Wniosek o zarządzenie przez sąd sprzedaży rzeczy rozpoznaje sąd rejonowy właściwy ze względu na miejsce przechowania rzeczy, stosując odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2014 r. poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2014/101/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218.](#gloss-0:4:)) o postępowaniu nieprocesowym. Sprzedaż rzeczy w drodze licytacji publicznej odbywa się zgodnie z przepisami ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego o egzekucji z ruchomości.
+
+### 4.
+
+W przypadku gdy osoba uprawniona do odbioru rzeczy jest znana i znane jest jej miejsce pobytu albo adres siedziby właściwy starosta zawiadamia tę osobę o planowanej sprzedaży rzeczy najpóźniej na 2 tygodnie przed jej dokonaniem. W przypadku gdy przechowywana rzecz jest rzeczą ulegającą szybkiemu zepsuciu właściwy starosta niezwłocznie zawiadamia osobę uprawnioną do odbioru rzeczy o planowanej sprzedaży.
+
+### 5.
+
+Suma uzyskana ze sprzedaży wchodzi w miejsce rzeczy sprzedanej, po potrąceniu kosztów sprzedaży.
+
+### Art. 18.
+
+### 1.
+
+Właściwy starosta informuje osobę uprawnioną do odbioru rzeczy o kosztach przechowania oraz utrzymania rzeczy w należytym stanie, a także o kosztach poszukiwania osoby uprawnionej do odbioru rzeczy.
+
+### 2.
+
+Właściwy starosta wydaje rzecz osobie uprawnionej do odbioru rzeczy po uiszczeniu przez nią kosztów, o których mowa w ust. 1.
+
+### 3.
+
+O wydaniu rzeczy osobie uprawnionej do jej odbioru oraz o jej adresie zamieszkania albo siedziby właściwy starosta niezwłocznie zawiadamia znalazcę, który zażądał znaleźnego. Zawiadomienie wysyła się na adres zamieszkania wskazany w wydanym znalazcy poświadczeniu.
+
+### Art. 19.
+
+### 1.
+
+W przypadku gdy rzecz znaleziona nie została odebrana przez osobę uprawnioną do jej odbioru, w terminie określonym w art. 187 Kodeksu cywilnego, właściwy starosta zawiadamia o tym znalazcę oraz wzywa go do odbioru rzeczy w terminie, nie krótszym niż 2 tygodnie, z pouczeniem, że w przypadku nieodebrania rzeczy w tym terminie jej właścicielem stanie się powiat. Przepisy art. 18 ust. 1 i 2 stosuje się odpowiednio.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do zabytków oraz materiałów archiwalnych.
+
+### 3.
+
+Właściwy starosta wydaje znalazcy, który odebrał rzecz, zaświadczenie stwierdzające upływ terminów przechowania rzeczy oraz zawierające informację o wydaniu rzeczy. W zaświadczeniu zamieszcza się informację o treści ust. 1.
+
+### Art. 20.
+
+### 1.
+
+W przypadku znalezienia rzeczy, której cechy zewnętrzne lub umieszczone na niej znaki szczególne wskazują, że stanowi ona sprzęt lub ekwipunek wojskowy, oraz w przypadku znalezienia dokumentu wojskowego, a w szczególności legitymacji, książeczki lub zaświadczenia wojskowego albo karty powołania, właściwy starosta niezwłocznie oddaje rzecz lub dokument najbliższej jednostce organizacyjnej Żandarmerii Wojskowej.
+
+### 2.
+
+Wydanie rzeczy, której posiadanie wymaga pozwolenia, może nastąpić dopiero po przedłożeniu przez osobę uprawnioną do odbioru rzeczy ważnego pozwolenia.
+
+### Art. 21.
+
+### 1.
+
+W przypadku znalezienia pieniędzy, właściwy starosta sporządza ich opis zawierający liczbę banknotów lub monet, a także ich waluty i nominały. Po sporządzeniu opisu właściwy starosta wpłaca znalezione pieniądze na rachunek bankowy sum depozytowych.
+
+### 2.
+
+W przypadku znalezienia papierów wartościowych, właściwy starosta sporządza ich opis zawierający liczbę i rodzaj dokumentów ze wskazaniem ich wartości, numeru serii lub innego właściwego oznaczenia, oznaczenie emitenta lub wystawcy dokumentu oraz osoby uprawnionej według jego treści.
+
+### 3.
+
+W przypadku znalezienia papieru wartościowego lub innego dokumentu, którego posiadanie legitymuje do świadczenia, właściwy starosta niezwłocznie zawiadamia emitenta lub wystawcę dokumentu, podając dokładne oznaczenie tego dokumentu.
+
+### 4.
+
+W przypadku znalezienia złota, platyny, srebra, w tym monet, wyrobów użytkowych ze złota, platyny lub srebra, kamieni szlachetnych, pereł oraz koralu, właściwy starosta sporządza ich szczegółowy opis.
+
+### 5.
+
+Rzeczy znalezione, o których mowa w ust. 2-4, przechowuje się zabezpieczone w kasie pancernej, w skrytce sejfowej lub niezwłocznie oddaje na przechowanie bankowi.
+
+### Rozdział 4 Postępowanie z rzeczami o wartości historycznej, naukowej lub artystycznej
+
+### Art. 22.
+
+W przypadku przypuszczenia, że rzecz znaleziona stanowi rzecz o wartości historycznej, naukowej lub artystycznej, właściwy starosta w terminie 7 dni od dnia powzięcia wiadomości o znalezieniu rzeczy zawiadamia właściwego miejscowo wojewódzkiego konserwatora zabytków.
+
+### Art. 23.
+
+### 1.
+
+W terminie 7 dni od dnia otrzymania zawiadomienia, o którym mowa w art. 22, wojewódzki konserwator zabytków dokonuje w siedzibie właściwego starosty albo w miejscu znalezienia oględzin rzeczy znalezionej i stwierdza, czy jest ona zabytkiem lub materiałem archiwalnym.
+
+### 2.
+
+W przypadku gdy w trakcie oględzin, o których mowa w ust. 1, okaże się, że rzecz znaleziona może być materiałem archiwalnym, wojewódzki konserwator zabytków zasięga opinii dyrektora właściwego archiwum państwowego.
+
+### 3.
+
+W przypadkach innych niż określone w ust. 2, wojewódzki konserwator zabytków może zasięgnąć opinii rzeczoznawcy, muzeum właściwego ze względu na rodzaj rzeczy znalezionej albo biblioteki.
+
+### 4.
+
+W przypadkach określonych w ust. 2 i 3, wojewódzki konserwator zabytków stwierdza, czy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym w terminie 3 dni od dnia otrzymania opinii.
+
+### Art. 24.
+
+W przypadku gdy rzecz znaleziona jest zabytkiem lub materiałem archiwalnym, wojewódzki konserwator zabytków, w drodze decyzji, oddaje ją na przechowanie właściwemu ze względu na rodzaj rzeczy znalezionej muzeum państwowemu albo samorządowemu, bibliotece, dla której organizatorem jest minister, kierownik urzędu centralnego albo jednostka samorządu terytorialnego, albo archiwum państwowemu.
+
+### Art. 25.
+
+### 1.
+
+W przypadku gdy rzecz znaleziona jest zabytkiem i stała się własnością Skarbu Państwa, muzeum albo biblioteka, którym rzecz została oddana na przechowanie, występują do właściwego starosty o przeniesienie własności tej rzeczy, w drodze umowy.
+
+### 2.
+
+W przypadku gdy rzecz znaleziona jest materiałem archiwalnym i stała się własnością Skarbu Państwa, wchodzi do zasobu archiwalnego tego archiwum państwowego, któremu została oddana na przechowanie.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących
+
+### Art. 26.
+
+W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2014 r. poz. 121](https://api.sejm.gov.pl/eli/acts/DU/2014/121/text.html) i [827](https://api.sejm.gov.pl/eli/acts/DU/2014/827/text.html) oraz [z 2015 r. poz. 4](https://api.sejm.gov.pl/eli/acts/DU/2015/4/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 169 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Przepisów § 1 i 2 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
+
+” ;
+
+### 2)
+
+w art. 170 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
+
+” ;
+
+### 3)
+
+w art. 174 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Przepisu § 1 nie stosuje się do rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
+
+” ;
+
+### 4)
+
+uchyla się art. 183-186;
+
+### 5)
+
+art. 187 otrzymuje brzmienie:
+
+„
+
+### Art. 187.
+
+### § 1.
+
+Rzecz znaleziona, która nie zostanie przez osobę uprawnioną odebrana w ciągu roku od dnia doręczenia jej wezwania do odbioru, a w przypadku niemożności wezwania - w ciągu dwóch lat od dnia jej znalezienia, staje się własnością znalazcy, jeżeli uczynił on zadość swoim obowiązkom. Jeżeli jednak rzecz została oddana staroście, znalazca staje się jej właścicielem, jeżeli rzecz odebrał w wyznaczonym przez starostę terminie.
+
+### § 2.
+
+Rzecz znaleziona będąca zabytkiem lub materiałem archiwalnym po upływie terminu do jej odebrania przez osobę uprawnioną staje się własnością Skarbu Państwa. Inne rzeczy znalezione stają się własnością powiatu po upływie terminu do ich odbioru przez znalazcę.
+
+### § 3.
+
+Z chwilą nabycia własności rzeczy przez znalazcę, powiat albo Skarb Państwa wygasają obciążające ją ograniczone prawa rzeczowe.
+
+” ;
+
+### 6)
+
+uchyla się art. 188;
+
+### 7)
+
+art. 189 otrzymuje brzmienie:
+
+„
+
+### Art. 189.
+
+Jeżeli rzecz znaleziono w takich okolicznościach, że poszukiwanie właściciela byłoby oczywiście bezcelowe, staje się ona przedmiotem współwłasności w częściach ułamkowych znalazcy i właściciela nieruchomości, na której rzecz została znaleziona, jeżeli jednak rzecz ta jest zabytkiem lub materiałem archiwalnym, staje się ona własnością Skarbu Państwa, a znalazca jest obowiązany wydać ją niezwłocznie właściwemu staroście.
+
+” ;
+
+### 8)
+
+w art. 223 dodaje się § 4 w brzmieniu:
+
+„
+
+### 4.
+
+Roszczenie właściciela, o którym mowa w art. 222 § 1, nie ulega przedawnieniu, jeżeli dotyczy rzeczy wpisanej do krajowego rejestru utraconych dóbr kultury.
+
+” .
+
+### Art. 27.
+
+W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ([Dz. U. z 2014 r. poz. 1446](https://api.sejm.gov.pl/eli/acts/DU/2014/1446/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Ochronę materiałów archiwalnych wchodzących w skład narodowego zasobu archiwalnego regulują przepisy ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. z 2011 r. Nr 123, poz. 698](https://api.sejm.gov.pl/eli/acts/DU/2011/698/text.html) i [Nr 171, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/2011/1016/text.html) oraz z [2014 r. poz. 822](https://api.sejm.gov.pl/eli/acts/DU/2014/822/text.html)), z uwzględnieniem przepisów rozdziału 2a.
+
+” ;
+
+### 2)
+
+po rozdziale 2 dodaje się rozdział 2a w brzmieniu:
+
+„
+
+### Rozdział 2a Krajowy rejestr utraconych dóbr kultury
+
+### Art. 24a.
+
+### 1.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego prowadzi krajowy rejestr utraconych dóbr kultury.
+
+### 2.
+
+Do krajowego rejestru utraconych dóbr kultury wpisuje się rzeczy ruchome będące:
+
+### 1)
+
+zabytkami wpisanymi do rejestru,
+
+### 2)
+
+muzealiami, o których mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach ([Dz. U. z 2012 r. poz. 987](https://api.sejm.gov.pl/eli/acts/DU/2012/987/text.html)),
+
+### 3)
+
+materiałami bibliotecznymi, o których mowa w art. 5 ustawy z dnia 27 czerwca 1997 r. o bibliotekach ([Dz. U. z 2012 r. poz. 642](https://api.sejm.gov.pl/eli/acts/DU/2012/642/text.html) i [908](https://api.sejm.gov.pl/eli/acts/DU/2012/908/text.html) oraz [z 2013 r. poz. 829](https://api.sejm.gov.pl/eli/acts/DU/2013/829/text.html)), należącymi do narodowego zasobu bibliotecznego,
+
+### 4)
+
+materiałami archiwalnymi, o których mowa w art. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. z 2011 r. Nr 123, poz. 698](https://api.sejm.gov.pl/eli/acts/DU/2011/698/text.html) i [Nr 171, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/2011/1016/text.html) oraz z [2014 r. poz. 822](https://api.sejm.gov.pl/eli/acts/DU/2014/822/text.html))
+
+- utraconymi przez właściciela w wyniku popełnienia czynu zabronionego, określonego w art. 278 § 1 i 3, art. 279 § 1, art. 280-283 albo art. 284 § 1-3 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396.](#gloss-0:5:)).
+
+### 3.
+
+Wpisu do krajowego rejestru utraconych dóbr kultury dokonuje się na wniosek Policji, prokuratora, wojewódzkiego konserwatora zabytków, Naczelnego Dyrektora Archiwów Państwowych, właściciela rzeczy, o której mowa w ust. 2, lub osoby kierującej jednostką organizacyjną, w zbiorach albo zasobach której rzecz się znajdowała.
+
+### 4.
+
+Wniosek, o którym mowa w ust. 3, składa się na urzędowym formularzu.
+
+### 5.
+
+Stroną postępowania o wpis do krajowego rejestru utraconych dóbr kultury jest właściciel rzeczy lub jednostka organizacyjna, w zbiorach albo zasobie której rzecz się znajdowała.
+
+### 6.
+
+Do wniosku, o którym mowa w ust. 3, załącza się:
+
+### 1)
+
+kopię zawiadomienia o przestępstwie wraz z dowodem złożenia go organowi ścigania albo odpis protokołu z przyjęcia ustnego zawiadomienia o przestępstwie lub postanowienie o wszczęciu śledztwa albo dochodzenia, w przypadku gdy wniosek składa właściciel utraconej rzeczy lub osoba kierująca jednostką organizacyjną, w zbiorach albo zasobie której rzecz się znajdowała;
+
+### 2)
+
+zdjęcie utraconej rzeczy, w przypadku gdy jest ona zabytkiem lub muzealium, o których mowa w ust. 2 pkt 1 i 2, w formie pliku cyfrowego.
+
+### Art. 24b.
+
+### 1.
+
+Wpisu utraconej rzeczy do krajowego rejestru utraconych dóbr kultury dokonuje się na podstawie decyzji o wpisie do rejestru utraconych dóbr kultury wydanej przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego. Decyzja podlega natychmiastowemu wykonaniu.
+
+### 2.
+
+Wpis do krajowego rejestru utraconych dóbr kultury polega na wprowadzeniu do niego danych umożliwiających identyfikację utraconej rzeczy zawartych w decyzji, o której mowa w ust. 1, niezwłocznie po jej wydaniu.
+
+### 3.
+
+Dokonanie wpisu do krajowego rejestru utraconych dóbr kultury nie jest uzależnione od ustalenia popełnienia czynu zabronionego, o którym mowa w art. 24a ust. 2, prawomocnym wyrokiem skazującym.
+
+### 4.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze decyzji, odmawia wpisu do krajowego rejestru utraconych dóbr kultury, w przypadku gdy dane dotyczące utraconej rzeczy zawarte we wniosku, o którym mowa w art. 24a ust. 3, nie pozwalają na jej identyfikację.
+
+### Art. 24c.
+
+### 1.
+
+Krajowy rejestr utraconych dóbr kultury, prowadzony w systemie teleinformatycznym, jest jawny.
+
+### 2.
+
+Odpisy z krajowego rejestru utraconych dóbr kultury wydawane są na wniosek każdego, kto tego zażąda.
+
+### 3.
+
+Dane będące podstawą wpisu do krajowego rejestru utraconych dóbr kultury udostępnia się wyłącznie organom władzy publicznej oraz właścicielowi utraconej rzeczy lub jednostce organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała, a innym osobom tylko za zgodą właściciela utraconej rzeczy lub jednostki organizacyjnej, w zbiorach albo zasobie której rzecz się znajdowała.
+
+### Art. 24d.
+
+Od dnia dokonania wpisu w krajowym rejestrze utraconych dóbr kultury nikt nie może zasłaniać się nieznajomością danych ujawnionych w tym rejestrze.
+
+### Art. 24e.
+
+### 1.
+
+Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na podstawie decyzji ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+
+### 2.
+
+Wykreślenie wpisu z krajowego rejestru utraconych dóbr kultury następuje na wniosek podmiotów wskazanych w art. 24a ust. 3 albo z urzędu, w przypadku gdy:
+
+### 1)
+
+właściciel odzyskał posiadanie utraconej rzeczy;
+
+### 2)
+
+dane będące podstawą wpisu okazały się nieprawdziwe.
+
+### 3.
+
+W przypadku określonym w ust. 2 pkt 2, skutki prawne dokonania wpisu w krajowym rejestrze utraconych dóbr kultury zostają zniesione z mocą wsteczną.
+
+### Art. 24f.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowy sposób prowadzenia krajowego rejestru utraconych dóbr kultury, w tym zakres danych objętych wpisem, zasady wydawania odpisów oraz wzór formularza wniosku o wpis, uwzględniając prowadzenie krajowego rejestru utraconych dóbr kultury w systemie teleinformatycznym, konieczność zapewnienia przejrzystości i kompletności zapisu informacji znajdujących się w krajowym rejestrze utraconych dóbr kultury, zmian i wykreśleń wpisów oraz sprawność postępowania rejestracyjnego.
+
+” ;
+
+### 3)
+
+w art. 32 uchyla się ust. 9.
+
+### Rozdział 6 Przepis przejściowy i przepisy końcowe
+
+### Art. 28.
+
+Przepisy rozdziału 2a ustawy zmienianej w art. 27 stosuje się do rzeczy ruchomych utraconych w wyniku czynu zabronionego popełnionego po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 29.
+
+### 1.
+
+Maksymalny limit wydatków budżetu państwa na lata 2015-2024 wyniesie 9 182 756 zł, z tym że w roku:
+
+### 1)
+
+2015 - 972 720 zł;
+
+### 2)
+
+2016 - 792 765 zł;
+
+### 3)
+
+2017 - 820 511 zł;
+
+### 4)
+
+2018 - 849 229 zł;
+
+### 5)
+
+2019 - 878 952 zł;
+
+### 6)
+
+2020 - 909 716 zł;
+
+### 7)
+
+2021 - 940 646 zł;
+
+### 8)
+
+2022 - 972 628 zł;
+
+### 9)
+
+2023 - 1 005 698 zł;
+
+### 10)
+
+2024 - 1 039 891 zł.
+
+### 2.
+
+W przypadku zagrożenia przekroczenia limitów wydatków, o których mowa w ust. 1, na dany rok budżetowy, zostanie zastosowany mechanizm korygujący polegający na ograniczeniu kosztów rzeczowych związanych z realizacją zadań związanych z prowadzeniem krajowego rejestru utraconych dóbr kultury.
+
+### 3.
+
+Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+### 4.
+
+Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1, jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+
+### Art. 30.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 23 kwietnia 1964 r. - Kodeks cywilny oraz ustawę z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602, z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135, Nr 217, poz. 1280, Nr 233, poz. 1381 i Nr 240, poz. 1431, z 2012 r. poz. 611, z 2013 r. poz. 849, 905, 1036 i 1247, z 2014 r. poz. 538 oraz z 2015 r. poz. 396.

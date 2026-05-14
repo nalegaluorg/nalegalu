@@ -1,0 +1,189 @@
+---
+title: Obwieszczenie Prezesa Rady Ministrów z dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie
+address: WDU20240001546
+eli: DU/2024/1546
+publisher: DU
+year: 2024
+pos: 1546
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Prezesa Rady Ministrówz dnia 10 października 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1546 |
+| ISAP | WDU20240001546 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-10-10 |
+| Data wydania | 2024-10-18 |
+| Ostatnia zmiana | 2024-10-21 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1546/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1546) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Rady Ministrów z dnia 20 marca 2007 r. w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie](#part_2)
+
+- [Załącznik nr 1 - Zaświadczenie o pomocy de minimis (wzór)](#part_3)
+
+- [Załącznik nr 2 - Zaświadczenie o pomocy de minimis w rolnictwie lub rybołówstwie (wzór)](#part_4)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 20 marca 2007 r. w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie ([Dz. U. z 2018 r. poz. 350](https://api.sejm.gov.pl/eli/acts/DU/2018/350/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 21 czerwca 2024 r. zmieniającym rozporządzenie w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie ([Dz. U. poz. 976](https://api.sejm.gov.pl/eli/acts/DU/2024/976/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 1 oraz § 2 i § 3 rozporządzenia Rady Ministrów z dnia 21 czerwca 2024 r. zmieniającego rozporządzenie w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie ([Dz. U. poz. 976](https://api.sejm.gov.pl/eli/acts/DU/2024/976/text.html)), które stanowią: „ 1) Niniejsze rozporządzenie służy stosowaniu rozporządzenia Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (aaaDz. Urz. UE L 2023/2831 z 15.12.2023) oraz rozporządzenia Komisji (UE) 2023/2832 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis przyznawanej przedsiębiorstwom wykonującym usługi świadczone w ogólnym interesie gospodarczym (Dz. Urz. UE L 2023/2832 z 15.12.2023 oraz Dz. Urz. UE L 2023/2832 z 30.05.2024). ”
+
+„
+
+### § 2.
+
+Do zaświadczeń o pomocy de minimis udzielonej na warunkach określonych w rozporządzeniu Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis ([Dz. Urz. UE L 352 z 24.12.2013, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.](#gloss-0: a:) lub rozporządzeniu Komisji (UE) nr 360/2012 z dnia 25 kwietnia 2012 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis przyznawanej przedsiębiorstwom wykonującym usługi świadczone w ogólnym interesie gospodarczym ([Dz. Urz. UE L 114 z 26.04.2012, str. 8](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 290 z 04.10.2014, str. 11, Dz. Urz. UE L 313 z 10.12.2018, str. 2, Dz. Urz. UE L 337 z 14.10.2020, str. 1 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.](#gloss-0: b:) stosuje się przepisy dotychczasowe.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+” .
+
+a) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 215 z 07.07.2020, str. 3 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023. b) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 290 z 04.10.2014, str. 11, Dz. Urz. UE L 313 z 10.12.2018, str. 2, Dz. Urz. UE L 337 z 14.10.2020, str. 1 oraz Dz. Urz. UE L 2023/2391 z 05.10.2023.
+
+## Załącznik - Rozporządzenie Rady Ministrów z dnia 20 marca 2007 r. w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie
+
+Na podstawie art. 5 ust. 4 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ([Dz. U. z 2023 r. poz. 702](https://api.sejm.gov.pl/eli/acts/DU/2023/702/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa formę, treść, termin i sposób wydawania zaświadczenia stwierdzającego, że udzielona pomoc publiczna jest:
+
+### 1)
+
+pomocą de minimis , zwanego dalej „zaświadczeniem o pomocy de minimis ”, albo
+
+### 2)
+
+pomocą de minimis w rolnictwie lub rybołówstwie, zwanego dalej „zaświadczeniem o pomocy de minimis w rolnictwie lub rybołówstwie”.
+
+### § 2.
+
+### 1.
+
+Zaświadczenie o pomocy de minimis sporządza się zgodnie ze wzorem określonym w załączniku nr 1 do rozporządzenia.
+
+### 2.
+
+Zaświadczenie o pomocy de minimis w rolnictwie lub rybołówstwie sporządza się zgodnie ze wzorem określonym w załączniku nr 2 do rozporządzenia.
+
+### 3.
+
+Wzory, o których mowa w ust. 1 i 2, nie mają zastosowania w przypadku udzielania pomocy publicznej będącej pomocą de minimis albo pomocą de minimis w rolnictwie lub rybołówstwie na podstawie decyzji, jeżeli w jej treści zostaną zawarte wszystkie elementy wymienione odpowiednio w § 3 oraz § 3a.
+
+### § 3.
+
+Zaświadczenie o pomocy de minimis i zaświadczenie o pomocy de minimis w rolnictwie lub rybołówstwie zawiera:
+
+### 1)
+
+datę wydania;
+
+### 2)
+
+pieczęć podmiotu udzielającego pomocy, jeżeli zaświadczenie nie jest wydawane w formie dokumentu elektronicznego;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP), nazwę oraz adres siedziby podmiotu udzielającego pomocy;
+
+### 4)
+
+numer identyfikacji podatkowej (NIP), imię i nazwisko albo nazwę oraz adres miejsca zamieszkania albo siedziby beneficjenta pomocy de minimis albo pomocy de minimis w rolnictwie lub rybołówstwie;
+
+### 5)
+
+dzień udzielenia pomocy;
+
+### 6)
+
+wartość udzielonej pomocy brutto w złotych i w euro;
+
+### 7)
+
+wskazanie podstawy prawnej udzielenia pomocy;
+
+### 8)
+
+stwierdzenie, że udzielona pomoc jest pomocą de minimis albo pomocą de minimis w rolnictwie lub rybołówstwie;
+
+### 9)
+
+informację dotyczącą właściwego rozporządzenia Komisji Europejskiej regulującego warunki dopuszczalności udzielania pomocy o charakterze pomocy de minimis , które miały zastosowanie do udzielonej pomocy de minimis albo pomocy de minimis w rolnictwie lub rybołówstwie;
+
+### 10)
+
+dane osoby upoważnionej do wydania zaświadczenia.
+
+### § 3a.
+
+Zaświadczenie o pomocy de minimis , oprócz informacji określonych w § 3, zawiera:
+
+### 1[1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 21 czerwca 2024 r. zmieniającego rozporządzenie w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie (Dz. U. poz. 976), które weszło w życie z dniem 3 lipca 2024 r.](#gloss-0:1:))
+
+w przypadku gdy o pomoc de minimis wnioskował wspólnik spółki cywilnej, jawnej albo partnerskiej, komplementariusz spółki komandytowej albo komandytowo-akcyjnej niebędący akcjonariuszem, wspólnik jednoosobowej spółki z ograniczoną odpowiedzialnością albo akcjonariusz prostej spółki akcyjnej lub inny podmiot, na który została przeniesiona odpowiedzialność podatkowa, w związku z działalnością prowadzoną w tej spółce - numer identyfikacji podatkowej (NIP), imię i nazwisko albo nazwę oraz adres miejsca zamieszkania albo siedziby tego wspólnika, akcjonariusza albo komplementariusza lub osoby trzeciej, na którą przeniesiono odpowiedzialność podatkową;
+
+### 2)
+
+(uchylony);[2) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:2:)
+
+### 3)
+
+w przypadku pomocy de minimis udzielanej w związku z wykonywaniem usługi świadczonej w ogólnym interesie gospodarczym - opis tej usługi.
+
+### § 4.
+
+### 1.
+
+Zaświadczenie o pomocy de minimis i zaświadczenie o pomocy de minimis w rolnictwie lub rybołówstwie wydaje się z urzędu w dniu udzielenia pomocy publicznej będącej pomocą de minimis albo pomocą de minimis w rolnictwie lub rybołówstwie, a w przypadku pomocy:
+
+### 1)
+
+udzielanej na podstawie decyzji - wraz z tą decyzją w dniu jej wydania;
+
+### 2)
+
+w formie ulgi podatkowej udzielanej na podstawie aktu normatywnego bez wymogu wydania decyzji - w terminie 2 miesięcy od dnia udzielenia pomocy publicznej.
+
+### 2.
+
+Beneficjent pomocy może wystąpić o wydanie zaświadczenia o pomocy de minimis albo zaświadczenia o pomocy de minimis w rolnictwie lub rybołówstwie przed upływem terminu, o którym mowa w ust. 1 pkt 2.
+
+### § 5.
+
+Traci moc rozporządzenie Rady Ministrów z dnia 11 sierpnia 2004 r. w sprawie zaświadczeń o pomocy de minimis ([Dz. U. poz. 1930](https://api.sejm.gov.pl/eli/acts/DU/2004/1930/text.html)).
+
+### § 6.
+
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia[3) Rozporządzenie zostało ogłoszone w dniu 28 marca 2007 r.](#gloss-0:3:).
+
+1) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Rady Ministrów z dnia 21 czerwca 2024 r. zmieniającego rozporządzenie w sprawie zaświadczeń o pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie (Dz. U. poz. 976), które weszło w życie z dniem 3 lipca 2024 r. 2) Przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 1. 3) Rozporządzenie zostało ogłoszone w dniu 28 marca 2007 r.
+
+## Załącznik nr 1 - Zaświadczenie o pomocy de minimis (wzór)[4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:4:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2024/1546/text.pdf)
+
+4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załącznik nr 2 - Zaświadczenie o pomocy de minimis w rolnictwie lub rybołówstwie (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2024/1546/text.pdf)

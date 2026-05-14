@@ -1,0 +1,52 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 7 listopada 2018 r. w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa"
+address: WDU20180002178
+eli: DU/2018/2178
+publisher: DU
+year: 2018
+pos: 2178
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 7 listopada 2018 r. w sprawie równorzędności stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 2178 |
+| ISAP | WDU20180002178 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-11-07 |
+| Data wydania | 2018-11-21 |
+| Wejście w życie | 2018-12-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2178/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2178) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Równorzędność stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 127 ust. 3 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa ([Dz. U. z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html), [1562](https://api.sejm.gov.pl/eli/acts/DU/2018/1562/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Równorzędność stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa jest określona w załączniku do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 grudnia 2001 r. w sprawie równorzędności stopni wojskowych, funkcjonariuszy Policji, Straży Granicznej, Służby Więziennej i Urzędu Ochrony Państwa oraz uzyskanych w Państwowej Straży Pożarnej ze stopniami funkcjonariuszy Biura Ochrony Rządu (Dz. U. z 2002 r. poz. 6), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).](#gloss-0:1:)
+
+1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 29 grudnia 2001 r. w sprawie równorzędności stopni wojskowych, funkcjonariuszy Policji, Straży Granicznej, Służby Więziennej i Urzędu Ochrony Państwa oraz uzyskanych w Państwowej Straży Pożarnej ze stopniami funkcjonariuszy Biura Ochrony Rządu (Dz. U. z 2002 r. poz. 6), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 389 ust. 1 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2018 r. poz. 138, 650, 730, 1544, 1562 i 1669).
+
+## Załącznik - Równorzędność stopni wojskowych oraz uzyskanych w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej i Służbie Celno-Skarbowej ze stopniami funkcjonariuszy Służby Ochrony Państwa
+
+Stopnie funkcjonariuszy Służby Ochrony Państwa Stopnie wojskowe w wojskach lądowych i w lotnictwie wojskowe w marynarce wojennej w Biurze Ochrony Rządu w Policji w Straży Granicznej w Straży Marszałkowskiej w Państwowej Straży Pożarnej w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego i Służbie Wywiadu Wojskowego w Służbie Więziennej w Służbie Celno-Skarbowej 1 2 3 4 5 6 7 8 9 10 11 szeregowi szeregowi szeregowi szeregowi Policji szeregowi szeregowi szeregowi straży pożarnej szeregowi szeregowi Służby Więziennej szeregowi Służby Celno-Skarbowej szeregowy SOP szeregowy marynarz szeregowy posterunkowy szeregowy SG (marynarz SG) aplikant strażak szeregowy szeregowy SW aplikant starszy szeregowy SOP starszy szeregowy starszy marynarz starszy szeregowy starszy posterunkowy starszyszeregowy SG(starszy marynarzSG) starszy aplikant starszy strażak starszy szeregowy starszy szeregowy SW starszy aplikant podoficerowie podoficerowie młodsi podoficerowie podoficerowie Policji podoficerowie podoficerowie podoficerowie straży pożarnej podoficerowie podoficerowie Służby Więziennej podoficerowie Służby Celno-Skarbowej kapral SOP kapral mat kapral kapral SG (mat SG) sekcyjny kapral kapral SW młodszy rewident starszy kapral starszy mat starszy sekcyjny starszy kapral starszy kapral SW plutonowy SOP plutonowy bosmanmat plutonowy sierżant Policji plutonowy SG (bosmanmat SG) młodszy strażnik młodszy ogniomistrz plutonowy plutonowy SW rewident starszy plutonowy starszy rewident podoficerowie sierżant SOP sierżant bosman sierżant starszy sierżant Policji sierżant SG (bosman SG) strażnik ogniomistrz sierżant sierżant SW młodszy rachmistrz starszy sierżantSG (starszy bosmanSG) starszy sierżant starszy sierżant SW rachmistrz starszy sierżant SOP starszy sierżant starszy bosman starszy sierżant sierżant sztabowy Policji sierżant sztabowySG(bosmansztabowy SG) starszy strażnik starszy ogniomistrz sierżant sztabowy sierżant sztabowy SW starszy rachmistrz starszy sierżant sztabowy starszy sierżant sztabowy SW chorążowie chorążowie aspiranci Policji chorążowie chorążowie aspiranci straży pożarnej chorążowie chorążowie Służby Więziennej aspiranci Służby Celno-Skarbowej młodszy chorąży SOP młodszy chorąży młodszychorążymarynarki młodszy chorąży młodszy aspirant Policji młodszy chorąży SG młodszy aspirant młodszy aspirant młodszy chorąży młodszy chorąży SW młodszy aspirant aspirant aspirant podoficerowie starsi chorąży SOP chorąży chorąży marynarki chorąży aspirant Policji chorąży SG starszy aspirant starszy aspirant chorąży chorąży SW aspirant starszy chorąży starszy chorąży marynarki starszy chorąży SOP starszy chorąży sztabowy starszy chorąży sztabowy marynarki starszy chorąży starszy aspirant Policji starszy chorąży SG aspirant sztabowy aspirant sztabowy starszy chorąży starszy chorąży SW starszy aspirant młodszy chorąży sztabowy chorąży sztabowy aspirant sztabowy Policji chorąży sztabowy SG starszy chorąży sztabowy starszy chorąży sztabowy SG oficerowie oficerowie młodsi oficerowie oficerowie młodsi Policji oficerowie oficerowie oficerowie straży pożarnej oficerowie oficerowie Służby Więziennej oficerowie młodsi Służby Celno-Skarbowej podporucznik SOP podporucznik podporucznik marynarki podporucznik podkomisarz Policji podporucznik SG podkomisarz młodszy kapitan podporucznik podporucznik SW podkomisarz porucznik SOP porucznik porucznik marynarki porucznik komisarz Policji porucznik SG komisarz kapitan porucznik porucznik SW komisarz kapitan SOP kapitan kapitan marynarki kapitan nadkomisarz Policji kapitan SG nadkomisarz starszy kapitan kapitan kapitan SW nadkomisarz oficerowie starsi oficerowie starsi Policji oficerowie starsi Służby Celno-Skarbowej major SOP major komandor podporucznik major podinspektor Policji major SG(komandorpodporucznik SG) podinspektor młodszy brygadier major major SW podinspektor podpułkownik SOP podpułkownik komandor porucznik podpułkownik młodszy inspektor Policji podpułkownik SG(komandorporucznik SG) młodszy inspektor brygadier podpułkownik podpułkownik SW młodszy inspektor pułkownik SOP pułkownik komandor pułkownik inspektor Policji pułkownik SG (komandor SG) inspektor starszy brygadier pułkownik pułkownik SW inspektor generałowie i admirałowie generałowie Policji generałowie Służby Celno-Skarbowej generał brygady SOP generał brygady kontradmirał generał brygady nadinspektor Policji generał brygadySG (kontradmirał SG) nadinspektor nadbrygadier generał brygady generał SW nadinspektor generał dywizji SOP generał dywizji wiceadmirał generał dywizji generalnyinspektorPolicji generał dywizjiSG(wiceadmirał SG) generał brygadier generał generał broni admirał floty generał admirał

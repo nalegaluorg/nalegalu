@@ -8,11 +8,9 @@ pos: 115
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:5)(cid:2)(cid:11)(cid:10)(cid:12)(cid:13)(cid:3)(cid:12)(cid:14)(cid:15)(cid:16)(cid:4)(cid:9)(cid:17)(cid:11)(cid:13)(cid:4)(cid:18)(cid:7)(cid:9)(cid:10)(cid:8)(cid:18)(cid:2)(cid:11)(cid:16)(cid:3)(cid:4)(cid:19) (cid:20)(cid:11)(cid:3)(cid:13)(cid:3)(cid:6)(cid:12)(cid:21)(cid:9)(cid:22) Przepisy ogólne
-
-*USTAWA z dnia 20 maja 1971 r.*
+# Ustawa z dnia 20 maja 1971 r.Przepisy wprowadzające Kodeks wykroczeń
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +22,428 @@ domain: null
 | Data ogłoszenia | 1971-05-20 |
 | Data wydania | 1971-05-31 |
 | Ostatnia zmiana | 2024-11-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1971/115/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1971/115/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1971/115) |
 
-Art. I.
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:8)(cid:11)(cid:14)(cid:2)(cid:3)(cid:12)(cid:15)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)(cid:23)(cid:24)(cid:7)(cid:10)(cid:25)
-Art. II.
-(cid:26)(cid:7)(cid:19)(cid:25)(cid:7)(cid:27)(cid:7)(cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:8)(cid:4)(cid:28)(cid:29)(cid:11)(cid:15)(cid:21)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:20)(cid:10)(cid:21)(cid:11)(cid:31)(cid:7)(cid:18)(cid:2)(cid:11)(cid:7)(cid:8)(cid:6)(cid:12)(cid:4) (cid:5)(cid:15)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9) (cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:12)(cid:31)(cid:11)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:3)(cid:18)(cid:15)(cid:2)(cid:20)"(cid:8)(cid:7)(cid:8)(cid:7)(cid:20)(cid:9)(cid:18)(cid:7)(cid:5)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:15)(cid:4)(cid:7)(cid:30)(cid:17)(cid:2)(cid:10)(cid:18)(cid:2)(cid:8)(cid:21)(cid:17)(cid:9)(cid:11)(cid:14)(cid:25) (cid:26)(cid:7)(cid:24)(cid:25)(cid:7)#(cid:7)(cid:6)(cid:12)(cid:11)(cid:12)(cid:4)$" (cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:20)(cid:10)(cid:21)(cid:11)(cid:31)(cid:7)(cid:18)(cid:2)(cid:11)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:8)(cid:9)(cid:18)(cid:15)(cid:4)(cid:17)(cid:15)(cid:2)(cid:17)(cid:4)(cid:7)(cid:8)(cid:7)(cid:21)(cid:10)(cid:20)(cid:9)(cid:5)(cid:30)%(cid:21)(cid:11)(cid:14)(cid:7)!(cid:2)(cid:17)(cid:15)(cid:16)(cid:6)(cid:12)(cid:9)(cid:11)(cid:14)(cid:25)
-Art. III.
-& (cid:4)(cid:5)(cid:10)(cid:2)’(cid:7)(cid:17)(cid:15)(cid:17)(cid:15)(cid:4)(cid:28)(cid:6)(cid:12)(cid:21)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:7)(cid:8)(cid:9)(cid:18)(cid:15)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:11)(cid:12)(cid:21)(cid:6)(cid:2)(cid:8)(cid:4)((cid:7)(cid:17)(cid:21) (cid:4)(cid:16)(cid:9)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:12)(cid:7)(cid:20)(cid:2)(cid:7)(cid:10)(cid:2)(cid:12)(cid:30)(cid:18)(cid:15)(cid:4)’ !(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:12)(cid:7)(cid:30)(cid:8)(cid:12)$ )(cid:3)(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:8)(cid:6)(cid:12)(cid:9)(cid:6)(cid:20)(cid:5)(cid:15)(cid:11)(cid:14)(cid:7)(cid:12)(cid:18)(cid:15)(cid:21)(cid:17)(cid:7)(cid:15)(cid:7)(cid:30)(cid:12)(cid:30)!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:13)((cid:7)(cid:8)!(cid:10)(cid:2)(cid:8)(cid:21)(cid:3)(cid:12)(cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:3) (cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:8)(cid:4)(cid:28)(cid:29)(cid:11)(cid:15)(cid:21)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:20)(cid:4)(cid:28)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:25)
-Art. IV.
-*(cid:11)(cid:14)(cid:9) (cid:21)(cid:7)(cid:6)(cid:15))+ (cid:19),(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:4)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:19)(cid:7) (cid:15)!(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)/(cid:24)(cid:7)(cid:10)(cid:25)(cid:7)0(cid:7)-(cid:10)(cid:21)(cid:8)(cid:2)(cid:7)(cid:2) wykroczeniach (Dz.U. Nr 60, 572), (cid:24),(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8))(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)1(cid:7)(cid:5)(cid:8)(cid:15)(cid:4)(cid:20)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)/(cid:23)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:6)(cid:12)(cid:5)(cid:2)(cid:3)(cid:17)(cid:15)(cid:11)(cid:20)(cid:8)(cid:15)(cid:4)(cid:7) (cid:4)(cid:29)(cid:17)(cid:9)(cid:18)(cid:7)(cid:15)(cid:7)!(cid:2) (cid:17)(cid:9)(cid:18)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10) 30, 224), /,(cid:7)(cid:3)(cid:4)(cid:5)(cid:10)(cid:4)(cid:20)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)1(cid:7)(cid:18)(cid:21)(cid:10)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)5/(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:12)(cid:30)!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)"(cid:8)(cid:7)(cid:5)(cid:21)(cid:10)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)(cid:7)(cid:6)!(cid:10)(cid:21)(cid:8)(cid:21)(cid:11)(cid:14)(cid:7)(cid:2) (cid:17)(cid:15)(cid:4)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:3)(cid:2)(cid:6)(cid:20)(cid:21)(cid:8)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)(cid:12)(cid:7)(cid:19)(cid:22)57(cid:7)(cid:10)(cid:25)(cid:7)4(cid:10)(cid:7)7((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)/(cid:19),( 1,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8))(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)/(cid:7) (cid:15)!(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)5(cid:23)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:12)(cid:8)(cid:21) (cid:11)(cid:12)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:6)!(cid:4)(cid:5)(cid:30) (cid:21)(cid:11)(cid:28)(cid:15)(cid:7)(cid:15)(cid:7)(cid:2)(cid:11)(cid:14)(cid:10)(cid:2)(cid:17)(cid:15)(cid:4)(cid:7)(cid:15)(cid:17)(cid:20)(cid:4)(cid:10)(cid:4)(cid:6)"(cid:8) nabywców oraz producentów rolnych w obrocie handlowym (Dz.U. Nr 39,
-171), 5,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8))(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:18)(cid:21)(cid:28)(cid:21)(cid:7)(cid:19)(cid:22)58(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:12)(cid:21)(cid:2)(cid:6)(cid:20)(cid:10)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:2)(cid:3)!(cid:2)(cid:8)(cid:15)(cid:4)(cid:3)(cid:12)(cid:15)(cid:21) (cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:5)(cid:21)(cid:10)(cid:17)(cid:4)(cid:28)(cid:7)(cid:12)(cid:21)(cid:7)(cid:11)(cid:14)u(cid:15)$(cid:21)(cid:13)(cid:6)(cid:20)(cid:8)(cid:2)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)/1((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)5(cid:24),( 7,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8))(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:23)(cid:7)(cid:11)(cid:12)(cid:4)(cid:10)(cid:8)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)77(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:5)(cid:21)(cid:12)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:17)(cid:15)(cid:4)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:11)(cid:14)(cid:7)(cid:3)(cid:10)(cid:2)6(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)e(cid:20)(cid:11)(cid:3)(cid:13)(cid:3)(cid:6)(cid:12)(cid:21)(cid:9)(cid:22)(cid:22) (cid:23)(cid:24)(cid:6)(cid:12)(cid:25)(cid:8)(cid:9)(cid:10)(cid:9)(cid:5)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:12)(cid:16)(cid:26)(cid:9)(cid:11)(cid:27)(cid:11)(cid:10)(cid:6)(cid:15)(cid:3)(cid:28)(cid:14)(cid:15)(cid:16)(cid:8)(cid:16)(cid:26)
-Art. VI.
-*(cid:11)(cid:14)(cid:9) (cid:21)(cid:7)(cid:6)(cid:15))+ (cid:19),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)1((cid:7)7(cid:7)(cid:15)(cid:7)8(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:18)(cid:21)(cid:10)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)(cid:24)8 (cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:2)(cid:11)(cid:14)(cid:10)(cid:2)(cid:17)(cid:15)(cid:4)(cid:7)(cid:12)(cid:8)(cid:15)(cid:4)(cid:10)(cid:12)(cid:31)(cid:20)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)(cid:12)(cid:7)(cid:19)(cid:22)/(cid:24)(cid:7)(cid:10)(cid:25)(cid:7)4(cid:10)(cid:7)1(cid:24)((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)1(cid:19)(cid:23),( (cid:24),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)/(cid:24)(cid:7)!(cid:5)(cid:20)(cid:7)(cid:19)(cid:7)(cid:15)(cid:7)1(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:18)(cid:21)(cid:10)(cid:11)(cid:21) (cid:19)(cid:22)(cid:24)8(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)6(cid:21)(cid:3)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:12)(cid:8)(cid:15)(cid:4)(cid:10)(cid:12)(cid:31)(cid:20)(cid:7)(cid:10)(cid:12)(cid:4)9(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:15)(cid:7)(cid:18)(cid:15))(cid:6)(cid:21)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)(cid:12)(cid:7)(cid:19)(cid:22)//(cid:7)(cid:10)(cid:25)(cid:7)4(cid:10)(cid:7)7:((cid:7)!(cid:2)(cid:12)(cid:25)
-454),
-3) art. 11 ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz.U. Nr 22,
-162), 1,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)(cid:19)(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)1(cid:7)!(cid:21)9(cid:3)(cid:12)(cid:15)(cid:4)(cid:10)(cid:17)(cid:15)(cid:5)(cid:21) (cid:19)(cid:22)/1(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21) (cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:17)(cid:21)(cid:12)(cid:8)(cid:7)(cid:18)(cid:15)(cid:4)(cid:28)(cid:6)(cid:11)(cid:2)(cid:8)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)(cid:2)6(cid:15)(cid:4)(cid:5)(cid:20)"(cid:8)(cid:7);(cid:15)(cid:12)(cid:28)(cid:2)$(cid:10)(cid:21);(cid:15)(cid:11)(cid:12)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:2)(cid:10)(cid:21)(cid:12)(cid:7)(cid:2) (cid:17)(cid:30)(cid:18)(cid:4)(cid:10)(cid:21)(cid:11)(cid:28)(cid:15)(cid:7)(cid:17)(cid:15)(cid:4)(cid:10)(cid:30)(cid:11)(cid:14)(cid:2)(cid:18)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:22)1((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)85:,( 5,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)7(cid:7)(cid:3)(cid:4)(cid:5)(cid:10)(cid:4)(cid:20)(cid:30)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:7)!(cid:21)9(cid:3)(cid:12)(cid:15)(cid:4)(cid:10)(cid:17)(cid:15)(cid:5)(cid:21)(cid:7)(cid:19)(cid:22)/5(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:2)dznakach i mundurach (Dz.U. Nr 72, 455),
-6) art. 78 dekretu z dnia 8 czerwca 1955 r. - Prawo o aktach stanu cywilnego (Dz.U. Nr 25, 151), (cid:23),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19):(cid:7)(cid:3)(cid:4)(cid:5)(cid:10)(cid:4)(cid:20)(cid:30)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)/(cid:7)(cid:18)(cid:21)(cid:10)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)57(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:30)(cid:7)(cid:6)(cid:12)(cid:5)(cid:2) (cid:17)(cid:9)(cid:18)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:22)(
-52),
-8) art. 11 ustawy z dnia 1 lipca 1958 r. o zezwoleniach na wykonywanie przemy(cid:6)%(cid:30)((cid:7) (cid:10)(cid:12)(cid:4)(cid:18)(cid:15)(cid:2)(cid:6)%(cid:21)((cid:7) (cid:14)(cid:21)(cid:17)(cid:3) (cid:30)(cid:7) (cid:15)(cid:7) (cid:17)(cid:15)(cid:4)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:11)(cid:14)(cid:7) (cid:30)(cid:6)%(cid:30)$(cid:7) !(cid:10)(cid:12)(cid:4)(cid:12)(cid:7) (cid:28)(cid:4)(cid:3)(cid:17)(cid:2)(cid:6)(cid:20)(cid:5)(cid:15)(cid:7) $(cid:2)(cid:6)!(cid:2)(cid:3)(cid:21)(cid:10)(cid:5)(cid:15)(cid:7) (cid:17)(cid:15)(cid:4) (cid:30)(cid:6)!(cid:2)%(cid:4)(cid:11)(cid:12)(cid:17)(cid:15)(cid:2)(cid:17)(cid:4)(cid:28)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)15((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:24)(cid:24)1,( (cid:22),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)1(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:5)(cid:8)(cid:15)(cid:4)(cid:20)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)5(cid:22)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:20)(cid:10)(cid:12)(cid:9)(cid:18)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:11)(cid:12)(cid:9)(cid:6)(cid:20)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:5)(cid:30)(cid:7)(cid:8) miastach i osiedlach (Dz.U. Nr 27, 167),
-10) art. 27 i 28 ustawy z dnia 10 grudnia 1959 r. o zwalczaniu alkoholizmu (Dz.U.
-Nr 69, 434), (cid:19)(cid:19),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:24)(cid:22)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)/(cid:7)(cid:5)(cid:8)(cid:15)(cid:4)(cid:20)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)7:(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:2)(cid:11)(cid:14)(cid:10)(cid:2)(cid:17)(cid:15)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:11)(cid:15)(cid:8)!(cid:2)(cid:16)(cid:21)(cid:10)(cid:2)(cid:8)(cid:4)(cid:28)(cid:7)23(cid:12)(cid:25)*(cid:25) Nr 20, 120), (cid:19)(cid:24),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)/(cid:23)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)1(cid:7)(cid:11)(cid:12)(cid:4)(cid:10)(cid:8)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)7:(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:12)(cid:21)$(cid:2)(cid:6)!(cid:2)(cid:3)(cid:21)(cid:10)(cid:2)(cid:8)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7) (cid:21)(cid:6)"(cid:8)(cid:7)(cid:15)(cid:7)(cid:17)(cid:15)(cid:4)(cid:30)(cid:16)(cid:9) t(cid:5)"(cid:8)(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:6)(cid:20)(cid:21)(cid:17)(cid:2)(cid:8)(cid:15)(cid:31)(cid:11)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)%(cid:21)(cid:6)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)-(cid:21)(cid:13)(cid:6)(cid:20)(cid:8)(cid:21)(cid:7)(cid:2)(cid:10)(cid:21)(cid:12)(cid:7)(cid:17)(cid:15)(cid:4)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:11)(cid:14)(cid:7) (cid:21)(cid:6)"(cid:8)(cid:7)(cid:15)(cid:7)(cid:17)(cid:15)(cid:4)(cid:30)(cid:16)(cid:9)(cid:20)(cid:5)"(cid:8) !(cid:21)(cid:13)(cid:6)(cid:20)(cid:8)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:24)(cid:22)((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)77,( (cid:19)/,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)7/(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)/(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:19)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)%(cid:31)(cid:11)(cid:12)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)8((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)18,( (cid:19)1,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)11(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)5(cid:7) (cid:15)!(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:19)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:10)(cid:2)(cid:12)(cid:8)(cid:2)(cid:28)(cid:30)(cid:7)(cid:6)(cid:9)(cid:6)(cid:20)(cid:4)(cid:18)(cid:30)(cid:7)(cid:2)(cid:29)(cid:8)(cid:15)(cid:21)(cid:20)(cid:9)(cid:7)(cid:15)(cid:7)(cid:8)(cid:9)(cid:11)(cid:14)(cid:2)(cid:8) ania (Dz.U. Nr 32, 160), (cid:19)5,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:24)10(cid:24)7(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:23)(cid:7) (cid:15)(cid:6)(cid:20)(cid:2)!(cid:21)(cid:3)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:19)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)6(cid:4)(cid:12)!(cid:15)(cid:4)(cid:11)(cid:12)(cid:4)(cid:13)(cid:6)(cid:20)(cid:8)(cid:15)(cid:4)(cid:7)(cid:15)(cid:7)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:5)(cid:30)(cid:7)(cid:10) uchu na drogach publicznych (Dz.U. Nr 53, 295),
-16) art. 20 ustawy z dnia 29 marca 1962 r. o zgromadzeniach (Dz.U. Nr 20,
-89),
-18) art. 157 pkt 3 ustawy z dnia 30 maja 1962 r. - Prawo wodne (Dz.U. Nr 34,
-158),
-19) art. 26 ust. 1 pkt 3 ustawy z dnia 13 listopada 1963 r. o zwalczaniu chorób za(cid:5)(cid:21)9(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)5:((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:24)(cid:23)(cid:22),(
-20) art. 32 pkt 3, 8, 9 i 11 ustawy z dnia 25 listopada 1970 r. o warunkach zdro(cid:8)(cid:2)(cid:20)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:16)(cid:9)(cid:8)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)(cid:16)(cid:9)(cid:8)(cid:15)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:24)(cid:22)((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:24)15,(cid:25)
-Art. VII.
-<(cid:10)(cid:21)(cid:11)(cid:31)(cid:7)(cid:18)(cid:2)(cid:11)(cid:7)(cid:8)(cid:7)(cid:12)(cid:21)(cid:5)(cid:10)(cid:4)(cid:6)(cid:15)(cid:4)(cid:7)(cid:30)(cid:17)(cid:2)(cid:10)(cid:18)(cid:2)(cid:8)(cid:21)(cid:17)(cid:9)(cid:18)(cid:7)(cid:8)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:15)(cid:4)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)+ (cid:19),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)/(cid:24)(cid:7)!(cid:5)(cid:20)(cid:7)/(cid:7)(cid:15)(cid:7)5(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:18)(cid:21)(cid:10)(cid:11)(cid:21) (cid:19)(cid:22)(cid:24)8(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)6(cid:21)(cid:3)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:12)(cid:8)(cid:15)(cid:4)(cid:10)(cid:12)(cid:31)(cid:20)(cid:7)(cid:10)(cid:12)(cid:4)9(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:15)(cid:7)(cid:18)(cid:15))(cid:6)(cid:21)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)(cid:12)(cid:7)(cid:19)(cid:22)//(cid:7)(cid:10)(cid:25)(cid:7)4(cid:10)(cid:7)7:((cid:7)!(cid:2)(cid:12)(cid:25)
-454), (cid:24),(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19):(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:9)(cid:3)(cid:4)(cid:17)(cid:20)(cid:21)(cid:7).(cid:12)(cid:4)(cid:11)(cid:12)(cid:9)!(cid:2)(cid:6)!(cid:2) (cid:15)(cid:20)(cid:4)(cid:28)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)1(cid:7)!(cid:21)9(cid:3)(cid:12)(cid:15)(cid:4)(cid:10)(cid:17)(cid:15)(cid:5)(cid:21) (cid:19)(cid:22)/1(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21) (cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:17)(cid:21)(cid:12)(cid:8)(cid:7)(cid:18)(cid:15)(cid:4)(cid:28)(cid:6)(cid:11)(cid:2)(cid:8)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)(cid:2)6(cid:15)(cid:4)(cid:5)(cid:20)"(cid:8)(cid:7);(cid:15)(cid:12)(cid:28)(cid:2)$(cid:10)(cid:21);(cid:15)(cid:11)(cid:12)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:2)(cid:10)(cid:21)(cid:12)(cid:7)(cid:2) (cid:17)(cid:30)(cid:18)(cid:4)(cid:10)(cid:21)(cid:11)(cid:28)(cid:15)(cid:7)(cid:17)(cid:15)(cid:4)(cid:10)(cid:30)(cid:11)(cid:14)(cid:2)(cid:18)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:22)1((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)85:,(cid:7)0(cid:7)(cid:8)(cid:7)(cid:11)(cid:12))(cid:29)(cid:11)(cid:15)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:12)(cid:31)(cid:11)(cid:4)(cid:28)(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)8 (cid:15)(cid:7)(cid:22)(cid:7)(cid:20)(cid:4)$(cid:2)(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)( /,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19):(cid:7)(cid:30)(cid:6)(cid:20)(cid:25)(cid:7)(cid:19)(cid:7)(cid:3)(cid:4)(cid:5)(cid:10)(cid:4)(cid:20)(cid:30)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:22)(cid:7)!(cid:21)9(cid:3)(cid:12)(cid:15)(cid:4)(cid:10)(cid:17)(cid:15)(cid:5)(cid:21)(cid:7)(cid:19)(cid:22)5(cid:24)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)$(cid:2)(cid:6)!(cid:2)(cid:3)(cid:21)(cid:10)(cid:2)(cid:8)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:21)(cid:10)(cid:20)y(cid:5)(cid:30)%(cid:21)(cid:18)(cid:15)(cid:7)(cid:2)6(cid:10)(cid:2)(cid:20)(cid:30)(cid:7)(cid:20)(cid:2)(cid:8)(cid:21)(cid:10)(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:15)(cid:7)(cid:12)(cid:21)(cid:2)!(cid:21)(cid:20)(cid:10)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)11((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)/:(cid:19),(
-4) art. 21 ust. 1 ustawy z dnia 22 maja 1958 r. o popieraniu melioracji wodnych dla potrzeb rolnictwa (Dz.U. z 1963 r. Nr 42, 237), 5,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)/(cid:7)!(cid:5)(cid:20)(cid:7)(cid:19)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:24)(cid:7)(cid:5)(cid:8)(cid:15)(cid:4)(cid:20)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)5(cid:22)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:20)(cid:10)(cid:12)(cid:9)(cid:18)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:11)(cid:12)(cid:9)(cid:6)(cid:20)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)!o(cid:10)(cid:12)(cid:31)(cid:3)(cid:5)(cid:30)(cid:7)(cid:8)(cid:7)(cid:18)(cid:15)(cid:21)(cid:6)(cid:20)(cid:21)(cid:11)(cid:14)(cid:7)(cid:15)(cid:7)(cid:2)(cid:6)(cid:15)(cid:4)(cid:3) (cid:21)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:24)(cid:23)((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)7(cid:23),(cid:7)0(cid:7)(cid:8)(cid:7)(cid:11)(cid:12))(cid:29)(cid:11)(cid:15)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:12)(cid:31)(cid:11)(cid:4)(cid:28) art. 4 ust. 1-4 oraz art. 6 ust. 1-4 tej ustawy,
-6) art. 46 ust. 1 ustawy z dnia 2 grudnia 1960 r. o kolejach (Dz.U. z 1970 r. Nr 9,
-76),
-7) art. 20 ust. 1 i 2 ustawy z dnia 14 lipca 1961 r. o ewidencji i kontroli ruchu (cid:30)(cid:3)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)//((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)71,(
-8) art. 26 ust. 1 pkt 1 ustawy z dnia 13 listopada 1963 r. o zwalczaniu chorób za(cid:5)(cid:21)9(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)5:((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:24)(cid:23)(cid:22),(cid:25)
-Art. VIII.
-§ 1. W dekrecie z dnia 6 maja 1953 r. - Prawo górnicze (Dz.U. z 1961 r. Nr 23, !(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)(cid:19)/,(cid:7)(cid:8)!(cid:10)(cid:2)(cid:8)(cid:21)(cid:3)(cid:12)(cid:21)(cid:7)(cid:6)(cid:15))(cid:7)(cid:17)(cid:21)(cid:6)(cid:20))!(cid:30)(cid:28)(cid:31)(cid:11)(cid:4)(cid:7)(cid:12)(cid:18)(cid:15)(cid:21)(cid:17)(cid:9)+
-a) art. 137 otrzymuje brzmienie: "Art. 137. 1. Kto: (cid:19),(cid:7)6)(cid:3)(cid:31)(cid:11)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:21)(cid:17)(cid:9)(cid:7)(cid:3)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:6)(cid:20)(cid:10)(cid:12)(cid:4)$(cid:21)(cid:17)(cid:15)(cid:21)(cid:7)(cid:17)(cid:21)(cid:5)(cid:21)(cid:12)"(cid:8)(cid:7) (cid:30)6(cid:7)(cid:12) akazów, zawartych w przepisach wydanych na podsta(cid:8)(cid:15)(cid:4)(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)8(cid:24)((cid:7)(cid:8)(cid:7)(cid:12)(cid:21)(cid:5)(cid:10)(cid:4)(cid:6)(cid:15)(cid:4)(cid:7)(cid:12)(cid:21)$(cid:10)(cid:2)(cid:16)(cid:4)(cid:13)+(cid:7)!(cid:2)(cid:16)(cid:21)(cid:10)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)((cid:7)$(cid:21)(cid:12) o(cid:8)(cid:9)(cid:11)(cid:14)((cid:7)!(cid:9)%(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)((cid:7)(cid:8)(cid:2)(cid:3)(cid:17)(cid:9)(cid:11)(cid:14)((cid:7)(cid:8)(cid:7)(cid:12)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:30)(cid:7)(cid:12)(cid:7)(cid:28)(cid:21)(cid:12)(cid:3)(cid:31)(cid:7) (cid:30)(cid:3)(cid:12)(cid:15) (cid:6)(cid:12)(cid:9)6(cid:21)(cid:18)(cid:15)(cid:7)(cid:2)(cid:10)(cid:21)(cid:12)(cid:7)(cid:8)(cid:7)(cid:12)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:30)(cid:7)(cid:12)(cid:7)(cid:17)(cid:21)6(cid:9)(cid:8)(cid:21)(cid:17)(cid:15)(cid:4)(cid:18)((cid:7)!(cid:10)(cid:12)(cid:4)(cid:11)(cid:14)(cid:2)(cid:8)y(cid:8)(cid:21)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:15)(cid:7)(cid:30)(cid:16)(cid:9)(cid:8)(cid:21)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:18)(cid:21)(cid:20)(cid:4)(cid:10)(cid:15)(cid:21)%"(cid:8)(cid:7)(cid:8)(cid:9)6(cid:30)(cid:11)(cid:14)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)(cid:7)(cid:12)a(cid:24),(cid:7)!(cid:10)(cid:2)(cid:8)(cid:21)(cid:3)(cid:12)(cid:15)(cid:7)(cid:10)(cid:30)(cid:11)(cid:14)(cid:7)(cid:12)(cid:21)(cid:5)%(cid:21)(cid:3)(cid:30)(cid:7)$"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7)6(cid:4)(cid:12)(cid:7)(cid:12)(cid:21)(cid:20)(cid:8)(cid:15)(cid:4)(cid:10)(cid:3)(cid:12)(cid:2)(cid:17)(cid:4)$(cid:2) planu ruchu albo niezgodnie z tym planem, /,(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:3)(cid:2)!(cid:4)%(cid:17)(cid:15)(cid:21)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)"(cid:8)(cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)(cid:19)8( !(cid:2)(cid:3) (cid:4)$(cid:21)(cid:7)(cid:5)(cid:21)(cid:10)(cid:12)(cid:4)(cid:7)(cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)(cid:7)(cid:3)(cid:2)(cid:7)/(cid:7)(cid:18)(cid:15)(cid:4)(cid:6)(cid:15))(cid:11)(cid:9)(cid:7) (cid:30)6(cid:7)(cid:5)(cid:21)(cid:10)(cid:12)(cid:4) $(cid:10)(cid:12)(cid:9)(cid:8)(cid:17)(cid:9)(cid:7)(cid:3)(cid:2)(cid:7)5(cid:7):::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:25)
-2. Kto: (cid:19),(cid:7)6)(cid:3)(cid:31)(cid:11)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:21)(cid:17)(cid:9)(cid:7)(cid:3)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:6)(cid:20)(cid:10)(cid:12)(cid:4)$(cid:21)(cid:17)(cid:15)(cid:21)(cid:7)(cid:17)(cid:21)(cid:5)(cid:21)(cid:12)"(cid:8)(cid:7) (cid:30)6(cid:7)(cid:12)akazów, zawartych w art. 75, 76, 114 ust. 2 i 3 lub art.
-115 ust. 1 albo w przepisach wydanych na podstawie (cid:21)(cid:10)(cid:20)(cid:25)(cid:7)8(cid:24)(cid:7)(cid:8)(cid:7)(cid:12)(cid:21)(cid:5)(cid:10)(cid:4)(cid:6)(cid:15)(cid:4)(cid:7)(cid:15)(cid:17)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)"(cid:8)(cid:7)(cid:17)(cid:15)(cid:16)(cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:2)(cid:17)(cid:4)(cid:7)(cid:8)(cid:7)(cid:30)(cid:6)(cid:20)(cid:25)(cid:7)(cid:19) pkt 1, art. 100 ust. 2, art. 115 ust. 2 lub art. 124, wykracza przeciwko tym nakazom lub zakazom,
-2) wykracza przeciwko nakazom zawartym w art. 86, /,(cid:7)(cid:8)6(cid:10)(cid:4)(cid:8)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:2)(cid:8)(cid:15)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:12)(cid:15)(cid:21)(cid:17)(cid:4)(cid:18)(cid:30)(cid:7)(cid:8)(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:23)8(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:6)!o(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:21)(cid:7) ! (cid:21)(cid:17)(cid:30)(cid:7) (cid:10)(cid:30)(cid:11)(cid:14)(cid:30)(cid:7) (cid:12)(cid:21)(cid:5)%(cid:21)(cid:3)(cid:30)(cid:7) $"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7) (cid:30)6(cid:7) (cid:8)6(cid:10)(cid:4)(cid:8) (cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:2)(cid:8)(cid:15)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:12)(cid:15)(cid:21)(cid:17)(cid:4)(cid:18)(cid:30)(cid:7)(cid:8)(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)(cid:24):((cid:7)(cid:19)(cid:24)5(cid:7)(cid:15)(cid:7)(cid:19)(cid:24)7(cid:7)(cid:17)(cid:15)(cid:4) (cid:6)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:21)(cid:7)! (cid:21)(cid:17)(cid:30)(cid:7) (cid:15)(cid:5)(cid:8)(cid:15)(cid:3)(cid:21)(cid:11)(cid:28)(cid:15)(cid:7)(cid:4)(cid:5)(cid:6)! (cid:2)(cid:21)(cid:20)(cid:21)(cid:11)(cid:28)(cid:15)(cid:7)(cid:12)%(cid:2)(cid:16)(cid:21)(cid:7)(cid:21) 6(cid:2)(cid:7)(cid:17)(cid:15)(cid:4) (cid:6)(cid:5)%(cid:21)(cid:3)(cid:21)(cid:7)(cid:20)(cid:9)(cid:11)(cid:14)(cid:7)! (cid:21)(cid:17)"(cid:8)(cid:7)(cid:8)(cid:7)(cid:20)(cid:4)(cid:10)(cid:18)(cid:15)(cid:17)(cid:21)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:21)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:2)(cid:5)(cid:10))$o(cid:8)(cid:4)(cid:18)(cid:30)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:2)(cid:8)(cid:15)(cid:7)$"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)(cid:18)(cid:30)(cid:7)(cid:3)(cid:2)(cid:7)(cid:12)(cid:21)(cid:20)(cid:8)(cid:15)(cid:4)(cid:10)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)( 1,(cid:7)6(cid:4)(cid:12)(cid:7)(cid:30)(cid:12)(cid:9)(cid:6)(cid:5)(cid:21)(cid:17)(cid:15)(cid:21)(cid:7)(cid:12)(cid:21)(cid:20)(cid:8)(cid:15)(cid:4)(cid:10)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:2)(cid:5)(cid:10))$(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)$"(cid:10)(cid:17)i(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7) (cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:30)(cid:28)(cid:4)(cid:7) (cid:11)(cid:12)(cid:9)(cid:17)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7) (cid:5)(cid:15)(cid:4)(cid:10)(cid:2)(cid:8)(cid:17)(cid:15)(cid:11)(cid:20)(cid:8)(cid:21)(cid:7) (cid:30)6(cid:7) (cid:3)(cid:2)(cid:12)(cid:2)(cid:10)(cid:30) (cid:10)(cid:30)(cid:11)(cid:14)(cid:30)(cid:7)(cid:12)(cid:21)(cid:5)%(cid:21)(cid:3)(cid:30)(cid:7)$"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7)(cid:21) 6(cid:2)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:30)(cid:28)(cid:4)(cid:7)(cid:20)(cid:4)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15) (cid:8)6(cid:10)(cid:4)(cid:8)(cid:7)(cid:12)(cid:21)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:2)(cid:7)(cid:12)(cid:21)(cid:8)(cid:15)(cid:4)(cid:6)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:8)(cid:7)!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:17)o(cid:29)(cid:11)(cid:15)(cid:7)2(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:22)8,( 5,(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:18)(cid:21)(cid:28)(cid:31)(cid:11)(cid:7)(cid:6)(cid:20)(cid:8)(cid:15)(cid:4)(cid:10)(cid:3)(cid:12)(cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:12)(cid:7)#(cid:9)(cid:16)(cid:6)(cid:12)(cid:9)(cid:7)*(cid:10)(cid:12)(cid:31)(cid:3)(cid:7)="(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:9) (cid:30)!(cid:10)(cid:21)(cid:8)(cid:17)(cid:15)(cid:4)(cid:13)((cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:30)(cid:28)(cid:4)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:18)(cid:15)(cid:4)(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7)$"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)ego, geologa górniczego lub asystenta mierniczego gór(cid:17)(cid:15)(cid:11)(cid:12)(cid:4)$(cid:2)(cid:7)2(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19):7(cid:7)(cid:30)(cid:6)(cid:20)(cid:25)(cid:7)(cid:24),(cid:7)(cid:21) 6(cid:2)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:30)(cid:28)(cid:4)(cid:7)(cid:20)(cid:4)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:17)(cid:2)(cid:29)(cid:11)(cid:15) (cid:8)6(cid:10)(cid:4)(cid:8)(cid:7)(cid:12)(cid:21)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:2)(cid:7)(cid:12)(cid:21)(cid:8)(cid:15)(cid:4)(cid:6)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:8)(cid:7)!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:17)o(cid:29)(cid:11)(cid:15)(cid:7)2(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)(cid:19)(cid:24),( 7,(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:3)(cid:2)(cid:7)(cid:12)(cid:21)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:13)(cid:7)(cid:2)(cid:5)(cid:10))$(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)$"(cid:10)(cid:17) iczego, wydanych na podstawie art. 132, !(cid:2)(cid:3) (cid:4)$(cid:21)(cid:7)(cid:5)(cid:21)(cid:10)(cid:12)(cid:4)(cid:7)$(cid:10)(cid:12)(cid:9)(cid:8)(cid:17)(cid:9)(cid:7)(cid:3)(cid:2)(cid:7)5(cid:7):::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:25) /(cid:25)(cid:7)(cid:1)(cid:21)(cid:10)(cid:9)(cid:7)(cid:12)(cid:21)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:9)(cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:2)(cid:17)(cid:4)(cid:7)(cid:8)(cid:7)(cid:30)(cid:6)(cid:20)(cid:25)(cid:7)(cid:19)(cid:7)(cid:15)(cid:7)(cid:24)(cid:7)(cid:8)(cid:9)(cid:18)(cid:15)(cid:4)(cid:10)(cid:12)(cid:21)(cid:28)(cid:31)(cid:7)(cid:5)(cid:2) (cid:4)$(cid:15)(cid:21)(cid:7)(cid:3)(cid:2) (cid:6)!(cid:10)(cid:21)(cid:8)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)!(cid:10)(cid:12)(cid:9)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:21)(cid:11)(cid:14)(cid:7)$"(cid:10)(cid:17)(cid:15)(cid:11)(cid:12)(cid:9)(cid:11)(cid:14)(cid:25)(cid:7)>(cid:10)(cid:12)(cid:4)(cid:5)(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:17) a(cid:6)(cid:20))!(cid:30)(cid:28)(cid:4)(cid:7)(cid:17)(cid:21)(cid:7)(cid:12)(cid:21)(cid:6)(cid:21)(cid:3)(cid:21)(cid:11)(cid:14)(cid:7)(cid:15)(cid:7)(cid:8)(cid:7)(cid:20)(cid:10)(cid:9)6(cid:15)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)"(cid:8)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)!(cid:2)(cid:6)(cid:20))! owania w sprawach o wykroczenia.";
-6,(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)/8(cid:7)(cid:6)(cid:5)(cid:10)(cid:4)(cid:29) (cid:21)(cid:7)(cid:6)(cid:15))(cid:25) (cid:26)(cid:7)(cid:24)(cid:25)(cid:7)#(cid:7)(cid:21)(cid:10)(cid:20)(cid:25)(cid:7)8(cid:7)(cid:30)(cid:6)(cid:20)(cid:25)(cid:7)(cid:24)(cid:7)(cid:3)(cid:4)(cid:5)(cid:10)(cid:4)(cid:20)(cid:30)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19):(cid:7) (cid:15)(cid:6)(cid:20)(cid:2)!(cid:21)(cid:3)(cid:21)(cid:7)(cid:19)(cid:22)51(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:28))(cid:11)(cid:15)(cid:30)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:12)(cid:7)(cid:12)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:15) (cid:12)(cid:21)(cid:8)(cid:2)(cid:3)(cid:2)(cid:8)(cid:4)(cid:7)(cid:12)(cid:21)(cid:3)(cid:21)(cid:13)(cid:7)(cid:8)(cid:7)(cid:3)(cid:12)(cid:15)(cid:4)(cid:3)(cid:12)(cid:15)(cid:17)(cid:15)(cid:4)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:9)(cid:8)(cid:21)(cid:17)(cid:15)(cid:21)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:7)(cid:2)(cid:7)(cid:2)(cid:11)(cid:14)(cid:10)(cid:2)(cid:17)(cid:15)(cid:4)((cid:7)6(cid:4)(cid:12)!(cid:15)(cid:4)(cid:11)(cid:12)(cid:4)(cid:13)stwie i higienie pracy oraz sprawowania inspekcji pracy (Dz.U. z 1968 r. Nr 8((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)1(cid:23),(cid:7)(cid:8)!(cid:10)(cid:2)(cid:8)(cid:21)(cid:3)(cid:12)(cid:21)(cid:7)(cid:6)(cid:15))(cid:7)(cid:17)(cid:21)(cid:6)(cid:20))!(cid:30)(cid:28)(cid:31)(cid:11)(cid:31)(cid:7)(cid:12)(cid:18)(cid:15)(cid:21)(cid:17))+ (cid:21),(cid:7)(cid:8)(cid:7)!(cid:5)(cid:20)(cid:7)1(cid:7)(cid:5)(cid:10)(cid:2)!(cid:5))(cid:7)(cid:12)(cid:21)(cid:6)(cid:20))!(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:29)(cid:10)(cid:4)(cid:3)(cid:17)(cid:15)(cid:5)(cid:15)(cid:4)(cid:18)?
-(cid:11)(cid:21)%(cid:2)(cid:29)(cid:11)(cid:15)(cid:7) (cid:30)6(cid:7)(cid:8)(cid:7)(cid:11)(cid:12))(cid:29)(cid:11)(cid:15)(cid:7)(cid:17)(cid:21) (cid:4)(cid:16)(cid:17)(cid:4)(cid:7)!(cid:10)(cid:21)(cid:11)(cid:2)(cid:8)(cid:17)(cid:15)(cid:5)(cid:2)(cid:8)(cid:15)(cid:7)(cid:8)(cid:9)(cid:17)(cid:21)$(cid:10)(cid:2)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:4)(cid:7) (cid:30)6(cid:7)(cid:8)(cid:9)(cid:6)o(cid:5)(cid:2)(cid:29)’(cid:7)(cid:28)(cid:4)$(cid:2)(cid:7)6(cid:4)(cid:12)!(cid:10)(cid:21)(cid:8)(cid:17)(cid:15)(cid:4)(cid:7)(cid:2)6(cid:17)(cid:15)(cid:16)(cid:21)(cid:7)(cid:21) 6(cid:2)(cid:7)(cid:12)(cid:18)(cid:30)(cid:6)(cid:12)(cid:21)(cid:7)!(cid:10)(cid:21)(cid:11)(cid:2)(cid:8)(cid:17)(cid:15)(cid:5)(cid:21)(cid:7)(cid:3)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:9)(cid:28))(cid:11)(cid:15)(cid:21) (cid:12)(cid:21)(cid:18)(cid:15)(cid:21)(cid:6)(cid:20)(cid:7)(cid:17)(cid:21) (cid:4)(cid:16)(cid:17)(cid:4)(cid:28)(cid:7)(cid:12)(cid:21)!%(cid:21)(cid:20)(cid:9)(cid:7)(cid:8)(cid:7)$(cid:2)(cid:20)"(cid:8)(cid:11)(cid:4)(cid:7)(cid:8)(cid:9)(cid:17)(cid:21)$(cid:10)(cid:2)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:8)(cid:7)(cid:15)(cid:17)(cid:17)(cid:4)(cid:28)(cid:7)!(cid:2)(cid:6)(cid:20)(cid:21)(cid:11)(cid:15)@(cid:25) (cid:26)(cid:7)/(cid:25)(cid:7)A(cid:10)(cid:20)(cid:9)(cid:5)(cid:30)%(cid:7)(cid:19)1(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:23)(cid:7)(cid:11)(cid:12)(cid:4)(cid:10)(cid:8)(cid:11)(cid:21)(cid:7)(cid:19)(cid:22)77(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:30)(cid:20)(cid:8)(cid:2)(cid:10)(cid:12)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)B(cid:4)(cid:17)(cid:20)(cid:10)(cid:21) (cid:17)(cid:4)$(cid:2)(cid:7)*(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)C(cid:21)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)D(cid:15)(cid:21)(cid:10)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10)(cid:7)(cid:24)/((cid:7)!(cid:2)(cid:12)(cid:25)(cid:7)(cid:19)1(cid:23),(cid:7)(cid:2)(cid:20)(cid:10)(cid:12)(cid:9)(cid:18)(cid:30)(cid:28)(cid:4)(cid:7)6(cid:10)(cid:12)(cid:18)(cid:15)(cid:4)(cid:17)(cid:15)(cid:4)+ @A(cid:10)(cid:20)(cid:25)(cid:7)(cid:19)1(cid:25)(cid:7)(cid:19)(cid:25)(cid:7)(cid:1)(cid:20)(cid:2)(cid:7)(cid:8)(cid:7)(cid:12)(cid:21)(cid:5)%(cid:21)(cid:3)(cid:12)(cid:15)(cid:4)(cid:7)!(cid:10)(cid:2)(cid:3)(cid:30)(cid:5)(cid:11)(cid:9)(cid:28)(cid:17)(cid:9)(cid:18)((cid:7)6)(cid:3)(cid:31)(cid:11)(cid:7)(cid:2)(cid:3)!(cid:2)(cid:8)(cid:15)(cid:4)(cid:3)(cid:12)(cid:15)(cid:21) (cid:17)(cid:9)(cid:7)(cid:12)(cid:21)(cid:7)(cid:28)a(cid:5)(cid:2)(cid:29)’(cid:7)!(cid:10)(cid:2)(cid:3)(cid:30)(cid:5)(cid:11)(cid:28)(cid:15)(cid:7) (cid:30)6(cid:7)(cid:12)(cid:21)(cid:7)(cid:5)(cid:2)(cid:17)(cid:20)(cid:10)(cid:2) )(cid:7)(cid:28)(cid:21)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)((cid:7)(cid:17)(cid:15)(cid:4)(cid:30)(cid:18)(cid:9)(cid:29) (cid:17)(cid:15)(cid:4)!(cid:10)(cid:12)(cid:4)(cid:12)(cid:17)a(cid:11)(cid:12)(cid:21)(cid:7) (cid:30)6(cid:7)(cid:8)!(cid:10)(cid:2)(cid:8)(cid:21)(cid:3)(cid:12)(cid:21)(cid:7)(cid:3)(cid:2)(cid:7)!(cid:10)(cid:2)(cid:3)(cid:30)(cid:5)(cid:11)(cid:28)(cid:15)((cid:7)(cid:3)(cid:2)(cid:7)(cid:2)6(cid:10)(cid:2)(cid:20)(cid:30)(cid:7) (cid:30)6(cid:7)(cid:30)(cid:16)(cid:9)(cid:20)(cid:5)(cid:30)(cid:7)(cid:8)(cid:9)(cid:10)o6(cid:9)(cid:7)(cid:2)(cid:7)(cid:28)(cid:21)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)$(cid:2)(cid:10)(cid:6)(cid:12)(cid:4)(cid:28)(cid:7)(cid:2)(cid:3)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21) (cid:2)(cid:17)(cid:4)(cid:28)(cid:7)(cid:3) (cid:21)(cid:7)(cid:20)(cid:21)(cid:5)(cid:15)(cid:11)(cid:14)(cid:7)(cid:8)(cid:9)(cid:10)(cid:2)6"(cid:8)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:12) (cid:8)%(cid:21)(cid:29)(cid:11)(cid:15)(cid:8)(cid:4)(cid:7)(cid:2)(cid:10)$(cid:21)(cid:17)(cid:9)(cid:7)(cid:21) 6(cid:2)(cid:7)(cid:2)(cid:11)(cid:12)(cid:9)(cid:8)(cid:15)(cid:29)(cid:11)(cid:15)(cid:4)(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:17)(cid:21)(cid:3)(cid:21)(cid:28)(cid:31)(cid:11)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:3)(cid:2)(cid:7)(cid:30)(cid:16)(cid:9)(cid:20)(cid:5)(cid:30)( (cid:3)(cid:2)(cid:7)(cid:5)(cid:20)"(cid:10)(cid:4)$(cid:2)(cid:7)(cid:6)(cid:31)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:12)(cid:17)(cid:21)(cid:11)(cid:12)(cid:2)(cid:17)(cid:4)( !(cid:2)(cid:3) (cid:4)$(cid:21)(cid:7)(cid:5)(cid:21)(cid:10)(cid:12)(cid:4)(cid:7)!(cid:15)(cid:4)(cid:17)(cid:15))(cid:16)(cid:17)(cid:4)(cid:28)(cid:7)(cid:3)(cid:2)(cid:7)5(cid:7):::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:25) (cid:24)(cid:25)(cid:7)(cid:1)(cid:21)(cid:10))(cid:7)!(cid:15)(cid:4)(cid:17)(cid:15))(cid:16)(cid:17)(cid:31)(cid:7)(cid:8)(cid:9)(cid:18)(cid:15)(cid:4)(cid:10)(cid:12)(cid:21)(cid:7)(cid:3)(cid:9)(cid:10)(cid:4)(cid:5)(cid:20)(cid:2)(cid:10)(cid:7)(cid:2)(cid:5)(cid:10))$(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)(cid:28)(cid:21)(cid:5)o(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)(cid:18)(cid:15)(cid:21)(cid:10)(cid:25) /(cid:25)(cid:7)>(cid:3)(cid:7)(cid:2)(cid:10)(cid:12)(cid:4)(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:3)(cid:9)(cid:10)(cid:4)(cid:5)(cid:20)(cid:2)(cid:10)(cid:21)(cid:7)(cid:2)(cid:5)(cid:10))$(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:30)(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)(cid:28)(cid:21)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)(cid:18)(cid:15)(cid:21)(cid:10) !(cid:10)(cid:12)(cid:9)(cid:6)%(cid:30)$(cid:30)(cid:28)(cid:4)(cid:7)(cid:2)(cid:3)(cid:8)(cid:2)%(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:8)(cid:7)(cid:20)(cid:4)(cid:10)(cid:18)(cid:15)(cid:17)(cid:15)(cid:4)(cid:7)(cid:19)1(cid:7)(cid:3)(cid:17)(cid:15)(cid:7)(cid:2)(cid:3)(cid:7)(cid:3)(cid:2)(cid:10))(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:2)(cid:10)(cid:12)e(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)0(cid:7)(cid:3)(cid:2)(cid:7)-(cid:10)(cid:4)(cid:12)(cid:4)(cid:6)(cid:21)(cid:7)B(cid:4)(cid:17)(cid:20)(cid:10)(cid:21) (cid:17)(cid:4)$(cid:2)(cid:7)*(cid:10)(cid:12))(cid:3)(cid:30)(cid:7)C(cid:21)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:15)(cid:7)D(cid:15)(cid:21)(cid:10)(cid:25) 1(cid:25)(cid:7).(cid:21)(cid:3)(cid:21)(cid:7)D(cid:15)(cid:17)(cid:15)(cid:6)(cid:20)(cid:10)"(cid:8)(cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:15)(cid:7)(cid:8)(cid:7)(cid:3)(cid:10)(cid:2)(cid:3)(cid:12)(cid:4)(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:12)(cid:21)(cid:6)(cid:21)(cid:3)(cid:9)(cid:7)(cid:15) tryb wymierzania kary wymienionej w ust. 1.".
-(cid:20)(cid:11)(cid:3)(cid:13)(cid:3)(cid:6)(cid:12)(cid:21)(cid:9)(cid:22)(cid:22)(cid:22) (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:3)(cid:4)(cid:14)(cid:29)(cid:16)(cid:6)(cid:11)(cid:10)(cid:4)(cid:9)(cid:6)(cid:9)(cid:18)(cid:11)(cid:19)(cid:16)(cid:11)(cid:10)(cid:4)
-Art. IX.
-(cid:26)(cid:7)(cid:19)(cid:25)(cid:7)& (cid:4)(cid:5)(cid:10)(cid:2)’(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:30)(cid:28)(cid:4)(cid:7)(cid:12)(cid:21)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:4)(cid:7)(cid:5)(cid:21)(cid:10))(cid:7)!(cid:2)(cid:12)6(cid:21)(cid:8)(cid:15)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:8)(cid:2) (cid:17)(cid:2)(cid:29)(cid:11)(cid:15)((cid:7)(cid:2)(cid:10)(cid:12)(cid:4)(cid:5)(cid:21) (cid:6)(cid:15))(cid:7)(cid:12)(cid:21)(cid:18)(cid:15)(cid:21)(cid:6)(cid:20)(cid:7)(cid:17)(cid:15)(cid:4)(cid:28)(cid:7)(cid:5)(cid:21)(cid:10))(cid:7)(cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)(cid:25) (cid:26)(cid:7)(cid:24)(cid:25)(cid:7)& (cid:4)(cid:5)(cid:10)(cid:2)’(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:30)(cid:28)(cid:4)(cid:7)1(cid:7)5::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:7)(cid:28)(cid:21)(cid:5)(cid:2)(cid:7)$"(cid:10)(cid:17)(cid:31)(cid:7)$(cid:10)(cid:21)(cid:17)(cid:15)(cid:11))(cid:7)$(cid:10)(cid:12)(cid:9)(cid:8)(cid:17)(cid:9)((cid:7)(cid:30)(cid:6)(cid:20)(cid:21) (cid:21) (cid:6)(cid:15))(cid:7)$"(cid:10)(cid:17)(cid:31)(cid:7)(cid:28)(cid:4)(cid:28)(cid:7)$(cid:10)(cid:21)(cid:17)(cid:15)(cid:11))(cid:7)(cid:8)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)5(cid:7):::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:25) (cid:26)(cid:7)/(cid:25)(cid:7)& (cid:4)(cid:5)(cid:10)(cid:2)’(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:30)(cid:28)(cid:4)(cid:7)(cid:12)(cid:21)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:7)!(cid:2)(cid:3) (cid:4)$(cid:21)(cid:28)(cid:31)(cid:11)(cid:9)(cid:7)(cid:2)(cid:10)(cid:12)(cid:4)(cid:11)(cid:12)(cid:17)(cid:15)(cid:11)(cid:20)(cid:8)(cid:30)(cid:7)(cid:5)(cid:2) (cid:4)$(cid:15)"(cid:8)(cid:7)(cid:3)(cid:2) (cid:6)!(cid:10)(cid:21)(cid:8)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:5)(cid:21)(cid:10))(cid:7)(cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)(cid:7)!(cid:2)(cid:8)(cid:9)(cid:16)(cid:4)(cid:28)(cid:7)/(cid:7)(cid:18)(cid:15)(cid:4)(cid:6)(cid:15))(cid:11)(cid:9)(cid:7) (cid:30)6(cid:7)$(cid:10)(cid:12)(cid:9)(cid:8)(cid:17))(cid:7)!(cid:2)(cid:8)(cid:9)(cid:16)(cid:4)(cid:28)(cid:7)5 :::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)((cid:7)$"(cid:10)(cid:17)(cid:31)(cid:7)$(cid:10)(cid:21)(cid:17)(cid:15)(cid:11))(cid:7)(cid:20)(cid:9)(cid:11)(cid:14)(cid:7)(cid:5)(cid:21)(cid:10)(cid:7)(cid:2)6(cid:17)(cid:15)(cid:16)(cid:21)(cid:7)(cid:6)(cid:15))(cid:7)(cid:3)(cid:2)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)/(cid:7)(cid:18)(cid:15)(cid:4)(cid:6)(cid:15))(cid:11)(cid:9) (cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)(cid:7) (cid:30)6(cid:7)(cid:3)(cid:2)(cid:7)(cid:8)(cid:9)(cid:6)(cid:2)(cid:5)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)5(cid:7):::(cid:7)(cid:12)%(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:7)$(cid:10)(cid:12)(cid:9)(cid:8)(cid:17)(cid:9)(cid:25)
-Art. X.
-(cid:26)(cid:7)(cid:19)(cid:25)(cid:7)*(cid:11)(cid:14)(cid:9) (cid:21)(cid:7)(cid:6)(cid:15))(cid:7)(cid:5)(cid:21)(cid:10))(cid:7)(cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:12)(cid:15)(cid:21)(cid:17)(cid:31)(cid:7)(cid:12)(cid:21)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:12)(cid:21)(cid:8)(cid:21)(cid:10)(cid:20)(cid:4)(cid:7)(cid:8)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:11)(cid:14) (cid:6)(cid:12)(cid:11)(cid:12)(cid:4)$" (cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)(cid:9)(cid:3)(cid:21)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:3)(cid:7)(cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:8)(cid:4)(cid:28)(cid:29)(cid:11)(cid:15)(cid:21)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:25) § 2. Przepis §1 nie ma zastosowania do:
-1) ustawy z dnia 30 stycznia 1959 r. - Prawo lokalowe (Dz.U. z 1962 r. Nr 47,
-227), (cid:24),(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)/(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)5(cid:22)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:11)(cid:18)(cid:4)(cid:17)(cid:20)(cid:21)(cid:10)(cid:12)(cid:21)(cid:11)(cid:14)(cid:7)(cid:15)(cid:7)(cid:11)(cid:14)(cid:2)(cid:8)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)(cid:12)(cid:18)(cid:21)(cid:10)%(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25) Nr 11, 62),
-4) ustawy z dnia 31 stycznia 1961 r. - Prawo budowlane (Dz.U. Nr 7, 46), 5,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)/(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:19)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)6(cid:10)(cid:2)(cid:17)(cid:15)((cid:7)(cid:21)(cid:18)(cid:30)(cid:17)(cid:15)(cid:11)(cid:28)(cid:15)(cid:7)(cid:15)(cid:7)(cid:18)(cid:21)(cid:20)(cid:4)(cid:10)(cid:15)(cid:21)%(cid:21)(cid:11)(cid:14)(cid:7)(cid:8)(cid:9)6(cid:30)(cid:11)(cid:14)owych (Dz.U. Nr 6, 43), 7,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)/(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:19)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)(cid:12)(cid:21)(cid:5)(cid:8)(cid:21)(cid:20)(cid:4)(cid:10)(cid:2)(cid:8)(cid:21)(cid:17)(cid:15)(cid:30)(cid:7)E(cid:15)%(cid:7)(cid:27)6(cid:10)(cid:2)(cid:28)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)23(cid:12)(cid:25)*(cid:25)(cid:7)4(cid:10) 6, 38),
-7) ustawy z dnia 31 maja 1962 r. - Prawo lotnicze (Dz.U. Nr 32, 153), 8,(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:21)(cid:7)(cid:24)(cid:19)(cid:7) (cid:15)(cid:6)(cid:20)(cid:2)!(cid:21)(cid:3)(cid:21)(cid:7)(cid:19)(cid:22)7(cid:23)(cid:7)(cid:10)(cid:25)(cid:7)(cid:2)(cid:7)!(cid:2)(cid:8)(cid:6)(cid:12)(cid:4)(cid:11)(cid:14)(cid:17)(cid:9)(cid:18)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:5)(cid:30)(cid:7)(cid:2)6(cid:10)(cid:2)(cid:17)(cid:9)(cid:7)-(cid:2)lskiej Rzeczypospolitej Ludowej (Dz.U. Nr 44, 220).
-Art. XI.
-(cid:27)(cid:21)(cid:18)(cid:15)(cid:21)(cid:6)(cid:20)(cid:7)(cid:5)(cid:21)(cid:10)(cid:7)(cid:3)(cid:2)(cid:3)(cid:21)(cid:20)(cid:5)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)(cid:8)(cid:7)!(cid:2)(cid:6)(cid:12)(cid:11)(cid:12)(cid:4)$" (cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:21)(cid:11)(cid:14)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:12)(cid:31)(cid:11)(cid:9)(cid:11)(cid:14) (cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:2)(cid:3)!(cid:2)(cid:8)(cid:15)(cid:4)(cid:3)(cid:17)(cid:15)(cid:4)(cid:7)(cid:5)(cid:21)(cid:10)(cid:9)(cid:7)(cid:3)(cid:2)(cid:3)(cid:21)(cid:20)(cid:5)(cid:2)(cid:8)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:12)(cid:15)(cid:21)(cid:17)(cid:4)(cid:7)(cid:8)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:15)(cid:4)(cid:7)(cid:8)y(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:25)
-Art. XII.
-(cid:26)(cid:7)(cid:19)(cid:25)(cid:7)C(cid:4)(cid:16)(cid:4) (cid:15)(cid:7)(cid:2)6(cid:2)(cid:8)(cid:15)(cid:31)(cid:12)(cid:30)(cid:28)(cid:31)(cid:11)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)!(cid:2)(cid:8)(cid:2)%(cid:30)(cid:28)(cid:31)(cid:7)(cid:6)(cid:15))(cid:7)(cid:17)(cid:21)(cid:7)(cid:30)(cid:11)(cid:14)(cid:9) (cid:2)(cid:17)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)!(cid:10)(cid:21)(cid:8)(cid:21)(cid:7)(cid:2)(cid:7)(cid:8)ykroczeniach z 1932 r. lub na uchylone przepisy ustawy szczególnej albo od(cid:6)(cid:9)%(cid:21)(cid:28)(cid:31)(cid:7)(cid:2)$" (cid:17)(cid:15)(cid:4)(cid:7)(cid:3)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)"(cid:8)(cid:7)(cid:2)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:21)(cid:11)(cid:14)((cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:8)(cid:7)(cid:20)(cid:9)(cid:18)(cid:7)(cid:12)(cid:21)(cid:5)(cid:10)(cid:4)(cid:6)(cid:15)(cid:4)(cid:7)(cid:2)d!(cid:2)(cid:8)(cid:15)(cid:4)(cid:3)(cid:17)(cid:15)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:25) (cid:26)(cid:7)(cid:24)(cid:25)(cid:7)#(cid:7)(cid:10)(cid:21)(cid:12)(cid:15)(cid:4)(cid:7)(cid:8)(cid:31)(cid:20)! (cid:15)(cid:8)(cid:2)(cid:29)(cid:11)(cid:15)((cid:7)(cid:11)(cid:12)(cid:9)(cid:7)(cid:18)(cid:21)(cid:7)6(cid:9)’(cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:2)(cid:8)(cid:21)(cid:17)(cid:4)(cid:7)!(cid:10)(cid:21)(cid:8)(cid:2)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:11)(cid:12)(cid:21)(cid:6)(cid:2)(cid:8)(cid:4)((cid:7)(cid:11)(cid:12)(cid:9)(cid:7)(cid:1)o(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)((cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:25)
-Art. XIII.
-C(cid:4)(cid:16)(cid:4) (cid:15)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:7)(cid:17)(cid:21)(cid:7)!(cid:2)(cid:3)(cid:6)(cid:20)(cid:21)(cid:8)(cid:15)(cid:4)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:11)(cid:12)(cid:21)(cid:6)(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)"(cid:8)(cid:7)(cid:6)(cid:20)(cid:21)(cid:17)(cid:2)(cid:8)(cid:15)%(cid:7)(cid:8)(cid:9)(cid:6)(cid:20))!(cid:4)(cid:5)((cid:7)(cid:21)(cid:7)(cid:12)$(cid:2)(cid:3)(cid:17)(cid:15)(cid:4)(cid:7)(cid:12) !(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:21)(cid:18)(cid:15)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:28)(cid:4)(cid:6)(cid:20)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:17)(cid:15)(cid:4)(cid:18)((cid:7)(cid:30)(cid:5)(cid:21)(cid:10)(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:12)(cid:21)(cid:7)(cid:20)(cid:4)(cid:17)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)((cid:7)!(cid:2)!(cid:4)%(cid:17)(cid:15)(cid:2)(cid:17)(cid:9) !(cid:10)(cid:12)(cid:4)(cid:3)(cid:7)(cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:8)(cid:4)(cid:28)(cid:29)(cid:11)(cid:15)(cid:21)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)((cid:7)(cid:18)(cid:2)(cid:16)(cid:4)(cid:7)(cid:17)(cid:21)(cid:6)(cid:20)(cid:31)!(cid:15)’(cid:7)(cid:20)(cid:9) (cid:5)(cid:2)(cid:7)(cid:8)(cid:7)(cid:10)(cid:21)(cid:12)(cid:15)(cid:4)(cid:7)!o!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:30)(cid:7)(cid:12)(cid:7)(cid:8)(cid:15)(cid:17)(cid:9)(cid:7)(cid:30)(cid:18)(cid:9)(cid:29) (cid:17)(cid:4)(cid:28)((cid:7)(cid:11)(cid:14)(cid:9)6(cid:21)(cid:7)(cid:16)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:7)(cid:3)(cid:2)(cid:20)(cid:9)(cid:11)(cid:14)(cid:11)(cid:12)(cid:21)(cid:6)(cid:2)(cid:8)(cid:9)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:9)(cid:8)(cid:21)%(cid:7)(cid:2)d!(cid:2)(cid:8)(cid:15)(cid:4)(cid:3)(cid:12)(cid:15)(cid:21) (cid:17)(cid:2)(cid:29)’(cid:7)(cid:5)(cid:21)(cid:10)(cid:17)(cid:31)(cid:7)(cid:10)"(cid:8)(cid:17)(cid:15)(cid:4)(cid:16)(cid:7)(cid:12)(cid:21)(cid:7)!(cid:2)!(cid:4)%(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:4)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:30)(cid:7)(cid:12)(cid:7)(cid:8)(cid:15)(cid:17)(cid:9)(cid:7)(cid:17)(cid:15)(cid:4)(cid:30)(cid:18)(cid:9)(cid:29) (cid:17)(cid:4)(cid:28)(cid:25)
-Art. XIV.
-(cid:26)(cid:7)(cid:19)(cid:25)(cid:7)#(cid:7)(cid:6)!(cid:10)(cid:21)(cid:8)(cid:21)(cid:11)(cid:14)(cid:7)(cid:12)(cid:21)(cid:5)(cid:2)(cid:13)(cid:11)(cid:12)(cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:21)(cid:8)(cid:2)(cid:18)(cid:2)(cid:11)(cid:17)(cid:9)(cid:18)(cid:7)(cid:10)(cid:2)(cid:12)(cid:6)(cid:20)(cid:10)(cid:12)(cid:9)$(cid:17)(cid:15))(cid:11)(cid:15)(cid:4)(cid:18)((cid:7)(cid:8)(cid:7)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:11)(cid:14)(cid:7)(cid:5)(cid:21)(cid:10)(cid:21) (cid:17)(cid:15)(cid:4)(cid:7)(cid:12)(cid:2)(cid:6)(cid:20)(cid:21)%(cid:21)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:21)(cid:17)(cid:21)+ (cid:19),(cid:7)(cid:28)(cid:4)(cid:16)(cid:4) (cid:15)(cid:7)(cid:8)(cid:4)(cid:3)%(cid:30)$(cid:7)(cid:17)(cid:2)(cid:8)(cid:4)(cid:28)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:9)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:7)(cid:2)6(cid:28))(cid:20)(cid:9)(cid:7)(cid:10)(cid:2)(cid:12)(cid:6)(cid:20)(cid:10)(cid:12)(cid:9)$(cid:17)(cid:15))(cid:11)(cid:15)(cid:4)(cid:18)(cid:7)(cid:12)(cid:21)$(cid:10)(cid:2)(cid:16)(cid:2)(cid:17)(cid:9)(cid:7)(cid:28)(cid:4)(cid:6)(cid:20)(cid:7)(cid:5)(cid:21)(cid:10)(cid:31)( (cid:5)(cid:20)"(cid:10)(cid:4)(cid:28)(cid:7)$"(cid:10)(cid:17)(cid:21)(cid:7)$(cid:10)(cid:21)(cid:17)(cid:15)(cid:11)(cid:21)(cid:7)(cid:28)(cid:4)(cid:6)(cid:20)(cid:7)(cid:17)(cid:15)(cid:16)(cid:6)(cid:12)(cid:21)(cid:7)(cid:2)(cid:3)(cid:7)(cid:5)(cid:21)(cid:10)(cid:9)(cid:7)(cid:2)(cid:10)(cid:12)(cid:4)(cid:11)(cid:12)(cid:2)(cid:17)(cid:4)(cid:28)((cid:7)(cid:8)(cid:9)(cid:18)(cid:15)(cid:4)(cid:10)(cid:12)(cid:2)(cid:17)(cid:31)(cid:7)(cid:5)(cid:21)(cid:10))(cid:7)%(cid:21)$(cid:2)(cid:3)(cid:12)(cid:15) (cid:6)(cid:15))(cid:7)(cid:3)(cid:2)(cid:7)$"(cid:10)(cid:17)(cid:4)$(cid:2)(cid:7)(cid:30)(cid:6)(cid:20)(cid:21)(cid:8)(cid:2)(cid:8)(cid:4)$(cid:2)(cid:7)(cid:12)(cid:21)$(cid:10)(cid:2)(cid:16)(cid:4)(cid:17)(cid:15)(cid:21)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:8)(cid:15)(cid:3)(cid:12)(cid:15)(cid:21)(cid:17)(cid:4)$(cid:2)(cid:7)(cid:12)(cid:21)(cid:7)(cid:20)(cid:21)(cid:5)(cid:15)(cid:7)(cid:11)(cid:12)(cid:9)(cid:17)(cid:7)(cid:8)(cid:7)(cid:17)(cid:2)(cid:8)(cid:4)(cid:28) ustawie, (cid:24),(cid:7)(cid:3)(cid:2)(cid:7)(cid:2)(cid:6)"6((cid:7)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:18)(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:5)(cid:21)(cid:10)(cid:9)(cid:7)(cid:8)(cid:21)(cid:10)(cid:30)(cid:17)(cid:5)(cid:2)(cid:8)(cid:2)(cid:7)(cid:12)(cid:21)(cid:8)(cid:15)(cid:4)(cid:6)(cid:12)(cid:2)(cid:17)(cid:2)((cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9) (cid:21)(cid:10)(cid:20)(cid:25)(cid:7)1(cid:24)011(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)( /,(cid:7)(cid:6)(cid:20)(cid:2)(cid:6)(cid:30)(cid:28)(cid:4)(cid:7)(cid:6)(cid:15))(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:2)(cid:7)!(cid:10)(cid:12)(cid:4)(cid:3)(cid:21)(cid:8)(cid:17)(cid:15)(cid:4)(cid:17)(cid:15)(cid:30)(cid:25) (cid:26)(cid:7)(cid:24)(cid:25)(cid:7)#(cid:7)(cid:6)!(cid:10)(cid:21)(cid:8)(cid:21)(cid:11)(cid:14)(cid:7)(cid:12)(cid:21)(cid:5)(cid:2)(cid:13)(cid:11)(cid:12)(cid:2)(cid:17)(cid:9)(cid:11)(cid:14)(cid:7)!(cid:10)(cid:21)(cid:8)(cid:2)(cid:18)(cid:2)(cid:11)(cid:17)(cid:9)(cid:18)(cid:7)(cid:10)(cid:2)(cid:12)(cid:6)(cid:20)(cid:10)(cid:12)(cid:9)$(cid:17)(cid:15))(cid:11)(cid:15)(cid:4)(cid:18)(cid:7)(cid:30)(cid:12)(cid:17)(cid:21)(cid:17)(cid:15)(cid:4)(cid:7)(cid:30)(cid:5)(cid:21)(cid:10)(cid:21)(cid:17)(cid:15)(cid:21) (cid:12)(cid:21)(cid:7)(cid:17)(cid:15)(cid:4)6(cid:9)%(cid:4)(cid:7)(cid:17)(cid:21)(cid:6)(cid:20))!(cid:30)(cid:28)(cid:4)(cid:7)(cid:17)(cid:21)(cid:7)!(cid:2)(cid:3)(cid:6)(cid:20)(cid:21)(cid:8)(cid:15)(cid:4)(cid:7)!(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)"(cid:8)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:25) -(cid:10)(cid:12)(cid:4)!(cid:15)(cid:6)(cid:9)(cid:7)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:30)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:17)(cid:15)(cid:4)(cid:7)(cid:18)(cid:21)(cid:28)(cid:31)(cid:7)(cid:12)(cid:21)(cid:6)(cid:20)(cid:2)(cid:6)(cid:2)(cid:8)(cid:21)(cid:17)(cid:15)(cid:21)(cid:7)(cid:3)(cid:2)(cid:7)(cid:8)(cid:9)(cid:5)(cid:10)(cid:2)(cid:11)(cid:12)(cid:4)(cid:13)(cid:7)(cid:6)(cid:5)(cid:21)(cid:10)6(cid:2)(cid:8)(cid:9)(cid:11)(cid:14)(cid:25)
-Art. XVI.
-(cid:27)(cid:21)(cid:5)%(cid:21)(cid:3)(cid:9)((cid:7)(cid:8)(cid:7)(cid:5)(cid:20)"(cid:10)(cid:9)(cid:11)(cid:14)(cid:7)(cid:18)(cid:21)(cid:7)6(cid:9)’(cid:7)(cid:8)(cid:9)(cid:5)(cid:2)(cid:17)(cid:9)(cid:8)(cid:21)(cid:17)(cid:21)(cid:7)(cid:5)(cid:21)(cid:10)(cid:21)(cid:7)(cid:21)(cid:10)(cid:4)(cid:6)(cid:12)(cid:20)(cid:30)((cid:7)(cid:2)(cid:5)(cid:10)(cid:4)(cid:29) (cid:15)(cid:7)(cid:8)(cid:7)(cid:3)(cid:10)(cid:2)(cid:3)(cid:12)(cid:4)(cid:7)(cid:10)(cid:2)(cid:12)!(cid:2)(cid:10)(cid:12)(cid:31)(cid:3)(cid:12)e(cid:17)(cid:15)(cid:21)(cid:7)D(cid:15)(cid:17)(cid:15)(cid:6)(cid:20)(cid:4)(cid:10)(cid:7)E!(cid:10)(cid:21)(cid:8)(cid:15)(cid:4)(cid:3) (cid:15)(cid:8)(cid:2)(cid:29)(cid:11)(cid:15)(cid:7)(cid:8)(cid:7)!(cid:2)(cid:10)(cid:2)(cid:12)(cid:30)(cid:18)(cid:15)(cid:4)(cid:17)(cid:15)(cid:30)(cid:7)(cid:12)(cid:7)D(cid:15)(cid:17)(cid:15)(cid:6)(cid:20)(cid:10)(cid:4)(cid:18)(cid:7)E!(cid:10)(cid:21)(cid:8)(cid:7)#(cid:4)(cid:8)(cid:17))(cid:20)(cid:10)znych.
-Art. XVII.
-*(cid:6)(cid:20)(cid:21)(cid:8)(cid:21)(cid:7)(cid:8)(cid:11)(cid:14)(cid:2)(cid:3)(cid:12)(cid:15)(cid:7)(cid:8)(cid:7)(cid:16)(cid:9)(cid:11)(cid:15)(cid:4)(cid:7)(cid:12)(cid:7)(cid:3)(cid:17)(cid:15)(cid:4)(cid:18)(cid:7)(cid:19)(cid:7)(cid:6)(cid:20)(cid:9)(cid:11)(cid:12)(cid:17)(cid:15)(cid:21)(cid:7)(cid:19)(cid:22)(cid:23)(cid:24)(cid:7)(cid:10)(cid:25)
+## Spis treści
 
+- [Treść ustawy](#part_1) [Rozdział I - Przepisy ogólne](#chpt_I) [Rozdział II - Zmiany w przepisach obowiązujących](#chpt_II) [Rozdział III - Przepisy przejściowe i końcowe](#chpt_III)
+
+TOC
+
+## Treść ustawy
+
+### Rozdział I Przepisy ogólne
+
+### Art. I.
+
+Kodeks wykroczeń wchodzi w życie z dniem 1 stycznia 1972 r.
+
+### Art. II.
+
+### § 1.
+
+Z dniem wejścia w życie Kodeksu wykroczeń tracą moc wszelkie przepisy dotyczące przedmiotów w tym kodeksie unormowanych.
+
+### § 2.
+
+W szczególności tracą moc przepisy wymienione w artykułach poniższych.
+
+### Art. III.
+
+Ilekroć niniejsza ustawa wymienia przepisy dotychczasowe, należy przez to rozumieć przepisy z uwzględnieniem wszystkich zmian i uzupełnień, wprowadzonych przed dniem wejścia w życie tej ustawy.
+
+### Art. IV.
+
+Uchyla się:
+
+### 1)
+
+rozporządzenie Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. - Prawo o wykroczeniach ([Dz. U. Nr 60, poz. 572](https://api.sejm.gov.pl/eli/acts/DU/1932/572/text.html));
+
+### 2)
+
+ustawę z dnia 14 kwietnia 1937 r. o szkodnictwie leśnym i polnym ([Dz. U. Nr 30, poz. 224](https://api.sejm.gov.pl/eli/acts/DU/1937/224/text.html));
+
+### 3)
+
+dekret z dnia 4 marca 1953 r. o uzupełnieniu przepisów karnych w sprawach o niewykonanie dostaw obowiązkowych ([Dz. U. z 1956 r. Nr 6, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1956/31/text.html));
+
+### 4)
+
+ustawę z dnia 13 lipca 1957 r. o zwalczaniu spekulacji i ochronie interesów nabywców oraz producentów rolnych w obrocie handlowym ([Dz. U. Nr 39, poz. 171](https://api.sejm.gov.pl/eli/acts/DU/1957/171/text.html));
+
+### 5)
+
+ustawę z dnia 22 maja 1958 r. o zaostrzeniu odpowiedzialności karnej za chuligaństwo ([Dz. U. Nr 34, poz. 152](https://api.sejm.gov.pl/eli/acts/DU/1958/152/text.html));
+
+### 6)
+
+ustawę z dnia 17 czerwca 1966 r. o przekazaniu niektórych drobnych przestępstw jako wykroczeń do orzecznictwa karno-administracyjnego ([Dz. U. Nr 23, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1966/149/text.html)).
+
+### Art. V.
+
+### § 1.
+
+Do czasu odrębnego ustawowego uregulowania sprawy zapobiegania i zwalczania demoralizacji i przestępczości nieletnich zachowują moc obowiązującą dotychczasowe przepisy dotyczące nieletnich, którzy dopuścili się czynów zabronionych przez ustawę pod groźbą kary jako wykroczenia:
+
+### 1)
+
+zawarte w szczególności w art. 6 Prawa o wykroczeniach z 1932 r.,
+
+### 2)
+
+w zakresie postępowania - zawarte w szczególności w ustawie z dnia 15 grudnia 1951 r. o orzecznictwie karno-administracyjnym ([Dz. U. z 1966 r. Nr 39, poz. 233](https://api.sejm.gov.pl/eli/acts/DU/1966/233/text.html)) oraz w ustawie z dnia 17 czerwca 1966 r. o przekazaniu niektórych drobnych przestępstw jako wykroczeń do orzecznictwa karno-administracyjnego ([Dz. U. Nr 23, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1966/149/text.html)).
+
+### § 2.
+
+W sprawach o popełnione przez nieletnich czyny, które dotychczas zabronione były przez ustawę pod groźbą kary jako przestępstwa, a z dniem wejścia w życie Kodeksu wykroczeń stają się wykroczeniami, stosuje się nadal dotychczasowe przepisy o postępowaniu z nieletnimi, którzy dopuścili się czynów zabronionych przez ustawę jako przestępstwa.
+
+### Rozdział II Zmiany w przepisach obowiązujących
+
+### Art. VI.
+
+Uchyla się:
+
+### 1)
+
+art. 4, 6 i 8 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o ochronie zwierząt ([Dz. U. z 1932 r. Nr 42, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1932/417/text.html));
+
+### 2)
+
+art. 32 pkt 1 i 4 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o badaniu zwierząt rzeźnych i mięsa ([Dz. U. z 1933 r. Nr 60, poz. 454](https://api.sejm.gov.pl/eli/acts/DU/1933/454/text.html));
+
+### 3)
+
+art. 11 ustawy z dnia 15 marca 1933 r. o zbiórkach publicznych ([Dz. U. Nr 22, poz. 162](https://api.sejm.gov.pl/eli/acts/DU/1933/162/text.html));
+
+### 4)
+
+art. 11 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o ustalaniu nazw miejscowości i obiektów fizjograficznych oraz o numeracji nieruchomości ([Dz. U. Nr 94, poz. 850](https://api.sejm.gov.pl/eli/acts/DU/1934/850/text.html));
+
+### 5)
+
+art. 6 dekretu Prezydenta Rzeczypospolitej z dnia 2 października 1935 r. o odznakach i mundurach ([Dz. U. Nr 72, poz. 455](https://api.sejm.gov.pl/eli/acts/DU/1935/455/text.html));
+
+### 6)
+
+art. 78 dekretu z dnia 8 czerwca 1955 r. - Prawo o aktach stanu cywilnego ([Dz. U. Nr 25, poz. 151](https://api.sejm.gov.pl/eli/acts/DU/1955/151/text.html));
+
+### 7)
+
+art. 10 dekretu z dnia 23 marca 1956 r. o obowiązku szkolnym ([Dz. U. Nr 9, poz. 52](https://api.sejm.gov.pl/eli/acts/DU/1956/52/text.html));
+
+### 8)
+
+art. 11 ustawy z dnia 1 lipca 1958 r. o zezwoleniach na wykonywanie przemysłu, rzemiosła, handlu i niektórych usług przez jednostki gospodarki nie uspołecznionej ([Dz. U. Nr 45, poz. 224](https://api.sejm.gov.pl/eli/acts/DU/1958/224/text.html));
+
+### 9)
+
+art. 14 ustawy z dnia 22 kwietnia 1959 r. o utrzymaniu czystości i porządku w miastach i osiedlach ([Dz. U. Nr 27, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/1959/167/text.html));
+
+### 10)
+
+art. 27 i 28 ustawy z dnia 10 grudnia 1959 r. o zwalczaniu alkoholizmu ([Dz. U. Nr 69, poz. 434](https://api.sejm.gov.pl/eli/acts/DU/1959/434/text.html));
+
+### 11)
+
+art. 29 ustawy z dnia 13 kwietnia 1960 r. o ochronie przeciwpożarowej ([Dz. U. Nr 20, poz. 120](https://api.sejm.gov.pl/eli/acts/DU/1960/120/text.html));
+
+### 12)
+
+art. 37 ustawy z dnia 14 czerwca 1960 r. o zagospodarowaniu lasów i nieużytków nie stanowiących własności Państwa oraz niektórych lasów i nieużytków państwowych ([Dz. U. Nr 29, poz. 166](https://api.sejm.gov.pl/eli/acts/DU/1960/166/text.html));
+
+### 13)
+
+art. 63 ustawy z dnia 31 stycznia 1961 r. o łączności ([Dz. U. Nr 8, poz. 48](https://api.sejm.gov.pl/eli/acts/DU/1961/48/text.html));
+
+### 14)
+
+art. 44 ustawy z dnia 15 lipca 1961 r. o rozwoju systemu oświaty i wychowania ([Dz. U. Nr 32, poz. 160](https://api.sejm.gov.pl/eli/acts/DU/1961/160/text.html));
+
+### 15)
+
+art. 24-26 ustawy z dnia 27 listopada 1961 r. o bezpieczeństwie i porządku ruchu na drogach publicznych ([Dz. U. Nr 53, poz. 295](https://api.sejm.gov.pl/eli/acts/DU/1961/295/text.html));
+
+### 16)
+
+art. 20 ustawy z dnia 29 marca 1962 r. o zgromadzeniach ([Dz. U. Nr 20, poz. 89](https://api.sejm.gov.pl/eli/acts/DU/1962/89/text.html));
+
+### 17)
+
+art. 52 i 53 ustawy z dnia 29 marca 1962 r. o drogach publicznych ([Dz. U. Nr 20, poz. 90](https://api.sejm.gov.pl/eli/acts/DU/1962/90/text.html));
+
+### 18)
+
+art. 157 pkt 3 ustawy z dnia 30 maja 1962 r. - Prawo wodne ([Dz. U. Nr 34, poz. 158](https://api.sejm.gov.pl/eli/acts/DU/1962/158/text.html));
+
+### 19)
+
+art. 26 ust. 1 pkt 3 ustawy z dnia 13 listopada 1963 r. o zwalczaniu chorób zakaźnych ([Dz. U. Nr 50, poz. 279](https://api.sejm.gov.pl/eli/acts/DU/1963/279/text.html));
+
+### 20)
+
+art. 32 pkt 3, 8, 9 i 11 ustawy z dnia 25 listopada 1970 r. o warunkach zdrowotnych żywności i żywienia ([Dz. U. Nr 29, poz. 245](https://api.sejm.gov.pl/eli/acts/DU/1970/245/text.html)).
+
+### Art. VII.
+
+Tracą moc w zakresie unormowanym w Kodeksie wykroczeń:
+
+### 1)
+
+art. 32 pkt 3 i 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o badaniu zwierząt rzeźnych i mięsa ([Dz. U. z 1933 r. Nr 60, poz. 454](https://api.sejm.gov.pl/eli/acts/DU/1933/454/text.html));
+
+### 2)
+
+art. 10 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o ustalaniu nazw miejscowości i obiektów fizjograficznych oraz o numeracji nieruchomości ([Dz. U. Nr 94, poz. 850](https://api.sejm.gov.pl/eli/acts/DU/1934/850/text.html)) - w części dotyczącej art. 8 i 9 tego rozporządzenia;
+
+### 3)
+
+art. 10 ust. 1 dekretu z dnia 29 października 1952 r. o gospodarowaniu artykułami obrotu towarowego i zaopatrzenia ([Dz. U. Nr 44, poz. 301](https://api.sejm.gov.pl/eli/acts/DU/1952/301/text.html));
+
+### 4)
+
+art. 21 ust. 1 ustawy z dnia 22 maja 1958 r. o popieraniu melioracji wodnych dla potrzeb rolnictwa ([Dz. U. z 1963 r. Nr 42, poz. 237](https://api.sejm.gov.pl/eli/acts/DU/1963/237/text.html));
+
+### 5)
+
+art. 13 pkt 1 ustawy z dnia 22 kwietnia 1959 r. o utrzymaniu czystości i porządku w miastach i osiedlach ([Dz. U. Nr 27, poz. 167](https://api.sejm.gov.pl/eli/acts/DU/1959/167/text.html)) - w części dotyczącej art. 4 ust. 1-4 oraz art. 6 ust. 1-4 tej ustawy;
+
+### 6)
+
+art. 46 ust. 1 ustawy z dnia 2 grudnia 1960 r. o kolejach ([Dz. U. z 1970 r. Nr 9, poz. 76](https://api.sejm.gov.pl/eli/acts/DU/1970/76/text.html));
+
+### 7)
+
+art. 20 ust. 1 i 2 ustawy z dnia 14 lipca 1961 r. o ewidencji i kontroli ruchu ludności ([Dz. U. Nr 33, poz. 164](https://api.sejm.gov.pl/eli/acts/DU/1961/164/text.html));
+
+### 8)
+
+art. 26 ust. 1 pkt 1 ustawy z dnia 13 listopada 1963 r. o zwalczaniu chorób zakaźnych ([Dz. U. Nr 50, poz. 279](https://api.sejm.gov.pl/eli/acts/DU/1963/279/text.html)).
+
+### Art. VIII.
+
+### § 1.
+
+W dekrecie z dnia 6 maja 1953 r. - Prawo górnicze ([Dz. U. z 1961 r. Nr 23, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1961/113/text.html)) wprowadza się następujące zmiany:
+
+### a)
+
+Art. 137 otrzymuje brzmienie:
+
+„
+
+### Art. 137.
+
+### 1.
+
+Kto:
+
+### 1)
+
+będąc obowiązany do przestrzegania nakazów lub zakazów, zawartych w przepisach wydanych na podstawie art. 82, w zakresie zagrożeń: pożarowych, gazowych, pyłowych, wodnych, w związku z jazdą ludzi szybami oraz w związku z nabywaniem, przechowywaniem i używaniem materiałów wybuchowych w zakładach górniczych - wykracza przeciwko tym nakazom i zakazom,
+
+### 2)
+
+prowadzi ruch zakładu górniczego bez zatwierdzonego planu ruchu albo niezgodnie z tym planem,
+
+### 3)
+
+nie dopełnia obowiązków określonych w art. 118,
+
+podlega karze aresztu do 3 miesięcy lub karze grzywny do 5 000 złotych.
+
+### 2.
+
+Kto:
+
+### 1)
+
+będąc obowiązany do przestrzegania nakazów lub zakazów, zawartych w art. 75, 76, 114 ust. 2 i 3 lub art. 115 ust. 1 albo w przepisach wydanych na podstawie art. 82 w zakresie innych czynów niż określone w ust. 1 pkt 1, art. 100 ust. 2, art. 115 ust. 2 lub art. 124, wykracza przeciwko tym nakazom lub zakazom,
+
+### 2)
+
+wykracza przeciwko nakazom zawartym w art. 86,
+
+### 3)
+
+wbrew obowiązkowi przewidzianemu w art. 78 nie sporządza planu ruchu zakładu górniczego lub wbrew obowiązkowi przewidzianemu w art. 120, 125 i 126 nie sporządza planu likwidacji eksploatacji złoża albo nie składa tych planów w terminach przepisanych okręgowemu urzędowi górniczemu do zatwierdzenia,
+
+### 4)
+
+bez uzyskania zatwierdzenia okręgowego urzędu górniczego wykonuje czynności kierownictwa lub dozoru ruchu zakładu górniczego albo wykonuje te czynności wbrew zarządzeniu o zawieszeniu w pełnieniu czynności (art. 98),
+
+### 5)
+
+nie mając stwierdzonych przez Wyższy Urząd Górniczy uprawnień, wykonuje czynności mierniczego górniczego, geologa górniczego lub asystenta mierniczego górniczego (art. 106 ust. 2) albo wykonuje te czynności wbrew zarządzeniu o zawieszeniu w pełnieniu czynności (art. 112),
+
+### 6)
+
+nie stosuje się do zarządzeń okręgowego urzędu górniczego, wydanych na podstawie art. 132,
+
+podlega karze grzywny do 5 000 złotych.
+
+### 3.
+
+Kary za czyny określone w ust. 1 i 2 wymierzają kolegia do spraw wykroczeń przy urzędach górniczych. Orzekanie następuje na zasadach i w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia
+
+” .
+
+### b)
+
+Art. 138 skreśla się.
+
+### § 2.
+
+W art. 8 ust. 2 dekretu z dnia 10 listopada 1954 r. o przejęciu przez związki zawodowe zadań w dziedzinie wykonywania ustaw o ochronie, bezpieczeństwie i higienie pracy oraz sprawowania inspekcji pracy ([Dz. U. z 1968 r. Nr 8, poz. 47](https://api.sejm.gov.pl/eli/acts/DU/1968/47/text.html)) wprowadza się następującą zmianę:
+
+### a)
+
+w pkt 4 kropkę zastępuje się średnikiem;
+
+### b)
+
+dodaje się nowy punkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+złośliwie albo przez lekceważenie swych zobowiązań wstrzymuje w całości lub w części należne pracownikowi wynagrodzenie lub wysokość jego bezprawnie obniża albo zmusza pracownika do przyjęcia zamiast należnej zapłaty w gotówce wynagrodzenia w innej postaci
+
+” .
+
+### § 3.
+
+Artykuł 14 ustawy z dnia 17 czerwca 1966 r. o utworzeniu Centralnego Urzędu Jakości i Miar ([Dz. U. Nr 23, poz. 147](https://api.sejm.gov.pl/eli/acts/DU/1966/147/text.html)) otrzymuje brzmienie:
+
+„
+
+### Art. 14.
+
+### 1.
+
+Kto w zakładzie produkcyjnym, będąc odpowiedzialny za jakość produkcji lub za kontrolę jakości, nieumyślnie przeznacza lub wprowadza do produkcji, do obrotu lub użytku wyroby o jakości gorszej od ustalonej dla takich wyrobów przez właściwe organy albo oczywiście nie nadające się do użytku, do którego są przeznaczone, podlega karze pieniężnej do 5 000 złotych.
+
+### 2.
+
+Karę pieniężną wymierza dyrektor okręgowego urzędu jakości i miar.
+
+### 3.
+
+Od orzeczenia dyrektora okręgowego urzędu jakości i miar przysługuje odwołanie w terminie 14 dni od doręczenia orzeczenia - do Prezesa Centralnego Urzędu Jakości i Miar.
+
+### 4.
+
+Rada Ministrów określi w drodze rozporządzenia zasady i tryb wymierzania kary wymienionej w ust. 1.
+
+”
+
+### Rozdział III Przepisy przejściowe i końcowe
+
+### Art. IX.
+
+### § 1.
+
+Ilekroć ustawa przewiduje za wykroczenie karę pozbawienia wolności, orzeka się zamiast niej karę aresztu.
+
+### § 2.
+
+Ilekroć ustawa przewiduje 4 500 złotych jako górną granicę grzywny, ustala się górną jej granicę w wysokości 5 000 złotych.
+
+### § 3.
+
+Ilekroć ustawa przewiduje za czyn podlegający orzecznictwu kolegiów do spraw wykroczeń karę aresztu powyżej 3 miesięcy lub grzywnę powyżej 5 000 złotych, górną granicę tych kar obniża się do wysokości 3 miesięcy aresztu lub do wysokości 5 000 złotych grzywny.
+
+### Art. X.
+
+### § 1.
+
+Uchyla się karę aresztu przewidzianą za wykroczenia zawarte w ustawach szczególnych wydanych przed dniem wejścia w życie Kodeksu wykroczeń.
+
+### § 2.
+
+Przepis § 1 nie ma zastosowania do:
+
+### 1)
+
+ustawy z dnia 30 stycznia 1959 r. - Prawo lokalowe ([Dz. U. z 1962 r. Nr 47, poz. 227](https://api.sejm.gov.pl/eli/acts/DU/1962/227/text.html));
+
+### 2)
+
+ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych ([Dz. U. Nr 11, poz. 62](https://api.sejm.gov.pl/eli/acts/DU/1959/62/text.html));
+
+### 3)
+
+ustawy z dnia 17 lutego 1960 r. o zaopatrywaniu ludności w wodę ([Dz. U. Nr 11, poz. 72](https://api.sejm.gov.pl/eli/acts/DU/1960/72/text.html));
+
+### 4)
+
+ustawy z dnia 31 stycznia 1961 r. - Prawo budowlane ([Dz. U. Nr 7, poz. 46](https://api.sejm.gov.pl/eli/acts/DU/1961/46/text.html));
+
+### 5)
+
+ustawy z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych ([Dz. U. Nr 6, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1961/43/text.html));
+
+### 6)
+
+ustawy z dnia 31 stycznia 1961 r. o zakwaterowaniu Sił Zbrojnych ([Dz. U. Nr 6, poz. 38](https://api.sejm.gov.pl/eli/acts/DU/1961/38/text.html));
+
+### 7)
+
+ustawy z dnia 31 maja 1962 r. - Prawo lotnicze ([Dz. U. Nr 32, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1962/153/text.html));
+
+### 8)
+
+ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej ([Dz. U. Nr 44, poz. 220](https://api.sejm.gov.pl/eli/acts/DU/1967/220/text.html)).
+
+### Art. XI.
+
+Zamiast kar dodatkowych określonych w poszczególnych przepisach dotyczących wykroczeń stosuje się odpowiednie kary dodatkowe przewidziane w Kodeksie wykroczeń.
+
+### Art. XII.
+
+### § 1.
+
+Jeżeli obowiązujące przepisy powołują się na uchylone przepisy prawa o wykroczeniach z 1932 r. lub na uchylone przepisy ustawy szczególnej albo odsyłają ogólnie do przepisów o wykroczeniach, stosuje się w tym zakresie odpowiednio przepisy Kodeksu wykroczeń.
+
+### § 2.
+
+W razie wątpliwości, czy ma być stosowane prawo dotychczasowe, czy Kodeks wykroczeń, stosuje się Kodeks wykroczeń.
+
+### Art. XIII.
+
+Jeżeli czyn na podstawie dotychczasowych przepisów stanowił występek, a zgodnie z przepisami Kodeksu wykroczeń jest wykroczeniem, ukaranie za ten czyn, popełniony przed dniem wejścia w życie Kodeksu wykroczeń, może nastąpić tylko w razie popełnienia czynu z winy umyślnej, chyba że przepis dotychczasowy przewidywał odpowiedzialność karną również za popełnienie czynu z winy nieumyślnej.
+
+### Art. XIV.
+
+### § 1.
+
+W sprawach zakończonych prawomocnym rozstrzygnięciem, w których kara nie została wykonana:
+
+### 1)
+
+jeżeli według nowej ustawy czyn objęty rozstrzygnięciem zagrożony jest karą, której górna granica jest niższa od kary orzeczonej, wymierzoną karę łagodzi się do górnego ustawowego zagrożenia przewidzianego za taki czyn w nowej ustawie,
+
+### 2)
+
+do osób, którym wykonanie kary warunkowo zawieszono, stosuje się przepisy art. 42-44 Kodeksu wykroczeń
+
+### 3)
+
+stosuje się przepisy Kodeksu wykroczeń o przedawnieniu.
+
+### § 2.
+
+W sprawach zakończonych prawomocnym rozstrzygnięciem uznanie ukarania za niebyłe następuje na podstawie przepisów Kodeksu wykroczeń.
+
+### Art. XV.
+
+Przepisy Kodeksu wykroczeń nie mają zastosowania do wykroczeń skarbowych.
+
+### Art. XVI.
+
+Zakłady, w których ma być wykonywana kara aresztu, określi w drodze rozporządzenia Minister Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych.
+
+### Art. XVII.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1972 r.

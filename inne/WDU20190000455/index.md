@@ -1,0 +1,124 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 1 marca 2019 r. w sprawie dofinansowania z budżetu państwa składek członkowskich wnoszonych przez wchodzące w skład Rady Dialogu Społecznego reprezentatywne organizacje związkowe do międzynarodowych organizacji związkowych"
+address: WDU20190000455
+eli: DU/2019/455
+publisher: DU
+year: 2019
+pos: 455
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 1 marca 2019 r. w sprawie dofinansowania z budżetu państwa składek członkowskich wnoszonych przez wchodzące w skład rady dialogu społecznego reprezentatywne organizacje związkowe do międzynarodowych organizacji związkowych [1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej - praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 455 |
+| ISAP | WDU20190000455 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-03-01 |
+| Data wydania | 2019-03-08 |
+| Wejście w życie | 2019-03-09 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/455/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/455) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wniosek (wzór)](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 111ust. 5 ustawy z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. z 2019 r. poz. 263](https://api.sejm.gov.pl/eli/acts/DU/2019/263/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+szczegółowy tryb składania wniosków o dofinansowanie z budżetu państwa w formie dotacji celowej, zwane dalej „dotacją”, składek członkowskich wnoszonych do międzynarodowych organizacji związkowych, reprezentujących interesy osób wykonujących pracę zarobkową wobec instytucji Unii Europejskiej, zwanych dalej „międzynarodowymi organizacjami związkowymi”, przez organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego ([Dz. U. z 2018 r. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2018/2232/text.html)), wchodzące w skład Rady Dialogu Społecznego, zwane dalej „organizacjami związkowymi”;
+
+### 2)
+
+wzór wniosku o udzielenie dotacji składek członkowskich wnoszonych do międzynarodowych organizacji związkowych przez organizacje związkowe, zwanego dalej „wnioskiem”;
+
+### 3)
+
+dokumenty, które należy dołączyć do wniosku.
+
+### § 2.
+
+### 1.
+
+Wniosek jest składany w postaci papierowej w terminie do dnia 31 grudnia roku poprzedzającego rok udzielenia dotacji.
+
+### 2.
+
+Wniosek jest podpisywany przez osoby uprawnione do reprezentacji organizacji związkowej zgodnie ze sposobem reprezentacji ujawnionym w Krajowym Rejestrze Sądowym lub przez osoby upoważnione na podstawie pełnomocnictwa udzielonego przez osoby uprawnione do reprezentacji organizacji związkowej zgodnie ze sposobem reprezentacji ujawnionym w Krajowym Rejestrze Sądowym.
+
+### 3.
+
+Do wniosku dołącza się:
+
+### 1)
+
+oryginały lub kopie poświadczone za zgodność z oryginałem przez osoby, o których mowa w ust. 2:
+
+### a)
+
+dokumentów potwierdzających członkostwo organizacji związkowej w międzynarodowej organizacji związkowej, zawierających datę przystąpienia do danej międzynarodowej organizacji związkowej,
+
+### b)
+
+odpisu prawomocnego orzeczenia sądu stwierdzającego reprezentatywność organizacji związkowej, której dotyczy wniosek, albo potwierdzenia udokumentowania Prezydium Rady Dialogu Społecznego złożenia wniosku o ponowne stwierdzenie reprezentatywności, o którym mowa w art. 25 ust. 3 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego;
+
+### 2)
+
+aktualny odpis z Krajowego Rejestru Sądowego albo wydruk informacji, o którym mowa w art. 4 ust. 4aa ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym ([Dz. U. z 2018 r. poz. 986](https://api.sejm.gov.pl/eli/acts/DU/2018/986/text.html) i [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html) oraz [z 2019 r. poz. 55](https://api.sejm.gov.pl/eli/acts/DU/2019/55/text.html) i [60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html));
+
+### 3)
+
+dokument pełnomocnictwa, jeżeli:
+
+### a)
+
+wniosek został podpisany przez osobę upoważnioną na podstawie pełnomocnictwa lub
+
+### b)
+
+kopie dokumentów, o których mowa w pkt 1 lit. a lub b, zostały poświadczone za zgodność z oryginałem przez osobę upoważnioną na podstawie pełnomocnictwa.
+
+### 4.
+
+Wzór wniosku jest określony w załączniku do rozporządzenia.
+
+### § 3.
+
+### 1.
+
+W przypadku nieprawidłowo wypełnionego lub niekompletnego wniosku Minister wzywa wnioskodawcę do jego poprawienia lub uzupełnienia w wyznaczonym terminie, nie krótszym niż 7 dni od dnia doręczenia wezwania.
+
+### 2.
+
+Wniosek, który nie został poprawiony lub uzupełniony w wyznaczonym terminie, o którym mowa w ust. 1, pozostawia się bez rozpatrzenia, o czym zawiadamia się wnioskodawcę wraz z podaniem przyczyny.
+
+### § 4.
+
+Organizacja związkowa składa wniosek o udzielenie dotacji na rok 2019 w terminie 30 dni od dnia wejścia w życie rozporządzenia.
+
+### § 5.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej - praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).
+
+## Załącznik - Wniosek (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

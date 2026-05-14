@@ -1,0 +1,230 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 29 czerwca 2018 r. zmieniające rozporządzenie w sprawie wysokości limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań Programu Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20180001297
+eli: DU/2018/1297
+publisher: DU
+year: 2018
+pos: 1297
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 29 czerwca 2018 r. zmieniające rozporządzenie w sprawie wysokości limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1297 |
+| ISAP | WDU20180001297 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-06-29 |
+| Data wydania | 2018-07-04 |
+| Wejście w życie | 2018-07-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1297/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1297) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wysokość limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 18 ust. 1 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. z 2018 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2018/627/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2015 r. w sprawie wysokości limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. poz. 1755](https://api.sejm.gov.pl/eli/acts/DU/2015/1755/text.html), [z 2016 r. poz. 1719](https://api.sejm.gov.pl/eli/acts/DU/2016/1719/text.html) oraz [z 2017 r. poz. 1091](https://api.sejm.gov.pl/eli/acts/DU/2017/1091/text.html) i [1936](https://api.sejm.gov.pl/eli/acts/DU/2017/1936/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 1 w pkt 6 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+działania współpraca na realizację operacji w zakresie, o którym mowa w art. 5 pkt 2 lit. a oraz pkt 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 ([Dz. Urz. UE L 347 z 20.12.2013, str. 487](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 i Dz. Urz. UE L 30 z 02.02.2018, str. 6.](#gloss-0:2:)).
+
+” ;
+
+### 2)
+
+w § 2b ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Podmioty ubiegające się o przyznanie pomocy, których wnioski o przyznanie pomocy finansowej, złożone w ramach działania podstawowe usługi i odnowa wsi na obszarach wiejskich, zawierają zapotrzebowanie na środki przekraczające określoną w rozporządzeniu wysokość odpowiedniego limitu środków i przekraczające więcej niż o 50% wysokość dostępnych środków w ramach tego limitu, ustaloną według stanu na dzień podania do publicznej wiadomości listy, o której mowa w przepisach w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach tego działania, zgodnie z którą przysługuje ta pomoc, informuje się, w formie pisemnej, o odmowie przyznania tej pomocy z podaniem jej przyczyn, niezwłocznie po podaniu do publicznej wiadomości przez podmiot wdrażający tej listy.
+
+### 2.
+
+Podmioty ubiegające się o przyznanie pomocy, których wnioski o przyznanie pomocy finansowej, złożone w ramach działania podstawowe usługi i odnowa wsi na obszarach wiejskich, zawierają zapotrzebowanie na środki przekraczające określoną w rozporządzeniu wysokość odpowiedniego limitu środków i przekraczające nie więcej niż o 50% wysokość dostępnych środków w ramach tego limitu, ustaloną według stanu na dzień podania do publicznej wiadomości listy, o której mowa w przepisach w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy finansowej w ramach tego działania, zgodnie z którą przysługuje ta pomoc, niezwłocznie informuje się o tym, w formie pisemnej.
+
+” ;
+
+### 3)
+
+załącznik do rozporządzenia otrzymuje brzmienie określone w załączniku do niniejszego rozporządzenia.
+
+### § 2.
+
+Do postępowań w sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 czerwca 2018 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1250). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1, Dz. Urz. UE L 28 z 04.02.2016, str. 8, Dz. Urz. UE L 130 z 19.05.2016, str. 1, Dz. Urz. UE L 129 z 19.05.2017, str. 1, Dz. Urz. UE L 350 z 29.12.2017, str. 15 i Dz. Urz. UE L 30 z 02.02.2018, str. 6.
+
+## Załącznik - Wysokość limitów środków dostępnych w poszczególnych województwach lub latach w ramach określonych działań lub poddziałań
+
+### I.
+
+Wysokość limitów środków dostępnych w poszczególnych województwach w ramach działania podstawowe usługi i odnowa wsi na obszarach wiejskich Nazwa województwa Wysokość limitów środków w euro na operacje typu inwestycje w targowiska lub obiekty budowlane przeznaczone na cele promocji lokalnych produktów Wysokość limitów środków w euro na operacje typu gospodarka wodno-ściekowa Wysokość limitów środków w euro na operacje typu budowa lub modernizacja dróg lokalnych Wysokość limitów środków w euro na operacje typu ochrona zabytków i budownictwa tradycyjnego Wysokość limitów środków w euro na operacje typu inwestycje w obiekty pełniące funkcje kulturalne Wysokość limitów środków w euro na operacje typu kształtowanie przestrzeni publicznej Wysokość limitów środków w euro razem dolnośląskie 2 589 271 11 964 012 13 079 494 1679 787 6 992 543 0 36 305 107 kujawsko-pomorskie 3 074 690 14 958 431 19 000 000 500 000 2 273 158 1 250 000 41 056 279 lubelskie 3 886 851 19 593 108 29 431 509 0 3 841 132 1 580 000 58 332 600 lubuskie 835 600 10 630 514 13 936 377 1 364 827 1 500 000 364 827 28 632 145 łódzkie 3 754 325 23 152 339 11 998 740 0 2 920 539 973 513 42 799 456 małopolskie 1 698 120 16 145 684 18 452 210 2 306 526 4 613 053 4 613 052 47 828 645 mazowieckie 6 830 640 16 801 692 39 203 947 3 111 424 1 866 854 1 244 570 69 059 127 opolskie 240 000 12 265 000 7 235 000 642 386 3 957 610 1 300 000 25 639 996 podkarpackie 2 022 692 23 731 421 16 755 214 2 268 349 907 339 1 361 010 47 046 025 podlaskie 2 916 384 18 678 482 21 577 741 132 893 0 0 43 305 500 pomorskie 2 523 330 8 361 802 22 706 866 500 000 0 500 000 34 591 998 śląskie 1 144 800 14 934 455 17 770 496 0 0 0 33 849 751 świętokrzyskie 1 472 520 17 162 605 13 000 000 0 1 562 075 0 33 197 200 warmińsko-mazurskie 2 372 730 7 967 012 31 200 000 2 109 279 1 054 639 1 054 640 45 758 300 wielkopolskie 2 509 120 17 415 817 30 000 000 2 634 212 4 064 526 1 317 106 57 940 781 zachodniopomorskie 2 374 000 11 264 119 19 553 421 346 250 3 995 650 1 106 750 38 640 190 Razem 40 245 073 245 026 493 324 901 015 17 595 933 39 549 118 16 665 468 683 983 100
+
+### II.
+
+Wysokość limitów środków dostępnych w poszczególnych województwach w ramach poddziałania:
+
+### A.
+
+Wsparcie na przystępowanie do systemów jakości Nazwa województwa Wysokość limitów środków w euro mazowieckie 2 186 979 pozostałe województwa 5 042 603 Razem 7 229 582
+
+### B.
+
+Wsparcie działań informacyjnych i promocyjnych realizowanych przez grupy producentów na rynku wewnętrznym Nazwa województwa Wysokość limitów środków w euro mazowieckie 2 281 439 pozostałe województwa 12 718 162 Razem 14 999 601
+
+### C.
+
+Wsparcie inwestycji w gospodarstwach rolnych na operacje typu:
+
+### 1)
+
+modernizacja gospodarstw rolnych w celu zwiększenia rentowności i konkurencyjności gospodarstw Nazwa województwa Wysokość limitów środków w euro w obszarze rozwój produkcji prosiąt Wysokość limitów środków w euro w obszarze rozwój produkcji mleka krowiego Wysokość limitów środków w euro w obszarze rozwój produkcji bydła mięsnego Wysokość limitów środków w euro razem mazowieckie 15 294 900 138 337 801 20 512 359 174 145 060 pozostałe województwa 86 705 100 784 221 723 116 282 297 987 209 120 Razem 102 000 000 922 559 524 136 794 656 1 161 354 180
+
+### 2)
+
+inwestycje w gospodarstwach położonych na obszarach OSN Nazwa województwa Wysokość limitów środków w euro mazowieckie 1 471 654 pozostałe województwa 32 588 170 Razem 34 059 824
+
+### 3)
+
+inwestycje w gospodarstwach położonych na obszarach NATURA 2000 Nazwa województwa Wysokość limitów środków w euro mazowieckie 7 022 311 pozostałe województwa 58 193 865 Razem 65 216 176
+
+### D.
+
+Wsparcie na inwestycje związane z rozwojem, modernizacją i dostosowywaniem rolnictwa i leśnictwa Nazwa województwa Wysokość limitów środków w euro dolnośląskie 21 944 277 kujawsko-pomorskie 0 lubelskie 54 367 336 lubuskie 4 377 344 łódzkie 5 027 714 małopolskie 35 894 766 mazowieckie 10 409 509 opolskie 3 119 372 podkarpackie 77 522 435 podlaskie 29 663 529 pomorskie 6 097 223 śląskie 24 152 381 świętokrzyskie 10 139 370 warmińsko-mazurskie 0 wielkopolskie 1 983 762 zachodniopomorskie 0 Razem 284 699 018
+
+### E.
+
+Wsparcie inwestycji w odtwarzanie gruntów rolnych i przywracanie potencjału produkcji rolnej zniszczonego w wyniku klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof Nazwa województwa Wysokość limitów środków w euro mazowieckie 29 854 705 pozostałe województwa 185 624 943 Razem 215 479 648
+
+### F.
+
+Pomoc w rozpoczęciu działalności gospodarczej na rzecz młodych rolników Nazwa województwa Wysokość limitów środków w euro dolnośląskie 41 427 367 kujawsko-pomorskie 58 673 214 lubelskie 66 168 911 lubuskie 17 217 128 łódzkie 54 501 758 małopolskie 23 707 654 mazowieckie 107 086 512 opolskie 21 819 371 podkarpackie 22 257 338 podlaskie 51 759 079 pomorskie 34 908 121 śląskie 16 147 339 świętokrzyskie 26 708 805 warmińsko-mazurskie 48018411 wielkopolskie 92 454 107 zachodniopomorskie 35 123 515 Razem 717 978 630
+
+### G.
+
+Wsparcie inwestycji w tworzenie i rozwój działalności pozarolniczej Nazwa województwa Wysokość limitów środków w euro mazowieckie 24 153 706 pozostałe województwa 157 843 937 Razem 181 997 643
+
+### H.
+
+Płatności na rzecz rolników kwalifikujących się do systemu dla małych gospodarstw, którzy trwale przekazali swoje gospodarstwo innemu rolnikowi Nazwa województwa Wysokość limitów środków w euro mazowieckie 4 162 664 pozostałe województwa 25 834 193 Razem 29 996 857
+
+### I.
+
+Wsparcie inwestycji w środki zapobiegawcze, których celem jest ograniczenie skutków prawdopodobnych klęsk żywiołowych, niekorzystnych zjawisk klimatycznych i katastrof, na operacje dotyczące:
+
+### 1)
+
+zapobiegania rozprzestrzenianiu się afrykańskiego pomoru świń Nazwa województwa Wysokość limitów środków w euro mazowieckie 2 771 000 pozostałe województwa 17 229 000 Razem 20 000 000
+
+### 2)
+
+zaopatrzenia w sprzęt do utrzymywania urządzeń wodnych służących zabezpieczeniu gospodarstw rolnych przed zalaniem, podtopieniem lub nadmiernym uwilgoceniem spowodowanym przez powódź lub deszcz nawalny Nazwa województwa Wysokość limitów środków w euro mazowieckie 11 013 517 pozostałe województwa 68 477 761 Razem 79 491 278
+
+### J.
+
+Pomoc na rozpoczęcie działalności gospodarczej na rzecz rozwoju małych gospodarstw:
+
+### 1)
+
+z wyłączeniem limitu środków dostępnych na operacje polegające na zaprzestaniu chowu i hodowli świń, realizowane w gospodarstwach, w których są prowadzone chów lub hodowla świń, położonych na obszarach znajdujących się na terytorium Rzeczypospolitej Polskiej wymienionych w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE Nazwa województwa Wysokość limitów środków w euro dolnośląskie 31 863 818 kujawsko-pomorskie 23 974 459 lubelskie 100 340 389 lubuskie 11 565 954 łódzkie 68 323 380 małopolskie 95 361 668 mazowieckie 104 936 132 opolskie 12 408 506 podkarpackie 92 068 052 podlaskie 34 927 647 pomorskie 17 080 845 śląskie 35 770 200 świętokrzyskie 54 689 342 warmińsko-mazurskie 16 851 058 wielkopolskie 51 855 300 zachodniopomorskie 13 940 421 Razem 765 957 171
+
+### 2)
+
+na operacje polegające na zaprzestaniu chowu i hodowli świń, realizowane w gospodarstwach, w których są prowadzone chów lub hodowla świń, położonych na obszarach znajdujących się na terytorium Rzeczypospolitej Polskiej wymienionych w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE Nazwa województwa Wysokość limitów środków w euro mazowieckie 19 121 071 pozostałe województwa 120 448 792 Razem 139 569 863
+
+### K.
+
+Pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich na operacje związane z rozpoczynaniem pozarolniczej działalności gospodarczej oraz zaprzestaniem chowu i hodowli świń w gospodarstwach, w których są prowadzone chów lub hodowla świń, położonych na obszarach znajdujących się na terytorium Rzeczypospolitej Polskiej wymienionych w części I, II lub III załącznika do decyzji wykonawczej Komisji 2014/709/UE Nazwa województwa Wysokość limitów środków w euro mazowieckie 9 245 278 pozostałe województwa 56 184 859 Razem 65 430 137
+
+### III.
+
+Wysokość limitów środków w 2015 r. dostępnych w poszczególnych województwach w ramach:
+
+### A.
+
+Działania inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów Nazwa województwa Wysokość limitów środków w euro mazowieckie 1 094 940 pozostałe województwa 8 805 060 Razem 9 900 000
+
+### B.
+
+Poddziałania wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój na operacje typu przetwórstwo i marketing produktów rolnych z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Nazwa województwa Wysokość limitów środków w euro z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej mazowieckie 20 139 989 pozostałe województwa 123 161 919 Razem 143 301 908
+
+### IV.
+
+Wysokość limitów środków w 2016 r. dostępnych w poszczególnych województwach w ramach poddziałania:
+
+### A.
+
+Wsparcie inwestycji w gospodarstwach rolnych na operacje typu modernizacja gospodarstw rolnych z przeznaczeniem na operacje związane z racjonalizacją technologii produkcji, wprowadzeniem innowacji, zmianą profilu produkcji, zwiększeniem skali produkcji, poprawą jakości produkcji lub zwiększeniem wartości dodanej produktu Nazwa województwa Wysokość limitów środków w euro dolnośląskie 30 632 065 kujawsko-pomorskie 44 337 726 lubelskie 60 762 348 lubuskie 12 917 980 łódzkie 46 607 417 małopolskie 21 459 950 mazowieckie 87 491 012 opolskie 17 661 574 podkarpackie 18 717 651 podlaskie 44 997 045 pomorskie 26 833 689 śląskie 13 145 532 świętokrzyskie 23 700 466 warmińsko-mazurskie 36 367 555 wielkopolskie 72 128 303 zachodniopomorskie 25 707 596 Razem 583 467 909
+
+### B.
+
+Wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój na operacje typu przetwórstwo i marketing produktów rolnych z przeznaczeniem na inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Nazwa województwa Wysokość limitów środków w euro z przeznaczeniem na inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej mazowieckie 295 203 pozostałe województwa 1 325 724 Razem 1 620 927
+
+### V.
+
+Wysokość limitów środków w 2017 r. dostępnych w poszczególnych województwach w ramach:
+
+### A.
+
+Poddziałania wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój na operacje typu przetwórstwo i marketing produktów rolnych z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej, albo inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Nazwa województwa Wysokość limitów środków w euro z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Wysokość limitów środków w euro z przeznaczeniem na inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Wysokość limitów środków w euro razem mazowieckie 34 582 560 907 272 35 489 832 pozostałe województwa 160 398 480 6 549 252 166 947 732 Razem 194 981 040 7 456 524 202 437 564
+
+### B.
+
+Poddziałania pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich na operacje inne niż określone w § 1 pkt 2 lit. k Nazwa województwa Wysokość limitów środków w euro dolnośląskie 837 160 kujawsko-pomorskie 884 998 lubelskie 4 353 234 lubuskie 263 108 łódzkie 1 961 347 małopolskie 2 463 643 mazowieckie 3 396 479 opolskie 358 783 podkarpackie 2 248 374 podlaskie 1 650 402 pomorskie 1 076 350 śląskie 932 836 świętokrzyskie 1 602 564 warmińsko-mazurskie 669 728 wielkopolskie 2 272 292 zachodniopomorskie 382 702 Razem 25 354 000
+
+### C.
+
+Działania współpraca Nazwa województwa Wysokość limitów środków w euro mazowieckie 1 294 239 pozostałe województwa 9 941 908 Razem 11 236 147
+
+### VI.
+
+Wysokość limitów środków w latach 2017-2020 dostępnych w poszczególnych województwach w ramach działania inwestycje w rozwój obszarów leśnych i poprawę żywotności lasów Nazwa województwa Wysokość limitów środków w euro mazowieckie 6 350 000 pozostałe województwa 27 200 000 Razem 33 550 000
+
+### VII.
+
+Wysokość limitów środków w latach 2018-2020 dostępnych w poszczególnych województwach w ramach:
+
+### A.
+
+Poddziałania wsparcie inwestycji w przetwarzanie produktów rolnych, obrót nimi lub ich rozwój na operacje typu przetwórstwo i marketing produktów rolnych z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej, albo inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Nazwa województwa Wysokość limitów środków w euro z przeznaczeniem na przetwarzanie i wprowadzanie do obrotu produktów rolnych przez podmiot, który działa jako przedsiębiorca wykonujący działalność gospodarczą w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Wysokość limitów środków w euro z przeznaczeniem na inwestycje dotyczące rozpoczynania działalności gospodarczej przez rolników, ich małżonków lub domowników w zakresie przetwarzania produktów rolnych objętych załącznikiem I do Traktatu o funkcjonowaniu Unii Europejskiej Wysokość limitów środków w euro razem mazowieckie 50 826 351 4 830 000 55 656 351 pozostałe województwa 264 865 269 25 170 000 290 035 269 Razem 315 691 620 30 000 000 345 691 620
+
+### B.
+
+Poddziałania wsparcie inwestycji w gospodarstwach rolnych na operacje typu modernizacja gospodarstw rolnych z przeznaczeniem na operacje związane z racjonalizacją technologii produkcji, wprowadzeniem innowacji, zmianą profilu produkcji, zwiększeniem skali produkcji, poprawą jakości produkcji lub zwiększeniem wartości dodanej produktu Nazwa województwa Wysokość limitów środków w euro dolnośląskie 39 646 734 kujawsko-pomorskie 57 385 815 lubelskie 78 644 016 lubuskie 16 719 594 łódzkie 60 323 449 małopolskie 27 775 368 mazowieckie 113 238 621 opolskie 22 859 173 podkarpackie 24 226 042 podlaskie 58 239 163 pomorskie 34 730 539 śląskie 17 014 113 świętokrzyskie 30 675 244 warmińsko-mazurskie 47 070 112 wielkopolskie 93 354 842 zachodniopomorskie 33 273 049 Razem 755 175 874
+
+### C.
+
+Poddziałania pomoc na rozpoczęcie pozarolniczej działalności gospodarczej na obszarach wiejskich na operacje inne niż określone w § 1 pkt 2 lit. k Nazwa województwa Wysokość limitów środków w euro dolnośląskie 15 430 248 kujawsko-pomorskie 23 329 846 lubelskie 45 980 528 lubuskie 5 035 184 łódzkie 32 353 365 małopolskie 41 619 791 mazowieckie 55 091 683 opolskie 9 948 049 podkarpackie 26 312 724 podlaskie 26 786 518 pomorskie 12 790 270 śląskie 11 567 818 świętokrzyskie 21 618 850 warmińsko-mazurskie 13 652 214 wielkopolskie 38 292 746 zachodniopomorskie 8 765 130 Razem 388 574 964
+
+### D.
+
+Działania współpraca Nazwa województwa Wysokość limitów środków w euro na realizację operacji w zakresie, o którym mowa w art. 5 pkt 2 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 Wysokość limitów środków w euro na realizację operacji w zakresie, o którym mowa w art. 5 pkt 3 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 Wysokość limitów środków w euro razem mazowieckie 3 877 023 5 171 262 9 048 285 pozostałe województwa 20 425 366 27 288 388 47 713 754 Razem 24 302 389 32 459 650 56 762 039

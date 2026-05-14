@@ -1,0 +1,40 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 29 lipca 2024 r. w sprawie reorganizacji Instytutu Chemii i Techniki Jądrowej
+address: WDU20240001181
+eli: DU/2024/1181
+publisher: DU
+year: 2024
+pos: 1181
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 29 lipca 2024 r. w sprawie reorganizacji Instytutu Chemii i Techniki Jądrowej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1181 |
+| ISAP | WDU20240001181 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-07-29 |
+| Data wydania | 2024-08-05 |
+| Wejście w życie | 2024-08-06 |
+| Ostatnia zmiana | 2024-08-06 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1181/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1181) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2024 r. poz. 534](https://api.sejm.gov.pl/eli/acts/DU/2024/534/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Nadzór nad Instytutem Chemii i Techniki Jądrowej z siedzibą w Warszawie, numer identyfikacyjny REGON 001024020, numer identyfikacji podatkowej NIP 525-000-83-30[1) Instytut Chemii i Techniki Jądrowej został utworzony na podstawie zarządzenia nr 31 Prezesa Rady Ministrów z dnia 13 grudnia 1982 r. w sprawie organizacji jednostek naukowo-badawczych i rozwojowych atomistyki (M. P. poz. 279).](#gloss-0:1:), sprawuje minister właściwy do spraw gospodarki surowcami energetycznymi.[2) Do dnia wejścia w życie niniejszego rozporządzenia nadzór nad Instytutem Chemii i Techniki Jądrowej z siedzibą w Warszawie sprawował minister właściwy do spraw energii na podstawie rozporządzenia Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji Instytutu Chemii i Techniki Jądrowej (Dz. U. poz. 1458).](#gloss-0:2:)
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Instytut Chemii i Techniki Jądrowej został utworzony na podstawie zarządzenia nr 31 Prezesa Rady Ministrów z dnia 13 grudnia 1982 r. w sprawie organizacji jednostek naukowo-badawczych i rozwojowych atomistyki (M. P. poz. 279). 2) Do dnia wejścia w życie niniejszego rozporządzenia nadzór nad Instytutem Chemii i Techniki Jądrowej z siedzibą w Warszawie sprawował minister właściwy do spraw energii na podstawie rozporządzenia Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji Instytutu Chemii i Techniki Jądrowej (Dz. U. poz. 1458).

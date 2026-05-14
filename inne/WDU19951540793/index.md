@@ -8,9 +8,9 @@ pos: 793
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:9)(cid:6)(cid:10)(cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:15)(cid:10)(cid:16)(cid:10)(cid:1)(cid:2)(cid:3)(cid:6)(cid:5)(cid:3)(cid:4)(cid:10)(cid:17)(cid:16)(cid:18)(cid:4)(cid:19)(cid:12)(cid:11)(cid:10)(cid:20)(cid:16)(cid:12)(cid:13)(cid:15)(cid:20)(cid:16)(cid:14)(cid:6)(cid:5)(cid:3)(cid:6)(cid:10)(cid:19)(cid:6)(cid:21)(cid:5)(cid:4)(cid:22)(cid:16)(cid:23)(cid:10)(cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:24)(cid:10)(cid:16)(cid:10)(cid:11)(cid:12)(cid:13)(cid:21)(cid:16)(cid:7)(cid:11)(cid:10)(cid:12)(cid:8)(cid:18)(cid:25)(cid:14) (cid:14)(cid:16)(cid:7)(cid:12)(cid:19)(cid:16)(cid:14)(cid:24)(cid:9)(cid:26)(cid:23)(cid:10)(cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:24)(cid:10)(cid:16)(cid:10)(cid:16)(cid:20)(cid:27)(cid:6)(cid:13)(cid:6)(cid:9)(cid:26)(cid:10)(cid:14)(cid:10)(cid:12)(cid:20)(cid:21)(cid:6)(cid:14)(cid:6)(cid:9)(cid:26)(cid:10)(cid:19)(cid:6)(cid:21)(cid:5)(cid:24)(cid:9)(cid:26)(cid:10)(cid:3)(cid:10)(cid:11)(cid:12)(cid:13)(cid:6)(cid:14)(cid:24)(cid:10)(cid:16)(cid:10)(cid:20)(cid:16)(cid:12)(cid:13)(cid:15)(cid:20)(cid:16)(cid:14)(cid:6)(cid:5)(cid:3)(cid:11)(cid:10)(cid:14) sprawach nieletnich.
+# Ustawa z dnia 1 grudnia 1995 r. zmieniająca ustawę o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich
 
 | Pole | Wartość |
 |---|---|
@@ -22,9 +22,44 @@ domain: null
 | Data ogłoszenia | 1995-12-01 |
 | Data wydania | 1995-12-30 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951540793) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/793/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1995/793/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1995/793) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:14)(cid:2)(cid:15)(cid:10)(cid:9)(cid:16)(cid:7)(cid:15)(cid:6)(cid:2)(cid:17)(cid:14)(cid:14)(cid:18)(cid:2)(cid:16)(cid:19)(cid:2)(cid:20)(cid:2)(cid:10)(cid:21)(cid:8)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:22)(cid:20)(cid:11)(cid:9)(cid:23)(cid:4)(cid:3)(cid:2)(cid:24)(cid:20)(cid:4)(cid:5)(cid:25)(cid:24)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:23)(cid:6)(cid:16)(cid:12)(cid:9)(cid:26)(cid:20)(cid:27)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:28)(cid:2)(cid:20) (cid:3)(cid:4)(cid:5)(cid:16)(cid:20)(cid:29)(cid:3)(cid:2)(cid:4)(cid:30)(cid:11)(cid:31)(cid:7)(cid:2)(cid:7)(cid:20)(cid:29)(cid:4)(cid:23)(cid:20)(cid:7)(cid:28)(cid:15) (cid:27)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:28)(cid:2)(cid:20)(cid:2)(cid:20)(cid:24)!(cid:6)(cid:5)(cid:6)(cid:15) (cid:2)(cid:7)(cid:2)(cid:4)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:15) (cid:2)(cid:23)(cid:6)(cid:16)(cid:12)(cid:28)(cid:15) (cid:2)(cid:8)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:28)(cid:2)(cid:20)(cid:2)(cid:24)(cid:20)(cid:4)(cid:5)(cid:25)(cid:24)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:3) (cid:7)(cid:2)(cid:4)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:15) (cid:2)(cid:12)(cid:8)(cid:9)"(cid:9)(cid:5)(cid:12)(cid:8)(cid:15) (cid:2)#$(cid:10)(cid:19)%(cid:19)(cid:2)&(cid:16)(cid:2)’(cid:14)(cid:27)(cid:2)(cid:24)(cid:20)(cid:10)(cid:19)(cid:2)(()*(cid:2)(cid:7)(cid:24)(cid:16)(cid:20)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:25)(cid:24)(cid:3)(cid:29)(cid:30)(cid:15)(cid:9)(cid:2)(cid:10)(cid:21)(cid:8)(cid:6)(cid:12)(cid:28)+ (cid:17)*(cid:2)(cid:24)(cid:20)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:17),(cid:2)(cid:11)(cid:20)(cid:11)(cid:6)(cid:29)(cid:9)(cid:2)(cid:4)(cid:8)(cid:25)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:17),(cid:6)(cid:2)(cid:7)(cid:2)-(cid:16)(cid:10)(cid:21)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)+ ./(cid:16)(cid:5)(cid:19)(cid:2)(cid:17),(cid:6)(cid:19)(cid:2)(cid:17)(cid:19)(cid:2)(cid:1)(cid:2)(cid:4)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:15) (cid:27)(cid:2)(cid:7)(cid:2)(cid:23)(cid:5)(cid:31)(cid:16)(cid:28)(cid:15) (cid:2)!(cid:30)(cid:15)(cid:10)(cid:12)(cid:28)(cid:2)(cid:15)(cid:10)(cid:6)(cid:4)(cid:2)(cid:5)(cid:28)(cid:21)(cid:15)(cid:10)(cid:6)(cid:4)(cid:20)(cid:7)(cid:9)(cid:26)(cid:20)(cid:2)(cid:6)(cid:16)(cid:9)(cid:4)(cid:10)(cid:5)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:27) zastosowanego przed dniem 4 sierpnia 1996 r., przekracza terminy (cid:20)(cid:23)(cid:16)(cid:9)0"(cid:20)(cid:12)(cid:9)(cid:2)(cid:7)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)(cid:13)(cid:13)(cid:2)1(cid:2)(cid:13)(cid:2)(cid:8)(cid:2)§(cid:2))(cid:2)(cid:22)(cid:20)(cid:11)(cid:9)(cid:23)(cid:4)(cid:3)(cid:2)(cid:24)(cid:20)(cid:4)(cid:5)(cid:25)(cid:24)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:23)(cid:6)(cid:16)(cid:12)(cid:9)(cid:26)(cid:20)(cid:2)(cid:7)(cid:2)-(cid:16)(cid:10)(cid:21)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3) nadanym art. 1 pkt 20, tymczasowe aresztowanie zostaje utrzymane do (cid:15)(cid:10)(cid:6)(cid:4)(cid:3)(cid:2)(cid:16)(cid:20)(cid:10)(cid:24)(cid:20)(cid:10)(cid:12)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:10)(cid:2)2(cid:30)(cid:11)(cid:2)&(cid:6)(cid:29)(cid:7)(cid:28)3(cid:4)(cid:10)(cid:28)(cid:2)(cid:7)(cid:12)(cid:8)(cid:20)(cid:4)(cid:23)(cid:3)(cid:2)(cid:20)(cid:2)(cid:24)(cid:16)(cid:10)(cid:9)(cid:11)!(cid:3)3(cid:9)(cid:12)(cid:8)(cid:9) (cid:4)(cid:5)(cid:20)(cid:4)(cid:20)(cid:7)(cid:6)(cid:12)(cid:9)(cid:26)(cid:20)(cid:2)0(cid:16)(cid:20)(cid:11)(cid:23)(cid:6)(cid:2)(cid:12)(cid:6)(cid:2)(cid:24)(cid:20)(cid:11)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:6)(cid:16)(cid:5)(cid:19)(cid:2)(cid:13)(cid:13)(cid:2)§(cid:2)((cid:2)(cid:22)(cid:20)(cid:11)(cid:9)(cid:23)(cid:4)(cid:3)(cid:2)(cid:24)(cid:20)(cid:4)(cid:5)(cid:25)(cid:24)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6) karnego. (cid:13)(cid:19)(cid:2)(cid:1)(cid:2)(cid:4)(cid:24)(cid:16)(cid:6)(cid:7)(cid:6)(cid:15) (cid:2)(cid:20)(cid:23)(cid:16)(cid:9)0"(cid:20)(cid:12)(cid:28)(cid:15) (cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:19)(cid:2)(cid:17)(cid:2)(cid:7)(cid:2)(cid:16)(cid:6)(cid:10)(cid:8)(cid:9)(cid:2)(cid:12)(cid:8)(cid:9)(cid:10)!(cid:20)3(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:7)(cid:12)(cid:8)(cid:20)(cid:4)(cid:23)(cid:3)(cid:2)(cid:20) (cid:24)(cid:16)(cid:10)(cid:9)(cid:11)!(cid:3)3(cid:9)(cid:12)(cid:8)(cid:9)(cid:2)(cid:4)(cid:5)(cid:20)(cid:4)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:5)(cid:28)(cid:21)(cid:15)(cid:10)(cid:6)(cid:4)(cid:20)(cid:7)(cid:9)(cid:26)(cid:20)(cid:2)(cid:6)(cid:16)(cid:9)(cid:4)(cid:10)(cid:5)(cid:20)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:27)(cid:2)(cid:6)(cid:16)(cid:9)(cid:4)(cid:10)(cid:5)(cid:2)(cid:5)(cid:28)(cid:21)(cid:15)(cid:10)(cid:6)(cid:4)(cid:20)(cid:7)(cid:28) (cid:12)(cid:6)"(cid:9)3(cid:28)(cid:2)(cid:3)(cid:15) (cid:28)"(cid:8)4(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:24)(cid:31)5(cid:12)(cid:8)(cid:9)(cid:29)(cid:2)(cid:12)(cid:8)3(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:21)(cid:2)(cid:17)(cid:2)(cid:4)(cid:5)(cid:28)(cid:15)(cid:10)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:14)(cid:14)6(cid:2)(cid:16)(cid:19)78
+## Treść ustawy
 
-**Art. 2.** %(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:15) (cid:20)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)(cid:2)3(cid:28)(cid:15)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:21)(cid:2)(cid:17)(cid:2)(cid:4)(cid:5)(cid:28)(cid:15)(cid:10)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:14)(cid:14):(cid:2)(cid:16)(cid:19)
+### Art. 1.
 
+W ustawie z dnia 29 czerwca 1995 r. o zmianie Kodeksu postępowania karnego, ustawy o ustroju sądów wojskowych, ustawy o opłatach w sprawach karnych i ustawy o postępowaniu w sprawach nieletnich ([Dz. U. Nr 89, poz. 443](https://api.sejm.gov.pl/eli/acts/DU/1995/443/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 10 dodaje się art. 10a w brzmieniu:
+
+„
+
+### Art. 10a.
+
+### 1.
+
+W sprawach, w których łączny czas tymczasowego aresztowania, zastosowanego przed dniem 4 sierpnia 1996 r., przekracza terminy określone w art. 222 § 2 pkt 2 i § 3 Kodeksu postępowania karnego w brzmieniu nadanym art. 1 pkt 20, tymczasowe aresztowanie zostaje utrzymane do czasu rozpoznania przez Sąd Najwyższy wniosku o przedłużenie stosowania tego środka na podstawie art. 222 § 4 Kodeksu postępowania karnego.
+
+### 2.
+
+W sprawach określonych w ust. 1, w razie niezłożenia wniosku o przedłużenie stosowania tymczasowego aresztowania, areszt tymczasowy należy uchylić nie później niż z dniem 1 stycznia 1997 r.
+
+” ;
+
+### 2)
+
+art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1996 r., z tym że zmiany zawarte w art. 1 odnoszące się do tymczasowego aresztowania wchodzą w życie z dniem 4 sierpnia 1996 r., z zastrzeżeniem art. 10a.
+
+”
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1996 r.

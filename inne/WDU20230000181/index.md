@@ -8,11 +8,9 @@ pos: 181
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw
-
-*USTAWA z dnia 13 stycznia 2023 r.*
+# Ustawa z dnia 13 stycznia 2023 r. o zmianie ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,330 +22,1570 @@ domain: null
 | Data ogłoszenia | 2023-01-13 |
 | Data wydania | 2023-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/181/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/181/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/181) |
 
-**Art. 1.** W ustawie z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 (Dz. U. z 2020 r. poz. 2219) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 3.**
+### Art. 1.
 
-1. Komisja podejmuje działania mające na celu zapewnienie niezwłocznej reakcji organów państwa oraz organizacji i podmiotów zakresie zwalczania przestępstw, o których mowa 1 pkt 2, a także podejmuje działania umożliwiające pociągnięcie do odpowiedzialności ich sprawców.
+W ustawie z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 ([Dz. U. z 2020 r. poz. 2219](https://api.sejm.gov.pl/eli/acts/DU/2020/2219/text.html)) wprowadza się następujące zmiany:
 
-2. Do zadań Komisji zakresie, o którym mowa ust. 1, należy:
+### 1)
 
-- **1)** zawiadamianie właściwych organów o podejrzeniu popełnienia przestępstwa:
-    - **a)** o którym mowa 1 pkt 2,
-    - **b)** niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa 1 pkt 2, wskazanego 240 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, zwanego dalej „przestępstwem niezawiadomienia”;
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 ” ;
 
-- **2)** interwencja i wspieranie osób poszkodowanych postępowaniach prowadzonych przed organami państwa, tym uczestniczenie postępowaniach karnych na prawach oskarżyciela posiłkowego;
-- **3)** przekazywanie niezwłocznie władzom organizacji i podmiotów informacji o podejrzeniu:
-    - **a)** popełnienia przestępstwa, o którym mowa 1 pkt 2,
-    - **b)** niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa 1 pkt 2 – celem wszczęcia odpowiedniego postępowania, tym postępowania dyscyplinarnego;
+### 2)
 
-- **4)** kierowanie do Prokuratora Generalnego wniosków o wniesienie skargi nadzwyczajnej albo kasacji od prawomocnego orzeczenia kończącego sprawę zakresie przestępstw, o których mowa 1 pkt 2, oraz o objęcie prowadzonych postępowań szczególnym nadzorem;
-- **5)** monitorowanie działań podejmowanych przez właściwe organy oraz organizacje i podmioty na podstawie wniosków i zawiadomień sprawach przestępstw, o których mowa 1 pkt 2.”;
-- **6)** po 3 dodaje się 3a–3c brzmieniu: „Art. 3a. Organy państwa, organizacje i podmioty, na wniosek Komisji, zakresie niezbędnym do realizacji wykonywanych przez nią zadań, o których mowa 2 ust. 2 pkt 2, 3 ust. 2 pkt 2 i 5 i 4 ust. 2 pkt 4, przekazują niezwłocznie, nie później niż terminie 30 dni od dnia otrzymania wniosku Komisji, posiadane informacje lub dokumenty, chyba że ich przekazanie jest wyłączone lub ograniczone na podstawie przepisów odrębnych.
+w art. 1 pkt 1-3 otrzymują brzmienie:
 
-**Art. 3b.** Organy państwa, do których Komisja wystąpiła z interwencją, o której mowa 3 ust. 2 pkt 2, niezwłocznie, nie później niż terminie 30 dni od dnia otrzymania interwencji, informują Komisję o podjętych działaniach lub zajętym stanowisku oraz przekazują jej żądane informacje i dokumenty, chyba że zawierają one informacje niejawne. Przepis 24 ust. 2 stosuje się odpowiednio.
+„
 
-**Art. 3c.**
+### 1)
 
-1. W zakresie niezbędnym do realizacji zadań, o których mowa 2 ust. 2 pkt 1 i 2 i 3 ust. 2 pkt 2, Komisja ma prawo dostępu do informacji stanowiących tajemnicę zawodową:
+zadania i organizację Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, zwanej dalej „Komisją”;
 
-- **1)** lekarza i lekarza dentysty, o której mowa 40 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2022 r. poz. 1731, 1733, 2731 i 2770);
-- **2)** osoby wykonującej zawód medyczny, o której mowa 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2022 r. poz. 1876, 2280 i 2705);
-- **3)** pielęgniarki i położnej, o której mowa 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2022 r. poz. 2702 i 2705);
-- **4)** członków samorządu zawodu farmaceuty, o której mowa 21 pkt 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850);
-- **5)** osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2022 r. poz. 2123), o której mowa 50 ust. 1 tej ustawy;
-- **6)** psychologa, o której mowa 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. z 2019 r. poz. 1026);
-- **7)** pracownika socjalnego, o której mowa 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2021 r. poz. 2268, z późn. zm. ).
-- **1)** dokumentacji medycznej, o której mowa 24 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
-- **2)** dokumentacji medycznej, o której mowa 11 ust. 1 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz. U. z 2022 r. poz. 437), oraz dokumentacji, o której mowa 11 ust. 2 i 2a tej ustawy.”;
-- **7)** 4 otrzymuje brzmienie: „Art. 4. 1. Komisja prowadzi działalność prewencyjną, edukacyjną i badawczą.
+### 2)
 
-2. Do zadań Komisji zakresie, o którym mowa ust. 1, należy szczególności:
+zasady i sposób wyjaśniania przypadków przestępstw przeciwko wolności seksualnej i obyczajności, o których mowa w rozdziale XXV ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. z 2022 r. poz. 1138](https://api.sejm.gov.pl/eli/acts/DU/2022/1138/text.html), [1726](https://api.sejm.gov.pl/eli/acts/DU/2022/1726/text.html), [1855](https://api.sejm.gov.pl/eli/acts/DU/2022/1855/text.html), [2339](https://api.sejm.gov.pl/eli/acts/DU/2022/2339/text.html) i [2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html)), popełnionych na szkodę małoletniego poniżej lat 15;
 
-- **1)** prowadzenie działań uświadamiających zakresie problematyki wykorzystywania seksualnego małoletnich poniżej lat 15 oraz sposobów reagowania na nie;
-- **2)** wspieranie przedsięwzięć społecznych mających na celu promowanie właściwych postaw społecznych zakresie zgłaszania organom ścigania przypadków wykorzystywania seksualnego małoletnich, tym prowadzenie kampanii informacyjnych;
-- **3)** współdziałanie z organami państwa, stowarzyszeniami, samorządami zawodowymi, kościołami i związkami wyznaniowymi, ruchami obywatelskimi, innymi dobrowolnymi zrzeszeniami i fundacjami, organizacjami oraz zagranicznymi i międzynarodowymi organami i organizacjami działającymi na rzecz przeciwdziałania wykorzystywaniu seksualnemu małoletnich;
-- **4)** prowadzenie badań zjawiska wykorzystywania seksualnego małoletnich poniżej lat 15;
-- **5)** opracowywanie sprawozdań, o których mowa 42 ust. 1, i raportów, o których mowa 43a ust. 1.
+### 3)
 
-3. Zadania, o których mowa ust. 2 pkt 1, 2 i 4, mogą być wykonywane przez Komisję we współpracy ze szkołami, z uczelniami, placówkami oświatowymi i kulturalnymi, ze stowarzyszeniami, z fundacjami i innymi organizacjami pozarządowymi, a także ze środkami masowego przekazu.”;
+działania mające na celu zapewnienie niezwłocznej reakcji organów państwa oraz organizacji pozarządowych, podmiotów i instytucji prowadzących działalność edukacyjną, wychowawczą, opiekuńczą, kulturalną i związaną z kulturą fizyczną, wypoczynkiem i leczeniem, a także samorządów zawodowych, kościołów oraz związków wyznaniowych, w tym kościelnych osób prawnych, zwanych dalej „organizacjami i podmiotami”, w zakresie zwalczania przestępstw, o których mowa w pkt 2, oraz działania umożliwiające pociągnięcie do odpowiedzialności ich sprawców;
 
-- **8)** po 4 dodaje się 4a brzmieniu: „Art. 4a. Do zadań Komisji należy także:
-- **1)** opiniowanie projektów aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji;
-- **2)** kierowanie do właściwych organów wniosków o podjęcie inicjatywy ustawodawczej albo o wydanie lub zmianę innych aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji.”;
-- **9)** 5:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Komisja odmawia, tym także organom władzy publicznej, ujawnienia danych osobowych osoby, od której uzyskała informacje, oraz osoby, której dotyczy zgłoszenie, a także dokumentacji zgromadzonej przez Komisję, jeżeli uzna to za niezbędne dla ochrony czci, praw i godności tych osób.”,
-    - **b)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Przepisu ust. 2 nie stosuje się do:
+” ;
 
-- **1)** przekazania przez Komisję zgłoszenia, o którym mowa 21 ust. 1;
-- **2)** złożenia przez Komisję zawiadomienia o podejrzeniu popełnienia przestępstw, o których mowa 41;
-- **3)** wykonania przez Komisję orzeczenia sądu lub postanowienia prokuratora zobowiązującego Komisję do przekazania informacji lub dokumentów.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Dokumentacja zgromadzona przez Komisję podczas wykonywania zadań, o których mowa 2 i 3, tym toku postępowania wyjaśniającego, oraz postanowienia, o których mowa 37 ust. 1, oraz uchwała określona 36 ust. 1 nie stanowią informacji publicznej i nie podlegają udostępnieniu trybie określonym ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).”;
+### 3)
 
-- **10)** 6 ust. 6 pkt 3 otrzymuje brzmienie: „3) nie była prawomocnie skazana za przestępstwo umyślne lub umyślne przestępstwo skarbowe;”; „4. Przed przystąpieniem do wykonywania obowiązków członkowie Komisji składają przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 dochowam wierności Konstytucji Rzeczypospolitej Polskiej, będę strzec praw dziecka, kierując się przepisami prawa, dobrem dziecka i dobrem rodziny. Ślubuję, że powierzone mi obowiązki będę wypełniać bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy prawnie chronionej.”. Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.”;
-- **12)** 10:
-    - **a)** ust. 1 pkt 4 otrzymuje brzmienie: „4) prawomocnego skazania członka Komisji za przestępstwo umyślne lub umyślne przestępstwo skarbowe.”,
-    - **b)** ust. 3 pkt 3 otrzymuje brzmienie: „3) niewypełniania obowiązków nałożonych przez ustawę lub działania na szkodę osób poszkodowanych przestępstwem, o którym mowa 1 pkt 2.”;
+tytuł rozdziału 2 otrzymuje brzmienie: „ Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 ” ;
 
-- **13)** 13:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Komisja może, na wniosek członka Komisji, powołać ze swojego grona nie więcej niż dwóch zastępców przewodniczącego Komisji.”,
-    - **b)** po ust. 2 dodaje się ust. 2a–2c brzmieniu: „2a. Powołanie zastępcy przewodniczącego Komisji następuje drodze uchwały, podjętej większością głosów głosowaniu tajnym obecności co najmniej pięciu członków Komisji.
+### 4)
 
-2b. Zakres zadań zastępcy przewodniczącego Komisji określa przewodniczący Komisji, drodze zarządzenia.
+w rozdziale 2 po art. 1 dodaje się art. 1a w brzmieniu:
 
-2c. Przepisy ust. 2 i 2a stosuje się odpowiednio do odwołania zastępcy przewodniczącego Komisji.”;
+„
 
-- **14)** 15 otrzymuje brzmienie: „Art. 15. Komisja określa regulamin swojego działania oraz wzory informacji i pouczeń określonych ustawie.”;
-- **15)** 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Obsługę merytoryczną, administracyjną i biurową Komisji zapewnia Urząd Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, zwany dalej „Urzędem Komisji”.”,
-    - **b)** po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Urząd Komisji wykonuje zadania, o których mowa ust. 1, pod kierownictwem przewodniczącego Komisji.
+### Art. 1a.
 
-1b. Urzędem Komisji kieruje przewodniczący Komisji przy pomocy zastępców przewodniczącego Komisji lub członka Komisji, o którym mowa 13 ust. 3, oraz dyrektora generalnego.”,
+Siedzibą Komisji jest m.st. Warszawa.
 
-- **c)** ust. 2 otrzymuje brzmienie: „2. Przewodniczący Komisji może upoważnić pracowników Urzędu Komisji do działania jego imieniu określonych przez niego sprawach.”;
-- **16)** po 18 dodaje się 18a brzmieniu: „Art. 18a. 1. Członkowie Komisji, pracownicy Urzędu Komisji oraz osoby wykonujące pracę Urzędzie Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów cywilnoprawnych są obowiązani zachować tajemnicy informacje, o których powzięli wiadomość związku z czynnościami wykonywanymi na podstawie ustawy.
+” ;
 
-2. Naruszenia tajemnicy, o której mowa ust. 1, nie stanowi złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa ani udzielenie informacji lub przekazanie dokumentu ramach wykonania obowiązku lub uprawnienia wynikającego z przepisu prawa.”; „Art. 19. W sprawach o przestępstwa, o których mowa 1 pkt 2, postępowanie przed Komisją prowadzone jest na podstawie:
+### 5)
 
-- **1)** zgłoszenia o podejrzeniu popełnienia przestępstwa;
-- **2)** zgłoszenia podejrzenia popełnienia przestępstwa niezawiadomienia;
-- **3)** zgłoszenia monitorowania przez Komisję postępowań, o których mowa 24–25a;
-- **4)** prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania karnego ze względu na przedawnienie karalności przestępstwa.”;
-- **18)** po 19 dodaje się 19a–19d brzmieniu: „Art. 19a. 1. Komisja wydaje postanowienia oraz podejmuje uchwały.
+art. 2 i art. 3 otrzymują brzmienie:
 
-2. Przewodniczący Komisji wydaje zarządzenia.
+„
 
-3. Komisja wydaje postanowienia i podejmuje uchwały większością głosów głosowaniu jawnym obecności co najmniej pięciu członków Komisji, tym przewodniczącego Komisji, a razie jego nieobecności – członka Komisji, o którym mowa 13 ust. 3, oraz członka sprawozdawcy.
+### Art. 2.
 
-4. W razie równej liczby głosów rozstrzyga głos przewodniczącego Komisji, a razie jego nieobecności – członka Komisji, o którym mowa 13 ust. 3.
+### 1.
 
-**Art. 19b.**
+Komisja prowadzi działania mające na celu wyjaśnianie przypadków przestępstw, o których mowa w art. 1 pkt 2.
 
-1. Postanowienia i uchwały podpisują członkowie Komisji biorący udział głosowaniu.
+### 2.
 
-2. Przy składaniu podpisu członek Komisji, który został przegłosowany, może zaznaczyć na postanowieniu lub uchwale swoje zdanie odrębne, przez umieszczenie obok swojego podpisu skrótu „v.s.” lub wyrazów „votum separatum”. Zgłaszający zdanie odrębne uzasadnia je na piśmie terminie 14 dni od dnia wydania postanowienia lub podjęcia uchwały. Uzasadnienie zdania odrębnego dołącza się do akt sprawy.
+Do zadań Komisji należy:
 
-**Art. 19c.** Jeżeli ustawa wymaga sporządzenia uzasadnienia postanowienia lub uchwały, uzasadnienie Komisja sporządza terminie 14 dni od dnia wydania postanowienia lub podjęcia uchwały.
+### 1)
 
-**Art. 19d.** Od uchwał Komisji podjętych postępowaniu wyjaśniającym oraz sprawach, o których mowa 23, 23a i 25 ust. 1 pkt 2, odwołanie nie przysługuje.”;
+wydawanie postanowień o wpisie osób w Rejestrze, o którym mowa w art. 4 ust. 1 pkt 3 ustawy z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym ([Dz. U. z 2023 r. poz. 31](https://api.sejm.gov.pl/eli/acts/DU/2023/31/text.html), [z 2022 r. poz. 2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html) oraz [z 2023 r. poz. 181](https://api.sejm.gov.pl/eli/acts/DU/2023/181/text.html)), zwanym dalej „Rejestrem”;
 
-**Art. 27.**
+### 2)
 
-1. W celu zapobiegania przestępstwom, o których mowa 1 pkt 2, Komisja przeprowadza postępowanie wyjaśniające przedmiocie wpisu Rejestrze po otrzymaniu prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa wraz z aktami sprawy.
+badanie sposobu reagowania organów państwa, organizacji i podmiotów oraz osób fizycznych w zakresie wyjaśniania przypadków przestępstw, o których mowa w art. 1 pkt 2, w tym ustalanie przypadków niezawiadomienia właściwego organu o podejrzeniu ich popełnienia;
 
-2. O podjęciu postępowania wyjaśniającego Komisja zawiadamia osobę poszkodowaną, osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd i osobę zgłaszającą.
+### 3)
 
-3. Osoba poszkodowana może do czasu zakończenia pierwszego jej wysłuchania wnieść sprzeciw co do prowadzenia przez Komisję postępowania wyjaśniającego. Sprzeciw wnosi się na piśmie lub ustnie do protokołu wysłuchania i nie wymaga uzasadnienia.”; „Art. 27a. 1. W toku postępowania wyjaśniającego niedające się rozstrzygnąć wątpliwości rozstrzyga się na korzyść osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+identyfikacja problemów pojawiających się w praktyce ścigania przestępstw, o których mowa w art. 1 pkt 2.
 
-2. Komisja toku postępowania wyjaśniającego może dokonywać czynności także z urzędu.
+### Art. 3.
 
-3. Osoba wskazana jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie ma obowiązku dostarczania dowodów na swoją niekorzyść.
+### 1.
 
-**Art. 27b.** Podstawą wydania postanowienia o wpisie Rejestrze jest ustalenie toku postępowania wyjaśniającego, że zachowanie osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd było choćby jednym z zachowań, o których mowa rozdziale XXV ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, wobec małoletniego poniżej lat 15.
+Komisja podejmuje działania mające na celu zapewnienie niezwłocznej reakcji organów państwa oraz organizacji i podmiotów w zakresie zwalczania przestępstw, o których mowa w art. 1 pkt 2, a także podejmuje działania umożliwiające pociągnięcie do odpowiedzialności ich sprawców.
 
-**Art. 27c.** Osoba poszkodowana i osoba wskazana jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd ma prawo przeglądać akta postępowania wyjaśniającego i otrzymywać odpisy, kopie lub wyciągi z tych akt.
+### 2.
 
-**Art. 27d.**
+Do zadań Komisji w zakresie, o którym mowa w ust. 1, należy:
 
-1. Członek Komisji jest wyłączony z mocy samej ustawy od udziału postępowaniu wyjaśniającym sprawie:
+### 1)
 
-- **1)** której jest osobą poszkodowaną lub osobą wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd lub pozostaje z tymi osobami takim stosunku prawnym, że wynik sprawy oddziaływa na jego prawa lub obowiązki;
-- **2)** swego małżonka, krewnych lub powinowatych linii prostej, krewnych bocznych do czwartego stopnia i powinowatych bocznych do drugiego stopnia albo osoby pozostającej z nim we wspólnym pożyciu;
-- **3)** osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli;
-- **4)** jeżeli brał udział jako świadek lub biegły prawomocnie umorzonym postępowaniu karnym z powodu przedawnienia przestępstwa, o którym mowa 1 pkt 2;
-- **5)** jeżeli był obrońcą lub pełnomocnikiem osoby poszkodowanej lub osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd;
-- **6)** jeżeli brał udział wydaniu prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania karnego ze względu na przedawnienie karalności przestępstwa, o którym mowa 1 pkt 2.
+zawiadamianie właściwych organów o podejrzeniu popełnienia przestępstwa:
 
-2. Powody wyłączenia, o których mowa ust. 1 pkt 2 i 3, trwają także po ustaniu uzasadniającego je małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+### a)
 
-3. Komisja jest obowiązana na żądanie członka Komisji lub osoby poszkodowanej lub osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd, wyłączyć go od udziału postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności niewymienionych ust. 1, które mogą wywołać wątpliwość co do bezstronności członka Komisji.”;
+o którym mowa w art. 1 pkt 2,
 
-- **28)** 28:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Komisja wydaje postanowienie przedmiocie wpisu Rejestrze po przeprowadzeniu postępowania wyjaśniającego na podstawie całokształtu okoliczności ujawnionych toku postępowania wyjaśniającego, tym:
+### b)
 
-- **1)** akt sprawy przekazanych przez prokuratora albo właściwy sąd;
-- **2)** wysłuchania osoby poszkodowanej;
-- **3)** wysłuchania osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 1 pkt 2, wskazanego w art. 240 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, zwanego dalej „przestępstwem niezawiadomienia”;
 
-2. Komisja przed wydaniem postanowienia przedmiocie wpisu Rejestrze może również:
+### 2)
 
-- **1)** wysłuchać osobę zgłaszającą;
-- **2)** wysłuchać inną osobę charakterze świadka;
-- **3)** zasięgnąć opinii biegłego;
-- **4)** przeprowadzić dowód z innych materiałów, tym dokumentów zgromadzonych sprawie lub przedstawionych przez osoby wskazane pkt 1 i 2 oraz ust. 1 pkt 2 i 3.”,
-    - **b)** po ust. 2 dodaje się ust. 2a–2d brzmieniu: „2a. Komisja wyznacza ze swojego grona członka sprawozdawcę, który po zapoznaniu się z aktami sprawy przekazanymi przez prokuratora albo właściwy sąd przedstawia Komisji stan sprawy.
+interwencja i wspieranie osób poszkodowanych w postępowaniach prowadzonych przed organami państwa, w tym uczestniczenie w postępowaniach karnych na prawach oskarżyciela posiłkowego;
 
-2c. Przewodniczącemu Komisji, a razie jego nieobecności – członkowi Komisji, o którym mowa 13 ust. 3, przysługują uprawnienia przewodniczącego postępowaniu wyjaśniającym.
+### 3)
 
-2d. W przypadku przyznania przez osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd dopuszczenia się zachowania będącego podstawą do wpisu Rejestrze Komisja może ograniczyć postępowanie wyjaśniające do wysłuchania osoby poszkodowanej i osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd, jeżeli przyznanie nie budzi żadnych wątpliwości.”,
+przekazywanie niezwłocznie władzom organizacji i podmiotów informacji o podejrzeniu:
 
-- **c)** po ust. 4 dodaje się ust. 4a–4c brzmieniu: „4a. Na wniosek osoby poszkodowanej Komisja może ją wysłuchać miejscu zamieszkania.
+### a)
 
-4b. Komisja może zlecić czynności, o których mowa ust. 4 i 4a, wyznaczonemu członkowi Komisji.
+popełnienia przestępstwa, o którym mowa w art. 1 pkt 2,
 
-4c. Komisja może uzasadnionych przypadkach wysłuchać osobę poszkodowaną przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku albo zwrócić się o przedstawienie wyjaśnień na piśmie.”,
+### b)
 
-- **d)** ust. 5 i 6 otrzymują brzmienie: „5. Osoby, o których mowa ust. 1 pkt 2 i 3, mogą ustanowić pełnomocnika. Komisja nie ustanawia pełnomocnika z urzędu.
+niezawiadomienia właściwego organu o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 1 pkt 2
 
-6. Odmowa udzielenia przez osobę, o której mowa ust. 1 pkt 2 lub 3, odpowiedzi na pytania zadawane toku wysłuchania, odmowa poddania się badaniu przez biegłego, a także nieobecność tych osób na wysłuchaniu pomimo prawidłowego zaproszenia nie stanowią przeszkody do wydania przez Komisję postanowienia przedmiocie wpisu Rejestrze, jeżeli pozostałe dowody dają do tego podstawę.”;
+- celem wszczęcia odpowiedniego postępowania, w tym postępowania dyscyplinarnego;
 
-- **29)** 29 ust. 3 otrzymuje brzmienie: „3. W postępowaniu wyjaśniającym osoba wysłuchiwana, o której mowa 28 ust. 1 pkt 2 i 3 i ust. 2 pkt 1, ma prawo do:
-- **1)** uchylenia się od odpowiedzi na pytanie, jeżeli jej udzielenie mogłoby narazić tę osobę lub osobę dla niej najbliższą rozumieniu 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny na odpowiedzialność za przestępstwo lub przestępstwo skarbowe lub narazić na wydanie postanowienia o wpisie Rejestrze;
-- **2)** odmowy odpowiedzi na pytania, gdy jest ona podejrzanym albo oskarżonym o popełnienie przestępstwa pozostającego ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo została skazana;
-- **3)** odmowy odpowiedzi na pytania co do okoliczności, na które rozciąga się ciążący na tej osobie obowiązek zachowania tajemnicy ustawowo chronionej;
-- **4)** odmowy odpowiedzi na pytania, gdy jest ona osobą poszkodowaną, która wniosła sprzeciw, o którym mowa 27 ust. 3.”;
-- **30)** 30 i 31 otrzymują brzmienie: „Art. 30. 1. Komisja zaprasza na posiedzenie celu wysłuchania osobę zgłaszającą, osobę poszkodowaną oraz osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie później niż terminie 7 dni od dnia planowanego wysłuchania.
+### 4)
 
-2. Komisja może wezwać na posiedzenie celu wysłuchania inne osoby charakterze świadka lub biegłego. Przepis ust. 1 stosuje się odpowiednio.
+kierowanie do Prokuratora Generalnego wniosków o wniesienie skargi nadzwyczajnej albo kasacji od prawomocnego orzeczenia kończącego sprawę w zakresie przestępstw, o których mowa w art. 1 pkt 2, oraz o objęcie prowadzonych postępowań szczególnym nadzorem;
 
-3. W zaproszeniu i wezwaniu, o których mowa ust. 1 i 2, Komisja wskazuje imię i nazwisko oraz adres zamieszkania osoby zapraszanej albo wezwanej, a także miejsce i termin wysłuchania oraz przedmiot sprawy.
+### 5)
 
-4. Osobę zgłaszającą, osobę poszkodowaną i osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd poucza się o treści przepisów 28 ust. 4, 5 i 6, a osobę poszkodowaną – dodatkowo o treści przepisu 28 ust. 4a. Pouczenia załącza się do zaproszenia na wysłuchanie.
+monitorowanie działań podejmowanych przez właściwe organy oraz organizacje i podmioty na podstawie wniosków i zawiadomień w sprawach przestępstw, o których mowa w art. 1 pkt 2.
 
-5. Świadka i biegłego poucza się o możliwości nałożenia przez sąd grzywny za nieusprawiedliwione niestawiennictwo na wysłuchanie postępowaniu wyjaśniającym, za nieuzasadnione uchylenie się od odpowiedzi lub nieuzasadnioną odmowę odpowiedzi na pytania zadawane podczas wysłuchania. Dodatkowo świadka poucza się o treści ust. 7. Pouczenia załącza się do wezwania na wysłuchanie.
+” ;
 
-6. Grzywnę za nieusprawiedliwione niestawiennictwo na wysłuchanie postępowaniu wyjaśniającym albo za nieuzasadnione uchylenie się od odpowiedzi lub nieuzasadnioną odmowę odpowiedzi na pytania zadawane podczas o których mowa ust. 5 zdanie pierwsze.
+### 6)
 
-7. W przypadku powtórnego nieusprawiedliwionego niestawiennictwa świadka na wysłuchanie postępowaniu wyjaśniającym, na wniosek Komisji, sąd rejonowy właściwy dla miejsca zamieszkania świadka zarządza jego przymusowe sprowadzenie.
+po art. 3 dodaje się art. 3a-3c w brzmieniu:
 
-**Art. 31.** Komisja wysłuchuje osobę, o której mowa 28 ust. 1 pkt 2 i 3, obecności ustanowionego przez nią pełnomocnika, chyba że wyrazi zgodę na wysłuchanie pod nieobecność pełnomocnika.”;
+„
 
-**Art. 36.**
+### Art. 3a.
 
-1. Komisja umarza, drodze uchwały, postępowanie wyjaśniające przypadku:
+Organy państwa, organizacje i podmioty, na wniosek Komisji, w zakresie niezbędnym do realizacji wykonywanych przez nią zadań, o których mowa w art. 2 ust. 2 pkt 2, art. 3 ust. 2 pkt 2 i 5 i art. 4 ust. 2 pkt 4, przekazują niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania wniosku Komisji, posiadane informacje lub dokumenty, chyba że ich przekazanie jest wyłączone lub ograniczone na podstawie przepisów odrębnych.
 
-- **1)** śmierci osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd;
-- **2)** gdy osoba poszkodowana wniesie sprzeciw, o którym mowa 27 ust. 3.
+### Art. 3b.
 
-2. Jeżeli postępowaniu wyjaśniającym uczestniczy więcej niż jedna osoba poszkodowana, przypadku wniesienia sprzeciwu, o którym mowa ust. 1 pkt 2, postępowanie wyjaśniające umarza się części dotyczącej tej osoby poszkodowanej.
+Organy państwa, do których Komisja wystąpiła z interwencją, o której mowa w art. 3 ust. 2 pkt 2, niezwłocznie, nie później niż w terminie 30 dni od dnia otrzymania interwencji, informują Komisję o podjętych działaniach lub zajętym stanowisku oraz przekazują jej żądane informacje i dokumenty, chyba że zawierają one informacje niejawne. Przepis art. 24 ust. 2 stosuje się odpowiednio.
 
-3. Odpis uchwały, o której mowa ust. 1, doręcza się osobie poszkodowanej a uchwały, o której mowa ust. 1 pkt 2, również osobie wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd z pouczeniem, że odwołanie nie przysługuje. Osobę zgłaszającą powiadamia się o umorzeniu postępowania wyjaśniającego.”; „Art. 36a. 1. W razie śmierci osoby poszkodowanej czasie postępowania wyjaśniającego prawa, które by jej przysługiwały tym postępowaniu, może wykonywać osoba najbliższa rozumieniu 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wskazana przez osobę poszkodowaną, z wyłączeniem uprawnienia, o którym mowa 36 ust. 1 pkt 2.
+### Art. 3c.
 
-2. Wskazanie przez osobę poszkodowaną osoby najbliższej następuje drodze pisemnego oświadczenia złożonego Komisji. Pouczenie o prawie wskazania osoby najbliższej oraz o treści przepisu ust. 4 Komisja dołącza do zawiadomienia o podjęciu postępowania wyjaśniającego.
+### 1.
 
-3. W razie śmierci osoby poszkodowanej czasie postępowania wyjaśniającego Komisja zawiadamia wskazaną osobę najbliższą o przysługującym jej prawie wstąpienia do postępowania terminie miesiąca od dnia doręczenia zawiadomienia. W razie wstąpienia osoby najbliższej do postępowania wyjaśniającego Komisja poucza ją o przysługujących uprawnieniach.
+W zakresie niezbędnym do realizacji zadań, o których mowa w art. 2 ust. 2 pkt 1 i 2 i art. 3 ust. 2 pkt 2, Komisja ma prawo dostępu do informacji stanowiących tajemnicę zawodową:
 
-4. W przypadku gdy osoba poszkodowana nie wskazała osoby najbliższej albo osoba najbliższa nie wstąpiła do postępowania wyjaśniającego, Komisja zawiadamia prokuratora prokuratury rejonowej właściwej ze względu na miejsce siedziby Urzędu Komisji, który może wstąpić do postępowania wyjaśniającego i wykonywać prawa osoby poszkodowanej, z wyłączeniem uprawnienia, o którym mowa 27 ust. 3.”;
+### 1)
 
-- **35)** 37 otrzymuje brzmienie: „Art. 37. 1. Po przeprowadzeniu postępowania wyjaśniającego Komisja niezwłocznie wydaje:
-- **1)** postanowienie o wpisie Rejestrze;
-- **2)** postanowienie o odmowie wpisu Rejestrze.
+lekarza i lekarza dentysty, o której mowa w art. 40 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ([Dz. U. z 2022 r. poz. 1731](https://api.sejm.gov.pl/eli/acts/DU/2022/1731/text.html), [1733](https://api.sejm.gov.pl/eli/acts/DU/2022/1733/text.html), [2731](https://api.sejm.gov.pl/eli/acts/DU/2022/2731/text.html) i [2770](https://api.sejm.gov.pl/eli/acts/DU/2022/2770/text.html));
 
-2. Komisja wydaje postanowienia, o których mowa ust. 1, po niejawnej naradzie.
+### 2)
 
-3. Postanowienie o wpisie Rejestrze zawiera:
+osoby wykonującej zawód medyczny, o której mowa w art. 14 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta ([Dz. U. z 2022 r. poz. 1876](https://api.sejm.gov.pl/eli/acts/DU/2022/1876/text.html), [2280](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.html) i [2705](https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text.html));
 
-- **1)** dane osobowe osoby poszkodowanej: imiona i nazwisko oraz nazwisko rodowe;
-- **2)** dane osobowe osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd: nazwisko, tym także przybrane, imiona, nazwisko rodowe, wykonywany zawód lub pełnioną funkcję, miejsce zamieszkania, datę i miejsce urodzenia oraz numer PESEL;
-- **3)** wiek osoby poszkodowanej chwili czynu i jej płeć;
-- **4)** uzasadnienie zawierające zwięzły opis czynu, tym wskazanie czasu, miejsca i okoliczności czynu.
+### 3)
 
-4. Postanowienie o odmowie wpisu Rejestrze zawiera dane, o których mowa ust. 3 pkt 1–3, oraz uzasadnienie wraz z podaniem przyczyn odmowy wpisu Rejestrze i okoliczności ich uzasadniających.
+pielęgniarki i położnej, o której mowa w art. 17 ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej ([Dz. U. z 2022 r. poz. 2702](https://api.sejm.gov.pl/eli/acts/DU/2022/2702/text.html) i [2705](https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text.html));
 
-5. Postanowienie o wpisie Rejestrze albo o odmowie wpisu Rejestrze doręcza się osobie poszkodowanej i osobie wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd z pouczeniem o sposobie i terminie wniesienia odwołania.
+### 4)
 
-6. Osobę zgłaszającą zawiadamia się o sposobie zakończenia postępowania wyjaśniającego.”;
+członków samorządu zawodu farmaceuty, o której mowa w art. 21 pkt 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich ([Dz. U. z 2021 r. poz. 1850](https://api.sejm.gov.pl/eli/acts/DU/2021/1850/text.html));
 
-- **36)** po 37 dodaje się 37a brzmieniu: „Art. 37a. Komisja po przeprowadzeniu postępowania wyjaśniającego wydaje postanowienie o odmowie wpisu Rejestrze także wtedy, gdy zamieszczenie danych osobowych, o których mowa 37 ust. 3 pkt 2, spowodowałoby niewspółmiernie surowe skutki dla osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd, a stosunku do tej osoby nie zachodzi wysokie prawdopodobieństwo popełnienia przestępstwa, o którym mowa 1 pkt 2.”;
-- **37)** 38 otrzymuje brzmienie: „Art. 38. 1. Osoba wskazana jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd może, terminie 30 dni od dnia doręczenia postanowienia o wpisie Rejestrze albo postanowienia o odmowie wpisu Rejestrze przypadku, o którym mowa 37a, zakresie ustalenia zachowania, o którym mowa 27b, wnieść odwołanie do sądu okręgowego właściwego ze względu na jej miejsce zamieszkania chwili wydania postanowienia.
+### 5)
 
-2. Osoba poszkodowana może, terminie 30 dni od dnia doręczenia postanowienia o odmowie wpisu Rejestrze, wnieść odwołanie do sądu okręgowego właściwego ze względu na jej miejsce zamieszkania chwili wydania postanowienia.
+osoby wykonującej czynności wynikające z ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego ([Dz. U. z 2022 r. poz. 2123](https://api.sejm.gov.pl/eli/acts/DU/2022/2123/text.html)), o której mowa w art. 50 ust. 1 tej ustawy;
 
-3. W przypadku wniesienia przez osobę poszkodowaną i osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd odwołania od postanowienia o odmowie wpisu Rejestrze przypadku, osoby poszkodowanej chwili wydania postanowienia, a razie jego braku – sąd okręgowy właściwy dla siedziby Komisji.
+### 6)
 
-4. W przypadku kilku osób poszkodowanych ramach tego samego postępowania wyjaśniającego odwołanie od postanowienia, o którym mowa ust. 2, wnosi się do sądu okręgowego właściwego ze względu na miejsce zamieszkania osoby wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd chwili wydania postanowienia.
+psychologa, o której mowa w art. 14 ust. 1 ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów ([Dz. U. z 2019 r. poz. 1026](https://api.sejm.gov.pl/eli/acts/DU/2019/1026/text.html));
 
-5. W przypadku nieposiadania przez poszkodowanego lub osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd miejsca zamieszkania Polsce, odwołanie od postanowienia o wpisie Rejestrze lub postanowienia o odmowie wpisu Rejestrze wnosi się do sądu okręgowego właściwego dla siedziby Komisji.
+### 7)
 
-6. Odwołanie, o którym mowa ust. 1 i 2, wnosi się za pośrednictwem Komisji, która niezwłocznie przekazuje odwołanie wraz z aktami postępowania wyjaśniającego do właściwego sądu. O przekazaniu odwołania zawiadamia się osobę poszkodowaną i osobę wskazaną jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+pracownika socjalnego, o której mowa w art. 119 ust. 2 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2021 r. poz. 2268](https://api.sejm.gov.pl/eli/acts/DU/2021/2268/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754.](#gloss-0:2:)).
 
-7. Wniesienie odwołania od postanowienia o wpisie Rejestrze wstrzymuje dokonanie wpisu Rejestrze do czasu uprawomocnienia się orzeczenia sądu.”;
+### 2.
 
-- **38)** po 38 dodaje się 38a–38e brzmieniu: „Art. 38a. 1. Odwołanie, o którym mowa 38 ust. 1 i 2, zawiera:
-- **1)** oznaczenie sądu, do którego jest skierowane;
-- **2)** imiona i nazwiska wnoszącego odwołanie, jego przedstawicieli ustawowych i pełnomocników;
-- **3)** oznaczenie zaskarżonego postanowienia;
-- **4)** przytoczenie zarzutów i zwięzłe ich uzasadnienie;
-- **5)** powołanie razie potrzeby nowych faktów i dowodów;
-- **6)** wniosek o uchylenie lub zmianę postanowienia całości lub części;
-- **7)** podpis wnoszącego odwołanie albo jego przedstawiciela ustawowego lub pełnomocnika;
-- **8)** wymienienie załączników.
+W zakresie niezbędnym do realizacji zadań, o których mowa w art. 2 ust. 2 pkt 1 i 2 i art. 3 ust. 2 pkt 2, Komisja ma prawo dostępu do:
 
-2. Powołując odwołaniu, o którym mowa 38 ust. 1 lub 2, nowe fakty lub dowody, należy uprawdopodobnić, że ich powołanie postępowaniu wyjaśniającym nie było możliwe albo potrzeba ich powołania wynikła później.
+### 1)
 
-3. Do odwołania, o którym mowa 38 ust. 1 i 2, dołącza się załączniki nim wymienione.
+dokumentacji medycznej, o której mowa w art. 24 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta;
 
-**Art. 38b.**
+### 2)
 
-1. Stronami postępowania odwoławczego są osoba wnosząca odwołanie i Komisja.
+dokumentacji medycznej, o której mowa w art. 11 ust. 1 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy ([Dz. U. z 2022 r. poz. 437](https://api.sejm.gov.pl/eli/acts/DU/2022/437/text.html)), oraz dokumentacji, o której mowa w art. 11 ust. 2 i 2a tej ustawy.
 
-2. Pełnomocnikiem Komisji może być również pracownik Urzędu Komisji.
+” ;
 
-**Art. 38c.**
+### 7)
 
-1. Sąd oddala odwołanie od postanowienia przedmiocie wpisu Rejestrze, jeżeli nie ma podstaw do jego uwzględnienia.
+art. 4 otrzymuje brzmienie:
 
-2. Sąd odrzuca odwołanie wniesione po upływie terminu do jego wniesienia, niedopuszczalne z innych przyczyn, a także wtedy gdy nie uzupełniono wyznaczonym terminie braków odwołania.
+„
 
-3. W razie uwzględnienia odwołania sąd zaskarżone postanowienie albo uchyla, albo zmienia całości lub części i orzeka co do istoty sprawy.
+### Art. 4.
 
-4. Po zakończeniu postępowania odwoławczego sąd niezwłocznie zwraca Komisji akta wraz z odpisem orzeczenia.
+### 1.
 
-**Art. 38d.** Od orzeczeń sądu, o których mowa 38c ust. 1–3, przysługuje skarga kasacyjna.
+Komisja prowadzi działalność prewencyjną, edukacyjną i badawczą.
 
-**Art. 38e.**
+### 2.
 
-1. Osoba zgłaszająca, osoba poszkodowana i osoba wskazana jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie ponoszą kosztów postępowania wyjaśniającego.
+Do zadań Komisji w zakresie, o którym mowa w ust. 1, należy w szczególności:
 
-2. Osobie zaproszonej lub osobie wezwanej przez Komisję charakterze świadka postępowaniu wyjaśniającym przysługuje zwrot kosztów podróży z miejsca ich zamieszkania do siedziby Urzędu Komisji, z tym że osobie wskazanej jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd zwrot kosztów podróży przysługuje razie uprawomocnienia się postanowienia, o którym mowa 37 ust. 1 pkt 2, lub umorzenia postępowania wyjaśniającego całości z przyczyn określonych 36 ust. 1 pkt 2.
+### 1)
 
-3. Zwrot kosztów podróży przyznaje się na wniosek osoby, o której mowa ust. 2, złożony do protokołu lub na piśmie, terminie 7 dni od dnia zakończenia czynności z jej udziałem. W przypadku osoby wskazanej jako sprawca minie 7 dni od dnia uprawomocnienia się postanowienia, o którym mowa 37 ust. 1 pkt 2, lub podjęcia uchwały o umorzeniu postępowania wyjaśniającego całości z przyczyn określonych 36 ust. 1 pkt 2.
+prowadzenie działań uświadamiających w zakresie problematyki wykorzystywania seksualnego małoletnich poniżej lat 15 oraz sposobów reagowania na nie;
 
-4. Wysokość kosztów podróży ustala i przyznaje ich zwrot drodze zarządzenia przewodniczący Komisji. Od zarządzenia przysługuje odwołanie do całego składu Komisji terminie 7 dni od dnia doręczenia tego zarządzenia.”;
+### 2)
 
-- **39)** 39:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Wpisu Rejestrze dokonuje się po upływie terminu do wniesienia odwołania od postanowienia o wpisie Rejestrze, a także na podstawie prawomocnego orzeczenia sądu oddalającego odwołanie lub o wpisie Rejestrze.”,
-    - **b)** ust. 3 pkt 2 otrzymuje brzmienie: „2) niezwłocznie po otrzymaniu prawomocnego orzeczenia sądu oddalającego odwołanie lub o wpisie Rejestrze.”,
-    - **c)** dodaje się ust. 4 i 5 brzmieniu: „4. Przed przekazaniem postanowienia, o którym mowa ust. 3, Komisja ustala bazie danych PESEL, czy osoba, stosunku do której Komisja wydała postanowienie o wpisie Rejestrze, żyje. W przypadku śmierci tej osoby po zakończeniu postępowania wyjaśniającego postanowienie o wpisie Rejestrze pozostawia się aktach postępowania wyjaśniającego, o czym Komisja zawiadamia osobę poszkodowaną oraz osobę zgłaszającą.
+wspieranie przedsięwzięć społecznych mających na celu promowanie właściwych postaw społecznych w zakresie zgłaszania organom ścigania przypadków wykorzystywania seksualnego małoletnich, w tym prowadzenie kampanii informacyjnych;
 
-5. Jeżeli osoba wskazana jako sprawca aktach sprawy przekazanych przez prokuratora albo właściwy sąd zmarła przed wydaniem postanowienia o wpisie Rejestrze, a Komisja powzięła informację o jej śmierci po wydaniu tego postanowienia, Komisja, drodze uchwały, uchyla postanowienie o wpisie Rejestrze i umarza postępowanie wyjaśniające; przepis 36 ust. 3 stosuje się odpowiednio.”;
+### 3)
 
-- **40)** 40 otrzymuje brzmienie: „Art. 40. W sprawach nieuregulowanych ustawie do:
-- **1)** organizacji i przebiegu posiedzenia postępowaniu wyjaśniającym stosuje się odpowiednio przepisy 206, 206 , 210, 214 § 1, 215 i 219 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. );
-- **2)** osób wysłuchiwanych, biegłych, świadków, pełnomocników, postępowania dowodowego, terminów i doręczeń postępowaniu wyjaśniającym stosuje się odpowiednio przepisy części pierwszej księgi I tytułu IV działu I i V, tytułu VI działu I, III i IV ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
-- **3)** postępowania odwoławczego stosuje się odpowiednio przepisy o ochronie dóbr osobistych i przepisy części pierwszej księgi I tytułu VI działu V rozdziału 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
-- **4)** zwrotu kosztów podróży, o których mowa 38e ust. 2, oraz wynagrodzenia biegłego i zwrotu poniesionych przez niego wydatków niezbędnych do wydania opinii stosuje się odpowiednio przepisy tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2022 r. poz. 1125 oraz z 2023 r. poz. 181).”;
-- **41)** tytuł rozdziału 5 otrzymuje brzmienie: „Sprawozdanie roczne z działalności Komisji i raport Komisji”;
-- **42)** rozdziale 5 tytuł oddziału 1 otrzymuje brzmienie: „Sprawozdanie roczne z działalności Komisji i raport Komisji”;
-- **43)** 42 i 43 otrzymują brzmienie: „Art. 42. 1. Komisja przygotowuje, nie później niż do dnia 31 marca każdego roku, sprawozdanie roczne ze swojej działalności za rok poprzedni.
-- **1)** informację o zgłoszonych przypadkach przestępstw, o których mowa 1 pkt 2, a także przypadkach przestępstw niezawiadomienia;
-- **2)** informację o monitorowanych przez Komisję działaniach, o których mowa 3 ust. 2 pkt 5;
-- **3)** informację o monitorowanych przez Komisję postępowaniach, o których mowa 24–25a;
-- **4)** informację o postępowaniach wyjaśniających prowadzonych przez Komisję;
-- **5)** informację o podjętych przez Komisję działaniach prewencyjnych, edukacyjnych i badawczych;
-- **6)** informację o współpracy Komisji z innymi podmiotami działającymi na rzecz ochrony praw małoletnich, szczególności działającymi na rzecz ich ochrony przed przemocą seksualną;
-- **7)** informację o opiniowanych przez Komisję projektach aktów prawnych;
-- **8)** wnioski i rekomendacje dla organów państwa oraz organizacji i podmiotów zakresie przeciwdziałania przestępstwom wykorzystywania seksualnego, przestrzegania praw małoletnich osób poszkodowanych poniżej lat 15, odpowiedniego reagowania organów państwa, a także podejmowania działań umożliwiających pociągnięcie do odpowiedzialności sprawców tych przestępstw.
+współdziałanie z organami państwa, stowarzyszeniami, samorządami zawodowymi, kościołami i związkami wyznaniowymi, ruchami obywatelskimi, innymi dobrowolnymi zrzeszeniami i fundacjami, organizacjami oraz zagranicznymi i międzynarodowymi organami i organizacjami działającymi na rzecz przeciwdziałania wykorzystywaniu seksualnemu małoletnich;
 
-**Art. 43.** Sprawozdanie roczne z działalności Komisji jest jawne i udostępnia się je publicznie.”;
+### 4)
 
-**Art. 2.** W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2022 r. poz. 1215 i 1459) 2 pkt 4 wyrazy „Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15” zastępuje się wyrazami „Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15”.
+prowadzenie badań zjawiska wykorzystywania seksualnego małoletnich poniżej lat 15;
 
-**Art. 3.** W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2022 r. poz. 2290) wprowadza się następujące zmiany:
+### 5)
 
-**Art. 4.** W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych sprawach cywilnych (Dz. U. z 2022 r. poz. 1125) 96 ust. 1 pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 brzmieniu: „17) osoba wnosząca odwołanie od postanowień Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, o których mowa 37 ust. 1 ustawy z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 (Dz. U. z 2020 r. poz. 2219 oraz z 2023 r. poz. 181).”.
+opracowywanie sprawozdań, o których mowa w art. 42 ust. 1, i raportów, o których mowa w art. 43a ust. 1.
 
-**Art. 5.** W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym (Dz. U. z 2023 r. poz. 31 oraz z 2022 r. poz. 2600) użyte 4 ust. 1 pkt 3, 6 ust. 3, 7 ust. 4a we wprowadzeniu do wyliczenia i pkt 3 i 4, 12 pkt 7a, 16, 18 ust. 1a oraz 21 ust. 1, różnych przypadkach, wyrazy „Państwowa Komisja do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15” zastępuje się użytymi odpowiednich przypadkach wyrazami „Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15”.
+### 3.
 
-**Art. 6.** W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym (Dz. U. z 2021 r. poz. 1904 oraz z 2022 r. poz. 480, 1259, 2280 i 2600) 26 § 1 po pkt 8 dodaje się pkt 8a brzmieniu: „8a) spraw, których złożono odwołanie od postanowienia Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;”. niania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 za okres od dnia 1 lipca 2022 r. do dnia wejścia życie niniejszej ustawy.
+Zadania, o których mowa w ust. 2 pkt 1, 2 i 4, mogą być wykonywane przez Komisję we współpracy ze szkołami, z uczelniami, placówkami oświatowymi i kulturalnymi, ze stowarzyszeniami, z fundacjami i innymi organizacjami pozarządowymi, a także ze środkami masowego przekazu.
 
-**Art. 8.** Pierwszy raport dotyczący zjawiska wykorzystywania seksualnego małoletnich wraz z rekomendacjami Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 opracuje i udostępni publicznie terminie do dnia 31 grudnia 2023 r.
+” ;
 
-**Art. 9.** Z dniem wejścia życie ustawy:
+### 8)
 
-**Art. 10.** W celu realizacji przez Komisję do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 zadania, o którym mowa 2 ust. 2 pkt 1 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą, prokurator właściwej prokuratury albo prezes właściwego sądu, na wniosek przewodniczącego Komisji, przeprowadzi analizę akt zakończonych postępowań i przekaże posiadane orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa, o którym mowa 1 pkt 2 ustawy zmienianej 1 brzmieniu nadanym niniejszą ustawą, które uprawomocniły się przed dniem wejścia życie ustawy zmienianej 1, wraz z aktami sprawy.
+po art. 4 dodaje się art. 4a brzmieniu:
 
-**Art. 11.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+„
 
+### Art. 4a.
+
+Do zadań Komisji należy także:
+
+### 1)
+
+opiniowanie projektów aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji;
+
+### 2)
+
+kierowanie do właściwych organów wniosków o podjęcie inicjatywy ustawodawczej albo o wydanie lub zmianę innych aktów prawnych, których przedmiot dotyczy spraw należących do właściwości Komisji.
+
+” ;
+
+### 9)
+
+w art. 5:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Komisja odmawia, w tym także organom władzy publicznej, ujawnienia danych osobowych osoby, od której uzyskała informacje, oraz osoby, której dotyczy zgłoszenie, a także dokumentacji zgromadzonej przez Komisję, jeżeli uzna to za niezbędne dla ochrony czci, praw i godności tych osób.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przepisu ust. 2 nie stosuje się do:
+
+### 1)
+
+przekazania przez Komisję zgłoszenia, o którym mowa w art. 21 ust. 1;
+
+### 2)
+
+złożenia przez Komisję zawiadomienia o podejrzeniu popełnienia przestępstw, o których mowa w art. 41;
+
+### 3)
+
+wykonania przez Komisję orzeczenia sądu lub postanowienia prokuratora zobowiązującego Komisję do przekazania informacji lub dokumentów.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Dokumentacja zgromadzona przez Komisję podczas wykonywania zadań, o których mowa w art. 2 i art. 3, w tym w toku postępowania wyjaśniającego, oraz postanowienia, o których mowa w art. 37 ust. 1, oraz uchwała określona w art. 36 ust. 1 nie stanowią informacji publicznej i nie podlegają udostępnieniu w trybie określonym w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. z 2022 r. poz. 902](https://api.sejm.gov.pl/eli/acts/DU/2022/902/text.html)).
+
+” ;
+
+### 10)
+
+w art. 6 w ust. 6 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+nie była prawomocnie skazana za przestępstwo umyślne lub umyślne przestępstwo skarbowe;
+
+” ;
+
+### 11)
+
+w art. 8 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przed przystąpieniem do wykonywania obowiązków członkowie Komisji składają przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „ Ślubuję uroczyście, że przy wykonywaniu powierzonych mi obowiązków członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 dochowam wierności Konstytucji Rzeczypospolitej Polskiej, będę strzec praw dziecka, kierując się przepisami prawa, dobrem dziecka i dobrem rodziny. Ślubuję, że powierzone mi obowiązki będę wypełniać bezstronnie, z najwyższą sumiennością i starannością, że będę strzec godności powierzonego mi stanowiska oraz dochowam tajemnicy prawnie chronionej. ” . Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
+
+” ;
+
+### 12)
+
+w art. 10:
+
+### a)
+
+w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+prawomocnego skazania członka Komisji za przestępstwo umyślne lub umyślne przestępstwo skarbowe.
+
+” ,
+
+### b)
+
+w ust. 3 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+niewypełniania obowiązków nałożonych przez ustawę lub działania na szkodę osób poszkodowanych przestępstwem, o którym mowa w art. 1 pkt 2.
+
+” ;
+
+### 13)
+
+w art. 13:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Komisja może, na wniosek członka Komisji, powołać ze swojego grona nie więcej niż dwóch zastępców przewodniczącego Komisji.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a-2c w brzmieniu:
+
+„
+
+### 2a.
+
+Powołanie zastępcy przewodniczącego Komisji następuje w drodze uchwały, podjętej większością głosów w głosowaniu tajnym w obecności co najmniej pięciu członków Komisji.
+
+### 2b.
+
+Zakres zadań zastępcy przewodniczącego Komisji określa przewodniczący Komisji, w drodze zarządzenia.
+
+### 2c.
+
+Przepisy ust. 2 i 2a stosuje się odpowiednio do odwołania zastępcy przewodniczącego Komisji.
+
+” ;
+
+### 14)
+
+art. 15 otrzymuje brzmienie:
+
+„
+
+### Art. 15.
+
+Komisja określa regulamin swojego działania oraz wzory informacji i pouczeń określonych w ustawie.
+
+” ;
+
+### 15)
+
+w art. 17:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Obsługę merytoryczną, administracyjną i biurową Komisji zapewnia Urząd Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, zwany dalej „Urzędem Komisji”.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Urząd Komisji wykonuje zadania, o których mowa w ust. 1, pod kierownictwem przewodniczącego Komisji.
+
+### 1b.
+
+Urzędem Komisji kieruje przewodniczący Komisji przy pomocy zastępców przewodniczącego Komisji lub członka Komisji, o którym mowa w art. 13 ust. 3, oraz dyrektora generalnego.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przewodniczący Komisji może upoważnić pracowników Urzędu Komisji do działania w jego imieniu w określonych przez niego sprawach.
+
+” ;
+
+### 16)
+
+po art. 18 dodaje się art. 18a w brzmieniu:
+
+„
+
+### Art. 18a.
+
+### 1.
+
+Członkowie Komisji, pracownicy Urzędu Komisji oraz osoby wykonujące pracę w Urzędzie Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów cywilnoprawnych są obowiązani zachować w tajemnicy informacje, o których powzięli wiadomość w związku z czynnościami wykonywanymi na podstawie ustawy.
+
+### 2.
+
+Naruszenia tajemnicy, o której mowa w ust. 1, nie stanowi złożenie zawiadomienia o podejrzeniu popełnienia przestępstwa ani udzielenie informacji lub przekazanie dokumentu w ramach wykonania obowiązku lub uprawnienia wynikającego z przepisu prawa.
+
+” ;
+
+### 17)
+
+art. 19 otrzymuje brzmienie:
+
+„
+
+### Art. 19.
+
+W sprawach o przestępstwa, o których mowa w art. 1 pkt 2, postępowanie przed Komisją prowadzone jest na podstawie:
+
+### 1)
+
+zgłoszenia o podejrzeniu popełnienia przestępstwa;
+
+### 2)
+
+zgłoszenia podejrzenia popełnienia przestępstwa niezawiadomienia;
+
+### 3)
+
+zgłoszenia monitorowania przez Komisję postępowań, o których mowa w art. 24-25a;
+
+### 4)
+
+prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania karnego ze względu na przedawnienie karalności przestępstwa.
+
+” ;
+
+### 18)
+
+po art. 19 dodaje się art. 19a-19d w brzmieniu:
+
+„
+
+### Art. 19a.
+
+### 1.
+
+Komisja wydaje postanowienia oraz podejmuje uchwały.
+
+### 2.
+
+Przewodniczący Komisji wydaje zarządzenia.
+
+### 3.
+
+Komisja wydaje postanowienia i podejmuje uchwały większością głosów w głosowaniu jawnym w obecności co najmniej pięciu członków Komisji, w tym przewodniczącego Komisji, a w razie jego nieobecności - członka Komisji, o którym mowa w art. 13 ust. 3, oraz członka sprawozdawcy.
+
+### 4.
+
+W razie równej liczby głosów rozstrzyga głos przewodniczącego Komisji, a w razie jego nieobecności - członka Komisji, o którym mowa w art. 13 ust. 3.
+
+### Art. 19b.
+
+### 1.
+
+Postanowienia i uchwały podpisują członkowie Komisji biorący udział w głosowaniu.
+
+### 2.
+
+Przy składaniu podpisu członek Komisji, który został przegłosowany, może zaznaczyć na postanowieniu lub uchwale swoje zdanie odrębne, przez umieszczenie obok swojego podpisu skrótu „v.s.” lub wyrazów „votum separatum”. Zgłaszający zdanie odrębne uzasadnia je na piśmie w terminie 14 dni od dnia wydania postanowienia lub podjęcia uchwały. Uzasadnienie zdania odrębnego dołącza się do akt sprawy.
+
+### Art. 19c.
+
+Jeżeli ustawa wymaga sporządzenia uzasadnienia postanowienia lub uchwały, uzasadnienie Komisja sporządza w terminie 14 dni od dnia wydania postanowienia lub podjęcia uchwały.
+
+### Art. 19d.
+
+Od uchwał Komisji podjętych w postępowaniu wyjaśniającym oraz w sprawach, o których mowa w art. 23, art. 23a i art. 25 ust. 1 pkt 2, odwołanie nie przysługuje.
+
+” ;
+
+### 19)
+
+w art. 21:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Każdy może zgłosić Komisji podejrzenie popełnienia przestępstwa, o którym mowa w art. 1 pkt 2, lub podejrzenie popełnienia przestępstwa niezawiadomienia.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zgłoszenie obejmuje wskazanie okoliczności zdarzenia, w tym czasu i miejsca zdarzenia, oraz osoby potencjalnego sprawcy i osoby pokrzywdzonej. W zgłoszeniu podejrzenia popełnienia przestępstwa, o którym mowa w art. 1 pkt 2, można również wskazać podmioty, które były zobowiązane do zgłoszenia podejrzenia popełnienia tego przestępstwa.
+
+” ;
+
+### 20)
+
+w art. 22:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Komisja niezwłocznie przekazuje właściwemu prokuratorowi zgłoszenie, o którym mowa w art. 21 ust. 1.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Jeżeli z treści zgłoszenia, o którym mowa w art. 21 ust. 1, wynika, że w sprawie wydane zostało prawomocne orzeczenie o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności, Komisja może odstąpić od czynności wskazanych w ust. 1 i zwrócić się bezpośrednio do właściwej prokuratury lub właściwego sądu o przekazanie sprawy Komisji wraz z aktami sprawy.
+
+” ;
+
+### 21)
+
+w art. 23 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+Oczywistą bezzasadność zgłoszenia Komisja stwierdza w drodze uchwały, której odpis doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
+
+### 3.
+
+Przed podjęciem uchwały, o której mowa w ust. 2, Komisja wyznacza ze swego składu członka sprawozdawcę, który po zapoznaniu się ze zgłoszeniem przedstawia stan sprawy pozostałym członkom Komisji.
+
+” ;
+
+### 22)
+
+po art. 23 dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+### 1.
+
+Jeżeli zgłoszenie, o którym mowa w art. 21 ust. 1, nie zawiera żądań lub informacji umożliwiających nadanie mu dalszego biegu, Komisja, w drodze uchwały, pozostawia zgłoszenie bez rozpoznania z podaniem przyczyny.
+
+### 2.
+
+Przed podjęciem uchwały, o której mowa w ust. 1, Komisja wzywa osobę zgłaszającą do uzupełnienia zgłoszenia o żądania lub informacje umożliwiające nadanie zgłoszeniu dalszego biegu, w terminie nie krótszym niż 14 dni od dnia doręczenia osobie zgłaszającej wezwania do uzupełnienia braków w zgłoszeniu.
+
+### 3.
+
+Odpis uchwały, o której mowa w ust. 1, doręcza się osobie zgłaszającej z pouczeniem, że odwołanie nie przysługuje.
+
+### 4.
+
+Nieuzupełnienie braków w wyznaczonym terminie nie wyłącza możliwości dokonania nowego zgłoszenia.
+
+” ;
+
+### 23)
+
+w art. 24 dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+O wniesieniu do sądu aktu oskarżenia, wniosku w trybie art. 335 albo art. 336 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2022 r. poz. 1375](https://api.sejm.gov.pl/eli/acts/DU/2022/1375/text.html), [1855](https://api.sejm.gov.pl/eli/acts/DU/2022/1855/text.html), [2582](https://api.sejm.gov.pl/eli/acts/DU/2022/2582/text.html) i [2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html)) o przestępstwo, o którym mowa w art. 1 pkt 2, prokurator, po uzyskaniu zgody pokrzywdzonego, zawiadamia Komisję.
+
+” ;
+
+### 24)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+W przypadku postępowania sądowego dotyczącego przestępstw, o których mowa w art. 1 pkt 2, Komisji przysługuje prawo do:
+
+### 1)
+
+wglądu do akt sądowych oraz uzyskiwania informacji o prowadzonym postępowaniu;
+
+### 2)
+
+uczestniczenia w postępowaniu na prawach oskarżyciela posiłkowego.
+
+### 2.
+
+Komisja może złożyć oświadczenie o wstąpieniu do postępowania na prawach oskarżyciela posiłkowego na każdym jego etapie, aż do zakończenia przewodu sądowego w drugiej instancji.
+
+### 3.
+
+Złożenie przez Komisję oświadczenia o wstąpieniu do postępowania na prawach oskarżyciela posiłkowego wymaga pisemnej zgody pokrzywdzonego złożonej Komisji. Zgoda może być udzielona także ustnie do protokołu na rozprawie głównej.
+
+### 4.
+
+Zgoda, o której mowa w ust. 3, może być w każdym czasie wycofana i skutkuje utratą uprawnienia Komisji do działania na prawach oskarżyciela posiłkowego.
+
+### 5.
+
+Wycofanie zgody, o której mowa w ust. 3, odnosi skutek prawny w stosunku do sądu z chwilą zawiadomienia go o tym, a w stosunku do innych uczestników postępowania - z chwilą doręczenia im tego zawiadomienia przez sąd.
+
+### 6.
+
+W zakresie nieuregulowanym w ust. 3-5 do zgody pokrzywdzonego i jej cofnięcia przepisy art. 51 § 2 i 3 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego stosuje się odpowiednio.
+
+### 7.
+
+W zakresie nieuregulowanym w ustawie do praw i obowiązków Komisji uczestniczącej w postępowaniu, o którym mowa w ust. 1, na prawach oskarżyciela posiłkowego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego o oskarżycielu posiłkowym.
+
+” ;
+
+### 25)
+
+po art. 25 dodaje się art. 25a w brzmieniu:
+
+„
+
+### Art. 25a.
+
+Przepis art. 25 ust. 1 pkt 1 stosuje się odpowiednio do postępowań prowadzonych przez sąd rodzinny na podstawie ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich ([Dz. U. poz. 1700](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.html)) w sprawach o czyny karalne, o których mowa w art. 1 pkt 2.
+
+” ;
+
+### 26)
+
+art. 26 i art. 27 otrzymują brzmienie:
+
+„
+
+### Art. 26.
+
+W przypadku wydania prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa, o którym mowa w art. 1 pkt 2, prokurator albo właściwy sąd z urzędu przekazuje Komisji sprawę wraz z aktami sprawy.
+
+### Art. 27.
+
+### 1.
+
+W celu zapobiegania przestępstwom, o których mowa w art. 1 pkt 2, Komisja przeprowadza postępowanie wyjaśniające w przedmiocie wpisu w Rejestrze po otrzymaniu prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa wraz z aktami sprawy.
+
+### 2.
+
+O podjęciu postępowania wyjaśniającego Komisja zawiadamia osobę poszkodowaną, osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd i osobę zgłaszającą.
+
+### 3.
+
+Osoba poszkodowana może do czasu zakończenia pierwszego jej wysłuchania wnieść sprzeciw co do prowadzenia przez Komisję postępowania wyjaśniającego. Sprzeciw wnosi się na piśmie lub ustnie do protokołu wysłuchania i nie wymaga uzasadnienia.
+
+” ;
+
+### 27)
+
+po art. 27 dodaje się art. 27a-27d w brzmieniu:
+
+„
+
+### Art. 27a.
+
+### 1.
+
+W toku postępowania wyjaśniającego niedające się rozstrzygnąć wątpliwości rozstrzyga się na korzyść osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+
+### 2.
+
+Komisja w toku postępowania wyjaśniającego może dokonywać czynności także z urzędu.
+
+### 3.
+
+Osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie ma obowiązku dostarczania dowodów na swoją niekorzyść.
+
+### Art. 27b.
+
+Podstawą wydania postanowienia o wpisie w Rejestrze jest ustalenie w toku postępowania wyjaśniającego, że zachowanie osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd było choćby jednym z zachowań, o których mowa w rozdziale XXV ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, wobec małoletniego poniżej lat 15.
+
+### Art. 27c.
+
+Osoba poszkodowana i osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd ma prawo przeglądać akta postępowania wyjaśniającego i otrzymywać odpisy, kopie lub wyciągi z tych akt.
+
+### Art. 27d.
+
+### 1.
+
+Członek Komisji jest wyłączony z mocy samej ustawy od udziału w postępowaniu wyjaśniającym w sprawie:
+
+### 1)
+
+w której jest osobą poszkodowaną lub osobą wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd lub pozostaje z tymi osobami w takim stosunku prawnym, że wynik sprawy oddziaływa na jego prawa lub obowiązki;
+
+### 2)
+
+swego małżonka, krewnych lub powinowatych w linii prostej, krewnych bocznych do czwartego stopnia i powinowatych bocznych do drugiego stopnia albo osoby pozostającej z nim we wspólnym pożyciu;
+
+### 3)
+
+osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli;
+
+### 4)
+
+jeżeli brał udział jako świadek lub biegły w prawomocnie umorzonym postępowaniu karnym z powodu przedawnienia przestępstwa, o którym mowa w art. 1 pkt 2;
+
+### 5)
+
+jeżeli był obrońcą lub pełnomocnikiem osoby poszkodowanej lub osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd;
+
+### 6)
+
+jeżeli brał udział w wydaniu prawomocnego orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania karnego ze względu na przedawnienie karalności przestępstwa, o którym mowa w art. 1 pkt 2.
+
+### 2.
+
+Powody wyłączenia, o których mowa w ust. 1 pkt 2 i 3, trwają także po ustaniu uzasadniającego je małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+
+### 3.
+
+Komisja jest obowiązana na żądanie członka Komisji lub osoby poszkodowanej lub osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd, wyłączyć go od udziału w postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności niewymienionych w ust. 1, które mogą wywołać wątpliwość co do bezstronności członka Komisji.
+
+” ;
+
+### 28)
+
+w art. 28:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Komisja wydaje postanowienie w przedmiocie wpisu w Rejestrze po przeprowadzeniu postępowania wyjaśniającego na podstawie całokształtu okoliczności ujawnionych w toku postępowania wyjaśniającego, w tym:
+
+### 1)
+
+akt sprawy przekazanych przez prokuratora albo właściwy sąd;
+
+### 2)
+
+wysłuchania osoby poszkodowanej;
+
+### 3)
+
+wysłuchania osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+
+### 2.
+
+Komisja przed wydaniem postanowienia w przedmiocie wpisu w Rejestrze może również:
+
+### 1)
+
+wysłuchać osobę zgłaszającą;
+
+### 2)
+
+wysłuchać inną osobę w charakterze świadka;
+
+### 3)
+
+zasięgnąć opinii biegłego;
+
+### 4)
+
+przeprowadzić dowód z innych materiałów, w tym dokumentów zgromadzonych w sprawie lub przedstawionych przez osoby wskazane w pkt 1 i 2 oraz ust. 1 pkt 2 i 3.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+
+„
+
+### 2a.
+
+Komisja wyznacza ze swojego grona członka sprawozdawcę, który po zapoznaniu się z aktami sprawy przekazanymi przez prokuratora albo właściwy sąd przedstawia Komisji stan sprawy.
+
+### 2b.
+
+Czynności postępowania wyjaśniającego Komisja prowadzi w składzie co najmniej pięciu członków.
+
+### 2c.
+
+Przewodniczącemu Komisji, a w razie jego nieobecności - członkowi Komisji, o którym mowa w art. 13 ust. 3, przysługują uprawnienia przewodniczącego w postępowaniu wyjaśniającym.
+
+### 2d.
+
+W przypadku przyznania przez osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd dopuszczenia się zachowania będącego podstawą do wpisu w Rejestrze Komisja może ograniczyć postępowanie wyjaśniające do wysłuchania osoby poszkodowanej i osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd, jeżeli przyznanie nie budzi żadnych wątpliwości.
+
+” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a-4c w brzmieniu:
+
+„
+
+### 4a.
+
+Na wniosek osoby poszkodowanej Komisja może ją wysłuchać w miejscu zamieszkania.
+
+### 4b.
+
+Komisja może zlecić czynności, o których mowa w ust. 4 i 4a, wyznaczonemu członkowi Komisji.
+
+### 4c.
+
+Komisja może w uzasadnionych przypadkach wysłuchać osobę poszkodowaną przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku albo zwrócić się o przedstawienie wyjaśnień na piśmie.
+
+” ,
+
+### d)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Osoby, o których mowa w ust. 1 pkt 2 i 3, mogą ustanowić pełnomocnika. Komisja nie ustanawia pełnomocnika z urzędu.
+
+### 6.
+
+Odmowa udzielenia przez osobę, o której mowa w ust. 1 pkt 2 lub 3, odpowiedzi na pytania zadawane w toku wysłuchania, odmowa poddania się badaniu przez biegłego, a także nieobecność tych osób na wysłuchaniu pomimo prawidłowego zaproszenia nie stanowią przeszkody do wydania przez Komisję postanowienia w przedmiocie wpisu w Rejestrze, jeżeli pozostałe dowody dają do tego podstawę.
+
+” ;
+
+### 29)
+
+w art. 29 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W postępowaniu wyjaśniającym osoba wysłuchiwana, o której mowa w art. 28 ust. 1 pkt 2 i 3 i ust. 2 pkt 1, ma prawo do:
+
+### 1)
+
+uchylenia się od odpowiedzi na pytanie, jeżeli jej udzielenie mogłoby narazić tę osobę lub osobę dla niej najbliższą w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny na odpowiedzialność za przestępstwo lub przestępstwo skarbowe lub narazić na wydanie postanowienia o wpisie w Rejestrze;
+
+### 2)
+
+odmowy odpowiedzi na pytania, gdy jest ona podejrzanym albo oskarżonym o popełnienie przestępstwa pozostającego w ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo została skazana;
+
+### 3)
+
+odmowy odpowiedzi na pytania co do okoliczności, na które rozciąga się ciążący na tej osobie obowiązek zachowania tajemnicy ustawowo chronionej;
+
+### 4)
+
+odmowy odpowiedzi na pytania, gdy jest ona osobą poszkodowaną, która wniosła sprzeciw, o którym mowa w art. 27 ust. 3.
+
+” ;
+
+### 30)
+
+art. 30 i art. 31 otrzymują brzmienie:
+
+„
+
+### Art. 30.
+
+### 1.
+
+Komisja zaprasza na posiedzenie w celu wysłuchania osobę zgłaszającą, osobę poszkodowaną oraz osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie później niż w terminie 7 dni od dnia planowanego wysłuchania.
+
+### 2.
+
+Komisja może wezwać na posiedzenie w celu wysłuchania inne osoby w charakterze świadka lub biegłego. Przepis ust. 1 stosuje się odpowiednio.
+
+### 3.
+
+W zaproszeniu i wezwaniu, o których mowa w ust. 1 i 2, Komisja wskazuje imię i nazwisko oraz adres zamieszkania osoby zapraszanej albo wezwanej, a także miejsce i termin wysłuchania oraz przedmiot sprawy.
+
+### 4.
+
+Osobę zgłaszającą, osobę poszkodowaną i osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd poucza się o treści przepisów art. 28 ust. 4, 5 i 6, a osobę poszkodowaną - dodatkowo o treści przepisu art. 28 ust. 4a. Pouczenia załącza się do zaproszenia na wysłuchanie.
+
+### 5.
+
+Świadka i biegłego poucza się o możliwości nałożenia przez sąd grzywny za nieusprawiedliwione niestawiennictwo na wysłuchanie w postępowaniu wyjaśniającym, za nieuzasadnione uchylenie się od odpowiedzi lub nieuzasadnioną odmowę odpowiedzi na pytania zadawane podczas wysłuchania. Dodatkowo świadka poucza się o treści ust. 7. Pouczenia załącza się do wezwania na wysłuchanie.
+
+### 6.
+
+Grzywnę za nieusprawiedliwione niestawiennictwo na wysłuchanie w postępowaniu wyjaśniającym albo za nieuzasadnione uchylenie się od odpowiedzi lub nieuzasadnioną odmowę odpowiedzi na pytania zadawane podczas wysłuchania nakłada na świadka lub biegłego, na wniosek Komisji, sąd rejonowy właściwy według miejsca zamieszkania świadka albo biegłego. Grzywny nie orzeka się, jeżeli świadek lub biegły nie był pouczony o okolicznościach, o których mowa w ust. 5 zdanie pierwsze.
+
+### 7.
+
+W przypadku powtórnego nieusprawiedliwionego niestawiennictwa świadka na wysłuchanie w postępowaniu wyjaśniającym, na wniosek Komisji, sąd rejonowy właściwy dla miejsca zamieszkania świadka zarządza jego przymusowe sprowadzenie.
+
+### Art. 31.
+
+Komisja wysłuchuje osobę, o której mowa w art. 28 ust. 1 pkt 2 i 3, w obecności ustanowionego przez nią pełnomocnika, chyba że wyrazi zgodę na wysłuchanie pod nieobecność pełnomocnika.
+
+” ;
+
+### 31)
+
+po art. 31 dodaje się art. 31a w brzmieniu:
+
+„
+
+### Art. 31a.
+
+### 1.
+
+Komisja może podjąć decyzję, aby na czas wysłuchania osoby zgłaszającej, osoby poszkodowanej lub świadka osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd opuściła posiedzenie, gdy jej obecność mogłaby oddziaływać krępująco na przebieg wysłuchania.
+
+### 2.
+
+Zezwalając na powrót osobie wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd, przewodniczący Komisji, a w razie jego nieobecności - członek Komisji, o którym mowa w art. 13 ust. 3, niezwłocznie informuje tę osobę o przebiegu posiedzenia w czasie jej nieobecności oraz umożliwia odniesienie się do przeprowadzonych w czasie jej nieobecności wysłuchań. Jeżeli osoba ta chce zadać pytania osobom wysłuchanym pod jej nieobecność, dalsze wysłuchanie przeprowadza się w dwóch pomieszczeniach zamkniętych połączonych obrazem i dźwiękiem.
+
+### 3.
+
+Na uzasadniony wniosek osoby zgłaszającej, osoby poszkodowanej lub świadka Komisja nie zamieszcza w protokole wysłuchania danych takiej osoby dotyczących jej miejsca zamieszkania lub pracy, numeru telefonu i adresu poczty elektronicznej. Dane te zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt postępowania wyjaśniającego, do wiadomości Komisji.
+
+### 4.
+
+Przepis ust. 3 stosuje się odpowiednio do osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+
+### 5.
+
+Akta postępowania wyjaśniającego udostępnia się w sposób uniemożliwiający ujawnienie danych, o których mowa w ust. 3.
+
+” ;
+
+### 32)
+
+art. 33 otrzymuje brzmienie:
+
+„
+
+### Art. 33.
+
+### 1.
+
+Z wysłuchania osoby sporządza się protokół. Protokół sporządza upoważniony przez przewodniczącego Komisji pracownik Urzędu Komisji.
+
+### 2.
+
+Protokół podpisuje przewodniczący Komisji, a w razie jego nieobecności - członek Komisji, o którym mowa w art. 13 ust. 3, pracownik Urzędu Komisji sporządzający protokół oraz osoba wysłuchiwana.
+
+### 3.
+
+Jeżeli osoba wysłuchiwana odmawia podpisania protokołu lub nie może go podpisać, przewodniczący Komisji, a w razie jego nieobecności - członek Komisji, o którym mowa w art. 13 ust. 3, zaznacza w protokole przyczynę braku podpisu.
+
+### 4.
+
+Osoba wysłuchiwana może żądać sprostowania lub uzupełnienia protokołu w terminie 7 dni od dnia posiedzenia, na którym została wysłuchana. Od zarządzenia w przedmiocie sprostowania lub uzupełnienia protokołu przewodniczącego Komisji albo członka Komisji, o którym mowa w art. 13 ust. 3, który podpisał protokół, osoba wysłuchiwana może odwołać się do całego składu Komisji w terminie 7 dni od dnia doręczenia tego zarządzenia.
+
+” ;
+
+### 33)
+
+art. 35 i art. 36 otrzymują brzmienie:
+
+„
+
+### Art. 35.
+
+### 1.
+
+W celu dokonania ustaleń w prowadzonym postępowaniu wyjaśniającym Komisja może wystąpić do właściwej jednostki Policji o przeprowadzenie wskazanych czynności.
+
+### 2.
+
+Policja przekazuje zgromadzone materiały Komisji niezwłocznie po przeprowadzeniu czynności, o których mowa w ust. 1.
+
+### Art. 36.
+
+### 1.
+
+Komisja umarza, w drodze uchwały, postępowanie wyjaśniające w przypadku:
+
+### 1)
+
+śmierci osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd;
+
+### 2)
+
+gdy osoba poszkodowana wniesie sprzeciw, o którym mowa w art. 27 ust. 3.
+
+### 2.
+
+Jeżeli w postępowaniu wyjaśniającym uczestniczy więcej niż jedna osoba poszkodowana, w przypadku wniesienia sprzeciwu, o którym mowa w ust. 1 pkt 2, postępowanie wyjaśniające umarza się w części dotyczącej tej osoby poszkodowanej.
+
+### 3.
+
+Odpis uchwały, o której mowa w ust. 1, doręcza się osobie poszkodowanej a uchwały, o której mowa w ust. 1 pkt 2, również osobie wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd z pouczeniem, że odwołanie nie przysługuje. Osobę zgłaszającą powiadamia się o umorzeniu postępowania wyjaśniającego.
+
+” ;
+
+### 34)
+
+po art. 36 dodaje się art. 36a w brzmieniu:
+
+„
+
+### Art. 36a.
+
+### 1.
+
+W razie śmierci osoby poszkodowanej w czasie postępowania wyjaśniającego prawa, które by jej przysługiwały w tym postępowaniu, może wykonywać osoba najbliższa w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny wskazana przez osobę poszkodowaną, z wyłączeniem uprawnienia, o którym mowa w art. 36 ust. 1 pkt 2.
+
+### 2.
+
+Wskazanie przez osobę poszkodowaną osoby najbliższej następuje w drodze pisemnego oświadczenia złożonego Komisji. Pouczenie o prawie wskazania osoby najbliższej oraz o treści przepisu ust. 4 Komisja dołącza do zawiadomienia o podjęciu postępowania wyjaśniającego.
+
+### 3.
+
+W razie śmierci osoby poszkodowanej w czasie postępowania wyjaśniającego Komisja zawiadamia wskazaną osobę najbliższą o przysługującym jej prawie wstąpienia do postępowania w terminie miesiąca od dnia doręczenia zawiadomienia. W razie wstąpienia osoby najbliższej do postępowania wyjaśniającego Komisja poucza ją o przysługujących uprawnieniach.
+
+### 4.
+
+W przypadku gdy osoba poszkodowana nie wskazała osoby najbliższej albo osoba najbliższa nie wstąpiła do postępowania wyjaśniającego, Komisja zawiadamia prokuratora prokuratury rejonowej właściwej ze względu na miejsce siedziby Urzędu Komisji, który może wstąpić do postępowania wyjaśniającego i wykonywać prawa osoby poszkodowanej, z wyłączeniem uprawnienia, o którym mowa w art. 27 ust. 3.
+
+” ;
+
+### 35)
+
+art. 37 otrzymuje brzmienie:
+
+„
+
+### Art. 37.
+
+### 1.
+
+Po przeprowadzeniu postępowania wyjaśniającego Komisja niezwłocznie wydaje:
+
+### 1)
+
+postanowienie o wpisie w Rejestrze;
+
+### 2)
+
+postanowienie o odmowie wpisu w Rejestrze.
+
+### 2.
+
+Komisja wydaje postanowienia, o których mowa w ust. 1, po niejawnej naradzie.
+
+### 3.
+
+Postanowienie o wpisie w Rejestrze zawiera:
+
+### 1)
+
+dane osobowe osoby poszkodowanej: imiona i nazwisko oraz nazwisko rodowe;
+
+### 2)
+
+dane osobowe osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd: nazwisko, w tym także przybrane, imiona, nazwisko rodowe, wykonywany zawód lub pełnioną funkcję, miejsce zamieszkania, datę i miejsce urodzenia oraz numer PESEL;
+
+### 3)
+
+wiek osoby poszkodowanej w chwili czynu i jej płeć;
+
+### 4)
+
+uzasadnienie zawierające zwięzły opis czynu, w tym wskazanie czasu, miejsca i okoliczności czynu.
+
+### 4.
+
+Postanowienie o odmowie wpisu w Rejestrze zawiera dane, o których mowa w ust. 3 pkt 1-3, oraz uzasadnienie wraz z podaniem przyczyn odmowy wpisu w Rejestrze i okoliczności ich uzasadniających.
+
+### 5.
+
+Postanowienie o wpisie w Rejestrze albo o odmowie wpisu w Rejestrze doręcza się osobie poszkodowanej i osobie wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd z pouczeniem o sposobie i terminie wniesienia odwołania.
+
+### 6.
+
+Osobę zgłaszającą zawiadamia się o sposobie zakończenia postępowania wyjaśniającego.
+
+” ;
+
+### 36)
+
+po art. 37 dodaje się art. 37a w brzmieniu:
+
+„
+
+### Art. 37a.
+
+Komisja po przeprowadzeniu postępowania wyjaśniającego wydaje postanowienie o odmowie wpisu w Rejestrze także wtedy, gdy zamieszczenie danych osobowych, o których mowa w art. 37 ust. 3 pkt 2, spowodowałoby niewspółmiernie surowe skutki dla osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd, a w stosunku do tej osoby nie zachodzi wysokie prawdopodobieństwo popełnienia przestępstwa, o którym mowa w art. 1 pkt 2.
+
+” ;
+
+### 37)
+
+art. 38 otrzymuje brzmienie:
+
+„
+
+### Art. 38.
+
+### 1.
+
+Osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd może, w terminie 30 dni od dnia doręczenia postanowienia o wpisie w Rejestrze albo postanowienia o odmowie wpisu w Rejestrze w przypadku, o którym mowa w art. 37a, w zakresie ustalenia zachowania, o którym mowa w art. 27b, wnieść odwołanie do sądu okręgowego właściwego ze względu na jej miejsce zamieszkania w chwili wydania postanowienia.
+
+### 2.
+
+Osoba poszkodowana może, w terminie 30 dni od dnia doręczenia postanowienia o odmowie wpisu w Rejestrze, wnieść odwołanie do sądu okręgowego właściwego ze względu na jej miejsce zamieszkania w chwili wydania postanowienia.
+
+### 3.
+
+W przypadku wniesienia przez osobę poszkodowaną i osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd odwołania od postanowienia o odmowie wpisu w Rejestrze w przypadku, o którym mowa w art. 37a, odwołania od postanowienia rozpoznaje sąd okręgowy właściwy dla miejsca zamieszkania osoby poszkodowanej w chwili wydania postanowienia, a w razie jego braku - sąd okręgowy właściwy dla siedziby Komisji.
+
+### 4.
+
+W przypadku kilku osób poszkodowanych w ramach tego samego postępowania wyjaśniającego odwołanie od postanowienia, o którym mowa w ust. 2, wnosi się do sądu okręgowego właściwego ze względu na miejsce zamieszkania osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd w chwili wydania postanowienia.
+
+### 5.
+
+W przypadku nieposiadania przez poszkodowanego lub osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd miejsca zamieszkania w Polsce, odwołanie od postanowienia o wpisie w Rejestrze lub postanowienia o odmowie wpisu w Rejestrze wnosi się do sądu okręgowego właściwego dla siedziby Komisji.
+
+### 6.
+
+Odwołanie, o którym mowa w ust. 1 i 2, wnosi się za pośrednictwem Komisji, która niezwłocznie przekazuje odwołanie wraz z aktami postępowania wyjaśniającego do właściwego sądu. O przekazaniu odwołania zawiadamia się osobę poszkodowaną i osobę wskazaną jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd.
+
+### 7.
+
+Wniesienie odwołania od postanowienia o wpisie w Rejestrze wstrzymuje dokonanie wpisu w Rejestrze do czasu uprawomocnienia się orzeczenia sądu.
+
+” ;
+
+### 38)
+
+po art. 38 dodaje się art. 38a-38e w brzmieniu:
+
+„
+
+### Art. 38a.
+
+### 1.
+
+Odwołanie, o którym mowa w art. 38 ust. 1 i 2, zawiera:
+
+### 1)
+
+oznaczenie sądu, do którego jest skierowane;
+
+### 2)
+
+imiona i nazwiska wnoszącego odwołanie, jego przedstawicieli ustawowych i pełnomocników;
+
+### 3)
+
+oznaczenie zaskarżonego postanowienia;
+
+### 4)
+
+przytoczenie zarzutów i zwięzłe ich uzasadnienie;
+
+### 5)
+
+powołanie w razie potrzeby nowych faktów i dowodów;
+
+### 6)
+
+wniosek o uchylenie lub zmianę postanowienia w całości lub w części;
+
+### 7)
+
+podpis wnoszącego odwołanie albo jego przedstawiciela ustawowego lub pełnomocnika;
+
+### 8)
+
+wymienienie załączników.
+
+### 2.
+
+Powołując w odwołaniu, o którym mowa w art. 38 ust. 1 lub 2, nowe fakty lub dowody, należy uprawdopodobnić, że ich powołanie w postępowaniu wyjaśniającym nie było możliwe albo potrzeba ich powołania wynikła później.
+
+### 3.
+
+Do odwołania, o którym mowa w art. 38 ust. 1 i 2, dołącza się załączniki w nim wymienione.
+
+### Art. 38b.
+
+### 1.
+
+Stronami postępowania odwoławczego są osoba wnosząca odwołanie i Komisja.
+
+### 2.
+
+Pełnomocnikiem Komisji może być również pracownik Urzędu Komisji.
+
+### Art. 38c.
+
+### 1.
+
+Sąd oddala odwołanie od postanowienia w przedmiocie wpisu w Rejestrze, jeżeli nie ma podstaw do jego uwzględnienia.
+
+### 2.
+
+Sąd odrzuca odwołanie wniesione po upływie terminu do jego wniesienia, niedopuszczalne z innych przyczyn, a także wtedy gdy nie uzupełniono w wyznaczonym terminie braków odwołania.
+
+### 3.
+
+W razie uwzględnienia odwołania sąd zaskarżone postanowienie albo uchyla, albo zmienia w całości lub w części i orzeka co do istoty sprawy.
+
+### 4.
+
+Po zakończeniu postępowania odwoławczego sąd niezwłocznie zwraca Komisji akta wraz z odpisem orzeczenia.
+
+### Art. 38d.
+
+Od orzeczeń sądu, o których mowa w art. 38c ust. 1-3, przysługuje skarga kasacyjna.
+
+### Art. 38e.
+
+### 1.
+
+Osoba zgłaszająca, osoba poszkodowana i osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd nie ponoszą kosztów postępowania wyjaśniającego.
+
+### 2.
+
+Osobie zaproszonej lub osobie wezwanej przez Komisję w charakterze świadka w postępowaniu wyjaśniającym przysługuje zwrot kosztów podróży z miejsca ich zamieszkania do siedziby Urzędu Komisji, z tym że osobie wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd zwrot kosztów podróży przysługuje w razie uprawomocnienia się postanowienia, o którym mowa w art. 37 ust. 1 pkt 2, lub umorzenia postępowania wyjaśniającego w całości z przyczyn określonych w art. 36 ust. 1 pkt 2.
+
+### 3.
+
+Zwrot kosztów podróży przyznaje się na wniosek osoby, o której mowa w ust. 2, złożony do protokołu lub na piśmie, w terminie 7 dni od dnia zakończenia czynności z jej udziałem. W przypadku osoby wskazanej jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd wniosek taki może być złożony na piśmie w terminie 7 dni od dnia uprawomocnienia się postanowienia, o którym mowa w art. 37 ust. 1 pkt 2, lub podjęcia uchwały o umorzeniu postępowania wyjaśniającego w całości z przyczyn określonych w art. 36 ust. 1 pkt 2.
+
+### 4.
+
+Wysokość kosztów podróży ustala i przyznaje ich zwrot w drodze zarządzenia przewodniczący Komisji. Od zarządzenia przysługuje odwołanie do całego składu Komisji w terminie 7 dni od dnia doręczenia tego zarządzenia.
+
+” ;
+
+### 39)
+
+w art. 39:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wpisu w Rejestrze dokonuje się po upływie terminu do wniesienia odwołania od postanowienia o wpisie w Rejestrze, a także na podstawie prawomocnego orzeczenia sądu oddalającego odwołanie lub o wpisie w Rejestrze.
+
+” ,
+
+### b)
+
+w ust. 3 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+niezwłocznie po otrzymaniu prawomocnego orzeczenia sądu oddalającego odwołanie lub o wpisie w Rejestrze.
+
+” ,
+
+### c)
+
+dodaje się ust. 4 i 5 w brzmieniu:
+
+„
+
+### 4.
+
+Przed przekazaniem postanowienia, o którym mowa w ust. 3, Komisja ustala w bazie danych PESEL, czy osoba, w stosunku do której Komisja wydała postanowienie o wpisie w Rejestrze, żyje. W przypadku śmierci tej osoby po zakończeniu postępowania wyjaśniającego postanowienie o wpisie w Rejestrze pozostawia się w aktach postępowania wyjaśniającego, o czym Komisja zawiadamia osobę poszkodowaną oraz osobę zgłaszającą.
+
+### 5.
+
+Jeżeli osoba wskazana jako sprawca w aktach sprawy przekazanych przez prokuratora albo właściwy sąd zmarła przed wydaniem postanowienia o wpisie w Rejestrze, a Komisja powzięła informację o jej śmierci po wydaniu tego postanowienia, Komisja, w drodze uchwały, uchyla postanowienie o wpisie w Rejestrze i umarza postępowanie wyjaśniające; przepis art. 36 ust. 3 stosuje się odpowiednio.
+
+” ;
+
+### 40)
+
+art. 40 otrzymuje brzmienie:
+
+„
+
+### Art. 40.
+
+W sprawach nieuregulowanych w ustawie do:
+
+### 1)
+
+organizacji i przebiegu posiedzenia w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy art. 206, art. 2061, art. 210, art. 214 § 1, art. 215 i art. 219 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2021 r. poz. 1805](https://api.sejm.gov.pl/eli/acts/DU/2021/1805/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.](#gloss-0:3:));
+
+### 2)
+
+osób wysłuchiwanych, biegłych, świadków, pełnomocników, postępowania dowodowego, terminów i doręczeń w postępowaniu wyjaśniającym stosuje się odpowiednio przepisy części pierwszej księgi I tytułu IV działu I i V, tytułu VI działu I, III i IV ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego;
+
+### 3)
+
+postępowania odwoławczego stosuje się odpowiednio przepisy o ochronie dóbr osobistych i przepisy części pierwszej księgi I tytułu VI działu V rozdziału 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego;
+
+### 4)
+
+zwrotu kosztów podróży, o których mowa w art. 38e ust. 2, oraz wynagrodzenia biegłego i zwrotu poniesionych przez niego wydatków niezbędnych do wydania opinii stosuje się odpowiednio przepisy tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ([Dz. U. z 2022 r. poz. 1125](https://api.sejm.gov.pl/eli/acts/DU/2022/1125/text.html) oraz [z 2023 r. poz. 181](https://api.sejm.gov.pl/eli/acts/DU/2023/181/text.html)).
+
+” ;
+
+### 41)
+
+tytuł rozdziału 5 otrzymuje brzmienie: „ Sprawozdanie roczne z działalności Komisji i raport Komisji ” ;
+
+### 42)
+
+w rozdziale 5 tytuł oddziału 1 otrzymuje brzmienie: „ Sprawozdanie roczne z działalności Komisji i raport Komisji ” ;
+
+### 43)
+
+art. 42 i art. 43 otrzymują brzmienie:
+
+„
+
+### Art. 42.
+
+### 1.
+
+Komisja przygotowuje, nie później niż do dnia 31 marca każdego roku, sprawozdanie roczne ze swojej działalności za rok poprzedni.
+
+### 2.
+
+Sprawozdanie roczne z działalności Komisji zawiera w szczególności:
+
+### 1)
+
+informację o zgłoszonych przypadkach przestępstw, o których mowa w art. 1 pkt 2, a także przypadkach przestępstw niezawiadomienia;
+
+### 2)
+
+informację o monitorowanych przez Komisję działaniach, o których mowa w art. 3 ust. 2 pkt 5;
+
+### 3)
+
+informację o monitorowanych przez Komisję postępowaniach, o których mowa w art. 24-25a;
+
+### 4)
+
+informację o postępowaniach wyjaśniających prowadzonych przez Komisję;
+
+### 5)
+
+informację o podjętych przez Komisję działaniach prewencyjnych, edukacyjnych i badawczych;
+
+### 6)
+
+informację o współpracy Komisji z innymi podmiotami działającymi na rzecz ochrony praw małoletnich, w szczególności działającymi na rzecz ich ochrony przed przemocą seksualną;
+
+### 7)
+
+informację o opiniowanych przez Komisję projektach aktów prawnych;
+
+### 8)
+
+wnioski i rekomendacje dla organów państwa oraz organizacji i podmiotów w zakresie przeciwdziałania przestępstwom wykorzystywania seksualnego, przestrzegania praw małoletnich osób poszkodowanych poniżej lat 15, odpowiedniego reagowania organów państwa, a także podejmowania działań umożliwiających pociągnięcie do odpowiedzialności sprawców tych przestępstw.
+
+### Art. 43.
+
+Sprawozdanie roczne z działalności Komisji jest jawne i udostępnia się je publicznie.
+
+” ;
+
+### 44)
+
+po art. 43 dodaje się art. 43a w brzmieniu:
+
+„
+
+### Art. 43a.
+
+### 1.
+
+Na podstawie swojej działalności Komisja opracowuje raport dotyczący zjawiska wykorzystywania seksualnego małoletnich wraz z rekomendacjami.
+
+### 2.
+
+Komisja opracowuje raport, o którym mowa w ust. 1, nie rzadziej niż raz na 3 lata.
+
+### 3.
+
+Raport, o którym mowa w ust. 1, jest jawny i udostępnia się go publicznie.
+
+” ;
+
+### 45)
+
+w rozdziale 5 uchyla się oddział 2.
+
+### Art. 2.
+
+W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ([Dz. U. z 2022 r. poz. 1215](https://api.sejm.gov.pl/eli/acts/DU/2022/1215/text.html) i [1459](https://api.sejm.gov.pl/eli/acts/DU/2022/1459/text.html)) w art. 2 w pkt 4 wyrazy „Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15” zastępuje się wyrazami „Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15”.
+
+### Art. 3.
+
+W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2022 r. poz. 2290](https://api.sejm.gov.pl/eli/acts/DU/2022/2290/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 1 pkt 15 otrzymuje brzmienie:
+
+„
+
+### 15)
+
+Urzędzie Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15.
+
+” ;
+
+### 2)
+
+w art. 36 w ust. 5 pkt 9ba otrzymuje brzmienie:
+
+„
+
+### 9ba)
+
+Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 - dla urzędników Urzędu Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ([Dz. U. z 2022 r. poz. 1125](https://api.sejm.gov.pl/eli/acts/DU/2022/1125/text.html)) w art. 96 w ust. 1 w pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 w brzmieniu:
+
+„
+
+### 17)
+
+osoba wnosząca odwołanie od postanowień Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15, o których mowa w art. 37 ust. 1 ustawy z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 ([Dz. U. z 2020 r. poz. 2219](https://api.sejm.gov.pl/eli/acts/DU/2020/2219/text.html) oraz [z 2023 r. poz. 181](https://api.sejm.gov.pl/eli/acts/DU/2023/181/text.html)).
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym ([Dz. U. z 2023 r. poz. 31](https://api.sejm.gov.pl/eli/acts/DU/2023/31/text.html) oraz [z 2022 r. poz. 2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html)) użyte w art. 4 w ust. 1 w pkt 3, w art. 6 w ust. 3, w art. 7 w ust. 4a we wprowadzeniu do wyliczenia i w pkt 3 i 4, w art. 12 w pkt 7a, w art. 16, w art. 18 w ust. 1a oraz w art. 21 w ust. 1, w różnych przypadkach, wyrazy „Państwowa Komisja do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15”.
+
+### Art. 6.
+
+W ustawie z dnia 8 grudnia 2017 r. o Sądzie Najwyższym ([Dz. U. z 2021 r. poz. 1904](https://api.sejm.gov.pl/eli/acts/DU/2021/1904/text.html) oraz [z 2022 r. poz. 480](https://api.sejm.gov.pl/eli/acts/DU/2022/480/text.html), [1259](https://api.sejm.gov.pl/eli/acts/DU/2022/1259/text.html), [2280](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.html) i [2600](https://api.sejm.gov.pl/eli/acts/DU/2022/2600/text.html)) w art. 26 w § 1 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+spraw, w których złożono odwołanie od postanowienia Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+
+” .
+
+### Art. 7.
+
+Sprawozdanie roczne z działalności Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 za rok 2023 obejmuje także informację o działalności Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 za okres od dnia 1 lipca 2022 r. do dnia wejścia w życie niniejszej ustawy.
+
+### Art. 8.
+
+Pierwszy raport dotyczący zjawiska wykorzystywania seksualnego małoletnich wraz z rekomendacjami Państwowa Komisja do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 opracuje i udostępni publicznie w terminie do dnia 31 grudnia 2023 r.
+
+### Art. 9.
+
+Z dniem wejścia w życie ustawy:
+
+### 1)
+
+Państwowa Komisja do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 staje się Państwową Komisją do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+
+### 2)
+
+członkowie Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 stają się członkami Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 i pełnią swoje dotychczasowe funkcje do czasu upływu kadencji, na którą zostali powołani;
+
+### 3)
+
+Urząd Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 staje się Urzędem Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+
+### 4)
+
+pracownicy Urzędu Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15 stają się pracownikami Urzędu Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2022 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2022/1510/text.html), [1700](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html)) stosuje się odpowiednio.
+
+### Art. 10.
+
+W celu realizacji przez Komisję do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15 zadania, o którym mowa w art. 2 ust. 2 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, prokurator właściwej prokuratury albo prezes właściwego sądu, na wniosek przewodniczącego Komisji, przeprowadzi analizę akt zakończonych postępowań i przekaże posiadane orzeczenia o odmowie wszczęcia albo o umorzeniu postępowania ze względu na przedawnienie karalności przestępstwa, o którym mowa w art. 1 pkt 2 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, które uprawomocniły się przed dniem wejścia w życie ustawy zmienianej w art. 1, wraz z aktami sprawy.
+
+### Art. 11.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych, ustawę z dnia 13 maja 2016 r. o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym oraz ustawę z dnia 8 grudnia 2017 r. o Sądzie Najwyższym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2270 oraz z 2022 r. poz. 1, 66, 1079, 1692, 1700, 1812, 1967, 2127, 2140 i 2754. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830, 974, 1098, 1301, 1371, 1692, 1855, 1967, 2127, 2140, 2180, 2339, 2436, 2600 i 2687.

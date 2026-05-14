@@ -8,11 +8,9 @@ pos: 84
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o waloryzacji za IV kwartał 1995 r. niektórych emerytur i rent
-
-*USTAWA z dnia 7 lutego 1997 r.*
+# Ustawa z dnia 7 lutego 1997 r. o waloryzacji za IV kwartał 1995 r. niektórych emerytur i rent
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +22,52 @@ domain: null
 | Data ogłoszenia | 1997-02-07 |
 | Data wydania | 1997-02-18 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970150084) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/84/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/84/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/84) |
 
-**Art. 1.** Waloryzacji za IV kwartał 1995 r. na zasadach określonych w ustawie, zwanej dalej "waloryzacją", podlegają emerytury i renty, które objęła waloryzacja od dnia 1 września 1996 r. na podstawie art. 17 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385, z 1995 r. Nr 4, poz. 17, Nr 95, poz. 473 i Nr 138, poz. 681 oraz z 1996 r. Nr 87, poz. 395, Nr 100, poz. 461, Nr 136, poz. 636 i Nr 147, poz. 687).
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. Waloryzacja polega na dodatkowym podwyższeniu, od dnia 1 września 1996 r., wskaźnikiem waloryzacji 102,8% kwoty emerytury i renty, jaka przysługiwała w dniu 1 września 1996 r.
+Waloryzacji za IV kwartał 1995 r. na zasadach określonych w ustawie, zwanej dalej „waloryzacją”, podlegają emerytury i renty, które objęła waloryzacja od dnia 1 września 1996 r. na podstawie art. 171 ustawy z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw ([Dz. U. Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), z [1992 r. Nr 21, poz. 84](https://api.sejm.gov.pl/eli/acts/DU/1992/84/text.html), z [1993 r. Nr 127, poz. 583](https://api.sejm.gov.pl/eli/acts/DU/1993/583/text.html) i [Nr 129, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1993/602/text.html), z [1994 r. Nr 84, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1994/385/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 95, poz. 473](https://api.sejm.gov.pl/eli/acts/DU/1995/473/text.html) i [Nr 138, poz. 681](https://api.sejm.gov.pl/eli/acts/DU/1995/681/text.html) oraz z [1996 r. Nr 87, poz. 395](https://api.sejm.gov.pl/eli/acts/DU/1996/395/text.html), [Nr 100, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1996/461/text.html), [Nr 136, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/1996/636/text.html) i [Nr 147, poz. 687](https://api.sejm.gov.pl/eli/acts/DU/1996/687/text.html)).
 
-2. Równocześnie z podwyższeniem emerytury i renty następuje podwyższenie podstawy jej wymiaru wskaźnikiem waloryzacji, o którym mowa w ust. 1.
+### Art. 2.
 
-3. Realizacja podwyżki emerytur i rent wynikającej z waloryzacji następuje w lipcu 1997 r. z wyrównaniem od dnia 1 września 1996 r. wraz z odsetkami.
+### 1.
 
-**Art. 3.** Podwyższenie emerytur i rent oraz wypłata należności nastąpi z urzędu, a jeżeli wypłata świadczeń była wstrzymana - po jej wznowieniu lub na wniosek osoby zainteresowanej, z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie wstrzymania wypłaty.
+Waloryzacja polega na dodatkowym podwyższeniu, od dnia 1 września 1996 r., wskaźnikiem waloryzacji 102,8% kwoty emerytury i renty, jaka przysługiwała w dniu 1 września 1996 r.
 
-**Art. 4.** Z tytułu podwyżki w ramach waloryzacji, o której mowa w art. 2 ust. 3, oraz waloryzacji przeprowadzonej na podstawie art. 12 ustawy z dnia 25 października 1996 r. o waloryzacji emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 136, poz.
+### 2.
 
-**Art. 5.** Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w terminie do dnia 15 czerwca 1997 r., w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski", należne od dnia 1 września 1996 r. i od dnia 1 marca 1997 r. wysokości kwot:
+Równocześnie z podwyższeniem emerytury i renty następuje podwyższenie podstawy jej wymiaru wskaźnikiem waloryzacji, o którym mowa w ust. 1.
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### 3.
 
+Realizacja podwyżki emerytur i rent wynikającej z waloryzacji następuje w lipcu 1997 r. z wyrównaniem od dnia 1 września 1996 r. wraz z odsetkami.
+
+### Art. 3.
+
+Podwyższenie emerytur i rent oraz wypłata należności nastąpi z urzędu, a jeżeli wypłata świadczeń była wstrzymana - po jej wznowieniu lub na wniosek osoby zainteresowanej, z uwzględnieniem wszystkich kolejnych waloryzacji przypadających w okresie wstrzymania wypłaty.
+
+### Art. 4.
+
+Z tytułu podwyżki w ramach waloryzacji, o której mowa w art. 2 ust. 3, oraz waloryzacji przeprowadzonej na podstawie art. 12 ustawy z dnia 25 października 1996 r. o waloryzacji emerytur i rent oraz o zmianie niektórych ustaw ([Dz. U. Nr 136, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/1996/636/text.html)) realny wzrost przeciętnej emerytury i renty brutto w 1997 r. w porównaniu z 1996 r. wyniesie co najmniej 2,9%.
+
+### Art. 5.
+
+Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w terminie do dnia 15 czerwca 1997 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, należne od dnia 1 września 1996 r. i od dnia 1 marca 1997 r. wysokości kwot:
+
+### 1)
+
+najniższej emerytury i renty,
+
+### 2)
+
+dodatków: pielęgnacyjnego, dla sieroty zupełnej, za tajne nauczanie, kombatanckiego oraz dla żołnierzy zastępczej służby wojskowej przymusowo zatrudnionych w kopalniach węgla, kamieniołomach i zakładach wydobywania rud uranu,
+
+### 3)
+
+świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

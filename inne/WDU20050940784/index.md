@@ -8,11 +8,9 @@ pos: 784
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego "Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2015"
-
-*USTAWA dnia 4 marca 2005 o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2015”*
+# Ustawa z dnia 4 marca 2005 r. o ustanowieniu programu wieloletniego „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2010”
 
 | Pole | Wartość |
 |---|---|
@@ -24,44 +22,58 @@ domain: null
 | Data ogłoszenia | 2005-03-04 |
 | Data wydania | 2005-05-30 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050940784) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/784/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/784/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/784) |
 
-**Art. 1.**
+## Spis treści
 
-1. Ustanawia się program wieloletni „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006–2015”, zwany dalej „Programem”.
+- [Treść ustawy](#part_1)
 
-2. Program jest programem wieloletnim w rozumieniu art. 80 ustawy dnia 26 listopada 1998 o finansach publicznych (Dz. U. 2003 15, 148, późn. zm. ) będzie realizowany w latach 2006–2015.
+- [Załącznik - Planowane nakłady w poszczególnych latach na realizację zadań (w mln zł)](#part_2)
 
-**Art. 2.** W ramach Programu podejmuje się działania zapewniające rozwój gospodarczy, ochronę przeciwpowodziową ochronę środowiska na terenie południowo – zachodniej części województwa małopolskiego poprzez budowę zbiornika wodnego budowli towarzyszących w zlewni Małej Wisły, Soły Skawy kształtowanie zasobów wodnych dla zapewnienia zrównoważonego, prawidłowo funkcjonującego systemu ochrony przeciwpowodziowej.
+TOC
 
-**Art. 3.**
+## Treść ustawy
 
-1. Łączne nakłady na finansowanie Programu nie mogą przekroczyć kwoty 1 634,1 mln zł, w tym w:
+### Art. 1.
 
-- **1)** roku 2011 – 199 mln zł Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej, ustalonej w cenach zadań roku 2011;
-- **2)** roku 2012 – 114 mln zł Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej, ustalonej w cenach zadań roku 2012;
-- **3)** roku 2013 – 282 mln zł Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej, ustalonej w cenach zadań roku 2013;
-- **4)** latach 2014 2015 – 321,9 mln zł Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej, ustalonej w cenach zadań roku 2013 przeliczonej według wskaźnika inflacji na ceny roku realizacji zadań.
+### 1.
 
-1a. W latach 2012–2015 ustawa budżetowa może określać wysokość środków budżetu państwa przeznaczonych na dofinansowanie Programu.
+Ustanawia się program wieloletni „Program budowy Zbiornika Wodnego Świnna Poręba w latach 2006-2010”, zwany dalej „Programem”.
 
-2. Planowane nakłady w poszczególnych latach na realizację zadań, o których mowa w art. 2, są określone w załączniku.
+### 2.
 
-**Art. 3a.**
+Program jest programem wieloletnim w rozumieniu art. 80 ustawy z dnia 26 listopada 1998 r. o finansach publicznych ([Dz. U. z 2003 r. Nr 15, poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2003/148/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565.](#gloss-0:1:)) i będzie realizowany w latach 2006-2010.
 
-1. Przekazanie środków Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej na finansowanie Programu odbywa się w formie dotacji w rozumieniu art. 411 ust. 1 pkt 2 ustawy dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. U. 2008 25, 150, późn. zm. ).
+### Art. 2.
 
-2. Środki, o których mowa w ust. 1, są przekazywane na podstawie umowy zawartej przez Narodowy Fundusz Ochrony Środowiska Gospodarki Wodnej państwową jednostką budżetową realizującą Program na wyodrębniony rachunek tej jednostki, otwarty dla Programu, zwany dalej „rachunkiem Programu”.
+W ramach Programu podejmuje się działania zapewniające rozwój gospodarczy, ochronę przeciwpowodziową i ochronę środowiska na terenie południowo-zachodniej części województwa małopolskiego poprzez budowę zbiornika wodnego i budowli towarzyszących w zlewni Małej Wisły, Soły i Skawy oraz kształtowanie zasobów wodnych dla zapewnienia zrównoważonego, prawidłowo funkcjonującego systemu ochrony przeciwpowodziowej.
 
-3. Środki gromadzone na rachunku Programu wraz odsetkami są przeznaczane wyłącznie na realizację zadań wynikających Programu.
+### Art. 3.
 
-4. Środki, o których mowa w ust. 3, wykorzystane niezgodnie przeznaczeniem, pobrane nienależnie lub w nadmiernej wysokości podlegają zwrotowi na rachunek bankowy Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej określony w umowie, o której mowa w ust. 2.
+### 1.
 
-**Art. 4.**
+Łączne nakłady na finansowanie Programu w okresie objętym Programem nie mogą przekroczyć kwoty 1 068 mln zł z budżetu państwa, ustalonej w cenach zadań z roku 2004 i przeliczanej według wskaźnika inflacji na ceny z roku realizacji zadań.
 
-1. Nadzór nad realizacją Programu sprawuje minister właściwy spraw gospodarki wodnej.
+### 2.
 
-2. Minister właściwy spraw gospodarki wodnej przedkłada Radzie Ministrów Sejmowi Rzeczypospolitej Polskiej, nie później niż dnia 31 maja roku kalendarzowego, roczną informację o realizacji w roku ubiegłym zadań wynikających Programu harmonogram prac na rok następny.
+Planowane nakłady w poszczególnych latach na realizację zadań, o których mowa w art. 2, są określone w załączniku.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Załącznik NAKŁADY W POSZCZEGÓLNYCH LATACH NA REALIZACJĘ ZADAŃ (W MLN ZŁ)
+### Art. 4.
 
+### 1.
+
+Nadzór nad realizacją Programu sprawuje minister właściwy do spraw gospodarki wodnej.
+
+### 2.
+
+Minister właściwy do spraw gospodarki wodnej przedkłada Radzie Ministrów oraz Sejmowi Rzeczypospolitej Polskiej, nie później niż do dnia 31 maja roku kalendarzowego, roczną informację o realizacji w roku ubiegłym zadań wynikających z Programu oraz harmonogram prac na rok następny.
+
+### Art. 5.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874, Nr 166, poz. 1611 i Nr 189, poz. 1851, z 2004 r. Nr 19, poz. 177, Nr 93, poz. 890, Nr 121, poz. 1264, Nr 123, poz. 1291, Nr 210, poz. 2135 i Nr 273, poz. 2703 oraz z 2005 r. Nr 14, poz. 114 i Nr 64, poz. 565.
+
+## Załącznik - Planowane nakłady w poszczególnych latach na realizację zadań (w mln zł)
+
+Zadania 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. Razem 2006-2010 poziom cen roku 2004 1 2 3 4 5 6 7 ZADANIE IZBIORNIK 170,0 170,0 170,0 157,0 78,0 745,0 ZADANIE IIPRZEBUDOWA DRÓG 27,0 31,0 25,0 25,0 0,0 108,0 ZADANIE IIIPRZEBUDOWA KOLEI 35,0 36,0 33,0 32,0 41,0 177,0 ZADANIE IVOCHRONA ZLEWNI ZBIORNIKA 18,0 11,0 7,0 2,0 0,0 38,0 RAZEM 250,0 248,0 235,0 216,0 119,0 1 068,0

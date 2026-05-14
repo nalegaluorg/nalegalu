@@ -8,11 +8,9 @@ pos: 42
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o wydawaniu Monitora Sądowego Gospodarczego
-
-*USTAWA z dnia 22 grudnia 1995 r.*
+# Ustawa z dnia 22 grudnia 1995 r. o wydawaniu Monitora Sądowego i Gospodarczego
 
 | Pole | Wartość |
 |---|---|
@@ -24,60 +22,76 @@ domain: null
 | Data ogłoszenia | 1995-12-22 |
 | Data wydania | 1996-01-23 |
 | Ostatnia zmiana | 2026-05-05 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960060042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/42/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1996/42/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1996/42) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Tworzy się Monitor Sądowy Gospodarczy, który jest ogólnokrajowym dziennikiem urzędowym przeznaczonym do zamieszczania obwieszczeń lub ogłoszeń.
+### Art. 1.
 
-2. Wydawanie Monitora Sądowego Gospodarczego należy do zakresu zadań Ministra Sprawiedliwości.
+### 1.
 
-2a. Minister Sprawiedliwości może zlecić wyspecjalizowanym podmiotom niektóre czynności związane z wydawaniem Monitora Sądowego Gospodarczego.
+Tworzy się Monitor Sądowy i Gospodarczy, który jest ogólnokrajowym dziennikiem urzędowym przeznaczonym do zamieszczania obwieszczeń lub ogłoszeń.
 
-2b. Monitor Sądowy Gospodarczy wydawany jest w miarę potrzeby, nierzadziej jednak niż raz w miesiącu.
+### 2.
 
-2c. Monitor Sądowy Gospodarczy wydaje się w postaci elektronicznej.
+Wydawanie Monitora Sądowego i Gospodarczego należy do zakresu zadań Ministra Sprawiedliwości.
 
-2d. Monitor Sądowy Gospodarczy rozpowszechnia się:
+### 3.
 
-- **1)** nieodpłatnie poprzez udostępnienie na stronie internetowej urzędu obsługującego Ministra Sprawiedliwości;
-- **2)** odpłatnie za pomocą środków komunikacji elektronicznej lub informatycznych nośników danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
+W Monitorze Sądowym i Gospodarczym ogłasza się:
 
-3. W Monitorze Sądowym Gospodarczym ogłasza się:
+### 1)
 
-- **1)** (uchylony)
-- **2)** ogłoszenia wymagane przez Kodeks spółek handlowych;
-- **2a)** ogłoszenia przewidziane przepisami Kodeksu postępowania cywilnego, o ile obowiązek ich ogłaszania wynika z tej ustawy;
-- **3)** inne obwieszczenia ogłoszenia, jeżeli ich ogłoszenie w Monitorze Sądowym Gospodarczym jest wymagane lub dopuszczone przez ustawy.
+wszystkie wpisy do rejestru handlowego, chyba że ustawa stanowi inaczej,
 
-3b. Opłata za zamieszczenie w Monitorze Sądowym Gospodarczym ogłoszenia lub obwieszczenia nie może być wyższa niż 20 % minimalnego wynagrodzenia za pracę ustalonego na podstawie ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773).
+### 2)
 
-4. (uchylony)
+ogłoszenia wymagane przez Kodeks handlowy i Kodeks postępowania cywilnego,
 
-5. (uchylony)
+### 3)
 
-6. Wpływy pochodzące z wydawania rozpowszechniania Monitora Sądowego Gospodarczego stanowią dochód budżetu państwa.
+inne obwieszczenia, jeżeli ich ogłoszenie w Monitorze Sądowym i Gospodarczym jest wymagane przez ustawy.
 
-7. Minister Sprawiedliwości określi w drodze rozporządzenia:
+### 4.
 
-- **1)** tryb przyjmowania ogłoszeń obwieszczeń do zamieszczenia w Monitorze Sądowym Gospodarczym,
-- **2)** sposób ustalania ceny numerów Monitora Sądowego Gospodarczego rozpowszechnianych w sposób, o którym mowa w ust. 2d pkt 2,
-- **3)** wysokość opłat za zamieszczenie w Monitorze Sądowym Gospodarczym ogłoszenia lub obwieszczenia oraz sposób ich pobierania,
-- **4)** wymagania techniczne wydawania rozpowszechniania Monitora Sądowego Gospodarczego – mając na względzie pokrycie rzeczowych osobowych kosztów zamieszczenia ogłoszeń obwieszczeń oraz wydawania Monitora Sądowego Gospodarczego oraz potrzebę szybkiej publikacji zapewnienie powszechnego dostępu do informacji publikowanych w Monitorze Sądowym Gospodarczym.
+W Monitorze Sądowym i Gospodarczym nie ogłasza się obwieszczeń ogłaszanych w Monitorze Polskim B.
 
-**Art. 1a.** (uchylony)
+### 5.
 
-**Art. 2.**
+Prezes Rady Ministrów określi, w drodze rozporządzenia, jakie inne ogłoszenia, wymagane lub dopuszczone przez ustawy, mogą być ogłaszane w Monitorze Sądowym i Gospodarczym.
 
-1. Obwieszczenia lub ogłoszenia dotyczące przedsiębiorców podlegających wpisowi do Krajowego Rejestru Sądowego zawierają, poza treścią obwieszczenia lub ogłoszenia, numer KRS.
+### 6.
 
-2. Wydawca Monitora Sądowego Gospodarczego nie ponosi odpowiedzialności za treść ogłoszeń obwieszczeń.
+Dochody uzyskane z wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego przeznacza się na usprawnienie funkcjonowania sądów powszechnych, a w szczególności na koszty ich działalności podstawowej oraz zakupy inwestycyjne.
 
-**Art. 3.** Na każdym numerze Monitora Sądowego Gospodarczego oznacza się dzień jego wydania, który jest dniem ogłoszenia, oraz kolejny numer Monitora Sądowego Gospodarczego.
+### 7.
 
-**Art. 4.**
+Minister Sprawiedliwości określi, w drodze rozporządzenia, organizację, sposób wydawania i rozpowszechniania Monitora Sądowego i Gospodarczego, podstawy ustalania ceny numerów Monitora Sądowego i Gospodarczego oraz wysokość opłat za zamieszczenie w nim ogłoszenia lub obwieszczenia.
 
-1. (uchylony) Gospodarczego.
+### Art. 2.
 
-**Art. 5.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia .
+### 1.
 
+Obwieszczenia lub ogłoszenia dotyczące podmiotów gospodarczych podlegających rejestracji sądowej powinny zawierać, poza treścią obwieszczenia lub ogłoszenia, oznaczenie organu rejestrowego, datę wpisu do rejestru i numer, pod którym podmiot gospodarczy jest zarejestrowany.
+
+### 2.
+
+Wydawca Monitora Sądowego i Gospodarczego nie ponosi odpowiedzialności za treść ogłoszeń i obwieszczeń.
+
+### Art. 3.
+
+Na każdym numerze Monitora Sądowego i Gospodarczego oznacza się dzień jego wydania, który jest dniem ogłoszenia, oraz kolejny numer Monitora Sądowego i Gospodarczego.
+
+### Art. 4.
+
+### 1.
+
+Podmiot gospodarczy jest zobowiązany przechowywać w lokalu swojej siedziby numery Monitora Sądowego i Gospodarczego, w których zamieszczone są ogłoszenia i obwieszczenia dotyczące tego podmiotu.
+
+### 2.
+
+Sądy rejonowe są zobowiązane udostępniać nieodpłatnie przeglądanie Monitora Sądowego i Gospodarczego.
+
+### Art. 5.
+
+Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.

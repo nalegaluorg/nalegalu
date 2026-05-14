@@ -1,0 +1,149 @@
+---
+title: "Obwieszczenie Ministra Infrastruktury z dnia 27 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego"
+address: WDU20240001496
+eli: DU/2024/1496
+publisher: DU
+year: 2024
+pos: 1496
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Infrastrukturyz dnia 27 września 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego [1) Minister Infrastruktury kieruje działem administracji rządowej - transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1496 |
+| ISAP | WDU20240001496 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-09-27 |
+| Data wydania | 2024-10-09 |
+| Ostatnia zmiana | 2024-10-17 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1496/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1496) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego ([Dz. U. z 2017 r. poz. 521](https://api.sejm.gov.pl/eli/acts/DU/2017/521/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Infrastruktury z dnia 29 lipca 2024 r. zmieniającym rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego ([Dz. U. poz. 1163](https://api.sejm.gov.pl/eli/acts/DU/2024/1163/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Infrastruktury z dnia 29 lipca 2024 r. zmieniającego rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego ([Dz. U. poz. 1163](https://api.sejm.gov.pl/eli/acts/DU/2024/1163/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Infrastruktury kieruje działem administracji rządowej - transport, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).
+
+## Załącznik - Tekst jednolity rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 15 marca 2013 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego[1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725).](#gloss-0:1:)
+
+Na podstawie art. 95 ust. 5 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze ([Dz. U. z 2023 r. poz. 2110](https://api.sejm.gov.pl/eli/acts/DU/2023/2110/text.html) oraz [z 2024 r. poz. 731](https://api.sejm.gov.pl/eli/acts/DU/2024/731/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Wymagania w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego dla specjalności wymienionych w art. 95 ust. 2 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze oraz w stosunku do których został wprowadzony wymóg posiadania świadectwa kwalifikacji na podstawie art. 94 ust. 8 tej ustawy, zwane dalej „wymaganiami zdrowotnymi na świadectwo kwalifikacji”, uważa się za spełnione w przypadku niewystępowania u tych osób schorzeń lub ułomności ograniczających bezpieczne wykonywanie czynności lotniczych:
+
+### 1)
+
+ujawnionych w wywiadzie lub rozpoznanych klinicznie chorób psychicznych, wrodzonych lub nabytych, oraz nieprawidłowości układu nerwowego, w tym następstw urazów;
+
+### 2)
+
+wrodzonych lub nabytych nieprawidłowości układu sercowo-naczyniowego;
+
+### 3)
+
+wrodzonych lub nabytych zaburzeń układu oddechowego;
+
+### 4)
+
+funkcjonalnych lub organicznych zaburzeń przewodu pokarmowego;
+
+### 5)
+
+chorób krwi;
+
+### 6)
+
+funkcjonalnych lub organicznych chorób układu moczowego i jego przydatków;
+
+### 7)
+
+chorób przenoszonych drogą płciową;
+
+### 8)
+
+funkcjonalnych lub organicznych zaburzeń ginekologiczno-położniczych;
+
+### 9)
+
+chorób kości, stawów, ścięgien i mięśni, wrodzonych lub nabytych;
+
+### 10)
+
+nieprawidłowości wysokości ciała, długości kończyn górnych i dolnych oraz osłabienia siły mięśni, uniemożliwiających bezpieczne wykonywanie czynności lotniczych;
+
+### 11)
+
+zaburzeń narządu wzroku i jego przydatków, powstałych wskutek chorób wrodzonych lub nabytych oraz w następstwie zabiegów chirurgicznych lub urazów oczu;
+
+### 12)
+
+zaburzeń w prawidłowym postrzeganiu i rozpoznawaniu barw;
+
+### 13)
+
+zaburzeń funkcji uszu, jamy nosowej, zatok obocznych nosa, gardła, jamy ustnej, zębów i krtani, powstałych wskutek chorób wrodzonych lub nabytych oraz w następstwie zabiegów chirurgicznych lub urazów;
+
+### 14)
+
+chorób skórnych;
+
+### 15)
+
+pierwotnej lub wtórnej choroby nowotworowej;
+
+### 16)
+
+chorób zakaźnych;
+
+### 17)
+
+zaburzeń metabolicznych i schorzeń układu wydzielania wewnętrznego.
+
+### 2[2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 29 lipca 2024 r. zmieniającego rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego (Dz. U. poz. 1163), które weszło w życie z dniem 17 sierpnia 2024 r.](#gloss-0:2:).
+
+Wymagania zdrowotne na świadectwo kwalifikacji dla specjalności, o których mowa w art. 95 ust. 2 pkt 1-4 i 5a-7 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze, oraz dla specjalności, w stosunku do których został wprowadzony wymóg posiadania świadectwa kwalifikacji na podstawie art. 94 ust. 8 tej ustawy, uważa się za spełnione w przypadku, gdy osoba ubiegająca się o świadectwo kwalifikacji członka personelu lotniczego lub posiadająca świadectwo kwalifikacji członka personelu lotniczego spełnia wymagania w zakresie sprawności psychicznej i fizycznej dla orzeczeń lekarskich dla klasy 1 lub 2 lub dla orzeczeń lekarskich na potrzeby licencji pilota lekkich statków powietrznych (LAPL), określone w Podczęści B Sekcja 2 i 3 załącznika IV do rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 ([Dz. Urz. UE L 311 z 25.11.2011, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1, Dz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31, Dz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz. Urz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz. UE L 268 z 22.10.2019, str. 23, Dz. Urz. UE L 67 z 05.03.2020, str. 82, Dz. Urz. UE L 170 z 02.06.2020, str. 1, Dz. Urz. UE L 296 z 10.09.2020, str. 10, Dz. Urz. UE L 434 z 23.12.2020, str. 13, Dz. Urz. UE L 284 z 09.08.2021, str. 15, Dz. Urz. UE L 448 z 15.12.2021, str. 39, Dz. Urz. UE L 148 z 31.05.2022, str. 24, Dz. Urz. UE L 31 z 02.02.2023, str. 1, Dz. Urz. UE L 2024/1111 z 23.05.2024 oraz Dz. Urz. UE L 2024/2076 z 25.07.2024.](#gloss-0:3:)), potwierdzone orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego.
+
+### 3.
+
+Wymagania zdrowotne na świadectwo kwalifikacji dla specjalności, o których mowa w art. 95 ust. 2 pkt 8 i 9 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze, uważa się za spełnione w przypadku, gdy osoba ubiegająca się o świadectwo kwalifikacji członka personelu lotniczego lub posiadająca świadectwo kwalifikacji członka personelu lotniczego spełnia wymagania w zakresie sprawności psychicznej i fizycznej, określone w Podczęści B Sekcja 2 załącznika IV do rozporządzenia Komisji (UE) 2015/340 z dnia 20 lutego 2015 r. ustanawiającego wymagania techniczne i procedury administracyjne dotyczące licencji i certyfikatów kontrolerów ruchu lotniczego zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008, zmieniającego rozporządzenie wykonawcze Komisji (UE) nr 923/2012 i uchylającego rozporządzenie Komisji (UE) nr 805/2011 ([Dz. Urz. UE L 63 z 06.03.2015, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 31 z 02.02.2023, str. 1, Dz. Urz. UE L 118 z 04.05.2023, str. 1 oraz Dz. Urz. UE L 159 z 22.06.2023, str. 152.](#gloss-0:4:)).
+
+### § 2.
+
+Osoby spełniające wymagania zdrowotne dla klasy 3, określone na podstawie dotychczasowych przepisów, potwierdzone orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego na podstawie świadectwa kwalifikacji, uznaje się za spełniające wymagania zdrowotne na świadectwo kwalifikacji, do czasu upływu terminu ważności tych orzeczeń.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[5) Rozporządzenie zostało ogłoszone w dniu 19 marca 2013 r.](#gloss-0:5:).[6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego (Dz. U. poz. 1626).](#gloss-0:6:)
+
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - transport kieruje Minister Infrastruktury, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. poz. 2725). 2) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Infrastruktury z dnia 29 lipca 2024 r. zmieniającego rozporządzenie w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego (Dz. U. poz. 1163), które weszło w życie z dniem 17 sierpnia 2024 r. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 100 z 05.04.2012, str. 1, Dz. Urz. UE L 23 z 28.01.2014, str. 25, Dz. Urz. UE L 74 z 14.03.2014, str. 33, Dz. Urz. UE L 74 z 18.03.2015, str. 1, Dz. Urz. UE L 91 z 07.04.2016, str. 1, Dz. Urz. UE L 149 z 13.06.2017, str. 98, Dz. Urz. UE L 192 z 30.07.2018, str. 31, Dz. Urz. UE L 204 z 13.08.2018, str. 13, Dz. Urz. UE L 326 z 20.12.2018, str. 1, Dz. Urz. UE L 8 z 10.01.2019, str. 1, Dz. Urz. UE L 75 z 19.03.2019, str. 66, Dz. Urz. UE L 268 z 22.10.2019, str. 23, Dz. Urz. UE L 67 z 05.03.2020, str. 82, Dz. Urz. UE L 170 z 02.06.2020, str. 1, Dz. Urz. UE L 296 z 10.09.2020, str. 10, Dz. Urz. UE L 434 z 23.12.2020, str. 13, Dz. Urz. UE L 284 z 09.08.2021, str. 15, Dz. Urz. UE L 448 z 15.12.2021, str. 39, Dz. Urz. UE L 148 z 31.05.2022, str. 24, Dz. Urz. UE L 31 z 02.02.2023, str. 1, Dz. Urz. UE L 2024/1111 z 23.05.2024 oraz Dz. Urz. UE L 2024/2076 z 25.07.2024. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 31 z 02.02.2023, str. 1, Dz. Urz. UE L 118 z 04.05.2023, str. 1 oraz Dz. Urz. UE L 159 z 22.06.2023, str. 152. 5) Rozporządzenie zostało ogłoszone w dniu 19 marca 2013 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 26 sierpnia 2003 r. w sprawie wymagań w zakresie sprawności psychicznej i fizycznej osób ubiegających się o świadectwo kwalifikacji członka personelu lotniczego lub posiadających świadectwo kwalifikacji członka personelu lotniczego (Dz. U. poz. 1626).

@@ -8,11 +8,9 @@ pos: 218
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 15 stycznia 2015 r.*
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 14 lutego 1991 r. - Prawo o notariacie, ustawę z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji oraz ustawę z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +22,1168 @@ domain: null
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-02-17 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/218/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/218/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/218) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2014 r. poz. 101, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2014 r. poz. 1619 oraz z 2015 r. poz. 87 i 211) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2013 r. poz. 707, z późn. zm. ) wprowadza się następujące zmiany:
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2014 r. poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2014/101/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2 i 4.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2014 r. poz. 164, 993 i 1585) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 5.** (uchylony)
+w art. 125:
 
-**Art. 6.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) w art. 6c ust. 8 otrzymuje brzmienie: „8. Od orzeczenia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych.”.
+### a)
 
-**Art. 7.** W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2011 r. Nr 231, poz. 1376, z późn. zm. ) wprowadza się następujące zmiany:
+§ 21otrzymuje brzmienie:
 
-**Art. 8.** W ustawie z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym (Dz. U. Nr 42, poz. 363) wprowadza się następujące zmiany:
+„
 
-**Art. 9.**
+### § 21.
 
-1. Do ksiąg wieczystych zamkniętych, ksiąg hipotecznych (gruntowych, wieczystych) założonych przed dniem 1 stycznia 1947 r. i ksiąg wieczystych, których treść nie została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+Jeżeli przepis szczególny tak stanowi pisma procesowe wnosi się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe (system teleinformatyczny). Jeżeli przepis szczególny przewiduje, że pisma wnosi się wyłącznie za pośrednictwem systemu teleinformatycznego, pisma niewniesione za pośrednictwem tego systemu nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma do sądu.
 
-2. Z dniem wejścia w życie niniejszej ustawy księgi wieczyste, prowadzone w systemie informatycznym, stają się księgami wieczystymi prowadzonymi w systemie teleinformatycznym.
+” ,
 
-**Art. 10.**
+### b)
 
-1. Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, w których właściwość sądu została ustalona na podstawie art. 461 § 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, prowadzi się zgodnie z właściwością ustaloną na podstawie tego przepisu.
+§ 31otrzymuje brzmienie:
 
-2. Do spraw z zakresu ubezpieczeń społecznych z udziałem zainteresowanych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, przepisu art. 477 § 2 zdanie czwarte, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do czasu zakończenia postępowania w danej instancji.
+„
 
-**Art. 11.** Do wniosków o wpis w księdze wieczystej nierozpoznanych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### § 31.
 
-**Art. 12.** Lista, o której mowa w art. 41a § 1 ustawy zmienianej w art. 4, do dnia 23 sierpnia 2016 r. obejmuje także asesorów notarialnych.
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego, mając na względzie skuteczność wnoszenia pism, szczególne wymagania postępowań obsługiwanych przez ten system oraz ochronę praw osób wnoszących pisma.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 lipca 2016 r., z wyjątkiem art. 1 pkt 4–14 i 16 oraz art. 10, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+” ;
 
+### 2)
+
+w art. 126 § 5 i 6 otrzymują brzmienie:
+
+„
+
+### § 5.
+
+Pismo procesowe wniesione za pośrednictwem systemu teleinformatycznego opatruje się bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu lub podpisem potwierdzonym profilem zaufanym ePUAP.
+
+### § 6.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb zakładania i udostępniania konta w systemie teleinformatycznym, za pomocą którego można wnosić pisma procesowe, z uwzględnieniem sprawności postępowania, ochrony praw stron postępowania oraz możliwości składania jednorazowo wielu pism.
+
+” ;
+
+### 3)
+
+art. 1311 otrzymuje brzmienie:
+
+„
+
+### Art. 1311.
+
+### § 1.
+
+Sąd dokonuje doręczeń za pośrednictwem systemu teleinformatycznego (doręczenie elektroniczne), jeżeli wniesiono pismo za pośrednictwem systemu teleinformatycznego.
+
+### § 2.
+
+W przypadku doręczenia elektronicznego pismo uznaje się za doręczone w chwili wskazanej w elektronicznym potwierdzeniu odbioru korespondencji. Przepisu art. 134 § 1 nie stosuje się. W przypadku braku takiego potwierdzenia doręczenie elektroniczne uznaje się za skuteczne po upływie 14 dni od daty umieszczenia pisma w systemie teleinformatycznym.
+
+### § 3.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób dokonywania doręczeń elektronicznych, mając na względzie zapewnienie skuteczności doręczeń oraz ochronę praw osób, którym pisma są doręczane.
+
+” ;
+
+### 4)
+
+w art. 460 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Zdolność sądową i procesową ma także pracodawca, chociażby nie posiadał osobowości prawnej, a w sprawach z zakresu ubezpieczeń społecznych zdolność tę ma organ rentowy i wojewódzki zespół do spraw orzekania o niepełnosprawności.
+
+” ;
+
+### 5)
+
+w art. 461 § 22 otrzymuje brzmienie:
+
+„
+
+### § 22.
+
+W sprawach, w których nie można określić właściwości sądu według przepisów § 1-21, właściwy jest sąd, w którego okręgu ma siedzibę organ rentowy.
+
+” ;
+
+### 6)
+
+w art. 465 po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Pełnomocnikiem pracodawcy niebędącego osobą prawną lub przedsiębiorcą albo organu rentowego może być również jego pracownik. Pełnomocnikiem wojewódzkiego zespołu do spraw orzekania o niepełnosprawności może być jego członek.
+
+” ;
+
+### 7)
+
+w art. 476:
+
+### a)
+
+w § 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ubezpieczeń społecznych;
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Przez sprawy z zakresu ubezpieczeń społecznych rozumie się także sprawy wszczęte na skutek niewydania przez organ rentowy decyzji we właściwym terminie, a także sprawy, w których wniesiono odwołanie od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności, sprawy o roszczenia ze stosunków prawnych między członkami otwartych funduszy emerytalnych a tymi funduszami lub ich organami oraz sprawy ze stosunków między emerytami lub osobami uposażonymi w rozumieniu przepisów o emeryturach kapitałowych a Zakładem Ubezpieczeń Społecznych.
+
+” ,
+
+### c)
+
+w § 4 uchyla się pkt 2,
+
+### d)
+
+w § 5 w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+świadczenie z ubezpieczeń społecznych albo o emeryturę lub rentę,
+
+” ;
+
+### 8)
+
+w art. 4778 w § 2:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+o zasiłek chorobowy, wyrównawczy, opiekuńczy, macierzyński oraz pogrzebowy;
+
+” ,
+
+### b)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+o odszkodowanie z tytułu wypadku przy pracy rolniczej, wypadku w drodze do pracy lub z pracy, wypadku przy pracy lub choroby zawodowej, wypadku lub choroby zawodowej pozostającej w związku z czynną służbą wojskową albo służbą w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Służbie Więziennej, Państwowej Straży Pożarnej i Służbie Celnej;
+
+” ,
+
+### c)
+
+uchyla się pkt 6;
+
+### 9)
+
+w art. 4779:
+
+### a)
+
+§ 1-21 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Odwołania od decyzji organów rentowych lub orzeczeń wojewódzkich zespołów do spraw orzekania o niepełnosprawności wnosi się na piśmie do organu lub zespołu, który wydał decyzję lub orzeczenie, lub do protokołu sporządzonego przez ten organ lub zespół, w terminie miesiąca od dnia doręczenia decyzji lub orzeczenia.
+
+### § 2.
+
+Organ rentowy lub wojewódzki zespół do spraw orzekania o niepełnosprawności przekazuje niezwłocznie odwołanie wraz z aktami sprawy do sądu. Organ ten lub zespół, jeżeli uzna odwołanie w całości za słuszne, może zmienić lub uchylić zaskarżoną decyzję lub orzeczenie. W tym przypadku odwołaniu nie nadaje się dalszego biegu.
+
+### § 21.
+
+Jeżeli w odwołaniu od decyzji organu rentowego wskazano nowe okoliczności dotyczące niezdolności do pracy lub niezdolności do samodzielnej egzystencji albo stałego lub długotrwałego uszczerbku na zdrowiu, które powstały po dniu wydania orzeczenia przez lekarza orzecznika Zakładu Ubezpieczeń Społecznych, od którego nie wniesiono sprzeciwu, lub orzeczenia komisji lekarskiej Zakładu Ubezpieczeń Społecznych, organ rentowy nie przekazuje odwołania do sądu, lecz kieruje do lekarza orzecznika Zakładu Ubezpieczeń Społecznych do ponownego rozpatrzenia. Organ rentowy uchyla decyzję, rozpatruje nowe okoliczności i wydaje decyzję, od której przysługuje odwołanie do sądu. Przepis ten stosuje się także wówczas, gdy nie można ustalić daty powstania wskazanych w odwołaniu nowych okoliczności.
+
+” ,
+
+### b)
+
+§ 31 otrzymuje brzmienie:
+
+„
+
+### § 31.
+
+Sąd odrzuci odwołanie w sprawie o świadczenie z ubezpieczeń społecznych, do którego prawo jest uzależnione od stwierdzenia niezdolności do pracy lub niezdolności do samodzielnej egzystencji albo stwierdzenia stałego lub długotrwałego uszczerbku na zdrowiu, jeżeli podstawę do wydania decyzji stanowi orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, a osoba zainteresowana nie wniosła sprzeciwu od tego orzeczenia do komisji lekarskiej Zakładu Ubezpieczeń Społecznych i odwołanie jest oparte wyłącznie na zarzutach dotyczących tego orzeczenia. Jeżeli odwołanie opiera się także na zarzucie nierozpatrzenia wniesionego po terminie sprzeciwu od tego orzeczenia, a wniesienie sprzeciwu po terminie nastąpiło z przyczyn niezależnych od osoby zainteresowanej, sąd uchyla decyzję, przekazuje sprawę do ponownego rozpoznania organowi rentowemu i umarza postępowanie. W takim przypadku organ rentowy kieruje sprzeciw do rozpatrzenia do komisji lekarskiej Zakładu Ubezpieczeń Społecznych.
+
+” ,
+
+### c)
+
+po § 32 dodaje się § 33 w brzmieniu:
+
+„
+
+### § 33.
+
+Przepis § 31 stosuje się odpowiednio w sprawach o świadczenia z ubezpieczenia społecznego rolników.
+
+” ,
+
+### d)
+
+§ 4-6 otrzymują brzmienie:
+
+„
+
+### § 4.
+
+Jeżeli organ rentowy lub wojewódzki zespół do spraw orzekania o niepełnosprawności nie wydał decyzji lub orzeczenia w terminie dwóch miesięcy od dnia zgłoszenia roszczenia w sposób przepisany, odwołanie można wnieść w każdym czasie po upływie tego terminu.
+
+### § 5.
+
+Ubezpieczony lub osoba odwołująca się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności może również wnieść odwołanie - z wyłączeniem odwołania, o którym mowa w § 4 - do protokołu w sądzie właściwym do rozpoznania sprawy albo w sądzie właściwym dla miejsca zamieszkania ubezpieczonego lub osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności.
+
+### § 6.
+
+Sąd, do którego wniesiono odwołanie, niezwłocznie przekazuje protokół organowi lub zespołowi, który wydał zaskarżoną decyzję lub orzeczenie, chyba że sąd ten jest właściwy do jego rozpoznania. W takim przypadku przewodniczący niezwłocznie zażąda akt sprawy i nada bieg odwołaniu, przesyłając odpis protokołu organowi lub zespołowi, który wydał zaskarżoną decyzję lub orzeczenie.
+
+” ;
+
+### 10)
+
+w art. 47710§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Odwołanie powinno zawierać oznaczenie zaskarżonej decyzji lub orzeczenia, zwięzłe przytoczenie zarzutów oraz wniosków i ich uzasadnienie oraz podpis ubezpieczonego albo osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności, albo przedstawiciela ustawowego lub pełnomocnika ubezpieczonego albo osoby odwołującej się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności.
+
+” ;
+
+### 11)
+
+art. 47711 otrzymuje brzmienie:
+
+„
+
+### Art. 47711.
+
+### § 1.
+
+Stronami są ubezpieczony, osoba odwołująca się od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności, inna osoba, której praw i obowiązków dotyczy zaskarżona decyzja, organ rentowy, wojewódzki zespół do spraw orzekania o niepełnosprawności i zainteresowany.
+
+### § 2.
+
+Zainteresowanym jest ten, czyje prawa lub obowiązki zależą od rozstrzygnięcia sprawy. Jeżeli zainteresowany nie bierze udziału w sprawie, sąd zawiadomi go o toczącym się postępowaniu. Zainteresowany może przystąpić do sprawy w ciągu dwóch tygodni od dnia doręczenia zawiadomienia. Do zainteresowanego przepisu art. 174 § 1 nie stosuje się.
+
+### § 3.
+
+Postanowienie sądu o zawiadomieniu zainteresowanego o toczącym się postępowaniu może zapaść na posiedzeniu niejawnym.
+
+” ;
+
+### 12)
+
+art. 47713 otrzymuje brzmienie:
+
+„
+
+### Art. 47713.
+
+### § 1.
+
+Zmiana przez organ rentowy zaskarżonej decyzji lub wojewódzki zespół do spraw orzekania o niepełnosprawności zaskarżonego orzeczenia przed rozstrzygnięciem sprawy przez sąd - przez wydanie decyzji lub orzeczenia uwzględniającego w całości lub w części żądanie strony - powoduje umorzenie postępowania w całości lub w części. Poza tym zmiana lub wykonanie decyzji lub orzeczenia nie ma wpływu na bieg sprawy.
+
+### § 2.
+
+Postanowienie sądu o umorzeniu postępowania może zapaść na posiedzeniu niejawnym.
+
+” ;
+
+### 13)
+
+w art. 47714:
+
+### a)
+
+§ 2-4 otrzymują brzmienie:
+
+„
+
+### § 2.
+
+W przypadku uwzględnienia odwołania sąd zmienia w całości lub w części zaskarżoną decyzję organu rentowego lub zaskarżone orzeczenie wojewódzkiego zespołu do spraw orzekania o niepełnosprawności i orzeka co do istoty sprawy.
+
+### § 3.
+
+Jeżeli odwołanie wniesiono w związku z niewydaniem decyzji przez organ rentowy lub niewydaniem orzeczenia przez wojewódzki zespół do spraw orzekania o niepełnosprawności, sąd w razie uwzględnienia odwołania zobowiązuje organ lub zespół do wydania decyzji lub orzeczenia w określonym terminie, zawiadamiając o tym organ nadrzędny, albo orzeka co do istoty sprawy. Jednocześnie sąd stwierdza, czy niewydanie decyzji przez organ rentowy nastąpiło z rażącym naruszeniem prawa.
+
+### § 4.
+
+W sprawie o świadczenie z ubezpieczeń społecznych, do którego prawo jest uzależnione od stwierdzenia niezdolności do pracy lub niezdolności do samodzielnej egzystencji albo stwierdzenia stałego lub długotrwałego uszczerbku na zdrowiu, jeżeli podstawę do wydania decyzji stanowi orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub orzeczenie komisji lekarskiej Zakładu Ubezpieczeń Społecznych i odwołanie od decyzji opiera się wyłącznie na zarzutach dotyczących tego orzeczenia, sąd nie orzeka co do istoty sprawy na podstawie nowych okoliczności dotyczących stwierdzenia niezdolności do pracy lub niezdolności do samodzielnej egzystencji albo stwierdzenia stałego lub długotrwałego uszczerbku na zdrowiu, które powstały po dniu złożenia odwołania od tej decyzji. W tym przypadku sąd uchyla decyzję, przekazuje sprawę do rozpoznania organowi rentowemu i umarza postępowanie .
+
+” ,
+
+### b)
+
+dodaje się § 5 i 6 w brzmieniu:
+
+„
+
+### § 5.
+
+Przepis § 4 stosuje się odpowiednio w sprawach o świadczenia z ubezpieczenia społecznego rolników.
+
+### § 6.
+
+W sprawie, w której wniesiono odwołanie od orzeczenia wojewódzkiego zespołu do spraw orzekania o niepełnosprawności, sąd nie orzeka co do istoty sprawy na podstawie nowych okoliczności dotyczących niepełnosprawności, które powstały po dniu wniesienia odwołania od tego orzeczenia. W tym przypadku sąd uchyla orzeczenie, przekazuje sprawę do rozpoznania wojewódzkiemu zespołowi do spraw orzekania o niepełnosprawności i umarza postępowanie .
+
+” ;
+
+### 14)
+
+uchyla się art. 47716;
+
+### 15)
+
+w art. 50531:
+
+### a)
+
+§ 1-5 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Pisma procesowe powoda niewniesione za pośrednictwem systemu teleinformatycznego nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma do sądu.
+
+### § 2.
+
+Pisma procesowe pozwanego mogą być wnoszone także za pośrednictwem systemu teleinformatycznego.
+
+### § 3.
+
+Przepis § 1 ma zastosowanie do pozwanego od momentu wniesienia przez niego pisma za pośrednictwem systemu teleinformatycznego.
+
+### § 4.
+
+O skutkach wniesienia pisma za pośrednictwem systemu teleinformatycznego sąd powinien pouczyć pozwanego przy pierwszym doręczeniu.
+
+### § 5.
+
+Datą wniesienia pisma procesowego za pośrednictwem systemu teleinformatycznego jest data wprowadzenia pisma do systemu teleinformatycznego.
+
+” ,
+
+### b)
+
+uchyla się § 6;
+
+### 16)
+
+w art. 5091 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Czynności w postępowaniu wieczystoksięgowym może wykonywać referendarz sądowy.
+
+### § 2.
+
+Czynności w postępowaniach należących do właściwości sądów rejonowych prowadzących rejestry sądowe może wykonywać referendarz sądowy, z wyłączeniem prowadzenia rozprawy.
+
+” ;
+
+### 17)
+
+w art. 6261 uchyla się § 5;
+
+### 18)
+
+w art. 6262:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Wniosek o wpis składa się na urzędowym formularzu.
+
+” ,
+
+### b)
+
+uchyla się § 2,
+
+### c)
+
+§ 3 i 31 otrzymują brzmienie:
+
+„
+
+### § 3.
+
+Do wniosku o wpis należy dołączyć dokumenty, stanowiące podstawę wpisu w księdze wieczystej.
+
+### § 31.
+
+Do wniosku o wpis w księdze wieczystej na podstawie tytułu wykonawczego, o którym mowa w art. 783 § 4, należy dołączyć dokument uzyskany z systemu teleinformatycznego umożliwiający sądowi weryfikację istnienia i treści tytułu wykonawczego.
+
+” ,
+
+### d)
+
+w § 5 zdanie pierwsze otrzymuje brzmienie: „ Wniosek o wpis może złożyć właściciel nieruchomości, użytkownik wieczysty, osoba, na rzecz której wpis ma nastąpić, albo wierzyciel, jeżeli przysługuje mu prawo, które może być wpisane w księdze wieczystej. ” ;
+
+### 19)
+
+art. 6264 otrzymuje brzmienie:
+
+„
+
+### Art. 6264.
+
+### § 1.
+
+Notariusz, komornik oraz naczelnik urzędu skarbowego działający jako administracyjny organ egzekucyjny składa wniosek o wpis za pośrednictwem systemu teleinformatycznego.
+
+### § 2.
+
+Do wniosku, o którym mowa w § 1, dołącza się dokumenty stanowiące podstawę wpisu w księdze wieczystej, jeżeli zostały one sporządzone w postaci elektronicznej.
+
+### § 3.
+
+Dokumenty stanowiące podstawę wpisu w księdze wieczystej niesporządzone w postaci elektronicznej notariusz, komornik oraz naczelnik urzędu skarbowego działający jako administracyjny organ egzekucyjny przesyła sądowi właściwemu do prowadzenia księgi wieczystej w terminie trzech dni od dnia złożenia wniosku o wpis.
+
+### § 4.
+
+W przypadku wniosków składanych przez notariuszy i komorników obowiązek poprawienia lub uzupełnienia wniosku spoczywa odpowiednio na stronie czynności notarialnej lub wierzycielu. O zobowiązaniu wierzyciela do poprawienia lub uzupełnienia wniosku sąd jednocześnie zawiadamia za pośrednictwem systemu teleinformatycznego komornika, wskazując rodzaj braków formalnych, które uniemożliwiają nadanie wnioskowi prawidłowego biegu.
+
+” ;
+
+### 20)
+
+w art. 6266 po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Za chwilę wpływu wniosku o wpis złożonego za pośrednictwem systemu teleinformatycznego uważa się godzinę, minutę i sekundę umieszczenia wniosku w systemie.
+
+” ;
+
+### 21)
+
+w art. 6267 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Niezwłocznie po zarejestrowaniu wniosku w dzienniku ksiąg wieczystych zamieszcza się w odpowiednim dziale księgi wieczystej informację o wniosku jako wzmiankę o wniosku. Wzmianka o wniosku złożonym za pośrednictwem systemu teleinformatycznego umieszczana jest automatycznie z chwilą umieszczenia wniosku w systemie.
+
+” ;
+
+### 22)
+
+w art. 6268:
+
+### a)
+
+§ 3 i 4 otrzymują brzmienie:
+
+„
+
+### § 3.
+
+Rozpoznając wniosek o wpis w księdze wieczystej, sąd z urzędu bada zgodność danych wskazanych we wniosku z danymi wynikającymi z systemów prowadzących ewidencje powszechnych numerów identyfikacyjnych, chyba że istnieją przeszkody faktyczne uniemożliwiające dokonanie takiego sprawdzenia.
+
+### § 4.
+
+Rozpoznając wniosek o zmianę oznaczenia nieruchomości w księdze wieczystej, sąd ponadto dokonuje z urzędu sprawdzenia danych wskazanych we wniosku i ujawnionego w księdze wieczystej oznaczenia nieruchomości z danymi katastru nieruchomości, chyba że istnieją przeszkody faktyczne uniemożliwiające dokonanie takiego sprawdzenia.
+
+” ,
+
+### b)
+
+§ 8 otrzymuje brzmienie:
+
+„
+
+### § 8.
+
+Wpis w księdze wieczystej podpisany przez sędziego lub referendarza sądowego uważa się za dokonany z chwilą jego zapisania w centralnej bazie danych ksiąg wieczystych.
+
+” ,
+
+### c)
+
+uchyla się § 9,
+
+### d)
+
+dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Czynności związane z zakładaniem i prowadzeniem ksiąg wieczystych dokonywane są w centralnej bazie danych ksiąg wieczystych.
+
+” ;
+
+### 23)
+
+w art. 62610 po § 1 dodaje się § 11 i 12 w brzmieniu:
+
+„
+
+### § 11.
+
+Zrzeczenia się zawiadomienia można dokonać w akcie notarialnym dotyczącym czynności, z którą wiąże się wpis.
+
+### § 12.
+
+Na wniosek uczestnika postępowania zawarty w akcie notarialnym zawiadomienie o wpisie doręcza się za pośrednictwem systemu teleinformatycznego, na konto wskazane w tym systemie. W przypadku wskazania danych o koncie uniemożliwiających skuteczne doręczenie, zawiadomienie o wpisie doręcza się w sposób określony w art. 131 § 1.
+
+” ;
+
+### 24)
+
+w art. 797 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli podstawą egzekucji jest tytuł wykonawczy, o którym mowa w art. 783 § 4, do wniosku lub żądania przeprowadzenia egzekucji z urzędu należy dołączyć dokument uzyskany z systemu teleinformatycznego umożliwiający organowi egzekucyjnemu weryfikację istnienia i treści tego tytułu, a w przypadku wszczęcia postępowania egzekucyjnego za pośrednictwem systemu teleinformatycznego wskazuje się tytuł wykonawczy.
+
+” ;
+
+### 25)
+
+w art. 897 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W celu zajęcia wierzytelności, której zabezpieczenie jest ujawnione przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru, komornik jednocześnie z zawiadomieniem i wezwaniem dłużników zgodnie z art. 896, składa do sądu właściwego do prowadzenia księgi wieczystej wniosek o wpis o zajęciu lub o złożenie tego wniosku do zbioru dokumentów.
+
+” ;
+
+### 26)
+
+art. 898 otrzymuje brzmienie:
+
+„
+
+### Art. 898.
+
+Jeżeli do zabezpieczenia zajętej wierzytelności wymagany jest wpis w księdze wieczystej, komornik odbierze dłużnikowi dokumenty potrzebne do dokonania tego wpisu i złoży wniosek o wpis na rzecz dłużnika oraz o jednoczesne ujawnienie zajęcia.
+
+” ;
+
+### 27)
+
+art. 924 otrzymuje brzmienie:
+
+„
+
+### Art. 924.
+
+### § 1.
+
+Jednocześnie z wysłaniem dłużnikowi wezwania komornik składa do sądu właściwego do prowadzenia księgi wieczystej wniosek o wpis o wszczęciu egzekucji lub o złożenie wniosku do zbioru dokumentów, wraz z odpisem wezwania do zapłaty.
+
+### § 2.
+
+W przypadku umorzenia postępowania egzekucyjnego lub ukończenia egzekucji w inny sposób niż przez umorzenie komornik składa wniosek o wykreślenie w księdze wieczystej wpisu o wszczęciu egzekucji lub o usunięcie wniosku o wszczęcie egzekucji ze zbioru dokumentów. Obowiązek poprawienia lub uzupełnienia wniosku spoczywa na komorniku.
+
+” ;
+
+### 28)
+
+w art. 927 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+W przypadku, o którym mowa w § 1, komornik składa do sądu właściwego do prowadzenia księgi wieczystej wniosek o wpis o przyłączeniu się wierzyciela do egzekucji lub o złożenie wniosku do zbioru dokumentów.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2014 r. poz. 1619](https://api.sejm.gov.pl/eli/acts/DU/2014/1619/text.html) oraz [z 2015 r. poz. 87](https://api.sejm.gov.pl/eli/acts/DU/2015/87/text.html) i [211](https://api.sejm.gov.pl/eli/acts/DU/2015/211/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 90 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli organowi egzekucyjnemu jest wiadomo, że zajęta wierzytelność jest zabezpieczona przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru dokumentów, składa on do sądu właściwego do prowadzenia księgi wieczystej wniosek o wpis o zajęciu wierzytelności lub o złożenie tego wniosku do zbioru dokumentów. Do wniosku organu egzekucyjnego dołącza się odpis tytułu wykonawczego.
+
+” ;
+
+### 2)
+
+w art. 110c § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Równocześnie z wysłaniem zobowiązanemu wezwania, o którym mowa w § 2, organ egzekucyjny składa do sądu właściwego do prowadzenia księgi wieczystej wniosek o wpis o wszczęciu egzekucji lub o złożenie tego wniosku do zbioru dokumentów.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece ([Dz. U. z 2013 r. poz. 707](https://api.sejm.gov.pl/eli/acts/DU/2013/707/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Księgi wieczyste zakłada i prowadzi się dla nieruchomości.
+
+” ;
+
+### 2)
+
+w art. 24:
+
+### a)
+
+po ust. 1 dodaje się ust. 11 w brzmieniu:
+
+„
+
+### 11.
+
+Dla gruntu oddanego w użytkowanie wieczyste oraz dla znajdującego się na tym gruncie budynku lub innego urządzenia, które stanowią odrębny od gruntu przedmiot własności, prowadzi się wspólną księgę wieczystą.
+
+” ,
+
+### b)
+
+uchyla się ust. 3;
+
+### 3)
+
+art. 251 otrzymuje brzmienie:
+
+„
+
+### Art. 251.
+
+### 1.
+
+Księgi wieczyste są zakładane i prowadzone w systemie teleinformatycznym.
+
+### 2.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób zakładania oraz prowadzenia ksiąg wieczystych w systemie teleinformatycznym, uwzględniając strukturę księgi wieczystej określoną w art. 25.
+
+” ;
+
+### 4)
+
+w art. 27 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Organ prowadzący kataster nieruchomości zapewni nieodpłatnie sądom prowadzącym księgi wieczyste, w celu sprawdzenia oznaczenia nieruchomości, bezpośredni dostęp do bazy danych katastru nieruchomości poprzez zintegrowany system informacji o nieruchomościach.
+
+” ;
+
+### 5)
+
+art. 361 otrzymuje brzmienie:
+
+„
+
+### Art. 361.
+
+### 1.
+
+Akta ksiąg wieczystych przechowuje się w sądzie.
+
+### 2.
+
+Akta księgi wieczystej może przeglądać, w obecności pracownika sądu, osoba mająca interes prawny oraz notariusz.
+
+### 3.
+
+Nie wydaje się dokumentów znajdujących się w aktach ksiąg wieczystych, jeżeli dokumenty te stanowią podstawę wpisu.
+
+### 4.
+
+Odpisy dokumentów znajdujących się w aktach ksiąg wieczystych wydaje się na żądanie osób mających interes prawny lub na żądanie sądu, prokuratora, notariusza, organu administracji rządowej albo jednostki samorządu terytorialnego.
+
+” ;
+
+### 6)
+
+uchyla się art. 362;
+
+### 7)
+
+art. 363 otrzymuje brzmienie:
+
+„
+
+### Art. 363.
+
+### 1.
+
+Minister Sprawiedliwości utrzymuje centralną bazę danych ksiąg wieczystych stanowiącą ogólnokrajowy zbiór ksiąg wieczystych prowadzonych w systemie teleinformatycznym.
+
+### 2.
+
+Minister Sprawiedliwości zapewnia bezpieczeństwo centralnej bazy danych ksiąg wieczystych, w szczególności ochronę przed nieuprawnionym dostępem osób trzecich, zniszczeniem oraz utratą danych.
+
+” ;
+
+### 8)
+
+w art. 364:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Centralna Informacja wydaje na wniosek odpisy ksiąg wieczystych, wyciągi z ksiąg wieczystych oraz zaświadczenia o zamknięciu ksiąg wieczystych.
+
+” ,
+
+### b)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Centralna Informacja umożliwia, za pośrednictwem systemu teleinformatycznego, przeglądanie ksiąg wieczystych.
+
+### 6.
+
+Każdy, kto zna numer księgi wieczystej, może bezpłatnie przeglądać księgę wieczystą za pośrednictwem systemu teleinformatycznego.
+
+” ,
+
+### c)
+
+ust. 16 otrzymuje brzmienie:
+
+„
+
+### 16.
+
+Centralna Informacja umożliwia organom prowadzącym kataster nieruchomości, dla nieruchomości z określonej miejscowości, gminy lub powiatu, w celu weryfikacji zgodności danych ewidencji gruntów i budynków z danymi zawartymi w księgach wieczystych bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym i drugim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.
+
+” ;
+
+### 9)
+
+uchyla się art. 581 i art. 582.
+
+### Art. 4.
+
+W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ([Dz. U. z 2014 r. poz. 164](https://api.sejm.gov.pl/eli/acts/DU/2014/164/text.html), [993](https://api.sejm.gov.pl/eli/acts/DU/2014/993/text.html) i [1585](https://api.sejm.gov.pl/eli/acts/DU/2014/1585/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 § 2-3 otrzymują brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli wniosek o wpis w księdze wieczystej, o którym mowa w art. 92 § 4, podlega opłacie sądowej, notariusz pobiera od wnioskodawcy tę opłatę oraz wskazuje we wniosku o wpis w księdze wieczystej wysokość pobranej opłaty sądowej. Notariusz uzależnia sporządzenie aktu notarialnego oraz objęcie wnioskiem o wpis w księdze wieczystej żądania dokonania w księdze wieczystej także innego wpisu związanego z czynnością notarialną, od uprzedniego uiszczenia przez wnioskodawcę należnej opłaty sądowej. Pobraną opłatę sądową notariusz przekazuje właściwemu sądowi rejonowemu.
+
+### § 21.
+
+Jeżeli wnioskodawca został zwolniony od kosztów sądowych od wniosku o wpis w księdze wieczystej, notariusz wskazuje we wniosku o wpis w księdze wieczystej, że opłata sądowa nie została pobrana i załącza prawomocne postanowienie sądu w przedmiocie zwolnienia od kosztów sądowych do dokumentów stanowiących podstawę wpisu w księdze wieczystej, które przesyła do sądu prowadzącego księgę wieczystą.
+
+### § 3.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób pobierania i uiszczania oraz sposób i termin przekazywania sądom należności, o których mowa w § 2, a także ich zwrotu oraz sposób prowadzenia ich ewidencji przez notariusza i czas jej przechowywania, uwzględniając łatwość uiszczania opłat i przekazywania ich sądom, szczegółowość ewidencji oraz konieczność zapewnienia jej trwałości.
+
+” ;
+
+### 2)
+
+po art. 37 dodaje się art. 37a w brzmieniu:
+
+„
+
+### Art. 37a.
+
+Rada izby notarialnej przekazuje niezwłocznie Krajowej Radzie Notarialnej aktualne informacje o notariuszach oraz zastępcach notarialnych. Informacja obejmuje imię i nazwisko notariusza lub zastępcy notarialnego, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.
+
+” ;
+
+### 3)
+
+po art. 41 dodaje się art. 41a w brzmieniu:
+
+„
+
+### Art. 41a.
+
+### § 1.
+
+Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych, prowadzi w systemie teleinformatycznym listę notariuszy oraz zastępców notarialnych, która zawiera imię i nazwisko, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.
+
+### § 2.
+
+Krajowa Rada Notarialna zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji notariuszy i zastępców notarialnych.
+
+### § 3.
+
+Krajowa Rada Notarialna zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w § 1, za pośrednictwem systemu teleinformatycznego.
+
+### § 4.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, o którym mowa w § 1, uwzględniając zgodność z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2014 r. poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2014/1114/text.html)) oraz zapewnienie bezpieczeństwa danych, w tym ochronę przed nieuprawnionym ujawnieniem i dostępem.
+
+” ;
+
+### 4)
+
+w art. 79 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+składa wnioski o wpis w księdze wieczystej wraz z dokumentami stanowiącymi podstawę wpisu w księdze wieczystej;
+
+” ;
+
+### 5)
+
+w art. 92:
+
+### a)
+
+§ 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Jeżeli akt notarialny zawiera przeniesienie, zmianę lub zrzeczenie się prawa ujawnionego w księdze wieczystej albo ustanowienie prawa, które może być ujawnione w księdze wieczystej bądź obejmuje czynność przenoszącą własność nieruchomości, chociażby dla tej nieruchomości nie była prowadzona księga wieczysta, notariusz sporządzający akt notarialny, nie później niż w dniu jego sporządzenia, składa wniosek o wpis w księdze wieczystej za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Na żądanie strony czynności notarialnej, wniosek zawiera żądanie dokonania w księdze wieczystej także innego wpisu związanego z czynnością notarialną.
+
+” ,
+
+### b)
+
+po § 4 dodaje się § 41 w brzmieniu:
+
+„
+
+### § 41.
+
+Złożenie wniosku o wpis w księdze wieczystej przez notariusza za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe uważa się za złożenie wniosku przez stronę czynności notarialnej.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych ([Dz. U. z 2004 r. Nr 121, poz. 1267](https://api.sejm.gov.pl/eli/acts/DU/2004/1267/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 127, poz. 858 oraz z 2015 r. poz. 211.](#gloss-0:4:)) w art. 5 dodaje się ust. 12-14 w brzmieniu:
+
+„
+
+### 12.
+
+Minister właściwy do spraw finansów publicznych prowadzi w systemie teleinformatycznym listę naczelników urzędów skarbowych, osób pełniących obowiązki naczelnika urzędu skarbowego oraz zastępców naczelników urzędów skarbowych, która zawiera imię i nazwisko, właściwy urząd skarbowy, datę powołania na stanowisko, datę odwołania ze stanowiska, informacje o zawieszeniu stosunku pracy oraz datę wygaśnięcia stosunku pracy.
+
+### 13.
+
+Minister właściwy do spraw finansów publicznych zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w ust. 12, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji naczelników urzędów skarbowych, osób pełniących obowiązki naczelnika urzędu skarbowego oraz zastępców naczelników urzędów skarbowych.
+
+### 14.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, minimalną funkcjonalność oraz warunki organizacyjno-techniczne funkcjonowania systemu teleinformatycznego, o którym mowa w ust. 12, uwzględniając zgodność z minimalnymi wymaganiami i sposobem stwierdzania zgodności oprogramowania, określonymi na podstawie ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2014 r. poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2014/1114/text.html)) oraz zapewnienie bezpieczeństwa danych, w tym ochronę przed nieuprawnionym ujawnieniem i dostępem.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych ([Dz. U. z 2011 r. Nr 127, poz. 721](https://api.sejm.gov.pl/eli/acts/DU/2011/721/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598, 877, 1198, 1457 i 1873.](#gloss-0:5:)) w art. 6c ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Od orzeczenia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji ([Dz. U. z 2011 r. Nr 231, poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2011/1376/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544, z 2013 r. poz. 829 i 1513 oraz z 2014 r. poz. 993 i 1710.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 40 dodaje się art. 40a w brzmieniu:
+
+„
+
+### Art. 40a.
+
+### 1.
+
+Komornik pobiera od wierzyciela opłatę sądową od składanego w postępowaniu egzekucyjnym wniosku o wpis w księdze wieczystej i wskazuje w tym wniosku wysokość pobranej opłaty sądowej. Komornik uzależnia złożenie wniosku o wpis w księdze wieczystej od uprzedniego uiszczenia przez wierzyciela należnej opłaty sądowej. Pobraną opłatę sądową komornik przekazuje właściwemu sądowi rejonowemu.
+
+### 2.
+
+Jeżeli wierzyciel został zwolniony od kosztów sądowych od wniosku o wpis w księdze wieczystej, komornik jest obowiązany wskazać w tym wniosku, że opłata sądowa nie została pobrana i przesłać do sądu prowadzącego księgę wieczystą z dokumentami, stanowiącymi podstawę wpisu, prawomocne postanowienie sądu w przedmiocie zwolnienia od kosztów sądowych. 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób pobierania i uiszczania oraz sposób i termin przekazywania sądom należności, o których mowa w ust. 1, a także ich zwrotu oraz sposób prowadzenia ich ewidencji przez komornika i czas jej przechowywania, uwzględniając łatwość uiszczania opłat i przekazywania ich sądom, szczegółowość ewidencji oraz konieczność zapewnienia jej trwałości.
+
+” ;
+
+### 2)
+
+w art. 85 w ust. 1 pkt 19 otrzymuje brzmienie:
+
+„
+
+### 19)
+
+współpraca z sądem prowadzącym elektroniczne postępowanie upominawcze w zakresie prowadzenia i aktualizowania listy komorników, zasad potwierdzania danych do weryfikacji podpisu elektronicznego dla komorników, umożliwiających dostęp do elektronicznych tytułów wykonawczych i ich weryfikację oraz z sądami prowadzącymi postępowania wieczystoksięgowe w zakresie identyfikacji komorników.
+
+” ;
+
+### 3)
+
+po art. 85 dodaje się art. 85a w brzmieniu:
+
+„
+
+### Art. 85a.
+
+Rada izby komorniczej przekazuje niezwłocznie Krajowej Radzie Komorniczej aktualne informacje o komornikach, zastępcach komorników oraz asesorach komorniczych. Informacja obejmuje imię i nazwisko komornika, zastępcy komornika lub asesora komorniczego, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
+
+” ;
+
+### 4)
+
+po art. 94 dodaje się art. 94a w brzmieniu:
+
+„
+
+### Art. 94a.
+
+### 1.
+
+Krajowa Rada Komornicza na podstawie informacji przekazywanych przez rady izb komorniczych prowadzi w systemie teleinformatycznym listę komorników, zastępców komorników oraz asesorów komorniczych, która zawiera imię i nazwisko, właściwą izbę komorniczą, datę i numer decyzji o powołaniu komornika lub asesora komorniczego, datę i numer decyzji o odwołaniu komornika lub asesora komorniczego, datę wygaśnięcia powołania na stanowisko komornika z mocy prawa, datę i numer zarządzenia o wyznaczeniu zastępcy komornika, oraz informacje o zawieszeniu w czynnościach zawodowych.
+
+### 2.
+
+Krajowa Rada Komornicza zapewnia sądom prowadzącym księgi wieczyste dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego w celu automatycznej weryfikacji komorników, zastępców komorników oraz asesorów komorniczych.
+
+### 3.
+
+Krajowa Rada Komornicza zapewnia Ministrowi Sprawiedliwości dostęp do listy, o której mowa w ust. 1, za pośrednictwem systemu teleinformatycznego.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym ([Dz. U. Nr 42, poz. 363](https://api.sejm.gov.pl/eli/acts/DU/2003/363/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1:
+
+### a)
+
+uchyla się pkt 2,
+
+### b)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+zadania sądów rejonowych.
+
+” ;
+
+### 2)
+
+w art. 2 uchyla się pkt 3;
+
+### 3)
+
+uchyla się art. 3-7;
+
+### 4)
+
+art. 8 otrzymuje brzmienie:
+
+„
+
+### Art. 8.
+
+### 1.
+
+Nie dokonuje się wpisów w dotychczasowej księdze wieczystej. Nie stanowi to przeszkody do złożenia wniosku o wpis.
+
+### 2.
+
+Dotychczasową księgę wieczystą można przeglądać i wydawać jej odpisy do czasu zakończenia jej migracji.
+
+” ;
+
+### 5)
+
+w art. 9 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Urządzony dalszy tom staje się dotychczasową księgą wieczystą, do której sąd z urzędu przenosi wpisy z księgi dawnej, stosując przepisy rozporządzenia Ministra Sprawiedliwości z dnia 14 lipca 1986 r. w sprawie prowadzenia ksiąg wieczystych założonych przed dniem 1 stycznia 1947 r. oraz utraty mocy prawnej niektórych takich ksiąg ([Dz. U. Nr 28, poz. 141](https://api.sejm.gov.pl/eli/acts/DU/1986/141/text.html)), z wyjątkiem § 4 pkt 5.
+
+” ;
+
+### 6)
+
+w art. 12 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jeżeli w wyniku prowadzonych czynności wyjaśniających nie doszło do określenia treści księgi wieczystej, sędzia lub referendarz sądowy niezwłocznie z urzędu podejmuje czynności zmierzające do ustalenia treści dotychczasowej księgi wieczystej, a w razie ich bezskuteczności księgę zamyka. Zamknięcie księgi wieczystej nie jest orzeczeniem i nie podlega zaskarżeniu.
+
+” ;
+
+### 7)
+
+uchyla się art. 13;
+
+### 8)
+
+w art. 15 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Z chwilą zapisania treści księgi wieczystej w centralnej bazie danych ksiąg wieczystych dotychczasowa księga wieczysta staje się częścią akt księgi wieczystej.
+
+### 2.
+
+Sąd rejonowy niezwłocznie uzupełnia treść księgi wieczystej zapisanej w centralnej bazie danych ksiąg wieczystych o wzmianki o wnioskach, sprawach wszczętych z urzędu, środkach zaskarżenia oraz skargach na orzeczenia referendarzy sądowych, które wpłynęły w okresie prowadzenia migracji.
+
+” ;
+
+### 9)
+
+uchyla się art. 17;
+
+### 10)
+
+art. 19 otrzymuje brzmienie:
+
+„
+
+### Art. 19.
+
+Jeżeli po zakończeniu migracji ksiąg wieczystych okaże się, że w sądzie rejonowym znajduje się dotychczasowa księga wieczysta, prezes sądu rejonowego niezwłocznie zarządza przeniesienie przez wydział ksiąg wieczystych treści dotychczasowej księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym.
+
+” ;
+
+### 11)
+
+uchyla się rozdział 3.
+
+### Art. 9.
+
+### 1.
+
+Do ksiąg wieczystych zamkniętych, ksiąg hipotecznych (gruntowych, wieczystych) założonych przed dniem 1 stycznia 1947 r. i ksiąg wieczystych, których treść nie została przeniesiona do struktury księgi wieczystej prowadzonej w systemie informatycznym, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+
+### 2.
+
+Z dniem wejścia w życie niniejszej ustawy księgi wieczyste, prowadzone w systemie informatycznym, stają się księgami wieczystymi prowadzonymi w systemie teleinformatycznym.
+
+### Art. 10.
+
+### 1.
+
+Sprawy wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, w których właściwość sądu została ustalona na podstawie art. 461 § 22 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, prowadzi się zgodnie z właściwością ustaloną na podstawie tego przepisu.
+
+### 2.
+
+Do spraw z zakresu ubezpieczeń społecznych z udziałem zainteresowanych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, przepisu art. 47711 § 2 zdanie czwarte, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do czasu zakończenia postępowania w danej instancji.
+
+### Art. 11.
+
+Do wniosków o wpis w księdze wieczystej nierozpoznanych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 12.
+
+Lista, o której mowa w art. 41a § 1 ustawy zmienianej w art. 4, do dnia 23 sierpnia 2016 r. obejmuje także asesorów notarialnych.
+
+### Art. 13.
+
+Ustawa wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4-14 i 16 oraz art. 10, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece, ustawę z dnia 14 lutego 1991 r. - Prawo o notariacie, ustawę z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji oraz ustawę z dnia 14 lutego 2003 r. o przenoszeniu treści księgi wieczystej do struktury księgi wieczystej prowadzonej w systemie informatycznym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2 i 4. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 830, 941 i 1289. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 183, poz. 1538 i Nr 249, poz. 2104, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 127, poz. 858 oraz z 2015 r. poz. 211. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598, 877, 1198, 1457 i 1873. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544, z 2013 r. poz. 829 i 1513 oraz z 2014 r. poz. 993 i 1710.

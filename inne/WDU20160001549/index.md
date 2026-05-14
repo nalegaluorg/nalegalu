@@ -1,0 +1,1052 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20160001549
+eli: DU/2016/1549
+publisher: DU
+year: 2016
+pos: 1549
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 września 2016 r. w sprawie szczegółowych warunków i trybu przyznawania oraz wypłaty pomocy technicznej w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1549 |
+| ISAP | WDU20160001549 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-09-20 |
+| Data wydania | 2016-09-27 |
+| Wejście w życie | 2016-10-05 |
+| Ostatnia zmiana | 2025-10-27 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/1549/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/1549) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów o zamówieniach publicznych](#part_2)
+
+- [Załącznik nr 2 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów rozporządzenia określających konkurencyjny tryb wyboru wykonawcy](#part_3)
+
+- [Załącznik nr 3 - Wskaźniki procentowe przypisane do poszczególnych rodzajów niezgodności w odniesieniu do przepisów dotyczących działań informacyjnych i reklamowych](#part_4)
+
+- [Załącznik nr 4 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów o zamówieniach publicznych w odniesieniu do postępowań o udzielenie zamówienia publicznego wszczętych do dnia 27 lipca 2016 r.](#part_5)
+
+- [Załącznik nr 5 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej spełnienia warunków określonych w § 30 ust. 1 rozporządzenia](#part_6)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 45 ust. 1 pkt 2 i ust. 4 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. poz. 349](https://api.sejm.gov.pl/eli/acts/DU/2015/349/text.html) i [1888](https://api.sejm.gov.pl/eli/acts/DU/2015/1888/text.html) oraz [z 2016 r. poz. 337](https://api.sejm.gov.pl/eli/acts/DU/2016/337/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania oraz wypłaty pomocy finansowej na realizację zadań określonych w art. 59 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 ([Dz. Urz. UE L 347 z 20.12.2013, str. 320](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1.](#gloss-0:2:)), zwanego dalej „rozporządzeniem nr 1303/2013”, oraz w art. 51 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 ([Dz. Urz. UE L 347 z 20.12.2013, str. 487](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8.](#gloss-0:3:)) , zwanego dalej „rozporządzeniem nr 1305/2013”, w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020, zwanego dalej „programem”, w tym:
+
+### 1)
+
+tryb składania wniosków o przyznanie tej pomocy, zwanej dalej „pomocą techniczną”;
+
+### 2)
+
+szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie pomocy technicznej;
+
+### 3)
+
+szczegółowe wymagania, jakim powinna odpowiadać umowa, na podstawie której jest przyznawana pomoc techniczna, zwana dalej „umową”;
+
+### 4)
+
+wysokość zmniejszeń kwot pomocy technicznej, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 ([Dz. Urz. UE L 347 z 20.12.2013, str. 549](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865.](#gloss-0:4:)) .
+
+### § 2.
+
+Pomoc techniczną przyznaje się organowi lub jednostce, realizującym zadania określone w art. 59 ust. 1 rozporządzenia nr 1303/2013 oraz w art. 51 ust. 2 rozporządzenia nr 1305/2013, zwanym dalej „podmiotami uprawnionymi”, jeżeli został im nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”.
+
+### § 3.
+
+### 1.
+
+Pomoc techniczną przyznaje się w formie refundacji kosztów kwalifikowalnych, do których zalicza się koszty:
+
+### 1)
+
+wynagrodzeń pracowników podmiotu uprawnionego oraz innych świadczeń pieniężnych przyznanych pracownikom podmiotu uprawnionego w związku z wykonywaną pracą wraz ze składkami na ubezpieczenia społeczne, płaconymi przez pracodawcę, oraz składkami na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych,
+
+### 2)
+
+świadczeń pieniężnych przyznanych pracownikowi podmiotu uprawnionego w związku z podnoszeniem jego kwalifikacji zawodowych,
+
+### 3)
+
+dostaw i usług,
+
+### 4)
+
+remontów i modernizacji pomieszczeń przeznaczonych do wykonywania obowiązków służbowych przez pracowników podmiotu uprawnionego,
+
+### 5)
+
+składek członkowskich podmiotów uprawnionych w organizacjach działających na rzecz rozwoju obszarów wiejskich,
+
+### 6)
+
+przejazdów, dojazdów środkami komunikacji miejscowej i noclegów poniesione przez:
+
+### a)
+
+członków komitetu monitorującego, o którym mowa w art. 47 rozporządzenia nr 1303/2013, organów opiniodawczo-doradczych oraz organów pomocniczych powołanych w celu wykonywania zadań określonych w art. 59 ust. 1 rozporządzenia nr 1303/2013 lub w art. 51 ust. 2 rozporządzenia nr 1305/2013, zwanych dalej „zadaniami kwalifikowalnymi”,
+
+### b)
+
+inne osoby uczestniczące w pracach komitetu i organów wymienionych w lit. a
+
+- które są niezbędne do realizacji zadań kwalifikowalnych, uzasadnione zakresem operacji i niezbędne do osiągnięcia jej celu oraz racjonalne.
+
+### 2.
+
+W przypadku operacji realizowanych w ramach dwuletnich planów operacyjnych, o których mowa w art. 55 ust. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020, zwanej dalej „ustawą”, do kosztów kwalifikowalnych zalicza się:
+
+### 1)
+
+koszty dostaw i usług,
+
+### 2)
+
+koszty podróży służbowych pracowników podmiotu uprawnionego oraz przejazdów, dojazdów środkami komunikacji miejscowej i noclegów poniesionych przez inne osoby w związku z realizacją tych operacji,
+
+### 3)
+
+koszty nagród finansowych dla laureatów konkursów,
+
+### 4)
+
+kwotę środków przekazanych przez podmiot uprawniony partnerowi krajowej sieci obszarów wiejskich, o której mowa w art. 54 ust. 1 rozporządzenia nr 1305/2013, zwanej dalej „KSOW”, z tytułu realizacji tej operacji
+
+- które są uzasadnione zakresem operacji i niezbędne do osiągnięcia jej celu oraz racjonalne.
+
+### 3.
+
+Kwota środków, o których mowa w ust. 2 pkt 4, jest kwalifikowalna, jeżeli została przeznaczona przez partnera KSOW na pokrycie kosztów, o których mowa w ust. 2 pkt 1, 2 lub 3. Do kosztów poniesionych przez partnera KSOW, na które została przeznaczona kwota środków, o których mowa w ust. 2 pkt 4, stosuje się odpowiednio przepisy rozporządzenia określające warunki kwalifikowalności kosztów ponoszonych przez podmiot uprawniony, chyba że przepisy rozporządzenia stanowią inaczej.
+
+### 4.
+
+Do kosztów kwalifikowalnych zalicza się również kwotę dotacji, o której mowa w art. 55 ust. 5 pkt 2 ustawy, jeżeli została ona przeznaczona przez fundację upoważnioną do pełnienia funkcji jednostki centralnej na pokrycie kosztów, o których mowa w ust. 1 lub ust. 2. Do kosztów poniesionych przez fundację upoważnioną do pełnienia funkcji jednostki centralnej, na które została przeznaczona kwota dotacji, o której mowa w art. 55 ust. 5 pkt 2 ustawy, stosuje się odpowiednio przepisy rozporządzenia określające warunki kwalifikowalności kosztów ponoszonych przez podmiot uprawniony.
+
+### 5.
+
+Koszty, o których mowa w ust. 1 pkt 1, są kwalifikowalne:
+
+### 1)
+
+jeżeli czas pracy pracownika podmiotu uprawnionego przeznaczony w danym miesiącu na wykonywanie obowiązków służbowych dotyczących realizowania zadań kwalifikowalnych stanowi co najmniej 50% jego czasu pracy w tym miesiącu;
+
+### 2)
+
+w części równej udziałowi czasu pracy pracownika podmiotu uprawnionego przeznaczonego w danym miesiącu na wykonywanie obowiązków, o których mowa w pkt 1, w jego czasie pracy w tym miesiącu.
+
+### 6.
+
+Spełnienia warunku określonego w ust. 5 pkt 1 oraz ustalenia udziału, o którym mowa w ust. 5 pkt 2, dokonuje się na podstawie opisu stanowiska pracy lub równoważnego dokumentu, wskazujących określony procentowo udział czasu pracy pracownika podmiotu uprawnionego przeznaczonego na wykonywanie obowiązków, o których mowa w ust. 5 pkt 1, oraz schemat pomocy technicznej, w ramach którego wykonuje te obowiązki, a w przypadku gdy wykonuje obowiązki w ramach obydwu schematów pomocy technicznej - również określony procentowo udział czasu pracy pracownika podmiotu uprawnionego przeznaczonego na wykonywanie tych obowiązków w ramach każdego z tych schematów.
+
+### 7.
+
+Koszty nagrody, premii, dodatku zadaniowego lub innego świadczenia pieniężnego o podobnym charakterze, przyznanych pracownikowi podmiotu uprawnionego w związku z wykonywaną pracą wraz ze składkami na ubezpieczenia społeczne, płaconymi przez pracodawcę, oraz składkami na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, są kwalifikowalne w części, w jakiej te świadczenia zostały przyznane za realizację zadań kwalifikowalnych. Do takich kosztów nie stosuje się ust. 5 pkt 2.
+
+### 8.
+
+Koszt świadczenia pieniężnego przyznanego pracownikowi podmiotu uprawnionego w związku z podnoszeniem jego kwalifikacji zawodowych, koszt usług nabywanych w celu podnoszenia kwalifikacji zawodowych pracownika podmiotu uprawnionego oraz koszt podróży służbowych tego pracownika są kwalifikowalne na warunkach określonych w ust. 5 i 6, z tym że:
+
+### 1)
+
+w przypadku gdy koszty te są ponoszone w celu podnoszenia kwalifikacji zawodowych tego pracownika wyłącznie w zakresie realizacji zadań kwalifikowalnych lub podróż służbowa tego pracownika dotyczy wyłącznie zadań kwalifikowalnych, są kwalifikowalne w 100%;
+
+### 2)
+
+tego przepisu nie stosuje się do kosztów, o których mowa w ust. 2 pkt 2.
+
+### 9.
+
+Koszty związane z zapewnieniem warunków pracy pracownikowi podmiotu uprawnionego, niezbędnych do wykonywania zadań kwalifikowalnych, w szczególności koszty zakupu sprzętu komputerowego, mebli, materiałów biurowych, usług telekomunikacyjnych, remontu, modernizacji oraz najmu i utrzymania pomieszczeń, są kwalifikowalne na warunkach określonych w ust. 5 i 6.
+
+### 10.
+
+Koszty, o których mowa w ust. 9, dotyczące więcej niż jednego pracownika podmiotu uprawnionego są kwalifikowalne:
+
+### 1)
+
+jeżeli czas pracy co najmniej jednego z tych pracowników przeznaczony w danym miesiącu na wykonywanie obowiązków służbowych dotyczących realizowania zadań kwalifikowalnych stanowi co najmniej 50% jego czasu pracy w tym miesiącu;
+
+### 2)
+
+w części równej udziałowi czasu pracy pracowników, którzy spełniają warunek określony w pkt 1, przeznaczonego w danym miesiącu na wykonywanie obowiązków, o których mowa w pkt 1, w ich czasie pracy w tym miesiącu.
+
+### 11.
+
+Do kosztów kwalifikowalnych nie zalicza się następujących kosztów:
+
+### 1)
+
+nagród jubileuszowych;
+
+### 2)
+
+odpraw;
+
+### 3)
+
+wynagrodzenia wypłacanego w okresie wypowiedzenia bez obowiązku świadczenia pracy;
+
+### 4)
+
+zakupu środków transportu;
+
+### 5)
+
+związanych z umową leasingu środków transportu, zakończonego przeniesieniem prawa własności tych środków transportu;
+
+### 6)
+
+zakupu alkoholu, z wyjątkiem alkoholu wpisanego na listę produktów tradycyjnych, o której mowa w art. 47 ust. 1 ustawy z dnia 17 grudnia 2004 r. o rejestracji i ochronie nazw i oznaczeń produktów rolnych i środków spożywczych oraz o produktach tradycyjnych ([Dz. U. z 2005 r. poz. 68](https://api.sejm.gov.pl/eli/acts/DU/2005/68/text.html), [z 2008 r. poz. 1056](https://api.sejm.gov.pl/eli/acts/DU/2008/1056/text.html) i [1368](https://api.sejm.gov.pl/eli/acts/DU/2008/1368/text.html) oraz [z 2016 r. poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2016/1001/text.html)), kupionego w celach promocji dziedzictwa kulturowego regionu, w którym jest wytwarzany, w związku z realizacją operacji w ramach dwuletnich planów operacyjnych, o których mowa w art. 55 ust. 2 pkt 2 ustawy;
+
+### 7)
+
+o których mowa w ust. 1 pkt 3 i 4, poniesionych na podstawie umowy cywilnoprawnej zawartej przez podmiot uprawniony z pracownikiem tego podmiotu;
+
+### 8)
+
+kursu języka obcego na poziomie A1 zgodnie z Europejskim Systemem Opisu Kształcenia Językowego;
+
+### 9)
+
+ponoszonych przez Prezesa Urzędu Zamówień Publicznych w związku z kontrolą operacji realizowanych przez Urząd Zamówień Publicznych w ramach pomocy technicznej;
+
+### 10)
+
+zakupu nieruchomości;
+
+### 11)
+
+remontów i modernizacji sal konferencyjnych.
+
+### 12.
+
+Przepisu ust. 11 pkt 7 nie stosuje się do kosztów poniesionych przez partnera KSOW, na które została przeznaczona kwota środków, o których mowa w ust. 2 pkt 4.
+
+### § 4.
+
+### 1.
+
+Pomoc techniczną przyznaje się w formie refundacji kosztów kwalifikowalnych, jeżeli są one ujęte w zaakceptowanym przez instytucję zarządzającą planie działania pomocy technicznej sporządzonym przez podmiot uprawniony na formularzu opracowanym i udostępnionym przez instytucję zarządzającą, a w przypadku operacji realizowanych w ramach dwuletnich planów operacyjnych, o których mowa w art. 55 ust. 2 pkt 2 ustawy - jeżeli są ujęte w tych planach, zaakceptowanych przez organ, o którym mowa w art. 57 ust. 1 ustawy.
+
+### 2.
+
+Instytucja zarządzająca akceptuje plan działania pomocy technicznej, jeżeli koszty zaplanowane w planie działania pomocy technicznej mieszczą się w zakresie kosztów kwalifikowalnych oraz są niezbędne do osiągnięcia celu operacji, a w przypadku gdy w przepisach wydanych na podstawie art. 41 ust. 1 ustawy został określony limit dla danego podmiotu uprawnionego lub na lata realizacji programu - jeżeli są dostępne środki na pokrycie tych kosztów w ramach tego limitu.
+
+### § 5.
+
+Pomoc techniczną przyznaje się w wysokości do 100% kosztów kwalifikowalnych.
+
+### § 6.
+
+### 1.
+
+W przypadku gdy zamówienie publiczne w rozumieniu art. 2 pkt 13 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2015 r. poz. 2164](https://api.sejm.gov.pl/eli/acts/DU/2015/2164/text.html) oraz [z 2016 r. poz. 831](https://api.sejm.gov.pl/eli/acts/DU/2016/831/text.html), [996](https://api.sejm.gov.pl/eli/acts/DU/2016/996/text.html), [1020](https://api.sejm.gov.pl/eli/acts/DU/2016/1020/text.html), [1250](https://api.sejm.gov.pl/eli/acts/DU/2016/1250/text.html) i [1265](https://api.sejm.gov.pl/eli/acts/DU/2016/1265/text.html)), zwane dalej „zamówieniem publicznym”, obejmujące koszty kwalifikowalne, zostało udzielone przed dniem złożenia wniosku o przyznanie pomocy technicznej, a koszty te zostały poniesione z naruszeniem przepisów:
+
+### 1)
+
+o zamówieniach publicznych albo
+
+### 2)
+
+rozporządzenia określających konkurencyjny tryb wyboru wykonawcy - w przypadku gdy przepisy o zamówieniach publicznych nie mają zastosowania do tego zamówienia publicznego, wartość tego zamówienia publicznego oszacowana zgodnie z przepisami o zamówieniach publicznych przekracza 20 000 zł netto i to zamówienie publiczne nie stanowi zamówienia publicznego określonego w art. 4 pkt 3 lit. e, ea, g, h oraz i, pkt 4, 7 i 13 oraz art. 4d ust. 1 pkt 1 i 2 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych
+
+- pomoc techniczna jest przyznawana w wysokości zmniejszonej o wysokość poniesionych kosztów, do których odnosi się ta niezgodność.
+
+### 2.
+
+W przypadku gdy nie jest możliwe ustalenie wysokości kosztów, do których odnosi się niezgodność, pomoc techniczna jest przyznawana w wysokości zmniejszonej o kwotę stanowiącą iloczyn kwoty pomocy technicznej, która byłaby wypłacona, gdyby nie stwierdzono tej niezgodności, oraz wskaźnika procentowego przypisanego do stwierdzonej niezgodności, a gdy stwierdzono więcej niż jedną niezgodność - najwyższego ze wskaźników przypisanych do stwierdzonych niezgodności.
+
+### 3.
+
+Wskaźniki procentowe, o których mowa w ust. 2, są określone w:
+
+### 1)
+
+załączniku nr 1 do rozporządzenia - w przypadku niezgodności dotyczącej stosowania przepisów o zamówieniach publicznych;
+
+### 2)
+
+załączniku nr 2 do rozporządzenia - w przypadku niezgodności dotyczącej stosowania przepisów rozporządzenia określających konkurencyjny tryb wyboru wykonawcy.
+
+### 4.
+
+W przypadku niezgodności, w odniesieniu do której nie określono wskaźnika procentowego, o którym mowa w ust. 2, wysokość zmniejszenia kwoty pomocy technicznej ustala się, stosując wskaźnik procentowy określony w załączniku nr 1 albo 2 do rozporządzenia, przypisany do niezgodności najbardziej podobnej do stwierdzonej niezgodności.
+
+### § 7.
+
+### 1.
+
+Uznaje się, że koszty kwalifikowalne zostały poniesione w wyniku wyboru przez podmiot uprawniony wykonawcy danego zamówienia publicznego z zachowaniem konkurencyjnego trybu jego wyboru, jeżeli:
+
+### 1)
+
+wybór tego wykonawcy nastąpił na podstawie najkorzystniejszej oferty spośród ofert:
+
+### a)
+
+otrzymanych od podmiotów niepowiązanych osobowo lub kapitałowo z podmiotem uprawnionym,
+
+### b)
+
+złożonych w terminie składania ofert określonym w zapytaniu ofertowym,
+
+### c)
+
+których treść odpowiada treści zapytania ofertowego,
+
+### d)
+
+spełniających warunki określone w zapytaniu ofertowym;
+
+### 2)
+
+koszty te zostały poniesione na podstawie umowy zawartej z wybranym wykonawcą, zgodnej z ofertą złożoną przez tego wykonawcę, a w przypadku gdy umowa została zmieniona, jeżeli możliwość zmiany tej umowy została przewidziana w zapytaniu ofertowym i zmiana ta jest zgodna z warunkami przewidzianymi w tym zapytaniu.
+
+### 2.
+
+Przez najkorzystniejszą ofertę należy rozumieć ofertę, która przedstawia najkorzystniejszy bilans ceny lub kosztu i innych kryteriów określonych przez podmiot uprawniony w zapytaniu ofertowym.
+
+### 3.
+
+Przez powiązania kapitałowe lub osobowe, o których mowa w ust. 1 pkt 1 lit. a, rozumie się wzajemne powiązania między podmiotem uprawnionym lub osobami upoważnionymi do zaciągania zobowiązań w jego imieniu w odniesieniu do danego zamówienia publicznego lub osobami wykonującymi w jego imieniu czynności związane z przygotowaniem i przeprowadzeniem postępowania w sprawie wyboru wykonawcy a wykonawcą, polegające na:
+
+### 1)
+
+uczestniczeniu jako wspólnik w spółce cywilnej lub osobowej;
+
+### 2)
+
+posiadaniu co najmniej 10% udziałów lub akcji spółki kapitałowej;
+
+### 3)
+
+pełnieniu funkcji członka organu nadzorczego lub zarządzającego, prokurenta lub pełnomocnika;
+
+### 4)
+
+pozostawaniu w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa drugiego stopnia lub powinowactwa drugiego stopnia w linii bocznej lub w stosunku przysposobienia, opieki lub kurateli;
+
+### 5)
+
+pozostawaniu z wykonawcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tego podmiotu lub tych osób.
+
+### 4.
+
+Zapytanie ofertowe zawiera co najmniej:
+
+### 1)
+
+opis przedmiotu zamówienia publicznego, który:
+
+### a)
+
+jest jednoznaczny i wyczerpujący, uwzględniający wszystkie wymagania i okoliczności, w tym termin realizacji zamówienia publicznego, mogące mieć wpływ na sporządzenie oferty,
+
+### b)
+
+nie odnosi się do określonego wyrobu lub źródła, szczególnych sposobów postępowania lub znaków towarowych, patentów, rodzajów lub specyficznego pochodzenia, chyba że takie odniesienie jest uzasadnione przedmiotem zamówienia publicznego i został określony zakres równoważności,
+
+### 2)
+
+informację o możliwości składania ofert częściowych, jeżeli przedmiot zamówienia publicznego jest podzielny i podmiot uprawniony dopuścił taką możliwość,
+
+### 3)
+
+warunki udziału w postępowaniu, które nie utrudniają uczciwej konkurencji oraz zapewniają równe traktowanie wykonawców, oraz opis sposobu dokonywania oceny spełniania tych warunków,
+
+### 4)
+
+kryteria oceny oferty, które nie utrudniają uczciwej konkurencji oraz zapewniają równe traktowanie wykonawców, oraz informację o wagach punktowych lub procentowych przypisanych do poszczególnych kryteriów oceny oferty,
+
+### 5)
+
+opis sposobu przyznawania punktów za spełnienie danego kryterium oceny oferty,
+
+### 6)
+
+wskazanie miejsca i terminu składania ofert umożliwiających przygotowanie i złożenie oferty, przy czym termin na złożenie oferty powinien wynosić nie mniej niż 7 dni, a w przypadku zamówień publicznych dotyczących remontu i modernizacji - 14 dni, licząc od dnia przesłania zapytania ofertowego
+
+- i jest upubliczniane przez przesłanie co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich, a także przez umieszczenie na stronie internetowej podmiotu uprawnionego, jeżeli posiada on taką stronę.
+
+### 5.
+
+Przed upływem terminu złożenia ofert podmiot uprawniony może zmodyfikować zapytanie ofertowe, jeżeli:
+
+### 1)
+
+zmodyfikowane zapytanie ofertowe zostanie upublicznione przed upływem terminu złożenia oferty przez przesłanie do wszystkich potencjalnych wykonawców, do których zostało przesłane zapytanie ofertowe, oraz przez przesłanie do wszystkich potencjalnych wykonawców, od których otrzymał ofertę, a także przez umieszczenie na stronie internetowej podmiotu uprawnionego, jeżeli posiada on taką stronę;
+
+### 2)
+
+w zmodyfikowanym zapytaniu ofertowym zostanie wskazany nowy termin złożenia oferty dostosowanej do tego zapytania dłuższy od pierwotnego terminu składania ofert o nie mniej niż 3 dni, a w przypadku zamówień publicznych dotyczących remontu i modernizacji - 7 dni.
+
+### 6.
+
+Informację o wyborze wykonawcy upublicznia się przez przesłanie jej wszystkim potencjalnym wykonawcom, do których zostało przesłane zapytanie ofertowe, oraz przez przesłanie wszystkim potencjalnym wykonawcom, którzy złożyli ofertę, a także przez umieszczenie na stronie internetowej podmiotu uprawnionego, jeżeli posiada on taką stronę.
+
+### 7.
+
+Z przebiegu postępowania w sprawie wyboru przez podmiot uprawniony wykonawcy zamówienia publicznego sporządza się protokół zawierający co najmniej:
+
+### 1)
+
+informację o sposobie upublicznienia zapytania ofertowego przez podmiot uprawniony;
+
+### 2)
+
+wykaz ofert, które wpłynęły w odpowiedzi na zapytanie ofertowe, wraz ze wskazaniem daty wpłynięcia oferty oraz podaniem tych danych z ofert, które stanowią odpowiedź na warunki udziału w tym postępowaniu i kryteria oceny ofert;
+
+### 3)
+
+informację w sprawie spełnienia przez oferentów warunków udziału w tym postępowaniu;
+
+### 4)
+
+opis sposobu przyznawania punktów za spełnienie danego kryterium oceny oferty;
+
+### 5)
+
+wskazanie wybranej oferty wraz z uzasadnieniem wyboru;
+
+### 6)
+
+datę sporządzenia protokołu i podpis osoby upoważnionej przez podmiot uprawniony do podejmowania czynności w jego imieniu;
+
+### 7)
+
+następujące załączniki:
+
+### a)
+
+kopie przesłanych potencjalnym wykonawcom zapytań ofertowych oraz - w przypadku modyfikacji zapytania ofertowego - kopie przesłanych zmodyfikowanych zapytań ofertowych, a także dokumenty potwierdzające ich przesłanie,
+
+### b)
+
+dokument, na którym jest utrwalona treść strony internetowej podmiotu uprawnionego, potwierdzający zamieszczenie na tej stronie zapytania ofertowego oraz - w przypadku modyfikacji zapytania ofertowego - zmodyfikowanego zapytania ofertowego, w tym dokument, na którym jest utrwalona treść strony internetowej z uwidocznionymi datą zamieszczenia i okresem, przez który zapytanie ofertowe było upublicznione,
+
+### c)
+
+złożone oferty,
+
+### d)
+
+oświadczenia podmiotu uprawnionego, każdej osoby upoważnionej do zaciągania zobowiązań w imieniu podmiotu uprawnionego w odniesieniu do danego zamówienia publicznego oraz każdej osoby wykonującej w imieniu podmiotu uprawnionego czynności związane z przygotowaniem i przeprowadzeniem postępowania w sprawie wyboru wykonawcy o braku powiązań kapitałowych i osobowych z potencjalnymi wykonawcami, którzy złożyli oferty,
+
+### e)
+
+dokumenty potwierdzające upublicznienie, zgodnie z ust. 6, informacji o wyborze wykonawcy,
+
+### f)
+
+kopię umowy zawartej z wykonawcą,
+
+### g)
+
+inne dokumenty potwierdzające przebieg tego postępowania.
+
+### 8.
+
+Przebieg postępowania w sprawie wyboru przez podmiot uprawniony wykonawcy zamówienia publicznego dokumentuje się dokumentami sporządzonymi w postaci papierowej lub elektronicznej.
+
+### § 8.
+
+W przypadku partnera KSOW będącego jednostką, o której mowa w art. 3 ust. 1 pkt 1 lub 2 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, lub związkiem tych jednostek:
+
+### 1)
+
+uznaje się, że warunek określony w § 7 ust. 1 pkt 1 lit. a jest spełniony, jeżeli czynności związane z przygotowaniem oraz przeprowadzeniem postępowania o udzielenie zamówienia publicznego zostały wykonane przez osoby niepodlegające wyłączeniu na podstawie art. 17 ust. 1 pkt 1-4 tej ustawy;
+
+### 2)
+
+protokół z przebiegu postępowania w sprawie wyboru przez partnera KSOW wykonawcy zamówienia publicznego zamiast oświadczenia, o którym mowa w § 7 ust. 7 pkt 7 lit. d, zawiera oświadczenia osób biorących udział w czynnościach związanych z przygotowaniem oraz przeprowadzeniem postępowania o udzielenie zamówienia publicznego o tym, że nie podlegają wyłączeniu na podstawie okoliczności, o których mowa w art. 17 ust. 1 pkt 1-4 tej ustawy.
+
+### § 9.
+
+### 1.
+
+W przypadku gdy koszty kwalifikowalne zostały poniesione przed dniem złożenia wniosku o przyznanie pomocy technicznej, a koszty te zostały poniesione z naruszeniem przepisów dotyczących działań informacyjnych i reklamowych określonych w rozporządzeniu wykonawczym Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającym zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) ([Dz. Urz. UE L 227 z 31.07.2014, str. 18](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33.](#gloss-0:5:)) , zwanym dalej „rozporządzeniem nr 808/2014”, pomoc techniczna jest przyznawana w wysokości zmniejszonej o wysokość poniesionych kosztów, do których odnosi się ta niezgodność.
+
+### 2.
+
+W przypadku gdy nie jest możliwe ustalenie wysokości kosztów, do których odnosi się niezgodność, pomoc techniczna jest przyznawana w wysokości zmniejszonej o kwotę stanowiącą iloczyn kwoty pomocy technicznej, która byłaby wypłacona, gdyby nie stwierdzono tej niezgodności, oraz wskaźnika procentowego przypisanego do stwierdzonej niezgodności, a gdy stwierdzono więcej niż jedną niezgodność - o kwotę stanowiącą 1% kwoty pomocy technicznej.
+
+### 3.
+
+Wskaźniki procentowe, o których mowa w ust. 2, są określone w załączniku nr 3 do rozporządzenia.
+
+### 4.
+
+W przypadku niezgodności, w odniesieniu do której nie określono wskaźnika procentowego, o którym mowa w ust. 2, wysokość zmniejszenia kwoty pomocy technicznej ustala się, stosując wskaźnik procentowy określony w załączniku nr 3 do rozporządzenia, przypisany do niezgodności najbardziej podobnej do stwierdzonej niezgodności.
+
+### § 10.
+
+W przypadku gdy tych samych kosztów kwalifikowalnych dotyczy niezgodność w zakresie stosowania przepisów dotyczących działań informacyjnych i reklamowych określonych w rozporządzeniu nr 808/2014 oraz niezgodność w zakresie stosowania przepisów:
+
+### 1)
+
+o zamówieniach publicznych albo
+
+### 2)
+
+rozporządzenia określających konkurencyjny tryb wyboru wykonawcy
+
+- pomoc techniczna jest przyznawana w wysokości zmniejszonej o najwyższą z kwot zmniejszeń ustalonych w odniesieniu do stwierdzonych niezgodności.
+
+### § 11.
+
+W przypadku gdy wysokość kosztów kwalifikowalnych ujętych w zestawieniu rzeczowo-finansowym operacji przekracza wartość rynkową tych kosztów ustaloną w wyniku oceny ich racjonalności, przy ustalaniu wysokości pomocy technicznej uwzględnia się wartość rynkową tych kosztów.
+
+### § 12.
+
+### 1.
+
+Wniosek o przyznanie pomocy technicznej składa się bezpośrednio w Centrali Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, albo przesyłką rejestrowaną w polskiej placówce operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2016 r. poz. 1113](https://api.sejm.gov.pl/eli/acts/DU/2016/1113/text.html) i [1250](https://api.sejm.gov.pl/eli/acts/DU/2016/1250/text.html)).
+
+### 2.
+
+W przypadku złożenia wniosku o przyznanie pomocy technicznej bezpośrednio w Centrali Agencji, z chwilą złożenia wniosku Agencja wydaje potwierdzenie jego złożenia, zawierające datę wpływu, opatrzone pieczęcią Agencji oraz podpisane przez osobę przyjmującą wniosek.
+
+### 3.
+
+Jeżeli podmiotem uprawnionym jest Agencja, wniosek o przyznanie pomocy technicznej jest przekazywany ministrowi właściwemu do spraw rozwoju wsi, zwanemu dalej „Ministrem”.
+
+### § 13.
+
+### 1.
+
+Wniosek o przyznanie pomocy technicznej zawiera dane niezbędne do jej przyznania, w szczególności:
+
+### 1)
+
+numer identyfikacyjny podmiotu uprawnionego;
+
+### 2)
+
+nazwę, siedzibę i adres podmiotu uprawnionego;
+
+### 3)
+
+opis operacji, w tym określenie miejsca i terminu jej realizacji, celów, zakresu i kosztów, a w przypadku gdy operacja jest podzielona na etapy - również określenie liczby etapów;
+
+### 4)
+
+uzasadnienie potrzeby realizacji operacji, w tym wykazanie, że jest ona niezbędna do realizacji zadań kwalifikowalnych;
+
+### 5)
+
+informację o załącznikach dołączonych do wniosku.
+
+### 2.
+
+Do wniosku o przyznanie pomocy technicznej dołącza się następujące dokumenty:
+
+### 1)
+
+zestawienie rzeczowo-finansowe operacji;
+
+### 2)
+
+dokument potwierdzający upoważnienie osoby, która podpisała wniosek, do reprezentowania podmiotu uprawnionego ubiegającego się o przyznanie pomocy technicznej;
+
+### 3)
+
+potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika podmiotu uprawnionego kopię opisu stanowiska pracy lub równoważnego dokumentu, wskazujących określony procentowo udział czasu pracy pracownika podmiotu uprawnionego przeznaczonego na wykonywanie obowiązków, o których mowa w § 3 ust. 5 pkt 1 - w przypadku operacji dotyczącej refundacji kosztów, o których mowa w § 3 ust. 1 pkt 1, lub kosztów, które są kwalifikowalne na warunkach określonych w § 3 ust. 5 albo ust. 10;
+
+### 4)
+
+formularz wniosku o przyznanie pomocy technicznej wypełniony danymi, które są zawarte w składanym wniosku, zapisany na informatycznym nośniku danych w formacie umożliwiającym edycję tekstu;
+
+### 5)
+
+kopię dokumentacji z postępowania o udzielenie zamówienia publicznego przeprowadzonego w trybie wynikającym z przepisów o zamówieniach publicznych, w tym postępowań unieważnionych, lub z postępowania przeprowadzonego w konkurencyjnym trybie wyboru wykonawcy - w przypadku gdy takie postępowanie zostało zakończone przed dniem złożenia wniosku o przyznanie pomocy technicznej;
+
+### 6)
+
+dokument zawierający szczegółowe uzasadnienie powodów przyznania nagrody, premii, dodatku zadaniowego lub innego świadczenia pieniężnego o podobnym charakterze, przyznanych danemu pracownikowi podmiotu uprawnionego w związku z wykonywaniem pracy oraz ich wysokości;
+
+### 7)
+
+materiały dokumentujące przeprowadzenie działań informacyjnych i reklamowych - w przypadku gdy zostały przeprowadzone;
+
+### 8)
+
+inne dokumenty niezbędne do przyznania pomocy technicznej wymienione w formularzu tego wniosku.
+
+### 3.
+
+W przypadku operacji realizowanych w ramach dwuletnich planów operacyjnych, o których mowa w art. 55 ust. 2 pkt 2 ustawy, do wniosku o przyznanie pomocy technicznej dołącza się również kopię umowy na realizację operacji zawartej przez podmiot uprawniony z partnerem KSOW.
+
+### 4.
+
+W przypadku ubiegania się o przyznanie pomocy technicznej w odniesieniu do kosztów, o których mowa w § 3 ust. 4, do wniosku o przyznanie pomocy technicznej dołącza się również kopię umowy, na podstawie której została udzielona dotacja, o której mowa w art. 55 ust. 5 pkt 2 ustawy.
+
+### 5.
+
+W przypadku gdy od czasu złożenia poprzednich wniosków o przyznanie pomocy technicznej dane zawarte w dokumentach dołączonych do tych wniosków nie uległy zmianie, podmiot uprawniony zamiast tych dokumentów do wniosku o przyznanie pomocy technicznej może dołączyć oświadczenie, że dane zawarte w tych dokumentach nie uległy zmianie, ze wskazaniem nazwy tych dokumentów oraz numeru i daty wniosku o przyznanie pomocy technicznej, do którego zostały dołączone.
+
+### § 14.
+
+### 1.
+
+Jeżeli wniosek o przyznanie pomocy technicznej nie został wypełniony poprawnie lub nie dołączono do niego wymaganych dokumentów, Agencja wzywa podmiot uprawniony, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli zachodzą niebudzące wątpliwości przesłanki nieprzyznania pomocy technicznej.
+
+### 3.
+
+Jeżeli podmiot uprawniony, pomimo wezwania, nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie ten podmiot, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia ponownego wezwania.
+
+### 4.
+
+Jeżeli podmiot uprawniony, pomimo ponownego wezwania, nie usunął wszystkich braków w wyznaczonym terminie, Agencja nie przyznaje pomocy technicznej, o czym informuje ten podmiot, w formie pisemnej, z podaniem przyczyn odmowy przyznania pomocy technicznej.
+
+### 5.
+
+Złożony wniosek o przyznanie pomocy technicznej nie może być zmieniany przez podmiot uprawniony, z wyłączeniem:
+
+### 1)
+
+zmian wynikających z wezwań Agencji lub
+
+### 2)
+
+jednej zmiany, w tym również w zakresie zestawienia rzeczowo-finansowego operacji, jeżeli zmiana ta nie spowoduje zmiany celów operacji wskazanych we wniosku o przyznanie pomocy technicznej oraz zwiększenia kwoty tej pomocy.
+
+### 6.
+
+Do zmienionego wniosku, o którym mowa w ust. 5, stosuje się odpowiednio przepisy ust. 1-4.
+
+### § 15.
+
+### 1.
+
+Pomoc techniczna przysługuje według kolejności złożenia wniosków o przyznanie tej pomocy.
+
+### 2.
+
+Wniosek o przyznanie pomocy technicznej rozpatruje się w terminie 70 dni od dnia jego złożenia, z tym że w przypadku dokonania zmiany, o której mowa w § 14 ust. 5 pkt 2, termin ten liczy się od dnia jej dokonania.
+
+### 3.
+
+W przypadku nierozpatrzenia wniosku w terminie, o którym mowa w ust. 2, Agencja zawiadamia podmiot uprawniony, w formie pisemnej, o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, który nie może być jednak dłuższy niż 60 dni.
+
+### § 16.
+
+Agencja, na uzasadnioną prośbę podmiotu uprawnionego, może wyrazić zgodę na przedłużenie terminu wykonania przez ten podmiot określonych czynności w toku postępowania w sprawie o przyznanie pomocy technicznej, jednak nie więcej niż o 21 dni od dnia doręczenia zgody Agencji.
+
+### § 17.
+
+### 1.
+
+W razie uchybienia terminu wykonania przez podmiot uprawniony określonych czynności w toku postępowania w sprawie o przyznanie pomocy technicznej Agencja, na prośbę tego podmiotu, przywraca termin wykonania tych czynności, jeżeli podmiot:
+
+### 1)
+
+wniósł prośbę w terminie 14 dni od dnia ustania przyczyny uchybienia;
+
+### 2)
+
+jednocześnie z wniesieniem prośby o przywrócenie terminu dopełnił czynności, dla której termin był określony;
+
+### 3)
+
+uprawdopodobnił, że uchybienie terminu nastąpiło bez jego winy.
+
+### 2.
+
+Przywrócenie terminu do złożenia prośby o przywrócenie terminu jest niedopuszczalne.
+
+### 3.
+
+W przypadku gdy przywrócenie terminu wykonania przez podmiot uprawniony określonych czynności w toku postępowania w sprawie o przyznanie pomocy technicznej nastąpiło po zakończeniu tego postępowania, do ustalenia kolejności, w jakiej przysługuje pomoc techniczna, przyjmuje się, że wniosek o przyznanie tej pomocy został złożony w dniu przywrócenia terminu.
+
+### § 18.
+
+### 1.
+
+Wezwanie podmiotu uprawnionego do wykonania określonych czynności w toku postępowania w sprawie o przyznanie pomocy technicznej wstrzymuje bieg terminu rozpatrywania wniosku o przyznanie tej pomocy do czasu wykonania przez ten podmiot tych czynności.
+
+### 2.
+
+Jeżeli w trakcie rozpatrywania wniosku o przyznanie pomocy technicznej niezbędne jest uzyskanie dodatkowych wyjaśnień lub opinii innego podmiotu lub zajdą nowe okoliczności budzące wątpliwości co do możliwości przyznania tej pomocy, termin rozpatrywania wniosku o przyznanie pomocy technicznej wydłuża się o czas niezbędny do uzyskania tych wyjaśnień lub opinii, o czym zawiadamia się na piśmie podmiot uprawniony.
+
+### § 19.
+
+### 1.
+
+W przypadku pozytywnego rozpatrzenia wniosku o przyznanie pomocy technicznej Agencja niezwłocznie przesyła podmiotowi uprawnionemu zawiadomienie o wysokości przyznanej pomocy technicznej.
+
+### 2.
+
+Agencja, w terminie nie dłuższym niż 21 dni od wysłania zawiadomienia, o którym mowa w ust. 1, przesyła podmiotowi uprawnionemu projekt umowy i wzywa go, w formie pisemnej, do zawarcia umowy, wyznaczając jednocześnie termin zawarcia tej umowy, który nie może być dłuższy niż 21 dni od dnia doręczenia wezwania.
+
+### 3.
+
+Umowę zawiera się w Centrali Agencji.
+
+### 4.
+
+Umowę można zawrzeć również przez odesłanie Agencji podpisanego przez podmiot uprawniony projektu umowy.
+
+### 5.
+
+W wezwaniu, o którym mowa w ust. 2, wyznacza się również termin odesłania Agencji podpisanego projektu umowy na wypadek skorzystania przez podmiot uprawniony z uprawnienia określonego w ust. 4.
+
+### 6.
+
+Jeżeli w wyznaczonym terminie podmiot uprawniony nie zawarł umowy albo nie odesłał Agencji podpisanego projektu umowy, Agencja nie przyznaje pomocy technicznej i informuje ten podmiot, w formie pisemnej, o odmowie jej przyznania z podaniem przyczyn odmowy, chyba że ten podmiot zawrze umowę albo odeśle Agencji podpisany projekt umowy w innym terminie, który:
+
+### 1)
+
+został uzgodniony z Agencją przed upływem wyznaczonego terminu;
+
+### 2)
+
+nie może być dłuższy niż 21 dni od dnia, w którym upłynął uprzednio wyznaczony termin, o którym mowa w ust. 2.
+
+### § 20.
+
+Do przyznawania pomocy technicznej przez Ministra stosuje się odpowiednio przepisy § 14-17 i § 19, przy czym umowę zawiera się w urzędzie obsługującym Ministra.
+
+### § 21.
+
+### 1.
+
+Poza postanowieniami określonymi w art. 36 ust. 1 ustawy umowa powinna zawierać inne postanowienia dotyczące realizacji operacji, w szczególności:
+
+### 1)
+
+zobowiązania beneficjenta dotyczące:
+
+### a)
+
+osiągnięcia celu operacji nie później niż do dnia złożenia wniosku o płatność końcową,
+
+### b)
+
+ograniczeń lub warunków w zakresie przenoszenia własności lub posiadania rzeczy nabytych w ramach realizacji operacji lub sposobu ich wykorzystywania przez okres realizacji operacji oraz przez 5 lat od dnia dokonania przez Agencję płatności końcowej, a w przypadku pomieszczeń wyremontowanych lub zmodernizowanych w ramach operacji - ich wykorzystywanie przez pracowników podmiotu uprawnionego spełniających warunek, o którym mowa w § 3 ust. 5 pkt 1 oraz ust. 10 pkt 1, co najmniej do dnia 31 grudnia 2023 r.,
+
+### c)
+
+przechowywania dokumentów związanych z przyznaną pomocą techniczną, w tym kopii wniosku o przyznanie tej pomocy i wniosku o płatność, przez okres realizacji operacji oraz przez 5 lat od dnia dokonania przez Agencję płatności końcowej,
+
+### d)
+
+umożliwienia przeprowadzania kontroli związanych z przyznaną pomocą techniczną w okresie realizacji operacji oraz przez 5 lat od dnia dokonania przez Agencję płatności końcowej,
+
+### e)
+
+prowadzenia oddzielnego systemu rachunkowości albo korzystania z odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c ppkt i rozporządzenia nr 1305/2013, przez prowadzenie ksiąg rachunkowych albo przez prowadzenie zestawienia faktur lub równoważnych dokumentów księgowych na formularzu opracowanym i udostępnionym przez Agencję, jeżeli na podstawie odrębnych przepisów beneficjent nie jest obowiązany do prowadzenia ksiąg rachunkowych;
+
+### 2)
+
+tryb postępowania beneficjenta i Agencji w razie wystąpienia okoliczności siły wyższej lub wyjątkowych okoliczności, w przypadku wystąpienia których nie jest wymagany zwrot pomocy.
+
+### 2.
+
+Przez płatność końcową rozumie się płatność dokonywaną po zrealizowaniu całej operacji.
+
+### § 22.
+
+### 1.
+
+Środki finansowe z tytułu pomocy technicznej są wypłacane, jeżeli beneficjent:
+
+### 1)
+
+zrealizował operację lub jej etap, w tym poniósł związane z tym koszty, zgodnie z warunkami określonymi w rozporządzeniu oraz w umowie;
+
+### 2)
+
+zrealizował lub realizuje zobowiązania określone w umowie;
+
+### 3)
+
+udokumentował zrealizowanie operacji lub jej etapu, w tym poniesienie kosztów kwalifikowalnych.
+
+### 2.
+
+Koszty kwalifikowalne podlegają refundacji w pełnej wysokości, jeżeli zostały:
+
+### 1)
+
+poniesione:
+
+### a)
+
+nie wcześniej niż 18 miesięcy przed dniem złożenia wniosku o przyznanie pomocy technicznej dotyczącego tych kosztów,
+
+### b)
+
+zgodnie z przepisami:
+
+- - o zamówieniach publicznych albo
+
+- - rozporządzenia określającymi konkurencyjny tryb wyboru wykonawcy - w przypadku gdy przepisy o zamówieniach publicznych nie mają zastosowania do tego zamówienia publicznego, wartość tego zamówienia publicznego oszacowana zgodnie z przepisami o zamówieniach publicznych przekracza 20 000 zł netto i to zamówienie publiczne nie stanowi zamówienia publicznego określonego w art. 4 pkt 3 lit. e, ea, g, h oraz i, pkt 4, 7 i 13 oraz art. 4d ust. 1 pkt 1 i 2 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych,
+
+### c)
+
+zgodnie z przepisami dotyczącymi prowadzenia działań informacyjnych i reklamowych określonymi w rozporządzeniu nr 808/2014;
+
+### 2)
+
+uwzględnione w oddzielnym systemie rachunkowości albo do ich identyfikacji wykorzystano odpowiedni kod rachunkowy, o których mowa w art. 66 ust. 1 lit. c ppkt i rozporządzenia nr 1305/2013.
+
+### 3.
+
+Do ustalania wysokości kosztów kwalifikowalnych podlegających refundacji stosuje się odpowiednio przepisy § 6-10.
+
+### 4.
+
+Przepisów ust. 2 pkt 1 lit. b i c nie stosuje się w przypadku, gdy zgodność z przepisami wskazanymi w ust. 2 pkt 1 lit. b i c w odniesieniu do danych kosztów kwalifikowalnych została ustalona na etapie przyznawania pomocy technicznej.
+
+### 5.
+
+W przypadku gdy zdarzenie powodujące poniesienie kosztów kwalifikowalnych nie zostało uwzględnione w oddzielnym systemie rachunkowości albo do jego identyfikacji nie wykorzystano odpowiedniego kodu rachunkowego, o których mowa w art. 66 ust. 1 lit. c ppkt i rozporządzenia 1305/2013, koszty te podlegają refundacji w wysokości ustalonej na podstawie ust. 2, pomniejszonej o 10%.
+
+### § 23.
+
+### 1.
+
+Do wniosku o płatność dołącza się dokumenty niezbędne do wypłaty środków finansowych z tytułu pomocy technicznej, potwierdzające spełnienie warunków wypłaty tej pomocy, w szczególności:
+
+### 1)
+
+potwierdzone za zgodność z oryginałem przez upoważnionego pracownika beneficjenta kopie:
+
+### a)
+
+faktur lub dokumentów księgowych o równoważnej wartości dowodowej, wraz z dowodami ich zapłaty w całości,
+
+### b)
+
+dokumentów potwierdzających odbiór lub wykonanie prac;
+
+### 2)
+
+zestawienie rzeczowo-finansowe operacji;
+
+### 3)
+
+sprawozdanie z realizacji operacji lub jej etapu;
+
+### 4)
+
+formularz wniosku o płatność wypełniony danymi, które są zawarte w składanym wniosku, zapisany na informatycznym nośniku danych w formacie umożliwiającym edycję tekstu;
+
+### 5)
+
+kopię dokumentacji postępowania o udzielenie zamówienia publicznego przeprowadzonego w trybie wynikającym z przepisów o zamówieniach publicznych, w tym postępowań unieważnionych, lub postępowania przeprowadzonego w konkurencyjnym trybie wyboru wykonawcy - w przypadku gdy postępowanie zostało zakończone nie wcześniej niż w dniu złożenia wniosku o przyznanie pomocy technicznej;
+
+### 6)
+
+materiały dokumentujące przeprowadzenie działań informacyjnych i reklamowych - w przypadku gdy zostały przeprowadzone po złożeniu wniosku o przyznanie pomocy technicznej.
+
+### 2.
+
+W przypadku ubiegania się o refundację kwoty środków, o których mowa w § 3 ust. 2 pkt 4, do wniosku o płatność dołącza się również rozliczenie końcowe operacji zrealizowanej przez partnera KSOW i dokumenty, na podstawie których dokonano jej rozliczenia.
+
+### 3.
+
+W przypadku ubiegania się o refundację kosztów, o których mowa w § 3 ust. 4, do wniosku o płatność dołącza się również rozliczenie końcowe dotacji, o której mowa w art. 55 ust. 5 pkt 2 ustawy, i dokumenty, na podstawie których dokonano jej rozliczenia.
+
+### 4.
+
+Do potwierdzenia złożenia wniosku o płatność stosuje się odpowiednio przepis § 12 ust. 2.
+
+### § 24.
+
+### 1.
+
+Jeżeli wniosek o płatność nie został wypełniony poprawnie lub nie dołączono do niego wymaganych dokumentów, Agencja wzywa beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia wezwania.
+
+### 2.
+
+Jeżeli beneficjent, pomimo wezwania, nie usunął braków w wyznaczonym terminie, Agencja wzywa ponownie beneficjenta, w formie pisemnej, do usunięcia braków w terminie 21 dni od dnia doręczenia ponownego wezwania.
+
+### 3.
+
+Jeżeli beneficjent, pomimo ponownego wezwania, nie usunął wszystkich braków, Agencja rozpatruje wniosek o płatność w takim zakresie, w jakim został on wypełniony, oraz na podstawie dołączonych i poprawnie sporządzonych dokumentów.
+
+### 4.
+
+Agencja dokonuje wypłaty pomocy technicznej niezwłocznie po pozytywnym rozpatrzeniu wniosku o płatność, lecz nie później niż w terminie 3 miesięcy od dnia złożenia tego wniosku.
+
+### 5.
+
+Do trybu rozpatrywania wniosku o płatność stosuje się odpowiednio przepisy § 16-18.
+
+### § 25.
+
+### 1.
+
+Obliczania i oznaczania terminów związanych z wykonywaniem czynności w toku postępowania w sprawie o przyznanie pomocy technicznej i o wypłatę środków finansowych z tytułu tej pomocy dokonuje się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2016 r. poz. 380](https://api.sejm.gov.pl/eli/acts/DU/2016/380/text.html) i [585](https://api.sejm.gov.pl/eli/acts/DU/2016/585/text.html)) dotyczącymi terminów.
+
+### 2.
+
+Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało nadane przesyłką rejestrowaną w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe.
+
+### § 26.
+
+### 1.
+
+Prezes Agencji poda do publicznej wiadomości, na stronie internetowej Agencji, informację o możliwości składania wniosków o przyznanie pomocy technicznej.
+
+### 2.
+
+Wnioski o przyznanie pomocy technicznej składa się od następnego dnia po dniu, w którym została podana do publicznej wiadomości informacja, o której mowa w ust. 1.
+
+### 3.
+
+Agencja udostępni formularz wniosku o przyznanie pomocy technicznej nie później niż w dniu podania do publicznej wiadomości informacji, o której mowa w ust. 1.
+
+### § 27.
+
+### 1.
+
+Koszty, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 8 i 9, poniesione przed dniem wejścia w życie rozporządzenia są kwalifikowalne mimo niespełnienia warunku, o którym mowa w § 3 ust. 5 pkt 1.
+
+### 2.
+
+Ustalenia udziału, o którym mowa w § 3 ust. 5 pkt 2, w przypadku kosztów, o których mowa w § 3 ust. 1 pkt 1 oraz ust. 8 i 9, poniesionych przed dniem wejścia w życie rozporządzenia, dokonuje się na podstawie:
+
+### 1)
+
+dokumentu:
+
+### a)
+
+wskazującego realizowane zadania i procentowy udział czasu pracy pracownika podmiotu uprawnionego przeznaczonego na wykonywanie obowiązków służbowych dotyczących realizowania zadań kwalifikowalnych oraz schemat pomocy technicznej, w ramach którego wykonuje te obowiązki, a w przypadku gdy wykonuje obowiązki w ramach obydwu schematów pomocy technicznej - również określony procentowo udział czasu pracy pracownika podmiotu uprawnionego przeznaczonego na wykonywanie tych obowiązków w ramach każdego z tych schematów,
+
+### b)
+
+sporządzonego przez podmiot uprawniony na formularzu udostępnionym przez Agencję albo
+
+### 2)
+
+opisu stanowiska pracy lub równoważnego dokumentu, sporządzonych przez podmiot uprawniony przed dniem wejścia w życie rozporządzenia, jeżeli zawierają informacje wymienione w pkt 1 lit. a.
+
+### § 28.
+
+Koszty kwalifikowalne poniesione przed dniem 1 stycznia 2017 r. podlegają refundacji, mimo że nie są ujęte w planie działania, o którym mowa w § 4 ust. 1.
+
+### § 29.
+
+Wskaźniki procentowe, o których mowa w § 6 ust. 2, w przypadku kosztów kwalifikowalnych objętych postępowaniem o udzielenie zamówienia publicznego wszczętym do dnia 27 lipca 2016 r., są określone w załączniku nr 4 do rozporządzenia.
+
+### § 30.
+
+### 1.
+
+W przypadku gdy zamówienie publiczne, o którym mowa w § 6 ust. 1 pkt 2, zostało udzielone przed dniem wejścia w życie rozporządzenia, pomoc techniczna jest przyznawana w pełnej wysokości, mimo że koszty objęte tym zamówieniem publicznym zostały poniesione bez zastosowania przepisów rozporządzenia określających konkurencyjny tryb wyboru wykonawcy, jeżeli:
+
+### 1)
+
+podmiot uprawniony upublicznił zapytanie ofertowe przez przesłanie co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich, lub przez umieszczenie na stronie internetowej podmiotu uprawnionego;
+
+### 2)
+
+wybór tego wykonawcy nastąpił na podstawie najkorzystniejszej oferty spośród ofert otrzymanych w odpowiedzi na zapytanie ofertowe upublicznione przez podmiot uprawniony;
+
+### 3)
+
+koszty te zostały poniesione na podstawie umowy zawartej z wybranym wykonawcą, zgodnej z ofertą złożoną przez tego wykonawcę, a w przypadku gdy umowa została zmieniona, jeżeli możliwość zmiany tej umowy została przewidziana w zapytaniu ofertowym i zmiana ta jest zgodna z warunkami przewidzianymi w tym zapytaniu;
+
+### 4)
+
+podmiot uprawniony posiada dokumentację z przeprowadzonego postępowania, w tym:
+
+### a)
+
+zapytanie ofertowe,
+
+### b)
+
+informację o sposobie upublicznienia zapytania ofertowego,
+
+### c)
+
+otrzymane oferty,
+
+### d)
+
+wskazanie wybranej oferty wraz z uzasadnieniem wyboru.
+
+### 2.
+
+Przez najkorzystniejszą ofertę należy rozumieć ofertę, która przedstawia najkorzystniejszy bilans ceny lub kosztu i innych kryteriów określonych przez podmiot uprawniony w zapytaniu ofertowym, a w przypadku gdy podmiot uprawniony nie określił w zapytaniu ofertowym innych niż cena lub koszt kryteriów - z najniższą ceną lub kosztem.
+
+### 3.
+
+W przypadku stwierdzenia niezgodności polegającej na poniesieniu kosztów z naruszeniem warunków określonych w ust. 1 pomoc techniczna jest przyznawana w wysokości zmniejszonej o wysokość poniesionych kosztów, do których odnosi się ta niezgodność.
+
+### 4.
+
+W przypadku gdy nie jest możliwe ustalenie wysokości kosztów, do których odnosi się niezgodność, pomoc techniczna jest przyznawana w wysokości zmniejszonej o kwotę stanowiącą iloczyn kwoty pomocy, która byłaby przyznana, gdyby nie stwierdzono tej niezgodności, oraz wskaźnika procentowego określonego w załączniku nr 5 do rozporządzenia, przypisanego do stwierdzonej niezgodności, a gdy stwierdzono więcej niż jedną niezgodność - najwyższego ze wskaźników przypisanych do stwierdzonych niezgodności.
+
+### 5.
+
+W przypadku niezgodności, w odniesieniu do której nie określono wskaźnika procentowego, o którym mowa w ust. 4, wysokość zmniejszenia kwoty pomocy technicznej ustala się, stosując wskaźnik procentowy określony w załączniku nr 5 do rozporządzenia, przypisany do niezgodności najbardziej podobnej do stwierdzonej niezgodności.
+
+### § 31.
+
+### 1.
+
+Koszty kwalifikowalne objęte zamówieniem publicznym, o którym mowa w § 22 ust. 2 pkt 1 lit. b tiret drugie, poniesione przed dniem wejścia w życie rozporządzenia podlegają refundacji w pełnej wysokości, mimo że koszty objęte tym zamówieniem publicznym zostały poniesione bez zastosowania przepisów rozporządzenia określających konkurencyjny tryb wyboru wykonawcy, jeżeli zostały spełnione warunki określone w § 30 ust. 1 i 2.
+
+### 2.
+
+Do ustalania wysokości kosztów kwalifikowalnych podlegających refundacji stosuje się odpowiednio przepisy § 30 ust. 3-5.
+
+### 3.
+
+Przepisów ust. 1 i 2 nie stosuje się w przypadku, gdy spełnienie warunków określonych w § 30 ust. 1 i 2 w odniesieniu do danych kosztów kwalifikowalnych zostało ustalone na etapie przyznawania pomocy technicznej.
+
+### § 32.
+
+Koszty kwalifikowalne poniesione przed dniem wejścia w życie rozporządzenia podlegają refundacji w pełnej wysokości, mimo niespełnienia warunku, o którym mowa w § 22 ust. 2 pkt 1 lit. a, jeżeli wniosek o przyznanie pomocy technicznej dotyczący tych kosztów zostanie złożony nie później niż w dniu 31 marca 2017 r.
+
+### § 33.
+
+Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rozwój wsi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 1. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865, Dz. Urz. UE L 280 z 24.09.2014, str. 1, Dz. Urz. UE L 367 z 23.12.2014, str. 16, Dz. Urz. UE L 127 z 22.05.2015, str. 1 i Dz. Urz. UE L 28 z 04.02.2016, str. 8. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 347 z 20.12.2013, str. 865. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 115 z 29.04.2016, str. 33.
+
+## Załącznik nr 1 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów o zamówieniach publicznych
+
+Lp. Rodzaj niezgodności Wskaźnik procentowy Opis niezgodności 1 Niedopełnienie obowiązku odpowiedniego ogłoszenia1) 100% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164 oraz z 2016 r. poz. 831, 996, 1020, 1250 i 1265), zwanej dalej „Pzp”, przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, zwanemu dalej „UPUE”, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych, zwanym dalej „BZP”, i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 3 w związku z art. 48 ust.l Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 3 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 3 w związku z art. 60c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Konkurs - naruszenie art. 115 ust. 4 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o konkursie UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o konkursie w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Partnerstwo innowacyjne - naruszenie art. 40 ust. 3 w związku z art.73c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.7. Pkt 1-6 stosuje się odpowiednio do wymienionych w tych punktach przypadków naruszeń przywołanych przepisów w powiązaniu z naruszeniem art. 32 ust. 2 i 4 Pzp, tj. przez zaniżenie wartości zamówienia lub wybranie sposobu obliczania wartości zamówienia, które powodują, że wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8Pzp. 2 Niedopełnienie obowiązku odpowiedniego ogłoszenia1) 25% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 3 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 3 w związku z art. 48 ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 3 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 3 w związku z art. 60c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Konkurs - naruszenie art. 115 ust. 4 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o konkursie UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o konkursie w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Partnerstwo innowacyjne - naruszenie art. 40 ust. 3 w związku z art.73c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.7. Pkt 1-6 stosuje się odpowiednio do wymienionych w tych punktach przypadków naruszeń przywołanych przepisów w powiązaniu z naruszeniem art. 32 ust. 2 i 4 Pzp, tj. przez zaniżenie wartości zamówienia lub wybranie sposobu obliczania wartości zamówienia, które powodują, że wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8Pzp. 3 Niedopełnienie obowiązku odpowiedniego ogłoszenia 2) 100% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 2 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 2 w związku z art. 48 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 2 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 2 w związku art. 60c ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Licytacja elektroniczna - naruszenie art. 75 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Konkurs - naruszenie art. 115 ust. 3 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o konkursie w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.7. Partnerstwo innowacyjne - naruszenie art. 40 ust. 2 w związku z art. 73c ust. 1 Pzp, przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim. 4 Niedopełnienie obowiązku odpowiedniego ogłoszenia 2) 25% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 2 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 2 w związku z art. 48 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 2 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 2 w związku art. 60c ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Licytacja elektroniczna - naruszenie art. 75 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Konkurs - naruszenie art. 115 ust. 3 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o konkursie w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.7. Partnerstwo innowacyjne - naruszenie art. 40 ust. 2 w związku z art. 73 c ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim. 5 Bezprawne udzielenie zamówienia w trybie negocjacji z ogłoszeniem 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności3) Naruszenie art. 55 ust.l Pzp przez udzielenie zamówienia w trybie negocjacji z ogłoszeniem bez zachowania ustawowych przesłanek zastosowania tego trybu. 6 Bezprawne udzielenie zamówień w trybie dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki, zapytania o cenę, lub licytacji elektronicznej 100% Naruszenie art. 60b ust. 1 lub art. 62 ust. 1, lub art. 67 ust. 1, lub art. 70, lub art. 74 ust. 2, lub art. 134 ust. 5 i 6 Pzp, przez udzielenie zamówienia odpowiednio w trybie dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki, zapytania o cenę lub licytacji elektronicznej bez zachowania ustawowych przesłanek zastosowania tych trybów. 7 Bezprawne udzielenie zamówienia z wolnej ręki dotychczasowemu wykonawcy 100%Za podstawę obliczenia wysokości kosztów, do których odnosi się niezgodność przyjmuje się wysokość kosztów kwalifikowalnych objętych bezprawnie udzielonym zamówieniem z wolnej ręki. Naruszenie art. 67 ust. 1 pkt 6 i 7 lub art. 134 ust. 6 pkt 1 w związku z art. 67 ust. 1 pkt 7 lub art. 134 ust. 6 pkt 3 Pzp, przez bezprawne udzielenie zamówienia z wolnej ręki dotychczasowemu wykonawcy. 8 Konflikt interesów 100% Naruszenie art. 17 ust.l lub ust. 2 lub 2a Pzp, przez zaniechanie obowiązku wyłączenia z postępowania osób, wobec których istnieją wątpliwości co do ich bezstronności i obiektywizmu, lub przez złożenie fałszywego oświadczenia o braku istnienia podstaw do wyłączenia tych osób. 9 Brak pełnej informacji o warunkach udziału w postępowaniu lub kryteriach oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności, tj. jeżeli informacje te były zamieszczone odpowiednio w ogłoszeniu lub w Specyfikacji Istotnych Warunków Zamówienia, zwanej dalej „SIWZ”, ale opisane były niedostatecznie szczegółowo. 1. Przetarg nieograniczony - naruszenie art. 41 pkt 7 i 9 przez brak zamieszczenia w ogłoszeniu o zamówieniu przekazanym UPUE lub w ogłoszeniu o zamówieniu opublikowanym w BZP informacji o warunkach udziału w postępowaniu oraz podstawy wykluczenia, kryteriach oceny ofert wraz z podaniem ich znaczenia lub art. 36 ust. 1 pkt 5, 5a, 6 i 13 Pzp przez brak zamieszczenia w SIWZ informacji o warunkach udziału w postępowaniu oraz warunków podstawy wykluczenia, wykazu oświadczeń lub dokumentów, potwierdzających spełnianie warunków udziału w postępowaniu oraz brak podstaw wykluczenia, opisu kryteriów, którymi zamawiający będzie się kierował przy wyborze oferty, wraz z podaniem wag tych kryteriów oraz sposobu dokonywania oceny ofert, a jeżeli przypisanie wagi nie jest możliwe z obiektywnych przyczyn, wskazanie kryteriów oceny ofert w kolejności od najwyższego do najmniej ważnego.2. Przetarg ograniczony, negocjacje z ogłoszeniem i dialog konkurencyjny -naruszenie art. 48 ust. 2 pkt 6, 7 i 10 Pzp, przez brak zamieszczenia w ogłoszeniu o zamówieniu przekazanym UPUE lub w ogłoszeniu o zamówieniu opublikowanym w BZP informacji o warunkach udziału w postępowaniu, kryteriów selekcji jeżeli są ustalone oraz podstaw wykluczenia, oświadczeń lub dokumentów jakie mają dostarczyć wykonawcy w celu potwierdzenia spełnienia warunków udziału w postępowaniu lub kryteriów selekcji jeżeli są ustalone oraz braku podstaw wykluczenia, kryteriów oceny ofert i ich znaczenia, lub art. 36 ust. 1 pkt 13 Pzp przez brak zamieszczenia w SIWZ opisu kryteriów, którymi zamawiający będzie się kierował przy wyborze oferty, wraz z podaniem wag tych kryteriów oraz sposobu dokonywania oceny ofert, a jeżeli przypisanie wagi nie jest możliwe z obiektywnych przyczyn, wskazanie kryteriów oceny ofert w kolejności od najwyższego do najmniej ważnego.3. Partnerstwo innowacyjne - naruszenie art. 73b ust. 1 pkt 2 przez brak zamieszczenia w ogłoszeniu o zamówieniu informacji o podziale negocjacji na etapy w celu ograniczenia liczby ofert podlegających negocjacjom przez zastosowanie kryteriów oceny ofert wskazanych w SIWZ, brak zamieszczenia wykazu oświadczeń lub dokumentów potwierdzających spełnianie warunków udziału w postępowaniu oraz brak podstaw wykluczenia, lub art. 73b ust. 2 pkt 3 -przez brak zamieszczenia w SIWZ informacji o zasadach, na jakich nastąpi wybór partnera lub partnerów, w tym kryteria oceny ofert. 10 Określenie dyskryminujących warunków udziału w postępowaniu lub kryteriów oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności 3). 1. Naruszenie art. 22 ust. la Pzp przez określenie warunków udziału w postępowaniu lub wymaganych od wykonawców środków dowodowych w sposób nieproporcjonalny do przedmiotu zamówienia lub uniemożliwiający ocenę zdolności wykonawcy do należytego wykonania zamówienia.2. Naruszenie art. 7 ust. 1 w związku z art. 91 ust. 2 Pzp przez określenie kryteriów oceny ofert w sposób, który mógłby utrudniać uczciwą konkurencję oraz nie zapewniać równego traktowania wykonawców, niezgodny z zasadami proporcjonalności i przejrzystości. 11 Niestosowanie lub stosowanie niewłaściwych kryteriów oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Naruszenie art. 91 ust. 1 w związku z art. 2 pkt 5 Pzp przez zastosowanie kryteriów oceny ofert w sposób, który nie zapewnia wyboru najkorzystniejszej oferty, lub wybór oferty na podstawie innych kryteriów oceny ofert niż określone w SIWZ.2. Naruszenie art. 91 ust. 2a Pzp przez niewłaściwe zastosowanie kryterium ceny jako jedynego kryterium oceny ofert.3. Naruszenie art. 91 ust. 3 Pzp przez zastosowanie kryteriów oceny ofert dotyczących właściwości wykonawcy, w szczególności jego wiarygodności ekonomicznej, technicznej lub finansowej. 12 Ustalenie terminów składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu krótszych niż przewidziane we właściwych procedurach jako minimalne albo zastosowanie procedury przyspieszonej bez wystąpienia ustawowych przesłanek jej stosowania 25% w przypadku, gdy skrócenie terminu > 50% terminu ustawowego10% w przypadku, gdy skrócenie terminu > 30% terminu ustawowego5% w pozostałych przypadkach (wysokość 5% wskaźnika może zostać obniżona do poziomu minimalnie 2% w przypadku, gdy ze względu na wagę niezgodności 3) wysokości kosztów, do których odnosi się niezgodność została obliczona przy użyciu stawki 5% jest niewspółmierna). 1. Przetarg nieograniczony - naruszenie art. 43 ust. 1, 2, 2a lub 2b Pzp przez ustalenie terminów składania ofert krótszych niż terminy ustawowe.2. Przetarg ograniczony - naruszenie art. 49 ust. 1, 2 lub 3, art. 52 ust. 2-5, art. 60 ust. 3, art. 134 ust. 3 lub art. 135 ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub terminów składania ofert krótszych niż terminy ustawowe.3. Negocjacje z ogłoszeniem - naruszenie art. 49 ust. 1 i 2 w związku z art. 56 ust. 2, art. 57 ust. 6, art. 60 ust. 3, art. 134 ust. 3 lub art. 135 ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu, ofert wstępnych lub ofert krótszych niż terminy ustawowe.4. Dialog konkurencyjny - naruszenie art. 49 ust. 1 i 2 w związku z art. 60c ust. 2 lub art. 60e ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub ofert krótszych niż terminy ustawowe.5. Licytacja elektroniczna - naruszenie art. 76 ust. 1 Pzp przez ustalenie terminu składania wniosków o dopuszczenie do udziału w licytacji krótszych niż termin ustawowy.6. Partnerstwo innowacyjne - naruszenie art. 49 ust. 1 i 2 w związku z art. 73c ust. 2 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu krótszych, niż terminy ustawowe lub art. 73e ust. 1 i 3 w związku z art. 60 ust. 3 Pzp przez ustalenie terminów składania ofert wstępnych lub ofert krótszych niż terminy ustawowe. 13 Ustalenie terminów krótszych niż przewidziane we właściwych procedurach jako minimalne w przypadku wprowadzania istotnych zmian treści ogłoszenia o zamówieniu 25% w przypadku, gdy skrócenie terminu > 50% terminu ustawowego10% w przypadku, gdy skrócenie terminu > 30% terminu ustawowego5% w pozostałych przypadkach (wysokość 5% wysokość kosztów, do których odnosi się niezgodność może zostać obniżona do poziomu minimalnie 2% w przypadku, gdy ze względu na wagę niezgodności 3), wysokość kosztów, do których odnosi się niezgodność obliczona przy użyciu stawki 5% jest niewspółmierna). Naruszenie art. 12a lub art. 134 ust. 3a Pzp przez uchybienie terminom określonym w tych przepisach, w przypadku zmiany istotnych elementów ogłoszenia. 14 Niedozwolona modyfikacja SIWZ 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności 3). Naruszenie art. 38 ust. 4, 4a, lub 4b Pzp przez zmianę treści SIWZ po upływie terminu składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu, albo przed upływem terminu składnia ofert lub wniosków o dopuszczenie do udziału w postępowaniu bez wymaganej zmiany ogłoszenia o zamówieniu, z zastrzeżeniem lp. 15. 15 Niedozwolona modyfikacja SIWZ 10%Wysokość wskaźnika może zostać obniżona do 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 38 ust. 4a Pzp przez zmianę treści SIWZ w zakresie zmiany terminów bez wymaganej zmiany ogłoszenia o zamówieniu. 16 Niedopełnienie obowiązków związanych z udostępnianiem SIWZ 25% w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 50% terminu przewidzianego ustawą na składanie ofert10% w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 60% terminu przewidzianego ustawą na składanie ofert5% w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 80% terminu przewidzianego ustawą na składanie ofert. 1. Naruszenie art. 42 ust. 1 Pzp przez nieudostępnienie SIWZ na stronie internetowej od dnia zamieszczenia ogłoszenia o zamówieniu.2. Naruszenie art. 51 ust. 4, art. 60e ust. 3 lub art. 64 ust. 3 Pzp przez nieprzekazanie wykonawcom SIWZ wraz z zaproszeniem do składania ofert lub naruszenie art. 57 ust. 5 w związku z art. 60 ust. 2 Pzp lub niezgodność z art. 60e ust. 3a przez nieumieszczenie w zaproszeniu do składania ofert adresu strony internetowej, na której dostępna jest SIWZ. 17 Nieprawidłowości w zakresie oświadczeń i dokumentów wymaganych od wykonawców 5% Naruszenie art. 25 ust. 1 Pzp przez żądanie od wykonawców oświadczeń lub dokumentów, które nie są niezbędne do przeprowadzenia postępowania. 18 Dyskryminacyjny opis przedmiotu zamówienia 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności3). 1. Naruszenie art. 29 ust. 2 Pzp przez opisanie przedmiotu zamówienia w sposób, który mógłby utrudniać uczciwą konkurencję.2. Naruszenie art. 29 ust. 3 Pzp przez opisanie przedmiotu zamówienia przez wskazanie znaków towarowych, patentów lub pochodzenia, źródła lub szczególnego procesu, który charakteryzuje produkty lub usługi dostarczane przez konkretnego wykonawcę, tak że mogłoby to doprowadzić do uprzywilejowania lub wyeliminowania niektórych wykonawców lub produktów, bez zachowania przesłanek określonych w tym przepisie.3.Naruszenie art. 30 ust. 3 i 4 Pzp przez opisanie przedmiotu zamówienia przez odniesienie się do norm, europejskich ocen technicznych, aprobat, specyfikacji technicznych i systemów referencji technicznych bez dopuszczenia rozwiązań równoważnych lub z naruszeniem ustawowej kolejności. 19 Niejednoznaczny opis przedmiotu zamówienia 10%Wysokość wskaźnika może zostać obniżona do 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 29 ust. 1 Pzp przez opisanie przedmiotu zamówienia w sposób niejednoznaczny i niewyczerpujący, za pomocą niedostatecznie dokładnych i niezrozumiałych określeń, nieuwzględniający wszystkich wymagań i okoliczności mogących mieć wpływ na sporządzenie oferty. 20 Ograniczenie kręgupotencjalnychwykonawców 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Przetarg ograniczony, negocjacje z ogłoszeniem - naruszenie art. 51 ust. 1 lub art. 57 ust. 2 Pzp przez zaproszenie do składania ofert mniejszej liczby wykonawców niż ich minimalna liczba przewidziana w Pzp.2. Dialog konkurencyjny - naruszenie art. 60d ust. 2 Pzp przez zaproszenie do dialogu konkurencyjnego mniejszej liczby wykonawców niż ich minimalna liczba przewidziana w Pzp.3. Negocjacje bez ogłoszenia - naruszenie art. 63 ust. 3 Pzp przez zaproszenie do negocjacji mniejszej liczby wykonawców niż ich minimalna liczba przewidziana w Pzp.4. Zapytanie o cenę - naruszenie art. 71 ust. 1 Pzp przez zaproszenie do składania ofert mniejszej liczby wykonawców, niż ich minimalna liczba przewidziana w Pzp. 21 Prowadzenie negocjacji dotyczących treści oferty 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności 3). Naruszenie art. 87 Pzp przez dokonywanie w toku badania i oceny ofert istotnych zmian w treści oferty oraz zmian wymagań zawartych w SIWZ w drodze negocjacji między zamawiającym a wykonawcą. 22 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1.Naruszenie art. 89 Pzp przez odrzucenie najkorzystniejszej oferty bez zaistnienia przesłanek określonych w tym przepisie lub przez wybór jako najkorzystniejszej oferty podlegającej odrzuceniu; z zastrzeżeniem lp. 23.2. Naruszenie art. 24 ust. 1, 5 lub 7 Pzp przez wykluczenie wykonawcy, który złożył najkorzystniejszą ofertę, bez zaistnienia przesłanek określonych w tych przepisach, w tym przez zaniechanie wskazania podstawy wykluczenia w ogłoszeniu o zamówieniu zgodnie z art. 24 ust. 6, niezapewnienie wykonawcy możliwości udowodnienia, że jego udział nie zakłóci konkurencji zgodnie z art. 24 ust. 10, zaniechanie wezwania do złożenia dokumentów zgodnie z art. 25 a ust. 5 lub art. 26 ust. 3, 3a lub 4 Pzp.3. Naruszenie art. 89 ust. 1 pkt 5 w związku z art. 24 ust. 1 lub 5 Pzp przez wybór jako najkorzystniejszej oferty wykonawcy podlegającego wykluczeniu. 23 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25% Naruszenie art. 89 ust. 1 pkt 4 i art. 90 ust. 1 Pzp przez odrzucenie oferty, jako zawierającej rażąco niską cenę lub koszt, bez zwrócenia się do wykonawcy o udzielenie, w określonym terminie, wyjaśnień dotyczących elementów oferty mających wpływ na wysokość ceny lub kosztu. 24 Naruszenia w zakresie nieuprawnionego unieważnienia postępowania Różnica pomiędzy kosztami kwalifikowalnymi oferty wybranej a wartością najkorzystniejszej oferty z postępowania unieważnionego z nieuprawnionych przesłanek. Naruszenie art. 93 ust 1, la, 1b lub 1d Pzp przez nieuprawnione unieważnienie postępowania o udzielenie zamówienia. 25 Naruszenia w zakresie dokumentowania postępowania 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności 3). Naruszenie art. 96 lub art. 97 Pzp przez dokumentowanie postępowania w sposób uniemożliwiający zapewnienie właściwej ścieżki audytu. 26 Naruszenia w zakresie zawierania umów 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 94 ust. 3 Pzp w związku z art. 91 ust. 1 Pzp przez zawarcie umowy z innym wykonawcą niż ten, który złożył kolejną najkorzystniejszą ofertę z pozostałych ofert złożonych w postępowaniu, w przypadku, gdy wykonawca, którego oferta została wybrana, uchyla się od zawarcia umowy w sprawie zamówienia. 27 Naruszenia w zakresie zawierania umów 5% 1. Naruszenie art. 94 ust. 1 Pzp przez zawarcie umowy w sprawie zamówienia publicznego w terminie krótszym niż określony w tym przepisie.2. Naruszenie art. 183 ust. 1 Pzp przez zawarcie umowy w sprawie zamówienia publicznego przed ogłoszeniem przez Krajową Izbę Odwoławczą wyroku lub postanowienia kończącego postępowanie. 28 Brak przekazania informacji o wyborze najkorzystniejszej oferty 5% Naruszenie art. 92 ust. 1 pkt 1 Pzp przez niezawiadomienie wykonawców o wyborze najkorzystniejszej oferty. 29 Niedozwolona zmiana postanowień zawartej umowy 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia + 100% kosztów kwalifikowalnych stanowiących wartość dodatkowego zamówienia wynikających z istotnej zmiany umowy. Naruszenie art. 144 Pzp przez dokonanie istotnej zmiany umowy w stosunku do treści oferty, na postawie której dokonano wyboru wykonawcy, bez zachowania ustawowych przesłanek umożliwiających taką zmianę, z zastrzeżeniem lp. 30. 30 Niedozwolona zmiana postanowień zawartej umowy 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia + 100% kosztów kwalifikowalnych stanowiących wartość zmniejszenia zakresu świadczenia. Naruszenie art. 144 Pzp przez zmianę umowy polegającą na zmniejszeniu zakresu świadczenia wykonawcy w stosunku do zobowiązania zawartego w ofercie, bez zachowania ustawowych przesłanek umożliwiających taka zmianę. 1)Zamówienia o wartościach równych lub wyższych niż określone w przepisach wydanych na podstawie w art. 11 ust. 8 Pzp. 2) Zamówienia o wartościach niższych niż określone w przepisach wydanych na podstawie w art. 11 ust. 8 Pzp. 3) Charakter i wagę niezgodności ocenia się odrębnie dla każdego zamówienia, biorąc pod uwagę stopień naruszenia zasad uczciwej konkurencji, równego traktowania wykonawców, przejrzystości i niedyskryminacji.
+
+## Załącznik nr 2 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów rozporządzenia określających konkurencyjny tryb wyboru wykonawcy
+
+Lp. Rodzaj niezgodności Wskaźnik procentowy Opis niezgodności 1 Niewłaściwe upublicznienie zapytania ofertowego 100% Nieupublicznienie zapytania ofertowego, zgodnie z warunkami określonymi w § 7 ust. 4 rozporządzenia, tj. przez brak jego przesłania co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich, a także przez brak umieszczenia na stronie internetowej podmiotu uprawnionego, jeżeli posiada on taką stronę. 2 Niewłaściwe upublicznienie zapytania ofertowego 25% Nieupublicznienie zapytania ofertowego, zgodnie z warunkami określonymi w § 7 ust. 4 rozporządzenia, tj. przez brak jego przesłania co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich, przy jednoczesnym umieszczeniu zapytania ofertowego na stronie internetowej podmiotu uprawnionego. 3 Niewłaściwe upublicznienie zapytania ofertowego 25% Nieupublicznienie zapytania ofertowego, zgodnie z warunkami określonymi w § 7 ust. 4 rozporządzenia, tj. przez brak umieszczenia na stronie internetowej podmiotu uprawnionego, przy jednoczesnym przesłaniu zapytania ofertowego co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich. 4 Niewłaściwe oszacowanie wartości zamówienia 100% Nieoszacowanie wartości zamówienia zgodnie z warunkami określonymi w § 6 ust. 1 pkt 2 rozporządzenia, skutkujące brakiem zastosowania konkurencyjnego trybu wyboru wykonawcy określonego w § 7 rozporządzenia. 5 Konflikt interesów 100% 1. Naruszenie § 7 ust. 1 pkt 1 lit. a i ust. 3 rozporządzenia przez dokonanie wyboru wykonawcy zamówienia będącego podmiotem powiązanym osobowo lub kapitałowo z podmiotem uprawnionym.2. Naruszenie § 8 rozporządzenia przez udział w czynnościach związanych z przygotowaniem oraz przeprowadzeniem postępowania o udzielenie zamówienia, osób niezapewniających bezstronności i obiektywizmu. 6 Niewłaściwy opis przedmiotu zamówienia 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust. 4 pkt 1 rozporządzenia przez niewłaściwy opis przedmiotu zamówienia w zapytaniu ofertowym. 7 Brak pełnej informacji o warunkach udziału w postępowaniu lub określenie dyskryminujących warunków udziału 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust. 4 pkt 3 rozporządzenia przez nie zawarcie w zapytaniu ofertowym warunków udziału w postępowaniu lub opisu sposobu dokonywania oceny spełniania tych warunków, lub określenie warunków udziału w postępowaniu, które utrudniają uczciwą konkurencję lub nie zapewniają równego traktowania wykonawców. 8 Brak pełnej informacji o kryteriach oceny ofert lub określenie dyskryminujących kryteriów oceny ofert 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust. 4 pkt 4 rozporządzenia przez nie zawarcie w zapytaniu ofertowym kryteriów oceny oferty lub wag punktowych lub procentowych przypisanych do poszczególnych kryteriów oceny oferty, lub określenie kryteriów oceny oferty, które mogłyby utrudniać uczciwą konkurencję lub nie zapewniają równego traktowania wykonawców. 9 Ustalenie krótszych niż w rozporządzeniu terminów składania ofert 25%- w przypadku, gdy ustalony termin został skrócony o więcej niż 50% terminu wymaganego lub stanowi 50% terminu wymaganego, 10% - w przypadku, gdy ustalony termin został skrócony o więcej niż 30% terminu wymaganego lub stanowi 70% terminu wymaganego,5% - w pozostałych przypadkach Ustalenie krótszych niż określone w § 7 ust. 4 pkt 6 albo ust. 5 pkt 2 rozporządzenia terminów składania ofert. 10 Niedozwolona modyfikacja zapytania ofertowego 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności 1) Naruszenie § 7 ust. 5 pkt 1 rozporządzenia przez modyfikację zapytania ofertowego po upływie terminu składania ofert albo przed upływem terminu składania ofert bez odpowiedniego upublicznienia. 11 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust. 1 pkt 1 i ust. 2 rozporządzenia przez dokonanie wyboru oferty, która nie jest najkorzystniejsza. 12 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust 1 pkt 1 lit b lub lit. d rozporządzenia przez dokonanie wyboru oferty, złożonej po terminie składania ofert lub oferty, która nie spełnia warunków określonych w zapytaniu ofertowym. 13 Naruszenia w zakresie wyboru najkorzystniejszej oferty 100%możliwość obniżenia wysokości wskaźnika do 25% lub 10% w zależności od wagi niezgodności1) Naruszenie § 7 ust 1 pkt 1 lit. c rozporządzenia przez dokonanie wyboru oferty, której treść nie odpowiada treści zapytania ofertowego. 14 Naruszenia w zakresie zawierania umów z wykonawcą 100% kosztów kwalifikowalnych stanowiących wartość dodatkowego zamówienia wynikającej z istotnej zmiany umowy zwiększone o 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia Naruszenie § 7 ust. 1 pkt 2 rozporządzenia przez dokonanie istotnej zmiany umowy w stosunku do złożonej oferty, na podstawie której dokonano wyboru wykonawcy, chyba że możliwość i warunki dokonania takiej zmiany zostały przewidziane w zapytaniu ofertowym. 15 Naruszenia w zakresie zawierania umów z wykonawcą 1. 100% kosztów kwalifikowalnych stanowiących zmniejszenia zakresu świadczenia oraz 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia 2. 100% kosztów kwalifikowalnych stanowiących zmniejszenia zakresu świadczenia 1. Naruszenie § 7 ust. 1 pkt 2 rozporządzenia przez zmianę umowy polegającą na zmniejszeniu zakresu świadczenia wykonawcy w stosunku do zobowiązania zawartego w ofercie, w przypadku gdy możliwość i warunki dokonania takiej zmiany nie zostały przewidziane w zapytaniu ofertowym2. Naruszenie § 7 ust. 1 pkt 2 rozporządzenia przez zmianę umowy polegającą na zmniejszeniu zakresu świadczenia wykonawcy w stosunku do zobowiązania zawartego w ofercie, w przypadku gdy możliwość i warunki dokonania takiej zmiany zostały przewidziane w zapytaniu ofertowym, a podmiot uprawniony mimo zmniejszenia świadczenia nie dokonał pomniejszenia kosztów kwalifikowalnych z tym związanych. 16 Naruszenia w zakresie dokumentowania postępowania o zamówienie 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 7 ust. 7 rozporządzenia przez niewłaściwe udokumentowanie przebiegu postępowania. 1) Wagę niezgodności ocenia się odrębnie dla każdego zamówienia, biorąc pod uwagę stopień naruszenia zasad uczciwej konkurencji, równego traktowania wykonawców, przejrzystości i niedyskryminacji.
+
+## Załącznik nr 3 - Wskaźniki procentowe przypisane do poszczególnych rodzajów niezgodności w odniesieniu do przepisów dotyczących działań informacyjnych i reklamowych
+
+Lp. Rodzaj niezgodności Wskaźnik procentowy 1 Niezamieszczenie na stronie internetowej, o której mowa w części 1 pkt 2.2 lit. a załącznika III do rozporządzenia wykonawczego Komisji (UE) nr 808/2014 z dnia 17 lipca 2014 r. ustanawiającego zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) (Dz. Urz. UE L 227 z 31.07.2014, str. 18, z późn. zm.), zwanego dalej „rozporządzeniem nr 808/2014”, krótkiego opisu operacji, o którym mowa w części 1 pkt 2.2 lit. a tego załącznika 1% 2 Niezamieszczenie na plakacie albo tablicy, o których mowa w części 1 pkt 2.2 lit. b i c załącznika III do rozporządzenia nr 808/2014, opisu operacji, o którym mowa w części 1 pkt 2.2 lit. b i c tego załącznika 1% 3 Niezamieszczenie na bilbordzie, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014, nazwy operacji, o której mowa w części 1 pkt 2.2 lit. c tego załącznika 1% 4 Niezamieszczenie na bilbordzie, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014, celu operacji, o którym mowa w części 1 pkt 2.2 lit. c tego załącznika 1% 5 Niezamieszczenie na stronie internetowej, o której mowa w części 1 pkt 2.2 lit. a załącznika III do rozporządzenia nr 808/2014 symbolu Unii Europejskiej, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 6 Niezamieszczenie na plakacie albo tablicy, o których mowa w części 1 pkt 2.2 lit. b i c załącznika III do rozporządzenia nr 808/2014 symbolu Unii Europejskiej, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 7 Niezamieszczenie na bilbordzie, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014 symbolu Unii Europejskiej, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 8 Niezamieszczenie na stronie internetowej, o której mowa w części 1 pkt 2.2 lit. a załącznika III do rozporządzenia nr 808/2014 objaśnienia roli Unii za pomocą następującego zdania: „Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich: Europa inwestująca w obszary wiejskie”, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 9 Niezamieszczenie na plakacie albo tablicy, o których mowa w części 1 pkt 2.2 lit. b i c załącznika III do rozporządzenia nr 808/2014 objaśnienia roli Unii za pomocą następującego zdania: „Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich: Europa inwestująca w obszary wiejskie”, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 10 Niezamieszczenie na bilbordzie, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014 objaśnienia roli Unii za pomocą następującego zdania: „Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich: Europa inwestująca w obszary wiejskie”, o którym mowa w części 2 pkt 1 lit. a tego załącznika 1% 11 Niezamieszczenie elementów, o których mowa w części 1 pkt 2.2 lit. a oraz w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014, na przynajmniej 25% powierzchni strony internetowej, o której mowa w części 1 pkt 2.2 lit. a tego załącznika 1% 12 Niezamieszczenie elementów, o których mowa w części 1 pkt 2.2 lit. b oraz w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014, na przynajmniej 25% powierzchni plakatu albo tablicy, o których mowa w części 1 pkt 2.2 lit. b tego załącznika 1% 13 Niezamieszczenie elementów, o których mowa w części 1 pkt 2.2 lit. c oraz w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014, na przynajmniej 25% powierzchni bilbordu, o którym mowa w części 1 pkt 2.2 lit. c tego załącznika 1% 14 Niezamieszczenie tymczasowego bilbordu dużego formatu, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014, w okresie realizacji operacji do momentu jej zakończenia i zamieszczenia stałej tablicy/bilbordu dużego formatu zmniejszeniu podlega kwota pomocy w wysokości proporcjonalnej do okresu, w którym nie wypełniono obowiązku, z tym że nie więcej niż 1% 15 Zamieszczenie stałej tablicy albo bilbordu dużego formatu, o których mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014, później niż 3 miesiące od momentu zakończenia operacji zmniejszeniu podlega kwota pomocy w wysokości proporcjonalnej do okresu, w którym nie wypełniono obowiązku, z tym że nie więcej niż 1% 16 Niezamieszczenie plakatu albo tablicy, o których mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia nr 808/2014, w okresie realizacji operacji proporcjonalnej do okresu, w którym nie wypełniono obowiązku, z tym że nie więcej niż 1% zmniejszeniu podlega kwota pomocy w wysokości 17 Niezamieszczenie plakatu albo tablicy, o których mowa w części 1 pkt 2.2 lit. b i c załącznika III do rozporządzenia nr 808/2014 w miejscu łatwo widocznym dla ogółu społeczeństwa 1% 18 Niezamieszczenie bilbordu, o którym mowa w części 1 pkt 2.2 lit. c załącznika III do rozporządzenia nr 808/2014 w miejscu łatwo widocznym dla ogółu społeczeństwa 1% 19 Plakat, o którym mowa w części 1 pkt 2.2 lit. b załącznika III do rozporządzenia nr 808/2014, ma format mniejszy niż format A3 1% 20 Niezamieszczenie w materiale używanym do prowadzenia działań informacyjnych symbolu Unii Europejskiej, o którym mowa w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014 1% 21 Niezamieszczenie w materiale używanym do prowadzenia działań informacyjnych objaśnienia roli Unii za pomocą następującego zdania: „Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich: Europa inwestująca w obszary wiejskie”, o którym mowa w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014 1% 22 Niezamieszczenie w materiale używanym do prowadzenia działań informacyjnych odesłania do organu odpowiedzialnego za treść informacji, o którym mowa w części 2 pkt 2 załącznika III do rozporządzenia nr 808/2014 1% 23 Niezamieszczenie w materiale używanym do prowadzenia działań informacyjnych odesłania do instytucji zarządzającej wyznaczonej do realizacji wsparcia EFRROW, o którym mowa w części 2 pkt 2 załącznika III do rozporządzenia nr 808/2014 1% 24 Niezamieszczenie w materiale używanym do prowadzenia działań reklamowych symbolu Unii Europejskiej, o którym mowa w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014 1% 25 Niezamieszczenie w materiale używanym do prowadzenia działań reklamowych objaśnienia roli Unii za pomocą następującego zdania: „Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich: Europa inwestująca w obszary wiejskie”, o którym mowa w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014 1% 26 Zamieszczenie symbolu Unii Europejskiej niezgodnie ze standardami, o których mowa w części 2 pkt 1 lit. a załącznika III do rozporządzenia nr 808/2014 1% 27 Niezamieszczenie na stronie internetowej dotyczącej EFRROW informacji, o których mowa w części 2 pkt 2 lit. b załącznika III do rozporządzenia nr 808/2014 1%
+
+## Załącznik nr 4 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej stosowania przepisów o zamówieniach publicznych w odniesieniu do postępowań o udzielenie zamówienia publicznego wszczętych do dnia 27 lipca 2016 r.
+
+Lp. Rodzaj niezgodności Wskaźnik procentowy Opis niezgodności 1 Niedopełnienie obowiązku odpowiedniego ogłoszenia1) 100% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164) (w brzmieniu z dnia 11 listopada 2015 r., Dz. U, poz. 1777), zwanej dalej „Pzp”, przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej, zwanemu dalej „UPUE”, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych, zwanym dalej „BZP”, i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 3 w związku z art. 48 ust.l Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 3 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 3 w związku z art. 60c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o zamówieniu w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Konkurs - naruszenie art. 115 ust. 4 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o konkursie UPUE, przy jednoczesnym niezamieszczeniu ogłoszenia o konkursie w BZP i niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Pkt 1-5 stosuje się odpowiednio do wymienionych w tych punktach przypadków naruszeń przywołanych przepisów w powiązaniu z naruszeniem art. 32 ust. 2 i 4 Pzp, tj. przez podział zamówienia na części lub zaniżenie jego wartości, które powodują, że wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Pzp. 2 Niedopełnienie obowiązku odpowiedniego ogłoszenia1) 25% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 3 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 3 w związku z art. 48 ust.l Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 3 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 3 w związku z art. 60c ust. 1 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o zamówieniu UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o zamówieniu w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Konkurs - naruszenie art. 115 ust. 4 Pzp przez niedopełnienie obowiązku przekazania ogłoszenia o konkursie UPUE, przy jednoczesnym zamieszczeniu ogłoszenia o konkursie w BZP lub zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich Unii Europejskiej zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Pkt 1-5 stosuje się odpowiednio do wymienionych w tych punktach przypadków naruszeń przywołanych przepisów w powiązaniu z naruszeniem art. 32 ust. 2 i 4 Pzp, tj. przez podział zamówienia na części lub zaniżenie jego wartości, które powodują, że wartość zamówienia jest mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Pzp. 3 Niedopełnienie obowiązku odpowiedniego ogłoszenia 2) 100% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 2 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 2 w związku z art. 48 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 2 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 2 w związku art. 60c ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Licytacja elektroniczna - naruszenie art. 75 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Konkurs - naruszenie art. 115 ust. 3 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o konkursie w BZP, przy jednoczesnym niezapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom z innych państw członkowskich UE zapoznanie się z ogłoszeniem w szczególności: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim. 4 Niedopełnienie obowiązku odpowiedniego ogłoszenia2) 25% 1. Przetarg nieograniczony - naruszenie art. 40 ust. 2 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.2. Przetarg ograniczony - naruszenie art. 40 ust. 2 w związku z art. 48 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.3. Negocjacje z ogłoszeniem - naruszenie art. 40 ust. 2 w związku z art. 56 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.4. Dialog konkurencyjny - naruszenie art. 40 ust. 2 w związku art. 60c ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.5. Licytacja elektroniczna - naruszenie art. 75 ust. 1 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o zamówieniu w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim.6. Konkurs - naruszenie art. 115 ust. 3 Pzp przez niedopełnienie obowiązku zamieszczenia ogłoszenia o konkursie w BZP, przy jednoczesnym zapewnieniu odpowiedniego poziomu upublicznienia, które umożliwiałoby oferentom zapoznanie się z ogłoszeniem, tj. przykładowo przynajmniej na jeden z następujących sposobów: na stronie internetowej zamawiającego, na ogólnodostępnym portalu przeznaczonym do publikacji ogłoszeń o zamówieniach, w dzienniku lub czasopiśmie o zasięgu ogólnopolskim. 5 Bezprawne udzielenie zamówienia w trybie negocjacji z ogłoszeniem 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności3) Naruszenie art. 55 ust. 1 Pzp przez udzielenie zamówienia w trybie negocjacji z ogłoszeniem bez zachowania ustawowych przesłanek zastosowania tego trybu. 6 Bezprawne udzielenie zamówień w trybie dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki, zapytania o cenę, lub licytacji elektronicznej 100% Naruszenie art. 60b ust. 1 lub art. 62 ust. 1, lub art. 67 ust. 1, lub art. 70, lub art. 74 ust. 2, lub art. 134 ust. 5 i 6 Pzp przez udzielenie zamówienia odpowiednio w trybie dialogu konkurencyjnego, negocjacji bez ogłoszenia, zamówienia z wolnej ręki, zapytania o cenę lub licytacji elektronicznej bez zachowania ustawowych przesłanek zastosowania tych trybów. 7 Bezprawne udzielenie zamówień dodatkowych lub uzupełniających 100%Za podstawę obliczenia wysokości kosztów, do których odnosi się niezgodność przyjmuje się wysokość kosztów kwalifikowalnych objętych zamówieniami dodatkowymi lub uzupełniającymi. Naruszenie art. 67 ust. 1 pkt 5-7 lub art. 134 ust. 6 pkt 1 w związku z art. 67 ust. 1 pkt 5 lub art. 134 ust. 6 pkt 3 lub 4 Pzp przez udzielenie zamówień dodatkowych lub uzupełniających bez zachowania ustawowych przesłanek. 8 Udzielenie zamówień dodatkowych albo uzupełniających, których wartość przekracza dopuszczalną procentową wartość zamówienia realizowanego albo podstawowego 100%Za podstawę obliczenia wysokości kosztów, do których odnosi się niezgodność przyjmuje się wysokość kosztów kwalifikowalnych objętych zamówieniami dodatkowymi lub uzupełniającymi, która przekracza odpowiednio 50% wartości zamówienia realizowanego lub 20% albo 50% wartości zamówienia podstawowego. 1. Naruszenie art. 67 ust. 1 pkt 5 lub 6 Pzp przez udzielenie zamówień dodatkowych lub uzupełniających o łącznej wartości przekraczającej 50% wartości zamówienia realizowanego lub podstawowego w odniesieniu do usług lub robót budowlanych, z zachowaniem pozostałych ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki.2. Naruszenie art. 67 ust. 1 pkt 7 Pzp przez udzielenie zamówień uzupełniających o łącznej wartości przekraczającej 20% wartości zamówienia podstawowego w odniesieniu do dostaw, z zachowaniem pozostałych ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki.3. Naruszenie art. 134 ust. 6 pkt 1 w związku z art. 67 ust. 1 pkt 5 Pzp przez udzielenie zamówień dodatkowych o łącznej wartości przekraczającej 50% wartości zamówienia realizowanego w odniesieniu do usług lub robót budowlanych, z zachowaniem pozostałych ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki.4. Naruszenie art. 134 ust. 6 pkt 3 Pzp przez udzielenie zamówień uzupełniających o łącznej wartości przekraczającej 50% wartości zamówienia podstawowego w odniesieniu do robót budowlanych, z zachowaniem pozostałych przesłanek stosowania trybu z wolnej ręki.5. Naruszenie art. 134 ust. 6 pkt 4 Pzp przez udzielenie zamówień uzupełniających o łącznej wartości przekraczającej 50% wartości zamówienia podstawowego w odniesieniu do dostaw, z zachowaniem pozostałych przesłanek stosowania trybu z wolnej ręki. 9 Bezprawne udzielenie w trybie zamówienia z wolnej ręki zamówień dodatkowych albo uzupełniających, których wartość nie przekracza dopuszczalnej procentowej wartości zamówienia realizowanego albo podstawowego2) 25%Za podstawę obliczenia wysokości kosztów, do których odnosi się niezgodność przyjmuje się wysokość kosztów kwalifikowalnych objętych zamówieniami dodatkowymi lub uzupełniającymi. 1. Naruszenie art. 67 ust. 1 pkt 5 lub 6 Pzp przez udzielenie zamówień dodatkowych albo uzupełniających bez zachowania ustawowych przesłanek stosowania trybu z wolnej ręki o łącznej wartości nieprzekraczającej 50% wartości zamówienia realizowanego albo podstawowego.2. Naruszenie art. 67 ust. 1 pkt 7 Pzp przez udzielenie zamówień uzupełniających bez zachowania ustawowych przesłanek stosowania trybu z wolnej ręki o łącznej wartości nieprzekraczającej 20% wartości zamówienia podstawowego.3. Naruszenie art. 134 ust. 6 pkt 1 w związku z art. 67 ust. 1 pkt 5 Pzp przez udzielenie zamówienia dodatkowego bez zachowania ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki, o ile łączna wartość udzielonych zamówień dodatkowych nie przekracza 50% wartości zamówienia realizowanego w odniesieniu do usług lub robót budowlanych.4. Naruszenie art. 134 ust. 6 pkt 3 Pzp przez udzielenie zamówienia uzupełniającego bez zachowania ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki, o ile łączna wartość udzielonych zamówień uzupełniających nie przekracza 50% wartości zamówienia podstawowego w odniesieniu do robót budowlanych.5. Naruszenie art. 134 ust. 6 pkt 4 Pzp przez udzielenie zamówienia uzupełniającego bez zachowania ustawowych przesłanek stosowania trybu zamówienia z wolnej ręki, o ile łączna wartość udzielonych zamówień uzupełniających nie przekracza 50% wartości zamówienia podstawowego w odniesieniu do dostaw. 10 Konflikt interesów 100% Naruszenie art. 17 ust.l lub ust. 2 Pzp przez zaniechanie obowiązku wyłączenia z postępowania osób, wobec których istnieją wątpliwości co do ich bezstronności i obiektywizmu, lub przez złożenie fałszywego oświadczenia o braku istnienia podstaw do wyłączenia tych osób. 11 Brak pełnej informacji o warunkach udziału w postępowaniu lub kryteriach oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności, tj. jeżeli informacje te były zamieszczone odpowiednio w ogłoszeniu lub w Specyfikacji Istotnych Warunków Zamówienia, zwanej dalej „SIWZ”, ale opisane były niedostatecznie szczegółowo. 1. Przetarg nieograniczony - naruszenie art. 41 pkt 7 i 9 w związku z art. 22 ust. 3 Pzp przez brak zamieszczenia w ogłoszeniu o zamówieniu przekazanym UPUE lub w ogłoszeniu o zamówieniu opublikowanym w BZP informacji o warunkach udziału w postępowaniu oraz opisu sposobu dokonywania oceny spełniania tych warunków, kryteriach oceny ofert wraz z podaniem ich znaczenia lub art. 36 ust. 1 pkt 5, 6 i 13 Pzp przez brak zamieszczenia w SIWZ informacji o warunkach udziału w postępowaniu oraz opisu sposobu dokonywania oceny spełniania tych warunków, wykazu oświadczeń lub dokumentów, jakie mają dostarczyć wykonawcy w celu potwierdzania spełniania warunków udziału w postępowaniu, opisu kryteriów, którymi zamawiający będzie się kierował przy wyborze oferty, wraz z podaniem znaczenia tych kryteriów oraz sposobu dokonywania oceny ofert.2. Przetarg ograniczony, negocjacje z ogłoszeniem i dialog konkurencyjny -naruszenie art. 48 ust. 2 pkt 6, 7 i 10 Pzp przez brak zamieszczenia w ogłoszeniu o zamówieniu przekazanym UPUE lub w ogłoszeniu o zamówieniu opublikowanym w BZP informacji o warunkach udziału w postępowaniu wraz z podaniem ich znaczenia oraz opisu sposobu dokonywania oceny spełniania tych warunków, oświadczeń lub dokumentów, jakie mają dostarczyć wykonawcy w celu potwierdzenia spełnienia warunków udziału w postępowaniu, kryteriów oceny ofert i ich znaczenia, lub art. 36 ust. 1 pkt 13 Pzp przez brak zamieszczenia w SIWZ opisu kryteriów, którymi zamawiający będzie się kierował przy wyborze oferty, wraz z podaniem znaczenia tych kryteriów i sposobu dokonywania oceny ofert. 12 Określenie dyskryminujących warunków udziału w postępowaniu lub kryteriów oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Naruszenie art. 22 ust. 4 Pzp przez dokonanie opisu sposobu oceny spełniania warunków udziału w postępowaniu w sposób niezwiązany z przedmiotem zamówienia lub nieproporcjonalny do przedmiotu zamówienia.2. Naruszenie art. 7 ust. 1 w związku z art. 91 ust. 2 Pzp przez określenie kryteriów oceny ofert w sposób, który mógłby utrudniać uczciwą konkurencję oraz nie zapewniać równego traktowania wykonawców. 13 Niestosowanie lub stosowanie niewłaściwych kryteriów oceny ofert 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Naruszenie art. 91 ust. 1 w związku z art. 2 pkt 5 Pzp przez zastosowanie kryteriów oceny ofert w sposób, który nie zapewnia wyboru najkorzystniejszej oferty, lub wybór oferty na podstawie innych kryteriów oceny ofert niż określone w SIWZ.2. Naruszenie art. 91 ust. 2a Pzp przez niewłaściwe zastosowanie kryterium ceny jako jedynego kryterium oceny ofert.3. Naruszenie art. 91 ust. 3 Pzp przez zastosowanie kryteriów oceny ofert dotyczących właściwości wykonawcy, w szczególności jego wiarygodności ekonomicznej, technicznej lub finansowej. 14 Ustalenie terminów składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu krótszych niż przewidziane we właściwych procedurach jako minimalne albo zastosowanie procedury przyspieszonej bez wystąpienia ustawowych przesłanek jej stosowania 25% w przypadku, gdy skrócenie terminu > 50% terminu ustawowego10% w przypadku, gdy skrócenie terminu > 30% terminu ustawowego5% w pozostałych przypadkach (wysokość 5% wskaźnika może zostać obniżona do poziomu minimalnie 2%w przypadku, gdy ze względu na wagę niezgodności3) wysokości kosztów, do których odnosi się niezgodność została obliczona przy użyciu stawki 5% jest niewspółmierna). 1. Przetarg nieograniczony - naruszenie art. 43 ust. 1, 2 lub 3 Pzp przez ustalenie terminów składania ofert krótszych niż terminy ustawowe.2. Przetarg ograniczony - naruszenie art. 49 ust. 1, 2 lub 3, art. 52 ust. 2-5, art. 60 ust. 3, art. 134 ust. 3 lub art. 135 ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu lub terminów składania ofert krótszych niż terminy ustawowe.3. Negocjacje z ogłoszeniem - naruszenie art. 49 ust. 2 i 3 w związku z art. 56 ust. 2, art. 57 ust. 6, art. 134 ust. 3 lub art. 135 ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu krótszych niż terminy ustawowe.4. Dialog konkurencyjny - naruszenie art. 49 ust. 1 i 2 w związku z art. 60c ust. 2 lub art. 60e ust. 4 Pzp przez ustalenie terminów składania wniosków o dopuszczenie do udziału w postępowaniu krótszych niż terminy ustawowe.5. Licytacja elektroniczna - naruszenie art. 76 ust. 1 Pzp przez ustalenie terminu składania wniosków o dopuszczenie do udziału w licytacji krótszych niż termin ustawowy. 15 Ustalenie terminów krótszych niż przewidziane we właściwych procedurach jako minimalne w przypadku wprowadzania istotnych zmian treści ogłoszenia o zamówieniu 25% w przypadku, gdy skrócenie terminu > 50% terminu ustawowego10% w przypadku, gdy skrócenie terminu > 30% terminu ustawowego5% w pozostałych przypadkach (wysokość 5% wysokość kosztów, do których odnosi się niezgodność może zostać obniżona do poziomu minimalnie 2% w przypadku, gdy ze względu na wagę niezgodności 3), wysokość kosztów, do których odnosi się niezgodność obliczona przy użyciu stawki 5% jest niewspółmierna). Naruszenie art. 12a lub art. 134 ust. 3a Pzp przez uchybienie terminom określonym w tych przepisach, w przypadku zmiany istotnych elementów ogłoszenia. 16 Niedozwolona modyfikacja SIWZ 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności5). Naruszenie art. 38 ust. 4, 4a, lub 4b Pzp przez zmianę treści SIWZ po upływie terminu składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu, albo przed upływem terminu składnia ofert lub wniosków o dopuszczenie do udziału w postępowaniu bez wymaganej zmiany ogłoszenia o zamówieniu, z zastrzeżeniem lp. 17. 17 Niedozwolona modyfikacja SIWZ 10%Wysokość wskaźnika może zostać obniżona do 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 38 ust. 4a Pzp przez zmianę treści SIWZ w zakresie zmiany terminów bez wymaganej zmiany ogłoszenia o zamówieniu. 18 Niedopełnienie obowiązków związanych z udostępnianiem SIWZ 25%w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 50% terminu przewidzianego ustawą na składanie ofert10% w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 60% terminu przewidzianego ustawą na składanie ofert5% w przypadku, gdy czas na zapoznanie się wykonawcy z dokumentacją został skrócony do mniej niż 80% terminu przewidzianego ustawą na składanie ofert. 1. Naruszenie art. 42 ust. 1 Pzp przez nieudostępnienie SIWZ na stronie internetowej od dnia zamieszczenia ogłoszenia o zamówieniu.2. Naruszenie art. 51 ust. 4, art. 57 ust. 5, art. 60e ust. 3, art. 64 ust. 3 Pzp przez nieprzekazanie wykonawcom SIWZ wraz z zaproszeniem do składania ofert. 19 Nieprawidłowości w zakresie oświadczeń i dokumentów wymaganych od wykonawców 5% Naruszenie art. 25 ust. 1 Pzp przez żądanie od wykonawców oświadczeń lub dokumentów, które nie są niezbędne do przeprowadzenia postępowania. 20 Dyskryminacyjny opis przedmiotu zamówienia 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru i wagi niezgodności3). 1. Naruszenie art. 29 ust. 2 Pzp przez opisanie przedmiotu zamówienia w sposób, który mógłby utrudniać uczciwą konkurencję.2. Naruszenie art. 29 ust. 3 Pzp przez opisanie przedmiotu zamówienia przez wskazanie znaków towarowych, patentów lub pochodzenia bez zachowania przesłanek określonych w tym przepisie.3.Naruszenie art. 30 ust. 2-4 Pzp przez opisanie przedmiotu zamówienia za pomocą norm, aprobat, specyfikacji technicznych i systemów odniesienia bez dopuszczenia rozwiązań równoważnych lub z naruszeniem ustawowej kolejności. 21 Niejednoznaczny opis przedmiotu zamówienia 10%Wysokość wskaźnika może zostać obniżona do 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 29 ust. 1 Pzp przez opisanie przedmiotu zamówienia w sposób niejednoznaczny i niewyczerpujący, za pomocą niedostatecznie dokładnych i niezrozumiałych określeń, nieuwzględniający wszystkich wymagań i okoliczności mogących mieć wpływ na sporządzenie oferty. 22 Ograniczenie kręgu potencjalnych wykonawców 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Przetarg ograniczony, negocjacje z ogłoszeniem, dialog konkurencyjny -naruszenie art. 51 ust. 1, art. 57 ust. 2 lub art. 60d ust. 2 Pzp przez zaproszenie do składania ofert mniejszej liczby wykonawców niż ich minimalna liczba przewidziana w Pzp.2. Negocjacje bez ogłoszenia - naruszenie art. 63 ust. 3 Pzp przez zaproszenie do negocjacji mniejszej liczby wykonawców niż ich minimalna liczba przewidziana w Pzp.3. Zapytanie o cenę - naruszenie art. 71 ust. 1 Pzp przez zaproszenie do składania ofert mniejszej liczby wykonawców, niż ich minimalna liczba przewidziana w Pzp.4. Naruszenie art. 106 ust.l oraz art. 108 ust. 1 Pzp przez uniemożliwienie składania ofert orientacyjnych wykonawcom niedopuszczonym dotychczas do udziału w dynamicznym systemie zakupów lub uniemożliwienie wykonawcom dopuszczonym do udziału w dynamicznym systemie zakupów złożenia ofert w postępowaniu o udzielenie zamówienia prowadzonym w ramach tego systemu. 23 Prowadzenie negocjacji dotyczących treści oferty 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 87 Pzp przez dokonywanie w toku badania i oceny ofert istotnych zmian w treści oferty oraz zmian wymagań zawartych w SIWZ w drodze negocjacji między zamawiającym a wykonawcą. 24 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). 1. Naruszenie art. 89 Pzp przez odrzucenie najkorzystniejszej oferty bez zaistnienia przesłanek określonych w tym przepisie lub przez wybór jako najkorzystniejszej oferty podlegającej odrzuceniu; z zastrzeżeniem lp. 25.2. Naruszenie art. 24 ust. 1, 2 lub 2a Pzp przez wykluczenie wykonawcy, który złożył najkorzystniejszą ofertę, bez zaistnienia przesłanek określonych w tych przepisach, w tym przez zaniechanie wezwania do uzupełnienia lub wyjaśnienia treści dokumentów zgodnie z art. 24b ust. 1 lub art. 26 ust. 3 lub 4 Pzp.3. Naruszenie art. 89 ust. 1 pkt 5 w związku z art. 24 ust. 1, 2 lub 2a lub art. 24b ust. 3 Pzp przez wybór jako najkorzystniejszej oferty wykonawcy podlegającego wykluczeniu. 25 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25% Naruszenie art. 89 ust. 1 pkt 4 i art. 90 ust. 1 Pzp przez odrzucenie oferty, jako zawierającej rażąco niską cenę, bez zwrócenia się do wykonawcy o udzielenie, w określonym terminie, wyjaśnień dotyczących elementów oferty mających wpływ na wysokość ceny. 26 Naruszenia w zakresie nieuprawnionego unieważnienia postępowania Różnica pomiędzy kosztami kwalifikowalnymi oferty wybranej a wartością najkorzystniejszej oferty z postępowania unieważnionego z nieuprawnionych przesłanek. Naruszenie art. 93 ust 1, la lub 1b Pzp przez nieuprawnione unieważnienie postępowania o udzielenie zamówienia. 27 Naruszenia w zakresie dokumentowania postępowania 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 96 lub art. 97 Pzp przez dokumentowanie postępowania w sposób uniemożliwiający zapewnienie właściwej ścieżki audytu. 28 Naruszenia w zakresie zawierania umów 25%Wysokość wskaźnika może zostać obniżona do 10% lub 5% w zależności od charakteru lub wagi niezgodności3). Naruszenie art. 94 ust. 3 Pzp w związku z art. 91 ust. 1 Pzp przez zawarcie umowy z innym wykonawcą niż ten, który złożył kolejną najkorzystniejszą ofertę z pozostałych ofert złożonych w postępowaniu, w przypadku, gdy wykonawca, którego oferta została wybrana, uchyla się od zawarcia umowy w sprawie zamówienia. 29 Naruszenia w zakresie zawierania umów 5% 1. Naruszenie art. 94 ust. 1 Pzp przez zawarcie umowy w sprawie zamówienia publicznego w terminie krótszym, niż określony w tym przepisie. 2.Naruszenie art. 183 ust. 1 Pzp przez zawarcie umowy w sprawie zamówienia publicznego przed ogłoszeniem przez Krajową Izbę Odwoławczą wyroku lub postanowienia kończącego postępowanie. 30 Brak przekazania informacji o wyborze najkorzystniejszej oferty 5% Naruszenie art. 92 ust. 1 pkt 1 Pzp przez niezawiadomienie wykonawców o wyborze najkorzystniejszej oferty. 31 Niedozwolona zmiana postanowień zawartej umowy 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia + 100% kosztów kwalifikowalnych stanowiących wartość dodatkowego zamówienia wynikających z istotnej zmiany umowy. Naruszenie art. 144 ust. 1 Pzp przez dokonanie istotnej zmiany umowy w stosunku do treści oferty, na postawie której dokonano wyboru wykonawcy, chyba że zamawiający przewidział możliwość dokonania takiej zmiany w ogłoszeniu o zamówieniu lub w SIWZ oraz określił warunki takiej zmiany, z zastrzeżeniem lp.32. 32 Niedozwolona zmiana postanowień zawartej umowy 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia + 100% kosztów kwalifikowalnych stanowiących wartość zmniejszenia zakresu świadczenia. Naruszenie art. 144 ust. 1 Pzp przez zmianę umowy polegającą na zmniejszeniu zakresu świadczenia wykonawcy w stosunku do zobowiązania zawartego w ofercie. 1) Zamówienia o wartościach równych lub wyższych niż określone w przepisach wydanych na podstawie w art. 11 ust. 8 Pzp. 2) Zamówienia o wartościach niższych niż określone w przepisach wydanych na podstawie w art. 11 ust. 8 Pzp. 3) Charakter i wagę niezgodności ocenia się odrębnie dla każdego zamówienia, biorąc pod uwagę stopień naruszenia zasad uczciwej konkurencji, równego traktowania wykonawców, przejrzystości i niedyskryminacji.
+
+## Załącznik nr 5 - Wskaźniki procentowe przypisane do stwierdzonej niezgodności, w przypadku niezgodności dotyczącej spełnienia warunków określonych w § 30 ust. 1 rozporządzenia
+
+Lp. Rodzaj niezgodności Wskaźnik procentowy Opis niezgodności 1 Niewłaściwe upublicznienie zapytania ofertowego 100% Nieupublicznienie zapytania ofertowego, zgodnie z warunkami określonymi w § 30 ust. 1 pkt 1 rozporządzenia tj. przez brak jego przesłania co najmniej trzem potencjalnym wykonawcom, a gdy jest ich mniej niż trzech - każdemu z nich, lub przez brak umieszczenia na stronie internetowej podmiotu uprawnionego. 2 Niewłaściwe oszacowanie wartości zamówienia 100% Nieoszacowanie wartości zamówienia zgodnie z warunkami określonymi w § 6 ust. 1 pkt 2 rozporządzenia, skutkujące brakiem zastosowania konkurencyjnego trybu wyboru wykonawcy określonego w § 30 rozporządzenia. 3 Naruszenia w zakresie wyboru najkorzystniejszej oferty 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 30 ust. 1 pkt 2 i ust. 2 rozporządzenia przez dokonanie wyboru oferty, która nie jest najkorzystniejsza. 4 Naruszenia w zakresie zawierania umów z wykonawcą 100%kosztów kwalifikowalnych stanowiących wartość dodatkowego zamówienia wynikającej z istotnej zmiany umowy zwiększone o 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia Naruszenie § 30 ust. 1 pkt 3 rozporządzenia przez dokonanie istotnej zmiany umowy w stosunku do złożonej oferty, na podstawie której dokonano wyboru wykonawcy, chyba że możliwość i warunki dokonania takiej zmiany zostały przewidziane w zapytaniu ofertowym. 5 Naruszenia w zakresie zawierania umów z wykonawcą 100%kosztów kwalifikowalnych stanowiących zmniejszenia zakresu świadczenia oraz 25% kosztów kwalifikowalnych stanowiących wartość ostatecznego zakresu świadczenia Naruszenie § 30 ust. 1 pkt 3 rozporządzenia przez zmianę umowy polegającej na zmniejszeniu zakresu świadczenia wykonawcy w stosunku do zobowiązania zawartego w ofercie. 6 Naruszenia w zakresie dokumentowania postępowania o zamówienie 25%możliwość obniżenia wysokości wskaźnika do 10% lub 5% w zależności od wagi niezgodności1) Naruszenie § 30 ust. 1 pkt 4 rozporządzenia, w związku z naruszeniem warunków udokumentowania przebiegu postępowania. 1) Wagę niezgodności ocenia się odrębnie dla każdego zamówienia, biorąc pod uwagę stopień naruszenia zasad uczciwej konkurencji, równego traktowania wykonawców, przejrzystości i niedyskryminacji.

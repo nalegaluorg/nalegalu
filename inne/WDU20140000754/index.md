@@ -8,9 +8,9 @@ pos: 754
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Trybunał Konstytucyjny składzie: Piotr Tuleja – przewodniczący Andrzej Wróbel – sprawozdawca Marek Zubik, po rozpoznaniu, udziałem wnioskodawcy oraz Ministra Sprawiedliwości, na rozprawie dniu 22 maja 2014 r., wniosku Prokuratora Generalnego o zbadanie zgodności:
+# Wyrok Trybunału Konstytucyjnegoz dnia 22 maja 2014 r.
 
 | Pole | Wartość |
 |---|---|
@@ -22,87 +22,142 @@ domain: null
 | Data ogłoszenia | 2014-05-22 |
 | Data wydania | 2014-06-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000754) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/754/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/754/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/754) |
 
-1) § 2 rozporządzenia Ministra Sprawiedliwości dnia 25 marca 2010 r.
-sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 49, poz. 297, ze zm.) zakresie, jakim:
-a) ustalony pkt 1 obszar właściwości Prokuratury Apelacyjnej Białymstoku nie obejmuje obszaru właściwości Prokuratury Okręgowej Ostrołęce,
-b) ustalony pkt 6 obszar właściwości Prokuratury Apelacyjnej Łodzi nie obejmuje obszaru właściwości Prokuratury Okręgowej Płocku,
-c) ustalonym pkt 10 obszarze właściwości Prokuratury Apelacyjnej Warszawie pozostawiony został obszar właściwości Prokuratury Okręgowej Ostrołęce oraz Prokuratury Okręgowej Płocku,
-2) § 3 rozporządzenia powołanego punkcie 1 zakresie, jakim:
-a) ustalonym pkt 1 obszarze właściwości Prokuratury Apelacyjnej Białymstoku nie przewiduje utworzenia Prokuratury Okręgowej Ostrołęce,
-b) ustalonym pkt 6 obszarze właściwości Prokuratury Apelacyjnej Łodzi nie przewiduje utworzenia Prokuratury Okręgowej Płocku,
-c) ustalonym pkt 10 obszarze właściwości Prokuratury Apelacyjnej Warszawie: – lit. a tworzy Prokuraturę Okręgową Ostrołęce, – lit. b tworzy Prokuraturę Okręgową Płocku,
-3) § 3 rozporządzenia powołanego punkcie 1 zakresie, jakim:
-a) ustalonym pkt 2 lit. b obszarze właściwości Prokuratury
-a) ustalonym pkt 5 obszarze właściwości Prokuratury Okręgowej Elblągu tworzy się – lit. b – Prokuraturę Rejonową Działdowie,
-b) ustalonym pkt 26 obszarze właściwości Prokuratury Okręgowej Płocku nie przewiduje się utworzenia Prokuratury Rejonowej Działdowie – art. 17 ust. 12 i 13 ustawy dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. 2011 r. Nr 270, poz. 1599, ze zm.) oraz art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej, o r e k a: I
-1) § 2 rozporządzenia Ministra Sprawiedliwości dnia 25 marca 2010 r.
-sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 49, poz. 297, Nr 116, poz. 780 i Nr 255, poz. 1717, 2011 r. Nr 42, poz. 218 i 219 i Nr 109, poz. 634 oraz 2012 r.
-poz. 1417) zakresie, jakim:
-a) ustalony pkt 1 obszar właściwości Prokuratury Apelacyjnej Białymstoku nie obejmuje obszaru właściwości Prokuratury Okręgowej Ostrołęce,
-b) ustalony pkt 6 obszar właściwości Prokuratury Apelacyjnej Łodzi nie obejmuje obszaru właściwości Prokuratury Okręgowej Płocku,
-c) ustalony pkt 10 obszar właściwości Prokuratury Apelacyjnej Warszawie obejmuje obszar właściwości Prokuratury Okręgowej Ostrołęce oraz obszar właściwości Prokuratury Okręgowej Płocku,
-2) § 3 rozporządzenia powołanego punkcie 1 zakresie, jakim:
-a) ustalonym pkt 1 obszarze właściwości Prokuratury Apelacyjnej Białymstoku nie przewiduje się utworzenia Prokuratury Okręgowej Ostrołęce,
-b) ustalonym pkt 6 obszarze właściwości Prokuratury Apelacyjnej Łodzi nie przewiduje się utworzenia Prokuratury Okręgowej Płocku,
-c) ustalonym pkt 10 obszarze właściwości Prokuratury Apelacyjnej Warszawie: – lit. a tworzy się Prokuraturę Okręgową Ostrołęce, – lit. b tworzy się Prokuraturę Okręgową Płocku,
-3) § 3 rozporządzenia powołanego punkcie 1 zakresie, jakim:
-a) ustalony pkt 2 lit. b obszar właściwości Prokuratury Okręgowej Płocku nie przewiduje się utworzenia Prokuratury Rejonowej Działdowie są niezgodne art. 17 ust. 12 ustawy dnia 20 czerwca 1985 r. o prokuraturze (Dz. U.
-2011 r. Nr 270, poz. 1599, 2012 r. poz. 637 oraz 2013 r. poz. 1623) i art. 92 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej.
-II Przepisy wymienione części I, zakresach tam wskazanych, tracą moc obowiązującą upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku Dzienniku Ustaw Rzeczypospolitej Polskiej.
-Ponadto p o s t a n a i a: na podstawie art. 39 ust. 1 pkt 1 ustawy dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, 2001 r. Nr 98, poz. 1070, 2005 r. Nr 169, poz. 1417, 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz 2011 r. Nr 112, poz. 654) umorzyć postępowanie pozostałym zakresie.
-UZASADNIENIE I
-1. We wniosku 2 września 2013 r. Prokurator Generalny wniósł o stwierdzenie, że:
-1) § 2 rozporządzenia Ministra Sprawiedliwości dnia 25 marca 2010 r. sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 49, poz. 297, ze zm.; dalej: rozporządzenie sprawie utworzenia prokuratur) zakresie, jakim:
-a) ustalony pkt 1 obszar właściwości Prokuratury Apelacyjnej Białymstoku nie obejmuje obszaru właściwości Prokuratury Okręgowej Ostrołęce,
-b) ustalony pkt 6 obszar właściwości Prokuratury Apelacyjnej Łodzi nie obejmuje obszaru właściwości Prokuratury Okręgowej Płocku,
-c) ustalonym pkt 10 obszarze właściwości Prokuratury Apelacyjnej Warszawie pozostawiony został obszar właściwości Prokuratury Okręgowej Ostrołęce oraz Prokuratury Okręgowej Płocku,
-2) § 3 rozporządzenia sprawie utworzenia prokuratur zakresie, jakim:
-a) ustalonym pkt 1 obszarze właściwości Prokuratury Apelacyjnej Białymstoku pozostawiony został obszar właściwości Prokuratury Rejonowej Działdowie,
-b) ustalony pkt 6 obszar właściwości Prokuratury Apelacyjnej Łodzi nie obejmuje obszaru właściwości Prokuratury Rejonowej Działdowie,
-4) § 5 rozporządzenia sprawie utworzenia prokuratur zakresie jakim:
-a) ustalonym pkt 5 obszarze właściwości Prokuratury Okręgowej Elblągu tworzy się - lit. b – Prokuraturę Rejonową Działdowie,
-b) ustalonym pkt 26 obszarze właściwości Prokuratury Okręgowej Płocku nie przewiduje się utworzenia Prokuratury Rejonowej Działdowie, – są niezgodne art. 17 ust. 12 i 13 ustawy dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. 2011 r. Nr 270, poz. 1599, ze zm.) oraz art. 92 ust. 1 Konstytucji.
-Prokurator Generalny zwrócił uwagę, że 1 sierpnia 2010 r. weszło życie rozporządzenie Ministra Sprawiedliwości dnia 2 lipca 2010 r. zmieniające rozporządzenie sprawie sądów apelacyjnych, sądów okręgowych i sądów rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 133, poz. 894), na mocy którego zmienione zostały m.in. właściwości niektórych sądów apelacyjnych. Następnie rozporządzeniu Ministra Sprawiedliwości dnia 25 października 2012 r. sprawie ustalenia siedzib i obszarów właściwości sądów apelacyjnych, sądów okręgowych i sądów rejonowych (Dz. U. poz. 1223) została zmieniona właściwość kolejnych sądów apelacyjnych. Jednocześnie nie zostały wprowadzone odpowiednie zmiany dotyczące właściwości miejscowej prokuratur. Od wejścia życie ustawy dnia 9 października 2009 r. o zmianie ustawy o prokuraturze oraz niektórych innych ustaw (Dz. U. Nr 178, poz. 1375, ze zm.), czyli 31 marca 2010 r. wprowadzony został ustawowy wymóg dostosowania obszarów właściwości prokuratur apelacyjnych do obszarów właściwości odpowiednich sądów apelacyjnych.
-We wskazanych przez Prokuratora Generalnego przypadkach, mimo zmian obszarach właściwości sądów apelacyjnych nie nastąpiły odpowiednie zmiany obszarach właściwości prokuratur apelacyjnych, wymagane przepisami ustawy o prokuraturze.
-Zdaniem Prokuratora Generalnego, wskazane przepisy sprawie utworzenia prokuratur naruszają art. 92 ust. 1 Konstytucji, ponieważ nie realizują postanowienia zawartego art. 17 ust. 12 ustawy o prokuraturze, odnoszącego się do właściwości sądów apelacyjnych. Prokurator Generalny przyznał, że „dla oceny zgodności kwestionowanych rozwiązań, przyjętych rozporządzeniu sprawie prokuratur 2010 r., upoważnieniem ustawowym i konsekwencji, art. 92 ust. 1 Konstytucji, niezbędne jest ich porównanie odpowiednimi regulacjami dotyczącymi właściwości miejscowej poszczególnych sądów”.
-W ocenie Prokuratora Generalnego, porównanie obszarów właściwości prokuratur apelacyjnych, określonych rozporządzeniu sprawie utworzenia prokuratur, wskazuje na niezgodność obszarami właściwości sądów apelacyjnych, określonych na podstawie ustawy 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. 2013 r.
-poz. 427, ze zm.). W związku tym kwestionowane rozporządzenie we wskazanym ministra do zapewnienia funkcjonalności poszczególnych prokuratur, natomiast ust. 12 – do tworzenia prokuratur apelacyjnych obszarach sądów apelacyjnych. Zdaniem ministra, określenie właściwości prokuratur apelacyjnych sposób bezwzględnie odpowiadający właściwości sądów apelacyjnych może okazać się sprzeczne postulatem tworzenia obszarów właściwości prokuratur sposób zapewniający ich prawidłowe funkcjonowanie.
-Minister Sprawiedliwości upatruje niezgodność kwestionowanych przepisów nie tyle art. 17 ust. 12 ustawy o prokuraturze, co wadliwą konstrukcją wytycznych, co konsekwencji utrudnia prawidłowe wykonanie upoważnienia do wydania rozporządzenia zachowaniem wszystkich wskazanych przez ustawodawcę zasad.
-Minister Sprawiedliwości zwrócił uwagę, że obecne rozwiązanie ma charakter przejściowy uwagi na toczące się prace legislacyjne zmierzające do usunięcia wątpliwości dotyczących treści upoważnienia ustawowego do wydania rozporządzenia określającego właściwości prokuratur.
-Minister Sprawiedliwości wskazał, że obowiązujące rozwiązania wychodzą naprzeciw postulatom samorządu prokuratorskiego i mają na celu zapewnienie prawidłowego funkcjonowania prokuratur.
-W opinii Ministra Sprawiedliwości, nie jest możliwa prawidłowa realizacja postanowień ustawowych zawartych art. 17 ust. 12 i 13 ustawy o prokuraturze.
-II Na rozprawie 22 maja 2014 r. uczestnicy postępowania podtrzymali zajęte pismach stanowiska. Przedstawiciel Ministra Sprawiedliwości potwierdził, że minister wydając rozporządzenie dnia 25 marca 2010 r. sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 49, poz. 297, ze zm.), mając na uwadze ciążącą na nim odpowiedzialność polityczną przyjął rozwiązania, które jego ocenie mają zapewnić, zgodnie wytyczną ustawową, prawidłowe funkcjonowanie prokuratur. Jednocześnie był świadomy, że przyjęte rozwiązania stoją sprzeczności innym przepisem ustawy dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. 2011 r. Nr 270, poz. 1599, ze zm.) oraz Konstytucją.
-III Trybunał Konstytucyjny zważył, co następuje:
-1. Przedmiot kontroli.
-Przedmiotem wniosku Prokuratora Generalnego są przepisy rozporządzenia Ministra Sprawiedliwości dnia 25 marca 2010 r. sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości (Dz. U. Nr 49, poz. 297, ze zm., dalej: rozporządzenie sprawie utworzenia prokuratur), wydanego na podstawie art. 17 ust. 13 i 15 ustawy dnia 20 czerwca 1985 r.
-prawidłowego funkcjonowania, ust. 12 zaś szczegółowe wskazania co do granic obszarów właściwości poszczególnych jednostek prokuratury, przy czym zasadnicze znaczenie dla prawidłowego ustalenia granic obszarów właściwości prokuratur apelacyjnych mają, zdaniem Prokuratora Generalnego, obszary właściwości odpowiednich sądów apelacyjnych.
-2. Dopuszczalność oceny merytorycznej.
-2.1. Kwestionowane przez Prokuratora Generalnego przepisy rozporządzenia sprawie utworzenia prokuratur zakresie, jakim odnoszą się do niektórych prokuratur apelacyjnych, wydane zostały na podstawie art. 17 ust. 13 ustawy o prokuraturze, który stanowi, że Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, drodze rozporządzenia, tworzy i znosi prokuratury apelacyjne, okręgowe i rejonowe oraz ustala ich siedziby i obszary właściwości, mając na względzie zapewnienie właściwego funkcjonowania tych jednostek.
-Wymagania, jakim muszą odpowiadać rozporządzenia, formułuje art. 92 ust. 1 Konstytucji. Przepis ten dopuszcza stanowienie rozporządzeń na podstawie „szczegółowego upoważnienia zawartego ustawie i celu jej wykonania”.
-Upoważnienie powinno mieć charakter szczegółowy pod względem: 1) podmiotowym (musi określać organ właściwy do wydania rozporządzenia), 2) przedmiotowym (musi określać zakres spraw przekazanych do uregulowania) i 3) treściowym (musi określać wytyczne dotyczące sposobu uszczegółowienia treści aktu normatywnego). Zgodnie utrwaloną linią orzeczniczą rozporządzenie jest aktem normatywnym wydanym celu wykonania ustawy oraz na podstawie udzielonych upoważnień. Tym samym konstrukcję rozporządzenia jako aktu wykonawczego determinują trzy podstawowe warunki.
-Po pierwsze, może być wydane na podstawie wyraźnego, a nie opartego na domniemaniu lub wykładni celowościowej, szczegółowego upoważnienia ustawy. Po drugie, musi być wydane granicach upoważnienia ustawy i celu jej wykonania. Po trzecie, nie może być sprzeczne Konstytucją ani powszechnie obowiązującymi przepisami prawa o randze nie niższej niż ustawa. Naruszenie choćby jednego tych warunków skutkuje niezgodnością rozporządzenia hierarchicznie wyższym aktem normatywnym, a każdym wypadku – Konstytucją (zob. wyroki TK z: 31 maja 2010 r., sygn. U 4/09, OTK ZU nr 4/A/2010, poz. 36, cz. III, pkt 4.1 uzasadnienia; 30 lipca 2013 r., sygn. U 5/12, OTK ZU nr 6/A/2013, poz. 88).
-„Wytyczne dotyczące treści aktu” mogą przybierać rozmaitą postać redakcyjną – mogą one mieć zarówno charakter „negatywny” (tzn. ze wszystkich wchodzących rachubę rozstrzygnięć, rozporządzeniodawcy mogą wykluczać te, których ustawodawca sobie nie życzy), jak i charakter „pozytywny” (np. wskazując kryteria, którymi powinien się kierować twórca rozporządzenia, normując przekazany mu zakres spraw, wskazując cele, jakie ma spełniać dane unormowanie, czy funkcje, które ma spełniać instytucja, której ukształtowanie ustawa powierzyła rozporządzeniu). W każdym razie ustawa musi zawierać pozostaje zgodzie ogólnymi zasadami wyłączności ustawy i nakazami, by pewne kwestie były regulowane całości ustawie. „Wytyczne” nie muszą być zawarte przepisie formującym upoważnienie do wydania rozporządzenia – możliwe jest też ich zamieszczenie innych przepisach ustawy, o ile tylko pozwala to na precyzyjne zrekonstruowanie treści tych wytycznych (zob. np. wyrok TK 17 października 2000 r., sygn. K 16/99, OTK ZU nr 7/2000, poz. 253).
-Prokurator Generalny jest zdania, że wytyczne do treści kwestionowanego rozporządzenia zawiera ustawa dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. 2013 r. poz. 427, ze zm.; dalej: p.u.s.p.), tym art. 10 stanowiący, że: „§ 1. Sąd rejonowy tworzy się dla jednej lub większej liczby gmin;
-uzasadnionych przypadkach może być utworzony więcej niż jeden sąd rejonowy obrębie tej samej gminy. § 2. Sąd okręgowy tworzy się dla obszaru właściwości co najmniej dwóch sądów rejonowych, zwanego dalej «okręgiem sądowym». § 3. Sąd apelacyjny tworzy się dla obszaru właściwości co najmniej dwóch okręgów sądowych, zwanego dalej «obszarem apelacji» oraz art. 20 pkt 1, zgodnie którym „Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Sądownictwa, drodze rozporządzeń: 1) tworzy i znosi sądy oraz ustala ich siedziby i obszary właściwości (…) kierując się potrzebą zapewnienia racjonalnej organizacji sądownictwa, przez dostosowanie liczby sądów, ich wielkości i obszarów właściwości do zakresu obciążenia wpływem spraw, a także uwzględniając ekonomię postępowania sądowego, celu zagwarantowania realizacji prawa obywatela do rozpoznania jego sprawy rozsądnym terminie”.
-Trybunał zwrócił uwagę, że po pierwsze – Minister Sprawiedliwości tworzy i znosi prokuratury oraz ustala ich siedziby i obszary właściwości drodze rozporządzenia na podstawie upoważnienia zawartego ustawie o prokuraturze oraz zgodnie tą ustawą, po drugie – wskazane przepisy p.u.s.p. nie wiążą Ministra Sprawiedliwości wykonaniu upoważnienia zawartego art. 17 ust. 13 ustawy o prokuraturze, a zatem nie mogą być uznane za wytyczne rozumieniu art. 92 ust. 1 Konstytucji.
-Trybunał zauważył, że art. 17 ust. 12 ustawy o prokuraturze zakresie, jakim dotyczy tworzenia prokuratur apelacyjnych, nie pozostawia Ministrowi Sprawiedliwości żadnego zakresu uznania (swobody), jeżeli chodzi o ustalanie obszaru właściwości prokuratur apelacyjnych, podczas gdy wytyczne zawarte przepisie upoważniającym Ministra Sprawiedliwości do tworzenia prokuratur apelacyjnych oraz ustalania ich siedzib i obszarów właściwości (art. 17 ust. 13 ustawy o prokuraturze) nakazują Ministrowi „zapewnienie właściwego funkcjonowania tych jednostek”; rezultacie nie można wykluczyć, że Minister Sprawiedliwości może mieć ograniczone możliwości zastosowania się do wytycznych określonych art. 17 ust. 13 ustawy o prokuraturze, skoro obszar właściwości prokuratury apelacyjnej musi odpowiadać obszarowi właściwości odpowiedniego sądu apelacyjnego, co przesądza niebudząca wątpliwości treść art. 17 ust. 2 ustawy o prokuraturze.
-W świetle powyższego nie budzi wątpliwości, że art. 17 ust. 13 ustawy możliwa, ponieważ Trybunał Konstytucyjny, zgodnie art. 66 ustawy dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, ze zm.; dalej: ustawa o TK) związany jest granicami wniosku.
-Ponadto, o czym wcześniej już była mowa, wniosku wynika, że zarzutem niezgodności ustawą i jednocześnie Konstytucją jest niezgodność kwestionowanych przepisów rozporządzenia sprawie utworzenia prokuratur art. 17 ust. 12 ustawy o prokuraturze.
-W związku tym postępowanie zakresie badania zgodności kwestionowanych przepisów art. 17 ust. 13 ustawy o prokuraturze podlega umorzeniu na podstawie art. 39 ust. 1 pkt 1 ustawy o TK.
-3. Kontrola zgodności rozporządzenia sprawie utworzenia prokuratur art. 17 ust. 12 ustawy o prokuraturze i art. 92 ust. 1 Konstytucji.
-3.1. Prokurator Generalny jest zdania, że zakwestionowane przepisy rozporządzenia sprawie utworzenia prokuratur są sprzeczne art. 17 ust. 12 ustawy o prokuraturze, „a zatem treścią wytycznych dla aktu wykonawczego, wydawanego na podstawie art. 17 ust. 13 ustawy o prokuraturze”. Wydaje się zatem przyjmować, że wytyczne do rozporządzeń wydawanych na podstawie upoważnienia art. 17 ust. 13 ustawy o prokuraturze, zawarte są art. 17 ust. 12 tej ustawy, który stanowi, że „Prokuraturę apelacyjną tworzy się dla obszaru właściwości co najmniej dwóch prokuratur okręgowych, odpowiadającego obszarowi właściwości odpowiedniego sądu apelacyjnego. Prokuraturę okręgową tworzy się dla obszaru właściwości co najmniej dwóch prokuratur rejonowych. Prokuraturę rejonową tworzy się dla jednej lub większej liczby gmin; uzasadnionych wypadkach może być utworzona więcej niż jedna prokuratura rejonowa obrębie tej samej gminy”.
-Według Prokuratora Generalnego, art. 17 ust. 12 ustawy o prokuraturze wynika, że obszary właściwości sądów apelacyjnych, ustalone rozporządzeniu Ministra Sprawiedliwości dnia 25 października 2012 r. sprawie ustalenia siedzib i obszarów właściwości sądów okręgowych i sądów rejonowych (Dz. U. poz. 1223, ze zm.; dalej: rozporządzenie 2012 r.), wydanym na podstawie art. 20 pkt 1 p.u.s.p., wyznaczają obszary właściwości nie tylko prokuratur apelacyjnych odpowiadających tym sądom, ale również granice właściwości miejscowej prokuratur okręgowych i prokuratur rejonowych tworzonych na obszarze danej prokuratury apelacyjnej, tym znaczeniu, że właściwością miejscową danej prokuratury apelacyjnej, utworzonej dla prokuratur okręgowych i rejonowych, powinny zostać objęte jedynie te gminy, które znajdują się na obszarze właściwości sądu apelacyjnego odpowiadającego tejże prokuraturze apelacyjnej.
-3.2. W ocenie Trybunału Konstytucyjnego, art. 17 ust. 12 ustawy o prokuraturze nie jest przepisem upoważniającym do wydania rozporządzenia, lecz przepisem określającym zasady tworzenia prokuratur; istotne jest przy tym to, że tylko odniesieniu tym zakresie żadnych wyjątków.
-Rekonstrukcja treści wniosku Prokuratora Generalnego prowadzi jednak do konkluzji, że Prokurator Generalny zarzuca naruszenie art. 92 ust. 1 Konstytucji przez to, że rozporządzenie narusza art. 17 ust. 12 ustawy o prokuraturze, a zatem jest sprzeczne ustawą, której wynika upoważnienie ustawowe (art. 17 ust. 13 ustawy o prokuraturze).
-W związku tym należy przypomnieć, że zgodnie utrwaloną linią orzeczniczą rozporządzenie jest aktem normatywnym wydanym celu wykonania ustawy oraz na podstawie udzielonych upoważnień. Tym samym konstrukcję rozporządzenia jako aktu wykonawczego determinują trzy podstawowe warunki. Po pierwsze, wydawane jest na podstawie wyraźnego, a nie opartego na domniemaniu lub wykładni celowościowej, szczegółowego upoważnienia ustawy. Po drugie, musi być wydane granicach upoważnienia ustawy i celu jej wykonania. Po trzecie, nie może być sprzeczne Konstytucją ani powszechnie obowiązującymi przepisami prawa o randze nie niższej niż ustawa. Naruszenie choćby jednego tych warunków skutkuje niezgodnością rozporządzenia hierarchicznie wyższym aktem normatywnym, a każdym wypadku – Konstytucją (zob. wyrok TK 31 maja 2010 r., sygn. U 4/09, OTK ZU nr 4/A/2010, poz. 36, cz. III, pkt 4.1 uzasadnienia; wyrok TK 30 lipca 2013 r., sygn. U 5/12, OTK ZU nr 6/A/2013, poz. 88, pkt 3.1 uzasadnienia). Trzeci wymienionych wyżej warunków prawidłowości rozporządzenia został sprecyzowany ten sposób, że tego rodzaju akt normatywny „oprócz niesprzeczności ustawą, której wynika upoważnienie i na podstawie której został wydany, nie może być sprzeczny normami konstytucyjnymi, a także aktami ustawodawczymi, które pośrednio lub bezpośrednio dotyczą materii stanowiącej przedmiot rozporządzenia” (wyrok TK 26 lipca 2004 r., sygn. U 16/02, OTK ZU nr 7/A/2004, poz. 70). Rozporządzenie, które narusza inny przepis ustawy niż przepis, którego wynika upoważnienie i na podstawie którego zostało wydane, traci tym zakresie wymagany konstytucją charakter aktu wykonawczego do ustawy. Wymagało zatem oceny Trybunału, czy kwestionowane przepisy rozporządzenia sprawie utworzenia prokuratur są niezgodne art. 17 ust. 12 ustawy o prokuraturze i art. 92 ust. 1 Konstytucji.
-Należało podzielić stanowisko Prokuratora Generalnego, że art. 17 ust. 12 ustawy o prokuraturze wynika, iż obszary właściwości sądów apelacyjnych, ustalone rozporządzeniu 2012 r. wyznaczają pośrednio obszary właściwości nie tylko prokuratur apelacyjnych odpowiadających tym sądom, ale również granice właściwości miejscowej prokuratur okręgowych i prokuratur rejonowych tworzonych na obszarze danej prokuratury apelacyjnej, tym znaczeniu, że właściwością miejscową danej prokuratury apelacyjnej, utworzonej dla prokuratur okręgowych i rejonowych, powinny zostać objęte jedynie te gminy, które znajdują się na obszarze właściwości sądu apelacyjnego odpowiadającego obszarowi właściwości tejże prokuraturze apelacyjnej.
-Stwierdzenie wszakże ewentualnej niezgodności przepisów rozporządzenia sprawie utworzenia prokuratur art. 17 ust. 12 ustawy o prokuraturze wymagało ust. 12 ustawy o prokuraturze, nie było wykonywaniem przez Trybunał tzw. kontroli poziomej. Trybunał nie orzeka bowiem o niezgodności rozporządzenia sprawie utworzenia prokuratur rozporządzeniem 2012 r. wydanym na podstawie p.u.s.p., lecz orzeka o zgodności kwestionowanego rozporządzenia sprawie utworzenia prokuratur ustawą o prokuraturze. Z tych względów ocena ta była nie tylko dopuszczalna, ale również konieczna i mieszcząca się zakresie konstytucyjnych kompetencji Trybunału, który zgodnie art. 188 pkt 3 Konstytucji kontroluje hierarchiczną zgodności przepisów prawa. Przypomnieć bowiem należy, że ustabilizowana już linia orzecznictwa Trybunału ogranicza procedurę kontroli norm prawnych tylko do badania wzajemnych relacji między normami o różnej randze prawnej (kontrola pionowa;
-zob. orzeczenia z: 12 stycznia 1995 r., sygn. K 12/94, OTK 1995 r., cz. I, poz. 2;
-24 stycznia 1995 r., sygn. K 5/94, OTK 1995 r., cz. I, poz. 3; 4 października 1995 r., sygn. K 8/95, OTK 1995 r., cz. II, poz. 28; 23 października 1995 r., sygn. K 4/95, OTK 1995 r., cz. II, poz. 31).
-Z wykonawczego charakteru rozporządzenia wynika, że na zgodność jego treści treścią ustawy wpływa każda zmiana ustawy, na podstawie której zostało wydane.
-Ustawodawca art. 17 ust. 12 ustawy o prokuraturze nakazuje dostosować właściwość miejscową prokuratur apelacyjnych do obszaru właściwości odpowiednich sądów apelacyjnych, przy czym sama właściwość miejscowa sądów apelacyjnych została określona rozporządzeniu 2012 r. W ten sposób art. 17 ust. 12 ustawy o prokuraturze przyjęta została przez ustawodawcę konstrukcja, zgodnie którą na treść rozporządzenia dotyczącego prokuratur wpływa przede wszystkim każda zmiana rozporządzenia 2012 r. zakresie, jakim określa obszary właściwości sądów apelacyjnych. Z uwagi na to, że prokuratura apelacyjna tworzona jest, odniesieniu do obszaru właściwości odpowiedniego sądu apelacyjnego, dla obszaru właściwości co najmniej dwóch prokuratur okręgowych, a te zaś dla co najmniej dwóch prokuratur rejonowych – właściwość miejscowa danej prokuratury apelacyjnej obejmuje te gminy, które znajdują się na obszarze właściwości sądu apelacyjnego odpowiadającego tejże prokuraturze apelacyjnej. Z tych względów każda zmiana właściwości miejscowej sądów apelacyjnych skutkuje koniecznością dokonania odpowiednich zmian rozporządzeniu sprawie utworzenia prokuratur i każde tym względzie odstępstwo skutkuje niezgodnością treści tego rozporządzenia art. 17 ust. 12 ustawy o prokuraturze.
-Po przeanalizowaniu treści kwestionowanych przepisów rozporządzenia sprawie utworzenia prokuratur oraz rozporządzenia 2012 r. należało stwierdzić, że kwestionowane przez Prokuratora Generalnego przepisy rozporządzenia sprawie utworzenia prokuratur są niezgodne art. 17 ust. 12 ustawy o prokuraturze, ponieważ określone nich właściwości prokuratur apelacyjnych, a konsekwencji również wskazanych we wniosku prokuratur okręgowych i rejonowych, nie odpowiadają obszarom właściwości odpowiednich sądów apelacyjnych. W rezultacie rozporządzenie sprawie utworzenia prokuratur kwestionowanym przez Prokuratora Generalnego zakresie utraciło wymagany Konstytucją charakter aktu wykonawczego do ustawy o prokuraturze, Sprawiedliwości, są zgodni, że zakwestionowane przepisy rozporządzenia sprawie utworzenia prokuratur naruszają art. 17 ust. 12 ustawy o prokuraturze i art. 92 ust. 1 Konstytucji, dostrzegają potrzebę dokonania konkretnych zmian obowiązującego prawa i podjęli wstępne działania tym kierunku. Wniosek do Trybunału Konstytucyjnego, stanowiący swoiste ultima ratio, nie zastępuje takiego współdziałania i nie zwalnia Ministra Sprawiedliwości obowiązku wykorzystania konstytucyjnych i ustawowych kompetencji zakresie przywrócenia stanu zgodności Konstytucją przez odpowiednią zmianę przepisów rozporządzenia.
-Z tych względów Trybunał Konstytucyjny orzekł jak sentencji.
+## Treść wyroku
 
+Trybunał Konstytucyjny w składzie: Piotr Tuleja - przewodniczący, Andrzej Wróbel - sprawozdawca, Marek Zubik, protokolant: Grażyna Szałygo, po rozpoznaniu, z udziałem wnioskodawcy oraz Ministra Sprawiedliwości, na rozprawie w dniu 22 maja 2014 r., wniosku Prokuratora Generalnego o zbadanie zgodności:
+
+### 1)
+
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2010 r. w sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości ([Dz. U. Nr 49, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/2010/297/text.html), ze zm.) w zakresie, w jakim:
+
+### a)
+
+ustalony w pkt 1 obszar właściwości Prokuratury Apelacyjnej w Białymstoku nie obejmuje obszaru właściwości Prokuratury Okręgowej w Ostrołęce,
+
+### b)
+
+ustalony w pkt 6 obszar właściwości Prokuratury Apelacyjnej w Łodzi nie obejmuje obszaru właściwości Prokuratury Okręgowej w Płocku,
+
+### c)
+
+w ustalonym w pkt 10 obszarze właściwości Prokuratury Apelacyjnej w Warszawie pozostawiony został obszar właściwości Prokuratury Okręgowej w Ostrołęce oraz Prokuratury Okręgowej w Płocku,
+
+### 2)
+
+§ 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+w ustalonym w pkt 1 obszarze właściwości Prokuratury Apelacyjnej w Białymstoku nie przewiduje utworzenia Prokuratury Okręgowej w Ostrołęce,
+
+### b)
+
+w ustalonym w pkt 6 obszarze właściwości Prokuratury Apelacyjnej w Łodzi nie przewiduje utworzenia Prokuratury Okręgowej w Płocku,
+
+### c)
+
+w ustalonym w pkt 10 obszarze właściwości Prokuratury Apelacyjnej w Warszawie:
+
+- - w lit. a tworzy Prokuraturę Okręgową w Ostrołęce,
+
+- - w lit. b tworzy Prokuraturę Okręgową w Płocku,
+
+### 3)
+
+§ 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+w ustalonym w pkt 2 lit. b obszarze właściwości Prokuratury Okręgowej w Elblągu utworzonej w obszarze właściwości Prokuratury Apelacyjnej w Gdańsku pozostawiony został obszar właściwości Prokuratury Rejonowej w Działdowie,
+
+### b)
+
+ustalony w pkt 6 obszar właściwości Prokuratury Apelacyjnej w Łodzi nie obejmuje obszaru właściwości Prokuratury Rejonowej w Działdowie,
+
+### 4)
+
+§ 5 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+w ustalonym w pkt 5 obszarze właściwości Prokuratury Okręgowej w Elblągu tworzy się - w lit. b - Prokuraturę Rejonową w Działdowie,
+
+### b)
+
+w ustalonym w pkt 26 obszarze właściwości Prokuratury Okręgowej w Płocku nie przewiduje się utworzenia Prokuratury Rejonowej w Działdowie
+
+- z art. 17 ust. 12 i 13 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2011 r. Nr 270, poz. 1599](https://api.sejm.gov.pl/eli/acts/DU/2011/1599/text.html), ze zm.) oraz z art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej,
+
+orzeka:
+
+### I
+
+### 1)
+
+§ 2 rozporządzenia Ministra Sprawiedliwości z dnia 25 marca 2010 r. w sprawie utworzenia prokuratur apelacyjnych, okręgowych i rejonowych oraz ustalenia ich siedzib i obszarów właściwości ([Dz. U. Nr 49, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/2010/297/text.html), [Nr 116, poz. 780](https://api.sejm.gov.pl/eli/acts/DU/2010/780/text.html) i [Nr 255, poz. 1717](https://api.sejm.gov.pl/eli/acts/DU/2010/1717/text.html), z [2011 r. Nr 42, poz. 218](https://api.sejm.gov.pl/eli/acts/DU/2011/218/text.html) i [219](https://api.sejm.gov.pl/eli/acts/DU/2011/219/text.html) i [Nr 109, poz. 634](https://api.sejm.gov.pl/eli/acts/DU/2011/634/text.html) oraz z [2012 r. poz. 1417](https://api.sejm.gov.pl/eli/acts/DU/2012/1417/text.html)) w zakresie, w jakim:
+
+### a)
+
+ustalony w pkt 1 obszar właściwości Prokuratury Apelacyjnej w Białymstoku nie obejmuje obszaru właściwości Prokuratury Okręgowej w Ostrołęce,
+
+### b)
+
+ustalony w pkt 6 obszar właściwości Prokuratury Apelacyjnej w Łodzi nie obejmuje obszaru właściwości Prokuratury Okręgowej w Płocku,
+
+### c)
+
+ustalony w pkt 10 obszar właściwości Prokuratury Apelacyjnej w Warszawie obejmuje obszar właściwości Prokuratury Okręgowej w Ostrołęce oraz obszar właściwości Prokuratury Okręgowej w Płocku,
+
+### 2)
+
+§ 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+w ustalonym w pkt 1 obszarze właściwości Prokuratury Apelacyjnej w Białymstoku nie przewiduje się utworzenia Prokuratury Okręgowej w Ostrołęce,
+
+### b)
+
+w ustalonym w pkt 6 obszarze właściwości Prokuratury Apelacyjnej w Łodzi nie przewiduje się utworzenia Prokuratury Okręgowej w Płocku,
+
+### c)
+
+w ustalonym w pkt 10 obszarze właściwości Prokuratury Apelacyjnej w Warszawie:
+
+- - w lit. a tworzy się Prokuraturę Okręgową w Ostrołęce,
+
+- - w lit. b tworzy się Prokuraturę Okręgową w Płocku,
+
+### 3)
+
+§ 3 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+ustalony w pkt 2 lit. b obszar właściwości Prokuratury Okręgowej w Elblągu utworzonej w obszarze właściwości Prokuratury Apelacyjnej w Gdańsku obejmuje obszar właściwości Prokuratury Rejonowej w Działdowie,
+
+### b)
+
+ustalony w pkt 6 obszar właściwości Prokuratury Apelacyjnej w Łodzi nie obejmuje obszaru właściwości Prokuratury Rejonowej w Działdowie,
+
+### 4)
+
+§ 5 rozporządzenia powołanego w punkcie 1 w zakresie, w jakim:
+
+### a)
+
+w ustalonym w pkt 5 obszarze właściwości Prokuratury Okręgowej w Elblągu tworzy się - w lit. b - Prokuraturę Rejonową w Działdowie,
+
+### b)
+
+w ustalonym w pkt 26 obszarze właściwości Prokuratury Okręgowej w Płocku nie przewiduje się utworzenia Prokuratury Rejonowej w Działdowie
+
+są niezgodne z art. 17 ust. 12 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2011 r. Nr 270, poz. 1599](https://api.sejm.gov.pl/eli/acts/DU/2011/1599/text.html), z [2012 r. poz. 637](https://api.sejm.gov.pl/eli/acts/DU/2012/637/text.html) oraz z [2013 r. poz. 1623](https://api.sejm.gov.pl/eli/acts/DU/2013/1623/text.html)) i art. 92 ust. 1 zdanie pierwsze Konstytucji Rzeczypospolitej Polskiej.
+
+### II
+
+Przepisy wymienione w części I, w zakresach tam wskazanych, tracą moc obowiązującą z upływem 12 (dwunastu) miesięcy od dnia ogłoszenia wyroku w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+
+Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym ([Dz. U. Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), z [2000 r. Nr 48, poz. 552](https://api.sejm.gov.pl/eli/acts/DU/2000/552/text.html) i [Nr 53, poz. 638](https://api.sejm.gov.pl/eli/acts/DU/2000/638/text.html), z [2001 r. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z [2005 r. Nr 169, poz. 1417](https://api.sejm.gov.pl/eli/acts/DU/2005/1417/text.html), z [2009 r. Nr 56, poz. 459](https://api.sejm.gov.pl/eli/acts/DU/2009/459/text.html) i [Nr 178, poz. 1375](https://api.sejm.gov.pl/eli/acts/DU/2009/1375/text.html), z [2010 r. Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html) i [Nr 197, poz. 1307](https://api.sejm.gov.pl/eli/acts/DU/2010/1307/text.html) oraz z [2011 r. Nr 112, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.html)) umorzyć postępowanie w pozostałym zakresie.

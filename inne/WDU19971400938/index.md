@@ -8,11 +8,9 @@ pos: 938
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o Narodowym Banku Polskim
-
-*USTAWA z dnia 29 sierpnia 1997 r.*
+# Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim
 
 | Pole | Wartość |
 |---|---|
@@ -24,652 +22,1220 @@ domain: null
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-21 |
 | Ostatnia zmiana | 2026-05-07 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400938) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/938/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/938/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/938) |
 
-Art. 71–73. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organizacja NBP](#chpt_2) [Rozdział 3 - NBP a władze państwowe](#chpt_3) [Rozdział 4 - Nadzór bankowy](#chpt_4) [Rozdział 5 - Emisja znaków pieniężnych](#chpt_5) [Rozdział 6 - Instrumenty polityki pieniężnej](#chpt_6) [Rozdział 7 - Prowadzenie rachunków bankowych](#chpt_7) [Rozdział 8 - Działalność dewizowa](#chpt_8) [Rozdział 9 - Szczególne obowiązki i uprawnienia NBP](#chpt_9) [Rozdział 10 - Gospodarka finansowa NBP](#chpt_10) [Rozdział 11 - Przepisy przejściowe i końcowe](#chpt_11)
 
-**Art. 1.** Narodowy Bank Polski, zwany dalej „NBP”, jest bankiem centralnym Rzeczypospolitej Polskiej.
+TOC
 
-**Art. 2.**
+## Treść ustawy
 
-1. NBP posiada osobowość prawną i prawo używania pieczęci z godłem państwowym.
+### Rozdział 1 Przepisy ogólne
 
-2. NBP nie podlega wpisowi do rejestru przedsiębiorstw państwowych.
+### Art. 1.
 
-3. Działalność NBP jest prowadzona na obszarze Rzeczypospolitej Polskiej.
+Narodowy Bank Polski, zwany dalej „NBP”, jest bankiem centralnym Rzeczypospolitej Polskiej.
 
-4. Siedzibą NBP jest Warszawa.
+### Art. 2.
 
-5. W szczególnie uzasadnionych przypadkach wynikających z obiektywnych okoliczności zewnętrznych organy NBP mogą działać i wykonywać swoje funkcje przy wykorzystaniu środków bezpośredniego porozumienia się na odległość.
+### 1.
 
-**Art. 3.**
+NBP posiada osobowość prawną i prawo używania pieczęci z godłem państwowym.
 
-1. Podstawowym celem działalności NBP jest utrzymanie stabilnego poziomu cen, przy jednoczesnym wspieraniu polityki gospodarczej Rządu, o ile nie ogranicza to podstawowego celu NBP.
+### 2.
 
-2. Do zadań NBP należy także:
+NBP nie podlega wpisowi do rejestru przedsiębiorstw państwowych.
 
-- **1)** organizowanie rozliczeń pieniężnych;
-- **2)** prowadzenie gospodarki rezerwami dewizowymi;
-- **3)** prowadzenie działalności dewizowej w granicach określonych ustawami;
-- **4)** prowadzenie bankowej obsługi budżetu państwa;
-- **5)** regulowanie płynności banków oraz ich refinansowanie;
-- **6)** kształtowanie warunków niezbędnych dla rozwoju systemu bankowego;
-- **6a)** działanie na rzecz stabilności systemu finansowego w zakresie instytucji finansowej w rozumieniu art. 4 pkt 4 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym (Dz. U. z 2022 r. poz. 963 i 1488);
-- **6b)** działanie na rzecz wyeliminowania lub ograniczania ryzyka systemowego, o którym mowa w art. 4 pkt 15 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym;
-- **7)** opracowywanie statystyki pieniężnej i bankowej, bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej;
-- **8)** wykonywanie innych zadań określonych ustawami.
+### 3.
 
-**Art. 4.** NBP przysługuje wyłączne prawo emitowania znaków pieniężnych Rzeczypospolitej Polskiej.
+Działalność NBP jest prowadzona na obszarze Rzeczypospolitej Polskiej.
 
-**Art. 5.**
+### 4.
 
-1. NBP może:
+Siedzibą NBP jest Warszawa.
 
-- **1)** być członkiem międzynarodowych instytucji finansowych i bankowych;
-- **2)** pokrywać ze środków własnych wydatki związane z członkostwem w instytucjach określonych w pkt 1.
+### Art. 3.
 
-1a. NBP pokrywa ze środków własnych wydatki związane z członkostwem Rzeczypospolitej Polskiej w Międzynarodowym Funduszu Walutowym.
+### 1.
 
-1b. NBP jest uprawniony do otrzymywania, przypadających Rzeczypospolitej Polskiej od Międzynarodowego Funduszu Walutowego, wszelkich wymagalnych kwot z tytułów finansowanych ze środków własnych NBP, w tym płatności zwrotnych, odsetek i innych dochodów.
+Podstawowym celem działalności NBP jest utrzymanie stabilnego poziomu cen, przy jednoczesnym wspieraniu polityki gospodarczej Rządu, o ile nie ogranicza to podstawowego celu NBP.
 
-2. NBP nie może być udziałowcem albo akcjonariuszem innych osób prawnych, z wyjątkiem prowadzących działalność usługową na rzecz instytucji finansowych lub Skarbu Państwa, lub mających dla NBP istotne znaczenie w zakresie działania na rzecz stabilności krajowego systemu finansowego, o którym mowa w art. 3 ust. 2 pkt 6a.
+### 2.
 
-#### Rozdział 2 Organizacja NBP
+Do zadań NBP należy także:
 
-**Art. 6.** Organami NBP są:
+### 1)
 
-**Art. 7.**
+organizowanie rozliczeń pieniężnych,
 
-1. NBP wykonuje zadania przez Centralę i inne jednostki organizacyjne.
+### 2)
 
-2. Zarząd NBP w drodze uchwały:
+prowadzenie gospodarki rezerwami dewizowymi,
 
-- **1)** powołuje, przekształca i likwiduje komórki organizacyjne Centrali NBP i inne jednostki organizacyjne;
-- **2)** określa zakres działalności oraz organizację wewnętrzną Centrali NBP i pozostałych jednostek organizacyjnych NBP.
+### 3)
 
-**Art. 8.** Działalność jednostek organizacyjnych NBP podlega rewizji wewnętrznej, którą wykonuje komórka Centrali NBP podporządkowana Prezesowi NBP. A. Prezes NBP
+prowadzenie działalności dewizowej w granicach określonych ustawami,
 
-**Art. 9.**
+### 4)
 
-1. Prezes NBP jest powoływany i odwoływany przez Sejm na wniosek Prezydenta Rzeczypospolitej Polskiej.
+prowadzenie bankowej obsługi budżetu państwa,
 
-2. Kadencja Prezesa NBP wynosi 6 lat. Ta sama osoba nie może być Prezesem NBP dłużej niż przez dwie kolejne kadencje.
+### 5)
 
-3. Prezes NBP obejmuje obowiązki po złożeniu wobec przysięgi następującej treści: „Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli”. Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
+regulowanie płynności banków oraz ich refinansowanie,
 
-4. Kadencja Prezesa NBP wygasa:
+### 6)
 
-- **1)** po upływie okresu sześcioletniego;
-- **2)** w razie śmierci;
-- **3)** w razie złożenia rezygnacji;
-- **4)** w razie odwołania.
+kształtowanie warunków niezbędnych dla rozwoju systemu bankowego,
 
-5. Odwołanie Prezesa NBP może nastąpić, gdy:
+### 7)
 
-- **1)** nie wypełnia on swych obowiązków na skutek długotrwałej choroby;
-- **2)** został skazany prawomocnym wyrokiem sądu za popełnione przestępstwo;
-- **2a)** złożył on niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
-- **3)** Trybunał Stanu orzekł wobec niego zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych.
+opracowywanie sprawozdawczego bilansu płatniczego oraz bilansów należności i zobowiązań zagranicznych państwa,
 
-**Art. 9a.**
+### 8)
 
-1. Po wygaśnięciu kadencji Prezesa NBP z przyczyny określonej w art. 9 ust. 4 pkt 1 Prezes NBP pełni obowiązki do czasu objęcia obowiązków przez nowego Prezesa NBP.
+wykonywanie innych zadań określonych ustawami.
 
-2. Po wygaśnięciu kadencji Prezesa NBP z przyczyn określonych w art. 9 ust. 4 pkt 2–4 wiceprezes NBP – pierwszy zastępca Prezesa NBP pełni obowiązki Prezesa NBP do czasu objęcia obowiązków przez nowego Prezesa NBP.
+### Art. 4.
 
-**Art. 10.**
+NBP przysługuje wyłączne prawo emitowania znaków pieniężnych Rzeczypospolitej Polskiej.
 
-1. Prezesa NBP w czasie jego nieobecności zastępuje wiceprezes NBP – pierwszy zastępca Prezesa NBP.
+### Art. 5.
 
-2. (uchylony)
+### 1.
 
-3. Wiceprezesi NBP kierują wyznaczonymi przez Prezesa NBP działami pracy NBP.
+NBP może być członkiem międzynarodowych instytucji finansowych i bankowych.
 
-**Art. 11.**
+### 2.
 
-1. Prezes NBP jest przełożonym wszystkich pracowników NBP. Prawa i obowiązki pracowników NBP określa Kodeks pracy i pragmatyka służbowa określona odrębną ustawą.
+NBP nie może być udziałowcem bądź akcjonariuszem innych osób prawnych, z wyjątkiem prowadzących działalność usługową wyłącznie na rzecz instytucji finansowych i Skarbu Państwa.
 
-2. Prezes NBP przewodniczy Radzie Polityki Pieniężnej, Zarządowi NBP oraz reprezentuje NBP na zewnątrz.
+### Rozdział 2 Organizacja NBP
 
-2a. Prezes NBP ustala tryb działania i wykonywania funkcji przez organy NBP przy wykorzystaniu środków bezpośredniego porozumienia się na odległość, w tym zwoływania i prowadzenia obrad Rady Polityki Pieniężnej i Zarządu NBP, w sytuacjach o których mowa w art. 2 ust. 5.
+### Art. 6.
 
-3. Prezes NBP reprezentuje interesy Rzeczypospolitej Polskiej w międzynarodowych instytucjach bankowych oraz, o ile Rada Ministrów nie postanowi inaczej, w międzynarodowych instytucjach finansowych.
+Organami NBP są:
 
-4. Prezes NBP przy wydawaniu zarządzeń podlegających ogłoszeniu oraz decyzji administracyjnych ma prawo używania pieczęci z godłem państwowym.
+### 1)
 
-5. Prezes NBP:
+Prezes NBP,
 
-- **1)** ustala, w porozumieniu z ministrem właściwym do spraw wewnętrznych, zasady przechowywania wartości pieniężnych w bankach i przedsiębiorstwach produkujących znaki pieniężne oraz transportowania tych wartości przez banki i te przedsiębiorstwa;
-- **2)** realizuje zadania wynikające z przepisów o obronie Ojczyzny. B. Rada Polityki Pieniężnej
+### 2)
 
-**Art. 12.**
+Rada Polityki Pieniężnej,
 
-1. Rada Polityki Pieniężnej, zwana dalej „Radą”, ustala corocznie założenia polityki pieniężnej i przedkłada je do wiadomości Sejmowi równocześnie z przedłożeniem przez Radę Ministrów projektu ustawy budżetowej. Rada składa Sejmowi sprawozdanie z wykonania założeń polityki pieniężnej w ciągu 5 miesięcy od zakończenia roku budżetowego.
+### 2)
 
-2. Kierując się założeniami polityki pieniężnej Rada w szczególności:
+Zarząd NBP.
 
-- **1)** ustala wysokość stóp procentowych NBP;
-- **2)** ustala stopy rezerwy obowiązkowej banków oraz spółdzielczych kas oszczędnościowo-kredytowych i wysokość jej oprocentowania;
-- **3)** określa górne granice zobowiązań wynikających z zaciągania przez NBP pożyczek i kredytów w zagranicznych instytucjach bankowych i finansowych;
-- **4)** zatwierdza plan finansowy NBP oraz sprawozdanie z działalności NBP;
-- **5)** przyjmuje roczne sprawozdanie finansowe NBP;
-- **6)** ustala zasady operacji otwartego rynku.
+### Art. 7.
 
-3. Rada dokonuje ocen działalności Zarządu NBP w zakresie realizacji założeń polityki pieniężnej.
+### 1.
 
-4. (uchylony)
+NBP wykonuje zadania przez Centralę i inne jednostki organizacyjne.
 
-**Art. 13.**
+### 2.
 
-1. W skład Rady wchodzą:
+Zarząd NBP w drodze uchwały:
 
-- **1)** Przewodniczący Rady, którym jest Prezes NBP;
-- **2)** 9 członków powoływanych w równej liczbie przez Prezydenta Rzeczypospolitej Polskiej, Sejm i Senat, spośród specjalistów z zakresu finansów.
+### 1)
 
-2. Kadencja członka Rady wynosi 6 lat. Funkcję członka Rady można pełnić tylko jedną kadencję.
+powołuje, przekształca i likwiduje komórki organizacyjne Centrali NBP i inne jednostki organizacyjne,
 
-3. Powołanie nowych członków Rady powinno nastąpić najpóźniej do dnia wygaśnięcia kadencji poprzednich.
+### 2)
 
-4. Członek Rady przed objęciem obowiązków w Radzie składa przed organem powołującym przysięgę następującej treści: „Obejmując obowiązki członka Rady Polityki Pieniężnej przysięgam uroczyście, że będę działać z pełną bezstronnością, posiadaną wiedzą i doświadczeniem w zakresie polityki pieniężnej, zgodnie z celami działalności Narodowego Banku Polskiego.” Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
+określa zakres działalności oraz organizację wewnętrzną Centrali NBP i pozostałych jednostek organizacyjnych NBP.
 
-5. Organy uprawnione do powołania członka Rady odwołują go wyłącznie w przypadku:
+### Art. 8.
 
-- **1)** zrzeczenia się swej funkcji;
-- **2)** choroby trwale uniemożliwiającej sprawowanie funkcji;
-- **3)** skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa;
-- **3a)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzonego prawomocnym orzeczeniem sądu;
-- **4)** przyczyn, o których mowa w art. 14 ust. 2.
+Działalność jednostek organizacyjnych NBP podlega rewizji wewnętrznej, którą wykonuje komórka Centrali NBP podporządkowana Prezesowi NBP.
 
-6. W razie śmierci członka Rady, organ powołujący stwierdza wygaśnięcie jego mandatu.
+### A. Prezes NBP
 
-7. Uzupełnienia składu Rady na miejsce opróżnione z przyczyn określonych w ust. 5 i 6 organy powołujące dokonują nie później niż w okresie 3 miesięcy od odwołania lub stwierdzenia wygaśnięcia mandatu członka Rady.
+### Art. 9.
 
-8. (uchylony)
+### 1.
 
-**Art. 14.**
+Prezes NBP jest powoływany przez Sejm na wniosek Prezydenta Rzeczypospolitej Polskiej na okres 6 lat.
 
-1. W okresie kadencji członek Rady nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską, a za zgodą Rady wyrażoną w drodze uchwały (bez udziału zainteresowanego) – dopuszczalna jest działalność w organizacjach międzynarodowych.
+### 2.
 
-2. Członek Rady będący członkiem partii politycznej lub związku zawodowego obowiązany jest na okres kadencji w Radzie zawiesić działalność w tej partii lub w tym związku, pod rygorem odwołania z Rady.
+Ta sama osoba nie może być Prezesem NBP dłużej niż przez dwie kolejne kadencje.
 
-3. Członkom Rady przysługuje wynagrodzenie w wysokości równej wynagrodzeniu wiceprezesów NBP. Wynagrodzenie to przysługuje również w ciągu 3 miesięcy od daty wygaśnięcia kadencji, z wyjątkiem, gdy powodem odwołania jest skazanie prawomocnym wyrokiem sądu za popełnienie przestępstwa.
+### 3.
 
-**Art. 15.** W posiedzeniach Rady uczestniczą wiceprezesi NBP bez prawa udziału w głosowaniu.
+Prezes NBP obejmuje obowiązki po złożeniu wobec Sejmu przysięgi następującej treści: „ Obejmując obowiązki Prezesa Narodowego Banku Polskiego przysięgam uroczyście, że postanowień Konstytucji i innych ustaw będę ściśle przestrzegać oraz że we wszystkich swoich działaniach dążyć będę do rozwoju gospodarczego Ojczyzny i pomyślności obywateli ” . Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
 
-**Art. 16.**
+### 4.
 
-1. Posiedzenia Rady zwołuje Przewodniczący co najmniej raz w miesiącu. Posiedzenie Rady może być zwołane również na pisemny wniosek co najmniej 3 członków Rady.
+Kadencja Prezesa NBP wygasa:
 
-1a. W czasie nieobecności Przewodniczącego posiedzeniu przewodniczy jeden z członków Rady.
+### 1)
 
-2. Tryb działania Rady oraz wyboru członka, który przewodniczy obradom podczas nieobecności Przewodniczącego Rady, określa regulamin uchwalony przez Radę większością głosów.
+po upływie okresu sześcioletniego,
 
-3. Ustalenia Rady podejmowane są w formie uchwał większością głosów przy obecności co najmniej 5 członków, w tym Przewodniczącego Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.
+### 2)
 
-4. Stanowiska zajęte przez członków Rady w głosowaniu podlegają ogłoszeniu w Monitorze Sądowym i Gospodarczym po upływie 6 tygodni, ale nie później niż 3 miesięcy od daty podjęcia uchwały. C. Zarząd NBP
+w razie śmierci,
 
-**Art. 17.**
+### 3)
 
-1. Działalnością NBP kieruje Zarząd.
+w razie złożenia rezygnacji,
 
-2. W skład Zarządu NBP wchodzą: Prezes NBP – jako przewodniczący oraz 6– 8 członków Zarządu, w tym 2 wiceprezesów NBP.
+### 4)
 
-2a. Członków Zarządu NBP powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa NBP.
+w razie odwołania.
 
-2b. Członkowie Zarządu NBP są powoływani na okres 6 lat. Przepisy art. 9 ust. 2, art. 13 ust. 3 i ust. 5–7 stosuje się odpowiednio.
+### 5.
 
-3. Zarząd NBP:
+Odwołanie Prezesa NBP może nastąpić, gdy:
 
-- **1)** realizuje uchwały Rady;
-- **2)** podejmuje uchwały w sprawach niezastrzeżonych w ustawie do wyłącznej kompetencji innych organów NBP.
+### 1)
 
-4. Do zakresu działania Zarządu NBP należy w szczególności:
+nie wypełnia on swych obowiązków na skutek długotrwałej choroby,
 
-- **1)** (uchylony)
-- **2)** realizowanie zadań z zakresu polityki kursowej;
-- **3)** okresowa ocena obiegu pieniężnego i rozliczeń pieniężnych oraz obrotu dewizowego;
-- **4)** nadzorowanie operacji otwartego rynku;
-- **5)** ocena funkcjonowania systemu bankowego;
-- **5a)** analiza stabilności krajowego systemu finansowego;
-- **6)** uchwalanie planu działalności i planu finansowego NBP;
-- **7)** uchwalanie prowizji i opłat bankowych stosowanych przez NBP oraz ustalanie ich wysokości;
-- **8)** określanie zasad gospodarowania funduszami NBP;
-- **9)** określanie zasad organizacji i podziału zadań w NBP;
-- **10)** określanie zasad polityki kadrowej i płacowej w NBP;
-- **11)** uchwalanie rocznego sprawozdania z działalności NBP;
-- **12)** sporządzanie rocznego sprawozdania finansowego NBP;
-- **13)** opracowywanie bilansów obrotów płatniczych państwa z zagranicą;
-- **14)** przygotowywanie i rozpatrywanie projektów uchwał i innych materiałów kierowanych do Rady.
+### 2)
 
-**Art. 18.** Członek Zarządu NBP nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską. Przepis art. 14 ust. 2 stosuje się odpowiednio.
+został skazany prawomocnym wyrokiem sądu za popełnione przestępstwo,
 
-**Art. 19.** Uchwały Zarządu NBP zapadają większością bezwzględną głosów, a w przypadku równej liczby głosów rozstrzyga głos Prezesa NBP.
+### 3)
 
-**Art. 20.** Szczegółowy tryb działania Zarządu NBP określa regulamin uchwalony przez Zarząd.
+Trybunał Stanu orzekł wobec niego zakaz zajmowania kierowniczych stanowisk lub pełnienia funkcji związanych ze szczególną odpowiedzialnością w organach państwowych.
 
-#### Rozdział 3 NBP a władze państwowe
+### Art. 10.
 
-**Art. 21.** W wykonaniu swoich zadań NBP współdziała z właściwymi organami państwa w kształtowaniu i realizacji polityki gospodarczej państwa, dążąc przy tym do zapewnienia należytej realizacji założeń polityki pieniężnej, a w szczególności:
+### 1.
 
-**Art. 22.**
+Prezesa NBP w czasie jego nieobecności zastępuje wiceprezes NBP - pierwszy zastępca Prezesa NBP.
 
-1. Prezes NBP może uczestniczyć w posiedzeniach Sejmu.
+### 2.
 
-2. Prezes NBP i inni przedstawiciele organów NBP, o których mowa w art. 6, są obowiązani do przedstawienia informacji i udzielenia wyjaśnień dotyczących polityki pieniężnej i działalności NBP przed Sejmem i Senatem oraz ich komisjami.
+Wiceprezesów NBP i członków Zarządu NBP powołuje i odwołuje Prezydent Rzeczypospolitej Polskiej na wniosek Prezesa NBP.
 
-**Art. 22a.** Prezes NBP jest członkiem Komitetu Stabilności Finansowej.
+### 3.
 
-**Art. 23.**
+Wiceprezesi NBP kierują wyznaczonymi przez Prezesa NBP działami pracy NBP.
 
-1. Prezes NBP w imieniu Rady:
+### Art. 11.
 
-- **1)** przedstawia Sejmowi i Radzie Ministrów:
-    - **a)** kwartalne informacje o bilansie płatniczym,
-    - **b)** roczne zestawienie międzynarodowej pozycji inwestycyjnej;
+### 1.
 
-- **2)** przekazuje Radzie Ministrów i Ministrowi Finansów projekty założeń polityki pieniężnej, opinie w sprawie projektu ustawy budżetowej, prognozy bilansu płatniczego oraz ustalenia Rady;
-- **3)** opracowuje okresowe informacje o wpłatach (wypłatach) z zysku.
+Prezes NBP jest przełożonym wszystkich pracowników NBP. Prawa i obowiązki pracowników NBP określa Kodeks pracy i pragmatyka służbowa określona odrębną ustawą.
 
-2. Naczelne organy państwowe, organy administracji rządowej i samorządu terytorialnego, banki i inne osoby prawne, jednostki organizacyjne niebędące osobami prawnymi oraz inni przedsiębiorcy:
+### 2.
 
-- **1)** przekazują NBP dane niezbędne do ustalania polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa;
-- **2)** uczestniczący w obrotach z zagranicą – przekazują NBP dane niezbędne do sporządzenia bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej;
-- **3)** przekazują NBP, na jego żądanie, dane niezbędne do analiz ryzyka systemowego.
+Prezes NBP przewodniczy Radzie Polityki Pieniężnej, Zarządowi NBP, Komisji Nadzoru Bankowego oraz reprezentuje NBP na zewnątrz.
 
-2a. Podmioty uczestniczące w rozliczeniach pieniężnych i rozrachunkach międzybankowych przekazują, na żądanie NBP, dane niezbędne do dokonywania ocen funkcjonowania rozliczeń pieniężnych i rozrachunków międzybankowych.
+### 3.
 
-2b. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP, określa, w drodze rozporządzenia, sposób, zakres i terminy realizacji obowiązku, o którym mowa w ust. 2a, kierując się potrzebą zapewnienia NBP dostępu do informacji niezbędnych do wykonywania jego obowiązków wynikających z ustawy oraz odrębnych przepisów.
+Prezes NBP reprezentuje interesy Rzeczypospolitej Polskiej w międzynarodowych instytucjach bankowych oraz, o ile Rada Ministrów nie postanowi inaczej, w międzynarodowych instytucjach finansowych.
 
-2c. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP i Przewodniczącego Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, sposób, szczegółowy zakres i terminy przekazywania przez podmioty, o których mowa w ust. 2, inne niż banki, danych niezbędnych do ustalania polityki pieniężnej, okresowych ocen sytuacji pieniężnej państwa oraz analiz ryzyka systemowego, uwzględniając pozycję, udział w rynku finansowym oraz znaczenie dla analizy zjawisk monetarnych działalności tych podmiotów oraz kierując się potrzebą zapewnienia NBP dostępu do informacji niezbędnych do wykonywania jego obowiązków wynikających z ustawy oraz zadań wynikających z uczestnictwa w Europejskim Systemie Banków Centralnych i Europejskiej Radzie do spraw Ryzyka Systemowego.
+### 4.
 
-3. Banki przekazują ponadto na żądanie NBP dane niezbędne do oceny ich sytuacji finansowej oraz stabilności i ryzyka systemu bankowego.
+Prezes NBP przy wydawaniu zarządzeń podlegających ogłoszeniu oraz decyzji administracyjnych ma prawo używania pieczęci z godłem państwowym.
 
-3a. Krajowy Depozyt Papierów Wartościowych oraz spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu swoich zadań, o których mowa w art. 48 ust. 1 pkt 1–6 lub ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2022 r. poz. 1500 i 1488), izby rozliczeniowe oraz izby rozrachunkowe, o których mowa w art. 68a tej ustawy, a także kontrahent centralny (CCP) w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 648/2012 z dnia 4 lipca 2012 r. w sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 201 z 27.07.2012, str. 1, z późn. zm.), przekazują, na żądanie Prezesa NBP, informacje niezbędne do wykonywania zadań, o których mowa w art. 3 ust. 2 pkt 6a i 6b, dotyczące uczestników w rozumieniu art. 45a ust. 2 tej ustawy, służące dokonywaniu oceny sytuacji finansowej tych uczestników oraz stabilności systemu finansowego i ryzyka systemu finansowego.
+### 5.
 
-4. Tryb i szczegółowe zasady przekazywania danych, o których mowa w ust. 2 i 3, określa Zarząd NBP w drodze uchwały.
+Prezes NBP:
 
-4a. Obowiązek przekazywania do NBP danych niezbędnych do wykonywania zadań NBP wynikających z ustawy oraz uczestnictwa w Europejskim Systemie Banków Centralnych, obejmuje również dane objęte ochroną na podstawie odrębnych ustaw, w tym informacje objęte tajemnicą bankową.
+### 1)
 
-5. Dane jednostkowe, o których mowa w ust. 2, 2a i 3, mogą być wykorzystywane wyłącznie do sporządzania zestawień statystycznych, opracowań, ocen i bilansów oraz międzynarodowej pozycji inwestycyjnej i, z zastrzeżeniem ust. 6–8 i 10, nie mogą być udostępniane osobom trzecim.
+ustala, w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji, zasady przechowywania wartości pieniężnych w bankach i przedsiębiorstwach produkujących znaki pieniężne oraz transportowania tych wartości przez banki i te przedsiębiorstwa,
 
-6. Zestawienia statystyczne, opracowania i oceny zawierające dane jednostkowe, o których mowa w ust. 2, 2a, 3 i 3a, umożliwiające powiązanie ich z konkretnym podmiotem lub zidentyfikowanie konkretnego podmiotu, w szczególności jeżeli do sporządzenia zestawienia, opracowania i oceny wykorzystano dane dotyczące mniej niż trzech podmiotów lub gdy udział danych dotyczących jednego podmiotu, wykorzystanych w zestawieniu, opracowaniu lub ocenie jest większy niż trzy czwarte całości – nie mogą być udostępniane osobom trzecim.
+### 2)
 
-7. Dane jednostkowe, o których mowa w ust. 2, 2a, 3 i 3a, oraz zestawienia statystyczne, opracowania i oceny, o których mowa w ust. 6, NBP udostępnia:
+realizuje zadania wynikające z przepisów o powszechnym obowiązku obrony Rzeczypospolitej Polskiej.
 
-- **1)** Europejskiemu Bankowi Centralnemu – w wykonaniu obowiązków związanych z uczestnictwem NBP w Europejskim Systemie Banków Centralnych;
-- **2)** innym podmiotom zagranicznym – w wykonaniu zobowiązań międzynarodowych Rzeczypospolitej Polskiej;
-- **3)** innym podmiotom, niż wymienione w pkt 1 i 2 – na podstawie odrębnych przepisów.
+### B. Rada Polityki Pieniężnej
 
-8. Dane jednostkowe, o których mowa w ust. 3, mogą być udostępniane Ministrowi Finansów i Komisji Nadzoru Finansowego w zakresie niezbędnym dla realizacji celu działalności i zadań Komitetu Stabilności Finansowej.
+### Art. 12.
 
-8a. Dane jednostkowe, o których mowa w ust. 3 i 3a, oraz zestawienia statystyczne, opracowania i oceny, o których mowa w ust. 6, NBP udostępnia Komitetowi Stabilności Finansowej, o którym mowa w ustawie z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym, w zakresie niezbędnym dla realizacji zadań Komitetu.
+### 1.
 
-9. Przepisy ust. 8 i 8a stosuje się odpowiednio do danych zawierających informacje objęte ochroną na podstawie odrębnych ustaw, w tym informacji objętych tajemnicą bankową.
+Rada Polityki Pieniężnej, zwana dalej „Radą”, ustala corocznie założenia polityki pieniężnej i przedkłada je do wiadomości Sejmowi równocześnie z przedłożeniem przez Radę Ministrów projektu ustawy budżetowej. Rada składa Sejmowi sprawozdanie z wykonania założeń polityki pieniężnej w ciągu 5 miesięcy od zakończenia roku budżetowego.
 
-10. Wymiana między Narodowym Bankiem Polskim i Głównym Urzędem Statystycznym zebranych danych jednostkowych nieidentyfikowalnych, a w szczególnych przypadkach wynikających z uczestnictwa w Europejskim Systemie Banków Centralnych (ESBC) i Europejskim Systemie Statystycznym (ESS) danych jednostkowych identyfikowalnych podmiotów gospodarki narodowej, oraz wyników agregacji tych danych odbywa się nieodpłatnie, na zasadzie wzajemności, w zakresie niezbędnym do wykonywania ustawowo określonych zadań, z zachowaniem tajemnic ustawowo chronionych.
+### 2.
 
-11. Szczegółowy zakres i tryb przekazywania danych, o których mowa w ust. 10, określa umowa o wymianie informacji zawarta między Prezesem NBP i Prezesem Głównego Urzędu Statystycznego.
+Kierując się założeniami polityki pieniężnej Rada w szczególności:
 
-**Art. 23a.**
+### 1)
 
-1. Dane niezbędne do:
+ustala wysokość stóp procentowych NBP,
 
-- **1)** sporządzania bilansu płatniczego oraz międzynarodowej pozycji inwestycyjnej,
-- **2)** ustalania polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa,
-- **3)** oceny sytuacji finansowej banków i ryzyka sektora bankowego,
-- **4)** numeracji banków i ich jednostek organizacyjnych – są przekazywane do NBP w postaci elektronicznej.
+### 2)
 
-2. Dane w postaci elektronicznej są przekazywane z wykorzystaniem odpowiednich certyfikatów wydanych przez NBP lub innych form uwierzytelniania stosowanych przez NBP.
+ustala zasady i stopy rezerwy obowiązkowej banków,
 
-3. Przekazanie danych w sposób niezgodny z wymogami wskazanymi w ust. 1 i 2 jest równoznaczne z nieprzekazaniem tych danych.
+### 3)
 
-**Art. 24.**
+określa górne granice zobowiązań wynikających z zaciągania przez NBP pożyczek i kredytów w zagranicznych instytucjach bankowych i finansowych,
 
-1. NBP realizuje politykę walutową ustaloną przez Radę Ministrów w porozumieniu z Radą.
+### 4)
 
-2. Zasady ustalania kursu złotego w stosunku do walut obcych ustala Rada Ministrów w porozumieniu z Radą.
+zatwierdza plan finansowy NBP oraz sprawozdanie z działalności NBP,
 
-3. NBP ogłasza bieżące kursy walut obcych oraz kursy innych wartości dewizowych.
+### 5)
 
-#### Rozdział 4 Nadzór bankowy
+przyjmuje roczne sprawozdanie finansowe NBP,
 
-**Art. 25.** (uchylony)
+### 6)
 
-**Art. 26.** (uchylony)
+ustala zasady operacji otwartego rynku.
 
-**Art. 27.** (uchylony)
+### 3.
 
-**Art. 28.** (uchylony)
+Rada dokonuje ocen działalności Zarządu NBP w zakresie realizacji założeń polityki pieniężnej.
 
-**Art. 29.** (uchylony)
+### 4.
 
-**Art. 30.** (uchylony)
+Rada uchwala zasady rachunkowości NBP, przedłożone przez Prezesa NBP.
 
-#### Rozdział 4a NBP a Komitet Stabilności Finansowej
+### Art. 13.
 
-**Art. 30a.** NBP udostępnia Komitetowi Stabilności Finansowej:
+### 1.
 
-**Art. 30b.** NBP zapewnia obsługę Komitetu Stabilności Finansowej w zakresie realizacji zadań określonych w art. 5 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym, w szczególności:
+W skład Rady wchodzą:
 
-#### Rozdział 5 Emisja znaków pieniężnych
+### 1)
 
-**Art. 31.** Znakami pieniężnymi Rzeczypospolitej Polskiej są banknoty i monety opiewające na złote i grosze.
+Przewodniczący Rady, którym jest Prezes NBP,
 
-**Art. 32.** Znaki pieniężne emitowane przez NBP są prawnymi środkami płatniczymi na obszarze Rzeczypospolitej Polskiej.
+### 2)
 
-**Art. 33.**
+9 członków powoływanych w równej liczbie przez Prezydenta Rzeczypospolitej Polskiej, Sejm i Senat, spośród specjalistów z zakresu finansów.
 
-1. Wzory i wartość nominalną banknotów oraz wzory, wartość nominalną, stop, próbę i masę monet oraz wielkość emisji znaków pieniężnych, jak również terminy wprowadzenia ich do obiegu ustala Prezes NBP w drodze zarządzenia.
+### 2.
 
-2. Prezes NBP może wycofywać z obiegu określone znaki pieniężne. Po upływie terminu określonego przez Prezesa NBP znaki te przestają być prawnym środkiem płatniczym na obszarze Rzeczypospolitej Polskiej i podlegają wymianie w wyznaczonych przez Prezesa NBP bankach.
+Członkowie Rady powoływani są na 6 lat.
 
-**Art. 34.**
+### 3.
 
-1. Znaki pieniężne, nieodpowiadające wskutek zużycia lub uszkodzenia warunkom ustalonym przez Prezesa NBP, przestają być prawnym środkiem płatniczym na obszarze Rzeczypospolitej Polskiej i podlegają wymianie.
+Powołanie nowych członków Rady powinno nastąpić najpóźniej do dnia wygaśnięcia kadencji poprzednich.
 
-2. Prezes NBP określa, w drodze zarządzenia, szczegółowe zasady i tryb wymiany znaków pieniężnych, o których mowa w ust. 1.
+### 4.
 
-**Art. 35.**
+Członek Rady przed objęciem obowiązków w Radzie składa przed organem powołującym przysięgę następującej treści: „ Obejmując obowiązki członka Rady Polityki Pieniężnej przysięgam uroczyście, że będę działać z pełną bezstronnością, posiadaną wiedzą i doświadczeniem w zakresie polityki pieniężnej, zgodnie z celami działalności Narodowego Banku Polskiego. ” Przysięga może być złożona z dodaniem słów „Tak mi dopomóż Bóg”.
 
-1. Fałszywe znaki pieniężne podlegają zatrzymaniu, bez prawa do zwrotu ich równowartości.
+### 5.
 
-2. Przepis ust. 1 stosuje się odpowiednio do fałszywych banknotów i monet opiewających na waluty obce.
+Organy uprawnione do powołania członka Rady odwołują go wyłącznie w przypadku:
 
-3. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych, po zasięgnięciu opinii Prezesa NBP, określi, w drodze rozporządzenia, warunki i tryb postępowania przy zatrzymywaniu znaków pieniężnych podejrzanych co do autentyczności oraz postępowania z fałszywymi znakami pieniężnymi, mając na uwadze zapewnienie sprawności i bezpieczeństwa obrotu gotówkowego, w szczególności potrzebę zabezpieczenia zatrzymanych znaków pieniężnych jako materiału dowodowego, a także ochronę słusznych interesów osób, których znaki pieniężne zostały zatrzymane, w tym zwrot albo wypłatę równowartości zatrzymanych znaków pieniężnych, których autentyczność zostanie potwierdzona.
+### 1)
 
-**Art. 36.** NBP może prowadzić w kraju i za granicą sprzedaż monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele, na warunkach i według zasad ustalonych przez Zarząd NBP w drodze uchwały.
+zrzeczenia się swej funkcji,
 
-**Art. 37.** NBP organizuje gospodarkę znakami pieniężnymi Rzeczypospolitej Polskiej.
+### 2)
 
-#### Rozdział 6 Instrumenty polityki pieniężnej
+choroby trwale uniemożliwiającej sprawowanie funkcji,
 
-**Art. 38.**
+### 3)
 
-1. W celu kształtowania podaży pieniądza i działalności kredytowej NBP gromadzi rezerwy obowiązkowe banków, spółdzielczych kas oszczędnościowokredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
+skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa,
 
-2. Rezerwę obowiązkową banków stanowi wyrażona w złotych część środków pieniężnych w złotych i w walutach obcych zgromadzonych na rachunkach bankowych, środków uzyskanych z tytułu emisji dłużnych papierów wartościowych oraz innych środków przyjętych przez bank podlegających zwrotowi, z wyjątkiem środków:
+### 4)
 
-- **1)** przyjętych od innego banku krajowego, spółdzielczej kasy oszczędnościowokredytowej oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
-- **2)** przyjętych od banku zagranicznego na podstawie umów zawartych przed dniem wejścia w życie ustawy;
-- **3)** pozyskanych z zagranicy co najmniej na 2 lata;
-- **4)** pozyskanych na podstawie umów o prowadzenie indywidualnych kont emerytalnych oraz pozyskanych na podstawie umów o prowadzenie indywidualnych kont zabezpieczenia emerytalnego w rozumieniu przepisów o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego;
-- **5)** uzyskanych ze sprzedaży papierów wartościowych zabezpieczonych hipotecznie o okresie wykupu powyżej pięciu lat oraz ze sprzedaży listów zastawnych o okresie wykupu powyżej pięciu lat.
+przyczyn, o których mowa w art. 14 ust. 2.
 
-3. Rezerwę obowiązkową spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej stanowi wyrażona w złotych część środków pieniężnych w złotych i w walutach obcych zgromadzonych na rachunkach w spółdzielczych kasach oszczędnościowo-kredytowych oraz w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, środków uzyskanych z tytułu emisji dłużnych papierów wartościowych oraz innych środków podlegających zwrotowi, z wyjątkiem środków przyjętych od innej spółdzielczej kasy oszczędnościowo-kredytowej, Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej oraz od banku krajowego.
+### 6.
 
-4. Banki spółdzielcze utrzymują rezerwy obowiązkowe w banku zrzeszającym, z którym są zrzeszone. Bank zrzeszający utrzymuje rezerwę obowiązkową zrzeszonych banków spółdzielczych na swoim rachunku w Narodowym Banku Polskim w kwocie odpowiadającej rezerwom obowiązkowym zrzeszonych w nim banków i własnym rezerwom obowiązkowym.
+W razie śmierci członka Rady, organ powołujący stwierdza wygaśnięcie jego mandatu.
 
-5. Spółdzielcze kasy oszczędnościowo-kredytowe utrzymują rezerwy obowiązkowe w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej. Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa utrzymuje rezerwę obowiązkową spółdzielczych kas oszczędnościowo-kredytowych na swoim rachunku w Narodowym Banku Polskim w kwocie odpowiadającej rezerwom obowiązkowym spółdzielczych kas oszczędnościowo-kredytowych oraz Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
+### 7.
 
-**Art. 39.**
+Uzupełnienia składu Rady na miejsce opróżnione z przyczyn określonych w ust. 5 i 6 organy powołujące dokonują nie później niż w okresie 3 miesięcy od odwołania lub stwierdzenia wygaśnięcia mandatu członka Rady. Członek Rady powołany w tym trybie pełni swoje funkcje do końca kadencji, na którą powołany był jego poprzednik.
 
-1. Stopa rezerwy obowiązkowej może być zróżnicowana ze względu na umowny okres przechowywania środków pieniężnych, rodzaj waluty, a także rodzaj dokonywanych operacji finansowych stanowiących źródło pozyskania środków.
+### 8.
 
-2. Suma rezerw obowiązkowych nie może przekroczyć:
+Ponowne powołanie do składu Rady jest niedopuszczalne, chyba że poprzednie powołanie nastąpiło w trakcie kadencji na okres krótszy niż 3 lata.
 
-- **1)** 30% sumy środków pieniężnych, o których mowa w art. 38 ust. 2 i 3, od wkładów na żądanie;
-- **2)** 20% sumy środków pieniężnych, o których mowa w art. 38 ust. 2 i 3, od wkładów terminowych.
+### Art. 14.
 
-3. Zarząd NBP może zwolnić bank z obowiązku utrzymywania rezerwy obowiązkowej w okresie wdrażania planu naprawy banku.
+### 1.
 
-3a. Zarząd NBP może zwolnić spółdzielczą kasę oszczędnościowo-kredytową oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową z obowiązku utrzymywania rezerwy obowiązkowej w okresie realizacji programu postępowania naprawczego.
+W okresie kadencji członek Rady nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską, a za zgodą Rady wyrażoną w drodze uchwały (bez udziału zainteresowanego) - dopuszczalna jest działalność w organizacjach międzynarodowych.
 
-3b. Zarząd NBP może zwolnić podmiot w restrukturyzacji lub instytucję pomostową, o których mowa w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 793, 872 i 1692), z obowiązku utrzymywania rezerwy obowiązkowej w okresie przymusowej restrukturyzacji.
+### 2.
 
-4. Środki pieniężne z tytułu oprocentowania rezerwy obowiązkowej przekazywane są bankom, spółdzielczym kasom oszczędnościowo-kredytowym oraz Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej.
+Członek Rady będący członkiem partii politycznej lub związku zawodowego obowiązany jest na okres kadencji w Radzie zawiesić działalność w tej partii lub w tym związku, pod rygorem odwołania z Rady.
 
-**Art. 39a.** Banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Krajowa Spółdzielcza Kasa Oszczędnościowo--Kredytowa pomniejszają kwotę naliczonej rezerwy obowiązkowej o kwotę stanowiącą równowartość 500 000 euro, obliczoną według kursu średniego ogłaszanego przez NBP z ostatniego dnia miesiąca stanowiącego podstawę naliczenia rezerwy obowiązkowej, a w przypadku gdy w tym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.
+### 3.
 
-**Art. 40.**
+Członkom Rady przysługuje wynagrodzenie w wysokości równej wynagrodzeniu wiceprezesów NBP. Wynagrodzenie to przysługuje również w ciągu 3 miesięcy od daty wygaśnięcia kadencji, z wyjątkiem, gdy powodem odwołania jest skazanie prawomocnym wyrokiem sądu za popełnienie przestępstwa.
 
-1. Zarząd NBP ustala:
+### Art. 15.
 
-- **1)** zasady i tryb naliczania oraz utrzymywania rezerwy obowiązkowej;
-- **2)** rodzaje środków pieniężnych, których nie dotyczy obowiązek utrzymywania rezerwy obowiązkowej;
-- **3)** zasady naliczania oprocentowania rezerwy obowiązkowej i przekazywania środków pieniężnych należnych z tytułu tego oprocentowania.
+W posiedzeniach Rady może uczestniczyć przedstawiciel Rady Ministrów bez prawa udziału w głosowaniu; może on przedstawiać wnioski do rozważenia przez Radę.
 
-2. Zarząd NBP może określać wysokość zapasu gotówki w złotych, którego utrzymywanie w kasach bankowych, spółdzielczych kasach oszczędnościowokredytowych oraz w Krajowej Spółdzielczej Kasie Oszczędnościowo-Kredytowej, będzie równoznaczne z utrzymywaniem rezerwy obowiązkowej w NBP.
+### Art. 16.
 
-**Art. 41.**
+### 1.
 
-1. W razie naruszenia obowiązku określonego w art. 40 utrzymywania rezerwy, bank, spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, uiszcza na rzecz NBP odsetki od różnicy pomiędzy kwotą, która podlega utrzymywaniu na rachunkach, a kwotą faktycznie na tych rachunkach utrzymywaną.
+Posiedzenia Rady zwołuje Przewodniczący co najmniej raz w miesiącu.
 
-2. Stawkę odsetek, o których mowa w ust. 1, uchwala Zarząd NBP w wysokości nie większej niż dwukrotna wysokość stopy oprocentowania kredytu lombardowego.
+### 2.
 
-3. Zarząd NBP może wyrazić zgodę na nieuiszczanie przez bank, spółdzielczą kasę oszczędnościowo-kredytową lub Krajową Spółdzielczą Kasę OszczędnościowoKredytową, odsetek, o których mowa w ust. 1, gdy bank, spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa OszczędnościowoKredytowa jest w stanie zawieszenia, likwidacji albo upadłości.
+Tryb działania Rady określa regulamin uchwalony przez Radę większością głosów.
 
-**Art. 42.**
+### 3.
 
-1. NBP może udzielać bankom kredytu refinansowego w złotych w celu uzupełnienia ich zasobów pieniężnych.
+Ustalenia Rady podejmowane są w formie uchwał większością głosów przy obecności co najmniej 5 członków, w tym Przewodniczącego Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.
 
-2. NBP przy udzielaniu kredytu refinansowego kieruje się zdolnością banku do spłaty tego kredytu wraz z odsetkami w umownych terminach spłaty, z zastrzeżeniem, o którym mowa w ust. 3.
+### 4.
 
-3. NBP może udzielić kredytu refinansowego także bankowi dla wdrożenia planu naprawy banku.
+Stanowiska zajęte przez członków Rady w głosowaniu podlegają ogłoszeniu w Monitorze Sądowym i Gospodarczym po upływie 6 tygodni, ale nie później niż 3 miesięcy od daty podjęcia uchwały.
 
-4. Kredyt refinansowy może być udzielony:
+### C. Zarząd NBP
 
-- **1)** do określonej kwoty w rachunku kredytu;
-- **2)** pod zastaw papierów wartościowych – do wysokości równej określonej części nominalnej wartości tych papierów (kredyt lombardowy);
-- **3)** w innej formie, określonej przez Zarząd NBP.
+### Art. 17.
 
-5. Umowa o kredyt refinansowy może zostać rozwiązana przez każdą ze stron za siedmiodniowym terminem jej wypowiedzenia.
+### 1.
 
-6. Jeżeli sytuacja finansowa banku korzystającego z kredytu refinansowego ulega pogorszeniu w stopniu zagrażającym terminowej spłacie kredytu, albo bank ten nie przestrzega istotnych postanowień umowy kredytowej, NBP może wypowiedzieć tę umowę i zażądać wcześniejszej spłaty kredytu, w całości lub w części, w terminie krótszym niż określony w tej umowie.
+Działalnością NBP kieruje Zarząd.
 
-7. Do umowy o kredyt refinansowy stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2021 r. poz. 2439, z późn. zm. ), ze zmianami wynikającymi z niniejszej ustawy.
+### 2.
 
-**Art. 43.**
+W skład Zarządu NBP wchodzą: Prezes NBP - jako przewodniczący oraz 6-8 członków Zarządu, w tym 2 wiceprezesów NBP.
 
-1. W przypadkach uregulowanych w ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2022 r. poz. 924, 1358 i 1488) NBP może udzielać kredytu krótkoterminowego Bankowemu Funduszowi Gwarancyjnemu.
+### 3.
 
-2. W przypadku zagrożenia płynności spółdzielczych kas oszczędnościowokredytowych NBP może udzielić Krajowej Spółdzielczej Kasie OszczędnościowoKredytowej kredytu krótkoterminowego na zasilenie funduszu stabilizacyjnego, o którym mowa w art. 55 ust. 1 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, w razie zaistnienia groźby wyczerpania środków funduszu i pod warunkiem ustanowienia odpowiedniego zabezpieczenia.
+Zarząd NBP:
 
-3. Komisja Nadzoru Finansowego przekazuje na wniosek NBP opinię o sytuacji sektora spółdzielczych kas oszczędnościowo-kredytowych oraz o zdolności Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej do spłaty kredytu, o którym mowa w ust. 2, wraz z odsetkami.
+### 1)
 
-4. Środki z kredytu, o którym mowa w ust. 2, mogą być wykorzystane przez Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową wyłącznie na udzielanie kredytów dla spółdzielczych kas oszczędnościowo-kredytowych w celu uzupełnienia ich zasobów pieniężnych.
+realizuje uchwały Rady,
 
-**Art. 43a.**
+### 2)
 
-1. W przypadku zabezpieczenia kredytów, o których mowa w art. 42 i art. 43, przelewem wierzytelności hipotecznych lub wierzytelności zabezpieczonych zastawami rejestrowymi na NBP przechodzą odpowiednio hipoteki lub zastawy rejestrowe z dniem udzielenia tych kredytów. Przepisów art. 79 ust. 1 zdanie drugie ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2022 r. poz. 1728) oraz art. 17 ust. 1 zdanie drugie ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. z 2018 r. poz. 2017) nie stosuje się.
+podejmuje uchwały w sprawach nie zastrzeżonych w ustawie do wyłącznej kompetencji innych organów NBP.
 
-2. Do chwili ujawnienia cesjonariusza w odpowiednim rejestrze przelew wierzytelności, o którym mowa w ust. 1, jest bezskuteczny w stosunku do dłużnika rzeczowego. W razie wygaśnięcia hipoteki albo zastawu rejestrowego przed ujawnieniem cesjonariusza w odpowiednim rejestrze cedent jest obowiązany dokonać wszelkich czynności umożliwiających wykreślenie hipoteki z księgi wieczystej albo zastawu rejestrowego z rejestru zastawów.
+### 4.
 
-3. Z chwilą zawiadomienia sądu, sądu polubownego lub organu prowadzącego postępowanie administracyjne o przelewie wierzytelności, o którym mowa w ust. 1, na zabezpieczenie kredytów, o których mowa w art. 42 i art. 43, NBP wstępuje z mocy prawa w miejsce kredytobiorcy do postępowań cywilnych, administracyjnych, sądowo-administracyjnych oraz przed sądami polubownymi, dotyczących przelanych wierzytelności, bez zezwolenia strony przeciwnej albo osoby trzeciej, która ma interes prawny.
+Do zakresu działania Zarządu NBP należy w szczególności:
 
-4. Przepis ust. 3 stosuje się również do dotychczasowego kredytobiorcy w zakresie wstąpienia w miejsce NBP do postępowań po spłacie należności z tytułu udzielenia kredytów, o których mowa w art. 42 i art. 43, na podstawie zaświadczenia wydanego przez NBP.
+### 1)
 
-**Art. 44.**
+podejmowanie uchwał w sprawie udzielania bankom upoważnień do wykonywania czynności obrotu dewizowego,
 
-1. NBP może przyjmować od banków weksle do dyskonta i redyskonta.
+### 2)
 
-2. Zarząd NBP określa rodzaje weksli przyjmowanych przez NBP do dyskonta i redyskonta oraz uchwala zasady i tryb ich dyskonta oraz redyskonta.
+realizowanie zadań z zakresu polityki kursowej,
 
-**Art. 45.** (uchylony)
+### 3)
 
-**Art. 46.** W razie zagrożenia realizacji polityki pieniężnej Rada może w drodze uchwały wprowadzić:
+okresowa ocena obiegu pieniężnego i rozliczeń pieniężnych oraz obrotu dewizowego,
 
-**Art. 47.** Pożyczki i kredyty zaciągnięte przez NBP w zagranicznych instytucjach bankowych i finansowych mogą być przeznaczane na udzielanie kredytu w walutach obcych bankom krajowym.
+### 4)
 
-**Art. 48.** NBP może:
+nadzorowanie operacji otwartego rynku,
 
-**Art. 49.** NBP może być powierzona obsługa pożyczki państwowej, zaciągniętej w drodze emisji papierów wartościowych.
+### 5)
 
-**Art. 50.** NBP może przyjmować do przechowania i administrowania oraz jako przedmiot zabezpieczenia papiery wartościowe, w tym papiery wartościowe, których jest emitentem.
+ocena funkcjonowania systemu bankowego,
 
-**Art. 50a.** W przypadku zabezpieczenia wierzytelności NBP, zaspokojenie roszczeń NBP jako zastawnika następuje w sposób przewidziany w Kodeksie cywilnym albo – jeżeli umowa z zastawcą tak stanowi – przez sprzedaż przedmiotu zastawu przez NBP w imieniu zastawcy lub przejęcie go przez NBP.
+### 6)
 
-#### Rozdział 7 Prowadzenie rachunków bankowych
+uchwalanie planu działalności i planu finansowego NBP,
 
-**Art. 51.**
+### 7)
 
-1. NBP prowadzi rachunki:
+uchwalanie prowizji i opłat bankowych stosowanych przez NBP oraz ustalanie ich wysokości,
 
-- **1)** banków;
-- **2)** budżetu państwa;
-- **3)** Bankowego Funduszu Gwarancyjnego;
-- **3a)** Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej;
-- **3b)** Urzędu Komisji Nadzoru Finansowego;
-- **3c)** instytucji płatniczych i instytucji pieniądza elektronicznego, za zgodą Prezesa NBP;
-- **4)** innych osób prawnych, za zgodą Prezesa NBP.
+### 8)
 
-2. Zarząd NBP określa, w drodze uchwały, warunki otwierania i prowadzenia rachunków banków.
+określanie zasad gospodarowania funduszami NBP,
 
-#### Rozdział 8 Działalność dewizowa
+### 9)
 
-**Art. 52.**
+określanie zasad organizacji i podziału zadań w NBP,
 
-1. NBP realizuje funkcje centralnej bankowej instytucji dewizowej poprzez gromadzenie rezerw dewizowych, zarządzanie rezerwami dewizowymi oraz podejmowanie czynności bankowych i innych mających na celu zapewnienie bezpieczeństwa obrotu dewizowego i płynności płatniczej kraju.
+### 10)
 
-2. Prezes NBP wykonuje kontrolę w zakresie ustalonym w przepisach prawa dewizowego.
+określanie zasad polityki kadrowej i płacowej w NBP,
 
-3. NBP może pełnić funkcje agenta finansowego Rządu w zakresie zawierania i realizacji umów kredytowych oraz obsługi zadłużenia zagranicznego państwa; NBP nie odpowiada za zobowiązania Skarbu Państwa w tym zakresie. Szczegółowy tryb postępowania ustali każdorazowo umowa między NBP i Ministrem Finansów.
+### 11)
 
-4. NBP może posiadać wartości dewizowe i dokonywać obrotu tymi wartościami we własnym imieniu i na własny rachunek oraz na rachunek innych podmiotów, jak również wykonywać czynności obrotu dewizowego w kraju i za granicą, w tym również w zakresie udzielania i zaciągania kredytów i pożyczek zagranicznych oraz udzielania i przyjmowania poręczeń i gwarancji bankowych w obrotach z zagranicą.
+uchwalanie rocznego sprawozdania z działalności NBP,
 
-5. (uchylony)
+### 12)
 
-#### Rozdział 9 Szczególne obowiązki i uprawnienia NBP
+sporządzanie bilansu NBP oraz rachunku zysków i strat,
 
-**Art. 53.** Założenia polityki pieniężnej, sprawozdanie z wykonania założeń polityki pieniężnej oraz akty normatywne organów NBP – z wyjątkiem aktów, o których mowa w art. 54 ust. 1 – ogłaszane są w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 13)
 
-**Art. 54.**
+opracowywanie bilansów obrotów płatniczych państwa z zagranicą,
 
-1. Prezes NBP wydaje Dziennik Urzędowy Narodowego Banku Polskiego, w którym ogłasza się:
+### 14)
 
-- **1)** akty organów NBP dotyczące funkcjonowania banków;
-- **2)** bilans oraz rachunek zysków i strat NBP;
-- **3)** uchwały Komitetu Stabilności Finansowej, o których mowa w art. 12 ust. 5 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym.
+przygotowywanie i rozpatrywanie projektów uchwał i innych materiałów kierowanych do Rady.
 
-2. Prezes NBP może skierować do ogłoszenia również inne niż określone w ust. 1 akty prawne i obwieszczenia.
+### Art. 18.
 
-**Art. 54a.**
+Członek Zarządu NBP nie może zajmować żadnych innych stanowisk i podejmować działalności zarobkowej lub publicznej poza pracą naukową, dydaktyczną lub twórczością autorską. Przepis art. 14 ust. 2 stosuje się odpowiednio.
 
-1. Nazwa oraz wzór graficzny winiety Dziennika Urzędowego Narodowego Banku Polskiego nie mogą być wykorzystywane przez inne niż NBP podmioty, w szczególności w celach handlowych w publikacjach, wydawnictwach lub innych formach upowszechniania aktów prawnych.
+### Art. 19.
 
-2. Do wydawania Dziennika Urzędowego Narodowego Banku Polskiego i ogłaszania w nim aktów prawnych stosuje się odpowiednio przepisy art. 2a, art. 3, art. 4, art. 6, art. 7, art. 15–18, art. 20, art. 20b, art. 23a, art. 27 i art. 28a ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461).
+Uchwały zarządu NBP zapadają większością bezwzględną głosów, a w przypadku równej liczby głosów rozstrzyga głos Prezesa NBP.
 
-**Art. 55.** Pracownicy NBP oraz członkowie Rady i organów opiniodawczodoradczych przy Zarządzie NBP są obowiązani do nieujawniania osobom nieupoważnionym informacji, z którymi zapoznali się w trakcie wykonywania swoich obowiązków, w tym informacji objętych tajemnicą bankową na podstawie ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, informacji objętych ochroną na podstawie przepisów dotyczących ochrony informacji niejawnych, jak również innych informacji chronionych ustawowo. Obowiązek ten trwa również po rozwiązaniu stosunku pracy, a także po ustaniu członkostwa w Radzie lub wspomnianych wyżej organach.
+### Art. 20.
 
-**Art. 56.**
+Szczegółowy tryb działania Zarządu NBP określa regulamin uchwalony przez Zarząd.
 
-1. Do składania oświadczeń w zakresie praw i obowiązków majątkowych NBP są upoważnieni:
+### Rozdział 3 NBP a władze państwowe
 
-- **1)** Prezes NBP albo
-- **2)** dwie osoby działające łącznie spośród:
-    - **a)** wiceprezesów NBP lub pozostałych członków Zarządu NBP oraz
-    - **b)** pełnomocników powoływanych przez Zarząd NBP albo osobę przez niego do tego upoważnioną, działających w granicach udzielonych im pełnomocnictw.
+### Art. 21.
 
-2. Do wykonywania czynności określonego rodzaju lub czynności szczególnych osoby wymienione w ust. 1 mogą ustanowić pełnomocnika działającego samodzielnie w granicach udzielonego pełnomocnictwa.
+W wykonaniu swoich zadań NBP współdziała z właściwymi organami państwa w kształtowaniu i realizacji polityki gospodarczej państwa, dążąc przy tym do zapewnienia należytej realizacji założeń polityki pieniężnej, a w szczególności:
 
-**Art. 57.**
+### 1)
 
-1. NBP, na równi z jednostkami budżetowymi, korzysta ze zwolnienia od podatków oraz opłaty skarbowej.
+przekazuje organom państwa założenia polityki pieniężnej oraz informacje dotyczące realizacji polityki pieniężnej i sytuacji w systemie bankowym,
 
-2. Egzekucja należności pieniężnych od NBP może być prowadzona, gdy wierzyciel złożył w NBP tytuł egzekucyjny sądowy lub administracyjny i w ciągu miesiąca od daty złożenia tytułu objęte nim świadczenie nie zostało wykonane. Do egzekucji przeciwko NBP stosuje się odpowiednio przepis art. 1060 Kodeksu postępowania cywilnego.
+### 2)
 
-**Art. 58.** Nie można ogłosić upadłości NBP.
+współdziała z Ministrem Finansów w opracowaniu planów finansowych państwa,
 
-**Art. 59.** NBP może inicjować i organizować badania naukowe, jak również prowadzić działalność wydawniczą i promocyjną.
+### 3)
 
-**Art. 59a.**
+opiniuje projekty aktów normatywnych z zakresu polityki gospodarczej,
 
-1. W przypadku przetwarzania danych osobowych w celu wykonywania zadań określonych w art. 3 ust. 2 pkt 6a i 7, realizację uprawnień, o których mowa w art. 15 ust. 1 i 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zapewniają podmioty, które przekazują dane do NBP w sposób określony w art. 23a ust. 1 i 2.
+### 4)
 
-2. NBP informuje o ograniczeniach, o których mowa w ust. 1, przez udostępnienie tych informacji w miejscu powszechnie dostępnym w swojej siedzibie oraz w Biuletynie Informacji Publicznej na stronie podmiotowej NBP lub na stronie internetowej NBP.
+opiniuje projekty aktów normatywnych dotyczących działalności banków i mających znaczenie dla systemu bankowego.
 
-3. Okres przechowywania danych osobowych, o których mowa w ust. 1, ustala administrator danych zgodnie z celami ich przetwarzania, biorąc pod uwagę przepisy odrębne dotyczące terminów. NBP dokonuje przeglądu tych danych osobowych co 5 lat.
+### Art. 22.
 
-4. Dane osobowe, o których mowa w ust. 1, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+Prezes NBP może uczestniczyć w posiedzeniach Sejmu i Rady Ministrów.
 
-- **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
-- **2)** pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
-- **3)** testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
-- **4)** zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez zagwarantowanie, aby proces pozyskiwania i przekazywania danych osobowych podmiotom zewnętrznym wykorzystywał techniki kryptograficzne;
-- **5)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych NBP;
-- **6)** zapewnieniu integralności danych w systemach informatycznych NBP;
-- **7)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
+### Art. 23.
 
-5. Prezesowi Urzędu Ochrony Danych Osobowych nie przysługuje prawo dostępu do danych jednostkowych, o których mowa w art. 23 ust. 2, 2a, 3 i 3a, oraz zestawień statystycznych, opracowań i ocen, o których mowa w art. 23 ust. 6.
+### 1.
 
-6. Jeżeli jest to konieczne ze względu na wymagania bezpieczeństwa związane z kontrolą dostępu do informacji lub pomieszczeń, NBP żąda od osób świadczących usługi na rzecz NBP lub osób realizujących transporty wartości pieniężnych oraz ich pracowników danych biometrycznych w postaci odcisków palców, głosu, geometrii dłoni, układu naczyń krwionośnych palców lub dłoni. Dane biometryczne mogą być przechowywane wyłącznie przez czas realizacji usług świadczonych przez te osoby na rzecz NBP lub realizacji transportów pieniężnych.
+Prezes NBP w imieniu Rady:
 
-#### Rozdział 10 Gospodarka finansowa NBP
+### 1)
 
-**Art. 60.** Funduszami własnymi NBP są fundusz statutowy i fundusz rezerwowy.
+przedstawia Sejmowi i Radzie Ministrów:
 
-**Art. 61.** Fundusz statutowy NBP wynosi 1,5 miliarda złotych.
+### a)
 
-**Art. 62.**
+kwartalne informacje o bilansie płatniczym,
 
-1. Fundusz rezerwowy jest tworzony z odpisów z zysku NBP, dokonywanych w terminie 14 dni od dnia zatwierdzenia sprawozdania finansowego NBP, aż do osiągnięcia przez ten fundusz równowartości funduszu statutowego.
+### b)
 
-2. Wysokość odpisów, o których mowa w ust. 1, wynosi 5% rocznego zysku.
+roczne bilanse należności i zobowiązań płatniczych państwa,
 
-3. Fundusz rezerwowy może być przeznaczony wyłącznie na pokrycie strat bilansowych NBP.
+### 2)
 
-**Art. 63.** (uchylony)
+przekazuje Radzie Ministrów i Ministrowi Finansów projekty założeń polityki pieniężnej, opinie w sprawie projektu ustawy budżetowej, prognozy bilansu płatniczego oraz ustalenia Rady,
 
-**Art. 64.** NBP prowadzi gospodarkę finansową na podstawie rocznego planu finansowego.
+### 3)
 
-**Art. 65.** NBP tworzy rezerwę na pokrycie ryzyka zmian kursu złotego do walut obcych. Zasady tworzenia i rozwiązywania tej rezerwy określa Rada.
+opracowuje okresowe informacje o wpłatach (wypłatach) z zysku.
 
-**Art. 66.**
+### 2.
 
-1. Wielkość środków na wynagrodzenia ustalana jest corocznie w planie finansowym NBP, z uwzględnieniem poziomu płac w sektorze bankowym.
+Naczelne organy państwowe, organy administracji rządowej i samorządu terytorialnego, banki i inne osoby prawne, jednostki organizacyjne nie będące osobami prawnymi oraz inni przedsiębiorcy:
 
-2. Wynagrodzenie Prezesa i wiceprezesów NBP ustalane jest na podstawie przepisów o wynagradzaniu osób zajmujących kierownicze stanowiska państwowe.
+### 1)
 
-3. Zasady wynagradzania pracowników NBP są ustalane przez Zarząd NBP w drodze uchwały. Zarząd NBP określa wynagrodzenie dla poszczególnych stanowisk przy założeniu, że maksymalne wynagrodzenie dla tych stanowisk, z wyłączeniem wiceprezesów oraz członków Zarządu NBP, nie może przekroczyć 0,6-krotności wynagrodzenia Prezesa NBP.
+przekazują na żądanie NBP dane niezbędne do ustalania polityki pieniężnej i okresowych ocen sytuacji pieniężnej państwa,
 
-4. Uchwała Zarządu NBP w sprawie zasad wynagradzania pracowników NBP jest jawna i podlega udostępnieniu przez Prezesa NBP w Biuletynie Informacji Publicznej na stronie podmiotowej NBP.
+### 2)
 
-5. Przez wynagrodzenie Prezesa NBP, o którym mowa w ust. 3, rozumie się wynagrodzenie zasadnicze i dodatek funkcyjny ustalone na podstawie przepisów, o których mowa w ust. 2, oraz składniki wynagrodzenia, premie i nagrody określone w uchwale, o której mowa w ust. 3.
+uczestniczący w obrotach z zagranicą - przekazują NBP dane niezbędne do sporządzenia bilansu płatniczego oraz bilansów należności i zobowiązań zagranicznych państwa.
 
-6. Informacja o wysokości wynagrodzeń Prezesa, wiceprezesów, członków Zarządu NBP i osób zajmujących stanowiska dyrektora oddziału okręgowego, dyrektora departamentu (komórki równorzędnej) i ich zastępców oraz osób zajmujących stanowiska równorzędne pod względem płacowym ze stanowiskiem dyrektora departamentu i jego zastępcy jest jawna i podlega udostępnieniu przez Prezesa NBP w Biuletynie Informacji Publicznej na stronie podmiotowej NBP do dnia 31 marca roku następującego po roku, którego dotyczy to udostępnienie.
+### 3.
 
-7. Informację o wysokości wynagrodzeń, o których mowa w ust. 6, udostępnia się odrębnie za każdy miesiąc dla każdego stanowiska w NBP z uwzględnieniem wszystkich składników wynagrodzenia, premii i nagród określonych w uchwale, o której mowa w ust. 3.
+Banki przekazują ponadto na żądanie NBP dane niezbędne do oceny ich sytuacji finansowej i ryzyka sektora bankowego.
 
-8. Przepisy ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902) stosuje się odpowiednio.
+### 4.
 
-**Art. 67.** Zasady rachunkowości NBP powinny odpowiadać standardom stosowanym w Europejskim Systemie Banków Centralnych.
+Tryb i szczegółowe zasady przekazywania danych, o których mowa w ust. 2 i 3, określa Zarząd NBP w drodze uchwały.
 
-**Art. 68.**
+### 5.
 
-1. Roczne sprawozdanie finansowe NBP składa się z:
+Dane, o których mowa w ust. 2 i 3, mogą być wykorzystywane wyłącznie dla dokonywania opracowań i ocen oraz sporządzania bilansów należności i zobowiązań zagranicznych w tym przepisie wymienionych i nie mogą być udostępniane osobom trzecim.
 
-- **1)** bilansu;
-- **2)** rachunku zysków i strat;
-- **3)** informacji dodatkowej.
+### Art. 24.
 
-2. Rokiem sprawozdawczym (obrotowym) NBP jest rok kalendarzowy.
+### 1.
 
-3. Zasady rachunkowości NBP, wzór bilansu, rachunku zysków i strat oraz zawartość informacji dodatkowej określa Rada.
+NBP realizuje politykę walutową ustaloną przez Radę Ministrów w porozumieniu z Radą.
 
-**Art. 69.**
+### 2.
 
-1. Roczne sprawozdanie finansowe NBP podlega badaniu przez biegłego rewidenta wybranego przez Radę.
+Zasady ustalania kursu złotego w stosunku do walut obcych ustala Rada Ministrów w porozumieniu z Radą.
 
-2. Koszty badania, o którym mowa w ust. 1, ponosi NBP.
+### 3.
 
-3. W terminie do dnia 30 kwietnia roku następnego po roku obrotowym Prezes NBP przedstawia roczne sprawozdanie finansowe NBP Radzie Ministrów, która podejmuje decyzję w sprawie jego zatwierdzenia.
+NBP ogłasza bieżące kursy walut obcych oraz kursy innych wartości dewizowych.
 
-4. W terminie 14 dni od dnia zatwierdzenia rocznego sprawozdania finansowego NBP część rocznego zysku NBP (wpłata z zysku NBP) podlega odprowadzeniu do budżetu państwa.
+### Rozdział 4 Nadzór bankowy
 
-**Art. 70.** Prezes NBP w ciągu 5 miesięcy od zakończenia roku budżetowego przedstawia Sejmowi roczne sprawozdanie z działalności NBP.
+### Art. 25.
 
-#### Rozdział 11 Przepisy przejściowe i końcowe
+### 1.
 
-**Art. 74.**
+Nadzór nad działalnością banków sprawuje Komisja Nadzoru Bankowego, zwana dalej „Komisją”. Decyzje i określone przez Komisję zadania wykonuje i koordynuje wydzielony organizacyjnie w strukturze NBP - Generalny Inspektorat Nadzoru Bankowego.
 
-1. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z przepisami tej ustawy.
+### 2.
 
-2. (pominięty)
+Do zadań Komisji należy w szczególności:
 
-3. (pominięty)
+### 1)
 
-**Art. 75.** Traci moc ustawa z dnia 31 stycznia 1989 r. o Narodowym Banku Polskim (Dz. U. z 1992 r. poz. 360, z późn. zm. ).
+określanie zasad działania banków zapewniających bezpieczeństwo środków pieniężnych zgromadzonych przez klientów w bankach,
 
-**Art. 76.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
+### 2)
 
+nadzorowanie banków w zakresie przestrzegania ustaw, statutu i innych przepisów prawa oraz obowiązujących je norm finansowych,
+
+### 3)
+
+dokonywanie okresowych ocen stanu ekonomicznego banków i przedstawianie ich Radzie oraz wpływu polityki pieniężnej, podatkowej i nadzorczej na ich rozwój,
+
+### 4)
+
+opiniowanie zasad organizacji nadzoru bankowego i ustalanie trybu jego wykonywania.
+
+### 3.
+
+Zadania Komisji oraz sposób ich realizacji określa ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. Nr 140, poz. 939).
+
+### Art. 26.
+
+### 1.
+
+W skład Komisji wchodzą:
+
+### 1)
+
+Przewodniczący Komisji - Prezes NBP,
+
+### 2)
+
+zastępca Przewodniczącego Komisji - Minister Finansów lub delegowany przez niego sekretarz lub podsekretarz stanu w Ministerstwie Finansów,
+
+### 3)
+
+przedstawiciel Prezydenta Rzeczypospolitej Polskiej,
+
+### 4)
+
+Prezes Zarządu Bankowego Funduszu Gwarancyjnego,
+
+### 5)
+
+Przewodniczący Komisji Papierów Wartościowych i Giełd lub jego zastępca,
+
+### 6)
+
+przedstawiciel Ministra Finansów,
+
+### 7)
+
+Generalny Inspektor Nadzoru Bankowego.
+
+### 2.
+
+W posiedzeniach Komisji uczestniczy w głosem doradczym przedstawiciel Związku Banków Polskich w sprawach dotyczących regulacji nadzoru bankowego.
+
+### 3.
+
+Przedstawiciel Związku Banków Polskich może także uczestniczyć w posiedzeniach Komisji w sprawach określonych w art. 25 ust. 2 pkt 1.
+
+### Art. 27.
+
+### 1.
+
+Komisja podejmuje decyzje w zakresie swoich kompetencji większością głosów przy obecności co najmniej połowy składu Komisji. Przy równej liczbie głosów rozstrzyga głos Przewodniczącego Komisji.
+
+### 2.
+
+W razie nieobecności Przewodniczącego posiedzeniom Komisji przewodniczy zastępca Przewodniczącego.
+
+### 3.
+
+Komisja może upoważnić Przewodniczącego Komisji do podejmowania działań w określonych przez nią sprawach, które wymagają załatwienia w okresie między posiedzeniami Komisji, z wyjątkiem:
+
+### 1)
+
+zezwolenia na utworzenie banku,
+
+### 2)
+
+zawieszenia działalności banku i wnioskowania o jego upadłość,
+
+### 3)
+
+nakładania kar przewidzianych w ustawie, o której mowa w art. 25 ust. 3.
+
+### 4.
+
+Prezes NBP informuje Komisję na najbliższym jej posiedzeniu o podjętych decyzjach, o których mowa w ust. 3.
+
+### Art. 28.
+
+### 1.
+
+Komisja podejmuje decyzje w formie uchwał, które podpisuje Przewodniczący Komisji.
+
+### 2.
+
+Szczegółowy tryb działania Komisji określa regulamin uchwalony przez nią zwykłą większością głosów przy obecności wszystkich członków Komisji.
+
+### Art. 29.
+
+### 1.
+
+Generalny Inspektorat Nadzoru Bankowego jest organem wykonawczym Komisji.
+
+### 2.
+
+Szczegółowy tryb działania Inspektoratu określa regulamin uchwalony przez Komisję większością głosów w obecności wszystkich członków Komisji.
+
+### 3.
+
+Generalnego Inspektora Nadzoru Bankowego powołuje i odwołuje Prezes NBP w uzgodnieniu z Ministrem Finansów.
+
+### Art. 30.
+
+### 1.
+
+Inspektorzy nadzoru bankowego powinni posiadać odpowiednie wykształcenie i doświadczenie zawodowe. W szczególności inspektorem nadzoru bankowego może być ten, kto:
+
+### 1)
+
+posiada wyłącznie obywatelstwo polskie i korzysta z pełni praw cywilnych i obywatelskich,
+
+### 2)
+
+daje rękojmię należytego wykonywania obowiązków służbowych,
+
+### 3)
+
+ma nienaganną opinię i nie był karany za przestępstwo z winy umyślnej,
+
+### 4)
+
+posiada wyższe wykształcenie prawnicze, ekonomiczne lub inne wyższe o specjalności przydatnej do wykonywania nadzoru bankowego,
+
+### 5)
+
+posiada co najmniej 3-letni staż pracy w bankowości,
+
+### 6)
+
+złożył egzamin kwalifikacyjny na stanowisko inspektora nadzoru bankowego przed komisją egzaminacyjną, powołaną przez Komisję.
+
+### 2.
+
+Komisja określa zasady przeprowadzania egzaminów i odbywania praktyki zawodowej dla kandydatów na inspektorów nadzoru bankowego.
+
+### Rozdział 5 Emisja znaków pieniężnych
+
+### Art. 31.
+
+Znakami pieniężnymi Rzeczypospolitej Polskiej są banknoty i monety opiewające na złote i grosze.
+
+### Art. 32.
+
+Znaki pieniężne emitowane przez NBP są prawnymi środkami płatniczymi na obszarze Rzeczypospolitej Polskiej.
+
+### Art. 33.
+
+### 1.
+
+Wzory i wartość nominalną banknotów oraz wzory, wartość nominalną, stop, próbę i masę monet oraz wielkość emisji znaków pieniężnych, jak również terminy wprowadzenia ich do obiegu ustala Prezes NBP w drodze zarządzenia.
+
+### 2.
+
+Prezes NBP może wycofywać z obiegu określone znaki pieniężne. Po upływie terminu określonego przez Prezesa NBP znaki te przestają być prawnym środkiem płatniczym na obszarze Rzeczypospolitej Polskiej i podlegają wymianie w wyznaczonych przez Prezesa NBP bankach.
+
+### Art. 34.
+
+### 1.
+
+Znaki pieniężne, nie odpowiadające wskutek zużycia lub uszkodzenia warunkom ustalonym przez Prezesa NBP, przestają być prawnym środkiem płatniczym na obszarze Rzeczypospolitej Polskiej i podlegają wymianie.
+
+### 2.
+
+Prezes NBP określa, w drodze zarządzenia, szczegółowe zasady i tryb wymiany znaków pieniężnych, o których mowa w ust. 1.
+
+### Art. 35.
+
+### 1.
+
+Fałszywe znaki pieniężne podlegają zatrzymaniu, bez prawa do zwrotu ich równowartości.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do fałszywych banknotów i monet opiewających na waluty obce.
+
+### 3.
+
+Prezes NBP określa, w drodze zarządzenia, zasady i tryb postępowania przy zatrzymywaniu znaków pieniężnych (podejrzanych co do autentyczności) oraz postępowania z fałszywymi znakami pieniężnymi. Zarządzenie wymaga uzgodnienia z Ministrem Sprawiedliwości i Ministrem Spraw Wewnętrznych i Administracji.
+
+### Art. 36.
+
+NBP może prowadzić w kraju i za granicą sprzedaż monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele, na warunkach i według zasad ustalonych przez Zarząd NBP w drodze uchwały.
+
+### Art. 37.
+
+NBP organizuje gospodarkę znakami pieniężnymi Rzeczypospolitej Polskiej.
+
+### Rozdział 6 Instrumenty polityki pieniężnej
+
+### Art. 38.
+
+### 1.
+
+W celu kształtowania podaży pieniądza i działalności kredytowej NBP gromadzi rezerwy obowiązkowe banków.
+
+### 2.
+
+Rezerwę obowiązkową banków stanowi wyrażona w złotych część środków pieniężnych w złotych i walutach obcych zgromadzonych na rachunkach bankowych, środków uzyskanych ze sprzedaży papierów wartościowych oraz innych środków przyjętych przez bank podlegających zwrotowi, z wyjątkiem środków przyjętych od innego banku krajowego, a także środków przyjętych od banku zagranicznego na podstawie umów zawartych przed dniem wejścia w życie ustawy lub środków pozyskanych z zagranicy na co najmniej 2 lata.
+
+### 3.
+
+Banki spółdzielcze utrzymują rezerwy obowiązkowe w banku, w którym są zrzeszone, a banki regionalne zrzeszone w Banku Gospodarki Żywnościowej S.A. utrzymują rezerwy na rachunku w tym banku w kwocie odpowiadającej rezerwom zrzeszonych w nim banków spółdzielczych i własnym rezerwom obowiązkowym. Kwoty rezerw obowiązkowych banków regionalnych Bank Gospodarki Żywnościowej S.A. odprowadza na swój rachunek w NBP. Banki zrzeszające banki spółdzielcze, działające poza strukturą Banku Gospodarki Żywnościowej S.A., utrzymują rezerwy obowiązkowe własne i banków spółdzielczych w nich zrzeszonych na swoich rachunkach w NBP.
+
+### Art. 39.
+
+### 1.
+
+Stopa rezerwy obowiązkowej banków może być zróżnicowana ze względu na umowny okres przechowywania środków pieniężnych oraz rodzaj waluty.
+
+### 2.
+
+Suma rezerw obowiązkowych nie może przekroczyć:
+
+### 1)
+
+30% sumy środków pieniężnych, o których mowa w art. 38 ust. 2, od wkładów na żądanie,
+
+### 2)
+
+20% sumy środków pieniężnych, o których mowa w art. 38 ust. 2, od wkładów terminowych.
+
+Stopa ta jest ustalana do stanów średniomiesięcznych.
+
+### 3.
+
+Zarząd NBP może zwolnić bank z obowiązku utrzymywania rezerwy obowiązkowej w okresie realizacji programu postępowania naprawczego.
+
+### 4.
+
+Kwota rezerwy obowiązkowej nie podlega oprocentowaniu.
+
+### Art. 40.
+
+Zarząd NBP ustala zasady i tryb naliczania i utrzymywania rezerw obowiązkowych w NBP, w tym rodzaje rachunków bankowych, których nie dotyczy obowiązek utrzymywania rezerw, a ponadto może określać wysokość zapasu gotówki w złotych, którego utrzymanie w kasach bankowych będzie równoznaczne z utrzymywaniem rezerw w NBP.
+
+### Art. 41.
+
+### 1.
+
+W razie naruszenia obowiązku określonego w art. 40 utrzymywania rezerwy, bank uiszcza na rzecz NBP odsetki od różnicy pomiędzy kwotą, która podlega utrzymywaniu na rachunkach, a kwotą faktycznie na tych rachunkach utrzymywaną.
+
+### 2.
+
+Stawkę odsetek, o których mowa w ust. 1, uchwala Zarząd NBP w wysokości nie większej niż dwukrotna wysokość stopy oprocentowania kredytu lombardowego.
+
+### 3.
+
+Zarząd NBP może wyrazić zgodę na nieuszczanie przez bank odsetek, o których mowa w ust. 1, gdy bank jest w stanie zawieszenia, likwidacji albo upadłości.
+
+### Art. 42.
+
+### 1.
+
+NBP może udzielać bankom kredytu refinansowego w złotych w celu uzupełnienia ich zasobów pieniężnych.
+
+### 2.
+
+NBP przy udzielaniu kredytu refinansowego kieruje się zdolnością banku do spłaty tego kredytu wraz z odsetkami w umownych terminach spłaty, z zastrzeżeniem, o którym mowa w ust. 3.
+
+### 3.
+
+NBP może udzielić kredytu refinansowego także bankowi dla realizacji programu postępowania naprawczego banku.
+
+### 4.
+
+Kredyt refinansowy może być udzielony:
+
+### 1)
+
+do określonej kwoty w rachunku kredytu,
+
+### 2)
+
+pod zastaw papierów wartościowych - do wysokości równej określonej części nominalnej wartości tych papierów (kredyt lombardowy),
+
+### 3)
+
+w innej formie, określonej przez Zarząd NBP.
+
+### Art. 43.
+
+NBP może udzielać kredytu Bankowemu Funduszowi Gwarancyjnemu na uzgodnionych z zarządem tego Funduszu warunkach.
+
+### Art. 44.
+
+### 1.
+
+NBP może przyjmować od banków weksle do dyskonta i redyskonta.
+
+### 2.
+
+Zarząd NBP określa rodzaje weksli przyjmowanych przez NBP do dyskonta i redyskonta oraz uchwala zasady i tryb ich dyskonta oraz redyskonta.
+
+### Art. 45.
+
+Prezes NBP obwieszcza ustalone przez Radę stopy: dyskontową i redyskontową weksli, oprocentowania kredytu refinansowego i kredytu lombardowego oraz rezerw obowiązkowych banków.
+
+### Art. 46.
+
+W razie zagrożenia realizacji polityki pieniężnej Rada może w drodze uchwały wprowadzić:
+
+### 1)
+
+ograniczenie wielkości środków pieniężnych oddawanych przez banki do dyspozycji kredytobiorców i pożyczkobiorców,
+
+### 2)
+
+obowiązek utrzymywania nie oprocentowanego depozytu w NBP od zagranicznych środków wykorzystanych przez banki i krajowych przedsiębiorców.
+
+### Art. 47.
+
+Pożyczki i kredyty zaciągnięte przez NBP w zagranicznych instytucjach bankowych i finansowych mogą być przeznaczane na udzielanie kredytu w walutach obcych bankom krajowym.
+
+### Art. 48.
+
+NBP może:
+
+### 1)
+
+emitować i sprzedawać papiery wartościowe,
+
+### 2)
+
+sprzedawać i kupować skarbowe papiery wartościowe w operacjach otwartego rynku,
+
+### 3)
+
+organizować obrót papierami wartościowymi, których jest emitentem, oraz skarbowymi papierami wartościowymi.
+
+### Art. 49.
+
+NBP może być powierzona obsługa pożyczki państwowej, zaciągniętej w drodze emisji papierów wartościowych.
+
+### Art. 50.
+
+NBP może przyjmować papiery wartościowe do przechowania i administrowania oraz jako przedmiot zastawu.
+
+### Rozdział 7 Prowadzenie rachunków bankowych
+
+### Art. 51.
+
+### 1.
+
+NBP prowadzi rachunki:
+
+### 1)
+
+banków,
+
+### 2)
+
+budżetu państwa,
+
+### 3)
+
+Bankowego Funduszu Gwarancyjnego,
+
+### 4)
+
+innych osób prawnych, za zgodą Prezesa NBP.
+
+### 2.
+
+Zarząd NBP określa, w drodze uchwały, warunki otwierania i prowadzenia rachunków banków.
+
+### Rozdział 8 Działalność dewizowa
+
+### Art. 52.
+
+### 1.
+
+NBP realizuje funkcje centralnej bankowej instytucji dewizowej poprzez gromadzenie rezerw dewizowych, zarządzanie rezerwami dewizowymi oraz podejmowanie czynności bankowych i innych mających na celu zapewnienie bezpieczeństwa obrotu dewizowego i płynności płatniczej kraju.
+
+### 2.
+
+NBP wykonuje kontrolę dewizową w zakresie ustalonym w przepisach prawa dewizowego.
+
+### 3.
+
+NBP może pełnić funkcje agenta finansowego Rządu w zakresie zawierania i realizacji umów kredytowych oraz obsługi zadłużenia zagranicznego państwa; NBP nie odpowiada za zobowiązania Skarbu Państwa w tym zakresie. Szczegółowy tryb postępowania ustali każdorazowo umowa między NBP i Ministrem Finansów.
+
+### 4.
+
+NBP może posiadać wartości dewizowe i dokonywać obrotu tymi wartościami we własnym imieniu i na własny rachunek oraz na rachunek innych podmiotów, jak również wykonywać czynności obrotu dewizowego w kraju i za granicą, w tym również w zakresie udzielania i zaciągania kredytów i pożyczek zagranicznych oraz udzielania i przyjmowania poręczeń i gwarancji bankowych w obrotach z zagranicą.
+
+### 5.
+
+NBP może upoważniać inne niż bank osoby prawne oraz podmioty nie będące osobami prawnymi do wykonywania obsługi dewizowej i walutowej ludności.
+
+### Rozdział 9 Szczególne obowiązki i uprawnienia NBP
+
+### Art. 53.
+
+Uchwały Rady i Zarządu NBP, z wyjątkiem uchwał określonych w art. 54 pkt 1, ogłaszane są w Monitorze Polskim.
+
+### Art. 54.
+
+Prezes NBP wydaje Dziennik Urzędowy Narodowego Banku Polskiego, w którym ogłaszane są w szczególności:
+
+### 1)
+
+uchwały Rady i Zarządu NBP dotyczące funkcjonowania banków,
+
+### 2)
+
+roczne sprawozdanie finansowe,
+
+### 3)
+
+obwieszczenia w sprawie utworzenia, likwidacji i upadłości banku,
+
+### 4)
+
+obwieszczenia Prezesa NBP dotyczące oprocentowania kredytu refinansowego i lombardowego, stopy dyskontowej i redyskontowej weksli oraz stopy rezerw obowiązkowych banków.
+
+### Art. 55.
+
+Pracownicy NBP oraz członkowie Rady, a także organów opiniodawczo-doradczych przy Zarządzie NBP są obowiązani do nieujawniania osobom nie upoważnionym wiadomości stanowiących tajemnicę państwową, służbową i bankową, z którymi zapoznali się podczas pracy w NBP, lub członkostwa w wymienionych wyżej organach. Obowiązek ten trwa również po rozwiązaniu stosunku pracy oraz po ustaniu członkostwa we wspomnianych organach.
+
+### Art. 56.
+
+### 1.
+
+Do składania oświadczeń w zakresie praw i obowiązków majątkowych NBP są upoważnieni:
+
+### 1)
+
+Prezes NBP albo
+
+### 2)
+
+dwie osoby działające łącznie spośród:
+
+### a)
+
+wiceprezesów NBP lub pozostałych członków Zarządu NBP oraz
+
+### b)
+
+pełnomocników powoływanych przez Zarząd NBP albo osobę przez niego do tego upoważnioną, działających w granicach udzielonych im pełnomocnictw.
+
+### 2.
+
+Do wykonywania czynności określonego rodzaju lub czynności szczególnych osoby wymienione w ust. 1 mogą ustanowić pełnomocnika działającego samodzielnie w granicach udzielonego pełnomocnictwa.
+
+### Art. 57.
+
+### 1.
+
+NBP, na równi z jednostkami budżetowymi, korzysta ze zwolnienia od podatków oraz od opłat sądowych i skarbowych.
+
+### 2.
+
+Egzekucja należności pieniężnych od NBP może być prowadzona, gdy wierzyciel złożył w NBP tytuł egzekucyjny sądowy lub administracyjny i w ciągu miesiąca od daty złożenia tytułu objęte nim świadczenie nie zostało wykonane. Do egzekucji przeciwko NBP stosuje się odpowiednio przepis art. 1060 Kodeksu postępowania cywilnego.
+
+### Art. 58.
+
+Nie można ogłosić upadłości NBP.
+
+### Art. 59.
+
+NBP może inicjować i organizować badania naukowe, jak również prowadzić działalność wydawniczą i promocyjną.
+
+### Rozdział 10 Gospodarka finansowa NBP
+
+### Art. 60.
+
+### 1.
+
+Funduszami własnymi NBP są fundusze podstawowe oraz fundusze specjalne.
+
+### 2.
+
+Do funduszy podstawowych NBP zalicza się: fundusz statutowy oraz fundusz rezerwowy.
+
+### Art. 61.
+
+Fundusz statutowy NBP wynosi 400 milionów złotych i jest uzupełniany z odpisów zysku NBP przez okres nie dłuższy niż 3 lata.
+
+### Art. 62.
+
+### 1.
+
+Fundusz rezerwowy przeznaczony jest na pokrycie strat bilansowych NBP.
+
+### 2.
+
+Odpisy na fundusz rezerwowy wynoszą 2% rocznego zysku bilansowego.
+
+### Art. 63.
+
+Funduszami specjalnymi NBP są:
+
+### 1)
+
+fundusz premiowy,
+
+### 2)
+
+zakładowy fundusz nagród,
+
+### 3)
+
+zakładowy fundusz świadczeń socjalnych.
+
+### Art. 64.
+
+NBP prowadzi gospodarkę finansową na podstawie planu finansowego zatwierdzonego przez Radę.
+
+### Art. 65.
+
+### 1.
+
+Zasady tworzenia funduszu premiowego, w tym wysokość odpisu z rocznego zysku na fundusz, oraz sposób wykorzystania środków funduszu uchwala Zarząd NBP. Fundusz premiowy przeznaczony jest na wypłatę premii dla pracowników NBP.
+
+### 2.
+
+Zasady tworzenia i wykorzystywania zakładowego funduszu nagród i zakładowego funduszu świadczeń socjalnych regulują odrębne przepisy.
+
+### 3.
+
+Zarząd NBP może uchwalić inne fundusze specjalne, za zgodą Ministra Finansów.
+
+### 4.
+
+Wysokość corocznych odpisów na fundusze specjalne wymaga uzgodnienia z Ministrem Finansów.
+
+### 5.
+
+NBP tworzy rezerwę na pokrycie ryzyka zmian kursu złotego do walut obcych. Zasady tworzenia i rozwiązywania tych rezerw określa Rada.
+
+### Art. 66.
+
+### 1.
+
+Wielkość środków na wynagrodzenia ustalana jest corocznie w planie finansowym NBP, z uwzględnieniem poziomu płac w sektorze bankowym.
+
+### 2.
+
+Zasady wynagradzania pracowników NBP ustala Zarząd NBP.
+
+### 3.
+
+Wynagrodzenie Prezesa i wiceprezesów NBP ustalane jest na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, z tym że wynagrodzenie ustala się z uwzględnieniem poziomu przeciętnego wynagrodzenia w sektorze bankowym.
+
+### Art. 67.
+
+Zasady rachunkowości NBP muszą być zgodne z Międzynarodowymi Standardami Rachunkowości.
+
+### Art. 68.
+
+### 1.
+
+Roczne sprawozdanie finansowe NBP składa się z:
+
+### 1)
+
+bilansu,
+
+### 2)
+
+rachunku zysków i strat,
+
+### 3)
+
+informacji dodatkowej.
+
+### 2.
+
+Układ aktywów i pasywów bilansu oraz rachunku zysków i strat określa uchwała Rady.
+
+### 3.
+
+W informacji dodatkowej podaje się w szczególności:
+
+### 1)
+
+objaśnienie stosowanych metod wyceny oraz przedstawianie przyczyn ich ewentualnych zmian w porównaniu do roku poprzedniego,
+
+### 2)
+
+uzupełniające dane o aktywach i pasywach bilansu oraz elementach rachunku zysków i strat,
+
+### 3)
+
+wszelkie inne znaczące informacje niezbędne do zrozumienia pozycji bilansowych oraz rachunku zysków i strat.
+
+### Art. 69.
+
+### 1.
+
+Rada Ministrów, na wniosek Ministra Finansów, powołuje komisję, której zadaniem jest zbadanie i ocena rocznego sprawozdania finansowego NBP.
+
+### 2.
+
+W terminie 15 dni po zakończeniu badania i oceny, o których mowa w ust. 1, nie później jednak niż do dnia 30 kwietnia roku następnego po okresie sprawozdawczym, Prezes NBP przedstawia roczne sprawozdanie finansowe NBP Radzie Ministrów do zatwierdzenia.
+
+### 3.
+
+Po upływie 30 dni od daty zatwierdzenia rocznego sprawozdania finansowego NBP przez Radę Ministrów część rocznego zysku bilansowego NBP podlega odprowadzeniu do budżetu państwa.
+
+### Art. 70.
+
+Prezes NBP w ciągu 5 miesięcy od zakończenia roku budżetowego przedstawia Sejmowi roczne sprawozdanie z działalności NBP.
+
+### Rozdział 11 Przepisy przejściowe i końcowe
+
+### Art. 71.
+
+Środki nie wykorzystanych z dniem wejścia w życie niniejszej ustawy funduszy: inwestycyjnego, dewizowego, ryzyka, postępu techniczno-ekonomicznego oraz części funduszu środków trwałych pozostałych po uzupełnieniu funduszu statutowego - podlegają przekazaniu na fundusz rezerwowy.
+
+### Art. 72.
+
+W ustawie z dnia 1 sierpnia 1992 r. o zmianie ustawy - Prawo budżetowe ([Dz. U. Nr 64, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/1992/322/text.html)) skreśla się art. 3.
+
+### Art. 73.
+
+Zbycie posiadanych przez NBP udziałów w spółkach prawa handlowego powinno nastąpić do końca 2002 r.
+
+### Art. 74.
+
+### 1.
+
+Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z przepisami tej ustawy.
+
+### 2.
+
+Prezes NBP w terminie 6 miesięcy od dnia wejścia w życie ustawy ogłosi w Dzienniku Urzędowym NBP wykaz obowiązujących dotychczas przepisów wykonawczych.
+
+### 3.
+
+Pracownicy NBP uprawnieni do wykonywania czynności nadzoru na podstawie przepisów dotychczas obowiązujących mogą wykonywać obowiązki inspektorów nadzoru bankowego do dnia 31 grudnia 2000 r.
+
+### Art. 75.
+
+Traci moc ustawa z dnia 31 stycznia 1989 r. o Narodowym Banku Polskim ([Dz. U. z 1992 r. Nr 72, poz. 360](https://api.sejm.gov.pl/eli/acts/DU/1992/360/text.html), z [1993 r. Nr 6, poz. 29](https://api.sejm.gov.pl/eli/acts/DU/1993/29/text.html), z [1994 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1994/2/text.html), [Nr 80, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1994/369/text.html), [Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) i [Nr 136, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1994/703/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 114, poz. 740](https://api.sejm.gov.pl/eli/acts/DU/1997/740/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)).
+
+### Art. 76.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.

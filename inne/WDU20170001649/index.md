@@ -1,0 +1,80 @@
+---
+title: Rozporządzenie Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą
+address: WDU20170001649
+eli: DU/2017/1649
+publisher: DU
+year: 2017
+pos: 1649
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 18 sierpnia 2017 r. zmieniające rozporządzenie w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą [1) Minister Edukacji Narodowej kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1649 |
+| ISAP | WDU20170001649 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-08-18 |
+| Data wydania | 2017-08-31 |
+| Wejście w życie | 2017-09-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1649/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1649) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 22 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2016 r. poz. 1943](https://api.sejm.gov.pl/eli/acts/DU/2016/1943/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Edukacji Narodowej z dnia 31 sierpnia 2010 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą ([Dz. U. z 2014 r. poz. 454](https://api.sejm.gov.pl/eli/acts/DU/2014/454/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się § 4;
+
+### 2)
+
+w § 10:
+
+### a)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Zajęcia edukacyjne w kształceniu na odległość są prowadzone w formie konsultacji.
+
+### 3.
+
+Do oceniania, klasyfikowania i promowania w kształceniu na odległość stosuje się § 12 rozporządzenia Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą ([Dz. U. poz. 1648](https://api.sejm.gov.pl/eli/acts/DU/2017/1648/text.html)).
+
+” ,
+
+### b)
+
+uchyla się ust. 4-6.
+
+### 3)
+
+w § 17 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Do powierzania stanowisk kierowników punktów oraz odwoływania kierowników punktów stosuje się § 21 rozporządzenia Ministra Edukacji Narodowej z dnia 18 sierpnia 2017 r. w sprawie organizacji kształcenia dzieci obywateli polskich czasowo przebywających za granicą.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
+
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej - oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.

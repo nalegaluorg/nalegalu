@@ -8,11 +8,9 @@ pos: 747
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków
-
-*USTAWA z dnia 7 czerwca 2001 r.*
+# Ustawa z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków
 
 | Pole | Wartość |
 |---|---|
@@ -24,730 +22,1030 @@ domain: null
 | Data ogłoszenia | 2001-06-07 |
 | Data wydania | 2001-07-13 |
 | Ostatnia zmiana | 2026-05-06 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010720747) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/747/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/747/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/747) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa zasady i warunki zbiorowego zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi oraz zbiorowego odprowadzania ścieków, w tym:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zasady zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków](#chpt_2) [Rozdział 3 - Zasady udzielania zezwoleń na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków oraz uchwalanie regulaminu](#chpt_3) [Rozdział 4 - Zasady ustalania taryf za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków](#chpt_4) [Rozdział 5 - Zatwierdzanie taryf oraz zasady rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków](#chpt_5) [Rozdział 6 - Przepisy karne i kary pieniężne](#chpt_6) [Rozdział 7 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_7)
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+TOC
 
-**Art. 3.**
+## Treść ustawy
 
-1. Zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków jest zadaniem własnym gminy.
+### Rozdział 1 Przepisy ogólne
 
-2. W razie wspólnego wykonywania przez gminy zadania, o którym mowa w ust. 1, określone w ustawie prawa i obowiązki organów gminy wykonują odpowiednio właściwe organy:
+### Art. 1.
 
-- **1)** związku międzygminnego;
-- **2)** gminy wskazanej w porozumieniu międzygminnym.
+Ustawa określa zasady i warunki zbiorowego zaopatrzenia w wodę przeznaczoną do spożycia przez ludzi oraz zbiorowego odprowadzania ścieków, w tym zasady działalności przedsiębiorstw wodociągowo-kanalizacyjnych, zasady tworzenia warunków do zapewnienia ciągłości dostaw i odpowiedniej jakości wody, niezawodnego odprowadzania i oczyszczania ścieków, a także ochrony interesów odbiorców usług, z uwzględnieniem wymagań ochrony środowiska i optymalizacji kosztów.
 
-3. Gmina ustala kierunki rozwoju sieci w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego.
+### Art. 2.
 
-**Art. 4.** (uchylony)
+Użyte w ustawie określenia oznaczają:
 
-#### Rozdział 2 Zasady zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków
+### 1)
 
-**Art. 5.**
+gmina - także związek międzygminny i porozumienie międzygminne,
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne ma obowiązek zapewnić zdolność posiadanych urządzeń wodociągowych i urządzeń kanalizacyjnych do realizacji dostaw wody w wymaganej ilości i pod odpowiednim ciśnieniem oraz dostaw wody i odprowadzania ścieków w sposób ciągły i niezawodny, a także zapewnić należytą jakość dostarczanej wody i odprowadzanych ścieków.
+### 2)
 
-1a. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do prowadzenia regularnej wewnętrznej kontroli jakości wody.
+niezbędne przychody - wartość przychodów w danym roku obrachunkowym, zapewniających ciągłość zbiorowego zaopatrzenia w wodę odpowiedniej jakości i ilości i zbiorowego odprowadzania ścieków, które przedsiębiorstwo wodociągowo-kanalizacyjne powinno osiągnąć na pokrycie uzasadnionych kosztów, związanych z ujęciem i poborem wody, eksploatacją, utrzymaniem i rozbudową urządzeń wodociągowych i urządzeń kanalizacyjnych, oraz osiągnięcie zysku,
 
-1b. Wymóg zapewnienia dostaw pod odpowiednim ciśnieniem, o którym mowa w ust. 1, dotyczy wyłącznie dostaw wody z sieci.
+### 3)
 
-2. Jeżeli umowa o zaopatrzenie w wodę lub odprowadzanie ścieków nie stanowi inaczej, odbiorca usług odpowiada za zapewnienie niezawodnego działania posiadanych instalacji i przyłączy wodociągowych lub instalacji i przyłączy kanalizacyjnych z urządzeniem pomiarowym włącznie.
+odbiorca usług - każdego, kto korzysta z usług wodociągowo-kanalizacyjnych z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków na podstawie umowy z przedsiębiorstwem wodociągowo-kanalizacyjnym,
 
-**Art. 6.**
+### 4)
 
-1. Dostarczanie wody lub odprowadzanie ścieków odbywa się na podstawie pisemnej umowy o zaopatrzenie w wodę lub odprowadzanie ścieków zawartej między przedsiębiorstwem wodociągowo-kanalizacyjnym a odbiorcą usług.
+przedsiębiorstwo wodociągowo-kanalizacyjne - przedsiębiorcę w rozumieniu przepisów o działalności gospodarczej, jeżeli prowadzi działalność gospodarczą w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków, oraz gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące tego rodzaju działalność,
 
-1a. Do zakupu wody lub wprowadzania przez przedsiębiorstwo wodociągowo-kanalizacyjne ścieków do urządzeń kanalizacyjnych niebędących w jego posiadaniu stosuje się przepisy Kodeksu cywilnego.
+### 5)
 
-2. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do zawarcia umowy o zaopatrzenie w wodę lub odprowadzanie ścieków z osobą, której nieruchomość została przyłączona do sieci i która wystąpiła z pisemnym wnioskiem o zawarcie umowy.
+przyłącze kanalizacyjne - odcinek przewodu łączącego wewnętrzną instalację kanalizacyjną w nieruchomości odbiorcy usług z siecią kanalizacyjną, za pierwszą studzienką, licząc od strony budynku, a w przypadku jej braku - od granicy nieruchomości,
 
-3. Umowa, o której mowa w ust. 1, zawiera w szczególności postanowienia dotyczące:
+### 6)
 
-- **1)** ilości i jakości świadczonych usług wodociągowych lub kanalizacyjnych oraz warunków ich świadczenia;
-- **2)** sposobu i terminów wzajemnych rozliczeń;
-- **3)** praw i obowiązków stron umowy;
-- **3a)** warunków usuwania awarii przyłączy wodociągowych lub przyłączy kanalizacyjnych będących w posiadaniu odbiorcy usług;
-- **4)** procedur i warunków kontroli urządzeń wodociągowych i urządzeń kanalizacyjnych;
-- **5)** ustaleń zawartych w zezwoleniu, o których mowa w art. 18;
-- **6)** okresu obowiązywania umowy oraz odpowiedzialności stron za niedotrzymanie warunków umowy, w tym warunków wypowiedzenia.
+przyłącze wodociągowe - odcinek przewodu łączącego sieć wodociągową z wewnętrzną instalacją wodociągową w nieruchomości odbiorcy usług wraz z zaworem za wodomierzem głównym,
 
-4. Umowa, o której mowa w ust. 1, może być zawarta z osobą, która posiada tytuł prawny do korzystania z nieruchomości, do której ma być dostarczana woda lub z której mają być odprowadzane ścieki, albo z osobą, która korzysta z nieruchomości o nieuregulowanym stanie prawnym.
+### 7)
 
-5. Jeżeli nieruchomość jest zabudowana budynkiem wielolokalowym lub budynkami wielolokalowymi, umowa, o której mowa w ust. 1, jest zawierana z ich właścicielem lub z zarządcą.
+sieć - przewody wodociągowe lub kanalizacyjne wraz z uzbrojeniem i urządzeniami, którymi dostarczana jest woda lub którymi odprowadzane są ścieki, będące w posiadaniu przedsiębiorstwa wodociągowo-kanalizacyjnego,
 
-6. Na wniosek właściciela lub zarządcy budynku wielolokalowego lub budynków wielolokalowych przedsiębiorstwo wodociągowo-kanalizacyjne zawiera umowę, o której mowa w ust. 1, także z osobą korzystającą z lokalu wskazaną we wniosku, jeżeli:
+### 8)
 
-- **1)** instalacja wodociągowa w budynku jest wyposażona w wodomierze, zainstalowane zgodnie z obowiązującymi warunkami technicznymi, przy wszystkich punktach czerpalnych;
-- **2)** jest możliwy odczyt wskazań wodomierzy w terminie uzgodnionym przez przedsiębiorstwo wodociągowo-kanalizacyjne z właścicielem lub zarządcą;
-- **3)** właściciel lub zarządca rozlicza, zgodnie z art. 26 ust. 3, różnicę wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody;
-- **4)** właściciel lub zarządca na podstawie umowy, o której mowa w ust. 1, reguluje należności wynikające z różnicy wskazań między wodomierzem głównym a sumą wskazań wodomierzy zainstalowanych przy punktach czerpalnych wody;
-- **5)** właściciel lub zarządca określa warunki utrzymania wodomierzy zainstalowanych przy punktach czerpalnych oraz warunki pobierania wody z punktów czerpalnych znajdujących się poza lokalami;
-- **6)** został uzgodniony z właścicielem lub zarządcą sposób przerwania dostarczania wody do lokalu bez zakłócania dostaw wody do pozostałych lokali; w szczególności przez możliwość przerwania dostarczania wody do lokalu rozumie się założenie plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu;
-- **7)** został uzgodniony z właścicielem lub zarządcą sposób przerywania dostarczania wody z punktów czerpalnych znajdujących się poza lokalami, bez zakłócania dostaw wody do lokali.
+ścieki - wprowadzane do wód lub do ziemi:
 
-6a. Właściciel lub zarządca przed złożeniem wniosku, o którym mowa w ust. 6, jest obowiązany do poinformowania osób korzystających z lokali o zasadach rozliczeń, o których mowa w ust. 6 pkt 3 i 4, oraz o obowiązku regulowania dodatkowych opłat wynikających z taryf za dokonywane przez przedsiębiorstwo wodociągowo-kanalizacyjne rozliczenie.
+### a)
 
-7. Przedsiębiorstwo wodociągowo-kanalizacyjne może wyrazić zgodę na zawarcie umowy z osobą korzystającą z lokalu, w budynkach, o których mowa w ust. 5, w przypadku gdy nie są spełnione warunki, o których mowa w ust. 6.
+wody zużyte na cele bytowe lub przemysłowe,
 
-8. W przypadku, o którym mowa w ust. 5, właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych jest uprawniony do zainstalowania wodomierzy przy wszystkich punktach czerpalnych wody w danym budynku. Osoba korzystająca z lokalu jest obowiązana udostępnić lokal w celu zainstalowania wodomierzy oraz dokonywania ich odczytów, legalizacji, konserwacji i wymiany.
+### b)
 
-**Art. 7.** Osoby reprezentujące przedsiębiorstwo wodociągowo-kanalizacyjne, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do obiektu budowlanego należących do osób, o których mowa w art. 6 ust. 2 i 4–7, w celu:
+ciekłe odchody zwierzęce, z wyjątkiem gnojówki i gnojowicy przeznaczonej do rolniczego wykorzystania w sposób i na zasadach określonych w przepisach ustawy z dnia 26 lipca 2000 r. o nawozach i nawożeniu ([Dz. U. Nr 89, poz. 991](https://api.sejm.gov.pl/eli/acts/DU/2000/991/text.html)),
 
-**Art. 8.**
+### c)
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne może odciąć dostawę wody lub zamknąć przyłącze kanalizacyjne, jeżeli:
+wody opadowe lub roztopowe, ujęte w systemy kanalizacyjne, pochodzące z powierzchni zanieczyszczonych, w tym z centrów miast, terenów przemysłowych i składowych, baz transportowych oraz dróg i parkingów o trwałej nawierzchni,
 
-- **1)** przyłącze wodociągowe lub przyłącze kanalizacyjne wykonano niezgodnie z przepisami prawa;
-- **2)** odbiorca usług nie uiścił należności za pełne dwa okresy obrachunkowe, następujące po dniu otrzymania upomnienia w sprawie uregulowania zaległej opłaty;
-- **3)** jakość wprowadzanych ścieków nie spełnia wymogów określonych w przepisach prawa lub stwierdzono celowe uszkodzenie albo pominięcie urządzenia pomiarowego;
-- **4)** został stwierdzony nielegalny pobór wody lub nielegalne odprowadzanie ścieków, to jest bez zawarcia umowy, jak również przy celowo uszkodzonych albo pominiętych wodomierzach lub urządzeniach pomiarowych.
+### d)
 
-2. Przedsiębiorstwo wodociągowo-kanalizacyjne, które odcięło dostawę wody z przyczyny, o której mowa w ust. 1 pkt 2, jest obowiązane do równoczesnego udostępnienia zastępczego punktu poboru wody przeznaczonej do spożycia przez ludzi i poinformowania o możliwościach korzystania z tego punktu.
+wody wykorzystane, odprowadzane z obiektów gospodarki rybackiej, jeżeli zawarty w nich ładunek zanieczyszczeń jest wyższy od ładunku zawartego w pobranej wodzie,
 
-3. Przedsiębiorstwo wodociągowo-kanalizacyjne o zamiarze odcięcia dostawy wody lub zamknięcia przyłącza kanalizacyjnego oraz o miejscach i sposobie udostępniania zastępczych punktów poboru wody zawiadamia powiatowego inspektora sanitarnego , wójta (burmistrza, prezydenta miasta) oraz odbiorcę usług co najmniej na 20 dni przed planowanym terminem odcięcia dostaw wody lub zamknięcia przyłącza kanalizacyjnego.
+### 9)
 
-**Art. 9.**
+ścieki bytowe - ścieki z budynków przeznaczonych na pobyt ludzi, osiedli mieszkaniowych i terenów usługowych, powstające w szczególności w wyniku ludzkiego metabolizmu oraz funkcjonowania gospodarstw domowych,
 
-1. Zabrania się wprowadzania ścieków bytowych i ścieków przemysłowych do urządzeń kanalizacyjnych przeznaczonych do odprowadzania wód opadowych lub roztopowych będących skutkiem opadów atmosferycznych, a także wprowadzania tych wód opadowych i roztopowych oraz wód drenażowych do kanalizacji sanitarnej.
+### 10)
 
-2. Zabrania się wprowadzania do urządzeń kanalizacyjnych:
+ścieki komunalne - ścieki bytowe lub mieszaninę ścieków bytowych ze ściekami przemysłowymi, lub mieszaninę ścieków bytowych z wodami opadowymi, lub mieszaninę ścieków bytowych ze ściekami przemysłowymi i wodami opadowymi,
 
-- **1)** odpadów stałych, które mogą powodować zmniejszenie przepustowości przewodów kanalizacyjnych, a w szczególności żwiru, piasku, popiołu, szkła, wytłoczyn, drożdży, szczeciny, ścinków skór, tekstyliów, włókien, nawet jeżeli znajdują się one w stanie rozdrobnionym;
-- **2)** odpadów płynnych niemieszających się z wodą, a w szczególności sztucznych żywic, lakierów, mas bitumicznych, smół i ich emulsji, mieszanin cementowych;
-- **3)** substancji palnych i wybuchowych, których punkt zapłonu znajduje się w temperaturze poniżej 85 ºC, a w szczególności benzyn, nafty, oleju opałowego, karbidu, trójnitrotoluenu;
-- **4)** substancji żrących i toksycznych, a w szczególności mocnych kwasów i zasad, formaliny, siarczków, cyjanków oraz roztworów amoniaku, siarkowodoru i cyjanowodoru;
-- **5)** odpadów i ścieków z hodowli zwierząt, a w szczególności gnojówki, gnojowicy, obornika, ścieków z kiszonek;
-- **6)** ścieków zawierających chorobotwórcze drobnoustroje pochodzące z:
-    - **a)** obiektów, w których są leczeni chorzy na choroby zakaźne,
-    - **b)** stacji krwiodawstwa,
-    - **c)** zakładów leczniczych dla zwierząt, w których zwierzęta są leczone stacjonarnie na choroby zakaźne,
-    - **d)** laboratoriów prowadzących badania z materiałem zakaźnym pochodzącym od zwierząt.
+### 11)
 
-3. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do prowadzenia regularnej kontroli ilości i jakości odprowadzanych ścieków bytowych i ścieków przemysłowych oraz kontroli przestrzegania warunków wprowadzania ścieków do urządzeń kanalizacyjnych.
+ścieki przemysłowe - ścieki odprowadzane z nieruchomości, na których prowadzi się działalność gospodarczą, niebędące ściekami bytowymi lub wodami opadowymi,
 
-**Art. 10.** Dostawca ścieków przemysłowych wprowadzanych do urządzeń kanalizacyjnych jest obowiązany do:
+### 12)
 
-**Art. 11.** Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu określi, w drodze rozporządzenia, sposób realizacji obowiązków dostawców ścieków przemysłowych oraz warunki wprowadzania ścieków do urządzeń kanalizacyjnych, w tym dopuszczalne wartości wskaźników zanieczyszczeń w ściekach przemysłowych wprowadzanych do urządzeń kanalizacyjnych oraz sposób sprawowania kontroli ilości i jakości ścieków, biorąc pod uwagę:
+taryfa - zestawienie ogłoszonych publicznie cen i stawek opłat za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków oraz warunki ich stosowania,
 
-**Art. 12.**
+### 13)
 
-1. Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Państwowej Inspekcji Sanitarnej na zasadach określonych w przepisach o Państwowej Inspekcji Sanitarnej, z zastrzeżeniem art. 12b.
+taryfowa grupa odbiorców usług - odbiorców wyodrębnionych na podstawie charakterystyki zużycia wody lub odprowadzanych ścieków, warunków zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków, a także na podstawie sposobu rozliczeń za świadczone usługi,
 
-2. Każdy materiał i wyrób używany do uzdatniania wody przeznaczonej do spożycia przez ludzi powinien posiadać pozytywną ocenę higieniczną państwowego powiatowego inspektora sanitarnego.
+### 14)
 
-3. Zastosowanie nowych technologii uzdatniania wody przeznaczonej do spożycia przez ludzi wymaga zgody państwowego wojewódzkiego inspektora sanitarnego.
+urządzenia kanalizacyjne - sieci kanalizacyjne, wyloty urządzeń kanalizacyjnych służących do wprowadzania ścieków do wód lub do ziemi oraz urządzenia podczyszczające i oczyszczające ścieki oraz przepompownie ścieków,
 
-4. Badanie pobranych próbek wody przeznaczonej do spożycia przez ludzi mogą wykonywać laboratoria Państwowej Inspekcji Sanitarnej lub inne laboratoria o udokumentowanym systemie jakości prowadzonych badań wody, zatwierdzonym przez Państwową Inspekcję Sanitarną.
+### 15)
 
-5. Wójt (burmistrz, prezydent miasta) jest obowiązany do informowania mieszkańców o jakości wody przeznaczonej do spożycia przez ludzi.
+urządzenie pomiarowe - przyrząd pomiarowy mierzący ilość odprowadzanych ścieków, znajdujący się na przyłączu kanalizacyjnym,
 
-**Art. 12a.**
+### 16)
 
-1. Udokumentowany system jakości prowadzonych badań wody, o którym mowa w art. 12 ust. 4, powinien być zgodny z wymaganiami zawartymi w aktualnym wydaniu normy PN-EN ISO/IEC-17025.
+urządzenia wodociągowe - ujęcia wód powierzchniowych i podziemnych, studnie publiczne, urządzenia służące do magazynowania i uzdatniania wód, sieci wodociągowe, urządzenia regulujące ciśnienie wody,
 
-2. Zatwierdzenie, o którym mowa w art. 12 ust. 4, jest dokonywane każdego roku przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego na podstawie:
+### 17)
 
-- **1)** zaświadczenia potwierdzającego przeszkolenie przez organy Państwowej Inspekcji Sanitarnej osób pobierających próbki wody do badań albo certyfikatu laboratorium w zakresie pobierania próbek wody;
-- **2)** wykazu badań prowadzonych przez laboratorium, charakterystyki metod badawczych oraz dokumentacji potwierdzającej poprawność badań, o których mowa w ust. 3;
-- **3)** zestawienia wyników i oceny badań biegłości wykonanych nie później niż dwa lata od dnia wystąpienia o zatwierdzenie.
+właściciel - także posiadacza samoistnego i użytkownika wieczystego,
 
-3. Określa się dwustopniowy system zapewnienia jakości prowadzonych badań, obejmujący kontrolę jakości wyników badań:
+### 18)
 
-- **1)** wewnętrzną;
-- **2)** zewnętrzną, realizowaną przez udział w badaniach biegłości.
+woda przeznaczona do spożycia przez ludzi - wodę przeznaczoną do picia, gotowania, przygotowywania pożywienia lub do innych celów w gospodarstwach domowych oraz każdą wodę używaną do produkcji żywności, środków farmaceutycznych i kosmetycznych, a także na potrzeby basenów kąpielowych i pływalni,
 
-4. W przypadku zmiany wydania normy PN-EN ISO/IEC-17025 zatwierdzenie, o którym mowa w art. 12 ust. 4, jest dokonywane zgodnie z normą obowiązującą w momencie wykonywania badań biegłości.
+### 19)
 
-5. Organizator badań biegłości powinien postępować zgodnie z wymaganiami zawartymi w aktualnym wydaniu normy PN-EN ISO/IEC 17043.
+wodomierz główny - przyrząd pomiarowy mierzący ilość pobranej wody, znajdujący się na każdym przyłączu wodociągowym,
 
-6. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może dokonać kontroli laboratorium przed zatwierdzeniem, o którym mowa w art. 12 ust. 4, w zakresie zgodności systemu jakości prowadzonych badań z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
+### 20)
 
-**Art. 12b.**
+zbiorowe odprowadzanie ścieków - działalność polegającą na odprowadzaniu i oczyszczaniu ścieków, prowadzoną przez przedsiębiorstwo wodociągowo-kanalizacyjne,
 
-1. Główny Inspektor Sanitarny w ramach sprawowanego nadzoru, o którym mowa w art. 12 ust. 1, publikuje co 3 lata sprawozdanie z badania jakości wody przeznaczonej do spożycia przez ludzi.
+### 21)
 
-2. Sprawozdanie, o którym mowa w ust. 1, zawiera zestawienie co najmniej wszystkich poszczególnych dostaw wody przekraczających średnio 1000 m dziennie lub umożliwiających zaopatrzenie w wodę ponad 5000 osób i obejmuje okres 3 lat kalendarzowych.
+zbiorowe zaopatrzenie w wodę - działalność polegającą na ujmowaniu, uzdatnianiu i dostarczaniu wody, prowadzoną przez przedsiębiorstwo wodociągowo-kanalizacyjne.
 
-**Art. 12c.**
+### Art. 3.
 
-1. Dopuszcza się stosowanie metody alternatywnej w zakresie badania wody przeznaczonej do spożycia przez ludzi w przypadku udokumentowania równoważności wyników badania wody przeprowadzonego metodą alternatywną z wynikami badania wody przeprowadzonego metodą referencyjną.
+### 1.
 
-2. Uznanie metody alternatywnej w zakresie badania wody przeznaczonej do spożycia przez ludzi za równoważną z metodą referencyjną następuje zgodnie z aktualnym wydaniem normy PN-EN ISO 17994.
+Zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków jest zadaniem własnym gminy.
 
-3. Badania równoważności metody alternatywnej dokonuje się w krajowych laboratoriach akredytowanych.
+### 2.
 
-4. Dokumentacja badań równoważności metody alternatywnej jest przedkładana instytutowi badawczemu wykonującemu zadania z zakresu zdrowia publicznego, w celu sprawdzenia jej kompletności i poprawności w odniesieniu do wymagań aktualnego wydania normy PN-EN ISO 17994 oraz zachowania spełnienia wymagania określonego w ust. 3.
+W razie wspólnego wykonywania przez gminy zadania, o którym mowa w ust. 1, określone w ustawie prawa i obowiązki organów gminy wykonują odpowiednio właściwe organy:
 
-5. Minister właściwy do spraw zdrowia po uzyskaniu pozytywnej oceny instytutu, o której mowa w ust. 4, przedstawia Komisji Europejskiej informacje dotyczące metody oraz jej równoważności wraz z dokumentacją, o której mowa w ust.
+### 1)
 
-4.
+związku międzygminnego,
 
-**Art. 13.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia:
+### 2)
 
-**Art. 14.** Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej i Ministrem Sprawiedliwości, dla jednostek organizacyjnych podległych tym ministrom może określić, w drodze rozporządzenia:
+gminy wskazanej w porozumieniu międzygminnym.
 
-**Art. 15.**
+### 3.
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić budowę urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w miejscowych planach zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w art. 21 ust. 1.
+Gmina ustala kierunki rozwoju sieci w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy i miejscowym planie zagospodarowania przestrzennego.
 
-2. Realizację budowy przyłączy do sieci oraz studni wodomierzowej, pomieszczenia przewidzianego do lokalizacji wodomierza głównego i urządzenia pomiarowego zapewnia na własny koszt osoba ubiegająca się o przyłączenie nieruchomości do sieci.
+### Art. 4.
 
-3. Koszty nabycia, zainstalowania i utrzymania wodomierza głównego ponosi przedsiębiorstwo wodociągowo-kanalizacyjne, a urządzenia pomiarowego – odbiorca usług.
+### 1.
 
-4. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane przyłączyć do sieci nieruchomość osoby ubiegającej się o przyłączenie nieruchomości do sieci, jeżeli są spełnione warunki przyłączenia określone w regulaminie, o którym mowa w art. 19, oraz istnieją techniczne możliwości świadczenia usług.
+Centralnym organem administracji rządowej właściwym w sprawach zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków jest Prezes Urzędu Mieszkalnictwa i Rozwoju Miast.
 
-#### Rozdział 3 Zasady udzielania zezwoleń na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków oraz uchwalanie regulaminu
+### 2.
 
-**Art. 16.**
+Do zadań Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast w zakresie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków należy w szczególności:
 
-1. Na prowadzenie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków jest wymagane uzyskanie zezwolenia wydawanego przez wójta (burmistrza, prezydenta miasta) w drodze decyzji.
+### 1)
 
-2. Zezwolenie może być wydane na wniosek przedsiębiorstwa wodociągowo-kanalizacyjnego, które:
+opracowywanie projektów aktów normatywnych,
 
-- **1)** ma na terytorium Rzeczypospolitej Polskiej siedzibę i adres, oddział lub przedstawicielstwo w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470);
-- **2)** posiada środki finansowe lub udokumentuje możliwość ich uzyskania w wysokości niezbędnej do prawidłowego prowadzenia zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków;
-- **3)** posiada środki techniczne odpowiednie do zakresu działalności, o której mowa w ust. 1.
+### 2)
 
-3. Nie mają obowiązku uzyskania zezwolenia gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące na obszarze własnej gminy działalność na zasadach określonych w ustawie. Gminne jednostki organizacyjne opracowują projekt regulaminu dostarczania wody i odprowadzania ścieków.
+określanie kierunków zlecanych prac naukowo-badawczych,
 
-**Art. 17.**
+### 3)
 
-1. Wniosek o udzielenie zezwolenia powinien zawierać:
+współdziałanie z gminami, organizacjami zawodowymi i społecznymi,
 
-- **1)** oznaczenie przedsiębiorstwa wodociągowo-kanalizacyjnego ubiegającego się o zezwolenie, jego siedzibę i adres;
-- **2)** określenie przedmiotu i obszaru działalności;
-- **3)** określenie środków technicznych i finansowych, jakimi dysponuje wnioskodawca ubiegający się o zezwolenie na prowadzenie działalności objętej wnioskiem;
-- **4)** informacje o wynikach ekonomicznych dotychczasowej działalności gospodarczej wnioskodawcy;
-- **5)** informacje charakteryzujące poziom świadczonych usług w zakresie ilości, jakości oraz ciągłości dostarczania wody oraz odprowadzania ścieków;
-- **6)** informacje o technologiach stosowanych lub przewidzianych do stosowania przy dostarczaniu wody oraz odprowadzaniu i oczyszczaniu ścieków;
-- **7)** określenie terminu podjęcia działalności objętej wnioskiem;
-- **8)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacji podatkowej (NIP);
-- **9)** projekt regulaminu dostarczania wody i odprowadzania ścieków.
+### 4)
 
-2. Minister właściwy do spraw gospodarki wodnej określi wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307).
+współpraca z zagranicą.
 
-**Art. 17a.** Przed podjęciem decyzji w sprawie wydania zezwolenia wójt (burmistrz, prezydent miasta) może:
+### Rozdział 2 Zasady zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków
 
-**Art. 17b.** Wójt (burmistrz, prezydent miasta) odmawia udzielenia zezwolenia lub może ograniczyć jego zakres w stosunku do wniosku o udzielenie zezwolenia:
+### Art. 5.
 
-**Art. 17c.**
+### 1.
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne, ubiegające się o zezwolenie w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków może wystąpić do wójta (burmistrza, prezydenta miasta) o przyrzeczenie wydania zezwolenia, zwane dalej „promesą”.
+Przedsiębiorstwo wodociągowo-kanalizacyjne ma obowiązek zapewnić zdolność posiadanych urządzeń wodociągowych i urządzeń kanalizacyjnych do realizacji dostaw wody w wymaganej ilości i pod odpowiednim ciśnieniem oraz dostaw wody i odprowadzania ścieków w sposób ciągły i niezawodny, a także zapewnić należytą jakość dostarczanej wody i odprowadzanych ścieków.
 
-2. W promesie wójt (burmistrz, prezydent miasta) może uzależnić udzielenie zezwolenia od spełnienia warunków wykonywania działalności objętej zezwoleniem.
+### 2.
 
-3. W postępowaniu o udzielenie promesy stosuje się przepisy dotyczące udzielania zezwolenia.
+Jeżeli umowa o zaopatrzenie w wodę lub odprowadzanie ścieków nie stanowi inaczej, odbiorca usług odpowiada za zapewnienie niezawodnego działania posiadanych instalacji i przyłączy wodociągowych lub instalacji i przyłączy kanalizacyjnych z urządzeniem pomiarowym włącznie.
 
-4. W promesie ustala się okres jej ważności, z tym że nie może on być krótszy niż 6 miesięcy.
+### Art. 6.
 
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia zezwolenia objętego promesą właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli przedłoży on pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie mu tego zezwolenia.
+### 1.
 
-6. W okresie ważności promesy nie można odmówić udzielenia zezwolenia objętego promesą następcy nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tego zezwolenia.
+Dostarczanie wody lub odprowadzanie ścieków odbywa się na podstawie umowy o zaopatrzenie w wodę lub odprowadzanie ścieków zawartej między przedsiębiorstwem wodociągowo-kanalizacyjnym a odbiorcą usług.
 
-**Art. 18.** Zezwolenie powinno określać w szczególności:
+### 2.
 
-**Art. 18a.**
+Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do zawarcia umowy o zaopatrzenie w wodę lub odprowadzanie ścieków z osobą, której nieruchomość została przyłączona do sieci i która wystąpiła z pisemnym wnioskiem o zawarcie umowy.
 
-1. Wójt (burmistrz, prezydent miasta) cofa zezwolenie w przypadku, gdy:
+### 3.
 
-- **1)** wydano prawomocne orzeczenie zakazujące przedsiębiorstwu wodociągowo-kanalizacyjnemu wykonywania działalności gospodarczej objętej zezwoleniem;
-- **2)** przedsiębiorstwo wodociągowo-kanalizacyjne przestało spełniać warunki określone przepisami prawa, wymagane do wykonywania działalności określonej w zezwoleniu;
-- **3)** przedsiębiorstwo wodociągowo-kanalizacyjne nie usunęło, w wyznaczonym przez wójta (burmistrza, prezydenta miasta) terminie, stanu faktycznego lub prawnego niezgodnego z przepisami prawa regulującymi działalność gospodarczą objętą zezwoleniem.
+Umowa, o której mowa w ust. 1, zawiera w szczególności postanowienia dotyczące:
 
-2. Wójt (burmistrz, prezydent miasta) może cofnąć zezwolenie w przypadku, gdy:
+### 1)
 
-- **1)** przepisy odrębne tak stanowią;
-- **2)** przedsiębiorca nie podjął, mimo wezwania, lub zaprzestał wykonywania działalności określonej w zezwoleniu.
+ilości i jakości świadczonych usług wodociągowych lub kanalizacyjnych oraz warunków ich świadczenia,
 
-3. Przedsiębiorstwo wodociągowo-kanalizacyjne, któremu cofnięto zezwolenie z przyczyn, o których mowa w ust. 1 pkt 1, może ponownie wystąpić z wnioskiem o udzielenie zezwolenia w takim samym zakresie nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
+### 2)
 
-**Art. 18b.**
+sposobu i terminów wzajemnych rozliczeń,
 
-1. Zezwolenie wydaje się na czas nieoznaczony.
+### 3)
 
-2. Zezwolenie może być wydane na czas oznaczony na wniosek przedsiębiorstwa wodociągowo-kanalizacyjnego.
+praw i obowiązków stron umowy,
 
-3. (uchylony)
+### 4)
 
-4. Wójt (burmistrz, prezydent miasta) prowadzi w formie elektronicznej ewidencję udzielonych i cofniętych zezwoleń.
+procedur i warunków kontroli urządzeń wodociągowych i urządzeń kanalizacyjnych,
 
-**Art. 18c.** Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane niezwłocznie zgłaszać wójtowi (burmistrzowi, prezydentowi miasta) wszelkie zmiany danych określonych w zezwoleniu.
+### 5)
 
-**Art. 18d.** Odmowa wydania zezwolenia, jego zmiana i cofnięcie następuje w drodze decyzji wójta (burmistrza, prezydenta miasta). Art. 18da. Wójt (burmistrz, prezydent miasta) przekazuje organowi regulacyjnemu kopię ostatecznej decyzji w sprawie wydania zezwolenia, jego zmiany albo cofnięcia w terminie 7 dni od dnia, w którym ta decyzja stała się ostateczna. Wraz z kopią ostatecznej decyzji w sprawie wydania zezwolenia przekazuje się kopię wniosku, o którym mowa w art. 17.
+ustaleń zawartych w zezwoleniu, o których mowa w art. 18,
 
-**Art. 18e.**
+### 6)
 
-1. Wójt (burmistrz, prezydent miasta) jest uprawniony do kontroli działalności gospodarczej przedsiębiorstwa wodociągowo-kanalizacyjnego w zakresie zgodności wykonywanej działalności z udzielonym zezwoleniem.
+okresu obowiązywania umowy oraz odpowiedzialności stron za niedotrzymanie warunków umowy, w tym warunków wypowiedzenia.
 
-2. Czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez wójta (burmistrza, prezydenta miasta).
+### 4.
 
-3. Osoby upoważnione do dokonania kontroli są uprawnione w szczególności do:
+Umowa, o której mowa w ust. 1, może być zawarta z osobą, która posiada tytuł prawny do korzystania z obiektu budowlanego, do którego ma być dostarczana woda lub z którego mają być odprowadzane ścieki, albo z osobą, która korzysta z nieruchomości o nieuregulowanym stanie prawnym.
 
-- **1)** wstępu na teren przedsiębiorstwa wodociągowo-kanalizacyjnego w dniach i godzinach, w których jest lub powinna być wykonywana działalność objęta zezwoleniem;
-- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępniania danych mających związek z przedmiotem kontroli.
+### 5.
 
-4. Czynności kontrolnych dokonuje się wyłącznie w obecności osoby uprawnionej do reprezentowania przedsiębiorstwa wodociągowo-kanalizacyjnego lub osoby upoważnionej do reprezentowania go podczas kontroli.
+Jeżeli nieruchomość jest zabudowana budynkami wielolokalowymi, umowa, o której mowa w ust. 1, zawierana jest z właścicielem budynku lub z zarządcą nieruchomości wspólnej.
 
-5. Wójt (burmistrz, prezydent miasta) może upoważnić do dokonywania kontroli, o której mowa w ust. 1, inny organ administracji wyspecjalizowany w kontroli danego rodzaju działalności. Przepisy ust. 2–4 stosuje się odpowiednio.
+### 6.
 
-6. Do kontroli działalności gospodarczej przedsiębiorstwa wodociągowo-kanalizacyjnego stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+Na wniosek właściciela lub zarządcy budynku wielolokalowego, o którym mowa w ust. 4 i 5, przedsiębiorstwo wodociągowo-kanalizacyjne zawiera umowy z korzystającymi z lokali osobami, jeżeli:
 
-**Art. 19.**
+### 1)
 
-1. Rada gminy, na podstawie projektów regulaminów dostarczania wody i odprowadzania ścieków opracowanych przez przedsiębiorstwa wodociągowo-kanalizacyjne, przygotowuje projekt regulaminu dostarczania wody i odprowadzania ścieków oraz przekazuje go do zaopiniowania organowi regulacyjnemu, zawiadamiając o tym przedsiębiorstwa wodociągowo-kanalizacyjne.
+wszystkie lokale wyposażone są w zainstalowane wodomierze zgodnie z obowiązującymi warunkami technicznymi w sposób uzgodniony z przedsiębiorstwem wodociągowo-kanalizacyjnym,
 
-2. Organ regulacyjny opiniuje projekt regulaminu dostarczania wody i odprowadzania ścieków w zakresie zgodności z przepisami ustawy i wydaje, w drodze postanowienia, na które służy zażalenie, opinię nie później niż w terminie miesiąca od dnia doręczenia tego projektu.
+### 2)
 
-3. Rada gminy uchwala regulamin dostarczania wody i odprowadzania ścieków.
+możliwy jest odczyt wskazań wodomierzy,
 
-4. Regulamin dostarczania wody i odprowadzania ścieków jest aktem prawa miejscowego.
+### 3)
 
-5. Regulamin dostarczania wody i odprowadzania ścieków określa prawa i obowiązki przedsiębiorstwa wodociągowo-kanalizacyjnego oraz odbiorców usług, w tym:
+wnioskodawca ustala sposób rozliczeń różnic wskazań między wodomierzem głównym a wodomierzami zainstalowanymi w poszczególnych lokalach oraz zasady ich utrzymania,
 
-- **1)** minimalny poziom usług świadczonych przez przedsiębiorstwo wodociągowo-kanalizacyjne w zakresie dostarczania wody i odprowadzania ścieków;
-- **2)** warunki i tryb zawierania umów z odbiorcami usług;
-- **3)** sposób rozliczeń w oparciu o ceny i stawki opłat ustalone w taryfach;
-- **4)** warunki przyłączania do sieci;
-- **5)** warunki techniczne określające możliwości dostępu do usług wodociągowo-kanalizacyjnych;
-- **6)** sposób dokonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne odbioru wykonanego przyłącza;
-- **7)** sposób postępowania w przypadku niedotrzymania ciągłości usług i odpowiednich parametrów dostarczanej wody i wprowadzanych do sieci kanalizacyjnej ścieków;
-- **8)** standardy obsługi odbiorców usług, w tym sposoby załatwiania reklamacji oraz wymiany informacji dotyczących w szczególności zakłóceń w dostawie wody i odprowadzaniu ścieków;
-- **9)** warunki dostarczania wody na cele przeciwpożarowe.
+### 4)
 
-6. Rada gminy przekazuje wojewodzie uchwałę w sprawie regulaminu dostarczania wody i odprowadzania ścieków wraz z opinią, o której mowa w ust. 2.
+uzgodniony został przez strony sposób przerwania dostarczania wody do lokalu bez zakłócania dostaw wody w pozostałych lokalach; w szczególności przez możliwość przerwania dostarczania wody do lokalu rozumie się również założenie plomb na zamkniętych zaworach odcinających dostarczanie wody do lokalu.
 
-**Art. 19a.**
+### 7.
 
-1. Na pisemny wniosek podmiotu ubiegającego się o przyłączenie do sieci przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane wydać warunki przyłączenia do sieci albo uzasadnić odmowę ich wydania, w terminie:
+Przedsiębiorstwo wodociągowo-kanalizacyjne może wyrazić zgodę na zawarcie umów z korzystającymi z lokali osobami, o których mowa w ust. 4 i 5, również w przypadku, gdy nie są spełnione warunki, o których mowa w ust. 6.
 
-- **1)** 21 dni – od dnia złożenia wniosku o wydanie warunków przyłączenia do sieci, w przypadku budynków mieszkalnych jednorodzinnych, w tym znajdujących się w zabudowie zagrodowej;
-- **2)** 45 dni – od dnia złożenia wniosku o wydanie warunków przyłączenia do sieci, w pozostałych przypadkach.
+### Art. 7.
 
-2. W szczególnie uzasadnionych przypadkach przedsiębiorstwo wodociągowokanalizacyjne może przedłużyć terminy określone w ust. 1, odpowiednio o kolejne 21 albo 45 dni, po uprzednim zawiadomieniu podmiotu ubiegającego się o przyłączenie do sieci z podaniem uzasadnienia przyczyn tego przedłużenia.
+Przedstawiciele przedsiębiorstwa wodociągowo-kanalizacyjnego, po okazaniu legitymacji służbowej i pisemnego upoważnienia, mają prawo wstępu na teren nieruchomości lub do pomieszczeń każdego, kto korzysta z usług, w celu przeprowadzenia kontroli urządzenia pomiarowego, wodomierza głównego lub wodomierzy zainstalowanych w lokalu i dokonania odczytu ich wskazań, dokonania badań i pomiarów, przeprowadzenia przeglądów i napraw urządzeń posiadanych przez przedsiębiorstwo wodociągowo-kanalizacyjne, a także sprawdzenia ilości i jakości ścieków wprowadzanych do sieci.
 
-3. Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane potwierdzić pisemnie złożenie przez podmiot ubiegający się o przyłączenie do sieci wniosku o wydanie warunków przyłączenia do sieci, określając w szczególności datę jego złożenia.
+### Art. 8.
 
-4. Wniosek o wydanie warunków przyłączenia do sieci zawiera co najmniej:
+### 1.
 
-- **1)** imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby podmiotu ubiegającego się o przyłączenie do sieci;
-- **2)** wskazanie lokalizacji nieruchomości lub obiektu, który ma zostać przyłączony do sieci, w tym jego adres i numer działki ewidencyjnej, na której się znajduje;
-- **3)** informacje o przeznaczeniu i sposobie wykorzystywania nieruchomości lub obiektu, który ma zostać przyłączony do sieci;
-- **4)** określenie dobowego zapotrzebowania na wodę z podziałem na wodę do celów bytowych, technologicznych, przeciwpożarowych oraz innych, z uwzględnieniem przepływów średniodobowych i maksymalnych godzinowych oraz wielkości ładunku zanieczyszczeń;
-- **5)** określenie ilości i jakości odprowadzanych ścieków z podziałem na ścieki bytowe i przemysłowe;
-- **6)** plan zabudowy lub szkic sytuacyjny, określający usytuowanie przyłącza w stosunku do istniejącej sieci wodociągowej lub kanalizacyjnej oraz innych obiektów i sieci uzbrojenia terenu.
+Przedsiębiorstwo wodociągowo-kanalizacyjne może odciąć dostawę wody lub zamknąć przyłącze kanalizacyjne, jeżeli:
 
-5. Do terminów określonych w ust. 1 i 2 nie wlicza się terminów przewidzianych w przepisach prawa do dokonania określonych czynności, terminów na uzupełnienie wniosku o wydanie warunków przyłączenia do sieci, okresów innych opóźnień spowodowanych z winy podmiotu wnioskującego o przyłączenie do sieci albo z przyczyn niezależnych od przedsiębiorstwa wodociągowo-kanalizacyjnego.
+### 1)
 
-6. Sporządzenie planu sytuacyjnego, o którym mowa w art. 29a ust. 1 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2024 r. poz. 725), uwzględniającego warunki przyłączenia do sieci wydane przez przedsiębiorstwo wodociągowo-kanalizacyjne upoważnia podmiot ubiegający się o przyłączenie do sieci lub inny podmiot działający z jego upoważnienia lub na jego zlecenie do wykonania przyłącza wodociągowego lub przyłącza kanalizacyjnego zgodnie z tym planem.
+przyłącze wodociągowe lub przyłącze kanalizacyjne wykonano niezgodnie z przepisami prawa,
 
-7. Warunki przyłączenia do sieci wydane przez przedsiębiorstwo wodociągowokanalizacyjne są ważne przez okres 2 lat od dnia ich wydania.
+### 2)
 
-8. Przedsiębiorstwo wodociągowo-kanalizacyjne nie może odmówić odbioru przyłącza wodociągowego lub przyłącza kanalizacyjnego wykonanego, zgodnie z warunkami przyłączenia do sieci wydanymi przez to przedsiębiorstwo.
+odbiorca usług nie uiścił opłat za pełne dwa okresy obrachunkowe następujące po dniu otrzymania upomnienia w sprawie uregulowania zaległej opłaty,
 
-9. Warunkiem dokonania odbioru przez przedsiębiorstwo wodociągowokanalizacyjne przyłącza wodociągowego lub przyłącza kanalizacyjnego, wykonanego zgodnie z warunkami przyłączenia do sieci wydanymi przez to przedsiębiorstwo, nie może być uzyskanie pozwolenia na budowę albo dokonanie zgłoszenia robót budowlanych, jeżeli nie są one wymagane na podstawie przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+### 3)
 
-10. Nie pobiera się opłat za:
+jakość wprowadzanych ścieków nie spełnia wymogów określonych w przepisach prawa lub stwierdzono celowe uszkodzenie albo pominięcie urządzenia pomiarowego,
 
-- **1)** wydanie warunków przyłączenia do sieci, a także za ich zmianę, aktualizację lub przeniesienie na inny podmiot;
-- **2)** odbiór przyłącza wodociągowego lub przyłącza kanalizacyjnego przez przedsiębiorstwo wodociągowo-kanalizacyjne, a także za włączenie przyłącza wodociągowego lub przyłącza kanalizacyjnego do sieci wodociągowej albo kanalizacyjnej oraz za inne zezwolenia z tym związane.
+### 4)
 
-#### Rozdział 4 Zasady ustalania taryf za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
+został stwierdzony nielegalny pobór wody lub nielegalne odprowadzanie ścieków, to jest bez zawarcia umowy, jak również przy celowo uszkodzonych albo pominiętych wodomierzach lub urządzeniach pomiarowych.
 
-**Art. 20.**
+### 2.
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne określa taryfę na okres 3 lat.
+Przedsiębiorstwo wodociągowo-kanalizacyjne, które odcięło dostawę wody, jest obowiązane do równoczesnego udostępnienia zastępczego punktu poboru wody przeznaczonej do spożycia przez ludzi i poinformowania o możliwościach korzystania z tego punktu.
 
-2. Przedsiębiorstwo wodociągowo-kanalizacyjne określa taryfę na podstawie niezbędnych przychodów po dokonaniu ich alokacji na poszczególne taryfowe grupy odbiorców usług.
+### 3.
 
-3. Ceny i stawki opłat określone w taryfie są różnicowane dla poszczególnych taryfowych grup odbiorców usług na podstawie udokumentowanych różnic kosztów zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+Przedsiębiorstwo wodociągowo-kanalizacyjne o zamiarze odcięcia dostawy wody lub zamknięcia przyłącza kanalizacyjnego oraz o miejscach i sposobie udostępniania zastępczych punktów poboru wody zawiadamia powiatowego inspektora sanitarnego, zarząd gminy oraz odbiorcę usług co najmniej na 20 dni przed planowanym terminem odcięcia dostaw wody lub zamknięcia przyłącza kanalizacyjnego.
 
-4. Przedsiębiorstwa wodociągowo-kanalizacyjne ustalają niezbędne przychody, o których mowa w ust. 2, uwzględniając w szczególności:
+### Art. 9.
 
-- **1)** koszty związane ze świadczeniem usług, poniesione w latach obrachunkowych obowiązywania poprzedniej taryfy, ustalone na podstawie ewidencji księgowej, z uwzględnieniem planowanych zmian tych kosztów w okresie obowiązywania taryfy;
-- **2)** zmiany warunków ekonomicznych oraz wielkość usług i warunki ich świadczenia;
-- **3)** koszty wynikające z planowanych wydatków inwestycyjnych, na podstawie planów, o których mowa w art. 21 ust. 1.
+### 1.
 
-5. Ewidencja księgowa, o której mowa w ust. 4 pkt 1, powinna w szczególności umożliwiać:
+Zabrania się wprowadzania ścieków bytowych i ścieków przemysłowych do urządzeń kanalizacyjnych przeznaczonych do odprowadzania wód opadowych, a także wprowadzania ścieków opadowych i wód drenażowych do kanalizacji sanitarnej.
 
-- **1)** wydzielenie kosztów stałych i zmiennych, przychodów związanych z poszczególnymi rodzajami działalności przedsiębiorstwa wodociągowo-kanalizacyjnego, a także w odniesieniu do poszczególnych taryf;
-- **2)** ustalenie kosztów związanych z działalnością inwestycyjną w poprzednich 3 latach obrachunkowych, z tym że jeżeli okres prowadzenia działalności przez przedsiębiorstwo wodociągowo-kanalizacyjne w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków jest krótszy niż 3 lata obrachunkowe, ustalenie tych kosztów obejmuje okres liczony od dnia rozpoczęcia tej działalności;
-- **3)** dokonanie alokacji niezbędnych przychodów według taryfowych grup odbiorców usług.
+### 2.
 
-**Art. 21.**
+Zabrania się wprowadzania do urządzeń kanalizacyjnych:
 
-1. Przedsiębiorstwo wodociągowo-kanalizacyjne opracowuje wieloletni plan rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych będących w jego posiadaniu, zwany dalej „planem”.
+### 1)
 
-2. Plan określa w szczególności:
+odpadów stałych, które mogą powodować zmniejszenie przepustowości przewodów kanalizacyjnych, a w szczególności żwiru, piasku, popiołu, szkła, wytłoczyn, drożdży, szczeciny, ścinków skór, tekstyliów, włókien, nawet jeżeli znajdują się one w stanie rozdrobnionym,
 
-- **1)** planowany zakres usług wodociągowo-kanalizacyjnych;
-- **2)** przedsięwzięcia rozwojowo-modernizacyjne w poszczególnych latach;
-- **3)** przedsięwzięcia racjonalizujące zużycie wody oraz wprowadzanie ścieków;
-- **4)** nakłady inwestycyjne w poszczególnych latach;
-- **5)** sposoby finansowania planowanych inwestycji;
-- **6)** planowany sposób realizacji krajowego programu oczyszczania ścieków komunalnych, jeżeli przedsiębiorstwo wodociągowo-kanalizacyjne świadczy usługi na obszarze aglomeracji wyznaczonej na podstawie art. 87 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, ujętej w krajowym programie oczyszczania ścieków komunalnych.
+### 2)
 
-3. Plan powinien być zgodny z kierunkami rozwoju gminy określonymi w strategii rozwoju gminy lub strategii rozwoju ponadlokalnego, ustaleniami miejscowych planów zagospodarowania przestrzennego oraz ustaleniami zezwolenia wydanego przedsiębiorstwu wodociągowo-kanalizacyjnemu na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+odpadów płynnych niemieszających się z wodą, a w szczególności sztucznych żywic, lakierów, mas bitumicznych, smół i ich emulsji, mieszanin cementowych,
 
-4. Przedsiębiorstwo wodociągowo-kanalizacyjne przedkłada plan wójtowi (burmistrzowi, prezydentowi miasta), który sprawdza, czy spełnia on warunki określone w ust. 3.
+### 3)
 
-4a. Wójt, burmistrz lub prezydent miasta przekazuje plan do zaopiniowania dyrektorowi regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie, który przedstawia opinię w zakresie, o którym mowa w ust. 2 pkt 6, a także w zakresie wpływu planu na wysokość taryf, w terminie 14 dni od dnia otrzymania planu.
+substancji palnych i wybuchowych, których punkt zapłonu znajduje się w temperaturze poniżej 85°C, a w szczególności benzyn, nafty, oleju opałowego, karbidu, trójnitrotoluenu,
 
-5. Plan spełniający warunki określone w ust. 3 rada gminy uchwala w terminie 3 miesięcy od dnia przedłożenia planu wójtowi (burmistrzowi, prezydentowi miasta).
+### 4)
 
-6. W przypadku niepodjęcia uchwały w terminie, o którym mowa w ust. 5, plan stanowi podstawę do określenia i jednorazowego zatwierdzenia taryf.
+substancji żrących i toksycznych, a w szczególności mocnych kwasów i zasad, formaliny, siarczków, cyjanków oraz roztworów amoniaku, siarkowodoru i cyjanowodoru,
 
-7. Obowiązek opracowania planu nie dotyczy przedsiębiorstw wodociągowo-kanalizacyjnych, które nie planują budowy urządzeń wodociągowych lub urządzeń kanalizacyjnych.
+### 5)
 
-**Art. 22.** Przedsiębiorstwo wodociągowo-kanalizacyjne obciąża gminę na podstawie cen i stawek opłat ustalonych w taryfie za:
+odpadów i ścieków z hodowli zwierząt, a w szczególności gnojówki, gnojowicy, obornika, ścieków z kiszonek,
 
-**Art. 23.**
+### 6)
 
-1. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, szczegółowe sposoby określania taryf, w tym:
+niezdezynfekowanych ścieków ze szpitali i sanatoriów oraz z zakładów weterynaryjnych.
 
-- **1)** kryteria ustalania niezbędnych przychodów;
-- **2)** alokację kosztów na taryfowe grupy odbiorców usług;
-- **3)** kryteria różnicowania cen i stawek opłat.
+### 3.
 
-2. Minister właściwy do spraw gospodarki wodnej, wydając rozporządzenie, o którym mowa w ust. 1, bierze pod uwagę:
+Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do prowadzenia bieżącej kontroli ilości i jakości odprowadzanych ścieków bytowych i ścieków przemysłowych oraz kontroli przestrzegania warunków wprowadzania ścieków do urządzeń kanalizacyjnych.
 
-- **1)** przy ustalaniu niezbędnych przychodów:
-    - **a)** koszty eksploatacji i utrzymania, w tym amortyzację lub wartość umorzenia,
-    - **b)** raty kapitałowe (ponad wartość amortyzacji),
-    - **c)** odsetki od zaciągniętych kredytów i pożyczek,
-    - **d)** rezerwy na należności nieregularne,
-    - **e)** marżę zysku przy zapewnieniu ochrony interesów odbiorców przed nieuzasadnionym wzrostem cen,
-    - **f)** koszty zakupu wody lub koszty wprowadzania ścieków do urządzeń kanalizacyjnych niebędących w posiadaniu przedsiębiorstwa wodociągowo-kanalizacyjnego,
-    - **g)** podatki i opłaty niezależne od przedsiębiorstwa wodociągowo-kanalizacyjnego;
+### Art. 10.
 
-- **2)** przy ustalaniu alokacji kosztów:
-    - **a)** podział kosztów planowanych w czasie obowiązywania taryf na poszczególne taryfowe grupy odbiorców,
-    - **b)** przypisanie kosztów budowy urządzeń wodociągowo-kanalizacyjnych do poszczególnych taryfowych grup odbiorców,
-    - **c)** możliwość wyodrębniania kosztów i ich właściwej alokacji;
+Dostawca ścieków przemysłowych wprowadzanych do urządzeń kanalizacyjnych jest obowiązany do:
 
-- **3)** przy różnicowaniu cen i stawek opłat:
-    - **a)** średniodobową i maksymalną wielkość zużycia wody i ilość wprowadzanych ścieków,
-    - **b)** taryfowe grupy odbiorców,
-    - **c)** strukturę cen i stawek opłat.
+### 1)
 
-#### Rozdział 5 Zatwierdzanie taryf oraz zasady rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
+niezwłocznego powiadomienia właściciela urządzeń kanalizacyjnych o awarii powodującej zrzut niebezpiecznych substancji do urządzeń kanalizacyjnych, w celu podjęcia odpowiednich przedsięwzięć zmniejszających skutki awarii,
 
-**Art. 24.**
+### 2)
 
-1. (uchylony)
+instalowania niezbędnych urządzeń podczyszczających ścieki przemysłowe i prawidłowej eksploatacji tych urządzeń,
 
-2. (uchylony)
+### 3)
 
-3. (uchylony)
+umożliwienia właścicielowi urządzeń kanalizacyjnych dostępu w każdym czasie do miejsc kontroli ilości i jakości ścieków przemysłowych wprowadzanych do tych urządzeń oraz przeprowadzania kontroli sieci i urządzeń do podczyszczania ścieków będących własnością odbiorcy usług,
 
-4. (uchylony)
+### 4)
 
-5. (uchylony) 5a. (uchylony) 5b. (uchylony)
+wewnętrznej kontroli przestrzegania dopuszczalnych ilości i natężeń dopływu ścieków przemysłowych oraz ich wskaźników zanieczyszczenia, w szczególności gdy wprowadzane ścieki przemysłowe stanowią więcej niż 10% wszystkich ścieków komunalnych dopływających do oczyszczalni oraz gdy zanieczyszczenie w ściekach przemysłowych może stwarzać zagrożenia dla bezpieczeństwa lub zdrowia osób obsługujących urządzenia kanalizacyjne lub bezpieczeństwa konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych lub procesu oczyszczania ścieków,
 
-6. Rada gminy może podjąć uchwałę o dopłacie dla jednej, wybranych lub wszystkich taryfowych grup odbiorców usług. Dopłatę gmina przekazuje przedsiębiorstwu wodociągowo-kanalizacyjnemu.
+### 5)
 
-7. (uchylony)
+udostępniania wyników wewnętrznej kontroli właścicielowi urządzeń kanalizacyjnych oraz informacji na temat posiadanych urządzeń podczyszczających ścieki, a także rodzaju i źródeł substancji niebezpiecznych wprowadzanych do ścieków,
 
-8. (uchylony)
+### 6)
 
-9. (uchylony) 9a. (uchylony) 9b. (uchylony) 9c. (uchylony)
+zainstalowania urządzeń pomiarowych służących do określania ilości i jakości ścieków przemysłowych, na żądanie właściciela urządzeń kanalizacyjnych, jeżeli takie wymaganie jest uzasadnione możliwością wystąpienia zagrożeń dla bezpieczeństwa lub zdrowia osób obsługujących urządzenia kanalizacyjne lub bezpieczeństwa konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych lub procesu oczyszczania ścieków.
 
-10. (uchylony)
+### Art. 11.
 
-11. (uchylony)
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, sposób realizacji obowiązków dostawców ścieków przemysłowych oraz warunki wprowadzania ścieków do urządzeń kanalizacyjnych, w tym dopuszczalne wartości wskaźników zanieczyszczeń w ściekach przemysłowych wprowadzanych do urządzeń kanalizacyjnych oraz sposób sprawowania kontroli ilości i jakości ścieków, biorąc pod uwagę:
 
-12. (uchylony)
+### 1)
 
-13. (uchylony)
+bezpieczeństwo i zdrowie osób obsługujących urządzenia kanalizacyjne,
 
-**Art. 24a.** (uchylony)
+### 2)
 
-**Art. 24b.**
+ochronę konstrukcji budowlanych i wyposażenia technicznego urządzeń kanalizacyjnych,
 
-1. Taryfa podlega zatwierdzeniu przez organ regulacyjny, z wyłączeniem taryfy zmienionej w związku ze zmianą stawki podatku od towarów i usług.
+### 3)
 
-2. Przedsiębiorstwo wodociągowo-kanalizacyjne przekazuje organowi regulacyjnemu wniosek o zatwierdzenie taryfy w terminie 120 dni przed dniem upływu okresu obowiązywania dotychczasowej taryfy.
+podatność mieszaniny ścieków przemysłowych i ścieków bytowych na mechaniczno-biologiczne procesy oczyszczania,
 
-3. Wniosek, o którym mowa w ust. 2, zawiera określenie przedsiębiorstwa wodociągowo-kanalizacyjnego, gminy, na terenie której działa to przedsiębiorstwo, gminy, na terenie której ma obowiązywać taryfa, oraz okresu obowiązywania taryfy.
+### 4)
 
-4. Do wniosku, o którym mowa w ust. 2, dołącza się:
+ochronę wód, do których odprowadzane są ścieki komunalne, przed zanieczyszczeniem, a w szczególności spełnienie wymagań jakościowych odnoszących się do tych wód,
 
-- **1)** projekt taryfy;
-- **2)** uzasadnienie.
+### 5)
 
-5. W uzasadnieniu, o którym mowa w ust. 4 pkt 2, zamieszcza się w szczególności informacje dotyczące:
+możliwość bezpiecznego dla środowiska wykorzystania osadów z oczyszczalni ścieków obsługującej zbiorczy system kanalizacyjny ścieków komunalnych.
 
-- **1)** zakresu świadczonych usług i lokalnych uwarunkowań ich świadczenia;
-- **2)** standardów jakościowych usług, w tym informację dotyczącą wpływu określonej taryfy na poprawę jakości usług;
-- **3)** spodziewanej poprawy jakości usług przy wprowadzeniu nowych metod alokacji kosztów;
-- **4)** zmian warunków ekonomicznych w czasie obowiązywania taryfy;
-- **5)** bilansowania ilościowego i jakościowego wód powierzchniowych i wód podziemnych.
+### Art. 12.
 
-6. Do uzasadnienia, o którym mowa w ust. 4 pkt 2, dołącza się:
+### 1.
 
-- **1)** sprawozdania finansowe za ostatnie 3 lata obrotowe;
-- **2)** plan, z zastrzeżeniem art. 21 ust. 7;
-- **3)** informację o ilości zakupionej przez przedsiębiorstwo wodociągowo-kanalizacyjne wody i jej cenie lub informację o ilości ścieków wprowadzonych do urządzeń niebędących w posiadaniu tego przedsiębiorstwa i cenie za ich wprowadzenie – za ostatnie 3 lata obrotowe;
-- **4)** tabele będące szczegółową kalkulacją cen i stawek opłat, określające:
-    - **a)** porównanie cen i stawek opłat taryfy obowiązującej w dniu złożenia wniosku z cenami i stawkami opłat nowej taryfy dotyczącej zaopatrzenia w wodę,
-    - **b)** porównanie cen i stawek opłat taryfy obowiązującej w dniu złożenia wniosku z cenami i stawkami opłat nowej taryfy dotyczącej odprowadzania ścieków,
-    - **c)** ustalenie poziomu niezbędnych przychodów przedsiębiorstwa wodociągowo-kanalizacyjnego,
-    - **d)** alokację niezbędnych przychodów przedsiębiorstwa wodociągowo-kanalizacyjnego według taryfowych grup odbiorców usług w okresie obowiązywania nowych taryf,
-    - **e)** współczynniki alokacji w okresie obowiązywania nowych taryf rozumiane jako współczynniki określające procentowy udział w łącznych kosztach danego rodzaju kosztów związanych z określoną taryfową grupą odbiorców usług,
-    - **f)** kalkulację cen i stawek opłat za zaopatrzenie w wodę i odprowadzanie ścieków metodą alokacji prostej,
-    - **g)** zestawienie przychodów przedsiębiorstwa wodociągowo-kanalizacyjnego według taryfowych grup odbiorców usług, z uwzględnieniem wielkości zużycia wody oraz cen i stawek opłat za zaopatrzenie w wodę i odprowadzanie ścieków w okresie obowiązywania nowych taryf,
-    - **h)** skutki finansowe zmiany cen i stawek opłat za zaopatrzenie w wodę i odprowadzanie ścieków,
-    - **i)** analizy ekonomiczne związane z korzystaniem z wód, z uwzględnieniem zasady zwrotu kosztów usług wodnych oraz długoterminowych prognoz dotyczących możliwości zaspokojenia potrzeb w zakresie korzystania z zasobów wodnych na obszarze zlewni lub jej części.
+Nadzór nad jakością wody przeznaczonej do spożycia przez ludzi sprawują organy Inspekcji Sanitarnej na zasadach określonych w przepisach o Inspekcji Sanitarnej.
 
-7. Jeżeli okres prowadzenia działalności przez przedsiębiorstwo wodociągowo-kanalizacyjne w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków jest krótszy niż 3 lata, sprawozdania finansowe, o których mowa w ust. 6 pkt 1, oraz informacja, o której mowa w ust. 6 pkt 3, obejmują okres liczony od dnia rozpoczęcia tej działalności.
+### 2.
 
-**Art. 24c.**
+Każdy materiał używany do uzdatniania wody przeznaczonej do spożycia przez ludzi powinien posiadać pozytywną ocenę higieniczną właściwego terenowo organu Inspekcji Sanitarnej.
 
-1. Organ regulacyjny, w terminie 45 dni od dnia otrzymania wniosku, o którym mowa w art. 24b ust. 2:
+### 3.
 
-- **1)** ocenia projekt taryfy, o którym mowa w art. 24b ust. 4 pkt 1, oraz uzasadnienie, o którym mowa w art. 24b ust. 4 pkt 2, pod względem zgodności z:
-    - **a)** przepisami ustawy,
-    - **b)** przepisami ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
+Zastosowanie nowych technologii uzdatniania wody przeznaczonej do spożycia przez ludzi wymaga zgody właściwego wojewódzkiego inspektora sanitarnego.
 
-- **2)** analizuje zmiany warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, w tym marżę zysku, oraz weryfikuje koszty, o których mowa w art. 20 ust. 4 pkt 1, pod względem celowości ich ponoszenia w celu zapewnienia ochrony interesów odbiorców usług przed nieuzasadnionym wzrostem cen.
+### 4.
 
-2. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest pozytywny, organ regulacyjny zatwierdza taryfę w drodze decyzji.
+Badanie pobranych próbek wody przeznaczonej do spożycia przez ludzi mogą wykonywać laboratoria Inspekcji Sanitarnej lub inne laboratoria o udokumentowanym systemie jakości prowadzonych badań wody, zatwierdzonym przez właściwy organ Inspekcji Sanitarnej.
 
-3. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny, organ regulacyjny odmawia, w drodze decyzji, zatwierdzenia taryfy oraz nakłada obowiązek w tej decyzji, w terminie w niej określonym, na przedsiębiorstwo wodociągowo-kanalizacyjne przedłożenia poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w art. 24b ust. 4 pkt 2, wskazując elementy projektu taryfy lub uzasadnienia wymagające poprawienia.
+### 5.
 
-4. Jeżeli wynik oceny, weryfikacji lub analizy, o których mowa w ust. 1, jest negatywny z powodu warunków ekonomicznych wykonywania przez przedsiębiorstwo wodociągowo-kanalizacyjne działalności gospodarczej, wskazujących na konieczność obniżenia cen i stawek opłat poniżej cen i stawek opłat zawartych w projekcie taryfy, a przedsiębiorstwo wodociągowo-kanalizacyjne nie przedłożyło w terminie określonym w decyzji, o której mowa w ust. 3, poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, lub poprawionego uzasadnienia, o którym mowa w art. 24b ust. 4 pkt 2, organ regulacyjny określa, w drodze decyzji, tymczasową taryfę, biorąc pod uwagę warunki ekonomiczne wykonywania działalności gospodarczej przez przedsiębiorstwo wodociągowo-kanalizacyjne oraz zapewniając pokrycie uzasadnionych kosztów tego przedsiębiorstwa.
+Zarząd gminy jest obowiązany do regularnego informowania mieszkańców o jakości wody przeznaczonej do spożycia przez ludzi.
 
-5. Określenie tymczasowej taryfy nie zwalnia przedsiębiorstwa wodociągowo-kanalizacyjnego z obowiązku przedłożenia poprawionego projektu taryfy, o którym mowa w art. 24b ust. 4 pkt 1, wraz z poprawionym uzasadnieniem, o którym mowa w art. 24b ust. 4 pkt 2.
+### Art. 13.
 
-6. Stronami postępowań w sprawach wydania decyzji, o których mowa w ust. 2– 4, są przedsiębiorstwo wodociągowo-kanalizacyjne oraz właściwy wójt (burmistrz, prezydent miasta). Jeżeli przedsiębiorstwo wodociągowo-kanalizacyjne jest gminną jednostką organizacyjną nieposiadającą osobowości prawnej, stroną postępowania jest wyłącznie to przedsiębiorstwo.
+Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia:
 
-7. Tymczasową taryfę stosuje się do czasu wejścia w życie taryfy zatwierdzonej zgodnie z ust. 2.
+### 1)
 
-**Art. 24d.**
+wymagania dotyczące jakości wody przeznaczonej do spożycia przez ludzi, w tym wymagania bakteriologiczne, fizykochemiczne, organoleptyczne,
 
-1. Za wydanie decyzji, o której mowa w art. 24c ust. 2, przedsiębiorstwo wodociągowo-kanalizacyjne ponosi opłatę w wysokości 500 zł . Wpływy z tej opłaty stanowią przychód Państwowego Gospodarstwa Wodnego Wody Polskie.
+### 2)
 
-2. Opłatę, o której mowa w ust. 1, uiszcza się na rachunek bankowy organu regulacyjnego, w terminie 14 dni od dnia, w którym decyzja, o której mowa w art. 24c ust. 2, stała się ostateczna.
+sposób oceny przydatności wody przeznaczonej do spożycia przez ludzi,
 
-3. Stawka opłaty, o której mowa w ust. 1, podlega z dniem 1 stycznia każdego roku zmianie w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego, w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” za rok poprzedni.
+### 3)
 
-4. Minister właściwy do spraw gospodarki wodnej, nie później niż do dnia 1 sierpnia każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawki opłaty, o której mowa w ust. 1, na rok następny.
+minimalną częstotliwość i miejsca pobierania do badania próbek wody przeznaczonej do spożycia przez ludzi,
 
-**Art. 24e.**
+### 4)
 
-1. W terminie 7 dni od dnia, w którym decyzja, o której mowa w art. 24c ust. 2 lub 4, stała się ostateczna, organ regulacyjny ogłasza zatwierdzoną taryfę albo tymczasową taryfę na stronie podmiotowej Biuletynu Informacji Publicznej Państwowego Gospodarstwa Wodnego Wody Polskie.
+zakres badania wody przeznaczonej do spożycia przez ludzi,
 
-2. Właściwy wójt (burmistrz, prezydent miasta) zamieszcza zatwierdzoną taryfę albo tymczasową taryfę na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy.
+### 5)
 
-3. Przedsiębiorstwo wodociągowo-kanalizacyjne zamieszcza zatwierdzoną taryfę albo tymczasową taryfę na swojej stronie internetowej lub udostępnia ją w punktach obsługi klientów.
+program monitoringu jakości wody przeznaczonej do spożycia przez ludzi,
 
-**Art. 24f.**
+### 6)
 
-1. Zatwierdzona taryfa oraz tymczasowa taryfa wchodzą w życie po upływie 7 dni od dnia ogłoszenia, o którym mowa w art. 24e ust. 1.
+sposób nadzoru nad materiałami i wyrobami stosowanymi w procesach uzdatniania i dystrybucji wody przeznaczonej do spożycia przez ludzi,
 
-2. Jeżeli organ regulacyjny nie wyda decyzji, o której mowa w art. 24c ust. 2 lub 3, w terminie, o którym mowa w art. 24c ust. 1, taryfa wchodzi w życie po upływie 120 dni od dnia doręczenia jej projektu organowi regulacyjnemu wraz z wnioskiem o zatwierdzenie.
+### 7)
 
-3. W przypadku, o którym mowa w ust. 2, taryfę ogłasza na swojej stronie internetowej oraz udostępnia w punktach obsługi klientów przedsiębiorstwo wodociągowo-kanalizacyjne.
+sposób nadzoru nad laboratoriami wykonującymi badania jakości wody przeznaczonej do spożycia przez ludzi,
 
-**Art. 24g.** Dotychczasową taryfę stosuje się do dnia wejścia w życie nowej taryfy albo tymczasowej taryfy.
+### 8)
 
-**Art. 24h.**
+sposób informowania konsumentów o jakości wody przeznaczonej do spożycia przez ludzi
 
-1. W przypadku zmiany stawki podatku od towarów i usług stosowanej dla usług zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków ceny i stawki opłat wskazane w taryfie mogą ulec zmianie w zakresie wynikającym ze zmiany stawki podatku.
+- biorąc pod uwagę bezpieczeństwo i zdrowie ludzi.
 
-2. W przypadku zmiany taryfy, o której mowa w ust. 1, taryfa ta wchodzi w życie z dniem, w którym uległa zmianie stawka podatku od towarów i usług stosowana dla usług zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+### Art. 14.
 
-3. Przepisy art. 24e stosuje się odpowiednio do ogłaszania taryfy, o której mowa w ust. 1.
+Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Obrony Narodowej i Ministrem Sprawiedliwości, dla jednostek organizacyjnych podległych tym ministrom może określić, w drodze rozporządzenia:
 
-**Art. 24i.**
+### 1)
 
-1. W okresie pierwszych 18 miesięcy od dnia podjęcia działalności przez powołane lub utworzone przedsiębiorstwo wodociągowo-kanalizacyjne lub podjęcia przez istniejące przedsiębiorstwo wodociągowo-kanalizacyjne nowego rodzaju działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków obowiązują ceny i stawki opłat zatwierdzone przez organ regulacyjny, w drodze decyzji, zapewniające pokrycie uzasadnionych kosztów zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+warunki przyłączania nieruchomości do sieci oraz wymagania dotyczące urządzeń wodociągowych i urządzeń kanalizacyjnych służących tym jednostkom,
 
-2. Organ regulacyjny wydaje decyzję, o której mowa w ust. 1, na wniosek właściwego wójta (burmistrza, prezydenta miasta), w terminie co najmniej 14 dni przed powołaniem lub utworzeniem przedsiębiorstwa wodociągowo-kanalizacyjnego lub podjęciem przez istniejące przedsiębiorstwo wodociągowo-kanalizacyjne nowego rodzaju działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+### 2)
 
-3. Podstawę do określenia cen i stawek opłat stanowią planowane dla pierwszego roku działalności przedsiębiorstwa wodociągowo-kanalizacyjnego koszty zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków.
+szczegółowe sposoby kontroli urządzeń, o których mowa w pkt 1,
 
-4. W terminie 7 dni od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna, organ regulacyjny:
+### 3)
 
-- **1)** doręcza tę decyzję przedsiębiorstwu wodociągowo-kanalizacyjnemu oraz właściwemu wójtowi (burmistrzowi, prezydentowi miasta);
-- **2)** ogłasza ceny i stawki opłat na stronie podmiotowej Biuletynu Informacji Publicznej Państwowego Gospodarstwa Wodnego Wody Polskie.
+warunki i tryb postępowania w sprawach zbiorowego zaopatrzenia w wodę oraz zbiorowego odprowadzania ścieków,
 
-5. Właściwy wójt (burmistrz, prezydent miasta) zamieszcza ceny i stawki opłat na stronie podmiotowej Biuletynu Informacji Publicznej właściwej gminy w terminie 7 dni od dnia doręczenia, o którym mowa w ust. 4 pkt 1.
+### 4)
 
-6. Przedsiębiorstwo wodociągowo-kanalizacyjne zamieszcza ceny i stawki opłat na swojej stronie internetowej lub udostępnia je w punktach obsługi klientów w terminie 7 dni od dnia doręczenia, o którym mowa w ust. 4 pkt 1.
+warunki korzystania z sieci wodociągowych w przypadku prowadzenia działań ratowniczych,
 
-7. Ceny i stawki opłat wchodzą w życie po upływie 7 dni od dnia ogłoszenia, o którym mowa w ust. 4 pkt 2.
+### 5)
 
-**Art. 24j.**
+wymagania technologiczne dotyczące urządzeń wodociągowych i urządzeń kanalizacyjnych,
 
-1. W uzasadnionych przypadkach, w szczególności jeżeli wynika to z udokumentowanych zmian warunków ekonomicznych oraz wielkości usług i warunków ich świadczenia, przedsiębiorstwo wodociągowo-kanalizacyjne w trakcie obowiązywania dotychczasowej taryfy może złożyć do organu regulacyjnego wniosek o skrócenie okresu obowiązywania tej taryfy wraz z projektem nowej taryfy oraz uzasadnieniem, jednak nie później niż przed rozpoczęciem biegu terminu 120 dni od planowanego dnia wejścia w życie nowej taryfy. Przepisy art. 24b–24e i art. 24f ust. 1 stosuje się odpowiednio.
+### 6)
 
-2. W decyzji zatwierdzającej taryfę orzeka się o skróceniu czasu obowiązywania dotychczasowej taryfy.
+wymagania dotyczące zasilania elektroenergetycznego,
 
-**Art. 25.** Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 24b ust. 2, kierując się potrzebą ujednolicenia oraz usprawnienia procesu zatwierdzania taryfy.
+### 7)
 
-**Art. 26.**
+wymagania dotyczące zapewnienia ciągłości funkcjonowania urządzeń wodociągowych i urządzeń kanalizacyjnych,
 
-1. Rozliczenia za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków są prowadzone przez przedsiębiorstwa wodociągowo-kanalizacyjne z odbiorcami usług na podstawie określonych w taryfach cen i stawek opłat oraz ilości dostarczonej wody i odprowadzonych ścieków.
+### 8)
 
-2. Jeżeli odbiorcą usług jest wyłącznie właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych, jest on obowiązany do rozliczenia kosztów tych usług. Suma obciążeń za wodę lub ścieki nie może być wyższa od ponoszonych przez właściciela lub zarządcę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego.
+tryb i sposób kontroli stanu przygotowania urządzeń wodociągowych i urządzeń kanalizacyjnych
 
-3. Właściciel lub zarządca budynku wielolokalowego lub budynków wielolokalowych dokonuje wyboru metody rozliczania kosztów różnicy wskazań, o której mowa w art. 6 ust. 6 pkt 3. Należnościami wynikającymi z przyjętej metody rozliczania obciąża osobę korzystającą z lokalu w tych budynkach.
+- biorąc pod uwagę specyfikę jednostek organizacyjnych podległych tym ministrom.
 
-**Art. 27.**
+### Art. 15.
 
-1. Ilość wody dostarczonej do nieruchomości ustala się na podstawie wskazania wodomierza głównego, a w przypadku jego braku – w oparciu o przeciętne normy zużycia wody.
+### 1.
 
-2. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, warunki prowadzenia rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków, biorąc pod uwagę wyposażenie nieruchomości w przyrządy i urządzenia pomiarowe.
+Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zapewnić realizację budowy i rozbudowy urządzeń wodociągowych i urządzeń kanalizacyjnych, ustalonych przez gminę w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz miejscowym planie zagospodarowania przestrzennego, w zakresie uzgodnionym w wieloletnim planie rozwoju i modernizacji, o którym mowa w art. 21 ust. 1.
 
-3. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, przeciętne normy zużycia wody dla poszczególnych odbiorców usług, które stanowią podstawę ustalania ilości pobranej wody w razie braku wodomierza, biorąc pod uwagę specyfikę poszczególnych odbiorców usług oraz wskaźniki średniego zużycia wody określone w szczególności dla gospodarstw domowych, usług oraz innej działalności w miastach i na wsiach.
+### 2.
 
-4. Ilość odprowadzonych ścieków ustala się na podstawie wskazań urządzeń pomiarowych.
+Realizację budowy przyłączy do sieci oraz studni wodomierzowej, pomieszczenia przewidzianego do lokalizacji wodomierza głównego i urządzenia pomiarowego zapewnia na własny koszt osoba ubiegająca się o przyłączenie nieruchomości do sieci.
 
-5. W razie braku urządzeń pomiarowych ilość odprowadzonych ścieków ustala się na podstawie umowy, o której mowa w art. 6 ust. 1, jako równą ilości wody pobranej lub określonej w umowie.
+### 3.
 
-6. W rozliczeniach ilości odprowadzonych ścieków ilość bezpowrotnie zużytej wody uwzględnia się wyłącznie w przypadkach, gdy wielkość jej zużycia na ten cel ustalona jest na podstawie dodatkowego wodomierza zainstalowanego na koszt odbiorcy usług.
+Koszty zainstalowania i utrzymania wodomierza głównego pokrywa przedsiębiorstwo wodociągowo-kanalizacyjne, a urządzenia pomiarowego - odbiorca usług.
 
-#### Rozdział 5a Organ regulacyjny
+### 4.
 
-**Art. 27a.**
+Przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane przyłączyć do sieci nieruchomość osoby ubiegającej się o przyłączenie nieruchomości do sieci, jeżeli są spełnione warunki przyłączenia określone w regulaminie, o którym mowa w art. 19, oraz istnieją techniczne możliwości świadczenia usług.
 
-1. Organem regulacyjnym jest dyrektor regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie.
+### Rozdział 3 Zasady udzielania zezwoleń na prowadzenie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków oraz uchwalanie regulaminu
 
-2. Właściwość miejscowa organu regulacyjnego odpowiada umiejscowieniu siedzib regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie oraz zasadniczemu trójstopniowemu podziałowi terytorialnemu państwa.
+### Art. 16.
 
-3. Do zadań organu regulacyjnego należy:
+### 1.
 
-- **1)** opiniowanie projektu regulaminu dostarczania wody i odprowadzania ścieków;
-- **2)** zatwierdzanie taryf;
-- **3)** rozstrzyganie sporów między przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług;
-- **4)** wymierzanie kar pieniężnych, o których mowa w art. 29;
-- **5)** zbieranie i przetwarzanie informacji dotyczących przedsiębiorstw wodociągowo-kanalizacyjnych, w szczególności obliczanie średnich cen dostaw wody i odbioru ścieków i publikowanie informacji o tych cenach;
-- **6)** sporządzanie i publikowanie raportów dotyczących warunków wykonywania działalności w zakresie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+Na prowadzenie zbiorowego zaopatrzenia w wodę lub zbiorowego odprowadzania ścieków jest wymagane uzyskanie zezwolenia wydawanego przez zarząd gminy w drodze decyzji.
 
-4. Zadania organu regulacyjnego nie wyłączają uprawnień innych organów wynikających z przepisów odrębnych.
+### 2.
 
-5. Organ regulacyjny prowadzi punkty informacyjne dla odbiorców usług.
+Zezwolenie może być wydane na wniosek przedsiębiorstwa wodociągowo-kanalizacyjnego, które:
 
-**Art. 27b.**
+### 1)
 
-1. W celu wykonywania zadań określonych w ustawie organ regulacyjny może wzywać przedsiębiorstwo wodociągowo-kanalizacyjne, odbiorcę usług lub gminę, w wyznaczonym terminie nie krótszym niż 7 dni, do przekazania informacji lub dokumentów niezbędnych do wykonywania tych zadań.
+ma na terytorium Rzeczypospolitej Polskiej siedzibę i adres, oddział lub przedstawicielstwo w rozumieniu przepisów o działalności gospodarczej,
 
-2. Wezwanie, o którym mowa w ust. 1, zawiera:
+### 2)
 
-- **1)** wskazanie zakresu informacji lub dokumentów;
-- **2)** wskazanie celu wezwania;
-- **3)** wskazanie terminu przekazania informacji lub dokumentów;
-- **4)** pouczenie o sankcjach za nieprzekazanie informacji lub dokumentów oraz za przekazanie informacji lub dokumentów nieprawdziwych lub wprowadzających w błąd.
+posiada środki finansowe lub udokumentuje możliwość ich uzyskania w wysokości niezbędnej do prawidłowego prowadzenia zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków,
 
-**Art. 27c.**
+### 3)
 
-1. Do postępowania przed organem regulacyjnym stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+posiada środki techniczne odpowiednie do zakresu działalności, o której mowa w ust. 1.
 
-2. Organem wyższego stopnia w sprawach decyzji wydawanych na podstawie przepisów ustawy w stosunku do organu regulacyjnego jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie, z wyłączeniem decyzji, o której mowa w art. 27e ust. 1.
+### 3.
 
-**Art. 27d.** Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, właściwość miejscową dyrektorów regionalnych zarządów gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie w sprawach z zakresu zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków, kierując się koniecznością zapewnienia skuteczności wykonywania zadań określonych w przepisach ustawy.
+Nie mają obowiązku uzyskania zezwolenia gminne jednostki organizacyjne nieposiadające osobowości prawnej, prowadzące na obszarze własnej gminy działalność, o której mowa w ust. 1, na zasadach określonych w ustawie.
 
-#### Rozdział 5b Rozstrzyganie sporów pomiędzy przedsiębiorstwami wodociągowo-kanalizacyjnymi a odbiorcami usług
+### Art. 17.
 
-**Art. 27e.**
+Wniosek o udzielenie zezwolenia powinien zawierać:
 
-1. W sprawach spornych dotyczących:
+### 1)
 
-- **1)** odmowy zawarcia umowy o zaopatrzenie w wodę lub odprowadzanie ścieków przez przedsiębiorstwo wodociągowo-kanalizacyjne,
-- **2)** odcięcia dostawy wody lub zamknięcia przyłącza kanalizacyjnego, lub odmowy przyłączenia do sieci nieruchomości osobie ubiegającej się o przyłączenie nieruchomości do sieci – na wniosek strony rozstrzyga organ regulacyjny w drodze decyzji.
+oznaczenie przedsiębiorstwa wodociągowo-kanalizacyjnego ubiegającego się o zezwolenie, jego siedzibę i adres,
 
-2. Rozstrzygnięcie organu regulacyjnego, o którym mowa w ust. 1, może polegać na nakazaniu przedsiębiorstwu wodociągowo-kanalizacyjnemu:
+### 2)
 
-- **1)** zawarcia umowy o zaopatrzenie w wodę lub odprowadzanie ścieków;
-- **2)** przywrócenia dostawy wody;
-- **3)** otwarcia przyłącza kanalizacyjnego;
-- **4)** przyłączenia do sieci.
+określenie przedmiotu i obszaru działalności,
 
-3. Na wniosek jednej ze stron organ regulacyjny może określić, w drodze postanowienia, na które służy zażalenie, warunki zaopatrzenia w wodę lub odprowadzania ścieków, lub przyłączenia do sieci do czasu ostatecznego rozstrzygnięcia sporu.
+### 3)
 
-**Art. 27f.**
+określenie środków technicznych i finansowych, jakimi dysponuje wnioskodawca ubiegający się o zezwolenie na prowadzenie działalności objętej wnioskiem,
 
-1. Od decyzji, o której mowa w art. 27e ust. 1, służy odwołanie do Sądu Okręgowego w Warszawie – sądu ochrony konkurencji i konsumentów w terminie 14 dni od dnia doręczenia decyzji.
+### 4)
 
-2. Postępowanie w sprawie odwołania od decyzji, o której mowa w art. 27e ust. 1, toczy się na podstawie przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji rynku wodno-kanalizacyjnego.
+informacje o wynikach ekonomicznych dotychczasowej działalności gospodarczej wnioskodawcy,
 
-3. Do postanowień, o których mowa w art. 27e ust. 3, przepisy ust. 1 i 2 stosuje się odpowiednio, z tym że zażalenie wnosi się w terminie 7 dni od dnia doręczenia postanowienia.
+### 5)
 
-#### Rozdział 6 Przepisy karne i kary pieniężne
+informacje charakteryzujące poziom świadczonych usług w zakresie ilości, jakości oraz ciągłości dostarczania wody oraz odprowadzania ścieków,
 
-**Art. 28.**
+### 6)
 
-1. Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, pobiera wodę z urządzeń wodociągowych, podlega karze grzywny do 5000 zł.
+informacje o technologiach stosowanych lub przewidzianych do stosowania przy dostarczaniu wody oraz odprowadzaniu i oczyszczaniu ścieków,
 
-2. Karze określonej w ust. 1 podlega także ten, kto:
+### 7)
 
-- **1)** uszkadza wodomierz główny, zrywa lub uszkadza plomby umieszczone na wodomierzach, urządzeniach pomiarowych lub zaworze odcinającym, a także wpływa na zmianę, zatrzymanie lub utratę właściwości lub funkcji metrologicznych wodomierza głównego lub urządzenia pomiarowego;
-- **2)** nie dopuszcza przedstawiciela przedsiębiorstwa wodociągowo-kanalizacyjnego do wykonania czynności określonych w art. 7.
+określenie terminu podjęcia działalności objętej wnioskiem,
 
-3. (uchylony)
+### 8)
 
-4. Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, wprowadza ścieki do urządzeń kanalizacyjnych, podlega karze ograniczenia wolności albo grzywny do 10 000 zł.
+numer w rejestrze przedsiębiorców,
 
-4a. Karze określonej w ust. 4 podlega także ten, kto nie stosuje się do zakazów, o których mowa w art. 9 ust. 1 i 2.
+### 9)
 
-5. W razie skazania za wykroczenie lub przestępstwo, o których mowa w ust. 1 i 4, sąd może orzec nawiązkę na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego, w wysokości 1000 zł za każdy miesiąc, w którym nastąpiło bezumowne pobieranie wody z urządzeń wodociągowych lub wprowadzanie ścieków do urządzeń kanalizacyjnych tego przedsiębiorstwa.
+projekt regulaminu dostarczania wody i odprowadzania ścieków.
 
-6. Orzekanie w sprawach o czyny, o których mowa w ust. 1 i 2, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+### Art. 18.
 
-**Art. 29.**
+Zezwolenie powinno określać w szczególności:
 
-1. Karze pieniężnej podlega, kto stosuje taryfy:
+### 1)
 
-- **1)** nie przestrzegając obowiązku ich przedstawienia do zatwierdzenia, o którym mowa w art. 24b ust. 1;
-- **2)** zawyżając ceny lub stawki opłat.
+oznaczenie przedsiębiorstwa wodociągowo-kanalizacyjnego, jego siedzibę i adres,
 
-2. Tej samej karze podlega, kto zawyża ceny i stawki zatwierdzone zgodnie z art. 24i ust. 1.
+### 2)
 
-3. Karze pieniężnej podlega, kto nie przekazał informacji lub dokumentów na wezwanie organu regulacyjnego, o którym mowa w art. 27b ust. 1, lub przekazał nieprawdziwe albo wprowadzające w błąd informacje lub dokumenty.
+datę podjęcia działalności,
 
-3a. Karze pieniężnej podlega przedsiębiorstwo wodociągowo-kanalizacyjne, które nie wydaje warunków przyłączenia do sieci w terminach określonych w art. 19a ust. 1 lub 2.
+### 3)
 
-4. Kary pieniężne wymierza organ regulacyjny w drodze decyzji.
+przedmiot i obszar działalności,
 
-5. W decyzji, o której mowa w ust. 4, wskazuje się numer rachunku bankowego, na który uiszcza się karę pieniężną.
+### 4)
 
-6. Wysokość kary pieniężnej, o której mowa w:
+wymagania w zakresie jakości usług wodociągowo-kanalizacyjnych,
 
-- **1)** ust. 1 i 2 – nie może przekroczyć 15 % przychodu przedsiębiorstwa wodociągowo-kanalizacyjnego osiągniętego w poprzednim roku podatkowym;
-- **2)** ust. 3 – nie może przekroczyć 100 000 zł;
-- **3)** ust. 3a – wynosi 500 zł za każdy dzień zwłoki.
+### 5)
 
-7. Kara pieniężna, o której mowa w ust. 1 i 2, jest płatna z dochodu po opodatkowaniu lub z innej formy nadwyżki przychodu nad wydatkami zmniejszonej o podatki.
+warunki, zakres i tryb kontroli realizacji zezwolenia i przestrzegania regulaminu, o którym mowa w art. 19 ust. 1,
 
-8. Niezależnie od kary pieniężnej, o której mowa w ust. 1–3, nałożonej na przedsiębiorstwo wodociągowo-kanalizacyjne organ regulacyjny może nałożyć karę pieniężną na osobę sprawującą funkcję kierownika przedsiębiorstwa wodociągowo-kanalizacyjnego, z tym że wysokość tej kary pieniężnej nie może przekroczyć 300 % jego miesięcznego wynagrodzenia. Przepis ust. 7 stosuje się odpowiednio.
+### 6)
 
-9. Kary pieniężne uiszcza się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 4, stała się ostateczna.
+warunki wprowadzania ograniczeń dostarczania wody w przypadku wystąpienia jej niedoboru,
 
-10. Kary pieniężne nieuiszczone w terminie podlegają przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760).
+### 7)
 
-11. Wpływy z kar pieniężnych stanowią dochód budżetu państwa.
+zobowiązanie do prowadzenia przez przedsiębiorstwo wodociągowo-kanalizacyjne racjonalnej gospodarki w zakresie działalności objętej zezwoleniem,
 
-12. Organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego w sprawach decyzji, o których mowa w ust. 4, jest Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
+### 8)
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+warunki cofnięcia zezwolenia,
 
-**Art. 30.** (pominięty)
+### 9)
 
-**Art. 31.**
+warunki dotyczące okoliczności, w których zezwolenie może być cofnięte bez odszkodowania.
 
-1. Osoby, które wybudowały z własnych środków urządzenia wodociągowe i urządzenia kanalizacyjne, mogą je przekazywać odpłatnie gminie lub przedsiębiorstwu wodociągowo-kanalizacyjnemu, na warunkach uzgodnionych w umowie.
+### Art. 19.
 
-2. Przekazywane urządzenia, o których mowa w ust. 1, powinny odpowiadać warunkom technicznym określonym w odrębnych przepisach.
+### 1.
 
-3. Należność za przekazane urządzenia wodociągowe i urządzenia kanalizacyjne może być rozłożona na raty lub uwzględniona w rozliczeniach za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków.
+Rada gminy, po dokonaniu analizy projektów regulaminów dostarczania wody i odprowadzania ścieków, opracowanych przez przedsiębiorstwa wodociągowo-kanalizacyjne, uchwala regulamin dostarczania wody i odprowadzania ścieków, zwany dalej „regulaminem”, obowiązujący na obszarze gminy.
 
-**Art. 32.** (pominięty)
+### 2.
 
-**Art. 33.** (pominięty)
+Regulamin powinien określać prawa i obowiązki przedsiębiorstwa wodociągowo-kanalizacyjnego oraz odbiorców usług, w tym:
 
-**Art. 34.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+### 1)
 
+minimalny poziom usług świadczonych przez przedsiębiorstwo wodociągowo-kanalizacyjne w zakresie dostarczania wody i odprowadzania ścieków,
+
+### 2)
+
+szczegółowe warunki i tryb zawierania umów z odbiorcami usług,
+
+### 3)
+
+sposób rozliczeń w oparciu o ceny i stawki opłat ustalone w taryfach,
+
+### 4)
+
+warunki przyłączania do sieci,
+
+### 5)
+
+techniczne warunki określające możliwości dostępu do usług wodociągowo-kanalizacyjnych,
+
+### 6)
+
+sposób postępowania w przypadku niedotrzymania ciągłości usług i odpowiednich parametrów dostarczanej wody i wprowadzanych do sieci kanalizacyjnej ścieków,
+
+### 7)
+
+standardy obsługi odbiorców usług, a w szczególności sposoby załatwiania reklamacji oraz wymiany informacji dotyczących w szczególności zakłóceń w dostawie wody i odprowadzaniu ścieków.
+
+### Rozdział 4 Zasady ustalania taryf za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
+
+### Art. 20.
+
+### 1.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne określa taryfę na 1 rok.
+
+### 2.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne określa taryfę na podstawie niezbędnych przychodów po dokonaniu ich alokacji na poszczególne taryfowe grupy odbiorców usług.
+
+### 3.
+
+Ceny i stawki opłat określone w taryfie są różnicowane dla poszczególnych taryfowych grup odbiorców usług na podstawie udokumentowanych różnic kosztów zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
+
+### 4.
+
+Przedsiębiorstwa wodociągowo-kanalizacyjne ustalają niezbędne przychody, o których mowa w ust. 2, uwzględniając w szczególności:
+
+### 1)
+
+koszty związane ze świadczeniem usług, poniesione w poprzednim roku obrachunkowym, ustalone na podstawie ewidencji księgowej, z uwzględnieniem planowanych zmian tych kosztów w roku obowiązywania taryfy,
+
+### 2)
+
+zmiany warunków ekonomicznych oraz wielkość usług i warunki ich świadczenia,
+
+### 3)
+
+koszty wynikające z planowanych wydatków inwestycyjnych, na podstawie planów, o których mowa w art. 21 ust. 1.
+
+### 5.
+
+Ewidencja księgowa, o której mowa w ust. 4 pkt 1, powinna w szczególności umożliwiać:
+
+### 1)
+
+wydzielenie kosztów stałych i zmiennych, przychodów związanych z poszczególnymi rodzajami działalności przedsiębiorstwa wodociągowo-kanalizacyjnego, a także w odniesieniu do poszczególnych taryf,
+
+### 2)
+
+ustalenie kosztów związanych z działalnością inwestycyjną w poprzednim roku obrachunkowym,
+
+### 3)
+
+dokonanie alokacji niezbędnych przychodów według taryfowych grup odbiorców usług.
+
+### Art. 21.
+
+### 1.
+
+Przedsiębiorstwa wodociągowo-kanalizacyjne opracowują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych będących w ich posiadaniu.
+
+### 2.
+
+Plany, o których mowa w ust. 1, określają w szczególności:
+
+### 1)
+
+planowany zakres usług wodociągowo-kanalizacyjnych,
+
+### 2)
+
+przedsięwzięcia rozwojowo-modernizacyjne w poszczególnych latach,
+
+### 3)
+
+przedsięwzięcia racjonalizujące zużycie wody oraz wprowadzanie ścieków,
+
+### 4)
+
+nakłady inwestycyjne w poszczególnych latach,
+
+### 5)
+
+sposoby finansowania planowanych inwestycji.
+
+### 3.
+
+Plany, o których mowa w ust. 1, powinny być zgodne z kierunkami rozwoju gminy określonymi w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, miejscowymi planami zagospodarowania przestrzennego oraz ustaleniami zezwolenia, o których mowa w art. 18.
+
+### 4.
+
+Plany, o których mowa w ust. 1, uchwala rada gminy.
+
+### Art. 22.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne obciąża gminę na podstawie cen i stawek opłat ustalonych w taryfie za:
+
+### 1)
+
+wodę pobraną z publicznych studni i zdrojów ulicznych,
+
+### 2)
+
+wodę zużytą do zasilania publicznych fontann i na cele przeciwpożarowe,
+
+### 3)
+
+wodę zużytą do zraszania publicznych ulic i publicznych terenów zielonych.
+
+### Art. 23.
+
+### 1.
+
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, szczegółowe sposoby określania taryf, w tym:
+
+### 1)
+
+kryteria ustalania niezbędnych przychodów,
+
+### 2)
+
+alokację kosztów na taryfowe grupy odbiorców usług,
+
+### 3)
+
+kryteria różnicowania cen i stawek opłat.
+
+### 2.
+
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej, wydając rozporządzenie, o którym mowa w ust. 1, bierze pod uwagę:
+
+### 1)
+
+przy ustalaniu niezbędnych przychodów:
+
+### a)
+
+koszty eksploatacji i utrzymania, w tym amortyzację lub wartość umorzenia,
+
+### b)
+
+raty kapitałowe (ponad wartość amortyzacji),
+
+### c)
+
+odsetki od zaciągniętych kredytów i pożyczek,
+
+### d)
+
+rezerwy na należności nieregularne,
+
+### e)
+
+marżę zysku, której wysokość wynika z analizy nakładów na przedsięwzięcia inwestycyjne związane z modernizacją i rozwojem, przy zapewnieniu ochrony interesów odbiorców przed nieuzasadnionym wzrostem cen,
+
+### 2)
+
+przy ustalaniu alokacji kosztów:
+
+### a)
+
+podział kosztów poniesionych w poprzednim roku obrachunkowym na poszczególne taryfowe grupy odbiorców,
+
+### b)
+
+przypisanie do poszczególnych taryfowych grup odbiorców kosztów budowy i rozbudowy urządzeń wodociągowo-kanalizacyjnych,
+
+### 3)
+
+przy różnicowaniu cen i stawek opłat:
+
+### a)
+
+średniodobową i maksymalną wielkość zużycia wody i ilość wprowadzanych ścieków,
+
+### b)
+
+taryfowe grupy odbiorców,
+
+### c)
+
+strukturę cen i stawek opłat.
+
+### Rozdział 5 Zatwierdzanie taryf oraz zasady rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków
+
+### Art. 24.
+
+### 1.
+
+Taryfy podlegają zatwierdzeniu w drodze uchwały rady gminy.
+
+### 2.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne w terminie 70 dni przed planowaną datą wejścia taryf w życie przedstawia radzie gminy wniosek o ich zatwierdzenie.
+
+### 3.
+
+Rada gminy zatwierdza taryfy w terminie 45 dni od dnia złożenia wniosku, o którym mowa w ust. 2.
+
+### 4.
+
+Do wniosku o zatwierdzenie taryfy przedsiębiorstwo wodociągowo-kanalizacyjne dołącza szczegółową kalkulację cen i stawek opłat oraz aktualny plan, o którym mowa w art. 21 ust. 1.
+
+### 5.
+
+Zarząd gminy sprawdza, czy taryfy i plan, o którym mowa w art. 21 ust. 1, zostały opracowane zgodnie z przepisami ustawy, i weryfikuje koszty, o których mowa w art. 20 ust. 4 pkt 1, pod względem celowości ich ponoszenia.
+
+### 6.
+
+Rada gminy może podjąć uchwałę o dopłacie dla jednej, wybranych lub wszystkich taryfowych grup odbiorców usług. Dopłatę gmina przekazuje przedsiębiorstwu wodociągowo-kanalizacyjnemu.
+
+### 7.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne ogłasza zatwierdzone taryfy w miejscowej prasie lub w sposób zwyczajowo przyjęty w terminie do 7 dni od dnia podjęcia uchwały, o której mowa w ust. 1.
+
+### 8.
+
+Jeżeli rada gminy nie podejmie uchwały w terminie 45 dni, wchodzą one w życie po upływie 70 dni od dnia złożenia wniosku o zatwierdzenie taryf określonych przez przedsiębiorstwo wodociągowo-kanalizacyjne.
+
+### 9.
+
+Przedsiębiorstwo wodociągowo-kanalizacyjne ogłasza w miejscowej prasie taryfy, o których mowa w ust. 8, w terminie co najmniej 7 dni przed dniem wejścia ich w życie.
+
+### 10.
+
+Taryfy obowiązują przez 1 rok.
+
+### Art. 25.
+
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, wzór wniosku o zatwierdzenie taryf oraz niezbędny zakres informacji zawartych w uzasadnieniu taryf, biorąc pod uwagę:
+
+### 1)
+
+zestawienie cen i stawek opłat,
+
+### 2)
+
+kalkulację opłat,
+
+### 3)
+
+plan, o którym mowa w art. 21 ust. 1,
+
+### 4)
+
+informacje finansowe zawierające sprawozdania finansowe.
+
+### Art. 26.
+
+Rozliczenia za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków są prowadzone przez przedsiębiorstwa wodociągowo-kanalizacyjne z odbiorcami usług na podstawie określonych w taryfach cen i stawek opłat oraz ilości dostarczonej wody i odprowadzonych ścieków.
+
+### Art. 27.
+
+### 1.
+
+Ilość wody dostarczonej do nieruchomości ustala się na podstawie wskazania wodomierza głównego, a w przypadku jego braku - w oparciu o przeciętne normy zużycia wody.
+
+### 2.
+
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, warunki prowadzenia rozliczeń za zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzanie ścieków, biorąc pod uwagę wyposażenie nieruchomości w przyrządy i urządzenia pomiarowe.
+
+### 3.
+
+Minister właściwy do spraw gospodarki przestrzennej i mieszkaniowej, w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, określi, w drodze rozporządzenia, przeciętne normy zużycia wody dla poszczególnych odbiorców usług, które stanowią podstawę ustalania ilości pobranej wody w razie braku wodomierza, biorąc pod uwagę specyfikę poszczególnych odbiorców usług oraz wskaźniki średniego zużycia wody określone w szczególności dla gospodarstw domowych, usług oraz innej działalności w miastach i na wsiach.
+
+### 4.
+
+Ilość odprowadzonych ścieków ustala się na podstawie wskazań urządzeń pomiarowych.
+
+### 5.
+
+W razie braku urządzeń pomiarowych ilość odprowadzonych ścieków ustala się na podstawie umowy, o której mowa w art. 6 ust. 1, jako równą ilości wody pobranej lub określonej w umowie.
+
+### 6.
+
+W rozliczeniach ilości odprowadzonych ścieków ilość bezpowrotnie zużytej wody uwzględnia się wyłącznie w przypadkach, gdy wielkość jej zużycia na ten cel ustalona jest na podstawie dodatkowego wodomierza zainstalowanego na koszt odbiorcy usług.
+
+### Rozdział 6 Przepisy karne i kary pieniężne
+
+### Art. 28.
+
+### 1.
+
+Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, pobiera wodę z urządzeń wodociągowych, podlega karze grzywny do 5.000 zł.
+
+### 2.
+
+Kto zrywa lub uszkadza plomby umieszczone na urządzeniach pomiarowych lub zaworze odcinającym, podlega karze grzywny do 5.000 zł.
+
+### 3.
+
+Kto nie dopuszcza przedstawiciela przedsiębiorstwa wodociągowo-kanalizacyjnego do wykonania czynności określonych w art. 7, podlega karze grzywny do 5.000 zł.
+
+### 4.
+
+Kto bez uprzedniego zawarcia umowy, o której mowa w art. 6 ust. 1, wprowadza ścieki do urządzeń kanalizacyjnych, podlega karze ograniczenia wolności albo grzywny do 10.000 zł.
+
+### 5.
+
+Obok orzeczenia kary organ orzekający może nałożyć obowiązek zapłaty nawiązki na rzecz przedsiębiorstwa wodociągowo-kanalizacyjnego, w wysokości 1.000 zł za każdy miesiąc, w którym nastąpiło bezumowne pobieranie wody z urządzeń wodociągowych lub wprowadzanie ścieków do urządzeń kanalizacyjnych tego przedsiębiorstwa.
+
+### 6.
+
+Orzekanie w sprawach o czyny, o których mowa w ust. 1-3, następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+
+### Art. 29.
+
+### 1.
+
+Karze pieniężnej podlega ten, kto stosuje taryfy:
+
+### 1)
+
+nie przestrzegając obowiązku ich przedstawienia radzie gminy do zatwierdzenia określonego w art. 24 ust. 1 lub
+
+### 2)
+
+zawyżając ceny i stawki zatwierdzone zgodnie z art. 24 ust. 3.
+
+### 2.
+
+Karę pieniężną, o której mowa w ust. 1, wymierza zarząd gminy w drodze decyzji.
+
+### 3.
+
+Kara pieniężna, o której mowa w ust. 1, stanowi dochód gminy.
+
+### 4.
+
+Wysokość kary pieniężnej, o której mowa w ust. 1, nie może przekroczyć 15% przychodu ukaranego przedsiębiorstwa wodociągowo-kanalizacyjnego, osiągniętego w poprzednim roku podatkowym.
+
+### 5.
+
+Kara pieniężna, o której mowa w ust. 1, jest płatna z dochodu po opodatkowaniu lub z innej formy nadwyżki przychodu nad wydatkami zmniejszonej o podatki.
+
+### 6.
+
+Ustalając wysokość kary pieniężnej, zarząd gminy uwzględnia stopień szkodliwości czynu, stopień zawinienia oraz dotychczasową działalność przedsiębiorstwa wodociągowo-kanalizacyjnego i jego możliwości finansowe.
+
+### 7.
+
+Niezależnie od kary pieniężnej nałożonej na przedsiębiorstwo wodociągowo-kanalizacyjne zarząd gminy może nałożyć karę, o której mowa w ust. 1, na kierownika przedsiębiorstwa wodociągowo-kanalizacyjnego, z tym że kara ta może być wymierzona w kwocie nie większej niż 300% jego miesięcznego wynagrodzenia. Przepis ust. 6 stosuje się odpowiednio.
+
+### 8.
+
+Kary pieniężne, o których mowa w ust. 1, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 30.
+
+W ustawie z dnia 24 października 1974 r. - Prawo wodne ([Dz. U. Nr 38, poz. 230](https://api.sejm.gov.pl/eli/acts/DU/1974/230/text.html), z [1980 r. Nr 3, poz. 6](https://api.sejm.gov.pl/eli/acts/DU/1980/6/text.html), z [1983 r. Nr 44, poz. 201](https://api.sejm.gov.pl/eli/acts/DU/1983/201/text.html), z [1989 r. Nr 26, poz. 139](https://api.sejm.gov.pl/eli/acts/DU/1989/139/text.html)i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html)i [Nr 39, poz. 222](https://api.sejm.gov.pl/eli/acts/DU/1990/222/text.html), z [1991 r. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html)i [Nr 77, poz. 335](https://api.sejm.gov.pl/eli/acts/DU/1991/335/text.html), z [1993 r. Nr 40, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1993/183/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1995 r. Nr 47, poz. 243](https://api.sejm.gov.pl/eli/acts/DU/1995/243/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 47, poz. 299](https://api.sejm.gov.pl/eli/acts/DU/1997/299/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)i [Nr 133, poz. 885](https://api.sejm.gov.pl/eli/acts/DU/1997/885/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html), [Nr 89, poz. 991](https://api.sejm.gov.pl/eli/acts/DU/2000/991/text.html), [Nr 109, poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2000/1157/text.html)i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html)oraz z [2001 r. Nr 5, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/2001/43/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w dziale IV skreśla się rozdział 3;
+
+### 2)
+
+skreśla się art. 129.
+
+### Art. 31.
+
+### 1.
+
+Osoby, które wybudowały z własnych środków urządzenia wodociągowe i urządzenia kanalizacyjne, mogą je przekazywać odpłatnie gminie lub przedsiębiorstwu wodociągowo-kanalizacyjnemu, na warunkach uzgodnionych w umowie.
+
+### 2.
+
+Przekazywane urządzenia, o których mowa w ust. 1, powinny odpowiadać warunkom technicznym określonym w odrębnych przepisach.
+
+### Art. 32.
+
+### 1.
+
+W terminie 6 miesięcy od dnia wejścia w życie ustawy przedsiębiorstwa wodociągowo-kanalizacyjne są obowiązane wystąpić z wnioskiem o udzielenie zezwolenia, o którym mowa w art. 16 ust. 1.
+
+### 2.
+
+W terminie 1 roku od dnia wejścia w życie ustawy zarząd gminy jest obowiązany do wydania decyzji w sprawie zezwolenia, o którym mowa w art. 16 ust. 1.
+
+### 3.
+
+W terminie 9 miesięcy od dnia wejścia w życie ustawy rada gminy jest obowiązana do uchwalenia regulaminu, o którym mowa w art. 19 ust. 1.
+
+### Art. 33.
+
+### 1.
+
+W terminie 12 miesięcy od dnia uzyskania zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane zainstalować u odbiorców usług brakujące wodomierze główne.
+
+### 2.
+
+W terminie 12 miesięcy od dnia uzyskania zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorstwo wodociągowo-kanalizacyjne jest obowiązane do zawarcia z dotychczasowymi odbiorcami usług umów, o których mowa w art. 6.
+
+### Art. 34.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.

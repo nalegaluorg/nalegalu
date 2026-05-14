@@ -1,0 +1,92 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 24 grudnia 2019 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone"
+address: WDU20190002542
+eli: DU/2019/2542
+publisher: DU
+year: 2019
+pos: 2542
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 24 grudnia 2019 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2542 |
+| ISAP | WDU20190002542 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2019-12-24 |
+| Data wydania | 2019-12-30 |
+| Wejście w życie | 2020-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/2542/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/2542) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 10b ust. 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników ([Dz. U. z 2019 r. poz. 63](https://api.sejm.gov.pl/eli/acts/DU/2019/63/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html), [1018](https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;
+
+### 2)
+
+rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.
+
+### § 2.
+
+Zgłoszenia mogą być przesyłane:
+
+### 1)
+
+za pomocą oprogramowania interfejsowego dostępnego na stronie, której adres jest podany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra, albo
+
+### 2)
+
+przez portal podatkowy.
+
+### § 3.
+
+Struktura logiczna urzędowego poświadczenia odbioru zgłoszenia jest udostępniona w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych prowadzonej przez urząd obsługujący tego ministra.
+
+### § 4.
+
+Zgłoszenia mogą być opatrywane:
+
+### 1)
+
+kwalifikowanym podpisem elektronicznym albo
+
+### 2)
+
+podpisem zaufanym albo podpisem osobistym, jeżeli są przesyłane przez portal podatkowy.
+
+### § 5.
+
+Podpisem elektronicznym, o którym mowa w § 4 pkt 1, mogą być opatrywane wszystkie rodzaje zgłoszeń.
+
+### § 6.
+
+Podpisem elektronicznym, o którym mowa w § 4 pkt 2, mogą być opatrywane zgłoszenia aktualizacyjne osoby fizycznej będącej:
+
+### 1)
+
+podatnikiem (ZAP-3);
+
+### 2)
+
+podatnikiem lub płatnikiem (NIP-7).
+
+### § 7.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2020 r.[2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 czerwca 2013 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 50 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244).](#gloss-0:2:)
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2265). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 25 czerwca 2013 r. w sprawie sposobu przesyłania zgłoszeń oraz rodzajów podpisu elektronicznego, którymi powinny być opatrzone (Dz. U. poz. 753), które traci moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 50 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu wprowadzenia uproszczeń dla przedsiębiorców w prawie podatkowym i gospodarczym (Dz. U. poz. 2244).

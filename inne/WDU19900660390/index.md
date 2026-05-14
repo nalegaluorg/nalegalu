@@ -8,11 +8,9 @@ pos: 390
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o zaopatrzeniu emerytalnym pracowników i ich rodzin oraz ustawy o zmianie niektórych przepisów o zaopatrzeniu emerytalnym.
-
-*USTAWA z dnia 24 maja 1990 r.*
+# Ustawa z dnia 24 maja 1990 r. o zmianie ustawy o zaopatrzeniu emerytalnym pracowników i ich rodzin oraz ustawy o zmianie niektórych przepisów o zaopatrzeniu emerytalnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +22,66 @@ domain: null
 | Data ogłoszenia | 1990-05-24 |
 | Data wydania | 1990-09-29 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900660390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/390/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1990/390/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1990/390) |
 
-**Art. 1.** W ustawie z dni 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz.U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:4)(cid:9)(cid:10)(cid:11)(cid:4)(cid:12)(cid:4)(cid:9)(cid:10)(cid:13)(cid:4)(cid:6)(cid:14)(cid:15)(cid:7)(cid:4)(cid:7)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:4)(cid:16)(cid:14)(cid:4)(cid:9)(cid:11)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:4)(cid:2)(cid:17)(cid:4)(cid:12)(cid:4)(cid:18)(cid:9)(cid:4)(cid:12)(cid:4)(cid:16)(cid:14)(cid:4)(cid:1)(cid:18)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:4)(cid:13)(cid:11)(cid:17)(cid:19)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:2)(cid:18)(cid:21)(cid:2)(cid:17)(cid:4)(cid:22)(cid:23)(cid:14)(cid:24)(cid:25)(cid:26)(cid:15)(cid:4)(cid:22)(cid:12)(cid:27)(cid:8)
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu (cid:24)(cid:28)(cid:24)(cid:14)(cid:29)(cid:20)(cid:15)(cid:26)(cid:30)(cid:29)(cid:28)(cid:4)(cid:31) (cid:7)(cid:8)!(cid:8)(cid:4)(cid:16)(cid:14)(cid:4)(cid:1)(cid:18)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:4)(cid:13)(cid:11)(cid:18)(cid:19)(cid:4)"(cid:5)(cid:14)(cid:6)"(cid:15)#(cid:7)(cid:15)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:30)(cid:15)(cid:22)(cid:20)(cid:27)(cid:5)$%&’(cid:24)(cid:4)(cid:7)(cid:28)(cid:12)(cid:15)(cid:30)(cid:29)( (cid:9)(cid:19)(cid:4)"(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:9)(cid:10)(cid:4)(cid:30)(cid:15)(cid:4)(cid:23)(cid:6))’$(cid:4)#(cid:6)#(cid:15)%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)"(cid:29)(cid:14)(cid:15)(cid:7)(cid:29)(cid:4)*(cid:7)(cid:4)(cid:7)(cid:15)(cid:22)(cid:20)(cid:14)(cid:7)(cid:24)+(cid:24)(cid:30)(cid:12)(cid:24)(cid:28)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:9)(cid:10)(cid:15),(cid:13)(cid:19)(cid:4)(cid:5)(cid:6)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:9)(cid:10)(cid:4)#(cid:6)#(cid:15)%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:9)(cid:10)(cid:15)(cid:4)"(cid:4).(cid:14)(cid:7)(cid:28)(cid:12)(cid:24)(cid:30)(cid:12)$( */(cid:14)(cid:20)(cid:8)(cid:4)(cid:9)(cid:10)(cid:15)(cid:8)(cid:4)(cid:9)(cid:8)(cid:4)0(cid:22)(cid:6).(cid:6)(cid:28)(cid:4)(cid:6)(cid:14)(cid:15)(cid:7)(cid:4)’(cid:7)1(cid:6)(cid:30)(cid:23)(cid:6)(cid:28)(cid:4)(cid:12)’2(cid:4)(cid:14)(cid:6)#(cid:7)(cid:12)(cid:30)(cid:3)(cid:4)(cid:23)(cid:20)3(cid:14)(cid:29)(cid:28)(cid:4)"(cid:4)#(cid:30)(cid:12)$(cid:4)(cid:6)41(cid:6)(cid:22)(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)$(cid:22)(cid:20)(cid:15)"(cid:29) (cid:5)(cid:14)(cid:7)(cid:29)(cid:22)1$4$%&(cid:4)(cid:24)(cid:28)(cid:24)(cid:14)(cid:29)(cid:20)$(cid:14)(cid:29)(cid:3)(cid:4)(cid:14)(cid:24)(cid:30)(cid:20)(cid:29)(cid:4)(cid:12)(cid:30)"(cid:15)(cid:26)(cid:12)#(cid:7)(cid:23)(cid:12)(cid:24)(cid:4)(cid:12)(cid:4)(cid:14)(cid:24)(cid:30)(cid:20)(cid:29)(cid:4)(cid:14)(cid:6)#(cid:7)(cid:12)(cid:30)(cid:30)(cid:24)(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)(cid:30)(cid:24)(cid:4)(cid:30)(cid:15) podstawie art. 59 albo na podstawie art. 56-58 ustawy, o której mowa w art. (cid:9)(cid:3)(cid:4)"(cid:4).(cid:14)(cid:7)(cid:28)(cid:12)(cid:24)(cid:30)(cid:12)$(cid:4)(cid:6).(cid:6)"(cid:12)&(cid:7)$%&’(cid:29)(cid:28)(cid:4)(cid:5)(cid:14)(cid:7)(cid:24)#(cid:4)#(cid:30)(cid:12)(cid:24)(cid:28)(cid:4)(cid:13)(cid:13)(cid:4)(cid:26)$(cid:20)(cid:24)4(cid:6)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:3)(cid:4)(cid:7)(cid:15)(cid:28)(cid:12)(cid:15)(cid:22)(cid:20)(cid:4)(cid:20)(cid:29)’2 (cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24))(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:6)#(cid:4)#(cid:30)(cid:12)(cid:15)(cid:4)(cid:9)(cid:4)(cid:5)(cid:15)5#(cid:7)(cid:12)(cid:24)(cid:14)(cid:30)(cid:12)(cid:23)(cid:15)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)( (cid:9)(cid:19)(cid:4)(cid:6)#(cid:5)(cid:6)"(cid:12)(cid:24)#(cid:30)(cid:12)(cid:24)(cid:4)(cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)(cid:30)(cid:15)(cid:4)(cid:7)(cid:15)(cid:22)(cid:15)#(cid:15)’2(cid:4)(cid:6)43(cid:26)(cid:30)(cid:29)’2(cid:3)(cid:4)(cid:6)(cid:23)(cid:14)(cid:24)(cid:25)(cid:26)(cid:6)(cid:30)(cid:29)’2(cid:4)" przepisach ustaw i dekretu, o których mowa w art. 1, 2, 5-10, 11 lub (cid:9)(cid:1)(cid:3)(cid:4)"(cid:4).(cid:14)(cid:7)(cid:28)(cid:12)(cid:24)(cid:30)(cid:12)$(cid:4)(cid:6).(cid:6)"(cid:12)&(cid:7)$%&’(cid:29)(cid:28)(cid:4)(cid:5)(cid:6)(cid:4)#(cid:30)(cid:12)$(cid:4)(cid:6)41(cid:6)(cid:22)(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)(cid:30)(cid:12)(cid:30)(cid:12)(cid:24)%(cid:22)(cid:7)(cid:24)%(cid:4)$(cid:22)(cid:20)(cid:15)"(cid:29)(cid:3) (cid:7)(cid:4)(cid:7)(cid:15)(cid:22)(cid:20)(cid:14)(cid:7)(cid:24)+(cid:24)(cid:30)(cid:12)(cid:24)(cid:28)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:13)(cid:9)(cid:3) (cid:13)(cid:19)(cid:4)(cid:6)#(cid:5)(cid:6)"(cid:12)(cid:24)#(cid:30)(cid:12)(cid:24)(cid:4)(cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)"(cid:4)(cid:23)"(cid:6)’(cid:12)(cid:24)(cid:4)(cid:30)(cid:15)%(cid:30)(cid:12)+(cid:22)(cid:7)(cid:24)%(cid:3)(cid:4)%(cid:24)+(cid:24)(cid:26)(cid:12)(cid:4)(cid:30)(cid:12)(cid:24)(cid:4)(cid:22)(cid:5)(cid:24)1(cid:30)(cid:12)(cid:15)%& "(cid:15)(cid:14)$(cid:30)(cid:23)3"(cid:4)#(cid:6)(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)(cid:30)(cid:12)(cid:15)(cid:4)(cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)"(cid:4)(cid:28)(cid:29)(cid:25)(cid:26)(cid:4)(cid:5)(cid:23)(cid:20)(cid:4)(cid:9)(cid:8) (cid:13)(cid:8)(cid:4)6(cid:14)(cid:7)(cid:24)(cid:5)(cid:12)(cid:22)(cid:4)$(cid:22)(cid:20)(cid:8)(cid:4)(cid:9)(cid:4)(cid:22)(cid:20)(cid:6)(cid:22)$%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:6)#(cid:5)(cid:6)"(cid:12)(cid:24)#(cid:30)(cid:12)(cid:6)(cid:4)#(cid:6)(cid:4)(cid:6)(cid:22)3.(cid:3)(cid:4)(cid:23)(cid:20)3(cid:14)(cid:24)(cid:4)(cid:7)(cid:15)%(cid:28)(cid:6)"(cid:15)1(cid:29) kierownicze stanowiska: - w statutowych i wykonawczych organach Polskiej Zjednoczonej Partii Robotniczej, Zjednoczonego Stronnictwa Ludowego, Stronnictwa Demokratycznego, (cid:21)(cid:4)"(cid:4)(cid:30)(cid:15)’(cid:7)(cid:24)(cid:26)(cid:30)(cid:29)’2(cid:4)(cid:6)(cid:14)4(cid:15)(cid:30)(cid:15)’2(cid:4)(cid:6)(cid:14)4(cid:15)(cid:30)(cid:12)(cid:7)(cid:15)’%(cid:12)(cid:4)(cid:22)(cid:5)31#(cid:7)(cid:12)(cid:24)(cid:26)’(cid:7)(cid:29)’2(cid:3) (cid:6)(cid:14)(cid:15)(cid:7)(cid:4)’(cid:7)1(cid:6)(cid:30)(cid:23)3"(cid:4)(cid:12)’2(cid:4)(cid:14)(cid:6)#(cid:7)(cid:12)(cid:30)(cid:3)(cid:4)(cid:23)(cid:20)3(cid:14)(cid:29)(cid:28)(cid:4)"(cid:4)#(cid:30)(cid:12)$(cid:4)(cid:6)41(cid:6)(cid:22)(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)(cid:30)(cid:12)(cid:30)(cid:12)(cid:24)%(cid:22)(cid:7)(cid:24)%(cid:4)$(cid:22)(cid:20)(cid:15)"(cid:29) (cid:5)(cid:14)(cid:7)(cid:29)(cid:22)1$4$%&(cid:4)(cid:24)(cid:28)(cid:24)(cid:14)(cid:29)(cid:20)$(cid:14)(cid:29)(cid:3)(cid:4)(cid:14)(cid:24)(cid:30)(cid:20)(cid:29)(cid:4)(cid:12)(cid:30)"(cid:15)(cid:26)(cid:12)#(cid:7)(cid:23)(cid:12)(cid:24)(cid:4)(cid:12)(cid:4)(cid:14)(cid:24)(cid:30)(cid:20)(cid:29)(cid:4)(cid:14)(cid:6)#(cid:7)(cid:12)(cid:30)(cid:30)(cid:24)(cid:3)(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)(cid:30)(cid:24)(cid:4)(cid:30)(cid:15) podstawie art. 64 ustawy, o której mowa w art. 1, na podstawie innych (cid:5)(cid:14)(cid:7)(cid:24)(cid:5)(cid:12)(cid:22)3"(cid:4)(cid:6)(cid:23)(cid:14)(cid:24)(cid:25)(cid:26)(cid:15)%&’(cid:29)’2(cid:4)(cid:7)(cid:15)(cid:22)(cid:15)#(cid:29)(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)"(cid:15)(cid:30)(cid:12)(cid:15)(cid:4)(cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24))(cid:4)(cid:5)(cid:14)(cid:7)(cid:24)(cid:7)(cid:4)6(cid:14)(cid:24)(cid:7)(cid:24)(cid:22)(cid:15) 7(cid:15)#(cid:29)(cid:4)8(cid:12)(cid:30)(cid:12)(cid:22)(cid:20)(cid:14)3"(cid:4)"(cid:4)(cid:22)(cid:7)’(cid:7)(cid:24)43(cid:26)(cid:30)(cid:29)(cid:28)(cid:4)(cid:20)(cid:14)(cid:29).(cid:12)(cid:24)(cid:3)(cid:4)(cid:15)(cid:4)(cid:20)(cid:15)(cid:23)+(cid:24)(cid:4)(cid:25)"(cid:12)(cid:15)#’(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)(cid:5)(cid:14)(cid:7)(cid:29)(cid:7)(cid:30)(cid:15)(cid:30)(cid:24) przez Prezydenta Rzeczypospolitej Polskiej do dnia 22 lipca 1952 r.”; (cid:1)(cid:19)(cid:4)(cid:5)(cid:6)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:13)(cid:10)(cid:4)#(cid:6)#(cid:15)%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:13)(cid:10)(cid:15)(cid:4)"(cid:4).(cid:14)(cid:7)(cid:28)(cid:12)(cid:24)(cid:30)(cid:12)$( */(cid:14)(cid:20)(cid:8)(cid:4)(cid:13)(cid:10)(cid:15)(cid:8)(cid:4)9(cid:4)(cid:22)(cid:20)(cid:6)(cid:22)$(cid:30)(cid:23)$(cid:4)#(cid:6)(cid:4)(cid:24)(cid:28)(cid:24)(cid:14)(cid:29)(cid:20)3"(cid:4)(cid:12)(cid:4)(cid:14)(cid:24)(cid:30)’(cid:12)(cid:22)(cid:20)3"(cid:3)(cid:4)(cid:23)(cid:20)3(cid:14)(cid:7)(cid:29)(cid:4)$(cid:23)(cid:6))’(cid:7)(cid:29)(cid:26)(cid:12)(cid:4)(cid:26)$.(cid:4)$(cid:23)(cid:6))’(cid:7)&(cid:4)" (cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:4)(cid:17)(cid:11)(cid:4)(cid:26)(cid:15)(cid:20)(cid:3)(cid:4)(cid:14)(cid:24)"(cid:15)(cid:26)(cid:6)(cid:14)(cid:29)(cid:7)(cid:15)’%(cid:12)(cid:4)#(cid:6)(cid:23)(cid:6)(cid:30)$%(cid:24)(cid:4)(cid:22)(cid:12)(cid:27)(cid:4)(cid:6)#(cid:4)(cid:9)(cid:4)(cid:5)(cid:15)5#(cid:7)(cid:12)(cid:24)(cid:14)(cid:30)(cid:12)(cid:23)(cid:15)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:3)(cid:4)(cid:7) $"(cid:7)4(cid:26)(cid:27)#(cid:30)(cid:12)(cid:24)(cid:30)(cid:12)(cid:24)(cid:28)(cid:4)(cid:15)(cid:14)(cid:20)(cid:8)(cid:4)(cid:13)(cid:17)(cid:4)(cid:12)(cid:4)(cid:13)(cid:10)(cid:3)(cid:4)(cid:30)(cid:15)%(cid:5)35(cid:30)(cid:12)(cid:24)%(cid:4)#(cid:6)(cid:4)#(cid:30)(cid:12)(cid:15)(cid:4)(cid:1)(cid:9)(cid:4)4(cid:14)$#(cid:30)(cid:12)(cid:15)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:4)7(cid:15)#(cid:15) 8(cid:12)(cid:30)(cid:12)(cid:22)(cid:20)(cid:14)3"(cid:4)(cid:28)(cid:6)+(cid:24)(cid:4)"(cid:4)#(cid:14)(cid:6)#(cid:7)(cid:24)(cid:4)(cid:14)(cid:6)(cid:7)(cid:5)(cid:6)(cid:14)(cid:7)&#(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:4)(cid:14)(cid:6)(cid:7)(cid:22)(cid:7)(cid:24)(cid:14)(cid:7)(cid:29):(cid:4)(cid:22)(cid:20)(cid:6)(cid:22)(cid:6)"(cid:15)(cid:30)(cid:12)(cid:24) (cid:30)(cid:12)(cid:30)(cid:12)(cid:24)%(cid:22)(cid:7)(cid:24)4(cid:6)(cid:4)(cid:5)(cid:14)(cid:7)(cid:24)(cid:5)(cid:12)(cid:22)$(cid:4)(cid:30)(cid:15)(cid:4)(cid:6)(cid:22)(cid:6).(cid:29)(cid:3)(cid:4)(cid:23)(cid:20)3(cid:14)(cid:24)(cid:4)#(cid:6)(cid:4)#(cid:30)(cid:12)(cid:15)(cid:4)(cid:1)(cid:9)(cid:4)4(cid:14)$#(cid:30)(cid:12)(cid:15)(cid:4)(cid:9)(cid:10)(cid:10)(cid:11)(cid:4)(cid:14)(cid:8)(cid:4)$(cid:23)(cid:6))’(cid:7)&(cid:4);(cid:2) lat.”.
+### Art. 1.
 
-**Art. 3.** !(cid:22)(cid:20)(cid:15)"(cid:15)(cid:4)"’2(cid:6)#(cid:7)(cid:12)(cid:4)"(cid:4)+(cid:29)’(cid:12)(cid:24)(cid:4)(cid:7)(cid:4)#(cid:30)(cid:12)(cid:24)(cid:28)(cid:4)(cid:6)41(cid:6)(cid:22)(cid:7)(cid:24)(cid:30)(cid:12)(cid:15)(cid:8)
+W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin ([Dz. U. Nr 40, poz. 267](https://api.sejm.gov.pl/eli/acts/DU/1982/267/text.html), z [1984 r. Nr 52, poz. 268 i 270](https://api.sejm.gov.pl/eli/acts/DU/1984/268/text.html), z [1986 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1986/1/text.html), z [1989 r. Nr 35, poz. 190 i 192](https://api.sejm.gov.pl/eli/acts/DU/1989/190/text.html) oraz z [1990 r. Nr 10, poz. 58 i 61](https://api.sejm.gov.pl/eli/acts/DU/1990/58/text.html) i [Nr 36, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/1990/206/text.html)) art. 56-58 skreśla się.
 
+### Art. 2.
+
+W ustawie z dnia 24 maja 1990 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym ([Dz. U. Nr 36, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/1990/206/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 19 na końcu dodaje się wyrazy „z zastrzeżeniem art. 19a”;
+
+### 2)
+
+po art. 19 dodaje się art. 19a w brzmieniu:
+
+„
+
+### Art. 19a.
+
+### 1.
+
+Osobom oraz członkom ich rodzin, którym w dniu ogłoszenia ustawy przysługują emerytury, renty inwalidzkie i renty rodzinne przyznane na podstawie art. 59 albo na podstawie art. 56-58 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem 22 lutego 1990 r., zamiast tych świadczeń przyznaje się od dnia 1 października 1990 r.:
+
+### 1)
+
+odpowiednie świadczenia na zasadach ogólnych, określonych w przepisach ustaw i dekretu, o których mowa w art. 1, 2, 5-10, 11 lub 13. w brzmieniu obowiązującym po dniu ogłoszenia niniejszej ustawy, z zastrzeżeniem art. 21,
+
+### 2)
+
+odpowiednie świadczenia w kwocie najniższej, jeżeli nie spełniają warunków do przyznania świadczenia w myśl pkt 1.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do osób, które zajmowały kierownicze stanowiska:
+
+- - w statutowych i wykonawczych organach Polskiej Zjednoczonej Partii Robotniczej, Zjednoczonego Stronnictwa Ludowego, Stronnictwa Demokratycznego,
+
+- - w naczelnych organach organizacji spółdzielczych,
+
+oraz członków ich rodzin, którym w dniu ogłoszenia niniejszej ustawy przysługują emerytury, renty inwalidzkie i renty rodzinne, przyznane na podstawie art. 64 ustawy, o której mowa w art. 1, na podstawie innych przepisów określających zasady przyznawania świadczeń przez Prezesa Rady Ministrów w szczególnym trybie, a także świadczenia przyznane przez Prezydenta Rzeczypospolitej Polskiej do dnia 22 lipca 1952 r.
+
+” ,
+
+### 3)
+
+po art. 29 dodaje się art. 29a w brzmieniu:
+
+„
+
+### Art. 29a.
+
+W stosunku do emerytów i rencistów, którzy ukończyli lub ukończą w 1990 r. 80 lat, rewaloryzacji dokonuje się od 1 października 1990 r., z uwzględnieniem art. 28 i 29, najpóźniej do dnia 31 grudnia 1990 r. Rada Ministrów może w drodze rozporządzenia rozszerzyć stosowanie niniejszego przepisu na osoby, które do dnia 31 grudnia 1990 r. ukończą 75 lat
+
+” .
+
+### Art. 3.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

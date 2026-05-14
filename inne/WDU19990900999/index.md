@@ -8,11 +8,9 @@ pos: 999
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o języku polskim Parlament Rzeczypospolitej Polskiej: – zważywszy, że język polski stanowi podstawowy element narodowej tożsamości i jest dobrem narodowej kultury, – zważywszy na doświadczenie historii, kiedy walka zaborców i okupantów z językiem polskim była narzędziem wynaradawiania, – uznając konieczność ochrony tożsamości narodowej w procesie globalizacji, – uznając, że polska kultura stanowi wkład w budowę wspólnej, różnorodnej kulturowo Europy, a zachowanie tej kultury i jej rozwój jest możliwy tylko poprzez ochronę języka polskiego, – uznając tę ochronę za obowiązek wszystkich organów i instytucji publicznych Rzeczypospolitej Polskiej i powinność jej obywateli uchwala niniejszą ustawę.
-
-*USTAWA z dnia 7 października 1999 r.*
+# Ustawa z dnia 7 października 1999 r. o języku polskim
 
 | Pole | Wartość |
 |---|---|
@@ -24,380 +22,314 @@ domain: null
 | Data ogłoszenia | 1999-10-07 |
 | Data wydania | 1999-11-08 |
 | Ostatnia zmiana | 2026-01-30 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990900999) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/999/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1999/999/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1999/999) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Przepisy ustawy dotyczą:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Ochrona prawna języka polskiego w życiu publicznym](#chpt_2) [Rozdział 3 - Rada Języka Polskiego i jej kompetencje](#chpt_3) [Rozdział 4 - Przepisy karne](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących i przepisy końcowe](#chpt_5)
 
-**Art. 2.** Ustawa nie narusza:
+TOC
 
-**Art. 3.**
+## Treść ustawy
 
-1. Ochrona języka polskiego polega w szczególności na:
+Parlament Rzeczypospolitej Polskiej:
 
-- **1)** dbaniu o poprawne używanie języka i doskonaleniu sprawności językowej jego użytkowników oraz na stwarzaniu warunków do właściwego rozwoju języka jako narzędzia międzyludzkiej komunikacji;
-- **2)** przeciwdziałaniu jego wulgaryzacji;
-- **3)** szerzeniu wiedzy o nim i jego roli w kulturze;
-- **4)** upowszechnianiu szacunku dla regionalizmów i gwar, a także przeciwdziałaniu ich zanikowi;
-- **5)** promocji języka polskiego w świecie;
-- **6)** wspieraniu nauczania języka polskiego w kraju i za granicą.
+- - zważywszy, że język polski stanowi podstawowy element narodowej tożsamości i jest dobrem narodowej kultury,
 
-2. Do ochrony języka polskiego są obowiązane wszystkie organy władzy publicznej oraz instytucje i organizacje uczestniczące w życiu publicznym.
+- - zważywszy na doświadczenie historii, kiedy walka zaborców i okupantów z językiem polskim była narzędziem wynaradawiania,
 
-3. (uchylony)
+- - uznając konieczność ochrony tożsamości narodowej w procesie globalizacji,
 
-**Art. 4.** Język polski jest językiem urzędowym:
+- - uznając, że polska kultura stanowi wkład w budowę wspólnej, różnorodnej kulturowo Europy, a zachowanie tej kultury i jej rozwój jest możliwy tylko poprzez ochronę języka polskiego,
 
-#### Rozdział 2 Ochrona prawna języka polskiego w życiu publicznym
+- - uznając tę ochronę za obowiązek wszystkich organów i instytucji publicznych Rzeczypospolitej Polskiej i powinność jej obywateli
 
-**Art. 5.**
+uchwala niniejszą ustawę.
 
-1. Podmioty wykonujące zadania publiczne na terytorium Rzeczypospolitej Polskiej dokonują wszelkich czynności urzędowych oraz składają oświadczenia woli w języku polskim, chyba że przepisy szczególne stanowią inaczej.
+### Rozdział 1 Przepisy ogólne
 
-2. Przepis ust. 1 stosuje się odpowiednio do oświadczeń woli, podań i innych pism składanych organom, o których mowa w art. 4.
+### Art. 1.
 
-**Art. 6.** Umowy międzynarodowe zawierane przez Rzeczpospolitą Polską powinny mieć polską wersję językową, stanowiącą podstawę wykładni, chyba że przepisy szczególne stanowią inaczej.
+Przepisy ustawy dotyczą ochrony języka polskiego i używania go w działalności publicznej oraz w obrocie prawnym na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 7.**
+### Art. 2.
 
-1. Na terytorium Rzeczypospolitej Polskiej w obrocie z udziałem konsumentów oraz przy wykonywaniu przepisów z zakresu prawa pracy używa się języka polskiego, jeżeli:
+Ustawa nie narusza:
 
-- **1)** konsument lub osoba świadcząca pracę ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej w chwili zawarcia umowy oraz
-- **2)** umowa ma być wykonana lub wykonywana na terytorium Rzeczypospolitej Polskiej.
+### 1)
 
-2. Na terytorium Rzeczypospolitej Polskiej w obrocie bez udziału konsumentów używa się języka polskiego, jeżeli obrót ten jest wykonywany przez podmioty, o których mowa w art. 4.
+przepisów ustaw o stosunku państwa do kościołów i innych związków wyznaniowych, w szczególności dotyczących uprawiania kultu i praktyk religijnych,
 
-3. Przepisy ustawy stosuje się do dokumentów i informacji, których obowiązek sporządzenia lub podania wynika z odrębnych przepisów.
+### 2)
 
-**Art. 7a.**
+praw mniejszości narodowych i grup etnicznych.
 
-1. Obowiązek używania języka polskiego w zakresie, o którym mowa w art. 7, dotyczy w szczególności nazewnictwa towarów i usług, ofert, warunków gwarancji, faktur, rachunków i pokwitowań, jak również ostrzeżeń i informacji dla konsumentów wymaganych na podstawie innych przepisów, instrukcji obsługi oraz informacji o właściwościach towarów i usług, z zastrzeżeniem ust. 3. Obowiązek używania języka polskiego w informacjach o właściwościach towarów i usług dotyczy też reklam.
+### Art. 3.
 
-2. Obcojęzyczne opisy towarów i usług oraz obcojęzyczne oferty, ostrzeżenia i informacje dla konsumentów wymagane na podstawie innych przepisów w zakresie, o którym mowa w art. 7, muszą być jednocześnie sporządzone w polskiej wersji językowej, z zastrzeżeniem ust. 3.
+### 1.
 
-3. Nie wymagają opisu w języku polskim ostrzeżenia i informacje dla konsumentów wymagane na podstawie innych przepisów, instrukcje obsługi oraz informacje o właściwościach towarów, jeżeli są wyrażone w powszechnie zrozumiałej formie graficznej; jeżeli formie graficznej towarzyszy opis, to opis ten powinien być sporządzony w języku polskim.
+Ochrona języka polskiego polega w szczególności na:
 
-**Art. 7b.** Kontrolę używania języka polskiego w zakresie, o którym mowa w art. 7 i art. 7a, sprawują, odpowiednio do zakresu swoich zadań, Prezes Urzędu Ochrony Konkurencji i Konsumentów, Inspekcja Handlowa, Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych oraz powiatowy (miejski) rzecznik konsumentów, jak również Państwowa Inspekcja Pracy.
+### 1)
 
-**Art. 8.**
+dbaniu o poprawne używanie języka i doskonaleniu sprawności językowej jego użytkowników oraz na stwarzaniu warunków do właściwego rozwoju języka jako narzędzia międzyludzkiej komunikacji,
 
-1. Dokumenty w zakresie, o którym mowa w art. 7, w tym w szczególności umowy z udziałem konsumentów i umowy z zakresu prawa pracy, sporządza się w języku polskim, z zastrzeżeniem ust. 1b.
+### 2)
 
-1a. Dokumenty w zakresie, o którym mowa w art. 7, mogą być jednocześnie sporządzone w wersji lub wersjach obcojęzycznych. Podstawą ich wykładni jest wersja w języku polskim, jeżeli osoba świadcząca pracę lub konsument są obywatelami Rzeczypospolitej Polskiej.
+przeciwdziałaniu jego wulgaryzacji,
 
-1b. Umowa o pracę lub inny dokument wynikający z zakresu prawa pracy, a także umowa, której stroną jest konsument lub inne niż umowa dokumenty stosowane w obrocie z udziałem konsumentów, mogą być sporządzone w języku obcym na wniosek osoby świadczącej pracę lub konsumenta, władających tym językiem, niebędących obywatelami polskimi, pouczonych uprzednio o prawie do sporządzenia umowy lub innego dokumentu w języku polskim.
+### 3)
 
-2. (utracił moc)
+szerzeniu wiedzy o nim i jego roli w kulturze,
 
-3. (utracił moc)
+### 4)
 
-4. Do umów z udziałem konsumentów zawartych w następstwie ich sporządzenia z naruszeniem ust. 1 stosuje się odpowiednio art. 74 § 1 zdanie pierwsze oraz art. 74 § 2 Kodeksu cywilnego.
+upowszechnianiu szacunku dla regionalizmów i gwar, a także przeciwdziałaniu ich zanikowi,
 
-5. Umowa o świadczenie usług drogą elektroniczną, określonych w ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz.
+### 5)
 
-- **1513)** , sporządzona w języku obcym, zawarta z usługodawcą, który nie jest osobą fizyczną mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej lub osobą prawną bądź jednostką organizacyjną nieposiadającą osobowości prawnej, prowadzącą działalność gospodarczą na terytorium Rzeczypospolitej Polskiej, może stanowić uprawdopodobnienie faktu dokonania czynności prawnej, o którym mowa w art. 74 § 2 Kodeksu cywilnego.
+promocji języka polskiego w świecie,
 
-**Art. 9.** Język polski jest językiem nauczania oraz językiem egzaminów i prac dyplomowych w szkołach publicznych i niepublicznych wszystkich typów oraz w placówkach oświatowych i innych instytucjach edukacyjnych, chyba że przepisy szczególne stanowią inaczej.
+### 6)
 
-**Art. 10.**
+wspieraniu nauczania języka polskiego w kraju i za granicą.
 
-1. Napisy i informacje w urzędach i instytucjach użyteczności publicznej, a także przeznaczone do odbioru publicznego oraz w środkach transportu publicznego sporządza się w języku polskim.
+### 2.
 
-2. Nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy w wypadkach i granicach określonych w rozporządzeniu ministra właściwego do spraw administracji publicznej.
+Do ochrony języka polskiego są obowiązane wszystkie organy władzy publicznej oraz instytucje i organizacje uczestniczące w życiu publicznym.
 
-**Art. 11.** Przepisy art. 5–10 nie dotyczą:
+### 3.
 
-#### Rozdział 2a Urzędowe poświadczanie znajomości języka polskiego
+Minister właściwy do spraw oświaty i wychowania określa, w drodze rozporządzenia, zasady prowadzenia egzaminów państwowych z języka polskiego dla cudzoziemców ubiegających się o urzędowe poświadczenie jego znajomości.
 
-**Art. 11a.**
+### Art. 4.
 
-1. Cudzoziemiec lub obywatel polski na stałe zamieszkały za granicą może uzyskać urzędowe poświadczenie znajomości języka polskiego jako obcego po zdaniu egzaminu z języka polskiego jako obcego, zwanego dalej „egzaminem”.
+Język polski jest językiem urzędowym:
 
-2. Urzędowym poświadczeniem znajomości języka polskiego jako obcego jest certyfikat znajomości języka polskiego, zwany dalej „certyfikatem”, wydawany przez Państwową Komisję do spraw Poświadczania Znajomości Języka Polskiego jako Obcego, zwaną dalej „Komisją”.
+### 1)
 
-3. Certyfikat poświadcza znajomość języka polskiego jako obcego na jednym z następujących poziomów biegłości językowej:
+konstytucyjnych organów państwa,
 
-- **1)** A1, A2, B1, B2, C1 i C2 – w grupie dostosowanej do potrzeb osób dorosłych,
-- **2)** A1, A2, B1 i B2 – w grupie dostosowanej do potrzeb dzieci i młodzieży – przy czym poziom oznaczony jako A1 jest najniższym poświadczanym poziomem biegłości językowej, a poziom oznaczony jako C2 jest najwyższym poświadczanym poziomem biegłości językowej.
+### 2)
 
-4. Cudzoziemiec lub obywatel polski na stałe zamieszkały za granicą, który:
+organów jednostek samorządu terytorialnego i podległych im instytucji w zakresie, w jakim wykonują zadania publiczne,
 
-- **1)** uzyskał stopień doktora na podstawie rozprawy doktorskiej napisanej i obronionej w języku polskim w uczelni lub podmiocie, działających w systemie szkolnictwa wyższego i nauki Rzeczypospolitej Polskiej albo
-- **2)** ukończył: (Dz. U. z 2005 r. poz. 10 i 11) oraz posiada dyplom EB (European Baccalaureate), o którym mowa w art. 93 ust. 1 pkt 3 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019), uwzględniający wynik egzaminu z języka polskiego jako języka ojczystego, albo
-    - **a)** studia prowadzone w języku polskim w uczelni działającej w systemie szkolnictwa wyższego i nauki Rzeczypospolitej Polskiej albo
-    - **b)** szkołę ponadgimnazjalną, szkołę ponadpodstawową, o której mowa w art. 18 ust. 1 pkt 2 lit. a, b lub e ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), lub szkołę artystyczną realizującą kształcenie ogólne w zakresie liceum ogólnokształcącego, działającą w systemie oświaty Rzeczypospolitej Polskiej, oraz posiada świadectwo dojrzałości, albo
-    - **c)** szkołę, o której mowa w art. 8 ust. 5 pkt 1 lit. a lub pkt 2 lit. c ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, na poziomie liceum ogólnokształcącego, albo
-    - **d)** szkołę funkcjonującą w systemie oświaty innego państwa prowadzącą nauczanie języka polskiego i innych przedmiotów w języku polskim, oraz posiada wykształcenie średnie, albo
-    - **e)** szkołę europejską działającą na podstawie Konwencji o Statucie Szkół Europejskich, sporządzonej w Luksemburgu dnia 21 czerwca 1994 r.
-    - **f)** formę nauczania prowadzoną przez organizację społeczną zarejestrowaną za granicą lub przez inny podmiot zagraniczny, w której jest prowadzone za granicą nauczanie języka polskiego lub innych przedmiotów w języku polskim, i pobierał naukę języka polskiego lub innych przedmiotów w języku polskim przez co najmniej 11 lat – może otrzymać, na wniosek, certyfikat bez konieczności zdania egzaminu.
+### 3)
 
-5. (uchylony)
+terenowych organów administracji publicznej,
 
-6. Poziom biegłości językowej określa się zgodnie z poziomem zdanego egzaminu albo zgodnie z poświadczonym poziomem znajomości języka polskiego jako obcego.
+### 4)
 
-7. Osobie, o której mowa w ust. 4, wydaje się certyfikat poświadczający znajomość języka polskiego jako obcego na poziomie biegłości językowej – odpowiednio w przypadku:
+instytucji powołanych do realizacji określonych zadań publicznych,
 
-- **1)** uzyskania stopnia doktora – C1;
-- **2)** ukończenia:
-    - **a)** studiów pierwszego stopnia – B2,
-    - **b)** studiów drugiego stopnia w zakresie filologii polskiej – C1,
-    - **c)** studiów drugiego stopnia w zakresie innym niż określony w lit. b – B2,
-    - **d)** jednolitych studiów magisterskich – B2;
+### 5)
 
-- **3)** ukończenia szkoły lub innej formy nauczania, o których mowa w ust. 4 pkt 2 lit. b–f – B1. Art. 11aa. 1. Wniosek o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, składa się do Komisji za pośrednictwem Narodowej Agencji Wymiany Akademickiej, działającej na podstawie ustawy z dnia 7 lipca 2017 r. o Narodowej Agencji Wymiany Akademickiej (Dz. U. z 2025 r. poz. 1643).
+organów, instytucji i urzędów podległych organom wymienionym w pkt 1 i pkt 3, powołanych w celu realizacji zadań tych organów, a także organów państwowych osób prawnych w zakresie, w jakim wykonują zadania publiczne,
 
-2. Wniosek o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, zawiera:
+### 6)
 
-- **1)** imię i nazwisko;
-- **2)** datę urodzenia;
-- **3)** płeć;
-- **4)** adres do korespondencji;
-- **5)** adres poczty elektronicznej, jeżeli posiada.
+organów samorządu innego niż samorząd terytorialny oraz organów organizacji społecznych, zawodowych, spółdzielczych i innych podmiotów wykonujących zadania publiczne.
 
-3. Do wniosku o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, dołącza się kopię albo odwzorowanie cyfrowe odpowiednio:
+### Rozdział 2 Ochrona prawna języka polskiego w życiu publicznym
 
-- **1)** dyplomu doktorskiego,
-- **2)** dyplomu ukończenia studiów wraz z suplementem do dyplomu,
-- **3)** świadectwa lub świadectwa i innego dokumentu, o których mowa w art. 93 ust. 1–3 ustawy z dnia 7 września 1991 r. o systemie oświaty,
-- **4)** dokumentu ukończenia formy nauczania, o której mowa w art. 11a ust. 4 pkt 2 lit. f, wydanego przez osobę kierującą organizacją społeczną zarejestrowaną za granicą albo innym podmiotem zagranicznym, prowadzącymi tę formę nauczania – potwierdzających spełnienie warunków otrzymania certyfikatu poświadczającego znajomość języka polskiego na danym poziomie biegłości językowej.
+### Art. 5.
 
-4. W przypadku ukończenia formy kształcenia, o której mowa w art. 11a ust. 4 pkt 2 lit. f, do wniosku o wydanie certyfikatu, o którym mowa w art. 11a ust. 4, dołącza się również kopię albo odwzorowanie cyfrowe zaświadczenia konsula Rzeczypospolitej Polskiej właściwego ze względu na siedzibę organizacji społecznej zarejestrowanej za granicą albo innego podmiotu zagranicznego, prowadzących tę formę nauczania, które potwierdza:
+### 1.
 
-- **1)** prowadzenie przez organizację społeczną zarejestrowaną za granicą lub inny podmiot zagraniczny formy nauczania, o której mowa w art. 11a ust. 4 pkt 2 lit. f, który wydał dokument, o którym mowa w ust. 3 pkt 4;
-- **2)** pobieranie nauki języka polskiego lub innych przedmiotów nauczanych w języku polskim przez osobę, o której mowa w art. 11a ust. 4 pkt 2 lit. f, przez co najmniej 11 lat.
+Podmioty wykonujące zadania publiczne na terytorium Rzeczypospolitej Polskiej dokonują wszelkich czynności urzędowych w języku polskim, chyba że przepisy szczególne stanowią inaczej.
 
-5. Wydanie zaświadczenia, o którym mowa w ust. 4, jest zwolnione z opłat konsularnych.
+### 2.
 
-**Art. 11b.**
+Przepis ust. 1 stosuje się odpowiednio do oświadczeń składanych organom, o których mowa w art. 4.
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki po zasięgnięciu opinii Komisji nadaje, w drodze decyzji administracyjnej, uprawnienie do organizowania egzaminów z języka polskiego jako obcego na określonym poziomie biegłości językowej na wniosek:
+### Art. 6.
 
-- **1)** polskiej albo zagranicznej szkoły wyższej prowadzącej studia w zakresie filologii polskiej;
-- **2)** polskiego albo zagranicznego podmiotu, który od co najmniej trzech lat prowadzi lektoraty lub zajęcia w zakresie nauczania języka polskiego lub języka polskiego jako obcego albo inne zajęcia dydaktyczne w języku polskim.
+Umowy międzynarodowe zawierane przez Rzeczpospolitą Polską powinny mieć polską wersję językową, stanowiącą podstawę wykładni, chyba że przepisy szczególne stanowią inaczej.
 
-2. Uprawnienie do organizowania egzaminu na określonym poziomie biegłości językowej nadaje się na okres dwóch lat.
+### Art. 7.
 
-3. Na wniosek podmiotu uprawnionego do organizowania egzaminu na określonym poziomie biegłości językowej, zwanego dalej „podmiotem uprawnionym”, minister właściwy do spraw szkolnictwa wyższego i nauki może nadawać uprawnienia do organizowania egzaminu na tym poziomie na kolejne okresy niedłuższe niż pięć lat.
+### 1.
 
-4. Listę podmiotów uprawnionych oraz informacje o terminach i miejscach przeprowadzania egzaminów publikuje się w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+Języka polskiego używa się w obrocie prawnym na terytorium Rzeczypospolitej Polskiej pomiędzy podmiotami polskimi oraz gdy jedną ze stron jest podmiot polski. Dotyczy to w szczególności nazewnictwa towarów i usług, ofert, reklamy, instrukcji obsługi, informacji o właściwościach towarów i usług, warunków gwarancji, faktur, rachunków i pokwitowań.
 
-**Art. 11c.** Podmiot uprawniony jest obowiązany do:
+### 2.
 
-**Art. 11d.** Minister właściwy do spraw szkolnictwa wyższego i nauki może na wniosek Komisji cofnąć, w drodze decyzji administracyjnej, uprawnienie do organizowania egzaminu w przypadku:
+Podmiotem polskim w rozumieniu ustawy jest:
 
-**Art. 11e.**
+### 1)
 
-1. W celu przeprowadzenia egzaminu na określonym poziomie biegłości językowej podmiot uprawniony powołuje komisję egzaminacyjną.
+osoba fizyczna mająca miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
 
-2. W skład komisji egzaminacyjnej wchodzi:
+### 2)
 
-- **1)** przewodniczący będący egzaminatorem wpisanym na listę, o której mowa w art. 11f ust. 1;
-- **2)** co najmniej dwóch członków posiadających:
-    - **a)** dyplom ukończenia studiów wyższych w zakresie filologii polskiej ze specjalnością nauczanie języka polskiego jako obcego, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny lub
-    - **b)** dyplom ukończenia studiów wyższych w zakresie filologii polskiej lub neofilologii, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny oraz ukończone studia podyplomowe w zakresie nauczania języka polskiego jako obcego, lub
-    - **c)** dyplom ukończenia studiów wyższych w zakresie neofilologii, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny oraz co najmniej dwuletnie doświadczenie w nauczaniu języka polskiego lub języka polskiego jako obcego.
+osoba prawna lub jednostka organizacyjna nie posiadająca osobowości prawnej - prowadząca działalność na terytorium Rzeczypospolitej Polskiej.
 
-3. W przypadku gdy liczba osób przystępujących do egzaminu na danym poziomie biegłości językowej przekracza dwadzieścia, w skład komisji egzaminacyjnej powołuje się dodatkowego członka na każde rozpoczęte kolejne dziesięć osób.
+### 3.
 
-**Art. 11f.**
+Posługiwanie się w obrocie prawnym na terytorium Rzeczypospolitej Polskiej wyłącznie obcojęzycznymi określeniami, z wyjątkiem nazw własnych, jest zakazane.
 
-1. Komisja prowadzi listę egzaminatorów uprawnionych do sprawowania funkcji przewodniczącego komisji egzaminacyjnej.
+### 4.
 
-2. Na wniosek osoby, która:
+Obcojęzyczne opisy towarów i usług oraz obcojęzyczne oferty i reklamy wprowadzane do obrotu prawnego, o którym mowa w ust. 1, muszą jednocześnie mieć polską wersję językową.
 
-- **1)** posiada dyplom ukończenia studiów wyższych w zakresie filologii polskiej ze specjalnością nauczanie języka polskiego jako obcego, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny lub dyplom ukończenia studiów wyższych w zakresie filologii polskiej lub neofilologii, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny i ukończone studia podyplomowe w zakresie nauczania języka polskiego jako obcego,
-- **2)** posiada co najmniej trzyletnie doświadczenie w nauczaniu języka polskiego jako obcego uzyskane w okresie pięciu lat przed dniem złożenia wniosku,
-- **3)** nie była skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe,
-- **4)** ukończyła szkolenie dla kandydatów na egzaminatorów – Komisja dokonuje wpisu na listę, o której mowa w ust. 1.
+### 5.
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+Kontrolę wykonywania obowiązków, o których mowa w ust. 1, 3 i 4, sprawuje Inspekcja Handlowa oraz Urząd Ochrony Konkurencji i Konsumentów.
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** adres do korespondencji;
-- **4)** numer telefonu;
-- **5)** numer PESEL – a w przypadku jego braku – rodzaj, serię i numer dokumentu potwierdzającego tożsamość;
-- **6)** wskazanie zasięgu terytorialnego działalności.
+### Art. 8.
 
-4. Komisja skreśla egzaminatora z listy, o której mowa w ust. 1:
+### 1.
 
-- **1)** na jego wniosek;
-- **2)** w przypadku skazania prawomocnym wyrokiem za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe;
-- **3)** w przypadku nieusprawiedliwionego niestawiennictwa na egzaminie;
-- **4)** w przypadku naruszenia przez egzaminatora warunków lub trybu przeprowadzania egzaminu mającego wpływ na wynik egzaminu.
+Jeżeli stroną umowy, której wykonanie ma nastąpić na terytorium Rzeczypospolitej Polskiej, jest podmiot polski, umowę sporządza się w języku polskim.
 
-5. Imiona, nazwiska oraz zasięg terytorialny działalności egzaminatorów wpisanych na listę, o której mowa w ust. 1, publikuje się w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+### 2.
 
-**Art. 11g.**
+Umowa sporządzona w języku polskim może mieć wersję lub wersje obcojęzyczne. Jeżeli strony nie postanowiły inaczej, podstawą wykładni takiej umowy jest jej wersja polskojęzyczna.
 
-1. Podmiot uprawniony dokonuje rejestracji osób zamierzających przystąpić do egzaminu.
+### 3.
 
-2. Podmiot uprawniony jest obowiązany do wprowadzenia danych osób zamierzających przystąpić do egzaminu do elektronicznej bazy prowadzonej przez Komisję. Podmiot uprawniony ma dostęp do wprowadzonych przez siebie danych w celu zapewnienia odpowiedniego składu komisji egzaminacyjnych oraz warunków lokalowych odpowiednich do przeprowadzenia egzaminu.
+Do umów zawartych z naruszeniem ust. 1 i 2 stosuje się odpowiednio art. 74 § 1 zdanie pierwsze oraz art. 74 § 2 Kodeksu cywilnego; umowa sporządzona w języku obcym nie stanowi uprawdopodobnienia faktu dokonania czynności prawnej, o którym mowa w art. 74 § 2 Kodeksu cywilnego.
 
-3. W celu dokonania rejestracji przetwarza się następujące dane osób zamierzających przystąpić do egzaminu:
+### Art. 9.
 
-- **1)** imię i nazwisko;
-- **2)** datę urodzenia;
-- **3)** płeć;
-- **4)** adres do korespondencji;
-- **5)** adres poczty elektronicznej, jeżeli osoba zamierzająca przystąpić do egzaminu go posiada.
+Język polski jest językiem nauczania oraz językiem egzaminów i prac dyplomowych w szkołach publicznych i niepublicznych wszystkich typów, w państwowych i niepaństwowych szkołach wyższych oraz w placówkach oświatowych i innych instytucjach edukacyjnych, chyba że przepisy szczególne stanowią inaczej.
 
-4. Warunkiem rejestracji jest uiszczenie podmiotowi uprawnionemu opłaty za przystąpienie do egzaminu.
+### Art. 10.
 
-5. Opłata za przystąpienie do egzaminu nie może być wyższa niż równowartość w walucie kraju, w którym egzamin jest przeprowadzany:
+### 1.
 
-- **1)** 90 euro – w odniesieniu do poziomów A1, A2, B1 i B2 w grupie dostosowanej do potrzeb dzieci i młodzieży;
-- **2)** 120 euro – w odniesieniu do poziomów A1 i A2 w grupie dostosowanej do potrzeb osób dorosłych;
-- **3)** 150 euro – w odniesieniu do poziomów B1 i B2 w grupie dostosowanej do potrzeb osób dorosłych;
-- **4)** 180 euro – w odniesieniu do poziomów C1 i C2 w grupie dostosowanej do potrzeb osób dorosłych.
+Napisy i informacje w urzędach i instytucjach użyteczności publicznej, a także przeznaczone do odbioru publicznego oraz w środkach transportu publicznego sporządza się w języku polskim.
 
-6. Opłata za wydanie certyfikatu osobie, o której mowa w art. 11a ust. 4, stanowi równowartość w złotych 20 euro.
+### 2.
 
-7. Podmiot uprawniony przekazuje Komisji za każdą zarejestrowaną osobę 20 % maksymalnej wysokości opłaty określonej w ust. 5 oraz równowartość w złotych 20 euro za wydanie certyfikatu. Przekazane opłaty stanowią dochód budżetu państwa i podlegają zwrotowi, jeżeli egzamin nie odbył się z przyczyn niezawinionych przez podmiot uprawniony.
+Nazwom i tekstom w języku polskim mogą towarzyszyć wersje w przekładzie na język obcy w wypadkach i granicach określonych w rozporządzeniu ministra właściwego do spraw administracji publicznej.
 
-8. W przypadku uiszczania opłat, o których mowa w ust. 4 i 6, w złotych, równowartość danej kwoty w euro oblicza się przy zastosowaniu średniego kursu euro ogłoszonego przez Narodowy Bank Polski ostatniego dnia miesiąca poprzedzającego miesiąc, w którym opłata jest uiszczana.
+### Art. 11.
 
-9. W przypadku organizowania egzaminu przez podmiot uprawniony za granicą opłaty, o których mowa w ust. 7, są przekazywane w euro.
+Przepisy art. 5-7 oraz art. 9 i art. 10 nie dotyczą:
 
-10. W przypadku odstąpienia podmiotu uprawnionego od przeprowadzenia egzaminu, podmiot uprawniony informuje Komisję oraz osoby zarejestrowane do udziału w tym egzaminie o odstąpieniu od przeprowadzenia egzaminu oraz zwraca opłaty, o których mowa w ust. 4.
+### 1)
 
-11. W przypadku gdy egzamin nie odbył się z przyczyn niezawinionych przez podmiot uprawniony, podmiot ten zwraca opłaty przekazane przez osoby zarejestrowane do udziału w tym egzaminie.
+nazw własnych,
 
-**Art. 11h.**
+### 2)
 
-1. Egzamin jest przeprowadzany w terminie określonym w harmonogramie sesji egzaminacyjnych ustalonym przez Komisję.
+obcojęzycznych dzienników, czasopism, książek oraz programów komputerowych, z wyjątkiem ich opisów i instrukcji,
 
-2. Egzamin jest przeprowadzany po otrzymaniu opłat, o których mowa w art. 11g ust. 7, na podstawie zestawów zadań egzaminacyjnych ustalonych przez Komisję.
+### 3)
 
-3. Egzamin składa się z części pisemnej i części ustnej. Wynik egzaminu jest ustalany na podstawie liczby uzyskanych punktów z części pisemnej i ustnej i przedstawiany jest w procentach w suplemencie do certyfikatu.
+działalności dydaktycznej i naukowej szkół wyższych, szkół i klas z obcym językiem wykładowym lub dwujęzycznych, nauczycielskich kolegiów języków obcych, a także nauczania innych przedmiotów, jeżeli jest to zgodne z przepisami szczególnymi,
 
-4. Osoba, która przystąpiła do egzaminu, może w terminie 21 dni od dnia otrzymania informacji o wyniku egzaminu złożyć do Komisji wniosek o ponowne sprawdzenie części pisemnej egzaminu. Wysokość opłaty za rozpatrzenie wniosku wynosi 20 euro albo równowartość tej kwoty w złotych. Przepis art. 11g ust. 8 stosuje się odpowiednio.
+### 4)
 
-**Art. 11i.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+twórczości naukowej i artystycznej,
 
-**Art. 11j.**
+### 5)
 
-1. W skład Komisji wchodzi czternastu członków powoływanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki na czteroletnią kadencję, w tym:
+zwyczajowo stosowanej terminologii naukowej i technicznej,
 
-- **1)** dziewięciu specjalistów w zakresie nauczania języka polskiego lub języka polskiego jako obcego;
-- **2)** specjalista w zakresie nauczania języka polskiego lub języka polskiego jako obcego zgłoszony przez Radę Języka Polskiego;
-- **3)** po jednym przedstawicielu ministra właściwego do spraw szkolnictwa wyższego i nauki, ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego oraz ministra właściwego do spraw zagranicznych.
+### 6)
 
-2. Członkiem Komisji nie może być osoba skazana prawomocnym wyrokiem za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe.
+znaków towarowych, nazw handlowych oraz oznaczeń pochodzenia towarów i usług.
 
-3. Ta sama osoba nie może sprawować funkcji członka Komisji dłużej niż przez dwie kolejne kadencje.
+### Rozdział 3 Rada Języka Polskiego i jej kompetencje
 
-4. Minister właściwy do spraw szkolnictwa wyższego i nauki odwołuje członka Komisji w przypadku:
+### Art. 12.
 
-- **1)** złożenia przez niego rezygnacji;
-- **2)** skazania prawomocnym wyrokiem za przestępstwo popełnione umyślnie lub umyślne przestępstwo skarbowe;
-- **3)** utraty zdolności do pełnienia obowiązków na skutek długotrwałej choroby trwającej co najmniej 6 miesięcy;
-- **4)** niewypełniania albo nienależytego wypełniania obowiązków.
+### 1.
 
-5. W przypadku konieczności uzupełnienia składu Komisji minister właściwy do spraw szkolnictwa wyższego i nauki powołuje nowego członka Komisji na okres do końca danej kadencji. Przepisy ust. 1 stosuje się odpowiednio. Do sprawowania funkcji członka Komisji przez niepełną kadencję nie stosuje się przepisu ust. 3.
+Instytucją opiniodawczo-doradczą w sprawach używania języka polskiego jest Rada Języka Polskiego, zwana dalej „Radą”, działająca jako komitet problemowy w rozumieniu art. 34 ustawy z dnia 25 kwietnia 1997 r. o Polskiej Akademii Nauk ([Dz. U. Nr 75, poz. 469](https://api.sejm.gov.pl/eli/acts/DU/1997/469/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1999 r. Nr 49, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1999/484/text.html)).
 
-6. Członek Komisji:
+### 2.
 
-- **1)** podlega wyłączeniu z postępowania w sprawie nadania uprawnienia do organizowania egzaminu, w przypadku gdy to postępowanie dotyczy podmiotu, w którym ten członek, jego małżonek, krewny lub powinowaty do drugiego stopnia lub osoba, z którą ten członek pozostaje faktycznie we wspólnym pożyciu, są zatrudnieni albo pozostają z tym podmiotem w takim stosunku prawnym, że wynik postępowania może mieć wpływ na prawa i obowiązki tych osób;
-- **2)** nie może pełnić funkcji wizytatora.
+Nie rzadziej niż co dwa lata Rada przedstawia Sejmowi i Senatowi sprawozdanie o stanie ochrony języka polskiego w rozumieniu art. 3.
 
-7. Przewodniczącemu i sekretarzowi Komisji przysługuje miesięczne wynagrodzenie. Pozostałym członkom Komisji przysługuje wynagrodzenie za udział w posiedzeniach Komisji.
+### Art. 13.
 
-8. Wynagrodzenie:
+### 1.
 
-- **1)** miesięczne przewodniczącego i sekretarza Komisji nie może być wyższe niż 50 %,
-- **2)** za udział w posiedzeniach pozostałych członków Komisji nie może być wyższe niż 15 % – stawki minimalnego miesięcznego wynagrodzenia zasadniczego przewidzianego dla stanowiska profesora w uczelni publicznej, o której mowa w ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ).
+Rada, na wniosek ministra właściwego do spraw kultury, ministra właściwego do spraw oświaty i wychowania, Prezesa Polskiej Akademii Nauk lub z własnej inicjatywy wyraża, w drodze uchwały, opinie o używaniu języka polskiego w działalności publicznej i obrocie prawnym oraz ustala zasady ortografii i interpunkcji języka polskiego.
 
-9. Wynagrodzenie nie przysługuje członkom Komisji będącym członkami korpusu służby cywilnej, którzy sprawują funkcję członka Komisji w ramach obowiązków służbowych.
+### 2.
 
-10. Członkom Komisji przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
+Towarzystwa naukowe, stowarzyszenia twórców i szkoły wyższe mogą zwracać się do Rady w sprawach używania języka polskiego.
 
-**Art. 11k.**
+### Art. 14.
 
-1. Do zadań Komisji należy koordynowanie i zapewnienie prawidłowego funkcjonowania systemu poświadczania znajomości języka polskiego jako obcego, w tym:
+### 1.
 
-- **1)** opiniowanie wniosków o nadanie uprawnień do organizowania egzaminów;
-- **2)** występowanie do ministra właściwego do spraw szkolnictwa wyższego i nauki z wnioskiem o cofnięcie uprawnień do organizowania egzaminów;
-- **3)** dokonywanie wpisów na listę egzaminatorów, o której mowa w art. 11f ust. 1;
-- **4)** organizowanie szkoleń dla kandydatów ubiegających się o wpis na listę egzaminatorów, o której mowa w art. 11f ust. 1;
-- **5)** ustalanie harmonogramu sesji egzaminacyjnych;
-- **6)** ustalanie zestawów zadań egzaminacyjnych;
-- **7)** badanie prawidłowości oceny prac egzaminacyjnych dokonanej przez członków komisji egzaminacyjnych;
-- **8)** nadzór nad zapewnieniem prawidłowego przebiegu egzaminów, w tym ocena przebiegu egzaminów i działalności komisji egzaminacyjnych, oraz zapewnienie wizytacji egzaminów;
-- **9)** wydawanie certyfikatów;
-- **10)** dokonywanie okresowej analizy funkcjonowania systemu poświadczania znajomości języka polskiego jako obcego i formułowanie dla ministra właściwego do spraw szkolnictwa wyższego i nauki rekomendacji – z własnej inicjatywy albo na wniosek tego ministra;
-- **11)** rozpatrywanie wniosków o ponowne sprawdzenie części pisemnej egzaminu.
+Każdy organ, o którym mowa w art. 4, może zasięgnąć opinii Rady w wypadku wystąpienia w toku czynności urzędowych istotnych wątpliwości dotyczących użycia języka polskiego.
 
-2. Komisja przeprowadza szkolenia dla osób ubiegających się o wpis na listę egzaminatorów, o której mowa w art. 11f ust. 1. Szkolenie może zostać przeprowadzone z wykorzystaniem metod i technik kształcenia na odległość.
+### 2.
 
-3. Działalność Komisji jest finansowana z części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego i nauki.
+Producent, importer oraz dystrybutor towaru lub usługi, dla których w języku polskim brak jest odpowiedniej nazwy, może wystąpić z wnioskiem do Rady o udzielenie opinii co do odpowiedniej formy językowej dla oznaczenia tego towaru lub usługi.
 
-**Art. 11l.**
+### Rozdział 4 Przepisy karne
 
-1. Komisja może zlecić wizytację egzaminu, która obejmuje weryfikację prawidłowości przeprowadzenia egzaminu, w tym zabezpieczenia zestawów zadań egzaminacyjnych przed dostępem osób nieuprawnionych, zapewnienia niezbędnych do przeprowadzenia egzaminu warunków lokalowych i technicznych, warunków oceniania prac egzaminacyjnych i pracy komisji egzaminacyjnej, oraz weryfikację realizacji zaleceń wydanych przez Komisję.
+### Art. 15.
 
-2. Wizytatorem może być osoba, która posiada dyplom ukończenia studiów wyższych w zakresie filologii polskiej ze specjalnością nauczanie języka polskiego jako obcego, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny albo dyplom ukończenia studiów wyższych w zakresie filologii polskiej lub neofilologii, potwierdzający uzyskanie kwalifikacji drugiego stopnia, lub równorzędny i ukończone studia podyplomowe w zakresie nauczania języka polskiego jako obcego.
+### 1.
 
-3. Komisja może przeprowadzać szkolenia dla wizytatorów. Szkolenia mogą zostać przeprowadzone z wykorzystaniem metod i technik kształcenia na odległość.
+Kto w obrocie prawnym na terytorium Rzeczypospolitej Polskiej stosuje wyłącznie obcojęzyczne nazewnictwo towarów i usług, ofert, reklam, instrukcji obsługi, informacji o właściwościach towarów i usług, warunków gwarancji, faktur, rachunków i pokwitowań, z pominięciem polskiej wersji językowej, podlega karze grzywny.
 
-4. Wizytator jest uprawniony do:
+### 2.
 
-- **1)** wizytowania pomieszczeń, w których są przeprowadzane egzaminy;
-- **2)** obserwowania przebiegu egzaminów, w tym pracy członków komisji egzaminacyjnej;
-- **3)** przerwania egzaminu w przypadku naruszenia przez przewodniczącego, członków komisji egzaminacyjnej lub przez osoby przystępujące do egzaminu warunków lub trybu przeprowadzania egzaminu, mogącego mieć wpływ na wynik tego egzaminu;
-- **4)** żądania informacji, wyjaśnień i udostępnienia dokumentacji związanych z przeprowadzanym egzaminem.
+W razie ukarania za wykroczenia, o których mowa w ust. 1, można orzec nawiązkę nie wyższą niż 100 000 złotych z przeznaczeniem na Fundusz Promocji Twórczości, ustanowiony na podstawie art. 111 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ([Dz. U. Nr 24, poz. 83](https://api.sejm.gov.pl/eli/acts/DU/1994/83/text.html) i [Nr 43, poz. 170](https://api.sejm.gov.pl/eli/acts/DU/1994/170/text.html) oraz z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html) i [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)).
 
-5. Z wizytacji jest sporządzany protokół, zawierający:
+### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
 
-- **1)** imiona i nazwiska osób przeprowadzających wizytację;
-- **2)** imiona i nazwiska członków komisji egzaminacyjnej;
-- **3)** oznaczenie podmiotu uprawnionego i jego adres;
-- **4)** opis przebiegu egzaminu, w tym stwierdzonych nieprawidłowości, a także wnioski i rekomendacje w tym zakresie;
-- **5)** datę rozpoczęcia i zakończenia wizytacji;
-- **6)** datę i miejsce sporządzenia protokołu.
+### Art. 16.
 
-6. Wizytator przedstawia protokół wizytacji podmiotowi uprawnionemu oraz Komisji w terminie niedłuższym niż 14 dni od dnia wizytacji.
+W ustawie z dnia 26 stycznia 1984 r. - Prawo prasowe ([Dz. U. Nr 5, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1984/24/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 34, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1989/187/text.html), z [1990 r. Nr 29, poz. 173](https://api.sejm.gov.pl/eli/acts/DU/1990/173/text.html), z [1991 r. Nr 100, poz. 442](https://api.sejm.gov.pl/eli/acts/DU/1991/442/text.html), z [1996 r. Nr 114, poz. 542](https://api.sejm.gov.pl/eli/acts/DU/1996/542/text.html) oraz z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)) wprowadza się następujące zmiany:
 
-7. Na podstawie protokołu wizytacji Komisja może wydać podmiotowi uprawnionemu zalecenia, które ten podmiot jest obowiązany wykonać.
+### 1)
 
-**Art. 11m.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+w art. 12 w ust. 1 w pkt 2 kropkę na końcu zastępuje się przecinkiem oraz dodaje pkt 3 w brzmieniu:
 
-#### Rozdział 3 Rada Języka Polskiego i jej kompetencje
+„
 
-**Art. 12.**
+### 3)
 
-1. Instytucją opiniodawczo-doradczą w sprawach używania języka polskiego jest Rada Języka Polskiego, zwana dalej „Radą”, działająca jako komitet problemowy w rozumieniu art. 34 ustawy z dnia 25 kwietnia 1997 r. o Polskiej Akademii Nauk (Dz. U. poz. 469, z późn. zm. ) .
+dbać o poprawność języka i unikać używania wulgaryzmów.
 
-2. Nierzadziej niż co dwa lata Rada przedstawia Sejmowi i Senatowi sprawozdanie o stanie ochrony języka polskiego w rozumieniu art. 3.
+” ;
 
-**Art. 13.**
+### 2)
 
-1. Rada, na wniosek ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw oświaty i wychowania, ministra właściwego do spraw szkolnictwa wyższego i nauki, Prezesa Urzędu Ochrony Konkurencji i Konsumentów, Prezesa Polskiej Akademii Nauk lub z własnej inicjatywy, wyraża, w drodze uchwały, opinie o używaniu języka polskiego w działalności publicznej oraz w obrocie na terytorium Rzeczypospolitej Polskiej z udziałem konsumentów i przy wykonywaniu na terytorium Rzeczypospolitej Polskiej przepisów z zakresu prawa pracy oraz ustala zasady ortografii i interpunkcji języka polskiego.
+w art. 25 w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Jest również obowiązany do dbania o poprawność języka materiałów prasowych oraz przeciwdziałania jego wulgaryzacji. ”
 
-2. Towarzystwa naukowe, stowarzyszenia twórców i szkoły wyższe mogą zwracać się do Rady w sprawach używania języka polskiego.
+### Art. 17.
 
-**Art. 14.**
+W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji ([Dz. U. z 1993 r. Nr 7, poz. 34](https://api.sejm.gov.pl/eli/acts/DU/1993/34/text.html), z [1995 r. Nr 66, poz. 335](https://api.sejm.gov.pl/eli/acts/DU/1995/335/text.html) i [Nr 142, poz. 701](https://api.sejm.gov.pl/eli/acts/DU/1995/701/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)) wprowadza się następujące zmiany:
 
-1. Każdy organ, o którym mowa w art. 4, może zasięgnąć opinii Rady w wypadku wystąpienia w toku czynności urzędowych istotnych wątpliwości dotyczących użycia języka polskiego.
+### 1)
 
-2. Producent, importer oraz dystrybutor towaru lub usługi, dla których w języku polskim brak jest odpowiedniej nazwy, może wystąpić z wnioskiem do Rady o udzielenie opinii co do odpowiedniej formy językowej dla oznaczenia tego towaru lub usługi.
+w art. 18 dodaje się ust. 5 w brzmieniu:
 
-#### Rozdział 4 Przepisy karne
+„
 
-**Art. 15.**
+### 5.
 
-1. Kto na terytorium Rzeczypospolitej Polskiej, wbrew przepisom art. 7a, w obrocie z udziałem konsumentów stosuje wyłącznie obcojęzyczne nazewnictwo towarów lub usług albo sporządza wyłącznie w języku obcym oferty, ostrzeżenia i informacje dla konsumentów wymagane na podstawie innych przepisów, instrukcje obsługi, informacje o właściwościach towarów lub usług, warunki gwarancji, faktury, rachunki lub pokwitowania, podlega karze grzywny.
+Nadawcy dbają o poprawność języka swoich programów i przeciwdziałają jego wulgaryzacji.
 
-2. Tej samej karze podlega, kto na terytorium Rzeczypospolitej Polskiej, wbrew przepisom art. 7 i art. 8, w obrocie lub przy wykonywaniu przepisów z zakresu prawa pracy sporządza umowę lub inny dokument wyłącznie w języku obcym.
+” ;
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
+### 2)
 
-**Art. 16.** (pominięty)
+w art. 21 w ust. 1 dodaje się pkt 6a w brzmieniu:
 
-**Art. 17.** (pominięty)
+„
 
-**Art. 18.** Traci moc dekret z dnia 30 listopada 1945 r. o języku państwowym i języku urzędowania rządowych i samorządowych władz administracyjnych (Dz. U. poz. 324).
+### 6a)
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+upowszechnianie wiedzy o języku polskim,
 
+” .
+
+### Art. 18.
+
+Traci moc dekret z dnia 30 listopada 1945 r. o języku państwowym i języku urzędowania rządowych i samorządowych władz administracyjnych ([Dz. U. Nr 57, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1945/324/text.html)).
+
+### Art. 19.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.

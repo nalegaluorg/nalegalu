@@ -8,11 +8,9 @@ pos: 664
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 11 maja 2012 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw
-
-*USTAWA dnia 11 maja 2012 o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin niektórych innych ustaw*
+# Ustawa z dnia 11 maja 2012 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 16 marca 2001 r. o Biurze Ochrony Rządu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym oraz ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,168 +22,514 @@ domain: null
 | Data ogłoszenia | 2012-05-11 |
 | Data wydania | 2012-06-14 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/664/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/664/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/664) |
 
-**Art. 1.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 2004 8, 66, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 18a.**
+### Art. 1.
 
-1. Żołnierzowi powołanemu po raz pierwszy po dniu 31 grudnia 2012 do zawodowej służby wojskowej lub służby kandydackiej emerytura przysługuje na zasadach wysokości określonych niniejszym rozdziale.
+W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2004 r. Nr 8, poz. 66](https://api.sejm.gov.pl/eli/acts/DU/2004/66/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130.](#gloss-0:2:))wprowadza się następujące zmiany:
 
-2. Przepisu ust. 1 nie stosuje się do żołnierza:
+### 1)
 
-- **1)** pełniącego służbę kandydacką dniu 1 stycznia 2013 r., przypadku powołania do zawodowej służby wojskowej bezpośrednio po ukończeniu służby kandydackiej;
-- **2)** powołanego do zawodowej służby wojskowej po dniu 31 grudnia 2012 r., jeżeli przed tym powołaniem pełnił służbę Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, do której został powołany przed dniem 1 stycznia 2013
+w dziale II po rozdziale 1 dodaje się rozdziały 1a i 1b w brzmieniu:
 
-**Art. 18b.**
+„
 
-1. Emerytura przysługuje żołnierzowi zwolnionemu zawodowej służby wojskowej, który dniu zwolnienia posiada ukończone 55 lat życia co najmniej 25 lat służby wojskowej Wojsku Polskim.
+### Rozdział 1a Emerytura żołnierzy powołanych do zawodowej służby wojskowej po raz pierwszy po dniu 31 grudnia 2012 r.
 
-2. Do okresów służby wojskowej, od których jest uzależnione nabycie prawa do emerytury, nie zalicza się okresu, o którym mowa art. 20 ust. 1a ustawy dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych.
+### Art. 18a.
 
-3. Jako równorzędne ze służbą wojskową traktuje się okresy służby uwzględniane przy ustalaniu prawa do emerytury policyjnej.
+### 1.
 
-4. Do wysługi emerytalnej zalicza się również okresy pozbawienia wolności odbywania kary pozbawienia wolności kary aresztu wojskowego, przypadku gdy żołnierz został uniewinniony albo postępowanie karne zostało umorzone, tym również warunkowo, a także okresy, czasie których żołnierz nie pełnił służby wskutek wymierzonej mu kary dyscyplinarnej usunięcia zawodowej służby wojskowej – jeżeli następnie została ona uchylona.
+Żołnierzowi powołanemu po raz pierwszy po dniu 31 grudnia 2012 r. do zawodowej służby wojskowej lub służby kandydackiej emerytura przysługuje na zasadach i w wysokości określonych w niniejszym rozdziale.
 
-**Art. 18c.** Do okresów służby, od których jest uzależnione nabycie prawa do emerytury lub dalszych okresów służby, za które wzrasta podstawa wymiaru emerytury, zalicza się okres urlopu wychowawczego, udzielonego trakcie pełnienia służby, wymiarze łącznym nie większym niż 3 lata.
+### 2.
 
-**Art. 18d.**
+Przepisu ust. 1 nie stosuje się do żołnierza:
 
-1. Żołnierz, który dniu zwolnienia zawodowej służby wojskowej osiągnął staż służby 25 lat, ale nie osiągnął wieku 55 lat życia, nabywa prawo do emerytury dniu osiągnięcia tego wieku, przypadku gdy zwolnienie ze służby nastąpiło przyczyn określonych art. 111 pkt 3, pkt 9 lit. b, pkt 10 lub art. 112 ust. 1 pkt 3 5 ustawy dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych.
+### 1)
 
-2. W przypadku, o którym mowa ust. 1, okresów służby żołnierza nie uważa się za okresy składkowe nie przekazuje się składek na ubezpieczenia emerytalne rentowe za ten okres, przewidzianych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ).
+pełniącego służbę kandydacką w dniu 1 stycznia 2013 r., w przypadku powołania do zawodowej służby wojskowej bezpośrednio po ukończeniu służby kandydackiej;
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli żołnierz wystąpił wnioskiem o zaliczenie okresów służby jako okresów składkowych albo jeżeli śmierć żołnierza nastąpiła przed dniem nabycia prawa do emerytury. by.
+### 2)
 
-2. Emeryturę podwyższa się o 0,5% podstawy jej wymiaru za każdy rozpoczęty miesiąc pełnienia służby na froncie czasie wojny strefie działań wojennych.
+powołanego do zawodowej służby wojskowej po dniu 31 grudnia 2012 r., jeżeli przed tym powołaniem pełnił służbę w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, do której został powołany przed dniem 1 stycznia 2013 r.
 
-3. Przy ustalaniu prawa do emerytury obliczaniu jej wysokości okresy, o których mowa ust. 1 art. 18c, ustala się uwzględnieniem pełnych miesięcy.
+### Art. 18b.
 
-**Art. 18f.**
+### 1.
 
-1. Podstawę wymiaru emerytury stanowi średnie uposażenie żołnierza należne przez okres kolejnych 10 lat kalendarzowych, wybranych przez żołnierza.
+Emerytura przysługuje żołnierzowi zwolnionemu z zawodowej służby wojskowej, który w dniu zwolnienia posiada ukończone 55 lat życia i co najmniej 25 lat służby wojskowej w Wojsku Polskim.
 
-2. W przypadku niewskazania przez żołnierza kolejnych lat kalendarzowych podstawę wymiaru emerytury stanowi średnie uposażenie żołnierza należne przez okres kolejnych 10 lat kalendarzowych, poprzedzających rok zwolnienia ze służby.
+### 2.
 
-3. Do ustalenia podstawy wymiaru emerytury nie stosuje się przepisu art. 80 ust. 5b ustawy dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych.
+Do okresów służby wojskowej, od których jest uzależnione nabycie prawa do emerytury, nie zalicza się okresu, o którym mowa w art. 20 ust. 1a ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych.
 
-4. W celu ustalenia podstawy wymiaru emerytury:
+### 3.
 
-- **1)** oblicza się sumę kwot uposażeń należnych żołnierzowi okresie każdego roku wybranych przez niego lat kalendarzowych;
-- **2)** oblicza się stosunek każdej tych sum kwot do rocznej kwoty przeciętnego uposażenia, o którym mowa art. 71 ust. 2 ustawy dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych, obowiązującego danym roku kalendarzowym wyrażając go procentach, zaokrągleniem do setnych części procentu;
-- **3)** oblicza się średnią arytmetyczną tych procentów, która stanowi wskaźnik wysokości podstawy wymiaru emerytury;
-- **4)** wskaźnik, o którym mowa pkt 3, mnoży się przez kwotę przeciętnego uposażenia obowiązującego dniu zwolnienia żołnierza zawodowej służby wojskowej.
+Jako równorzędne ze służbą wojskową traktuje się okresy służby uwzględniane przy ustalaniu prawa do emerytury policyjnej.
 
-5. W przypadku żołnierza, o którym mowa art. 18d, wskaźnik wysokości podstawy wymiaru emerytury, obliczony sposób określony ust. 4 pkt 1–3, mnoży się przez kwotę przeciętnego uposażenia żołnierza zawodowego, obowiązującego dniu osiągnięcia przez niego 55 roku życia.
+### 4.
 
-6. W przypadku gdy żołnierz ciągu roku, o którym mowa ust. 4 pkt 1, pełnił również inną służbę uwzględnianą przy ustalaniu prawa do emerytury policyjnej, stosunek, o którym mowa ust. 4 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby.
+Do wysługi emerytalnej zalicza się również okresy pozbawienia wolności i odbywania kary pozbawienia wolności oraz kary aresztu wojskowego, w przypadku gdy żołnierz został uniewinniony albo postępowanie karne zostało umorzone, w tym również warunkowo, a także okresy, w czasie których żołnierz nie pełnił służby wskutek wymierzonej mu kary dyscyplinarnej usunięcia z zawodowej służby wojskowej - jeżeli następnie została ona uchylona.
 
-**Art. 18g.**
+### Art. 18c.
 
-1. Okres pełnienia czynnej służby wojskowej ramach Narodowych Sił Rezerwowych dolicza się, na wniosek żołnierza rezerwy uprawnionego do emerytury, do wysługi emerytalnej. ten był krótszy niż rok to wskaźnik ten przelicza się proporcjonalnie za każdy dzień tej służby.
+Do okresów służby, od których jest uzależnione nabycie prawa do emerytury lub dalszych okresów służby, za które wzrasta podstawa wymiaru emerytury, zalicza się okres urlopu wychowawczego, udzielonego w trakcie pełnienia służby, w wymiarze łącznym nie większym niż 3 lata.
 
-3. Okresy, o których mowa ust. 2, dolicza się do wysługi emerytalnej, jeżeli emerytura wynosi mniej niż 75% podstawy jej wymiaru.
+### Art. 18d.
 
-4. Ponowne ustalenie wysokości emerytury przez doliczenie nieuwzględnionych dotychczas wymiarze świadczenia okresów, o których mowa ust. 2, następuje na wniosek zgłoszony nie wcześniej niż po zakończeniu kwartału kalendarzowego, którym nastąpiło zwolnienie żołnierza czynnej służby wojskowej.
+### 1.
 
-**Art. 18h.**
+Żołnierz, który w dniu zwolnienia z zawodowej służby wojskowej osiągnął staż służby 25 lat, ale nie osiągnął wieku 55 lat życia, nabywa prawo do emerytury w dniu osiągnięcia tego wieku, w przypadku gdy zwolnienie ze służby nastąpiło z przyczyn określonych w art. 111 pkt 3, pkt 9 lit. b, pkt 10 lub art. 112 ust. 1 pkt 3 i 5 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych.
 
-1. Kwota emerytury bez uwzględnienia dodatków, zasiłków świadczeń pieniężnych, o których mowa art. 25, nie może przekroczyć 75% podstawy jej wymiaru.
+### 2.
 
-2. Przepisy art. 18 ust. 2 3 stosuje się odpowiednio.
+W przypadku, o którym mowa w ust. 1, okresów służby żołnierza nie uważa się za okresy składkowe oraz nie przekazuje się składek na ubezpieczenia emerytalne i rentowe za ten okres, przewidzianych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2009 r. Nr 205, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2009/1585/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637.](#gloss-0:3:)).
 
-#### Rozdział 1b Prawo wyboru emerytury
+### 3.
 
-**Art. 18i.**
+Przepisu ust. 2 nie stosuje się, jeżeli żołnierz wystąpił z wnioskiem o zaliczenie okresów służby jako okresów składkowych albo jeżeli śmierć żołnierza nastąpiła przed dniem nabycia prawa do emerytury.
 
-1. Żołnierz, który został powołany po raz pierwszy przed dniem 1 stycznia 2013 do zawodowej służby wojskowej lub służby kandydackiej lub innej służby uwzględnianej przy ustalaniu prawa do emerytury policyjnej, ma prawo wyboru ustalenia emerytury na zasadach wysokości określonych rozdziale 1a.
+### Art. 18e.
 
-2. Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.”;
+### 1.
 
-- **2)** art. 32a otrzymuje brzmienie: „Art. 32a. Jeżeli po dniu, od którego przyznano emeryturę wojskową określoną art. 12 albo art. 18b ust. 1, emeryt ponownie został powołany do zawodowej służby wojskowej albo został przyjęty do służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, wysokość emerytury zostaje ponownie ustalona sposób określony art. 32b 32c.”;
-- **3)** art. 32b ust. 1 otrzymuje brzmienie: „1. W przypadku ponownego powołania emeryta do zawodowej służby wojskowej pełnienia tej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, sposób określony odpowiednio art. 5 ust. 1 albo art. 18f.”;
-- **4)** art. 32c zdanie drugie otrzymuje brzmienie: „Przepisy art. 15 15a albo art. 18f stosuje się odpowiednio.”. wywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin (Dz. U. 2004 8, 67, późn. zm. ) wprowadza się następujące zmiany:
-- **1)** dziale II po rozdziale 1 dodaje się rozdziały 1a 1b brzmieniu: „Rozdział 1a Emerytura funkcjonariusza przyjętego do służby po raz pierwszy po dniu 31 grudnia 2012
+Emerytura dla żołnierza wynosi 60% podstawy jej wymiaru za 25 lat służby wojskowej i wzrasta o 3% za każdy dalszy rok tej służby.
 
-**Art. 18a.**
+### 2.
 
-1. Funkcjonariuszowi przyjętemu po raz pierwszy po dniu 31 grudnia 2012 do służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej emerytura przysługuje na zasadach wysokości określonych niniejszym rozdziale.
+Emeryturę podwyższa się o 0,5% podstawy jej wymiaru za każdy rozpoczęty miesiąc pełnienia służby na froncie w czasie wojny oraz w strefie działań wojennych.
 
-2. Przepisu ust. 1 nie stosuje się do funkcjonariusza przyjętego do służby po dniu 31 grudnia 2012 r., jeżeli przed tym przyjęciem:
+### 3.
 
-- **1)** pełnił służbę Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, do której został przyjęty przed dniem 1 stycznia 2013 r.;
-- **2)** pełnił zawodową służbę wojskową lub służbę kandydacką, do której został powołany przed dniem 1 stycznia 2013
+Przy ustalaniu prawa do emerytury i obliczaniu jej wysokości okresy, o których mowa w ust. 1 i w art. 18c, ustala się z uwzględnieniem pełnych miesięcy.
 
-**Art. 18b.**
+### Art. 18f.
 
-1. Emerytura przysługuje funkcjonariuszowi zwolnionemu ze służby, który dniu zwolnienia posiada ukończone 55 lat życia co najmniej 25 lat służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej.
+### 1.
 
-2. Jako równorzędny ze służbą traktuje się okres służby wojskowej uwzględniany przy ustalaniu prawa do emerytury wojskowej.
+Podstawę wymiaru emerytury stanowi średnie uposażenie żołnierza należne przez okres kolejnych 10 lat kalendarzowych, wybranych przez żołnierza.
 
-3. Do wysługi emerytalnej zalicza się również okresy, o których mowa art. 16 ust. 2.
+### 2.
 
-**Art. 18c.** Do okresów służby, od których uzależnione jest nabycie prawa do emerytury lub dalszych okresów służby, za które wzrasta podstawa wymiaru emerytury, zalicza się okres urlopu wychowawczeArt. 18d. 1. Funkcjonariusz, który dniu zwolnienia ze służby osiągnął staż służby 25 lat, ale nie osiągnął wieku 55 lat życia, nabywa prawo do emerytury dniu osiągnięcia tego wieku, przypadku gdy zwolnienie ze służby nastąpiło przyczyn określonych w:
+W przypadku niewskazania przez żołnierza kolejnych lat kalendarzowych podstawę wymiaru emerytury stanowi średnie uposażenie żołnierza należne przez okres kolejnych 10 lat kalendarzowych, poprzedzających rok zwolnienia ze służby.
 
-**Art. 18e.**
+### 3.
 
-1. Emerytura dla funkcjonariusza wynosi 60% podstawy jej wymiaru za 25 lat służby wzrasta o 3% za każdy dalszy rok tej służby.
+Do ustalenia podstawy wymiaru emerytury nie stosuje się przepisu art. 80 ust. 5b ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych.
 
-2. Emeryturę podwyższa się o 0,5% podstawy jej wymiaru za każdy rozpoczęty miesiąc pełnienia służby na froncie czasie wojny strefie działań wojennych.
+### 4.
 
-3. Przy ustalaniu prawa do emerytury obliczaniu jej wysokości okresy, o których mowa ust. 1 art. 18c, ustala się uwzględnieniem pełnych miesięcy.
+W celu ustalenia podstawy wymiaru emerytury:
 
-**Art. 18f.**
+### 1)
 
-1. Podstawę wymiaru emerytury stanowi średnie uposażenie funkcjonariusza należne przez okres kolejnych 10 lat kalendarzowych, wybranych przez funkcjonariusza.
+oblicza się sumę kwot uposażeń należnych żołnierzowi w okresie każdego roku z wybranych przez niego lat kalendarzowych;
 
-2. W przypadku niewskazania przez funkcjonariusza kolejnych lat kalendarzowych podstawę wymiaru emerytury stanowi średnie uposażenie funkcjonariusza należne przez okres kolejnych 10 lat kalendarzowych, poprzedzających rok zwolnienia ze służby.
+### 2)
 
-3. W celu ustalenia podstawy wymiaru emerytury:
+oblicza się stosunek każdej z tych sum kwot do rocznej kwoty przeciętnego uposażenia, o którym mowa w art. 71 ust. 2 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych, obowiązującego w danym roku kalendarzowym wyrażając go w procentach, z zaokrągleniem do setnych części procentu;
 
-- **1)** oblicza się sumę kwot uposażeń należnych funkcjonariuszowi okresie każdego roku wybranych przez niego lat kalendarzowych;
-- **2)** oblicza się stosunek każdej tych sum kwot do rocznej kwoty przeciętnego uposażenia funkcjonariuszy obowiązującego danym roku kalendarzowym wyrażając go procentach, zaokrągleniem do setnych części procentu;
-- **3)** oblicza się średnią arytmetyczną tych procentów, która stanowi wskaźnik wysokości podstawy wymiaru emerytury;
-- **4)** wskaźnik, o którym mowa pkt 3, mnoży się przez kwotę przeciętnego uposażenia obowiązującego dniu zwolnienia funkcjonariusza ze służby.
+### 3)
 
-4. W przypadku funkcjonariusza, o którym mowa art. 18d, wskaźnik wysokości podstawy wymiaru emerytury, obliczony sposób określony ust. 3 pkt 1–3, mnoży się przez kwotę przeciętnego uposażenia funkcjonariuszy obowiązującego dniu osiągnięcia przez tego funkcjonariusza 55 roku życia. niu prawa do emerytury lub emerytury wojskowej, stosunek, o którym mowa ust. 3 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby.
+oblicza się średnią arytmetyczną tych procentów, która stanowi wskaźnik wysokości podstawy wymiaru emerytury;
 
-**Art. 18g.**
+### 4)
 
-1. Kwota emerytury bez uwzględnienia dodatków, zasiłków świadczeń pieniężnych, o których mowa art. 25, nie może przekroczyć 75% podstawy jej wymiaru.
+wskaźnik, o którym mowa w pkt 3, mnoży się przez kwotę przeciętnego uposażenia obowiązującego w dniu zwolnienia żołnierza z zawodowej służby wojskowej.
 
-2. Przepisy art. 18 ust. 2 3 stosuje się odpowiednio.
+### 5.
 
-#### Rozdział 1b Prawo wyboru emerytury
+W przypadku żołnierza, o którym mowa w art. 18d, wskaźnik wysokości podstawy wymiaru emerytury, obliczony w sposób określony w ust. 4 pkt 1-3, mnoży się przez kwotę przeciętnego uposażenia żołnierza zawodowego, obowiązującego w dniu osiągnięcia przez niego 55 roku życia.
 
-**Art. 18h.**
+### 6.
 
-1. Funkcjonariusz, który został przyjęty po raz pierwszy przed dniem 1 stycznia 2013 do służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej lub do zawodowej służby wojskowej, ma prawo wyboru ustalenia emerytury na zasadach wysokości określonych rozdziale 1a.
+W przypadku gdy żołnierz w ciągu roku, o którym mowa w ust. 4 pkt 1, pełnił również inną służbę uwzględnianą przy ustalaniu prawa do emerytury policyjnej, stosunek, o którym mowa w ust. 4 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby.
 
-2. W przypadku funkcjonariusza, który dokonał wyboru, o którym mowa ust. 1, do wysługi emerytalnej dolicza się okresy równorzędne ze służbą określone art. 13 ust. 1.
+### Art. 18g.
 
-3. W przypadku osoby, która pełniła służbę organach bezpieczeństwa państwa, o których mowa art. 2 ustawy dnia 18 października 2006 o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa lat 1944–1990 treści tych dokumentów, przepis art. 15b ust. 1 pkt 1 stosuje się.
+### 1.
 
-4. Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.”;
+Okres pełnienia czynnej służby wojskowej w ramach Narodowych Sił Rezerwowych dolicza się, na wniosek żołnierza rezerwy uprawnionego do emerytury, do wysługi emerytalnej.
 
-- **2)** art. 33a otrzymuje brzmienie: „Art. 33a. Jeżeli po dniu, od którego przyznano emeryturę określoną art. 12 albo art. 18b ust. 1, emeryt ponownie został przyjęty do służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej albo został powołany do zawodowej służby wojskowej, wysokość emerytury zostaje ponownie ustalona sposób określony art. 33b 33c.”;
-- **3)** art. 33b ust. 1 otrzymuje brzmienie: „1. W przypadku ponownego przyjęcia emeryta do służby Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży
-- **4)** art. 33c zdanie drugie otrzymuje brzmienie: „Przepisy art. 15 15a albo art. 18f stosuje się odpowiednio.”.
+### 2.
 
-**Art. 3.** W ustawie dnia 6 kwietnia 1990 o Policji (Dz. U. 2011 287, 1687, 217, 1280 230, 1371 2012 627) wprowadza się następujące zmiany:
+Doliczenie, o którym mowa w ust. 1, następuje w ten sposób, że emerytura żołnierza wzrasta o wskaźnik 3% dotychczasowej podstawy jej wymiaru za każdy rok pełnienia czynnej służby wojskowej w ramach Narodowych Sił Rezerwowych, a jeżeli okres ten był krótszy niż rok to wskaźnik ten przelicza się proporcjonalnie za każdy dzień tej służby.
 
-**Art. 4.** W ustawie dnia 12 października 1990 o Straży Granicznej (Dz. U. 2011 116, 675, późn. zm. ) wprowadza się następujące zmiany:
+### 3.
 
-**Art. 5.** W ustawie dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. U. 2009 12, 68, późn. zm. ) wprowadza się następujące zmiany:
+Okresy, o których mowa w ust. 2, dolicza się do wysługi emerytalnej, jeżeli emerytura wynosi mniej niż 75% podstawy jej wymiaru.
 
-**Art. 6.** W ustawie dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2009 153, 1227, późn. zm. ) art. 95 ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 stosuje się również, uwzględnieniem art. 96, razie zbiegu prawa do emerytury lub renty określonych ustawie prawem do świadczeń przewidzianych przepisach o zaopatrzeniu emerytalnym osób, o których mowa art. 2 ust. 2, wyjątkiem przypadku, gdy emerytura wojskowa lub policyjna została obliczona według zasad określonych art. 15a albo art. 18e ustawy dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin lub art. 15a lub art. 18e ustawy dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin.”.
+### 4.
 
-**Art. 7.** W ustawie dnia 16 marca 2001 o Biurze Ochrony Rządu (Dz. U. 2004 163, 1712, późn. zm. ) uchyla się art. 62.
+Ponowne ustalenie wysokości emerytury przez doliczenie nieuwzględnionych dotychczas w wymiarze świadczenia okresów, o których mowa w ust. 2, następuje na wniosek zgłoszony nie wcześniej niż po zakończeniu kwartału kalendarzowego, w którym nastąpiło zwolnienie żołnierza z czynnej służby wojskowej.
 
-**Art. 8.** W ustawie dnia 9 czerwca 2006 o Centralnym Biurze Antykorupcyjnym (Dz. U. 2012 621 627) uchyla się art. 79.
+### Art. 18h.
 
-**Art. 9.** W ustawie dnia 9 kwietnia 2010 o Służbie Więziennej (Dz. U. 79, 523, późn. zm. ) wprowadza się następujące zmiany:
+### 1.
 
-**Art. 10.** Funkcjonariuszom Straży Granicznej służby stałej, których emerytura policyjna jest ustalana na podstawie przepisów działu II rozdziału 1 ustawy dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin, okresy służby, o których mowa art. 74 ust. 2 ustawy dnia 12 października 1990 o Straży Granicznej, brzmieniu obowiązującym do dnia 31 grudnia 2012 r., pełnionej do dnia 31 grudnia 2012 zalicza się do wysługi emerytalnej za jeden rok służby półtora roku służby.
+Kwota emerytury bez uwzględnienia dodatków, zasiłków i świadczeń pieniężnych, o których mowa w art. 25, nie może przekroczyć 75% podstawy jej wymiaru.
 
-**Art. 11.** Ustawa wchodzi życie dniem 1 stycznia 2013 r., wyjątkiem przepisów art. 18i ustawy zmienianej art. 1 art. 18h ustawy zmienianej art. 2, które wchodzą życie dniem 1 stycznia 2025
+### 2.
 
+Przepisy art. 18 ust. 2 i 3 stosuje się odpowiednio.
+
+### Rozdział 1b Prawo wyboru emerytury
+
+### Art. 18i.
+
+### 1.
+
+Żołnierz, który został powołany po raz pierwszy przed dniem 1 stycznia 2013 r. do zawodowej służby wojskowej lub służby kandydackiej lub innej służby uwzględnianej przy ustalaniu prawa do emerytury policyjnej, ma prawo wyboru ustalenia emerytury na zasadach i w wysokości określonych w rozdziale 1a.
+
+### 2.
+
+Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
+
+” ;
+
+### 2)
+
+art. 32a otrzymuje brzmienie:
+
+„
+
+### Art. 32a.
+
+Jeżeli po dniu, od którego przyznano emeryturę wojskową określoną w art. 12 albo w art. 18b ust. 1, emeryt ponownie został powołany do zawodowej służby wojskowej albo został przyjęty do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, wysokość emerytury zostaje ponownie ustalona w sposób określony w art. 32b i 32c.
+
+” ;
+
+### 3)
+
+w art. 32b ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku ponownego powołania emeryta do zawodowej służby wojskowej i pełnienia tej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, w sposób określony odpowiednio w art. 5 ust. 1 albo w art. 18f.
+
+” ;
+
+### 4)
+
+w art. 32c zdanie drugie otrzymuje brzmienie: „ Przepisy art. 15 i 15a albo art. 18f stosuje się odpowiednio. ” .
+
+### Art. 2.
+
+W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2004 r. Nr 8, poz. 67](https://api.sejm.gov.pl/eli/acts/DU/2004/67/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w dziale II po rozdziale 1 dodaje się rozdziały 1a i 1b w brzmieniu:
+
+„
+
+### Rozdział 1a Emerytura funkcjonariusza przyjętego do służby po raz pierwszy po dniu 31 grudnia 2012 r.
+
+### Art. 18a.
+
+### 1.
+
+Funkcjonariuszowi przyjętemu po raz pierwszy po dniu 31 grudnia 2012 r. do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub w Służbie Więziennej emerytura przysługuje na zasadach i w wysokości określonych w niniejszym rozdziale.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do funkcjonariusza przyjętego do służby po dniu 31 grudnia 2012 r., jeżeli przed tym przyjęciem:
+
+### 1)
+
+pełnił służbę w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej, do której został przyjęty przed dniem 1 stycznia 2013 r.;
+
+### 2)
+
+pełnił zawodową służbę wojskową lub służbę kandydacką, do której został powołany przed dniem 1 stycznia 2013 r.
+
+### Art. 18b.
+
+### 1.
+
+Emerytura przysługuje funkcjonariuszowi zwolnionemu ze służby, który w dniu zwolnienia posiada ukończone 55 lat życia i co najmniej 25 lat służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub w Służbie Więziennej.
+
+### 2.
+
+Jako równorzędny ze służbą traktuje się okres służby wojskowej uwzględniany przy ustalaniu prawa do emerytury wojskowej.
+
+### 3.
+
+Do wysługi emerytalnej zalicza się również okresy, o których mowa w art. 16 ust. 2.
+
+### Art. 18c.
+
+Do okresów służby, od których uzależnione jest nabycie prawa do emerytury lub dalszych okresów służby, za które wzrasta podstawa wymiaru emerytury, zalicza się okres urlopu wychowawczego, udzielonego w trakcie pełnienia służby, w wymiarze łącznym nie większym niż 3 lata.
+
+### Art. 18d.
+
+### 1.
+
+Funkcjonariusz, który w dniu zwolnienia ze służby osiągnął staż służby 25 lat, ale nie osiągnął wieku 55 lat życia, nabywa prawo do emerytury w dniu osiągnięcia tego wieku, w przypadku gdy zwolnienie ze służby nastąpiło z przyczyn określonych w:
+
+### 1)
+
+art. 41 ust. 1 pkt 1 i ust. 2 pkt 6 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2011 r. Nr 287, poz. 1687](https://api.sejm.gov.pl/eli/acts/DU/2011/1687/text.html), [Nr 217, poz. 1280](https://api.sejm.gov.pl/eli/acts/DU/2011/1280/text.html) i [Nr 230, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.html) oraz z [2012 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2012/627/text.html));
+
+### 2)
+
+art. 54 ust. 3, art. 57 ust. 4 w związku z ust. 2 pkt 4 oraz art. 60 ust. 1 pkt 1 i ust. 2 pkt 6 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2010 r. Nr 29, poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2010/154/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627.](#gloss-0:5:));
+
+### 3)
+
+art. 13 ust. 3, art. 16 ust. 4 w związku z ust. 2 pkt 4 oraz art. 19 ust. 1 pkt 1 i ust. 2 pkt 7 ustawy z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego ([Dz. U. Nr 104, poz. 710](https://api.sejm.gov.pl/eli/acts/DU/2006/710/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.](#gloss-0:6:));
+
+### 4)
+
+art. 58 ust. 3, art. 61 ust. 4 w związku z ust. 2 pkt 4 oraz art. 64 ust. 1 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2012 r. poz. 621](https://api.sejm.gov.pl/eli/acts/DU/2012/621/text.html) i [627](https://api.sejm.gov.pl/eli/acts/DU/2012/627/text.html));
+
+### 5)
+
+art. 45 ust. 1 pkt 1 i ust. 2 pkt 7 ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2011 r. Nr 116, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2011/675/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627.](#gloss-0:7:));
+
+### 6)
+
+art. 35 ust. 1 pkt 1 i 9 oraz ust. 2 pkt 5 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu ([Dz. U. z 2004 r. Nr 163, poz. 1712](https://api.sejm.gov.pl/eli/acts/DU/2004/1712/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.](#gloss-0:8:));
+
+### 7)
+
+art. 43 ust. 2 pkt 1 i ust. 3 pkt 4 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2009 r. Nr 12, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/2009/68/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677, Nr 171, poz. 1016 i Nr 207, poz. 1230.](#gloss-0:9:));
+
+### 8)
+
+art. 96 ust. 2 pkt 3 i 4 oraz art. 97 ust. 1 pkt 1 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej ([Dz. U. Nr 79, poz. 523](https://api.sejm.gov.pl/eli/acts/DU/2010/523/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707.](#gloss-0:10:)).
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, okresów służby funkcjonariusza nie uważa się za okresy składkowe oraz nie przekazuje się składek na ubezpieczenia emerytalne i rentowe za te okresy, przewidzianych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2009 r. Nr 205, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2009/1585/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637.](#gloss-0:11:)).
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się, jeżeli funkcjonariusz wystąpił z wnioskiem o zaliczenie okresów służby jako okresów składkowych albo jeżeli śmierć funkcjonariusza nastąpiła przed dniem nabycia prawa do emerytury.
+
+### Art. 18e.
+
+### 1.
+
+Emerytura dla funkcjonariusza wynosi 60% podstawy jej wymiaru za 25 lat służby i wzrasta o 3% za każdy dalszy rok tej służby.
+
+### 2.
+
+Emeryturę podwyższa się o 0,5% podstawy jej wymiaru za każdy rozpoczęty miesiąc pełnienia służby na froncie w czasie wojny oraz w strefie działań wojennych.
+
+### 3.
+
+Przy ustalaniu prawa do emerytury i obliczaniu jej wysokości okresy, o których mowa w ust. 1 i art. 18c, ustala się z uwzględnieniem pełnych miesięcy.
+
+### Art. 18f.
+
+### 1.
+
+Podstawę wymiaru emerytury stanowi średnie uposażenie funkcjonariusza należne przez okres kolejnych 10 lat kalendarzowych, wybranych przez funkcjonariusza.
+
+### 2.
+
+W przypadku niewskazania przez funkcjonariusza kolejnych lat kalendarzowych podstawę wymiaru emerytury stanowi średnie uposażenie funkcjonariusza należne przez okres kolejnych 10 lat kalendarzowych, poprzedzających rok zwolnienia ze służby.
+
+### 3.
+
+W celu ustalenia podstawy wymiaru emerytury:
+
+### 1)
+
+oblicza się sumę kwot uposażeń należnych funkcjonariuszowi w okresie każdego roku z wybranych przez niego lat kalendarzowych;
+
+### 2)
+
+oblicza się stosunek każdej z tych sum kwot do rocznej kwoty przeciętnego uposażenia funkcjonariuszy obowiązującego w danym roku kalendarzowym wyrażając go w procentach, z zaokrągleniem do setnych części procentu;
+
+### 3)
+
+oblicza się średnią arytmetyczną tych procentów, która stanowi wskaźnik wysokości podstawy wymiaru emerytury;
+
+### 4)
+
+wskaźnik, o którym mowa w pkt 3, mnoży się przez kwotę przeciętnego uposażenia obowiązującego w dniu zwolnienia funkcjonariusza ze służby.
+
+### 4.
+
+W przypadku funkcjonariusza, o którym mowa w art. 18d, wskaźnik wysokości podstawy wymiaru emerytury, obliczony w sposób określony w ust. 3 pkt 1-3, mnoży się przez kwotę przeciętnego uposażenia funkcjonariuszy obowiązującego w dniu osiągnięcia przez tego funkcjonariusza 55 roku życia.
+
+### 5.
+
+W przypadku gdy funkcjonariusz w ciągu roku, o którym mowa w ust. 3 pkt 1, pełnił również inną służbę uwzględnianą przy ustalaniu prawa do emerytury lub emerytury wojskowej, stosunek, o którym mowa w ust. 3 pkt 2, oblicza się proporcjonalnie do poszczególnych okresów służby.
+
+### Art. 18g.
+
+### 1.
+
+Kwota emerytury bez uwzględnienia dodatków, zasiłków i świadczeń pieniężnych, o których mowa w art. 25, nie może przekroczyć 75% podstawy jej wymiaru.
+
+### 2.
+
+Przepisy art. 18 ust. 2 i 3 stosuje się odpowiednio.
+
+### Rozdział 1b Prawo wyboru emerytury
+
+### Art. 18h.
+
+### 1.
+
+Funkcjonariusz, który został przyjęty po raz pierwszy przed dniem 1 stycznia 2013 r. do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej lub do zawodowej służby wojskowej, ma prawo wyboru ustalenia emerytury na zasadach i w wysokości określonych w rozdziale 1a.
+
+### 2.
+
+W przypadku funkcjonariusza, który dokonał wyboru, o którym mowa w ust. 1, do wysługi emerytalnej dolicza się okresy równorzędne ze służbą określone w art. 13 ust. 1.
+
+### 3.
+
+W przypadku osoby, która pełniła służbę w organach bezpieczeństwa państwa, o których mowa w art. 2 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów, przepis art. 15b ust. 1 pkt 1 stosuje się.
+
+### 4.
+
+Oświadczenie o wyborze składa się do organu emerytalnego najpóźniej w dniu złożenia wniosku o ustalenie prawa do zaopatrzenia emerytalnego.
+
+” ;
+
+### 2)
+
+art. 33a otrzymuje brzmienie:
+
+„
+
+### Art. 33a.
+
+Jeżeli po dniu, od którego przyznano emeryturę określoną w art. 12 albo w art. 18b ust. 1, emeryt ponownie został przyjęty do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej albo został powołany do zawodowej służby wojskowej, wysokość emerytury zostaje ponownie ustalona w sposób określony w art. 33b i 33c.
+
+” ;
+
+### 3)
+
+w art. 33b ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej i pełnienia tej służby nieprzerwanie przez okres co najmniej 12 miesięcy, na wniosek emeryta ustala się nową podstawę wymiaru emerytury, w sposób określony odpowiednio w art. 5 ust. 1 albo w art. 18f.
+
+” ;
+
+### 4)
+
+w art. 33c zdanie drugie otrzymuje brzmienie: „ Przepisy art. 15 i 15a albo art. 18f stosuje się odpowiednio. ” .
+
+### Art. 3.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2011 r. Nr 287, poz. 1687](https://api.sejm.gov.pl/eli/acts/DU/2011/1687/text.html), [Nr 217, poz. 1280](https://api.sejm.gov.pl/eli/acts/DU/2011/1280/text.html) i [Nr 230, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.html) oraz z [2012 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2012/627/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 42 w ust. 6 zdanie pierwsze otrzymuje brzmienie: „ Okres, za który policjantowi przysługuje świadczenie pieniężne, wlicza się do okresu służby uwzględnianego przy ustalaniu okresu, od którego zależą uprawnienia określone w art. 29 ust. 2, art. 52 ust. 1, art. 82 ust. 2 i 3, art. 101 ust. 1, art. 110 ust. 1, art. 111 ust. 1 i art. 115 ust. 1. ” ;
+
+### 2)
+
+uchyla się art. 69.
+
+### Art. 4.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2011 r. Nr 116, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2011/675/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627.](#gloss-0:12:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 46 w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Okres, za który funkcjonariuszowi przysługuje świadczenie pieniężne, wlicza się do okresu służby uwzględnianego przy ustalaniu wzrostu uposażenia zasadniczego, nagrody rocznej, a także do okresu służby, od którego zależą uprawnienia określone w art. 35 ust. 2, art. 86 ust. 2, art. 115 ust. 1 i art. 119 ust. 1. ” ;
+
+### 2)
+
+uchyla się art. 74.
+
+### Art. 5.
+
+W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2009 r. Nr 12, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/2009/68/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677, Nr 171, poz. 1016 i Nr 207, poz. 1230.](#gloss-0:13:)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się art. 60;
+
+### 2)
+
+w art. 60a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Jeżeli strażak zwolniony ze służby nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej, od uposażenia wypłaconego strażakowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenia emerytalne i rentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2009 r. Nr 205, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2009/1585/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637.](#gloss-0:14:)).
+
+” ,
+
+### b)
+
+w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Składki przekazuje się również w przypadku, gdy strażak spełnia jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej. ” .
+
+### Art. 6.
+
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2009 r. Nr 153, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2009/1227/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118, 251 i 637.](#gloss-0:15:)) w art. 95 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepis ust. 1 stosuje się również, z uwzględnieniem art. 96, w razie zbiegu prawa do emerytury lub renty określonych w ustawie z prawem do świadczeń przewidzianych w przepisach o zaopatrzeniu emerytalnym osób, o których mowa w art. 2 ust. 2, z wyjątkiem przypadku, gdy emerytura wojskowa lub policyjna została obliczona według zasad określonych w art. 15a albo art. 18e ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin lub w art. 15a lub art. 18e ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu ([Dz. U. z 2004 r. Nr 163, poz. 1712](https://api.sejm.gov.pl/eli/acts/DU/2004/1712/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.](#gloss-0:16:)) uchyla się art. 62.
+
+### Art. 8.
+
+W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. oraz z 2012 r. poz. 621](https://api.sejm.gov.pl/eli/acts/DU/2012/621/text.html) i [627](https://api.sejm.gov.pl/eli/acts/DU/2012/627/text.html)) uchyla się art. 79.
+
+### Art. 9.
+
+W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej ([Dz. U. Nr 79, poz. 523](https://api.sejm.gov.pl/eli/acts/DU/2010/523/text.html), z późn. zm.[17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707.](#gloss-0:17:)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się art. 167;
+
+### 2)
+
+w art. 168:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Jeżeli funkcjonariusz, którego stosunek służbowy ustał, nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej, od uposażenia wypłaconego funkcjonariuszowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenia emerytalne i rentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane na podstawie przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2009 r. Nr 205, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2009/1585/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637.](#gloss-0:18:)).
+
+” ,
+
+### b)
+
+w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Składki przekazuje się również w przypadku, gdy funkcjonariusz spełnia jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej. ” .
+
+### Art. 10.
+
+Funkcjonariuszom Straży Granicznej służby stałej, których emerytura policyjna jest ustalana na podstawie przepisów działu II rozdziału 1 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, okresy służby, o których mowa w art. 74 ust. 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej, w brzmieniu obowiązującym do dnia 31 grudnia 2012 r., pełnionej do dnia 31 grudnia 2012 r. zalicza się do wysługi emerytalnej za jeden rok służby półtora roku służby.
+
+### Art. 11.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2013 r., z wyjątkiem przepisów art. 18i ustawy zmienianej w art. 1 i art. 18h ustawy zmienianej w art. 2, które wchodzą w życie z dniem 1 stycznia 2025 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustawę z dnia 16 marca 2001 r. o Biurze Ochrony Rządu, ustawę z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym oraz ustawę z dnia 9 kwietnia 2010 r. o Służbie Więziennej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786, z 2010 r. Nr 113, poz. 745, z 2011 r. Nr 205, poz. 1203 oraz z 2012 r. poz. 637. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578, z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455, Nr 117, poz. 677 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 114, poz. 957, z 2010 r. Nr 113, poz. 745, Nr 182, poz. 1228, Nr 230, poz. 1510 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677, Nr 171, poz. 1016 i Nr 207, poz. 1230. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 117, poz. 677, Nr 170, poz. 1015, Nr 171, poz. 1016 i Nr 230, poz. 1371 oraz z 2012 r. poz. 627. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677, Nr 171, poz. 1016 i Nr 207, poz. 1230. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118, 251 i 637. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 112, poz. 654 i Nr 291, poz. 1707. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725, z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175, Nr 232, poz. 1378 i Nr 291, poz. 1706 oraz z 2012 r. poz. 611 i 637.

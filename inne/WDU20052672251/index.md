@@ -8,11 +8,9 @@ pos: 2251
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o finansowaniu infrastruktury transportu lądowego
-
-*USTAWA z dnia 16 grudnia 2005 r.*
+# Ustawa z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,69 +22,130 @@ domain: null
 | Data ogłoszenia | 2005-12-16 |
 | Data wydania | 2005-12-30 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052672251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/2251/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/2251/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/2251) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustawa reguluje ogólne zasady finansowania budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury transportu lądowego oraz zarządzania tą infrastrukturą.
+### Art. 1.
 
-2. Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych i eksploatowanych na zasadach określonych przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym, z zastrzeżeniem art. 6.
+### 1.
 
-**Art. 2.** Ilekroć w ustawie jest mowa o infrastrukturze transportu lądowego rozumie się przez to drogi publiczne w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2020 r. poz. 470, 471, 1087 i 2338 oraz z 2021 r. poz. 54) oraz infrastrukturę kolejową w rozumieniu art. 4 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2020 r. poz. 1043, 1378 i 1778).
+Ustawa reguluje ogólne zasady finansowania budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury transportu lądowego oraz zarządzania tą infrastrukturą.
 
-**Art. 3.**
+### 2.
 
-1. Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg oraz zarządzania nimi finansowane są przez:
+Przepisy ustawy nie mają zastosowania do autostrad płatnych budowanych i eksploatowanych na zasadach określonych przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym, z zastrzeżeniem art. 6.
 
-- **1)** ministra właściwego do spraw transportu za pośrednictwem Generalnego Dyrektora Dróg Krajowych i Autostrad albo drogowych spółek specjalnego przeznaczenia w odniesieniu do dróg krajowych;
-- **2)** samorząd województwa w odniesieniu do dróg wojewódzkich;
-- **3)** samorząd powiatowy w odniesieniu do dróg powiatowych.
+### Art. 2.
 
-2. Zadania w zakresie finansowania budowy, przebudowy, remontu, utrzymania i ochrony dróg gminnych oraz zarządzania nimi finansowane są z budżetów gmin.
+Ilekroć w ustawie jest mowa o infrastrukturze transportu lądowego rozumie się przez to drogi publiczne w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2004 r. Nr 204, poz. 2086](https://api.sejm.gov.pl/eli/acts/DU/2004/2086/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1362 i 1364, Nr 169, poz. 1420, Nr 172, poz. 1440 i 1441 i Nr 179, poz. 1486.](#gloss-0:1:)) oraz infrastrukturę kolejową w rozumieniu art. 4 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. Nr 86, poz. 789](https://api.sejm.gov.pl/eli/acts/DU/2003/789/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420.](#gloss-0:2:)).
 
-3. W granicach miast na prawach powiatu zadania w zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami publicznymi, z wyjątkiem autostrad i dróg ekspresowych, finansowane są z budżetów tych miast.
+### Art. 3.
 
-4. Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg zakładowych oraz zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
+### 1.
 
-5. Budowa, przebudowa, remont, utrzymanie i ochrona dróg publicznych mogą być realizowane przy udziale środków rzeczowych i pieniężnych świadczonych przez osoby fizyczne i osoby prawne, krajowe i zagraniczne oraz jednostki organizacyjne nieposiadające osobowości prawnej, w tym w ramach partnerstwa publiczno-prywatnego.
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg oraz zarządzania nimi finansowane są przez:
 
-6. Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg publicznych mogą być finansowane lub dofinansowane z budżetów jednostek samorządu terytorialnego, zgodnie z porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### 1)
 
-**Art. 4.**
+ministra właściwego do spraw transportu za pośrednictwem Generalnego Dyrektora Dróg Krajowych i Autostrad w odniesieniu do dróg krajowych;
 
-1. Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury kolejowej oraz zarządzania nią finansowane są ze środków zarządcy infrastruktury kolejowej.
+### 2)
 
-2. Zadania, o których mowa w ust. 1, mogą być finansowane lub dofinansowane przez ministra właściwego do spraw transportu ze środków, o których mowa w art. 5, pod warunkiem że infrastruktura kolejowa jest udostępniana przez zarządców na zasadach określonych w ustawie z dnia 28 marca 2003 r. o transporcie kolejowym.
+samorząd województwa w odniesieniu do dróg wojewódzkich;
 
-**Art. 5.** Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem infrastrukturą transportu lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw transportu ustala się w ustawie budżetowej w wysokości nie niższej niż 18% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych.
+### 3)
 
-**Art. 6.**
+samorząd powiatowy w odniesieniu do dróg powiatowych.
 
-1. Minister właściwy do spraw transportu może przekazać część środków, o których mowa w art. 5, na nabywanie nieruchomości przeznaczonych pod budowę autostrad płatnych.
+### 2.
 
-2. W razie wystąpienia zagrożenia w realizacji budowy autostrad płatnych z powodu braku środków na nabywanie nieruchomości, o których mowa w ust. 1, minister właściwy do spraw transportu określi, w drodze rozporządzenia, procentowy udział przekazywanej części środków, o których mowa w art. 5, w wysokości do 20%, biorąc pod uwagę realizację programu budowy autostrad i stopień zaawansowania inwestycji.
+Zadania w zakresie finansowania budowy, przebudowy, remontu, utrzymania i ochrony dróg gminnych oraz zarządzania nimi finansowane są z budżetów gmin.
 
-**Art. 7.**
+### 3.
 
-1. Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+W granicach miast na prawach powiatu zadania w zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami publicznymi, z wyjątkiem autostrad i dróg ekspresowych, finansowane są z budżetów tych miast.
 
-2. Źródłem finansowania infrastruktury kolejowej są również środki finansowe określone przepisami o transporcie kolejowym i przepisami o Funduszu Kolejowym.
+### 4.
 
-**Art. 8.** (pominięty)
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg zakładowych oraz zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
 
-**Art. 9.** (pominięty)
+### 5.
 
-**Art. 10.** Ilekroć w obowiązujących przepisach jest mowa o ustawie o finansowaniu dróg publicznych, rozumie się przez to ustawę o finansowaniu infrastruktury transportu lądowego.
+Budowa, przebudowa, remont, utrzymanie i ochrona dróg publicznych mogą być realizowane przy udziale środków rzeczowych i pieniężnych świadczonych przez osoby fizyczne i osoby prawne, krajowe i zagraniczne oraz jednostki organizacyjne nieposiadające osobowości prawnej.
 
-**Art. 10a.**
+### Art. 4.
 
-1. W roku 2021 przepisu art. 5 nie stosuje się.
+### 1.
 
-2. W latach 2020 i 2021 łączna wysokość wydatków związanych z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem infrastrukturą transportu lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw transportu ustalona w ustawach budżetowych na te lata nie może być niższa niż 18% sumy planowanych na lata 2020 i 2021 wpływów z podatku akcyzowego od paliw silnikowych.
+Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony infrastruktury kolejowej oraz zarządzania nią finansowane są ze środków zarządcy infrastruktury kolejowej.
 
-**Art. 11.** (pominięty)
+### 2.
 
-**Art. 12.** Traci moc ustawa z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych (Dz. U. poz. 780, z późn. zm. ).
+Zadania, o których mowa w ust. 1, mogą być finansowane lub dofinansowane przez ministra właściwego do spraw transportu ze środków, o których mowa w art. 5, pod warunkiem że infrastruktura kolejowa jest udostępniana przez zarządców na zasadach określonych w ustawie z dnia 28 marca 2003 r. o transporcie kolejowym.
 
-**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r.
+### Art. 5.
 
+Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem infrastrukturą transportu lądowego, finansowaną lub dofinansowaną przez ministra właściwego do spraw transportu ustala się w ustawie budżetowej w wysokości nie niższej niż 18% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych.
+
+### Art. 6.
+
+### 1.
+
+Minister właściwy do spraw transportu może przekazać część środków, o których mowa w art. 5, na nabywanie nieruchomości przeznaczonych pod budowę autostrad płatnych.
+
+### 2.
+
+W razie wystąpienia zagrożenia w realizacji budowy autostrad płatnych z powodu braku środków na nabywanie nieruchomości, o których mowa w ust. 1, minister właściwy do spraw transportu określi, w drodze rozporządzenia, procentowy udział przekazywanej części środków, o których mowa w art. 5, w wysokości do 20%, biorąc pod uwagę realizację programu budowy autostrad i stopień zaawansowania inwestycji.
+
+### Art. 7.
+
+### 1.
+
+Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami o drogach publicznych, przepisami o transporcie drogowym i przepisami o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+### 2.
+
+Źródłem finansowania infrastruktury kolejowej są również środki finansowe określone przepisami o transporcie kolejowym i przepisami o Funduszu Kolejowym.
+
+### Art. 8.
+
+W ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju ([Dz. U. Nr 116, poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2004/1206/text.html) oraz z [2005 r. Nr 90, poz. 759](https://api.sejm.gov.pl/eli/acts/DU/2005/759/text.html)) w art. 30 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W odniesieniu do projektów realizowanych w ramach programów, o których mowa w art. 8 ust. 1, współfinansowanych z publicznych środków wspólnotowych oraz projektów w ramach strategii wykorzystania Funduszu Spójności, beneficjent może uzyskać dofinansowanie wkładu własnego z budżetu państwa, jeżeli przewidują to odpowiednio programy, o których mowa w art. 8 ust. 1 pkt 1-3, albo strategia wykorzystania Funduszy Spójności, w oparciu o kryteria, o których mowa w art. 4 ust. 1 pkt 7, albo wynika to z przepisów ustawy z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego (Dz. U. Nr 267, poz. 2251), ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2004 r. Nr 256, poz. 2571](https://api.sejm.gov.pl/eli/acts/DU/2004/2571/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html) oraz z [2005 r. Nr 155, poz. 1297](https://api.sejm.gov.pl/eli/acts/DU/2005/1297/text.html) i [Nr 172, poz. 1440](https://api.sejm.gov.pl/eli/acts/DU/2005/1440/text.html)), ustawy z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. Nr 86, poz. 789](https://api.sejm.gov.pl/eli/acts/DU/2003/789/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420.](#gloss-0:3:)), ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2005 r. Nr 239, poz. 2019](https://api.sejm.gov.pl/eli/acts/DU/2005/2019/text.html)) lub ustawy z dnia 6 lipca 2001 r. o ustanowieniu programu wieloletniego „Program dla Odry - 2006” ([Dz. U. Nr 98, poz. 1067](https://api.sejm.gov.pl/eli/acts/DU/2001/1067/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 216, poz. 1827](https://api.sejm.gov.pl/eli/acts/DU/2002/1827/text.html)).
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych ([Dz. U. Nr 80, poz. 721](https://api.sejm.gov.pl/eli/acts/DU/2003/721/text.html) i [Nr 217, poz. 2124](https://api.sejm.gov.pl/eli/acts/DU/2003/2124/text.html) oraz z [2005 r. Nr 113, poz. 954](https://api.sejm.gov.pl/eli/acts/DU/2005/954/text.html) i [Nr 175, poz. 1462](https://api.sejm.gov.pl/eli/acts/DU/2005/1462/text.html)) w art. 22 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Koszty nabycia nieruchomości pod drogi, w tym odszkodowania, finansowane są na podstawie przepisów o finansowaniu infrastruktury transportu lądowego, przepisów o drogach publicznych oraz przepisów o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
+
+” .
+
+### Art. 10.
+
+Ilekroć w obowiązujących przepisach jest mowa o ustawie o finansowaniu dróg publicznych, rozumie się przez to ustawę o finansowaniu infrastruktury transportu lądowego.
+
+### Art. 11.
+
+Wydatki związane z budową, przebudową, remontem, utrzymaniem, ochroną i zarządzaniem drogami krajowymi w rozumieniu art. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych oraz infrastrukturą kolejową w rozumieniu art. 4 pkt 1 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, finansowanymi przez ministra właściwego do spraw transportu, ustala się w ustawie budżetowej na 2006 r. w wysokości nie niższej niż 12% planowanych na dany rok wpływów z podatku akcyzowego od paliw silnikowych.
+
+### Art. 12.
+
+Traci moc ustawa z dnia 29 sierpnia 1997 r. o finansowaniu dróg publicznych ([Dz. U. Nr 123, poz. 780](https://api.sejm.gov.pl/eli/acts/DU/1997/780/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 150, poz. 983](https://api.sejm.gov.pl/eli/acts/DU/1998/983/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html), z [2002 r. Nr 216, poz. 1826](https://api.sejm.gov.pl/eli/acts/DU/2002/1826/text.html) i [Nr 240, poz. 2057](https://api.sejm.gov.pl/eli/acts/DU/2002/2057/text.html), z [2003 r. Nr 200, poz. 1953](https://api.sejm.gov.pl/eli/acts/DU/2003/1953/text.html), [Nr 203, poz. 1966](https://api.sejm.gov.pl/eli/acts/DU/2003/1966/text.html) i [Nr 217, poz. 2124](https://api.sejm.gov.pl/eli/acts/DU/2003/2124/text.html) oraz z [2005 r. Nr 163, poz. 1364](https://api.sejm.gov.pl/eli/acts/DU/2005/1364/text.html) i [Nr 169, poz. 1420](https://api.sejm.gov.pl/eli/acts/DU/2005/1420/text.html)).
+
+### Art. 13.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2006 r.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 oraz z 2005 r. Nr 163, poz. 1362 i 1364, Nr 169, poz. 1420, Nr 172, poz. 1440 i 1441 i Nr 179, poz. 1486. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 170, poz. 1652 i Nr 203, poz. 1966, z 2004 r. Nr 92, poz. 883, Nr 96, poz. 959, Nr 97, poz. 962 i Nr 173, poz. 1808 oraz z 2005 r. Nr 157, poz. 1314, Nr 163, poz. 1362 i Nr 169, poz. 1420.

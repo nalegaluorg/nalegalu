@@ -1,0 +1,321 @@
+---
+title: Obwieszczenie Prezesa Rady Ministrów z dnia 9 sierpnia 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie chorób zawodowych
+address: WDU20220001836
+eli: DU/2022/1836
+publisher: DU
+year: 2022
+pos: 1836
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Prezesa Rady Ministrówz dnia 9 sierpnia 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie chorób zawodowych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1836 |
+| ISAP | WDU20220001836 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-08-09 |
+| Data wydania | 2022-08-31 |
+| Ostatnia zmiana | 2025-11-20 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1836/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1836) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity rozporządzenia Rady Ministrów z dnia 30 czerwca 2009 r. w sprawie chorób zawodowych](#part_2)
+
+- [Załącznik nr 1 - Wykaz chorób zawodowych wraz z okresem, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby zawodowej pomimo wcześniejszego zakończenia pracy w narażeniu zawodowym](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 30 czerwca 2009 r. w sprawie chorób zawodowych ([Dz. U. z 2013 r. poz. 1367](https://api.sejm.gov.pl/eli/acts/DU/2013/1367/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 23 czerwca 2021 r. zmieniającym rozporządzenie w sprawie chorób zawodowych ([Dz. U. poz. 1287](https://api.sejm.gov.pl/eli/acts/DU/2021/1287/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 23 czerwca 2021 r. zmieniającego rozporządzenie w sprawie chorób zawodowych ([Dz. U. poz. 1287](https://api.sejm.gov.pl/eli/acts/DU/2021/1287/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Do postępowań w sprawach zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, z uwzględnieniem dokumentacji sporządzonej lub przekazanej w ramach tych postępowań na podstawie przepisów dotychczasowych, w tym zgłoszenia podejrzenia choroby zawodowej, oceny narażenia zawodowego, karty oceny narażenia zawodowego oraz skierowania na badania.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+” .
+
+## Załącznik - Tekst jednolity rozporządzenia Rady Ministrów z dnia 30 czerwca 2009 r. w sprawie chorób zawodowych
+
+Na podstawie art. 237 § 1 pkt 3-6 i § 11 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2022 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2022/1510/text.html) i [1700](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+wykaz chorób zawodowych;
+
+### 2)
+
+okres, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby zawodowej pomimo wcześniejszego zakończenia pracy w narażeniu zawodowym;
+
+### 3)
+
+sposób i tryb postępowania dotyczący zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych;
+
+### 4)
+
+podmioty właściwe w sprawie rozpoznawania chorób zawodowych.
+
+### 2.
+
+Rozporządzenie wskazuje instytut medycyny pracy, do którego pracodawca przesyła zawiadomienie, o którym mowa w art. 235 § 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, oraz termin, w którym ma ono być przesłane.
+
+### § 2.
+
+Wykaz chorób zawodowych wraz z okresem, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby zawodowej pomimo wcześniejszego zakończenia pracy w narażeniu zawodowym, określa załącznik do rozporządzenia.
+
+### § 3.
+
+### 1[1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 czerwca 2021 r. zmieniającego rozporządzenie w sprawie chorób zawodowych (Dz. U. poz. 1287), które weszło w życie z dniem 15 lipca 2021 r.](#gloss-0:1:).
+
+Podejrzenie choroby zawodowej zgłasza się:
+
+### 1)
+
+właściwemu państwowemu powiatowemu inspektorowi sanitarnemu, właściwemu państwowemu granicznemu inspektorowi sanitarnemu, właściwemu państwowemu wojewódzkiemu inspektorowi sanitarnemu, właściwemu komendantowi wojskowego ośrodka medycyny prewencyjnej albo właściwemu wojskowemu inspektorowi sanitarnemu wojskowego ośrodka medycyny prewencyjnej, zwanym dalej „właściwym państwowym inspektorem sanitarnym”,
+
+### 2)
+
+właściwemu okręgowemu inspektorowi pracy
+
+- których właściwość ustala się według miejsca, w którym praca jest lub była wykonywana przez pracownika, gdy dokumentacja dotycząca narażenia zawodowego jest gromadzona w tym miejscu, a w przypadku braku takiej możliwości - według miejsca, na terenie którego było ostatnie narażenie zawodowe.
+
+### 2.
+
+Zgłoszenia, o którym mowa w ust. 1, dokonuje się niezwłocznie na formularzu określonym w przepisach wydanych na podstawie art. 237 § 4 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, a w przypadku choroby zawodowej o ostrym przebiegu lub podejrzenia, że choroba zawodowa była przyczyną śmierci pracownika - dodatkowo w formie telefonicznej.
+
+### § 4.
+
+### 1[2) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:2:).
+
+Właściwy państwowy inspektor sanitarny, który otrzymał zgłoszenie podejrzenia choroby zawodowej, wszczyna postępowanie, w szczególności przeprowadza ocenę narażenia zawodowego oraz sporządza kartę oceny narażenia zawodowego, którą wraz ze skierowaniem na badania przekazuje do jednostki orzeczniczej I stopnia. W przypadku gdy zgłoszenie podejrzenia choroby zawodowej jest w sposób oczywisty bezzasadne, właściwy państwowy inspektor sanitarny, który otrzymał zgłoszenie, wydaje postanowienie o odmowie wszczęcia postępowania, o którym mowa w zdaniu pierwszym.
+
+### 1a[3) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:3:).
+
+Ocenę narażenia zawodowego sporządza się na formularzu określonym w przepisach wydanych na podstawie art. 237 § 4 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, przy wykorzystaniu dokumentacji gromadzonej zgodnie z przepisami wydanymi na podstawie art. 2981 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy przez pracodawców i jednostki organizacyjne Państwowej Inspekcji Sanitarnej, a jeżeli postępowanie dotyczy aktualnego zatrudnienia, w przypadku wątpliwości dotyczącej zgromadzonej dokumentacji, na podstawie oceny przeprowadzonej bezpośrednio u pracodawcy z uwzględnieniem oceny ryzyka zawodowego.
+
+### 2[4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:4:).
+
+Skierowania na badania do jednostki orzeczniczej I stopnia nie stosuje się, jeżeli zgłoszenie podejrzenia choroby zawodowej zostało dokonane przez lekarza tej jednostki.
+
+### 3[5) W brzmieniu ustalonym przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:5:).
+
+Lekarz, o którym mowa w art. 235 § 21 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, albo właściwy państwowy inspektor sanitarny wydaje skierowanie na badania do jednostki orzeczniczej I stopnia zgodnie z przepisami wydanymi na podstawie art. 237 § 4 pkt 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 4[6) Dodany przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:6:).
+
+W przypadku śmierci pracownika albo byłego pracownika zgłoszenie podejrzenia choroby zawodowej jest równoznaczne z wnioskiem o wydanie orzeczenia w sprawie rozpoznania choroby zawodowej.
+
+### § 5.
+
+### 1.
+
+Właściwym do orzekania w zakresie chorób zawodowych jest lekarz spełniający wymagania kwalifikacyjne określone w przepisach wydanych na podstawie art. 9 ust. 3 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy ([Dz. U. z 2022 r. poz. 437](https://api.sejm.gov.pl/eli/acts/DU/2022/437/text.html)) zatrudniony w jednej z jednostek orzeczniczych, o których mowa w ust. 2 i 3.
+
+### 2.
+
+Jednostkami orzeczniczymi I stopnia są:
+
+### 1[7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:7:))
+
+poradnie chorób zawodowych wojewódzkich ośrodków medycyny pracy,
+
+### 2[7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:7:))
+
+kliniki i poradnie chorób zawodowych uniwersytetów medycznych (akademii medycznych)
+
+- w zakresie wszystkich chorób zawodowych;
+
+### 3)
+
+poradnie chorób zakaźnych wojewódzkich ośrodków medycyny pracy albo przychodnie i oddziały chorób zakaźnych poziomu wojewódzkiego - w zakresie chorób zawodowych zakaźnych i pasożytniczych;
+
+### 4)
+
+podmioty lecznicze, w których nastąpiła hospitalizacja - w zakresie rozpoznawania chorób zawodowych u pracowników hospitalizowanych z powodu wystąpienia ostrych objawów choroby.
+
+### 3.
+
+Jednostkami orzeczniczymi II stopnia od orzeczeń wydanych przez lekarzy zatrudnionych w jednostkach orzeczniczych I stopnia są instytuty badawcze w dziedzinie medycyny pracy.
+
+### 4.
+
+Właściwość jednostki, o której mowa w ust. 2, ustala się zgodnie z kryteriami określonymi w § 3 ust. 1, a w przypadku gdy pracownik zamieszkuje w innym województwie niż była wykonywana praca w narażeniu zawodowym, właściwość jednostki orzeczniczej I stopnia ustala się według aktualnego miejsca zamieszkania pracownika.
+
+### § 6.
+
+### 1[8) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:8:).
+
+Lekarz, o którym mowa w § 5 ust. 1, wydaje orzeczenie o rozpoznaniu choroby zawodowej albo o braku podstaw do jej rozpoznania, zwane dalej „orzeczeniem lekarskim”, na podstawie wyników przeprowadzonych badań lekarskich i pomocniczych, dokumentacji medycznej pracownika lub byłego pracownika, dokumentacji przebiegu zatrudnienia oraz oceny narażenia zawodowego. W przypadkach uznanych przez lekarza za uzasadnione stanem zdrowia pracownika, byłego pracownika albo w przypadku śmierci pracownika albo byłego pracownika lekarz, o którym mowa w § 5 ust. 1, wydaje orzeczenie lekarskie na podstawie dokumentacji medycznej, dokumentacji przebiegu zatrudnienia oraz oceny narażenia zawodowego.
+
+### 2.
+
+Narażenie zawodowe podlega ocenie, przy dokonywaniu której uwzględnia się w odniesieniu do:
+
+### 1)
+
+czynników chemicznych i fizycznych - rodzaj czynnika, wartość stężeń lub natężeń i średni czas narażenia zawodowego;
+
+### 2)
+
+czynników biologicznych - rodzaj czynnika, ustalenie kontaktu, okresu utajenia oraz stwierdzenie mechanizmu działania lub drogi szerzenia się czynnika, bez konieczności określenia stężenia tego czynnika;
+
+### 3)
+
+czynników o działaniu uczulającym (alergenów) - rodzaj czynnika i stwierdzenie kontaktu z takim czynnikiem w czasie pracy, jeżeli występował on w środowisku pracy, narzędziach pracy, surowcach, półproduktach lub gotowych wyrobach, bez konieczności określania stężenia tego czynnika;
+
+### 4)
+
+czynników o działaniu rakotwórczym - substancje chemiczne, ich mieszaniny, czynniki lub procesy technologiczne o działaniu rakotwórczym lub mutagennym określone w przepisach wydanych na podstawie art. 222 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz pierwotną lokalizację nowotworu i okres latencji;
+
+### 5)
+
+sposobu wykonywania pracy - określenie stopnia obciążenia wysiłkiem fizycznym oraz chronometraż czynności, które mogą powodować nadmierne obciążenie odpowiednich narządów lub układów organizmu ludzkiego.
+
+### 3.
+
+(uchylony).[9) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:9:)
+
+### 4.
+
+(uchylony).[9) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:9:)
+
+### 5.
+
+Jeżeli zakres informacji zawartych w dokumentacji, o której mowa w ust. 1, jest niewystarczający do wydania orzeczenia lekarskiego, lekarz występuje o ich uzupełnienie do:
+
+### 1)
+
+pracodawcy - w zakresie obejmującym przebieg oraz organizację pracy zawodowej pracownika lub byłego pracownika, w tym pracę w godzinach nadliczbowych, dane o narażeniu zawodowym, obejmujące także wyniki pomiarów czynników szkodliwych wykonanych na stanowiskach pracy, na których pracownik był zatrudniony, stosowane przez pracownika środki ochrony indywidualnej, a w przypadku narażenia pracownika na czynniki o działaniu uczulającym (alergenów) - także o przekazanie próbki substancji, w ilości niezbędnej do przeprowadzenia badań diagnostycznych;
+
+### 2)
+
+lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikiem, którego dotyczy podejrzenie choroby zawodowej - w zakresie dokonania uzupełniającej oceny narażenia zawodowego oraz o udostępnienie dokumentacji medycznej wraz z wynikami przeprowadzonych badań profilaktycznych;
+
+### 3)
+
+lekarza ubezpieczenia zdrowotnego lub innego lekarza prowadzącego leczenie pracownika lub byłego pracownika, którego dotyczy podejrzenie choroby zawodowej - o udostępnienie dokumentacji medycznej w zakresie niezbędnym do rozpoznania choroby zawodowej;
+
+### 4)
+
+właściwego państwowego inspektora sanitarnego - w zakresie oceny narażenia zawodowego, zwłaszcza na podstawie dokumentacji archiwalnej oraz informacji udostępnianej na jego wniosek przez odpowiednie jednostki organizacyjne Państwowej Inspekcji Sanitarnej i służby medycyny pracy w odniesieniu do zakładów pracy, które uległy likwidacji;
+
+### 5)
+
+pracownika lub byłego pracownika - w zakresie uzupełnienia wywiadu zawodowego przeprowadzonego przez lekarza wykonującego zawód w ramach wykonywania działalności leczniczej lub zatrudnionego w podmiocie leczniczym albo właściwego państwowego inspektora sanitarnego wydającego skierowanie na badanie w związku z podejrzeniem choroby zawodowej.
+
+### 6[10) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:10:).
+
+Orzeczenie lekarskie przesyła się właściwemu państwowemu inspektorowi sanitarnemu, zainteresowanemu pracownikowi, byłemu pracownikowi oraz lekarzowi kierującemu na badania, a w przypadku gdy orzeczenie lekarskie zostało wydane przez lekarza zatrudnionego w jednostce orzeczniczej II stopnia - również jednostce orzeczniczej I stopnia. W przypadku śmierci pracownika albo byłego pracownika orzeczenie lekarskie wydaje się również osobie uprawnionej do świadczeń po zmarłym, o której mowa w przepisach o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, zwanej dalej „osobą uprawnioną”, na jej wniosek.
+
+### § 7.
+
+### 1.
+
+Pracownik lub były pracownik, badany w jednostce orzeczniczej I stopnia, który nie zgadza się z treścią orzeczenia lekarskiego, może wystąpić z wnioskiem o przeprowadzenie ponownego badania przez jednostkę orzeczniczą II stopnia.
+
+### 1a[11) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:11:).
+
+W przypadku śmierci pracownika albo byłego pracownika osoba uprawniona może złożyć wniosek o ponowną analizę przez jednostkę orzeczniczą II stopnia dokumentacji medycznej pracownika albo byłego pracownika, dokumentacji przebiegu zatrudnienia oraz oceny narażenia zawodowego, stanowiących podstawę do wydania orzeczenia przez jednostkę orzeczniczą I stopnia.
+
+### 2[12) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:12:).
+
+Wniosek, o którym mowa w ust. 1 albo 1a, składa się w terminie 14 dni od dnia otrzymania orzeczenia lekarskiego, za pośrednictwem jednostki orzeczniczej I stopnia zatrudniającej lekarza, który wydał to orzeczenie.
+
+### 3[13) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:13:).
+
+W przypadku gdy pracownik, były pracownik albo osoba uprawniona wystąpi z wnioskiem, o którym mowa w ust. 1 albo 1a, jednostka orzecznicza I stopnia powiadamia o tym właściwego państwowego inspektora sanitarnego.
+
+### § 8.
+
+### 1.
+
+Decyzję o stwierdzeniu choroby zawodowej albo decyzję o braku podstaw do stwierdzenia choroby zawodowej wydaje się na podstawie materiału dowodowego, a w szczególności danych zawartych w orzeczeniu lekarskim oraz formularzu oceny narażenia zawodowego pracownika lub byłego pracownika.
+
+### 2.
+
+Jeżeli właściwy państwowy inspektor sanitarny przed wydaniem decyzji uzna, że materiał dowodowy, o którym mowa w ust. 1, jest niewystarczający do wydania decyzji, może żądać od lekarza, który wydał orzeczenie lekarskie, dodatkowego uzasadnienia tego orzeczenia, wystąpić do jednostki orzeczniczej II stopnia o dodatkową konsultację lub podjąć inne czynności niezbędne do uzupełnienia tego materiału.
+
+### 3.
+
+Właściwy państwowy inspektor sanitarny przesyła decyzję, o której mowa w ust. 1:
+
+### 1[14) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:14:))
+
+zainteresowanemu pracownikowi, byłemu pracownikowi albo osobie uprawnionej - na jej wniosek;
+
+### 2)
+
+pracodawcy lub pracodawcom zatrudniającym pracownika w warunkach, które mogły spowodować skutki zdrowotne uzasadniające postępowanie w sprawie rozpoznania i stwierdzenia choroby zawodowej;
+
+### 3)
+
+jednostce orzeczniczej zatrudniającej lekarza, który wydał orzeczenie lekarskie;
+
+### 4)
+
+właściwemu okręgowemu inspektorowi pracy.
+
+### 4[15) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:15:).
+
+Właściwy państwowy wojewódzki inspektor sanitarny, Główny Inspektor Sanitarny albo Główny Inspektor Sanitarny Wojska Polskiego przesyła decyzję wydaną na skutek odwołania podmiotom, o których mowa w ust. 3.
+
+### § 9.
+
+### 1[16) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:16:).
+
+Właściwy państwowy inspektor sanitarny, Główny Inspektor Sanitarny albo Główny Inspektor Sanitarny Wojska Polskiego w terminie 14 dni od dnia, w którym decyzja o stwierdzeniu choroby zawodowej stała się ostateczna, sporządza kartę stwierdzenia choroby zawodowej i przesyła ją do Centralnego Rejestru Chorób Zawodowych prowadzonego przez Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi.
+
+### 2.
+
+Organ wydający decyzję o stwierdzeniu choroby zawodowej w postępowaniu odwoławczym przesyła kartę stwierdzenia choroby zawodowej w terminie, o którym mowa w ust. 1, także organowi wydającemu tę decyzję w I instancji.
+
+### § 10.
+
+Zawiadomienie, o którym mowa w art. 235 § 5 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy, przesyła się niezwłocznie do Instytutu Medycyny Pracy im. prof. dr. med. Jerzego Nofera w Łodzi, po zakończeniu postępowania mającego na celu ustalenie uszczerbku na zdrowiu lub niezdolności do pracy w związku ze stwierdzoną chorobą zawodową pracownika lub byłego pracownika.
+
+### § 11.
+
+### 1.
+
+Z zastrzeżeniem ust. 2, do postępowań w sprawie zgłaszania podejrzenia, rozpoznania i stwierdzenia chorób zawodowych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy tego rozporządzenia, z tym że czynności dokonane w toku wszczętych postępowań pozostają skuteczne.
+
+### 2.
+
+Postępowania w sprawie zgłaszania podejrzenia, rozpoznania i stwierdzenia chorób zawodowych, wszczęte i niezakończone przed dniem 3 września 2002 r., są prowadzone na podstawie przepisów obowiązujących w dniu ich wszczęcia.
+
+### § 12.
+
+Rozporządzenie wchodzi w życie z dniem 3 lipca 2009 r.[17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 lipca 2002 r. w sprawie wykazu chorób zawodowych, szczegółowych zasad postępowania w sprawach zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych oraz podmiotów właściwych w tych sprawach (Dz. U. poz. 1115), które w związku z wyrokiem Trybunału Konstytucyjnego z dnia 19 czerwca 2008 r. sygn. akt P 23/07 (Dz. U. poz. 740) utraciło moc z dniem 3 lipca 2009 r.](#gloss-0:17:)
+
+1) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 23 czerwca 2021 r. zmieniającego rozporządzenie w sprawie chorób zawodowych (Dz. U. poz. 1287), które weszło w życie z dniem 15 lipca 2021 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 2 lit. d rozporządzenia, o którym mowa w odnośniku 1. 6) Dodany przez § 1 pkt 2 lit. e rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 8) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1. 9) Przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1. 10) W brzmieniu ustalonym przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1. 11) Dodany przez § 1 pkt 5 lit. a rozporządzenia, o którym mowa w odnośniku 1. 12) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. b rozporządzenia, o którym mowa w odnośniku 1. 13) W brzmieniu ustalonym przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 1. 14) W brzmieniu ustalonym przez § 1 pkt 6 lit. a rozporządzenia, o którym mowa w odnośniku 1. 15) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 1. 16) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1. 17) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 30 lipca 2002 r. w sprawie wykazu chorób zawodowych, szczegółowych zasad postępowania w sprawach zgłaszania podejrzenia, rozpoznawania i stwierdzania chorób zawodowych oraz podmiotów właściwych w tych sprawach (Dz. U. poz. 1115), które w związku z wyrokiem Trybunału Konstytucyjnego z dnia 19 czerwca 2008 r. sygn. akt P 23/07 (Dz. U. poz. 740) utraciło moc z dniem 3 lipca 2009 r.
+
+## Załącznik nr 1 - Wykaz chorób zawodowych wraz z okresem, w którym wystąpienie udokumentowanych objawów chorobowych upoważnia do rozpoznania choroby zawodowej pomimo wcześniejszego zakończenia pracy w narażeniu zawodowym
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1836/text.pdf)

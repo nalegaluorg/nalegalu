@@ -8,11 +8,9 @@ pos: 2271
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
 # Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy oraz o zmianie niektórych ustaw
-
-*USTAWA dnia 14 listopada 2003 o zmianie ustawy o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy o zmianie niektórych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,110 +22,332 @@ domain: null
 | Data ogłoszenia | 2003-11-14 |
 | Data wydania | 2003-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032292271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2271/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2003/2271/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2003/2271) |
 
-**Art. 1.** W ustawie dnia 30 października 2002 o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz.U. 213, 1800 2003 90, 844) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 32a.**
+### Art. 1.
 
-1. Restrukturyzacji niektórych należności publicznoprawnych na szczególnych zasadach, zwanej dalej „restrukturyzacją na szczenastępujące należności publicznoprawne:
+W ustawie z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy ([Dz. U. Nr 213, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text.html) oraz z [2003 r. Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html)) wprowadza się następujące zmiany:
 
-- **1)** tytułu podatków wobec budżetu państwa, należności celnych wpłat zysku na rzecz Skarbu Państwa,
-- **2)** tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika, Fundusz Pracy Fundusz Gwarantowanych Świadczeń Pracowniczych,
-- **3)** wobec Funduszu Gwarantowanych Świadczeń Pracowniczych Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych - niepodlegające restrukturyzacji albo w stosunku do których nie zostało wszczęte postępowanie restrukturyzacyjne na podstawie przepisów ustawy o restrukturyzacji należności publicznoprawnych;
-- **4)** tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy dnia 31 stycznia 1980 o ochronie kształtowaniu środowiska (Dz.U. 1994 49, 196, późn. zm. ), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz.U. 62, 627, późn. zm. ) opłat za szczególne korzystanie wód w rozumieniu przepisów ustawy dnia 24 października 1974 Prawo wodne (Dz.U. 38, 230, późn. zm. ) stanowiących przychód Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej wojewódzkich, powiatowych gminnych funduszy ochrony środowiska gospodarki wodnej - niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacane przez przedsiębiorcę;
-- **5)** tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
-- **6)** tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa; datkowej, kosztów upomnienia kosztów egzekucyjnych, od zaległości wymienionych w pkt 1-6.
+### 1)
 
-2. Nie podlegają restrukturyzacji zaległości tytułu składki na ubezpieczenie emerytalne.
+w art. 3 w ust. 2 pkt 2 otrzymuje brzmienie:
 
-3. Nie podlegają restrukturyzacji również zaległości podatkowe celne określone w decyzji właściwego organu podatkowego, organu celnego lub organu kontroli skarbowej należności tytułu składek na ubezpieczenia społeczne, składek na Fundusz Pracy Fundusz Gwarantowanych Świadczeń Pracowniczych, wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych opłat kar dla Narodowego Funduszu Ochrony Środowiska Gospodarki Wodnej, wojewódzkich, powiatowych gminnych funduszy ochrony środowiska gospodarki wodnej opłat za użytkowanie wieczyste gruntów Skarbu Państwa, określone w wyniku postępowania kontrolnego, jeżeli zaległości te zostały określone jako wynikające czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru poboru tych należności.
+„
 
-**Art. 32b.** Znane na dzień 30 czerwca 2003 zaległości we wpłatach składek na ubezpieczenie emerytalne, składek na ubezpieczenia społeczne w części finansowanej przez ubezpieczonego składek na ubezpieczenie zdrowotne, wraz odsetkami za zwłokę, podlegają spłacie przez przedsiębiorcę, który złożył wniosek, o którym mowa w art. 32g ust. 1, w terminie 24 miesięcy od dnia wydania decyzji o restrukturyzacji.
+### 2)
 
-**Art. 32c.**
+zobowiązania publicznoprawne na zasadach określonych w rozdziale 5 lub 5a;
 
-1. Restrukturyzację na szczególnych zasadach stosuje się odpowiednio do należności od przedsiębiorców tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie, na wniosek przedsiębiorcy, uchwałę o restrukturyzacji tych należności.
+” ;
 
-2. Restrukturyzacja należności jednostek samorządu terytorialnego na podstawie niniejszego rozdziału nie uprawnia tych jednostek do rekompensaty ubytku ich dochodów tego tytułu przez budżet państwa.
+### 2)
 
-**Art. 32d.** Warunkiem restrukturyzacji na szczególnych zasadach jest wydanie przez Prezesa Agencji postanowienia o wszczęciu postępowania restrukturyzacyjnego, o którym mowa w art. 10 ust. 1 pkt 1, przeniesienie przez przedsiębiorcę na Operatora własności części majątku, nieobciążonego hipoteką lub zastawem na rzecz osób trzecich niebędących organem restrukturyzacyjnym należności publicznoprawnych, zwanym dalej „Wierzycielem”, stanowiącego równowartość co najmniej 25% kwoty należności zgłoszonych do restrukturyzacji.
+w art. 10 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu:
 
-**Art. 32e.**
+„
 
-1. Prezes Agencji, przed wskazaniem Operatora w decyzji o restrukturyzacji, jest obowiązany uzyskać zgodę spółki na pełnienie turyzacji, zaległości tytułu podatków stanowiących dochód budżetu państwa składek na ubezpieczenia społeczne.
+### 8a)
 
-3. Operatorem może być wyłącznie spółka kapitałowa, w której Skarb Państwa lub Agencja posiada 100% udziałów lub akcji, albo Skarb Państwa Agencja posiadają łącznie 100% udziałów lub akcji.
+wydaje decyzję zatwierdzającą plan spłaty przejętych zobowiązań przez Operatora, o którym mowa w art. 32e, a także zakres ich umorzeń;
 
-**Art. 32f.**
+” ;
 
-1. Restrukturyzacja na szczególnych zasadach polega na:
+### 3)
 
-- **1)** przejęciu od przedsiębiorcy przez Operatora:
-    - **a)** zobowiązań przedsiębiorcy, o których mowa w art. 32a ust. 1 lub art. 32c ust. 1,
-    - **b)** składników majątku przedsiębiorcy;
+w art. 19 w ust. 1 w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7-9 w brzmieniu:
 
-- **2)** umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy - na warunkach określonych w niniejszym rozdziale.
+„
 
-2. Przejęcie przez Operatora zobowiązań przedsiębiorcy następuje mocy prawa dniem przeniesienia na niego własności sk ładników majątku według ich wartości księgowej; tym dniem wygasają także zabezpieczenia tych zobowiązań na majątku lub prawach przedsiębiorcy, ustanowione przez Wierzyciela.
+### 7)
 
-3. Przedsiębiorca nie odpowiada za zobowiązania przejęte przez Operatora. Odmienne zastrzeżenie umowne jest nieważne.
+spis zobowiązań publicznoprawnych objętych restrukturyzacją na szczególnych zasadach, o których mowa w rozdziale 5a;
 
-**Art. 32g.**
+### 8)
 
-1. Przedsiębiorca składa do Prezesa Agencji wniosek o restrukturyzację na szczególnych zasadach.
+wskazanie Operatora, o którym mowa w art. 32e;
 
-2. Wniosek, o którym mowa w ust. 1, powinien zawierać informacje określone w art. 13 ust. 1 pkt 1-3.
+### 9)
 
-3. Przedsiębiorca, składając wniosek, o którym mowa w ust. 1, jest obowiązany dołączyć do niego zmiany wprowadzone do planu restrukturyzacji, o którym mowa w art. 13 ust. 3 pkt 1, zawierające:
+wskazanie składników majątku, które mają być przeniesione na własność Operatora.
 
-- **1)** wskazanie składników majątku proponowanych do przeniesienia na własność Operatora;
-- **2)** spis zobowiązań publicznoprawnych proponowanych do objęcia restrukturyzacją na szczególnych zasadach, ze wskazaniem Wierzycieli zabezpieczeń tych zobowiązań;
-- **3)** aktualizację określenia stanu ekonomicznego przedsię biorcy, jaki ma być osiągnięty po przeprowadzeniu postępowania restrukturyzacyjnego;
-- **4)** informację o podjęciu uchwały, o której mowa w art. 32c ust. 1.
+” ;
 
-**Art. 32h.**
+### 4)
 
-1. Decyzja o restrukturyzacji w części dotyczącej restrukturyzacji na szczególnych zasadach wymaga zgody Wierzyciela. Prezes Agencji przekazuje decyzję Wierzycielowi Operatorowi.
+art. 27 otrzymuje brzmienie:
 
-2. Wyrażenie przez Wierzyciela zgody, o której mowa w ust. 1, zań przedsiębiorcy Operator jest obowiązany do przedłożenia Prezesowi Agencji uzgodnionego Wierzycielami planu spłaty przejętych zobowiązań publicznoprawnych wraz ze wskazaniem zobowiązań przewidzianych do umorzenia.
+„
 
-2. Plan spłaty przejętych zobowiązań, o którym mowa w ust. 1, a także zakres ich umorzeń zatwierdza, w drodze decyzji, Prezes Agencji. Decyzję Prezes Agencji przekazuje niezwłocznie Wierzycielowi.
+### Art. 27.
 
-3. Umorzenie zobowiązań przypadających poszczególnym Wierzycielom dokonywane jest proporcjonalnie do udziału należności każdego Wierzycieli w ogólnej kwocie zobowiązań podlegających umorzeniu.
+Restrukturyzacja należności publicznoprawnych jest dokonywana w zakresie, na zasadach i w trybie określonych w przepisach ustawy o restrukturyzacji należności publicznoprawnych, z zastrzeżeniem przepisów niniejszego rozdziału i rozdziału 5a.
 
-4. Decyzję o umorzeniu należności publicznoprawnych wymienionych w decyzji, o której mowa w ust. 2, wydaje Wierzyciel w zakresie wynikającym tej decyzji, po wykonaniu przez Operatora planu spłaty przejętych przez niego zobowiązań.
+” ;
 
-5. Do decyzji o umorzeniu należności publicznoprawnych, o której mowa w ust. 4, w przypadku gdy Wierzycielem jest Fundusz Gwarantowanych Świadczeń Pracowniczych, przepisów art. 10 ust. 3 ustawy dnia 29 grudnia 1993 o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz.U. 2002 9, 85, późn. zm. ) nie stosuje się.
+### 5)
 
-**Art. 32j.**
+po rozdziale 5 dodaje się rozdział 5a w brzmieniu:
 
-1. Operator przekazuje Wierzycielom środki pieniężne określone w art. 32i, uzyskane w wyniku gospodarowania przejętym majątkiem jego zbycia, pomniejszone o koszty poniesione tych tytułów.
+„
 
-2. Operator dokonuje podziału środków pieniężnych, o których mowa w ust. 1, na zaspokojenie zobowiązań przypadających poszczególnym Wierzycielom, proporcjonalnie do udziału należności każdego tych Wierzycieli w ogólnej kwocie przejętych przez niego zobowiązań.
+### Rozdział 5a Restrukturyzacja niektórych należności publicznoprawnych na szczególnych zasadach
 
-3. Operator jest obowiązany do prowadzenia odrębnej ewidencji przychodów wydatków związanych gospodarowaniem zbyciem przejętego majątku.
+### Art. 32a.
 
-**Art. 32k.**
+### 1.
 
-1. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy wobec tego Operatora:
+Restrukturyzacji niektórych należności publicznoprawnych na szczególnych zasadach, zwanej dalej „restrukturyzacją na szczególnych zasadach”, podlegają znane na dzień 30 czerwca 2003 r. następujące należności publicznoprawne:
 
-- **1)** nie może być ogłoszona upadłość;
-- **2)** nie stosuje się przepisów o obowiązku zgłoszenia wniosku o ogłoszenie upadłości;
-- **3)** nie wymierza si ę nie pobiera opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy dnia 27 kwietnia 2001 - Prawo ochrony środowiska od przejętego majątku;
-- **4)** nie nalicza się odsetek za zwłokę od przejętych zobowiązań; dotyczącego przejętych zobowiązań.
+### 1)
 
-2. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy do nabywcy majątku przejętego przez Operatora nie stosuje się przepisów art. 112 ustawy dnia 29 sierpnia 1997 - Ordynacja podatkowa (Dz.U. 137, 926, późn. zm. ).
+z tytułu podatków wobec budżetu państwa, należności celnych oraz wpłat z zysku na rzecz Skarbu Państwa,
 
-**Art. 32l.** W dniu przejęcia przez Operatora składników majątku zobowiązań przedsiębiorcy na zasadach określonych w niniejszym rozdziale w dniu zbycia tego majątku spłaty tych zobowiązań przez Operatora, a także ich umorzenia w trybie art. 32i ust. 4, nie rozpoznaje się przychodów podatkowych kosztów uzyskania przychodów.”.
+### 2)
 
-**Art. 2.** W ustawie dnia 8 stycznia 1993 o podatku od towarów usług o podatku akcyzowym (Dz.U. 11, 50, późn. zm. ) w art. 7 ust. 4 otrzymuje brzmienie: „4. Zwalnia się od podatku od towarów usług czynności, o których mowa w art. 32f ust. 2, art. 34 ust. 1, art. 35, art. 36 ust. 1 art. 55 ustawy dnia 30 października 2002 o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz.U. 213, 1800 2003 90, 844 229, 2271).”.
+z tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika, Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych,
 
-**Art. 3.** W ustawie dnia 29 grudnia 1993 o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz.U. 2002 9, 85, późn. zm. ) w art. 10 dodaje się ust. 4 w brzmieniu: „4. Fundusz może odstąpić w całości lub w części od dochodzenia zwrotu naliczonych niespłaconych odsetek od nieterminowych płatności w przypadku całkowitej spłaty Funduszowi należności głównej. Dysponent Funduszu może upoważnić Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych, o którym mowa w art. 12 ust. 5, do wykonywania tych czynności. W odniesieniu do należności głównych spłaconych ze ustawy.”.
+### 3)
 
-**Art. 4.** Przedsiębiorca składa wniosek, o którym mowa w art. 32g ust. 1 ustawy wymienionej w art. 1, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
+wobec Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych
 
-**Art. 5.** Z dniem wejścia w życie niniejszej ustawy podlegają umorzeniu wzajemne należności zobowiązania między Zakładem Ubezpieczeń Społecznych, Funduszem Pracy Funduszem Gwarantowanych Świadczeń Pracowniczych, powstałe tytułu poboru przez Zakład Ubezpieczeń Społecznych przekazywania na te Fundusze składek należnych za okres do dnia 31 grudnia 1998
+- niepodlegające restrukturyzacji albo w stosunku do których nie zostało wszczęte postępowanie restrukturyzacyjne na podstawie przepisów ustawy o restrukturyzacji należności publicznoprawnych;
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### 4)
 
+z tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska ([Dz. U. z 1994 r. Nr 49, poz. 196](https://api.sejm.gov.pl/eli/acts/DU/1994/196/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 550, Nr 62, poz. 718 i Nr 109, poz. 1157 oraz z 2001 r. Nr 38, poz. 452, Nr 45, poz. 497, Nr 63, poz. 634, Nr 73, poz. 764, Nr 76, poz. 811 i Nr 84, poz. 907.](#gloss-0:2:)), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. Nr 62, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124.](#gloss-0:3:)) oraz opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. - Prawo wodne ([Dz. U. Nr 38, poz. 230](https://api.sejm.gov.pl/eli/acts/DU/1974/230/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 47, poz. 299, Nr 88, poz. 554 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 12, poz. 136, Nr 89, poz. 991, Nr 109, poz. 1157 i Nr 120, poz. 1268 oraz z 2001 r. Nr 5, poz. 43, Nr 72, poz. 747, Nr 100, poz. 1085.](#gloss-0:4:)) stanowiących przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich, powiatowych i gminnych funduszy ochrony środowiska i gospodarki wodnej - niezależnie od tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny być wpłacane przez przedsiębiorcę;
+
+### 5)
+
+z tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
+
+### 6)
+
+z tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa;
+
+### 7)
+
+z tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia oraz kosztów egzekucyjnych, od zaległości wymienionych w pkt 1-6.
+
+### 2.
+
+Nie podlegają restrukturyzacji zaległości z tytułu składki na ubezpieczenie emerytalne.
+
+### 3.
+
+Nie podlegają restrukturyzacji również zaległości podatkowe i celne określone w decyzji właściwego organu podatkowego, organu celnego lub organu kontroli skarbowej oraz należności z tytułu składek na ubezpieczenia społeczne, składek na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych oraz opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich, powiatowych i gminnych funduszy ochrony środowiska i gospodarki wodnej oraz opłat za użytkowanie wieczyste gruntów Skarbu Państwa, określone w wyniku postępowania kontrolnego, jeżeli zaległości te zostały określone jako wynikające z czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
+
+### Art. 32b.
+
+Znane na dzień 30 czerwca 2003 r. zaległości we wpłatach składek na ubezpieczenie emerytalne, składek na ubezpieczenia społeczne w części finansowanej przez ubezpieczonego oraz składek na ubezpieczenie zdrowotne, wraz z odsetkami za zwłokę, podlegają spłacie przez przedsiębiorcę, który złożył wniosek, o którym mowa w art. 32g ust. 1, w terminie 24 miesięcy od dnia wydania decyzji o restrukturyzacji.
+
+### Art. 32c.
+
+### 1.
+
+Restrukturyzację na szczególnych zasadach stosuje się odpowiednio do należności od przedsiębiorców z tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie, na wniosek przedsiębiorcy, uchwałę o restrukturyzacji tych należności.
+
+### 2.
+
+Restrukturyzacja należności jednostek samorządu terytorialnego na podstawie niniejszego rozdziału nie uprawnia tych jednostek do rekompensaty ubytku ich dochodów z tego tytułu przez budżet państwa.
+
+### Art. 32d.
+
+Warunkiem restrukturyzacji na szczególnych zasadach jest wydanie przez Prezesa Agencji postanowienia o wszczęciu postępowania restrukturyzacyjnego, o którym mowa w art. 10 ust. 1 pkt 1, oraz przeniesienie przez przedsiębiorcę na Operatora własności części majątku, nieobciążonego hipoteką lub zastawem na rzecz osób trzecich niebędących organem restrukturyzacyjnym należności publicznoprawnych, zwanym dalej „Wierzycielem”, stanowiącego równowartość co najmniej 25% kwoty należności zgłoszonych do restrukturyzacji.
+
+### Art. 32e.
+
+### 1.
+
+Prezes Agencji, przed wskazaniem Operatora w decyzji o restrukturyzacji, jest obowiązany uzyskać zgodę spółki na pełnienie przez nią funkcji Operatora.
+
+### 2.
+
+Operator nie może posiadać, na dzień wydania decyzji o restrukturyzacji, zaległości z tytułu podatków stanowiących dochód budżetu państwa oraz składek na ubezpieczenia społeczne.
+
+### 3.
+
+Operatorem może być wyłącznie spółka kapitałowa, w której Skarb Państwa lub Agencja posiada 100% udziałów lub akcji, albo Skarb Państwa i Agencja posiadają łącznie 100% udziałów lub akcji.
+
+### Art. 32f.
+
+### 1.
+
+Restrukturyzacja na szczególnych zasadach polega na:
+
+### 1)
+
+przejęciu od przedsiębiorcy przez Operatora:
+
+### a)
+
+zobowiązań przedsiębiorcy, o których mowa w art. 32a ust. 1 lub art. 32c ust. 1,
+
+### b)
+
+składników majątku przedsiębiorcy,
+
+### 2)
+
+umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy
+
+- na warunkach określonych w niniejszym rozdziale.
+
+### 2.
+
+Przejęcie przez Operatora zobowiązań przedsiębiorcy następuje z mocy prawa z dniem przeniesienia na niego własności składników majątku według ich wartości księgowej; z tym dniem wygasają także zabezpieczenia tych zobowiązań na majątku lub prawach przedsiębiorcy, ustanowione przez Wierzyciela.
+
+### 3.
+
+Przedsiębiorca nie odpowiada za zobowiązania przejęte przez Operatora. Odmienne zastrzeżenie umowne jest nieważne.
+
+### Art. 32g.
+
+### 1.
+
+Przedsiębiorca składa do Prezesa Agencji wniosek o restrukturyzację na szczególnych zasadach.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, powinien zawierać informacje określone w art. 13 ust. 1 pkt 1-3.
+
+### 3.
+
+Przedsiębiorca, składając wniosek, o którym mowa w ust. 1, jest obowiązany dołączyć do niego zmiany wprowadzone do planu restrukturyzacji, o którym mowa w art. 13 ust. 3 pkt 1, zawierające:
+
+### 1)
+
+wskazanie składników majątku proponowanych do przeniesienia na własność Operatora;
+
+### 2)
+
+spis zobowiązań publicznoprawnych proponowanych do objęcia restrukturyzacją na szczególnych zasadach, ze wskazaniem Wierzycieli oraz zabezpieczeń tych zobowiązań;
+
+### 3)
+
+aktualizację określenia stanu ekonomicznego przedsiębiorcy, jaki ma być osiągnięty po przeprowadzeniu postępowania restrukturyzacyjnego;
+
+### 4)
+
+informację o podjęciu uchwały, o której mowa w art. 32c ust. 1.
+
+### Art. 32h.
+
+### 1.
+
+Decyzja o restrukturyzacji w części dotyczącej restrukturyzacji na szczególnych zasadach wymaga zgody Wierzyciela. Prezes Agencji przekazuje decyzję Wierzycielowi i Operatorowi.
+
+### 2.
+
+Wyrażenie przez Wierzyciela zgody, o której mowa w ust. 1, oznacza zgodę na wygaśnięcie ustanowionych przez niego zabezpieczeń, o których mowa w art. 32f ust. 2.
+
+### Art. 32i.
+
+### 1.
+
+W terminie 9 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy Operator jest obowiązany do przedłożenia Prezesowi Agencji uzgodnionego z Wierzycielami planu spłaty przejętych zobowiązań publicznoprawnych wraz ze wskazaniem zobowiązań przewidzianych do umorzenia.
+
+### 2.
+
+Plan spłaty przejętych zobowiązań, o którym mowa w ust. 1, a także zakres ich umorzeń zatwierdza, w drodze decyzji, Prezes Agencji. Decyzję Prezes Agencji przekazuje niezwłocznie Wierzycielowi.
+
+### 3.
+
+Umorzenie zobowiązań przypadających poszczególnym Wierzycielom dokonywane jest proporcjonalnie do udziału należności każdego z Wierzycieli w ogólnej kwocie zobowiązań podlegających umorzeniu.
+
+### 4.
+
+Decyzję o umorzeniu należności publicznoprawnych wymienionych w decyzji, o której mowa w ust. 2, wydaje Wierzyciel w zakresie wynikającym z tej decyzji, po wykonaniu przez Operatora planu spłaty przejętych przez niego zobowiązań.
+
+### 5.
+
+Do decyzji o umorzeniu należności publicznoprawnych, o której mowa w ust. 4, w przypadku gdy Wierzycielem jest Fundusz Gwarantowanych Świadczeń Pracowniczych, przepisów art. 10 ust. 3 ustawy z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy ([Dz. U. z 2002 r. Nr 9, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/2002/85/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1088, Nr 155, poz. 1287 i Nr 199, poz. 1673 oraz z 2003 r. Nr 210, poz. 2037.](#gloss-0:5:)) nie stosuje się.
+
+### Art. 32j.
+
+### 1.
+
+Operator przekazuje Wierzycielom środki pieniężne określone w art. 32i, uzyskane w wyniku gospodarowania przejętym majątkiem i jego zbycia, pomniejszone o koszty poniesione z tych tytułów.
+
+### 2.
+
+Operator dokonuje podziału środków pieniężnych, o których mowa w ust. 1, na zaspokojenie zobowiązań przypadających poszczególnym Wierzycielom, proporcjonalnie do udziału należności każdego z tych Wierzycieli w ogólnej kwocie przejętych przez niego zobowiązań.
+
+### 3.
+
+Operator jest obowiązany do prowadzenia odrębnej ewidencji przychodów i wydatków związanych z gospodarowaniem i zbyciem przejętego majątku.
+
+### Art. 32k.
+
+### 1.
+
+W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy wobec tego Operatora:
+
+### 1)
+
+nie może być ogłoszona upadłość;
+
+### 2)
+
+nie stosuje się przepisów o obowiązku zgłoszenia wniosku o ogłoszenie upadłości;
+
+### 3)
+
+nie wymierza się i nie pobiera opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska od przejętego majątku;
+
+### 4)
+
+nie nalicza się odsetek za zwłokę od przejętych zobowiązań;
+
+### 5)
+
+nie wszczyna się i nie prowadzi postępowania egzekucyjnego dotyczącego przejętych zobowiązań.
+
+### 2.
+
+W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy do nabywcy majątku przejętego przez Operatora nie stosuje się przepisów art. 112 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256.](#gloss-0:6:)).
+
+### Art. 32I.
+
+W dniu przejęcia przez Operatora składników majątku i zobowiązań przedsiębiorcy na zasadach określonych w niniejszym rozdziale oraz w dniu zbycia tego majątku i spłaty tych zobowiązań przez Operatora, a także ich umorzenia w trybie art. 32i ust. 4, nie rozpoznaje się przychodów podatkowych oraz kosztów uzyskania przychodów.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym ([Dz. U. Nr 11, poz. 50](https://api.sejm.gov.pl/eli/acts/DU/1993/50/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104, z 1998 r. Nr 139, poz. 905 i Nr 161, poz. 1076, z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596 i Nr 95, poz. 1100, z 2000 r. Nr 68, poz. 805 i Nr 105, poz. 1107, z 2001 r. Nr 12, poz. 92, Nr 39, poz. 459, Nr 56, poz. 580, Nr 63, poz. 639, Nr 80, poz. 858, Nr 90, poz. 995, Nr 106, poz. 1150 i Nr 122, poz. 1324, z 2002 r. Nr 19, poz. 185, Nr 41, poz. 365, Nr 86, poz. 794, Nr 153, poz. 1272, Nr 169, poz. 1387 i Nr 213, poz. 1800 i 1803 oraz z 2003 r. Nr 7, poz. 79, Nr 84, poz. 774, Nr 96, poz. 874, Nr 130, poz. 1188, Nr 137, poz. 1302 i Nr 199, poz. 1934.](#gloss-0:7:)) w art. 7 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Zwalnia się od podatku od towarów i usług czynności, o których mowa w art. 32f ust. 2, art. 34 ust. 1, art. 35, art. 36 ust. 1 i art. 55 ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy ([Dz. U. Nr 213, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text.html) oraz z [2003 r. Nr 90, poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2003/844/text.html) i [Nr 229, poz. 2271](https://api.sejm.gov.pl/eli/acts/DU/2003/2271/text.html)).
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy ([Dz. U. z 2002 r. Nr 9, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/2002/85/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1088, Nr 155, poz. 1287 i Nr 199, poz. 1673 oraz z 2003 r. Nr 210, poz. 2037.](#gloss-0:8:)) w art. 10 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Fundusz może odstąpić w całości lub w części od dochodzenia zwrotu naliczonych i niespłaconych odsetek od nieterminowych płatności w przypadku całkowitej spłaty Funduszowi należności głównej. Dysponent Funduszu może upoważnić Dyrektora Krajowego Biura Funduszu Gwarantowanych Świadczeń Pracowniczych, o którym mowa w art. 12 ust. 5, do wykonywania tych czynności. W odniesieniu do należności głównych spłaconych ze środków budżetu państwa spłata należnych odsetek ulega umorzeniu z mocy ustawy.
+
+” .
+
+### Art. 4.
+
+Przedsiębiorca składa wniosek, o którym mowa w art. 32g ust. 1 ustawy wymienionej w art. 1, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 5.
+
+Z dniem wejścia w życie niniejszej ustawy podlegają umorzeniu wzajemne należności i zobowiązania między Zakładem Ubezpieczeń Społecznych, Funduszem Pracy oraz Funduszem Gwarantowanych Świadczeń Pracowniczych, powstałe z tytułu poboru przez Zakład Ubezpieczeń Społecznych i przekazywania na te Fundusze składek należnych za okres do dnia 31 grudnia 1998 r.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 132, poz. 622, z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 101, poz. 1178, z 2000 r. Nr 12, poz. 136, Nr 48, poz. 550, Nr 62, poz. 718 i Nr 109, poz. 1157 oraz z 2001 r. Nr 38, poz. 452, Nr 45, poz. 497, Nr 63, poz. 634, Nr 73, poz. 764, Nr 76, poz. 811 i Nr 84, poz. 907. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, z 2002 r. Nr 74, poz. 676, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 233, poz. 1957 oraz z 2003 r. Nr 46, poz. 392, Nr 80, poz. 717 i 721, Nr 162, poz. 1568, Nr 175, poz. 1693, Nr 190, poz. 1865 i Nr 217, poz. 2124. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 47, poz. 299, Nr 88, poz. 554 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 12, poz. 136, Nr 89, poz. 991, Nr 109, poz. 1157 i Nr 120, poz. 1268 oraz z 2001 r. Nr 5, poz. 43, Nr 72, poz. 747, Nr 100, poz. 1085. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1088, Nr 155, poz. 1287 i Nr 199, poz. 1673 oraz z 2003 r. Nr 210, poz. 2037. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387 oraz z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104, z 1998 r. Nr 139, poz. 905 i Nr 161, poz. 1076, z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596 i Nr 95, poz. 1100, z 2000 r. Nr 68, poz. 805 i Nr 105, poz. 1107, z 2001 r. Nr 12, poz. 92, Nr 39, poz. 459, Nr 56, poz. 580, Nr 63, poz. 639, Nr 80, poz. 858, Nr 90, poz. 995, Nr 106, poz. 1150 i Nr 122, poz. 1324, z 2002 r. Nr 19, poz. 185, Nr 41, poz. 365, Nr 86, poz. 794, Nr 153, poz. 1272, Nr 169, poz. 1387 i Nr 213, poz. 1800 i 1803 oraz z 2003 r. Nr 7, poz. 79, Nr 84, poz. 774, Nr 96, poz. 874, Nr 130, poz. 1188, Nr 137, poz. 1302 i Nr 199, poz. 1934. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1088, Nr 155, poz. 1287 i Nr 199, poz. 1673 oraz z 2003 r. Nr 210, poz. 2037.

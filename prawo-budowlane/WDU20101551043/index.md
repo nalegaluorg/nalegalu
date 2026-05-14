@@ -8,11 +8,9 @@ pos: 1043
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
-
-*USTAWA z dnia 6 sierpnia 2010 r.*
+# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o gospodarce nieruchomościami oraz ustawy o planowaniu i zagospodarowaniu przestrzennym
 
 | Pole | Wartość |
 |---|---|
@@ -24,17 +22,70 @@ domain: null
 | Data ogłoszenia | 2010-08-06 |
 | Data wydania | 2010-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101551043) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1043/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/1043/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/1043) |
 
-**Art. 1.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2010 r. Nr 102, poz. 651 i Nr 106, poz. 675) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. Nr 80, poz. 717, z późn. zm. ) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2010 r. Nr 102, poz. 651](https://api.sejm.gov.pl/eli/acts/DU/2010/651/text.html), [Nr 106, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2010/675/text.html) i [Nr 143, poz. 963](https://api.sejm.gov.pl/eli/acts/DU/2010/963/text.html)) wprowadza się następujące zmiany:
 
-1. Obowiązujące w dniu wejścia w życie niniejszej ustawy studia uwarunkowań i kierunków zagospodarowania przestrzennego gmin, miejscowe plany zagospodarowania przestrzennego oraz plany zagospodarowania przestrzennego województw zachowują moc.
+### 1)
 
-2. Do miejscowych planów zagospodarowania przestrzennego oraz studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, w stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu lub studium, a postępowanie nie zostało zakończone do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+w art. 6 pkt 2 otrzymuje brzmienie:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+„
 
+### 2)
+
+budowa i utrzymywanie ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej, a także innych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń;
+
+” ;
+
+### 2)
+
+w art. 124 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Starosta, wykonujący zadanie z zakresu administracji rządowej, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzenie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania lub dystrybucji płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. ” .
+
+### Art. 2.
+
+W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675, Nr 119, poz. 804, Nr 130, poz. 871 i Nr 149, poz. 996.](#gloss-0:1:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Jeżeli na obszarze gminy przewiduje się wyznaczenie obszarów, na których rozmieszczone będą urządzenia wytwarzające energię z odnawialnych źródeł energii o mocy przekraczającej 100 kW, a także ich stref ochronnych związanych z ograniczeniami w zabudowie oraz zagospodarowaniu i użytkowaniu terenu; w studium ustala się ich rozmieszczenie.
+
+” ;
+
+### 2)
+
+w art. 15 w ust. 3 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+granice terenów pod budowę urządzeń, o których mowa w art. 10 ust. 2a, oraz granice ich stref ochronnych związanych z ograniczeniami w zabudowie, zagospodarowaniu i użytkowaniu terenu oraz występowaniem znaczącego oddziaływania tych urządzeń na środowisko;
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Obowiązujące w dniu wejścia w życie niniejszej ustawy studia uwarunkowań i kierunków zagospodarowania przestrzennego gmin, miejscowe plany zagospodarowania przestrzennego oraz plany zagospodarowania przestrzennego województw zachowują moc.
+
+### 2.
+
+Do miejscowych planów zagospodarowania przestrzennego oraz studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy, w stosunku do których podjęto uchwałę o przystąpieniu do sporządzania lub zmiany planu lub studium, a postępowanie nie zostało zakończone do dnia wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492, z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087, z 2006 r. Nr 45, poz. 319 i Nr 225, poz. 1635, z 2007 r. Nr 127, poz. 880, z 2008 r. Nr 199, poz. 1227, Nr 201, poz. 1237 i Nr 220, poz. 1413 oraz z 2010 r. Nr 24, poz. 124, Nr 75, poz. 474, Nr 106, poz. 675, Nr 119, poz. 804, Nr 130, poz. 871 i Nr 149, poz. 996.

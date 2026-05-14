@@ -8,9 +8,9 @@ pos: 1104
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o sposobie ustalania najniższego zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych oraz niektórych innych ustaw
+# Ustawa z dnia 28 maja 2021 r. o zmianie ustawy o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,20 +22,144 @@ domain: null
 | Data ogłoszenia | 2021-05-28 |
 | Data wydania | 2021-06-21 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001104) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1104/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1104/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1104) |
 
-**Art. 1.** W ustawie dnia 8 czerwca 2017 r. o sposobie ustalania najniższego zasadniczego niektórych pracowników zatrudnionych podmiotach leczniczych (Dz. U. 2020 r. poz. 830 i 2401) wprowadza się następujące zmiany:
+## Spis treści
 
-**Art. 3.** W ustawie dnia 27 listopada 2020 r. o zmianie niektórych ustaw celu zapewnienia okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych (Dz. U. poz. 2401) art. 19:
+- [Treść ustawy](#part_1)
 
-**Art. 4.**
+- [Załącznik - Tekst załącznika](#part_2)
 
-1. Porozumienie, o którym mowa art. 3 ust. 1 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, zawiera się terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+TOC
 
-2. Jeżeli porozumienie nie zostanie zawarte terminie określonym ust. 1, sposób podwyższania zasadniczego ustala, terminie 7 dni od dnia upływu terminu, o którym mowa ust. 1, drodze zarządzenia sprawie podwyższenia wynagrodzenia:
+## Treść ustawy
 
-- **1)** kierownik podmiotu leczniczego;
-- **2)** podmiot tworzący, o którym mowa art. 4 pkt 1 ustawy zmienianej art. 1 – przypadku podmiotów leczniczych działających formie jednostek budżetowych i jednostek wojskowych, o których mowa art. 4 ust. 1 pkt 3 i 7 ustawy dnia 15 kwietnia 2011 r. o leczniczej (Dz. U. r. poz. 711).
+### Art. 1.
 
-**Art. 5.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem art. 1 pkt 1, który wchodzi życie dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda „Załącznik do ustawy dnia 8 czerwca 2017 r. WSPÓŁCZYNNIKI PRACY Lp. Grupy zawodowe według kwalifikacji wymaganych Współczynnik na zajmowanym stanowisku pracy 1 2 3 4 Lekarz stażysta albo lekarz dentysta stażysta 0,81 Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny albo inny pracownik 5 wykonujący zawód medyczny inny niż określony lp. 1–4, wymagający 1,06 wyższego wykształcenia i specjalizacji Farmaceuta, fizjoterapeuta, diagnosta laboratoryjny albo inny pracownik 6 wykonujący zawód medyczny inny niż określony lp. 1–5 albo pracownik 0,81 podstawowej, inny niż pracownik wykonujący zawód medyczny, wymagający wyższego wykształcenia, bez specjalizacji Pielęgniarka tytułem zawodowym magister pielęgniarstwa albo położna 7 tytułem zawodowym magister położnictwa, która uzyskała tytuł spe- 1,06 cjalisty dziedzinie pielęgniarstwa lub dziedzinie mającej zastosowanie ochronie zdrowia Pielęgniarka albo położna, która uzyskała tytuł specjalisty dziedzinie pielęgniarstwa lub dziedzinie mającej zastosowanie ochronie zdrowia, 8 albo pielęgniarka tytułem zawodowym licencjat albo magister pielęg- 0,81 niarstwa albo położna tytułem zawodowym licencjat albo magister położnictwa Pielęgniarka albo położna inna niż określona lp. 7 i 8, która nie posiada 9 tytułu specjalisty dziedzinie pielęgniarstwa lub dziedzinie mającej zasto- 0,73 sowanie ochronie zdrowia Fizjoterapeuta albo inny pracownik wykonujący zawód medyczny inny niż 10 określony lp. 1–9 albo pracownik podstawowej, inny niż 0,73 pracownik wykonujący zawód medyczny, wymagający średniego wykształcenia Pracownik podstawowej, inny niż pracownik wykonujący za11 0,59 wód medyczny, inny niż określony lp. 6 i 10 ”
+W ustawie z dnia 8 czerwca 2017 r. o sposobie ustalania najniższego wynagrodzenia zasadniczego niektórych pracowników zatrudnionych w podmiotach leczniczych ([Dz. U. z 2020 r. poz. 830](https://api.sejm.gov.pl/eli/acts/DU/2020/830/text.html) i [2401](https://api.sejm.gov.pl/eli/acts/DU/2020/2401/text.html)) wprowadza się następujące zmiany:
 
+### 1)
+
+w art. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+najniższe wynagrodzenie zasadnicze - najniższe miesięczne wynagrodzenie zasadnicze przysługujące pracownikowi wykonującemu zawód medyczny oraz pracownikowi działalności podstawowej, innemu niż pracownik wykonujący zawód medyczny, zatrudnionym w podmiocie leczniczym, obliczone w sposób określony w art. 3, art. 3a albo art. 7;
+
+” ;
+
+### 2)
+
+art. 3 otrzymuje brzmienie:
+
+„
+
+### Art. 3.
+
+### 1.
+
+Do dnia 1 lipca 2021 r. podmiot leczniczy dokonuje podwyższenia wynagrodzenia zasadniczego pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, którego wynagrodzenie zasadnicze jest niższe od najniższego wynagrodzenia zasadniczego, ustalonego jako iloczyn współczynnika pracy określonego w załączniku do ustawy i kwoty przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w roku poprzedzającym ustalenie, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do wysokości nie niższej niż najniższe wynagrodzenie zasadnicze, z uwzględnieniem następujących warunków:
+
+### 1)
+
+sposób podwyższania wynagrodzenia zasadniczego ustalają, w drodze porozumienia, strony uprawnione w danym podmiocie leczniczym do zawarcia zakładowego układu zbiorowego pracy, zwanego dalej „porozumieniem”;
+
+### 2)
+
+podmiot leczniczy, u którego nie działa zakładowa organizacja związkowa, zawiera porozumienie z pracownikiem wybranym przez pracowników podmiotu leczniczego do reprezentowania ich interesów;
+
+### 3)
+
+jeżeli porozumienie nie zostanie zawarte, sposób podwyższania wynagrodzenia zasadniczego ustala w drodze zarządzenia w sprawie podwyższenia wynagrodzenia, zwanego dalej „zarządzeniem”:
+
+### a)
+
+kierownik podmiotu leczniczego,
+
+### b)
+
+podmiot tworzący, o którym mowa w art. 4 pkt 1 - w przypadku podmiotów leczniczych działających w formie jednostek budżetowych i jednostek wojskowych, o których mowa w art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+
+### 4)
+
+ustalony w drodze porozumienia albo zarządzenia sposób podwyższenia wynagrodzenia zasadniczego zapewnia proporcjonalny dla każdej z grup zawodowych średni wzrost tego wynagrodzenia.
+
+### 2.
+
+Pracownikowi wykonującemu zawód medyczny oraz pracownikowi działalności podstawowej, innemu niż pracownik wykonujący zawód medyczny, zatrudnionym w niepełnym wymiarze czasu pracy najniższe wynagrodzenie zasadnicze oblicza się proporcjonalnie do wymiaru czasu pracy określonego w ramach stosunku pracy.
+
+### 3.
+
+Ustalony w drodze porozumienia albo zarządzenia sposób podwyższania wynagrodzenia zasadniczego osoby zajmującej stanowisko pielęgniarki lub położnej uwzględnia wzrost miesięcznego wynagrodzenia danej pielęgniarki albo położnej dokonany na podstawie przepisów wydanych na podstawie art. 137 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2020 r. poz. 1398](https://api.sejm.gov.pl/eli/acts/DU/2020/1398/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.](#gloss-0:2:)).
+
+### 4.
+
+Od dnia 2 lipca 2021 r. wynagrodzenie zasadnicze pracownika wykonującego zawód medyczny oraz pracownika działalności podstawowej, innego niż pracownik wykonujący zawód medyczny, nie może być niższe niż najniższe wynagrodzenie zasadnicze ustalone w sposób określony w ust. 1 na dzień 1 lipca 2021 r.
+
+” ;
+
+### 3)
+
+załącznik do ustawy otrzymuje brzmienie określone w załączniku do niniejszej ustawy.
+
+### Art. 2.
+
+W ustawie z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 ([Dz. U. poz. 2400](https://api.sejm.gov.pl/eli/acts/DU/2020/2400/text.html)) art. 68 otrzymuje brzmienie:
+
+„
+
+### Art. 68.
+
+W roku 2021 limit wydatków przeznaczonych na finansowanie staży podyplomowych lekarzy i lekarzy dentystów, o których mowa w ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty ([Dz. U. z 2021 r. poz. 790](https://api.sejm.gov.pl/eli/acts/DU/2021/790/text.html)), wynosi 451 000 tys. zł.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych ([Dz. U. poz. 2401](https://api.sejm.gov.pl/eli/acts/DU/2020/2401/text.html)) w art. 19:
+
+### 1)
+
+w ust. 1-3 wyrazy „1 lipca 2021 r.” zastępuje się wyrazami „30 czerwca 2021 r.”;
+
+### 2)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku zmiany wymiaru czasu pracy, systemu czasu pracy lub rozkładu czasu pracy albo wymiaru równoważnika etatu lub liczby zadań realizowanych na podstawie umowy cywilnoprawnej albo zmiany zasad ustalania wysokości składników wynagrodzenia wynikającej z odwołania stanu zagrożenia epidemicznego lub stanu epidemii wysokość wynagrodzenia, o której mowa w ust. 1, może ulec proporcjonalnej zmianie.
+
+” .
+
+### Art. 4.
+
+### 1.
+
+Porozumienie, o którym mowa w art. 3 ust. 1 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zawiera się w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Jeżeli porozumienie nie zostanie zawarte w terminie określonym w ust. 1, sposób podwyższania wynagrodzenia zasadniczego ustala, w terminie 7 dni od dnia upływu terminu, o którym mowa w ust. 1, w drodze zarządzenia w sprawie podwyższenia wynagrodzenia:
+
+### 1)
+
+kierownik podmiotu leczniczego;
+
+### 2)
+
+podmiot tworzący, o którym mowa w art. 4 pkt 1 ustawy zmienianej w art. 1 - w przypadku podmiotów leczniczych działających w formie jednostek budżetowych i jednostek wojskowych, o których mowa w art. 4 ust. 1 pkt 3 i 7 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ([Dz. U. z 2021 r. poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2021/711/text.html)).
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 1 pkt 1, który wchodzi w życie z dniem 1 stycznia 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 listopada 2020 r. o szczególnych rozwiązaniach służących realizacji ustawy budżetowej na rok 2021 oraz ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1492, 1493, 1578, 1875, 2112, 2345 i 2401 oraz z 2021 r. poz. 97, 159 i 694.
+
+## Załącznik - Tekst załącznika
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2021/1104/text.pdf)

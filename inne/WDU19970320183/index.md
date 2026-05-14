@@ -8,11 +8,9 @@ pos: 183
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości
-
-*USTAWA z dnia 6 lutego 1997 r.*
+# Ustawa z dnia 6 lutego 1997 r. o zmianie ustawy - Prawo spółdzielcze i ustawy o rachunkowości
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +22,26 @@ domain: null
 | Data ogłoszenia | 1997-02-06 |
 | Data wydania | 1997-04-05 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970320183) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/183/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/183) |
 
-**Art. 1.** W ustawie z dnia 16 września 1982 r. - Prawo spółdzielcze (Dz.U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189) w art. 89 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: "2. Ogłaszanie przez organizacje spółdzielcze dokumentów, o których mowa w art. 70 ust. 1, ustawy z dnia 29 września 1994 r. o rachunkowości (Dz.U. Nr 121, poz. 591), następuje w "Monitorze Spółdzielczym".".
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz.U. Nr 121, poz. 591) w art. 70 w ust. 2 na końcu zdania skreśla się kropkę i dodaje wyrazy ", z zastrzeżeniem art. 89 ust. 2, ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz.U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189).".
+### Art. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 1996 r.
+W ustawie z dnia 16 września 1982 r. - Prawo spółdzielcze ([Dz. U. z 1995 r. Nr 54, poz. 288](https://api.sejm.gov.pl/eli/acts/DU/1995/288/text.html) i [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html) oraz z [1996 r. Nr 5, poz. 32](https://api.sejm.gov.pl/eli/acts/DU/1996/32/text.html), [Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html) i [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html)) w art. 89 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
 
+„
+
+### 2.
+
+Ogłaszanie przez organizacje spółdzielcze dokumentów, o których mowa w art. 70 ust. 1 ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html)), następuje w «Monitorze Spółdzielczym».
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html)) w art. 70 w ust. 2 na końcu zdania skreśla się kropkę i dodaje wyrazy „, z zastrzeżeniem art. 89 ust. 2 ustawy z dnia 16 września 1982 r. - Prawo spółdzielcze (Dz. U. z 1995 r. Nr 54, poz. 288 i Nr 133, poz. 654 oraz z 1996 r. Nr 5, poz. 32, Nr 24, poz. 110 i Nr 43, poz. 189).”
+
+### Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie po raz pierwszy do sprawozdań finansowych sporządzonych za rok obrotowy rozpoczynający się w 1996 r.

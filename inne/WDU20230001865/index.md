@@ -1,0 +1,1011 @@
+---
+title: Obwieszczenie Ministra Finansów z dnia 25 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu
+address: WDU20230001865
+eli: DU/2023/1865
+publisher: DU
+year: 2023
+pos: 1865
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Finansówz dnia 25 lipca 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu [1) Minister Finansów kieruje działem administracji rządowej - instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1865 |
+| ISAP | WDU20230001865 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-07-25 |
+| Data wydania | 2023-09-13 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1865/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1865) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu](#part_2)
+
+- [Załącznik - Statut Bankowego Funduszu Gwarancyjnego](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu ([Dz. U. poz. 203](https://api.sejm.gov.pl/eli/acts/DU/2017/203/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 15 marca 2022 r. zmieniającym rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu ([Dz. U. poz. 686](https://api.sejm.gov.pl/eli/acts/DU/2022/686/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu ([Dz. U. poz. 686](https://api.sejm.gov.pl/eli/acts/DU/2022/686/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Finansów kieruje działem administracji rządowej - instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+
+## Załącznik - Rozporządzenie Ministra Rozwoju i Finansów z dnia 25 stycznia 2017 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu[1) Obecnie działem administracji rządowej - instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+Na podstawie art. 3 ust. 4 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji ([Dz. U. z 2022 r. poz. 2253](https://api.sejm.gov.pl/eli/acts/DU/2022/2253/text.html) oraz [z 2023 r. poz. 825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1705](https://api.sejm.gov.pl/eli/acts/DU/2023/1705/text.html), [1784](https://api.sejm.gov.pl/eli/acts/DU/2023/1784/text.html) i [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Bankowemu Funduszowi Gwarancyjnemu nadaje się statut, stanowiący załącznik do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[2) Rozporządzenie zostało ogłoszone w dniu 1 lutego 2017 r.](#gloss-0:2:).[3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2013 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 967), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).](#gloss-0:3:)
+
+1) Obecnie działem administracji rządowej - instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Rozporządzenie zostało ogłoszone w dniu 1 lutego 2017 r. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 13 sierpnia 2013 r. w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 967), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia, zgodnie z art. 386 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. poz. 996 i 1997).
+
+## Załącznik - Statut Bankowego Funduszu Gwarancyjnego
+
+### I.
+
+Postanowienie ogólne
+
+### § 1.
+
+Bankowy Fundusz Gwarancyjny, zwany dalej „Funduszem”, działa na podstawie ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji ([Dz. U. z 2022 r. poz. 2253](https://api.sejm.gov.pl/eli/acts/DU/2022/2253/text.html) oraz [z 2023 r. poz. 825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1705](https://api.sejm.gov.pl/eli/acts/DU/2023/1705/text.html), [1784](https://api.sejm.gov.pl/eli/acts/DU/2023/1784/text.html) i [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html)), zwanej dalej „ustawą”, oraz na podstawie postanowień statutu.
+
+### II.
+
+Organizacja Funduszu
+
+### § 2.
+
+Skład Rady Funduszu, tryb powoływania i odwoływania członków Rady Funduszu, w tym jej Przewodniczącego, oraz wygaśnięcia mandatów jej członków określa ustawa.
+
+### § 3.
+
+Rada Funduszu oraz Zarząd Funduszu, realizując zadania określone w ustawach lub statucie, podejmują decyzje oraz wydają opinie w formie uchwał.
+
+### § 4.
+
+Skład Zarządu Funduszu, tryb powoływania i odwoływania członków Zarządu Funduszu oraz wygaśnięcia ich mandatów określa ustawa.
+
+### § 5.
+
+### 1.
+
+Członkowie Zarządu Funduszu pozostają z Funduszem w stosunku pracy.
+
+### 2.
+
+Rada Funduszu określa regulamin wynagradzania członków Zarządu Funduszu.
+
+### § 6.
+
+### 1.
+
+Rada Funduszu i Zarząd Funduszu wykonują swoje funkcje przy pomocy Biura Funduszu.
+
+### 2.
+
+Do zakresu działania Biura Funduszu należy w szczególności:
+
+### 1)
+
+zapewnienie merytorycznej i technicznej obsługi organów Funduszu w związku z realizacją zadań Funduszu;
+
+### 2)
+
+gromadzenie i analizowanie informacji, w szczególności dotyczących podmiotów krajowych, o których mowa w art. 2 pkt 40 ustawy, oraz oddziałów banków zagranicznych, o których mowa w art. 2 pkt 35 ustawy, w celu zapewnienia realizacji zadań Funduszu;
+
+### 3)
+
+opracowywanie analiz i prognoz dotyczących podmiotów krajowych, o których mowa w art. 2 pkt 40 ustawy, oraz oddziałów banków zagranicznych, o których mowa w art. 2 pkt 35 ustawy;
+
+### 4)
+
+prowadzenie obsługi prawnej Funduszu;
+
+### 5)
+
+prowadzenie spraw administracyjnych i spraw personalnych pracowników Funduszu;
+
+### 6)
+
+prowadzenie gospodarki finansowej oraz rachunkowości Funduszu;
+
+### 7)
+
+działalność informacyjno-promocyjna w zakresie związanym z funkcjonowaniem Funduszu;
+
+### 8)
+
+działalność w zakresie współpracy międzynarodowej, w szczególności z zagranicznymi organami przymusowej restrukturyzacji oraz systemami gwarantowania depozytów i ich stowarzyszeniami.
+
+### 3.
+
+Projekt regulaminu organizacyjnego Biura Funduszu, ustalający strukturę organizacyjną oraz zasady działania Biura Funduszu, Zarząd Funduszu przedstawia Radzie Funduszu celem zgłoszenia uwag do jego treści.
+
+### III.
+
+Szczegółowe zadania organów Funduszu Rada Funduszu
+
+### § 7.
+
+Wykonując nadzór nad działalnością Zarządu Funduszu, Rada Funduszu może:
+
+### 1)
+
+uchwalać zalecenia dla Zarządu Funduszu, w szczególności w przypadku stwierdzenia nieprawidłowości w wykonaniu przez Zarząd Funduszu jego zadań;
+
+### 2)
+
+zawiesić wykonanie albo uchylić uchwałę Zarządu Funduszu sprzeczną z prawem lub uchwałą Rady Funduszu, z wyjątkiem uchwał, o których mowa w art. 11 ust. 4 ustawy;
+
+### 3)
+
+odwoływać lub zawieszać w czynnościach członków Zarządu Funduszu.
+
+### § 8.
+
+### 1.
+
+Rada Funduszu, na wniosek Zarządu Funduszu, do dnia 1 marca każdego roku kalendarzowego, określa łączne kwoty składek należnych od podmiotów krajowych, o których mowa w art. 2 pkt 40 ustawy, oraz oddziałów banków zagranicznych, o których mowa w art. 2 pkt 35 ustawy, odrębnie na fundusz gwarancyjny banków, fundusz gwarancyjny kas, fundusz przymusowej restrukturyzacji banków i fundusz przymusowej restrukturyzacji kas na bieżący rok kalendarzowy, terminy ich wniesienia oraz maksymalny udział składek wnoszonych w formie zobowiązań do zapłaty.
+
+### 2.
+
+Treść uchwał Rady Funduszu, o których mowa w ust. 1, jest podawana do publicznej wiadomości przez publikację na stronie internetowej Funduszu.
+
+### § 9.
+
+Rada Funduszu, na wniosek Zarządu Funduszu, podejmuje decyzję o pokryciu zobowiązań z tytułu środków gwarantowanych z funduszy własnych w przypadkach, o których mowa w art. 56 ust. 5 ustawy, oraz w przypadkach, o których mowa w art. 57 ust. 5 ustawy.
+
+### § 10.
+
+### 1.
+
+Zasięgnięcia uprzedniej opinii Rady Funduszu wymaga:
+
+### 1[4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 686), które weszło w życie z dniem 12 kwietnia 2022 r.](#gloss-0:4:))
+
+podjęcie decyzji, o których mowa w art. 11 ust. 4 pkt 1, 2, 4, 18 i 29 ustawy;
+
+### 2)
+
+przyjęcie planu przymusowej restrukturyzacji lub grupowego planu przymusowej restrukturyzacji, ich przeglądów i aktualizacji dla:[5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:5:)
+
+### a)
+
+podmiotu znaczącego, o którym mowa w art. 2 pkt 47 ustawy,
+
+### b)
+
+podmiotu zidentyfikowanego jako inna instytucja o znaczeniu systemowym zgodnie z art. 39 ust. 1 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym ([Dz. U. z 2022 r. poz. 2536](https://api.sejm.gov.pl/eli/acts/DU/2022/2536/text.html) oraz [z 2023 r. poz. 1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html)), o ile nie spełnia on definicji podmiotu znaczącego w rozumieniu art. 2 pkt 47 ustawy;
+
+### 3[6) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:6:))
+
+utworzenie, obejmowanie lub nabywanie przez Fundusz akcji lub udziałów instytucji pomostowej, o której mowa w art. 2 pkt 26 ustawy, oraz podmiotu zarządzającego aktywami, o którym mowa w art. 2 pkt 46 ustawy;
+
+### 4)
+
+zaciągnięcie przez Fundusz zobowiązania związanego ze świadczeniami Funduszu, o których mowa w art. 112 ust. 3 pkt 1 lub 2 oraz ust. 3a, art. 179 lub art. 188 ust. 5, art. 260 ust. 1 i art. 264 ust. 2 oraz art. 268a ust. 2 ustawy, jeżeli jest ono zaciągane w ramach:[7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:7:)
+
+### a)
+
+przymusowej restrukturyzacji prowadzonej wobec kasy,
+
+### b)
+
+przymusowej restrukturyzacji prowadzonej wobec podmiotu innego niż kasa, a wartość tego zobowiązania przekracza równowartość w złotych kwoty 6 000 000 euro,
+
+### c)
+
+restrukturyzacji kasy prowadzonej na podstawie przepisów działu IV ustawy,
+
+### d[8) Dodana przez § 1 pkt 1 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:8:))
+
+restrukturyzacji banku prowadzonej na podstawie przepisów działu IVa ustawy;
+
+### 5)
+
+udzielenie pomocy finansowej z funduszu restrukturyzacji banków spółdzielczych w wysokości przekraczającej równowartość w złotych kwoty 2 000 000 euro;
+
+### 6)
+
+zawarcie przez Fundusz porozumienia lub umowy, o których mowa w:
+
+### a)
+
+art. 60 ustawy, dotyczących wypłaty środków gwarantowanych deponentom oddziału banku objętego systemem gwarantowania przez system goszczący w imieniu i na rachunek Funduszu,
+
+### b)
+
+art. 62 ustawy, dotyczących wypłaty środków gwarantowanych deponentom oddziału instytucji kredytowej przez Fundusz w imieniu i na rachunek jej systemu macierzystego,
+
+### c)
+
+art. 328 ust. 2 ustawy, dotyczących przedmiotu, zakresu, trybu i terminów przekazywania informacji, o których mowa w art. 325 ust. 1, art. 326 oraz art. 327 ust. 1 ustawy,
+
+### d)
+
+(uchylona);[9) Przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:9:)
+
+### 7)
+
+wystąpienie do Europejskiego Urzędu Nadzoru Bankowego z wnioskiem o wiążącą mediację w sprawie przyjęcia grupowego planu przymusowej restrukturyzacji;
+
+### 8[10) Dodany przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:10:))
+
+udzielenie Narodowemu Bankowi Polskiemu gwarancji spłaty kredytów, o których mowa w art. 42 ust. 1 oraz art. 43 ust. 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim ([Dz. U. z 2022 r. poz. 2025](https://api.sejm.gov.pl/eli/acts/DU/2022/2025/text.html));
+
+### 2.
+
+Zarząd Funduszu może wystąpić do Rady Funduszu o wydanie opinii w sprawach innych niż określone w ust. 1.
+
+### 3.
+
+Zarząd Funduszu występuje do Rady Funduszu z wnioskiem o akceptację w przypadkach określonych w ustawie.
+
+### 4.
+
+Rada Funduszu wydaje opinię lub rozpatruje wniosek o akceptację w sprawach, o których mowa w:
+
+### 1)
+
+ust. 1 i 3 - w terminie do 7 dni od dnia przedłożenia wniosku Zarządu;
+
+### 2)
+
+ust. 2 - w terminie 14 dni od dnia przedłożenia wniosku Zarządu.
+
+### 5.
+
+W przypadku niewydania przez Radę Funduszu opinii, o której mowa w ust. 1 lub 2, w terminie, o którym mowa w ust. 4 pkt 1 lub 2, przyjmuje się, że Rada Funduszu wydała pozytywną opinię w sprawie objętej wnioskiem Zarządu Funduszu.
+
+### 6.
+
+W przypadkach, o których mowa w ust. 1 pkt 4 lit. b oraz pkt 5, do wyliczenia wartości euro w złotych przyjmuje się kurs średni ogłoszony przez Narodowy Bank Polski w dniu wystąpienia Zarządu Funduszu o wyrażenie opinii przez Radę Funduszu. Zarząd Funduszu
+
+### § 11.
+
+Zarząd Funduszu corocznie, nie później niż do dnia 15 lutego każdego roku kalendarzowego, przedstawia Radzie Funduszu wnioski w sprawie:
+
+### 1)
+
+określenia na bieżący rok kalendarzowy łącznych kwot składek, o których mowa w art. 293 ust. 1 pkt 1 i 2 oraz art. 301 ust. 1 pkt 1 i 2 ustawy;
+
+### 2)
+
+terminów ich wniesienia;
+
+### 3)
+
+udziału składek wnoszonych w formie zobowiązania do zapłaty.
+
+### § 12.
+
+### 1.
+
+Zarząd Funduszu oblicza wysokość składek należnych na fundusz gwarancyjny banków w danym kwartale od poszczególnych banków i oddziałów banków zagranicznych, stosując:
+
+### 1)
+
+metodę wyznaczania składek wnoszonych przez banki na fundusz gwarancyjny banków, o której mowa w art. 289 ust. 3 ustawy,
+
+### 2)
+
+metodę wyznaczania składek wnoszonych przez oddziały banków zagranicznych na fundusz gwarancyjny banków, o której mowa w art. 289 ust. 3 ustawy
+
+- z uwzględnieniem łącznej kwoty składek, o której mowa w art. 293 ust. 1 pkt 1 ustawy, określonej przez Radę Funduszu na dany rok kalendarzowy zgodnie z § 8.
+
+### 2.
+
+Postanowienia ust. 1 stosuje się odpowiednio do obliczenia wysokości składek nadzwyczajnych, o których mowa w art. 291 ustawy.
+
+### 3.
+
+Zarząd Funduszu oblicza wysokość składek należnych na fundusz gwarancyjny kas w danym kwartale od poszczególnych kas, stosując metodę wyznaczania składek wnoszonych przez kasy na fundusz gwarancyjny kas, o której mowa w art. 290 ust. 3 ustawy, z uwzględnieniem łącznej kwoty składek, o której mowa w art. 293 ust. 1 pkt 2 ustawy, określonej przez Radę Funduszu na dany rok kalendarzowy zgodnie z § 8.
+
+### 4.
+
+Postanowienia ust. 3 stosuje się odpowiednio do obliczenia wysokości składek nadzwyczajnych, o których mowa w art. 292 ustawy.
+
+### 5.
+
+Zarząd Funduszu przekazuje poszczególnym bankom, oddziałom banków zagranicznych oraz kasom informację o wysokości należnej składki, ustalonej zgodnie z ust. 1 lub 3, bez zbędnej zwłoki nie później niż do dnia:
+
+### 1)
+
+10 marca - dla składek należnych za pierwszy kwartał,
+
+### 2)
+
+10 czerwca - dla składek należnych za drugi kwartał,
+
+### 3)
+
+10 września - dla składek należnych za trzeci kwartał,
+
+### 4)
+
+10 grudnia - dla składek należnych za czwarty kwartał
+
+- wskazując termin ich wniesienia oraz udział składek wnoszonych w formie zobowiązań do zapłaty, zgodnie z uchwałą Rady Funduszu.
+
+### 6.
+
+Zarząd Funduszu, w terminach określonych w ust. 5, przedstawia uczestnikom systemu ochrony oraz organowi zarządzającemu systemem ochrony, w którym dany bank uczestniczy, wyliczoną różnicę pomiędzy składką obliczoną zgodnie z ust. 1 oraz oszacowaną wielkością składki w przypadku, gdyby bank ten nie uczestniczył w systemie ochrony.
+
+### 7.
+
+Zarząd Funduszu przekazuje bez zbędnej zwłoki poszczególnym bankom, oddziałom banków zagranicznych oraz kasom informację o wysokości składki nadzwyczajnej, o której mowa w ust. 2 lub 4, wskazując termin jej wniesienia, zgodnie z uchwałą Rady Funduszu.
+
+### § 13.
+
+### 1.
+
+Zarząd Funduszu dokonuje podziału łącznej kwoty składek, o której mowa w art. 301 ust. 1 pkt 1 ustawy, między banki, firmy inwestycyjne i oddziały banków zagranicznych, stosując:
+
+### 1)
+
+metodę wyznaczania składek wnoszonych przez banki i firmy inwestycyjne na fundusz przymusowej restrukturyzacji banków, o której mowa w rozporządzeniu delegowanym Komisji (UE) 2015/63 z dnia 21 października 2014 r. uzupełniającym dyrektywę Parlamentu Europejskiego i Rady 2014/59/UE w odniesieniu do składek ex ante wnoszonych na rzecz mechanizmów finansowania restrukturyzacji i uporządkowanej likwidacji ([Dz. Urz. UE L 11 z 17.01.2015, str. 44](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 233 z 30.08.2016 r., str. 1, Dz. Urz. UE L 156 z 20.06.2017, str. 18 oraz Dz. Urz. UE L 83 z 22.03.2023, str. 58-64.](#gloss-0:11:), oraz zasady określone w drodze uchwały przez Radę Funduszu, zgodnie z art. 298 ust. 4 ustawy;
+
+### 2)
+
+zasady wyznaczania składek wnoszonych przez oddziały banków zagranicznych na fundusz przymusowej restrukturyzacji banków, określone w przepisach wydanych na podstawie art. 298 ust. 6 ustawy.
+
+### 2.
+
+Postanowienia ust. 1 stosuje się odpowiednio do obliczenia wysokości składek nadzwyczajnych, o których mowa w art. 299 ustawy.
+
+### 3.
+
+Zarząd Funduszu dokonuje podziału łącznej kwoty składek, o której mowa w art. 301 ust. 1 pkt 2 ustawy, między poszczególne kasy, stosując metodę wyznaczania składek wnoszonych przez kasy na fundusz przymusowej restrukturyzacji kas, określoną w przepisach wydanych na podstawie art. 298 ust. 7 ustawy.
+
+### 4.
+
+Postanowienia ust. 3 stosuje się odpowiednio do obliczenia wysokości składek nadzwyczajnych, o których mowa w art. 300 ustawy.
+
+### 5.
+
+Zarząd Funduszu przekazuje poszczególnym bankom, oddziałom banków zagranicznych, firmom inwestycyjnym oraz kasom informację o wysokości należnej składki, ustalonej odpowiednio zgodnie z ust. 1 lub 3, bez zbędnej zwłoki nie później niż do dnia 1 maja roku, za który składka jest należna, wskazując termin jej wniesienia oraz udział składek wnoszonych w formie zobowiązań do zapłaty, zgodnie z uchwałą Rady Funduszu.
+
+### 6.
+
+Zarząd Funduszu przekazuje bez zbędnej zwłoki poszczególnym bankom, oddziałom banków zagranicznych, firmom inwestycyjnym oraz kasom informację o wysokości składki nadzwyczajnej, o której mowa w ust. 2 lub 4, wskazując termin jej wniesienia, zgodnie z uchwałą Rady Funduszu.
+
+### § 14.
+
+### 1.
+
+Zarząd Funduszu przekazuje informacje, o których mowa w § 12 ust. 5 i § 13 ust. 5:
+
+### 1)
+
+za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ([Dz. U. z 2020 r. poz. 344](https://api.sejm.gov.pl/eli/acts/DU/2020/344/text.html)) za potwierdzeniem odbioru lub
+
+### 2)
+
+listem poleconym za potwierdzeniem odbioru.
+
+### 2.
+
+Postanowienia ust. 1 stosuje się odpowiednio do przekazania informacji niezbędnych do wniesienia składek nadzwyczajnych.
+
+### § 15.
+
+Zarząd Funduszu może wystąpić z wnioskiem o ustanowienie Funduszu kuratorem w przypadkach, o których mowa w art. 5 ust. 6 ustawy lub w art. 429 ust. 4 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe ([Dz. U. z 2022 r. poz. 1520](https://api.sejm.gov.pl/eli/acts/DU/2022/1520/text.html) oraz [z 2023 r. poz. 825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html), [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html) i [1860](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.html)).
+
+### § 15a[12) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:12:).
+
+Zarząd Funduszu wyznacza przedstawiciela Funduszu, o którym mowa w art. 5 ust. 2 pkt 6 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym ([Dz. U. z 2023 r. poz. 753](https://api.sejm.gov.pl/eli/acts/DU/2023/753/text.html), [825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1705](https://api.sejm.gov.pl/eli/acts/DU/2023/1705/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html)).
+
+### § 15b[12) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:12:).
+
+Zarząd Funduszu zapewnia realizację przez Fundusz dodatkowych działań na rzecz stabilności krajowego systemu finansowego, jeżeli zostały określone w przepisach wydanych na podstawie art. 5 ust. 7 ustawy.
+
+### § 16.
+
+Zarząd Funduszu dokonuje sprawdzenia, czy system gwarantowania depozytów w państwie macierzystym oddziału banku zagranicznego zapewnia wypłaty środków gwarantowanych w granicach określonych w ustawie.
+
+### § 17.
+
+Zarząd Funduszu jest obowiązany do bieżącego gromadzenia i analizowania informacji dotyczących sytuacji finansowej podmiotów krajowych oraz oddziałów banków zagranicznych w celu realizacji zadań Funduszu.
+
+### § 18.
+
+### 1.
+
+Podstawą gospodarki finansowej Funduszu jest roczny plan finansowy, sporządzany przez Zarząd Funduszu i uchwalany przez Radę Funduszu w terminie do końca roku obrotowego poprzedzającego rok, którego dotyczy.
+
+### 2.
+
+Rokiem obrotowym Funduszu jest rok kalendarzowy.
+
+### 3.
+
+Plan finansowy powinien posiadać wyodrębnione części dotyczące:
+
+### 1)
+
+planowanej wysokości funduszy własnych Funduszu;
+
+### 2)
+
+planowanej wysokości funduszy ochrony środków gwarantowanych;
+
+### 3)
+
+planowanego wyniku finansowego, z uwzględnieniem:
+
+### a)
+
+przychodów z działalności statutowej,
+
+### b)
+
+kosztów realizacji zadań statutowych,
+
+### c)
+
+wyniku na operacjach finansowych,
+
+### d)
+
+kosztów działalności Funduszu,
+
+### e)
+
+amortyzacji środków trwałych oraz wartości niematerialnych i prawnych,
+
+### f)
+
+wyniku z tytułu różnic kursowych,
+
+### g)
+
+pozostałych przychodów i pozostałych kosztów operacyjnych Funduszu;
+
+### 4)
+
+planowanego stanu aktywów i pasywów Funduszu;
+
+### 5[13) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:13:))
+
+planowanej łącznej wartości zobowiązań podlegających ujęciu w księgach rachunkowych lat następujących po roku, którego dotyczy plan finansowy, jakie zostaną zaciągnięte wskutek umów:
+
+### a)
+
+zawartych w roku, którego dotyczy plan finansowy - jeżeli umowy nie podlegają przepisom ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych ([Dz. U. z 2023 r. poz. 1605](https://api.sejm.gov.pl/eli/acts/DU/2023/1605/text.html) i [1720](https://api.sejm.gov.pl/eli/acts/DU/2023/1720/text.html)), zwanej dalej „ustawą - Prawo zamówień publicznych”, lub gdy zostały zawarte na podstawie umów ramowych podlegających tej ustawie, albo
+
+### b)
+
+będących następstwem postępowań wszczętych w ramach ustawy - Prawo zamówień publicznych w roku, którego dotyczy plan finansowy - w pozostałych przypadkach
+
+- innych niż umowy skutkujące powstaniem stosunku pracy, nabycia lub objęcia aktywów finansowych innych niż udziały lub akcje, zbycia aktywów finansowych innych niż udziały lub akcje lub gwarancji pokrycia strat wymienionych w art. 112 ust. 3 pkt 1 oraz ust. 3a, art. 264 ust. 2 pkt 3 i art. 268a ust. 2 pkt 3 ustawy.
+
+### 4.
+
+(uchylony).[14) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:14:)
+
+### 5[15) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:15:).
+
+W rocznym planie finansowym Funduszu mogą być dokonywane zmiany polegające na zwiększaniu lub zmniejszaniu prognozowanych danych zawartych w tym planie. Zmiana rocznego planu finansowego jest sporządzana przez Zarząd Funduszu i uchwalana przez Radę Funduszu.
+
+### § 19.
+
+Kwartalne sprawozdanie z działalności Funduszu przygotowuje Zarząd Funduszu i przedstawia je Radzie Funduszu w terminie do końca miesiąca następującego po zakończeniu kwartału roku kalendarzowego, za który sprawozdanie zostało sporządzone.
+
+### § 20.
+
+### 1.
+
+Roczne sprawozdanie z działalności Funduszu sporządza Zarząd Funduszu i przedstawia je Radzie do końca marca następnego roku kalendarzowego.
+
+### 2.
+
+Sprawozdanie finansowe Funduszu za rok obrotowy sporządza Zarząd Funduszu i wraz z wynikami badania, o którym mowa w art. 313 ust. 2 ustawy, przedstawia je Radzie Funduszu w terminie, o którym mowa w art. 313 ust. 1 ustawy.
+
+### IV.
+
+Zasady tworzenia i wykorzystywania funduszy własnych
+
+### § 21.
+
+### 1.
+
+Fundusz tworzy następujące fundusze własne:
+
+### 1)
+
+fundusz statutowy;
+
+### 2)
+
+fundusz gwarancyjny banków;
+
+### 3)
+
+fundusz gwarancyjny kas;
+
+### 4)
+
+fundusz przymusowej restrukturyzacji banków;
+
+### 5)
+
+fundusz przymusowej restrukturyzacji kas;
+
+### 6)
+
+fundusz restrukturyzacji banków spółdzielczych;
+
+### 7)
+
+fundusz z aktualizacji wyceny.
+
+### 2.
+
+W przypadku spełnienia warunku gwarancji równowartość rezerw lub zobowiązań z tytułu środków gwarantowanych jest ujmowana jako „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji” do dnia podjęcia przez Radę Funduszu decyzji, o której mowa w § 9, w wysokości równowartości tych rezerw lub zobowiązań.
+
+### 3.
+
+Rezerwy lub zobowiązania z tytułu środków gwarantowanych ujęte jako „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji” są pokrywane z funduszy własnych, zgodnie z decyzją Rady Funduszu, o której mowa w § 9.
+
+### 4.
+
+Rezerwy lub zobowiązania na świadczenia, o których mowa w art. 112 ust. 1, 3 i 3a, art. 179 lub art. 188 ust. 5, art. 264 ust. 2 oraz art. 268a ust. 2 ustawy, zmniejszają odpowiednie fundusze własne Funduszu, zgodnie z § 23-26.[16) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:16:) W przypadku gdy wartość odpowiednich funduszy własnych Funduszu jest niewystarczająca w celu pokrycia tych zobowiązań lub rezerw, niedobór ujmuje się w pozycji „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji”.
+
+### 5.
+
+Niedobór ujęty jako „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji” jest pokrywany w kolejnych okresach ze środków odpowiednich funduszy własnych Funduszu, w tym ze środków funduszy własnych, o których mowa w ust. 1 pkt 2-5.
+
+### 6.
+
+Przepisy ust. 4 i 5 stosuje się do kosztów, o których mowa w § 23 ust. 2 pkt 2, § 24 ust. 2 pkt 2, § 25 ust. 2 pkt 1 i § 26 ust. 2 pkt 1.
+
+### 7.
+
+Rada Funduszu, na wniosek Zarządu Funduszu, może podjąć uchwałę o przekazaniu środków pomiędzy funduszami własnymi, o których mowa w ust. 1 pkt 2-5.
+
+### 8.
+
+Fundusz tworzy inne fundusze własne, jeżeli obowiązek ich utworzenia wynika z obowiązujących przepisów prawa.
+
+### 9.
+
+Przepisy ust. 4 i 5 stosuje się odpowiednio do świadczeń wynikających z umów, o których mowa w art. 20ba ust. 2 pkt 3 i 4 lub w art. 20g ust. 2 pkt 3 i 4 ustawy uchylanej na podstawie art. 388 ustawy.
+
+### § 22.
+
+Fundusz statutowy jest tworzony z:
+
+### 1)
+
+dotacji udzielonych na wniosek Funduszu z budżetu państwa na zasadach określonych w przepisach o finansach publicznych;
+
+### 2)
+
+zysku netto lub zysku z lat ubiegłych, zgodnie z art. 285 ust. 4 ustawy - w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 5 ustawy.
+
+### § 23.
+
+### 1.
+
+Fundusz gwarancyjny banków jest tworzony:
+
+### 1)
+
+ze środków likwidowanego funduszu pomocowego i funduszu środków odzyskanych z mas upadłości, zgodnie z art. 372 ustawy;
+
+### 2)
+
+z kwot należnych od banków i oddziałów banków zagranicznych objętych obowiązkowym systemem gwarantowania z tytułu składek, o których mowa w art. 286 ust. 2 ustawy;
+
+### 3)
+
+z kwot należnych od banków i oddziałów banków zagranicznych objętych obowiązkowym systemem gwarantowania z tytułu składek nadzwyczajnych, o których mowa w art. 291 ustawy;
+
+### 4)
+
+z zysku netto lub zysku z lat ubiegłych, w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 1 lub 2 ustawy, na zwiększenie tego funduszu;
+
+### 5)
+
+z kwot pochodzących z rozwiązania odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 6)
+
+z kwot uzyskanych z masy upadłości banków;
+
+### 7)
+
+z kwot uzyskanych w ramach zagranicznego postępowaniu upadłościowego, o którym mowa w art. 379 pkt 1 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe, prowadzonego wobec banku zagranicznego, który prowadził działalność w Rzeczypospolitej Polskiej w formie oddziału, albo kwot uzyskanych w ramach postępowania upadłościowego obejmującego majątek banku zagranicznego położony na terytorium Rzeczypospolitej Polskiej, jeżeli Fundusz dokonał wypłat środków gwarantowanych deponentom oddziału takiego banku zagranicznego;
+
+### 7a[17) Dodany przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:17:))
+
+z należności ujętych z tytułu udzielonych gwarancji pokrycia strat w związku z wykonywaniem przez Fundusz zadań, o których mowa w art. 5 ust. 2a pkt 1 ustawy;
+
+### 8[18) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:18:))
+
+ze środków przekazanych z innych funduszy własnych Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 2.
+
+Fundusz gwarancyjny banków jest wykorzystywany na:
+
+### 1)
+
+pokrycie zobowiązań z tytułu gwarantowania środków pieniężnych;
+
+### 2)
+
+finansowanie zadań Funduszu w zakresie postępowania przymusowej restrukturyzacji banków, firm inwestycyjnych i oddziałów banków zagranicznych, na zasadach określonych w art. 272 ust. 3-9 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 3)
+
+pokrycie straty netto lub straty z lat ubiegłych w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 5 ustawy;
+
+### 4)
+
+utworzenie odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 5[19) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:19:))
+
+przekazanie środków na inne fundusze własne Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy;
+
+### 5a[20) Dodany przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:20:))
+
+finansowanie zadań Funduszu, o których mowa w art. 5 ust. 2a pkt 1 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 6)
+
+finansowanie świadczeń wynikających z umów, o których mowa w art. 20ba ust. 2 pkt 3 i 4 ustawy uchylanej na podstawie art. 388 ustawy.
+
+### 3[21) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:21:).
+
+Dla celów ewidencyjnych fundusz gwarancyjny banków dzieli się na fundusz gwarancyjny banków do wykorzystania i fundusz gwarancyjny banków wykorzystany. Zwiększenia funduszu gwarancyjnego banków, o których mowa w ust. 1 pkt 1-4 i 6-8, oraz zmniejszenia funduszu gwarancyjnego banków, o których mowa w ust. 2 pkt 1-3, 5-6, wpływają na stan funduszu gwarancyjnego banków do wykorzystania.
+
+### 4[22) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:22:).
+
+Ze środków funduszu gwarancyjnego banków do wykorzystania może zostać sfinansowane udzielanie pożyczek oficjalnie uznanemu systemowi gwarantowania depozytów z państwa członkowskiego innego niż Rzeczpospolita Polska, na warunkach określonych w art. 309 ustawy.
+
+### § 24.
+
+### 1.
+
+Fundusz gwarancyjny kas jest tworzony:
+
+### 1)
+
+ze środków funduszu gwarancyjnego kas, tworzonego na podstawie ustawy uchylanej w art. 388 ustawy;
+
+### 2)
+
+z kwot należnych od kas objętych obowiązkowym systemem gwarantowania z tytułu składek, o których mowa w art. 286 ust. 3 ustawy;
+
+### 3)
+
+z kwot należnych od kas objętych obowiązkowym systemem gwarantowania z tytułu składek nadzwyczajnych, o których mowa w art. 292 ustawy;
+
+### 4)
+
+z zysku netto lub zysku z lat ubiegłych, w części przeznaczonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 1 lub 2 ustawy, na zwiększenie tego funduszu;
+
+### 5)
+
+z kwot pochodzących z rozwiązania odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 6)
+
+z kwot uzyskanych z masy upadłości kas;
+
+### 7[23) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:23:))
+
+z należności ujętych z tytułu udzielonych gwarancji pokrycia strat w związku z wykonywaniem przez Fundusz zadań, o których mowa w art. 5 ust. 2 pkt 3 ustawy;
+
+### 8[24) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:24:))
+
+z należności ujętych z tytułu udzielonych gwarancji pokrycia strat, o których mowa w art. 20g ust. 2 pkt 3 ustawy uchylanej na podstawie art. 388 ustawy;
+
+### 9[25) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:25:))
+
+ze środków przekazanych z innych funduszy własnych Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 2.
+
+Fundusz gwarancyjny kas jest wykorzystywany na:
+
+### 1)
+
+pokrycie zobowiązań z tytułu gwarantowania środków pieniężnych;
+
+### 2)
+
+finansowanie zadań Funduszu w zakresie postępowania przymusowej restrukturyzacji kas, na zasadach określonych w art. 272 ust. 3-9 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 3)
+
+pokrycie straty netto lub straty z lat ubiegłych w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 5 ustawy;
+
+### 4)
+
+utworzenie odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 5[26) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:26:))
+
+przekazanie środków na inne fundusze własne Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy;
+
+### 6)
+
+finansowanie zadań Funduszu w zakresie restrukturyzacji kas, o których mowa w art. 5 ust. 2 pkt 1-3 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 7)
+
+finansowanie świadczeń wynikających z umów, o których mowa w art. 20g ust. 2 pkt 3 i 4 ustawy uchylanej na podstawie art. 388 ustawy.
+
+### 3.
+
+Dla celów ewidencyjnych fundusz gwarancyjny kas dzieli się na fundusz gwarancyjny kas do wykorzystania i fundusz gwarancyjny kas wykorzystany. Zwiększenia funduszu gwarancyjnego kas, o których mowa w ust. 1 pkt 1-4 i 6-9, oraz zmniejszenia funduszu gwarancyjnego kas, o których mowa w ust. 2 pkt 1-3 i 5-7, wpływają na stan funduszu gwarancyjnego kas do wykorzystania.
+
+### 4[27) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:27:).
+
+Ze środków funduszu gwarancyjnego kas do wykorzystania może zostać sfinansowane udzielanie pożyczek oficjalnie uznanemu systemowi gwarantowania depozytów z państwa członkowskiego innego niż Rzeczpospolita Polska, na warunkach określonych w art. 309 ustawy.
+
+### § 25.
+
+### 1.
+
+Fundusz przymusowej restrukturyzacji banków jest tworzony:
+
+### 1)
+
+ze środków likwidowanego funduszu stabilizacyjnego i funduszu zapasowego, zgodnie z art. 372 ustawy;
+
+### 2)
+
+z kwot należnych od banków, firm inwestycyjnych i oddziałów banków zagranicznych z tytułu składek, o których mowa w art. 295 ust. 1 ustawy;
+
+### 3)
+
+z kwot należnych od banków, firm inwestycyjnych i oddziałów banków zagranicznych z tytułu składek nadzwyczajnych, o których mowa w art. 299 ustawy;
+
+### 4)
+
+z zysku netto lub zysku z lat ubiegłych, w części przeznaczonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 1 lub 2 ustawy, na zwiększenie tego funduszu;
+
+### 5)
+
+z kwot pochodzących z rozwiązania odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 6[28) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:28:))
+
+z należności ujętych z tytułu udzielonych gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1 i ust. 3a ustawy, w związku z przymusową restrukturyzacją banków lub firm inwestycyjnych;
+
+### 7)
+
+z kwot stanowiących potrącone koszty przymusowej restrukturyzacji banków, firm inwestycyjnych lub oddziałów banków zagranicznych;
+
+### 8)
+
+z kwot uzyskanych z masy upadłości firm inwestycyjnych;
+
+### 9[29) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:29:))
+
+ze środków przekazanych z innych funduszy własnych Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 2.
+
+Fundusz przymusowej restrukturyzacji banków jest wykorzystywany na:
+
+### 1)
+
+finansowanie zadań Funduszu w zakresie postępowania przymusowej restrukturyzacji banków, firm inwestycyjnych oraz oddziałów banków zagranicznych, w szczególności zadań wskazanych w art. 273 ust. 3 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 1a[30) Dodany przez § 1 pkt 7 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:30:))
+
+pokrycie kosztów przymusowej restrukturyzacji w zakresie, w jakim koszty te są poniesione po wszczęciu przymusowej restrukturyzacji banku, firmy inwestycyjnej albo oddziału banku zagranicznego;
+
+### 2)
+
+pokrycie straty netto lub straty z lat ubiegłych w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 5 ustawy;
+
+### 3)
+
+utworzenie odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 4[31) W brzmieniu ustalonym przez § 1 pkt 7 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:31:))
+
+przekazanie środków na inne fundusze własne Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 3.
+
+Dla celów ewidencyjnych fundusz przymusowej restrukturyzacji banków dzieli się na fundusz przymusowej restrukturyzacji banków do wykorzystania i fundusz przymusowej restrukturyzacji banków wykorzystany. Zwiększenia funduszu przymusowej restrukturyzacji banków, o których mowa w ust. 1 pkt 1-4 i 6-9, oraz zmniejszenia funduszu przymusowej restrukturyzacji banków, o których mowa w ust. 2 pkt 1, 2 i 4, wpływają na stan funduszu przymusowej restrukturyzacji banków do wykorzystania.
+
+### 4.
+
+W celu umożliwienia finansowania zadań Funduszu w zakresie przymusowej restrukturyzacji kas w przypadku, o którym mowa w art. 273 ust. 5 ustawy, przyjmuje się, że na realizację innych zadań Funduszu w pierwszej kolejności są wykorzystywane środki funduszu przymusowej restrukturyzacji banków pochodzące z tytułów innych niż składki, o których mowa w art. 295 ust. 1 ustawy. Środki funduszu przymusowej restrukturyzacji banków pochodzące ze zlikwidowanego funduszu stabilizacyjnego i funduszu zapasowego przekazane zgodnie z art. 372 pkt 3 ustawy na ten fundusz oraz środki pochodzące z opłat ostrożnościowych uznaje się za pochodzące z tytułu składek.
+
+### 5.
+
+Ze środków funduszu przymusowej restrukturyzacji banków może zostać sfinansowane udzielanie pożyczek podmiotom zarządzającym funduszami przymusowej restrukturyzacji w państwach członkowskich, na warunkach określonych w art. 311 ustawy.
+
+### § 26.
+
+### 1.
+
+Fundusz przymusowej restrukturyzacji kas jest tworzony:
+
+### 1)
+
+z kwot należnych od kas z tytułu składek, o których mowa w art. 295 ust. 3 ustawy;
+
+### 2)
+
+z kwot należnych od kas z tytułu składek nadzwyczajnych, o których mowa w art. 300 ustawy;
+
+### 3)
+
+z zysku netto lub z zysku z lat ubiegłych, w części przeznaczonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 1 lub 2 ustawy, na zwiększenie tego funduszu;
+
+### 4)
+
+z rozwiązanych odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 5[32) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:32:))
+
+z należności ujętych z tytułu udzielonych gwarancji pokrycia strat, o których mowa w art. 112 ust. 3 pkt 1 i ust. 3a ustawy, w związku z przymusową restrukturyzacją kas;
+
+### 6)
+
+z kwot stanowiących potrącone koszty przymusowej restrukturyzacji kas;
+
+### 7[33) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym owa w odnośniku 4.](#gloss-0:33:))
+
+ze środków przekazanych z innych funduszy własnych Funduszu na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 2.
+
+Fundusz przymusowej restrukturyzacji kas jest wykorzystywany na:
+
+### 1)
+
+finansowanie zadań Funduszu w zakresie postępowania przymusowej restrukturyzacji kas, w szczególności zadań wskazanych w art. 273 ust. 3 ustawy, o ile finansowanie to jest dokonywane w ciężar funduszy własnych Funduszu;
+
+### 1a[34) Dodany przez § 1 pkt 8 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:34:))
+
+pokrycie kosztów przymusowej restrukturyzacji w zakresie, w jakim koszty te są poniesione po wszczęciu przymusowej restrukturyzacji kasy;
+
+### 2)
+
+pokrycie straty netto lub straty z lat ubiegłych w części określonej decyzją Rady Funduszu, o której mowa w art. 285 ust. 5 ustawy;
+
+### 3)
+
+utworzenie odpisów aktualizujących aktywa sfinansowane z tego funduszu;
+
+### 4[35) W brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:35:))
+
+przekazanie środków na inne fundusze własne Funduszu, na podstawie decyzji, o której mowa w art. 8 ust. 1 pkt 7 lub ust. 2 ustawy.
+
+### 3.
+
+Dla celów ewidencyjnych fundusz przymusowej restrukturyzacji kas dzieli się na fundusz przymusowej restrukturyzacji kas do wykorzystania i fundusz przymusowej restrukturyzacji kas wykorzystany. Zwiększenia funduszu przymusowej restrukturyzacji kas, o których mowa w ust. 1 pkt 1-3 i 5-7, oraz zmniejszenia funduszu przymusowej restrukturyzacji kas, o których mowa w ust. 2 pkt 1, 2 i 4, wpływają na stan funduszu przymusowej restrukturyzacji kas do wykorzystania.
+
+### 4.
+
+W celu umożliwienia finansowania zadań Funduszu w zakresie przymusowej restrukturyzacji banków i firm inwestycyjnych w przypadku, o którym mowa w art. 273 ust. 4 ustawy, przyjmuje się, że na realizację innych zadań Funduszu w pierwszej kolejności są wykorzystywane środki funduszu przymusowej restrukturyzacji kas pochodzące z tytułów innych niż składki, o których mowa w art. 295 ust. 3 ustawy.
+
+### 5.
+
+Ze środków funduszu przymusowej restrukturyzacji kas może zostać sfinansowane udzielanie pożyczek podmiotom zarządzającym funduszami przymusowej restrukturyzacji w państwach członkowskich, na warunkach określonych w art. 311 ustawy.
+
+### § 27.
+
+### 1.
+
+Fundusz restrukturyzacji banków spółdzielczych jest wykorzystywany na finansowanie zwrotnej pomocy finansowej, o której mowa w art. 35 ust. 1 ustawy z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających ([Dz. U. z 2022 r. poz. 1595](https://api.sejm.gov.pl/eli/acts/DU/2022/1595/text.html) oraz [z 2023 r. poz. 1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html)).
+
+### 2.
+
+Rozwiązanie odpisów aktualizujących aktywa sfinansowane z funduszu restrukturyzacji banków spółdzielczych zwiększa wartość tego funduszu.
+
+### 3.
+
+Odpisy aktualizujące aktywa sfinansowane z funduszu restrukturyzacji banków spółdzielczych zmniejszają jego wartość.
+
+### 4.
+
+Dla celów ewidencyjnych fundusz restrukturyzacji banków spółdzielczych dzieli się na fundusz restrukturyzacji banków spółdzielczych do wykorzystania i fundusz restrukturyzacji banków spółdzielczych wykorzystany. Zwiększenia i zmniejszenia funduszu restrukturyzacji banków spółdzielczych, o których mowa w ust. 2 i 3, wpływają na stan funduszu restrukturyzacji banków spółdzielczych wykorzystanego.
+
+### § 28.
+
+### 1.
+
+Fundusz z aktualizacji wyceny służy do ewidencji zmian wartości środków trwałych na skutek aktualizacji ich wyceny, przeprowadzanych w oparciu o obowiązujące w tym zakresie przepisy.
+
+### 2.
+
+Fundusz z aktualizacji wyceny ulega zwiększeniu każdorazowo w wyniku podwyższenia wartości środków trwałych.
+
+### 3.
+
+Fundusz z aktualizacji wyceny ulega zmniejszeniu o część różnic z aktualizacji wyceny środków trwałych uprzednio stanowiących majątek Funduszu, a następnie zbywanych, objętych darowiznami lub zlikwidowanych.
+
+### § 29.
+
+Fundusz ujmuje na rachunku specjalnym rozliczeń gwarancyjnych środki pieniężne, otrzymane z tytułu wniesienia przez podmioty objęte systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, funduszy ochrony środków gwarantowanych.
+
+### V.
+
+Przepisy epizodyczne
+
+### § 30.
+
+### 1.
+
+W latach 2017-2023 Rada Funduszu, na wniosek Zarządu Funduszu, określa wysokość stawek funduszy ochrony środków gwarantowanych, o których mowa w art. 369 ustawy, tworzonych przez podmioty objęte systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy.
+
+### 2.
+
+Wysokość stawek, o których mowa w ust. 1, na dany rok kalendarzowy jest określana przez Radę Funduszu do dnia 30 listopada poprzedniego roku kalendarzowego i przekazywana:
+
+### 1)
+
+za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną za potwierdzeniem odbioru lub
+
+### 2)
+
+listem poleconym za potwierdzeniem odbioru
+
+- podmiotom objętym systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, w terminie 14 dni od dnia podjęcia uchwały przez Radę Funduszu, a także podawana do publicznej wiadomości przez publikację na stronie internetowej Funduszu.
+
+### § 31.
+
+W latach 2017-2023 Zarząd Funduszu, na podstawie art. 369 ust. 2 ustawy, nie później niż do dnia 15 listopada każdego roku kalendarzowego, przedstawia Radzie Funduszu wniosek w sprawie ustalenia na rok następny wysokości stawki funduszy ochrony środków gwarantowanych, o których mowa w art. 369 ustawy.
+
+### § 32.
+
+Z dniem 1 stycznia 2022 r. niewykorzystane środki funduszu restrukturyzacji banków spółdzielczych zwiększają fundusz gwarancyjny banków.
+
+### § 33.
+
+Do dnia 31 grudnia 2024 r., w przypadku spełnienia warunku gwarancji, równowartość rezerw lub zobowiązań z tytułu środków gwarantowanych jest ujmowana jako „Zmniejszenie funduszy własnych w przypadku spełnienia warunku gwarancji lub w przypadku wykorzystania narzędzi restrukturyzacji” do dnia podjęcia przez Radę Funduszu decyzji, o której mowa w § 9, w wysokości równowartości tych rezerw lub zobowiązań po ich pomniejszeniu o ewentualną kwotę należności z tytułu obowiązku wniesienia środków funduszu ochrony środków gwarantowanych podmiotu, wobec którego nastąpiło spełnienie warunku gwarancji, oraz łącznej kwoty obowiązkowej wpłaty podmiotów objętych systemem gwarantowania, o której mowa w art. 369 ust. 13 ustawy.
+
+### § 34.
+
+W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r. środki pieniężne zgromadzone na rachunku specjalnym rozliczeń gwarancyjnych mogą być przeznaczone na lokaty w Narodowym Banku Polskim. Odsetki od tych lokat zasilają rachunek specjalny rozliczeń gwarancyjnych.
+
+### § 35.
+
+W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r. niewypłacone przez Fundusz środki pieniężne, przeznaczone na wypłatę środków gwarantowanych dla deponentów podmiotów objętych systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, wraz z odsetkami, o których mowa w § 34, są przechowywane na rachunku specjalnym rozliczeń gwarancyjnych do upływu terminu przedawnienia roszczeń z tytułu gwarancji. Po tym terminie mogą być one przekazane na inny rachunek Funduszu.
+
+### § 36.
+
+W przypadku spełnienia warunku gwarancji do dnia 31 grudnia 2024 r., do czasu dokonania wpłat z funduszy ochrony środków gwarantowanych przez podmioty objęte systemem gwarantowania, o których mowa w art. 2 pkt 41 lit. a i b ustawy, rachunek specjalny rozliczeń gwarancyjnych może być zasilany środkami z rachunku bieżącego Funduszu. Środki przekazane przez Fundusz na rachunek specjalny rozliczeń gwarancyjnych podlegają zwrotowi na rachunek bieżący Funduszu po wpłacie środków przez podmioty objęte systemem gwarantowania.
+
+4) W brzmieniu ustalonym przez § 1 pkt 1 lit. a rozporządzenia Ministra Finansów z dnia 15 marca 2022 r. zmieniającego rozporządzenie w sprawie nadania statutu Bankowemu Funduszowi Gwarancyjnemu (Dz. U. poz. 686), które weszło w życie z dniem 12 kwietnia 2022 r. 5) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 4. 6) Ze zmianą wprowadzoną przez § 1 pkt 1 lit. c rozporządzenia, o którym mowa w odnośniku 4. 7) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez § 1 pkt 1 lit. d tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 8) Dodana przez § 1 pkt 1 lit. d tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 9) Przez § 1 pkt 1 lit. e rozporządzenia, o którym mowa w odnośniku 4. 10) Dodany przez § 1 pkt 1 lit. f rozporządzenia, o którym mowa w odnośniku 4. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 233 z 30.08.2016 r., str. 1, Dz. Urz. UE L 156 z 20.06.2017, str. 18 oraz Dz. Urz. UE L 83 z 22.03.2023, str. 58-64. 12) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4. 13) Dodany przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 4. 14) Przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 4. 15) Dodany przez § 1 pkt 3 lit. c rozporządzenia, o którym mowa w odnośniku 4. 16) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 4. 17) Dodany przez § 1 pkt 5 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 18) W brzmieniu ustalonym przez § 1 pkt 5 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 19) W brzmieniu ustalonym przez § 1 pkt 5 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 20) Dodany przez § 1 pkt 5 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 21) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. c rozporządzenia, o którym mowa w odnośniku 4. 22) Ze zmianą wprowadzoną przez § 1 pkt 5 lit. d rozporządzenia, o którym mowa w odnośniku 4. 23) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 24) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 25) W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 4. 26) W brzmieniu ustalonym przez § 1 pkt 6 lit. b rozporządzenia, o którym mowa w odnośniku 4. 27) Ze zmianą wprowadzoną przez § 1 pkt 6 lit. c rozporządzenia, o którym mowa w odnośniku 4. 28) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 29) W brzmieniu ustalonym przez § 1 pkt 7 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 30) Dodany przez § 1 pkt 7 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 31) W brzmieniu ustalonym przez § 1 pkt 7 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4. 32) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 33) W brzmieniu ustalonym przez § 1 pkt 8 lit. a tiret drugie rozporządzenia, o którym owa w odnośniku 4. 34) Dodany przez § 1 pkt 8 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 4. 35) W brzmieniu ustalonym przez § 1 pkt 8 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 4.

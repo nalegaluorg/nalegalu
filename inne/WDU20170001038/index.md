@@ -1,0 +1,62 @@
+---
+title: "Rozporządzenie Ministra Energii z dnia 18 maja 2017 r. w sprawie wysokości i sposobu wnoszenia opłat za przeprowadzenie egzaminu, wydanie certyfikatu, przedłużenie jego ważności oraz udzielanie akredytacji"
+address: WDU20170001038
+eli: DU/2017/1038
+publisher: DU
+year: 2017
+pos: 1038
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Energiiz dnia 18 maja 2017 r. w sprawie wysokości i sposobu wnoszenia opłat za przeprowadzenie egzaminu, wydanie certyfikatu, przedłużenie jego ważności oraz udzielanie akredytacji [1) Minister Energii kieruje działem administracji rządowej - energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1038 |
+| ISAP | WDU20170001038 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-05-18 |
+| Data wydania | 2017-05-30 |
+| Wejście w życie | 2017-06-14 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1038/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1038) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 157 ust. 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii ([Dz. U. poz. 478](https://api.sejm.gov.pl/eli/acts/DU/2015/478/text.html) i [2365](https://api.sejm.gov.pl/eli/acts/DU/2015/2365/text.html), [z 2016 r. poz. 925](https://api.sejm.gov.pl/eli/acts/DU/2016/925/text.html), [1579](https://api.sejm.gov.pl/eli/acts/DU/2016/1579/text.html) i [2260](https://api.sejm.gov.pl/eli/acts/DU/2016/2260/text.html) oraz [z 2017 r. poz. 624](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Opłata za przeprowadzenie egzaminu wynosi 20% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2016 r. poz. 887](https://api.sejm.gov.pl/eli/acts/DU/2016/887/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2036 i 2260 oraz z 2017 r. poz. 2, 38 i 715.](#gloss-0:2:)), zwanej dalej „ustawą”.
+
+### § 2.
+
+Opłata za wydanie certyfikatu wynosi 5% kwoty przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy.
+
+### § 3.
+
+Opłata za przedłużenie ważności certyfikatu wynosi 10% przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy.
+
+### § 4.
+
+Opłata za udzielenie akredytacji wynosi 150% przeciętnego wynagrodzenia w gospodarce narodowej, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie przepisów ustawy.
+
+### § 5.
+
+### 1.
+
+Opłaty, o których mowa w § 1-4, wnosi się przelewem na rachunek bankowy Urzędu Dozoru Technicznego.
+
+### 2.
+
+W przypadku zmiany terminu egzaminu lub jego odwołania, albo gdy osoba, która wniosła opłatę, o której mowa w § 1, nie mogła przystąpić do egzaminu, opłatę tę zalicza się na poczet opłaty za przeprowadzenie egzaminu w najbliższym terminie.
+
+### § 6.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 20 marca 2014 r. w sprawie wysokości opłat za przeprowadzenie egzaminu, wydanie i przedłużenie ważności certyfikatu oraz udzielanie akredytacji w zakresie odnawialnych źródeł energii (Dz. U. poz. 425), które utraciło moc z dniem 5 listopada 2016 r. zgodnie z art. 206 pkt 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624).](#gloss-0:3:)
+
+1) Minister Energii kieruje działem administracji rządowej - energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2036 i 2260 oraz z 2017 r. poz. 2, 38 i 715. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Gospodarki z dnia 20 marca 2014 r. w sprawie wysokości opłat za przeprowadzenie egzaminu, wydanie i przedłużenie ważności certyfikatu oraz udzielanie akredytacji w zakresie odnawialnych źródeł energii (Dz. U. poz. 425), które utraciło moc z dniem 5 listopada 2016 r. zgodnie z art. 206 pkt 3 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. poz. 478 i 2365, z 2016 r. poz. 925, 1579 i 2260 oraz z 2017 r. poz. 624).

@@ -8,11 +8,9 @@ pos: 1195
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy - Prawo bankowe oraz o zmianie innych ustaw
-
-*USTAWA z dnia 23 sierpnia 2001 r.*
+# Ustawa z dnia 23 sierpnia 2001 r. o zmianie ustawy - Prawo bankowe oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,437 +22,2282 @@ domain: null
 | Data ogłoszenia | 2001-08-23 |
 | Data wydania | 2001-10-06 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011111195) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1195/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/1195/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/1195) |
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz.U. Nr 140, poz. 939, z 1998 r. Nr 160, poz. 1063 i Nr 162, poz. 1118, z 1999 r. Nr 11, poz. 95 i Nr 40, poz. 399, z 2000 r. Nr 93, poz. 1027, Nr 94, poz. 1037, Nr 114, poz. 1191, Nr 116, poz. 1216, Nr 119, poz. 1252 i Nr 122, poz. 1316 oraz z 2001 r. Nr 8, poz. 64 i Nr 100, poz. 1084) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 7.**
+### Art. 1.
 
-1. Oświadczenia woli składane w związku z dokonywaniem czynności bankowych mogą być wyrażone za pomocą elektronicznych nośnik(cid:243)w informacji.
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. Nr 140, poz. 939](https://api.sejm.gov.pl/eli/acts/DU/1997/939/text.html), z [1998 r. Nr 160, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/1998/1063/text.html)i [Nr 162, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text.html), z [1999 r. Nr 11, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1999/95/text.html)i [Nr 40, poz. 399](https://api.sejm.gov.pl/eli/acts/DU/1999/399/text.html), z [2000 r. Nr 93, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2000/1027/text.html), [Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), [Nr 114, poz. 1191](https://api.sejm.gov.pl/eli/acts/DU/2000/1191/text.html), [Nr 116, poz. 1216](https://api.sejm.gov.pl/eli/acts/DU/2000/1216/text.html), [Nr 119, poz. 1252](https://api.sejm.gov.pl/eli/acts/DU/2000/1252/text.html)i [Nr 122, poz. 1316](https://api.sejm.gov.pl/eli/acts/DU/2000/1316/text.html)oraz z [2001 r. Nr 8, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/2001/64/text.html)i [Nr 100, poz. 1084](https://api.sejm.gov.pl/eli/acts/DU/2001/1084/text.html)) wprowadza się następujące zmiany:
 
-2. Dokumenty związane z czynnościami bankowymi mogą być sporządzane na elektronicznych nośnikach informacji, jeżeli dokumenty te będą w spos(cid:243)b należyty utworzone, utrwalone, przechowywane i zabezpieczone. Usługi związane z zabezpieczeniem tych dokument(cid:243)w mogą być wykonywane przez banki i sp(cid:243)łki tworzone przez banki i inne podmioty.
+### 1)
 
-3. Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną uznaje się, że czynność dokonana w formie, o kt(cid:243)rej mowa w ust. 1, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
+w art. 1 po wyrazach „banków zagranicznych” dodaje się wyrazy „, a także oddziałów instytucji kredytowych”;
 
-4. Prezes Narodowego Banku Polskiego określa, w drodze zarządzenia, zasady tworzenia, utrwalania, przechowywania i zabezpieczania dokument(cid:243)w bankowych, o kt(cid:243)rych mowa w ust. 2.(cid:148);
+### 2)
 
-- **5)** w art. 11 ust. 1-3 otrzymują brzmienie: (cid:132)1. Przewidziane w ustawie zezwolenia, zgody i upoważnienia udzielane są w drodze decyzji właściwych organ(cid:243)w.
+w art. 4:
 
-2. Przy wydawaniu decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem wyjątk(cid:243)w przewidzianych w ustawie. Polskiego mają moc ostatecznych decyzji administracyjnych. Art. 127 § 3 Kodeksu postępowania administracyjnego, z zastrzeżeniem wyjątk(cid:243)w przewidzianych w ustawie, stosuje się odpowiednio.(cid:148);
+### a)
 
-- **6)** po art. 13 dodaje się art. 13a w brzmieniu: (cid:132)Art. 13a. Zarząd banku działa i wykonuje swoje funkcje w siedzibie określonej w statucie banku.(cid:148);
-- **7)** art. 17 otrzymuje brzmienie: (cid:132)Art. 17. 1. Prezesa zarządu banku państwowego powołuje i odwołuje rada nadzorcza.
+pkt 2 otrzymuje brzmienie:
 
-2. Pozostałych członk(cid:243)w zarządu banku powołuje i odwołuje rada nadzorcza, na wniosek prezesa zarządu banku.
+„
 
-3. Powołanie prezesa zarządu oraz jednego członka zarządu następuje za zgodą Komisji Nadzoru Bankowego. Przepisy art. 22 stosuje się odpowiednio.(cid:148);
+### 2)
 
-- **8)** art. 25 i 26 otrzymują brzmienie: (cid:132)Art. 25. 1. Osoba zamierzająca bezpośrednio lub pośrednio objąć lub nabyć akcje banku obowiązana jest wystąpić każdorazowo z wnioskiem o wydanie przez Komisję Nadzoru Bankowego zezwolenia na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku, jeżeli w wyniku objęcia lub nabycia akcji uzyskałaby prawo do wykonywania ponad 10%, 20%, 25%, 33%, 50%, 66% i 75% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku.
+bank zagraniczny - bank mający siedzibę za granicą Rzeczypospolitej Polskiej, na terytorium państwa niebędącego członkiem Unii Europejskiej,
 
-2. Obowiązek uzyskania zezwolenia, o kt(cid:243)rym mowa w ust. 1, dotyczy także osoby, kt(cid:243)ra po uzyskaniu zezwolenia Komisji Nadzoru Bankowego na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku na poziomie określonym w zezwoleniu, w wyniku zbycia akcji lub z innej przyczyny, utraciła prawo do wykonywania prawa głosu na tym poziomie.
+”
 
-3. Komisja Nadzoru Bankowego udzielając zezwolenia może określić w jego treści warunek, że nieprzekroczenie określonego progu liczby głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku w terminie wskazanym w zezwoleniu powoduje jego wygaśnięcie.
+### b)
 
-4. Osoba, kt(cid:243)ra objęła lub nabyła akcje banku jest obowiązana niezwłocznie powiadomić o tym bank, kt(cid:243)rego akcje nabyła lub objęła, jeżeli stanowią one wraz z akcjami objętymi lub nabytymi wcześniej pakiet uprawniający do wykonywania ponad 5% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku. Bank przesyła Komisji Nadzoru Bankowego powiadomienie w terminie 14 dni od daty jego otrzymania.
+dodaje się pkt 5-24 w brzmieniu:
 
-5. Komisja Nadzoru Bankowego może odm(cid:243)wić udzielenia zezwolenia, jeżeli wpływ osoby zamierzającej objąć lub nabyć akcje może okazać się niekorzystny dla ostrożnego i stabilnego zarządzania bankiem lub gdy środki przeznaczone na nabycie akcji pochodzą z pożyczki, kredytu lub źr(cid:243)deł nieudokumentowanych, lub gdy przepisy prawa obowiązujące w miejscu siedziby lub zago wykonywanie efektywnego nadzoru.
+„
 
-6. Przepisy ust. 1, 2, 4 i 5 stosuje się odpowiednio do sytuacji, w kt(cid:243)rych następuje zmiana w liczbie głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku w wyniku zmiany statutu banku lub w następstwie wygaśnięcia uprzywilejowania akcji. Akcjonariusz występuje z wnioskiem, o kt(cid:243)rym mowa w ust. 1, do Komisji Nadzoru Bankowego w terminie 30 dni od przekazania mu przez bank informacji o zmianie statutu lub wygaśnięcia uprzywilejowania akcji.
+### 5)
 
-7. Osoba zamierzająca zbyć pakiet akcji:
+pieniądz elektroniczny - wartość pieniężną stanowiącą elektroniczny odpowiednik znaków pieniężnych, która spełnia łącznie następujące warunki:
 
-- **1)** uprawniający do wykonywania ponad 10% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku,
-- **2)** w wyniku zbycia kt(cid:243)rego pozostały w jej posiadaniu pakiet akcji będzie uprawniał do wykonywania mniej niż 10%, 20%, 25%, 33%, 50%, 66% i 75% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku - obowiązana jest powiadomić o swoim zamiarze Komisję Nadzoru Bankowego.
+### a)
 
-**Art. 26.**
+jest przechowywana na elektronicznych nośnikach informacji,
 
-1. Osoba, kt(cid:243)ra objęła lub nabyła akcje bez zezwolenia, o kt(cid:243)rym mowa w art. 25 ust. 1, ma prawo do wykonywania 5% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku albo, z zastrzeżeniem art. 25 ust. 2, do takiej liczby głos(cid:243)w, kt(cid:243)ra wynika z wcześniej uzyskanego zezwolenia.
+### b)
 
-2. Uchwała walnego zgromadzenia akcjonariuszy banku powzięta z naruszeniem ust. 1 jest nieważna.(cid:148);
+jest wydawana do dyspozycji na podstawie umowy w zamian za środki pieniężne o nominalnej wartości nie mniejszej niż ta wartość,
 
-- **9)** po art. 26 dodaje się art. 26a i 26b w brzmieniu: (cid:132)Art. 26a. 1. Komisja Nadzoru Bankowego może cofnąć zezwolenie, o kt(cid:243)rym mowa w art. 25 ust. 1, 2 i 6, wyznaczając jednocześnie termin do sprzedaży akcji, jeżeli wpływ osoby, kt(cid:243)ra bezpośrednio objęła lub nabyła akcje banku może okazać się niekorzystny dla ostrożnego i stabilnego zarządzania bankiem lub jeżeli przepisy prawa obowiązujące w miejscu siedziby lub zamieszkania tej osoby uniemożliwiają Komisji Nadzoru Bankowego wykonywanie efektywnego nadzoru.
+### c)
 
-2. W przypadku cofnięcia zezwolenia akcjonariusz ma prawo do wykonywania 5% głos(cid:243)w na walnym zgromadzeniu akcjonariuszy banku, bez względu na liczbę posiadanych akcji.
+jest przyjmowana jako środek płatniczy przez przedsiębiorców innych niż wydający ją do dyspozycji,
 
-3. Uchwała walnego zgromadzenia akcjonariuszy banku powzięta z naruszeniem ust. 2 jest nieważna.
+### d)
 
-**Art. 26b.** Obowiązek powiadomienia, określony w art. 25 ust. 4 i 7 stosuje się odpowiednio w przypadku nabycia lub zbycia obligacji zamiennych na akcje banku, kwit(cid:243)w depozytowych w rozumieniu art. 96 ustawy, o kt(cid:243)rej mowa w art. 4 pkt 8, jak r(cid:243)wnież innych papier(cid:243)w wartościowych, z kt(cid:243)rych wynika prawo lub obowiązek nabycia akcji banku.(cid:148);
+na żądanie jest wymieniana przez wydawcę na środki pieniężne,
 
-**Art. 48a.** Bank krajowy może prowadzić działalność na terytorium państwa goszczącego poprzez oddział lub w ramach działalności transgranicznej. cego czynności wynikające z zezwolenia, o kt(cid:243)rym mowa w art. 34 ust. 1.
+### 6)
 
-**Art. 48c.**
+znaczny pakiet akcji lub udziałów - posiadane przez bank bezpośrednio lub pośrednio pakiety akcji lub udziałów w podmiocie, wniesione dopłaty w spółce z ograniczoną odpowiedzialnością lub wkłady w spółce komandytowej lub komandytowo-akcyjnej oraz sumy komandytowe w spółce komandytowej lub komandytowo-akcyjnej, spełniające co najmniej jeden z poniższych warunków:
 
-1. Bank krajowy, kt(cid:243)ry zamierza utworzyć oddział na terytorium państwa goszczącego, zawiadamia o tym w formie pisemnej Komisję Nadzoru Bankowego.
+### a)
 
-2. Zawiadomienie, o kt(cid:243)rym mowa w ust. 1, powinno zawierać:
+pakiet stanowi co najmniej 10% kapitału podmiotu,
 
-- **1)** nazwę państwa goszczącego, na terytorium kt(cid:243)rego bank zamierza utworzyć oddział,
-- **2)** nazwę oddziału,
-- **3)** adres oddziału, pod kt(cid:243)rym możliwe będzie uzyskanie dokument(cid:243)w dotyczących jego działalności,
-- **4)** program działalności oddziału określający w szczeg(cid:243)lności czynności, jakie bank zamierza wykonywać poprzez oddział oraz opis struktury organizacyjnej oddziału,
-- **5)** nazwiska os(cid:243)b przewidzianych do objęcia w oddziale stanowisk dyrektora oddziału i jego zastępcy.
+### b)
 
-3. Komisja Nadzoru Bankowego może żądać uzupełnienia zawiadomienia, o kt(cid:243)rym mowa w ust. 2, w zakresie określonym w ust. 2 pkt 2-5.
+pakiet uprawnia do wykonywania co najmniej 10% głosów w organie stanowiącym podmiotu lub umożliwia wywieranie znaczącego wpływu na zarządzanie podmiotem,
 
-4. W terminie trzech miesięcy od dnia otrzymania zawiadomienia lub jego uzupełnienia Komisja Nadzoru Bankowego przesyła właściwym władzom nadzorczym państwa goszczącego informacje, o kt(cid:243)rych mowa w ust. 2, oraz informacje o kwocie funduszy własnych i wysokości wsp(cid:243)łczynnika wypłacalności banku, kt(cid:243)ry zamierza utworzyć oddział. O fakcie przesłania informacji do właściwych władz nadzorczych Komisja Nadzoru Bankowego powiadamia zainteresowany bank.
+### c)
 
-**Art. 48d.**
+wartość pakietu, według wyceny przyjętej w celu sporządzenia sprawozdania finansowego, stanowi co najmniej 10% funduszy własnych banku,
 
-1. Komisja Nadzoru Bankowego odmawia przesłania informacji, o kt(cid:243)rych mowa w art. 48c ust. 4, w przypadku gdy:
+### 7)
 
-- **1)** nie zostały spełnione wymagania określone w art. 48c ust. 2,
-- **2)** struktura organizacyjna banku lub jego sytuacja finansowa są nieadekwatne do zamierzonej działalności,
-- **3)** zamierzona działalność naruszałaby przepisy prawa,
-- **4)** zamierzona działalność mogłaby okazać się niekorzystna dla ostrożnego i stabilnego zarządzania bankiem.
+instytucja finansowa - podmiot niebędący bankiem, który łącznie co najmniej 75% przychodów uzyskuje z wykonywanej przez siebie działalności gospodarczej w zakresie:
 
-2. Komisja Nadzoru Bankowego przesyła zainteresowanemu bankowi decyzję odmowną w terminie trzech miesięcy od dnia otrzymania zawiadomienia lub jego uzupełnienia.
+### a)
 
-**Art. 48e.** O zamiarze dokonania zmiany w zakresie wskazanym w art. 48c ust. 2 pkt 2-4 bank krajowy powiadamia, w formie pisemnej, Komisję Nadzoru Bankowego i właściwe władze nadzorcze państwa goszczącego, najp(cid:243)źniej na miesiąc przed dokonaniem tej zmiany. Przepisy art. 48c ust. 3 i 4 oraz art. 48d stosuje się odpowiednio. niczną zawiadamia o tym Komisję Nadzoru Bankowego. Zawiadomienie powinno wskazywać każdorazowo czynności wynikające z udzielonego bankowi zezwolenia, jakie bank zamierza wykonywać. 2. Komisja Nadzoru Bankowego przesyła zawiadomienie, o kt(cid:243)rym mowa w ust. 1, właściwym władzom nadzorczym państwa goszczącego w terminie miesiąca od dnia jego otrzymania i powiadamia o tym zainteresowany bank.
+nabywania i zbywania udziałów lub akcji,
 
-**Art. 48g.** Komisja Nadzoru Bankowego niezwłocznie powiadamia właściwe władze nadzorcze państwa goszczącego o utracie przez bank krajowy, prowadzący działalność na jego terytorium, zezwolenia na jego utworzenie.
+### b)
 
-**Art. 48h.**
+udzielania pożyczek ze środków własnych,
 
-1. Instytucja finansowa mająca siedzibę na terytorium Rzeczypospolitej Polskiej może wykonywać na terytorium państwa goszczącego czynności, o kt(cid:243)rych mowa w art. 5 ust. 2 i art. 6 pkt 1-4 i 6-8, w zakresie określonym w akcie prawnym o jej utworzeniu, poprzez oddział lub w ramach działalności transgranicznej pod warunkiem, że:
+### c)
 
-- **1)** jest podmiotem zależnym od co najmniej jednego banku krajowego podlegającego nadzorowi skonsolidowanemu,
-- **2)** podlega nadzorowi skonsolidowanemu,
-- **3)** faktycznie prowadzi działalność na terytorium Rzeczypospolitej Polskiej,
-- **4)** bank lub banki krajowe, o kt(cid:243)rych mowa w pkt 1, dysponują prawem do wykonywania co najmniej 90% głos(cid:243)w w organie stanowiącym danej instytucji finansowej,
-- **5)** bank lub banki krajowe, o kt(cid:243)rych mowa w pkt 1, spełniają określone w przepisach ustawy wymogi dotyczące funduszy własnych, wsp(cid:243)łczynnika wypłacalności, koncentracji wierzytelności, płynności oraz ryzyka rynkowego,
-- **6)** bank lub banki krajowe, o kt(cid:243)rych mowa w pkt 1, po uprzednim uzyskaniu zgody Komisji Nadzoru Bankowego, złożą poręczenie, w kt(cid:243)rym przyjmą solidarną odpowiedzialność za zobowiązania zaciągnięte przez daną instytucję finansową.
+udostępniania składników majątkowych na podstawie umowy leasingu,
 
-2. Spełnienie warunk(cid:243)w określonych w ust. 1 podlega weryfikacji przez Komisję Nadzoru Bankowego.
+### d)
 
-3. Instytucja finansowa zawiadamia w formie pisemnej Komisję Nadzoru Bankowego o zamiarze utworzenia oddziału lub prowadzenia działalności transgranicznej na terytorium państwa goszczącego. Przepisy art. 48c ust. 2-4 i art. 48d-48f stosuje się odpowiednio, z tym że Komisja Nadzoru Bankowego:
+świadczenia usług w zakresie nabywania i zbywania wierzytelności,
 
-- **1)** powiadamia właściwe władze nadzorcze państwa goszczącego o kwocie funduszy własnych zależnej instytucji finansowej i o wysokości skonsolidowanego wsp(cid:243)łczynnika wypłarych mowa w ust. 1 pkt 1,
-- **2)** odmawia przesłania informacji właściwym władzom nadzorczym także w przypadku, gdy instytucja finansowa nie spełnia warunk(cid:243)w, o kt(cid:243)rych mowa w ust. 1.
+### e)
 
-4. W przypadku, gdy instytucja finansowa przestanie spełniać warunki, o kt(cid:243)rych mowa w ust. 1, Komisja Nadzoru Bankowego powiadamia o tym właściwe władze nadzorcze. Z chwilą powiadomienia instytucja finansowa podlega ustawodawstwu państwa goszczącego.
+świadczenia usług związanych z transferem środków pieniężnych,
 
-**Art. 48i.** Instytucja kredytowa może prowadzić działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej.
+### f)
 
-**Art. 48j.** Instytucja kredytowa może wykonywać na terytorium Rzeczypospolitej Polskiej czynności określone w art. 5 ust. 1 i 2 oraz art. 6 pkt 1-4 i 6-8 w zakresie wynikającym z zezwolenia udzielonego przez właściwe władze nadzorcze państwa macierzystego.
+emitowania instrumentów płatniczych i administrowania nimi,
 
-**Art. 48k.**
+### g)
 
-1. Do działalności instytucji kredytowych na terytorium Rzeczypospolitej Polskiej stosuje się przepisy prawa polskiego, z zastrzeżeniem ust. 2 i 3.
+udzielania gwarancji, poręczeń lub zaciągania innych zobowiązań nieujmowanych w bilansie,
 
-2. Do oddział(cid:243)w instytucji kredytowych przepisy art. 1-11, art. 40a ust. 1, art. 49-70, art. 73-78a, art. 80-98, art. 101-112, art. 133 ust. 2 pkt 1 i ust. 3, art. 137, art. 138 ust. 1 pkt 1, ust. 2 i ust. 3 pkt 1, 3 i 3a , art. 139 ust. 1 pkt 2 i 3, art. 141 i art. 171 ust. 4-7 stosuje się odpowiednio.
+### h)
 
-3. W zakresie polityki pieniężnej prowadzonej przez Narodowy Bank Polski, do dnia przystąpienia Rzeczypospolitej Polskiej do Unii Gospodarczej i Walutowej, oddziały instytucji kredytowych mają takie same prawa i obowiązki jak banki krajowe i oddziały bank(cid:243)w zagranicznych.
+prowadzenia na rachunek własny lub rachunek innej osoby fizycznej lub prawnej obrotu:
 
-**Art. 48l.**
+- - w zakresie operacji terminowych,
 
-1. Oddział instytucji kredytowej może, z zastrzeżeniem ust. 2, rozpocząć działalność na terytorium Rzeczypospolitej Polskiej najwcześniej po upływie dw(cid:243)ch miesięcy od dnia otrzymania przez Komisję Nadzoru Bankowego od właściwych władz nadzorczych państwa macierzystego następujących informacji:
+- - instrumentami rynku pieniężnego,
 
-- **1)** nazwy i adresu oddziału na terytorium Rzeczypospolitej Polskiej, pod kt(cid:243)rym możliwe będzie uzyskanie dokument(cid:243)w dotyczących jego działalności,
-- **2)** programu działalności określającego w szczeg(cid:243)lności czynności, jakie instytucja kredytowa zamierza wykonywać oraz opisu struktury organizacyjnej oddziału,
-- **3)** nazwisk os(cid:243)b przewidzianych do objęcia stanowisk dyrektora oddziału i jego zastępcy,
-- **4)** wysokości kwoty funduszy własnych instytucji kredytowej i wysokości wsp(cid:243)łczynnika wypłacalności. rych mowa w ust. 1, Komisja Nadzoru Bankowego może wskazać warunki, kt(cid:243)re w interesie dobra og(cid:243)lnego, w szczeg(cid:243)lności w celu ochrony d(cid:243)br konsumenta, zapewnienia bezpieczeństwa obrotu gospodarczego lub zapobieżenia naruszeniom prawa, oddział instytucji kredytowej musi spełniać przy prowadzeniu działalności na terytorium Rzeczypospolitej Polskiej.
+- - zbywalnymi papierami wartościowymi,
 
-3. O zamiarze dokonania zmiany w zakresie, o kt(cid:243)rym mowa w ust. 1 pkt 1-3, instytucja kredytowa zawiadamia Komisję Nadzoru Bankowego najp(cid:243)źniej w terminie miesiąca przed dokonaniem takiej zmiany. Zmiany mają charakter wiążący od dnia otrzymania przez Komisję Nadzoru Bankowego stosownego zawiadomienia od właściwych władz nadzorczych państwa macierzystego. Przepisy ust. 2 stosuje się odpowiednio. Art. 48ł. Instytucja kredytowa może rozpocząć działalność transgraniczną na terytorium Rzeczypospolitej Polskiej po otrzymaniu przez Komisję Nadzoru Bankowego zawiadomienia od właściwych władz nadzorczych państwa macierzystego, kt(cid:243)re określa rodzaje czynności, jakie instytucja zamierza wykonywać.
+### i)
 
-**Art. 48m.** Oddział instytucji kredytowej prowadzący działalność na terytorium Rzeczypospolitej Polskiej jest obowiązany do przekazywania Narodowemu Bankowi Polskiemu okresowych sprawozdań ze swej działalności w zakresie i trybie ustalonym na podstawie art. 23 ust. 3 i 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz.U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64 i Nr 110, poz. 1189).(cid:148);
+uczestniczenia w emisji akcji lub świadczenia usług związanych z taką emisją,
 
-**Art. 63c.** Polecenie przelewu stanowi udzieloną bankowi, z zastrzeżeniem art. 63g, dyspozycję dłużnika obciążenia jego rachunku określoną kwotą i uznania tą kwotą rachunku wierzyciela. Bank wykonuje dyspozycję dłużnika w spos(cid:243)b przewidziany w umowie rachunku bankowego.
+### j)
 
-**Art. 63d.**
+świadczenia usług w zakresie zarządzania aktywami,
 
-1. Polecenie zapłaty stanowi udzieloną bankowi dyspozycję wierzyciela obciążenia określoną kwotą rachunku bankowego dłużnika i uznania tą kwotą rachunku wierzyciela. Dyspozycja wierzyciela oznacza r(cid:243)wnocześnie jego zgodę na cofnięcie przez bank dłużnika obciążenia rachunku dłużnika i cofnięcie uznania rachunku wierzyciela w przypadku dokonanego przez dłużnika odwołania polecenia zapłaty, o kt(cid:243)rym mowa w ust. 6.
+### k)
 
-2. Przeprowadzenie rozliczeń poleceniem zapłaty jest dopuszczalne pod warunkiem:
+świadczenia usług w zakresie doradztwa finansowego, w tym inwestycyjnego,
 
-- **1)** posiadania przez wierzyciela i dłużnika rachunk(cid:243)w w bankach, kt(cid:243)re zawarły porozumienie w sprawie stosowania polecenia zapłaty, określające w szczeg(cid:243)lności: zakres odpowiedzialności bank(cid:243)w wykonujących polecenie zapłaty, przyczyny odmowy wykonania polecenia zapłaty przez bank dłużnika, procedury dochodzenia wzajemnych roszczeń bank(cid:243)w, wynikających ze skutk(cid:243)w odwołania polecenia zapłaty przez dłużnika, wzory jednolitych formularzy oraz zasady wykonywania przez banki poleceń zapłaty za pomocą elektronicznych nośnik(cid:243)w informacji, rachunku dłużnika w drodze polecenia zapłaty w umownych terminach zapłaty z tytułu określonych zobowiązań,
-- **3)** zawarcia pomiędzy wierzycielem a bankiem prowadzącym jego rachunek umowy w sprawie stosowania polecenia zapłaty przez wierzyciela, zawierającej w szczeg(cid:243)lności: zgodę banku na stosowanie polecenia zapłaty przez wierzyciela, zasady składania i realizowania poleceń zapłaty, zgodę wierzyciela na obciążenie jego rachunku kwotami odwoływanych poleceń zapłaty wraz z odsetkami, o kt(cid:243)rych mowa w ust. 7, zwr(cid:243)conymi dłużnikowi w związku z odwołaniem polecenia zapłaty oraz zakres odpowiedzialności wierzyciela i banku,
-- **4)** że maksymalna kwota pojedynczego polecenia zapłaty nie przekracza r(cid:243)wnowartości, przeliczonej na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski w ostatnim dniu kwartału poprzedzającego kwartał, w kt(cid:243)rym dokonywane jest rozliczenie pieniężne:
-    - **a)** 1 000 EURO - w przypadku gdy dłużnikiem jest osoba fizyczna niewykonująca działalności gospodarczej,
-    - **b)** 10 000 EURO - w przypadku pozostałych dłużnik(cid:243)w.
+### l)
 
-3. Bank, kt(cid:243)ry udzielił wierzycielowi zgody na stosowanie poleceń zapłaty, jest wobec bank(cid:243)w - stron porozumienia, o kt(cid:243)rym mowa w ust. 2 pkt 1, odpowiedzialny za działania wierzyciela związane ze stosowaniem poleceń zapłaty, w szczeg(cid:243)lności jest obowiązany do natychmiastowego uznania kwotą odwołanego polecenia zapłaty rachunku banku dłużnika wraz z odsetkami, o kt(cid:243)rych mowa w ust. 7, r(cid:243)wnież w przypadku braku środk(cid:243)w na rachunku wierzyciela lub wystąpienia innej przyczyny uniemożliwiającej obciążenie rachunku bankowego wierzyciela.
+świadczenia usług brokerskich na rynku pieniężnym,
 
-4. Uznanie rachunku bankowego wierzyciela następuje po uzyskaniu przez jego bank od banku dłużnika środk(cid:243)w wystarczających na pokrycie polecenia zapłaty.
+### 8)
 
-5. Dłużnikowi przysługuje prawo do cofnięcia w każdym czasie zgody, o kt(cid:243)rej mowa w ust. 2 pkt 2.
+podmiot dominujący - podmiot w rozumieniu art. 4 pkt 16 ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi (Dz. U. Nr 118, poz. 754 i Nr 141, poz. 945, z 1998 r. Nr 107, poz. 669 i Nr 113, poz. 715, z 2000 r. Nr 22, poz. 270, Nr 60, poz. 702 i 703, Nr 94, poz. 1037, Nr 103, poz. 1099, Nr 114, poz. 1191, Nr 116, poz. 1216 i Nr 122, poz. 1315 oraz z 2001 r. Nr 110, poz. 1189) lub podmiot, który w ocenie Komisji Nadzoru Bankowego może w inny sposób wywierać znaczący wpływ na inny podmiot zależny,
 
-6. Dłużnik może odwołać pojedyncze polecenie zapłaty, w banku prowadzącym jego rachunek, w terminie:
+### 9)
 
-- **1)** 30 dni kalendarzowych od dnia dokonania obciążenia rachunku bankowego - w przypadku gdy dłużnikiem jest osoba fizyczna niewykonująca działalności gospodarczej,
-- **2)** 5 dni roboczych od dnia dokonania obciążenia rachunku bankowego - w przypadku pozostałych dłużnik(cid:243)w.
+podmiot zależny - podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym wszystkie podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od pierwotnego podmiotu dominującego,
 
-7. Odwołanie polecenia zapłaty przez dłużnika zobowiązuje bank dłużnika do natychmiastowego uznania rachunku bankowego dłużnika kwotą odwołanego polecenia zapłaty. Uznanie rachunku dłużnika następuje z datą złożenia odwołania polecenia zapłaty, z obowiązkiem naliczenia - od dnia obciążenia rachunku dłużnika kowi z tytułu oprocentowania rachunku bankowego.
+### 10)
 
-8. Bank będący wierzycielem może przeprowadzić rozliczenia poleceniem zapłaty na warunkach określonych w ustawie z tym, że :
+holding finansowy - grupę co najmniej dwóch podmiotów, w której podmiotem dominującym jest instytucja finansowa, a w skład grupy wchodzą wyłącznie lub w większości banki lub instytucje finansowe i przynajmniej jednym podmiotem zależnym jest bank,
 
-- **1)** do rozliczeń tych nie stosuje się przepis(cid:243)w ust. 2 pkt 3 i ust. 3,
-- **2)** bank ten jest obowiązany do natychmiastowego uznania kwotą odwołanego polecenia zapłaty rachunku banku dłużnika.
+### 11)
 
-**Art. 63e.**
+holding o działalności mieszanej - grupę co najmniej dwóch podmiotów, w której podmiotem dominującym jest podmiot niebędący bankiem ani instytucją finansową, a przynajmniej jednym podmiotem zależnym jest bank,
 
-1. Czek rozrachunkowy stanowi dyspozycję wystawcy czeku udzieloną trasatowi do obciążenia jego rachunku kwotą, na kt(cid:243)rą czek został wystawiony, oraz uznania tą kwotą rachunku posiadacza czeku.
+### 12)
 
-2. Na wniosek wystawcy czeku bank może potwierdzić czek rozrachunkowy, rezerwując jednocześnie na rachunku wystawcy odpowiedni fundusz na pokrycie czeku. Bank może potwierdzić r(cid:243)wnież czek niezupełny.
+przedsiębiorstwo pomocniczych usług bankowych - podmiot, którego podstawowa działalność ma charakter pomocniczy w stosunku do podstawowej działalności jednego lub więcej banków, a w szczególności polega na zarządzaniu własnym lub powierzonym majątkiem lub świadczeniu usług w zakresie przetwarzania danych,
 
-3. Czek rozrachunkowy może być przedstawiony do rozrachunku ze skutkami zapłaty bezpośrednio u trasata lub w banku, w kt(cid:243)rym posiadacz czeku ma rachunek. Uznanie rachunku posiadacza czeku sumą czekową, z zastrzeżeniem ust. 4, następuje po uzyskaniu przez bank posiadacza czeku od trasata środk(cid:243)w wystarczających do zapłaty czeku. Szczeg(cid:243)łowe warunki przedstawienia czeku do rozrachunku ze skutkami zapłaty w banku innym niż trasata określa umowa między tym bankiem i posiadaczem czeku.
+### 13)
 
-4. Banki mogą zawierać porozumienia, w kt(cid:243)rych - na zasadach wzajemności - określą inny niż w ust. 3 tryb przedstawienia czek(cid:243)w rozrachunkowych do zapłaty z rachunk(cid:243)w oszczędnościoworozliczeniowych.
+właściwe władze nadzorcze - władze uprawnione na mocy obowiązujących przepisów do sprawowania nadzoru nad podmiotami działającymi na rynku finansowym,
 
-**Art. 63f.**
+### 14)
 
-1. Na warunkach określonych w umowach strony mogą stosować w rozliczeniach bezgot(cid:243)wkowych także karty płatnicze.
+znaczący wpływ - zdolność do udziału w podejmowaniu decyzji w zakresie wyznaczania kierunków polityki finansowej i operacyjnej, w tym również dotyczącej podziału zysku lub pokrycia straty bilansowej innego podmiotu,
 
-2. Prawa i obowiązki wydawcy i posiadacza karty płatniczej określa odrębna ustawa.
+### 15)
 
-**Art. 63g.**
+bliskie powiązania - posiadanie przez podmiot bezpośrednio lub pośrednio ponad 10% kapitału innego podmiotu lub prawa do wykonywania co najmniej 10% głosów w organach innego podmiotu, lub pozostawanie z innym podmiotem w takim związku gospodarczym, opartym na stałej współpracy, w szczególności wynikającej z zawartej umowy lub umów, który w ocenie Komisji Nadzoru Bankowego może mieć istotny wpływ na pogorszenie się sytuacji finansowej jednego z podmiotów,
 
-1. Przy wykonywaniu zlecanych przez klient(cid:243)w bank(cid:243)w poleceń przelewu i wpłat got(cid:243)wkowych w obrocie z krajami członkowskimi Unii Europejskiej oraz z Islandią, Lichtensteinem i Norwegią, w kwocie nieprzekraczającej r(cid:243)wnowartości w złotych 50 000 EURO przeliczonej według kurs(cid:243)w średnich ogłaszanych przez Narodowy Bank Polski w dniu przyjęcia zlecenia, zwanych dalej (cid:132)przelewami transgranicznymi(cid:148), banki obowiązane są do:
+### 16)
 
-- **1)** złożenia przed przyjęciem dyspozycji od klienta - na jego żądanie - oświadczenia, dotyczącego przelewu transgranicznego, kt(cid:243)rego elementy zostały wskazane przez klienta, zawierającego w szczeg(cid:243)lności termin wykonania przelewu, wysokość opłat i prowizji, z wyłączeniem koszt(cid:243)w związanych z zastosowaniem kurs(cid:243)w walut obcych w złotych, tej zleceniem, chyba że zleceniodawca określił, że koszty pokrywa w całości lub części beneficjent; nie wyklucza to uprawnień banku beneficjenta do pobierania opłat związanych z prowadzeniem jego rachunku zgodnie z obowiązującymi przepisami,
-- **3)** wykonania przelewu transgranicznego poprzez uznanie rachunku banku beneficjenta, w terminie do końca piątego dnia roboczego następującego po dniu przyjęcia zlecenia przez bank zleceniodawcy, chyba że inny termin został ustalony w umowie pomiędzy zleceniodawcą a bankiem zleceniodawcy,
-- **4)** uznania rachunku bankowego beneficjenta przez bank beneficjenta do końca dnia roboczego następującego po dniu uznania rachunku banku beneficjenta, chyba że inny termin został ustalony pomiędzy bankiem beneficjenta a beneficjentem.
+podmioty powiązane kapitałowo lub organizacyjnie - co najmniej dwa podmioty, z których przynajmniej jeden bezpośrednio lub pośrednio wywiera znaczący wpływ na pozostałe lub które stanowią dla banku jedno ryzyko gospodarcze ze względu na to, że kondycja finansowa jednego z nich może mieć wpływ na spłatę zobowiązań przez pozostałe,
 
-2. W przypadku op(cid:243)źnienia w wykonaniu przelewu transgranicznego:
+### 17)
 
-- **1)** bank zleceniodawcy wypłaca zleceniodawcy odsetki ustawowe od kwoty objętej zleceniem za okres liczony od końca terminu umownego, lub w przypadku braku takiego terminu od końca piątego dnia roboczego, następującego po dniu przyjęcia zlecenia - do dnia uznania rachunku banku beneficjenta,
-- **2)** bank beneficjenta, jeżeli nie uzna rachunku beneficjenta w terminach określonych w ust. l pkt 4, wypłaca beneficjentowi odsetki ustawowe od kwoty objętej zleceniem za okres od końca umownego terminu, lub w przypadku braku takiego terminu - od końca dnia roboczego, następującego po dniu uznania rachunku banku beneficjenta - do dnia, w kt(cid:243)rym został uznany rachunek beneficjenta.
+instytucja kredytowa - podmiot mający swoją siedzibę za granicą Rzeczypospolitej Polskiej na terytorium jednego z państw członkowskich Unii Europejskiej, zwanych dalej «państwami członkowskimi», prowadzący we własnym imieniu i na własny rachunek, na podstawie zezwolenia właściwych władz nadzorczych, działalność polegającą na przyjmowaniu depozytów lub innych środków powierzonych pod jakimkolwiek tytułem zwrotnym i udzielaniu kredytów lub na wydawaniu pieniądza elektronicznego,
 
-3. Odsetek, o kt(cid:243)rych mowa w ust. 2, nie wypłaca się, jeżeli bank zleceniodawcy lub bank beneficjenta ustali, że op(cid:243)źnienie powstało z przyczyn leżących po stronie zleceniodawcy lub beneficjenta.
+### 18)
 
-4. W przypadku niewykonania przyjętych zleceń przelewu transgranicznego, bank zleceniodawcy obowiązany jest uznać rachunek zleceniodawcy lub postawić do jego dyspozycji, na jego wniosek, w terminie 14 dni roboczych następujących po dniu złożenia wniosku, kwotę objętą zleceniem, nie więcej jednak niż do r(cid:243)wnowartości w złotych kwoty 12 500 EURO przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w momencie przyjęcia zlecenia przez bank zleceniodawcy, powiększoną o odsetki ustawowe za okres od dnia zlecenia do dnia uznania jego rachunku kwotą odszkodowania lub postawienia do jego dyspozycji tej kwoty, oraz powiększoną o opłacone przez zleceniodawcę koszty związane z wykonaniem zlecenia, jeżeli po przyjęciu zlecenia przez bank zleceniodawcy odpowiednia kwota nie wpłynęła na rachunek banku beneficjenta. żeli kwotą objętą zleceniem został wcześniej uznany rachunek banku beneficjenta.
+oddział instytucji kredytowej - jednostkę organizacyjną instytucji kredytowej wykonującą w jej imieniu i na jej rzecz wszystkie lub niektóre czynności wynikające z zezwolenia udzielonego tej instytucji kredytowej, przy czym wszystkie jednostki organizacyjne danej instytucji kredytowej odpowiadające powyższym cechom, utworzone na terytorium Rzeczypospolitej Polskiej, uważa się za jeden oddział,
 
-5. Wniosek zleceniodawcy, o kt(cid:243)rym mowa w ust. 4, nie może być złożony przed upływem terminu wykonania przelewu transgranicznego, ustalonego zgodnie z przepisami ust. 1 pkt 3.
+### 19)
 
-6. Instytucja pośrednicząca, kt(cid:243)ra przyjęła i nie wykonała zlecenia przelewu transgranicznego, jest obowiązana zwr(cid:243)cić na rzecz banku zleceniodawcy, na własny koszt, kwotę objętą zleceniem wraz ze wszystkimi odpowiednimi kosztami i odsetkami, jeżeli kwota objęta zleceniem nie wpłynęła na rachunek beneficjenta.
+oddział banku krajowego - jednostkę organizacyjną banku krajowego wykonującą w jego imieniu i na jego rzecz wszystkie lub niektóre czynności wynikające z zezwolenia udzielonego bankowi krajowemu, przy czym wszystkie jednostki organizacyjne danego banku krajowego odpowiadające powyższym cechom, utworzone na terytorium innego niż Rzeczpospolita Polska państwa, uważa się za jeden oddział,
 
-7. Przepis(cid:243)w ust. 4-6 nie stosuje się w przypadku gdy zlecenie przelewu transgranicznego nie zostało zrealizowane z przyczyn leżących po stronie instytucji pośredniczącej wskazanej przez bank beneficjenta. W takim przypadku bank beneficjenta obowiązany jest postawić do dyspozycji beneficjenta kwotę objętą zleceniem, nie większą niż r(cid:243)wnowartość w złotych 12 500 EURO przeliczoną według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w momencie przyjęcia zlecenia przez bank zleceniodawcy.
+### 20)
 
-8. Przepis(cid:243)w ust. 4-6 nie stosuje się w przypadku gdy zlecenie przelewu transgranicznego nie zostało zrealizowane z powodu błęd(cid:243)w lub przeoczeń w instrukcji udzielonej przez zleceniodawcę lub z przyczyn leżących po stronie instytucji pośredniczącej wskazanej przez zleceniodawcę. W takim przypadku bank zleceniodawcy i instytucje pośredniczące w wykonaniu zlecenia powinny podjąć niezwłocznie starania w celu odzyskania kwoty objętej zleceniem. Gdy kwota objęta zleceniem zostanie odzyskana przez bank zleceniodawcy, jest on obowiązany do przekazania jej na rachunek zleceniodawcy lub postawienia do dyspozycji zleceniodawcy. W takim przypadku bank zleceniodawcy i instytucje pośredniczące w wykonaniu zlecenia nie są obowiązane do zwrotu zleceniodawcy opłat i naliczonych odsetek oraz mogą potrącić własne koszty poniesione przy odzyskiwaniu kwoty objętej zleceniem.
+oddział banku zagranicznego - jednostkę organizacyjną banku zagranicznego wykonującą w jego imieniu i na jego rzecz wszystkie lub niektóre czynności wynikające z zezwolenia udzielonego temu bankowi, przy czym wszystkie jednostki organizacyjne danego banku zagranicznego odpowiadające powyższym cechom, utworzone na terytorium Rzeczypospolitej Polskiej, uważa się za jeden oddział,
 
-9. Odpowiedzialność bank(cid:243)w oraz instytucji pośredniczących w wykonaniu przelew(cid:243)w transgranicznych za nienależyte wykonanie lub niewykonanie zlecenia, określona w ust. 2-8, jest wyłączona w przypadku wystąpienia siły wyższej oraz w przypadku zastosowania przez bank przepis(cid:243)w o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źr(cid:243)deł.
+### 21)
 
-10. Banki i instytucje pośredniczące obowiązane są do zwrotu na rzecz zleceniodawcy lub odpowiednio banku zleceniodawcy lub beneficjenta potrąceń z tytułu koszt(cid:243)w wykonania przelewu transgranicznego, dokonanych z naruszeniem ust. 1 pkt 2.
+działalność transgraniczna - wykonywanie przez instytucję kredytową na terytorium Rzeczypospolitej Polskiej lub przez bank krajowy na terytorium państwa goszczącego wszystkich lub niektórych czynności w zakresie wynikającym z udzielonego zezwolenia, bez uczestnictwa oddziału tej instytucji lub banku,
 
-11. Bankowi zleceniodawcy przysługuje w stosunku do instytucji pośredniczącej roszczenie o zwrot wypłaconych na podstawie ust. 2 pkt 1 odsetek, jeżeli op(cid:243)źnienie wykonania przelewu transgraśredniczącej.
+### 22)
 
-12. Przepisy ust. 2 i 6 nie wyłączają ani nie ograniczają uprawnień klient(cid:243)w, bank(cid:243)w i instytucji pośredniczących, uczestniczących w wykonaniu zlecenia przelewu transgranicznego, wynikających z odrębnych przepis(cid:243)w.
+państwo macierzyste - państwo członkowskie, w którym dana instytucja kredytowa uzyskała zezwolenie na wykonywanie działalności i na terenie którego ma swoją siedzibę,
 
-13. Do wykonywania zleceń przelewu transgranicznego art. 64 nie stosuje się.
+### 23)
 
-14. Jeżeli strony nie sporządziły zapisu na sąd polubowny, na żądanie osoby uprawnionej sprawy przeciwko bankom lub instytucjom pośredniczącym z zakresu przelew(cid:243)w transgranicznych rozpoznawane są przez sądy polubowne wyznaczone przez ministra właściwego do spraw instytucji finansowych, chyba że strona pozwana sprzeciwi się temu nie p(cid:243)źniej niż w odpowiedzi na pozew.
+państwo goszczące - państwo członkowskie, na terytorium którego bank krajowy wykonuje lub zamierza wykonywać działalność,
 
-15. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia:
+### 24)
 
-- **1)** rodzaje przelew(cid:243)w transgranicznych, wykonywanych na zasadach określonych w ust. 1-13,
-- **2)** szczeg(cid:243)łowy zakres informacji, o kt(cid:243)rych mowa w art. 111 ust. 1 pkt 7,
-- **3)** szczeg(cid:243)łowe obowiązki bank(cid:243)w oraz instytucji pośredniczących, związane z wykonywaniem przelew(cid:243)w transgranicznych, oraz
-- **4)** wyznaczy sądy polubowne właściwe do rozpoznawania spraw związanych z wykonaniem przelewu transgranicznego - kierując się zasadami zawartymi w dyrektywie 97/5 WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 1997 r. o przelewach transgranicznych (Dz. Urz. WE nr L 43, 25).
+instytucja pośrednicząca - bank lub inną instytucję uczestniczącą w wykonywaniu przelewów transgranicznych, niebędącą bankiem zleceniodawcy ani bankiem beneficjenta.
 
-**Art. 63h.** Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, wz(cid:243)r formularza polecenia przelewu/wpłaty got(cid:243)wkowej stosowanego w rozliczeniach pieniężnych przeprowadzanych za pośrednictwem banku.(cid:148);
+” ;
 
-**Art. 128.**
+### 3)
 
-1. Bank jest obowiązany utrzymywać:
+w art. 5:
 
-- **1)** fundusze własne na poziomie nie niższym niż r(cid:243)wnowartość w złotych kwoty określonej w art. 32 ust. 1, przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu sprawozdawczym, z tym że wkłady niepieniężne nie mogą przekroczyć 15% funduszy zasadniczych banku,
-- **2)** sumę funduszy własnych oraz dodatkowych pozycji bilansu banku określonych przez Komisję Nadzoru Bankowego, pomniejszoną o kwotę przekroczenia progu koncentracji kapitałowej, o kt(cid:243)rej mowa w ust. 2, na poziomie nie niższym, niż suma wymog(cid:243)w kapitałowych z tytułu poszczeg(cid:243)lnych rodzaj(cid:243)w ryzyka prowadzonej działalności, z zastrzeżeniem pkt 3,
-- **3)** wsp(cid:243)łczynnik wypłacalności na poziomie co najmniej 8%, a bank rozpoczynający działalność operacyjną na poziomie co najmniej 15% przez pierwsze 12 miesięcy działalności, a przez następne 12 miesięcy działalności - co najmniej 12%.
+### a)
 
-2. Przekroczenie progu koncentracji kapitałowej stanowi większa z liczb określonych jako:
+w ust. 1:
 
-- **1)** suma kwot, o kt(cid:243)re poszczeg(cid:243)lne znaczne pakiety akcji lub udział(cid:243)w przekraczają 15% funduszy własnych banku,
-- **2)** kwota, o kt(cid:243)rą suma znacznych pakiet(cid:243)w akcji lub udział(cid:243)w przekracza 60% funduszy własnych banku.
+- - pkt 4 otrzymuje brzmienie: „ 4) udzielanie i potwierdzanie gwarancji bankowych oraz otwieranie akredytyw, ”
 
-3. Obliczając przekroczenie progu koncentracji kapitałowej, o kt(cid:243)rym mowa w ust. 2, nie uwzględnia się znacznych pakiet(cid:243)w akcji lub udział(cid:243)w:
+- - po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) wydawanie, rozliczanie i umarzanie pieniądza elektronicznego, ”
 
-- **1)** w bankach,
-- **2)** w instytucjach finansowych,
-- **3)** w zakładach ubezpieczeń,
-- **4)** w izbach rozliczeniowych, o kt(cid:243)rych mowa w art. 67,
-- **5)** w międzybankowych przedsiębiorstwach telekomunikacyjnych, w kt(cid:243)rych banki są posiadaczem co najmniej 75% akcji lub udział(cid:243)w,
-- **6)** w instytucji, o kt(cid:243)rej mowa w art. 105 ust. 4, w kt(cid:243)rej banki są posiadaczem co najmniej 75% akcji lub udział(cid:243)w,
-- **7)** w podmiotach, kt(cid:243)rych wyłącznym przedmiotem działalności jest świadczenie usług w zakresie edukacji kadr bankowych, udział(cid:243)w,
-- **8)** w przedsiębiorstwach pomocniczych usług bankowych, w kt(cid:243)rych banki są posiadaczem co najmniej 75% akcji lub udział(cid:243)w,
-- **9)** w podmiotach, w kt(cid:243)rych bank jest posiadaczem akcji lub udział(cid:243)w w związku z jego udziałem w procesie naprawczym tych podmiot(cid:243)w,
-- **10)** przejętych w związku z wykonywaniem umowy o subemisję usługową.
+### b)
 
-4. Komisja Nadzoru Bankowego określi, w drodze uchwały:
+w ust. 2:
 
-- **1)** zakres i szczeg(cid:243)łowe zasady wyznaczania wymog(cid:243)w kapitałowych, o kt(cid:243)rych mowa w ust. 1 pkt 2, z tytułu poszczeg(cid:243)lnych rodzaj(cid:243)w ryzyka, w tym z tytułu przekroczenia limit(cid:243)w koncentracji wierzytelności, o kt(cid:243)rych mowa w art. 71 ust. 1,
-- **2)** spos(cid:243)b i szczeg(cid:243)łowe zasady obliczania wsp(cid:243)łczynnika wypłacalności banku, o kt(cid:243)rym mowa w ust. 1 pkt 3.
+- - pkt 1 otrzymuje brzmienie: „ 1) udzielanie pożyczek pieniężnych oraz pożyczek i kredytów konsumenckich w rozumieniu przepisów odrębnej ustawy, ”
 
-5. W przypadku niespełnienia wymog(cid:243)w, o kt(cid:243)rych mowa w ust. 1, bank obowiązany jest niezwłocznie powiadomić Komisję Nadzoru Bankowego.
+- - pkt 8 otrzymuje brzmienie: „ 8) udzielanie i potwierdzanie poręczeń, ”
 
-6. Komisja Nadzoru Bankowego, w drodze uchwały:
+### c)
 
-- **1)** określi dodatkowe pozycje bilansu banku, o kt(cid:243)rych mowa w ust. 1 pkt 2, oraz zakres i spos(cid:243)b ich wyznaczania,
-- **2)** może określić wiążące banki normy ostrożnościowe, określające dopuszczalne ryzyko w działalności bank(cid:243)w inne niż wymogi kapitałowe, o kt(cid:243)rych mowa w ust. 1 pkt 2, oraz zakres ich stosowania.
+ust. 3 i 4 otrzymują brzmienie:
 
-7. Komisja Nadzoru Bankowego może, w szczeg(cid:243)lnie uzasadnionych przypadkach, wyrazić zgodę na przekroczenie limitu dotyczącego wielkości wkład(cid:243)w niepieniężnych, o kt(cid:243)rym mowa w ust. 1 pkt 1.(cid:148);
+„
 
-- **45)** po art. 128 dodaje się art. 128a w brzmieniu: (cid:132)Art. 128a. Bank jest obowiązany do udzielenia na żądanie Komisji Nadzoru Bankowego wszelkich informacji dotyczących struktury funduszy własnych, o kt(cid:243)rych mowa w art. 127, oraz dotyczących spełnienia wymog(cid:243)w i norm określonych w art. 128.(cid:148);
-- **46)** w art. 131 ust. 2-4 otrzymują brzmienie: (cid:132)2. Nadz(cid:243)r nad działalnością oddziału lub przedstawicielstwa banku zagranicznego w kraju oraz oddziału lub przedstawicielstwa banku krajowego za granicą, w tym zakres i tryb dokonywania czynności kontrolnych, może być wykonywany w zakresie uzgodnionym w porozumieniu Komisji Nadzoru Bankowego z właściwymi władzami nadzorczymi.
+### 3.
 
-3. Komisja Nadzoru Bankowego może, stosownie do postanowień porozumienia, o kt(cid:243)rym mowa w ust. 2, udzielić informacji dotyczących banku organowi nadzoru bankowego innego kraju, jeżeli: litej Polskiej,
+Wydawanie, rozliczanie i umarzanie pieniądza elektronicznego oraz dokonywanie płatności z jego użyciem określają odrębne przepisy.
 
-- **2)** zapewnione jest wykorzystanie udzielonych informacji tylko na potrzeby nadzoru bankowego,
-- **3)** zagwarantowane jest, że przekazywanie udzielonych informacji poza organ nadzoru bankowego możliwe jest wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Bankowego.
+### 4.
 
-4. Komisja Nadzoru Bankowego może, na zasadach wzajemności, udzielać i otrzymywać informacje od Komisji Papier(cid:243)w Wartościowych i Giełd, Urzędu Nadzoru nad Funduszami Emerytalnymi oraz Państwowego Urzędu Nadzoru Ubezpieczeń, niezbędne dla prawidłowego wykonywania ustawowo określonych zadań w zakresie nadzoru. Zasady i tryb udzielania informacji określają porozumienia zawarte przez Komisję Nadzoru Bankowego z wymienionymi organami nadzoru.(cid:148);
+Działalność gospodarcza, której przedmiotem są czynności, o których mowa w ust. 1, może być wykonywana wyłącznie przez banki, z zastrzeżeniem ust. 5.
 
-- **47)** w art. 135 ust. 2 i 3 otrzymują brzmienie: (cid:132)2. Zlecenie badania określonego w ust. 1 może zostać udzielone także bezpośrednio przez Komisję Nadzoru Bankowego. Koszty badania ponosi w(cid:243)wczas Narodowy Bank Polski, z zastrzeżeniem ust. 3.
+” ,
 
-3. Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Bankowego stwierdzono nieprawidłowości, koszty badania ponosi bank.(cid:148);
+### d)
 
-- **48)** w art. 136 dodaje się ust. 3 w brzmieniu: (cid:132)3. Przepisy ust. 1 stosuje się odpowiednio do biegłych rewident(cid:243)w badających sprawozdania finansowe podmiot(cid:243)w posiadających bliskie powiązania z bankiem.(cid:148);
-- **49)** art. 137 otrzymuje brzmienie: (cid:132)Art. 137. Komisja Nadzoru Bankowego:
-- **1)** określa, w drodze uchwały, wykaz informacji i dokument(cid:243)w, kt(cid:243)re rada nadzorcza załącza do wniosku, o kt(cid:243)rym mowa w art. 22 ust. 3, i informacji, o kt(cid:243)rej mowa w art. 22. ust. 4,
-- **2)** określa, w drodze uchwały, wykaz dokument(cid:243)w, o kt(cid:243)rych mowa w art. 31 ust. 2 pkt 3,
-- **3)** może ustalać wiążące banki normy płynności oraz inne normy dopuszczalnego ryzyka w działalności bank(cid:243)w.(cid:148);
-- **50)** w art. 138: przepisy art. 141 ust. 4 i 5 stosuje się odpowiednio,(cid:148), - pkt 4 otrzymuje brzmienie: (cid:132)4) uchylić zezwolenie na utworzenie banku i podjąć decyzję o likwidacji banku; art. 147 ust. 3 i art. 153-156 stosuje się odpowiednio.(cid:148),
-    - **a)** w ust. 3: - po pkt 3 dodaje się pkt 3a w brzmieniu: (cid:132)3a) nałożyć na bank karę finansową w wysokości do 1 000 000 zł;
-    - **b)** po ust. 3 dodaje się ust. 3a w brzmieniu: ności banku może zawierać warunki i terminy.(cid:148),
-    - **c)** ust. 5 i 6 otrzymują brzmienie: (cid:132)5. Komisja Nadzoru Bankowego odwołuje członka zarządu banku w przypadku prawomocnego skazania go za przestępstwo wymienione w art. 22 ust. 6 pkt 1.
+dodaje się ust. 5 w brzmieniu:
 
-6. Ograniczenie zakresu działalności banku lub uchylenie zezwolenia na utworzenie banku może r(cid:243)wnież nastąpić w razie stwierdzenia, że bank:
+„
 
-- **1)** przestał spełniać warunki ustalone w zezwoleniu,
-- **2)** uzyskał zezwolenie na podstawie fałszywych dokument(cid:243)w, nieprawdziwych oświadczeń lub wskutek innych działań sprzecznych z prawem,
-- **3)** przez okres dłuższy niż 6 miesięcy nie prowadzi działalności bankowej,
-- **4)** stał się podmiotem zależnym od os(cid:243)b, wobec kt(cid:243)rych nie jest możliwe skuteczne wykonywanie przez Komisję Nadzoru Bankowego nadzoru nad bankiem ze względu na przepisy prawa obowiązujące w miejscu ich zamieszkania lub siedziby, lub ze względu na powiązania tych os(cid:243)b z innymi podmiotami.(cid:148),
-    - **d)** po ust. 6 dodaje się ust. 6a-6d w brzmieniu: (cid:132)6a. Komisja Nadzoru Bankowego uchyla zezwolenie na utworzenie oddziału banku zagranicznego, jeśli właściwe władze nadzorcze kraju, w kt(cid:243)rym bank zagraniczny ma swoją siedzibę lub miejsce sprawowania zarządu uchyliły zezwolenie na prowadzenie działalności bankowej przez ten bank.
+### 5.
 
-6b. Przed uchyleniem zezwolenia na utworzenie oddziału banku zagranicznego Komisja Nadzoru Bankowego zasięgnie opinii właściwych władz nadzorczych kraju, w kt(cid:243)rym bank zagraniczny ma swoją siedzibę lub miejsce sprawowania zarządu, jeżeli porozumienie, o kt(cid:243)rym mowa w art. 131 ust. 2, przewiduje zasięgnięcie opinii. W razie konieczności natychmiastowego uchylenia zezwolenia Komisja Nadzoru Bankowego może odstąpić od zasięgnięcia opinii.
+Jednostki organizacyjne inne niż banki mogą wykonywać czynności, o których mowa w ust. 1, jeżeli przepisy odrębnych ustaw uprawniają je do tego.
 
-6c. O uchyleniu zezwolenia, o kt(cid:243)rym mowa w ust. 6a, Komisja Nadzoru Bankowego powiadamia właściwe władze nadzorcze banku zagranicznego.
+” ;
 
-6d. O uchyleniu zezwolenia na utworzenie banku krajowego Komisja Nadzoru Bankowego niezwłocznie powiadamia właściwe władze nadzorcze państwa, w kt(cid:243)rym działa oddział tego banku.(cid:148), (cid:132)Art. 140a. Przed wydaniem zezwolenia na utworzenie banku krajowego Komisja Nadzoru Bankowego zasięga opinii właściwych władz nadzorczych państwa członkowskiego Unii Europejskiej, gdy bank ten będzie:
+### 4)
 
-- **e)** ust. 7 otrzymuje brzmienie: (cid:132)7. Środki podejmowane w ramach nadzoru nie mogą naruszać um(cid:243)w zawartych przez bank, z wyłączeniem um(cid:243)w zawartych przez bank krajowy z podmiotami od niego zależnymi lub z kt(cid:243)rymi posiada bliskie powiązania oraz um(cid:243)w zawartych przez bank krajowy z podmiotami działającymi w tym samym holdingu finansowym lub holdingu o działalności mieszanej.(cid:148);
-- **1)** podmiotem zależnym od instytucji kredytowej,
-- **2)** podmiotem zależnym od podmiotu dominującego wobec instytucji kredytowej,
-- **3)** kontrolowany przez te same osoby fizyczne lub prawne, kt(cid:243)re kontrolują instytucję kredytową.
+art. 6 i 7 otrzymują brzmienie:
 
-**Art. 140b.** Komisja Nadzoru Bankowego powiadamia Komisję Europejską o każdym przypadku:
+„
 
-**Art. 140c.**
+### Art. 6.
 
-1. Komisja Nadzoru Bankowego informuje Komisję Europejską o każdym przypadku utraty mocy lub uchylenia zezwolenia na utworzenie banku krajowego lub oddziału banku zagranicznego.
+Poza wykonywaniem czynności bankowych, o których mowa w art. 5 ust. 1 i 2, banki mogą:
 
-2. W informacji, o kt(cid:243)rej mowa w ust. 1, Komisja Nadzoru Bankowego podaje powody utraty mocy lub uchylenia zezwolenia na utworzenie banku krajowego lub oddziału banku zagranicznego.(cid:148);
+### 1)
 
-- **52)** po art. 141 dodaje się rozdział 11a w brzmieniu: (cid:132)Rozdział 11a Nadz(cid:243)r nad oddziałami instytucji kredytowych
+obejmować lub nabywać akcje i prawa z akcji, udziały innej osoby prawnej i jednostki uczestnictwa w funduszach inwestycyjnych,
 
-**Art. 141a.**
+### 2)
 
-1. W przypadku gdy instytucja kredytowa prowadząca działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej nie przestrzega przepis(cid:243)w prawa polskiego, Komisja Nadzoru Bankowego:
+zaciągać zobowiązania związane z emisją papierów wartościowych,
 
-- **1)** wzywa, w formie pisemnej, tę instytucję do przestrzegania przepis(cid:243)w prawa polskiego i wyznacza jej odpowiedni termin do usunięcia stwierdzonych nieprawidłowości,
-- **2)** po bezskutecznym upływie terminu, o kt(cid:243)rym mowa w pkt 1, zawiadamia właściwe władze nadzorcze państwa macierzystego o stwierdzonych nieprawidłowościach.
+### 3)
 
-2. W przypadku gdy pomimo zastosowania środk(cid:243)w przez właściwe władze nadzorcze państwa macierzystego, oddział instytucji kredytowej nadal nie przestrzega przepis(cid:243)w prawa polskiego oraz w przypadku nieadekwatności tych środk(cid:243)w do zaistniałego naruRzeczypospolitej Polskiej, Komisja Nadzoru Bankowego może zastosować odpowiednio środki określone w art. 138 ust. 3 pkt 1 i 3 i art. 141, a w zakresie płynności - w art. 138 ust. 1 pkt 1 i ust.
+dokonywać obrotu papierami wartościowymi,
 
-2.
+### 4)
 
-3. W nagłych przypadkach, przed zastosowaniem procedur, o kt(cid:243)rych mowa w ust. 1 i 2, Komisja Nadzoru Bankowego, mając na względzie ochronę interes(cid:243)w deponent(cid:243)w, może, bez konieczności uprzedniego pisemnego upomnienia, odpowiednio zastosować środki, o kt(cid:243)rych mowa w art. 138 ust. 3 pkt 1, 3 i 3a.
+dokonywać, na warunkach uzgodnionych z dłużnikiem, zamiany wierzytelności na składniki majątku dłużnika, z tym że bank jest obowiązany do ich sprzedaży w okresie nie dłuższym niż 3 lata od daty nabycia,
 
-4. Decyzje Komisji Nadzoru Bankowego wydane w trybie ust. 2 i 3 są natychmiast wykonalne. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+### 5)
 
-5. Od decyzji Komisji Nadzoru Bankowego, o kt(cid:243)rych mowa w ust. 2 i 3, instytucja kredytowa może wnieść skargę do Naczelnego Sądu Administracyjnego, w terminie 7 dni od dnia jej doręczenia.
+nabywać i zbywać nieruchomości,
 
-**Art. 141b.**
+### 6)
 
-1. Komisja Nadzoru Bankowego po otrzymaniu od właściwych władz nadzorczych państwa goszczącego informacji, iż bank krajowy wykonujący czynności na jego terytorium poprzez oddział lub w ramach działalności transgranicznej narusza obowiązujące w państwie goszczącym przepisy prawa, może zastosować w stosunku do banku środki przewidziane w art. 138 ust. 3.
+świadczyć usługi konsultacyjno-doradcze w sprawach finansowych,
 
-2. Decyzje Komisji Nadzoru Bankowego wydane na podstawie ust. 1 są natychmiast wykonalne. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+### 7)
 
-3. Decyzję Komisji Nadzoru Bankowego, wydaną na podstawie ust. 1, bank krajowy może zaskarżyć do Naczelnego Sądu Administracyjnego, w terminie 7 dni od dnia jej doręczenia.
+świadczyć inne usługi finansowe,
 
-**Art. 141c.**
+### 8)
 
-1. Nadz(cid:243)r nad działalnością instytucji kredytowej prowadzącej działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej sprawują, z zastrzeżeniem ust. 2 i art. 141a ust. 2, właściwe władze nadzorcze państwa macierzystego.
+wykonywać inne czynności, jeżeli przepisy odrębnych ustaw uprawniają je do tego.
 
-2. Komisja Nadzoru Bankowego obowiązana jest do sprawowania nadzoru nad oddziałami instytucji kredytowych w zakresie przestrzegania obowiązku określonego w art. 8.
+### Art. 7.
 
-3. Nadz(cid:243)r nad działalnością banku krajowego, prowadzącego działalność na terytorium państwa goszczącego poprzez oddział lub w ramach działalności transgranicznej, sprawuje Komisja Nadzoru Bankowego.
+### 1.
 
-**Art. 141d.**
+Oświadczenia woli składane w związku z dokonywaniem czynności bankowych mogą być wyrażone za pomocą elektronicznych nośników informacji.
 
-1. Inspektorzy nadzoru bankowego wykonują czynności kontrolne w oddziałach instytucji kredytowych, w zakresie określonym w art. 141c ust. 2, a w pozostałym zakresie - na podstawie upoważnienia, o kt(cid:243)rym mowa w ust. 2.
+### 2.
 
-2. Właściwe władze nadzorcze państwa macierzystego mogą przeprowadzać czynności kontrolne w oddziale, o kt(cid:243)rym mowa w ust. 1, we własnym zakresie lub poprzez osoby przez nie upoważgo o terminie i zakresie przeprowadzanej kontroli.
+Dokumenty związane z czynnościami bankowymi mogą być sporządzane na elektronicznych nośnikach informacji, jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przechowywane i zabezpieczone. Usługi związane z zabezpieczeniem tych dokumentów mogą być wykonywane przez banki i spółki tworzone przez banki i inne podmioty.
 
-**Art. 141e.**
+### 3.
 
-1. Komisja Nadzoru Bankowego może zawierać porozumienia z właściwymi władzami nadzorczymi państwa macierzystego instytucji kredytowej prowadzącej działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej, w celu wymiany informacji pomagających w monitorowaniu płynności i wypłacalności tych instytucji, a także informacji dotyczących w szczeg(cid:243)lności:
+Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną, uznaje się, że czynność dokonana w formie, o której mowa w ust. 1, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
 
-- **1)** zarządzania i struktury własności instytucji kredytowych,
-- **2)** zasad gwarantowania depozyt(cid:243)w,
-- **3)** koncentracji wierzytelności,
-- **4)** zasad rachunkowości,
-- **5)** stosowanych procedur administracyjnych,
-- **6)** mechanizm(cid:243)w kontroli wewnętrznej,
-- **7)** trybu i zasad przeprowadzania czynności kontrolnych.
+### 4.
 
-2. Porozumienia w zakresie, o kt(cid:243)rym mowa w ust. 1, Komisja Nadzoru Bankowego może zawierać r(cid:243)wnież na wniosek właściwych władz nadzorczych państwa goszczącego, na terytorium kt(cid:243)rego bank krajowy prowadzi działalność.(cid:148);
+Prezes Narodowego Banku Polskiego określa, w drodze zarządzenia, zasady tworzenia, utrwalania, przechowywania i zabezpieczania dokumentów bankowych, o których mowa w ust. 2.
 
-- **53)** po art. 141e dodaje się rozdział 11b w brzmieniu: (cid:132)Rozdział 11b Nadz(cid:243)r skonsolidowany
+” ;
 
-**Art. 141f.**
+### 5)
 
-1. Nadzorowi skonsolidowanemu podlega bank krajowy, kt(cid:243)ry:
+w art. 11 ust. 1-3 otrzymują brzmienie:
 
-- **1)** jest podmiotem dominującym w stosunku do innego banku krajowego, banku zagranicznego, instytucji kredytowej, instytucji finansowej lub przedsiębiorstwa pomocniczego usług bankowych, lub kt(cid:243)ry posiada bliskie powiązania z innym podmiotem lub podmiotami,
-- **2)** działa w holdingu finansowym,
-- **3)** działa w holdingu o działalności mieszanej.
+„
 
-2. Sprawowanie nad bankiem nadzoru skonsolidowanego nie wyłącza stosowania odpowiednich przepis(cid:243)w ustawy regulujących działalność banku jako podmiotu podlegającego nadzorowi indywidualnemu.
+### 1.
 
-3. Komisja Nadzoru Bankowego może zawierać z właściwymi władzami nadzorczymi innych państw porozumienia określające zakres i tryb wykonywania nadzoru skonsolidowanego nad bankami, kt(cid:243)re działają w holdingu finansowym lub w holdingu o działalności mieszanej z udziałem podmiotu dominującego, mającego siedzibę w innym państwie oraz bankami zagranicznymi lub instytucjami kredytowymi, w stosunku do kt(cid:243)rych podmiotem dominującym jest bank krajowy. Przepis art. 131 ust. 3 stosuje się odpowiednio. przekazać Komisji Nadzoru Bankowego niezwłocznie, lecz nie p(cid:243)źniej niż w terminie 30 dni od dnia zatwierdzenia przez walne zgromadzenie akcjonariuszy banku, skonsolidowane sprawozdanie finansowe oraz sprawozdania finansowe wszystkich podmiot(cid:243)w zależnych lub z kt(cid:243)rymi posiada bliskie powiązania.
+Przewidziane w ustawie zezwolenia, zgody i upoważnienia udzielane są w drodze decyzji właściwych organów.
 
-2. Podmiot dominujący w stosunku do banku, o kt(cid:243)rym mowa w art. 141f ust. 1 pkt 2 i 3, obowiązany jest przekazać Komisji Nadzoru Bankowego niezwłocznie, lecz nie p(cid:243)źniej niż w terminie 30 dni od dnia zatwierdzenia przez walne zgromadzenie podmiotu dominującego, skonsolidowane sprawozdanie finansowe sporządzone dla całego holdingu oraz sprawozdania finansowe wszystkich podmiot(cid:243)w zależnych.
+### 2.
 
-3. W przypadku gdy podmiot dominujący ma siedzibę za granicą, bank krajowy ma obowiązek przekazania skonsolidowanego sprawozdania finansowego holdingu w terminie 90 dni od dnia odbycia walnego zgromadzenia podmiotu dominującego zatwierdzającego to sprawozdanie oraz sprawozdanie finansowe tych podmiot(cid:243)w holdingu, w stosunku do kt(cid:243)rych bank jest wierzycielem lub dłużnikiem, wraz z ich tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego.
+Przy wydawaniu decyzji stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem wyjątków przewidzianych w ustawie.
 
-**Art. 141h.**
+### 3.
 
-1. W celu sprawdzenia uzyskanych informacji, inspektorzy nadzoru bankowego oraz osoby upoważnione przez Komisję Nadzoru Bankowego mogą, z zastrzeżeniem ust. 2 i 3, dokonywać czynności kontrolnych w podmiotach, w stosunku do kt(cid:243)rych podmiotem dominującym jest bank, o kt(cid:243)rym mowa w art. 141f ust. 1 pkt 1, lub kt(cid:243)re posiadają bliskie powiązania z tym bankiem, oraz w podmiotach wchodzących w skład holding(cid:243)w, o kt(cid:243)rych mowa w art. 141f ust. 1 pkt 2 i 3. Przepis art. 139 ust. 1 pkt 2 stosuje się odpowiednio.
+Decyzje Komisji Nadzoru Bankowego i Prezesa Narodowego Banku Polskiego mają moc ostatecznych decyzji administracyjnych. Art. 127 § 3 Kodeksu postępowania administracyjnego, z zastrzeżeniem wyjątków przewidzianych w ustawie, stosuje się odpowiednio.
 
-2. W przypadku gdy nadz(cid:243)r nad podmiotami, o kt(cid:243)rych mowa w ust. 1, wykonuje Komisja Papier(cid:243)w Wartościowych i Giełd, Urząd Nadzoru nad Funduszami Emerytalnymi albo Państwowy Urząd Nadzoru Ubezpieczeń, Komisja Nadzoru Bankowego może zwr(cid:243)cić się do właściwego organu o przeprowadzenie w danym podmiocie czynności kontrolnych. W czynnościach kontrolnych mogą uczestniczyć inspektorzy nadzoru bankowego oraz osoby upoważnione przez Komisję Nadzoru Bankowego, kt(cid:243)rym przysługują takie same prawa i obowiązki jak pracownikom danego organu.
+” ;
 
-3. Szczeg(cid:243)łowy tryb wykonywania czynności kontrolnych, o kt(cid:243)rych mowa w ust. 2, określają porozumienia, o kt(cid:243)rych mowa w art. 131 ust. 4.
+### 6)
 
-4. Komisja Nadzoru Bankowego może żądać od banku, o kt(cid:243)rym mowa w art. 141f ust. 1 pkt 1, a także od podmiotu dominującego w holdingu, o kt(cid:243)rym mowa w art. 141f ust. 1 pkt 2 i 3, zlecenia niezależnemu biegłemu rewidentowi zbadania sytuacji finansowej podmiot(cid:243)w zależnych lub podmiot(cid:243)w posiadających bliskie powiązania z tym bankiem w przypadku gdy w ocenie Komisji istlub gdy konieczne jest zbadanie związku gospodarczego z innym podmiotem. Koszt zleconego badania ponosi odpowiednio bank lub podmiot dominujący w holdingu, z zastrzeżeniem ust. 5.
+po art. 13 dodaje się art. 13a w brzmieniu:
 
-5. Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Bankowego nie stwierdzono wątpliwości, o kt(cid:243)rych mowa w ust. 4, koszt badania ponosi Narodowy Bank Polski.
+„
 
-**Art. 141i.** Podmiot dominujący w stosunku do banku działającego w holdingu finansowym lub w holdingu o działalności mieszanej obowiązany jest zapewnić właściwe funkcjonowanie wewnętrznej kontroli danych i informacji wymaganych w związku ze sprawowaniem nadzoru skonsolidowanego a także udzielić, na żądanie Komisji Nadzoru Bankowego lub os(cid:243)b upoważnionych przez Komisję Nadzoru Bankowego, wszelkich informacji i wyjaśnień dotyczących działalności holdingu oraz wchodzących w jego skład podmiot(cid:243)w.
+### Art. 13a.
 
-**Art. 141j.** Określając spos(cid:243)b obliczania funduszy własnych, wymog(cid:243)w kapitałowych, wsp(cid:243)łczynnika wypłacalności, prog(cid:243)w koncentracji kapitałowej oraz limit(cid:243)w koncentracji wierzytelności, Komisja Nadzoru Bankowego może uwzględnić powiązania bank(cid:243)w, o kt(cid:243)rych mowa w art. 141f ust. 1, z innymi podmiotami zależnymi lub działającymi w tym samym holdingu.(cid:148);
+Zarząd banku działa i wykonuje swoje funkcje w siedzibie określonej w statucie banku.
 
-**Art. 2.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz.U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz. 945, z 1998 r. Nr 60, poz. 382, Nr 106, poz. 668, Nr 107, poz. 669 i Nr 155, poz. 1014, z 1999 r. Nr 9, poz. 75 i Nr 83, poz. 931, z 2000 r. Nr 60, poz. 703, Nr 94, poz. 1037 i Nr 113, poz. 1186 oraz z 2001 r. Nr 102, poz. 1117) w art. 81 w ust. 2 pkt 8 otrzymuje brzmienie: (cid:132)8) po zasięgnięciu opinii Komisji Nadzoru Bankowego:
+” ;
 
-**Art. 3.** W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu bank(cid:243)w sp(cid:243)łdzielczych, ich zrzeszaniu się i bankach zrzeszających (Dz.U. Nr 119, poz. 1252) wprowadza się następujące zmiany:
+### 7)
 
-**Art. 4.** Do czasu wydania przepis(cid:243)w wykonawczych na podstawie przepis(cid:243)w ustawy, o kt(cid:243)rej mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są z nią sprzeczne.
+art. 17 otrzymuje brzmienie:
 
-**Art. 5.**
+„
 
-1. Do wydanych zg(cid:243)d Prezesa Narodowego Banku Polskiego oraz zezwoleń Komisji Nadzoru Bankowego na nabycie lub objęcie akcji bądź praw z akcji, na podstawie obowiązujących przed dniem wejścia w życie niniejszej ustawy przepis(cid:243)w, stosuje się przepisy dotyczące zezwoleń Komisji Nadzoru Bankowego na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku.
+### Art. 17.
 
-2. Do wniosk(cid:243)w o wydanie przez Komisję Nadzoru Bankowego zezwolenia na nabycie lub objęcie akcji bądź praw z akcji złożonych przed dniem wejścia w życie ustawy stosuje się przepisy niniejszej ustawy.
+### 1.
 
-**Art. 6.**
+Prezesa zarządu banku państwowego powołuje i odwołuje rada nadzorcza.
 
-1. Upoważnia się Narodowy Bank Polski do przekazania nieodpłatnie - do dnia 31 stycznia 2003 r. - Bankowi Gospodarstwa Krajowego niekt(cid:243)rych jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części.
+### 2.
 
-2. Wykaz jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części, o kt(cid:243)rych mowa w ust. 1, wraz ze wskazaniem składnik(cid:243)w majątkowych podlegających przekazaniu, określa umowa między Narodowym Bankiem Polskim a Bankiem Gospodarstwa Krajowego.
+Pozostałych członków zarządu banku powołuje i odwołuje rada nadzorcza, na wniosek prezesa zarządu banku.
 
-3. Pracownicy jednostek organizacyjnych Narodowego Banku Polskiego lub pracownicy, kt(cid:243)rzy wykonują pracę w ich zorganizowanych częściach podlegających przekazaniu, stają się z mocy prawa pracownikami Banku Gospodarstwa Krajowego od dnia określonego w umowie, o kt(cid:243)rej mowa w ust. 2. Do pracownik(cid:243)w tych stosuje się przepis art. 23 Kodeksu pracy.
+### 3.
 
-4. Wartość przejętych składnik(cid:243)w majątkowych jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części zwiększa fundusz statutowy Banku Gospodarstwa Krajowego.
+Powołanie prezesa zarządu oraz jednego członka zarządu następuje za zgodą Komisji Nadzoru Bankowego. Przepisy art. 22 stosuje się odpowiednio.
 
-**Art. 7.** Ogłoszenie tekstu jednolitego ustawy, o kt(cid:243)rej mowa w art. 1, nastąpi w terminie 90 dni od dnia wejścia w życie niniejszej ustawy.
+” ;
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepis(cid:243)w:
+### 8)
 
+art. 25 i 26 otrzymują brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+Osoba zamierzająca bezpośrednio lub pośrednio objąć lub nabyć akcje banku obowiązana jest wystąpić każdorazowo z wnioskiem o wydanie przez Komisję Nadzoru Bankowego zezwolenia na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku, jeżeli w wyniku objęcia lub nabycia akcji uzyskałaby prawo do wykonywania ponad 10%, 20%, 25%, 33%, 50%, 66% i 75% głosów na walnym zgromadzeniu akcjonariuszy banku.
+
+### 2.
+
+Obowiązek uzyskania zezwolenia, o którym mowa w ust. 1, dotyczy także osoby, która po uzyskaniu zezwolenia Komisji Nadzoru Bankowego na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku na poziomie określonym w zezwoleniu, w wyniku zbycia akcji lub z innej przyczyny, utraciła prawo do wykonywania prawa głosu na tym poziomie.
+
+### 3.
+
+Komisja Nadzoru Bankowego udzielając zezwolenia może określić w jego treści warunek, że nieprzekroczenie określonego progu liczby głosów na walnym zgromadzeniu akcjonariuszy banku w terminie wskazanym w zezwoleniu powoduje jego wygaśnięcie.
+
+### 4.
+
+Osoba, która objęła lub nabyła akcje banku, jest obowiązana niezwłocznie powiadomić o tym bank, którego akcje nabyła lub objęła, jeżeli stanowią one wraz z akcjami objętymi lub nabytymi wcześniej pakiet uprawniający do wykonywania ponad 5% głosów na walnym zgromadzeniu akcjonariuszy banku. Bank przesyła Komisji Nadzoru Bankowego powiadomienie w terminie 14 dni od daty jego otrzymania.
+
+### 5.
+
+Komisja Nadzoru Bankowego może odmówić udzielenia zezwolenia, jeżeli wpływ osoby zamierzającej objąć lub nabyć akcje może okazać się niekorzystny dla ostrożnego i stabilnego zarządzania bankiem lub gdy środki przeznaczone na nabycie akcji pochodzą z pożyczki, kredytu lub źródeł nieudokumentowanych, lub gdy przepisy prawa obowiązujące w miejscu siedziby lub zamieszkania tej osoby uniemożliwiają Komisji Nadzoru Bankowego wykonywanie efektywnego nadzoru.
+
+### 6.
+
+Przepisy ust. 1, 2, 4 i 5 stosuje się odpowiednio do sytuacji, w których następuje zmiana w liczbie głosów na walnym zgromadzeniu akcjonariuszy banku w wyniku zmiany statutu banku lub w następstwie wygaśnięcia uprzywilejowania akcji. Akcjonariusz występuje z wnioskiem, o którym mowa w ust. 1, do Komisji Nadzoru Bankowego w terminie 30 dni od przekazania mu przez bank informacji o zmianie statutu lub wygaśnięcia uprzywilejowania akcji.
+
+### 7.
+
+Osoba zamierzająca zbyć pakiet akcji:
+
+### 1)
+
+uprawniający do wykonywania ponad 10% głosów na walnym zgromadzeniu akcjonariuszy banku,
+
+### 2)
+
+w wyniku zbycia którego pozostały w jej posiadaniu pakiet akcji będzie uprawniał do wykonywania mniej niż 10%, 20%, 25%, 33%, 50%, 66% i 75% głosów na walnym zgromadzeniu akcjonariuszy banku
+
+- obowiązana jest powiadomić o swoim zamiarze Komisję Nadzoru Bankowego.
+
+### Art. 26.
+
+### 1.
+
+Osoba, która objęła lub nabyła akcje bez zezwolenia, o którym mowa w art. 25 ust. 1, ma prawo do wykonywania 5% głosów na walnym zgromadzeniu akcjonariuszy banku albo, z zastrzeżeniem art. 25 ust. 2, do takiej liczby głosów, która wynika z wcześniej uzyskanego zezwolenia.
+
+### 2.
+
+Uchwała walnego zgromadzenia akcjonariuszy banku powzięta z naruszeniem ust. 1 jest nieważna.
+
+” ;
+
+### 9)
+
+po art. 26 dodaje się art. 26a i 26b w brzmieniu:
+
+„
+
+### Art. 26a.
+
+### 1.
+
+Komisja Nadzoru Bankowego może cofnąć zezwolenie, o którym mowa w art. 25 ust. 1, 2 i 6, wyznaczając jednocześnie termin do sprzedaży akcji, jeżeli wpływ osoby, która bezpośrednio objęła lub nabyła akcje banku, może okazać się niekorzystny dla ostrożnego i stabilnego zarządzania bankiem lub jeżeli przepisy prawa obowiązujące w miejscu siedziby lub zamieszkania tej osoby uniemożliwiają Komisji Nadzoru Bankowego wykonywanie efektywnego nadzoru.
+
+### 2.
+
+W przypadku cofnięcia zezwolenia akcjonariusz ma prawo do wykonywania 5% głosów na walnym zgromadzeniu akcjonariuszy banku, bez względu na liczbę posiadanych akcji.
+
+### 3.
+
+Uchwała walnego zgromadzenia akcjonariuszy banku powzięta z naruszeniem ust. 2 jest nieważna.
+
+### Art. 26b.
+
+Obowiązek powiadomienia, określony w art. 25 ust. 4 i 7, stosuje się odpowiednio w przypadku nabycia lub zbycia obligacji zamiennych na akcje banku, kwitów depozytowych w rozumieniu art. 96 ustawy, o której mowa w art. 4 pkt 8, jak również innych papierów wartościowych, z których wynika prawo lub obowiązek nabycia akcji banku.
+
+” ;
+
+### 10)
+
+w art. 27:
+
+### a)
+
+w ust. 1 skreśla się zdanie drugie,
+
+### b)
+
+w ust. 2 wyrazy „o której mowa w ust. 1” zastępuje się wyrazami „o której mowa w art. 4 pkt 8”;
+
+### 11)
+
+w art. 28 w ust. 1 wyrazy „do rejestru handlowego” zastępuje się wyrazami „do rejestru przedsiębiorców”;
+
+### 12)
+
+w art. 30:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) założyciele oraz osoby przewidziane do objęcia w banku stanowisk członków zarządu dają rękojmię ostrożnego i stabilnego zarządzania bankiem, ”
+
+- - w pkt 3 po wyrazach „do kierowania bankiem,” dodaje się wyrazy „a w przypadku obywateli innych państw również potwierdzoną znajomość języka polskiego,”
+
+### b)
+
+skreśla się ust. 3,
+
+### c)
+
+w ust. 4 wyrazy „limitów, o których mowa w ust. 2 i 3” zastępuje się wyrazami „limitu, o którym mowa w ust. 2”;
+
+### 13)
+
+art. 32 otrzymuje brzmienie:
+
+„
+
+### Art. 32.
+
+### 1.
+
+Wnoszony przez założycieli banku kapitał założycielski, z zastrzeżeniem ust. 2, nie może być niższy od równowartości w złotych 5 000 000 EURO przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wydania zezwolenia na utworzenie banku.
+
+### 2.
+
+W przypadku banków spółdzielczych, których założyciele wyrazili zamiar zawarcia umowy zrzeszenia, na podstawie ustawy wymienionej w art. 20 ust. 1, kapitał założycielski nie może być niższy od równowartości w złotych 1 000 000 EURO przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu wydania zezwolenia na utworzenie banku.
+
+### 3.
+
+Kapitał założycielski banku wnoszony w formie pieniężnej musi być wpłacony przez założycieli w walucie polskiej na rachunek bankowy w banku krajowym, otwarty w celu dokonania wpłat na kapitał założycielski banku.
+
+### 4.
+
+Pokrycie pełnej kwoty kapitału założycielskiego banku w formie spółki akcyjnej oraz banku spółdzielczego powinno być dokonane przed wpisaniem banku do właściwego rejestru.
+
+### 5.
+
+Wpłata kapitału założycielskiego banku państwowego, jak również wydzielenie z majątku Skarbu Państwa innych środków na pokrycie kapitału założycielskiego powinno nastąpić przed złożeniem przez bank państwowy do Komisji Nadzoru Bankowego wniosku o zezwolenie na rozpoczęcie działalności.
+
+” ;
+
+### 14)
+
+w art. 34 w ust. 2 skreśla się wyrazy „; art. 310 Kodeksu handlowego nie stosuje się”;
+
+### 15)
+
+w art. 37 po wyrazach „w banku środków” dodaje się wyrazy „lub gdy przepisy prawa obowiązujące w miejscu siedziby lub zamieszkania założyciela lub jego powiązania z innymi podmiotami mogłyby uniemożliwić skuteczne sprawowanie nadzoru nad bankiem”;
+
+### 16)
+
+w art. 39:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Utworzenie za granicą banku przez bank krajowy, jak również utworzenie oddziału banku krajowego za granicą, z zastrzeżeniem art. 48a-48g, wymaga zezwolenia Komisji Nadzoru Bankowego.
+
+” ,
+
+### b)
+
+w ust. 2 w zdaniu wstępnym skreśla się wyrazy „przez osoby krajowe lub z udziałem osób krajowych”,
+
+### c)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+projekt statutu oraz uzasadnienie utworzenia banku za granicą,
+
+”
+
+### d)
+
+w ust. 4 wyrazy „list intencyjny” zastępuje się wyrazami „uzasadnienie utworzenia oddziału banku za granicą”;
+
+### 17)
+
+w art. 40:
+
+### a)
+
+w ust. 5 wyrazy „rejestru handlowego” zastępuje się wyrazami „rejestru przedsiębiorców”,
+
+### b)
+
+w ust. 6 wyrazy „art. 33-38 oraz przepisy wydane na podstawie art. 32” zastępuje się wyrazami „art. 32-38”;
+
+### 18)
+
+po art. 40 dodaje się art. 40a w brzmieniu:
+
+„
+
+### Art. 40a.
+
+### 1.
+
+Oddział banku zagranicznego jest obowiązany:
+
+### 1)
+
+używać nazwy banku zagranicznego w języku państwa jego siedziby wraz z przetłumaczonym na język polski określeniem formy prawnej banku oraz dodaniem wyrazów «oddział w Polsce»,
+
+### 2)
+
+prowadzić oddzielną rachunkowość w języku polskim, zgodnie z przepisami obowiązującymi banki krajowe.
+
+### 2.
+
+Powołanie dyrektora i jednego z zastępców dyrektora oddziału banku zagranicznego następuje za zgodą Komisji Nadzoru Bankowego. Z wnioskiem o wyrażenie zgody występuje bank zagraniczny. Przepisy art. 22 stosuje się odpowiednio.
+
+” ;
+
+### 19)
+
+po art. 48 dodaje się rozdział 2a w brzmieniu:
+
+„
+
+### Rozdział 2a Podejmowanie i prowadzenie działalności przez banki krajowe na terytorium państwa goszczącego oraz przez instytucje kredytowe na terytorium Rzeczypospolitej Polskiej
+
+### Art. 48a.
+
+Bank krajowy może prowadzić działalność na terytorium państwa goszczącego poprzez oddział lub w ramach działalności transgranicznej.
+
+### Art. 48b.
+
+Bank krajowy może wykonywać na terytorium państwa goszczącego czynności wynikające z zezwolenia, o którym mowa w art. 34 ust. 1.
+
+### Art. 48c.
+
+### 1.
+
+Bank krajowy, który zamierza utworzyć oddział na terytorium państwa goszczącego, zawiadamia o tym w formie pisemnej Komisję Nadzoru Bankowego.
+
+### 2.
+
+Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
+
+### 1)
+
+nazwę państwa goszczącego, na terytorium którego bank zamierza utworzyć oddział,
+
+### 2)
+
+nazwę oddziału,
+
+### 3)
+
+adres oddziału, pod którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności,
+
+### 4)
+
+program działalności oddziału określający w szczególności czynności, jakie bank zamierza wykonywać poprzez oddział, oraz opis struktury organizacyjnej oddziału,
+
+### 5)
+
+nazwiska osób przewidzianych do objęcia w oddziale stanowisk dyrektora oddziału i jego zastępcy.
+
+### 3.
+
+Komisja Nadzoru Bankowego może żądać uzupełnienia zawiadomienia, o którym mowa w ust. 2, w zakresie określonym w ust. 2 pkt 2-5.
+
+### 4.
+
+W terminie trzech miesięcy od dnia otrzymania zawiadomienia lub jego uzupełnienia Komisja Nadzoru Bankowego przesyła właściwym władzom nadzorczym państwa goszczącego informacje, o których mowa w ust. 2, oraz informacje o kwocie funduszy własnych i wysokości współczynnika wypłacalności banku, który zamierza utworzyć oddział. O fakcie przesłania informacji do właściwych władz nadzorczych Komisja Nadzoru Bankowego powiadamia zainteresowany bank.
+
+### Art. 48d.
+
+### 1.
+
+Komisja Nadzoru Bankowego odmawia przesłania informacji, o których mowa w art. 48c ust. 4, w przypadku gdy:
+
+### 1)
+
+nie zostały spełnione wymagania określone w art. 48c ust. 2,
+
+### 2)
+
+struktura organizacyjna banku lub jego sytuacja finansowa są nieadekwatne do zamierzonej działalności,
+
+### 3)
+
+zamierzona działalność naruszałaby przepisy prawa,
+
+### 4)
+
+zamierzona działalność mogłaby okazać się niekorzystna dla ostrożnego i stabilnego zarządzania bankiem.
+
+### 2.
+
+Komisja Nadzoru Bankowego przesyła zainteresowanemu bankowi decyzję odmowną w terminie trzech miesięcy od dnia otrzymania zawiadomienia lub jego uzupełnienia.
+
+### Art. 48e.
+
+O zamiarze dokonania zmiany w zakresie wskazanym w art. 48c ust. 2 pkt 2-4 bank krajowy powiadamia, w formie pisemnej, Komisję Nadzoru Bankowego i właściwe władze nadzorcze państwa goszczącego, najpóźniej na miesiąc przed dokonaniem tej zmiany. Przepisy art. 48c ust. 3 i 4 oraz art. 48d stosuje się odpowiednio.
+
+### Art. 48f.
+
+### 1.
+
+Bank krajowy, który zamierza prowadzić działalność transgraniczną, zawiadamia o tym Komisję Nadzoru Bankowego. Zawiadomienie powinno wskazywać każdorazowo czynności wynikające z udzielonego bankowi zezwolenia, jakie bank zamierza wykonywać.
+
+### 2.
+
+Komisja Nadzoru Bankowego przesyła zawiadomienie, o którym mowa w ust. 1, właściwym władzom nadzorczym państwa goszczącego w terminie miesiąca od dnia jego otrzymania i powiadamia o tym zainteresowany bank.
+
+### Art. 48g.
+
+Komisja Nadzoru Bankowego niezwłocznie powiadamia właściwe władze nadzorcze państwa goszczącego o utracie przez bank krajowy, prowadzący działalność na jego terytorium, zezwolenia na jego utworzenie.
+
+### Art. 48h.
+
+### 1.
+
+Instytucja finansowa mająca siedzibę na terytorium Rzeczypospolitej Polskiej może wykonywać na terytorium państwa goszczącego czynności, o których mowa w art. 5 ust. 2 i art. 6 pkt 1-4 i 6-8, w zakresie określonym w akcie prawnym o jej utworzeniu, poprzez oddział lub w ramach działalności transgranicznej, pod warunkiem że:
+
+### 1)
+
+jest podmiotem zależnym od co najmniej jednego banku krajowego podlegającego nadzorowi skonsolidowanemu,
+
+### 2)
+
+podlega nadzorowi skonsolidowanemu,
+
+### 3)
+
+faktycznie prowadzi działalność na terytorium Rzeczypospolitej Polskiej,
+
+### 4)
+
+bank lub banki krajowe, o których mowa w pkt 1, dysponują prawem do wykonywania co najmniej 90% głosów w organie stanowiącym danej instytucji finansowej,
+
+### 5)
+
+bank lub banki krajowe, o których mowa w pkt 1, spełniają określone w przepisach ustawy wymogi dotyczące funduszy własnych, współczynnika wypłacalności, koncentracji wierzytelności, płynności oraz ryzyka rynkowego,
+
+### 6)
+
+bank lub banki krajowe, o których mowa w pkt 1, po uprzednim uzyskaniu zgody Komisji Nadzoru Bankowego, złożą poręczenie, w którym przyjmą solidarną odpowiedzialność za zobowiązania zaciągnięte przez daną instytucję finansową.
+
+### 2.
+
+Spełnienie warunków określonych w ust. 1 podlega weryfikacji przez Komisję Nadzoru Bankowego.
+
+### 3.
+
+Instytucja finansowa zawiadamia w formie pisemnej Komisję Nadzoru Bankowego o zamiarze utworzenia oddziału lub prowadzenia działalności transgranicznej na terytorium państwa goszczącego. Przepisy art. 48c ust. 2-4 i art. 48d-48f stosuje się odpowiednio, z tym że Komisja Nadzoru Bankowego:
+
+### 1)
+
+powiadamia właściwe władze nadzorcze państwa goszczącego o kwocie funduszy własnych zależnej instytucji finansowej i o wysokości skonsolidowanego współczynnika wypłacalności dominującego wobec niej banku lub banków, o których mowa w ust. 1 pkt 1,
+
+### 2)
+
+odmawia przesłania informacji właściwym władzom nadzorczym także w przypadku, gdy instytucja finansowa nie spełnia warunków, o których mowa w ust. 1.
+
+### 4.
+
+W przypadku gdy instytucja finansowa przestanie spełniać warunki, o których mowa w ust. 1, Komisja Nadzoru Bankowego powiadamia o tym właściwe władze nadzorcze. Z chwilą powiadomienia instytucja finansowa podlega ustawodawstwu państwa goszczącego.
+
+### Art. 48i.
+
+Instytucja kredytowa może prowadzić działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej.
+
+### Art. 48j.
+
+Instytucja kredytowa może wykonywać na terytorium Rzeczypospolitej Polskiej czynności określone w art. 5 ust. 1 i 2 oraz art. 6 pkt 1-4 i 6-8 w zakresie wynikającym z zezwolenia udzielonego przez właściwe władze nadzorcze państwa macierzystego.
+
+### Art. 48k.
+
+### 1.
+
+Do działalności instytucji kredytowych na terytorium Rzeczypospolitej Polskiej stosuje się przepisy prawa polskiego, z zastrzeżeniem ust. 2 i 3.
+
+### 2.
+
+Do oddziałów instytucji kredytowych przepisy art. 1-11, art. 40a ust. 1, art. 49-70, art. 73-78a, art. 80-98, art. 101-112, art. 133 ust. 2 pkt 1 i ust. 3, art. 137, art. 138 ust. 1 pkt 1, ust. 2 i ust. 3 pkt 1, 3 i 3a, art. 139 ust. 1 pkt 2 i 3, art. 141 i art. 171 ust. 4-7 stosuje się odpowiednio.
+
+### 3.
+
+W zakresie polityki pieniężnej prowadzonej przez Narodowy Bank Polski, do dnia przystąpienia Rzeczypospolitej Polskiej do Unii Gospodarczej i Walutowej, oddziały instytucji kredytowych mają takie same prawa i obowiązki jak banki krajowe i oddziały banków zagranicznych.
+
+### Art. 48l.
+
+### 1.
+
+Oddział instytucji kredytowej może, z zastrzeżeniem ust. 2, rozpocząć działalność na terytorium Rzeczypospolitej Polskiej najwcześniej po upływie dwóch miesięcy od dnia otrzymania przez Komisję Nadzoru Bankowego od właściwych władz nadzorczych państwa macierzystego następujących informacji:
+
+### 1)
+
+nazwy i adresu oddziału na terytorium Rzeczypospolitej Polskiej, pod którym możliwe będzie uzyskanie dokumentów dotyczących jego działalności,
+
+### 2)
+
+programu działalności określającego w szczególności czynności, jakie instytucja kredytowa zamierza wykonywać, oraz opisu struktury organizacyjnej oddziału,
+
+### 3)
+
+nazwisk osób przewidzianych do objęcia stanowisk dyrektora oddziału i jego zastępcy,
+
+### 4)
+
+wysokości kwoty funduszy własnych instytucji kredytowej i wysokości współczynnika wypłacalności.
+
+### 2.
+
+W ciągu dwóch miesięcy od dnia otrzymania informacji, o których mowa w ust. 1, Komisja Nadzoru Bankowego może wskazać warunki, które w interesie dobra ogólnego, w szczególności w celu ochrony dóbr konsumenta, zapewnienia bezpieczeństwa obrotu gospodarczego lub zapobieżenia naruszeniom prawa, oddział instytucji kredytowej musi spełniać przy prowadzeniu działalności na terytorium Rzeczypospolitej Polskiej.
+
+### 3.
+
+O zamiarze dokonania zmiany w zakresie, o którym mowa w ust. 1 pkt 1-3, instytucja kredytowa zawiadamia Komisję Nadzoru Bankowego najpóźniej w terminie miesiąca przed dokonaniem takiej zmiany. Zmiany mają charakter wiążący od dnia otrzymania przez Komisję Nadzoru Bankowego stosownego zawiadomienia od właściwych władz nadzorczych państwa macierzystego. Przepisy ust. 2 stosuje się odpowiednio.
+
+### Art. 48ł.
+
+Instytucja kredytowa może rozpocząć działalność transgraniczną na terytorium Rzeczypospolitej Polskiej po otrzymaniu przez Komisję Nadzoru Bankowego zawiadomienia od właściwych władz nadzorczych państwa macierzystego, które określa rodzaje czynności, jakie instytucja zamierza wykonywać.
+
+### Art. 48m.
+
+Oddział instytucji kredytowej prowadzący działalność na terytorium Rzeczypospolitej Polskiej jest obowiązany do przekazywania Narodowemu Bankowi Polskiemu okresowych sprawozdań ze swej działalności w zakresie i trybie ustalonym na podstawie art. 23 ust. 3 i 4 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64 i Nr 110, poz. 1189).
+
+” ;
+
+### 20)
+
+art. 52 otrzymuje brzmienie:
+
+„
+
+### Art. 52.
+
+Rachunek bankowy może być prowadzony dla kilku osób fizycznych (rachunek wspólny), z których każda korzysta z uprawnień posiadacza rachunku w granicach określonych w umowie.
+
+” ;
+
+### 21)
+
+w art. 54 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W umowie rachunku bankowego określa się ponadto wysokość prowizji i opłat za czynności związane z prowadzeniem rachunku i warunki ich zmiany.
+
+” ;
+
+### 22)
+
+tytuł rozdziału 4 otrzymuje brzmienie: „ Rozliczenia pieniężne przeprowadzane za pośrednictwem banków ” ;
+
+### 23)
+
+art. 63 otrzymuje brzmienie:
+
+„
+
+### Art. 63.
+
+### 1.
+
+Rozliczenia pieniężne mogą być przeprowadzane za pośrednictwem banków, jeżeli przynajmniej jedna ze stron rozliczenia (dłużnik lub wierzyciel) posiada rachunek bankowy. Rozliczenia pieniężne przeprowadza się gotówkowo lub bezgotówkowo za pomocą papierowych lub elektronicznych nośników informacji.
+
+### 2.
+
+Rozliczenia gotówkowe przeprowadza się czekiem gotówkowym lub przez wpłatę gotówki na rachunek wierzyciela.
+
+### 3.
+
+Rozliczenia bezgotówkowe przeprowadza się w szczególności:
+
+### 1)
+
+poleceniem przelewu,
+
+### 2)
+
+poleceniem zapłaty,
+
+### 3)
+
+czekiem rozrachunkowym,
+
+### 4)
+
+kartą płatniczą.
+
+” ;
+
+### 24)
+
+po art. 63a dodaje się art. 63b-63h w brzmieniu:
+
+„
+
+### Art. 63b.
+
+### 1.
+
+Czek gotówkowy stanowi dyspozycję wystawcy czeku udzieloną trasatowi obciążenia jego rachunku kwotą, na którą czek został wystawiony, oraz wypłaty tej kwoty okazicielowi czeku lub osobie wskazanej na czeku.
+
+### 2.
+
+Czek gotówkowy może być przedstawiony do zapłaty bezpośrednio u trasata albo w innym banku. Zapłata czeku gotówkowego przedstawionego do zapłaty w innym banku następuje, z zastrzeżeniem ust. 3, po uzyskaniu przez ten bank od trasata środków wystarczających do zapłaty czeku. Szczegółowe warunki przedstawienia czeku gotówkowego do zapłaty w innym banku określa umowa między tym bankiem i posiadaczem czeku.
+
+### 3.
+
+Banki mogą zawierać porozumienia, w których - na zasadach wzajemności - określą inny niż w ust. 2 tryb przedstawienia czeków gotówkowych do zapłaty z rachunków oszczędnościowo-rozliczeniowych.
+
+### Art. 63c.
+
+Polecenie przelewu stanowi udzieloną bankowi, z zastrzeżeniem art. 63g, dyspozycję dłużnika obciążenia jego rachunku określoną kwotą i uznania tą kwotą rachunku wierzyciela. Bank wykonuje dyspozycję dłużnika w sposób przewidziany w umowie rachunku bankowego.
+
+### Art. 63d.
+
+### 1.
+
+Polecenie zapłaty stanowi udzieloną bankowi dyspozycję wierzyciela obciążenia określoną kwotą rachunku bankowego dłużnika i uznania tą kwotą rachunku wierzyciela. Dyspozycja wierzyciela oznacza równocześnie jego zgodę na cofnięcie przez bank dłużnika obciążenia rachunku dłużnika i cofnięcie uznania rachunku wierzyciela w przypadku dokonanego przez dłużnika odwołania polecenia zapłaty, o którym mowa w ust. 6.
+
+### 2.
+
+Przeprowadzenie rozliczeń poleceniem zapłaty jest dopuszczalne pod warunkiem:
+
+### 1)
+
+posiadania przez wierzyciela i dłużnika rachunków w bankach, które zawarły porozumienie w sprawie stosowania polecenia zapłaty, określające w szczególności: zakres odpowiedzialności banków wykonujących polecenie zapłaty, przyczyny odmowy wykonania polecenia zapłaty przez bank dłużnika, procedury dochodzenia wzajemnych roszczeń banków, wynikających ze skutków odwołania polecenia zapłaty przez dłużnika, wzory jednolitych formularzy oraz zasady wykonywania przez banki poleceń zapłaty za pomocą elektronicznych nośników informacji,
+
+### 2)
+
+udzielenia przez dłużnika wierzycielowi zgody do obciążania rachunku dłużnika w drodze polecenia zapłaty w umownych terminach zapłaty z tytułu określonych zobowiązań,
+
+### 3)
+
+zawarcia pomiędzy wierzycielem a bankiem prowadzącym jego rachunek umowy w sprawie stosowania polecenia zapłaty przez wierzyciela, zawierającej w szczególności: zgodę banku na stosowanie polecenia zapłaty przez wierzyciela, zasady składania i realizowania poleceń zapłaty, zgodę wierzyciela na obciążenie jego rachunku kwotami odwoływanych poleceń zapłaty wraz z odsetkami, o których mowa w ust. 7, zwróconymi dłużnikowi w związku z odwołaniem polecenia zapłaty oraz zakres odpowiedzialności wierzyciela i banku,
+
+### 4)
+
+że maksymalna kwota pojedynczego polecenia zapłaty nie przekracza równowartości, przeliczonej na złote według kursu średniego ogłaszanego przez Narodowy Bank Polski w ostatnim dniu kwartału poprzedzającego kwartał, w którym dokonywane jest rozliczenie pieniężne:
+
+### a)
+
+1 000 EURO - w przypadku gdy dłużnikiem jest osoba fizyczna niewykonująca działalności gospodarczej,
+
+### b)
+
+10 000 EURO - w przypadku pozostałych dłużników.
+
+### 3.
+
+Bank, który udzielił wierzycielowi zgody na stosowanie poleceń zapłaty, jest wobec banków-stron porozumienia, o którym mowa w ust. 2 pkt 1, odpowiedzialny za działania wierzyciela związane ze stosowaniem poleceń zapłaty, w szczególności jest obowiązany do natychmiastowego uznania kwotą odwołanego polecenia zapłaty rachunku banku dłużnika wraz z odsetkami, o których mowa w ust. 7, również w przypadku braku środków na rachunku wierzyciela lub wystąpienia innej przyczyny uniemożliwiającej obciążenie rachunku bankowego wierzyciela.
+
+### 4.
+
+Uznanie rachunku bankowego wierzyciela następuje po uzyskaniu przez jego bank od banku dłużnika środków wystarczających na pokrycie polecenia zapłaty.
+
+### 5.
+
+Dłużnikowi przysługuje prawo do cofnięcia w każdym czasie zgody, o której mowa w ust. 2 pkt 2.
+
+### 6.
+
+Dłużnik może odwołać pojedyncze polecenie zapłaty, w banku prowadzącym jego rachunek, w terminie:
+
+### 1)
+
+30 dni kalendarzowych od dnia dokonania obciążenia rachunku bankowego - w przypadku gdy dłużnikiem jest osoba fizyczna niewykonująca działalności gospodarczej,
+
+### 2)
+
+5 dni roboczych od dnia dokonania obciążenia rachunku bankowego - w przypadku pozostałych dłużników.
+
+### 7.
+
+Odwołanie polecenia zapłaty przez dłużnika zobowiązuje bank dłużnika do natychmiastowego uznania rachunku bankowego dłużnika kwotą odwołanego polecenia zapłaty. Uznanie rachunku dłużnika następuje z datą złożenia odwołania polecenia zapłaty, z obowiązkiem naliczenia - od dnia obciążenia rachunku dłużnika kwotą odwołanego polecenia zapłaty - odsetek należnych dłużnikowi z tytułu oprocentowania rachunku bankowego.
+
+### 8.
+
+Bank będący wierzycielem może przeprowadzić rozliczenia poleceniem zapłaty na warunkach określonych w ustawie, z tym że:
+
+### 1)
+
+do rozliczeń tych nie stosuje się przepisów ust. 2 pkt 3 i ust. 3,
+
+### 2)
+
+bank ten jest obowiązany do natychmiastowego uznania kwotą odwołanego polecenia zapłaty rachunku banku dłużnika.
+
+### Art. 63e.
+
+### 1.
+
+Czek rozrachunkowy stanowi dyspozycję wystawcy czeku udzieloną trasatowi do obciążenia jego rachunku kwotą, na którą czek został wystawiony, oraz uznania tą kwotą rachunku posiadacza czeku.
+
+### 2.
+
+Na wniosek wystawcy czeku bank może potwierdzić czek rozrachunkowy, rezerwując jednocześnie na rachunku wystawcy odpowiedni fundusz na pokrycie czeku. Bank może potwierdzić również czek niezupełny.
+
+### 3.
+
+Czek rozrachunkowy może być przedstawiony do rozrachunku ze skutkami zapłaty bezpośrednio u trasata lub w banku, w którym posiadacz czeku ma rachunek. Uznanie rachunku posiadacza czeku sumą czekową, z zastrzeżeniem ust. 4, następuje po uzyskaniu przez bank posiadacza czeku od trasata środków wystarczających do zapłaty czeku. Szczegółowe warunki przedstawienia czeku do rozrachunku ze skutkami zapłaty w banku innym niż trasata określa umowa między tym bankiem i posiadaczem czeku.
+
+### 4.
+
+Banki mogą zawierać porozumienia, w których - na zasadach wzajemności - określą inny niż w ust. 3 tryb przedstawienia czeków rozrachunkowych do zapłaty z rachunków oszczędnościowo-rozliczeniowych.
+
+### Art. 63f.
+
+### 1.
+
+Na warunkach określonych w umowach strony mogą stosować w rozliczeniach bezgotówkowych także karty płatnicze.
+
+### 2.
+
+Prawa i obowiązki wydawcy i posiadacza karty płatniczej określa odrębna ustawa.
+
+### Art. 63g.
+
+### 1.
+
+Przy wykonywaniu zlecanych przez klientów banków poleceń przelewu i wpłat gotówkowych w obrocie z krajami członkowskimi Unii Europejskiej oraz z Islandią, Liechtensteinem i Norwegią, w kwocie nieprzekraczającej równowartości w złotych 50 000 EURO przeliczonej według kursów średnich ogłaszanych przez Narodowy Bank Polski w dniu przyjęcia zlecenia, zwanych dalej «przelewami transgranicznymi», banki obowiązane są do:
+
+### 1)
+
+złożenia przed przyjęciem dyspozycji od klienta - na jego żądanie - oświadczenia, dotyczącego przelewu transgranicznego, którego elementy zostały wskazane przez klienta, zawierającego w szczególności termin wykonania przelewu, wysokość opłat i prowizji, z wyłączeniem kosztów związanych z zastosowaniem kursów walut obcych w złotych,
+
+### 2)
+
+wykonania przelewu transgranicznego w pełnej kwocie objętej zleceniem, chyba że zleceniodawca określił, że koszty pokrywa w całości lub części beneficjent; nie wyklucza to uprawnień banku beneficjenta do pobierania opłat związanych z prowadzeniem jego rachunku zgodnie z obowiązującymi przepisami,
+
+### 3)
+
+wykonania przelewu transgranicznego poprzez uznanie rachunku banku beneficjenta, w terminie do końca piątego dnia roboczego następującego po dniu przyjęcia zlecenia przez bank zleceniodawcy, chyba że inny termin został ustalony w umowie pomiędzy zleceniodawcą a bankiem zleceniodawcy,
+
+### 4)
+
+uznania rachunku bankowego beneficjenta przez bank beneficjenta do końca dnia roboczego następującego po dniu uznania rachunku banku beneficjenta, chyba że inny termin został ustalony pomiędzy bankiem beneficjenta a beneficjentem.
+
+### 2.
+
+W przypadku opóźnienia w wykonaniu przelewu transgranicznego:
+
+### 1)
+
+bank zleceniodawcy wypłaca zleceniodawcy odsetki ustawowe od kwoty objętej zleceniem za okres liczony od końca terminu umownego, lub w przypadku braku takiego terminu - od końca piątego dnia roboczego, następującego po dniu przyjęcia zlecenia - do dnia uznania rachunku banku beneficjenta,
+
+### 2)
+
+bank beneficjenta, jeżeli nie uzna rachunku beneficjenta w terminach określonych w ust. 1 pkt 4, wypłaca beneficjentowi odsetki ustawowe od kwoty objętej zleceniem za okres od końca umownego terminu, lub w przypadku braku takiego terminu - od końca dnia roboczego, następującego po dniu uznania rachunku banku beneficjenta - do dnia, w którym został uznany rachunek beneficjenta.
+
+### 3.
+
+Odsetek, o których mowa w ust. 2, nie wypłaca się, jeżeli bank zleceniodawcy lub bank beneficjenta ustali, że opóźnienie powstało z przyczyn leżących po stronie zleceniodawcy lub beneficjenta.
+
+### 4.
+
+W przypadku niewykonania przyjętych zleceń przelewu transgranicznego, bank zleceniodawcy obowiązany jest uznać rachunek zleceniodawcy lub postawić do jego dyspozycji, na jego wniosek, w terminie 14 dni roboczych następujących po dniu złożenia wniosku, kwotę objętą zleceniem, nie więcej jednak niż do równowartości w złotych kwoty 12 500 EURO przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w momencie przyjęcia zlecenia przez bank zleceniodawcy, powiększoną o odsetki ustawowe za okres od dnia zlecenia do dnia uznania jego rachunku kwotą odszkodowania lub postawienia do jego dyspozycji tej kwoty, oraz powiększoną o opłacone przez zleceniodawcę koszty związane z wykonaniem zlecenia, jeżeli po przyjęciu zlecenia przez bank zleceniodawcy odpowiednia kwota nie wpłynęła na rachunek banku beneficjenta. Bank zleceniodawcy zwolniony jest z powyższego obowiązku, jeżeli kwotą objętą zleceniem został wcześniej uznany rachunek banku beneficjenta.
+
+### 5.
+
+Wniosek zleceniodawcy, o którym mowa w ust. 4, nie może być złożony przed upływem terminu wykonania przelewu transgranicznego, ustalonego zgodnie z przepisami ust. 1 pkt 3.
+
+### 6.
+
+Instytucja pośrednicząca, która przyjęła i nie wykonała zlecenia przelewu transgranicznego, jest obowiązana zwrócić na rzecz banku zleceniodawcy, na własny koszt, kwotę objętą zleceniem wraz ze wszystkimi odpowiednimi kosztami i odsetkami, jeżeli kwota objęta zleceniem nie wpłynęła na rachunek beneficjenta.
+
+### 7.
+
+Przepisów ust. 4-6 nie stosuje się w przypadku, gdy zlecenie przelewu transgranicznego nie zostało zrealizowane z przyczyn leżących po stronie instytucji pośredniczącej wskazanej przez bank beneficjenta. W takim przypadku bank beneficjenta obowiązany jest postawić do dyspozycji beneficjenta kwotę objętą zleceniem, nie większą niż równowartość w złotych 12 500 EURO przeliczoną według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w momencie przyjęcia zlecenia przez bank zleceniodawcy.
+
+### 8.
+
+Przepisów ust. 4-6 nie stosuje się w przypadku, gdy zlecenie przelewu transgranicznego nie zostało zrealizowane z powodu błędów lub przeoczeń w instrukcji udzielonej przez zleceniodawcę lub z przyczyn leżących po stronie instytucji pośredniczącej wskazanej przez zleceniodawcę. W takim przypadku bank zleceniodawcy i instytucje pośredniczące w wykonaniu zlecenia powinny podjąć niezwłocznie starania w celu odzyskania kwoty objętej zleceniem. Gdy kwota objęta zleceniem zostanie odzyskana przez bank zleceniodawcy, jest on obowiązany do przekazania jej na rachunek zleceniodawcy lub postawienia do dyspozycji zleceniodawcy. W takim przypadku bank zleceniodawcy i instytucje pośredniczące w wykonaniu zlecenia nie są obowiązane do zwrotu zleceniodawcy opłat i naliczonych odsetek oraz mogą potrącić własne koszty poniesione przy odzyskiwaniu kwoty objętej zleceniem.
+
+### 9.
+
+Odpowiedzialność banków oraz instytucji pośredniczących w wykonaniu przelewów transgranicznych za nienależyte wykonanie lub niewykonanie zlecenia, określona w ust. 2-8, jest wyłączona w przypadku wystąpienia siły wyższej oraz w przypadku zastosowania przez bank przepisów o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł.
+
+### 10.
+
+Banki i instytucje pośredniczące obowiązane są do zwrotu na rzecz zleceniodawcy lub odpowiednio banku zleceniodawcy lub beneficjenta potrąceń z tytułu kosztów wykonania przelewu transgranicznego, dokonanych z naruszeniem ust. 1 pkt 2.
+
+### 11.
+
+Bankowi zleceniodawcy przysługuje w stosunku do instytucji pośredniczącej roszczenie o zwrot wypłaconych na podstawie ust. 2 pkt 1 odsetek, jeżeli opóźnienie wykonania przelewu transgranicznego powstało z przyczyn leżących po stronie instytucji pośredniczącej.
+
+### 12.
+
+Przepisy ust. 2 i 6 nie wyłączają ani nie ograniczają uprawnień klientów, banków i instytucji pośredniczących, uczestniczących w wykonaniu zlecenia przelewu transgranicznego, wynikających z odrębnych przepisów.
+
+### 13.
+
+Do wykonywania zleceń przelewu transgranicznego art. 64 nie stosuje się.
+
+### 14.
+
+Jeżeli strony nie sporządziły zapisu na sąd polubowny, na żądanie osoby uprawnionej sprawy przeciwko bankom lub instytucjom pośredniczącym z zakresu przelewów transgranicznych rozpoznawane są przez sądy polubowne wyznaczone przez ministra właściwego do spraw instytucji finansowych, chyba że strona pozwana sprzeciwi się temu nie później niż w odpowiedzi na pozew.
+
+### 15.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje przelewów transgranicznych, wykonywanych na zasadach określonych w ust. 1-13,
+
+### 2)
+
+szczegółowy zakres informacji, o których mowa w art. 111 ust. 1 pkt 7,
+
+### 3)
+
+szczegółowe obowiązki banków oraz instytucji pośredniczących, związane z wykonywaniem przelewów transgranicznych, oraz
+
+### 4)
+
+wyznaczy sądy polubowne właściwe do rozpoznawania spraw związanych z wykonaniem przelewu transgranicznego
+
+- kierując się zasadami zawartymi w dyrektywie 97/5 WE Parlamentu Europejskiego i Rady z dnia 27 stycznia 1997 r. o przelewach transgranicznych (Dz. Urz. WE nr L 43, s. 25).
+
+### Art. 63h.
+
+Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, wzór formularza polecenia przelewu/wpłaty gotówkowej stosowanego w rozliczeniach pieniężnych przeprowadzanych za pośrednictwem banku.
+
+” ;
+
+### 25)
+
+w art. 65 skreśla się oznaczenie ust. 1 oraz ust. 2 i 3;
+
+### 26)
+
+art. 67 otrzymuje brzmienie:
+
+„
+
+### Art. 67.
+
+Banki wspólnie z bankowymi izbami gospodarczymi mogą tworzyć izby rozliczeniowe w formie spółek handlowych w celu wymiany zleceń płatniczych oraz ustalania wzajemnych wierzytelności wynikających z tych zleceń. Dla zabezpieczenia przeprowadzania rozrachunku izba może tworzyć ze środków banków fundusz gwarancyjny; środki tego funduszu nie podlegają egzekucji z majątku banku.
+
+” ;
+
+### 27)
+
+art. 68 otrzymuje brzmienie:
+
+„
+
+### Art. 68.
+
+Prezes Narodowego Banku Polskiego określa, w drodze zarządzenia:
+
+### 1)
+
+sposób przeprowadzania rozrachunków międzybankowych, w tym za pomocą elektronicznych nośników informacji,
+
+### 2)
+
+sposób i tryb przeliczania, sortowania, pakowania i oznaczania opakowań banknotów i monet oraz wykonywania czynności związanych z zaopatrywaniem banków w te znaki,
+
+### 3)
+
+sposób numeracji banków i ich jednostek organizacyjnych,
+
+### 4)
+
+sposób numeracji rachunków bankowych prowadzonych w bankach.
+
+” ;
+
+### 28)
+
+art. 71 otrzymuje brzmienie:
+
+„
+
+### Art. 71.
+
+### 1.
+
+Suma wierzytelności banku oraz udzielonych przez bank zobowiązań pozabilansowych obciążonych ryzykiem jednego podmiotu lub podmiotów powiązanych kapitałowo lub organizacyjnie nie może przekroczyć, z zastrzeżeniem art. 128 ust. 4, limitu koncentracji wierzytelności, który wynosi:
+
+### 1)
+
+20% funduszy własnych banku - w przypadku gdy którykolwiek z tych podmiotów jest w stosunku do banku podmiotem dominującym lub zależnym albo jest podmiotem zależnym od podmiotu dominującego wobec banku, z zastrzeżeniem art. 79 ust. 3,
+
+### 2)
+
+25% funduszy własnych banku - w przypadku gdy podmioty te nie są podmiotami powiązanymi z bankiem, w sposób określony w pkt 1.
+
+### 2.
+
+Suma wierzytelności banku oraz udzielonych przez bank zobowiązań pozabilansowych, przekraczających 10% funduszy własnych banku w stosunku do podmiotów, o których mowa w ust. 1, nie może być wyższa niż 800% tych funduszy.
+
+### 3.
+
+Przepisów ust. 1 i 2 nie stosuje się, jeżeli:
+
+### 1)
+
+stroną zobowiązaną wobec banku jest: Skarb Państwa, Narodowy Bank Polski, Europejski Bank Centralny, rządy lub banki centralne państw członkowskich Unii Europejskiej, Organizacji Współpracy Gospodarczej i Rozwoju, z wyłączeniem państw, które restrukturyzują lub restrukturyzowały swoje zadłużenie zagraniczne w ciągu ostatnich 5 lat,
+
+### 2)
+
+stroną zobowiązaną wobec banku jest bank mający siedzibę w państwie członkowskim Unii Europejskiej, Organizacji Współpracy Gospodarczej i Rozwoju, z wyłączeniem państw, które restrukturyzują lub restrukturyzowały swoje zadłużenie zagraniczne w ciągu ostatnich 5 lat,
+
+### 3)
+
+wierzytelność lub udzielone zobowiązanie pozabilansowe są zabezpieczone gwarancją lub poręczeniem udzielonym przez podmioty wymienione w pkt 1 do wysokości zabezpieczenia,
+
+### 4)
+
+wierzytelność lub udzielone zobowiązanie pozabilansowe są zabezpieczone zastawem na prawach wynikających z papierów wartościowych, których emitentami są podmioty wymienione w pkt 1 do wysokości zabezpieczenia,
+
+### 5)
+
+wierzytelność lub udzielone zobowiązanie pozabilansowe są zabezpieczone kwotą pieniężną, która została przeniesiona na własność i na rachunek banku do wysokości tej kwoty.
+
+### 4.
+
+Komisja Nadzoru Bankowego:
+
+### 1)
+
+określi, w drodze uchwały, szczegółowe zasady i warunki uwzględniania wierzytelności oraz udzielonych zobowiązań pozabilansowych, o których mowa w ust. 1, przy ustalaniu przestrzegania limitów, o których mowa w ust. 1 i 2,
+
+### 2)
+
+może określić, w drodze uchwały, inne niż wymienione w ust. 3, wierzytelności i udzielone zobowiązania pozabilansowe, wobec których nie stosuje się przepisów ust. 1 i 2.
+
+### 5.
+
+Zarząd banku jest obowiązany niezwłocznie zgłosić do Komisji Nadzoru Bankowego każdorazowe przekroczenie granicy 10% funduszy własnych banku w odniesieniu do wierzytelności banku lub udzielonych przez bank zobowiązań pozabilansowych obciążonych ryzykiem jednego podmiotu lub podmiotów powiązanych kapitałowo lub organizacyjnie.
+
+### 6.
+
+Banki we własnym zakresie ustalają i okresowo weryfikują wewnętrzne limity koncentracji wierzytelności według kryteriów uwzględniających specyfikę ich działalności, a w szczególności sektor gospodarki i region geograficzny, z zachowaniem limitów obowiązujących.
+
+” ;
+
+### 29)
+
+skreśla się art. 72;
+
+### 30)
+
+po art. 78 dodaje się art. 78a w brzmieniu:
+
+„
+
+### Art. 78a.
+
+Do umów kredytu konsumenckiego zawieranych przez banki stosuje się przepisy odrębnej ustawy.
+
+” ;
+
+### 31)
+
+w art. 79:
+
+### a)
+
+w ust. 1 po wyrazach „rachunków bankowych” dodaje się wyrazy „podmiotom zależnym od banku, podmiotom działającym w tym samym co bank holdingu finansowym lub holdingu o działalności mieszanej,”
+
+### b)
+
+w ust. 5 w zdaniu wstępnym wyrazy „kapitałowo i organizacyjnie” zastępuje się wyrazami „kapitałowo lub organizacyjnie”,
+
+### c)
+
+w ust. 6 wyrazy „kapitałowo i organizacyjnie” zastępuje się wyrazami „kapitałowo lub organizacyjnie”;
+
+### 32)
+
+w art. 92 wyrazy „w art. 27 ust. 1” zastępuje się wyrazami „w art. 4 pkt 8”;
+
+### 33)
+
+w art. 95 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do dokonania wpisu hipoteki obciążającej użytkowanie wieczyste, własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej.
+
+” ;
+
+### 34)
+
+w art. 101:
+
+### a)
+
+w ust. 1 po wyrazie „dłużnika” dodaje się wyrazy „lub osobę trzecią”,
+
+### b)
+
+w ust. 2 wyrazy „dłużnik obowiązany jest” zastępuje się wyrazami „dłużnik lub osoba trzecia obowiązani są”;
+
+### 35)
+
+art. 103 otrzymuje brzmienie:
+
+„
+
+### Art. 103.
+
+### 1.
+
+Jeżeli umowa ramowa z bankiem zastrzega, że poszczególne porozumienia mające za przedmiot terminowe operacje finansowe będą zawierane w wykonaniu umowy ramowej oraz że rozwiązanie umowy ramowej powoduje rozwiązanie wszystkich porozumień zawartych w wykonaniu tej umowy, w postępowaniu upadłościowym syndykowi masy upadłości nie przysługuje uprawnienie z art. 39 § 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe (Dz. U. z 1991 r. Nr 118, poz. 512, z 1994 r. Nr 1, poz. 1, z 1995 r. Nr 85, poz. 426, z 1996 r. Nr 6, poz. 43, Nr 43, poz. 189, Nr 106, poz. 496 i Nr 149, poz. 703, z 1997 r. Nr 28, poz. 153, Nr 54, poz. 349, Nr 117, poz. 751, Nr 121, poz. 770 i Nr 140, poz. 940, z 1998 r. Nr 117, poz. 756, z 2000 r. Nr 26, poz. 306, Nr 84, poz. 948, Nr 94, poz. 1037 i Nr 114, poz. 1193 oraz z 2001 r. Nr 3, poz. 18) do odstąpienia od umowy ramowej.
+
+### 2.
+
+Syndyk masy upadłości może rozwiązać umowę ramową, o której mowa w ust. 1, ze skutkiem natychmiastowym, z zachowaniem ustalonego w tej umowie sposobu rozliczeń stron na wypadek rozwiązania umowy.
+
+### 3.
+
+Bank może rozwiązać umowę ramową z zachowaniem ustalonego w tej umowie trybu jej rozwiązania i rozliczeń stron na wypadek jej rozwiązania, mimo złożenia przez syndyka masy upadłości żądania wykonania poszczególnych porozumień, z tym że oświadczenie banku o rozwiązaniu umowy ramowej powinno nastąpić niezwłocznie po ogłoszeniu przez syndyka żądania wykonania poszczególnych porozumień.
+
+” ;
+
+### 36)
+
+w art. 105 w ust. 1:
+
+### a)
+
+w pkt 1:
+
+- - po wyrazach „innym bankom” dodaje się wyrazy „oraz - na zasadzie wzajemności - innym instytucjom ustawowo upoważnionym do udzielania kredytów”,
+
+- - skreśla się wyrazy „- bankom należącym do bankowej grupy kapitałowej”,
+
+### b)
+
+w pkt 2:
+
+- - lit. a) otrzymuje brzmienie: „ a) Komisji Nadzoru Bankowego w zakresie nadzoru sprawowanego na podstawie niniejszej ustawy i ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252 oraz z 2001 r. Nr 8, poz. 64 i Nr 110, poz. 1189), inspektorów nadzoru bankowego w zakresie, o którym mowa w art. 139 ust. 1 pkt 2, oraz osób upoważnionych uchwałą Komisji Nadzoru Bankowego w zakresie określonym w tym upoważnieniu, ”
+
+- - w lit. g) wyrazy „w art. 27 ust. 1” zastępuje się wyrazami „w art. 4 pkt 8”;
+
+### 37)
+
+w art. 105 w ust. 3 po wyrazie „Banki” dodaje się wyrazy „, inne instytucje ustawowo upoważnione do udzielania kredytów”;
+
+### 38)
+
+w art. 105 w ust. 4 wyraz „instytucję” zastępuje się wyrazem „instytucje” oraz po wyrazach „udostępniania bankom” dodaje się wyrazy „oraz innym instytucjom ustawowo upoważnionym do udzielania kredytów”;
+
+### 39)
+
+w art. 110 wyrazy „pobierać prowizje” zastępuje się wyrazami „pobierać przewidziane w umowie prowizje i opłaty”;
+
+### 40)
+
+art. 111 otrzymuje brzmienie:
+
+„
+
+### Art. 111.
+
+### 1.
+
+Bank obowiązany jest ogłaszać w miejscu wykonywania czynności, w sposób ogólnie dostępny:
+
+### 1)
+
+stosowane stawki oprocentowania środków na rachunkach bankowych, kredytów i pożyczek,
+
+### 2)
+
+stosowane stawki prowizji i wysokość pobieranych opłat,
+
+### 3)
+
+terminy kapitalizacji odsetek,
+
+### 4)
+
+stosowane kursy walutowe,
+
+### 5)
+
+bilans z opinią biegłego rewidenta za ostatni okres podlegający badaniu,
+
+### 6)
+
+skład zarządu i rady nadzorczej banku,
+
+### 7)
+
+informacje o warunkach wykonywania przelewów transgranicznych,
+
+### 8)
+
+nazwiska osób upoważnionych do zaciągania zobowiązań w imieniu banku albo jednostki organizacyjnej banku.
+
+### 2.
+
+Banki spółdzielcze są obowiązane oprócz informacji, o których mowa w ust. 1, podać także obszar swojego działania oraz bank zrzeszający.
+
+” ;
+
+### 41)
+
+w art. 113:
+
+### a)
+
+w ust. 5 wyrazy „rejestru handlowego” zastępuje się wyrazami „rejestru przedsiębiorców”,
+
+### b)
+
+w ust. 7 wyrazy „kapitałowo i organizacyjnie” zastępuje się wyrazami „kapitałowo lub organizacyjnie”;
+
+### 42)
+
+w art. 117 w ust. 6 w pkt 3 wyrazy „rejestru handlowego” zastępuje się wyrazami „rejestru przedsiębiorców”;
+
+### 43)
+
+po art. 124 dodaje się art. 124a w brzmieniu:
+
+„
+
+### Art. 124a.
+
+Nabycie przedsiębiorstwa bankowego przez bank wymaga zezwolenia Komisji Nadzoru Bankowego, z zastrzeżeniem art. 165 ust. 2.
+
+” ;
+
+### 44)
+
+art. 127 i 128 otrzymują brzmienie:
+
+„
+
+### Art. 127.
+
+### 1.
+
+Fundusze własne banku obejmują:
+
+### 1)
+
+fundusze podstawowe banku,
+
+### 2)
+
+fundusze uzupełniające banku w kwocie nieprzewyższającej funduszy podstawowych banku,
+
+### 3)
+
+pozycje pomniejszające fundusze własne banku, które stanowią:
+
+### a)
+
+brakująca kwota rezerw na ryzyko związane z działalnością banku, rozumiana jako różnica pomiędzy wymaganym odrębnymi przepisami a faktycznym poziomem rezerw celowych banku,
+
+### b)
+
+inne pomniejszenia funduszy własnych banku określone przez Komisję Nadzoru Bankowego.
+
+### 2.
+
+Fundusze podstawowe banku obejmują:
+
+### 1)
+
+fundusze zasadnicze banku z wyłączeniem akcji i udziałów uprzywilejowanych w zakresie spłaty jakichkolwiek zobowiązań banku z ich tytułu, które stanowią:
+
+### a)
+
+w banku państwowym - fundusz statutowy, fundusz zapasowy i fundusz rezerwowy,
+
+### b)
+
+w banku w formie spółki akcyjnej - wpłacony i zarejestrowany kapitał zakładowy oraz kapitał zapasowy i kapitały rezerwowe,
+
+### c)
+
+w banku spółdzielczym - wpłacony fundusz udziałowy oraz fundusz zasobowy i fundusz rezerwowy,
+
+### d)
+
+w oddziale banku zagranicznego - zarejestrowany kapitał przeznaczony na działalność oddziału banku w kraju,
+
+### 2)
+
+pozycje dodatkowe funduszy podstawowych, które stanowią:
+
+### a)
+
+fundusz ogólnego ryzyka na niezidentyfikowane ryzyko działalności bankowej,
+
+### b)
+
+niepodzielony zysk z lat ubiegłych,
+
+### 3)
+
+pozycje pomniejszające fundusze podstawowe, które stanowią:
+
+### a)
+
+akcje własne posiadane przez bank, wycenione według cen nabycia, pomniejszone o odpisy spowodowane trwałą utratą ich wartości,
+
+### b)
+
+wartości niematerialne i prawne,
+
+### c)
+
+niepokrytą stratę z lat ubiegłych, w tym również stratę w trakcie zatwierdzania,
+
+### d)
+
+stratę na koniec okresu sprawozdawczego, obliczoną narastająco od początku roku obrotowego.
+
+### 3.
+
+Fundusze uzupełniające banku obejmują:
+
+### 1)
+
+kapitał (fundusz) z aktualizacji wyceny majątku trwałego dokonanej na podstawie odrębnych przepisów,
+
+### 2)
+
+za zgodą Komisji Nadzoru Bankowego:
+
+### a)
+
+dodatkową kwotę odpowiedzialności członków banku spółdzielczego, w części określonej przez Komisję Nadzoru Bankowego, nie większej niż połowa kwoty, o której mowa w art. 10 ust. 2 ustawy wymienionej w art. 20 ust. 1,
+
+### b)
+
+zobowiązania podporządkowane, rozumiane jako zobowiązania z tytułu przyjęcia przez bank - w kwocie i na zasadach ustalonych w decyzji Komisji Nadzoru Bankowego, wydanej na wniosek banku, pomniejszanej na koniec każdego roku w ciągu ostatnich 5 lat trwania umowy o 20% tej kwoty, z tym że w banku państwowym, banku w formie spółki akcyjnej oraz w oddziale banku zagranicznego kwota ta nie może przewyższać połowy funduszy podstawowych, zaś w banku spółdzielczym suma tej kwoty i dodatkowej kwoty odpowiedzialności członków, o której mowa w lit. a), nie może przewyższać połowy funduszy podstawowych banku - środków pieniężnych spełniających zgodnie z umową łącznie następujące warunki:
+
+- - środki pieniężne przyjęto na okres co najmniej 5 lat (okres umowy),
+
+- - środki pieniężne nie mogą być wycofane z banku przed upływem okresu umowy, z zastrzeżeniem ust. 4,
+
+- - środki pieniężne podlegają zwrotowi w ostatniej kolejności w przypadku upadłości banku lub jego likwidacji,
+
+- - zwrot środków pieniężnych nie jest zabezpieczony przez bank bezpośrednio lub pośrednio,
+
+### 3)
+
+inne pozycje bilansu banku w części, która zgodnie z odrębnymi przepisami i postanowieniami statutu banku służy wyłącznie pokryciu strat bilansowych banku, określone przez Komisję Nadzoru Bankowego.
+
+### 4.
+
+Na wniosek banku Komisja Nadzoru Bankowego może wyrazić zgodę na wcześniejszy zwrot środków pieniężnych, o których mowa w ust. 3 pkt 2 lit. b), pod warunkiem spełnienia wymogu, o którym mowa w art. 128 ust. 1.
+
+### 5.
+
+Komisja Nadzoru Bankowego:
+
+### 1)
+
+określi, w drodze uchwały, wysokość i warunki zaliczania do funduszy własnych banku spółdzielczego części dodatkowej kwoty odpowiedzialności członków banku spółdzielczego, o której mowa w ust. 3 pkt 2 lit. a),
+
+### 2)
+
+może określić, w drodze uchwały:
+
+### a)
+
+wysokość, szczegółowy zakres i warunki pomniejszania funduszy podstawowych banku o pozycje, o których mowa w ust. 2 pkt 3,
+
+### b)
+
+inne pozycje bilansu banku, o których mowa w ust. 3 pkt 3, ich wysokość i warunki ich zaliczania do funduszy uzupełniających banku,
+
+### c)
+
+inne pomniejszenia funduszy własnych banku, o których mowa w ust. 1 pkt 3 lit. b), ich wysokość i warunki pomniejszania o nie funduszy własnych.
+
+### Art. 128.
+
+### 1.
+
+Bank jest obowiązany utrzymywać:
+
+### 1)
+
+fundusze własne na poziomie nie niższym niż równowartość w złotych kwoty określonej w art. 32 ust. 1, przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu sprawozdawczym, z tym że wkłady niepieniężne nie mogą przekroczyć 15% funduszy zasadniczych banku,
+
+### 2)
+
+sumę funduszy własnych oraz dodatkowych pozycji bilansu banku określonych przez Komisję Nadzoru Bankowego, pomniejszoną o kwotę przekroczenia progu koncentracji kapitałowej, o której mowa w ust. 2, na poziomie nie niższym niż suma wymogów kapitałowych z tytułu poszczególnych rodzajów ryzyka prowadzonej działalności, z zastrzeżeniem pkt 3,
+
+### 3)
+
+współczynnik wypłacalności na poziomie co najmniej 8%, a bank rozpoczynający działalność operacyjną na poziomie co najmniej 15% przez pierwsze 12 miesięcy działalności, a przez następne 12 miesięcy działalności - co najmniej 12%.
+
+### 2.
+
+Przekroczenie progu koncentracji kapitałowej stanowi większa z liczb określonych jako:
+
+### 1)
+
+suma kwot, o które poszczególne znaczne pakiety akcji lub udziałów przekraczają 15% funduszy własnych banku,
+
+### 2)
+
+kwota, o którą suma znacznych pakietów akcji lub udziałów przekracza 60% funduszy własnych banku.
+
+### 3.
+
+Obliczając przekroczenie progu koncentracji kapitałowej, o którym mowa w ust. 2, nie uwzględnia się znacznych pakietów akcji lub udziałów:
+
+### 1)
+
+w bankach,
+
+### 2)
+
+w instytucjach finansowych,
+
+### 3)
+
+w zakładach ubezpieczeń,
+
+### 4)
+
+w izbach rozliczeniowych, o których mowa w art. 67,
+
+### 5)
+
+w międzybankowych przedsiębiorstwach telekomunikacyjnych, w których banki są posiadaczem co najmniej 75% akcji lub udziałów,
+
+### 6)
+
+w instytucji, o której mowa w art. 105 ust. 4, w której banki są posiadaczem co najmniej 75% akcji lub udziałów,
+
+### 7)
+
+w podmiotach, których wyłącznym przedmiotem działalności jest świadczenie usług w zakresie edukacji kadr bankowych, w których banki są posiadaczem co najmniej 75% akcji lub udziałów,
+
+### 8)
+
+w przedsiębiorstwach pomocniczych usług bankowych, w których banki są posiadaczem co najmniej 75% akcji lub udziałów,
+
+### 9)
+
+w podmiotach, w których bank jest posiadaczem akcji lub udziałów w związku z jego udziałem w procesie naprawczym tych podmiotów,
+
+### 10)
+
+przejętych w związku z wykonywaniem umowy o subemisję usługową.
+
+### 4.
+
+Komisja Nadzoru Bankowego określi, w drodze uchwały:
+
+### 1)
+
+zakres i szczegółowe zasady wyznaczania wymogów kapitałowych, o których mowa w ust. 1 pkt 2, z tytułu poszczególnych rodzajów ryzyka, w tym z tytułu przekroczenia limitów koncentracji wierzytelności, o których mowa w art. 71 ust. 1,
+
+### 2)
+
+sposób i szczegółowe zasady obliczania współczynnika wypłacalności banku, o którym mowa w ust. 1 pkt 3.
+
+### 5.
+
+W przypadku niespełnienia wymogów, o których mowa w ust. 1, bank obowiązany jest niezwłocznie powiadomić Komisję Nadzoru Bankowego.
+
+### 6.
+
+Komisja Nadzoru Bankowego, w drodze uchwały:
+
+### 1)
+
+określi dodatkowe pozycje bilansu banku, o których mowa w ust. 1 pkt 2, oraz zakres i sposób ich wyznaczania,
+
+### 2)
+
+może określić wiążące banki normy ostrożnościowe, określające dopuszczalne ryzyko w działalności banków inne niż wymogi kapitałowe, o których mowa w ust. 1 pkt 2, oraz zakres ich stosowania.
+
+### 7.
+
+Komisja Nadzoru Bankowego może, w szczególnie uzasadnionych przypadkach, wyrazić zgodę na przekroczenie limitu dotyczącego wielkości wkładów niepieniężnych, o którym mowa w ust. 1 pkt 1.
+
+” ;
+
+### 45)
+
+po art. 128 dodaje się art. 128a w brzmieniu:
+
+„
+
+### Art. 128a.
+
+Bank jest obowiązany do udzielenia na żądanie Komisji Nadzoru Bankowego wszelkich informacji dotyczących struktury funduszy własnych, o których mowa w art. 127, oraz dotyczących spełnienia wymogów i norm określonych w art. 128.
+
+” ;
+
+### 46)
+
+w art. 131 ust. 2-4 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Nadzór nad działalnością oddziału lub przedstawicielstwa banku zagranicznego w kraju oraz oddziału lub przedstawicielstwa banku krajowego za granicą, w tym zakres i tryb dokonywania czynności kontrolnych, może być wykonywany w zakresie uzgodnionym w porozumieniu Komisji Nadzoru Bankowego z właściwymi władzami nadzorczymi.
+
+### 3.
+
+Komisja Nadzoru Bankowego może, stosownie do postanowień porozumienia, o którym mowa w ust. 2, udzielić informacji dotyczących banku organowi nadzoru bankowego innego kraju, jeżeli:
+
+### 1)
+
+wskutek tego nie zostanie naruszony interes gospodarczy Rzeczypospolitej Polskiej,
+
+### 2)
+
+zapewnione jest wykorzystanie udzielonych informacji tylko na potrzeby nadzoru bankowego,
+
+### 3)
+
+zagwarantowane jest, że przekazywanie udzielonych informacji poza organ nadzoru bankowego możliwe jest wyłącznie po uprzednim uzyskaniu zgody Komisji Nadzoru Bankowego.
+
+### 4.
+
+Komisja Nadzoru Bankowego może, na zasadach wzajemności, udzielać i otrzymywać informacje od Komisji Papierów Wartościowych i Giełd, Urzędu Nadzoru nad Funduszami Emerytalnymi oraz Państwowego Urzędu Nadzoru Ubezpieczeń, niezbędne dla prawidłowego wykonywania ustawowo określonych zadań w zakresie nadzoru. Zasady i tryb udzielania informacji określają porozumienia zawarte przez Komisję Nadzoru Bankowego z wymienionymi organami nadzoru.
+
+” ;
+
+### 47)
+
+w art. 135 ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Zlecenie badania określonego w ust. 1 może zostać udzielone także bezpośrednio przez Komisję Nadzoru Bankowego. Koszty badania ponosi wówczas Narodowy Bank Polski, z zastrzeżeniem ust. 3.
+
+### 3.
+
+Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Bankowego stwierdzono nieprawidłowości, koszty badania ponosi bank.
+
+” ;
+
+### 48)
+
+w art. 136 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Przepisy ust. 1 stosuje się odpowiednio do biegłych rewidentów badających sprawozdania finansowe podmiotów posiadających bliskie powiązania z bankiem.
+
+” ;
+
+### 49)
+
+art. 137 otrzymuje brzmienie:
+
+„
+
+### Art. 137.
+
+Komisja Nadzoru Bankowego:
+
+### 1)
+
+określa, w drodze uchwały, wykaz informacji i dokumentów, które rada nadzorcza załącza do wniosku, o którym mowa w art. 22 ust. 3, i informacji, o której mowa w art. 22 ust. 4,
+
+### 2)
+
+określa, w drodze uchwały, wykaz dokumentów, o których mowa w art. 31 ust. 2 pkt 3,
+
+### 3)
+
+może ustalać wiążące banki normy płynności oraz inne normy dopuszczalnego ryzyka w działalności banków.
+
+” ;
+
+### 50)
+
+w art. 138:
+
+### a)
+
+w ust. 3:
+
+- - po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) nałożyć na bank karę finansową w wysokości do 1 000 000 zł; przepisy art. 141 ust. 4 i 5 stosuje się odpowiednio, ”
+
+- - pkt 4 otrzymuje brzmienie: „ 4) uchylić zezwolenie na utworzenie banku i podjąć decyzję o likwidacji banku; art. 147 ust. 3 i art. 153-156 stosuje się odpowiednio. ” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Decyzja Komisji Nadzoru Bankowego o ograniczeniu zakresu działalności banku może zawierać warunki i terminy.
+
+” ,
+
+### c)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Komisja Nadzoru Bankowego odwołuje członka zarządu banku w przypadku prawomocnego skazania go za przestępstwo wymienione w art. 22 ust. 6 pkt 1.
+
+### 6.
+
+Ograniczenie zakresu działalności banku lub uchylenie zezwolenia na utworzenie banku może również nastąpić w razie stwierdzenia, że bank:
+
+### 1)
+
+przestał spełniać warunki ustalone w zezwoleniu,
+
+### 2)
+
+uzyskał zezwolenie na podstawie fałszywych dokumentów, nieprawdziwych oświadczeń lub wskutek innych działań sprzecznych z prawem,
+
+### 3)
+
+przez okres dłuższy niż 6 miesięcy nie prowadzi działalności bankowej,
+
+### 4)
+
+stał się podmiotem zależnym od osób, wobec których nie jest możliwe skuteczne wykonywanie przez Komisję Nadzoru Bankowego nadzoru nad bankiem ze względu na przepisy prawa obowiązujące w miejscu ich zamieszkania lub siedziby, lub ze względu na powiązania tych osób z innymi podmiotami.
+
+” ,
+
+### d)
+
+po ust. 6 dodaje się ust. 6a-6d w brzmieniu:
+
+„
+
+### 6a.
+
+Komisja Nadzoru Bankowego uchyla zezwolenie na utworzenie oddziału banku zagranicznego, jeśli właściwe władze nadzorcze kraju, w którym bank zagraniczny ma swoją siedzibę lub miejsce sprawowania zarządu, uchyliły zezwolenie na prowadzenie działalności bankowej przez ten bank.
+
+### 6b.
+
+Przed uchyleniem zezwolenia na utworzenie oddziału banku zagranicznego Komisja Nadzoru Bankowego zasięgnie opinii właściwych władz nadzorczych kraju, w którym bank zagraniczny ma swoją siedzibę lub miejsce sprawowania zarządu, jeżeli porozumienie, o którym mowa w art. 131 ust. 2, przewiduje zasięgnięcie opinii. W razie konieczności natychmiastowego uchylenia zezwolenia Komisja Nadzoru Bankowego może odstąpić od zasięgnięcia opinii.
+
+### 6c.
+
+O uchyleniu zezwolenia, o którym mowa w ust. 6a, Komisja Nadzoru Bankowego powiadamia właściwe władze nadzorcze banku zagranicznego.
+
+### 6d.
+
+O uchyleniu zezwolenia na utworzenie banku krajowego Komisja Nadzoru Bankowego niezwłocznie powiadamia właściwe władze nadzorcze państwa, w którym działa oddział tego banku.
+
+” ,
+
+### e)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Środki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez bank, z wyłączeniem umów zawartych przez bank krajowy z podmiotami od niego zależnymi lub z którymi posiada bliskie powiązania oraz umów zawartych przez bank krajowy z podmiotami działającymi w tym samym holdingu finansowym lub holdingu o działalności mieszanej.
+
+” ;
+
+### 51)
+
+po art. 140 dodaje się art. 140a-140c w brzmieniu:
+
+„
+
+### Art. 140a.
+
+Przed wydaniem zezwolenia na utworzenie banku krajowego Komisja Nadzoru Bankowego zasięga opinii właściwych władz nadzorczych państwa członkowskiego Unii Europejskiej, gdy bank ten będzie:
+
+### 1)
+
+podmiotem zależnym od instytucji kredytowej,
+
+### 2)
+
+podmiotem zależnym od podmiotu dominującego wobec instytucji kredytowej,
+
+### 3)
+
+kontrolowany przez te same osoby fizyczne lub prawne, które kontrolują instytucję kredytową.
+
+### Art. 140b.
+
+Komisja Nadzoru Bankowego powiadamia Komisję Europejską o każdym przypadku:
+
+### 1)
+
+udzielenia zezwolenia na utworzenie banku krajowego, w tym podmiotom bezpośrednio lub pośrednio zależnym od jednego lub więcej podmiotów dominujących, podlegających ustawodawstwu państw niebędących członkami Unii Europejskiej,
+
+### 2)
+
+utworzenia oddziału banku zagranicznego na terytorium Rzeczypospolitej Polskiej,
+
+### 3)
+
+nabywania przez podmiot dominujący, o którym mowa w pkt 1, pakietu akcji w banku krajowym, co powoduje, że bank krajowy staje się podmiotem od niego zależnym.
+
+### Art. 140c.
+
+### 1.
+
+Komisja Nadzoru Bankowego informuje Komisję Europejską o każdym przypadku utraty mocy lub uchylenia zezwolenia na utworzenie banku krajowego lub oddziału banku zagranicznego.
+
+### 2.
+
+W informacji, o której mowa w ust. 1, Komisja Nadzoru Bankowego podaje powody utraty mocy lub uchylenia zezwolenia na utworzenie banku krajowego lub oddziału banku zagranicznego.
+
+” ;
+
+### 52)
+
+po art. 141 dodaje się rozdział 11a w brzmieniu:
+
+„
+
+### Rozdział 11a Nadzór nad oddziałami instytucji kredytowych
+
+### Art. 141a.
+
+### 1.
+
+W przypadku gdy instytucja kredytowa prowadząca działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej nie przestrzega przepisów prawa polskiego, Komisja Nadzoru Bankowego:
+
+### 1)
+
+wzywa, w formie pisemnej, tę instytucję do przestrzegania przepisów prawa polskiego i wyznacza jej odpowiedni termin do usunięcia stwierdzonych nieprawidłowości,
+
+### 2)
+
+po bezskutecznym upływie terminu, o którym mowa w pkt 1, zawiadamia właściwe władze nadzorcze państwa macierzystego o stwierdzonych nieprawidłowościach.
+
+### 2.
+
+W przypadku gdy pomimo zastosowania środków przez właściwe władze nadzorcze państwa macierzystego oddział instytucji kredytowej nadal nie przestrzega przepisów prawa polskiego oraz w przypadku nieadekwatności tych środków do zaistniałego naruszenia prawa lub niemożności ich zastosowania na terytorium Rzeczypospolitej Polskiej, Komisja Nadzoru Bankowego może zastosować odpowiednio środki określone w art. 138 ust. 3 pkt 1 i 3 i art. 141, a w zakresie płynności - w art. 138 ust. 1 pkt 1 i ust. 2.
+
+### 3.
+
+W nagłych przypadkach, przed zastosowaniem procedur, o których mowa w ust. 1 i 2, Komisja Nadzoru Bankowego, mając na względzie ochronę interesów deponentów, może, bez konieczności uprzedniego pisemnego upomnienia, odpowiednio zastosować środki, o których mowa w art. 138 ust. 3 pkt 1, 3 i 3a.
+
+### 4.
+
+Decyzje Komisji Nadzoru Bankowego wydane w trybie ust. 2 i 3 są natychmiast wykonalne. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+
+### 5.
+
+Od decyzji Komisji Nadzoru Bankowego, o których mowa w ust. 2 i 3, instytucja kredytowa może wnieść skargę do Naczelnego Sądu Administracyjnego, w terminie 7 dni od dnia jej doręczenia.
+
+### Art. 141b.
+
+### 1.
+
+Komisja Nadzoru Bankowego po otrzymaniu od właściwych władz nadzorczych państwa goszczącego informacji, iż bank krajowy wykonujący czynności na jego terytorium poprzez oddział lub w ramach działalności transgranicznej narusza obowiązujące w państwie goszczącym przepisy prawa, może zastosować w stosunku do banku środki przewidziane w art. 138 ust. 3.
+
+### 2.
+
+Decyzje Komisji Nadzoru Bankowego wydane na podstawie ust. 1 są natychmiast wykonalne. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+
+### 3.
+
+Decyzję Komisji Nadzoru Bankowego, wydaną na podstawie ust. 1, bank krajowy może zaskarżyć do Naczelnego Sądu Administracyjnego, w terminie 7 dni od dnia jej doręczenia.
+
+### Art. 141c.
+
+### 1.
+
+Nadzór nad działalnością instytucji kredytowej prowadzącej działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej sprawują, z zastrzeżeniem ust. 2 i art. 141a ust. 2, właściwe władze nadzorcze państwa macierzystego.
+
+### 2.
+
+Komisja Nadzoru Bankowego obowiązana jest do sprawowania nadzoru nad oddziałami instytucji kredytowych w zakresie przestrzegania obowiązku określonego w art. 8.
+
+### 3.
+
+Nadzór nad działalnością banku krajowego, prowadzącego działalność na terytorium państwa goszczącego poprzez oddział lub w ramach działalności transgranicznej, sprawuje Komisja Nadzoru Bankowego.
+
+### Art. 141d.
+
+### 1.
+
+Inspektorzy nadzoru bankowego wykonują czynności kontrolne w oddziałach instytucji kredytowych, w zakresie określonym w art. 141c ust. 2, a w pozostałym zakresie - na podstawie upoważnienia, o którym mowa w ust. 2.
+
+### 2.
+
+Właściwe władze nadzorcze państwa macierzystego mogą przeprowadzać czynności kontrolne w oddziale, o którym mowa w ust. 1, we własnym zakresie lub poprzez osoby przez nie upoważnione, po uprzednim zawiadomieniu Komisji Nadzoru Bankowego o terminie i zakresie przeprowadzanej kontroli.
+
+### Art. 141e.
+
+### 1.
+
+Komisja Nadzoru Bankowego może zawierać porozumienia z właściwymi władzami nadzorczymi państwa macierzystego instytucji kredytowej prowadzącej działalność na terytorium Rzeczypospolitej Polskiej poprzez oddział lub w ramach działalności transgranicznej, w celu wymiany informacji pomagających w monitorowaniu płynności i wypłacalności tych instytucji, a także informacji dotyczących w szczególności:
+
+### 1)
+
+zarządzania i struktury własności instytucji kredytowych,
+
+### 2)
+
+zasad gwarantowania depozytów,
+
+### 3)
+
+koncentracji wierzytelności,
+
+### 4)
+
+zasad rachunkowości,
+
+### 5)
+
+stosowanych procedur administracyjnych,
+
+### 6)
+
+mechanizmów kontroli wewnętrznej,
+
+### 7)
+
+trybu i zasad przeprowadzania czynności kontrolnych.
+
+### 2.
+
+Porozumienia w zakresie, o którym mowa w ust. 1, Komisja Nadzoru Bankowego może zawierać również na wniosek właściwych władz nadzorczych państwa goszczącego, na terytorium którego bank krajowy prowadzi działalność.
+
+” ;
+
+### 53)
+
+po art. 141e dodaje się rozdział 11b w brzmieniu:
+
+„
+
+### Rozdział 11b Nadzór skonsolidowany
+
+### Art. 141f.
+
+### 1.
+
+Nadzorowi skonsolidowanemu podlega bank krajowy, który:
+
+### 1)
+
+jest podmiotem dominującym w stosunku do innego banku krajowego, banku zagranicznego, instytucji kredytowej, instytucji finansowej lub przedsiębiorstwa pomocniczego usług bankowych, lub który posiada bliskie powiązania z innym podmiotem lub podmiotami,
+
+### 2)
+
+działa w holdingu finansowym,
+
+### 3)
+
+działa w holdingu o działalności mieszanej.
+
+### 2.
+
+Sprawowanie nad bankiem nadzoru skonsolidowanego nie wyłącza stosowania odpowiednich przepisów ustawy regulujących działalność banku jako podmiotu podlegającego nadzorowi indywidualnemu.
+
+### 3.
+
+Komisja Nadzoru Bankowego może zawierać z właściwymi władzami nadzorczymi innych państw porozumienia określające zakres i tryb wykonywania nadzoru skonsolidowanego nad bankami, które działają w holdingu finansowym lub w holdingu o działalności mieszanej z udziałem podmiotu dominującego, mającego siedzibę w innym państwie, oraz bankami zagranicznymi lub instytucjami kredytowymi, w stosunku do których podmiotem dominującym jest bank krajowy. Przepis art. 131 ust. 3 stosuje się odpowiednio.
+
+### Art. 141g.
+
+### 1.
+
+Bank, o którym mowa w art. 141f ust. 1 pkt 1, obowiązany jest przekazać Komisji Nadzoru Bankowego niezwłocznie, lecz nie później niż w terminie 30 dni od dnia zatwierdzenia przez walne zgromadzenie akcjonariuszy banku, skonsolidowane sprawozdanie finansowe oraz sprawozdania finansowe wszystkich podmiotów zależnych lub z którymi posiada bliskie powiązania.
+
+### 2.
+
+Podmiot dominujący w stosunku do banku, o którym mowa w art. 141f ust. 1 pkt 2 i 3, obowiązany jest przekazać Komisji Nadzoru Bankowego niezwłocznie, lecz nie później niż w terminie 30 dni od dnia zatwierdzenia przez walne zgromadzenie podmiotu dominującego, skonsolidowane sprawozdanie finansowe sporządzone dla całego holdingu oraz sprawozdania finansowe wszystkich podmiotów zależnych.
+
+### 3.
+
+W przypadku gdy podmiot dominujący ma siedzibę za granicą, bank krajowy ma obowiązek przekazania skonsolidowanego sprawozdania finansowego holdingu w terminie 90 dni od dnia odbycia walnego zgromadzenia podmiotu dominującego zatwierdzającego to sprawozdanie oraz sprawozdanie finansowe tych podmiotów holdingu, w stosunku do których bank jest wierzycielem lub dłużnikiem, wraz z ich tłumaczeniem na język polski dokonanym przez tłumacza przysięgłego.
+
+### Art. 141h.
+
+### 1.
+
+W celu sprawdzenia uzyskanych informacji, inspektorzy nadzoru bankowego oraz osoby upoważnione przez Komisję Nadzoru Bankowego mogą, z zastrzeżeniem ust. 2 i 3, dokonywać czynności kontrolnych w podmiotach, w stosunku do których podmiotem dominującym jest bank, o którym mowa w art. 141f ust. 1 pkt 1, lub które posiadają bliskie powiązania z tym bankiem, oraz w podmiotach wchodzących w skład holdingów, o których mowa w art. 141f ust. 1 pkt 2 i 3. Przepis art. 139 ust. 1 pkt 2 stosuje się odpowiednio.
+
+### 2.
+
+W przypadku gdy nadzór nad podmiotami, o których mowa w ust. 1, wykonuje Komisja Papierów Wartościowych i Giełd, Urząd Nadzoru nad Funduszami Emerytalnymi albo Państwowy Urząd Nadzoru Ubezpieczeń, Komisja Nadzoru Bankowego może zwrócić się do właściwego organu o przeprowadzenie w danym podmiocie czynności kontrolnych. W czynnościach kontrolnych mogą uczestniczyć inspektorzy nadzoru bankowego oraz osoby upoważnione przez Komisję Nadzoru Bankowego, którym przysługują takie same prawa i obowiązki, jak pracownikom danego organu.
+
+### 3.
+
+Szczegółowy tryb wykonywania czynności kontrolnych, o których mowa w ust. 2, określają porozumienia, o których mowa w art. 131 ust. 4.
+
+### 4.
+
+Komisja Nadzoru Bankowego może żądać od banku, o którym mowa w art. 141f ust. 1 pkt 1, a także od podmiotu dominującego w holdingu, o którym mowa w art. 141f ust. 1 pkt 2 i 3, zlecenia niezależnemu biegłemu rewidentowi zbadania sytuacji finansowej podmiotów zależnych lub podmiotów posiadających bliskie powiązania z tym bankiem w przypadku, gdy w ocenie Komisji istnieją wątpliwości co do rzetelności zatwierdzonych sprawozdań lub gdy konieczne jest zbadanie związku gospodarczego z innym podmiotem. Koszt zleconego badania ponosi odpowiednio bank lub podmiot dominujący w holdingu, z zastrzeżeniem ust. 5.
+
+### 5.
+
+Jeżeli w wyniku badania zleconego przez Komisję Nadzoru Bankowego nie stwierdzono wątpliwości, o których mowa w ust. 4, koszt badania ponosi Narodowy Bank Polski.
+
+### Art. 141i.
+
+Podmiot dominujący w stosunku do banku działającego w holdingu finansowym lub w holdingu o działalności mieszanej obowiązany jest zapewnić właściwe funkcjonowanie wewnętrznej kontroli danych i informacji wymaganych w związku ze sprawowaniem nadzoru skonsolidowanego, a także udzielić, na żądanie Komisji Nadzoru Bankowego lub osób upoważnionych przez Komisję Nadzoru Bankowego, wszelkich informacji i wyjaśnień dotyczących działalności holdingu oraz wchodzących w jego skład podmiotów.
+
+### Art. 141j.
+
+Określając sposób obliczania funduszy własnych, wymogów kapitałowych, współczynnika wypłacalności, progów koncentracji kapitałowej oraz limitów koncentracji wierzytelności, Komisja Nadzoru Bankowego może uwzględnić powiązania banków, o których mowa w art. 141f ust. 1, z innymi podmiotami zależnymi lub działającymi w tym samym holdingu.
+
+” ;
+
+### 54)
+
+w art. 144 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Decyzja Komisji Nadzoru Bankowego o ustanowieniu kuratora jest natychmiast wykonalna. Od decyzji o ustanowieniu kuratora bank może wnieść skargę do Naczelnego Sądu Administracyjnego w terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+
+” ;
+
+### 55)
+
+w art. 145 w ust. 4 dodaje się zdanie trzecie w brzmieniu: „ Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się. ” ;
+
+### 56)
+
+w art. 147 w ust. 3 dodaje się zdanie trzecie w brzmieniu: „ Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się. ” ;
+
+### 57)
+
+w art. 171 dodaje się ust. 6 i 7 w brzmieniu:
+
+„
+
+### 6.
+
+Kto, będąc odpowiedzialnym za zapewnienie właściwego funkcjonowania wewnętrznej kontroli danych i informacji wymaganych w związku ze sprawowaniem nadzoru skonsolidowanego lub za udzielanie informacji i wyjaśnień na żądanie Komisji Nadzoru Bankowego, nie wykonuje ciążącego na nim obowiązku albo wykonuje go nierzetelnie lub nieterminowo, podlega grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 3.
+
+### 7.
+
+Kto, będąc odpowiedzialnym za sporządzenie lub przedstawienie Komisji Nadzoru Bankowego skonsolidowanego sprawozdania finansowego lub innych sprawozdań związanych z nadzorem skonsolidowanym, nie wykonuje ciążącego na nim obowiązku albo wykonuje go nierzetelnie lub nieterminowo, podlega grzywnie do 500 000 zł lub karze pozbawienia wolności do lat 2.
+
+” ;
+
+### 58)
+
+w art. 178:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Bank, który rozpoczął działalność przed dniem wejścia w życie ustawy, o której mowa w art. 193, i nie posiada zezwolenia Prezesa Narodowego Banku Polskiego na utworzenie banku, jest upoważniony do wykonywania czynności bankowych ustalonych w statucie w zakresie, w jakim nie sprzeciwiają się temu przepisy ustawy.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Bank, o którym mowa w ust. 1, może wykonywać na terytorium państwa goszczącego czynności bankowe ustalone w statucie w zakresie, w jakim nie sprzeciwiają się temu przepisy ustawy.
+
+” ;
+
+### 59)
+
+w art. 184 wyrazy „w art. 27 ust. 1” zastępuje się wyrazami „w art. 4 pkt 8”.
+
+### Art. 2.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html), z [1997 r. Nr 32, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.html), [Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html), [Nr 139, poz. 933 i 934](https://api.sejm.gov.pl/eli/acts/DU/1997/933/text.html), [Nr 140, poz. 939](https://api.sejm.gov.pl/eli/acts/DU/1997/939/text.html)i [Nr 141, poz. 945](https://api.sejm.gov.pl/eli/acts/DU/1997/945/text.html), z [1998 r. Nr 60, poz. 382](https://api.sejm.gov.pl/eli/acts/DU/1998/382/text.html), [Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), [Nr 107, poz. 669](https://api.sejm.gov.pl/eli/acts/DU/1998/669/text.html)i [Nr 155, poz. 1014](https://api.sejm.gov.pl/eli/acts/DU/1998/1014/text.html), z [1999 r. Nr 9, poz. 75](https://api.sejm.gov.pl/eli/acts/DU/1999/75/text.html)i [Nr 83, poz. 931](https://api.sejm.gov.pl/eli/acts/DU/1999/931/text.html), z [2000 r. Nr 60, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/2000/703/text.html), [Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html)i [Nr 113, poz. 1186](https://api.sejm.gov.pl/eli/acts/DU/2000/1186/text.html)oraz z [2001 r. Nr 102, poz. 1117](https://api.sejm.gov.pl/eli/acts/DU/2001/1117/text.html)) w art. 81 w ust. 2 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+po zasięgnięciu opinii Komisji Nadzoru Bankowego:
+
+### a)
+
+szczególne zasady rachunkowości banków, w tym zakres informacji wykazywanych w informacji dodatkowej sprawozdania finansowego,
+
+### b)
+
+zasady sporządzania skonsolidowanych sprawozdań finansowych dla potrzeb wykonywania nadzoru skonsolidowanego, w tym skonsolidowanych sprawozdań finansowych banków oraz skonsolidowanych sprawozdań finansowych holdingu finansowego w rozumieniu ustawy - Prawo bankowe oraz zakres informacji wykazanych w tych sprawozdaniach finansowych,
+
+### c)
+
+zasady tworzenia rezerw na ryzyko związane z działalnością banków,
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 7 grudnia 2000 r. o funkcjonowaniu banków spółdzielczych, ich zrzeszaniu się i bankach zrzeszających ([Dz. U. Nr 119, poz. 1252](https://api.sejm.gov.pl/eli/acts/DU/2000/1252/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+uprawnionych osobach - należy przez to rozumieć osoby, które od dnia przekształcenia Banku Gospodarki Żywnościowej w spółkę akcyjną do dnia wejścia w życie ustawy przepracowały łącznie co najmniej 3 lata w BGŻ S.A., banku spółdzielczym lub banku regionalnym utworzonym na podstawie ustawy z dnia 24 czerwca 1994 r. o restrukturyzacji banków spółdzielczych i Banku Gospodarki Żywnościowej oraz o zmianie niektórych ustaw (Dz. U. Nr 80, poz. 369, z 1995 r. Nr 142, poz. 704, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 121, poz. 770 i Nr 140, poz. 939).
+
+” ;
+
+### 2)
+
+art. 8 otrzymuje brzmienie:
+
+„
+
+### Art. 8.
+
+### 1.
+
+Za zgodą banku zrzeszającego banki spółdzielcze mogą wykonywać czynności, o których mowa w art. 6 pkt 1 i 3-8 ustawy - Prawo bankowe.
+
+### 2.
+
+Zgody banku zrzeszającego nie wymaga obejmowanie lub nabywanie akcji lub praw z akcji lub udziałów banków.
+
+”
+
+### Art. 4.
+
+Do czasu wydania przepisów wykonawczych na podstawie przepisów ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są z nią sprzeczne.
+
+### Art. 5.
+
+### 1.
+
+Do wydanych zgód Prezesa Narodowego Banku Polskiego oraz zezwoleń Komisji Nadzoru Bankowego na nabycie lub objęcie akcji bądź praw z akcji, na podstawie obowiązujących przed dniem wejścia w życie niniejszej ustawy przepisów, stosuje się przepisy dotyczące zezwoleń Komisji Nadzoru Bankowego na wykonywanie prawa głosu na walnym zgromadzeniu akcjonariuszy banku.
+
+### 2.
+
+Do wniosków o wydanie przez Komisję Nadzoru Bankowego zezwolenia na nabycie lub objęcie akcji bądź praw z akcji złożonych przed dniem wejścia w życie ustawy stosuje się przepisy niniejszej ustawy.
+
+### Art. 6.
+
+### 1.
+
+Upoważnia się Narodowy Bank Polski do przekazania nieodpłatnie - do dnia 31 stycznia 2003 r. - Bankowi Gospodarstwa Krajowego niektórych jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części.
+
+### 2.
+
+Wykaz jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części, o których mowa w ust. 1, wraz ze wskazaniem składników majątkowych podlegających przekazaniu, określa umowa między Narodowym Bankiem Polskim a Bankiem Gospodarstwa Krajowego.
+
+### 3.
+
+Pracownicy jednostek organizacyjnych Narodowego Banku Polskiego lub pracownicy, którzy wykonują pracę w ich zorganizowanych częściach podlegających przekazaniu, stają się z mocy prawa pracownikami Banku Gospodarstwa Krajowego od dnia określonego w umowie, o której mowa w ust. 2. Do pracowników tych stosuje się przepis art. 231 Kodeksu pracy.
+
+### 4.
+
+Wartość przejętych składników majątkowych jednostek organizacyjnych Narodowego Banku Polskiego lub ich zorganizowanych części zwiększa fundusz statutowy Banku Gospodarstwa Krajowego.
+
+### Art. 7.
+
+Ogłoszenie tekstu jednolitego ustawy, o której mowa w art. 1, nastąpi w terminie 90 dni od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem przepisów:
+
+### 1)
+
+art. 1 pkt 28, pkt 44, pkt 53 oraz art. 2, które wchodzą w życie z dniem 1 stycznia 2002 r.,
+
+### 2)
+
+art. 1 pkt 39, który wchodzi w życie z dniem 1 stycznia 2003 r.,
+
+### 3)
+
+art. 1 pkt 1, pkt 2 lit. a), pkt 19, pkt 24 w zakresie dotyczącym art. 63g oraz pkt 51, pkt 52 i pkt 58 lit. b), które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.

@@ -1,0 +1,3076 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania \"Działanie rolno-środowiskowo-klimatyczne\" objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020"
+address: WDU20150000415
+eli: DU/2015/415
+publisher: DU
+year: 2015
+pos: 415
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 18 marca 2015 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 415 |
+| ISAP | WDU20150000415 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2015-03-18 |
+| Data wydania | 2015-03-24 |
+| Wejście w życie | 2015-03-25 |
+| Ostatnia zmiana | 2026-03-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/415/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/415) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Minimalne wymogi dotyczące stosowania nawozów i środków ochrony roślin oraz inne odpowiednie obowiązkowe wymogi](#part_2)
+
+- [Załącznik nr 2 - Wymogi dla poszczególnych pakietów](#part_3)
+
+- [Załącznik nr 3 - Zawartość planu działalności rolnośrodowiskowej](#part_4)
+
+- [Załącznik nr 4 - Wykaz upraw, grup upraw, gatunków i odmian roślin, gatunków ptaków, siedlisk przyrodniczych oraz ras zwierząt objętych płatnością rolno-środowiskowo-klimatyczną](#part_5)
+
+- [Załącznik nr 5 - Wykaz obszarów problemowych o niskiej zawartości próchnicy](#part_6)
+
+- [Załącznik nr 6 - Wysokość stawek płatności rolno-środowiskowo-klimatycznej dla poszczególnych pakietów i ich wariantów](#part_7)
+
+- [Załącznik nr 7 - Koszty transakcyjne i wysokość kwoty przeznaczonej na refundację tych kosztów](#part_8)
+
+- [Załącznik nr 8 - Wysokość współczynników dotkliwości uchybienia oraz współczynników trwałości uchybienia stosowanych do dokonywania zmniejszeń płatności rolno-środowiskowo-klimatycznych](#part_9)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 45 ust. 1 pkt 1 i ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. poz. 349](https://api.sejm.gov.pl/eli/acts/DU/2015/349/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa szczegółowe warunki i tryb przyznawania, wypłaty oraz zwrotu pomocy finansowej w ramach działania „Działanie rolno-środowiskowo-klimatyczne” objętego Programem Rozwoju Obszarów Wiejskich na lata 2014-2020, zwanej dalej „płatnością rolno-środowiskowo-klimatyczną”, w tym:
+
+### 1)
+
+formę i tryb składania wniosków o przyznanie płatności rolno-środowiskowo-klimatycznej;
+
+### 2)
+
+szczegółowe wymagania, jakim powinny odpowiadać wnioski o przyznanie płatności rolno-środowiskowo-klimatycznej;
+
+### 3)
+
+przypadki, w których następca prawny podmiotu ubiegającego się o przyznanie płatności rolno-środowiskowo-klimatycznej albo przejmujący posiadanie gospodarstwa rolnego w rozumieniu przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwanego dalej „gospodarstwem rolnym”, lub jego części, lub wszystkich zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym, zwanych dalej „stadem”, może, na swój wniosek, wstąpić do toczącego się postępowania na miejsce tego podmiotu, oraz warunki i tryb wstąpienia do tego postępowania;
+
+### 4)
+
+przypadki, w których następcy prawnemu beneficjenta albo przejmującemu posiadanie gospodarstwa rolnego lub jego części, lub stada jest przyznawana płatność rolno-środowiskowo-klimatyczna, oraz warunki i tryb przyznania tej płatności;
+
+### 5)
+
+wysokość zmniejszeń kwot płatności rolno-środowiskowo-klimatycznej, o których mowa w art. 64 ust. 4 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 ([Dz. Urz. UE L 347 z 20.12.2013, str. 549](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”.
+
+### § 2.
+
+### 1.
+
+Płatność rolno-środowiskowo-klimatyczną przyznaje się rolnikowi lub zarządcy, o których mowa w art. 28 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1305/2013 z dnia 17 grudnia 2013 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i uchylającego rozporządzenie Rady (WE) nr 1698/2005 ([Dz. Urz. UE L 347 z 20.12.2013, str. 487](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 1305/2013”, jeżeli:
+
+### 1)
+
+został mu nadany numer identyfikacyjny w trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności, zwany dalej „numerem identyfikacyjnym”;
+
+### 2)
+
+realizuje 5-letnie zobowiązanie rolno-środowiskowo-klimatyczne, o którym mowa w art. 28 ust. 3 rozporządzenia nr 1305/2013 lub art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) nr 807/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1305/2013 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) i wprowadzającego przepisy przejściowe ([Dz. Urz. UE L 227 z 31.07.2014, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), w ramach określonego pakietu albo jego wariantu, zwane dalej „zobowiązaniem rolno-środowiskowo-klimatycznym”;
+
+### 3)
+
+spełnia warunki przyznania płatności rolno-środowiskowo-klimatycznej w ramach określonych pakietów lub ich wariantów określone w rozporządzeniu.
+
+### 2.
+
+Odpowiednie minimalne wymogi dotyczące stosowania nawozów i środków ochrony roślin oraz inne odpowiednie obowiązkowe wymogi, o których mowa w art. 28 ust. 3 rozporządzenia nr 1305/2013, są wskazane w załączniku nr 1 do rozporządzenia.
+
+### § 3.
+
+### 1.
+
+Zobowiązanie rolno-środowiskowo-klimatyczne jest realizowane w ramach:
+
+### 1)
+
+jednego wariantu albo
+
+### 2)
+
+jednego pakietu - w przypadku gdy pakiet nie obejmuje wariantu.
+
+### 2.
+
+Rolnik lub zarządca, o których mowa w art. 28 ust. 2 rozporządzenia nr 1305/2013, zwani dalej odpowiednio „rolnikiem” lub „zarządcą”, może realizować jednocześnie więcej niż jedno zobowiązanie rolno-środowiskowo-klimatyczne, jeżeli takie zobowiązania zostały podjęte w tym samym roku lub w roku następnym.
+
+### 3.
+
+Rolnik nie może realizować zobowiązania rolno-środowiskowo-klimatycznego, jeżeli realizuje jednocześnie zobowiązanie, o którym mowa w art. 39 rozporządzenia Rady (WE) nr 1698/2005 z dnia 20 września 2005 r. w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) ([Dz. Urz. UE L 277 z 21.10.2005, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwane dalej „zobowiązaniem rolnośrodowiskowym”.
+
+### 4.
+
+Przepisu ust. 3 nie stosuje się, jeżeli rolnik, który realizuje zobowiązanie rolnośrodowiskowe, jest:
+
+### 1)
+
+spadkobiercą innego rolnika, który złożył wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej lub realizował zobowiązanie rolno-środowiskowo-klimatyczne, lub
+
+### 2)
+
+zapisobiercą windykacyjnym, który w wyniku śmierci innego rolnika nabył, jako przedmiot zapisu windykacyjnego:
+
+### a)
+
+grunty lub stado objęte wnioskiem o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej złożonym przez tego rolnika lub objęte zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez tego rolnika lub
+
+### b)
+
+prawo majątkowe, z którym łączy się posiadanie gruntów lub stada, o których mowa w lit. a, lub
+
+### 3)
+
+innym następcą prawnym rolnika, który złożył wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej lub realizował zobowiązanie rolno-środowiskowo-klimatyczne, lub
+
+### 4)
+
+nowym posiadaczem gruntów lub stada objętych wnioskiem o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej złożonym przez innego rolnika lub objętych zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez tego rolnika
+
+- i kontynuuje realizację zobowiązania rolno-środowiskowo-klimatycznego podjętego przez innego rolnika do końca okresu objętego tym zobowiązaniem.
+
+### 5.
+
+W przypadku gdy rolnik lub zarządca zaprzestał realizacji zobowiązania rolnośrodowiskowego lub zobowiązania rolno-środowiskowo-klimatycznego, lub zobowiązania, o którym mowa w art. 29 ust. 2 rozporządzenia nr 1305/2013, zwanego dalej „zobowiązaniem ekologicznym”, to w okresie, w którym powinien realizować te zobowiązania, nie może podjąć zobowiązania rolno-środowiskowo-klimatycznego.
+
+### 6.
+
+Przepisu ust. 5 nie stosuje się w przypadku, gdy zobowiązanie rolnośrodowiskowe utraciło ważność na podstawie art. 46 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) ([Dz. Urz. UE L 368 z 23.12.2006, str. 15](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+### § 4.
+
+### 1.
+
+Określa się następujące pakiety i ich warianty:
+
+### 1)
+
+Pakiet 1. Rolnictwo zrównoważone;
+
+### 2)
+
+Pakiet 2. Ochrona gleb i wód:
+
+### a)
+
+Wariant 2.1. Międzyplony,
+
+### b)
+
+Wariant 2.2. Pasy ochronne na stokach o nachyleniu powyżej 20%;
+
+### 3)
+
+Pakiet 3. Zachowanie sadów tradycyjnych odmian drzew owocowych;
+
+### 4)
+
+Pakiet 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000:
+
+### a)
+
+Wariant 4.1. Zmiennowilgotne łąki trzęślicowe,
+
+### b)
+
+Wariant 4.2. Zalewowe łąki selernicowe i słonorośla,
+
+### c)
+
+Wariant 4.3. Murawy,
+
+### d)
+
+Wariant 4.4. Półnaturalne łąki wilgotne,
+
+### e)
+
+Wariant 4.5. Półnaturalne łąki świeże,
+
+### f)
+
+Wariant 4.6.1. Torfowiska - wymogi obowiązkowe,
+
+### g)
+
+Wariant 4.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające,
+
+### h)
+
+Wariant 4.7. Ekstensywne użytkowanie na obszarach specjalnej ochrony ptaków (OSO),
+
+### i)
+
+Wariant 4.8. Ochrona siedlisk lęgowych ptaków: rycyka, kszyka, krwawodzioba lub czajki,
+
+### j)
+
+Wariant 4.9. Ochrona siedlisk lęgowych ptaków: wodniczki,
+
+### k)
+
+Wariant 4.10. Ochrona siedlisk lęgowych ptaków: dubelta lub kulika wielkiego,
+
+### l)
+
+Wariant 4.11. Ochrona siedlisk lęgowych ptaków: derkacza;
+
+### 5)
+
+Pakiet 5. Cenne siedliska poza obszarami Natura 2000:
+
+### a)
+
+Wariant 5.1. Zmiennowilgotne łąki trzęślicowe,
+
+### b)
+
+Wariant 5.2. Zalewowe łąki selernicowe i słonorośla,
+
+### c)
+
+Wariant 5.3. Murawy,
+
+### d)
+
+Wariant 5.4. Półnaturalne łąki wilgotne,
+
+### e)
+
+Wariant 5.5. Półnaturalne łąki świeże,
+
+### f)
+
+Wariant 5.6.1. Torfowiska - wymogi obowiązkowe,
+
+### g)
+
+Wariant 5.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające;
+
+### 6)
+
+Pakiet 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie:
+
+### a)
+
+Wariant 6.1. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przypadku uprawy,
+
+### b)
+
+Wariant 6.2. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przypadku wytwarzania nasion lub materiału siewnego;
+
+### 7)
+
+Pakiet 7. Zachowanie zagrożonych zasobów genetycznych zwierząt w rolnictwie:
+
+### a)
+
+Wariant 7.1. Zachowanie lokalnych ras bydła,
+
+### b)
+
+Wariant 7.2. Zachowanie lokalnych ras koni,
+
+### c)
+
+Wariant 7.3. Zachowanie lokalnych ras owiec,
+
+### d)
+
+Wariant 7.4. Zachowanie lokalnych ras świń,
+
+### e)
+
+Wariant 7.5. Zachowanie lokalnych ras kóz.
+
+### 2.
+
+Rolnik lub zarządca realizujący zobowiązanie rolno-środowiskowo-klimatyczne:
+
+### 1)
+
+posiada plan działalności rolnośrodowiskowej, który sporządza się przed upływem 25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności bezpośredniej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, przy udziale odpowiednio doradcy rolnośrodowiskowego lub eksperta przyrodniczego, na formularzu udostępnionym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa, zwaną dalej „Agencją”;
+
+### 2)
+
+nie może przekształcać występujących w gospodarstwie rolnym trwałych użytków zielonych i pastwisk trwałych w rozumieniu art. 4 ust. 1 lit. h rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009 ([Dz. Urz. UE L 347 z 20.12.2013, str. 608](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanych dalej „trwałymi użytkami zielonymi”;
+
+### 3)
+
+zachowuje elementy krajobrazu rolniczego nieużytkowane rolniczo, tworzące ostoje przyrody, określone w planie działalności rolnośrodowiskowej;
+
+### 4)
+
+prowadzi na formularzu udostępnionym przez Agencję rejestr działalności rolnośrodowiskowej zawierający wykaz:
+
+### a)
+
+działań agrotechnicznych, w tym zastosowania nawozów i wykonania zabiegów przy użyciu środków ochrony roślin,
+
+### b)
+
+wypasów zwierząt - w przypadku prowadzenia wypasu;
+
+### 5)
+
+przestrzega innych wymogów, które są określone dla poszczególnych pakietów lub ich wariantów w załączniku nr 2 do rozporządzenia.
+
+### 3.
+
+Rolnik i zarządca realizujący zobowiązanie rolno-środowiskowo-klimatyczne przestrzegają również wymogów określonych przez:
+
+### 1)
+
+doradcę rolnośrodowiskowego w planie działalności rolnośrodowiskowej - w przypadku:
+
+### a)
+
+pakietu wymienionego w ust. 1 pkt 3,
+
+### b)
+
+wariantu 4.7.,
+
+### 2)
+
+eksperta przyrodniczego w dokumentacji przyrodniczej stanowiącej szczegółową charakterystykę danego siedliska przyrodniczego lub siedliska lęgowego ptaków, sporządzoną przez eksperta przyrodniczego, w roku poprzedzającym rok rozpoczęcia lub w roku rozpoczęcia realizacji zobowiązania rolno-środowiskowo-klimatycznego w ramach danego wariantu, zgodnie z metodyką sporządzania takiej dokumentacji udostępnioną przez Agencję, na formularzu udostępnionym przez Agencję, zwaną dalej „dokumentacją przyrodniczą” - w przypadku pakietu wymienionego w ust. 1 pkt 4 i 5, z wyłączeniem wariantu 4.7.
+
+- chyba że te wymogi są sprzeczne z wymogami określonymi w rozporządzeniu.
+
+### 4.
+
+W przypadku gdy rolnik jednocześnie realizuje zobowiązanie rolno-środowiskowo-klimatyczne i zobowiązanie ekologiczne:
+
+### 1)
+
+rejestr działalności rolnośrodowiskowej może być prowadzony na jednym formularzu z rejestrem działalności ekologicznej prowadzonym w ramach realizowanego przez tego rolnika zobowiązania ekologicznego;
+
+### 2)
+
+plan działalności rolnośrodowiskowej może być sporządzony na jednym formularzu z planem działalności ekologicznej sporządzonym w ramach realizowanego przez tego rolnika zobowiązania ekologicznego.
+
+### 5.
+
+Plan działalności rolnośrodowiskowej zawiera elementy, które są określone w załączniku nr 3 do rozporządzenia.
+
+### § 5.
+
+### 1.
+
+Zobowiązanie rolno-środowiskowo-klimatyczne obejmuje:
+
+### 1)
+
+użytki rolne w rozumieniu art. 2 ust. 1 akapit drugi lit. f rozporządzenia nr 1305/2013, zwane dalej „użytkami rolnymi”, lub obszar gruntów niebędących użytkami rolnymi, na których występują typy siedlisk przyrodniczych lub siedliska lęgowe ptaków wymienione w ust. 3 pkt 1 lit. b, c lub f lub w pkt 3 załącznika nr 4 do rozporządzenia, zwanych dalej „obszarami przyrodniczymi”, zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danego pakietu lub danego wariantu, objęte obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia delegowanego Komisji (UE) nr 640/2014 z dnia 11 marca 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1306/2013 w odniesieniu do zintegrowanego systemu zarządzania i kontroli oraz warunków odmowy lub wycofania płatności oraz do kar administracyjnych mających zastosowanie do płatności bezpośrednich, wsparcia rozwoju obszarów wiejskich oraz zasady wzajemnej zgodności ([Dz. Urz. UE L 181 z 20.06.2014, str. 48](https://api.sejm.gov.pl/eli/acts//text.html)), zwanego dalej „rozporządzeniem nr 640/2014”, a w przypadku, o którym mowa w art. 18 ust. 6 akapit drugi rozporządzenia nr 640/2014 - użytki rolne lub obszary przyrodnicze zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danego pakietu lub danego wariantu, objęte obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia nr 640/2014 lub
+
+### 2)
+
+zwierzęta ras lokalnych zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danego wariantu, będące zwierzętami zatwierdzonymi w rozumieniu art. 2 ust. 1 akapit drugi pkt 18 lit. b rozporządzenia nr 640/2014.
+
+### 2.
+
+Zobowiązanie rolno-środowiskowo-klimatyczne realizowane w ramach pakietu wymienionego w § 4 ust. 1 pkt 1 obejmuje użytki rolne zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej.
+
+### 3.
+
+W przypadku gdy rolnik zadeklarował we wniosku o przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej grunty orne w rozumieniu art. 4 ust. 1 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009, zwane dalej „gruntami ornymi”, które nie zostały zadeklarowane we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej, zobowiązanie rolno-środowiskowo-klimatyczne realizowane w ramach pakietu wymienionego w § 4 ust. 1 pkt 1 obejmuje również te grunty, lecz jedynie w zakresie przestrzegania wymogu, o którym mowa w części I ust. 1 załącznika nr 2 do rozporządzenia.
+
+### 4.
+
+Rolnik lub zarządca realizuje zobowiązanie rolno-środowiskowo-klimatyczne od dnia 15 marca roku, w którym został złożony wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej.
+
+### 5.
+
+Jeżeli nie są spełnione warunki przyznania płatności rolno-środowiskowo-klimatycznej:
+
+### 1)
+
+zobowiązanie rolno-środowiskowo-klimatyczne wygasa,
+
+### 2)
+
+uznaje się, że rolnik zaprzestał realizacji zobowiązania rolno-środowiskowo-klimatycznego
+
+- w zakresie, w jakim nie są spełnione te warunki, chyba że niespełnienie tych warunków jest skutkiem działania siły wyższej lub wystąpienia nadzwyczajnych okoliczności, o których mowa w art. 2 ust. 2 rozporządzenia nr 1306/2013.
+
+### § 6.
+
+### 1.
+
+Wielkość obszaru objętego zobowiązaniem rolno-środowiskowo-klimatycznym oraz miejsce realizacji tego zobowiązania nie podlegają zmianie w trakcie jego realizacji, z wyjątkiem:
+
+### 1)
+
+zmiany wielkości obszaru objętego zobowiązaniem rolno-środowiskowo-klimatycznym w ramach wariantu 2.1., lecz nie więcej niż o 15% w stosunku do wielkości obszaru objętego tym zobowiązaniem w pierwszym roku jego realizacji, lub zmiany miejsca realizacji tego zobowiązania;
+
+### 2)
+
+zmiany wielkości obszaru objętego zobowiązaniem rolno-środowiskowo-klimatycznym w ramach danego wariantu pakietu wymienionego w § 4 ust. 1 pkt 6 lub zmiany miejsca realizacji tego zobowiązania.
+
+### 2.
+
+W ramach realizacji zobowiązania rolno-środowiskowo-klimatycznego rolnik może dokonywać zmiany uprawianych roślin lub miejsca ich uprawy objętych tym zobowiązaniem, pod warunkiem że mimo dokonania tych zmian są spełnione warunki przyznania płatności rolno-środowiskowo-klimatycznej z tytułu realizacji tego zobowiązania, a zmiany te nie powodują zmiany tego zobowiązania niedopuszczalnej zgodnie z ust. 1.
+
+### 3.
+
+W przypadku uprawy rośliny dwuletniej określonej w ust. 4 załącznika nr 4 do rozporządzenia zmiany, o których mowa w ust. 2, są dopuszczalne po upływie dwóch lat uprawy tej rośliny.
+
+### 4.
+
+W przypadku uprawy drzew owocowych lub w przypadku trwałych użytków zielonych lub obszarów przyrodniczych zmiany, o których mowa w ust. 2, są niedopuszczalne.
+
+### 5.
+
+Jeżeli w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego w ramach wariantu pakietu wymienionego w § 4 ust. 1 pkt 5 obszary objęte tym zobowiązaniem zostaną objęte obszarem Natura 2000, zobowiązanie to staje się zobowiązaniem rolno-środowiskowo-klimatycznym w ramach odpowiedniego wariantu pakietu wymienionego w § 4 ust. 1 pkt 4.
+
+### 6.
+
+Jeżeli w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego w ramach wariantu pakietu wymienionego w § 4 ust. 1 pkt 4 obszary objęte tym zobowiązaniem zostaną wyłączone z obszaru Natura 2000, zobowiązanie to staje się zobowiązaniem w ramach odpowiedniego wariantu pakietu wymienionego w § 4 ust. 1 pkt 5.
+
+### 7.
+
+Przepisu ust. 6 nie stosuje się w przypadku realizacji zobowiązania rolno-środowiskowo-klimatycznego w ramach wariantów 4.7.-4.11.
+
+### § 7.
+
+### 1.
+
+Zmiana zobowiązania rolno-środowiskowo-klimatycznego w ramach danego wariantu pakietu wymienionego w § 4 ust. 1 pkt 7 może polegać jedynie na:
+
+### 1)
+
+zwiększeniu liczby zwierząt danej rasy lokalnej objętych tym zobowiązaniem lub zmniejszeniu liczby tych zwierząt, jeżeli mimo tego zmniejszenia liczba tych zwierząt nie będzie niższa niż liczba zwierząt danej rasy objętych tym zobowiązaniem w pierwszym roku jego realizacji;
+
+### 2)
+
+zastąpieniu, zgodnie z art. 30 ust. 2 rozporządzenia nr 640/2014, zwierząt danej rasy lokalnej objętych tym zobowiązaniem zwierzętami tej samej rasy, jeżeli zwierzęta te spełniają warunki przyznania płatności rolno-środowiskowo-klimatycznej.
+
+### 2.
+
+Zastąpienia, o którym mowa w ust. 1 pkt 2, dokonuje się w terminie 40 dni od dnia powzięcia informacji o konieczności zastąpienia zwierzęcia.
+
+### § 8.
+
+### 1.
+
+Zmianę zobowiązania rolno-środowiskowo-klimatycznego zgłasza się kierownikowi biura powiatowego Agencji we wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej na rok, w którym rolnik lub zarządca realizuje zmienione zobowiązanie rolno-środowiskowo-klimatyczne, chyba że przepisy rozporządzenia stanowią inaczej.
+
+### 2.
+
+O zastąpieniu, o którym mowa w § 7 ust. 1 pkt 2, rolnik informuje kierownika biura powiatowego Agencji w terminie 30 dni od dnia jego dokonania, składając kopię dokumentu, sporządzonego na formularzu udostępnionym przez Agencję, obejmującego oświadczenia:
+
+### 1)
+
+rolnika,
+
+### 2)
+
+podmiotu prowadzącego księgi hodowlane - w przypadku klaczy, loch, owiec matek i kóz matek,
+
+### 3)
+
+podmiotu upoważnionego do realizacji lub koordynacji działań w zakresie ochrony zasobów genetycznych - w przypadku krów, klaczy, owiec matek i kóz matek
+
+- zawierające wskazanie zwierząt, jakie zostały zastąpione i jakimi je zastąpiono.
+
+### 3.
+
+W przypadku gdy zastąpienie, o którym mowa w § 7 ust. 1 pkt 2, zostało dokonane w terminie określonym do składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, lecz przed dniem złożenia wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej, o zastąpieniu, o którym mowa w § 7 ust. 1 pkt 2, rolnik może poinformować kierownika biura powiatowego Agencji, dołączając do wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej kopię dokumentu, o którym mowa w § 20 ust. 3.
+
+### § 9.
+
+### 1.
+
+Płatność rolno-środowiskowo-klimatyczna do tego samego obszaru może być przyznana z tytułu realizacji tylko jednego zobowiązania rolno-środowiskowo-klimatycznego.
+
+### 2.
+
+W przypadku gdy rolnik lub zarządca ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej do tego samego obszaru z tytułu realizacji więcej niż jednego zobowiązania rolno-środowiskowo-klimatycznego, to płatność ta przysługuje z tytułu realizacji tego zobowiązania, w ramach którego przewidziano wyższą stawkę płatności do 1 ha.
+
+### 3.
+
+Jeżeli na danym obszarze jest realizowane zobowiązanie ekologiczne, do tego obszaru nie przysługuje płatność rolno-środowiskowo-klimatyczna.
+
+### 4.
+
+Płatność rolno-środowiskowo-klimatyczna w ramach pakietu wymienionego w § 4 ust. 1 pkt 1 nie może być przyznana w przypadku równoczesnej realizacji zobowiązania:
+
+### 1)
+
+rolno-środowiskowo-klimatycznego w ramach wariantu pakietów wymienionych w § 4 ust. 1 pkt 2 lub 6;
+
+### 2)
+
+ekologicznego.
+
+### § 10.
+
+### 1.
+
+Płatność rolno-środowiskowo-klimatyczna w ramach pakietu wymienionego w § 4 ust. 1:
+
+### 1)
+
+pkt 1 - jest przyznawana, jeżeli rolnik nie uprawia tytoniu i nie posiada gruntów ugorowanych;
+
+### 2)
+
+pkt 4 - jest przyznawana, jeżeli rolnik lub zarządca posiada dokumentację przyrodniczą;
+
+### 3)
+
+pkt 5 - jest przyznawana, jeżeli rolnik lub zarządca posiada dokumentację przyrodniczą;
+
+### 4)
+
+pkt 7 - jest przyznawana, jeżeli rolnik utrzymuje wpisane do księgi hodowlanej krowy, klacze, lochy, owce matki lub kozy matki ras wymienionych w ust. 5 załącznika nr 4 do rozporządzenia, objęte programem ochrony zasobów genetycznych.
+
+### 2.
+
+Przepisu ust. 1 pkt 2 nie stosuje się do przyznawania płatności rolno-środowiskowo-klimatycznej w ramach wariantu 4.7.
+
+### § 11.
+
+### 1.
+
+W przypadku pakietu wymienionego w § 4 ust. 1:
+
+### 1)
+
+pkt 1, płatność rolno-środowiskowo-klimatyczna jest przyznawana, jeżeli łączna powierzchnia posiadanych przez rolnika użytków rolnych wynosi co najmniej 3 ha;
+
+### 2)
+
+pkt 2, 3, 6 i 7, płatność rolno-środowiskowo-klimatyczna jest przyznawana, jeżeli łączna powierzchnia posiadanych przez rolnika użytków rolnych wynosi co najmniej 1 ha;
+
+### 3)
+
+pkt 4 i 5, płatność rolno-środowiskowo-klimatyczna jest przyznawana, jeżeli łączna powierzchnia posiadanych przez:
+
+### a)
+
+rolnika użytków rolnych lub obszarów przyrodniczych wynosi co najmniej 1 ha,
+
+### b)
+
+zarządcę obszarów przyrodniczych wynosi co najmniej 1 ha.
+
+### 2.
+
+Jeżeli rolnik nie spełnia warunku określonego w ust. 1 pkt 1, 2 lub pkt 3 lit. a, płatność rolno-środowiskowo-klimatyczna może mu zostać przyznana, w przypadku gdy warunek taki spełnia łącznie co najmniej z jednym rolnikiem lub zarządcą ubiegającymi się o przyznanie płatności rolno-środowiskowo-klimatycznej.
+
+### 3.
+
+Jeżeli zarządca nie spełnia warunku określonego w ust. 1 pkt 3 lit. b, płatność rolno-środowiskowo-klimatyczna może mu zostać przyznana, w przypadku gdy warunek taki spełnia łącznie co najmniej z jednym rolnikiem albo jednym rolnikiem i zarządcą ubiegającymi się o przyznanie płatności rolno-środowiskowo-klimatycznej.
+
+### 4.
+
+W przypadku pakietów wymienionych w § 4 ust. 1 pkt 1-6, płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntu, na którym jest położona działka rolna w rozumieniu art. 67 ust. 4 lit. a rozporządzenia nr 1306/2013, o powierzchni co najmniej 0,1 ha, zwanej dalej „działką rolną”.
+
+### 5.
+
+W przypadku gdy na działce rolnej występują drzewa, płatność rolno-środowiskowo-klimatyczna może być przyznana do gruntu, na którym jest położona ta działka, jeżeli:
+
+### 1)
+
+występujące na tym gruncie drzewa są rozrzucone, a liczba tych drzew na hektar tego gruntu nie przekracza 100 drzew;
+
+### 2)
+
+na tym gruncie można prowadzić działalność rolniczą w podobny sposób, jak na gruncie o takiej samej powierzchni, na którym drzewa nie występują.
+
+### 6.
+
+Warunków określonych w ust. 5 nie stosuje się do działki rolnej położonej na obszarze przyrodniczym oraz do działki rolnej położonej na gruncie, do którego rolnik ubiega się o płatność rolno-środowiskowo-klimatyczną w ramach pakietu wymienionego w § 4 ust. 1 pkt 3.
+
+### 7.
+
+Elementy krajobrazu, o których mowa w art. 9 ust. 1 rozporządzenia nr 640/2014, określone w przepisach wydanych na podstawie art. 8 ust. 3 pkt 2 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego ([Dz. U. poz. 308](https://api.sejm.gov.pl/eli/acts/DU/2015/308/text.html)) uznaje się za część działki rolnej, jeżeli ich szerokość nie przekracza szerokości określonej w tych przepisach.
+
+### 8.
+
+Jeżeli rolnik nie spełnia warunku określonego w ust. 1 pkt 1, 2 lub pkt 3 lit. a, wszyscy rolnicy łącznie spełniający ten warunek posiadają ten sam plan działalności rolnośrodowiskowej sporządzony zgodnie z § 4 ust. 2 pkt 1.
+
+### 9.
+
+Jeżeli zarządca nie spełnia warunku określonego w ust. 1 pkt 3 lit. b, zarządca ten i rolnicy lub zarządcy łącznie z nim spełniający ten warunek posiadają ten sam plan działalności rolnośrodowiskowej sporządzony zgodnie z § 4 ust. 2 pkt 1.
+
+### § 12.
+
+### 1.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 1, płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntów ornych, na których występują uprawy w rozumieniu art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009, wymienione w ust. 1 załącznika nr 4 do rozporządzenia, przy czym w przypadku roślin wieloletnich mogą one występować na gruntach ornych przez okres nie dłuższy niż 3 lata w okresie zobowiązania.
+
+### 2.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 2, płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntów ornych, na których:
+
+### 1)
+
+po plonie głównym są uprawiane mieszanki roślin jako międzyplon - w przypadku wariantu 2.1.,
+
+### 2)
+
+w roku złożenia wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej zakładane są pasy traw o szerokości nie mniejszej niż 6 metrów, założone w poprzek stoku - w przypadku wariantu 2.2.
+
+- jeżeli grunty te są położone na obszarach szczególnie zagrożonych erozją wodną, których wykaz jest określony w przepisach w sprawie norm w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska, lub na obszarach problemowych o niskiej zawartości próchnicy, których wykaz jest określony w załączniku nr 5 do rozporządzenia, lub obszarach szczególnie narażonych na zanieczyszczenia azotanami pochodzenia rolniczego (OSN), wyznaczonych zgodnie z art. 47 ust. 3 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2012 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2012/145/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146.](#gloss-0:2:)), a w przypadku pasów traw, jeżeli dodatkowo co najmniej część gruntów położonych na działce ewidencyjnej, na której występują te pasy, jest położonych na stoku o nachyleniu powyżej 20%.
+
+### 3.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 3, płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntów, na których są uprawiane drzewa owocowe odmian wymienionych w ust. 2 załącznika nr 4 do rozporządzenia lub odmian tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej przed 1950 r.
+
+### 4.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 4, płatność rolno-środowiskowo-klimatyczna jest przyznawana do:
+
+### 1)
+
+trwałych użytków zielonych, na których występują:
+
+### a)
+
+siedliska przyrodnicze, których typy są wymienione w ust. 3 pkt 1 załącznika nr 4 do rozporządzenia, jeżeli są położone na specjalnym obszarze ochrony siedlisk albo na obszarze specjalnej ochrony ptaków, albo na obszarze mającym znaczenie dla Wspólnoty, w rozumieniu przepisów o ochronie przyrody - w przypadku wariantów 4.1.-4.6.,
+
+### b)
+
+siedliska lęgowe ptaków z gatunków wymienionych w ust. 3 pkt 3 załącznika nr 4 do rozporządzenia, jeżeli są położone na obszarze specjalnej ochrony ptaków, w rozumieniu przepisów o ochronie przyrody - w przypadku wariantów 4.8.-4.11.;
+
+### 2)
+
+obszarów przyrodniczych, na których występują:
+
+### a)
+
+siedliska przyrodnicze, których typy są wymienione w ust. 3 pkt 1 lit. b, c lub f załącznika nr 4 do rozporządzenia, jeżeli są położone na specjalnym obszarze ochrony siedlisk albo na obszarze specjalnej ochrony ptaków, albo na obszarze mającym znaczenie dla Wspólnoty, w rozumieniu przepisów o ochronie przyrody - w przypadku wariantu 4.2., 4.3. lub 4.6.,
+
+### b)
+
+siedliska lęgowe ptaków z gatunków wymienionych w ust. 3 pkt 3 załącznika nr 4 do rozporządzenia, jeżeli są położone na obszarze specjalnej ochrony ptaków, w rozumieniu przepisów o ochronie przyrody - w przypadku wariantów 4.8.-4.11.;
+
+### 3)
+
+trwałych użytków zielonych położonych na obszarze specjalnej ochrony ptaków, w rozumieniu przepisów o ochronie przyrody - w przypadku wariantu 4.7.
+
+### 5.
+
+Jeżeli dla danego obszaru Natura 2000 został ustanowiony plan ochrony albo plan zadań ochronnych, płatność rolno-środowiskowo-klimatyczna w ramach wariantów pakietu wymienionego w § 4 ust. 1 pkt 4 jest przyznawana, jeżeli działania obligatoryjne zawarte w tym planie nie są sprzeczne z wymogami określonymi dla danego wariantu.
+
+### 6.
+
+W przypadku wariantów 4.7.-4.11., płatność rolno-środowiskowo-klimatyczna może być przyznana do gruntów, o których mowa w ust. 4, położonych poza obszarem Natura 2000, jeżeli są objęte zobowiązaniem rolno-środowiskowo-klimatycznym w ramach tych wariantów i zostały w trakcie jego realizacji wyłączone z obszaru Natura 2000.
+
+### 7.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 5, płatność rolno-środowiskowo-klimatyczna jest przyznawana do położonych poza obszarem Natura 2000:
+
+### 1)
+
+trwałych użytków zielonych, na których występują siedliska przyrodnicze, których typy są wymienione w ust. 3 pkt 1 załącznika nr 4 do rozporządzenia - w przypadku wszystkich wariantów tego pakietu;
+
+### 2)
+
+obszarów przyrodniczych, na których występują siedliska przyrodnicze, których typy są wymienione w ust. 3 pkt 1 lit. b, c lub f załącznika nr 4 do rozporządzenia - w przypadku wariantu 5.2., 5.3. lub 5.6.
+
+### 8.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 6, płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntów ornych, na których są uprawiane rośliny odmian regionalnych i amatorskich wpisanych do rejestru odmian prowadzonego na podstawie przepisów o nasiennictwie, zwanego dalej „krajowym rejestrem”, lub rośliny gatunków lub odmian wymienionych w ust. 4 załącznika nr 4 do rozporządzenia.
+
+### § 13.
+
+### 1.
+
+W przypadku wariantu 6.2., płatność rolno-środowiskowo-klimatyczna jest przyznawana do gruntów ornych, których łączna powierzchnia wynosi nie mniej niż wielkość powierzchni plantacji nasiennych roślin odmian regionalnych i amatorskich wpisanych do krajowego rejestru, określona dla wytwarzania materiału siewnego kategorii kwalifikowany w przepisach o nasiennictwie.
+
+### 2.
+
+Do gruntów, na których jest uprawiana roślina danego gatunku lub odmiany, płatność rolno-środowiskowo-klimatyczna w ramach wszystkich wariantów pakietu wymienionego w § 4 ust. 1 pkt 6 jest przyznawana do łącznej powierzchni uprawy rośliny danego gatunku lub odmiany, nie większej niż 5 ha.
+
+### § 14.
+
+### 1.
+
+Płatność rolno-środowiskowo-klimatyczna jest przyznawana do krów, klaczy, loch, owiec matek lub kóz matek, jeżeli ich liczba w stadzie wynosi co najmniej:
+
+### 1)
+
+4 krowy tej samej rasy;
+
+### 2)
+
+2 klacze tej samej rasy;
+
+### 3)
+
+10 owiec matek rasy olkuskiej, 15 owiec matek rasy cakiel podhalański, barwna owca górska, polska owca pogórza, czarnogłówka, 30 owiec matek rasy merynos polski w starym typie albo 10 owiec matek pozostałych ras;
+
+### 4)
+
+10 loch rasy puławskiej;
+
+### 5)
+
+8 loch rasy złotnickiej białej, a w przypadku stada objętego programem ochrony zasobów genetycznych przed dniem 1 stycznia 2006 r. - 6 loch;
+
+### 6)
+
+8 loch rasy złotnickiej pstrej, a w przypadku stada objętego programem ochrony zasobów genetycznych przed dniem 1 stycznia 2006 r. - 3 lochy;
+
+### 7)
+
+3 kozy matki.
+
+### 2.
+
+Płatność rolno-środowiskowo-klimatyczna przysługuje do nie więcej niż 100 krów lub do 70 loch stada podstawowego rasy puławskiej lub do 100 loch rasy złotnickiej białej lub do 100 loch rasy złotnickiej pstrej, utrzymywanych w jednym stadzie.
+
+### § 15.
+
+### 1.
+
+Wysokość płatności rolno-środowiskowo-klimatycznej w danym roku ustala się jako iloczyn stawek płatności za:
+
+### 1)
+
+hektar gruntu i powierzchni gruntów, do których przysługuje płatność rolno-środowiskowo-klimatyczna - w przypadku pakietów wymienionych w § 4 ust. 1 pkt 1-6 lub
+
+### 2)
+
+sztukę zwierzęcia i liczby zwierząt, do których przysługuje płatność rolno-środowiskowo-klimatyczna - w przypadku pakietu, o którym mowa w § 4 ust. 1 pkt 7
+
+- po uwzględnieniu zmniejszeń lub wykluczeń wynikających ze stwierdzonych nieprawidłowości lub niezgodności.
+
+### 2.
+
+Wysokość stawek płatności, o których mowa w ust. 1, dla poszczególnych pakietów i ich wariantów jest określona w załączniku nr 6 do rozporządzenia.
+
+### 3.
+
+Przy ustalaniu wysokości płatności rolno-środowiskowo-klimatycznej przysługującej do gruntów uwzględnia się powierzchnię działek rolnych, nie większą jednak niż maksymalny kwalifikowalny obszar, o którym mowa odpowiednio w art. 5 ust. 2 lit. b rozporządzenia nr 640/2014, określony w systemie identyfikacji działek rolnych, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+
+### § 16.
+
+### 1.
+
+W przypadku pakietów wymienionych w § 4 ust. 1 pkt 1, 2 i 4-6, płatność rolno-środowiskowo-klimatyczna jest przyznawana w wysokości:
+
+### 1)
+
+100% stawki płatności - za powierzchnię gruntów od 0,1 ha do 50 ha;
+
+### 2)
+
+75% stawki płatności - za powierzchnię gruntów powyżej 50 ha do 100 ha;
+
+### 3)
+
+60% stawki płatności - za powierzchnię gruntów powyżej 100 ha.
+
+### 2.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 4, przepis ust. 1 stosuje się wyłącznie do przyznawania płatności rolno-środowiskowo-klimatycznej do gruntów położonych poza obszarem parków narodowych.
+
+### 3.
+
+W przypadku realizacji więcej niż jednego pakietu lub wariantu, płatność rolno-środowiskowo-klimatyczna jest przyznawana w wysokości 100% stawki płatności, jeżeli łączna powierzchnia gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów, nie przekracza powierzchni 50 ha.
+
+### 4.
+
+Gdy łączna powierzchnia gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów, przekracza powierzchnię 50 ha, płatność rolno-środowiskowo-klimatyczna w ramach poszczególnych pakietów lub wariantów jest przyznawana w wysokości 100% stawki płatności za powierzchnię gruntów:
+
+### 1)
+
+stanowiącą iloczyn:
+
+### a)
+
+50 ha powierzchni oraz
+
+### b)
+
+procentowego udziału powierzchni gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach danego pakietu lub wariantu, w łącznej powierzchni gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów;
+
+### 2)
+
+nie większą jednak niż powierzchnia 50 ha.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 4, gdy łączna powierzchnia gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów, nie przekracza powierzchni 100 ha, płatność rolno-środowiskowo-klimatyczna za pozostałą powierzchnię gruntów, do której ta płatność przysługuje, jest przyznawana w wysokości 75% stawki płatności.
+
+### 6.
+
+Gdy łączna powierzchnia gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów, przekracza powierzchnię 100 ha, płatność rolno-środowiskowo-klimatyczna w ramach poszczególnych pakietów lub wariantów jest przyznawana w wysokości 75% stawki płatności za powierzchnię gruntów:
+
+### 1)
+
+stanowiącą iloczyn:
+
+### a)
+
+50 ha oraz
+
+### b)
+
+procentowego udziału powierzchni gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach danego pakietu lub wariantu, w łącznej powierzchni gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach wszystkich realizowanych pakietów lub wariantów;
+
+### 2)
+
+nie większą jednak niż powierzchnia 50 ha.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 6, płatność rolno-środowiskowo-klimatyczna za pozostałą powierzchnię gruntów, do której ta płatność przysługuje, jest przyznawana w wysokości 60% stawki płatności.
+
+### 8.
+
+Udział, o którym mowa w ust. 4 pkt 1 lit. b oraz w ust. 6 pkt 1 lit. b, ustala się do ośmiu miejsc po przecinku, a powierzchnię gruntów, do której przysługuje płatność rolno-środowiskowo-klimatyczna w ramach poszczególnych pakietów lub wariantów, wyrażoną w hektarach - do dwóch miejsc po przecinku.
+
+### § 17.
+
+W przypadku wariantu 2.1., realizowanego na gruntach ornych położonych na obszarach zagrożonych erozją wodną, których wykaz jest określony w przepisach w sprawie norm w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska, płatność rolno-środowiskowo-klimatyczna w części przysługującej za realizację tego wariantu na tych gruntach jest przyznawana do powierzchni nie większej niż 70% powierzchni tych gruntów.
+
+### § 18.
+
+### 1.
+
+Rolnikowi lub zarządcy może zostać przyznana kwota przeznaczona na refundację kosztów transakcyjnych w rozumieniu art. 2 ust. 1 akapit drugi lit. e rozporządzenia nr 1305/2013, zwanych dalej „kosztami transakcyjnymi”, poniesionych z tytułu:
+
+### 1)
+
+sporządzenia dokumentacji przyrodniczej dla siedlisk przyrodniczych lub siedlisk lęgowych ptaków położonych na trwałych użytkach zielonych lub obszarach przyrodniczych, zadeklarowanych we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej, objętych obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia nr 640/2014 - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 i 5, z wyłączeniem wariantu 4.7.,
+
+### 2)
+
+wykonania w laboratoriach urzędowych lub akredytowanych, o których mowa w art. 44 ustawy z dnia 9 listopada 2012 r. o nasiennictwie ([Dz. U. poz. 1512](https://api.sejm.gov.pl/eli/acts/DU/2012/1512/text.html) oraz [z 2013 r. poz. 865](https://api.sejm.gov.pl/eli/acts/DU/2013/865/text.html)), oceny wytworzonego materiału siewnego lub nasion potwierdzającej wymaganą jakość wytworzonego materiału siewnego lub nasion uprawianych na gruntach ornych, zadeklarowanych we wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej, objętych obszarem zatwierdzonym w rozumieniu art. 2 ust. 1 akapit drugi pkt 23 lit. b rozporządzenia nr 640/2014 - w przypadku wariantu 6.2.
+
+- jeżeli są spełnione warunki przyznania płatności rolno-środowiskowo-klimatycznej w ramach danego pakietu lub wariantu.
+
+### 2.
+
+Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych poniesionych z tytułu, o którym mowa w ust. 1 pkt 1, ustala się zgodnie z ust. 1 załącznika nr 7 do rozporządzenia, w którym są określone koszty transakcyjne, z tym że nie może ona przekraczać 20% wysokości pierwszej płatności rolno-środowiskowo-klimatycznej, której warunkiem przyznania jest posiadanie dokumentacji przyrodniczej.
+
+### 3.
+
+Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych poniesionych z tytułu, o którym mowa w ust. 1 pkt 1, przyznanej za sporządzenie dokumentacji przyrodniczej dla siedliska, które jest położone na obszarze, dla którego ustanowiono plan ochrony albo plan zadań ochronnych, ustala się zgodnie z ust. 2, jednakże w wysokości pomniejszonej o 10%.
+
+### 4.
+
+Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych poniesionych z tytułu, o którym mowa w ust. 1 pkt 2, ustala się zgodnie z ust. 2 załącznika nr 7 do rozporządzenia, z tym że nie może ona przekraczać 20% wysokości płatności rolno-środowiskowo-klimatycznej za realizację wariantu 6.2. przyznanej za rok, w którym została dokonana ocena, o której mowa w ust. 1 pkt 2.
+
+### § 19.
+
+### 1.
+
+Wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej, poza elementami podania określonymi w przepisach Kodeksu postępowania administracyjnego, z wyłączeniem adresu, zawiera:
+
+### 1)
+
+numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli został nadany, a w przypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL), natomiast jeżeli osoba ta nie posiada obywatelstwa polskiego - kod kraju, numer paszportu lub innego dokumentu tożsamości;
+
+### 2)
+
+numer identyfikacyjny;
+
+### 3)
+
+oświadczenie o:
+
+### a)
+
+powierzchni działek ewidencyjnych,
+
+### b)
+
+sposobie wykorzystywania działek rolnych, zawierające w szczególności wskazanie:
+
+- - uprawy w rozumieniu art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009, określonej w ust. 1 załącznika nr 4 do rozporządzenia, prowadzonej na danej działce - w przypadku realizacji pakietu, o którym mowa w § 4 ust. 1 pkt 1,
+
+- - roślin uprawnych uprawianych na danej działce - w przypadku realizacji pakietu, o którym mowa w § 4 ust. 1 pkt 1, 2 i 6,
+
+- - gatunków oraz odmian drzew uprawianych na danej działce - w przypadku realizacji pakietu, o którym mowa w § 4 ust. 1 pkt 3,
+
+- - praktyki dodatkowej, o której mowa w części I ust. 4 pkt 2 lub 3 załącznika nr 2 do rozporządzenia;
+
+### 4)
+
+oświadczenia oraz informacje, jakie powinny być zawarte we wniosku o przyznanie jednolitej płatności obszarowej w rozumieniu ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego, określone w przepisach wydanych na podstawie art. 22 ust. 10 tej ustawy, niewymienione w pkt 1-3;
+
+### 5)
+
+oświadczenia i zobowiązania rolnika lub zarządcy związane z realizacją zobowiązania rolno-środowiskowo-klimatycznego;
+
+### 6)
+
+informację o załącznikach dołączonych do wniosku.
+
+### 2.
+
+Wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej składa się do kierownika biura powiatowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę rolnika lub zarządcy, w terminie określonym do składania wniosków o przyznanie płatności bezpośrednich w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego.
+
+### 3.
+
+Jeżeli rolnik lub zarządca nie zamierza ubiegać się w danym roku o przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej do określonych gruntów lub zwierząt objętych zobowiązaniem rolno-środowiskowo-klimatycznym, zamiast wniosku o przyznanie tej płatności składa, na formularzu udostępnionym przez Agencję, informację o tych gruntach lub zwierzętach oraz o pakiecie lub wariancie realizowanym na tych gruntach lub w odniesieniu do tych zwierząt, wskazując położenie tych gruntów i ich powierzchnię. Przepis ust. 2 stosuje się odpowiednio.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 3, i jeżeli rolnik lub zarządca zamierza dokonać zmiany zobowiązania rolno-środowiskowo-klimatycznego, zmianę tę zgłasza kierownikowi biura powiatowego Agencji w informacji, o której mowa w ust. 3, składanej w roku, w którym rolnik lub zarządca realizuje zmienione zobowiązanie rolno-środowiskowo-klimatyczne, chyba że przepisy rozporządzenia stanowią inaczej.
+
+### § 20.
+
+### 1.
+
+Do wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach wariantu 6.1. lub do wniosku o przyznanie kolejnych płatności w ramach tego wariantu - w przypadku zwiększenia wielkości obszaru zobowiązania - dołącza się dokument potwierdzający zakup kwalifikowanego materiału siewnego odmian regionalnych i amatorskich wpisanych do krajowego rejestru.
+
+### 2.
+
+W przypadku gdy w ramach wariantu 6.1. rolnik uprawia rośliny odmian regionalnych lub amatorskich wpisanych do krajowego rejestru, do wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej za czwarty rok uprawy tych odmian dołącza dokument potwierdzający zakup kwalifikowanego materiału siewnego odmian regionalnych lub amatorskich wpisanych do krajowego rejestru.
+
+### 3.
+
+Do wniosku o przyznanie pierwszej i kolejnych płatności rolno-środowiskowo-klimatycznej w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 7, dołącza się kopię dokumentu, sporządzonego na formularzu udostępnionym przez Agencję, obejmującego oświadczenia:
+
+### 1)
+
+rolnika,
+
+### 2)
+
+podmiotu prowadzącego księgi hodowlane - w przypadku klaczy, loch, owiec matek i kóz matek,
+
+### 3)
+
+podmiotu upoważnionego do realizacji lub koordynacji działań w zakresie ochrony zasobów genetycznych - w przypadku krów, klaczy, loch, owiec matek i kóz matek
+
+- zawierające wskazanie zwierząt ras lokalnych, jakie zostały zakwalifikowane do programu ochrony zasobów genetycznych ras lokalnych - w przypadku realizacji pakietu wymienionego w § 4 ust. 1 pkt 7.
+
+### 4.
+
+Do wniosku o przyznanie pierwszej i kolejnych płatności rolno-środowiskowo-klimatycznej w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 7, dołącza się oświadczenie o zwierzętach, do których rolnik ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej, w ramach tego pakietu, z podaniem numerów identyfikacyjnych tych zwierząt, sporządzone na formularzu udostępnionym przez Agencję.
+
+### 5.
+
+W przypadku, o którym mowa w § 11 ust. 2 lub 3, do wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej rolnik lub zarządca dołącza oświadczenie o osobach, z którymi łącznie spełnia warunek, o którym mowa w § 11 ust. 1:
+
+### 1)
+
+pkt 1, 2 lub 3 lit. a - w przypadku rolnika,
+
+### 2)
+
+pkt 3 lit. b - w przypadku zarządcy
+
+- sporządzone na formularzu udostępnionym przez Agencję.
+
+### § 21.
+
+### 1.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 1, rolnik składa do kierownika biura powiatowego Agencji do dnia 31 października roku, w którym złożył wniosek o:
+
+### 1)
+
+przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej:
+
+### a)
+
+kopię dokumentu:
+
+- - zawierającego wyniki analizy gleby pobranej, zgodnie z normą w zakresie pobierania próbek do badań agrochemicznych gleby, z poszczególnych działek rolnych położonych na gruntach ornych, do których rolnik ubiega się o przyznanie tej płatności, wykonanej w laboratorium okręgowej stacji chemiczno-rolniczej lub innym laboratorium posiadającym akredytację Polskiego Centrum Akredytacji w zakresie badań agrochemicznych gleb,
+
+- - sporządzonego przez podmiot, który wykonał analizę, o której mowa w tiret pierwsze,
+
+### b)
+
+oświadczenie o działkach rolnych, których dotyczą wyniki analizy, o której mowa w lit. a tiret pierwsze;
+
+### 2)
+
+przyznanie piątej płatności rolno-środowiskowo-klimatycznej:
+
+### a)
+
+kopię dokumentu:
+
+- - zawierającego wyniki analizy gleby pobranej, zgodnie z normą w zakresie pobierania próbek do badań agrochemicznych gleby, z poszczególnych działek rolnych położonych na gruntach ornych, do których rolnik ubiega się o przyznanie tej płatności i na których wykonano analizę, o której mowa w pkt 1, wykonanej w laboratorium okręgowej stacji chemiczno-rolniczej lub innym laboratorium posiadającym akredytację Polskiego Centrum Akredytacji w zakresie badań agrochemicznych gleb i tą samą metodą, którą została wykonana analiza, o której mowa w pkt 1,
+
+- - sporządzonego przez podmiot, który wykonał analizę, o której mowa w tiret pierwsze,
+
+### b)
+
+oświadczenie o działkach rolnych, których dotyczą wyniki analizy gleby.
+
+### 2.
+
+W przypadku gdy do rolnika lub zarządcy mają zastosowanie wymogi, o których mowa w § 4 ust. 3 pkt 1 lit. b lub pkt 2, rolnik lub zarządca składa do kierownika biura powiatowego Agencji do dnia 9 czerwca roku, w którym określono te wymogi, informację zawierającą wskazanie realizowanego wariantu oraz tych wymogów, sporządzoną na formularzu udostępnionym przez Agencję. Przepis ten stosuje się również w przypadku, gdy te wymogi ulegną zmianie w trakcie kolejnego roku realizacji zobowiązania.
+
+### 3.
+
+Informacji, o której mowa w ust. 2, nie składa się w przypadku gdy w danym roku realizacji zobowiązania rolno-środowiskowo-klimatycznego rolnik lub zarządca dokona zmiany sposobu użytkowania kośnego, kośno-pastwiskowego, pastwiskowego lub naprzemiennego, dopuszczalnej w ramach tego zobowiązania.
+
+### 4.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 i 5, rolnik lub zarządca składa do kierownika biura powiatowego Agencji do dnia 9 czerwca roku, w którym złożono wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danego zobowiązania, oświadczenie:
+
+### 1)
+
+eksperta przyrodniczego:
+
+### a)
+
+o przeprowadzonej inwentaryzacji siedliska przyrodniczego lub siedliska lęgowego ptaków położonego na gruntach zadeklarowanych we wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej w ramach danego wariantu, która stanowi podstawę do sporządzenia dokumentacji przyrodniczej,
+
+### b)
+
+że wymogi realizowanego wariantu nie są sprzeczne z ustanowionymi dla danego obszaru chronionego działaniami obligatoryjnymi określonymi w planie ochrony lub w planie zadań ochronnych
+
+- w przypadku wariantów tych pakietów innych niż wariant 4.7.,
+
+### 2)
+
+doradcy rolnośrodowiskowego, że wymogi realizowanego wariantu nie są sprzeczne z ustanowionymi dla danego obszaru chronionego działaniami obligatoryjnymi określonymi w planie ochrony lub w planie zadań ochronnych - w przypadku wariantu 4.7.
+
+- sporządzone na formularzu udostępnionym przez Agencję.
+
+### 5.
+
+W przypadku wytwarzania nasion lub materiału siewnego w ramach wariantu 6.2., rolnik składa do kierownika biura powiatowego Agencji do dnia 31 października roku, w którym złożył wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej, świadectwo oceny laboratoryjnej materiału siewnego odmian regionalnych lub amatorskich wpisanych do krajowego rejestru, a w przypadku roślin z gatunków wymienionych w ust. 4 załącznika nr 4 do rozporządzenia - informację o wynikach badania, wydane na podstawie przepisów o nasiennictwie, lub oświadczenie sporządzone na formularzu udostępnionym przez Agencję o posiadaniu plantacji nasiennej rośliny dwuletniej - w pierwszym roku uprawy tej rośliny.
+
+### 6.
+
+W przypadku gdy rolnik lub zarządca nie dokonał czynności, o której mowa w ust. 1, 2, 4 lub 5, w terminie określonym w tych przepisach, kierownik biura powiatowego Agencji wzywa na piśmie rolnika lub zarządcę do dokonania tej czynności, w terminie 7 dni od dnia doręczenia wezwania.
+
+### 7.
+
+Czynność, o której mowa w ust. 1, 2, 4 lub 5, dokonana:
+
+### 1)
+
+w terminie określonym w wezwaniu, o którym mowa w ust. 6,
+
+### 2)
+
+po terminie określonym w tym przepisie, a przed doręczeniem wezwania, o którym mowa w ust. 6
+
+- uważa się za dokonaną w terminie.
+
+### § 22.
+
+### 1.
+
+Do wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej rolnik dołącza materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, udostępniony lub przesłany przez Agencję.
+
+### 2.
+
+Rolnik lub zarządca zaznacza na materiale graficznym, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013:
+
+### 1)
+
+granice działek rolnych, na których realizują poszczególne pakiety lub warianty, oraz określone w planie działalności rolnośrodowiskowej elementy krajobrazu rolniczego nieużytkowane rolniczo, o których mowa w § 4 ust. 2 pkt 3;
+
+### 2)
+
+część działki rolnej, która ma pozostać nieskoszona w danym roku - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 lub 5;
+
+### 3)
+
+miejsca na działce rolnej, w których są zasadzone poszczególne drzewa odmian wymienionych w ust. 2 załącznika nr 4 do rozporządzenia lub odmian tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej przed 1950 r. - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 3;
+
+### 4)
+
+granice działek rolnych położonych na gruntach ornych, na których jest w danym roku realizowana praktyka dodatkowa określona w części I ust. 4 pkt 2 lub 3 załącznika nr 2 do rozporządzenia - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 1.
+
+### 3.
+
+Jeżeli rolnik równocześnie nie ubiega się o przyznanie jednolitej płatności obszarowej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, to na materiale graficznym, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, zaznacza również obiekty, o których mowa w § 4 ust. 1 pkt 2 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 12 marca 2015 r. w sprawie szczegółowych wymagań, jakie powinny spełniać wnioski w sprawach dotyczących płatności w ramach systemów wsparcia bezpośredniego ([Dz. U. poz. 352](https://api.sejm.gov.pl/eli/acts/DU/2015/352/text.html)), znajdujące się na użytkach rolnych będących w jego posiadaniu.
+
+### 4.
+
+W przypadku zwiększenia wielkości obszaru gruntów, na których jest realizowane zobowiązanie rolno-środowiskowo-klimatyczne, przepisy ust. 1, 2 pkt 1 oraz ust. 3 stosuje się odpowiednio.
+
+### 5.
+
+W przypadku gdy rolnik lub zarządca po raz pierwszy ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej do danego gruntu, Agencja udostępnia materiał graficzny, o którym mowa w art. 72 ust. 3 rozporządzenia nr 1306/2013, na wniosek tego rolnika lub zarządcy, w którym wskazuje on działki ewidencyjne, na których jest położony ten grunt, sporządzony na formularzu udostępnionym przez Agencję.
+
+### § 23.
+
+Płatność rolno-środowiskowo-klimatyczną wypłaca się do dnia 30 czerwca roku następującego po roku, w którym został złożony wniosek o przyznanie tej płatności, wraz z kwotą przeznaczoną na refundację kosztów transakcyjnych.
+
+### § 24.
+
+### 1.
+
+W przypadku śmierci rolnika lub zarządcy, która nastąpiła w okresie od dnia złożenia wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do dnia doręczenia decyzji w sprawie o przyznanie tej płatności, spadkobierca rolnika lub zarządcy może wstąpić do toczącego się postępowania w sprawie o przyznanie tej płatności na miejsce zmarłego rolnika lub zarządcy, jeżeli objął w posiadanie grunty lub stado objęte tym wnioskiem.
+
+### 2.
+
+Spadkobierca rolnika lub zarządcy wstępuje do toczącego się postępowania w sprawie przyznania pierwszej płatności rolno-środowiskowo-klimatycznej na miejsce zmarłego rolnika lub zarządcy na wniosek złożony w terminie 7 miesięcy od dnia otwarcia spadku.
+
+### 3.
+
+Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
+### 4.
+
+Spadkobierca rolnika lub zarządcy podaje we wniosku, o którym mowa w ust. 2, swój numer identyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie takiego numeru.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, spadkobierca rolnika lub zarządcy dołącza:
+
+### 1)
+
+odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo
+
+### 2)
+
+w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
+
+### a)
+
+zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+
+### b)
+
+kopię wniosku o stwierdzenie nabycia spadku:
+
+- - potwierdzoną za zgodność z oryginałem przez sąd albo
+
+- - poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. poz. 1529](https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text.html)) albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, albo
+
+### 3)
+
+zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
+### 6.
+
+W przypadku pakietu wymienionego w § 4 ust. 1 pkt 7 do wniosku dołącza się również kopię dokumentu, sporządzonego na formularzu udostępnionym przez Agencję, obejmującego oświadczenia:
+
+### 1)
+
+spadkobiercy rolnika,
+
+### 2)
+
+podmiotu prowadzącego księgi hodowlane - w przypadku klaczy, loch, owiec matek i kóz matek,
+
+### 3)
+
+podmiotu upoważnionego do realizacji lub koordynacji działań w zakresie ochrony zasobów genetycznych - w przypadku krów, klaczy, loch, owiec matek i kóz matek
+
+- zawierające wskazanie zwierząt ras lokalnych, jakie zostały zakwalifikowane do programu ochrony zasobów genetycznych ras lokalnych.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 5 pkt 2, spadkobierca rolnika składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku, w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
+
+### 8.
+
+Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca rolnika lub zarządcy, spadkobierca rolnika lub zarządcy wstępujący do postępowania w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej:
+
+### 1)
+
+dołącza do wniosku, o którym mowa w ust. 2, albo
+
+### 2)
+
+składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 7
+
+- oświadczenia pozostałych spadkobierców rolnika lub zarządcy, że wyrażają zgodę na wstąpienie tego spadkobiercy na miejsce zmarłego rolnika lub zarządcy i przyznanie temu spadkobiercy tej płatności.
+
+### 9.
+
+Zgoda, o której mowa w ust. 8, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 2, został złożony przez spadkobiercę rolnika lub zarządcy będącego przedstawicielem ustawowym tego małoletniego.
+
+### 10.
+
+Wniosek, o którym mowa w ust. 2, spadkobierca rolnika lub zarządcy składa do kierownika biura powiatowego Agencji, do którego rolnik lub zarządca, którego jest spadkobiercą, złożył wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej.
+
+### 11.
+
+W przypadku, o którym mowa w ust. 5 pkt 2, decyzję w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej spadkobiercy rolnika lub zarządcy wydaje się po złożeniu przez tego spadkobiercę odpisu prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku.
+
+### 12.
+
+Do zapisobiercy windykacyjnego, który w wyniku śmierci rolnika lub zarządcy nabył, jako przedmiot zapisu windykacyjnego, grunty lub stado objęte wnioskiem o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej złożonym przez tego rolnika lub zarządcę, lub prawo majątkowe, z którym łączy się posiadanie tych gruntów lub stada, przepisy ust. 1-11 stosuje się odpowiednio.
+
+### § 25.
+
+### 1.
+
+W przypadku rozwiązania albo przekształcenia rolnika lub zarządcy lub wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w § 24 ust. 1, w okresie od dnia złożenia wniosku o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej do dnia doręczenia decyzji w sprawie o przyznanie tej płatności następca prawny tego rolnika lub zarządcy może wstąpić do toczącego się postępowania w sprawie przyznania tej płatności na miejsce tego rolnika lub zarządcy, jeżeli objął w posiadanie grunty lub stado objęte tym wnioskiem.
+
+### 2.
+
+Następca prawny rolnika lub zarządcy wstępuje do toczącego się postępowania w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej na miejsce rolnika lub zarządcy na wniosek złożony w terminie 3 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
+
+### 3.
+
+Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
+### 4.
+
+Następca prawny rolnika lub zarządcy podaje we wniosku, o którym mowa w ust. 2, swój numer identyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie takiego numeru.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, następca prawny rolnika lub zarządcy dołącza:
+
+### 1)
+
+dokument potwierdzający zaistnienie następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji;
+
+### 2)
+
+kopię dokumentu, sporządzonego na formularzu udostępnionym przez Agencję, obejmującego oświadczenia:
+
+### a)
+
+tego następcy,
+
+### b)
+
+podmiotu prowadzącego księgi hodowlane - w przypadku klaczy, loch, owiec matek i kóz matek,
+
+### c)
+
+podmiotu upoważnionego do realizacji lub koordynacji działań w zakresie ochrony zasobów genetycznych - w przypadku krów, klaczy, loch, owiec matek i kóz matek
+
+- zawierające wskazanie zwierząt ras lokalnych, jakie zostały zakwalifikowane do programu ochrony zasobów genetycznych ras lokalnych - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 7.
+
+### 6.
+
+Wniosek, o którym mowa w ust. 2, następca prawny rolnika lub zarządcy składa do kierownika biura powiatowego Agencji, do którego rolnik lub zarządca, którego jest następcą prawnym, złożył wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej.
+
+### § 26.
+
+### 1.
+
+W przypadku przeniesienia, w wyniku umowy sprzedaży, dzierżawy lub innej umowy, posiadania gruntów lub stada objętych wnioskiem o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej złożonym przez rolnika lub zarządcę, w okresie od dnia złożenia tego wniosku do dnia doręczenia decyzji w sprawie o przyznanie tej płatności nowy posiadacz tych gruntów lub stada może wstąpić do toczącego się postępowania w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej na miejsce tego rolnika lub zarządcy.
+
+### 2.
+
+Nowy posiadacz gruntów lub stada, o których mowa w ust. 1, wstępuje do toczącego się postępowania w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej na miejsce rolnika lub zarządcy na wniosek złożony w terminie 3 miesięcy od dnia przeniesienia posiadania tych gruntów lub stada.
+
+### 3.
+
+Termin, o którym mowa w ust. 2, nie podlega przywróceniu.
+
+### 4.
+
+Nowy posiadacz gruntów lub stada, o których mowa w ust. 1, podaje we wniosku, o którym mowa w ust. 2, swój numer identyfikacyjny albo dołącza do tego wniosku kopię wniosku o nadanie takiego numeru.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, nowy posiadacz gruntów lub stada, o których mowa w ust. 1, dołącza:
+
+### 1)
+
+umowę sprzedaży, dzierżawy lub inną umowę, w wyniku której zostało na niego przeniesione posiadanie tych gruntów lub stada, albo kopię tej umowy poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji;
+
+### 2)
+
+kopię dokumentu, sporządzonego na formularzu udostępnionym przez Agencję, obejmującego oświadczenia:
+
+### a)
+
+tego posiadacza,
+
+### b)
+
+podmiotu prowadzącego księgi hodowlane - w przypadku klaczy, loch, owiec matek i kóz matek,
+
+### c)
+
+podmiotu upoważnionego do realizacji lub koordynacji działań w zakresie ochrony zasobów genetycznych - w przypadku krów, klaczy, loch, owiec matek i kóz matek
+
+- zawierające wskazanie zwierząt ras lokalnych, jakie zostały zakwalifikowane do programu ochrony zasobów genetycznych ras lokalnych - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 7.
+
+### 6.
+
+Jeżeli posiadanie gruntów lub stada objętych wnioskiem o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej złożonym przez rolnika lub zarządcę zostało przeniesione na rzecz kilku podmiotów, nowy posiadacz tych gruntów lub stada wstępujący do postępowania w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej dołącza do wniosku, o którym mowa w ust. 2, oświadczenia współposiadaczy, że wyrażają zgodę na wstąpienie tego posiadacza na miejsce rolnika lub zarządcy i przyznanie mu tej płatności.
+
+### 7.
+
+Wniosek, o którym mowa w ust. 2, nowy posiadacz gruntów lub stada, o których mowa w ust. 1, składa do kierownika biura powiatowego Agencji, do którego:
+
+### 1)
+
+rolnik, który był dotychczas posiadaczem tych gruntów lub stada, lub
+
+### 2)
+
+zarządca, który był dotychczas posiadaczem tych gruntów
+
+- złożył wniosek o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej.
+
+### § 27.
+
+### 1.
+
+W przypadku śmierci rolnika lub zarządcy, która nastąpiła po doręczeniu decyzji w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej, spadkobiercy rolnika lub zarządcy mogą być przyznane kolejne płatności rolno-środowiskowo-klimatyczne, jeżeli spadkobierca ten objął w posiadanie grunty lub stado objęte zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez tego rolnika lub zarządcę i są spełnione warunki określone w art. 43 ust. 2 ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020, zwanej dalej „ustawą”.
+
+### 2.
+
+Jeżeli śmierć rolnika lub zarządcy nastąpiła po doręczeniu decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej za poprzedni rok, lecz zanim ten rolnik lub zarządca złożył wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok, spadkobierca rolnika lub zarządcy składa wniosek o przyznanie tej płatności w terminie 7 miesięcy od dnia otwarcia spadku.
+
+### 3.
+
+Płatność rolno-środowiskowo-klimatyczna za dany rok może zostać przyznana spadkobiercy rolnika lub zarządcy, jeżeli spadkobierca ten złożył wniosek, o którym mowa w ust. 2, w terminie określonym do składania wniosków o przyznanie płatności bezpośredniej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, zaś gdy termin ten upłynął - wyłącznie w przypadku określonym w art. 13 ust. 1 rozporządzenia nr 640/2014.
+
+### 4.
+
+Jeżeli nie zachodzą okoliczności określone w ust. 3, a spadkobierca rolnika lub zarządcy złożył wniosek, o którym mowa w ust. 2, przed upływem terminu określonego w ust. 2, nie przyznaje się płatności rolno-środowiskowo-klimatycznej za dany rok, a spadkobierca rolnika lub zarządcy jest uprawniony do ubiegania się o przyznanie płatności rolno-środowiskowo-klimatycznej za następne lata.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, oprócz dokumentów wymaganych na podstawie § 20 spadkobierca rolnika lub zarządcy dołącza oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez tego rolnika lub zarządcę do końca okresu objętego tym zobowiązaniem.
+
+### 6.
+
+Do wniosku, o którym mowa w ust. 2, dołącza się również:
+
+### 1)
+
+odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo
+
+### 2)
+
+w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
+
+### a)
+
+zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+
+### b)
+
+kopię wniosku o stwierdzenie nabycia spadku:
+
+- - potwierdzoną za zgodność z oryginałem przez sąd albo
+
+- - poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, albo
+
+### 3)
+
+zarejestrowany akt poświadczenia dziedziczenia sporządzony przez notariusza.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 2, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok spadkobiercy rolnika lub zarządcy stosuje się odpowiednio § 24 ust. 7-9 i 11.
+
+### 8.
+
+Jeżeli śmierć rolnika lub zarządcy nastąpiła w okresie od dnia złożenia wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok do dnia doręczenia decyzji w sprawie o przyznanie tej płatności, spadkobierca rolnika lub zarządcy wstępuje do toczącego się postępowania w sprawie przyznania tej płatności na miejsce zmarłego rolnika lub zarządcy na wniosek złożony w terminie 7 miesięcy od dnia otwarcia spadku.
+
+### 9.
+
+W przypadku, o którym mowa w ust. 8, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok spadkobiercy rolnika lub zarządcy stosuje się odpowiednio § 24 ust. 3-11, z tym że do wniosku, o którym mowa w ust. 8, dołącza on również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez tego rolnika lub zarządcy do końca okresu objętego tym zobowiązaniem.
+
+### 10.
+
+Do zapisobiercy windykacyjnego, który w wyniku śmierci rolnika lub zarządcy nabył, jako przedmiot zapisu windykacyjnego, grunty lub stado objęte zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez rolnika lub zarządcę, lub prawo majątkowe, z którym łączy się posiadanie tych gruntów lub stada, przepisy ust. 1-6 i 8 stosuje się odpowiednio, a w przypadku, o którym mowa w:
+
+### 1)
+
+ust. 2, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok zapisobiercy windykacyjnemu stosuje się odpowiednio § 24 ust. 7-9 i 11;
+
+### 2)
+
+ust. 8, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok zapisobiercy windykacyjnemu stosuje się odpowiednio § 24 ust. 3-11, z tym że do wniosku, o którym mowa w ust. 6, zapisobierca windykacyjny dołącza również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez rolnika lub zarządcę, który ustanowił zapis windykacyjny na rzecz tego zapisobiercy, do końca okresu objętego tym zobowiązaniem.
+
+### § 28.
+
+### 1.
+
+W przypadku rozwiązania albo przekształcenia rolnika lub zarządcy lub wystąpienia innego zdarzenia prawnego, w wyniku których zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w § 27 ust. 1, które nastąpiło po doręczeniu decyzji w sprawie o przyznanie pierwszej płatności rolno-środowiskowo-klimatycznej, następcy prawnemu rolnika lub zarządcy mogą być przyznane kolejne płatności rolno-środowiskowo-klimatyczne, jeżeli objął w posiadanie grunty lub stado objęte zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez tego rolnika lub zarządcę i są spełnione warunki określone w art. 43 ust. 2 ustawy.
+
+### 2.
+
+Jeżeli zdarzenie, o którym mowa w ust. 1, nastąpiło po doręczeniu decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej za poprzedni rok, lecz zanim ten rolnik lub zarządca złożył wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok, następca prawny rolnika lub zarządcy składa wniosek o przyznanie tej płatności w terminie 7 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
+
+### 3.
+
+Płatność rolno-środowiskowo-klimatyczna za dany rok może zostać przyznana następcy prawnemu rolnika lub zarządcy, jeżeli następca ten złożył wniosek, o którym mowa w ust. 2, w terminie określonym do składania wniosków o przyznanie płatności bezpośredniej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, zaś gdy termin ten upłynął - wyłącznie w przypadku określonym w art. 13 ust. 1 rozporządzenia nr 640/2014.
+
+### 4.
+
+Jeżeli nie zachodzą okoliczności określone w ust. 3, a następca prawny rolnika lub zarządcy złożył wniosek, o którym mowa w ust. 2, przed upływem terminu określonego w ust. 2, nie przyznaje się płatności rolno-środowiskowo-klimatycznej za dany rok, a następca prawny rolnika lub zarządcy jest uprawniony do ubiegania się o przyznanie płatności rolno-środowiskowo-klimatycznej za następne lata.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, oprócz dokumentów wymaganych na podstawie § 20 następca prawny rolnika lub zarządcy dołącza:
+
+### 1)
+
+oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do:
+
+### a)
+
+kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez tego rolnika lub zarządcę do końca okresu objętego tym zobowiązaniem,
+
+### b)
+
+zapłaty na rzecz Agencji równowartości kwoty płatności rolno-środowiskowo-klimatycznej uzyskanej przez tego rolnika lub zarządcę, jaką ten rolnik lub zarządca byłby obowiązany zwrócić, gdyby w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego przez tego rolnika lub zarządcę wystąpiły okoliczności stanowiące podstawę zwrotu płatności rolno-środowiskowo-klimatycznej, wymienione w § 34 ust. 1-3;
+
+### 2)
+
+dokument potwierdzający zaistnienie następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
+### 6.
+
+Jeżeli zdarzenie, o którym mowa w ust. 1, nastąpiło w okresie od dnia złożenia przez rolnika lub zarządcę wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok do dnia doręczenia decyzji w sprawie o przyznanie tej płatności, następca prawny rolnika lub zarządcy wstępuje do toczącego się postępowania w sprawie o przyznanie tej płatności na miejsce tego rolnika lub zarządcy na wniosek złożony w terminie 3 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 6, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok następcy prawnemu rolnika lub zarządcy stosuje się odpowiednio § 25 ust. 3-6, z tym że do wniosku, o którym mowa w ust. 6, następca prawny rolnika lub zarządcy dołącza również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do:
+
+### 1)
+
+kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez tego rolnika lub zarządcę do końca okresu objętego tym zobowiązaniem;
+
+### 2)
+
+zapłaty na rzecz Agencji równowartości kwoty płatności rolno-środowiskowo-klimatycznej uzyskanej przez tego rolnika lub zarządcę, jaką ten rolnik lub zarządca byłby obowiązany zwrócić, gdyby w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego przez tego rolnika lub zarządcę wystąpiły okoliczności stanowiące podstawę zwrotu płatności rolno-środowiskowo-klimatycznej, wymienione w § 34 ust. 1-3.
+
+### § 29.
+
+### 1.
+
+W przypadku przeniesienia, w wyniku umowy sprzedaży, dzierżawy lub innej umowy, posiadania gruntów lub stada objętych zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez rolnika lub zarządcę, które nastąpiło po doręczeniu decyzji w sprawie przyznania pierwszej płatności rolno-środowiskowo-klimatycznej, nowemu posiadaczowi tych gruntów lub stada mogą być przyznane kolejne płatności rolno-środowiskowo-klimatyczne, jeżeli są spełnione warunki określone w art. 43 ust. 2 ustawy.
+
+### 2.
+
+Jeżeli przeniesienie posiadania gruntów lub stada objętych zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez rolnika lub zarządcę nastąpiło po doręczeniu decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej za poprzedni rok, lecz zanim ten rolnik lub zarządca złożył wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok, nowy posiadacz tych gruntów lub stada składa wniosek o przyznanie tej płatności w terminie 7 miesięcy od dnia przeniesienia posiadania tych gruntów lub stada.
+
+### 3.
+
+Płatność rolno-środowiskowo-klimatyczna za dany rok może zostać przyznana nowemu posiadaczowi gruntów lub stada, o których mowa w ust. 1, jeżeli posiadacz ten złożył wniosek, o którym mowa w ust. 2, w terminie określonym do składania wniosków o przyznanie płatności bezpośredniej w rozumieniu przepisów o płatnościach w ramach systemów wsparcia bezpośredniego, zaś gdy termin ten upłynął - wyłącznie w przypadku określonym w art. 13 ust. 1 rozporządzenia nr 640/2014.
+
+### 4.
+
+Jeżeli nie zachodzą okoliczności, o których mowa w ust. 3, a nowy posiadacz gruntów lub stada, o których mowa w ust. 1, złożył wniosek, o którym mowa w ust. 2, przed upływem terminu określonego w ust. 2, nie przyznaje się płatności rolno-środowiskowo-klimatycznej za dany rok, a nowy posiadacz tych gruntów lub stada jest uprawniony do ubiegania się o przyznanie płatności rolno-środowiskowo-klimatycznej za następne lata.
+
+### 5.
+
+Do wniosku, o którym mowa w ust. 2, oprócz dokumentów wymaganych na podstawie § 20, nowy posiadacz gruntów lub stada, o których mowa w ust. 1, dołącza:
+
+### 1)
+
+oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do:
+
+### a)
+
+kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez tego rolnika lub zarządcę do końca okresu objętego tym zobowiązaniem,
+
+### b)
+
+zapłaty na rzecz Agencji równowartości kwoty płatności rolno-środowiskowo-klimatycznej uzyskanej przez tego rolnika lub zarządcę, jaką ten rolnik lub zarządca byłby obowiązany zwrócić, gdyby w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego przez tego rolnika lub zarządcę wystąpiły okoliczności stanowiące podstawę do zwrotu płatności rolno-środowiskowo-klimatycznej, wymienione w § 34 ust. 1-3;
+
+### 2)
+
+umowę sprzedaży, dzierżawy lub inną umowę, w wyniku której zostało na niego przeniesione posiadanie gruntów lub stada objętych zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez tego rolnika lub zarządcę, albo kopię tej umowy poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
+### 6.
+
+Jeżeli przeniesienie posiadania gruntów lub stada objętych zobowiązaniem rolno-środowiskowo-klimatycznym podjętym przez rolnika lub zarządcę nastąpiło w okresie od dnia złożenia wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej za dany rok do dnia doręczenia decyzji w sprawie o przyznanie tej płatności, nowy posiadacz tych gruntów lub stada wstępuje do toczącego się postępowania w sprawie o przyznanie tej płatności na miejsce tego rolnika lub zarządcy na wniosek złożony w terminie 3 miesięcy od dnia przeniesienia posiadania tych gruntów lub stada.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 6, do trybu przyznawania płatności rolno-środowiskowo-klimatycznej za dany rok nowemu posiadaczowi gruntów lub stada stosuje się odpowiednio § 26 ust. 3-7, z tym że do wniosku, o którym mowa w ust. 6, posiadacz ten dołącza również oświadczenie, złożone na formularzu udostępnionym przez Agencję, obejmujące zobowiązanie do:
+
+### 1)
+
+kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez:
+
+### a)
+
+rolnika, który był dotychczas posiadaczem tych gruntów lub stada, lub
+
+### b)
+
+zarządcę, który był dotychczas posiadaczem tych gruntów
+
+- do końca okresu objętego tym zobowiązaniem;
+
+### 2)
+
+zapłaty na rzecz Agencji równowartości kwoty płatności rolno-środowiskowo-klimatycznej uzyskanej przez:
+
+### a)
+
+rolnika, który był dotychczas posiadaczem tych gruntów lub stada, lub
+
+### b)
+
+zarządcę, który był dotychczas posiadaczem tych gruntów
+
+- któremu została przyznana ta płatność, jaką ten rolnik lub zarządca byłby obowiązany zwrócić, gdyby w trakcie realizacji zobowiązania rolno-środowiskowo-klimatycznego przez tego rolnika lub zarządcę wystąpiły okoliczności stanowiące podstawę zwrotu płatności rolno-środowiskowo-klimatycznej, wymienione w § 34 ust. 1-3.
+
+### § 30.
+
+### 1.
+
+Rolnik lub zarządca, któremu została przyznana płatność rolno-środowiskowo-klimatyczna w trybie przepisów § 24-29, a w przypadku, o którym mowa w § 27 ust. 4, § 28 ust. 4 lub § 29 ust. 4, który zobowiązał się do kontynuowania realizacji zobowiązania rolno-środowiskowo-klimatycznego podjętego przez innego rolnika lub zarządcę, realizuje przejęte zobowiązanie rolno-środowiskowo-klimatyczne do końca okresu objętego tym zobowiązaniem.
+
+### 2.
+
+W przypadku przejęcia takiego samego zobowiązania rolno-środowiskowo-klimatycznego, rolnik lub zarządca realizuje je jako oddzielne zobowiązania.
+
+### § 31.
+
+### 1.
+
+W przypadku gdy rolnik lub zarządca, który złożył za dany rok kalendarzowy wniosek o przyznanie płatności rolno-środowiskowo-klimatycznej, złożył również za ten rok kalendarzowy wniosek, o którym mowa w § 24 ust. 2, § 25 ust. 2, § 26 ust. 2, § 27 ust. 2 albo 8, § 28 ust. 2 albo 6 lub § 29 ust. 2 albo 6, wnioski te są rozpatrywane łącznie w zakresie płatności rolno-środowiskowo-klimatycznej.
+
+### 2.
+
+Jeżeli decyzja w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej została wydana przed złożeniem przez rolnika lub zarządcę wniosku, o którym mowa w § 24 ust. 2, § 25 ust. 2, § 26 ust. 2, § 27 ust. 2 albo 8, § 28 ust. 2 albo 6 lub § 29 ust. 2 albo 6, kierownik biura powiatowego Agencji rozstrzyga te sprawy, zmieniając tę decyzję.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, zmiany decyzji o przyznaniu płatności rolno-środowiskowo-klimatycznej dokonuje się bez zgody strony.
+
+### § 32.
+
+### 1.
+
+Jeżeli po doręczeniu decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej rolnik lub zarządca, do którego ta decyzja została skierowana, zmarł, spadkobiercy rolnika lub zarządcy przysługują prawa, które przysługiwałyby spadkodawcy jako stronie postępowania.
+
+### 2.
+
+Jeżeli po doręczeniu decyzji w sprawie o przyznanie płatności rolno-środowiskowo-klimatycznej rolnik lub zarządca, do którego ta decyzja została skierowana, został rozwiązany albo przekształcony albo wystąpiło inne zdarzenie prawne, w wyniku którego zaistniało następstwo prawne, z wyłączeniem przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby temu rolnikowi lub zarządcy jako stronie postępowania, przysługują jego następcy prawnemu.
+
+### 3.
+
+Jeżeli w przypadku, o którym mowa w ust. 1, prawa, które przysługiwałyby spadkodawcy jako stronie postępowania, przysługują kilku spadkobiercom, prawa te wykonuje ten spadkobierca, na którego pozostali spadkobiercy wyrazili pisemną zgodę.
+
+### 4.
+
+W przypadku gdy w decyzji, o której mowa w ust. 1, została przyznana płatność rolno-środowiskowo-klimatyczna, płatność ta jest wypłacana spadkobiercy.
+
+### 5.
+
+Jeżeli płatność rolno-środowiskowo-klimatyczna nie została przekazana na rachunek bankowy rolnika lub zarządcy lub rachunek rolnika lub zarządcy prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, jego spadkobierca, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 1, składa wniosek o wypłatę tej płatności do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie tej płatności przez rolnika lub zarządcę, wraz z:
+
+### 1)
+
+odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku - w terminie 14 dni od dnia uprawomocnienia się tego postanowienia albo
+
+### 2)
+
+zarejestrowanym aktem poświadczenia dziedziczenia sporządzonym przez notariusza - w terminie 14 dni od dnia dokonania wpisu aktu poświadczenia dziedziczenia do rejestru aktów poświadczenia dziedziczenia, albo
+
+### 3)
+
+w przypadku gdy nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku:
+
+### a)
+
+zaświadczeniem sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+
+### b)
+
+kopią wniosku o stwierdzenie nabycia spadku:
+
+- - potwierdzoną za zgodność z oryginałem przez sąd albo
+
+- - poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji
+
+- - jednak nie później niż przed upływem 6 miesięcy od dnia doręczenia rolnikowi lub zarządcy decyzji w sprawie o przyznanie tej płatności.
+
+### 6.
+
+W przypadku, o którym mowa w ust. 5 pkt 3, spadkobierca rolnika lub zarządcy składa odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia.
+
+### 7.
+
+Jeżeli płatność rolno-środowiskowo-klimatyczna nie została przekazana na rachunek bankowy rolnika lub zarządcy, o którym mowa w ust. 2, lub rachunek tego rolnika lub zarządcy prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, następca prawny rolnika lub zarządcy, który nie kwestionuje należności określonej w decyzji, o której mowa w ust. 2, składa wniosek o wypłatę tej płatności do kierownika biura powiatowego Agencji, do którego został złożony wniosek o przyznanie tej płatności przez rolnika lub zarządcę, w terminie 3 miesięcy od dnia doręczenia temu rolnikowi lub zarządcy tej decyzji.
+
+### 8.
+
+Do wniosku, o którym mowa w ust. 7, następca prawny rolnika lub zarządcy dołącza dokument potwierdzający zaistnienie następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
+### 9.
+
+Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca rolnika lub zarządcy, spadkobierca rolnika lub zarządcy występujący z wnioskiem, o którym mowa w ust. 5:
+
+### 1)
+
+dołącza do tego wniosku albo
+
+### 2)
+
+składa wraz z odpisem postanowienia sądu, o którym mowa w ust. 6
+
+- oświadczenia pozostałych spadkobierców rolnika lub zarządcy o wyrażeniu zgody na wypłatę temu spadkobiercy rolnika lub zarządcy płatności rolno-środowiskowo-klimatycznej.
+
+### 10.
+
+Zgoda, o której mowa w ust. 9, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 5, został złożony przez spadkobiercę rolnika lub zarządcy będącego przedstawicielem ustawowym tego małoletniego.
+
+### 11.
+
+W przypadku złożenia wniosku o wypłatę płatności rolno-środowiskowo-klimatycznej kierownik biura powiatowego Agencji wydaje decyzję w sprawie jej wypłaty.
+
+### 12.
+
+W przypadku gdy wniosek o wypłatę płatności rolno-środowiskowo-klimatycznej nie został złożony albo jeżeli została wydana decyzja o odmowie jej wypłaty, decyzje, o których mowa w ust. 1 i 2, wygasają z mocy prawa.
+
+### 13.
+
+Do zapisobiercy windykacyjnego, który w wyniku śmierci rolnika lub zarządcy nabył, jako przedmiot zapisu windykacyjnego, grunty lub stado, do których została przyznana temu rolnikowi lub zarządcy płatność rolno-środowiskowo-klimatyczna, lub prawo majątkowe, z którym łączy się posiadanie tych gruntów lub stada, przepisy ust. 1, 3-6 i 9-12 stosuje się odpowiednio.
+
+### § 33.
+
+### 1.
+
+Jeżeli na trwałych użytkach zielonych zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 1, płatność rolno-środowiskowo-klimatyczna dotycząca tego pakietu przysługuje w danym roku w wysokości zmniejszonej o tyle procent, ile odpowiada procentowemu stosunkowi powierzchni trwałych użytków zielonych, na których stwierdzono to uchybienie, do powierzchni wszystkich użytków rolnych objętych zobowiązaniem rolno-środowiskowo-klimatycznym w ramach tego pakietu.
+
+### 2.
+
+Jeżeli na gruntach ornych zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów w ramach pakietu, o którym mowa w § 4 ust. 1 pkt 1, płatność rolno-środowiskowo-klimatyczna dotycząca tego pakietu przysługuje w danym roku w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
+
+### 1)
+
+iloczynu:
+
+### a)
+
+współczynnika dotkliwości danego uchybienia i
+
+### b)
+
+współczynnika trwałości danego uchybienia
+
+- określonych w załączniku nr 8 do rozporządzenia oraz
+
+### 2)
+
+kwoty stanowiącej iloczyn:
+
+### a)
+
+wysokości płatności, jaka przysługiwałaby w ramach danego pakietu, gdyby rolnik lub zarządca przestrzegał tych wymogów, oraz
+
+### b)
+
+procentowego stosunku powierzchni gruntów ornych, na których stwierdzono to uchybienie, do powierzchni gruntów ornych, na których powinny być przestrzegane te wymogi w ramach tego pakietu.
+
+### 3.
+
+Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika lub zarządcę wymogów w ramach poszczególnych pakietów lub ich wariantów wymienionych w § 4 ust. 1 pkt 2-6, płatność rolno-środowiskowo-klimatyczna w części dotyczącej danego pakietu lub jego wariantu przysługuje w danym roku w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
+
+### 1)
+
+iloczynu:
+
+### a)
+
+współczynnika dotkliwości danego uchybienia i
+
+### b)
+
+współczynnika trwałości danego uchybienia
+
+- określonych w załączniku nr 8 do rozporządzenia oraz
+
+### 2)
+
+kwoty stanowiącej iloczyn:
+
+### a)
+
+wysokości płatności, jaka przysługiwałaby w ramach danego pakietu lub wariantu, gdyby rolnik lub zarządca przestrzegał tych wymogów, oraz
+
+### b)
+
+procentowego stosunku powierzchni obszaru, na którym stwierdzono to uchybienie, do powierzchni obszaru, na którym powinny być przestrzegane te wymogi w ramach danego pakietu.
+
+### 4.
+
+Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogów określonych w części II ust. 1 pkt 9 załącznika nr 2 do rozporządzenia, płatność rolno-środowiskowo-klimatyczna w ramach wariantu 2.1. podlega zwrotowi w części odpowiadającej procentowemu stosunkowi powierzchni obszaru, na którym stwierdzono to uchybienie, do powierzchni obszaru, na którym powinny być przestrzegane te wymogi w ramach danego wariantu.
+
+### 5.
+
+Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika wymogu określonego w części V ust. 2 załącznika nr 2 do rozporządzenia, płatność rolno-środowiskowo-klimatyczna w części dotyczącej wariantu 6.2. przysługuje w danym roku w wysokości zmniejszonej o 40%.
+
+### 6.
+
+Jeżeli rolnik lub zarządca przekształcił którykolwiek z występujących w gospodarstwie rolnym trwałych użytków zielonych lub nie zachował któregokolwiek z określonych w planie działalności rolnośrodowiskowej elementów krajobrazu rolniczego nieużytkowanych rolniczo, o których mowa w § 4 ust. 2 pkt 3, płatność rolno-środowiskowo-klimatyczna przysługuje temu rolnikowi lub zarządcy w wysokości zmniejszonej o 20%.
+
+### 7.
+
+Przepisu ust. 6 nie stosuje się w przypadku, gdy rolnik lub zarządca nie zachował któregokolwiek z określonych w planie działalności rolnośrodowiskowej elementów krajobrazu rolniczego nieużytkowanych rolniczo, o których mowa w § 4 ust. 2 pkt 3, w wyniku przeniesienia, w drodze umowy sprzedaży, darowizny lub innej umowy, posiadania gruntów, na których występują takie elementy krajobrazu, lub utraty posiadania takich gruntów, a grunty te nie są objęte zobowiązaniem rolno-środowiskowo-klimatycznym.
+
+### 8.
+
+Jeżeli:
+
+### 1)
+
+rolnik lub zarządca nie prowadzi rejestru działalności rolnośrodowiskowej, płatność rolno-środowiskowo-klimatyczna przysługuje temu rolnikowi lub zarządcy w wysokości zmniejszonej o 30%, w odniesieniu do powierzchni gruntów, dla których ten rejestr nie jest prowadzony;
+
+### 2)
+
+prowadzony przez rolnika lub zarządcę rejestr działalności rolnośrodowiskowej jest niekompletny, płatność rolno-środowiskowo-klimatyczna przysługuje temu rolnikowi lub zarządcy w wysokości zmniejszonej o 5%, w odniesieniu do powierzchni gruntów, dla których ten rejestr jest niekompletny.
+
+### 9.
+
+Jeżeli rolnik lub zarządca nie posiada planu działalności rolnośrodowiskowej, płatność rolno-środowiskowo-klimatyczna przysługuje temu rolnikowi lub zarządcy w wysokości zmniejszonej o 40%.
+
+### 10.
+
+Jeżeli zostanie stwierdzone, że plan działalności rolnośrodowiskowej jest niekompletny lub jest niezgodny z informacjami przekazanymi we wniosku i załącznikami do niego w zakresie informacji, o których mowa w ust. 1 pkt 1 lub 4, lub ust. 2 pkt 1 lub 2, lub ust. 3 załącznika nr 3 do rozporządzenia, rolnik lub zarządca:
+
+### 1)
+
+uzupełnia lub poprawia ten plan,
+
+### 2)
+
+składa oświadczenie o uzupełnieniu lub poprawieniu tego planu do kierownika biura powiatowego Agencji
+
+- najpóźniej w terminie składania wniosków o przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej, a w przypadku gdy w ostatnim roku realizacji zobowiązania rolno-środowiskowo-klimatycznego zostanie stwierdzone, że ten plan jest niekompletny lub jest niezgodny z informacjami przekazanymi we wniosku i załącznikami do niego w zakresie informacji, o których mowa w ust. 1 pkt 1 lub 4, lub ust. 2 pkt 1 lub 2, lub ust. 3 załącznika nr 3 do rozporządzenia - w terminie do dnia 14 marca ostatniego roku realizacji tego zobowiązania.
+
+### 11.
+
+W przypadku niedokonania w terminie czynności, o których mowa w ust. 10, płatność rolno-środowiskowo-klimatyczna podlega zwrotowi w części stanowiącej 30% wysokości tej płatności.
+
+### 12.
+
+Jeżeli w kolejnym roku realizacji zobowiązania zostanie ponownie stwierdzone to samo uchybienie, o którym mowa w ust. 1-3, płatność rolno-środowiskowo-klimatyczna jest zmniejszana dodatkowo o kwotę stanowiącą:
+
+### 1)
+
+10% kwoty, którą rolnik lub zarządca otrzymałby, gdyby to uchybienie nie wystąpiło - w przypadku ponownego stwierdzenia tego samego uchybienia po raz pierwszy;
+
+### 2)
+
+20% kwoty, którą rolnik lub zarządca otrzymałby, gdyby to uchybienie nie wystąpiło - w przypadku ponownego stwierdzenia tego samego uchybienia po raz drugi;
+
+### 3)
+
+30% kwoty, którą rolnik lub zarządca otrzymałby, gdyby to uchybienie nie wystąpiło - w przypadku ponownego stwierdzenia tego samego uchybienia po raz trzeci.
+
+### 13.
+
+Jeżeli zostanie stwierdzone uchybienie w przestrzeganiu przez rolnika lub zarządcę odpowiednich minimalnych wymogów dotyczących stosowania nawozów i środków ochrony roślin lub innych odpowiednich obowiązkowych wymogów, o których mowa w art. 28 ust. 3 rozporządzenia nr 1305/2013, płatność rolno-środowiskowo-klimatyczna przysługuje w wysokości zmniejszonej o kwotę stanowiącą iloczyn:
+
+### 1)
+
+iloczynu:
+
+### a)
+
+współczynnika dotkliwości danego uchybienia i
+
+### b)
+
+współczynnika trwałości danego uchybienia
+
+- określonych w załączniku nr 1 do rozporządzenia oraz
+
+### 2)
+
+kwoty stanowiącej iloczyn:
+
+### a)
+
+wysokości płatności, jaka przysługiwałaby, gdyby rolnik przestrzegał tych wymogów, oraz
+
+### b)
+
+procentowego stosunku powierzchni obszaru, na którym stwierdzono to uchybienie, do powierzchni obszaru, na którym powinny być przestrzegane te wymogi.
+
+### § 34.
+
+### 1.
+
+Płatność rolno-środowiskowo-klimatyczna podlega zwrotowi, jeżeli rolnik lub zarządca nie realizuje całego zobowiązania rolno-środowiskowo-klimatycznego lub nie spełnia innych warunków przyznania płatności rolno-środowiskowo-klimatycznej określonych w rozporządzeniu.
+
+### 2.
+
+Płatność rolno-środowiskowo-klimatyczna podlega zwrotowi również w przypadku, gdy:
+
+### 1)
+
+rolnik zmniejszył wielkość obszaru gruntów ornych, na którym powinien realizować zobowiązanie rolno-środowiskowo-klimatyczne w ramach pakietu wymienionego w § 4 ust. 1 pkt 1, przy czym zwrotowi podlega ta część płatności przyznanej w ramach tego pakietu, która odpowiada procentowemu stosunkowi powierzchni obszaru gruntów ornych, na którym rolnik nie realizuje tego zobowiązania, do powierzchni obszaru tych gruntów ornych, na którym powinno być realizowane to zobowiązanie;
+
+### 2)
+
+rolnik lub zarządca zmniejszył wielkość obszaru, na którym powinien realizować zobowiązanie rolno-środowiskowo-klimatyczne w ramach danego pakietu lub jego wariantu wymienionego w § 4 ust. 1 pkt 2-6, przy czym zwrotowi podlega ta część płatności przyznanej w ramach danego pakietu lub jego wariantu, która odpowiada procentowemu stosunkowi powierzchni obszaru, na którym rolnik lub zarządca nie realizuje tego zobowiązania, do powierzchni obszaru, na którym powinno być realizowane to zobowiązanie;
+
+### 3)
+
+rolnik zmniejszył liczbę zwierząt danej rasy lokalnej objętych zobowiązaniem rolno-środowiskowo-klimatycznym w ramach danego wariantu pakietu wymienionego w § 4 ust. 1 pkt 7 do poziomu niższego niż liczba zwierząt danej rasy, objętych zobowiązaniem rolno-środowiskowo-klimatycznym w pierwszym roku jego realizacji, przy czym zwrotowi podlega ta część płatności, która została przyznana do zwierząt objętych zmniejszeniem oraz zwierząt, które zostały zastąpione przez te zwierzęta na podstawie § 7 ust. 1 pkt 2;
+
+### 4)
+
+rolnik lub zarządca nie złożył wniosku o przyznanie kolejnej płatności rolno-środowiskowo-klimatycznej do określonych gruntów lub zwierząt objętych zobowiązaniem rolno-środowiskowo-klimatycznym albo informacji, o której mowa w § 19 ust. 3, przy czym zwrotowi podlega ta część płatności, która została przyznana do tych gruntów lub tych zwierząt.
+
+### 3.
+
+Kwota przeznaczona na refundację kosztów transakcyjnych, o których mowa w § 18 ust. 1 pkt 1, podlega zwrotowi w części przekraczającej wysokość kwoty, jaka powinna być przeznaczona na ich refundację, jeżeli stwierdzona powierzchnia siedliska, dla którego sporządzono dokumentację przyrodniczą, jest mniejsza niż określona we wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej.
+
+### 4.
+
+Płatność rolno-środowiskowo-klimatyczna podlega zwrotowi w trybie i na zasadach określonych w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+### § 35.
+
+### 1.
+
+Rolnikowi, który od dnia 15 marca 2014 r. realizuje zobowiązanie rolnośrodowiskowe, może zostać przyznana płatność rolno-środowiskowo-klimatyczna, jeżeli od dnia 15 marca 2015 r. kontynuuje podjęte zobowiązanie jako zobowiązanie rolno-środowiskowo-klimatyczne w ramach pakietu wymienionego w § 4 ust. 1:
+
+### 1)
+
+pkt 1 - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach Pakietu 1. Rolnictwo zrównoważone,
+
+### 2)
+
+pkt 2 w zakresie wariantu 2.1. - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach Pakietu 8. Ochrona gleb i wód,
+
+### 3)
+
+pkt 3 - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach wariantu czwartego Pakietu 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie,
+
+### 4)
+
+pkt 4 w zakresie tożsamych gatunków ptaków i siedlisk przyrodniczych - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach Pakietu 5. Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000,
+
+### 5)
+
+pkt 5 w zakresie tożsamych siedlisk przyrodniczych - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach Pakietu 4. Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych poza obszarami Natura 2000,
+
+### 6)
+
+pkt 6 - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach wariantów pierwszego lub drugiego Pakietu 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie,
+
+### 7)
+
+pkt 7 - w przypadku gdy dotychczas realizował zobowiązanie rolnośrodowiskowe w ramach tożsamych wariantów Pakietu 7. Zachowanie zagrożonych zasobów genetycznych zwierząt w rolnictwie
+
+- i spełnia warunki przyznania płatności rolno-środowiskowo-klimatycznej w ramach tych pakietów oraz będzie realizował to zobowiązanie na tym samym obszarze, na którym realizował dotychczas zobowiązanie rolnośrodowiskowe w ramach tych pakietów.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, rolnik może:
+
+### 1)
+
+w 2015 r.:
+
+### a)
+
+zwiększyć wielkość obszaru, na którym realizował dotychczas zobowiązanie rolnośrodowiskowe,
+
+### b)
+
+podjąć nowe zobowiązanie rolno-środowiskowo-klimatyczne;
+
+### 2)
+
+w 2016 r. podjąć nowe zobowiązanie rolno-środowiskowo-klimatyczne.
+
+### 3.
+
+Rolnik realizuje zobowiązanie, o którym mowa w:
+
+### 1)
+
+ust. 1 - do dnia 14 marca 2019 r.;
+
+### 2)
+
+ust. 2 pkt 1 lit. b - do dnia 14 marca 2020 r.;
+
+### 3)
+
+ust. 2 pkt 2 - do dnia 14 marca 2021 r.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 1, do ustalenia obszaru objętego zobowiązaniem rolno-środowiskowo-klimatycznym stosuje się § 5 ust. 1 i 2, z tym że za rok, w którym została przyznana pierwsza płatność rolno-środowiskowo-klimatyczna, uznaje się rok 2015.
+
+### § 36.
+
+### 1.
+
+W 2015 r. do wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej można dołączyć kopie dokumentów, o których mowa w § 20 ust. 3, sporządzonych na formularzu udostępnionym przez Agencję na podstawie przepisów rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 13 marca 2013 r. w sprawie szczegółowych warunków i trybu przyznawania pomocy finansowej w ramach działania „Program rolnośrodowiskowy” objętego Programem Rozwoju Obszarów Wiejskich na lata 2007-2013 ([Dz. U. poz. 361](https://api.sejm.gov.pl/eli/acts/DU/2013/361/text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1312, z 2014 r. poz. 324 i 1487 oraz z 2015 r. poz. 350.](#gloss-0:3:)).
+
+### 2.
+
+W 2015 r. zamiast kopii dokumentu, o którym mowa w § 21 ust. 1 pkt 1 lit. a tiret pierwsze, sporządzonego przez laboratorium okręgowej stacji chemiczno-rolniczej lub inne laboratorium posiadające akredytację Polskiego Centrum Akredytacji w zakresie badań agrochemicznych gleb, rolnik może złożyć kopię takiego dokumentu sporządzonego przez inne laboratorium, jeżeli próbki gleby do badań agrochemicznych z poszczególnych działek rolnych położonych na gruntach ornych, do których rolnik ubiega się o przyznanie płatności rolno-środowiskowo-klimatycznej w ramach pakietu wymienionego w § 4 ust. 1 pkt 1, zostały dostarczone do tego laboratorium przed dniem wejścia w życie rozporządzenia.
+
+### § 37.
+
+Jeżeli zobowiązanie rolnośrodowiskowe w ramach Pakietu 8. Ochrona gleb i wód, podjęte przez rolnika w 2012 r. albo 2013 r., albo 2014 r., utraciło ważność na podstawie art. 46 rozporządzenia Komisji (WE) nr 1974/2006 z dnia 15 grudnia 2006 r. ustanawiającego szczegółowe zasady stosowania rozporządzenia Rady (WE) nr 1698/2005 w sprawie wsparcia rozwoju obszarów wiejskich przez Europejski Fundusz Rolny na rzecz Rozwoju Obszarów Wiejskich (EFRROW) ([Dz. Urz. UE L 368 z 23.12.2006, str. 15](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), rolnikowi temu nie przyznaje się płatności rolno-środowiskowo-klimatycznej w ramach wariantu 2.1.
+
+### § 38.
+
+Wnioski o przyznanie płatności rolno-środowiskowo-klimatycznej, złożone przed dniem wejścia w życie rozporządzenia, lecz nie wcześniej niż w dniu 15 marca 2015 r., uważa się za złożone w terminie.
+
+### § 39.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822, 850 i 1146. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2013 r. poz. 1312, z 2014 r. poz. 324 i 1487 oraz z 2015 r. poz. 350.
+
+## Załącznik nr 1 - Minimalne wymogi dotyczące stosowania nawozów i środków ochrony roślin oraz inne odpowiednie obowiązkowe wymogi
+
+Wymogi Rodzaj uchybienia Pakiety/ Warianty Współczynnik dotkliwości uchybienia Współczynnik trwałości uchybienia Iloczyn współczynnika dotkliwości i trwałości Odwracalna krótkotrwała Odwracalna długotrwała Nieodwracalna I. WYMOGI DOTYCZĄCE STOSOWANIA NAWOZÓW 1. Niestosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych na obszarach położonych poza obszarami OSN 1. Stwierdzono zastosowanie w danym roku dawki nawozu naturalnego zawierającej więcej niż 170 kg azotu w czystym składniku na 1 ha użytków rolnych poza obszarami OSN. pakiet 1., 4. i 5. 20% 1,25 25% - art. 17 ust. 3 ustawy z dnia 10 lipca 2007 r. o nawozach i nawożeniu (Dz. U. Nr 147, poz. 1033, z późn. zm.). 2. Stosowanie komunalnych osadów ściekowych na obszarach położonych poza obszarami OSN zgodnie z zaleconymi dawkami, ustalonymi zgodnie z § 3 rozporządzenia Ministra Środowiska z dnia 6 lutego 2015 r. w sprawie komunalnych osadów ściekowych (Dz. U. poz. 257) 2. Stwierdzono, że poza obszarami OSN zastosowano komunalne osady ściekowe w stopniu przekraczającym zalecane dawki komunalnych osadów ściekowych, o których mowa w § 3 rozporządzenia Ministra Środowiska z dnia 6 lutego 2015 r. w sprawie komunalnych osadów ściekowych. pakiet 1., 2., 4. i 5. 20% 1,5 30% - § 3 rozporządzenia Ministra Środowiska z dnia 6 lutego 2015 r. w sprawie komunalnych osadów ściekowych. II. WYMOGI DOTYCZĄCE STOSOWANIA ŚRODKÓW OCHRONY ROŚLIN 1. Przeciwdziałanie zniesieniu środków ochrony roślin na obszary i obiekty niebędące celem zabiegu z zastosowaniem tych środków. Stosowanie środków ochrony roślin należy planować z uwzględnieniem okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem 1. Nie przeciwdziałano zniesieniu środków ochrony roślin na obszary lub obiekty niebędące celem zabiegu z zastosowaniem tych środków lub stwierdzono, że stosowanie środków ochrony roślin zaplanowano bez uwzględnienia okresu, w którym ludzie będą przebywać na obszarze objętym zabiegiem. pakiet 2., 3., 4. i 5. 20% 1,25 25% - art. 35 ust. 1 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin (Dz. U. poz. 455, z późn. zm.). 2. Uwzględnienie integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin oraz wskazanie sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin 2. Stwierdzono, że nie uwzględniono integrowanej ochrony roślin w przypadku stosowania środków ochrony roślin lub nie wskazano sposobu realizacji wymagań integrowanej ochrony roślin w dokumentacji (ewidencji zabiegów) przez podanie przyczyny wykonania zabiegu środkiem ochrony roślin. pakiet 2., 3., 4. i 5. 20% 1,25 25% - art. 35 ust. 3 ustawy z dnia 8 marca 2013 r. o środkach ochrony roślin. III. INNE ODPOWIEDNIE OBOWIĄZKOWE WYMOGI 1. W parkach narodowych oraz rezerwatach przyrody, z zastrzeżeniem art. 15 ust. 2 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm.), przestrzega się zakazu: 1. Stwierdzono, że w parkach narodowych oraz rezerwatach przyrody, z zastrzeżeniem art. 15 ust. 2 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, nie jest przestrzegany zakaz: pakiety 1.-7. w granicach parków narodowych oraz rezerwatów przyrody 29% 1,75 50% 1) użytkowania, niszczenia, umyślnego uszkadzania, zanieczyszczania i dokonywania zmian obiektów przyrodniczych, obszarów oraz zasobów, tworów i składników przyrody, 1) użytkowania, niszczenia, umyślnego uszkadzania, zanieczyszczania i dokonywania zmian obiektów przyrodniczych, obszarów oraz zasobów, tworów i składników przyrody; 2) pozyskiwania skał, w tym torfu, oraz skamieniałości, w tym kopalnych szczątków roślin i zwierząt, minerałów i bursztynu, 2) pozyskiwania skał, w tym torfu, oraz skamieniałości, w tym kopalnych szczątków roślin i zwierząt, minerałów i bursztynu; 3) budowy lub przebudowy obiektów budowlanych i urządzeń technicznych, z wyjątkiem obiektów i urządzeń służących celom parku narodowego albo rezerwatu przyrody, 3) budowy lub przebudowy obiektów budowlanych i urządzeń technicznych, z wyjątkiem obiektów i urządzeń służących celom parku narodowego albo rezerwatu przyrody; 4) zmiany stosunków wodnych, regulacji rzek i potoków, jeżeli zmiany te nie służą ochronie przyrody 4) zmiany stosunków wodnych, regulacji rzek i potoków, jeżeli zmiany te nie służą ochronie przyrody. - art. 15 ust. 1 pkt 1, 6-8 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 2. Nieniszczenie, nieuszkadzanie lub nieprzekształcanie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo-krajo-brazowego, jeżeli taki zakaz został wprowadzony 2. Stwierdzono zniszczenie, uszkodzenie lub przekształcenie pomnika przyrody (z wyjątkiem drzewa ustanowionego pomnikiem przyrody), stanowiska dokumentacyjnego, użytku ekologicznego lub zespołu przyrodniczo-krajobrazowego, pomimo tego, że taki zakaz został wprowadzony. pakiety 1.-7. 29% 1,75 50% - art. 45 ust. 1 pkt 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody. 3. Utrzymywanie czystości i porządku na obszarze gospodarstwa rolnego przez wyposażenie nieruchomości w pojemniki służące do zbierania odpadów komunalnych 3. Stwierdzono brak utrzymywania czystości i porządku na obszarze gospodarstwa rolnego przez brak wyposażenia nieruchomości w pojemniki służące do zbierania odpadów komunalnych. pakiety 1.-7. 10% 1,25 12,5% - art. 5 ust. 1 pkt 1 ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2013r.poz. 1399, z późn. zm.). 4. Zachowywanie odmiany regionalnej w regionie pochodzenia 4. Stwierdzono zachowywanie odmiany regionalnej poza regionem pochodzenia. wariant 6.1. w zakresie roślin regionalnych i amatorskich wpisanych do krajowego rejestru 29% - - 1,75 50% - art. 28 ust. 1 pkt 4 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. poz. 1512, z późn. zm.). 5. Materiał siewny odmian regionalnych jest wytwarzany w regionie pochodzenia 5. Stwierdzono wytwarzanie materiału siewnego odmian regionalnych poza regionem pochodzenia. wariant 6.2. w zakresie roślin regionalnych i amatorskich wpisanych do krajowego rejestru 29% - - 1,75 50% - art. 28 ust. 1 pkt 4 ustawy z dnia 9 listopada 2012 r. o nasiennictwie. 6. Uzyskanie świadectwa oceny laboratoryjnej materiału siewnego, zgodnego ze wzorem określonym w załączniku nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2013 r. w sprawie wzorów świadectw i informacji dotyczących oceny materiału siewnego (Dz. U. poz. 1554, z późn. zm.) 6. Stwierdzono, że uzyskane świadectwo oceny laboratoryjnej materiału siewnego nie jest zgodne ze wzorem określonym w załączniku nr 1 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2013 r. w sprawie wzorów świadectw i informacji dotyczących oceny materiału siewnego. wariant 6.2. w zakresie roślinregionalnych i amatorskich wpisanych do krajowego rejestru 10% 1,25 12,5% - § 1 pkt 1 lit. b rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 listopada 2013 r. w sprawie wzorów świadectw i informacji dotyczących oceny materiału siewnego.
+
+## Załącznik nr 2 - Wymogi dla poszczególnych pakietów
+
+### I.
+
+Pakiet 1. Rolnictwo zrównoważone
+
+### 1.
+
+Zastosowanie co najmniej 4 upraw w rozumieniu art. 44 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1307/2013 z dnia 17 grudnia 2013 r. ustanawiającego przepisy dotyczące płatności bezpośrednich dla rolników na podstawie systemów wsparcia w ramach wspólnej polityki rolnej oraz uchylającego rozporządzenie Rady (WE) nr 637/2008 i rozporządzenie Rady (WE) nr 73/2009, wymienionych w ust. 1 załącznika nr 4 do rozporządzenia w plonie głównym w danym roku na gruntach ornych w gospodarstwie, przy czym udział:
+
+### 1)
+
+uprawy, która zajmuje największą powierzchnię gruntów ornych w gospodarstwie, nie może przekraczać 65% powierzchni wszystkich gruntów ornych w gospodarstwie;
+
+### 2)
+
+upraw zbóż nie może przekraczać 65% powierzchni wszystkich gruntów ornych w gospodarstwie;
+
+### 3)
+
+każdej z czterech upraw nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie.
+
+### 2.
+
+Dwukrotna chemiczna analiza gleby (pH, P, K, Mg i węgiel organiczny) - wykonana na gruntach ornych w pierwszym (lub poprzedzającym) i w piątym (lub poprzedzającym) roku realizacji pakietu.
+
+### 3.
+
+Coroczne opracowanie dla gruntów ornych i przestrzeganie planu nawozowego, opartego na bilansie azotu oraz chemicznej analizie gleby, określającego dawki N, P, K, Mg i potrzeby wapnowania, przy czym dopuszczalne jest stosowanie dawek nawozów niższych niż określone w planie nawozowym.
+
+### 4.
+
+Zastosowanie na działce rolnej:
+
+### 1)
+
+w zmianowaniu minimum 3 grup upraw, o których mowa w ust. 1 załącznika nr 4 do rozporządzenia, w ciągu 5 lat zobowiązania;
+
+### 2)
+
+w jednym roku realizacji zobowiązania rolno-środowiskowo-klimatycznego, lecz nie później niż w 4. roku realizacji tego zobowiązania, następującej praktyki dodatkowej - międzyplon (wysiewany w terminie do dnia 1 października, przy jednoczesnym zakazie wznawiania zabiegów agrotechnicznych przed dniem 15 lutego);
+
+### 3)
+
+w innym niż określony w pkt 2 roku realizacji zobowiązania rolno-środowiskowo-klimatycznego, lecz nie później niż w 4. roku realizacji tego zobowiązania, jednej z poniższych praktyk dodatkowych:
+
+### a)
+
+międzyplon (wysiewany w terminie do dnia 1 października, przy jednoczesnym zakazie wznawiania zabiegów agrotechnicznych przed dniem 15 lutego),
+
+### b)
+
+przyoranie słomy,
+
+### c)
+
+przyoranie obornika
+
+- w przypadku działek rolnych, na których są uprawiane rośliny inne niż wieloletnie.
+
+### 5.
+
+Koszenie w terminie do dnia 31 lipca lub wypasanie w okresie wegetacyjnym na trwałych użytkach zielonych.
+
+### 6.
+
+Zebranie i usunięcie skoszonej biomasy (siano powinno zostać usunięte z działki rolnej lub ułożone w pryzmy, w tym pryzmy balotowe, stogi lub brogi, w terminie do 2 tygodni po pokosie) lub pozostawianie rozdrobnionej biomasy.
+
+### 7.
+
+W przypadku równoczesnej realizacji na tym samym obszarze pakietu 4. lub 5. - obowiązują wymogi określone w części IV.
+
+### 8.
+
+Niestosowanie komunalnych osadów ściekowych.
+
+### II.
+
+Pakiet 2. Ochrona gleb i wód
+
+### 1.
+
+Wymogi dla Wariantu 2.1. Międzyplony:
+
+### 1)
+
+się w roślin międzyplonowych w terminie do dnia 15 września;
+
+### 2)
+
+zakaz wznawiania zabiegów agrotechnicznych przed dniem 1 marca;
+
+### 3)
+
+stosowanie jako międzyplon wyłącznie mieszanki złożonej z minimum 3 gatunków roślin, przy czym gatunek rośliny dominującej w mieszance lub gatunki zbóż wykorzystane w mieszance nie mogą przekroczyć 70% jej składu;
+
+### 4)
+
+zakaz stosowania mieszanki składającej się wyłącznie z gatunków zbóż;
+
+### 5)
+
+zakaz nawożenia międzyplonu;
+
+### 6)
+
+zakaz stosowania pestycydów w międzyplonie;
+
+### 7)
+
+niestosowanie komunalnych osadów ściekowych;
+
+### 8)
+
+przyoranie biomasy międzyplonu, z wyłączeniem uprawy gleby w systemie bezorkowym;
+
+### 9)
+
+zakaz uprawy w plonie głównym mieszanki tych samych roślin (w przypadku międzyplonu ozimego również form jarych);
+
+### 10)
+
+dopuszczalny wypas mieszanek roślin jarych jesienią, a mieszanek roślin ozimych - wiosną, jeżeli doradca rolnośro-dowiskowy dopuści taką możliwość.
+
+### 2.
+
+Wymogi dla Wariantu 2.2. Pasy ochronne na stokach o nachyleniu powyżej 20%:
+
+### 1)
+
+wysianie mieszanki traw do dnia 15 kwietnia lub w okresie od dnia 15 sierpnia do dnia 10 września;
+
+### 2)
+
+zakaz spasania trawy na pasie ochronnym w roku założenia pasa ochronnego;
+
+### 3)
+
+niestosowanie komunalnych osadów ściekowych;
+
+### 4)
+
+wypasanie pasów ochronnych w okresie od dnia 20 maja do dnia 1 października lub ich wykaszanie przynajmniej raz w roku w okresie od dnia 15 czerwca do dnia 30 września oraz:
+
+### a)
+
+zbiór biomasy lub
+
+### b)
+
+rozdrobnienie i równomierne rozrzucenie biomasy - w okresie od dnia 15 czerwca do dnia 30 września.
+
+### III.
+
+Pakiet 3. Zachowanie sadów tradycyjnych odmian drzew owocowych
+
+### 1.
+
+Zachowanie sadu tradycyjnych odmian drzew owocowych, który obejmuje co najmniej 12 drzew:
+
+### 1)
+
+rozmnażanych na silnie rosnących podkładkach,
+
+### 2)
+
+prowadzonych jako pienne lub wysokopienne drzewa,
+
+### 3)
+
+w wieku od 15 lat,
+
+### 4)
+
+reprezentujących nie mniej niż 4 odmiany lub gatunki,
+
+### 5)
+
+w rozstawie nie mniejszej niż 4 x 6 m i nie większej niż 10 x 10 m, a ich liczba w przeliczeniu na 1 ha powierzchni sadu jest nie mniejsza niż 90
+
+- przy czym istnieje możliwość uzupełnienia wypadów w sadzie w miejscach, gdzie nie ma zapewnionej ciągłości nasadzenia, po uzyskaniu pierwszej płatności rolno-środowiskowo-klimatycznej w ramach tego pakietu, do 40% obsady wszystkich drzew odmianami określonymi w ust. 2 załącznika nr 4 do rozporządzenia lub odmianami drzew tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej przed 1950 r. Uzupełnienie wymaga zwiększenia liczby odmian lub gatunków o co najmniej trzy odmiany lub gatunki dla sadu, w którym dosadzane jest trzy lub więcej drzew. W przypadku dosadzenia jednego lub dwóch drzew, wystarczy uzupełnienie sadu odpowiednio o jedną lub dwie odmiany lub gatunki. Uzupełniania dokonuje się drzewami rozmnażanymi na silnie rosnących podkładkach i prowadzonymi jako pienne lub wysokopienne drzewa.
+
+### 2.
+
+Minimalna wysokość pnia powinna wynosić 1,20 m.
+
+### 3.
+
+Zakaz stosowania herbicydów.
+
+### 4.
+
+Wykonywanie, zgodnie ze wskazaniami doradcy rolnośrodowiskowego podstawowych zabiegów pielęgnacyjnych w sadzie:
+
+### 1)
+
+cięcie formujące i sanitarne drzew oraz prześwietlające nadmiernie zagęszczone korony;
+
+### 2)
+
+usuwanie odrostów i samosiewów;
+
+### 3)
+
+bielenie pni drzew starszych i zabezpieczanie pni młodych drzew przed ogryzaniem przez gryzonie i zającokształtne.
+
+### 5.
+
+Koszenie trawy co najmniej raz w sezonie wegetacyjnym lub wypasanie w okresie wegetacyjnym.
+
+### 6.
+
+Zebranie i usunięcie skoszonej biomasy (siano powinno zostać usunięte z działki rolnej lub ułożone w pryzmy, w tym pryzmy balotowe, stogi lub brogi, w terminie do 2 tygodni po pokosie) lub pozostawianie rozdrobnionej biomasy.
+
+### IV.
+
+Pakiet 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000 i Pakiet 5. Cenne siedliska poza obszarami Natura 2000
+
+### 1.
+
+Wymogi dla wszystkich wariantów Pakietu 4. i Pakietu 5.:
+
+### 1)
+
+zakaz: wałowania, stosowania komunalnych osadów ściekowych oraz stosowania podsiewu;
+
+### 2)
+
+zakaz włókowania w okresie od dnia:
+
+### a)
+
+1 kwietnia do dnia 1 września na obszarach nizinnych (poniżej 300 m n.p.m.),
+
+### b)
+
+15 kwietnia do dnia 1 września na obszarach wyżynnych i górskich (powyżej 300 m n.p.m.);
+
+### 3)
+
+zakaz stosowania środków ochrony roślin, z wyjątkiem selektywnego i miejscowego niszczenia uciążliwych gatunków inwazyjnych z zastosowaniem odpowiedniego sprzętu (np. mazaczy herbicydowych);
+
+### 4)
+
+zakaz tworzenia nowych, rozbudowy i odtwarzania istniejących systemów melioracyjnych, z wyjątkiem konstrukcji urządzeń mających na celu dostosowanie poziomu wód, wykorzystując istniejące systemy melioracyjne do wymogów siedliskowych gatunków lub siedlisk będących przedmiotem ochrony w danym pakiecie, jeżeli takie działania zostaną szczegółowo określone przez eksperta przyrodniczego, a w przypadku wariantu 4.7. - przez doradcę rolnośrodowisko-wego;
+
+### 5)
+
+zakaz składowania biomasy wśród kęp drzew i zarośli, w rowach, jarach i innych obniżeniach terenu (położonych na działkach zadeklarowanych we wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej).
+
+### 2.
+
+Wymogi dla Wariantów 4.1. i 5.1. Zmiennowilgotne łąki trzęślicowe (użytkowanie kośne, a w uzasadnionych przypadkach określonych przez eksperta przyrodniczego - kośno-pastwiskowe):
+
+### 1)
+
+zakaz: nawożenia, wapnowania, mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 2)
+
+częstotliwość koszenia: jeden pokos co roku, a w przypadkach określonych przez eksperta przyrodniczego co dwa lata;
+
+### 3)
+
+termin koszenia: od dnia 1 września do dnia 31 października, a w uzasadnionych przypadkach określonych przez eksperta przyrodniczego - od dnia 15 czerwca do dnia 30 czerwca, np. w sytuacjach wkraczania roślin niepożądanych w tym zbiorowisku;
+
+### 4)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku;
+
+### 5)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w dwóch kolejnych pokosach (wykonywanych w odstępie roku lub 2 lat) należy pozostawić inne fragmenty niesko-szone;
+
+### 6)
+
+dla działek rolnych nieprzekraczających powierzchni 0,5 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość;
+
+### 7)
+
+dopuszczalny jest wypas po pokosie, jednak nie wcześniej niż od dnia 1 września do dnia 15 października przy obsadzie zwierząt do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość.
+
+### 3.
+
+Wymogi dla Wariantów 4.2. i 5.2. Zalewowe łąki selernicowe i słonorośla (użytkowanie kośne, kośno-pastwiskowe, pastwiskowe albo naprzemienne, przy czym użytkowanie naprzemienne polega na stosowaniu w niektórych latach użytkowania pastwiskowego, a w niektórych latach kośnego lub kośno-pastwiskowego):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania: zakaz nawożenia, wapnowania, mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania,
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: wykonanie jednego lub dwóch pokosów w ciągu roku; liczba pokosów określona jest przez eksperta przyrodniczego,
+
+### b)
+
+termin koszenia: od dnia 15 czerwca do dnia 30 września,
+
+### c)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy baloto-we, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### d)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w przypadku stosowania dwóch pokosów w ciągu roku należy pozostawić te same fragmenty działki rolnej nieskoszone, a w przypadku pokosów w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### e)
+
+dla działek rolnych nieprzekraczających powierzchni 1 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### f)
+
+przy użytkowaniu jednokośnym jest dopuszczalny wypas po pokosie w terminie do dnia 15 października, przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy obsadzie zwierząt od 0,5 DJP do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 1 maja do dnia 15 października,
+
+### b)
+
+dopuszczalne jest wypasanie przez cały rok koników polskich i koni huculskich przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### c)
+
+coroczne wykoszenie niedojadów (raz w roku) w terminie od dnia 15 lipca do dnia 31 października,
+
+### d)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy) - dotyczy niedojadów; w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku.
+
+### 4.
+
+Wymogi dla Wariantów 4.3. i 5.3. Murawy (użytkowanie pastwiskowe, a w uzasadnionych przypadkach określonych przez eksperta przyrodniczego - kośne, kośno-pastwiskowe albo naprzemienne, przy czym użytkowanie naprzemienne polega na stosowaniu w niektórych latach użytkowania pastwiskowego, a w niektórych latach kośnego lub kośno-pastwisko-wego):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania;
+
+### a)
+
+zakaz nawożenia,
+
+### b)
+
+zakaz wapnowania,
+
+### c)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy obsadzie zwierząt od 0,3 DJP do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 1 maja do dnia 15 października,
+
+### b)
+
+obowiązkowe wykaszanie niedojadów raz w roku lub raz na 2 lata, w terminie od dnia 1 sierpnia do dnia 31 października,
+
+### c)
+
+w przypadku niedojadów: zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: jeden pokos co roku, a w przypadkach określonych przez eksperta przyrodniczego co dwa lata,
+
+### b)
+
+termin koszenia - od dnia 1 sierpnia do dnia 31 października,
+
+### c)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy baloto-we, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### d)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w dwóch kolejnych pokosach (wykonywanych w odstępie roku lub 2 lat) należy pozostawić inne fragmenty nie skoszone,
+
+### e)
+
+dla działek rolnych nieprzekraczających powierzchni 0,5 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### f)
+
+dopuszczalny jest wypas przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 1 maja do dnia 15 października, jeżeli ekspert przyrodniczy dopuści taką możliwość.
+
+### 5.
+
+Wymogi dla Wariantów 4.4. i 5.4. Pomaturalne łąki wilgotne (użytkowanie kośne, a w uzasadnionych przypadkach określonych przez eksperta przyrodniczego jest dopuszczalny wypas po pokosie, przy użytkowaniu jednokośnym (użytkowanie kośno-pastwiskowe)):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania:
+
+### a)
+
+dopuszczalne jest ograniczone nawożenie do 60 kg N/ha/rok, z wyłączeniem obszarów nawożonych przez namu-ły rzeczne,
+
+### b)
+
+zakaz wapnowania, mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: jeden lub dwa pokosy w roku - liczba pokosów określona przez eksperta przyrodniczego,
+
+### b)
+
+termin koszenia: od dnia 15 czerwca do dnia 30 września,
+
+### c)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w przypadku stosowania dwóch pokosów w ciągu roku należy pozostawić te same fragmenty działki rolnej nieskoszone, a w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### d)
+
+dla działek rolnych nieprzekraczających powierzchni 1 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### e)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### f)
+
+dopuszczalny jest wypas po pokosie, jednak nie wcześniej niż od dnia 15 lipca do dnia 15 października, przy obsadzie zwierząt do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość.
+
+### 6.
+
+Wymogi dla Wariantów 4.5. i 5.5. Pomaturalne łąki świeże (użytkowanie kośne, pastwiskowe albo naprzemienne, przy czym użytkowanie naprzemienne polega na stosowaniu w niektórych latach użytkowania pastwiskowego, a w niektórych latach kośnego lub kośno-pastwiskowego, a w uzasadnionych przypadkach, określonych przez eksperta przyrodniczego jest dopuszczalny wypas po pokosie, przy użytkowaniu jednokośnym (użytkowanie kośno-pastwiskowe)):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania:
+
+### a)
+
+dopuszczalne jest ograniczone nawożenie do 60 kg N/ha/rok, z wyłączeniem obszarów nawożonych przez namu-ły rzeczne,
+
+### b)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania,
+
+### c)
+
+wapnowanie jest dopuszczalne po wykonaniu niezbędnych w tym zakresie analiz, jeżeli ekspert przyrodniczy dopuści taką możliwość;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość pokosów: jeden lub dwa pokosy w roku; liczba pokosów określona jest przez eksperta przyrodniczego,
+
+### b)
+
+termin koszenia: od dnia 15 czerwca do dnia 30 września,
+
+### c)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy baloto-we, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### d)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w przypadku zastosowania dwóch pokosów w ciągu roku należy pozostawić ten sam fragment działki rolnej nieskoszony, a w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### e)
+
+dla działek rolnych nieprzekraczających powierzchni 1 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### f)
+
+przy użytkowaniu jednokośnym jest dopuszczalny wypas przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, po pokosie, w terminie do dnia 15 października, jeżeli ekspert przyrodniczy dopuści taką możliwość;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy obsadzie zwierząt od 0,5 DJP do 1,0 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 1 maja do dnia 15 października,
+
+### b)
+
+dopuszczalne jest wypasanie przez cały rok koników polskich i koni huculskich, przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### c)
+
+coroczne wykoszenie niedojadów (raz w roku) w terminie od dnia 15 lipca do dnia 31 października,
+
+### d)
+
+w przypadku niedojadów: zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do 1 marca kolejnego roku.
+
+### 7.
+
+Wymogi dla Wariantów 4.6. i 5.6. Torfowiska:
+
+### 1)
+
+wymogi dla Wariantu 4.6.1. i 5.6.1. Torfowiska - wymogi obowiązkowe:
+
+### a)
+
+zakaz: wydobywania torfu, zalesiania, nawożenia i wapnowania, mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania, wykorzystywania sprzętu mechanicznego powodującego naruszenie wierzchniej warstwy gleby oraz pozostawiania rozdrobnionej biomasy,
+
+### b)
+
+usuwanie odpadów pochodzenia antropogenicznego,
+
+### c)
+
+wycięcie wskazanych przez eksperta przyrodniczego zarośli i podrostu drzew w pierwszym roku wdrażania wariantu w terminie od dnia 15 sierpnia do dnia 15 lutego kolejnego roku,
+
+### d)
+
+koszenie powierzchni, na której występują odroślą drzew i krzewów, lub wycinanie tych odrośli co roku lub raz na 2 lata, co określi ekspert przyrodniczy, w terminie od dnia 15 sierpnia do dnia 15 lutego kolejnego roku,
+
+### e)
+
+zebranie i usunięcie wyciętej lub skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku;
+
+### 2)
+
+wymogi dla Wariantu 4.6.2. i 5.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające - oprócz wymogów określonych w pkt 1 przestrzega się następujących wymogów:
+
+### a)
+
+częstotliwość koszenia: raz, dwa lub trzy razy w ciągu 5 lat zobowiązania, jednak nie częściej niż co dwa lata, co określi ekspert przyrodniczy,
+
+### b)
+
+termin koszenia: koszenie runi od dnia 15 sierpnia do dnia 15 lutego kolejnego roku,
+
+### c)
+
+dopuszcza się pozostawienie do 20% powierzchni działki rolnej nieskoszonej, jeżeli ekspert przyrodniczy dopuści taką możliwość; w dwóch kolejnych pokosach należy pozostawić inne fragmenty nieskoszone,
+
+### d)
+
+obowiązek zebrania i usunięcia skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku.
+
+### 8.
+
+Wymogi dla Wariantu 4.7. Ekstensywne użytkowanie na obszarach specjalnej ochrony ptaków (OSO) (użytkowanie kośne, pastwiskowe albo kośno-pastwiskowe):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania:
+
+### a)
+
+dopuszczalne jest ograniczone nawożenie do 60 kg N/ha/rok, z wyłączeniem obszarów nawożonych przez namuły rzeczne,
+
+### b)
+
+zakaz stosowania jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu lub do dnia 15 czerwca w przypadku użytkowania pastwiskowego,
+
+### c)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: nie więcej niż dwa pokosy w roku,
+
+### b)
+
+termin koszenia: od dnia 15 czerwca do dnia 30 września,
+
+### c)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### d)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w przypadku stosowania dwóch pokosów w ciągu roku należy pozostawić te same fragmenty działki rolnej nieskoszone, a w przypadku pokosów w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### e)
+
+dla działek rolnych nieprzekraczających powierzchni 1 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki rolnej lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli doradca rolnośrodowiskowy dopuści taką możliwość,
+
+### f)
+
+dopuszczalny jest wypas zarówno po pierwszym jak i po drugim pokosie do dnia 31 października, przy obsadzie zwierząt do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli doradca rolnośrodowiskowy dopuści taką możliwość;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy minimalnej obsadzie zwierząt wynoszącej 0,5 DJP/ha, a maksymalnej 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu,
+
+### b)
+
+wypas w sezonie pastwiskowym trwającym od dnia 1 maja do dnia 15 października na obszarach do 300 m n.p.m. lub od dnia 20 maja do dnia 1 października na obszarach powyżej 300 m n.p.m.,
+
+### c)
+
+dopuszczalne jest wypasanie przez cały rok koników polskich i koni huculskich, jeżeli doradca rolnośrodowiskowy dopuści taką możliwość:
+
+- - na obszarach do 300 m n.p.m., przy obsadzie zwierząt do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 1 maja do dnia 31 marca oraz przy obsadzie do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie od dnia 1 kwietnia do dnia 30 kwietnia,
+
+- - na obszarach powyżej 300 m n.p.m., przy obsadzie zwierząt do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 20 maja do dnia 31 marca oraz przy obsadzie do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie od dnia 1 kwietnia do dnia 19 maja,
+
+### d)
+
+w przypadku niedojadów: wykaszanie niedojadów raz w roku, w terminie do dnia 31 października oraz zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku.
+
+### 9.
+
+Wymogi dla Wariantu 4.8. Ochrona siedlisk lęgowych ptaków: rycyka, kszyka, krwawodzioba lub czajki (użytkowanie kośne, pastwiskowe albo kośno-pastwiskowe):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania:
+
+### a)
+
+zakaz wapnowania,
+
+### b)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania,
+
+### c)
+
+zakaz stosowania jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu lub do dnia 15 czerwca w przypadku użytkowania pastwiskowego,
+
+### d)
+
+zakaz nawożenia w przypadku użytkowania kośno-pastwiskowego i pastwiskowego;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: dwa pokosy w ciągu roku - pierwszy pokos w terminie od dnia 15 czerwca do dnia 15 lipca, drugi pokos w terminie od dnia 15 sierpnia do dnia 31 października, a w uzasadnionych przypadkach użytkowanie jednokośne w odniesieniu do siedlisk o podłożu torfowym, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### b)
+
+termin koszenia: od dnia 15 czerwca do dnia 31 października,
+
+### c)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie siano powinno zostać usunięte z działki rolnej lub ułożone w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### d)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w przypadku stosowania dwóch pokosów w ciągu roku należy pozostawić te same fragmenty działki rolnej nieskoszone, a w przypadku pokosów w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### e)
+
+dla działek nieprzekraczających powierzchni 1 ha jest dopuszczalne zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### f)
+
+przy użytkowaniu jednokośnym jest dopuszczalny wypas po pokosie do dnia 31 października, przy obsadzie zwierząt od 0,5 do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### g)
+
+dopuszczalne jest ograniczone nawożenie do 60 kg N/ha/rok, z wyłączeniem obszarów nawożonych przez namu-ły rzeczne;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy obsadzie zwierząt do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, w terminie od dnia 15 maja do dnia 15 czerwca oraz przy obsadzie zwierząt od 0,5 do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu po dniu 15 czerwca do dnia 31 października,
+
+### b)
+
+dopuszczalne jest wypasanie przez cały rok koników polskich i koni huculskich, przy obsadzie zwierząt do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie po dniu 15 czerwca do dnia 31 marca oraz przy obsadzie do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie od dnia 1 kwietnia do dnia 15 czerwca, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### c)
+
+w przypadku niedojadów: coroczne wykoszenie niedojadów (raz w roku) w terminie od dnia 15 sierpnia do dnia 15 listopada oraz zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie siano powinno zostać usunięte z działki rolnej lub ułożone w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku.
+
+### 10.
+
+Wymogi dla Wariantu 4.9. Ochrona siedlisk lęgowych ptaków: wodniczki (użytkowanie kośne albo kośno-pastwiskowe):
+
+### 1)
+
+zakaz nawożenia;
+
+### 2)
+
+zakaz wapnowania;
+
+### 3)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 4)
+
+zakaz stosowania jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu;
+
+### 5)
+
+częstotliwość koszenia:
+
+### a)
+
+jeden pokos w roku lub
+
+### b)
+
+koszenie całej powierzchni działki rolnej co 2 lata (wyłącznie w przypadku, jeżeli ekspert przyrodniczy dopuści taką możliwość);
+
+### 6)
+
+termin koszenia: od dnia 15 sierpnia do dnia 15 lutego kolejnego roku;
+
+### 7)
+
+w przypadku corocznego koszenia: pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-85% powierzchni tej działki (procent powierzchni nieskoszonej określa ekspert przyrodniczy); w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone;
+
+### 8)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku;
+
+### 9)
+
+dopuszczalny jest wypas zarówno w latach kiedy jest pokos (przed pokosem lub po pokosie), jak i w latach kiedy nie ma pokosu, w terminie od dnia 15 maja do dnia 31 lipca przy obsadzie zwierząt do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu, a w terminie od dnia 1 sierpnia do dnia 31 października przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość.
+
+### 11.
+
+Wymogi dla Wariantu 4.10. Ochrona siedlisk lęgowych ptaków: dubelta lub kulika wielkiego (użytkowanie kośne, pastwiskowe albo kośno-pastwiskowe):
+
+### 1)
+
+wymogi obowiązkowe dla wszystkich typów użytkowania:
+
+### a)
+
+zakaz wapnowania,
+
+### b)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania,
+
+### c)
+
+zakaz nawożenia przy użytkowaniu kośno-pastwiskowym i pastwiskowym,
+
+### d)
+
+zakaz stosowania jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu w przypadku użytkowania kośnego i kośno-pastwiskowego lub do dnia 10 lipca w przypadku użytkowania pastwiskowego;
+
+### 2)
+
+wymogi obowiązkowe przy użytkowaniu kośnym i kośno-pastwiskowym:
+
+### a)
+
+częstotliwość koszenia: jeden lub dwa pokosy w roku - liczba pokosów określona przez eksperta przyrodniczego,
+
+### b)
+
+termin koszenia: pierwszy pokos od dnia 10 lipca do dnia 31 lipca, drugi pokos od dnia 15 sierpnia do dnia 31 października lub
+
+### c)
+
+w szczególnych przypadkach dopuszczalne jest koszenie całej powierzchni działki rolnej co 2 lata, jeżeli ekspert przyrodniczy dopuści taką możliwość w terminach określonych w lit. b,
+
+### d)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku,
+
+### e)
+
+w przypadku corocznego koszenia: pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, a w szczególnych przypadkach w odniesieniu do turzycowisk, zwłaszcza kępiastych - pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 50% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość; w przypadku stosowania dwóch pokosów w ciągu roku należy pozostawić te same fragmenty działki rolnej nieskoszone, a w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone,
+
+### f)
+
+dla działek nieprzekraczających powierzchni 1 ha dopuszczalne jest zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co roku całej działki lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, a w szczególnych przypadkach w odniesieniu do turzyco-wisk, zwłaszcza kępiastych - pozostawienie nieskoszonej powierzchni działki rolnej o powierzchni wynoszącej 50% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### g)
+
+przy użytkowaniu jednokośnym jest dopuszczalny wypas po pokosie w terminie do dnia 31 października, przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### h)
+
+dopuszczalne jest ograniczone nawożenie do 60 kg N/ha/rok, z wyłączeniem obszarów nawożonych przez namu-ły rzeczne;
+
+### 3)
+
+wymogi obowiązkowe przy użytkowaniu pastwiskowym:
+
+### a)
+
+wypas przy obsadzie zwierząt do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w sezonie od dnia 15 maja do dnia 10 lipca oraz przy obsadzie zwierząt od 0,5 do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu po dniu 10 lipca do dnia 31 października,
+
+### b)
+
+dopuszczalne jest wypasanie przez cały rok koników polskich i koni huculskich przy obsadzie zwierząt do 1,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie po dniu 10 lipca do dnia 31 marca oraz przy obsadzie do 0,5 DJP/ha gruntów objętych wsparciem w ramach wariantu w terminie od dnia 1 kwietnia do dnia 10 lipca, jeżeli ekspert przyrodniczy dopuści taką możliwość,
+
+### c)
+
+w przypadku niedojadów: coroczne wykoszenie niedojadów (raz w roku) w terminie od dnia 15 sierpnia do dnia 15 listopada oraz zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy) -dotyczy niedojadów; w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki rolnej lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku.
+
+### 12.
+
+Wymogi dla Wariantu 4.11. Ochrona siedlisk lęgowych ptaków: derkacza (użytkowanie kośne albo kośno-pastwi-skowe):
+
+### 1)
+
+zakaz nawożenia;
+
+### 2)
+
+zakaz wapnowania;
+
+### 3)
+
+zakaz mechanicznego niszczenia struktury gleby, w tym bronowania i przeorywania;
+
+### 4)
+
+zakaz stosowania jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu;
+
+### 5)
+
+częstotliwość koszenia: jeden pokos w ciągu roku;
+
+### 6)
+
+termin koszenia: od dnia 1 sierpnia do dnia 31 października;
+
+### 7)
+
+pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki; w dwóch kolejnych latach należy pozostawić inne fragmenty nieskoszone;
+
+### 8)
+
+dla działek nieprzekraczających powierzchni 1 ha dopuszczalne jest zrezygnowanie z pozostawiania powierzchni nieskoszonych i koszenie co rok całej działki lub pozostawienie nieskoszonego fragmentu działki rolnej o powierzchni wynoszącej 15-20% powierzchni tej działki, jeżeli ekspert przyrodniczy dopuści taką możliwość;
+
+### 9)
+
+zebranie i usunięcie skoszonej biomasy (w tym zakaz pozostawiania rozdrobnionej biomasy); w terminie do 2 tygodni po pokosie biomasa powinna zostać usunięta z działki lub ułożona w pryzmy, w tym pryzmy balotowe, stogi lub brogi; w przypadku ułożenia biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi powinna ona zostać usunięta z działki rolnej nie później niż do dnia 1 marca kolejnego roku;
+
+### 10)
+
+dopuszczalny jest wypas po pokosie do dnia 31 października przy obsadzie zwierząt do 1 DJP/ha gruntów objętych wsparciem w ramach wariantu, jeżeli ekspert przyrodniczy dopuści taką możliwość.
+
+### 13.
+
+Współczynniki przeliczania zwierząt na duże jednostki przeliczeniowe (DJP) stosowane w przypadku wymogów dotyczących użytkowania pastwiskowego lub kośno-pastwiskowego trwałych użytków zielonych lub obszarów przyrodniczych. Lp. Rodzaj zwierząt Współczynnik przeliczania zwierząt na DJP Lp. Rodzaj zwierząt Współczynnik przeliczania zwierząt na DJP Konie ras dużych / Konie pozostałe 18 Cielęta do 6 miesięcy 0,15 1 Ogiery, klacze, wałachy 1,2 Kozy 2 Źrebaki powyżej 2 lat 1 19 Kozy matki 0,15 3 Źrebaki powyżej 1 roku do 2 lat 0,8 20 Koźlęta do 3,5 miesiąca 0,05 4 Źrebaki powyżej 6 miesięcy do 1 roku 0,5 21 Koźlęta powyżej 3,5 miesiąca do 1,5 roku 0,08 5 Źrebięta do 6 miesięcy 0,3 22 Pozostałe kozy 0,1 Konie ras małych (m.in. hucuł, konik polski) Owce 6 Ogiery, klacze, wałachy 0,6 23 Owce powyżej 1,5 roku 0,1 7 Źrebaki powyżej 2 lat 0,5 24 Tryki powyżej 1,5 roku 0,12 8 Źrebaki powyżej 1 roku do 2 lat 0,35 25 Jagnięta do 3,5 miesiąca 0,05 9 Źrebaki powyżej 6 miesięcy do 1 roku 0,2 26 Tryczki 0,08 10 Źrebięta do 6 miesięcy 0,12 27 Maciorki 0,1 Bydło Drób 11 Buhaje 1,4 28 Gęsi 0,008 12 Krowy 1 Inne 13 Jałówki cielne 1 29 Jelenie szlachetne 0,29 14 Jałówki powyżej 1 roku 0,8 30 Jelenie sika (wschodnie) 0,12 15 Jałówki powyżej 6 miesięcy do 1 roku 0,3 31 Daniele 0,12 16 Opasy powyżej 1 roku 0,8 32 Króliki 0,007 17 Opasy powyżej 6 miesięcy do 1 roku 0,3
+
+### V.
+
+Pakiet 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie.
+
+### 1.
+
+Wariant 6.1. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przypadku uprawy - uprawianie odmian regionalnych lub amatorskich zarejestrowanych w krajowym rejestrze z kwalifikowanego materiału siewnego w pierwszym i czwartym roku uprawy rośliny danej odmiany. W drugim, trzecim i piątym roku uprawy rośliny tej odmiany jest dopuszczalna uprawa z materiału lub nasion uzyskanych ze zbioru w poprzednim roku.
+
+### 2.
+
+Wariant 6.2. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przypadku wytwarzania nasion lub materiału siewnego:
+
+### 1)
+
+wytwarzanie materiału siewnego zarejestrowanych w krajowym rejestrze roślin odmian regionalnych lub amatorskich, zgodnie z przepisami o nasiennictwie (przy utrzymaniu czystości i tożsamości odmianowej, prowadzenie dokumentacji plantacji oraz wykonywanych zabiegów i uzyskanie świadectwa oceny laboratoryjnej) lub
+
+### 2)
+
+wytwarzanie nasion roślin pozostałych gatunków roślin zagrożonych erozją genetyczną, spełniających minimalne wymagania jakościowe określone w tabeli I i II oraz posiadanie wyników badań laboratoryjnych w tym zakresie.
+
+### Tabela I. Wymagania jakościowe dla nasion pozostałych gatunków roślin zagrożonych erozją genetyczną (zboża)
+
+Lp. Gatunki Minimalna czystość analityczna (nasiona czyste) Maksymalna zawartość nasion innych gatunków (nasiona innych gatunków roślin) Minimalna zdolność kiełkowania (siewki normalne + nasiona twarde) % wagowy szt/500 g % liczbowy 1 2 3 4 5 1 Pszenica płaskurka (Triticum diccocum Schrank) 98 601) 85 2 Pszenica samopsza (Triticum monococcum L.) 98 601)2) 85 3 Żyto krzyca(Secale cereale var. multicale Metzg. ex Alef.) 98 60 85 1) Niedopuszczalna obecność nasion owsa głuchego (Avena fatua) i owsa płonnego (Avena sterilis). 2) Wielkość próby do badań wynosi 1 kg.
+
+### Tabela II. Wymagania jakościowe dla nasion pozostałych gatunków roślin zagrożonych erozją genetyczną (inne gatunki)
+
+Lp. Gatunki Minimalna czystość analityczna (nasiona czyste) Maksymalna zawartość nasion innych gatunków (nasiona innych gatunków roślin) Minimalna zdolność kiełkowania (siewki normalne i nasiona twarde) % wagowy % liczbowy 1 2 3 4 5 1 Lnianka siewna (Lnicznik siewny) (Camelina sativa (L.) Crantz) 98 0,3 80 2 Nostrzyk biały (Melilotus alba Medik.)1) 2) 96 2.51) 802) 3 Lędźwian siewny (Lathyrus sativus L.) 98 1,5 80 4 Soczewica jadalna (Lens culinaris Medik.) 98 1,5 80 5 Pasternak zwyczajny (Pastinaca sativa L.) 97 0,5 70 6 Przelot pospolity (Anthyllis vulneraria L.) 98 0,5 70 7 Gryka zwyczajna(Fagopyrum esculentum Moench) 98 1,5 80 1) Niedopuszczalna obecność nasion kanianki (Cuscuta). 2) Do 30% nasion twardych uznaje się za zdolne do kiełkowania.
+
+## Załącznik nr 3 - Zawartość planu działalności rolnośrodowiskowej
+
+### 1.
+
+Część ogólna - dotyczy wszystkich pakietów i zawiera w szczególności:
+
+### 1)
+
+dane doradcy rolnośrodowiskowego lub eksperta przyrodniczego, przy udziale którego został sporządzony plan działalności rolnośrodowiskowej lub dokumentacja przyrodnicza;
+
+### 2)
+
+czas realizacji zobowiązania rolno-środowiskowo-klimatycznego;
+
+### 3)
+
+wykaz pakietów lub wariantów, w ramach których rolnik lub zarządca realizuje zobowiązanie rolno-środowiskowo--klimatyczne;
+
+### 4)
+
+określenie elementów krajobrazu rolniczego nieużytkowanych rolniczo, o których mowa w § 4 ust. 2 pkt 3 rozporządzenia, występujących na obszarze gospodarstwa;
+
+### 5)
+
+oświadczenie rolnika lub zarządcy o przekazaniu pełnych i prawdziwych danych niezbędnych do sporządzenia planu działalności rolnośrodowiskowej;
+
+### 6)
+
+informacje o zakazach ustanowionych na terenach chronionych.
+
+### 2.
+
+Część szczegółowa - dotyczy poszczególnych wariantów i pakietów rolno-środowiskowo-klimatycznych i zawiera informacje niezbędne do prawidłowej realizacji zobowiązania rolno-środowiskowo-klimatycznego, w tym informacje w zakresie:
+
+### 1)
+
+działek rolnych zlokalizowanych na określonych działkach ewidencyjnych i realizowanych na nich określonych wariantów lub pakietów;
+
+### 2)
+
+wymogów w ramach realizowanego zobowiązania rolno-środowiskowo-klimatycznego, w tym także tych doprecyzowanych przez eksperta przyrodniczego lub doradcę rolnośrodowiskowego, które powinny odpowiadać stanowi faktycznemu i deklaracji zawartej we wniosku o przyznanie płatności rolno-środowiskowo-klimatycznej.
+
+### 3.
+
+Załączniki do planu działalności rolnośrodowiskowej:
+
+### 1)
+
+szkic gospodarstwa rolnego:
+
+### a)
+
+z naniesionymi oznaczeniami:
+
+- - poszczególnych działek rolnych, na których mają być realizowane pakiety lub warianty, oraz
+
+- - elementów krajobrazu rolniczego nieużytkowanych rolniczo, o których mowa w § 4 ust. 2 pkt 3 rozporządzenia, występujących na obszarze tego gospodarstwa,
+
+### b)
+
+z zaznaczeniem miejsc na działce rolnej, w których są zasadzone poszczególne drzewa odmian wymienionych w załączniku nr 4 do rozporządzenia lub odmian tradycyjnie uprawianych na terytorium Rzeczypospolitej Polskiej przed 1950 r. - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 3 rozporządzenia,
+
+### c)
+
+z zaznaczoną częścią działki rolnej, która ma pozostać nieskoszona w poszczególnych latach - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 lub 5 rozporządzenia;
+
+### 2)
+
+dokumentacja przyrodnicza - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 lub 5 rozporządzenia;
+
+### 3)
+
+oświadczenie eksperta przyrodniczego o tym, że wymogi realizowanego wariantu nie są sprzeczne z ustanowionymi dla danego obszaru chronionego działaniami obligatoryjnymi określonymi w planie ochrony lub w planie zadań ochronnych - w przypadku pakietu wymienionego w § 4 ust. 1 pkt 4 i 5 rozporządzenia, z wyłączeniem wariantu 4.7.;
+
+### 4)
+
+oświadczenie doradcy rolnośrodowiskowego o tym, że wymogi realizowanego wariantu nie są sprzeczne z ustanowionymi dla danego obszaru chronionego działaniami obligatoryjnymi określonymi w planie ochrony lub w planie zadań ochronnych - w przypadku wariantu 4.7.
+
+## Załącznik nr 4 - Wykaz upraw, grup upraw, gatunków i odmian roślin, gatunków ptaków, siedlisk przyrodniczych oraz ras zwierząt objętych płatnością rolno-środowiskowo-klimatyczną
+
+### 1.
+
+Pakiet 1. Rolnictwo zrównoważone obejmuje następujące uprawy, rośliny i grupy upraw: Lp. Uprawy w rozumieniu art. 44 rozporządzenia nr 1307/2013 Rodzaje lub gatunki roślin Grupa upraw 1 jęczmień jary jęczmień jary zboża jęczmień ozimy jęczmień ozimy kukurydza kukurydza cukrowa, kukurydza pękająca, kukurydza woskowata, kukurydza zwyczajna mieszanki zbożowe mieszanka zbożowa owies owies bizantyjski, owies nagi (nagoziarnisty jary), owies siewny, owies szorstki pszenica jara pszenica orkisz -jara, pszenica płaskurka - jara, pszenica samopsza - jara, pszenica twarda -jara, pszenica zwyczajna-jara pszenica ozima pszenica orkisz - ozima, pszenica płaskurka - ozima, pszenica samopsza - ozima, pszenica twarda - ozima, pszenica zwyczajna - ozima pszenżyto jare pszenżyto jare pszenżyto ozime pszenżyto ozime sorgo sorgo techniczne, sorgo sułtańskie, trawa sudańska żyto jare żyto jare żyto ozime żyto krzyca, żyto ozime 2 mieszanki strączkowo-gorczycowa, strączkowo-słonecznikowa, strączkowo-zbożowa mieszanki fasola fasola wielokwiatowa, fasola zwykła karłowa, fasola zwykła tyczna strączkowe i warzywa strączkowe groch groch siewny (jadalny i pastewny - peluszka), groch zwyczajny łuskowy, groch zwyczajny cukrowy groszek lędźwian łubin łubin biały, łubin wąskolistny, łubin żółty seradela uprawna seradela uprawna soczewica jadalna soczewica jadalna soja zwyczajna soja zwyczajna wyka jara bobik, bób, wyka siewna wyka ozima wyka kosmata 3 koniczyna koniczyna egipska (aleksandryjska), koniczyna krwistoczerwona, koniczyna perska bobowate drobnonasienne (roczna uprawa) nostrzyk nostrzyk biały, nostrzyk żółty 4 trawa lub inne pastewne rośliny zielne mieszanka jednoroczna traw, trawy w siewie czystym z przeznaczeniem na nasiona, mieszanka jednoroczna traw z motylkowatymi drobnonasiennymi trawa lub inne pastewne rośliny zielne 5 burak burak cukrowy, burak ćwikłowy, burak liściowy (boćwina), burak pastewny okopowe i warzywa korzeniowe cykoria cykoria siewna (korzeniowa) marchew marchew jadalna, marchew pastewna pasternak zwyczajny pasternak zwyczajny pietruszka pietruszka korzeniowa, pietruszka naciowa salsefia salsefia seler seler korzeniowy, seler naciowy skorzonera skorzonera ziemniak ziemniak 6 gorczyca biała gorczyca biała oleiste gorczyca czarna gorczyca czarna gorczyca sarepska gorczyca sarepska kapusta rzepak - ozimy rzepak ozimy kapusta rzepak - jary brukiew, rzepak jary rzepik ozimy perko, rzepik słonecznik słonecznik oleisty, słonecznik pastewny, topinambur 7 dynia figolistna dynia figolistna warzywa kapustowate i rzepowatę dynia olbrzymia dynia olbrzymia dynia piżmowa dynia piżmowa dynia zwyczajna cukinia, dynia oleista, dynia pastewna, dynia zwyczajna, kabaczek, patison kapusta warzywna brokuł włoski, jarmuż, kalafior, kalarepa, kapusta brukselska, kapusta głowiasta biała, kapusta głowiasta czerwona, kapusta pastewna, kapusta włoska kapusta właściwa kapusta chińska, kapusta pekińska i rzepa ścierniskowa rzodkiew rzodkiew czarna, rzodkiew biała, rzodkiew oleista, rzodkiewka 8 proso proso proso 9 facelia błękitna facelia błękitna facelia 10 len len oleisty i len włóknisty len, lnianka lnianka siewna lnianka siewna (lnicznik) 11 mak mak lekarski, mak wschodni mak 12 gryka gryka gryka 13 arbuz arbuz (kawon) pozostałe warzywa cykoria endywia eskariola, endywia kędzierzawa czosnek cebula kartoflanka, cebula perłowa, cebula wielopiętrowa, cebula zwyczajna, czosnek, czosnek niedźwiedzi, por, rokambuł, siedmiolatka, szalotka, szczypiorek koper ogrodowy koper ogrodowy koper włoski koper włoski (fenkuł) melon melon oberżyna bakłażan (oberżyna) ogórek ogórek papryka roczna papryka roczna pomidor skórzasty pomidor skórzasty pomidor pomidor sałata sałata głowiasta masłowa, sałata głowiasta krucha, sałata listkowa (rozetowa), sałata łodygowa, sałata rzymska szpinak nowozelandzki szpinak nowozelandzki szpinak zwyczajny szpinak warzywny (zwyczajny) 14 chaber chaber bławatek rośliny miododajne pszczelnik pszczelnik mołdawski rukiew rukiew wodna ślaz ślaz dziki, ślaz maurytański ślazówka ślazówka ogrodowa, ślazówka turyngska 15 babka babka lancetowata zioła bazylia pospolita bazylia pospolita bylica bylica estragon, bylica piołun czarnuszka siewna czarnuszka siewna cząber cząber ogrodowy dzięgiel dzięgiel leśny, arcydzięgiel litwor dziurawiec zwyczajny dziurawiec zwyczajny fiołek trójbarwny fiołek trójbarwny hyzop lekarski hyzop lekarski jeżówka purpurowa, jeżówka purpurowa kocanki piaskowe kocanki piaskowe kolendra siewna kolendra siewna kozieradka pospolita kozieradka pospolita kozłek lekarski kozłek lekarski krokosz barwierski krokosz barwierski krwawnik pospolity krwawnik pospolity lawenda wąskolistna lawenda wąskolistna lebiodka lebiodka pospolita, majeranek ogrodowy lnica lnica (lnianka) pospolita lubczyk ogrodowy lubczyk ogrodowy macierzanka tymianek pospolity (właściwy) melisa lekarska melisa lekarska mięta mięta kędzierzawa, mięta pieprzowa mniszek lekarski mniszek lekarski mydlnica lekarska mydlnica lekarska nagietek lekarski nagietek lekarski ogórecznik lekarski ogórecznik lekarski orlik pospolity orlik pospolity ostropest plamisty ostropest plamisty prawoślaz malwa czarna, prawoślaz lekarski różeniec górski różeniec górski rumian rzymski rumian rzymski (szlachetny) rumianek pospolity rumianek pospolity ruta zwyczajna ruta zwyczajna serdecznik pospolity serdecznik pospolity szałwia szałwia lekarska szanta zwyczajna szanta zwyczajna wiesiołek wiesiołek dwuletni złocień dalmatyński złocień dalmatyński żeń-szeń prawdziwy żeń-szeń prawdziwy 16 komonica komonica błotna, komonica zwyczajna wieloletnie (uprawy w tej grupie znajdują się na danej działce do 3 lat) koniczyna biała koniczyna biała koniczyna czerwona koniczyna czerwona lucerna lucerna chmielowa (nerkowata), lucerna mieszańcowa, lucerna sierpowata, lucerna siewna mieszanka wieloletnia traw z motylkowatymi drobnonasiennymi mieszanka wieloletnia traw z motylkowatymi drobnonasiennymi mieszanka wieloletnia traw mieszanka wieloletnia traw poziomka poziomka, truskawka rutwica lekarska rutwica lekarska sparceta sparceta piaskowa, sparceta (esparceta) siewna szczaw szczaw
+
+### 2.
+
+Pakiet 3. Zachowanie sadów tradycyjnych odmian drzew owocowych obejmuje następujące gatunki i odmiany drzew: Gatunek Odmiana Jabłonie Ananas Berżenicki, Antonówka Półtorafuntowa, Aporta, Babuszkino, Beforest, Berner Rosen, Boiken, Bukówka, Cellini, Cesarz Aleksander (Aporta), Cesarz Wilhelm, Charłamowska, Cukrówka Litewska (Białe Słodkie), Cyganka, Cytrynówka, Czarnodrzewne, Czarnoguz, Czeskie Panieńskie, Dobry Kmiotek, Filippa, Gaskońskie Szkarłatne, Glogierówka, Gloria Mundi, Grafsztynek Czerwony, Grafsztynek Inflancki, Grafsz-tynek Prawdziwy, Grahama Jubileuszowe, Grochówka, Gruchoty, Jakub Lebel, Jonathan, Kalwila Czerwona Jesienna, Kalwila Letnia Fraas'a, Kandil Sinap, Kantówka Gdańska, Kardynalskie, Koksa Pomarańczowa, Korobówka, Kosztela, Kronselska, Królowa, Królowa Renet, Krótkonóżka Królewska, Książę Albrecht Pruski, Książęce, Kuzynek Buraczek, Landsberska, Malinowa Oberlandzka, Mank's Kuchenapfel, Mon-twiłłówka, Niezrównane Peasgooda, Ontario, Oliwka Czerwona, Oliwka Inflancka, Papierówka Słodka, Pasówka, Pepina Linneusza, Pepina Parkera, Pepina Ribstona, Piękna z Barnaku, Piękna z Boskoop, Piękna z Herrnhut, Piękna z Rept, Rajewskie, Rarytas Śląski, Reneta Ananasowa, Reneta Baumana, Reneta Blen-heimska, Reneta Gwiazdkowa, Reneta Kanadyjska, Reneta Karmelicka, Reneta Kasselska, Reneta Kulona, Reneta Muszkatołowa, Reneta Orleańska, Reneta Sudecka, Reneta Szampańska, Reneta Szara, Reneta Złota, Reneta Zuccalmaglio, Różanka Polska, Różanka Wirgińska, Ryszard Żółty, Signe Tillisch, Starking, Strumiłłówka, Suislepper, Sztetyna Czerwona, Sztetyna Zielona, Śmietankowe, Titówka, Truskawkowe Nietschnera, Węgierczyk, Złotka Kwidzyńska, Złota Szlachetna, Zorza, Żeleźniak Grusze Amanlisa, Bera Boska, Bera Diela, Bera Liońska, Bera Szara, Bera Ulmska, Bergamota Czerwona Jesienna, Bojka, Cukrówka, Cytrynówka, Diuszesa Wczesna, Dobra Ludwika, Dobra Szara, Dr Jules Guyot, Dziekanka Lipcowa, Dziekanka Jesienna, Flamandka, Józefinka, Kalebasa Płocka, Kongresówka, Król Sobieski, Księżna Elza, Napoleonka, Owsianka, Panienka, Paryżanka, Patawinka, Pomarańczówka, Proboszczówka, Pstrągówka, Pstrągówka Zimowa, Salisbury, Tongrówka, Urbanistka, Winiówka Francuska, Żyfardka Czereśnie Bladoróżowa, Czarna Późna, Dönissena Żółta, Gubeńska, Gubińska Czarna, Kanarkowa, Kassina, Kozerska, Kunzego, Lotka Trzebnicka, Merla, Miodówka, Przybrodzka, Sercówka Nieszawska, Wczesna Riversa, Wolska Wiśnie Hiszpanka, Hortensja, Książęca, Minister Podbielski, Pożóg 29, Szklanka Wielka, Wczesna Ludwika, Włoszakowice, Wróble, Wiśnie odroślowe lokalne Śliwy Brzoskwiniowa, Fryga, Kirka, Lubaszka, Mirabelka z Nancy, Renkloda Zielona, Węgierka Łowicka
+
+### 3.
+
+Pakiet 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000 i Pakiet 5. Cenne siedliska poza obszarami Natura 2000:
+
+### 1)
+
+Ochrona cennych siedlisk przyrodniczych (typy siedlisk przyrodniczych):
+
+### a)
+
+Wariant 4.1. Zmiennowilgotne łąki trzęślicowe i Wariant 5.1. Zmiennowilgotne łąki trzęślicowe obejmują: zbiorowiska związku Molinion oraz nawiązujące do nich, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję. Siedliska: 6410 Zmiennowilgotne łąki trzęślicowe i siedliska nawiązujące,
+
+### b)
+
+Wariant 4.2. Zalewowe łąki selernicowe i słonorośla i Wariant 5.2. Zalewowe łąki selernicowe i słonorośla obejmują: zbiorowiska ze związku Cnidion, zespół Sanguisorbo-Silaetum, zbiorowiska klas Asteretea tripolium i Thero-Salicornietea, zespół Potentillo-Festucetum i Scirpetum maritimi oraz nawiązujące do nich, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję. Siedliska: 6440 Łąki selernicowe, 1330 Solniska nadmorskie, 1310 Śródlądowe błotniste solniska z solirodem, 1340 Śródlądowe słone łąki, pastwiska i szuwary oraz siedliska nawiązujące do wymienionych powyżej,
+
+### c)
+
+Wariant 4.3. Murawy i Wariant 5.3. Murawy obejmują: zbiorowiska klas Festuco-Brometea, Koelerio glaucae--Corynephoretea canescentis, Nardo-Callunetea, zbiorowiska okrajkowe z klasy Trifolio-Geranietea oraz zbiorowiska nawiązujące do wymienionych jednostek, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję. Siedliska: 6120 ciepłolubne śródlądowe murawy napiaskowe, 6210 murawy kserotermiczne, 6230 murawy bliźniczkowe, 2230 wydmy śródlądowe z murawami szczotlichowymi, 5130 zarośla jałowca na murawach lub na wrzosowiskach, 4030 suche wrzosowiska, murawy zawciągowe oraz siedliska nawiązujące do wymienionych powyżej,
+
+### d)
+
+Wariant 4.4. Pomaturalne łąki wilgotne i Wariant 5.4. Pomaturalne łąki wilgotne obejmują: zbiorowiska związku Calthion oraz nawiązujące do nich zbiorowiska, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję, z wyłączeniem zbiorowisk kadłubowych,
+
+### e)
+
+Wariant 4.5. Pomaturalne łąki świeże i Wariant 5.5. Pomaturalne łąki świeże obejmują: bogate gatunkowo zbiorowiska związków Arrhenatherion Cynosurion i Polygono-Trisetion oraz zbiorowiska nawiązujące do wymienionych jednostek fitooscjologicznych, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję. Siedliska: 6510 niżowe i górskie świeże łąki użytkowane ekstensywnie, 6520 górskie łąki konietlicowe oraz siedliska nawiązujące do wymienionych powyżej,
+
+### f)
+
+Wariant 4.6. Torfowiska i Wariant 5.6. Torfowiska obejmują: zbiorowiska klas Scheuzerio-Caricetea nigrae, Oxycocco-Sphagnetea, wybrane zbiorowiska związku Magnocaricion (Caricetum buxbaumii, Cladietum ma-risci), Cratoneurion commutati oraz zbiorowiska nawiązujące do wymienionych jednostek, na których udokumentowana zostanie obecność gatunków wskaźnikowych, zgodnie z obowiązującą metodyką sporządzania dokumentacji przyrodniczej, udostępnioną przez Agencję. Siedliska: 7110, 7120 torfowiska wysokie, 7140 torfowiska przejściowe i trzęsawiska, 7150 obniżenia na podłożu torfowym, 7210 torfowiska nakredowe, 7230 torfowiska zasadowe, 4010 wilgotne wrzosowiska, 7220 źródliska wapienne oraz siedliska nawiązujące do wymienionych powyżej i inne mszyste zbiorowiska wielkoturzycowe;
+
+### 2)
+
+Wariant 4.7. Ekstensywne użytkowanie na obszarach specjalnej ochrony ptaków (OSO) obejmuje siedliska lęgowe ptaków na trwałych użytkach zielonych położone na OSO;
+
+### 3)
+
+Warianty 4.8.-4.11. Ochrona siedlisk lęgowych ptaków, obejmują następujące gatunki:
+
+### a)
+
+derkacz (Crex crex),
+
+### b)
+
+rycyk (Limosa limosa),
+
+### c)
+
+czajka (Yanellus vanellus),
+
+### d)
+
+kszyk (Gallinago gallinago),
+
+### e)
+
+krwawodziób (Tringa totanus),
+
+### f)
+
+wodniczka (Acrocephalus paludicola),
+
+### g)
+
+dubelt (Gallinago media),
+
+### h)
+
+kulik wielki (Numenius arąuata).
+
+### 4.
+
+Pakiet 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie obejmuje następujące gatunki i odmiany roślin:
+
+### 1)
+
+pszenica płaskurka (Triticum diccocum Schrank);
+
+### 2)
+
+pszenica samopsza (Triticum monococcum L.);
+
+### 3)
+
+żyto krzyca (Secale cereale var. multicale Metzg. ex Alef.) (roślina dwuletnia);
+
+### 4)
+
+lnianka siewna (lnicznik siewny) (Camelina sativa (L.) Crantz);
+
+### 5)
+
+nostrzyk biały (Melilotus alba Medik) (roślina roczna oraz roślina dwuletnia);
+
+### 6)
+
+lędźwian siewny (Lathyrus sativus L.);
+
+### 7)
+
+soczewica jadalna (Lens culinaris Medik.);
+
+### 8)
+
+pasternak zwyczajny (Pastinaca sativa L.) (roślina dwuletnia);
+
+### 9)
+
+przelot pospolity (Anthylis vulneraria L.) (roślina dwuletnia);
+
+### 10)
+
+gryka zwyczajna (Fagopyrum esculentum Moench).
+
+### 5.
+
+Pakiet 7. Zachowanie zagrożonych zasobów genetycznych zwierząt w rolnictwie obejmuje następujące gatunki zwierząt: Gatunek Rasa Bydło bydło rasy polskiej czerwonej, bydło rasy białogrzbietej, bydło rasy polskiej czerwono-białej, bydło rasy polskiej czarno-białej Konie koniki polskie, konie huculskie, konie małopolskie, konie śląskie, konie wielkopolskie, konie zimnokrwiste w typie sokolskim, konie zimnokrwiste w typie sztumskim Owce owce rasy wrzosówka, owce rasy świniarka, owce olkuskie, polskie owce górskie odmiany barwnej, owce rasy merynos odmiany barwnej, owce uhruskie, owce wielkopolskie, owce żelaźnieńskie, owce rasy koride-il (corriedale), owce kamienieckie, owce pomorskie, owce rasy cakiel podhalański, owce rasy merynos polski w starym typie, czarnogłówka, polskie owce pogórza Świnie świnie rasy puławskiej, świnie rasy złotnickiej białej, świnie rasy złotnickiej pstrej Kozy koza karpacka
+
+## Załącznik nr 5 - Wykaz obszarów problemowych o niskiej zawartości próchnicy
+
+Lp. Kod gminy Nazwa gminy Nazwa powiatu Województwo kujawsko-pomorskie 1 0401082 Waganiec aleksandrowski 2 0409012 Dąbrowa mogileński 3 0409035 Mogilno mogileński 4 0418102 Lubanie włocławski 5 0419015 Barcin żniński 6 0419022 Gąsawa żniński Województwo lubelskie 7 0607024 Annopol kraśnicki 8 0607042 Gościeradów kraśnicki Województwo łódzkie 9 1007025 Drzewica opoczyński Województwo małopolskie 10 1202042 Dębno brzeski 11 1201082 Trzciana bocheński 12 1204025 Dąbrowa Tarnowska dąbrowski 13 1204052 Olesno dąbrowski 14 1204062 Radgoszcz dąbrowski 15 1210032 Gródek nad Dunajcem nowosądecki 16 1210052 Kamionka Wielka nowosądecki Województwo mazowieckie 17 1401015 Białobrzegi białobrzeski 18 1401022 Promna białobrzeski 19 1401032 Radzanów białobrzeski 20 1401042 Stara Błotnica białobrzeski 21 1401052 Stromiec białobrzeski 22 1406032 Chynów grójecki 23 1406042 Goszczyn grójecki 24 1406055 Grójec grójecki 25 1406062 Jasieniec grójecki 26 1406075 Mogielnica grójecki 27 1406085 Nowe Miasto nad Pilicą grójecki 28 1406092 Pniewy grójecki 29 1406115 Warka grójecki 30 1407012 Garbatka Letnisko kozieniecki 31 1407022 Głowaczów kozieniecki 32 1407032 Gniewoszów kozieniecki 33 1407042 Grabów nad Pilicą kozieniecki 34 1407055 Kozienice obszar wiejski kozieniecki 35 1407062 Magnuszew kozieniecki 36 1409022 Ciepielów lipski 37 1419065 Gąbin płocki 38 1419072 Łąck płocki 39 1423012 Borkowice przysuski 40 1423032 Klwów przysuski 41 1423042 Odrzywół przysuski 42 1423065 Przysucha przysuski 43 1423072 Rusinów przysuski 44 1425022 Gózd radomski 45 1425052 Jedlińsk radomski 46 1425062 Jedlnia Letnisko radomski 47 1425082 Pionki obszar wiejski radomski 48 1425092 Przytyk radomski 49 1425105 Skaryszew radomski 50 1425122 Wolanów radomski 51 1425132 Zakrzew radomski 52 1426102 Suchożebry siedlecki 53 1429082 Sokołów Podlaski sokołowski 54 1430012 Chlewiska Szydłowiecki 55 1430022 Jastrząb Szydłowiecki 56 1430032 Mirów Szydłowiecki 57 1430042 Orońsko Szydłowiecki 58 1430054 Szydłowiec Szydłowiecki 59 1433062 Miedzna węgrowski 60 1436022 Policzna zwoleński 61 1436032 Przyłęk zwoleński Województwo podkarpackie 62 1803072 Żyraków dębicki 63 1809082 Wielkie Oczy lubaczowski 64 1808055 Nowa Sarzyna leżajski 65 1818032 Pysznica stalowowolski 66 1818055 Zaklików stalowowolski Województwo świętokrzyskie 67 2601022 Gnojno buski 68 2601072 Tuczępy buski 69 2604062 Górno kielecki 70 2604082 Łopuszno kielecki 71 2605035 Końskie konecki 72 2605042 Radoszyce konecki 73 2606072 Tarłów opatowski 74 2611022 Brody starachowicki 75 2611055 Wąchock starachowicki 76 2612012 Bogoria staszowski 77 2612032 Oleśnica staszowski 78 2612062 Rytwiany staszowski 79 2612075 Staszów staszowski 80 2612082 Szydłów obszar wiejski staszowski 81 2613022 Krasocin włoszczowski Województwo wielkopolskie 82 3003095 Trzemeszno gnieźnieński 83 3014012 Chrzypsko Wielkie międzychodzki 84 3014045 Sieraków międzychodzki 85 3021035 Buk poznański 86 3021152 Suchy Las poznański Województwo zachodniopomorskie 87 3203035 Kalisz Pomorski drawski
+
+## Załącznik nr 6 - Wysokość stawek płatności rolno-środowiskowo-klimatycznej dla poszczególnych pakietów i ich wariantów
+
+Lp. Pakiet Wariant Stawki płatności 1 Pakiet 1. Rolnictwo zrównoważone 400 zł/ha 2 Pakiet 2. Ochrona gleb i wód 2.1. Międzyplony 650 zł/ha 2.2. Pasy ochronne na stokach o nachyleniu powyżej 20% 450 zł/ha 3 Pakiet 3. Zachowanie sadów tradycyjnych odmian drzew owocowych 1 964 zł/ha 4 Pakiet 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000 Ochrona siedlisk przyrodniczych: 4.1. Zmiennowilgotne łąki trzęślicowe 1 276 zł/ha 4.2. Zalewowe łąki selernicowe i słonorośla 1 043 zł/ha 4.3. Murawy 1 300 zł/ha 4.4. Pomaturalne łąki wilgotne 911 zł/ha 4.5. Pomaturalne łąki świeże 1 083 zł/ha 4.6. Torfowiska 600 zł/ha 1 206 zł/ha 4.6.1. Torfowiska - wymogi obowiązkowe 4.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające 4.7. Ekstensywne użytkowanie na obszarach specjalnej ochrony ptaków (OSO) 600 zł/ha Ochrona siedlisk lęgowych ptaków: 4.8. Ochrona siedlisk lęgowych ptaków: rycyka, kszyka, krwawodzioba lub czajki 890 zł/ha 4.9. Ochrona siedlisk lęgowych ptaków: wodniczki 1 199 zł/ha 4.10. Ochrona siedlisk lęgowych ptaków: dubelta lub kulika wielkiego 1 070 zł/ha 4.11. Ochrona siedlisk lęgowych ptaków: derkacza 642 zł/ha 5 Pakiet 5. Cenne siedliska poza obszarami Natura 2000 Ochrona siedlisk przyrodniczych: 5.1. Zmiennowilgotne łąki trzęślicowe 1 276 zł/ha 5.2. Zalewowe łąki selernicowe i słonorośla 1 043 zł/ha 5.3. Murawy 1 300 zł/ha 5.4. Pomaturalne łąki wilgotne 911 zł/ha 5.5. Pomaturalne łąki świeże 1 083 zł/ha 5.6. Torfowiska 600 zł/ha1 206 zł/ha 5.6.1. Torfowiska - wymogi obowiązkowe 5.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające 6 Pakiet 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie 6.1. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie -w przypadku uprawy 750 zł/ha 6.2. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie -w przypadku wytwarzania nasion lub materiału siewnego 1 000 zł/ha 7 Pakiet 7. Zachowanie zagrożonych zasobów genetycznych zwierząt w rolnictwie 7.1. Zachowanie lokalnych ras bydła 1 600 zł/szt. 7.2. Zachowanie lokalnych ras koni 1 500 zł/szt. 7.3. Zachowanie lokalnych ras owiec 360 zł/szt. 7.4. Zachowanie lokalnych ras świń 1 140 zł/szt. 7.5. Zachowanie lokalnych ras kóz 580 zł/szt.
+
+## Załącznik nr 7 - Koszty transakcyjne i wysokość kwoty przeznaczonej na refundację tych kosztów
+
+### 1.
+
+Koszty transakcyjne dla wariantów Pakietu 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000 i wariantów Pakietu 5. Cenne siedliska poza obszarami Natura 2000 Koszty transakcyjne Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych Koszty transakcyjne w związku z sporządzeniem dokumentacji przyrodniczej dla siedliska o powierzchni: do 1 ha 260 zł powyżej 1 ha do 5 ha 1 000 zł powyżej 5 ha do 20 ha 2 000 zł powyżej 20 ha do 50 ha 3 000 zł powyżej 50 ha 4 000 zł
+
+### 2.
+
+Koszty transakcyjne dla wariantu 6.2. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przy padku wytwarzania nasion lub materiału siewnego Koszty transakcyjne Wysokość kwoty przeznaczonej na refundację kosztów transakcyjnych 1. Koszt wykonania oceny wytworzonych nasion w laboratoriach urzędowych lub akredytowanych w przypadku wytwarzania nasion gatunków roślin wymienionych w ust. 4 załącznika nr 4 do rozporządzenia za 1 z następujących gatunków roślin: lnianka siewna (lnicznik siewny) (Camelina sativa (L.) Crantz), nostrzyk biały (Melilotus alba Medik.), lędźwian siewny (Lathyrus sativus L.), soczewica jadalna (Lens culinaris Medik.), pasternak zwyczajny (Pastinaca sativa L.), przelot pospolity (Anthylis vulneraria L.) 268 zł za 1 z następujących gatunków roślin: pszenica płaskurka (Triticum diccocum Schrank), pszenica samopsza (Triticum monococcum L.), żyto krzyca (Secale cereale var. multicale Metzg. ex Alef.), gryka zwyczajna (Fagopyrum esculentum Moench) 240 zł 2. Koszt wykonania oceny wytworzonego materiału siewnego w laboratoriach urzędowych lub akredytowanych w przypadku wytwarzania materiału siewnego roślin odmian regionalnych i amatorskich wpisanych do rejestru odmian prowadzonego na podstawie przepisów o nasiennictwie za każdy gatunek rośliny 262 zł
+
+## Załącznik nr 8 - Wysokość współczynników dotkliwości uchybienia oraz współczynników trwałości uchybienia stosowanych do dokonywania zmniejszeń płatności rolno-środowiskowo-klimatycznych
+
+Rodzaj uchybienia Współczynnik dotkliwości uchybienia Współczynnik trwałości uchybienia Iloczyn współczynnika dotkliwości i trwałości Odwracalna krótkotrwała Odwracalna długotrwała Nieodwracalna 1,25 1,5 1,75 Wszystkie pakiety I. Pakiet 1. Rolnictwo zrównoważone Zastosowanie 3 upraw w plonie głównym w danym roku na gruntach ornych w gospodarstwie 32% 1,25 - - 40% Zastosowanie 2 upraw w plonie głównym w danym roku na gruntach ornych w gospodarstwie 56% 1,25 - - 70% Zastosowanie 1 uprawy w plonie głównym w danym roku na gruntach ornych w gospodarstwie 80% 1,25 - - 100% Udział uprawy, która zajmuje największą powierzchnię gruntów ornych w gospodarstwie, przekracza 65% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku lubudział uprawy zbóż przekracza 65% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 20% 1,25 - - 25% Udział jednej z czterech upraw głównych jest mniejszy niż 10%, ale większy niż 5% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 12% 1,25 - - 15% Udział dwóch z czterech upraw głównych jest mniejszy niż 10%, ale większy niż 5% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 24% 1,25 - - 30% Udział trzech z czterech upraw głównych jest mniejszy niż 10%, ale większy niż 5% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 32% 1,25 - - 40% Udział jednej z czterech upraw głównych jest mniejszy niż 5%, ale większy niż 2% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 24% 1,25 - - 30% Udział dwóch z czterech upraw głównych jest mniejszy niż 5%, ale większy niż 2% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 40% 1,25 - - 50% Udział trzech z czterech upraw głównych jest mniejszy niż 5%, ale większy niż 2% powierzchni wszystkich gruntów ornych w gospodarstwie w danym roku 56% 1,25 - - 70% Brak planu nawozowego opartego na bilansie azotu oraz chemicznej analizie gleby określającego dawki N, P, K, Mg i potrzeby wapnowania 20% 1,25 - - 25% Nie jest przestrzegany plan nawozowy oparty na bilansie azotu oraz chemicznej analizie gleby określającego dawki N, P, K, Mg i potrzeby wapnowania 20% 1,25 - - 25% Zastosowanie mniej niż 3 grup upraw w ciągu 5 lat zobowiązania 50% - - 1,75 88% Niezastosowanie, najpóźniej w 4 roku okresu zobowiązania, w dwóch różnych latach jednej z dwóch wymaganych praktyk dodatkowych 15% - - 1,75 26% Niezastosowanie, najpóźniej w 4 roku okresu zobowiązania, w dwóch różnych latach żadnej z dwóch wymaganych praktyk dodatkowych 25% - - 1,75 44% Niewykoszenie lub niewypasanie trwałych użytków zielonych lub wykoszenie lub wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub nierozdrobnienie skoszonej biomasy 10% 1,25 - - 13% Zastosowanie komunalnych osadów ściekowych 15% 1,25 - - 19% II. Pakiet 2. Ochrona gleb i wód Wariant 2.1. Międzyplony Siewu roślin międzyplonowych dokonano w terminie po dniu 15 września, lecz do dnia 30 września 10% 1,25 - - 13% Siewu roślin międzyplonowych dokonano w terminie po dniu 30 września, lecz do dnia 15 października 20% 1,25 - - 25% Siewu roślin międzyplonowych dokonano w terminie po dniu 15 października lub nie dokonano siewu międzyplonów w danym roku 57% - - 1,75 100% Wznowienie zabiegów agrotechnicznych przed dniem 1 marca 10% 1,25 - - 13% Gatunek rośliny dominującej w mieszance co najmniej 3 gatunkowej zastosowanej jako międzyplon wykorzystany w tej mieszance przekracza 70% jej składu lub gatunki zbóż wykorzystane w tej mieszance przekraczają 70% jej składu 15% 1,25 - - 19% Zastosowanie jako międzyplon tylko jednego gatunku rośliny 25% 1,25 - - 31% Zastosowanie jako międzyplon mieszanki złożonej z dwóch gatunków roślin 15% 1,25 - - 19% Zastosowanie jako międzyplon mieszanki składającej się wyłącznie ze zbóż 25% 1,25 - - 31% Zastosowanie nawożenia międzyplonu 10% 1,25 - - 13% Zastosowanie w międzyplonie pestycydów 5% 1,25 - - 6% Zastosowanie komunalnych osadów ściekowych 15% 1,25 - - 19% Nieprzyoranie międzyplonu (nie dotyczy systemu bezorkowego) 10% 1,25 - - 13% Nieutrzymanie minimalnej okrywy roślinnej wymaganej przepisami w sprawie norm w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska na gruntach rolnych, na których jest realizowany wariant 2.1., w przypadku gdy grunty te oraz grunty, na których realizowany jest wariant 2.1., znajdują się na obszarach zagrożonych erozją wodną 25% 1,25 - - 31% Wypas mieszanek w innych terminach niż jest to dopuszczalne, jeżeli doradca rolnośrodowiskowy dopuścił wypas 10% 1,25 - - 13% Wariant 2.2. Pasy ochronne na stokach o nachyleniu powyżej 20% Mieszanki traw zostały wysiane w nieodpowiednim terminie 40% 1,25 - - 50% Spasanie traw w roku założenia pasa ochronnego 10% 1,25 - - 13% Zastosowanie komunalnych osadów ściekowych 15% 1,25 - - 19% Niewypasanie lub wypasanie od drugiego roku po założeniu pasa ochronnego w nieodpowiednim terminie 10% 1,25 - - 13% Niewykoszenie lub wykoszenie w nieodpowiednim terminie 10% 1,25 - - 13% Biomasa na wykoszonym pasie ochronnym nie została usunięta ani nie została rozdrobniona i równomiernie rozrzucona lub zabiegi te wykonano w nieodpowiednim terminie 10% 1,25 - - 13% III. Pakiet 3. Zachowanie sadów tradycyjnych odmian drzew owocowych Prowadzenie sadu niezgodnie z wymogami, o których mowa w części III ust. 1 i 2 załącznika nr 2 do rozporządzenia 57% - - 1,75 100% Zastosowanie herbicydów 5% 1,25 - - 6% Niewykonywanie któregokolwiek z podstawowych zabiegów pielęgnacyjnych w sadzie określonych przez doradcę rolnośrodowiskowego lub wykonanie któregokolwiek z tych zabiegów niezgodnie ze wskazaniami tego doradcy 5% 1,25 - - 6% Niewykonywanie żadnego z podstawowych zabiegów pielęgnacyjnych w sadzie określonych przez doradcę rolnośrodowiskowego lub wykonanie ich niezgodnie ze wskazaniami tego doradcy 20% 1,25 - - 25% Niewykoszenie lub niewypasanie 5% 1,25 - - 6% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub nierozdrobnienie skoszonej biomasy 10% 1,25 - - 13% IV. Pakiet 4. Cenne siedliska i zagrożone gatunki ptaków na obszarach Natura 2000 i Pakiet 5. Cenne siedliska poza obszarami Natura 2000 Zastosowanie niedopuszczalnego sposobu użytkowania 57% - - 1,75 100% Zastosowanie wałowania 50% - 1,5 - 75% Zastosowanie komunalnych osadów ściekowych 25% - 1,5 - 38% Zastosowanie podsiewu - bez uprawy powierzchniowej gleby 25% - 1,5 - 38% Zastosowanie podsiewu -z zastosowaniem uprawy powierzchniowej gleby 50% - 1,5 - 75% Zastosowanie włókowania w okresie: 20% - 1,5 - 30% - od dnia 1 kwietnia do dnia 1 września na obszarach nizinnych (do 300 m n.p.m.) - od dnia 15 kwietnia do dnia 1 września na obszarach wyżynnych i górskich (powyżej 300 m n.p.m.) Zastosowanie środków ochrony roślin, z wyjątkiem selektywnego i miejscowego niszczenia uciążliwych gatunków inwazyjnych z zastosowaniem odpowiedniego sprzętu (np. mazaczy herbicydowych) 15% - 1,5 - 23% Stworzenie nowych, rozbudowa i odtworzenie istniejących systemów melioracyjnych, z wyjątkiem konstrukcji urządzeń mających na celu dostosowanie poziomu wód wykorzystując istniejące systemy melioracyjne do wymogów siedliskowych gatunków lub siedlisk będących przedmiotem ochrony danego wariantu 57% - - 1,75 100% Składowanie biomasy wśród kęp drzew i zarośli, w rowach, jarach i innych obniżeniach terenu (położonych na działkach zadeklarowanych we wniosku o przyznanie płatności rolno--środowiskowo-klimatycznej) 10% 1,25 - - 13% Wariant 4.1. Zmiennowilgotne łąki trzęślicowe iWariant 5.1. Zmiennowilgotne łąki trzęślicowe Zastosowanie nawożenia lub wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Wariant 4.2. Zalewowe łąki selernicowe i słonorośla iWariant 5.2. Zalewowe łąki selernicowe i słonorośla Zastosowanie nawożenia lub wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym bronowanie i przeorywanie 50% - 1,5 - 75% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Niewykoszenie niedojadów lub wykoszenie niedojadów w nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.3. Murawy iWariant 5.3. Murawy Zastosowanie nawożenia lub wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Zastosowanie innej niż wskazana częstotliwości koszenia niedojadów lub wykoszenie niedojadów w nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów, ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Wariant 4.4. Pomaturalne łąki wilgotne iWariant 5.4. Pomaturalne łąki wilgotne Przekroczenie dopuszczalnego limitu nawożenia 10% - 1,5 - 15% Nawożenie azotem na obszarach nawożonych przez namuły rzeczne 20% - 1,5 - 30% Zastosowanie wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Wariant 4.5. Pomaturalne łąki świeże iWariant 5.5. Pomaturalne łąki świeże Przekroczenie dopuszczalnego limitu nawożenia 10% - 1,5 - 15% Nawożenie azotem na obszarach nawożonych przez namuły rzeczne 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Zastosowanie wapnowania bez wykonania niezbędnych w tym zakresie analiz glebowych i bez uzgodnienia z ekspertem przyrodniczym 10% - 1,5 - 15% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Niewykoszenie niedojadów lub wykoszenie niedojadów w nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów, w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy - dotyczy niedojadów 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.6.1. Torfowiska - wymogi obowiązkowe iWariant 5.6.1. Torfowiska - wymogi obowiązkowe iWariant 4.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające iWariant 5.6.2. Torfowiska - wymogi obowiązkowe i uzupełniające Wymogi obowiązkowe Wydobycie torfu 57% - - 1,75 100% Zalesienie 57% - - 1,75 100% Zastosowanie nawożenia lub wapnowania 57% - - 1,75 100% Wykorzystanie sprzętu mechanicznego powodującego naruszenie wierzchniej warstwy gleby 57% - - 1,75 100% Pozostawienie rozdrobnionej biomasy 30% - - 1,75 53% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie lub wykorzystywanie sprzętu mechanicznego powodującego naruszenie wierzchniej warstwy gleby 50% - 1,5 - 75% Nieusunięcie odpadów pochodzenia antropogenicznego 20% - - 1,75 35% Niewycięcie lub wycięciew nieodpowiednim terminie zaroślii podrostu drzew 25% - 1,5 - 38% Zastosowanie innej niż wskazana częstotliwości koszenia powierzchni, na której występują odroślą drzew i krzewów, lub innej niż wskazana częstotliwości wycinania tych odrośli 15% - 1,5 - 23% Niewykoszenie powierzchni, na której występują odroślą drzew i krzewów, lub niewycinanie tych odrośli lub koszenie powierzchni, na której występują odroślą drzew i krzewów, w nieodpowiednim terminie lub wycinanie tych odrośli w nieodpowiednim terminie 50% 1,25 - - 60% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wymogi uzupełniające Zastosowanie innej niż wskazana częstotliwości koszenia runi lub niekoszenie runi lub koszenie runi w nieodpowiednim terminie 33% - 1,5 - 50% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.7. Ekstensywne użytkowanie na obszarach specjalnej ochrony ptaków (OSO) Przekroczenie dopuszczalnego limitu nawożenia 10% - 1,5 - 15% Nawożenie azotem na obszarach nawożonych przez namuły rzeczne 10% - 1,5 - 15% Wykonanie jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu lub do dnia 15 czerwca w przypadku użytkowania pastwiskowego, z wyłączeniem bronowania i przeorywania 20% - 1,5 - 30% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 15% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Niewykaszanie niedojadów lub wykaszanie ich w nieodpowiedniej częstotliwości lub nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.8. Ochrona siedlisk lęgowych ptaków: rycyka, kszyka, krwawodzioba lub czajki Zastosowanie wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Wykonanie jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu lub do dnia 15 czerwca w przypadku użytkowania pastwiskowego, z wyłączeniem bronowania i przeorywania 20% - 1,5 - 30% Zastosowanie nawożenia w przypadku użytkowania kośno-pastwiskowego i pastwiskowego 10% - 1,5 - 15% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 15% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% 1,25 - - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% 1,5 - - 15% Przekroczenie dopuszczalnego limitu nawożenia 10% - 1,5 - 15% Nawożenie azotem na obszarach nawożonych przez namuły rzeczne 10% - 1,5 - 15% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Niewykaszanie niedojadów lub wykaszanie ich w nieodpowiedniej częstotliwości lub nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.9. Ochrona siedlisk lęgowych ptaków: wodniczki Zastosowanie nawożenia lub wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Wykonanie jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu, z wyłączeniem bronowania i przeorywania 20% - 1,5 - 30% Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wypasanie w nieodpowiednim terminie 15% - 1,5 - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Wariant 4.10. Ochrona siedlisk lęgowych ptaków: dubelta lub kulika wielkiego Zastosowanie wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 50% - 1,5 - 75% Zastosowanie nawożenia przy użytkowaniu kośno-pastwiskowym i pastwiskowym 10% - 1,5 - 15% Wykonanie jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu w przypadku użytkowania kośnego i kośno--pastwiskowego lub do dnia 10 lipca w przypadku użytkowania pastwiskowego, z wyłączeniem bronowania i przeorywania 20% - 1,5 - 30% Użytkowanie kośne Zastosowanie innej niż wskazana częstotliwości koszenia lub niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Pozostawienie mniejszej niż 15-20% lub mniejszej niż 50% w przypadku turzycowisk, nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20% lub większej niż 50% w przypadku turzycowisk, lecz mniejszej niż 50% (mniejszej niż % w przypadku turzycowisk) nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% (większej niż % w przypadku turzycowisk) nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Wypasanie w nieodpowiednim terminie 15% - 1,5 - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% Przekroczenie dopuszczalnego limitu nawożenia 10% - 1,5 - 15% Nawożenie azotem na obszarach nawożonych przez namuły rzeczne 10% - 1,5 - 15% Użytkowanie pastwiskowe Niewypasanie lub wypasanie w nieodpowiednim terminie 33% - 1,5 - 50% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 20% - 1,5 - 30% Niewykaszanie niedojadów lub wykaszanie ich w nieodpowiedniej częstotliwości lub nieodpowiednim terminie 5% 1,25 - - 6% Niezłożenie ściętej biomasy z niedojadów w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy z niedojadów ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wariant 4.11. Ochrona siedlisk lęgowych ptaków: derkacza Zastosowanie nawożenia lub wapnowania 10% - 1,5 - 15% Zastosowanie wapnowania 10% - 1,5 - 15% Mechaniczne zniszczenie struktury gleby, w tym przez bronowanie i przeorywanie 57% - - 1,75 100% Wykonanie jakichkolwiek zabiegów agrotechnicznych i pielęgnacyjnych w terminie od dnia 1 kwietnia do terminu pierwszego pokosu, z wyłączeniem bronowania i przeorywania 20% - 1,5 - 30% Niewykoszenie lub wykoszenie w nieodpowiednim terminie 33% - 1,5 - 50% Pozostawienie mniejszej niż 15-20% nieskoszonej powierzchni działki rolnej 5% 1,25 - - 6% Pozostawienie większej niż 20%, lecz mniejszej niż 50% nieskoszonej powierzchni działki rolnej 10% 1,25 - - 13% Pozostawienie większej niż 50% nieskoszonej powierzchni działki rolnej 25% 1,25 - - 31% Pozostawienie nieskoszonej niewłaściwej części działki rolnej, w szczególności innej niż zaznaczona na materiale graficznym 10% 1,25 - - 13% Niezłożenie ściętej biomasy w pryzmy, w tym pryzmy balotowe, stogi lub brogi lub jej nieusunięcie w odpowiednim terminie lub pozostawienie na działce rozdrobnionej biomasy 33% - 1,5 - 50% Nieusunięcie z działki do dnia 1 marca kolejnego roku biomasy ułożonej w pryzmy, w tym pryzmy balotowe, stogi lub brogi 25% 1,25 - - 31% Wypasanie w nieodpowiednim terminie 15% - 1,5 - 19% Nieprzestrzeganie dopuszczonego poziomu obsady zwierząt 10% - 1,5 - 15% V. Pakiet 6. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie Wariant 6.1. Zachowanie zagrożonych zasobów genetycznych roślin w rolnictwie - w przypadku uprawy W pierwszym i czwartym roku do uprawy danej odmiany regionalnej lub amatorskiej zarejestrowanej w krajowym rejestrze nie został wykorzystany kwalifikowany materiał siewny 50% - - 1,75 88%

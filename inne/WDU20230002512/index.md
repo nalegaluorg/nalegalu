@@ -1,0 +1,373 @@
+---
+title: Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 10 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej
+address: WDU20230002512
+eli: DU/2023/2512
+publisher: DU
+year: 2023
+pos: 2512
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 10 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2512 |
+| ISAP | WDU20230002512 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-10 |
+| Data wydania | 2023-11-20 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2512/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2512) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej ([Dz. U. poz. 1659](https://api.sejm.gov.pl/eli/acts/DU/2020/1659/text.html)), z uwzględnieniem zmian wprowadzonych:
+
+### 1)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej ([Dz. U. poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2023/307/text.html));
+
+### 2)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającym rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej ([Dz. U. poz. 1257](https://api.sejm.gov.pl/eli/acts/DU/2023/1257/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+
+### 1)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej ([Dz. U. poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2023/307/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” ;
+
+### 2)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej ([Dz. U. poz. 1257](https://api.sejm.gov.pl/eli/acts/DU/2023/1257/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 października 2023 r.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 września 2020 r. w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej[1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:1:)
+
+Na podstawie art. 76 ust. 10 ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2023 r. poz. 1080](https://api.sejm.gov.pl/eli/acts/DU/2023/1080/text.html), [1088](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.html), [1489](https://api.sejm.gov.pl/eli/acts/DU/2023/1489/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1860](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+rodzaje norm wyżywienia dla funkcjonariuszy Straży Granicznej, zwanych dalej „funkcjonariuszami”, oraz ich wartość pieniężną;
+
+### 2)
+
+średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami;
+
+### 3)
+
+przypadki przyznawania poszczególnych norm wyżywienia;
+
+### 4)
+
+przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia;
+
+### 5)
+
+wartości świadczenia pieniężnego w zamian za wyżywienie oraz wymiar jego podwyższania, a także jednostkę organizacyjną Straży Granicznej właściwą do jego wypłacania i termin jego wypłaty.
+
+### § 2.
+
+Ustala się następujące rodzaje norm wyżywienia:
+
+### 1)
+
+zasadnicze:
+
+### a)
+
+szkolną, zwaną dalej „normą SZ”, która składa się z trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia w następujących proporcjach:
+
+- - śniadanie - 25%,
+
+- - obiad - 50%,
+
+- - kolacja - 25%,
+
+### b)
+
+lotniczą, zwaną dalej „normą LOT”, składającą się z trzech posiłków odpowiadających procentowej wartości pieniężnej normy wyżywienia w następujących proporcjach:
+
+- - śniadanie - 25%,
+
+- - obiad - 50%,
+
+- - kolacja - 25%;
+
+### 2)
+
+dodatkowe:
+
+### a)
+
+uzupełniającą, zwaną dalej „normą DU”,
+
+### b)
+
+szczególną, zwaną dalej „normą DS”.
+
+### § 3.
+
+### 1.
+
+Średnia wartość energetyczna produktów żywnościowych objętych poszczególnymi normami wyżywienia wynosi:
+
+### 1)
+
+normą SZ - co najmniej 2600 kcal;
+
+### 2)
+
+normą LOT - co najmniej 3177 kcal;
+
+### 3)
+
+normą DU - co najmniej 1011 kcal;
+
+### 4)
+
+normą DS - co najmniej 577 kcal.
+
+### 2.
+
+Średnia wartość odżywcza norm wyżywienia, wyrażona procentowo, wynosi:
+
+### 1)
+
+białko - 10-15%;
+
+### 2)
+
+tłuszcze - poniżej 30%;
+
+### 3)
+
+węglowodany - 50-65%.
+
+### § 4[2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307), które weszło w życie z dniem 3 marca 2023 r.](#gloss-0:2:).
+
+Wartość pieniężna norm wyżywienia wynosi:
+
+### 1)
+
+za normę SZ - 25 zł;
+
+### 2)
+
+za normę LOT - 30 zł;
+
+### 3)
+
+za normę DU - 7 zł;
+
+### 4)
+
+za normę DS - 4 zł;
+
+### 5)
+
+za normę SZ uzupełnioną o 7 zł - 32 zł;
+
+### 6)
+
+za normę SZ uzupełnioną o 5 zł - 30 zł;
+
+### 7)
+
+za normę SZ uzupełnioną o 4 zł - 29 zł.
+
+### § 5.
+
+Norma SZ w naturze przysługuje funkcjonariuszowi, który:
+
+### 1)
+
+na podstawie decyzji kierownika jednostki organizacyjnej Straży Granicznej przebywa i jest zakwaterowany na terenie działania podległej mu jednostki lub przebywa na terenie działania tej jednostki z zakazem opuszczania miejsca służby trwającego ponad 12 godzin;
+
+### 2)
+
+pełni służbę kandydacką;
+
+### 3)
+
+uczestniczy jako słuchacz w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze w ośrodkach szkolenia lub jednostkach organizacyjnych Straży Granicznej oraz na praktykach w jednostkach organizacyjnych Straży Granicznej i komórkach organizacyjnych Komendy Głównej Straży Granicznej - połączonych z zakwaterowaniem za czas faktycznego przebywania w miejscu zakwaterowania;
+
+### 4)
+
+bierze udział w działaniach, o których mowa w art. 76 ust. 2 pkt 2 ustawy z dnia 12 października 1990 r. o Straży Granicznej, zwanej dalej „ustawą”;
+
+### 5)
+
+pełni całodobowo służbę, z wyłączeniem funkcjonariusza pełniącego tę służbę etatowo;
+
+### 6)
+
+wchodzi w skład etatowych załóg jednostek pływających Straży Granicznej - w dniach pełnienia służby;
+
+### 7)
+
+został skierowany do wykonywania zadań służbowych na jednostki pływające Straży Granicznej na czas powyżej 8 godzin;
+
+### 8)
+
+został skierowany do wykonywania czynności służbowych poza miejscem stałego pełnienia służby w warunkach, w których przysługuje dieta na pokrycie zwiększonych kosztów wyżywienia, jeżeli ta dieta nie została wypłacona;
+
+### 9)
+
+bierze udział w uroczystym posiłku organizowanym w punkcie żywienia Straży Granicznej, w szczególności po zakończonym szkoleniu kwalifikowanym;
+
+### 10)
+
+jest żywiony w punkcie żywienia Straży Granicznej, według normy, o której mowa w art. 76 ust. 8 ustawy, która przysługuje największej grupie funkcjonariuszy uprawnionych do wyżywienia w tym punkcie żywienia Straży Granicznej, z wyłączeniem przypadku, o którym mowa w § 11 pkt 3.
+
+### § 6.
+
+Norma LOT w naturze przysługuje funkcjonariuszowi, który wykonuje loty i pełni służbę w składzie personelu latającego lub pozostaje w gotowości do pełnienia dyżurów lotniczych, z wyłączeniem przypadku zawieszenia w lotach.
+
+### § 7.
+
+Norma DU w naturze przysługuje funkcjonariuszowi, który wchodzi w skład lotniczego personelu technicznego, za czas pełnienia służby.
+
+### § 8.
+
+### 1.
+
+Norma DS w naturze przysługuje funkcjonariuszowi, który bierze udział w akcjach przywracania porządku publicznego lub wykonuje czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych w zasięgu terytorialnym oddziału Straży Granicznej właściwym dla miejsca pełnienia służby, w warunkach szczególnych, powodujących konieczność pełnienia służby połączonej ze znacznym wysiłkiem przez okres powyżej 10 godzin.
+
+### 2.
+
+Norma DS nie przysługuje funkcjonariuszowi, który korzysta w tym czasie z całodziennego wyżywienia według normy SZ lub normy LOT.
+
+### § 9.
+
+Norma, o której mowa w § 4 pkt 5, przysługuje w naturze funkcjonariuszowi, który:
+
+### 1)
+
+bierze udział w zawodach sportowych oraz przebywa na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami;
+
+### 2)
+
+wykonuje czynności pod wodą w charakterze płetwonurka;
+
+### 3)
+
+uczestniczy w obozach i zgrupowaniach połączonych z dużym wysiłkiem fizycznym, jeśli obozy i zgrupowania dotyczą zabezpieczenia fizycznego czynności operacyjno-rozpoznawczych lub dochodzeniowo-śledczych.
+
+### § 10.
+
+Norma, o której mowa w § 4 pkt 6, przysługuje w naturze funkcjonariuszowi, który:
+
+### 1)
+
+należy do pododdziału odwodowego i bierze bezpośredni udział w trwających ponad 8 godzin działaniach granicznych mających na celu zapewnienie porządku w zasięgu terytorialnym przejścia granicznego lub w strefie nadgranicznej;
+
+### 2)
+
+jest zaokrętowany na jednostce pływającej Straży Granicznej:
+
+### a)
+
+w czasie pobytu na wodach śródlądowych oraz na polskich obszarach morskich, z wyłączeniem wód portów,
+
+### b)
+
+w dniach pełnienia dyżurów w porcie.
+
+### § 11.
+
+Norma, o której mowa w § 4 pkt 7, przysługuje w naturze funkcjonariuszowi, który:
+
+### 1)
+
+jest słuchaczem ośrodka szkolenia Straży Granicznej, w czasie zajęć terenowych wymagających zwiększonego wysiłku fizycznego w związku z praktycznym szkoleniem psów patrolowo-obronnych i tropiących;
+
+### 2)
+
+bierze udział w działaniach, o których mowa w art. 76 ust. 2 pkt 3 ustawy;
+
+### 3[3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257), które weszło w życie z dniem 1 października 2023 r.](#gloss-0:3:))
+
+uczestniczy w kursach, szkoleniach, warsztatach, odprawach, naradach, konferencjach lub przedsięwzięciach o takim charakterze trwających w sposób ciągły powyżej 8 godzin w jednostkach organizacyjnych i ośrodkach szkolenia Straży Granicznej, w których znajdują się punkty żywienia Straży Granicznej, z wyłączeniem słuchaczy Wyższej Szkoły Straży Granicznej i słuchaczy ośrodków szkolenia Straży Granicznej;
+
+### 4)
+
+bierze udział w działaniach granicznych oraz akcjach przywracania porządku publicznego lub wykonuje inne czynności służbowe na rzecz innych formacji resortu spraw wewnętrznych poza miejscem stałego pełnienia służby trwających w sposób ciągły powyżej 8 godzin;
+
+### 5)
+
+jest funkcjonariuszem w służbie kandydackiej i bierze udział w działaniach, o których mowa w pkt 4 lub w art. 76 ust. 2 pkt 3 ustawy.
+
+### § 12.
+
+### 1.
+
+Wartość świadczenia pieniężnego w zamian za wyżywienie w naturze jest równa wartości pieniężnej norm wyżywienia, o której mowa w § 4.
+
+### 2[4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:4:).
+
+Funkcjonariuszowi, który w okresie od dnia 1 listopada do dnia 31 marca pełni przez co najmniej 4 godziny dziennie służbę na wolnym powietrzu, przysługuje świadczenie pieniężne w kwocie 15 zł.
+
+### § 13[5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Wartość świadczenia pieniężnego podwyższa się:
+
+### 1)
+
+za normę SZ - o kwotę 25 zł w przypadku, o którym mowa w art. 76 ust. 7 pkt 1 i 2 ustawy;
+
+### 2)
+
+za normę LOT - o kwotę 30 zł w przypadku, o którym mowa w art. 76 ust. 7 pkt 3 ustawy.
+
+### § 14.
+
+### 1.
+
+Świadczenie pieniężne wypłaca jednostka organizacyjna Straży Granicznej właściwa do zapewnienia funkcjonariuszowi wyżywienia w naturze lub właściwa ze względu na miejsce pełnienia służby przez uprawnionego funkcjonariusza.
+
+### 2.
+
+Wypłata świadczenia pieniężnego w zamian za wyżywienie następuje raz w miesiącu z dołu, nie później niż w ciągu dwóch miesięcy kalendarzowych następujących po miesiącu, w którym zaistniała okoliczność wypłaty świadczenia pieniężnego.
+
+### § 15.
+
+Rozporządzenie wchodzi w życie z dniem 1 października 2020 r.[6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie przypadków otrzymywania przez funkcjonariuszy Straży Granicznej wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 783, z 2010 r. poz. 1011 oraz z 2019 r. poz. 2552) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie równoważnika pieniężnego otrzymywanego w zamian za wyżywienie przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 775 oraz z 2019 r. poz. 2564), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).](#gloss-0:6:)
+
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej - sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 8 lutego 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 307), które weszło w życie z dniem 3 marca 2023 r. 3) W brzmieniu ustalonym przez § 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie otrzymywania wyżywienia przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 1257), które weszło w życie z dniem 1 października 2023 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2002 r. w sprawie przypadków otrzymywania przez funkcjonariuszy Straży Granicznej wyżywienia oraz norm tego wyżywienia (Dz. U. poz. 783, z 2010 r. poz. 1011 oraz z 2019 r. poz. 2552) oraz rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 14 czerwca 2002 r. w sprawie równoważnika pieniężnego otrzymywanego w zamian za wyżywienie przez funkcjonariuszy Straży Granicznej (Dz. U. poz. 775 oraz z 2019 r. poz. 2564), które utraciły moc z dniem wejścia w życie ustawy z dnia 14 sierpnia 2020 r. o szczególnych rozwiązaniach dotyczących wsparcia służb mundurowych nadzorowanych przez ministra właściwego do spraw wewnętrznych, o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 1610).

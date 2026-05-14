@@ -8,11 +8,9 @@ pos: 556
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Akademii Medycznej w Gdańsku nazwy „Gdański Uniwersytet Medyczny”
-
-*USTAWA z dnia 19 marca 2009 r.*
+# Ustawa z dnia 19 marca 2009 r. o nadaniu Akademii Medycznej w Gdańsku nazwy „Gdański Uniwersytet Medyczny”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2009-03-19 |
 | Data wydania | 2009-05-04 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090660556) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/556/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/556/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/556) |
 
-**Art. 1.** Akademii Medycznej w Gdańsku nadaje się nazwę „Gdański Uniwersytet Medyczny”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Akademii Medycznej w Gdańsku nadaje się nazwę „Gdański Uniwersytet Medyczny”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

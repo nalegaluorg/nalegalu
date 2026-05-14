@@ -8,11 +8,9 @@ pos: 600
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o specjalnych strefach ekonomicznych
-
-*USTAWA z dnia 20 października 1994 r.*
+# Ustawa z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,293 +22,472 @@ domain: null
 | Data ogłoszenia | 1994-10-20 |
 | Data wydania | 1994-11-23 |
 | Ostatnia zmiana | 2026-02-04 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941230600) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/600/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/600) |
 
-Art. 21–23. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Ustanawianie stref](#chpt_2) [Rozdział 3 - Zarządzanie strefą, zwolnienia podatkowe i preferencje](#chpt_3) [Rozdział 4 - Zezwolenie na prowadzenie działalności gospodarczej na terenie strefy](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących przepisy przejściowe i końcowe](#chpt_5)
 
-**Art. 1.** Ustawa określa zasady i tryb ustanawiania specjalnych stref ekonomicznych na terytorium Rzeczypospolitej Polskiej, zarządzania takimi strefami oraz szczególne zasady i warunki prowadzenia na ich terenie działalności gospodarczej.
+TOC
 
-**Art. 2.** Specjalną strefą ekonomiczną, zwaną dalej „strefą”, jest wyodrębniona zgodnie z przepisami ustawy, niezamieszkała część terytorium Rzeczypospolitej Polskiej, na której terenie może być prowadzona działalność gospodarcza na zasadach określonych ustawą.
+## Treść ustawy
 
-**Art. 3.** Strefa może być ustanowiona w celu przyspieszenia rozwoju gospodarczego części terytorium kraju, w szczególności przez:
+### Rozdział 1 Przepisy ogólne
 
-#### Rozdział 2 Ustanawianie, łączenie, znoszenie stref oraz zmiana ich obszaru
+### Art. 1.
 
-**Art. 4.**
+Ustawa określa zasady i tryb ustanawiania specjalnych stref ekonomicznych na terytorium Rzeczypospolitej Polskiej, zarządzania takimi strefami oraz szczególne zasady i warunki prowadzenia na ich terenie działalności gospodarczej.
 
-1. Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki, ustanawia strefę w drodze rozporządzenia. W rozporządzeniu tym określa się:
+### Art. 2.
 
-- **1)** nazwę, teren i granice strefy,
-- **2)** zarządzającego strefą, zwanego dalej „zarządzającym”,
-- **3)** okres, na jaki ustanawia się strefę – biorąc pod uwagę potrzebę zapewnienia realizacji celów, o których mowa w art. 3, na terenie obejmowanym strefą.
+Specjalną strefą ekonomiczną, zwaną dalej „strefą”, jest wyodrębniona zgodnie z przepisami ustawy, niezamieszkała część terytorium Rzeczypospolitej Polskiej, na której terenie może być prowadzona działalność gospodarcza na zasadach określonych ustawą.
 
-2. Minister właściwy do spraw gospodarki przedstawia wniosek, o którym mowa w ust. 1, po uzyskaniu opinii zarządu województwa oraz zgody rady gminy właściwej ze względu na położenie strefy.
+### Art. 3.
 
-3. Minister właściwy do spraw gospodarki dołącza do wniosku, o którym mowa w ust. 1, analizę przewidywanych skutków społecznych i ekonomicznych ustanowienia strefy.
+Strefa może być ustanowiona w celu przyspieszenia rozwoju gospodarczego części terytorium kraju, w szczególności przez:
 
-4. Rada Ministrów określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** przedmioty działalności gospodarczej, na które nie będzie wydawane zezwolenie, o którym mowa w art. 16 ust. 1,
-- **2)** maksymalną wielkość pomocy publicznej, którą można udzielić przedsiębiorcy prowadzącemu działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1,
-- **3)** warunki udzielania pomocy publicznej przedsiębiorcy prowadzącemu działalność gospodarczą na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1,
-- **4)** warunki uznawania wydatków za wydatki poniesione na inwestycję na terenie strefy, a także ich minimalną wysokość,
-- **5)** koszty inwestycji uwzględniane przy obliczaniu wielkości pomocy publicznej dla przedsiębiorców, którzy uzyskali zezwolenie, o którym mowa w art. 16 ust. 1, po dniu 31 grudnia 2000 r.,
-- **6)** sposób dyskontowania kosztów inwestycji i wielkości pomocy publicznej na dzień uzyskania zezwolenia, o którym mowa w art. 16 ust. 1 – biorąc pod uwagę konieczność zapewnienia zgodności udzielonej pomocy z prawem Unii Europejskiej.
+rozwój określonych dziedzin działalności gospodarczej,
 
-**Art. 5.**
+### 2)
 
-1. Strefa może być ustanowiona, z zastrzeżeniem ust. 2 i 3, wyłącznie na gruntach stanowiących własność zarządzającego, Skarbu Państwa, jednoosobowej spółki Skarbu Państwa, jednostki samorządu terytorialnego albo związku komunalnego lub będących w użytkowaniu wieczystym zarządzającego albo jednoosobowej spółki Skarbu Państwa.
+rozwój nowych rozwiązań technicznych i technologicznych oraz ich wykorzystanie w gospodarce narodowej,
 
-2. Strefa może być ustanowiona także, jeżeli nabycie przez zarządzającego lub jednostkę samorządu terytorialnego prawa do gruntów, o którym mowa w ust. 1, wynika z umowy zobowiązującej, która przewiduje ustanowienie strefy jako jedyny warunek nabycia.
+### 3)
 
-3. Część strefy może obejmować grunty stanowiące własność lub użytkowanie wieczyste podmiotów innych niż wymienione w ust. 1, za ich zgodą, w przypadku gdy:
+rozwój eksportu,
 
-- **1)** (uchylony)
-- **2)** (uchylony) 2a) (uchylony)
-- **3)** (uchylony)
-- **4)** pełna realizacja rozpoczętej inwestycji będzie wymagała zwiększenia terenu strefy o nie więcej niż 2 ha.
+### 4)
 
-4. (uchylony)
+zwiększenie konkurencyjności wytwarzanych wyrobów i świadczonych usług,
 
-**Art. 5a.**
+### 5)
 
-1. Rada Ministrów, mając na względzie realizację celów, o których mowa w art. 3, może, na wniosek ministra właściwego do spraw gospodarki, w drodze rozporządzenia, znieść strefę przed upływem okresu, na jaki została ona ustanowiona, połączyć strefy, z tym że łączny obszar wszystkich stref nie może przekroczyć 25 tys. ha.
+zagospodarowanie istniejącego majątku przemysłowego i infrastruktury gospodarczej,
 
-1a. (uchylony)
+### 6)
 
-2. Zniesienie strefy nie może nastąpić w okresie, w którym pozostaje w mocy choćby jedno zezwolenie wydane na podstawie art. 16 ust. 1.
+tworzenie nowych miejsc pracy,
 
-3. Zakazu, o którym mowa w ust. 2, nie stosuje się, gdy obszar, na którym przedsiębiorca prowadzi działalność gospodarczą na podstawie zezwolenia, zostanie włączony do obszaru innej strefy z zachowaniem prawa przedsiębiorcy do zwolnień podatkowych na dotychczasowych warunkach.
+### 7)
 
-4. Zmniejszenie obszaru strefy nie może dotyczyć nieruchomości, na których prowadzona jest działalność na podstawie zezwolenia wydanego zgodnie z art. 16 ust. 1, chyba że przedsiębiorca prowadzący tam działalność na podstawie zezwolenia wyrazi na to zgodę.
+zagospodarowanie nie wykorzystanych zasobów naturalnych z zachowaniem zasad równowagi ekologicznej.
 
-5. (uchylony)
+### Rozdział 2 Ustanawianie stref
 
-#### Rozdział 3 Zarządzanie strefą i zwolnienia podatkowe
+### Art. 4.
 
-**Art. 6.**
+### 1.
 
-1. Zarządzającym może być wyłącznie spółka akcyjna lub spółka z ograniczoną odpowiedzialnością, w której Skarb Państwa, samorząd województwa albo inny zarządzający posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników.
+Rada Ministrów, na wniosek Ministra Przemysłu i Handlu, ustanawia strefę w drodze rozporządzenia.
 
-2. (uchylony)
+### 2.
 
-3. (uchylony)
+Minister Przemysłu i Handlu przedstawia wniosek, o którym mowa w ust. 1, po uzyskaniu opinii wojewody oraz zgody rady gminy (rad gmin) właściwej (właściwych) ze względu na położenie strefy.
 
-**Art. 6a.**
+### 3.
 
-1. Pełnienia funkcji członka zarządu spółki będącej zarządzającym nie można łączyć z zatrudnieniem u przedsiębiorcy prowadzącego działalność gospodarczą na terenie danej strefy lub przedsiębiorcy korzystającego ze wsparcia nowej inwestycji na podstawie decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji (Dz. U. z 2023 r. poz. 74), bez względu na podstawę prawną zatrudnienia.
+Minister Przemysłu i Handlu dołącza do wniosku, o którym mowa w ust. 1, założenia planu rozwoju strefy określonego w art. 9, obejmujące w szczególności analizę przewidywanych skutków społecznych i ekonomicznych ustanowienia strefy.
 
-2. Zatrudnienia, o którym mowa w ust. 1, nie można podjąć w okresie roku od dnia zaprzestania pełnienia funkcji członka zarządu spółki będącej zarządzającym.
+### 4.
 
-**Art. 7.**
+Rozporządzenie w sprawie ustanowienia strefy określa:
 
-1. Do składu rady nadzorczej spółki będącej zarządzającym, w stosunku do której Skarb Państwa posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się nie więcej niż 6 osób, w tym:
+### 1)
 
-- **1)** po jednym przedstawicielu: ministra właściwego do spraw gospodarki, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw aktywów państwowych oraz Prezesa Urzędu Ochrony Konkurencji i Konsumentów – jako przedstawicieli Skarbu Państwa;
-- **2)** nie więcej niż dwóch przedstawicieli jednostek samorządu terytorialnego, których udział w kapitale zakładowym tej spółki jest największy.
+nazwę, teren i granice strefy,
 
-1a. Do składu rady nadzorczej spółki będącej zarządzającym, w stosunku do której samorząd województwa posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się nie więcej niż 5 osób, w tym:
+### 2)
 
-- **1)** dwóch przedstawicieli samorządu województwa;
-- **2)** przedstawiciela ministra właściwego do spraw gospodarki;
-- **3)** nie więcej niż dwóch przedstawicieli jednostek samorządu terytorialnego, z wyłączeniem samorządu województwa, których udział w kapitale zakładowym tej spółki jest największy.
+zakres przedmiotowy działalności gospodarczej, która może być prowadzona na terenie strefy, albo dziedziny działalności gospodarczej, której prowadzenie na terenie strefy jest wyłączone,
 
-1b. (uchylony) 1c. Do składu rady nadzorczej spółki będącej zarządzającym, w stosunku do której inny zarządzający posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, powołuje się nie więcej niż 5 osób, w tym co najmniej dwóch przedstawicieli ministra właściwego do spraw gospodarki.
+### 3)
 
-2. Do składu rady nadzorczej, o której mowa w ust. 1, 1a i 1c, nie może być powołana osoba, która jest członkiem rady nadzorczej, zarządu lub pracownikiem przedsiębiorcy prowadzącego działalność gospodarczą na terenie strefy lub przedsiębiorcy korzystającego ze zwolnienia od podatku dochodowego na podstawie decyzji o wsparciu, o której mowa w ustawie z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji, lub pozostaje z takim przedsiębiorcą w powiązaniach w rozumieniu art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, z późn. zm. ).
+zarządzającego strefą, zwanego dalej „zarządzającym”,
 
-**Art. 8.**
+### 4)
 
-1. Do zadań zarządzającego należy prowadzenie – zgodnie z planem rozwoju strefy określonym w art. 9, regulaminem strefy, o którym mowa w art. 10, oraz przepisami prawa – działań zmierzających do rozwoju działalności gospodarczej prowadzonej na terenie strefy, a w szczególności:
+okres, na jaki ustanawia się strefę,
 
-- **1)** umożliwianie, na podstawie umowy, przedsiębiorcom prowadzącym działalność na terenie strefy używania i korzystania ze składników mienia położonych na obszarze strefy, których zarządzający jest właścicielem lub posiadaczem zależnym;
-- **2)** gospodarowanie w sposób ułatwiający prowadzenie działalności gospodarczej na terenie strefy urządzeniami infrastruktury gospodarczej i technicznej oraz innymi składnikami mienia, których zarządzający jest właścicielem lub posiadaczem zależnym;
-- **3)** świadczenie, na podstawie umowy, przedsiębiorcom prowadzącym działalność na obszarze strefy usług oraz tworzenie warunków do świadczenia usług przez osoby trzecie;
-- **4)** prowadzenie działań promujących podejmowanie działalności gospodarczej w strefie;
-- **5)** podejmowanie działań zmierzających do powstawania klastrów;
-- **6)** współpraca w zakresie uwzględniania w procesie kształcenia potrzeb rynku pracy w strefie: poz. 900),
-    - **a)** ze szkołami ponadpodstawowymi, o których mowa w art. 18 ust. 1 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r.
-    - **b)** z uczelniami lub federacjami podmiotów systemu szkolnictwa wyższego i nauki w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, 1088 i 1234).
+### 5)
 
-2. Zarządzający może zbywać przysługujące mu prawo własności nieruchomości i użytkowania wieczystego gruntów położonych na terenie strefy, jeżeli jest to zgodne z planem rozwoju strefy, o którym mowa w art. 9. Zarządzającemu służy prawo pierwokupu w zakresie prawa własności i użytkowania wieczystego położonych na obszarze strefy nieruchomości.
+zwolnienia i preferencje dla podmiotów prowadzących działalność gospodarczą na terenie strefy na zasadach określonych w art. 12.
 
-3. Zarządzający realizując zadania określone planem rozwoju strefy, o którym mowa w art. 9, może zlecać osobom trzecim wykonanie niektórych zadań, o których mowa w ust. 1.
+### 5.
 
-4. Organ właściwy na podstawie przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344) może zlecić zarządzającemu w drodze umowy przygotowanie nieruchomości do sprzedaży oraz zorganizowanie i przeprowadzenie przetargu na zbycie tej nieruchomości.
+Minister Przemysłu i Handlu, na wniosek właściwego wojewody, może zlecić mu przygotowanie wniosku, o którym mowa w ust. 1.
 
-**Art. 8a.**
+### Art. 5.
 
-1. Zarządzający będący podmiotem, o którym mowa w art. 4 pkt 3 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2022 r. poz. 1710, 1812, 1933 i 2185 oraz z 2023 r. poz. 412 i 825), udzielając zamówienia, o którym mowa w art. 11 ust. 5 pkt 9 tej ustawy, którego wartość jest równa lub przekracza kwotę 170 000 złotych, zamieszcza ogłoszenie o udzielanym zamówieniu na swojej stronie podmiotowej Biuletynu Informacji Publicznej.
+### 1.
 
-2. Zamówienie, o którym mowa w ust. 1, jest udzielane w sposób zapewniający zachowanie przejrzystości i równego traktowania podmiotów zainteresowanych wykonaniem zamówienia oraz z uwzględnieniem okoliczności mogących mieć wpływ na jego udzielenie.
+Strefa może być ustanowiona, z zastrzeżeniem ust. 2 i 3, wyłącznie na gruntach stanowiących własność zarządzającego, Skarbu Państwa albo gminy (gmin), związku komunalnego lub będących w użytkowaniu wieczystym zarządzającego.
 
-3. Zarządzający nie udostępnia informacji związanych z zamówieniem, o którym mowa w ust. 1, stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), jeżeli podmiot zainteresowany wykonaniem zamówienia, nie później niż przed zawarciem umowy o wykonanie tego zamówienia, zastrzegł, że nie mogą być one udostępniane.
+### 2.
 
-4. Zarządzający zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację o udzieleniu zamówienia, o którym mowa w ust. 1, podając nazwę albo imię i nazwisko podmiotu, z którym zawarł umowę o wykonanie zamówienia, albo informację o nieudzieleniu tego zamówienia.
+Strefa może być ustanowiona także, jeżeli nabycie przez zarządzającego prawa do gruntów, o którym mowa w ust. 1, wynika z umowy zobowiązującej, która przewiduje ustanowienie strefy jako jedyny warunek nabycia.
 
-**Art. 9.**
+### 3.
 
-1. Minister właściwy do spraw gospodarki ustala, w drodze rozporządzenia, plan rozwoju strefy, uwzględniając analizę, o której mowa w art. 4 ust. 3.
+W przypadkach uzasadnionych ważnymi względami gospodarczymi część strefy może obejmować grunty stanowiące własność:
 
-2. Plan rozwoju strefy określa w szczególności cele ustanowienia strefy, działania służące osiągnięciu tych celów oraz obowiązki zarządzającego dotyczące działań zmierzających do osiągnięcia celów ustanowienia strefy i terminy wykonania tych obowiązków.
+### 1)
 
-**Art. 10.**
+Skarbu Państwa, których użytkownikiem wieczystym jest osoba inna niż zarządzający - za zgodą użytkownika wieczystego.
 
-1. Sposób wykonywania zarządu strefą przez zarządzającego określa regulamin strefy.
+### 2)
 
-2. Regulamin strefy wydaje zarządzający. Wydanie oraz zmiana regulaminu strefy wymaga zatwierdzenia przez ministra właściwego do spraw gospodarki.
+osób innych niż Skarb Państwa, gmina (związek komunalny) i zarządzający - za zgodą właściciela.
 
-3. Zarządzający doręcza regulamin strefy przedsiębiorcom prowadzącym działalność na terenie strefy przy zawarciu umów, o których mowa w art. 8 ust. 1 pkt 1 i 3, a także podaje regulamin do wiadomości publicznej.
+### Rozdział 3 Zarządzanie strefą, zwolnienia podatkowe i preferencje
 
-**Art. 11.**
+### Art. 6.
 
-1. Przedsiębiorcy prowadzący działalność na terenie strefy mogą powołać radę strefy.
+Zarządzającym może być wyłącznie spółka akcyjna lub spółka z ograniczoną odpowiedzialnością, w stosunku do której Skarb Państwa posiada większość głosów, które mogą być oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, oraz jest uprawniony do powoływania i odwoływania większości członków jej zarządu i rady nadzorczej.
 
-2. Rada strefy może przedstawiać opinie i wnioski w sprawach dotyczących prowadzenia działalności na terenie strefy i jej rozwoju.
+### Art. 7.
 
-3. Organizację i tryb działania rady strefy określa opracowany i uchwalony przez radę regulamin.
+### 1.
 
-**Art. 12.**
+Minister Przemysłu i Handlu reprezentuje Skarb Państwa w zakresie jego praw i obowiązków jako akcjonariusza (wspólnika) spółki będącej zarządzającym oraz spółki tworzonej przez Skarb Państwa lub z udziałem Skarbu Państwa w celu ustanowienia jej zarządzającym.
 
-1. Dochody uzyskane z działalności gospodarczej prowadzonej na terenie strefy w ramach zezwolenia, o którym mowa w art. 16 ust. 1, przez osoby prawne lub osoby fizyczne prowadzące działalność gospodarczą są zwolnione od podatku dochodowego, odpowiednio na zasadach określonych w przepisach o podatku dochodowym od osób prawnych lub w przepisach o podatku dochodowym od osób fizycznych. Zwolnienie to stanowi pomoc publiczną, przy czym wielkość tej pomocy nie może przekroczyć jej maksymalnej wielkości określonej w przepisach wydanych na podstawie art. 4 ust. 4.
+### 2.
 
-1a. Przepisy o podatku dochodowym od osób prawnych albo przepisy o podatku dochodowym od osób fizycznych stosuje się również do dochodów z praw własności intelektualnej osiąganych przez przedsiębiorców prowadzących działalność gospodarczą na terenie strefy na podstawie zezwolenia.
+Minister Przemysłu i Handlu, jako organ reprezentujący Skarb Państwa, zapewnia udział osoby wyznaczonej przez wojewodę oraz osoby wyznaczonej przez radę gminy (jeżeli osoba taka została wyznaczona), właściwych ze względu na położenie strefy, w radzie nadzorczej spółki będącej zarządzającym strefą. Do składu rady nadzorczej spółki będącej zarządzającym może zostać powołana osoba wskazana przez podmioty prowadzące działalność gospodarczą na terenie strefy. Do składu rady nadzorczej spółki będącej zarządzającym nie może być powołana osoba, która jest członkiem władz lub pracownikiem podmiotu prowadzącego działalność gospodarczą na terenie strefy lub pozostaje w związku gospodarczym z takim podmiotem.
 
-2. W przypadku gdy przedsiębiorca posiada co najmniej dwa zezwolenia, o których mowa w art. 16 ust. 1, przyjmuje się, że rozliczenie pomocy publicznej następuje zgodnie z kolejnością wydawania zezwoleń.
+### Art. 8.
 
-3. Rozliczenie pomocy publicznej przyznanej przedsiębiorcy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, ma zastosowanie wyłącznie do zezwolenia, w ramach którego rozpoczęto inwestycję, w oparciu o którą prowadzona jest działalność gospodarcza.
+### 1.
 
-4. Przez rozpoczęcie inwestycji rozumie się:
+Do zadań zarządzającego należy prowadzenie - zgodnie z planem rozwoju strefy określonym w art. 9, regulaminem strefy, o którym mowa w art. 10, oraz przepisami prawa - działań zmierzających do rozwoju działalności gospodarczej prowadzonej na terenie strefy, a w szczególności:
 
-- **1)** rozpoczęcie robót budowlanych związanych z inwestycją lub
-- **2)** pierwsze prawnie wiążące zobowiązanie do zamówienia urządzeń, lub
-- **3)** inne zobowiązanie, które sprawia, że inwestycja staje się nieodwracalna – w zależności od tego, które z tych zdarzeń wystąpiło pierwsze, przy czym nie uznaje się za rozpoczęcie inwestycji zakupu gruntów ani prac przygotowawczych, takich jak uzyskanie zezwoleń i przeprowadzenie studiów wykonalności.
+### 1)
 
-5. W przypadku przejęcia przez rozpoczęcie inwestycji rozumie się nabycie aktywów bezpośrednio związanych z nabytym zakładem.
+umożliwianie, na podstawie umowy, podmiotom gospodarczym prowadzącym działalność na terenie strefy używania i korzystania ze składników mienia położonych na obszarze strefy, których zarządzający jest właścicielem lub posiadaczem zależnym,
 
-**Art. 12a.**
+### 2)
 
-1. Przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, obowiązani do prowadzenia ksiąg podatkowych – przechowują księgi i związane z ich prowadzeniem dokumenty, a przedsiębiorcy korzystający z pomocy publicznej, udzielanej zgodnie z ustawą, z tytułu tworzenia nowych miejsc pracy – dodatkowo przechowują dokumenty związane z poborem podatków oraz innych dochodów budżetu państwa, a także przychodów państwowych funduszy celowych.
+gospodarowanie w sposób ułatwiający prowadzenie działalności gospodarczej na terenie strefy urządzeniami infrastruktury gospodarczej i technicznej oraz innymi składnikami mienia, których zarządzający jest właścicielem lub posiadaczem zależnym,
 
-2. Księgi oraz dokumenty określone w ust. 1 są przechowywane do czasu upływu okresu przedawnienia roszczeń związanych ze zwrotem pomocy publicznej.
+### 3)
 
-**Art. 12b.**
+świadczenie, na podstawie umowy, podmiotom gospodarczym prowadzącym działalność na obszarze strefy usług oraz tworzenie warunków do świadczenia usług przez osoby trzecie,
 
-1. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, przedsiębiorca jest obowiązany do zwrotu pomocy publicznej, udzielonej zgodnie z ustawą. Do dnia zwrotu tej pomocy przedsiębiorcy nie może zostać udzielone nowe zezwolenie.
+### 4)
 
-2. W przypadku cofnięcia albo stwierdzenia wygaśnięcia zezwolenia, o którym mowa w art. 16 ust. 1, minister właściwy do spraw gospodarki przekazuje naczelnikowi urzędu skarbowego właściwemu dla przedsiębiorcy w sprawach podatku dochodowego kopię wydanej decyzji w terminie 14 dni, licząc od dnia, w którym decyzja ta stała się prawomocna.
+prowadzenie działań promujących podejmowanie działalności gospodarczej w strefie.
 
-3. W przypadku cofnięcia zezwolenia, o którym mowa w art. 16 ust. 1, naczelnik urzędu skarbowego, o którym mowa w ust. 2, określa w drodze decyzji kwotę pomocy publicznej podlegającą zwrotowi pomniejszoną odpowiednio o kwotę podatku należnego, o którym mowa w art. 21 ust. 5c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2022 r. poz. 2647, z późn. zm. ) albo art. 17 ust. 6 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+### 2.
 
-4. W kwocie pomocy publicznej podlegającej zwrotowi, o której mowa w ust. 3, uwzględnia się odsetki liczone jak dla zaległości podatkowych. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetki liczone są za okres od dnia udzielenia pomocy publicznej do dnia wydania decyzji o uchyleniu, a zakresie pozostałej pomocy publicznej podlegającej zwrotowi do dnia jej zwrotu. W odniesieniu do pomocy publicznej wynikającej ze zwolnienia, o którym mowa w art. 21 ust. 5c pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 17 ust. 6 pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, odsetek nie nalicza się.
+Zarządzający może zbywać przysługujące mu prawo własności nieruchomości i użytkowania wieczystego gruntów położonych na terenie strefy, jeżeli jest to zgodne z planem rozwoju strefy, o którym mowa w art. 9. Zarządzającemu służy prawo pierwokupu w zakresie prawa własności i użytkowania wieczystego położonych na obszarze strefy nieruchomości.
 
-**Art. 12c.** Roszczenia związane ze zwrotem pomocy publicznej, udzielanej zgodnie z ustawą, przedawniają się z upływem 10 lat, licząc od końca roku kalendarzowego, w którym przedsiębiorca skorzystał z tej pomocy.
+### 3.
 
-**Art. 13.** (uchylony)
+Zarządzający może zlecać osobom trzecim wykonanie niektórych zadań, o których mowa w ust. 1. Zlecenie wykonania powinno odbywać się przede wszystkim w drodze przetargu.
 
-**Art. 14.** (uchylony)
+### Art. 9.
 
-**Art. 15.**
+### 1.
 
-1. Na wniosek zarządzającego starosta, wykonujący zadania z zakresu administracji rządowej, właściwy ze względu na położenie strefy może, za zgodą wojewody, powierzyć zarządzającemu prowadzenie, w tym wydawanie decyzji administracyjnych w pierwszej instancji, następujących spraw z zakresu prawa budowlanego dotyczących terenu strefy: wydawanie decyzji o pozwoleniu na budowę, przenoszenie pozwolenia na budowę na inną osobę, orzekanie o utracie ważności pozwolenia na budowę, przyjmowanie zawiadomień o zakończeniu budowy, wydawanie pozwoleń na użytkowanie obiektu budowlanego, udzielanie pozwolenia na zmianę sposobu użytkowania obiektu budowlanego lub jego części, nakazanie przeprowadzenia kontroli obiektu budowlanego i żądanie przedstawienia ekspertyzy stanu technicznego obiektu budowlanego.
+Minister Przemysłu i Handlu, w drodze rozporządzenia, ustala plan rozwoju strefy.
 
-2. Na wniosek zarządzającego rada gminy właściwej ze względu na położenie strefy może upoważnić zarządzającego do wydawania decyzji w sprawach ustalenia warunków zabudowy i zagospodarowania terenu dotyczących terenów położonych w strefie.
+### 2.
 
-#### Rozdział 4 Zezwolenie na prowadzenie działalności gospodarczej na terenie strefy uprawniające do korzystania z pomocy publicznej
+Plan rozwoju strefy określa w szczególności cele ustanowienia strefy oraz działania, środki techniczne i organizacyjne służące osiągnięciu tych celów, obowiązki zarządzającego dotyczące działań zmierzających do osiągnięcia celów ustanowienia strefy i terminy wykonania tych obowiązków.
 
-**Art. 16.**
+### 3.
 
-1. Podstawą do korzystania z pomocy publicznej, udzielanej zgodnie z ustawą, jest zezwolenie na prowadzenie działalności gospodarczej na terenie danej strefy uprawniające do korzystania z pomocy publicznej, zwane dalej „zezwoleniem”.
+Plan rozwoju strefy uwzględnia postanowienia właściwych planów zagospodarowania przestrzennego i powinien być zgodny z założeniami, o których mowa w art. 4 ust. 3.
 
-2. Zezwolenie określa przedmiot działalności gospodarczej oraz warunki dotyczące w szczególności:
+### Art. 10.
 
-- **1)** zatrudnienia przez przedsiębiorcę przy prowadzeniu działalności gospodarczej na terenie strefy przez określony czas określonej liczby pracowników;
-- **2)** dokonania przez przedsiębiorcę na terenie strefy inwestycji o wartości przewyższającej określoną kwotę;
-- **3)** terminu zakończenia inwestycji;
-- **4)** maksymalnej wysokości kosztów kwalifikowanych inwestycji i dwuletnich kosztów kwalifikowanych pracy;
-- **5)** wymagań, o których mowa w art. 5 ust. 3 – w przypadku, gdy inwestycja będzie realizowana na gruntach stanowiących własność lub użytkowanie wieczyste podmiotów innych niż wymienione w art. 5 ust. 1.
+### 1.
 
-3. (uchylony)
+Sposób wykonywania zarządu strefą przez zarządzającego określa regulamin strefy.
 
-4. Minister właściwy do spraw gospodarki cofa i zmienia zezwolenie. Cofnięcie i zmiana zezwolenia następuje na warunkach określonych w art. 19 ust. 2–4.
+### 2.
 
-5. Minister właściwy do spraw gospodarki zasięga opinii zarządzającego strefą przed wydaniem decyzji w sprawie cofnięcia lub zmiany zezwolenia.
+Regulamin strefy wydaje zarządzający. Wydanie oraz zmiana regulaminu strefy wymaga zatwierdzenia przez Ministra Przemysłu i Handlu.
 
-6. Do postępowania w sprawie cofania i zmiany zezwolenia stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+### 3.
 
-**Art. 17.** (uchylony)
+Zarządzający doręcza regulamin strefy podmiotom gospodarczym prowadzącym działalność na terenie strefy przy zawarciu umów, o których mowa w art. 8 ust. 1 pkt 1 i 3, a także podaje regulamin do wiadomości publicznej.
 
-**Art. 17a.** (uchylony)
+### Art. 11.
 
-**Art. 18.** Minister właściwy do spraw gospodarki przeprowadza kontrolę działalności gospodarczej prowadzonej na terenie strefy w zakresie i na zasadach określonych w art. 40 oraz rozdziale 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803).
+### 1.
 
-**Art. 19.**
+Podmioty gospodarcze prowadzące działalność na terenie strefy mogą powołać radę strefy.
 
-1. Zezwolenie wygasa z upływem okresu, na jaki została ustanowiona strefa.
+### 2.
 
-2. (uchylony)
+Rada strefy może przedstawiać opinie i wnioski w sprawach dotyczących prowadzenia działalności na terenie strefy i jej rozwoju.
 
-3. Zezwolenie może być cofnięte albo zakres lub przedmiot działalności określony w zezwoleniu może zostać ograniczony, jeżeli przedsiębiorca:
+### 3.
 
-- **1)** zaprzestał na terenie strefy prowadzenia działalności gospodarczej, na którą posiadał zezwolenie, lub
-- **2)** rażąco uchybił warunkom określonym w zezwoleniu, lub
-- **3)** nie usunął uchybień stwierdzonych w toku kontroli, o której mowa w art. 18, w terminie do ich usunięcia wyznaczonym w wezwaniu ministra właściwego do spraw gospodarki, lub
-- **4)** wystąpił z wnioskiem o cofnięcie zezwolenia albo ograniczenie zakresu lub przedmiotu działalności określonego w zezwoleniu.
+Organizację i tryb działania rady strefy określa opracowany i uchwalony przez radę regulamin.
 
-4. Minister właściwy do spraw gospodarki może, na wniosek przedsiębiorcy, po zasięgnięciu opinii zarządzającego strefą, zmienić zezwolenie, przy czym zmiana nie może:
+### Art. 12.
 
-- **1)** dotyczyć obniżenia poziomu zatrudnienia, określonego w zezwoleniu w dniu jego wydania, o więcej niż 20%;
-- **2)** skutkować zwiększeniem maksymalnej wysokości kosztów kwalifikowanych, określonych w zezwoleniu;
-- **3)** dotyczyć spełnienia wymagań odnoszących się do inwestycji realizowanej na gruntach stanowiących własność lub użytkowanie wieczyste podmiotów innych niż wymienione w art. 5 ust. 1.
+### 1.
 
-5. Minister właściwy do spraw gospodarki stwierdza wygaśnięcie zezwolenia na wniosek przedsiębiorcy, który:
+Dochody uzyskane z działalności gospodarczej prowadzonej na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, przez osoby prawne oraz osoby fizyczne prowadzące działalność gospodarczą mogą być, w drodze rozporządzenia Rady Ministrów, całkowicie zwolnione odpowiednio od podatku dochodowego od osób prawnych i podatku dochodowego od osób fizycznych w okresie równym połowie okresu, na jaki ustanowiona została strefa.
 
-- **1)** nie skorzystał z pomocy publicznej, udzielanej zgodnie z ustawą, na podstawie tego zezwolenia – jeśli przedsiębiorca posiada wyłącznie jedno zezwolenie, lub
-- **2)** nie osiągnął przychodów oraz nie korzystał ze zwolnienia w ramach zezwolenia, w rozumieniu ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, z inwestycji, na którą zostało wydane zezwolenie – jeśli przedsiębiorca posiada więcej niż jedno zezwolenie, lub
-- **3)** skorzystał z pomocy publicznej udzielonej zgodnie z ustawą i spełnił wszystkie warunki określone w zezwoleniu oraz warunki udzielania pomocy publicznej, o których mowa w przepisach wydanych na podstawie art. 4 ust.
+### 2.
 
-4.
+Dochody, o których mowa w ust. 1, uzyskane w latach podatkowych następujących po roku podatkowym, w którym zgodnie z ust. 1 wygasło całkowite zwolnienie od podatku dochodowego, mogą być, w drodze rozporządzenia Rady Ministrów, zwolnione od podatku dochodowego w pozostałym okresie, na jaki ustanowiona została strefa, w części nie przekraczającej 50% takich dochodów.
 
-6. Do wniosku, o którym mowa w ust. 5, przedsiębiorca dołącza oświadczenie o nieskorzystaniu z pomocy publicznej, udzielanej zgodnie z ustawą, na podstawie zezwolenia, którego wniosek dotyczy, albo o nieosiągnięciu przychodów z inwestycji, na którą zostało wydane zezwolenie, albo oświadczenie o realizacji warunków udzielenia pomocy publicznej, o których mowa w ust. 5.
+### 3.
 
-7. Oświadczenie, o którym mowa w ust. 6, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+Wydatki inwestycyjne nie dotyczące nabycia środków trwałych, związane bezpośrednio z działalnością gospodarczą prowadzoną na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, ponoszone przez podmioty gospodarcze, które nie mają prawa do zwolnienia od podatku dochodowego, o którym mowa w ust. 1 lub 2, mogą być zaliczane w pełnej wysokości do kosztów uzyskania przychodów w roku podatkowym, w którym zostały poniesione.
 
-**Art. 19a.** (uchylony)
+### 4.
 
-**Art. 20.**
+Stawki amortyzacji środków trwałych służących do prowadzenia działalności gospodarczej na terenie strefy na podstawie zezwolenia, o którym mowa w art. 16 ust. 1, mogą być podwyższane przez podmioty gospodarcze, które nie mają prawa do zwolnienia od podatku dochodowego, o którym mowa w ust. 1 lub 2.
 
-1. Minister właściwy do spraw gospodarki może, w drodze rozporządzenia, powierzyć zarządzającemu:
+### 5.
 
-- **1)** (uchylony)
-- **2)** wykonywanie, w jego imieniu, kontroli realizacji warunków zezwolenia – uwzględniając potrzebę zapewnienia właściwego funkcjonowania strefy.
+Rada Ministrów w rozporządzeniu, o którym mowa w art. 4 ust. 1, ustala:
 
-1a. (uchylony)
+### 1)
 
-2. W przypadku powierzenia zarządzającemu wykonania bieżącej kontroli, o której mowa w ust. 1 pkt 2, jest on upoważniony do dokonywania czynności kontrolnych przewidzianych dla organu koncesyjnego w przepisach o koncesjonowaniu działalności gospodarczej w zakresie ustalonym w rozporządzeniu, o którym mowa w ust. 1.
+przedmiot działalności gospodarczej, której prowadzenie uprawnia do zwolnień od podatku dochodowego, o których mowa w ust. 1 i 2, wysokość tych zwolnień, czas ich obowiązywania oraz warunki, od których spełnienia przez podmiot gospodarczy uzależnione jest prawo do tych zwolnień,
 
-3. Zarządzający niezwłocznie zawiadamia ministra właściwego do spraw gospodarki o powstaniu okoliczności, o których mowa w art. 19 ust. 3, i może występować do ministra właściwego do spraw gospodarki z wnioskiem o cofnięcie zezwolenia, ograniczenie jego zakresu lub przedmiotu działalności określonego w zezwoleniu.
+### 2)
 
-4. Minister właściwy do spraw gospodarki jest upoważniony do kontroli zarządzającego w zakresie realizacji zadań powierzonych na podstawie rozporządzenia, o którym mowa w ust. 1, oraz zadań, o których mowa w art. 8, na zasadach określonych w rozdziale 4 ustawy z dnia 10 maja 2018 r. o wspieraniu nowych inwestycji.
+przedmiot działalności gospodarczej, której prowadzenie uprawnia do preferencji w zakresie podatku dochodowego, o których mowa w ust. 3 i 4, czas ich obowiązywania oraz wysokość współczynników mających zastosowanie do podwyższenia stawek amortyzacji, o którym mowa w ust. 4, a także może ustalić warunki, od których spełnienia przez podmiot gospodarczy uzależnione jest prawo do tych preferencji.
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących. Przepisy przejściowe i końcowe
+### 6.
 
-**Art. 24.**
+Warunki, o których mowa w ust. 5 pkt 1 i 2, mogą dotyczyć w szczególności:
 
-1. Z dniem wejścia w życie przepisów, o których mowa w art. 4 ust. 1, minister właściwy do spraw Skarbu Państwa przejmuje czynności i uprawnienia w stosunku do spółki ustanowionej zarządzającym, wykonywane przed tym dniem w imieniu Skarbu Państwa przez inny organ administracji rządowej, z tym że o udostępnieniu akcji lub udziałów należących do Skarbu Państwa takiej spółki, powstałej z przekształcenia przedsiębiorstwa państwowego na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych (Dz. U. poz. 298, z późn. zm. ) , postanawia minister właściwy do spraw Skarbu Państwa, po zasięgnięciu opinii ministra właściwego do spraw gospodarki.
+### 1)
 
-2. Do powstałej na podstawie ustawy o prywatyzacji przedsiębiorstw państwowych spółki będącej zarządzającym nie stosuje się art. 17, art. 19 ust. 1 zdanie drugie, art. 23 ust. 1–3, art. 24, 28 i 29 ustawy o prywatyzacji przedsiębiorstw państwowych .
+zatrudnienia przy prowadzeniu działalności gospodarczej na terenie strefy określonej minimalnej liczby pracowników i utrzymania co najmniej takiego poziomu zatrudnienia przez określony czas,
 
-3. Organ administracji rządowej właściwy w sprawach gospodarki gruntami w odniesieniu do gruntów stanowiących własność Skarbu Państwa lub wójt (burmistrz, prezydent miasta) w odniesieniu do gruntów stanowiących własność gminy może wnieść do spółki będącej zarządzającym prawo własności gruntów, których użytkownikiem wieczystym jest ta spółka, lub gruntów, które pozostawały w użytkowaniu wieczystym przedsiębiorstwa państwowego likwidowanego w celu wniesienia przedsiębiorstwa lub zorganizowanej części mienia przedsiębiorstwa do spółki. Wniesienie prawa własności gruntów, które pozostawały w użytkowaniu wieczystym likwidowanego przedsiębiorstwa państwowego, następuje w porozumieniu z organem założycielskim przedsiębiorstwa. W przypadkach określonych w niniejszym ustępie prawo użytkowania wieczystego wygasa z chwilą wniesienia prawa własności gruntu do spółki będącej zarządzającym.
+### 2)
 
-**Art. 25.**
+dokonania przez podmiot gospodarczy trwałej inwestycji o charakterze produkcyjnym na terenie strefy o wartości przewyższającej określoną kwotę,
 
-1. Zarządzający jest zwolniony od opłaty skarbowej z tytułu nabycia lub zbycia praw do nieruchomości położonych na terenie strefy.
+### 3)
 
-2. (uchylony)
+osiągnięcia przez podmiot gospodarczy określonej minimalnej wielkości przychodów ze sprzedaży wyrobów wytworzonych lub usług świadczonych na terenie strefy i utrzymania co najmniej takiej wielkości przez określony czas,
 
-**Art. 26.** Rada Ministrów przedstawia Sejmowi informację o realizacji ustawy, wraz ze sprawozdaniem z wykonania budżetu.
+### 4)
 
-**Art. 27.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem przepisu art. 15, który wchodzi w życie z dniem 1 stycznia 1995 r.
+osiągnięcia przez podmiot gospodarczy określonej minimalnej wielkości przychodów z eksportu wyrobów wytworzonych na terenie strefy lub usług świadczonych na eksport i utrzymania co najmniej takiej wielkości przez określony czas.
 
+### 7.
+
+Przedmiot działalności gospodarczej, której prowadzenie uprawnia do zwolnień od podatku, o których mowa w ust. 1 i 2, lub preferencji podatkowych, o których mowa w ust. 3 i 4, nie może obejmować wydobywania kopalin.
+
+### Art. 13.
+
+Zwolnienia i preferencje ustalone przez Radę Ministrów na zasadach określonych w art. 12 nie mogą być pogorszone, z zastrzeżeniem art. 19, w okresie, na który ustanowiono strefę.
+
+### Art. 14.
+
+Podmioty gospodarcze uprawnione do zwolnienia od podatku, o którym mowa w art. 12 ust. 1 lub 2, albo do preferencji podatkowych, o których mowa w art. 12 ust. 3 i 4, składają deklaracje o wysokości dochodu osiągniętego od początku roku oraz zeznania o wysokości dochodu w roku podatkowym, określone przepisami o podatku dochodowym od osób prawnych lub o podatku dochodowym od osób fizycznych, wykazujące oddzielnie, według odrębnie ustalonego wzoru, wysokość dochodu uzyskanego z działalności gospodarczej prowadzonej na terenie strefy.
+
+### Art. 15.
+
+### 1.
+
+Na wniosek zarządzającego kierownik rejonowego urzędu rządowej administracji ogólnej właściwego ze względu na położenie strefy może, za zgodą wojewody, powierzyć zarządzającemu prowadzenie, w tym wydawanie decyzji administracyjnych w pierwszej instancji, następujących spraw z zakresu prawa budowlanego dotyczących terenu strefy: wydawanie decyzji o pozwoleniu na budowę, przenoszenie pozwolenia na budowę na inną osobę, orzekanie o utracie ważności pozwolenia na budowę, przyjmowanie zawiadomień o zakończeniu budowy, wydawanie pozwoleń na użytkowanie obiektu budowlanego, udzielanie pozwolenia na zmianę sposobu użytkowania obiektu budowlanego lub jego części, nakazanie przeprowadzenia kontroli obiektu budowlanego i żądanie przedstawienia ekspertyzy stanu technicznego obiektu budowlanego.
+
+### 2.
+
+Na wniosek zarządzającego rada gminy właściwej ze względu na położenie strefy może upoważnić zarządzającego do wydawania decyzji w sprawach ustalenia warunków zabudowy i zagospodarowania terenu dotyczących terenów położonych w strefie.
+
+### Rozdział 4 Zezwolenie na prowadzenie działalności gospodarczej na terenie strefy
+
+### Art. 16.
+
+### 1.
+
+Prowadzenie działalności gospodarczej na terenie strefy, z zastrzeżeniem ust. 2, wymaga zezwolenia, zwanego dalej „zezwoleniem”.
+
+### 2.
+
+Rozporządzenie, o którym mowa w art. 4 ust. 1, może określać przedmiot lub zakres działalności gospodarczej, której prowadzenie na terenie strefy nie wymaga zezwolenia.
+
+### 3.
+
+Jeżeli podjęcie działalności gospodarczej, z mocy odrębnych przepisów, wymaga koncesji lub innego zezwolenia, zezwolenia, o którym mowa w ust. 1, udziela się po uzyskaniu przez podmiot gospodarczy koncesji lub innego zezwolenia.
+
+### 4.
+
+Minister Przemysłu i Handlu udziela, cofa i zmienia zezwolenie. Cofnięcie i zmiana zezwolenia następuje na warunkach określonych w art. 19.
+
+### 5.
+
+Do postępowania w sprawie udzielania, cofania i zmiany zezwolenia stosuje się odpowiednio przepisy dotyczące koncesjonowania działalności gospodarczej, ze zmianami wynikającymi z niniejszej ustawy.
+
+### 6.
+
+Minister Przemysłu i Handlu zasięga opinii zarządzającego przed wydaniem decyzji w sprawie udzielenia, odmowy udzielenia, cofnięcia lub zmiany zezwolenia.
+
+### 7.
+
+Zezwolenie może być udzielone, jeżeli:
+
+### 1)
+
+przedmiot działalności gospodarczej, która ma być prowadzona na terenie strefy przez podmiot gospodarczy ubiegający się o zezwolenie, jest zgodny z przedmiotem działalności gospodarczej, która może być prowadzona na terenie strefy, określonym w rozporządzeniu w sprawie ustanowienia strefy,
+
+### 2)
+
+na terenie strefy istnieją warunki do prowadzenia działalności, którą zamierza podjąć podmiot gospodarczy ubiegający się o zezwolenie, w szczególności zakres zamierzonej działalności jest zgodny z planem rozwoju strefy, o którym mowa w art. 9, i zarządzający strefą dysponuje wolnymi terenami, obiektami lub pomieszczeniami, które są niezbędne do prowadzenia działalności przez podmiot ubiegający się o zezwolenie,
+
+### 3)
+
+podjęcie działalności na terenie strefy jest uzasadnione stopniem przyczynienia się zamierzonej działalności do osiągnięcia celów określonych w planie rozwoju strefy, o którym mowa w art. 9.
+
+### 8.
+
+Zezwolenie określa przedmiot oraz warunki działalności gospodarczej, która ma być prowadzona przez podmiot gospodarczy na terenie strefy, i termin, w ciągu którego podmiot gospodarczy jest zobowiązany do rozpoczęcia na terenie strefy działalności określonej w zezwoleniu.
+
+### 9.
+
+Zezwolenia udziela się na czas oznaczony.
+
+### 10.
+
+Zezwolenie stanowi podstawę do korzystania przez podmiot gospodarczy ze zwolnień od podatku lub preferencji podatkowych określonych w przepisach wydanych na podstawie art. 12 ust. 5.
+
+### Art. 17.
+
+### 1.
+
+Ustalenie podmiotów gospodarczych, które uzyskają zezwolenie, następuje w drodze przetargu lub rokowań podjętych na podstawie publicznego zaproszenia. Sposób przeprowadzenia, zasady i warunki przetargu lub rokowań, a także kryteria oceny zamierzeń co do przedsięwzięć gospodarczych, które mają być podjęte przez podmioty gospodarcze na terenie strefy, ustala Minister Przemysłu i Handlu w drodze zarządzenia, odrębnie w odniesieniu do każdej strefy. Warunki i kryteria oceny uwzględniają w szczególności stopień, w jakim wielkość, przedmiot i charakter ekonomiczny planowanych przez podmiot gospodarczy przedsięwzięć gospodarczych na terenie strefy i warunków ich realizacji przyczyni się do osiągnięcia celów ustanowienia strefy określonych w planie rozwoju strefy.
+
+### 2.
+
+W przypadku uzasadnionym ważnym interesem gospodarki lub charakterem działalności gospodarczej na terenie strefy, Minister Przemysłu i Handlu może odstąpić od przeprowadzenia przetargu i rokowań. W przypadku odstąpienia od przeprowadzenia przetargu i rokowań nie stosuje się przepisu art. 20 ust. 1 w części dotyczącej powierzenia zarządzającemu udzielania zezwoleń.
+
+### 3.
+
+Do przystąpienia do przetargu lub rokowań, o których mowa w ust. 1, nie jest wymagane uprzednie uzyskanie koncesji lub innego zezwolenia, o którym mowa w art. 16 ust. 3. Podmiot gospodarczy przystępujący do przetargu lub rokowań przedstawia promesę koncesji lub zezwolenia.
+
+### Art. 18.
+
+Minister Przemysłu i Handlu wykonuje kontrolę działalności gospodarczej podmiotu, który uzyskał zezwolenie, w zakresie i na zasadach określonych w przepisach o koncesjonowaniu działalności gospodarczej. Ustawa nie narusza określonych przepisami uprawnień właściwych organów państwa do kontroli działalności podmiotów gospodarczych.
+
+### Art. 19.
+
+### 1.
+
+Zezwolenie wygasa, jeżeli podmiot gospodarczy, w terminie określonym w zezwoleniu, nie podjął na terenie strefy działalności gospodarczej określonej w zezwoleniu.
+
+### 2.
+
+Zezwolenie może być cofnięte albo jego zakres lub przedmiot działalności określony w zezwoleniu może zostać ograniczony, jeżeli podmiot gospodarczy:
+
+### 1)
+
+zaprzestał prowadzenia działalności gospodarczej na obszarze strefy lub
+
+### 2)
+
+naruszył przepisy prawa dewizowego, przepisy prawa celnego albo przepisy dotyczące zobowiązań podatkowych, lub
+
+### 3)
+
+utracił, na skutek cofnięcia albo zmiany, koncesję lub inne zezwolenie wymagane z mocy odrębnych przepisów do podjęcia działalności gospodarczej, która jest prowadzona na terenie strefy, lub
+
+### 4)
+
+rażąco uchybił warunkom określonym w zezwoleniu, lub
+
+### 5)
+
+nie usunął uchybień stwierdzonych w toku kontroli, o której mowa w art. 18, w terminie wyznaczonym w wezwaniu Ministra Przemysłu i Handlu do ich usunięcia.
+
+### 3.
+
+W razie cofnięcia zezwolenia podmiot gospodarczy traci prawo do zwolnień i preferencji, o których mowa w art. 12 ust. 1-4, i jest zobowiązany do zapłaty, odpowiednio, podatku dochodowego od osób prawnych lub podatku dochodowego od osób fizycznych objętego takimi zwolnieniami i preferencjami za okres od powstania okoliczności będącej podstawą cofnięcia zezwolenia.
+
+### Art. 20.
+
+### 1.
+
+Minister Przemysłu i Handlu może, w drodze zarządzenia, powierzyć zarządzającemu udzielanie, w jego imieniu, zezwoleń na prowadzenie działalności gospodarczej na terenie strefy oraz wykonywanie bieżącej kontroli działalności podmiotów gospodarczych, a także ustalić zakres tej kontroli.
+
+### 2.
+
+W przypadku powierzenia zarządzającemu wykonania bieżącej kontroli, o której mowa w ust. 1, jest on upoważniony do dokonywania czynności kontrolnych przewidzianych dla organu koncesyjnego w przepisach o koncesjonowaniu działalności gospodarczej w zakresie ustalonym w zarządzeniu, o którym mowa w ust. 1.
+
+### 3.
+
+Zarządzający niezwłocznie zawiadamia Ministra Przemysłu i Handlu o powstaniu okoliczności, o których mowa w art. 19 ust. 2, i może występować do Ministra Przemysłu i Handlu z wnioskiem o cofnięcie zezwolenia, ograniczenie jego zakresu lub przedmiotu działalności określonego w zezwoleniu.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących przepisy przejściowe i końcowe
+
+### Art. 21.
+
+W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców ([Dz. U. z 1933 r. Nr 24, poz. 202](https://api.sejm.gov.pl/eli/acts/DU/1933/202/text.html), z [1988 r. Nr 41, poz. 325](https://api.sejm.gov.pl/eli/acts/DU/1988/325/text.html) i z [1990 r. Nr 79, poz. 466](https://api.sejm.gov.pl/eli/acts/DU/1990/466/text.html)) dodaje się art. 3a w brzmieniu:
+
+„
+
+### Art. 3a.
+
+Decyzję w sprawie zezwolenia na nabycie nieruchomości położonej na terenie specjalnej strefy ekonomicznej, ustanowionej na podstawie odrębnych przepisów, wydaje się w terminie miesiąca od dnia złożenia wniosku przez stronę.
+
+”
+
+### Art. 22.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. Nr 12, poz. 114](https://api.sejm.gov.pl/eli/acts/DU/1971/114/text.html), z [1981 r. Nr 24, poz. 124](https://api.sejm.gov.pl/eli/acts/DU/1981/124/text.html), z [1982 r. Nr 16, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.html), z [1983 r. Nr 6, poz. 35](https://api.sejm.gov.pl/eli/acts/DU/1983/35/text.html) i [Nr 44, poz. 203](https://api.sejm.gov.pl/eli/acts/DU/1983/203/text.html), z [1984 r. Nr 54, poz. 275](https://api.sejm.gov.pl/eli/acts/DU/1984/275/text.html), z [1985 r. Nr 14, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.html) i [Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html), z [1986 r. Nr 39, poz. 193](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.html), z [1988 r. Nr 20, poz. 135](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.html) i [Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1990 r. Nr 51, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/1990/297/text.html), [Nr 72, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.html) i [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html), z [1991 r. Nr 75, poz. 332](https://api.sejm.gov.pl/eli/acts/DU/1991/332/text.html) i [Nr 91, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/1991/408/text.html) oraz z [1992 r. Nr 24, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1992/101/text.html)) po art. 601 dodaje się art. 602 w brzmieniu:
+
+„
+
+### Art. 602.
+
+Kto prowadzi działalność gospodarczą na terenie specjalnej strefy ekonomicznej bez wymaganego zezwolenia, podlega karze ograniczenia wolności albo grzywny.
+
+”
+
+### Art. 23.
+
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. Nr 9, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1991/31/text.html), [Nr 101, poz. 444](https://api.sejm.gov.pl/eli/acts/DU/1991/444/text.html) i z [1992 r. Nr 21, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1992/86/text.html)) w art. 7 w ust. 1 dodaje się pkt 12 w brzmieniu:
+
+„
+
+### 12)
+
+grunty, budowle i budynki położone na terenie specjalnej strefy ekonomicznej, których właścicielem lub użytkownikiem wieczystym jest zarządzający strefą lub które służą do prowadzenia, na podstawie zezwolenia, działalności gospodarczej na terenie strefy.
+
+”
+
+### Art. 24.
+
+### 1.
+
+Z dniem wejścia w życie rozporządzenia, o którym mowa w art. 4 ust. 1, Minister Przemysłu i Handlu przejmuje czynności i uprawnienia w stosunku do spółki ustanowionej zarządzającym, wykonywane przed tym dniem w imieniu Skarbu Państwa przez inny organ administracji państwowej, z tym że o udostępnieniu akcji lub udziałów należących do Skarbu Państwa takiej spółki powstałej z przekształcenia przedsiębiorstwa państwowego na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych ([Dz. U. Nr 51, poz. 298](https://api.sejm.gov.pl/eli/acts/DU/1990/298/text.html) i [Nr 85, poz. 498](https://api.sejm.gov.pl/eli/acts/DU/1990/498/text.html) oraz z [1991 r. Nr 60, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1991/253/text.html) i [Nr 111, poz. 480](https://api.sejm.gov.pl/eli/acts/DU/1991/480/text.html)) postanawia Minister Przekształceń Własnościowych na wniosek Ministra Przemysłu i Handlu.
+
+### 2.
+
+Do powstałej na podstawie ustawy o prywatyzacji przedsiębiorstw państwowych spółki będącej zarządzającym nie stosuje się art. 17, art. 19 ust. 1 zdanie drugie, art. 23 ust. 1-3, art. 24, 28 i 29 ustawy o prywatyzacji przedsiębiorstw państwowych.
+
+### 3.
+
+Organ administracji rządowej właściwy w sprawach gospodarki gruntami w odniesieniu do gruntów stanowiących własność Skarbu Państwa lub zarząd gminy w odniesieniu do gruntów stanowiących własność gminy może wnieść do spółki będącej zarządzającym prawo własności gruntów, których użytkownikiem wieczystym jest ta spółka, lub gruntów, które pozostawały w użytkowaniu wieczystym przedsiębiorstwa państwowego likwidowanego w celu wniesienia przedsiębiorstwa lub zorganizowanej części mienia przedsiębiorstwa do spółki. Wniesienie prawa własności gruntów, które pozostawały w użytkowaniu wieczystym likwidowanego przedsiębiorstwa państwowego, następuje w porozumieniu z organem założycielskim przedsiębiorstwa. W przypadkach określonych w niniejszym ustępie prawo użytkowania wieczystego wygasa z chwilą wniesienia prawa własności gruntu do spółki będącej zarządzającym. Minister Przemysłu i Handlu reprezentuje Skarb Państwa w spółce będącej zarządzającym w zakresie praw z akcji (udziałów) objętych przez Skarb Państwa w zamian za prawo własności gruntu wniesione w sposób określony w niniejszym ustępie.
+
+### Art. 25.
+
+### 1.
+
+Zarządzający jest zwolniony od opłaty skarbowej oraz opłat sądowych z tytułu nabycia lub zbycia praw do nieruchomości położonych na terenie strefy.
+
+### 2.
+
+Rada Ministrów w rozporządzeniu, o którym mowa w art. 4 ust. 1, może zwolnić od podatku dochodowego od osób prawnych dochody zarządzającego w części wydatkowanej w roku podatkowym lub roku po nim następującym na cele rozwoju strefy, w tym na nabycie przez zarządzającego nieruchomości lub innych rzeczy służących do prowadzenia działalności gospodarczej na terenie strefy oraz modernizację i rozbudowę infrastruktury gospodarczej i technicznej na terenie strefy.
+
+### Art. 26.
+
+Rada Ministrów przedstawia Sejmowi informację o realizacji ustawy, wraz ze sprawozdaniem z wykonania budżetu.
+
+### Art. 27.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem przepisu art. 15, który wchodzi w życie z dniem 1 stycznia 1995 r.

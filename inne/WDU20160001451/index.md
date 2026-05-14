@@ -1,0 +1,40 @@
+---
+title: "Rozporządzenie Rady Ministrów z dnia 31 sierpnia 2016 r. w sprawie reorganizacji \"Poltegor-Instytut\" Instytutu Górnictwa Odkrywkowego"
+address: WDU20160001451
+eli: DU/2016/1451
+publisher: DU
+year: 2016
+pos: 1451
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 31 sierpnia 2016 r. w sprawie reorganizacji „Poltegor-Instytut” Instytutu Górnictwa Odkrywkowego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1451 |
+| ISAP | WDU20160001451 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-08-31 |
+| Data wydania | 2016-09-13 |
+| Wejście w życie | 2016-09-14 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/1451/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/1451) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 7 ust. 3 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2016 r. poz. 371](https://api.sejm.gov.pl/eli/acts/DU/2016/371/text.html), [1079](https://api.sejm.gov.pl/eli/acts/DU/2016/1079/text.html) i [1311](https://api.sejm.gov.pl/eli/acts/DU/2016/1311/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Nadzór nad „Poltegor-Instytut” Instytutem Górnictwa Odkrywkowego z siedzibą we Wrocławiu, numer identyfikacyjny REGON 006333984, NIP 896-000-55-32[1) „Poltegor-Instytut” Instytut Górnictwa Odkrywkowego został utworzony zarządzeniem nr 453/Org/90 Ministra Przemysłu z dnia 18 grudnia 1990 r. w sprawie utworzenia jednostki badawczo-rozwojowej pod nazwą „Poltegor-Instytut” Instytut Górnictwa Odkrywkowego z siedzibą we Wrocławiu.](#gloss-0:1:), sprawuje minister właściwy do spraw gospodarki złożami kopalin.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) „Poltegor-Instytut” Instytut Górnictwa Odkrywkowego został utworzony zarządzeniem nr 453/Org/90 Ministra Przemysłu z dnia 18 grudnia 1990 r. w sprawie utworzenia jednostki badawczo-rozwojowej pod nazwą „Poltegor-Instytut” Instytut Górnictwa Odkrywkowego z siedzibą we Wrocławiu.

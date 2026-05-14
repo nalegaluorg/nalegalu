@@ -8,11 +8,9 @@ pos: 498
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Straży Granicznej oraz o zmianie niekt(cid:243)rych innych ustaw
-
-*USTAWA z dnia 11 kwietnia 2001 r.*
+# Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy o Straży Granicznej oraz o zmianie niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,279 +22,2754 @@ domain: null
 | Data ogłoszenia | 2001-04-11 |
 | Data wydania | 2001-05-15 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010450498) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/498/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/498/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/498) |
 
-**Art. 1.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. Nr 78, poz. 462, z 1991 r. Nr 94, poz. 422, z 1992 r. Nr 54, poz. 254, z 1993 r. Nr 12, poz. 52, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163 i Nr 104, poz. 515, z 1996 r. Nr 106, poz. 496 i Nr 124, poz. 583, z 1997 r. Nr 28, poz. 153, Nr 88, poz. 554 i Nr 121, poz. 770 oraz z 1999 r. Nr 110, poz. 1255) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 9g.**
+### Art. 1.
 
-1. Przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych w celu udokumentowania przestępstw, o kt(cid:243)rych mowa w art. 9e ust. 1, albo ustalenia tożsamości os(cid:243)b uczestniczących w tych przestępstwach lub przejęcia przedmiot(cid:243)w przestępstwa, Komendant Gł(cid:243)wny Straży Granicznej lub komendant oddziału Straży Granicznej może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. Nr 78, poz. 462](https://api.sejm.gov.pl/eli/acts/DU/1990/462/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1993 r. Nr 12, poz. 52](https://api.sejm.gov.pl/eli/acts/DU/1993/52/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html)i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html)i [Nr 124, poz. 583](https://api.sejm.gov.pl/eli/acts/DU/1996/583/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)oraz z [1999 r. Nr 110, poz. 1255](https://api.sejm.gov.pl/eli/acts/DU/1999/1255/text.html)) wprowadza się następujące zmiany:
 
-2. O zarządzeniu, o kt(cid:243)rym mowa w ust. 1, zawiadamia się niezwłocznie właściwego miejscowo, ze względu na siedzibę organu zawiadamiającego, prokuratora okręgowego, kt(cid:243)ry może nakazać zaniechanie czynności w każdym czasie.
+### 1)
 
-3. Organ Straży Granicznej, o kt(cid:243)rym mowa w ust. 1, bieżąco informuje prokuratora okręgowego, o kt(cid:243)rym mowa w ust. 2, o wynikach przeprowadzonych czynności.
+w art. 1:
 
-4. Przy wykonywaniu czynności, o kt(cid:243)rych mowa w ust. 1, mogą być stosowane środki techniczne umożliwiające uzyskiwanie i utrwalanie treści informacji, w tym obrazu lub dźwięku.
+### a)
 
-5. Stosownie do zarządzenia, o kt(cid:243)rym mowa w ust. 1, organy i instytucje publiczne oraz przedsiębiorcy są obowiązani dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub w części.
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
 
-6. W przypadku uzyskania dowod(cid:243)w pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Gł(cid:243)wny Straży Granicznej lub komendant oddziału Straży Granicznej, za zgodą Komendanta Gł(cid:243)wnego Straży Granicznej, przekazuje prokuratorowi okręgowemu wszystkie materiały zgromadzone podczas stosowania czynności, o kt(cid:243)rych mowa w ust. 1, w razie potrzeby z wnioskiem o wszczęcie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiał(cid:243)w, stosuje się przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+„
 
-7. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, spos(cid:243)b przeprowadzania i dokumentowania czynności, o kt(cid:243)rych mowa w ust. 1, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiał(cid:243)w oraz wzory stosowanych druk(cid:243)w i rejestr(cid:243)w.(cid:148);
+### 1a.
 
-- **19)** po art. 10 dodaje się art. 10a i 10b w brzmieniu: (cid:132)Art. 10a. 1. Straż Graniczna, w zakresie swojej właściwości, z zachowaniem ograniczeń wynikających z art. 9e, może uzyskiwać informacje, w tym także niejawnie, gromadzić je, sprawdzać oraz przetwarzać.
+Nazwa «Straż Graniczna», jej skrót «SG» oraz znak graficzny Straży Granicznej przysługują wyłącznie formacji, o której mowa w ust. 1.
 
-2. Straż Graniczna może pobierać, gromadzić i wykorzystywać w celach wykrywczych i identyfikacyjnych odciski linii papilarnych, zdjęcia oraz dane osobowe, w tym ujawniające pochodzenie etniczne, przynależność wyznaniową oraz dane o stanie zdrowia, os(cid:243)b podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego, a także os(cid:243)b o nieustalonej tożsamości lub usiłujących ukryć swą tożsamość, bez zgody i wiedzy osoby, kt(cid:243)rej dane dotyczą.
+### 1b.
 
-3. Dane osobowe, o kt(cid:243)rych mowa w ust. 2, z wyłączeniem danych ujawniających pochodzenie etniczne lub przynależność wyznaniową, przechowuje się, z zastrzeżeniem ust. 4 i 5, przez okres niezbędny do wykonania ustawowych zadań przez Straż Graniczną. Organy Straży Granicznej dokonują weryfikacji tych danych nie rzadziej niż co 10 lat od dnia uzyskania informacji.
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór znaku graficznego Straży Granicznej, uwzględniając w nim wizerunek orła białego ustalony dla godła państwowego oraz ustalając kolorystykę tego znaku.
 
-4. Do przechowywania danych osobowych ujawniających pochodzenie etniczne lub przynależność wyznaniową os(cid:243)b skazanych za popełnienie przestępstw ściganych z oskarżenia publicznego, nie stosuje się ograniczeń, o kt(cid:243)rych mowa w ust. 3.
+” ,
 
-5. Dane osobowe ujawniające pochodzenie etniczne lub przynależność wyznaniową os(cid:243)b podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego, kt(cid:243)re nie zostały skazane za te przestępstwa, podlegają komisyjnemu i protokolarnemu zniszczeniu niezwłocznie po uprawomocnieniu się stosownego orzeczenia.
+### b)
 
-6. Straż Graniczna, w zakresie swojej właściwości, może uzyskiwać i przetwarzać informacje ze zbior(cid:243)w danych prowadzonych przez organy władzy publicznej, w tym dane osobowe. Administratorzy danych gromadzonych w tych rejestrach są obowiązani do ich nieodpłatnego udostępniania funkcjonariuszom posiadającym upoważnienia, o kt(cid:243)rych mowa w art. 9 ust. 1b.
+w ust. 2:
 
-7. Organy, o kt(cid:243)rych mowa w ust. 6, mogą wyrazić pisemną zgodę na udostępnianie danych zgromadzonych w zbiorach jednostkom organizacyjnym Straży Granicznej, za pomocą urządzeń telekomunikacyjnych, bez konieczności składania pisemnego wniosku, jeżeli jednostki te spełniają łącznie następujące warunki:
+- - pkt 4 otrzymuje brzmienie: „ 4) rozpoznawanie, zapobieganie i wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców, w zakresie właściwości Straży Granicznej, a w szczególności: a) przestępstw i wykroczeń dotyczących zgodności przekraczania granicy państwowej z przepisami, związanych z jej oznakowaniem oraz dotyczących wiarygodności dokumentów uprawniających do przekraczania granicy państwowej, b) przestępstw skarbowych i wykroczeń skarbowych wymienionych w art. 133 § 1 pkt 1 Kodeksu karnego skarbowego, c) przestępstw i wykroczeń pozostających w związku z przekraczaniem granicy państwowej lub przemieszczaniem przez granicę państwową towarów oraz przedmiotów określonych w przepisach o oznaczaniu wyrobów znakami skarbowymi akcyzy, o broni i amunicji, o materiałach wybuchowych, o ochronie dóbr kultury, o narodowym zasobie archiwalnym, o przeciwdziałaniu narkomanii oraz o ewidencji ludności i dowodach osobistych, d) przestępstw i wykroczeń określonych w ustawie z dnia 25 czerwca 1997 r. o cudzoziemcach (Dz. U. Nr 114, poz. 739, z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1126, z 2000 r. Nr 106, poz. 1118 oraz z 2001 r. Nr 42, poz. 475), ”
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał,
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania,
-- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
+- - pkt 5 otrzymuje brzmienie: „ 5) zapewnienie bezpieczeństwa w komunikacji międzynarodowej i porządku publicznego w zasięgu terytorialnym przejścia granicznego, a w zakresie właściwości Straży Granicznej - także w strefie nadgranicznej, ”
 
-**Art. 10b.**
+- - skreśla się pkt 8,
 
-1. Dane identyfikujące użytkownika sieci telekomunikacyjnej lub zakończenia sieci, między kt(cid:243)rymi wykonano połączenie, oraz dane dotyczące uzyskania lub pr(cid:243)by uzyskania połączenia między określonymi zakończeniami sieci, a także okoliczności i rodzaje wykonanego połączenia, mogą być ujawnione Straży Granicznej oraz przetwarzane przez Straż Graniczną wyłącznie w celu zapobiegania lub wykrywania przestępstw.
+### c)
 
-2. Ujawnienie danych, o kt(cid:243)rych mowa w ust. 1, następuje:
+po ust. 2 dodaje się ust. 2a w brzmieniu:
 
-- **1)** na pisemny wniosek Komendanta Gł(cid:243)wnego Straży Granicznej lub komendanta oddziału Straży Granicznej,
-- **2)** na ustne żądanie funkcjonariusza Straży Granicznej posiadającego upoważnienie organ(cid:243)w, o kt(cid:243)rych mowa w pkt 1,
-- **3)** automatycznie drogą elektroniczną funkcjonariuszom wykorzystującym systemy teleinformatyczne wspomagające przyjmowanie zgłoszeń alarmowych od obywateli.
+„
 
-3. Przedsiębiorcy prowadzący działalność w dziedzinie telekomunikacji w sieciach publicznych są obowiązani udostępnić na koszt własny dane, o kt(cid:243)rych mowa w ust. 1, funkcjonariuszom wskazanym we wniosku właściwego organu Straży Granicznej lub funkcjonariuszom, o kt(cid:243)rych mowa w ust. 2 pkt 2 i 3.
+### 2a.
 
-4. Ujawnienie Straży Granicznej danych, o kt(cid:243)rych mowa w ust. 1, może nastąpić za pomocą sieci telekomunikacyjnych, bez konieczności składania pisemnych wniosk(cid:243)w, jeżeli:
+Straż Graniczna może prowadzić postępowania w sprawach rozpoznawania, zapobiegania i wykrywania przestępstw określonych w art. 228, 229 i 231 Kodeksu karnego popełnionych przez funkcjonariuszy i pracowników Straży Granicznej w związku z wykonywaniem obowiązków służbowych.
 
-- **1)** sieci te są wyposażone w:
-    - **a)** urządzenia umożliwiające zachowanie informacji, kto, kiedy oraz jakie dane uzyskał,
-    - **b)** zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych przez osoby nieuprawnione, przy ich udostępnianiu za pomocą urządzeń teletransmisyjnych,
+” ;
 
-- **2)** jest to uzasadnione specyfiką lub zakresem wykonywanych przez jednostki organizacyjne Straży Granicznej zadań albo prowadzonych przez nie czynności.
+### 2)
 
-5. Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, kt(cid:243)re zawierają informacje mające znaczenie dla postępowania karnego, Straż Graniczna przekazuje właściwemu prokuratorowi.
+art. 2 otrzymuje brzmienie:
 
-6. Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, kt(cid:243)re nie zawierają informacji mających znaczenie dla postępowania karnego, podlegają niezwłocznemu komisyjnemu i protokolarnemu zniszczeniu.(cid:148);
+„
 
-- **20)** art. 11 otrzymuje brzmienie: (cid:132)Art. 11. 1. Funkcjonariusze, wykonując zadania, o kt(cid:243)rych mowa w art. 1 ust. 2, mają prawo:
-- **1)** dokonywania kontroli granicznej,
-- **2)** dokonywania kontroli osobistej, a także przeglądania zawartości bagaży, sprawdzania ładunk(cid:243)w w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej - w celu wykluczenia możliwości popełnienia przestępstw lub wykroczeń, zwłaszcza skierowanych przeciwko nienaruszalności granicy państwowej lub bezpieczeństwu w międzynarodowej komunikacji,
-- **3)** wydawania wiz i innych zezwoleń na przekroczenie granicy państwowej na podstawie odrębnych przepis(cid:243)w,
-- **4)** legitymowania lub ustalania w inny spos(cid:243)b tożsamości osoby,
-- **5)** zatrzymywania os(cid:243)b w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego i innych ustaw oraz doprowadzania ich do właściwego organu Straży Granicznej,
-- **6)** przeszukiwania os(cid:243)b, rzeczy, pomieszczeń i środk(cid:243)w transportu w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego i innych ustaw,
-- **7)** obserwowania i rejestrowania, przy użyciu środk(cid:243)w technicznych służących do rejestracji obrazu i dźwięku, zdarzeń na drogach oraz w innych miejscach publicznych,
-- **8)** zatrzymywania pojazd(cid:243)w i wykonywania innych czynności z zakresu kontroli ruchu drogowego w trybie i przypadkach określonych w ustawie z dnia 20 czerwca 1997 r. (cid:150) Prawo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779, Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216 oraz z 2000 r. Nr 12, poz. 136, Nr 43, poz. 483 i Nr 53, poz. 649) ,
-- **9)** zatrzymywania i cofania z granicy państwowej do nadawcy szkodliwych materiał(cid:243)w jądrowych i promieniotw(cid:243)rczych, środk(cid:243)w chemicznych i biologicznych, jak r(cid:243)wnież odpad(cid:243)w,
-- **10)** przebywania i poruszania się na gruntach bez uzyskiwania zgody ich właścicieli lub użytkownik(cid:243)w oraz przechodzenia przez pola uprawne w czasie bezpośredniego pościgu, r(cid:243)wnież z użyciem psa służbowego, jeżeli nie ma możliwości korzystania z dr(cid:243)g,
-- **11)** żądania niezbędnej pomocy od instytucji państwowych, organ(cid:243)w administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepis(cid:243)w prawa,
-- **12)** zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak r(cid:243)wnież zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepis(cid:243)w prawa.
+### Art. 2.
 
-2. Przy wykonywaniu czynności, o kt(cid:243)rych mowa w ust. 1 pkt 4-7, uprawnienia i obowiązki funkcjonariuszy Policji przysługują odpowiednio funkcjonariuszom Straży Granicznej.
+Organy administracji rządowej, jednostki samorządu terytorialnego oraz państwowe i inne jednostki organizacyjne są obowiązane współdziałać z organami Straży Granicznej oraz zapewnić im niezbędne warunki do wykonywania zadań określonych w ustawie.
 
-3. Osobę zatrzymaną należy niezwłocznie poddać - w razie uzasadnionej potrzeby - badaniu lekarskiemu lub udzielić jej pierwszej pomocy medycznej.
+” ;
 
-4. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, tryb przeprowadzania badań lekarskich, o kt(cid:243)rych mowa w ust. 3 Rozporządzenie powinno określić osoby przeprowadzające badania, organizację i miejsce przeprowadzenia badań oraz zakres prowadzonej w tych sprawach dokumentacji, a także przypadki uzasadniające potrzebę udzielenia osobie zatrzymanej pierwszej pomocy medycznej.
+### 3)
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla os(cid:243)b zatrzymanych oraz regulamin pobytu w tych pomieszczeniach. Rozporządzenie powinno określić wyposażenie pomieszczeń dla os(cid:243)b zatrzymanych, podmioty kontrolujące te pomieszczenia, zakres prowadzonej dokumentacji, a także szczeg(cid:243)łowe uprawnienia i obowiązki os(cid:243)b zatrzymanych.
+art. 3 otrzymuje brzmienie:
 
-6. W związku ze ściganiem sprawc(cid:243)w przestępstw i wykroczeń, kt(cid:243)rych zwalczanie należy do ustawowych zadań Straży Granicznej, funkcjonariusze Straży Granicznej mogą wykonywać uprawnienia określone w ust. 1 pkt 4-8 oraz pkt 10-12 także poza obszarem strefy nadgranicznej.
+„
 
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb dokonywania kontroli oraz wykonywania innych czynności, o kt(cid:243)rych mowa w ust. 1 pkt 1 i 2, uwzględniając formy kontroli granicznej, sposoby jej przeprowadzania i poświadczania w dokumentach uprawniających do przekraczania granicy państwowej, a także symbole i dane występujące w stemplach kontrolerskich oraz warunki użycia środk(cid:243)w technicznych i ps(cid:243)w służbowych podczas tej kontroli, przypadki w kt(cid:243)rych może być dokonana kontrola osobista i spos(cid:243)b jej przeprowadzania, a także spos(cid:243)b i warunki przeglądania zawartości bagaży oraz sprawdzania ładunk(cid:243)w, w tym przy użyciu środk(cid:243)w technicznych i ps(cid:243)w służbowych.
+### Art. 3.
 
-8. Za szkody wyrządzone czynnościami, o kt(cid:243)rych mowa w ust. 1 pkt 10, przysługuje odszkodowanie według zasad prawa cywilnego.
+### 1.
 
-9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, spos(cid:243)b doprowadzania os(cid:243)b, o kt(cid:243)rych mowa w ust. 1 pkt 5,uwzględniając podmioty uprawnione do zarządzenia doprowadzenia, wzory wymaganych dokument(cid:243)w, spos(cid:243)b dokonania doprowadzenia oraz niezbędne środki ostrożności, a także szczeg(cid:243)łowe warunki dokonywania doprowadzeń przy użyciu środk(cid:243)w transportu.(cid:148);
+Centralnym organem administracji rządowej właściwym w sprawach ochrony granicy państwowej i kontroli ruchu granicznego jest Komendant Główny Straży Granicznej, podległy ministrowi właściwemu do spraw wewnętrznych.
 
-- **21)** w art. 11a:
-    - **a)** w ust. 1 wyrazy (cid:132)celnych i dewizowych(cid:148) skreśla się,
-    - **b)** ust. 2 i 3 otrzymują brzmienie: (cid:132)2. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finans(cid:243)w publicznych, określi, w drodze rozporządzenia, spos(cid:243)b gospodarowania środkami, o kt(cid:243)rych mowa w ust. 1, oraz kryteria przyznawania nagr(cid:243)d wymienionych w ust. 1, uwzględniając tryb przekazania środk(cid:243)w finansowych, ich ewidencjonowania w Komendzie Gł(cid:243)wnej oraz spos(cid:243)b podziału i przeznaczania tych środk(cid:243)w.
+### 2.
 
-3. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finans(cid:243)w publicznych, określi, w drodze rozporządzenia, spos(cid:243)b podziału środk(cid:243)w wymienionych w ust. 1, w przypadku wsp(cid:243)lnego ujawnienia przestępstw przez funkcjonariuszy Straży Granicznej, funkcjonariuszy celnych lub Inspekcji Celnej, uwzględniając tryb podziału i przekazywania tych środk(cid:243)w, a także spos(cid:243)b ich ewidencjonowania.(cid:148);
+Komendanta Głównego Straży Granicznej powołuje i odwołuje Prezes Rady Ministrów na wniosek ministra właściwego do spraw wewnętrznych.
 
-- **22)** w art. 14:
-    - **a)** w ust. 2 pkt 6 otrzymuje brzmienie: (cid:132)6) wpływa na obszar strefy zamkniętej lub niebezpiecznej dla żeglugi lub ryboł(cid:243)wstwa,(cid:148),
-    - **b)** w ust. 3 wyrazy (cid:132)i 2(cid:148) skreśla się;
+### 3.
 
-- **23)** w art. 15:
-    - **a)** wyrazy (cid:132)na kt(cid:243)rych pokładzie zostało popełnione przestępstwo(cid:148) zastępuje się wyrazami (cid:132)gdy zachodzi uzasadnione podejrzenie popełnienia przestępstwa na ich pokładzie lub na skutek zawiadomienia o popełnieniu na nim przestępstwa,(cid:148),
-    - **b)** w pkt 2 po wyrazie (cid:132)narusza(cid:148) dodaje się wyrazy (cid:132)spok(cid:243)j lub(cid:148),
-    - **c)** w pkt 4 wyrazy (cid:132)albo urzędnik konsularny państwa, do kt(cid:243)rego należy statek, wzywa pomocy dow(cid:243)dcy jednostki pływającej Straży Granicznej(cid:148) zastępuje się wyrazami (cid:132)lub urzędnik konsularny państwa bandery statku zwr(cid:243)ci się do właściwych organ(cid:243)w polskich o pomoc(cid:148);
+Zastępców Komendanta Głównego Straży Granicznej powołuje i odwołuje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Straży Granicznej.
 
-- **24)** w art. 19:
-    - **a)** w ust. 1 wyrazy (cid:132)jednostkę pływającą, o kt(cid:243)rej mowa(cid:148) zastępuje się wyrazami (cid:132)urządzenie pływające, o kt(cid:243)rym mowa(cid:148);
-    - **b)** ust. 3 otrzymuje brzmienie: (cid:132)3. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, zasady wsp(cid:243)łdziałania Straży Granicznej z Wojskami Lotniczymi i Obrony Powietrznej oraz Marynarką Wojenną w zakresie ochrony granicy państwowej, uwzględniając zakres wsp(cid:243)łdziałania oraz podmioty uprawnione do jego organizacji i koordynacji.(cid:148);
+### 4.
 
-- **25)** po art. 19 dodaje się art. 19a w brzmieniu: (cid:132)Art. 19a. 1. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, wymagania dotyczące technicznego i pozatechnicznego bezpieczeństwa żeglugi jednostek pływających Straży Granicznej. Rozporządzenie powinno w szczeg(cid:243)lności określić wymagania w zakresie budowy stałych urządzeń i wyposażenia statk(cid:243)w oraz wyposażenia w środki ratunkowe.
+Komendant Główny Straży Granicznej jest przełożonym wszystkich funkcjonariuszy Straży Granicznej, zwanych dalej «funkcjonariuszami».
 
-2. Minister właściwy do spraw wewnętrznych może, w drodze zarządzenia, uznać za obowiązujące w stosunku do jednostek pływających Straży Granicznej przepisy techniczne z zakresu budowy i wyposażenia statk(cid:243)w wydane przez polską instytucję klasyfikacyjną.(cid:148);
+### 5.
 
-- **26)** w art. 22 skreśla się ust. 2 oraz oznaczenie ust. 1;
-- **27)** art. 27 i 28 skreśla się;
-- **28)** w art. 30 ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wz(cid:243)r flagi Straży Granicznej, okoliczności i warunki jej podnoszenia oraz spos(cid:243)b oznakowania jednostek pływających i statk(cid:243)w powietrznych, a także znaki rozpoznawcze używane przez statki powietrzne w nocy, uwzględniając spos(cid:243)b umieszczania bandery i flagi na jednostkach pływających oraz znak(cid:243)w, umożliwiający szybką identyfikację jednostek pływających i statk(cid:243)w powietrznych.(cid:148);
-- **29)** w art. 31 ust. 3 otrzymuje brzmienie: (cid:132)3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczeg(cid:243)łowy tryb prowadzenia postępowania kwalifikacyjnego w stosunku do os(cid:243)b ubiegających się o przyjęcie do służby w Straży Granicznej, w tym w stosunku do os(cid:243)b, o kt(cid:243)rych mowa w ust. 2. Rozporządzenie powinno określić etapy postępowania kwalifikacyjnego, rodzaje składanych przez kandydat(cid:243)w dokument(cid:243)w, w tym wz(cid:243)r kwestionariusza osobowego, a także cechy preferencyjne kandydat(cid:243)w niemających wykształcenia średniego, kt(cid:243)rych posiadanie jest szczeg(cid:243)lnie przydatne do pełnienia służby w Straży Granicznej.(cid:148);
-- **30)** w art. 32:
-    - **a)** w ust. 1 wyrazy (cid:132)Ministrowi Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)ministrowi właściwemu do spraw wewnętrznych(cid:148),
-    - **b)** dodaje się ust. 1a w brzmieniu: (cid:132)1a. Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi komisje lekarskie, o kt(cid:243)rych mowa w ust. 1, oraz określa ich organizację. Rozporządzenie powinno określić nazwy komisji, ich siedziby oraz strukturę organizacyjną.(cid:148),
-    - **c)** w ust. 2 wyrazy (cid:132) Minister Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw wewnętrznych(cid:148);
+W razie zwolnienia stanowiska Komendanta Głównego Straży Granicznej minister właściwy do spraw wewnętrznych do czasu powołania nowego komendanta powierza pełnienie obowiązków Komendanta Głównego Straży Granicznej, na okres nie dłuższy niż 3 miesiące, jednemu z jego zastępców.
 
-- **31)** w art. 33 ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, ceremoniał składania ślubowania, uwzględniając przebieg ceremoniału ślubowania, terminy składania ślubowania, osoby uprawnione do przyjmowania ślubowania oraz wz(cid:243)r aktu ślubowania.(cid:148);
-- **32)** w art. 34:
-    - **a)** w ust. 4 po wyrazach (cid:132)funkcjonariuszy - kobiet(cid:148) dodaje się wyrazy (cid:132)oraz poborowych(cid:148),
-    - **b)** ust. 5 skreśla się;
+### 6.
 
-- **33)** w art. 35:
-    - **a)** w ust. 3 po wyrazach (cid:132)Komendant Gł(cid:243)wny Straży Granicznej(cid:148) skreśla się przecinek i dodaje wyrazy (cid:132)z urzędu albo(cid:148),
-    - **b)** w ust. 4 wyrazy (cid:132)na wniosek komendanta oddziału Straży Granicznej(cid:148) zastępuje się wyrazami (cid:132)z urzędu albo na wniosek komendanta oddziału lub komendanta ośrodka szkolenia Straży Granicznej(cid:148);
+W razie czasowej niemożności sprawowania funkcji przez Komendanta Głównego Straży Granicznej minister właściwy do spraw wewnętrznych, do czasu ustania przeszkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, nie dłużej jednak niż na 6 miesięcy, powierza pełnienie obowiązków Komendanta Głównego Straży Granicznej jednemu z jego zastępców.
 
-- **34)** art. 37 i 38 otrzymują brzmienie: (cid:132)Art. 37. 1. Czas pełnienia służby funkcjonariusza jest określony wymiarem jego obowiązk(cid:243)w, z uwzględnieniem prawa do wypoczynku.
+” ;
 
-2. Czas pełnienia służby funkcjonariusza wynosi 40 godzin tygodniowo w przyjętym okresie rozliczeniowym, nieprzekraczającym 3 miesięcy.
+### 4)
 
-3. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi przysługuje czas wolny od służby w tym samym wymiarze.
+po art. 3 dodaje się art. 3a w brzmieniu:
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rozkład czasu służby, tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo, uwzględniając rodzaj i organizację służby, spos(cid:243)b pełnienia dyżur(cid:243)w domowych, właściwość przełożonych do określenia harmonogramu służby, okoliczności uzasadniające przedłużenie czasu służby ponad ustawowy wymiar, jak r(cid:243)wnież niezbędny czas na wypoczynek funkcjonariusza po służbie oraz spos(cid:243)b prowadzenia ewidencji czasu służby.
+„
 
-**Art. 38.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki w zakresie wykształcenia i kwalifikacji zawodowych oraz stażu służby, jakim powinien odpowiadać funkcjonariusz na określonym stanowisku służbowym, uwzględniając rodzaj służby i stanowisk, warunki uzyskania wykształcenia zawodowego, jak r(cid:243)wnież okresy zaliczane do stażu służby wskazujące na posiadanie odpowiedniego doświadczenia zawodowego.(cid:148);
+### Art. 3a.
 
-**Art. 117b.**
+Do zakresu działania Komendanta Głównego Straży Granicznej należy w szczególności:
 
-1. Funkcjonariuszowi, kt(cid:243)ry na podstawie odrębnych przepis(cid:243)w wykonuje stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej, przysługuje ryczałt na pokrycie koszt(cid:243)w wyżywienia i innych drobnych wydatk(cid:243)w. Stałe wykonywanie zadań służbowych poza terytorium Rzeczypospolitej Polskiej, w wymiarze czasu nieprzekraczającym 24 godziny, nie stanowi podr(cid:243)ży służbowej w rozumieniu przepis(cid:243)w, o kt(cid:243)rych mowa w art. 117a.
+### 1)
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, walutę, w jakiej będzie wypłacany ryczałt, spos(cid:243)b obliczania i wypłacania oraz wysokość ryczałtu, o kt(cid:243)rym mowa w ust. 1, uwzględniając przy obliczaniu wysokości ryczałtu liczbę godzin wykonywania zadań przez funkcjonariusza w ciągu doby.(cid:148);
+kierowanie prowadzonymi przez Straż Graniczną działaniami w zakresie ochrony granicy państwowej oraz kontroli ruchu granicznego,
 
-- **98)** w art. 118:
-    - **a)** w ust. 1: - w zdaniu wstępnym wyrazy (cid:132)art. 42 ust. 4 i(cid:148) skreśla się, a wyrazy (cid:132)3-7(cid:148) zastępuje się wyrazami (cid:132)3-8(cid:148), - w pkt 3 wyrazy (cid:132)Ministerstwa Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)właściwego organu Straży Granicznej(cid:148), - w pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje pkt 6 w brzmieniu: (cid:132)6) nagrody, o kt(cid:243)rych mowa w art. 11a ust. 1.(cid:148),
-    - **b)** ust. 2 otrzymuje brzmienie: (cid:132)2. Funkcjonariusz zwolniony ze służby na podstawie art. 45 ust. 1 pkt 3 otrzymuje 50% odprawy oraz ekwiwalent pieniężny za niewykorzystane przed zwolnieniem ze służby urlopy wypoczynkowe.(cid:148),
-    - **c)** w ust. 3 wyrazy (cid:132)Minister Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw wewnętrznych(cid:148),
-    - **d)** dodaje się ust. 4 w brzmieniu: (cid:132)4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, spos(cid:243)b obliczania i wypłacania ekwiwalentu pieniężnego za niewykorzystane przez funkcjonariuszy urlopy wypoczynkowe oraz podmioty właściwe w tych sprawach. Rozporządzenie powinno określić podstawę obliczania ekwiwalentu, wiążąc jego wysokość z liczbą dni niewykorzystanego urlopu oraz spos(cid:243)b jego wypłaty.(cid:148);
+### 2)
 
-- **99)** w art. 120 w ust. 1 wyrazy (cid:132)oraz świadczenia określone w art. 118 ust. 1 pkt 2-4(cid:148) zastępuje się wyrazami (cid:132)świadczenia określone w art. 118 ust. 1 pkt 2-4 oraz nagrody, o kt(cid:243)rych mowa w art. 11a ust. 1(cid:148);
-- **100)** w art. 121 w ust. 3 wyrazy (cid:132)orzeczenie o inwalidztwie stanowiące podstawę do ustalenia prawa do renty inwalidzkiej(cid:148) zastępuje się wyrazami (cid:132)orzeczenie o niezdolności do służby stanowiące podstawę do ustalenia prawa do renty(cid:148);
-- **101)** w art. 123:
-    - **a)** w ust. 2 i 3 wyrazy (cid:132)Ministerstwa Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)właściwego organu Straży Granicznej(cid:148),
-    - **b)** w ust. 2 wyrazy (cid:132)Minister Spraw Wewnętrznych(cid:148) zastępuje się wyrazami (cid:132)Komendant Gł(cid:243)wny Straży Granicznej(cid:148);
+analizowanie zagrożeń bezpieczeństwa granicy państwowej,
 
-- **102)** w art. 124 ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki pokrywania koszt(cid:243)w pogrzebu funkcjonariusza ze środk(cid:243)w właściwego organu Straży Granicznej oraz członk(cid:243)w rodziny, na kt(cid:243)rych przysługuje zasiłek pogrzebowy, uwzględniając rodzaje wydatk(cid:243)w pokrywanych w ramach koszt(cid:243)w pogrzebu, ich wysokość, przypadki oraz spos(cid:243)b ustalania, tryb wypłaty zasiłku pogrzebowego lub jego wyr(cid:243)wnania z tytułu śmierci członka rodziny oraz dokumenty wymagane do jego wypłaty.(cid:148);
-- **103)** w art. 125:
-    - **a)** w ust. 1 wyrazy (cid:132)bez przydziału służbowego(cid:148) zastępuje się wyrazami (cid:132)w dyspozycji(cid:148),
-    - **b)** ust. 2 otrzymuje brzmienie: (cid:132)2. Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, warunki ograniczenia w całości lub w części wypłaty niekt(cid:243)rych dodatk(cid:243)w do uposażenia w okresie choroby, urlopu okolicznościowego lub pozostawania w dyspozycji. Rozporządzenie powinno określić zakres ograniczenia wypłaty dodatk(cid:243)w, uwzględniając ich charakter, a także warunki przyznawania dodatk(cid:243)w w szczeg(cid:243)lnych okolicznościach oraz podmioty właściwe w tych sprawach.(cid:148);
+### 3)
 
-- **104)** art. 126 otrzymuje brzmienie: (cid:132)Art. 126. 1. Funkcjonariusz skierowany do szkoły lub na przeszkolenie albo na studia w kraju otrzymuje uposażenie oraz inne należności pieniężne.
+nadawanie regulaminów organizacyjnych komendom oddziałów Straży Granicznej oraz jednostkom organizacyjnym Komendy Głównej Straży Granicznej, a także nadawanie statutów ośrodkom szkolenia Straży Granicznej,
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość oraz warunki wypłaty uposażenia i innych należności pieniężnych, o kt(cid:243)rych mowa w ust. 1, uwzględniając przypadki uprawniające funkcjonariusza skierowanego do szkoły lub na przeszkolenie albo na studia w kraju do otrzymywania uposażenia oraz spos(cid:243)b obliczania zryczałtowanego r(cid:243)wnoważnika pieniężnego na pokrycie koszt(cid:243)w przejazdu, a także spos(cid:243)b rozliczania podr(cid:243)ży służbowych wynikających z odbywanej nauki.
+### 4)
 
-3. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finans(cid:243)w publicznych, określi, w drodze rozporządzenia, wysokość oraz warunki wypłaty uposażenia i innych należności pieniężnych funkcjonariuszowi skierowanemu do akademii lub innych szk(cid:243)ł (na kursy) za granicą, uwzględniając warunki otrzymywania przez funkcjonariusza skierowanego do akademii lub innych szk(cid:243)ł (na kursy) za granicą uposażenia, jego wysokość i spos(cid:243)b wypłacania.(cid:148);
+organizowanie i określanie zasad szkolenia zawodowego funkcjonariuszy oraz pracowników Straży Granicznej,
 
-- **105)** w art. 128 w ust. 2 po wyrazie (cid:132)uchylenia(cid:148) dodaje się wyrazy (cid:132)lub ustania z mocy prawa(cid:148), a wyraz (cid:132)wyrokiem(cid:148) zastępuje się wyrazem (cid:132)orzeczeniem(cid:148);
-- **106)** w art. 129 po ust. 2 dodaje się ust. 2a w brzmieniu: (cid:132)2a. Przepis ust. 2 stosuje się odpowiednio w razie uniewinnienia albo wymierzenia innej kary dyscyplinarnej niż kara wydalenia ze służby w wyniku wznowienia postępowania dyscyplinarnego, w kt(cid:243)rym kara taka została wymierzona.(cid:148);
-- **107)** w art. 131 ust. 4 otrzymuje brzmienie: (cid:132)4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, jednostki organizacyjne właściwe do dokonywania potrąceń z uposażenia oraz tryb postępowania w tych sprawach, uwzględniając przypadki dokonywania potrąceń z uposażenia, w tym potrąceń za zgodą funkcjonariusza i w trybie bezegzekucyjnym oraz spos(cid:243)b ich dokonywania.(cid:148);
-- **108)** art. 135 otrzymuje brzmienie: (cid:132)Art. 135.1. Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za naruszenie dyscypliny służbowej, nieprzestrzeganie zasad etyki zawodowej, a zwłaszcza honoru, godności i dobrego imienia służby oraz w innych przypadkach określonych w ustawie.
+### 5)
 
-2. Naruszeniem dyscypliny służbowej jest:
+sprawowanie nadzoru nad terenowymi organami Straży Granicznej oraz nad ośrodkami szkolenia Straży Granicznej,
 
-- **1)** niedopełnienie obowiązk(cid:243)w funkcjonariusza wynikających ze złożonego ślubowania, a także przepis(cid:243)w niniejszej ustawy i przepis(cid:243)w wydanych na jej podstawie,
-- **2)** odmowa wykonania lub niewykonanie rozkazu lub innego polecenia, z zastrzeżeniem przypadku określonego w art. 63 ust. 2,
-- **3)** zaniechanie czynności służbowej albo wykonanie jej w spos(cid:243)b niedbały lub nieprawidłowy,
-- **4)** niedopełnienie obowiązk(cid:243)w służbowych albo przekroczenie uprawnień określonych w przepisach prawa,
-- **5)** świadome wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie,
-- **6)** nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej,
-- **7)** porzucenie służby,
-- **8)** samowolne oddalenie się z rejonu zakwaterowania bądź nieusprawiedliwione opuszczenie lub niestawienie się do miejsca pełnienia służby,
-- **9)** wprowadzenie się w stan ograniczający zdolność wykonywania zadania służbowego albo uniemożliwiający jego wykonanie,
-- **10)** umyślne naruszenie d(cid:243)br osobistych innego funkcjonariusza w czasie pełnienia służby.
+### 6)
 
-3. Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, organ wnioskujący informuje się o wyniku tego postępowania.(cid:148);
+udział w przygotowaniu projektu budżetu państwa w zakresie dotyczącym Straży Granicznej, zgodnie z odrębnymi przepisami,
 
-- **109)** w art. 136:
-    - **a)** ust. 2 otrzymuje brzmienie: (cid:132)2. Prawomocne wymierzenie kary, o kt(cid:243)rej mowa w ust. 1 pkt 9, powoduje zakaz przyjęcia do Straży Granicznej przez okres 10 lat.(cid:148),
-    - **b)** ust. 3 otrzymuje brzmienie: (cid:132)3. W stosunku do funkcjonariuszy w służbie kandydackiej opr(cid:243)cz kar wymienionych w ust. 1 można ponadto orzec zakaz opuszczania miejsca zakwaterowania na okres nie dłuższy niż 15 dni.(cid:148),
-    - **c)** w ust. 4 po wyrazach (cid:132)obniżenia stopnia(cid:148) stawia się kropkę, a wyrazy (cid:132)a w sprawach o wykroczenia w ruchu drogowym (cid:150) z zakazem prowadzenia pojazd(cid:243)w mechanicznych i innych pojazd(cid:243)w(cid:148) skreśla się;
+### 7)
 
-- **110)** po art. 136 dodaje się art. 136a i 136b w brzmieniu: (cid:132)Art. 136a. 1. Obwiniony ma prawo korzystania z pomocy obrońcy.
+współdziałanie w zakresie realizowanych zadań z właściwymi organami państwowymi, jednostkami samorządu terytorialnego i organizacjami społecznymi,
 
-2. Obrońcą w postępowaniu dyscyplinarnym może być funkcjonariusz Straży Granicznej wskazany przez obwinionego. Obrońca jest uprawniony do reprezentowania obwinionego w granicach udzielonego na piśmie pełnomocnictwa.
+### 8)
 
-**Art. 136b.**
+prowadzenie współpracy międzynarodowej z organami i instytucjami właściwymi w sprawach ochrony granic państwowych.
 
-1. Wymierzanie kar dyscyplinarnych, z zastrzeżeniem art. 59 należy do:
+” ;
 
-- **1)** komendant(cid:243)w oddział(cid:243)w, komendant(cid:243)w ośrodk(cid:243)w szkolenia, Komendanta Granicznej Plac(cid:243)wki Kontrolnej WarszawaOkęcie oraz kierownik(cid:243)w jednostek organizacyjnych Komendy Gł(cid:243)wnej,
-- **2)** Komendanta Gł(cid:243)wnego Straży Granicznej.
+### 5)
 
-2. Wymierzenie kary, o kt(cid:243)rej mowa w art. 136 ust. 1 pkt 9, należy do wyłącznej właściwości Komendanta Gł(cid:243)wnego Straży Granicznej.
+skreśla się art. 4;
 
-3. Od orzeczenia dyscyplinarnego wydanego w pierwszej instancji przez podmioty, o kt(cid:243)rych mowa w ust. 1 pkt 1, odwołanie przysługuje do Komendanta Gł(cid:243)wnego Straży Granicznej.
+### 6)
 
-4. Od orzeczenia dyscyplinarnego wydanego w pierwszej instancji przez Komendanta Gł(cid:243)wnego Straży Granicznej odwołanie przysługuje do ministra właściwego do spraw wewnętrznych.
+art. 5 otrzymuje brzmienie:
 
-5. Na orzeczenie kończące postępowanie dyscyplinarne funkcjonariuszom przysługuje skarga do Naczelnego Sądu Administracyjnego.
+„
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przeprowadzania postępowania dyscyplinarnego, przesłanki wymierzania kar, ich wykonywanie, tryb odwoływania się od kar, a także właściwość przełożonych w sprawach dyscyplinarnych, uwzględniając zakres władzy dyscyplinarnej przełożonych, przypadki, w kt(cid:243)rych postępowania dyscyplinarnego nie wszczyna się, czas trwania postępowania dyscyplinarnego, prawa obwinionego, podstawy zawieszania postępowania oraz okoliczności jego wznawiania, rodzaje wydanych orzeczeń, a także dokumenty wymagane w tych sprawach.(cid:148);
+### Art. 5.
 
-- **111)** w art. 137:
-    - **a)** w ust. 1 wyrazy (cid:132)w art. 141(cid:148) zastępuje się wyrazami (cid:132)w art. 136b ust. 1(cid:148),
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: (cid:132)1a. Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o kt(cid:243)rym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.(cid:148),
-    - **c)** po ust. 2 dodaje się ust. 2a w brzmieniu: (cid:132)2a. Przepisu ust. 2 nie stosuje się przy wymierzaniu kary dyscyplinarnej w wyniku wznowienia postępowania dyscyplinarnego, pod warunkiem że kara ta nie jest wyższa od kary dyscyplinarnej wymierzonej w postępowaniu, kt(cid:243)re zostało wznowione.(cid:148),
-    - **d)** ust. 3 otrzymuje brzmienie: (cid:132)3. W przypadku, gdy czyn, o kt(cid:243)rym mowa w ust. 1, stanowi jednocześnie przestępstwo albo wykroczenie, przedawnienie karalności dyscyplinarnej następuje z upływem okresu przedawnienia karalności przestępstwa albo wykroczenia.(cid:148);
+### 1.
 
-- **112)** po art. 137 dodaje się art. 137a w brzmieniu: (cid:132)Art. 137a. 1. Zatarcie kary dyscyplinarnej polega na uznaniu kary za niebyłą, usunięciu z akt osobowych funkcjonariusza orzeczenia o ukaraniu oraz uczynieniu nieczytelnym zapisu o karalności.
+Terenowymi organami Straży Granicznej są:
 
-2. Kary dyscyplinarne ulegają zatarciu po upływie następujących okres(cid:243)w od dnia ich wykonania:
+### 1)
 
-- **1)** 6 miesięcy - kary, o kt(cid:243)rych mowa w art. 136 ust. 1 pkt 1 i ust. 3,
-- **2)** 12 miesięcy - kary, o kt(cid:243)rych mowa w art. 136 ust. 1 pkt 2-4,
-- **3)** 24 miesięcy - kary, o kt(cid:243)rych mowa w art. 136 ust. 1 pkt 5-7,
-- **4)** 36 miesięcy - kara, o kt(cid:243)rej mowa w art. 136 ust. 1 pkt 8.
+komendanci oddziałów Straży Granicznej,
 
-3. Kara dyscyplinarna, w przypadku wykazania przez funkcjonariusza odwagi lub szczeg(cid:243)lnych osiągnięć w wykonywaniu zadań służbowych może ulec zatarciu przed upływem okres(cid:243)w, o kt(cid:243)rych mowa w ust. 2. Okresy te mogą być skr(cid:243)cone nie więcej niż o jedną trzecią.
+### 2)
 
-4. Jeżeli funkcjonariusz zostanie ponownie ukarany przed zatarciem poprzednio wymierzonej kary dyscyplinarnej, okres wymagany do zatarcia tej kary liczy się od dnia wykonania nowej kary.
+komendanci strażnic, granicznych placówek kontrolnych i dywizjonów Straży Granicznej.
 
-5. W przypadku określonym w art. 136 ust. 4, zatarcie kar następuje z upływem terminu przewidzianego dla kary surowszej.(cid:148);
+### 2.
 
-- **113)** w art. 138 dodaje się ust. 6 w brzmieniu: (cid:132)6. Jeżeli postępowanie dyscyplinarne prowadzone przeciwko funkcjonariuszowi, za czyn będący wykroczeniem podlegającym rozpoznaniu w trybie przepis(cid:243)w Kodeksu postępowania w sprawach o wykroczenia, zostanie umorzone w związku ze zwolnieniem funkcjonariusza ze służby, właściwość do rozpoznania sprawy przechodzi na organ powołany do rozstrzygania w sprawach o wykroczenia.(cid:148);
-- **114)** skreśla się art. 141;
-- **115)** skreśla się art. 142;
-- **116)** art. 143 otrzymuje brzmienie: (cid:132)Art. 143. Komendant Gł(cid:243)wny Straży Granicznej określi, w drodze zarządzenia, po zasięgnięciu opinii związku zawodowego funkcjonariuszy Straży Granicznej, zasady etyki zawodowej funkcjonariuszy, uwzględniając w szczeg(cid:243)lności zasady określone w rozdziale 3.(cid:148);
-- **117)** skreśla się art. 146a;
-- **118)** po art. 147a dodaje się art. 147b w brzmieniu: (cid:132)Art. 147b. 1. Kto będąc obowiązany do złożenia oświadczenia, o kt(cid:243)rym mowa w art. 91a, podaje w nim nieprawdę, podlega karze pozbawienia wolności do lat 5.
+Komendanta oddziału Straży Granicznej powołuje i odwołuje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Straży Granicznej. Zastępców komendanta oddziału Straży Granicznej powołuje i odwołuje Komendant Główny Straży Granicznej na wniosek komendanta oddziału Straży Granicznej.
 
-2. W przypadku mniejszej wagi, sprawca czynu określonego w ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.(cid:148);
+### 3.
 
-- **119)** art. 153 otrzymuje brzmienie: (cid:132)Art. 153. 1. Poborowego skierowanego za jego zgodą do służby w Straży Granicznej mianuje się funkcjonariuszem w służbie kandydackiej na okres r(cid:243)wny okresowi zasadniczej służby wojskowej.
+W razie zwolnienia stanowiska komendanta oddziału Komendant Główny Straży Granicznej, do czasu powołania nowego komendanta, powierza pełnienie obowiązków komendanta oddziału, na okres nie dłuższy niż 3 miesiące, jednemu z jego zastępców lub wyznaczonemu funkcjonariuszowi Straży Granicznej.
 
-2. Funkcjonariusze w służbie kandydackiej mogą pełnić służbę graniczną, prowadzić działania graniczne i wykonywać czynności administracyjno-porządkowe. Funkcjonariusze ci pełnią służbę w systemie skoszarowanym.
+### 4.
 
-3. W przypadku wyrażenia zgody na pełnienie służby przygotowawczej w Straży Granicznej przez funkcjonariusza pełniącego służbę kandydacką, Komendant Gł(cid:243)wny Straży Granicznej na wniosek komendanta oddziału Straży Granicznej, może skr(cid:243)cić okres służby kandydackiej o jedną trzecią.
+W razie czasowej niemożności sprawowania funkcji przez komendanta oddziału Komendant Główny Straży Granicznej, do czasu ustania przeszkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, nie dłużej jednak niż na 6 miesięcy, powierza pełnienie obowiązków komendanta jednemu z jego zastępców lub wyznaczonemu funkcjonariuszowi Straży Granicznej.
 
-4. Okres służby kandydackiej zalicza się do okresu służby przygotowawczej, jeżeli przerwa pomiędzy służbą kandydacką a podjęciem służby przygotowawczej nie przekracza trzech miesięcy.
+### 5.
 
-5. Przepisy rozdział(cid:243)w 8, 10, 11, 13 i 14, dotyczące funkcjonariuszy w służbie przygotowawczej, stosuje się r(cid:243)wnież do funkcjonariuszy w służbie kandydackiej, z wyjątkiem przepis(cid:243)w art. 72, 77 ust. 6, art. 86, 87 ust. 4, art. 112 ust. 1, art. 117, 118, 119 ust. 4 i art. 124.
+Komendanta strażnicy, komendanta granicznej placówki kontrolnej i dywizjonu Straży Granicznej powołuje i odwołuje Komendant Główny Straży Granicznej na wniosek komendanta oddziału Straży Granicznej.
 
-6. Funkcjonariuszowi w służbie kandydackiej przysługuje w okresie tej służby prawo do płatnego urlopu wypoczynkowego w wymiarze łącznie 20 dni kalendarzowych.
+### 6.
 
-7. Funkcjonariuszowi w służbie kandydackiej przysługuje zwrot koszt(cid:243)w podr(cid:243)ży na trasie od stałego miejsca pełnienia służby do miejscowości stanowiącej cel podr(cid:243)ży i z powrotem.
+W razie zwolnienia stanowiska komendanta strażnicy, komendanta granicznej placówki kontrolnej lub komendanta dywizjonu, właściwy komendant oddziału, do czasu powołania nowego komendanta, powierza pełnienie obowiązków komendanta strażnicy, granicznej placówki kontrolnej lub dywizjonu, na okres nie dłuższy niż 3 miesiące, jednemu z jego zastępców lub wyznaczonemu funkcjonariuszowi Straży Granicznej.
 
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki zwrotu koszt(cid:243)w podr(cid:243)ży, o kt(cid:243)rych mowa w ust. 7. Rozporządzenie powinno określić rodzaje środk(cid:243)w transportu, kt(cid:243)rymi przejazd uprawnia do zwrotu koszt(cid:243)w podr(cid:243)ży, podstawę obliczania należności z tego tytułu oraz terminy ich wypłaty.
+### 7.
 
-9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, organizację służby w systemie skoszarowanym oraz sposoby jej pełnienia. Rozporządzenie powinno określić podmioty właściwe w sprawach organizacji służby w systemie skoszarowanym, dzienny tok służby oraz rodzaje przepustek przysługujących funkcjonariuszom.(cid:148).
+W razie czasowej niemożności sprawowania funkcji komendanta strażnicy, komendanta granicznej placówki kontrolnej lub komendanta dywizjonu, właściwy komendant oddziału, do czasu ustania przeszkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, nie dłużej jednak niż na 6 miesięcy, powierza pełnienie obowiązków komendanta strażnicy, granicznej placówki kontrolnej lub dywizjonu jednemu z jego zastępców lub wyznaczonemu funkcjonariuszowi Straży Granicznej.
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz.U. Nr 78, poz. 461, z 1997 r. Nr 6, poz. 31 i Nr 43, poz. 271 oraz z 2000 r. Nr 12, poz. 136 i Nr 120, poz. 1268) w art. 11 wprowadza się następujące zmiany:
+### 8.
 
-**Art. 3.** Do czasu wydania przepis(cid:243)w wykonawczych przewidzianych w ustawie, o kt(cid:243)rej mowa w art. 1, nie dłużej jednak niż przez 12 miesięcy, zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z niniejszą ustawą.
+Komendanci oddziałów, strażnic oraz granicznych placówek kontrolnych i dywizjonów Straży Granicznej są przełożonymi wszystkich podległych im funkcjonariuszy.
 
-**Art. 4.** Przepisy art. 81 ust. 2 pkt 2, art. 93 pkt 3 oraz art. 121 ust. 3 ustawy, o kt(cid:243)rej mowa w art. 1, stosuje się odpowiednio do os(cid:243)b, kt(cid:243)re uzyskały prawo do I lub II grupy inwalid(cid:243)w przed dniem wejścia w życie ustawy z dnia 28 czerwca 1996 r., o zmianie niekt(cid:243)rych ustaw o zaopatrzeniu emerytalnym i o ubezpieczeniu społecznym (Dz.U. Nr 100, poz. 461).
+” ;
 
-**Art. 5.** Przepisy ustawy, o kt(cid:243)rej mowa w art. 1, stosuje się do spraw dyscyplinarnych niezakończonych prawomocnymi orzeczeniami dyscyplinarnymi w dniu jej wejścia w życie.
+### 7)
 
-**Art. 6.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+po art. 5 dodaje się art. 5a w brzmieniu:
 
+„
+
+### Art. 5a.
+
+### 1.
+
+Komendant Główny Straży Granicznej wykonuje swoje zadania przy pomocy podległego mu urzędu - Komendy Głównej Straży Granicznej, zwanej dalej «Komendą Główną».
+
+### 2.
+
+Komendanci oddziałów, strażnic, granicznych placówek kontrolnych oraz dywizjonów wykonują swoje zadania przy pomocy podległych im urzędów - komend oddziałów, strażnic, granicznych placówek kontrolnych i dywizjonów.
+
+### 3.
+
+Zadania dyrektora generalnego urzędu przewidziane w ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. Nr 49, poz. 483, Nr 70, poz. 778 i Nr 110, poz. 1255) w stosunku do pracowników zatrudnionych w:
+
+### 1)
+
+Komendzie Głównej oraz w Granicznej Placówce Kontrolnej Straży Granicznej Warszawa-Okęcie wykonuje Komendant Główny Straży Granicznej,
+
+### 2)
+
+komendach oddziałów, granicznych placówkach kontrolnych, strażnicach i dywizjonach Straży Granicznej wykonuje właściwy miejscowo komendant oddziału Straży Granicznej.
+
+” ;
+
+### 8)
+
+art. 6 otrzymuje brzmienie:
+
+„
+
+### Art. 6.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi oddziały Straży Granicznej, uwzględniając nadanie im nazwy, określenie siedziby oraz terytorialnego zasięgu działania.
+
+### 2.
+
+Komendant Główny Straży Granicznej, w drodze zarządzenia:
+
+### 1)
+
+tworzy i znosi strażnice, graniczne placówki kontrolne oraz dywizjony, a także określa ich terytorialny zasięg działania,
+
+### 2)
+
+określa liczbę i rodzaj etatów w jednostkach organizacyjnych Straży Granicznej,
+
+### 3)
+
+określa szczegółowy zakres zadań terenowych organów Straży Granicznej oraz organizację Komendy Głównej, komend oddziałów, strażnic, granicznych placówek kontrolnych i dywizjonów.
+
+### 3.
+
+Komendant Główny Straży Granicznej może, w drodze zarządzenia, określać wzory symboli jednostek organizacyjnych Straży Granicznej.
+
+### 4.
+
+Komendant Główny Straży Granicznej może, w drodze zarządzenia, tworzyć i znosić ośrodki szkolenia oraz określać ich organizację i zakres działania.
+
+### 5.
+
+Komendanta ośrodka szkolenia oraz jego zastępców powołuje i odwołuje Komendant Główny Straży Granicznej. Komendant ośrodka szkolenia jest przełożonym wszystkich podległych mu funkcjonariuszy.
+
+” ;
+
+### 9)
+
+dodaje się art. 6a w brzmieniu:
+
+„
+
+### Art. 6a.
+
+W postępowaniu administracyjnym w sprawach związanych z wykonywaniem zadań i kompetencji Straży Granicznej, jeżeli ustawy nie stanowią inaczej, organami wyższego stopnia są:
+
+### 1)
+
+w stosunku do komendanta strażnicy, granicznej placówki kontrolnej oraz dywizjonu Straży Granicznej - komendant oddziału Straży Granicznej,
+
+### 2)
+
+w stosunku do Komendanta Granicznej Placówki Kontrolnej Warszawa-Okęcie - Komendant Główny Straży Granicznej,
+
+### 3)
+
+w stosunku do komendanta oddziału Straży Granicznej - Komendant Główny Straży Granicznej.
+
+” ;
+
+### 10)
+
+art. 7 otrzymuje brzmienie:
+
+„
+
+### Art. 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i sposób naliczeń etatowych w Straży Granicznej, uwzględniając terytorialny zasięg działania jednostek organizacyjnych oraz organizację i specyfikę pełnienia służby w tych jednostkach.
+
+” ;
+
+### 11)
+
+w art. 7a, art. 12 ust. 1, art. 21, art. 36 ust. 3, art. 44, art. 72 ust. 3, art. 75 ust. 2, art. 120 ust. 3, art. 151 ust. 5 i w art. 154 ust. 1 użyte w różnych przypadkach wyrazy „Minister Spraw Wewnętrznych” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw wewnętrznych”;
+
+### 12)
+
+po art. 7b dodaje się art. 7c w brzmieniu:
+
+„
+
+### Art. 7c.
+
+W zakresie określonym w przepisach odrębnych działalność duszpasterska w Straży Granicznej prowadzona jest na podstawie porozumień Komendanta Głównego Straży Granicznej z przedstawicielami właściwego kościoła lub związku wyznaniowego.
+
+” ;
+
+### 13)
+
+w art. 9:
+
+### a)
+
+w ust. 1 wyrazy „w zakresie określonym ustawą o ochronie granicy państwowej oraz innymi ustawami” zastępuje się wyrazami „w zakresie określonym w art. 1 ust. 2 pkt 4 i w ust. 2a”,
+
+### b)
+
+ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Straż Graniczna w celu realizacji ustawowych zadań może korzystać z informacji o osobie, w tym danych osobowych uzyskanych przez uprawnione organy, służby i instytucje państwowe w wyniku wykonywania czynności operacyjno-rozpoznawczych lub prowadzenia kontroli operacyjnej oraz przetwarzać je w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. Nr 133, poz. 883, z 2000 r. Nr 12, poz. 136, Nr 50, poz. 580 i Nr 116, poz. 1216 oraz z 2001 r. Nr 42, poz. 474), bez wiedzy i zgody osoby, której dane dotyczą.
+
+” ,
+
+### c)
+
+ust. 1b otrzymuje brzmienie:
+
+„
+
+### 1b.
+
+Administrator danych, o których mowa w ust. 1a, jest obowiązany udostępnić dane, z zastrzeżeniem ust. 1d, na podstawie imiennego upoważnienia Komendanta Głównego Straży Granicznej, komendanta oddziału Straży Granicznej lub upoważnionego funkcjonariusza, okazanego przez funkcjonariusza wraz z legitymacją służbową. Fakt udostępnienia tych danych podlega ochronie na podstawie ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. Nr 11, poz. 95, z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462 oraz z 2001 r. Nr 22, poz. 247 i Nr 27, poz. 298).
+
+” ,
+
+### d)
+
+po ust. 1b dodaje się ust. 1c i 1d w brzmieniu:
+
+„
+
+### 1c.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa w ust. 1b, uwzględniając niezbędne dane upoważnionego funkcjonariusza oraz możliwość wydania upoważnień w imieniu Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej innym funkcjonariuszom.
+
+### 1d.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres, warunki i tryb przekazywania Straży Granicznej informacji o osobie, uzyskanych w wyniku prowadzenia przez uprawnione organy, służby i instytucje czynności operacyjno-rozpoznawczych lub kontroli operacyjnej, uwzględniając zakres informacji niezbędnych do wykonywania ustawowych zadań Straży Granicznej, cel, organizację przekazywania informacji oraz sposób ich dokumentowania.
+
+” ,
+
+### e)
+
+skreśla się ust. 2,
+
+### f)
+
+w ust. 5 wyrazy „godności obywateli oraz przestrzegania i ochrony praw człowieka” zastępuje się wyrazami „godności oraz przestrzegania wolności i praw człowieka i obywatela”,
+
+### g)
+
+w ust. 6 dodaje się zdanie drugie w brzmieniu: „ Funkcję głównego pełnomocnika granicznego pełni Komendant Główny Straży Granicznej. ” ,
+
+### h)
+
+w ust. 7 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+zakres oraz szczegółowe zasady szkolenia funkcjonariuszy i pracowników Straży Granicznej,
+
+” ;
+
+### 14)
+
+w art. 9b:
+
+### a)
+
+w ust. 2 i 3 wyrazy „art. 7a ustawy o urzędzie Ministra Spraw Wewnętrznych” zastępuje się wyrazami „art. 9 ust. 2 ustawy z dnia 21 czerwca 1996 r. o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra (Dz. U. Nr 106, poz. 491, z 1997 r. Nr 70, poz. 443 i Nr 141, poz. 943 oraz z 1998 r. Nr 131, poz. 860)”,
+
+### b)
+
+w ust. 4 po wyrazie „wynagrodzenie” stawia się kropkę, a wyrazy „wypłacane z funduszu operacyjnego.” skreśla się,
+
+### c)
+
+dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Koszty podejmowanych przez Straż Graniczną czynności operacyjno-rozpoznawczych oraz wynagrodzenia osób, o których mowa w ust. 1, w zakresie, w jakim, ze względu na ochronę określoną w art. 9c ust. 1, nie mogą być stosowane przepisy o finansach publicznych i rachunkowości, pokrywane są z tworzonego na ten cel funduszu operacyjnego.
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze zarządzenia, stanowiące tajemnicę państwową, zasady tworzenia i gospodarowania funduszem operacyjnym.
+
+” ;
+
+### 15)
+
+w art. 9c:
+
+### a)
+
+dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Organy administracji rządowej i organy jednostek samorządu terytorialnego są obowiązane do udzielania Straży Granicznej w granicach swojej właściwości niezbędnej pomocy w zakresie wydawania i zabezpieczania dokumentów, o których mowa w ust. 2.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb wydawania dokumentów, o których mowa w ust. 2, sposób posługiwania się nimi, a także ich przechowywania, uwzględniając rodzaje dokumentów i cel, w jakim są wydawane, organy i osoby uprawnione do ich wydawania, posługiwania się nimi i ich przechowywania, czas, na jaki są wydawane dokumenty, czynności zapewniające ich ochronę oraz sposób ich przechowywania i ewidencji.
+
+” ;
+
+### 16)
+
+w art. 9d wyrazy „art. 7a ustawy o urzędzie Ministra Spraw Wewnętrznych” zastępuje się wyrazami „art. 9 ust. 2 ustawy z dnia 21 czerwca 1996 r. o niektórych uprawnieniach pracowników urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz funkcjonariuszy i pracowników urzędów nadzorowanych przez tego ministra (Dz. U. Nr 106, poz. 491, z 1997 r. Nr 70, poz. 443 i Nr 141, poz. 943 oraz z 1998 r. Nr 131, poz. 860)”;
+
+### 17)
+
+art. 9e otrzymuje brzmienie:
+
+„
+
+### Art. 9e.
+
+### 1.
+
+Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez Straż Graniczną w celu zapobieżenia, wykrycia, ustalenia sprawców oraz uzyskania i utrwalenia dowodów, ściganych z oskarżenia publicznego, umyślnych przestępstw:
+
+### 1)
+
+określonych w art. 264 Kodeksu karnego,
+
+### 2)
+
+określonych w art. 270-275 Kodeksu karnego w zakresie dokumentów uprawniających do przekraczania granicy państwowej,
+
+### 3)
+
+skarbowych, o których mowa w art. 133 § 1 pkt 1 Kodeksu karnego skarbowego, jeżeli wartość przedmiotu czynu lub uszczuplenie należności publicznej przekraczają pięćdziesięciokrotną wysokość najniższego wynagrodzenia za pracę określonego na podstawie odrębnych przepisów,
+
+### 4)
+
+pozostających w związku z przekraczaniem granicy państwowej lub przemieszczaniem przez granicę państwową towarów oraz przedmiotów określonych w przepisach o oznaczaniu wyrobów znakami skarbowymi akcyzy, o broni, amunicji oraz o materiałach wybuchowych, a także o przeciwdziałaniu narkomanii,
+
+### 5)
+
+określonego w art. 103 ustawy z dnia 25 czerwca 1997 r. o cudzoziemcach,
+
+### 6)
+
+określonych w art. 228, 229 i 231 Kodeksu karnego, popełnionych przez funkcjonariuszy lub pracowników Straży Granicznej w związku z wykonywaniem obowiązków służbowych,
+
+### 7)
+
+ściganych na mocy umów międzynarodowych,
+
+gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne, sąd okręgowy, na pisemny wniosek Komendanta Głównego Straży Granicznej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, lub na pisemny wniosek komendanta oddziału Straży Granicznej, złożony po uzyskaniu zgody Komendanta Głównego Straży Granicznej i pisemnej zgody właściwego miejscowo prokuratora okręgowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną.
+
+### 2.
+
+Pisemną zgodę komendantowi oddziału Straży Granicznej, o którym mowa w ust. 1, wydaje prokurator okręgowy właściwy ze względu na siedzibę tego komendanta.
+
+### 3.
+
+Postanowienie, o którym mowa w ust. 1, wydaje sąd okręgowy właściwy miejscowo ze względu na siedzibę organu Straży Granicznej składającego wniosek.
+
+### 4.
+
+W przypadkach niecierpiących zwłoki, gdy mogłoby to spowodować utratę informacji lub zatarcie albo zniszczenie dowodów przestępstwa:
+
+### 1)
+
+Komendant Główny Straży Granicznej, po uzyskaniu pisemnej zgody Prokuratora Generalnego,
+
+### 2)
+
+komendant oddziału Straży Granicznej, po poinformowaniu Komendanta Głównego Straży Granicznej i po uzyskaniu pisemnej zgody prokuratora, o którym mowa w ust. 2,
+
+może zarządzić kontrolę operacyjną, zwracając się jednocześnie do właściwego miejscowo sądu okręgowego z wnioskiem o wydanie postanowienia w tej sprawie. W razie nieudzielenia przez sąd zgody w terminie 5 dni od dnia zarządzenia kontroli operacyjnej, organ zarządzający wstrzymuje kontrolę operacyjną oraz dokonuje protokolarnego, komisyjnego zniszczenia materiałów zgromadzonych podczas jej stosowania.
+
+### 5.
+
+Sąd okręgowy może zezwolić, na pisemny wniosek Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej, złożony po uzyskaniu pisemnej zgody właściwego prokuratora, na odstąpienie od zniszczenia materiałów, o których mowa w ust. 4, jeżeli stanowią one dowód lub wskazują na zamiar popełnienia przestępstwa, dla wykrycia którego na podstawie przepisów ustawowych może być prowadzona kontrola operacyjna lub inne czynności operacyjno-rozpoznawcze.
+
+### 6.
+
+W przypadku zarządzenia kontroli operacyjnej wobec osoby podejrzanej lub oskarżonego, we wniosku organu Straży Granicznej o zarządzenie kontroli operacyjnej zamieszcza się informację o toczącym się wobec tej osoby postępowaniu.
+
+### 7.
+
+Kontrola operacyjna jest prowadzona niejawnie i polega na:
+
+### 1)
+
+kontrolowaniu treści korespondencji,
+
+### 2)
+
+kontrolowaniu zawartości przesyłek,
+
+### 3)
+
+stosowaniu środków technicznych umożliwiających uzyskiwanie w sposób niejawny informacji i dowodów oraz ich utrwalanie, a w szczególności obrazu, treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych.
+
+### 8.
+
+Wniosek organu Straży Granicznej, o którym mowa ust. 1, o zarządzenie przez sąd kontroli operacyjnej powinien zawierać w szczególności:
+
+### 1)
+
+numer sprawy i jej kryptonim,
+
+### 2)
+
+opis przestępstwa z podaniem jego kwalifikacji prawnej,
+
+### 3)
+
+okoliczności uzasadniające potrzebę zastosowania kontroli operacyjnej, w tym stwierdzonej albo prawdopodobnej bezskuteczności lub nieprzydatności innych środków,
+
+### 4)
+
+dane osoby, wobec której stosowana będzie kontrola operacyjna, i wskazanie miejsca lub sposobu jej stosowania,
+
+### 5)
+
+cel, czas i rodzaj prowadzonej kontroli operacyjnej, o której mowa w ust. 7.
+
+### 9.
+
+Kontrolę operacyjną zarządza się na okres nie dłuższy niż 3 miesiące. Sąd okręgowy może, na pisemny wniosek Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej, złożony po uzyskaniu pisemnej zgody Komendanta Głównego Straży Granicznej i właściwego prokuratora, na okres nie dłuższy niż kolejne 3 miesiące, wydać postanowienie o jednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny zarządzenia tej kontroli.
+
+### 10.
+
+W szczególnie uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawią się nowe okoliczności istotne dla zapobieżenia lub wykrycia przestępstwa albo ustalenia sprawców i uzyskania dowodów przestępstwa, sąd okręgowy właściwy miejscowo ze względu na siedzibę wnioskującego organu Straży Granicznej, na pisemny wniosek Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej, złożony po uzyskaniu pisemnej zgody Komendanta Głównego Straży Granicznej oraz właściwego prokuratora, może wydać postanowienie o kontroli operacyjnej prowadzonej przez czas oznaczony również po upływie okresów, o których mowa w ust. 9.
+
+### 11.
+
+Do wniosków, o których mowa w ust. 4, 5, 9 i 10, stosuje się odpowiednio ust. 8. Sąd przed wydaniem postanowienia, o którym mowa w ust. 9 lub 10, może zapoznać się z materiałami uzasadniającymi wniosek zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
+
+### 12.
+
+Wnioski, o których mowa w ust. 1, 4, 5, 9 i 10, sąd okręgowy rozpoznaje na posiedzeniu, jednoosobowo, przy czym czynności sądu związane z rozpoznaniem tych wniosków są wykonywane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu sądu może wziąć udział wyłącznie prokurator i przedstawiciel organu Straży Granicznej wnioskującego o zarządzenie kontroli operacyjnej.
+
+### 13.
+
+Przedsiębiorcy prowadzący działalność telekomunikacyjną w sieciach publicznych oraz podmioty świadczące usługi pocztowe są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez Straż Graniczną kontroli operacyjnej.
+
+### 14.
+
+Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóźniej jednak z upływem okresu, na który została wprowadzona.
+
+### 15.
+
+Organ Straży Granicznej, o którym mowa w ust. 1, informuje właściwego prokuratora o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli.
+
+### 16.
+
+W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej przekazuje właściwemu prokuratorowi wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej z wnioskiem o wszczęcie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+
+### 17.
+
+Osobie, w stosunku do której była stosowana kontrola operacyjna, nie udostępnia się materiałów zgromadzonych podczas tej kontroli. Przepis nie narusza uprawnień wynikających z art. 321 Kodeksu postępowania karnego.
+
+### 18.
+
+Zgromadzone podczas stosowania kontroli operacyjnej materiały niezawierające dowodów pozwalających na wszczęcie postępowania karnego lub niemające znaczenia dla toczącego się postępowania karnego przechowuje się po zakończeniu kontroli przez okres 2 miesięcy, a następnie dokonuje się ich protokolarnego, komisyjnego zniszczenia. Zniszczenie materiałów zarządza organ Straży Granicznej, który wnioskował o zarządzenie kontroli operacyjnej.
+
+### 19.
+
+Na postanowienia sądu w przedmiocie kontroli operacyjnej, o których mowa w ust. 1, 4, 9 i 10, a także na postanowienie sądu wydane na podstawie ust. 5, przysługuje zażalenie organowi Straży Granicznej, który złożył wniosek o wydanie tego postanowienia. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+
+### 20.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw łączności, określi, w drodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.”
+
+### 18)
+
+po art. 9e dodaje się art. 9f i 9g w brzmieniu:
+
+„
+
+### Art. 9f.
+
+### 1.
+
+W sprawach o przestępstwa określone w:
+
+### 1)
+
+art. 228 i 229 Kodeksu karnego, popełnione przez funkcjonariuszy i pracowników Straży Granicznej w związku z wykonywaniem obowiązków służbowych,
+
+### 2)
+
+art. 264 § 3 Kodeksu karnego,
+
+czynności operacyjno-rozpoznawcze, zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa, mogą polegać na dokonaniu w sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
+
+### 2.
+
+Czynności operacyjno-rozpoznawcze, o których mowa w ust. 1, mogą polegać także na złożeniu propozycji nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęcia lub wręczenia korzyści majątkowej.
+
+### 3.
+
+Komendant Główny Straży Granicznej w sprawach o przestępstwa, o których mowa w ust. 1 pkt 1 i 2, a komendant oddziału Straży Granicznej w sprawach o przestępstwo, o którym mowa w ust. 1 pkt 2, może zarządzić, na czas określony, czynności, o których mowa w ust. 1 i 2, po uzyskaniu pisemnej zgody właściwego miejscowo prokuratora okręgowego, którego bieżąco informuje o wynikach przeprowadzonych czynności. Prokurator może zarządzić zaniechanie czynności w każdym czasie.
+
+### 4.
+
+Czynności, o których mowa w ust. 1 i 2, zarządza się na okres nie dłuższy niż 3 miesiące. Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej może, po uzyskaniu pisemnej zgody właściwego prokuratora, jednorazowo przedłużyć stosowanie czynności, na okres nie dłuższy niż kolejne 3 miesiące, jeżeli nie ustały przyczyny ich zarządzenia.
+
+### 5.
+
+Przy wykonywaniu czynności, o których mowa w ust. 1 i 2, mogą być stosowane środki techniczne umożliwiające uzyskiwanie i utrwalanie treści informacji, w tym obrazu lub dźwięku.
+
+### 6.
+
+W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej przekazuje prokuratorowi okręgowemu wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa w ust. 1 i 2, z wnioskiem o wszczęcie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1 i 2, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.
+
+### Art. 9g.
+
+### 1.
+
+Przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych w celu udokumentowania przestępstw, o których mowa w art. 9e ust. 1, albo ustalenia tożsamości osób uczestniczących w tych przestępstwach lub przejęcia przedmiotów przestępstwa Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania i obrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.
+
+### 2.
+
+O zarządzeniu, o którym mowa w ust. 1, zawiadamia się niezwłocznie właściwego miejscowo, ze względu na siedzibę organu zawiadamiającego, prokuratora okręgowego, który może nakazać zaniechanie czynności w każdym czasie.
+
+### 3.
+
+Organ Straży Granicznej, o którym mowa w ust. 1, bieżąco informuje prokuratora okręgowego, o którym mowa w ust. 2, o wynikach przeprowadzonych czynności.
+
+### 4.
+
+Przy wykonywaniu czynności, o których mowa w ust. 1, mogą być stosowane środki techniczne umożliwiające uzyskiwanie i utrwalanie treści informacji, w tym obrazu lub dźwięku.
+
+### 5.
+
+Stosownie do zarządzenia, o którym mowa w ust. 1, organy i instytucje publiczne oraz przedsiębiorcy są obowiązani dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu w całości lub w części.
+
+### 6.
+
+W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej, za zgodą Komendanta Głównego Straży Granicznej, przekazuje prokuratorowi okręgowemu wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa w ust. 1, w razie potrzeby z wnioskiem o wszczęcie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiałów, stosuje się przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków i rejestrów.
+
+” ;
+
+### 19)
+
+po art. 10 dodaje się art. 10a i 10b w brzmieniu:
+
+„
+
+### Art. 10a.
+
+### 1.
+
+Straż Graniczna, w zakresie swojej właściwości, z zachowaniem ograniczeń wynikających z art. 9e, może uzyskiwać informacje, w tym także niejawnie, gromadzić je, sprawdzać oraz przetwarzać.
+
+### 2.
+
+Straż Graniczna może pobierać, gromadzić i wykorzystywać w celach wykrywczych i identyfikacyjnych odciski linii papilarnych, zdjęcia oraz dane osobowe, w tym ujawniające pochodzenie etniczne, przynależność wyznaniową oraz dane o stanie zdrowia, osób podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego, a także osób o nieustalonej tożsamości lub usiłujących ukryć swą tożsamość, bez zgody i wiedzy osoby, której dane dotyczą.
+
+### 3.
+
+Dane osobowe, o których mowa w ust. 2, z wyłączeniem danych ujawniających pochodzenie etniczne lub przynależność wyznaniową, przechowuje się, z zastrzeżeniem ust. 4 i 5, przez okres niezbędny do wykonania ustawowych zadań przez Straż Graniczną. Organy Straży Granicznej dokonują weryfikacji tych danych nie rzadziej niż co 10 lat od dnia uzyskania informacji.
+
+### 4.
+
+Do przechowywania danych osobowych ujawniających pochodzenie etniczne lub przynależność wyznaniową osób skazanych za popełnienie przestępstw ściganych z oskarżenia publicznego nie stosuje się ograniczeń, o których mowa w ust. 3.
+
+### 5.
+
+Dane osobowe ujawniające pochodzenie etniczne lub przynależność wyznaniową osób podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego, które nie zostały skazane za te przestępstwa, podlegają komisyjnemu i protokolarnemu zniszczeniu niezwłocznie po uprawomocnieniu się stosownego orzeczenia.
+
+### 6.
+
+Straż Graniczna, w zakresie swojej właściwości, może uzyskiwać i przetwarzać informacje ze zbiorów danych prowadzonych przez organy władzy publicznej, w tym dane osobowe. Administratorzy danych gromadzonych w tych rejestrach są obowiązani do ich nieodpłatnego udostępniania funkcjonariuszom posiadającym upoważnienia, o których mowa w art. 9 ust. 1b.
+
+### 7.
+
+Organy, o których mowa w ust. 6, mogą wyrazić pisemną zgodę na udostępnianie danych zgromadzonych w zbiorach jednostkom organizacyjnym Straży Granicznej, za pomocą urządzeń telekomunikacyjnych, bez konieczności składania pisemnego wniosku, jeżeli jednostki te spełniają łącznie następujące warunki:
+
+### 1)
+
+posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał,
+
+### 2)
+
+posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania,
+
+### 3)
+
+jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
+
+### Art. 10b.
+
+### 1.
+
+Dane identyfikujące użytkownika sieci telekomunikacyjnej lub zakończenia sieci, między którymi wykonano połączenie, oraz dane dotyczące uzyskania lub próby uzyskania połączenia między określonymi zakończeniami sieci, a także okoliczności i rodzaje wykonanego połączenia, mogą być ujawnione Straży Granicznej oraz przetwarzane przez Straż Graniczną wyłącznie w celu zapobiegania lub wykrywania przestępstw.
+
+### 2.
+
+Ujawnienie danych, o których mowa w ust. 1, następuje:
+
+### 1)
+
+na pisemny wniosek Komendanta Głównego Straży Granicznej lub komendanta oddziału Straży Granicznej,
+
+### 2)
+
+na ustne żądanie funkcjonariusza Straży Granicznej posiadającego upoważnienie organów, o których mowa w pkt 1,
+
+### 3)
+
+automatycznie drogą elektroniczną funkcjonariuszom wykorzystującym systemy teleinformatyczne wspomagające przyjmowanie zgłoszeń alarmowych od obywateli.
+
+### 3.
+
+Przedsiębiorcy prowadzący działalność w dziedzinie telekomunikacji w sieciach publicznych są obowiązani udostępnić na koszt własny dane, o których mowa w ust. 1, funkcjonariuszom wskazanym we wniosku właściwego organu Straży Granicznej lub funkcjonariuszom, o których mowa w ust. 2 pkt 2 i 3.
+
+### 4.
+
+Ujawnienie Straży Granicznej danych, o których mowa w ust. 1, może nastąpić za pomocą sieci telekomunikacyjnych, bez konieczności składania pisemnych wniosków, jeżeli:
+
+### 1)
+
+sieci te są wyposażone w:
+
+### a)
+
+urządzenia umożliwiające zachowanie informacji, kto, kiedy oraz jakie dane uzyskał,
+
+### b)
+
+zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych przez osoby nieuprawnione, przy ich udostępnianiu za pomocą urządzeń teletransmisyjnych,
+
+### 2)
+
+jest to uzasadnione specyfiką lub zakresem wykonywanych przez jednostki organizacyjne Straży Granicznej zadań albo prowadzonych przez nie czynności.
+
+### 5.
+
+Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, które zawierają informacje mające znaczenie dla postępowania karnego, Straż Graniczna przekazuje właściwemu prokuratorowi.
+
+### 6.
+
+Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, które nie zawierają informacji mających znaczenie dla postępowania karnego, podlegają niezwłocznemu komisyjnemu i protokolarnemu zniszczeniu.
+
+” ;
+
+### 20)
+
+art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+### 1.
+
+Funkcjonariusze, wykonując zadania, o których mowa w art. 1 ust. 2, mają prawo:
+
+### 1)
+
+dokonywania kontroli granicznej,
+
+### 2)
+
+dokonywania kontroli osobistej, a także przeglądania zawartości bagaży, sprawdzania ładunków w portach i na dworcach oraz w środkach komunikacji lotniczej, drogowej, kolejowej i wodnej - w celu wykluczenia możliwości popełnienia przestępstw lub wykroczeń, zwłaszcza skierowanych przeciwko nienaruszalności granicy państwowej lub bezpieczeństwu w międzynarodowej komunikacji,
+
+### 3)
+
+wydawania wiz i innych zezwoleń na przekroczenie granicy państwowej na podstawie odrębnych przepisów,
+
+### 4)
+
+legitymowania lub ustalania w inny sposób tożsamości osoby,
+
+### 5)
+
+zatrzymywania osób w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego i innych ustaw oraz doprowadzania ich do właściwego organu Straży Granicznej,
+
+### 6)
+
+przeszukiwania osób, rzeczy, pomieszczeń i środków transportu w trybie i przypadkach określonych w przepisach Kodeksu postępowania karnego i innych ustaw,
+
+### 7)
+
+obserwowania i rejestrowania, przy użyciu środków technicznych służących do rejestracji obrazu i dźwięku, zdarzeń na drogach oraz w innych miejscach publicznych,
+
+### 8)
+
+zatrzymywania pojazdów i wykonywania innych czynności z zakresu kontroli ruchu drogowego w trybie i przypadkach określonych w ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086, z 1998 r. Nr 106, poz. 668 i Nr 133, poz. 872, z 1999 r. Nr 106, poz. 1216, z 2000 r. Nr 12, poz. 136, Nr 43, poz. 483 i Nr 53, poz. 649 oraz z 2001 r. Nr 27, poz. 298),
+
+### 9)
+
+zatrzymywania i cofania z granicy państwowej do nadawcy szkodliwych materiałów jądrowych i promieniotwórczych, środków chemicznych i biologicznych, jak również odpadów,
+
+### 10)
+
+przebywania i poruszania się na gruntach bez uzyskiwania zgody ich właścicieli lub użytkowników oraz przechodzenia przez pola uprawne w czasie bezpośredniego pościgu, również z użyciem psa służbowego, jeżeli nie ma możliwości korzystania z dróg,
+
+### 11)
+
+żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki obowiązane są, w zakresie swojego działania, do udzielenia tej pomocy, w zakresie obowiązujących przepisów prawa,
+
+### 12)
+
+zwracania się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, w ramach obowiązujących przepisów prawa.
+
+### 2.
+
+Przy wykonywaniu czynności, o których mowa w ust. 1 pkt 4-7, uprawnienia i obowiązki funkcjonariuszy Policji przysługują odpowiednio funkcjonariuszom Straży Granicznej.
+
+### 3.
+
+Osobę zatrzymaną należy niezwłocznie poddać - w razie uzasadnionej potrzeby - badaniu lekarskiemu lub udzielić jej pierwszej pomocy medycznej.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, tryb przeprowadzania badań lekarskich, o których mowa w ust. 3. Rozporządzenie powinno określić osoby przeprowadzające badania, organizację i miejsce przeprowadzenia badań oraz zakres prowadzonej w tych sprawach dokumentacji, a także przypadki uzasadniające potrzebę udzielenia osobie zatrzymanej pierwszej pomocy medycznej.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki, jakim powinny odpowiadać pomieszczenia w jednostkach organizacyjnych Straży Granicznej przeznaczone dla osób zatrzymanych oraz regulamin pobytu w tych pomieszczeniach. Rozporządzenie powinno określić wyposażenie pomieszczeń dla osób zatrzymanych, podmioty kontrolujące te pomieszczenia, zakres prowadzonej dokumentacji, a także szczegółowe uprawnienia i obowiązki osób zatrzymanych.
+
+### 6.
+
+W związku ze ściganiem sprawców przestępstw i wykroczeń, których zwalczanie należy do ustawowych zadań Straży Granicznej, funkcjonariusze Straży Granicznej mogą wykonywać uprawnienia określone w ust. 1 pkt 4-8 oraz pkt 10-12 także poza obszarem strefy nadgranicznej.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb dokonywania kontroli oraz wykonywania innych czynności, o których mowa w ust. 1 pkt 1 i 2, uwzględniając formy kontroli granicznej, sposoby jej przeprowadzania i poświadczania w dokumentach uprawniających do przekraczania granicy państwowej, a także symbole i dane występujące w stemplach kontrolerskich oraz warunki użycia środków technicznych i psów służbowych podczas tej kontroli, przypadki, w których może być dokonana kontrola osobista, i sposób jej przeprowadzania, a także sposób i warunki przeglądania zawartości bagaży oraz sprawdzania ładunków, w tym przy użyciu środków technicznych i psów służbowych.
+
+### 8.
+
+Za szkody wyrządzone czynnościami, o których mowa w ust. 1 pkt 10, przysługuje odszkodowanie według zasad prawa cywilnego.
+
+### 9.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób doprowadzania osób, o których mowa w ust. 1 pkt 5, uwzględniając podmioty uprawnione do zarządzenia doprowadzenia, wzory wymaganych dokumentów, sposób dokonania doprowadzenia oraz niezbędne środki ostrożności, a także szczegółowe warunki dokonywania doprowadzeń przy użyciu środków transportu.
+
+” ;
+
+### 21)
+
+w art. 11a:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „celnych i dewizowych”,
+
+### b)
+
+ust. 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, sposób gospodarowania środkami, o których mowa w ust. 1, oraz kryteria przyznawania nagród wymienionych w ust. 1, uwzględniając tryb przekazania środków finansowych, ich ewidencjonowania w Komendzie Głównej oraz sposób podziału i przeznaczania tych środków.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, sposób podziału środków wymienionych w ust. 1, w przypadku wspólnego ujawnienia przestępstw przez funkcjonariuszy Straży Granicznej, funkcjonariuszy celnych lub Inspekcji Celnej, uwzględniając tryb podziału i przekazywania tych środków, a także sposób ich ewidencjonowania.
+
+” ;
+
+### 22)
+
+w art. 14:
+
+### a)
+
+w ust. 2 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+wpływa na obszar strefy zamkniętej lub niebezpiecznej dla żeglugi lub rybołówstwa,
+
+”
+
+### b)
+
+w ust. 3 skreśla się wyrazy „i 2”;
+
+### 23)
+
+w art. 15:
+
+### a)
+
+wyrazy „na których pokładzie zostało popełnione przestępstwo” zastępuje się wyrazami „gdy zachodzi uzasadnione podejrzenie popełnienia przestępstwa na ich pokładzie lub na skutek zawiadomienia o popełnieniu na nim przestępstwa,”
+
+### b)
+
+w pkt 2 po wyrazie „narusza” dodaje się wyrazy „spokój lub”,
+
+### c)
+
+w pkt 4 wyrazy „albo urzędnik konsularny państwa, do którego należy statek, wzywa pomocy dowódcy jednostki pływającej Straży Granicznej” zastępuje się wyrazami „lub urzędnik konsularny państwa bandery statku zwróci się do właściwych organów polskich o pomoc”;
+
+### 24)
+
+w art. 19:
+
+### a)
+
+w ust. 1 wyrazy „jednostkę pływającą, o której mowa” zastępuje się wyrazami „urządzenie pływające, o którym mowa”,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej określi, w drodze rozporządzenia, zasady współdziałania Straży Granicznej z Wojskami Lotniczymi i Obrony Powietrznej oraz Marynarką Wojenną w zakresie ochrony granicy państwowej, uwzględniając zakres współdziałania oraz podmioty uprawnione do jego organizacji i koordynacji.
+
+” ;
+
+### 25)
+
+po art. 19 dodaje się art. 19a w brzmieniu:
+
+„
+
+### Art. 19a.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki morskiej, określi, w drodze rozporządzenia, wymagania dotyczące technicznego i pozatechnicznego bezpieczeństwa żeglugi jednostek pływających Straży Granicznej. Rozporządzenie powinno w szczególności określić wymagania w zakresie budowy stałych urządzeń i wyposażenia statków oraz wyposażenia w środki ratunkowe.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych może, w drodze zarządzenia, uznać za obowiązujące w stosunku do jednostek pływających Straży Granicznej przepisy techniczne z zakresu budowy i wyposażenia statków wydane przez polską instytucję klasyfikacyjną.
+
+” ;
+
+### 26)
+
+w art. 22 skreśla się ust. 2 oraz oznaczenie ust. 1;
+
+### 27)
+
+skreśla się art. 27 i 28;
+
+### 28)
+
+w art. 30 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór flagi Straży Granicznej, okoliczności i warunki jej podnoszenia oraz sposób oznakowania jednostek pływających i statków powietrznych, a także znaki rozpoznawcze używane przez statki powietrzne w nocy, uwzględniając sposób umieszczania bandery i flagi na jednostkach pływających oraz znaków, umożliwiający szybką identyfikację jednostek pływających i statków powietrznych.
+
+” ;
+
+### 29)
+
+w art. 31 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb prowadzenia postępowania kwalifikacyjnego w stosunku do osób ubiegających się o przyjęcie do służby w Straży Granicznej, w tym w stosunku do osób, o których mowa w ust. 2. Rozporządzenie powinno określić etapy postępowania kwalifikacyjnego, rodzaje składanych przez kandydatów dokumentów, w tym wzór kwestionariusza osobowego, a także cechy preferencyjne kandydatów niemających wykształcenia średniego, których posiadanie jest szczególnie przydatne do pełnienia służby w Straży Granicznej.
+
+” ;
+
+### 30)
+
+w art. 32:
+
+### a)
+
+w ust. 1 wyrazy „Ministrowi Spraw Wewnętrznych” zastępuje się wyrazami „ministrowi właściwemu do spraw wewnętrznych”,
+
+### b)
+
+dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Minister właściwy do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi komisje lekarskie, o których mowa w ust. 1, oraz określa ich organizację. Rozporządzenie powinno określić nazwy komisji, ich siedziby oraz strukturę organizacyjną.
+
+” ,
+
+### c)
+
+w ust. 2 wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „Minister właściwy do spraw wewnętrznych”;
+
+### 31)
+
+w art. 33 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, ceremoniał składania ślubowania, uwzględniając przebieg ceremoniału ślubowania, terminy składania ślubowania, osoby uprawnione do przyjmowania ślubowania oraz wzór aktu ślubowania.
+
+” ;
+
+### 32)
+
+w art. 34:
+
+### a)
+
+w ust. 4 po wyrazach „funkcjonariuszy-kobiet” dodaje się wyrazy „oraz poborowych”,
+
+### b)
+
+skreśla się ust. 5;
+
+### 33)
+
+w art. 35:
+
+### a)
+
+w ust. 3 po wyrazach „Komendant Główny Straży Granicznej” skreśla się przecinek i dodaje wyrazy „z urzędu albo”,
+
+### b)
+
+w ust. 4 wyrazy „na wniosek komendanta oddziału Straży Granicznej” zastępuje się wyrazami „z urzędu albo na wniosek komendanta oddziału lub komendanta ośrodka szkolenia Straży Granicznej”;
+
+### 34)
+
+art. 37 i 38 otrzymują brzmienie:
+
+„
+
+### Art. 37.
+
+### 1.
+
+Czas pełnienia służby funkcjonariusza jest określony wymiarem jego obowiązków, z uwzględnieniem prawa do wypoczynku.
+
+### 2.
+
+Czas pełnienia służby funkcjonariusza wynosi 40 godzin tygodniowo w przyjętym okresie rozliczeniowym, nieprzekraczającym 3 miesięcy.
+
+### 3.
+
+W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi przysługuje czas wolny od służby w tym samym wymiarze.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rozkład czasu służby, tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo, uwzględniając rodzaj i organizację służby, sposób pełnienia dyżurów domowych, właściwość przełożonych do określenia harmonogramu służby, okoliczności uzasadniające przedłużenie czasu służby ponad ustawowy wymiar, jak również niezbędny czas na wypoczynek funkcjonariusza po służbie oraz sposób prowadzenia ewidencji czasu służby.
+
+### Art. 38.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki w zakresie wykształcenia i kwalifikacji zawodowych oraz stażu służby, jakim powinien odpowiadać funkcjonariusz na określonym stanowisku służbowym, uwzględniając rodzaj służby i stanowisk, warunki uzyskania wykształcenia zawodowego, jak również okresy zaliczane do stażu służby wskazujące na posiadanie odpowiedniego doświadczenia zawodowego.
+
+” ;
+
+### 35)
+
+w art. 39 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb okresowego opiniowania funkcjonariuszy oraz tryb wnoszenia i rozpatrywania odwołań od opinii służbowych, uwzględniając terminy i okoliczności powodujące sporządzanie opinii, kryteria, na podstawie których są sporządzane opinie, skalę ocen i przesłanki, które uwzględnia się w procesie opiniowania, właściwość przełożonych w zakresie wydawania i rozpatrywania odwołań od opinii, a także wzór kwestionariusza opinii służbowej.
+
+” ;
+
+### 36)
+
+po art. 39 dodaje się art. 39a w brzmieniu:
+
+„
+
+### Art. 39a.
+
+### 1.
+
+Funkcjonariusza zwolnionego lub odwołanego z zajmowanego stanowiska można przenieść do dyspozycji właściwego przełożonego, jeżeli przewiduje się wyznaczenie go na inne stanowisko służbowe albo zwolnienie ze służby. Okres pozostawania funkcjonariusza w dyspozycji nie może być dłuższy niż 1 rok.
+
+### 2.
+
+W okresie pozostawania w dyspozycji funkcjonariusz nie wykonuje obowiązków służbowych, zachowując prawo do uposażenia i innych świadczeń przysługujących na ostatnio zajmowanym stanowisku służbowym.
+
+### 3.
+
+Funkcjonariusz przeniesiony do dyspozycji jest obowiązany do podjęcia obowiązków służbowych w każdym czasie na polecenie właściwego przełożonego.
+
+### 4.
+
+Okres pozostawania funkcjonariusza w dyspozycji wlicza się do okresu służby, od którego zależą uprawnienia funkcjonariuszy.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, przełożonych właściwych do przenoszenia funkcjonariuszy do dyspozycji, rodzaje stanowisk, na których możliwe jest przeniesienie do dyspozycji, warunki i tryb przenoszenia oraz sposób pełnienia służby w tym okresie. Rozporządzenie powinno określić sposób pełnienia służby, uwzględniając posiadane przez funkcjonariusza kwalifikacje oraz predyspozycje do pełnienia służby na określonym stanowisku służbowym.
+
+” ;
+
+### 37)
+
+w art. 40:
+
+### a)
+
+w ust. 1 dodaje się zdanie drugie w brzmieniu: „ Funkcjonariusz może być oddelegowany na niezbędny okres, za jego pisemną zgodą, do pełnienia służby poza granicami państwa, w ramach wykonywania zadań określonych w umowach międzynarodowych wiążących Rzeczpospolitą Polską. ” ,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1 po wyrazie „państwa” dodaje się wyrazy „i poza jego granicami”,
+
+- - w pkt 2 wyraz „obszaru” zastępuje się wyrazami „terytorialnego zasięgu”,
+
+### c)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, należności i świadczenia przysługujące funkcjonariuszom oddelegowanym do pełnienia służby poza granicami państwa, uwzględniając rodzaje i warunki wykonywanych przez funkcjonariusza zadań.
+
+” ;
+
+### 38)
+
+w art. 41:
+
+### a)
+
+w ust. 1 zdanie drugie otrzymuje brzmienie: „ W okresie tym funkcjonariuszowi przysługuje uposażenie stosownie do powierzonego stanowiska, lecz nie niższe od dotychczasowego. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariusza można oddelegować do wykonywania pracy poza Strażą Graniczną.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb oddelegowania, przyznawania uposażenia oraz innych świadczeń przysługujących funkcjonariuszowi w czasie oddelegowania, uwzględniając charakter zadań służbowych wykonywanych poza Strażą Graniczną, do których funkcjonariusz może być oddelegowany, podmioty uprawnione do występowania z wnioskiem o oddelegowanie funkcjonariusza, sposób wyrażania przez niego zgody na oddelegowanie, tryb postępowania w przypadku zmiany warunków oddelegowania, uprawnienia i obowiązki funkcjonariusza, w szczególności w zakresie ustalania i wypłaty uposażenia oraz prawa do urlopu, a także tryb i sposób odwołania funkcjonariusza z oddelegowania.
+
+” ;
+
+### 39)
+
+w art. 42:
+
+### a)
+
+w ust. 2 dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+upływu okresu jednego roku pozostawania w dyspozycji, gdy nie ma możliwości mianowania go na równorzędne stanowisko służbowe.
+
+” ,
+
+### b)
+
+skreśla się ust. 4;
+
+### 40)
+
+w art. 43:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Funkcjonariusza zawiesza się w czynnościach służbowych na okres nie dłuższy niż 3 miesiące w razie jego tymczasowego aresztowania lub wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego. Jeżeli okres tymczasowego aresztowania jest dłuższy niż 3 miesiące, zawieszenie ulega z mocy prawa przedłużeniu do czasu zakończenia tymczasowego aresztowania.
+
+” ,
+
+### b)
+
+w ust. 2 wyraz „oraz” zastępuje się wyrazem „lub”,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb zawieszania funkcjonariuszy w czynnościach służbowych, uwzględniając przełożonych właściwych do zawieszania funkcjonariuszy w czynnościach służbowych, sposób wnoszenia odwołań oraz terminy ich rozpatrywania.
+
+” ;
+
+### 41)
+
+w art. 44 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Funkcjonariusz obowiązany jest poddać się badaniom zleconym przez komisję, w tym również badaniom specjalistycznym, psychologicznym i dodatkowym, a gdy zachodzi potrzeba - obserwacji w zakładzie opieki zdrowotnej.
+
+” ;
+
+### 42)
+
+w art. 45:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 4 wyraz „wyrokiem” zastępuje się wyrazem „orzeczeniem”,
+
+- - w pkt 5 wyraz „utraty” zastępuje się wyrazami „zrzeczenia się”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariusza można zwolnić ze służby w przypadkach:
+
+### 1)
+
+niewywiązywania się z obowiązków służbowych w okresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach, między którymi upłynęło co najmniej 6 miesięcy,
+
+### 2)
+
+skazania prawomocnym orzeczeniem sądu za przestępstwo inne niż określone w ust. 1 pkt 4,
+
+### 3)
+
+powołania do innej służby państwowej, a także objęcia funkcji z wyboru w organach samorządu terytorialnego,
+
+### 4)
+
+nabycia prawa do emerytury z tytułu osiągnięcia 30 lat wysługi emerytalnej,
+
+### 5)
+
+gdy wymaga tego ważny interes służby,
+
+### 6)
+
+niewyrażenia zgody na przeniesienie na niższe stanowisko służbowe z przyczyn określonych w art. 42 ust. 2,
+
+### 7)
+
+rozformowania jednostki organizacyjnej, w której funkcjonariusz pełni służbę, lub zmniejszenia jej stanu etatowego, jeżeli przeniesienie funkcjonariusza do innej jednostki lub na niższe stanowisko nie jest możliwe,
+
+### 8)
+
+upływu 12 miesięcy od dnia zaprzestania służby z powodu choroby,
+
+### 9)
+
+dwukrotnego nieusprawiedliwionego niestawienia się na badanie lub obserwację w zakładzie opieki zdrowotnej, wyznaczone zgodnie z art. 44 ust. 2, chyba że skierowanie do komisji nastąpiło na prośbę funkcjonariusza.
+
+” ,
+
+### c)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Zwolnienie funkcjonariusza przeniesionego do dyspozycji, w przypadku określonym w art. 42 ust. 2 pkt 5, w razie niewyrażenia przez funkcjonariusza zgody na przeniesienie na niższe stanowisko służbowe następuje po upływie 6 miesięcy.
+
+” ;
+
+### 43)
+
+po art. 45 dodaje się art. 45a w brzmieniu:
+
+„
+
+### Art. 45a.
+
+### 1.
+
+Stosunek służbowy wygasa w przypadku:
+
+### 1)
+
+śmierci funkcjonariusza,
+
+### 2)
+
+stwierdzenia zaginięcia funkcjonariusza.
+
+### 2.
+
+Rozkaz personalny o wygaśnięciu stosunku służbowego wydaje się na podstawie skróconego aktu zgonu albo ostatecznej decyzji ministra właściwego do spraw wewnętrznych o stwierdzeniu zaginięcia funkcjonariusza.
+
+” ;
+
+### 44)
+
+art. 46 otrzymuje brzmienie:
+
+„
+
+### Art. 46.
+
+### 1.
+
+Uchylenie lub stwierdzenie nieważności decyzji o zwolnieniu ze służby w Straży Granicznej z powodu jej niezgodności z prawem stanowi podstawę przywrócenia do służby na stanowisko równorzędne.
+
+### 2.
+
+Jeżeli zwolniony funkcjonariusz w ciągu 7 dni od przywrócenia do służby nie zgłosi pisemnie gotowości niezwłocznego jej podjęcia, stosunek służbowy ulega rozwiązaniu. Przepis art. 45 ust. 3 stosuje się odpowiednio.
+
+### 3.
+
+Prawo do uposażenia powstaje z dniem podjęcia służby, chyba że po zgłoszeniu się do służby zaistniały okoliczności usprawiedliwiające niepodjęcie tej służby.
+
+### 4.
+
+Funkcjonariuszowi przywróconemu do służby przysługuje za okres pozostawania poza służbą świadczenie pieniężne równe uposażeniu na stanowisku zajmowanym przed zwolnieniem, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za 1 miesiąc.
+
+### 5.
+
+W zakresie innych praw niż określone w ust. 1-4, wynikających ze stosunku służbowego, okres, za który przyznano świadczenie pieniężne, uważa się za równorzędny ze służbą. Okresu pozostawania poza służbą nie uważa się za przerwę w służbie, której skutkiem byłaby utrata uprawnień uzależnionych od nieprzerwanej służby.
+
+” ;
+
+### 45)
+
+w art. 47:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zwolnienie funkcjonariusza ze służby na podstawie art. 45 ust. 1 pkt 1, 2 i 5 i ust. 2 pkt 1 i 3-7 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz zgłosi pisemne wystąpienie ze służby.
+
+” ,
+
+### b)
+
+w ust. 2 wyrazy „3 miesięcy” zastępuje się wyrazami „1 miesiąca”;
+
+### 46)
+
+w art. 48 w ust. 1 wyrazy „w art. 45 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 2, 3, 5 i 7” zastępuje się wyrazami „w art. 45 ust. 1 pkt 3 i 4, ust. 2 pkt 2, 3, 5 i 7 oraz ust. 3”;
+
+### 47)
+
+w art. 50 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe dane, które należy podać w świadectwie służby oraz w opinii o służbie, a także tryb wydawania i dokonywania sprostowań świadectw służby oraz odwoływania się od opinii o służbie, uwzględniając przełożonych właściwych w sprawach świadectw służby i opinii o służbie, informacje, które zamieszczane są w świadectwie służby na życzenie funkcjonariusza, oraz wzór formularza świadectwa służby.
+
+” ;
+
+### 48)
+
+po art. 50 dodaje się art. 50a w brzmieniu:
+
+„
+
+### Art. 50a.
+
+Komendant Główny Straży Granicznej określi, w drodze zarządzenia, sposób prowadzenia przez przełożonych dokumentacji w sprawach związanych ze stosunkiem służbowym funkcjonariuszy, sposób prowadzenia akt osobowych oraz wzory dokumentów w tych sprawach w zakresie nieuregulowanym innymi przepisami wydanymi na podstawie ustawy. Zarządzenie powinno określić sposób zakładania akt osobowych funkcjonariuszy, rodzaje gromadzonych w nich dokumentów oraz sposób ich ewidencjonowania.
+
+” ;
+
+### 49)
+
+w art. 53:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na stopnie chorążych Straży Granicznej mianuje Komendant Główny Straży Granicznej.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - w zdaniu pierwszym wyrazy „Ministra Spraw Wewnętrznych” zastępuje się wyrazami „ministra właściwego do spraw wewnętrznych”,
+
+- - w zdaniu drugim wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „minister właściwy do spraw wewnętrznych”;
+
+### 50)
+
+w art. 55:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „lub zdał egzamin oficerski bez odbycia przeszkolenia”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaje, zakres oraz sposób prowadzenia przeszkolenia specjalistycznego, o którym mowa w ust. 1. Rozporządzenie powinno określić formy, w jakich prowadzone jest przeszkolenie, sposób składania egzaminu, a także jednostki organizacyjne prowadzące przeszkolenie.
+
+” ;
+
+### 51)
+
+art. 56 otrzymuje brzmienie:
+
+„
+
+### Art. 56.
+
+Mianowanie na kolejny wyższy stopień następuje stosownie do zajmowanego stanowiska służbowego, posiadanych kwalifikacji zawodowych oraz w zależności od opinii służbowej. Nadanie tego stopnia nie może jednak nastąpić wcześniej niż po przesłużeniu w stopniu:
+
+- - kaprala (mata) - 1 roku,
+
+- - starszego kaprala (starszego mata) - 1 roku,
+
+- - plutonowego (bosmanmata) - 2 lat,
+
+- - starszego plutonowego (starszego bosmanmata) - 2 lat,
+
+- - sierżanta (bosmana) - 2 lat,
+
+- - starszego sierżanta (starszego bosmana) - 2 lat,
+
+- - sierżanta sztabowego (bosmana sztabowego) - 2 lat,
+
+- - młodszego chorążego (młodszego chorążego marynarki) - 3 lat,
+
+- - chorążego (chorążego marynarki) - 3 lat,
+
+- - starszego chorążego (starszego chorążego marynarki) - 3 lat,
+
+- - młodszego chorążego sztabowego (młodszego chorążego sztabowego marynarki) - 3 lat,
+
+- - chorążego sztabowego (chorążego sztabowego marynarki) - 4 lat,
+
+- - podporucznika (podporucznika marynarki) - 3 lat,
+
+- - porucznika (porucznika marynarki) - 4 lat,
+
+- - kapitana (kapitana marynarki) - 4 lat,
+
+- - majora (komandora podporucznika) - 3 lat,
+
+- - podpułkownika (komandora porucznika) - 4 lat.
+
+” ;
+
+### 52)
+
+w art. 57 w ust. 1 skreśla się zdanie drugie;
+
+### 53)
+
+w art. 58 w ust. 3:
+
+### a)
+
+pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+zrzeczenia się obywatelstwa polskiego,
+
+### 2)
+
+prawomocnego orzeczenia środka karnego pozbawienia praw publicznych,
+
+”
+
+### b)
+
+w pkt 3 wyrazy „z niskich pobudek” zastępuje się wyrazami „w wyniku motywacji zasługującej na szczególne potępienie”;
+
+### 54)
+
+art. 59 otrzymuje brzmienie:
+
+„
+
+### Art. 59.
+
+O obniżeniu lub utracie stopnia w przypadkach określonych w ustawie orzeka organ właściwy do mianowania na ten stopień, z tym że o utracie stopnia podporucznika orzeka minister właściwy do spraw wewnętrznych, a o utracie stopnia generała - Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.
+
+” ;
+
+### 55)
+
+w art. 60:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) prawomocnego orzeczenia pozbawienia praw publicznych albo ” ,
+
+- - w pkt 2 wyrazy „z niskich pobudek” zastępuje się wyrazami „w wyniku motywacji zasługującej na szczególne potępienie”,
+
+### b)
+
+w ust. 2 wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „minister właściwy do spraw wewnętrznych”, a wyrazy „Ministra Spraw Wewnętrznych” zastępuje się wyrazami „ministra właściwego do spraw wewnętrznych”;
+
+### 56)
+
+art. 61 otrzymuje brzmienie:
+
+„
+
+### Art. 61.
+
+### 1.
+
+Osobę przyjmowaną do służby i posiadającą stopień wojskowy, policyjny, Urzędu Ochrony Państwa, Biura Ochrony Rządu, Państwowej Straży Pożarnej lub Służby Więziennej mianuje się na stopień obowiązujący w Straży Granicznej, równorzędny z posiadanym stopniem.
+
+### 2.
+
+Mianowanie osoby posiadającej stopień wojskowy, policyjny, Urzędu Ochrony Państwa, Biura Ochrony Rządu, Państwowej Straży Pożarnej lub Służby Więziennej może być uzależnione od odbycia przeszkolenia wymaganego w Straży Granicznej do mianowania na dany stopień.
+
+### 3.
+
+Osobę przyjmowaną do służby i posiadającą stopień wojskowy podporucznika, stopień policyjny podkomisarza, stopień podporucznika Urzędu Ochrony Państwa, stopień podporucznika Biura Ochrony Rządu, stopień młodszego kapitana Państwowej Straży Pożarnej lub stopień podporucznika Służby Więziennej, na stopień podporucznika w Straży Granicznej mianuje minister właściwy do spraw wewnętrznych.
+
+### 4.
+
+Osobę przyjmowaną do służby i posiadającą inny niż wymieniony w ust. 3 stopień Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Urzędu Ochrony Państwa, Biura Ochrony Rządu, Państwowej Straży Pożarnej lub Służby Więziennej na równorzędny stopień w Straży Granicznej mianuje Komendant Główny Straży Granicznej.
+
+” ;
+
+### 57)
+
+art. 62 otrzymuje brzmienie:
+
+„
+
+### Art. 62.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb mianowania funkcjonariuszy na stopnie, uwzględniając podmioty uprawnione do składania wniosków oraz do mianowania na określone stopnie, terminy dokonywania mianowań, wzór wniosku o mianowanie, a także sposób ogłaszania o utracie stopnia w przypadkach określonych w art. 58 ust. 3.
+
+” ;
+
+### 58)
+
+w art. 63:
+
+### a)
+
+w ust. 2 wyrazy „rozkazu lub polecenia” zastępuje się wyrazami „rozkazu lub innego polecenia”,
+
+### b)
+
+w ust. 3 wyrazy „rozkazu lub polecenia” zastępuje się wyrazami „rozkazu lub innego polecenia”, a po wyrazie „powinien” dodaje się wyrazy „w formie pisemnej”;
+
+### 59)
+
+w art. 65:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość i warunki przyznawania równoważnika pieniężnego w zamian za umundurowanie. Rozporządzenie powinno określić podstawę obliczania równoważnika pieniężnego, przedmioty, za które równoważnik ten przysługuje, przypadki, w których równoważnik nie przysługuje lub w których wypłata równoważnika jest zawieszana, warunki zwrotu i termin wypłaty równoważnika oraz podmioty właściwe w tych sprawach.
+
+” ,
+
+### b)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzory, normy oraz zasady noszenia umundurowania, a także wzory oznak i emblematów, uwzględniając rodzaj noszonego przez funkcjonariusza umundurowania, opis poszczególnych części umundurowania oraz sposób noszenia emblematów, odznaki, oznak i symbolu oraz przypadki, w których funkcjonariusz obowiązany jest zwrócić przedmioty umundurowania lub ich równowartość.
+
+” ;
+
+### 60)
+
+w art. 66 dotychczasową treść oznacza się jako ust. 1 oraz dodaje ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+Funkcjonariusz przy wykonywaniu czynności administracyjno-porządkowych jest obowiązany okazać na żądanie legitymację służbową lub znak identyfikacyjny w sposób umożliwiający odczytanie i zanotowanie danych w nim zawartych.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaje i wzory legitymacji służbowych, znaków identyfikacyjnych oraz innych dokumentów służbowych funkcjonariuszy, szczegółowy sposób posługiwania się nimi i dokonywania w nich zmian oraz podmioty właściwe do ich wydawania. Rozporządzenie powinno określić wzory dokumentów oraz znaków identyfikacyjnych w sposób umożliwiający odczytanie i odnotowanie przez osobę zainteresowaną danych w nich zawartych .
+
+” ;
+
+### 61)
+
+w art. 68 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przynależność do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga zezwolenia Komendanta Głównego Straży Granicznej.
+
+” ;
+
+### 62)
+
+art. 76 otrzymuje brzmienie:
+
+„
+
+### Art. 76.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, przypadki, w których funkcjonariusz otrzymuje wyżywienie, oraz normy wyżywienia, uwzględniając rodzaj pełnionej służby oraz szczególne warunki jej pełnienia.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, przypadki otrzymywania i wysokość równoważnika pieniężnego w zamian za wyżywienie, uwzględniając warunki otrzymywania, rodzaje oraz stawki zasadniczych i dodatkowych norm wyżywienia oraz napojów, a także podstawy obliczania wysokości równoważnika pieniężnego.
+
+” ;
+
+### 63)
+
+art. 77 otrzymuje brzmienie:
+
+„
+
+### Art. 77.
+
+### 1.
+
+Funkcjonariuszowi i członkom jego rodziny przysługuje prawo przejazdu na koszt właściwego organu Straży Granicznej środkami publicznego transportu zbiorowego raz w roku, do jednej z obranych przez siebie miejscowości w kraju i z powrotem.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki przejazdu na koszt organu, o którym mowa w ust. 1, uwzględniając warunki i sposób rozliczania kosztów przejazdu oraz rodzaje środków transportu, którymi ma być dokonywany przejazd.
+
+### 3.
+
+W razie niewykorzystania przysługującego przejazdu osoba uprawniona otrzymuje zryczałtowany równoważnik pieniężny.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki przyznawania zryczałtowanego równoważnika pieniężnego, uwzględniając tryb wypłaty równoważnika w razie niewykorzystania przysługującego przejazdu, w tym ustalania jego wysokości, oraz przypadki, kiedy równoważnik nie przysługuje.
+
+### 5.
+
+Zwrot kosztów przejazdu lub zryczałtowany równoważnik pieniężny, o których mowa w ust. 1 i 3, nie przysługuje funkcjonariuszowi w roku kalendarzowym, w którym wykupiono uprawnienia do bezpłatnych przejazdów środkami publicznego transportu zbiorowego, na podstawie odrębnych przepisów.
+
+### 6.
+
+Osobom, o których mowa w ust. 1, mogą być przyznawane także inne świadczenia socjalne i bytowe.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, rodzaje świadczeń, o których mowa w ust. 6, uwzględniając zakres podmiotowy świadczeń socjalnych, warunki korzystania z tych świadczeń, sposób ich realizacji, a w przypadku świadczeń finansowych - ich wysokość, sposób obliczania, terminy rozliczeń oraz wypłaty.
+
+” ;
+
+### 64)
+
+skreśla się art. 79;
+
+### 65)
+
+skreśla się art. 80;
+
+### 66)
+
+w art. 81:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „, 79 i 80”,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1 wyrazy „a ukończenie 24 lat” zastępuje się wyrazami „a ukończenie 25 lat”,
+
+- - w pkt 2 wyrazy „inwalidami I lub II grupy” zastępuje się wyrazami „osobami całkowicie niezdolnymi do pracy”;
+
+### 67)
+
+w art. 82 wyrazy „w rozumieniu przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin” zastępuje się wyrazami „w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych”;
+
+### 68)
+
+w art. 83 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Przepis ust. 1 stosuje się także do funkcjonariuszy-mężczyzn w zakresie, w jakim pracownicy mogą korzystać ze szczególnych uprawnień przewidzianych dla pracownic. Jeżeli oboje rodzice lub opiekunowie są zatrudnieni, z uprawnień może korzystać tylko jedno z nich.
+
+” ;
+
+### 69)
+
+w art. 84 skreśla się ust. 2-4 oraz oznaczenie ust. 1;
+
+### 70)
+
+w art. 85 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+
+### 1)
+
+właściwość organów i jednostek organizacyjnych Straży Granicznej w sprawach wynikających ze stosunku służbowego funkcjonariuszy oraz tryb postępowania w tych sprawach, uwzględniając rodzaje i zakres spraw osobowych podległych poszczególnym organom i jednostkom Straży Granicznej oraz sposób postępowania w sprawach związanych z nawiązaniem i rozwiązaniem stosunku służbowego, a także jego zmianą,
+
+### 2)
+
+szczegółowy zakres obowiązków funkcjonariuszy wynikający ze stosunku służbowego oraz podstawy, zakres i tryb udzielania funkcjonariuszom zwolnień od zajęć służbowych, uwzględniając rodzaje zdarzeń dotyczących osoby funkcjonariusza, o których, ze względu na ich wpływ na treść stosunku służbowego, funkcjonariusz obowiązany jest poinformować właściwego przełożonego, oraz sposób postępowania w tych przypadkach, okoliczności usprawiedliwiające nieobecność w służbie i sposób jej usprawiedliwiania, okoliczności uzasadniające udzielanie zwolnień od zajęć służbowych, warunki udzielania zwolnień, okresy, na które zwolnienia mogą być udzielone, i właściwość przełożonych w tym zakresie, a także częstotliwość przeprowadzania badań lekarskich funkcjonariuszy.
+
+” ;
+
+### 71)
+
+w art. 86 w ust. 1 kropkę na końcu zdania zastępuje się przecinkiem i dodaje się wyrazy „z wyłączeniem dni ustawowo wolnych od pracy.”;
+
+### 72)
+
+w art. 87:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariuszowi odwołanemu z urlopu przysługuje zwrot kosztów przejazdu spowodowanych odwołaniem, według zasad ustalonych w przepisach o należnościach służbowych w przypadkach przeniesienia lub delegowania, jak również innych poniesionych kosztów.
+
+” ,
+
+### b)
+
+dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb zwrotu kosztów przejazdu i innych poniesionych kosztów przysługujących funkcjonariuszowi w razie odwołania z urlopu, z uwzględnieniem norm określonych dla przenoszonych lub delegowanych funkcjonariuszy, udokumentowanych opłat dokonanych przez funkcjonariusza, a które nie zostały wykorzystane w związku z odwołaniem z urlopu, jak również opłat dokonanych na członków rodziny, o których mowa w art. 81, jeżeli odwołanie funkcjonariusza z urlopu spowodowało także ich powrót.
+
+” ;
+
+### 73)
+
+art. 88 otrzymuje brzmienie:
+
+„
+
+### Art. 88.
+
+Minister właściwy do spraw wewnętrznych może, w drodze rozporządzenia, wprowadzić płatne urlopy dodatkowe dla funkcjonariuszy w wymiarze do 15 dni kalendarzowych rocznie, uwzględniając pełnienie służby w warunkach szczególnie uciążliwych lub szkodliwych dla zdrowia albo osiągnięcie określonego wieku lub stażu służby, albo szczególne właściwości służby.
+
+” ;
+
+### 74)
+
+art. 90 otrzymuje brzmienie:
+
+„
+
+### Art. 90.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki przyznawania funkcjonariuszom urlopów, tryb postępowania w tych sprawach oraz wymiar urlopów, o których mowa w art. 88 i 89, uwzględniając okres służby, wiek funkcjonariuszy, przypadki warunków szczególnie uciążliwych lub szkodliwych dla zdrowia oraz stopnie szkodliwości wpływające na wymiar urlopu dodatkowego.
+
+” ;
+
+### 75)
+
+w art. 91 dotychczasową treść oznacza się jako ust. 1 i dodaje ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb udzielania wyróżnień funkcjonariuszom, uwzględniając podmioty właściwe w tych sprawach, sposób i terminy przyznawania wyróżnień, okoliczności, w których wyróżnienia nie mogą być przyznawane, oraz wzory dokumentów w tych sprawach.
+
+” ;
+
+### 76)
+
+po art. 91 dodaje się art. 91a w brzmieniu:
+
+„
+
+### Art. 91a.
+
+### 1.
+
+Funkcjonariusze oraz pracownicy Straży Granicznej są obowiązani złożyć oświadczenie o stanie majątkowym swoim, swoich małżonków oraz osób pozostających we wspólnym gospodarstwie domowym przy nawiązaniu lub rozwiązaniu stosunku służbowego lub stosunku pracy oraz na żądanie Komendanta Głównego Straży Granicznej lub właściwych komendantów oddziałów Straży Granicznej.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania w sprawach oświadczeń, o których mowa w ust. 1, a także wzór oświadczenia wraz z objaśnieniami co do miejsca i terminu jego składania oraz odpowiedzialności za podanie informacji niezgodnych ze stanem faktycznym. Rozporządzenie powinno określić zakres danych objętych oświadczeniem, dotyczących małżonka oraz osób pozostających we wspólnym gospodarstwie domowym z funkcjonariuszem lub pracownikiem.
+
+” ;
+
+### 77)
+
+w art. 92:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli w miejscowości, w której funkcjonariusz pełni służbę, lub w miejscowości pobliskiej nie ma możliwości zrealizowania prawa, o którym mowa w ust. 1, funkcjonariusz może otrzymać tymczasową kwaterę na okres pełnienia służby w tej miejscowości.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Miejscowością pobliską, o której mowa w ust. 1, jest miejscowość, z której czas dojazdu do miejsca pełnienia służby i z powrotem środkami publicznego transportu zbiorowego, zgodnie z rozkładem jazdy, łącznie z przesiadkami lub środkami transportu Straży Granicznej nie przekracza łącznie w obie strony dwóch godzin, licząc od stacji (przystanku) położonej najbliżej miejsca zamieszkania do stacji (przystanku) położonej najbliżej miejsca pełnienia służby, bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której funkcjonariusz dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe.
+
+” ;
+
+### 78)
+
+w art. 93 w pkt 3 wyraz „inwalidztwo” zastępuje się wyrazami „niezdolność do pracy”;
+
+### 79)
+
+w art. 94:
+
+### a)
+
+w ust. 1 wyrazy „Ministra Spraw Wewnętrznych” zastępuje się wyrazami „ministra właściwego do spraw wewnętrznych”, a wyrazy „Ministrowi Spraw Wewnętrznych” zastępuje się wyrazami „ministrowi właściwemu do spraw wewnętrznych”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Na kwatery tymczasowe przeznacza się lokale mieszkalne albo pomieszczenia mieszkalne w należytym stanie technicznym i sanitarnym, które znajdują się w budynkach na terenie zamkniętym lub w budynkach przeznaczonych na cele służbowe.
+
+” ,
+
+### c)
+
+skreśla się ust. 3-5;
+
+### 80)
+
+w art. 95 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, warunki przyznawania i zwracania równoważnika, o którym mowa w ust. 1, uwzględniając osoby uprawnione do jego otrzymania, wysokość równoważnika, wzory wymaganych dokumentów, podmioty właściwe do jego przyznania i wypłaty lub odmowy przyznania oraz sposób postępowania w przypadku wystąpienia zbiegu uprawnień do jego otrzymania.
+
+” ;
+
+### 81)
+
+w art. 96 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość oraz warunki przyznawania i zwracania równoważnika pieniężnego, o którym mowa w ust. 1, uwzględniając osoby uprawnione do jego otrzymania, wysokość równoważnika, wzory wymaganych dokumentów, podmioty właściwe do jego przyznania i wypłaty lub odmowy przyznania oraz sposób postępowania w przypadku wystąpienia zbiegu uprawnień do jego otrzymania.
+
+” ;
+
+### 82)
+
+w art. 97:
+
+### a)
+
+w ust. 2 wyrazy „państwowymi środkami komunikacji” zastępuje się wyrazami „środkami publicznego transportu zbiorowego”,
+
+### b)
+
+po ust. 2 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki, tryb oraz terminy zwrotu kosztów, o których mowa w ust. 1, uwzględniając w szczególności ich wysokość w odniesieniu do cen biletów za przejazd koleją lub autobusem.
+
+” ;
+
+### 83)
+
+w art. 98 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz warunki przyznawania, cofania oraz zwracania pomocy finansowej, o której mowa w ust. 1, uwzględniając przypadki, w których pomoc ta jest przyznawana, cofana lub podlega zwrotowi, jak również sposób obliczania wysokości pomocy finansowej przyznawanej lub orzekanej do zwrotu, a także rodzaje dokumentów wymaganych przy ubieganiu się o przyznanie tej pomocy.
+
+” ;
+
+### 84)
+
+w art. 101 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki przestrzennej i mieszkalnictwa, określi, w drodze rozporządzenia, warunki przydziału i opróżniania oraz normy zaludnienia lokali mieszkalnych, o których mowa w art. 94, warunki przydziału i opróżniania tymczasowych kwater, a także podmioty właściwe do wydawania decyzji w tych sprawach, uwzględniając funkcjonariuszy uprawnionych do otrzymania lokalu mieszkalnego lub tymczasowej kwatery, wzory wymaganych dokumentów i podmioty właściwe do wydawania decyzji w tych sprawach.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki przestrzennej i mieszkalnictwa oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, warunki najmu lokali mieszkalnych znajdujących się w budynkach będących własnością Skarbu Państwa, pozostających w zarządzie jednostek organizacyjnych podległych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, a także sposób obliczania wysokości czynszu najmu za te lokale, uwzględniając warunki, na jakich następuje najem lokalu, oraz podstawy ustalania wysokości czynszu za najem tych lokali.
+
+” ;
+
+### 85)
+
+art. 105 otrzymuje brzmienie:
+
+„
+
+### Art. 105.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, stawki i grupy uposażenia zasadniczego funkcjonariuszy, zaszeregowanie stanowisk służbowych do poszczególnych grup uposażenia zasadniczego oraz stopni etatowych, a także zasady wzrostu tego uposażenia z tytułu wysługi lat, uwzględniając stawki i grupy uposażenia zasadniczego, charakter i rodzaje stanowisk służbowych w poszczególnych jednostkach organizacyjnych Straży Granicznej, a także przyporządkowanie stanowisk do poszczególnych grup uposażenia zasadniczego oraz odpowiadające tym stanowiskom stopnie etatowe, jak również zasady wzrostu uposażenia zasadniczego z tytułu wysługi lat.
+
+” ;
+
+### 86)
+
+art. 106 otrzymuje brzmienie:
+
+„
+
+### Art. 106.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb zaliczania okresów służby i pracy do wysługi lat uwzględnianej przy ustalaniu wzrostu uposażenia zasadniczego, uwzględniając okresy służby w Straży Granicznej, Urzędzie Ochrony Państwa, Policji, Państwowej Straży Pożarnej, Służbie Więziennej, Siłach Zbrojnych Rzeczypospolitej Polskiej, okresy traktowane jako równorzędne ze służbą w Straży Granicznej, okresy zakończonego zatrudnienia, a także inne okresy wliczane na mocy odrębnych przepisów do okresu pracy, jak również okoliczności wyłączające zaliczenie okresu służby lub pracy do wysługi lat, podmioty właściwe do ich zaliczania oraz sposób dokumentowania tych okresów.
+
+” ;
+
+### 87)
+
+w art. 107 w ust. 2 wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „Komendant Główny Straży Granicznej”;
+
+### 88)
+
+w art. 108 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, warunki otrzymywania dodatków do uposażenia, o których mowa w ust. 1, oraz ich wysokość, uwzględniając okoliczności uzasadniające ich przyznanie oraz okresowe podwyższenie lub obniżenie, jak również rodzaje i wysokość dodatków przysługujących funkcjonariuszowi ze względu na szczególne właściwości, kwalifikacje, warunki albo miejsce pełnienia służby.
+
+” ;
+
+### 89)
+
+art. 109 otrzymuje brzmienie:
+
+„
+
+### Art. 109.
+
+### 1.
+
+Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym są płatne miesięcznie z góry.
+
+### 2.
+
+Wypłata uposażeń oraz innych należności pieniężnych następuje w formie bezpośredniej lub na rachunek w banku wskazanym w formie pisemnej przez funkcjonariusza, a w szczególnie uzasadnionych przypadkach należność może być przesłana na adres wskazany przez funkcjonariusza.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, dodatki o charakterze stałym płatne z dołu, uwzględniając termin oraz tryb ich wypłacania.
+
+” ;
+
+### 90)
+
+w art. 110 w ust. 1 po wyrazie „Zmiana” dodaje się wyraz „wysokości”;
+
+### 91)
+
+w art. 111 w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+każda czynność przed kierownikiem jednostki organizacyjnej Straży Granicznej, upoważnionym do rozpatrywania roszczeń, podjęta bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia roszczenia,
+
+” ;
+
+### 92)
+
+w art. 112 w ust. 3 wyrazy „nagrody i zapomogi” zastępuje się wyrazami „również nagrody i zapomogi, o których mowa w art. 114 ust. 1 i 2”;
+
+### 93)
+
+art. 114 otrzymuje brzmienie:
+
+„
+
+### Art. 114.
+
+### 1.
+
+Funkcjonariuszowi mogą być przyznawane nagrody uznaniowe i zapomogi.
+
+### 2.
+
+Zapomogi mogą być przyznawane funkcjonariuszom w przypadku zdarzeń losowych, klęsk żywiołowych, długotrwałej choroby lub śmierci członka rodziny oraz innych zdarzeń powodujących istotne pogorszenie warunków materialnych.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki przyznawania nagród rocznych, nagród uznaniowych i zapomóg, uwzględniając sposób ustalania okresu służby warunkującego nabycie prawa do nagrody rocznej, wysokość tej nagrody, przesłanki jej obniżenia i przypadki, kiedy nagroda nie przysługuje, termin wypłaty nagrody rocznej, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej, zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw zabezpieczenia społecznego, określi, w drodze rozporządzenia, wysokość funduszu na nagrody roczne, nagrody uznaniowe i zapomogi dla funkcjonariuszy, uwzględniając jednostki organizacyjne Straży Granicznej, w których tworzy się fundusz, sposób ustalania wysokości środków finansowych przeznaczonych na nagrody i zapomogi, zasady zwiększania wysokości funduszu, a także sposób ustalania wielkości środków pozostających w dyspozycji kierowników jednostek organizacyjnych Straży Granicznej, przeznaczonych na nagrody.
+
+” ;
+
+### 94)
+
+w art. 115 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, okresy wliczane do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz tryb jej obliczania i wypłacania, uwzględniając w szczególności okresy służby, pracy i nauki powodujące nabycie prawa do nagrody jubileuszowej, sposób dokumentowania tych okresów, a także obliczania tej nagrody i postępowania w przypadku zbiegu prawa do kilku nagród oraz termin i sposób wypłacania nagrody.
+
+” ;
+
+### 95)
+
+art. 116 otrzymuje brzmienie:
+
+„
+
+### Art. 116.
+
+### 1.
+
+Za wykonywanie zadań zleconych wykraczających poza obowiązki służbowe funkcjonariusz otrzymuje dodatkowe wynagrodzenie.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki otrzymywania wynagrodzenia za zadania określone w ust. 1, uwzględniając rodzaje wykonywanych prac, za które przysługuje dodatkowe wynagrodzenie, jego wysokość oraz terminy wypłaty.
+
+### 3.
+
+Wynagrodzenie za dokonane przez funkcjonariuszy wynalazki, udoskonalenia techniczne i usprawnienia normują odrębne przepisy.
+
+” ;
+
+### 96)
+
+art. 117 otrzymuje brzmienie:
+
+„
+
+### Art. 117.
+
+### 1.
+
+W razie przeniesienia do pełnienia służby do innej miejscowości albo delegowania do czasowego pełnienia służby, funkcjonariuszowi przysługują należności z tytułu podróży służbowych na obszarze kraju.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, wysokość, warunki oraz tryb przyznawania należności, o których mowa w ust. 1, uwzględniając zakres podróży służbowej, sposoby obliczania czasu podróży służbowej oraz rodzaje należności i sposoby ustalania ich wysokości, a także terminy i tryb wypłaty należności i podmioty uprawnione do podejmowania decyzji w tych sprawach.
+
+” ;
+
+### 97)
+
+po art. 117 dodaje się art. 117a i 117b w brzmieniu:
+
+„
+
+### Art. 117a.
+
+W zakresie odbywania przez funkcjonariuszy zagranicznych podróży służbowych stosuje się odpowiednio przepisy w sprawie zasad ustalania oraz wysokości należności przysługujących pracownikom z tytułu podróży służbowej poza granicami kraju.
+
+### Art. 117b.
+
+### 1.
+
+Funkcjonariuszowi, który na podstawie odrębnych przepisów wykonuje stałe zadania służbowe poza terytorium Rzeczypospolitej Polskiej, przysługuje ryczałt na pokrycie kosztów wyżywienia i innych drobnych wydatków. Stałe wykonywanie zadań służbowych poza terytorium Rzeczypospolitej Polskiej, w wymiarze czasu nieprzekraczającym 24 godzin, nie stanowi podróży służbowej w rozumieniu przepisów, o których mowa w art. 117a.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, walutę, w jakiej będzie wypłacany ryczałt, sposób obliczania i wypłacania oraz wysokość ryczałtu, o którym mowa w ust. 1, uwzględniając przy obliczaniu wysokości ryczałtu liczbę godzin wykonywania zadań przez funkcjonariusza w ciągu doby.
+
+” ;
+
+### 98)
+
+w art. 118:
+
+### a)
+
+w ust. 1:
+
+- - w zdaniu wstępnym skreśla się wyrazy „art. 42 ust. 4 i”, a wyrazy „3-7” zastępuje się wyrazami „3-8”,
+
+- - w pkt 3 wyrazy „Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „właściwego organu Straży Granicznej”,
+
+- - w pkt 5 kropkę na końcu zastępuje się przecinkiem i dodaje pkt 6 w brzmieniu: „ 6) nagrody, o których mowa w art. 11a ust. 1. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Funkcjonariusz zwolniony ze służby na podstawie art. 45 ust. 1 pkt 3 otrzymuje 50% odprawy oraz ekwiwalent pieniężny za niewykorzystane przed zwolnieniem ze służby urlopy wypoczynkowe.
+
+” ,
+
+### c)
+
+w ust. 3 wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „Minister właściwy do spraw wewnętrznych”,
+
+### d)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób obliczania i wypłacania ekwiwalentu pieniężnego za niewykorzystane przez funkcjonariuszy urlopy wypoczynkowe oraz podmioty właściwe w tych sprawach. Rozporządzenie powinno określić podstawę obliczania ekwiwalentu, wiążąc jego wysokość z liczbą dni niewykorzystanego urlopu, oraz sposób jego wypłaty.
+
+” ;
+
+### 99)
+
+w art. 120 w ust. 1 wyrazy „oraz świadczenia określone w art. 118 ust. 1 pkt 2-4” zastępuje się wyrazami „świadczenia określone w art. 118 ust. 1 pkt 2-4 oraz nagrody, o których mowa w art. 11a ust. 1”;
+
+### 100)
+
+w art. 121 w ust. 3 wyrazy „orzeczenie o inwalidztwie stanowiące podstawę do ustalenia prawa do renty inwalidzkiej” zastępuje się wyrazami „orzeczenie o niezdolności do służby stanowiące podstawę do ustalenia prawa do renty”;
+
+### 101)
+
+w art. 123:
+
+### a)
+
+w ust. 2 i 3 wyrazy „Ministerstwa Spraw Wewnętrznych” zastępuje się wyrazami „właściwego organu Straży Granicznej”,
+
+### b)
+
+w ust. 2 wyrazy „Minister Spraw Wewnętrznych” zastępuje się wyrazami „Komendant Główny Straży Granicznej”;
+
+### 102)
+
+w art. 124 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki pokrywania kosztów pogrzebu funkcjonariusza ze środków właściwego organu Straży Granicznej oraz członków rodziny, na których przysługuje zasiłek pogrzebowy, uwzględniając rodzaje wydatków pokrywanych w ramach kosztów pogrzebu, ich wysokość, przypadki oraz sposób ustalania, tryb wypłaty zasiłku pogrzebowego lub jego wyrównania z tytułu śmierci członka rodziny oraz dokumenty wymagane do jego wypłaty.
+
+” ;
+
+### 103)
+
+w art. 125:
+
+### a)
+
+w ust. 1 wyrazy „bez przydziału służbowego” zastępuje się wyrazami „w dyspozycji”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, warunki ograniczenia w całości lub w części wypłaty niektórych dodatków do uposażenia w okresie choroby, urlopu okolicznościowego lub pozostawania w dyspozycji. Rozporządzenie powinno określić zakres ograniczenia wypłaty dodatków, uwzględniając ich charakter, a także warunki przyznawania dodatków w szczególnych okolicznościach oraz podmioty właściwe w tych sprawach.
+
+” ;
+
+### 104)
+
+art. 126 otrzymuje brzmienie:
+
+„
+
+### Art. 126.
+
+### 1.
+
+Funkcjonariusz skierowany do szkoły lub na przeszkolenie albo na studia w kraju otrzymuje uposażenie oraz inne należności pieniężne.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość oraz warunki wypłaty uposażenia i innych należności pieniężnych, o których mowa w ust. 1, uwzględniając przypadki uprawniające funkcjonariusza skierowanego do szkoły lub na przeszkolenie albo na studia w kraju do otrzymywania uposażenia oraz sposób obliczania zryczałtowanego równoważnika pieniężnego na pokrycie kosztów przejazdu, a także sposób rozliczania podróży służbowych wynikających z odbywanej nauki.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość oraz warunki wypłaty uposażenia i innych należności pieniężnych funkcjonariuszowi skierowanemu do akademii lub innych szkół (na kursy) za granicą, uwzględniając warunki otrzymywania przez funkcjonariusza skierowanego do akademii lub innych szkół (na kursy) za granicą uposażenia, jego wysokość i sposób wypłacania.
+
+” ;
+
+### 105)
+
+w art. 128 w ust. 2 po wyrazie „uchylenia” dodaje się wyrazy „lub ustania z mocy prawa”, a wyraz „wyrokiem” zastępuje się wyrazem „orzeczeniem”;
+
+### 106)
+
+w art. 129 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przepis ust. 2 stosuje się odpowiednio w razie uniewinnienia albo wymierzenia innej kary dyscyplinarnej niż kara wydalenia ze służby w wyniku wznowienia postępowania dyscyplinarnego, w którym kara taka została wymierzona.
+
+” ;
+
+### 107)
+
+w art. 131 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, jednostki organizacyjne właściwe do dokonywania potrąceń z uposażenia oraz tryb postępowania w tych sprawach, uwzględniając przypadki dokonywania potrąceń z uposażenia, w tym potrąceń za zgodą funkcjonariusza i w trybie bezegzekucyjnym, oraz sposób ich dokonywania.
+
+” ;
+
+### 108)
+
+art. 135 otrzymuje brzmienie:
+
+„
+
+### Art. 135.
+
+### 1.
+
+Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za naruszenie dyscypliny służbowej, nieprzestrzeganie zasad etyki zawodowej, a zwłaszcza honoru, godności i dobrego imienia służby, oraz w innych przypadkach określonych w ustawie.
+
+### 2.
+
+Naruszeniem dyscypliny służbowej jest:
+
+### 1)
+
+niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także przepisów niniejszej ustawy i przepisów wydanych na jej podstawie,
+
+### 2)
+
+odmowa wykonania lub niewykonanie rozkazu lub innego polecenia, z zastrzeżeniem przypadku określonego w art. 63 ust. 2,
+
+### 3)
+
+zaniechanie czynności służbowej albo wykonanie jej w sposób niedbały lub nieprawidłowy,
+
+### 4)
+
+niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa,
+
+### 5)
+
+świadome wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie,
+
+### 6)
+
+nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej,
+
+### 7)
+
+porzucenie służby,
+
+### 8)
+
+samowolne oddalenie się z rejonu zakwaterowania bądź nieusprawiedliwione opuszczenie lub niestawienie się do miejsca pełnienia służby,
+
+### 9)
+
+wprowadzenie się w stan ograniczający zdolność wykonywania zadania służbowego albo uniemożliwiający jego wykonanie,
+
+### 10)
+
+umyślne naruszenie dóbr osobistych innego funkcjonariusza w czasie pełnienia służby.
+
+### 3.
+
+Jeżeli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, organ wnioskujący informuje się o wyniku tego postępowania.
+
+” ;
+
+### 109)
+
+w art. 136:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prawomocne wymierzenie kary, o której mowa w ust. 1 pkt 9, powoduje zakaz przyjęcia do Straży Granicznej przez okres 10 lat.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W stosunku do funkcjonariuszy w służbie kandydackiej oprócz kar wymienionych w ust. 1 można ponadto orzec zakaz opuszczania miejsca zakwaterowania na okres nie dłuższy niż 15 dni.
+
+” ,
+
+### c)
+
+w ust. 4 po wyrazach „obniżenia stopnia” stawia się kropkę, a wyrazy „a w sprawach o wykroczenia w ruchu drogowym - z zakazem prowadzenia pojazdów mechanicznych i innych pojazdów.” skreśla się;
+
+### 110)
+
+po art. 136 dodaje się art. 136a i 136b w brzmieniu:
+
+„
+
+### Art. 136a.
+
+### 1.
+
+Obwiniony ma prawo korzystania z pomocy obrońcy.
+
+### 2.
+
+Obrońcą w postępowaniu dyscyplinarnym może być funkcjonariusz Straży Granicznej wskazany przez obwinionego. Obrońca jest uprawniony do reprezentowania obwinionego w granicach udzielonego na piśmie pełnomocnictwa.
+
+### Art. 136b.
+
+### 1.
+
+Wymierzanie kar dyscyplinarnych, z zastrzeżeniem art. 59, należy do:
+
+### 1)
+
+komendantów oddziałów, komendantów ośrodków szkolenia, Komendanta Granicznej Placówki Kontrolnej Warszawa-Okęcie oraz kierowników jednostek organizacyjnych Komendy Głównej,
+
+### 2)
+
+Komendanta Głównego Straży Granicznej.
+
+### 2.
+
+Wymierzenie kary, o której mowa w art. 136 ust. 1 pkt 9, należy do wyłącznej właściwości Komendanta Głównego Straży Granicznej.
+
+### 3.
+
+Od orzeczenia dyscyplinarnego wydanego w pierwszej instancji przez podmioty, o których mowa w ust. 1 pkt 1, odwołanie przysługuje do Komendanta Głównego Straży Granicznej.
+
+### 4.
+
+Od orzeczenia dyscyplinarnego wydanego w pierwszej instancji przez Komendanta Głównego Straży Granicznej odwołanie przysługuje do ministra właściwego do spraw wewnętrznych.
+
+### 5.
+
+Na orzeczenie kończące postępowanie dyscyplinarne funkcjonariuszom przysługuje skarga do Naczelnego Sądu Administracyjnego.
+
+### 6.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przeprowadzania postępowania dyscyplinarnego, przesłanki wymierzania kar, ich wykonywanie, tryb odwoływania się od kar, a także właściwość przełożonych w sprawach dyscyplinarnych, uwzględniając zakres władzy dyscyplinarnej przełożonych, przypadki, w których postępowania dyscyplinarnego nie wszczyna się, czas trwania postępowania dyscyplinarnego, prawa obwinionego, podstawy zawieszania postępowania oraz okoliczności jego wznawiania, rodzaje wydanych orzeczeń, a także dokumenty wymagane w tych sprawach.
+
+” ;
+
+### 111)
+
+w art. 137:
+
+### a)
+
+w ust. 1 wyrazy „w art. 141” zastępuje się wyrazami „w art. 136b ust. 1”,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przepisu ust. 2 nie stosuje się przy wymierzaniu kary dyscyplinarnej w wyniku wznowienia postępowania dyscyplinarnego, pod warunkiem że kara ta nie jest wyższa od kary dyscyplinarnej wymierzonej w postępowaniu, które zostało wznowione.
+
+” ,
+
+### d)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku gdy czyn, o którym mowa w ust. 1, stanowi jednocześnie przestępstwo albo wykroczenie, przedawnienie karalności dyscyplinarnej następuje z upływem okresu przedawnienia karalności przestępstwa albo wykroczenia.
+
+” ;
+
+### 112)
+
+po art. 137 dodaje się art. 137a w brzmieniu:
+
+„
+
+### Art. 137a.
+
+### 1.
+
+Zatarcie kary dyscyplinarnej polega na uznaniu kary za niebyłą, usunięciu z akt osobowych funkcjonariusza orzeczenia o ukaraniu oraz uczynieniu nieczytelnym zapisu o karalności.
+
+### 2.
+
+Kary dyscyplinarne ulegają zatarciu po upływie następujących okresów od dnia ich wykonania:
+
+### 1)
+
+6 miesięcy - kary, o których mowa w art. 136 ust. 1 pkt 1 i ust. 3,
+
+### 2)
+
+12 miesięcy - kary, o których mowa w art. 136 ust. 1 pkt 2-4,
+
+### 3)
+
+24 miesięcy - kary, o których mowa w art. 136 ust. 1 pkt 5-7,
+
+### 4)
+
+36 miesięcy - kara, o której mowa w art. 136 ust. 1 pkt 8.
+
+### 3.
+
+Kara dyscyplinarna, w przypadku wykazania przez funkcjonariusza odwagi lub szczególnych osiągnięć w wykonywaniu zadań służbowych, może ulec zatarciu przed upływem okresów, o których mowa w ust. 2. Okresy te mogą być skrócone nie więcej niż o jedną trzecią.
+
+### 4.
+
+Jeżeli funkcjonariusz zostanie ponownie ukarany przed zatarciem poprzednio wymierzonej kary dyscyplinarnej, okres wymagany do zatarcia tej kary liczy się od dnia wykonania nowej kary.
+
+### 5.
+
+W przypadku określonym w art. 136 ust. 4 zatarcie kar następuje z upływem terminu przewidzianego dla kary surowszej.
+
+” ;
+
+### 113)
+
+w art. 138 dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Jeżeli postępowanie dyscyplinarne prowadzone przeciwko funkcjonariuszowi, za czyn będący wykroczeniem podlegającym rozpoznaniu w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia, zostanie umorzone w związku ze zwolnieniem funkcjonariusza ze służby, właściwość do rozpoznania sprawy przechodzi na organ powołany do rozstrzygania w sprawach o wykroczenia.
+
+” ;
+
+### 114)
+
+skreśla się art. 141;
+
+### 115)
+
+skreśla się art. 142;
+
+### 116)
+
+art. 143 otrzymuje brzmienie:
+
+„
+
+### Art. 143.
+
+Komendant Główny Straży Granicznej określi, w drodze zarządzenia, po zasięgnięciu opinii związku zawodowego funkcjonariuszy Straży Granicznej, zasady etyki zawodowej funkcjonariuszy, uwzględniając w szczególności zasady określone w rozdziale 3.
+
+” ;
+
+### 117)
+
+skreśla się art. 146a;
+
+### 118)
+
+po art. 147a dodaje się art. 147b w brzmieniu:
+
+„
+
+### Art. 147b.
+
+### 1.
+
+Kto, będąc obowiązany do złożenia oświadczenia, o którym mowa w art. 91a, podaje w nim nieprawdę, podlega karze pozbawienia wolności do lat 5.
+
+### 2.
+
+W przypadku mniejszej wagi sprawca czynu określonego w ust. 1 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+” ;
+
+### 119)
+
+art. 153 otrzymuje brzmienie:
+
+„
+
+### Art. 153.
+
+### 1.
+
+Poborowego skierowanego za jego zgodą do służby w Straży Granicznej mianuje się funkcjonariuszem w służbie kandydackiej na okres równy okresowi zasadniczej służby wojskowej.
+
+### 2.
+
+Funkcjonariusze w służbie kandydackiej mogą pełnić służbę graniczną, prowadzić działania graniczne i wykonywać czynności administracyjno-porządkowe. Funkcjonariusze ci pełnią służbę w systemie skoszarowanym.
+
+### 3.
+
+W przypadku wyrażenia zgody na pełnienie służby przygotowawczej w Straży Granicznej przez funkcjonariusza pełniącego służbę kandydacką, Komendant Główny Straży Granicznej na wniosek komendanta oddziału Straży Granicznej może skrócić okres służby kandydackiej o jedną trzecią.
+
+### 4.
+
+Okres służby kandydackiej zalicza się do okresu służby przygotowawczej, jeżeli przerwa pomiędzy służbą kandydacką a podjęciem służby przygotowawczej nie przekracza trzech miesięcy.
+
+### 5.
+
+Przepisy rozdziałów 8, 10, 11, 13 i 14, dotyczące funkcjonariuszy w służbie przygotowawczej, stosuje się również do funkcjonariuszy w służbie kandydackiej, z wyjątkiem przepisów art. 72, 77 ust. 6, art. 86, 87 ust. 4, art. 112 ust. 1, art. 117, 118, 119 ust. 4 i art. 124.
+
+### 6.
+
+Funkcjonariuszowi w służbie kandydackiej przysługuje w okresie tej służby prawo do płatnego urlopu wypoczynkowego w wymiarze łącznie 20 dni kalendarzowych.
+
+### 7.
+
+Funkcjonariuszowi w służbie kandydackiej przysługuje zwrot kosztów podróży na trasie od stałego miejsca pełnienia służby do miejscowości stanowiącej cel podróży i z powrotem.
+
+### 8.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki zwrotu kosztów podróży, o których mowa w ust. 7. Rozporządzenie powinno określić rodzaje środków transportu, którymi przejazd uprawnia do zwrotu kosztów podróży, podstawę obliczania należności z tego tytułu oraz terminy ich wypłaty.
+
+### 9.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, organizację służby w systemie skoszarowanym oraz sposoby jej pełnienia. Rozporządzenie powinno określić podmioty właściwe w sprawach organizacji służby w systemie skoszarowanym, dzienny tok służby oraz rodzaje przepustek przysługujących funkcjonariuszom.
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej ([Dz. U. Nr 78, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1990/461/text.html), z [1997 r. Nr 6, poz. 31](https://api.sejm.gov.pl/eli/acts/DU/1997/31/text.html)i [Nr 43, poz. 271](https://api.sejm.gov.pl/eli/acts/DU/1997/271/text.html)oraz z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html)i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html)) w art. 11 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 2 wyrazy „ochrony granicy państwowej” zastępuje się wyrazami „Straży Granicznej”;
+
+### 2)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W razie niewykonywania obowiązków określonych w ust. 1 i 2 właściwy organ Straży Granicznej może zlecić oczyszczenie tych gruntów i lasów innym podmiotom. Przepis art. 10 ust. 1 zdanie drugie stosuje się odpowiednio.
+
+” ;
+
+### 3)
+
+w ust. 4 wyrazy „z budżetu wojewódzkiego” zastępuje się wyrazami „ze środków zaplanowanych na funkcjonowanie Straży Granicznej”.
+
+### Art. 3.
+
+Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, o której mowa w art. 1, nie dłużej jednak niż przez 12 miesięcy, zachowują moc dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z niniejszą ustawą.
+
+### Art. 4.
+
+Przepisy art. 81 ust. 2 pkt 2, art. 93 pkt 3 oraz art. 121 ust. 3 ustawy, o której mowa w art. 1, stosuje się odpowiednio do osób, które uzyskały prawo do I lub II grupy inwalidów przed dniem wejścia w życie ustawy z dnia 28 czerwca 1996 r. o zmianie niektórych ustaw o zaopatrzeniu emerytalnym i o ubezpieczeniu społecznym ([Dz. U. Nr 100, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1996/461/text.html)).
+
+### Art. 5.
+
+Przepisy ustawy, o której mowa w art. 1, stosuje się do spraw dyscyplinarnych niezakończonych prawomocnymi orzeczeniami dyscyplinarnymi w dniu jej wejścia w życie.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 17 i 18, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia,
+
+### 2)
+
+art. 1 pkt 97 w części dotyczącej art. 117b, który wchodzi w życie z dniem 1 stycznia 2002 r.

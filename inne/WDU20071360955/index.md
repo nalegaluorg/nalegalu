@@ -8,11 +8,9 @@ pos: 955
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
-
-*USTAWA z dnia 15 czerwca 2007 r.*
+# Ustawa z dnia 15 czerwca 2007 r. o zmianie ustawy o finansowym wsparciu rodzin w nabywaniu własnego mieszkania
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,24 @@ domain: null
 | Data ogłoszenia | 2007-06-15 |
 | Data wydania | 2007-07-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/955/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/955/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/955) |
 
-**Art. 1.** W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin w nabywaniu własnego mieszkania (Dz. U. Nr 183, poz. 1354) w art. 2 pkt 7 otrzymuje brzmienie: „7) średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych – iloczyn współczynnika 1,3 oraz średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2005 r. Nr 31, poz. 266, z późn. zm. ), obowiązujących dla gminy, na terenie której położony jest lokal mieszkalny lub dom jednorodzinny, na który ma być udzielony kredyt preferencyjny;”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+W ustawie z dnia 8 września 2006 r. o finansowym wsparciu rodzin w nabywaniu własnego mieszkania ([Dz. U. Nr 183, poz. 1354](https://api.sejm.gov.pl/eli/acts/DU/2006/1354/text.html)) w art. 2 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych - iloczyn współczynnika 1,3 oraz średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego ([Dz. U. z 2005 r. Nr 31, poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2005/266/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902.](#gloss-0:1:)), obowiązujących dla gminy, na terenie której położony jest lokal mieszkalny lub dom jednorodzinny, na który ma być udzielony kredyt preferencyjny;
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 69, poz. 626, z 2006 r. Nr 86, poz. 602, Nr 167, poz. 1193 i Nr 249, poz. 1833 oraz z 2007 r. Nr 128, poz. 902.

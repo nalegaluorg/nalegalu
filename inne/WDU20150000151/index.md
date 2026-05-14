@@ -8,9 +8,9 @@ pos: 151
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie o biokomponentach biopaliwach ciekłych niektórych innych ustaw
+# Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy o biokomponentach i biopaliwach ciekłych oraz niektórych innych ustaw [1) Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,17 +22,708 @@ domain: null
 | Data ogłoszenia | 2015-01-15 |
 | Data wydania | 2015-01-28 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000151) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/151/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/151/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/151) |
 
-**Art. 1.** W ustawie dnia 25 sierpnia 2006 o biokomponentach biopaliwach ciekłych (Dz. 1643) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 3.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. 1232, późn. zm. ) wprowadza się następujące zmiany:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej oraz ustawę z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków.](#gloss-0:2:)
 
-**Art. 4.** W ustawie dnia 15 kwietnia 2011 o efektywności energetycznej (Dz. Nr 94, 551, późn. zm. ) odnośniku nr 1 pkt 2 kropkę zastępuje się średnikiem dodaje się pkt 3 brzmieniu: „3) częściowo dyrektywy Parlamentu Europejskiego Rady 2009/28/WE dnia 23 kwietnia 2009 sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej następstwie uchylającej dyrektywy 2001/77/WE 2003/30/WE (Dz. Urz. UE L 140 05.06.2009, str. 16, późn. zm.).”.
+### Art. 1.
 
-**Art. 5.** W ustawie dnia 29 sierpnia o charakterystyce energetycznej budynków (Dz. 1200) wprowadza się następujące zmiany:
+W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych ([Dz. U. z 2014 r. poz. 1643](https://api.sejm.gov.pl/eli/acts/DU/2014/1643/text.html)) wprowadza się następujące zmiany:
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 5 zmienianej art. 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 22 5 zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+### 1)
 
-**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+odnośnik nr 1 otrzymuje brzmienie: „ 1) Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.). ” ;
 
+### 2)
+
+w art. 2 w ust. 1:
+
+### a)
+
+pkt 33 otrzymuje brzmienie:
+
+„
+
+### 33)
+
+uznany system certyfikacji - system certyfikacji gwarantujący spełnienie kryteriów zrównoważonego rozwoju określonych w art. 28b-28bc, zatwierdzony przez Komisję Europejską w drodze decyzji;
+
+” ,
+
+### b)
+
+pkt 39 i 40 otrzymują brzmienie:
+
+„
+
+### 39)
+
+świadectwo - dokument wystawiany przez podmiot realizujący Narodowy Cel Wskaźnikowy potwierdzający, że wskazana w tym dokumencie ilość biokomponentów, zawartych w sprzedanych przez ten podmiot lub zbytych w innej formie na terytorium Rzeczypospolitej Polskiej lub zużytych na tym terytorium na potrzeby własne paliwach ciekłych lub biopaliwach ciekłych, spełnia kryteria zrównoważonego rozwoju określone w art. 28b-28bc;
+
+### 40)
+
+poświadczenie - dokument przewidziany przez uznany system certyfikacji lub umowę, o której mowa w art. 28c ust. 2 pkt 2, potwierdzający, że wskazana w tym dokumencie ilość biomasy lub biokomponentów spełnia kryteria zrównoważonego rozwoju określone w art. 28b-28bc;
+
+” ;
+
+### 3)
+
+w art. 22:
+
+### a)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Certyfikat jakości biokomponentu wydaje się na wniosek podmiotu w terminie 21 dni od dnia złożenia wniosku. Wniosek zawiera w szczególności informacje o rodzaju biokomponentu przewidzianego do wprowadzenia do obrotu lub wykorzystania przez producentów do wytwarzania paliw ciekłych lub biopaliw ciekłych oraz nazwę surowców, z których biokomponent jest wytwarzany.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy:
+
+### 1)
+
+zakres informacji, jakie powinien zawierać wniosek o wydanie certyfikatu jakości złożony przez wnioskodawcę, oraz dokumenty, jakie należy do niego dołączyć,
+
+### 2)
+
+zakres danych zawartych w certyfikacie jakości,
+
+### 3)
+
+tryb wydawania certyfikatów jakości przez akredytowane jednostki certyfikujące, o których mowa w ust. 1
+
+- uwzględniając obowiązujące wymagania normalizacyjne i normatywne do przeprowadzania badań i orzekania w sprawach jakości, a także konieczność sprawnego rozpatrywania wniosków.
+
+” ;
+
+### 4)
+
+art. 28a otrzymuje brzmienie:
+
+„
+
+### Art. 28a.
+
+### 1.
+
+Biokomponenty mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, wyłącznie wtedy, gdy:
+
+### 1)
+
+spełniają kryteria zrównoważonego rozwoju określone w art. 28b-28bc;
+
+### 2)
+
+nie zostały wcześniej zaliczone na poczet realizacji obowiązku określonego w art. 3 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE, zwanej dalej „dyrektywą 2009/28/WE”.
+
+### 2.
+
+Biokomponenty wytworzone z odpadów lub pozostałości innych niż odpady lub pozostałości rolnicze, akwakultury i leśne mogą być zaliczone podmiotowi realizującemu Narodowy Cel Wskaźnikowy na poczet realizacji obowiązku, o którym mowa w art. 23 ust. 1, jeżeli spełniają:
+
+### 1)
+
+kryterium zrównoważonego rozwoju określone w art. 28b;
+
+### 2)
+
+warunek określony w ust. 1 pkt 2.
+
+### 3.
+
+Wsparcie finansowe w zakresie wytwarzania biokomponentów i biopaliw ciekłych oraz ich wykorzystania, pochodzące ze środków publicznych, w tym ze środków funduszy Unii Europejskiej, może zostać udzielone podmiotowi ubiegającemu się o przyznanie wsparcia finansowego, pod warunkiem że biokomponenty i biopaliwa ciekłe, które będą objęte wsparciem, spełniają kryteria zrównoważonego rozwoju określone w art. 28b-28bd.
+
+### 4.
+
+Biokomponenty mogą być zaliczone na poczet realizacji krajowych celów, o których mowa w art. 20a ust. 2 pkt 1 i 1a ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne, wyłącznie wtedy, gdy spełniają one kryteria zrównoważonego rozwoju, o których mowa w art. 28b-28bd.
+
+” ;
+
+### 5)
+
+w art. 28b:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Biokomponenty spełniają kryterium ograniczenia emisji gazów cieplarnianych, jeżeli ograniczenie emisji gazów cieplarnianych wynosi co najmniej: ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku biokomponentów wytworzonych w instalacjach, w których produkcja została rozpoczęta po dniu 31 grudnia 2016 r. kryterium ograniczenia emisji gazów cieplarnianych wynosi co najmniej 60% od dnia 1 stycznia 2018 r.
+
+” ;
+
+### 6)
+
+po art. 28b dodaje się art. 28ba-28bf w brzmieniu:
+
+„
+
+### Art. 28ba.
+
+### 1.
+
+Biokomponenty spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. lub po tym okresie, posiadały następujący status, niezależnie od tego, czy posiadają go nadal:
+
+### 1)
+
+lasów pierwotnych i innych zalesionych gruntów, czyli lasów i innych zalesionych gruntów z gatunkami rodzimymi, gdzie nie istnieją wyraźnie widoczne ślady działalności człowieka, a procesy ekologiczne nie zostały w istotny sposób zaburzone;
+
+### 2)
+
+obszarów wyznaczonych:
+
+### a)
+
+na cele ochrony przyrody, o których mowa w ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2013 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2013/627/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850,](#gloss-0:3:)),
+
+926, 1002, 1101 i 1863.
+
+### b)
+
+do ochrony rzadkich, zagrożonych lub poważnie zagrożonych ekosystemów lub gatunków, które zostały uznane za takie na podstawie umów międzynarodowych lub wykazów sporządzonych przez organizacje międzyrządowe lub Międzynarodową Unię Ochrony Przyrody pod warunkiem uznania ich przez Komisję Europejską zgodnie z art. 18 ust. 4 akapit drugi dyrektywy 2009/28/WE;
+
+### 3)
+
+obszarów trawiastych o wysokiej bioróżnorodności:
+
+### a)
+
+naturalnych, czyli obszarów trawiastych, które pozostaną takimi obszarami jeżeli nie dojdzie do interwencji człowieka i które zachowają naturalny skład gatunkowy oraz cechy i procesy ekologiczne,
+
+### b)
+
+nienaturalnych, czyli obszarów trawiastych, które przestaną być takimi obszarami na skutek braku interwencji człowieka i są bogate gatunkowo oraz nie są zdegradowane, chyba że zbiory surowców rolniczych są konieczne, aby mogły zachować status obszarów trawiastych.
+
+### 2.
+
+Uznaje się, że biokomponenty pochodzące z obszarów określonych w ust. 1 pkt 2 spełniają kryterium ochrony terenów o wysokiej wartości bioróżnorodności, pod warunkiem, że zainteresowany podmiot przedstawi dowody, że produkcja biomasy wykorzystanej do ich wytworzenia nie narusza celów ochrony przyrody.
+
+### Art. 28bb.
+
+### 1.
+
+Biokomponenty spełniają kryterium ochrony terenów zasobnych w duże ilości pierwiastka węgla, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z takich terenów.
+
+### 2.
+
+Do terenów zasobnych w duże ilości pierwiastka węgla zalicza się tereny, które w okresie od 1 do 31 stycznia 2008 r. posiadały jeden z poniższych statusów, ale już go nie posiadają:
+
+### 1)
+
+terenów podmokłych, które są pokryte lub nasączone wodą stale lub przez znaczną część roku;
+
+### 2)
+
+obszarów stale zalesianych, czyli obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i pokryciem powierzchni przez korony drzew powyżej 30%, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania;
+
+### 3)
+
+obszarów obejmujących więcej niż 1 ha z drzewami o wysokości powyżej 5 metrów i z pokryciem powierzchni przez korony drzew pomiędzy 10% a 30%, lub drzewami mogącymi osiągnąć te wartości w miejscu ich naturalnego występowania, z wyjątkiem sytuacji, gdy przedstawiono dowody, że obszar ten przed i po przekształceniu magazynuje taką ilość pierwiastka węgla, że stosując metodykę określoną w pkt II.3. załącznika do ustawy, zostałoby spełnione kryterium określone w art. 28b.
+
+### 3.
+
+Przepisów ust. 2 nie stosuje się, jeżeli w czasie pozyskiwania biomasy teren posiadał ten sam status co w okresie od 1 do 31 stycznia 2008 r.
+
+### Art. 28bc.
+
+Biokomponenty spełniają kryterium ochrony torfowisk, jeżeli biomasa wykorzystywana do ich wytwarzania nie pochodzi z terenów, które w okresie od 1 do 31 stycznia 2008 r. były torfowiskami, chyba że przy uprawie i zbiorach biomasy nie stosowano melioracji uprzednio niemeliorowanych gleb.
+
+### Art. 28bd.
+
+Biokomponenty spełniają kryterium zrównoważonej gospodarki rolnej, jeżeli uprawa biomasy wykorzystywanej do ich wytwarzania, w ramach działalności rolniczej, prowadzona była zgodnie z:
+
+### 1)
+
+wymogami w obszarze:
+
+### a)
+
+„Środowisko, zmiana klimatu, utrzymanie gruntów w dobrej kulturze rolnej” - wymogi podstawowe w zakresie zarządzania SMR 1, SMR 2 i SMR 3,
+
+### b)
+
+„Zdrowie publiczne, zdrowie zwierząt i zdrowie roślin” - wymóg podstawowy w zakresie zarządzania SMR 10
+
+- określonymi w załączniku II do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1306/2013 z dnia 17 grudnia 2013 r. w sprawie finansowania wspólnej polityki rolnej, zarządzania nią i monitorowania jej oraz uchylającego rozporządzenia Rady (EWG) nr 352/78, (WE) nr 165/94, (WE) nr 2799/98, (WE) nr 814/2000, (WE) nr 1290/2005 i (WE) nr 485/2008 ([Dz. Urz. UE L 347 z 20.12.2013, str. 549](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 1306/2013”, oraz
+
+### 2)
+
+minimalnymi normami w zakresie dobrej kultury rolnej zgodnej z ochroną środowiska, określonymi na podstawie art. 94 rozporządzenia nr 1306/2013.
+
+### Art. 28be.
+
+### 1.
+
+Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28b-28bc, odbywa się przez system bilansu masy.
+
+### 2.
+
+Podmioty certyfikowane są obowiązane wdrożyć system bilansu masy, który:
+
+### 1)
+
+umożliwia mieszanie partii biomasy albo biokomponentów o różnym stopniu zrównoważenia;
+
+### 2)
+
+w przypadku, o którym mowa w pkt 1, pozwala określić stopień zrównoważenia oraz wielkość poszczególnych partii biomasy albo biokomponentów;
+
+### 3)
+
+zapewnia, że suma wszystkich partii biomasy albo biokomponentów wyprowadzonych z mieszanki posiada ten sam stopień zrównoważenia i jest równa sumie wszystkich partii biomasy albo biokomponentów wprowadzonych do tej mieszanki.
+
+### Art. 28bf.
+
+### 1.
+
+Sposób weryfikacji spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28ba-28bc, zgodnie z systemem bilansu masy, o którym mowa w art. 28be, określa uznany system certyfikacji.
+
+### 2.
+
+Wykazanie spełnienia kryteriów zrównoważonego rozwoju, określonych w art. 28b-28bc, przez podmioty realizujące Narodowy Cel Wskaźnikowy odbywa się w szczególności zgodnie z art. 28i i art. 30b ust. 1a.
+
+### 3.
+
+Weryfikacja spełnienia wymogów i minimalnych norm, o których mowa w art. 28bd, jest prowadzona przez Agencję Restrukturyzacji i Modernizacji Rolnictwa w ramach przyznawania płatności bezpośrednich na podstawie przepisów o płatnościach w ramach systemów wsparcia bezpośredniego.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2012 r. poz. 1059](https://api.sejm.gov.pl/eli/acts/DU/2012/1059/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490,](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w odnośniku nr 1:
+
+### a)
+
+uchyla się pkt 5,
+
+### b)
+
+w pkt 6 kropkę zastępuje się średnikiem i dodaje pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+” ;
+
+### 2)
+
+w art. 9a:
+
+### a)
+
+po ust. 7 dodaje się ust. 7a-7c w brzmieniu:
+
+„
+
+### 7a.
+
+W przypadku ciepła wytworzonego z biopłynów, przedsiębiorstwo energetyczne, o którym mowa w ust. 7, jest obowiązane do zakupu tego ciepła pod warunkiem, że biopłyny spełniają kryteria zrównoważonego rozwoju, o których mowa w art. 28b-28bd ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, zwanej dalej „ustawą o biokomponentach i biopaliwach ciekłych”.
+
+### 7b.
+
+Podmiot oferujący ciepło wytworzone z biopłynów przedsiębiorstwu energetycznemu, o którym mowa w ust. 7, potwierdza spełnienie kryteriów zrównoważonego rozwoju, o których mowa w:
+
+### 1)
+
+art. 28b-28bc ustawy o biokomponentach i biopaliwach ciekłych - dokumentami określonymi w art. 28c ust. 1 pkt 2 lub ust. 2 pkt 1 tej ustawy;
+
+### 2)
+
+art. 28bd ustawy o biokomponentach i biopaliwach ciekłych - poprzez oświadczenie o następującej treści: „Oświadczam, że biopłyny wykorzystane do wytworzenia ciepła spełniają kryterium zrównoważonej gospodarki rolnej, o którym mowa w art. 28bd ustawy o biokomponentach i biopaliwach ciekłych.”.
+
+### 7c.
+
+Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28b-28bc ustawy o biokomponentach i biopaliwach ciekłych, odbywa się przez system bilansu masy, o którym mowa w art. 9s1 ust. 5.
+
+” ,
+
+### b)
+
+w ust. 8b pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+poziom zagospodarowania dostępnych ilości metanu uwalnianego i ujmowanego przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego oraz gazu uzyskiwanego z przetwarzania biomasy w rozumieniu art. 2 ust. 1 pkt 2 ustawy o biokomponentach i biopaliwach ciekłych.
+
+” ;
+
+### 3)
+
+w art. 9e w ust. 4 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+w przypadku biopłynów, dokumenty określone w art. 28c ust. 1 pkt 2 lub ust. 2 pkt 1 ustawy o biokomponentach i biopaliwach ciekłych, potwierdzające spełnienie kryteriów zrównoważonego rozwoju, o których mowa w art. 28b-28bc tej ustawy.
+
+” ;
+
+### 4)
+
+art. 9s1 otrzymuje brzmienie:
+
+„
+
+### Art. 9s1.
+
+### 1.
+
+Biopłyny mogą być zaliczone na poczet realizacji krajowego celu, o którym mowa w art. 20a ust. 2 pkt 1, wyłącznie wtedy, gdy spełniają one kryteria zrównoważonego rozwoju, o których mowa w art. 28b-28bd ustawy o biokomponentach i biopaliwach ciekłych. 900, 942, 1101 i 1662.
+
+### 2.
+
+Wsparcie finansowe w zakresie produkcji i wykorzystania biopłynów, pochodzące ze środków publicznych, w tym środków funduszy Unii Europejskiej, może zostać udzielone podmiotowi ubiegającemu się o przyznanie wsparcia finansowego, pod warunkiem, że biopłyny objęte wsparciem, spełniają kryteria zrównoważonego rozwoju, o których mowa w art. 28b-28bd ustawy o biokomponentach i biopaliwach ciekłych.
+
+### 3.
+
+Wykazanie, że biopłyny spełniają kryteria zrównoważonego rozwoju, o których mowa w art. 28b-28bc ustawy o biokomponentach i biopaliwach ciekłych, odbywa się na podstawie dokumentów określonych w art. 28c ust. 1 pkt 2 lub ust. 2 pkt 1 tej ustawy.
+
+### 4.
+
+Potwierdzenie spełnienia kryteriów zrównoważonego rozwoju, o których mowa w art. 28b-28bc ustawy o biokomponentach i biopaliwach ciekłych, odbywa się przez system bilansu masy.
+
+### 5.
+
+W przypadku biopłynów, przedsiębiorstwo energetyczne, o którym mowa w art. 9e ust. 3, jest obowiązane wdrożyć system bilansu masy, który:
+
+### 1)
+
+umożliwia mieszanie partii biomasy albo biopłynów o różnym stopniu zrównoważenia;
+
+### 2)
+
+w przypadku, o którym mowa w pkt 1, pozwala określić stopień zrównoważenia oraz wielkość poszczególnych partii biomasy albo biopłynów;
+
+### 3)
+
+zapewnia, że suma wszystkich partii biomasy albo biopłynów wyprowadzonych z mieszanki posiada ten sam stopień zrównoważenia i jest równa sumie wszystkich partii biomasy albo biopłynów wprowadzonych do tej mieszanki.
+
+### 6.
+
+W sprawach dotyczących weryfikacji spełnienia przez biopłyny kryteriów zrównoważonego rozwoju, o których mowa w art. 28b-28bd ustawy o biokomponentach i biopaliwach ciekłych, w zakresie nieuregulowanym niniejszą ustawą, stosuje się przepisy ustawy o biokomponentach i biopaliwach ciekłych.
+
+” ;
+
+### 5)
+
+w art. 20a w ust. 2:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+krajowy cel w zakresie udziału energii ze źródeł odnawialnych w końcowym zużyciu energii brutto;
+
+” ,
+
+### b)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+krajowy cel w zakresie udziału energii ze źródeł odnawialnych w transporcie;
+
+” ;
+
+### 6)
+
+w art. 20b ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw gospodarki monitoruje realizację celów krajowych wskazanych w art. 20a ust. 2 pkt 1 i 1a, w szczególności na podstawie danych przekazanych przez Prezesa Urzędu Regulacji Energetyki oraz wyników badań statystycznych prowadzonych zgodnie z programem badań statystycznych statystyki publicznej w rozumieniu art. 2 pkt 7 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej ([Dz. U. z 2012 r. poz. 591](https://api.sejm.gov.pl/eli/acts/DU/2012/591/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662.](#gloss-0:5:)).
+
+” ;
+
+### 7)
+
+po art. 20g dodaje się art. 20ga-20gc w brzmieniu:
+
+„
+
+### Art. 20ga.
+
+### 1.
+
+Minister właściwy do spraw gospodarki jest obowiązany do udostępniania informacji o kosztach i korzyściach wynikających ze stosowania urządzeń i systemów grzewczych, chłodniczych i elektrycznych, wykorzystujących energię ze źródeł odnawialnych.
+
+### 2.
+
+Informacje, o których mowa w ust. 1, udostępnia się w formie ustnej, pisemnej lub elektronicznej.
+
+### Art. 20gb.
+
+Minister właściwy do spraw gospodarki przy udziale jednostek samorządu terytorialnego opracowuje programy informacyjne, doradcze lub szkoleniowe informujące społeczeństwo o korzyściach i rozwiązaniach praktycznych związanych z rozwojem i wykorzystaniem energii ze źródeł odnawialnych.
+
+### Art. 20gc.
+
+Minister właściwy do spraw gospodarki zapewnia dostęp do informacji i wytycznych o sposobach optymalnego połączenia odnawialnych źródeł energii, wysoko efektywnych technologii oraz systemów grzewczych i chłodniczych.
+
+” ;
+
+### 8)
+
+w art. 51 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Projektowanie, produkcja, import, budowa oraz eksploatacja urządzeń i instalacji wykorzystujących do wytwarzania energii biomasę zastosowanych w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2000 r. Nr 80, poz. 903](https://api.sejm.gov.pl/eli/acts/DU/2000/903/text.html) oraz z [2004 r. Nr 141, poz. 1492](https://api.sejm.gov.pl/eli/acts/DU/2004/1492/text.html)), zapewniają sprawność przemiany energetycznej wynoszącą co najmniej 85%, a zastosowanych w instalacjach przemysłowych co najmniej 70%, o ile jest to uzasadnione technicznie lub ekonomicznie. Przepis ust. 1 stosuje się.
+
+” ;
+
+### 9)
+
+w art. 52:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Producenci i importerzy urządzeń, w tym urządzeń wykorzystujących energię z odnawialnych źródeł energii, określają w dokumentacji technicznej wielkość zużycia paliw i energii, odniesioną do uzyskiwanej wielkości efektu użytkowego urządzenia w typowych warunkach użytkowania, zwaną dalej „efektywnością energetyczną”.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku instalacji wykorzystujących do wytwarzania energii biomasę, dokumentacja, o której mowa w ust. 1, wskazuje czy w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, zapewni sprawność przemiany energetycznej wynoszącą co najmniej 85%, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70%.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Producenci i importerzy urządzeń wprowadzanych do obrotu:
+
+### 1)
+
+informują na etykiecie i w charakterystyce technicznej o efektywności energetycznej urządzeń, a w przypadku urządzeń, o których mowa w ust. 1a, o sprawności przemiany energetycznej wynoszącej co najmniej 85% w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70%;
+
+### 2)
+
+umieszczają oznaczenia ekologiczne na pompach ciepła zasilanych elektrycznie lub gazowo, na absorpcyjnych pompach ciepła oraz na urządzeniach i instalacjach wykorzystujących do wytworzenia energii elektrycznej lub ciepła energię promieniowania słonecznego;
+
+### 3)
+
+zapewniają w dokumentacji technicznej urządzeń i systemów wytwarzających energię z odnawialnych źródeł energii spełnienie wymagań wynikających z europejskich norm w zakresie oznaczeń ekologicznych i etykiet, o których mowa w pkt 2, oraz z innych systemów referencji technicznych ustanowionych przez europejskie organy normalizacji, w celu skorzystania z uprawnień, o których mowa w art. 9e ust. 3 i art. 9o ust. 3.
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia:
+
+### 1)
+
+wymagania dotyczące dokumentacji technicznej, o której mowa w ust. 1, oraz stosowania etykiet i charakterystyk technicznych, o których mowa w ust. 2 pkt 1,
+
+### 2)
+
+wzory etykiet, o których mowa w ust. 2 pkt 1
+
+- uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o efektywności energetycznej tych urządzeń.
+
+” ,
+
+### e)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, wymagania dotyczące oznaczenia ekologicznego, o którym mowa w ust. 2 pkt 2, uwzględniając konieczność zapewnienia efektywnego użytkowania urządzeń poprzez powszechny dostęp do informacji o tych urządzeniach.
+
+” ;
+
+### 10)
+
+po art. 52 dodaje się art. 52a w brzmieniu:
+
+„
+
+### Art. 52a.
+
+### 1.
+
+W przypadku gdy wsparcie finansowe pochodzące ze środków publicznych, w tym środków funduszy Unii Europejskiej, jest przeznaczone na wspieranie rozwoju:
+
+### 1)
+
+instalacji wykorzystujących do wytwarzania energii biomasę, wsparciem obejmuje się w szczególności technologie o sprawności przemiany energetycznej wynoszącej co najmniej 85% w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy, o której mowa w art. 51 ust. 2, a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70%;
+
+### 2)
+
+pomp ciepła, wsparciem obejmuje się w szczególności pompy ciepła spełniające minimalne wymagania dotyczące oznakowania ekologicznego określone w decyzji Komisji 2007/742/WE z dnia 9 listopada 2007 r. określającej kryteria ekologiczne dotyczące przyznawania wspólnotowego oznakowania ekologicznego pompom ciepła zasilanym elektrycznie, gazowo lub absorpcyjnym pompom ciepła ([Dz. Urz. L 301 z 20.11.2007, str. 14](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
+
+### 3)
+
+instalacji wykorzystujących do wytwarzania ciepła energię promieniowania słonecznego, wsparciem obejmuje się w szczególności technologie oparte na normach europejskich, w tym instalacje podlegające oznakowaniu ekologicznemu, etykietowaniu etykietami energetycznymi.
+
+### 2.
+
+Przy ocenie sprawności przemiany energetycznej oraz stosunku mocy wejściowej do mocy wyjściowej instalacji, o których mowa w ust. 1, zastosowanie mają w szczególności procedury obowiązujące w prawie Unii Europejskiej lub prawie międzynarodowym.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w odnośniku nr 1 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+” ;
+
+### 2)
+
+w art. 401c dodaje się ust. 13 i 14 w brzmieniu:
+
+„
+
+### 13.
+
+W przypadku gdy w ramach zobowiązania, o którym mowa w ust. 5, środki są przeznaczone na wspieranie rozwoju:
+
+### 1)
+
+instalacji wykorzystujących do wytwarzania energii biomasę, wsparciem obejmuje się w szczególności technologie o sprawności przemiany energetycznej wynoszącej co najmniej 85% w przypadku ich zastosowania w samodzielnych lokalach mieszkalnych lub lokalach o innym przeznaczeniu w rozumieniu ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2000 r. Nr 80, poz. 903](https://api.sejm.gov.pl/eli/acts/DU/2000/903/text.html) oraz z [2004 r. Nr 141, poz. 1492](https://api.sejm.gov.pl/eli/acts/DU/2004/1492/text.html)), a w przypadku zastosowania ich w instalacjach przemysłowych co najmniej 70%;
+
+### 2)
+
+pomp ciepła, wsparciem obejmuje się w szczególności pompy ciepła spełniające minimalne wymagania dotyczące oznakowania ekologicznego określone w decyzji Komisji 2007/742/WE z dnia 9 listopada 2007 r. określającej kryteria ekologiczne dotyczące przyznawania wspólnotowego oznakowania ekologicznego pompom ciepła zasilanym elektrycznie, gazowo lub absorpcyjnym pompom ciepła ([Dz. Urz. UE L 301 z 20.11.2007, str. 14](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
+
+### 3)
+
+instalacji wykorzystujących do wytwarzania ciepła energię promieniowania słonecznego, wsparciem obejmuje się w szczególności technologie oparte na normach europejskich, w tym instalacje podlegające oznakowaniu ekologicznemu, etykietowaniu etykietami energetycznymi.
+
+### 14.
+
+Przy ocenie sprawności przemiany energetycznej oraz stosunku mocy wejściowej do mocy wyjściowej instalacji, o których mowa w ust. 13, zastosowanie mają w szczególności procedury obowiązujące w prawie Unii Europejskiej lub prawie międzynarodowym.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej ([Dz. U. Nr 94, poz. 551](https://api.sejm.gov.pl/eli/acts/DU/2011/551/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397.](#gloss-0:7:)) w odnośniku nr 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków ([Dz. U. poz. 1200](https://api.sejm.gov.pl/eli/acts/DU/2014/1200/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+odnośnik nr 1 otrzymuje brzmienie:
+
+„
+
+1) Niniejsza ustawa wdraża postanowienia następujących dyrektyw Unii Europejskiej:
+
+### 1)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2010/31/UE z dnia 19 maja 2010 r. w sprawie charakterystyki energetycznej budynków ([Dz. Urz. UE L 153 z 18.06.2010, str. 13](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+” ;
+
+### 2)
+
+w art. 43 w pkt 1 w odnośniku nr 1 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+częściowo dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE ([Dz. Urz. UE L 140 z 05.06.2009, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+” .
+
+### Art. 6.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22 ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 7.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa w zakresie swojej regulacji dokonuje częściowego wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2009/28/WE z dnia 23 kwietnia 2009 r. w sprawie promowania stosowania energii ze źródeł odnawialnych zmieniającej i w następstwie uchylającej dyrektywy 2001/77/WE oraz 2003/30/WE (Dz. Urz. UE L 140 z 05.06.2009, str. 16, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej oraz ustawę z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 2 oraz z 2014 r. poz. 1161 i 1662. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397.

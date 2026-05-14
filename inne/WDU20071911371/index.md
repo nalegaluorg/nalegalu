@@ -8,11 +8,9 @@ pos: 1371
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw
-
-*USTAWA dnia 7 września 2007 zmianie ustawy przekształceniu prawa nieruchomości niektórych innych ustaw*
+# Ustawa z dnia 7 września 2007 r. o zmianie ustawy o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. - Prawo o notariacie oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,194 @@ domain: null
 | Data ogłoszenia | 2007-09-07 |
 | Data wydania | 2007-10-18 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1371/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/1371/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/1371) |
 
-**Art. 1.** ustawie dnia 29 lipca 2005 przekształceniu prawa nieruchomości (Dz. U. 175, 1459) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** ustawie dnia 14 lutego 1991 – Prawo notariacie (Dz. U. 2002 42, poz.369, późn. zm. ) art. 92 dodaje § 6 brzmieniu: „§ 6. Jeżeli akt notarialny swej treści zawiera przeniesienie nieruchomości dokonane przez osobę, której zostało przekształcone użytkowania nieruchomości podstawie art. 1 1, 2 albo 3 ustawy dnia 29 lipca 2005 przekształceniu prawa użytkowania nieruchomości (Dz. U. 175, 1459 2007 U. 191, 1371), przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać urzędu jego wypis organowi, który wydał decyzję przekształceniu.”.
+### Art. 1.
 
-**Art. 3.** ustawie dnia 28 lipca 2005 kosztach sądowych sprawach cywilnych (Dz. U. 167, 1398, późn. zm. ) art. 95 1 pkt 5 kropkę zastępuje przecinkiem dodaje pkt 6 brzmieniu: „6) wpis księdze wieczystej prawa uzyskanego podstawie przekształcenia, którym mowa art. 1 1a ustawy dnia 29 lipca 2005 przekształceniu prawa nieruchomości (Dz. U. 175, 1459 2007 U. 191,
+W ustawie z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości ([Dz. U. Nr 175, poz. 1459](https://api.sejm.gov.pl/eli/acts/DU/2005/1459/text.html)) wprowadza się następujące zmiany.
 
-**Art. 4.** Do postępowań wszczętych podstawie ustawy, której mowa art. 1, niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy stosuje przepisy brzmieniu nadanym niniejszą ustawą.
+### 1)
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2008
+w art. 1:
 
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą wystąpić również osoby fizyczne będące w dniu wejścia w życie ustawy użytkownikami wieczystymi nieruchomości, niezależnie od jej przeznaczenia, jeżeli użytkowanie wieczyste uzyskały:
+
+### 1)
+
+w zamian za wywłaszczenie lub przejęcie nieruchomości gruntowej na rzecz Skarbu Państwa na podstawie innych tytułów, przed dniem 5 grudnia 1990 r.; 2) na podstawie art. 7 dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze m.st. Warszawy ([Dz. U. Nr 50, poz. 279](https://api.sejm.gov.pl/eli/acts/DU/1945/279/text.html)).
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości mogą również wystąpić osoby fizyczne będące następcami prawnymi osób, o których mowa w ust. 1 i 1a oraz osoby fizyczne i prawne będące następcami prawnymi osób, o których mowa w ust. 2.
+
+” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przepisy ust. 1a pkt 2 i ust. 2 pkt 1 stosuje się również do osób, które prawo użytkowania wieczystego albo udział w tym prawie uzyskały po dniu wejścia w życie ustawy.
+
+” ;
+
+### 2)
+
+art. 4 otrzymuje brzmienie:
+
+„
+
+### Art. 4.
+
+### 1.
+
+Osoba, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości, jest obowiązana do uiszczenia dotychczasowemu właścicielowi opłaty z tytułu tego przekształcenia, z zastrzeżeniem art. 5.
+
+### 2.
+
+W decyzji, o której mowa w art. 3 ust. 1, właściwy organ ustala opłatę z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności. Do ustalenia tej opłaty stosuje się odpowiednio przepisy art. 67 ust. 1 i art. 69 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2004 r. Nr 261, poz. 2603](https://api.sejm.gov.pl/eli/acts/DU/2004/2603/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601 oraz z 2007 r. Nr 173, poz. 1218.](#gloss-0:2:)).
+
+### 3.
+
+Opłatę, o której mowa w ust. 1, rozkłada się, na wniosek użytkownika wieczystego, na raty, na czas nie krótszy niż 10 lat i nie dłuższy niż 20 lat, chyba że wnioskodawca wystąpi o okres krótszy niż 10 lat.
+
+### 4.
+
+Nieuiszczona część opłaty, rozłożonej na raty zgodnie z ust. 3, podlega oprocentowaniu przy zastosowaniu stopy procentowej równej stopie redyskonta weksli stosowanej przez Narodowy Bank Polski.
+
+### 5.
+
+Wojewoda w stosunku do nieruchomości stanowiących własność Skarbu Państwa, a właściwa rada lub sejmik w stosunku do nieruchomości stanowiących własność jednostek samorządu terytorialnego, mogą wyrazić zgodę na zastosowanie, innej niż określona w ust. 4, stopy procentowej.
+
+### 6.
+
+Wierzytelność z tytułu opłaty, o której mowa w ust. 1, podlega zabezpieczeniu hipoteką przymusową na nieruchomości objętej przekształceniem prawa użytkowania wieczystego w prawo własności. W przypadku przekształcenia udziału w prawie użytkowania wieczystego nieruchomości, związanego z odrębną własnością lokalu, hipoteka przymusowa obciąża nieruchomość lokalową osoby, na rzecz której nastąpiło przekształcenie. Podstawą wpisu hipoteki jest ostateczna decyzja, o której mowa w art. 3 ust. 1.
+
+### 7.
+
+Organ właściwy do wydania decyzji może udzielić bonifikaty od opłaty, o której mowa w ust. 1, w odniesieniu do nieruchomości stanowiących własność:
+
+### 1)
+
+Skarbu Państwa - za zgodą wojewody;
+
+### 2)
+
+jednostek samorządu terytorialnego - za zgodą właściwej rady lub sejmiku.
+
+### 8.
+
+Osobie fizycznej, której dochód miesięczny na jednego członka rodziny w gospodarstwie domowym nie przekracza przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej za ostatnie półrocze roku poprzedzającego rok, w którym wystąpiono z żądaniem przekształcenia prawa użytkowania wieczystego w prawo własności nieruchomości, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie odrębnych przepisów, organ właściwy do wydania decyzji udziela, na jej wniosek, 90% bonifikaty od opłaty, o której mowa w ust. 1, jeżeli nieruchomość jest zabudowana na cele mieszkaniowe albo przeznaczona pod tego rodzaju zabudowę.
+
+### 9.
+
+Osobom fizycznym, które prawo użytkowania wieczystego uzyskały przed dniem 5 grudnia 1990 r. oraz ich następcom prawnym, organ właściwy do wydania decyzji udziela, na ich wniosek, 50% bonifikaty od opłaty, o której mowa w ust. 1.
+
+### 10.
+
+W odniesieniu do nieruchomości lub jej części wpisanej do rejestru zabytków, opłatę, o której mowa w ust. 1, obniża się o 50%.
+
+### 11.
+
+Organ właściwy do wydania decyzji może udzielić wyższej, niż określona w ust. 8-10 bonifikaty od opłaty, o której mowa w ust. 1, w odniesieniu do nieruchomości stanowiących własność:
+
+### 1)
+
+Skarbu Państwa - za zgodą wojewody;
+
+### 2)
+
+jednostek samorządu terytorialnego - za zgodą właściwej rady lub sejmiku.
+
+### 12.
+
+W razie zbiegu praw do bonifikat z tytułów, o których mowa w ust. 8-11, stosuje się jedną bonifikatę korzystniejszą dla użytkownika wieczystego.
+
+### 13.
+
+Jeżeli nie wcześniej niż w okresie ostatnich dwóch lat przed dniem złożenia wniosku o przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości była dokonana aktualizacja opłaty rocznej z tytułu użytkowania wieczystego, dla ustalenia opłaty, o której mowa w ust. 1, przyjmuje się wartość nieruchomości określoną dla celów tej aktualizacji.
+
+### 14.
+
+Do wpływów osiąganych z opłat z tytułu przekształcenia stosuje się odpowiednio przepis art. 23 ust. 3 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+### 15.
+
+Organ, o którym mowa w art. 3 ust. 1, żąda zwrotu kwoty równej udzielonej bonifikacie po jej waloryzacji, jeżeli osoba, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości przed upływem 5 lat, licząc od dnia przekształcenia, zbyła lub wykorzystała nieruchomość na inne cele niż cele, które stanowiły podstawę udzielenia bonifikaty. Nie dotyczy to zbycia na rzecz osoby bliskiej w rozumieniu art. 4 pkt 13 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, spółdzielni mieszkaniowej w przypadku ustanowienia odrębnej własności na rzecz członków oraz właścicieli lokali, którym przekształcono udział w prawie użytkowania wieczystego w prawo własności. W szczególnie uzasadnionych przypadkach organ może odstąpić od żądania zwrotu bonifikaty, za zgodą odpowiednio wojewody, rady lub sejmiku.
+
+### 16.
+
+Waloryzacji, o której mowa w ust. 15, dokonuje się według zasad określonych w art. 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+### 17.
+
+W przypadkach, o których mowa w ust. 5, 7, 11 i 15, do wyrażenia zgody przez wojewodę, radę lub sejmik stosuje się odpowiednio przepis art. 11 ust. 2 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+
+” ;
+
+### 3)
+
+art. 5 otrzymuje brzmienie:
+
+„
+
+### Art. 5.
+
+Przekształcenie prawa użytkowania wieczystego w prawo własności nieruchomości na rzecz użytkowników wieczystych, o których mowa w art. 1 ust. 1a, albo ich następców prawnych, następuje nieodpłatnie.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ([Dz. U. z 2002 r. Nr 42, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/2002/369/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 181, poz. 1287.](#gloss-0:3:)) w art. 92 dodaje się § 6 w brzmieniu:
+
+„
+
+### § 6.
+
+Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości ([Dz. U. Nr 175, poz. 1459](https://api.sejm.gov.pl/eli/acts/DU/2005/1459/text.html) oraz z [2007 r. Nr 191, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2007/1371/text.html)), przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ([Dz. U. Nr 167, poz. 1398](https://api.sejm.gov.pl/eli/acts/DU/2005/1398/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849 i Nr 125, poz. 873.](#gloss-0:4:)) w art. 95 w ust. 1 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+o wpis w księdze wieczystej prawa własności uzyskanego na podstawie przekształcenia, o którym mowa w art. 1 ust. 1a ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości ([Dz. U. Nr 175, poz. 1459](https://api.sejm.gov.pl/eli/acts/DU/2005/1459/text.html) oraz z [2007 r. Nr 191, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2007/1371/text.html)).
+
+” .
+
+### Art. 4.
+
+Do postępowań wszczętych na podstawie ustawy, o której mowa w art. 1, i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2008 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 lutego 1991 r. - Prawo o notariacie oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2782, z 2005 r. Nr 130, poz. 1087, Nr 169, poz. 1420 i Nr 175, poz. 1459, z 2006 r. Nr 104, poz. 708 i Nr 220, poz. 1600 i 1601 oraz z 2007 r. Nr 173, poz. 1218. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067, z 2005 r. Nr 163, poz. 1361, Nr 167, poz. 1398, Nr 169, poz. 1417 i Nr 264, poz. 2205, z 2006 r. Nr 218, poz. 1592 i Nr 225, poz. 1635 oraz z 2007 r. Nr 25, poz. 162, Nr 80, poz. 540, Nr 85, poz. 571 i Nr 181, poz. 1287. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876 oraz z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849 i Nr 125, poz. 873.

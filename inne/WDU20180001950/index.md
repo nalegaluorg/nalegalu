@@ -1,0 +1,70 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 8 października 2018 r. w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, określonych w ustawie budżetowej na rok 2018"
+address: WDU20180001950
+eli: DU/2018/1950
+publisher: DU
+year: 2018
+pos: 1950
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Prezesa Rady Ministrówz dnia 8 października 2018 r. w sprawie dokonania przeniesień niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń , określonych w ustawie budżetowej na rok 2018
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1950 |
+| ISAP | WDU20180001950 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-10-08 |
+| Data wydania | 2018-10-11 |
+| Wejście w życie | 2018-10-12 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1950/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1950) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Przeniesienia planowanych wydatków budżetu państwa](#part_2)
+
+- [Załącznik nr 2 - Przeniesienia kwot wynagrodzeń](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 7 ustawy z dnia 13 kwietnia 2018 r. o zmianie ustawy o działach administracji rządowej oraz ustawy o infrastrukturze informacji przestrzennej ([Dz. U. poz. 1090](https://api.sejm.gov.pl/eli/acts/DU/2018/1090/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa przeniesienie niektórych planowanych wydatków budżetu państwa, w tym kwot wynagrodzeń, między częściami budżetu państwa, w zakresie dotyczącym Ministerstwa Cyfryzacji oraz Ministerstwa Inwestycji i Rozwoju, w podziale na części, działy i rozdziały budżetu państwa.
+
+### § 2.
+
+### 1.
+
+Przenosi się planowane wydatki budżetu państwa, w tym wynagrodzenia, z części 27 - Informatyzacja do części 18 - Budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, w kwocie 255 000 zł.
+
+### 2.
+
+Szczegółowy podział planowanych wydatków, o których mowa w ust. 1, określa załącznik nr 1 do rozporządzenia.
+
+### § 3.
+
+W ramach przeniesienia, o którym mowa w § 2 ust. 1, przenosi się także kwoty wynagrodzeń z części 27 - Informatyzacja do części 18 - Budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, zgodnie z załącznikiem nr 2 do rozporządzenia.
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik nr 1 - Przeniesienia planowanych wydatków budżetu państwa
+
+Część Dział Rozdział Paragraf Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 7 18 Budownictwo, planowaniei zagospodarowanieprzestrzenne orazmieszkalnictwo 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000 27 Informatyzacja 255 000 750 Administracja publiczna 255 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 255 000 4000 Grupa wydatków bieżących jednostki 170 000 4020 Wynagrodzenia osobowe członków korpusu służby cywilnej 59 000 4110 Składki na ubezpieczenia społeczne 11 000 4120 Składki na Fundusz Pracy 2000 4170 Wynagrodzenia bezosobowe 12 000 4440 Odpisy na zakładowy fundusz świadczeń socjalnych 1000
+
+## Załącznik nr 2 - Przeniesienia kwot wynagrodzeń
+
+Część Dział Rozdział Wyszczególnienie Zmniejszenia Zwiększenia w zł 1 2 3 4 5 6 18 Budownictwo, planowaniei zagospodarowanie przestrzenneoraz mieszkalnictwo 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000 27 Informatyzacja 59 000 750 Administracja publiczna 59 000 75001 Urzędy naczelnych i centralnych organów administracji rządowej 59 000 Członkowie Korpusu Służby Cywilnej 59 000

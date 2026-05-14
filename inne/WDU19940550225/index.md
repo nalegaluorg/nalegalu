@@ -8,11 +8,9 @@ pos: 225
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o utworzeniu Uniwersytetu Opolskiego
-
-*USTAWA z dnia 10 marca 1994 r.*
+# Ustawa z dnia 10 marca 1994 r. o utworzeniu Uniwersytetu Opolskiego
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +22,114 @@ domain: null
 | Data ogłoszenia | 1994-03-10 |
 | Data wydania | 1994-04-29 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940550225) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/225/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/225/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/225) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:1)(cid:3)(cid:17)(cid:18)(cid:19)(cid:13)(cid:8)(cid:11)(cid:15)(cid:7)(cid:14)(cid:11)(cid:20)(cid:18)(cid:3)(cid:1)(cid:21)(cid:21)(cid:22)(cid:3)(cid:7)(cid:2) Uniwersytet Opolski, zwany dalej "Uniwersytetem". (cid:23)(cid:2)(cid:3)(cid:24)(cid:11)(cid:15)(cid:13)(cid:8)(cid:11)(cid:25)(cid:26)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:30)(cid:15)(cid:10)(cid:28)(cid:3)(cid:16)(cid:11)(cid:18)(cid:10)(cid:28)(cid:6)(cid:3)(cid:31)(cid:17)(cid:6) (cid:15)(cid:2) !(cid:2)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:3)(cid:30)(cid:15)(cid:10)(cid:28)(cid:3)(cid:29)"(cid:8)(cid:15) (cid:14)(cid:11)(cid:26)(cid:3)(cid:17)(cid:18)#(cid:10)(cid:28)(cid:5)(cid:6)(cid:5)(cid:26)(cid:2)
+## Treść ustawy
 
-**Art. 2.** $(cid:6)(cid:13)(cid:10)(cid:28)(cid:18)(cid:5)(cid:6)(cid:5)(cid:9)(cid:16)(cid:3)(cid:20)(cid:11)(cid:15)(cid:7)(cid:29)(cid:14)(cid:20)(cid:11)(cid:15)(cid:16)(cid:3)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:18) (cid:14)(cid:6)&"(cid:11)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:30)(cid:15)(cid:10)(cid:28)(cid:3)(cid:20)(cid:10)(cid:8)(cid:28)(cid:18)%"(cid:15)(cid:14)(cid:11)(cid:15)(cid:3)(cid:6)(cid:7)(cid:18)(cid:8)(cid:3)(cid:17)(cid:7)(cid:6)(cid:5)(cid:18)(cid:13)(cid:8)e(cid:14)(cid:11)(cid:15)(cid:3)(cid:25)(cid:18)(cid:13)(cid:18)#(cid:3)(cid:14)(cid:18)(cid:29)(cid:20)(cid:6)(cid:5)(cid:9)"’(cid:3)(cid:5)(cid:3)(cid:8)(cid:18)(cid:20)(cid:7)(cid:15)(cid:10)(cid:11)(cid:15)(cid:3)(cid:14)(cid:18)(cid:29)(cid:20)(cid:3)’(cid:29)(cid:16)(cid:18)(cid:14)(cid:11)(cid:10)(cid:28)(cid:9)"(cid:8)(cid:14)(cid:9)"’( teologicznych, ekonomicznych, matematyczno-przyrodniczych oraz technicznych.
+### Art. 1.
 
-**Art. 3.** (cid:1)(cid:2)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:3)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:8)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3)(cid:11)(cid:16)(cid:2)(cid:3)$(cid:6)(cid:5)(cid:10)(cid:28)(cid:18)#",(cid:5)(cid:3)- (cid:26)skich w Opolu oraz Instytutu Teologiczno-Pastoralnego w Opolu. (cid:23)(cid:2)(cid:3).(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:8)(cid:14)(cid:6)(cid:10)(cid:11)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:26)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:12)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:26)(cid:3)(cid:5) Opolu. !(cid:2)(cid:3).(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:5)%(cid:18)&"(cid:11)(cid:5)(cid:15)(cid:3)(cid:5)%(cid:18)(cid:13)(cid:8)(cid:15)(cid:3)/(cid:6)&"(cid:11)(cid:6)%(cid:18)(cid:3)/(cid:18)(cid:28)(cid:6) (cid:11)"(cid:20)(cid:11)(cid:15)+(cid:6)(cid:3)(cid:8)(cid:14)(cid:11)o(cid:10)(cid:26)(cid:3)0(cid:14)(cid:10)(cid:28)(cid:9)(cid:28)(cid:29)(cid:28)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:6)1$(cid:18)(cid:10)(cid:28)(cid:6)(cid:7)(cid:18) (cid:14)(cid:9)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:2)
+### 1.
 
-**Art. 4.**
+Tworzy się z dniem 1 października 1994 r. Uniwersytet Opolski, zwany dalej „Uniwersytetem”.
 
-1. Nadzór nad Uniwersytetem sprawuje Minister Edukacji Narodowej. (cid:23)(cid:2)(cid:3))(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:9)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:17)(cid:6)(cid:8)(cid:6)(cid:10)(cid:28)(cid:18)(cid:30)(cid:15)(cid:3)(cid:17)(cid:6)(cid:14)(cid:18)(cid:13)(cid:28)(cid:6)(cid:3)(cid:17)(cid:6)(cid:13)(cid:3)(cid:14)(cid:18)(cid:13)(cid:8)(cid:6)(cid:7)(cid:15)(cid:16)(cid:3)(cid:5)%(cid:18)(cid:13)(cid:8)(cid:3)/ o&"(cid:11)(cid:6)%(cid:18)(cid:3)/(cid:18)(cid:28)(cid:6) (cid:11)"(cid:20)(cid:11)(cid:15)+(cid:6)(cid:3)(cid:5)(cid:3)(cid:8)(cid:18)(cid:20)(cid:7)(cid:15)(cid:10)(cid:11)(cid:15)(cid:3)(cid:29)(cid:10)(cid:28)(cid:18) (cid:6)(cid:14)(cid:9)(cid:16)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:8)(cid:3)(cid:10)(cid:28)(cid:18)(cid:28)(cid:29)(cid:28)(cid:3)(cid:29)"(cid:8)(cid:15) (cid:14)(cid:11)(cid:2)
+### 2.
 
-**Art. 5.** (cid:1)(cid:2)(cid:3)2(cid:11)(cid:15)(cid:14)(cid:11)(cid:15)((cid:3)(cid:6)(cid:25)(cid:15)(cid:30)(cid:16)(cid:29)(cid:30)(cid:26)"(cid:15)(cid:3)(cid:5)%(cid:18)(cid:10)(cid:14)(cid:6)&3(cid:3)(cid:11)(cid:3)(cid:11)(cid:14)(cid:14)(cid:15)(cid:3)(cid:17)(cid:7)(cid:18)(cid:5)(cid:18)(cid:3)(cid:16)(cid:18)(cid:30)(cid:26)(cid:28)(cid:20)(cid:6)(cid:5)(cid:15)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:15)(cid:20)(cid:3)(cid:5)(cid:9)(cid:16)(cid:11)(cid:15)(cid:14)(cid:11)(cid:6)(cid:14)(cid:9)"’ (cid:5)(cid:3)(cid:18)(cid:7)(cid:28)(cid:2)(cid:3)!(cid:3)(cid:29)(cid:10)(cid:28)(cid:2)(cid:3)(cid:1)((cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:15)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:16)(cid:11)(cid:15)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:30)(cid:15)+(cid:6)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:2) (cid:23)(cid:2)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:30)(cid:16)(cid:29)(cid:30)(cid:15)((cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)((cid:3)(cid:17)(cid:7)(cid:18)(cid:5)(cid:18)(cid:3)(cid:11)(cid:3)(cid:8)(cid:6)(cid:25)(cid:6)(cid:5)(cid:11)(cid:26)(cid:8)(cid:18)(cid:14)(cid:11)(cid:18)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:15)(cid:20) wymienionych w art. 3 ust. 1. 3. Stan gospodarki finansowej jednostek wymienionych w art. 3 ust. 1 zostanie wy(cid:20)(cid:18)(cid:8)(cid:18)(cid:14)(cid:9)(cid:3)(cid:5)(cid:3)(cid:25)(cid:11) (cid:18)(cid:14)(cid:10)(cid:18)"’(cid:3)(cid:10)(cid:17)(cid:6)(cid:7)(cid:8)(cid:26)(cid:13)(cid:8)(cid:6)(cid:14)(cid:9)"’(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:8)(cid:3)(cid:28)(cid:15)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:20)(cid:11)(cid:3)(cid:14)(cid:18)(cid:3)(cid:13)(cid:8)(cid:11)(cid:15)#(cid:3)(cid:17)(cid:6)(cid:17)(cid:7)(cid:8)(cid:15)(cid:13)(cid:8)(cid:18)(cid:30)(cid:26)"(cid:9) utworzenie Uniwersytetu.
+Siedzibą Uniwersytetu jest miasto Opole.
 
-**Art. 6.** /(cid:6)(cid:10)(cid:8)(cid:28)(cid:9)(cid:3)(cid:8)(cid:5)(cid:11)(cid:26)(cid:8)(cid:18)(cid:14)(cid:15)(cid:3)(cid:8)(cid:3)(cid:29)(cid:28)(cid:7)(cid:8)(cid:9)(cid:16)(cid:18)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:11)(cid:3)4(cid:29)(cid:14)(cid:20)"(cid:30)(cid:6)(cid:14)(cid:6)(cid:5)(cid:18)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:6)(cid:25)(cid:11)(cid:15)(cid:20)(cid:28),(cid:5)(cid:3)(cid:29)*(cid:9)(cid:28)(cid:20)(cid:6)(cid:5)(cid:18)(cid:14)(cid:9)"’(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:8) )(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:9)(cid:3)(cid:25)(cid:12)(cid:13)(cid:26)(cid:3)(cid:17)(cid:6)(cid:20)(cid:7)(cid:9)(cid:5)(cid:18)(cid:14)(cid:15)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:8)(cid:3)/(cid:6)&"(cid:11),%(cid:3)/(cid:18)(cid:28)(cid:6) (cid:11)"(cid:20)(cid:11)(cid:2)
+### 3.
 
-**Art. 7.**
+Uniwersytet jest uczelnią państwową.
 
-1. Z dniem utworzenia Uniwersytetu: (cid:1)5(cid:3)(cid:17)(cid:7)(cid:18)"(cid:6)(cid:5)(cid:14)(cid:11)"(cid:9)(cid:3)(cid:8)(cid:18)(cid:28)(cid:7)(cid:29)(cid:13)(cid:14)(cid:11)(cid:15)(cid:14)(cid:11)(cid:3)(cid:5)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:20)(cid:18)"’((cid:3)(cid:6)(cid:3)(cid:20)(cid:28),(cid:7)(cid:9)"’(cid:3)(cid:16)(cid:6)(cid:5)(cid:18)(cid:3)(cid:5)(cid:3)(cid:18)(cid:7)(cid:28)(cid:2)(cid:3)!(cid:3)(cid:29)(cid:10)(cid:28)(cid:2)(cid:3)(cid:1)((cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:26) (cid:10)(cid:11)(cid:12)(cid:3)(cid:17)(cid:7)(cid:18)"(cid:6)(cid:5)(cid:14)(cid:11)(cid:20)(cid:18)(cid:16)(cid:11)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)( (cid:23)5(cid:3) (cid:10)(cid:28)(cid:29)(cid:13)(cid:15)(cid:14)"(cid:11)(cid:3) )(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3) (cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3) $(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3) (cid:5)(cid:3) (cid:31)(cid:17)(cid:6) (cid:29)(cid:3) (cid:6)(cid:7)(cid:18)(cid:8)(cid:3) (cid:10)(cid:28)(cid:29)(cid:13)(cid:15)(cid:14)"(cid:11)(cid:3) 0(cid:14)(cid:10)(cid:28)(cid:9)(cid:28)(cid:29)(cid:28)(cid:29) (cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:6)1$(cid:18)(cid:10)(cid:28)(cid:6)(cid:7)(cid:18) (cid:14)(cid:15)+(cid:6)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)((cid:3)(cid:10)(cid:17)(cid:15)%(cid:14)(cid:11)(cid:18)(cid:30)(cid:26)"(cid:9)(cid:3)(cid:5)(cid:9)(cid:16)(cid:18)+(cid:18)(cid:14)(cid:11)(cid:18)(cid:3)(cid:18)(cid:7)(cid:28)(cid:2)(cid:3)(cid:1)(cid:22)6(cid:3)(cid:29)(cid:10)(cid:28)(cid:2)(cid:3)(cid:1) (cid:29)(cid:10)(cid:28)(cid:18)(cid:5)(cid:9)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)(cid:1)(cid:23)(cid:3)(cid:5)(cid:7)(cid:8)(cid:15)&(cid:14)(cid:11)(cid:18)(cid:3)(cid:1)(cid:21)(cid:21)6(cid:3)(cid:7)(cid:2)(cid:3)(cid:6)(cid:3)(cid:10)(cid:8)(cid:20)(cid:6) (cid:14)(cid:11)"(cid:28)(cid:5)(cid:11)(cid:15)(cid:3)(cid:5)(cid:9)*(cid:10)(cid:8)(cid:9)(cid:16)(cid:3)78(cid:8)(cid:2)(cid:27)(cid:2)(cid:3)9(cid:7)(cid:3):;( poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314 oraz z 1994 r. Nr 1, poz. !(cid:3)(cid:11)(cid:3)9(cid:7)(cid:3)(cid:22)!((cid:3)(cid:17)(cid:6)(cid:8)(cid:2)(cid:3)(cid:1):!5((cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:26)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:10)(cid:28)(cid:29)(cid:13)(cid:15)(cid:14)(cid:28)(cid:18)(cid:16)(cid:11)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:2) (cid:23)(cid:2)(cid:3)$(cid:6)(cid:13)(cid:10)(cid:28)(cid:18)(cid:5)(cid:6)(cid:5)(cid:15)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:20)(cid:11)(cid:3)(cid:6)(cid:7)+(cid:18)(cid:14)(cid:11)(cid:8)(cid:18)"(cid:9)(cid:30)(cid:14)(cid:15)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:8) (cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:26)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:17)(cid:6)(cid:13)(cid:10)(cid:28)(cid:18)(cid:5)(cid:6)(cid:5)(cid:9)(cid:16)(cid:11)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:20)(cid:18)(cid:16)(cid:11)(cid:3)(cid:6)(cid:7)+(cid:18)(cid:14)(cid:11)(cid:8)acyjnymi Uniwersytetu. !(cid:2)(cid:3)<(cid:15)(cid:13)(cid:14)(cid:6)(cid:10)(cid:28)(cid:20)(cid:11)(cid:3)(cid:6)(cid:7)+(cid:18)(cid:14)(cid:11)(cid:8)(cid:18)"(cid:9)(cid:30)(cid:14)(cid:15)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)((cid:3)(cid:20)(cid:28),(cid:7)(cid:15)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:13) (cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:17)(cid:6)(cid:10)(cid:11)(cid:18)(cid:13)(cid:18)%(cid:9)(cid:3)(cid:29)(cid:17)(cid:7)(cid:18)(cid:5)(cid:14)(cid:11)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:13)(cid:6)(cid:3)(cid:14)(cid:18)(cid:13)(cid:18)(cid:5)(cid:18)(cid:14)(cid:11)(cid:18)(cid:3)(cid:10)(cid:28)(cid:6)(cid:17)(cid:14)(cid:11)(cid:3)(cid:14)a(cid:29)(cid:20)(cid:6)(cid:5)(cid:9)"’((cid:3)(cid:8)(cid:18)"’(cid:6)(cid:5)(cid:29)(cid:30)(cid:26)(cid:3)(cid:28)(cid:15)(cid:3)(cid:29)(cid:17)(cid:7)(cid:18)(cid:5)(cid:14)(cid:11)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:17)(cid:6)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:29)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:2) (cid:22)(cid:2)(cid:3)(cid:31)(cid:10)(cid:6)(cid:25)(cid:9)(cid:3)(cid:17)(cid:7)(cid:8)(cid:9)(cid:30)(cid:12)(cid:28)(cid:15)(cid:3)(cid:14)(cid:18)(cid:3)(cid:17)(cid:11)(cid:15)(cid:7)(cid:5)(cid:10)(cid:8)(cid:9)(cid:3)(cid:7)(cid:6)(cid:20)(cid:3)(cid:10)(cid:28)(cid:29)(cid:13)(cid:11),(cid:5)(cid:3)(cid:14)(cid:18)(cid:3)(cid:7)(cid:6)(cid:20)(cid:3)(cid:18)(cid:20)(cid:18)(cid:13)(cid:15)(cid:16)(cid:11)"(cid:20)(cid:11)(cid:3)(cid:1)(cid:21)(cid:21)(cid:22)=(cid:1)(cid:21)(cid:21);(cid:3)(cid:13)(cid:6)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:6)(cid:7)(cid:18)(cid:8)(cid:3)0(cid:14)(cid:10)(cid:28)(cid:9)(cid:28)(cid:29)(cid:28)(cid:29)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:6)1$(cid:18)(cid:10)(cid:28)(cid:6)(cid:7)(cid:18) (cid:14)(cid:15)+(cid:6)(cid:3)(cid:5) (cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:26)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:30)(cid:15)+(cid:6)(cid:3)(cid:10)(cid:28)(cid:29)(cid:13)(cid:15)(cid:14)(cid:28)(cid:18)(cid:16)(cid:11)(cid:2)
+### Art. 2.
 
-**Art. 8.** (cid:1)(cid:2)(cid:3)8(cid:6)(cid:28)(cid:9)"’"(cid:8)(cid:18)(cid:10)(cid:6)(cid:5)(cid:15)(cid:3)(cid:6)(cid:7)+(cid:18)(cid:14)(cid:9)(cid:3)(cid:20)(cid:6) (cid:15)+(cid:11)(cid:18) (cid:14)(cid:15)(cid:3)(cid:11)(cid:3)(cid:30)(cid:15)(cid:13)(cid:14)(cid:6)(cid:6)(cid:10)(cid:6)(cid:25)(cid:6)(cid:5)(cid:15)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"z(cid:14)(cid:15)(cid:30)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)((cid:3)(cid:8)(cid:3)(cid:5)(cid:9)%(cid:26)"(cid:8)(cid:15)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:7)(cid:15)(cid:20)(cid:28)(cid:6)(cid:7)(cid:18)((cid:3)(cid:10)(cid:28)(cid:18)(cid:30)(cid:26)(cid:3)(cid:10)(cid:11)(cid:12)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:29)(cid:28)(cid:5)(cid:6)(cid:7)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29) organami Uniwersytetu. (cid:23)(cid:2)(cid:3)(cid:24)(cid:15)(cid:14)(cid:18)(cid:28)(cid:3))(cid:9)*(cid:10)(cid:8)(cid:15)(cid:30)(cid:3)(cid:24)(cid:8)(cid:20)(cid:6)%(cid:9)(cid:3)$(cid:15)(cid:13)(cid:18)+(cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)(cid:30)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:17)(cid:15)%(cid:14)(cid:11)(cid:3)(cid:10)(cid:5)(cid:15)(cid:3)4(cid:29)(cid:14)(cid:20)"(cid:30)(cid:15)(cid:3)(cid:13)(cid:6)(cid:3)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)!(cid:1) +(cid:7)(cid:29)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)(cid:1)(cid:21)(cid:21)(cid:22)(cid:3)(cid:7)(cid:2)(cid:3)(cid:5)(cid:3)(cid:10)(cid:20)%(cid:18)(cid:13)(cid:8)(cid:11)(cid:15)(cid:3)(cid:13)(cid:6)(cid:28)(cid:9)"’"(cid:8)(cid:18)(cid:10)(cid:6)(cid:5)(cid:9)(cid:16)((cid:3)(cid:29)(cid:8)(cid:29)(cid:17)(cid:15)%(cid:14)(cid:11)(cid:6)(cid:14)(cid:9)(cid:16)(cid:3)(cid:6)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:13)(cid:10)(cid:28)(cid:18)(cid:5)(cid:11)"(cid:11)(cid:15) (cid:11)(cid:3)0 nstytutu Teologiczno-Pastoralnego w Opolu. Tryb wyboru przedstawicieli Insty(cid:28)(cid:29)(cid:28)(cid:29)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:6)1$(cid:18)(cid:10)(cid:28)(cid:6)(cid:7)(cid:18) (cid:14)(cid:15)+(cid:6)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:6)(cid:20)(cid:7)(cid:15)& (cid:11)(cid:3)(cid:10)(cid:28)(cid:18)(cid:28)(cid:29)(cid:28)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:2) !(cid:2)(cid:3)>(cid:18)(cid:13)(cid:18)(cid:3)9(cid:18)(cid:29)(cid:20)(cid:6)(cid:5)(cid:18)(cid:3)0(cid:14)(cid:10)(cid:28)(cid:9)(cid:28)(cid:29)(cid:28)(cid:29)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:6)1$(cid:18)(cid:10)(cid:28)(cid:6)(cid:7)(cid:18) (cid:14)(cid:15)+(cid:6)(cid:3)(cid:5)(cid:3)(cid:31)(cid:17)(cid:6) (cid:29)(cid:3)(cid:17)(cid:15)%(cid:14)(cid:11)(cid:3)4(cid:29)(cid:14)(cid:20)"(cid:30)(cid:15)(cid:3)(cid:7)(cid:18)(cid:13)(cid:9) (cid:5)(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:29)(cid:3))(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:29)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)+(cid:6)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15)(cid:7)(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:13)(cid:6)(cid:3)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)!(cid:1)(cid:3)+(cid:7)(cid:29)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)(cid:1)(cid:21)(cid:21)(cid:22)(cid:3)(cid:7)(cid:2) (cid:22)(cid:2)(cid:3)8(cid:6)(cid:3)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)!(cid:1)(cid:3)+(cid:7)(cid:29)(cid:13)(cid:14)(cid:11)(cid:18)(cid:3)(cid:1)(cid:21)(cid:21)(cid:22)(cid:3)(cid:7)(cid:2)(cid:3)(cid:8)(cid:6)(cid:10)(cid:28)(cid:18)(cid:14)(cid:26)(cid:3)(cid:17)(cid:7)(cid:8)(cid:15)(cid:17)(cid:7)(cid:6)(cid:5)(cid:18)(cid:13)(cid:8)(cid:6)(cid:14)(cid:15)(cid:3)(cid:5)(cid:9)(cid:25)(cid:6)(cid:7)(cid:9)(cid:3)(cid:13)(cid:6)(cid:3)(cid:10)(cid:15)(cid:14)(cid:18)(cid:28)(cid:29)(cid:3)(cid:27)(cid:14)(cid:11)(cid:5)(cid:15) r(cid:10)(cid:9)(cid:28)(cid:15)(cid:28)(cid:29)(cid:3)(cid:6)(cid:7)(cid:18)(cid:8)(cid:3)(cid:5)(cid:9)(cid:25)(cid:6)(cid:7)(cid:9)(cid:3)(cid:13)(cid:8)(cid:11)(cid:15)(cid:20)(cid:18)(cid:14)(cid:18)(cid:3)(cid:11)(cid:3)(cid:7)(cid:18)(cid:13)(cid:9)(cid:3)(cid:5)(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:29)(cid:3))(cid:9)(cid:13)(cid:8)(cid:11)(cid:18)%(cid:29)(cid:3)(cid:4)(cid:15)(cid:6) (cid:6)+(cid:11)"(cid:8)(cid:14)(cid:15)+(cid:6)(cid:3)(cid:5)(cid:3)(cid:28)(cid:7)(cid:9)(cid:25)(cid:11)(cid:15)(cid:3)(cid:11) na okres ustalony w statucie Uniwersytetu.
+Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, teologicznych, ekonomicznych, matematyczno-przyrodniczych oraz technicznych.
 
-**Art. 9.** (cid:27)(cid:10)(cid:28)(cid:18)(cid:5)(cid:18)(cid:3)(cid:5)"’(cid:6)(cid:13)(cid:8)(cid:11)(cid:3)(cid:5)(cid:3)*(cid:9)"(cid:11)(cid:15)(cid:3)(cid:8)(cid:3)(cid:13)(cid:14)(cid:11)(cid:15)(cid:16)(cid:3)(cid:6)+%(cid:6)(cid:10)(cid:8)(cid:15)(cid:14)(cid:11)(cid:18)(cid:2)
+### Art. 3.
 
+### 1.
+
+Uniwersytet tworzy się z Wyższej Szkoły Pedagogicznej im. Powstańców Śląskich w Opolu oraz Instytutu Teologiczno-Pastoralnego w Opolu.
+
+### 2.
+
+Z dniem utworzenia Uniwersytetu znosi się Wyższą Szkołę Pedagogiczną w Opolu.
+
+### 3.
+
+Z dniem utworzenia Uniwersytetu właściwe władze Kościoła Katolickiego zniosą Instytut Teologiczno-Pastoralny w Opolu.
+
+### Art. 4.
+
+### 1.
+
+Nadzór nad Uniwersytetem sprawuje Minister Edukacji Narodowej.
+
+### 2.
+
+Wydział Teologiczny Uniwersytetu pozostaje ponadto pod nadzorem władz Kościoła Katolickiego w zakresie ustalonym przez statut uczelni.
+
+### Art. 5.
+
+### 1.
+
+Mienie, obejmujące własność i inne prawa majątkowe jednostek wymienionych w art. 3 ust. 1, staje się mieniem Uniwersytetu z dniem jego utworzenia.
+
+### 2.
+
+Uniwersytet przejmuje, z dniem utworzenia, prawa i zobowiązania jednostek wymienionych w art. 3 ust. 1.
+
+### 3.
+
+Stan gospodarki finansowej jednostek wymienionych w art. 3 ust. 1 zostanie wykazany w bilansach sporządzonych przez te jednostki na dzień poprzedzający utworzenie Uniwersytetu.
+
+### Art. 6.
+
+Koszty związane z utrzymaniem i funkcjonowaniem obiektów użytkowanych przez Wydział Teologiczny będą pokrywane przez Kościół Katolicki.
+
+### Art. 7.
+
+### 1.
+
+Z dniem utworzenia Uniwersytetu:
+
+### 1)
+
+pracownicy zatrudnieni w jednostkach, o których mowa w art. 3 ust. 1, stają się pracownikami Uniwersytetu,
+
+### 2)
+
+studenci Wyższej Szkoły Pedagogicznej w Opolu oraz studenci Instytutu Teologiczno-Pastoralnego w Opolu, spełniający wymagania art. 140 ust. 1 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 63, poz. 314](https://api.sejm.gov.pl/eli/acts/DU/1992/314/text.html) oraz z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html) i [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html)), stają się studentami Uniwersytetu.
+
+### 2.
+
+Podstawowe jednostki organizacyjne Wyższej Szkoły Pedagogicznej w Opolu z dniem utworzenia Uniwersytetu stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu.
+
+### 3.
+
+Jednostki organizacyjne Wyższej Szkoły Pedagogicznej w Opolu, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu.
+
+### 4.
+
+Osoby przyjęte na pierwszy rok studiów na rok akademicki 1994/1995 do Wyższej Szkoły Pedagogicznej w Opolu oraz Instytutu Teologiczno-Pastoralnego w Opolu z dniem utworzenia Uniwersytetu stają się jego studentami.
+
+### Art. 8.
+
+### 1.
+
+Dotychczasowe organy kolegialne i jednoosobowe Wyższej Szkoły Pedagogicznej w Opolu, z wyłączeniem rektora, stają się z dniem utworzenia Uniwersytetu organami Uniwersytetu.
+
+### 2.
+
+Senat Wyższej Szkoły Pedagogicznej w Opolu pełni swe funkcje do dnia 31 grudnia 1994 r. w składzie dotychczasowym, uzupełnionym o przedstawicieli Instytutu Teologiczno-Pastoralnego w Opolu. Tryb wyboru przedstawicieli Instytutu Teologiczno-Pastoralnego w Opolu określi statut Uniwersytetu.
+
+### 3.
+
+Rada Naukowa Instytutu Teologiczno-Pastoralnego w Opolu pełni funkcje rady wydziału Wydziału Teologicznego Uniwersytetu do dnia 31 grudnia 1994 r.
+
+### 4.
+
+Do dnia 31 grudnia 1994 r. zostaną przeprowadzone wybory do senatu Uniwersytetu oraz wybory dziekana i rady wydziału Wydziału Teologicznego w trybie i na okres ustalony w statucie Uniwersytetu.
+
+### Art. 9.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

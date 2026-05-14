@@ -8,11 +8,9 @@ pos: 627
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o autostradach płatnych oraz o Krajowym Funduszu Drogowym
-
-*USTAWA z dnia 27 października 1994 r.*
+# Ustawa z dnia 27 października 1994 r. o autostradach płatnych
 
 | Pole | Wartość |
 |---|---|
@@ -23,755 +21,1159 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1994-10-26 |
 | Data wydania | 1994-12-02 |
-| Ostatnia zmiana | 2026-03-12 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941270627) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/627/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/627/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/627) |
 
-Art. 37gi. (uchylony)
-Art. 37gj. (uchylony)
-Art. 37gk. (uchylony)
-Art. 64–70. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Agencja budowy i eksploatacji autostrad](#chpt_2) [Rozdział 3 - Rada do spraw autostrad](#chpt_3) [Rozdział 4 - Lokalizacja autostrad](#chpt_4) [Rozdział 5 - Nabywanie nieruchomości pod autostrady](#chpt_5) [Rozdział 6 - Finansowanie budowy autostrad](#chpt_6) [Rozdział 7 - Postępowanie przetargowe](#chpt_7) [Rozdział 8 - Koncesje na budowę i eksploatację autostrad](#chpt_8) [Rozdział 9 - Umowa koncesyjna](#chpt_9) [Rozdział 10 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_10)
 
-**Art. 1.**
+TOC
 
-1. Ustawa określa:
+## Treść ustawy
 
-- **1)** zasady finansowania budowy autostrad płatnych, zwanych dalej „autostradami”, oraz zawierania umów o budowę i eksploatację albo wyłącznie eksploatację autostrad;
-- **2)** zasady pobierania opłat za przejazd autostradami oraz obowiązki związane z tymi opłatami i odpowiedzialność za naruszenie tych obowiązków;
-- **3)** organy właściwe w sprawach, o których mowa w pkt 1 i 2.
+### Rozdział 1 Przepisy ogólne
 
-1a. Ustawa określa także zasady finansowania dróg krajowych, w tym autostrad, ze środków Krajowego Funduszu Drogowego, zwanego dalej „Funduszem”, z wyłączeniem dróg krajowych w miastach na prawach powiatu, finansowanych z budżetów tych miast.
+### Art. 1.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, autostrady lub ich odcinki, które będą budowane i eksploatowane albo wyłącznie eksploatowane jako płatne.
+### 1.
 
-3. Na zasadach określonych w ustawie mogą być budowane i eksploatowane albo wyłącznie eksploatowane, jako płatne, drogi ekspresowe.
+Ustawa określa warunki przygotowania budowy, zasady koncesjonowania i umów o budowę oraz eksploatację autostrad płatnych, zwanych dalej „autostradami”, a także organy właściwe w tych sprawach.
 
-4. Rada Ministrów określi, w drodze rozporządzenia, drogi ekspresowe, które mogą być budowane i eksploatowane albo wyłącznie eksploatowane jako płatne.
+### 2.
 
-5. Określenie autostrad i dróg ekspresowych w przepisach, o których mowa w ust. 2 i 4, może nastąpić, jeżeli będzie możliwość korzystania z innej, ogólnodostępnej drogi publicznej.
+Rada Ministrów określa, w drodze rozporządzenia, autostrady lub ich odcinki, które będą budowane i eksploatowane jako płatne.
 
-**Art. 1a.**
+### 3.
 
-1. Autostrady, o których mowa w art. 1, mogą być budowane i eksploatowane przez:
+W uzasadnionych przypadkach Rada Ministrów może rozciągnąć, w drodze rozporządzenia, przepisy ustawy, w całości lub w części, na określone drogi ekspresowe.
 
-- **1)** Generalnego Dyrektora Dróg Krajowych i Autostrad;
-- **2)** drogową spółkę specjalnego przeznaczenia na warunkach określonych w umowie, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia (Dz. U. z 2021 r. poz. 1469 oraz z 2026 r. poz. 176).
+### 4.
 
-2. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia może, w drodze umowy, powierzyć budowę i eksploatację albo wyłącznie eksploatację autostrady innemu podmiotowi, zwanemu dalej „spółką”.
+Określenie autostrad i dróg ekspresowych w przepisach, o których mowa w ust. 2 i 3, może nastąpić, jeżeli będzie możliwość korzystania z innej, ogólnodostępnej drogi publicznej.
 
-3. Do wyboru spółki stosuje się przepisy ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) albo przepisy ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
+### Art. 2.
 
-3a. Jeżeli budowa i eksploatacja albo wyłącznie eksploatacja autostrady ma następować w ramach partnerstwa publiczno-prywatnego, w postępowaniu w sprawie wyboru spółki uwzględnia się także przepisy ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637).
+### 1.
 
-4. Spółka jest związana ofertą do upływu terminu określonego w opisie warunków koncesji, w ogłoszeniu o zamówieniu w przypadku przetargu nieograniczonego, albo w zaproszeniu do składania ofert, w przypadku pozostałych trybów udzielania zamówień publicznych.
+Minister Transportu i Gospodarki Morskiej jest naczelnym organem administracji państwowej właściwym w sprawach przygotowania budowy i eksploatacji autostrad. Przepis ten nie narusza uprawnień Ministra Gospodarki Przestrzennej i Budownictwa, określonych przepisami prawa budowlanego.
 
-5. Do zawarcia umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady stosuje się odpowiednio, w zakresie nieuregulowanym w ustawie, przepisy ustaw, o których mowa w ust. 3 i 3a.
+### 2.
 
-**Art. 2.**
+Minister Transportu i Gospodarki Morskiej wydaje, w drodze rozporządzenia, przepisy techniczno-budowlane dotyczące autostrad.
 
-1. Minister właściwy do spraw transportu jest naczelnym organem administracji państwowej właściwym w sprawach przygotowania budowy i eksploatacji autostrad działającym przy pomocy Generalnego Dyrektora Dróg Krajowych i Autostrad. Przepis ten nie narusza uprawnień ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, określonych przepisami prawa budowlanego.
+### Art. 3.
 
-2. (uchylony)
+### 1.
 
-**Art. 3.** (uchylony)
+Za przejazd autostradą są pobierane opłaty.
 
-**Art. 4.** (uchylony)
+### 2.
 
-#### Rozdział 2
+Opłaty za przejazdy autostradą ustala i pobiera spółka, która posiada koncesję udzieloną na zasadach określonych w ustawie, zwana dalej „koncesjonariuszem”.
 
-#### Rozdział 3
+### 3.
 
-#### Rozdział 4
+Od opłat za przejazdy autostradami są zwolnione pojazdy uprzywilejowane uczestniczące w akcji związanej z ratowaniem życia lub zdrowia ludzkiego albo mienia, a także pojazdy policji ruchu drogowego.
 
-#### Rozdział 5
+### 4.
 
-#### Rozdział 5a Opłaty za przejazd
+Minister Transportu i Gospodarki Morskiej określa, w drodze rozporządzenia, szczegółowe zasady ustalania i pobierania opłat za przejazdy autostradami oraz sposób ogłaszania wysokości tych opłat.
 
-**Art. 37a.**
+### Art. 4.
 
-1. Za przejazd autostradą są pobierane opłaty.
+Przepisy rozdziałów 4 i 5 stosuje się odpowiednio do budowy autostrad niepłatnych.
 
-1a. Opłaty za przejazd autostradą może pobierać:
+### Rozdział 2 Agencja budowy i eksploatacji autostrad
 
-- **1)** (uchylony)
-- **2)** drogowa spółka specjalnego przeznaczenia na warunkach określonych w umowie, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia lub wykonawca, o którym mowa w art. 9 ust. 3 tej ustawy;
-- **3)** spółka, z którą Generalny Dyrektor Dróg Krajowych i Autostrad albo drogowa spółka specjalnego przeznaczenia zawarli umowę o budowę i eksploatację albo wyłącznie eksploatację autostrady, na warunkach określonych w tej umowie.
+### Art. 5.
 
-1b. (uchylony) 1c. (uchylony) 1d. (uchylony) 1e. (uchylony) 1f. (uchylony) 1g. (uchylony) 1h. (uchylony) 1i. (uchylony) 1j. (uchylony) 1k. (uchylony) 1l. (uchylony) 1m. (uchylony) 1n. (uchylony) 1o. (uchylony) 1p. (uchylony) 1r. (uchylony) 1s. (uchylony) 1t. (uchylony) 1u. (uchylony) 1w. (uchylony) 1x. (uchylony) 1y. (uchylony)
+### 1.
 
-2. (uchylony)
+Tworzy się Agencję Budowy i Eksploatacji Autostrad, zwaną dalej „Agencją”. Agencja jest państwową osobą prawną.
 
-3. (uchylony)
+### 2.
 
-4. (uchylony) 4a. Podmioty, o których mowa w ust. 1a pkt 2 i 3, są obowiązane podejmować działania zapewniające bezpieczeństwo ruchu drogowego, w tym w szczególności w przypadku zwiększenia natężenia ruchu drogowego. W przypadku zagrożenia bezpieczeństwa ruchu drogowego lub wystąpienia zdarzenia zmniejszającego stopień tego bezpieczeństwa podmioty, o których mowa w ust. 1a pkt 2 i 3, mogą odstąpić od poboru opłat za przejazd autostradą lub jej odcinkiem.
+Siedzibą Agencji jest miasto stołeczne Warszawa.
 
-4b. (uchylony)
+### Art. 6.
 
-5. Opłatę za przejazd autostradą ustala się jako iloczyn liczby kilometrów przejazdu i stawki opłaty za kilometr dla danej kategorii pojazdu.
+Minister Transportu i Gospodarki Morskiej sprawuje nadzór nad Agencją.
 
-5a. Kwotę opłaty za przejazd autostradą, o której mowa w ust. 5, zaokrągla się w ten sposób, że końcówkę kwoty wynoszącą mniej niż 5 groszy pomija się a końcówkę kwoty wynoszącą 5 i więcej groszy podwyższa się do pełnych dziesiątek groszy.
+### Art. 7.
 
-6. Ustala się następujące kategorie pojazdów w celu określenia stawek opłat za przejazd autostradą:
+### 1.
 
-- **1)** kategoria 1 – motocykle;
-- **2)** kategoria 2 – pojazdy samochodowe o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 tony;
-- **3)** kategoria 3 – pojazdy samochodowe o dopuszczalnej masie całkowitej powyżej 3,5 tony i poniżej 12 ton;
-- **4)** kategoria 4 – pojazdy samochodowe o dopuszczalnej masie całkowitej co najmniej 12 ton;
-- **5)** kategoria 5 – autobusy.
+Agencja przygotowuje i koordynuje budowę i eksploatację autostrad w zakresie określonym ustawą.
 
-7. (uchylony)
+### 2.
 
-8. (uchylony)
+Do zadań Agencji należy:
 
-9. (uchylony)
+### 1)
 
-10. (uchylony)
+prowadzenie prac studialnych dotyczących autostrad, obejmujących również ocenę ich oddziaływania na środowisko przyrodnicze,
 
-11. (uchylony)
+### 2)
 
-12. (uchylony)
+współpraca z organami właściwymi w sprawach zagospodarowania przestrzennego, obrony narodowej, geodezji i gospodarki gruntami, ewidencji gruntów i budynków, scalania i wymiany gruntów, melioracji wodnych, ochrony gruntów rolnych i leśnych, ochrony środowiska oraz ochrony zabytków,
 
-13. (uchylony)
+### 3)
 
-14. (uchylony)
+nabywanie gruntów pod autostrady na rzecz Skarbu Państwa,
 
-15. (uchylony)
+### 4)
 
-16. (uchylony)
+opracowywanie projektów kryteriów oceny ofert w postępowaniu przetargowym,
 
-17. (uchylony)
+### 5)
 
-18. (uchylony)
+prowadzenie przetargów, opracowywanie projektów koncesji i negocjowanie umów koncesyjnych,
 
-19. (uchylony)
+### 6)
 
-20. (uchylony)
+uzgadnianie projektu budowlanego autostrady lub jej odcinka w zakresie zgodności z przepisami techniczno-budowlanymi, o których mowa w art. 2 ust. 2,
 
-21. (uchylony)
+### 7)
 
-22. (uchylony)
+kontrola budowy i eksploatacji autostrady w zakresie zgodności z udzieloną koncesją i przestrzegania warunków umowy koncesyjnej,
 
-23. (uchylony)
+### 8)
 
-24. (uchylony)
+wykonywanie innych zadań w sprawach autostrad, określonych przez Ministra Transportu i Gospodarki Morskiej.
 
-25. (uchylony)
+### Art. 8.
 
-26. (uchylony)
+### 1.
 
-27. (uchylony)
+Organem Agencji jest Prezes Agencji.
 
-28. (uchylony)
+### 2.
 
-29. (uchylony)
+Prezes Agencji kieruje jej działalnością i reprezentuje ją na zewnątrz.
 
-30. (uchylony)
+### 3.
 
-31. (uchylony)
+Do dokonywania czynności prawnych samodzielnie, w imieniu Agencji, uprawniony jest jej Prezes.
 
-32. (uchylony)
+### Art. 9.
 
-33. (uchylony)
+### 1.
 
-34. (uchylony)
+Prezes Agencji jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek Ministra Transportu i Gospodarki Morskiej.
 
-35. (uchylony) Art. 37aa. 1. W związku z poborem opłat za przejazd autostradą podmioty wskazane w art. 37a ust. 1a wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, przy pierwszej czynności skierowanej do osoby, której dane dotyczą, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie, oraz za pośrednictwem strony internetowej zawierającej informacje dotyczące poboru opłat za przejazd autostradą.
+### 2.
 
-2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na obowiązek wniesienia opłat za przejazd autostradą. Art. 37ab. 1. Jeżeli przepisy odrębne nie stanowią inaczej, podmioty, o których mowa w art. 37a ust. 1a, lub osoby przez nie upoważnione, na podstawie pisemnego wniosku, udostępniają nieodpłatnie dane osobowe przetwarzane w związku z poborem opłat za przejazd autostradą:
+Prezes Agencji składa Ministrowi Transportu i Gospodarki Morskiej roczne sprawozdanie z działalności oraz informację właściwej komisji sejmowej, w terminie 6 miesięcy od zakończenia roku kalendarzowego.
 
-- **1)** Policji,
-- **2)** Inspekcji Transportu Drogowego,
-- **3)** Żandarmerii Wojskowej,
-- **4)** Straży Granicznej,
-- **5)** Biuru Nadzoru Wewnętrznego,
-- **6)** Agencji Bezpieczeństwa Wewnętrznego,
-- **7)** Agencji Wywiadu,
-- **8)** Centralnemu Biuru Antykorupcyjnemu,
-- **9)** Służbie Kontrwywiadu Wojskowego,
-- **10)** Służbie Wywiadu Wojskowego,
-- **11)** prokuratorowi,
-- **12)** sądom,
-- **13)** Szefowi KAS, dyrektorowi izby administracji skarbowej, naczelnikowi urzędu celno-skarbowego,
-- **14)** Służbie Ochrony Państwa – w zakresie niezbędnym do realizacji ich ustawowych zadań.
+### Art. 10.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+### 1.
 
-- **1)** oznaczenie sprawy;
-- **2)** okoliczności, z których wynika konieczność pozyskania żądanych danych;
-- **3)** dane podlegające udostępnieniu.
+Zasady wynagradzania pracowników Agencji, z wyjątkiem Prezesa Agencji, określa zakładowy system wynagrodzeń.
 
-3. Właściwy podmiot może wyrazić zgodę na udostępnienie za pomocą środków komunikacji elektronicznej danych osobowych, o których mowa w ust. 1, podmiotom, o których mowa w ust. 1 pkt 1–5 i 7–14, bez konieczności składania pisemnych wniosków, jeżeli jest to uzasadnione rodzajem lub zakresem wykonywanych zadań.
+### 2.
 
-4. Udostępnianie danych osobowych, o których mowa w ust. 1, w sposób określony w ust. 3, następuje po złożeniu przez podmioty, o których mowa w ust. 1 pkt 1–5 i 7–14, wniosku zawierającego:
+Wynagrodzenie Prezesa Agencji ustala Prezes Rady Ministrów.
 
-- **1)** określenie zakresu danych podlegających udostępnieniu;
-- **2)** określenie osób uprawnionych do przetwarzania danych, o których mowa w pkt 1;
-- **3)** oświadczenie, że podmioty te posiadają:
-    - **a)** urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu i jakie dane uzyskał, oraz
-    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania.
+### Art. 11.
 
-5. Właściwy podmiot udostępnia Agencji Bezpieczeństwa Wewnętrznego dane osobowe, o których mowa w ust. 1, w sposób, o którym mowa w ust. 3, jeżeli jednostka organizacyjna Agencji Bezpieczeństwa Wewnętrznego będąca odbiorcą danych złoży oświadczenie, o którym mowa w ust. 4 pkt 3.
+### 1.
 
-6. Właściwy podmiot nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 roz-porządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania tych danych.
+Agencja realizuje zadania określone w art. 7, w granicach wyznaczonych rocznymi planami finansowymi, odpowiednio do gromadzonych środków.
 
-**Art. 37b.**
+### 2.
 
-1. Opłaty za przejazd autostradą pobrane przez spółkę stanowią jej przychód, z zastrzeżeniem ust. 2–4.
+Prezes Agencji, w uzgodnieniu z Ministrami: Transportu i Gospodarki Morskiej oraz Finansów, ustala roczny plan finansowy Agencji.
 
-2. W przypadku, w którym opłaty za przejazd autostradą stanowią przychód spółki, umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady określi warunki i zakres podziału zysku pomiędzy spółką a Funduszem.
+### Art. 12.
 
-3. W przypadku finansowania budowy autostrady środkami z obligacji przychodowych wyemitowanych przez spółkę, część przychodów z opłat za przejazd autostradą określona w umowie o budowę i eksploatację albo wyłącznie eksploatację autostrady stanowi przychód spółki przeznaczony wyłącznie na pokrycie zobowiązań wobec obligatariuszy z tytułu tych obligacji.
+### 1.
 
-4. Umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady może stanowić, że opłaty za przejazd autostradą stanowią przychód Funduszu.
+Agencja prowadzi samodzielną gospodarkę finansową.
 
-**Art. 37c.**
+### 2.
 
-1. Opłaty za przejazd autostradą pobrane przez:
+Przychodami Agencji są:
 
-- **1)** (uchylony)
-- **2)** drogową spółkę specjalnego przeznaczenia mogą stanowić przychód tej spółki, jeżeli umowa, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, tak stanowi.
+### 1)
 
-2. (uchylony)
+wpływy z działalności Agencji,
 
-3. (uchylony)
+### 2)
 
-4. (uchylony)
+wpływy z opłat za udzielenie koncesji,
 
-**Art. 37d.**
+### 3)
 
-1. Stawki opłat, o których mowa w art. 37a ust. 1a pkt 3, warunki zmian tych stawek oraz sposób ich wprowadzenia ustala umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady.
+wpływy z innych tytułów.
 
-2. Stawki, o których mowa w ust. 1, nie mogą być wyższe niż stawki obliczone zgodnie z przepisami wydanymi na podstawie art. 13ha ust. 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889).
+### 3.
 
-3. Spółka ogłasza w prasie o zasięgu lokalnym i ogólnokrajowym oraz w punktach poboru opłat informację o wysokości opłat za przejazd autostradą lub ich zmianie, w terminie co najmniej czternastu dni przed dniem rozpoczęcia pobierania tych opłat.
+Agencja otrzymuje dotacje, ustalane corocznie w ustawie budżetowej, na wynikające z budowy autostrad: prace studialne i dokumentacyjne, nabywanie nieruchomości, odszkodowania, należności i opłaty roczne z tytułu ochrony gruntów rolnych i leśnych, prace scaleniowe i wymienne, przebudowę urządzeń infrastruktury technicznej, przeprowadzanie ratowniczych badań archeologicznych i badań ekologicznych oraz opracowywanie ich wyników.
 
-**Art. 37e.**
+### Art. 13.
 
-1. Stawki opłat, o których mowa w art. 37a ust. 1a pkt 2, za przejazd kilometra autostradą, niezależnie od kategorii pojazdu, o której mowa w art. 37a ust. 6, nie mogą być wyższe niż 2 zł oraz nie mogą przekroczyć stawek opłat za przejazd obliczonych zgodnie z przepisami, wydanymi na podstawie art. 13ha ust. 5 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+Agencja może zaciągać kredyty długoterminowe, za zgodą Ministra Finansów, na zasadach ogólnych.
 
-2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, stawki opłat za przejazd autostradą, o których mowa w art. 37a ust. 1a pkt 2, z uwzględnieniem ust. 1, mając na uwadze potrzeby utrzymania i ochrony dróg istotnych dla rozwoju sieci drogowej.
+### Art. 14.
 
-3. Minister właściwy do spraw transportu w rozporządzeniu, o którym mowa w ust. 2, może:
+### 1.
 
-- **1)** zróżnicować stawki opłat za przejazd autostradą ze względu na liczbę osi, emisję spalin pojazdu samochodowego, porę dnia, kategorię dnia i porę roku, mając na uwadze zapewnienie potrzeb ochrony środowiska, płynności ruchu, ochronę dróg publicznych, optymalizację wykorzystania infrastruktury transportu lądowego, a także propagowanie bezpieczeństwa ruchu drogowego;
-- **2)** wprowadzić stawki abonamentowe dla niektórych użytkowników autostrady w wysokości niemniejszej niż 87 % stawki opłaty za przejazd autostradą, z zachowaniem zasady przejrzystości i niedyskryminacji.
+Składniki majątkowe nabyte na cele funkcjonowania Agencji tworzą fundusz statutowy Agencji.
 
-**Art. 37f.** (uchylony)
+### 2.
 
-**Art. 37g.** Od opłat za przejazd autostradą są zwolnione:
+Agencja tworzy fundusz statutowy, a inne fundusze może tworzyć po uzyskaniu zgody Ministra Finansów.
 
-#### Rozdział 5aa Kary grzywny
+### 3.
 
-#### Rozdział 5b Opłata paliwowa
+Na fundusz statutowy Agencji składają się w szczególności równowartość netto środków trwałych, wartości niematerialnych i prawnych oraz środki pieniężne zgromadzone z dochodów Agencji.
 
-**Art. 37h.**
+### 4.
 
-1. Wprowadzanie na rynek krajowy paliw silnikowych oraz gazu, wykorzystywanych do napędu silników spalinowych, podlega opłacie, zwanej dalej „opłatą paliwową”.
+Majątek trwały Agencji podlega amortyzacji na zasadach ogólnych.
 
-2. Przez wprowadzenie na rynek krajowy paliw silnikowych oraz gazu, o których mowa w ust. 1, rozumie się czynności podlegające opodatkowaniu podatkiem akcyzowym, których przedmiotem są te paliwa silnikowe oraz gaz.
+### 5.
 
-3. Biokomponentami są biokomponenty w rozumieniu przepisów ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz.
+Zasady prowadzenia rachunkowości przez Agencję określają odrębne przepisy.
 
-- **901)** .
+### Art. 15.
 
-4. Paliwami silnikowymi lub gazem, o których mowa w ust. 1, są następujące produkty:
+### 1.
 
-- **1)** benzyny silnikowe o kodach: CN 2710 12 45 lub CN 2710 12 49 oraz wyroby powstałe ze zmieszania tych benzyn z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach;
-- **2)** oleje napędowe o kodzie CN 2710 19 42, CN 2710 19 44 lub CN 2710 20 11 oraz wyroby powstałe ze zmieszania tych olejów z biokomponentami, spełniające wymagania jakościowe określone w odrębnych przepisach;
-- **3)** biokomponenty stanowiące samoistne paliwa, spełniające wymagania jakościowe określone w odrębnych przepisach, przeznaczone do napędu silników spalinowych, bez względu na kod CN;
-- **4)** gaz ziemny (mokry) i pozostałe węglowodory gazowe oraz gazowe węglowodory alifatyczne skroplone i w stanie gazowym, przeznaczone do napędu silników spalinowych, o kodach: CN 2711 i CN 2901;
-- **5)** wyroby inne niż określone w pkt 1–4, przeznaczone do użycia, oferowane na sprzedaż lub używane do napędu silników spalinowych, bez względu na kod CN.
+Dochody Agencji są zwolnione od podatku dochodowego od osób prawnych.
 
-**Art. 37i.**
+### 2.
 
-1. Opłata paliwowa stanowi przychód Krajowego Funduszu Drogowego, Funduszu Kolejowego, o którym mowa w ustawie z dnia 16 grudnia 2005 r. o Funduszu Kolejowym (Dz. U. z 2024 r. poz. 1133), oraz Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402 i 1572 oraz z 2025 r. poz. 303 i 1843), z tym że kwota stanowiąca 76,90 % opłaty paliwowej stanowi przychód Krajowego Funduszu Drogowego, kwota stanowiąca 19,45 % tej opłaty stanowi przychód Funduszu Kolejowego, a kwota stanowiąca 3,65 % tej opłaty – przychód Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
+Agencja jest zwolniona z opłat skarbowych oraz podatku od nieruchomości do dnia przekazania autostrady lub jej części do eksploatacji przez koncesjonariusza.
 
-2. W 2009 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 200 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku. Kwota ta zostanie przekazana przez Bank Gospodarstwa Krajowego z bieżących wpływów z opłaty paliwowej na rachunek Funduszu Kolejowego do dnia 15 grudnia 2009 r.
+### Art. 16.
 
-3. W latach 2010–2014 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 100 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku.
+### 1.
 
-3a. W 2015 r. przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona o kwotę 500 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w tym roku.
+Prezes Rady Ministrów, na wniosek Ministra Transportu i Gospodarki Morskiej, nadaje, w drodze rozporządzenia, statut Agencji.
 
-3b. W latach 2016–2019 przychód Funduszu Kolejowego stanowi kwota, o której mowa w ust. 1, powiększona corocznie o kwotę 400 mln zł, o którą pomniejsza się przychód z opłaty paliwowej Krajowego Funduszu Drogowego w danym roku.
+### 2.
 
-4. Sposób i terminy przekazania kwoty 200 mln zł, o której mowa w ust. 2, oraz kwoty 100 mln zł, o której mowa w ust. 3, zostaną określone w umowie, o której mowa w art. 12 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym.
+Statut Agencji określa w szczególności jej organizację, zasady udzielania pełnomocnictw, szczegółowe zasady gospodarki finansowej Agencji i tworzenie oddziałów terenowych.
 
-5. Sposób i terminy przekazania kwoty 500 mln zł, o której mowa w ust. 3a, oraz kwoty 400 mln zł, o której mowa w ust. 3b, zostaną określone w umowie, o której mowa w art. 12 ustawy z dnia 16 grudnia 2005 r. o Funduszu Kolejowym.
+### Rozdział 3 Rada do spraw autostrad
 
-**Art. 37j.**
+### Art. 17.
 
-1. Obowiązek zapłaty opłaty paliwowej od paliw silnikowych oraz gazu, o których mowa w art. 37h, ciąży na:
+### 1.
 
-- **1)** producencie paliw silnikowych lub gazu albo
-- **2)** importerze paliw silnikowych lub gazu, albo
-- **3)** podmiocie dokonującym nabycia wewnątrzwspólnotowego w rozumieniu przepisów o podatku akcyzowym paliw silnikowych lub gazu, innym niż uprawniony odbiorca w rozumieniu tych przepisów, albo 3a) uprawnionym odbiorcy dokonującym nabycia wewnątrzwspólnotowego wyrobów akcyzowych poza procedurą zawieszenia poboru akcyzy w rozumieniu przepisów o podatku akcyzowym, albo
-- **4)** innym podmiocie podlegającym na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu.
+Organem opiniodawczym Ministra Transportu i Gospodarki Morskiej jest Rada do Spraw Autostrad, zwana dalej „Radą”.
 
-2. (uchylony)
+### 2.
 
-3. (uchylony)
+Członków Rady powołuje i odwołuje Minister Transportu i Gospodarki Morskiej.
 
-**Art. 37k.**
+### 3.
 
-1. Obowiązek zapłaty opłaty paliwowej powstaje z dniem powstania zobowiązania podatkowego w podatku akcyzowym od paliw silnikowych oraz gazu, o których mowa w art. 37h.
+Przewodniczącego Rady wybiera i odwołuje Rada spośród swoich członków.
 
-1a. Opłata paliwowa podlega zabezpieczeniu zabezpieczeniem akcyzowym na zasadach określonych w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222, 340, 1813 i 1881), w celu zagwarantowania wykonania powstałego albo mogącego powstać obowiązku jej zapłaty.
+### 4.
 
-2. W przypadku poddania danej ilości paliwa silnikowego, od której zapłacono opłatę paliwową, dalszym procesom, w wyniku których nastąpiło zwiększenie ilości tego paliwa, opłacie paliwowej podlega uzyskana nadwyżka tego paliwa.
+Regulamin działania Rady, na jej wniosek, ustala Minister Transportu i Gospodarki Morskiej.
 
-**Art. 37l.**
+### Art. 18.
 
-1. Podstawą obliczenia wysokości opłaty paliwowej jest ilość paliw silnikowych lub gazu, o których mowa w art. 37h, od jakich podmioty, o których mowa w art. 37j ust. 1, są obowiązane zapłacić podatek akcyzowy.
+Do zakresu działania Rady należy w szczególności opiniowanie:
 
-2. Opłata paliwowa nie zwiększa podstawy opodatkowania podatkiem akcyzowym z tytułu importu wyrobów akcyzowych.
+### 1)
 
-**Art. 37m.**
+projektów wniosków o udzielenie wskazań lokalizacyjnych i o ustalenie lokalizacji,
 
-1. Stawka opłaty paliwowej wynosi:
+### 2)
 
-- **1)** 152,61 zł za 1000 l benzyn silnikowych oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, o których mowa w art. 37h ust. 4 pkt 1;
-- **2)** 329,12 zł za 1000 l olejów napędowych, wyrobów powstałych ze zmieszania tych olejów z biokomponentami oraz biokomponentów stanowiących samoistne paliwa, o których mowa w art. 37h ust. 4 pkt 2 i 3;
-- **3)** 186,32 zł za 1000 kg gazów i innych wyrobów, o których mowa w art. 37h ust. 4 pkt 4 i 5.
+kryteriów oceny dokumentacji wstępnej i ofert w postępowaniu przetargowym,
 
-2. Stawki opłaty paliwowej, o których mowa w ust. 1, ulegają podwyższeniu na następny rok w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+### 3)
 
-3. Wskaźnik wzrostu cen, o którym mowa w ust. 2, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 15 dni po upływie trzeciego kwartału, każdego roku.
+wyników kwalifikacji wstępnej,
 
-3a. W latach 2015–2019 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 25,00 zł za 1000 l albo o 25,00 zł za 1000 kg. Kwota 25,00 zł nie podlega podwyższeniu zgodnie z ust. 2.
+### 4)
 
-3b. W roku 2020 stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, są podwyższone odpowiednio o 28,00 zł za 1000 l albo o 28,00 zł za 1000 kg. Kwota 28,00 zł nie podlega podwyższeniu zgodnie z ust. 2.
+projektów koncesji,
 
-3c. W okresie do dnia 31 grudnia 2020 r. stawki opłaty paliwowej, o których mowa w ust. 1, obliczone z uwzględnieniem zasady, o której mowa w ust. 2, oraz kwot, o których mowa w ust. 3b, są podwyższone odpowiednio o 17,00 zł za 1000 l albo o 17,00 zł za 1000 kg. Kwota 17,00 zł nie podlega podwyższeniu zgodnie z ust.
+### 5)
 
-2.
+zasad ustalania opłat za przejazdy autostradami,
 
-4. Minister właściwy do spraw transportu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, stawki opłaty paliwowej obliczone z uwzględnieniem zasady, o której mowa w ust. 2, zaokrąglając je w górę do pełnych groszy.
+### 6)
 
-5. Minister właściwy do spraw transportu, ogłaszając, zgodnie z ust. 4, stawki opłaty paliwowej, uwzględnia kwoty, o których mowa odpowiednio w ust. 3a–3c.
+planów ratowniczych oraz planów dotyczących infrastruktury mającej wpływ na stan bezpieczeństwa ruchu drogowego,
 
-**Art. 37n.**
+### 7)
 
-1. Organami właściwymi w sprawie opłaty paliwowej są naczelnicy urzędów skarbowych, naczelnicy urzędów celno-skarbowych oraz dyrektorzy izb administracji skarbowej.
+innych spraw dotyczących autostrad, na wniosek Ministra Transportu i Gospodarki Morskiej.
 
-2. Organami właściwymi miejscowo w sprawach opłaty paliwowej są odpowiednio:
+### Rozdział 4 Lokalizacja autostrad
 
-- **1)** naczelnik urzędu skarbowego właściwy miejscowo w sprawach podatku akcyzowego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – w przypadkach, w których obowiązanymi do zapłaty opłaty paliwowej są podmioty, o których mowa w art. 37j ust. 1 pkt 1, 3 i 3a, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import;
-- **2)** naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce powstania długu celnego oraz dyrektor izby administracji skarbowej właściwy dla tego naczelnika – w przypadkach, w których obowiązanym do zapłaty opłaty paliwowej jest podmiot, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiot, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu.
+### Art. 19.
 
-**Art. 37o.**
+Minister - Kierownik Centralnego Urzędu Planowania udziela wskazań lokalizacyjnych autostrady lub jej odcinków w uzgodnieniu z Ministrem Gospodarki Przestrzennej i Budownictwa oraz z Ministrami: Kultury i Sztuki, Obrony Narodowej, Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa, Rolnictwa i Gospodarki Żywnościowej, Transportu i Gospodarki Morskiej oraz z Głównym Inspektorem Sanitarnym.
 
-1. Podmioty, o których mowa w art. 37j ust. 1, są obowiązane składać informację o opłacie paliwowej odpowiednio właściwemu naczelnikowi urzędu skarbowego albo naczelnikowi urzędu celno-skarbowego oraz obliczać i wpłacać opłatę paliwową w terminie:
+### Art. 20.
 
-- **1)** do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek zapłaty – w przypadku podmiotów, o których mowa w art. 37j ust. 1 pkt 1 i 3, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z innego tytułu niż import, 1a) 10 dni od dnia powstania obowiązku zapłaty – w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 3a,
-- **2)** określonym dla należności celnych – w przypadku podmiotu, o którym mowa w art. 37j ust. 1 pkt 2, oraz podmiotu, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu – na wyodrębniony rachunek bankowy urzędu skarbowego właściwego dla dokonywania wpłat kwot z tytułu zapłaty podatku akcyzowego.
+### 1.
 
-2. W razie powstania nadpłaty w opłacie paliwowej zwrotu tej nadpłaty dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu, Funduszowi Kolejowemu oraz Funduszowi rozwoju przewozów autobusowych o charakterze użyteczności publicznej w proporcji ustalonej zgodnie z art. 37i ust. 1.
+Wniosek o udzielenie wskazań lokalizacyjnych autostrady powinien zawierać w szczególności:
 
-3. Obowiązek zapłaty opłaty paliwowej przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym zapłata powinna nastąpić.
+### 1)
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór informacji w sprawie opłaty paliwowej, o której mowa w ust. 1, mając na uwadze zapewnienie jednolitości informacji składanych przez podmioty, o których mowa w art. 37j, oraz zapewnienie możliwości kontroli wysokości dokonywanych wpłat. Art. 37oa. 1. Opłata paliwowa podlega zwrotowi odpowiednio w przypadkach i na zasadach określonych dla zwrotu podatku akcyzowego:
+ogólny przebieg autostrady i analizę jej powiązań z innymi drogami publicznymi,
 
-- **1)** przez który jest realizowane zwolnienie od podatku akcyzowego, o którym mowa w art. 31 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
-- **1a)** w art. 42 ust. 8 i 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
-- **2)** w art. 82 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, z tym że zwrot następuje na wniosek:
-    - **a)** podmiotów, o których mowa w art. 37j ust. 1, albo
-    - **b)** podmiotu, który nabył od podmiotów, o których mowa w art. 37j ust. 1, paliwa silnikowe lub gaz, o których mowa w art. 37h, albo
-    - **c)** uprawnionego wysyłającego dokonującego dostawy wewnątrzwspólnotowej paliw silnikowych lub gazu, o których mowa w art. 37h, poza procedurą zawieszenia poboru akcyzy w rozumieniu przepisów o podatku akcyzowym, niebędącego podmiotem, o którym mowa w lit. b i art. 37j ust. 1.
+### 2)
 
-2. Organem właściwym w sprawie zwrotu opłaty paliwowej jest organ:
+charakterystykę podstawowych obiektów budowlanych,
 
-- **1)** właściwy w sprawach zwrotu zapłaconej kwoty podatku akcyzowego, wyznaczony w przepisach wydanych na podstawie art. 31 ust. 6 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** o którym mowa odpowiednio w art. 14 ust. 8a i 9 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym – w przypadkach, o których mowa w ust. 1 pkt 1a i 2.
+### 3)
 
-3. Zwrotu opłaty paliwowej dokonuje się ze środków należnych Krajowemu Funduszowi Drogowemu, Funduszowi Kolejowemu oraz Funduszowi rozwoju przewozów autobusowych o charakterze użyteczności publicznej w proporcji ustalonej zgodnie z art. 37i ust. 1.
+ocenę oddziaływania autostrady na środowisko, sporządzoną przez biegłych wskazanych przez Ministra Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa,
 
-4. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór wniosku o zwrot opłaty paliwowej, o którym mowa w ust. 1 pkt 2, uwzględniając konieczność prawidłowego określania kwot zwracanej opłaty paliwowej. Art. 37ob. Bank Gospodarstwa Krajowego przekazuje środki w celu dokonania zwrotu nadpłaty, o którym mowa w art. 37o ust. 2, lub zwrotu opłaty paliwowej, o którym mowa w art. 37oa ust. 1, na wniosek organu określonego w przepisach wydanych na podstawie art. 14 ust. 11 pkt 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, w terminie 7 dni od dnia złożenia wniosku, na rachunek bankowy wskazany przez ten organ.
+### 4)
 
-**Art. 37p.**
+ocenę oddziaływania autostrady na grunty rolne i leśne, sporządzoną przez wojewodów,
 
-1. Naczelnik urzędu skarbowego, o którym mowa w art. 37o ust. 1, przekazuje kwoty pobranej opłaty paliwowej na wyodrębniony rachunek w Banku Gospodarstwa Krajowego, w terminie 14 dni od dnia jej pobrania.
+### 5)
 
-2. Bank Gospodarstwa Krajowego przekazuje środki, o których mowa w ust. 1, w terminie 7 dni od dnia wpływu na rachunek w Banku Gospodarstwa Krajowego, w wysokości określonej w art. 37i, na rachunek Krajowego Funduszu Drogowego, na rachunek Funduszu Kolejowego oraz na rachunek Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, chyba że zachodzi przypadek, o którym mowa w art. 37ob.
+ocenę oddziaływania autostrady na dobra kultury objęte ochroną na podstawie odrębnych przepisów, sporządzoną przez biegłego z listy rzeczoznawców Ministra Kultury i Sztuki.
 
-**Art. 37q.**
+### 2.
 
-1. W zakresie nieuregulowanym w ustawie do opłaty paliwowej stosuje się odpowiednio przepisy:
+Prezes Agencji składa wniosek, o którym mowa w ust. 1, po uzyskaniu opinii Rady, właściwych miejscowo wojewodów oraz zainteresowanych rad gmin i sejmików samorządowych.
 
-- **1)** ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, z wyłączeniem przepisów działu Ia, działu II rozdziałów 3 i 3a, działu IV rozdziałów 2 i 3 oraz działów V–VIb;
-- **2)** ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z zastrzeżeniem art. 37o ust. 3, z tym że do określania wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, w zakresie działu IV tej ustawy stosuje się przepisy art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 – z wyłączeniem art. 200, rozdziałów 16a i 21–23, a do odwołań stosuje się także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a tej ustawy.
+### 3.
 
-2. Do postępowania w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, stosuje się odpowiednio przepisy:
+Brak opinii, o której mowa w ust. 2, w terminie 30 dni od dnia zwrócenia się przez Prezesa Agencji o wyrażenie opinii, traktuje się jako niewniesienie zastrzeżeń.
 
-- **1)** art. 5, art. 18, art. 19, art. 22 ust. 1 zdanie pierwsze i drugie, ust. 2 i 3, ust. 4 zdanie pierwsze, ust. 6 i 7, art. 23 ust. 1–3, art. 27, art. 28 ust. 1–3 i ust. 4 zdanie pierwsze, art. 29, art. 44 i art. 55 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ) oraz przepisy wydane na podstawie art. 20, art. 21, art. 24, art. 25, art. 31 i art. 32 tego rozporządzenia;
-- **2)** art. 10a, art. 10b, art. 73c, art. 76, art. 77, art. 83, art. 84, art. 86, art. 88–90 i art. 90b–90e ustawy z dnia 19 marca 2004 r. – Prawo celne (Dz. U. z 2024 r. poz. 1373).
+### 4.
 
-3. Czynności podjęte w postępowaniu w sprawie określenia wysokości opłaty paliwowej ciążącej na podmiocie, o którym mowa w art. 37j ust. 1 pkt 2, oraz na podmiocie, o którym mowa w art. 37j ust. 1 pkt 4 – jeżeli podlega on na podstawie przepisów o podatku akcyzowym obowiązkowi podatkowemu w zakresie podatku akcyzowego od paliw silnikowych lub gazu z tytułu importu, na podstawie przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
+Minister Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa w porozumieniu z Ministrami: Rolnictwa i Gospodarki Żywnościowej, Kultury i Sztuki oraz Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, dla autostrad wymagania, jakim powinny odpowiadać oceny, o których mowa w ust. 1 pkt 3-5.
 
-- **1)** nie są uznawane za decyzje w rozumieniu przepisów prawa celnego;
-- **2)** są zaskarżalne tylko w odwołaniu od decyzji.
+### Art. 21.
 
-#### Rozdział 6 Krajowy Fundusz Drogowy
+### 1.
 
-**Art. 38.**
+Decyzję o ustaleniu lokalizacji autostrady, na wniosek Prezesa Agencji, wydaje wojewoda.
 
-1. Budowę autostrad, z zastrzeżeniem ust. 2, finansuje się:
+### 2.
 
-- **1)** ze środków własnych spółek oraz uzyskanych przez nie kredytów bankowych i pożyczek, a także ze środków pochodzących z emisji obligacji, w tym obligacji przychodowych;
-- **2)** ze środków pochodzących z budżetu państwa ustalanych corocznie w ustawie budżetowej;
-- **3)** ze środków Funduszu;
-- **4)** z innych źródeł.
+Wniosek o wydanie decyzji o ustaleniu lokalizacji powinien zawierać:
 
-2. W przypadku gdy przewiduje się zawarcie umowy wyłącznie na eksploatację autostrady lub jej odcinka, budowę tej autostrady lub jej odcinka finansuje się na zasadach dotyczących finansowania i budowy dróg publicznych określonych w odrębnych przepisach oraz ze środków Funduszu.
+### 1)
 
-3. Spółce mogą być udzielone przez Skarb Państwa gwarancje i poręczenia zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz.
+mapę w skali 1:5000, przedstawiającą istniejące uzbrojenie terenu, proponowany przebieg autostrady, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych i ustanowienia stref ochronnych,
 
-- **291)** .
+### 2)
 
-**Art. 39.** W Banku Gospodarstwa Krajowego tworzy się Fundusz.
+wymagane odrębnymi przepisami zezwolenia i stanowiska właściwych organów.
 
-**Art. 39a.** Fundusz:
+### 3.
 
-**Art. 39b.**
+O wszczęciu postępowania o wydanie decyzji o ustaleniu lokalizacji wojewoda zawiadamia w drodze obwieszczeń w urzędach gmin i w prasie lokalnej.
 
-1. Środki Funduszu pochodzą z:
+### Art. 22.
 
-- **1)** opłaty paliwowej, w wysokości określonej w art. 37i;
-- **2)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu w bankach;
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony) 5a) środków pochodzących z opłat za przejazdy autostradą, pobieranych przez drogową spółkę specjalnego przeznaczenia, jeżeli umowa, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, nie stanowi inaczej;
-- **5b)** środków pochodzących z opłat za przejazd autostradą, pobieranych przez spółkę, jeżeli umowa, o której mowa w art. 37b ust. 4, tak stanowi; 5ba) (uchylony) 5c) środków pochodzących z opłat elektronicznych, o których mowa w ustawie z dnia 21 marca 1985 r. o drogach publicznych;
-- **5d)** środków pochodzących z opłat, o których mowa w art. 16x ust. 6 ustawy z dnia 21 marca 1985 r. o drogach publicznych, pobieranych przez Głównego Inspektora Transportu Drogowego; 5da) odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, naliczanych od opłat, które stanowią przychód Funduszu; 5db) środków wpłaconych przez dostawców EETS na rzecz Szefa KAS z tytułu pokrycia kosztów, o których mowa w art. 16i ust. 1 pkt 6a i art. 16xb ust. 9 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **5e)** odsetek, o których mowa w art. 16j ust. 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, w przypadku gdy opłaty, od których nalicza się odsetki, stanowią przychód Funduszu; [5f) środków z tytułu zajęcia pasa drogowego, pochodzących z umów i decyzji, o których mowa w art. 38 ust. 2 i 3 ustawy z dnia 5 lipca 2018 r. o ułatwieniach w przygotowaniu i realizacji inwestycji mieszkaniowych oraz inwestycji towarzyszących (Dz. U. z 2025 r. poz. 1754);]
-- **6)** płatności dokonywanych przez spółki, zgodnie z warunkami umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady, w tym przewidzianych na rzecz Generalnego Dyrektora Dróg Krajowych i Autostrad;
-- **7)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu odpłatnego udostępniania nieruchomości nabytych na cele budowy dróg;
-- **8)** środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi;
-- **9)** wpływów uzyskanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad z tytułu: 98 ust. 6 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych,
-    - **a)** (uchylona)
-    - **b)** zatrzymania wadium wraz z odsetkami, w przypadku o którym mowa w art.
-    - **c)** zatrzymania wraz z odsetkami zabezpieczenia należytego wykonania umowy, o którym mowa w art. 449 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych,
-    - **d)** kar umownych;
+### 1.
 
-- **10)** środków z kredytów lub pożyczek zaciągniętych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **11)** wpływów z obligacji emitowanych na rzecz Funduszu przez Bank Gospodarstwa Krajowego;
-- **11a)** inwestycji środków Funduszu w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2026 r. poz. 60 i 176);
-- **11b)** innych wpływów z opłat i kar określonych w ustawie z dnia 21 marca 1985 r. o drogach publicznych, wpływów z opłat i kar określonych w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz wpływów z opłat określonych w ustawie z dnia 6 września 2001 r. o transporcie drogowym, z zastrzeżeniem ust. 3;
-- **11c)** dotacji z budżetu państwa;
-- **11d)** pożyczek z budżetu państwa;
-- **11e)** wpływów z grzywien nałożonych przez Inspekcję Transportu Drogowego za naruszenia przepisów ruchu drogowego ujawnione za pomocą urządzeń rejestrujących, o których mowa w art. 20d ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **11f)** (uchylony) 11g) wpływów z grzywien za wykroczenia określone w art. 86, art. 86b, art. 87, art. 90, art. 92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734, 1676, 1814, 1818 i 1872);
-- **12)** darowizn i zapisów;
-- **13)** wpływów z innych środków publicznych;
-- **14)** wpływów z innych tytułów.
+Decyzja o ustaleniu lokalizacji autostrady, wydana zgodnie ze wskazaniami lokalizacyjnymi, powinna zawierać w szczególności:
 
-2. Wpływy z grzywien, opłat i kar, o których mowa w ust. 1 pkt 11b i 11e, Bank Gospodarstwa Krajowego wyodrębnia w ramach środków finansowych gromadzonych na Funduszu.
+### 1)
 
-3. Wpływy z opłat, o których mowa w art. 13 ust. 2 pkt 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, mogą stanowić przychód drogowej spółki specjalnego przeznaczenia na mocy umowy, o której mowa w art. 6 ust. 1 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia, jeżeli umowa tak stanowi.
+wymagania dotyczące powiązania z innymi drogami publicznymi,
 
-**Art. 39c.** (uchylony)
+### 2)
 
-**Art. 39d.**
+linie rozgraniczające teren,
 
-1. Bank Gospodarstwa Krajowego może zaciągać kredyty, pożyczki lub emitować obligacje w kraju i za granicą na rzecz Funduszu i z przeznaczeniem na:
+### 3)
 
-- **1)** finansowanie inwestycji realizowanych w ramach programów wieloletnich ustanawianych przez Radę Ministrów zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i
-- **1846)** oraz inwestycji realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 tej ustawy, a także zadań wynikających z planu finansowego Funduszu;
-- **2)** spłatę zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji.
+warunki techniczne realizacji,
 
-2. Za zobowiązania Banku Gospodarstwa Krajowego, o których mowa w ust. 1, z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z tym że wymogu, o którym mowa w art. 7 ust. 2 pkt 2 tej ustawy, w zakresie, w jakim wymaga się, aby środki przeznaczone na spłatę kredytu pochodziły ze źródeł innych niż budżet państwa, nie stosuje się.
+### 4)
 
-3. Gwarancje i poręczenia, o których mowa w ust. 2, są zwolnione z opłat prowizyjnych.
+warunki wynikające z potrzeb ochrony środowiska i ochrony dóbr kultury,
 
-4. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umowy poręczenia lub gwarancji na zasadach określonych przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyłączeniem art. 43 tej ustawy.
+### 5)
 
-5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
+wymagania dotyczące ochrony interesów osób trzecich.
 
-**Art. 39e.**
+### 2.
 
-1. Okresowo wolne środki Funduszu, z zastrzeżeniem ust. 2 i 3, Bank Gospodarstwa Krajowego może lokować:
+Wojewoda doręcza decyzję o ustaleniu lokalizacji autostrady wnioskodawcy oraz zawiadamia o jej wydaniu i treści pozostałe strony w drodze obwieszczeń w urzędach gmin i w prasie lokalnej.
 
-- **1)** w innych bankach;
-- **2)** w papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **3)** w papiery wartościowe emitowane przez Narodowy Bank Polski.
+### Art. 23.
 
-2. Suma lokat, o których mowa w ust. 1 pkt 1, w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25 % okresowo wolnych środków Funduszu.
+### 1.
 
-3. (uchylony)
+W uzasadnionym przypadku, na wniosek Prezesa Agencji, wojewoda może nadać decyzji o ustaleniu lokalizacji rygor natychmiastowej wykonalności.
 
-**Art. 39f.**
+### 2.
 
-1. Środki Funduszu mogą być przeznaczone na:
+Odwołanie strony od decyzji o ustaleniu lokalizacji powinno być rozpatrzone w terminie 14 dni, a skarga do sądu administracyjnego w terminie dwóch miesięcy.
 
-- **1)** finansowanie budowy i przebudowy dróg krajowych, realizowanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad;
-- **2)** płatności na rzecz spółek z tytułu realizacji przez nie obowiązków wynikających z umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady, obejmujące w szczególności:
-    - **a)** zwrot kosztów ponoszonych z tytułu zachowania nieprzerwanej dostępności autostrady, jej utrzymania i przejezdności,
-    - **b)** zmienne kwoty uzależnione od spełnienia przez spółkę wymogów określonych w umowie o budowę i eksploatację albo wyłącznie eksploatację autostrady,
-    - **c)** dopłaty udzielane spółkom na pokrycie całości lub części niedoborów bieżących przychodów z tytułu eksploatacji autostrady, w celu zapewnienia płynności wydatków związanych z bieżącą obsługą i spłatą kredytów lub pożyczek bądź obligacji wyemitowanych w związku z budową autostrady;
+### Art. 24.
 
-- **3)** finansowanie przedsięwzięć drogowych powierzonych drogowej spółce specjalnego przeznaczenia;
-- **4)** finansowanie kosztów utworzenia drogowej spółki specjalnego przeznaczenia, w tym środków na pokrycie kapitału zakładowego i kosztów podjęcia działalności spółki, finansowanie kosztów podwyższenia kapitału zakładowego drogowej spółki specjalnego przeznaczenia oraz wypłatę wynagrodzenia dla tej spółki;
-- **5)** przygotowanie, wdrożenie, budowę lub eksploatację systemu poboru opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych, realizowanych przez:
-    - **a)** Szefa KAS lub
-    - **b)** organy Krajowej Administracji Skarbowej wyznaczone na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-    - **c)** jednostkę, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych;
+Od decyzji, o której mowa w art. 21 ust. 1, służy stronie odwołanie do Ministra Gospodarki Przestrzennej i Budownictwa.
 
-- **5a)** wynagrodzenie dla dostawcy EETS, o którym mowa w art. 16t ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, wypłacane przez Szefa KAS;
-- **5b)** koszty postępowania przed Komisją, o której mowa w art. 16z ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, ponoszone przez Szefa KAS;
-- **6)** finansowanie kosztów usług doradczych:
-    - **a)** związanych z budową i przebudową dróg krajowych, w tym autostrad,
-    - **b)** związanych z przygotowaniem, wdrożeniem, budową lub eksploatacją systemów poboru opłat, o których mowa w pkt 5,
-    - **c)** niezbędnych do prawidłowego wykonywania przez ministra właściwego do spraw transportu ustawowych zadań z zakresu funkcjonowania oraz rozwoju infrastruktury dróg publicznych;
+### Art. 25.
 
-- **7)** (uchylony)
-- **8)** (uchylony)
-- **9)** prowizję dla dostawców kart flotowych, o której mowa w art. 13iba ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### 1.
 
-2. Ze środków Funduszu dokonuje się:
+Przepisy o zagospodarowaniu przestrzennym nie mają zastosowania w sprawach określonych w niniejszym rozdziale.
 
-- **1)** pokrycia kosztów emisji i wykupu obligacji, o których mowa w art. 39d ust. 1;
-- **2)** spłaty:
-    - **a)** kredytów i pożyczek wraz z odsetkami i innymi kosztami obsługi kredytów i pożyczek, o których mowa w art. 39d ust. 1,
-    - **b)** zobowiązań wynikających z wykonania przez Skarb Państwa obowiązków z tytułu gwarancji i poręczeń, o których mowa w art. 39d ust. 2,
-    - **c)** udzielonego przez Bank Gospodarstwa Krajowego finansowania, o którym mowa w ust. 6, wraz z kosztami tego finansowania.
+### 2.
 
-3. Ze środków Funduszu dokonuje się wypłaty wynagrodzenia prowizyjnego przysługującego Bankowi Gospodarstwa Krajowego.
+Wojewoda wydaje pozwolenia na budowę autostrady na zasadach i w trybie przepisów prawa budowlanego, z zastrzeżeniem ust. 3.
 
-4. Wpływy z opłat i kar, o których mowa w art. 39b ust. 1 pkt 11b, przeznacza się na cele, o których mowa w ustawach, na podstawie których pobierane są te opłaty i kary.
+### 3.
 
-4a. Środki, o których mowa w art. 39b ust. 1 pkt 11c, przeznacza się na finansowanie inwestycji realizowanych w ramach programów wieloletnich ustanawianych przez Radę Ministrów zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz inwestycji realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 tej ustawy, a także innych zadań wynikających z planu finansowego Funduszu oraz na pokrycie wydatków, o których mowa w ust. 2.
+Ilekroć w przepisach prawa budowlanego mowa jest o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji autostrady.
 
-4b. Wpływy z grzywien, o których mowa w art. 39b ust. 1 pkt 11e, przeznacza się na cele wymienione w art. 20d ust. 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### Rozdział 5 Nabywanie nieruchomości pod autostrady
 
-5. (uchylony)
+### Art. 26.
 
-6. W przypadku niedoboru na rachunku Funduszu środków niezbędnych do terminowej obsługi zadań, o których mowa w ust. 1 pkt 1 i 3 oraz w ust. 2 pkt 1 i 2 lit. a, Bank Gospodarstwa Krajowego, w uzgodnieniu z ministrem właściwym do spraw transportu i ministrem właściwym do spraw finansów publicznych, może finansować ich realizację ze środków własnych.
+Agencja nabywa na własność Skarbu Państwa nieruchomości na cele budowy autostrad, w drodze umowy, z zastrzeżeniem art. 27.
 
-**Art. 39g.** (uchylony)
+### Art. 27.
 
-**Art. 39h.** (uchylony)
+### 1.
 
-**Art. 39i.** Warunki finansowania ze środków Funduszu w odniesieniu do:
+Nieruchomości przeznaczone na pasy drogowe autostrad, stanowiące własność gminy, stają się, z mocy prawa, własnością Skarbu Państwa z dniem, w którym decyzja o ustaleniu lokalizacji dotycząca tych nieruchomości stała się ostateczna.
 
-**Art. 39j.**
+### 2.
 
-1. Wypłaty ze środków Funduszu wynikające z umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady mogą być gwarantowane i poręczane przez Skarb Państwa.
+Za nieruchomości, o których mowa w ust. 1, gminie przysługuje odszkodowanie, ustalone według zasad obowiązujących przy wywłaszczaniu nieruchomości.
 
-2. Do gwarancji i poręczeń, o których mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyjątkiem art. 2a ust. 1, art. 2b, art. 31, art. 44, art. 44a, art. 44b, art. 46 i art. 47.
+### 3.
 
-3. Gwarancje i poręczenia, o których mowa w ust. 1, są udzielane przez Radę Ministrów na wniosek ministra właściwego do spraw finansów publicznych uzgodniony z ministrem właściwym do spraw transportu.
+Wojewoda, w drodze decyzji, stwierdza nabycie nieruchomości przez Skarb Państwa oraz ustala odszkodowanie.
 
-4. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umów poręczenia lub gwarancji, o których mowa w ust. 1, oraz dochodzi spłaty tych kwot ze środków Funduszu, z zastrzeżeniem ust. 5.
+### 4.
 
-5. Jeżeli odzyskanie wierzytelności Skarbu Państwa, powstałych z tytułu udzielonego poręczenia lub gwarancji, nie jest możliwe, Rada Ministrów, na wniosek ministra właściwego do spraw finansów publicznych, może umorzyć wierzytelność w całości lub części.
+Odszkodowanie jest wypłacane ze środków finansowych Agencji.
 
-**Art. 39k.**
+### Art. 28.
 
-1. Bank Gospodarstwa Krajowego, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, dokonuje wypłat ze środków Funduszu odpowiednio na rzecz spółek lub wykonawców robót w wysokości i terminach wynikających z umów, o których mowa w art. 39i pkt 1 i 2, a na wniosek ministra właściwego do spraw transportu dokonuje wypłat, o których mowa w art. 39f ust. 1 pkt 4 i 6 lit. c.
+W przypadku gdy przeznaczone na pasy drogowe nieruchomości stanowiące własność Skarbu Państwa zostały oddane w użytkowanie wieczyste, Agencja działając w imieniu Skarbu Państwa rozwiązuje z użytkownikiem wieczystym umowę użytkowania wieczystego.
 
-1a. (uchylony)
+### Art. 29.
 
-2. Bank Gospodarstwa Krajowego, na wniosek drogowych spółek specjalnego przeznaczenia, dokonuje wypłat ze środków Funduszu na rzecz wykonawców przygotowania lub realizacji przedsięwzięć drogowych.
+Wszczęcie postępowania wywłaszczeniowego, w odniesieniu do nieruchomości przeznaczonych na pasy drogowe autostrad, następuje na wniosek Prezesa Agencji po bezskutecznym upływie terminu wyznaczonego przez wojewodę na piśmie właścicielowi lub użytkownikowi wieczystemu nieruchomości do zawarcia umowy, o której mowa w art. 26 i 28. Termin ten nie może być krótszy niż 2 miesiące od dnia otrzymania przez właściciela lub użytkownika wieczystego nieruchomości pisemnej oferty Agencji zawarcia umowy.
 
-3. (uchylony)
+### Art. 30.
 
-4. Bank Gospodarstwa Krajowego, na wniosek:
+Postępowanie wywłaszczeniowe wszczyna i decyzje w jego toku wydaje wojewoda.
 
-- **1)** Szefa KAS lub
-- **2)** organu Krajowej Administracji Skarbowej wyznaczonego na podstawie art. 13hb ust. 1bc ustawy z dnia 21 marca 1985 r. o drogach publicznych, lub
-- **3)** jednostki, o której mowa w art. 13hb ust. 1ja ustawy z dnia 21 marca 1985 r. o drogach publicznych – dokonuje wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b i pkt 9.
+### Art. 31.
 
-**Art. 39l.**
+### 1.
 
-1. Minister właściwy do spraw transportu zawiera z Bankiem Gospodarstwa Krajowego porozumienie określające:
+Po wszczęciu postępowania wywłaszczeniowego wojewoda, na wniosek Prezesa Agencji, udziela w uzasadnionych przypadkach, w drodze decyzji, zezwolenia na niezwłoczne zajęcie nieruchomości przeznaczonych na pasy drogowe autostrad.
 
-- **1)** szczegółowy sposób i terminy dokonywania wypłat ze środków Funduszu, z wyjątkiem wypłat na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9;
-- **2)** sposób i terminy dokonywania przez Bank Gospodarstwa Krajowego lokat, o których mowa w art. 39e ust. 1;
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** sposób gromadzenia w ramach Funduszu środków, o których mowa w art. 39n ust. 2 pkt 2, oraz wpływów, o których mowa w art. 39b ust. 1 pkt 11b i 11e;
-- **6)** tryb przekazywania do Generalnego Dyrektora Dróg Krajowych i Autostrad albo drogowej spółki specjalnego przeznaczenia środków finansowych na realizację zadań;
-- **7)** zasady udzielania finansowania, o którym mowa w art. 39f ust. 6.
+### 2.
 
-2. Minister właściwy do spraw transportu oraz minister właściwy do spraw finansów publicznych zawiera z Bankiem Gospodarstwa Krajowego porozumienie określające szczegółowy:
+Decyzji, o której mowa w ust. 1, może być nadany rygor natychmiastowej wykonalności, z uwzględnieniem stanu przygotowania inwestycji oraz możliwości zbioru ziemiopłodów.
 
-- **1)** sposób i tryb przekazywania przychodów z opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-- **2)** sposób i termin dokonywania wypłat ze środków Funduszu na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9;
-- **3)** sposób i termin przekazywania przez ministra właściwego do spraw finansów publicznych informacji do ministra właściwego do spraw transportu o przewidywanej kwocie: 39n ust. 1.
-    - **a)** przychodów z opłaty, o której mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych,
-    - **b)** wydatków na cele, o których mowa w art. 39f ust. 1 pkt 5, pkt 6 lit. b, pkt 9 – na potrzeby przygotowania projektu planu finansowego, o którym mowa w art.
+### Art. 32.
 
-**Art. 39m.** Nadzór nad gospodarowaniem środkami Funduszu sprawuje Rada Nadzorcza Banku Gospodarstwa Krajowego.
+### 1.
 
-**Art. 39n.**
+Odszkodowanie za wywłaszczoną nieruchomość powinno odpowiadać jej wartości rynkowej, ustalonej według stanu na dzień wydania decyzji o ustaleniu lokalizacji autostrady.
 
-1. Bank Gospodarstwa Krajowego wyodrębnia w swoim planie finansowym plan finansowy Funduszu.
+### 2.
 
-2. Plan finansowy Funduszu określa w szczególności:
+Wartość nieruchomości określają biegli lub inne osoby, o których mowa w art. 38 ust. 1 ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ([Dz. U. z 1991 r. Nr 30, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1991/127/text.html), [Nr 103, poz. 446](https://api.sejm.gov.pl/eli/acts/DU/1991/446/text.html) i [Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1993 r. Nr 47, poz. 212](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.html) i [Nr 131, poz. 629](https://api.sejm.gov.pl/eli/acts/DU/1993/629/text.html) oraz z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), [Nr 31, poz. 118](https://api.sejm.gov.pl/eli/acts/DU/1994/118/text.html), [Nr 84, poz. 384](https://api.sejm.gov.pl/eli/acts/DU/1994/384/text.html), [Nr 85, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/1994/388/text.html), [Nr 89, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/1994/415/text.html) i [Nr 123, poz. 601](https://api.sejm.gov.pl/eli/acts/DU/1994/601/text.html)).
 
-- **1)** przeznaczenie środków Funduszu zgodnie z art. 39f ust. 1–3 i 5;
-- **2)** przewidywaną sumę środków przeznaczonych do refundacji dla: o finansach publicznych, przekazywanych z budżetu państwa oraz
-    - **a)** inwestycji realizowanych w ramach programów ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r.
-    - **b)** inwestycji realizowanych w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198 i 1846);
+### 3.
 
-- **3)** przewidywaną kwotę finansowania, o którym mowa w art. 39f ust. 6;
-- **4)** maksymalną kwotę oraz termin obowiązywania poręczeń i gwarancji, o których mowa w art. 39j.
+Odszkodowanie, o którym mowa w ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących w razie zwrotu wywłaszczonych nieruchomości.
 
-3. Bank Gospodarstwa Krajowego, niepóźniej niż do dnia 15 czerwca roku poprzedzającego rok, w którym plan finansowy Funduszu ma obowiązywać, przedstawia projekt tego planu do:
+### 4.
 
-- **1)** uzgodnienia:
-    - **a)** ministrowi właściwemu do spraw transportu,
-    - **b)** ministrowi właściwemu do spraw finansów publicznych w zakresie finansowym;
+Odszkodowanie za wywłaszczone nieruchomości wypłacane jest ze środków finansowych przekazywanych wojewodzie przez Agencję.
 
-- **2)** zaopiniowania ministrowi właściwemu do spraw rozwoju regionalnego w zakresie środków przeznaczonych na realizację inwestycji finansowanych z programów operacyjnych ujętych w wykazie, o którym mowa w art. 122 ust. 1 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### Art. 33.
 
-4. Uzgodnienie oraz opinia, o których mowa w ust. 3, następuje do dnia 31 lipca roku poprzedzającego rok, w którym plan finansowy Funduszu ma obowiązywać.
+### 1.
 
-5. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu oraz podstawę do zaciągnięcia kredytów i pożyczek oraz przeprowadzenia emisji obligacji, o których mowa w art. 39d ust. 1.
+Decyzja o ustaleniu lokalizacji autostrady stanowi podstawę do wydania decyzji o wygaśnięciu zarządu ustanowionego na nieruchomości przeznaczonej na pasy drogowe autostrad, stanowiącej własność Skarbu Państwa. Przepis art. 31 stosuje się odpowiednio.
 
-6. Bank Gospodarstwa Krajowego:
+### 2.
 
-- **1)** sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat, wchodzące w skład sprawozdania finansowego tego banku;
-- **2)** składa ministrom, o których mowa w ust. 3, w terminie do końca miesiąca następującego po każdym kwartale, informację o realizacji planu finansowego Funduszu. Art. 39na. Środki przekazywane do Krajowego Funduszu Drogowego na inwestycje realizowane w ramach planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, mogą pochodzić wyłącznie ze środków budżetu środków europejskich, o których mowa w art. 14ll ust. 1 tej ustawy.
+Jeżeli przeznaczona na pasy drogowe autostrad nieruchomość stanowiąca własność Skarbu Państwa została wydzierżawiona lub wynajęta, decyzja o ustaleniu lokalizacji autostrady stanowi podstawę do wypowiedzenia umowy dzierżawy lub najmu ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje od Agencji odszkodowanie.
 
-**Art. 39o.**
+### 3.
 
-1. Bank Gospodarstwa Krajowego pobiera wynagrodzenie prowizyjne z tytułu prowadzenia Funduszu.
+Do rozwiązania użytkowania ustanowionego w drodze decyzji lub umowy stosuje się odpowiednio przepisy ust. 1 i 2.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, wysokość wynagrodzenia, o którym mowa w ust. 1, oraz sposób i terminy jego wypłaty, uwzględniając koszty Banku Gospodarstwa Krajowego ponoszone w związku z prowadzeniem Funduszu.
+### Art. 34.
 
-#### Rozdział 6a Zasady i tryb emisji obligacji poręczanych i gwarantowanych przez Skarb Państwa
+### 1.
 
-**Art. 39p.**
+Z dniem nabycia przez Skarb Państwa własności nieruchomości ustanowione zostaje, z mocy prawa, na rzecz Agencji prawo użytkowania.
 
-1. Obligacje emitowane przez Bank Gospodarstwa Krajowego na rzecz Funduszu i poręczane lub gwarantowane przez Skarb Państwa są papierami wartościowymi, w których Bank Gospodarstwa Krajowego stwierdza, że jest dłużnikiem właściciela takiego papieru i zobowiązuje się wobec niego do spełnienia określonego świadczenia pieniężnego.
+### 2.
 
-2. Dokonanie przez Bank Gospodarstwa Krajowego emisji obligacji, o których mowa w ust. 1, wymaga uprzedniej akceptacji warunków emisji ministra właściwego do spraw budżetu.
+W stosunku do nieruchomości, o których mowa w art. 28 i 33, prawo użytkowania na rzecz Agencji zostaje ustanowione z mocy prawa odpowiednio z dniem rozwiązania użytkowania wieczystego, wygaśnięcia zarządu lub rozwiązania umów: użytkowania, dzierżawy lub najmu.
 
-3. Obligacje są oprocentowane w postaci dyskonta lub odsetek.
+### 3.
 
-3a. Obligacje mogą być emitowane jako obligacje imienne lub na okaziciela.
+Ustanowienie prawa, o którym mowa w ust, 1 i 2, stwierdza wojewoda w drodze decyzji.
 
-4. Obligacje mogą być emitowane w formie zdematerializowanej lub w formie dokumentu, jeżeli jest to dopuszczalne na danym rynku.
+### Art. 35.
 
-4a. Obligacje mogą być emitowane na rynku krajowym lub na rynkach zagranicznych.
+Agencja jest zwolniona z opłat za użytkowanie nieruchomości przeznaczonych na pasy drogowe autostrad.
 
-4b. Obligacje są nominowane w walutach krajów należących do Organizacji Współpracy Gospodarczej i Rozwoju.
+### Art. 36.
 
-5. Obligacje emitowane na rynku krajowym są dopuszczone do obrotu na rynku regulowanym, o ile emitent nie postanowi inaczej w warunkach emisji.
+### 1.
 
-6. Prawa z obligacji niemających formy dokumentu, powstają z chwilą dokonania zapisu w ewidencji i przysługują osobie w niej wskazanej jako posiadacz tych obligacji.
+Do gruntów rolnych i leśnych, objętych decyzjami o ustaleniu lokalizacji autostrady, nie stosuje się przepisów o ochronie gruntów rolnych i leśnych, z tym że określone w tych przepisach należności i opłaty roczne oraz, w odniesieniu do gruntów leśnych i zadrzewionych, jednorazowe odszkodowanie w razie dokonania przedwczesnego wyrębu drzewostanu przeznacza się:
 
-7. Podmiotami uprawnionymi do prowadzenia ewidencji obligacji są:
+### 1)
 
-- **1)** Krajowy Depozyt Papierów Wartościowych S.A.;
-- **2)** firma inwestycyjna;
-- **3)** bank;
-- **4)** zagraniczna instytucja rozliczeniowa, która prowadzi działalność w zakresie rejestrowania papierów wartościowych, rozliczania lub rozrachunku transakcji zawieranych w obrocie papierami wartościowymi.
+na Fundusz Ochrony Gruntów Rolnych z przeznaczeniem na budowę i modernizację dróg gminnych, lokalnych miejskich lub wewnętrznych (dojazd do pól) - z tytułu wyłączenia gruntów z produkcji rolniczej lub leśnej, z zastrzeżeniem pkt 2,
 
-8. Obligacje emitowane na rynku krajowym, które zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do alternatywnego systemu obrotu, są rejestrowane w depozycie papierów wartościowych prowadzonym przez Krajowy Depozyt Papierów Wartościowych S.A.
+### 2)
 
-**Art. 39q.**
+na Fundusz Leśny w Dyrekcji Generalnej Lasów Państwowych - z tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne „Lasy Państwowe”.
 
-1. Bank Gospodarstwa Krajowego określi przez wydanie listu emisyjnego warunki emisji obligacji dotyczące treści świadczeń wynikających z obligacji i sposób ich realizacji.
+### 2.
 
-2. List emisyjny zawiera w szczególności:
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami: Finansów, Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa oraz Rolnictwa i Gospodarki Żywnościowej określi, w drodze zarządzenia, sposób i terminy przekazania przez Agencję środków finansowych, o których mowa w ust. 1.
 
-- **1)** datę emisji;
-- **2)** powołanie podstawy prawnej emisji;
-- **2a)** walutę, w której następuje emisja obligacji;
-- **3)** wartość nominalną jednej obligacji;
-- **4)** wielkość emisji;
-- **5)** cenę emisyjną lub sposób jej ustalenia;
-- **6)** stopę procentową lub sposób jej obliczania;
-- **7)** terminy, sposoby i warunki sprzedaży;
-- **8)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
-- **9)** datę, od której nalicza się oprocentowanie obligacji danej emisji;
-- **10)** termin i warunki wykupu oraz zastrzeżenia w przedmiocie możliwości wcześniejszego wykupu;
-- **11)** informację o zabezpieczeniu obligacji poręczeniem lub gwarancją Skarbu Państwa;
-- **12)** w przypadku gdy przewidywane jest ograniczenie kręgu podmiotów, którym obligacje są oferowane do nabycia na rynku pierwotnym – wskazanie podmiotów, którym obligacje danej emisji mogą być oferowane;
-- **13)** w przypadku gdy przewidywane jest ograniczenie co do obrotu obligacjami – wskazanie ograniczeń obrotu obligacjami, w tym obligacjami na okaziciela, na rynku pierwotnym lub wtórnym;
-- **14)** w przypadku gdy przewidywane jest ograniczenie w przenoszeniu obligacji – wskazanie ograniczenia w przenoszeniu obligacji, w tym obligacji na okaziciela, do innego rejestru lub pomiędzy rejestrami prowadzonymi przez różne podmioty prowadzące działalność maklerską lub banki powiernicze, w ramach których są dokonywane zapisy identyfikujące osoby, którym przysługują prawa z tych obligacji uważane według przepisów prawa za rachunki papierów wartościowych, albo na rachunki papierów wartościowych lub rachunki zbiorcze.
+### Art. 37.
 
-3. Bank Gospodarstwa Krajowego podaje do publicznej wiadomości warunki danej emisji poprzez ich opublikowanie na stronach internetowych Banku Gospodarstwa Krajowego lub w innych środkach masowego przekazu o zasięgu ogólnopolskim, w szczególności w elektronicznych systemach informacyjnych.
+W sprawach nie uregulowanych w niniejszym rozdziale stosuje się przepisy ustawy, o której mowa w art. 32 ust. 2.
 
-4. Podanie do publicznej wiadomości listu emisyjnego, w sposób określony w ust. 3, jest warunkiem dojścia emisji do skutku.
+### Rozdział 6 Finansowanie budowy autostrad
 
-5. Emisja następuje z dniem rozliczenia zaoferowanych do nabycia obligacji oraz w kwocie równej wartości nominalnej zbytych obligacji.
+### Art. 38.
 
-**Art. 39r.** Sprzedaż obligacji może być dokonywana w trybie:
+Budowę autostrad finansuje się:
 
-**Art. 39s.**
+### 1)
 
-1. W przetargach, o których mowa w art. 39r pkt 3, mogą brać udział wyłącznie banki, instytucje kredytowe lub instytucje finansowe, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176), a także ich oddziały, z którymi minister właściwy do spraw budżetu zawarł umowę przyznającą im prawo do składania ofert na przetargach obligacji skarbowych.
+ze środków własnych koncesjonariuszy oraz uzyskanych przez nich kredytów bankowych,
 
-2. Uczestnicy przetargu nabywają obligacje we własnym imieniu i na własny rachunek.
+### 2)
 
-**Art. 39t.**
+ze środków finansowych z budżetu państwa ustalanych corocznie w ustawie budżetowej na cele, o których mowa w art. 12 ust. 3,
 
-1. Z chwilą wykupu obligacje podlegają umorzeniu.
+### 3)
 
-2. Bank Gospodarstwa Krajowego może nabywać własne obligacje jedynie w celu ich umorzenia.
+z innych źródeł.
 
-**Art. 39u.** Jeżeli dzień, w którym na podstawie listu emisyjnego powstaje obowiązek wykonania czynności, przypada na dzień ustawowo wolny od pracy lub sobotę, termin wykonania tej czynności upływa w pierwszym dniu roboczym po tym dniu.
+### Art. 39.
 
-**Art. 39w.** Do obligacji, o których mowa w art. 39p, nie stosuje się:
+Koncesjonariusz może uzyskać poręczenie spłaty ze środków budżetu państwa kredytu bankowego lub pożyczki, na ogólnie obowiązujących zasadach, do wysokości nie wyższej niż 50% wartości inwestycji przewidzianej do realizacji w ramach koncesji.
 
-#### Rozdział 7
+### Rozdział 7 Postępowanie przetargowe
 
-#### Rozdział 8
+### Art. 40.
 
-#### Rozdział 9 Umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady
+Budowa i eksploatacja autostrady wymaga uzyskania koncesji.
 
-**Art. 61.**
+### Art. 41.
 
-1. Generalny Dyrektor Dróg Krajowych i Autostrad albo drogowa spółka specjalnego przeznaczenia zawiera ze spółką umowę o budowę i eksploatację albo wyłącznie eksploatację autostrady.
+Wybór koncesjonariusza następuje w drodze przeprowadzanego przez Agencję dwustopniowego postępowania przetargowego:
 
-2. Przed ogłoszeniem postępowania w sprawie wyboru spółki Generalny Dyrektor Dróg Krajowych i Autostrad albo drogowa spółka specjalnego przeznaczenia uzgadnia:
+### 1)
 
-- **1)** warunki przetargu z ministrem właściwym do spraw transportu;
-- **2)** planowane zobowiązania finansowe Skarbu Państwa z ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw finansów publicznych.
+kwalifikacji wstępnej,
 
-3. Uzgodnienie, o którym mowa w ust. 2, następuje w terminie 60 dni.
+### 2)
 
-**Art. 62.** (uchylony)
+przetargu ograniczonego do zakwalifikowanych do złożenia oferty, zwanego dalej „przetargiem”.
 
-**Art. 63.** Umowa o budowę i eksploatację albo wyłącznie eksploatację autostrady powinna określać w szczególności:
+### Art. 42.
 
-**Art. 63a.** Rada Ministrów, na wniosek ministra właściwego do spraw transportu, określi, w drodze rozporządzenia, ogólne kierunki współpracy spółki z administracją drogową, Policją, pogotowiem ratunkowym oraz jednostkami systemu ratowniczo-gaśniczego, z uwzględnieniem realizacji ich zadań ustawowych, przy zachowaniu nieprzerwanego dostępu do autostrady i jej przejezdności.
+### 1.
 
-**Art. 63b.**
+Agencja zaprasza do udziału w kwalifikacji wstępnej poprzez umieszczenie ogłoszenia w prasie o zasięgu krajowym.
 
-1. Spółka jest obowiązana do utrzymania, przebudowy, remontu i ochrony autostrady wraz z nawierzchnią drogową i obiektami mostowymi w jej pasie drogowym oraz znakami drogowymi, sygnałami drogowymi i urządzeniami bezpieczeństwa ruchu drogowego, związanymi z funkcjonowaniem tej autostrady, z zastrzeżeniem ust. 2.
+### 2.
 
-2. Utrzymanie wchodzących w skład pasa drogowego autostrady przejazdów z przecinającymi ją drogami i innymi liniami komunikacyjnymi w części drogowej i mostowej obejmującej skarpy nasypów i wykopów, urządzenia do odwodnienia, nawierzchnie, torowiska, drogi dla pieszych, drogi dla pieszych i rowerów, drogi dla rowerów, pobocza, poręcze oraz znaki drogowe, sygnały drogowe i urządzenia bezpieczeństwa ruchu drogowego należy do zarządców właściwych dla tych dróg lub linii komunikacyjnych, w których ciągu są one zlokalizowane.
+Ogłoszenie, o którym mowa w ust. 1, powinno zawierać w szczególności:
 
-**Art. 63c.** (uchylony)
+### 1)
 
-**Art. 63d.**
+oznaczenie autostrady,
 
-1. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia są uprawnieni do kontroli budowy i eksploatacji autostrady w zakresie przestrzegania warunków umowy o budowę i eksploatację albo wyłącznie eksploatację autostrady.
+### 2)
 
-2. Osoby upoważnione przez Generalnego Dyrektora Dróg Krajowych i Autostrad lub drogową spółkę specjalnego przeznaczenia do dokonywania kontroli są uprawnione w szczególności do:
+określenie miejsca i terminu otrzymania specyfikacji warunków kwalifikacji wstępnej oraz wysokość opłat za specyfikację,
 
-- **1)** wstępu na teren nieruchomości, na której jest prowadzona budowa lub eksploatacja autostrady;
-- **2)** żądania pisemnych lub ustnych wyjaśnień, okazania dokumentów lub innych informacji oraz udostępnienia danych mających związek z przedmiotem kontroli.
+### 3)
 
-3. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia mogą wezwać spółkę do usunięcia, w wyznaczonym terminie, stwierdzonych nieprawidłowości.
+informację o miejscu i terminie:
 
-4. W przypadku gdy spółka nie usunęła nieprawidłowości w terminie, o którym mowa w ust. 3, umowa o budowę i eksploatację autostrady albo wyłącznie eksploatację autostrady może być wypowiedziana.
+### a)
 
-5. Generalny Dyrektor Dróg Krajowych i Autostrad lub drogowa spółka specjalnego przeznaczenia wykonują obowiązek, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w stosunku do osoby, której dane osobowe są prze-twarzane w związku z kontrolą, o której mowa w ust. 1, przy pierwszej czynności skierowanej do tej osoby, chyba że posiada ona te informacje, a ich zakres lub treść nie uległy zmianie.
+składania dokumentacji do kwalifikacji wstępnej,
 
-6. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na wykonywanie uprawnień Generalnego Dyrektora Dróg Krajowych i Autostrad lub drogowej spółki specjalnego przeznaczenia, o których mowa w ust. 1–4.
+### b)
 
-**Art. 63e.** (uchylony)
+ogłoszenia wyników,
 
-#### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
+### 4)
 
-**Art. 70a.** Do dnia 30 listopada 2021 r. Szef KAS może nie pobierać opłaty za przejazd autostradą w przypadku wy-stąpienia zagrożenia bezpieczeństwa ruchu drogowego lub zdarzenia zmniejszającego stopień tego bezpieczeństwa.
+informację o sposobie ogłoszenia wyników kwalifikacji wstępnej.
 
-**Art. 70b.** Do dnia 30 września 2021 r. opłatę za przejazd autostradą wnoszoną zgodnie z art. 37a ust. 8, z wykorzystaniem Systemu Poboru Opłaty Elektronicznej KAS, wnosi się w wysokości 75 % stawki opłaty za przejazd autostradą określonej w przepisach wydanych na podstawie art. 37e ust. 2.
+### 3.
 
-**Art. 71.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+Specyfikacja warunków kwalifikacji wstępnej składa się w szczególności z:
 
+### 1)
+
+podstawowych informacji technicznych dotyczących autostrady,
+
+### 2)
+
+informacji o podstawowych wymaganiach procedury kwalifikacji wstępnej.
+
+### Art. 43.
+
+W postępowaniu przetargowym mogą uczestniczyć spółki z ograniczoną odpowiedzialnością i spółki akcyjne z siedzibą w Polsce, o kapitale zakładowym (akcyjnym) nie mniejszym niż równowartość 10 milionów ECU.
+
+### Art. 44.
+
+### 1.
+
+W czasie przygotowywania dokumentacji do kwalifikacji wstępnej uczestnik może zwrócić się do Agencji o wyjaśnienie elementów specyfikacji warunków tej kwalifikacji.
+
+### 2.
+
+Treść udzielonej odpowiedzi Agencja przesyła jednocześnie wszystkim uczestnikom kwalifikacji wstępnej.
+
+### Art. 45.
+
+Członków komisji przetargowej powołuje i odwołuje Minister Transportu i Gospodarki Morskiej.
+
+### Art. 46.
+
+### 1.
+
+Uczestnicy kwalifikacji wstępnej mogą być zobowiązani do udzielenia dodatkowych wyjaśnień komisji przetargowej.
+
+### 2.
+
+Agencja może przedłużyć termin składania dokumentacji do kwalifikacji wstępnej w sposób określony w art. 42 ust. 1.
+
+### Art. 47.
+
+### 1.
+
+Oceny dokumentacji do kwalifikacji wstępnej dokonuje komisja przetargowa zgodnie z kryteriami określonymi przez Ministra Transportu i Gospodarki Morskiej w przepisach, o których mowa w art. 53.
+
+### 2.
+
+Ocena dokumentacji złożonej do kwalifikacji wstępnej jest podstawą wyboru uczestników przetargu, zwanych dalej „oferentami”.
+
+### 3.
+
+Komisja przetargowa dokonuje wyboru oferentów.
+
+### 4.
+
+Z czynności otwarcia i oceny dokumentacji do kwalifikacji wstępnej, wyboru oferentów i ogłoszenia wyników wyboru sporządza się protokół.
+
+### 5.
+
+Protokół, o którym mowa w ust. 4, udostępnia się uczestnikom kwalifikacji wstępnej na ich żądanie.
+
+### Art. 48.
+
+### 1.
+
+Oferenci otrzymują pisemne zaproszenie do przetargu, z podaniem w szczególności terminu i miejsca składania ofert.
+
+### 2.
+
+Oferenci otrzymują informację o warunkach przetargu po wpłaceniu na rachunek Agencji opłaty za informację oraz po złożeniu pisemnego oświadczenia o nieudostępnianiu osobom trzecim informacji uzyskanych w trakcie przetargu.
+
+### 3.
+
+Informacja o warunkach przetargu zawiera w szczególności:
+
+### 1)
+
+podstawową dokumentację techniczną, pozwalającą na sformułowanie oferty,
+
+### 2)
+
+wymagania co do treści i zakresu oferty,
+
+### 3)
+
+informacje o przewidywanych istotnych warunkach koncesji i umowy koncesyjnej,
+
+### 4)
+
+informacje o terminie wpłaty wadium oraz o jego wysokości, zatwierdzonej na wniosek Prezesa Agencji przez Ministra Transportu i Gospodarki Morskiej.
+
+### 4.
+
+Prezes Agencji określa wysokość i tryb uiszczenia opłaty, o której mowa w ust. 2.
+
+### Art. 49.
+
+Komisja przetargowa ocenia w szczególności:
+
+### 1)
+
+stan ekonomiczno-finansowy, w tym wiarygodność finansową oferenta,
+
+### 2)
+
+przygotowanie organizacyjne i techniczne oferenta lub wskazanych przez niego wykonawców do należytego wykonania autostrady,
+
+### 3)
+
+plan finansowania oraz program budowy i eksploatacji autostrady,
+
+### 4)
+
+stopień zdolności oferenta do finansowania budowy bez poręczeń, o których mowa w art. 39,
+
+### 5)
+
+proponowany przez oferenta zakres zatrudnienia wykonawców polskich oraz stosowania materiałów i wyrobów produkcji krajowej.
+
+### Art. 50.
+
+Do przetargu i ofert stosuje się odpowiednio przepisy art. 44-46.
+
+### Art. 51.
+
+### 1.
+
+Wycofanie oferty w czasie przetargu powoduje utratę wadium.
+
+### 2.
+
+Wadium wniesione przez oferenta, którego oferta nie została przyjęta, podlega zwrotowi w terminie 14 dni po dokonaniu wyboru ofert przez komisję przetargową.
+
+### 3.
+
+Wadium wniesione przez oferenta, którego oferta została uznana za najkorzystniejszą, podlega zwrotowi w terminie 14 dni po zawarciu umowy koncesyjnej. Wadium nie podlega zwrotowi w razie odstąpienia oferenta od zawarcia umowy koncesyjnej bez ważnych przyczyn.
+
+### Art. 52.
+
+Komisja przetargowa przedstawia Ministrowi Transportu i Gospodarki Morskiej protokół z postępowania przetargowego oraz zawiadamia oferentów o wynikach tego postępowania.
+
+### Art. 53.
+
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, szczegółowe zasady postępowania przetargowego oraz tryb pracy komisji przetargowej.
+
+### Rozdział 8 Koncesje na budowę i eksploatację autostrad
+
+### Art. 54.
+
+Koncesji udziela się spółce, której oferta została w wyniku przetargu uznana przez komisję przetargową za najkorzystniejszą.
+
+### Art. 55.
+
+### 1.
+
+Organem właściwym do udzielenia i cofnięcia koncesji jest Minister Transportu i Gospodarki Morskiej.
+
+### 2.
+
+Udzielenie i cofnięcie koncesji następuje w drodze decyzji.
+
+### 3.
+
+Za udzielenie koncesji pobiera się opłatę.
+
+### 4.
+
+Koncesja może być udzielona na budowę i eksploatację albo wyłącznie na eksploatację autostrady lub jej odcinka.
+
+### 5.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Finansów określi, w drodze zarządzenia, wysokość i sposób uiszczenia opłaty, o której mowa w ust. 3.
+
+### Art. 56.
+
+Koncesja określa w szczególności:
+
+### 1)
+
+nazwę spółki i jej siedzibę,
+
+### 2)
+
+przedmiot działalności objęty koncesją,
+
+### 3)
+
+datę rozpoczęcia działalności,
+
+### 4)
+
+obowiązki koncesjonariusza, określone w art. 57,
+
+### 5)
+
+okres, na jaki została udzielona.
+
+### Art. 57.
+
+Koncesjonariusz jest obowiązany do:
+
+### 1)
+
+zgromadzenia środków finansowych na budowę i podjęcie eksploatacji autostrady,
+
+### 2)
+
+przygotowania dokumentacji technicznej wymaganej do podjęcia budowy autostrady, uzyskania pozwolenia na budowę i uzgodnień wymaganych odrębnymi przepisami,
+
+### 3)
+
+przestrzegania przepisów techniczno-budowlanych i eksploatacyjnych dotyczących autostrad oraz przepisów dotyczących ochrony środowiska i ochrony dóbr kultury,
+
+### 4)
+
+terminowej realizacji procesu inwestycyjnego,
+
+### 5)
+
+utrzymania autostrady według standardów określonych w przepisach prawa i umowie,
+
+### 6)
+
+umożliwienia Agencji dokonania, w dowolnym czasie, kontroli budowy i eksploatacji autostrady oraz dostarczania w tym zakresie danych i dokumentów.
+
+### Art. 58.
+
+### 1.
+
+Koncesja może być cofnięta w przypadku:
+
+### 1)
+
+niezawarcia umowy koncesyjnej w terminie do 6 miesięcy od daty udzielenia koncesji,
+
+### 2)
+
+naruszenia obowiązków, o których mowa w art. 57, lub warunków umowy koncesyjnej,
+
+### 3)
+
+zagrożenia ważnego interesu gospodarki narodowej, obronności lub bezpieczeństwa państwa albo zagrożenia bezpieczeństwa ludzi.
+
+### 2.
+
+Koncesja wygasa w przypadku rozwiązania umowy koncesyjnej.
+
+### Art. 59.
+
+### 1.
+
+W przypadku cofnięcia koncesji z przyczyny określonej w art. 58 ust. 1 pkt 1, komisja przetargowa na wniosek Ministra Transportu i Gospodarki Morskiej przeprowadza ponownie wybór najkorzystniejszej oferty spośród ofert już złożonych.
+
+### 2.
+
+W przypadku niedokonania wyboru, o którym mowa w ust. 1, Agencja ogłasza nowe postępowanie przetargowe.
+
+### Art. 60.
+
+### 1.
+
+Agencja jest uprawniona do kontroli budowy i eksploatacji autostrady w zakresie:
+
+### 1)
+
+zgodności z udzieloną koncesją,
+
+### 2)
+
+przestrzegania warunków umowy koncesyjnej,
+
+### 3)
+
+zgodności opłat za przejazdy autostradą ze szczegółowymi zasadami określonymi w przepisach, o których mowa w art. 3 ust. 4.
+
+### 2.
+
+Osoby upoważnione przez Prezesa Agencji do dokonywania kontroli są uprawnione w szczególności do:
+
+### 1)
+
+wstępu na teren nieruchomości, na której jest prowadzona budowa lub eksploatacja autostrady,
+
+### 2)
+
+żądania pisemnych lub ustnych wyjaśnień, okazania dokumentów lub innych informacji oraz udostępnienia danych mających związek z przedmiotem kontroli.
+
+### Rozdział 9 Umowa koncesyjna
+
+### Art. 61.
+
+Minister Transportu i Gospodarki Morskiej zawiera z koncesjonariuszem umowę koncesyjną.
+
+### Art. 62.
+
+### 1.
+
+Umowa koncesyjna powinna określać w szczególności:
+
+### 1)
+
+termin rozpoczęcia i zakończenia budowy,
+
+### 2)
+
+okres eksploatacji autostrady i stawki opłat w chwili rozpoczęcia eksploatacji,
+
+### 3)
+
+termin przekazania dokumentacji dotyczącej lokalizacji autostrady,
+
+### 4)
+
+sposób i terminy udostępnienia przez Agencję gruntów pod budowę autostrady, warunki zagospodarowania znajdujących się na nich: budynków, budowli, urządzeń, drzewostanu i innych upraw,
+
+### 5)
+
+warunki i zakres zabezpieczenia obiektów archeologicznych odkrytych w trakcie budowy,
+
+### 6)
+
+prawa koncesjonariusza do korzystania z gruntu i wzniesionych przez niego budynków, budowli i innych urządzeń,
+
+### 7)
+
+zobowiązania koncesjonariusza do:
+
+### a)
+
+budowy i eksploatacji autostrady zgodnie z obowiązującymi przepisami,
+
+### b)
+
+zachowania nieprzerwanej dostępności do autostrady i jej przejezdności,
+
+### c)
+
+zapewnienia bezpieczeństwa użytkowników,
+
+### d)
+
+ustalania, w uzgodnieniu z Ministerstwem Obrony Narodowej, limitu zwolnień pojazdów Sił Zbrojnych od opłat za przejazdy autostradami,
+
+### 8)
+
+zasady współpracy koncesjonariusza z administracją drogową, Policją, pogotowiem ratunkowym oraz jednostkami systemu ratowniczo-gaśniczego,
+
+### 9)
+
+zasady zagospodarowania miejsc obsługi podróżnych, pojazdów i przesyłek, uwzględniające konkurencję,
+
+### 10)
+
+termin i sposób przekazania Agencji autostrady i dotyczącej jej dokumentacji po zakończeniu okresu eksploatacji,
+
+### 11)
+
+zasady odpowiedzialności stron,
+
+### 12)
+
+sposób rozstrzygania sporów wynikłych na tle realizacji umowy,
+
+### 13)
+
+warunki rozwiązania umowy,
+
+### 14)
+
+zasady wzajemnych rozliczeń w razie rozwiązania umowy.
+
+### 2.
+
+Umowa ulega rozwiązaniu z mocy prawa z dniem uprawomocnienia się decyzji o cofnięciu koncesji.
+
+### Art. 63.
+
+W przypadku udzielenia koncesji wyłącznie na eksploatację autostrady, przepisy rozdziału niniejszego stosuje się odpowiednio.
+
+### Rozdział 10 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 64.
+
+W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie gruntów ([Dz. U. z 1989 r. Nr 58, poz. 349](https://api.sejm.gov.pl/eli/acts/DU/1989/349/text.html) i z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 po wyrazach „Skarbu Państwa” stawia się przecinek i dodaje się wyrazy „z zastrzeżeniem art. 4 ust. 2,”;
+
+### 2)
+
+w art. 4:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+W przypadku prowadzenia scalania gruntów w związku z budową autostrady, koszty wykonania scalenia i wymiany gruntów oraz poscaleniowego zagospodarowania gruntów pokrywa Agencja Budowy i Eksploatacji Autostrad.
+
+”
+
+### Art. 65.
+
+### 1.
+
+W ustawie z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. Nr 14, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), z [1991 r. Nr 75, poz. 332](https://api.sejm.gov.pl/eli/acts/DU/1991/332/text.html) i z [1993 r. Nr 47, poz. 212](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+dodaje się art. 4a w brzmieniu:
+
+„
+
+### Art. 4a.
+
+Rada Ministrów, na wniosek Ministra Transportu i Gospodarki Morskiej, ustala, w drodze rozporządzenia, sieć autostrad i dróg ekspresowych.
+
+” ;
+
+### 2)
+
+w art. 13:
+
+### a)
+
+w ust. 2 skreśla się pkt 1,
+
+### b)
+
+w ust. 4 skreśla się wyrazy „i w art. 16c ust. 6 niniejszej ustawy”,
+
+### c)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Zasady ustalania i pobierania opłat za przejazdy autostradami budowanymi i eksploatowanymi zgodnie z przepisami niniejszej ustawy są określone przepisami o autostradach płatnych.
+
+” ;
+
+### 3)
+
+dodaje się art. 13a w brzmieniu:
+
+„
+
+### Art. 13a.
+
+Zadania w zakresie budowy i eksploatacji autostrad i dróg ekspresowych mogą być realizowane:
+
+### 1)
+
+na zasadach ogólnych określonych w ustawie,
+
+### 2)
+
+na zasadach określonych w przepisach o autostradach płatnych.
+
+” ;
+
+### 4)
+
+skreśla się rozdział 1 a;
+
+### 5)
+
+dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+Uprawnienia Generalnej Dyrekcji Dróg Publicznych i dyrekcji okręgowych dróg publicznych, określone w art. 21 ust. 1 i 2 oraz w art. 23 ust. 1 pkt 1, nie dotyczą autostrad płatnych.
+
+” ;
+
+### 6)
+
+art. 40a otrzymuje brzmienie:
+
+„
+
+### Art. 40a.
+
+Opłaty pochodzące ze źródeł, o których mowa w art. 13 ust. 2, oraz opłaty i kary określone w art. 40 ust. 4 stanowią dochody środków specjalnych zarządów dróg, przeznaczonych na utrzymanie dróg.
+
+”
+
+### 2.
+
+Na okres roku od dnia wejścia w życie ustawy utrzymuje się w mocy przepisy wydane na podstawie art. 16d pkt 2 ustawy, o której mowa w ust. 1.
+
+### Art. 66.
+
+W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej ([Dz. U. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1990 r. Nr 26, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1990/149/text.html), [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html), z [1991 r. Nr 31, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1991/128/text.html), [Nr 41, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/1991/179/text.html), [Nr 73, poz. 321](https://api.sejm.gov.pl/eli/acts/DU/1991/321/text.html), [Nr 105, poz. 452](https://api.sejm.gov.pl/eli/acts/DU/1991/452/text.html), [Nr 106, poz. 457](https://api.sejm.gov.pl/eli/acts/DU/1991/457/text.html) i [Nr 107, poz. 460](https://api.sejm.gov.pl/eli/acts/DU/1991/460/text.html), z [1993 r. Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html), [Nr 47, poz. 212](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html) oraz z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html)) w art. 11 w ust. 1 skreśla się pkt 7a.
+
+### Art. 67.
+
+W ustawie z dnia 28 września 1991 r. o lasach ([Dz. U. Nr 101, poz. 444](https://api.sejm.gov.pl/eli/acts/DU/1991/444/text.html), z [1992 r. Nr 21, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/1992/85/text.html) i [Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) oraz z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html)) dodaje się art. 38a w brzmieniu:
+
+„
+
+### Art. 38a.
+
+Przekazanie lasów, gruntów i innych nieruchomości Skarbu Państwa, zarządzanych przez Lasy Państwowe, Agencji Budowy i Eksploatacji Autostrad na pasy drogowe autostrad następuje nieodpłatnie na podstawie umowy między Dyrektorem Generalnym a Prezesem Agencji.
+
+”
+
+### Art. 68.
+
+W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niektórych ustaw ([Dz. U. Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1993 r. Nr 5, poz. 23](https://api.sejm.gov.pl/eli/acts/DU/1993/23/text.html) i [Nr 6, poz. 29](https://api.sejm.gov.pl/eli/acts/DU/1993/29/text.html) oraz z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html) i [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html)) w art. 24 dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Agencja, w drodze umowy, przekaże nieodpłatnie Agencji Budowy i Eksploatacji Autostrad grunty wchodzące w skład Zasobu na pasy drogowe autostrad.
+
+”
+
+### Art. 69.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 1993 r. Nr 106, poz. 482](https://api.sejm.gov.pl/eli/acts/DU/1993/482/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html) oraz z [1994 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1994/2/text.html), [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 80, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1994/368/text.html), [Nr 87, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1994/406/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html), [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html) i [Nr 123, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1994/602/text.html)) w art. 6 w ust. 1 dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+Agencję Budowy i Eksploatacji Autostrad.
+
+”
+
+### Art. 70.
+
+W okresie nie dłuższym niż do dnia 31 grudnia 1996 r. Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Finansów zapewni Agencji, w ramach budżetu Ministerstwa, środki finansowe na podjęcie działalności.
+
+### Art. 71.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.

@@ -1,0 +1,190 @@
+---
+title: "Rozporządzenie Ministra Edukacji Narodowej z dnia 15 października 2012 r. w sprawie warunków tworzenia, organizacji oraz działania oddziałów sportowych, szkół sportowych oraz szkół mistrzostwa sportowego"
+address: WDU20120001129
+eli: DU/2012/1129
+publisher: DU
+year: 2012
+pos: 1129
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 15 października 2012 r. w sprawie warunków tworzenia, organizacji oraz działania oddziałów sportowych, szkół sportowych oraz szkół mistrzostwa sportowego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2012 poz. 1129 |
+| ISAP | WDU20120001129 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2012-10-15 |
+| Data wydania | 2012-10-16 |
+| Wejście w życie | 2012-10-17 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/1129/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/1129) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 9 ust. 5 ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2004 r. Nr 256, poz. 2572](https://api.sejm.gov.pl/eli/acts/DU/2004/2572/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941 i 979.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Oddziały sportowe mogą być tworzone w szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych dla młodzieży.
+
+### 2.
+
+W oddziale sportowym jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej trzech kolejnych klasach szkoły danego typu, dla co najmniej 20 uczniów w oddziale.
+
+### § 2.
+
+### 1.
+
+Szkołami sportowymi i szkołami mistrzostwa sportowego mogą być szkoły podstawowe, gimnazja i szkoły ponadgimnazjalne dla młodzieży.
+
+### 2.
+
+Szkoła, w której jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej dwóch oddziałach sportowych, liczących co najmniej 15 uczniów w oddziale, w co najmniej trzech kolejnych klasach szkoły danego typu, jest szkołą sportową.
+
+### 3.
+
+Szkoła, w której jest prowadzone szkolenie sportowe w jednym lub kilku sportach, w co najmniej jednym oddziale sportowym, w co najmniej trzech kolejnych klasach szkoły danego typu, jest szkołą mistrzostwa sportowego. Liczba uczniów w oddziale sportowym szkoły mistrzostwa sportowego jest uzależniona od możliwości zebrania uczniów o zbliżonym poziomie sportowym.
+
+### § 3.
+
+### 1.
+
+Warunkiem utworzenia oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego jest posiadanie obiektów lub urządzeń sportowych niezbędnych do prowadzenia szkolenia sportowego.
+
+### 2.
+
+Szkolenie sportowe może być także realizowane z wykorzystaniem obiektów lub urządzeń sportowych innych jednostek organizacyjnych, na podstawie umowy zawartej pomiędzy organem prowadzącym szkołę a daną jednostką.
+
+### § 4.
+
+### 1.
+
+Szkolenie sportowe w oddziałach sportowych, szkołach sportowych oraz szkołach mistrzostwa sportowego jest prowadzone w ramach zajęć sportowych według programów szkolenia sportowego opracowanych dla poszczególnych sportów.
+
+### 2.
+
+Oddziały sportowe, szkoły sportowe oraz szkoły mistrzostwa sportowego realizują programy szkolenia sportowego równolegle z programem nauczania uwzględniającym podstawę programową kształcenia ogólnego określoną w przepisach w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół.
+
+### 3.
+
+W ramach programu szkolenia sportowego szkoła organizuje dla uczniów obozy szkoleniowe.
+
+### § 5.
+
+### 1.
+
+Oddziały sportowe, szkoły sportowe oraz szkoły mistrzostwa sportowego mogą realizować program szkolenia sportowego we współpracy z polskimi związkami sportowymi, klubami sportowymi, stowarzyszeniami prowadzącymi działalność statutową w zakresie kultury fizycznej lub uczelniami prowadzącymi studia wyższe na kierunku związanym z dziedziną nauk o kulturze fizycznej.
+
+### 2.
+
+Współpraca, o której mowa w ust. 1, może dotyczyć w szczególności pomocy szkoleniowej, wzajemnego udostępniania obiektów lub urządzeń sportowych, korzystania z opieki medycznej i zabiegów odnowy biologicznej, prowadzenia badań diagnostycznych, a także tworzenia warunków do uczestnictwa uczniów w zawodach krajowych i międzynarodowych.
+
+### 3.
+
+Warunki współpracy, o której mowa w ust. 1, określa umowa zawarta pomiędzy organem prowadzącym szkołę a właściwym polskim związkiem sportowym, klubem sportowym, stowarzyszeniem prowadzącym działalność statutową w zakresie kultury fizycznej lub uczelnią prowadzącą studia wyższe na kierunku związanym z dziedziną nauk o kulturze fizycznej.
+
+### § 6.
+
+### 1.
+
+W oddziałach sportowych, szkołach sportowych oraz szkołach mistrzostwa sportowego, z zastrzeżeniem ust. 2, realizuje się następujące etapy szkolenia sportowego:
+
+### 1)
+
+ukierunkowany - realizowany w klasach IV-VI szkoły podstawowej i wszystkich klasach gimnazjum, mający na celu ujawnienie predyspozycji i uzdolnień kwalifikujących uczniów do szkolenia w określonym sporcie;
+
+### 2)
+
+specjalistyczny - realizowany w szkołach ponadgimnazjalnych.
+
+### 2.
+
+W następujących sportach: pływanie, gimnastyka artystyczna, gimnastyka sportowa, akrobatyka sportowa, łyżwiarstwo figurowe, narciarstwo alpejskie i tenis stołowy, ukierunkowany etap szkolenia sportowego może być realizowany od klasy I szkoły podstawowej, a specjalistyczny - od klasy I gimnazjum.
+
+### § 7.
+
+### 1.
+
+Obowiązkowy tygodniowy wymiar godzin zajęć sportowych wynosi:
+
+### 1)
+
+w oddziałach sportowych i szkołach sportowych - co najmniej 10 godzin;
+
+### 2)
+
+w szkołach mistrzostwa sportowego - co najmniej 16 godzin.
+
+### 2.
+
+Obowiązkowy tygodniowy wymiar godzin zajęć sportowych w oddziałach i szkołach, o których mowa w ust. 1, ustala dyrektor szkoły w porozumieniu z organem prowadzącym, na podstawie programu szkolenia sportowego, z uwzględnieniem etapu szkolenia sportowego, sportu oraz poziomu wyszkolenia sportowego uczniów, z zastrzeżeniem ust. 3.
+
+### 3.
+
+W ramach ustalonego zgodnie z ust. 2 obowiązkowego tygodniowego wymiaru godzin zajęć sportowych są realizowane obowiązkowe zajęcia wychowania fizycznego, przewidziane w ramowym planie nauczania dla danego typu szkoły.
+
+### § 8.
+
+### 1.
+
+W przypadkach uzasadnionych względami bezpieczeństwa, specyfiką sportu lub zróżnicowanym poziomem sportowym uczniów w czasie zajęć sportowych mogą być tworzone grupy ćwiczeniowe.
+
+### 2.
+
+Liczba uczniów w grupie ćwiczeniowej w oddziale sportowym i szkole sportowej wynosi co najmniej 10. Za zgodą organu prowadzącego szkołę liczba uczniów w grupie ćwiczeniowej może być mniejsza.
+
+### 3.
+
+Liczba uczniów w grupie ćwiczeniowej w szkole mistrzostwa sportowego jest uzależniona od możliwości realizowania zadań wynikających z programu szkolenia sportowego przez uczniów o zbliżonym poziomie sportowym.
+
+### § 9.
+
+W uzasadnionych przypadkach uczniowie oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego, którzy ze względu na kontuzję lub inną czasową niezdolność do uprawiania sportu nie uczestniczą w zajęciach sportowych, uczęszczają na pozostałe zajęcia edukacyjne.
+
+### § 10.
+
+Uczniów niekwalifikujących się do dalszego szkolenia sportowego, na podstawie opinii trenera lub instruktora prowadzącego zajęcia sportowe i opinii lekarza, przenosi się od nowego roku szkolnego lub nowego semestru do oddziału działającego na zasadach ogólnych.
+
+### § 11.
+
+### 1.
+
+Zadaniem oddziału sportowego, szkoły sportowej oraz szkoły mistrzostwa sportowego jest stworzenie uczniom optymalnych warunków, umożliwiających godzenie zajęć sportowych z innymi zajęciami edukacyjnymi, w szczególności przez:
+
+### 1)
+
+opracowanie tygodniowego planu zajęć tak, aby rozkład innych zajęć edukacyjnych był dostosowany do rozkładu zajęć sportowych;
+
+### 2)
+
+dążenie do maksymalnego opanowania i utrwalenia przez uczniów wiadomości, objętych programem nauczania, na zajęciach edukacyjnych;
+
+### 3)
+
+umożliwienie uczniom osiągającym bardzo dobre wyniki sportowe i uczestniczącym w zawodach ogólnopolskich lub międzynarodowych realizowania indywidualnego programu lub toku nauki, na podstawie przepisów w sprawie warunków i trybu udzielania zezwoleń na indywidualny program lub tok nauki oraz organizacji indywidualnego programu lub toku nauki;
+
+### 4)
+
+organizowanie ferii letnich i zimowych w ciągu całego roku szkolnego, z dostosowaniem ich terminów do terminów zawodów sportowych, przy zachowaniu liczby dni wolnych od zajęć dydaktyczno-wychowawczych, określonych w przepisach w sprawie organizacji roku szkolnego.
+
+### 2.
+
+Dla uczniów dwóch ostatnich klas ponadgimnazjalnej szkoły mistrzostwa sportowego może być prowadzony w szkole kurs instruktorski w uprawianym przez nich sporcie.
+
+### § 12.
+
+Uczniom oddziałów sportowych, szkół sportowych oraz szkół mistrzostwa sportowego uczącym się poza miejscem stałego zamieszkania szkoła zapewnia w okresie pobierania nauki zakwaterowanie w internacie lub bursie oraz całodzienne wyżywienie w pełni pokrywające ubytki energetyczne powstałe podczas zajęć sportowych, a uczniom uczącym się w miejscu zamieszkania - jeden pełnowartościowy posiłek dziennie. Zasady odpłatności za zakwaterowanie i wyżywienie w bursie określają przepisy w sprawie rodzajów i szczegółowych zasad działania placówek publicznych, warunków pobytu dzieci i młodzieży w tych placówkach oraz wysokości i zasad odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach.
+
+### § 13.
+
+Rozporządzenie wchodzi w życie z dniem 17 października 2012 r.[3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 30 lipca 2002 r. w sprawie warunków tworzenia, organizacji oraz działania klas i szkół sportowych oraz szkół mistrzostwa sportowego (Dz. U. Nr 126, poz. 1078), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 91 ust. 1 pkt 6 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857 i Nr 151, poz. 1014, z 2011 r. Nr 171, poz. 1016, Nr 185, poz. 1092 i Nr 208, poz. 1240 i 1241 oraz z 2012 r. poz. 490).](#gloss-0:3:)
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705, z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991, z 2011 r. Nr 106, poz. 622, Nr 112, poz. 654, Nr 139, poz. 814, Nr 149, poz. 887 i Nr 205, poz. 1206 oraz z 2012 r. poz. 941 i 979. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Edukacji Narodowej i Sportu z dnia 30 lipca 2002 r. w sprawie warunków tworzenia, organizacji oraz działania klas i szkół sportowych oraz szkół mistrzostwa sportowego (Dz. U. Nr 126, poz. 1078), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 91 ust. 1 pkt 6 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857 i Nr 151, poz. 1014, z 2011 r. Nr 171, poz. 1016, Nr 185, poz. 1092 i Nr 208, poz. 1240 i 1241 oraz z 2012 r. poz. 490).

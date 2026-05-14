@@ -8,11 +8,9 @@ pos: 135
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nazwy „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”
-
-*USTAWA z dnia 14 grudnia 2006 r.*
+# Ustawa z dnia 14 grudnia 2006 r. o nadaniu Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nazwy „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2006-12-14 |
 | Data wydania | 2007-02-12 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070230135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/135/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/135/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/135) |
 
-**Art. 1.** Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nadaje się nazwę „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Akademii Medycznej im. Karola Marcinkowskiego w Poznaniu nadaje się nazwę „Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

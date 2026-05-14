@@ -8,11 +8,9 @@ pos: 1952
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# odniesieniu do kształcenia rozpoczynającego się 2024 rozstrzygnięcie, którym art. 4 ust. 5 ustawy zmienianej art. 3, nadanym niniejszą ustawą, Prezes Rady Ministrów podejmuje terminie miesiąca od dnia wejścia życie niniejszej ustawy.” „Art. 15. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, wyjątkiem:
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 17 sierpnia 2023 sprawie ogłoszenia jednolitego tekstu ustawy Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego Na podstawie art. 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 14 czerwca 1991 Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. 2019 poz. 1388), uwzględnieniem zmian wprowadzonych ustawą dnia 14 kwietnia 2023 zmianie ustawy służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195) oraz zmian wynikających przepisów ogłoszonych przed dniem 10 sierpnia 2023 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 i art. 15 ustawy dnia 14 kwietnia 2023 zmianie ustawy służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195), które stanowią: „Art. 13. Do osób będących dniu wejścia życie niniejszej ustawy słuchaczami lub absolwentami Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego stosuje się przepisy ustawy zmienianej art. 3 dotychczasowym.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 17 sierpnia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
 
 | Pole | Wartość |
 |---|---|
@@ -24,181 +22,620 @@ domain: null
 | Data ogłoszenia | 2023-08-17 |
 | Data wydania | 2023-09-21 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001952) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1952/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/1952/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/1952) |
 
-1) art. pkt 2, 19 i 21, art. 2, art. 7, art. 9 ust. 2 i art. 10–12, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) art. pkt 1, 3, 7–17 i 20, art. 8 i art. 9 ust. 1, które wchodzą życie po upływie 7 dni od dnia ogłoszenia komunikatu ogłoszonego na podstawie art. 14.”.
-Marszałek Sejmu: E. Witek
-USTAWA dnia 14 czerwca 1991 Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
-Art. 1) Krajową Szkołę Administracji Publicznej, utworzoną na podstawie przepisów jednostkach badawczo-rozwojowych, przekształca się państwową jednostkę organizacyjną pod nazwą „Krajowa Szkoła Administracji Publicznej”, siedzibą Warszawie.
-1a. Krajowej Szkole Administracji Publicznej, ust. 1, nadaje się nazwę „Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego”.
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego (Dz. U. z 2019 r. poz. 1388), z uwzględnieniem zmian wprowadzonych ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw ([Dz. U. poz. 1195](https://api.sejm.gov.pl/eli/acts/DU/2023/1195/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 10 sierpnia 2023 r.
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 13 i art. 15 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw ([Dz. U. poz. 1195](https://api.sejm.gov.pl/eli/acts/DU/2023/1195/text.html)), które stanowią:
+
+„
+
+### Art. 13.
+
+### 1.
+
+Do osób będących w dniu wejścia w życie niniejszej ustawy słuchaczami lub absolwentami Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+
+### 2.
+
+W odniesieniu do kształcenia rozpoczynającego się w 2024 r. rozstrzygnięcie, o którym mowa w art. 4 ust. 5 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, Prezes Rady Ministrów podejmuje w terminie miesiąca od dnia wejścia w życie niniejszej ustawy.
+
+”
+
+„
+
+### Art. 15.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 2, 19 i 21, art. 2, art. 7, art. 9 ust. 2 i art. 10-12, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 1 pkt 1, 3, 7-17 i 20, art. 8 i art. 9 ust. 1, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia komunikatu ogłoszonego na podstawie art. 14.
+
+” .
+
+## Załącznik - Tekst jednolity ustawy z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
+
+### Art. 1[1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2.](#gloss-0:1:).
+
+### 1.
+
+Krajową Szkołę Administracji Publicznej, utworzoną na podstawie przepisów o jednostkach badawczo-rozwojowych, przekształca się w państwową jednostkę organizacyjną pod nazwą „Krajowa Szkoła Administracji Publicznej”, z siedzibą w Warszawie.
+
+### 1a.
+
+Krajowej Szkole Administracji Publicznej, o której mowa w ust. 1, nadaje się nazwę „Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego”.
+
+### 2.
+
 Zadaniem Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwanej dalej „Szkołą”, jest kształcenie i przygotowywanie do służby publicznej urzędników służby cywilnej oraz kadr wyższych urzędników administracji Rzeczypospolitej Polskiej.
-2a. Szkoła realizuje również zadania zakresie szkoleń dla pracowników administracji publicznej.
-3. Szkoła ma osobowość prawną.
-Art. 2) Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „Szkołą”, jest państwową jednostką organizacyjną, posiadającą osobowość prawną, siedzibą Warszawie.
-Zadaniem Szkoły jest szczególności:
-1) kształcenie i profesjonalizacja kadr administracji publicznej, przygotowywanie wykwalifikowanych kadr dla administracji publicznej, tym do pełnienia funkcji kierowniczych, szczególności przez kształcenie stacjonarne i kształcenie dualne;
-2) zaspokajanie potrzeb administracji publicznej zakresie doskonalenia zawodowego, szczególności przez organizację szkoleń i innych form kształcenia;
-3) wspieranie profesjonalizacji administracji publicznej, szczególności przez weryfikację kompetencji wykorzystywanych administracji publicznej;
-4) prowadzenie działalności badawczej, analitycznej, rozwojowej i wydawniczej oraz współpracy międzynarodowej zakresie zadań, których pkt 1–3;
-5) wykorzystywanie funduszy pozyskanych na finansowanie zadań, których pkt 1–4;
-6) współdziałanie podmiotami, których art. 7 ust. pkt 1, 2 i 4–8 ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce (Dz. U. 2023 poz. 742, 1088 i 1234), oraz innymi podmiotami zakresie działalności Szkoły.
-3. Szkoła ma prawo używania pieczęci urzędowej, art. 16c ust. ustawy dnia 31 stycznia 1980 godle, barwach i hymnie Rzeczypospolitej Polskiej oraz pieczęciach państwowych (Dz. U. 2019 poz. 1509).
-Art. Prezes Rady Ministrów, drodze rozporządzenia, nadaje Szkole statut określający jej ustrój i organizację, zakres działania, zasady kształcenia, prawa i obowiązki słuchaczy oraz inne sprawy dotyczące jej działania, nieuregulowane ustawie, uwzględniając rolę szkoły systemie administracji państwa.
+
+### 2a.
+
+Szkoła realizuje również zadania w zakresie szkoleń dla pracowników administracji publicznej.
+
+### 3.
+
+Szkoła ma osobowość prawną.
+
+### Art. 1[2) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195), która wejdzie w życie z dniem 27 września 2023 r.](#gloss-0:2:).
+
+### 1.
+
+Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „Szkołą”, jest państwową jednostką organizacyjną, posiadającą osobowość prawną, z siedzibą w Warszawie.
+
+### 2.
+
+Zadaniem Szkoły jest w szczególności:
+
+### 1)
+
+kształcenie i profesjonalizacja kadr administracji publicznej, przygotowywanie wykwalifikowanych kadr dla administracji publicznej, w tym do pełnienia funkcji kierowniczych, w szczególności przez kształcenie stacjonarne i kształcenie dualne;
+
+### 2)
+
+zaspokajanie potrzeb administracji publicznej w zakresie doskonalenia zawodowego, w szczególności przez organizację szkoleń i innych form kształcenia;
+
+### 3)
+
+wspieranie profesjonalizacji administracji publicznej, w szczególności przez weryfikację kompetencji wykorzystywanych w administracji publicznej;
+
+### 4)
+
+prowadzenie działalności badawczej, analitycznej, rozwojowej i wydawniczej oraz współpracy międzynarodowej w zakresie zadań, o których mowa w pkt 1-3;
+
+### 5)
+
+wykorzystywanie funduszy pozyskanych na finansowanie zadań, o których mowa w pkt 1-4;
+
+### 6)
+
+współdziałanie z podmiotami, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2023 r. poz. 742](https://api.sejm.gov.pl/eli/acts/DU/2023/742/text.html), [1088](https://api.sejm.gov.pl/eli/acts/DU/2023/1088/text.html) i [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html)), oraz innymi podmiotami w zakresie działalności Szkoły.
+
+### 3.
+
+Szkoła ma prawo używania pieczęci urzędowej, o której mowa w art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych ([Dz. U. z 2019 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2019/1509/text.html)).
+
+### Art. 2.
+
+### 1.
+
+Prezes Rady Ministrów, w drodze rozporządzenia, nadaje Szkole statut określający jej ustrój i organizację, zakres działania, zasady kształcenia, prawa i obowiązki słuchaczy oraz inne sprawy dotyczące jej działania, nieuregulowane w ustawie, uwzględniając rolę szkoły w systemie administracji państwa.
+
+### 2.
+
 Szkołą kieruje i reprezentuje ją na zewnątrz dyrektor Szkoły, powoływany i odwoływany przez Prezesa Rady Ministrów.
-3. Prezes Rady Ministrów sprawuje nadzór nad Szkołą zakresie zgodności jej działania przepisami ustawowymi i statutem.
 
-**Art. 3.** Do mienia i finansów Szkoły stosuje się odpowiednio przepisy dotyczące uczelni publicznych. Uprawnienia ministra właściwego rozumieniu tych przepisów odniesieniu do Szkoły wykonuje Prezes Rady Ministrów.
+### 3.
 
-**Art. 3a.** Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, których art. 106 ust. 2 pkt ustawy dnia 21 listopada 2008 służbie cywilnej (Dz. U. 2022 poz. 1691 oraz 2023 poz. 1195). 3. Zlecenie szkolenia, którym ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia. 4. Na realizację szkoleń, których ust. i 2, Szkoła może otrzymać dotację celową ze środków, których art. 111 ustawy dnia 21 listopada 2008 służbie cywilnej, lub ze środków pochodzących części budżetowej będącej dyspozycji właściwego dysponenta części budżetowej.
+Prezes Rady Ministrów sprawuje nadzór nad Szkołą w zakresie zgodności jej działania z przepisami ustawowymi i statutem.
 
-**Art. 3b.**
+### Art. 3.
 
-- **3)** Szkoła tworzy fundusz rezerwowy na finansowanie lub dofinansowanie kosztów realizacji inwestycji. Fundusz rezerwowy tworzy się przychodów własnych Szkoły.
+Do mienia i finansów Szkoły stosuje się odpowiednio przepisy dotyczące uczelni publicznych. Uprawnienia ministra właściwego w rozumieniu tych przepisów w odniesieniu do Szkoły wykonuje Prezes Rady Ministrów.
 
-3. Fundusz rezerwowy tworzy się corocznego odpisu ciężar pozostałych kosztów operacyjnych.
+### Art. 3a.
 
-4. Utworzenie odpisu nie może powodować, że dany rok obrotowy Szkoła zakończy stratą netto.
+### 1.
 
-5. Wysokość odpisu danym roku obrotowym nie może przekroczyć poziomu 5% przyznanej dotacji podmiotowej.
+Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego.
 
-**Art. 4.**
+### 2.
 
-- **4)** Słuchacze Szkoły są wyłaniani drodze postępowania rekrutacyjnego spośród osób, które nie ukończyły 32 lat i posiadają dyplom ukończenia studiów wyższych tytułem magistra lub równorzędnym. Zasady i tryb przeprowadzenia postępowania rekrutacyjnego, powoływania komisji rekrutacyjnej oraz zasady i tryb wnoszenia odwołań od wyniku tego postępowania określa statut Szkoły.
+Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa w art. 106 ust. 2 pkt 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. z 2022 r. poz. 1691](https://api.sejm.gov.pl/eli/acts/DU/2022/1691/text.html) oraz [z 2023 r. poz. 1195](https://api.sejm.gov.pl/eli/acts/DU/2023/1195/text.html)).
 
-**Art. 4.**
+### 3.
 
-- **5)** Szkoła prowadzi kształcenie trybie stacjonarnym lub trybie dualnym. Tryb stacjonarny polega na prowadzeniu kształcenia sposób ciągły.
+Zlecenie szkolenia, o którym mowa w ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia.
 
-3. Tryb dualny polega na prowadzeniu kształcenia i świadczeniu pracy sposób naprzemienny.
+### 4.
 
-4. Uczestnicy kształcenia stacjonarnego oraz kształcenia dualnego, zwani dalej „słuchaczami”, są wyłaniani drodze postępowania rekrutacyjnego. Warunki, jakie muszą spełniać kandydaci na słuchaczy, oraz zasady i tryb postępowania rekrutacyjnego określa statut Szkoły.
+Na realizację szkoleń, o których mowa w ust. 1 i 2, Szkoła może otrzymać dotację celową ze środków, o których mowa w art. 111 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, lub ze środków pochodzących z części budżetowej będącej w dyspozycji właściwego dysponenta części budżetowej.
 
-5. Prezes Rady Ministrów, na wniosek dyrektora Szkoły, rozstrzyga do końca czerwca każdego roku, którym trybie słuchacze rozpoczną kształcenie kolejnym roku, uwzględniając aktualne potrzeby administracji publicznej.
+### Art. 3b[3) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:3:).
 
-6. Uczestnicy szkoleń oraz innych form kształcenia organizowanych przez Szkołę są wyłaniani drodze naboru, którego zasady określa każdorazowo dyrektor Szkoły.
+### 1.
 
-**Art. 5.**
+Szkoła tworzy fundusz rezerwowy na finansowanie lub dofinansowanie kosztów realizacji inwestycji.
 
-- **4)** Słuchacze Szkoły składają zobowiązanie do podjęcia i wykonywania, przez okres nie krótszy niż pięć lat od daty jej ukończenia, pracy urzędach administracji na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów. Słuchacze Szkoły odbywający urzędzie administracji praktykę wykonują zadania przewidziane dla urzędników tego urzędu.
+### 2.
 
-**Art. 5.**
+Fundusz rezerwowy tworzy się z przychodów własnych Szkoły.
 
-- **5)** Słuchacze Szkoły składają zobowiązanie do wykonywania pracy urzędach administracji publicznej:
-- **1)** przez okres pięciu lat od daty ukończenia kształcenia przypadku kształcenia stacjonarnego;
-- **2)** przez okres trzech lat od daty ukończenia kształcenia przypadku kształcenia dualnego. Słuchacze Szkoły odbywający praktykę urzędzie administracji publicznej wykonują zadania przewidziane dla urzędników tego urzędu.
+### 3.
 
-3. Absolwenci kształcenia stacjonarnego podejmują zatrudnienie na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów.
+Fundusz rezerwowy tworzy się z corocznego odpisu w ciężar pozostałych kosztów operacyjnych.
 
-4. celu monitorowania realizacji zobowiązania, którym ust. 1, Szkoła jest uprawniona do żądania od absolwentów i ich pracodawców dokumentów i informacji potwierdzających zatrudnienie.
+### 4.
 
-**Art. 6.**
+Utworzenie odpisu nie może powodować, że dany rok obrotowy Szkoła zakończy stratą netto.
 
-- **6)** Słuchacz Szkoły okresie kształcenia kraju otrzymuje stypendium krajowe. Słuchacz Szkoły otrzymuje stypendium:
-- **1)** miesięczne przypadku kształcenia stacjonarnego;
-- **2)** proporcjonalne do liczby dni zajęć organizowanych przez Szkołę danym miesiącu przypadku kształcenia dualnego.
+### 5.
 
-1a. Stypendium krajowe nie przysługuje:
+Wysokość odpisu w danym roku obrotowym nie może przekroczyć poziomu 5% przyznanej dotacji podmiotowej.
 
-- **1)** za dni nieusprawiedliwionej nieobecności słuchacza na zajęciach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć okresie miesiąca kalendarzowego;
-- **2)** za dni usprawiedliwionej nieobecności słuchacza na zajęciach przyczyn innych niż wynikające ze stanu zdrowia, jeżeli okres tej nieobecności trwa nieprzerwanie dłużej niż 7 dni zajęć lub przekracza 7 dni zajęć okresie miesiąca kalendarzowego.
+### Art. 4[4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5.](#gloss-0:4:).
 
-1a. Stypendium nie przysługuje:
+### 1.
 
-- **1)** za dni nieusprawiedliwionej nieobecności słuchacza na zajęciach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć okresie miesiąca kalendarzowego;
-- **2)** za dni usprawiedliwionej nieobecności słuchacza na zajęciach przyczyn innych niż wynikające ze stanu zdrowia, jeżeli okres tej nieobecności przekracza: Urzędnicy i inni pracownicy administracji publicznej na okres kształcenia Szkole otrzymują urlop bezpłatny urzędzie. Słuchacze kształcenia dualnego otrzymują u pracodawcy urlop bezpłatny na dni zajęć organizowanych przez Szkołę.
-    - **a)** przypadku kształcenia stacjonarnego 7 dni zajęć okresie miesiąca kalendarzowego,
-    - **b)** przypadku kształcenia dualnego 2 dni zajęć okresie miesiąca kalendarzowego.
+Słuchacze Szkoły są wyłaniani w drodze postępowania rekrutacyjnego spośród osób, które nie ukończyły 32 lat i posiadają dyplom ukończenia studiów wyższych z tytułem magistra lub równorzędnym.
 
-3. Słuchacze Szkoły oraz ich niepracujący współmałżonkowie i dzieci są uprawnieni do korzystania ze świadczeń zakładów społecznej służby zdrowia na zasadach ustalonych dla pracowników i ich rodzin.
+### 2.
 
-4. (uchylony)
+Zasady i tryb przeprowadzenia postępowania rekrutacyjnego, powoływania komisji rekrutacyjnej oraz zasady i tryb wnoszenia odwołań od wyniku tego postępowania określa statut Szkoły.
 
-5. Absolwentom Szkoły okres kształcenia tej Szkole zalicza się zakresie wszelkich uprawnień pracowniczych, wyjątkiem przypadków, gdy absolwent został zobowiązany do zwrotu stypendium i innych kosztów kształcenia.
+### Art. 4[5) W brzmieniu ustalonym przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 2.](#gloss-0:5:).
 
-**Art. 6a.**
+### 1.
 
-- **9)** Słuchacz Szkoły, okresie przebywania poza granicami kraju związku odbywaniem stażu administracyjnego lub innych zajęć wynikających toku kształcenia, przez okres dłuższy niż miesiąc, otrzymuje stypendium zagraniczne obejmujące:
-- **1)** 25% kwoty stypendium krajowego;
-- **2)** 50% kwoty, pkt 1, na każdego członka rodziny pozostającego na wyłącznym utrzymaniu słuchacza;
-- **3)** środki na pokrycie kosztów utrzymania za granicą. Stypendium zagraniczne, części ust. pkt 3, nie przysługuje albo ulega obniżeniu, jeżeli koszty związane odbywaniem poza granicami kraju stażu administracyjnego lub innych zajęć wynikających toku kształcenia pokrywa, całości lub części, instytucja zagraniczna.
+Szkoła prowadzi kształcenie w trybie stacjonarnym lub w trybie dualnym.
 
-**Art. 6a.**
+### 2.
 
-- **10)** Słuchacz przebywający poza granicami kraju związku odbywaniem zajęć wynikających toku kształcenia otrzymuje:
-- **1)** 25% kwoty stypendium za dni odbywania zajęć;
-- **2)** 50% kwoty, pkt 1, na każdego członka rodziny pozostającego na wyłącznym utrzymaniu słuchacza;
-- **3)** środki na pokrycie kosztów utrzymania za granicą. Świadczenia określone ust. nie przysługują albo ulegają obniżeniu, jeżeli koszty związane odbywaniem zajęć wynikających toku kształcenia pokrywa, całości lub części inny podmiot.
+Tryb stacjonarny polega na prowadzeniu kształcenia w sposób ciągły.
 
-**Art. 6b.** Za członków rodziny słuchacza uważa się małżonka, dzieci własne, dzieci przysposobione oraz inne osoby pozostające ze słuchaczem we wspólnym gospodarstwie domowym, a także osoby, na rzecz których słuchacz został zobowiązany orzeczeniem sądowym lub ugodą zawartą przed sądem do świadczeń alimentacyjnych.
+### 3.
 
-**Art. 7.**
+Tryb dualny polega na prowadzeniu kształcenia i świadczeniu pracy w sposób naprzemienny.
 
-- **11)** Stypendium krajowe podlega zwrotowi całości przypadku skreślenia słuchacza listy słuchaczy okresie pierwszych ośmiu miesięcy kształcenia przyczyn innych niż nieobecność słuchacza na zajęciach wynikająca ze stanu zdrowia słuchacza albo konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności.
+### 4.
 
-**Art. 7.**
+Uczestnicy kształcenia stacjonarnego oraz kształcenia dualnego, zwani dalej „słuchaczami”, są wyłaniani w drodze postępowania rekrutacyjnego. Warunki, jakie muszą spełniać kandydaci na słuchaczy, oraz zasady i tryb postępowania rekrutacyjnego określa statut Szkoły.
 
-- **12)** przypadku skreślenia słuchacza listy słuchaczy przyczyn leżących po stronie słuchacza wypłacone stypendium oraz wypłacone koszty utrzymania za granicą podlegają zwrotowi całości. przypadku rozwiązania stosunku pracy, art. 5 ust. 1, koszty kształcenia liczone jako stypendium podwójnej wysokości oraz koszty utrzymania za granicą:
-- **1)** podlegają zwrotowi części proporcjonalnej do liczby dni nieprzepracowanych jeżeli rozwiązanie stosunku pracy nastąpiło przyczyn leżących po stronie absolwenta lub drodze porozumienia stron;
-- **2)** nie podlegają zwrotowi jeżeli rozwiązanie stosunku pracy nastąpiło przyczyn leżących po stronie pracodawcy.
+### 5.
 
-**Art. 7a.**
+Prezes Rady Ministrów, na wniosek dyrektora Szkoły, rozstrzyga do końca czerwca każdego roku, w którym trybie słuchacze rozpoczną kształcenie w kolejnym roku, uwzględniając aktualne potrzeby administracji publicznej.
 
-- **11)** Koszty kształcenia słuchacza Szkole obejmują stypendium krajowe, stypendium zagraniczne, składki na ubezpieczenie społeczne słuchacza oraz proporcjonalny udział innych kosztach poniesionych przez Szkołę na działalność dydaktyczną i na bieżące funkcjonowanie Szkoły. Koszty kształcenia słuchacza podlegają zwrotowi przypadku:
-- **1)** skreślenia słuchacza listy słuchaczy po pierwszych ośmiu miesiącach kształcenia albo niepodjęcia przez absolwenta pracy urzędach administracji na stanowiskach, których art. 5 ust. ustawy kwocie równej podwójnej wysokości stypendium krajowego za okres kształcenia Szkole, albo
-- **2)** rezygnacji przez absolwenta pracy urzędach administracji na stanowiskach, których art. 5 ust. ustawy kwocie równej podwójnej wysokości stypendium krajowego za okres kształcenia Szkole, części proporcjonalnej do liczby dni nieprzepracowanych urzędach, albo
-- **3)** skreślenia słuchacza listy słuchaczy powodu prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe albo powodu rażącego uchybienia godności słuchacza lub zachowania godzącego dobre imię Szkoły pełnej wysokości.
+### 6.
 
-3. Kwota równa podwójnej wysokości stypendium krajowego, ust. 2 pkt i 2, nie może przewyższyć kosztów kształcenia słuchacza Szkole.
+Uczestnicy szkoleń oraz innych form kształcenia organizowanych przez Szkołę są wyłaniani w drodze naboru, którego zasady określa każdorazowo dyrektor Szkoły.
 
-4. Koszty kształcenia słuchacza nie podlegają zwrotowi przypadku:
+### Art. 5[4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5.](#gloss-0:4:).
 
-- **1)** skreślenia słuchacza listy słuchaczy powodu nieobecności słuchacza na zajęciach wynikającej ze stanu zdrowia słuchacza albo konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności albo
-- **2)** niepodjęcia pracy lub rezygnacji pracy urzędach administracji przez absolwenta, powodu jego stanu zdrowia albo konieczności sprawowania przez absolwenta osobistej opieki nad dzieckiem do lat dwóch, albo konieczności sprawowania przez absolwenta samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności, albo
-- **3)** niepodjęcia pracy lub rezygnacji pracy przez absolwenta urzędach administracji za zgodą Prezesa Rady Ministrów.
+### 1.
 
-**Art. 7a.**
+Słuchacze Szkoły składają zobowiązanie do podjęcia i wykonywania, przez okres nie krótszy niż pięć lat od daty jej ukończenia, pracy w urzędach administracji na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów.
 
-- **12)** Koszty, których art. 7, nie podlegają zwrotowi przypadku:
-- **1)** skreślenia słuchacza listy słuchaczy powodu nieobecności słuchacza na zajęciach, wynikającej z:
-    - **a)** jego stanu zdrowia, albo
-    - **b)** konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo
-    - **c)** konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności;
+### 2.
 
-- **2)** niepodjęcia pracy lub rezygnacji pracy urzędach administracji publicznej przez absolwenta, powodu:
-    - **a)** jego stanu zdrowia, albo
-    - **b)** konieczności sprawowania przez absolwenta osobistej opieki nad dzieckiem do lat dwóch, albo
-    - **c)** konieczności sprawowania przez absolwenta samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie niepełnosprawności albo orzeczenie stopniu niepełnosprawności;
+Słuchacze Szkoły odbywający w urzędzie administracji praktykę wykonują zadania przewidziane dla urzędników tego urzędu.
 
-- **3)** niepodjęcia pracy lub rezygnacji pracy przez absolwenta urzędach administracji publicznej za zgodą Prezesa Rady Ministrów.
+### Art. 5[5) W brzmieniu ustalonym przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 2.](#gloss-0:5:).
 
-**Art. 7b.**
+### 1.
 
-- **13)** Zwrot stypendium krajowego albo kosztów kształcenia następuje na podstawie decyzji dyrektora Szkoły. decyzji dyrektor określa wysokość i termin zwrotu nie krótszy niż 30 dni od dnia doręczenia decyzji. Zwrot stypendium albo kosztów kształcenia następuje na podstawie decyzji dyrektora Szkoły. decyzji dyrektor określa wysokość i termin zwrotu nie krótszy niż 30 dni od dnia doręczenia decyzji. Środki tytułu zwrotu stypendium krajowego albo zwrotu kosztów kształcenia, których ust. 1, stanowią przychód Szkoły. Środki tytułu zwrotu stypendium albo zwrotu kosztów kształcenia, których ust. 1, stanowią przychód Szkoły.
+Słuchacze Szkoły składają zobowiązanie do wykonywania pracy w urzędach administracji publicznej:
 
-3. szczególnych przypadkach, uzasadnionych względami ekonomicznymi lub społecznymi, dyrektor Szkoły może umorzyć całości lub części słuchaczowi albo absolwentowi Szkoły należność tytułu zwrotu stypendium krajowego albo kosztów kształcenia.
+### 1)
 
-3. szczególnych przypadkach, uzasadnionych względami ekonomicznymi lub społecznymi, dyrektor Szkoły może umorzyć całości lub części słuchaczowi albo absolwentowi Szkoły należność tytułu zwrotu stypendium albo kosztów kształcenia.
+przez okres pięciu lat od daty ukończenia kształcenia - w przypadku kształcenia stacjonarnego;
 
-4. Od decyzji dyrektora Szkoły, których ust. i 3, służy odwołanie do Prezesa Rady Ministrów.
+### 2)
 
-5. sprawach egzekucji należności, których ust. 1, stosuje się przepisy ustawy dnia 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2022 poz. 479, późn. zm. ).
+przez okres trzech lat od daty ukończenia kształcenia - w przypadku kształcenia dualnego.
 
-**Art. 8.** (uchylony)
+### 2.
 
-**Art. 8a.** Prezes Rady Ministrów określi, drodze rozporządzenia:
+Słuchacze Szkoły odbywający praktykę w urzędzie administracji publicznej wykonują zadania przewidziane dla urzędników tego urzędu.
 
-**Art. 8b.** Pracownikowi Szkoły przysługuje miesięczne wynagrodzenie zasadnicze za pracę stosownie do zajmowanego stanowiska i posiadanych kwalifikacji zawodowych oraz dodatek funkcyjny tytułu zajmowanego stanowiska lub pełnionej funkcji. Pracownikowi Szkoły przysługuje również dodatek za wieloletnią pracę, nagroda jubileuszowa oraz dodatkowe wynagrodzenie roczne na zasadach określonych odpowiednio art. 90 ust. i 2, art. 91 ust. i 2 oraz art. 92 ustawy dnia 21 listopada 2008 służbie cywilnej. 3. Pracownikowi Szkoły przysługuje jednorazowa odprawa związku przejściem na emeryturę lub rentę tytułu niezdolności do pracy wysokości trzykrotnego ostatnio pobieranego miesięcznego wynagrodzenia zasadniczego, nie mniejszej jednak niż wysokości jednomiesięcznego wynagrodzenia pracownika, obliczonego jak ekwiwalent pieniężny za urlop wypoczynkowy.
+### 3.
 
-**Art. 8c.** Pracownikowi Szkoły może zostać przyznany, na czas określony, dodatek służbowy. Wysokość dodatku służbowego uzależnia się od charakteru i złożoności powierzonych obowiązków.
+Absolwenci kształcenia stacjonarnego podejmują zatrudnienie na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów.
 
-**Art. 8d.** ramach posiadanych przez Szkołę środków na wynagrodzenia może być tworzony fundusz premiowy, przeznaczeniem na premie dla pracowników Szkoły. Wysokość funduszu premiowego oraz zasady przyznawania i wypłacania premii określa zakładowy regulamin premiowania.
+### 4.
 
-**Art. 8e.** Pracownikowi Szkoły, za szczególne osiągnięcia pracy zawodowej może zostać przyznana nagroda. Tworzy się fundusz nagród wysokości 1% planowanych rocznych wynagrodzeń osobowych.
+W celu monitorowania realizacji zobowiązania, o którym mowa w ust. 1, Szkoła jest uprawniona do żądania od absolwentów i ich pracodawców dokumentów i informacji potwierdzających zatrudnienie.
 
-**Art. 8f.** Prezes Rady Ministrów określi, drodze rozporządzenia:
+### Art. 6.
 
-**Art. 9.** (pominięty)
+### 1[6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7.](#gloss-0:6:).
 
-**Art. 10.** Ustawa wchodzi życie dniem ogłoszenia .
+Słuchacz Szkoły w okresie kształcenia w kraju otrzymuje stypendium krajowe.
 
+### 1[7) W brzmieniu ustalonym przez art. 3 pkt 4 ustawy, o której mowa w odnośniku 2.](#gloss-0:7:).
+
+Słuchacz Szkoły otrzymuje stypendium:
+
+### 1)
+
+miesięczne - w przypadku kształcenia stacjonarnego;
+
+### 2)
+
+proporcjonalne do liczby dni zajęć organizowanych przez Szkołę w danym miesiącu - w przypadku kształcenia dualnego.
+
+### 1a[6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7.](#gloss-0:6:).
+
+Stypendium krajowe nie przysługuje:
+
+### 1)
+
+za dni nieusprawiedliwionej nieobecności słuchacza na zajęciach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć w okresie miesiąca kalendarzowego;
+
+### 2)
+
+za dni usprawiedliwionej nieobecności słuchacza na zajęciach z przyczyn innych niż wynikające ze stanu zdrowia, jeżeli okres tej nieobecności trwa nieprzerwanie dłużej niż 7 dni zajęć lub przekracza 7 dni zajęć w okresie miesiąca kalendarzowego.
+
+### 1a[7) W brzmieniu ustalonym przez art. 3 pkt 4 ustawy, o której mowa w odnośniku 2.](#gloss-0:7:).
+
+Stypendium nie przysługuje:
+
+### 1)
+
+za dni nieusprawiedliwionej nieobecności słuchacza na zajęciach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć w okresie miesiąca kalendarzowego;
+
+### 2)
+
+za dni usprawiedliwionej nieobecności słuchacza na zajęciach z przyczyn innych niż wynikające ze stanu zdrowia, jeżeli okres tej nieobecności przekracza:
+
+### a)
+
+w przypadku kształcenia stacjonarnego - 7 dni zajęć w okresie miesiąca kalendarzowego,
+
+### b)
+
+w przypadku kształcenia dualnego - 2 dni zajęć w okresie miesiąca kalendarzowego.
+
+### 2[6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7.](#gloss-0:6:).
+
+Urzędnicy i inni pracownicy administracji publicznej na okres kształcenia w Szkole otrzymują urlop bezpłatny w urzędzie.
+
+### 2[7) W brzmieniu ustalonym przez art. 3 pkt 4 ustawy, o której mowa w odnośniku 2.](#gloss-0:7:).
+
+Słuchacze kształcenia dualnego otrzymują u pracodawcy urlop bezpłatny na dni zajęć organizowanych przez Szkołę.
+
+### 3[8) Utracił moc na podstawie art. 170 pkt 23 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153), która weszła w życie z dniem 1 stycznia 1999 r., w zakresie uregulowanym tą ustawą.](#gloss-0:8:).
+
+Słuchacze Szkoły oraz ich niepracujący współmałżonkowie i dzieci są uprawnieni do korzystania ze świadczeń zakładów społecznej służby zdrowia na zasadach ustalonych dla pracowników i ich rodzin.
+
+### 4.
+
+(uchylony)
+
+### 5.
+
+Absolwentom Szkoły okres kształcenia w tej Szkole zalicza się w zakresie wszelkich uprawnień pracowniczych, z wyjątkiem przypadków, gdy absolwent został zobowiązany do zwrotu stypendium i innych kosztów kształcenia.
+
+### Art. 6a[9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10.](#gloss-0:9:).
+
+### 1.
+
+Słuchacz Szkoły, w okresie przebywania poza granicami kraju w związku z odbywaniem stażu administracyjnego lub innych zajęć wynikających z toku kształcenia, przez okres dłuższy niż miesiąc, otrzymuje stypendium zagraniczne obejmujące:
+
+### 1)
+
+25% kwoty stypendium krajowego;
+
+### 2)
+
+50% kwoty, o której mowa w pkt 1, na każdego członka rodziny pozostającego na wyłącznym utrzymaniu słuchacza;
+
+### 3)
+
+środki na pokrycie kosztów utrzymania za granicą.
+
+### 2.
+
+Stypendium zagraniczne, w części o której mowa w ust. 1 pkt 3, nie przysługuje albo ulega obniżeniu, jeżeli koszty związane z odbywaniem poza granicami kraju stażu administracyjnego lub innych zajęć wynikających z toku kształcenia pokrywa, w całości lub w części, instytucja zagraniczna.
+
+### Art. 6a[10) W brzmieniu ustalonym przez art. 3 pkt 5 ustawy, o której mowa w odnośniku 2.](#gloss-0:10:).
+
+### 1.
+
+Słuchacz przebywający poza granicami kraju w związku z odbywaniem zajęć wynikających z toku kształcenia otrzymuje:
+
+### 1)
+
+25% kwoty stypendium za dni odbywania zajęć;
+
+### 2)
+
+50% kwoty, o której mowa w pkt 1, na każdego członka rodziny pozostającego na wyłącznym utrzymaniu słuchacza;
+
+### 3)
+
+środki na pokrycie kosztów utrzymania za granicą.
+
+### 2.
+
+Świadczenia określone w ust. 1 nie przysługują albo ulegają obniżeniu, jeżeli koszty związane z odbywaniem zajęć wynikających z toku kształcenia pokrywa, w całości lub w części inny podmiot.
+
+### Art. 6b.
+
+Za członków rodziny słuchacza uważa się małżonka, dzieci własne, dzieci przysposobione oraz inne osoby pozostające ze słuchaczem we wspólnym gospodarstwie domowym, a także osoby, na rzecz których słuchacz został zobowiązany orzeczeniem sądowym lub ugodą zawartą przed sądem do świadczeń alimentacyjnych.
+
+### Art. 7[11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.](#gloss-0:11:).
+
+Stypendium krajowe podlega zwrotowi w całości w przypadku skreślenia słuchacza z listy słuchaczy w okresie pierwszych ośmiu miesięcy kształcenia z przyczyn innych niż nieobecność słuchacza na zajęciach wynikająca ze stanu zdrowia słuchacza albo z konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo z konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności.
+
+### Art. 7[12) W brzmieniu ustalonym przez art. 3 pkt 6 ustawy, o której mowa w odnośniku 2.](#gloss-0:12:).
+
+### 1.
+
+W przypadku skreślenia słuchacza z listy słuchaczy z przyczyn leżących po stronie słuchacza wypłacone stypendium oraz wypłacone koszty utrzymania za granicą podlegają zwrotowi w całości.
+
+### 2.
+
+W przypadku rozwiązania stosunku pracy, o której mowa w art. 5 ust. 1, koszty kształcenia liczone jako stypendium w podwójnej wysokości oraz koszty utrzymania za granicą:
+
+### 1)
+
+podlegają zwrotowi w części proporcjonalnej do liczby dni nieprzepracowanych - jeżeli rozwiązanie stosunku pracy nastąpiło z przyczyn leżących po stronie absolwenta lub w drodze porozumienia stron;
+
+### 2)
+
+nie podlegają zwrotowi - jeżeli rozwiązanie stosunku pracy nastąpiło z przyczyn leżących po stronie pracodawcy.
+
+### Art. 7a[11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12.](#gloss-0:11:).
+
+### 1.
+
+Koszty kształcenia słuchacza w Szkole obejmują stypendium krajowe, stypendium zagraniczne, składki na ubezpieczenie społeczne słuchacza oraz proporcjonalny udział w innych kosztach poniesionych przez Szkołę na działalność dydaktyczną i na bieżące funkcjonowanie Szkoły.
+
+### 2.
+
+Koszty kształcenia słuchacza podlegają zwrotowi w przypadku:
+
+### 1)
+
+skreślenia słuchacza z listy słuchaczy po pierwszych ośmiu miesiącach kształcenia albo niepodjęcia przez absolwenta pracy w urzędach administracji na stanowiskach, o których mowa w art. 5 ust. 1 ustawy - w kwocie równej podwójnej wysokości stypendium krajowego za okres kształcenia w Szkole, albo
+
+### 2)
+
+rezygnacji przez absolwenta z pracy w urzędach administracji na stanowiskach, o których mowa w art. 5 ust. 1 ustawy - w kwocie równej podwójnej wysokości stypendium krajowego za okres kształcenia w Szkole, w części proporcjonalnej do liczby dni nieprzepracowanych w urzędach, albo
+
+### 3)
+
+skreślenia słuchacza z listy słuchaczy z powodu prawomocnego skazania za umyślne przestępstwo lub umyślne przestępstwo skarbowe albo z powodu rażącego uchybienia godności słuchacza lub zachowania godzącego w dobre imię Szkoły - w pełnej wysokości.
+
+### 3.
+
+Kwota równa podwójnej wysokości stypendium krajowego, o której mowa w ust. 2 pkt 1 i 2, nie może przewyższyć kosztów kształcenia słuchacza w Szkole.
+
+### 4.
+
+Koszty kształcenia słuchacza nie podlegają zwrotowi w przypadku:
+
+### 1)
+
+skreślenia słuchacza z listy słuchaczy z powodu nieobecności słuchacza na zajęciach wynikającej ze stanu zdrowia słuchacza albo z konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo z konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności albo
+
+### 2)
+
+niepodjęcia pracy lub rezygnacji z pracy w urzędach administracji przez absolwenta, z powodu jego stanu zdrowia albo konieczności sprawowania przez absolwenta osobistej opieki nad dzieckiem do lat dwóch, albo konieczności sprawowania przez absolwenta samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności, albo
+
+### 3)
+
+niepodjęcia pracy lub rezygnacji z pracy przez absolwenta w urzędach administracji za zgodą Prezesa Rady Ministrów.
+
+### Art. 7a[12) W brzmieniu ustalonym przez art. 3 pkt 6 ustawy, o której mowa w odnośniku 2.](#gloss-0:12:).
+
+Koszty, o których mowa w art. 7, nie podlegają zwrotowi w przypadku:
+
+### 1)
+
+skreślenia słuchacza z listy słuchaczy z powodu nieobecności słuchacza na zajęciach, wynikającej z:
+
+### a)
+
+jego stanu zdrowia, albo
+
+### b)
+
+konieczności sprawowania przez słuchacza osobistej opieki nad dzieckiem do lat dwóch, albo
+
+### c)
+
+konieczności sprawowania przez słuchacza samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności;
+
+### 2)
+
+niepodjęcia pracy lub rezygnacji z pracy w urzędach administracji publicznej przez absolwenta, z powodu:
+
+### a)
+
+jego stanu zdrowia, albo
+
+### b)
+
+konieczności sprawowania przez absolwenta osobistej opieki nad dzieckiem do lat dwóch, albo
+
+### c)
+
+konieczności sprawowania przez absolwenta samotnie wychowującego dziecko opieki nad dzieckiem posiadającym orzeczenie o niepełnosprawności albo orzeczenie o stopniu niepełnosprawności;
+
+### 3)
+
+niepodjęcia pracy lub rezygnacji z pracy przez absolwenta w urzędach administracji publicznej za zgodą Prezesa Rady Ministrów.
+
+### Art. 7b.
+
+### 1[13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14.](#gloss-0:13:).
+
+Zwrot stypendium krajowego albo kosztów kształcenia następuje na podstawie decyzji dyrektora Szkoły. W decyzji dyrektor określa wysokość i termin zwrotu nie krótszy niż 30 dni od dnia doręczenia decyzji.
+
+### 1[14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:14:).
+
+Zwrot stypendium albo kosztów kształcenia następuje na podstawie decyzji dyrektora Szkoły. W decyzji dyrektor określa wysokość i termin zwrotu nie krótszy niż 30 dni od dnia doręczenia decyzji.
+
+### 2[13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14.](#gloss-0:13:).
+
+Środki z tytułu zwrotu stypendium krajowego albo zwrotu kosztów kształcenia, o których mowa w ust. 1, stanowią przychód Szkoły.
+
+### 2[14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:14:).
+
+Środki z tytułu zwrotu stypendium albo zwrotu kosztów kształcenia, o których mowa w ust. 1, stanowią przychód Szkoły.
+
+### 3[13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14.](#gloss-0:13:).
+
+W szczególnych przypadkach, uzasadnionych względami ekonomicznymi lub społecznymi, dyrektor Szkoły może umorzyć w całości lub w części słuchaczowi albo absolwentowi Szkoły należność z tytułu zwrotu stypendium krajowego albo kosztów kształcenia.
+
+### 3[14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:14:).
+
+W szczególnych przypadkach, uzasadnionych względami ekonomicznymi lub społecznymi, dyrektor Szkoły może umorzyć w całości lub w części słuchaczowi albo absolwentowi Szkoły należność z tytułu zwrotu stypendium albo kosztów kształcenia.
+
+### 4.
+
+Od decyzji dyrektora Szkoły, o których mowa w ust. 1 i 3, służy odwołanie do Prezesa Rady Ministrów.
+
+### 5.
+
+W sprawach egzekucji należności, o których mowa w ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2022 r. poz. 479](https://api.sejm.gov.pl/eli/acts/DU/2022/479/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523.](#gloss-0:15:)).
+
+### Art. 8.
+
+(uchylony)
+
+### Art. 8a.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+### 1[13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14.](#gloss-0:13:))
+
+wysokość stypendium krajowego słuchacza,
+
+### 1[14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:14:))
+
+wysokość stypendium słuchacza,
+
+### 2[13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14.](#gloss-0:13:))
+
+sposób obliczania stypendium krajowego w przypadku nieobecności słuchacza na zajęciach w Szkole,
+
+### 2[14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:14:))
+
+sposób obliczania stypendium w przypadku nieobecności słuchacza na zajęciach w Szkole,
+
+### 3)
+
+szczegółowy sposób obliczania i dokumentowania kosztów utrzymania za granicą, o których mowa w art. 6a ust. 1 pkt 3,
+
+### 4[16) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 17.](#gloss-0:16:))
+
+sposób obliczania kosztów kształcenia słuchacza,
+
+### 4)
+
+(uchylony)[17) Przez art. 3 pkt 8 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:17:)
+
+### 5[18) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 19.](#gloss-0:18:))
+
+sposób i tryb wypłacania stypendium krajowego oraz stypendium zagranicznego
+
+### 5[19) Ze zmianą wprowadzoną przez art. 1 pkt 8 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:19:))
+
+sposób i tryb wypłacania stypendium
+
+- kierując się potrzebą zapewnienia możliwie szerokiego dostępu do kształcenia w Szkole, a także efektywnością i racjonalnością świadczeń przyznawanych słuchaczom Szkoły oraz uwzględniając, aby środki na pokrycie kosztów utrzymania za granicą pokrywały koszty noclegu, przejazdów, ubezpieczenia od następstw nieszczęśliwych wypadków i leczenia szpitalnego podczas pobytu za granicą, opłat wizowych, oraz uzasadnionych kosztów związanych z realizacją programu określonego przez Szkołę dla stażu administracyjnego lub innych zajęć wynikających z toku kształcenia.
+
+### Art. 8b.
+
+### 1.
+
+Pracownikowi Szkoły przysługuje miesięczne wynagrodzenie zasadnicze za pracę stosownie do zajmowanego stanowiska i posiadanych kwalifikacji zawodowych oraz dodatek funkcyjny z tytułu zajmowanego stanowiska lub pełnionej funkcji.
+
+### 2.
+
+Pracownikowi Szkoły przysługuje również dodatek za wieloletnią pracę, nagroda jubileuszowa oraz dodatkowe wynagrodzenie roczne na zasadach określonych odpowiednio w art. 90 ust. 1 i 2, art. 91 ust. 1 i 2 oraz art. 92 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
+
+### 3.
+
+Pracownikowi Szkoły przysługuje jednorazowa odprawa w związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy w wysokości trzykrotnego ostatnio pobieranego miesięcznego wynagrodzenia zasadniczego, nie mniejszej jednak niż w wysokości jednomiesięcznego wynagrodzenia pracownika, obliczonego jak ekwiwalent pieniężny za urlop wypoczynkowy.
+
+### Art. 8c.
+
+Pracownikowi Szkoły może zostać przyznany, na czas określony, dodatek służbowy. Wysokość dodatku służbowego uzależnia się od charakteru i złożoności powierzonych obowiązków.
+
+### Art. 8d.
+
+### 1.
+
+W ramach posiadanych przez Szkołę środków na wynagrodzenia może być tworzony fundusz premiowy, z przeznaczeniem na premie dla pracowników Szkoły.
+
+### 2.
+
+Wysokość funduszu premiowego oraz zasady przyznawania i wypłacania premii określa zakładowy regulamin premiowania.
+
+### Art. 8e.
+
+### 1.
+
+Pracownikowi Szkoły, za szczególne osiągnięcia w pracy zawodowej może zostać przyznana nagroda.
+
+### 2.
+
+Tworzy się fundusz nagród w wysokości 1% planowanych rocznych wynagrodzeń osobowych.
+
+### Art. 8f.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+wykaz stanowisk oraz wymagania kwalifikacyjne pracowników Szkoły niezbędne do wykonywania pracy na poszczególnych stanowiskach, a także grupy zaszeregowań pracowników Szkoły,
+
+### 2)
+
+stawki miesięcznego wynagrodzenia zasadniczego pracowników Szkoły,
+
+### 3)
+
+wysokość dodatku funkcyjnego przysługującego z tytułu zajmowanego stanowiska lub pełnionej funkcji,
+
+### 4)
+
+wysokość oraz sposób obliczania dodatku służbowego,
+
+### 5)
+
+sposób obliczania i wypłacania dodatku za wieloletnią pracę oraz nagrody jubileuszowej, a także sposób zaliczania okresów pracy uprawniających do dodatku za wieloletnią pracę oraz nagrody jubileuszowej, a także warunki ich dokumentowania
+
+- uwzględniając rodzaj zadań i charakter czynności wykonywanych przez pracowników Szkoły na poszczególnych stanowiskach oraz potrzebę posiadania przez nich odpowiednich umiejętności i doświadczenia, a także mając na uwadze potrzebę zapewnienia prawidłowej organizacji pracy w Szkole.
+
+### Art. 9.
+
+(pominięty)
+
+### Art. 10.
+
+Ustawa wchodzi w życie z dniem ogłoszenia[20) Ustawa została ogłoszona w dniu 15 lipca 1991 r.](#gloss-0:20:).
+
+1) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 2. 2) W brzmieniu ustalonym przez art. 3 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o służbie cywilnej oraz niektórych innych ustaw (Dz. U. poz. 1195), która wejdzie w życie z dniem 27 września 2023 r. 3) Dodany przez art. 3 pkt 2 ustawy, o której mowa w odnośniku 2. 4) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 5. 5) W brzmieniu ustalonym przez art. 3 pkt 3 ustawy, o której mowa w odnośniku 2. 6) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 7. 7) W brzmieniu ustalonym przez art. 3 pkt 4 ustawy, o której mowa w odnośniku 2. 8) Utracił moc na podstawie art. 170 pkt 23 ustawy z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. poz. 153), która weszła w życie z dniem 1 stycznia 1999 r., w zakresie uregulowanym tą ustawą. 9) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 10. 10) W brzmieniu ustalonym przez art. 3 pkt 5 ustawy, o której mowa w odnośniku 2. 11) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 12. 12) W brzmieniu ustalonym przez art. 3 pkt 6 ustawy, o której mowa w odnośniku 2. 13) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 14. 14) Ze zmianą wprowadzoną przez art. 3 pkt 7 ustawy, o której mowa w odnośniku 2. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1301, 1692, 1967, 2127, 2180, 2600, 2640 i 2687 oraz z 2023 r. poz. 556, 614, 852, 1059, 1130, 1193, 1369, 1429 i 1523. 16) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 17. 17) Przez art. 3 pkt 8 lit. a ustawy, o której mowa w odnośniku 2. 18) W tym brzmieniu obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 19. 19) Ze zmianą wprowadzoną przez art. 1 pkt 8 lit. b ustawy, o której mowa w odnośniku 2. 20) Ustawa została ogłoszona w dniu 15 lipca 1991 r.

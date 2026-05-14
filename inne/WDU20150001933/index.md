@@ -1,0 +1,84 @@
+---
+title: Rozporządzenie Ministra Spraw Wewnętrznych z dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców
+address: WDU20150001933
+eli: DU/2015/1933
+publisher: DU
+year: 2015
+pos: 1933
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 9 listopada 2015 r. w sprawie opłaty za udostępnienie danych z centralnej ewidencji kierowców
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1933 |
+| ISAP | WDU20150001933 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2015-11-09 |
+| Data wydania | 2015-11-23 |
+| Wejście w życie | 2018-06-04 |
+| Ostatnia zmiana | 2020-02-21 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1933/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1933) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 100ap ust. 4 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2012 r. poz. 1137](https://api.sejm.gov.pl/eli/acts/DU/2012/1137/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844 i 1893.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+wysokość opłaty za udostępnienie danych jednostkowych z centralnej ewidencji kierowców, zwanej dalej „ewidencją”;
+
+### 2)
+
+warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji;
+
+### 3)
+
+sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji.
+
+### § 2.
+
+Opłatę za udostępnienie danych z ewidencji wnosi się na rachunek bankowy Funduszu - Centralna Ewidencja Pojazdów i Kierowców.
+
+### § 3.
+
+### 1.
+
+Opłata za udostępnienie danych jednostkowych z ewidencji wynosi 30,40 zł.
+
+### 2.
+
+Opłatę wnosi się przed złożeniem wniosku o udostępnienie danych jednostkowych z ewidencji.
+
+### 3.
+
+Dowód wniesienia opłaty dołącza się do złożonego wniosku o udostępnienie danych jednostkowych.
+
+### 4.
+
+Dowód wniesienia opłaty może mieć postać wydruku lub dokumentu elektronicznego potwierdzającego dokonanie operacji bankowej.
+
+### § 4.
+
+### 1.
+
+Informacja o wysokości opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych z ewidencji jest przekazywana do wnioskodawcy w celu jej zaakceptowania. W przypadku braku akceptacji wysokości opłaty wniosek o udostępnienie danych pozostawia się bez rozpoznania.
+
+### 2.
+
+Opłatę wnosi się w terminie 7 dni od dnia udostępnienia danych do celów komercyjnych i niekomercyjnych z ewidencji.
+
+### § 5.
+
+Rozporządzenie wchodzi w życie z dniem 4 stycznia 2016 r.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1359, 1649, 1830, 1844 i 1893.

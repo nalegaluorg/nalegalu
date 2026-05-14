@@ -8,11 +8,9 @@ pos: 199
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:13)(cid:2)(cid:1)(cid:2)(cid:10)(cid:6)(cid:4)(cid:1)(cid:14)(cid:3)(cid:15)(cid:16)(cid:3)(cid:5)(cid:8)(cid:2)(cid:11)(cid:8)(cid:14)(cid:13)(cid:11)(cid:1)(cid:14)(cid:5)(cid:6)(cid:17)(cid:7)(cid:13)(cid:4)(cid:2)(cid:1)(cid:14)(cid:6)(cid:3)(cid:2)(cid:5)(cid:7)(cid:7)(cid:13)(cid:18)(cid:19)(cid:2)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:20)
-
-*USTAWA z dnia 18 maja 990 r.*
+# Ustawa z dnia 18 maja 1990 r. o zmianie ustawy o samorządzie terytorialnym oraz innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,144 @@ domain: null
 | Data ogłoszenia | 1990-05-18 |
 | Data wydania | 1990-05-26 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900340199) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/199/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1990/199/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1990/199) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:2)(cid:14)(cid:6)(cid:15)(cid:16)(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)(cid:2)(cid:21)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:10)(cid:8)(cid:9)(cid:2)(cid:5)(cid:9)(cid:15)(cid:23)(cid:5)(cid:21)(cid:15)(cid:8)(cid:6)(cid:24)(cid:12)(cid:23)(cid:14)(cid:2)(cid:25)(cid:26)(cid:10)(cid:20)(cid:27)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2)(cid:17)(cid:29)(cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)(cid:18) ! (cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)"(cid:31)(cid:3)#(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)$ (cid:17)!(cid:2)(cid:7)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2) (cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)%(cid:2)(cid:12)(cid:6)(cid:2)&(cid:21)’(cid:16)(cid:3)(cid:2)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:6)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:31)(cid:15)(cid:10)(cid:9)(cid:16)(cid:8)(cid:12)(cid:9)&(cid:2)(cid:8)(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)#(cid:9)(cid:2)(cid:7)(cid:23)(cid:15)(cid:6)(cid:10)(cid:23)(cid:2)(&(cid:5))(cid:15)(cid:9)*(cid:21)(cid:2)(cid:10)(cid:6)(cid:11)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:8)(cid:2)(cid:3)(cid:4)(cid:5)(cid:15))# (cid:21)&(cid:15)(cid:9)+(cid:24)(cid:6)(cid:2)(cid:21)(cid:11)(cid:15)",(cid:12)(cid:6)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)-(cid:30) .!(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)#(cid:9)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)./(cid:6)(cid:2)(cid:7)(cid:2),(cid:15)(cid:10)(cid:14)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)$ (0(cid:15)(cid:5)(cid:20)(cid:2)./(cid:6)(cid:2)(cid:20)(cid:2)(cid:17)(cid:20)(cid:2)1(cid:15)(cid:10)(cid:9)(cid:11)(cid:2)(cid:31)(cid:15)(cid:10)(cid:23)(cid:4)(cid:5)(cid:22)(cid:31)(cid:8)(cid:9)(cid:12)(cid:8)(cid:9)(cid:14)(cid:2)(cid:11)(cid:21)(cid:2)(cid:7)(cid:23)&(cid:21)(cid:12)(cid:23)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:14)(cid:6)(cid:12)(cid:11)(cid:6)(cid:5)(cid:3)(cid:2)(cid:15)(cid:6)(cid:11)(cid:12)(cid:8)(cid:2)(cid:4)&2(cid:6)(cid:11)(cid:6)#(cid:22) +(cid:24)(cid:3),(cid:21)(cid:7)(cid:6)(cid:12)(cid:8)(cid:9)$ (3(cid:24)(cid:3),(cid:3)#"(cid:2)(cid:3)(cid:15)(cid:21)(cid:16)(cid:10)(cid:23)+(cid:16)(cid:8)(cid:9)(cid:2)#(cid:6)&(cid:21)(cid:2)(cid:15)(cid:6)(cid:11)(cid:12)(cid:23)(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:21)(cid:7)(cid:6)4(cid:2)(cid:11)(cid:24)(cid:6)(cid:2)(cid:11)(cid:21),(cid:15)(cid:6)(cid:2)(cid:8)(cid:2)(cid:31)(cid:21)(cid:14)(cid:23)+(cid:24)(cid:12)(cid:21)+(cid:16)(cid:8) *(cid:14)(cid:8)(cid:12)(cid:23)(cid:30)(cid:2)(cid:11)(cid:10)(cid:8)(cid:6)2(cid:6)4(cid:2)(cid:10)(cid:6)(cid:7)(cid:4)(cid:10)(cid:9)(cid:2)(cid:10)*(cid:21)(cid:11)(cid:12)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:31)(cid:15)(cid:6)(cid:7)(cid:9)(cid:14)(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:10)(cid:2)(cid:8)(cid:12)(cid:5)(cid:9)(cid:15)(cid:9)(cid:4)(cid:6)(cid:14)(cid:8)(cid:2)*(cid:14)(cid:8)(cid:12)(cid:23)(cid:2)(cid:8) #(cid:9)#(cid:2)(cid:14)(cid:8)(cid:9)(cid:4)(cid:10)&(cid:6)’(cid:16))(cid:7)(cid:30)(cid:2)*(cid:21)(cid:11)(cid:12)(cid:8)(cid:9)(cid:2)(cid:8)(cid:2)(cid:15)(cid:10)(cid:9)(cid:5)(cid:9)(cid:24)(cid:12)(cid:8)(cid:9)(cid:2)(cid:15)(cid:9)(cid:31)(cid:15)(cid:9)(cid:10)(cid:9)(cid:12)(cid:5)(cid:21)(cid:7)(cid:6)4(cid:2)(cid:4)(cid:7)(cid:21)(cid:8)(cid:16)5 (cid:7)(cid:23),(cid:21)(cid:15)(cid:16))(cid:7)(cid:30)(cid:2)(cid:5)(cid:15)(cid:21)(cid:4)(cid:10)(cid:16)(cid:10)(cid:23)4(cid:2)(cid:4)(cid:8)"(cid:2)(cid:21)(cid:2)(cid:8)(cid:16)5(cid:2)(cid:4)(cid:31)(cid:15)(cid:6)(cid:7)(cid:23)(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:12)(cid:8)(cid:9)(cid:2)(cid:4)(cid:10)(cid:16)(cid:10)"(cid:11)(cid:10)(cid:8)4(cid:2)(cid:4)(cid:8)2(cid:2)(cid:11)(cid:24)(cid:6) (cid:7)(cid:23)&(cid:21)(cid:12)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:10)(cid:6)(cid:11)(cid:6)’(cid:2)*(cid:14)(cid:8)(cid:12)(cid:23)-(cid:20) .(cid:20)(cid:2)3(cid:24)(cid:3),(cid:21)(cid:7)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:21)(cid:11),(cid:23)(cid:7)(cid:6)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:7)(cid:2)(cid:5)(cid:9)(cid:12)(cid:2)(cid:4)(cid:31)(cid:21)(cid:4)),(cid:30)(cid:2)6(cid:9)(cid:2)(cid:31)(cid:21)(cid:2)(cid:21)(cid:11)(cid:16)(cid:10)(cid:23)(cid:5)(cid:6)(cid:12)(cid:8)(cid:3)(cid:2)(cid:15)(cid:21)(cid:5)(cid:23)(cid:2)(cid:7)(cid:23)(cid:7)(cid:21)2(cid:6)(cid:12)(cid:8) &(cid:21)(cid:24)(cid:9)#(cid:12)(cid:21)(cid:2)(cid:15)(cid:6)(cid:11)(cid:12)(cid:8)(cid:2)(cid:31)(cid:21)(cid:7)(cid:4)(cid:5)(cid:6)#(cid:22)(cid:2)(cid:8)(cid:2)(cid:7)(cid:23)(cid:31)(cid:21)(cid:7)(cid:8)(cid:6)(cid:11)(cid:6)#(cid:22)(cid:2)(cid:4)2(cid:21)(cid:7)(cid:21)$(cid:2)(+(cid:24)(cid:3),(cid:3)#"-(cid:20) 3. Radni nieobecni na pierwszej sesji rady gminy oraz radni, którzy uzyskali (cid:14)(cid:6)(cid:12)(cid:11)(cid:6)(cid:5)(cid:2)(cid:7)(cid:2)(cid:16)(cid:10)(cid:6)(cid:4)(cid:8)(cid:9)(cid:2)(cid:5)(cid:15)(cid:7)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)&(cid:6)(cid:11)(cid:9)(cid:12)(cid:16)#(cid:8)(cid:30)(cid:2)(cid:4)&2(cid:6)(cid:11)(cid:6)#(cid:22)(cid:2)+(cid:24)(cid:3),(cid:21)(cid:7)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:12)(cid:6)(cid:2)(cid:31)(cid:8)(cid:9)(cid:15)(cid:7)(cid:4)(cid:10)(cid:9)#(cid:2)(cid:4)(cid:9)(cid:4)#(cid:8)(cid:30) (cid:12)(cid:6)(cid:2)&(cid:5))(cid:15)(cid:9)#(cid:2)(cid:4)(cid:22)(cid:2)(cid:21),(cid:9)(cid:16)(cid:12)(cid:8)(cid:20)-7 /!(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)#(cid:9)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)/(cid:18)(cid:6)(cid:2)(cid:7)(cid:2),(cid:15)(cid:10)(cid:14)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)$ (0(cid:15)(cid:5)(cid:20)(cid:2)/(cid:18)(cid:6)(cid:20)(cid:2)1(cid:15)(cid:9)(cid:10)(cid:9)(cid:4)(cid:6)(cid:2)8(cid:6)(cid:11)(cid:23)(cid:2)9(cid:8)(cid:12)(cid:8)(cid:4)(cid:5)(cid:15))(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:24)(cid:6)(cid:2)(cid:8)(cid:12)(cid:4)(cid:5)(cid:15)(cid:3)&(cid:16)#"(cid:2)&(cid:6)(cid:12)(cid:16)(cid:9)(cid:24)(cid:6)(cid:15)(cid:23)#(cid:12)(cid:22)(cid:2)(cid:11)(cid:24)(cid:6)(cid:2)(cid:21)(cid:15)*(cid:6)(cid:12))(cid:7)(cid:2)*(cid:14)(cid:8)(cid:12)(cid:23)(cid:30) (cid:10)(cid:7)(cid:8)(cid:22)(cid:10)&)(cid:7)(cid:2)&(cid:21)(cid:14)(cid:3)(cid:12)(cid:6)(cid:24)(cid:12)(cid:23)(cid:16)5(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:4)(cid:9)#(cid:14)(cid:8)&)(cid:7)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:20)Art. 2. W dekrecie z dnia 7 grudnia 1955 r. o godle i barwach Polskiej Rzeczypospolitej Ludowej (cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:21)(cid:2)(cid:31)(cid:8)(cid:9)(cid:16)(cid:10)"(cid:16)(cid:8)(cid:6)(cid:16)5(cid:2)(cid:31)(cid:6)’(cid:4)(cid:5)(cid:7)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:2)(cid:25)(cid:26)(cid:10)(cid:20)(cid:27)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2)%:(cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)/(cid:17)%(cid:30)(cid:2)(cid:10)(cid:2)(cid:17)(cid:18) (cid:29)(cid:2)(cid:15)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2):(cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)%/(cid:30)(cid:2)(cid:10)(cid:2)(cid:17)(cid:18) :(cid:2)(cid:28)(cid:15) 10, poz. 42, z 1980 r. Nr 7, poz. 18, z 1985 r. Nr 23, poz. 100 i z 1989 r. Nr 34, poz. 178) (cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)"(cid:31)(cid:3)#(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)$
+## Treść ustawy
 
-**Art. 3.** W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Polskiej Rzeczypospolitej Ludowej (Dz.U. Nr 7, poz. 18, z 1985 r. Nr 23, poz. 100 i z 1990 r. Nr 10, poz. 60) (cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)"(cid:31)(cid:3)#(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)$ (cid:17)!(cid:2)(cid:7)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)/(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:31)(cid:21)(cid:2)(cid:31)&(cid:5)(cid:2)(cid:17)(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)#(cid:9)(cid:2)(cid:4)(cid:8)"(cid:2)(cid:31)&(cid:5)(cid:2)(cid:17)(cid:6)(cid:2)(cid:7)(cid:2),(cid:15)(cid:10)(cid:14)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)$ ((cid:17)(cid:6)!(cid:2)(cid:21)(cid:15)*(cid:6)(cid:12))(cid:7)(cid:2)*(cid:14)(cid:8)(cid:12)(cid:30)(cid:2)(cid:10)(cid:7)(cid:8)(cid:22)(cid:10)&)(cid:7)(cid:2)&(cid:21)(cid:14)(cid:3)(cid:12)(cid:6)(cid:24)(cid:12)(cid:23)(cid:16)5(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:4)(cid:9)#(cid:14)(cid:8)&)(cid:7) (cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:30)2) w art. 7 w ust. 1 pkt 5 otrzymuje brzmienie: ( !(cid:2)(cid:8)(cid:12)(cid:12)(cid:23)(cid:16)5(cid:2)(cid:21)(cid:15)*(cid:6)(cid:12))(cid:7)(cid:2)(cid:31)(cid:6)’(cid:4)(cid:5)(cid:7)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:2)(cid:8)(cid:2)(cid:31)(cid:6)’(cid:4)(cid:5)(cid:7)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:2)#(cid:9)(cid:11)(cid:12)(cid:21)(cid:4)(cid:5)(cid:9)&(cid:2)(cid:21)(cid:15)*(cid:6)(cid:12)(cid:8)(cid:10)(cid:6)(cid:16)(cid:23)#(cid:12)(cid:23)(cid:16)5(cid:30) (cid:6)(cid:2)(cid:5)(cid:6)&6(cid:9)(cid:2)(cid:21)(cid:15)*(cid:6)(cid:12))(cid:7)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:3)(cid:2)(cid:5)(cid:9)(cid:15)(cid:23)(cid:5)(cid:21)(cid:15)(cid:8)(cid:6)(cid:24)(cid:12)(cid:9)*(cid:21)(cid:2)(cid:8)(cid:2)&(cid:21)(cid:14)(cid:3)(cid:12)(cid:6)(cid:24)(cid:12)(cid:23)(cid:16)5(cid:2)#(cid:9)(cid:11)(cid:12)(cid:21)(cid:4)(cid:5)(cid:9)& (cid:21)(cid:15)*(cid:6)(cid:12)(cid:8)(cid:10)(cid:6)(cid:16)(cid:23)#(cid:12)(cid:23)(cid:16)5(cid:2);(cid:2)(cid:10)(cid:2)(cid:21)&(cid:6)(cid:10)#(cid:8)(cid:2)(cid:3)(cid:15)(cid:21)(cid:16)(cid:10)(cid:23)(cid:4)(cid:5)(cid:21)+(cid:16)(cid:8)(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)+(cid:7)(cid:8)(cid:22)(cid:5)(cid:2)(cid:8)(cid:2)(cid:15)(cid:21)(cid:16)(cid:10)(cid:12)(cid:8)(cid:16) (cid:31)(cid:6)’(cid:4)(cid:5)(cid:7)(cid:21)(cid:7)(cid:23)(cid:16)5(cid:20)Art. 4. (cid:27)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:16)5(cid:21)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)(cid:2)6(cid:23)(cid:16)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:14)(cid:2).:(cid:2)(cid:14)(cid:6)#(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)
+### Art. 1.
 
+W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym ([Dz. U. Nr 16, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1990/95/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 w ust. 4 na końcu stawia się przecinek i dodaje wyrazy „którego zadania i ustrój określa odrębna ustawa”,
+
+### 2)
+
+dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+### 1.
+
+Przed przystąpieniem do wykonywania mandatu radni składają ślubowanie: „Ślubuję uroczyście jako radny pracować dla dobra i pomyślności gminy, działać zawsze zgodnie z prawem oraz z interesami gminy i jej mieszkańców, godnie i rzetelnie reprezentować swoich wyborców, troszczyć się o ich sprawy oraz nie szczędzić sił dla wykonania zadań gminy”.
+
+### 2.
+
+Ślubowanie odbywa się w ten sposób, że po odczytaniu roty wywołani kolejno radni powstają i wypowiadają słowo „ślubuję”.
+
+### 3.
+
+Radni nieobecni na pierwszej sesji rady gminy oraz radni, którzy uzyskali mandat w czasie trwania kadencji, składają ślubowanie na pierwszej sesji, na której są obecni.
+
+” ,
+
+### 3)
+
+dodaje się art. 39a w brzmieniu:
+
+„
+
+### Art. 39a.
+
+Prezes Rady Ministrów ustala instrukcję kancelaryjną dla organów gminy, związków komunalnych oraz sejmików samorządowych.
+
+”
+
+### Art. 2.
+
+W dekrecie z dnia 7 grudnia 1955 r. o godle i barwach Polskiej Rzeczypospolitej Ludowej oraz o pieczęciach państwowych ([Dz. U. Nr 47, poz. 314](https://api.sejm.gov.pl/eli/acts/DU/1955/314/text.html), z [1956 r. Nr 7, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1956/43/text.html), z [1957 r. Nr 10, poz. 42](https://api.sejm.gov.pl/eli/acts/DU/1957/42/text.html), z [1980 r. Nr 7, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/1980/18/text.html), z [1985 r. Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html) i z [1989 r. Nr 34, poz. 178](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 7 otrzymuje brzmienie:
+
+„
+
+### Art. 7.
+
+Wizerunek orła, ustalony dla godła, używają:
+
+### 1)
+
+organy władzy i administracji państwowej,
+
+### 2)
+
+gminy, związki komunalne, sejmiki samorządowe oraz ich organy,
+
+### 3)
+
+jednostki wojskowe,
+
+### 4)
+
+sądy, prokuratura, państwowe biura notarialne i komornicy sądowi,
+
+### 5)
+
+szkoły, instytucje państwowe i samorządowe,
+
+### 6)
+
+inne instytucje oraz przedsiębiorstwa komunalne, jeżeli przepis szczególny uprawnia je do używania wizerunku orła.
+
+” ;
+
+### 2)
+
+w art. 11:
+
+### a)
+
+w ust. 1 użyte w nawiasie wyrazy „art. 1” zastępuje się wyrazami „ustalony dla godła”,
+
+### b)
+
+dodaje się nowy ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Pieczęcią urzędową gminy, związku komunalnego lub sejmiku samorządowego może być również pieczęć, o której mowa w ust. 1, zawierająca pośrodku, zamiast wizerunku orła, odpowiednio herb gminy lub województwa.
+
+” ,
+
+### c)
+
+dotychczasowy ust. 2 oznacza się jako ust. 3.
+
+### Art. 3.
+
+W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Polskiej Rzeczypospolitej Ludowej ([Dz. U. Nr 7, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/1980/18/text.html), z [1985 r. Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html) i z [1990 r. Nr 10, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1990/60/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 po pkt 1 dodaje się pkt 1 a w brzmieniu:
+
+„
+
+### 1a)
+
+organów gmin, związków komunalnych oraz sejmików samorządowych,
+
+”
+
+### 2)
+
+w art. 7 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+innych organów państwowych i państwowych jednostek organizacyjnych, a także organów samorządu terytorialnego i komunalnych jednostek organizacyjnych - z okazji uroczystości oraz świąt i rocznic państwowych.
+
+”
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem 27 maja 1990 r.

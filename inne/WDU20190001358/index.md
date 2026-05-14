@@ -8,11 +8,9 @@ pos: 1358
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy oraz niektórych innych ustaw
-
-*USTAWA dnia 4 lipca 2019 o zmianie o wsparciu kredytobiorców znajdujących się trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy oraz niektórych innych ustaw*
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,203 +22,964 @@ domain: null
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-07-22 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001358) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1358/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1358/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1358) |
 
-**Art. 1.** W ustawie dnia 9 października 2015 o wsparciu kredytobiorców znajdujących się trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy (Dz. 1925 oraz 2243) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. Użyte ustawie określenia oznaczają:
+W ustawie z dnia 9 października 2015 r. o wsparciu kredytobiorców znajdujących się w trudnej sytuacji finansowej, którzy zaciągnęli kredyt mieszkaniowy ([Dz. U. poz. 1925](https://api.sejm.gov.pl/eli/acts/DU/2015/1925/text.html) oraz [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html)) wprowadza się następujące zmiany:
 
-- **1)** dochód – dochód rozumieniu przepisów dnia 12 marca 2004 o pomocy społecznej (Dz. 1508, późn. zm. );
-- **2)** dom jednorodzinny – budynek mieszkalny jednorodzinny rozumieniu przepisów dnia 7 lipca 1994 – Prawo budowlane (Dz. 2019 1186 i 1309), którym znajduje się nie więcej niż jeden lokal mieszkalny;
-- **3)** gospodarstwo domowe – gospodarstwo prowadzone przez kredytobiorcę ubiegającego się o wsparcie lub pożyczkę na spłatę zadłużenia, samodzielnie zajmującego lokal mieszkalny lub dom jednorodzinny, albo gospodarstwo prowadzone przez kredytobiorcę wspólnie innymi osobami stale nim zamieszkującymi i gospodarującymi, które swoje prawa do zamieszkiwania lokalu mieszkalnym lub domu jednorodzinnym wywodzą prawa kredytobiorcy;
-- **4)** kredytobiorca – osobę lub osoby, pozostające gospodarstwie domowym, zobowiązane do spłaty kredytu mieszkaniowego;
-- **5)** kredytodawca – bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa art. 4 ust. 1 pkt 1, 18 i 20 dnia 29 sierpnia 1997 – Prawo bankowe (Dz. 2187, późn. zm. ), albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego;
-- **6)** lokal mieszkalny – samodzielny lokal mieszkalny rozumieniu przepisu art. 2 ust. 2 zdanie pierwsze dnia 24 czerwca 1994 o własności lokali (Dz. 2019 737 i 1309) znajdujący się budynku, skład którego wchodzą co najmniej dwa takie lokale;
+### 1)
 
-2. Kredytem mieszkaniowym rozumieniu przepisów jest kredyt lub pożyczka, zabezpieczone hipoteką, przeznaczone na sfinansowanie niezwiązanego działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego:
+w tytule ustawy ogólne określenie przedmiotu ustawy otrzymuje brzmienie: „ o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej ” ;
 
-- **1)** nabycia, budowy, przebudowy, rozbudowy lub nadbudowy domu jednorodzinnego albo lokalu mieszkalnego stanowiącego odrębną nieruchomość, oraz adaptacji pomieszczeń lub budynków niemieszkalnych na cele mieszkalne;
-- **2)** nabycia spółdzielczego prawa do lokalu mieszkalnego lub prawa do domu jednorodzinnego spółdzielni mieszkaniowej albo prawa odrębnej własności lokalu mieszkalnego spółdzielni mieszkaniowej;
-- **3)** remontu domu jednorodzinnego albo lokalu mieszkalnego, o których mowa pkt 1 i 2;
-- **4)** nabycia działki budowlanej albo jej części pod budowę domu jednorodzinnego;
-- **5)** nabycia działki rolnej albo jej części pod budowę domu jednorodzinnego, położonej całości albo części na terenie przeznaczonym pod zabudowę mieszkaniową, zgodnie miejscowym planem zagospodarowania przestrzennego, a przypadku gdy teren, na którym położona jest działka rolna albo jej część, nie został objęty miejscowym planem zagospodarowania przestrzennego – nabycia działki albo jej części przeznaczonej pod budowę budynku mieszkalnego jednorodzinnego na podstawie decyzji o warunkach zabudowy i zagospodarowania terenu;
-- **6)** udziału kosztach budowy mieszkań przez towarzystwa budownictwa społecznego;
-- **7)** innego celu związanego zaspokajaniem potrzeb mieszkaniowych.
+### 2)
 
-3. Kredytem mieszkaniowym rozumieniu przepisów jest również:
+art. 1-4 otrzymują brzmienie:
 
-- **1)** zabezpieczony hipoteką kredyt udzielony na spłatę kredytu mieszkaniowego, o którym mowa ust. 2;
-- **2)** ta część kredytu udzielonego na spłatę różnych zobowiązań kredytowych, która jest przeznaczona na spłatę kredytu mieszkaniowego, o którym mowa ust. 2, jeżeli kredyt ten został zabezpieczony sposób, o którym mowa pkt 1.
+„
 
-**Art. 3.**
+### Art. 1.
 
-1. Wsparcie lub pożyczka na spłatę zadłużenia mogą być przyznane, jeżeli:
+### 1.
 
-- **1)** dniu złożenia wniosku o wsparcie lub pożyczkę na spłatę zadłużenia co najmniej jeden kredytobiorców posiada status bezrobotnego, lub
-- **2)** wartość wskaźnika RdD przekracza 50%, lub
-- **3)** miesięczny dochód gospodarstwa domowego pomniejszony o miesięczne koszty obsługi kredytu mieszkaniowego nie przekracza:
-    - **a)** przypadku gospodarstwa domowego jednoosobowego – dwukrotności kwoty wskazanej art. 8 ust. 1 pkt 1 dnia 12 marca 2004 o pomocy społecznej, zwaloryzowanej zgodnie przepisami tej ustawy,
-    - **b)** przypadku gospodarstwa domowego wieloosobowego – iloczynu dwukrotności kwoty wskazanej art. 8 ust. 1 pkt 2 dnia 12 marca 2004 o pomocy społecznej, zwaloryzowanej zgodnie przepisami tej ustawy, i liczby członków gospodarstwa domowego kredytobiorcy.
+Ustawa określa zasady:
 
-2. Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli utrata zatrudnienia przez co najmniej jednego kredytobiorców nastąpiła wyniku rozwiązania umowy o pracę za wypowiedzeniem przez kredytobiorcę lub rozwiązania umowy o pracę bez wypowiedzenia winy pracownika trybie art. 52 § 1 dnia 26 czerwca 1974 – Kodeks pracy (Dz. 2019 1040 i 1043).
+### 1)
 
-3. Wsparcie nie może być przyznane, jeżeli jeden kredytobiorców uzyskał wsparcie na zasadach określonych ustawie, chyba że wsparcie nie jest już udzielane, a okres udzielonego wsparcia nie przekroczył 35 miesięcy. W takim przypadku łączny okres wsparcia przyznanego kredytobiorcom na spłatę kredytu mieszkaniowego nie może przekroczyć 36 miesięcy.
+przyznawania zwrotnego wsparcia finansowego osobom fizycznym zobowiązanym do spłaty kredytu mieszkaniowego, które znalazły się w trudnej sytuacji finansowej, zwanego dalej „wsparciem”, oraz warunki korzystania ze wsparcia;
 
-4. Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli umowa kredytu mieszkaniowego została wypowiedziana przed złożeniem wniosku, o którym mowa art. 6 ust. 1.
+### 2)
 
-5. Wsparcie nie może być przyznane za okres, którym co najmniej jednemu kredytobiorców przysługuje świadczenie tytułu utraty pracy wynikające zawartej umowy ubezpieczenia spłaty kredytu, gwarantującej wypłatę świadczenia na wypadek utraty pracy.
+przyznawania pożyczki na pokrycie pozostałej części zadłużenia, zwanej dalej „pożyczką na spłatę zadłużenia”, oraz warunki korzystania z pożyczki na spłatę zadłużenia.
 
-- **1)** jest właścicielem innego lokalu mieszkalnego lub domu jednorodzinnego lub był nim okresie 6 miesięcy przed złożeniem wniosku;
-- **2)** posiada spółdzielcze prawo do lokalu mieszkalnego lub domu jednorodzinnego spółdzielni mieszkaniowej lub posiadał takie prawo okresie 6 miesięcy przed złożeniem wniosku;
-- **3)** posiada roszczenie o przeniesienie na niego prawa własności lokalu mieszkalnego, domu jednorodzinnego, spółdzielczego prawa do lokalu mieszkalnego lub domu jednorodzinnego spółdzielni mieszkaniowej lub posiadał takie roszczenie okresie 6 miesięcy przed złożeniem wniosku.”;
-- **3)** art. 5 ust. 1–3 otrzymują brzmienie: „1. Wsparcie polega na przekazywaniu kredytodawcy przez Bank Gospodarstwa Krajowego kwoty środków pieniężnych przeznaczeniem na spłatę zobowiązań kredytobiorcy tytułu kredytu mieszkaniowego, przez okres nie dłuższy niż 36 miesięcy.
+### 2.
 
-2. Wysokość wsparcia określa się złotych jako równowartość przewidywanych 36 miesięcznych rat kapitałowych i odsetkowych kredytu mieszkaniowego, tym że jeżeli wysokość przewidywanej miesięcznej raty kapitałowej i odsetkowej jest wyższa niż 2000 zł, do określenia wysokości wsparcia przyjmuje się kwotę 2000 zł.
+Wsparcie oraz pożyczka na spłatę zadłużenia są realizowane za pośrednictwem Banku Gospodarstwa Krajowego.
 
-3. Wsparcie jest przekazywane ratach miesięcznych, nie wyższych niż 2000 zł, na wskazany przez kredytodawcę rachunek przeznaczony do przekazywania wsparcia.”;
+### 3.
 
-- **4)** po art. 5 dodaje się art. 5a i art. 5b brzmieniu: „Art. 5a. 1. W przypadku gdy kredytobiorca dokonał sprzedaży kredytowanej nieruchomości, a kwota uzyskana ze sprzedaży nie pokryła całego zobowiązania tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości, kredytobiorcy może zostać udzielona pożyczka na spłatę zadłużenia.
+Źródłem finansowania wsparcia i pożyczki na spłatę zadłużenia oraz kosztów związanych z obsługą wsparcia i pożyczki na spłatę zadłużenia jest Fundusz Wsparcia Kredytobiorców.
 
-2. Bank Gospodarstwa Krajowego przekazuje kredytodawcy celu spłaty zadłużenia, o którym mowa ust. 1, środki pieniężne na zasadach określonych umowie, o której mowa art. 8 ust. 1.
+### Art. 2.
 
-3. Wysokość pożyczki na spłatę zadłużenia nie może przekraczać kwoty 72 000 zł.
+### 1.
 
-4. Pożyczka na spłatę zadłużenia jest przekazywana na rachunek kredytodawcy wskazany umowie, o której mowa art. 8 ust. 1.
+Użyte w ustawie określenia oznaczają:
 
-5. W przypadku gdy kredyt mieszkaniowy jest spłacany walucie obcej, Bank Gospodarstwa Krajowego przekazuje pożyczkę na spłatę zadłużenia walucie spłaty kredytu, dokonując przeliczenia jej wysokości na walutę spłaty kredytu według kursu sprzedaży ogłoszonego przez Narodowy Bank Polski dniu poprzedzającym dzień przekazania pożyczki na spłatę zadłużenia.
+### 1)
 
-**Art. 5b.**
+dochód - dochód w rozumieniu przepisów ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2018 r. poz. 1508](https://api.sejm.gov.pl/eli/acts/DU/2018/1508/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752.](#gloss-0:2:));
 
-1. Kredytobiorca przed dokonaniem sprzedaży kredytowanej nieruchomości może wystąpić o przyrzeczenie udzielenia mu pożyczki na spłatę zadłużenia, zwane dalej „promesą”.
+### 2)
 
-2. Promesa jest udzielana przez kredytodawcę przypadku, którym kwota, jaka ma być uzyskana ze sprzedaży kredytowanej nieruchomości, nie pokryłaby całego zobowiązania tytułu kredytu mieszkaniowego zaciągniętego na jej zakup.
+dom jednorodzinny - budynek mieszkalny jednorodzinny w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2019 r. poz. 1186](https://api.sejm.gov.pl/eli/acts/DU/2019/1186/text.html) i [1309](https://api.sejm.gov.pl/eli/acts/DU/2019/1309/text.html)), w którym znajduje się nie więcej niż jeden lokal mieszkalny;
 
-3. Warunkiem ubiegania się o udzielenie promesy jest zawarcie przedwstępnej umowy sprzedaży kredytowanej nieruchomości.
+### 3)
 
-4. Kredytodawca dokonuje weryfikacji wniosku o udzielenie promesy, o którym mowa art. 6 ust. 1, i po stwierdzeniu spełnienia przez kredytobiorcę warunków, o których mowa art. 3 ust. 1, 2 i 4 oraz art. 4, przekazuje wniosek do Banku Gospodarstwa Krajowego celu zarezerwowania środków na udzielenie pożyczki na spłatę zadłużenia.
+gospodarstwo domowe - gospodarstwo prowadzone przez kredytobiorcę ubiegającego się o wsparcie lub pożyczkę na spłatę zadłużenia, samodzielnie zajmującego lokal mieszkalny lub dom jednorodzinny, albo gospodarstwo prowadzone przez kredytobiorcę wspólnie z innymi osobami stale z nim zamieszkującymi i gospodarującymi, które swoje prawa do zamieszkiwania w lokalu mieszkalnym lub domu jednorodzinnym wywodzą z prawa kredytobiorcy;
 
-5. Bank Gospodarstwa Krajowego informuje kredytodawcę i kredytobiorcę o zarezerwowaniu środków terminie 7 dni od dnia otrzymania kompletnego wniosku.
+### 4)
 
-6. Kredytodawca wydaje kredytobiorcy promesę terminie 7 dni od dnia otrzymania od Banku Gospodarstwa Krajowego informacji, o której mowa ust. 5. W promesie ustala się okres jej ważności, nie krótszy jednak niż 6 miesięcy.
+kredytobiorca - osobę lub osoby, pozostające w gospodarstwie domowym, zobowiązane do spłaty kredytu mieszkaniowego;
 
-7. Kredytobiorca dostarcza kredytodawcy umowę sprzedaży kredytowanej nieruchomości terminie 14 dni od dnia dokonania sprzedaży kredytowanej nieruchomości.
+### 5)
 
-- **5)** art. 6: „Art. 6a. Wypowiedzenie umowy kredytu mieszkaniowego okresie rozpatrywania wniosku, o którym mowa art. 6 ust. 1, oraz okresie dodatkowej weryfikacji wniosku, o której mowa art. 8a ust. 1, nie wywołuje skutku wobec kredytobiorcy.”;
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W celu uzyskania wsparcia, promesy lub pożyczki na spłatę zadłużenia kredytobiorca składa do kredytodawcy wniosek.”,
-    - **b)** ust. 2: – pkt 1 otrzymuje brzmienie: „1) podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, numer dowodu osobistego albo rodzaj i numer innego dokumentu potwierdzającego tożsamość oraz numer identyfikacyjny umowy kredytowej;”, – pkt 2: – – lit. a otrzymuje brzmienie: „a) istnieniu okoliczności stanowiących podstawę przyznania wsparcia lub udzielenia pożyczki na spłatę zadłużenia, tym wskazuje, która przesłanek, o których mowa art. 3 ust. 1, stanowi podstawę do ubiegania się o wsparcie lub pożyczkę na spłatę zadłużenia,”, – – lit. c i d otrzymują brzmienie: „c) wartości wskaźnika RdD za miesiąc poprzedzający miesiąc złożenia wniosku – przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 2,
-    - **d)** dochodzie gospodarstwa domowego i liczbie członków gospodarstwa domowego kredytobiorcy – przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 3;”, – dodaje się pkt 3 brzmieniu: „3) przypadku ubiegania się o przyznanie pożyczki na spłatę zadłużenia – podaje informacje dotyczące sprzedaży kredytowanej nieruchomości i składa, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie, że nabywcą tej nieruchomości nie jest członek rodziny rozumieniu przepisu art. 5 pkt 3 dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 1510, późn. zm. ), osoba pozostająca we wspólnym gospodarstwie domowym ani osoba będąca nim bliskim stosunku rozumieniu przepisu art. 527 § 3 dnia 23 kwietnia 1964 – Kodeks cywilny (Dz. 2019 1145) oraz załącza do wniosku dokumenty dotyczące sprzedaży kredytowanej nieruchomości.”,
-    - **c)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. W przypadku ubiegania się o udzielenie promesy do wniosku, o którym mowa ust. 1, załącza się przedwstępną umowę sprzedaży kredytowanej nieruchomości.”,
-    - **d)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, wzór wniosku, o którym mowa ust. 1, wraz objaśnieniami co do sposobu jego wypełnienia i złożenia, a także informacją o konieczności dołączenia dokumentów potwierdzających dane i informacje, o których mowa ust. 2 pkt 1 i 3, oraz załączenia dokumentów, o których mowa ust. 2 pkt 3 i ust. 2a, a także informacją o treści oświadczeń, o których mowa ust. 2 pkt 2 i 3, i skutkach otrzymania nienależnego wsparcia lub pożyczki na spłatę zadłużenia, kierując się potrzebą rzetelnego udokumentowania danych niezbędnych do przyznania wsparcia lub pożyczki na spłatę zadłużenia.”;
+kredytodawca - bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa w art. 4 ust. 1 pkt 1, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2018 r. poz. 2187](https://api.sejm.gov.pl/eli/acts/DU/2018/2187/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.](#gloss-0:3:)), albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego;
 
-- **7)** art. 8:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Wsparcie lub pożyczka na spłatę zadłużenia przyznawane są odpowiednio na podstawie umowy o udzieleniu wsparcia lub umowy pożyczki na spłatę zadłużenia zawieranej przez kredytobiorcę kredytodawcą.
+### 6)
 
-2. Umowa, o której mowa ust. 1, zawierana jest, zastrzeżeniem art. 5b ust. 8, po dokonaniu przez kredytodawcę weryfikacji wniosku, o którym mowa art. 6 ust. 1, i stwierdzeniu spełnienia warunków, o których mowa art. 3 i art. 4. Kredytodawca uprawniony jest do przeprowadzenia weryfikacji wyłącznie oparciu o oświadczenia i dokumenty przewidziane ustawie oraz przepisach wykonawczych wydanych na podstawie art. 6 ust. 3.”,
+lokal mieszkalny - samodzielny lokal mieszkalny w rozumieniu przepisu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2019 r. poz. 737](https://api.sejm.gov.pl/eli/acts/DU/2019/737/text.html) i [1309](https://api.sejm.gov.pl/eli/acts/DU/2019/1309/text.html)) znajdujący się w budynku, w skład którego wchodzą co najmniej dwa takie lokale;
 
-- **b)** po ust. 2 dodaje się ust. 2a–2d brzmieniu: „2a. Kredytodawca dokonuje weryfikacji wniosku terminie 21 dni od dnia jego złożenia.
+### 7)
 
-2b. W przypadku gdy wniosek nie jest kompletny lub prawidłowo wypełniony, kredytodawca wzywa kredytobiorcę do jego uzupełnienia.
+wskaźnik RdD - stosunek wydatków kredytobiorcy związanych z obsługą miesięcznej raty kapitałowej i odsetkowej kredytu mieszkaniowego do miesięcznego dochodu gospodarstwa domowego kredytobiorcy.
 
-2c. Po uzupełnieniu wniosku kredytodawca dokonuje jego ponownej weryfikacji terminie 14 dni od dnia uzupełnienia wniosku. Przepis ust. 2b stosuje się odpowiednio.
+### 2.
 
-2d. W przypadku niespełnienia przez kredytobiorcę warunków, o których mowa art. 3 i art. 4, kredytodawca odrzuca wniosek i niezwłocznie informuje o tym formie pisemnej kredytobiorcę, podając uzasadnienie odrzucenia.”,
+Kredytem mieszkaniowym w rozumieniu przepisów ustawy jest kredyt lub pożyczka, zabezpieczone hipoteką, przeznaczone na sfinansowanie niezwiązanego z działalnością gospodarczą lub prowadzeniem gospodarstwa rolnego:
 
-- **c)** ust. 3 otrzymuje brzmienie: „3. Umowa, o której mowa ust. 1, zawierana jest terminie 14 dni od dnia, którym wniosek został pozytywnie zweryfikowany.”,
-- **d)** ust. 5: – pkt 2–4 otrzymują brzmienie: „2) wysokość rat oraz okres udzielonego wsparcia lub wysokość pożyczki na spłatę zadłużenia;
-- **3)** zasady i terminy przekazywania rat udzielonego wsparcia lub zasady wypłaty pożyczki na spłatę zadłużenia;
-- **4)** numer rachunku wskazanego przez kredytodawcę jako rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia;”, – pkt 6 i 7 otrzymują brzmienie: „6) zasady i terminy spłat poszczególnych rat udzielonego wsparcia lub pożyczki na spłatę zadłużenia;
-- **7)** zakres uprawnień Banku Gospodarstwa Krajowego związanych kontrolą spłaty wsparcia lub pożyczki na spłatę zadłużenia;”,
-    - **e)** ust. 6 otrzymuje brzmienie: „6. W umowie, o której mowa ust. 1, zamieszcza się również pouczenie o utracie uprawnień do otrzymywania wsparcia lub pożyczki na spłatę zadłużenia przypadkach, o których mowa art. 12 ust. 1.”;
+### 1)
 
-- **8)** po art. 8 dodaje się art. 8a brzmieniu: „Art. 8a. 1. W przypadku, o którym mowa art. 8 ust. 2d, kredytobiorca może wystąpić, za pośrednictwem kredytodawcy, terminie 14 dni od dnia otrzymania informacji o odrzuceniu wniosku, o dodatkową weryfikację wniosku.
+nabycia, budowy, przebudowy, rozbudowy lub nadbudowy domu jednorodzinnego albo lokalu mieszkalnego stanowiącego odrębną nieruchomość, oraz adaptacji pomieszczeń lub budynków niemieszkalnych na cele mieszkalne;
 
-2. Dodatkowa weryfikacja wniosku jest dokonywana przez Radę Funduszu Wsparcia Kredytobiorców, zwaną dalej „Radą Funduszu”.
+### 2)
 
-3. W przypadku wystąpienia kredytobiorcy o dodatkową weryfikację wniosku kredytodawca przekazuje wnioków przyznania wsparcia lub pożyczki na spłatę zadłużenia. Rada Funduszu podejmuje decyzję drodze uchwały.
+nabycia spółdzielczego prawa do lokalu mieszkalnego lub prawa do domu jednorodzinnego w spółdzielni mieszkaniowej albo prawa odrębnej własności lokalu mieszkalnego w spółdzielni mieszkaniowej;
 
-5. Rada Funduszu przekazuje kredytodawcy i kredytobiorcy informację o treści uchwały, o której mowa ust. 4, terminie 7 dni od dnia jej podjęcia.
+### 3)
 
-6. W przypadku gdy wyniku dodatkowej weryfikacji wniosku zostanie stwierdzone, że kredytobiorca spełnia warunki, o których mowa art. 3 i art. 4, kredytodawca terminie 7 dni od dnia otrzymania uchwały, o której mowa ust. 4, sporządza umowę, o której mowa art. 8 ust. 1.
+remontu domu jednorodzinnego albo lokalu mieszkalnego, o których mowa w pkt 1 i 2;
 
-7. W przypadku, o którym mowa ust. 6, kredytodawca pokrywa własnych środków:
+### 4)
 
-- **1)** kwotę, która odpowiada kwocie wsparcia za okres od dnia podjęcia przez kredytodawcę decyzji o odrzuceniu wniosku, o którym mowa art. 6 ust. 1, do dnia podjęcia przez Radę Funduszu uchwały, o której mowa ust. 4;
-- **2)** kwotę stanowiącą iloczyn kwoty udzielonej pożyczki na spłatę zadłużenia i stawki 8,33%.
+nabycia działki budowlanej albo jej części pod budowę domu jednorodzinnego;
 
-8. Kwota, o której mowa w:
+### 5)
 
-- **1)** ust. 7 pkt 1 – nie stanowi wsparcia;
-- **2)** ust. 7 pkt 2 – nie stanowi pożyczki na spłatę zadłużenia.
+nabycia działki rolnej albo jej części pod budowę domu jednorodzinnego, położonej w całości albo części na terenie przeznaczonym pod zabudowę mieszkaniową, zgodnie z miejscowym planem zagospodarowania przestrzennego, a w przypadku gdy teren, na którym położona jest działka rolna albo jej część, nie został objęty miejscowym planem zagospodarowania przestrzennego - nabycia działki albo jej części przeznaczonej pod budowę budynku mieszkalnego jednorodzinnego na podstawie decyzji o warunkach zabudowy i zagospodarowania terenu;
 
-9. Kwoty, o których mowa ust. 7, są przekazywane przez kredytodawcę kredytobiorcy i nie podlegają spłacie.
+### 6)
 
-10. Opłata za dodatkową weryfikację wniosku wynosi 100 zł i jest pokrywana przez:
+udziału w kosztach budowy mieszkań przez towarzystwa budownictwa społecznego;
 
-- **1)** kredytodawcę, jeżeli kredytobiorca spełnia warunki przyznania wsparcia lub pożyczki na spłatę zadłużenia;
-- **2)** kredytobiorcę, jeżeli kredytobiorca nie spełnia warunków przyznania wsparcia lub pożyczki na spłatę zadłużenia.
+### 7)
 
-11. Opłata, o której mowa ust. 10, uiszczana jest terminie i na rachunek wskazane uchwale, o której mowa ust. 4.”;
+innego celu związanego z zaspokajaniem potrzeb mieszkaniowych.
 
-- **9)** art. 9 i art. 10 otrzymują brzmienie: „Art. 9. Kredytodawca dochodzi roszczeń zakresie zwrotu udzielonego wsparcia lub pożyczki na spłatę zadłużenia, o których mowa art. 19, art. 20 i art. 22.
+### 3.
 
-**Art. 10.** Bank Gospodarstwa Krajowego przekazuje wsparcie lub pożyczkę na spłatę zadłużenia terminie i na warunkach określonych umowie, o której mowa art. 8 ust. 1.”;
+Kredytem mieszkaniowym w rozumieniu przepisów ustawy jest również:
 
-**Art. 19.**
+### 1)
 
-1. Zwrot wsparcia lub pożyczki na spłatę zadłużenia rozpoczyna się miesiącu następującym po miesiącu, którym upłynęły 2 lata od wypłaty ostatniej raty wsparcia lub pożyczki na spłatę zadłużenia, i jest dokonywany 144 równych, nieoprocentowanych miesięcznych ratach, płatnych do 15. dnia miesiąca na rachunek Funduszu.
+zabezpieczony hipoteką kredyt udzielony na spłatę kredytu mieszkaniowego, o którym mowa w ust. 2;
 
-2. Kredytodawca informuje kredytobiorcę co najmniej 30 dni przed terminem wpłaty pierwszej raty zwracanego wsparcia lub zwracanej pożyczki na spłatę zadłużenia o wysokości miesięcznej raty, a także wskazuje numer rachunku bankowego Funduszu, na który dokonuje się wpłat.
+### 2)
 
-3. W przypadku gdy kredytobiorca, bez opóźnienia spłacie, dokona spłaty 100 rat, pozostałą część rat zwrotu wsparcia lub pożyczki na spłatę zadłużenia umarza się.”;
+ta część kredytu udzielonego na spłatę różnych zobowiązań kredytowych, która jest przeznaczona na spłatę kredytu mieszkaniowego, o którym mowa w ust. 2, jeżeli kredyt ten został zabezpieczony w sposób, o którym mowa w pkt 1.
 
-- **20)** art. 21 ust. 2 otrzymuje brzmienie: „2. W przypadku niedokonania płatności terminie określonym wezwaniu kredytobiorca jest obowiązany do niezwłocznego zwrotu przyznanego wsparcia lub przyznanej pożyczki na spłatę zadłużenia wraz odsetkami ustawowymi naliczonymi począwszy od dnia wymagalności pierwszej raty zwrotu wsparcia lub pożyczki na spłatę zadłużenia.”;
-- **21)** art. 22:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Osoba, która otrzymała nienależne wsparcie lub nienależną pożyczkę na spłatę zadłużenia, dokonuje zwrotu środków równych kwocie przyznanego wsparcia lub przyznanej pożyczki na spłatę zadłużenia wraz odsetkami ustawowymi naliczonymi począwszy od dnia przekazania przez Bank Gospodarstwa Krajowego środków tytułu wsparcia lub pożyczki na spłatę zadłużenia.
+### Art. 3.
 
-2. Za nienależne wsparcie uważa się wsparcie wypłacone:
+### 1.
 
-- **1)** pomimo zaistnienia okoliczności stanowiących podstawę wstrzymania wypłaty wsparcia, o których mowa art. 12 ust. 1;
-- **2)** na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd przez osobę, której wsparcie przyznano.”, „2a. Za nienależną pożyczkę na spłatę zadłużenia uważa się pożyczkę na spłatę zadłużenia wypłaconą na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd przez osobę, której pożyczkę na spłatę zadłużenia przyznano.”,
-    - **c)** ust. 3 otrzymuje brzmienie: „3. Zwrot nienależnego wsparcia lub nienależnej pożyczki na spłatę zadłużenia następuje na rachunek Funduszu terminie 30 dni od dnia doręczenia kredytobiorcy przez Bank Gospodarstwa Krajowego pisemnej informacji o uzyskaniu nienależnego wsparcia.”;
+Wsparcie lub pożyczka na spłatę zadłużenia mogą być przyznane, jeżeli:
 
-- **22)** art. 23:
-    - **a)** ust. 1 i 2 otrzymują brzmienie: „1. Rada Funduszu, na wniosek kredytobiorcy, może odroczyć termin płatności lub rozłożyć na raty należności, o których mowa art. 19 ust. 1, art. 20 i art. 22 ust. 1.
+### 1)
 
-2. Rada Funduszu, na uzasadniony wniosek kredytobiorcy lub kredytodawcy, może umorzyć całości albo części należności, o których mowa art. 19 ust. 1, art. 20 i art. 22 ust. 1.”,
+w dniu złożenia wniosku o wsparcie lub pożyczkę na spłatę zadłużenia co najmniej jeden z kredytobiorców posiada status bezrobotnego, lub
 
-- **b)** ust. 5 otrzymuje brzmienie: „5. Umarzając, odraczając termin płatności lub rozkładając na raty należności, o których mowa art. 19 ust. 1, art. 20 i art. 22 ust. 1, Rada Funduszu bierze pod uwagę:
-- **1)** informacje zawarte oświadczeniu, o którym mowa ust. 4 pkt 2;
-- **2)** możliwe przyszłe zapotrzebowanie na wsparcie i pożyczkę na spłatę zadłużenia ze środków Funduszu.”;
-- **23)** po art. 23 dodaje się art. 23a brzmieniu: „Art. 23a. 1. Kredytodawcy przekazują Radzie Funduszu półroczną informację dotyczącą:
-- **1)** liczby wniosków, o których mowa art. 6 ust. 1,
-- **2)** przesłanek, na jakich oparte wnioski, o których mowa art. 6 ust. 1,
-- **3)** liczby odrzuconych wniosków, o których mowa art. 6 ust. 1, wraz ze wskazaniem przesłanek ich odrzucenia – terminie 30 dni od dnia zakończenia półrocza.
+### 2)
 
-2. Rada Funduszu przekazuje ministrowi właściwemu do spraw instytucji finansowych półroczną informację o funkcjonowaniu Funduszu, sporządzoną szczególności na podstawie danych, o których mowa ust. 1.
+wartość wskaźnika RdD przekracza 50%, lub
 
-3. Informacja, o której mowa ust. 2, jest przekazywana terminie 30 dni od dnia upływu terminu, o którym mowa ust. 1.
+### 3)
 
-4. Minister właściwy do spraw instytucji finansowych przedstawia sejmowej komisji właściwej do spraw instytucji finansowych roczną informację dotyczącą funkcjonowania Funduszu oraz działań Rady Funduszu, będących realizacją ustawy, terminie do końca pierwszego kwartału roku następnego.”.
+miesięczny dochód gospodarstwa domowego pomniejszony o miesięczne koszty obsługi kredytu mieszkaniowego nie przekracza:
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. 1509, późn. zm. ) art. 21 ust. 1 pkt 143 otrzymuje brzmienie: „143) dochody kredytobiorców tytułu:
+### a)
 
-**Art. 3.** W ustawie dnia 15 lutego 1992 o podatku dochodowym od osób prawnych (Dz. 2019 865, 1018 i 1309) art. 16 ust. 1 pkt 75 kropkę zastępuje się średnikiem i dodaje się pkt 76 i 77 brzmieniu: „76) wpłat na Fundusz Wsparcia Kredytobiorców, o których mowa art. 16a ust. 1 dnia 9 października 2015 o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej (Dz. 1925, 2243 oraz 2019 1358);
+w przypadku gospodarstwa domowego jednoosobowego - dwukrotności kwoty wskazanej w art. 8 ust. 1 pkt 1 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwaloryzowanej zgodnie z przepisami tej ustawy,
 
-**Art. 4.** W ustawie dnia 29 sierpnia 1997 – Prawo bankowe (Dz. 2187, późn. zm. ) art. 10a ust. 4 pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) udzielenie Radzie Funduszu Wsparcia Kredytobiorców informacji, o której mowa art. 16a ust. 5 dnia 9 października 2015 o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się trudnej sytuacji finansowej (Dz. 1925, 2243 oraz 2019 1358).”.
+### b)
 
-**Art. 5.**
+w przypadku gospodarstwa domowego wieloosobowego - iloczynu dwukrotności kwoty wskazanej w art. 8 ust. 1 pkt 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, zwaloryzowanej zgodnie z przepisami tej ustawy, i liczby członków gospodarstwa domowego kredytobiorcy.
 
-1. Do wsparcia, o którym mowa art. 1 ust. 1 zmienianej art. 1, brzmieniu dotychczasowym, udzielonego przed dniem wejścia życie niniejszej stosuje się przepisy dotychczasowe.
+### 2.
 
-2. Do wniosków o udzielenie wsparcia, o którym mowa art. 1 ust. 1 zmienianej art. 1, brzmieniu dotychczasowym, złożonych i nierozpatrzonych do dnia wejścia życie niniejszej stosuje się przepisy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli utrata zatrudnienia przez co najmniej jednego z kredytobiorców nastąpiła w wyniku rozwiązania umowy o pracę za wypowiedzeniem przez kredytobiorcę lub rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika w trybie art. 52 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2019 r. poz. 1040](https://api.sejm.gov.pl/eli/acts/DU/2019/1040/text.html) i [1043](https://api.sejm.gov.pl/eli/acts/DU/2019/1043/text.html)).
 
-3. Kredytobiorcy, którym udzielono wsparcia, o którym mowa art. 1 ust. 1 zmienianej art. 1, brzmieniu dotychczasowym, są uprawnieni do złożenia wniosków o zmianę warunków udzielonego wsparcia na warunki wynikające przepisów zmienianej art. 1, brzmieniu nadanym niniejszą ustawą. Do wniosków o zmianę udzielonego wsparcia stosuje się odpowiednio przepisy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą.
+### 3.
 
-**Art. 6.** W przypadku gdy przed dniem wejścia życie niniejszej kredytobiorca dokonał sprzedaży kredytowanej nieruchomości, a kwota uzyskana ze sprzedaży nie pokryła całego zobowiązania tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości, pożyczka na spłatę zadłużenia, o której mowa art. 5a zmienianej art. 1, może zostać udzielona do wysokości:
+Wsparcie nie może być przyznane, jeżeli jeden z kredytobiorców uzyskał wsparcie na zasadach określonych w ustawie, chyba że wsparcie nie jest już udzielane, a okres udzielonego wsparcia nie przekroczył 35 miesięcy. W takim przypadku łączny okres wsparcia przyznanego kredytobiorcom na spłatę kredytu mieszkaniowego nie może przekroczyć 36 miesięcy.
 
-**Art. 7.** Kredytodawcy dostosują umowy zawarte Bankiem Gospodarstwa Krajowego na podstawie art. 7 zmienianej art. 1 do przepisów zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, nie później jednak niż do dnia 31 grudnia 2019
+### 4.
 
-**Art. 8.** Ustawa wchodzi życie dniem 1 stycznia 2020 r., wyjątkiem art. 7, który wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli umowa kredytu mieszkaniowego została wypowiedziana przed złożeniem wniosku, o którym mowa w art. 6 ust. 1.
 
+### 5.
+
+Wsparcie nie może być przyznane za okres, w którym co najmniej jednemu z kredytobiorców przysługuje świadczenie z tytułu utraty pracy wynikające z zawartej umowy ubezpieczenia spłaty kredytu, gwarantującej wypłatę świadczenia na wypadek utraty pracy.
+
+### Art. 4.
+
+Wsparcie lub pożyczka na spłatę zadłużenia nie mogą być przyznane, jeżeli kredytobiorca w chwili złożenia wniosku, o którym mowa w art. 6 ust. 1:
+
+### 1)
+
+jest właścicielem innego lokalu mieszkalnego lub domu jednorodzinnego lub był nim w okresie 6 miesięcy przed złożeniem wniosku;
+
+### 2)
+
+posiada spółdzielcze prawo do lokalu mieszkalnego lub domu jednorodzinnego w spółdzielni mieszkaniowej lub posiadał takie prawo w okresie 6 miesięcy przed złożeniem wniosku;
+
+### 3)
+
+posiada roszczenie o przeniesienie na niego prawa własności lokalu mieszkalnego, domu jednorodzinnego, spółdzielczego prawa do lokalu mieszkalnego lub domu jednorodzinnego w spółdzielni mieszkaniowej lub posiadał takie roszczenie w okresie 6 miesięcy przed złożeniem wniosku.
+
+” ;
+
+### 3)
+
+w art. 5 ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Wsparcie polega na przekazywaniu kredytodawcy przez Bank Gospodarstwa Krajowego kwoty środków pieniężnych z przeznaczeniem na spłatę zobowiązań kredytobiorcy z tytułu kredytu mieszkaniowego, przez okres nie dłuższy niż 36 miesięcy.
+
+### 2.
+
+Wysokość wsparcia określa się w złotych jako równowartość przewidywanych 36 miesięcznych rat kapitałowych i odsetkowych kredytu mieszkaniowego, z tym że jeżeli wysokość przewidywanej miesięcznej raty kapitałowej i odsetkowej jest wyższa niż 2000 zł, do określenia wysokości wsparcia przyjmuje się kwotę 2000 zł.
+
+### 3.
+
+Wsparcie jest przekazywane w ratach miesięcznych, nie wyższych niż 2000 zł, na wskazany przez kredytodawcę rachunek przeznaczony do przekazywania wsparcia.
+
+” ;
+
+### 4)
+
+po art. 5 dodaje się art. 5a i art. 5b w brzmieniu:
+
+„
+
+### Art. 5a.
+
+### 1.
+
+W przypadku gdy kredytobiorca dokonał sprzedaży kredytowanej nieruchomości, a kwota uzyskana ze sprzedaży nie pokryła całego zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości, kredytobiorcy może zostać udzielona pożyczka na spłatę zadłużenia.
+
+### 2.
+
+Bank Gospodarstwa Krajowego przekazuje kredytodawcy w celu spłaty zadłużenia, o którym mowa w ust. 1, środki pieniężne na zasadach określonych w umowie, o której mowa w art. 8 ust. 1.
+
+### 3.
+
+Wysokość pożyczki na spłatę zadłużenia nie może przekraczać kwoty 72 000 zł.
+
+### 4.
+
+Pożyczka na spłatę zadłużenia jest przekazywana na rachunek kredytodawcy wskazany w umowie, o której mowa w art. 8 ust. 1.
+
+### 5.
+
+W przypadku gdy kredyt mieszkaniowy jest spłacany w walucie obcej, Bank Gospodarstwa Krajowego przekazuje pożyczkę na spłatę zadłużenia w walucie spłaty kredytu, dokonując przeliczenia jej wysokości na walutę spłaty kredytu według kursu sprzedaży ogłoszonego przez Narodowy Bank Polski w dniu poprzedzającym dzień przekazania pożyczki na spłatę zadłużenia.
+
+### Art. 5b.
+
+### 1.
+
+Kredytobiorca przed dokonaniem sprzedaży kredytowanej nieruchomości może wystąpić o przyrzeczenie udzielenia mu pożyczki na spłatę zadłużenia, zwane dalej „promesą”.
+
+### 2.
+
+Promesa jest udzielana przez kredytodawcę w przypadku, w którym kwota, jaka ma być uzyskana ze sprzedaży kredytowanej nieruchomości, nie pokryłaby całego zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na jej zakup.
+
+### 3.
+
+Warunkiem ubiegania się o udzielenie promesy jest zawarcie przedwstępnej umowy sprzedaży kredytowanej nieruchomości.
+
+### 4.
+
+Kredytodawca dokonuje weryfikacji wniosku o udzielenie promesy, o którym mowa w art. 6 ust. 1, i po stwierdzeniu spełnienia przez kredytobiorcę warunków, o których mowa w art. 3 ust. 1, 2 i 4 oraz art. 4, przekazuje wniosek do Banku Gospodarstwa Krajowego w celu zarezerwowania środków na udzielenie pożyczki na spłatę zadłużenia.
+
+### 5.
+
+Bank Gospodarstwa Krajowego informuje kredytodawcę i kredytobiorcę o zarezerwowaniu środków w terminie 7 dni od dnia otrzymania kompletnego wniosku.
+
+### 6.
+
+Kredytodawca wydaje kredytobiorcy promesę w terminie 7 dni od dnia otrzymania od Banku Gospodarstwa Krajowego informacji, o której mowa w ust. 5. W promesie ustala się okres jej ważności, nie krótszy jednak niż 6 miesięcy.
+
+### 7.
+
+Kredytobiorca dostarcza kredytodawcy umowę sprzedaży kredytowanej nieruchomości w terminie 14 dni od dnia dokonania sprzedaży kredytowanej nieruchomości.
+
+### 8.
+
+Kredytodawca po dostarczeniu przez kredytobiorcę umowy, o której mowa w ust. 7, zawiera z nim umowę pożyczki na spłatę zadłużenia.
+
+### 9.
+
+Kredytodawca przekazuje umowę pożyczki na spłatę zadłużenia do Banku Gospodarstwa Krajowego w celu przekazania pożyczki na spłatę zadłużenia.
+
+” ;
+
+### 5)
+
+w art. 6:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W celu uzyskania wsparcia, promesy lub pożyczki na spłatę zadłużenia kredytobiorca składa do kredytodawcy wniosek.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, numer dowodu osobistego albo rodzaj i numer innego dokumentu potwierdzającego tożsamość oraz numer identyfikacyjny umowy kredytowej; ” ,
+
+- - w pkt 2: - - lit. a otrzymuje brzmienie: „ a) istnieniu okoliczności stanowiących podstawę przyznania wsparcia lub udzielenia pożyczki na spłatę zadłużenia, w tym wskazuje, która z przesłanek, o których mowa w art. 3 ust. 1, stanowi podstawę do ubiegania się o wsparcie lub pożyczkę na spłatę zadłużenia, ” , - - lit. c i d otrzymują brzmienie: „ c) wartości wskaźnika RdD za miesiąc poprzedzający miesiąc złożenia wniosku - w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 2, d) dochodzie gospodarstwa domowego i liczbie członków gospodarstwa domowego kredytobiorcy - w przypadku gdy kredytobiorca ubiega się o wsparcie lub pożyczkę na spłatę zadłużenia na podstawie art. 3 ust. 1 pkt 3; ” , - dodaje się pkt 3 w brzmieniu: „ 3) w przypadku ubiegania się o przyznanie pożyczki na spłatę zadłużenia - podaje informacje dotyczące sprzedaży kredytowanej nieruchomości i składa, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie, że nabywcą tej nieruchomości nie jest członek rodziny w rozumieniu przepisu art. 5 pkt 3 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2018 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2018/1510/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078.](#gloss-0:4:)), osoba pozostająca we wspólnym gospodarstwie domowym ani osoba będąca z nim w bliskim stosunku w rozumieniu przepisu art. 527 § 3 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2019 r. poz. 1145](https://api.sejm.gov.pl/eli/acts/DU/2019/1145/text.html)) oraz załącza do wniosku dokumenty dotyczące sprzedaży kredytowanej nieruchomości. ” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku ubiegania się o udzielenie promesy do wniosku, o którym mowa w ust. 1, załącza się przedwstępną umowę sprzedaży kredytowanej nieruchomości.
+
+” ,
+
+### d)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w ust. 1, wraz z objaśnieniami co do sposobu jego wypełnienia i złożenia, a także informacją o konieczności dołączenia dokumentów potwierdzających dane i informacje, o których mowa w ust. 2 pkt 1 i 3, oraz załączenia dokumentów, o których mowa w ust. 2 pkt 3 i ust. 2a, a także informacją o treści oświadczeń, o których mowa w ust. 2 pkt 2 i 3, i skutkach otrzymania nienależnego wsparcia lub pożyczki na spłatę zadłużenia, kierując się potrzebą rzetelnego udokumentowania danych niezbędnych do przyznania wsparcia lub pożyczki na spłatę zadłużenia.
+
+” ;
+
+### 6)
+
+po art. 6 dodaje się art. 6a w brzmieniu:
+
+„
+
+### Art. 6a.
+
+Wypowiedzenie umowy kredytu mieszkaniowego w okresie rozpatrywania wniosku, o którym mowa w art. 6 ust. 1, oraz w okresie dodatkowej weryfikacji wniosku, o której mowa w art. 8a ust. 1, nie wywołuje skutku wobec kredytobiorcy.
+
+” ;
+
+### 7)
+
+w art. 8:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Wsparcie lub pożyczka na spłatę zadłużenia przyznawane są odpowiednio na podstawie umowy o udzieleniu wsparcia lub umowy pożyczki na spłatę zadłużenia zawieranej przez kredytobiorcę z kredytodawcą.
+
+### 2.
+
+Umowa, o której mowa w ust. 1, zawierana jest, z zastrzeżeniem art. 5b ust. 8, po dokonaniu przez kredytodawcę weryfikacji wniosku, o którym mowa w art. 6 ust. 1, i stwierdzeniu spełnienia warunków, o których mowa w art. 3 i art. 4. Kredytodawca uprawniony jest do przeprowadzenia weryfikacji wyłącznie w oparciu o oświadczenia i dokumenty przewidziane w ustawie oraz przepisach wykonawczych wydanych na podstawie art. 6 ust. 3.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+
+„
+
+### 2a.
+
+Kredytodawca dokonuje weryfikacji wniosku w terminie 21 dni od dnia jego złożenia.
+
+### 2b.
+
+W przypadku gdy wniosek nie jest kompletny lub prawidłowo wypełniony, kredytodawca wzywa kredytobiorcę do jego uzupełnienia.
+
+### 2c.
+
+Po uzupełnieniu wniosku kredytodawca dokonuje jego ponownej weryfikacji w terminie 14 dni od dnia uzupełnienia wniosku. Przepis ust. 2b stosuje się odpowiednio.
+
+### 2d.
+
+W przypadku niespełnienia przez kredytobiorcę warunków, o których mowa w art. 3 i art. 4, kredytodawca odrzuca wniosek i niezwłocznie informuje o tym w formie pisemnej kredytobiorcę, podając uzasadnienie odrzucenia.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Umowa, o której mowa w ust. 1, zawierana jest w terminie 14 dni od dnia, w którym wniosek został pozytywnie zweryfikowany.
+
+” ,
+
+### d)
+
+w ust. 5:
+
+- - pkt 2-4 otrzymują brzmienie: „ 2) wysokość rat oraz okres udzielonego wsparcia lub wysokość pożyczki na spłatę zadłużenia; 3) zasady i terminy przekazywania rat udzielonego wsparcia lub zasady wypłaty pożyczki na spłatę zadłużenia; 4) numer rachunku wskazanego przez kredytodawcę jako rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia; ” ,
+
+- - pkt 6 i 7 otrzymują brzmienie: „ 6) zasady i terminy spłat poszczególnych rat udzielonego wsparcia lub pożyczki na spłatę zadłużenia; 7) zakres uprawnień Banku Gospodarstwa Krajowego związanych z kontrolą spłaty wsparcia lub pożyczki na spłatę zadłużenia; ” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+W umowie, o której mowa w ust. 1, zamieszcza się również pouczenie o utracie uprawnień do otrzymywania wsparcia lub pożyczki na spłatę zadłużenia w przypadkach, o których mowa w art. 12 ust. 1.
+
+” ;
+
+### 8)
+
+po art. 8 dodaje się art. 8a w brzmieniu:
+
+„
+
+### Art. 8a.
+
+### 1.
+
+W przypadku, o którym mowa w art. 8 ust. 2d, kredytobiorca może wystąpić, za pośrednictwem kredytodawcy, w terminie 14 dni od dnia otrzymania informacji o odrzuceniu wniosku, o dodatkową weryfikację wniosku.
+
+### 2.
+
+Dodatkowa weryfikacja wniosku jest dokonywana przez Radę Funduszu Wsparcia Kredytobiorców, zwaną dalej „Radą Funduszu”.
+
+### 3.
+
+W przypadku wystąpienia kredytobiorcy o dodatkową weryfikację wniosku kredytodawca przekazuje wniosek wraz z załączonymi dokumentami Radzie Funduszu w terminie 7 dni od dnia wystąpienia kredytobiorcy o dodatkową weryfikację wniosku.
+
+### 4.
+
+Rada Funduszu dokonuje dodatkowej weryfikacji wniosku niezwłocznie, nie później jednak niż w terminie 2 miesięcy od dnia otrzymania wystąpienia, o którym mowa w ust. 1, rozstrzygając w przedmiocie spełnienia warunków przyznania wsparcia lub pożyczki na spłatę zadłużenia. Rada Funduszu podejmuje decyzję w drodze uchwały.
+
+### 5.
+
+Rada Funduszu przekazuje kredytodawcy i kredytobiorcy informację o treści uchwały, o której mowa w ust. 4, w terminie 7 dni od dnia jej podjęcia.
+
+### 6.
+
+W przypadku gdy w wyniku dodatkowej weryfikacji wniosku zostanie stwierdzone, że kredytobiorca spełnia warunki, o których mowa w art. 3 i art. 4, kredytodawca w terminie 7 dni od dnia otrzymania uchwały, o której mowa w ust. 4, sporządza umowę, o której mowa w art. 8 ust. 1.
+
+### 7.
+
+W przypadku, o którym mowa w ust. 6, kredytodawca pokrywa z własnych środków:
+
+### 1)
+
+kwotę, która odpowiada kwocie wsparcia za okres od dnia podjęcia przez kredytodawcę decyzji o odrzuceniu wniosku, o którym mowa w art. 6 ust. 1, do dnia podjęcia przez Radę Funduszu uchwały, o której mowa w ust. 4;
+
+### 2)
+
+kwotę stanowiącą iloczyn kwoty udzielonej pożyczki na spłatę zadłużenia i stawki 8,33%.
+
+### 8.
+
+Kwota, o której mowa w:
+
+### 1)
+
+ust. 7 pkt 1 - nie stanowi wsparcia;
+
+### 2)
+
+ust. 7 pkt 2 - nie stanowi pożyczki na spłatę zadłużenia.
+
+### 9.
+
+Kwoty, o których mowa w ust. 7, są przekazywane przez kredytodawcę kredytobiorcy i nie podlegają spłacie.
+
+### 10.
+
+Opłata za dodatkową weryfikację wniosku wynosi 100 zł i jest pokrywana przez:
+
+### 1)
+
+kredytodawcę, jeżeli kredytobiorca spełnia warunki przyznania wsparcia lub pożyczki na spłatę zadłużenia;
+
+### 2)
+
+kredytobiorcę, jeżeli kredytobiorca nie spełnia warunków przyznania wsparcia lub pożyczki na spłatę zadłużenia.
+
+### 11.
+
+Opłata, o której mowa w ust. 10, uiszczana jest w terminie i na rachunek wskazane w uchwale, o której mowa w ust. 4.
+
+” ;
+
+### 9)
+
+art. 9 i art. 10 otrzymują brzmienie:
+
+„
+
+### Art. 9.
+
+Kredytodawca dochodzi roszczeń w zakresie zwrotu udzielonego wsparcia lub pożyczki na spłatę zadłużenia, o których mowa w art. 19, art. 20 i art. 22.
+
+### Art. 10.
+
+Bank Gospodarstwa Krajowego przekazuje wsparcie lub pożyczkę na spłatę zadłużenia w terminie i na warunkach określonych w umowie, o której mowa w art. 8 ust. 1.
+
+” ;
+
+### 10)
+
+w art. 11 w ust. 2 w pkt 4 wyrazy „o utracie” zastępuje się wyrazem „utracie”;
+
+### 11)
+
+w art. 12:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1 i w tym ustępie pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+utraty statusu bezrobotnego przez wszystkich kredytobiorców - z upływem miesiąca następującego po miesiącu, w którym nastąpiła utrata tego statusu;
+
+” ,
+
+### b)
+
+dodaje się ust. 2 i 3 w brzmieniu:
+
+„
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1 pkt 1, 6 i 7, kredytobiorca jest uprawniony do złożenia nowego wniosku, o którym mowa w art. 6 ust. 1, jeżeli spełnia co najmniej jedną z przesłanek wskazanych w art. 3 ust. 1. Do czasu rozpatrzenia wniosku wypłaty wsparcia przyznanego na dotychczasowej podstawie nie wstrzymuje się.
+
+### 3.
+
+Bank Gospodarstwa Krajowego wstrzymuje wypłatę pożyczki na spłatę zadłużenia w przypadku powzięcia informacji, że została ona przyznana na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd przez osobę, której przyznano pożyczkę na spłatę zadłużenia.
+
+” ;
+
+### 12)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+### 1.
+
+W przypadku gdy wsparcie lub pożyczkę na spłatę zadłużenia przyznano na podstawie art. 3 ust. 1 pkt 1, kredytodawca przesyła informację o udzieleniu wsparcia lub pożyczki na spłatę zadłużenia do powiatowego urzędu pracy właściwego według miejsca zamieszkania kredytobiorcy.
+
+### 2.
+
+W informacji, o której mowa w ust. 1, kredytodawca podaje wysokość środków przekazanych z tytułu wypłaty wsparcia lub pożyczki na spłatę zadłużenia oraz terminy ich przekazania na wskazany przez kredytodawcę rachunek przeznaczony do przekazywania wsparcia lub pożyczki na spłatę zadłużenia.
+
+” ;
+
+### 13)
+
+w art. 14:
+
+### a)
+
+w ust. 2 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+wpłat kredytodawców, dokonywanych zgodnie z art. 16a ust. 1;
+
+### 2)
+
+zwrotów wsparcia lub pożyczki na spłatę zadłużenia, o których mowa w art. 19, art. 20 i art. 22;
+
+” ,
+
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Środki Funduszu przeznacza się na wypłaty wsparcia lub pożyczki na spłatę zadłużenia oraz pokrycie kosztów działania Funduszu.
+
+### 4.
+
+Środki Funduszu, które nie są wykorzystywane na udzielanie wsparcia lub pożyczki na spłatę zadłużenia, mogą być inwestowane przez Bank Gospodarstwa Krajowego z zachowaniem najwyższej staranności.
+
+” ;
+
+### 14)
+
+w art. 15:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Tworzy się Radę Funduszu.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+przedstawiciela kredytodawców wskazanego wspólnie przez 5 kredytodawców wpłacających najwyższą składkę.
+
+” ;
+
+### 15)
+
+w art. 16 uchyla się ust. 3-6;
+
+### 16)
+
+po art. 16 dodaje się art. 16a w brzmieniu:
+
+„
+
+### Art. 16a.
+
+### 1.
+
+Na Fundusz składają się kwartalne wpłaty dokonywane przez kredytodawców.
+
+### 2.
+
+Kwartalne wpłaty kredytodawców dokonywane są proporcjonalnie do wartości bilansowej brutto posiadanego portfela kredytów mieszkaniowych, w przypadku których opóźnienie w spłacie kapitału lub odsetek przekracza 90 dni.
+
+### 3.
+
+Kwartalne wpłaty kredytodawców nie mogą przekraczać równowartości iloczynu wartości bilansowej brutto posiadanego portfela kredytów mieszkaniowych, o której mowa w ust. 2, oraz stawki wynoszącej 1%.
+
+### 4.
+
+Kwartalną wysokość wpłat na Fundusz ustala Rada Funduszu, w drodze uchwały, na podstawie opinii Komitetu Stabilności Finansowej działającego w ramach wykonywania funkcji makroostrożnościowej, zwanego dalej „KSFM”, o wysokości wpłaty, o której mowa w ust. 1.
+
+### 5.
+
+O wysokości wpłaty na Fundusz przypadającej na danego kredytodawcę informuje Rada Funduszu, przekazując kredytodawcy informację sporządzoną na podstawie uchwały, o której mowa w ust. 4.
+
+### 6.
+
+W terminie 6 tygodni od zakończenia kwartału, za który należna jest wpłata, Przewodniczący Komisji Nadzoru Finansowego przekazuje Przewodniczącemu KSFM i Radzie Funduszu dane dotyczące wielkości portfeli kredytów mieszkaniowych, o których mowa w ust. 2, według stanu na koniec kwartału, za który należna jest wpłata.
+
+### 7.
+
+Do końca drugiego miesiąca następującego po kwartale, za który należna jest wpłata, Przewodniczący KSFM przekazuje Radzie Funduszu opinię, o której mowa w ust. 4.
+
+### 8.
+
+Rada Funduszu przekazuje kredytodawcom informację, o której mowa w ust. 5, do 15. dnia trzeciego miesiąca następującego po kwartale, za który należna jest wpłata.
+
+### 9.
+
+Wpłaty, o których mowa w ust. 1, wnoszone są do końca trzeciego miesiąca następującego po kwartale, za który należna jest wpłata.
+
+” ;
+
+### 17)
+
+uchyla się art. 17;
+
+### 18)
+
+po art. 17 dodaje się art. 17a w brzmieniu:
+
+„
+
+### Art. 17a.
+
+### 1.
+
+W przypadku niewniesienia wpłaty w terminie, o którym mowa w art. 16a ust. 9, Rada Funduszu wzywa kredytodawcę do wniesienia wpłaty wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wymagalności tej wpłaty. Rada Funduszu informuje ministra właściwego do spraw instytucji finansowych o niewniesieniu wpłaty w terminie.
+
+### 2.
+
+Minister właściwy do spraw instytucji finansowych dochodzi roszczeń dotyczących wpłat wnoszonych na podstawie art. 16a ust. 1.
+
+### 3.
+
+Należności z tytułu wpłat, o których mowa w art. 16a ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2018 r. poz. 1314](https://api.sejm.gov.pl/eli/acts/DU/2018/1314/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730.](#gloss-0:5:)).
+
+### 4.
+
+Rada Funduszu, po wyrażeniu zgody przez ministra właściwego do spraw instytucji finansowych, może zawiesić czasowo wnoszenie wpłat na Fundusz, w przypadku gdy środki Funduszu pozwalają na realizację wsparcia lub pożyczki na spłatę zadłużenia bez wnoszenia wpłat.
+
+### 5.
+
+Rada Funduszu, po wyrażeniu zgody przez ministra właściwego do spraw instytucji finansowych, postanawia o wznowieniu wnoszenia wpłat na Fundusz, jeżeli środki Funduszu zostaną wykorzystane w takim stopniu, że realizacja wsparcia lub pożyczki na spłatę zadłużenia bez wnoszenia kolejnych wpłat może być zagrożona.
+
+” ;
+
+### 19)
+
+art. 18 i art. 19 otrzymują brzmienie:
+
+„
+
+### Art. 18.
+
+### 1.
+
+Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii KSFM, może zawiesić, w drodze rozporządzenia, wpłaty na Fundusz, kierując się koniecznością zapewnienia stabilności sektora finansowego.
+
+### 2.
+
+W przypadku wydania rozporządzenia, o którym mowa w ust. 1, Rada Funduszu zawiesza udzielanie wsparcia lub pożyczki na spłatę zadłużenia z dniem wyczerpania środków Funduszu, informując o tym kredytodawców. Rada Funduszu ogłasza w dzienniku o zasięgu ogólnopolskim informację o zawieszeniu udzielania wsparcia lub pożyczki na spłatę zadłużenia. Wnioski o udzielenie wsparcia lub pożyczki na spłatę zadłużenia złożone po dniu ogłoszenia informacji, o której mowa w zdaniu drugim, nie podlegają rozpatrzeniu.
+
+### 3.
+
+W przypadku wydania rozporządzenia, o którym mowa w ust. 1, kredytodawca przed zakończeniem rozpatrywania wniosku o udzielenie wsparcia lub pożyczki na spłatę zadłużenia występuje do Rady Funduszu o rezerwację środków na udzielenie wsparcia lub pożyczki na spłatę zadłużenia.
+
+### Art. 19.
+
+### 1.
+
+Zwrot wsparcia lub pożyczki na spłatę zadłużenia rozpoczyna się w miesiącu następującym po miesiącu, w którym upłynęły 2 lata od wypłaty ostatniej raty wsparcia lub pożyczki na spłatę zadłużenia, i jest dokonywany w 144 równych, nieoprocentowanych miesięcznych ratach, płatnych do 15. dnia miesiąca na rachunek Funduszu.
+
+### 2.
+
+Kredytodawca informuje kredytobiorcę co najmniej 30 dni przed terminem wpłaty pierwszej raty zwracanego wsparcia lub zwracanej pożyczki na spłatę zadłużenia o wysokości miesięcznej raty, a także wskazuje numer rachunku bankowego Funduszu, na który dokonuje się wpłat.
+
+### 3.
+
+W przypadku gdy kredytobiorca, bez opóźnienia w spłacie, dokona spłaty 100 rat, pozostałą część rat zwrotu wsparcia lub pożyczki na spłatę zadłużenia umarza się.
+
+” ;
+
+### 20)
+
+w art. 21 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku niedokonania płatności w terminie określonym w wezwaniu kredytobiorca jest obowiązany do niezwłocznego zwrotu przyznanego wsparcia lub przyznanej pożyczki na spłatę zadłużenia wraz z odsetkami ustawowymi naliczonymi począwszy od dnia wymagalności pierwszej raty zwrotu wsparcia lub pożyczki na spłatę zadłużenia.
+
+” ;
+
+### 21)
+
+w art. 22:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Osoba, która otrzymała nienależne wsparcie lub nienależną pożyczkę na spłatę zadłużenia, dokonuje zwrotu środków równych kwocie przyznanego wsparcia lub przyznanej pożyczki na spłatę zadłużenia wraz z odsetkami ustawowymi naliczonymi począwszy od dnia przekazania przez Bank Gospodarstwa Krajowego środków z tytułu wsparcia lub pożyczki na spłatę zadłużenia.
+
+### 2.
+
+Za nienależne wsparcie uważa się wsparcie wypłacone:
+
+### 1)
+
+pomimo zaistnienia okoliczności stanowiących podstawę wstrzymania wypłaty wsparcia, o których mowa w art. 12 ust. 1;
+
+### 2)
+
+na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd przez osobę, której wsparcie przyznano.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Za nienależną pożyczkę na spłatę zadłużenia uważa się pożyczkę na spłatę zadłużenia wypłaconą na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd przez osobę, której pożyczkę na spłatę zadłużenia przyznano.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zwrot nienależnego wsparcia lub nienależnej pożyczki na spłatę zadłużenia następuje na rachunek Funduszu w terminie 30 dni od dnia doręczenia kredytobiorcy przez Bank Gospodarstwa Krajowego pisemnej informacji o uzyskaniu nienależnego wsparcia.
+
+” ;
+
+### 22)
+
+w art. 23:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Rada Funduszu, na wniosek kredytobiorcy, może odroczyć termin płatności lub rozłożyć na raty należności, o których mowa w art. 19 ust. 1, art. 20 i art. 22 ust. 1.
+
+### 2.
+
+Rada Funduszu, na uzasadniony wniosek kredytobiorcy lub kredytodawcy, może umorzyć w całości albo części należności, o których mowa w art. 19 ust. 1, art. 20 i art. 22 ust. 1.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Umarzając, odraczając termin płatności lub rozkładając na raty należności, o których mowa w art. 19 ust. 1, art. 20 i art. 22 ust. 1, Rada Funduszu bierze pod uwagę:
+
+### 1)
+
+informacje zawarte w oświadczeniu, o którym mowa w ust. 4 pkt 2;
+
+### 2)
+
+możliwe przyszłe zapotrzebowanie na wsparcie i pożyczkę na spłatę zadłużenia ze środków Funduszu.
+
+” ;
+
+### 23)
+
+po art. 23 dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+### 1.
+
+Kredytodawcy przekazują Radzie Funduszu półroczną informację dotyczącą:
+
+### 1)
+
+liczby wniosków, o których mowa w art. 6 ust. 1,
+
+### 2)
+
+przesłanek, na jakich oparte zostały wnioski, o których mowa w art. 6 ust. 1,
+
+### 3)
+
+liczby odrzuconych wniosków, o których mowa w art. 6 ust. 1, wraz ze wskazaniem przesłanek ich odrzucenia
+
+- w terminie 30 dni od dnia zakończenia półrocza.
+
+### 2.
+
+Rada Funduszu przekazuje ministrowi właściwemu do spraw instytucji finansowych półroczną informację o funkcjonowaniu Funduszu, sporządzoną w szczególności na podstawie danych, o których mowa w ust. 1.
+
+### 3.
+
+Informacja, o której mowa w ust. 2, jest przekazywana w terminie 30 dni od dnia upływu terminu, o którym mowa w ust. 1.
+
+### 4.
+
+Minister właściwy do spraw instytucji finansowych przedstawia sejmowej komisji właściwej do spraw instytucji finansowych roczną informację dotyczącą funkcjonowania Funduszu oraz działań Rady Funduszu, będących realizacją ustawy, w terminie do końca pierwszego kwartału roku następnego.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2018 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2018/1509/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018.](#gloss-0:6:)) w art. 21 w ust. 1 pkt 143 otrzymuje brzmienie:
+
+„
+
+### 143)
+
+dochody kredytobiorców z tytułu:
+
+### a)
+
+umorzonych należności otrzymanych na podstawie ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej ([Dz. U. poz. 1925](https://api.sejm.gov.pl/eli/acts/DU/2015/1925/text.html), [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html) oraz [z 2019 r. poz. 1358](https://api.sejm.gov.pl/eli/acts/DU/2019/1358/text.html)),
+
+### b)
+
+niepodlegających zwrotowi kwot pokrywanych ze środków kredytodawcy za okres dodatkowej weryfikacji, o których mowa w art. 8a ust. 7 ustawy, o której mowa w lit. a;
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2019 r. poz. 865](https://api.sejm.gov.pl/eli/acts/DU/2019/865/text.html), [1018](https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text.html) i [1309](https://api.sejm.gov.pl/eli/acts/DU/2019/1309/text.html)) w art. 16 w ust. 1 w pkt 75 kropkę zastępuje się średnikiem i dodaje się pkt 76 i 77 w brzmieniu:
+
+„
+
+### 76)
+
+wpłat na Fundusz Wsparcia Kredytobiorców, o których mowa w art. 16a ust. 1 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej ([Dz. U. poz. 1925](https://api.sejm.gov.pl/eli/acts/DU/2015/1925/text.html), [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html) oraz [z 2019 r. poz. 1358](https://api.sejm.gov.pl/eli/acts/DU/2019/1358/text.html));
+
+### 77)
+
+kwot, o których mowa w art. 8a ust. 7 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2018 r. poz. 2187](https://api.sejm.gov.pl/eli/acts/DU/2018/2187/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.](#gloss-0:7:)) w art. 10a w ust. 4 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+udzielenie Radzie Funduszu Wsparcia Kredytobiorców informacji, o której mowa w art. 16a ust. 5 ustawy z dnia 9 października 2015 r. o wsparciu kredytobiorców, którzy zaciągnęli kredyt mieszkaniowy i znajdują się w trudnej sytuacji finansowej ([Dz. U. poz. 1925](https://api.sejm.gov.pl/eli/acts/DU/2015/1925/text.html), [z 2018 r. poz. 2243](https://api.sejm.gov.pl/eli/acts/DU/2018/2243/text.html) oraz [z 2019 r. poz. 1358](https://api.sejm.gov.pl/eli/acts/DU/2019/1358/text.html)).
+
+” .
+
+### Art. 5.
+
+### 1.
+
+Do wsparcia, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, udzielonego przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do wniosków o udzielenie wsparcia, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, złożonych i nierozpatrzonych do dnia wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Kredytobiorcy, którym udzielono wsparcia, o którym mowa w art. 1 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, są uprawnieni do złożenia wniosków o zmianę warunków udzielonego wsparcia na warunki wynikające z przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. Do wniosków o zmianę udzielonego wsparcia stosuje się odpowiednio przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 6.
+
+W przypadku gdy przed dniem wejścia w życie niniejszej ustawy kredytobiorca dokonał sprzedaży kredytowanej nieruchomości, a kwota uzyskana ze sprzedaży nie pokryła całego zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości, pożyczka na spłatę zadłużenia, o której mowa w art. 5a ustawy zmienianej w art. 1, może zostać udzielona do wysokości:
+
+### 1)
+
+nie większej niż pozostała do spłaty, na dzień złożenia wniosku, kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości - w przypadku gdy, na dzień złożenia wniosku, pozostała do spłaty kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości nie przekracza 72 000 zł, albo
+
+### 2)
+
+72 000 zł - w przypadku gdy, na dzień złożenia wniosku, pozostała do spłaty kwota zobowiązania z tytułu kredytu mieszkaniowego zaciągniętego na zakup sprzedanej nieruchomości przekracza 72 000 zł.
+
+### Art. 7.
+
+Kredytodawcy dostosują umowy zawarte z Bankiem Gospodarstwa Krajowego na podstawie art. 7 ustawy zmienianej w art. 1 do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy, nie później jednak niż do dnia 31 grudnia 2019 r.
+
+### Art. 8.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2020 r., z wyjątkiem art. 7, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271, 730 i 752. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447, 730, 752 i 1078. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1356, 1499, 1629, 2192, 2193 i 2432 oraz z 2019 r. poz. 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271, 303, 752 i 1018. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875 i 1074.

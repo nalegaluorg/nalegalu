@@ -1,0 +1,64 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 20 czerwca 2017 r. w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej na pierwszy okres rozliczeniowy
+address: WDU20170001242
+eli: DU/2017/1242
+publisher: DU
+year: 2017
+pos: 1242
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Zdrowiaz dnia 20 czerwca 2017 r. w sprawie sposobu ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej na pierwszy okres rozliczeniowy [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1242 |
+| ISAP | WDU20170001242 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-06-20 |
+| Data wydania | 2017-06-26 |
+| Wejście w życie | 2017-06-27 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1242/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1242) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 5 ust. 4 ustawy z dnia 23 marca 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. poz. 844](https://api.sejm.gov.pl/eli/acts/DU/2017/844/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa sposób ustalania ryczałtu systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, zwanego dalej „systemem zabezpieczenia”, na pierwszy okres rozliczeniowy.
+
+### § 2.
+
+Użyte w rozporządzeniu określenia oznaczają:
+
+### 1)
+
+jednostka rozliczeniowa - miarę przyjętą do określenia wartości względnej świadczeń opieki zdrowotnej finansowanych w ramach ryczałtu systemu zabezpieczenia na pierwszy okres rozliczeniowy, którą jest punkt;
+
+### 2)
+
+plan zakupu - plan zakupu świadczeń opieki zdrowotnej, o którym mowa w art. 131b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2016 r. poz. 1793](https://api.sejm.gov.pl/eli/acts/DU/2016/1793/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.](#gloss-0:2:)), zwanej dalej „ustawą”;
+
+### 3)
+
+ryczałt - ryczałt systemu zabezpieczenia na pierwszy okres rozliczeniowy;
+
+### 4)
+
+ustawa zmieniająca - ustawę z dnia 23 marca 2017 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+### § 3.
+
+Wartość ryczałtu dla danego świadczeniodawcy wylicza się według wzoru: \( R_{l,0} = w_{s,0} \sum\nolimits_{i = 1}^x {} {{L_{l, s, i} \times T_{s, i} \times Q_{l, s, i} \times C_{l, s, i} } \over {k_0 }} + w_{a,0} \sum\nolimits_{j = 1}^z {} {{L_{l, a, j} \times T_{a, j} \times Q_{l, a, j} \times C_{l, a, j} } \over {k_0 }} + D_{l,0} \) gdzie: Rl,0 - wartość ryczałtu dla danego świadczeniodawcy l, ws,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, x - liczba świadczeń i, i - oznacza i-te świadczenie opieki zdrowotnej w zakresie leczenia szpitalnego objęte ryczałtem (i=1,..., x), Ll, s, i- liczba świadczeń opieki zdrowotnej i, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie leczenia szpitalnego, Ts, i- taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie leczenia szpitalnego, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Ql, s, i - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, gdzie: Rl,0 - wartość ryczałtu dla danego świadczeniodawcy l, ws,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie leczenia szpitalnego, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, x - liczba świadczeń i, i - oznacza i-te świadczenie opieki zdrowotnej w zakresie leczenia szpitalneg objęte ryczałtem (i=1, ... , x), Ll, s, i - liczba świadczeń opieki zdrowotnej i, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie leczenia szpitalnego, Ts, i - taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie leczenia szpitalnego, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Ql, s, i - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, Cl, s, i - cena jednostki rozliczeniowej świadczenia opieki zdrowotnej w zakresie leczenia szpitalnego, dla danego świadczeniodawcy l, według stanu na dzień wejścia w życie ustawy zmieniającej, k0 - współczynnik proporcjonalności czasowej, stanowiący iloraz liczby miesięcy w roku kalendarzowym oraz liczby miesięcy w pierwszym okresie rozliczeniowym, wa,0 - wskaźnik dynamiki wysokości środków finansowych zaplanowanych na finansowanie świadczeń opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, w formie ryczałtu, określony w planie zakupu, odpowiadający relacji wyceny świadczeń na pierwszy okres rozliczeniowy do wyceny świadczeń według stanu na dzień wejścia w życie ustawy zmieniającej, z - liczba świadczeń j, j - oznacza j-te świadczenie opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej objęte ryczałtem (j=1, ... , z), Ll, a, j - liczba świadczeń opieki zdrowotnej j, ustalona dla danego świadczeniodawcy l zgodnie z art. 5 ust. 1 albo ust. 2 ustawy zmieniającej, w zakresie ambulatoryjnej opieki specjalistycznej, Ta, j - taryfa świadczeń albo liczba jednostek rozliczeniowych ustalona w przepisach wydanych na podstawie art. 146 ust. 1 pkt 2 ustawy, odpowiadająca danemu świadczeniu opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, według stanu na dzień wejścia w życie ustawy zmieniającej, z zastrzeżeniem, że jeżeli danemu świadczeniu opieki zdrowotnej może odpowiadać więcej niż jedna taryfa świadczeń albo liczba jednostek rozliczeniowych, przyjmuje się większą taryfę świadczeń albo większą liczbę jednostek rozliczeniowych, natomiast jeżeli danemu świadczeniu opieki zdrowotnej nie można przyporządkować dokładnej taryfy świadczeń albo liczby jednostek rozliczeniowych, przyjmuje się taryfę świadczeń albo liczbę jednostek rozliczeniowych dla świadczenia opieki zdrowotnej najbardziej zbliżonego pod względem medycznym, Ql, a, j - współczynnik korygujący świadczenia opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, dla danego świadczeniodawcy l, określony zgodnie z przepisami wydanymi na podstawie art. 137 ust. 2 ustawy, według stanu na dzień wejścia w życie ustawy zmieniającej, Cl, a, j - cena jednostki rozliczeniowej świadczenia opieki zdrowotnej w zakresie ambulatoryjnej opieki specjalistycznej, dla danego świadczeniodawcy l, według stanu na dzień wejścia w życie ustawy zmieniającej, Dl,0 - dodatkowa korekta ryczałtu dla danego świadczeniodawcy l, o której mowa w art. 136c ust. 4 ustawy, związana z: - przerwą w udzielaniu świadczeń opieki zdrowotnej przez świadczeniodawcę, o której mowa w przepisach wydanych na podstawie art. 137 ust. 2 ustawy, albo - innymi uzasadnionymi sytuacjami związanymi ze zmianą zakresu działalności leczniczej świadczeniodawcy, w tym wynikającymi ze zmiany taryfy i polegającymi na zwiększeniu liczby wykonanych świadczeń opieki zdrowotnej w 2016 r.
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1807, 1860, 1948, 2138, 2173 i 2250 oraz z 2017 r. poz. 60, 759, 777, 844, 858, 1089 i 1139.

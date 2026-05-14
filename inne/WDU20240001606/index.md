@@ -8,9 +8,9 @@ pos: 1606
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Dz. U. poz.
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 30 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Zintegrowanym Systemie Kwalifikacji
 
 | Pole | Wartość |
 |---|---|
@@ -22,1414 +22,3704 @@ domain: null
 | Data ogłoszenia | 2024-09-30 |
 | Data wydania | 2024-10-31 |
 | Ostatnia zmiana | 2024-11-04 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001606) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1606/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1606/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1606) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 30 września sprawie ogłoszenia jednolitego tekstu ustawy Zintegrowanym Systemie Kwalifikacji
-1. Na podstawie 16 ust. zdanie pierwsze ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 22 grudnia 2015 Zintegrowanym Systemie Kwalifikacji (Dz. U. 2020 poz. 226), uwzględnieniem zmian wprowadzonych ustawą dnia 30 sierpnia 2023 zmianie ustawy Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005) oraz zmian wynikających przepisów ogłoszonych przed dniem 27 września
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 27–30, 37 3 i 38 ustawy dnia 30 sierpnia 2023 zmianie ustawy Prawo oświatowe oraz niektórych innych ustaw (Dz. U.
-poz. 2005), które stanowią: „Art. 27. 1. Do wniosków włączenie dotychczasowych kwalifikacji rynkowych do Zintegrowanego Systemu Kwalifikacji, których 14 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 r.:
-1) zostały przekazane do konsultacji, których 19 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe;
-2) nie zostały przekazane do konsultacji, których 19 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, stosuje się przepisy ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
-2. Minister właściwy, którym 2 14 ustawy zmienianej 9, terminie do dnia 31 marca wzywa wnioskodawcę do ponownego złożenia wniosku, którym ust. 2, spełniającego warunki określone:
-1) 15 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, albo
-2) 15b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą przypadku wnioskodawców spełniających warunki, których 15a ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
-3. Wniosek spełniający warunki, których ust. 2 lub 2, podlega ponownej ocenie formalnej, 18 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, tym że wniosek ten nie wymaga ponownego wniesienia opłaty, 17 ust. ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
-4. Wnioskodawca wezwany do ponownego złożenia wniosku zgodnie ust. 2 może wycofać wniosek. W takim przypadku minister koordynator Zintegrowanego Systemu Kwalifikacji, którym 2 13 ustawy zmienianej 9, na wniosek ministra właściwego, którym 2 14 ustawy zmienianej 9, niezwłocznie zwraca wnioskodawcy wniesioną opłatę, 17 ust. ustawy zmienianej 9, brzmieniu dotychczasowym.
-5. Do kwalifikacji rynkowych włączonych do Zintegrowanego Systemu Kwalifikacji na podstawie przepisów ustawy zmienianej 9, brzmieniu dotychczasowym, stosuje się przepisy 83 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, do czasu pierwszego przeglądu kwalifikacji, którym 27 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
-6. Pierwszy przegląd kwalifikacji, którym ust. 5, obejmuje dostosowanie kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji na podstawie przepisów ustawy zmienianej 9, brzmieniu dotychczasowym, do przepisów 83 ust. ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
-7. Do wniosków nadanie uprawnienia do certyfikowania, których 41 ust. 2 ustawy zmienianej 9, brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 zostały złożone trybie 14 ust. 2 ustawy rynkowych, które do dnia 31 grudnia 2023 zostały włączone do Zintegrowanego Systemu Kwalifikacji, stosuje się przepisy dotychczasowe.
-8. Wnioski nadanie uprawnienia do certyfikowania, których 41 ust. 2 ustawy zmienianej 9, brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 zostały złożone trybie 14 ust. 2 ustawy zmienianej 9, brzmieniu dotychczasowym, i dotyczą nadania uprawnienia do certyfikowania kwalifikacji rynkowych, które do dnia 31 grudnia 2023 nie zostały włączone do Zintegrowanego Systemu Kwalifikacji, pozostawia się bez rozpatrzenia.
-Art. 97–103. (pominięte)
+## Spis treści
 
-**Art. 28.**
+- [Treść obwieszczenia](#part_1)
 
-1. Podmiot spełniający warunki, których 15a ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, który jako jedyny posiada uprawnienie do certyfikowania dotychczasowej kwalifikacji rynkowej, którym 41 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, może złożyć do ministra właściwego, którym 2 14 ustawy zmienianej 9, wniosek uznanie dotychczasowej kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, jeżeli ta kwalifikacja rynkowa ma charakter zawodowy i odpowiada na potrzeby oraz uwzględnia specyfikę branży lub sektora, których podmiot ten prowadzi działalność statutową.
+- [Załącznik - Tekst jednolity ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Polska Rama Kwalifikacji oraz przypisywanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji](#chpt_2) [Rozdział 3 - Włączanie kwalifikacji do Zintegrowanego Systemu Kwalifikacji i przegląd kwalifikacji funkcjonujących w Zintegrowanym Systemie Kwalifikacji](#chpt_3) [Rozdział 4 - Wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji oraz zasady uzyskiwania uprawnień do certyfikowania](#chpt_4) [Rozdział 5 - Zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji](#chpt_5) [Rozdział 6 - Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji](#chpt_6) [Rozdział 7 - Zintegrowany Rejestr Kwalifikacji](#chpt_7) [Rozdział 8 - Koordynacja funkcjonowania Zintegrowanego Systemu Kwalifikacji](#chpt_8) [Rozdział 9 - Zmiany w przepisach obowiązujących](#chpt_9) [Rozdział 10 - Przepisy przejściowe i końcowe](#chpt_10)
 
-2. Podmiot spełniający warunki, których 15a ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, może złożyć do ministra właściwego, którym 2 14 ustawy zmienianej 9, wniosek uznanie dotychczasowej kwalifikacji rynkowej włączonej na wniosek tego podmiotu do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, jeżeli żaden podmiot nie posiada uprawnienia do jej certyfikowania, którym 41 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, i kwalifikacja ta ma charakter zawodowy oraz odpowiada na potrzeby i uwzględnia specyfikę branży lub sektora, prowadzi on działalność statutową.
+- [Załącznik - Uniwersalne charakterystyki poziomów w PRK](#part_3)
 
-3. Wniosek, którym ust. i 2, zawiera:
+TOC
 
-- **1)** nazwę dotychczasowej kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji;
-- **2)** informacje zawarte 15b ust. i 3 lit. a i c ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
+## Treść obwieszczenia
 
-4. Do wniosku, którym ust. lub 2, dołącza się dokumenty, których 15b ust. 2 i 2 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą. Przepisy 15b ust. 3 i 4 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
+### 1.
 
-5. Wniosek, który nie spełnia warunków, których ust. 3 i 4, pozostawia się bez rozpatrzenia.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji ([Dz. U. z 2020 r. poz. 226](https://api.sejm.gov.pl/eli/acts/DU/2020/226/text.html)), z uwzględnieniem zmian wprowadzonych ustawą z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw ([Dz. U. poz. 2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 września 2024 r.
 
-6. W wyniku rozpatrzenia wniosku, którym ust. lub 2, minister właściwy informuje podmiot, który złożył ten wniosek, tym, że dotychczasowa kwalifikacja rynkowa włączona do Zintegrowanego Systemu Kwalifikacji:
+### 2.
 
-- **1)** nie zostaje uznana za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, albo
-- **2)** zostaje uznana za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 27-30, art. 37 pkt 3 i art. 38 ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw ([Dz. U. poz. 2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)), które stanowią:
 
-7. W przypadku, którym ust. 6 2, minister właściwy, drodze obwieszczenia, uznaje dotychczasową kwalifikację rynkową włączoną do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą. Obwieszczenie podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+„
 
-8. W przypadku uznania dotychczasowej kwalifikacji rynkowej, włączonej do Zintegrowanego Systemu Kwalifikacji, ust. 1, za kwalifikację sektorową, 2 11b ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, uprawnienie do certyfikowania dotychczasowej kwalifikacji rynkowej, którym 41 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, posiadane podmiot, którym ust. 1, staje się uprawnieniem do certyfikowania kwalifikacji sektorowej uwzględnionej obwieszczeniu, którym ust. 7.
+### Art. 27.
 
-**Art. 29.**
+### 1.
 
-1. Dotychczasowe kwalifikacje rynkowe, których ustawie zmienianej 9, brzmieniu dotychczasowym, włączone do Zintegrowanego Systemu Kwalifikacji do dnia 31 grudnia 2023 r., stają się dniem kwalifikacjami wolnorynkowymi, których 2 11 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
+Do wniosków o włączenie dotychczasowych kwalifikacji rynkowych do Zintegrowanego Systemu Kwalifikacji, o których mowa w art. 14 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 r.:
 
-2. Uprawnienia do nadawania dotychczasowych kwalifikacji rynkowych, których ust. 1, stają się uprawnieniami do nadawania kwalifikacji wolnorynkowych, których 2 11 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
+### 1)
 
-3. Przepis ust. stosuje się również do wniosków włączenie dotychczasowych kwalifikacji rynkowych, których 28.
+zostały przekazane do konsultacji, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe;
 
-4. Podmiotowi, któremu na podstawie umowy, 60 ust. ustawy zmienianej 9, brzmieniu dotychczasowym, powierzono funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących dotychczasowe kwalifikacje rynkowe, których ust. 1, powierza się funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących kwalifikacje wolnorynkowe, których 2 11 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, na czas trwania tej umowy.
+### 2)
 
-**Art. 30.**
+nie zostały przekazane do konsultacji, o których mowa w art. 19 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, stosuje się przepisy ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-1. Wnioski, których 15a ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, złożone organizacje, które są organami prowadzącymi branżowe centra umiejętności, których 4 30a ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, lub są stroną porozumienia, którym 8 ust. 3a ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 30 czerwca 2026 r., nie podlegają opłacie, 17 ust. ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.
+### 2.
 
-2. Wnioski, których 41 ust. 3 ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą, złożone organizacje, które są organami prowadzącymi branżowe centra umiejętności, których 4 30a ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, lub są stroną porozumienia, których 8 ust. 3a ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, terminie do dnia 31 grudnia 2026 r., nie podlegają opłacie, 43 ust. ustawy zmienianej 9, brzmieniu nadanym niniejszą ustawą.”
+Minister właściwy, o którym mowa w art. 2 pkt 14 ustawy zmienianej w art. 9, w terminie do dnia 31 marca 2024 r. wzywa wnioskodawcę do ponownego złożenia wniosku, o którym mowa w ust. 1 pkt 2, spełniającego warunki określone:
 
-**Art. 37.** „Dotychczasowe przepisy wykonawcze wydane na podstawie:
+### 1)
 
-**Art. 38.** Ustawa wchodzi dniem następującym po dniu ogłoszenia, wyjątkiem:
+w art. 15 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, albo
 
-#### Rozdział Przepisy ogólne
+### 2)
 
-**Art. 1.**
+w art. 15b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą - w przypadku wnioskodawców spełniających warunki, o których mowa w art. 15a ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-1. Ustawa określa:
+### 3.
 
-- **1)** zakres kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji oraz cele Zintegrowanego Systemu Kwalifikacji;
-- **2)** Polską Ramę Kwalifikacji;
-- **3)** standardy opisywania kwalifikacji;
-- **4)** zasady przypisywania poziomów Polskiej Ramy Kwalifikacji do kwalifikacji;
-- **5)** zasady włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji;
-- **6)** zasady włączania do Zintegrowanego Systemu Kwalifikacji Sektorowych Ram Kwalifikacji;
-- **7)** wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie oraz zasady uzyskiwania uprawnień do certyfikowania;
-- **8)** zasady zapewniania jakości walidacji i certyfikowania;
-- **9)** zasady nadzoru nad walidacją i certyfikowaniem;
-- **10)** Zintegrowany Rejestr Kwalifikacji;
-- **11)** koordynację funkcjonowania Zintegrowanego Systemu Kwalifikacji.
+Wniosek spełniający warunki, o których mowa w ust. 2 pkt 1 lub 2, podlega ponownej ocenie formalnej, o której mowa w art. 18 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, z tym że wniosek ten nie wymaga ponownego wniesienia opłaty, o której mowa w art. 17 ust. 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-2. Ustawa nie określa wymogów walidacji i certyfikowania, zasad zapewniania jakości nadawania kwalifikacji oraz zasad nadzoru nad nadawaniem kwalifikacji zakresie kwalifikacji uzyskiwanych systemie oświaty oraz systemie szkolnictwa wyższego i nauki.
+### 4.
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+Wnioskodawca wezwany do ponownego złożenia wniosku zgodnie z ust. 2 może wycofać wniosek. W takim przypadku minister koordynator Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 2 pkt 13 ustawy zmienianej w art. 9, na wniosek ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy zmienianej w art. 9, niezwłocznie zwraca wnioskodawcy wniesioną opłatę, o której mowa w art. 17 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym.
 
-**Art. 3.** Na zasadach określonych ustawie do Zintegrowanego Systemu Kwalifikacji włącza się kwalifikacje pełne oraz kwalifikacje cząstkowe.
+### 5.
 
-**Art. 4.** Zintegrowany System Kwalifikacji zapewnia:
+Do kwalifikacji rynkowych włączonych do Zintegrowanego Systemu Kwalifikacji na podstawie przepisów ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, stosuje się przepisy art. 83 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, do czasu pierwszego przeglądu kwalifikacji, o którym mowa w art. 27 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-#### Rozdział 2 Polska Rama Kwalifikacji oraz przypisywanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji
+### 6.
 
-**Art. 5.**
+Pierwszy przegląd kwalifikacji, o którym mowa w ust. 5, obejmuje dostosowanie kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji na podstawie przepisów ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, do przepisów art. 83 ust. 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-1. Ustanawia się Polską Ramę Kwalifikacji. Polska Rama Kwalifikacji służy do klasyfikowania kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji według poszczególnych poziomów Polskiej Ramy Kwalifikacji.
+### 7.
 
-2. Ogólne charakterystyki efektów uczenia się dla kwalifikacji na poszczególnych poziomach Polskiej Ramy Kwalifikacji obejmują:
+Do wniosków o nadanie uprawnienia do certyfikowania, o których mowa w art. 41 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 r. zostały złożone w trybie art. 14 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, i dotyczą nadania uprawnienia do certyfikowania kwalifikacji rynkowych, które do dnia 31 grudnia 2023 r. zostały włączone do Zintegrowanego Systemu Kwalifikacji, stosuje się przepisy dotychczasowe.
 
-- **1)** uniwersalne charakterystyki poziomów 1–8 pierwszego stopnia;
-- **2)** charakterystyki poziomów 1–8 drugiego stopnia stanowiące rozwinięcie uniwersalnych charakterystyk pierwszego stopnia, które obejmują:
-    - **a)** charakterystyki poziomów 1–4 drugiego stopnia typowe dla kwalifikacji charakterze ogólnym uzyskiwanych ramach edukacji formalnej, edukacji pozaformalnej oraz uczenia się nieformalnego,
-    - **b)** charakterystykę poziomu 5 drugiego stopnia typową dla kwalifikacji uzyskiwanych po uzyskaniu kwalifikacji pełnej na poziomie 4,
-    - **c)** charakterystyki poziomów 6–8 drugiego stopnia typowe dla kwalifikacji uzyskiwanych ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4,
-    - **d)** charakterystyki poziomów 1–8 drugiego stopnia typowe dla kwalifikacji charakterze zawodowym uzyskiwanych ramach edukacji formalnej, edukacji pozaformalnej oraz nieformalnego uczenia się.
+### 8.
 
-**Art. 6.** Uniwersalne charakterystyki poziomów 1–8 pierwszego stopnia określa załącznik do ustawy.
+Wnioski o nadanie uprawnienia do certyfikowania, o których mowa w art. 41 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, które do dnia 31 grudnia 2023 r. zostały złożone w trybie art. 14 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, i dotyczą nadania uprawnienia do certyfikowania kwalifikacji rynkowych, które do dnia 31 grudnia 2023 r. nie zostały włączone do Zintegrowanego Systemu Kwalifikacji, pozostawia się bez rozpatrzenia.
 
-**Art. 7.**
+### Art. 28.
 
-1. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, charakterystyki poziomów 1–4 drugiego stopnia typowe dla kwalifikacji charakterze ogólnym, ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
+### 1.
 
-- **1)** odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie języka i komunikowania się struktury i zasady tworzenia wypowiedzi,
-    - **b)** zakresie matematyki i nauk przyrodniczych pojęcia i zależności oraz interpretacje,
-    - **c)** zakresie funkcjonowania społecznego zasady funkcjonowania, role społeczne i tożsamość;
+Podmiot spełniający warunki, o których mowa w art. 15a ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, który jako jedyny posiada uprawnienie do certyfikowania dotychczasowej kwalifikacji rynkowej, o którym mowa w art. 41 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, może złożyć do ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy zmienianej w art. 9, wniosek o uznanie dotychczasowej kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, jeżeli ta kwalifikacja rynkowa ma charakter zawodowy i odpowiada na potrzeby oraz uwzględnia specyfikę branży lub sektora, w których podmiot ten prowadzi działalność statutową.
 
-- **2)** odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie języka i komunikowania się odbieranie i tworzenie wypowiedzi oraz posługiwanie się językiem obcym,
-    - **b)** zakresie matematyki i nauk przyrodniczych dobór i korzystanie narzędzi oraz prowadzenie obserwacji i doświadczeń,
-    - **c)** zakresie funkcjonowania społecznego wyrażanie przynależności do wspólnot,
-    - **d)** zakresie uczenia się organizację i planowanie;
+### 2.
 
-- **3)** odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie języka i komunikowania się kulturę komunikowania się,
-    - **b)** odniesieniu do zdrowia i środowiska dbałość zdrowie i bezpieczeństwo oraz postawę wobec środowiska,
-    - **c)** zakresie funkcjonowania społecznego podejmowanie obowiązków, współdziałanie i angażowanie się.
+Podmiot spełniający warunki, o których mowa w art. 15a ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, może złożyć do ministra właściwego, o którym mowa w art. 2 pkt 14 ustawy zmienianej w art. 9, wniosek o uznanie dotychczasowej kwalifikacji rynkowej włączonej na wniosek tego podmiotu do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, jeżeli żaden podmiot nie posiada uprawnienia do jej certyfikowania, o którym mowa w art. 41 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, i kwalifikacja ta ma charakter zawodowy oraz odpowiada na potrzeby i uwzględnia specyfikę branży lub sektora, w której prowadzi on działalność statutową.
 
-2. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki określą, drodze rozporządzenia, charakterystykę poziomu 5 drugiego stopnia typową dla kwalifikacji uzyskiwanych po uzyskaniu kwalifikacji pełnej na poziomie 4, ujętą kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
+### 3.
 
-- **1)** odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakres i głębię kompletność perspektywy poznawczej i zależności,
+Wniosek, o którym mowa w ust. 1 i 2, zawiera:
 
-- **2)** odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie wykorzystania wiedzy rozwiązywane problemy i wykonywane zadania,
-    - **b)** zakresie komunikowania się odbieranie i tworzenie wypowiedzi, upowszechnianie wiedzy środowisku naukowym i posługiwanie się językiem obcym,
-    - **c)** zakresie organizacji pracy planowanie i pracę zespołową,
-    - **d)** zakresie uczenia się planowanie własnego rozwoju i rozwoju innych osób;
+### 1)
 
-- **3)** odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie ocen krytyczne podejście,
-    - **b)** zakresie odpowiedzialności wypełnianie zobowiązań społecznych i działanie na rzecz interesu publicznego,
-    - **c)** odniesieniu do roli zawodowej niezależność i rozwój etosu.
+nazwę dotychczasowej kwalifikacji rynkowej włączonej do Zintegrowanego Systemu Kwalifikacji;
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, drodze rozporządzenia, charakterystyki poziomów 6–8 drugiego stopnia typowe dla kwalifikacji uzyskiwanych ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4, ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
+### 2)
 
-- **1)** odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakres i głębię kompletność perspektywy poznawczej i zależności,
-    - **b)** kontekst uwarunkowania, skutki;
+informacje zawarte w art. 15b ust. 1 pkt 1 i 3 lit. a i c ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-- **2)** odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie wykorzystania wiedzy rozwiązywane problemy i wykonywane zadania,
-    - **b)** zakresie komunikowania się odbieranie i tworzenie wypowiedzi, upowszechnianie wiedzy środowisku naukowym i posługiwanie się językiem obcym,
-    - **c)** zakresie organizacji pracy planowanie i pracę zespołową,
-    - **d)** zakresie uczenia się planowanie własnego rozwoju i rozwoju innych osób;
+### 4.
 
-- **3)** odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie ocen krytyczne podejście,
-    - **b)** zakresie odpowiedzialności wypełnianie zobowiązań społecznych i działanie na rzecz interesu publicznego,
-    - **c)** odniesieniu do roli zawodowej niezależność i rozwój etosu.
+Do wniosku, o którym mowa w ust. 1 lub 2, dołącza się dokumenty, o których mowa w art. 15b ust. 2 pkt 1 i 2 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą. Przepisy art. 15b ust. 3 i 4 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio.
 
-4. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, charakterystyki poziomów 1–8 drugiego stopnia typowe dla kwalifikacji charakterze zawodowym, ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
+### 5.
 
-- **1)** odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie teorii i zasad metody i rozwiązania, działalność gospodarczą i etykę,
-    - **b)** zakresie zjawisk i procesów właściwości i uwarunkowania,
-    - **c)** zakresie organizacji prac metody i technologie, rozwiązania organizacyjne oraz bezpieczeństwo i higienę pracy,
-    - **d)** zakresie narzędzi i materiałów działanie i cechy;
+Wniosek, który nie spełnia warunków, o których mowa w ust. 3 i 4, pozostawia się bez rozpatrzenia.
 
-- **2)** odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** odniesieniu do informacji dokumentację, obliczenia, analizę, syntezę i prognozowanie,
-    - **b)** zakresie organizacji pracy planowanie i korygowanie planów, wykonywanie, korygowanie działań i obieg informacji,
-    - **d)** zakresie uczenia się i rozwoju zawodowego rozwój własny i wspieranie rozwoju innych osób;
+### 6.
 
-- **3)** odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
-    - **a)** zakresie przestrzeganie reguł zasady, instrukcje i prawo,
-    - **b)** zakresie współpracy komunikowanie się i relacje środowisku zawodowym,
-    - **c)** zakresie odpowiedzialności normy etyczne.
+W wyniku rozpatrzenia wniosku, o którym mowa w ust. 1 lub 2, minister właściwy informuje podmiot, który złożył ten wniosek, o tym, że dotychczasowa kwalifikacja rynkowa włączona do Zintegrowanego Systemu Kwalifikacji:
 
-5. W rozporządzeniach, których ust. 1–4, uwzględnia się konieczność zapewnienia spójności uniwersalnymi charakterystykami poziomów 1–8 pierwszego stopnia oraz aktualny stan wiedzy i postępu technologicznego poszczególnych dziedzinach.
+### 1)
 
-**Art. 8.** Do kwalifikacji pełnych przypisuje się następujące poziomy Polskiej Ramy Kwalifikacji:
+nie zostaje uznana za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, albo
 
-**Art. 9.**
+### 2)
 
-1. Poziomy Polskiej Ramy Kwalifikacji przypisuje się do kwalifikacji cząstkowych, jeżeli:
+zostaje uznana za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą
 
-- **1)** efekty uczenia się wymagane dla danej kwalifikacji zostały opisane sposób zawierający:
-    - **a)** syntetyczną charakterystykę efektów uczenia się,
-    - **b)** wyodrębnione zestawy efektów uczenia się,
-    - **c)** poszczególne efekty uczenia się pogrupowane zestawy efektów uczenia się wraz kryteriami weryfikacji tych efektów;
+### 7.
 
-- **2)** dokonano porównania efektów uczenia się wymaganych dla danej kwalifikacji charakterystykami poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia.
+W przypadku, o którym mowa w ust. 6 pkt 2, minister właściwy, w drodze obwieszczenia, uznaje dotychczasową kwalifikację rynkową włączoną do Zintegrowanego Systemu Kwalifikacji za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-2. Warunek, którym ust. 1, nie dotyczy porównania wymaganych efektów uczenia się charakterystykami poziomów Polskiej Ramy Kwalifikacji dla kwalifikacji wyodrębnionej zawodzie, 4 34 ustawy dnia 14 grudnia 2016 Prawo oświatowe, oraz kwalifikacji nadawanych po ukończeniu studiów podyplomowych, których 160 ust. ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce.
+### 8.
 
-**Art. 10.**
+W przypadku uznania dotychczasowej kwalifikacji rynkowej, włączonej do Zintegrowanego Systemu Kwalifikacji, o której mowa w ust. 1, za kwalifikację sektorową, o której mowa w art. 2 pkt 11b ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, uprawnienie do certyfikowania dotychczasowej kwalifikacji rynkowej, o którym mowa w art. 41 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, posiadane przez podmiot, o którym mowa w ust. 1, staje się uprawnieniem do certyfikowania kwalifikacji sektorowej uwzględnionej w obwieszczeniu, o którym mowa w ust. 7.
 
-1. Przypisanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji uprawnia instytucje certyfikujące do umieszczania na dokumentach potwierdzających nadanie danej kwalifikacji znaku graficznego informującego przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji.
+### Art. 29.
 
-2. Znak graficzny jest umieszczany wyłącznie na dokumentach potwierdzających nadanie kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji.
+### 1.
 
-3. Znaki graficzne informujące przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji są odrębne dla kwalifikacji pełnych i dla kwalifikacji cząstkowych.
+Dotychczasowe kwalifikacje rynkowe, o których mowa w ustawie zmienianej w art. 9, w brzmieniu dotychczasowym, włączone do Zintegrowanego Systemu Kwalifikacji do dnia 31 grudnia 2023 r., stają się z dniem 1 stycznia 2024 r. kwalifikacjami wolnorynkowymi, o których mowa w art. 2 pkt 11 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-4. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, wzory znaków graficznych informujących przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji, uwzględniając konieczność ich dostosowania do funkcjonujących wzorów druków szkolnych i innych dokumentów potwierdzających nadanie kwalifikacji.
+### 2.
 
-**Art. 11.**
+Uprawnienia do nadawania dotychczasowych kwalifikacji rynkowych, o których mowa w ust. 1, stają się uprawnieniami do nadawania kwalifikacji wolnorynkowych, o których mowa w art. 2 pkt 11 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-1. Charakterystyki wybranych poziomów Polskiej Ramy Kwalifikacji drugiego stopnia typowe dla kwalifikacji charakterze zawodowym, których przepisach wydanych na podstawie 7 ust. 4, mogą być rozwijane za pomocą Sektorowych Ram Kwalifikacji uwzględniających specyfikę danej branży lub sektora.
+### 3.
 
-2. Minister właściwy, własnej inicjatywy lub na wniosek sektorowej rady do spraw kompetencji lub zainteresowanego podmiotu, podejmuje działania celu włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji, jeżeli wstępna ocena celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji jest pozytywna.
+Przepis ust. 1 stosuje się również do wniosków o włączenie dotychczasowych kwalifikacji rynkowych, o których mowa w art. 28.
 
-3. Wniosek, którym ust. 2, zawiera:
+### 4.
 
-- **1)** określenie nazwy sektora lub branży;
-- **2)** określenie podstawowych rodzajów działalności, do których odnosi się Sektorowa Rama Kwalifikacji;
-- **3)** charakterystyki efektów uczenia się dla poziomów Sektorowych Ram Kwalifikacji ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych, uwzględniające przepisy wydane na podstawie 7 ust. 4;
-- **4)** ocenę celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz opinie reprezentantów branży lub sektora tym zakresie, szczególności opinie sektorowych rad do spraw kompetencji, działających branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji;
-- **5)** ocenę zgodności Sektorowych Ram Kwalifikacji Polską Ramą Kwalifikacji, szczególności zakresie spójności Sektorowych Ram Kwalifikacji charakterystykami odpowiednich poziomów Polskiej Ramy Kwalifikacji drugiego stopnia typowymi dla kwalifikacji charakterze zawodowym, określonymi przepisach wydanych na podstawie 7 ust. 4;
-- **6)** pozytywną opinię Rady Interesariuszy Zintegrowanego Systemu Kwalifikacji, zwanej dalej „Radą Interesariuszy”, celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz jej zgodności Polską Ramą Kwalifikacji.
+Podmiotowi, któremu na podstawie umowy, o której mowa w art. 60 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym, powierzono funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących dotychczasowe kwalifikacje rynkowe, o których mowa w ust. 1, powierza się funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących kwalifikacje wolnorynkowe, o których mowa w art. 2 pkt 11 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, na czas trwania tej umowy.
 
-3a. Wniosek złożony sektorową radę do spraw kompetencji działającą branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji, nie wymaga opinii reprezentantów branży lub sektora, ust. 3 4.
+### Art. 30.
 
-4. Minister właściwy do spraw oświaty i wychowania na wniosek ministra właściwego włącza Sektorowe Ramy Kwalifikacji do Zintegrowanego Systemu Kwalifikacji drodze rozporządzenia.
+### 1.
 
-5. Rozporządzenie, którym ust. 4, określa:
+Wnioski, o których mowa w art. 15a ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, złożone przez organizacje, które są organami prowadzącymi branżowe centra umiejętności, o których mowa w art. 4 pkt 30a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, lub są stroną porozumienia, o którym mowa w art. 8 ust. 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 30 czerwca 2026 r., nie podlegają opłacie, o której mowa w art. 17 ust. 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-- **1)** nazwę sektora lub branży,
-- **2)** podstawowe rodzaje działalności, do których wykonywania przygotowują kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji,
-- **3)** charakterystyki efektów uczenia się dla poziomów Sektorowych Ram Kwalifikacji ujęte kategoriach wiedzy, umiejętności oraz kompetencji społecznych uwzględniając potrzeby danej branży lub sektora oraz potrzeby rozwoju danej branży lub sektora.
+### 2.
 
-#### Rozdział 3 Włączanie kwalifikacji do Zintegrowanego Systemu Kwalifikacji i przegląd kwalifikacji funkcjonujących Zintegrowanym Systemie Kwalifikacji
+Wnioski, o których mowa w art. 41 ust. 3 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, złożone przez organizacje, które są organami prowadzącymi branżowe centra umiejętności, o których mowa w art. 4 pkt 30a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, lub są stroną porozumienia, o których mowa w art. 8 ust. 3a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie do dnia 31 grudnia 2026 r., nie podlegają opłacie, o której mowa w art. 43 ust. 1 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 12.**
+”
 
-- **12)** Do Zintegrowanego Systemu Kwalifikacji włącza się kwalifikacje pełne oraz kwalifikacje wyodrębnione zawodzie, których 4 34 ustawy dnia 14 grudnia 2016 Prawo oświatowe.
+### Art. 37.
 
-**Art. 13.**
+„Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-1. Uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze mogą włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikacje nadawane po ukończeniu studiów podyplomowych, których 160 ust. ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, jeżeli został przypisany poziom Polskiej Ramy Kwalifikacji do tych kwalifikacji.
+### 3)
 
-2. Do przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji cząstkowych, których ust. 1, stosuje się odpowiednio 21.
+art. 21 ust. 8 ustawy zmienianej w art. 9 zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 21 ust. 8 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie art. 9 niniejszej ustawy.
 
-3. Uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze informują podmiot prowadzący Zintegrowany Rejestr Kwalifikacji włączeniu do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji cząstkowej, ust. 1.
+### Art. 38.
 
-**Art. 14.**
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
-- **13)** Podmiot prowadzący zorganizowaną działalność obszarze gospodarki, rynku pracy, edukacji lub szkoleń może wystąpić do ministra właściwego wnioskiem włączenie kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji.
+### 1)
 
-**Art. 15.**
+art. 3 pkt 1, który wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2023 r.;
 
-1. Wniosek, którym 14, zawiera:
+### 2)
 
-- **1)** dane podmiotu, którym 14:
-    - **a)** nazwę lub firmę albo imię i nazwisko, przypadku osoby fizycznej,
-    - **b)** siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, przypadku osoby fizycznej,
-    - **c)** numer identyfikacji podatkowej (NIP), numer PESEL lub, przypadku osoby zagranicznej, 3 5 ustawy dnia 6 marca 2018 zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. 2022 poz. 470 oraz poz. 1222), inny numer przypisany do celów identyfikacji podatkowej kraju siedziby lub zamieszkania,
-    - **d)** numer Krajowym Rejestrze Sądowym (KRS), ile został nadany,
-    - **e)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, odrębna ustawa przyznaje zdolność prawną,
-    - **f)** adres elektroniczny osoby składającej wniosek imieniu podmiotu, którym 14;
+art. 9, art. 27-30 i art. 37 pkt 3, które wchodzą w życie z dniem 1 stycznia 2024 r.;
 
-- **2)** informacje ogólne kwalifikacji wolnorynkowej:
-    - **a)** nazwę kwalifikacji wolnorynkowej,
-    - **b)** informacje obejmujące przykładowe: działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację wolnorynkową, grupy osób, do których dana kwalifikacja wolnorynkowa szczególności jest kierowana, możliwości wykorzystania kwalifikacji wolnorynkowej i dalszego rozwoju osobistego lub zawodowego, tym możliwości ubiegania się inne kwalifikacje i uprawnienia danej dziedzinie zawodowej,
-    - **c)** propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji,
-    - **d)** objętość kwalifikacji wolnorynkowej;
+### 3)
 
-- **3)** uzasadnienie celowości włączenia kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji:
-    - **a)** zgodność kwalifikacji wolnorynkowej rozpoznanymi potrzebami społecznymi lub potrzebami rynku pracy, popartą danymi wynikającymi analizy potrzeb rynku pracy i grup osób, do których dana kwalifikacja szczególności jest kierowana,
-    - **b)** podobieństwa i różnice odniesieniu do kwalifikacji zbliżonym charakterze, szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji,
-    - **c)** inne przesłanki potwierdzające zgodność kwalifikacji wolnorynkowej rozpoznanymi potrzebami rynku pracy i grup osób, do których dana kwalifikacja wolnorynkowa szczególności jest kierowana;
+art. 1 pkt 9 i 20 oraz art. 37 pkt 1, które wchodzą w życie z dniem 1 września 2024 r.;
 
-- **4)** informacje efektach uczenia się i wymaganiach dotyczących walidacji:
-    - **a)** efekty uczenia się wymagane dla danej kwalifikacji wolnorynkowej opisane zgodnie 9 ust. 1,
-    - **b)** ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+### 4)
 
-- **5)** informacje uzupełniające kwalifikacji wolnorynkowej:
-    - **a)** informację możliwości przygotowania do uzyskania kwalifikacji wolnorynkowej ramach obowiązkowych zajęć edukacyjnych, których 109 ust. ustawy dnia 14 grudnia 2016 Prawo oświatowe związku 47 ust. 3 lit. e tej lub ramach kursu umiejętności zawodowych, którym 4 35a tej lub możliwości jej wykorzystania celu potwierdzania dodatkowych umiejętności zawodowych określonych przepisach wydanych na podstawie 46 ust. tej
-    - **b)** razie potrzeby: warunki, jakie musi spełnić osoba przystępująca do walidacji, inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej,
-    - **c)** okres ważności certyfikatu kwalifikacji wolnorynkowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność nadanego certyfikatu jest bezterminowa,
-    - **d)** kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED),
-    - **e)** kod Polskiej Klasyfikacji Działalności (PKD).
+art. 4 pkt 1 i pkt 2 w zakresie art. 28 ust. 6 pkt 10 oraz art. 10 pkt 1 i pkt 2 w zakresie art. 29a ust. 2 i 3, pkt 3-9, pkt 10 lit. a i pkt 11, które wchodzą w życie z dniem 1 stycznia 2025 r.;
 
-2. Do wniosku dołącza się:
+### 5)
 
-- **1)** przypadku podmiotu, który nie prowadzi działalności gospodarczej dokumenty potwierdzające spełnienie warunku prowadzenia zorganizowanej działalności obszarze gospodarki, rynku pracy, edukacji lub szkoleń, szczególności statut, uchwałę, umowę, lub oświadczenie wskazujące obszar, którym dany podmiot prowadzi działalność;
-- **2)** oświadczenie następującej treści: „Oświadczam, że dane zawarte we wniosku włączenie kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji są zgodne prawdą.”;
-- **3)** dowód wniesienia opłaty, 17 ust. 1.
+art. 12 pkt 1-3 oraz 5-13, które wchodzą w życie z dniem 1 stycznia 2026 r.;
 
-3. Oświadczenia, których ust. 2 i 2, uwierzytelnia się przy użyciu mechanizmów określonych 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 6)
 
-4. Oświadczenia, których ust. 2 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń.
+art. 4 pkt 2 w zakresie art. 28 ust. 6 pkt 11 oraz art. 10 pkt 2 w zakresie art. 29a ust. 1 i pkt 10 lit. b, które wchodzą w życie z dniem 1 stycznia 2027 r.
 
-**Art. 15a.**
+” .
 
-- **17)** Organizacja zasięgu ogólnokrajowym prowadząca działalność statutową obszarze danej branży lub danego sektora, działająca odpowiednio na podstawie ustawy dnia 23 maja 1991 organizacjach pracodawców (Dz. U. 2022 poz. 97), ustawy dnia 30 maja 1989 izbach gospodarczych (Dz. U. 2019 poz. 579), ustawy dnia 7 kwietnia 1989 Prawo stowarzyszeniach (Dz. U. 2020 poz. 2261), ustawy dnia 25 czerwca 2010 sporcie (Dz. U. 2023 poz. 2048 oraz poz. 1166) lub ustawy regulującej funkcjonowanie samorządu zawodowego, tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, lub sektorowa rada do spraw kompetencji działająca na podstawie ustawy dnia 9 listopada 2000 utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości może wystąpić do ministra właściwego wnioskiem włączenie kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, tym że przypadku stowarzyszenia działającego na podstawie ustawy dnia 7 kwietnia 1989 Prawo stowarzyszeniach wnioskiem tym może wystąpić stowarzyszenie wpisane do Krajowego Rejestru Sądowego.
+## Załącznik - Tekst jednolity ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji
 
-**Art. 15b.**
+### Rozdział 1 Przepisy ogólne
 
-- **17)** 1. Wniosek, którym 15a, zawiera:
-- **1)** dane podmiotu, którym 15a:
-    - **a)** nazwę,
-    - **b)** siedzibę i adres,
-    - **c)** numer Krajowym Rejestrze Sądowym (KRS),
-    - **d)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, odrębna ustawa przyznaje zdolność prawną,
-    - **e)** adres elektroniczny osoby składającej wniosek imieniu podmiotu, którym 15a;
+### Art. 1.
 
-- **2)** informacje ogólne kwalifikacji sektorowej:
-    - **a)** nazwę kwalifikacji sektorowej,
-    - **b)** informacje obejmujące przykładowe: działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację sektorową, grupy osób, do których dana kwalifikacja sektorowa szczególności jest kierowana, możliwości wykorzystania kwalifikacji sektorowej i dalszego rozwoju osobistego lub zawodowego danej branży lub sektorze, tym możliwości ubiegania się inne kwalifikacje i uprawnienia,
-    - **c)** propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji sektorowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji,
-    - **d)** objętość kwalifikacji sektorowej;
+### 1.
 
-- **3)** uzasadnienie celowości włączenia kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji:
-    - **a)** zgodność kwalifikacji sektorowej rozpoznanymi potrzebami danej branży lub sektora,
-    - **b)** podobieństwa i różnice odniesieniu do kwalifikacji zbliżonym charakterze, szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji,
-    - **c)** inne przesłanki potwierdzające zgodność kwalifikacji sektorowej rozpoznanymi potrzebami danej branży lub sektora;
+Ustawa określa:
 
-- **4)** informacje efektach uczenia się i wymaganiach dotyczących walidacji:
-    - **a)** efekty uczenia się wymagane dla danej kwalifikacji sektorowej opisane zgodnie 9 ust. 1,
-    - **b)** ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+### 1)
 
-- **5)** informacje uzupełniające kwalifikacji sektorowej:
-    - **a)** informację możliwości przygotowania do uzyskania kwalifikacji sektorowej ramach obowiązkowych zajęć edukacyjnych, których 109 ust. ustawy dnia 14 grudnia 2016 Prawo oświatowe związku 47 ust. 3 lit. e tej lub ramach kursu umiejętności zawodowych, którym 4 35a tej lub możliwości jej wykorzystania celu potwierdzania dodatkowych umiejętności zawodowych określonych przepisach wydanych na podstawie 46 ust. tej
-    - **b)** razie potrzeby: warunki, jakie musi spełnić osoba przystępująca do walidacji, inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej,
-    - **c)** okres ważności certyfikatu kwalifikacji sektorowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność certyfikatu jest bezterminowa,
-    - **d)** kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED),
-    - **e)** kod Polskiej Klasyfikacji Działalności (PKD).
+zakres kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji oraz cele Zintegrowanego Systemu Kwalifikacji;
 
-2. Do wniosku, którym 15a, dołącza się:
+### 2)
 
-- **1)** poświadczoną za zgodność oryginałem kopię statutu podmiotu, którym 15a, potwierdzającego prowadzenie ten podmiot działalności statutowej obszarze danej branży lub danego sektora oraz ogólnokrajowy zasięg tej działalności;
-- **2)** oświadczenie następującej treści: „Oświadczam, że dane zawarte we wniosku włączenie kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji są zgodne prawdą.”;
-- **3)** dowód wniesienia opłaty, 17 ust. 1.
+Polską Ramę Kwalifikacji;
 
-3. Oświadczenie, którym ust. 2 2, uwierzytelnia się przy użyciu mechanizmów określonych 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 3)
 
-4. Oświadczenie, którym ust. 2 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń.
+standardy opisywania kwalifikacji;
 
-**Art. 16.**
+### 4)
 
-1. Wniosek, którym 14 i 15a, składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+zasady przypisywania poziomów Polskiej Ramy Kwalifikacji do kwalifikacji;
 
-2. Wniosek uwierzytelnia się przy użyciu mechanizmów określonych 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 5)
 
-**Art. 17.**
+zasady włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji;
 
-1. Wniosek, którym 14 i 15a, podlega opłacie. Opłatę wysokości 2000 zł wnosi się na rachunek bankowy wskazany ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi, wyjątkiem przypadku gdy wniosek pozostawia się bez rozpatrzenia zgodnie 18 ust. 5a lub 18a.
+### 6)
 
-2. Kwota, ust. 1, podlega raz na pięć lat waloryzacji sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+zasady włączania do Zintegrowanego Systemu Kwalifikacji Sektorowych Ram Kwalifikacji;
 
-3. Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, ust. 1, obowiązującą kolejnych pięciu latach, obliczoną zgodnie ust. 2.
+### 7)
 
-**Art. 18.**
+wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie oraz zasady uzyskiwania uprawnień do certyfikowania;
 
-1. Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, którym 14 i 15a, terminie 14 dni od dnia złożenia wniosku.
+### 8)
 
-2. Ocena formalna wniosku obejmuje:
+zasady zapewniania jakości walidacji i certyfikowania;
 
-- **1)** przypadku wniosku, którym 14 ocenę zgodności wniosku wymaganiami, których 15, 16 i 17 ust. 1;
-- **2)** przypadku wniosku, którym 15a ocenę zgodności wniosku wymaganiami, których 15b, 16 i 17 ust. 1.
+### 9)
 
-3. Nieprawidłowe wskazanie we wniosku właściwości ministra nie skutkuje zwrotem wniosku podmiot prowadzący Zintegrowany Rejestr Kwalifikacji. Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji wspomaga podmiot, którym 14 i 15a, ustalaniu właściwości ministra.
+zasady nadzoru nad walidacją i certyfikowaniem;
 
-4. W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa podmiot, którym odpowiednio 14 i 15a, do ich usunięcia terminie 30 dni. Termin, którym ust. 1, biegnie od dnia złożenia podmiot poprawionego wniosku.
+### 10)
 
-5. W przypadku nieusunięcia braków terminie, którym ust. 4, wnioskowi nie nadaje się dalszego biegu.
+Zintegrowany Rejestr Kwalifikacji;
 
-5a. Wniosek, którym 14 i 15a, złożony podmiot niewymieniony odpowiednio 14 lub 15a pozostawia się bez rozpatrzenia.
+### 11)
 
-6. Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego.
+koordynację funkcjonowania Zintegrowanego Systemu Kwalifikacji.
 
-**Art. 18a.**
+### 2.
 
-- **26)** W przypadku gdy uzasadnieniu celowości włączenia kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, którym 15 ust. 3 lub 15b ust. 3, wykazano znaczne podobieństwa do kwalifikacji już funkcjonujących Zintegrowanym Systemie Kwalifikacji, minister właściwy może pozostawić wniosek, którym 14 i 15a, bez rozpatrzenia.
+Ustawa nie określa wymogów walidacji i certyfikowania, zasad zapewniania jakości nadawania kwalifikacji oraz zasad nadzoru nad nadawaniem kwalifikacji w zakresie kwalifikacji uzyskiwanych w systemie oświaty oraz w systemie szkolnictwa wyższego i nauki.
 
-**Art. 19.**
+### Art. 2.
 
-- **27)** 1. Minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji do publikacji na portalu Zintegrowanego Systemu Kwalifikacji informację rozpoczęciu procedury rozpatrywania wniosku włączenie do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+Użyte w ustawie określenia oznaczają:
 
-2. Minister właściwy przeprowadza konsultacje wniosku, którym 14, ze środowiskami, których dotyczy kwalifikacja wolnorynkowa objęta tym wnioskiem.
+### 1)
 
-3. Minister właściwy przekazuje do wiadomości Radzie Interesariuszy oraz odpowiednim sektorowym radom do spraw kompetencji wniosek, którym 14 i 15a.
+certyfikowanie - proces, w wyniku którego osoba ubiegająca się o nadanie określonej kwalifikacji, po uzyskaniu pozytywnego wyniku walidacji, otrzymuje od uprawnionego podmiotu certyfikującego dokument potwierdzający nadanie określonej kwalifikacji;
 
-**Art. 20.** (uchylony)
+### 2)
 
-**Art. 21.**
+edukacja formalna - kształcenie realizowane przez publiczne i niepubliczne szkoły oraz inne podmioty systemu oświaty, uczelnie oraz inne podmioty systemu szkolnictwa wyższego i nauki, w ramach programów, które prowadzą do uzyskania kwalifikacji pełnych, kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2023 r. poz. 742](https://api.sejm.gov.pl/eli/acts/DU/2023/742/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.](#gloss-0:1:)), albo kwalifikacji w zawodzie, o której mowa w art. 10 ust. 3 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2024 r. poz. 750](https://api.sejm.gov.pl/eli/acts/DU/2024/750/text.html) i [854](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.html));
 
-- **29)** 1. Minister właściwy powołuje zespół ekspertów celu:
-- **1)** sporządzenia opinii dotyczącej celowości włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji oraz
-- **2)** wydania rekomendacji dotyczącej przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+### 3)
 
-2. W skład zespołu ekspertów, którym ust. 1, wchodzą co najmniej trzy osoby, tym:
+edukacja pozaformalna - kształcenie i szkolenie realizowane w ramach programów, które nie prowadzą do uzyskania kwalifikacji pełnych lub kwalifikacji, o których mowa w pkt 2;
 
-- **1)** co najmniej dwie osoby posiadające:
-    - **a)** doświadczenie zakresie wykonywania zadań, które potrafi wykonywać osoba posiadająca odpowiednio daną kwalifikację wolnorynkową lub daną kwalifikację sektorową, nauczania wykonywania tych zadań lub oceniania wykonania tych zadań,
-    - **b)** wiedzę na temat aktualnych i prognozowanych kierunków rozwoju dziedziny, dana kwalifikacja dotyczy;
+### 4)
 
-- **2)** co najmniej jedna osoba posiadająca wiedzę na temat standardów opisywania kwalifikacji, zasad włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz przypisywania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji.
+efekty uczenia się - wiedzę, umiejętności oraz kompetencje społeczne nabyte w procesie uczenia się;
 
-3. Rekomendację, ust. 2, sporządza się na podstawie porównania efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej charakterystykami poziomów Polskiej Ramy Kwalifikacji. Rekomendacja obejmuje:
+### 5)
 
-- **1)** efekty uczenia się wymagane dla kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisane zgodnie 9 ust. 1, będące podstawą przypisania poziomu Polskiej Ramy Kwalifikacji;
-- **2)** odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli ustanowiono Sektorowe Ramy Kwalifikacji danym sektorze lub branży.
+ewaluacja - analizę funkcjonowania instytucji certyfikującej prowadzącą do diagnozy procesów związanych z certyfikowaniem, służącą zapewnianiu i doskonaleniu jakości kwalifikacji;
 
-4. W skład zespołu ekspertów, którym ust. 1, nie mogą być powołane osoby, które uczestniczyły przygotowywaniu wniosku, którym odpowiednio 14 lub 15a.
+### 6)
 
-5. Do osób, których ust. 2, przepisy 24 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. poz. 572) stosuje się odpowiednio.
+instytucja certyfikująca - podmiot, który uzyskał uprawnienia do certyfikowania;
 
-6. W przypadku kwalifikacji nadawanych po ukończeniu studiów podyplomowych, których 160 ust. ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, zespół ekspertów jest powoływany odpowiednio uczelnie, instytuty naukowe Polskiej Akademii Nauk lub instytuty badawcze celu wydania rekomendacji dotyczącej przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+### 7)
 
-7. Zespoły ekspertów, których ust. i 6, działają na posiedzeniach, które są dokumentowane.
+kompetencje społeczne - rozwiniętą w toku uczenia się zdolność kształtowania własnego rozwoju oraz autonomicznego i odpowiedzialnego uczestniczenia w życiu zawodowym i społecznym, z uwzględnieniem etycznego kontekstu własnego postępowania;
 
-8. Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, tryb pracy zespołów ekspertów, których ust. i 6, tym sposób przygotowania opinii, ust. 1, sposób porównywania efektów uczenia się wymaganych dla kwalifikacji charakterystykami poziomów Polskiej Ramy Kwalifikacji i przygotowania rekomendacji, ust. 2 i ust. 6, oraz sposób dokumentowania prac tych zespołów, uwzględniając konieczność zapewnienia rzetelnego i sprawnego sporządzenia opinii i wydania rekomendacji oraz rzetelnego dokumentowania prac tych zespołów.
+### 8)
 
-**Art. 21a.**
+kwalifikacja - zestaw efektów uczenia się w zakresie wiedzy, umiejętności oraz kompetencji społecznych, nabytych w edukacji formalnej, edukacji pozaformalnej lub poprzez uczenie się nieformalne, zgodnych z ustalonymi dla danej kwalifikacji wymaganiami, których osiągnięcie zostało sprawdzone w walidacji oraz formalnie potwierdzone przez uprawniony podmiot certyfikujący;
 
-- **30)** 1. W przypadku gdy opinia zespołu ekspertów, 21 ust. 1, jest pozytywna minister właściwy przedkłada rekomendację, 21 ust. 2, do opinii Rady Interesariuszy.
+### 8a[2) Dodany przez art. 9 pkt 1 lit. a ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005); weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:2:))
 
-2. W przypadku gdy opinia zespołu ekspertów, 21 ust. 1, jest negatywna minister właściwy może przedłożyć rekomendację, 21 ust. 2, do opinii Rady Interesariuszy.
+objętość kwalifikacji - orientacyjny nakład pracy, określony w godzinach, potrzebny do nabycia wszystkich efektów uczenia się wymaganych dla kwalifikacji wolnorynkowej lub sektorowej, z uwzględnieniem kształcenia lub szkolenia, lub samodzielnego uczenia się mającego na celu przygotowanie do nabycia tej kwalifikacji;
 
-3. W przypadkach, których ust. i 2, Rada Interesariuszy sporządza opinię i przekazuje ją ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji.
+### 9[3) W brzmieniu ustalonym przez art. 9 pkt 1 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:3:))
 
-4. Minister koordynator Zintegrowanego Systemu Kwalifikacji przekazuje opinię Rady Interesariuszy, ust. 3, ministrowi właściwemu.
+kwalifikacje cząstkowe - kwalifikacje wyodrębnione w zawodzie, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2024 r. poz. 737](https://api.sejm.gov.pl/eli/acts/DU/2024/737/text.html) i [854](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.html)), kwalifikacje nadawane po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, kwalifikacje nadawane po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, w art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk ([Dz. U. z 2020 r. poz. 1796](https://api.sejm.gov.pl/eli/acts/DU/2020/1796/text.html)) i w art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2024 r. poz. 534](https://api.sejm.gov.pl/eli/acts/DU/2024/534/text.html)), oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz ([Dz. U. z 2024 r. poz. 925](https://api.sejm.gov.pl/eli/acts/DU/2024/925/text.html) i [1089](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.html)), a także kwalifikacje uregulowane, kwalifikacje sektorowe, kwalifikacje rzemieślnicze i kwalifikacje wolnorynkowe;
 
-5. W przypadku gdy opinia Rady Interesariuszy, ust. 3, jest negatywna minister właściwy przekazuje ją zespołowi ekspertów, którym 21 ust. 1.
+### 10)
 
-6. Zespół ekspertów, którym 21 ust. 1, odnosi się do opinii Rady Interesariuszy, ust. 3, i ponownie przedstawia ministrowi właściwemu rekomendację dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+kwalifikacje pełne - kwalifikacje, które są nadawane wyłącznie w ramach systemu oświaty po ukończeniu określonych etapów kształcenia oraz w ramach systemu szkolnictwa wyższego i nauki po ukończeniu kształcenia specjalistycznego, studiów pierwszego stopnia, studiów drugiego stopnia i jednolitych studiów magisterskich oraz po uzyskaniu stopnia doktora w rozumieniu ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
 
-7. W przypadku, którym 21 ust. 6, odpowiednio uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze przedkładają rekomendację, 21 ust. 6, do opinii Rady Interesariuszy. Rada Interesariuszy sporządza opinię i przekazuje ją ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji. Przepisy ust. 4–6 stosuje się odpowiednio.
+### 11[4) W brzmieniu ustalonym przez art. 9 pkt 1 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:4:))
 
-**Art. 21b.**
+kwalifikacje wolnorynkowe - kwalifikacje nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby społeczne lub potrzeby rynku pracy, nadawane przez podmioty prowadzące działalność gospodarczą, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji wolnorynkowej;
 
-- **30)** 1. Minister właściwy na podstawie:
-- **1)** opinii i rekomendacji, których 21 ust. 1, i rekomendacji, 21a ust. 6,
-- **2)** wyników konsultacji, których 19 ust. 2 dokonuje oceny celowości włączenia odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisanej we wniosku, którym 14 lub 15a, do Zintegrowanego Systemu Kwalifikacji.
+### 11a[5) Dodany przez art. 9 pkt 1 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:5:))
 
-2. Na podstawie oceny, ust. 1, minister właściwy:
+kwalifikacje rzemieślnicze - kwalifikacje nadawane przez izby rzemieślnicze po przeprowadzeniu egzaminów w zawodach, o których mowa w art. 3 ust. 3a ustawy z dnia 22 marca 1989 r. o rzemiośle ([Dz. U. z 2020 r. poz. 2159](https://api.sejm.gov.pl/eli/acts/DU/2020/2159/text.html)), dla których dokumentami potwierdzającymi nadanie kwalifikacji są dyplomy mistrza i świadectwa czeladnicze;
 
-- **1)** pozytywnie rozpatruje wniosek, którym odpowiednio 14 lub 15a, określa ostateczny opis kwalifikacji wolnorynkowej lub kwalifikacji sektorowej obejmujący informacje, których 15 ust. 2–5 albo 15b ust. 2–5, oraz przypisuje do danej kwalifikacji poziom Polskiej Ramy Kwalifikacji zgodnie rekomendacją zespołu ekspertów, odpowiednio 21 ust. 2 lub 21a ust. 6, albo
-- **2)** negatywnie rozpatruje wniosek, którym odpowiednio 14 lub 15a, i odmawia włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji.
+### 11b[5) Dodany przez art. 9 pkt 1 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:5:))
 
-**Art. 22.**
+kwalifikacje sektorowe - kwalifikacje o charakterze zawodowym nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby danej branży lub sektora i uwzględniające ich specyfikę, nadawane przez podmioty prowadzące działalność statutową w obszarze danej branży lub sektora, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji sektorowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji sektorowej;
 
-- **31)** 1. Podczas ustalania właściwości ministra, którym 18 ust. 3, konsultacji wniosku, których 19 ust. 2, sporządzania opinii i rekomendacji, których 21 ust. 1, oraz dokonywania oceny, której 21b ust. 1, odpowiednio podmiot prowadzący Zintegrowany Rejestr Kwalifikacji, minister właściwy oraz zespół ekspertów, którym 21 ust. 1, współpracują podmiotem, którym odpowiednio 14 i 15a.
+### 12)
 
-2. Współpraca, ust. 1, polega szczególności na:
+kwalifikacje uregulowane - kwalifikacje ustanowione odrębnymi przepisami, których nadawanie odbywa się na zasadach określonych w tych przepisach, z wyłączeniem kwalifikacji nadawanych w systemie oświaty oraz systemie szkolnictwa wyższego i nauki;
 
-- **1)** informowaniu podmiotu, którym odpowiednio 14 i 15a, przekazaniu wniosku do ministra właściwego lub przekazaniu wniosku do innego ministra;
-- **2)** przekazywaniu podmiotowi, którym odpowiednio 14 i 15a, wniosków konsultacji ze środowiskami, których 19 ust. 2, dotyczących danej kwalifikacji, które wpływają do ministra właściwego;
-- **3)** przekazywaniu ministra właściwego podmiotowi, którym odpowiednio 14 i 15a, uwag i propozycji zmian zgłoszonych zespół ekspertów, którym 21 ust. 1;
-- **4)** konsultowaniu podmiotem, którym odpowiednio 14 i 15a, korekt doskonalących daną kwalifikację proponowanych zespół ekspertów, którym 21 ust. 1.
+### 12a[6) Dodany przez art. 9 pkt 1 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:6:))
 
-**Art. 23.**
+kwalifikacje włączone do Zintegrowanego Systemu Kwalifikacji - kwalifikacje pełne i cząstkowe, którym został przypisany poziom Polskiej Ramy Kwalifikacji i które zostały włączone do Zintegrowanego Systemu Kwalifikacji odpowiednio na podstawie art. 12, art. 13, art. 25, art. 37, art. 38 lub art. 40;
 
-1. Minister właściwy niezwłocznie informuje podmiot, którym odpowiednio 14 i 15a, pozytywnym lub negatywnym rozpatrzeniu wniosku. W przypadku negatywnego rozpatrzenia wniosku minister właściwy przedstawia jego uzasadnienie, odwołując się szczególności do oceny, 21b ust. 1.
+### 13)
 
-2. Na negatywne rozpatrzenie wniosku nie służy skarga do sądu administracyjnego.
+minister koordynator Zintegrowanego Systemu Kwalifikacji - ministra właściwego do spraw oświaty i wychowania;
 
-**Art. 24.**
+### 14)
 
-- **33)** Minister właściwy rozpatruje wniosek, którym 14 i 15a, terminie czterech miesięcy od dnia otrzymania poprawnego formalnie wniosku zgodnie 18 ust. 6. Termin może być jednokrotnie przedłużony cztery miesiące.
+minister właściwy - ministra określonego w przepisach ustawy z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2024 r. poz. 1370](https://api.sejm.gov.pl/eli/acts/DU/2024/1370/text.html));
 
-**Art. 25.**
+### 15)
 
-- **34)** 1. Minister właściwy drodze obwieszczenia włącza odpowiednio kwalifikację wolnorynkową lub kwalifikację sektorową do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+(uchylony)
 
-2. Obwieszczenie, którym ust. 1, zawiera informacje o:
+### 16)
 
-- **1)** nazwie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej;
-- **2)** poziomie Polskiej Ramy Kwalifikacji przypisanym do kwalifikacji wolnorynkowej lub kwalifikacji sektorowej oraz odniesieniu do poziomu odpowiednich Sektorowych Ram Kwalifikacji zgodnie 21 ust. 3
-- **3)** efektach uczenia się wymaganych dla kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, których 21 ust. 3 1;
-- **4)** ramowych wymaganiach dotyczących metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
-- **5)** warunkach, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informację braku takich warunków;
-- **6)** innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, jeżeli zostały określone, albo informację braku takich warunków;
-- **7)** okresie ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej, bezterminowym lub określonym, oraz warunkach przedłużenia ważności, jeżeli okres ważności certyfikatu został określony;
-- **8)** razie potrzeby, dodatkowych wymaganiach wynikających ze specyfiki kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczących:
-    - **a)** zakresu i częstotliwości ewaluacji wewnętrznej, których 64 ust. i 2,
-    - **b)** zakresu i częstotliwości sporządzania raportów zewnętrznego zapewniania jakości, których 68 ust. i 2,
-    - **c)** zakresu i częstotliwości składania sprawozdań działalności, których 76 ust. 1–3;
+Polska Rama Kwalifikacji - opis ośmiu wyodrębnionych w Polsce poziomów kwalifikacji odpowiadających odpowiednim poziomom europejskich ram kwalifikacji, o których mowa w załączniku II do zalecenia Rady z dnia 22 maja 2017 r. w sprawie europejskich ram kwalifikacji dla uczenia się przez całe życie i uchylającego zalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie ([Dz. Urz. UE C 189 z 15.06.2017, str. 15](https://api.sejm.gov.pl/eli/acts//text.html)), sformułowany za pomocą ogólnych charakterystyk efektów uczenia się dla kwalifikacji na poszczególnych poziomach, ujętych w kategoriach wiedzy, umiejętności i kompetencji społecznych;
 
-- **9)** razie potrzeby, dodatkowych warunkach, które muszą spełniać podmioty ubiegające się uprawnienie do certyfikowania na podstawie 41 ust. 1;
-- **10)** terminie dokonywania przeglądu kwalifikacji, uwzględnieniem terminu, którym 27 ust. 1.
+### 17)
 
-3. Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za włączoną do Zintegrowanego Systemu Kwalifikacji dniem ogłoszenia obwieszczenia, którym ust. 1.
+poziom Polskiej Ramy Kwalifikacji - zakres i stopień złożoności wymaganych efektów uczenia się dla kwalifikacji danego poziomu, sformułowanych za pomocą ogólnych charakterystyk efektów uczenia się;
 
-**Art. 26.**
+### 18)
 
-- **34)** Niezwłocznie po ogłoszeniu obwieszczenia, którym 25 ust. 1, minister właściwy publikuje na portalu Zintegrowanego Systemu Kwalifikacji informację możliwości składania wniosków nadanie uprawnienia do certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+przypisanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji - rozstrzygnięcie, podjęte na zasadach określonych w ustawie, o ustaleniu poziomu Polskiej Ramy Kwalifikacji dla danej kwalifikacji, na podstawie porównania efektów uczenia się wymaganych dla tej kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji;
 
-**Art. 27.**
+### 18a)
 
-- **34)** 1. Minister właściwy, nie rzadziej niż raz na dziesięć lat, dokonuje przeglądu kwalifikacji wolnorynkowej i kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji.
+sektorowa rada do spraw kompetencji - rada, o której mowa w art. 4c ust. 1 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości ([Dz. U. z 2024 r. poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2024/419/text.html));
 
-2. Do przeglądu kwalifikacji wolnorynkowej i kwalifikacji sektorowej przepisy 21 stosuje się odpowiednio, tym że:
+### 19)
 
-- **1)** zespół ekspertów, którym 21 ust. 1, sporządza opinię zawierającą propozycje dotyczące dalszego funkcjonowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej Zintegrowanym Systemie Kwalifikacji lub modyfikacji tej kwalifikacji;
-- **2)** zespołu ekspertów, którym 21 ust. 1, nie powołuje się przypadku, gdy okresie pięciu lat poprzedzających dokonanie przeglądu nie został wydany żaden certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej.
+Sektorowa Rama Kwalifikacji - opis poziomów kwalifikacji funkcjonujących w danym sektorze lub branży; poziomy Sektorowych Ram Kwalifikacji odpowiadają odpowiednim poziomom Polskiej Ramy Kwalifikacji;
 
-3. W przypadkach uzasadnionych potrzebami społeczno-gospodarczymi lub na wniosek sektorowej rady do spraw kompetencji, lub własnej inicjatywy minister właściwy może dokonać przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji terminie krótszym niż określony ust. 1.
+### 20)
 
-4. W wyniku przeglądu minister właściwy:
+uczenie się nieformalne - uzyskiwanie efektów uczenia się poprzez różnego rodzaju aktywność poza edukacją formalną i edukacją pozaformalną;
 
-- **1)** stwierdza, że dana kwalifikacja wolnorynkowa lub kwalifikacja sektorowa funkcjonuje Zintegrowanym Systemie Kwalifikacji zakresie określonym obwieszczeniu, którym 25 ust. 1;
-- **2)** drodze obwieszczenia dokonuje modyfikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej;
-- **3)** drodze obwieszczenia nadaje kwalifikacji wolnorynkowej lub kwalifikacji sektorowej status kwalifikacji archiwalnej, jeżeli okresie pięciu lat poprzedzających dokonanie przeglądu nie został wydany żaden certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej.
+### 21)
 
-5. Obwieszczenia, których ust. 4 2 i 3, podlegają ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+umiejętności - przyswojoną w procesie uczenia się zdolność do wykonywania zadań i rozwiązywania problemów właściwych dla dziedziny uczenia się lub działalności zawodowej;
 
-**Art. 28.** Modyfikacja kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, 27 ust. 4 2, nie może dotyczyć:
+### 22)
 
-**Art. 29.**
+walidacja - sprawdzenie, czy osoba ubiegająca się o nadanie określonej kwalifikacji, niezależnie od sposobu uczenia się tej osoby, osiągnęła wyodrębnioną część lub całość efektów uczenia się wymaganych dla tej kwalifikacji;
 
-1. Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej skutkuje wygaśnięciem mocy prawa uprawnień instytucji certyfikujących do certyfikowania tej kwalifikacji oraz wygaśnięciem mocy prawa umów, których 60 ust. 1, odniesieniu do tych instytucji certyfikujących.
+### 23)
 
-2. Osobom, które dniu ogłoszenia obwieszczenia, którym 27 ust. 4 3, rozpoczęły walidację danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej wydaje się certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej, jeżeli wynik walidacji jest pozytywny.
+wiedza - zbiór opisów obiektów i faktów, zasad, teorii oraz praktyk, przyswojonych w procesie uczenia się, odnoszących się do dziedziny uczenia się lub działalności zawodowej;
 
-3. Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej nie powoduje unieważnienia certyfikatów kwalifikacji wolnorynkowej lub certyfikatów kwalifikacji sektorowej, które zostały wydane przed dniem ogłoszenia obwieszczenia, którym 27 ust. 4 3.
+### 24)
 
-**Art. 30.** (uchylony)
+Zintegrowany Rejestr Kwalifikacji - rejestr publiczny w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2024 r. poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2024/307/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), prowadzony w systemie teleinformatycznym, ewidencjonujący kwalifikacje włączone do Zintegrowanego Systemu Kwalifikacji;
 
-**Art. 31.** (uchylony)
+### 25)
 
-**Art. 32.** (uchylony)
+Zintegrowany System Kwalifikacji - wyodrębnioną część Krajowego Systemu Kwalifikacji, w której obowiązują określone w ustawie standardy opisywania kwalifikacji oraz przypisywania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji, zasady włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji i ich ewidencjonowania w Zintegrowanym Rejestrze Kwalifikacji, a także zasady i standardy certyfikowania kwalifikacji oraz zapewniania jakości nadawania kwalifikacji.
 
-**Art. 33.** (uchylony)
+### Art. 3.
 
-**Art. 34.** (uchylony)
+Na zasadach określonych w ustawie do Zintegrowanego Systemu Kwalifikacji włącza się kwalifikacje pełne oraz kwalifikacje cząstkowe.
 
-**Art. 35.** (uchylony)
+### Art. 4.
 
-**Art. 36.**
+Zintegrowany System Kwalifikacji zapewnia:
 
-1. Minister kierujący działem administracji rządowej może, drodze rozporządzenia, upoważnić organ lub kierownika jednostki organizacyjnej jemu podległej lub niego nadzorowanej, organ samorządu zawodowego lub organ organizacji gospodarczej do:
+### 1)
 
-- **1)** rozpatrywania wniosków, których 14 i 15a,
-- **2)** dokonywania przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji, którym 27 ust. i 3 mając na uwadze efektywny przebieg postępowań, których i 2.
+jakość nadawanych kwalifikacji;
 
-2. Do rozpatrywania wniosków, których 14 i 15a, stosuje się odpowiednio 24 i 25 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego.
+### 2)
 
-**Art. 37.**
+możliwość uznawania efektów uczenia się uzyskanych w edukacji pozaformalnej i poprzez uczenie się nieformalne;
 
-1. Kwalifikacje rzemieślnicze mogą być włączone do Zintegrowanego Systemu Kwalifikacji ministra właściwego na wniosek Związku Rzemiosła Polskiego. Przepisy 15 i 16 stosuje się odpowiednio.
+### 3)
 
-2. Do rozpatrzenia wniosku stosuje się 17–19 i 21–25.
+możliwość etapowego gromadzenia osiągnięć oraz uznawania osiągnięć;
 
-3. Uprawnienia do certyfikowania kwalifikacji rzemieślniczych posiadają izby rzemieślnicze.
+### 4)
 
-4. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji rzemieślniczych prowadzonych izby rzemieślnicze wykonuje Związek Rzemiosła Polskiego.
+dostęp do informacji o kwalifikacjach możliwych do uzyskania na terytorium Rzeczypospolitej Polskiej;
 
-5. Kwalifikację rzemieślniczą uznaje się za funkcjonującą Zintegrowanym Systemie Kwalifikacji dniem ogłoszenia obwieszczenia, którym 25 ust. 1.
+### 5)
 
-6. Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji rozpoczęciu funkcjonowania Zintegrowanym Systemie Kwalifikacji danej kwalifikacji rzemieślniczej.
+możliwość porównania kwalifikacji uzyskanych na terytorium Rzeczypospolitej Polskiej z kwalifikacjami nadawanymi w innych państwach członkowskich Unii Europejskiej.
 
-7. Do kwalifikacji rzemieślniczych stosuje się odpowiednio przepisy 26–29, 36, 47 ust. 1, 4 i 5, 48–50, 63–71 i 75–80.
+### Rozdział 2 Polska Rama Kwalifikacji oraz przypisywanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji
 
-**Art. 38.**
+### Art. 5.
 
-1. Minister właściwy może włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikację uregulowaną, jeżeli odniesieniu do danej kwalifikacji:
+### 1.
 
-- **1)** jest możliwe przypisanie poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji;
-- **2)** przepisach odrębnych są określone:
-    - **a)** wymagania dotyczące walidacji,
-    - **b)** instytucje uprawnione do certyfikowania kwalifikacji uregulowanej lub warunki uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej;
+Ustanawia się Polską Ramę Kwalifikacji. Polska Rama Kwalifikacji służy do klasyfikowania kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji według poszczególnych poziomów Polskiej Ramy Kwalifikacji.
 
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** przepisach odrębnych jest określony sposób zapewniania jakości nadawania kwalifikacji;
-- **6)** (uchylony)
-- **7)** przepisach odrębnych są określone warunki, które musi spełnić osoba przystępująca do walidacji.
-- **8)** (uchylony)
+### 2.
 
-2. Minister właściwy przypisuje poziom Polskiej Ramy Kwalifikacji do kwalifikacji uregulowanej po dokonaniu porównania efektów uczenia wymaganych dla danej kwalifikacji charakterystykami poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia. Przepisy 21 i 21a stosuje się odpowiednio.
+Ogólne charakterystyki efektów uczenia się dla kwalifikacji na poszczególnych poziomach Polskiej Ramy Kwalifikacji obejmują:
 
-3. Minister właściwy drodze obwieszczenia informuje przypisaniu poziomu Polskiej Ramy Kwalifikacji do kwalifikacji uregulowanej oraz włączeniu kwalifikacji uregulowanej do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 1)
 
-3a. Obwieszczenie, którym ust. 3, zawiera:
+uniwersalne charakterystyki poziomów 1-8 pierwszego stopnia;
 
-- **1)** informację nazwie kwalifikacji uregulowanej;
-- **2)** informację poziomie Polskiej Ramy Kwalifikacji przypisanym do kwalifikacji uregulowanej oraz odniesieniu do poziomu odpowiednich Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji;
-- **3)** opis efektów uczenia się;
-- **4)** wymagania dotyczące walidacji;
-- **5)** informację warunkach, jakie musi spełnić osoba przystępująca do walidacji;
-- **6)** informacje innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji uregulowanej, jeżeli zostały określone, albo informację braku takich warunków;
-- **7)** informację okresie ważności dokumentu potwierdzającego nadanie kwalifikacji i warunkach przedłużenia ważności dokumentu, lub informację, że ważność tego dokumentu jest bezterminowa;
-- **8)** informację instytucjach uprawnionych do certyfikowania kwalifikacji uregulowanej lub warunkach uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej.
+### 2)
 
-4. Kwalifikację uregulowaną uznaje się za włączoną do Zintegrowanego Systemu Kwalifikacji dniem ogłoszenia obwieszczenia, którym ust. 3.
+charakterystyki poziomów 1-8 drugiego stopnia stanowiące rozwinięcie uniwersalnych charakterystyk pierwszego stopnia, które obejmują:
 
-5. Minister właściwy informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji włączeniu danej kwalifikacji uregulowanej do Zintegrowanego Systemu Kwalifikacji niezwłocznie po ogłoszeniu obwieszczenia, którym ust. 3.
+### a)
 
-**Art. 39.** (uchylony)
+charakterystyki poziomów 1-4 drugiego stopnia typowe dla kwalifikacji o charakterze ogólnym uzyskiwanych w ramach edukacji formalnej, edukacji pozaformalnej oraz uczenia się nieformalnego,
 
-**Art. 40.**
+### b)
 
-1. Przepisy 14–25 stosuje się odpowiednio do włączania do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu innych form kształcenia, których 162 ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, 2 ust. 2 3 ustawy dnia 30 kwietnia 2010 Polskiej Akademii Nauk i 2 ust. 3 2 ustawy dnia 30 kwietnia 2010 instytutach badawczych, oraz kursów i szkoleń, których 4 6 ustawy dnia 21 lutego 2019 Sieci Badawczej Łukasiewicz.
+charakterystykę poziomu 5 drugiego stopnia typową dla kwalifikacji uzyskiwanych po uzyskaniu kwalifikacji pełnej na poziomie 4,
 
-2. Do kwalifikacji cząstkowych, których ust. 1, stosuje się 26–29 i 36 oraz 41–81.
+### c)
 
-#### Rozdział 4 Wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji oraz zasady uzyskiwania uprawnień do certyfikowania
+charakterystyki poziomów 6-8 drugiego stopnia typowe dla kwalifikacji uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4,
 
-**Art. 41.**
+### d)
 
-1. Minister właściwy nadaje, drodze decyzji administracyjnej, uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej:
+charakterystyki poziomów 1-8 drugiego stopnia typowe dla kwalifikacji o charakterze zawodowym uzyskiwanych w ramach edukacji formalnej, edukacji pozaformalnej oraz nieformalnego uczenia się.
 
-- **1)** funkcjonującej Zintegrowanym Systemie Kwalifikacji;
-- **2)** odniesieniu do na portalu Zintegrowanego Systemu Kwalifikacji została ogłoszona informacja,
+### Art. 6.
 
-26.
+Uniwersalne charakterystyki poziomów 1-8 pierwszego stopnia określa załącznik do ustawy.
 
-2. Z wnioskiem nadanie uprawnienia do certyfikowania danej kwalifikacji wolnorynkowej może wystąpić podmiot prowadzący działalność gospodarczą, jeżeli:
+### Art. 7.
 
-- **1)** zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie ramowymi wymaganiami, których 25 ust. 2 4;
-- **2)** spełnia dodatkowe warunki określone 25 ust. 2 9;
-- **3)** nie zakończył lub nie zawiesił prowadzenia działalności gospodarczej, lub stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
-- **4)** nie posiada zaległości tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, ile był obowiązany do ich opłacania.
+### 1.
 
-3. Z wnioskiem nadanie uprawnienia do certyfikowania danej kwalifikacji sektorowej może wystąpić podmiot, którym 15a, jeżeli:
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, charakterystyki poziomów 1-4 drugiego stopnia typowe dla kwalifikacji o charakterze ogólnym, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
 
-- **1)** zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie ramowymi wymaganiami, których 25 ust. 2 4;
-- **2)** spełnia dodatkowe warunki określone 25 ust. 2 9;
-- **3)** nie zakończył lub nie zawiesił prowadzenia działalności statutowej lub stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
-- **4)** nie posiada zaległości tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, ile jest obowiązany do ich opłacania.
+### 1)
 
-**Art. 42.**
+w odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-1. Wniosek, którym 41 ust. 2 i 3, zawiera:
+### a)
 
-- **1)** dane podmiotu, którym 41 ust. 2 i 3:
-    - **a)** nazwę podmiotu,
-    - **b)** siedzibę i adres,
-    - **c)** numer identyfikacji podatkowej (NIP) lub, przypadku osoby zagranicznej, 3 5 ustawy dnia 6 marca 2018 zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, inny numer przypisany do celów identyfikacji podatkowej kraju siedziby lub zamieszkania,
-    - **d)** (uchylona)
-    - **e)** numer Krajowym Rejestrze Sądowym (KRS), ile został nadany,
-    - **f)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, odrębna ustawa przyznaje zdolność prawną,
-    - **g)** adres elektroniczny osoby składającej wniosek imieniu podmiotu, którym 41 ust. 2 i 3;
+w zakresie języka i komunikowania się - struktury i zasady tworzenia wypowiedzi,
 
-- **2)** wskazanie odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczy wniosek;
-- **3)** informacje spełnianiu warunków kadrowych, organizacyjnych i materialnych umożliwiających przeprowadzenie walidacji zgodnie ramowymi wymaganiami, których 25 ust. 2 4, oraz spełnianiu dodatkowych warunków, których 25 ust. 2 9.
+### b)
 
-2. Do wniosku dołącza się:
+w zakresie matematyki i nauk przyrodniczych - pojęcia i zależności oraz interpretacje,
 
-- **1)** oświadczenia następującej treści:
-    - **a)** „Oświadczam, że nie posiadam zaległości tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.”,
-    - **b)** odpowiednio „Oświadczam, że dane zawarte we wniosku nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej są zgodne prawdą.” albo „Oświadczam, że dane zawarte we wniosku nadanie uprawnienia do certyfikowania kwalifikacji sektorowej są zgodne prawdą.”;
+### c)
 
-- **2)** dowód wniesienia opłaty, 43 ust. lub 1a.
+w zakresie funkcjonowania społecznego - zasady funkcjonowania, role społeczne i tożsamość;
 
-3. Oświadczenia, których ust. 2 1, uwierzytelnia się przy użyciu mechanizmów określonych 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 2)
 
-4. Oświadczenia, których ust. 2 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń.
+w odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-5. Wniosek składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+### a)
 
-**Art. 43.**
+w zakresie języka i komunikowania się - odbieranie i tworzenie wypowiedzi oraz posługiwanie się językiem obcym,
 
-1. Wniosek, którym 41 ust. 2 i 3, podlega opłacie. Opłatę wysokości 10 000 zł wnosi się na rachunek bankowy wskazany ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi.
+### b)
 
-1a. W przypadku podmiotu, którym odpowiednio 14 lub 15a, opłata za wniosek nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczył wniosek włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, wynosi 50 % kwoty, ust. 1. Opłata ta stanowi dochód budżetu państwa i nie podlega zwrotowi.
+w zakresie matematyki i nauk przyrodniczych - dobór i korzystanie z narzędzi oraz prowadzenie obserwacji i doświadczeń,
 
-2. Kwota, ust. 1, podlega raz na pięć lat waloryzacji sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+### c)
 
-3. Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, ust. 1, obowiązującą kolejnych pięciu latach, obliczoną zgodnie ust. 2.
+w zakresie funkcjonowania społecznego - wyrażanie przynależności do wspólnot,
 
-**Art. 44.**
+### d)
 
-1. Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, którym 41 ust. 2 i 3, terminie 14 dni od dnia złożenia tego wniosku.
+w zakresie uczenia się - organizację i planowanie;
 
-2. Ocena formalna wniosku obejmuje ocenę zgodności wniosku wymogami, których 42 i 43 ust. i 1a.
+### 3)
 
-3. W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa podmiot, którym 41 ust. 2 i 3, do ich usunięcia terminie 30 dni. Termin, którym ust. 1, biegnie od dnia złożenia podmiot poprawionego wniosku.
+w odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-4. W przypadku nieusunięcia braków terminie, którym ust. 3, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego wniosek wraz informacją zakresie braków formalnych.
+### a)
 
-5. Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego.
+w zakresie języka i komunikowania się - kulturę komunikowania się,
 
-6. Termin, którym 35 § 3 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego, biegnie od dnia otrzymania ministra właściwego poprawnego formalnie wniosku, którym ust. 5.
+### b)
 
-**Art. 45.**
+w odniesieniu do zdrowia i środowiska - dbałość o zdrowie i bezpieczeństwo oraz postawę wobec środowiska,
 
-1. Minister kierujący działem administracji rządowej może, drodze rozporządzenia, upoważnić do wydawania decyzji, których 41 ust. 1, organ lub kierownika jednostki organizacyjnej podległej ministrowi lub niego nadzorowanej, organ samorządu zawodowego lub organ organizacji gospodarczej, mając na uwadze efektywny przebieg postępowań sprawach wydawania tych decyzji.
+### c)
 
-2. W przypadku udzielenia upoważnienia, którym ust. 1, właściwym do rozpatrzenia odwołania od decyzji wydanej pierwszej instancji jest minister właściwy.
+w zakresie funkcjonowania społecznego - podejmowanie obowiązków, współdziałanie i angażowanie się.
 
-**Art. 46.**
+### 2.
 
-1. Instytucja certyfikująca wnosi kwartalną opłatę wysokości 3 % przychodów opłat za walidację i certyfikowanie, jednak nie mniej niż zł od wydanego certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.
+Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki określą, w drodze rozporządzenia, charakterystykę poziomu 5 drugiego stopnia typową dla kwalifikacji uzyskiwanych po uzyskaniu kwalifikacji pełnej na poziomie 4, ujętą w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
 
-2. Instytucja certyfikująca, która zawarła umowę, 122a ust. ustawy dnia 14 grudnia 2016 Prawo oświatowe, wnosi kwartalną opłatę wysokości pomniejszonej kwotę stanowiącą iloczyn:
+### 1)
 
-- **1)** liczby uczniów lub absolwentów objętych umową, którzy danym kwartale nieodpłatnie przystąpili do walidacji oraz
-- **2)** średniej wysokości opłat za walidację i certyfikowanie danym kwartale, których 65 ust. 2.
+w odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-3. Opłatę, ust. i 2, wnosi się na rachunek bankowy wskazany ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata ta stanowi dochód budżetu państwa.
+### a)
 
-**Art. 47.**
+zakres i głębię - kompletność perspektywy poznawczej i zależności,
 
-1. Walidację przeprowadza instytucja certyfikująca sposób zgodny ramowymi wymaganiami, których 25 ust. 2 4.
+### b)
 
-2. Instytucja certyfikująca może upoważnić do przeprowadzania walidacji inny podmiot, jeżeli gwarantuje on przeprowadzanie walidacji sposób zgodny ramowymi wymaganiami, których 25 ust. 2 4.
+kontekst - uwarunkowania, skutki;
 
-3. Upoważnienie podmiotu, którym ust. 2, nie zwalnia instytucji certyfikującej odpowiedzialności za prawidłowość walidacji przeprowadzanej ten podmiot.
+### 2)
 
-4. Instytucja certyfikująca prowadzi stronę internetową, na udostępnia szczegółowe informacje sposobie organizowania i przeprowadzania walidacji zgodnym ramowymi wymaganiami, których 25 ust. 2 4, oraz aktualnie obowiązujących opłatach za walidację i certyfikowanie.
+w odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-5. Instytucja certyfikująca przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informację adresie strony internetowej, ust. 4.
+### a)
 
-**Art. 48.**
+w zakresie wykorzystania wiedzy - rozwiązywane problemy i wykonywane zadania,
 
-1. Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, uzyskane różnym miejscu i czasie, mogą być etapowo gromadzone i być podstawą nadania kwalifikacji toku certyfikowania.
+### b)
 
-2. Przez osiągnięcia, których ust. i 49, należy rozumieć wyodrębniony zbiór efektów uczenia się, których uzyskanie zostało potwierdzone walidacji, stanowiący część wymagań dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+w zakresie komunikowania się - odbieranie i tworzenie wypowiedzi, upowszechnianie wiedzy w środowisku naukowym i posługiwanie się językiem obcym,
 
-3. Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej mogą być poddawane walidacji różnym miejscu i czasie, jeżeli wymagania dotyczące walidacji, których 25 ust. 2 4, nie stanowią inaczej.
+### c)
 
-**Art. 49.**
+w zakresie organizacji pracy - planowanie i pracę zespołową,
 
-1. Instytucja certyfikująca może toku certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej uznać osiągnięcia, uzyskane związku ubieganiem się nadanie innej kwalifikacji włączonej do Zintegrowanego Systemu Kwalifikacji, za tożsame osiągnięciami stanowiącymi część wymagań dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, na podstawie dokumentu potwierdzającego nadanie innej kwalifikacji.
+### d)
 
-2. Instytucja certyfikująca może toku certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej uznać inne osiągnięcia, niż określone ust. 1, za tożsame osiągnięciami stanowiącymi część wymagań dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, jeżeli uzyskanie tych osiągnięć zostało sprawdzone przeprowadzonej walidacji.
+w zakresie uczenia się - planowanie własnego rozwoju i rozwoju innych osób;
 
-3. W przypadku, którym ust. 2, uznanie osiągnięć następuje na podstawie rozmowy osobą ubiegającą się nadanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej oraz na podstawie oceny przedstawionej tę osobę dokumentacji.
+### 3)
 
-4. Osiągnięcia uznane sposób określony ust. lub 2 nie podlegają ponownej walidacji.
+w odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-**Art. 49a.**
+### a)
 
-- **93)** 1. Warunkiem wydania instytucję certyfikującą certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej jest potwierdzenie drodze walidacji osiągnięcia wszystkich efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej.
+w zakresie ocen - krytyczne podejście,
 
-2. Certyfikat kwalifikacji wolnorynkowej i certyfikat kwalifikacji sektorowej zawierają:
+### b)
 
-- **1)** nazwę dokumentu odpowiednio: „certyfikat kwalifikacji wolnorynkowej” albo „certyfikat kwalifikacji sektorowej”;
-- **2)** nazwę kwalifikacji odpowiednio wolnorynkowej lub sektorowej;
-- **3)** nazwę i siedzibę instytucji certyfikującej;
-- **4)** informacje dotyczące posiadacza certyfikatu:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia;
+w zakresie odpowiedzialności - wypełnianie zobowiązań społecznych i działanie na rzecz interesu publicznego,
 
-- **5)** numer certyfikatu nadany instytucję certyfikującą;
-- **6)** znak graficzny określony przepisach wydanych na podstawie 10 ust. 4;
-- **7)** imię (imiona) i nazwisko oraz podpis osoby upoważnionej do wydania certyfikatu;
-- **8)** nazwę miejscowości i datę wydania certyfikatu;
-- **9)** okres ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej, którym 25 ust. 2 7.
+### c)
 
-3. Instytucja certyfikująca celu wykonania zadania realizowanego interesie publicznym, związanego potwierdzeniem osoby posiadania określonych kwalifikacji, prowadzi ewidencję wydanych certyfikatów kwalifikacji wolnorynkowych i certyfikatów kwalifikacji sektorowych obejmującą:
+w odniesieniu do roli zawodowej - niezależność i rozwój etosu.
 
-- **1)** dane, których ust. 2 2, 4, 5 i 8;
-- **2)** informacje datach przeprowadzenia walidacji i podmiotach przeprowadzających walidację;
-- **3)** informacje osiągnięciach uznanych sposób określony 49 ust. lub 2.
+### 3.
 
-4. Dane, których ust. 2 4, są przechowywane ewidencji, ust. 3, okres 5 lat.
+Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia, charakterystyki poziomów 6-8 drugiego stopnia typowe dla kwalifikacji uzyskiwanych w ramach systemu szkolnictwa wyższego i nauki po uzyskaniu kwalifikacji pełnej na poziomie 4, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
 
-5. Ewidencja, ust. 3, jest prowadzona postaci papierowej lub elektronicznej. System informatyczny służący do prowadzenia ewidencji postaci elektronicznej umożliwia eksport danych do formatu XML.
+### 1)
 
-6. Instytucja certyfikująca przechowuje protokoły przeprowadzonej walidacji albo rozmowy, 49 ust. 3, okres 5 lat, licząc od dnia wystawienia certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.
+w odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-#### Rozdział 5 Zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji
+### a)
 
-**Art. 50.**
+zakres i głębię - kompletność perspektywy poznawczej i zależności,
 
-1. Walidacja i certyfikowanie prowadzone instytucję certyfikującą są objęte systemem zapewniania jakości.
+### b)
 
-2. Na system zapewniania jakości walidacji i certyfikowania składają się:
+kontekst - uwarunkowania, skutki;
 
-- **1)** zewnętrzny system zapewniania jakości;
-- **2)** wewnętrzny system zapewniania jakości.
+### 2)
 
-**Art. 51.**
+w odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-1. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych prowadzonych instytucje certyfikujące, wyjątkiem instytucji, których ust. 1a, wykonuje podmiot prowadzący zorganizowaną działalność obszarze gospodarki, rynku pracy, edukacji lub szkoleń, który został wpisany na listę podmiotów uprawnionych do pełnienia funkcji zewnętrznego zapewniania jakości wobec instytucji certyfikujących, zwaną dalej „listą”.
+### a)
 
-1a. Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji sektorowych prowadzonych instytucje certyfikujące będące podmiotami, których 15a, które:
+w zakresie wykorzystania wiedzy - rozwiązywane problemy i wykonywane zadania,
 
-- **1)** są organami prowadzącymi branżowe centra umiejętności, których 4 30a ustawy dnia 14 grudnia 2016 Prawo oświatowe, lub
-- **2)** zawarły porozumienia, których 8 ust. 3a ustawy dnia 14 grudnia 2016 Prawo oświatowe wykonuje Instytut Badań Edukacyjnych Warszawie.
+### b)
 
-2. Listę prowadzi minister koordynator Zintegrowanego Systemu Kwalifikacji.
+w zakresie komunikowania się - odbieranie i tworzenie wypowiedzi, upowszechnianie wiedzy w środowisku naukowym i posługiwanie się językiem obcym,
 
-3. Lista jest podawana do publicznej wiadomości na portalu Zintegrowanego Systemu Kwalifikacji.
+### c)
 
-**Art. 52.**
+w zakresie organizacji pracy - planowanie i pracę zespołową,
 
-1. Wpis na listę podmiotu, którym 51 ust. 1, następuje drodze decyzji administracyjnej, po przeprowadzeniu naboru na listę.
+### d)
 
-2. W decyzji, ust. 1, wskazuje się grupy kwalifikacji wolnorynkowych lub kwalifikacji sektorowych określonych działów administracji rządowej, których dany podmiot może pełnić funkcję podmiotu zewnętrznego zapewniania jakości wobec instytucji certyfikujących.
+w zakresie uczenia się - planowanie własnego rozwoju i rozwoju innych osób;
 
-**Art. 53.**
+### 3)
 
-1. Minister koordynator Zintegrowanego Systemu Kwalifikacji ogłasza nabór na listę nie rzadziej niż raz na trzy lata. Informację naborze na listę podaje się na portalu Zintegrowanego Systemu Kwalifikacji.
+w odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-2. Z wnioskiem wpis na listę może wystąpić podmiot, którym 51 ust. 1, jeżeli:
+### a)
 
-- **1)** dysponuje odpowiednio przygotowaną kadrą do wykonywania zadań, których 66;
-- **2)** posiada wewnętrzny system zapewniania jakości przeprowadzanych procesów;
-- **3)** nie jest instytucją certyfikującą kwalifikacje wolnorynkowe lub kwalifikacje sektorowe należące do grup kwalifikacji, których 52 ust.
-- **4)** posiada co najmniej 10-letnie doświadczenie prowadzeniu działalności zakresie gospodarki, rynku pracy, edukacji lub szkoleń;
-- **5)** nie zakończył lub nie zawiesił prowadzenia działalności gospodarczej, lub stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
-- **6)** nie posiada zaległości tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, ile był obowiązany do ich opłacania.
+w zakresie ocen - krytyczne podejście,
 
-3. Przez kadrę, ust. 2 1, należy rozumieć pracowników, którzy jako zespół posiadają:
+### b)
 
-- **1)** ogólną wiedzę na temat zintegrowanego systemu kwalifikacji;
-- **2)** wiedzę zasadach walidacji oraz doświadczenie zakresie walidacji efektów uczenia się uzyskanych ramach edukacji formalnej i nieformalnej oraz uczenia się nieformalnego;
-- **3)** wiedzę zasadach wewnętrznego i zewnętrznego zapewniania jakości obszarze nadawania kwalifikacji wolnorynkowych lub kwalifikacji sektorowych należących do grup kwalifikacji, których 52 ust. 2, oraz doświadczenie zakresie prowadzenia ewaluacji lub audytów.
+w zakresie odpowiedzialności - wypełnianie zobowiązań społecznych i działanie na rzecz interesu publicznego,
 
-**Art. 54.**
+### c)
 
-1. Wniosek, którym 53 ust. 2, zawiera:
+w odniesieniu do roli zawodowej - niezależność i rozwój etosu.
 
-- **1)** dane podmiotu, którym 51 ust. 1:
-    - **a)** nazwę lub firmę albo imię i nazwisko, przypadku osoby fizycznej,
-    - **b)** siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, przypadku osoby fizycznej,
-    - **c)** numer identyfikacji podatkowej (NIP), numer PESEL lub, przypadku osoby zagranicznej, 3 5 ustawy dnia 6 marca 2018 zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, inny numer przypisany do celów identyfikacji podatkowej kraju siedziby lub zamieszkania,
-    - **d)** (uchylona)
-    - **e)** numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym (KRS) albo numer Centralnej Ewidencji i Informacji Działalności Gospodarczej, ile został nadany,
-    - **f)** imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, odrębna ustawa przyznaje zdolność prawną,
-    - **g)** adres elektroniczny osoby wnoszącej wniosek;
+### 4.
 
-- **2)** określenie grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych określonych działów administracji rządowej, których 52 ust. 2, odniesieniu do których dany podmiot wnioskuje pełnienie funkcji zewnętrznego zapewniania jakości;
-- **3)** imiona i nazwiska pracowników danego podmiotu wraz informacją ich wykształceniu i doświadczeniu zawodowym zakresie wykonywania zadań, których 66;
-- **4)** inne informacje mające wpływ na ocenę możliwości wykonywania dany podmiot zadań związanych zewnętrznym zapewnianiem jakości.
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, charakterystyki poziomów 1-8 drugiego stopnia typowe dla kwalifikacji o charakterze zawodowym, ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, przy czym:
 
-2. Do wniosku dołącza się:
+### 1)
 
-- **1)** przypadku podmiotu, który nie prowadzi działalności gospodarczej dokumenty potwierdzające spełnienie warunku prowadzenia zorganizowanej działalności obszarze gospodarki, rynku pracy, edukacji lub szkoleń, szczególności statut, uchwałę, umowę, lub oświadczenie wskazujące obszar, którym dany podmiot prowadzi działalność;
-- **2)** oświadczenia następującej treści:
-    - **a)** „Oświadczam, że posiadam co najmniej 10-letnie doświadczenie prowadzeniu działalności zakresie gospodarki, rynku pracy, edukacji lub szkoleń oraz posiadam wewnętrzny system zapewniania jakości przeprowadzanych procesów.”,
-    - **b)** „Oświadczam, że nie posiadam zaległości tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.”,
-    - **c)** „Oświadczam, że dane zawarte we wniosku nadanie uprawnień do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej są zgodne prawdą.”;
+w odniesieniu do wiedzy charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-- **3)** dowód wniesienia opłaty, 55 ust. 1.
+### a)
 
-3. Oświadczenia, których ust. 2 i 2, uwierzytelnia się przy użyciu mechanizmów określonych 20a ust. albo 2 ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne.
+w zakresie teorii i zasad - metody i rozwiązania, działalność gospodarczą i etykę,
 
-4. Oświadczenia, których ust. 2 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie odpowiedzialności karnej za składanie fałszywych oświadczeń.
+### b)
 
-5. Wniosek składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+w zakresie zjawisk i procesów - właściwości i uwarunkowania,
 
-**Art. 55.**
+### c)
 
-1. Wniosek, którym 53 ust. 2, podlega opłacie. Opłatę wysokości 2000 zł wnosi się na rachunek bankowy wskazany ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi.
+w zakresie organizacji prac - metody i technologie, rozwiązania organizacyjne oraz bezpieczeństwo i higienę pracy,
 
-2. Kwota, ust. 1, podlega raz na pięć lat waloryzacji sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+### d)
 
-3. Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, ust. 1, obowiązującą kolejnych pięciu latach, obliczoną zgodnie ust. 2.
+w zakresie narzędzi i materiałów - działanie i cechy;
 
-**Art. 56.**
+### 2)
 
-1. Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, którym 53 ust. 2, terminie 14 dni od dnia złożenia tego wniosku.
+w odniesieniu do umiejętności charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-2. Ocena formalna wniosku obejmuje ocenę zgodności wniosku wymogami, których 54 i 55 ust. 1.
+### a)
 
-3. W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa wnioskodawcę do ich usunięcia terminie 30 dni.
+w odniesieniu do informacji - dokumentację, obliczenia, analizę, syntezę i prognozowanie,
 
-4. W przypadku nieusunięcia braków terminie, którym ust. 3, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego wniosek wraz informacją zakresie braków formalnych.
+### b)
 
-5. Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje do ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+w zakresie organizacji pracy - planowanie i korygowanie planów, wykonywanie, korygowanie działań i obieg informacji,
 
-6. Termin, którym 35 § 3 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego, biegnie od dnia otrzymania ministra koordynatora Zintegrowanego Systemu Kwalifikacji poprawnego formalnie wniosku, którym ust. 5.
+### c)
 
-**Art. 57.**
+w zakresie narzędzi i materiałów - użytkowanie i dobór,
 
-1. Minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje komisję do oceny wniosku, którym 53 ust. 2.
+### d)
 
-2. W skład komisji wchodzi:
+w zakresie uczenia się i rozwoju zawodowego - rozwój własny i wspieranie rozwoju innych osób;
 
-- **1)** przedstawiciel ministra koordynatora Zintegrowanego Systemu Kwalifikacji, jako przewodniczący komisji;
-- **2)** po jednym przedstawicielu ministrów właściwych dla działów administracji rządowej, których 54 ust.
-- **3)** trzech przedstawicieli Rady Interesariuszy.
+### 3)
 
-3. Komisja przedstawia ocenę wniosków ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji.
+w odniesieniu do kompetencji społecznych charakterystyka efektów uczenia się dla danego poziomu Polskiej Ramy Kwalifikacji określa:
 
-**Art. 58.**
+### a)
 
-1. Wpisu na listę danego podmiotu dokonuje się na okres sześciu lat.
+w zakresie przestrzeganie reguł - zasady, instrukcje i prawo,
 
-2. Minister koordynator Zintegrowanego Systemu Kwalifikacji może, urzędu, przedłużyć wpis na listę jednokrotnie odniesieniu do danego podmiotu kolejne sześć lat, jeżeli dany podmiot prawidłowo wykonuje funkcję zewnętrznego zapewniania jakości.
+### b)
 
-3. Przed przedłużeniem wpisu, którym ust. 2, minister koordynator Zintegrowanego Systemu Kwalifikacji zasięga opinii ministrów właściwych dla działów administracji rządowej, których 52 ust. 2.
+w zakresie współpracy - komunikowanie się i relacje w środowisku zawodowym,
 
-**Art. 59.**
+### c)
 
-1. Jeżeli decyzja administracyjna nadaniu uprawnień danej instytucji certyfikującej, 41 ust. 1, jest ostateczna, minister właściwy wskazuje listy podmiot zewnętrznego zapewniania jakości, któremu powierza wobec tej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, wyjątkiem instytucji, których 51 ust. 1a.
+w zakresie odpowiedzialności - normy etyczne.
 
-2. W danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących uprawnionych do certyfikowania tej kwalifikacji może wykonywać nie więcej niż 5 podmiotów wpisanych na listę.
+### 5.
 
-3. Wskazując dany podmiot listy minister właściwy uwzględnia:
+W rozporządzeniach, o których mowa w ust. 1-4, uwzględnia się konieczność zapewnienia spójności z uniwersalnymi charakterystykami poziomów 1-8 pierwszego stopnia oraz aktualny stan wiedzy i postępu technologicznego w poszczególnych dziedzinach.
 
-- **1)** warunek, którym ust.
-- **2)** racjonalność ekonomiczną i efektywność wykorzystania istniejących zasobów;
-- **2)** zasadę równomiernego rozdzielania zadań pomiędzy podmioty wpisane na listę.
+### Art. 8.
 
-**Art. 60.**
+Do kwalifikacji pełnych przypisuje się następujące poziomy Polskiej Ramy Kwalifikacji:
 
-1. Minister właściwy, drodze umowy, powierza wskazanemu listy podmiotowi pełnienie funkcji zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej, wyjątkiem instytucji, których 51 ust. 1a.
+### 1[7) W brzmieniu ustalonym przez art. 9 pkt 2 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:7:))
 
-1a. Do powierzenia funkcji zewnętrznego zapewniania jakości stosuje się przepisy niniejszej ustawy oraz przepisy wydane na podstawie ust. 5.
+świadectwo ukończenia sześcioletniej szkoły podstawowej i świadectwo ukończenia sześcioletniej ogólnokształcącej szkoły muzycznej I stopnia - potwierdza nadanie kwalifikacji na poziomie 1 Polskiej Ramy Kwalifikacji;
 
-2. Podmioty, którym powierzono funkcję zewnętrznego zapewniania jakości odniesieniu do instytucji certyfikujących danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, wyjątkiem Instytutu Badań Edukacyjnych Warszawie, są obowiązane do współpracy celu zapewnienia spójnego standardu jakości certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+### 2)
 
-3. Podmiot, któremu powierzono funkcję zewnętrznego zapewniania jakości, może rozwiązać umowę, ust. 1, ważnych powodów zachowaniem trzymiesięcznego terminu wypowiedzenia.
+świadectwo ukończenia ośmioletniej szkoły podstawowej i świadectwo ukończenia gimnazjum - potwierdza nadanie kwalifikacji na poziomie 2 Polskiej Ramy Kwalifikacji;
 
-4. Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji rozwiązaniu lub wygaśnięciu umowy, ust. 1.
+### 2a[8) Dodany przez art. 9 pkt 2 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:8:))
 
-5. Minister właściwy do spraw oświaty i wychowania określi drodze rozporządzenia:
+świadectwo ukończenia szkoły muzycznej I stopnia i świadectwo ukończenia ośmioletniej ogólnokształcącej szkoły muzycznej I stopnia - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji;
 
-- **1)** regulamin pracy komisji, 57 ust. 1,
-- **2)** wzór umowy, ust. 1,
-- **3)** sposób ustalania wysokości wynagrodzenia tytułu umowy, ust. 1, dla podmiotu, któremu powierza się funkcję zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej, okres, na jaki umowa może być zawarta, oraz szczegółowe warunki rozwiązania lub wygaśnięcia umowy uwzględniając potrzebę zapewnienia sprawnego przebiegu postępowania, prawidłowego i efektywnego wykonywania zadań związanych zewnętrznym zapewnianiem jakości oraz różnice zewnętrznym zapewnianiu jakości wynikające ze specyfiki poszczególnych kwalifikacji.
+### 3)
 
-6. W zakresie nieuregulowanym ustawą do umowy, ust. 1, mają zastosowanie przepisy ustawy dnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. poz. 1061 i 1237) dotyczące umowy zlecenia.
+dyplom potwierdzający kwalifikacje zawodowe:
 
-**Art. 61.**
+### a)
 
-- **111)** Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za funkcjonującą Zintegrowanym Systemie Kwalifikacji, jeżeli odniesieniu do tej kwalifikacji co najmniej jeden podmiot posiada uprawnienie do certyfikowania, którym 41 ust. 1.
+po ukończeniu zasadniczej szkoły zawodowej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. a ustawy z dnia 7 września 1991 r. o systemie oświaty,
 
-**Art. 62.**
+### b)
 
-- **111)** Instytucja certyfikująca rozpoczyna certyfikowanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej od dnia nadania uprawnienia do certyfikowania, którym 41 ust. 1.
+po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty
 
-**Art. 63.**
+- oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-1. Instytucja certyfikująca opracowuje i stosuje wewnętrzny system zapewniania jakości.
+### 3a)
 
-2. Wewnętrzny system zapewniania jakości dotyczy zasad postępowania, procedur, metod oraz rozwiązań organizacyjnych służących zapewnianiu poprawności walidacji i certyfikowania oraz doskonaleniu walidacji i certyfikowania.
+dyplom zawodowy po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-3. Na wewnętrzny system zapewniania jakości instytucji certyfikującej składają się szczególności:
+### 4)
 
-- **1)** rozwiązania zapewniające rozdzielenie procesów kształcenia i szkolenia od walidacji;
-- **2)** stałe monitorowanie i bieżąca ocena walidacji i certyfikowania;
-- **3)** ewaluacja wewnętrzna walidacji i certyfikowania.
+świadectwo czeladnicze wydawane po ukończeniu zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-4. Podmiot upoważniony do przeprowadzania walidacji, którym 47 ust. 2, posiada wewnętrzny system zapewniania jakości.
+### 4a)
 
-**Art. 64.**
+świadectwo czeladnicze wydawane po ukończeniu branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach, o których mowa w art. 3 ust. 3b ustawy z dnia 22 marca 1989 r. o rzemiośle - potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-1. Instytucja certyfikująca przeprowadza okresową ewaluację wewnętrzną dotyczącą nadawania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych ministrów właściwych do Zintegrowanego Systemu Kwalifikacji nie rzadziej niż raz na trzy lata.
+### 5)
 
-2. Instytucja certyfikująca sporządza raport ewaluacji wewnętrznej, który zawiera:
+dyplom potwierdzający kwalifikacje zawodowe:
 
-- **1)** analizę dokumentacji przebiegu walidacji i certyfikowania;
-- **2)** ocenę stosowanych metod walidacji pod względem ich zgodności ramowymi wymaganiami, których 25 ust. 2 4, oraz pod względem trafności stosowanych metod i kryteriów;
-- **3)** informacje działaniach zakresie doskonalenia metod walidacji i certyfikowania;
-- **4)** informacje działaniach zakresie doskonalenia wewnętrznego systemu zapewniania jakości.
+### a)
 
-3. Raport ewaluacji wewnętrznej instytucja certyfikująca niezwłocznie przekazuje do podmiotu, któremu powierzono wobec niej funkcję zewnętrznego zapewniania jakości, oraz do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+po ukończeniu technikum lub szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
 
-**Art. 65.**
+### b)
 
-1. W odniesieniu do każdej kwalifikacji wolnorynkowej i każdej kwalifikacji sektorowej instytucja certyfikująca terminie 20 dni roboczych po zakończeniu każdego kwartału kalendarzowego jest obowiązana do przekazania podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informacji o:
+po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty
 
-- **1)** liczbie wydanych dokumentów potwierdzających nadanie kwalifikacji;
-- **2)** średniej wysokości opłat za walidację i certyfikowanie danym kwartale;
-- **3)** wysokości przychodów uzyskanych danym kwartale opłat za walidację i certyfikowanie;
-- **4)** liczbie osób, które nieodpłatnie przystąpiły danym kwartale do walidacji, zgodnie umową, 122a ust. ustawy dnia 14 grudnia 2016 Prawo oświatowe.
+- oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-2. Informacje, których ust. 1, przekazuje się według stanu na ostatni dzień danego kwartału.
+### 5a)
 
-2a. Do podmiotów nadających kwalifikacje rzemieślnicze nie stosuje się przepisów ust. 2–4.
+dyplom zawodowy:
 
-3. (uchylony)
+### a)
 
-**Art. 66.** Zewnętrzne zapewnianie jakości wobec danej instytucji certyfikującej obejmuje:
+po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
 
-**Art. 67.** Podmiot zewnętrznego zapewniania jakości prowadzi monitorowanie wewnętrznego systemu zapewniania jakości stosowanego danej instytucji certyfikującej, którym 66 1, na podstawie analizy:
+### b)
 
-**Art. 68.**
+po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty
 
-1. Podmiot zewnętrznego zapewniania jakości, nie rzadziej, niż raz na pięć lat, sporządza raport zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej zakresie, którym 66.
+- oraz po zdaniu egzaminów zawodowych w danym zawodzie - potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-2. Raport zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej zawiera:
+### 6)
 
-- **1)** wyniki weryfikacji spełniania daną instytucję certyfikującą wymagań, których 41 ust. 2 i 3;
-- **2)** analizę walidacji i certyfikowania przeprowadzanych daną instytucję certyfikującą;
-- **3)** analizę i ocenę funkcjonowania wewnętrznego systemu zapewniania jakości danej instytucji certyfikującej;
-- **4)** opis nieprawidłowości działaniu instytucji certyfikującej, jeżeli zostały stwierdzone, oraz zakres, przyczyny i skutki stwierdzonych nieprawidłowości;
-- **5)** rekomendacje zmian służących poprawie jakości walidacji i certyfikowania przeprowadzanych daną instytucję certyfikującą oraz funkcjonowania wewnętrznego systemu zapewniania jakości danej instytucji certyfikującej.
+dyplom ukończenia szkoły artystycznej potwierdzający uzyskanie tytułu zawodowego - potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w przepisach wydanych na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-3. Podmiot zewnętrznego zapewniania jakości niezwłocznie przekazuje do danej instytucji certyfikującej oraz do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji raport zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej.
+### 7)
 
-**Art. 69.**
+świadectwo dojrzałości - potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji;
 
-1. W zakresie niezbędnym do realizacji zadań, których 66 i 3:
+### 7a)
 
-- **1)** podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości może żądać od instytucji certyfikującej udzielenia informacji i wglądu do dokumentacji posiadanej instytucję certyfikującą;
-- **2)** osoby wyznaczone podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości, po uprzednim zawiadomieniu instytucji certyfikującej, mają prawo:
-    - **a)** wstępu do siedziby instytucji certyfikującej lub miejsca prowadzenia działalności oraz do miejsca prowadzenia walidacji celu oceny spełniania instytucję certyfikującą ramowych wymagań, których 25 ust. 2 4 i 41 ust. 2 i 3,
-    - **b)** udziału charakterze obserwatora wykonywaniu instytucję certyfikującą zadań związanych walidacją.
+dyplom zawodowy po ukończeniu szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie nauczanym wyłącznie w szkole policealnej - potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
 
-2. Z czynności, których ust. 2, osoba wyznaczona podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości sporządza protokół. Protokół podpisuje ta osoba oraz osoba reprezentująca instytucję certyfikującą.
+### 8)
 
-**Art. 70.**
+dyplom ukończenia kolegium nauczycielskiego, dyplom ukończenia nauczycielskiego kolegium języków obcych, dyplom ukończenia kolegium pracowników służb społecznych, świadectwo dyplomowanego specjalisty i świadectwo dyplomowanego specjalisty technologa - potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji;
 
-- **123)** Podmiot, któremu powierzono wobec danej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, niezwłocznie zawiadamia ministra właściwego stwierdzonych nieprawidłowościach działalności instytucji certyfikującej oraz niespełnianiu instytucję certyfikującą warunków, których 41 ust. 2 i 3.
+### 9)
 
-**Art. 71.**
+dyplom ukończenia studiów pierwszego stopnia - potwierdza nadanie kwalifikacji na poziomie 6 Polskiej Ramy Kwalifikacji;
 
-1. Podmiot zewnętrznego zapewniania jakości co trzy lata przedstawia ministrom właściwym dla działów administracji rządowej, których 52 ust. 2, sprawozdanie wykonywania zadań związanych zewnętrznym zapewnianiem jakości zakresie określonych grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych tych działów administracji rządowej, obejmujące:
+### 10)
 
-- **1)** wykaz przeprowadzonych działań ramach wykonywania funkcji podmiotu zewnętrznego zapewniania jakości wobec określonych instytucji certyfikujących;
-- **2)** wnioski przeprowadzonych ewaluacji zewnętrznych poszczególnych instytucjach certyfikujących;
-- **3)** informację zakresie i wynikach współpracy, 60 ust. 2.
+dyplom ukończenia studiów drugiego stopnia oraz dyplom ukończenia jednolitych studiów magisterskich - potwierdza nadanie kwalifikacji na poziomie 7 Polskiej Ramy Kwalifikacji;
 
-2. Podmiot zewnętrznego zapewniania jakości przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji sprawozdanie, którym ust. 1.
+### 11)
 
-**Art. 72.**
+dyplom doktorski - potwierdza nadanie kwalifikacji na poziomie 8 Polskiej Ramy Kwalifikacji.
 
-1. Podmiot zewnętrznego zapewniania jakości jest obowiązany do niezwłocznego zawiadomienia ministra koordynatora Zintegrowanego Systemu Kwalifikacji oraz ministra właściwego o:
+### Art. 9.
 
-- **1)** niespełnianiu warunków, których 53 ust. 2 i 2, oraz działaniach podjętych celu spełnienia tych wymagań;
-- **2)** zakończeniu lub zawieszeniu prowadzenia działalności gospodarczej oraz otwarciu likwidacji lub ogłoszeniu upadłości.
+### 1.
 
-2. Zakończenie lub zawieszenie prowadzenia dany podmiot działalności gospodarczej lub otwarcie wobec tego podmiotu likwidacji albo ogłoszenie jego upadłości skutkuje wygaśnięciem mocy prawa umów, których 60 ust. 1, odniesieniu do poszczególnych instytucji certyfikujących. W odniesieniu do tych instytucji certyfikujących minister właściwy jest obowiązany niezwłocznie wskazać listy podmiot zewnętrznego zapewniania jakości zgodnie 59 ust. 1.
+Poziomy Polskiej Ramy Kwalifikacji przypisuje się do kwalifikacji cząstkowych, jeżeli:
 
-3. Podmiot zewnętrznego zapewniania jakości jest obowiązany do niezwłocznego zawiadomienia podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji zmianie danych, których 83 ust. 7 lit. a.
+### 1)
 
-**Art. 73.**
+efekty uczenia się wymagane dla danej kwalifikacji zostały opisane w sposób zawierający:
 
-1. Minister koordynator Zintegrowanego Systemu Kwalifikacji, na wniosek ministra właściwego albo własnej inicjatywy, może przeprowadzić kontrolę podmiotu, któremu powierzono funkcję zewnętrznego zapewniania jakości określonych grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych określonych działów administracji rządowej, których 52 ust. 2, zakresie prawidłowości wykonywania zadań związanych zewnętrznym zapewnianiem jakości.
+### a)
 
-2. Na podstawie wyników przeprowadzonej kontroli minister koordynator Zintegrowanego Systemu Kwalifikacji jest uprawniony do wezwania podmiotu, pod rygorem skreślenia listy, do usunięcia wyznaczonym terminie stwierdzonych nieprawidłowości wykonywaniu zadań związanych zewnętrznym zapewnianiem jakości.
+syntetyczną charakterystykę efektów uczenia się,
 
-3. Do kontroli, ust. 1, stosuje się przepisy ustawy dnia 15 lipca 2011 kontroli administracji rządowej (Dz. U. 2020 poz. 224).
+### b)
 
-**Art. 74.**
+wyodrębnione zestawy efektów uczenia się,
 
-1. Minister koordynator Zintegrowanego Systemu Kwalifikacji, własnej inicjatywy albo na wniosek ministra właściwego, skreśla listy podmiot zewnętrznego zapewniania jakości, jeżeli:
+### c[9) W brzmieniu ustalonym przez art. 9 pkt 3 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:9:))
 
-- **1)** dany podmiot dwukrotnie odmówił zawarcia umowy, 60 ust. 1;
-- **2)** dany podmiot nie usunął stwierdzonych nieprawidłowości wyznaczonym terminie, którym 73 ust.
-- **3)** wbrew obowiązkowi, którym 70, dany podmiot nie zawiadomił, że instytucji certyfikującej zostały stwierdzone nieprawidłowości lub instytucja certyfikująca przestała spełniać wymagania, których 41 ust. 2 i 3;
-- **4)** dany podmiot przestał spełniać warunki, których 53 ust. 2 1–3 i 5.
+poszczególne efekty uczenia się pogrupowane w zestawy efektów uczenia się wraz z kryteriami weryfikacji tych efektów;
 
-2. Skreślenie listy następuje drodze decyzji administracyjnej. Decyzji nadaje się rygor natychmiastowej wykonalności.
+### 2)
 
-3. Skreślenie listy skutkuje wygaśnięciem mocy prawa umów, których 60 ust. 1, odniesieniu do poszczególnych instytucji certyfikujących. W odniesieniu do tych instytucji certyfikujących minister właściwy jest obowiązany niezwłocznie wskazać listy podmiot zewnętrznego zapewniania jakości zgodnie 59 ust. 1.
+dokonano porównania efektów uczenia się wymaganych dla danej kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia.
 
-4. Minister koordynator Zintegrowanego Systemu Kwalifikacji niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji wydaniu decyzji administracyjnej, ust. 2.
+### 2[10) Ze zmianą wprowadzoną przez art. 9 pkt 3 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:10:).
 
-#### Rozdział 6 Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji
+Warunek, o którym mowa w ust. 1 pkt 1, nie dotyczy porównania wymaganych efektów uczenia się z charakterystykami poziomów Polskiej Ramy Kwalifikacji dla kwalifikacji wyodrębnionej w zawodzie, o której mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, oraz kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
 
-**Art. 75.**
+### Art. 10.
 
-- **129)** Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych ministrów właściwych do Zintegrowanego Systemu Kwalifikacji sprawują ministrowie właściwi.
+### 1.
 
-**Art. 76.**
+Przypisanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji uprawnia instytucje certyfikujące do umieszczania na dokumentach potwierdzających nadanie danej kwalifikacji znaku graficznego informującego o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji.
 
-1. Instytucja certyfikująca, nie rzadziej niż raz na dwa lata, przedstawia ministrowi właściwemu sprawozdanie działalności.
+### 2.
 
-2. Pierwsze sprawozdanie obejmuje:
+Znak graficzny jest umieszczany wyłącznie na dokumentach potwierdzających nadanie kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji.
 
-- **1)** informacje potwierdzające spełnianie instytucje certyfikujące wymagań, których 41 ust. 2 i 2 lub ust. 3 i
-- **2)** opis istotnych elementów walidacji;
-- **3)** opis istotnych elementów funkcjonowania wewnętrznego systemu zapewniania jakości.
+### 3.
 
-3. Kolejne sprawozdanie działalności obejmuje:
+Znaki graficzne informujące o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji są odrębne dla kwalifikacji pełnych i dla kwalifikacji cząstkowych.
 
-- **1)** zmiany, jakie nastąpiły odniesieniu do poprzedniego sprawozdania zakresie, którym ust.
-- **2)** wnioski ewaluacji wewnętrznej, 64 ust. 1, jeżeli ewaluacja wewnętrzna została przeprowadzona okresie od złożenia poprzedniego sprawozdania;
-- **3)** wnioski ewaluacji zewnętrznej, 68 ust. 1, jeżeli ewaluacja zewnętrzna została przeprowadzona okresie od złożenia poprzedniego sprawozdania;
-- **4)** informacje podjętych działaniach wynikających wniosków ewaluacji wewnętrznej i ewaluacji zewnętrznej, jeżeli ewaluacje były przeprowadzone okresie od złożenia poprzedniego sprawozdania;
-- **5)** informacje realizacji obowiązku, którym 77.
+### 4.
 
-4. Sprawozdanie działalności instytucja certyfikująca przekazuje również podmiotowi zewnętrznego zapewniania jakości i podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji.
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wzory znaków graficznych informujących o przypisanym do kwalifikacji poziomie Polskiej Ramy Kwalifikacji i odpowiadającym mu poziomie europejskich ram kwalifikacji, uwzględniając konieczność ich dostosowania do funkcjonujących wzorów druków szkolnych i innych dokumentów potwierdzających nadanie kwalifikacji.
 
-**Art. 77.**
+### Art. 11.
 
-1. Instytucja certyfikująca jest obowiązana do niezwłocznego zawiadomienia ministra właściwego, podmiotu, któremu powierzono wobec niej funkcję zewnętrznego zapewniania jakości, oraz podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji o:
+### 1.
 
-- **1)** niespełnianiu warunków, których 41 ust. 2 i 3, oraz działaniach podjętych celu spełnienia tych wymagań;
-- **2)** zakończeniu lub zawieszeniu prowadzenia działalności oraz otwarciu likwidacji lub ogłoszeniu jej upadłości.
+Charakterystyki wybranych poziomów Polskiej Ramy Kwalifikacji drugiego stopnia typowe dla kwalifikacji o charakterze zawodowym, o których mowa w przepisach wydanych na podstawie art. 7 ust. 4, mogą być rozwijane za pomocą Sektorowych Ram Kwalifikacji uwzględniających specyfikę danej branży lub sektora.
 
-2. Zakończenie lub zawieszenie prowadzenia instytucję certyfikującą działalności, odpowiednio 41 ust. 2 lub ust. 3 3, lub otwarcie wobec tej instytucji likwidacji albo ogłoszenie jej upadłości skutkuje wygaśnięciem mocy prawa uprawnień nadanych jej do certyfikowania oraz wygaśnięciem mocy prawa umowy, 60 ust. 1, odniesieniu do tej instytucji certyfikującej.
+### 2.
 
-3. Instytucja certyfikująca jest obowiązana do niezwłocznego zawiadomienia podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji zmianie danych, których 83 ust. 6 lit. a, d oraz e, a także udzieleniu upoważnienia, którym 47 ust. 2.
+Minister właściwy, z własnej inicjatywy lub na wniosek sektorowej rady do spraw kompetencji lub zainteresowanego podmiotu, podejmuje działania w celu włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji, jeżeli wstępna ocena celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji jest pozytywna.
 
-**Art. 78.**
+### 3.
 
-1. Jeżeli zachodzi uzasadnione podejrzenie występowania rażących nieprawidłowości certyfikowaniu danej instytucji certyfikującej, minister właściwy może:
+Wniosek, o którym mowa w ust. 2, zawiera:
 
-- **1)** zlecić podmiotowi, któremu powierzono wobec danej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, przeprowadzenie ewaluacji zewnętrznej trybie nadzwyczajnym;
-- **2)** przeprowadzić kontrolę danej instytucji certyfikującej.
+### 1)
 
-2. Podmiot zewnętrznego zapewniania jakości sporządza raport ewaluacji zewnętrznej, ust. 1, którym dokonuje opisu ustalonego stanu faktycznego, tym stwierdzonych nieprawidłowości działalności instytucji certyfikującej, oraz określa zalecone działania naprawcze służące poprawie walidacji i certyfikowania prowadzonych instytucję certyfikującą albo stwierdza, że walidacja i certyfikowanie są prowadzone prawidłowo tę instytucję.
+określenie nazwy sektora lub branży;
 
-**Art. 79.**
+### 2)
 
-1. Minister właściwy może przeprowadzić kontrolę siedzibie instytucji certyfikującej lub miejscu prowadzenia działalności, żądać dokumentacji posiadanej instytucję certyfikującą oraz występować do instytucji certyfikującej udzielenie informacji związanych organizacją i przebiegiem walidacji i certyfikowania.
+określenie podstawowych rodzajów działalności, do których odnosi się Sektorowa Rama Kwalifikacji;
 
-2. Minister właściwy zawiadamia instytucję certyfikującą zamiarze przeprowadzenia kontroli nie później niż 7 dni przed dniem rozpoczęcia kontroli.
+### 3)
 
-3. Kontrolę przeprowadzają osoba lub osoby wyznaczone ministra właściwego, na podstawie okazanego imiennego upoważnienia wydanego ministra właściwego i po okazaniu legitymacji służbowej.
+charakterystyki efektów uczenia się dla poziomów Sektorowych Ram Kwalifikacji ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych, uwzględniające przepisy wydane na podstawie art. 7 ust. 4;
 
-4. Osoba przeprowadzająca kontrolę podlega wyłączeniu udziału kontroli, na wniosek lub urzędu, jeżeli kontrola może dotyczyć jej praw lub obowiązków, praw lub obowiązków jej małżonka, osoby pozostającej nią faktycznie we wspólnym pożyciu, krewnych lub powinowatych do drugiego stopnia lub osoby związanej nią tytułu przysposobienia, opieki lub kurateli. Powody wyłączenia trwają mimo ustania małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+### 4)
 
-5. Przed rozpoczęciem kontroli osoba przeprowadzająca kontrolę składa pisemne oświadczenie braku lub istnieniu okoliczności uzasadniających wyłączenie udziału kontroli.
+ocenę celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz opinie reprezentantów branży lub sektora w tym zakresie, w szczególności opinie sektorowych rad do spraw kompetencji, działających w branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji;
 
-6. Osoba przeprowadzająca kontrolę podlega wyłączeniu również przypadku zaistnienia toku kontroli okoliczności mogących wywołać uzasadnione wątpliwości co do jej bezstronności.
+### 5)
 
-7. O wyłączeniu, którym ust. 4 i 6, decyduje minister właściwy.
+ocenę zgodności Sektorowych Ram Kwalifikacji z Polską Ramą Kwalifikacji, w szczególności w zakresie spójności Sektorowych Ram Kwalifikacji z charakterystykami odpowiednich poziomów Polskiej Ramy Kwalifikacji drugiego stopnia typowymi dla kwalifikacji o charakterze zawodowym, określonymi w przepisach wydanych na podstawie art. 7 ust. 4;
 
-8. Osobie przeprowadzającej kontrolę przysługuje prawo wstępu do pomieszczeń, których działa instytucja certyfikująca, wglądu do dokumentacji posiadanej instytucję certyfikującą, sporządzania kopii dokumentacji oraz żądania udzielenia ustnych lub pisemnych wyjaśnień.
+### 6[11) Ze zmianą wprowadzoną przez art. 9 pkt 4 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:11:))
 
-9. Czynności kontrolnych dokonuje się obecności upoważnionego przedstawiciela instytucji certyfikującej, zwanego dalej „osobą upoważnioną”. Osoba upoważniona jest obowiązana udzielać osobie przeprowadzającej kontrolę wszelkich potrzebnych informacji oraz zapewnić jej warunki sprawnego przeprowadzenia kontroli.
+pozytywną opinię Rady Interesariuszy Zintegrowanego Systemu Kwalifikacji, zwanej dalej „Radą Interesariuszy”, o celowości włączenia Sektorowych Ram Kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz jej zgodności z Polską Ramą Kwalifikacji.
 
-10. Osoba przeprowadzająca kontrolę sporządza protokół kontroli, który zawiera:
+### 3a.
 
-- **1)** nazwę instytucji certyfikującej oraz jej dane teleadresowe;
-- **2)** imię, nazwisko i stanowisko służbowe osoby przeprowadzającej kontrolę;
-- **3)** datę rozpoczęcia i zakończenia czynności kontrolnych;
-- **4)** miejsce kontroli;
-- **5)** zakres kontroli;
-- **6)** opis ustalonego stanu faktycznego, tym stwierdzone nieprawidłowości działalności instytucji certyfikującej;
-- **7)** zakres, przyczyny i skutki stwierdzonych nieprawidłowości;
-- **8)** imiona, nazwiska i funkcje osób odpowiedzialnych za nieprawidłowości oraz ustalenie, czy stwierdzone nieprawidłowości są rażące;
-- **9)** zalecone działania naprawcze;
-- **10)** pouczenie prawie, sposobie i terminie zgłoszenia zastrzeżeń do ustaleń zawartych protokole kontroli i prawie do
+Wniosek złożony przez sektorową radę do spraw kompetencji działającą w branży lub sektorze, których dotyczą Sektorowe Ramy Kwalifikacji, nie wymaga opinii reprezentantów branży lub sektora, o której mowa w ust. 3 pkt 4.
 
-11. Protokół kontroli podpisuje osoba przeprowadzająca kontrolę i osoba upoważniona. W przypadku odmowy podpisania protokołu osobę upoważnioną osoba przeprowadzająca kontrolę umieszcza protokole informację tym fakcie.
+### 4.
 
-12. Osoba upoważniona ma prawo zgłosić pisemne umotywowane zastrzeżenia do ustaleń zawartych protokole kontroli terminie 7 dni od dnia jego otrzymania.
+Minister właściwy do spraw oświaty i wychowania na wniosek ministra właściwego włącza Sektorowe Ramy Kwalifikacji do Zintegrowanego Systemu Kwalifikacji w drodze rozporządzenia.
 
-13. Minister właściwy, terminie 7 dni od dnia zgłoszenia zastrzeżeń do ustaleń zawartych protokole kontroli, informuje na piśmie osobę upoważnioną uwzględnieniu całości lub części albo nieuwzględnieniu tych zastrzeżeń, wraz uzasadnieniem.
+### 5.
 
-14. W przypadku stwierdzenia, że zastrzeżenia do ustaleń zawartych protokole kontroli są zasadne całości lub części, osoba przeprowadzająca kontrolę zmienia lub uzupełnia protokół kontroli.
+Rozporządzenie, o którym mowa w ust. 4, określa:
 
-15. W przypadku nieuwzględnienia całości zastrzeżeń do ustaleń zawartych protokole kontroli osoba przeprowadzająca kontrolę pozostawia protokół kontroli bez zmian.
+### 1)
 
-16. W zakresie nieuregulowanym ust. 1–15 stosuje się przepisy rozdziału 5 ustawy dnia 6 marca 2018 Prawo przedsiębiorców (Dz. U. poz. 236 i 1222).
+nazwę sektora lub branży,
 
-**Art. 80.**
+### 2)
 
-1. W wyniku ewaluacji zewnętrznej, 78 ust. 2, lub wyniku przeprowadzonej kontroli, 79, minister właściwy może wyznaczyć termin, którym zobowiązuje instytucję certyfikującą do podjęcia działań naprawczych pod rygorem cofnięcia uprawnienia do certyfikowania danej kwalifikacji.
+podstawowe rodzaje działalności, do których wykonywania przygotowują kwalifikacje, do których odnosi się Sektorowa Rama Kwalifikacji,
 
-2. Minister właściwy cofa, drodze decyzji administracyjnej, uprawnienie instytucji certyfikującej do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, jeżeli:
+### 3)
 
-- **1)** dokumenty potwierdzające nadanie określonej kwalifikacji instytucja certyfikująca wydała osobom, które nie przeszły pozytywnym wynikiem prawidłowej walidacji;
-- **2)** instytucja certyfikująca przestała spełniać warunki, których 41 ust. 2 i 3;
-- **3)** instytucja certyfikująca nie podjęła działań naprawczych wyznaczonym terminie, którym ust. 1;
-- **4)** wyniku ewaluacji zewnętrznej, 78 ust. 2, lub wyniku przeprowadzonej kontroli, 79, instytucji certyfikującej zostały stwierdzone rażące nieprawidłowości.
+charakterystyki efektów uczenia się dla poziomów Sektorowych Ram Kwalifikacji ujęte w kategoriach wiedzy, umiejętności oraz kompetencji społecznych
 
-3. Decyzjom administracyjnym, których ust. 2, nadaje się rygor natychmiastowej wykonalności.
+- uwzględniając potrzeby danej branży lub sektora oraz potrzeby rozwoju danej branży lub sektora.
 
-4. Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji wydaniu decyzji administracyjnych, których ust. 2.
+### Rozdział 3 Włączanie kwalifikacji do Zintegrowanego Systemu Kwalifikacji i przegląd kwalifikacji funkcjonujących w Zintegrowanym Systemie Kwalifikacji
 
-5. Wydanie decyzji, których ust. 2, skutkuje wygaśnięciem mocy prawa umowy, 60 ust. 1, odniesieniu do instytucji certyfikującej, uprawnienia zostały uchylone.
+### Art. 12[12) Ze zmianą wprowadzoną przez art. 9 pkt 5 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:12:).
 
-**Art. 81.** W sprawach nieuregulowanych ustawie zakresie 41–45, 51–58, 74 i 80 stosuje się odpowiednio przepisy ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego.
+Do Zintegrowanego Systemu Kwalifikacji włącza się kwalifikacje pełne oraz kwalifikacje wyodrębnione w zawodzie, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
 
-#### Rozdział 7 Zintegrowany Rejestr Kwalifikacji
+### Art. 13.
 
-**Art. 82.**
+### 1.
 
-1. Tworzy się Zintegrowany Rejestr Kwalifikacji. Zintegrowany Rejestr Kwalifikacji udostępnia się za pośrednictwem portalu Zintegrowanego Systemu Kwalifikacji.
+Uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze mogą włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikacje nadawane po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, jeżeli został przypisany poziom Polskiej Ramy Kwalifikacji do tych kwalifikacji.
 
-2. Zintegrowany Rejestr Kwalifikacji jest rejestrem jawnym.
+### 2.
 
-3. Informacje do Zintegrowanego Rejestru Kwalifikacji przekazuje się za pośrednictwem systemu teleinformatycznego.
+Do przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji cząstkowych, o których mowa w ust. 1, stosuje się odpowiednio art. 21.
 
-**Art. 82a.** Podmiotem prowadzącym Zintegrowany Rejestr Kwalifikacji jest Instytut Badań Edukacyjnych Warszawie.
+### 3.
 
-**Art. 82b.**
+Uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze informują podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o włączeniu do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji cząstkowej, o której mowa w ust. 1.
 
-- **136)** W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje:
-- **1)** kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji;
-- **2)** zawarte: przekazanych do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
-    - **a)** we wnioskach, których 14, 15a, 41 ust. 2 i 3 i 53 ust. 2,
-    - **b)** raportach i sprawozdaniach, których 64 ust. 2, 68 ust. 1, 71 ust. i 76 ust.
+### Art. 14[13) W brzmieniu ustalonym przez art. 9 pkt 6 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:13:).
 
-**Art. 83.**
+Podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń może wystąpić do ministra właściwego z wnioskiem o włączenie kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji.
 
-1. W Zintegrowanym Rejestrze Kwalifikacji przetwarza i udostępnia się informacje kwalifikacjach wolnorynkowych i kwalifikacjach sektorowych:
+### Art. 15.
 
-- **1)** informacje ogólne kwalifikacji:
-    - **a)** nazwę kwalifikacji, 25 ust. 2 1,
-    - **b)** przypisany poziom Polskiej Ramy Kwalifikacji do kwalifikacji, którym 25 ust. 2 2,
-    - **c)** odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż zostały włączone do Zintegrowanego Systemu Kwalifikacji, którym 25 ust. 2 2,
-    - **d)** kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED), którym 15 ust. 5 lit. d i 15b ust. 5 lit. d,
-    - **e)** inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji, których 25 ust. 2 6, jeżeli zostały określone, albo informacja braku takich warunków;
+### 1[14) W brzmieniu ustalonym przez art. 9 pkt 7 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:14:).
 
-- **2)** podstawowe informacje kwalifikacji obejmujące:
-    - **a)** przykładowe działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację, których 15 ust. 2 lit. b tiret pierwsze i 15b ust. 2 lit. b tiret pierwsze,
-    - **b)** przykładowe grupy osób, które mogą być szczególnie zainteresowane uzyskaniem danej kwalifikacji, których 15 ust. 2 lit. b tiret drugie i 15b ust. 2 lit. b tiret drugie,
-    - **c)** przykładowe możliwości wykorzystania kwalifikacji i dalszego rozwoju, tym możliwości ubiegania się inne kwalifikacje i uprawnienia danej dziedzinie, których 15 ust. 2 lit. b tiret trzecie i 15b ust. 2 lit. b tiret trzecie,
-    - **d)** objętość kwalifikacji;
+Wniosek, o którym mowa w art. 14, zawiera:
 
-- **3)** informacje wymaganych efektach uczenia się, których 25 ust. 2 3;
-- **4)** informacje dotyczące walidacji:
-    - **a)** warunki, które musi spełniać osoba przystępująca do walidacji, których 25 ust. 2 5, jeżeli zostały określone, albo braku takich warunków,
-    - **b)** ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji, których 25 ust. 2 4,
-    - **c)** dodatkowe warunki, które muszą spełniać podmioty ubiegające się uprawnienie do certyfikowania na podstawie 41 ust. 1, których 25 ust. 2 9;
+### 1)
 
-- **5)** dodatkowe informacje dotyczące kwalifikacji:
-    - **a)** informację aktualnym statusie kwalifikacji: kwalifikacja włączona do Zintegrowanego Systemu Kwalifikacji, kwalifikacja funkcjonująca Zintegrowanym Systemie Kwalifikacji, kwalifikacja archiwalna oraz informacja datach uzyskania poszczególnych statusów,
-    - **b)** nazwę i okres ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej bezterminowy albo określony, oraz warunki przedłużenia ważności, jeżeli okres ważności certyfikatu jest określony, zgodnie 25 ust. 2 7,
-    - **c)** dodatkowe wymagania, których 25 ust. 2 8, jeżeli zostały określone,
-    - **d)** termin dokonywania przeglądów kwalifikacji, którym 27 ust. 1, i data ostatniego przeglądu kwalifikacji,
-    - **e)** nazwę podmiotu, który wystąpił wnioskiem włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, którym 14 i 15a,
-    - **f)** kod kwalifikacji Zintegrowanym Rejestrze Kwalifikacji,
-    - **g)** kod Polskiej Klasyfikacji Działalności (PKD), którym 15 ust. 5 lit. e oraz 15b ust. 5 lit. e,
-    - **h)** wskazanie obwieszczenia, którym 25 ust. 1, na podstawie którego włączono kwalifikację do Zintegrowanego Systemu Kwalifikacji;
+dane podmiotu, o którym mowa w art. 14:
 
-- **6)** informacje instytucjach uprawnionych do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej:
-    - **a)** dane, których 42 ust. lit. a–c i e,
-    - **b)** datę nadania uprawnienia do certyfikowania,
-    - **c)** datę cofnięcia uprawnienia do certyfikowania i datę wygaśnięcia tego uprawnienia,
-    - **d)** nazwy podmiotów upoważnionych poszczególne instytucje certyfikujące do przeprowadzania walidacji, których 47 ust. 2, oraz ich siedziby i adresy,
-    - **e)** adres strony internetowej, 47 ust. 4;
+### a)
 
-- **7)** informacje podmiocie, któremu powierzono funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikującej, 6:
-    - **a)** dane, których 54 ust. lit. a–c, e i f,
-    - **b)** datę skreślenia listy,
-    - **c)** datę podpisania, rozwiązania lub wygaśnięcia umowy, 60 ust. 1.
+nazwę lub firmę albo imię i nazwisko, w przypadku osoby fizycznej,
 
-2. W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje o:
+### b)
 
-- **1)** kwalifikacjach pełnych, których 8 1–7a;
-- **2)** kwalifikacjach wyodrębnionych zawodach, których 4 34 ustawy dnia 14 grudnia 2016 Prawo oświatowe, zakresie, którym ust. lit. a i b, 3, 4 lit. a, 5 lit. b i 6 lit. a.
+siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, w przypadku osoby fizycznej,
 
-3. W Zintegrowanym Rejestrze Kwalifikacji gromadzi się informacje kwalifikacjach pełnych, których 8 8–11:
+### c)
 
-- **1)** dane uczelni, prowadzone nie studia na określonym kierunku, poziomie i profilu, dane podmiotów uprawnionych do nadawania stopnia doktora oraz prowadzone nie szkoły doktorskie;
-- **2)** nazwa tytułu zawodowego uzyskiwanego po ukończeniu studiów na określonym kierunku, poziomie i profilu oraz stopień doktora;
-- **3)** adresy stron internetowych podmiotów, których 1.
+numer identyfikacji podatkowej (NIP), numer PESEL lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej ([Dz. U. z 2022 r. poz. 470](https://api.sejm.gov.pl/eli/acts/DU/2022/470/text.html) oraz [z 2024 r. poz. 1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania,
 
-4. Minister właściwy do spraw oświaty i wychowania, porozumieniu ministrem właściwym do spraw szkolnictwa wyższego i nauki, określi, drodze rozporządzenia, zakres informacji gromadzonych Zintegrowanym Rejestrze Kwalifikacji kwalifikacjach cząstkowych, których 13 ust. 1, uwzględniając odpowiednie informacje, których ust. 1, oraz wymagania systemu informatycznego Zintegrowanego Rejestru Kwalifikacji.
+### d)
 
-5. Przepis ust. stosuje się odpowiednio do kwalifikacji uregulowanych, kwalifikacji rzemieślniczych i kwalifikacji nadawanych po ukończeniu innych form kształcenia, których 162 ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, 2 ust. 2 3 ustawy dnia 30 kwietnia 2010 Polskiej Akademii Nauk i 2 ust. 3 2 ustawy dnia 30 kwietnia 2010 instytutach badawczych, oraz kursów i szkoleń, których 4 6 ustawy dnia 21 lutego 2019 Sieci Badawczej Łukasiewicz.
+numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany,
 
-**Art. 84.**
+### e)
 
-1. Informacje kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji, których 83 ust. 1, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz informacjami, których 60 ust. 4 i 80 ust. 4, wyjątkiem informacji, których 83 ust. 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz informacjami, których 74 ust. 4.
+imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
 
-2. Informacje kwalifikacjach pełnych i cząstkowych, których 83 ust. 2, przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji minister właściwy do spraw oświaty i wychowania.
+### f)
 
-3. Informacje kwalifikacjach pełnych, których w:
+adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 14;
 
-- **1)** 83 ust. 3 i 2, zawarte Zintegrowanym Systemie Informacji Szkolnictwie Wyższym i Nauce POL-on, którym przepisach szkolnictwie wyższym i nauce udostępnia podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji minister właściwy do spraw szkolnictwa wyższego i nauki;
-- **2)** 83 ust. 3 3 przekazują podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji podmioty, których 83 ust. 3 1.
+### 2)
 
-4. Informacje kwalifikacjach cząstkowych, których 13 ust. 1, zakresie określonym rozporządzeniu wydanym na podstawie 83 ust. 4, przekazują podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze.
+informacje ogólne o kwalifikacji wolnorynkowej:
 
-5. Informacje kwalifikacjach uregulowanych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz informacjami, których 38 ust. 5.
+### a)
 
-6. Informacje kwalifikacjach rzemieślniczych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz informacjami, których 37 ust. 6.
+nazwę kwalifikacji wolnorynkowej,
 
-7. Informacje kwalifikacjach nadawanych po ukończeniu innych form kształcenia, których 162 ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym i nauce, 2 ust. 2 3 ustawy dnia 30 kwietnia 2010 Polskiej Akademii Nauk i 2 ust. 3 2 ustawy dnia 30 kwietnia 2010 instytutach badawczych, oraz kursów i szkoleń, których 4 6 ustawy dnia 21 lutego 2019 Sieci Badawczej Łukasiewicz, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz informacjami, których 60 ust. 4 i 80 ust. 4, wyjątkiem informacji, których 83 ust. 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz informacjami, których 74 ust. 4.
+### b)
 
-**Art. 85.** Minister właściwy do spraw oświaty i wychowania określi, drodze rozporządzenia, wymogi techniczne, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego, uwzględniając wykorzystanie tej aplikacji do obsługi postępowań przewidzianych ustawie oraz potrzeby różnych grup obywateli, pracodawców, podmiotów organizujących kształcenie, instytucji rynku pracy oraz organów władz publicznych dotyczące informacji kwalifikacjach.
+informacje obejmujące przykładowe:
 
-**Art. 86.** Na zasadach określonych przepisach odrębnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji jest uprawniony do dostępu do danych dotyczących kwalifikacji zawartych rejestrach publicznych oraz będących posiadaniu organów administracji publicznej i instytucji publicznych, tym że jeżeli przepisy odrębne przewidują odpłatne udostępnianie tych danych, od podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji nie pobiera się opłat.
+- - działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację wolnorynkową,
 
-**Art. 87.**
+- - grupy osób, do których dana kwalifikacja wolnorynkowa w szczególności jest kierowana,
 
-1. Do zadań podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji należy:
+- - możliwości wykorzystania kwalifikacji wolnorynkowej i dalszego rozwoju osobistego lub zawodowego, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia w danej dziedzinie zawodowej,
 
-- **1)** dokonywanie wpisów Zintegrowanym Rejestrze Kwalifikacji i aktualizacji wpisów Zintegrowanym Rejestrze Kwalifikacji zakresie określonym 83;
-- **2)** dokonywanie oceny formalnej wniosków, których 14, 15a, 41 ust. 2 i 3 oraz 53 ust.
-- **3)** wspomaganie podmiotów, których 14 i 15a, ustalaniu właściwości ministra do rozpatrzenia wniosków, których 14 i 15a;
-- **4)** współpraca ministrem koordynatorem zakresie ustalania właściwości ministrów dla rozpatrzenia wniosków, których 14 i 15a;
-- **5)** zawiadamianie podmiotów, które uzyskały uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, modyfikacji danej kwalifikacji, 27 ust. 4 2, oraz nadaniu danej kwalifikacji statusu kwalifikacji archiwalnej, którym 27 ust. 4 3;
-- **6)** prowadzenie portalu Zintegrowanego Systemu Kwalifikacji części dotyczącej Zintegrowanego Rejestru Kwalifikacji;
-- **7)** ułatwianie dialogu i współdziałania różnych interesariuszy Zintegrowanego Systemu Kwalifikacji;
-- **8)** organizowanie wymiany doświadczeń dziedzinie kwalifikacji;
-- **9)** upowszechnianie wiedzy Zintegrowanym Systemie Kwalifikacji, szczególności za pośrednictwem portalu Zintegrowanego Systemu Kwalifikacji;
-- **10)** przechowywanie, okres dwunastu lat, raportów ewaluacji wewnętrznej, których 64 ust. 2, raportów zewnętrznego zapewniania jakości, których 68 ust. 1, oraz sprawozdań działalności, których 71 ust. i 76 ust. 1.
+### c)
 
-2. Raporty i sprawozdania, których ust. 10, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji udostępnia na wniosek ministrom właściwym, ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji oraz Radzie Interesariuszy.
+propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji,
 
-**Art. 88.**
+### d)
 
-1. Nadzór nad podmiotem prowadzącym Zintegrowany Rejestr Kwalifikacji zakresie wykonywania zadań, których 87 ust. 1, sprawuje minister koordynator Zintegrowanego Systemu Kwalifikacji.
+objętość kwalifikacji wolnorynkowej;
 
-2. Minister koordynator Zintegrowanego Systemu Kwalifikacji, przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji, formie dotacji celowej, środki finansowe na realizację zadań, których 87 ust. 1.
+### 3)
 
-#### Rozdział 8 Koordynacja funkcjonowania Zintegrowanego Systemu Kwalifikacji
+uzasadnienie celowości włączenia kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji:
 
-**Art. 89.**
+### a)
 
-1. Do zadań ministra koordynatora Zintegrowanego Systemu Kwalifikacji należy:
+zgodność kwalifikacji wolnorynkowej z rozpoznanymi potrzebami społecznymi lub potrzebami rynku pracy, popartą danymi wynikającymi z analizy potrzeb rynku pracy i grup osób, do których dana kwalifikacja w szczególności jest kierowana,
 
-- **1)** projektowanie szczegółowych rozwiązań organizacyjno-technicznych zakresie Zintegrowanego Systemu Kwalifikacji, uwzględnieniem kierunków rozwoju Zintegrowanego Systemu Kwalifikacji;
-- **2)** wspomaganie ustalania właściwości ministrów do rozpatrzenia wniosków, których 14 i 15a, zakresie poszczególnych kwalifikacji wolnorynkowych i kwalifikacji sektorowych;
-- **3)** monitorowanie funkcjonowania Zintegrowanego Systemu Kwalifikacji, tym badanie karier zawodowych osób posiadających kwalifikacje nadawane ramach systemu oświaty;
-- **4)** opracowywanie na wniosek Rady Ministrów raportów dotyczących Zintegrowanego Systemu Kwalifikacji;
-- **5)** zapewnianie obsługi Rady Interesariuszy;
-- **6)** upowszechnianie wiedzy Zintegrowanym Systemie Kwalifikacji;
-- **7)** prowadzenie portalu Zintegrowanego Systemu Kwalifikacji.
+### b)
 
-2. Minister koordynator Zintegrowanego Systemu Kwalifikacji może upoważnić Instytut Badań Edukacyjnych Warszawie do wykonywania zadań, których ust. 1, wyłączeniem zadania, którym ust. 3, zakresie monitorowania prowadzenia Instytut Badań Edukacyjnych Warszawie Zintegrowanego Rejestru Kwalifikacji.
+podobieństwa i różnice w odniesieniu do kwalifikacji o zbliżonym charakterze, w szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji,
 
-**Art. 90.**
+### c)
 
-- **147)** Przy ministrze koordynatorze Zintegrowanego Systemu Kwalifikacji działa Rada Interesariuszy, która jest organem opiniodawczo-doradczym tego ministra.
+inne przesłanki potwierdzające zgodność kwalifikacji wolnorynkowej z rozpoznanymi potrzebami rynku pracy i grup osób, do których dana kwalifikacja wolnorynkowa w szczególności jest kierowana;
 
-**Art. 91.** Do zadań Rady Interesariuszy należy:
+### 4)
 
-**Art. 92.** W skład Rady Interesariuszy wchodzą przedstawiciele:
+informacje o efektach uczenia się i wymaganiach dotyczących walidacji:
 
-**Art. 93.**
+### a)
 
-1. Minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje członków Rady Interesariuszy na wniosek podmiotów, których 92 1–8.
+efekty uczenia się wymagane dla danej kwalifikacji wolnorynkowej opisane zgodnie z art. 9 ust. 1 pkt 1,
 
-1a. Minister koordynator Zintegrowanego Systemu Kwalifikacji wyznacza przedstawicieli, których 92 9, i powołuje ich skład Rady Interesariuszy. Przedstawiciele, których 92 9, mogą być powołani skład Rady Interesariuszy na więcej niż jedną kadencję.
+### b)
 
-2. Kadencja członka Rady Interesariuszy trwa cztery lata.
+ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
 
-3. Po upływie kadencji podmiot, którym 92 1–8, może wystąpić wnioskiem jednokrotne przedłużenie kadencji członka Rady Interesariuszy.
+### 5)
 
-4. Minister koordynator Zintegrowanego Systemu Kwalifikacji na wniosek podmiotu, którym 92 1–8, może odwołać członka Rady Interesariuszy reprezentującego ten podmiot trakcie kadencji. Nowego członka Rady Interesariuszy powołuje się do zakończenia kadencji odwołanego członka.
+informacje uzupełniające o kwalifikacji wolnorynkowej:
 
-4a. Minister koordynator Zintegrowanego Systemu Kwalifikacji może odwołać swojego przedstawiciela Radzie Interesariuszy trakcie kadencji.
+### a)
 
-5. Po upływie kadencji członka, którym ust. 4, podmiot, którym 92 1–8, może wystąpić wnioskiem powołanie tego członka na kolejną kadencję.
+informację o możliwości przygotowania do uzyskania kwalifikacji wolnorynkowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe w związku z art. 47 ust. 1 pkt 3 lit. e tej ustawy, lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy,
 
-**Art. 94.**
+### b)
 
-1. Rada Interesariuszy wybiera spośród swoich członków przewodniczącego oraz 2–5 wiceprzewodniczących na dwuletnią kadencję.
+w razie potrzeby:
 
-2. Przewodniczącego oraz wiceprzewodniczących wybiera się głosowaniu tajnym zwykłą większością głosów przy obecności przynajmniej połowy członków Rady Interesariuszy.
+- - warunki, jakie musi spełnić osoba przystępująca do walidacji,
 
-3. Przepis ust. 2 stosuje się do odwołania przewodniczącego oraz wiceprzewodniczących.
+- - inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej,
 
-4. Na przewodniczącego i wiceprzewodniczących mogą zostać wybrani kandydaci posiadający co najmniej dwuletni staż Radzie Interesariuszy.
+### c)
 
-**Art. 95.**
+okres ważności certyfikatu kwalifikacji wolnorynkowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność nadanego certyfikatu jest bezterminowa,
 
-1. Rada Interesariuszy obraduje trybie plenarnym oraz grupach roboczych.
+### d)
 
-2. Członkowie Rady Interesariuszy biorą udział pracach Rady Interesariuszy osobiście.
+kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED),
 
-3. Na zaproszenie przewodniczącego pracach Rady Interesariuszy mogą brać udział przedstawiciele innych zainteresowanych podmiotów, niż wymienione 92, bez prawa do głosowania.
+### e)
 
-4. W pracach Rady Interesariuszy, bez prawa do głosowania, biorą udział przedstawiciele podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+kod Polskiej Klasyfikacji Działalności (PKD).
 
-5. Do udziału posiedzeniu, na którym Rada Interesariuszy opracowuje opinię, 11 ust. 3 6, są zapraszani przedstawiciele ministra właściwego, przedstawiciele zainteresowanej sektorowej rady do spraw kompetencji i przedstawiciele zainteresowanego podmiotu, których 11 ust. 2.
+### 2.
 
-**Art. 96.**
+Do wniosku dołącza się:
 
-1. Rada Interesariuszy opracowuje regulamin i przedstawia go do akceptacji ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+### 1)
 
-2. Regulamin określa szczególności:
+w przypadku podmiotu, który nie prowadzi działalności gospodarczej - dokumenty potwierdzające spełnienie warunku prowadzenia zorganizowanej działalności w obszarze gospodarki, rynku pracy, edukacji lub szkoleń, w szczególności statut, uchwałę, umowę, lub oświadczenie wskazujące obszar, w którym dany podmiot prowadzi działalność;
 
-- **1)** sposób działania Rady Interesariuszy i tryb podejmowania tę Radę Interesariuszy decyzji;
-- **2)** tryb wyłaniania osób reprezentujących Radę Interesariuszy komisji, 57 ust. 1, i innych gremiach oraz sposób określania ich mandatu;
-- **3)** zasady i procedury przygotowywania Radę Interesariuszy opinii, 11 ust. 3 6, uwzględnieniem udziału procesie porównywania Sektorowych Ram Kwalifikacji Polską Ramą Kwalifikacji ekspertów spoza danej branży lub sektora.
+### 2[15) Ze zmianą wprowadzoną przez art. 9 pkt 7 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:15:))
 
-#### Rozdział 9 Zmiany przepisach obowiązujących
+oświadczenie o następującej treści: „Oświadczam, że dane zawarte we wniosku o włączenie kwalifikacji wolnorynkowej do Zintegrowanego Systemu Kwalifikacji są zgodne z prawdą.”;
 
-#### Rozdział 10 Przepisy przejściowe i końcowe
+### 3)
 
-**Art. 104.**
+dowód wniesienia opłaty, o której mowa w art. 17 ust. 1.
 
-1. Kwalifikacje ustanowione odrębnymi przepisami, bez względu na pojęcie użyte na określenie danej kwalifikacji przepisach prawa regulujących daną kwalifikację, obowiązujące dniu wejścia których nadawanie odbywa się na zasadach określonych przepisach regulujących daną kwalifikację, wyłączeniem kwalifikacji nadawanych systemie oświaty i systemie szkolnictwa wyższego, mogą być włączone do Zintegrowanego Systemu Kwalifikacji.
+### 3.
 
-2. W okresie pięciu lat od dnia wejścia ustawy ministrowie właściwi dokonują przeglądu kwalifikacji, których ust. 1, według stanu obowiązującego na dzień wejścia mającego na celu zidentyfikowanie kwalifikacji, odniesieniu do których jest uzasadnione włączenie do Zintegrowanego Systemu Kwalifikacji.
+Oświadczenia, o których mowa w ust. 2 pkt 1 i 2, uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-3. W okresie, którym ust. 2, minister właściwy może włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikacje, których ust. 1, które nie spełniają wymagań określonych 38 ust. 1, jeżeli jest możliwe:
+### 4.
 
-- **1)** przypisanie poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji zgodnie 21;
-- **2)** wskazanie dla danej kwalifikacji instytucji certyfikującej.
+Oświadczenia, o których mowa w ust. 2 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.[16) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 7 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:16:) Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.[16) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 7 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:16:)
 
-4. Minister właściwy drodze obwieszczenia informuje przypisaniu poziomu Polskiej Ramy Kwalifikacji do kwalifikacji, ust. 3, oraz włączeniu tej kwalifikacji do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Przepisy 38 ust. 4 i 5 stosuje się.
+### Art. 15a[17) Dodany przez art. 9 pkt 8 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:17:).
 
-5. Minister właściwy jest obowiązany dostosować kwalifikację, ust. 3, do wymogów, których 38 ust. i 39, okresie trzech lat od dnia ogłoszenia obwieszczenia, którym ust. 4.
+Organizacja o zasięgu ogólnokrajowym prowadząca działalność statutową w obszarze danej branży lub danego sektora, działająca odpowiednio na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców ([Dz. U. z 2022 r. poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2022/97/text.html)), ustawy z dnia 30 maja 1989 r. o izbach gospodarczych ([Dz. U. z 2019 r. poz. 579](https://api.sejm.gov.pl/eli/acts/DU/2019/579/text.html)), ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ([Dz. U. z 2020 r. poz. 2261](https://api.sejm.gov.pl/eli/acts/DU/2020/2261/text.html)), ustawy z dnia 25 czerwca 2010 r. o sporcie ([Dz. U. z 2023 r. poz. 2048](https://api.sejm.gov.pl/eli/acts/DU/2023/2048/text.html) oraz [z 2024 r. poz. 1166](https://api.sejm.gov.pl/eli/acts/DU/2024/1166/text.html)) lub ustawy regulującej funkcjonowanie samorządu zawodowego, w tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, lub sektorowa rada do spraw kompetencji działająca na podstawie ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości może wystąpić do ministra właściwego z wnioskiem o włączenie kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, z tym że w przypadku stowarzyszenia działającego na podstawie ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach z wnioskiem tym może wystąpić stowarzyszenie wpisane do Krajowego Rejestru Sądowego.
 
-6. Kwalifikacja, ust. 3, która nie została dostosowana, otrzymuje Zintegrowanym Rejestrze Kwalifikacji status kwalifikacji archiwalnej, którym 27 ust. 4 3. Przepisów 29–34 nie stosuje się.
+### Art. 15b[17) Dodany przez art. 9 pkt 8 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:17:).
 
-**Art. 105.** W okresie pięciu lat od dnia wejścia ustawy do rozpatrzenia wniosków, których 37 ust. 1, nie stosuje się 17 ust. 1, jeżeli odniesieniu do kwalifikacji objętych wnioskiem zostały ustalone standardy wymagań egzaminacyjnych, których 3 ust. 3a ustawy dnia 22 marca 1989 rzemiośle, uwzględniające efekty kształcenia wymagane dla tych kwalifikacji opisane zgodnie 9 ust. 1.
+### 1.
 
-**Art. 106.**
+Wniosek, o którym mowa w art. 15a, zawiera:
 
-1. Portal Zintegrowanego Systemu Kwalifikacji oraz Zintegrowany Rejestr Kwalifikacji rozpoczynają funkcjonowanie nie później niż po upływie sześciu miesięcy od dnia wejścia ustawy.
+### 1)
 
-2. Polska Agencja Rozwoju Przedsiębiorczości podejmuje działania organizacyjno-techniczne mające na celu zapewnienie funkcjonowania Zintegrowanego Rejestru Kwalifikacji.
+dane podmiotu, o którym mowa w art. 15a:
 
-**Art. 107.** Wnioski włączenie kwalifikacji rynkowych do Zintegrowanego Systemu Kwalifikacji, których 14 ust. 1, wnioski nadanie uprawnień do certyfikowania, których 14 ust. 2 i 41 ust. 2, oraz wnioski wpis na listę, których 53 ust. 2, można składać po upływie sześciu miesięcy od dnia wejścia ustawy.
+### a)
 
-**Art. 108.**
+nazwę,
 
-1. Pierwszy skład Rady Interesariuszy minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje nie później niż po upływie sześciu miesięcy od dnia wejścia ustawy.
+### b)
 
-2. W pierwszym składzie Rady Interesariuszy kadencja połowy członków będących przedstawicielami podmiotów, których 92, trwa dwa lata.
+siedzibę i adres,
 
-3. Po upływie dwóch lat połowa członków, których ust. 2, jest powoływana zgodnie 93 ust. 2.
+### c)
 
-4. W okresie pierwszej kadencji Rady Interesariuszy obowiązki przewodniczącego pełni członek Rady Interesariuszy wskazany ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+numer w Krajowym Rejestrze Sądowym (KRS),
 
-5. W pierwszych dwóch latach działania Rady Interesariuszy stosunku do kandydatów na przewodniczącego i wiceprzewodniczących nie stosuje się wymogu, którym 94 ust. 4.
+### d)
 
-**Art. 109.** Przepisu 24 ust. 8 ustawy zmienianej 98 , brzmieniu nadanym niniejszą ustawą, nie stosuje się do przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych zawodach określonych klasyfikacji zawodów szkolnictwa zawodowego obowiązującej dniu wejścia ustawy.
+imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania, w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
 
-**Art. 110.**
+### e)
 
-1. Minister właściwy do spraw oświaty i wychowania porozumieniu ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określi drodze rozporządzenia poziomy Polskiej Ramy Kwalifikacji dla kwalifikacji pełnych, których 8 1–7 i 9–11, nadanych od dnia wejścia życie:
+adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 15a;
 
-- **1)** rozporządzenia Ministra Edukacji Narodowej dnia 23 grudnia 2008 sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego poszczególnych typach szkół (Dz. U. 2009 poz. 17),
-- **2)** rozporządzenia Ministra Edukacji Narodowej dnia 27 sierpnia 2012 sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego poszczególnych typach szkół (Dz. U. poz. 977 oraz 2014 poz. 803),
-- **3)** rozporządzenia Ministra Edukacji Narodowej dnia 7 lutego 2012 sprawie podstawy programowej kształcenia zawodach (Dz. U. poz. 184 oraz 2015 poz. 130 i 1123),
-- **4)** rozporządzenia Ministra Nauki i Szkolnictwa Wyższego dnia 2 listopada 2011 sprawie Krajowych Ram Kwalifikacji dla Szkolnictwa Wyższego (Dz. U. poz. 1520),
-- **5)** rozporządzenia Ministra Nauki i Szkolnictwa Wyższego dnia 29 września 2011 sprawie standardów kształcenia dla kierunków studiów weterynarii i architektury (Dz. U. poz. 1233),
-- **6)** rozporządzenia Ministra Nauki i Szkolnictwa Wyższego dnia 17 2012 sprawie standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela (Dz. U. poz. 131),
-- **7)** rozporządzenia Ministra Nauki i Szkolnictwa Wyższego dnia 9 maja 2012 sprawie standardów kształcenia dla kierunków studiów: lekarskiego, lekarsko-dentystycznego, farmacji, pielęgniarstwa i położnictwa (Dz. U. poz. 631),
-- **8)** rozporządzenia Ministra Kultury i Dziedzictwa Narodowego dnia 2 lipca 2014 sprawie podstaw programowych kształcenia zawodach szkolnictwa artystycznego publicznych szkołach artystycznych (Dz. U. poz. 1039) do dnia wejścia uwzględniając efekty uczenia się określone tych rozporządzeniach dla poszczególnych kwalifikacji pełnych.
+### 2)
 
-2. Informacja poziomie Polskiej Ramy Kwalifikacji dla kwalifikacji, których ust. 1, jest umieszczana na portalu Zintegrowanego Systemu Kwalifikacji.
+informacje ogólne o kwalifikacji sektorowej:
 
-3. Informacja poziomie Polskiej Ramy Kwalifikacji dla kwalifikacji potwierdzonych dyplomem ukończenia kolegium nauczycielskiego oraz dyplomem ukończenia nauczycielskiego kolegium języków obcych, których 8 8, jest umieszczana na portalu Zintegrowanego Systemu Kwalifikacji.
+### a)
 
-**Art. 111.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+nazwę kwalifikacji sektorowej,
 
-**Art. 112.** Ustawa wchodzi dniem następującym po dniu ogłoszenia , wyjątkiem:
+### b)
 
+informacje obejmujące przykładowe:
+
+- - działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację sektorową,
+
+- - grupy osób, do których dana kwalifikacja sektorowa w szczególności jest kierowana,
+
+- - możliwości wykorzystania kwalifikacji sektorowej i dalszego rozwoju osobistego lub zawodowego w danej branży lub sektorze, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia,
+
+### c)
+
+propozycję dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji sektorowej i propozycję odniesienia do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji,
+
+### d)
+
+objętość kwalifikacji sektorowej;
+
+### 3)
+
+uzasadnienie celowości włączenia kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji:
+
+### a)
+
+zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora,
+
+### b)
+
+podobieństwa i różnice w odniesieniu do kwalifikacji o zbliżonym charakterze, w szczególności kwalifikacji włączonych do Zintegrowanego Systemu Kwalifikacji,
+
+### c)
+
+inne przesłanki potwierdzające zgodność kwalifikacji sektorowej z rozpoznanymi potrzebami danej branży lub sektora;
+
+### 4)
+
+informacje o efektach uczenia się i wymaganiach dotyczących walidacji:
+
+### a)
+
+efekty uczenia się wymagane dla danej kwalifikacji sektorowej opisane zgodnie z art. 9 ust. 1 pkt 1,
+
+### b)
+
+ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+
+### 5)
+
+informacje uzupełniające o kwalifikacji sektorowej:
+
+### a)
+
+informację o możliwości przygotowania do uzyskania kwalifikacji sektorowej w ramach obowiązkowych zajęć edukacyjnych, o których mowa w art. 109 ust. 1 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe w związku z art. 47 ust. 1 pkt 3 lit. e tej ustawy, lub w ramach kursu umiejętności zawodowych, o którym mowa w art. 4 pkt 35a tej ustawy, lub możliwości jej wykorzystania w celu potwierdzania dodatkowych umiejętności zawodowych określonych w przepisach wydanych na podstawie art. 46 ust. 1 tej ustawy,
+
+### b)
+
+w razie potrzeby:
+
+- - warunki, jakie musi spełnić osoba przystępująca do walidacji,
+
+- - inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej,
+
+### c)
+
+okres ważności certyfikatu kwalifikacji sektorowej i warunki przedłużenia ważności certyfikatu albo informację, że ważność certyfikatu jest bezterminowa,
+
+### d)
+
+kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED),
+
+### e)
+
+kod Polskiej Klasyfikacji Działalności (PKD).
+
+### 2.
+
+Do wniosku, o którym mowa w art. 15a, dołącza się:
+
+### 1)
+
+poświadczoną za zgodność z oryginałem kopię statutu podmiotu, o którym mowa w art. 15a, potwierdzającego prowadzenie przez ten podmiot działalności statutowej w obszarze danej branży lub danego sektora oraz ogólnokrajowy zasięg tej działalności;
+
+### 2)
+
+oświadczenie o następującej treści: „Oświadczam, że dane zawarte we wniosku o włączenie kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji są zgodne z prawdą.”;
+
+### 3)
+
+dowód wniesienia opłaty, o której mowa w art. 17 ust. 1.
+
+### 3.
+
+Oświadczenie, o którym mowa w ust. 2 pkt 2, uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+### 4.
+
+Oświadczenie, o którym mowa w ust. 2 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### Art. 16.
+
+### 1[18) Ze zmianą wprowadzoną przez art. 9 pkt 9 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:18:).
+
+Wniosek, o którym mowa w art. 14 i art. 15a, składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+
+### 2.
+
+Wniosek uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+### Art. 17.
+
+### 1.
+
+Wniosek, o którym mowa w art. 14 i art. 15a, podlega opłacie.[19) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 10 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:19:) Opłatę w wysokości 2000 zł wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi, z wyjątkiem przypadku gdy wniosek pozostawia się bez rozpatrzenia zgodnie z art. 18 ust. 5a lub art. 18a.[20) Zdanie czwarte w brzmieniu ustalonym przez art. 9 pkt 10 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:20:)
+
+### 2.
+
+Kwota, o której mowa w ust. 1, podlega raz na pięć lat waloryzacji o sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych w ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, o której mowa w ust. 1, obowiązującą w kolejnych pięciu latach, obliczoną zgodnie z ust. 2.
+
+### Art. 18.
+
+### 1[21) Ze zmianą wprowadzoną przez art. 9 pkt 11 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:21:).
+
+Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, o którym mowa w art. 14 i art. 15a, w terminie 14 dni od dnia złożenia wniosku.
+
+### 2[22) W brzmieniu ustalonym przez art. 9 pkt 11 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:22:).
+
+Ocena formalna wniosku obejmuje:
+
+### 1)
+
+w przypadku wniosku, o którym mowa w art. 14 - ocenę zgodności wniosku z wymaganiami, o których mowa w art. 15, art. 16 i art. 17 ust. 1;
+
+### 2)
+
+w przypadku wniosku, o którym mowa w art. 15a - ocenę zgodności wniosku z wymaganiami, o których mowa w art. 15b, art. 16 i art. 17 ust. 1.
+
+### 3.
+
+Nieprawidłowe wskazanie we wniosku właściwości ministra nie skutkuje zwrotem wniosku przez podmiot prowadzący Zintegrowany Rejestr Kwalifikacji. Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji wspomaga podmiot, o którym mowa w art. 14 i art. 15a, w ustalaniu właściwości ministra.[23) Zdanie drugie ze zmianą wprowadzoną przez art. 9 pkt 11 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:23:)
+
+### 4.
+
+W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa podmiot, o którym mowa odpowiednio w art. 14 i art. 15a, do ich usunięcia w terminie 30 dni.[24) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 11 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:24:) Termin, o którym mowa w ust. 1, biegnie od dnia złożenia przez podmiot poprawionego wniosku.
+
+### 5.
+
+W przypadku nieusunięcia braków w terminie, o którym mowa w ust. 4, wnioskowi nie nadaje się dalszego biegu.
+
+### 5a[25) Dodany przez art. 9 pkt 11 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:25:).
+
+Wniosek, o którym mowa w art. 14 i art. 15a, złożony przez podmiot niewymieniony odpowiednio w art. 14 lub art. 15a pozostawia się bez rozpatrzenia.
+
+### 6.
+
+Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego.
+
+### Art. 18a[26) Dodany przez art. 9 pkt 12 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:26:).
+
+W przypadku gdy w uzasadnieniu celowości włączenia kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 15 ust. 1 pkt 3 lub art. 15b ust. 1 pkt 3, wykazano znaczne podobieństwa do kwalifikacji już funkcjonujących w Zintegrowanym Systemie Kwalifikacji, minister właściwy może pozostawić wniosek, o którym mowa w art. 14 i art. 15a, bez rozpatrzenia.
+
+### Art. 19[27) W brzmieniu ustalonym przez art. 9 pkt 13 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:27:).
+
+### 1.
+
+Minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji do publikacji na portalu Zintegrowanego Systemu Kwalifikacji informację o rozpoczęciu procedury rozpatrywania wniosku o włączenie do Zintegrowanego Systemu Kwalifikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### 2.
+
+Minister właściwy przeprowadza konsultacje wniosku, o którym mowa w art. 14, ze środowiskami, których dotyczy kwalifikacja wolnorynkowa objęta tym wnioskiem.
+
+### 3.
+
+Minister właściwy przekazuje do wiadomości Radzie Interesariuszy oraz odpowiednim sektorowym radom do spraw kompetencji wniosek, o którym mowa w art. 14 i art. 15a.
+
+### Art. 20.
+
+(uchylony)[28) Przez art. 9 pkt 14 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:28:)
+
+### Art. 21[29) W brzmieniu ustalonym przez art. 9 pkt 15 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:29:).
+
+### 1.
+
+Minister właściwy powołuje zespół ekspertów w celu:
+
+### 1)
+
+sporządzenia opinii dotyczącej celowości włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji oraz
+
+### 2)
+
+wydania rekomendacji dotyczącej przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### 2.
+
+W skład zespołu ekspertów, o którym mowa w ust. 1, wchodzą co najmniej trzy osoby, w tym:
+
+### 1)
+
+co najmniej dwie osoby posiadające:
+
+### a)
+
+doświadczenie w zakresie wykonywania zadań, które potrafi wykonywać osoba posiadająca odpowiednio daną kwalifikację wolnorynkową lub daną kwalifikację sektorową, nauczania wykonywania tych zadań lub oceniania wykonania tych zadań,
+
+### b)
+
+wiedzę na temat aktualnych i prognozowanych kierunków rozwoju dziedziny, której dana kwalifikacja dotyczy;
+
+### 2)
+
+co najmniej jedna osoba posiadająca wiedzę na temat standardów opisywania kwalifikacji, zasad włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji oraz przypisywania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji.
+
+### 3.
+
+Rekomendację, o której mowa w ust. 1 pkt 2, sporządza się na podstawie porównania efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej z charakterystykami poziomów Polskiej Ramy Kwalifikacji. Rekomendacja obejmuje:
+
+### 1)
+
+efekty uczenia się wymagane dla kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisane zgodnie z art. 9 ust. 1 pkt 1, będące podstawą przypisania poziomu Polskiej Ramy Kwalifikacji;
+
+### 2)
+
+odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli ustanowiono Sektorowe Ramy Kwalifikacji w danym sektorze lub branży.
+
+### 4.
+
+W skład zespołu ekspertów, o którym mowa w ust. 1, nie mogą być powołane osoby, które uczestniczyły w przygotowywaniu wniosku, o którym mowa odpowiednio w art. 14 lub w art. 15a.
+
+### 5.
+
+Do osób, o których mowa w ust. 2, przepisy art. 24 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2024 r. poz. 572](https://api.sejm.gov.pl/eli/acts/DU/2024/572/text.html)) stosuje się odpowiednio.
+
+### 6.
+
+W przypadku kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, zespół ekspertów jest powoływany odpowiednio przez uczelnie, instytuty naukowe Polskiej Akademii Nauk lub instytuty badawcze w celu wydania rekomendacji dotyczącej przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+### 7.
+
+Zespoły ekspertów, o których mowa w ust. 1 i 6, działają na posiedzeniach, które są dokumentowane.
+
+### 8.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, tryb pracy zespołów ekspertów, o których mowa w ust. 1 i 6, w tym sposób przygotowania opinii, o której mowa w ust. 1 pkt 1, sposób porównywania efektów uczenia się wymaganych dla kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji i przygotowania rekomendacji, o której mowa w ust. 1 pkt 2 i ust. 6, oraz sposób dokumentowania prac tych zespołów, uwzględniając konieczność zapewnienia rzetelnego i sprawnego sporządzenia opinii i wydania rekomendacji oraz rzetelnego dokumentowania prac tych zespołów.
+
+### Art. 21a[30) Dodany przez art. 9 pkt 16 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:30:).
+
+### 1.
+
+W przypadku gdy opinia zespołu ekspertów, o której mowa w art. 21 ust. 1 pkt 1, jest pozytywna minister właściwy przedkłada rekomendację, o której mowa w art. 21 ust. 1 pkt 2, do opinii Rady Interesariuszy.
+
+### 2.
+
+W przypadku gdy opinia zespołu ekspertów, o której mowa w art. 21 ust. 1 pkt 1, jest negatywna minister właściwy może przedłożyć rekomendację, o której mowa w art. 21 ust. 1 pkt 2, do opinii Rady Interesariuszy.
+
+### 3.
+
+W przypadkach, o których mowa w ust. 1 i 2, Rada Interesariuszy sporządza opinię i przekazuje ją ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji.
+
+### 4.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji przekazuje opinię Rady Interesariuszy, o której mowa w ust. 3, ministrowi właściwemu.
+
+### 5.
+
+W przypadku gdy opinia Rady Interesariuszy, o której mowa w ust. 3, jest negatywna minister właściwy przekazuje ją zespołowi ekspertów, o którym mowa w art. 21 ust. 1.
+
+### 6.
+
+Zespół ekspertów, o którym mowa w art. 21 ust. 1, odnosi się do opinii Rady Interesariuszy, o której mowa w ust. 3, i ponownie przedstawia ministrowi właściwemu rekomendację dotyczącą przypisania poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### 7.
+
+W przypadku, o którym mowa w art. 21 ust. 6, odpowiednio uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze przedkładają rekomendację, o której mowa w art. 21 ust. 6, do opinii Rady Interesariuszy. Rada Interesariuszy sporządza opinię i przekazuje ją ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji. Przepisy ust. 4-6 stosuje się odpowiednio.
+
+### Art. 21b[30) Dodany przez art. 9 pkt 16 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:30:).
+
+### 1.
+
+Minister właściwy na podstawie:
+
+### 1)
+
+opinii i rekomendacji, o których mowa w art. 21 ust. 1, i rekomendacji, o której mowa w art. 21a ust. 6,
+
+### 2)
+
+wyników konsultacji, o których mowa w art. 19 ust. 2
+
+- dokonuje oceny celowości włączenia odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej opisanej we wniosku, o którym mowa w art. 14 lub art. 15a, do Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Na podstawie oceny, o której mowa w ust. 1, minister właściwy:
+
+### 1)
+
+pozytywnie rozpatruje wniosek, o którym mowa odpowiednio w art. 14 lub art. 15a, określa ostateczny opis kwalifikacji wolnorynkowej lub kwalifikacji sektorowej obejmujący informacje, o których mowa w art. 15 ust. 1 pkt 2-5 albo w art. 15b ust. 1 pkt 2-5, oraz przypisuje do danej kwalifikacji poziom Polskiej Ramy Kwalifikacji zgodnie z rekomendacją zespołu ekspertów, o której mowa odpowiednio w art. 21 ust. 1 pkt 2 lub art. 21a ust. 6, albo
+
+### 2)
+
+negatywnie rozpatruje wniosek, o którym mowa odpowiednio w art. 14 lub art. 15a, i odmawia włączenia danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej do Zintegrowanego Systemu Kwalifikacji.
+
+### Art. 22[31) W brzmieniu ustalonym przez art. 9 pkt 17 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:31:).
+
+### 1.
+
+Podczas ustalania właściwości ministra, o którym mowa w art. 18 ust. 3, konsultacji wniosku, o których mowa w art. 19 ust. 2, sporządzania opinii i rekomendacji, o których mowa w art. 21 ust. 1, oraz dokonywania oceny, o której mowa w art. 21b ust. 1, odpowiednio podmiot prowadzący Zintegrowany Rejestr Kwalifikacji, minister właściwy oraz zespół ekspertów, o którym mowa w art. 21 ust. 1, współpracują z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a.
+
+### 2.
+
+Współpraca, o której mowa w ust. 1, polega w szczególności na:
+
+### 1)
+
+informowaniu podmiotu, o którym mowa odpowiednio w art. 14 i art. 15a, o przekazaniu wniosku do ministra właściwego lub o przekazaniu wniosku do innego ministra;
+
+### 2)
+
+przekazywaniu podmiotowi, o którym mowa odpowiednio w art. 14 i art. 15a, wniosków z konsultacji ze środowiskami, o których mowa w art. 19 ust. 2, dotyczących danej kwalifikacji, które wpływają do ministra właściwego;
+
+### 3)
+
+przekazywaniu przez ministra właściwego podmiotowi, o którym mowa odpowiednio w art. 14 i art. 15a, uwag i propozycji zmian zgłoszonych przez zespół ekspertów, o którym mowa w art. 21 ust. 1;
+
+### 4)
+
+konsultowaniu z podmiotem, o którym mowa odpowiednio w art. 14 i art. 15a, korekt doskonalących daną kwalifikację proponowanych przez zespół ekspertów, o którym mowa w art. 21 ust. 1.
+
+### Art. 23.
+
+### 1[32) W brzmieniu ustalonym przez art. 9 pkt 18 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:32:).
+
+Minister właściwy niezwłocznie informuje podmiot, o którym mowa odpowiednio w art. 14 i art. 15a, o pozytywnym lub negatywnym rozpatrzeniu wniosku. W przypadku negatywnego rozpatrzenia wniosku minister właściwy przedstawia jego uzasadnienie, odwołując się w szczególności do oceny, o której mowa w art. 21b ust. 1.
+
+### 2.
+
+Na negatywne rozpatrzenie wniosku nie służy skarga do sądu administracyjnego.
+
+### Art. 24[33) Ze zmianą wprowadzoną przez art. 9 pkt 19 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:33:).
+
+Minister właściwy rozpatruje wniosek, o którym mowa w art. 14 i art. 15a, w terminie czterech miesięcy od dnia otrzymania poprawnego formalnie wniosku zgodnie z art. 18 ust. 6. Termin może być jednokrotnie przedłużony o cztery miesiące.
+
+### Art. 25[34) W brzmieniu ustalonym przez art. 9 pkt 20 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:34:).
+
+### 1.
+
+Minister właściwy w drodze obwieszczenia włącza odpowiednio kwalifikację wolnorynkową lub kwalifikację sektorową do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### 2.
+
+Obwieszczenie, o którym mowa w ust. 1, zawiera informacje o:
+
+### 1)
+
+nazwie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej;
+
+### 2)
+
+poziomie Polskiej Ramy Kwalifikacji przypisanym do kwalifikacji wolnorynkowej lub kwalifikacji sektorowej oraz o odniesieniu do poziomu odpowiednich Sektorowych Ram Kwalifikacji zgodnie z art. 21 ust. 3 pkt 2;
+
+### 3)
+
+efektach uczenia się wymaganych dla kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, o których mowa w art. 21 ust. 3 pkt 1;
+
+### 4)
+
+ramowych wymaganiach dotyczących metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji;
+
+### 5)
+
+warunkach, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informację o braku takich warunków;
+
+### 6)
+
+innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, jeżeli zostały określone, albo informację o braku takich warunków;
+
+### 7)
+
+okresie ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej, bezterminowym lub określonym, oraz warunkach przedłużenia ważności, jeżeli okres ważności certyfikatu został określony;
+
+### 8)
+
+w razie potrzeby, dodatkowych wymaganiach wynikających ze specyfiki kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, dotyczących:
+
+### a)
+
+zakresu i częstotliwości ewaluacji wewnętrznej, o których mowa w art. 64 ust. 1 i 2,
+
+### b)
+
+zakresu i częstotliwości sporządzania raportów z zewnętrznego zapewniania jakości, o których mowa w art. 68 ust. 1 i 2,
+
+### c)
+
+zakresu i częstotliwości składania sprawozdań z działalności, o których mowa w art. 76 ust. 1-3;
+
+### 9)
+
+w razie potrzeby, dodatkowych warunkach, które muszą spełniać podmioty ubiegające się o uprawnienie do certyfikowania na podstawie art. 41 ust. 1;
+
+### 10)
+
+terminie dokonywania przeglądu kwalifikacji, z uwzględnieniem terminu, o którym mowa w art. 27 ust. 1.
+
+### 3.
+
+Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za włączoną do Zintegrowanego Systemu Kwalifikacji z dniem ogłoszenia obwieszczenia, o którym mowa w ust. 1.
+
+### Art. 26[34) W brzmieniu ustalonym przez art. 9 pkt 20 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:34:).
+
+Niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 25 ust. 1, minister właściwy publikuje na portalu Zintegrowanego Systemu Kwalifikacji informację o możliwości składania wniosków o nadanie uprawnienia do certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### Art. 27[34) W brzmieniu ustalonym przez art. 9 pkt 20 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:34:).
+
+### 1.
+
+Minister właściwy, nie rzadziej niż raz na dziesięć lat, dokonuje przeglądu kwalifikacji wolnorynkowej i kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Do przeglądu kwalifikacji wolnorynkowej i kwalifikacji sektorowej przepisy art. 21 stosuje się odpowiednio, z tym że:
+
+### 1)
+
+zespół ekspertów, o którym mowa w art. 21 ust. 1, sporządza opinię zawierającą propozycje dotyczące dalszego funkcjonowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej w Zintegrowanym Systemie Kwalifikacji lub modyfikacji tej kwalifikacji;
+
+### 2)
+
+zespołu ekspertów, o którym mowa w art. 21 ust. 1, nie powołuje się w przypadku, gdy w okresie pięciu lat poprzedzających dokonanie przeglądu nie został wydany żaden certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej.
+
+### 3.
+
+W przypadkach uzasadnionych potrzebami społeczno-gospodarczymi lub na wniosek sektorowej rady do spraw kompetencji, lub z własnej inicjatywy minister właściwy może dokonać przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji w terminie krótszym niż określony w ust. 1.
+
+### 4.
+
+W wyniku przeglądu minister właściwy:
+
+### 1)
+
+stwierdza, że dana kwalifikacja wolnorynkowa lub kwalifikacja sektorowa funkcjonuje w Zintegrowanym Systemie Kwalifikacji w zakresie określonym w obwieszczeniu, o którym mowa w art. 25 ust. 1;
+
+### 2)
+
+w drodze obwieszczenia dokonuje modyfikacji danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej;
+
+### 3)
+
+w drodze obwieszczenia nadaje kwalifikacji wolnorynkowej lub kwalifikacji sektorowej status kwalifikacji archiwalnej, jeżeli w okresie pięciu lat poprzedzających dokonanie przeglądu nie został wydany żaden certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej.
+
+### 5.
+
+Obwieszczenia, o których mowa w ust. 4 pkt 2 i 3, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### Art. 28.
+
+Modyfikacja kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, o której mowa w art. 27 ust. 4 pkt 2, nie może dotyczyć:[35) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 21 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:35:)
+
+### 1)
+
+nazwy kwalifikacji;
+
+### 2)
+
+przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji;
+
+### 3[36) Ze zmianą wprowadzoną przez art. 9 pkt 21 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:36:))
+
+efektów uczenia się wymaganych dla kwalifikacji, jeżeli zmiana w zakresie efektów uczenia się skutkowałaby koniecznością zmiany nazwy kwalifikacji lub przypisania innego poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji.
+
+### Art. 29.
+
+### 1[37) Ze zmianą wprowadzoną przez art. 9 pkt 22 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:37:).
+
+Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej skutkuje wygaśnięciem z mocy prawa uprawnień instytucji certyfikujących do certyfikowania tej kwalifikacji oraz wygaśnięciem z mocy prawa umów, o których mowa w art. 60 ust. 1, w odniesieniu do tych instytucji certyfikujących.
+
+### 2[38) W brzmieniu ustalonym przez art. 9 pkt 22 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:38:).
+
+Osobom, które w dniu ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3, rozpoczęły walidację w danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej wydaje się certyfikat kwalifikacji wolnorynkowej lub certyfikat kwalifikacji sektorowej, jeżeli wynik walidacji jest pozytywny.
+
+### 3[38) W brzmieniu ustalonym przez art. 9 pkt 22 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:38:).
+
+Nadanie kwalifikacji wolnorynkowej lub kwalifikacji sektorowej statusu kwalifikacji archiwalnej nie powoduje unieważnienia certyfikatów kwalifikacji wolnorynkowej lub certyfikatów kwalifikacji sektorowej, które zostały wydane przed dniem ogłoszenia obwieszczenia, o którym mowa w art. 27 ust. 4 pkt 3.
+
+### Art. 30.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 31.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 32.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 33.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 34.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 35.
+
+(uchylony)[39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:39:)
+
+### Art. 36.
+
+### 1.
+
+Minister kierujący działem administracji rządowej może, w drodze rozporządzenia, upoważnić organ lub kierownika jednostki organizacyjnej jemu podległej lub przez niego nadzorowanej, organ samorządu zawodowego lub organ organizacji gospodarczej do:
+
+### 1[40) Ze zmianą wprowadzoną przez art. 9 pkt 24 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:40:))
+
+rozpatrywania wniosków, o których mowa w art. 14 i art. 15a,
+
+### 2[41) W brzmieniu ustalonym przez art. 9 pkt 24 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:41:))
+
+dokonywania przeglądu kwalifikacji wolnorynkowej lub kwalifikacji sektorowej włączonej do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 27 ust. 1 i 3
+
+- mając na uwadze efektywny przebieg postępowań, o których mowa w pkt 1 i 2.
+
+### 2[42) Ze zmianą wprowadzoną przez art. 9 pkt 24 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:42:).
+
+Do rozpatrywania wniosków, o których mowa w art. 14 i art. 15a, stosuje się odpowiednio art. 24 i art. 25 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### Art. 37.
+
+### 1[43) W brzmieniu ustalonym przez art. 9 pkt 25 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:43:).
+
+Kwalifikacje rzemieślnicze mogą być włączone do Zintegrowanego Systemu Kwalifikacji przez ministra właściwego na wniosek Związku Rzemiosła Polskiego. Przepisy art. 15 i art. 16 stosuje się odpowiednio.
+
+### 2[44) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:44:).
+
+Do rozpatrzenia wniosku stosuje się art. 17-19 i art. 21-25.
+
+### 3[45) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:45:).
+
+Uprawnienia do certyfikowania kwalifikacji rzemieślniczych posiadają izby rzemieślnicze.
+
+### 4[46) W brzmieniu ustalonym przez art. 9 pkt 25 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:46:).
+
+Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji rzemieślniczych prowadzonych przez izby rzemieślnicze wykonuje Związek Rzemiosła Polskiego.
+
+### 5[47) W brzmieniu ustalonym przez art. 9 pkt 25 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:47:).
+
+Kwalifikację rzemieślniczą uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji z dniem ogłoszenia obwieszczenia, o którym mowa w art. 25 ust. 1.
+
+### 6[48) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. f ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:48:).
+
+Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o rozpoczęciu funkcjonowania w Zintegrowanym Systemie Kwalifikacji danej kwalifikacji rzemieślniczej.
+
+### 7[49) W brzmieniu ustalonym przez art. 9 pkt 25 lit. g ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:49:).
+
+Do kwalifikacji rzemieślniczych stosuje się odpowiednio przepisy art. 26-29, art. 36, art. 47 ust. 1, 4 i 5, art. 48-50, art. 63-71 i art. 75-80.
+
+### Art. 38.
+
+### 1.
+
+Minister właściwy może włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikację uregulowaną, jeżeli w odniesieniu do danej kwalifikacji:[50) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 26 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:50:)
+
+### 1[51) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:51:))
+
+jest możliwe przypisanie poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji;
+
+### 2[51) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:51:))
+
+w przepisach odrębnych są określone:
+
+### a)
+
+wymagania dotyczące walidacji,
+
+### b)
+
+instytucje uprawnione do certyfikowania kwalifikacji uregulowanej lub warunki uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej;
+
+### 3)
+
+(uchylony)[52) Przez art. 9 pkt 26 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:52:)
+
+### 4)
+
+(uchylony)[52) Przez art. 9 pkt 26 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:52:)
+
+### 5[53) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:53:))
+
+w przepisach odrębnych jest określony sposób zapewniania jakości nadawania kwalifikacji;
+
+### 6)
+
+(uchylony)[54) Przez art. 9 pkt 26 lit. a tiret piąte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:54:)
+
+### 7[55) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret szóste ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:55:))
+
+w przepisach odrębnych są określone warunki, które musi spełnić osoba przystępująca do walidacji.
+
+### 8)
+
+(uchylony)[56) Przez art. 9 pkt 26 lit. a tiret siódme ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:56:)
+
+### 2.
+
+Minister właściwy przypisuje poziom Polskiej Ramy Kwalifikacji do kwalifikacji uregulowanej po dokonaniu porównania efektów uczenia wymaganych dla danej kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji pierwszego i drugiego stopnia. Przepisy art. 21 i art. 21a stosuje się odpowiednio.[57) Zdanie drugie w brzmieniu ustalonym przez art. 9 pkt 26 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:57:)
+
+### 3.
+
+Minister właściwy w drodze obwieszczenia informuje o przypisaniu poziomu Polskiej Ramy Kwalifikacji do kwalifikacji uregulowanej oraz o włączeniu kwalifikacji uregulowanej do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+### 3a[58) Dodany przez art. 9 pkt 26 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:58:).
+
+Obwieszczenie, o którym mowa w ust. 3, zawiera:
+
+### 1)
+
+informację o nazwie kwalifikacji uregulowanej;
+
+### 2)
+
+informację o poziomie Polskiej Ramy Kwalifikacji przypisanym do kwalifikacji uregulowanej oraz o odniesieniu do poziomu odpowiednich Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż są włączone do Zintegrowanego Systemu Kwalifikacji;
+
+### 3)
+
+opis efektów uczenia się;
+
+### 4)
+
+wymagania dotyczące walidacji;
+
+### 5)
+
+informację o warunkach, jakie musi spełnić osoba przystępująca do walidacji;
+
+### 6)
+
+informacje o innych, poza pozytywnym wynikiem walidacji, warunkach uzyskania kwalifikacji uregulowanej, jeżeli zostały określone, albo informację o braku takich warunków;
+
+### 7)
+
+informację o okresie ważności dokumentu potwierdzającego nadanie kwalifikacji i warunkach przedłużenia ważności dokumentu, lub informację, że ważność tego dokumentu jest bezterminowa;
+
+### 8)
+
+informację o instytucjach uprawnionych do certyfikowania kwalifikacji uregulowanej lub warunkach uzyskania uprawnienia do certyfikowania kwalifikacji uregulowanej.
+
+### 4[59) Ze zmianą wprowadzoną przez art. 9 pkt 26 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:59:).
+
+Kwalifikację uregulowaną uznaje się za włączoną do Zintegrowanego Systemu Kwalifikacji z dniem ogłoszenia obwieszczenia, o którym mowa w ust. 3.
+
+### 5.
+
+Minister właściwy informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o włączeniu danej kwalifikacji uregulowanej do Zintegrowanego Systemu Kwalifikacji niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w ust. 3.
+
+### Art. 39.
+
+(uchylony)[60) Przez art. 9 pkt 27 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:60:)
+
+### Art. 40.
+
+### 1[61) Ze zmianą wprowadzoną przez art. 9 pkt 28 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:61:).
+
+Przepisy art. 14-25 stosuje się odpowiednio do włączania do Zintegrowanego Systemu Kwalifikacji kwalifikacji nadawanych po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, w art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk i w art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
+
+### 2[62) Ze zmianą wprowadzoną przez art. 9 pkt 28 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:62:).
+
+Do kwalifikacji cząstkowych, o których mowa w ust. 1, stosuje się art. 26-29 i art. 36 oraz art. 41-81.
+
+### Rozdział 4 Wymogi dotyczące podmiotów przeprowadzających walidację i certyfikowanie kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji oraz zasady uzyskiwania uprawnień do certyfikowania
+
+[63) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 29 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:63:)
+
+### Art. 41.
+
+### 1.
+
+Minister właściwy nadaje, w drodze decyzji administracyjnej, uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej:[64) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 30 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:64:)
+
+### 1)
+
+funkcjonującej w Zintegrowanym Systemie Kwalifikacji;
+
+### 2[65) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:65:))
+
+w odniesieniu do której na portalu Zintegrowanego Systemu Kwalifikacji została ogłoszona informacja, o której mowa w art. 26.
+
+### 2.
+
+Z wnioskiem o nadanie uprawnienia do certyfikowania danej kwalifikacji wolnorynkowej może wystąpić podmiot prowadzący działalność gospodarczą, jeżeli:[66) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:66:)
+
+### 1[67) W brzmieniu ustalonym przez art. 9 pkt 30 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:67:))
+
+zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4;
+
+### 2[68) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:68:))
+
+spełnia dodatkowe warunki określone w art. 25 ust. 2 pkt 9;
+
+### 3[69) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:69:))
+
+nie zakończył lub nie zawiesił prowadzenia działalności gospodarczej, lub w stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
+
+### 4)
+
+nie posiada zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, o ile był obowiązany do ich opłacania.
+
+### 3[70) Dodany przez art. 9 pkt 30 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:70:).
+
+Z wnioskiem o nadanie uprawnienia do certyfikowania danej kwalifikacji sektorowej może wystąpić podmiot, o którym mowa w art. 15a, jeżeli:
+
+### 1)
+
+zapewnia warunki kadrowe, organizacyjne i materialne umożliwiające przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4;
+
+### 2)
+
+spełnia dodatkowe warunki określone w art. 25 ust. 2 pkt 9;
+
+### 3)
+
+nie zakończył lub nie zawiesił prowadzenia działalności statutowej lub w stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
+
+### 4)
+
+nie posiada zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, o ile jest obowiązany do ich opłacania.
+
+### Art. 42.
+
+### 1.
+
+Wniosek, o którym mowa w art. 41 ust. 2 i 3, zawiera:[71) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:71:)
+
+### 1)
+
+dane podmiotu, o którym mowa w art. 41 ust. 2 i 3:[72) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:72:)
+
+### a[73) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:73:))
+
+nazwę podmiotu,
+
+### b[73) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:73:))
+
+siedzibę i adres,
+
+### c[74) Ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:74:))
+
+numer identyfikacji podatkowej (NIP) lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania,
+
+### d)
+
+(uchylona)
+
+### e[75) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:75:))
+
+numer w Krajowym Rejestrze Sądowym (KRS), o ile został nadany,
+
+### f[75) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:75:))
+
+imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
+
+### g[75) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:75:))
+
+adres elektroniczny osoby składającej wniosek w imieniu podmiotu, o którym mowa w art. 41 ust. 2 i 3;
+
+### 2[76) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:76:))
+
+wskazanie odpowiednio kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczy wniosek;
+
+### 3[76) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:76:))
+
+informacje o spełnianiu warunków kadrowych, organizacyjnych i materialnych umożliwiających przeprowadzenie walidacji zgodnie z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o spełnianiu dodatkowych warunków, o których mowa w art. 25 ust. 2 pkt 9.
+
+### 2.
+
+Do wniosku dołącza się:
+
+### 1)
+
+oświadczenia o następującej treści:
+
+### a)
+
+„Oświadczam, że nie posiadam zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.”,
+
+### b[77) W brzmieniu ustalonym przez art. 9 pkt 31 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:77:))
+
+odpowiednio „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej są zgodne z prawdą.” albo „Oświadczam, że dane zawarte we wniosku o nadanie uprawnienia do certyfikowania kwalifikacji sektorowej są zgodne z prawdą.”;
+
+### 2[78) Ze zmianą wprowadzoną przez art. 9 pkt 31 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:78:))
+
+dowód wniesienia opłaty, o której mowa w art. 43 ust. 1 lub 1a.
+
+### 3.
+
+Oświadczenia, o których mowa w ust. 2 pkt 1, uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+### 4.
+
+Oświadczenia, o których mowa w ust. 2 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.[79) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 31 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:79:) Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.[79) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 31 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:79:)
+
+### 5.
+
+Wniosek składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+
+### Art. 43.
+
+### 1.
+
+Wniosek, o którym mowa w art. 41 ust. 2 i 3, podlega opłacie.[80) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 32 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:80:) Opłatę w wysokości 10 000 zł wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi.
+
+### 1a[81) Dodany przez art. 9 pkt 32 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:81:).
+
+W przypadku podmiotu, o którym mowa odpowiednio w art. 14 lub art. 15a, opłata za wniosek o nadanie uprawnienia do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, której dotyczył wniosek o włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, wynosi 50 % kwoty, o której mowa w ust. 1. Opłata ta stanowi dochód budżetu państwa i nie podlega zwrotowi.
+
+### 2.
+
+Kwota, o której mowa w ust. 1, podlega raz na pięć lat waloryzacji o sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych w ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, o której mowa w ust. 1, obowiązującą w kolejnych pięciu latach, obliczoną zgodnie z ust. 2.
+
+### Art. 44.
+
+### 1[82) Ze zmianą wprowadzoną przez art. 9 pkt 33 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:82:).
+
+Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, o którym mowa w art. 41 ust. 2 i 3, w terminie 14 dni od dnia złożenia tego wniosku.
+
+### 2[83) Ze zmianą wprowadzoną przez art. 9 pkt 33 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:83:).
+
+Ocena formalna wniosku obejmuje ocenę zgodności wniosku z wymogami, o których mowa w art. 42 i art. 43 ust. 1 i 1a.
+
+### 3.
+
+W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa podmiot, o którym mowa w art. 41 ust. 2 i 3, do ich usunięcia w terminie 30 dni.[84) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 33 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:84:) Termin, o którym mowa w ust. 1, biegnie od dnia złożenia przez podmiot poprawionego wniosku.
+
+### 4.
+
+W przypadku nieusunięcia braków w terminie, o którym mowa w ust. 3, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego wniosek wraz z informacją o zakresie braków formalnych.
+
+### 5.
+
+Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego.
+
+### 6.
+
+Termin, o którym mowa w art. 35 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, biegnie od dnia otrzymania przez ministra właściwego poprawnego formalnie wniosku, o którym mowa w ust. 5.
+
+### Art. 45.
+
+### 1.
+
+Minister kierujący działem administracji rządowej może, w drodze rozporządzenia, upoważnić do wydawania decyzji, o których mowa w art. 41 ust. 1, organ lub kierownika jednostki organizacyjnej podległej ministrowi lub przez niego nadzorowanej, organ samorządu zawodowego lub organ organizacji gospodarczej, mając na uwadze efektywny przebieg postępowań w sprawach wydawania tych decyzji.
+
+### 2.
+
+W przypadku udzielenia upoważnienia, o którym mowa w ust. 1, właściwym do rozpatrzenia odwołania od decyzji wydanej w pierwszej instancji jest minister właściwy.
+
+### Art. 46.
+
+### 1[85) W brzmieniu ustalonym przez art. 9 pkt 34 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:85:).
+
+Instytucja certyfikująca wnosi kwartalną opłatę w wysokości 3 % przychodów z opłat za walidację i certyfikowanie, jednak nie mniej niż 1 zł od wydanego certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.
+
+### 2.
+
+Instytucja certyfikująca, która zawarła umowę, o której mowa w art. 122a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, wnosi kwartalną opłatę w wysokości pomniejszonej o kwotę stanowiącą iloczyn:
+
+### 1)
+
+liczby uczniów lub absolwentów objętych umową, którzy w danym kwartale nieodpłatnie przystąpili do walidacji oraz
+
+### 2)
+
+średniej wysokości opłat za walidację i certyfikowanie w danym kwartale, o których mowa w art. 65 ust. 1 pkt 2.
+
+### 3[86) Dodany przez art. 9 pkt 34 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:86:).
+
+Opłatę, o której mowa w ust. 1 i 2, wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata ta stanowi dochód budżetu państwa.
+
+### Art. 47.
+
+### 1[87) Ze zmianą wprowadzoną przez art. 9 pkt 35 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:87:).
+
+Walidację przeprowadza instytucja certyfikująca w sposób zgodny z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4.
+
+### 2[87) Ze zmianą wprowadzoną przez art. 9 pkt 35 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:87:).
+
+Instytucja certyfikująca może upoważnić do przeprowadzania walidacji inny podmiot, jeżeli gwarantuje on przeprowadzanie walidacji w sposób zgodny z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4.
+
+### 3.
+
+Upoważnienie podmiotu, o którym mowa w ust. 2, nie zwalnia instytucji certyfikującej z odpowiedzialności za prawidłowość walidacji przeprowadzanej przez ten podmiot.
+
+### 4[88) W brzmieniu ustalonym przez art. 9 pkt 35 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:88:).
+
+Instytucja certyfikująca prowadzi stronę internetową, na której udostępnia szczegółowe informacje o sposobie organizowania i przeprowadzania walidacji zgodnym z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz o aktualnie obowiązujących opłatach za walidację i certyfikowanie.
+
+### 5[89) Dodany przez art. 9 pkt 35 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:89:).
+
+Instytucja certyfikująca przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informację o adresie strony internetowej, o której mowa w ust. 4.
+
+### Art. 48.
+
+### 1[90) Ze zmianą wprowadzoną przez art. 9 pkt 36 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:90:).
+
+Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, uzyskane w różnym miejscu i czasie, mogą być etapowo gromadzone i być podstawą nadania kwalifikacji w toku certyfikowania.
+
+### 2[90) Ze zmianą wprowadzoną przez art. 9 pkt 36 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:90:).
+
+Przez osiągnięcia, o których mowa w ust. 1 i art. 49, należy rozumieć wyodrębniony zbiór efektów uczenia się, których uzyskanie zostało potwierdzone w walidacji, stanowiący część wymagań dla danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### 3[91) W brzmieniu ustalonym przez art. 9 pkt 36 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:91:).
+
+Osiągnięcia wymagane dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej mogą być poddawane walidacji w różnym miejscu i czasie, jeżeli wymagania dotyczące walidacji, o których mowa w art. 25 ust. 2 pkt 4, nie stanowią inaczej.
+
+### Art. 49.
+
+### 1[92) Ze zmianą wprowadzoną przez art. 9 pkt 37 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:92:).
+
+Instytucja certyfikująca może w toku certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej uznać osiągnięcia, uzyskane w związku z ubieganiem się o nadanie innej kwalifikacji włączonej do Zintegrowanego Systemu Kwalifikacji, za tożsame z osiągnięciami stanowiącymi część wymagań dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, na podstawie dokumentu potwierdzającego nadanie innej kwalifikacji.
+
+### 2[92) Ze zmianą wprowadzoną przez art. 9 pkt 37 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:92:).
+
+Instytucja certyfikująca może w toku certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej uznać inne osiągnięcia, niż określone w ust. 1, za tożsame z osiągnięciami stanowiącymi część wymagań dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, jeżeli uzyskanie tych osiągnięć zostało sprawdzone w przeprowadzonej walidacji.
+
+### 3[92) Ze zmianą wprowadzoną przez art. 9 pkt 37 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:92:).
+
+W przypadku, o którym mowa w ust. 2, uznanie osiągnięć następuje na podstawie rozmowy z osobą ubiegającą się o nadanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej oraz na podstawie oceny przedstawionej przez tę osobę dokumentacji.
+
+### 4.
+
+Osiągnięcia uznane w sposób określony w ust. 1 lub 2 nie podlegają ponownej walidacji.
+
+### Art. 49a[93) Dodany przez art. 9 pkt 38 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:93:).
+
+### 1.
+
+Warunkiem wydania przez instytucję certyfikującą certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej jest potwierdzenie w drodze walidacji osiągnięcia wszystkich efektów uczenia się wymaganych dla danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej.
+
+### 2.
+
+Certyfikat kwalifikacji wolnorynkowej i certyfikat kwalifikacji sektorowej zawierają:
+
+### 1)
+
+nazwę dokumentu odpowiednio: „certyfikat kwalifikacji wolnorynkowej” albo „certyfikat kwalifikacji sektorowej”;
+
+### 2)
+
+nazwę kwalifikacji odpowiednio wolnorynkowej lub sektorowej;
+
+### 3)
+
+nazwę i siedzibę instytucji certyfikującej;
+
+### 4)
+
+informacje dotyczące posiadacza certyfikatu:
+
+### a)
+
+imię (imiona) i nazwisko,
+
+### b)
+
+datę urodzenia;
+
+### 5)
+
+numer certyfikatu nadany przez instytucję certyfikującą;
+
+### 6)
+
+znak graficzny określony w przepisach wydanych na podstawie art. 10 ust. 4;
+
+### 7)
+
+imię (imiona) i nazwisko oraz podpis osoby upoważnionej do wydania certyfikatu;
+
+### 8)
+
+nazwę miejscowości i datę wydania certyfikatu;
+
+### 9)
+
+okres ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej, o którym mowa w art. 25 ust. 2 pkt 7.
+
+### 3.
+
+Instytucja certyfikująca w celu wykonania zadania realizowanego w interesie publicznym, związanego z potwierdzeniem przez osoby posiadania określonych kwalifikacji, prowadzi ewidencję wydanych certyfikatów kwalifikacji wolnorynkowych i certyfikatów kwalifikacji sektorowych obejmującą:
+
+### 1)
+
+dane, o których mowa w ust. 2 pkt 2, 4, 5 i 8;
+
+### 2)
+
+informacje o datach przeprowadzenia walidacji i podmiotach przeprowadzających walidację;
+
+### 3)
+
+informacje o osiągnięciach uznanych w sposób określony w art. 49 ust. 1 lub 2.
+
+### 4.
+
+Dane, o których mowa w ust. 2 pkt 4, są przechowywane w ewidencji, o której mowa w ust. 3, przez okres 5 lat.
+
+### 5.
+
+Ewidencja, o której mowa w ust. 3, jest prowadzona w postaci papierowej lub elektronicznej. System informatyczny służący do prowadzenia ewidencji w postaci elektronicznej umożliwia eksport danych do formatu XML.
+
+### 6.
+
+Instytucja certyfikująca przechowuje protokoły z przeprowadzonej walidacji albo rozmowy, o której mowa w art. 49 ust. 3, przez okres 5 lat, licząc od dnia wystawienia certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej.
+
+### Rozdział 5 Zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji
+
+[94) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 39 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:94:)
+
+### Art. 50.
+
+### 1.
+
+Walidacja i certyfikowanie prowadzone przez instytucję certyfikującą są objęte systemem zapewniania jakości.
+
+### 2.
+
+Na system zapewniania jakości walidacji i certyfikowania składają się:
+
+### 1)
+
+zewnętrzny system zapewniania jakości;
+
+### 2)
+
+wewnętrzny system zapewniania jakości.
+
+### Art. 51.
+
+### 1[95) W brzmieniu ustalonym przez art. 9 pkt 40 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:95:).
+
+Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji wolnorynkowych i kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące, z wyjątkiem instytucji, o których mowa w ust. 1a, wykonuje podmiot prowadzący zorganizowaną działalność w obszarze gospodarki, rynku pracy, edukacji lub szkoleń, który został wpisany na listę podmiotów uprawnionych do pełnienia funkcji zewnętrznego zapewniania jakości wobec instytucji certyfikujących, zwaną dalej „listą”.
+
+### 1a[96) Dodany przez art. 9 pkt 40 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:96:).
+
+Zewnętrzne zapewnianie jakości walidacji i certyfikowania kwalifikacji sektorowych prowadzonych przez instytucje certyfikujące będące podmiotami, o których mowa w art. 15a, które:
+
+### 1)
+
+są organami prowadzącymi branżowe centra umiejętności, o których mowa w art. 4 pkt 30a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, lub
+
+### 2)
+
+zawarły porozumienia, o których mowa w art. 8 ust. 3a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe
+
+- wykonuje Instytut Badań Edukacyjnych w Warszawie.
+
+### 2.
+
+Listę prowadzi minister koordynator Zintegrowanego Systemu Kwalifikacji.
+
+### 3.
+
+Lista jest podawana do publicznej wiadomości na portalu Zintegrowanego Systemu Kwalifikacji.
+
+### Art. 52.
+
+### 1.
+
+Wpis na listę podmiotu, o którym mowa w art. 51 ust. 1, następuje w drodze decyzji administracyjnej, po przeprowadzeniu naboru na listę.
+
+### 2[97) Ze zmianą wprowadzoną przez art. 9 pkt 41 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:97:).
+
+W decyzji, o której mowa w ust. 1, wskazuje się grupy kwalifikacji wolnorynkowych lub kwalifikacji sektorowych z określonych działów administracji rządowej, w których dany podmiot może pełnić funkcję podmiotu zewnętrznego zapewniania jakości wobec instytucji certyfikujących.
+
+### Art. 53.
+
+### 1.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji ogłasza nabór na listę nie rzadziej niż raz na trzy lata. Informację o naborze na listę podaje się na portalu Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Z wnioskiem o wpis na listę może wystąpić podmiot, o którym mowa w art. 51 ust. 1, jeżeli:
+
+### 1)
+
+dysponuje odpowiednio przygotowaną kadrą do wykonywania zadań, o których mowa w art. 66;
+
+### 2)
+
+posiada wewnętrzny system zapewniania jakości przeprowadzanych procesów;
+
+### 3[98) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:98:))
+
+nie jest instytucją certyfikującą kwalifikacje wolnorynkowe lub kwalifikacje sektorowe należące do grup kwalifikacji, o których mowa w art. 52 ust. 2;
+
+### 4)
+
+posiada co najmniej 10-letnie doświadczenie w prowadzeniu działalności w zakresie gospodarki, rynku pracy, edukacji lub szkoleń;
+
+### 5[99) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:99:))
+
+nie zakończył lub nie zawiesił prowadzenia działalności gospodarczej, lub w stosunku do którego nie została otwarta likwidacja lub nie ogłoszono jego upadłości;
+
+### 6)
+
+nie posiada zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, o ile był obowiązany do ich opłacania.
+
+### 3.
+
+Przez kadrę, o której mowa w ust. 2 pkt 1, należy rozumieć pracowników, którzy jako zespół posiadają:
+
+### 1)
+
+ogólną wiedzę na temat zintegrowanego systemu kwalifikacji;
+
+### 2)
+
+wiedzę o zasadach walidacji oraz doświadczenie w zakresie walidacji efektów uczenia się uzyskanych w ramach edukacji formalnej i nieformalnej oraz uczenia się nieformalnego;
+
+### 3[100) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:100:))
+
+wiedzę o zasadach wewnętrznego i zewnętrznego zapewniania jakości w obszarze nadawania kwalifikacji wolnorynkowych lub kwalifikacji sektorowych należących do grup kwalifikacji, o których mowa w art. 52 ust. 2, oraz doświadczenie w zakresie prowadzenia ewaluacji lub audytów.
+
+### Art. 54.
+
+### 1.
+
+Wniosek, o którym mowa w art. 53 ust. 2, zawiera:
+
+### 1)
+
+dane podmiotu, o którym mowa w art. 51 ust. 1:
+
+### a)
+
+nazwę lub firmę albo imię i nazwisko, w przypadku osoby fizycznej,
+
+### b)
+
+siedzibę i adres albo adres zamieszkania oraz adres do doręczeń, w przypadku osoby fizycznej,
+
+### c)
+
+numer identyfikacji podatkowej (NIP), numer PESEL lub, w przypadku osoby zagranicznej, o której mowa w art. 3 pkt 5 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, inny numer przypisany do celów identyfikacji podatkowej w kraju siedziby lub zamieszkania,
+
+### d)
+
+(uchylona)
+
+### e)
+
+numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym (KRS) albo numer w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, o ile został nadany,
+
+### f[101) W brzmieniu ustalonym przez art. 9 pkt 43 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:101:))
+
+imiona i nazwiska oraz stanowiska osób uprawnionych do reprezentowania w przypadku podmiotu będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której odrębna ustawa przyznaje zdolność prawną,
+
+### g)
+
+adres elektroniczny osoby wnoszącej wniosek;
+
+### 2[102) Ze zmianą wprowadzoną przez art. 9 pkt 43 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:102:))
+
+określenie grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych z określonych działów administracji rządowej, o których mowa w art. 52 ust. 2, w odniesieniu do których dany podmiot wnioskuje o pełnienie funkcji zewnętrznego zapewniania jakości;
+
+### 3)
+
+imiona i nazwiska pracowników danego podmiotu wraz z informacją o ich wykształceniu i doświadczeniu zawodowym w zakresie wykonywania zadań, o których mowa w art. 66;
+
+### 4)
+
+inne informacje mające wpływ na ocenę możliwości wykonywania przez dany podmiot zadań związanych z zewnętrznym zapewnianiem jakości.
+
+### 2.
+
+Do wniosku dołącza się:
+
+### 1)
+
+w przypadku podmiotu, który nie prowadzi działalności gospodarczej - dokumenty potwierdzające spełnienie warunku prowadzenia zorganizowanej działalności w obszarze gospodarki, rynku pracy, edukacji lub szkoleń, w szczególności statut, uchwałę, umowę, lub oświadczenie wskazujące obszar, w którym dany podmiot prowadzi działalność;
+
+### 2)
+
+oświadczenia o następującej treści:
+
+### a)
+
+„Oświadczam, że posiadam co najmniej 10-letnie doświadczenie w prowadzeniu działalności w zakresie gospodarki, rynku pracy, edukacji lub szkoleń oraz posiadam wewnętrzny system zapewniania jakości przeprowadzanych procesów.”,
+
+### b)
+
+„Oświadczam, że nie posiadam zaległości z tytułu podatków, składek na ubezpieczenie społeczne, ubezpieczenie zdrowotne oraz na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.”,
+
+### c[103) Ze zmianą wprowadzoną przez art. 9 pkt 43 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:103:))
+
+„Oświadczam, że dane zawarte we wniosku o nadanie uprawnień do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej są zgodne z prawdą.”;
+
+### 3)
+
+dowód wniesienia opłaty, o której mowa w art. 55 ust. 1.
+
+### 3.
+
+Oświadczenia, o których mowa w ust. 2 pkt 1 i 2, uwierzytelnia się przy użyciu mechanizmów określonych w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+
+### 4.
+
+Oświadczenia, o których mowa w ust. 2 pkt 1 i 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń.[104) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 43 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:104:) Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.[104) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 43 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:104:)
+
+### 5.
+
+Wniosek składa się do ministra właściwego za pośrednictwem portalu Zintegrowanego Rejestru Kwalifikacji.
+
+### Art. 55.
+
+### 1.
+
+Wniosek, o którym mowa w art. 53 ust. 2, podlega opłacie. Opłatę w wysokości 2000 zł wnosi się na rachunek bankowy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji na portalu Zintegrowanego Systemu Kwalifikacji. Opłata stanowi dochód budżetu państwa. Opłata nie podlega zwrotowi.
+
+### 2.
+
+Kwota, o której mowa w ust. 1, podlega raz na pięć lat waloryzacji o sumę prognozowanych średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogółem, określonych w ustawach budżetowych na dany rok kalendarzowy, za ostatnie pięć lat.
+
+### 3.
+
+Minister właściwy do spraw oświaty i wychowania co pięć lat ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” wysokość opłaty, o której mowa w ust. 1, obowiązującą w kolejnych pięciu latach, obliczoną zgodnie z ust. 2.
+
+### Art. 56.
+
+### 1.
+
+Podmiot prowadzący Zintegrowany Rejestr Kwalifikacji dokonuje oceny formalnej wniosku, o którym mowa w art. 53 ust. 2, w terminie 14 dni od dnia złożenia tego wniosku.
+
+### 2.
+
+Ocena formalna wniosku obejmuje ocenę zgodności wniosku z wymogami, o których mowa w art. 54 i art. 55 ust. 1.
+
+### 3.
+
+W przypadku stwierdzenia braków formalnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji niezwłocznie wzywa wnioskodawcę do ich usunięcia w terminie 30 dni.
+
+### 4.
+
+W przypadku nieusunięcia braków w terminie, o którym mowa w ust. 3, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje niezwłocznie do ministra właściwego wniosek wraz z informacją o zakresie braków formalnych.
+
+### 5.
+
+Poprawny formalnie wniosek podmiot prowadzący Zintegrowany Rejestr Kwalifikacji przekazuje do ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+
+### 6.
+
+Termin, o którym mowa w art. 35 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, biegnie od dnia otrzymania przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji poprawnego formalnie wniosku, o którym mowa w ust. 5.
+
+### Art. 57.
+
+### 1.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje komisję do oceny wniosku, o którym mowa w art. 53 ust. 2.
+
+### 2.
+
+W skład komisji wchodzi:
+
+### 1)
+
+przedstawiciel ministra koordynatora Zintegrowanego Systemu Kwalifikacji, jako przewodniczący komisji;
+
+### 2)
+
+po jednym przedstawicielu ministrów właściwych dla działów administracji rządowej, o których mowa w art. 54 ust. 1 pkt 2;
+
+### 3[105) Ze zmianą wprowadzoną przez art. 9 pkt 44 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:105:))
+
+trzech przedstawicieli Rady Interesariuszy.
+
+### 3.
+
+Komisja przedstawia ocenę wniosków ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji.
+
+### Art. 58.
+
+### 1.
+
+Wpisu na listę danego podmiotu dokonuje się na okres sześciu lat.
+
+### 2.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji może, z urzędu, przedłużyć wpis na listę jednokrotnie w odniesieniu do danego podmiotu o kolejne sześć lat, jeżeli dany podmiot prawidłowo wykonuje funkcję zewnętrznego zapewniania jakości.
+
+### 3.
+
+Przed przedłużeniem wpisu, o którym mowa w ust. 2, minister koordynator Zintegrowanego Systemu Kwalifikacji zasięga opinii ministrów właściwych dla działów administracji rządowej, o których mowa w art. 52 ust. 2.
+
+### Art. 59.
+
+### 1[106) Ze zmianą wprowadzoną przez art. 9 pkt 45 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:106:).
+
+Jeżeli decyzja administracyjna o nadaniu uprawnień danej instytucji certyfikującej, o której mowa w art. 41 ust. 1, jest ostateczna, minister właściwy wskazuje z listy podmiot zewnętrznego zapewniania jakości, któremu powierza wobec tej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a.
+
+### 2[107) Ze zmianą wprowadzoną przez art. 9 pkt 45 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:107:).
+
+W danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikujących uprawnionych do certyfikowania tej kwalifikacji może wykonywać nie więcej niż 5 podmiotów wpisanych na listę.
+
+### 3.
+
+Wskazując dany podmiot z listy minister właściwy uwzględnia:
+
+### 1)
+
+warunek, o którym mowa w ust. 2;
+
+### 2)
+
+racjonalność ekonomiczną i efektywność wykorzystania istniejących zasobów;
+
+### 2)
+
+zasadę równomiernego rozdzielania zadań pomiędzy podmioty wpisane na listę.
+
+### Art. 60.
+
+### 1[108) Ze zmianą wprowadzoną przez art. 9 pkt 46 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:108:).
+
+Minister właściwy, w drodze umowy, powierza wskazanemu z listy podmiotowi pełnienie funkcji zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej, z wyjątkiem instytucji, o których mowa w art. 51 ust. 1a.
+
+### 1a[109) Dodany przez art. 9 pkt 46 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:109:).
+
+Do powierzenia funkcji zewnętrznego zapewniania jakości stosuje się przepisy niniejszej ustawy oraz przepisy wydane na podstawie ust. 5.
+
+### 2[110) W brzmieniu ustalonym przez art. 9 pkt 46 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:110:).
+
+Podmioty, którym powierzono funkcję zewnętrznego zapewniania jakości w odniesieniu do instytucji certyfikujących w danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, z wyjątkiem Instytutu Badań Edukacyjnych w Warszawie, są obowiązane do współpracy w celu zapewnienia spójnego standardu jakości certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej.
+
+### 3.
+
+Podmiot, któremu powierzono funkcję zewnętrznego zapewniania jakości, może rozwiązać umowę, o której mowa w ust. 1, z ważnych powodów z zachowaniem trzymiesięcznego terminu wypowiedzenia.
+
+### 4.
+
+Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o rozwiązaniu lub wygaśnięciu umowy, o której mowa w ust. 1.
+
+### 5.
+
+Minister właściwy do spraw oświaty i wychowania określi w drodze rozporządzenia:
+
+### 1)
+
+regulamin pracy komisji, o której mowa w art. 57 ust. 1,
+
+### 2)
+
+wzór umowy, o której mowa w ust. 1,
+
+### 3)
+
+sposób ustalania wysokości wynagrodzenia z tytułu umowy, o której mowa w ust. 1, dla podmiotu, któremu powierza się funkcję zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej, okres, na jaki umowa może być zawarta, oraz szczegółowe warunki rozwiązania lub wygaśnięcia umowy
+
+- uwzględniając potrzebę zapewnienia sprawnego przebiegu postępowania, prawidłowego i efektywnego wykonywania zadań związanych z zewnętrznym zapewnianiem jakości oraz różnice w zewnętrznym zapewnianiu jakości wynikające ze specyfiki poszczególnych kwalifikacji.
+
+### 6.
+
+W zakresie nieuregulowanym ustawą do umowy, o której mowa w ust. 1, mają zastosowanie przepisy ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2024 r. poz. 1061](https://api.sejm.gov.pl/eli/acts/DU/2024/1061/text.html) i [1237](https://api.sejm.gov.pl/eli/acts/DU/2024/1237/text.html)) dotyczące umowy zlecenia.
+
+### Art. 61[111) W brzmieniu ustalonym przez art. 9 pkt 47 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:111:).
+
+Kwalifikację wolnorynkową lub kwalifikację sektorową uznaje się za funkcjonującą w Zintegrowanym Systemie Kwalifikacji, jeżeli w odniesieniu do tej kwalifikacji co najmniej jeden podmiot posiada uprawnienie do certyfikowania, o którym mowa w art. 41 ust. 1.
+
+### Art. 62[111) W brzmieniu ustalonym przez art. 9 pkt 47 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:111:).
+
+Instytucja certyfikująca rozpoczyna certyfikowanie danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej od dnia nadania uprawnienia do certyfikowania, o którym mowa w art. 41 ust. 1.
+
+### Art. 63.
+
+### 1.
+
+Instytucja certyfikująca opracowuje i stosuje wewnętrzny system zapewniania jakości.
+
+### 2.
+
+Wewnętrzny system zapewniania jakości dotyczy zasad postępowania, procedur, metod oraz rozwiązań organizacyjnych służących zapewnianiu poprawności walidacji i certyfikowania oraz doskonaleniu walidacji i certyfikowania.
+
+### 3.
+
+Na wewnętrzny system zapewniania jakości instytucji certyfikującej składają się w szczególności:
+
+### 1)
+
+rozwiązania zapewniające rozdzielenie procesów kształcenia i szkolenia od walidacji;
+
+### 2)
+
+stałe monitorowanie i bieżąca ocena walidacji i certyfikowania;
+
+### 3)
+
+ewaluacja wewnętrzna walidacji i certyfikowania.
+
+### 4.
+
+Podmiot upoważniony do przeprowadzania walidacji, o którym mowa w art. 47 ust. 2, posiada wewnętrzny system zapewniania jakości.
+
+### Art. 64.
+
+### 1[112) W brzmieniu ustalonym przez art. 9 pkt 48 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:112:).
+
+Instytucja certyfikująca przeprowadza okresową ewaluację wewnętrzną dotyczącą nadawania kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych przez ministrów właściwych do Zintegrowanego Systemu Kwalifikacji nie rzadziej niż raz na trzy lata.
+
+### 2.
+
+Instytucja certyfikująca sporządza raport z ewaluacji wewnętrznej, który zawiera:
+
+### 1)
+
+analizę dokumentacji z przebiegu walidacji i certyfikowania;
+
+### 2[113) Ze zmianą wprowadzoną przez art. 9 pkt 48 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:113:))
+
+ocenę stosowanych metod walidacji pod względem ich zgodności z ramowymi wymaganiami, o których mowa w art. 25 ust. 2 pkt 4, oraz pod względem trafności stosowanych metod i kryteriów;
+
+### 3)
+
+informacje o działaniach w zakresie doskonalenia metod walidacji i certyfikowania;
+
+### 4)
+
+informacje o działaniach w zakresie doskonalenia wewnętrznego systemu zapewniania jakości.
+
+### 3.
+
+Raport z ewaluacji wewnętrznej instytucja certyfikująca niezwłocznie przekazuje do podmiotu, któremu powierzono wobec niej funkcję zewnętrznego zapewniania jakości, oraz do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+
+### Art. 65.
+
+### 1.
+
+W odniesieniu do każdej kwalifikacji wolnorynkowej i każdej kwalifikacji sektorowej instytucja certyfikująca w terminie 20 dni roboczych po zakończeniu każdego kwartału kalendarzowego jest obowiązana do przekazania podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji informacji o:[114) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 9 pkt 49 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:114:)
+
+### 1[115) Ze zmianą wprowadzoną przez art. 9 pkt 49 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:115:))
+
+liczbie wydanych dokumentów potwierdzających nadanie kwalifikacji;
+
+### 2)
+
+średniej wysokości opłat za walidację i certyfikowanie w danym kwartale;
+
+### 3)
+
+wysokości przychodów uzyskanych w danym kwartale z opłat za walidację i certyfikowanie;
+
+### 4)
+
+liczbie osób, które nieodpłatnie przystąpiły w danym kwartale do walidacji, zgodnie z umową, o której mowa w art. 122a ust. 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe.
+
+### 2[116) Ze zmianą wprowadzoną przez art. 9 pkt 49 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:116:).
+
+Informacje, o których mowa w ust. 1, przekazuje się według stanu na ostatni dzień danego kwartału.
+
+### 2a[117) Dodany przez art. 9 pkt 49 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:117:).
+
+Do podmiotów nadających kwalifikacje rzemieślnicze nie stosuje się przepisów ust. 1 pkt 2-4.
+
+### 3.
+
+(uchylony)[118) Przez art. 9 pkt 49 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:118:)
+
+### Art. 66.
+
+Zewnętrzne zapewnianie jakości wobec danej instytucji certyfikującej obejmuje:
+
+### 1)
+
+monitorowanie wewnętrznego systemu zapewniania jakości stosowanego w danej instytucji certyfikującej;
+
+### 2[119) Ze zmianą wprowadzoną przez art. 9 pkt 50 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:119:))
+
+monitorowanie spełniania przez daną instytucję certyfikującą wymagań, o których mowa w art. 41 ust. 2 i 3;
+
+### 3)
+
+ewaluację zewnętrzną walidacji i certyfikowania przeprowadzanych przez daną instytucję certyfikującą oraz funkcjonowania wewnętrznego systemu zapewniania jakości w danej instytucji certyfikującej.
+
+### Art. 67.
+
+Podmiot zewnętrznego zapewniania jakości prowadzi monitorowanie wewnętrznego systemu zapewniania jakości stosowanego w danej instytucji certyfikującej, o którym mowa w art. 66 pkt 1, na podstawie analizy:
+
+### 1)
+
+raportów z ewaluacji wewnętrznej, o których mowa w art. 64 ust. 2;
+
+### 2)
+
+informacji, o których mowa w art. 65 ust. 1;
+
+### 3)
+
+sprawozdań z działalności, o których mowa w art. 76 ust. 1;
+
+### 4)
+
+zawiadomień, o których mowa w art. 77.
+
+### Art. 68.
+
+### 1.
+
+Podmiot zewnętrznego zapewniania jakości, nie rzadziej, niż raz na pięć lat, sporządza raport z zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej w zakresie, o którym mowa w art. 66.
+
+### 2.
+
+Raport z zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej zawiera:
+
+### 1[120) Ze zmianą wprowadzoną przez art. 9 pkt 51 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:120:))
+
+wyniki weryfikacji spełniania przez daną instytucję certyfikującą wymagań, o których mowa w art. 41 ust. 2 i 3;
+
+### 2)
+
+analizę walidacji i certyfikowania przeprowadzanych przez daną instytucję certyfikującą;
+
+### 3)
+
+analizę i ocenę funkcjonowania wewnętrznego systemu zapewniania jakości w danej instytucji certyfikującej;
+
+### 4)
+
+opis nieprawidłowości w działaniu instytucji certyfikującej, jeżeli zostały stwierdzone, oraz zakres, przyczyny i skutki stwierdzonych nieprawidłowości;
+
+### 5)
+
+rekomendacje zmian służących poprawie jakości walidacji i certyfikowania przeprowadzanych przez daną instytucję certyfikującą oraz funkcjonowania wewnętrznego systemu zapewniania jakości w danej instytucji certyfikującej.
+
+### 3.
+
+Podmiot zewnętrznego zapewniania jakości niezwłocznie przekazuje do danej instytucji certyfikującej oraz do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji raport z zewnętrznego zapewniania jakości wobec danej instytucji certyfikującej.
+
+### Art. 69.
+
+### 1.
+
+W zakresie niezbędnym do realizacji zadań, o których mowa w art. 66 pkt 1 i 3:[121) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 52 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:121:)
+
+### 1)
+
+podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości może żądać od instytucji certyfikującej udzielenia informacji i wglądu do dokumentacji posiadanej przez instytucję certyfikującą;
+
+### 2)
+
+osoby wyznaczone przez podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości, po uprzednim zawiadomieniu instytucji certyfikującej, mają prawo:
+
+### a[122) Ze zmianą wprowadzoną przez art. 9 pkt 52 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:122:))
+
+wstępu do siedziby instytucji certyfikującej lub miejsca prowadzenia działalności oraz do miejsca prowadzenia walidacji w celu oceny spełniania przez instytucję certyfikującą ramowych wymagań, o których mowa w art. 25 ust. 2 pkt 4 i art. 41 ust. 2 i 3,
+
+### b)
+
+udziału w charakterze obserwatora w wykonywaniu przez instytucję certyfikującą zadań związanych z walidacją.
+
+### 2.
+
+Z czynności, o których mowa w ust. 1 pkt 2, osoba wyznaczona przez podmiot pełniący funkcję podmiotu zewnętrznego zapewniania jakości sporządza protokół. Protokół podpisuje ta osoba oraz osoba reprezentująca instytucję certyfikującą.
+
+### Art. 70[123) Ze zmianą wprowadzoną przez art. 9 pkt 53 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:123:).
+
+Podmiot, któremu powierzono wobec danej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, niezwłocznie zawiadamia ministra właściwego o stwierdzonych nieprawidłowościach w działalności instytucji certyfikującej oraz niespełnianiu przez instytucję certyfikującą warunków, o których mowa w art. 41 ust. 2 i 3.
+
+### Art. 71.
+
+### 1.
+
+Podmiot zewnętrznego zapewniania jakości co trzy lata przedstawia ministrom właściwym dla działów administracji rządowej, o których mowa w art. 52 ust. 2, sprawozdanie z wykonywania zadań związanych z zewnętrznym zapewnianiem jakości w zakresie określonych grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych z tych działów administracji rządowej, obejmujące:[124) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 54 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:124:)
+
+### 1)
+
+wykaz przeprowadzonych działań w ramach wykonywania funkcji podmiotu zewnętrznego zapewniania jakości wobec określonych instytucji certyfikujących;
+
+### 2)
+
+wnioski z przeprowadzonych ewaluacji zewnętrznych w poszczególnych instytucjach certyfikujących;
+
+### 3)
+
+informację o zakresie i wynikach współpracy, o której mowa w art. 60 ust. 2.
+
+### 2.
+
+Podmiot zewnętrznego zapewniania jakości przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji sprawozdanie, o którym mowa w ust. 1.
+
+### Art. 72.
+
+### 1.
+
+Podmiot zewnętrznego zapewniania jakości jest obowiązany do niezwłocznego zawiadomienia ministra koordynatora Zintegrowanego Systemu Kwalifikacji oraz ministra właściwego o:
+
+### 1)
+
+niespełnianiu warunków, o których mowa w art. 53 ust. 2 pkt 1 i 2, oraz o działaniach podjętych w celu spełnienia tych wymagań;
+
+### 2)
+
+zakończeniu lub zawieszeniu prowadzenia działalności gospodarczej oraz otwarciu likwidacji lub ogłoszeniu upadłości.
+
+### 2.
+
+Zakończenie lub zawieszenie prowadzenia przez dany podmiot działalności gospodarczej lub otwarcie wobec tego podmiotu likwidacji albo ogłoszenie jego upadłości skutkuje wygaśnięciem z mocy prawa umów, o których mowa w art. 60 ust. 1, w odniesieniu do poszczególnych instytucji certyfikujących. W odniesieniu do tych instytucji certyfikujących minister właściwy jest obowiązany niezwłocznie wskazać z listy podmiot zewnętrznego zapewniania jakości zgodnie z art. 59 ust. 1.
+
+### 3[125) Ze zmianą wprowadzoną przez art. 9 pkt 55 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:125:).
+
+Podmiot zewnętrznego zapewniania jakości jest obowiązany do niezwłocznego zawiadomienia podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji o zmianie danych, o których mowa w art. 83 ust. 1 pkt 7 lit. a.
+
+### Art. 73.
+
+### 1[126) Ze zmianą wprowadzoną przez art. 9 pkt 54 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:126:).
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji, na wniosek ministra właściwego albo z własnej inicjatywy, może przeprowadzić kontrolę podmiotu, któremu powierzono funkcję zewnętrznego zapewniania jakości określonych grup kwalifikacji wolnorynkowych lub kwalifikacji sektorowych z określonych działów administracji rządowej, o których mowa w art. 52 ust. 2, w zakresie prawidłowości wykonywania zadań związanych z zewnętrznym zapewnianiem jakości.
+
+### 2.
+
+Na podstawie wyników przeprowadzonej kontroli minister koordynator Zintegrowanego Systemu Kwalifikacji jest uprawniony do wezwania podmiotu, pod rygorem skreślenia z listy, do usunięcia w wyznaczonym terminie stwierdzonych nieprawidłowości w wykonywaniu zadań związanych z zewnętrznym zapewnianiem jakości.
+
+### 3.
+
+Do kontroli, o której mowa w ust. 1, stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej ([Dz. U. z 2020 r. poz. 224](https://api.sejm.gov.pl/eli/acts/DU/2020/224/text.html)).
+
+### Art. 74.
+
+### 1.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji, z własnej inicjatywy albo na wniosek ministra właściwego, skreśla z listy podmiot zewnętrznego zapewniania jakości, jeżeli:
+
+### 1)
+
+dany podmiot dwukrotnie odmówił zawarcia umowy, o której mowa w art. 60 ust. 1;
+
+### 2)
+
+dany podmiot nie usunął stwierdzonych nieprawidłowości w wyznaczonym terminie, o którym mowa w art. 73 ust. 2;
+
+### 3[127) Ze zmianą wprowadzoną przez art. 9 pkt 56 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:127:))
+
+wbrew obowiązkowi, o którym mowa w art. 70, dany podmiot nie zawiadomił, że w instytucji certyfikującej zostały stwierdzone nieprawidłowości lub instytucja certyfikująca przestała spełniać wymagania, o których mowa w art. 41 ust. 2 i 3;
+
+### 4)
+
+dany podmiot przestał spełniać warunki, o których mowa w art. 53 ust. 2 pkt 1-3 i 5.
+
+### 2.
+
+Skreślenie z listy następuje w drodze decyzji administracyjnej. Decyzji nadaje się rygor natychmiastowej wykonalności.
+
+### 3.
+
+Skreślenie z listy skutkuje wygaśnięciem z mocy prawa umów, o których mowa w art. 60 ust. 1, w odniesieniu do poszczególnych instytucji certyfikujących. W odniesieniu do tych instytucji certyfikujących minister właściwy jest obowiązany niezwłocznie wskazać z listy podmiot zewnętrznego zapewniania jakości zgodnie z art. 59 ust. 1.
+
+### 4.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o wydaniu decyzji administracyjnej, o której mowa w ust. 2.
+
+### Rozdział 6 Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych do Zintegrowanego Systemu Kwalifikacji
+
+[128) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 57 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:128:)
+
+### Art. 75[129) Ze zmianą wprowadzoną przez art. 9 pkt 58 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:129:).
+
+Nadzór nad walidacją i certyfikowaniem kwalifikacji wolnorynkowych i kwalifikacji sektorowych włączonych przez ministrów właściwych do Zintegrowanego Systemu Kwalifikacji sprawują ministrowie właściwi.
+
+### Art. 76.
+
+### 1.
+
+Instytucja certyfikująca, nie rzadziej niż raz na dwa lata, przedstawia ministrowi właściwemu sprawozdanie z działalności.
+
+### 2.
+
+Pierwsze sprawozdanie obejmuje:
+
+### 1[130) Ze zmianą wprowadzoną przez art. 9 pkt 59 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:130:))
+
+informacje potwierdzające spełnianie przez instytucje certyfikujące wymagań, o których mowa w art. 41 ust. 2 pkt 1 i 2 lub ust. 3 pkt 1 i 2;
+
+### 2)
+
+opis istotnych elementów walidacji;
+
+### 3)
+
+opis istotnych elementów funkcjonowania wewnętrznego systemu zapewniania jakości.
+
+### 3.
+
+Kolejne sprawozdanie z działalności obejmuje:
+
+### 1)
+
+zmiany, jakie nastąpiły w odniesieniu do poprzedniego sprawozdania w zakresie, o którym mowa w ust. 2;
+
+### 2)
+
+wnioski z ewaluacji wewnętrznej, o której mowa w art. 64 ust. 1, jeżeli ewaluacja wewnętrzna została przeprowadzona w okresie od złożenia poprzedniego sprawozdania;
+
+### 3)
+
+wnioski z ewaluacji zewnętrznej, o której mowa w art. 68 ust. 1, jeżeli ewaluacja zewnętrzna została przeprowadzona w okresie od złożenia poprzedniego sprawozdania;
+
+### 4)
+
+informacje o podjętych działaniach wynikających z wniosków z ewaluacji wewnętrznej i ewaluacji zewnętrznej, jeżeli ewaluacje były przeprowadzone w okresie od złożenia poprzedniego sprawozdania;
+
+### 5)
+
+informacje o realizacji obowiązku, o którym mowa w art. 77.
+
+### 4.
+
+Sprawozdanie z działalności instytucja certyfikująca przekazuje również podmiotowi zewnętrznego zapewniania jakości i podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji.
+
+### Art. 77.
+
+### 1.
+
+Instytucja certyfikująca jest obowiązana do niezwłocznego zawiadomienia ministra właściwego, podmiotu, któremu powierzono wobec niej funkcję zewnętrznego zapewniania jakości, oraz podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji o:
+
+### 1[131) Ze zmianą wprowadzoną przez art. 9 pkt 60 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:131:))
+
+niespełnianiu warunków, o których mowa w art. 41 ust. 2 i 3, oraz o działaniach podjętych w celu spełnienia tych wymagań;
+
+### 2[132) Ze zmianą wprowadzoną przez art. 9 pkt 60 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:132:))
+
+zakończeniu lub zawieszeniu prowadzenia działalności oraz otwarciu likwidacji lub ogłoszeniu jej upadłości.
+
+### 2[133) W brzmieniu ustalonym przez art. 9 pkt 60 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:133:).
+
+Zakończenie lub zawieszenie prowadzenia przez instytucję certyfikującą działalności, o której mowa odpowiednio w art. 41 ust. 2 lub ust. 3 pkt 3, lub otwarcie wobec tej instytucji likwidacji albo ogłoszenie jej upadłości skutkuje wygaśnięciem z mocy prawa uprawnień nadanych jej do certyfikowania oraz wygaśnięciem z mocy prawa umowy, o której mowa w art. 60 ust. 1, w odniesieniu do tej instytucji certyfikującej.
+
+### 3[133) W brzmieniu ustalonym przez art. 9 pkt 60 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:133:).
+
+Instytucja certyfikująca jest obowiązana do niezwłocznego zawiadomienia podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji o zmianie danych, o których mowa w art. 83 ust. 1 pkt 6 lit. a, d oraz e, a także o udzieleniu upoważnienia, o którym mowa w art. 47 ust. 2.
+
+### Art. 78.
+
+### 1.
+
+Jeżeli zachodzi uzasadnione podejrzenie występowania rażących nieprawidłowości w certyfikowaniu w danej instytucji certyfikującej, minister właściwy może:
+
+### 1)
+
+zlecić podmiotowi, któremu powierzono wobec danej instytucji certyfikującej funkcję zewnętrznego zapewniania jakości, przeprowadzenie ewaluacji zewnętrznej w trybie nadzwyczajnym;
+
+### 2)
+
+przeprowadzić kontrolę w danej instytucji certyfikującej.
+
+### 2.
+
+Podmiot zewnętrznego zapewniania jakości sporządza raport z ewaluacji zewnętrznej, o której mowa w ust. 1 pkt 1, w którym dokonuje opisu ustalonego stanu faktycznego, w tym stwierdzonych nieprawidłowości w działalności instytucji certyfikującej, oraz określa zalecone działania naprawcze służące poprawie walidacji i certyfikowania prowadzonych przez instytucję certyfikującą albo stwierdza, że walidacja i certyfikowanie są prowadzone prawidłowo przez tę instytucję.
+
+### Art. 79.
+
+### 1.
+
+Minister właściwy może przeprowadzić kontrolę w siedzibie instytucji certyfikującej lub w miejscu prowadzenia działalności, żądać dokumentacji posiadanej przez instytucję certyfikującą oraz występować do instytucji certyfikującej o udzielenie informacji związanych z organizacją i przebiegiem walidacji i certyfikowania.
+
+### 2.
+
+Minister właściwy zawiadamia instytucję certyfikującą o zamiarze przeprowadzenia kontroli nie później niż 7 dni przed dniem rozpoczęcia kontroli.
+
+### 3.
+
+Kontrolę przeprowadzają osoba lub osoby wyznaczone przez ministra właściwego, na podstawie okazanego imiennego upoważnienia wydanego przez ministra właściwego i po okazaniu legitymacji służbowej.
+
+### 4.
+
+Osoba przeprowadzająca kontrolę podlega wyłączeniu z udziału w kontroli, na wniosek lub z urzędu, jeżeli kontrola może dotyczyć jej praw lub obowiązków, praw lub obowiązków jej małżonka, osoby pozostającej z nią faktycznie we wspólnym pożyciu, krewnych lub powinowatych do drugiego stopnia lub osoby związanej z nią z tytułu przysposobienia, opieki lub kurateli. Powody wyłączenia trwają mimo ustania małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+
+### 5.
+
+Przed rozpoczęciem kontroli osoba przeprowadzająca kontrolę składa pisemne oświadczenie o braku lub istnieniu okoliczności uzasadniających wyłączenie z udziału w kontroli.
+
+### 6.
+
+Osoba przeprowadzająca kontrolę podlega wyłączeniu również w przypadku zaistnienia w toku kontroli okoliczności mogących wywołać uzasadnione wątpliwości co do jej bezstronności.
+
+### 7.
+
+O wyłączeniu, o którym mowa w ust. 4 i 6, decyduje minister właściwy.
+
+### 8.
+
+Osobie przeprowadzającej kontrolę przysługuje prawo wstępu do pomieszczeń, w których działa instytucja certyfikująca, wglądu do dokumentacji posiadanej przez instytucję certyfikującą, sporządzania kopii dokumentacji oraz żądania udzielenia ustnych lub pisemnych wyjaśnień.
+
+### 9.
+
+Czynności kontrolnych dokonuje się w obecności upoważnionego przedstawiciela instytucji certyfikującej, zwanego dalej „osobą upoważnioną”. Osoba upoważniona jest obowiązana udzielać osobie przeprowadzającej kontrolę wszelkich potrzebnych informacji oraz zapewnić jej warunki sprawnego przeprowadzenia kontroli.
+
+### 10.
+
+Osoba przeprowadzająca kontrolę sporządza protokół kontroli, który zawiera:
+
+### 1)
+
+nazwę instytucji certyfikującej oraz jej dane teleadresowe;
+
+### 2)
+
+imię, nazwisko i stanowisko służbowe osoby przeprowadzającej kontrolę;
+
+### 3)
+
+datę rozpoczęcia i zakończenia czynności kontrolnych;
+
+### 4)
+
+miejsce kontroli;
+
+### 5)
+
+zakres kontroli;
+
+### 6)
+
+opis ustalonego stanu faktycznego, w tym stwierdzone nieprawidłowości w działalności instytucji certyfikującej;
+
+### 7)
+
+zakres, przyczyny i skutki stwierdzonych nieprawidłowości;
+
+### 8)
+
+imiona, nazwiska i funkcje osób odpowiedzialnych za nieprawidłowości oraz ustalenie, czy stwierdzone nieprawidłowości są rażące;
+
+### 9)
+
+zalecone działania naprawcze;
+
+### 10)
+
+pouczenie o prawie, sposobie i terminie zgłoszenia zastrzeżeń do ustaleń zawartych w protokole kontroli i o prawie do odmowy podpisania tego protokołu.
+
+### 11.
+
+Protokół kontroli podpisuje osoba przeprowadzająca kontrolę i osoba upoważniona. W przypadku odmowy podpisania protokołu przez osobę upoważnioną osoba przeprowadzająca kontrolę umieszcza w protokole informację o tym fakcie.
+
+### 12.
+
+Osoba upoważniona ma prawo zgłosić pisemne umotywowane zastrzeżenia do ustaleń zawartych w protokole kontroli w terminie 7 dni od dnia jego otrzymania.
+
+### 13.
+
+Minister właściwy, w terminie 7 dni od dnia zgłoszenia zastrzeżeń do ustaleń zawartych w protokole kontroli, informuje na piśmie osobę upoważnioną o uwzględnieniu w całości lub w części albo nieuwzględnieniu tych zastrzeżeń, wraz z uzasadnieniem.
+
+### 14.
+
+W przypadku stwierdzenia, że zastrzeżenia do ustaleń zawartych w protokole kontroli są zasadne w całości lub w części, osoba przeprowadzająca kontrolę zmienia lub uzupełnia protokół kontroli.
+
+### 15.
+
+W przypadku nieuwzględnienia w całości zastrzeżeń do ustaleń zawartych w protokole kontroli osoba przeprowadzająca kontrolę pozostawia protokół kontroli bez zmian.
+
+### 16.
+
+W zakresie nieuregulowanym w ust. 1-15 stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ([Dz. U. z 2024 r. poz. 236](https://api.sejm.gov.pl/eli/acts/DU/2024/236/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)).
+
+### Art. 80.
+
+### 1.
+
+W wyniku ewaluacji zewnętrznej, o której mowa w art. 78 ust. 2, lub w wyniku przeprowadzonej kontroli, o której mowa w art. 79, minister właściwy może wyznaczyć termin, w którym zobowiązuje instytucję certyfikującą do podjęcia działań naprawczych pod rygorem cofnięcia uprawnienia do certyfikowania danej kwalifikacji.
+
+### 2.
+
+Minister właściwy cofa, w drodze decyzji administracyjnej, uprawnienie instytucji certyfikującej do certyfikowania danej kwalifikacji wolnorynkowej lub danej kwalifikacji sektorowej, jeżeli:[134) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 9 pkt 61 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:134:)
+
+### 1)
+
+dokumenty potwierdzające nadanie określonej kwalifikacji instytucja certyfikująca wydała osobom, które nie przeszły z pozytywnym wynikiem prawidłowej walidacji;
+
+### 2[135) Ze zmianą wprowadzoną przez art. 9 pkt 61 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:135:))
+
+instytucja certyfikująca przestała spełniać warunki, o których mowa w art. 41 ust. 2 i 3;
+
+### 3)
+
+instytucja certyfikująca nie podjęła działań naprawczych w wyznaczonym terminie, o którym mowa w ust. 1;
+
+### 4)
+
+w wyniku ewaluacji zewnętrznej, o której mowa w art. 78 ust. 2, lub w wyniku przeprowadzonej kontroli, o której mowa w art. 79, w instytucji certyfikującej zostały stwierdzone rażące nieprawidłowości.
+
+### 3.
+
+Decyzjom administracyjnym, o których mowa w ust. 2, nadaje się rygor natychmiastowej wykonalności.
+
+### 4.
+
+Minister właściwy niezwłocznie informuje podmiot prowadzący Zintegrowany Rejestr Kwalifikacji o wydaniu decyzji administracyjnych, o których mowa w ust. 2.
+
+### 5.
+
+Wydanie decyzji, o których mowa w ust. 2, skutkuje wygaśnięciem z mocy prawa umowy, o której mowa w art. 60 ust. 1, w odniesieniu do instytucji certyfikującej, której uprawnienia zostały uchylone.
+
+### Art. 81.
+
+W sprawach nieuregulowanych w ustawie w zakresie art. 41-45, art. 51-58, art. 74 i art. 80 stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### Rozdział 7 Zintegrowany Rejestr Kwalifikacji
+
+### Art. 82.
+
+### 1.
+
+Tworzy się Zintegrowany Rejestr Kwalifikacji. Zintegrowany Rejestr Kwalifikacji udostępnia się za pośrednictwem portalu Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Zintegrowany Rejestr Kwalifikacji jest rejestrem jawnym.
+
+### 3.
+
+Informacje do Zintegrowanego Rejestru Kwalifikacji przekazuje się za pośrednictwem systemu teleinformatycznego.
+
+### Art. 82a.
+
+Podmiotem prowadzącym Zintegrowany Rejestr Kwalifikacji jest Instytut Badań Edukacyjnych w Warszawie.
+
+### Art. 82b[136) Dodany przez art. 9 pkt 62 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:136:).
+
+W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje:
+
+### 1)
+
+o kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji;
+
+### 2)
+
+zawarte:
+
+### a)
+
+we wnioskach, o których mowa w art. 14, art. 15a, art. 41 ust. 2 i 3 i art. 53 ust. 2,
+
+### b)
+
+w raportach i sprawozdaniach, o których mowa w art. 64 ust. 2, art. 68 ust. 1, art. 71 ust. 1 i art. 76 ust. 1
+
+- przekazanych do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+
+### Art. 83.
+
+### 1[137) W brzmieniu ustalonym przez art. 9 pkt 63 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:137:).
+
+W Zintegrowanym Rejestrze Kwalifikacji przetwarza i udostępnia się informacje o kwalifikacjach wolnorynkowych i kwalifikacjach sektorowych:
+
+### 1)
+
+informacje ogólne o kwalifikacji:
+
+### a)
+
+nazwę kwalifikacji, o której mowa w art. 25 ust. 2 pkt 1,
+
+### b)
+
+przypisany poziom Polskiej Ramy Kwalifikacji do kwalifikacji, o którym mowa w art. 25 ust. 2 pkt 2,
+
+### c)
+
+odniesienie do poziomu Sektorowych Ram Kwalifikacji, jeżeli Sektorowe Ramy Kwalifikacji dla danych sektorów lub branż zostały włączone do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 25 ust. 2 pkt 2,
+
+### d)
+
+kod Międzynarodowej Standardowej Klasyfikacji Edukacji (ISCED), o którym mowa w art. 15 ust. 1 pkt 5 lit. d i art. 15b ust. 1 pkt 5 lit. d,
+
+### e)
+
+inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji, o których mowa w art. 25 ust. 2 pkt 6, jeżeli zostały określone, albo informacja o braku takich warunków;
+
+### 2)
+
+podstawowe informacje o kwalifikacji obejmujące:
+
+### a)
+
+przykładowe działania i zadania, które potrafi wykonywać osoba posiadająca daną kwalifikację, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret pierwsze i art. 15b ust. 1 pkt 2 lit. b tiret pierwsze,
+
+### b)
+
+przykładowe grupy osób, które mogą być szczególnie zainteresowane uzyskaniem danej kwalifikacji, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret drugie i art. 15b ust. 1 pkt 2 lit. b tiret drugie,
+
+### c)
+
+przykładowe możliwości wykorzystania kwalifikacji i dalszego rozwoju, w tym możliwości ubiegania się o inne kwalifikacje i uprawnienia w danej dziedzinie, o których mowa w art. 15 ust. 1 pkt 2 lit. b tiret trzecie i art. 15b ust. 1 pkt 2 lit. b tiret trzecie,
+
+### d)
+
+objętość kwalifikacji;
+
+### 3)
+
+informacje o wymaganych efektach uczenia się, o których mowa w art. 25 ust. 2 pkt 3;
+
+### 4)
+
+informacje dotyczące walidacji:
+
+### a)
+
+warunki, które musi spełniać osoba przystępująca do walidacji, o których mowa w art. 25 ust. 2 pkt 5, jeżeli zostały określone, albo o braku takich warunków,
+
+### b)
+
+ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację, warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji, o których mowa w art. 25 ust. 2 pkt 4,
+
+### c)
+
+dodatkowe warunki, które muszą spełniać podmioty ubiegające się o uprawnienie do certyfikowania na podstawie art. 41 ust. 1, o których mowa w art. 25 ust. 2 pkt 9;
+
+### 5)
+
+dodatkowe informacje dotyczące kwalifikacji:
+
+### a)
+
+informację o aktualnym statusie kwalifikacji: kwalifikacja włączona do Zintegrowanego Systemu Kwalifikacji, kwalifikacja funkcjonująca w Zintegrowanym Systemie Kwalifikacji, kwalifikacja archiwalna oraz informacja o datach uzyskania poszczególnych statusów,
+
+### b)
+
+nazwę i okres ważności certyfikatu kwalifikacji wolnorynkowej lub certyfikatu kwalifikacji sektorowej - bezterminowy albo określony, oraz warunki przedłużenia ważności, jeżeli okres ważności certyfikatu jest określony, zgodnie z art. 25 ust. 2 pkt 7,
+
+### c)
+
+dodatkowe wymagania, o których mowa w art. 25 ust. 2 pkt 8, jeżeli zostały określone,
+
+### d)
+
+termin dokonywania przeglądów kwalifikacji, o którym mowa w art. 27 ust. 1, i data ostatniego przeglądu kwalifikacji,
+
+### e)
+
+nazwę podmiotu, który wystąpił z wnioskiem o włączenie kwalifikacji do Zintegrowanego Systemu Kwalifikacji, o którym mowa w art. 14 i art. 15a,
+
+### f)
+
+kod kwalifikacji w Zintegrowanym Rejestrze Kwalifikacji,
+
+### g)
+
+kod Polskiej Klasyfikacji Działalności (PKD), o którym mowa w art. 15 ust. 1 pkt 5 lit. e oraz art. 15b ust. 1 pkt 5 lit. e,
+
+### h)
+
+wskazanie obwieszczenia, o którym mowa w art. 25 ust. 1, na podstawie którego włączono kwalifikację do Zintegrowanego Systemu Kwalifikacji;
+
+### 6)
+
+informacje o instytucjach uprawnionych do certyfikowania kwalifikacji wolnorynkowej lub kwalifikacji sektorowej:
+
+### a)
+
+dane, o których mowa w art. 42 ust. 1 pkt 1 lit. a-c i e,
+
+### b)
+
+datę nadania uprawnienia do certyfikowania,
+
+### c)
+
+datę cofnięcia uprawnienia do certyfikowania i datę wygaśnięcia tego uprawnienia,
+
+### d)
+
+nazwy podmiotów upoważnionych przez poszczególne instytucje certyfikujące do przeprowadzania walidacji, o których mowa w art. 47 ust. 2, oraz ich siedziby i adresy,
+
+### e)
+
+adres strony internetowej, o której mowa w art. 47 ust. 4;
+
+### 7)
+
+informacje o podmiocie, któremu powierzono funkcję zewnętrznego zapewniania jakości wobec instytucji certyfikującej, o której mowa w pkt 6:
+
+### a)
+
+dane, o których mowa w art. 54 ust. 1 pkt 1 lit. a-c, e i f,
+
+### b)
+
+datę skreślenia z listy,
+
+### c)
+
+datę podpisania, rozwiązania lub wygaśnięcia umowy, o której mowa w art. 60 ust. 1.
+
+### 2[137) W brzmieniu ustalonym przez art. 9 pkt 63 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:137:).
+
+W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje o:
+
+### 1)
+
+kwalifikacjach pełnych, o których mowa w art. 8 pkt 1-7a;
+
+### 2)
+
+kwalifikacjach wyodrębnionych w zawodach, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe, w zakresie, o którym mowa w ust. 1 pkt 1 lit. a i b, pkt 3, pkt 4 lit. a, pkt 5 lit. b i pkt 6 lit. a.
+
+### 3.
+
+W Zintegrowanym Rejestrze Kwalifikacji gromadzi się informacje o kwalifikacjach pełnych, o których mowa w art. 8 pkt 8-11:
+
+### 1)
+
+dane uczelni, prowadzone przez nie studia na określonym kierunku, poziomie i profilu, dane podmiotów uprawnionych do nadawania stopnia doktora oraz prowadzone przez nie szkoły doktorskie;
+
+### 2)
+
+nazwa tytułu zawodowego uzyskiwanego po ukończeniu studiów na określonym kierunku, poziomie i profilu oraz stopień doktora;
+
+### 3)
+
+adresy stron internetowych podmiotów, o których mowa w pkt 1.
+
+### 4.
+
+Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki, określi, w drodze rozporządzenia, zakres informacji gromadzonych w Zintegrowanym Rejestrze Kwalifikacji o kwalifikacjach cząstkowych, o których mowa w art. 13 ust. 1, uwzględniając odpowiednie informacje, o których mowa w ust. 1, oraz wymagania systemu informatycznego Zintegrowanego Rejestru Kwalifikacji.
+
+### 5[138) W brzmieniu ustalonym przez art. 9 pkt 63 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:138:).
+
+Przepis ust. 1 stosuje się odpowiednio do kwalifikacji uregulowanych, kwalifikacji rzemieślniczych i kwalifikacji nadawanych po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk i art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz.
+
+### Art. 84.
+
+### 1[139) W brzmieniu ustalonym przez art. 9 pkt 64 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:139:).
+
+Informacje o kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji, o których mowa w art. 83 ust. 1, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 60 ust. 4 i art. 80 ust. 4, z wyjątkiem informacji, o których mowa w art. 83 ust. 1 pkt 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz z informacjami, o których mowa w art. 74 ust. 4.
+
+### 2.
+
+Informacje o kwalifikacjach pełnych i cząstkowych, o których mowa w art. 83 ust. 2, przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji minister właściwy do spraw oświaty i wychowania.
+
+### 3.
+
+Informacje o kwalifikacjach pełnych, o których mowa w:
+
+### 1)
+
+art. 83 ust. 3 pkt 1 i 2, zawarte w Zintegrowanym Systemie Informacji o Szkolnictwie Wyższym i Nauce POL-on, o którym mowa w przepisach o szkolnictwie wyższym i nauce - udostępnia podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji minister właściwy do spraw szkolnictwa wyższego i nauki;
+
+### 2)
+
+art. 83 ust. 3 pkt 3 - przekazują podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji podmioty, o których mowa w art. 83 ust. 3 pkt 1.
+
+### 4.
+
+Informacje o kwalifikacjach cząstkowych, o których mowa w art. 13 ust. 1, w zakresie określonym w rozporządzeniu wydanym na podstawie art. 83 ust. 4, przekazują podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji uczelnie, instytuty naukowe Polskiej Akademii Nauk i instytuty badawcze.
+
+### 5[140) W brzmieniu ustalonym przez art. 9 pkt 64 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:140:).
+
+Informacje o kwalifikacjach uregulowanych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 38 ust. 5.
+
+### 6[140) W brzmieniu ustalonym przez art. 9 pkt 64 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:140:).
+
+Informacje o kwalifikacjach rzemieślniczych minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 37 ust. 6.
+
+### 7[140) W brzmieniu ustalonym przez art. 9 pkt 64 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:140:).
+
+Informacje o kwalifikacjach nadawanych po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk i art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych, oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz, minister właściwy przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji odpowiednio wraz z informacjami, o których mowa w art. 60 ust. 4 i art. 80 ust. 4, z wyjątkiem informacji, o których mowa w art. 83 ust. 1 pkt 7 lit. b, które przekazuje minister koordynator Zintegrowanego Systemu Kwalifikacji wraz z informacjami, o których mowa w art. 74 ust. 4.
+
+### Art. 85.
+
+Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wymogi techniczne, jakie musi spełniać aplikacja do przesyłania informacji do Zintegrowanego Rejestru Kwalifikacji za pośrednictwem systemu teleinformatycznego, uwzględniając wykorzystanie tej aplikacji do obsługi postępowań przewidzianych w ustawie oraz potrzeby różnych grup obywateli, pracodawców, podmiotów organizujących kształcenie, instytucji rynku pracy oraz organów władz publicznych dotyczące informacji o kwalifikacjach.
+
+### Art. 86.
+
+Na zasadach określonych w przepisach odrębnych podmiot prowadzący Zintegrowany Rejestr Kwalifikacji jest uprawniony do dostępu do danych dotyczących kwalifikacji zawartych w rejestrach publicznych oraz będących w posiadaniu organów administracji publicznej i instytucji publicznych, z tym że jeżeli przepisy odrębne przewidują odpłatne udostępnianie tych danych, od podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji nie pobiera się opłat.
+
+### Art. 87.
+
+### 1.
+
+Do zadań podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji należy:
+
+### 1)
+
+dokonywanie wpisów w Zintegrowanym Rejestrze Kwalifikacji i aktualizacji wpisów w Zintegrowanym Rejestrze Kwalifikacji w zakresie określonym w art. 83;
+
+### 2[141) W brzmieniu ustalonym przez art. 9 pkt 65 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:141:))
+
+dokonywanie oceny formalnej wniosków, o których mowa w art. 14, art. 15a, art. 41 ust. 2 i 3 oraz art. 53 ust. 2;
+
+### 3[141) W brzmieniu ustalonym przez art. 9 pkt 65 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:141:))
+
+wspomaganie podmiotów, o których mowa w art. 14 i art. 15a, w ustalaniu właściwości ministra do rozpatrzenia wniosków, o których mowa w art. 14 i art. 15a;
+
+### 4[142) Ze zmianą wprowadzoną przez art. 9 pkt 65 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:142:))
+
+współpraca z ministrem koordynatorem w zakresie ustalania właściwości ministrów dla rozpatrzenia wniosków, o których mowa w art. 14 i art. 15a;
+
+### 5[143) W brzmieniu ustalonym przez art. 9 pkt 65 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r.](#gloss-0:143:))
+
+zawiadamianie podmiotów, które uzyskały uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, o modyfikacji danej kwalifikacji, o której mowa w art. 27 ust. 4 pkt 2, oraz o nadaniu danej kwalifikacji statusu kwalifikacji archiwalnej, o którym mowa w art. 27 ust. 4 pkt 3;
+
+### 6)
+
+prowadzenie portalu Zintegrowanego Systemu Kwalifikacji w części dotyczącej Zintegrowanego Rejestru Kwalifikacji;
+
+### 7)
+
+ułatwianie dialogu i współdziałania różnych interesariuszy Zintegrowanego Systemu Kwalifikacji;
+
+### 8)
+
+organizowanie wymiany doświadczeń w dziedzinie kwalifikacji;
+
+### 9)
+
+upowszechnianie wiedzy o Zintegrowanym Systemie Kwalifikacji, w szczególności za pośrednictwem portalu Zintegrowanego Systemu Kwalifikacji;
+
+### 10)
+
+przechowywanie, przez okres dwunastu lat, raportów z ewaluacji wewnętrznej, o których mowa w art. 64 ust. 2, raportów z zewnętrznego zapewniania jakości, o których mowa w art. 68 ust. 1, oraz sprawozdań z działalności, o których mowa w art. 71 ust. 1 i art. 76 ust. 1.
+
+### 2[144) Ze zmianą wprowadzoną przez art. 9 pkt 65 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:144:).
+
+Raporty i sprawozdania, o których mowa w ust. 1 pkt 10, podmiot prowadzący Zintegrowany Rejestr Kwalifikacji udostępnia na wniosek ministrom właściwym, ministrowi koordynatorowi Zintegrowanego Systemu Kwalifikacji oraz Radzie Interesariuszy.
+
+### Art. 88.
+
+### 1.
+
+Nadzór nad podmiotem prowadzącym Zintegrowany Rejestr Kwalifikacji w zakresie wykonywania zadań, o których mowa w art. 87 ust. 1, sprawuje minister koordynator Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji, przekazuje podmiotowi prowadzącemu Zintegrowany Rejestr Kwalifikacji, w formie dotacji celowej, środki finansowe na realizację zadań, o których mowa w art. 87 ust. 1.
+
+### Rozdział 8 Koordynacja funkcjonowania Zintegrowanego Systemu Kwalifikacji
+
+### Art. 89.
+
+### 1.
+
+Do zadań ministra koordynatora Zintegrowanego Systemu Kwalifikacji należy:
+
+### 1)
+
+projektowanie szczegółowych rozwiązań organizacyjno-technicznych w zakresie Zintegrowanego Systemu Kwalifikacji, z uwzględnieniem kierunków rozwoju Zintegrowanego Systemu Kwalifikacji;
+
+### 2[145) W brzmieniu ustalonym przez art. 9 pkt 66 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:145:))
+
+wspomaganie ustalania właściwości ministrów do rozpatrzenia wniosków, o których mowa w art. 14 i art. 15a, w zakresie poszczególnych kwalifikacji wolnorynkowych i kwalifikacji sektorowych;
+
+### 3)
+
+monitorowanie funkcjonowania Zintegrowanego Systemu Kwalifikacji, w tym badanie karier zawodowych osób posiadających kwalifikacje nadawane w ramach systemu oświaty;
+
+### 4)
+
+opracowywanie na wniosek Rady Ministrów raportów dotyczących Zintegrowanego Systemu Kwalifikacji;
+
+### 5[146) Ze zmianą wprowadzoną przez art. 9 pkt 66 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:146:))
+
+zapewnianie obsługi Rady Interesariuszy;
+
+### 6)
+
+upowszechnianie wiedzy o Zintegrowanym Systemie Kwalifikacji;
+
+### 7)
+
+prowadzenie portalu Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji może upoważnić Instytut Badań Edukacyjnych w Warszawie do wykonywania zadań, o których mowa w ust. 1, z wyłączeniem zadania, o którym mowa w ust. 1 pkt 3, w zakresie monitorowania prowadzenia przez Instytut Badań Edukacyjnych w Warszawie Zintegrowanego Rejestru Kwalifikacji.
+
+### Art. 90[147) W brzmieniu ustalonym przez art. 9 pkt 67 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:147:).
+
+Przy ministrze koordynatorze Zintegrowanego Systemu Kwalifikacji działa Rada Interesariuszy, która jest organem opiniodawczo-doradczym tego ministra.
+
+### Art. 91.
+
+Do zadań Rady Interesariuszy należy:
+
+### 1)
+
+wspieranie ministra koordynatora Zintegrowanego Systemu Kwalifikacji w zapewnianiu spójności i porównywalności funkcjonujących w ramach Zintegrowanego Systemu Kwalifikacji rozwiązań oraz w ukierunkowywaniu rozwoju Zintegrowanego Systemu Kwalifikacji;
+
+### 2)
+
+monitorowanie funkcjonowania Zintegrowanego Systemu Kwalifikacji oraz analiza i wymiana doświadczeń w tym zakresie;
+
+### 3)
+
+opiniowanie założeń i projektów aktów prawnych w obszarze Zintegrowanego Systemu Kwalifikacji;
+
+### 4)
+
+występowanie do ministra koordynatora Zintegrowanego Systemu Kwalifikacji oraz do ministrów właściwych z pytaniami dotyczącymi funkcjonowania kwalifikacji w Zintegrowanym Systemie Kwalifikacji oraz propozycjami usprawnień w zakresie rozwiązań systemowych dotyczących Zintegrowanego Systemu Kwalifikacji;
+
+### 5[148) W brzmieniu ustalonym przez art. 9 pkt 68 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:148:))
+
+wyrażanie opinii, o których mowa w art. 11 ust. 3 pkt 6 i art. 21a ust. 3.
+
+### Art. 92.
+
+W skład Rady Interesariuszy wchodzą przedstawiciele:
+
+### 1)
+
+Krajowej Izby Gospodarczej - 2 osoby;
+
+### 2)
+
+reprezentatywnych organizacji pracodawców, o których mowa w art. 24 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego ([Dz. U. z 2018 r. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2018/2232/text.html), z późn. zm.[149) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723.](#gloss-0:149:)) - po 2 osoby z każdej organizacji;
+
+### 3)
+
+reprezentatywnych organizacji związków zawodowych, o których mowa w art. 23 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego - po dwóch przedstawicieli każdej organizacji;
+
+### 4)
+
+Konferencji Rektorów Akademickich Szkół Polskich - 2 osoby;
+
+### 5)
+
+Konferencji Rektorów Zawodowych Szkół Polskich - 2 osoby;
+
+### 5a[150) Ze zmianą wprowadzoną przez art. 9 pkt 69 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:150:))
+
+Konferencji Rektorów Publicznych Uczelni Zawodowych - 2 osoby;
+
+### 6)
+
+Centralnej Komisji Egzaminacyjnej - 2 osoby;
+
+### 7)
+
+podmiotów prowadzących działalność w zakresie edukacji pozaformalnej - 2 osoby;
+
+### 8)
+
+strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w art. 5 ust. 1 ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej ([Dz. U. z 2024 r. poz. 949](https://api.sejm.gov.pl/eli/acts/DU/2024/949/text.html)) - 4 osoby;
+
+### 9)
+
+ministra koordynatora Zintegrowanego Systemu Kwalifikacji - 2 osoby.
+
+### Art. 93.
+
+### 1.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje członków Rady Interesariuszy na wniosek podmiotów, o których mowa w art. 92 pkt 1-8.
+
+### 1a[151) Dodany przez art. 9 pkt 70 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:151:).
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji wyznacza przedstawicieli, o których mowa w art. 92 pkt 9, i powołuje ich w skład Rady Interesariuszy. Przedstawiciele, o których mowa w art. 92 pkt 9, mogą być powołani w skład Rady Interesariuszy na więcej niż jedną kadencję.
+
+### 2.
+
+Kadencja członka Rady Interesariuszy trwa cztery lata.
+
+### 3.
+
+Po upływie kadencji podmiot, o którym mowa w art. 92 pkt 1-8, może wystąpić z wnioskiem o jednokrotne przedłużenie kadencji członka Rady Interesariuszy.
+
+### 4.
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji na wniosek podmiotu, o którym mowa w art. 92 pkt 1-8, może odwołać członka Rady Interesariuszy reprezentującego ten podmiot w trakcie kadencji. Nowego członka Rady Interesariuszy powołuje się do zakończenia kadencji odwołanego członka.
+
+### 4a[152) Dodany przez art. 9 pkt 70 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r.](#gloss-0:152:).
+
+Minister koordynator Zintegrowanego Systemu Kwalifikacji może odwołać swojego przedstawiciela w Radzie Interesariuszy w trakcie kadencji.
+
+### 5.
+
+Po upływie kadencji członka, o którym mowa w ust. 4, podmiot, o którym mowa w art. 92 pkt 1-8, może wystąpić z wnioskiem o powołanie tego członka na kolejną kadencję.
+
+### Art. 94.
+
+### 1.
+
+Rada Interesariuszy wybiera spośród swoich członków przewodniczącego oraz 2-5 wiceprzewodniczących na dwuletnią kadencję.
+
+### 2.
+
+Przewodniczącego oraz wiceprzewodniczących wybiera się w głosowaniu tajnym zwykłą większością głosów przy obecności przynajmniej połowy członków Rady Interesariuszy.
+
+### 3.
+
+Przepis ust. 2 stosuje się do odwołania przewodniczącego oraz wiceprzewodniczących.
+
+### 4.
+
+Na przewodniczącego i wiceprzewodniczących mogą zostać wybrani kandydaci posiadający co najmniej dwuletni staż w Radzie Interesariuszy.
+
+### Art. 95.
+
+### 1.
+
+Rada Interesariuszy obraduje w trybie plenarnym oraz w grupach roboczych.
+
+### 2.
+
+Członkowie Rady Interesariuszy biorą udział w pracach Rady Interesariuszy osobiście.
+
+### 3.
+
+Na zaproszenie przewodniczącego w pracach Rady Interesariuszy mogą brać udział przedstawiciele innych zainteresowanych podmiotów, niż wymienione w art. 92, bez prawa do głosowania.
+
+### 4.
+
+W pracach Rady Interesariuszy, bez prawa do głosowania, biorą udział przedstawiciele podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+
+### 5[153) W brzmieniu ustalonym przez art. 9 pkt 71 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r.](#gloss-0:153:).
+
+Do udziału w posiedzeniu, na którym Rada Interesariuszy opracowuje opinię, o której mowa w art. 11 ust. 3 pkt 6, są zapraszani przedstawiciele ministra właściwego, przedstawiciele zainteresowanej sektorowej rady do spraw kompetencji i przedstawiciele zainteresowanego podmiotu, o których mowa w art. 11 ust. 2.
+
+### Art. 96.
+
+### 1.
+
+Rada Interesariuszy opracowuje regulamin i przedstawia go do akceptacji ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+Regulamin określa w szczególności:
+
+### 1)
+
+sposób działania Rady Interesariuszy i tryb podejmowania przez tę Radę Interesariuszy decyzji;
+
+### 2)
+
+tryb wyłaniania osób reprezentujących Radę Interesariuszy w komisji, o której mowa w art. 57 ust. 1, i innych gremiach oraz sposób określania ich mandatu;
+
+### 3)
+
+zasady i procedury przygotowywania przez Radę Interesariuszy opinii, o której mowa w art. 11 ust. 3 pkt 6, z uwzględnieniem udziału w procesie porównywania Sektorowych Ram Kwalifikacji z Polską Ramą Kwalifikacji ekspertów spoza danej branży lub sektora.
+
+### Rozdział 9 Zmiany w przepisach obowiązujących
+
+### Art. 97-103.
+
+(pominięte)
+
+### Rozdział 10 Przepisy przejściowe i końcowe
+
+### Art. 104.
+
+### 1.
+
+Kwalifikacje ustanowione odrębnymi przepisami, bez względu na pojęcie użyte na określenie danej kwalifikacji w przepisach prawa regulujących daną kwalifikację, obowiązujące w dniu wejścia w życie ustawy, których nadawanie odbywa się na zasadach określonych w przepisach regulujących daną kwalifikację, z wyłączeniem kwalifikacji nadawanych w systemie oświaty i systemie szkolnictwa wyższego, mogą być włączone do Zintegrowanego Systemu Kwalifikacji.
+
+### 2.
+
+W okresie pięciu lat od dnia wejścia w życie ustawy ministrowie właściwi dokonują przeglądu kwalifikacji, o których mowa w ust. 1, według stanu obowiązującego na dzień wejścia w życie ustawy, mającego na celu zidentyfikowanie kwalifikacji, w odniesieniu do których jest uzasadnione włączenie do Zintegrowanego Systemu Kwalifikacji.
+
+### 3.
+
+W okresie, o którym mowa w ust. 2, minister właściwy może włączyć do Zintegrowanego Systemu Kwalifikacji kwalifikacje, o których mowa w ust. 1, które nie spełniają wymagań określonych w art. 38 ust. 1, jeżeli jest możliwe:
+
+### 1)
+
+przypisanie poziomu Polskiej Ramy Kwalifikacji do danej kwalifikacji zgodnie z art. 21;
+
+### 2)
+
+wskazanie dla danej kwalifikacji instytucji certyfikującej.
+
+### 4.
+
+Minister właściwy w drodze obwieszczenia informuje o przypisaniu poziomu Polskiej Ramy Kwalifikacji do kwalifikacji, o której mowa w ust. 3, oraz o włączeniu tej kwalifikacji do Zintegrowanego Systemu Kwalifikacji. Obwieszczenie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. Przepisy art. 38 ust. 4 i 5 stosuje się.
+
+### 5.
+
+Minister właściwy jest obowiązany dostosować kwalifikację, o której mowa w ust. 3, do wymogów, o których mowa w art. 38 ust. 1 i art. 39, w okresie trzech lat od dnia ogłoszenia obwieszczenia, o którym mowa w ust. 4.
+
+### 6.
+
+Kwalifikacja, o której mowa w ust. 3, która nie została dostosowana, otrzymuje w Zintegrowanym Rejestrze Kwalifikacji status kwalifikacji archiwalnej, o którym mowa w art. 27 ust. 4 pkt 3. Przepisów art. 29-34 nie stosuje się.
+
+### Art. 105.
+
+W okresie pięciu lat od dnia wejścia w życie ustawy do rozpatrzenia wniosków, o których mowa w art. 37 ust. 1, nie stosuje się art. 17 ust. 1, jeżeli w odniesieniu do kwalifikacji objętych wnioskiem zostały ustalone standardy wymagań egzaminacyjnych, o których mowa w art. 3 ust. 3a ustawy z dnia 22 marca 1989 r. o rzemiośle, uwzględniające efekty kształcenia wymagane dla tych kwalifikacji opisane zgodnie z art. 9 ust. 1 pkt 1.
+
+### Art. 106.
+
+### 1.
+
+Portal Zintegrowanego Systemu Kwalifikacji oraz Zintegrowany Rejestr Kwalifikacji rozpoczynają funkcjonowanie nie później niż po upływie sześciu miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Polska Agencja Rozwoju Przedsiębiorczości podejmuje działania organizacyjno-techniczne mające na celu zapewnienie funkcjonowania Zintegrowanego Rejestru Kwalifikacji.
+
+### Art. 107.
+
+Wnioski o włączenie kwalifikacji rynkowych do Zintegrowanego Systemu Kwalifikacji, o których mowa w art. 14 ust. 1, wnioski o nadanie uprawnień do certyfikowania, o których mowa w art. 14 ust. 2 i art. 41 ust. 2, oraz wnioski o wpis na listę, o których mowa w art. 53 ust. 2, można składać po upływie sześciu miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 108.
+
+### 1.
+
+Pierwszy skład Rady Interesariuszy minister koordynator Zintegrowanego Systemu Kwalifikacji powołuje nie później niż po upływie sześciu miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+W pierwszym składzie Rady Interesariuszy kadencja połowy członków będących przedstawicielami podmiotów, o których mowa w art. 92, trwa dwa lata.
+
+### 3.
+
+Po upływie dwóch lat połowa członków, o których mowa w ust. 2, jest powoływana zgodnie z art. 93 ust. 2.
+
+### 4.
+
+W okresie pierwszej kadencji Rady Interesariuszy obowiązki przewodniczącego pełni członek Rady Interesariuszy wskazany przez ministra koordynatora Zintegrowanego Systemu Kwalifikacji.
+
+### 5.
+
+W pierwszych dwóch latach działania Rady Interesariuszy w stosunku do kandydatów na przewodniczącego i wiceprzewodniczących nie stosuje się wymogu, o którym mowa w art. 94 ust. 4.
+
+### Art. 109.
+
+Przepisu art. 24 ust. 8 ustawy zmienianej w art. 98[154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty.](#gloss-0:154:), w brzmieniu nadanym niniejszą ustawą, nie stosuje się do przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji wyodrębnionych w zawodach określonych w klasyfikacji zawodów szkolnictwa zawodowego obowiązującej w dniu wejścia w życie ustawy.
+
+### Art. 110.
+
+### 1.
+
+Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego określi w drodze rozporządzenia poziomy Polskiej Ramy Kwalifikacji dla kwalifikacji pełnych, o których mowa w art. 8 pkt 1-7 i pkt 9-11, nadanych od dnia wejścia w życie:
+
+### 1)
+
+rozporządzenia Ministra Edukacji Narodowej z dnia 23 grudnia 2008 r. w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół ([Dz. U. z 2009 r. poz. 17](https://api.sejm.gov.pl/eli/acts/DU/2009/17/text.html)),
+
+### 2)
+
+rozporządzenia Ministra Edukacji Narodowej z dnia 27 sierpnia 2012 r. w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół ([Dz. U. poz. 977](https://api.sejm.gov.pl/eli/acts/DU/2012/977/text.html) oraz [z 2014 r. poz. 803](https://api.sejm.gov.pl/eli/acts/DU/2014/803/text.html)),
+
+### 3)
+
+rozporządzenia Ministra Edukacji Narodowej z dnia 7 lutego 2012 r. w sprawie podstawy programowej kształcenia w zawodach ([Dz. U. poz. 184](https://api.sejm.gov.pl/eli/acts/DU/2012/184/text.html) oraz [z 2015 r. poz. 130](https://api.sejm.gov.pl/eli/acts/DU/2015/130/text.html) i [1123](https://api.sejm.gov.pl/eli/acts/DU/2015/1123/text.html)),
+
+### 4)
+
+rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 2 listopada 2011 r. w sprawie Krajowych Ram Kwalifikacji dla Szkolnictwa Wyższego ([Dz. U. poz. 1520](https://api.sejm.gov.pl/eli/acts/DU/2011/1520/text.html)),
+
+### 5)
+
+rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 29 września 2011 r. w sprawie standardów kształcenia dla kierunków studiów weterynarii i architektury ([Dz. U. poz. 1233](https://api.sejm.gov.pl/eli/acts/DU/2011/1233/text.html)),
+
+### 6)
+
+rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 17 stycznia 2012 r. w sprawie standardów kształcenia przygotowującego do wykonywania zawodu nauczyciela ([Dz. U. poz. 131](https://api.sejm.gov.pl/eli/acts/DU/2012/131/text.html)),
+
+### 7)
+
+rozporządzenia Ministra Nauki i Szkolnictwa Wyższego z dnia 9 maja 2012 r. w sprawie standardów kształcenia dla kierunków studiów: lekarskiego, lekarsko-dentystycznego, farmacji, pielęgniarstwa i położnictwa ([Dz. U. poz. 631](https://api.sejm.gov.pl/eli/acts/DU/2012/631/text.html)),
+
+### 8)
+
+rozporządzenia Ministra Kultury i Dziedzictwa Narodowego z dnia 2 lipca 2014 r. w sprawie podstaw programowych kształcenia w zawodach szkolnictwa artystycznego w publicznych szkołach artystycznych ([Dz. U. poz. 1039](https://api.sejm.gov.pl/eli/acts/DU/2014/1039/text.html))
+
+- do dnia wejścia w życie ustawy, uwzględniając efekty uczenia się określone w tych rozporządzeniach dla poszczególnych kwalifikacji pełnych.
+
+### 2.
+
+Informacja o poziomie Polskiej Ramy Kwalifikacji dla kwalifikacji, o których mowa w ust. 1, jest umieszczana na portalu Zintegrowanego Systemu Kwalifikacji.
+
+### 3.
+
+Informacja o poziomie Polskiej Ramy Kwalifikacji dla kwalifikacji potwierdzonych dyplomem ukończenia kolegium nauczycielskiego oraz dyplomem ukończenia nauczycielskiego kolegium języków obcych, o których mowa w art. 8 pkt 8, jest umieszczana na portalu Zintegrowanego Systemu Kwalifikacji.
+
+### Art. 111.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 3 ust. 4 ustawy zmienianej w art. 97[155) Artykuł 97 zawiera zmiany do ustawy z dnia 22 marca 1989 r. o rzemiośle.](#gloss-0:155:) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 4 ustawy zmienianej w art. 97[155) Artykuł 97 zawiera zmiany do ustawy z dnia 22 marca 1989 r. o rzemiośle.](#gloss-0:155:), w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy;
+
+### 2)
+
+art. 9f ust. 4 ustawy zmienianej w art. 98[154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty.](#gloss-0:154:) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9f ust. 4 ustawy zmienianej w art. 98[154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty.](#gloss-0:154:), w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 października 2016 r.;
+
+### 3)
+
+art. 11 ust. 2, art. 24 ust. 1 i 2 i przepisy wykonawcze wydane przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 11 ust. 2 i art. 32a ust. 4 ustawy zmienianej w art. 98[154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty.](#gloss-0:154:) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 11 ust. 2, art. 24 ust. 1 i 2 i przepisów wykonawczych wydanych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 11 ust. 2 i art. 32a ust. 4 ustawy zmienianej w art. 98[154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty.](#gloss-0:154:) w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie tych przepisów;
+
+### 4)
+
+art. 167 ust. 3 i art. 201 ust. 2 ustawy zmienianej w art. 101[156) Artykuł 101 zawiera zmiany do ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym.](#gloss-0:156:) zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 167 ust. 3 i art. 201 ust. 2 ustawy zmienianej w art. 101[156) Artykuł 101 zawiera zmiany do ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym.](#gloss-0:156:), w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 112.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia[157) Ustawa została ogłoszona w dniu 14 stycznia 2016 r.](#gloss-0:157:), z wyjątkiem:
+
+### 1)
+
+art. 7 i 85, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+
+### 2)
+
+art. 10, 21, 60, art. 83 ust. 4 i art. 110, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 2) Dodany przez art. 9 pkt 1 lit. a ustawy z dnia 30 sierpnia 2023 r. o zmianie ustawy - Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 2005); weszła w życie z dniem 1 stycznia 2024 r. 3) W brzmieniu ustalonym przez art. 9 pkt 1 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 4) W brzmieniu ustalonym przez art. 9 pkt 1 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 5) Dodany przez art. 9 pkt 1 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 6) Dodany przez art. 9 pkt 1 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 7) W brzmieniu ustalonym przez art. 9 pkt 2 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 8) Dodany przez art. 9 pkt 2 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 9) W brzmieniu ustalonym przez art. 9 pkt 3 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 10) Ze zmianą wprowadzoną przez art. 9 pkt 3 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 11) Ze zmianą wprowadzoną przez art. 9 pkt 4 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 12) Ze zmianą wprowadzoną przez art. 9 pkt 5 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 13) W brzmieniu ustalonym przez art. 9 pkt 6 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 14) W brzmieniu ustalonym przez art. 9 pkt 7 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 15) Ze zmianą wprowadzoną przez art. 9 pkt 7 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 16) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 7 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 17) Dodany przez art. 9 pkt 8 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 18) Ze zmianą wprowadzoną przez art. 9 pkt 9 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 19) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 10 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 20) Zdanie czwarte w brzmieniu ustalonym przez art. 9 pkt 10 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 21) Ze zmianą wprowadzoną przez art. 9 pkt 11 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 22) W brzmieniu ustalonym przez art. 9 pkt 11 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 23) Zdanie drugie ze zmianą wprowadzoną przez art. 9 pkt 11 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 24) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 11 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 25) Dodany przez art. 9 pkt 11 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 26) Dodany przez art. 9 pkt 12 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 27) W brzmieniu ustalonym przez art. 9 pkt 13 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 28) Przez art. 9 pkt 14 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 29) W brzmieniu ustalonym przez art. 9 pkt 15 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 30) Dodany przez art. 9 pkt 16 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 31) W brzmieniu ustalonym przez art. 9 pkt 17 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 32) W brzmieniu ustalonym przez art. 9 pkt 18 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 33) Ze zmianą wprowadzoną przez art. 9 pkt 19 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 34) W brzmieniu ustalonym przez art. 9 pkt 20 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 35) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 21 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 36) Ze zmianą wprowadzoną przez art. 9 pkt 21 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 37) Ze zmianą wprowadzoną przez art. 9 pkt 22 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 38) W brzmieniu ustalonym przez art. 9 pkt 22 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 39) Przez art. 9 pkt 23 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 40) Ze zmianą wprowadzoną przez art. 9 pkt 24 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 41) W brzmieniu ustalonym przez art. 9 pkt 24 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 42) Ze zmianą wprowadzoną przez art. 9 pkt 24 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 43) W brzmieniu ustalonym przez art. 9 pkt 25 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 44) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 45) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 46) W brzmieniu ustalonym przez art. 9 pkt 25 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 47) W brzmieniu ustalonym przez art. 9 pkt 25 lit. e ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 48) Ze zmianą wprowadzoną przez art. 9 pkt 25 lit. f ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 49) W brzmieniu ustalonym przez art. 9 pkt 25 lit. g ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 50) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 26 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 51) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 52) Przez art. 9 pkt 26 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 53) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 54) Przez art. 9 pkt 26 lit. a tiret piąte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 55) W brzmieniu ustalonym przez art. 9 pkt 26 lit. a tiret szóste ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 56) Przez art. 9 pkt 26 lit. a tiret siódme ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 57) Zdanie drugie w brzmieniu ustalonym przez art. 9 pkt 26 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 58) Dodany przez art. 9 pkt 26 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 59) Ze zmianą wprowadzoną przez art. 9 pkt 26 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 60) Przez art. 9 pkt 27 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 61) Ze zmianą wprowadzoną przez art. 9 pkt 28 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 62) Ze zmianą wprowadzoną przez art. 9 pkt 28 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 63) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 29 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 64) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 30 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 65) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 66) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 67) W brzmieniu ustalonym przez art. 9 pkt 30 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 68) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 69) Ze zmianą wprowadzoną przez art. 9 pkt 30 lit. b tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 70) Dodany przez art. 9 pkt 30 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 71) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 72) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 73) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 74) Ze zmianą wprowadzoną przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 75) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret drugie podwójne tiret czwarte ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 76) W brzmieniu ustalonym przez art. 9 pkt 31 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 77) W brzmieniu ustalonym przez art. 9 pkt 31 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 78) Ze zmianą wprowadzoną przez art. 9 pkt 31 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 79) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 31 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 80) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 32 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 81) Dodany przez art. 9 pkt 32 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 82) Ze zmianą wprowadzoną przez art. 9 pkt 33 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 83) Ze zmianą wprowadzoną przez art. 9 pkt 33 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 84) Zdanie pierwsze ze zmianą wprowadzoną przez art. 9 pkt 33 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 85) W brzmieniu ustalonym przez art. 9 pkt 34 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 86) Dodany przez art. 9 pkt 34 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 87) Ze zmianą wprowadzoną przez art. 9 pkt 35 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 88) W brzmieniu ustalonym przez art. 9 pkt 35 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 89) Dodany przez art. 9 pkt 35 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 90) Ze zmianą wprowadzoną przez art. 9 pkt 36 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 91) W brzmieniu ustalonym przez art. 9 pkt 36 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 92) Ze zmianą wprowadzoną przez art. 9 pkt 37 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 93) Dodany przez art. 9 pkt 38 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 94) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 39 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 95) W brzmieniu ustalonym przez art. 9 pkt 40 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 96) Dodany przez art. 9 pkt 40 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 97) Ze zmianą wprowadzoną przez art. 9 pkt 41 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 98) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 99) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 100) Ze zmianą wprowadzoną przez art. 9 pkt 42 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 101) W brzmieniu ustalonym przez art. 9 pkt 43 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 102) Ze zmianą wprowadzoną przez art. 9 pkt 43 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 103) Ze zmianą wprowadzoną przez art. 9 pkt 43 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 104) Zdanie pierwsze i trzecie ze zmianą wprowadzoną przez art. 9 pkt 43 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 105) Ze zmianą wprowadzoną przez art. 9 pkt 44 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 106) Ze zmianą wprowadzoną przez art. 9 pkt 45 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 107) Ze zmianą wprowadzoną przez art. 9 pkt 45 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 108) Ze zmianą wprowadzoną przez art. 9 pkt 46 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 109) Dodany przez art. 9 pkt 46 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 110) W brzmieniu ustalonym przez art. 9 pkt 46 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 111) W brzmieniu ustalonym przez art. 9 pkt 47 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 112) W brzmieniu ustalonym przez art. 9 pkt 48 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 113) Ze zmianą wprowadzoną przez art. 9 pkt 48 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 114) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 9 pkt 49 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 115) Ze zmianą wprowadzoną przez art. 9 pkt 49 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 116) Ze zmianą wprowadzoną przez art. 9 pkt 49 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 117) Dodany przez art. 9 pkt 49 lit. c ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 118) Przez art. 9 pkt 49 lit. d ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 119) Ze zmianą wprowadzoną przez art. 9 pkt 50 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 120) Ze zmianą wprowadzoną przez art. 9 pkt 51 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 121) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 52 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 122) Ze zmianą wprowadzoną przez art. 9 pkt 52 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 123) Ze zmianą wprowadzoną przez art. 9 pkt 53 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 124) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 9 pkt 54 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 125) Ze zmianą wprowadzoną przez art. 9 pkt 55 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 126) Ze zmianą wprowadzoną przez art. 9 pkt 54 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 127) Ze zmianą wprowadzoną przez art. 9 pkt 56 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 128) Tytuł rozdziału w brzmieniu ustalonym przez art. 9 pkt 57 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 129) Ze zmianą wprowadzoną przez art. 9 pkt 58 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 130) Ze zmianą wprowadzoną przez art. 9 pkt 59 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 131) Ze zmianą wprowadzoną przez art. 9 pkt 60 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 132) Ze zmianą wprowadzoną przez art. 9 pkt 60 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 133) W brzmieniu ustalonym przez art. 9 pkt 60 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 134) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 9 pkt 61 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 135) Ze zmianą wprowadzoną przez art. 9 pkt 61 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 136) Dodany przez art. 9 pkt 62 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 137) W brzmieniu ustalonym przez art. 9 pkt 63 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 138) W brzmieniu ustalonym przez art. 9 pkt 63 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 139) W brzmieniu ustalonym przez art. 9 pkt 64 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 140) W brzmieniu ustalonym przez art. 9 pkt 64 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 141) W brzmieniu ustalonym przez art. 9 pkt 65 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 142) Ze zmianą wprowadzoną przez art. 9 pkt 65 lit. a tiret drugie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 143) W brzmieniu ustalonym przez art. 9 pkt 65 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2; weszło w życie z dniem 1 stycznia 2024 r. 144) Ze zmianą wprowadzoną przez art. 9 pkt 65 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 145) W brzmieniu ustalonym przez art. 9 pkt 66 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 146) Ze zmianą wprowadzoną przez art. 9 pkt 66 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 147) W brzmieniu ustalonym przez art. 9 pkt 67 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 148) W brzmieniu ustalonym przez art. 9 pkt 68 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 149) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 568 i 2157, z 2021 r. poz. 2445, z 2022 r. poz. 2666 oraz z 2023 r. poz. 1586 i 1723. 150) Ze zmianą wprowadzoną przez art. 9 pkt 69 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 151) Dodany przez art. 9 pkt 70 lit. a ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 152) Dodany przez art. 9 pkt 70 lit. b ustawy, o której mowa w odnośniku 2; weszła w życie z dniem 1 stycznia 2024 r. 153) W brzmieniu ustalonym przez art. 9 pkt 71 ustawy, o której mowa w odnośniku 2; wszedł w życie z dniem 1 stycznia 2024 r. 154) Artykuł 98 zawiera zmiany do ustawy z dnia 7 września 1991 r. o systemie oświaty. 155) Artykuł 97 zawiera zmiany do ustawy z dnia 22 marca 1989 r. o rzemiośle. 156) Artykuł 101 zawiera zmiany do ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym. 157) Ustawa została ogłoszona w dniu 14 stycznia 2016 r.
+
+## Załącznik - Uniwersalne charakterystyki poziomów w PRK
+
+UNIWERSALNE CHARAKTERYSTYKI POZIOMÓW W PRKZapisy w kolumnach - wiedza, umiejętności, kompetencje społeczne - należy odnosić do określonej dziedziny uczenia się lub działalności zawodowej WIEDZA UMIEJĘTNOŚCI KOMPETENCJE SPOŁECZNE ZNA I ROZUMIE: POTRAFI: JEST GOTÓW DO: POZIOM 1 P1U_W elementarne fakty i pojęcia oraz zależności między wybranymi zjawiskami przyrodniczymi, społecznymi i w sferze wytworów ludzkiej myśli P1U_U wykonywać bardzo proste zadania według szczegółowych wskazówek w typowych warunkachrozwiązywać bardzo proste typowe problemy w typowych warunkachuczyć się pod bezpośrednim kierunkiem w zorganizowanej formieodbierać proste wypowiedzi, tworzyć bardzo proste wypowiedzi P1U_K respektowania zobowiązań wynikających z przynależności do różnych wspólnotdziałania i współdziałania pod bezpośrednim nadzorem w zorganizowanych warunkach oceniania swoich działań i przyjmowania odpowiedzialności za bezpośrednie ich skutki POZIOM 2 P2U_W poszerzony zbiór elementarnych faktów, prostych pojęć oraz zależności między wybranymi zjawiskami przyrodniczymi, społecznymi i w sferze wytworów ludzkiej myśli P2U_U wykonywać proste zadania według ogólnej instrukcji, najczęściej w typowych warunkachrozwiązywać proste typowe problemy, najczęściej w typowych warunkachuczyć się pod kierunkiem w zorganizowanej formieodbierać niezbyt proste wypowiedzi, tworzyć proste wypowiedziformułować i odbierać najprostsze wypowiedzi w języku obcym P2U_K podejmowania obowiązków wynikających z przynależności do różnych wspólnot działania i współdziałania pod kierunkiem w zorganizowanych warunkachoceniania działań, w których uczestniczy, i przyjmowania odpowiedzialności za ich skutki POZIOM 3 P3U_W podstawowe fakty i pojęcia oraz zależności między wybranymi zjawiskami przyrodniczymi, społecznymi i w sferze wytworów ludzkiej myśli, a ponadto w określonych dziedzinach w szerszym zakresie wybrane fakty, pojęcia i zależności elementarne uwarunkowania prowadzonej działalności P3U_U wykonywać niezbyt proste zadania według ogólnej instrukcji w częściowo zmiennych warunkachrozwiązywać proste typowe problemy w częściowo zmiennych warunkachuczyć się w części samodzielnie pod kierunkiem w zorganizowanej formieodbierać niezbyt złożone wypowiedzi, tworzyć niezbyt proste wypowiedziodbierać i formułować bardzo proste wypowiedzi w języku obcym P3U_K przynależenia do wspólnot różnego rodzaju, funkcjonowania w różnych rolach społecznych oraz podejmowania podstawowych powinności z tego wynikającychczęściowo samodzielnego działania oraz współdziałania w zorganizowanych warunkachoceniania działań swoich i zespołowych; podejmowania odpowiedzialności za skutki tych działań POZIOM 4 P4U_W poszerzony zbiór podstawowych faktów, umiarkowanie złożonych pojęć, teorii i zależności między wybranymi zjawiskami przyrodniczymi, społecznymi oraz w sferze wytworów ludzkiej myśli, a ponadto w określonych dziedzinach w szerszym zakresie fakty, umiarkowanie złożone pojęcia, teorie i zależności między nimipodstawowe uwarunkowania prowadzonej działalności P4U_U wykonywać niezbyt złożone zadania w części bez instrukcji często w zmiennych warunkachrozwiązywać niezbyt proste, w pewnej części nietypowe problemy często w zmiennych warunkachuczyć się samodzielnie w zorganizowanej formieodbierać złożone wypowiedzi, tworzyć niezbyt złożone wypowiedzi dotyczące szerokiego zakresu zagadnieńodbierać i formułować proste wypowiedzi w języku obcym P4U_K przyjmowania odpowiedzialności związanej z uczestnictwem w różnych wspólnotach i funkcjonowaniem w różnych rolach społecznychautonomicznego działania i współdziałania w zorganizowanych warunkachoceniania działań swoich i osób, którymi kierujeprzyjmowania odpowiedzialności za skutki działań własnych oraz tych osób POZIOM 5 P5U_W w szerokim zakresie - fakty, teorie, metody i zależności między nimiróżnorodne uwarunkowania prowadzonej działalności P5U_U wykonywać zadania bez instrukcjiw zmiennych, przewidywalnych warunkachrozwiązywać niezbyt złożone i nietypowe problemy w zmiennych przewidywalnych warunkachuczyć się samodzielnieodbierać niezbyt złożone wypowiedzi, tworzyć niezbyt proste wypowiedzi z użyciem specjalistycznej terminologiiodbierać i formułować bardzo proste wypowiedzi w języku obcym z uwzględnieniem specjalistycznej terminologii P5U_K podejmowania podstawowych obowiązków zawodowych i społecznych, ich oceniania i interpretacjisamodzielnego działania oraz współdziałania z innymi w zorganizowanych warunkach, kierowania niedużym zespołem w zorganizowanych warunkachoceniania działań swoich i osób oraz zespołów, którymi kieruje; przyjmowania odpowiedzialności za skutki tych działań POZIOM 6 P6U_W w zaawansowanym stopniu - fakty, teorie, metody oraz złożone zależności między nimiróżnorodne, złożone uwarunkowania prowadzonej działalności P6U_U innowacyjnie wykonywać zadania oraz rozwiązywać złożone i nietypowe problemy w zmiennych i nie w pełni przewidywalnych warunkachsamodzielnie planować własne uczenie się przez całe życiekomunikować się z otoczeniem, uzasadniać swoje stanowisko P6U_K kultywowania i upowszechniania wzorów właściwego postępowania w środowisku pracy i poza nimsamodzielnego podejmowania decyzji, krytycznej oceny działań własnych, działań zespołów, którymi kieruje, i organizacji, w których uczestniczy, przyjmowania odpowiedzialności za skutki tych działań POZIOM 7 P7U_W w pogłębiony sposób wybrane fakty, teorie, metody oraz złożone zależności między nimi, także w powiązaniu z innymi dziedzinamiróżnorodne, złożone uwarunkowania i aksjologiczny kontekst prowadzonej działalności P7U_U wykonywać zadania oraz formułować i rozwiązywać problemy, z wykorzystaniem nowej wiedzy, także z innych dziedzinsamodzielnie planować własne uczenie się przez całe życie i ukierunkowywać innych w tym zakresiekomunikować się ze zróżnicowanymi kręgami odbiorców, odpowiednio uzasadniać stanowiska P7U_K tworzenia i rozwijania wzorów właściwego postępowania w środowisku pracy i życiapodejmowania inicjatyw, krytycznej oceny siebie oraz zespołów i organizacji, w których uczestniczyprzewodzenia grupie i ponoszenia odpowiedzialności za nią POZIOM 8 P8U_W światowy dorobek naukowy i twórczy oraz wynikające z niego implikacje dla praktyki P8U_U dokonywać analizy i twórczej syntezy dorobku naukowego i twórczego w celu identyfikowania i rozwiązywania problemów badawczych oraz związanych z działalnością innowacyjną i twórczą; tworzyć nowe elementy tego dorobkusamodzielnie planować własny rozwój oraz inspirować rozwój innych osóbuczestniczyć w wymianie doświadczeń i idei, także w środowisku międzynarodowym P8U_K niezależnego badania powiększającego istniejący dorobek naukowy i twórczypodejmowania wyzwań w sferze zawodowej i publicznej z uwzględnieniem:- ich etycznego wymiaru- odpowiedzialności za ich skutki oraz kształtowania wzorów właściwego postępowania w takich sytuacjach

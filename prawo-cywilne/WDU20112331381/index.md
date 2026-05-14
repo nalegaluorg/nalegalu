@@ -8,11 +8,9 @@ pos: 1381
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 16 września 2011 r.*
+# Ustawa z dnia 16 września 2011 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy 2008/52/WE Parlamentu Europejskiego i Rady z dnia 21 maja 2008 r. w sprawie niektórych aspektów mediacji w sprawach cywilnych i handlowych (Dz. Urz. WE L 136 z 24.05.2008, str. 3).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,128 +22,2168 @@ domain: null
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112331381) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1381/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/1381/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/1381) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 62.**
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne oraz ustawę z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.](#gloss-0:2:)
 
-§ 1. Do organizacji pozarządowych wytaczających powództwa na rzecz osób fizycznych stosuje się odpowiednio przepisy o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
+### Art. 1.
 
-§ 2. Do przystąpienia organizacji pozarządowych do strony w toczącym się postępowaniu stosuje się odpowiednio przepisy o interwencji ubocznej, do której nie mają odpowiedniego zastosowania przepisy o współuczestnictwie jednolitym.
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887 i Nr 224, poz. 1342.](#gloss-0:3:)) wprowadza się następujące zmiany:
 
-**Art. 63.** Organizacje pozarządowe wymienione w artykułach poprzedzających, które nie uczestniczą w sprawie, mogą przedstawiać sądowi istotny dla sprawy pogląd wyrażony w uchwale lub w oświadczeniu ich należycie umocowanych organów.”;
+### 1)
 
-**Art. 756².** Uwzględniając wniosek o zabezpieczenie przez uregulowanie stosunków na czas trwania postępowania albo przez uregulowanie sposobów kontaktów z dzieckiem, sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu. Przepisy art. 1050 i 1051 , a jeżeli zabezpieczenie polega na uregulowaniu sposobu kontaktów z dzieckiem – art. 582 § 3, stosuje się odpowiednio.”;
+art. 3 otrzymuje brzmienie:
 
-**Art. 867².**
+„
 
-§ 1. Licytacja odbywa się publicznie.
+### Art. 3.
 
-§ 2. W przetargu nie mogą uczestniczyć: dłużnik, komornik, ich małżonkowie, dzieci, rodzice i rodzeństwo, osoby obecne na licytacji w charakterze urzędowym oraz licytant, który nie wykonał warunków poprzedniej licytacji.
+Strony i uczestnicy postępowania obowiązani są dokonywać czynności procesowych zgodnie z dobrymi obyczajami, dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą i bez zatajania czegokolwiek oraz przedstawiać dowody.
 
-§ 3. Stawienie się jednego licytanta wystarcza do odbycia przetargu.
+” ;
 
-§ 4. Pełnomocnictwo do udziału w przetargu powinno być stwierdzone dokumentem z podpisem urzędowo poświadczonym, chyba że chodzi o pełnomocnictwo udzielone adwokatowi lub radcy prawnemu.”;
+### 2)
 
-- **95)** w art. 884 § 2 i 3 otrzymują brzmienie: „§ 2. W razie rozwiązania stosunku pracy z dłużnikiem dotychczasowy pracodawca czyni wzmiankę o zajęciu należności w wydanym dłużnikowi świadectwie pracy, a jeżeli nowy pracodawca dłużnika jest mu znany, przesyła temu pracodawcy zawiadomienie komornika i dokumenty dotyczące zajęcia wynagrodzenia oraz powiadamia o tym komornika i dłużnika, przeciwko któremu toczy się postępowanie egzekucyjne. Wzmianka w świadectwie pracy powinna zawierać oznaczenie komornika, który zajął należność, oraz numer sprawy egzekucyjnej, jak również wskazać wysokość potrąconych już kwot. Przesłanie zawiadomienia komornika ma skutki zajęcia należności dłużnika u nowego pracodawcy od chwili dojścia zawiadomienia do tego pracodawcy.
+art. 5 otrzymuje brzmienie:
 
-§ 3. Nowy pracodawca, któremu pracownik przedstawi świadectwo pracy ze wzmianką o zajęciu należności, zawiadamia o zatrudnieniu pracownika pracodawcę, który wydał świadectwo, oraz wskazanego we wzmiance komornika. Jeżeli nowy pracodawca, któremu pracownik nie okazał świadectwa pracy, dowie się, gdzie pracownik był przedtem zatrudniony, obowiązany jest zawiadomić poprzedniego pracodawcę o jego zatrudnieniu, chyba że pracownik przedstawi zaświadczenie tego pracodawcy stwierdzające, że jego należności nie były zajęte.”;
+„
 
-- **96)** w art. 886 § 1 otrzymuje brzmienie: „§ 1. Pracodawcy, który nie wykonał obowiązków określonych w art. 881 § 3 i 4, nie złożył w przepisanym terminie oświadczenia przewidzianego w art. 882 albo zaniedbał przesłania dokumentów zajęcia wynagrodzenia nowemu pracodawcy dłużnika, stosownie do art. 884 § 2 i 3, komornik wymierza grzywnę w wysokości do dwóch tysięcy złotych. Grzywna może być powtórzona, jeżeli pracodawca nadal uchyla się od wykonania tych czynności w dodatkowo wyznaczonym terminie.”;
-- **97)** po art. 889 dodaje się art. 889 w brzmieniu: „Art. 889 . Jeżeli zajęto rachunek bankowy prowadzony w walucie obcej, bank przekazuje komornikowi należność w walucie polskiej przeliczonej według kursu kupna waluty obcej, w której prowadzony jest rachunek, ogłoszonego przez Narodowy Bank Polski w dniu przekazania należności komornikowi.”;
-- **98)** w art. 893 :
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Jeżeli egzekucja z rachunku bankowego obejmującego wkład oszczędnościowy, na który wystawiono dowód imienny lub na okaziciela, nie może być przeprowadzona w trybie art. 901 z powodu niemożności odebrania tego dokumentu, komornik stwierdza ten fakt protokołem i dokonuje zajęcia wkładu oszczędnościowego przez skierowanie do właściwego oddziału banku zawiadomienia o zajęciu. Zajęcie jest dokonane z chwilą doręczenia tego zawiadomienia. Na skutek zajęcia dokonanego w powyższy sposób bank wstrzymuje wszelkie wypłaty z zajętego wkładu i zawiadamia o tym placówki banku, placówki operatora publicznego lub innego operatora pocztowego i inne placówki wykonujące czynności w powyższym zakresie.”,
-    - **b)** po § 4 dodaje się § 5 w brzmieniu: „§ 5. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw łączności oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryb zawiadamiania placówek banków, placówek operatora publicznego lub innego operatora pocztowego i innych placówek, uwzględniając dane zawarte w zawiadomieniu, mając na względzie sprawne prowadzenie egzekucji.”;
+### Art. 5.
 
-- **99)** w art. 904 § 2 i 3 otrzymują brzmienie: „§ 2. Sprzedaży zajętej wierzytelności dokonuje się w drodze licytacji prowadzonej według przepisów o egzekucji z ruchomości. Cena wywołania wynosi trzy czwarte sumy, na którą składa się należność główna oraz odsetki naliczone do dnia licytacji. Nabycie nie może nastąpić poniżej ceny wywołania.
+W razie uzasadnionej potrzeby sąd może udzielić stronom i uczestnikom postępowania występującym w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa niezbędnych pouczeń co do czynności procesowych.
 
-§ 3. Za zgodą dłużnika zajęta wierzytelność może zostać sprzedana z wolnej ręki po cenie przez niego wskazanej, jeżeli sprzedaż nie narusza interesów wierzycieli. Dłużnik może też wskazać nabywcę oraz określić inne warunki sprzedaży. Zgoda dłużnika na sprzedaż z wolnej ręki nie jest potrzebna, gdy wierzytelność była wymagalna przed dniem zajęcia. W takim wypadku cena sprzedaży nie może być jednak niższa niż cztery piąte sumy, na którą składa się należność główna oraz odsetki naliczone do dnia sprzedaży.”;
+” ;
 
-- **100)** art. 908 otrzymuje brzmienie: „Art. 908. § 1. Jeżeli po zajęciu wierzytelności należyte wykonanie praw dłużnika lub wierzyciela tego wymaga, sąd na wniosek wierzyciela lub dłużnika, stosownie do okoliczności, ustanowi kuratora lub zarządcę. Na postanowienie sądu przysługuje zażalenie.
+### 3)
 
-§ 2. Do zarządu stosuje się odpowiednio przepisy o zarządzie w toku egzekucji z nieruchomości.”;
+w art. 6 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
 
-- **101)** w art. 911 uchyla się § 3 i 4;
-- **102)** w art. 911 dodaje się § 4 w brzmieniu: „§ 4. Do sprzedaży prawa w drodze licytacji stosuje się odpowiednio przepisy o sprzedaży licytacyjnej w egzekucji z ruchomości. Do sprzedaży w drodze licytacji papierów wartościowych, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2010 r. Nr 211, poz. 1384 oraz z 2011 r. Nr 106, poz. 622 i Nr 131, poz. 763), nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2009 r. Nr 185, poz. 1439 oraz z 2010 r. Nr 167, poz. 1129) oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.”;
-- **103)** w art. 913 § 2 otrzymuje brzmienie: „§ 2. Wierzyciel może żądać wyjawienia majątku także przed wszczęciem egzekucji, jeżeli:
-- **1)** uprawdopodobni, że nie uzyska zaspokojenia w pełni swojej należności ze znanego mu majątku albo z przypadających dłużnikowi bieżących świadczeń periodycznych za okres sześciu miesięcy;
-- **2)** po uzyskaniu tytułu wykonawczego wezwał dłużnika do zapłaty stwierdzonej nim należności listem poleconym za potwierdzeniem odbioru, a dłużnik nie spełnił świadczenia w terminie 14 dni od dnia doręczenia wezwania do zapłaty.”;
-- **104)** art. 916 otrzymuje brzmienie: „Art. 916. § 1. Jeżeli dłużnik bez usprawiedliwionej przyczyny nie stawi się do sądu w celu złożenia wykazu lub przyrzeczenia albo stawiwszy się wykazu nie złoży lub odmówi odpowiedzi na zadane mu pytanie albo odmówi złożenia przyrzeczenia, sąd może skazać go na grzywnę lub nakazać przymusowe doprowadzenie oraz może zastosować areszt nieprzekraczający miesiąca, z uwzględnieniem art. 276 § 2. O skutkach tych dłużnik powinien być pouczony w wezwaniu na posiedzenie. W razie wykonania czynności przez dłużnika lub umorzenia postępowania grzywny niezapłacone do tego czasu ulegają umorzeniu.
+„
 
-§ 2. Na postanowienie sądu w przedmiocie skazania na grzywnę oraz orzeczenie aresztu przysługuje zażalenie.”;
+### § 2.
 
-- **105)** po art. 920 dodaje się art. 920 w brzmieniu: „Art. 920 . Czynności przewidziane w dziale niniejszym dla sądu może wykonywać także referendarz sądowy, z wyłączeniem stosowania środków przymusu.”;
-- **106)** po art. 921 dodaje się art. 921 w brzmieniu: „Art. 921 . O wszczęciu i ukończeniu egzekucji komornik zawiadamia sąd, przy którym działa.”;
-- **107)** w art. 924 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „§ 2. W razie umorzenia postępowania egzekucyjnego komornik składa wniosek o wykreślenie w księdze wieczystej wpisu o wszczęciu egzekucji lub o usunięcie wniosku o wszczęcie egzekucji ze zbioru dokumentów.”;
-- **108)** w art. 929 po § 1 dodaje się § 1 w brzmieniu: „§ 1 . Pobranie z góry przez dłużnika przed zajęciem czynszu najmu za czas dłuższy niż trzy miesiące, a czynszu dzierżawy za czas dłuższy niż sześć miesięcy, licząc w obu przypadkach od dnia zajęcia, nie zwalnia najemcy lub dzierżawcy od obowiązku zapłaty czynszu do rąk komornika.”;
-- **109)** w art. 930 dodaje się § 4 w brzmieniu: „§ 4. Oddanie zajętej nieruchomości w użyczenie, leasing, najem lub dzierżawę jest bezskuteczne wobec nabywcy nieruchomości w egzekucji.”;
-- **110)** w art. 937 dodaje się § 3 w brzmieniu: „§ 3. Na postanowienie sądu w przedmiocie zatwierdzenia sprawozdania przysługuje zażalenie.”;
-- **111)** w art. 945 dodaje się § 4 w brzmieniu: „§ 4. Jeżeli opis i oszacowanie nie zostały ukończone w terminie podanym w zawiadomieniu, komornik o ukończeniu opisu i oszacowania zawiadomi znanych mu uczestników oraz dokona obwieszczenia stosownie do § 2.”;
-- **112)** w art. 948 dodaje się § 3 w brzmieniu: „§ 3. Opisem i oszacowaniem należy objąć z osobna każdą nieruchomość stanowiącą przedmiot egzekucji, jeżeli jest ona wpisana do odrębnej księgi wieczystej lub prowadzony jest dla niej odrębny zbiór dokumentów. Jeżeli jednak postępowania egzekucyjne toczące się co do kilku nieruchomości tego samego dłużnika, wpisanych do oddzielnych ksiąg wieczystych lub dla których prowadzone są odrębne zbiory dokumentów, połączone zostały w jedno postępowanie, to w przypadku gdy nieruchomości te stanowią całość gospodarczą, należy opisać i oszacować tę całość i każdą z nieruchomości z osobna.”;
-- **113)** art. 950 otrzymuje brzmienie: „Art. 950. Termin zaskarżenia opisu i oszacowania wynosi dwa tygodnie i liczy się od dnia jego ukończenia. Jeżeli opis i oszacowanie nie zostały ukończone w terminie podanym w zawiadomieniu termin do zaskarżenia liczy się od dnia doręczenia uczestnikowi zawiadomienia, o którym mowa w art. 945 § 4, a dla uczestników, którym nie doręczono zawiadomienia, od dnia obwieszczenia o ukończeniu. Na postanowienie sądu przysługuje zażalenie.”;
-- **114)** w art. 962 § 1 otrzymuje brzmienie: „§ 1. Przystępujący do przetargu obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej części sumy oszacowania, najpóźniej w dniu poprzedzającym przetarg.”;
-- **115)** w art. 969 § 3 otrzymuje brzmienie: „§ 3. Z rękojmi utraconej przez nabywcę lub od niego ściągniętej pokrywa się koszty egzekucji związane ze sprzedażą, a reszta wchodzi w skład sumy uzyskanej w egzekucji albo jeżeli egzekucja została umorzona, jest przelewana na dochód Skarbu Państwa.”;
-- **116)** w art. 985 § 1 otrzymuje brzmienie: „§ 1. Jeżeli po drugiej licytacji żaden z wierzycieli nie przejął nieruchomości na własność, postępowanie egzekucyjne umarza się i nowa egzekucja z tej nieruchomości może być wszczęta dopiero po upływie 6 miesięcy od daty drugiej licytacji.”;
-- **117)** w art. 999 § 1 otrzymuje brzmienie: „§ 1. Prawomocne postanowienie o przysądzeniu własności przenosi własność na nabywcę i jest tytułem do ujawnienia na rzecz nabywcy prawa własności w katastrze nieruchomości oraz przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru dokumentów. Prawomocne postanowienie o przysądzeniu własności jest tytułem wykonawczym do wprowadzenia nabywcy w posiadanie nieruchomości i opróżnienia znajdujących się na tej nieruchomości pomieszczeń bez potrzeby nadania mu klauzuli wykonalności. Przepis art. 791 stosuje się odpowiednio.”;
-- **118)** art. 1002 otrzymuje brzmienie: „Art. 1002. Z chwilą uprawomocnienia się postanowienia o przysądzeniu własności nabywca wstępuje w prawa i obowiązki dłużnika wynikające ze stosunku najmu i dzierżawy stosownie do przepisów prawa normujących te stosunki w wypadku zbycia rzeczy wynajętej lub wydzierżawionej. W przypadku gdy umowa najmu lub dzierżawy nieruchomości zawarta była na czas oznaczony dłuższy niż dwa lata, nabywca może wypowiedzieć tę umowę, w ciągu miesiąca od uprawomocnienia się postanowienia o przysądzeniu własności, z zachowaniem rocznego terminu wypowiedzenia, o ile umowa nie przewiduje terminu krótszego, chociażby umowa została zawarta z zachowaniem formy pisemnej i z datą pewną, a rzecz została najemcy lub dzierżawcy wydana.”;
-- **119)** w art. 1013 § 1 otrzymuje brzmienie: „§ 1. Przepisy niniejszego działu stosuje się do egzekucji z niezabudowanej nieruchomości gruntowej oraz nieruchomości zabudowanej budynkiem mieszkalnym lub użytkowym, jeżeli w chwili złożenia wniosku o wszczęcie egzekucji nie dokonano zawiadomienia o zakończeniu budowy albo nie wystąpiono z wnioskiem o udzielenie zezwolenia na użytkowanie w rozumieniu przepisów prawa budowlanego.”;
-- **120)** art. 1018 otrzymuje brzmienie: „Art. 1018. Ogłoszenie o wszczęciu egzekucji komornik wywiesi w budynku sądowym i umieści je w dzienniku poczytnym w danej miejscowości oraz na stronie internetowej Krajowej Rady Komorniczej.”;
-- **121)** art. 1019 otrzymuje brzmienie: „Art. 1019. Obwieszczenie o licytacji należy przynajmniej na dwa tygodnie przed licytacją wywiesić w budynku sądowym oraz ogłosić w dzienniku poczytnym w danej miejscowości, a także na stronie internetowej Krajowej Rady Komorniczej, jak również przesłać terenowym organom administracji morskiej właściwym dla portu, w którym statek się znajduje, oraz dla portu macierzystego statku w celu wywieszenia w tych portach.”;
-- **122)** w art. 1026 dodaje się § 3 w brzmieniu: „§ 3. W przypadku połączenia postępowań egzekucyjnych toczących się co do kilku nieruchomości tego samego dłużnika, suma przypadająca po zaspokojeniu należności zaliczonych do wyższej kategorii na zaspokojenie ciążących na nieruchomościach hipotek oraz praw i roszczeń, które wygasły wskutek przysądzenia własności, ulega podziałowi na tyle części, ile nieruchomości było przedmiotem połączonych postępowań, w takim stosunku, w jakim wartość poszczególnych nieruchomości pozostawała do wartości całości gospodarczej, którą tworzyły te nieruchomości. Hipoteki, roszczenia i prawa ciążące na nieruchomości zaspokaja się tylko w tej części sumy, która odpowiada wartości obciążonej nimi nieruchomości. Pozostałą część sumy dzieli się stosownie do § 1.”;
-- **123)** po art. 1050 dodaje się art. 1050 w brzmieniu: „Art. 1050 . § 1. W sytuacji, o której mowa w art. 1050 § 1, sąd, na wniosek wierzyciela, może zamiast zagrożenia grzywną, po wysłuchaniu stron, zagrozić dłużnikowi nakazaniem zapłaty na rzecz wierzyciela określonej sumy pieniężnej za każdy dzień zwłoki w wykonaniu czynności, niezależnie od roszczeń przysługujących wierzycielowi na zasadach ogólnych. Przepis art. 1050 § 2 stosuje się odpowiednio.
+Strony i uczestnicy postępowania obowiązani są przytaczać wszystkie okoliczności faktyczne i dowody bez zwłoki, aby postępowanie mogło być przeprowadzone sprawnie i szybko.
 
-§ 2. Po bezskutecznym upływie terminu wyznaczonego dłużnikowi do wykonania czynności, sąd na wniosek wierzyciela nakazuje dłużnikowi zapłatę wierzycielowi sumy pieniężnej. Tak samo sąd postąpi w razie dalszego wniosku wierzyciela. Prawomocne postanowienie sądu jest tytułem wykonawczym na rzecz wierzyciela bez potrzeby nadawania mu klauzuli wykonalności. Sąd może również, na wniosek wierzyciela, podwyższyć wysokość należnej mu od dłużnika sumy pieniężnej.
+” ;
 
-§ 3. W razie wykonania czynności przez dłużnika po upływie wyznaczonego przez sąd terminu, wierzyciel może złożyć wniosek o nakazanie dłużnikowi zapłaty sumy pieniężnej na jego rzecz w terminie miesiąca od dnia dokonania czynności.
+### 4)
 
-§ 4. Określając wysokość sumy pieniężnej, o której mowa w § 1, sąd uwzględni interesy stron w takiej mierze, aby zapewnić wykonalność obowiązku określonego w tytule wykonawczym a dłużnika nie obciążać ponad potrzebę.”;
+art. 8 otrzymuje brzmienie:
 
-- **124)** po art. 1051 dodaje się art. 1051 w brzmieniu: „Art. 1051 . § 1. W sytuacji, o której mowa w art. 1051 § 1, sąd, na wniosek wierzyciela, po wysłuchaniu stron i stwierdzeniu, że dłużnik działał wbrew obowiązkowi, może zamiast nałożenia grzywny nakazać dłużnikowi zapłatę na rzecz wierzyciela określonej sumy pieniężnej za dokonane naruszenie oraz zagrozić nakazaniem zapłaty określonej sumy pieniężnej za każde kolejne naruszenie obowiązku, stosownie do jego treści, niezależnie od roszczeń przysługujących wierzycielowi na zasadach ogólnych.
+„
 
-§ 2. Po stwierdzeniu, że dłużnik w dalszym ciągu działał wbrew obowiązkowi, sąd, na wniosek wierzyciela, po wysłuchaniu stron, nakazuje dłużnikowi zapłatę wierzycielowi sumy pieniężnej. Tak samo sąd postąpi w razie dalszego wniosku wierzyciela.
+### Art. 8.
 
-§ 3. Przepisy art. 1050 § 2 zdanie trzecie i czwarte, art. 1050 § 4 oraz art. 1051 § 2 i 3 stosuje się odpowiednio.”;
+Organizacje pozarządowe, których zadanie statutowe nie polega na prowadzeniu działalności gospodarczej, mogą dla ochrony praw obywateli, w wypadkach przewidzianych w ustawie, wszcząć postępowanie oraz wziąć udział w toczącym się postępowaniu.
 
-- **125)** art. 1052 otrzymuje brzmienie: „Art. 1052. W jednym postanowieniu sąd może wymierzyć grzywnę nie wyższą niż dziesięć tysięcy złotych, chyba że dwukrotne wymierzenie grzywny okazało się nieskuteczne. Ogólna suma grzywien w tej samej sprawie nie może przewyższać miliona złotych. W razie wykonania czynności przez dłużnika lub umorzenia postępowania grzywny niezapłacone do tego czasu ulegają umorzeniu.”;
-- **126)** w art. 1053 § 1 otrzymuje brzmienie: „§ 1. Wymierzając grzywnę, sąd orzeknie jednocześnie – na wypadek niezapłacenia – zamianę grzywny na areszt, licząc jeden dzień aresztu od pięćdziesięciu do tysiąca pięciuset złotych grzywny. Ogólny czas trwania aresztu nie może w tej samej sprawie przekroczyć 6 miesięcy.”;
-- **127)** art. 1055 otrzymuje brzmienie: „Art. 1055. Na postanowienie sądu co do wezwania dłużnika do wykonania czynności, zagrożenia grzywną i jej zamiany na areszt, co do zabezpieczenia szkody wierzyciela oraz na postanowienia, o których mowa w art. 1050 § 1–3 oraz art. 1051 § 1 i 2, przysługuje zażalenie.”;
-- **128)** w art. 1064 § 2 otrzymuje brzmienie: „§ 2. Postanowienie o wszczęciu egzekucji sąd przesyła do sądu właściwego do prowadzenia księgi wieczystej dla nieruchomości wchodzącej w skład przedsiębiorstwa lub gospodarstwa rolnego. Sąd właściwy do prowadzenia księgi wieczystej z urzędu dokonuje wpisu o wszczęciu egzekucji albo składa postanowienie do zbioru dokumentów. W razie wszczęcia egzekucji przeciwko przedsiębiorcy podlegającemu wpisowi do właściwego rejestru, sąd przesyła postanowienie o wszczęciu egzekucji w celu złożenia do akt rejestrowych. Ponadto sąd zarządzi ogłoszenie postanowienia o wszczęciu egzekucji w dzienniku ogólnopolskim i w dzienniku poczytnym w siedzibie przedsiębiorstwa lub gospodarstwa rolnego oraz na stronie internetowej Krajowej Rady Komorniczej.”;
-- **129)** w art. 1064 § 1 otrzymuje brzmienie: „§ 1. Sąd zarządzi ogłoszenie postanowienia, o którym mowa w art. 1064 , w dzienniku o zasięgu ogólnopolskim i w dzienniku poczytnym w siedzibie przedsiębiorstwa lub gospodarstwa rolnego oraz na stronie internetowej Krajowej Rady Komorniczej.”;
-- **130)** w art. 1099 § 1 otrzymuje brzmienie: „§ 1. Brak jurysdykcji krajowej sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia braku jurysdykcji krajowej sąd odrzuca pozew lub wniosek, z zastrzeżeniem art. 1104 § 2 lub art. 1105 § 6.”;
-- **131)** w art. 1214 § 2 otrzymuje brzmienie: „§ 2. Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej, nadających się do wykonania w drodze egzekucji, nadając im klauzulę wykonalności. Na postanowienie sądu przysługuje zażalenie. Wyrok sądu polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami wykonawczymi.”.
+” ;
 
-**Art. 2.** W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych (Dz. U. Nr 33, poz. 175, z późn. zm. ) art. 2 otrzymuje brzmienie: „Art. 2. 1. Sprawami gospodarczymi są sprawy ze stosunków cywilnych między przedsiębiorcami w zakresie prowadzonej przez nich działalności gospodarczej. 2. Ponadto sprawami gospodarczymi są sprawy:
+### 5)
 
-**Art. 3.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm. ) w art. 30 ust. 3 otrzymuje brzmienie: „3. Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji energetyki.”.
+w art. 17 pkt 4 otrzymuje brzmienie:
 
-**Art. 4.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm. ) w art. 300 § 2 otrzymuje brzmienie: „§ 2. Kto, w celu udaremnienia wykonania orzeczenia sądu lub innego organu państwowego, udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, że usuwa, ukrywa, zbywa, darowuje, niszczy, rzeczywiście lub pozornie obciąża albo uszkadza składniki swojego majątku zajęte lub zagrożone zajęciem, bądź usuwa znaki zajęcia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.”.
+„
 
-**Art. 5.** W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2007 r. Nr 16, poz. 94, z późn. zm. ) w art. 14 ust. 7 otrzymuje brzmienie: „7. Postępowanie w sprawie odwołania od decyzji lub zażalenia na postanowienie Prezesa UTK, o których mowa w ust. 5 i 6, toczy się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji transportu kolejowego.”.
+### 4)
 
-**Art. 6.** W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404, z 2008 r. Nr 93, poz. 585 oraz z 2010 r. Nr 18, poz. 99) w art. 46 ust. 2 otrzymuje brzmienie: „2. Postępowanie w sprawach odwołań od decyzji Prezesa Urzędu toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) o postępowaniu w sprawach z zakresu ochrony konkurencji.”.
+o prawa majątkowe, w których wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych, oprócz spraw o alimenty, o naruszenie posiadania, o ustanowienie rozdzielności majątkowej między małżonkami, o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym oraz spraw rozpoznawanych w elektronicznym postępowaniu upominawczym,
 
-**Art. 7.** W ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. Nr 171, poz. 1800, z późn. zm. ) w art. 206 ust. 3 otrzymuje brzmienie: „3. Postępowania w sprawach odwołań i zażaleń, o których mowa w ust. 2 i 2b, toczą się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji telekomunikacji i poczty.”.
+” ;
 
-**Art. 8.** W ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. Nr 130, poz. 905, z 2008 r. Nr 58, poz. 357, z 2009 r. Nr 98, poz. 817 oraz z 2011 r. Nr 94, poz. 551) w art. 25 ust. 2 otrzymuje brzmienie: „2. Postępowanie w sprawie odwołania, o którym mowa w ust. 1, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm. ) o postępowaniu w sprawach z zakresu regulacji energetyki.”.
+### 6)
 
-**Art. 9.**
+art. 34 otrzymuje brzmienie:
 
-1. Przepisy niniejszej ustawy stosuje się do postępowań wszczętych po dniu jej wejścia w życie, z zastrzeżeniem ust. 2–7.
+„
 
-2. Przepisy art. 3, art. 5, art. 54, art. 174 § 1 pkt 4 oraz § 3, art. 180 § 1 pkt 5, art. 327 § 1, art. 357 § 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy.
+### Art. 34.
 
-3. Przepis art. 183 § 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się po upływie 14 dni od dnia ogłoszenia ustawy.
+Powództwo o zawarcie umowy, ustalenie jej treści, o zmianę umowy oraz o ustalenie istnienia umowy, o jej wykonanie, rozwiązanie lub unieważnienie, a także o odszkodowanie z powodu niewykonania lub nienależytego wykonania umowy można wytoczyć przed sąd miejsca jej wykonania. W razie wątpliwości miejsce wykonania umowy powinno być stwierdzone dokumentem.
 
-4. Przepisów art. 182 i art. 474 ustawy, o której mowa w art. 1, nie stosuje się od dnia wejścia w życie ustawy.
+” ;
 
-5. Przepis art. 369 § 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do apelacji wniesionych po dniu wejścia w życie ustawy.
+### 7)
 
-6. Przepisy art. 394 i art. 394 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do zaskarżenia orzeczeń wydanych po dniu wejścia w życie ustawy.
+art. 54 otrzymuje brzmienie:
 
-7. W sprawach z zakresu ochrony konkurencji, regulacji energetyki, regulacji telekomunikacji i poczty oraz regulacji transportu kolejowego przepisy art. 479 –479 , art. 479 , art. 479 i art. 479 , art. 479 , art. 479 –479 , art. 479 –479 oraz art. 479 ustawy, o której mowa w art. 1, stosuje się nadal, jeżeli decyzja prezesa właściwego urzędu wydana została przed dniem wejścia w życie ustawy.
+„
 
-**Art. 10.** Akty wykonawcze wydane na podstawie art. 783 § 2 i art. 893 § 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 783 § 2 i art. 893 § 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### Art. 54.
 
-**Art. 11.** Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Przepisy niniejszego działu stosuje się odpowiednio do wyłączenia referendarza sądowego, ławnika, jak również innych organów sądowych oraz prokuratora. Wniosek o wyłączenie referendarza sądowego oraz ławnika sąd rozstrzyga zgodnie z przepisami poprzedzającymi, a wniosek o wyłączenie pozostałych osób przekazuje odpowiedniemu organowi nadrzędnemu.
 
+” ;
+
+### 8)
+
+w części pierwszej w księdze pierwszej tytuł III otrzymuje brzmienie:
+
+„
+
+### Tytuł III. Organizacje pozarządowe
+
+### Art. 61.
+
+### § 1.
+
+Organizacje pozarządowe w zakresie swoich zadań statutowych mogą, za zgodą osoby fizycznej wyrażoną na piśmie, wytaczać powództwa na jej rzecz w sprawach o:
+
+### 1)
+
+alimenty;
+
+### 2)
+
+ochronę środowiska;
+
+### 3)
+
+ochronę konsumentów;
+
+### 4)
+
+ochronę praw własności przemysłowej;
+
+### 5)
+
+ochronę równości oraz niedyskryminacji przez bezpodstawne bezpośrednie lub pośrednie zróżnicowanie praw i obowiązków obywateli.
+
+### § 2.
+
+W sprawach wymienionych w § 1 organizacje pozarządowe w zakresie swoich zadań statutowych mogą, za zgodą osoby fizycznej wyrażoną na piśmie, przystąpić do niej w toczącym się postępowaniu.
+
+### § 3.
+
+Za zgodą przedsiębiorcy będącego osobą fizyczną, wyrażoną na piśmie, organizacja pozarządowa, której jest on członkiem, może na jego rzecz wytoczyć powództwo lub przystąpić do niego w toczącym się postępowaniu w sporze z innym przedsiębiorcą o roszczenia wynikające z prowadzonej działalności gospodarczej.
+
+### § 4.
+
+Do pozwu lub pisma obejmującego przystąpienie organizacja pozarządowa dołącza wyrażoną na piśmie zgodę osoby fizycznej.
+
+### Art. 62.
+
+### § 1.
+
+Do organizacji pozarządowych wytaczających powództwa na rzecz osób fizycznych stosuje się odpowiednio przepisy o prokuratorze wytaczającym powództwo na rzecz oznaczonej osoby, z wyjątkiem art. 58 zdanie drugie.
+
+### § 2.
+
+Do przystąpienia organizacji pozarządowych do strony w toczącym się postępowaniu stosuje się odpowiednio przepisy o interwencji ubocznej, do której nie mają odpowiedniego zastosowania przepisy o współuczestnictwie jednolitym.
+
+### Art. 63.
+
+Organizacje pozarządowe wymienione w artykułach poprzedzających, które nie uczestniczą w sprawie, mogą przedstawiać sądowi istotny dla sprawy pogląd wyrażony w uchwale lub w oświadczeniu ich należycie umocowanych organów.
+
+” ;
+
+### 9)
+
+art. 633 otrzymuje brzmienie:
+
+„
+
+### Art. 633.
+
+W sprawach o ochronę konsumentów powiatowy (miejski) rzecznik konsumentów może wytaczać powództwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium.
+
+” ;
+
+### 10)
+
+w art. 64 uchyla się § 2;
+
+### 11)
+
+w art. 65 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Zdolność do czynności procesowych (zdolność procesową) mają osoby fizyczne posiadające pełną zdolność do czynności prawnych, osoby prawne oraz jednostki organizacyjne, o których mowa w art. 64 § 11.
+
+” ;
+
+### 12)
+
+w art. 67 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Osoby prawne oraz jednostki organizacyjne, o których mowa w art. 64 § 11, dokonują czynności procesowych przez swoje organy albo przez osoby uprawnione do działania w ich imieniu.
+
+” ;
+
+### 13)
+
+w art. 89 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pełnomocnik jest obowiązany przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa wraz z odpisem dla strony przeciwnej. Adwokat, radca prawny, rzecznik patentowy, a także radca Prokuratorii Generalnej Skarbu Państwa mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Sąd może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony. Zdania pierwszego nie stosuje się w przypadku dokonania czynności procesowej w elektronicznym postępowaniu upominawczym, jednak pełnomocnik powinien powołać się na pełnomocnictwo, wskazując jego datę, zakres oraz okoliczności wymienione w art. 87.
+
+” ;
+
+### 14)
+
+w art. 125:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli przepis szczególny tak stanowi, pisma procesowe wnosi się na urzędowych formularzach.
+
+” ,
+
+### b)
+
+dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Jeżeli przepis szczególny tak stanowi, pisma procesowe wnosi się za pomocą systemu teleinformatycznego obsługującego postępowanie sądowe (drogą elektroniczną). Jeżeli przepis szczególny przewiduje, że pisma wnosi się wyłącznie drogą elektroniczną, pisma niewniesione tą drogą nie wywołują skutków prawnych, jakie ustawa wiąże z wniesieniem pisma do sądu.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory i sposób udostępniania stronom urzędowych formularzy, o których mowa w § 2, odpowiadających wymaganiom przewidzianym dla pism procesowych, szczególnym wymaganiom postępowania, w którym mają być stosowane, oraz zawierających niezbędne pouczenia dla stron, co do sposobu ich wypełniania, wnoszenia i skutków niedostosowania pisma do tych wymagań, uwzględniając, że urzędowe formularze powinny być udostępniane w siedzibach sądów oraz bezpłatnie w sieci Internet w formie pozwalającej na dogodną edycję treści formularza.
+
+” ,
+
+### d)
+
+dodaje się § 31 w brzmieniu:
+
+„
+
+### § 31.
+
+Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych drogą elektroniczną, mając na względzie skuteczność wnoszenia pism, szczególne wymagania postępowań obsługiwanych przez system teleinformatyczny oraz ochronę praw osób wnoszących pisma.
+
+” ,
+
+### e)
+
+uchyla się § 4;
+
+### 15)
+
+art. 127 otrzymuje brzmienie:
+
+„
+
+### Art. 127.
+
+W pismach procesowych mających na celu przygotowanie rozprawy (pisma przygotowawcze) należy podać zwięźle stan sprawy, wypowiedzieć się co do twierdzeń strony przeciwnej i dowodów przez nią powołanych, wreszcie wskazać dowody, które mają być przedstawione na rozprawie, lub je załączyć. W pismach przygotowawczych strony mogą wskazywać podstawy prawne swoich żądań lub wniosków.
+
+” ;
+
+### 16)
+
+w art. 1301 uchyla się § 3;
+
+### 17)
+
+w art. 139 po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Pismo złożone w placówce pocztowej operatora publicznego lub innego operatora pocztowego może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych, o którym mowa w przepisach określających warunki wykonywania powszechnych usług pocztowych, wydanych na podstawie ustawy z dnia 12 czerwca 2003 r. - Prawo pocztowe ([Dz. U. z 2008 r. Nr 189, poz. 1159](https://api.sejm.gov.pl/eli/acts/DU/2008/1159/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016.](#gloss-0:4:)).
+
+” ;
+
+### 18)
+
+w art. 153:
+
+### a)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Sąd na wniosek strony zarządza odbycie posiedzenia lub jego części przy drzwiach zamkniętych, gdy mogą być ujawnione okoliczności stanowiące tajemnicę jej przedsiębiorstwa.
+
+” ,
+
+### b)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Sąd może ponadto zarządzić odbycie posiedzenia lub jego części przy drzwiach zamkniętych na wniosek strony, jeżeli podane przez nią przyczyny uzna za uzasadnione lub jeżeli roztrząsane być mają szczegóły życia rodzinnego. Postępowanie dotyczące tego wniosku odbywa się przy drzwiach zamkniętych. Postanowienie w tym przedmiocie sąd ogłasza publicznie.
+
+” ;
+
+### 19)
+
+w art. 158 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli przebiegu posiedzenia nie utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokół sporządzony pisemnie powinien, oprócz danych i okoliczności określonych w § 1, zawierać wnioski oraz twierdzenia stron, udzielone pouczenia, a także wyniki postępowania dowodowego oraz inne okoliczności istotne dla przebiegu posiedzenia; zamiast podania wniosków i twierdzeń można w protokole powołać się na pisma przygotowawcze.
+
+” ;
+
+### 20)
+
+w art. 174:
+
+### a)
+
+w § 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+jeżeli postępowanie dotyczy masy upadłości i ogłoszono upadłość z możliwością zawarcia układu, a strona pozbawiona została prawa zarządu masą upadłości, albo ogłoszono upadłość obejmującą likwidację majątku strony;
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+W wypadku, o którym mowa w § 1 pkt 4, sąd wezwie syndyka albo zarządcę masy upadłości do wzięcia udziału w sprawie, a jeżeli syndyk albo zarządca może odmówić wstąpienia do postępowania, sąd wyznaczy mu odpowiedni termin do złożenia oświadczenia. Niezłożenie w terminie oświadczenia co do wstąpienia do postępowania uważa się za odmowę wstąpienia.
+
+” ;
+
+### 21)
+
+w art. 180 w § 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+w razie ogłoszenia upadłości strony - z chwilą zgłoszenia się lub wskazania syndyka albo zarządcy masy upadłości, a jeżeli syndyk albo zarządca może odmówić wstąpienia do postępowania - z chwilą złożenia przez niego oświadczenia; w przypadku odmowy wstąpienia do postępowania przez syndyka albo zarządcę masy upadłości, postępowanie podejmuje się z udziałem upadłego.
+
+” ;
+
+### 22)
+
+uchyla się art. 1821;
+
+### 23)
+
+w art. 1832 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Organizacje pozarządowe w zakresie swoich zadań statutowych oraz uczelnie mogą prowadzić listy stałych mediatorów oraz tworzyć ośrodki mediacyjne. Wpis na listę wymaga wyrażonej na piśmie zgody mediatora. Informację o listach stałych mediatorów oraz o ośrodkach mediacyjnych przekazuje się prezesowi sądu okręgowego.
+
+” ;
+
+### 24)
+
+w art. 18312 po § 2 dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Przez podpisanie ugody strony wyrażają zgodę na wystąpienie do sądu z wnioskiem o jej zatwierdzenie, o czym mediator informuje strony.
+
+” ;
+
+### 25)
+
+w art. 18315 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Ugoda zawarta przed mediatorem, po jej zatwierdzeniu przez sąd, ma moc prawną ugody zawartej przed sądem. Ugoda zawarta przed mediatorem, którą zatwierdzono przez nadanie jej klauzuli wykonalności, jest tytułem wykonawczym.
+
+” ;
+
+### 26)
+
+uchyla się art. 1872;
+
+### 27)
+
+art. 207 otrzymuje brzmienie:
+
+„
+
+### Art. 207.
+
+### § 1.
+
+Pozwany może przed pierwszym posiedzeniem wyznaczonym na rozprawę wnieść odpowiedź na pozew.
+
+### § 2.
+
+Przewodniczący może zarządzić wniesienie odpowiedzi na pozew w wyznaczonym terminie, nie krótszym niż dwa tygodnie.
+
+### § 3.
+
+Przewodniczący może także przed pierwszym posiedzeniem wyznaczonym na rozprawę zobowiązać strony do złożenia dalszych pism przygotowawczych, oznaczając porządek składania pism, termin, w którym należy je złożyć, i okoliczności, które mają być wyjaśnione. W toku sprawy złożenie pism przygotowawczych następuje tylko wtedy, gdy sąd tak postanowi, chyba że pismo obejmuje wyłącznie wniosek o przeprowadzenie dowodu. Sąd może wydać postanowienie na posiedzeniu niejawnym.
+
+### § 4.
+
+W wypadkach, o których mowa w § 3, przewodniczący lub sąd mogą wysłuchać strony na posiedzeniu niejawnym.
+
+### § 5.
+
+Zarządzając doręczenie pozwu, odpowiedzi na pozew lub złożenie dalszych pism przygotowawczych, przewodniczący albo sąd, jeżeli postanowił o złożeniu pism przygotowawczych w toku sprawy, pouczają strony o treści § 6.
+
+### § 6.
+
+Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w pozwie, odpowiedzi na pozew lub dalszym piśmie przygotowawczym bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+### § 7.
+
+Odpowiedź na pozew złożona z naruszeniem § 2 podlega zwrotowi; zwrotowi podlega także pismo przygotowawcze złożone z naruszeniem § 3.
+
+” ;
+
+### 28)
+
+w art. 210 po § 2 dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Sąd poucza stronę występującą w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa o treści art. 162, 207, 217, 229 i 230.
+
+” ;
+
+### 29)
+
+art. 212 otrzymuje brzmienie:
+
+„
+
+### Art. 212.
+
+### § 1.
+
+Sąd na rozprawie przez zadawanie pytań stronom dąży do tego, aby strony przytoczyły lub uzupełniły twierdzenia lub dowody na ich poparcie oraz udzieliły wyjaśnień koniecznych dla zgodnego z prawdą ustalenia podstawy faktycznej dochodzonych przez nie praw lub roszczeń. W ten sam sposób sąd dąży do wyjaśnienia istotnych okoliczności sprawy, które są sporne.
+
+### § 2.
+
+W razie uzasadnionej potrzeby przewodniczący może udzielić stronom niezbędnych pouczeń, a stosownie do okoliczności zwraca uwagę na celowość ustanowienia pełnomocnika procesowego.
+
+” ;
+
+### 30)
+
+art. 217 otrzymuje brzmienie:
+
+„
+
+### Art. 217.
+
+### § 1.
+
+Strona może aż do zamknięcia rozprawy przytaczać okoliczności faktyczne i dowody na uzasadnienie swoich wniosków lub dla odparcia wniosków i twierdzeń strony przeciwnej.
+
+### § 2.
+
+Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich we właściwym czasie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+### § 3.
+
+Sąd pomija twierdzenia i dowody, jeżeli są powoływane jedynie dla zwłoki lub okoliczności sporne zostały już dostatecznie wyjaśnione.
+
+” ;
+
+### 31)
+
+w art. 244 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Przepis § 1 stosuje się odpowiednio do dokumentów urzędowych sporządzonych przez organizacje zawodowe, samorządowe, spółdzielcze i inne organizacje pozarządowe w zakresie zleconych im przez ustawę spraw z dziedziny administracji publicznej.
+
+” ;
+
+### 32)
+
+w art. 269 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Świadek składa przyrzeczenie, powtarzając za sędzią lub odczytując na głos tekst przyrzeczenia, przy czym wszyscy - z wyjątkiem sędziów - stoją.
+
+” ;
+
+### 33)
+
+art. 301 otrzymuje brzmienie:
+
+„
+
+### Art. 301.
+
+Jeżeli powództwo jest wytoczone przez prokuratora lub organizację pozarządową na rzecz oznaczonej osoby, przesłuchuje się w charakterze strony powodowej tę osobę, chociażby nie przystąpiła ona do sprawy.
+
+” ;
+
+### 34)
+
+w art. 327 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Stronie działającej bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa, obecnej przy ogłoszeniu wyroku, przewodniczący udzieli wskazówek co do sposobu i terminów wniesienia środka zaskarżenia. Jeżeli zastępstwo stron przez adwokatów lub radców prawnych jest obowiązkowe, należy pouczyć stronę o treści przepisów o obowiązkowym zastępstwie oraz o skutkach niezastosowania się do tych przepisów.
+
+” ;
+
+### 35)
+
+art. 343 otrzymuje brzmienie:
+
+„
+
+### Art. 343.
+
+Wyroki zaoczne doręcza się z urzędu obu stronom z pouczeniem o przysługujących im środkach zaskarżenia. Pozwanego poucza się także o treści art. 344 § 2 zdanie drugie.
+
+” ;
+
+### 36)
+
+w art. 344 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Pozwany, przeciwko któremu zapadł wyrok zaoczny, może złożyć sprzeciw w ciągu dwóch tygodni od doręczenia mu wyroku.
+
+### § 2.
+
+W piśmie zawierającym sprzeciw pozwany powinien przytoczyć zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy, oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w sprzeciwie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+” ;
+
+### 37)
+
+w art. 357 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Postanowienia wydane na posiedzeniu niejawnym sąd doręcza z urzędu obu stronom, chyba że przepis szczególny stanowi inaczej. Gdy stronie przysługuje środek zaskarżenia, postanowienie należy doręczyć z uzasadnieniem; doręczając postanowienie, należy pouczyć stronę występującą w sprawie bez adwokata, radcy prawnego, rzecznika patentowego lub radcy Prokuratorii Generalnej Skarbu Państwa o dopuszczalności, terminie i sposobie wniesienia środka zaskarżenia.
+
+” ;
+
+### 38)
+
+w art. 369 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Termin, o którym mowa w § 1 i 2, uważa się za zachowany także wtedy, gdy przed jego upływem strona wniosła apelację do sądu drugiej instancji. W takim wypadku sąd ten niezwłocznie przesyła apelację do sądu, który wydał zaskarżony wyrok.
+
+” ;
+
+### 39)
+
+w art. 3941:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Zażalenie do Sądu Najwyższego przysługuje na postanowienie sądu drugiej instancji odrzucające skargę kasacyjną oraz na postanowienie sądu drugiej lub pierwszej instancji odrzucające skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Zażalenie do Sądu Najwyższego przysługuje także w razie uchylenia przez sąd drugiej instancji wyroku sądu pierwszej instancji i przekazania sprawy do ponownego rozpoznania.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Do postępowania przed Sądem Najwyższym toczącego się na skutek zażalenia stosuje się odpowiednio art. 394 § 2 i 3, art. 395, art. 397 § 1, art. 3986 § 3, art. 39810, art. 39814, art. 39815 § 1 zdanie pierwsze, art. 39816, art. 39817 i art. 39821.
+
+” ;
+
+### 40)
+
+w art. 3942 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Na postanowienia sądu drugiej instancji, których przedmiotem są oddalenie wniosku o wyłączenie sędziego, zwrot kosztów procesu, skazanie świadka, biegłego, strony, jej pełnomocnika oraz osoby trzeciej na grzywnę, zarządzenie przymusowego sprowadzenia i aresztowania świadka, odmowa zwolnienia świadka i biegłego od grzywny i świadka od przymusowego sprowadzenia, przysługuje zażalenie do innego składu tego sądu, z wyjątkiem postanowień wydanych w wyniku rozpoznania zażalenia na postanowienie sądu pierwszej instancji.
+
+” ;
+
+### 41)
+
+w art. 3982 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Skarga kasacyjna jest niedopuszczalna w sprawach o prawa majątkowe, w których wartość przedmiotu zaskarżenia jest niższa niż pięćdziesiąt tysięcy złotych, a w sprawach z zakresu prawa pracy i ubezpieczeń społecznych - niższa niż dziesięć tysięcy złotych. Jednakże w sprawach z zakresu ubezpieczeń społecznych skarga kasacyjna przysługuje niezależnie od wartości przedmiotu zaskarżenia w sprawach o przyznanie i o wstrzymanie emerytury lub renty oraz o objęcie obowiązkiem ubezpieczenia społecznego. Niezależnie od wartości przedmiotu zaskarżenia skarga kasacyjna przysługuje także w sprawach o odszkodowanie z tytułu wyrządzenia szkody przez wydanie prawomocnego orzeczenia niezgodnego z prawem.
+
+” ;
+
+### 42)
+
+w art. 39822 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Na orzeczenia referendarza sądowego co do istoty sprawy oraz na orzeczenia kończące postępowanie, jak również na orzeczenia, o których mowa w art. 394 § 1 pkt 1, 2, 42 i 5-9, przysługuje skarga, chyba że przepis szczególny stanowi inaczej. Skargę rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
+
+### § 2.
+
+W razie wniesienia skargi orzeczenie referendarza sądowego traci moc.
+
+” ;
+
+### 43)
+
+art. 462 otrzymuje brzmienie:
+
+„
+
+### Art. 462.
+
+W sprawach z zakresu prawa pracy i ubezpieczeń społecznych organizacje pozarządowe w zakresie swoich zadań statutowych, za zgodą pracownika lub ubezpieczonego wyrażoną na piśmie, mogą wytaczać powództwa na rzecz pracownika lub wnosić odwołania od decyzji organów rentowych, a także, za zgodą pracownika lub ubezpieczonego wyrażoną na piśmie, przystępować do nich w toczącym się postępowaniu.
+
+” ;
+
+### 44)
+
+uchyla się art. 474;
+
+### 45)
+
+w części pierwszej w księdze pierwszej w tytule VII w dziale IVa tytuł otrzymuje brzmienie:
+
+„
+
+### IVa.
+
+Postępowanie w sprawach z zakresu ochrony konkurencji
+
+” ;
+
+### 46)
+
+w części pierwszej w księdze pierwszej w tytule VII w dziale IVa uchyla się rozdział 1;
+
+### 47)
+
+w części pierwszej w księdze pierwszej w tytule VII w dziale IVa uchyla się oznaczenie „Rozdział 2” i tytuł tego rozdziału „Postępowanie w sprawach z zakresu ochrony konkurencji”;
+
+### 48)
+
+po art. 47929 dodaje się art. 47929a w brzmieniu:
+
+„
+
+### Art. 47929a.
+
+### § 1.
+
+Jeżeli przepisy odrębne przyznają określonym podmiotom, które nie uczestniczą w sprawie, uprawnienie do przedstawiania sądowi istotnego dla sprawy poglądu, do podmiotów tych stosuje się odpowiednio art. 63. Jednak na wniosek podmiotu uprawnionego sąd może zezwolić, aby pogląd został przedstawiony także ustnie na rozprawie.
+
+### § 2.
+
+Na wniosek podmiotu uprawnionego sąd udostępnia akta sprawy w zakresie niezbędnym do przedstawienia poglądu.
+
+” ;
+
+### 49)
+
+w części pierwszej w księdze pierwszej w tytule VII w dziale IVa oznaczenie „Rozdział 3” zastępuje się oznaczeniem „Dział IVb”;
+
+### 50)
+
+uchyla się art. 47937;
+
+### 51)
+
+w art. 47938 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Powództwo w sprawach rozpoznawanych według przepisów niniejszego rozdziału może wytoczyć każdy, kto według oferty pozwanego mógłby zawrzeć z nim umowę zawierającą postanowienie, którego uznania za niedozwolone żąda się pozwem. Powództwo może wytoczyć także organizacja pozarządowa, do której zadań statutowych należy ochrona interesów konsumentów, powiatowy (miejski) rzecznik konsumentów oraz Prezes Urzędu Ochrony Konkurencji i Konsumentów.
+
+” ;
+
+### 52)
+
+w części pierwszej w księdze pierwszej w tytule VII oznaczenie „Rozdział 4” zastępuje się oznaczeniem „Dział IVc”, oznaczenie „Rozdział 5” zastępuje się oznaczeniem „Dział IVd” i oznaczenie „Rozdział 6” zastępuje się oznaczeniem „Dział IVe”;
+
+### 53)
+
+w art. 491 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Nakaz zapłaty doręcza się stronom; pozwanemu wraz z pozwem, załącznikami i pouczeniem o treści art. 493 § 1 zdanie trzecie.
+
+” ;
+
+### 54)
+
+w art. 493 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pismo zawierające zarzuty wnosi się do sądu, który wydał nakaz zapłaty. W piśmie pozwany powinien wskazać, czy zaskarża nakaz w całości, czy w części, przedstawić zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w zarzutach bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+” ;
+
+### 55)
+
+w art. 495 uchyla się § 3;
+
+### 56)
+
+w art. 502 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Pozwanemu doręcza się nakaz zapłaty wraz z pozwem i pouczeniem o sposobie wniesienia sprzeciwu, o treści art. 503 § 1 zdanie trzecie oraz o skutkach niezaskarżenia nakazu.
+
+” ;
+
+### 57)
+
+w art. 503 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pismo zawierające sprzeciw wnosi się do sądu, który wydał nakaz zapłaty, a w przypadku nakazu wydanego przez referendarza sądowego - do sądu, przed którym wytoczono powództwo. W piśmie pozwany powinien wskazać, czy zaskarża nakaz w całości, czy w części, przedstawić zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem się w spór co do istoty sprawy, oraz okoliczności faktyczne i dowody. Sąd pomija spóźnione twierdzenia i dowody, chyba że strona uprawdopodobni, że nie zgłosiła ich w sprzeciwie bez swojej winy lub że uwzględnienie spóźnionych twierdzeń i dowodów nie spowoduje zwłoki w rozpoznaniu sprawy albo że występują inne wyjątkowe okoliczności.
+
+” ;
+
+### 58)
+
+uchyla się art. 5055;
+
+### 59)
+
+w art. 50518 uchyla się § 2;
+
+### 60)
+
+w art. 50519 uchyla się § 2 i 3;
+
+### 61)
+
+w art. 546 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Organizacje pozarządowe, do których zadań statutowych należy ochrona praw osób niepełnosprawnych, udzielanie pomocy takim osobom lub ochrona praw człowieka, mogą wstąpić do postępowania w każdym jego stadium.
+
+” ;
+
+### 62)
+
+w art. 548 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Sąd może zwrócić się do organizacji pozarządowej wymienionej w art. 546 § 3 o wskazanie osoby, która mogłaby być ustanowiona doradcą tymczasowym.
+
+” ;
+
+### 63)
+
+w art. 600 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Kuratora dla osoby niepełnosprawnej sąd opiekuńczy ustanawia na wniosek tej osoby, a za zgodą osoby niepełnosprawnej - także na wniosek organizacji pozarządowej, wymienionej w art. 546 § 3.
+
+” ;
+
+### 64)
+
+art. 738 otrzymuje brzmienie:
+
+„
+
+### Art. 738.
+
+Sąd rozpoznaje wniosek o udzielenie zabezpieczenia w jego granicach, biorąc za podstawę orzeczenia materiał zebrany w sprawie.
+
+” ;
+
+### 65)
+
+w art. 743 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Jeżeli wykonanie postanowienia o zabezpieczeniu zostało uzależnione od złożenia przez uprawnionego kaucji na zabezpieczenie roszczeń obowiązanego, powstałych w wyniku wykonania postanowienia o zabezpieczeniu, sąd nadaje mu klauzulę wykonalności albo przewodniczący zaopatruje je we wzmiankę o wykonalności, po złożeniu kaucji.
+
+” ;
+
+### 66)
+
+w art. 7431 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+W razie sprzeciwu, o którym mowa w § 2, uprawniony może w terminie dwóch tygodni od dnia zawiadomienia, pod rygorem upadku zabezpieczenia w zakresie wykonania na mieniu wchodzącym w skład majątku wspólnego, wystąpić do sądu o nadanie temu postanowieniu klauzuli wykonalności przeciwko małżonkowi obowiązanego. Przepisy art. 787 stosuje się odpowiednio. Upadek, o którym mowa w zdaniu pierwszym, następuje również w razie oddalenia wniosku o nadanie klauzuli wykonalności. Przepis art. 7541 § 3 stosuje się odpowiednio.
+
+” ;
+
+### 67)
+
+w art. 746:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli uprawniony nie wniósł pisma wszczynającego postępowanie w wyznaczonym terminie albo cofnął pozew lub wniosek, jak również gdy pozew lub wniosek zwrócono albo odrzucono albo powództwo bądź wniosek oddalono lub postępowanie umorzono, a także w przypadkach wskazanych w art. 744 § 2, obowiązanemu przysługuje przeciwko uprawnionemu roszczenie o naprawienie szkody wyrządzonej wykonaniem zabezpieczenia. Roszczenie wygasa, jeżeli nie będzie dochodzone w ciągu roku od dnia jego powstania.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+W przypadku wniesienia skargi kasacyjnej termin, o którym mowa w § 1, rozpoczyna bieg w dniu prawomocnego zakończenia postępowania wywołanego jej wniesieniem.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli w terminie miesiąca od rozpoczęcia biegu terminu, o którym mowa w § 1 lub 11, obowiązany nie wytoczył powództwa, sąd zwraca uprawnionemu, na jego wniosek, kaucję złożoną na zabezpieczenie roszczenia.
+
+” ;
+
+### 68)
+
+w art. 7524:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Zarząd przymusowy ustanowiony nad przedsiębiorstwem lub gospodarstwem rolnym obowiązanego lub nad zakładem wchodzącym w skład przedsiębiorstwa lub jego częścią albo nad częścią gospodarstwa rolnego wykonuje się według przepisów o zarządzie w toku egzekucji z nieruchomości.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Zarządcę ustanawia sąd wydający postanowienie o udzieleniu zabezpieczenia. Postanowienie o ustanowieniu zarządcy jest jednocześnie podstawą do wprowadzenia go w zarząd bez potrzeby nadania mu klauzuli wykonalności. Zarządcą nie może być obowiązany.
+
+” ;
+
+### 69)
+
+w art. 7531:
+
+### a)
+
+w § 1 uchyla się pkt 6 i 7,
+
+### b)
+
+dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W sprawach wymienionych w § 1 pkt 1 i 2 dla udzielenia zabezpieczenia nie jest wymagane uprawdopodobnienie interesu prawnego.
+
+” ;
+
+### 70)
+
+w art. 755:
+
+### a)
+
+§ 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli przedmiotem zabezpieczenia nie jest roszczenie pieniężne, sąd udziela zabezpieczenia w taki sposób, jaki stosownie do okoliczności uzna za odpowiedni, nie wyłączając sposobów przewidzianych dla zabezpieczenia roszczeń pieniężnych. W szczególności sąd może:
+
+### 1)
+
+unormować prawa i obowiązki stron lub uczestników postępowania na czas trwania postępowania;
+
+### 2)
+
+ustanowić zakaz zbywania przedmiotów lub praw objętych postępowaniem;
+
+### 3)
+
+zawiesić postępowanie egzekucyjne lub inne postępowanie zmierzające do wykonania orzeczenia;
+
+### 4)
+
+uregulować sposób roztoczenia pieczy nad małoletnimi dziećmi i kontaktów z dzieckiem;
+
+### 5)
+
+nakazać wpisanie stosownego ostrzeżenia w księdze wieczystej lub we właściwym rejestrze.
+
+### § 2.
+
+W sprawach o ochronę dóbr osobistych zabezpieczenie polegające na zakazie publikacji może być udzielone tylko wtedy, gdy nie sprzeciwia się temu ważny interes publiczny. Udzielając zabezpieczenia, sąd określa czas trwania zakazu, który nie może być dłuższy niż rok. Jeżeli postępowanie w sprawie jest w toku, uprawniony może przed upływem okresu, na który orzeczono zakaz publikacji, żądać dalszego zabezpieczenia; przepisy zdania pierwszego i drugiego stosuje się. Jeżeli uprawniony zażądał dalszego zabezpieczenia, zakaz publikacji pozostaje w mocy do czasu prawomocnego rozstrzygnięcia wniosku.
+
+” ,
+
+### b)
+
+po § 2 dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Przepisu art. 731 nie stosuje się, jeżeli zabezpieczenie jest konieczne dla odwrócenia grożącej szkody lub innych niekorzystnych dla uprawnionego skutków.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Sąd doręcza obowiązanemu postanowienie wydane na posiedzeniu niejawnym, w którym nakazuje mu wykonanie lub zaniechanie czynności albo nieprzeszkadzanie czynnościom uprawnionego. Nie dotyczy to postanowień nakazujących wydanie rzeczy będących we władaniu obowiązanego.
+
+” ;
+
+### 71)
+
+po art. 756 dodaje się art. 7561 i 7562 w brzmieniu:
+
+„
+
+### Art. 7561.
+
+W sprawach dotyczących pieczy nad małoletnimi dziećmi i kontaktów z dzieckiem sąd orzeka w przedmiocie zabezpieczenia po przeprowadzeniu rozprawy, chyba że chodzi o wypadek niecierpiący zwłoki.
+
+### Art. 7562.
+
+Uwzględniając wniosek o zabezpieczenie przez uregulowanie stosunków na czas trwania postępowania albo przez uregulowanie sposobów kontaktów z dzieckiem, sąd, na wniosek uprawnionego, może w postanowieniu o udzieleniu zabezpieczenia zagrozić obowiązanemu nakazaniem zapłaty określonej sumy pieniężnej na rzecz uprawnionego na wypadek naruszenia obowiązków określonych w tym postanowieniu. Przepisy art. 10501 i 10511, a jeżeli zabezpieczenie polega na uregulowaniu sposobu kontaktów z dzieckiem - art. 5821 § 3, stosuje się odpowiednio.
+
+” ;
+
+### 72)
+
+w art. 762:
+
+### a)
+
+§ 1-3 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Za nieuzasadnioną odmowę udzielenia organowi egzekucyjnemu wyjaśnień lub informacji przewidzianych w art. 761 albo za udzielanie informacji lub wyjaśnień świadomie fałszywych osoba odpowiedzialna może być na wniosek wierzyciela lub z urzędu ukarana przez organ egzekucyjny grzywną do dwóch tysięcy złotych. Grzywną taką może być również ukarany dłużnik, który zaniedba obowiązku powiadomienia o zmianie miejsca swojego pobytu.
+
+### § 2.
+
+Jeżeli żądanie udzielenia wyjaśnień lub informacji skierowane było do osoby prawnej lub innej organizacji, ukaraniu grzywną podlega jej pracownik odpowiedzialny za udzielenie wyjaśnień lub informacji, a gdyby ustalenie takiego pracownika było utrudnione, ukaraniu podlega jej kierownik. Przed wydaniem postanowienia organ egzekucyjny wysłucha kierownika.
+
+### § 3.
+
+Wypis postanowienia o ukaraniu grzywną organ egzekucyjny doręcza osobie ukaranej, stronom oraz prokuratorowi.
+
+” ,
+
+### b)
+
+uchyla się § 4,
+
+### c)
+
+§ 5 otrzymuje brzmienie:
+
+„
+
+### § 5.
+
+Ukaranie przez organ egzekucyjny grzywną nie zwalnia osób ukaranych od odpowiedzialności karnej za niedopełnienie lub przekroczenie obowiązków służbowych.
+
+” ;
+
+### 73)
+
+art. 764 otrzymuje brzmienie:
+
+„
+
+### Art. 764.
+
+Komornik może upomnieć, a po bezskutecznym upomnieniu wydalić osobę, która zachowuje się niewłaściwie lub przeszkadza jego czynnościom. W przypadku niezastosowania się do wezwania do wydalenia z miejsca czynności komornik może ukarać taką osobę grzywną w wysokości do tysiąca złotych.
+
+” ;
+
+### 74)
+
+w art. 767 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Skargę wnosi się do sądu w terminie tygodniowym od dnia czynności, gdy strona lub osoba, której prawo zostało przez czynność komornika naruszone bądź zagrożone, była przy czynności obecna lub była o jej terminie zawiadomiona, w innych wypadkach - od dnia zawiadomienia o dokonaniu czynności strony lub osoby, której prawo zostało przez czynności komornika naruszone bądź zagrożone, a w braku zawiadomienia - od dnia dowiedzenia się przez skarżącego o dokonanej czynności. Skargę na zaniechanie przez komornika czynności wnosi się w terminie tygodniowym od dnia, w którym czynność powinna być dokonana. Odpis skargi sąd przesyła komornikowi, który w terminie trzech dni na piśmie sporządza uzasadnienie dokonania zaskarżonej czynności lub przyczyn jej zaniechania oraz przekazuje je wraz z aktami sprawy do sądu, do którego skargę wniesiono, chyba że skargę w całości uwzględnia, o czym zawiadamia sąd i skarżącego oraz zainteresowanych, których uwzględnienie skargi dotyczy.
+
+” ;
+
+### 75)
+
+art. 7673 otrzymuje brzmienie:
+
+„
+
+### Art. 7673.
+
+Sąd odrzuca skargę wniesioną po upływie przepisanego terminu, nieopłaconą lub z innych przyczyn niedopuszczalną, jak również skargę, której braków nie uzupełniono w terminie, chyba że uzna, iż zachodzą podstawy do podjęcia czynności na podstawie art. 759 § 2. Na postanowienie sądu o odrzuceniu skargi służy zażalenie.
+
+” ;
+
+### 76)
+
+po art. 7673 dodaje się art. 7673a w brzmieniu:
+
+„
+
+### Art. 7673a.
+
+Na postanowienie referendarza sądowego przysługuje skarga. Wniesienie skargi nie powoduje utraty mocy przez zaskarżone postanowienie. Sąd orzeka jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu. Rozpoznając skargę, sąd wydaje postanowienie, w którym zaskarżone postanowienie referendarza utrzymuje w mocy albo je zmienia.
+
+” ;
+
+### 77)
+
+po art. 768 dodaje się art. 7681 w brzmieniu:
+
+„
+
+### Art. 7681.
+
+Prawomocne postanowienie komornika o ukaraniu grzywną podlega wykonaniu w drodze egzekucji sądowej bez zaopatrywania go w klauzulę wykonalności.
+
+” ;
+
+### 78)
+
+w art. 773:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W przypadku zbiegu egzekucji administracyjnej i sądowej co do tej samej rzeczy lub prawa majątkowego, administracyjny organ egzekucyjny i komornik wstrzymują czynności egzekucyjne na wniosek wierzyciela, dłużnika lub z urzędu i przekazują akta egzekucji administracyjnej i egzekucji sądowej sądowi rejonowemu, w którego okręgu wszczęto egzekucję, w celu rozstrzygnięcia, który organ egzekucyjny - sądowy czy administracyjny - ma dalej prowadzić w trybie właściwym dla danego organu łącznie egzekucje z tej rzeczy lub prawa majątkowego, do którego nastąpił zbieg egzekucji. Sąd wydaje postanowienie w terminie 14 dni, biorąc pod uwagę stan każdego z postępowań egzekucyjnych, a jeżeli są one w równym stopniu zaawansowane, wysokość egzekwowanych należności i kolejność ich zaspokojenia, z zastrzeżeniem § 2 i 21. Równocześnie sąd postanawia, jakie już dokonane czynności egzekucyjne pozostają w mocy.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Postanowienie, o którym mowa w § 1, może wydać także referendarz sądowy.
+
+” ,
+
+### c)
+
+po § 21 dodaje się § 22 w brzmieniu:
+
+„
+
+### § 22.
+
+Jeżeli sąd lub referendarz sądowy postanowi, że obie egzekucje ma prowadzić łącznie administracyjny organ egzekucyjny, komornik przed przekazaniem akt administracyjnemu organowi egzekucyjnemu rozliczy koszty egzekucji, zwróci wierzycielowi pozostałości niewykorzystanej zaliczki i odnotuje na tytule wykonawczym wysokość dotychczasowych kosztów egzekucyjnych oraz w jakim zakresie roszczenie wierzyciela zostało zaspokojone.
+
+” ,
+
+### d)
+
+§ 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Skarga na postanowienie referendarza sądowego przysługuje stronom i administracyjnemu organowi egzekucyjnemu. Na postanowienie sądu stronom oraz administracyjnemu organowi egzekucyjnemu przysługuje zażalenie.
+
+” ;
+
+### 79)
+
+po art. 7731 dodaje się art. 7732 w brzmieniu:
+
+„
+
+### Art. 7732.
+
+### § 1.
+
+Jeżeli na podstawie jednego tytułu wykonawczego komornik prowadzi egzekucje z dwóch lub więcej rzeczy lub praw, a zbieg egzekucji dotyczy tylko niektórych z nich i na podstawie art. 773 § 1 do łącznego prowadzenia egzekucji został wyznaczony organ administracyjny, dla sprawy przekazanej temu organowi wydaje się z urzędu dalszy tytuł wykonawczy, oznaczając w nim, że stanowi on podstawę do dalszego prowadzenia egzekucji przez administracyjny organ egzekucyjny. Przepis art. 793 stosuje się odpowiednio. Jeżeli postanowienie, o którym mowa w art. 773 § 1, wydał referendarz sądowy, może on również wydać dalszy tytuł wykonawczy.
+
+### § 2.
+
+Jeżeli egzekucja, o której mowa w § 1, jest prowadzona na podstawie tytułu wykonawczego wystawionego na podstawie tytułu egzekucyjnego niepochodzącego od sądu, który orzeka o zbiegu egzekucji, dalszy tytuł wykonawczy jest wystawiany po przedłożeniu tytułu egzekucyjnego przez wierzyciela.
+
+” ;
+
+### 80)
+
+art. 776 otrzymuje brzmienie:
+
+„
+
+### Art. 776.
+
+Podstawą egzekucji jest tytuł wykonawczy. Tytułem wykonawczym jest tytuł egzekucyjny zaopatrzony w klauzulę wykonalności, chyba że ustawa stanowi inaczej.
+
+” ;
+
+### 81)
+
+w art. 777:
+
+### a)
+
+w § 1:
+
+- - uchyla się pkt 2 i 21,
+
+- - pkt 4-6 otrzymują brzmienie: „ 4) akt notarialny, w którym dłużnik poddał się egzekucji i który obejmuje obowiązek zapłaty sumy pieniężnej lub wydania rzeczy oznaczonych co do gatunku, ilościowo w akcie określonych, albo też wydania rzeczy indywidualnie oznaczonej, gdy w akcie wskazano termin wykonania obowiązku lub zdarzenie, od którego uzależnione jest wykonanie; 5) akt notarialny, w którym dłużnik poddał się egzekucji i który obejmuje obowiązek zapłaty sumy pieniężnej do wysokości w akcie wprost określonej albo oznaczonej za pomocą klauzuli waloryzacyjnej, gdy w akcie wskazano zdarzenie, od którego uzależnione jest wykonanie obowiązku, jak również termin, do którego wierzyciel może wystąpić o nadanie temu aktowi klauzuli wykonalności; 6) akt notarialny określony w pkt 4 lub 5, w którym niebędąca dłużnikiem osobistym osoba, której rzecz, wierzytelność lub prawo obciążone jest hipoteką lub zastawem, poddała się egzekucji z obciążonego przedmiotu w celu zaspokojenia wierzytelności pieniężnej przysługującej zabezpieczonemu wierzycielowi. ” ,
+
+### b)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Oświadczenie dłużnika o poddaniu się egzekucji może być złożone także w odrębnym akcie notarialnym.
+
+” ,
+
+### c)
+
+uchyla się § 3;
+
+### 82)
+
+w art. 782 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Nakazowi zapłaty wydanemu w elektronicznym postępowaniu upominawczym nadaje się klauzulę wykonalności z urzędu niezwłocznie po jego uprawomocnieniu się.
+
+” ;
+
+### 83)
+
+w art. 783 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Klauzula wykonalności powinna zawierać stwierdzenie, że tytuł uprawnia do egzekucji, a w razie potrzeby oznaczać jej zakres. Jeżeli przepis szczególny nie stanowi inaczej, tytułowi egzekucyjnemu opiewającemu na świadczenie pieniężne w walucie obcej sąd nada klauzulę wykonalności ze zobowiązaniem komornika do przeliczenia zasądzonej kwoty na walutę polską według średniego kursu waluty obcej ogłoszonego przez Narodowy Bank Polski na dzień sporządzenia planu podziału, a jeżeli planu nie sporządza się - na dzień wypłaty kwoty wierzycielowi.
+
+### § 2.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, brzmienie klauzuli wykonalności, mając na względzie treść § 1 oraz sprawne prowadzenie egzekucji i zapewnienie możliwości obrony praw jej uczestników.
+
+” ;
+
+### 84)
+
+uchyla się art. 7861;
+
+### 85)
+
+w art. 791:
+
+### a)
+
+§ 1-3 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Tytuł wykonawczy zobowiązujący do wydania nieruchomości, statku lub do opróżnienia pomieszczenia upoważnia do prowadzenia egzekucji także przeciwko każdemu, kto uzyskał władanie nad tym przedmiotem po wszczęciu postępowania, w którym wydano tytuł egzekucyjny.
+
+### § 2.
+
+Tytuł wykonawczy zobowiązujący do wydania nieruchomości, statku lub do opróżnienia pomieszczenia upoważnia do prowadzenia egzekucji nie tylko przeciw dłużnikowi, lecz także przeciwko jego domownikom, krewnym i innym osobom reprezentującym jego prawa.
+
+### § 3.
+
+Przepisy § 1 i 2 nie wyłączają praw określonych przepisami o ochronie lokatorów oraz praw, które są skuteczne wobec wierzyciela. Jeżeli dłużnik twierdzi, że przysługuje mu prawo skuteczne wobec wierzyciela, komornik wstrzyma się względem niego z czynnościami egzekucyjnymi, pouczając, że w terminie tygodnia może wytoczyć powództwo o pozbawienie w stosunku do niego tytułu wykonawczego wykonalności.
+
+” ,
+
+### b)
+
+uchyla się § 4,
+
+### c)
+
+dodaje się § 5 w brzmieniu:
+
+„
+
+### § 5.
+
+Po upływie miesiąca od daty wstrzymania czynności komornik podejmie dalsze czynności egzekucyjne w stosunku do dłużnika, chyba że postępowanie egzekucyjne zostało zawieszone postanowieniem sądu o udzieleniu zabezpieczenia.
+
+” ;
+
+### 86)
+
+art. 801 otrzymuje brzmienie:
+
+„
+
+### Art. 801.
+
+Jeżeli wierzyciel lub sąd zarządzający z urzędu przeprowadzenie egzekucji albo uprawniony organ żądający przeprowadzenia egzekucji nie wskaże majątku pozwalającego na zaspokojenie świadczenia, komornik może wezwać dłużnika do złożenia wyjaśnień.
+
+” ;
+
+### 87)
+
+art. 807 otrzymuje brzmienie:
+
+„
+
+### Art. 807.
+
+### § 1.
+
+Zabezpieczenie w wypadkach w części niniejszej przewidzianych powinno być złożone w gotówce do rąk komornika lub wpłacone na wskazany przez niego rachunek bankowy albo złożone w książeczkach oszczędnościowych lub w papierach wartościowych. Art. 752 § 2 stosuje się odpowiednio. O wydaniu zabezpieczenia sąd rozstrzyga po wysłuchaniu osób zainteresowanych. Na postanowienie sądu przysługuje zażalenie.
+
+### § 2.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób składania zabezpieczenia w papierach wartościowych, biorąc pod uwagę bezpieczeństwo papierów wartościowych i sprawność postępowania egzekucyjnego.
+
+” ;
+
+### 88)
+
+w art. 808 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Odsetki od sum złożonych na rachunek depozytowy sądu tytułem nabycia przedmiotu egzekucji wchodzą w skład sumy uzyskanej w egzekucji. Odsetki należne za okres od dnia sporządzenia planu podziału sumy uzyskanej w egzekucji do dnia wykonania planu zwraca się osobie uprawnionej.
+
+” ;
+
+### 89)
+
+w art. 812 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Wierzyciel i dłużnik mogą być obecni przy czynnościach egzekucyjnych. Na żądanie stron albo według uznania komornika mogą być obecni także świadkowie, chyba że zachodzi obawa, że wskutek straty czasu na przywołanie świadków egzekucja będzie udaremniona. Świadków przywołuje się w liczbie nie większej niż po dwóch z każdej strony.
+
+” ;
+
+### 90)
+
+w art. 816 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Ukończenie postępowania egzekucyjnego w inny sposób niż przez umorzenie komornik stwierdza postanowieniem, rozstrzygając o kosztach.
+
+” ;
+
+### 91)
+
+po art. 821 dodaje się art. 8211 w brzmieniu:
+
+„
+
+### Art. 8211.
+
+Jeżeli egzekucja została skierowana do wynagrodzenia za pracę lub innych praw majątkowych, z którymi związane jest prawo dłużnika do świadczeń okresowych, sąd na wniosek dłużnika może określić kwotę, jaką dłużnik może pobierać w okresie zawieszenia postępowania w celu zaspokajania bieżących potrzeb. Na postanowienie sądu określające kwotę, którą dłużnik może pobierać w celu zaspokajania bieżących potrzeb, wierzycielowi służy zażalenie.
+
+” ;
+
+### 92)
+
+art. 863 otrzymuje brzmienie:
+
+„
+
+### Art. 863.
+
+Minister Sprawiedliwości może, w drodze rozporządzenia, zarządzić utrzymywanie osobnych pomieszczeń do przechowywania i dozorowania zajętych ruchomości, mając na względzie sprawne prowadzenie egzekucji oraz właściwe zabezpieczenie zajętych ruchomości.
+
+” ;
+
+### 93)
+
+art. 8641 otrzymuje brzmienie:
+
+„
+
+### Art. 8641.
+
+Komornik może sprzedać z wolnej ręki ruchomości niewymienione w art. 864 § 2, jeżeli dłużnik wyraził na to zgodę i określił minimalną cenę zbycia. Sprzedaż nie może nastąpić wcześniej niż po dwóch tygodniach od dnia oszacowania, jeżeli żaden z wierzycieli prowadzących egzekucję nie sprzeciwił się jej w terminie tygodnia od daty zawiadomienia go przez komornika o zamiarze jej przeprowadzenia.
+
+” ;
+
+### 94)
+
+po art. 867 dodaje się art. 8671 i 8672 w brzmieniu:
+
+„
+
+### Art. 8671.
+
+### § 1.
+
+Przystępujący do przetargu obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej sumy oszacowania.
+
+### § 2.
+
+Rękojmię złożoną przez licytanta, któremu udzielono przybicia, zatrzymuje się; pozostałym licytantom rękojmię zwraca się niezwłocznie.
+
+### § 3.
+
+Jeżeli nabywca nie wykonał w terminie warunków licytacji co do zapłaty ceny, traci rękojmię, a skutki przybicia wygasają. Z utraconej rękojmi pokrywa się koszty egzekucji związanej ze sprzedażą, a reszta wchodzi w skład sumy uzyskanej w egzekucji albo jeżeli egzekucja została umorzona jest przelewana na dochód Skarbu Państwa.
+
+### Art. 8672.
+
+### § 1.
+
+Licytacja odbywa się publicznie.
+
+### § 2.
+
+W przetargu nie mogą uczestniczyć: dłużnik, komornik, ich małżonkowie, dzieci, rodzice i rodzeństwo, osoby obecne na licytacji w charakterze urzędowym oraz licytant, który nie wykonał warunków poprzedniej licytacji.
+
+### § 3.
+
+Stawienie się jednego licytanta wystarcza do odbycia przetargu.
+
+### § 4.
+
+Pełnomocnictwo do udziału w przetargu powinno być stwierdzone dokumentem z podpisem urzędowo poświadczonym, chyba że chodzi o pełnomocnictwo udzielone adwokatowi lub radcy prawnemu.
+
+” ;
+
+### 95)
+
+w art. 884 § 2 i 3 otrzymują brzmienie:
+
+„
+
+### § 2.
+
+W razie rozwiązania stosunku pracy z dłużnikiem dotychczasowy pracodawca czyni wzmiankę o zajęciu należności w wydanym dłużnikowi świadectwie pracy, a jeżeli nowy pracodawca dłużnika jest mu znany, przesyła temu pracodawcy zawiadomienie komornika i dokumenty dotyczące zajęcia wynagrodzenia oraz powiadamia o tym komornika i dłużnika, przeciwko któremu toczy się postępowanie egzekucyjne. Wzmianka w świadectwie pracy powinna zawierać oznaczenie komornika, który zajął należność, oraz numer sprawy egzekucyjnej, jak również wskazać wysokość potrąconych już kwot. Przesłanie zawiadomienia komornika ma skutki zajęcia należności dłużnika u nowego pracodawcy od chwili dojścia zawiadomienia do tego pracodawcy.
+
+### § 3.
+
+Nowy pracodawca, któremu pracownik przedstawi świadectwo pracy ze wzmianką o zajęciu należności, zawiadamia o zatrudnieniu pracownika pracodawcę, który wydał świadectwo, oraz wskazanego we wzmiance komornika. Jeżeli nowy pracodawca, któremu pracownik nie okazał świadectwa pracy, dowie się, gdzie pracownik był przedtem zatrudniony, obowiązany jest zawiadomić poprzedniego pracodawcę o jego zatrudnieniu, chyba że pracownik przedstawi zaświadczenie tego pracodawcy stwierdzające, że jego należności nie były zajęte.
+
+” ;
+
+### 96)
+
+w art. 886 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pracodawcy, który nie wykonał obowiązków określonych w art. 881 § 3 i 4, nie złożył w przepisanym terminie oświadczenia przewidzianego w art. 882 albo zaniedbał przesłania dokumentów zajęcia wynagrodzenia nowemu pracodawcy dłużnika, stosownie do art. 884 § 2 i 3, komornik wymierza grzywnę w wysokości do dwóch tysięcy złotych. Grzywna może być powtórzona, jeżeli pracodawca nadal uchyla się od wykonania tych czynności w dodatkowo wyznaczonym terminie.
+
+” ;
+
+### 97)
+
+po art. 889 dodaje się art. 8891 w brzmieniu:
+
+„
+
+### Art. 8891.
+
+Jeżeli zajęto rachunek bankowy prowadzony w walucie obcej, bank przekazuje komornikowi należność w walucie polskiej przeliczonej według kursu kupna waluty obcej, w której prowadzony jest rachunek, ogłoszonego przez Narodowy Bank Polski w dniu przekazania należności komornikowi.
+
+” ;
+
+### 98)
+
+w art. 8931:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli egzekucja z rachunku bankowego obejmującego wkład oszczędnościowy, na który wystawiono dowód imienny lub na okaziciela, nie może być przeprowadzona w trybie art. 901 z powodu niemożności odebrania tego dokumentu, komornik stwierdza ten fakt protokołem i dokonuje zajęcia wkładu oszczędnościowego przez skierowanie do właściwego oddziału banku zawiadomienia o zajęciu. Zajęcie jest dokonane z chwilą doręczenia tego zawiadomienia. Na skutek zajęcia dokonanego w powyższy sposób bank wstrzymuje wszelkie wypłaty z zajętego wkładu i zawiadamia o tym placówki banku, placówki operatora publicznego lub innego operatora pocztowego i inne placówki wykonujące czynności w powyższym zakresie.
+
+” ,
+
+### b)
+
+po § 4 dodaje się § 5 w brzmieniu:
+
+„
+
+### § 5.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw łączności oraz Ministrem Sprawiedliwości określi, w drodze rozporządzenia, tryb zawiadamiania placówek banków, placówek operatora publicznego lub innego operatora pocztowego i innych placówek, uwzględniając dane zawarte w zawiadomieniu, mając na względzie sprawne prowadzenie egzekucji.
+
+” ;
+
+### 99)
+
+w art. 9041 § 2 i 3 otrzymują brzmienie:
+
+„
+
+### § 2.
+
+Sprzedaży zajętej wierzytelności dokonuje się w drodze licytacji prowadzonej według przepisów o egzekucji z ruchomości. Cena wywołania wynosi trzy czwarte sumy, na którą składa się należność główna oraz odsetki naliczone do dnia licytacji. Nabycie nie może nastąpić poniżej ceny wywołania.
+
+### § 3.
+
+Za zgodą dłużnika zajęta wierzytelność może zostać sprzedana z wolnej ręki po cenie przez niego wskazanej, jeżeli sprzedaż nie narusza interesów wierzycieli. Dłużnik może też wskazać nabywcę oraz określić inne warunki sprzedaży. Zgoda dłużnika na sprzedaż z wolnej ręki nie jest potrzebna, gdy wierzytelność była wymagalna przed dniem zajęcia. W takim wypadku cena sprzedaży nie może być jednak niższa niż cztery piąte sumy, na którą składa się należność główna oraz odsetki naliczone do dnia sprzedaży.
+
+” ;
+
+### 100)
+
+art. 908 otrzymuje brzmienie:
+
+„
+
+### Art. 908.
+
+### § 1.
+
+Jeżeli po zajęciu wierzytelności należyte wykonanie praw dłużnika lub wierzyciela tego wymaga, sąd na wniosek wierzyciela lub dłużnika, stosownie do okoliczności, ustanowi kuratora lub zarządcę. Na postanowienie sądu przysługuje zażalenie.
+
+### § 2.
+
+Do zarządu stosuje się odpowiednio przepisy o zarządzie w toku egzekucji z nieruchomości.
+
+” ;
+
+### 101)
+
+w art. 9116 uchyla się § 3 i 4;
+
+### 102)
+
+w art. 9117 dodaje się § 4 w brzmieniu:
+
+„
+
+### § 4.
+
+Do sprzedaży prawa w drodze licytacji stosuje się odpowiednio przepisy o sprzedaży licytacyjnej w egzekucji z ruchomości. Do sprzedaży w drodze licytacji papierów wartościowych, o których mowa w art. 3 pkt 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2010 r. Nr 211, poz. 1384](https://api.sejm.gov.pl/eli/acts/DU/2010/1384/text.html) oraz z [2011 r. Nr 106, poz. 622](https://api.sejm.gov.pl/eli/acts/DU/2011/622/text.html) i [Nr 131, poz. 763](https://api.sejm.gov.pl/eli/acts/DU/2011/763/text.html)), nie stosuje się przepisu art. 7 ust. 1 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych ([Dz. U. z 2009 r. Nr 185, poz. 1439](https://api.sejm.gov.pl/eli/acts/DU/2009/1439/text.html) oraz z [2010 r. Nr 167, poz. 1129](https://api.sejm.gov.pl/eli/acts/DU/2010/1129/text.html)) oraz art. 19 ust. 1 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+” ;
+
+### 103)
+
+w art. 913 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Wierzyciel może żądać wyjawienia majątku także przed wszczęciem egzekucji, jeżeli:
+
+### 1)
+
+uprawdopodobni, że nie uzyska zaspokojenia w pełni swojej należności ze znanego mu majątku albo z przypadających dłużnikowi bieżących świadczeń periodycznych za okres sześciu miesięcy;
+
+### 2)
+
+po uzyskaniu tytułu wykonawczego wezwał dłużnika do zapłaty stwierdzonej nim należności listem poleconym za potwierdzeniem odbioru, a dłużnik nie spełnił świadczenia w terminie 14 dni od dnia doręczenia wezwania do zapłaty.
+
+” ;
+
+### 104)
+
+art. 916 otrzymuje brzmienie:
+
+„
+
+### Art. 916.
+
+### § 1.
+
+Jeżeli dłużnik bez usprawiedliwionej przyczyny nie stawi się do sądu w celu złożenia wykazu lub przyrzeczenia albo stawiwszy się wykazu nie złoży lub odmówi odpowiedzi na zadane mu pytanie albo odmówi złożenia przyrzeczenia, sąd może skazać go na grzywnę lub nakazać przymusowe doprowadzenie oraz może zastosować areszt nieprzekraczający miesiąca, z uwzględnieniem art. 276 § 2. O skutkach tych dłużnik powinien być pouczony w wezwaniu na posiedzenie. W razie wykonania czynności przez dłużnika lub umorzenia postępowania grzywny niezapłacone do tego czasu ulegają umorzeniu.
+
+### § 2.
+
+Na postanowienie sądu w przedmiocie skazania na grzywnę oraz orzeczenie aresztu przysługuje zażalenie.
+
+” ;
+
+### 105)
+
+po art. 9201 dodaje się art. 9202 w brzmieniu:
+
+„
+
+### Art. 9202.
+
+Czynności przewidziane w dziale niniejszym dla sądu może wykonywać także referendarz sądowy, z wyłączeniem stosowania środków przymusu.
+
+” ;
+
+### 106)
+
+po art. 921 dodaje się art. 9211 w brzmieniu:
+
+„
+
+### Art. 9211.
+
+O wszczęciu i ukończeniu egzekucji komornik zawiadamia sąd, przy którym działa.
+
+” ;
+
+### 107)
+
+w art. 924 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+W razie umorzenia postępowania egzekucyjnego komornik składa wniosek o wykreślenie w księdze wieczystej wpisu o wszczęciu egzekucji lub o usunięcie wniosku o wszczęcie egzekucji ze zbioru dokumentów.
+
+” ;
+
+### 108)
+
+w art. 929 po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Pobranie z góry przez dłużnika przed zajęciem czynszu najmu za czas dłuższy niż trzy miesiące, a czynszu dzierżawy za czas dłuższy niż sześć miesięcy, licząc w obu przypadkach od dnia zajęcia, nie zwalnia najemcy lub dzierżawcy od obowiązku zapłaty czynszu do rąk komornika.
+
+” ;
+
+### 109)
+
+w art. 930 dodaje się § 4 w brzmieniu:
+
+„
+
+### § 4.
+
+Oddanie zajętej nieruchomości w użyczenie, leasing, najem lub dzierżawę jest bezskuteczne wobec nabywcy nieruchomości w egzekucji.
+
+” ;
+
+### 110)
+
+w art. 937 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Na postanowienie sądu w przedmiocie zatwierdzenia sprawozdania przysługuje zażalenie.
+
+” ;
+
+### 111)
+
+w art. 945 dodaje się § 4 w brzmieniu:
+
+„
+
+### § 4.
+
+Jeżeli opis i oszacowanie nie zostały ukończone w terminie podanym w zawiadomieniu, komornik o ukończeniu opisu i oszacowania zawiadomi znanych mu uczestników oraz dokona obwieszczenia stosownie do § 2.
+
+” ;
+
+### 112)
+
+w art. 948 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Opisem i oszacowaniem należy objąć z osobna każdą nieruchomość stanowiącą przedmiot egzekucji, jeżeli jest ona wpisana do odrębnej księgi wieczystej lub prowadzony jest dla niej odrębny zbiór dokumentów. Jeżeli jednak postępowania egzekucyjne toczące się co do kilku nieruchomości tego samego dłużnika, wpisanych do oddzielnych ksiąg wieczystych lub dla których prowadzone są odrębne zbiory dokumentów, połączone zostały w jedno postępowanie, to w przypadku gdy nieruchomości te stanowią całość gospodarczą, należy opisać i oszacować tę całość i każdą z nieruchomości z osobna.
+
+” ;
+
+### 113)
+
+art. 950 otrzymuje brzmienie:
+
+„
+
+### Art. 950.
+
+Termin zaskarżenia opisu i oszacowania wynosi dwa tygodnie i liczy się od dnia jego ukończenia. Jeżeli opis i oszacowanie nie zostały ukończone w terminie podanym w zawiadomieniu termin do zaskarżenia liczy się od dnia doręczenia uczestnikowi zawiadomienia, o którym mowa w art. 945 § 4, a dla uczestników, którym nie doręczono zawiadomienia, od dnia obwieszczenia o ukończeniu. Na postanowienie sądu przysługuje zażalenie.
+
+” ;
+
+### 114)
+
+w art. 962 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Przystępujący do przetargu obowiązany jest złożyć rękojmię w wysokości jednej dziesiątej części sumy oszacowania, najpóźniej w dniu poprzedzającym przetarg.
+
+” ;
+
+### 115)
+
+w art. 969 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Z rękojmi utraconej przez nabywcę lub od niego ściągniętej pokrywa się koszty egzekucji związane ze sprzedażą, a reszta wchodzi w skład sumy uzyskanej w egzekucji albo jeżeli egzekucja została umorzona, jest przelewana na dochód Skarbu Państwa.
+
+” ;
+
+### 116)
+
+w art. 985 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli po drugiej licytacji żaden z wierzycieli nie przejął nieruchomości na własność, postępowanie egzekucyjne umarza się i nowa egzekucja z tej nieruchomości może być wszczęta dopiero po upływie 6 miesięcy od daty drugiej licytacji.
+
+” ;
+
+### 117)
+
+w art. 999 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Prawomocne postanowienie o przysądzeniu własności przenosi własność na nabywcę i jest tytułem do ujawnienia na rzecz nabywcy prawa własności w katastrze nieruchomości oraz przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru dokumentów. Prawomocne postanowienie o przysądzeniu własności jest tytułem wykonawczym do wprowadzenia nabywcy w posiadanie nieruchomości i opróżnienia znajdujących się na tej nieruchomości pomieszczeń bez potrzeby nadania mu klauzuli wykonalności. Przepis art. 791 stosuje się odpowiednio.
+
+” ;
+
+### 118)
+
+art. 1002 otrzymuje brzmienie:
+
+„
+
+### Art. 1002.
+
+Z chwilą uprawomocnienia się postanowienia o przysądzeniu własności nabywca wstępuje w prawa i obowiązki dłużnika wynikające ze stosunku najmu i dzierżawy stosownie do przepisów prawa normujących te stosunki w wypadku zbycia rzeczy wynajętej lub wydzierżawionej. W przypadku gdy umowa najmu lub dzierżawy nieruchomości zawarta była na czas oznaczony dłuższy niż dwa lata, nabywca może wypowiedzieć tę umowę, w ciągu miesiąca od uprawomocnienia się postanowienia o przysądzeniu własności, z zachowaniem rocznego terminu wypowiedzenia, o ile umowa nie przewiduje terminu krótszego, chociażby umowa została zawarta z zachowaniem formy pisemnej i z datą pewną, a rzecz została najemcy lub dzierżawcy wydana.
+
+” ;
+
+### 119)
+
+w art. 10131 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Przepisy niniejszego działu stosuje się do egzekucji z niezabudowanej nieruchomości gruntowej oraz nieruchomości zabudowanej budynkiem mieszkalnym lub użytkowym, jeżeli w chwili złożenia wniosku o wszczęcie egzekucji nie dokonano zawiadomienia o zakończeniu budowy albo nie wystąpiono z wnioskiem o udzielenie zezwolenia na użytkowanie w rozumieniu przepisów prawa budowlanego.
+
+” ;
+
+### 120)
+
+art. 1018 otrzymuje brzmienie:
+
+„
+
+### Art. 1018.
+
+Ogłoszenie o wszczęciu egzekucji komornik wywiesi w budynku sądowym i umieści je w dzienniku poczytnym w danej miejscowości oraz na stronie internetowej Krajowej Rady Komorniczej.
+
+” ;
+
+### 121)
+
+art. 1019 otrzymuje brzmienie:
+
+„
+
+### Art. 1019.
+
+Obwieszczenie o licytacji należy przynajmniej na dwa tygodnie przed licytacją wywiesić w budynku sądowym oraz ogłosić w dzienniku poczytnym w danej miejscowości, a także na stronie internetowej Krajowej Rady Komorniczej, jak również przesłać terenowym organom administracji morskiej właściwym dla portu, w którym statek się znajduje, oraz dla portu macierzystego statku w celu wywieszenia w tych portach.
+
+” ;
+
+### 122)
+
+w art. 1026 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W przypadku połączenia postępowań egzekucyjnych toczących się co do kilku nieruchomości tego samego dłużnika, suma przypadająca po zaspokojeniu należności zaliczonych do wyższej kategorii na zaspokojenie ciążących na nieruchomościach hipotek oraz praw i roszczeń, które wygasły wskutek przysądzenia własności, ulega podziałowi na tyle części, ile nieruchomości było przedmiotem połączonych postępowań, w takim stosunku, w jakim wartość poszczególnych nieruchomości pozostawała do wartości całości gospodarczej, którą tworzyły te nieruchomości. Hipoteki, roszczenia i prawa ciążące na nieruchomości zaspokaja się tylko w tej części sumy, która odpowiada wartości obciążonej nimi nieruchomości. Pozostałą część sumy dzieli się stosownie do § 1.
+
+” ;
+
+### 123)
+
+po art. 1050 dodaje się art. 10501 w brzmieniu:
+
+„
+
+### Art. 10501.
+
+### § 1.
+
+W sytuacji, o której mowa w art. 1050 § 1, sąd, na wniosek wierzyciela, może zamiast zagrożenia grzywną, po wysłuchaniu stron, zagrozić dłużnikowi nakazaniem zapłaty na rzecz wierzyciela określonej sumy pieniężnej za każdy dzień zwłoki w wykonaniu czynności, niezależnie od roszczeń przysługujących wierzycielowi na zasadach ogólnych. Przepis art. 1050 § 2 stosuje się odpowiednio.
+
+### § 2.
+
+Po bezskutecznym upływie terminu wyznaczonego dłużnikowi do wykonania czynności, sąd na wniosek wierzyciela nakazuje dłużnikowi zapłatę wierzycielowi sumy pieniężnej. Tak samo sąd postąpi w razie dalszego wniosku wierzyciela. Prawomocne postanowienie sądu jest tytułem wykonawczym na rzecz wierzyciela bez potrzeby nadawania mu klauzuli wykonalności. Sąd może również, na wniosek wierzyciela, podwyższyć wysokość należnej mu od dłużnika sumy pieniężnej.
+
+### § 3.
+
+W razie wykonania czynności przez dłużnika po upływie wyznaczonego przez sąd terminu, wierzyciel może złożyć wniosek o nakazanie dłużnikowi zapłaty sumy pieniężnej na jego rzecz w terminie miesiąca od dnia dokonania czynności.
+
+### § 4.
+
+Określając wysokość sumy pieniężnej, o której mowa w § 1, sąd uwzględni interesy stron w takiej mierze, aby zapewnić wykonalność obowiązku określonego w tytule wykonawczym a dłużnika nie obciążać ponad potrzebę.
+
+” ;
+
+### 124)
+
+po art. 1051 dodaje się art. 10511 w brzmieniu:
+
+„
+
+### Art. 10511.
+
+### § 1.
+
+W sytuacji, o której mowa w art. 1051 § 1, sąd, na wniosek wierzyciela, po wysłuchaniu stron i stwierdzeniu, że dłużnik działał wbrew obowiązkowi, może zamiast nałożenia grzywny nakazać dłużnikowi zapłatę na rzecz wierzyciela określonej sumy pieniężnej za dokonane naruszenie oraz zagrozić nakazaniem zapłaty określonej sumy pieniężnej za każde kolejne naruszenie obowiązku, stosownie do jego treści, niezależnie od roszczeń przysługujących wierzycielowi na zasadach ogólnych.
+
+### § 2.
+
+Po stwierdzeniu, że dłużnik w dalszym ciągu działał wbrew obowiązkowi, sąd, na wniosek wierzyciela, po wysłuchaniu stron, nakazuje dłużnikowi zapłatę wierzycielowi sumy pieniężnej. Tak samo sąd postąpi w razie dalszego wniosku wierzyciela.
+
+### § 3.
+
+Przepisy art. 10501 § 2 zdanie trzecie i czwarte, art. 10501 § 4 oraz art. 1051 § 2 i 3 stosuje się odpowiednio.
+
+” ;
+
+### 125)
+
+art. 1052 otrzymuje brzmienie:
+
+„
+
+### Art. 1052.
+
+W jednym postanowieniu sąd może wymierzyć grzywnę nie wyższą niż dziesięć tysięcy złotych, chyba że dwukrotne wymierzenie grzywny okazało się nieskuteczne. Ogólna suma grzywien w tej samej sprawie nie może przewyższać miliona złotych. W razie wykonania czynności przez dłużnika lub umorzenia postępowania grzywny niezapłacone do tego czasu ulegają umorzeniu.
+
+” ;
+
+### 126)
+
+w art. 1053 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Wymierzając grzywnę, sąd orzeknie jednocześnie - na wypadek niezapłacenia - zamianę grzywny na areszt, licząc jeden dzień aresztu od pięćdziesięciu do tysiąca pięciuset złotych grzywny. Ogólny czas trwania aresztu nie może w tej samej sprawie przekroczyć 6 miesięcy.
+
+” ;
+
+### 127)
+
+art. 1055 otrzymuje brzmienie:
+
+„
+
+### Art. 1055.
+
+Na postanowienie sądu co do wezwania dłużnika do wykonania czynności, zagrożenia grzywną i jej zamiany na areszt, co do zabezpieczenia szkody wierzyciela oraz na postanowienia, o których mowa w art. 10501 § 1-3 oraz art. 10511 § 1 i 2, przysługuje zażalenie.
+
+” ;
+
+### 128)
+
+w art. 106415 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Postanowienie o wszczęciu egzekucji sąd przesyła do sądu właściwego do prowadzenia księgi wieczystej dla nieruchomości wchodzącej w skład przedsiębiorstwa lub gospodarstwa rolnego. Sąd właściwy do prowadzenia księgi wieczystej z urzędu dokonuje wpisu o wszczęciu egzekucji albo składa postanowienie do zbioru dokumentów. W razie wszczęcia egzekucji przeciwko przedsiębiorcy podlegającemu wpisowi do właściwego rejestru, sąd przesyła postanowienie o wszczęciu egzekucji w celu złożenia do akt rejestrowych. Ponadto sąd zarządzi ogłoszenie postanowienia o wszczęciu egzekucji w dzienniku ogólnopolskim i w dzienniku poczytnym w siedzibie przedsiębiorstwa lub gospodarstwa rolnego oraz na stronie internetowej Krajowej Rady Komorniczej.
+
+” ;
+
+### 129)
+
+w art. 106419 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd zarządzi ogłoszenie postanowienia, o którym mowa w art. 106416, w dzienniku o zasięgu ogólnopolskim i w dzienniku poczytnym w siedzibie przedsiębiorstwa lub gospodarstwa rolnego oraz na stronie internetowej Krajowej Rady Komorniczej.
+
+” ;
+
+### 130)
+
+w art. 1099 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Brak jurysdykcji krajowej sąd bierze pod rozwagę z urzędu w każdym stanie sprawy. W razie stwierdzenia braku jurysdykcji krajowej sąd odrzuca pozew lub wniosek, z zastrzeżeniem art. 1104 § 2 lub art. 1105 § 6.
+
+” ;
+
+### 131)
+
+w art. 1214 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Sąd stwierdza wykonalność wyroku sądu polubownego lub ugody przed nim zawartej, nadających się do wykonania w drodze egzekucji, nadając im klauzulę wykonalności. Na postanowienie sądu przysługuje zażalenie. Wyrok sądu polubownego lub ugoda przed nim zawarta, których wykonalność została stwierdzona, są tytułami wykonawczymi.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych ([Dz. U. Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 41, poz. 229, z 1990 r. Nr 14, poz. 88, z 1997 r. Nr 121, poz. 769 i 770 oraz z 2006 r. Nr 235, poz. 1699.](#gloss-0:5:)) art. 2 otrzymuje brzmienie:
+
+„
+
+### Art. 2.
+
+### 1.
+
+Sprawami gospodarczymi są sprawy ze stosunków cywilnych między przedsiębiorcami w zakresie prowadzonej przez nich działalności gospodarczej.
+
+### 2.
+
+Ponadto sprawami gospodarczymi są sprawy:
+
+### 1)
+
+określone w ust. 1, choćby którakolwiek ze stron zaprzestała prowadzenia działalności gospodarczej,
+
+### 2)
+
+ze stosunku spółki oraz dotyczące roszczeń, o których mowa w art. 291-300 i art. 479-490 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860 oraz z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767 i Nr 201, poz. 1182.](#gloss-0:6:)),
+
+### 3)
+
+przeciwko przedsiębiorcom o zaniechanie naruszania środowiska i przywrócenie do stanu poprzedniego lub o naprawienie szkody z tym związanej oraz o zakazanie albo ograniczenie działalności zagrażającej środowisku,
+
+### 4)
+
+między organami przedsiębiorstwa państwowego,
+
+### 5)
+
+między przedsiębiorstwem państwowym lub jego organami a jego organem założycielskim lub organem sprawującym nadzór,
+
+### 6)
+
+z zakresu prawa upadłościowego i naprawczego,
+
+### 7)
+
+o nadanie klauzuli wykonalności tytułowi egzekucyjnemu, którym jest orzeczenie sądu gospodarczego prawomocne lub podlegające natychmiastowemu wykonaniu albo ugoda zawarta przed tym sądem, jak również innemu tytułowi egzekucyjnemu, obejmującemu roszczenia, które, gdyby były rozpoznawane przez sąd, należałyby do właściwości sądów gospodarczych,
+
+### 8)
+
+o pozbawienie wykonalności tytułu wykonawczego opartego na prawomocnym lub podlegającym natychmiastowemu wykonaniu orzeczeniu sądu gospodarczego albo ugodzie zawartej przed tym sądem, jak również innego tytułu wykonawczego obejmującego roszczenie, które, gdyby było rozpoznawane przez sąd, należałoby do właściwości sądów gospodarczych,
+
+### 9)
+
+o ustalenie, że orzeczenie sądu lub rozstrzygnięcie innego organu państwa obcego wydane w sprawie gospodarczej podlega albo nie podlega uznaniu,
+
+### 10)
+
+inne, przekazane przez odrębne przepisy.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2006 r. Nr 89, poz. 625](https://api.sejm.gov.pl/eli/acts/DU/2006/625/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551, Nr 135, poz. 789 i Nr 205, poz. 1208.](#gloss-0:7:)) w art. 30 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Postępowanie w sprawie odwołania od decyzji Prezesa URE toczy się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji energetyki.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. Nr 88, poz. 553](https://api.sejm.gov.pl/eli/acts/DU/1997/553/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135 i Nr 217, poz. 1280.](#gloss-0:8:)) w art. 300 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Kto, w celu udaremnienia wykonania orzeczenia sądu lub innego organu państwowego, udaremnia lub uszczupla zaspokojenie swojego wierzyciela przez to, że usuwa, ukrywa, zbywa, darowuje, niszczy, rzeczywiście lub pozornie obciąża albo uszkadza składniki swojego majątku zajęte lub zagrożone zajęciem, bądź usuwa znaki zajęcia, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym ([Dz. U. z 2007 r. Nr 16, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2007/94/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367 i Nr 230, poz. 1372.](#gloss-0:9:)) w art. 14 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Postępowanie w sprawie odwołania od decyzji lub zażalenia na postanowienie Prezesa UTK, o których mowa w ust. 5 i 6, toczy się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji transportu kolejowego.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej ([Dz. U. z 2007 r. Nr 59, poz. 404](https://api.sejm.gov.pl/eli/acts/DU/2007/404/text.html), z [2008 r. Nr 93, poz. 585](https://api.sejm.gov.pl/eli/acts/DU/2008/585/text.html) oraz z [2010 r. Nr 18, poz. 99](https://api.sejm.gov.pl/eli/acts/DU/2010/99/text.html)) w art. 46 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Postępowanie w sprawach odwołań od decyzji Prezesa Urzędu toczy się według przepisów ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342 i Nr 233, poz. 1381.](#gloss-0:10:)) o postępowaniu w sprawach z zakresu ochrony konkurencji.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578 oraz z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903 i Nr 171, poz. 1016.](#gloss-0:11:)) w art. 206 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Postępowania w sprawach odwołań i zażaleń, o których mowa w ust. 2 i 2b, toczą się według przepisów Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu regulacji telekomunikacji i poczty.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej ([Dz. U. Nr 130, poz. 905](https://api.sejm.gov.pl/eli/acts/DU/2007/905/text.html), z [2008 r. Nr 58, poz. 357](https://api.sejm.gov.pl/eli/acts/DU/2008/357/text.html), z [2009 r. Nr 98, poz. 817](https://api.sejm.gov.pl/eli/acts/DU/2009/817/text.html) oraz z [2011 r. Nr 94, poz. 551](https://api.sejm.gov.pl/eli/acts/DU/2011/551/text.html)) w art. 25 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Postępowanie w sprawie odwołania, o którym mowa w ust. 1, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342 i Nr 233, poz. 1381.](#gloss-0:12:)) o postępowaniu w sprawach z zakresu regulacji energetyki.
+
+” .
+
+### Art. 9.
+
+### 1.
+
+Przepisy niniejszej ustawy stosuje się do postępowań wszczętych po dniu jej wejścia w życie, z zastrzeżeniem ust. 2-7.
+
+### 2.
+
+Przepisy art. 3, art. 5, art. 54, art. 174 § 1 pkt 4 oraz § 3, art. 180 § 1 pkt 5, art. 327 § 1, art. 357 § 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy.
+
+### 3.
+
+Przepis art. 18312 § 21 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się po upływie 14 dni od dnia ogłoszenia ustawy.
+
+### 4.
+
+Przepisów art. 1821 i art. 474 ustawy, o której mowa w art. 1, nie stosuje się od dnia wejścia w życie ustawy.
+
+### 5.
+
+Przepis art. 369 § 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do apelacji wniesionych po dniu wejścia w życie ustawy.
+
+### 6.
+
+Przepisy art. 3941 i art. 3942 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do zaskarżenia orzeczeń wydanych po dniu wejścia w życie ustawy.
+
+### 7.
+
+W sprawach z zakresu ochrony konkurencji, regulacji energetyki, regulacji telekomunikacji i poczty oraz regulacji transportu kolejowego przepisy art. 4791-4792, art. 4794, art. 4796 i art. 4796a, art. 4798, art. 4799-47914b, art. 47916-47919a oraz art. 47922 ustawy, o której mowa w art. 1, stosuje się nadal, jeżeli decyzja prezesa właściwego urzędu wydana została przed dniem wejścia w życie ustawy.
+
+### Art. 10.
+
+Akty wykonawcze wydane na podstawie art. 783 § 2 i art. 8931 § 1 ustawy, o której mowa w art. 1, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie art. 783 § 2 i art. 8931 § 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 24, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji transpozycji dyrektywy 2008/52/WE Parlamentu Europejskiego i Rady z dnia 21 maja 2008 r. w sprawie niektórych aspektów mediacji w sprawach cywilnych i handlowych (Dz. Urz. WE L 136 z 24.05.2008, str. 3). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 6 czerwca 1997 r. - Kodeks karny, ustawę z dnia 28 marca 2003 r. o transporcie kolejowym, ustawę z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne oraz ustawę z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887 i Nr 224, poz. 1342. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97 i Nr 168, poz. 1323, z 2010 r. Nr 47, poz. 278 i Nr 182, poz. 1228 oraz z 2011 r. Nr 106, poz. 622 i Nr 171, poz. 1016. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 41, poz. 229, z 1990 r. Nr 14, poz. 88, z 1997 r. Nr 121, poz. 769 i 770 oraz z 2006 r. Nr 235, poz. 1699. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540, z 2008 r. Nr 86, poz. 524, Nr 118, poz. 747, Nr 217, poz. 1381 i Nr 231, poz. 1547, z 2009 r. Nr 13, poz. 69, Nr 42, poz. 341 i Nr 104, poz. 860 oraz z 2011 r. Nr 92, poz. 531, Nr 102, poz. 585, Nr 106, poz. 622, Nr 133, poz. 767 i Nr 201, poz. 1182. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551, Nr 135, poz. 789 i Nr 205, poz. 1208. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426, z 2005 r. Nr 86, poz. 732, Nr 90, poz. 757, Nr 132, poz. 1109, Nr 163, poz. 1363, Nr 178, poz. 1479 i Nr 180, poz. 1493, z 2006 r. Nr 190, poz. 1409, Nr 218, poz. 1592 i Nr 226, poz. 1648, z 2007 r. Nr 89, poz. 589, Nr 123, poz. 850, Nr 124, poz. 859 i Nr 192, poz. 1378, z 2008 r. Nr 90, poz. 560, Nr 122, poz. 782, Nr 171, poz. 1056, Nr 173, poz. 1080 i Nr 214, poz. 1344, z 2009 r. Nr 62, poz. 504, Nr 63, poz. 533, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 190, poz. 1474, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 40, poz. 227 i 229, Nr 98, poz. 625 i 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 152, poz. 1018 i 1021, Nr 182, poz. 1228, Nr 225, poz. 1474 i Nr 240, poz. 1602 oraz z 2011 r. Nr 17, poz. 78, Nr 24, poz. 130, Nr 39, poz. 202, Nr 48, poz. 245, Nr 72, poz. 381, Nr 94, poz. 549, Nr 117, poz. 678, Nr 133, poz. 767, Nr 160, poz. 964, Nr 191, poz. 1135 i Nr 217, poz. 1280. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 191, poz. 1374, z 2008 r. Nr 59, poz. 359, Nr 144, poz. 902, Nr 206, poz. 1289 i Nr 227, poz. 1505, z 2009 r. Nr 1, poz. 3, Nr 18, poz. 97, Nr 19, poz. 100, Nr 98, poz. 817, Nr 115, poz. 966, Nr 157, poz. 1241 i Nr 214, poz. 1658 oraz z 2011 r. Nr 5, poz. 13, Nr 102, poz. 586, Nr 106, poz. 622, Nr 187, poz. 1113, Nr 205, poz. 1209, Nr 227, poz. 1367 i Nr 230, poz. 1372. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342 i Nr 233, poz. 1381. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556, z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505, z 2009 r. Nr 11, poz. 59, Nr 18, poz. 97 i Nr 85, poz. 716, z 2010 r. Nr 81, poz. 530, Nr 86, poz. 554, Nr 106, poz. 675, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 229, poz. 1499 i Nr 238, poz. 1578 oraz z 2011 r. Nr 102, poz. 586 i 587, Nr 134, poz. 779, Nr 153, poz. 903 i Nr 171, poz. 1016. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699, z 2007 r. Nr 7, poz. 58, Nr 47, poz. 319, Nr 50, poz. 331, Nr 99, poz. 662, Nr 106, poz. 731, Nr 112, poz. 766 i 769, Nr 115, poz. 794, Nr 121, poz. 831, Nr 123, poz. 849, Nr 176, poz. 1243, Nr 181, poz. 1287, Nr 192, poz. 1378 i Nr 247, poz. 1845, z 2008 r. Nr 59, poz. 367, Nr 96, poz. 609 i 619, Nr 110, poz. 706, Nr 116, poz. 731, Nr 119, poz. 772, Nr 120, poz. 779, Nr 122, poz. 796, Nr 171, poz. 1056, Nr 220, poz. 1431, Nr 228, poz. 1507, Nr 231, poz. 1547 i Nr 234, poz. 1571, z 2009 r. Nr 26, poz. 156, Nr 67, poz. 571, Nr 69, poz. 592 i 593, Nr 131, poz. 1075, Nr 179, poz. 1395 i Nr 216, poz. 1676, z 2010 r. Nr 3, poz. 13, Nr 7, poz. 45, Nr 40, poz. 229, Nr 108, poz. 684, Nr 109, poz. 724, Nr 125, poz. 842, Nr 152, poz. 1018, Nr 155, poz. 1037, Nr 182, poz. 1228, Nr 197, poz. 1307, Nr 215, poz. 1418, Nr 217, poz. 1435 i Nr 241, poz. 1621 oraz z 2011 r. Nr 34, poz. 173, Nr 85, poz. 458, Nr 87, poz. 482, Nr 92, poz. 531, Nr 112, poz. 654, Nr 129, poz. 735, Nr 138, poz. 806 i 807, Nr 144, poz. 854, Nr 149, poz. 887, Nr 224, poz. 1342 i Nr 233, poz. 1381.

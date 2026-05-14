@@ -8,11 +8,9 @@ pos: 1462
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. Na podstawie 16 1 zdanie pierwsze dnia 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst dnia 16 kwietnia 1993 włączeniu Akademii Medycznej im. Mikołaja Kopernika Krakowie Uniwersytetu Jagiellońskiego Krakowie (Dz. U. Nr 44, 200), uwzględnieniem zmian wprowadzonych:
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 11 czerwca sprawie ogłoszenia jednolitego tekstu włączeniu Akademii Medycznej im. Mikołaja Kopernika Krakowie Uniwersytetu Jagiellońskiego Krakowie*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 czerwca 2019 r. w sprawie ogłoszenia jednolitego tekstu ustawy o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +22,180 @@ domain: null
 | Data ogłoszenia | 2019-06-11 |
 | Data wydania | 2019-08-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1462/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1462/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1462) |
 
-1) ustawą dnia 10 grudnia 1998 zmianie ustaw: zakładach opieki zdrowotnej, zawodzie lekarza, zawodach pielęgniarki i położnej, szkolnictwie wyższym oraz zmianie niektórych innych ustaw (Dz. U. Nr 162, 1115),
-2) ustawą dnia 3 lipca 2018 Przepisy wprowadzające ustawę Prawo szkolnictwie wyższym i nauce (Dz. U.
-1669) oraz zmian wynikających przepisów ogłoszonych przed dniem 11 czerwca
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje:
-1) 11 dnia 10 grudnia 1998 zmianie ustaw: zakładach opieki zdrowotnej, zawodzie lekarza, zawodach pielęgniarki i położnej, szkolnictwie wyższym oraz zmianie niektórych innych ustaw (Dz. U. Nr 162,
-1115), który stanowi: „Art. 11. Ustawa wchodzi życie dniem ogłoszenia.”;
-2) 333 i 350 dnia 3 lipca 2018 Przepisy wprowadzające ustawę Prawo szkolnictwie wyższym i nauce (Dz. U. 1669), które stanowią: „Art. 333. Od dnia wejścia życie ustawy, której mowa 1, dnia 31 grudnia 2018 przyznawania dotacji i środków budżetu państwa oraz wykonywania uprawnień właściwego ministra, związanych przyznawaniem środków na finansowanie badań naukowych, których mowa 2 3 zmienianej 25, stosuje się przepisy tej brzmieniu dotychczasowym.” „Art. 350. Ustawa wchodzi życie dniem 1 października 2018 r., wyjątkiem:
-1) 1 pkt 1, 42 pkt 2 lit. b oraz 334 2, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) 19 pkt 3 lit. b zakresie dodawanego 21 1 pkt 39c, 120 pkt 1, 127 pkt 33–36 i 39 oraz 167, które wchodzą życie dniem 1 stycznia r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA dnia 16 kwietnia 1993 włączeniu Akademii Medycznej im. Mikołaja Kopernika Krakowie Uniwersytetu Jagiellońskiego Krakowie
+## Spis treści
 
-**Art. 1.**
+- [Treść obwieszczenia](#part_1)
 
-1. Włącza się Akademię Medyczną im. Mikołaja Kopernika Krakowie, zwaną dalej „Akademią”, Uniwersytetu Jagiellońskiego Krakowie, zwanego dalej „Uniwersytetem”, dniem 12 maja 1993
+- [Załącznik - Tekst jednolity ustawy z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie](#part_2)
 
-2. Z dniem włączenia znosi się Akademię.
+TOC
 
-**Art. 2.**
+## Treść obwieszczenia
 
-1. Uniwersytet dniem włączenia Akademii, oprócz dotychczasowej działalności:
+### 1.
 
-- **1)** prowadzi działalność dydaktyczną i badawczą dziedzinie nauk medycznych;
-- **2)** prowadzi działalność leczniczą, uwzględnieniem przepisów dnia 12 września 1990 szkolnictwie wyższym (Dz. U. 385, późn. zm. ) ;
-- **3)** uczestniczy sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych ustawie dnia 30 sierpnia 1991 zakładach opieki zdrowotnej (Dz. U. 2007 89, późn. zm. ) .
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie ([Dz. U. Nr 44, poz. 200](https://api.sejm.gov.pl/eli/acts/DU/1993/200/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-2. (uchylony)
+### 1)
 
-3. (uchylony)
+ustawą z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw ([Dz. U. Nr 162, poz. 1115](https://api.sejm.gov.pl/eli/acts/DU/1998/1115/text.html)),
 
-**Art. 3.**
+### 2)
 
-1. Uniwersytet przejmuje, dniem włączenia, prawa i zobowiązania Akademii.
+ustawą z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html))
 
-2. Zakres praw oraz zobowiązań Akademii, których mowa 1, ustalą Akademia oraz Uniwersytet formie protokołu. Stan gospodarki finansowej Akademii zostanie wykazany bilansie sporządzonym przez Akademię na dzień poprzedzający dzień włączenia Akademii Uniwersytetu.
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 czerwca 2019 r.
 
-**Art. 4.**
+### 2.
 
-1. Z dniem włączenia Akademii Uniwersytetu:
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 
-- **1)** jednostki organizacyjne Akademii stają się jednostkami organizacyjnymi Uniwersytetu;
-- **2)** pracownicy zatrudnieni Akademii stają się pracownikami Uniwersytetu;
-- **3)** studenci Akademii stają się studentami Uniwersytetu;
-- **4)** dyrektor administracyjny Akademii staje się zastępcą dyrektora administracyjnego Uniwersytetu.
+### 1)
 
-2. Jednostki organizacyjne Uniwersytetu, których mowa 1 pkt 1, zachowują uprawnienia nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
+art. 11 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw ([Dz. U. Nr 162, poz. 1115](https://api.sejm.gov.pl/eli/acts/DU/1998/1115/text.html)), który stanowi:
 
-**Art. 5.**
+„
 
-1. Organizację uczelni oraz inne sprawy dotyczące jej funkcjonowania, wynikające włączenia Akademii Uniwersytetu, określi statut uchwalony przez senat Uniwersytetu.
+### Art. 11.
 
-**Art. 6.**
+Ustawa wchodzi w życie z dniem ogłoszenia.
 
-1. Od dnia włączenia Akademii dotychczasowy rektor oraz prorektorzy Uniwersytetu pełnią funkcje końca swojej kadencji; rektor Akademii staje się prorektorem Uniwersytetu, a prorektorzy Akademii przestają pełnić swoje funkcje.
+” ;
 
-2. Rektor i prorektorzy Uniwersytetu, wybrani zgodnie ze statutem, którym mowa 5 1, rozpoczynają pełnienie swoich funkcji od dnia 1 września 1993
+### 2)
 
-**Art. 7.** Przyjmowanie na pierwszy rok studiów roku akademickim 1993/1994 na kierunki prowadzone przez Akademię, przed dniem jej włączenia Uniwersytetu, odbędzie się na zasadach obowiązujących Akademii przed tym dniem.
+art. 333 i art. 350 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)), które stanowią:
 
-**Art. 8.** W zakresie uregulowanym niniejszą ustawą 10 2–5 szkolnictwie wyższym nie stosuje się.
+„
 
-**Art. 9.** Ustawa wchodzi życie dniem ogłoszenia .
+### Art. 333.
 
+Od dnia wejścia w życie ustawy, o której mowa w art. 1, do dnia 31 grudnia 2018 r. do przyznawania dotacji i środków z budżetu państwa oraz wykonywania uprawnień właściwego ministra, związanych z przyznawaniem środków na finansowanie badań naukowych, o których mowa w art. 2 ust. 3 ustawy zmienianej w art. 25, stosuje się przepisy tej ustawy w brzmieniu dotychczasowym.
+
+”
+
+„
+
+### Art. 350.
+
+Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33-36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.
+
+” .
+
+## Załącznik - Tekst jednolity ustawy z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikołaja Kopernika w Krakowie do Uniwersytetu Jagiellońskiego w Krakowie
+
+### Art. 1.
+
+### 1.
+
+Włącza się Akademię Medyczną im. Mikołaja Kopernika w Krakowie, zwaną dalej „Akademią”, do Uniwersytetu Jagiellońskiego w Krakowie, zwanego dalej „Uniwersytetem”, z dniem 12 maja 1993 r.
+
+### 2.
+
+Z dniem włączenia znosi się Akademię.
+
+### Art. 2.
+
+### 1.
+
+Uniwersytet z dniem włączenia Akademii, oprócz dotychczasowej działalności:
+
+### 1)
+
+prowadzi działalność dydaktyczną i badawczą w dziedzinie nauk medycznych;
+
+### 2)
+
+prowadzi działalność leczniczą, z uwzględnieniem przepisów ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788.](#gloss-0:1:))[2) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r.](#gloss-0:2:);
+
+### 3[3) Ze zmianą wprowadzoną przez art. 6 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1115), która weszła w życie z dniem 30 grudnia 1998 r.](#gloss-0:3:))
+
+uczestniczy w sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych w ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ([Dz. U. z 2007 r. poz. 89](https://api.sejm.gov.pl/eli/acts/DU/2007/89/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235.](#gloss-0:4:))[5) Ustawa utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r.](#gloss-0:5:).
+
+### 2.
+
+(uchylony)[6) Przez art. 25 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.](#gloss-0:6:)
+
+### 3.
+
+(uchylony)[6) Przez art. 25 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r.](#gloss-0:6:)
+
+### Art. 3.
+
+### 1.
+
+Uniwersytet przejmuje, z dniem włączenia, prawa i zobowiązania Akademii.
+
+### 2.
+
+Zakres praw oraz zobowiązań Akademii, o których mowa w ust. 1, ustalą Akademia oraz Uniwersytet w formie protokołu. Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporządzonym przez Akademię na dzień poprzedzający dzień włączenia Akademii do Uniwersytetu.
+
+### Art. 4.
+
+### 1.
+
+Z dniem włączenia Akademii do Uniwersytetu:
+
+### 1)
+
+jednostki organizacyjne Akademii stają się jednostkami organizacyjnymi Uniwersytetu;
+
+### 2)
+
+pracownicy zatrudnieni w Akademii stają się pracownikami Uniwersytetu;
+
+### 3)
+
+studenci Akademii stają się studentami Uniwersytetu;
+
+### 4)
+
+dyrektor administracyjny Akademii staje się zastępcą dyrektora administracyjnego Uniwersytetu.
+
+### 2.
+
+Jednostki organizacyjne Uniwersytetu, o których mowa w ust. 1 pkt 1, zachowują uprawnienia do nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
+
+### Art. 5.
+
+### 1.
+
+Organizację uczelni oraz inne sprawy dotyczące jej funkcjonowania, wynikające z włączenia Akademii do Uniwersytetu, określi statut uchwalony przez senat Uniwersytetu.
+
+### 2.
+
+Senat Uniwersytetu określi zasady wyodrębnienia finansowego jednostek Uniwersytetu realizujących działalność, o której mowa w art. 2 ust. 1.
+
+### Art. 6.
+
+### 1.
+
+Od dnia włączenia Akademii dotychczasowy rektor oraz prorektorzy Uniwersytetu pełnią funkcje do końca swojej kadencji; rektor Akademii staje się prorektorem Uniwersytetu, a prorektorzy Akademii przestają pełnić swoje funkcje.
+
+### 2.
+
+Rektor i prorektorzy Uniwersytetu, wybrani zgodnie ze statutem, o którym mowa w art. 5 ust. 1, rozpoczynają pełnienie swoich funkcji od dnia 1 września 1993 r.
+
+### Art. 7.
+
+Przyjmowanie na pierwszy rok studiów w roku akademickim 1993/1994 na kierunki prowadzone przez Akademię, przed dniem jej włączenia do Uniwersytetu, odbędzie się na zasadach obowiązujących w Akademii przed tym dniem.
+
+### Art. 8.
+
+W zakresie uregulowanym niniejszą ustawą art. 10 ust. 2-5 ustawy o szkolnictwie wyższym nie stosuje się.
+
+### Art. 9.
+
+Ustawa wchodzi w życie z dniem ogłoszenia[7) Ustawa została ogłoszona w dniu 31 maja 1993 r.](#gloss-0:7:).
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. poz. 254 i 314, z 1994 r. poz. 3, 163, 509 i 591, z 1996 r. poz. 34 i 110, z 1997 r. poz. 153, 590, 661, 770 i 943, z 1998 r. poz. 310, 668, 1115 i 1118, z 2000 r. poz. 1268 i 1314, z 2001 r. poz. 924, 1129, 1193, 1194 i 1383, z 2002 r. poz. 33, 34, 1239, 1271 i 1683, z 2003 r. poz. 595, 1176, 1304 i 2081, z 2004 r. poz. 959, 1206, 1598 i 1845 oraz z 2005 r. poz. 71, 187 i 788. 2) Ustawa utraciła moc z dniem 1 września 2005 r. na podstawie art. 276 pkt 2 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. poz. 1365), która weszła w życie z dniem 1 września 2005 r. 3) Ze zmianą wprowadzoną przez art. 6 ustawy z dnia 10 grudnia 1998 r. o zmianie ustaw: o zakładach opieki zdrowotnej, o zawodzie lekarza, o zawodach pielęgniarki i położnej, o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. poz. 1115), która weszła w życie z dniem 30 grudnia 1998 r. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. poz. 849, 1172, 1240 i 1290, z 2008 r. poz. 1056 i 1570, z 2009 r. poz. 100, 641, 817, 1241 i 1707, z 2010 r. poz. 620, 679 i 1507 oraz z 2011 r. poz. 235. 5) Ustawa utraciła moc z dniem 1 lipca 2011 r. na podstawie art. 220 pkt 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. poz. 654), która weszła w życie z dniem 1 lipca 2011 r. 6) Przez art. 25 ustawy z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), która weszła w życie z dniem 1 października 2018 r. 7) Ustawa została ogłoszona w dniu 31 maja 1993 r.

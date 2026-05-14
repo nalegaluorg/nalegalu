@@ -8,11 +8,9 @@ pos: 1680
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# przeciwdziałaniu marnowaniu żywności
-
-*USTAWA z dnia 19 lipca 2019 r.*
+# Ustawa z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska oraz ustawę z dnia 14 grudnia 2016 r. - Prawo oświatowe.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,96 +22,284 @@ domain: null
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001680) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1680/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1680/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1680) |
 
-**Art. 1.** Ustawa określa zasady postępowania z żywnością oraz obowiązki sprzedawców żywności celu przeciwdziałania marnowaniu żywności oraz negatywnym skutkom społecznym, środowiskowym i gospodarczym wynikającym z marnowania żywności.
+## Treść ustawy
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+### Art. 1.
 
-**Art. 3.**
+Ustawa określa zasady postępowania z żywnością oraz obowiązki sprzedawców żywności w celu przeciwdziałania marnowaniu żywności oraz negatywnym skutkom społecznym, środowiskowym i gospodarczym wynikającym z marnowania żywności.
 
-1. Sprzedawca żywności jest obowiązany do zawarcia umowy formie pisemnej lub elektronicznej pod rygorem nieważności z organizacją pozarządową dotyczącej nieodpłatnego przekazywania żywności spełniającej wymogi prawa żywnościowego, tym określone rozporządzeniu (WE) nr 178/2002, a nieprzeznaczonej do sprzedaży, szczególności ze względu na wady wyglądu tej żywności albo jej opakowań, z wyjątkiem napojów alkoholowych zawartości alkoholu powyżej 1,2% oraz napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, których zawartość alkoholu przekracza 0,5%, z przeznaczeniem na wykonywanie przez tę organizację zadań zakresie określonym art. 2 pkt 2.
+### Art. 2.
 
-2. Umowa, której mowa ust. 1, zawiera szczególności postanowienia dotyczące:
+Użyte w ustawie określenia oznaczają:
 
-- **1)** czasu i sposobu przekazywania żywności organizacji pozarządowej oraz rodzaju przekazywanej żywności organizacji pozarządowej, odmówić odbioru żywności;
-- **4)** okresu obowiązywania umowy oraz odpowiedzialności stron za niedotrzymanie warunków umowy, tym warunków wypowiedzenia.
+### 1)
 
-3. W przypadku wypowiedzenia umowy, której mowa ust. 1, sprzedawca żywności jest obowiązany zawrzeć nową umowę najpóźniej terminie 14 dni od dnia rozwiązania się umowy wypowiedzianej, jeżeli nie jest stroną innej umowy, której mowa ust. 1.
+marnowanie żywności - wycofywanie z etapu dystrybucji żywności, która spełnia wymogi prawa żywnościowego, w tym określone w rozporządzeniu (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającym ogólne zasady i wymagania prawa żywnościowego, powołującym Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającym procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4, Dz. Urz. UE L 100 z 08.04.2006, str. 4, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 37 z 13.02.2015, str. 24, Dz. Urz. UE L 35 z 10.02.2017, str. 10 oraz Dz. Urz. UE L 117 z 05.05.2017, str. 1.](#gloss-0:2:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463, z późn. zm.), zwanym dalej „rozporządzeniem (WE) nr 178/2002”, w szczególności ze względu na zbliżający się upływ terminu przydatności do spożycia lub daty minimalnej trwałości lub ze względu na wady wyglądu tych środków spożywczych albo ich opakowań i przeznaczanie ich do unieszkodliwiania jako odpady;
 
-**Art. 4.**
+### 2)
 
-1. Sprzedawca żywności jest obowiązany do prowadzenia jednostce handlu, której mowa art. 2 pkt 3, kampanii edukacyjno-informacyjnych zakresie racjonalnego gospodarowania żywnością oraz przeciwdziałania marnowaniu żywności co najmniej raz roku przez co najmniej dwa kolejne tygodnie, każdym dniu działalności jednostki handlu.
+organizacja pozarządowa - organizację pozarządową oraz podmiot, o których mowa odpowiednio w art. 3 ust. 2 i ust. 3 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2019 r. poz. 688](https://api.sejm.gov.pl/eli/acts/DU/2019/688/text.html) i [1570](https://api.sejm.gov.pl/eli/acts/DU/2019/1570/text.html)), których celem statutowym jest wykonywanie zadań w sferze zadań publicznych w zakresie:
 
-2. Kampanie, których mowa ust. 1, są prowadzone wspólnie z organizacją pozarządową, z którą sprzedawca żywności zawarł umowę, której mowa art. 3 ust. 1.
+### a)
 
-3. Na kampanie, których mowa ust. 1, można przeznaczyć nie więcej niż 20% środków pochodzących z opłaty, której mowa art. 5.
+pomocy społecznej, w tym pomocy rodzinom i osobom w trudnej sytuacji życiowej oraz wyrównywania szans tych rodzin i osób,
 
-**Art. 5.**
+### b)
 
-1. Sprzedawca żywności jest obowiązany do ponoszenia opłaty za marnowanie żywności, zwanej dalej „opłatą”.
+wspierania rodziny i systemu pieczy zastępczej,
 
-2. Opłatę oblicza się jako iloczyn stawki opłaty i masy marnowanej żywności. Podstawę obliczenia opłaty stanowi 90% masy marnowanej żywności kilogramach.
+### c)
 
-3. Stawka opłaty wynosi 0,1 zł za 1 kg marnowanej żywności.
+działalności charytatywnej, polegającej w szczególności na przekazywaniu żywności osobom potrzebującym lub prowadzeniu zakładów żywienia zbiorowego dla osób potrzebujących;
 
-4. Opłatę pomniejsza się koszty poniesione przez sprzedawcę żywności na prowadzone kampanie edukacyjno-informacyjne, których mowa art. 4.
+### 3)
 
-5. Opłatę pomniejsza się poniesione przez sprzedawcę żywności koszty wykonania umowy, której mowa art. 3 ust. 1, szczególności koszty transportu i dystrybucji żywności. następującego po roku, którego opłata dotyczy. Jeżeli sprzedawca żywności zawarł umowę, której mowa art. 3 ust. 1, z więcej niż jedną organizacją pozarządową, opłatę dzieli się między wszystkie organizacje proporcjonalnie do ilości odebranej przez nie żywności. W przypadku gdy sprzedawca żywności nie przekazał żywności żadnej z organizacji pozarządowych, przekazuje opłatę częściach równych wszystkim organizacjom, z którymi zawarł umowę.
+sprzedawca żywności - podmiot prowadzący przedsiębiorstwo spożywcze, o którym mowa w art. 3 ust. 3 rozporządzenia (WE) nr 178/2002, w zakresie sprzedaży żywności w jednostce handlu detalicznego lub hurtowego o powierzchni sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. z 2018 r. poz. 1945](https://api.sejm.gov.pl/eli/acts/DU/2018/1945/text.html) oraz [z 2019 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html), [235](https://api.sejm.gov.pl/eli/acts/DU/2019/235/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html), [1009](https://api.sejm.gov.pl/eli/acts/DU/2019/1009/text.html) i [1524](https://api.sejm.gov.pl/eli/acts/DU/2019/1524/text.html)) powyżej 250 m2, w której przychody ze sprzedaży żywności stanowią co najmniej 50% przychodów ze sprzedaży wszystkich towarów;
 
-8. W przypadku niezawarcia umowy, której mowa art. 3 ust. 1, sprzedawca żywności wnosi, terminie określonym ust. 7, należną opłatę na rachunek bankowy wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej na terenie województwa, którym znajduje się siedziba sprzedawcy żywności. Środki pochodzące z opłaty przeznaczane są na działania zakresie przeciwdziałania marnowaniu żywności.
+### 4)
 
-9. W przypadku gdy wysokość całej opłaty nie przekracza 300 zł, opłaty nie wnosi się.
+żywność - środki spożywcze w rozumieniu art. 2 rozporządzenia (WE) nr 178/2002.
 
-10. Sprzedawca żywności zamieszcza informację wysokości należnej opłaty lub wartości żywności przekazanej organizacjom pozarządowym, z przeznaczeniem na wykonywanie przez te organizacje zadań zakresie określonym art. 2 pkt 2, sprawozdaniu finansowym, którym mowa ustawie z dnia 29 września 1994 r. rachunkowości (Dz. U. z 2019 r. poz. 351, 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568), oraz na swojej stronie internetowej, jeżeli ją prowadzi.
+### Art. 3.
 
-**Art. 6.**
+### 1.
 
-1. Środki pochodzące z opłaty organizacja pozarządowa przeznacza na wykonywanie zadań zakresie określonym art. 2 pkt 2, tym na pokrywanie kosztów administracyjnych.
+Sprzedawca żywności jest obowiązany do zawarcia umowy w formie pisemnej lub elektronicznej pod rygorem nieważności z organizacją pozarządową dotyczącej nieodpłatnego przekazywania żywności spełniającej wymogi prawa żywnościowego, w tym określone w rozporządzeniu (WE) nr 178/2002, a nieprzeznaczonej do sprzedaży, w szczególności ze względu na wady wyglądu tej żywności albo jej opakowań, z wyjątkiem napojów alkoholowych o zawartości alkoholu powyżej 1,2% oraz napojów alkoholowych będących mieszaniną piwa i napojów bezalkoholowych, w których zawartość alkoholu przekracza 0,5%, z przeznaczeniem na wykonywanie przez tę organizację zadań w zakresie określonym w art. 2 pkt 2.
 
-2. Organizacja pozarządowa może przeznaczyć na pokrycie kosztów administracyjnych nie więcej niż 20% środków pochodzących z opłaty.
+### 2.
 
-**Art. 7.**
+Umowa, o której mowa w ust. 1, zawiera w szczególności postanowienia dotyczące:
 
-1. Organizacja pozarządowa składa sprzedawcy żywności, którym mowa art. 5 ust. 7, pisemną roczną informację wykorzystaniu środków pisemne roczne sprawozdanie sposobie zagospodarowania otrzymanej żywności zawierające szczególności dane masie żywności otrzymanej od sprzedawców żywności oraz masie żywności, którą przekazała na rzecz potrzebujących, wraz z wykazem sprzedawców żywności, od których otrzymała żywność, terminie do dnia 31 marca roku następującego po roku, którego dotyczy sprawozdanie.
+### 1)
 
-3. Przewodniczący Komitetu do spraw Pożytku Publicznego porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, wzór informacji wykorzystaniu środków pochodzących z opłaty oraz wzór sprawozdania sposobie zagospodarowania otrzymanej żywności, mając na względzie zapewnienie przejrzystości i komunikatywności tej informacji i sprawozdania, a także ujednolicenie sposobu ich opracowywania.
+czasu i sposobu przekazywania żywności organizacji pozarządowej oraz rodzaju przekazywanej żywności organizacji pozarządowej, z przeznaczeniem jej na wykonywanie przez tę organizację zadań w zakresie określonym w art. 2 pkt 2;
 
-**Art. 8.**
+### 2)
 
-1. Sprzedawca żywności składa wojewódzkiemu funduszowi ochrony środowiska i gospodarki wodnej na terenie województwa, którym prowadzi on działalność zakresie sprzedaży żywności, pisemne roczne sprawozdanie marnowanej żywności zawierające dane całkowitej masie marnowanej żywności danym roku oraz wysokości należnej opłaty wraz ze wskazaniem wysokości opłaty, która zostanie wpłacona do funduszu, terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+podziału kosztów odbioru i dystrybucji żywności pomiędzy stronami umowy;
 
-2. Wojewódzki fundusz ochrony środowiska i gospodarki wodnej składa organowi, którym mowa art. 20, pisemne roczne zbiorcze sprawozdanie marnowanej żywności zawierające dane całkowitej masie marnowanej żywności przez sprzedawców żywności danym roku oraz całkowitej wysokości należnej opłaty i wysokości opłaty wpłaconej do wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej wraz z wykazem sprzedawców żywności, którzy złożyli sprawozdanie, którym mowa ust. 1, terminie do dnia 30 czerwca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+### 3)
 
-3. Minister właściwy do spraw klimatu określi, drodze rozporządzenia, wzór sprawozdania marnowanej żywności oraz wzór zbiorczego sprawozdania i art. 8 ust. 1, nie składa sprawozdania, podlega karze grzywny.
+przypadków, w których organizacja pozarządowa może zrezygnować lub odmówić odbioru żywności;
 
-2. Orzekanie sprawach czyny określone ust. 1 następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach wykroczenia (Dz. U. z 2020 r. poz. 729, 956 i 1423).
+### 4)
 
-**Art. 10.**
+okresu obowiązywania umowy oraz odpowiedzialności stron za niedotrzymanie warunków umowy, w tym warunków wypowiedzenia.
 
-1. Kto wbrew obowiązkowi określonemu art. 3 ust. 1, nie zawiera z organizacją pozarządową umowy dotyczącej nieodpłatnego przekazywania żywności, z przeznaczeniem na wykonywanie przez tę organizację zadań zakresie określonym art. 2 pkt 2, podlega karze pieniężnej wysokości 5000 zł.
+### 3.
 
-2. Kary pieniężnej, której mowa ust. 1, nie nakłada się, przypadku gdy sprzedawca żywności wykaże, że nie było możliwe zawarcie umowy dotyczącej nieodpłatnego przekazywania żywności z organizacją pozarządową wykonującą zadania zakresie określonym art. 2 pkt 2 na terenie powiatu, którym prowadzi on działalność zakresie sprzedaży żywności.
+W przypadku wypowiedzenia umowy, o której mowa w ust. 1, sprzedawca żywności jest obowiązany zawrzeć nową umowę najpóźniej w terminie 14 dni od dnia rozwiązania się umowy wypowiedzianej, jeżeli nie jest stroną innej umowy, o której mowa w ust. 1.
 
-**Art. 11.**
+### Art. 4.
 
-1. Kto wbrew obowiązkowi określonemu art. 5 ust. 7, nie wnosi na rachunek bankowy organizacji pozarządowej, z którą zawarł umowę, której mowa art. 3 ust. 1, opłaty, wnosi ją niepełnej wysokości albo nie wnosi jej terminie, podlega karze pieniężnej wysokości od 500 zł do 10 000 zł.
+### 1.
 
-2. Karze określonej ust. 1 podlega także ten, kto wbrew obowiązkowi określonemu art. 5 ust. 8, nie wnosi na rachunek bankowy wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej opłaty, wnosi ją niepełnej wysokości albo nie wnosi jej terminie.
+Sprzedawca żywności jest obowiązany do prowadzenia w jednostce handlu, o której mowa w art. 2 pkt 3, kampanii edukacyjno-informacyjnych w zakresie racjonalnego gospodarowania żywnością oraz przeciwdziałania marnowaniu żywności co najmniej raz w roku przez co najmniej dwa kolejne tygodnie, w każdym dniu działalności jednostki handlu.
 
-**Art. 12.**
+### 2.
 
-1. Kary pieniężne, których mowa art. 10 i art. 11, wymierza, drodze decyzji, wojewódzki inspektor ochrony środowiska właściwy ze względu na miejsce prowadzenia przez sprzedawcę żywności działalności zakresie sprzedaży żywności.
+Kampanie, o których mowa w ust. 1, są prowadzone wspólnie z organizacją pozarządową, z którą sprzedawca żywności zawarł umowę, o której mowa w art. 3 ust. 1.
 
-2. Przy ustalaniu wysokości administracyjnej kary pieniężnej, której mowa art. 11, wojewódzki inspektor ochrony środowiska uwzględnia ilość marnowanej żadnego wpływu na powstanie naruszenia, a nastąpiło ono na skutek okoliczności, których nie mógł przewidzieć, wojewódzki inspektor ochrony środowiska odstępuje od wymierzenia kary pieniężnej, umarza postępowanie oraz zwalnia podmiot od wniesienia opłaty za okres do wydania decyzji umorzeniu postępowania.
+### 3.
 
-4. Kary pieniężne wnosi się terminie 14 dni od dnia, którym decyzja wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany tej decyzji. Art. 13–16. (pominięte)
+Na kampanie, o których mowa w ust. 1, można przeznaczyć nie więcej niż 20% środków pochodzących z opłaty, o której mowa w art. 5.
 
-**Art. 17.** W okresie 2 lat od dnia wejścia życie ustawy przez sprzedawcę żywności rozumie się podmiot prowadzący przedsiębiorstwo spożywcze zakresie sprzedaży żywności jednostce handlu detalicznego lub hurtowego powierzchni sprzedaży rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. planowaniu i zagospodarowaniu przestrzennym powyżej 400 m , której przychody ze sprzedaży środków spożywczych stanowią co najmniej 50% przychodów ze sprzedaży wszystkich towarów.
+### Art. 5.
 
-**Art. 18.** Sprzedawca żywności jest obowiązany do zawarcia pierwszej umowy, której mowa art. 3 ust. 1, terminie 5 miesięcy od dnia wejścia życie ustawy.
+### 1.
 
-**Art. 19.** Podstawę obliczenia opłaty roku, którym art. 5 wszedł życie, stanowi 80% masy marnowanej żywności kilogramach.
+Sprzedawca żywności jest obowiązany do ponoszenia opłaty za marnowanie żywności, zwanej dalej „opłatą”.
 
-**Art. 20.** Główny Inspektor Ochrony Środowiska, po upływie 18 miesięcy od dnia wejścia życie ustawy, przedstawi Sejmowi i Senatowi ocenę jej funkcjonowania, szczególności zakresie zasadności i skuteczności rozwiązań niej przewidzianych.
+### 2.
 
+Opłatę oblicza się jako iloczyn stawki opłaty i masy marnowanej żywności. Podstawę obliczenia opłaty stanowi 90% masy marnowanej żywności w kilogramach.
+
+### 3.
+
+Stawka opłaty wynosi 0,1 zł za 1 kg marnowanej żywności.
+
+### 4.
+
+Opłatę pomniejsza się o koszty poniesione przez sprzedawcę żywności na prowadzone kampanie edukacyjno-informacyjne, o których mowa w art. 4.
+
+### 5.
+
+Opłatę pomniejsza się o poniesione przez sprzedawcę żywności koszty wykonania umowy, o której mowa w art. 3 ust. 1, w szczególności koszty transportu i dystrybucji żywności.
+
+### 6.
+
+Opłata jest obliczana na koniec roku kalendarzowego.
+
+### 7.
+
+Sprzedawca żywności ustala we własnym zakresie wysokość należnej opłaty i wnosi ją na rachunek bankowy organizacji pozarządowej, z którą zawarł umowę, o której mowa w art. 3 ust. 1, do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego opłata dotyczy. Jeżeli sprzedawca żywności zawarł umowę, o której mowa w art. 3 ust. 1, z więcej niż jedną organizacją pozarządową, opłatę dzieli się między wszystkie organizacje proporcjonalnie do ilości odebranej przez nie żywności. W przypadku gdy sprzedawca żywności nie przekazał żywności żadnej z organizacji pozarządowych, przekazuje opłatę w częściach równych wszystkim organizacjom, z którymi zawarł umowę.
+
+### 8.
+
+W przypadku niezawarcia umowy, o której mowa w art. 3 ust. 1, sprzedawca żywności wnosi, w terminie określonym w ust. 7, należną opłatę na rachunek bankowy wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej na terenie województwa, w którym znajduje się siedziba sprzedawcy żywności. Środki pochodzące z opłaty przeznaczane są na działania w zakresie przeciwdziałania marnowaniu żywności.
+
+### 9.
+
+W przypadku gdy wysokość całej opłaty nie przekracza 300 zł, opłaty nie wnosi się.
+
+### 10.
+
+Sprzedawca żywności zamieszcza informację o wysokości należnej opłaty lub wartości żywności przekazanej organizacjom pozarządowym, z przeznaczeniem na wykonywanie przez te organizacje zadań w zakresie określonym w art. 2 pkt 2, w sprawozdaniu finansowym, o którym mowa w ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2019 r. poz. 351](https://api.sejm.gov.pl/eli/acts/DU/2019/351/text.html), [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html), [1571](https://api.sejm.gov.pl/eli/acts/DU/2019/1571/text.html) i [1655](https://api.sejm.gov.pl/eli/acts/DU/2019/1655/text.html)), oraz na swojej stronie internetowej, jeżeli ją prowadzi.
+
+### Art. 6.
+
+### 1.
+
+Środki pochodzące z opłaty organizacja pozarządowa przeznacza na wykonywanie zadań w zakresie określonym w art. 2 pkt 2, w tym na pokrywanie kosztów administracyjnych.
+
+### 2.
+
+Organizacja pozarządowa może przeznaczyć na pokrycie kosztów administracyjnych nie więcej niż 20% środków pochodzących z opłaty.
+
+### Art. 7.
+
+### 1.
+
+Organizacja pozarządowa składa sprzedawcy żywności, o którym mowa w art. 5 ust. 7, pisemną roczną informację o wykorzystaniu środków pochodzących z opłaty, w szczególności informację, ile środków zostało przeznaczone na pokrycie kosztów administracyjnych, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy informacja.
+
+### 2.
+
+Organizacja pozarządowa składa organowi, o którym mowa w art. 20, pisemne roczne sprawozdanie o sposobie zagospodarowania otrzymanej żywności zawierające w szczególności dane o masie żywności otrzymanej od sprzedawców żywności oraz masie żywności, którą przekazała na rzecz potrzebujących, wraz z wykazem sprzedawców żywności, od których otrzymała żywność, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy sprawozdanie.
+
+### 3.
+
+Przewodniczący Komitetu do spraw Pożytku Publicznego w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji o wykorzystaniu środków pochodzących z opłaty oraz wzór sprawozdania o sposobie zagospodarowania otrzymanej żywności, mając na względzie zapewnienie przejrzystości i komunikatywności tej informacji i sprawozdania, a także ujednolicenie sposobu ich opracowywania.
+
+### Art. 8.
+
+### 1.
+
+Sprzedawca żywności składa wojewódzkiemu funduszowi ochrony środowiska i gospodarki wodnej na terenie województwa, w którym prowadzi on działalność w zakresie sprzedaży żywności, pisemne roczne sprawozdanie o marnowanej żywności zawierające dane o całkowitej masie marnowanej żywności w danym roku oraz wysokości należnej opłaty wraz ze wskazaniem wysokości opłaty, która zostanie wpłacona do funduszu, w terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+
+### 2.
+
+Wojewódzki fundusz ochrony środowiska i gospodarki wodnej składa organowi, o którym mowa w art. 20, pisemne roczne zbiorcze sprawozdanie o marnowanej żywności zawierające dane o całkowitej masie marnowanej żywności przez sprzedawców żywności w danym roku oraz całkowitej wysokości należnej opłaty i wysokości opłaty wpłaconej do wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej wraz z wykazem sprzedawców żywności, którzy złożyli sprawozdanie, o którym mowa w ust. 1, w terminie do dnia 30 czerwca roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+
+### 3.
+
+Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór sprawozdania o marnowanej żywności oraz wzór zbiorczego sprawozdania o marnowanej żywności, mając na względzie zapewnienie przejrzystości i komunikatywności tych sprawozdań, a także ujednolicenie sposobu ich opracowywania.
+
+### Art. 9.
+
+### 1.
+
+Kto, wbrew obowiązkowi, o którym mowa w art. 7 ust. 2 i art. 8 ust. 1, nie składa sprawozdania, podlega karze grzywny.
+
+### 2.
+
+Orzekanie w sprawach o czyny określone w ust. 1 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2019 r. poz. 1120](https://api.sejm.gov.pl/eli/acts/DU/2019/1120/text.html), [1123](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.html) i [1556](https://api.sejm.gov.pl/eli/acts/DU/2019/1556/text.html)).
+
+### Art. 10.
+
+### 1.
+
+Kto wbrew obowiązkowi określonemu w art. 3 ust. 1, nie zawiera z organizacją pozarządową umowy dotyczącej nieodpłatnego przekazywania żywności, z przeznaczeniem na wykonywanie przez tę organizację zadań w zakresie określonym w art. 2 pkt 2, podlega karze pieniężnej w wysokości 5000 zł.
+
+### 2.
+
+Kary pieniężnej, o której mowa w ust. 1, nie nakłada się, w przypadku gdy sprzedawca żywności wykaże, że nie było możliwe zawarcie umowy dotyczącej nieodpłatnego przekazywania żywności z organizacją pozarządową wykonującą zadania w zakresie określonym w art. 2 pkt 2 na terenie powiatu, w którym prowadzi on działalność w zakresie sprzedaży żywności.
+
+### Art. 11.
+
+### 1.
+
+Kto wbrew obowiązkowi określonemu w art. 5 ust. 7, nie wnosi na rachunek bankowy organizacji pozarządowej, z którą zawarł umowę, o której mowa w art. 3 ust. 1, opłaty, wnosi ją w niepełnej wysokości albo nie wnosi jej w terminie, podlega karze pieniężnej w wysokości od 500 zł do 10 000 zł.
+
+### 2.
+
+Karze określonej w ust. 1 podlega także ten, kto wbrew obowiązkowi określonemu w art. 5 ust. 8, nie wnosi na rachunek bankowy wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej opłaty, wnosi ją w niepełnej wysokości albo nie wnosi jej w terminie.
+
+### Art. 12.
+
+### 1.
+
+Kary pieniężne, o których mowa w art. 10 i art. 11, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska właściwy ze względu na miejsce prowadzenia przez sprzedawcę żywności działalności w zakresie sprzedaży żywności.
+
+### 2.
+
+Przy ustalaniu wysokości administracyjnej kary pieniężnej, o której mowa w art. 11, wojewódzki inspektor ochrony środowiska uwzględnia ilość marnowanej żywności podlegającej wniesieniu opłaty, wysokość wniesionej w niepełnym wymiarze opłaty oraz liczbę dni opóźnienia wniesienia opłaty.
+
+### 3.
+
+Jeżeli okoliczności sprawy i dowody wskazują, że podmiot, który popełnił naruszenie, dołożył należytej staranności, aby do naruszenia nie doszło, lub nie miał żadnego wpływu na powstanie naruszenia, a nastąpiło ono na skutek okoliczności, których nie mógł przewidzieć, wojewódzki inspektor ochrony środowiska odstępuje od wymierzenia kary pieniężnej, umarza postępowanie oraz zwalnia podmiot od wniesienia opłaty za okres do wydania decyzji o umorzeniu postępowania.
+
+### 4.
+
+Kary pieniężne wnosi się w terminie 14 dni od dnia, w którym decyzja o wymierzeniu kary stała się ostateczna, na rachunek bankowy wskazany w tej decyzji.
+
+### Art. 13.
+
+W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. z 2019 r. poz. 1355](https://api.sejm.gov.pl/eli/acts/DU/2019/1355/text.html) i [1501](https://api.sejm.gov.pl/eli/acts/DU/2019/1501/text.html)) w art. 2 w ust. 1 po pkt 17c dodaje się pkt 17d w brzmieniu:
+
+„
+
+### 17d)
+
+kontrola przestrzegania przepisów ustawy z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności ([Dz. U. poz. 1680](https://api.sejm.gov.pl/eli/acts/DU/2019/1680/text.html));
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2019 r. poz. 351](https://api.sejm.gov.pl/eli/acts/DU/2019/351/text.html), [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html), [1571](https://api.sejm.gov.pl/eli/acts/DU/2019/1571/text.html) i [1655](https://api.sejm.gov.pl/eli/acts/DU/2019/1655/text.html)) w załączniku nr 1 w części „Dodatkowe informacje i objaśnienia” w ust. 2 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu:
+
+„
+
+### 12)
+
+wartość żywności przekazanej organizacjom pozarządowym, z przeznaczeniem na wykonywanie przez te organizacje zadań w zakresie określonym w art. 2 pkt 2 ustawy z dnia 19 lipca 2019 r. o przeciwdziałaniu marnowaniu żywności ([Dz. U. poz. 1680](https://api.sejm.gov.pl/eli/acts/DU/2019/1680/text.html)), lub kwotę opłaty za marnowanie żywności, o której mowa w art. 5 tej ustawy.
+
+” .
+
+### Art. 15.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2019 r. poz. 1396](https://api.sejm.gov.pl/eli/acts/DU/2019/1396/text.html), [1403](https://api.sejm.gov.pl/eli/acts/DU/2019/1403/text.html), [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html), [1501](https://api.sejm.gov.pl/eli/acts/DU/2019/1501/text.html), [1527](https://api.sejm.gov.pl/eli/acts/DU/2019/1527/text.html) i [1579](https://api.sejm.gov.pl/eli/acts/DU/2019/1579/text.html)) w art. 400a w ust. 1 po pkt 31 dodaje się pkt 31a w brzmieniu:
+
+„
+
+### 31a)
+
+zadania związane z racjonalnym wykorzystaniem żywności oraz przeciwdziałaniem jej marnowaniu;
+
+” .
+
+### Art. 16.
+
+W ustawie z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2019 r. poz. 1148](https://api.sejm.gov.pl/eli/acts/DU/2019/1148/text.html), [1078](https://api.sejm.gov.pl/eli/acts/DU/2019/1078/text.html) i [1287](https://api.sejm.gov.pl/eli/acts/DU/2019/1287/text.html)) w art. 1 po pkt 15 dodaje się pkt 15a w brzmieniu:
+
+„
+
+### 15a)
+
+upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach racjonalnego odżywiania oraz przeciwdziałaniu marnowaniu żywności;
+
+” .
+
+### Art. 17.
+
+W okresie 2 lat od dnia wejścia w życie ustawy przez sprzedawcę żywności rozumie się podmiot prowadzący przedsiębiorstwo spożywcze w zakresie sprzedaży żywności w jednostce handlu detalicznego lub hurtowego o powierzchni sprzedaży w rozumieniu art. 2 pkt 19 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym powyżej 400 m2, w której przychody ze sprzedaży środków spożywczych stanowią co najmniej 50% przychodów ze sprzedaży wszystkich towarów.
+
+### Art. 18.
+
+Sprzedawca żywności jest obowiązany do zawarcia pierwszej umowy, o której mowa w art. 3 ust. 1, w terminie 5 miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 19.
+
+Podstawę obliczenia opłaty w roku, w którym art. 5 wszedł w życie, stanowi 80% masy marnowanej żywności w kilogramach.
+
+### Art. 20.
+
+Główny Inspektor Ochrony Środowiska, po upływie 18 miesięcy od dnia wejścia w życie ustawy, przedstawi Sejmowi i Senatowi ocenę jej funkcjonowania, w szczególności w zakresie zasadności i skuteczności rozwiązań w niej przewidzianych.
+
+### Art. 21.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5-14, które wchodzą w życie pierwszego dnia szóstego miesiąca następującego po miesiącu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska oraz ustawę z dnia 14 grudnia 2016 r. - Prawo oświatowe. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4, Dz. Urz. UE L 100 z 08.04.2006, str. 4, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9, Dz. Urz. UE L 37 z 13.02.2015, str. 24, Dz. Urz. UE L 35 z 10.02.2017, str. 10 oraz Dz. Urz. UE L 117 z 05.05.2017, str. 1.

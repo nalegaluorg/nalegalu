@@ -8,11 +8,9 @@ pos: 1486
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r.
-
-*USTAWA z dnia 14 sierpnia 2020 r.*
+# Ustawa z dnia 14 sierpnia 2020 r. o zmianie ustawy o statystyce publicznej, ustawy o powszechnym spisie rolnym w 2020 r. oraz ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,85 +22,998 @@ domain: null
 | Data ogłoszenia | 2020-08-14 |
 | Data wydania | 2020-08-28 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1486/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/1486/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/1486) |
 
-oraz ustawy o narodowym spisie powszechnym ludności i mieszkań w 2021 r.
+## Spis treści
 
-**Art. 1.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2020 r. poz. 443) wprowadza się następujące zmiany:
+- [Treść ustawy](#part_1)
 
-**Art. 2.** W ustawie z dnia 31 lipca 2019 r. o powszechnym spisie rolnym w 2020 r. (Dz. U. poz. 1728) wprowadza się następujące zmiany:
+- [Załącznik nr 1 - Tekst załącznika](#part_2)
 
-**Art. 8b.**
+- [Załącznik nr 2 - Tekst załącznika](#part_3)
 
-1. W celu umożliwienia użytkownikom gospodarstw rolnych nieposiadającym we własnym zakresie techniczno-materialnych warunków umożliwiających przeprowadzenie samospisu internetowego gminni komisarze spisowi zapewniają im bezpłatny dostęp do stanowisk komputerowych wyposażonych w sprzęt komputerowy z zainstalowanym oprogramowaniem wystarczającym do przeprowadzenia samospisu internetowego.
+TOC
 
-2. Na wniosek użytkownika gospodarstwa rolnego właściwy gminny komisarz spisowy zapewnia w czasie przeprowadzania samospisu internetowego na stanowisku komputerowym, o którym mowa w ust. 1, niezbędną pomoc w zakresie obsługi interaktywnej aplikacji, o której mowa w art. 8 pkt 1.
+## Treść ustawy
 
-3. Stanowiska komputerowe, o których mowa w ust. 1, udostępnia się w urzędach obsługujących wójtów (burmistrzów, prezydentów miast).
+### Art. 1.
 
-4. Stanowiska komputerowe, o których mowa w ust. 1, powinny być dostępne dla osób niepełnosprawnych.
+W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej ([Dz. U. z 2020 r. poz. 443](https://api.sejm.gov.pl/eli/acts/DU/2020/443/text.html)) wprowadza się następujące zmiany:
 
-**Art. 8c.**
+### 1)
 
-1. Obowiązek przeprowadzenia samospisu internetowego, o którym mowa w art. 8a ust. 1, nie wyłącza możliwości zebrania w każdym czasie danych od użytkownika gospodarstwa rolnego w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego.
+w art. 2 w pkt 15 lit. e otrzymuje brzmienie:
 
-2. Użytkownik gospodarstwa rolnego nie może odmówić przekazania danych w ramach spisu rolnego w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego.
+„
 
-3. Przekazanie przez użytkownika gospodarstwa rolnego danych w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego zwalnia go z obowiązku przeprowadzenia samospisu internetowego.
+### e)
 
-**Art. 8d.**
+dostarczania publicznie dostępnych usług telekomunikacyjnych,
 
-1. Bezpośrednie wywiady i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+” ;
 
-- **1)** pracownicy jednostek służb statystyki publicznej, w tym ankieterzy statystyczni, o których mowa w art. 28 ust. 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, wyznaczeni przez zastępców właściwych wojewódzkich komisarzy spisowych do zebrania danych w ramach spisu rolnego od użytkowników gospodarstw rolnych;
-- **2)** osoby fizyczne powołane przez zastępców właściwych wojewódzkich komisarzy spisowych w wyniku naborów przeprowadzonych na zasadach i w trybie określonych w ustawie do zebrania danych w ramach spisu rolnego od użytkowników gospodarstw rolnych, z którymi jest nawiązywana współpraca na warunkach określonych w ustawie.
+### 2)
 
-2. Rachmistrze spisowi, o których mowa w ust. 1 pkt 1, mogą również pełnić dyżury przy udzielaniu informacji w trybie infolinii spisowej i umawianiu bezpośrednich wywiadów z użytkownikami gospodarstw rolnych.
+w art. 35b:
 
-**Art. 8e.** Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 8d, w zależności od aktualnych potrzeb.
+### a)
 
-**Art. 8f.** Za wykonywanie czynności spisowych, o których mowa w art. 8d, rachmistrze spisowi otrzymują:
+w ust. 1 po pkt 21 dodaje się pkt 21a-21c w brzmieniu:
 
-**Art. 3.** W ustawie z dnia 9 sierpnia 2019 r. o narodowym spisie powszechnym ludności i mieszkań w 2021 r. (Dz. U. poz. 1775) wprowadza się następujące zmiany:
+„
 
-**Art. 17b.**
+### 21a)
 
-1. Wywiady bezpośrednie i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+adres miejsca, w którym znajduje się zakończenie sieci udostępnione abonentowi publicznie dostępnej usługi telefonicznej świadczonej w stacjonarnej publicznej sieci telekomunikacyjnej;
 
-- **1)** pracownicy jednostek służb statystyki publicznej, w tym ankieterzy statystyczni, o których mowa w art. 28 ust. 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, wyznaczeni przez zastępców właściwych wojewódzkich komisarzy spisowych do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem;
-- **2)** osoby fizyczne powołane przez zastępców właściwych wojewódzkich komisarzy spisowych w wyniku naborów przeprowadzonych na zasadach i w trybie określonych w ustawie do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem, z którymi jest nawiązywana współpraca na warunkach określonych w ustawie.
+### 21b)
 
-2. Rachmistrze spisowi, o których mowa w ust. 1 pkt 1, mogą również pełnić dyżury przy udzielaniu informacji w trybie infolinii spisowej i umawianiu wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym.
+adres miejsca zamieszkania abonenta publicznie dostępnej usługi telefonicznej świadczonej w ruchomej publicznej sieci telekomunikacyjnej;
 
-**Art. 17c.** Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 17b, w zależności od aktualnych potrzeb.
+### 21c)
 
-**Art. 17d.** Za wykonywanie czynności spisowych, o których mowa w art. 17b, rachmistrze spisowi otrzymują:
+adres do korespondencji abonenta publicznie dostępnej usługi telefonicznej świadczonej w ruchomej publicznej sieci telekomunikacyjnej;
 
-**Art. 17e.** Osoba fizyczna objęta spisem powszechnym przed przeprowadzeniem przez rachmistrza spisowego wywiadu bezpośredniego lub wywiadu telefonicznego może zweryfikować tożsamość tego rachmistrza przez kontakt telefoniczny lub osobisty z gminnym lub wojewódzkim biurem spisowym. Informacja o sposobie weryfikacji tożsamości rachmistrza spisowego jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego i urzędów statystycznych oraz w materiałach informacyjnych, edukacyjnych i promocyjnych popularyzujących spis powszechny.”;
+” ,
 
-**Art. 4.**
+### b)
 
-1. Programy badań statystycznych statystyki publicznej ustalone przed dniem wejścia w życie niniejszej ustawy zachowują moc do dnia zakończenia realizacji określonych w nich badań statystycznych i mogą być zmieniane.
+dodaje się ust. 5 w brzmieniu:
 
-2. W przypadku zmiany programów badań statystycznych statystyki publicznej, o których mowa w ust. 1, dotyczącej zakresu danych osobowych, które przekazywane są w badaniach statystycznych określonych w tych programach, stosuje się zakres danych osobowych z katalogu określonego w art. 35b ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 5.**
+### 5.
 
-1. Z dniem wejścia w życie niniejszej ustawy rachmistrze terenowi, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, stają się rachmistrzami spisowymi, o których mowa w art. 8d ust. 1 pkt 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+Przekazanie służbom statystyki publicznej danych osobowych z katalogu danych, o których mowa w ust. 1, przez dostawców publicznie dostępnych usług telekomunikacyjnych nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 159 ust. 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. z 2019 r. poz. 2460](https://api.sejm.gov.pl/eli/acts/DU/2019/2460/text.html) oraz [z 2020 r. poz. 374](https://api.sejm.gov.pl/eli/acts/DU/2020/374/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [875](https://api.sejm.gov.pl/eli/acts/DU/2020/875/text.html)).
 
-2. W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosowują umowy zawarte z rachmistrzami terenowymi, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, do wymagań określonych w art. 21 ust. 3–4c ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+” ;
 
-**Art. 6.**
+### 3)
 
-1. Z dniem wejścia w życie niniejszej ustawy rachmistrze terenowi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, stają się rachmistrzami spisowymi, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+w art. 35c w ust. 1 pkt 2 otrzymuje brzmienie:
 
-2. W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosowują umowy zawarte z rachmistrzami terenowymi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, do wymagań określonych w art. 36 ust. 3–4c ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 7.**
+### 2)
 
-1. Nabory kandydatów na rachmistrzów terenowych, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są kontynuowane jako nabory kandydatów na rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+Zakład Ubezpieczeń Społecznych, Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, Narodowy Fundusz Zdrowia, Szefa Urzędu do Spraw Cudzoziemców, Prezesa Urzędu Komunikacji Elektronicznej, Głównego Inspektora Weterynarii, Państwową Inspekcję Farmaceutyczną, Inspekcję Jakości Handlowej Artykułów Rolno-Spożywczych oraz Agencję Restrukturyzacji i Modernizacji Rolnictwa - z systemów i rejestrów związanych z ich działalnością ustawową,
 
-2. Nabory kandydatów na rachmistrzów terenowych, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są kontynuowane jako nabory kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+” .
 
-**Art. 8.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda SPECYFIKACJA WYDATKÓW SPISOWYCH Lp. Grupy wydatków Koszt ogółem brutto w zł Koszt brutto według 2019 1 Przygotowanie operatów spisowych, wykazów adresowych, w tym zasobów mapowych Oprogramowanie tworzenia operatu na podstawie 147 900,00 147 900,00 rejestrów administracyjnych Aktualizacja wojewódzkiego operatu spisowego 111 780,00 0,00 w urzędach statystycznych (US) Razem 259 680,00 147 900,00 2 Szkolenia rachmistrzów spisowych, pracowników jednostek służb statystyki publicznej i pracowników Szkolenia pracowników jednostek służb statystyki publicznej i pracowników jednostek samorządu terytorialnego 457 533,00 27 533,00 Szkolenia rachmistrzów spisowych 162 000,00 0,00 Szkolenia informatyczne 100 000,00 0,00 Razem 719 533,00 27 533,00 3 Rachmistrze spisowi, pracownicy jednostek służb statystyki publicznej i pracownicy jednostek samorządu we z funduszu wynagrodzeń Rachmistrze spisowi, pochodzący z naboru dokonywanego przez gminne biura spisowe – wydatki bezosobowe z funduszu wynagrodzeń 33 142 000,00 0,00 Pozostali rachmistrze spisowi, pracownicy jednostek służb statystyki publicznej i pracownicy jednostek samorządu terytorialnego – wydatki osobowe z funduszu wynagrodzeń 91 001 211,00 1 145 954,00 Razem 124 143 211,00 1 145 954,00 4 Aplikacje spisowe i materiały wykorzystywane w ramach spisu rolnego Opracowanie aplikacji elektronicznej do zbierania 42 208,00 42 208,00 danych w ramach spisu rolnego Opracowanie materiałów szkoleniowych do nauki 105 489,00 105 489,00 drogą elektroniczną (e-learning) Opracowanie i wydanie instrukcji, wytycznych, 5 756 296,66 956 296,00 materiałów szkoleniowych, materiałów popularyzacyjnych oraz dystrybucja listów Prezesa GUS do użytkowników gospodarstw rolnych Razem 5 903 993,66 1 103 993,00 5 Urządzenia mobilne do zbierania danych w ramach spisu rolnego oraz dostosowanie infrastruktury teleinformatycznej Urządzenia mobilne do zbierania danych w ramach spisu rolnego oraz dostosowanie infrastruktury teleinformatycznej na potrzeby tego spisu (inwestycje) 67 127 320,00 56 437 620,00 Razem 67 127 320,00 56 437 620,00 6 Popularyzacja spisu rolnego Działania promocyjne, informacyjne i edukacyjne 28 400 000,00 6 400 000,00 Razem 28 400 000,00 6 400 000,00 7 Opracowanie, analiza i udostępnianie wyników spisu rolnego Opracowanie, analiza i udostępnianie wyników 4 309 162,04 0,00 spisu rolnego Razem 4 309 162,04 0,00 8 Pozostałe wydatki Utworzenie i funkcjonowanie wojewódzkich biur 2 000 000,00 200 000,00 spisowych – wydatki rzeczowe Utworzenie i funkcjonowanie gminnych biur spisowych – wydatki rzeczowe 2 000 000,00 200 000,00 Wydatki związane z przeprowadzaniem wywia- 56 000,00 14 000,00 dów telefonicznych z użytkownikami gospodarstw rolnych – wydatki rzeczowe Delegacje, tłumaczenia, transport 2 300 000,00 600 000,00 Wydatki inne niż przewidziane powyżej 5 781 100,30 1 723 000,00 Razem 12 137 100,30 2 737 000,00 OGÓŁEM 243 000 000,00 68 000 000,00 SPECYFIKACJA KOSZTÓW NARODOWEGO SPISU POWSZECHNEGO LUDNOŚCI I MIESZKAŃ Koszt brutto Lp. Grupy wydatków Koszt ogółem brutto w zł 2019 2020 1 Przygotowanie operatów spisowych, wykazów adresowych, w tym zasobów mapowych Oprogramowanie tworzenia operatu spisowego na podstawie rejestrów urzędowych oraz systemów informacyjnych administracji publicznej 147 900,00 147 900,00 0,00 Aktualizacja wojewódzkiego operatu spiso- 111 780,00 0,00 111 780,00 wego w urzędach statystycznych Pozyskanie map cyfrowych i przystosowa- 100 000,00 100 000,00 0,00 nie ich do potrzeb statystyki publicznej Razem 359 680,00 247 900,00 111 780,00 2 Szkolenia rachmistrzów spisowych, pracowników jednostek służb statystyki publicznej i pracowników Szkolenia pracowników jednostek służb statystyki publicznej i pracowników jednostek samorządu terytorialnego 460 032,80 0,00 27 532,80 Szkolenia rachmistrzów spisowych 390 500,00 0,00 0,00 Szkolenia informatyczne 200 000,00 0,00 0,00 Razem 1 050 532,80 0,00 27 532,80 3 Rachmistrze spisowi, pracownicy jednostek służb statystyki publicznej oraz pracownicy jednostek i osobowe Rachmistrze spisowi, pochodzący z naboru dokonywanego przez gminne biura spisowe – wydatki bezosobowe 94 509 760,00 0,00 0,00 Pozostali rachmistrze spisowi, pracownicy jednostek służb statystyki publicznej i pracownicy jednostek samorządu terytorialnego – wydatki osobowe 111 813 580,00 3 735 764,00 5 184 371,20 Razem 206 323 340,00 3 735 764,00 5 184 371,20 4 Aplikacje spisowe i materiały wykorzystywane w ramach narodowego spisu powszechnego ludności Opracowanie aplikacji elektronicznej do 91 890,00 30 630,00 61 260,00 zbierania danych Opracowanie centralnej aplikacji do zarzą- 306 300,00 91 890,00 214 410,00 dzania rachmistrzami spisowymi przy wykorzystaniu Geograficznego Systemu Informacyjnego (GIS) Opracowanie materiałów do nauki i testo- 306 300,00 91 890,00 214 410,00 wania drogą elektroniczną (e-learning) Opracowanie i druk instrukcji, wytycznych, materiałów szkoleniowych, materiałów popularyzacyjnych oraz opracowanie i wysyłka listów Prezesa Głównego Urzędu Staty34 132 960,00 66 560,00 1 216 400,00 stycznego do respondentów Razem 34 837 450,00 280 970,00 1 706 480,00 5 Urządzenia mobilne do masowego zebrania danych spisowych oraz dostosowanie infrastruktury na ludności i mieszkań Urządzenia mobilne do masowego zebra- 12 026 200,00 1 094 200,00 1 332 000,00 nia danych spisowych oraz dostosowanie infrastruktury (inwestycje) Razem 12 026 200,00 1 094 200,00 1 332 000,00 6 Popularyzacja narodowego spisu powszechnego ludności i mieszkań Działania informacyjne, edukacyjne i pro- 50 000 000,00 3 300 000,00 5 500 000,00 mocyjne Razem 50 000 000,00 3 300 000,00 5 500 000,00 7 Opracowanie, analiza i udostępnianie wyników narodowego spisu powszechnego ludności i mieszkań Opracowanie, analiza i udostępnianie wy- 4 595 232,00 0,00 0,00 ników narodowego spisu powszechnego ludności i mieszkań Razem 4 595 232,00 0,00 0,00 8 Pozostałe wydatki Utworzenie i działanie wojewódzkich biur 6 250 000,00 0,00 1 250 000,00 spisowych – wydatki rzeczowe Utworzenie i działanie gminnych biur spi- 2 000 000,00 0,00 600 000,00 sowych – wydatki rzeczowe Wydatki związane z przeprowadzaniem 56 000,00 0,00 16 800,00 wywiadów telefonicznych – wydatki rzeczowe, telefony Spisy próbne (szkolenia, zebranie informacji, opracowanie wyników) 4 000 000,00 1 500 000,00 2 500 000,00 Delegacje, tłumaczenia, transport 3 000 000,00 400 000,00 800 000,00 Badania kontrolne i uzupełniające 42 881 260,00 0,00 0,00 Wydatki inne niż przewidziane powyżej 18 620 305,20 1 441 166,00 3 971 036,00 Razem 76 807 565,20 3 341 166,00 9 137 836,00 OGÓŁEM 386 000 000,00 12 000 000,00 23 000 000,00
+### Art. 2.
 
+W ustawie z dnia 31 lipca 2019 r. o powszechnym spisie rolnym w 2020 r. ([Dz. U. poz. 1728](https://api.sejm.gov.pl/eli/acts/DU/2019/1728/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 8 otrzymuje brzmienie:
+
+„
+
+### Art. 8.
+
+Użytkownik gospodarstwa rolnego w ramach spisu rolnego przekazuje dane w formie:
+
+### 1)
+
+samospisu internetowego przeprowadzanego za pośrednictwem interaktywnej aplikacji dostępnej na stronie internetowej Głównego Urzędu Statystycznego, zwanego dalej „samospisem internetowym”;
+
+### 2)
+
+bezpośredniego wywiadu przeprowadzanego przez rachmistrza spisowego z wykorzystaniem urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu rolnego, zwanego dalej „bezpośrednim wywiadem”;
+
+### 3)
+
+wywiadu telefonicznego przeprowadzanego przez rachmistrza spisowego z wykorzystaniem:
+
+### a)
+
+zainstalowanego na komputerze oprogramowania dedykowanego do przeprowadzenia spisu rolnego lub
+
+### b)
+
+urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu rolnego
+
+- zwanego dalej „wywiadem telefonicznym”.
+
+” ;
+
+### 2)
+
+po art. 8 dodaje się art. 8a-8f w brzmieniu:
+
+„
+
+### Art. 8a.
+
+### 1.
+
+Użytkownik gospodarstwa rolnego jest obowiązany przeprowadzić samospis internetowy.
+
+### 2.
+
+Użytkownik gospodarstwa rolnego, który nie może dopełnić obowiązku przeprowadzenia samospisu internetowego, w szczególności ze względu na stan zdrowia lub uzasadniony interes tego użytkownika, zgłasza ten fakt służbom statystyki publicznej, telefonując na podany do wiadomości publicznej numer infolinii spisowej, nie później niż do dnia 31 października 2020 r.
+
+### Art. 8b.
+
+### 1.
+
+W celu umożliwienia użytkownikom gospodarstw rolnych nieposiadającym we własnym zakresie techniczno-materialnych warunków umożliwiających przeprowadzenie samospisu internetowego gminni komisarze spisowi zapewniają im bezpłatny dostęp do stanowisk komputerowych wyposażonych w sprzęt komputerowy z zainstalowanym oprogramowaniem wystarczającym do przeprowadzenia samospisu internetowego.
+
+### 2.
+
+Na wniosek użytkownika gospodarstwa rolnego właściwy gminny komisarz spisowy zapewnia w czasie przeprowadzania samospisu internetowego na stanowisku komputerowym, o którym mowa w ust. 1, niezbędną pomoc w zakresie obsługi interaktywnej aplikacji, o której mowa w art. 8 pkt 1.
+
+### 3.
+
+Stanowiska komputerowe, o których mowa w ust. 1, udostępnia się w urzędach obsługujących wójtów (burmistrzów, prezydentów miast).
+
+### 4.
+
+Stanowiska komputerowe, o których mowa w ust. 1, powinny być dostępne dla osób niepełnosprawnych.
+
+### Art. 8c.
+
+### 1.
+
+Obowiązek przeprowadzenia samospisu internetowego, o którym mowa w art. 8a ust. 1, nie wyłącza możliwości zebrania w każdym czasie danych od użytkownika gospodarstwa rolnego w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego.
+
+### 2.
+
+Użytkownik gospodarstwa rolnego nie może odmówić przekazania danych w ramach spisu rolnego w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego.
+
+### 3.
+
+Przekazanie przez użytkownika gospodarstwa rolnego danych w formie bezpośredniego wywiadu lub w formie wywiadu telefonicznego zwalnia go z obowiązku przeprowadzenia samospisu internetowego.
+
+### Art. 8d.
+
+### 1.
+
+Bezpośrednie wywiady i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+
+### 1)
+
+pracownicy jednostek służb statystyki publicznej, w tym ankieterzy statystyczni, o których mowa w art. 28 ust. 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, wyznaczeni przez zastępców właściwych wojewódzkich komisarzy spisowych do zebrania danych w ramach spisu rolnego od użytkowników gospodarstw rolnych;
+
+### 2)
+
+osoby fizyczne powołane przez zastępców właściwych wojewódzkich komisarzy spisowych w wyniku naborów przeprowadzonych na zasadach i w trybie określonych w ustawie do zebrania danych w ramach spisu rolnego od użytkowników gospodarstw rolnych, z którymi jest nawiązywana współpraca na warunkach określonych w ustawie.
+
+### 2.
+
+Rachmistrze spisowi, o których mowa w ust. 1 pkt 1, mogą również pełnić dyżury przy udzielaniu informacji w trybie infolinii spisowej i umawianiu bezpośrednich wywiadów z użytkownikami gospodarstw rolnych.
+
+### Art. 8e.
+
+Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 8d, w zależności od aktualnych potrzeb.
+
+### Art. 8f.
+
+Za wykonywanie czynności spisowych, o których mowa w art. 8d, rachmistrze spisowi otrzymują:
+
+### 1)
+
+w przypadku rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 1 - dodatek spisowy, którego sposób ustalania oraz wysokość są określone w art. 23 ust. 5 ̶ 11;
+
+### 2)
+
+w przypadku rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 2 - wynagrodzenie, którego sposób ustalania oraz wysokość są określone w art. 21 ust. 4 ̶ 4c.
+
+” ;
+
+### 3)
+
+w art. 19 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zapewnia w siedzibie gminy stanowisko komputerowe z zainstalowanym oprogramowaniem wystarczającym do przeprowadzenia samospisu internetowego oraz zapewnia niezbędną pomoc w zakresie obsługi interaktywnej aplikacji, o której mowa w art. 8 pkt 1;
+
+” ;
+
+### 4)
+
+użyte w art. 19 w ust. 1 w pkt 4-6 i w ust. 2 w pkt 1, w art. 20 w ust. 1-5, 8 i 10 oraz w art. 21 w ust. 1 i 2 oraz w ust. 3 w pkt 2, w różnej liczbie i różnym przypadku, wyrazy „rachmistrz terenowy” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „rachmistrz spisowy, o którym mowa w art. 8d ust. 1 pkt 2”;
+
+### 5)
+
+w art. 20:
+
+### a)
+
+w ust. 1 uchyla się pkt 2,
+
+### b)
+
+w ust. 6 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+sposobie wykonywania poszczególnych czynności w ramach bezpośredniego wywiadu oraz wywiadu telefonicznego z użytkownikiem gospodarstwa rolnego, w tym sposobie obsługi urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu rolnego.
+
+” ;
+
+### 6)
+
+w art. 21:
+
+### a)
+
+w ust. 3:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) wskazanie terenu województwa, terminu i zakresu czynności wykonywanych w ramach przeprowadzania bezpośredniego wywiadu lub wywiadu telefonicznego z użytkownikiem gospodarstwa rolnego; ” ,
+
+- - pkt 3 otrzymuje brzmienie: „ 3) urządzenia techniczne powierzane rachmistrzowi spisowemu, o którym mowa w art. 8d ust. 1 pkt 2, na czas wykonywania czynności spisowych w ramach bezpośredniego wywiadu lub wywiadu telefonicznego z użytkownikiem gospodarstwa rolnego, a także postanowienia dotyczące udostępnienia rachmistrzowi tych urządzeń oraz warunków i terminu ich zwrotu po zakończeniu czynności spisowych lub po wcześniejszym rozwiązaniu umowy; ” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Wynagrodzenie rachmistrza spisowego, o którym mowa w art. 8d ust. 1 pkt 2, ustala się, w zależności od formy przekazywania danych przez użytkowników gospodarstw rolnych, jako iloczyn stawki w wysokości:
+
+### 1)
+
+37 zł brutto i liczby przeprowadzonych bezpośrednich wywiadów z użytkownikami gospodarstw rolnych, skutkujących prawidłowym spisaniem tych gospodarstw;
+
+### 2)
+
+20 zł brutto i liczby przeprowadzonych wywiadów telefonicznych z użytkownikami gospodarstw rolnych, skutkujących prawidłowym spisaniem tych gospodarstw.
+
+” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a ̶ 4c w brzmieniu:
+
+„
+
+### 4a.
+
+W przypadku rachmistrza spisowego, o którym mowa w art. 8d ust. 1 pkt 2, który z użytkownikami gospodarstw rolnych przeprowadza zarówno bezpośrednie wywiady, jak i wywiady telefoniczne, jego wynagrodzenie stanowi suma ustalonych na podstawie ust. 4 wynagrodzeń za przeprowadzenie tych wywiadów.
+
+### 4b.
+
+Jeżeli rachmistrz spisowy, o którym mowa w art. 8d ust. 1 pkt 2, rozpoczyna zbieranie danych od użytkownika gospodarstwa rolnego w formie:
+
+### 1)
+
+bezpośredniego wywiadu, a kończy zbieranie tych danych w formie wywiadu telefonicznego,
+
+### 2)
+
+wywiadu telefonicznego, a kończy zbieranie tych danych w formie bezpośredniego wywiadu
+
+- wynagrodzenie przysługuje tylko za tę formę wywiadu, w której nastąpiło zakończenie przekazywania danych przez użytkownika gospodarstwa rolnego, skutkujące prawidłowym spisaniem tego gospodarstwa.
+
+### 4c.
+
+Do wynagrodzenia rachmistrza spisowego, o którym mowa w art. 8d ust. 1 pkt 2, nie stosuje się przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. z 2018 r. poz. 2177](https://api.sejm.gov.pl/eli/acts/DU/2018/2177/text.html) oraz [z 2019 r. poz. 1564](https://api.sejm.gov.pl/eli/acts/DU/2019/1564/text.html)).
+
+” ,
+
+### d)
+
+w ust. 5:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przy zbieraniu danych rachmistrz spisowy posługuje się umieszczonym w widocznym miejscu identyfikatorem, zawierającym: ” ,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko oraz zdjęcie tego rachmistrza spisowego; ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) określenie województwa, na obszarze którego rachmistrz spisowy jest upoważniony do przeprowadzania bezpośrednich wywiadów lub wywiadów telefonicznych z użytkownikami gospodarstw rolnych; ” ,
+
+- - uchyla się pkt 5,
+
+### e)
+
+uchyla się ust. 7,
+
+### f)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Rachmistrzowi spisowemu, o którym mowa w art. 8d ust. 1 pkt 2, który uległ wypadkowi podczas wykonywania czynności w ramach bezpośredniego wywiadu lub wywiadu telefonicznego z użytkownikiem gospodarstwa rolnego, a w razie wypadku śmiertelnego - członkom rodziny tego rachmistrza, przysługują świadczenia przewidziane w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach ([Dz. U. z 2020 r. poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2020/984/text.html)).
+
+” ;
+
+### 7)
+
+w art. 23:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Stawka dodatku spisowego, z wyłączeniem dodatku spisowego przyznawanego rachmistrzom spisowym, o których mowa w art. 8d ust. 1 pkt 1, wynosi od 5% do 120% kwoty przeciętnego miesięcznego wynagrodzenia w kwartale poprzedzającym przyznanie dodatku spisowego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2020 r. poz. 53](https://api.sejm.gov.pl/eli/acts/DU/2020/53/text.html), [252](https://api.sejm.gov.pl/eli/acts/DU/2020/252/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2020/1222/text.html)), zwanego dalej „przeciętnym wynagrodzeniem”, za miesiąc kalendarzowy wykonywania prac spisowych. W przypadku okresowego niewykonywania prac spisowych stawka dodatku spisowego jest ustalana w wysokości proporcjonalnej do przepracowanego czasu.
+
+” ,
+
+### b)
+
+w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dodatek spisowy lub nagroda spisowa, z wyłączeniem rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 1, są przyznawane przy uwzględnieniu: ” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Dodatek spisowy rachmistrza spisowego, o którym mowa w art. 8d ust. 1 pkt 1, ustala się, w zależności od formy przekazywania danych przez użytkowników gospodarstw rolnych, jako iloczyn stawki w wysokości:
+
+### 1)
+
+37 zł brutto i liczby przeprowadzonych bezpośrednich wywiadów z użytkownikami gospodarstw rolnych, skutkujących prawidłowym spisaniem tych gospodarstw;
+
+### 2)
+
+20 zł brutto i liczby przeprowadzonych wywiadów telefonicznych z użytkownikami gospodarstw rolnych, skutkujących prawidłowym spisaniem tych gospodarstw.
+
+” ,
+
+### d)
+
+dodaje się ust. 6-11 w brzmieniu:
+
+„
+
+### 6.
+
+W przypadku rachmistrza spisowego, o którym mowa w art. 8d ust. 1 pkt 1, który z użytkownikami gospodarstw rolnych przeprowadza zarówno bezpośrednie wywiady, jak i wywiady telefoniczne, jego dodatek spisowy stanowi suma ustalonych na podstawie ust. 5 dodatków spisowych za przeprowadzenie tych wywiadów.
+
+### 7.
+
+Jeżeli rachmistrz spisowy, o którym mowa w art. 8d ust. 1 pkt 1, rozpoczyna zbieranie danych od użytkownika gospodarstwa rolnego w formie:
+
+### 1)
+
+bezpośredniego wywiadu, a kończy zbieranie tych danych w formie wywiadu telefonicznego,
+
+### 2)
+
+wywiadu telefonicznego, a kończy zbieranie tych danych w formie bezpośredniego wywiadu
+
+- dodatek spisowy przysługuje tylko za tę formę wywiadu, w której nastąpiło zakończenie przekazywania danych przez użytkownika gospodarstwa rolnego, skutkujące prawidłowym spisaniem tego gospodarstwa.
+
+### 8.
+
+Rachmistrzowi spisowemu, o którym mowa w art. 8d ust. 1 pkt 1, który jest wyznaczony do pełnienia dyżurów przy udzielaniu informacji w trybie infolinii spisowej i umawianiu bezpośrednich wywiadów z użytkownikami gospodarstw rolnych, przysługuje dodatek spisowy z tytułu pełnienia dyżurów.
+
+### 9.
+
+Dodatek spisowy z tytułu pełnienia dyżurów, o którym mowa w ust. 8, jest ustalany jako iloczyn stawki w wysokości 12 zł brutto i liczby dni pełnienia dyżuru przy udzielaniu informacji w trybie infolinii spisowej i umawianiu bezpośrednich wywiadów z użytkownikami gospodarstw rolnych.
+
+### 10.
+
+Rachmistrz spisowy, o którym mowa w art. 8d ust. 1 pkt 1, pełniący dyżur, o którym mowa w ust. 8, nie może w trakcie dyżuru przeprowadzać wywiadów telefonicznych z użytkownikami gospodarstw rolnych.
+
+### 11.
+
+Do dodatków spisowych nie stosuje się przepisów:
+
+### 1)
+
+ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2020 r. poz. 537](https://api.sejm.gov.pl/eli/acts/DU/2020/537/text.html));
+
+### 2)
+
+ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę;
+
+### 3)
+
+ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. z 2020 r. poz. 265](https://api.sejm.gov.pl/eli/acts/DU/2020/265/text.html) i [285](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.html)).
+
+” ;
+
+### 8)
+
+po art. 26 dodaje się art. 26a w brzmieniu:
+
+„
+
+### Art. 26a.
+
+W razie przeprowadzania bezpośrednich wywiadów lub wywiadów telefonicznych z użytkownikami gospodarstw rolnych przez rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 1, dysponent części 58 - Główny Urząd Statystyczny może dokonać odpowiedniego przeniesienia środków określonych w lp. 3 załącznika nr 4 do ustawy, dokonując zmiany w planie wydatków polegającej na odpowiednim zmniejszeniu środków przewidzianych na wynagrodzenia bezosobowe i zwiększeniu o tę kwotę środków na wynagrodzenia osobowe.
+
+” ;
+
+### 9)
+
+załącznik nr 4 otrzymuje brzmienie określone w załączniku nr 1 do niniejszej ustawy.
+
+### Art. 3.
+
+W ustawie z dnia 9 sierpnia 2019 r. o narodowym spisie powszechnym ludności i mieszkań w 2021 r. ([Dz. U. poz. 1775](https://api.sejm.gov.pl/eli/acts/DU/2019/1775/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Przekazanie Prezesowi Głównego Urzędu Statystycznego danych, o których mowa w ust. 22 załącznika nr 2 do ustawy, przez dostawców publicznie dostępnych usług telefonicznych nie stanowi naruszenia tajemnicy komunikowania się w sieciach telekomunikacyjnych, o której mowa w art. 159 ust. 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
+
+” ;
+
+### 2)
+
+po art. 14 dodaje się art. 14a w brzmieniu:
+
+„
+
+### Art. 14a.
+
+Osoba fizyczna objęta spisem powszechnym w ramach spisu powszechnego przekazuje dane metodami:
+
+### 1)
+
+samospisu internetowego, przeprowadzanego za pośrednictwem interaktywnej aplikacji dostępnej na stronie internetowej Głównego Urzędu Statystycznego, zwanego dalej „samospisem internetowym”;
+
+### 2)
+
+wywiadu bezpośredniego przeprowadzanego przez rachmistrza spisowego z wykorzystaniem urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu powszechnego, zwanego dalej „wywiadem bezpośrednim”;
+
+### 3)
+
+wywiadu telefonicznego przeprowadzanego przez rachmistrza spisowego z wykorzystaniem:
+
+### a)
+
+zainstalowanego na komputerze oprogramowania dedykowanego do przeprowadzenia spisu powszechnego lub
+
+### b)
+
+urządzenia mobilnego wyposażonego w oprogramowanie dedykowane do przeprowadzenia spisu powszechnego
+
+- zwanego dalej „wywiadem telefonicznym”.
+
+” ;
+
+### 3)
+
+w art. 15:
+
+### a)
+
+uchyla się ust. 2 i 4,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Osoba fizyczna objęta spisem powszechnym, która nie może dopełnić obowiązku przeprowadzenia samospisu internetowego, w szczególności ze względu na stan zdrowia lub uzasadniony interes tej osoby, zgłasza ten fakt służbom statystyki publicznej, telefonując na podany do wiadomości publicznej numer infolinii spisowej, nie później niż do dnia 31 maja 2021 r.
+
+” ;
+
+### 4)
+
+w art. 16 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Na wniosek osoby fizycznej objętej spisem powszechnym Generalny Komisarz Spisowy, zastępca właściwego wojewódzkiego komisarza spisowego lub właściwy gminny komisarz spisowy zapewnia w czasie przeprowadzania samospisu internetowego w pomieszczeniu, o którym mowa w ust. 1, niezbędną pomoc w zakresie obsługi interaktywnej aplikacji, o której mowa w art. 14a pkt 1.
+
+” ;
+
+### 5)
+
+uchyla się art. 17;
+
+### 6)
+
+po art. 17 dodaje się art. 17a-17e w brzmieniu:
+
+„
+
+### Art. 17a.
+
+### 1.
+
+Obowiązek przeprowadzenia samospisu internetowego, o którym mowa w art. 15 ust. 1, nie wyłącza możliwości zebrania w każdym czasie danych od osoby fizycznej objętej spisem powszechnym metodą wywiadu bezpośredniego lub metodą wywiadu telefonicznego.
+
+### 2.
+
+Osoba fizyczna objęta spisem powszechnym nie może odmówić przekazania danych w ramach spisu powszechnego z zastosowaniem metody wywiadu bezpośredniego lub metody wywiadu telefonicznego.
+
+### 3.
+
+Przekazanie przez osobę fizyczną objętą spisem powszechnym danych z zastosowaniem metody wywiadu bezpośredniego lub metody wywiadu telefonicznego zwalnia ją z obowiązku przeprowadzenia samospisu internetowego.
+
+### Art. 17b.
+
+### 1.
+
+Wywiady bezpośrednie i wywiady telefoniczne przeprowadzają rachmistrze spisowi, którymi są:
+
+### 1)
+
+pracownicy jednostek służb statystyki publicznej, w tym ankieterzy statystyczni, o których mowa w art. 28 ust. 4 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, wyznaczeni przez zastępców właściwych wojewódzkich komisarzy spisowych do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem;
+
+### 2)
+
+osoby fizyczne powołane przez zastępców właściwych wojewódzkich komisarzy spisowych w wyniku naborów przeprowadzonych na zasadach i w trybie określonych w ustawie do zebrania danych w ramach spisu powszechnego od osób fizycznych objętych tym spisem, z którymi jest nawiązywana współpraca na warunkach określonych w ustawie.
+
+### 2.
+
+Rachmistrze spisowi, o których mowa w ust. 1 pkt 1, mogą również pełnić dyżury przy udzielaniu informacji w trybie infolinii spisowej i umawianiu wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym.
+
+### Art. 17c.
+
+Zastępca właściwego wojewódzkiego komisarza spisowego decyduje o sposobie, miejscu i czasie wykonywania przez rachmistrzów spisowych czynności spisowych, o których mowa w art. 17b, w zależności od aktualnych potrzeb.
+
+### Art. 17d.
+
+Za wykonywanie czynności spisowych, o których mowa w art. 17b, rachmistrze spisowi otrzymują:
+
+### 1)
+
+w przypadku rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 1 - dodatek spisowy, którego sposób ustalania oraz wysokość są określone w art. 38 ust. 5-11;
+
+### 2)
+
+w przypadku rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2 - wynagrodzenie, którego sposób ustalania oraz wysokość są określone w art. 36 ust. 4-4c.
+
+### Art. 17e.
+
+Osoba fizyczna objęta spisem powszechnym przed przeprowadzeniem przez rachmistrza spisowego wywiadu bezpośredniego lub wywiadu telefonicznego może zweryfikować tożsamość tego rachmistrza przez kontakt telefoniczny lub osobisty z gminnym lub wojewódzkim biurem spisowym. Informacja o sposobie weryfikacji tożsamości rachmistrza spisowego jest udostępniana na stronie internetowej Głównego Urzędu Statystycznego i urzędów statystycznych oraz w materiałach informacyjnych, edukacyjnych i promocyjnych popularyzujących spis powszechny.
+
+” ;
+
+### 7)
+
+w art. 23 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+uzyskane od osób fizycznych metodami, o których mowa w art. 14a.
+
+” ;
+
+### 8)
+
+w art. 24 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+zapewnienie pomieszczeń wyposażonych w sprzęt komputerowy z zainstalowanym oprogramowaniem wystarczającym do przeprowadzenia samospisu internetowego oraz zapewnienie niezbędnej pomocy w zakresie obsługi interaktywnej aplikacji, o której mowa w art. 14a pkt 1;
+
+” ;
+
+### 9)
+
+użyte w art. 24 w ust. 1 w pkt 4 i 6-8 oraz w ust. 2 w pkt 1, w art. 35 w ust. 1-4, 8 i 10 oraz w art. 36 w ust. 1 i 2, w różnej liczbie i różnym przypadku, wyrazy „rachmistrz terenowy” zastępuje się użytymi w odpowiedniej liczbie i odpowiednim przypadku wyrazami „rachmistrz spisowy, o którym mowa w art. 17b ust. 1 pkt 2,”;
+
+### 10)
+
+w art. 35:
+
+### a)
+
+w ust. 1 uchyla się pkt 2,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W ramach szkolenia, o którym mowa w art. 24 ust. 1 pkt 7, kandydat na rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, uzyskuje informacje i wiedzę z zakresu funkcjonowania statystyki publicznej, w tym o istocie tajemnicy statystycznej, czynnościach objętych metodami zbierania danych, o których mowa w art. 14a pkt 2 i 3, oraz zakresie podmiotowym i przedmiotowym spisu powszechnego.
+
+” ,
+
+### c)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Szkolenie, o którym mowa w art. 24 ust. 1 pkt 7, kończy się egzaminem testowym sprawdzającym wiedzę i przygotowanie do wykonywania czynności objętych metodami zbierania danych, o których mowa w art. 14a pkt 2 i 3, przeprowadzanym przez osoby prowadzące szkolenie.
+
+” ;
+
+### 11)
+
+w art. 36:
+
+### a)
+
+w ust. 3:
+
+- - w pkt 1 lit. a otrzymuje brzmienie: „ a) teren województwa, termin i zakres wykonywania czynności objętych metodami zbierania danych, o których mowa w art. 14a pkt 2 i 3, ” ,
+
+- - pkt 2 otrzymuje brzmienie: „ 2) wskazuje urządzenia techniczne powierzane rachmistrzowi spisowemu, o którym mowa w art. 17b ust. 1 pkt 2, na czas wykonywania czynności spisowych objętych metodami zbierania danych, o których mowa w art. 14a pkt 2 i 3, a także zawiera postanowienia dotyczące udostępnienia rachmistrzowi tych urządzeń oraz warunków i terminu ich zwrotu po zakończeniu czynności spisowych lub po wcześniejszym rozwiązaniu umowy. ” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Wynagrodzenie rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, ustala się, w zależności od metody przeprowadzania przez niego wywiadów z osobami fizycznymi objętymi spisem powszechnym, jako iloczyn stawki w wysokości:
+
+### 1)
+
+7 zł brutto i liczby przeprowadzonych wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym, skutkujących prawidłowym spisaniem tych osób;
+
+### 2)
+
+4 zł brutto i liczby przeprowadzonych wywiadów telefonicznych z osobami fizycznymi objętymi spisem powszechnym, skutkujących prawidłowym spisaniem tych osób.
+
+” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a-4c w brzmieniu:
+
+„
+
+### 4a.
+
+W przypadku rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, który z osobami fizycznymi objętymi spisem powszechnym przeprowadza zarówno wywiady bezpośrednie, jak i wywiady telefoniczne, jego wynagrodzenie stanowi suma ustalonych na podstawie ust. 4 wynagrodzeń za przeprowadzenie tych wywiadów.
+
+### 4b.
+
+Jeżeli rachmistrz spisowy, o którym mowa w art. 17b ust. 1 pkt 2, rozpoczyna zbieranie danych od osoby fizycznej objętej spisem powszechnym metodą:
+
+### 1)
+
+wywiadu bezpośredniego, a kończy zbieranie tych danych metodą wywiadu telefonicznego,
+
+### 2)
+
+wywiadu telefonicznego, a kończy zbieranie tych danych metodą wywiadu bezpośredniego
+
+- wynagrodzenie przysługuje tylko za tę metodę wywiadu, w której nastąpiło zakończenie przekazywania danych przez osobę fizyczną objętą spisem powszechnym, skutkujące prawidłowym spisaniem tej osoby.
+
+### 4c.
+
+Do wynagrodzenia rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 2, nie stosuje się przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ([Dz. U. z 2018 r. poz. 2177](https://api.sejm.gov.pl/eli/acts/DU/2018/2177/text.html) oraz [z 2019 r. poz. 1564](https://api.sejm.gov.pl/eli/acts/DU/2019/1564/text.html)).
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przy zbieraniu danych rachmistrz spisowy posługuje się umieszczonym w widocznym miejscu identyfikatorem.
+
+” ,
+
+### e)
+
+w ust. 6:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko oraz zdjęcie rachmistrza spisowego; ” ,
+
+- - pkt 4 otrzymuje brzmienie: „ 4) określenie województwa, na obszarze którego rachmistrz spisowy jest upoważniony do przeprowadzania wywiadów bezpośrednich lub wywiadów telefonicznych z osobami fizycznymi objętymi spisem powszechnym; ” ,
+
+- - uchyla się pkt 5,
+
+### f)
+
+uchyla się ust. 7,
+
+### g)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Rachmistrzowi spisowemu, o którym mowa w art. 17b ust. 1 pkt 2, który uległ wypadkowi podczas wykonywania czynności w ramach wywiadu bezpośredniego lub wywiadu telefonicznego z osobą fizyczną objętą spisem powszechnym, a w razie wypadku śmiertelnego - członkom rodziny tego rachmistrza, przysługują świadczenia przewidziane w ustawie z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach ([Dz. U. z 2020 r. poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2020/984/text.html)).
+
+” ;
+
+### 12)
+
+w art. 38:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Stawka dodatku spisowego, z wyłączeniem dodatku spisowego przyznawanego rachmistrzom spisowym, o których mowa w art. 17b ust. 1 pkt 1, wynosi od 5% do 120% kwoty przeciętnego miesięcznego wynagrodzenia w kwartale poprzedzającym przyznanie dodatku spisowego, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2020 r. poz. 53](https://api.sejm.gov.pl/eli/acts/DU/2020/53/text.html), [252](https://api.sejm.gov.pl/eli/acts/DU/2020/252/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2020/1222/text.html)), zwanego dalej „przeciętnym wynagrodzeniem”, za miesiąc kalendarzowy wykonywania prac spisowych. W przypadku okresowego niewykonywania prac spisowych stawka dodatku spisowego jest ustalana w wysokości proporcjonalnej do przepracowanego czasu.
+
+” ,
+
+### b)
+
+w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Dodatek spisowy lub nagroda spisowa, z wyłączeniem rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 1, są przyznawane przy uwzględnieniu: ” ,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Dodatek spisowy rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 1, ustala się, w zależności od metody przeprowadzania przez niego wywiadów z osobami fizycznymi objętymi spisem powszechnym, jako iloczyn stawki w wysokości:
+
+### 1)
+
+7 zł brutto i liczby przeprowadzonych wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym, skutkujących prawidłowym spisaniem tych osób;
+
+### 2)
+
+4 zł brutto i liczby przeprowadzonych wywiadów telefonicznych z osobami fizycznymi objętymi spisem powszechnym, skutkujących prawidłowym spisaniem tych osób.
+
+” ,
+
+### d)
+
+dodaje się ust. 6-11 w brzmieniu:
+
+„
+
+### 6.
+
+W przypadku rachmistrza spisowego, o którym mowa w art. 17b ust. 1 pkt 1, który z osobami fizycznymi objętymi spisem powszechnym przeprowadza zarówno wywiady bezpośrednie, jak i wywiady telefoniczne, jego dodatek spisowy stanowi suma ustalonych na podstawie ust. 5 dodatków spisowych za przeprowadzenie tych wywiadów.
+
+### 7.
+
+Jeżeli rachmistrz spisowy, o którym mowa w art. 17b ust. 1 pkt 1, rozpoczyna zbieranie danych od osoby fizycznej objętej spisem powszechnym metodą:
+
+### 1)
+
+wywiadu bezpośredniego, a kończy zbieranie tych danych metodą wywiadu telefonicznego,
+
+### 2)
+
+wywiadu telefonicznego, a kończy zbieranie tych danych metodą wywiadu bezpośredniego
+
+- dodatek spisowy przysługuje tylko za tę metodę wywiadu, w której nastąpiło zakończenie przekazywania danych przez osobę fizyczną objętą spisem powszechnym, skutkujące prawidłowym spisaniem tej osoby.
+
+### 8.
+
+Rachmistrzowi spisowemu, o którym mowa w art. 17b ust. 1 pkt 1, który jest wyznaczony do pełnienia dyżurów przy udzielaniu informacji w trybie infolinii spisowej i umawianiu wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym, przysługuje dodatek spisowy z tytułu pełnienia dyżurów.
+
+### 9.
+
+Dodatek spisowy z tytułu pełnienia dyżurów, o którym mowa w ust. 8, jest ustalany jako iloczyn stawki w wysokości 12 zł brutto i liczby dni pełnienia dyżuru przy udzielaniu informacji w trybie infolinii spisowej i umawianiu wywiadów bezpośrednich z osobami fizycznymi objętymi spisem powszechnym.
+
+### 10.
+
+Rachmistrz spisowy, o którym mowa w art. 17b ust. 1 pkt 1, pełniący dyżur, o którym mowa w ust. 8, nie może w trakcie dyżuru przeprowadzać wywiadów telefonicznych z osobami fizycznymi objętymi spisem powszechnym.
+
+### 11.
+
+Do dodatków spisowych nie stosuje się przepisów:
+
+### 1)
+
+ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2020 r. poz. 537](https://api.sejm.gov.pl/eli/acts/DU/2020/537/text.html));
+
+### 2)
+
+ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę;
+
+### 3)
+
+ustawy z dnia 21 listopada 2008 r. o służbie cywilnej ([Dz. U. z 2020 r. poz. 265](https://api.sejm.gov.pl/eli/acts/DU/2020/265/text.html) i [285](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.html)).
+
+” ;
+
+### 13)
+
+w załączniku nr 2 ust. 22 otrzymuje brzmienie:
+
+„
+
+### 22.
+
+Dostawcy publicznie dostępnych usług telefonicznych przekazują Prezesowi Głównego Urzędu Statystycznego, w terminie do dnia 26 lutego 2021 r. (według stanu na dzień 31 grudnia 2020 r.), gromadzone na podstawie ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. z 2019 r. poz. 2460](https://api.sejm.gov.pl/eli/acts/DU/2019/2460/text.html) oraz [z 2020 r. poz. 374](https://api.sejm.gov.pl/eli/acts/DU/2020/374/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [875](https://api.sejm.gov.pl/eli/acts/DU/2020/875/text.html)) następujące dane jednostkowe o abonentach publicznie dostępnych usług telefonicznych, będących osobami fizycznymi prowadzącymi działalność gospodarczą lub nieprowadzącymi takiej działalności:
+
+### 1)
+
+imię lub imiona i nazwisko;
+
+### 2)
+
+numer PESEL - w przypadku obywatela polskiego;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) - w przypadku obywatela polskiego prowadzącego działalność gospodarczą, jeżeli jest dostępny;
+
+### 4)
+
+przydzielony numer abonenta z planu numeracji krajowej dla publicznych sieci telekomunikacyjnych związany ze świadczoną usługą połączeń głosowych (numer abonencki);
+
+### 5)
+
+numer telefonu kontaktowego, jeżeli jest dostępny;
+
+### 6)
+
+w przypadku abonenta publicznie dostępnej usługi telefonicznej świadczonej w stacjonarnej publicznej sieci telekomunikacyjnej - adres miejsca, w którym znajduje się zakończenie sieci udostępnione temu abonentowi:
+
+### a)
+
+kod TERYT, jeżeli jest dostępny, i nazwa województwa,
+
+### b)
+
+kod TERYT, jeżeli jest dostępny, i nazwa powiatu,
+
+### c)
+
+kod TERYT, jeżeli jest dostępny, i nazwa gminy,
+
+### d)
+
+kod pocztowy, jeżeli jest dostępny,
+
+### e)
+
+identyfikator TERYT, jeżeli jest dostępny, i nazwa miejscowości,
+
+### f)
+
+identyfikator TERYT, jeżeli jest dostępny, i nazwa ulicy,
+
+### g)
+
+numer budynku,
+
+### h)
+
+numer lokalu;
+
+### 7)
+
+w przypadku abonenta publicznie dostępnej usługi telefonicznej świadczonej w ruchomej publicznej sieci telekomunikacyjnej - adres miejsca zamieszkania i adres do korespondencji, jeżeli jest on inny niż adres miejsca zamieszkania:
+
+### a)
+
+kod TERYT, jeżeli jest dostępny, i nazwa województwa,
+
+### b)
+
+kod TERYT, jeżeli jest dostępny, i nazwa powiatu,
+
+### c)
+
+kod TERYT, jeżeli jest dostępny, i nazwa gminy,
+
+### d)
+
+kod pocztowy, jeżeli jest dostępny,
+
+### e)
+
+identyfikator TERYT, jeżeli jest dostępny, i nazwa miejscowości,
+
+### f)
+
+identyfikator TERYT, jeżeli jest dostępny, i nazwa ulicy,
+
+### g)
+
+numer budynku,
+
+### h)
+
+numer lokalu.
+
+” ;
+
+### 14)
+
+załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 2 do niniejszej ustawy.
+
+### Art. 4.
+
+### 1.
+
+Programy badań statystycznych statystyki publicznej ustalone przed dniem wejścia w życie niniejszej ustawy zachowują moc do dnia zakończenia realizacji określonych w nich badań statystycznych i mogą być zmieniane.
+
+### 2.
+
+W przypadku zmiany programów badań statystycznych statystyki publicznej, o których mowa w ust. 1, dotyczącej zakresu danych osobowych, które przekazywane są w badaniach statystycznych określonych w tych programach, stosuje się zakres danych osobowych z katalogu określonego w art. 35b ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 5.
+
+### 1.
+
+Z dniem wejścia w życie niniejszej ustawy rachmistrze terenowi, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, stają się rachmistrzami spisowymi, o których mowa w art. 8d ust. 1 pkt 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosowują umowy zawarte z rachmistrzami terenowymi, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, do wymagań określonych w art. 21 ust. 3-4c ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 6.
+
+### 1.
+
+Z dniem wejścia w życie niniejszej ustawy rachmistrze terenowi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, stają się rachmistrzami spisowymi, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+W terminie 7 dni od dnia wejścia w życie niniejszej ustawy dyrektorzy urzędów statystycznych jako zastępcy wojewódzkich komisarzy spisowych dostosowują umowy zawarte z rachmistrzami terenowymi, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, do wymagań określonych w art. 36 ust. 3-4c ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 7.
+
+### 1.
+
+Nabory kandydatów na rachmistrzów terenowych, o których mowa w art. 8 ust. 1 pkt 3 ustawy zmienianej w art. 2 w brzmieniu dotychczasowym, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są kontynuowane jako nabory kandydatów na rachmistrzów spisowych, o których mowa w art. 8d ust. 1 pkt 2 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Nabory kandydatów na rachmistrzów terenowych, o których mowa w art. 17 ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu dotychczasowym, rozpoczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, są kontynuowane jako nabory kandydatów na rachmistrzów spisowych, o których mowa w art. 17b ust. 1 pkt 2 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 8.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+## Załącznik nr 1 - Tekst załącznika
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2020/1486/text.pdf)
+
+## Załącznik nr 2 - Tekst załącznika
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2020/1486/text.pdf)

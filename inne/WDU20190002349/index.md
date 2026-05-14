@@ -1,0 +1,438 @@
+---
+title: Rozporządzenie Ministra Sprawiedliwości z dnia 28 listopada 2019 r. w sprawie wzorów formularzy uzasadnień wyroków oraz sposobu ich wypełniania
+address: WDU20190002349
+eli: DU/2019/2349
+publisher: DU
+year: 2019
+pos: 2349
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Sprawiedliwościz dnia 28 listopada 2019 r. w sprawie wzorów formularzy uzasadnień wyroków oraz sposobu ich wypełniania
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2349 |
+| ISAP | WDU20190002349 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-11-28 |
+| Data wydania | 2019-12-03 |
+| Wejście w życie | 2019-12-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/2349/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/2349) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji, w tym wyroku nakazowego (UK 1)](#part_2)
+
+- [Załącznik nr 2 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - Kodeks Postępowania Karnego (UWO)](#part_3)
+
+- [Załącznik nr 3 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego (UWŁ)](#part_4)
+
+- [Załącznik nr 4 - Wzór formularza uzasadnienia wyroku sądu odwoławczego (UK 2)](#part_5)
+
+- [Załącznik nr 5 - Wzór załącznika do formularza uzasadnienia wyroku sądu odwoławczego](#part_6)
+
+- [Załącznik nr 6 - Wzór formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania (UWP)](#part_7)
+
+- [Załącznik nr 7 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji w tym wyroku nakazowego](#part_8)
+
+- [Załącznik nr 8 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - kodeks postępowania karnego](#part_9)
+
+- [Załącznik nr 9 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego](#part_10)
+
+- [Załącznik nr 10 - Sposób wypełniania formularza uzasadnienia wyroku sądu odwoławczego oraz załącznika do tego formularza](#part_11)
+
+- [Załącznik nr 11 - Sposób wypełniania formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania](#part_12)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 99a § 2 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html) oraz [z 2019 r. poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2019/150/text.html), [679](https://api.sejm.gov.pl/eli/acts/DU/2019/679/text.html), [1255](https://api.sejm.gov.pl/eli/acts/DU/2019/1255/text.html) i [1694](https://api.sejm.gov.pl/eli/acts/DU/2019/1694/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa wzory formularzy uzasadnień: wyroku sądu pierwszej instancji, w tym wyroku nakazowego, wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, wyroku łącznego, oraz wyroku sądu odwoławczego i wyroku wydanego w postępowaniu o wznowienie postępowania oraz sposób ich wypełniania.
+
+### § 2.
+
+### 1.
+
+Wzór formularza uzasadnienia wyroku sądu pierwszej instancji, w tym wyroku nakazowego (UK 1), jest określony w załączniku nr 1 do rozporządzenia.
+
+### 2.
+
+Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (UWO), jest określony w załączniku nr 2 do rozporządzenia.
+
+### 3.
+
+Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego (UWŁ) jest określony w załączniku nr 3 do rozporządzenia.
+
+### 4.
+
+Wzór formularza uzasadnienia wyroku sądu odwoławczego (UK 2) jest określony w załączniku nr 4 do rozporządzenia.
+
+### 5.
+
+Wzór załącznika do formularza uzasadnienia wyroku sądu odwoławczego jest określony w załączniku nr 5 do rozporządzenia.
+
+### 6.
+
+Wzór formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania (UWP) jest określony w załączniku nr 6 do rozporządzenia.
+
+### 7.
+
+Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji, w tym wyroku nakazowego jest określony w załączniku nr 7 do rozporządzenia.
+
+### 8.
+
+Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, jest określony w załączniku nr 8 do rozporządzenia.
+
+### 9.
+
+Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego jest określony w załączniku nr 9 do rozporządzenia.
+
+### 10.
+
+Sposób wypełniania formularza uzasadnienia wyroku sądu odwoławczego oraz załącznika do tego formularza jest określony w załączniku nr 10 do rozporządzenia.
+
+### 11.
+
+Sposób wypełniania formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania jest określony w załączniku nr 11 do rozporządzenia.
+
+### § 3.
+
+Dopuszczalne modyfikacje układu rubryk formularzy uzasadnień wyroków są określone w sposobach ich wypełniania, o których mowa w § 2 ust. 7-11.
+
+### § 4.
+
+Do wypełniania formularzy uzasadnień wyroków może być użyte oprogramowanie udostępnione przez Ministra Sprawiedliwości.
+
+### § 5.
+
+Wzory formularzy uzasadnień wyroków, o których mowa w § 1:
+
+### 1)
+
+udostępnia się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości;
+
+### 2)
+
+mogą być również udostępnione za pośrednictwem oprogramowania, o którym mowa w § 4.
+
+### § 6.
+
+Rozporządzenie wchodzi w życie z dniem 5 grudnia 2019 r.
+
+## Załącznik nr 1 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji, w tym wyroku nakazowego (UK 1)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 2 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - Kodeks Postępowania Karnego (UWO)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 3 - Wzór formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego (UWŁ)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 4 - Wzór formularza uzasadnienia wyroku sądu odwoławczego (UK 2)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 5 - Wzór załącznika do formularza uzasadnienia wyroku sądu odwoławczego
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 6 - Wzór formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania (UWP)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2019/2349/text.pdf)
+
+## Załącznik nr 7 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji w tym wyroku nakazowego
+
+Formularz UK 1 jest przeznaczony do sporządzenia uzasadnienia w sprawach karnych i o przestępstwa karnoskarbowe rozstrzyganych przez sąd pierwszej instancji. W postępowaniu lustracyjnym dla celów wypełnienia formularza rubryki dotyczące oskarżonego należy wypełnić w odniesieniu do osoby lustrowanej, zaś rubryki dotyczące oskarżyciela publicznego - w odniesieniu do prokuratora występującego w postępowaniu lustracyjnym. W sprawach, w których wniesiono oskarżenie wzajemne, należy osobno wypełnić rubryki formularza w odniesieniu do oskarżyciela prywatnego - również do oskarżyciela prywatnego wzajemnego oraz w odniesieniu do oskarżonego - również do oskarżonego wzajemnego. Jeżeli wyrok nie został zredagowany w punktach, w miejscach, w których formularz nakazuje odwołanie się do punktu wyroku należy jednoznacznie określić opisowo właściwy element rozstrzygnięcia sądu. W wypadku, o którym mowa w art. 424 § 3 k.p.k., można wypełnić jedynie część 3-8 formularza. Jeżeli do wypełnienia formularza używa się oprogramowania udostępnionego przez Ministra Sprawiedliwości, części formularza, które nie zostały wypełnione, mogą zostać automatycznie usunięte z jego treści. Poza tym niedopuszczalne są modyfikacje treści zawartych we wzorze formularza, ani też zmiany w jego strukturze, poza możliwością powielania rubryk w przypadkach wskazanych poniżej. Należy wskazać sygnaturę akt sprawy.
+
+### Sekcja 1. USTALENIE FAKTÓW
+
+Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, można te same czyny wskazać jednokrotnie, odnosząc je do więcej niż jednego oskarżonego, to samo dotyczy faktów i dowodów.
+
+###
+
+### 1.1.
+
+Fakty uznane za udowodnione (art. 424 § 1 pkt 1 k.p.k.) W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, oznaczenie czynu przypisanego oskarżonemu (jeżeli czynu nie przypisano, np. w wyroku uniewinniającym, to oznaczenie czynu zarzucanego oskarżonemu), zwięźle wskazać fakty uznane za udowodnione oraz dowód (dowody), na którego podstawie ustalono dany fakt, ze wskazaniem numeru karty, na której znajduje się ten dowód. Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z zarzutu, rozstrzygnięcia sądu, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 1.2.
+
+Fakty uznane za nieudowodnione (art. 424 § 1 pkt 1 k.p.k.) W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, oznaczenie czynu przypisanego oskarżonemu (jeżeli czynu nie przypisano, np. w wyroku uniewinniającym, to oznaczenie czynu zarzucanego oskarżonemu), zwięźle wskazać fakty uznane za nieudowodnione oraz dowód (dowody), który odnosi się do danego faktu uznanego za nieudowodniony, ze wskazaniem numeru karty, na której znajduje się ten dowód. Jeżeli dana teza dowodowa nie była przedmiotem dowodzenia przy pomocy jakiegokolwiek dowodu, przy wskazaniu faktu uznanego za nieudowodniony w kolumnie „Dowód” należy zamieścić wzmiankę o braku dowodu (nieprzeprowadzenie dowodu w celu wykazania tezy dowodowej sformułowanej przez stronę twierdzącą o istnieniu danego faktu objętego tą tezą). Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z zarzutu, rozstrzygnięcia sądu, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 2. OCENA DOWODÓW
+
+Jeżeli sąd uznał dany dowód za zasługujący na wiarę jedynie w części, należy ten dowód wymienić zarówno w podsekcji dotyczącej dowodów będących podstawą ustalenia faktów, jak i w podsekcji dotyczącej dowodów nieuwzględnionych przy ustaleniu faktów, wskazując w tej samej rubryce (obok określenia dowodu) w sposób wyraźny i jednoznaczny, w jakiej części dowód został uznany za zasługujący na wiarę albo na tę wiarę nie zasługuje. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, możliwe jest ponumerowanie faktów, o których mowa w sekcji 1, a w sekcji niniejszej odwołanie się do tej numeracji przy omawianiu wiarygodności lub niewiarygodności dowodów.
+
+###
+
+### 2.1.
+
+Dowody będące podstawa ustalenia faktów (art. 424 § 1 pkt 1 k.p.k., art. 424 § 2 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w podsekcji 1.1, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania dowodu. W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów uznania dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.2.
+
+Dowody nieuwzględnione przy ustaleniu faktów (dowody, które sąd uznał za niewiarygodne oraz niemające znaczenia dla ustalenia faktów) (art. 424 § 1 pkt 1 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w sekcji 1, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody nieuwzględnienia dowodu (uznania dowodu przez sąd za niewiarygodny lub niemający znaczenia dla ustalenia faktów). W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów nieuwzględnienia dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 3. PODSTAWA PRAWNA WYROKU (art. 424 § 1 pkt 2 k.p.k.)
+
+W podsekcji 3.1 należy wstawić w kratce symbol „x”, gdy sąd w wyroku skazującym albo warunkowo umarzającym potwierdził dokonanie czynu zarzucanego aktem oskarżenia i przyjętą dla niego kwalifikację prawną (podstawa prawna zgodna ze wskazaną w akcie oskarżenia). Wskazanie czynu przypisanego może nastąpić poprzez wskazanie numeru, pod jakim został opisany w wyroku, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Przy każdym czynie lub czynach przypisanych należy wymienić oskarżonego lub oskarżonych, którzy go popełnili. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody przyjętej kwalifikacji prawnej. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 3.2 należy wstawić w kratce symbol „x”, gdy sąd dokonał w wyroku skazującym albo warunkowo umarzającym zmiany kwalifikacji prawnej czynu zarzucanego (podstawa prawna niezgodna ze wskazaną w akcie oskarżenia). Wskazanie czynu przypisanego może nastąpić poprzez wskazanie numeru, pod jakim został opisany w wyroku, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Przy każdym czynie lub czynach przypisanych należy wymienić oskarżonego lub oskarżonych, którzy go popełnili. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody przyjętej kwalifikacji prawnej. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 3.3 należy wstawić w kratce symbol „x”, gdy sąd warunkowo umorzył postępowanie karne. Wskazanie czynu przypisanego może nastąpić poprzez wskazanie numeru, pod jakim został opisany w wyroku, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Przy każdym czynie lub czynach przypisanych należy wymienić oskarżonego lub oskarżonych, którzy go popełnili. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać wyjaśnienie zaistnienia przesłanek ustawowych warunkowego umorzenia postępowania (podstawy prawnej) oraz powody warunkowego umorzenia postępowania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 3.4 należy wstawić w kratce symbol „x”, gdy sąd umorzył postępowanie karne. Wskazanie czynu, w którego zakresie umorzono postępowanie, może nastąpić poprzez wskazanie numeru, pod jakim został opisany w wyroku, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Przy każdym czynie lub czynach należy wymienić oskarżonego lub oskarżonych, do których odnosi się umorzenie postępowania. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać wyjaśnienie zaistnienia przesłanek ustawowych umorzenia postępowania oraz powody umorzenia postępowania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 3.5 należy wstawić w kratce symbol „x”, gdy sąd uniewinnił oskarżonego od popełnienia zarzuconego mu czynu. Wskazanie czynu, od którego popełnienia oskarżonego uniewinniono, może nastąpić poprzez wskazanie numeru, pod jakim został opisany w wyroku, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Przy każdym czynie lub czynach należy wymienić oskarżonego lub oskarżonych, do których odnosi się uniewinnienie. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać wyjaśnienie podstawy prawnej oraz powody uniewinnienia. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 4. KARY, ŚRODKI KARNE, PRZEPADEK, ŚRODKI KOMPENSACYJNE I ŚRODKI ZWIĄZANE Z PODDANIEM SPRAWCY PRÓBIE (art. 424 § 2 k.p.k.)
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno personalia oskarżonego, punkt rozstrzygnięcia z wyroku, punkt z wyroku odnoszący się do przypisanego czynu, w związku z którym orzeczono dany środek, oraz zwięźle (w miarę możliwości w postaci równoważników zdań) przytoczyć okoliczności, które sąd miał na względzie przy wyborze i wymiarze kary (zwłaszcza przy zastosowaniu nadzwyczajnego złagodzenia lub obostrzenia kary), środków karnych oraz zastosowaniu przepadku, środków kompensacyjnych i środków związanych z poddaniem sprawcy próbie. W tym ostatnim wypadku należy także uzasadnić długość przyjętego okresu próby oraz nałożone obowiązki, oddanie pod dozór itd. W kolumnie trzeciej chodzi o czyn, za popełnienie którego orzeczono daną karę, środek karny, przepadek, środek kompensacyjny lub środek związany z poddaniem sprawcy próbie. Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z aktu oskarżenia, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 5. INNE ROZSTRZYGNIĘCIA ZAWARTE W WYROKU (art. 424 § 2 k.p.k.)
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno personalia oskarżonego, punkt rozstrzygnięcia z wyroku, punkt z wyroku odnoszący się do przypisanego czynu, w związku z którym orzeczono dany środek, oraz zwięźle (w miarę możliwości w postaci równoważników zdań) przytoczyć okoliczności, które sąd miał na względzie przy zastosowaniu innych rozstrzygnięć, np. co do środka zabezpieczającego, zaliczenia na poczet kary i środka karnego okresów stosowanych środków zapobiegawczych, dowodów rzeczowych. W kolumnie trzeciej chodzi o czyn, w związku z popełnieniem którego wydano inne rozstrzygnięcie zawarte w wyroku. Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z aktu oskarżenia, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 6. INNE ZAGADNIENIA
+
+W sekcji można odnieść się, w miarę potrzeby, do innych kwestii mających znaczenie dla rozstrzygnięcia, a niewyjaśnionych w innych częściach uzasadnienia, w tym do wyjaśnienia, dlaczego sąd nie zastosował określonej instytucji prawa karnego materialnego (której zastosowanie jest obligatoryjne bądź fakultatywne), zwłaszcza w przypadku wnioskowania orzeczenia takiej instytucji przez stronę. Chodzi tu w szczególności o niezastosowanie wnioskowanej lub wskazywanej w trybie art. 399 § 1 k.p.k. kwalifikacji prawnej czynu, nadzwyczajnego złagodzenia kary lub nadzwyczajnego obostrzenia kary, środka probacyjnego itd.
+
+### Sekcja 7. KOSZTY PROCESU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno personalia oskarżonego, punkt rozstrzygnięcia z wyroku dotyczący kosztów procesu oraz przytoczyć okoliczności, które sąd miał na względzie przy rozstrzyganiu o kosztach. Należy wskazać przyczyny, dla których sąd zasądził koszty procesu od stron, a w razie występowania więcej niż jednego oskarżonego lub oskarżyciela, czym kierował się, zasądzając koszty w takim, a nie innym stosunku od poszczególnych uczestników. W wypadku zasądzenia konkretnych kwot w rozstrzygnięciu o kosztach należy wskazać podstawy do wyliczenia konkretnych kwot w takiej, a nie innej wysokości. W wypadku całkowitego albo częściowego zwolnienia od poniesienia kosztów procesu należy uzasadnić powód takiego zwolnienia oraz wykazać zaistnienie ustawowych przesłanek do zastosowania zwolnienia. Całkowite albo częściowe zwolnienie od kosztów powinno być poprzedzone analizą sytuacji majątkowej osoby zwolnionej oraz jej możliwości zarobkowych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 8. PODPIS
+
+Sędzia orzekający jednoosobowo albo członkowie składu orzekającego składają podpisy na wypełnionym formularzu po jego wydrukowaniu.
+
+## Załącznik nr 8 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku wydanego w postępowaniu, o którym mowa w rozdziale 58 ustawy z dnia 6 czerwca 1997 r. - kodeks postępowania karnego
+
+Formularz UWO jest przeznaczony do sporządzenia uzasadnienia w sprawach, o których mowa w rozdziale 58 k.p.k. Jeżeli wyrok nie został zredagowany w punktach, w miejscach, w których formularz nakazuje odwołanie się do punktu wyroku należy jednoznacznie określić opisowo właściwy element rozstrzygnięcia sądu. Jeżeli do wypełnienia formularza używa się oprogramowania udostępnionego przez Ministra Sprawiedliwości, części formularza, które nie zostały wypełnione, mogą zostać automatycznie usunięte z jego treści. Poza tym niedopuszczalne są modyfikacje treści zawartych we wzorze formularza, ani też zmiany w jego strukturze, poza możliwością powielania rubryk w przypadkach wskazanych poniżej. Należy wskazać sygnaturę akt sprawy.
+
+### Sekcja 1. WNIOSKODAWCA
+
+Należy wskazać podmiot, który domaga się odszkodowania za poniesioną szkodę lub zadośćuczynienia za doznaną krzywdę.
+
+### Sekcja 2. ZWIĘZŁE PRZEDSTAWIENIE ZGŁOSZONEGO ŻĄDANIA
+
+W sekcji należy zwięźle (w miarę możliwości w postaci równoważników zdań) przedstawić istotę (kwotę roszczenia, wysokość odsetek i sposób ich obliczania) żądania wnioskodawcy. W wierszu 3 należy przedstawić żądanie innego rodzaju niż kwota dochodzonego odszkodowania lub zadośćuczynienia oraz odsetki od tych kwot. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 3. USTALENIE FAKTÓW
+
+W sekcji należy wskazać kolejną liczbę porządkową oznaczoną cyfrą arabską, zwięźle fakty uznane za udowodnione oraz fakty uznane za nieudowodnione, a także dowód (dowody), który odnosi się do danego faktu uznanego za udowodniony albo nieudowodniony, ze wskazaniem numeru karty, na której znajduje się ten dowód. Jeżeli dana teza dowodowa nie była przedmiotem dowodzenia przy pomocy jakiegokolwiek dowodu, przy wskazaniu faktu uznanego za nieudowodniony w kolumnie „Dowód” należy zamieścić wzmiankę o braku dowodu (nieprzeprowadzenie dowodu w celu wykazania tezy dowodowej sformułowanej przez stronę twierdzącą o istnieniu danego faktu objętego tą tezą). Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 4. OCENA DOWODÓW
+
+Jeżeli sąd uznał dany dowód za zasługujący na wiarę jedynie w części, należy ten dowód wymienić zarówno w podsekcji dotyczącej dowodów będących podstawą ustalenia faktów, jak i w podsekcji dotyczącej dowodów nieuwzględnionych przy ustaleniu faktów, wskazując w tej samej rubryce (obok określenia dowodu) w sposób wyraźny i jednoznaczny, w jakiej części dowód został uznany za zasługujący na wiarę albo na tę wiarę nie zasługuje. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, możliwe jest ponumerowanie faktów, o których mowa w sekcji 3, a w sekcji niniejszej odwołanie się do tej numeracji przy omawianiu wiarygodności lub niewiarygodności dowodów.
+
+###
+
+### 4.1.
+
+Dowody będące podstawa ustalenia faktów (art. 424 § 1 pkt 1 k.p.k., art. 424 § 2 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w podsekcji 3.1, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania dowodu. W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów uznania dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 4.2.
+
+Dowody nieuwzględnione przy ustaleniu faktów (dowody, które sąd uznał za niewiarygodne oraz niemające znaczenia dla ustalenia faktów) (art. 424 § 1 pkt 1 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w sekcji 3, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody nieuwzględnienia dowodu (uznania dowodu przez sąd za niewiarygodny lub niemający znaczenia dla ustalenia faktów). W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów nieuwzględnienia dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 5. PODSTAWA PRAWNA
+
+Należy wskazać podstawę prawną (z podaniem przepisów ustawy) rozstrzygnięcia w przedmiocie kwoty głównej odszkodowania lub zadośćuczynienia oraz odsetek od tych kwot, jak również innych rozstrzygnięć będących przedmiotem żądania oraz zwięźle przedstawić powody przyjęcia takiej podstawy prawnej. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 6. ROZSTRZYGNIECIE SĄDU W PRZEDMIOCIE ŻĄDANIA
+
+Należy wskazać zwięźle (w miarę możliwości w postaci równoważników zdań) powody rozstrzygnięcia w przedmiocie kwoty głównej odszkodowania lub zadośćuczynienia oraz odsetek od tych kwot, jak również innych rozstrzygnięć będących przedmiotem żądania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 7. INNE ROZSTRZYGNIĘCIA ZAWARTE W WYROKU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, punkt rozstrzygnięcia z wyroku oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody innych rozstrzygnięć z wyroku. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 8. KOSZTY PROCESU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno punkt rozstrzygnięcia z wyroku dotyczący kosztów procesu oraz przytoczyć okoliczności, które sąd miał na względzie przy rozstrzyganiu o kosztach. Należy wskazać przyczyny, dla których sąd zasądził koszty procesu. W wypadku zasądzenia konkretnych kwot w rozstrzygnięciu o kosztach należy wskazać podstawy do wyliczenia konkretnych kwot w takiej, a nie innej wysokości. W wypadku całkowitego albo częściowego zwolnienia od poniesienia kosztów procesu należy uzasadnić powód takiego zwolnienia oraz wykazać zaistnienie ustawowych przesłanek do zastosowania zwolnienia. Całkowite albo częściowe zwolnienie od kosztów powinno być poprzedzone analizą sytuacji majątkowej osoby zwolnionej oraz jej możliwości zarobkowych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 9. PODPIS
+
+Sędzia orzekający jednoosobowo albo członkowie składu orzekającego składają podpisy na wypełnionym formularzu po jego wydrukowaniu.
+
+## Załącznik nr 9 - Sposób wypełniania formularza uzasadnienia wyroku sądu pierwszej instancji - wyroku łącznego
+
+Formularz UWŁ jest przeznaczony do sporządzenia uzasadnienia w sprawach o wydanie wyroku łącznego. Jeżeli wyrok nie został zredagowany w punktach, w miejscach, w których formularz nakazuje odwołanie się do punktu wyroku należy jednoznacznie określić opisowo właściwy element rozstrzygnięcia sądu. W wypadku, o którym mowa w art. 424 § 3 k.p.k., można wypełnić jedynie część 3-8 formularza. Jeżeli do wypełnienia formularza używa się oprogramowania udostępnionego przez Ministra Sprawiedliwości, części formularza, które nie zostały wypełnione, mogą zostać automatycznie usunięte z jego treści. Poza tym niedopuszczalne są modyfikacje treści zawartych we wzorze formularza, ani też zmiany w jego strukturze, poza możliwością powielania rubryk w przypadkach wskazanych poniżej. Należy wskazać sygnaturę akt sprawy.
+
+### Sekcja 1. USTALENIE FAKTÓW
+
+W podsekcji 1.1 należy wskazać w poszczególnych kolumnach w odniesieniu do każdego wyroku wydanego wobec skazanego kolejno sąd, który wydał wyrok albo wyrok łączny, datę wyroku albo wyroku łącznego oraz sygnaturę akt sprawy. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 1.2 należy wskazać kolejną liczbę porządkową oznaczoną cyfrą arabską, zwięźle fakty uznane za udowodnione oraz fakty uznane za nieudowodnione, czyny, do których się odnoszą, a także dowód (dowody), który odnosi się do danego faktu uznanego za udowodniony albo nieudowodniony, ze wskazaniem numeru karty, na której znajduje się ten dowód. Jeżeli dana teza dowodowa nie była przedmiotem dowodzenia przy pomocy jakiegokolwiek dowodu, przy wskazaniu faktu uznanego za nieudowodniony w kolumnie „Dowód” należy zamieścić wzmiankę o braku dowodu (nieprzeprowadzenie dowodu w celu wykazania tezy dowodowej sformułowanej przez stronę twierdzącą o istnieniu danego faktu objętego tą tezą). Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 2. OCENA DOWODÓW
+
+Jeżeli sąd uznał dany dowód za zasługujący na wiarę jedynie w części, należy ten dowód wymienić zarówno w podsekcji dotyczącej dowodów będących podstawą ustalenia faktów, jak i w podsekcji dotyczącej dowodów nieuwzględnionych przy ustaleniu faktów, wskazując w tej samej rubryce (obok określenia dowodu) w sposób wyraźny i jednoznaczny, w jakiej części dowód został uznany za zasługujący na wiarę albo na tę wiarę nie zasługuje. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, możliwe jest ponumerowanie faktów, o których mowa w sekcji 1, a w sekcji niniejszej odwołanie się do tej numeracji przy omawianiu wiarygodności lub niewiarygodności dowodów.
+
+###
+
+### 2.1.
+
+Dowody będące podstawa ustalenia faktów (art. 424 § 1 pkt 1 k.p.k., art. 424 § 2 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w podsekcji 1.2.1, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania dowodu. W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów uznania dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.2.
+
+Dowody nieuwzględnione przy ustaleniu faktów (dowody, które sąd uznał za niewiarygodne oraz niemające znaczenia dla ustalenia faktów) (art. 424 § 1 pkt 1 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w podsekcji 1.2, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody nieuwzględnienia dowodu (uznania dowodu przez sąd za niewiarygodny lub niemający znaczenia dla ustalenia faktów). W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów nieuwzględnienia dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 3. PODSTAWA KARY ŁĄCZNEJ
+
+W sekcji należy wskazać sąd, który wydał wyrok albo wyrok łączny, datę wyroku albo wyroku łącznego oraz sygnaturę akt sprawy, jak również wskazać kary i środki karne podlegające łączeniu. Jeżeli wskutek zastosowanych przepisów prawa materialnego dla określenia kar lub środków karnych podlegających łączeniu ma znaczenie czas popełnienia czynu, za który orzeczono karę lub środek karny, czas ten można - w razie potrzeby - wskazać również w kolumnie drugiej, obok daty wydania wyroku albo wyroku łącznego, z wyraźnym zaznaczeniem, że chodzi o czas popełnienia czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wypowiedzieć się o powodach połączenia kar z wyjaśnieniem podstawy prawnej.
+
+### Sekcja 4. WYMIAR KARY
+
+Należy wskazać okoliczności, które sąd uwzględnił przy wymiarze kary łącznej.
+
+### Sekcja 5. WYMIAR ŚRODKA KARNEGO
+
+Należy wskazać okoliczności, które sąd uwzględnił przy wymiarze środka karnego.
+
+### Sekcja 6. INNE ROZSTRZYGNIĘCIA ZAWARTE W WYROKU ŁĄCZNYM
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, punkt rozstrzygnięcia z wyroku oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody innych rozstrzygnięć z wyroku łącznego, w tym umorzenia postępowania czy zaliczenia okresów na poczet kary łącznej. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 7. KOSZTY PROCESU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno punkt rozstrzygnięcia z wyroku dotyczący kosztów procesu oraz przytoczyć okoliczności, które sąd miał na względzie przy rozstrzyganiu o kosztach. Należy wskazać przyczyny, dla których sąd zasądził koszty procesu. W wypadku zasądzenia konkretnych kwot w rozstrzygnięciu o kosztach należy wskazać podstawy do wyliczenia konkretnych kwot w takiej, a nie innej wysokości. W wypadku całkowitego albo częściowego zwolnienia od poniesienia kosztów procesu należy uzasadnić powód takiego zwolnienia oraz wykazać zaistnienie ustawowych przesłanek do zastosowania zwolnienia. Całkowite albo częściowe zwolnienie od kosztów powinno być poprzedzone analizą sytuacji majątkowej osoby zwolnionej oraz jej możliwości zarobkowych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 8. PODPIS
+
+Sędzia orzekający jednoosobowo albo członkowie składu orzekającego składają podpisy na wypełnionym formularzu po jego wydrukowaniu.
+
+## Załącznik nr 10 - Sposób wypełniania formularza uzasadnienia wyroku sądu odwoławczego oraz załącznika do tego formularza
+
+Formularz UK 2 jest przeznaczony do sporządzenia uzasadnienia w sprawach karnych i o przestępstwa karnoskarbowe rozstrzyganych przez sąd drugiej instancji. W postępowaniu lustracyjnym dla celów wypełnienia formularza rubryki dotyczące oskarżonego należy wypełnić w odniesieniu do osoby lustrowanej, zaś rubryki dotyczące oskarżyciela publicznego - w odniesieniu do prokuratora występującego w postępowaniu lustracyjnym. Jeżeli wyrok nie został zredagowany w punktach, w miejscach, w których formularz nakazuje odwołanie się do punktu wyroku należy jednoznacznie określić opisowo właściwy element rozstrzygnięcia sądu. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, a treść zaskarżenia pochodząca od różnych podmiotów jest zbieżna, możliwe jest zbiorcze przedstawienie treści zaskarżenia oraz stanowiska sądu odwoławczego wobec zgłoszonych zarzutów i wniosków. Jeżeli do wypełnienia formularza używa się oprogramowania udostępnionego przez Ministra Sprawiedliwości, części formularza, które nie zostały wypełnione, mogą zostać automatycznie usunięte z jego treści. Poza tym niedopuszczalne są modyfikacje treści zawartych we wzorze formularza, ani też zmiany w jego strukturze, poza możliwością powielania rubryk w przypadkach wskazanych poniżej. Należy wskazać sygnaturę akt sprawy. Do każdego formularza dołącza się załącznik. Należy podać liczbę załączników liczbą arabską.
+
+### Sekcja 1. CZEŚĆ WSTĘPNA
+
+###
+
+### 1.1.
+
+Oznaczenie wyroku sądu pierwszej instancji Należy wskazać oznaczenie wyroku sądu pierwszej instancji, datę jego wydania, sąd, który go wydał, oraz sygnaturę akt sprawy.
+
+### 1.2.
+
+Podmioty wnoszące apelację W podsekcji 1.2 należy zaznaczyć symbolem „x” wszystkie podmioty, które wniosły apelacje. Jeżeli apelacje wniosły te same podmioty (np. dwóch oskarżonych), należy zaznaczyć ten podmiot. Jeżeli apelację wniósł pełnomocnik, należy zaznaczyć podmiot, który jest przez niego reprezentowany.
+
+### 1.3.
+
+Granice zaskarżenia
+
+### 1.3.1.
+
+Kierunek i zakres zaskarżenia (art. 425 § 2-4 k.p.k.) W podsekcji 1.3.1 należy zaznaczyć symbolem „x” kierunek i zakres zaskarżenia w odniesieniu do wszystkich wniesionych apelacji.
+
+### 1.3.2.
+
+Podniesione zarzuty W podsekcji 1.3.2 należy zaznaczyć symbolem „x” zarzuty wskazane przez strony w apelacji (art. 427 § 2 k.p.k.) w odniesieniu do wszystkich wniesionych apelacji. Jeżeli zarzuty nie zostały określone, należy zaznaczyć symbolem „x” rubrykę „brak zarzutów”.
+
+### 1.4.
+
+Wnioski W podsekcji 1.4 należy zaznaczyć symbolem „x” wnioski w odniesieniu do wszystkich wniesionych apelacji.
+
+### Sekcja 2. USTALENIE FAKTÓW W ZWIĄZKU Z DOWODAMI PRZEPROWADZONYMI PRZEZ SĄD ODWOŁAWCZY
+
+Dotyczy ustalenia faktów w związku z dowodami przeprowadzonymi przez sąd odwoławczy, zarówno w odniesieniu do oceny przeprowadzonych przez sąd odwoławczy dowodów, jak i odmiennej oceny dowodów przeprowadzonych przez sąd pierwszej instancji, dokonanej przez sąd odwoławczy.
+
+###
+
+### 2.1.
+
+Ustalenie faktów Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, można te same czyny wskazać jednokrotnie, odnosząc je do więcej niż jednego oskarżonego, to samo dotyczy faktów i dowodów.
+
+### 2.1.1.
+
+Fakty uznane za udowodnione W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, zwięźle wskazać fakty uznane za udowodnione, czyny, do których się odnoszą oraz dowód (dowody), na którego podstawie ustalono dany fakt, ze wskazaniem numeru karty, na której znajduje się ten dowód. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.1.2.
+
+Fakty uznane za nieudowodnione W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, zwięźle wskazać fakty uznane za nieudowodnione, czyny oraz dowód (dowody), które odnoszą się do danego faktu uznanego za nieudowodniony, ze wskazaniem numeru karty, na której znajduje się ten dowód. Jeżeli dana teza dowodowa nie była przedmiotem dowodzenia przy pomocy jakiegokolwiek dowodu, przy wskazaniu faktu uznanego za nieudowodniony w kolumnie „Dowód” należy zamieścić wzmiankę o braku dowodu (nieprzeprowadzenie dowodu w celu wykazania tezy dowodowej sformułowanej przez stronę twierdzącą o istnieniu danego faktu objętego tą tezą). Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.2.
+
+OCENA DOWODÓW Jeżeli sąd uznał dany dowód za zasługujący na wiarę jedynie w części, należy ten dowód wymienić zarówno w podsekcji dotyczącej dowodów będących podstawą ustalenia faktów, jak i w podsekcji dotyczącej dowodów nieuwzględnionych przy ustaleniu faktów, wskazując w tej samej rubryce (obok określenia dowodu) w sposób wyraźny i jednoznaczny, w jakiej części dowód został uznany za zasługujący na wiarę albo na tę wiarę nie zasługuje. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, możliwe jest ponumerowanie faktów, o których mowa w podsekcji 2.1, a w podsekcji niniejszej odwołanie się do tej numeracji przy omawianiu wiarygodności lub niewiarygodności dowodów.
+
+### 2.2.1.
+
+Dowody będące podstawa ustalenia faktów Należy wskazać w poszczególnych kolumnach kolejno zwięzłe określenie faktu uznanego za udowodniony, zwięzłe oznaczenie dowodu, na którego podstawie udowodniono ten fakt, oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania dowodu. W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów uznania dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.2.2.
+
+Dowody nieuwzględnione przy ustaleniu faktów (dowody, które sąd uznał za niewiarygodne oraz niemające znaczenia dla ustalenia faktów) Należy wskazać w poszczególnych kolumnach kolejno zwięzłe określenie faktu, którego dotyczy dowód, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody nieuwzględnienia dowodu (uznania dowodu przez sąd za niewiarygodny lub niemający znaczenia dla ustalenia faktów). W razie, gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów nieuwzględnienia dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 3. STANOWISKO SĄDU ODWOŁAWCZEGO WOBEC ZGŁOSZONYCH ZARZUTÓW I WNIOSKÓW
+
+Należy wskazać zarzut z apelacji, a następnie zaznaczyć symbolem „x” jego ocenę dokonaną przez sąd odwoławczy jako zasadny, częściowo zasadny albo niezasadny. Należy wypowiedzieć się zwięźle (w miarę możliwości w postaci równoważników zdań) o powodach uwzględnienia lub nieuwzględnienia zarzutu lub zarzutów. Należy wskazać wniosek z apelacji, a następnie zaznaczyć symbolem „x” jego ocenę dokonaną przez sąd odwoławczy jako zasadny, częściowo zasadny albo niezasadny. Należy wypowiedzieć się zwięźle (w miarę możliwości w postaci równoważników zdań) o powodach uwzględnienia lub nieuwzględnienia wniosku. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 4. OKOLICZNOŚCI PODLEGAJĄCE UWZGLĘDNIENIU Z URZĘDU
+
+Należy wskazać okoliczności, które sąd uwzględnił z urzędu, niezależnie od granic zaskarżenia i podniesionych zarzutów (art. 439 k.p.k., art. 440 k.p.k.). Należy wypowiedzieć się zwięźle (w miarę możliwości w postaci równoważników zdań) o powodach uwzględnienia okoliczności. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 5. ROZSTRZYGNIECIE SĄDU ODWOŁAWCZEGO
+
+W podsekcji 5.1 należy wskazać, które rozstrzygnięcia sądu pierwszej instancji w zakresie objętym zaskarżeniem zostały utrzymane w mocy, oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania apelacji za niezasadną w tym zakresie. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 5.2 należy wskazać, które rozstrzygnięcia sądu pierwszej instancji zostały zmienione i w jakim zakresie, oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody zmiany. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 5.3.1 należy zaznaczyć symbolem „x” podstawę prawną uchylenia wyroku sądu pierwszej instancji ze wskazaniem w odniesieniu do podstawy z art. 439 k.p.k. konkretnej przyczyny uchylenia (pkt 1). Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uchylenia wyroku sądu pierwszej instancji oraz wydania rozstrzygnięcia następczego w postaci umorzenia postępowania. W tym ostatnim wypadku należy również wskazać podstawę prawną umorzenia postępowania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 5.3.2 zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać zapatrywania prawne sądu odwoławczego oraz jego wskazania co do dalszego postępowania. W podsekcji 5.4 należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, punkt rozstrzygnięcia z wyroku oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody innych rozstrzygnięć z wyroku, np. zaliczenia na poczet kary lub środków karnych okresów stosowania środków zapobiegawczych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 6. KOSZTY PROCESU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno personalia oskarżonego, punkt rozstrzygnięcia z wyroku dotyczący kosztów procesu oraz przytoczyć okoliczności, które sąd miał na względzie przy rozstrzyganiu o kosztach. Należy wskazać przyczyny, dla których sąd zasądził koszty procesu od stron, a w razie występowania więcej niż jednego oskarżonego lub oskarżyciela, czym kierował się, zasądzając koszty w takim, a nie innym stosunku od poszczególnych uczestników. W wypadku zasądzenia konkretnych kwot w rozstrzygnięciu o kosztach należy wskazać podstawy do wyliczenia konkretnych kwot w takiej, a nie innej wysokości. W wypadku całkowitego albo częściowego zwolnienia od poniesienia kosztów procesu należy uzasadnić powód takiego zwolnienia oraz wykazać zaistnienie ustawowych przesłanek do zastosowania zwolnienia. Całkowite albo częściowe zwolnienie od kosztów powinno być poprzedzone analizą sytuacji majątkowej osoby zwolnionej oraz jej możliwości zarobkowych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 7. PODPIS
+
+Sędzia orzekający jednoosobowo albo członkowie składu orzekającego składają podpisy na wypełnionym formularzu po jego wydrukowaniu. ZAŁĄCZNIK DO FORMULARZA UK 2 Załącznik do formularza UK 2 jest składany osobno w odniesieniu do każdego zaskarżonego rozstrzygnięcia przez jeden podmiot wnoszący apelację. Dopuszczalne jest odniesienie załącznika do więcej niż jednego zaskarżenia rozstrzygnięcia albo wniesionego przez więcej niż jeden podmiot, jeżeli elementy wyznaczające granice zaskarżenia oraz wnioski są wspólne i podlegają łącznemu rozpoznaniu. W podsekcji 1.3 należy wpisać liczbą arabską numer załącznika, określić podmiot wnoszący apelację oraz rozstrzygnięcie, brak rozstrzygnięcia albo ustalenie, którego dotyczy apelacja. W podsekcji 1.3.1 należy zaznaczyć symbolem „x” kierunek i zakres zaskarżenia. W podsekcji 1.3.2 należy zaznaczyć symbolem „x” zarzuty wskazane przez strony w apelacji (art. 427 § 2 k.p.k.) w odniesieniu do wszystkich wniesionych apelacji. Jeżeli zarzuty nie zostały określone, należy zaznaczyć symbolem „x” rubrykę „brak zarzutów”. W podsekcji 1.4 należy zaznaczyć symbolem „x” wnioski w odniesieniu do wszystkich wniesionych apelacji.
+
+## Załącznik nr 11 - Sposób wypełniania formularza uzasadnienia wyroku wydanego w postępowaniu o wznowienie postępowania
+
+Formularz UWP jest przeznaczony do sporządzenia uzasadnienia wyroku w sprawach karnych i o przestępstwa karnoskarbowe w przedmiocie wznowienia postępowania. W postępowaniu lustracyjnym dla celów wypełnienia formularza rubryki dotyczące oskarżonego należy wypełnić w odniesieniu do osoby lustrowanej, zaś rubryki dotyczące oskarżyciela publicznego - w odniesieniu do prokuratora występującego w postępowaniu lustracyjnym. Jeżeli wyrok nie został zredagowany w punktach, w miejscach, w których formularz nakazuje odwołanie się do punktu wyroku należy jednoznacznie określić opisowo właściwy element rozstrzygnięcia sądu. Jeżeli do wypełnienia formularza używa się oprogramowania udostępnionego przez Ministra Sprawiedliwości, części formularza, które nie zostały wypełnione, mogą zostać automatycznie usunięte z jego treści. Poza tym niedopuszczalne są modyfikacje treści zawartych we wzorze formularza, ani też zmiany w jego strukturze, poza możliwością powielania rubryk w przypadkach wskazanych poniżej. Należy wskazać sygnaturę akt sprawy.
+
+### Sekcja 1. OZNACZENIE ORZECZENIA SĄDU
+
+Należy wskazać oznaczenie orzeczenia sądu, datę jego wydania, sąd, który je wydał, oraz sygnaturę akt sprawy, w której zostało wznowione postępowanie.
+
+### Sekcja 2. USTALENIE FAKTÓW
+
+Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, można te same czyny wskazać jednokrotnie, odnosząc je do więcej niż jednego oskarżonego, to samo dotyczy faktów i dowodów.
+
+###
+
+### 2.1.
+
+Fakty uznane za udowodnione (art. 424 § 1 pkt 1 k.p.k.) W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, oznaczenie czynu przypisanego lub zarzucanego oskarżonemu (jeżeli czynu nie przypisano, to oznaczenie czynu zarzucanego oskarżonemu), zwięźle wskazać fakty uznane za udowodnione oraz dowód (dowody), na którego podstawie ustalono dany fakt, ze wskazaniem numeru karty, na której znajduje się ten dowód. Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z zarzutu, rozstrzygnięcia sądu, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 2.2.
+
+Fakty uznane za nieudowodnione (art. 424 § 1 pkt 1 k.p.k.) W podsekcji należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, personalia oskarżonego, oznaczenie czynu przypisanego oskarżonemu (jeżeli czynu nie przypisano, to oznaczenie czynu zarzucanego oskarżonemu), zwięźle wskazać fakty uznane za nieudowodnione oraz dowód (dowody), który odnosi się do danego faktu uznanego za nieudowodniony, ze wskazaniem numeru karty, na której znajduje się ten dowód. Jeżeli dana teza dowodowa nie była przedmiotem dowodzenia przy pomocy jakiegokolwiek dowodu, przy wskazaniu faktu uznanego za nieudowodniony w kolumnie „Dowód” należy zamieścić wzmiankę o braku dowodu (nieprzeprowadzenie dowodu w celu wykazania tezy dowodowej sformułowanej przez stronę twierdzącą o istnieniu danego faktu objętego tą tezą). Wskazanie czynu lub czynów przypisanych oskarżonemu lub oskarżonym przez sąd może nastąpić poprzez wskazanie numeru czynu z zarzutu, rozstrzygnięcia sądu, jak też w inny sposób niebudzący wątpliwości co do identyfikacji konkretnego czynu. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 3. OCENA DOWODÓW
+
+Jeżeli sąd uznał dany dowód za zasługujący na wiarę jedynie w części, należy ten dowód wymienić zarówno w podsekcji dotyczącej dowodów będących podstawą ustalenia faktów, jak i w podsekcji dotyczącej dowodów nieuwzględnionych przy ustaleniu faktów, wskazując w tej samej rubryce (obok określenia dowodu) w sposób wyraźny i jednoznaczny, w jakiej części dowód został uznany za zasługujący na wiarę albo na tę wiarę nie zasługuje. Jeżeli jest to w konkretnej sprawie celowe z merytorycznego punktu widzenia i nie będzie miało negatywnego wpływu na czytelność uzasadnienia, możliwe jest ponumerowanie faktów, o których mowa w sekcji 2, a w sekcji niniejszej odwołanie się do tej numeracji przy omawianiu wiarygodności lub niewiarygodności dowodów.
+
+###
+
+### 3.1.
+
+Dowody będące podstawa ustalenia faktów (art. 424 § 1 pkt 1 k.p.k., art. 424 § 2 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w podsekcji 2.1., zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody uznania dowodu. W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów uznania dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### 3.2.
+
+Dowody nieuwzględnione przy ustaleniu faktów (dowody, które sąd uznał za niewiarygodne oraz niemające znaczenia dla ustalenia faktów) (art. 424 § 1 pkt 1 k.p.k.) Należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską odnoszącą się do faktu określonego w sekcji 2, zwięzłe oznaczenie dowodu oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody nieuwzględnienia dowodu (uznania dowodu przez sąd za niewiarygodny lub niemający znaczenia dla ustalenia faktów). W razie gdy jeden dowód odnosi się do więcej niż jednego faktu, dopuszczalne jest jednokrotne omówienie powodów nieuwzględnienia dowodu ze wskazaniem wszystkich faktów, do których się on odnosi. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 4. ROZSTRZYGNIECIE SĄDU
+
+W podsekcji 4.1 należy wskazać przyczynę (podstawę) i zakres (w odniesieniu do których rozstrzygnięć) wznowienia postępowania oraz podstawę prawną (ze wskazaniem przepisów ustawy) wznowienia. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody wznowienia postępowania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 4.2.1. - 4.2.3. należy wskazać przyczynę i zakres oraz podstawę prawną (ze wskazaniem przepisów ustawy) rozstrzygnięcia następczego w postaci odpowiednio: uchylenia orzeczenia i przekazania sprawy do ponownego rozpoznania, uchylenia orzeczenia i uniewinnienia oskarżonego, uchylenia orzeczenia i umorzenia postępowania. Należy również zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody rozstrzygnięcia następczego w postaci odpowiednio: uchylenia orzeczenia i przekazania sprawy do ponownego rozpoznania, uchylenia orzeczenia i uniewinnienia oskarżonego, uchylenia orzeczenia i umorzenia postępowania. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji. W podsekcji 4.3 należy wskazać w poszczególnych kolumnach kolejno liczbę porządkową oznaczoną cyfrą arabską, punkt rozstrzygnięcia z wyroku oraz zwięźle (w miarę możliwości w postaci równoważników zdań) wskazać powody innych rozstrzygnięć z wyroku. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej podsekcji.
+
+### Sekcja 5. KOSZTY PROCESU
+
+W sekcji należy wskazać w poszczególnych kolumnach kolejno punkt rozstrzygnięcia z wyroku dotyczący kosztów procesu oraz przytoczyć okoliczności, które sąd miał na względzie przy rozstrzyganiu o kosztach. Należy wskazać przyczyny, dla których sąd zasądził koszty procesu. W wypadku zasądzenia konkretnych kwot w rozstrzygnięciu o kosztach należy wskazać podstawy do wyliczenia konkretnych kwot w takiej, a nie innej wysokości. W wypadku całkowitego albo częściowego zwolnienia od poniesienia kosztów procesu należy uzasadnić powód takiego zwolnienia oraz wykazać zaistnienie ustawowych przesłanek do zastosowania zwolnienia. Całkowite albo częściowe zwolnienie od kosztów powinno być poprzedzone analizą sytuacji majątkowej osoby zwolnionej oraz jej możliwości zarobkowych. Dopuszczalne jest w razie potrzeby powielanie wierszy w ramach tej sekcji.
+
+### Sekcja 6. PODPIS
+
+Sędzia orzekający jednoosobowo albo członkowie składu orzekającego składają podpisy na wypełnionym formularzu po jego wydrukowaniu.

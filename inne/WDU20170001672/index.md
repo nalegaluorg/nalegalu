@@ -1,0 +1,50 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej
+address: WDU20170001672
+eli: DU/2017/1672
+publisher: DU
+year: 2017
+pos: 1672
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 25 sierpnia 2017 r. zmieniające rozporządzenie w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2017 poz. 1672 |
+| ISAP | WDU20170001672 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2017-08-25 |
+| Data wydania | 2017-09-01 |
+| Wejście w życie | 2017-09-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1672/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1672) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 6c ustawy z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa ([Dz. U. z 2016 r. poz. 1512](https://api.sejm.gov.pl/eli/acts/DU/2016/1512/text.html) i [2048](https://api.sejm.gov.pl/eli/acts/DU/2016/2048/text.html) oraz [z 2017 r. poz. 624](https://api.sejm.gov.pl/eli/acts/DU/2017/624/text.html) i [1503](https://api.sejm.gov.pl/eli/acts/DU/2017/1503/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Rady Ministrów z dnia 23 października 2014 r. w sprawie realizacji przez Agencję Rynku Rolnego zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej ([Dz. U. poz. 1468](https://api.sejm.gov.pl/eli/acts/DU/2014/1468/text.html) oraz [z 2015 r. poz. 209](https://api.sejm.gov.pl/eli/acts/DU/2015/209/text.html) i [1677](https://api.sejm.gov.pl/eli/acts/DU/2015/1677/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie realizacji przez Agencję Restrukturyzacji i Modernizacji Rolnictwa zadań związanych z ustanowieniem dalszych tymczasowych nadzwyczajnych środków wsparcia dla producentów niektórych owoców i warzyw w związku z zakazem ich przywozu z Unii Europejskiej do Federacji Rosyjskiej ” ;
+
+### 2)
+
+w § 1 wyrazy „Agencję Rynku Rolnego” zastępuje się wyrazami „Agencję Restrukturyzacji i Modernizacji Rolnictwa”;
+
+### 3)
+
+użyty w § 4 ust. 3, § 5a ust. 2, § 5b ust. 2, § 7 ust. 1 oraz § 8 ust. 1 wyraz „terenowego” zastępuje się wyrazem „regionalnego”.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.

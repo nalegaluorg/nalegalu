@@ -1,0 +1,80 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych"
+address: WDU20200001284
+eli: DU/2020/1284
+publisher: DU
+year: 2020
+pos: 1284
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 17 lipca 2020 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1284 |
+| ISAP | WDU20200001284 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-07-17 |
+| Data wydania | 2020-07-23 |
+| Wejście w życie | 2020-08-07 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/1284/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/1284) |
+
+## Treść rozporządzenia
+
+[2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 13 marca 2020 r. pod numerem 2020/125/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1).](#gloss-0:2:) Na podstawie art. 15 pkt 2 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych ([Dz. U. z 2019 r. poz. 2178](https://api.sejm.gov.pl/eli/acts/DU/2019/2178/text.html) oraz [z 2020 r. poz. 285](https://api.sejm.gov.pl/eli/acts/DU/2020/285/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2003 r. w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych ([Dz. U. poz. 1398](https://api.sejm.gov.pl/eli/acts/DU/2003/1398/text.html), [z 2004 r. poz. 662](https://api.sejm.gov.pl/eli/acts/DU/2004/662/text.html) oraz [z 2017 r. poz. 1944](https://api.sejm.gov.pl/eli/acts/DU/2017/1944/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 2 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przepisy ust. 1 i 2 nie dotyczą wyrobów:
+
+### 1)
+
+w których cukry zostały całkowicie lub częściowo zastąpione substancjami słodzącymi lub
+
+### 2)
+
+których nazwie towarzyszy oświadczenie żywieniowe „o obniżonej zawartości cukrów” lub inne oświadczenie żywieniowe o takim samym znaczeniu dla konsumenta w rozumieniu przepisów rozporządzenia (WE) nr 1924/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie oświadczeń żywieniowych i zdrowotnych dotyczących żywności ([Dz. Urz. UE L 404 z 30.12.2006, str. 9](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 12 z 18.01.2007, str. 3, Dz. Urz. UE L 39 z 13.02.2008, str. 8, Dz. Urz. UE L 39 z 13.02.2008, str. 14, Dz. Urz. UE L 37 z 10.02.2010, str. 16, Dz. Urz. UE L 304 z 22.11.2011, str. 18, Dz. Urz. UE L 310 z 09.11.2012, str. 36 i Dz. Urz. UE L 160 z 12.06.2013, str. 23.](#gloss-0:3:)).
+
+” ;
+
+### 2)
+
+w § 3:
+
+### a)
+
+w ust. 2 w pkt 6 skreśla się wyrazy „(Dz. Urz. UE L 404 z 30.12.2006, str. 9, z późn. zm.)”,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Do konfitur i konfitur ekstra, w celu regulacji ich kwasowości, można dodać sok cytrynowy lub zagęszczony sok cytrynowy zamiast dodatków do żywności stosowanych w tym celu zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. w sprawie dodatków do żywności.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2258). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 13 marca 2020 r. pod numerem 2020/125/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 12 z 18.01.2007, str. 3, Dz. Urz. UE L 39 z 13.02.2008, str. 8, Dz. Urz. UE L 39 z 13.02.2008, str. 14, Dz. Urz. UE L 37 z 10.02.2010, str. 16, Dz. Urz. UE L 304 z 22.11.2011, str. 18, Dz. Urz. UE L 310 z 09.11.2012, str. 36 i Dz. Urz. UE L 160 z 12.06.2013, str. 23.

@@ -8,11 +8,9 @@ pos: 235
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o opiece nad dziećmi w wieku do lat 3
-
-*USTAWA z dnia 4 lutego 2011 r.*
+# Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1041 +22,1514 @@ domain: null
 | Data ogłoszenia | 2011-02-04 |
 | Data wydania | 2011-03-03 |
 | Ostatnia zmiana | 2026-02-03 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110450235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/235/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/235) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Żłobek i klub dziecięcy](#chpt_2) [Rozdział 3 - Rejestr żłobków i klubów dziecięcych](#chpt_3) [Rozdział 4 - Dzienny opiekun](#chpt_4) [Rozdział 5 - Szkolenia](#chpt_5) [Rozdział 6 - Niania](#chpt_6) [Rozdział 7 - Nadzór nad żłobkami, klubami dziecięcymi oraz dziennymi opiekunami](#chpt_7) [Rozdział 8 - Finansowanie i zlecanie zadań z zakresu opieki](#chpt_8) [Rozdział 9 - Zmiany w przepisach obowiązujących](#chpt_9) [Rozdział 10 - Przepisy przejściowe](#chpt_10) [Rozdział 11 - Przepis końcowy](#chpt_11)
 
-**Art. 2.**
+TOC
 
-1. Opieka nad dziećmi w wieku do lat 3 może być organizowana w formie żłobka lub klubu dziecięcego, a także sprawowana przez dziennego opiekuna oraz nianię.
+## Treść ustawy
 
-2. W ramach opieki realizowane są funkcje: opiekuńcza, wychowawcza oraz edukacyjna.
+### Rozdział 1 Przepisy ogólne
 
-3. Opieka nad dzieckiem może być sprawowana do ukończenia roku szkolnego, w którym dziecko ukończy 3 rok życia lub w przypadku gdy niemożliwe lub utrudnione jest objęcie dziecka wychowaniem przedszkolnym – 4 rok życia.
+### Art. 1.
 
-4. W przypadku, gdy dziecko, które ukończyło 3 rok życia umieszczone jest w żłobku lub klubie dziecięcym albo jest objęte opieką sprawowaną przez dziennego opiekuna, rodzice tego dziecka, są zobowiązani do złożenia podmiotowi prowadzącemu opiekę oświadczenia o przeszkodach w objęciu dziecka wychowaniem przedszkolnym.
+Ustawa określa:
 
-**Art. 3.** Ilekroć w ustawie jest mowa o rodzicach rozumie się przez to także opiekunów prawnych oraz inne osoby, którym sąd powierzył sprawowanie opieki nad dzieckiem.
+### 1)
 
-**Art. 3a.**
+zasady organizowania i funkcjonowania opieki nad dziećmi w wieku do lat 3;
 
-1. Rodzic ubiegający się o objęcie dziecka opieką w żłobku lub klubie dziecięcym albo przez dziennego opiekuna przedstawia, w formie oświadczenia lub zaświadczenia, następujące dane:
+### 2)
 
-- **1)** imię, nazwisko, datę urodzenia, obywatelstwo oraz numer PESEL dziecka, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
-- **1a)** informację, czy dziecko legitymuje się orzeczeniem o niepełnosprawności, a jeżeli tak, to jakim;
-- **2)** imiona, nazwiska, daty urodzenia, obywatelstwo oraz numery PESEL rodziców, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość;
-- **2a)** informacje o rodzeństwie dziecka dotyczące liczby i wieku rodzeństwa;
-- **3)** adres miejsca zamieszkania rodziców i dziecka;
-- **4)** adres poczty elektronicznej i numer telefonu rodziców;
-- **5)** miejsce pracy rodziców lub miejsce pobierania nauki w szkole lub szkole wyższej przez rodziców – o ile pracują lub pobierają naukę;
-- **6)** dane o stanie zdrowia, stosowanej diecie i rozwoju psychofizycznym dziecka;
-- **7)** dane o wysokości dochodów rodziców – w przypadku ubiegania się przez rodziców o częściowe lub całkowite zwolnienie z opłat, jeżeli zwolnienie to jest uzależnione od wysokości dochodów.
+warunki świadczonych usług;
 
-2. Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek przetwarzają dane, o których mowa w ust. 1, wyłącznie w związku z rekrutacją oraz w zakresie i w celu zapewnienia dziecku prawidłowej opieki, oraz w celu realizacji przez Zakład Ubezpieczeń Społecznych świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619).
+### 3)
 
-**Art. 4.** Osoby sprawujące, na podstawie ustawy, opiekę nad dziećmi w wieku do lat 3 podlegają obowiązkowym badaniom sanitarno-epidemiologicznym zgodnie z ustawą z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2024 r. poz. 924 i 1897).
+kwalifikacje osób sprawujących opiekę;
 
-**Art. 5.** Minister właściwy do spraw rodziny:
+### 4)
 
-**Art. 6.** Rada Ministrów składa corocznie Sejmowi i Senatowi, w terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
+zasady finansowania opieki;
 
-**Art. 6a.** W przypadkach uzasadnionych nadzwyczajnymi okolicznościami zagrażającymi życiu lub zdrowiu dzieci, minister właściwy do spraw rodziny, w drodze rozporządzenia, może czasowo ograniczyć lub czasowo zawiesić funkcjonowanie form opieki nad dziećmi w wieku do lat 3 na obszarze kraju lub jego części, uwzględniając stopień zagrożenia na danym obszarze. 6b. W przypadku, o którym mowa w art. 6a, minister właściwy do spraw rodziny, w drodze rozporządzenia, może wyłączyć stosowanie niektórych przepisów niniejszej ustawy, w odniesieniu do wszystkich lub niektórych form opieki nad dziećmi w wieku do lat 3, o których mowa w przepisach wydanych na podstawie art. 6a, w szczególności w zakresie przeprowadzania postępowania rekrutacyjnego i organizacji pracy tych form opieki nad dziećmi w wieku do lat 3, a także wprowadzić w tym zakresie odrębne unormowania, tak aby zapewnić prawidłową realizację celów i zadań tych form opieki nad dziećmi w wieku do lat 3.
+### 5)
 
-**Art. 6c.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, standardy opieki sprawowanej nad dziećmi w wieku do lat 3, w tym standardy niezbędne i standardy fakultatywne, biorąc pod uwagę konieczność zapewnienia dzieciom w wieku do lat 3 wysokiej jakości opieki dostosowanej do ich potrzeb rozwojowych.
+nadzór nad warunkami i jakością sprawowanej opieki.
 
-**Art. 6d.** Podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna oraz dzienny opiekun prowadzący działalność na własny rachunek, organizując opiekę nad dziećmi w wieku do lat 3, uwzględniają niezbędne standardy opieki określone w przepisach wydanych na podstawie art. 6c.
+### Art. 2.
 
-#### Rozdział 2 Żłobek i klub dziecięcy
+### 1.
 
-**Art. 7.**
+Opieka nad dziećmi w wieku do lat 3 może być organizowana w formie żłobka lub klubu dziecięcego, a także sprawowana przez dziennego opiekuna oraz nianię.
 
-1. Opieka w żłobku jest sprawowana nad dziećmi w wieku od ukończenia 20 tygodnia życia.
+### 2.
 
-2. Opieka w klubie dziecięcym jest sprawowana nad dziećmi w wieku od ukończenia 1 roku życia.
+W ramach opieki realizowane są funkcje: opiekuńcza, wychowawcza oraz edukacyjna.
 
-3. Liczba miejsc w klubie dziecięcym nie może być większa niż 30.
+### 3.
 
-**Art. 8.**
+Opieka nad dzieckiem może być sprawowana do ukończenia roku szkolnego, w którym dziecko ukończy 3 rok życia lub w przypadku gdy niemożliwe lub utrudnione jest objęcie dziecka wychowaniem przedszkolnym - 4 rok życia.
 
-1. Żłobki i kluby dziecięce mogą tworzyć i prowadzić:
+### 4.
 
-- **1)** jednostki samorządu terytorialnego oraz instytucje publiczne;
-- **2)** osoby fizyczne;
-- **3)** osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej.
+W przypadku, gdy dziecko, które ukończyło 3 rok życia umieszczone jest w żłobku lub klubie dziecięcym albo jest objęte opieką sprawowaną przez dziennego opiekuna, rodzice tego dziecka, są zobowiązani do złożenia podmiotowi prowadzącemu opiekę oświadczenia o przeszkodach w objęciu dziecka wychowaniem przedszkolnym.
 
-2. Jednostki samorządu terytorialnego tworzą żłobki i kluby dziecięce w formie samorządowych jednostek budżetowych.
+### Art. 3.
 
-2a. Instytucje publiczne tworzą i prowadzą żłobki i kluby dziecięce dla dzieci pracowników zatrudnionych w tych instytucjach.
+Ilekroć w ustawie jest mowa o rodzicach rozumie się przez to także opiekunów prawnych oraz inne osoby, którym sąd powierzył sprawowanie opieki nad dzieckiem.
 
-2b. Do żłobka lub klubu dziecięcego prowadzonych przez instytucje publiczne mogą być przyjmowane dzieci inne niż dzieci pracowników zatrudnionych w tych instytucjach, jeżeli w żłobku lub klubie dziecięcym są wolne miejsca.
+### Art. 4.
 
-2c. Żłobek lub klub dziecięcy mogą być prowadzone łącznie przez więcej niż jedną instytucję publiczną.
+Osoby sprawujące, na podstawie ustawy, opiekę nad dziećmi w wieku do lat 3 podlegają obowiązkowym badaniom sanitarno-epidemiologicznym zgodnie z ustawą z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ([Dz. U. Nr 234, poz. 1570](https://api.sejm.gov.pl/eli/acts/DU/2008/1570/text.html), z [2009 r. Nr 76, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html) oraz z [2010 r. Nr 107, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2010/679/text.html) i [Nr 257, poz. 1723](https://api.sejm.gov.pl/eli/acts/DU/2010/1723/text.html)).
 
-3. Żłobkiem lub klubem dziecięcym jest każda jednostka organizacyjna, która niezależnie od jej nazwy wykonuje zadania określone w art. 10.
+### Art. 5.
 
-**Art. 9.**
+Minister właściwy do spraw zabezpieczenia społecznego:
 
-1. Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobki lub kluby dziecięce mogą dla celów organizacyjnych połączyć je w zespół i określić zasady działania zespołu. Połączenie nie narusza odrębności żłobków lub klubów dziecięcych w zakresie wpisu do rejestru. Przepisy art. 11 stosuje się odpowiednio.
+### 1)
 
-2. Dyrektor zespołu jest dyrektorem żłobka lub osobą kierującą klubem dziecięcym.
+monitoruje proces realizacji ustawy;
 
-3. Dyrektorem zespołu żłobków lub klubów dziecięcych może być osoba, która posiada co najmniej roczne doświadczenie w kierowaniu żłobkiem lub klubem dziecięcym.
+### 2)
 
-4. Jednostki samorządu terytorialnego tworzą zespoły żłobków lub klubów dziecięcych w formie samorządowych jednostek budżetowych.
+upowszechnia informacje o formach opieki nad dzieckiem w wieku do lat 3;
 
-**Art. 9a.**
+### 3)
 
-1. Podmioty, o których mowa w art. 8 ust. 1 pkt 2 i 3, mogą zorganizować wspólną obsługę administracyjną, finansową i organizacyjną żłobków, klubów dziecięcych lub ich zespołów.
+inspiruje badania, ekspertyzy i analizy dotyczące systemu opieki nad dzieckiem w wieku do lat 3;
 
-2. Obsługa, o której mowa w ust. 1, może również być wykonywana przez jednostki, o których mowa w art. 10 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm. ).
+### 4)
 
-**Art. 9b.** Formy opieki nad dziećmi w wieku do lat 3 mogą mieścić się w jednym budynku z przedszkolami w rozumieniu ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, także w przypadku, gdy znajdują się w jednej strefie pożarowej, bez względu na kategorię zagrożenia ludzi, do której jest zaliczona dana strefa pożarowa.
+prowadzi pilotażowe programy dotyczące wczesnej edukacji dziecka, ewaluacji jakości opieki nad dzieckiem w wieku do lat 3 i systemu nadzoru nad różnymi formami opieki nad dzieckiem w wieku do lat 3.
 
-**Art. 10.** Do zadań żłobka i klubu dziecięcego należy w szczególności:
+### Art. 6.
 
-**Art. 11.**
+Rada Ministrów składa corocznie Sejmowi i Senatowi, w terminie do dnia 30 września, sprawozdanie z realizacji ustawy.
 
-1. Żłobek i klub dziecięcy działa na podstawie statutu.
+### Rozdział 2 Żłobek i klub dziecięcy
 
-2. Podmiot, który utworzył żłobek lub klub dziecięcy, ustala statut żłobka lub klubu dziecięcego, określając w szczególności:
+### Art. 7.
 
-- **1)** nazwę i miejsce jego prowadzenia;
-- **2)** cele i zadania oraz sposób ich realizacji, z uwzględnieniem wspomagania indywidualnego rozwoju dziecka oraz wspomagania rodziny w wychowaniu dziecka, a w przypadku dzieci niepełnosprawnych – ze szczególnym uwzględnieniem rodzaju niepełnosprawności;
-- **3)** warunki przyjmowania dzieci, z uwzględnieniem preferencji dla dzieci niepełnosprawnych oraz z możliwością uwzględnienia preferencji dla dzieci z rodzin wielodzietnych;
-- **3a)** warunki przyjmowania dzieci w przypadku, o którym mowa w art. 18b;
-- **4)** zasady ustalania opłat za pobyt i wyżywienie w przypadku nieobecności dziecka w żłobku lub klubie dziecięcym;
-- **5)** zasady udziału rodziców w zajęciach prowadzonych w żłobku lub klubie dziecięcym.
+### 1.
 
-**Art. 12.**
+Opieka w żłobku jest sprawowana nad dziećmi w wieku od ukończenia 20 tygodnia życia.
 
-1. Godziny pracy żłobka lub klubu dziecięcego ustala się w regulaminie organizacyjnym, o którym mowa w art. 21, biorąc pod uwagę opinie rodziców.
+### 2.
 
-2. W żłobku i klubie dziecięcym zapewnia się opiekę nad dzieckiem w wymiarze do 10 godzin dziennie względem każdego dziecka.
+Opieka w klubie dziecięcym jest sprawowana nad dziećmi w wieku od ukończenia 1 roku życia.
 
-3. W szczególnie uzasadnionych przypadkach wymiar opieki w żłobku lub klubie dziecięcym może być, na wniosek rodzica dziecka, wydłużony, za dodatkową opłatą.
+### Art. 8.
 
-4. (uchylony)
+### 1.
 
-**Art. 12a.**
+Żłobki i kluby dziecięce mogą tworzyć i prowadzić:
 
-1. W żłobku i klubie dziecięcym może zostać utworzona rada rodziców, która reprezentuje ogół rodziców dzieci uczęszczających do żłobka lub klubu dziecięcego.
+### 1)
 
-2. Radę rodziców mogą utworzyć rodzice dzieci uczęszczających odpowiednio do żłobka lub klubu dziecięcego.
+gminy;
 
-3. Rada rodziców uchwala regulamin swojej działalności, w którym określa w szczególności wewnętrzną strukturę i tryb pracy rady.
+### 2)
 
-4. Do kompetencji rady rodziców należy:
+osoby fizyczne;
 
-- **1)** występowanie do dyrektora żłobka lub osoby kierującej pracą klubu dziecięcego i podmiotu prowadzącego żłobek lub klub dziecięcy z inicjatywami, wnioskami i opiniami we wszystkich sprawach dotyczących żłobka lub klubu dziecięcego, w tym w szczególności w zakresie prowadzenia zajęć edukacyjnych;
-- **2)** opiniowanie spraw organizacyjnych żłobka lub klubu dziecięcego, w szczególności w zakresie zmian regulaminu organizacyjnego;
-- **3)** wgląd, za pośrednictwem przedstawicieli rady rodziców, do dokumentacji dotyczącej spełniania norm żywienia, o których mowa w art. 22;
-- **4)** wizytacja przez przedstawicieli rady rodziców pomieszczeń żłobka lub klubu dziecięcego i w przypadku dostrzeżenia nieprawidłowości zgłoszenie ich do dyrektora żłobka lub osoby kierującej pracą klubu dziecięcego, a w razie nieusunięcia nieprawidłowości – do wójta, burmistrza lub prezydenta miasta.
+### 3)
 
-5. W celu wspierania działalności statutowej żłobka lub klubu dziecięcego rada rodziców może gromadzić fundusze z dobrowolnych składek rodziców oraz innych źródeł. Zasady wydatkowania funduszy rady rodziców określa regulamin, o którym mowa w ust. 3.
+osoby prawne i jednostki organizacyjne nieposiadające osobowości prawnej.
 
-6. Fundusze, o których mowa w ust. 5, mogą być przechowywane na odrębnym rachunku bankowym rady rodziców. Do założenia i likwidacji tego rachunku bankowego oraz dysponowania funduszami na tym rachunku są uprawnione osoby posiadające pisemne upoważnienie udzielone przez radę rodziców.
+### 2.
 
-7. W żłobku lub klubie dziecięcym może działać tylko jedna rada rodziców.
+Gmina tworzy żłobki i kluby dziecięce w formie gminnych jednostek budżetowych.
 
-8. Rada rodziców zobowiązana jest do niezwłocznego poinformowania o wyborze lub zmianie swoich przedstawicieli dyrektora żłobka lub osobę kierującą pracą klubu dziecięcego. Dyrektor żłobka lub osoba kierująca pracą klubu dziecięcego umożliwia wszystkim rodzicom dzieci uczęszczających odpowiednio do żłobka lub klubu dziecięcego zapoznanie się ze składem rady rodziców.
+### 3.
 
-9. Dyrektor żłobka oraz osoba kierująca pracą klubu dziecięcego umożliwia rodzicom dzieci uczęszczających odpowiednio do żłobka lub klubu dziecięcego zorganizowanie zebrania mającego na celu wybranie składu rady rodziców oraz uchwalenie regulaminu rady rodziców, w szczególności przez udostępnienie miejsca na zebranie oraz poinformowanie rodziców o jego terminie. Zebranie rodziców odbywa się co najmniej raz w roku.
+Żłobkiem lub klubem dziecięcym jest każda jednostka organizacyjna, która niezależnie od jej nazwy wykonuje zadania określone w art. 10.
 
-**Art. 13.**
+### Art. 9.
 
-1. Pracą żłobka kieruje dyrektor.
+### 1.
 
-2. Dyrektorem żłobka może być osoba, która posiada:
+Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobki lub kluby dziecięce mogą dla celów organizacyjnych połączyć je w zespół i określić zasady działania zespołu. Połączenie nie narusza odrębności żłobków lub klubów dziecięcych w zakresie wpisu do rejestru. Przepisy art. 11 stosuje się odpowiednio.
 
-- **1)** wykształcenie wyższe i co najmniej 3 lata doświadczenia w pracy z dziećmi albo;
-- **2)** co najmniej wykształcenie średnie lub średnie branżowe oraz 5 lat doświadczenia w pracy z dziećmi.
+### 2.
 
-**Art. 14.** Osobą kierującą pracą klubu dziecięcego może być osoba posiadająca kwalifikacje, o których mowa w art. 16.
+Dyrektor zespołu jest dyrektorem żłobka lub osobą kierującą klubem dziecięcym.
 
-**Art. 15.**
+### 3.
 
-1. Skład personelu zatrudnionego w żłobku lub klubie dziecięcym jest dostosowany do liczby dzieci uczęszczających do żłobka lub klubu dziecięcego.
+Dyrektorem zespołu żłobków lub klubów dziecięcych może być osoba, która posiada co najmniej roczne doświadczenie w kierowaniu żłobkiem lub klubem dziecięcym.
 
-2. Jeden opiekun może sprawować opiekę:
+### 4.
 
-- **1)** w żłobku – nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko niepełnosprawne, dziecko wymagające szczególnej opieki lub dziecko, które nie ukończyło pierwszego roku życia maksymalnie nad pięciorgiem dzieci;
-- **2)** w klubie dziecięcym – nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci.
+Gmina tworzy zespoły żłobków lub klubów dziecięcych w formie gminnych jednostek budżetowych.
 
-3. W żłobku, do którego uczęszcza więcej niż dwadzieścioro dzieci, zatrudnia się przynajmniej jedną pielęgniarkę lub położną.
+### Art. 10.
 
-4. Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego, osobą, o której mowa w art. 8 ust. 1 pkt 2, opiekunem, pielęgniarką, położną, wolontariuszem lub inną osobą zatrudnioną do wykonywania pracy lub świadczenia usług w żłobku lub klubie dziecięcym nie może być osoba, która figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym lub została skazana prawomocnym wyrokiem za inne przestępstwo umyślne.
+Do zadań żłobka i klubu dziecięcego należy w szczególności:
 
-5. Osoby, o których mowa w ust. 4, przed podjęciem zatrudnienia przedstawiają zaświadczenie o niekaralności, wystawione nie wcześniej niż 3 miesiące przed rozpoczęciem pracy lub świadczenia usług w żłobku lub klubie dziecięcym.
+### 1)
 
-**Art. 16.**
+zapewnienie dziecku opieki w warunkach bytowych zbliżonych do warunków domowych;
 
-1. Opiekunem w żłobku lub klubie dziecięcym może być osoba:
+### 2)
 
-- **1)** posiadająca kwalifikacje: pielęgniarki, położnej, opiekunki dziecięcej, nauczyciela wychowania przedszkolnego, nauczyciela edukacji wczesnoszkolnej lub pedagoga opiekuńczo-wychowawczego, pedagoga społeczno-wychowawczego, pedagoga wczesnej edukacji, terapeuty pedagogicznego lub
-- **2)** która ukończyła studia lub studia podyplomowe na kierunku lub specjalności: wczesne wspomaganie rozwoju, wspomaganie rozwoju dzieci w ramach pomocy psychologiczno-pedagogicznej w żłobkach i przedszkolach, edukacja prorozwojowa, pedagogika małego dziecka, psychologia dziecięca, psychologia wspierania rozwoju i kształcenia lub psychologia wychowawcza.
+zagwarantowanie dziecku właściwej opieki pielęgnacyjnej oraz edukacyjnej, przez prowadzenie zajęć zabawowych z elementami edukacji, z uwzględnieniem indywidualnych potrzeb dziecka;
 
-2. Opiekunem w żłobku lub klubie dziecięcym może być także osoba, która odbyła nie wcześniej niż 2 lata przed podjęciem zatrudnienia jako opiekun szkolenie z udzielania dziecku pierwszej pomocy oraz posiada co najmniej wykształcenie:
+### 3)
 
-- **1)** wyższe na dowolnym kierunku, którego program obejmuje zagadnienia związane z opieką nad małym dzieckiem lub jego rozwojem, i odbyła 80-godzinne szkolenie w celu uaktualnienia i uzupełnienia wiedzy oraz umiejętności lub
-- **2)** średnie lub średnie branżowe oraz:
-    - **a)** co najmniej roczne doświadczenie w pracy z dziećmi w wieku do lat 3 lub
-    - **b)** przed zatrudnieniem jako opiekun w żłobku lub w klubie dziecięcym odbyła 280-godzinne szkolenie, z czego co najmniej 80 godzin w formie zajęć praktycznych, polegających na sprawowaniu opieki nad dzieckiem pod kierunkiem opiekuna, o którym mowa w ust. 1.
+prowadzenie zajęć opiekuńczo-wychowawczych i edukacyjnych, uwzględniających rozwój psychomotoryczny dziecka, właściwych do wieku dziecka.
 
-3. Jeżeli osoba, o której mowa w ust. 2 pkt 2 lit. a, nie pracowała z dziećmi w wieku do lat 3 przez okres co najmniej 6 miesięcy bezpośrednio przed podjęciem zatrudnienia jako opiekun, zobowiązana jest w ciągu 6 miesięcy od rozpoczęcia pracy na stanowisku opiekuna odbyć 80-godzinne szkolenie w celu uaktualnienia i uzupełnienia wiedzy oraz umiejętności.
+### Art. 11.
 
-4. Opiekun w żłobku lub klubie dziecięcym jest obowiązany do systematycznej aktualizacji wiedzy i umiejętności w zakresie usług opieki i wczesnej edukacji dzieci w wieku do lat 3, metodyki i praktyki pracy z dziećmi, zrozumienia potrzeb dzieci, współpracy z rodzicami oraz dbania o własny dobrostan, w szczególności przez samokształcenie, udział w szkoleniach lub wsparcie ze strony podmiotu prowadzącego odpowiednio żłobek lub klub dziecięcy.
+### 1.
 
-5. Szkolenia, o których mowa w ust. 4, nieodpłatnie zapewnia podmiot prowadzący żłobek lub klub dziecięcy.
+Żłobek i klub dziecięcy działa na podstawie statutu.
 
-**Art. 17.**
+### 2.
 
-1. Przy zapewnianiu opieki nad dziećmi przebywającymi w żłobku lub klubie dziecięcym można korzystać z pomocy wolontariuszy.
+Podmiot, który utworzył żłobek lub klub dziecięcy, ustala statut żłobka lub klubu dziecięcego, określając w szczególności:
 
-2. Wolontariusz, przed rozpoczęciem świadczenia pracy w żłobku lub klubie dziecięcym, zobowiązany jest do odbycia szkolenia z udzielania dziecku pierwszej pomocy.
+### 1)
 
-3. W przypadku gdy wolontariusz posiada kwalifikacje, o których mowa w art. 16, przepisów ust. 2 nie stosuje się.
+nazwę i miejsce jego prowadzenia;
 
-**Art. 18.** Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego oraz osobą, o której mowa w art. 8 ust. 1 pkt 2, opiekunem, pielęgniarką, położną oraz wolontariuszem w żłobku lub klubie dziecięcym może być osoba, która:
+### 2)
 
-**Art. 18a.**
+cele i zadania oraz sposób ich realizacji, z uwzględnieniem wspomagania indywidualnego rozwoju dziecka oraz wspomagania rodziny w wychowaniu dziecka, a w przypadku dzieci niepełnosprawnych - ze szczególnym uwzględnieniem rodzaju niepełnosprawności;
 
-1. Opiekun oraz wolontariusz zobowiązani są do odbycia co 2 lata szkolenia z udzielania dziecku pierwszej pomocy.
+### 3)
 
-2. Szkolenie, o którym mowa w ust. 1, nieodpłatnie zapewnia podmiot prowadzący żłobek lub klub dziecięcy.
+warunki przyjmowania dzieci;
 
-**Art. 18b.** W przypadku nieobecności dziecka w żłobku lub klubie dziecięcym dyrektor żłobka lub klubu dziecięcego może przyjąć na miejsce tego dziecka na czas jego nieobecności inne dziecko, na podstawie umowy z jego rodzicami.
+### 4)
 
-**Art. 19.** Opiekun prowadzący zajęcia w żłobku lub klubie dziecięcym współpracuje z rodzicami dzieci uczęszczających na zajęcia, w szczególności przez prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
+zasady ustalania opłat za pobyt i wyżywienie w przypadku nieobecności dziecka w żłobku lub klubie dziecięcym.
 
-**Art. 20.** W zajęciach prowadzonych w klubie dziecięcym mogą uczestniczyć rodzice dzieci uczęszczających do klubu dziecięcego.
+### Art. 12.
 
-**Art. 21.**
+### 1.
 
-1. Organizację wewnętrzną żłobka lub klubu dziecięcego określa regulamin organizacyjny nadawany przez dyrektora żłobka lub osobę kierującą pracą klubu dziecięcego.
+Godziny pracy żłobka lub klubu dziecięcego ustala się w regulaminie organizacyjnym, o którym mowa w art. 21, biorąc pod uwagę opinie rodziców.
 
-2. Za realizację regulaminu odpowiada dyrektor żłobka lub osoba kierująca pracą klubu dziecięcego.
+### 2.
 
-**Art. 22.** Żłobek i klub dziecięcy zapewniają przebywającym w nim dzieciom wyżywienie zgodne z wymaganiami dla danej grupy wiekowej wynikającymi z aktualnych norm żywienia dla populacji polskiej, opracowywanych przez Instytut Żywności i Żywienia im. prof. dra med. Aleksandra Szczygła w Warszawie.
+W żłobku zapewnia się opiekę nad dzieckiem w wymiarze do 10 godzin dziennie względem każdego dziecka.
 
-**Art. 23.** Rodzice są zobowiązani do ponoszenia opłat za pobyt oraz wyżywienie dzieci w żłobku lub klubie dziecięcym.
+### 3.
 
-**Art. 24.**
+W szczególnie uzasadnionych przypadkach wymiar opieki w żłobku może być, na wniosek rodzica dziecka, wydłużony, za dodatkową opłatą.
 
-1. Lokal, w którym tworzony i prowadzony jest żłobek lub klub dziecięcy, posiada co najmniej jedno pomieszczenie.
+### 4.
 
-2. W żłobku i klubie dziecięcym zapewnia się dzieciom możliwość higienicznego spożywania posiłków.
+W klubie dziecięcym zapewnia się opiekę nad dzieckiem w wymiarze do 5 godzin dziennie względem każdego dziecka.
 
-3. W żłobku i klubie dziecięcym zapewnia się miejsce na odpoczynek dla dzieci.
+### Art. 13.
 
-**Art. 25.**
+### 1.
 
-1. Żłobek oraz klub dziecięcy mogą być prowadzone w lokalu, który spełnia wymagania lokalowe i sanitarne zawarte w przepisach wydanych na podstawie ust. 3.
+Pracą żłobka kieruje dyrektor.
 
-2. Spełnienie wymagań przeciwpożarowych potwierdza się decyzją komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej.
+### 2.
 
-2a. Spełnienie wymagań sanitarno-lokalowych potwierdza się:
+Dyrektorem żłobka może być osoba, która posiada:
 
-- **1)** w przypadku żłobków – decyzją właściwego państwowego inspektora sanitarnego, określającą w szczególności maksymalną liczbę miejsc w żłobku;
-- **2)** w przypadku klubów dziecięcych – pozytywną opinią wójta, burmistrza lub prezydenta miasta, określającą w szczególności maksymalną liczbę miejsc w klubie dziecięcym.
+### 1)
 
-2b. Wydanie decyzji, o której mowa w ust. 2 i ust. 2a pkt 1, oraz wydanie opinii, o której mowa w ust. 2a pkt 2, następuje po zakończeniu robót budowlanych i uzyskaniu decyzji o pozwoleniu na użytkowanie obiektu budowlanego lub dokonaniu zawiadomienia o zakończeniu budowy, wobec którego organ nadzoru budowlanego w terminie nie wniósł sprzeciwu.
+wykształcenie wyższe i co najmniej 3 lata doświadczenia w pracy z dziećmi albo;
 
-2c. Państwowy inspektor sanitarny, komendant powiatowy (miejski) Państwowej Straży Pożarnej i wójt, burmistrz lub prezydent miasta są zobowiązani do udzielania wyjaśnień oraz przekazywania wytycznych w sprawie warunków lokalowych i sanitarnych, jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy.
+### 2)
 
-3. Minister właściwy do spraw rodziny, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, wymagania lokalowe i sanitarne jakie musi spełniać lokal, w którym ma być prowadzony żłobek lub klub dziecięcy, uwzględniając konieczność zapewnienia odpowiedniej jakości opieki sprawowanej nad dziećmi i warunków ochrony przeciwpożarowej oraz liczbę dzieci, nad którymi sprawowana jest opieka.
+co najmniej wykształcenie średnie oraz 5 lat doświadczenia w pracy z dziećmi.
 
-**Art. 25a.**
+### Art. 14.
 
-1. Podmiot prowadzący żłobek lub klub dziecięcy jest obowiązany do obniżenia opłaty rodzica za pobyt dziecka odpowiednio w żłobku lub klubie dziecięcym o kwotę otrzymanego świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
+Osobą kierującą pracą klubu dziecięcego może być osoba posiadająca kwalifikacje, o których mowa w art. 16.
 
-2. Podmiot prowadzący żłobek lub klub dziecięcy, który otrzymał świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, i nie obniżył opłaty rodzica za pobyt dziecka odpowiednio w żłobku lub klubie dziecięcym o kwotę otrzymanego świadczenia „aktywnie w żłobku”, jest obowiązany do zwrotu tego świadczenia. Przepisy art. 52 ust. 3–6 i 8–10 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” stosuje się odpowiednio.
+### Art. 15.
 
-#### Rozdział 3 Rejestr żłobków i klubów dziecięcych
+### 1.
 
-**Art. 26.** Prowadzenie żłobka lub klubu dziecięcego jest działalnością regulowaną w rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622) i wymaga wpisu do rejestru żłobków i klubów dziecięcych, zwanego dalej „rejestrem”.
+Skład personelu zatrudnionego w żłobku lub klubie dziecięcym jest dostosowany do liczby dzieci uczęszczających do żłobka lub klubu dziecięcego.
 
-**Art. 27.**
+### 2.
 
-1. Rejestr prowadzi wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia żłobka lub klubu dziecięcego przy użyciu systemu teleinformatycznego, o którym mowa w art. 62a.
+Jeden opiekun może sprawować opiekę:
 
-2. Wójt, burmistrz lub prezydent miasta publikuje rejestr za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 62a.
+### 1)
 
-3. Dane zawarte w rejestrze publikowane są przy użyciu systemu teleinformatycznego, o którym mowa w art. 62a, na stronach podmiotowych właściwej gminy oraz ministra właściwego do spraw rodziny.
+w żłobku - nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko niepełnosprawne, dziecko wymagające szczególnej opieki lub dziecko, które nie ukończyło pierwszego roku życia maksymalnie nad pięciorgiem dzieci;
 
-4. Rejestr zawiera:
+### 2)
 
-- **1)** nazwę lub imię i nazwisko oraz siedzibę lub adres podmiotu prowadzącego żłobek lub klub dziecięcy;
-- **2)** numer NIP podmiotu prowadzącego żłobek lub klub dziecięcy;
-- **3)** miejsce prowadzenia żłobka lub klubu dziecięcego;
-- **4)** informację o zawieszaniu prowadzenia żłobka lub klubu dziecięcego;
-- **5)** informację o godzinach pracy żłobka lub klubu dziecięcego;
-- **6)** adres poczty elektronicznej i numer telefonu żłobka lub klubu dziecięcego;
-- **7)** liczbę miejsc w żłobku lub klubie dziecięcym;
-- **8)** liczbę dzieci zapisanych do żłobka lub klubu dziecięcego;
-- **9)** informację, czy żłobek lub klub dziecięcy jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki;
-- **9a)** informację o uwzględnieniu przez żłobek lub klub dziecięcy poszczególnych standardów opieki określonych:
-    - **a)** w przepisach wydanych na podstawie art. 6c, z podziałem na poszczególne standardy niezbędne i fakultatywne,
-    - **b)** na podstawie przepisów odrębnych;
+w klubie dziecięcym - nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko niepełnosprawne lub dziecko wymagające szczególnej opieki maksymalnie nad pięciorgiem dzieci.
 
-- **10)** informacje o opłacie za pobyt dziecka w żłobku lub klubie dziecięcym rozumianej jako:
-    - **a)** wydatki na funkcjonowanie jednego miejsca opieki miesięcznie, bez wydatków inwestycyjnych i wydatków na remonty – w przypadku żłobków lub klubów dziecięcych prowadzonych przez jednostki samorządu terytorialnego,
-    - **b)** maksymalna miesięczna wysokość opłat za pobyt dziecka w żłobku lub klubie dziecięcym, jaką poniósłby rodzic w przypadku braku ulg lub dofinansowań ze środków publicznych – w przypadku żłobków lub klubów dziecięcych prowadzonych przez podmioty inne niż jednostki samorządu terytorialnego;
+### 3.
 
-- **10a)** informacje o ulgach i dofinansowaniu ze środków publicznych wpływających na wysokość opłaty za pobyt dziecka w żłobku lub klubie dziecięcym;
-- **10b)** wysokość opłat za wyżywienie;
-- **11)** dane dotyczące dziecka uczęszczającego do żłobka lub klubu dziecięcego:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, ca) (uchylona)
-    - **d)** datę rozpoczęcia i zakończenia uczęszczania przez dziecko do danego żłobka lub klubu dziecięcego,
-    - **e)** wysokość opłaty za pobyt danego dziecka w żłobku lub klubie dziecięcym w poszczególnych miesiącach, z uwzględnieniem: – środków finansowych pozyskanych z programów, w tym rządowych lub resortowych, służących rozwojowi instytucji opieki nad dziećmi w wieku do lat 3, – ulg przyznanych: – – przez podmiot prowadzący żłobek lub klub dziecięcy – w przypadku odpowiednio żłobków lub klubów dziecięcych prowadzonych przez podmioty, o których mowa w art. 8 ust. 1 pkt 2 lub 3, – – w związku z uzyskaniem przez podmiot prowadzący żłobek lub klub dziecięcy dotacji z budżetu jednostki samorządu terytorialnego,
-    - **f)** informację, czy dziecko jest niepełnosprawne lub wymaga szczególnej opieki;
+W żłobku, do którego uczęszcza więcej niż dwadzieścioro dzieci, zatrudnia się przynajmniej jedną pielęgniarkę lub położną.
 
-- **12)** dane dotyczące rodziców dziecka uczęszczającego do żłobka lub klubu dziecięcego:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, ca) (uchylona)
-    - **d)** adres poczty elektronicznej i numer telefonu;
+### Art. 16.
 
-- **13)** numer rachunku bankowego podmiotu prowadzącego żłobek lub klub dziecięcy;
-- **14)** informacje o dofinansowaniu miejsc opieki ze środków publicznych obejmujące:
-    - **a)** informację, czy żłobek lub klub dziecięcy otrzymał lub otrzymuje środki finansowe pozyskane z programów, w tym rządowych lub resortowych, służących rozwojowi instytucji opieki nad dziećmi w wieku do lat 3, ze wskazaniem źródła pochodzenia poszczególnych środków finansowych, ich wysokości i kwoty przypadającej na jedno miejsce na dane dziecko odpowiednio w żłobku lub klubie dziecięcym,
-    - **b)** informację, czy żłobek lub klub dziecięcy otrzymał lub otrzymuje środki finansowe pozyskane z dotacji z budżetu jednostki samorządu terytorialnego, ze wskazaniem źródła pochodzenia poszczególnych środków finansowych, ich wysokości i kwoty przypadającej na jedno miejsce na dane dziecko odpowiednio w żłobku lub klubie dziecięcym.
+### 1.
 
-5. Adres będącego osobą fizyczną podmiotu prowadzącego żłobek lub klub dziecięcy, jeżeli jest inny niż adres prowadzenia przez tę osobę żłobka lub klubu dziecięcego, informacja o spełnianiu poszczególnych fakultatywnych standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz dane i informacje, o których mowa w ust. 4 pkt 11–13, nie podlegają ujawnieniu na stronach podmiotowych gminy prowadzącej rejestr i ministra właściwego do spraw rodziny.
+Opiekunem w żłobku lub klubie dziecięcym może być osoba posiadająca kwalifikacje: pielęgniarki, położnej, opiekunki dziecięcej, nauczyciela wychowania przedszkolnego, nauczyciela edukacji wczesnoszkolnej lub pedagoga opiekuńczo-wychowawczego.
 
-6. Informacje, o których mowa w ust. 4, są przetwarzane przez ministra właściwego do spraw rodziny w celu umożliwienia prowadzenia rejestru, monitorowania spełniania przez żłobki i kluby dziecięce standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz umożliwienia uzyskania przez rodziców świadczenia „aktywni rodzice w pracy” lub świadczenia „aktywnie w żłobku”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, realizacji prawa do tych świadczeń przez Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa.
+### 2.
 
-**Art. 28.**
+Opiekunem w żłobku lub klubie dziecięcym może być także osoba, która posiada co najmniej wykształcenie średnie oraz:
 
-1. Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Wniosek zawiera:
+### 1)
 
-- **1)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu;
-- **2)** numer NIP, o ile wnioskodawcy taki numer nadano;
-- **2a)** adres poczty elektronicznej oraz numer telefonu podmiotu zamierzającego prowadzić żłobek lub klub dziecięcy;
-- **3)** decyzję potwierdzającą spełnienie wymagań przeciwpożarowych, o której mowa w art. 25 ust. 2;
-- **3a)** odpowiednio decyzję potwierdzającą spełnienie wymagań sanitarno-lokalowych, o której mowa w art. 25 ust. 2a pkt 1, lub opinię, o której mowa w art. 25 ust. 2a pkt 2;
-- **4)** w przypadku osoby fizycznej zaświadczenie o niekaralności za przestępstwo popełnione umyślnie;
-- **5)** oświadczenie o posiadaniu tytułu prawnego do lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy;
-- **5a)** oświadczenie o uwzględnianiu przez żłobek lub klub dziecięcy niezbędnych standardów opieki określonych w przepisach wydanych na podstawie art. 6c;
-- **6)** w przypadku osoby fizycznej – numer PESEL;
-- **7)** informację o godzinach pracy żłobka lub klubu dziecięcego;
-- **8)** adres poczty elektronicznej i numer telefonu żłobka lub klubu dziecięcego;
-- **9)** informację, czy żłobek lub klub dziecięcy jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki;
-- **10)** wysokość opłat w żłobku lub klubie dziecięcym;
-- **11)** numer rachunku bankowego podmiotu prowadzącego żłobek lub klub dziecięcy.
+co najmniej dwuletnie doświadczenie w pracy z dziećmi w wieku do lat 3 lub
 
-2. (uchylony)
+### 2)
 
-3. Wraz z wnioskiem, o którym mowa w ust. 1, podmiot przedstawia stosowne oświadczenie, w celu potwierdzenia dokonanej opłaty, o której mowa w art. 33.
+przed zatrudnieniem jako opiekun w żłobku lub w klubie dziecięcym odbyła 280-godzinne szkolenie, z czego co najmniej 80 godzin w formie zajęć praktycznych, polegających na sprawowaniu opieki nad dzieckiem pod kierunkiem opiekuna, o którym mowa w ust. 1.
 
-4. W celu sprawdzenia zgodności danych, o których mowa w ust. 1, wójt, burmistrz lub prezydent miasta może żądać: odpisu z odpowiedniego rejestru, dokumentu potwierdzającego tożsamość, zaświadczenia o niekaralności lub dokumentu potwierdzającego tytuł prawny do lokalu, w którym ma być prowadzony żłobek lub klub dziecięcy. Przedstawienie tych dokumentów nie jest wymagane, w przypadku gdy wójt, burmistrz lub prezydent miasta może bezpłatnie uzyskać dostęp do danych wynikających z tych dokumentów, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
+### 3.
 
-5. Po dokonaniu wpisu do rejestru, wójt, burmistrz lub prezydent miasta, w terminie 3 dni od dokonania wpisu, umożliwia podmiotowi prowadzącemu żłobek lub klub dziecięcy dostęp do systemu teleinformatycznego, o którym mowa w art. 62a, w zakresie dotyczącym:
+Jeżeli osoba, o której mowa w ust. 2 pkt 1, nie pracowała z dziećmi w wieku do lat 3 przez okres co najmniej 6 miesięcy bezpośrednio przed podjęciem zatrudnienia jako opiekun, zobowiązana jest w ciągu 6 miesięcy od rozpoczęcia pracy na stanowisku opiekuna odbyć 80-godzinne szkolenie w celu uaktualnienia i uzupełnienia wiedzy oraz umiejętności.
 
-- **1)** dokonywania przez podmiot wpisany do rejestru samodzielnych zmian danych lub informacji, o których mowa w art. 27 ust. 4 pkt 5, 6, 8, 9a i 10–14;
-- **2)** sporządzania i przekazywania sprawozdań, o których mowa w art. 64 ust. 1.
+### Art. 17.
 
-**Art. 28a.** Organ prowadzący rejestr prostuje z urzędu wpis do rejestru zawierający oczywiste błędy, niezgodności z treścią wniosku przedsiębiorcy lub niezgodności ze stanem faktycznym wynikającym z innych rejestrów publicznych.
+### 1.
 
-**Art. 29.** (uchylony)
+Przy zapewnianiu opieki nad dziećmi przebywającymi w żłobku lub klubie dziecięcym można korzystać z pomocy wolontariuszy.
 
-**Art. 30.**
+### 2.
 
-1. Wójt, burmistrz lub prezydent miasta wydaje z urzędu zaświadczenie o dokonaniu wpisu podmiotu do rejestru.
+Wolontariusz, przed rozpoczęciem świadczenia pracy w żłobku lub klubie dziecięcym, zobowiązany jest odbyć 40-godzinne szkolenie.
 
-2. Zaświadczenie zawiera następujące dane:
+### 3.
 
-- **1)** nazwę organu, który dokonał wpisu do rejestru;
-- **2)** datę i numer wpisu do rejestru;
-- **3)** formę organizacyjną opieki oraz jej nazwę;
-- **4)** nazwę lub imię i nazwisko podmiotu prowadzącego żłobek lub klub dziecięcy;
-- **5)** miejsce prowadzenia żłobka lub klubu dziecięcego.
+W przypadku gdy wolontariusz posiada kwalifikacje, o których mowa w art. 16, przepisów ust. 2 nie stosuje się.
 
-**Art. 30a.**
+### Art. 18.
 
-1. Organ prowadzący rejestr jest obowiązany dokonać wpisu podmiotu do rejestru w terminie 7 dni od dnia wpływu do tego organu wniosku o wpis wraz z dołączonymi do niego dokumentami, o których mowa w art. 28 ust. 1 i 3.
+Dyrektorem żłobka, osobą kierującą pracą klubu dziecięcego oraz osobą, o której mowa w art. 8 ust. 1 pkt 2, opiekunem, pielęgniarką, położną oraz wolontariuszem w żłobku lub klubie dziecięcym może być osoba, która:
 
-2. Jeżeli organ prowadzący rejestr nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do tego organu upłynęło 14 dni, podmiot może rozpocząć działalność. Nie dotyczy to przypadku, gdy organ wezwał podmiot do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+### 1)
 
-**Art. 31.** Wójt, burmistrz lub prezydent miasta odmawia wpisu do rejestru, w przypadku gdy:
+daje rękojmię należytego sprawowania opieki nad dziećmi;
 
-**Art. 32.** Wykreślenie z rejestru następuje w przypadku:
+### 2)
 
-**Art. 32a.** Wraz z wykreśleniem z rejestru z przyczyn, o których mowa w art. 32 pkt 2 lub 3, wójt, burmistrz lub prezydent miasta może wydać decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, mając na uwadze skalę, zakres oraz powtarzalność naruszeń.
+nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie została jej zawieszona ani ograniczona;
 
-**Art. 32b.**
+### 3)
 
-1. Przedsiębiorca, w stosunku do którego wydano decyzję, o której mowa w art. 32a, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności nie wcześniej niż po upływie 3 lat od dnia wydania decyzji.
+wypełnia obowiązek alimentacyjny, w przypadku gdy taki obowiązek został nałożony na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd;
 
-2. Przepis ust. 1 stosuje się odpowiednio do podmiotu, który wykonywał działalność bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 30a ust. 2.
+### 4)
 
-**Art. 33.**
+nie została skazana prawomocnym wyrokiem za przestępstwo umyślne.
 
-1. Wpis do rejestru podlega opłacie, która stanowi dochód własny gminy.
+### Art. 19.
 
-2. Wysokość opłaty ustala rada gminy w drodze uchwały.
+Opiekun prowadzący zajęcia w żłobku lub klubie dziecięcym współpracuje z rodzicami dzieci uczęszczających na zajęcia, w szczególności przez prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
 
-3. Wysokość opłaty nie może być wyższa niż 1000 zł.
+### Art. 20.
 
-4. Zmiany w rejestrze oraz wykreślenie z rejestru są zwolnione z opłaty.
+W zajęciach prowadzonych w klubie dziecięcym mogą uczestniczyć rodzice dzieci uczęszczających do klubu dziecięcego.
 
-5. Gmina jest zwolniona z opłaty za wpis do rejestru.
+### Art. 21.
 
-**Art. 34.** Odmowa wpisu do rejestru oraz wykreślenie z rejestru następują w drodze decyzji administracyjnej.
+### 1.
 
-**Art. 35.**
+Organizację wewnętrzną żłobka lub klubu dziecięcego określa regulamin organizacyjny nadawany przez dyrektora żłobka lub osobę kierującą pracą klubu dziecięcego.
 
-1. W przypadku zmiany danych lub informacji zawartych w rejestrze podmiot wpisany do rejestru jest zobowiązany do:
+### 2.
 
-- **1)** wystąpienia, w terminie 14 dni od dnia zaistnienia zmian, do organu prowadzącego rejestr z wnioskiem o zmianę danych lub informacji – w przypadku danych lub informacji, o których mowa w art. 27 ust. 4 pkt 1–4, 7 i 9;
-- **2)** dokonania zmian za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 62a, w terminie:
-    - **a)** 3 dni od dnia zaistnienia zmian – w przypadku danych lub informacji, o których mowa w art. 27 ust. 4 pkt 5, 6, 8, 9a i 10,
-    - **b)** 5 dni roboczych liczonych od pierwszego dnia danego miesiąca, według stanu na ostatni dzień poprzedzającego miesiąca – w przypadku danych lub informacji, o których mowa w art. 27 ust. 4 pkt 11–14.
+Za realizację regulaminu odpowiada dyrektor żłobka lub osoba kierująca pracą klubu dziecięcego.
 
-2. Po otrzymaniu informacji, o której mowa w ust. 1 pkt 1, organ prowadzący rejestr dokonuje zmian w rejestrze oraz z urzędu wydaje podmiotowi wpisanemu do rejestru zaświadczenie, o którym mowa w art. 30, uwzględniające te zmiany.
+### Art. 22.
 
-**Art. 35a.** (uchylony)
+W żłobku zapewnia się wyżywienie przebywającym w nim dzieciom.
 
-**Art. 35b.**
+### Art. 23.
 
-1. Wnioski, o których mowa w art. 28 ust. 1, art. 32 pkt 1 i art. 35 ust. 1 pkt 1, oraz dokumenty, o których mowa w art. 25 ust. 2 i 2a, są składane wyłącznie drogą elektroniczną za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+Rodzice są zobowiązani do ponoszenia opłat za pobyt oraz wyżywienie dzieci w żłobku lub klubie dziecięcym.
 
-2. Wnioski, o których mowa w art. 28 ust. 1, art. 32 pkt 1 i art. 35 ust. 1 pkt 1, składane są zgodnie z wzorami określonymi przez ministra właściwego do spraw rodziny zamieszczonymi w systemie teleinformatycznym, o którym mowa w art. 62a.
+### Art. 24.
 
-3. Wniosek jest składany za pomocą systemu teleinformatycznego, o którym mowa w art. 62a, po zastosowaniu zapewnionych w tym systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych w postaci elektronicznej. Uwierzytelnianie użytkowników w tym systemie wymaga użycia profilu zaufanego, profilu osobistego, innego środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725), adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
+### 1.
 
-4. Do wniosku dołącza się:
+Lokal, w którym tworzony i prowadzony jest:
 
-- **1)** oryginały dokumentów, o których mowa w art. 25 ust. 2 i 2a, w postaci elektronicznej lub
-- **2)** elektroniczne kopie dokumentów, o których mowa w art. 25 ust. 2 i 2a, po uwierzytelnieniu ich w sposób określony w ust. 3.
+### 1)
 
-5. W sprawach z wniosków, o których mowa w art. 28 ust. 1, art. 32 pkt 1 i art. 35 ust. 1 pkt 1, wójt, burmistrz lub prezydent miasta doręcza pisma wyłącznie za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+żłobek - posiada co najmniej dwa pomieszczenia, w tym jedno przystosowane do odpoczynku dzieci;
 
-#### Rozdział 4 Dzienny opiekun
+### 2)
 
-**Art. 36.**
+klub dziecięcy - posiada co najmniej jedno pomieszczenie.
 
-1. Dziennym opiekunem jest osoba fizyczna:
+### 2.
 
-- **1)** prowadząca działalność na własny rachunek albo
-- **2)** zatrudniana przez podmioty, o których mowa w art. 8 ust. 1, na podstawie umowy o pracę albo umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia.
+W żłobku i klubie dziecięcym zapewnia się dzieciom możliwość higienicznego spożywania posiłków.
 
-1a. Pełnienie funkcji dziennego opiekuna wymaga zgłoszenia do prowadzonego przez wójta, burmistrza lub prezydenta miasta wykazu osób, o których mowa w ust. 1 pkt 1, oraz podmiotów, o których mowa w art. 8 ust. 1, zatrudniających dziennych opiekunów, zwanego dalej „wykazem”.
+### 3.
 
-2. Dzienny opiekun sprawuje opiekę nad dziećmi w wieku od ukończenia 20 tygodnia życia.
+W klubie dziecięcym zapewnia się miejsce na odpoczynek dla dzieci.
 
-3. Umowa o świadczenie usług, o której mowa w ust. 1, określa w szczególności:
+### Art. 25.
 
-- **1)** strony umowy;
-- **2)** cel i przedmiot umowy;
-- **3)** czas i miejsce sprawowania opieki;
-- **4)** liczbę dzieci powierzonych opiece;
-- **5)** obowiązki dziennego opiekuna;
-- **5a)** warunki czasowego niesprawowania opieki, w szczególności związanego z wypoczynkiem dziennego opiekuna;
-- **6)** wysokość wynagrodzenia oraz sposób i termin jego wypłaty;
-- **7)** czas, na jaki umowa została zawarta;
-- **8)** warunki i sposób zmiany, a także rozwiązania umowy.
+Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, wymagania lokalowe i sanitarne dotyczące żłobków i klubów dziecięcych, uwzględniając konieczność zapewnienia odpowiedniej jakości sprawowanej opieki nad dziećmi i warunków ochrony przeciwpożarowej oraz liczbę dzieci, nad którymi sprawowana jest opieka.
 
-**Art. 37.** Do zadań dziennego opiekuna należy w szczególności:
+### Rozdział 3 Rejestr żłobków i klubów dziecięcych
 
-**Art. 38.**
+### Art. 26.
 
-1. Dzienny opiekun sprawuje opiekę nad maksymalnie pięciorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko, które nie ukończyło pierwszego roku życia, jest niepełnosprawne lub wymaga szczególnej opieki, maksymalnie nad trojgiem dzieci.
+Prowadzenie żłobka lub klubu dziecięcego jest działalnością regulowaną w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2010 r. Nr 220, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2010/1447/text.html) i [Nr 239, poz. 1593](https://api.sejm.gov.pl/eli/acts/DU/2010/1593/text.html)) i wymaga wpisu do rejestru żłobków i klubów dziecięcych, zwanego dalej „rejestrem”.
 
-1a. Dzienny opiekun może, za zgodą wszystkich rodziców, sprawować opiekę nad maksymalnie ośmiorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko, które nie ukończyło pierwszego roku życia, jest niepełnosprawne lub wymaga szczególnej opieki, maksymalnie nad pięciorgiem dzieci – jeżeli co najmniej jedno z rodziców będzie sprawowało opiekę nad dziećmi razem z dziennym opiekunem.
+### Art. 27.
 
-2. Dzienny opiekun przy sprawowaniu opieki nad dziećmi może korzystać z pomocy wolontariuszy.
+### 1.
 
-**Art. 39.**
+Rejestr prowadzi wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia żłobka lub klubu dziecięcego.
 
-1. Dziennym opiekunem może być osoba, która:
+### 2.
 
-- **1)** daje rękojmię należytego sprawowania opieki nad dziećmi;
-- **2)** nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie została jej zawieszona ani ograniczona;
-- **3)** wypełnia obowiązek alimentacyjny, w przypadku gdy taki obowiązek został nałożony na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd;
-- **4)** nie figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym;
-- **4a)** nie została skazana prawomocnym wyrokiem za inne przestępstwo umyślne;
-- **5)** posiada warunki lokalowe zapewniające bezpieczną opiekę nad dzieckiem;
-- **6)** odbyła:
-    - **a)** 160-godzinne szkolenie albo
-    - **b)** 40-godzinne szkolenie uzupełniające, w tym z zakresu udzielania dziecku pierwszej pomocy, jeżeli posiada kwalifikacje, o których mowa w art. 16 ust. 1;
+Rejestr jest jawny i podlega publikacji w Biuletynie Informacji Publicznej gminy prowadzącej rejestr.
 
-- **7)** odbyła nie wcześniej niż 2 lata przed rozpoczęciem pełnienia funkcji dziennego opiekuna szkolenie z udzielania dziecku pierwszej pomocy.
+### 3.
 
-2. Do odbycia szkolenia, o którym mowa w ust. 1 pkt 6, nie jest zobowiązana osoba, która pracowała z dziećmi w wieku do lat 3 przez okres co najmniej 12 miesięcy bezpośrednio przed rozpoczęciem pełnienia funkcji dziennego opiekuna.
+Rejestr zawiera:
 
-2a. Dzienny opiekun przed rozpoczęciem pełnienia funkcji dziennego opiekuna przedstawia zaświadczenie o niekaralności wystawione nie wcześniej niż 3 miesiące przed rozpoczęciem pełnienia funkcji dziennego opiekuna.
+### 1)
 
-2b. Dzienny opiekun zobowiązany jest do odbycia co 2 lata szkolenia z udzielania dziecku pierwszej pomocy.
+nazwę lub imię i nazwisko oraz siedzibę lub adres podmiotu prowadzącego żłobek lub klub dziecięcy;
 
-2c. Szkolenie, o którym mowa w ust. 2b, dziennym opiekunom zatrudnionym przez podmioty, o których mowa w art. 8 ust. 1, nieodpłatnie zapewniają te podmioty.
+### 2)
 
-2d. Dzienny opiekun jest obowiązany do systematycznej aktualizacji wiedzy i umiejętności w zakresie usług opieki i wczesnej edukacji dzieci w wieku do lat 3, metodyki i praktyki pracy z dziećmi, zrozumienia potrzeb dzieci, współpracy z rodzicami oraz dbania o własny dobrostan, w szczególności przez samokształcenie, udział w szkoleniach lub wsparcie ze strony podmiotu zatrudniającego dziennego opiekuna.
+numer NIP i REGON podmiotu prowadzącego żłobek lub klub dziecięcy;
 
-2e. Szkolenia, o których mowa w ust. 2d, dziennym opiekunom zatrudnionym przez podmioty, o których mowa w art. 8 ust. 1, nieodpłatnie zapewniają te podmioty.
+### 3)
 
-3. (uchylony)
+miejsce prowadzenia żłobka lub klubu dziecięcego.
 
-4. Weryfikacji spełniania warunków, o których mowa w ust. 1, przez kandydata na dziennego opiekuna zatrudnianego przez podmioty, o których mowa w art. 8 ust. 1 pkt 3, dokonują te podmioty.
+### Art. 28.
 
-5. Przed dokonaniem wpisu do wykazu wójt, burmistrz lub prezydent miasta może przeprowadzić wizytację lokalu, w którym sprawowana będzie opieka przez dziennego opiekuna.
+### 1.
 
-6. W przypadku gdy lokal, w którym sprawowana będzie opieka przez dziennego opiekuna, nie spełnia warunku zapewnienia bezpiecznej opieki nad dzieckiem, wójt, burmistrz lub prezydent miasta wzywa podmiot występujący o wpis do wykazu do usunięcia nieprawidłowości w wyznaczonym terminie.
+Wójt, burmistrz lub prezydent miasta dokonuje wpisu do rejestru na podstawie pisemnego wniosku o wpis do rejestru, złożonego przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy. Do wniosku dołącza się:
 
-7. Jeżeli nieprawidłowości, o których mowa w ust. 6, nie zostaną w terminie wyznaczonym przez wójta, burmistrza lub prezydenta miasta usunięte przez podmiot występujący o wpis do wykazu, wójt, burmistrz lub prezydent miasta mogą odmówić wpisu do wykazu. Odmowa wpisu do wykazu następuje w formie decyzji.
+### 1)
 
-**Art. 40.**
+w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej wyciąg z rejestru publicznego potwierdzający status podmiotu;
 
-1. Dzienny opiekun prowadzący zajęcia z dziećmi, nad którymi sprawuje opiekę, współpracuje z rodzicami tych dzieci, w szczególności przez prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
+### 2)
 
-2. Dzienny opiekun może korzystać z pomocy rodziców w sprawowaniu opieki nad dziećmi w czasie prowadzenia zajęć.
+oświadczenie o numerze identyfikacyjnym REGON i identyfikacji podatkowej NIP;
 
-**Art. 41.**
+### 3)
 
-1. Dzienny opiekun podlega obowiązkowi ubezpieczenia od odpowiedzialności cywilnej za szkody wyrządzone przy sprawowaniu opieki.
+oświadczenie o spełnianiu warunków lokalowych;
 
-2. Podmiot zatrudniający dziennego opiekuna jest zobowiązany do zawarcia umowy ubezpieczenia dziennego opiekuna od odpowiedzialności cywilnej oraz opłacania i finansowania składki na to ubezpieczenie.
+### 4)
 
-3. W przypadku gdy dziennego opiekuna zatrudniają podmioty, o których mowa w art. 8 ust. 1 pkt 1, umowa, o której mowa w ust. 2, zawierana jest na zasadach określonych w ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320 oraz z 2025 r. poz. 620).
+w przypadku osoby fizycznej oświadczenie o niekaralności za przestępstwo popełnione umyślnie.
 
-**Art. 42.**
+### 2.
 
-1. Dzienny opiekun sprawuje opiekę nad dziećmi w lokalu, do którego posiada tytuł prawny.
+Podmiot jest zobowiązany do przedstawienia do wglądu:
 
-2. Podmiot zatrudniający dziennego opiekuna może udostępnić lub wyposażyć lokal w celu sprawowania opieki przez dziennego opiekuna.
+### 1)
 
-3. W jednym lokalu może być sprawowana opieka przez więcej niż jednego dziennego opiekuna, z tym że w jednym pomieszczeniu przeznaczonym na zbiorowy pobyt dzieci może być sprawowana opieka tylko przez jednego dziennego opiekuna.
+dokumentu stwierdzającego tytuł prawny do lokalu, w którym ma być prowadzona opieka;
 
-**Art. 43.** Maksymalną wysokość wynagrodzenia dziennego opiekuna zatrudnianego przez jednostki samorządu terytorialnego oraz zasady jego ustalania określa, w drodze uchwały, odpowiednio rada gminy, rada powiatu lub sejmik województwa.
+### 2)
 
-**Art. 44.** Rodzice są zobowiązani do ponoszenia opłat za pobyt oraz wyżywienie dzieci u dziennego opiekuna.
+w przypadku osoby fizycznej dowód osobisty lub inny dokument potwierdzający tożsamość.
 
-**Art. 45.** Podmioty, o których mowa w art. 8 ust. 1 pkt 1, wybierają dziennych opiekunów w sposób otwarty i konkurencyjny.
+### 3.
 
-**Art. 46.**
+Wraz z wnioskiem, o którym mowa w ust. 1, podmiot przedstawia do wglądu dowód dokonania opłaty, o której mowa w art. 33, lub składa jego kopię.
 
-1. Wójt, burmistrz lub prezydent miasta prowadzi wykaz.
+### Art. 29.
 
-2. Wykaz zawiera:
+Przed dokonaniem wpisu do rejestru wójt, burmistrz lub prezydent miasta dokonuje wizytacji lokalu w celu ustalenia czy zapewnione są bezpieczne i higieniczne warunki wychowania i opieki nad dziećmi.
 
-- **1)** nazwę lub imię i nazwisko oraz siedzibę lub adres podmiotu zatrudniającego dziennego opiekuna lub osoby, o której mowa w art. 36 ust. 1 pkt 1, oraz adres poczty elektronicznej i numer telefonu;
-- **2)** numer NIP i REGON podmiotu zatrudniającego dziennego opiekuna lub osoby, o której mowa w art. 36 ust. 1 pkt 1;
-- **3)** imię i nazwisko dziennego opiekuna zatrudnianego przez dany podmiot;
-- **4)** miejsce sprawowania opieki przez dziennego opiekuna, przez które rozumie się nazwę wsi, miasta, dzielnicy i ulicy;
-- **5)** informację o zawieszeniu działalności związanej z zatrudnianiem dziennych opiekunów;
-- **6)** liczbę miejsc oraz liczbę dzieci powierzonych opiece dziennego opiekuna;
-- **7)** czas sprawowania opieki przez dziennego opiekuna;
-- **7a)** informację o uwzględnieniu przez dziennego opiekuna poszczególnych standardów opieki określonych:
-    - **a)** w przepisach wydanych na podstawie art. 6c, z podziałem na poszczególne standardy niezbędne i fakultatywne,
-    - **b)** na podstawie przepisów odrębnych;
+### Art. 30.
 
-- **8)** informacje o opłacie za pobyt dziecka u dziennego opiekuna rozumianej jako:
-    - **a)** wydatki na funkcjonowanie jednego miejsca opieki miesięcznie, bez wydatków inwestycyjnych i wydatków na remonty – w przypadku dziennych opiekunów zatrudnianych przez jednostki samorządu terytorialnego,
-    - **b)** maksymalna miesięczna wysokość opłat za pobyt dziecka u dziennego opiekuna jaką poniósłby rodzic w przypadku braku ulg lub dofinansowań ze środków publicznych – w przypadku dziennych opiekunów zatrudnianych przez podmioty inne niż jednostki samorządu terytorialnego;
+### 1.
 
-- **8a)** informacje o ulgach i dofinansowaniu ze środków publicznych wpływających na wysokość opłaty za pobyt dziecka u dziennego opiekuna;
-- **8b)** wysokość opłat za wyżywienie;
-- **9)** dane dotyczące dziecka objętego opieką sprawowaną przez dziennego opiekuna:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, ca) (uchylona)
-    - **d)** datę rozpoczęcia i zakończenia opieki sprawowanej przez dziennego opiekuna, którą jest objęte dziecko,
-    - **e)** wysokość opłaty za pobyt danego dziecka u dziennego opiekuna w poszczególnych miesiącach, z uwzględnieniem: – środków finansowych pozyskanych z programów, w tym rządowych lub resortowych, służących rozwojowi instytucji opieki nad dziećmi w wieku do lat 3, – ulg przyznanych: – – przez podmiot zatrudniający dziennego opiekuna – w przypadku odpowiednio dziennych opiekunów zatrudnionych przez podmioty, o których mowa w art. 8 ust. 1 pkt 2 lub 3, lub dziennych opiekunów prowadzących działalność na własny rachunek, – – w związku z uzyskaniem przez podmiot zatrudniający dziennego opiekuna dotacji z budżetu jednostki samorządu terytorialnego,
-    - **f)** informację, czy dziecko jest niepełnosprawne lub wymaga szczególnej opieki;
+Wójt, burmistrz lub prezydent miasta wydaje zaświadczenie o dokonaniu wpisu podmiotu do rejestru.
 
-- **10)** dane dotyczące rodziców, których dzieci są objęte opieką sprawowaną przez dziennego opiekuna:
-    - **a)** imię (imiona) i nazwisko,
-    - **b)** datę urodzenia,
-    - **c)** numer PESEL, a w przypadku gdy nie nadano numeru PESEL – numer i serię dokumentu potwierdzającego tożsamość, ca) (uchylona)
-    - **d)** adres poczty elektronicznej i numer telefonu;
+### 2.
 
-- **11)** numer rachunku bankowego podmiotu zatrudniającego dziennego opiekuna lub dziennego opiekuna prowadzącego działalność na własny rachunek;
-- **12)** informacje o dofinansowaniu miejsc opieki ze środków publicznych obejmujące:
-    - **a)** informację, czy odpowiednio podmiot zatrudniający dziennego opiekuna lub dzienny opiekun prowadzący działalność na własny rachunek otrzymał lub otrzymuje środki finansowe pozyskane z programów, w tym rządowych lub resortowych, służących rozwojowi instytucji opieki nad dziećmi w wieku do lat 3, ze wskazaniem źródła pochodzenia poszczególnych środków finansowych, ich wysokości i kwoty przypadającej na jedno miejsce na dane dziecko u dziennego opiekuna,
-    - **b)** informację, czy odpowiednio podmiot zatrudniający dziennego opiekuna lub dzienny opiekun prowadzący działalność na własny rachunek otrzymał lub otrzymuje środki finansowe pozyskane z dotacji z budżetu jednostki samorządu terytorialnego, ze wskazaniem źródła pochodzenia poszczególnych środków finansowych, ich wysokości i kwoty przypadającej na jedno miejsce na dane dziecko u dziennego opiekuna.
+Zaświadczenie zawiera następujące dane:
 
-3. Dane zawarte w wykazie publikowane są przy użyciu systemu teleinformatycznego, o którym mowa w art. 62a, na stronach podmiotowych właściwej gminy oraz ministra właściwego do spraw rodziny.
+### 1)
 
-4. Adres będącego osobą fizyczną podmiotu zatrudniającego dziennego opiekuna, jeżeli jest inny niż adres sprawowania opieki przez dziennego opiekuna, informacja o spełnianiu poszczególnych fakultatywnych standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz dane i informacje, o których mowa w ust. 2 pkt 9–11, nie podlegają ujawnieniu na stronach podmiotowych gminy prowadzącej wykaz i ministra właściwego do spraw rodziny.
+nazwę organu, który dokonał wpisu do rejestru;
 
-5. Informacje, o których mowa w ust. 2, są przetwarzane przez ministra właściwego do spraw rodziny w celu umożliwienia prowadzenia wykazu, monitorowania spełniania przez dziennych opiekunów standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz ustalenia lub weryfikacji prawa do świadczenia „aktywni rodzice w pracy” lub świadczenia „aktywnie w żłobku”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, realizacji prawa do tych świadczeń przez Zakład Ubezpieczeń Społecznych, a także monitorowania realizacji tego prawa.
+### 2)
 
-**Art. 46a.**
+datę i numer wpisu do rejestru;
 
-1. Podmiot zatrudniający dziennego opiekuna zobowiązany jest do zgłaszania dziennych opiekunów do wykazu w terminie 14 dni od dnia zatrudnienia dziennego opiekuna.
+### 3)
 
-2. Dzienny opiekun może objąć dziecko opieką najwcześniej w dniu wpisu tego dziennego opiekuna do wykazu.
+formę organizacyjną opieki oraz jej nazwę;
 
-3. Jeżeli organ prowadzący wykaz nie dokona wpisu w terminie, o którym mowa w art. 46b ust. 6a, a od dnia wpływu zgłoszenia do tego organu upłynęło 14 dni, dzienny opiekun może objąć dziecko opieką. Nie dotyczy to przypadku, gdy organ wezwał podmiot zatrudniający dziennego opiekuna do uzupełnienia zgłoszenia, nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia zgłoszenia.
+### 4)
 
-**Art. 46b.**
+nazwę lub imię i nazwisko podmiotu prowadzącego żłobek lub klub dziecięcy;
 
-1. Wójt, burmistrz lub prezydent miasta dokonuje wpisu do wykazu na podstawie wniosku.
+### 5)
 
-2. Wniosek zawiera:
+miejsce prowadzenia żłobka lub klubu dziecięcego.
 
-- **1)** w przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej – numer lub indeks identyfikujący podmiot we właściwym rejestrze publicznym, potwierdzający status podmiotu;
-- **2)** numer NIP i REGON, o ile wnioskodawcy te numery nadano;
-- **3)** w przypadku osoby fizycznej – numer PESEL;
-- **4)** oświadczenie o weryfikacji spełniania przez dziennego opiekuna warunków, o których mowa w art. 39 ust. 1;
-- **4a)** oświadczenie o uwzględnianiu przez dziennego opiekuna niezbędnych standardów opieki określonych w przepisach wydanych na podstawie art. 6c;
-- **5)** imię i nazwisko dziennego opiekuna;
-- **6)** miejsce sprawowania opieki przez dziennego opiekuna;
-- **7)** liczbę miejsc oraz liczbę dzieci powierzonych opiece dziennego opiekuna;
-- **8)** czas sprawowania opieki przez dziennego opiekuna;
-- **9)** wysokość opłat u dziennego opiekuna;
-- **10)** numer rachunku bankowego podmiotu zatrudniającego dziennego opiekuna lub dziennego opiekuna prowadzącego działalność na własny rachunek.
+### Art. 31.
 
-3. Wnioski, o których mowa w ust. 1 oraz w art. 47a pkt 1, są składane wyłącznie drogą elektroniczną za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+Wójt, burmistrz lub prezydent miasta odmawia wpisu do rejestru, w przypadku gdy:
 
-4. Wniosek jest składany za pomocą systemu teleinformatycznego, o którym mowa w art. 62a, po zastosowaniu zapewnionych w tym systemie sposobów potwierdzenia pochodzenia oraz integralności przesłanych danych w postaci elektronicznej. Uwierzytelnianie użytkowników w tym systemie wymaga użycia profilu zaufanego, profilu osobistego, środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej, adekwatnie do poziomu bezpieczeństwa środka identyfikacji elektronicznej wymaganego dla usług świadczonych w tym systemie, danych weryfikowanych za pomocą kwalifikowanego certyfikatu podpisu elektronicznego, jeżeli te dane pozwalają na identyfikację i uwierzytelnienie wymagane w celu realizacji usługi online, albo innych technologii, jeżeli zostaną udostępnione w tym systemie.
+### 1)
 
-5. W sprawach z wniosków, o których mowa w ust. 1 oraz w art. 47a pkt 1, wójt, burmistrz lub prezydent miasta doręcza pisma wyłącznie za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+podmiot nie spełnia warunków wymaganych do utworzenia i prowadzenia żłobka lub klubu dziecięcego;
 
-6. W celu sprawdzenia zgodności danych, o których mowa w ust. 2, wójt, burmistrz lub prezydent miasta może żądać: odpisu z odpowiedniego rejestru, dokumentu potwierdzającego tożsamość lub zaświadczenia o niekaralności dziennego opiekuna. Przedstawienie tych dokumentów nie jest wymagane, w przypadku gdy wójt, burmistrz lub prezydent miasta może bezpłatnie uzyskać dostęp do danych wynikających z tych dokumentów, dane te są mu znane z urzędu lub możliwe do ustalenia na podstawie danych, którymi rozporządza.
+### 2)
 
-6a. Wójt, burmistrz lub prezydent miasta jest obowiązany dokonać wpisu do wykazu w terminie 7 dni od dnia złożenia kompletnego wniosku, o którym mowa w ust. 1 lub w art. 47a pkt 1.
+wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania działalności gospodarczej objętej wpisem.
 
-7. Po dokonaniu wpisu do wykazu wójt, burmistrz lub prezydent miasta, w terminie 3 dni od dnia dokonania wpisu, umożliwia podmiotowi zatrudniającemu dziennych opiekunów oraz osobie, o której mowa w art. 36 ust. 1 pkt 1, dostęp do systemu teleinformatycznego, o którym mowa w art. 62a, w zakresie dotyczącym:
+### Art. 32.
 
-- **1)** dokonywania przez podmiot zatrudniający dziennych opiekunów oraz osobę, o której mowa w art. 36 ust. 1 pkt 1, którzy zostali wpisani do wykazu, samodzielnych zmian danych lub informacji, o których mowa w art. 46 ust. 2 pkt 7a i 9–12;
-- **2)** sporządzania i przekazywania sprawozdań, o których mowa w art. 64 ust. 1.
+Wykreślenie z rejestru następuje w przypadku:
 
-**Art. 47.** W przypadku rozwiązania lub wygaśnięcia umowy z dziennym opiekunem następuje wykreślenie dziennego opiekuna z wykazu.
+### 1)
 
-**Art. 47a.** W przypadku zmiany danych lub informacji zawartych w wykazie, podmiot zatrudniający dziennego opiekuna oraz osoba, o której mowa w art. 36 ust. 1 pkt 1, zobowiązani są do:
+złożenia przez podmiot wpisany do rejestru wniosku o wykreślenie;
 
-**Art. 47b.**
+### 2)
 
-1. Podmiot zatrudniający dziennego opiekuna oraz osoba, o której mowa w art. 36 ust. 1 pkt 1, są obowiązani do obniżenia opłaty rodzica za pobyt dziecka u dziennego opiekuna o kwotę otrzymanego świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”.
+nieusunięcia przez podmiot, w wyznaczonym terminie, nieprawidłowości w zakresie prowadzenia żłobka lub klubu dziecięcego;
 
-2. Podmiot zatrudniający dziennego opiekuna oraz osoba, o której mowa w art. 36 ust. 1 pkt 1, którzy otrzymali świadczenie „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, i nie obniżyli opłaty rodzica za pobyt dziecka u dziennego opiekuna o kwotę otrzymanego świadczenia „aktywnie w żłobku”, są obowiązani do zwrotu tego świadczenia. Przepisy art. 52 ust. 3–6 i 8–10 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” stosuje się odpowiednio.
+### 3)
 
-#### Rozdział 5 Szkolenia
+przekazania we wniosku oraz dołączonych do niego dokumentach, o których mowa w art. 28, informacji niezgodnych ze stanem faktycznym.
 
-**Art. 48.**
+### Art. 33.
 
-1. Programy szkoleń, o których mowa w art. 16 ust. 2 pkt 1 i 2 lit. b i ust. 3 oraz w art. 39 ust. 1 pkt 6, zatwierdza na wniosek podmiotu prowadzącego szkolenie, na okres 5 lat, minister właściwy do spraw rodziny.
+### 1.
 
-2. Zatwierdzenie lub odmowa zatwierdzenia programów szkoleń następuje w drodze decyzji administracyjnej.
+Wpis do rejestru podlega opłacie, która stanowi dochód własny gminy.
 
-3. Listę programów szkoleń, o których mowa w ust. 1, udostępnia się w Biuletynie Informacji Publicznej.
+### 2.
 
-**Art. 49.** Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, zakres programów szkoleń, biorąc pod uwagę specyfikę zadań opiekuńczych, wychowawczych i edukacyjnych żłobka, klubu dziecięcego oraz dziennego opiekuna, mając na uwadze konieczność zapewnienia odpowiedniego poziomu realizacji tych zadań.
+Wysokość opłaty ustala rada gminy w drodze uchwały.
 
-#### Rozdział 6 Niania
+### 3.
 
-**Art. 50.**
+Wysokość opłaty nie może być wyższa niż 50% minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę.
 
-1. Nianią jest osoba fizyczna sprawująca opiekę nad dziećmi na podstawie umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia, zwanej dalej „umową uaktywniającą”.
+### 4.
 
-1a. Nianią nie może być osoba, która figuruje w bazie danych Rejestru Sprawców Przestępstw na Tle Seksualnym z dostępem ograniczonym.
+Zmiany w rejestrze oraz wykreślenie z rejestru są zwolnione z opłaty.
 
-2. Niania sprawuje opiekę nad dziećmi w wieku od ukończenia 20 tygodnia życia.
+### 5.
 
-3. Umowa uaktywniająca jest zawierana w formie pisemnej między nianią a rodzicem.
+Gmina jest zwolniona z opłaty za wpis do rejestru.
 
-4. Umowa uaktywniająca określa w szczególności:
+### Art. 34.
 
-- **1)** strony umowy;
-- **2)** cel i przedmiot umowy;
-- **3)** czas i miejsce sprawowania opieki;
-- **4)** liczbę dzieci powierzonych opiece;
-- **5)** obowiązki niani;
-- **6)** wysokość wynagrodzenia oraz sposób i termin jego wypłaty;
-- **7)** czas, na jaki umowa została zawarta;
-- **8)** warunki i sposób zmiany, a także rozwiązania umowy.
+Odmowa wpisu do rejestru oraz wykreślenie z rejestru następują w drodze decyzji administracyjnej.
 
-4a. Rodzic, zawierając umowę uaktywniającą, jest obowiązany zweryfikować spełnianie przez nianię warunku określonego w ust. 1a.
+### Art. 35.
 
-5. (uchylony)
+### 1.
 
-**Art. 51.**
+Podmiot wpisany do rejestru jest zobowiązany do informowania organu prowadzącego rejestr o wszelkich zmianach danych wskazanych we wniosku lub dokumentach, o których mowa w art. 28, w terminie 14 dni od zaistnienia zmian.
 
-1. Za nianię, składki na ubezpieczenia emerytalne, rentowe i wypadkowe oraz na ubezpieczenie zdrowotne, opłaca:
+### 2.
 
-- **1)** Zakład Ubezpieczeń Społecznych – od podstawy stanowiącej kwotę nie wyższą niż 50 % wysokości minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę,
-- **2)** rodzic (płatnik składek) – od podstawy stanowiącej kwotę nadwyżki nad kwotą 50 % minimalnego wynagrodzenia – na zasadach określonych w przepisach o systemie ubezpieczeń społecznych oraz w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+Po otrzymaniu informacji, o której mowa w ust. 1, organ prowadzący rejestr dokonuje zmian w rejestrze oraz wydaje podmiotowi wpisanemu do rejestru zaświadczenie, o którym mowa w art. 30, uwzględniające te zmiany.
 
-2. Za nianię, która przystąpiła dobrowolnie na swój wniosek do ubezpieczenia chorobowego, składki na to ubezpieczenie opłaca rodzic na zasadach określonych dla zleceniobiorców w przepisach o systemie ubezpieczeń społecznych.
+### Rozdział 4 Dzienny opiekun
 
-3. Zakład Ubezpieczeń Społecznych opłaca składki, w przypadku gdy spełnione są łącznie następujące warunki:
+### Art. 36.
 
-- **1)** niania została zgłoszona przez rodzica do ubezpieczeń społecznych i ubezpieczenia zdrowotnego;
-- **2)** rodzic jest zatrudniony, świadczy usługi na podstawie umowy cywilnoprawnej stanowiącej tytuł do ubezpieczeń społecznych, prowadzi pozarolniczą działalność lub działalność rolniczą;
-- **3)** dziecko nie jest umieszczone w żłobku, klubie dziecięcym oraz nie zostało objęte opieką sprawowaną przez dziennego opiekuna.
+### 1.
 
-4. W przypadku utraty przez rodzica zatrudnienia, zaprzestania świadczenia usług lub działalności, o których mowa w ust. 3 pkt 2, składki opłaca się przez okres 3 miesięcy od dnia zaprzestania wykonywania aktywności zawodowej.
+Dziennym opiekunem jest osoba fizyczna zatrudniana przez gminę na podstawie umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia.
 
-5. Zakład Ubezpieczeń Społecznych nie opłaca składek, w przypadku gdy:
+### 2.
 
-- **1)** (uchylony)
-- **2)** umowa uaktywniająca została zawarta między nianią a osobami pełniącymi funkcję rodziny zastępczej zawodowej, lub
-- **3)** rodzic dziecka podlega ubezpieczeniom emerytalnemu i rentowym na podstawie art. 6 ust. 1 pkt 19 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, 620 i 622).
+Dzienny opiekun sprawuje opiekę nad dziećmi w wieku od ukończenia 20 tygodnia życia.
 
-**Art. 52.** Rodzic (płatnik składek) zobowiązany jest do niezwłocznego informowania Zakładu Ubezpieczeń Społecznych o każdej zmianie mającej wpływ na opłacanie składek, w szczególności o rozwiązaniu lub wygaśnięciu umowy uaktywniającej.
+### 3.
 
-**Art. 53.**
+Umowa, o której mowa w ust. 1, określa w szczególności:
 
-1. Zakład Ubezpieczeń Społecznych przekazuje ministrowi właściwemu do spraw rodziny informacje o liczbie zgłoszonych do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego niań w poszczególnych miesiącach oraz o poniesionych na ten cel wydatkach.
+### 1)
 
-2. Informacje, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje w terminach:
+strony umowy;
 
-- **1)** do 25 lutego za okres od 1 lipca do 31 grudnia;
-- **2)** do 25 sierpnia za okres od 1 stycznia do 30 czerwca.
+### 2)
 
-#### Rozdział 7 Nadzór nad żłobkami, klubami dziecięcymi oraz dziennymi opiekunami
+cel i przedmiot umowy;
 
-**Art. 54.**
+### 3)
 
-1. Wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia żłobka lub klubu dziecięcego albo miejsce sprawowania opieki przez dziennego opiekuna, sprawuje nadzór nad żłobkiem, klubem dziecięcym oraz dziennym opiekunem w zakresie warunków i jakości świadczonej opieki.
+czas i miejsce sprawowania opieki;
 
-2. Wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia żłobka lub klubu dziecięcego albo miejsce sprawowania opieki przez dziennego opiekuna sprawuje nadzór nad żłobkiem, klubem dziecięcym, podmiotem zatrudniającym dziennego opiekuna oraz osobą, o której mowa w art. 36 ust. 1 pkt 1, w zakresie:
+### 4)
 
-- **1)** zgodności danych zawartych odpowiednio w rejestrze lub wykazie ze stanem faktycznym;
-- **2)** wywiązywania się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64;
-- **3)** wywiązywania się z obowiązku obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna w związku z otrzymaniem świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”;
-- **4)** spełniania przez odpowiednio żłobek, klub dziecięcy lub dziennego opiekuna standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz w przepisach odrębnych.
+liczbę dzieci powierzonych opiece;
 
-**Art. 55.**
+### 5)
 
-1. Nadzór sprawowany jest na podstawie planu nadzoru przyjętego przez radę gminy w drodze uchwały.
+obowiązki dziennego opiekuna;
 
-2. W przypadku powzięcia informacji o:
+### 6)
 
-- **1)** nieprawidłowościach w organizacji i funkcjonowaniu żłobka, klubu dziecięcego lub sprawowanej opieki przez dziennego opiekuna,
-- **2)** nieprawidłowościach w zakresie zgodności danych zawartych odpowiednio w rejestrze lub wykazie ze stanem faktycznym,
-- **3)** niewywiązywaniu się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64,
-- **4)** niewywiązywaniu się z obowiązku obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna w związku z otrzymaniem świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”,
-- **5)** niespełnianiu przez odpowiednio żłobek, klub dziecięcy lub dziennego opiekuna standardów opieki określonych w przepisach wydanych na podstawie art. 6c oraz w przepisach odrębnych – wójt, burmistrz lub prezydent miasta prowadzi czynności nadzorcze także poza planem nadzoru, o którym mowa w ust. 1.
+wysokość wynagrodzenia oraz sposób i termin jego wypłaty;
 
-**Art. 56.**
+### 7)
 
-1. Czynności nadzorczych dokonują osoby upoważnione przez wójta, burmistrza lub prezydenta miasta, zwane dalej „osobami upoważnionymi”.
+czas, na jaki umowa została zawarta;
 
-2. Osoby upoważnione są uprawnione w szczególności do:
+### 8)
 
-- **1)** wstępu na teren nieruchomości, obiektu, lokalu lub ich części w dniach i godzinach, w których działalność jest wykonywana lub powinna być wykonywana;
-- **2)** żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem nadzoru;
-- **3)** dostępu do dokumentacji pracowniczej osób zatrudnionych w nadzorowanych żłobkach lub klubach dziecięcych lub zatrudnionych przez podmiot zatrudniający dziennego opiekuna.
+warunki i sposób zmiany, a także rozwiązania umowy.
 
-**Art. 57.**
+### Art. 37.
 
-1. W przypadku stwierdzenia, że:
+Do zadań dziennego opiekuna należy w szczególności:
 
-- **1)** podmiot prowadzący żłobek lub klub dziecięcy albo dzienny opiekun nie spełniają standardów opieki określonych w niniejszej ustawie, w tym na podstawie przepisów art. 6c, oraz na podstawie przepisów odrębnych,
-- **2)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie dopełniają obowiązku w zakresie zapewnienia zgodności danych zawartych odpowiednio w rejestrze lub wykazie ze stanem faktycznym,
-- **3)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie wywiązują się z obowiązku sporządzania i przekazywania sprawozdań, o których mowa w art. 64,
-- **4)** podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna lub osoba, o której mowa w art. 36 ust. 1 pkt 1, nie wywiązuje się z obowiązku obniżenia opłaty rodzica za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna w związku z otrzymaniem świadczenia „aktywnie w żłobku”, o którym mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” – organ sprawujący nadzór zobowiązuje go do usunięcia stwierdzonych nieprawidłowości w wyznaczonym terminie.
+### 1)
 
-2. Podmiot prowadzący żłobek, klub dziecięcy, podmiot zatrudniający dziennego opiekuna, osoba, o której mowa w art. 36 ust. 1 pkt 1, albo dzienny opiekun mają prawo zgłoszenia umotywowanych zastrzeżeń do ustaleń organu sprawującego nadzór, w terminie 7 dni od dnia otrzymania informacji o stwierdzonych nieprawidłowościach.
+zapewnienie dziecku opieki w warunkach bytowych zbliżonych do warunków domowych;
 
-3. W razie nieuwzględnienia zastrzeżeń, w całości lub w części, organ sprawujący nadzór sporządza stanowisko i przekazuje je podmiotowi prowadzącemu żłobek, klub dziecięcy, podmiotowi zatrudniającemu dziennego opiekuna, osobie, o której mowa w art. 36 ust. 1 pkt 1, albo dziennemu opiekunowi.
+### 2)
 
-4. W celu zbadania, czy i w jakim zakresie są realizowane zalecenia pokontrolne organ sprawujący nadzór może prowadzić czynności sprawdzające.
+zagwarantowanie dziecku właściwej opieki pielęgnacyjnej oraz edukacyjnej, z uwzględnieniem indywidualnych potrzeb dziecka;
 
-5. W przypadku nieusunięcia w wyznaczonym terminie nieprawidłowości wójt, burmistrz lub prezydent miasta wykreśla z rejestru żłobek lub klub dziecięcy albo wykreśla z wykazu podmiot zatrudniający dziennego opiekuna, osobę, o której mowa w art. 36 ust. 1 pkt 1, lub dziennego opiekuna oraz rozwiązuje umowę z dziennym opiekunem zatrudnianym przez gminę bez zachowania okresu wypowiedzenia.
+### 3)
 
-#### Rozdział 8 Finansowanie i zlecanie zadań z zakresu opieki
+prowadzenie zajęć opiekuńczo-wychowawczych i edukacyjnych, uwzględniających rozwój psychomotoryczny dziecka, właściwych do wieku dziecka.
 
-**Art. 58.**
+### Art. 38.
 
-1. Wysokość opłaty oraz opłaty, o której mowa w art. 12 ust. 3, za pobyt dziecka w żłobku lub klubie dziecięcym utworzonym przez jednostki samorządu terytorialnego albo u dziennego opiekuna zatrudnionego przez jednostki samorządu terytorialnego oraz maksymalną wysokość opłaty za wyżywienie ustalają, w drodze uchwały, odpowiednio rada gminy, rada powiatu lub sejmik województwa.
+### 1.
 
-2. W przypadku utworzenia żłobka lub klubu dziecięcego przez podmioty, o których mowa w art. 8 ust. 1 pkt 2 i 3, wysokość opłat określa podmiot, który utworzył żłobek lub klub dziecięcy.
+Dzienny opiekun sprawuje opiekę nad maksymalnie pięciorgiem dzieci, a w przypadku gdy w grupie znajduje się dziecko, które nie ukończyło pierwszego roku życia, jest niepełnosprawne lub wymaga szczególnej opieki, maksymalnie nad trojgiem dzieci.
 
-3. W przypadku zatrudniania dziennego opiekuna przez podmioty inne niż jednostka samorządu terytorialnego wysokość opłat określa podmiot, który zatrudnia dziennego opiekuna.
+### 2.
 
-**Art. 59.**
+Dzienny opiekun przy sprawowaniu opieki nad dziećmi może korzystać z pomocy wolontariuszy.
 
-1. Opłaty, o których mowa w art. 58 ust. 1, z tytułu korzystania ze żłobka i klubu dziecięcego utworzonych przez jednostki samorządu terytorialnego oraz z usług dziennego opiekuna zatrudnionego przez jednostki samorządu terytorialnego są wnoszone przez rodziców na rzecz odpowiednio gminy, powiatu lub województwa.
+### Art. 39.
 
-2. Rada gminy, rada powiatu lub sejmik województwa mogą określić, w drodze uchwały, warunki częściowego lub całkowitego zwolnienia od ponoszenia opłat.
+### 1.
 
-**Art. 60.**
+Dziennym opiekunem może być osoba, która:
 
-1. Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobek lub klub dziecięcy lub zatrudniające dziennych opiekunów oraz osoby, o których mowa w art. 36 ust. 1 pkt 1, mogą otrzymać na dziecko objęte opieką w żłobku lub klubie dziecięcym, lub przez dziennego opiekuna dotację celową z budżetu gminy.
+### 1)
 
-2. Wysokość i zasady ustalania oraz rozliczania dotacji celowej, o której mowa w ust. 1, w tym kategorie dzieci, na które przyznawana jest dotacja, określa rada gminy w drodze uchwały.
+daje rękojmię należytego sprawowania opieki nad dziećmi;
 
-3. W uchwale, o której mowa w ust. 2, może zostać określone, że dotacja, o której mowa w ust. 1, może zostać przyznana również na dzieci zamieszkałe na terenie innej gminy niż gmina przyznająca dotację.
+### 2)
 
-**Art. 60a.** Gminy, powiaty i województwa mogą zawierać porozumienia w sprawie zasad finansowania opieki zapewnianej w żłobku, klubie dziecięcym lub przez dziennego opiekuna dzieciom z terenu danej gminy, powiatu lub województwa.
+nie jest i nie była pozbawiona władzy rodzicielskiej oraz władza rodzicielska nie została jej zawieszona ani ograniczona;
 
-**Art. 61.**
+### 3)
 
-1. Wójt, burmistrz lub prezydent miasta może zlecić podmiotom, o których mowa w art. 8 ust. 1, organizację opieki sprawowanej w formie żłobka lub klubu dziecięcego lub przez dziennych opiekunów.
+wypełnia obowiązek alimentacyjny, w przypadku gdy taki obowiązek został nałożony na podstawie tytułu wykonawczego pochodzącego lub zatwierdzonego przez sąd;
 
-2. Do wyłaniania podmiotów mających organizować opiekę, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+### 4)
 
-**Art. 62.**
+nie była skazana prawomocnym wyrokiem za przestępstwo umyślne;
 
-1. Minister właściwy do spraw rodziny może opracowywać resortowe oraz rządowe programy rozwoju instytucji opieki nad dziećmi w wieku do lat 3 oraz finansowo wspiera te programy. Opracowanie i realizacja programów odbywa się we współpracy z wojewodą.
+### 5)
 
-1a. Programy, o których mowa w ust. 1, mogą być dofinansowane z:
+posiada warunki lokalowe zapewniające bezpieczną opiekę nad dzieckiem;
 
-- **1)** dotacji budżetu państwa;
-- **2)** środków Funduszu Pracy;
-- **3)** środków europejskich, o których mowa w art. 5 ust. 3 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), wraz ze współfinansowaniem krajowym z budżetu państwa, o którym mowa w art. 2 pkt 37 ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717);
-- **4)** środków na finansowanie planu rozwojowego, o których mowa w art. 14ln ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198).
+### 6)
 
-2. Programy, o których mowa w ust. 1, określają tryb i kryteria wyboru podmiotów korzystających z nich, w szczególności uwzględniając:
+odbyła:
 
-- **1)** jakość lub zakres oferowanych usług;
-- **2)** zapotrzebowanie na usługi świadczone przez te podmioty;
-- **3)** minimalny okres funkcjonowania instytucji lub miejsc opieki dofinansowanych w ramach programów;
-- **4)** brak instytucji lub miejsc opieki w danej gminie;
-- **5)** wywiązywanie się przez podmiot ze zobowiązań, o których mowa odpowiednio w art. 35 ust. 1 lub art. 47a.
+### a)
 
-2a. (uchylony)
+160-godzinne szkolenie albo
 
-3. Programy, o których mowa w ust. 1, kieruje się do podmiotów, o których mowa w art. 8 ust. 1, ze szczególnym uwzględnieniem gmin.
+### b)
 
-4. Podmioty, o których mowa w art. 8 ust. 1, korzystające z programów, o których mowa w ust. 1, mogą otrzymywać środki finansowe, o których mowa w ust. 1a, na dofinansowanie utworzenia lub funkcjonowania żłobków, klubów dziecięcych lub dziennych opiekunów, przy czym wysokość dotacji oraz środków Funduszu Pracy nie może łącznie przekroczyć 80 % kosztów realizacji zadania.
+40-godzinne szkolenie uzupełniające, w tym z zakresu udzielania dziecku pierwszej pomocy, jeżeli posiada kwalifikacje, o których mowa w art. 16 ust. 1.
 
-4a. O przyznanie środków finansowych, o których mowa w ust. 1a, w ramach realizacji programów, o których mowa w ust. 1, mogą ubiegać się podmioty, o których mowa w art. 8 ust. 1, które nie figurują w rejestrze podmiotów wykluczonych z możliwości otrzymania środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, o którym mowa w art. 210 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### 2.
 
-5. Środki finansowe, o których mowa w ust. 1a, przyznaje wojewoda po uzgodnieniu z ministrem właściwym do spraw rodziny.
+Do odbycia szkolenia nie jest zobowiązana osoba, która pracowała z dziećmi w wieku do lat 3 przez okres co najmniej 12 miesięcy bezpośrednio przed podjęciem zatrudnienia jako dzienny opiekun.
 
-6. Wojewoda, przyznając podmiotowi dotacje, środki z Funduszu Pracy oraz środki europejskie, o których mowa w ust. 4, zawiera z nim umowę określającą w szczególności:
+### 3.
 
-- **1)** szczegółowy opis zadania, w tym cel, i termin jego wykonania;
-- **2)** wysokość przyznanych środków finansowych, o których mowa w ust. 1a;
-- **3)** tryb płatności;
-- **4)** termin wykorzystania środków finansowych, o których mowa w ust. 1a;
-- **5)** termin i sposób rozliczenia przyznanych środków finansowych, o których mowa w ust. 1a, w tym zasady ich rozliczania;
-- **6)** termin zwrotu:
-    - **a)** niewykorzystanej części dotacji oraz środków z Funduszu Pracy – nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania,
-    - **b)** niewykorzystanej części środków, o których mowa w ust. 1a pkt 3 i 4 – nie dłuższy niż 14 dni od określonego w umowie dnia zakończenia zadania;
+W celu weryfikacji spełnienia warunków, o których mowa w ust. 1, u kandydata na dziennego opiekuna może być przeprowadzony przez kierownika ośrodka pomocy społecznej wywiad środowiskowy. Wywiad środowiskowy jest przeprowadzany na zlecenie wójta, burmistrza lub prezydenta miasta.
 
-- **7)** tryb kontroli wykonania zadania, przy czym w umowie można postanowić, że kontrola będzie prowadzona na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej;
-- **8)** warunki i sposób zmiany oraz rozwiązania umowy, w tym zasady zwrotu środków finansowych, o których mowa w ust. 1a.
+### Art. 40.
 
-6a. Wojewoda może przyznawać dofinansowanie do wysokości łącznej kwoty wydatków określonych przez ministra właściwego do spraw rodziny na cały okres realizacji programu, o którym mowa w ust. 1.
+Dzienny opiekun prowadzący zajęcia z dziećmi nad którymi sprawuje opiekę współpracuje z rodzicami tych dzieci, w szczególności przez:
 
-6b. Do terminu zwrotu środków, o których mowa w ust. 1a pkt 3, stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 189 ust. 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### 1)
 
-7. Do środków z Funduszu Pracy stosuje się odpowiednio art. 57, art. 168 i art. 169 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, z tym że organem właściwym do umarzania, odraczania terminów lub rozkładania na raty spłat należności Funduszu Pracy, a także wydania decyzji o zwrocie w związku z niewykorzystaniem środków, wykorzystaniem środków niezgodnie z przeznaczeniem albo pobrania ich nienależnie lub w nadmiernej wysokości, jest wojewoda.
+korzystanie z pomocy rodziców w sprawowaniu opieki nad dziećmi w czasie prowadzenia zajęć;
 
-7a. Organem właściwym do umarzania, odraczania terminów lub rozkładania na raty spłat należności pochodzących ze środków europejskich, a także wydania decyzji o zwrocie środków, o których mowa w ust. 1a pkt 3 i 4, w związku z niewykorzystaniem środków, wykorzystaniem środków niezgodnie z przeznaczeniem, wykorzystaniem środków z naruszeniem procedur obowiązujących przy ich wykorzystaniu, nienależnym pobraniem środków lub pobraniem środków w nadmiernej wysokości oraz decyzji o odpowiedzialności osób trzecich na podstawie ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, 497, 621 i 622), jest wojewoda.
+### 2)
 
-7b. Organem odwoławczym od decyzji wydanej przez wojewodę jest minister właściwy do spraw rodziny.
+prowadzenie konsultacji i udzielanie porad rodzicom w zakresie pracy z dziećmi.
 
-8. Środki Funduszu Pracy:
+### Art. 41.
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** niewykorzystane,
-- **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi na rachunek dysponenta Funduszu Pracy.
+### 1.
 
-8a. (uchylony)
+Dzienny opiekun podlega obowiązkowi ubezpieczenia od odpowiedzialności cywilnej za szkody wyrządzone przy sprawowaniu opieki.
 
-9. Środki Funduszu Pracy, o których mowa w ust. 8 pkt 1, 3 i 4, podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych.
+### 2.
 
-10. Środki, o których mowa w ust. 1a pkt 3 i 4:
+Wójt, burmistrz lub prezydent miasta jest zobowiązany do zawarcia umowy ubezpieczenia dziennego opiekuna od odpowiedzialności cywilnej oraz opłacania i finansowania składki na to ubezpieczenie.
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** wykorzystane z naruszeniem procedur obowiązujących przy ich wykorzystaniu,
-- **3)** pobrane nienależnie,
-- **4)** pobrane w nadmiernej wysokości – podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, na wskazany w tej decyzji rachunek bankowy.
+### 3.
 
-11. W przypadku stwierdzenia okoliczności, o których mowa w ust. 10, wojewoda wzywa do zwrotu środków w terminie 14 dni od dnia doręczenia wezwania.
+Wójt, burmistrz lub prezydent miasta zawiera umowę, o której mowa w ust. 2, na zasadach określonych w ustawie z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych ([Dz. U. z 2010 r. Nr 113, poz. 759](https://api.sejm.gov.pl/eli/acts/DU/2010/759/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13 i Nr 28, poz. 143.](#gloss-0:2:)).
 
-12. Po bezskutecznym upływie terminu, o którym mowa w ust. 11, wojewoda wydaje decyzję określającą kwotę przypadającą do zwrotu i nie dłuższy niż 14 dni od dnia doręczenia decyzji termin zwrotu, po upływie którego nalicza się odsetki, a także pouczenie o sankcji wynikającej z ust. 13, z zastrzeżeniem ust. 16. Decyzji nie wydaje się, jeżeli dokonano zwrotu środków przed jej wydaniem.
+### Art. 42.
 
-13. W przypadku, o którym mowa w ust. 10, podmiot, o którym mowa w art. 8 ust. 1, korzystający z programów, o których mowa w ust. 1, zostaje wykluczony z możliwości otrzymania środków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, jeżeli w zakresie środków, o których mowa w ust. 1a pkt 3 i 4:
+### 1.
 
-- **1)** otrzymał płatność na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
-- **2)** nie zwrócił środków wraz z odsetkami w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 10, lub
-- **3)** okoliczności, o których mowa w ust. 10, wystąpiły wskutek popełnienia przestępstwa przez podmiot upoważniony do dokonywania wydatków, a w przypadku gdy podmiot ten nie jest osobą fizyczną – przez osobę uprawnioną do wykonywania czynności w imieniu podmiotu, przy czym fakt popełnienia przestępstwa przez wyżej wymieniony podmiot został potwierdzony prawomocnym wyrokiem sądowym.
+Dzienny opiekun sprawuje opiekę nad dziećmi w lokalu, do którego posiada tytuł prawny.
 
-14. Do spraw wykluczenia, o którym mowa w ust. 13, stosuje się odpowiednio art. 207 ust. 5–7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### 2.
 
-15. Do spraw dotyczących należności z tytułu zwrotu środków, o których mowa w ust. 1a, przeznaczonych na realizację programów, o których mowa w ust. 1, oraz innych należności związanych z realizacją tych programów, a także odsetek od tych środków i od tych należności, w zakresie nieuregulowanym w niniejszej ustawie stosuje się:
+Gmina może udostępnić lub wyposażyć lokal w celu sprawowania opieki przez dziennego opiekuna.
 
-- **1)** przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572);
-- **2)** odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, a w sprawach nieuregulowanych w tej ustawie przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+### Art. 43.
 
-**Art. 62a.**
+Maksymalną wysokość wynagrodzenia dziennego opiekuna oraz zasady jego ustalania określa, w drodze uchwały, rada gminy.
 
-1. Minister właściwy do spraw rodziny zapewnia system teleinformatyczny służący do realizacji ustawy przez gminę, wojewodę, ministra właściwego do spraw rodziny, podmioty zamierzające prowadzić żłobki lub kluby dziecięce, podmioty prowadzące żłobki lub kluby dziecięce, podmioty zatrudniające dziennych opiekunów oraz przez osoby, o których mowa w art. 36 ust. 1 pkt 1.
+### Art. 44.
 
-2. System teleinformatyczny, o którym mowa w ust. 1, służy w szczególności do:
+Rodzice są zobowiązani do ponoszenia opłat za pobyt oraz wyżywienie dzieci u dziennego opiekuna.
 
-- **1)** składania wniosku o wpis do rejestru przez podmiot zamierzający prowadzić żłobek lub klub dziecięcy;
-- **2)** składania wniosku o wpis do wykazu;
-- **3)** składania wniosku o zmianę lub wykreślenie z rejestru lub wykazu przez podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennych opiekunów oraz osobę, o której mowa w art. 36 ust. 1 pkt 1;
-- **4)** dokonywania przez gminę wpisu, zmiany oraz wykreślenia z rejestru lub wykazu;
-- **5)** dokonywania przez podmiot wpisany do rejestru lub wykazu samodzielnych zmian danych lub informacji, o których mowa odpowiednio w art. 27 ust. 4 pkt 5, 6, 8 i 10 lub art. 46 ust. 2 pkt 6–8;
-- **6)** sporządzania i przekazywania sprawozdań, o których mowa w art. 64, przez podmiot prowadzący żłobek lub klub dziecięcy, podmiot zatrudniający dziennego opiekuna, osobę, o której mowa w art. 36 ust. 1 pkt 1, oraz gminę;
-- **7)** weryfikacji przekazanych sprawozdań i sporządzenia zbiorczego sprawozdania przez gminę i wojewodę.
+### Art. 45.
 
-**Art. 63.**
+Wójt, burmistrz lub prezydent miasta wybiera dziennych opiekunów w drodze otwartego konkursu ofert, przeprowadzonego na zasadach określonych w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2010 r. Nr 234, poz. 1536](https://api.sejm.gov.pl/eli/acts/DU/2010/1536/text.html)).
 
-1. Gmina może otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu organizacji opieki nad dziećmi w wieku do lat 3 na zasadach określonych w przepisach o finansach publicznych.
+### Art. 46.
 
-2. (uchylony)
+### 1.
 
-**Art. 63a.**
+Wójt, burmistrz lub prezydent miasta prowadzi wykaz dziennych opiekunów, z którymi zawarł umowę.
 
-1. Rada Ministrów może przyjąć rządowy program dofinansowania wynagrodzeń oraz kosztów składek od tych wynagrodzeń pracowników określonych w tym programie, zatrudnionych w żłobkach lub klubach dziecięcych prowadzonych przez jednostki samorządu terytorialnego oraz dziennych opiekunów zatrudnionych przez jednostki samorządu terytorialnego.
+### 2.
 
-2. Dofinansowanie wynagrodzeń, o którym mowa w ust. 1, może być wypłacane także w formie dodatku motywacyjnego.
+Wykaz zawiera imię i nazwisko dziennych opiekunów, o których mowa w ust. 1.
 
-3. Program, o którym mowa w ust. 1, Rada Ministrów przyjmuje w drodze uchwały.
+### 3.
 
-4. Program, o którym mowa w ust. 1, jest finansowany z dotacji celowej z budżetu państwa.
+Wykaz jest jawny i podlega publikacji w Biuletynie Informacji Publicznej gminy prowadzącej wykaz.
 
-5. Do udzielania dotacji celowej z budżetu państwa na realizację programu, o którym mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+### Art. 47.
 
-6. Środki z programu, o którym mowa w ust. 1, przeznacza się w całości na zwiększenie wynagrodzeń oraz pokrycie kosztów składek od tych wynagrodzeń odpowiednio pracowników zatrudnionych w żłobkach lub klubach dziecięcych oraz dziennych opiekunów.
+W przypadku rozwiązania lub wygaśnięcia umowy z dziennym opiekunem następuje wykreślenie dziennego opiekuna z wykazu.
 
-7. Dofinansowanie, o którym mowa w ust. 1, nie stanowi podstawy naliczania świadczeń, odszkodowań i innych wypłat, wynikających z odrębnych przepisów, w tym dodatkowego wynagrodzenia rocznego i nagród rocznych.
+### Rozdział 5 Szkolenia
 
-**Art. 63b.**
+### Art. 48.
 
-1. Minister właściwy do spraw rodziny może opracowywać resortowe oraz rządowe programy dofinansowania zadań z zakresu organizacji opieki nad dziećmi w wieku do lat 3.
+### 1.
 
-2. Programy, o których mowa w ust. 1, kieruje się w szczególności do jednostek samorządu terytorialnego.
+Programy szkoleń, o których mowa w art. 16 ust. 2 pkt 2 i ust. 3, art. 17 ust. 2 oraz w art. 39 ust. 1 pkt 6, zatwierdza na wniosek podmiotu prowadzącego szkolenie, na okres 5 lat, minister właściwy do spraw rodziny.
 
-3. Programy, o których mowa w ust. 1, mogą być dofinansowane z dotacji celowej budżetu państwa oraz ze środków Funduszu Pracy.
+### 2.
 
-4. Do udzielania dotacji celowych z budżetu państwa na realizację zadań, o których mowa w ust. 1, nie stosuje się przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+Zatwierdzenie lub odmowa zatwierdzenia programów szkoleń następuje w drodze decyzji administracyjnej.
 
-**Art. 63c.**
+### 3.
 
-1. Minister właściwy do spraw rodziny może podejmować działania służące podnoszeniu jakości opieki sprawowanej nad dziećmi w wieku do lat 3 oraz rozwojowi instytucji opieki nad dziećmi w wieku do lat 3, a także inicjować promocję działań na rzecz opieki nad dziećmi w wieku do lat 3 oraz przeprowadzanie badań, ekspertyz i analiz dotyczących opieki nad dziećmi w wieku do lat 3.
+Listę programów szkoleń, o których mowa w ust. 1, udostępnia się w Biuletynie Informacji Publicznej.
 
-2. W celu realizacji zadań, o których mowa w ust. 1, minister właściwy do spraw rodziny może opracowywać resortowe oraz rządowe programy. Realizację zadań, o których mowa w ust. 1, minister właściwy do spraw rodziny może także zlecić w drodze konkursu ofert, o którym mowa w ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), lub zlecić na podstawie przepisów o zamówieniach publicznych.
+### Art. 49.
 
-3. Wydatki na realizację zadań, o których mowa w ust. 1, w tym koszty obsługi tych zadań, są finansowane z budżetu państwa oraz ze środków Funduszu Pracy.
+Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, zakres programów szkoleń, biorąc pod uwagę specyfikę zadań opiekuńczych, wychowawczych i edukacyjnych żłobka, klubu dziecięcego oraz dziennego opiekuna, mając na uwadze konieczność zapewnienia odpowiedniego poziomu realizacji tych zadań.
 
-4. Realizacja zadań, o których mowa w ust. 1, może odbywać się we współpracy z wojewodą.
+### Rozdział 6 Niania
 
-5. W celu realizacji zadań, o których mowa w ust. 1, Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+### Art. 50.
 
-6. Do udzielania dotacji celowych na realizację zadań, o których mowa w ust. 1, przepisów art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych nie stosuje się.
+### 1.
 
-**Art. 64.**
+Nianią jest osoba fizyczna sprawująca opiekę nad dziećmi na podstawie umowy o świadczenie usług, do której zgodnie z przepisami Kodeksu cywilnego stosuje się przepisy dotyczące zlecenia, zwanej dalej „umową uaktywniającą”.
 
-1. Podmioty prowadzące żłobki lub kluby dziecięce, podmioty zatrudniające dziennego opiekuna oraz osoby, o których mowa w art. 36 ust. 1 pkt 1, są zobowiązane do sporządzania sprawozdań z zakresu opieki nad dziećmi w wieku do lat 3.
+### 2.
 
-2. Sprawozdania, o których mowa w ust. 1, z zakresu opieki nad dziećmi w wieku do lat 3:
+Niania sprawuje opiekę nad dziećmi w wieku od ukończenia 20 tygodnia życia.
 
-- **1)** organizowanej przez gminę – gmina przekazuje wojewodzie,
-- **2)** organizowanej przez podmioty inne niż gmina – podmioty te przekazują gminie, a gmina przekazuje zbiorcze sprawozdanie wojewodzie – w postaci elektronicznej, za pomocą systemu teleinformatycznego, o którym mowa w art. 62a.
+### 3.
 
-3. Wojewoda sporządza zbiorcze sprawozdanie z zakresu opieki nad dziećmi w wieku do lat 3 i przekazuje je, w postaci elektronicznej, za pomocą systemu teleinformatycznego, o którym mowa w art. 62a, ministrowi właściwemu do spraw rodziny.
+Umowa uaktywniająca jest zawierana w formie pisemnej między nianią a rodzicami albo rodzicem samotnie wychowującym dziecko.
 
-4. W sprawozdaniach, o których mowa w ust. 1, przekazywane są następujące dane:
+### 4.
 
-- **1)** liczba osób zatrudnionych w żłobku lub klubie dziecięcym według stanowiska pracy, z uwzględnieniem informacji o ich płci, a w przypadku pielęgniarek i położnych również o tym, czy dla tych osób jest to główne miejsce pracy;
-- **1a)** liczba wolontariuszy udzielających w danym roku pomocy instytucji opieki nad dziećmi w wieku do lat 3;
-- **2)** informacja o niezaspokojonym zapotrzebowaniu na miejsca opieki w żłobku, klubie dziecięcym lub u dziennego opiekuna;
-- **3)** informacja o połączeniu żłobków lub klubów dziecięcych w zespoły ze wskazaniem poszczególnych form opieki nad dziećmi w wieku do lat 3 i ich liczby;
-- **4)** informacja o zorganizowaniu wspólnej obsługi administracyjnej, finansowej i organizacyjnej żłobków, klubów dziecięcych lub ich zespołów, w tym informacja o wykonywaniu tej obsługi przez jednostki, o których mowa w art. 10 ust. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
-- **5)** wysokość otrzymywanych dotacji ze środków publicznych, w tym ze środków Unii Europejskiej, oraz liczbę dzieci lub miejsc objętych dofinansowaniem;
-- **6)** wysokość wydatków ponoszonych przez jednostki samorządu terytorialnego na zapewnienie funkcjonowania miejsc opieki, bez wydatków inwestycyjnych i wydatków na remonty, w prowadzonych przez nie instytucjach opieki oraz liczbę miejsc opieki w roku, na którą ponoszone są te wydatki;
-- **6a)** wysokość wydatków ponoszonych przez instytucje publiczne;
-- **7)** liczba dzieci, z uwzględnieniem informacji o ich wieku i płci;
-- **8)** liczba dzieci niepełnosprawnych lub wymagających szczególnej opieki;
-- **9)** czas otwarcia instytucji opieki nad dziećmi w wieku do lat 3;
-- **10)** łączna liczba dni pobytu wszystkich dzieci przebywających w placówce w roku sprawozdawczym;
-- **11)** informacja, czy żłobek, klub dziecięcy lub dzienny opiekun funkcjonuje jako przyzakładowa instytucja opieki nad dziećmi w wieku do lat 3;
-- **12)** informacja o wysokości wynagrodzeń w żłobku lub klubie dziecięcym osób zatrudnionych na stanowisku opiekuna lub sprawujących opiekę jako dzienny opiekun;
-- **13)** informacja o kwalifikacjach osób zatrudnionych w żłobku lub klubie dziecięcym na stanowisku opiekuna lub sprawujących opiekę jako dzienny opiekun.
+Umowa uaktywniająca określa w szczególności:
 
-5. Podmioty inne niż gmina prowadzące żłobki lub kluby dziecięce, zatrudniające dziennego opiekuna oraz osoby, o których mowa w art. 36 ust. 1 pkt 1, przekazują właściwej gminie sprawozdania za okres od dnia 1 stycznia do dnia 31 grudnia – w terminie do dnia 31 stycznia roku następnego. Gmina przekazuje wojewodzie sprawozdania z zakresu sprawowanej przez siebie opieki nad dziećmi w wieku do lat 3 za okres od dnia 1 stycznia do dnia 31 grudnia oraz zbiorcze sprawozdania z zakresu opieki nad dziećmi w wieku do lat 3 organizowanej przez podmioty inne niż gmina – w terminie do dnia 14 lutego każdego roku.
+### 1)
 
-6. Wojewoda przekazuje ministrowi właściwemu do spraw rodziny zbiorcze sprawozdanie w terminie do dnia 28 lutego każdego roku.
+strony umowy;
 
-**Art. 64a.**
+### 2)
 
-1. Gmina jest zobowiązana do przekazywania podlegających ujawnieniu danych z rejestru oraz z wykazu wojewodzie i ministrowi właściwemu do spraw rodziny za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 62a.
+cel i przedmiot umowy;
 
-2. Minister właściwy do spraw rodziny publikuje dane, o których mowa w ust. 1, na stronach internetowych ministerstwa. Art. 64aa. Informacje zawarte w rejestrze oraz wykazie udostępnia się, w zakresie niezbędnym do realizacji zadań ustawowych, Zakładowi Ubezpieczeń Społecznych – w celu udzielenia świadczeń „aktywnie w żłobku” oraz „aktywni rodzice w pracy”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic”, realizacji prawa do tych świadczeń, a także monitorowania realizacji tych praw.
+### 3)
 
-**Art. 64b.**
+czas i miejsce sprawowania opieki;
 
-1. Żłobki i kluby dziecięce oraz prowadzące je podmioty są zwolnione z opłat z tytułu trwałego zarządu, użytkowania i użytkowania wieczystego nieruchomości stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego i ich związków, zajętych na działalność związaną z prowadzeniem żłobka lub klubu dziecięcego.
+### 4)
 
-2. Żłobki i kluby dziecięce oraz prowadzące je podmioty są zwolnione z podatku od nieruchomości w zakresie nieruchomości zajętych na prowadzenie żłobka lub klubu dziecięcego, na zasadach określonych w przepisach o podatkach i opłatach lokalnych.
+liczbę dzieci powierzonych opiece;
 
-#### Rozdział 8a (uchylony)
+### 5)
 
-#### Rozdział 9 Zmiany w przepisach obowiązujących
+obowiązki niani;
 
-**Art. 65.** (pominięty)
+### 6)
 
-**Art. 66.** (pominięty)
+wysokość wynagrodzenia oraz sposób i termin jego wypłaty;
 
-**Art. 67.** (pominięty)
+### 7)
 
-**Art. 68.** (pominięty)
+czas, na jaki umowa została zawarta;
 
-**Art. 69.** (pominięty)
+### 8)
 
-**Art. 70.** (pominięty)
+warunki i sposób zmiany, a także rozwiązania umowy.
 
-**Art. 71.** (pominięty)
+### 5.
 
-**Art. 72.** (pominięty)
+Przez rodzica samotnie wychowującego dziecko rozumie się rodzica będącego panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem albo rodzica, w stosunku do którego orzeczono separację w rozumieniu odrębnych przepisów, a także rodzica pozostającego w związku małżeńskim, jeżeli jego małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności.
 
-**Art. 73.** (pominięty)
+### Art. 51.
 
-**Art. 74.** (pominięty)
+### 1.
 
-#### Rozdział 10 Przepisy epizodyczne i przejściowe
+Za nianię, składki na ubezpieczenia emerytalne, rentowe i wypadkowe oraz na ubezpieczenie zdrowotne, opłaca:
 
-**Art. 74a.**
+### 1)
 
-1. W roku 2020, nie później niż do dnia 20 grudnia 2020 r., minister właściwy do spraw pracy, dla wydatków ponoszonych ze środków Funduszu Pracy w roku 2020 na realizację programu rozwoju instytucji opieki nad dziećmi w wieku do lat 3 „MALUCH+” ustanowionego na podstawie art. 62 ust. 1 może określić, w drodze decyzji, termin ich wykorzystania, nie dłuższy niż do dnia 30 listopada 2021 r., oraz kwotę wydatków planowaną do realizacji w roku 2021.
+Zakład Ubezpieczeń Społecznych - od podstawy stanowiącej kwotę nie wyższą niż wysokość minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę,
 
-2. Warunkiem przedłużenia terminu wykorzystania środków Funduszu Pracy na wydatki, o których mowa w ust. 1, jest uzyskanie, na uzasadniony wniosek beneficjenta programu, zgody wojewody na zmianę terminu wykonania zadania.
+### 2)
 
-3. Zgoda, o której mowa w ust. 2, jest przekazywana do ministra właściwego do spraw pracy w terminie do dnia 30 listopada 2020 r.
+rodzic (płatnik składek) - od podstawy stanowiącej kwotę nadwyżki nad kwotą minimalnego wynagrodzenia
 
-4. Środki finansowe na wydatki ujęte w decyzji, o której mowa w ust. 1, pozostają na rachunkach bankowych podmiotów, o których mowa w art. 8 ust. 1, korzystających z programu, o którym mowa w ust. 1.
+- na zasadach określonych w przepisach o systemie ubezpieczeń społecznych oraz w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 74b.**
+### 2.
 
-1. W roku 2021, nie później niż do dnia 20 grudnia 2021 r., minister właściwy do spraw pracy, dla wydatków ponoszonych ze środków Funduszu Pracy w roku 2021 na realizację programu rozwoju instytucji opieki nad dziećmi w wieku do lat 3 „MALUCH+” ustanowionego na podstawie art. 62 ust. 1 może określić, w drodze decyzji, termin ich wykorzystania, nie dłuższy niż do dnia 30 listopada 2022 r., oraz kwotę wydatków planowaną do realizacji w roku 2022.
+Za nianię, która przystąpiła dobrowolnie na swój wniosek do ubezpieczenia chorobowego, składki na to ubezpieczenie opłaca rodzic na zasadach określonych dla zleceniobiorców w przepisach o systemie ubezpieczeń społecznych.
 
-2. Warunkiem przedłużenia terminu wykorzystania środków Funduszu Pracy na wydatki, o których mowa w ust. 1, jest uzyskanie, na uzasadniony wniosek beneficjenta programu, zgody wojewody na zmianę terminu wykonania zadania.
+### 3.
 
-3. Zgoda, o której mowa w ust. 2, jest przekazywana do ministra właściwego do spraw pracy w terminie do dnia 30 listopada 2021 r.
+Zakład Ubezpieczeń Społecznych opłaca składki, w przypadku gdy spełnione są łącznie następujące warunki:
 
-4. Środki finansowe na wydatki ujęte w decyzji, o której mowa w ust. 1, pozostają na rachunkach bankowych podmiotów, o których mowa w art. 8 ust. 1, korzystających z programu, o którym mowa w ust. 1.
+### 1)
 
-**Art. 75.**
+niania została zgłoszona przez rodzica do ubezpieczeń społecznych i ubezpieczenia zdrowotnego;
 
-1. Żłobki działające na podstawie przepisów ustawy, o której mowa w art. 66 , stają się żłobkami w rozumieniu niniejszej ustawy z dniem jej wejścia w życie.
+### 2)
 
-2. Podmioty prowadzące do dnia wejścia w życie niniejszej ustawy działalność gospodarczą, polegającą na sprawowaniu opieki nad dziećmi, mogą prowadzić tę działalność na podstawie dotychczasowych przepisów, nie dłużej jednak niż przez okres 3 lat od dnia wejścia w życie niniejszej ustawy.
+rodzice albo rodzic samotnie wychowujący dziecko są zatrudnieni, świadczą usługi na podstawie umowy cywilnoprawnej stanowiącej tytuł do ubezpieczeń społecznych lub prowadzą pozarolniczą działalność;
 
-3. Po upływie terminu, o którym mowa w ust. 2, podmioty prowadzące do dnia wejścia w życie niniejszej ustawy działalność gospodarczą, polegającą na sprawowaniu opieki nad dziećmi mogą prowadzić żłobek lub klub dziecięcy, jeżeli spełniają warunki określone w niniejszej ustawie.
+### 3)
 
-**Art. 76.**
+dziecko nie jest umieszczone w żłobku, klubie dziecięcym oraz nie zostało objęte opieką sprawowaną przez dziennego opiekuna.
 
-1. Pracownicy żłobków, działających na podstawie przepisów dotychczasowych, stają się z mocy prawa pracownikami żłobków w rozumieniu niniejszej ustawy. Przepisy art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465) stosuje się.
+### 4.
 
-2. Do pracowników żłobków zatrudnionych do dnia wejścia w życie ustawy w:
+W przypadku utraty przez rodziców albo rodzica samotnie wychowującego dziecko zatrudnienia, zaprzestania świadczenia usług lub działalności, o których mowa w ust. 3 pkt 2, składki opłaca się przez okres 3 miesięcy od dnia zaistnienia tych przyczyn.
 
-- **1)** publicznych zakładach opieki zdrowotnej, stosuje się przepisy o pracownikach samorządowych;
-- **2)** niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy.
+### 5.
 
-3. Osoby zatrudnione do opieki w żłobkach, działających na podstawie przepisów dotychczasowych, nie są zobowiązane do odbycia szkoleń, o których mowa w niniejszej ustawie.
+Zakład Ubezpieczeń Społecznych nie opłaca składek, w przypadku gdy:
 
-4. Osoby zatrudnione do opieki w żłobkach, działających na podstawie przepisów dotychczasowych, nieposiadające średniego wykształcenia, a pozostające w zatrudnieniu w dniu wejścia w życie niniejszej ustawy, są zobowiązane do jego uzupełnienia w okresie 3 lat od dnia wejścia w życie tej ustawy.
+### 1)
 
-**Art. 77.** Pielęgniarki i położne zatrudnione w dniu wejścia w życie niniejszej ustawy w żłobku, działającym na podstawie przepisów dotychczasowych, i zatrudnione na stanowisku opiekunki w żłobku w rozumieniu przepisów niniejszej ustawy, przez okres zatrudnienia, zachowują prawo wykonywania zawodu pielęgniarki lub położnej, nie dłużej jednak niż przez okres 15 lat.
+rodzic dziecka korzysta z ulgi na podstawie umowy aktywizacyjnej, o której mowa w art. 61c ust. 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy w brzmieniu obowiązującym przed dniem 26 października 2007 r., z osobą bezrobotną w celu wykonywania pracy zarobkowej w gospodarstwie domowym lub
 
-**Art. 78.** (pominięty)
+### 2)
 
-#### Rozdział 11 Przepis końcowy
+umowa uaktywniająca została zawarta między nianią a osobami pełniącymi funkcję rodziny zastępczej zawodowej.
 
-**Art. 79.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia , z wyjątkiem:
+### Art. 52.
 
+Rodzic (płatnik składek) zobowiązany jest do niezwłocznego informowania Zakładu Ubezpieczeń Społecznych o każdej zmianie mającej wpływ na opłacanie składek, w szczególności o rozwiązaniu lub wygaśnięciu umowy uaktywniającej.
+
+### Art. 53.
+
+### 1.
+
+Zakład Ubezpieczeń Społecznych przekazuje ministrowi właściwemu do spraw rodziny informacje o liczbie zgłoszonych do ubezpieczeń społecznych lub do ubezpieczenia zdrowotnego niań w poszczególnych miesiącach.
+
+### 2.
+
+Informacje, o których mowa w ust. 1, Zakład Ubezpieczeń Społecznych przekazuje w terminach:
+
+### 1)
+
+do 25 lutego za okres od 1 lipca do 31 grudnia;
+
+### 2)
+
+do 25 sierpnia za okres od 1 stycznia do 30 czerwca.
+
+### Rozdział 7 Nadzór nad żłobkami, klubami dziecięcymi oraz dziennymi opiekunami
+
+### Art. 54.
+
+Wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia żłobka lub klubu dziecięcego albo miejsce sprawowania opieki przez dziennego opiekuna, sprawuje nadzór nad żłobkiem, klubem dziecięcym oraz dziennym opiekunem w zakresie warunków i jakości świadczonej opieki.
+
+### Art. 55.
+
+### 1.
+
+Nadzór sprawowany jest na podstawie planu nadzoru przyjętego przez radę gminy w drodze uchwały.
+
+### 2.
+
+W przypadku powzięcia informacji o nieprawidłowościach w organizacji i funkcjonowaniu żłobka, klubu dziecięcego lub sprawowanej opieki przez dziennego opiekuna, wójt, burmistrz lub prezydent miasta prowadzi czynności nadzorcze także poza planem nadzoru, o którym mowa w ust. 1.
+
+### Art. 56.
+
+### 1.
+
+Czynności nadzorczych dokonują osoby upoważnione przez wójta, burmistrza lub prezydenta miasta, zwane dalej „osobami upoważnionymi”.
+
+### 2.
+
+Osoby upoważnione są uprawnione w szczególności do:
+
+### 1)
+
+wstępu na teren nieruchomości, obiektu, lokalu lub ich części w dniach i godzinach, w których działalność jest wykonywana lub powinna być wykonywana;
+
+### 2)
+
+żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek z przedmiotem nadzoru;
+
+### 3)
+
+dostępu do dokumentacji pracowniczej osób zatrudnionych w nadzorowanych żłobkach lub klubach dziecięcych.
+
+### Art. 57.
+
+### 1.
+
+W przypadku stwierdzenia, że podmiot prowadzący żłobek lub klub dziecięcy albo dzienny opiekun nie spełnia standardów dotyczących sprawowanej opieki, organ sprawujący nadzór zobowiązuje go do usunięcia stwierdzonych nieprawidłowości w wyznaczonym terminie.
+
+### 2.
+
+Podmiot prowadzący żłobek lub klub dziecięcy albo dzienny opiekun ma prawo zgłoszenia na piśmie umotywowanych zastrzeżeń do ustaleń organu sprawującego nadzór, w terminie 7 dni od dnia otrzymania informacji o stwierdzonych nieprawidłowościach.
+
+### 3.
+
+W razie nieuwzględnienia zastrzeżeń, w całości lub w części, organ sprawujący nadzór sporządza stanowisko na piśmie i przekazuje je podmiotowi prowadzącemu żłobek lub klub dziecięcy albo dziennemu opiekunowi.
+
+### 4.
+
+W celu zbadania, czy i w jakim zakresie są realizowane zalecenia pokontrolne organ sprawujący nadzór może prowadzić czynności sprawdzające.
+
+### 5.
+
+W przypadku nieusunięcia w wyznaczonym terminie nieprawidłowości, wójt, burmistrz lub prezydent miasta wykreśla z rejestru żłobek lub klub dziecięcy albo rozwiązuje umowę z dziennym opiekunem bez zachowania okresu wypowiedzenia.
+
+### Rozdział 8 Finansowanie i zlecanie zadań z zakresu opieki
+
+### Art. 58.
+
+### 1.
+
+Wysokość opłaty oraz opłaty, o której mowa w art. 12 ust. 3, za pobyt dziecka w żłobku lub klubie dziecięcym utworzonym przez gminę albo u dziennego opiekuna oraz maksymalną wysokość opłaty za wyżywienie ustala rada gminy w drodze uchwały.
+
+### 2.
+
+W przypadku utworzenia żłobka lub klubu dziecięcego przez podmioty, o których mowa w art. 8 ust. 1 pkt 2 i 3, wysokość opłat określa podmiot, który utworzył żłobek lub klub dziecięcy.
+
+### Art. 59.
+
+### 1.
+
+Opłaty, o których mowa w art. 58 ust. 1, wnoszone przez rodziców z tytułu korzystania ze żłobka i klubu dziecięcego utworzonych przez gminę oraz z usług dziennego opiekuna, są wnoszone na rzecz gminy.
+
+### 2.
+
+Rada gminy może określić, w drodze uchwały, warunki częściowego lub całkowitego zwolnienia od ponoszenia opłat.
+
+### Art. 60.
+
+### 1.
+
+Podmioty, o których mowa w art. 8 ust. 1, prowadzące żłobek lub klub dziecięcy mogą otrzymać na każde dziecko objęte opieką w żłobku lub klubie dziecięcym dotację celową z budżetu gminy.
+
+### 2.
+
+Wysokość i zasady ustalania dotacji celowej, o której mowa w ust. 1, określa rada gminy w drodze uchwały.
+
+### Art. 61.
+
+### 1.
+
+Wójt, burmistrz lub prezydent miasta może zlecić organizację opieki sprawowanej w formie żłobka lub klubu dziecięcego albo przez dziennych opiekunów.
+
+### 2.
+
+Do wyłaniania podmiotów mających organizować opiekę, o której mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+
+### Art. 62.
+
+Minister właściwy do spraw rodziny opracowuje resortowe oraz rządowe programy rozwoju instytucji opieki nad dziećmi w wieku do lat 3 oraz finansowo wspiera te programy.
+
+### Art. 63.
+
+### 1.
+
+Gminy mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych z zakresu organizacji opieki nad dziećmi w wieku do lat 3, przy czym wysokość dotacji nie może przekroczyć 50% kosztów realizacji zadania.
+
+### 2.
+
+Gminy mogą otrzymywać dotacje celowe z budżetu państwa na dofinansowanie zadań własnych, z zakresu organizacji opieki nad niepełnosprawnymi lub wymagającymi szczególnej opieki dziećmi w wieku do lat 3, przy czym wysokość dotacji nie może przekroczyć 70% kosztów realizacji zadania.
+
+### Art. 64.
+
+### 1.
+
+Gmina jest zobowiązana do sporządzania sprawozdań rzeczowo-finansowych z zakresu opieki nad dziećmi w wieku do lat 3 i przekazywania ich właściwemu wojewodzie, w wersji elektronicznej.
+
+### 2.
+
+Systemy teleinformatyczne stosowane w urzędach administracji publicznej realizujących zadania w zakresie określonym w ustawie stanowią integralne części systemów teleinformatycznych stosowanych do realizacji świadczeń rodzinnych określonych w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. z 2006 r. Nr 139, poz. 992](https://api.sejm.gov.pl/eli/acts/DU/2006/992/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654, z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706 oraz z 2010 r. Nr 50, poz. 301.](#gloss-0:3:)).
+
+### 3.
+
+Minister właściwy do spraw rodziny określi, w drodze rozporządzenia, wzór, terminy i sposób sporządzania sprawozdań rzeczowo-finansowych z wykonywania zadań z zakresu opieki nad dziećmi w wieku do lat 3, mając na uwadze potrzebę ujednolicenia informacji przekazywanych przez podmioty realizujące ustawę.
+
+### Rozdział 9 Zmiany w przepisach obowiązujących
+
+### Art. 65.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2010 r. Nr 51, poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2010/307/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 21 w ust. 1 po pkt 67 dodaje się pkt 67a w brzmieniu:
+
+„
+
+### 67a)
+
+świadczenia otrzymane z zakładowego funduszu świadczeń socjalnych, związane z pobytem dzieci osób uprawnionych do tych świadczeń w żłobkach lub klubach dziecięcych;
+
+” ;
+
+### 2)
+
+w art. 22:
+
+### a)
+
+w ust. 9 w pkt 5 kropkę zastępuje się średnikiem i dodaje pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uzyskanych na podstawie umowy, do której stosuje się przepisy prawa cywilnego dotyczące umowy zlecenia lub o dzieło - w wysokości 20% uzyskanego przychodu, z tym że koszty te oblicza się od przychodu pomniejszonego o potrącone przez płatnika lub opłacone przez podatnika w danym miesiącu składki na ubezpieczenia emerytalne i rentowe oraz na ubezpieczenie chorobowe, o których mowa w art. 26 ust. 1 pkt 2 lit. b, których podstawę wymiaru stanowi ten przychód.
+
+” ,
+
+### b)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Jeżeli podatnik udowodni, że koszty uzyskania przychodów były wyższe niż wynikające z zastosowania normy procentowej określonej w ust. 9 pkt 1-4 i pkt 6, koszty uzyskania przyjmuje się w wysokości kosztów faktycznie poniesionych.
+
+” ;
+
+### 3)
+
+w art. 44 po ust. 1b dodaje się ust. 1c-1f w brzmieniu:
+
+„
+
+### 1c.
+
+Podatnik uzyskujący przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, na podstawie umowy, do której stosuje się przepisy prawa cywilnego dotyczące umowy zlecenia lub o dzieło, może w ciągu roku podatkowego wpłacać zaliczki miesięczne, stosując do uzyskanego dochodu najniższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. Przy obliczaniu zaliczki podatnik może stosować wyższą stawkę podatkową określoną w skali, o której mowa w art. 27 ust. 1. Za dochód podlegający opodatkowaniu uważa się przychód uzyskany w danym miesiącu pomniejszony o koszty uzyskania określone w art. 22 ust. 9 pkt 6.
+
+### 1d.
+
+Podatnik, o którym mowa w ust. 1c, jeżeli dokonał w trakcie roku podatkowego wpłaty zaliczki jest obowiązany do wpłacania kolejnych zaliczek od dochodów uzyskanych z tego tytułu w następnych miesiącach, aż do końca tego roku podatkowego.
+
+### 1e.
+
+Zaliczkę obliczoną w sposób określony w ust. 1c zmniejsza się o kwotę składki na ubezpieczenie zdrowotne, o której mowa w art. 27b, zapłaconej w danym miesiącu ze środków podatnika.
+
+### 1f.
+
+Miesięczne zaliczki obliczone w sposób określony w ust. 1c i 1e podatnik jest obowiązany wpłacać, na rachunek urzędu skarbowego, którym kieruje właściwy naczelnik urzędu skarbowego, w terminie do 20 dnia miesiąca następującego po miesiącu, w którym uzyskał dochód, a za grudzień - w terminie złożenia zeznania podatkowego.
+
+” .
+
+### Art. 66.
+
+W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ([Dz. U. z 2007 r. Nr 14, poz. 89](https://api.sejm.gov.pl/eli/acts/DU/2007/89/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570, z 2009 r. Nr 19, poz. 100, Nr 76, poz. 641, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 219, poz. 1707 oraz z 2010 r. Nr 96, poz. 620, Nr 107, poz. 679 i Nr 230, poz. 1507.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 uchyla się pkt 7;
+
+### 2)
+
+uchyla się art. 32b;
+
+### 3)
+
+uchyla się art. 34b;
+
+### 4)
+
+w art. 44a w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W publicznych zakładach opieki zdrowotnej, z wyjątkiem publicznych zakładów opieki zdrowotnej utworzonych w celu określonym w art. 1 ust. 2 pkt 1, przeprowadza się konkurs na stanowisko: ” ;
+
+### 5)
+
+w art. 48a w ust. 1 uchyla się pkt 2.
+
+### Art. 67.
+
+W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych ([Dz. U. z 1996 r. Nr 70, poz. 335](https://api.sejm.gov.pl/eli/acts/DU/1996/335/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717, z 2002 r. Nr 135, poz. 1146, z 2003 r. Nr 213, poz. 2081, z 2005 r. Nr 249, poz. 2104, z 2007 r. Nr 69, poz. 467 i Nr 89, poz. 589, z 2008 r. Nr 86, poz. 522 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 157, poz. 1241.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Ustawa określa zasady tworzenia przez pracodawców zakładowego funduszu świadczeń socjalnych, zwanego dalej „Funduszem”, i zasady gospodarowania środkami tego Funduszu, przeznaczonego na finansowanie działalności socjalnej organizowanej na rzecz osób uprawnionych do korzystania z Funduszu, na dofinansowanie zakładowych obiektów socjalnych oraz na tworzenie zakładowych żłobków, klubów dziecięcych, przedszkoli oraz innych form wychowania przedszkolnego.
+
+” ;
+
+### 2)
+
+w art. 2:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+działalność socjalna - usługi świadczone przez pracodawców na rzecz różnych form wypoczynku, działalności kulturalno-oświatowej, sportowo-rekreacyjnej, opieki nad dziećmi w żłobkach, klubach dziecięcych, przedszkolach oraz innych formach wychowania przedszkolnego, udzielanie pomocy materialnej - rzeczowej lub finansowej, a także zwrotnej lub bezzwrotnej pomocy na cele mieszkaniowe na warunkach określonych umową,
+
+” ,
+
+### b)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+zakładowe obiekty socjalne - ośrodki wczasowe i kolonijne, domy wypoczynkowe, sanatoria, ogrody działkowe, obiekty sportowo-rekreacyjne, żłobki, kluby dziecięce i przedszkola oraz obiekty służące działalności kulturalnej,
+
+” ;
+
+### 3)
+
+w art. 5 po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Pracodawcy, którzy utworzyli zakładowy żłobek lub klub dziecięcy oraz przeznaczą na ten cel z odpisu podstawowego kwotę odpowiadającą 7,5 punktu procentowego tego odpisu mogą zwiększyć Fundusz na każdą zatrudnioną osobę o 7,5% przeciętnego wynagrodzenia miesięcznego, o którym mowa w ust. 2, pod warunkiem przeznaczenia całości tego zwiększenia na prowadzenie żłobka lub klubu dziecięcego.
+
+” .
+
+### Art. 68.
+
+W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2010 r. Nr 243, poz. 1623](https://api.sejm.gov.pl/eli/acts/DU/2010/1623/text.html) oraz z [2011 r. Nr 32, poz. 159](https://api.sejm.gov.pl/eli/acts/DU/2011/159/text.html)) w załączniku wprowadza się następujące zmiany:
+
+### 1)
+
+w tabeli w Kategorii obiektów budowlanych Kategoria IX otrzymuje brzmienie: „ Kategoria IX - budynki kultury, nauki i oświaty, jak: teatry, opery, kina, muzea, galerie sztuki, biblioteki, archiwa, domy kultury, budynki szkolne i przedszkolne, żłobki, kluby dziecięce, internaty, bursy i domy studenckie, laboratoria i placówki badawcze, stacje meteorologiczne i hydrologiczne, obserwatoria, budynki ogrodów zoologicznych i botanicznych ” ;
+
+### 2)
+
+w tabeli w Kategorii obiektów budowlanych Kategoria XI otrzymuje brzmienie: „ Kategoria XI - budynki służby zdrowia, opieki społecznej i socjalnej, jak: szpitale, sanatoria, hospicja, przychodnie, poradnie, stacje krwiodawstwa, lecznice weterynaryjne, domy pomocy i opieki społecznej, domy dziecka, domy rencisty, schroniska dla bezdomnych oraz hotele robotnicze ” .
+
+### Art. 69.
+
+W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej ([Dz. U. z 2009 r. Nr 151, poz. 1217](https://api.sejm.gov.pl/eli/acts/DU/2009/1217/text.html) i [Nr 219, poz. 1706](https://api.sejm.gov.pl/eli/acts/DU/2009/1706/text.html) oraz z [2010 r. Nr 238, poz. 1578](https://api.sejm.gov.pl/eli/acts/DU/2010/1578/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+zatrudnienie na stanowisku pielęgniarki w żłobku lub klubie dziecięcym, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)).
+
+” ;
+
+### 2)
+
+w art. 5 w ust. 3 w pkt 3 kropkę zastępuje się średnikiem i dodaje pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+zatrudnienie na stanowisku położnej w żłobku lub klubie dziecięcym, o których mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3.
+
+” .
+
+### Art. 70.
+
+W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2009 r. Nr 205, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2009/1585/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690 oraz z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725.](#gloss-0:7:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6:
+
+### a)
+
+po ust. 2c dodaje się ust. 2d w brzmieniu:
+
+„
+
+### 2d.
+
+Sposób opłacania składek na ubezpieczenia emerytalne, rentowe, chorobowe i wypadkowe osób świadczących pracę na podstawie umowy uaktywniającej, reguluje ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)).
+
+” ,
+
+### b)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Przepisu ust. 4 nie stosuje się do osób świadczących pracę na podstawie umowy uaktywniającej określonej w ustawie, o której mowa w ust. 2d.
+
+” ;
+
+### 2)
+
+w art. 16:
+
+### a)
+
+po ust. 1b dodaje się ust. 1c i 1d w brzmieniu:
+
+„
+
+### 1c.
+
+Składki na ubezpieczenia emerytalne, rentowe i wypadkowe osób świadczących pracę na podstawie umowy uaktywniającej określonej w ustawie, o której mowa w art. 6 ust. 2d, obliczone od podstawy, którą stanowi kwota nie wyższa niż kwota minimalnego wynagrodzenia za pracę ustalonego na podstawie odrębnych przepisów, finansuje budżet państwa za pośrednictwem Zakładu.
+
+### 1d.
+
+Składki na ubezpieczenia emerytalne, rentowe i wypadkowe osób świadczących pracę na podstawie umowy uaktywniającej określonej w ustawie, o której mowa w art. 6 ust. 2d, obliczone od podstawy stanowiącej kwotę nadwyżki nad kwotą określoną w ust. 1c opłaca płatnik składek na zasadach określonych dla składek za zleceniobiorców.
+
+” ;
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Składki na ubezpieczenie chorobowe podlegających temu ubezpieczeniu osób, wymienionych w ust. 1 pkt 1-4, 8, 9 i 11, oraz w ust. 1c finansują w całości, z własnych środków, sami ubezpieczeni.
+
+” ;
+
+### 3)
+
+w art. 17 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Składki na ubezpieczenia emerytalne i rentowe ubezpieczonych, o których mowa w art. 16 ust. 1c i 8:
+
+### 1)
+
+obliczają płatnicy składek;
+
+### 2)
+
+opłaca Zakład.
+
+” ;
+
+### 4)
+
+w art. 18 po ust. 5b dodaje się ust. 5c w brzmieniu:
+
+„
+
+### 5c.
+
+Podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe osób wykonujących umowę uaktywniającą określoną w ustawie, o której mowa w art. 6 ust. 2d, ustala się na zasadach określonych dla zleceniobiorców.
+
+” ;
+
+### 5)
+
+w art. 36 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Obowiązek zgłoszenia do ubezpieczeń społecznych osób określonych w art. 6 ust. 1 pkt 1-4, 6-9b, 11, 12, 18a-21, ust. 2, ust. 2a i 2d, duchownych będących członkami zakonów lub klasztorów oraz osób współpracujących, o których mowa w art. 8 ust. 11, należy do płatnika składek.
+
+” ;
+
+### 6)
+
+w art. 47:
+
+### a)
+
+ust. 2c otrzymuje brzmienie:
+
+„
+
+### 2c.
+
+Osoby, o których mowa w ust. 2a, 2b, 2d, 2e i 2f, są zwolnione z obowiązku składania deklaracji rozliczeniowej lub imiennych raportów miesięcznych za kolejny miesiąc, także wówczas, gdy zmiana w stosunku do miesiąca poprzedniego jest spowodowana wyłącznie zmianą minimalnego wynagrodzenia lub przeciętnego wynagrodzenia.
+
+” ,
+
+### b)
+
+po ust. 2e dodaje się ust. 2f w brzmieniu:
+
+„
+
+### 2f.
+
+Płatnik składek zgłaszający do ubezpieczenia wyłącznie osobę, o której mowa w art. 6 ust. 2d jest zwolniony z obowiązku składania deklaracji rozliczeniowej oraz imiennych raportów miesięcznych za kolejny miesiąc, jeżeli w ostatnio złożonej deklaracji rozliczeniowej zadeklarował do podstawy wymiaru składek na ubezpieczenia społeczne - kwotę w wysokości nie wyższej niż minimalne wynagrodzenie.
+
+” .
+
+### Art. 71.
+
+W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ([Dz. U. z 2009 r. Nr 167, poz. 1322](https://api.sejm.gov.pl/eli/acts/DU/2009/1322/text.html) oraz z [2010 r. Nr 257, poz. 1725](https://api.sejm.gov.pl/eli/acts/DU/2010/1725/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 3 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+wykonywania pracy na podstawie umowy uaktywniającej, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html));
+
+” ;
+
+### 2)
+
+w art. 5 ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+Zakład - w stosunku do prowadzących pozarolniczą działalność oraz współpracujących przy prowadzeniu takiej działalności w rozumieniu przepisów o systemie ubezpieczeń społecznych, a także w stosunku do wykonujących pracę na podstawie umowy uaktywniającej, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3;
+
+” .
+
+### Art. 72.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2008 r. Nr 69, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/2008/415/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706 oraz z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726.](#gloss-0:8:)) w art. 104 w ust. 1:
+
+### 1)
+
+w pkt 1 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+wykonujące pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny stosuje się przepisy dotyczące zlecenia, oraz za osoby z nimi współpracujące, z wyłączeniem osób świadczących pracę na podstawie umowy uaktywniającej, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)),
+
+” ;
+
+### 2)
+
+w pkt 3 w lit. h kropkę zastępuje się przecinkiem i dodaje lit. i w brzmieniu:
+
+„
+
+### i)
+
+osób świadczących pracę na podstawie umowy uaktywniającej, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3.
+
+” .
+
+### Art. 73.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 66 w ust. 1 w pkt 1 lit. e otrzymuje brzmienie:
+
+„
+
+### e)
+
+osobami wykonującymi pracę na podstawie umowy agencyjnej lub umowy zlecenia albo innej umowy o świadczenie usług, do której stosuje się przepisy Kodeksu cywilnego dotyczące zlecenia lub osobami z nimi współpracującymi,
+
+” ;
+
+### 2)
+
+w art. 81 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Podstawa wymiaru składki na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. e zatrudnionych jako niania, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)), sprawujących opiekę nad dziećmi na podstawie umowy uaktywniającej stanowi przychód, z zastrzeżeniem, że podstawę wymiaru składek na ubezpieczenie zdrowotne opłacanych przez Zakład Ubezpieczeń Społecznych ze środków budżetu państwa stanowi kwota nie wyższa niż wysokość minimalnego wynagrodzenia za pracę w danym roku kalendarzowym ustalona zgodnie z przepisami o minimalnym wynagrodzeniu za pracę.
+
+” ;
+
+### 3)
+
+w art. 85 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Za osobę wykonującą pracę na podstawie umowy zlecenia, umowy agencyjnej lub innej umowy o świadczenie usług oraz za osobę z nią współpracującą składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza zamawiający, z zastrzeżeniem art. 86 ust. 1 pkt 13a.
+
+” ;
+
+### 4)
+
+w art. 86 w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu:
+
+„
+
+### 13a)
+
+osób zatrudnionych jako niania, o której mowa w ustawie z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3, opłaca Zakład Ubezpieczeń Społecznych - od podstawy stanowiącej kwotę nie wyższą niż wysokość minimalnego wynagrodzenia za pracę ustalonego zgodnie z przepisami o minimalnym wynagrodzeniu za pracę;
+
+” .
+
+### Art. 74.
+
+W ustawie z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym ([Dz. U. Nr 164, poz. 1365](https://api.sejm.gov.pl/eli/acts/DU/2005/1365/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, z 2009 r. Nr 68, poz. 584, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 202, poz. 1553 oraz z 2010 r. Nr 57, poz. 359, Nr 75, poz. 471, Nr 96, poz. 620 i Nr 127, poz. 857.](#gloss-0:10:)) w art. 157 po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+„
+
+### 4a.
+
+Z zakładowych żłobków i klubów dziecięcych mogą korzystać dzieci studentów i uczestników studiów doktoranckich.
+
+### 4b.
+
+Opłaty, o których mowa w art. 58 ust. 2 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)), zwiększają zakładowy fundusz świadczeń socjalnych.
+
+” .
+
+### Rozdział 10 Przepisy przejściowe
+
+### Art. 75.
+
+### 1.
+
+Żłobki działające na podstawie przepisów ustawy, o której mowa w art. 66, stają się żłobkami w rozumieniu niniejszej ustawy z dniem jej wejścia w życie.
+
+### 2.
+
+Podmioty prowadzące do dnia wejścia w życie niniejszej ustawy działalność gospodarczą, polegającą na sprawowaniu opieki nad dziećmi, mogą prowadzić tę działalność na podstawie dotychczasowych przepisów, nie dłużej jednak niż przez okres 3 lat od dnia wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Po upływie terminu, o którym mowa w ust. 2, podmioty prowadzące do dnia wejścia w życie niniejszej ustawy działalność gospodarczą, polegającą na sprawowaniu opieki nad dziećmi mogą prowadzić żłobek lub klub dziecięcy, jeżeli spełniają warunki określone w niniejszej ustawie.
+
+### Art. 76.
+
+### 1.
+
+Pracownicy żłobków, działających na podstawie przepisów dotychczasowych, stają się z mocy prawa pracownikami żłobków w rozumieniu niniejszej ustawy. Przepisy art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181.](#gloss-0:11:)) stosuje się.
+
+### 2.
+
+Do pracowników żłobków zatrudnionych do dnia wejścia w życie ustawy w:
+
+### 1)
+
+publicznych zakładach opieki zdrowotnej, stosuje się przepisy o pracownikach samorządowych;
+
+### 2)
+
+niepublicznych zakładach opieki zdrowotnej, stosuje się przepisy Kodeksu pracy.
+
+### 3.
+
+Osoby zatrudnione do opieki w żłobkach, działających na podstawie przepisów dotychczasowych, nie są zobowiązane do odbycia szkoleń, o których mowa w niniejszej ustawie.
+
+### 4.
+
+Osoby zatrudnione do opieki w żłobkach, działających na podstawie przepisów dotychczasowych, nieposiadające średniego wykształcenia, a pozostające w zatrudnieniu w dniu wejścia w życie niniejszej ustawy, są zobowiązane do jego uzupełnienia w okresie 3 lat od dnia wejścia w życie tej ustawy.
+
+### Art. 77.
+
+Pielęgniarki i położne zatrudnione w dniu wejścia w życie niniejszej ustawy w żłobku, działającym na podstawie przepisów dotychczasowych, i zatrudnione na stanowisku opiekunki w żłobku w rozumieniu przepisów niniejszej ustawy, przez okres zatrudnienia, zachowują prawo wykonywania zawodu pielęgniarki lub położnej, nie dłużej jednak niż przez okres 15 lat.
+
+### Art. 78.
+
+W okresie 12 miesięcy od dnia ogłoszenia ustawy, płatnicy składek zobowiązani do przekazywania za osoby świadczące pracę na podstawie umowy uaktywniającej dokumentów, o których mowa w art. 47a ust. 1 ustawy wymienionej w art. 70, zobowiązani są do przekazywania tych dokumentów w formie dokumentu pisemnego według ustalonego wzoru.
+
+### Rozdział 11 Przepis końcowy
+
+### Art. 79.
+
+Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 6, który wchodzi w życie z dniem 1 stycznia 2013 r.;
+
+### 2)
+
+art. 50-53 i 70-73, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 6 miesięcy od dnia ogłoszenia;
+
+### 3)
+
+art. 62 i 63, które wchodzą w życie z dniem ogłoszenia;
+
+### 4)
+
+art. 64 ust. 2, który wchodzi w życie po upływie 12 miesięcy od dnia wejścia w życie ustawy.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawę z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych, ustawę z dnia 7 lipca 1994 r. - Prawo budowlane, ustawę z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej, ustawę z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, ustawę z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych, ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawę z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 161, poz. 1078 i Nr 182, poz. 1228 oraz z 2011 r. Nr 5, poz. 13 i Nr 28, poz. 143. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654, z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706 oraz z 2010 r. Nr 50, poz. 301. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 123, poz. 849, Nr 166, poz. 1172, Nr 176, poz. 1240 i Nr 181, poz. 1290, z 2008 r. Nr 171, poz. 1056 i Nr 234, poz. 1570, z 2009 r. Nr 19, poz. 100, Nr 76, poz. 641, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 219, poz. 1707 oraz z 2010 r. Nr 96, poz. 620, Nr 107, poz. 679 i Nr 230, poz. 1507. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717, z 2002 r. Nr 135, poz. 1146, z 2003 r. Nr 213, poz. 2081, z 2005 r. Nr 249, poz. 2104, z 2007 r. Nr 69, poz. 467 i Nr 89, poz. 589, z 2008 r. Nr 86, poz. 522 i Nr 237, poz. 1654 i 1656 oraz z 2009 r. Nr 157, poz. 1241. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690 oraz z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742, Nr 97, poz. 800, Nr 115, poz. 964, Nr 125, poz. 1035, Nr 127, poz. 1052, Nr 161, poz. 1278 i Nr 219, poz. 1706 oraz z 2010 r. Nr 28, poz. 146, Nr 81, poz. 531, Nr 238, poz. 1578, Nr 239, poz. 1593, Nr 254, poz. 1700 i Nr 257, poz. 1725 i 1726. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 144, poz. 1043 i Nr 227, poz. 1658, z 2007 r. Nr 80, poz. 542, Nr 120, poz. 818, Nr 176, poz. 1238 i 1240 i Nr 180, poz. 1280, z 2008 r. Nr 70, poz. 416, z 2009 r. Nr 68, poz. 584, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 202, poz. 1553 oraz z 2010 r. Nr 57, poz. 359, Nr 75, poz. 471, Nr 96, poz. 620 i Nr 127, poz. 857. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825, Nr 115, poz. 958, Nr 157, poz. 1241 i Nr 219, poz. 1704, z 2010 r. Nr 105, poz. 655, Nr 135, poz. 912, Nr 182, poz. 1228, Nr 224, poz. 1459, Nr 249, poz. 1655 i Nr 254, poz. 1700 oraz z 2011 r. Nr 36, poz. 181.

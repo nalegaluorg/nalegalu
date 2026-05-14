@@ -8,11 +8,9 @@ pos: 2459
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. 23 kwietnia 1964 – Kodeks cywilny (Dz. 2020 1740 2320 oraz
-
-*USTAWA grudnia zmianie – Kodeks cywilny, – Kodeks cywilnego oraz niektórych innych ustaw*
+# Ustawa z dnia 2 grudnia 2021 r. o zmianie ustawy - Kodeks cywilny, ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych oraz ustawę z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,52 +22,350 @@ domain: null
 | Data ogłoszenia | 2021-12-02 |
 | Data wydania | 2021-12-29 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002459) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2459/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/2459/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/2459) |
 
-1509) wprowadza następujące zmiany:
-1) 121 pkt 4 kropkę zastępuje średnikiem dodaje pkt 5 6 brzmieniu: „5) co roszczeń objętych umową mediację – przez czas trwania mediacji;
-6) co roszczeń objętych wnioskiem zawezwanie próby ugodowej – przez czas trwania pojednawczego.”;
-2) 123 § 1 uchyla pkt 3;
-3) 124 § otrzymuje brzmienie: „§ 2. razie przerwania przedawnienia przez czynność postępowaniu przed sądem innym organem powołanym rozpoznawania spraw egzekwowania roszczeń danego rodzaju albo przed sądem polubownym przedawnienie nie biegnie na nowo, dopóki postępowanie to nie zostanie zakończone.”;
-4) uchyla 159;
-5) 388:
-a) § 1 otrzymuje brzmienie: „§ 1. Jeżeli jedna ze stron, wyzyskując przymusowe położenie, niedołęstwo, niedoświadczenie brak dostatecznego rozeznania drugiej strony co przedmiotu umowy, zamian za swoje świadczenie przyjmuje albo zastrzega dla siebie dla osoby trzeciej świadczenie, którego wartość chwili zawarcia umowy przewyższa rażącym stopniu wartość jej własnego świadczenia, druga strona może według swego wyboru żądać zmniejszenia swego świadczenia zwiększenia należnego jej świadczenia albo unieważnienia umowy.”,
-b) po § 1 dodaje § 1 brzmieniu: „§ 1 . Jeżeli wartość świadczenia jednej ze stron chwili zawarcia umowy przewyższa co najmniej dwukrotnie wartość świadczenia wzajemnego, domniemywa się, że przewyższa je stopniu rażącym.”,
-c) § otrzymuje brzmienie: „§ 2. Uprawnienia określone § 1 wygasają upływem lat trzech od zawarcia umowy, a jeżeli stroną umowy jest konsument – upływem lat sześciu.”;
-6) 688 § 1 otrzymuje brzmienie: „§ 1. Za zapłatę czynszu innych należnych opłat odpowiadają solidarnie najemcą stale zamieszkujące nim osoby pełnoletnie, wyjątkiem pełnoletnich zstępnych pozostających na jego utrzymaniu, którzy nie są stanie utrzymać samodzielnie.”.
-2) część wspólna otrzymuje brzmienie: „– chwili wytoczenia powództwa, odniesieniu tego roszczenia, zostają zachowane skutki przewidziane dla czasu trwania mediacji.”.
-3. 8 września 2006 Państwowym Ratownictwie Medycznym (Dz. 2053) wprowadza następujące zmiany:
-1) 25b:
-a) ust. pkt 1 otrzymuje brzmienie: „1) ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo posiada kwalifikacje wymagane dla pielęgniarki systemu uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca co najmniej 3-letnie doświadczenie zakresie realizacji zadań na stanowisku dyspozytora medycznego.”,
-b) ust. 4 pkt 1 otrzymuje brzmienie: „1) ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo posiada kwalifikacje wymagane dla pielęgniarki systemu uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca co najmniej 2-letnie doświadczenie zakresie realizacji zadań na stanowisku dyspozytora medycznego.”;
-2) 26:
-a) ust. pkt 3 otrzymuje brzmienie: „3) posiada co najmniej 3-letnie doświadczenie realizacji zadań na stanowisku dyspozytora medycznego zespole ratownictwa medycznego, lotniczym zespole ratownictwa medycznego, szpitalnym oddziale ratunkowym, oddziale anestezjologii intensywnej terapii izbie przyjęć szpitala posiadającego oddział anestezjologii intensywnej terapii, oddział chorób wewnętrznych, oddział chirurgii ogólnej oraz oddział ortopedii ortopedii traumatologii;”,
-b) ust. 2b pkt otrzymuje brzmienie: „2) przez okres co najmniej 3 lat okresie ostatnich 4 lat była zatrudniona na stanowisku dyspozytora medycznego.”,
-c) ust. 2c pkt otrzymuje brzmienie: „2) przez okres co najmniej lat okresie ostatnich 3 lat była zatrudniona na stanowisku dyspozytora medycznego.”;
-3) 26b dodaje ust. 3 brzmieniu: „3. Z dyspozytorami medycznymi, których mowa 26, jest zawierana umowa pracę umowa cywilnoprawna. Do zatrudnienia dyspozytorów medycznych na podstawie umowy cywilnoprawnej nie stosuje przepisów 11 września 2019 – Prawo zamówień publicznych (Dz. 1129, 1598, 2054 2269).”;
-4) 29 ust. 6 pkt otrzymuje brzmienie: „2) ratownik medyczny pielęgniarka systemu, którzy ukończyli studia co najmniej pierwszego stopnia posiadają co najmniej 4-letnie doświadczenie pracy na stanowisku dyspozytora medycznego”.
-wysokości:”;
-2) ust. 5 zdanie pierwsze otrzymuje brzmienie: „Wniosek, którym mowa ust. 1, świadczeniodawca składa Narodowego Funduszu Zdrowia.”;
-3) ust. 9–13 otrzymują brzmienie: „9. Sprawozdanie, którym mowa ust. 8, sprawdzone pod względem merytorycznym formalno-rachunkowym, Prezes Narodowego Funduszu Zdrowia przekazuje na piśmie utrwalonym postaci elektronicznej ministrowi właściwemu spraw zdrowia wraz wnioskiem przekazanie środków, których mowa ust. 7, terminie 30 dni od złożenia wniosku, którym mowa ust. 1.
-10. Minister właściwy spraw zdrowia przekazuje Narodowemu Funduszowi Zdrowia środki, których mowa ust. 7, terminie 14 dni od przekazania sprawozdania, którym mowa ust. 9.
-11. przypadku konieczności dokonania przez Narodowy Fundusz Zdrowia korekty przekazanego sprawozdania udzielenia wyjaśnień dotyczących tego sprawozdania, termin, którym mowa ust. 10, ulega przedłużeniu, nie dłużej jednak niż 7 dni.
-12. Prezes Narodowego Funduszu Zdrowia terminie 30 dni od przekazania sprawozdania, którym mowa ust. 9, przekazuje ministrowi właściwemu spraw zdrowia rozliczenie otrzymanych środków, których mowa ust. 7.
-13. Niewykorzystaną część środków, których mowa ust. 7, Narodowy Fundusz Zdrowia zwraca terminie 45 dni od przekazania sprawozdania, którym mowa ust. 9.”.
-5. 16 lipca 2020 zmianie zawodach lekarza lekarza dentysty oraz niektórych innych ustaw (Dz. 1291, 1493, 2112, 2345 2401 oraz 2232) wprowadza następujące zmiany:
-1) 13 wyrazy „1 marca 2022 r.” zastępuje wyrazami „1 marca 2023 r.”;
-2) 14 wyrazy „1 stycznia 2022 r.” zastępuje wyrazami „1 stycznia 2023 r.”;
-3) 14b ust. 1–3 wyrazy „1 stycznia 2022 r.” zastępuje wyrazami „1 stycznia 2023 r.”;
-4) 19 wyrazy „1 marca 2022 r.” zastępuje wyrazami „1 marca 2023 r.”;
-5) 20 wyrazy „1 marca 2022 r.” zastępuje wyrazami „1 października 2022 r.”;
-6) 27 części wspólnej wyrazy „18 miesięcy” zastępuje wyrazami „28 miesięcy”.
-6. 27 listopada 2020 zmianie niektórych ustaw celu zapewnienia okresie ogłoszenia stanu zagrożenia epidemicznego stanu epidemii kadr medycznych (Dz. 2401 oraz 1104) 23 ust. 1 wyrazy „2021 r.” zastępuje wyrazami „2022 r.”.
-7. 17 listopada zmianie – Prawo szkolnictwie wyższym nauce oraz niektórych innych ustaw (Dz. 2232) wprowadza następujące zmiany:
-1) 7 pkt 5 lit. a tiret pierwszym, lit. d wyrazy „1 stycznia 2022 r.” zastępuje wyrazami „1 sierpnia 2022 r.”;
-2) 18:
-a) pkt 1 otrzymuje brzmienie: „1) 7 pkt 1 5, które wchodzą życie dniem 1 stycznia 2022 r.;”,
-b) po pkt 1 dodaje pkt 1a brzmieniu:
-11. Wniosek, którym mowa 15ea ust. 5 zmienianej 4, brzmieniu nadanym niniejszą ustawą, świadczeniodawca składa Narodowego Funduszu Zdrowia terminie 14 dni od wejścia życie ustawy.
-12. Ustawa wchodzi życie po upływie 6 miesięcy od ogłoszenia, wyjątkiem:
-1) 4 11, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) 3 5–7, które wchodzą życie dniem 1 stycznia 2022 Prezydent Rzeczypospolitej Polskiej: A. Duda
+## Treść ustawy
 
+### Art. 1.
+
+W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2020 r. poz. 1740](https://api.sejm.gov.pl/eli/acts/DU/2020/1740/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html) oraz [z 2021 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2021/1509/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 121 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 i 6 w brzmieniu:
+
+„
+
+### 5)
+
+co do roszczeń objętych umową o mediację - przez czas trwania mediacji;
+
+### 6)
+
+co do roszczeń objętych wnioskiem o zawezwanie do próby ugodowej - przez czas trwania postępowania pojednawczego.
+
+” ;
+
+### 2)
+
+w art. 123 w § 1 uchyla się pkt 3;
+
+### 3)
+
+w art. 124 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W razie przerwania przedawnienia przez czynność w postępowaniu przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym przedawnienie nie biegnie na nowo, dopóki postępowanie to nie zostanie zakończone.
+
+” ;
+
+### 4)
+
+uchyla się art. 159;
+
+### 5)
+
+w art. 388:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli jedna ze stron, wyzyskując przymusowe położenie, niedołęstwo, niedoświadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy, w zamian za swoje świadczenie przyjmuje albo zastrzega dla siebie lub dla osoby trzeciej świadczenie, którego wartość w chwili zawarcia umowy przewyższa w rażącym stopniu wartość jej własnego świadczenia, druga strona może według swego wyboru żądać zmniejszenia swego świadczenia lub zwiększenia należnego jej świadczenia albo unieważnienia umowy.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Jeżeli wartość świadczenia jednej ze stron w chwili zawarcia umowy przewyższa co najmniej dwukrotnie wartość świadczenia wzajemnego, domniemywa się, że przewyższa je w stopniu rażącym.
+
+” ,
+
+### c)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Uprawnienia określone w § 1 wygasają z upływem lat trzech od dnia zawarcia umowy, a jeżeli stroną umowy jest konsument - z upływem lat sześciu.
+
+” ;
+
+### 6)
+
+w art. 6881§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Za zapłatę czynszu i innych należnych opłat odpowiadają solidarnie z najemcą stale zamieszkujące z nim osoby pełnoletnie, z wyjątkiem pełnoletnich zstępnych pozostających na jego utrzymaniu, którzy nie są w stanie utrzymać się samodzielnie.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2021 r. poz. 1805](https://api.sejm.gov.pl/eli/acts/DU/2021/1805/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328.](#gloss-0:2:))wart. 1836w§ 3:
+
+### 1)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli w przypadkach, o których mowa w § 2, strona wytoczy powództwo o roszczenie, które było objęte wnioskiem o przeprowadzenie mediacji, w terminie trzech miesięcy od dnia: ” ;
+
+### 2)
+
+część wspólna otrzymuje brzmienie:
+
+„
+
+- - do chwili wytoczenia powództwa, w odniesieniu do tego roszczenia, zostają zachowane skutki przewidziane dla czasu trwania mediacji.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ([Dz. U. z 2021 r. poz. 2053](https://api.sejm.gov.pl/eli/acts/DU/2021/2053/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 25b:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca co najmniej 3-letnie doświadczenie w zakresie realizacji zadań na stanowisku dyspozytora medycznego.
+
+” ,
+
+### b)
+
+w ust. 4 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ukończyła co najmniej studia pierwszego stopnia na kierunku pielęgniarstwo i posiada kwalifikacje wymagane dla pielęgniarki systemu lub uzyskała co najmniej tytuł zawodowy licencjata wymagany dla ratownika medycznego, posiadająca co najmniej 2-letnie doświadczenie w zakresie realizacji zadań na stanowisku dyspozytora medycznego.
+
+” ;
+
+### 2)
+
+w art. 26:
+
+### a)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+posiada co najmniej 3-letnie doświadczenie w realizacji zadań na stanowisku dyspozytora medycznego lub w zespole ratownictwa medycznego, lotniczym zespole ratownictwa medycznego, szpitalnym oddziale ratunkowym, oddziale anestezjologii i intensywnej terapii lub w izbie przyjęć szpitala posiadającego oddział anestezjologii i intensywnej terapii, oddział chorób wewnętrznych, oddział chirurgii ogólnej oraz oddział ortopedii lub ortopedii i traumatologii;
+
+” ,
+
+### b)
+
+w ust. 2b pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przez okres co najmniej 3 lat w okresie ostatnich 4 lat była zatrudniona na stanowisku dyspozytora medycznego.
+
+” ,
+
+### c)
+
+w ust. 2c pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przez okres co najmniej 2 lat w okresie ostatnich 3 lat była zatrudniona na stanowisku dyspozytora medycznego.
+
+” ;
+
+### 3)
+
+w art. 26b dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Z dyspozytorami medycznymi, o których mowa w art. 26, jest zawierana umowa o pracę lub umowa cywilnoprawna. Do zatrudnienia dyspozytorów medycznych na podstawie umowy cywilnoprawnej nie stosuje się przepisów ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych ([Dz. U. z 2021 r. poz. 1129](https://api.sejm.gov.pl/eli/acts/DU/2021/1129/text.html), [1598](https://api.sejm.gov.pl/eli/acts/DU/2021/1598/text.html), [2054](https://api.sejm.gov.pl/eli/acts/DU/2021/2054/text.html) i [2269](https://api.sejm.gov.pl/eli/acts/DU/2021/2269/text.html)).
+
+” ;
+
+### 4)
+
+w art. 29 w ust. 6 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ratownik medyczny lub pielęgniarka systemu, którzy ukończyli studia co najmniej pierwszego stopnia i posiadają co najmniej 4-letnie doświadczenie w pracy na stanowisku dyspozytora medycznego
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. z 2021 r. poz. 2095](https://api.sejm.gov.pl/eli/acts/DU/2021/2095/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317 i 2368.](#gloss-0:3:)) w art. 15ea:
+
+### 1)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zobowiązanie, o którym mowa w ust. 1, ustalone według stanu na dzień 30 listopada 2021 r., jest finansowane w wysokości: ” ;
+
+### 2)
+
+w ust. 5 zdanie pierwsze otrzymuje brzmienie: „ Wniosek, o którym mowa w ust. 1, świadczeniodawca składa do Narodowego Funduszu Zdrowia. ” ;
+
+### 3)
+
+ust. 9-13 otrzymują brzmienie:
+
+„
+
+### 9.
+
+Sprawozdanie, o którym mowa w ust. 8, sprawdzone pod względem merytorycznym i formalno-rachunkowym, Prezes Narodowego Funduszu Zdrowia przekazuje na piśmie utrwalonym w postaci elektronicznej ministrowi właściwemu do spraw zdrowia wraz z wnioskiem o przekazanie środków, o których mowa w ust. 7, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
+
+### 10.
+
+Minister właściwy do spraw zdrowia przekazuje Narodowemu Funduszowi Zdrowia środki, o których mowa w ust. 7, w terminie 14 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9.
+
+### 11.
+
+W przypadku konieczności dokonania przez Narodowy Fundusz Zdrowia korekty przekazanego sprawozdania lub udzielenia wyjaśnień dotyczących tego sprawozdania, termin, o którym mowa w ust. 10, ulega przedłużeniu, nie dłużej jednak niż o 7 dni.
+
+### 12.
+
+Prezes Narodowego Funduszu Zdrowia w terminie 30 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9, przekazuje ministrowi właściwemu do spraw zdrowia rozliczenie otrzymanych środków, o których mowa w ust. 7.
+
+### 13.
+
+Niewykorzystaną część środków, o których mowa w ust. 7, Narodowy Fundusz Zdrowia zwraca w terminie 45 dni od dnia przekazania sprawozdania, o którym mowa w ust. 9.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw ([Dz. U. poz. 1291](https://api.sejm.gov.pl/eli/acts/DU/2020/1291/text.html), [1493](https://api.sejm.gov.pl/eli/acts/DU/2020/1493/text.html), [2112](https://api.sejm.gov.pl/eli/acts/DU/2020/2112/text.html), [2345](https://api.sejm.gov.pl/eli/acts/DU/2020/2345/text.html) i [2401](https://api.sejm.gov.pl/eli/acts/DU/2020/2401/text.html) oraz [z 2021 r. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2021/2232/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 13 wyrazy „1 marca 2022 r.” zastępuje się wyrazami „1 marca 2023 r.”;
+
+### 2)
+
+w art. 14 wyrazy „1 stycznia 2022 r.” zastępuje się wyrazami „1 stycznia 2023 r.”;
+
+### 3)
+
+w art. 14b w ust. 1-3 wyrazy „1 stycznia 2022 r.” zastępuje się wyrazami „1 stycznia 2023 r.”;
+
+### 4)
+
+w art. 19 wyrazy „1 marca 2022 r.” zastępuje się wyrazami „1 marca 2023 r.”;
+
+### 5)
+
+w art. 20 wyrazy „1 marca 2022 r.” zastępuje się wyrazami „1 października 2022 r.”;
+
+### 6)
+
+w art. 27 w części wspólnej wyrazy „18 miesięcy” zastępuje się wyrazami „28 miesięcy”.
+
+### Art. 6.
+
+W ustawie z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych ([Dz. U. poz. 2401](https://api.sejm.gov.pl/eli/acts/DU/2020/2401/text.html) oraz [z 2021 r. poz. 1104](https://api.sejm.gov.pl/eli/acts/DU/2021/1104/text.html)) w art. 23 w ust. 1 wyrazy „2021 r.” zastępuje się wyrazami „2022 r.”.
+
+### Art. 7.
+
+W ustawie z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw ([Dz. U. poz. 2232](https://api.sejm.gov.pl/eli/acts/DU/2021/2232/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 w pkt 5 w lit. a w tiret pierwszym, w lit. d wyrazy „1 stycznia 2022 r.” zastępuje się wyrazami „1 sierpnia 2022 r.”;
+
+### 2)
+
+w art. 18:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+art. 7 pkt 1 i 5, które wchodzą w życie z dniem 1 stycznia 2022 r.;
+
+” ,
+
+### b)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+art. 3 pkt 1 lit. a i c-e, które wchodzą w życie z dniem 1 sierpnia 2022 r.;
+
+” .
+
+### Art. 8.
+
+Do mediacji oraz postępowania pojednawczego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 9.
+
+Do umów zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 10.
+
+Do roszczeń, o których mowa w art. 6881§ 1 ustawy zmienianej w art. 1, powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 11.
+
+Wniosek, o którym mowa w art. 15ea ust. 5 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą, świadczeniodawca składa do Narodowego Funduszu Zdrowia w terminie 14 dni od dnia wejścia w życie ustawy.
+
+### Art. 12.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 4 i art. 11, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 3 i art. 5-7, które wchodzą w życie z dniem 1 stycznia 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 16 lipca 2020 r. o zmianie ustawy o zawodach lekarza i lekarza dentysty oraz niektórych innych ustaw, ustawę z dnia 27 listopada 2020 r. o zmianie niektórych ustaw w celu zapewnienia w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii kadr medycznych oraz ustawę z dnia 17 listopada 2021 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289 i 2328. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317 i 2368.

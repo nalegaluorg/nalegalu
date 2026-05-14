@@ -1,0 +1,291 @@
+---
+title: Obwieszczenie Ministra Spraw Wewnętrznych i Administracji z dnia 27 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej
+address: WDU20220001763
+eli: DU/2022/1763
+publisher: DU
+year: 2022
+pos: 1763
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 27 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej [1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej ‒ sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1763 |
+| ISAP | WDU20220001763 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-07-27 |
+| Data wydania | 2022-08-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1763/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1763) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej](#part_2)
+
+- [Załącznik nr 1 - Tekst załącznika](#part_3)
+
+- [Załącznik nr 2 - Tekst załącznika](#part_4)
+
+- [Załącznik nr 3 - Wzór głowicy sztandaru](#part_5)
+
+- [Załącznik nr 4 - Tekst załącznika](#part_6)
+
+- [Załącznik nr 5 - Tekst załącznika](#part_7)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 309](https://api.sejm.gov.pl/eli/acts/DU/1992/309/text.html)), z uwzględnieniem zmian wprowadzonych:
+
+### 1)
+
+rozporządzeniem Ministra Spraw Wewnętrznych z dnia 23 czerwca 2014 r. zmieniającym rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 886](https://api.sejm.gov.pl/eli/acts/DU/2014/886/text.html));
+
+### 2)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 26 września 2018 r. zmieniającym rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 1943](https://api.sejm.gov.pl/eli/acts/DU/2018/1943/text.html));
+
+### 3)
+
+rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającym rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 826](https://api.sejm.gov.pl/eli/acts/DU/2022/826/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+
+### 1)
+
+§ 2 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 886](https://api.sejm.gov.pl/eli/acts/DU/2014/886/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” ;
+
+### 2)
+
+§ 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 września 2018 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 1943](https://api.sejm.gov.pl/eli/acts/DU/2018/1943/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Sztandary jednostek organizacyjnych Państwowej Straży Pożarnej o dotychczasowych wzorach mogą być używane do czasu nadania tym jednostkom sztandaru według wzoru określonego w rozporządzeniu zmienianym w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” ;
+
+### 3)
+
+§ 2 i § 3 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej ([Dz. U. poz. 826](https://api.sejm.gov.pl/eli/acts/DU/2022/826/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Sztandary jednostek organizacyjnych Państwowej Straży Pożarnej o dotychczasowych wzorach mogą być używane do czasu nadania tym jednostkom sztandaru według wzoru określonego w rozporządzeniu zmienianym w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej ‒ sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).
+
+## Załącznik - Tekst jednolity rozporządzenia Ministra Spraw Wewnętrznych z dnia 11 lipca 1992 r. w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej[1) Obecnie działem administracji rządowej ‒ sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:1:)
+
+Na podstawie art. 19 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2021 r. poz. 1940](https://api.sejm.gov.pl/eli/acts/DU/2021/1940/text.html) i [2490](https://api.sejm.gov.pl/eli/acts/DU/2021/2490/text.html) oraz [z 2022 r. poz. 1115](https://api.sejm.gov.pl/eli/acts/DU/2022/1115/text.html)) zarządza się, co następuje:
+
+### § 1[2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 826), które weszło w życie z dniem 29 kwietnia 2022 r.](#gloss-0:2:).
+
+Sztandar jednostki organizacyjnej Państwowej Straży Pożarnej, zwanej dalej „jednostką”, składa się z płata, głowicy, drzewca i szarfy.
+
+### § 2[3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 września 2018 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 1943), które weszło w życie z dniem 25 października 2018 r.](#gloss-0:3:).
+
+### 1.
+
+Płatem sztandaru jest tkanina w kształcie kwadratu o boku długości 100 cm, koloru czerwonego (zbliżonego do koloru - czerwień sygnałowa - C:10 M:100 Y:100 K:20) po stronie głównej, a błękitnego (zbliżonego do koloru - błękit lazur - C:100 M:50 Y:0 K:0) po stronie odwrotnej, obszyta obustronnie wzdłuż obwodu złotą taśmą szerokości 1,5 cm oraz z trzech stron złotą frędzlą długości 5 cm.
+
+### 2.
+
+Na stronie głównej płata sztandaru znajduje się równoramienny krzyż koloru białego, o długości ramion równej wymiarom płata sztandaru, kształtem podobny do państwowego odznaczenia Krzyż Zasługi. Szerokość ramion krzyża przy krawędziach strony głównej płata sztandaru wynosi 40 cm. Pośrodku krzyża jest umieszczone godło państwowe na okrągłej, czerwonej tarczy o średnicy 40 cm, obramowanej białą krawędzią szerokości 1 cm oraz wieńcem stylizowanych liści laurowych koloru złotego szerokości 6 cm. W odstępie 2 cm od strony zewnętrznej wieńca biegnie pierścień koloru złotego szerokości 0,4 cm. Godło Rzeczypospolitej Polskiej przedstawia wizerunek orła białego, ustalony ustawą z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych ([Dz. U. z 2019 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2019/1509/text.html)). Wysokość godła wynosi 30 cm. Na stronie głównej płata sztandaru umieszcza się, w górnej części nad godłem, napis „W SŁUŻBIE”, natomiast w dolnej części, pod godłem, napis „BOGU I OJCZYŹNIE”, albo napis: „BÓG HONOR OJCZYZNA”. Napis „BÓG HONOR OJCZYZNA” ma kształt półkola. Litery o wysokości 6 cm są wykonane w kolorze złotym. Wzór strony głównej płata sztandaru jest określony w załączniku nr 1 do rozporządzenia.
+
+### 3.
+
+Na stronie odwrotnej płata sztandaru, w środku płata znajduje się wizerunek św. Floriana o wysokości 40 cm. Nad wizerunkiem św. Floriana umieszcza się pełną nazwę jednostki, a pod wizerunkiem św. Floriana ‒ nazwę siedziby tej jednostki. Litery o wysokości 6 cm wykonane są w kolorze srebrnym. W dolnych rogach strony odwrotnej płata sztandaru umieszcza się w lewym rogu rok powołania jednostki, a w prawym rogu rok nadania sztandaru. Wzór strony odwrotnej płata sztandaru jest określony w załączniku nr 2 do rozporządzenia.
+
+### 4.
+
+Na stronie odwrotnej płata sztandaru, w jego górnych rogach, mogą być umieszczone herby miejscowości i ziem, oznaka pożarnicza Państwowej Straży Pożarnej, emblematy lub inicjały fundatora sztandaru.
+
+### § 3[4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:4:).
+
+### 1.
+
+Głowica sztandaru składa się z wizerunku orła białego ustalonego dla godła Rzeczypospolitej Polskiej oraz podstawy, wykonanych z białego metalu. Korona, dziób i szpony orła są koloru złotego. Wysokość orła wynosi 13,7 cm, a szerokość ‒ 12,7 cm. Front głowicy jest usytuowany po stronie głównej płata sztandaru. Na przedniej ścianie podstawy umieszczony jest napis „PAŃSTWOWA STRAŻ POŻARNA”. Wysokość podstawy wynosi 7,5 cm, a szerokość ‒ 11,7 cm. Całkowita wysokość głowicy wynosi 18,5 cm.
+
+### 2.
+
+Głowica sztandaru jest przymocowana do górnej części drzewca metalową nasadą.
+
+### 3.
+
+Wzór głowicy sztandaru określa załącznik nr 3 do rozporządzenia.
+
+### § 4.
+
+### 1[5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Drzewce sztandaru ma długość 236,5 cm i jest wykonane z drewna toczonego o średnicy 4 cm w kolorze ciemny orzech. Drzewce jest dwudzielne, połączone metalowym gwintowanym złączem. Na dolnym końcu drzewca jest umieszczone stożkowate, metalowe okucie. Elementy metalowe drzewca są koloru złotego.
+
+### 2.
+
+Drzewce w górnej części ma pierścienie metalowe, które odpowiadają takim samym pierścieniom umocowanym na nie obszytym brzegu płata, które spina się za pomocą zatyczki w postaci pręta metalowego długości 100 cm.
+
+### 3[6) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:).
+
+Na drzewcu mogą być umieszczone gwoździe pamiątkowe w kolorze złotym, upamiętniające ważne wydarzenia lub osoby. Gwoździe pamiątkowe mogą zawierać napisy z imieniem i nazwiskiem lub danymi fundatora sztandaru oraz datami i wydarzeniami odnoszącymi się do historii i tradycji Państwowej Straży Pożarnej. Wysokość gwoździ pamiątkowych wynosi 2,7 cm, a szerokość ‒ 2,2 cm.
+
+### 4[6) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:).
+
+Wzór gwoździ pamiątkowych określa załącznik nr 4 do rozporządzenia.
+
+### § 4a[7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:7:).
+
+### 1.
+
+Szarfa sztandaru jest tkaniną o barwach Rzeczypospolitej Polskiej o szerokości 15 cm, związaną w kokardę i umieszczoną na górnej części drzewca bezpośrednio pod głowicą po stronie głównej płata sztandaru. Jej oba końce dochodzą do dolnego brzegu płata i są zakończone złotą frędzlą, taką jak płat sztandaru.
+
+### 2.
+
+Wzór szarfy sztandaru określa załącznik nr 5 do rozporządzenia.
+
+### § 5.
+
+### 1.
+
+Sztandar jednostki jest symbolem zaszczytnej, ofiarnej i wiernej służby dla dobra Rzeczypospolitej Polskiej i Jej obywateli.
+
+### 2.
+
+Sztandar jest nadawany jednostce w drodze szczególnego wyróżnienia za służbę dla dobra Rzeczypospolitej Polskiej w zakresie ochrony życia, zdrowia i mienia obywateli.
+
+### § 6[8) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 886), które weszło w życie z dniem 17 lipca 2014 r.](#gloss-0:8:).
+
+### 1.
+
+Sztandar nadaje Minister Spraw Wewnętrznych [9) Obecnie Minister Spraw Wewnętrznych i Administracji na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:9:).
+
+### 2.
+
+Sztandar mogą otrzymać następujące jednostki Państwowej Straży Pożarnej:
+
+### 1)
+
+Komenda Główna Państwowej Straży Pożarnej;
+
+### 2)
+
+komendy wojewódzkie Państwowej Straży Pożarnej;
+
+### 3)
+
+komendy powiatowe (miejskie) Państwowej Straży Pożarnej;
+
+### 4)
+
+Centralne Muzeum Pożarnictwa;
+
+### 5)
+
+szkoły Państwowej Straży Pożarnej;
+
+### 6)
+
+instytuty badawcze Państwowej Straży Pożarnej.
+
+### 3.
+
+Wnioski o nadanie sztandaru przedstawia Ministrowi Spraw Wewnętrznych [9) Obecnie Minister Spraw Wewnętrznych i Administracji na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:9:):
+
+### 1)
+
+Komendant Główny Państwowej Straży Pożarnej ‒ w przypadku Komendy Głównej i komend wojewódzkich Państwowej Straży Pożarnej, Centralnego Muzeum Pożarnictwa, szkół i instytutów badawczych Państwowej Straży Pożarnej;
+
+### 2)
+
+komendant wojewódzki Państwowej Straży Pożarnej ‒ w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej ‒ za pośrednictwem Komendanta Głównego Państwowej Straży Pożarnej.
+
+### § 7.
+
+Sztandar wraz z aktem nadania wręcza Minister Spraw Wewnętrznych [9) Obecnie Minister Spraw Wewnętrznych i Administracji na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264).](#gloss-0:9:) lub Komendant Główny Państwowej Straży Pożarnej albo ich przedstawiciele.
+
+### § 8[10) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 8.](#gloss-0:10:).
+
+W razie rozwiązania jednostki, pozostały po niej sztandar przekazuje się do:
+
+### 1)
+
+Komendy Głównej Państwowej Straży Pożarnej ‒ w przypadku komend wojewódzkich Państwowej Straży Pożarnej, Centralnego Muzeum Pożarnictwa, szkół Państwowej Straży Pożarnej i instytutów badawczych Państwowej Straży Pożarnej;
+
+### 2)
+
+właściwej terenowo komendy wojewódzkiej Państwowej Straży Pożarnej ‒ w przypadku komend powiatowych (miejskich) Państwowej Straży Pożarnej.
+
+### § 9.
+
+Sztandary jednostek organizacyjnych ochrony przeciwpożarowej o dotychczasowych wzorach mogą być używane nie dłużej niż do dnia 31 grudnia 1995 r.
+
+### § 10.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[11) Rozporządzenie zostało ogłoszone w dniu 20 sierpnia 1992 r.](#gloss-0:11:).
+
+1) Obecnie działem administracji rządowej ‒ sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 5 kwietnia 2022 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 826), które weszło w życie z dniem 29 kwietnia 2022 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 26 września 2018 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 1943), które weszło w życie z dniem 25 października 2018 r. 4) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2. 6) Dodany przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 23 czerwca 2014 r. zmieniającego rozporządzenie w sprawie określenia wzoru oraz trybu nadawania sztandaru jednostkom organizacyjnym Państwowej Straży Pożarnej (Dz. U. poz. 886), które weszło w życie z dniem 17 lipca 2014 r. 9) Obecnie Minister Spraw Wewnętrznych i Administracji na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 2264). 10) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 8. 11) Rozporządzenie zostało ogłoszone w dniu 20 sierpnia 1992 r.
+
+## Załącznik nr 1 - Tekst załącznika[12) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:12:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1763/text.pdf)
+
+12) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.
+
+## Załącznik nr 2 - Tekst załącznika[13) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:13:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1763/text.pdf)
+
+13) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.
+
+## Załącznik nr 3 - Wzór głowicy sztandaru[14) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:14:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1763/text.pdf)
+
+14) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 2.
+
+## Załącznik nr 4 - Tekst załącznika[15) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:15:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1763/text.pdf)
+
+15) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.
+
+## Załącznik nr 5 - Tekst załącznika[15) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:15:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1763/text.pdf)
+
+15) Dodany przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 2.

@@ -8,9 +8,9 @@ pos: 182
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# U S T A W A z dnia 2 kwietnia 1993 r.
+# Ustawa z dnia 2 kwietnia 1993 r. o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości
 
 | Pole | Wartość |
 |---|---|
@@ -22,11 +22,14 @@ domain: null
 | Data ogłoszenia | 1993-04-02 |
 | Data wydania | 1993-05-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930400182) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/182/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1993/182/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1993/182) |
 
-o zmianie ustawy o zmianach w organizacji i działalności spółdzielczości
+## Treść ustawy
 
-**Art. 1.** W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości (Dz. U. Nr 6, poz. 36, Nr 11, poz. 74, Nr 29, poz. 175 i Nr 34, poz. 198, z 1991 r. Nr 83, poz. 373 oraz z 1992 r. Nr 18, poz. 74 Nr 80, poz. 406) w art. 19a wyraz "sprzedana" zastępuje się wyrazami "zbyta bądź obciążona".
+### Art. 1.
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+W ustawie z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości ([Dz. U. Nr 6, poz. 36](https://api.sejm.gov.pl/eli/acts/DU/1990/36/text.html), [Nr 11, poz. 74](https://api.sejm.gov.pl/eli/acts/DU/1990/74/text.html), [Nr 29, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1990/175/text.html) i [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), z [1991 r. Nr 83, poz. 373](https://api.sejm.gov.pl/eli/acts/DU/1991/373/text.html) oraz z [1992 r. Nr 18, poz. 74](https://api.sejm.gov.pl/eli/acts/DU/1992/74/text.html) i [Nr 80, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1992/406/text.html)) w art. 19a wyraz „sprzedana” zastępuje się wyrazami „zbyta bądź obciążona”.
 
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

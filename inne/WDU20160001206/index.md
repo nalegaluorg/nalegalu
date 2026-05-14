@@ -8,9 +8,9 @@ pos: 1206
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# sprawie ogłoszenia jednolitego tekstu ustawy aktywizacji przemysłu okrętowego i przemysłów komplementarnych Na podstawie art. 16 1 zdanie pierwsze ustawy z 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z 6 lipca 2016 r. aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2020 r. poz. 1084), z uwzględnieniem zmian wprowadzonych ustawą z 28 listopada 2020 r. zmianie ustawy podatku dochodowym od osób fizycznych, ustawy podatku dochodowym od osób prawnych, ustawy zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych osoby fizyczne niektórych innych ustaw (Dz. U. poz. 2123) zmian wynikających z przepisów ogłoszonych przed dniem 6 września 2021 r.
+# Ustawa z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług oraz ustawę z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,80 +22,628 @@ domain: null
 | Data ogłoszenia | 2016-07-06 |
 | Data wydania | 2016-08-10 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001206) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1206/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/1206/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/1206) |
 
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 24 ustawy z 28 listopada 2020 r. zmianie ustawy podatku dochodowym od osób fizycznych, ustawy podatku dochodowym od osób prawnych, ustawy zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych osoby fizyczne niektórych innych ustaw (Dz. U. poz. 2123), który stanowi: „Art. 24. Ustawa wchodzi życie z dniem 1 stycznia 2021 r., z wyjątkiem:
-1) art. 1 21–33, art. 2 25–35, art. 3 9–13, art. 9, art. 10, art. 12, art. 18, art. 19 art. 23 3 i 4, które wchodzą życie z dniem następującym po dniu ogłoszenia;
-2) art. 4 i art. 8, które wchodzą życie z dniem 1 marca 2021 r.”.
-Marszałek Sejmu: E. Witek
-2. Ilekroć ustawie o:
-1) budowie statku oznacza to budowę nowego, kompletnego i zdolnego do żeglugi statku;
-2) okresie opodatkowania oznacza to okres opodatkowania zryczałtowanym podatkiem;
-3) przebudowie statku oznacza to przebudowę przeprowadzoną całości przedsiębiorcę okrętowego, a przypadku prowadzenia działalności formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych tę spółkę:
-a) wartość całkowita wynosi co najmniej równowartość złotych kwoty 5 000 000 euro lub
-b) polegającą na zmianie przeznaczenia statku lub zmianie źródła napędu;
-4) przedsiębiorcy okrętowym oznacza to:
-a) osobę fizyczną, osobę prawną i spółkę, art. 1 3 1 i 1a ustawy z 15 lutego 1992 r.
-podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm. ), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
-b) wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
-c) przedsiębiorcę zagranicznego rozumieniu przepisów ustawy z 6 marca 2018 r. zasadach uczestnictwa zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 994) prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
-5) statku oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, ustawie z 18 sierpnia 2011 r. bezpieczeństwie morskim (Dz. U. z 2020 r. poz. 680 z 2021 r. poz. 234), jak również morską platformę wiertniczą lub produkcyjną;
-6) przedsiębiorstwie spadku oznacza to przedsiębiorstwo spadku, którym ustawie z 5 lipca 2018 r.
-zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), zwanej dalej „ustawą zarządzie sukcesyjnym”;
-7) zarządzie sukcesyjnym oznacza to zarząd sukcesyjny rozumieniu ustawy zarządzie sukcesyjnym;
-8) zmarłym przedsiębiorcy oznacza to zmarłego przedsiębiorcę, którym art. 1 1 ustawy zarządzie sukcesyjnym.
-statku.
-4. Budowę statku jej zakończenie, a także przebudowę statku jej zakończenie stwierdza, formie certyfikatu, na wniosek przedsiębiorcy okrętowego:
-1) dyrektor urzędu morskiego właściwy terytorialnie dla miejsca budowy statku lub przebudowy statku;
-2) dyrektor urzędu żeglugi śródlądowej właściwy terytorialnie dla miejsca budowy statku lub przebudowy statku statku przeznaczonego wyłącznie do żeglugi śródlądowej.
-2. We wniosku, którym 1, przedsiębiorca okrętowy:
-1) podaje dane identyfikujące przedsiębiorcę okrętowego, szczególności nazwę albo imię i nazwisko, adres siedziby albo miejsca zamieszkania, numer identyfikacji podatkowej, numer rejestrze Krajowym Rejestrze Sądowym;
-2) wskazuje organ podatkowy właściwy sprawach zryczałtowanego podatku.
-3. Do wniosku, którym 1, przedsiębiorca okrętowy dołącza:
-1) umowę budowę statku albo umowę przebudowę statku;
-2) dokumenty uznanej organizacji wydane na podstawie ustawy z 18 sierpnia 2011 r. bezpieczeństwie morskim certyfikatu zakończenia budowy statku lub przebudowy statku.
-4. prowadzenia przedsiębiorcę okrętowego działalności formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych wniosek, którym 1, składa ta spółka.
-5. Certyfikat stanowi zaświadczenie rozumieniu przepisów ustawy z 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735 i 1491).
-6. Certyfikat wydawany terminie 30 dni od złożenia kompletnego wniosku zgodnie z 2 i 3.
-7. Organ wydający certyfikat przekazuje jego kopię, niezwłocznie po wydaniu, organowi podatkowemu właściwemu sprawach zryczałtowanego podatku wskazanemu we wniosku, którym
-8. Minister właściwy do spraw gospodarki morskiej porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia:
-1) wzór certyfikatu wydawanego organ, którym 1 1,
-2) wzór certyfikatu wydawanego organ, którym 1 2 mając na względzie zakres danych konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli celno-skarbowej lub podatkowej.
-5. Podstawą opodatkowania zryczałtowanym podatkiem przychód należny ze sprzedaży statku lub przebudowy statku osiągnięty roku podatkowym, z wyłączeniem podatku od towarów i usług.
-2. Za dzień powstania przychodu należnego, którym 1, uważa się dzień wydania rzeczy lub wykonania usługi, nie później niż dzień:
-1) wystawienia faktury albo przedsiębiorca okrętowy wybrał opodatkowanie formie zryczałtowanego podatku, do końca miesiąca, którym przedsiębiorca okrętowy nie uzyskał certyfikatu, którym art. 4
-6. okrętowych, których art. 2 1 4 lit. b, przychód należny określa się proporcjonalnie do prawa takiego przedsiębiorcy do udziału zysku spółki. braku przeciwnego dowodu przyjmuje się, że prawa do udziału zysku spółki są równe.
-6. Zryczałtowany podatek wynosi 1% podstawy opodatkowania.
-7. Wybór opodatkowania zryczałtowanym podatkiem następuje złożenie przedsiębiorcę okrętowego oświadczenia, według ustalonego wzoru, wyborze takiego opodatkowania, zwanego dalej „oświadczeniem”.
-2. Oświadczenie składa się organowi podatkowemu właściwemu sprawach zryczałtowanego podatku.
-okrętowych, których art. 2 1 4 lit. b, oświadczenie składają wszyscy wspólnicy.
-3. Oświadczenie składa się terminie do 20. pierwszego miesiąca pierwszego roku podatkowego okresu opodatkowania.
-4. oświadczeniu zamieszcza się dane identyfikujące przedsiębiorcę okrętowego, szczególności nazwę albo imię i nazwisko, adres siedziby albo miejsca zamieszkania, numer identyfikacji podatkowej, numer rejestrze Krajowym Rejestrze Sądowym dane dotyczące działalności prowadzonej przedsiębiorcę okrętowego.
-5. Przedsiębiorca okrętowy obowiązany zawiadomić organ podatkowy właściwy sprawach zryczałtowanego podatku zaistniałych okresie opodatkowania zmianach danych zawartych oświadczeniu terminie do 20. miesiąca następującego po miesiącu, którym zaistniała zmiana.
-6. zakończenia działalności zakresie budowy statku lub przebudowy statku okresie opodatkowania przedsiębiorca okrętowy składa, terminie do 20. miesiąca następującego po miesiącu, którym zakończono tę działalność, organowi podatkowemu właściwemu sprawach zryczałtowanego podatku oświadczenie zakończeniu tej działalności.
-8. Okres opodatkowania przedsiębiorcy okrętowego zryczałtowanym podatkiem wynosi 3 kolejne lata podatkowe.
-2. okresie opodatkowania nie możliwa zmiana formy opodatkowania.
-3. zakończenia działalności zakresie budowy statku lub przebudowy statku okresie opodatkowania ponowny wybór opodatkowania zryczałtowanym podatkiem może nastąpić nie wcześniej niż po upływie roku podatkowego, licząc od końca roku podatkowego, którym przedsiębiorca okrętowy zakończył tę działalność.
-4. Jeżeli okresie opodatkowania zmarł przedsiębiorca okrętowy, podatnikiem zryczałtowanego podatku okresie od otwarcia spadku do wygaśnięcia:
-1) zarządu sukcesyjnego albo
-2) uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, którym art. 12 1c ustawy z 13 października 1995 r. zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2020 r. poz. 170 z 2021 r. poz. 802 i 1163) nie dłużej jednak niż do końca okresu opodatkowania, przedsiębiorstwo spadku.
-5. Przedsiębiorstwo spadku kontynuuje opodatkowanie zryczałtowanym podatkiem na zasadach, jakie obowiązywały zmarłego przedsiębiorcę.
-9. Przedsiębiorca okrętowy opodatkowany zryczałtowanym podatkiem ustala wysokość przychodu należnego, którym art. 5 1, na podstawie ksiąg podatkowych prowadzonych zgodnie z odrębnymi przepisami.
-i prawnych, którym 1, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych wartości niematerialnych i prawnych i stawki amortyzacyjnej.
-11. Organem podatkowym właściwym sprawach zryczałtowanego podatku naczelnik urzędu skarbowego właściwy sprawach podatku dochodowego.
-12. połączenia się okrętowych opodatkowanych zryczałtowanym podatkiem okresem opodatkowania przedsiębiorcy powstałego wyniku tego połączenia okres opodatkowania przedsiębiorcy, który wcześniej złożył oświadczenie.
-2. przejęcia przedsiębiorcę okrętowego opodatkowanego zryczałtowanym podatkiem innego przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem, okresem opodatkowania okres opodatkowania przedsiębiorcy przejmującego.
-3. połączenia przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem z przedsiębiorcą nieopodatkowanym zryczałtowanym podatkiem, okresem opodatkowania okres opodatkowania przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem.
-13. Przedsiębiorca okrętowy obowiązany za każdy miesiąc roku podatkowego obliczać zryczałtowany podatek od przychodu należnego, którym art. 5 1, i wpłacać ten podatek, bez wezwania, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego wskazany art. 11 wykonuje swoje zadania, terminie do 20. każdego miesiąca za miesiąc poprzedni, a za ostatni miesiąc roku podatkowego terminie złożenia zeznania, którym 2.
-2. Przedsiębiorca okrętowy obowiązany złożyć urzędzie skarbowym, którym 1, zeznanie, według ustalonego wzoru, wysokości zryczałtowanego podatku od przychodu należnego, którym art. 5 1, za dany rok podatkowy do końca pierwszego miesiąca następnego roku podatkowego.
-3. Zryczałtowany podatek wynikający z zeznania, którym 2, podatkiem należnym za dany rok podatkowy, chyba że właściwy organ podatkowy wyda decyzję, określi inną wysokość podatku.
-13a. Przepisy art. 9–11 i art. 13 obowiązane stosować odpowiednio przedsiębiorstwo spadku.
-14. Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, drodze rozporządzenia, wzory:
-1) oświadczenia,
-2) zeznania, którym art. 13 2 wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, mając na względzie zakres informacji do prawidłowego ustalenia zobowiązania podatkowego.
-15. Wyboru opodatkowania zryczałtowanym podatkiem można dokonać okresie obowiązywania pozytywnej decyzji Komisji Europejskiej zgodności zryczałtowanego podatku z rynkiem wewnętrznym.
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne Ustawa określa formy aktywizacji przemysłu okrętowego i przemysłów komplementarnych, tym reguluje opodatkowanie zryczałtowanym podatkiem od wartości sprzedanej produkcji, zwanym dalej „zryczałtowanym podatkiem”.
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zryczałtowany podatek](#chpt_2) [Rozdział 3 - Zmiany w przepisach oraz przepisy przejściowy i końcowy](#chpt_3)
 
-#### Rozdział 3 Zmiany przepisach przepisy przejściowy i końcowy 16–22. (pominięte)
+TOC
 
+## Treść ustawy
+
+### Rozdział 1 Przepisy ogólne
+
+### Art. 1.
+
+Ustawa określa formy aktywizacji przemysłu okrętowego i przemysłów komplementarnych, w tym reguluje opodatkowanie zryczałtowanym podatkiem od wartości sprzedanej produkcji, zwanym dalej „zryczałtowanym podatkiem”.
+
+### Art. 2.
+
+### 1.
+
+Ilekroć w ustawie jest mowa o:
+
+### 1)
+
+budowie statku - oznacza to budowę nowego, kompletnego i zdolnego do żeglugi statku;
+
+### 2)
+
+okresie opodatkowania - oznacza to okres opodatkowania zryczałtowanym podatkiem;
+
+### 3)
+
+przebudowie statku - oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej, spółki jawnej lub spółki komandytowej - przez tę spółkę:
+
+### a)
+
+której wartość całkowita wynosi co najmniej równowartość w złotych kwoty 5 000 000 euro lub
+
+### b)
+
+polegającą na zmianie przeznaczenia statku lub zmianie źródła napędu;
+
+### 4)
+
+przedsiębiorcy okrętowym - oznacza to:
+
+### a)
+
+osobę fizyczną, osobę prawną i spółkę komandytowo-akcyjną, mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+
+### b)
+
+wspólnika spółki cywilnej, spółki jawnej i spółki komandytowej, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
+
+### c)
+
+przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2015 r. poz. 584](https://api.sejm.gov.pl/eli/acts/DU/2015/584/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780, 868, 903, 960 i 1165.](#gloss-0:2:))
+
+- prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
+
+### 5)
+
+statku - oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, o długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, o której mowa w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim ([Dz. U. z 2016 r. poz. 281](https://api.sejm.gov.pl/eli/acts/DU/2016/281/text.html)), jak również morską platformę wiertniczą lub produkcyjną.
+
+### 2.
+
+Kwota wyrażona w euro wskazana w ust. 1 pkt 3 lit. a jest przeliczana na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wydania certyfikatu stwierdzającego przebudowę statku.
+
+### 3.
+
+Rokiem podatkowym przedsiębiorcy okrętowego jest rok kalendarzowy, a w przypadku przedsiębiorcy okrętowego będącego podatnikiem podatku dochodowego od osób prawnych - rok podatkowy przyjęty dla celów tego podatku.
+
+### Rozdział 2 Zryczałtowany podatek
+
+### Art. 3.
+
+Przedsiębiorca okrętowy może opłacać zryczałtowany podatek w zakresie budowy statku lub przebudowy statku.
+
+### Art. 4.
+
+### 1.
+
+Budowę statku oraz jej zakończenie, a także przebudowę statku oraz jej zakończenie stwierdza, w formie certyfikatu, na wniosek przedsiębiorcy okrętowego:
+
+### 1)
+
+dyrektor urzędu morskiego właściwy terytorialnie dla miejsca budowy statku lub przebudowy statku;
+
+### 2)
+
+dyrektor urzędu żeglugi śródlądowej właściwy terytorialnie dla miejsca budowy statku lub przebudowy statku - w przypadku statku przeznaczonego wyłącznie do żeglugi śródlądowej.
+
+### 2.
+
+We wniosku, o którym mowa w ust. 1, przedsiębiorca okrętowy:
+
+### 1)
+
+podaje dane identyfikujące przedsiębiorcę okrętowego, w szczególności nazwę albo imię i nazwisko, adres siedziby albo miejsca zamieszkania, numer identyfikacji podatkowej, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym;
+
+### 2)
+
+wskazuje organ podatkowy właściwy w sprawach zryczałtowanego podatku.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, przedsiębiorca okrętowy dołącza:
+
+### 1)
+
+umowę o budowę statku albo umowę o przebudowę statku;
+
+### 2)
+
+dokumenty uznanej organizacji wydane na podstawie ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim - w przypadku certyfikatu zakończenia budowy statku lub przebudowy statku.
+
+### 4.
+
+W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej, spółki jawnej lub spółki komandytowej wniosek, o którym mowa w ust. 1, składa ta spółka.
+
+### 5.
+
+Certyfikat stanowi zaświadczenie w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2016 r. poz. 23](https://api.sejm.gov.pl/eli/acts/DU/2016/23/text.html), [868](https://api.sejm.gov.pl/eli/acts/DU/2016/868/text.html) i [996](https://api.sejm.gov.pl/eli/acts/DU/2016/996/text.html)).
+
+### 6.
+
+Certyfikat jest wydawany w terminie 30 dni od dnia złożenia kompletnego wniosku zgodnie z ust. 2 i 3.
+
+### 7.
+
+Organ wydający certyfikat przekazuje jego kopię, niezwłocznie po wydaniu, organowi podatkowemu właściwemu w sprawach zryczałtowanego podatku wskazanemu we wniosku, o którym mowa w ust. 1.
+
+### 8.
+
+Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 1,
+
+### 2)
+
+wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 2
+
+- mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli skarbowej lub podatkowej.
+
+### Art. 5.
+
+### 1.
+
+Podstawą opodatkowania zryczałtowanym podatkiem jest przychód należny ze sprzedaży statku lub przebudowy statku osiągnięty w roku podatkowym, z wyłączeniem podatku od towarów i usług.
+
+### 2.
+
+Za dzień powstania przychodu należnego, o którym mowa w ust. 1, uważa się dzień wydania rzeczy lub wykonania usługi, nie później niż dzień:
+
+### 1)
+
+wystawienia faktury albo
+
+### 2)
+
+uregulowania płatności w całości.
+
+### 3.
+
+Przychodu należnego, o którym mowa w ust. 1, przedsiębiorcy okrętowego nie łączy się z innymi przychodami tego przedsiębiorcy podlegającymi opodatkowaniu podatkiem dochodowym na podstawie odrębnych ustaw.
+
+### 4.
+
+W przypadku nieuzyskania certyfikatu, o którym mowa w art. 4 ust. 1, przychód należny, o którym mowa w ust. 1, podlega opodatkowaniu zgodnie z przepisami o podatku dochodowym od osób fizycznych albo podatku dochodowym od osób prawnych od pierwszego dnia miesiąca roku podatkowego, w którym przedsiębiorca okrętowy wybrał opodatkowanie w formie zryczałtowanego podatku.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 4, nie stosuje się przepisów ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2015 r. poz. 613](https://api.sejm.gov.pl/eli/acts/DU/2015/613/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846.](#gloss-0:3:)) o zaległości podatkowej za okres od pierwszego dnia miesiąca, w którym przedsiębiorca okrętowy wybrał opodatkowanie w formie zryczałtowanego podatku, do końca miesiąca, w którym przedsiębiorca okrętowy nie uzyskał certyfikatu, o którym mowa w art. 4 ust. 1.
+
+### 6.
+
+W przypadku przedsiębiorców okrętowych, o których mowa w art. 2 ust. 1 pkt 4 lit. b, przychód należny określa się proporcjonalnie do prawa takiego przedsiębiorcy do udziału w zysku spółki. W przypadku braku przeciwnego dowodu przyjmuje się, że prawa do udziału w zysku spółki są równe.
+
+### Art. 6.
+
+Zryczałtowany podatek wynosi 1% podstawy opodatkowania.
+
+### Art. 7.
+
+### 1.
+
+Wybór opodatkowania zryczałtowanym podatkiem następuje przez złożenie przez przedsiębiorcę okrętowego oświadczenia, według ustalonego wzoru, o wyborze takiego opodatkowania, zwanego dalej „oświadczeniem”.
+
+### 2.
+
+Oświadczenie składa się organowi podatkowemu właściwemu w sprawach zryczałtowanego podatku. W przypadku przedsiębiorców okrętowych, o których mowa w art. 2 ust. 1 pkt 4 lit. b, oświadczenie składają wszyscy wspólnicy.
+
+### 3.
+
+Oświadczenie składa się w terminie do 20. dnia pierwszego miesiąca pierwszego roku podatkowego okresu opodatkowania.
+
+### 4.
+
+W oświadczeniu zamieszcza się dane identyfikujące przedsiębiorcę okrętowego, w szczególności nazwę albo imię i nazwisko, adres siedziby albo miejsca zamieszkania, numer identyfikacji podatkowej, numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym oraz dane dotyczące działalności prowadzonej przez przedsiębiorcę okrętowego.
+
+### 5.
+
+Przedsiębiorca okrętowy jest obowiązany zawiadomić organ podatkowy właściwy w sprawach zryczałtowanego podatku o zaistniałych w okresie opodatkowania zmianach danych zawartych w oświadczeniu w terminie do 20. dnia miesiąca następującego po miesiącu, w którym zaistniała zmiana.
+
+### 6.
+
+W przypadku zakończenia działalności w zakresie budowy statku lub przebudowy statku w okresie opodatkowania przedsiębiorca okrętowy składa, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym zakończono tę działalność, organowi podatkowemu właściwemu w sprawach zryczałtowanego podatku oświadczenie o zakończeniu tej działalności.
+
+### Art. 8.
+
+### 1.
+
+Okres opodatkowania przedsiębiorcy okrętowego zryczałtowanym podatkiem wynosi 3 kolejne lata podatkowe.
+
+### 2.
+
+W okresie opodatkowania nie jest możliwa zmiana formy opodatkowania.
+
+### 3.
+
+W przypadku zakończenia działalności w zakresie budowy statku lub przebudowy statku w okresie opodatkowania ponowny wybór opodatkowania zryczałtowanym podatkiem może nastąpić nie wcześniej niż po upływie roku podatkowego, licząc od końca roku podatkowego, w którym przedsiębiorca okrętowy zakończył tę działalność.
+
+### Art. 9.
+
+### 1.
+
+Przedsiębiorca okrętowy opodatkowany zryczałtowanym podatkiem ustala wysokość przychodu należnego, o którym mowa w art. 5 ust. 1, na podstawie ksiąg podatkowych prowadzonych zgodnie z odrębnymi przepisami.
+
+### 2.
+
+Przedsiębiorca okrętowy będący osobą fizyczną, który na podstawie odrębnych przepisów nie jest obowiązany do prowadzenia ksiąg podatkowych, ani nie jest obowiązana do prowadzenia tych ksiąg spółka, w której jest wspólnikiem, ustala wysokość przychodu należnego, o którym mowa w art. 5 ust. 1, na podstawie prowadzonej odrębnie za każdy rok podatkowy ewidencji przychodów zawierającej co najmniej numer kolejnego wpisu, datę uzyskania przychodu należnego oraz jego wysokość.
+
+### 3.
+
+W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej albo spółki jawnej obowiązek prowadzenia ewidencji przychodów dotyczy tej spółki.
+
+### Art. 10.
+
+### 1.
+
+W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna, spółka jawna lub spółka komandytowa - wykaz obowiązana jest prowadzić ta spółka.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 1, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych i stawki amortyzacyjnej.
+
+### Art. 11.
+
+Organem podatkowym właściwym w sprawach zryczałtowanego podatku jest naczelnik urzędu skarbowego właściwy w sprawach podatku dochodowego.
+
+### Art. 12.
+
+### 1.
+
+W przypadku połączenia się przedsiębiorców okrętowych opodatkowanych zryczałtowanym podatkiem okresem opodatkowania przedsiębiorcy powstałego w wyniku tego połączenia jest okres opodatkowania przedsiębiorcy, który wcześniej złożył oświadczenie.
+
+### 2.
+
+W przypadku przejęcia przez przedsiębiorcę okrętowego opodatkowanego zryczałtowanym podatkiem innego przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem, okresem opodatkowania jest okres opodatkowania przedsiębiorcy przejmującego.
+
+### 3.
+
+W przypadku połączenia przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem z przedsiębiorcą nieopodatkowanym zryczałtowanym podatkiem, okresem opodatkowania jest okres opodatkowania przedsiębiorcy okrętowego opodatkowanego zryczałtowanym podatkiem.
+
+### Art. 13.
+
+### 1.
+
+Przedsiębiorca okrętowy jest obowiązany za każdy miesiąc roku podatkowego obliczać zryczałtowany podatek od przychodu należnego, o którym mowa w art. 5 ust. 1, i wpłacać ten podatek, bez wezwania, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego wskazany w art. 11 wykonuje swoje zadania, w terminie do 20. dnia każdego miesiąca za miesiąc poprzedni, a za ostatni miesiąc roku podatkowego - w terminie złożenia zeznania, o którym mowa w ust. 2.
+
+### 2.
+
+Przedsiębiorca okrętowy jest obowiązany złożyć w urzędzie skarbowym, o którym mowa w ust. 1, zeznanie, według ustalonego wzoru, o wysokości zryczałtowanego podatku od przychodu należnego, o którym mowa w art. 5 ust. 1, za dany rok podatkowy do końca pierwszego miesiąca następnego roku podatkowego.
+
+### 3.
+
+Zryczałtowany podatek wynikający z zeznania, o którym mowa w ust. 2, jest podatkiem należnym za dany rok podatkowy, chyba że właściwy organ podatkowy lub właściwy organ kontroli skarbowej wyda decyzję, w której określi inną wysokość podatku.
+
+### Art. 14.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzory:
+
+### 1)
+
+oświadczenia,
+
+### 2)
+
+zeznania, o którym mowa w art. 13 ust. 2
+
+- wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca składania, mając na względzie zakres informacji niezbędnych do prawidłowego ustalenia zobowiązania podatkowego.
+
+### Art. 15.
+
+Wyboru opodatkowania zryczałtowanym podatkiem można dokonać w okresie obowiązywania pozytywnej decyzji Komisji Europejskiej o zgodności zryczałtowanego podatku z rynkiem wewnętrznym.
+
+### Rozdział 3 Zmiany w przepisach oraz przepisy przejściowy i końcowy
+
+### Art. 16.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2012 r. poz. 361](https://api.sejm.gov.pl/eli/acts/DU/2012/361/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929 i 1010.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+przychodów opodatkowanych na zasadach wynikających z ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych ([Dz. U. poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2016/1206/text.html)), z zastrzeżeniem art. 24a ust. 1a;
+
+” ;
+
+### 2)
+
+w art. 6 ust. 8 i 9 otrzymują brzmienie:
+
+„
+
+### 8.
+
+Sposób opodatkowania, o którym mowa w ust. 2 i 4, nie ma zastosowania w sytuacji, gdy chociażby do jednego z małżonków, osoby samotnie wychowującej dzieci lub do jej dziecka mają zastosowanie przepisy art. 30c, ustawy o zryczałtowanym podatku dochodowym, ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym lub ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych.
+
+### 9.
+
+Zasada określona w ust. 8 nie dotyczy osób, o których mowa w art. 1 pkt 2 ustawy o zryczałtowanym podatku dochodowym, niekorzystających jednocześnie z opodatkowania przychodów z pozarolniczej działalności gospodarczej lub z działów specjalnych produkcji rolnej na zasadach określonych w art. 30c, w ustawie o zryczałtowanym podatku dochodowym, w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych.
+
+” ;
+
+### 3)
+
+w art. 14 ust. 1p otrzymuje brzmienie:
+
+„
+
+### 1p.
+
+Jeżeli korekta, o której mowa w ust. 1m, następuje po likwidacji pozarolniczej działalności gospodarczej, likwidacji działów specjalnych produkcji rolnej albo zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym, ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, lub zmianie zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej, zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed likwidacją pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, zmianą formy opodatkowania lub zmianą zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej.
+
+” ;
+
+### 4)
+
+w art. 22 ust. 7f otrzymuje brzmienie:
+
+„
+
+### 7f.
+
+Jeżeli korekta, o której mowa w ust. 7c, następuje po likwidacji pozarolniczej działalności gospodarczej, likwidacji działów specjalnych produkcji rolnej albo zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie o zryczałtowanym podatku dochodowym, ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, lub zmianie zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej, zmniejszenia lub zwiększenia kosztów uzyskania przychodów dokonuje się w ostatnim okresie rozliczeniowym przed likwidacją pozarolniczej działalności gospodarczej lub działów specjalnych produkcji rolnej, zmianą formy opodatkowania lub zmianą zasad ustalania dochodu w odniesieniu do działów specjalnych produkcji rolnej.
+
+” ;
+
+### 5)
+
+w art. 22n ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W razie zmiany formy opodatkowania podatnicy, zakładając ewidencję, o której mowa w ust. 2, uwzględniają w niej odpisy amortyzacyjne przypadające za okres opodatkowania w formie zryczałtowanego podatku dochodowego, podatku tonażowego lub zryczałtowanego podatku od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych.
+
+” ;
+
+### 6)
+
+w art. 24a ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym oraz podatnicy będący przedsiębiorcami okrętowymi w rozumieniu ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, prowadzący działalność opodatkowaną odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz inną działalność opodatkowaną podatkiem dochodowym są obowiązani w prowadzonej księdze albo w prowadzonych księgach rachunkowych, o których mowa w ust. 1, wyodrębnić przychody i związane z nimi koszty na poszczególne rodzaje działalności podlegającej opodatkowaniu odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji i podatkiem dochodowym.
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2014 r. poz. 851](https://api.sejm.gov.pl/eli/acts/DU/2014/851/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68, 615, 780 i 996.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+przychodów przedsiębiorcy okrętowego opodatkowanych na zasadach wynikających z ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych ([Dz. U. poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2016/1206/text.html)), z zastrzeżeniem art. 9 ust. 1a.
+
+” ;
+
+### 2)
+
+w art. 9 ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym oraz podatnicy będący przedsiębiorcami okrętowymi w rozumieniu ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, prowadzący działalność opodatkowaną odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz inną działalność opodatkowaną podatkiem dochodowym są obowiązani w ewidencji, o której mowa w ust. 1, wyodrębnić przychody i związane z nimi koszty na poszczególne rodzaje działalności podlegającej opodatkowaniu odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji i podatkiem dochodowym.
+
+” ;
+
+### 3)
+
+w art. 12 ust. 3m otrzymuje brzmienie:
+
+„
+
+### 3m.
+
+Jeżeli korekta, o której mowa w ust. 3j, następuje po zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania.
+
+” ;
+
+### 4)
+
+w art. 15 ust. 4l otrzymuje brzmienie:
+
+„
+
+### 4l.
+
+Jeżeli korekta, o której mowa w ust. 4i, następuje po zmianie formy opodatkowania na zryczałtowaną formę opodatkowania określoną w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, zmniejszenia lub zwiększenia kosztów uzyskania przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania.
+
+” ;
+
+### 5)
+
+w art. 16g ust. 20 otrzymuje brzmienie:
+
+„
+
+### 20.
+
+W razie zmiany formy opodatkowania odpowiednio z podatku tonażowego albo zryczałtowanego podatku od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, na podatek dochodowy podatnicy w ewidencji, o której mowa w art. 9, uwzględniają odpisy amortyzacyjne przypadające za okres opodatkowania w formie podatku tonażowego lub zryczałtowanego podatku od wartości sprzedanej produkcji.
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ([Dz. U. z 2015 r. poz. 282](https://api.sejm.gov.pl/eli/acts/DU/2015/282/text.html) oraz [z 2016 r. poz. 1020](https://api.sejm.gov.pl/eli/acts/DU/2016/1020/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 w ust. 3 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+w wyniku inwestycji będzie prowadzona działalność w zakresie budownictwa okrętowego lub przemysłów komplementarnych, lub
+
+” ;
+
+### 2)
+
+w art. 5a po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku gdy zmiana obszaru strefy dotyczy budownictwa okrętowego lub przemysłów komplementarnych, z wnioskiem, o którym mowa w ust. 1, występuje minister właściwy do spraw gospodarki na wniosek ministra właściwego do spraw gospodarki morskiej.
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne ([Dz. U. poz. 930](https://api.sejm.gov.pl/eli/acts/DU/1998/930/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1104 i 1324, z 2001 r. poz. 784, 961, 1363, 1369 i 1509, z 2002 r. poz. 1183, 1384, 1412 i 1679, z 2003 r. poz. 391, 874, 1268, 1302 i 1958, z 2004 r. poz. 2135 i 2619, z 2005 r. poz. 1199, 1366 i 1420, z 2006 r. poz. 1353 i 1588, z 2008 r. poz. 888, 894 i 1316, z 2009 r. poz. 1241 i 1541, z 2010 r. poz. 13, 146, 473, 1442 i 1478, z 2011 r. poz. 622 i 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333, 1595 i 1893.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6 ust. 1f otrzymuje brzmienie:
+
+„
+
+### 1f.
+
+Jeżeli korekta, o której mowa w art. 14 ust. 1m ustawy o podatku dochodowym, następuje po zmianie formy opodatkowania na opodatkowanie w formie karty podatkowej, opodatkowanie na zasadach ogólnych albo opodatkowanie na zasadach określonych w ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym ([Dz. U. z 2014 r. poz. 511](https://api.sejm.gov.pl/eli/acts/DU/2014/511/text.html) oraz [z 2015 r. poz. 211](https://api.sejm.gov.pl/eli/acts/DU/2015/211/text.html)) albo w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych ([Dz. U. poz. 1206](https://api.sejm.gov.pl/eli/acts/DU/2016/1206/text.html)), zmniejszenia lub zwiększenia przychodów dokonuje się w ostatnim okresie rozliczeniowym przed zmianą formy opodatkowania.
+
+” ;
+
+### 2)
+
+w art. 15 ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Podatnicy będący przedsiębiorcami żeglugowymi w rozumieniu ustawy z dnia 24 sierpnia 2006 r. o podatku tonażowym oraz podatnicy będący przedsiębiorcami okrętowymi w rozumieniu ustawy z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych prowadzący działalność opodatkowaną odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji oraz inną działalność opodatkowaną ryczałtem od przychodów ewidencjonowanych są obowiązani w ewidencji wyodrębnić przychody podlegające opodatkowaniu odpowiednio podatkiem tonażowym albo zryczałtowanym podatkiem od wartości sprzedanej produkcji i ryczałtem od przychodów ewidencjonowanych.
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2016 r. poz. 710](https://api.sejm.gov.pl/eli/acts/DU/2016/710/text.html), [846](https://api.sejm.gov.pl/eli/acts/DU/2016/846/text.html), [960](https://api.sejm.gov.pl/eli/acts/DU/2016/960/text.html) i [1052](https://api.sejm.gov.pl/eli/acts/DU/2016/1052/text.html)) w art. 83 w ust. 1:
+
+### 1)
+
+pkt 1-4 otrzymują brzmienie:
+
+„
+
+### 1)
+
+dostaw:
+
+### a)
+
+jednostek pływających używanych do żeglugi na pełnym morzu i przewożących odpłatnie pasażerów lub używanych do celów handlowych, przemysłowych lub do połowów, w tym w szczególności:
+
+- - pełnomorskich liniowców pasażerskich, pełnomorskich statków wycieczkowych i tym podobnych jednostek pływających do przewozu osób; pełnomorskich promów wszelkiego typu (PKWiU ex 30.11.21.0),
+
+- - pełnomorskich tankowców do przewozu ropy naftowej, produktów przerobu ropy naftowej, chemikaliów oraz gazów skroplonych (PKWiU ex 30.11.22.0),
+
+- - pełnomorskich chłodniowców, z wyłączeniem tankowców (PKWiU ex 30.11.23.0),
+
+- - pozostałych statków pełnomorskich do przewozu ładunków suchych (stałych), z wyłączeniem barek morskich bez napędu (PKWiU ex 30.11.24.0),
+
+- - pełnomorskich statków rybackich, pełnomorskich statków przetwórni oraz pełnomorskich pozostałych jednostek pływających do przetwarzania lub konserwowania produktów rybołówstwa (PKWiU ex 30.11.31.0),
+
+- - pchaczy pełnomorskich i holowników pełnomorskich (PKWiU ex 30.11.32.0),
+
+- - pełnomorskich lodołamaczy (PKWiU ex 30.11.33.0),
+
+### b)
+
+używanych na morzu statków ratowniczych morskich i łodzi ratunkowych (PKWiU ex 30.11.33.0),
+
+### c)
+
+jednostek pływających używanych do rybołówstwa przybrzeżnego (PKWiU ex 30.11.31.0);
+
+### 2)
+
+importu:
+
+### a)
+
+jednostek pływających używanych do żeglugi na pełnym morzu i przewożących odpłatnie pasażerów lub używanych do celów handlowych, przemysłowych lub do połowów, w tym w szczególności:
+
+- - pełnomorskich liniowców pasażerskich, pełnomorskich łodzi wycieczkowych oraz podobnych jednostek pływających, zaprojektowanych głównie do przewozu osób; pełnomorskich promów wszelkiego rodzaju (CN 8901 10 10),
+
+- - pełnomorskich tankowców (CN 8901 20 10),
+
+- - pełnomorskich chłodniowców, innych niż objęte podpozycją 8901 20 (CN 8901 30 10),
+
+- - pozostałych jednostek pływających pełnomorskich do przewozu towarów oraz pozostałych jednostek pływających pełnomorskich do przewozu zarówno osób, jak i towarów, z wyłączeniem barek morskich bez napędu (CN ex 8901 90 10),
+
+- - pełnomorskich statków rybackich, pełnomorskich statków przetwórni oraz pełnomorskich pozostałych jednostek pływających do przetwarzania lub konserwowania produktów rybołówstwa (CN 8902 00 10),
+
+- - pchaczy pełnomorskich (CN 8904 00 91) i holowników pełnomorskich (CN ex 8904 00 10),
+
+- - pełnomorskich lodołamaczy (CN ex 8906 90 10),
+
+### b)
+
+używanych na morzu statków ratowniczych morskich (CN ex 8905 90 10) i łodzi ratunkowych (CN ex 8906 90 10),
+
+### c)
+
+jednostek pływających używanych do rybołówstwa przybrzeżnego (CN ex 8902 00 90);
+
+### 3)
+
+dostaw części do jednostek pływających, o których mowa w pkt 1, i wyposażenia tych jednostek, jeżeli są w nie wbudowywane lub służą ich eksploatacji;
+
+### 4)
+
+importu części do jednostek pływających, o których mowa w pkt 1, i wyposażenia tych jednostek, jeżeli są w nie wbudowywane lub służą ich eksploatacji;
+
+” ;
+
+### 2)
+
+pkt 12 otrzymuje brzmienie:
+
+„
+
+### 12)
+
+usług najmu, dzierżawy, leasingu lub czarteru jednostek pływających, o których mowa w pkt 1, oraz najmu, dzierżawy, leasingu lub czarteru wyposażenia tych jednostek;
+
+” ;
+
+### 3)
+
+pkt 17 otrzymuje brzmienie:
+
+„
+
+### 17)
+
+pozostałych usług świadczonych na rzecz armatorów morskich lub innych podmiotów wykonujących przewozy środkami transportu morskiego służących bezpośrednim potrzebom jednostek pływających, o których mowa w pkt 1, lub ich ładunków;
+
+” .
+
+### Art. 21.
+
+W ustawie z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej ([Dz. U. z 2015 r. poz. 1710](https://api.sejm.gov.pl/eli/acts/DU/2015/1710/text.html)) po art. 12 dodaje się art. 12a w brzmieniu:
+
+„
+
+### Art. 12a.
+
+Rada Ministrów może określić, w drodze rozporządzenia, warunki udzielania kredytu technologicznego oraz premii technologicznej przedsiębiorcom prowadzącym działalność gospodarczą w zakresie budownictwa okrętowego, biorąc pod uwagę konieczność zapewnienia zgodności udzielanej pomocy z prawem Unii Europejskiej.
+
+” .
+
+### Art. 22.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 4 ustawy zmienianej w art. 18 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 5 ust. 4 ustawy zmienianej w art. 18, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 23.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 11 marca 2004 r. o podatku od towarów i usług oraz ustawę z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 875, 978, 1197, 1268, 1272, 1618, 1649, 1688, 1712, 1844 i 1893 oraz z 2016 r. poz. 65, 352, 615, 780, 868, 903, 960 i 1165. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 699, 978, 1197, 1269, 1311, 1649, 1923, 1932 i 2184 oraz z 2016 r. poz. 195, 615 i 846. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929 i 1010. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 915, 1138, 1146, 1215, 1328, 1457, 1563 i 1662, z 2015 r. poz. 73, 211, 933, 978, 1166, 1197, 1259, 1296, 1348, 1595, 1688, 1767, 1844 i 1932 oraz z 2016 r. poz. 68, 615, 780 i 996. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1104 i 1324, z 2001 r. poz. 784, 961, 1363, 1369 i 1509, z 2002 r. poz. 1183, 1384, 1412 i 1679, z 2003 r. poz. 391, 874, 1268, 1302 i 1958, z 2004 r. poz. 2135 i 2619, z 2005 r. poz. 1199, 1366 i 1420, z 2006 r. poz. 1353 i 1588, z 2008 r. poz. 888, 894 i 1316, z 2009 r. poz. 1241 i 1541, z 2010 r. poz. 13, 146, 473, 1442 i 1478, z 2011 r. poz. 622 i 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563 oraz z 2015 r. poz. 211, 699, 978, 1333, 1595 i 1893.

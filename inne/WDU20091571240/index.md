@@ -8,11 +8,9 @@ pos: 1240
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o finansach publicznych
-
-*USTAWA z dnia 27 sierpnia 2009 r.*
+# Ustawa z dnia 27 sierpnia 2009 r. o finansach publicznych
 
 | Pole | Wartość |
 |---|---|
@@ -23,4233 +21,8269 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2009-08-27 |
 | Data wydania | 2009-09-24 |
-| Ostatnia zmiana | 2026-04-29 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091571240) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1240/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/1240/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/1240) |
 
-### DZIAŁ I Zasady finansów publicznych
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Dział I - Zasady finansów publicznych](#bran_I) [Rozdział 1 - Przepisy ogólne](#bran_I-chpt_1) [Rozdział 2 - Środki publiczne, nadwyżka i deficyt sektora finansów publicznych](#bran_I-chpt_2) [Rozdział 3 - Jednostki sektora finansów publicznych](#bran_I-chpt_3) [Rozdział 4 - Jawność i przejrzystość finansów publicznych](#bran_I-chpt_4) [Rozdział 5 - Zasady gospodarowania środkami publicznymi](#bran_I-chpt_5) [Rozdział 6 - Kontrola zarządcza oraz koordynacja kontroli zarządczej w jednostkach sektora finansów publicznych](#bran_I-chpt_6) [Dział II - Państwowy dług publiczny](#bran_II) [Rozdział 1 - Przepisy ogólne](#bran_II-chpt_1) [Rozdział 2 - Finansowanie potrzeb pożyczkowych budżetu państwa](#bran_II-chpt_2) [Rozdział 3 - Procedury ostrożnościowe i sanacyjne](#bran_II-chpt_3) [Rozdział 4 - Ogólne zasady zaciągania zobowiązań przez inne niż Skarb Państwa jednostki sektora finansów publicznych](#bran_II-chpt_4) [Rozdział 5 - Zasady i tryb emisji skarbowych papierów wartościowych](#bran_II-chpt_5) [Dział III - Wieloletni Plan Finansowy Państwa i ustawa budżetowa](#bran_III) [Rozdział 1 - Wieloletni Plan Finansowy Państwa](#bran_III-chpt_1) [Rozdział 2 - Ustawa budżetowa](#bran_III-chpt_2) [Rozdział 3 - Przeznaczenie wydatków budżetu państwa](#bran_III-chpt_3) [Rozdział 4 - Tryb opracowywania i uchwalania budżetu państwa](#bran_III-chpt_4) [Rozdział 5 - Wykonywanie ustawy budżetowej](#bran_III-chpt_5) [Rozdział 6 - Wykonywanie budżetu środków europejskich](#bran_III-chpt_6) [Rozdział 7 - Bankowa obsługa budżetu państwa](#bran_III-chpt_7) [Dział IV - Środki europejskie i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi](#bran_IV) [Dział V - Budżet, wieloletnia prognoza finansowa i uchwała budżetowa jednostki samorządu terytorialnego](#bran_V) [Rozdział 1 - Zakres budżetu jednostki samorządu terytorialnego](#bran_V-chpt_1) [Rozdział 2 - Wieloletnia prognoza finansowa jednostki samorządu terytorialnego](#bran_V-chpt_2) [Rozdział 3 - Uchwała budżetowa](#bran_V-chpt_3) [Rozdział 4 - Wykonywanie budżetu jednostki samorządu terytorialnego](#bran_V-chpt_4) [Rozdział 5 - Tryb zatwierdzenia wykonania budżetu jednostki samorządu terytorialnego](#bran_V-chpt_5) [Dział VI - Audyt wewnętrzny oraz koordynacja audytu wewnętrznego w jednostkach sektora finansów publicznych](#bran_VI) [Dział VII - Przepis końcowy](#bran_VII)
 
-**Art. 1.** Ustawa określa:
+TOC
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+## Treść ustawy
 
-**Art. 3.** Finanse publiczne obejmują procesy związane z gromadzeniem środków publicznych oraz ich rozdysponowywaniem, w szczególności:
+### Dział I Zasady finansów publicznych
 
-**Art. 3a.** Do umów i jednostronnych czynności prawnych, związanych z gromadzeniem środków publicznych oraz ich rozdysponowywaniem w zakresie:
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.**
+### Art. 1.
 
-1. Przepisy ustawy stosuje się do:
+Ustawa określa:
 
-- **1)** jednostek sektora finansów publicznych;
-- **2)** innych podmiotów w zakresie, w jakim wykorzystują środki publiczne lub dysponują tymi środkami.
+### 1)
 
-2. Przepisy dotyczące jednostek samorządu terytorialnego stosuje się odpowiednio do związków metropolitalnych oraz związków gmin i powiatów.
+zakres i zasady działania oraz organizację jednostek budżetowych i samorządowych zakładów budżetowych;
 
-**Art. 4a.**
+### 2)
 
-1. Minister Finansów przedkłada Radzie Ministrów projekt średniookresowego planu budżetowo-strukturalnego w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), projekt zmienionego średniookresowego planu budżetowo-strukturalnego, o którym mowa w art. 15 i art. 18 tego rozporządzenia, oraz projekt rocznego sprawozdania z postępów, o którym mowa w art. 21 tego rozporządzenia.
+zakres i zasady działania agencji wykonawczych, instytucji gospodarki budżetowej i państwowych funduszy celowych;
 
-2. Rada Ministrów przyjmuje średniookresowy plan budżetowo-strukturalny w rozumieniu art. 2 pkt 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającego rozporządzenie Rady (WE) nr 1466/97, zmieniony średniookresowy plan budżetowo-strukturalny, o którym mowa w art. 15 i art. 18 tego rozporządzenia, oraz roczne sprawozdanie z postępów, o którym mowa w art. 21 tego rozporządzenia, które następnie są publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów oraz przedkładane zgodnie z odpowiednio art. 11 ust. 1, art. 15 ust. 1 i 2, art. 18 i art. 21 ust. 1 tego rozporządzenia.
+### 3)
 
-#### Rozdział 2 Środki publiczne, nadwyżka i deficyt sektora finansów publicznych
+zasady funkcjonowania jednostek sektora finansów publicznych w zakresie gospodarki finansowej;
 
-**Art. 5.**
+### 4)
 
-1. Środkami publicznymi są:
+zasady i tryb kontroli procesów związanych z gromadzeniem i rozdysponowywaniem środków publicznych oraz gospodarowaniem mieniem;
 
-- **1)** dochody publiczne;
-- **2)** środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
-- **2a)** środki, o których mowa w art. 3b ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198);
-- **2b)** środki, o których mowa w art. 202 ust. 4;
-- **3)** środki pochodzące ze źródeł zagranicznych niepodlegające zwrotowi, inne niż wymienione w pkt 2;
-- **4)** przychody budżetu państwa i budżetów jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych pochodzące:
-    - **a)** ze sprzedaży papierów wartościowych,
-    - **b)** z prywatyzacji majątku Skarbu Państwa oraz majątku jednostek samorządu terytorialnego,
-    - **c)** ze spłat pożyczek i kredytów udzielonych ze środków publicznych,
-    - **d)** z otrzymanych pożyczek i kredytów,
-    - **e)** z innych operacji finansowych;
+### 5)
 
-- **5)** przychody jednostek sektora finansów publicznych pochodzące z prowadzonej przez nie działalności oraz pochodzące z innych źródeł.
+zasady zarządzania państwowym długiem publicznym oraz procedury ostrożnościowe i sanacyjne;
 
-1a. Do przychodów budżetu państwa, o których mowa w ust. 1 pkt 4 lit. e, zalicza się także środki przekazane z rachunków depozytowych Ministra Finansów, o których mowa w art. 83a, na inne rachunki Ministra Finansów.
+### 6)
 
-2. Dochodami publicznymi są:
+zasady i tryb opracowywania oraz uchwalania Wieloletniego Planu Finansowego Państwa;
 
-- **1)** daniny publiczne, do których zalicza się: podatki, składki, opłaty, wpłaty z zysku przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa oraz banków państwowych, a także inne świadczenia pieniężne, których obowiązek ponoszenia na rzecz państwa, jednostek samorządu terytorialnego, państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych wynika z odrębnych ustaw;
-- **2)** inne dochody budżetu państwa, jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych należne na podstawie odrębnych ustaw lub umów międzynarodowych;
-- **3)** wpływy ze sprzedaży wyrobów i usług świadczonych przez jednostki sektora finansów publicznych;
-- **4)** dochody z mienia jednostek sektora finansów publicznych, do których zalicza się w szczególności:
-    - **a)** wpływy z umów najmu, dzierżawy i innych umów o podobnym charakterze,
-    - **b)** odsetki od środków na rachunkach bankowych,
-    - **c)** odsetki od udzielonych pożyczek i od posiadanych papierów wartościowych,
-    - **d)** dywidendy z tytułu posiadanych praw majątkowych;
+### 7)
 
-- **5)** spadki, zapisy i darowizny w postaci pieniężnej na rzecz jednostek sektora finansów publicznych;
-- **6)** odszkodowania należne jednostkom sektora finansów publicznych;
-- **7)** kwoty uzyskane przez jednostki sektora finansów publicznych z tytułu udzielonych poręczeń i gwarancji;
-- **8)** dochody ze sprzedaży majątku, rzeczy i praw, niestanowiące przychodów w rozumieniu ust. 1 pkt 4 lit. a i b.
+zasady i tryb opracowywania oraz uchwalania wieloletniej prognozy finansowej jednostki samorządu terytorialnego;
 
-3. Do środków, o których mowa w ust. 1 pkt 2, zalicza się:
+### 8)
 
-- **1)** środki pochodzące z funduszy strukturalnych, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji, Europejskiego Funduszu Rybackiego, Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, z wyłączeniem środków, o których mowa w pkt 5 lit. a i b;
-- **2)** niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), z wyłączeniem środków, o których mowa w pkt 5 lit. c i d:
-    - **a)** Norweskiego Mechanizmu Finansowego,
-    - **b)** Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego,
-    - **c)** Szwajcarsko-Polskiego Programu Współpracy;
+zasady i tryb sporządzania budżetu państwa w układzie zadaniowym;
 
-- **3)** środki przeznaczone na realizację programów przedakcesyjnych oraz Programu Środki Przejściowe;
-- **4)** środki na realizację wspólnej polityki rolnej;
-- **5)** środki przeznaczone na realizację: określającym przepisy ogólne w sprawie ustanowienia Europejskiego Instrumentu Sąsiedztwa i Partnerstwa (Dz. Urz. UE L 310 z 09.11.2006, str. 1) oraz programów Europejskiego Instrumentu Sąsiedztwa, ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności (Dz. Urz. UE L 57 z 18.02.2021, str. 17, z późn. zm. ), związanych z wniesieniem wkładu państwa członkowskiego do programów zarządzanych centralnie przez Komisję Europejską;
-    - **a)** programów w ramach celu Europejska Współpraca Terytorialna oraz celu Europejska Współpraca Terytorialna (Interreg),
-    - **b)** programów, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1638/2006 z dnia 24 października 2006 r.
-    - **c)** Norweskiego Mechanizmu Finansowego 2004–2009,
-    - **d)** Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego 2004–2009,
-    - **e)** inwestycji finansowanych ze środków wsparcia o charakterze bezzwrotnym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r.
+### 9)
 
-- **5a)** środki przeznaczone na realizację Inicjatywy na rzecz zatrudnienia ludzi młodych 2014–2020;
-- **5b)** Środki Europejskiego Funduszu Pomocy Najbardziej Potrzebującym i środki Europejskiego Funduszu Społecznego Plus przeznaczonego na zwalczanie deprywacji materialnej;
-- **5c)** środki pochodzące z instrumentu „Łącząc Europę”, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1316/2013 z dnia 11 grudnia 2013 r. ustanawiającym instrument „Łącząc Europę”, zmieniającym rozporządzenie (UE) nr 913/2010 oraz uchylającym rozporządzenia (WE) nr 680/2007 i (WE) nr 67/2010 (Dz. Urz. UE L 348 z 20.12.2013, str. 129, z późn. zm. ), oraz środki pochodzące z instrumentu „Łącząc Europę”, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/1153 z dnia 7 lipca 2021 r. ustanawiającym instrument „Łącząc Europę” i uchylającym rozporządzenia (UE) nr 1316/2013 i (UE) nr 283/2014 (Dz. Urz. UE L 249 z 14.07.2021, str. 38);
-- **5d)** środki pochodzące z Instrumentu na rzecz Odbudowy i Zwiększania Odporności, przeznaczone na wsparcie o charakterze bezzwrotnym, o którym mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/241 z dnia 12 lutego 2021 r. ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności, z wyłączeniem środków, o których mowa w pkt 5 lit. e;
-- **6)** inne środki.
+zakres i szczegółowość oraz zasady i tryb planowania, uchwalania i wykonywania budżetu państwa oraz budżetów jednostek samorządu terytorialnego;
 
-4. Rada Ministrów może określić, w drodze rozporządzenia, środki publiczne niezaliczane do środków, o których mowa w ust. 3 pkt 5c i 6, oraz termin, w którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie oraz beneficjentów tych środków.
+### 10)
 
-5. (uchylony)
+szczególne zasady rachunkowości, planowania i sprawozdawczości obowiązujące w sektorze finansów publicznych;
 
-**Art. 6.**
+### 11)
 
-1. Środki publiczne przeznacza się na:
+zasady gospodarowania środkami publicznymi pochodzącymi z budżetu Unii Europejskiej oraz z innych źródeł zagranicznych;
 
-- **1)** wydatki publiczne;
-- **2)** rozchody publiczne, w tym na rozchody budżetu państwa i budżetów jednostek samorządu terytorialnego.
+### 12)
 
-2. Rozchodami publicznymi są:
+zasady kontroli zarządczej i audytu wewnętrznego oraz koordynacji kontroli zarządczej i audytu wewnętrznego w jednostkach sektora finansów publicznych.
 
-- **1)** spłaty otrzymanych pożyczek i kredytów;
-- **2)** wykup papierów wartościowych;
-- **3)** udzielone pożyczki i kredyty;
-- **4)** płatności wynikające z odrębnych ustaw, których źródłem finansowania są przychody z prywatyzacji majątku Skarbu Państwa;
-- **5)** inne operacje finansowe związane z zarządzaniem długiem publicznym i płynnością;
-- **6)** płatności związane z udziałami Skarbu Państwa w międzynarodowych instytucjach finansowych.
+### Art. 2.
 
-**Art. 7.**
+Ilekroć w ustawie jest mowa o:
 
-1. Dodatnia różnica między dochodami publicznymi a wydatkami publicznymi, ustalona dla okresu rozliczeniowego, stanowi nadwyżkę sektora finansów publicznych, zaś ujemna różnica jest deficytem sektora finansów publicznych.
+### 1)
 
-2. Dochody publiczne i wydatki publiczne oraz nadwyżkę lub deficyt sektora finansów publicznych ustala się po wyeliminowaniu przepływów finansowych między jednostkami tego sektora.
+Ministrze Finansów - rozumie się przez to odpowiednio ministra właściwego do spraw budżetu, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw instytucji finansowych;
 
-#### Rozdział 3 Jednostki sektora finansów publicznych
+### 2)
 
-**Art. 8.**
+zarządzie jednostki samorządu terytorialnego - rozumie się przez to również wójta, burmistrza lub prezydenta miasta;
 
-1. Jednostki sektora finansów publicznych są tworzone w formach określonych w niniejszym rozdziale.
+### 3)
 
-2. Jednostki sektora finansów publicznych mogą być tworzone na podstawie niniejszej ustawy albo na podstawie odrębnych ustaw.
+układzie zadaniowym - rozumie się przez to zestawienie odpowiednio wydatków budżetu państwa lub kosztów jednostki sektora finansów publicznych sporządzone według funkcji państwa, oznaczających poszczególne obszary działań państwa, oraz:
 
-**Art. 9.** Sektor finansów publicznych tworzą:
+### a)
 
-**Art. 10.**
+zadań budżetowych grupujących wydatki według celów,
 
-1. Jednostki budżetowe, samorządowe zakłady budżetowe, agencje wykonawcze, instytucje gospodarki budżetowej i państwowe fundusze celowe stosują zasady gospodarki finansowej określone w niniejszej ustawie.
+### b)
 
-2. Do jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 8–15, działających na podstawie odrębnych ustaw stanowiących podstawę ich utworzenia przepisy niniejszej ustawy stosuje się odpowiednio.
+podzadań budżetowych grupujących działania umożliwiające realizację celów zadania, w ramach którego podzadania te zostały wyodrębnione
 
-**Art. 11.**
+- wraz z opisem celów tych zadań i podzadań, a także z bazowymi i docelowymi miernikami stopnia realizacji celów działalności państwa, oznaczającymi wartościowe, ilościowe lub opisowe określenie bazowego i docelowego poziomu efektów z poniesionych nakładów;
 
-1. Jednostkami budżetowymi są jednostki organizacyjne sektora finansów publicznych nieposiadające osobowości prawnej, które pokrywają swoje wydatki bezpośrednio z budżetu, a pobrane dochody odprowadzają na rachunek odpowiednio dochodów budżetu państwa albo budżetu jednostki samorządu terytorialnego.
+### 4)
 
-2. Jednostka budżetowa działa na podstawie statutu określającego w szczególności jej nazwę, siedzibę i przedmiot działalności.
+odrębnych ustawach - rozumie się przez to ustawy inne niż niniejsza ustawa oraz ustawa budżetowa;
 
-3. Podstawą gospodarki finansowej jednostki budżetowej jest plan dochodów i wydatków, zwany dalej „planem finansowym jednostki budżetowej”.
+### 5)
 
-**Art. 11a.**
+środkach europejskich - rozumie się przez to środki, o których mowa w art. 5 ust. 3 pkt 1, 2 i 4;
 
-1. Państwowe jednostki budżetowe, dla których organem prowadzącym są organy administracji państwowej, prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043 i 1160) gromadzą na wydzielonym rachunku dochody uzyskiwane:
+### 6)
 
-- **1)** ze spadków, zapisów i darowizn w postaci pieniężnej na rzecz jednostki budżetowej;
-- **2)** z odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie bądź użytkowaniu jednostki budżetowej;
-- **3)** z działalności wykraczającej poza zakres działalności podstawowej, określonej w statucie, polegającej między innymi na świadczeniu usług, w tym szkoleniowych i informacyjnych;
-- **4)** z opłat egzaminacyjnych, za wydawanie świadectw i certyfikatów, jak również za sprawdzanie kwalifikacji;
-- **5)** z tytułu odpłatności za wyżywienie i zakwaterowanie uczniów i młodzieży w bursach i internatach, ponoszonych przez rodziców lub opiekunów;
-- **6)** z dopłat bezpośrednich i innych płatności stosowanych w ramach wspólnej polityki rolnej Unii Europejskiej, otrzymanych na podstawie odrębnych przepisów.
+organizacjach pozarządowych - rozumie się przez to organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. Nr 96, poz. 873](https://api.sejm.gov.pl/eli/acts/DU/2003/873/text.html), z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104, z 2006 r. Nr 94, poz. 651, z 2008 r. Nr 209, poz. 1316 oraz z 2009 r. Nr 19, poz. 100 i Nr 22, poz. 120.](#gloss-0:1:));
 
-2. Decyzje o utworzeniu rachunku, o którym mowa w ust. 1, podejmują kierownicy państwowych jednostek budżetowych, po uzyskaniu zgody organu prowadzącego szkołę.
+### 7)
 
-3. Dochody państwowych jednostek budżetowych, o których mowa w ust. 1, są przeznaczone na:
+jednostce w dziale - rozumie się przez to jednostkę sektora finansów publicznych podległą ministrowi kierującemu określonym działem administracji rządowej lub przez niego nadzorowaną lub jednostkę sektora finansów publicznych obsługującą organ podległy ministrowi kierującemu określonym działem administracji rządowej lub przez niego nadzorowany;
 
-- **1)** sfinansowanie wydatków bieżących i majątkowych;
-- **2)** cele wskazane przez darczyńcę;
-- **3)** remont lub odtworzenie mienia w przypadku uzyskania dochodów z tytułu wymienionego w ust. 1 pkt 2.
+### 8)
 
-4. Dochody, o których mowa w ust. 1, wraz z odsetkami nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych.
+dysponencie części budżetowej - rozumie się przez to kierowników jednostek oraz organy wymienione w art. 139 ust. 2, właściwych ministrów, kierowników urzędów centralnych, wojewodów oraz kierowników państwowych jednostek organizacyjnych, o których mowa w art. 114 ust. 3 pkt 2, dysponujących częściami budżetu państwa.
 
-5. Organ prowadzący, o którym mowa w ust. 1, na podstawie informacji otrzymanych od kierowników państwowych jednostek budżetowych, o których mowa w ust. 1, opracowuje zestawienie dochodów, o których mowa w ust. 1, oraz wydatków nimi finansowanych i przekazuje je Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+### Art. 3.
 
-**Art. 12.**
+Finanse publiczne obejmują procesy związane z gromadzeniem środków publicznych oraz ich rozdysponowywaniem, w szczególności:
 
-1. Jednostki budżetowe, z zastrzeżeniem odrębnych ustaw, tworzą, łączą i likwidują:
+### 1)
 
-- **1)** ministrowie, kierownicy urzędów centralnych, wojewodowie oraz inne organy działające na podstawie odrębnych ustaw – państwowe jednostki budżetowe;
-- **2)** organy stanowiące jednostek samorządu terytorialnego – gminne, powiatowe lub wojewódzkie jednostki budżetowe.
+gromadzenie dochodów i przychodów publicznych;
 
-2. Tworząc jednostkę budżetową, organ, o którym mowa w ust. 1, nadaje jej statut, chyba że odrębne ustawy stanowią inaczej, oraz określa mienie przekazywane tej jednostce w zarząd.
+### 2)
 
-3. Likwidując jednostkę budżetową, organ, o którym mowa w ust. 1, określa przeznaczenie mienia znajdującego się w zarządzie tej jednostki, z zastrzeżeniem ust. 7. W przypadku państwowej jednostki budżetowej decyzja o przeznaczeniu tego mienia jest podejmowana w porozumieniu z ministrem właściwym do spraw aktywów państwowych.
+wydatkowanie środków publicznych;
 
-4. Z zastrzeżeniem ust. 7, należności i zobowiązania likwidowanej:
+### 3)
 
-- **1)** państwowej jednostki budżetowej – przejmuje organ, który podjął decyzję o likwidacji;
-- **2)** gminnej, powiatowej lub wojewódzkiej jednostki budżetowej – przejmuje urząd odpowiedniej jednostki samorządu terytorialnego.
+finansowanie potrzeb pożyczkowych budżetu państwa;
 
-5. Przepis ust. 3 stosuje się odpowiednio do łączenia jednostek budżetowych.
+### 4)
 
-6. Likwidując jednostkę budżetową, organ, o którym mowa w ust. 1, może postanowić o utworzeniu jednostki o innej formie organizacyjno-prawnej.
+zaciąganie zobowiązań angażujących środki publiczne;
 
-7. W przypadku, o którym mowa w ust. 6, organ może również zdecydować o przejęciu należności i zobowiązań likwidowanej jednostki budżetowej przez nowo utworzoną jednostkę.
+### 5)
 
-**Art. 13.**
+zarządzanie środkami publicznymi;
 
-1. Prezes Rady Ministrów może utworzyć jednostkę budżetową realizującą zadania na rzecz administracji rządowej.
+### 6)
 
-2. Prezes Rady Ministrów, tworząc jednostkę budżetową, o której mowa w ust. 1, określi zakres realizowanych przez nią zadań.
+zarządzanie długiem publicznym;
 
-3. Jednostka budżetowa, o której mowa w ust. 1, podlega Prezesowi Rady Ministrów albo wskazanemu przez niego ministrowi lub kierownikowi urzędu centralnego.
+### 7)
 
-4. Przepisy art. 12 ust. 2–7 stosuje się odpowiednio.
+rozliczenia z budżetem Unii Europejskiej.
 
-**Art. 14.** Zadania własne jednostki samorządu terytorialnego w zakresie:
+### Art. 4.
 
-**Art. 15.**
+### 1.
 
-1. Samorządowy zakład budżetowy odpłatnie wykonuje zadania, pokrywając koszty swojej działalności z przychodów własnych.
+Przepisy ustawy stosuje się do:
 
-2. Podstawą gospodarki finansowej samorządowego zakładu budżetowego jest roczny plan finansowy obejmujący przychody, w tym dotacje z budżetu jednostki samorządu terytorialnego, koszty i inne obciążenia, stan środków obrotowych, stan należności i zobowiązań na początek i koniec okresu oraz rozliczenia z budżetem jednostki samorządu terytorialnego.
+### 1)
 
-3. Samorządowy zakład budżetowy może otrzymywać z budżetu jednostki samorządu terytorialnego:
+jednostek sektora finansów publicznych;
 
-- **1)** dotacje przedmiotowe;
-- **2)** dotacje celowe na zadania bieżące finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
-- **3)** dotacje celowe na finansowanie lub dofinansowanie kosztów realizacji inwestycji.
+### 2)
 
-4. W zakresie określonym w odrębnych ustawach samorządowy zakład budżetowy może otrzymywać dotację podmiotową.
+innych podmiotów w zakresie, w jakim wykorzystują środki publiczne lub dysponują tymi środkami.
 
-4a. Samorządowy zakład budżetowy może otrzymać z budżetu jednostki samorządu terytorialnego środki finansowe wynikające z rozliczenia podatku od towarów i usług, z tym że ich wysokość nie może być wyższa niż wynikająca z rozliczenia tego podatku związanego z tym zakładem.
+### 2.
 
-5. Nowo tworzonemu samorządowemu zakładowi budżetowemu może być przyznana jednorazowa dotacja z budżetu jednostki samorządu terytorialnego na pierwsze wyposażenie w środki obrotowe.
+Przepisy dotyczące jednostek samorządu terytorialnego stosuje się odpowiednio do związków gmin i powiatów.
 
-6. Dotacje dla samorządowego zakładu budżetowego, z wyłączeniem dotacji, o których mowa w ust. 3 pkt 2 i 3, nie mogą przekroczyć 50 % kosztów jego działalności.
+### Rozdział 2 Środki publiczne, nadwyżka i deficyt sektora finansów publicznych
 
-7. Samorządowy zakład budżetowy wpłaca do budżetu jednostki samorządu terytorialnego nadwyżkę środków obrotowych, ustaloną na koniec okresu sprawozdawczego, chyba że organ stanowiący jednostki samorządu terytorialnego postanowi inaczej.
+### Art. 5.
 
-8. W planie finansowym samorządowego zakładu budżetowego mogą być dokonywane zmiany w ciągu roku w przypadku realizowania wyższych od planowanych przychodów i kosztów, pod warunkiem że nie spowoduje to zmniejszenia wpłat do budżetu jednostki samorządu terytorialnego ani zwiększenia dotacji z budżetu jednostki samorządu terytorialnego.
+### 1.
 
-**Art. 16.**
+Środkami publicznymi są:
 
-1. Organ stanowiący jednostki samorządu terytorialnego tworzy, łączy, przekształca w inną formę organizacyjno-prawną i likwiduje samorządowy zakład budżetowy.
+### 1)
 
-2. Tworząc samorządowy zakład budżetowy, organ stanowiący jednostki samorządu terytorialnego określa:
+dochody publiczne;
 
-- **1)** nazwę i siedzibę zakładu;
-- **2)** przedmiot jego działalności;
-- **3)** źródła przychodów własnych zakładu;
-- **4)** stan wyposażenia zakładu w środki obrotowe oraz składniki majątkowe przekazane zakładowi w użytkowanie;
-- **5)** terminy i sposób ustalania zaliczkowych wpłat nadwyżki środków obrotowych dokonywanych przez zakład do budżetu jednostki samorządu terytorialnego oraz sposób i terminy rocznych rozliczeń i dokonywania wpłat do budżetu;
-- **6)** zasady ustalania i przekazywania z budżetu jednostki samorządu terytorialnego środków finansowych wynikających z rozliczenia podatku od towarów i usług, jeżeli przewiduje przekazywanie tych środków temu zakładowi.
+### 2)
 
-3. Likwidując samorządowy zakład budżetowy, organ stanowiący jednostki samorządu terytorialnego określa przeznaczenie mienia znajdującego się w użytkowaniu tego zakładu.
+środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA);
 
-4. Przepis ust. 3 stosuje się odpowiednio do łączenia samorządowych zakładów budżetowych.
+### 3)
 
-5. Przekształcenie samorządowego zakładu budżetowego w inną formę organizacyjno-prawną wymaga uprzednio jego likwidacji.
+środki pochodzące ze źródeł zagranicznych niepodlegające zwrotowi, inne niż wymienione w pkt 2;
 
-6. Należności i zobowiązania likwidowanego samorządowego zakładu budżetowego przejmuje organ, który podjął decyzję o likwidacji, z zastrzeżeniem ust. 7.
+### 4)
 
-7. Należności i zobowiązania samorządowego zakładu budżetowego likwidowanego w celu przekształcenia w inną formę organizacyjno-prawną przejmuje utworzona jednostka.
+przychody budżetu państwa i budżetów jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych pochodzące:
 
-**Art. 17.**
+### a)
 
-1. Minister Finansów określi, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych, a w szczególności:
+ze sprzedaży papierów wartościowych,
 
-- **1)** sposób i tryb sporządzania planów finansowych,
-- **2)** sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian,
-- **3)** tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych,
-- **4)** sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych – biorąc pod uwagę potrzebę przestrzegania zasad celowego i oszczędnego dokonywania wydatków oraz jawności, przejrzystości i terminowej realizacji zadań.
+### b)
 
-2. Minister Finansów, wydając rozporządzenie, o którym mowa w ust. 1, uwzględni specyfikę działalności jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu i Szefowi Centralnego Biura Antykorupcyjnego, jednostek organizacyjnych Służby Więziennej oraz jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej.
+z prywatyzacji majątku Skarbu Państwa oraz majątku jednostek samorządu terytorialnego,
 
-**Art. 18.** Agencja wykonawcza jest państwową osobą prawną tworzoną na podstawie odrębnej ustawy w celu realizacji zadań państwa.
+### c)
 
-**Art. 19.**
+ze spłat pożyczek i kredytów udzielonych ze środków publicznych,
 
-1. Zasady działania agencji wykonawczej określa ustawa, o której mowa w art. 18, oraz statut.
+### d)
 
-2. Rada Ministrów może określić, w drodze rozporządzenia, wymogi, jakie powinien spełniać statut agencji wykonawczej, w celu zapewnienia jednolitej i przejrzystej organizacji wewnętrznej agencji wykonawczych pod względem instytucjonalnym.
+z otrzymanych pożyczek i kredytów,
 
-**Art. 20.** Agencja wykonawcza prowadzi gospodarkę finansową na zasadach określonych w niniejszej ustawie i w ustawie, o której mowa w art. 18.
+### e)
 
-**Art. 21.**
+z innych operacji finansowych;
 
-1. Podstawą gospodarki finansowej agencji wykonawczej jest roczny plan finansowy, obejmujący w szczególności:
+### 5)
 
-- **1)** przychody z prowadzonej działalności;
-- **2)** dotacje z budżetu państwa;
-- **3)** koszty:
-    - **a)** funkcjonowania agencji wykonawczej,
-    - **b)** realizacji zadań ustawowych, z wyszczególnieniem kosztów realizacji tych zadań przez inne podmioty – z wyszczególnieniem uposażeń i wynagrodzeń ze stosunku pracy oraz składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań oraz zakupu towarów i usług;
+przychody jednostek sektora finansów publicznych pochodzące z prowadzonej przez nie działalności oraz pochodzące z innych źródeł.
 
-- **4)** wynik finansowy;
-- **5)** środki na wydatki majątkowe;
-- **6)** środki przyznane innym podmiotom;
-- **7)** stan należności i zobowiązań na początek i koniec roku;
-- **8)** stan środków pieniężnych na początek i koniec roku.
+### 2.
 
-2. W ramach planu finansowego sporządza się także plan dochodów i wydatków agencji wykonawczej ujmowanych w terminie ich zapłaty, przy czym planowane wydatki nie powinny być wyższe od planowanych dochodów. Planowane wydatki mogą przekraczać planowane dochody za zgodą ministra sprawującego nadzór nad agencją wykonawczą, wydaną w porozumieniu z Ministrem Finansów.
+Dochodami publicznymi są:
 
-3. Projekt rocznego planu finansowego agencji wykonawczej ustala jej właściwy organ w porozumieniu z ministrem sprawującym nadzór nad agencją wykonawczą. Po zatwierdzeniu przez ministra sprawującego nadzór projekt jest przekazywany Ministrowi Finansów, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+### 1)
 
-4. W planie finansowym agencji wykonawczej, w trakcie roku budżetowego, mogą być dokonywane zmiany przychodów i kosztów lub dochodów i wydatków, w tym polegające na przesunięciach pomiędzy ich poszczególnymi pozycjami w ramach łącznych kwot przychodów, kosztów, dochodów lub wydatków:
+daniny publiczne, do których zalicza się: podatki, składki, opłaty, wpłaty z zysku przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa, a także inne świadczenia pieniężne, których obowiązek ponoszenia na rzecz państwa, jednostek samorządu terytorialnego, państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych wynika z odrębnych ustaw;
 
-- **1)** jeżeli nie spowodują one zwiększenia zobowiązań agencji ani pogorszenia jej planowanego wyniku finansowego brutto;
-- **2)** powodujące zwiększenie:
-    - **a)** łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub
-    - **b)** planowanych wydatków ponad planowane dochody, z uwzględnieniem możliwości wykorzystania środków pieniężnych z poprzednich okresów, pozostających w dyspozycji agencji wykonawczej, lub
-    - **c)** dotacji z budżetu państwa, lub
-    - **d)** uposażeń i wynagrodzeń ze stosunku pracy;
+### 2)
 
-- **3)** dotyczące środków przeznaczonych na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2.
+inne dochody budżetu państwa, jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych należne na podstawie odrębnych ustaw lub umów międzynarodowych;
 
-5. W przypadku, o którym mowa w ust. 4:
+### 3)
 
-- **1)** pkt 1 – zmiana jest dokonywana za zgodą ministra sprawującego nadzór nad agencją wykonawczą i o dokonanych zmianach jej właściwy organ informuje niezwłocznie Ministra Finansów;
-- **2)** pkt 2 – zmiana jest dokonywana po uzyskaniu, na wniosek ministra sprawującego nadzór nad agencją wykonawczą, zgody Ministra Finansów i następnie opinii sejmowej komisji właściwej do spraw budżetu;
-- **3)** pkt 3 – zmiana jest dokonywana za zgodą ministra sprawującego nadzór nad agencją wykonawczą, wydaną w porozumieniu z Ministrem Finansów.
+wpływy ze sprzedaży wyrobów i usług świadczonych przez jednostki sektora finansów publicznych;
 
-6. Minister sprawujący nadzór nad agencją wykonawczą, występując do Ministra Finansów o zgodę, o której mowa w ust. 5 pkt 2, przedstawia swoją opinię w sprawie.
+### 4)
 
-7. Agencja wykonawcza może:
+dochody z mienia jednostek sektora finansów publicznych, do których zalicza się w szczególności:
 
-- **1)** otrzymywać dotacje z budżetu państwa, w zakresie określonym w odrębnych ustawach;
-- **2)** zaciągać zobowiązania na okres realizacji danego zadania przekraczający rok budżetowy, jeżeli wydatki niezbędne na obsługę zobowiązania znajdują się w rocznym planie finansowym.
+### a)
 
-8. Rada Ministrów może określić, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej agencji wykonawczych, mając na względzie potrzebę zapewnienia jednolitości zasad finansowania agencji wykonawczych oraz przestrzegania zasad jawności i przejrzystości.
+wpływy z umów najmu, dzierżawy i innych umów o podobnym charakterze,
 
-**Art. 22.**
+### b)
 
-1. Agencja wykonawcza jest obowiązana corocznie wpłacać do budżetu państwa, na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej ministra sprawującego nadzór nad tą agencją, nadwyżkę środków finansowych ustaloną na koniec roku, pozostającą po uregulowaniu zobowiązań podatkowych, z zastrzeżeniem ust. 3.
+odsetki od środków na rachunkach bankowych,
 
-2. Nadwyżkę, o której mowa w ust. 1, agencja wykonawcza przekazuje niezwłocznie po uregulowaniu zobowiązań wymagalnych z okresu sprawozdawczego, nie później jednak niż do dnia 30 czerwca roku następującego po roku, w którym nadwyżka powstała.
+### c)
 
-3. W szczególnie uzasadnionych przypadkach wynikających z konieczności zapewnienia sprawnego i pełnego wykonywania zadań agencji wykonawczej Rada Ministrów może, na wniosek ministra sprawującego nadzór nad agencją wykonawczą, wyrazić zgodę, w formie uchwały, na niewpłacenie nadwyżki, o której mowa w ust. 1.
+odsetki od udzielonych pożyczek i od posiadanych papierów wartościowych,
 
-4. Minister sprawujący nadzór nad agencją wykonawczą w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, sposób ustalania nadwyżki, uwzględniając potrzebę zapewnienia ciągłości finansowania zadań agencji, dokonywania inwestycji niezbędnych do wykonywania zadań państwa oraz mając na względzie źródła finansowania zadań realizowanych przez agencję.
+### d)
 
-**Art. 23.**
+dywidendy z tytułu posiadanych praw majątkowych;
 
-1. Instytucja gospodarki budżetowej jest jednostką sektora finansów publicznych tworzoną w celu realizacji zadań publicznych, która:
+### 5)
 
-- **1)** odpłatnie wykonuje wyodrębnione zadania;
-- **2)** pokrywa koszty swojej działalności oraz zobowiązania z uzyskiwanych przychodów.
+spadki, zapisy i darowizny w postaci pieniężnej na rzecz jednostek sektora finansów publicznych;
 
-2. Instytucja gospodarki budżetowej może być tworzona przez:
+### 6)
 
-- **1)** ministra lub Szefa Kancelarii Prezesa Rady Ministrów, za zgodą Rady Ministrów, udzieloną na jego wniosek;
-- **2)** organ lub kierownika jednostki, o których mowa w art. 139 ust. 2, jako organu wykonującego funkcje organu założycielskiego.
+odszkodowania należne jednostkom sektora finansów publicznych;
 
-3. Organ lub kierownik jednostki, o którym mowa w ust. 2 pkt 2, o utworzeniu instytucji gospodarki budżetowej informuje Prezesa Rady Ministrów.
+### 7)
 
-4. We wniosku, o którym mowa w ust. 2 pkt 1, minister lub Szef Kancelarii Prezesa Rady Ministrów określą:
+kwoty uzyskane przez jednostki sektora finansów publicznych z tytułu udzielonych poręczeń i gwarancji;
 
-- **1)** organ administracji rządowej wykonujący funkcje organu założycielskiego;
-- **2)** przedmiot działalności podstawowej;
-- **3)** źródła przychodów;
-- **4)** przeznaczenie zysku.
+### 8)
 
-5. Instytucja gospodarki budżetowej uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
+dochody ze sprzedaży majątku, rzeczy i praw, niestanowiące przychodów w rozumieniu ust. 1 pkt 4 lit. a i b.
 
-**Art. 24.**
+### 3.
 
-1. Podstawą gospodarki finansowej instytucji gospodarki budżetowej jest roczny plan finansowy, obejmujący w szczególności:
+Do środków, o których mowa w ust. 1 pkt 2, zalicza się:
 
-- **1)** przychody z prowadzonej działalności;
-- **2)** dotacje z budżetu państwa;
-- **3)** koszty, w tym:
-    - **a)** uposażenia i wynagrodzenia ze stosunku pracy oraz składki od nich naliczane,
-    - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
-    - **c)** zakup towarów i usług;
+### 1)
 
-- **4)** środki na wydatki majątkowe;
-- **5)** wynik finansowy;
-- **6)** stan należności i zobowiązań na początek i koniec roku;
-- **7)** stan środków pieniężnych na początek i koniec roku.
+środki pochodzące z funduszy strukturalnych, Funduszu Spójności i Europejskiego Funduszu Rybackiego, z wyłączeniem środków, o których mowa w pkt 5 lit. a i b;
 
-2. W ramach planu finansowego instytucji gospodarki budżetowej sporządza się także plan dochodów i wydatków ujmowanych w terminie ich zapłaty.
+### 2)
 
-3. Projekt planu finansowego instytucji gospodarki budżetowej jest przekazywany Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), z wyłączeniem środków, o których mowa w pkt 5 lit. c i d:
 
-4. Instytucja gospodarki budżetowej może:
+### a)
 
-- **1)** uzyskiwać przychody z odsetek od wolnych środków przekazanych w depozyt, o którym mowa w art. 48 ust. 2;
-- **2)** otrzymywać dotacje z budżetu państwa na realizację zadań publicznych, jeżeli odrębne ustawy tak stanowią.
+Norweskiego Mechanizmu Finansowego 2009-2014,
 
-5. Nowo tworzonej instytucji gospodarki budżetowej może być przyznana jednorazowa dotacja na pierwsze wyposażenie w środki obrotowe.
+### b)
 
-6. Koszty instytucji gospodarki budżetowej mogą być ponoszone tylko w ramach przychodów, z uwzględnieniem możliwości wykorzystania środków pieniężnych z poprzednich okresów, pozostających w dyspozycji instytucji gospodarki budżetowej.
+Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego 2009-2014,
 
-7. W planie finansowym instytucji gospodarki budżetowej, w trakcie roku budżetowego, mogą być dokonywane zmiany przychodów i kosztów lub dochodów i wydatków, w tym polegające na przesunięciach pomiędzy ich poszczególnymi pozycjami w ramach łącznych kwot przychodów, kosztów, dochodów lub wydatków:
+### c)
 
-- **1)** jeżeli nie spowodują one zwiększenia dotacji z budżetu państwa i pogorszenia planowanego wyniku finansowego brutto instytucji gospodarki budżetowej;
-- **2)** powodujące zwiększenie:
-    - **a)** łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub
-    - **b)** planowanych wydatków ponad planowane dochody, jednak nie więcej niż o wysokość środków pieniężnych z poprzednich okresów, pozostających w dyspozycji instytucji gospodarki budżetowej, lub
-    - **c)** uposażeń i wynagrodzeń ze stosunku pracy;
+Szwajcarsko-Polskiego Programu Współpracy;
 
-- **3)** dotyczące środków przeznaczonych na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2.
+### 3)
 
-8. W przypadku, o którym mowa w ust. 7:
+środki przeznaczone na realizację programów przedakcesyjnych oraz Programu Środki Przejściowe;
 
-- **1)** pkt 1 – zmiana jest dokonywana za zgodą organu wykonującego funkcje organu założycielskiego instytucji gospodarki budżetowej i o dokonanych zmianach dyrektor instytucji gospodarki budżetowej informuje niezwłocznie Ministra Finansów;
-- **2)** pkt 2 i 3 – zmiana jest dokonywana po uzyskaniu zgody organu wykonującego funkcję organu założycielskiego instytucji gospodarki budżetowej, wydanej w porozumieniu z Ministrem Finansów.
+### 4)
 
-**Art. 25.**
+środki na realizację Wspólnej Polityki Rolnej:
 
-1. Likwidując instytucję gospodarki budżetowej, organ wykonujący funkcje organu założycielskiego określa, w porozumieniu z ministrem właściwym do spraw aktywów państwowych, przeznaczenie mienia tej instytucji.
+### a)
 
-2. Należności i zobowiązania likwidowanej instytucji gospodarki budżetowej przejmuje organ wykonujący funkcje organu założycielskiego.
+Europejskiego Funduszu Orientacji i Gwarancji Rolnej „Sekcja Gwarancji”,
 
-3. Należności i zobowiązania instytucji gospodarki budżetowej likwidowanej w celu przekształcenia w inną formę organizacyjno-prawną przejmuje utworzona jednostka.
+### b)
 
-4. Przepis ust. 3 stosuje się odpowiednio do łączenia instytucji gospodarki budżetowej.
+Europejskiego Funduszu Rolniczego Gwarancji,
 
-**Art. 26.**
+### c)
 
-1. Instytucja gospodarki budżetowej działa na podstawie statutu nadanego przez organ wykonujący funkcje organu założycielskiego.
+Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich;
 
-2. Statut instytucji gospodarki budżetowej określa w szczególności:
+### 5)
 
-- **1)** nazwę i siedzibę tej instytucji;
-- **2)** przedmiot działalności podstawowej tej instytucji;
-- **3)** źródła uzyskiwania przychodów tej instytucji;
-- **4)** tryb i zasady dokonywania zmian w statucie tej instytucji;
-- **5)** stan wyposażenia w środki obrotowe oraz składniki majątkowe przekazane tej instytucji;
-- **6)** zasady prowadzenia działalności innej niż podstawowa, jeżeli ta instytucja będzie prowadzić taką działalność.
+środki przeznaczone na realizację:
 
-3. Organizację wewnętrzną instytucji gospodarki budżetowej określa regulamin organizacyjny nadawany przez dyrektora instytucji gospodarki budżetowej.
+### a)
 
-**Art. 27.**
+programów w ramach celu Europejska Współpraca Terytorialna, o których mowa w rozdziale III rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1080/2006 z dnia 5 lipca 2006 r. w sprawie Europejskiego Funduszu Rozwoju Regionalnego i uchylającego rozporządzenie (WE) nr 1783/1999 ([Dz. Urz. UE L 210 z 31.07.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)),
 
-1. Dyrektora instytucji gospodarki budżetowej powołuje i odwołuje organ wykonujący funkcje organu założycielskiego.
+### b)
 
-2. Do zadań dyrektora instytucji gospodarki budżetowej należy:
+programów, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1638/2006 z dnia 24 października 2006 r. określającym przepisy ogólne w sprawie ustanowienia Europejskiego Instrumentu Sąsiedztwa i Partnerstwa ([Dz. Urz. UE L 310 z 09.11.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)),
 
-- **1)** zarządzanie instytucją gospodarki budżetowej;
-- **2)** reprezentowanie instytucji gospodarki budżetowej na zewnątrz;
-- **3)** przygotowanie i nadanie regulaminu organizacyjnego instytucji gospodarki budżetowej;
-- **4)** przygotowanie projektu rocznego planu finansowego;
-- **5)** przygotowanie rocznego sprawozdania finansowego instytucji gospodarki budżetowej;
-- **6)** przygotowanie rocznego sprawozdania z działalności instytucji gospodarki budżetowej, którego zakres informacyjny określa art. 49 ust. 2 i 3 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. ).
+### c)
 
-3. Projekt rocznego planu finansowego jest przekazywany organowi wykonującemu funkcje organu założycielskiego, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+Norweskiego Mechanizmu Finansowego 2004-2009,
 
-**Art. 28.**
+### d)
 
-1. Instytucja gospodarki budżetowej samodzielnie gospodaruje mieniem, kierując się zasadą efektywności jego wykorzystania.
+Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego 2004-2009;
 
-2. Na mienie instytucji gospodarki budżetowej mogą składać się:
+### 6)
 
-- **1)** przeniesione na własność nieruchomości;
-- **2)** mienie stanowiące wyposażenie przekazane przez organ wykonujący funkcje organu założycielskiego w formie użyczenia;
-- **3)** mienie nabyte z własnych środków.
+inne środki.
 
-3. Instytucja gospodarki budżetowej w celu zaciągnięcia zobowiązania przewyższającego 30 % rocznych przychodów jest obowiązana uzyskać zgodę organu wykonującego funkcje organu założycielskiego.
+### 4.
 
-4. Instytucja gospodarki budżetowej może zbywać środki trwałe. Zbycie (najem, dzierżawa, użyczenie) aktywów może nastąpić wyłącznie na zasadach określonych przez organ wykonujący funkcje organu założycielskiego, z uwzględnieniem przepisów o gospodarce nieruchomościami.
+Rada Ministrów może określić, w drodze rozporządzenia, środki publiczne niezaliczane do środków, o których mowa w ust. 3 pkt 6, oraz termin, w którym środki te powinny być wydatkowane, uwzględniając źródło ich pochodzenia, przeznaczenie oraz beneficjentów tych środków.
 
-5. Wartość majątku instytucji gospodarki budżetowej odzwierciedla fundusz instytucji gospodarki budżetowej.
+### Art. 6.
 
-6. Fundusz instytucji gospodarki budżetowej zwiększa się lub zmniejsza o kwotę zmian wartości majątku będących skutkiem:
+### 1.
 
-- **1)** aktualizacji wyceny środków trwałych na podstawie odrębnych przepisów;
-- **2)** (uchylony)
-- **3)** łączenia i podziału instytucji gospodarki budżetowej na podstawie bilansów zamknięcia dzielonych lub łączonych jednostek.
+Środki publiczne przeznacza się na:
 
-7. (uchylony)
+### 1)
 
-8. Instytucja gospodarki budżetowej tworzy fundusz zapasowy z zysku netto z przeznaczeniem na:
+wydatki publiczne;
 
-- **1)** finansowanie inwestycji;
-- **2)** pokrycie straty netto.
+### 2)
 
-**Art. 29.**
+rozchody publiczne, w tym na rozchody budżetu państwa i budżetów jednostek samorządu terytorialnego.
 
-1. Państwowy fundusz celowy jest tworzony na podstawie odrębnej ustawy.
+### 2.
 
-2. Państwowy fundusz celowy nie posiada osobowości prawnej.
+Rozchodami publicznymi są:
 
-3. Państwowy fundusz celowy stanowi wyodrębniony rachunek bankowy, którym dysponuje minister wskazany w ustawie tworzącej fundusz albo inny organ wskazany w tej ustawie.
+### 1)
 
-4. Do państwowych funduszy celowych nie zalicza się funduszy, których jedynym źródłem przychodów, z wyłączeniem odsetek od rachunku bankowego i darowizn, jest dotacja z budżetu państwa.
+spłaty otrzymanych pożyczek i kredytów;
 
-5. Przychody państwowego funduszu celowego pochodzą ze środków publicznych, a koszty są ponoszone na realizację wyodrębnionych zadań państwowych.
+### 2)
 
-6. Podstawą gospodarki finansowej państwowego funduszu celowego jest roczny plan finansowy, obejmujący w szczególności:
+wykup papierów wartościowych;
 
-- **1)** stan początkowy i końcowy środków pieniężnych, należności i zobowiązań;
-- **2)** przychody własne;
-- **3)** dotacje z budżetu państwa oraz innych jednostek sektora finansów publicznych;
-- **4)** koszty realizacji zadań, w tym uposażenia i wynagrodzenia ze stosunku pracy oraz składki od nich naliczane.
+### 3)
 
-7. W planie finansowym państwowego funduszu celowego wyodrębnia się zadania finansowane ze środków funduszu.
+udzielone pożyczki i kredyty;
 
-8. W ramach planu finansowego państwowego funduszu celowego sporządza się także plan dochodów i wydatków ujmowanych w terminie ich zapłaty.
+### 4)
 
-9. Projekt planu finansowego państwowego funduszu celowego jest przekazywany Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+płatności wynikające z odrębnych ustaw, których źródłem finansowania są przychody z prywatyzacji majątku Skarbu Państwa;
 
-10. Koszty państwowego funduszu celowego mogą być ponoszone w ramach planowanych przychodów, z uwzględnieniem możliwości wykorzystania środków pieniężnych z poprzednich okresów.
+### 5)
 
-11. Ze środków państwowego funduszu celowego mogą być udzielane pożyczki jednostkom samorządu terytorialnego, jeżeli ustawa tworząca fundusz tak stanowi.
+inne operacje finansowe związane z zarządzaniem długiem publicznym i płynnością;
 
-12. W planie finansowym państwowego funduszu celowego, w trakcie roku budżetowego, mogą być dokonywane zmiany przychodów i kosztów lub dochodów i wydatków, w tym polegające na przesunięciach pomiędzy ich poszczególnymi pozycjami w ramach zadań wynikających z odrębnej ustawy tworzącej fundusz, łącznych kwot przychodów, kosztów, dochodów lub wydatków.
+### 6)
 
-13. Zmiany, o których mowa w ust. 12, są dokonywane przez dysponenta państwowego funduszu celowego, a w przypadku gdy dysponentem państwowego funduszu celowego nie jest minister – po wyrażeniu zgody przez organ nadzorujący dysponenta funduszu, jeżeli dysponent funduszu jest nadzorowany przez taki organ, przy czym w przypadku zmian:
+płatności związane z udziałami Skarbu Państwa w międzynarodowych instytucjach finansowych.
 
-- **1)** powodujących zwiększenie:
-    - **a)** łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub
-    - **b)** planowanych wydatków ponad planowane dochody, jednak nie więcej niż o wysokość środków pieniężnych z poprzednich okresów, pozostających w dyspozycji państwowego funduszu celowego, lub
-    - **c)** uposażeń i wynagrodzeń ze stosunku pracy – za zgodą Ministra Finansów i następnie po uzyskaniu przez dysponenta państwowego funduszu celowego opinii sejmowej komisji właściwej do spraw budżetu;
+### Art. 7.
 
-- **2)** dotyczących środków przeznaczonych na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, za zgodą Ministra Finansów.
+### 1.
 
-14. O dokonanych zmianach, o których mowa w ust. 12, innych niż określone w ust. 13, dysponent państwowego funduszu celowego niezwłocznie informuje Ministra Finansów.
+Dodatnia różnica między dochodami publicznymi a wydatkami publicznymi, ustalona dla okresu rozliczeniowego, stanowi nadwyżkę sektora finansów publicznych, zaś ujemna różnica jest deficytem sektora finansów publicznych.
 
-15. Dysponent państwowego funduszu celowego, występując do Ministra Finansów o zgodę, o której mowa w ust. 13 pkt 1, przedstawia swoją opinię w sprawie, przy czym w przypadku gdy dysponentem funduszu nie jest minister – opinię przedstawia organ nadzorujący dysponenta funduszu, jeżeli dysponent funduszu jest nadzorowany przez taki organ.
+### 2.
 
-16. Zmiany planu finansowego państwowego funduszu celowego nie mogą powodować zwiększenia dotacji z budżetu państwa.
+Dochody publiczne i wydatki publiczne oraz nadwyżkę lub deficyt sektora finansów publicznych ustala się po wyeliminowaniu przepływów finansowych między jednostkami tego sektora.
 
-17. Jeżeli państwowy fundusz celowy posiada zobowiązania wymagalne, w tym kredyty i pożyczki, zwiększenie przychodów w pierwszej kolejności przeznacza się na ich spłatę.
+### Rozdział 3 Jednostki sektora finansów publicznych
 
-**Art. 30.**
+### Art. 8.
 
-1. Państwowe i samorządowe osoby prawne są tworzone na podstawie odrębnych ustaw.
+### 1.
 
-2. Podstawą gospodarki finansowej państwowych i samorządowych osób prawnych jest roczny plan finansowy, obejmujący w szczególności:
+Jednostki sektora finansów publicznych są tworzone w formach określonych w niniejszym rozdziale.
 
-- **1)** przychody z prowadzonej działalności;
-- **2)** dotacje z budżetu państwa lub budżetów jednostek samorządu terytorialnego;
-- **3)** koszty, w tym:
-    - **a)** uposażenia i wynagrodzenia ze stosunku pracy oraz składki od nich naliczane,
-    - **b)** płatności odsetkowe wynikające z zaciągniętych zobowiązań,
-    - **c)** zakup towarów i usług;
+### 2.
 
-- **4)** środki na wydatki majątkowe;
-- **5)** środki przyznane innym podmiotom;
-- **6)** stan należności i zobowiązań na początek i koniec roku;
-- **7)** stan środków pieniężnych na początek i koniec roku.
+Jednostki sektora finansów publicznych mogą być tworzone na podstawie niniejszej ustawy albo na podstawie odrębnych ustaw.
 
-3. Sporządzanie planów finansowych państwowych i samorządowych osób prawnych oraz dokonywanie zmian w tych planach odbywa się zgodnie z ustawami o ich utworzeniu, z uwzględnieniem odpowiednio przepisów niniejszej ustawy.
+### Art. 9.
 
-4. W ramach planu finansowego państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14, sporządza się także plan dochodów i wydatków ujmowanych w terminie ich zapłaty.
+Sektor finansów publicznych tworzą:
 
-5. Projekty planów finansowych państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14, są przekazywane Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+### 1)
 
-6. W planach finansowych państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14, w trakcie roku budżetowego, mogą być dokonywane zmiany przychodów i kosztów lub dochodów i wydatków, w tym polegające na przesunięciach pomiędzy ich poszczególnymi pozycjami w ramach łącznych kwot przychodów, kosztów, dochodów lub wydatków:
+organy władzy publicznej, w tym organy administracji rządowej, organy kontroli państwowej i ochrony prawa oraz sądy i trybunały;
 
-- **1)** jeżeli nie spowodują one zwiększenia zobowiązań państwowej osoby prawnej ani pogorszenia planowanego wyniku finansowego brutto państwowej osoby prawnej;
-- **2)** powodujące zwiększenie:
-    - **a)** łącznych kwot przychodów i kosztów lub łącznych kwot dochodów i wydatków, lub
-    - **b)** planowanych wydatków ponad planowane dochody, z uwzględnieniem możliwości wykorzystania środków pieniężnych z poprzednich okresów, pozostających w dyspozycji państwowej osoby prawnej, lub
-    - **c)** dotacji z budżetu państwa, lub
-    - **d)** uposażeń i wynagrodzeń ze stosunku pracy;
+### 2)
 
-- **3)** dotyczące środków przeznaczonych na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2.
+jednostki samorządu terytorialnego oraz ich związki;
 
-7. W przypadku, o którym mowa w ust. 6:
+### 3)
 
-- **1)** pkt 1 – zmiana jest dokonywana za zgodą organu sprawującego nadzór nad państwową osobą prawną lub organu, któremu państwowa osoba prawna podlega i o dokonanych zmianach kierownik jednostki informuje niezwłocznie Ministra Finansów;
-- **2)** pkt 2 – zmiana jest dokonywana po wyrażeniu zgody przez Ministra Finansów i następnie po uzyskaniu przez organ sprawujący nadzór nad państwową osobą prawną lub organ, któremu państwowa osoba prawna podlega, opinii sejmowej komisji właściwej do spraw budżetu;
-- **3)** pkt 3 – zmiana jest dokonywana za zgodą organu sprawującego nadzór nad państwową osobą prawną lub organu, któremu państwowa osoba prawna podlega, wydaną w porozumieniu z Ministrem Finansów.
+jednostki budżetowe;
 
-8. Organ sprawujący nadzór nad państwową osobą prawną oraz organ, któremu państwowa osoba prawna podlega, występując do Ministra Finansów o zgodę, o której mowa w ust. 7 pkt 2, przedstawia swoją opinię w sprawie.
+### 4)
 
-**Art. 31.** (uchylony)
+samorządowe zakłady budżetowe;
 
-**Art. 32.** Agencje wykonawcze, instytucje gospodarki budżetowej, dysponenci państwowych funduszy celowych oraz państwowe osoby prawne, o których mowa w art. 9 pkt 14, sporządzają plany finansowe w układzie zadaniowym na rok budżetowy.
+### 5)
 
-**Art. 32a.**
+agencje wykonawcze;
 
-1. W przypadku gdy agencje wykonawcze, instytucje gospodarki budżetowej, państwowe fundusze celowe, fundusze, o których mowa w art. 9 pkt 8, oraz państwowe osoby prawne, o których mowa w art. 9 pkt 14, zostały utworzone w trakcie roku budżetowego, pierwszy plan finansowy, który jest podstawą gospodarki finansowej w roku ich utworzenia, ustala niezwłocznie odpowiednio kierownik jednostki sektora finansów publicznych lub dysponent państwowego funduszu celowego w porozumieniu z:
+### 6)
 
-- **1)** organem nadzorującym jednostkę, jeżeli jednostka jest nadzorowana przez taki organ, lub organem, któremu jednostka podlega, jeżeli jednostka podlega takiemu organowi,
-- **2)** organem nadzorującym dysponenta państwowego funduszu celowego, jeżeli dysponent tego funduszu jest nadzorowany przez taki organ – w przypadku państwowego funduszu celowego, którego dysponentem nie jest minister – a następnie uzgadnia go z Ministrem Finansów i przedstawia sejmowej komisji właściwej do spraw budżetu w celu zaopiniowania.
+instytucje gospodarki budżetowej;
 
-2. Do planu finansowego, o którym mowa w ust. 1, przepisy dotyczące planów finansowych agencji wykonawczych, instytucji gospodarki budżetowej, państwowych funduszy celowych, funduszy, o których mowa w art. 9 pkt 8, oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14, stosuje się odpowiednio.
+### 7)
 
-#### Rozdział 4 Jawność i przejrzystość finansów publicznych
+państwowe fundusze celowe;
 
-**Art. 33.**
+### 8)
 
-1. Gospodarka środkami publicznymi jest jawna.
+Zakład Ubezpieczeń Społecznych i zarządzane przez niego fundusze oraz Kasa Rolniczego Ubezpieczenia Społecznego i fundusze zarządzane przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
 
-2. Przepisu ust. 1 nie stosuje się do środków publicznych, których pochodzenie lub przeznaczenie zostało uznane za informację niejawną na podstawie odrębnych przepisów lub jeżeli wynika to z umów międzynarodowych.
+### 9)
 
-**Art. 34.**
+Narodowy Fundusz Zdrowia;
 
-1. Zasada jawności gospodarowania środkami publicznymi jest realizowana przez:
+### 10)
 
-- **1)** jawność debaty budżetowej w Sejmie i Senacie oraz debat budżetowych w organach stanowiących jednostek samorządu terytorialnego;
-- **2)** jawność debaty nad sprawozdaniem z wykonania budżetu państwa w Sejmie i debat nad sprawozdaniami z wykonania budżetów jednostek samorządu terytorialnego;
-- **3)** podawanie do publicznej wiadomości:
-    - **a)** kwot dotacji udzielanych z budżetu państwa i budżetów jednostek samorządu terytorialnego,
-    - **b)** kwot dotacji udzielanych przez państwowe fundusze celowe,
-    - **c)** zbiorczych danych dotyczących finansów publicznych,
-    - **d)** informacji o wykonaniu budżetu państwa za okresy miesięczne;
+samodzielne publiczne zakłady opieki zdrowotnej;
 
-- **4)** jawność debaty nad projektem uchwały w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego;
-- **5)** podawanie do publicznej wiadomości przez jednostki sektora finansów publicznych informacji dotyczących: <d) umowy, o której mowa w art. 34a ust. 1;>
-    - **a)** zakresu zadań lub usług wykonywanych lub świadczonych przez jednostkę oraz wysokości środków publicznych przekazanych na ich realizację,
-    - **b)** zasad i warunków świadczenia usług dla podmiotów uprawnionych,
-    - **c)** zasad odpłatności za świadczone usługi;
+### 11)
 
-- **6)** zapewnianie radnym danej jednostki samorządu terytorialnego dostępu do:
-    - **a)** dowodów księgowych i dokumentów inwentaryzacyjnych – z zachowaniem przepisów o rachunkowości oraz o ochronie danych osobowych,
-    - **b)** informacji o wynikach przeprowadzonych kontroli gospodarki finansowej,
-    - **c)** sprawozdania z wykonania planu audytu za rok poprzedni;
+uczelnie publiczne;
 
-- **7)** udostępnianie przez Narodowy Fundusz Zdrowia informacji o przychodach i kosztach oraz o świadczeniodawcach realizujących świadczenia opieki zdrowotnej, z którymi Fundusz zawarł umowy, o zakresie przedmiotowym umów oraz o sposobie ustalania ceny za zamówione świadczenia;
-- **8)** udostępnianie przez jednostki sektora finansów publicznych wykazu podmiotów spoza sektora finansów publicznych, którym ze środków publicznych została udzielona dotacja, dofinansowanie realizacji zadania lub pożyczka, lub którym została umorzona należność wobec jednostki sektora finansów publicznych;
-- **9)** udostępnianie corocznych sprawozdań dotyczących finansów i działalności jednostek organizacyjnych należących do sektora finansów publicznych;
-- **10)** podejmowanie, w głosowaniu jawnym i imiennym, uchwał organu wykonawczego jednostki samorządu terytorialnego dotyczących gospodarowania środkami publicznymi;
-- **11)** podawanie do publicznej wiadomości treści planów działalności, sprawozdań z wykonania planów działalności oraz oświadczeń o stanie kontroli zarządczej, o których mowa w art. 70.
+### 12)
 
-2. Minister Finansów podaje do publicznej wiadomości sprawozdanie z wykonania ustawy budżetowej przyjęte przez Radę Ministrów. <Art. 34a. 1. Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”, udostępnia i aktualizuje w Centralnym Rejestrze Umów Jednostek Sektora Finansów Publicznych, zwanym dalej „Centralnym Rejestrem Umów JSFP”, informacje o umowie zawartej przez jednostkę sektora finansów publicznych lub na jej rzecz, jeżeli umowa ta spełnia łącznie następujące warunki:
+Polska Akademia Nauk i tworzone przez nią jednostki organizacyjne;
 
-- **1)** stanowi zamówienie w rozumieniu art. 7 pkt 32 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. );
-- **2)** została zawarta w formie pisemnej, dokumentowej, elektronicznej albo innej formie szczególnej.
+### 13)
 
-2. W przypadku gdy umowa została zawarta na rzecz jednostki sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki, na rzecz której zawarto tę umowę.
+państwowe i samorządowe instytucje kultury oraz państwowe instytucje filmowe;
 
-3. W przypadku gdy umowa została zawarta na rzecz wielu jednostek sektora finansów publicznych, obowiązki, o których mowa w ust. 1, wykonują kierownicy jednostek, na rzecz których zawarto umowę, w zakresie, w jakim informacje o umowie odnoszą się do poszczególnych jednostek, których są kierownikami.
+### 14)
 
-4. W przypadku umowy zawartej przez organ władzy publicznej lub na jego rzecz obowiązki, o których mowa w ust. 1, wykonuje kierownik jednostki obsługującej ten organ, przy czym przepisy ust. 2 i 3 stosuje się odpowiednio.
+inne państwowe lub samorządowe osoby prawne utworzone na podstawie odrębnych ustaw w celu wykonywania zadań publicznych, z wyłączeniem przedsiębiorstw, jednostek badawczo-rozwojowych, banków i spółek prawa handlowego.
 
-5. W Centralnym Rejestrze Umów JSFP nie zamieszcza się informacji o umowie:
+### Art. 10.
 
-- **1)** zawartej przez:
-    - **a)** Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego lub Centralne Biuro Antykorupcyjne, lub na ich rzecz,
-    - **b)** placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu art. 7 pkt 7 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej (Dz. U. z 2024 r. poz. 1691 i 1840) lub na jej rzecz,
-    - **c)** jednostkę organizacyjną podległą Ministrowi Obrony Narodowej lub na jej rzecz;
+### 1.
 
-- **2)** o której mowa w art. 11 ust. 2 pkt 1 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
-- **3)** dotyczącej zamówień, o których mowa w art. 14 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych;
-- **4)** dotyczącej czynności operacyjno-rozpoznawczych finansowanych z funduszu operacyjnego i podejmowanych przez jednostki uprawnione na podstawie odrębnych ustaw;
-- **5)** w dziedzinie obronności i bezpieczeństwa lub której udostępnienie, uwzględniając w szczególności możliwość agregacji tych informacji, może zagrażać interesom państwa albo wywrzeć niekorzystny wpływ w zakresie bezpieczeństwa lub obronności, w tym w zakresie: z 2023 r. poz. 122, z późn. zm. );
-    - **a)** zabezpieczenia granicy państwowej,
-    - **b)** zapewnienia bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa w rozumieniu odpowiednio art. 2 ust. 1 pkt 1 i 1a ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303),
-    - **c)** bezpieczeństwa infrastruktury krytycznej w rozumieniu art. 3 pkt 2 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U.
+Jednostki budżetowe, samorządowe zakłady budżetowe, agencje wykonawcze, instytucje gospodarki budżetowej i państwowe fundusze celowe stosują zasady gospodarki finansowej określone w niniejszej ustawie.
 
-- **6)** o udzielanie świadczeń opieki zdrowotnej, zamieszczanej na stronie internetowej Narodowego Funduszu Zdrowia na podstawie art. 135 ust. 2 pkt 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739).
+### 2.
 
-6. Kierownik jednostki może udostępniać i aktualizować w Centralnym Rejestrze Umów JSFP również informacje o umowie, o której mowa w ust. 1 pkt 1, niespełniającej warunku określonego w ust. 1 pkt 2.
+Do jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 8-14, działających na podstawie odrębnych ustaw stanowiących podstawę ich utworzenia przepisy niniejszej ustawy stosuje się odpowiednio.
 
-7. W Centralnym Rejestrze Umów JSFP udostępnia się i aktualizuje następujące informacje o umowie:
+### Art. 11.
 
-- **1)** numer umowy – o ile taki numer nadano;
-- **2)** datę zawarcia umowy;
-- **3)** okres, na jaki umowa została zawarta;
-- **4)** oznaczenie stron umowy;
-- **5)** wskazanie przedmiotu umowy;
-- **6)** wartość umowy;
-- **7)** wskazanie, czy umowa jest finansowana ze środków, o których mowa w art. 5 ust. 1 pkt 2–3;
-- **8)** status umowy i dzień zakończenia obowiązywania umowy;
-- **9)** podstawę prawną nieudostępnienia informacji o umowie oraz organ lub osobę, które dokonały wyłączenia jawności danej informacji – w przypadku, o którym mowa w ust. 8;
-- **10)** podstawę dokonania aktualizacji informacji określonych w pkt 1–9, o ile dokonano takiej aktualizacji.
+### 1.
 
-8. W Centralnym Rejestrze Umów JSFP nie udostępnia się informacji o umowie, co do których prawo do informacji publicznej podlega ograniczeniu na podstawie art. 5 ust. 1 i 2–2b ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
+Jednostkami budżetowymi są jednostki organizacyjne sektora finansów publicznych nieposiadające osobowości prawnej, które pokrywają swoje wydatki bezpośrednio z budżetu, a pobrane dochody odprowadzają na rachunek odpowiednio dochodów budżetu państwa albo budżetu jednostki samorządu terytorialnego.
 
-9. W Centralnym Rejestrze Umów JSFP mogą być udostępniane i aktualizowane informacje o umowie inne niż określone w ust. 7, niestanowiące danych osobowych.
+### 2.
 
-10. Informacje o umowie udostępnia się i aktualizuje w Centralnym Rejestrze Umów JSFP bez zbędnej zwłoki, nie później jednak niż w terminie 30 dni odpowiednio od dnia zawarcia umowy lub zaistnienia zmiany informacji o umowie, przy czym do tego terminu nie wlicza się dni, w których wystąpiła awaria, o której mowa w art. 34b ust. 2.
+Jednostka budżetowa działa na podstawie statutu określającego w szczególności jej nazwę, siedzibę i przedmiot działalności.
 
-11. Centralny Rejestr Umów JSFP jest jawny.
+### 3.
 
-**Art. 34b.**
+Podstawą gospodarki finansowej jednostki budżetowej jest plan dochodów i wydatków, zwany dalej „planem finansowym jednostki budżetowej”.
 
-1. Minister Finansów zapewnia funkcjonowanie systemu teleinformatycznego, w którym jest prowadzony Centralny Rejestr Umów JSFP.
+### Art. 12.
 
-2. W przypadku awarii systemu, o którym mowa w ust. 1, Minister Finansów informuje o jej wystąpieniu i usunięciu w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+### 1.
 
-3. Konta w systemie, o którym mowa w ust. 1, są zakładane na wniosek zawierający dane wnioskodawcy upoważnionego do działania w imieniu jednostki sektora finansów publicznych oraz dane tej jednostki, do którego dołącza się dokumenty potwierdzające zawarte w nim dane, w przypadku gdy są one niezbędne do potwierdzenia upoważnienia do działania w imieniu tej jednostki.
+Jednostki budżetowe, z zastrzeżeniem odrębnych ustaw, tworzą, łączą i likwidują:
 
-4. Kierownik jednostki wyznacza użytkowników konta w systemie, o którym mowa w ust. 1, upoważnionych do zarządzania tym kontem.
+### 1)
 
-5. System, o którym mowa w ust. 1, umożliwia wyszukiwanie informacji o umowie udostępnionych w Centralnym Rejestrze Umów JSFP oraz wgląd do tych informacji.
+ministrowie, kierownicy urzędów centralnych, wojewodowie oraz inne organy działające na podstawie odrębnych ustaw - państwowe jednostki budżetowe;
 
-6. Informacje o umowie są usuwane z Centralnego Rejestru Umów JSFP po upływie pięciu lat, licząc od końca roku, w którym umowa przestała obowiązywać.
+### 2)
 
-7. Udostępnienie informacji o umowach w Centralnym Rejestrze Umów JSFP uważa się za udostępnianie informacji sektora publicznego w celu ponownego wykorzystywania nieodpłatnie i na warunkach określonych przez Ministra Finansów w systemie, o którym mowa w ust. 1.
+organy stanowiące jednostek samorządu terytorialnego - gminne, powiatowe lub wojewódzkie jednostki budżetowe.
 
-8. Minister Finansów jest administratorem danych użytkowników kont w systemie, o którym mowa w ust. 1, oraz innych danych w zakresie, w jakim jest to niezbędne do zapewnienia funkcjonowania tego systemu.
+### 2.
 
-9. Kierownik jednostki jest administratorem danych w systemie, o którym mowa w ust. 1, w zakresie informacji o umowie zamieszczonych przez tego kierownika jednostki w Centralnym Rejestrze Umów JSFP.
+Tworząc jednostkę budżetową, organ, o którym mowa w ust. 1, nadaje jej statut, chyba że odrębne ustawy stanowią inaczej, oraz określa mienie przekazywane tej jednostce w zarząd.
 
-10. Obowiązki administratora danych określone w przepisach o ochronie danych osobowych w zakresie informacji o umowie zamieszczonych w Centralnym Rejestrze Umów JSFP wykonuje wyłącznie kierownik jednostki, o którym mowa w ust. 9.>
+### 3.
 
-**Art. 34c.** (uchylony) <Art. 34d. Minister Finansów określi, w drodze rozporządzenia:
+Likwidując jednostkę budżetową, organ, o którym mowa w ust. 1, określa przeznaczenie mienia znajdującego się w zarządzie tej jednostki, z zastrzeżeniem ust. 7. W przypadku państwowej jednostki budżetowej decyzja o przeznaczeniu tego mienia jest podejmowana w porozumieniu z ministrem właściwym do spraw Skarbu Państwa.
 
-**Art. 35.** Klauzule umowne dotyczące wyłączenia jawności ze względu na tajemnicę przedsiębiorstwa w umowach zawieranych przez jednostki sektora finansów publicznych lub inne podmioty, o ile wynikające z umowy zobowiązanie jest realizowane lub przeznaczone do realizacji ze środków publicznych, uważa się za niezastrzeżone, z wyłączeniem informacji technicznych, technologicznych, organizacyjnych przedsiębiorstwa lub innych posiadających wartość gospodarczą, w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, co do których przedsiębiorca podjął niezbędne działania w celu zachowania ich w tajemnicy, lub w przypadku gdy jednostka sektora finansów publicznych wykaże, że informacja stanowi tajemnicę przedsiębiorstwa z uwagi na to, że wymaga tego istotny interes publiczny lub ważny interes państwa.
+### 4.
 
-**Art. 35a.**
+Z zastrzeżeniem ust. 7, należności i zobowiązania likwidowanej:
 
-1. Podmioty realizujące zadania finansowane lub dofinansowane z budżetu państwa lub z państwowych funduszy celowych są obowiązane do podejmowania działań informacyjnych dotyczących tego finansowania lub dofinansowania, przy wykorzystaniu różnych form i metod komunikacji. Koszty tych działań są ponoszone w ramach finansowania lub dofinansowania z budżetu państwa lub z państwowych funduszy celowych bądź ze środków własnych podmiotów realizujących zadania.
+### 1)
 
-2. Obowiązek określony w ust. 1 dotyczy zadań z zakresu infrastruktury, prac budowlanych lub zakupu środków trwałych, a także realizacji projektów badawczo-rozwojowych, edukacyjnych i społecznych, w przypadku gdy wysokość finansowania lub dofinansowania z budżetu państwa lub z państwowych funduszy celowych przekracza kwotę określoną w przepisach wydanych na podstawie art. 35d.
+państwowej jednostki budżetowej - przejmuje organ, który podjął decyzję o likwidacji;
 
-**Art. 35b.** W przypadku realizacji zadania współfinansowanego ze środków, o których mowa w art. 5 ust. 1 pkt 2, obowiązek określony w art. 35a ust. 1 jest wykonywany niezależnie od działań informacyjnych wynikających z przepisów Unii Europejskiej.
+### 2)
 
-**Art. 35c.**
+gminnej, powiatowej lub wojewódzkiej jednostki budżetowej - przejmuje urząd odpowiedniej jednostki samorządu terytorialnego.
 
-1. Dysponent części budżetowej lub państwowego funduszu celowego udzielający podmiotowi finansowania lub dofinansowania z budżetu państwa lub z państwowego funduszu celowego kontroluje wykonywanie obowiązku określonego w art. 35a ust. 1.
+### 5.
 
-2. W przypadku niewykonania obowiązku określonego w art. 35a ust. 1 albo wykonania go niezgodnie z przepisami wydanymi na podstawie art. 35d dysponent części budżetowej lub państwowego funduszu celowego wzywa podmiot realizujący dane zadanie do niezwłocznego wykonania tego obowiązku.
+Przepis ust. 3 stosuje się odpowiednio do łączenia jednostek budżetowych.
 
-**Art. 35d.** Rada Ministrów określi, w drodze rozporządzenia, rodzaje działań, o których mowa w art. 35a ust. 1 i art. 35b, oraz sposób ich realizacji, w tym okres, w którym mają być realizowane, a także kwotę lub kwoty finansowania lub dofinansowania z budżetu państwa lub z państwowych funduszy celowych, do wysokości których nie powstaje obowiązek określony w art. 35a ust. 1, mając na uwadze zapewnienie przejrzystości i dostępności informacji o sposobie finansowania lub dofinansowania zadań określonych w art. 35a ust. 1 i 2, dokumentowania tych działań, a także uwzględniając dostosowanie wysokości kwoty finansowania lub dofinansowania, do wysokości której nie powstaje obowiązek określony w art. 35a ust. 1, do rodzaju lub wagi danego zadania.
+### 6.
 
-**Art. 36.**
+Likwidując jednostkę budżetową, organ, o którym mowa w ust. 1, może postanowić o utworzeniu jednostki o innej formie organizacyjno-prawnej.
 
-1. Minister Finansów podaje do publicznej wiadomości zbiorcze dane dotyczące:
+### 7.
 
-- **1)** (uchylony)
-- **2)** wykonania budżetu państwa za okresy miesięczne, w tym kwotę deficytu lub nadwyżki.
+W przypadku, o którym mowa w ust. 6, organ może również zdecydować o przejęciu należności i zobowiązań likwidowanej jednostki budżetowej przez nowo utworzoną jednostkę.
 
-2. Minister Finansów podaje do publicznej wiadomości w terminie, o którym mowa w art. 38, informacje obejmujące wykaz udzielonych przez Skarb Państwa poręczeń i gwarancji, wskazując osoby prawne i fizyczne oraz jednostki organizacyjne nieposiadające osobowości prawnej, których te poręczenia i gwarancje dotyczą.
+### Art. 13.
 
-3. Dyrektor izby administracji skarbowej ogłasza w wojewódzkim dzienniku urzędowym wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5000 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia.
+### 1.
 
-4. Podanie do publicznej wiadomości wykazu, o którym mowa w ust. 3, nie narusza przepisów o tajemnicy skarbowej.
+Prezes Rady Ministrów może utworzyć jednostkę budżetową realizującą zadania na rzecz administracji rządowej.
 
-5. Organ wydający decyzje o umorzeniu niepodatkowych należności budżetu państwa, o których mowa w art. 60, podaje informację kwartalną o udzielonych umorzeniach do publicznej wiadomości na swojej stronie podmiotowej w Biuletynie Informacji Publicznej do końca miesiąca następującego po zakończeniu kwartału.
+### 2.
 
-6. Minister Finansów określi, w drodze rozporządzenia, sposób ustalania umorzonych kwot oraz termin ogłaszania wykazu, o którym mowa w ust. 3, a także organy obowiązane do przekazywania dyrektorowi izby administracji skarbowej danych umożliwiających sporządzenie tego wykazu i termin ich przekazywania, uwzględniając rodzaje podmiotów, których informacje dotyczą.
+Prezes Rady Ministrów, tworząc jednostkę budżetową, o której mowa w ust. 1, określi zakres realizowanych przez nią zadań.
 
-**Art. 37.**
+### 3.
 
-1. Zarząd jednostki samorządu terytorialnego podaje do publicznej wiadomości w terminie:
+Jednostka budżetowa, o której mowa w ust. 1, podlega Prezesowi Rady Ministrów albo wskazanemu przez niego ministrowi lub kierownikowi urzędu centralnego.
 
-- **1)** do końca miesiąca następującego po zakończeniu kwartału – kwartalną informację o wykonaniu budżetu jednostki samorządu terytorialnego, w tym kwotę deficytu albo nadwyżki, oraz o udzielonych umorzeniach niepodatkowych należności budżetowych, o których mowa w art. 60;
-- **2)** o którym mowa w art. 38 – informację obejmującą:
-    - **a)** dane dotyczące wykonania budżetu jednostki samorządu terytorialnego w poprzednim roku budżetowym, w tym kwotę deficytu albo nadwyżki,
-    - **b)** kwotę wykorzystanych środków, o których mowa w art. 5 ust. 1 pkt 2,
-    - **c)** kwotę zobowiązań, o których mowa w art. 72 ust. 1 pkt 4,
-    - **d)** kwoty dotacji otrzymanych z budżetów jednostek samorządu terytorialnego oraz kwoty dotacji udzielonych innym jednostkom samorządu terytorialnego,
-    - **e)** wykaz udzielonych poręczeń i gwarancji, z wymienieniem podmiotów, których gwarancje i poręczenia dotyczą,
-    - **f)** wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym w zakresie podatków lub opłat udzielono ulg, odroczeń, umorzeń lub rozłożono spłatę na raty w kwocie przewyższającej łącznie 500 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia,
-    - **g)** wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym udzielono pomocy publicznej.
+### 4.
 
-2. Podanie do publicznej wiadomości wykazu, o którym mowa w ust. 1 pkt 2 lit. f, nie narusza przepisów o tajemnicy skarbowej.
+Przepisy art. 12 ust. 2-7 stosuje się odpowiednio.
 
-**Art. 38.** Minister Finansów ogłasza, w terminie do dnia 31 maja roku następnego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+### Art. 14.
 
-**Art. 38a.** Minister Finansów ogłasza, w terminie do dnia 31 maja roku następnego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+Zadania własne jednostki samorządu terytorialnego w zakresie:
 
-**Art. 38b.** Prezes Głównego Urzędu Statystycznego ogłasza, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 16 kwietnia:
+### 1)
 
-**Art. 38c.** (uchylony)
+gospodarki mieszkaniowej i gospodarowania lokalami użytkowymi,
 
-**Art. 39.**
+### 2)
 
-1. Dochody publiczne, wydatki publiczne i przychody, o których mowa w art. 5 ust. 1 pkt 5, oraz środki, o których mowa w art. 5 ust. 1 pkt 2 i 3, klasyfikuje się według:
+dróg, ulic, mostów, placów oraz organizacji ruchu drogowego,
 
-- **1)** działów i rozdziałów – określających rodzaj działalności;
-- **2)** paragrafów – określających rodzaj dochodu, przychodu lub wydatku oraz środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+### 3)
 
-2. (uchylony)
+wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, zaopatrzenia w energię elektryczną i cieplną oraz gaz,
 
-3. Przychody, o których mowa w art. 5 ust. 1 pkt 4, oraz rozchody, o których mowa w art. 6 ust. 2, klasyfikuje się według paragrafów określających źródło przychodu lub rodzaj rozchodu.
+### 4)
 
-4. Minister Finansów określi, w drodze rozporządzenia, szczegółową klasyfikację dochodów, wydatków, przychodów i rozchodów oraz środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w tym paragrafy określające rodzaj wydatków zaliczanych do poszczególnych grup wydatków, o których mowa w art. 124 ust. 1, oraz paragrafy wydatków zaliczanych do wydatków bieżących i wydatków majątkowych, o których mowa w art. 236 ust. 1–4, uwzględniając potrzebę jednolitego klasyfikowania środków publicznych.
+lokalnego transportu zbiorowego,
 
-5. Minister Finansów może określić w rozporządzeniu, o którym mowa w ust. 4, klasyfikację wydatków o większej szczegółowości niż określona w ust. 1 dla zadań z zakresu bezpieczeństwa wewnętrznego i zewnętrznego, z uwzględnieniem specyfiki jednostek realizujących zadania z tego zakresu.
+### 5)
 
-**Art. 40.**
+targowisk i hal targowych,
 
-1. Jednostki sektora finansów publicznych prowadzą rachunkowość zgodnie z przepisami o rachunkowości, z uwzględnieniem zasad określonych w niniejszej ustawie.
+### 6)
 
-2. Plany kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej powinny uwzględniać, że:
+zieleni gminnej i zadrzewień,
 
-- **1)** dochody i wydatki ujmuje się w terminie ich zapłaty, niezależnie od rocznego budżetu, którego dotyczą;
-- **2)** ujmuje się również wszystkie etapy rozliczeń poprzedzające płatność dochodów i wydatków, a w zakresie wydatków i kosztów – także zaangażowanie środków;
-- **3)** odsetki od nieterminowych płatności nalicza się i ewidencjonuje nie później niż na koniec każdego kwartału;
-- **4)** wyceny składników aktywów i pasywów wyrażonych w walutach obcych dokonuje się nie później niż na koniec kwartału.
+### 7)
 
-3. Szczególne zasady rachunkowości dla jednostek, o których mowa w ust. 2, dotyczą:
+kultury fizycznej i sportu, w tym utrzymywania terenów rekreacyjnych i urządzeń sportowych,
 
-- **1)** ewidencji wykonania budżetu;
-- **2)** ewidencji wykonania budżetu w układzie zadaniowym;
-- **3)** ewidencji aktywów trwałych stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego;
-- **4)** wyceny poszczególnych składników aktywów i pasywów;
-- **5)** sporządzania sprawozdań finansowych oraz odbiorców tych sprawozdań.
+### 8)
 
-4. Minister Finansów określi:
+utrzymywania różnych gatunków egzotycznych i krajowych zwierząt, w tym w szczególności prowadzenia hodowli zwierząt zagrożonych wyginięciem, w celu ich ochrony poza miejscem naturalnego występowania,
 
-- **1)** w drodze rozporządzeń:
-    - **a)** szczególne zasady rachunkowości, o których mowa w ust. 3, oraz plany kont, o których mowa w ust. 2,
-    - **b)** zasady rachunkowości oraz plany kont dla organów podatkowych jednostek samorządu terytorialnego,
+### 9)
 
-- **2)** w drodze zarządzenia – zasady rachunkowości oraz plany kont dla organów podatkowych podległych Ministrowi Finansów, w zakresie poboru i rozliczenia podatków, opłat, wpłat z zysku przedsiębiorstw państwowych, jednoosobowych spółek Skarbu Państwa oraz banków państwowych, a także innych niepodatkowych należności budżetowych, do których poboru, ustalania lub określania są uprawnione organy podatkowe – uwzględniając potrzebę zapewnienia przejrzystości planów kont oraz charakter działalności prowadzonej przez te jednostki.
+cmentarzy
 
-**Art. 40a.** Minister Finansów publikuje w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego wytyczne w zakresie przypisywania paragrafów, o których mowa w art. 39 ust. 1 pkt 2, do kont księgowych określonych w przepisach wydanych na podstawie art. 40 ust. 4, w celu zapewnienia jednolitego ewidencjonowania danych w zakresie gospodarowania środkami publicznymi.
+- mogą być wykonywane przez samorządowe zakłady budżetowe.
 
-**Art. 41.**
+### Art. 15.
 
-1. Jednostki sektora finansów publicznych sporządzają sprawozdania z wykonania procesów, o których mowa w art. 3.
+### 1.
 
-2. Minister Finansów, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, określi, w drodze rozporządzenia:
+Samorządowy zakład budżetowy odpłatnie wykonuje zadania, pokrywając koszty swojej działalności z przychodów własnych, z zastrzeżeniem ust. 3 i 4.
 
-- **1)** rodzaje sprawozdań, formy i sposoby ich sporządzania oraz terminy przekazywania sprawozdań:
-    - **a)** z wykonania budżetów jednostek samorządu terytorialnego,
-    - **b)** z wykonania planów finansowych jednostek budżetowych,
-    - **c)** z dochodów i wydatków na rachunkach, o których mowa w art. 11a, art. 163 i art. 223,
-    - **d)** z wykonania planów finansowych samorządowych zakładów budżetowych,
-    - **e)** z wykonania planów finansowych agencji wykonawczych,
-    - **f)** z wykonania planów finansowych instytucji gospodarki budżetowej,
-    - **g)** z wykonania planów finansowych państwowych funduszy celowych,
-    - **h)** o stanie środków finansowych na rachunkach bankowych jednostek samorządu terytorialnego, państwowych jednostek budżetowych i urzędów skarbowych,
-    - **i)** z wykonania planów finansowych Zakładu Ubezpieczeń Społecznych i zarządzanych przez niego funduszy oraz Kasy Rolniczego Ubezpieczenia Społecznego i funduszy zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego,
-    - **j)** (uchylona)
-    - **k)** z wykonania planów finansowych państwowych osób prawnych, o których mowa w art. 9 pkt 14;
+### 2.
 
-- **2)** jednostki obowiązane do sporządzania poszczególnych sprawozdań, o których mowa w pkt 1, oraz odbiorców tych sprawozdań;
-- **3)** rodzaje i zasady sporządzania sprawozdań w zakresie zobowiązań wynikających z umów o partnerstwie publiczno-prywatnym zawieranych na podstawie odrębnych ustaw przez podmioty sektora finansów publicznych.
+Podstawą gospodarki finansowej samorządowego zakładu budżetowego jest roczny plan finansowy obejmujący przychody, w tym dotacje z budżetu jednostki samorządu terytorialnego, koszty i inne obciążenia, stan środków obrotowych, stan należności i zobowiązań na początek i koniec okresu oraz rozliczenia z budżetem jednostki samorządu terytorialnego.
 
-3. Minister Finansów może, w drodze rozporządzenia, określić wykaz zadań budżetowych grupujących wydatki według celów, a także szczegółowy sposób i terminy sporządzania przez dysponentów materiałów do informacji, o których mowa w art. 182 ust. 6, uwzględniając właściwość podmiotów i dysponentów realizujących zadania budżetowe oraz zakres przedmiotowy tych zadań.
+### 3.
 
-4. Minister Finansów określi, w drodze rozporządzenia, rodzaje, formy, terminy i sposoby sporządzania przez państwowe jednostki budżetowe, dysponentów państwowych funduszy celowych, agencje wykonawcze, instytucje gospodarki budżetowej oraz państwowe osoby prawne, o których mowa w art. 9 pkt 14, sprawozdań z wykonania planów finansowych w układzie zadaniowym.
+Samorządowy zakład budżetowy może otrzymywać z budżetu jednostki samorządu terytorialnego:
 
-5. Minister Finansów, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** rodzaje, formy, terminy i sposoby sporządzania przez jednostki sektora finansów publicznych sprawozdań w zakresie ogółu operacji finansowych, w szczególności w zakresie należności i zobowiązań, w tym państwowego długu publicznego oraz udzielonych poręczeń i gwarancji;
-- **2)** odbiorców sprawozdań, o których mowa w pkt 1.
+dotacje przedmiotowe;
 
-6. Minister Finansów, wydając rozporządzenia, o których mowa w ust. 2, 4 i 5, uwzględni konieczność określenia wzorów formularzy sprawozdań i stopnia szczegółowości danych umożliwiających podanie do publicznej wiadomości informacji, o których mowa w art. 36 ust. 1 oraz w art. 38 pkt 1, a także sporządzenie informacji z wykonania budżetu państwa.
+### 2)
 
-7. Prezes Głównego Urzędu Statystycznego gromadzi i przetwarza dane oraz sporządza zbiorcze sprawozdania w zakresie sprawozdań określonych w rozporządzeniu wydanym na podstawie ust. 5.
+dotacje celowe na zadania bieżące finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
 
-#### Rozdział 5 Zasady gospodarowania środkami publicznymi
+### 3)
 
-**Art. 42.**
+dotacje celowe na finansowanie lub dofinansowanie kosztów realizacji inwestycji.
 
-1. Sposób gromadzenia środków publicznych z poszczególnych tytułów określają odrębne ustawy.
+### 4.
 
-2. Środki publiczne pochodzące z poszczególnych tytułów nie mogą być przeznaczane na finansowanie imiennie wymienionych wydatków, chyba że odrębna ustawa stanowi inaczej.
+W zakresie określonym w odrębnych ustawach samorządowy zakład budżetowy może otrzymywać dotację podmiotową.
 
-3. Ograniczenia wynikającego z ust. 2 nie stosuje się do:
+### 5.
 
-- **1)** wydatków finansowanych z kredytów udzielonych przez międzynarodowe instytucje finansowe, o ile umowa tak stanowi;
-- **2)** wydatków finansowanych ze środków europejskich;
-- **3)** wydatków finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 5 i 6;
-- **4)** wydatków finansowanych ze środków finansowych, o których mowa w art. 77a ust. 1.
+Nowo tworzonemu samorządowemu zakładowi budżetowemu może być przyznana jednorazowa dotacja z budżetu jednostki samorządu terytorialnego na pierwsze wyposażenie w środki obrotowe.
 
-4. Ograniczenia wynikającego z ust. 2 nie stosuje się również do kosztów ponoszonych przez jednostki prowadzące działalność gospodarczą, agencje wykonawcze, instytucje gospodarki budżetowej oraz inne państwowe osoby prawne i samorządowe zakłady budżetowe.
+### 6.
 
-5. Jednostki sektora finansów publicznych są obowiązane do ustalania przypadających im należności pieniężnych, w tym mających charakter cywilnoprawny, oraz terminowego podejmowania w stosunku do zobowiązanych czynności zmierzających do wykonania zobowiązania.
+Dotacje dla samorządowego zakładu budżetowego, z wyłączeniem dotacji, o których mowa w ust. 3 pkt 2 i 3, nie mogą przekroczyć 50% kosztów jego działalności.
 
-6. Jednostki sektora finansów publicznych mogą odstąpić od podejmowania w stosunku do zobowiązanego czynności zmierzających do wykonania zobowiązania, jeżeli zachodzą przesłanki odstąpienia przez te jednostki od czynności zmierzających do zastosowania środków egzekucyjnych zgodnie z przepisami o postępowaniu egzekucyjnym w administracji.
+### 7.
 
-**Art. 43.** Prawo realizacji zadań finansowanych ze środków publicznych przysługuje ogółowi podmiotów, chyba że odrębne ustawy stanowią inaczej.
+Samorządowy zakład budżetowy wpłaca do budżetu jednostki samorządu terytorialnego nadwyżkę środków obrotowych, ustaloną na koniec okresu sprawozdawczego, chyba że organ stanowiący jednostki samorządu terytorialnego postanowi inaczej.
 
-**Art. 44.**
+### 8.
 
-1. Wydatki publiczne mogą być ponoszone na cele i w wysokościach ustalonych w:
+W planie finansowym samorządowego zakładu budżetowego mogą być dokonywane zmiany w ciągu roku w przypadku realizowania wyższych od planowanych przychodów i kosztów, pod warunkiem że nie spowoduje to zmniejszenia wpłat do budżetu jednostki samorządu terytorialnego ani zwiększenia dotacji z budżetu jednostki samorządu terytorialnego.
 
-- **1)** ustawie budżetowej;
-- **2)** uchwale budżetowej jednostki samorządu terytorialnego;
-- **3)** planie finansowym jednostki sektora finansów publicznych.
+### Art. 16.
 
-2. Jednostki sektora finansów publicznych dokonują wydatków zgodnie z przepisami dotyczącymi poszczególnych rodzajów wydatków.
+### 1.
 
-3. Wydatki publiczne powinny być dokonywane:
+Organ stanowiący jednostki samorządu terytorialnego tworzy, łączy, przekształca w inną formę organizacyjno-prawną i likwiduje samorządowy zakład budżetowy.
 
-- **1)** w sposób celowy i oszczędny, z zachowaniem zasad:
-    - **a)** uzyskiwania najlepszych efektów z danych nakładów,
-    - **b)** optymalnego doboru metod i środków służących osiągnięciu założonych celów;
+### 2.
 
-- **2)** w sposób umożliwiający terminową realizację zadań;
-- **3)** w wysokości i terminach wynikających z wcześniej zaciągniętych zobowiązań.
+Tworząc samorządowy zakład budżetowy, organ stanowiący jednostki samorządu terytorialnego określa:
 
-4. Jednostki sektora finansów publicznych zawierają umowy, których przedmiotem są usługi, dostawy lub roboty budowlane, na zasadach określonych w przepisach o zamówieniach publicznych, o ile odrębne przepisy nie stanowią inaczej.
+### 1)
 
-**Art. 45.** Ze środków publicznych nie można tworzyć fundacji na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2023 r. poz. 166).
+nazwę i siedzibę zakładu;
 
-**Art. 46.**
+### 2)
 
-1. Jednostki sektora finansów publicznych mogą zaciągać zobowiązania do sfinansowania w danym roku do wysokości wynikającej z planu wydatków lub kosztów jednostki, pomniejszonej o wydatki na wynagrodzenia i uposażenia, składki na ubezpieczenie społeczne i Fundusz Pracy, inne składki i opłaty obligatoryjne oraz płatności wynikające z zobowiązań zaciągniętych w latach poprzednich, z zastrzeżeniem art. 136 ust. 4 i art. 153.
+przedmiot jego działalności;
 
-2. Dysponent części budżetowej lub zarząd jednostki samorządu terytorialnego może ustalić dla podległych lub nadzorowanych jednostek dodatkowe ograniczenia zaciągania zobowiązań lub dokonywania wydatków.
+### 3)
 
-**Art. 47.** Podmiot wnioskujący o przyznanie środków publicznych na realizację wyodrębnionego zadania powinien przedstawić ofertę wykonania zadania zgodnie z zasadami uczciwej konkurencji, gwarantującą wykonanie zadania w sposób efektywny, oszczędny i terminowy.
+źródła przychodów własnych zakładu;
 
-**Art. 48.**
+### 4)
 
-1. Jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 2, 8 i 11, samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest jednostka samorządu terytorialnego, samorządowe instytucje kultury oraz samorządowe osoby prawne, o których mowa w art. 9 pkt 14, z wyłączeniem wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, mogą dokonywać lokat wolnych środków, z wyjątkiem środków pochodzących z dotacji z budżetu:
+stan wyposażenia zakładu w środki obrotowe oraz składniki majątkowe przekazane zakładowi w użytkowanie;
 
-- **1)** w skarbowych papierach wartościowych;
-- **2)** w obligacjach emitowanych przez jednostki samorządu terytorialnego;
-- **3)** na rachunkach bankowych w bankach mających siedzibę na terytorium Rzeczypospolitej Polskiej;
-- **4)** w formie depozytu u Ministra Finansów.
+### 5)
 
-1a. Samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest jednostka samorządu terytorialnego, samorządowe instytucje kultury oraz samorządowe osoby prawne, o których mowa w art. 9 pkt 14, z wyłączeniem wojewódzkich funduszy ochrony środowiska i gospodarki wodnej, mogą dokonywać lokat wolnych środków, z wyjątkiem środków pochodzących z dotacji z budżetu, także w formie depozytu u jednostki samorządu terytorialnego.
+terminy i sposób ustalania zaliczkowych wpłat nadwyżki środków obrotowych dokonywanych przez zakład do budżetu jednostki samorządu terytorialnego oraz sposób i terminy rocznych rozliczeń i dokonywania wpłat do budżetu.
 
-1b. Jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 11, mogą dokonywać lokat wolnych środków w sposób, o którym mowa w ust. 1 pkt 3, na okres nie dłuższy niż 3 dni. Ograniczenie w zakresie terminu lokowania, o którym mowa w zdaniu pierwszym, nie dotyczy środków w walutach obcych.
+### 3.
 
-2. Jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 5, 6, 9 i 12, samodzielne publiczne zakłady opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowe instytucje kultury, państwowe osoby prawne, o których mowa w art. 9 pkt 14, oraz wojewódzkie fundusze ochrony środowiska i gospodarki wodnej dokonują lokat wolnych środków, z wyjątkiem środków pochodzących z dotacji z budżetu, w formie depozytu u Ministra Finansów.
+Likwidując samorządowy zakład budżetowy, organ stanowiący jednostki samorządu terytorialnego określa przeznaczenie mienia znajdującego się w użytkowaniu tego zakładu.
 
-3. Obowiązek określony w ust. 2 obejmuje wolne środki jednostki sektora finansów publicznych znajdujące się w jej dyspozycji, które nie są wydatkowane w określonym dniu na wykonywanie zadań oraz funkcjonowanie danej jednostki.
+### 4.
 
-4. Wolne środki, o których mowa w ust. 3, nie obejmują środków w walutach obcych. Środki te mogą być lokowane w sposób, o którym mowa w ust. 1 pkt 3.
+Przepis ust. 3 stosuje się odpowiednio do łączenia samorządowych zakładów budżetowych.
 
-5. Wolne środki agencji płatniczych będące środkami, o których mowa w art. 208 ust. 2, oraz środki przeznaczone na współfinansowanie realizacji zadań finansowanych z udziałem tych środków nie są objęte obowiązkiem lokowania w formie depozytu u Ministra Finansów. Środki te mogą być lokowane w sposób określony w ust. 1.
+### 5.
 
-**Art. 49.**
+Przekształcenie samorządowego zakładu budżetowego w inną formę organizacyjno-prawną wymaga uprzednio jego likwidacji.
 
-1. Jednostki sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 9 pkt 2, nie mogą posiadać, obejmować lub nabywać udziałów lub akcji w spółkach ani nabywać obligacji emitowanych przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego, a także udziałów w spółdzielniach, chyba że odrębna ustawa stanowi inaczej, z zastrzeżeniem ust. 2.
+### 6.
 
-2. Minister właściwy do spraw aktywów państwowych przejmuje od jednostek sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 9 pkt 2, akcje i udziały w spółkach oraz obligacje wyemitowane przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego oraz wykonuje wynikające z nich uprawnienia Skarbu Państwa.
+Należności i zobowiązania likwidowanego samorządowego zakładu budżetowego przejmuje organ, który podjął decyzję o likwidacji, z zastrzeżeniem ust. 7.
 
-**Art. 50.**
+### 7.
 
-1. Przyjmowane przez Radę Ministrów projekty ustaw oraz akty prawne, których skutkiem finansowym może być zwiększenie wydatków lub zmniejszenie dochodów jednostek sektora finansów publicznych w stosunku do wielkości wynikających z obowiązujących przepisów, zawierają w uzasadnieniu:
+Należności i zobowiązania samorządowego zakładu budżetowego likwidowanego w celu przekształcenia w inną formę organizacyjno-prawną przejmuje utworzona jednostka.
 
-- **1)** określenie wysokości tych skutków;
-- **2)** wskazanie źródeł ich sfinansowania;
-- **3)** opis celów nowych zadań i mierników określających stopień realizacji celów.
+### Art. 17.
 
-1a. W przyjmowanych przez Radę Ministrów projektach ustaw, których skutkiem finansowym może być zmiana poziomu wydatków jednostek sektora finansów publicznych w stosunku do wielkości wynikających z obowiązujących przepisów, określa się w treści projektu maksymalny limit tych wydatków wyrażony kwotowo, na okres 10 lat budżetowych wykonywania ustawy, oddzielnie dla każdego roku, poczynając od pierwszego roku planowanego wejścia w życie ustawy, w podziale na:
+### 1.
 
-- **1)** budżet państwa;
-- **2)** jednostki samorządu terytorialnego i ich jednostki organizacyjne;
-- **3)** pozostałe jednostki sektora finansów publicznych.
+Minister Finansów określi, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej jednostek budżetowych i samorządowych zakładów budżetowych, a w szczególności:
 
-1b. W przypadku projektów ustaw, które przewidują obowiązywanie przepisów w okresie krótszym niż 10 lat budżetowych, maksymalne limity wydatków, o których mowa w ust. 1a, określa się na ten okres. Przepisu ust. 1c nie stosuje się.
+### 1)
 
-1c. Rada Ministrów przedstawia Sejmowi, trzy lata przed upływem okresu, o którym mowa w ust. 1a, projekt zmiany ustawy określającej maksymalne limity wydatków jednostek sektora finansów publicznych, wyrażone kwotowo, na kolejnych 10 lat budżetowych wykonywania ustawy. Przepisy ust. 1 i 1a stosuje się odpowiednio.
+sposób i tryb sporządzania planów finansowych,
 
-2. Projekt ustawy skutkującej zmianą poziomu dochodów lub wydatków jednostek samorządu terytorialnego wymaga określenia wysokości skutków tych zmian, wskazania źródeł ich sfinansowania oraz zaopiniowania przez Komisję Wspólną Rządu i Samorządu Terytorialnego.
+### 2)
 
-3. Rada Ministrów, przekazując do projekt ustawy, o którym mowa w ust. 2, dołącza opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
+sposób dokonywania zmian w planach finansowych jednostek budżetowych oraz zatwierdzania tych zmian,
 
-4. Projekt ustawy, o którym mowa w ust. 1a, zawiera mechanizmy korygujące, mające zastosowanie w przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków, polegające na:
+### 3)
 
-- **1)** limitowaniu liczby udzielanych świadczeń w zależności od środków przeznaczonych na ten cel w ustawie budżetowej lub
-- **2)** uzależnieniu wypłat od kryterium dochodowego lub majątkowego albo zmianie kryterium dochodowego lub majątkowego uprawniającego do nabycia świadczeń finansowanych ze środków publicznych, lub
-- **3)** zmianie kosztów realizacji zadań publicznych wykonywanych na rzecz obywateli.
+tryb pobierania dochodów i dokonywania wydatków państwowych jednostek budżetowych,
 
-5. W projekcie ustawy, o której mowa w ust. 1a, określa się właściwy organ, który monitoruje wykorzystanie limitu wydatków na wykonywanie zadania publicznego przez jednostki sektora finansów publicznych oraz odpowiada za wdrożenie mechanizmów korygujących.
+### 4)
 
-6. Przepisów ust. 1a–1c, 4 i 5 nie stosuje się do przyjmowanego przez Radę Ministrów projektu ustawy, której skutkiem może być zwiększenie, w stosunku do wielkości wynikających z obowiązujących przepisów, następujących wydatków budżetu państwa:
+sposób ustalania nadwyżki środków obrotowych w samorządowych zakładach budżetowych
 
-- **1)** na obsługę długu publicznego;
-- **2)** zasobów własnych Unii Europejskiej oraz obligatoryjnych składek wpłacanych do organizacji międzynarodowych;
-- **3)** na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w tym wydatków budżetu środków europejskich;
-- **4)** wypłat i obsługi świadczeń rodzinnych, rodzicielskich świadczeń uzupełniających, świadczeń z funduszu alimentacyjnego, świadczenia wychowawczego oraz finansowania składek na ubezpieczenia emerytalne i rentowe za osoby pobierające świadczenie pielęgnacyjne lub specjalny zasiłek opiekuńczy;
-- **4a)** (uchylony) 4b) wypłat i obsługi świadczenia wspierającego, o którym mowa w ustawie z dnia 7 lipca 2023 r. o świadczeniu wspierającym (Dz. U. poz. 1429 i 2760 oraz z 2025 r. poz. 619);
-- **4c)** wypłat i obsługi świadczeń „aktywny rodzic”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858 oraz z 2025 r. poz. 619 i 1083);
-- **5)** składek na ubezpieczenie społeczne za osoby przebywające na urlopach wychowawczych i macierzyńskich oraz za osoby niepełnosprawne;
-- **6)** świadczeń emerytalno-rentowych funkcjonariuszy i uprawnionych członków ich rodzin oraz uposażeń sędziów i prokuratorów w stanie spoczynku;
-- **6a)** świadczenia pieniężnego, o którym mowa w ustawie z dnia 8 lutego 2023 r. o świadczeniu pieniężnym przysługującym członkom rodziny funkcjonariuszy lub żołnierzy zawodowych, których śmierć nastąpiła w związku ze służbą albo podjęciem poza służbą czynności ratowania życia lub zdrowia ludzkiego albo mienia (Dz. U. poz. 658);
-- **6b)** świadczenia ratowniczego, o którym mowa w:
-    - **a)** art. 16 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2025 r. poz. 244 i 900 oraz z 2026 r. poz. 180),
-    - **b)** art. 11a ust. 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie i ratownictwie w górach i na zorganizowanych terenach narciarskich (Dz. U. z 2023 r. poz. 1154);
+- biorąc pod uwagę potrzebę przestrzegania zasad celowego i oszczędnego dokonywania wydatków oraz jawności, przejrzystości i terminowej realizacji zadań.
 
-- **7)** dotacji dla Funduszu Ubezpieczeń Społecznych, Funduszu Emerytur Pomostowych i Funduszu Emerytalno-Rentowego Kasy Rolniczego Ubezpieczenia Społecznego na sfinansowanie wypłat świadczeń emerytalno-rentowych gwarantowanych przez państwo;
-- **7a)** dotacji celowej dla Funduszu Solidarnościowego na dofinansowanie świadczenia uzupełniającego, kosztów obsługi wypłaty tego świadczenia, kosztów obsługi wniosku o świadczenie uzupełniające oraz kosztów świadczeń zdrowotnych związanych z wydawaniem orzeczeń dla osób niezdolnych do samodzielnej egzystencji, o których mowa w art. 11 ust. 1 ustawy z dnia 31 lipca 2019 r. o świadczeniu uzupełniającym dla osób niezdolnych do samodzielnej egzystencji (Dz. U. z 2024 r. poz. 1649);
-- **7b)** wypłat i obsługi kolejnego dodatkowego rocznego świadczenia pieniężnego, o którym mowa w art. 1 ustawy z dnia 26 maja 2023 r. o kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów i rencistów (Dz. U. z 2025 r. poz. 183);
-- **8)** wydatków obronnych w części budżetu państwa „obrona narodowa” oraz w dziale „obrona narodowa” w innych częściach budżetu państwa;
-- **9)** wydatków w części budżetu państwa „zdrowie” oraz w dziale „ochrona zdrowia” w innych częściach budżetu państwa;
-- **10)** wydatków w części budżetu państwa „subwencje ogólne dla jednostek samorządu terytorialnego”;
-- **11)** na realizację zadań, o których mowa w ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907);
-- **12)** rekompensaty, o której mowa w art. 36a ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2023 r. poz. 2112 oraz z 2025 r. poz. 1180).
+### 2.
 
-7. Wejście w życie przepisów wykonawczych nie może skutkować zmianą limitu wydatków jednostek sektora finansów publicznych określonego w ustawie, na podstawie której wydawane są przepisy wykonawcze.
+Minister Finansów, wydając rozporządzenie, o którym mowa w ust. 1, uwzględni specyfikę działalności jednostek organizacyjnych podległych Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu i Szefowi Centralnego Biura Antykorupcyjnego, jednostek organizacyjnych Służby Więziennej oraz jednostek organizacyjnych działających poza granicami Rzeczypospolitej Polskiej.
 
-8. Przepisów ust. 1a–1c, 4, 5 oraz ust. 7 nie stosuje się w przypadku wprowadzenia:
+### Art. 18.
 
-- **1)** stanu wojennego;
-- **2)** stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej;
-- **3)** stanu klęski żywiołowej na całym terytorium Rzeczypospolitej Polskiej.
+Agencja wykonawcza jest państwową osobą prawną tworzoną na podstawie odrębnej ustawy w celu realizacji zadań państwa.
 
-**Art. 50a.** Minister Finansów publikuje w Biuletynie Informacji Publicznej wytyczne zapewniające stosowanie jednolitych wskaźników makroekonomicznych, które będą stanowić podstawę oszacowywania skutków finansowych projektowanej ustawy, w szczególności jednolitego określania maksymalnego limitu wydatków jednostek sektora finansów publicznych na dane zadanie, wyrażonego kwotowo, na okres 10 lat budżetowych wykonywania tej ustawy.
+### Art. 19.
 
-**Art. 51.**
+### 1.
 
-1. Zamieszczenie w budżecie państwa dochodów z określonych źródeł lub wydatków na określone cele nie stanowi podstawy roszczeń ani zobowiązań państwa wobec osób trzecich, ani roszczeń tych osób wobec państwa.
+Zasady działania agencji wykonawczej określa ustawa, o której mowa w art. 18, oraz statut.
 
-2. Przepis ust. 1 stosuje się odpowiednio do:
+### 2.
 
-- **1)** jednostek samorządu terytorialnego;
-- **2)** pozostałych jednostek sektora finansów publicznych.
+Rada Ministrów może określić, w drodze rozporządzenia, wymogi, jakie powinien spełniać statut agencji wykonawczej, w celu zapewnienia jednolitej i przejrzystej organizacji wewnętrznej agencji wykonawczych pod względem instytucjonalnym.
 
-**Art. 52.**
+### Art. 20.
 
-1. Ujęte w budżecie państwa, budżetach jednostek samorządu terytorialnego i planach finansowych jednostek budżetowych:
+Agencja wykonawcza prowadzi gospodarkę finansową na zasadach określonych w niniejszej ustawie i w ustawie, o której mowa w art. 18.
 
-- **1)** dochody oraz przychody – stanowią prognozy ich wielkości;
-- **2)** wydatki oraz łączne rozchody – stanowią nieprzekraczalny limit.
+### Art. 21.
 
-1a. Do rozchodów z tytułu zobowiązań finansowych zaciąganych i spłacanych przez Ministra Finansów, działającego w imieniu Skarbu Państwa, w tym samym roku budżetowym oraz do operacji finansowych dokonywanych pomiędzy rachunkami Ministra Finansów nie stosuje się przepisu ust. 1 pkt 2 w zakresie limitu rozchodów.
+### 1.
 
-1b. Do rozchodów z tytułu zobowiązań finansowych zaciąganych i spłacanych przez jednostki samorządu terytorialnego w tym samym roku budżetowym w związku z przyjmowaniem depozytów, o których mowa w art. 48 ust. 1a, nie stosuje się przepisu ust. 1 pkt 2 w zakresie limitu rozchodów.
+Podstawą gospodarki finansowej agencji wykonawczej jest roczny plan finansowy, obejmujący:
 
-2. Ujęte w rocznych planach finansowych jednostek sektora finansów publicznych:
+### 1)
 
-- **1)** przychody – stanowią prognozy ich wielkości;
-- **2)** koszty – mogą ulec zwiększeniu, jeżeli:
-    - **a)** zrealizowano przychody wyższe od prognozowanych,
-    - **b)** zwiększenie kosztów nie spowoduje zwiększenia dotacji z budżetu lub zwiększenia planowanego stanu zobowiązań.
+przychody z prowadzonej działalności;
 
-3. Zmiany w zakresie przychodów i kosztów, o których mowa w ust. 2, wymagają dokonania zmian w rocznym planie finansowym.
+### 2)
 
-**Art. 53.** [1. Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”,] <Kierownik jednostki> jest odpowiedzialny za całość gospodarki finansowej tej jednostki, z zastrzeżeniem ust. 5. 2. Kierownik jednostki może powierzyć określone obowiązki w zakresie gospodarki finansowej pracownikom jednostki. Przyjęcie obowiązków przez te osoby powinno być potwierdzone dokumentem w formie odrębnego imiennego upoważnienia albo wskazania w regulaminie organizacyjnym tej jednostki. 3. Minister właściwy do spraw zagranicznych może, w drodze zarządzenia, powierzyć określone obowiązki w zakresie gospodarki finansowej jednostki podległej temu ministrowi, mającej siedzibę poza granicami Rzeczypospolitej Polskiej, kierownikowi innej jednostki podległej temu ministrowi. Przepis ust. 2 stosuje się odpowiednio. 4. Kierownik jednostki, któremu powierzono zgodnie z ust. 3 określone obowiązki w zakresie gospodarki finansowej innej jednostki, jest odpowiedzialny za gospodarkę finansową tej jednostki w zakresie powierzonych obowiązków. 5. Kierownik jednostki obsługującej, o której mowa w art. 10b ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153), art. 6b ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907) albo art. 8d ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581), jest odpowiedzialny za gospodarkę finansową oraz rachunkowość i sprawozdawczość jednostki obsługiwanej, o której mowa w art. 10a pkt 1 i 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, art. 6a pkt 1 i 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym albo art. 8c pkt 1 i 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa w zakresie obowiązków powierzonych uchwałą, o której mowa w art. 10b ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, art. 6b ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym i art. 8d ust. 2 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa albo porozumieniem, o którym mowa w art. 10b ust. 3 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, art. 6b ust. 3 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym i art. 8d ust. 3 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa. Przepis ust. 2 stosuje się odpowiednio.
+dotacje z budżetu państwa;
 
-**Art. 54.**
+### 3)
 
-1. Głównym księgowym jednostki sektora finansów publicznych, zwanym dalej „głównym księgowym”, jest pracownik, któremu kierownik jednostki powierza obowiązki i odpowiedzialność w zakresie:
+zestawienie kosztów:
 
-- **1)** prowadzenia rachunkowości jednostki;
-- **2)** wykonywania dyspozycji środkami pieniężnymi;
-- **3)** dokonywania wstępnej kontroli:
-    - **a)** zgodności operacji gospodarczych i finansowych z planem finansowym,
-    - **b)** kompletności i rzetelności dokumentów dotyczących operacji gospodarczych i finansowych.
+### a)
 
-2. Głównym księgowym, z zastrzeżeniem ust. 9, może być osoba, która:
+funkcjonowania agencji wykonawczej,
 
-- **1)** ma obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, chyba że odrębne ustawy uzależniają zatrudnienie w jednostce sektora finansów publicznych od posiadania obywatelstwa polskiego;
-- **2)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
-- **3)** nie była prawomocnie skazana za przestępstwo przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przeciwko wiarygodności dokumentów lub za przestępstwo skarbowe;
-- **4)** posiada znajomość języka polskiego w mowie i piśmie w zakresie koniecznym do wykonywania obowiązków głównego księgowego;
-- **5)** spełnia jeden z poniższych warunków:
-    - **a)** ukończyła ekonomiczne jednolite studia magisterskie, ekonomiczne wyższe studia zawodowe, uzupełniające ekonomiczne studia magisterskie lub ekonomiczne studia podyplomowe i posiada co najmniej 3-letnią praktykę w księgowości,
-    - **b)** ukończyła średnią, policealną lub pomaturalną szkołę ekonomiczną i posiada co najmniej 6-letnią praktykę w księgowości,
-    - **c)** jest wpisana do rejestru biegłych rewidentów na podstawie odrębnych przepisów,
-    - **d)** posiada certyfikat księgowy uprawniający do usługowego prowadzenia ksiąg rachunkowych albo świadectwo kwalifikacyjne uprawniające do usługowego prowadzenia ksiąg rachunkowych, wydane na podstawie odrębnych przepisów.
+### b)
 
-2a. Jeżeli w ramach wspólnej obsługi, o której mowa w art. 10a ustawy z dnia 8 marca 1990 r. o samorządzie gminnym, art. 6a ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym i art. 8c ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa, jednostka obsługująca zaliczana do sektora finansów publicznych zapewnia realizację zadań głównego księgowego jednostki sektora finansów publicznych przez osobę spełniającą wymogi, o których mowa w ust. 2, w jednostce obsługiwanej nie zatrudnia się głównego księgowego.
+realizacji zadań ustawowych, z wyszczególnieniem kosztów realizacji tych zadań przez inne podmioty
 
-3. Dowodem dokonania przez głównego księgowego wstępnej kontroli, o której mowa w ust. 1 pkt 3, jest jego podpis złożony na dokumentach dotyczących danej operacji. Złożenie podpisu przez głównego księgowego na dokumencie, obok podpisu pracownika właściwego rzeczowo, oznacza, że:
+- z wyszczególnieniem wynagrodzeń i składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań oraz zakupu towarów i usług;
 
-- **1)** nie zgłasza zastrzeżeń do przedstawionej przez właściwych rzeczowo pracowników oceny prawidłowości tej operacji i jej zgodności z prawem;
-- **2)** nie zgłasza zastrzeżeń do kompletności oraz formalno-rachunkowej rzetelności i prawidłowości dokumentów dotyczących tej operacji;
-- **3)** zobowiązania wynikające z operacji mieszczą się w planie finansowym jednostki.
+### 4)
 
-4. Główny księgowy, w razie ujawnienia nieprawidłowości w zakresie określonym w ust. 3, zwraca dokument właściwemu rzeczowo pracownikowi, a w razie nieusunięcia nieprawidłowości odmawia jego podpisania.
+wynik finansowy;
 
-5. O odmowie podpisania dokumentu i jej przyczynach główny księgowy zawiadamia pisemnie kierownika jednostki. Kierownik jednostki może wstrzymać realizację zakwestionowanej operacji albo wydać w formie pisemnej polecenie jej realizacji.
+### 5)
 
-6. Jeżeli kierownik jednostki wyda polecenie realizacji zakwestionowanej operacji, niezwłocznie zawiadamia o tym w formie pisemnej dysponenta części budżetowej, a w przypadku jednostki samorządu terytorialnego i jednostek wymienionych w art. 9 pkt 3, 4, 10, 13 i 14, dla których organem założycielskim jest jednostka samorządu terytorialnego – zarząd jednostki samorządu terytorialnego, uzasadniając realizację zakwestionowanej operacji. W przypadku gdy polecenie wyda wójt, burmistrz, prezydent miasta, starosta lub marszałek województwa, zawiadamia on organ stanowiący jednostki samorządu terytorialnego oraz właściwą regionalną izbę obrachunkową.
+środki na wydatki majątkowe;
 
-7. W celu realizacji swoich zadań główny księgowy ma prawo:
+### 6)
 
-- **1)** żądać od kierowników innych komórek organizacyjnych jednostki udzielania w formie ustnej lub pisemnej niezbędnych informacji i wyjaśnień, jak również udostępnienia do wglądu dokumentów i wyliczeń będących źródłem tych informacji i wyjaśnień;
-- **2)** wnioskować do kierownika jednostki o określenie trybu, zgodnie z którym mają być wykonywane przez inne komórki organizacyjne jednostki prace niezbędne do zapewnienia prawidłowości gospodarki finansowej oraz ewidencji księgowej, kalkulacji kosztów i sprawozdawczości finansowej.
+środki przyznane innym podmiotom;
 
-8. Przepisy dotyczące głównego księgowego stosuje się odpowiednio do głównego księgowego budżetu państwa, głównego księgowego części budżetowej oraz skarbnika (głównego księgowego budżetu jednostki samorządu terytorialnego).
+### 7)
 
-9. Głównym księgowym placówki zagranicznej podległej ministrowi właściwemu do spraw zagranicznych może być osoba, która spełnia wymagania określone w ust. 2 pkt 1–4, posiada wykształcenie średnie lub średnie branżowe oraz ukończyła z wynikiem pozytywnym kurs administracyjno-finansowy organizowany przez urząd obsługujący ministra właściwego do spraw zagranicznych.
+stan należności i zobowiązań na początek i koniec roku;
 
-10. Przepisy ust. 4–7 stosuje się odpowiednio do kierownika jednostki obsługującej.
+### 8)
 
-**Art. 54a.**
+stan środków pieniężnych na początek i koniec roku.
 
-1. Jednostka sektora finansów publicznych może zawrzeć ugodę w sprawie spornej należności cywilnoprawnej w przypadku dokonania oceny, że skutki ugody są dla tej jednostki lub odpowiednio Skarbu Państwa albo budżetu jednostki samorządu terytorialnego korzystniejsze niż prawdopodobny wynik postępowania sądowego albo arbitrażowego.
+### 2.
 
-2. Ocena skutków ugody nastąpi, w formie pisemnej, z uwzględnieniem okoliczności sprawy, w szczególności zasadności spornych żądań, możliwości ich zaspokojenia i przewidywanego czasu trwania oraz kosztów postępowania sądowego albo arbitrażowego.
+Projekt rocznego planu finansowego agencji wykonawczej ustala jej właściwy organ w porozumieniu z ministrem sprawującym nadzór nad agencją wykonawczą. Po zatwierdzeniu przez ministra sprawującego nadzór projekt jest przekazywany Ministrowi Finansów, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-**Art. 55.** Należności pieniężne mające charakter cywilnoprawny, przypadające organom administracji rządowej, państwowym jednostkom budżetowym i państwowym funduszom celowym, mogą być umarzane w całości albo w części lub ich spłata może być odraczana lub rozkładana na raty.
+### 3.
 
-**Art. 56.**
+W ramach projektu planu finansowego sporządza się plan dochodów i wydatków agencji wykonawczej ujmowanych w terminie ich zapłaty.
 
-1. Należności, o których mowa w art. 55, mogą być z urzędu umarzane w całości, jeżeli:
+### 4.
 
-- **1)** osoba fizyczna – zmarła, nie pozostawiając żadnego majątku albo pozostawiła majątek niepodlegający egzekucji na podstawie odrębnych przepisów, albo pozostawiła przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty 6000 zł;
-- **2)** osoba prawna – została wykreślona z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
-- **3)** zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
-- **4)** jednostka organizacyjna nieposiadająca osobowości prawnej uległa likwidacji;
-- **5)** zachodzi interes publiczny.
+W planie dochodów i wydatków agencji wykonawczej planowane wydatki nie powinny być wyższe od planowanych dochodów. Planowane wydatki mogą przekraczać planowane dochody za zgodą ministra sprawującego nadzór nad agencją wykonawczą, wydaną w porozumieniu z Ministrem Finansów.
 
-2. W przypadku gdy oprócz dłużnika głównego są zobowiązane inne osoby, należności, o których mowa w ust. 1, mogą zostać umorzone tylko wtedy, gdy warunki umarzania są spełnione wobec wszystkich zobowiązanych.
+### 5.
 
-**Art. 57.** Na wniosek dłużnika:
+W planie finansowym agencji wykonawczej mogą być dokonywane zmiany przychodów i kosztów po uzyskaniu zgody ministra sprawującego nadzór nad agencją, wydanej po uzyskaniu opinii sejmowej komisji właściwej do spraw budżetu, z zastrzeżeniem ust. 6. O dokonanych zmianach należy niezwłocznie powiadomić Ministra Finansów.
 
-**Art. 57a.**
+### 6.
 
-1. Należności zasądzone na rzecz Skarbu Państwa tytułem zwrotu kosztów zastępstwa procesowego podlegają umorzeniu na wniosek dłużnika, jeżeli zasądzono je w postępowaniu, którego celem było zapobieżenie naruszeniu Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej w Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm. ) lub Protokołów dodatkowych do tej Konwencji lub uchylenie skutków tego naruszenia, lub uzyskanie zadośćuczynienia lub odszkodowania za to naruszenie w krajowym systemie prawnym, oraz w zakresie, w jakim z orzeczenia Europejskiego Trybunału Praw Człowieka wynika, że w postępowaniu tym naruszono wobec dłużnika tę Konwencję lub Protokoły dodatkowe do tej Konwencji.
+Zmiany planu finansowego agencji wykonawczej nie mogą powodować zwiększenia zobowiązań agencji ani pogorszenia planowanego wyniku finansowego agencji, chyba że odrębne ustawy stanowią inaczej.
 
-2. Na wniosek dłużnika umorzeniu podlegają również należności Skarbu Państwa z tytułu zwrotu kosztów postępowań prowadzonych w związku z dochodzeniem należności, o których mowa w ust. 1.
+### 7.
 
-**Art. 58.**
+Agencja wykonawcza może otrzymywać dotacje z budżetu państwa, w zakresie określonym w odrębnych ustawach.
 
-1. Do umarzania, odraczania terminów lub rozkładania na raty spłat należności, o których mowa w art. 55, są uprawnieni:
+### 8.
 
-- **1)** minister właściwy do spraw aktywów państwowych – w odniesieniu do należności Skarbu Państwa wynikających ze stosunków prawnych, w zakresie których jest on właściwy;
-- **1a)** wojewoda – w odniesieniu do należności Skarbu Państwa wynikających z realizowanych przez wojewodę zadań z zakresu wykonywania uprawnień przysługujących Skarbowi Państwa;
-- **2)** kierownik państwowej jednostki budżetowej – w odniesieniu do pozostałych należności przypadających tej jednostce budżetowej, jeżeli wartość należności głównej nie przekracza kwoty 40 000 zł;
-- **3)** dysponent państwowego funduszu celowego – w odniesieniu do należności tego funduszu;
-- **4)** dysponent części budżetowej – w pozostałych przypadkach.
+Agencja wykonawcza może zaciągać zobowiązania na okres realizacji danego zadania przekraczający rok budżetowy, jeżeli wydatki niezbędne na obsługę zobowiązania znajdują się w rocznym planie finansowym.
 
-2. Umorzenie należności oraz odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje, w formie pisemnej, na podstawie przepisów prawa cywilnego.
+### 9.
 
-3. W przypadkach, o których mowa w art. 56 ust. 1 pkt 1, 2 i 4, umorzenie należności następuje w formie jednostronnego oświadczenia woli.
+Ograniczenie, o którym mowa w ust. 6, nie dotyczy zwiększenia planu finansowego agencji wykonawczej z tytułu uzyskania pożyczki z budżetu państwa na finansowanie Wspólnej Polityki Rolnej.
 
-3a. W przypadku, o którym mowa w art. 56 ust. 1 pkt 3, umorzenie należności może nastąpić w formie jednostronnego oświadczenia woli, wówczas gdy uzyskanie oświadczenia woli dłużnika jest niemożliwe albo znacznie utrudnione.
+### 10.
 
-4. Przepisy ust. 1–3a oraz art. 55–57 stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłat odsetek od tych należności oraz do umarzania, odraczania lub rozkładania na raty spłaty innych należności ubocznych.
+Rada Ministrów może określić, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej agencji wykonawczych, mając na względzie potrzebę zapewnienia jednolitości zasad finansowania agencji wykonawczych oraz przestrzegania zasad jawności i przejrzystości.
 
-5. Przepisów ust. 1–4 oraz art. 55–57 nie stosuje się do należności, w przypadku których odrębne przepisy regulują umarzanie, odraczanie terminów spłaty lub rozkładanie na raty spłaty tych należności.
+### Art. 22.
 
-6. Dysponent części budżetowej lub dysponent państwowego funduszu celowego może wyrazić zgodę na niedochodzenie należności budżetu państwa o charakterze cywilnoprawnym, której kwota wraz z odsetkami nie przekracza 100 zł, a w przypadku należności z tytułu rekompensaty, o której mowa w art. 10 ust. 1 pkt 1 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych (Dz. U. z 2023 r. poz. 1790) – jeżeli jej kwota jest równa świadczeniu pieniężnemu w rozumieniu tej ustawy albo większa od tego świadczenia.
+### 1.
 
-7. Agencja wykonawcza może nie dochodzić należności z tytułu rekompensaty, o której mowa w art. 10 ust. 1 pkt 1 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych, jeżeli jej kwota jest równa świadczeniu pieniężnemu w rozumieniu tej ustawy albo większa od tego świadczenia.
+Agencja wykonawcza jest obowiązana corocznie wpłacać do budżetu państwa, na rachunek bieżący dochodów państwowej jednostki budżetowej obsługującej ministra sprawującego nadzór nad tą agencją, nadwyżkę środków finansowych ustaloną na koniec roku, pozostającą po uregulowaniu zobowiązań podatkowych, z zastrzeżeniem ust. 3.
 
-**Art. 59.**
+### 2.
 
-1. W przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym należności pieniężne mające charakter cywilnoprawny, przypadające jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym wymienionym w art. 9 pkt 3, 4 i 13, mogą być umarzane, terminy ich spłaty mogą zostać odroczone lub płatność tych należności może zostać rozłożona na raty, na zasadach określonych przez organ stanowiący jednostki samorządu terytorialnego, z zastrzeżeniem ust. 4.
+Nadwyżkę, o której mowa w ust. 1, agencja wykonawcza przekazuje niezwłocznie po uregulowaniu zobowiązań wymagalnych z okresu sprawozdawczego, nie później jednak niż do dnia 30 czerwca roku następującego po roku, w którym nadwyżka powstała.
 
-2. Organ stanowiący jednostki samorządu terytorialnego określi szczegółowe zasady, sposób i tryb udzielania ulg, o których mowa w ust. 1, warunki dopuszczalności pomocy publicznej w przypadkach, w których ulga stanowić będzie pomoc publiczną, oraz wskaże organ lub osobę uprawnione do udzielania tych ulg.
+### 3.
 
-3. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o stosowaniu z urzędu ulg, o których mowa w ust. 1, w przypadku wystąpienia okoliczności wymienionych w art. 56 ust. 1.
+W szczególnie uzasadnionych przypadkach wynikających z konieczności zapewnienia sprawnego i pełnego wykonywania zadań agencji wykonawczej Rada Ministrów może, na wniosek ministra sprawującego nadzór nad agencją wykonawczą, wyrazić zgodę, w formie uchwały, na niewpłacenie nadwyżki, o której mowa w ust. 1.
 
-4. Do należności cywilnoprawnych powstałych w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami stosuje się przepisy art. 55–58, z tym że uprawnienia kierownika państwowej jednostki budżetowej przysługują zarządowi jednostki samorządu terytorialnego.
+### 4.
 
-**Art. 59a.**
+Minister sprawujący nadzór nad agencją wykonawczą w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, sposób ustalania nadwyżki, uwzględniając potrzebę zapewnienia ciągłości finansowania zadań agencji, dokonywania inwestycji niezbędnych do wykonywania zadań państwa oraz mając na względzie źródła finansowania zadań realizowanych przez agencję.
 
-1. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o niedochodzeniu należności o charakterze cywilnoprawnym przypadających jednostce samorządu terytorialnego lub jej jednostkom organizacyjnym wymienionym w art. 9 pkt 3, 4 i 13, których kwota wraz z odsetkami nie przekracza 100 zł, a w przypadku należności z tytułu rekompensaty, o której mowa w art. 10 ust. 1 pkt 1 ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych – jeżeli jej kwota jest równa świadczeniu pieniężnemu w rozumieniu tej ustawy albo większa od tego świadczenia.
+### Art. 23.
 
-2. Przepisu ust. 1 nie stosuje się do należności powstałych w związku z realizacją:
+### 1.
 
-- **1)** zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami;
-- **2)** programów, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+Instytucja gospodarki budżetowej jest jednostką sektora finansów publicznych tworzoną w celu realizacji zadań publicznych, która:
 
-**Art. 60.** Środkami publicznymi stanowiącymi niepodatkowe należności budżetowe o charakterze publicznoprawnym są w szczególności następujące dochody budżetu państwa, dochody budżetu jednostki samorządu terytorialnego albo przychody państwowych funduszy celowych:
+### 1)
 
-**Art. 61.**
+odpłatnie wykonuje wyodrębnione zadania;
 
-1. Organami pierwszej instancji właściwymi do wydawania decyzji w odniesieniu do należności, o których mowa w art. 60, o ile odrębne ustawy nie stanowią inaczej, są:
+### 2)
 
-- **1)** w stosunku do należności budżetu państwa, z zastrzeżeniem pkt 3 – minister, wojewoda, inni dysponenci części budżetowych oraz inni kierownicy państwowych jednostek budżetowych;
-- **2)** w stosunku do należności, o których mowa w art. 60 pkt 6:
-    - **a)** instytucje zarządzające, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2,
-    - **b)** będący jednostkami sektora finansów publicznych: operatorzy programów, instytucje pośredniczące, instytucje wdrażające lub instytucje, które podpisały z beneficjentem umowę o dofinansowanie, jeżeli posiadają upoważnienie od instytucji zarządzającej, organu odpowiedzialnego za wdrożenie instrumentu „Łącząc Europę”, organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, a w przypadku instytucji wdrażającej lub instytucji, która podpisała z beneficjentem umowę o dofinansowanie – od tak upoważnionych instytucji pośredniczącej lub operatora programu;
+pokrywa koszty swojej działalności oraz zobowiązania z uzyskiwanych przychodów.
 
-- **3)** w stosunku do należności, o których mowa w art. 60 pkt 6a, których pobór należy do właściwości tego organu – naczelnik urzędu skarbowego, a w przypadku grzywien nałożonych w drodze mandatu karnego w postępowaniu w sprawach o wykroczenia skarbowe przez naczelnika urzędu celnoskarbowego – naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania ukaranego;
-- **4)** w stosunku do należności budżetów jednostek samorządu terytorialnego – wójt, burmistrz, prezydent miasta, starosta albo marszałek województwa;
-- **5)** w stosunku do należności stanowiących przychody państwowego funduszu celowego – dysponent państwowego funduszu celowego.
+### 2.
 
-2. Od decyzji wydanej w pierwszej instancji przysługuje odwołanie.
+Instytucja gospodarki budżetowej może być tworzona przez:
 
-3. Organami odwoławczymi są:
+### 1)
 
-- **1)** Minister Finansów – od decyzji wydanej w pierwszej instancji przez wojewodę;
-- **2)** organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214), zwanej dalej „ustawą o pomocy społecznej”, albo ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, zwanej dalej „ustawą o zasadach prowadzenia polityki rozwoju”, albo ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014–2020 (Dz. U. z 2020 r. poz. 818), zwanej dalej „ustawą o zasadach realizacji programów”, albo ustawy z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021–2027 (Dz. U. poz. 1079 oraz z 2024 r. poz. 1717), zwanej dalej „ustawą o zasadach realizacji programów 2021–2027”, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – od decyzji wydanej przez operatora programu, instytucję pośredniczącą, instytucję wdrażającą lub instytucję, która podpisała z beneficjentem umowę o dofinansowanie, będących jednostkami sektora finansów publicznych;
-- **2a)** organ pełniący funkcję instytucji pośredniczącej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju – od decyzji wydanej przez instytucję wdrażającą, jeżeli rozpatrywanie odwołań od decyzji instytucji wdrażającej zostało powierzone przez organ, o którym mowa w pkt 2, instytucji pośredniczącej;
-- **3)** organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 (Dz. U. poz. 1273) albo organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego (Dz. U. z 2020 r. poz. 2140), albo organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego (Dz. U. z 2021 r. poz. 664) – od decyzji wydanej przez instytucję pośredniczącą;
-- **3a)** dyrektor izby administracji skarbowej – od decyzji wydanej w pierwszej instancji przez naczelnika urzędu skarbowego;
-- **4)** samorządowe kolegium odwoławcze – od decyzji, o których mowa w ust. 1 pkt 4;
-- **5)** organ wyższego stopnia – od decyzji wydanej przez inny organ lub innego dysponenta części budżetowej.
+ministra lub Szefa Kancelarii Prezesa Rady Ministrów, za zgodą Rady Ministrów, udzieloną na jego wniosek;
 
-4. Od decyzji wydanej w pierwszej instancji przez ministra, instytucję zarządzającą, organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę” oraz organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, nie służy odwołanie, jednakże strona niezadowolona z decyzji może zwrócić się do organu, który ją wydał, z wnioskiem o ponowne rozpatrzenie sprawy.
+### 2)
 
-5. Do wniosku, o którym mowa w ust. 4, stosuje się odpowiednio przepisy dotyczące odwołań od decyzji.
+organ lub kierownika jednostki, o których mowa w art. 139 ust. 2, jako organu wykonującego funkcje organu założycielskiego.
 
-**Art. 62.**
+### 3.
 
-1. Zobowiązania z tytułu należności, o których mowa w art. 60, oraz zobowiązania wraz z odsetkami za zwłokę stanowiące dochód budżetu państwa podlegają, na wniosek zobowiązanego, potrąceniu z wzajemnej, bezspornej i wymagalnej wierzytelności zobowiązanego wobec Skarbu Państwa z tytułu:
+Organ lub kierownik jednostki, o którym mowa w ust. 2 pkt 2, o utworzeniu instytucji gospodarki budżetowej informuje Prezesa Rady Ministrów.
 
-- **1)** prawomocnego wyroku sądowego wydanego na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i
-- **1172)** , zwanej dalej „Kodeksem cywilnym”;
-- **2)** prawomocnej ugody sądowej zawartej w związku z zaistnieniem okoliczności przewidzianych w art. 417 Kodeksu cywilnego;
-- **3)** nabycia przez Skarb Państwa nieruchomości na cele uzasadniające jej wywłaszczenie lub wywłaszczenia nieruchomości na podstawie przepisów o gospodarce nieruchomościami;
-- **4)** odszkodowania za niesłuszne skazanie, tymczasowe aresztowanie lub zatrzymanie, uzyskanego na podstawie ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304 i 1178);
-- **5)** odszkodowania uzyskanego na podstawie przepisów o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego;
-- **6)** odszkodowania orzeczonego w decyzji organu administracji rządowej.
+### 4.
 
-2. Przepis ust. 1 stosuje się również do wzajemnych, bezspornych i wymagalnych wierzytelności zobowiązanego wobec państwowych jednostek budżetowych z tytułu zamówień wykonanych przez niego na podstawie umów zawartych w trybie przepisów o zamówieniach publicznych, pod warunkiem że potrącenie jest dokonywane przez tego zobowiązanego i z tej wierzytelności.
+We wniosku, o którym mowa w ust. 2 pkt 1, minister lub Szef Kancelarii Prezesa Rady Ministrów określą:
 
-3. Potrącenia z tytułów wymienionych w ust. 1 i 2 można również dokonać z urzędu.
+### 1)
 
-4. Potrącenie następuje z dniem:
+organ administracji rządowej wykonujący funkcje organu założycielskiego;
 
-- **1)** złożenia wniosku, który został uwzględniony;
-- **2)** wydania z urzędu postanowienia o potrąceniu.
+### 2)
 
-5. Odmowa potrącenia następuje w drodze decyzji.
+przedmiot działalności podstawowej;
 
-6. Potrącenie następuje w drodze postanowienia, na które służy zażalenie.
+### 3)
 
-7. Jednostka budżetowa, której zobowiązanie zostało potrącone z wierzytelności zobowiązanego, jest zobowiązana wpłacić równowartość wygasłego zobowiązania do właściwego organu w terminie 7 dni od dnia dokonania potrącenia. Od niewpłaconej w terminie równowartości wygasłego zobowiązania nalicza się odsetki ustawowe za opóźnienie.
+źródła przychodów;
 
-**Art. 63.**
+### 4)
 
-1. Uprawnienie, o którym mowa w art. 62 ust. 1, przysługuje również zobowiązanemu w stosunku do gminy, powiatu lub województwa, z tytułu:
+przeznaczenie zysku.
 
-- **1)** nabycia przez gminę, powiat lub województwo nieruchomości na cele uzasadniające jej wywłaszczenie lub wywłaszczenia nieruchomości na podstawie odrębnych ustaw;
-- **2)** odszkodowania orzeczonego w decyzji wydanej przez wójta, burmistrza, prezydenta miasta, starostę lub marszałka województwa.
+### 5.
 
-2. Przepisy art. 62 ust. 2–7 stosuje się odpowiednio.
+Instytucja gospodarki budżetowej uzyskuje osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
 
-**Art. 64.**
+### Art. 24.
 
-1. Należności, o których mowa w art. 60, właściwy organ może:
+### 1.
 
-- **1)** z urzędu umarzać w całości – w przypadku gdy zachodzi jedna z okoliczności, o których mowa w art. 56 ust. 1 pkt 1–4;
-- **2)** na wniosek zobowiązanego:
-    - **a)** umarzać w całości – w przypadkach uzasadnionych ważnym interesem zobowiązanego lub interesem publicznym,
-    - **b)** umarzać w części, odraczać terminy spłaty całości albo części należności lub rozkładać na raty płatność całości albo części należności – w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi zobowiązanego.
+Instytucja gospodarki budżetowej może otrzymywać dotacje z budżetu państwa na realizację zadań publicznych, jeżeli odrębne ustawy tak stanowią.
 
-2. Właściwy organ, na wniosek zobowiązanego prowadzącego działalność gospodarczą, może udzielać określonych w ust. 1 pkt 2 ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60, które:
+### 2.
 
-- **1)** nie stanowią pomocy publicznej;
-- **2)** stanowią pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie – w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis;
-- **3)** stanowią pomoc publiczną:
-    - **a)** mającą na celu naprawienie szkód spowodowanych klęskami żywiołowymi lub innymi zdarzeniami nadzwyczajnymi,
-    - **b)** mającą na celu zaradzenie poważnym zaburzeniom w gospodarce,
-    - **c)** zgodną z zasadami rynku wewnętrznego Unii Europejskiej, której dopuszczalność została określona przez właściwe organy Unii Europejskiej, udzielaną na przeznaczenia inne niż wymienione w lit. a i b.
+Podstawą gospodarki finansowej instytucji gospodarki budżetowej jest roczny plan finansowy, obejmujący:
 
-3. W przypadku pomocy publicznej określonej w ust. 2 pkt 3 lit. a i b ulgi, o których mowa w ust. 1 pkt 2, mogą być udzielane, jeżeli w przepisach odrębnych zostały określone szczegółowe warunki udzielania tej pomocy zapewniające jej zgodność z zasadami rynku wewnętrznego Unii Europejskiej.
+### 1)
 
-4. W przypadku gdy udzielenie ulgi nastąpiło w sytuacji wystąpienia jednej z okoliczności, o których mowa w art. 56 ust. 1 pkt 1, 2 i 4, decyzję o umorzeniu należności pozostawia się w aktach sprawy ze skutkiem doręczenia.
+przychody z prowadzonej działalności;
 
-5. Rada Ministrów może określić, w drodze rozporządzenia, przeznaczenia pomocy, o których mowa w ust. 2 pkt 3 lit. c, udzielanej w formie ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60, oraz szczegółowe warunki udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
+### 2)
 
-**Art. 65.** Do odpowiedzialności solidarnej za zobowiązania z tytułu należności, o których mowa w art. 60 pkt 1–6, stosuje się przepisy Kodeksu cywilnego.
+dotacje z budżetu państwa;
 
-**Art. 66.** Do egzekucji należności, o których mowa w art. 60, mają zastosowanie przepisy o postępowaniu egzekucyjnym w administracji.
+### 3)
 
-**Art. 66a.**
+zestawienie kosztów:
 
-1. Zobowiązanie do zwrotu środków, o których mowa w art. 60 pkt 6, przedawnia się z upływem 5 lat, licząc od dnia:
+### a)
 
-- **1)** w którym decyzja, o której mowa w art. 189 ust. 3b, albo decyzja, o której mowa w art. 207 ust. 9, stała się ostateczna, albo 1a) wypłaty salda, o którym mowa w art. 100 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej (Dz. Urz. UE L 231 z 30.06.2021, str. 159, z późn. zm. ), zwanego dalej „rozporządzeniem ogólnym”, w odniesieniu do roku obrachunkowego obejmującego okres 1 lipca 2029 r.–30 czerwca 2030 r., albo
-- **2)** wypłaty salda końcowego, o którym mowa w: zm. ) albo UE L 347 z 20.12.2013, str. 320, z późn. zm. ) – w zależności od tego, który z tych terminów nastąpi później.
-    - **a)** art. 89 ust. 1 rozporządzenia Rady (WE) nr 1083/2006 z dnia 11 lipca 2006 r. ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego oraz Funduszu Spójności i uchylającego rozporządzenie (WE) nr 1260/1999 (Dz. Urz. UE L 210 z 31.07.2006, str. 25, z późn.
-    - **b)** art. 86 ust. 1 rozporządzenia Rady (WE) nr 1198/2006 z dnia 27 lipca 2006 r. w sprawie Europejskiego Funduszu Rybackiego (Dz. Urz. UE L 223 z 15.08.2006, str. 1, z późn. zm. ), albo
-    - **c)** art. 141 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz.
+funkcjonowania instytucji gospodarki budżetowej,
 
-2. (uchylony)
+### b)
 
-3. Przepisy ust. 1 stosuje się odpowiednio do środków, o których mowa w art. 5 ust. 3 pkt 2.
+realizacji wyodrębnionych zadań
 
-**Art. 66b.**
+- z wyszczególnieniem wynagrodzeń i składek od nich naliczanych, płatności odsetkowych wynikających z zaciągniętych zobowiązań oraz zakupu towarów i usług;
 
-1. Decyzję o odpowiedzialności osób trzecich za zobowiązania do zwrotu środków, o których mowa w art. 60 pkt 6, wydaje się przed upływem pięciu lat od końca roku kalendarzowego, w którym decyzja, o której mowa w art. 189 ust. 3b, albo decyzja, o której mowa w art. 207 ust. 9, stała się ostateczna.
+### 4)
 
-2. Osoby trzecie odpowiedzialne za zobowiązania do zwrotu środków, o których mowa w art. 60 pkt 6, ustala się według stanu z dnia powstania naruszeń określonych w art. 189 ust. 3 lub w art. 207 ust. 1.
+środki na wydatki majątkowe;
 
-3. Zobowiązanie wynikające z decyzji o odpowiedzialności osób trzecich za zobowiązania do zwrotu środków, o których mowa w art. 60 pkt 6, przedawnia się z upływem 5 lat, licząc od dnia:
+### 5)
 
-- **1)** w którym decyzja ta stała się ostateczna albo
-- **2)** o którym mowa w art. 66a ust. 1 pkt 1a i 2 – w zależności od tego, który z tych terminów nastąpi później.
+wynik finansowy;
 
-**Art. 67.**
+### 6)
 
-1. Do spraw dotyczących należności, o których mowa w art. 60, nieuregulowanych niniejszą ustawą stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769) i odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
+stan należności i zobowiązań na początek i koniec roku;
 
-2. Do spraw dotyczących administracyjnych kar pieniężnych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+### 7)
 
-#### Rozdział 6 Kontrola zarządcza oraz koordynacja kontroli zarządczej w jednostkach sektora finansów publicznych
+stan środków pieniężnych na początek i koniec roku.
 
-**Art. 68.**
+### 3.
 
-1. Kontrolę zarządczą w jednostkach sektora finansów publicznych stanowi ogół działań podejmowanych dla zapewnienia realizacji celów i zadań w sposób zgodny z prawem, efektywny, oszczędny i terminowy.
+Koszty instytucji gospodarki budżetowej mogą być ponoszone tylko w ramach posiadanych środków finansowych obejmujących uzyskane przychody oraz środki z poprzedniego okresu.
 
-2. Celem kontroli zarządczej jest zapewnienie w szczególności:
+### 4.
 
-- **1)** zgodności działalności z przepisami prawa oraz procedurami wewnętrznymi;
-- **2)** skuteczności i efektywności działania;
-- **3)** wiarygodności sprawozdań;
-- **4)** ochrony zasobów;
-- **5)** przestrzegania i promowania zasad etycznego postępowania;
-- **6)** efektywności i skuteczności przepływu informacji;
-- **7)** zarządzania ryzykiem.
+Nowo tworzonej instytucji gospodarki budżetowej może być przyznana jednorazowa dotacja na pierwsze wyposażenie w środki obrotowe.
 
-**Art. 69.**
+### 5.
 
-1. Zapewnienie funkcjonowania adekwatnej, skutecznej i efektywnej kontroli zarządczej należy do obowiązków:
+W planie finansowym instytucji gospodarki budżetowej mogą być dokonywane zmiany przychodów i kosztów w trakcie roku budżetowego po uzyskaniu zgody organu wykonującego funkcje organu założycielskiego, z tym że nie mogą one spowodować zwiększenia dotacji z budżetu państwa i pogorszenia planowanego wyniku finansowego. O dokonanych zmianach należy niezwłocznie powiadomić Ministra Finansów.
 
-- **1)** ministra w kierowanych przez niego działach administracji rządowej, zwanego dalej „ministrem kierującym działem”, z zastrzeżeniem ust. 2;
-- **2)** wójta, burmistrza, prezydenta miasta, przewodniczącego zarządu jednostki samorządu terytorialnego;
-- **3)** kierownika jednostki.
+### Art. 25.
 
-2. Minister Sprawiedliwości zapewnia funkcjonowanie adekwatnej, skutecznej i efektywnej kontroli zarządczej w kierowanym przez niego dziale administracji rządowej, w zakresie spraw niezastrzeżonych odrębnymi przepisami do kompetencji innych organów państwowych i z uwzględnieniem zasady niezawisłości sędziowskiej.
+### 1.
 
-3. Minister Finansów określi w formie komunikatu i ogłosi, w Dzienniku Urzędowym Ministra Finansów, standardy kontroli zarządczej dla sektora finansów publicznych, zgodne z międzynarodowymi standardami.
+Likwidując instytucję gospodarki budżetowej, organ wykonujący funkcje organu założycielskiego określa, w porozumieniu z ministrem właściwym do spraw Skarbu Państwa, przeznaczenie mienia tej instytucji.
 
-4. Minister Finansów może określić w formie komunikatu i ogłosić, w Dzienniku Urzędowym Ministra Finansów, szczegółowe wytyczne w zakresie kontroli zarządczej dla sektora finansów publicznych.
+### 2.
 
-5. Minister kierujący działem może określić w formie komunikatu i ogłosić, w dzienniku urzędowym ministra, szczegółowe wytyczne w zakresie kontroli zarządczej dla kierowanych przez niego działów administracji rządowej.
+Należności i zobowiązania likwidowanej instytucji gospodarki budżetowej przejmuje organ wykonujący funkcje organu założycielskiego.
 
-**Art. 70.**
+### 3.
 
-1. Minister kierujący działem sporządza, do końca listopada każdego roku, plan działalności na rok następny dla kierowanych przez niego działów administracji rządowej.
+Należności i zobowiązania instytucji gospodarki budżetowej likwidowanej w celu przekształcenia w inną formę organizacyjno-prawną przejmuje utworzona jednostka.
 
-2. Plan działalności zawiera w szczególności określenie celów w ramach poszczególnych zadań budżetowych wraz ze wskazaniem podzadań służących osiągnięciu celów oraz mierniki określające stopień realizacji celu i ich planowane wartości.
+### 4.
 
-3. Minister kierujący działem sporządza do końca kwietnia każdego roku sprawozdanie z wykonania planu działalności oraz składa oświadczenie o stanie kontroli zarządczej za poprzedni rok w zakresie kierowanych przez niego działów administracji rządowej.
+Przepis ust. 3 stosuje się odpowiednio do łączenia instytucji gospodarki budżetowej.
 
-4. Minister kierujący działem może zobowiązać kierownika jednostki w dziale do sporządzania planu działalności na rok następny dla tej jednostki oraz sporządzania sprawozdania z wykonania planu działalności i składania oświadczenia o stanie kontroli zarządczej za poprzedni rok w zakresie kierowanej przez niego jednostki.
+### Art. 26.
 
-5. Plan działalności, sprawozdanie z wykonania planu działalności oraz oświadczenie o stanie kontroli zarządczej podlegają publikacji w Biuletynie Informacji Publicznej.
+### 1.
 
-6. Minister Finansów określi, w drodze rozporządzenia, wzór oświadczenia o stanie kontroli zarządczej, biorąc pod uwagę cele kontroli zarządczej oraz zakres odpowiedzialności za jej funkcjonowanie.
+Instytucja gospodarki budżetowej działa na podstawie statutu nadanego przez organ wykonujący funkcje organu założycielskiego.
 
-7. Minister Finansów określi, w drodze rozporządzenia, sposób sporządzania oraz elementy planu działalności i sprawozdania z wykonania planu działalności, mając na uwadze potrzebę zapewnienia przejrzystości informacji zawartych w tych dokumentach.
+### 2.
 
-**Art. 71.** Do zadań Ministra Finansów w zakresie koordynacji kontroli zarządczej w jednostkach sektora finansów publicznych należy w szczególności:
+Statut instytucji gospodarki budżetowej określa w szczególności:
 
-### DZIAŁ II Państwowy dług publiczny
+### 1)
 
-#### Rozdział 1 Przepisy ogólne
+nazwę i siedzibę tej instytucji;
 
-**Art. 72.**
+### 2)
 
-1. Państwowy dług publiczny obejmuje zobowiązania sektora finansów publicznych z następujących tytułów:
+przedmiot działalności podstawowej tej instytucji;
 
-- **1)** wyemitowanych papierów wartościowych opiewających na wierzytelności pieniężne;
-- **2)** zaciągniętych kredytów i pożyczek;
-- **3)** przyjętych depozytów;
-- **4)** wymagalnych zobowiązań:
-    - **a)** wynikających z odrębnych ustaw oraz prawomocnych orzeczeń sądów lub ostatecznych decyzji administracyjnych,
-    - **b)** uznanych za bezsporne przez właściwą jednostkę sektora finansów publicznych będącą dłużnikiem.
+### 3)
 
-1a. Tytuły dłużne, o których mowa w ust. 1 pkt 1–3, obejmują zobowiązania finansowe wynikające ze stosunków prawnych, które nazwą odpowiadają tym tytułom dłużnym, oraz z innych stosunków prawnych, które wywołują skutki ekonomiczne podobne do skutków wynikających z papierów wartościowych opiewających na wierzytelności pieniężne, umów kredytów i pożyczek oraz przyjętych depozytów.
+źródła uzyskiwania przychodów tej instytucji;
 
-2. Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób klasyfikacji tytułów dłużnych zaliczanych do państwowego długu publicznego, w tym rodzaje zobowiązań zaliczanych do tytułów dłużnych, uwzględniając podstawowe kategorie przedmiotowe i podmiotowe zadłużenia oraz okresy zapadalności.
+### 4)
 
-**Art. 73.**
+tryb i zasady dokonywania zmian w statucie tej instytucji;
 
-1. Państwowy dług publiczny oblicza się jako wartość nominalną zobowiązań jednostek sektora finansów publicznych po wyeliminowaniu wzajemnych zobowiązań między jednostkami tego sektora.
+### 5)
 
-2. Przez wartość nominalną zobowiązania rozumie się wartość nominalną:
+stan wyposażenia w środki obrotowe oraz składniki majątkowe przekazane tej instytucji;
 
-- **1)** wyemitowanych papierów wartościowych;
-- **2)** zaciągniętej pożyczki, kredytu lub innego zobowiązania, to jest kwotę świadczenia głównego, należną do zapłaty w dniu wymagalności zobowiązania.
+### 6)
 
-3. Wartość nominalna zobowiązań indeksowanych lub kapitalizowanych odpowiada początkowej wartości nominalnej z uwzględnieniem przyrostu kapitału, wynikającego z indeksacji lub kapitalizacji, naliczonego na koniec okresu sprawozdawczego.
+zasady prowadzenia działalności innej niż podstawowa, jeżeli ta instytucja będzie prowadzić taką działalność.
 
-4. Przepisy ust. 1–3 stosuje się do obliczania kwot niewymagalnych zobowiązań z tytułu poręczeń i gwarancji niezaliczanych do państwowego długu publicznego, a także odpowiednio do obliczania długu Skarbu Państwa oraz kwot niewymagalnych zobowiązań z tytułu poręczeń i gwarancji niezaliczanych do długu Skarbu Państwa.
+### 3.
 
-5. Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób ustalania:
+Organizację wewnętrzną instytucji gospodarki budżetowej określa regulamin organizacyjny nadawany przez dyrektora instytucji gospodarki budżetowej.
 
-- **1)** wartości zobowiązań zaliczanych do:
-    - **a)** państwowego długu publicznego,
-    - **b)** długu Skarbu Państwa,
+### Art. 27.
 
-- **2)** wartości zobowiązań z tytułu poręczeń i gwarancji – uwzględniając klasyfikację tytułów dłużnych zaliczanych do państwowego długu publicznego oraz konieczność prawidłowego obliczenia relacji państwowego długu publicznego do produktu krajowego brutto.
+### 1.
 
-**Art. 74.**
+Dyrektora instytucji gospodarki budżetowej powołuje i odwołuje organ wykonujący funkcje organu założycielskiego.
 
-1. Minister Finansów sprawuje kontrolę nad sektorem finansów publicznych w zakresie przestrzegania zasady stanowiącej, że państwowy dług publiczny nie może przekroczyć 60 % wartości rocznego produktu krajowego brutto.
+### 2.
 
-2. Minister Finansów sprawuje kontrolę nad stanem długu Skarbu Państwa w celu zapewnienia przestrzegania zasady, o której mowa w ust. 1.
+Do zadań dyrektora instytucji gospodarki budżetowej należy:
 
-3. Minister Finansów sprawuje kontrolę, o której mowa w ust. 1 i 2, w szczególności przez sprawdzanie realizacji obowiązków wynikających z art. 86.
+### 1)
 
-4. Minister Finansów, w związku ze sprawowaną kontrolą, o której mowa w ust. 1 i 2, ma prawo żądania od jednostek sektora finansów publicznych dodatkowych informacji o bieżącym i prognozowanym zadłużeniu tych jednostek oraz o strukturze zadłużenia.
+zarządzanie instytucją gospodarki budżetowej;
 
-5. W przypadku stwierdzenia nieprawidłowej realizacji obowiązków wynikających z art. 86 Minister Finansów informuje o nieprawidłowościach organy nadzoru nad działalnością jednostek sektora finansów publicznych.
+### 2)
 
-**Art. 75.**
+reprezentowanie instytucji gospodarki budżetowej na zewnątrz;
 
-1. Minister Finansów opracowuje czteroletnią strategię zarządzania długiem Skarbu Państwa oraz oddziaływania na państwowy dług publiczny, uwzględniając w szczególności:
+### 3)
 
-- **1)** uwarunkowania zarządzania długiem związane ze stabilnością makroekonomiczną gospodarki;
-- **2)** analizę poziomu państwowego długu publicznego;
-- **3)** prognozy poziomu państwowego długu publicznego i długu Skarbu Państwa;
-- **4)** prognozy kosztów obsługi długu Skarbu Państwa;
-- **5)** kształtowanie struktury zadłużenia;
-- **6)** prognozy i analizę niewymagalnych zobowiązań z tytułu poręczeń i gwarancji Skarbu Państwa.
+przygotowanie i nadanie regulaminu organizacyjnego instytucji gospodarki budżetowej;
 
-2. Dokument, o którym mowa w ust. 1, Minister Finansów przedstawia Radzie Ministrów do zatwierdzenia.
+### 4)
 
-3. Rada Ministrów po zatwierdzeniu dokumentu, o którym mowa w ust. 1, przedstawia go Sejmowi wraz z uzasadnieniem projektu ustawy budżetowej.
+przygotowanie projektu rocznego planu finansowego;
 
-#### Rozdział 2 Finansowanie potrzeb pożyczkowych budżetu państwa
+### 5)
 
-**Art. 76.** Przez potrzeby pożyczkowe budżetu państwa rozumie się zapotrzebowanie na środki finansowe niezbędne do sfinansowania:
+przygotowanie rocznego sprawozdania instytucji gospodarki budżetowej, w tym bilansu, rachunku zysków i strat.
 
-**Art. 77.** Minister Finansów w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa jest upoważniony do:
+### 3.
 
-**Art. 77a.**
+Projekt rocznego planu finansowego jest przekazywany organowi wykonującemu funkcje organu założycielskiego, w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-1. Środki finansowe uzyskane przez Skarb Państwa na zagranicznym rynku finansowym z tytułu instrumentu bezpośrednio finansującego wydatki budżetu państwa na zakup towarów lub usług od przedsiębiorcy zagranicznego w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619 i 621), w szczególności kredytów i pożyczek, stanowią przychód budżetu państwa. Do środków tych nie stosuje się przepisów art. 196 ust. 1 pkt 1 i 2 oraz art. 197.
+### Art. 28.
 
-2. W przypadku, o którym mowa w ust. 1, przychód i wydatek budżetu państwa powstają z dniem spełnienia przez podmiot finansujący świadczenia z tytułu instrumentu finansującego, o którym mowa w ust. 1, przy czym kwota wydatku budżetu państwa jest równa kwocie przychodu budżetu państwa.
+### 1.
 
-3. Kwota wydatku budżetu państwa na zakup towarów lub usług, o których mowa w ust. 1, jest ujmowana w części budżetowej, w ramach której jest dokonywany ten zakup.
+Instytucja gospodarki budżetowej samodzielnie gospodaruje mieniem, kierując się zasadą efektywności jego wykorzystania.
 
-**Art. 78.**
+### 2.
 
-1. Minister Finansów realizuje zadania wynikające z zarządzania długiem Skarbu Państwa w szczególności przez:
+Na mienie instytucji gospodarki budżetowej mogą składać się:
 
-- **1)** dokonywanie czynności prawnych i faktycznych związanych z:
-    - **a)** pozyskiwaniem zwrotnych środków finansujących potrzeby pożyczkowe budżetu państwa,
-    - **b)** obsługą zobowiązań Skarbu Państwa z tytułu wyemitowanych papierów wartościowych oraz zaciągniętych kredytów i pożyczek;
+### 1)
 
-- **2)** zarządzanie wolnymi środkami budżetu państwa, a także zarządzanie pasywami finansowymi oraz aktywami finansowymi Skarbu Państwa, w tym środkami publicznymi wyodrębnionymi w związku z zarządzaniem długiem Skarbu Państwa.
+przeniesione na własność nieruchomości;
 
-2. Zarządzanie wolnymi środkami, o których mowa w ust. 1 pkt 2, obejmuje w szczególności ich lokowanie na rynku finansowym.
+### 2)
 
-3. Zarządzanie pasywami finansowymi oraz aktywami finansowymi, o których mowa w ust. 1 pkt 2, obejmuje w szczególności wykonywanie operacji i działań na rynkach finansowych, które wpływają na zmianę struktury zadłużenia Skarbu Państwa, w celu:
+mienie stanowiące wyposażenie przekazane przez organ wykonujący funkcje organu założycielskiego w formie użyczenia;
 
-- **1)** zwiększenia bezpieczeństwa finansowego potrzeb pożyczkowych budżetu państwa;
-- **2)** obniżenia ryzyka lub kosztów obsługi długu Skarbu Państwa;
-- **3)** realizacji innych zadań związanych z zarządzaniem długiem Skarbu Państwa, określonych w dokumencie, o którym mowa w art. 75 ust. 1.
+### 3)
 
-**Art. 78a.** Minister Finansów, działając w imieniu Skarbu Państwa, w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa jest upoważniony do przyjmowania wolnych środków w depozyt.
+mienie nabyte z własnych środków.
 
-**Art. 78b.**
+### 3.
 
-1. W przypadku, o którym mowa w art. 48 ust. 1 pkt 4, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie.
+Instytucja gospodarki budżetowej w celu zaciągnięcia zobowiązania przewyższającego 30% rocznych przychodów jest obowiązana uzyskać zgodę organu wykonującego funkcje organu założycielskiego.
 
-2. Minister Finansów może przyjmować wolne środki podmiotów niebędących jednostkami sektora finansów publicznych, a zaliczanych do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ) w depozyt na warunkach określonych w umowie.
+### 4.
 
-3. Przyjęcie wolnych środków w depozyt na okres do 3 dni od podmiotów, o których mowa w ust. 1 i 2, może nastąpić wyłącznie w przypadku, gdy obsługę bankową prowadzi Bank Gospodarstwa Krajowego.
+Instytucja gospodarki budżetowej może zbywać środki trwałe. Zbycie (najem, dzierżawa, użyczenie) aktywów może nastąpić wyłącznie na zasadach określonych przez organ wykonujący funkcje organu założycielskiego, z uwzględnieniem przepisów o gospodarce nieruchomościami.
 
-**Art. 78c.** W przypadku, o którym mowa w art. 48 ust. 2, wolne środki są przyjmowane w depozyt przez Ministra Finansów na czas oznaczony i podlegają zwrotowi zgodnie z dyspozycją danej jednostki sektora finansów publicznych.
+### 5.
 
-**Art. 78d.**
+Wartość majątku instytucji gospodarki budżetowej odzwierciedla fundusz instytucji gospodarki budżetowej.
 
-1. Minister Finansów, w ramach zarządzania długiem Skarbu Państwa, w tym aktywami finansowymi, o których mowa w art. 78 ust. 1 pkt 2, oraz w celu sfinansowania potrzeb pożyczkowych budżetu państwa jest upoważniony do przyjmowania w zarządzanie wolnych środków państwowych funduszy celowych, o których mowa w art. 9 pkt 7.
+### 6.
 
-2. Dysponenci państwowych funduszy celowych, o których mowa w art. 9 pkt 7, przekazują wolne środki Ministrowi Finansów w zarządzanie, z wyjątkiem środków pochodzących z dotacji z budżetu. Przepisy art. 48 ust. 3 i 4 oraz art. 78c stosuje się odpowiednio.
+Fundusz instytucji gospodarki budżetowej zwiększa się lub zmniejsza o kwotę zmian wartości majątku będących skutkiem:
 
-**Art. 78e.**
+### 1)
 
-1. Wolne środki przyjęte w depozyt lub zarządzanie:
+aktualizacji wyceny środków trwałych na podstawie odrębnych przepisów;
 
-- **1)** na okres do 3 dni są oprocentowane w wysokości nie niższej niż stopa depozytowa Narodowego Banku Polskiego;
-- **2)** na okres dłuższy niż 3 dni i nie dłuższy niż 6 dni są oprocentowane według stawki wynikającej z równania prostej wyznaczonej przez stopę depozytową Narodowego Banku Polskiego dla depozytu na okres 3 dni oraz przez stopę równą iloczynowi mnożnika, który nie może być niższy niż 0,9, i stopy procentowej za depozyty na warszawskim rynku międzybankowym, notowanej przez agencję informacyjną (WIBID), dla 1 tygodnia;
-- **3)** na okres od 7 dni są oprocentowane w wysokości iloczynu stawki WIBID właściwej dla danego okresu lokowania i mnożnika, o którym mowa w pkt 2.
+### 2)
 
-2. Wysokość mnożnika, o którym mowa w ust. 1 pkt 2, ustala Minister Finansów i ogłasza ją w formie komunikatu na stronach internetowych urzędu obsługującego Ministra Finansów.
+nieodpłatnego przekazania lub otrzymania środków trwałych, wartości niematerialnych i prawnych;
 
-3. W przypadku rozwiązania depozytu lub zwrotu środków przekazanych w zarządzanie przed upływem terminu, na jaki został utworzony depozyt lub środki zostały przekazane w zarządzanie, odsetki nie przysługują.
+### 3)
 
-**Art. 78f.** Minister Finansów może, w drodze umowy, zlecić za wynagrodzeniem Bankowi Gospodarstwa Krajowego dokonywanie wszelkich czynności prawnych i faktycznych związanych z przyjmowaniem wolnych środków w depozyt lub zarządzanie oraz ich zwrotem.
+łączenia i podziału instytucji gospodarki budżetowej na podstawie bilansów zamknięcia dzielonych lub łączonych jednostek.
 
-**Art. 78g.**
+### 7.
 
-1. Minister Finansów w odniesieniu do przypadków, o których mowa w art. 48 ust. 2 i art. 78d, określi, w drodze rozporządzenia:
+Fundusz instytucji gospodarki budżetowej zwiększa się o:
 
-- **1)** szczegółowe warunki przekazywania i przyjmowania wolnych środków w depozyt lub zarządzanie przez Ministra Finansów, w szczególności terminy przekazywania środków i terminy ich zwrotu;
-- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt lub zarządzanie;
-- **3)** szczegółowe warunki rozwiązywania depozytów lub zwrotu środków przekazanych w zarządzanie przed terminem, na jaki został utworzony depozyt lub środki zostały przekazane w zarządzanie;
-- **4)** sposób składania i wzory dyspozycji przekazania środków w depozyt lub zarządzanie Ministrowi Finansów i ich zwrotu oraz dyspozycji rozwiązania depozytu lub zwrotu środków przekazanych w zarządzanie przed terminem, na jaki został utworzony depozyt lub środki zostały przekazane w zarządzanie.
+### 1)
 
-2. Minister Finansów, wydając rozporządzenie, o którym mowa w ust. 1, kieruje się potrzebą zapewnienia bezpieczeństwa środków publicznych i terminowej realizacji zadań finansowanych z tych środków przez jednostki sektora finansów publicznych oraz zwiększenia efektywności zarządzania środkami publicznymi i dbałością o finanse publiczne, a w zakresie wysokości oprocentowania również terminami, na jakie środki są przekazywane w depozyt lub zarządzanie, natomiast w zakresie składania dyspozycji także potrzebą ujednolicenia składanych dokumentów oraz możliwościami wykorzystania systemów teleinformatycznych.
+zysk pozostający w dyspozycji instytucji gospodarki budżetowej;
 
-**Art. 78h.** W celu realizacji zadań związanych z zarządzaniem długiem Skarbu Państwa skarbowe papiery wartościowe, o których mowa w art. 79 ust. 2 oraz art. 102 ust. 3, mogą być przedmiotem pożyczki lub innych operacji finansowych dokonywanych przez Ministra Finansów.
+### 2)
 
-**Art. 79.**
+środki z innych źródeł.
 
-1. Z chwilą wykupu skarbowe papiery wartościowe podlegają umorzeniu.
+### Art. 29.
 
-2. Nie podlegają umorzeniu skarbowe papiery wartościowe nabywane przez Skarb Państwa w celu zarządzania długiem Skarbu Państwa.
+### 1.
 
-**Art. 80.**
+Państwowy fundusz celowy jest tworzony na podstawie odrębnej ustawy.
 
-1. Skarb Państwa może zaciągać pożyczki i kredyty wyłącznie na finansowanie potrzeb pożyczkowych budżetu państwa, z zastrzeżeniem art. 81.
+### 2.
 
-2. W imieniu Skarbu Państwa pożyczki i kredyty może zaciągać, z zastrzeżeniem ust. 3, wyłącznie Minister Finansów.
+Przychody państwowego funduszu celowego pochodzą ze środków publicznych, a koszty są ponoszone na realizację wyodrębnionych zadań państwowych.
 
-3. W przypadku zaciągania pożyczki lub kredytu w drodze umowy, w tym umowy międzynarodowej, zgodnie z którą wymagane jest, aby organem działającym w imieniu pożyczkobiorcy (kredytobiorcy) była Rada Ministrów, upoważnia ona Ministra Finansów do podpisania umowy i określa warunki jej wykonywania.
+### 3.
 
-**Art. 81.**
+Państwowy fundusz celowy nie posiada osobowości prawnej.
 
-1. Na wniosek Rady Polityki Pieniężnej Skarb Państwa może zaciągać średnioterminowe pożyczki i kredyty od Wspólnoty Europejskiej i jej państw członkowskich w celu wsparcia bilansu płatniczego.
+### 4.
 
-2. Na wniosek Rady Unii Europejskiej Skarb Państwa może uczestniczyć w udzieleniu pożyczki na wsparcie bilansu płatniczego innego państwa członkowskiego, na zasadach określanych w ustawie budżetowej.
+Państwowy fundusz celowy stanowi wyodrębniony rachunek bankowy, którym dysponuje minister wskazany w ustawie tworzącej fundusz albo inny organ wskazany w tej ustawie.
 
-**Art. 82.** Kwota zaciągniętych pożyczek i kredytów, o których mowa w art. 80 ust. 1 i art. 81 ust. 1, nie może przekroczyć limitów określonych w ustawie budżetowej.
+### 5.
 
-**Art. 83.**
+Do państwowych funduszy celowych nie zalicza się funduszy, których jedynym źródłem przychodów, z wyłączeniem odsetek od rachunku bankowego i darowizn, jest dotacja z budżetu państwa.
 
-1. Minister Finansów może dokonywać lokat w złotych i walutach obcych oraz przeprowadzać inne operacje finansowe w Narodowym Banku Polskim lub innym banku.
+### 6.
 
-2. W przypadku zawierania transakcji na instrumentach pochodnych, dla których zawarto umowę zabezpieczającą, Minister Finansów może otworzyć w Narodowym Banku Polskim lub innym banku odrębny rachunek bankowy dla wnoszonego zabezpieczenia w pieniądzu. Minister Finansów zwraca zabezpieczenie wniesione w pieniądzu, wraz z odsetkami, w wysokości i w terminach wynikających z umowy zabezpieczającej.
+Podstawą gospodarki finansowej państwowego funduszu celowego jest roczny plan finansowy.
 
-3. Środki znajdujące się na rachunku, o którym mowa w ust. 2, Minister Finansów może lokować w Narodowym Banku Polskim lub innym banku.
+### 7.
 
-**Art. 83a.**
+Ze środków państwowego funduszu celowego mogą być udzielane pożyczki jednostkom samorządu terytorialnego, jeżeli ustawa tworząca fundusz tak stanowi.
 
-1. Minister Finansów otwiera w Banku Gospodarstwa Krajowego rachunki bankowe, na których są przechowywane środki pieniężne przyjęte do depozytu sądowego lub składane na tych rachunkach na podstawie odrębnych przepisów oraz sumy depozytowe powszechnych jednostek organizacyjnych prokuratury w rozumieniu ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r. poz. 304 i 1178) (rachunki depozytowe Ministra Finansów).
+### 8.
 
-1a. Rachunki depozytowe Ministra Finansów są prowadzone w złotych, euro, dolarach amerykańskich, funtach brytyjskich lub frankach szwajcarskich.
+Koszty państwowego funduszu celowego mogą być pokrywane tylko w ramach posiadanych środków finansowych obejmujących bieżące przychody, w tym dotacje z budżetu państwa i pozostałości środków z okresów poprzednich.
 
-1b. Środki pieniężne w walucie innej niż te, o których mowa w ust. 1a, ale notowanej w tabeli kursów Banku Gospodarstwa Krajowego lub tabeli kursów pośrednika kasowego Banku Gospodarstwa Krajowego są wpłacane na rachunki depozytowe Ministra Finansów prowadzone w złotych po przeliczeniu według obowiązującego w chwili realizacji wpłaty kursu kupna danej waluty:
+### 9.
 
-- **1)** w Banku Gospodarstwa Krajowego – w przypadku wpłat bezgotówkowych;
-- **2)** u pośrednika kasowego Banku Gospodarstwa Krajowego – w przypadku wpłat w gotówce.
+W planie finansowym państwowego funduszu celowego mogą być dokonywane zmiany polegające na zwiększeniu prognozowanych przychodów i odpowiednio kosztów.
 
-1c. Środki pieniężne w walucie innej niż te, o których mowa w ust. 1a i 1b, są wpłacane bezgotówkowo na rachunki depozytowe Ministra Finansów prowadzone w dolarach amerykańskich po przeliczeniu na dolary amerykańskie według kursu kupna tej waluty obowiązującego w chwili realizacji wpłaty w banku będącym korespondentem Banku Gospodarstwa Krajowego.
+### 10.
 
-1d. W przypadku, o którym mowa w ust. 1b, środki pieniężne z rachunku depozytowego Ministra Finansów są wypłacane w złotych. W przypadku, o którym mowa w ust. 1c, środki pieniężne z rachunku depozytowego Ministra Finansów są wypłacane w dolarach amerykańskich.
+Zmiany planu finansowego państwowego funduszu celowego nie mogą powodować zwiększenia dotacji z budżetu państwa.
 
-2. Minister Finansów jest upoważniony do czasowego zarządzania, w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa, środkami pieniężnymi zgromadzonymi na rachunkach depozytowych Ministra Finansów z obowiązkiem ich zwrotu na każde żądanie wraz z należnymi odsetkami.
+### 11.
 
-3. Środki złożone na rachunkach depozytowych Ministra Finansów są oprocentowane w wysokości:
+Jeżeli państwowy fundusz celowy posiada zobowiązania wymagalne, w tym kredyty i pożyczki, zwiększenie przychodów w pierwszej kolejności przeznacza się na ich spłatę.
 
-- **1)** stopy depozytowej Narodowego Banku Polskiego – w przypadku środków zgromadzonych w złotych;
-- **2)** oprocentowania wkładów wypłacanych w danej walucie na każde żądanie przez Bank Gospodarstwa Krajowego – w przypadku środków zgromadzonych w walutach obcych.
+### 12.
 
-4. Bank Gospodarstwa Krajowego, prowadząc rachunki depozytowe Ministra Finansów, zapewnia w szczególności:
+Zmiany kwot przychodów i kosztów państwowego funduszu celowego ujętych w planie finansowym dokonuje odpowiednio minister lub organ dysponujący tym funduszem po uzyskaniu zgody Ministra Finansów i opinii sejmowej komisji do spraw budżetu.
 
-- **1)** ewidencję analityczną środków dla poszczególnych depozytów (mikrorachunki) w ramach każdego rachunku depozytowego Ministra Finansów;
-- **2)** dzienne naliczanie odsetek oraz okresową kapitalizację odsetek należnych z tytułu środków zgromadzonych na każdym mikrorachunku;
-- **3)** możliwość wymiany informacji z centralnym systemem informatycznym zapewniającym obsługę gospodarki finansowej sądów w zakresie stanu każdego mikrorachunku (kapitału i odsetek), wpłat na każdy mikrorachunek i wypłat z każdego mikrorachunku.
+### Art. 30.
 
-**Art. 84.** Do zaciągania pożyczek i kredytów przez Skarb Państwa, emisji skarbowych papierów wartościowych oraz innych operacji związanych bezpośrednio z zarządzaniem państwowym długiem publicznym nie stosuje się przepisów <art. 34a, art. 34b,> art. 35, art. 42 ust. 2 i art. 49, przepisów o zamówieniach publicznych oraz przepisów o grach hazardowych.
+### 1.
 
-**Art. 85.** Narodowy Bank Polski udostępnia Ministrowi Finansów dane, w tym dane indywidualne oraz zestawienia i oceny, o których mowa w art. 23 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025), niezbędne w celu realizacji zadań, o których mowa w art. 77 i art. 78.
+Państwowe i samorządowe osoby prawne są tworzone na podstawie odrębnych ustaw.
 
-#### Rozdział 3 Procedury ostrożnościowe i sanacyjne
+### 2.
 
-**Art. 86.**
+Podstawą gospodarki finansowej państwowych i samorządowych osób prawnych jest plan finansowy.
 
-1. W przypadku, gdy wartość relacji kwoty państwowego długu publicznego do produktu krajowego brutto, o której mowa w art. 38 pkt 1 lit. a, ogłoszonej zgodnie z art. 38:
+### 3.
 
-- **1)** (uchylony)
-- **2)** jest większa od 55 %, a mniejsza od 60 %, to: poz. 913), w wysokości do 30 % środków zaplanowanych na realizację tego zadania na dany rok,
-    - **a)** na kolejny rok Rada Ministrów uchwala projekt ustawy budżetowej, w którym: – nie przewiduje się deficytu budżetu państwa lub przyjmuje się poziom różnicy dochodów i wydatków budżetu państwa, zapewniający, że relacja długu Skarbu Państwa do produktu krajowego brutto przewidywana na koniec roku budżetowego, którego dotyczy projekt ustawy, będzie niższa od relacji, o której mowa w art. 38 pkt 1 lit. b, ogłoszonej zgodnie z art. 38, – nie przewiduje się wzrostu wynagrodzeń pracowników państwowej sfery budżetowej, w tym pracowników jednostek, o których mowa w art. 139 ust. 2, – waloryzacja rent i emerytur nie może przekroczyć poziomu odpowiadającego wzrostowi cen towarów i usług konsumpcyjnych, ogłoszonego przez Główny Urząd Statystyczny za poprzedni rok budżetowy, – wprowadza się zakaz udzielania pożyczek i kredytów z budżetu państwa z wyjątkiem rat kredytów i pożyczek udzielonych w latach poprzednich, – nie przewiduje się wzrostu wydatków w jednostkach, o których mowa w art. 139 ust. 2, na poziomie wyższym niż w administracji rządowej,
-    - **b)** Rada Ministrów dokonuje przeglądu wydatków budżetu państwa finansowanych środkami pochodzącymi z kredytów zagranicznych oraz przeglądu programów wieloletnich,
-    - **c)** Rada Ministrów przedstawia Sejmowi program sanacyjny mający na celu obniżenie relacji, o której mowa w art. 38 pkt 1 lit. a,
-    - **d)** wydatki budżetu jednostki samorządu terytorialnego określone w uchwale budżetowej na kolejny rok mogą być wyższe niż dochody tego budżetu powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki, jedynie o kwotę związaną z realizacją zadań ze środków, o których mowa w art. 5 ust. 3,
-    - **e)** Rada Ministrów dokonuje przeglądu obowiązujących przepisów w celu przedstawienia propozycji rozwiązań prawnych mających wpływ na poziom dochodów budżetu państwa, w tym dotyczących stosowania stawek podatku od towarów i usług,
-    - **f)** Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych otrzymuje dotację celową z budżetu państwa na realizację zadania, o którym mowa w art. 26a ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r.
-    - **g)** organy administracji rządowej mogą zaciągać nowe zobowiązania na przygotowanie inwestycji, jeżeli mają zapewnione finansowanie z udziałem środków publicznych, o których mowa w art. 5 ust. 1 pkt 2 i 3, na maksymalnym dopuszczalnym poziomie, określonym w przepisach lub procedurach dotyczących danego rodzaju inwestycji, nie mniejszym niż 50 % całości kosztów, z tym że ograniczenia te nie dotyczą: – odbudowy lub przebudowy dróg krajowych w celu usunięcia zagrożenia naruszenia bezpieczeństwa w ruchu drogowym, – inwestycji, o których mowa w art. 37 ust. 1 ustawy z dnia 24 czerwca 2010 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi z 2010 r. (Dz. U. poz. 835 i 993 oraz z 2025 r. poz. 680), – przygotowania, wdrożenia, budowy lub eksploatacji systemów elektronicznego poboru opłat, o których mowa w art. 13i ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz.
+Plany finansowe państwowych i samorządowych osób prawnych są sporządzane zgodnie z ustawami o ich utworzeniu, z uwzględnieniem przepisów niniejszej ustawy.
 
-- **889)** , – zobowiązania z tytułu odszkodowań za nieruchomości przejęte w trybie ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2024 r. poz. 311);
-- **3)** jest równa lub większa od 60 %, to:
-    - **a)** stosuje się odpowiednio postanowienia pkt 2 lit. a, b oraz e–g,
-    - **b)** Rada Ministrów, najpóźniej w terminie miesiąca od dnia ogłoszenia relacji, o której mowa w art. 38 pkt 1 lit. a, przedstawia Sejmowi program sanacyjny mający na celu ograniczenie tej relacji do poziomu poniżej 60 %,
-    - **c)** wydatki budżetu jednostki samorządu terytorialnego określone w uchwale budżetowej na kolejny rok nie mogą być wyższe niż dochody tego budżetu,
-    - **d)** poczynając od siódmego dnia po dniu ogłoszenia relacji, o której mowa w art. 38 pkt 1 lit. a, jednostki sektora finansów publicznych nie mogą udzielać nowych poręczeń i gwarancji.
+### 4.
 
-2. W przypadku określonym w ust. 1 pkt 2 i 3 Rada Ministrów, w drodze uchwały, może wyrazić zgodę na realizację inwestycji przewidzianych do finansowania ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, które nie spełniają wymagań określonych w ust. 1 pkt 2 lit. g.
+Projekty planów finansowych państwowych osób prawnych, o których mowa w art. 9 pkt 14, są przekazywane Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
 
-3. W przypadku określonym w ust. 1 pkt 2 procedur, o których mowa w tym przepisie, nie stosuje się, jeżeli relacja, o której mowa w art. 38a pkt 4, nie przekracza 55 %.
+### Art. 31.
 
-**Art. 86a.** Przepisu art. 86 ust. 1 pkt 1 nie stosuje się w roku 2013.
+Jednostki, o których mowa w art. 30 ust. 1, wyodrębniają w planach finansowych:
 
-**Art. 87.** Program sanacyjny obejmuje:
+### 1)
 
-**Art. 88.** Przepisów art. 86 i art. 87 nie stosuje się w przypadku wprowadzenia:
+przychody z prowadzonej działalności;
 
-#### Rozdział 4 Ogólne zasady zaciągania zobowiązań przez inne niż Skarb Państwa jednostki sektora finansów publicznych
+### 2)
 
-**Art. 89.**
+dotacje z budżetu państwa lub budżetów jednostek samorządu terytorialnego;
 
-1. Jednostki samorządu terytorialnego mogą zaciągać kredyty i pożyczki oraz emitować papiery wartościowe na:
+### 3)
 
-- **1)** pokrycie występującego w ciągu roku przejściowego deficytu budżetu jednostki samorządu terytorialnego;
-- **2)** finansowanie planowanego deficytu budżetu jednostki samorządu terytorialnego;
-- **3)** spłatę wcześniej zaciągniętych zobowiązań z tytułu emisji papierów wartościowych oraz zaciągniętych pożyczek i kredytów;
-- **4)** wyprzedzające finansowanie działań finansowanych ze środków pochodzących z budżetu Unii Europejskiej.
+koszty, w tym:
 
-2. Zaciągnięte kredyty i pożyczki oraz wyemitowane papiery wartościowe, z przeznaczeniem na cel, o którym mowa w ust. 1 pkt 1, podlegają spłacie lub wykupowi w tym samym roku, w którym zostały zaciągnięte lub wyemitowane.
+### a)
 
-**Art. 90.** Na finansowanie wydatków na inwestycje i zakupy inwestycyjne, w tym ujęte w ramach przedsięwzięć, o których mowa w art. 226 ust. 3, jednostki samorządu terytorialnego mogą zaciągać pożyczki w państwowych funduszach celowych oraz w państwowych i samorządowych osobach prawnych zaliczanych do sektora finansów publicznych, o ile ustawa tworząca fundusz lub osobę prawną tak stanowi.
+wynagrodzenia i składki od nich naliczane,
 
-**Art. 91.**
+### b)
 
-1. Suma zaciągniętych kredytów i pożyczek, innych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, oraz zobowiązań z wyemitowanych papierów wartościowych nie może przekroczyć kwot określonych w uchwale budżetowej jednostki samorządu terytorialnego.
+płatności odsetkowe wynikające z zaciągniętych zobowiązań,
 
-2. Zaciągnięcie lub wyemitowanie przez jednostkę samorządu terytorialnego zobowiązania z tytułu:
+### c)
 
-- **1)** kredytu lub pożyczki na cel, o którym mowa w art. 89 ust. 1 pkt 2–4 i art. 90,
-- **2)** innego niż wymienione w pkt 1, zaliczanego do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2,
-- **3)** emisji papierów wartościowych na cel, o którym mowa w art. 89 ust. 1 pkt 2– 4 i art. 90 – wymaga uzyskania przez zarząd jednostki samorządu terytorialnego opinii regionalnej izby obrachunkowej o możliwości spłaty zobowiązania.
+zakup towarów i usług;
 
-3. Przepisu ust. 2 pkt 2 nie stosuje się do:
+### 4)
 
-- **1)** zobowiązania krótkoterminowego, jeżeli podlega ono spłacie lub wykupowi w tym samym roku, w którym zostało zaciągnięte lub wyemitowane;
-- **2)** zobowiązania o wartości nieprzekraczającej 0,5 % planowanych dochodów bieżących, o ile suma zaciągniętych zobowiązań z tego tytułu w roku budżetowym nie przekroczyła 1 % planowanych dochodów bieżących.
+środki na wydatki majątkowe;
 
-**Art. 91a.**
+### 5)
 
-1. W celu sfinansowania środków niezbędnych na pokrycie deficytu lub rozchodów budżetu jednostki samorządu terytorialnego, jednostka samorządu terytorialnego może przyjmować w depozyt wolne środki od samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest jednostka samorządu terytorialnego, samorządowych instytucji kultury oraz samorządowych osób prawnych, o których mowa w art. 9 pkt 14, z wyłączeniem wojewódzkich funduszy ochrony środowiska i gospodarki wodnej.
+środki przyznane innym podmiotom;
 
-2. Przyjmowanie wolnych środków w depozyt następuje na podstawie uchwały organu stanowiącego jednostki samorządu terytorialnego wyrażającej zgodę na przyjmowanie w depozyt wolnych środków, podjętej na wniosek zarządu, oraz umowy. Uchwała może ponadto określać:
+### 6)
 
-- **1)** warunki przyjmowania wolnych środków w depozyt przez jednostkę samorządu terytorialnego;
-- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt przez jednostkę samorządu terytorialnego.
+stan należności i zobowiązań na początek i koniec roku;
 
-**Art. 92.**
+### 7)
 
-1. Jednostki samorządu terytorialnego mogą zaciągać jedynie takie zobowiązania, o których mowa w art. 91 ust. 2, których koszty obsługi, jeżeli występują, są ponoszone co najmniej raz do roku, przy czym:
+stan środków pieniężnych na początek i koniec roku.
 
-- **1)** dyskonto od emitowanych przez jednostki samorządu terytorialnego papierów wartościowych nie może przekraczać 5 % wartości nominalnej;
-- **2)** kapitalizacja odsetek jest niedopuszczalna.
+### Art. 32.
 
-2. Ograniczenie, o którym mowa w ust. 1, stosuje się odpowiednio do jednostek sektora finansów publicznych innych niż Skarb Państwa.
+Agencje wykonawcze, instytucje gospodarki budżetowej, dysponenci państwowych funduszy celowych oraz państwowe osoby prawne, o których mowa w art. 9 pkt 14, sporządzają plany finansowe w układzie zadaniowym na rok budżetowy i dwa kolejne lata.
 
-**Art. 93.**
+### Rozdział 4 Jawność i przejrzystość finansów publicznych
 
-1. Jednostki sektora finansów publicznych, z wyjątkiem Skarbu Państwa, nie mogą zaciągać pożyczek lub kredytów, emitować papierów wartościowych oraz udzielać poręczeń i gwarancji, których wartość nominalna należna do zapłaty w dniu wymagalności, wyrażona w złotych, nie została ustalona w dniu zawierania transakcji.
+### Art. 33.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, przypadki, w których nie stosuje się ograniczeń, o których mowa w ust. 1, uwzględniając w szczególności specyfikę kredytów i pożyczek z instytucji międzynarodowych lub od pożyczkodawców rządowych, jak również biorąc pod uwagę możliwość wywiązywania się z zaciągniętych zobowiązań oraz ograniczenie wzrostu poziomu państwowego długu publicznego.
+### 1.
 
-**Art. 94.**
+Gospodarka środkami publicznymi jest jawna.
 
-1. Jednostki samorządu terytorialnego mogą udzielać poręczeń i gwarancji, z uwzględnieniem przepisów niniejszej ustawy. Łączna kwota poręczeń i gwarancji określana jest w uchwale budżetowej.
+### 2.
 
-2. Poręczenia i gwarancje, o których mowa w ust. 1, są terminowe i udzielane do określonej kwoty.
+Przepisu ust. 1 nie stosuje się do środków publicznych, których pochodzenie lub przeznaczenie zostało uznane za informację niejawną na podstawie odrębnych przepisów lub jeżeli wynika to z umów międzynarodowych.
 
-#### Rozdział 5 Zasady i tryb emisji skarbowych papierów wartościowych
+### Art. 34.
 
-**Art. 95.**
+### 1.
 
-1. Skarbowy papier wartościowy jest papierem wartościowym, w którym Skarb Państwa stwierdza, że jest dłużnikiem właściciela takiego papieru, i zobowiązuje się wobec niego do spełnienia określonego świadczenia, które może mieć charakter pieniężny lub niepieniężny.
+Zasada jawności gospodarowania środkami publicznymi jest realizowana przez:
 
-2. Skarbowe papiery wartościowe mogą być emitowane lub wystawiane w granicach limitów określonych w ustawie budżetowej.
+### 1)
 
-3. Skarbowe papiery wartościowe opiewające na świadczenia pieniężne mogą być emitowane lub wystawiane wyłącznie przez Ministra Finansów.
+jawność debaty budżetowej w Sejmie i Senacie oraz debat budżetowych w organach stanowiących jednostek samorządu terytorialnego;
 
-4. Skarbowe papiery wartościowe opiewające na świadczenia niepieniężne emituje Minister Finansów.
+### 2)
 
-5. Skarbowe papiery wartościowe opiewające na świadczenia pieniężne uprawniające do określonych świadczeń niepieniężnych w zamian za te skarbowe papiery wartościowe emituje Minister Finansów.
+jawność debaty nad sprawozdaniem z wykonania budżetu państwa w Sejmie i debat nad sprawozdaniami z wykonania budżetów jednostek samorządu terytorialnego;
 
-6. Skarb Państwa odpowiada całym majątkiem za zobowiązania wynikające z wyemitowanych lub wystawionych skarbowych papierów wartościowych.
+### 3)
 
-**Art. 96.** Skarbowe papiery wartościowe mogą być emitowane lub wystawiane jako papiery wartościowe o pierwotnym terminie wykupu:
+podawanie do publicznej wiadomości:
 
-**Art. 97.**
+### a)
 
-1. Minister Finansów określi, w drodze rozporządzenia, warunki emitowania danego rodzaju skarbowych papierów wartościowych, a w szczególności:
+kwot dotacji udzielanych z budżetu państwa i budżetów jednostek samorządu terytorialnego,
 
-- **1)** jednostkową wartość nominalną,
-- **2)** walutę, w której może następować emisja, lub sposób określenia waluty emisji,
-- **3)** zasady i tryb sprzedaży, w tym termin lub sposób ustalenia ceny sprzedaży emitowanych papierów wartościowych na rynku pierwotnym,
-- **4)** podmioty, którym skarbowe papiery wartościowe danej emisji są oferowane do nabycia na rynku pierwotnym,
-- **5)** ograniczenia co do obrotu skarbowymi papierami wartościowymi na rynku pierwotnym i wtórnym,
-- **6)** sposób realizacji świadczeń z tytułu skarbowych papierów wartościowych – kierując się koniecznością optymalnego zaspokajania potrzeb pożyczkowych budżetu państwa oraz efektywnego zarządzania długiem Skarbu Państwa.
+### b)
 
-2. Minister Finansów określi, w drodze rozporządzenia, warunki emitowania skarbowych papierów wartościowych, o których mowa w art. 95 ust. 5, a w szczególności:
+kwot dotacji udzielanych przez państwowe fundusze celowe,
 
-- **1)** walutę, w której może następować emisja,
-- **2)** zasady i tryb sprzedaży skarbowych papierów wartościowych,
-- **3)** rodzaj świadczeń niepieniężnych wydawanych w zamian za skarbowe papiery wartościowe,
-- **4)** podmioty, którym skarbowe papiery wartościowe danej emisji mogą być oferowane do nabycia na rynku pierwotnym,
-- **5)** ograniczenia co do obrotu skarbowymi papierami wartościowymi na rynku pierwotnym i wtórnym – kierując się koniecznością zapewnienia efektywnego zarządzania długiem oraz aktywami Skarbu Państwa.
+### c)
 
-**Art. 98.**
+zbiorczych danych dotyczących finansów publicznych,
 
-1. Minister Finansów określi, przez wydanie listu emisyjnego, szczegółowe warunki emisji skarbowych papierów wartościowych dotyczące treści świadczeń wynikających ze skarbowego papieru wartościowego i sposób ich realizacji.
+### d)
 
-2. Minister Finansów określi, przez wydanie listu emisyjnego, szczegółowe warunki emisji skarbowych papierów wartościowych, o których mowa w art. 95 ust. 5, dotyczące treści świadczeń wynikających z tego papieru i sposób ich realizacji. Przepisy ust. 4 i 5 stosuje się odpowiednio.
+informacji o wykonaniu budżetu państwa za okresy miesięczne;
 
-3. Minister Finansów może upoważnić inny podmiot do wydania listu emisyjnego dotyczącego skarbowych papierów wartościowych przeznaczonych na rynki finansowe.
+### 4)
 
-4. List emisyjny zawiera w szczególności:
+jawność debaty nad projektem uchwały w sprawie wieloletniej prognozy finansowej jednostki samorządu terytorialnego;
 
-- **1)** datę emisji;
-- **2)** powołanie podstawy prawnej emisji;
-- **3)** cenę zbycia lub sposób jej ustalenia;
-- **4)** stopę procentową lub sposób jej obliczania;
-- **5)** określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
-- **6)** datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
-- **7)** termin wykupu oraz zastrzeżenia dotyczące możliwości wcześniejszego wykupu.
+### 5)
 
-5. Minister Finansów podaje do publicznej wiadomości szczegółowe warunki danej emisji. Podanie do publicznej wiadomości listu emisyjnego jest warunkiem dojścia emisji do skutku.
+podawanie do publicznej wiadomości przez jednostki sektora finansów publicznych informacji dotyczących:
 
-**Art. 99.** Bon skarbowy jest krótkoterminowym papierem wartościowym oferowanym do sprzedaży w kraju na rynku pierwotnym z dyskontem i wykupywanym według wartości nominalnej po upływie okresu, na jaki został wyemitowany.
+### a)
 
-**Art. 100.**
+zakresu zadań lub usług wykonywanych lub świadczonych przez jednostkę oraz wysokości środków publicznych przekazanych na ich realizację,
 
-1. Obligacja skarbowa jest papierem wartościowym oferowanym do sprzedaży w kraju lub za granicą, oprocentowanym w postaci dyskonta lub odsetek.
+### b)
 
-2. Obligacja skarbowa sprzedawana jest na rynku pierwotnym:
+zasad i warunków świadczenia usług dla podmiotów uprawnionych,
 
-- **1)** z dyskontem,
-- **2)** według wartości nominalnej,
-- **3)** powyżej wartości nominalnej – i wykupywana po upływie okresu, na jaki została wyemitowana.
+### c)
 
-**Art. 101.**
+zasad odpłatności za świadczone usługi;
 
-1. Skarbowy papier oszczędnościowy jest skarbowym papierem wartościowym oferowanym do sprzedaży:
+### 6)
 
-- **1)** osobom fizycznym;
-- **2)** stowarzyszeniom, innym organizacjom społecznym i zawodowym oraz fundacjom wpisanym do rejestru sądowego, a w przypadku nierezydentów – również wpisanym do innego rejestru urzędowego, o ile warunki emitowania tak stanowią.
+zapewnianie radnym danej jednostki samorządu terytorialnego dostępu do:
 
-2. Skarbowy papier oszczędnościowy może być wyłączony z obrotu na rynku wtórnym albo może być przedmiotem obrotu tylko między podmiotami, o których mowa w ust. 1, o ile warunki emitowania tak stanowią.
+### a)
 
-**Art. 102.**
+dowodów księgowych i dokumentów inwentaryzacyjnych - z zachowaniem przepisów o rachunkowości oraz o ochronie danych osobowych,
 
-1. Skarbowe papiery wartościowe są zbywane na rynku pierwotnym odpłatnie.
+### b)
 
-2. Emisja następuje z dniem rozliczenia zaoferowanych do nabycia skarbowych papierów wartościowych oraz w kwocie równej wartości nominalnej zbytych papierów wartościowych.
+informacji o wynikach przeprowadzonych kontroli gospodarki finansowej,
 
-3. W celach związanych z zarządzaniem długiem Skarbu Państwa Minister Finansów może wyemitować skarbowe papiery wartościowe w kwocie wyższej od wartości nominalnej zbytych papierów wartościowych.
+### c)
 
-4. Skarbowe papiery wartościowe, o których mowa w ust. 3 oraz w art. 79 ust. 2, są zarejestrowane na rachunku Ministra Finansów.
+sprawozdania z wykonania planu audytu za rok poprzedni;
 
-### DZIAŁ III Ustawa budżetowa
+### 7)
 
-#### Rozdział 1 (uchylony)
+udostępnianie przez Narodowy Fundusz Zdrowia informacji o przychodach i kosztach oraz o świadczeniodawcach realizujących świadczenia opieki zdrowotnej, z którymi Fundusz zawarł umowy, o zakresie przedmiotowym umów oraz o sposobie ustalania ceny za zamówione świadczenia;
 
-#### Rozdział 2 Ustawa budżetowa
+### 8)
 
-**Art. 109.**
+udostępnianie przez jednostki sektora finansów publicznych wykazu podmiotów spoza sektora finansów publicznych, którym ze środków publicznych została udzielona dotacja, dofinansowanie realizacji zadania lub pożyczka, lub którym została umorzona należność wobec jednostki sektora finansów publicznych;
 
-1. Ustawa budżetowa jest podstawą gospodarki finansowej państwa w danym roku budżetowym.
+### 9)
 
-2. Ustawa budżetowa składa się z:
+udostępnianie corocznych sprawozdań dotyczących finansów i działalności jednostek organizacyjnych należących do sektora finansów publicznych;
 
-- **1)** budżetu państwa;
-- **2)** załączników;
-- **3)** postanowień, których obowiązek zamieszczenia w ustawie budżetowej wynika z niniejszej ustawy lub z odrębnych ustaw.
+### 10)
 
-3. Ustawa budżetowa jest uchwalana na okres roku budżetowego.
+podejmowanie, w głosowaniu jawnym i imiennym, uchwał organu wykonawczego jednostki samorządu terytorialnego dotyczących gospodarowania środkami publicznymi;
 
-4. Rokiem budżetowym jest rok kalendarzowy.
+### 11)
 
-5. Ustawa budżetowa nie może zawierać przepisów zmieniających inne ustawy.
+podawanie do publicznej wiadomości treści planów działalności, sprawozdań z wykonania planów działalności oraz oświadczeń o stanie kontroli zarządczej, o których mowa w art. 70.
 
-**Art. 110.**
+### 2.
 
-1. Budżet państwa określa:
+Minister Finansów podaje do publicznej wiadomości sprawozdanie z wykonania ustawy budżetowej przyjęte przez Radę Ministrów.
 
-- **1)** łączną kwotę prognozowanych podatkowych i niepodatkowych dochodów budżetu państwa;
-- **2)** łączną kwotę planowanych wydatków budżetu państwa;
-- **2a)** kwotę planowanych wydatków, obliczoną zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3, oraz kwotę planowanego limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **3)** kwotę planowanego deficytu budżetu państwa wraz ze źródłami jego pokrycia;
-- **4)** łączną kwotę prognozowanych dochodów budżetu środków europejskich;
-- **5)** łączną kwotę planowanych wydatków budżetu środków europejskich;
-- **6)** wynik budżetu środków europejskich;
-- **7)** łączną kwotę planowanych przychodów budżetu państwa;
-- **8)** łączną kwotę planowanych rozchodów budżetu państwa;
-- **9)** planowane saldo przychodów i rozchodów budżetu państwa;
-- **10)** limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych.
+### Art. 35.
 
-2. W roku s, o którym mowa w art. 112d ust. 3, budżet państwa nie określa kwot, o których mowa w ust. 1 pkt 2a.
+Klauzule umowne dotyczące wyłączenia jawności ze względu na tajemnicę przedsiębiorstwa w umowach zawieranych przez jednostki sektora finansów publicznych lub inne podmioty, o ile wynikające z umowy zobowiązanie jest realizowane lub przeznaczone do realizacji ze środków publicznych, uważa się za niezastrzeżone, z wyłączeniem informacji technicznych, technologicznych, organizacyjnych przedsiębiorstwa lub innych posiadających wartość gospodarczą, w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, co do których przedsiębiorca podjął niezbędne działania w celu zachowania ich w tajemnicy, lub w przypadku gdy jednostka sektora finansów publicznych wykaże, że informacja stanowi tajemnicę przedsiębiorstwa z uwagi na to, że wymaga tego istotny interes publiczny lub ważny interes państwa.
 
-**Art. 111.** Dochodami podatkowymi i niepodatkowymi budżetu państwa są:
+### Art. 36.
 
-**Art. 112.**
+### 1.
 
-1. Wydatki budżetu państwa są przeznaczone w szczególności na:
+Minister Finansów podaje do publicznej wiadomości zbiorcze dane dotyczące:
 
-- **1)** funkcjonowanie organów władzy publicznej, w tym organów administracji rządowej, organów kontroli i ochrony prawa oraz sądów i trybunałów;
-- **2)** zadania wykonywane przez administrację rządową;
-- **3)** subwencje ogólne dla jednostek samorządu terytorialnego;
-- **3a)** subwencje dla podmiotów systemu szkolnictwa wyższego i nauki;
-- **4)** dotacje dla jednostek samorządu terytorialnego;
-- **5)** wpłaty do budżetu Unii Europejskiej obejmujące zasoby własne Unii Europejskiej oraz wpłacane odsetki i kary za nieterminowe lub nieprawidłowo naliczone płatności z tytułu zasobów własnych Unii Europejskiej;
-- **6)** subwencje dla partii politycznych;
-- **7)** dotacje na zadania określone odrębnymi ustawami;
-- **8)** obsługę długu publicznego;
-- **9)** wkład krajowy na realizację programów finansowanych z udziałem środków europejskich lub środków, o których mowa w art. 5 ust. 3 pkt 3, 5 i 6;
-- **10)** wpłaty do międzynarodowych instytucji finansowych lub organizacji międzynarodowych, których Rzeczpospolita Polska jest członkiem, oraz funduszy powierniczych tworzonych przez te instytucje lub organizacje.
+### 1)
 
-2. Z budżetu państwa są finansowane zadania określone w odrębnych ustawach i umowach międzynarodowych.
+ogółu operacji finansowych sektora finansów publicznych, obejmujące w szczególności dochody i wydatki, przychody i rozchody, zobowiązania i należności, gwarancje i poręczenia;
 
-**Art. 112a.** (uchylony)
+### 2)
 
-**Art. 112a¹.** (uchylony) Art. 112aa. 1. Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru: WYD = WYD ⋅E (DEF )⋅WPKB +K +E (∆DD ) przy czym: WYD = WYD DEF ∙ E (DEF E ∙ ) (DEF ) E (DEF ) ∙ √ E ( E ∙ ) ( ) E ( ) WPKB PKB = √ PKB ∙E PKB ( PKB )∙E PKB ( PKB ) w którym poszczególne symbole oznaczają: n – rok, na który jest obliczana kwota wydatków, n−1 – rok poprzedzający rok n, n−2 – rok poprzedzający rok n o dwa lata, n−3 – rok poprzedzający rok n o trzy lata, n−8 – rok poprzedzający rok n o osiem lat, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, DEF – ogłoszony przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2a deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu, K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i , o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n− 2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n− 1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025. 2. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się:
+wykonania budżetu państwa za okresy miesięczne, w tym kwotę deficytu lub nadwyżki.
 
-**Art. 112b.** (uchylony)
+### 2.
 
-**Art. 112c.** (uchylony)
+Minister Finansów podaje do publicznej wiadomości w terminie, o którym mowa w art. 38, informacje obejmujące wykaz udzielonych przez Skarb Państwa poręczeń i gwarancji, wskazując osoby prawne i fizyczne oraz jednostki organizacyjne nieposiadające osobowości prawnej, których te poręczenia i gwarancje dotyczą.
 
-**Art. 112d.**
+### 3.
 
-1. Przepisów art. 112aa nie stosuje się w przypadku:
+Dyrektor izby skarbowej ogłasza w wojewódzkim dzienniku urzędowym wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym umorzono zaległości podatkowe, odsetki za zwłokę lub opłaty prolongacyjne w kwocie przewyższającej 5 000 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia.
 
-- **1)** wprowadzenia stanu wojennego;
-- **2)** wprowadzenia stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej;
-- **3)** wprowadzenia stanu klęski żywiołowej na całym terytorium Rzeczypospolitej Polskiej;
-- **4)** ogłoszenia stanu epidemii na całym obszarze Rzeczypospolitej Polskiej;
-- **5)** wystąpienia znacznego spowolnienia gospodarczego.
+### 4.
 
-1a. Przez znaczne spowolnienie gospodarcze, o którym mowa w ust. 1 pkt 5, rozumie się sytuację, kiedy prognozowana w uzasadnieniu:
+Podanie do publicznej wiadomości wykazu, o którym mowa w ust. 3, nie narusza przepisów o tajemnicy skarbowej.
 
-- **1)** projektu ustawy budżetowej na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonego Sejmowi lub
-- **2)** projektu ustawy zmieniającej ustawę budżetową na rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, przedłożonego Sejmowi – roczna dynamika wartości produktu krajowego brutto w cenach stałych jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, na który w projekcie ustawy budżetowej określono kwotę wydatków obliczoną zgodnie z art. 112aa ust. 1, przedłożonego Sejmowi.
+### 5.
 
-1b. Przepisu ust. 1 nie stosuje się w przypadku, gdy opinia, o której mowa w art. 112da ust. 1, jest negatywna.
+Organy wydające decyzje o umorzeniu niepodatkowych należności budżetu państwa, o których mowa w art. 60, podają informację kwartalną o udzielonych umorzeniach do publicznej wiadomości w ogólnie dostępnym miejscu do końca miesiąca następującego po zakończeniu kwartału.
 
-2. W przypadkach, o których mowa w ust. 1, Minister Finansów oblicza kwotę wydatków, o której mowa w art. 112aa ust. 1.
+### 6.
 
-3. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, kwota wydatków, o której mowa w art. 112aa ust. 1, jest obliczana według wzoru: WYD = WYD k−i + (S k +S′ ) w którym poszczególne symbole oznaczają: WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1, WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, n – rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, s – rok zastosowania przepisu ust. 1, i – kolejne lata po roku, w którym zastosowano przepis ust. 1, przy czym i = {1, 2, 3}, k – rok, w którym kwota wydatków będzie obliczona zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku, w którym zastosowano przepis ust. 1, przy czym k = {2, 3, 4}, S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, S′ – korekta sumy skutków finansowych po stronie dochodów i wydatków poniesionych w roku s wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, wynikająca ze sprawozdania z wykonania ustawy budżetowej na rok s albo 0 w pozostałych przypadkach.
+Minister Finansów określi, w drodze rozporządzenia, sposób ustalania umorzonych kwot oraz termin ogłaszania wykazu, o którym mowa w ust. 3, a także organy obowiązane do przekazywania dyrektorowi izby skarbowej danych umożliwiających sporządzenie tego wykazu i termin ich przekazywania, uwzględniając rodzaje podmiotów, których informacje dotyczą.
 
-4. Rokiem, w którym kwota wydatków będzie obliczana zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku zastosowania przepisu ust. 1, jest rok:
+### Art. 37.
 
-- **1)** drugi – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zastosowano przepisu ust. 1, przedłożonego Sejmowi, albo
-- **2)** trzeci – jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz roku następującym po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zastosowano przepisu ust. 1, przedłożonego Sejmowi, oraz jeżeli średnia dynamika wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz dwóch latach następujących po roku s, o którym mowa w ust. 3, prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok n, o którym mowa w ust. 3, przedłożonego Sejmowi, nie jest mniejsza o więcej niż dwa punkty procentowe od wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonego w uzasadnieniu projektu ustawy budżetowej na ostatni rok, w którym nie zastosowano przepisu ust. 1, przedłożonego Sejmowi, albo
-- **3)** czwarty – w pozostałych przypadkach.
+### 1.
 
-5. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, limit wydatków, o którym mowa w art. 112aa ust. 3, oblicza się z uwzględnieniem kwoty wydatków, o której mowa w ust. 3.
+Zarząd jednostki samorządu terytorialnego podaje do publicznej wiadomości w terminie:
 
-6. Obliczając kwotę wydatków, o której mowa w ust. 3 oraz art. 112aa ust. 1, roczną dynamikę wartości produktu krajowego brutto w cenach stałych w roku s, o którym mowa w ust. 3, oraz latach i, o których mowa w ust. 3, zastępuje się wskaźnikiem średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych WPKB , o którym mowa w art. 112aa ust. 1, określonym w uzasadnieniu projektu ustawy budżetowej na ostatni rok przed rokiem zastosowania przepisu ust. 1, przedłożonego Sejmowi, z dokładnością do setnych części procentu.
+### 1)
 
-7. Obliczając kwotę wydatków, o której mowa w art. 112aa ust. 1, na rok, w którym zastosowano przepis ust. 1, i lata następujące po tym roku, do roku poprzedzającego rok, o którym mowa w ust. 4, nie stosuje się korekty kwoty wydatków K , o której mowa w art. 112aa ust. 1.
+do końca miesiąca następującego po zakończeniu kwartału - kwartalną informację o wykonaniu budżetu jednostki samorządu terytorialnego, w tym kwotę deficytu albo nadwyżki, oraz o udzielonych umorzeniach niepodatkowych należności budżetowych, o których mowa w art. 60;
 
-8. (uchylony) Art. 112da. 1. Jeżeli w roku n, o którym mowa w art. 112aa ust. 1, zaistnieje jeden z przypadków, o których mowa w art. 112d ust. 1, Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej zasadności zastosowania do projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, przepisu art. 112d ust. 1. Przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.
+### 2)
 
-2. W przypadku gdy opinia, o której mowa w ust. 1, jest negatywna, Minister Finansów przedstawia Radzie Ministrów projekt ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, w którym kwotę wydatków, o której mowa w art. 112aa ust. 1, oblicza odpowiednio zgodnie z art. 112aa ust. 1. Przepisy art. 112d ust. 3‒7 stosuje się odpowiednio. Art. 112db. 1. W przypadkach, o których mowa w art. 112d ust. 1, Minister Finansów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania tego przepisu na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju, proponując następujące parametry ze wzoru, o którym mowa w art. 112d ust. 3:
+o którym mowa w art. 38 - informację obejmującą:
 
-- **1)** rok, na który w projekcie ustawy budżetowej przedłożonym Sejmowi kwotę wydatków oblicza się zgodnie z art. 112aa ust. 1;
-- **2)** wartość (𝐒 +S ) na każdy rok, na który kwota wydatków obliczana byłaby zgodnie z art. 112d ust. 3.
+### a)
 
-2. W przypadku, o którym mowa w ust. 1, przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio.
+dane dotyczące wykonania budżetu jednostki samorządu terytorialnego w poprzednim roku budżetowym, w tym kwotę deficytu albo nadwyżki,
 
-3. W opinii, o której mowa w ust. 1, Rada Fiskalna przedstawia stanowisko, w którym określa parametry, o których mowa w ust. 1.
+### b)
 
-4. Minister Finansów może w projekcie ustawy budżetowej, o którym mowa w art. 139 ust. 1, uwzględnić stanowisko Rady Fiskalnej, o którym mowa w ust. 3, i obliczyć kwotę wydatków, o której mowa w art. 112d ust. 3, przyjmując, że:
+kwotę wykorzystanych środków, o których mowa w art. 5 ust. 1 pkt 2,
 
-- **1)** symbol k,
-- **2)** składnik (S +S ) – we wzorze określonym w art. 112d ust. 3 przyjmują wartości określone w stanowisku Rady Fiskalnej.
+### c)
 
-5. Nieprzedstawienie przez Radę Fiskalną opinii, o której mowa w ust. 1, w terminie uznaje się za przedstawienie opinii pozytywnej, przy czym w projekcie ustawy budżetowej przyjmuje się parametry, o których mowa w ust. 1, zaproponowane przez Ministra Finansów.
+kwotę zobowiązań, o których mowa w art. 72 ust. 1 pkt 4,
 
-6. W przypadku gdy projekt ustawy budżetowej, o którym mowa w art. 139 ust. 1:
+### d)
 
-- **1)** uwzględnia opinię Rady Fiskalnej, o której mowa w ust. 1, przepis art. 112d stosuje się odpowiednio;
-- **2)** nie uwzględnia opinii Rady Fiskalnej, o której mowa w ust. 1, w załącznikach do projektu ustawy budżetowej zamieszcza się tę opinię wraz ze stanowiskiem Ministra Finansów.
+kwoty dotacji otrzymanych z budżetów jednostek samorządu terytorialnego oraz kwoty dotacji udzielonych innym jednostkom samorządu terytorialnego,
 
-7. W roku, na który kwota wydatków została obliczona zgodnie z art. 112d ust. 3, Rada Ministrów może wystąpić do Rady Fiskalnej z wnioskiem o wydanie opinii dotyczącej wpływu zastosowania przepisu art. 112d ust. 3 do projektu ustawy budżetowej na rok n, o którym mowa w art. 112aa ust. 1, na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną kraju. Przepisy ust. 1 i 3–6 oraz przepisy art. 4 ust. 4 i 5 ustawy o Radzie Fiskalnej stosuje się odpowiednio. Art. 112dc. 1. Minister Finansów, nie rzadziej niż co 5 lat, dokonuje przeglądu stosowania przepisów art. 112aa–112ac i art. 112d–112db i sporządza informację o ich stosowaniu.
+### e)
 
-2. Informacja, o której mowa w ust. 1, zawiera w szczególności:
+wykaz udzielonych poręczeń i gwarancji, z wymienieniem podmiotów, których gwarancje i poręczenia dotyczą,
 
-- **1)** ocenę, w jakim stopniu przepisy art. 112aa–112ac i art. 112d–112db realizują cele numerycznych reguł fiskalnych wynikające z art. 5 dyrektywy Rady 2011/85/UE z dnia 8 listopada 2011 r. w sprawie wymogów dla ram budżetowych państw członkowskich (Dz. Urz. UE L 306 z 23.11.2011, str. 41, z późn. zm. ), z odniesieniem do oceny Rady Fiskalnej, o której mowa w art. 4 ust. 1 pkt 4 ustawy o Radzie Fiskalnej;
-- **2)** ewentualne rekomendacje w zakresie zmian w przepisach prawa mających na celu zwiększenie efektywności oraz operacyjności rozwiązań zawartych w art. 112aa–112ac i art. 112d–112db.
+### f)
 
-3. Informacja, o której mowa w ust. 1, jest publikowana w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym w zakresie podatków lub opłat udzielono ulg, odroczeń, umorzeń lub rozłożono spłatę na raty w kwocie przewyższającej łącznie 500 zł, wraz ze wskazaniem wysokości umorzonych kwot i przyczyn umorzenia,
 
-**Art. 112e.** Przepisów art. 112a i art. 112b nie stosuje się w roku 2013.
+### g)
 
-**Art. 113.**
+wykaz osób prawnych i fizycznych oraz jednostek organizacyjnych nieposiadających osobowości prawnej, którym udzielono pomocy publicznej.
 
-1. Różnica między dochodami a wydatkami budżetu państwa stanowi odpowiednio nadwyżkę budżetu państwa albo deficyt budżetu państwa, z zastrzeżeniem art. 118 ust. 2.
+### 2.
 
-2. Deficyt budżetu państwa oraz inne pożyczkowe potrzeby budżetu państwa mogą być sfinansowane przychodami pochodzącymi z:
+Podanie do publicznej wiadomości wykazu, o którym mowa w ust. 1 pkt 2 lit. f, nie narusza przepisów o tajemnicy skarbowej.
 
-- **1)** sprzedaży skarbowych papierów wartościowych na rynku krajowym i zagranicznym;
-- **2)** kredytów zaciąganych w bankach krajowych i zagranicznych;
-- **3)** pożyczek;
-- **4)** prywatyzacji majątku Skarbu Państwa;
-- **5)** kwot pochodzących ze spłat udzielonych kredytów i pożyczek;
-- **6)** nadwyżki budżetu państwa z lat ubiegłych;
-- **7)** nadwyżki budżetu środków europejskich, z zastrzeżeniem art. 118 ust. 4;
-- **8)** innych operacji finansowych.
+### Art. 38.
 
-**Art. 114.**
+Minister Finansów ogłasza, w terminie do dnia 31 maja roku następnego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
-1. Budżet państwa składa się z części odpowiadających organom władzy publicznej, kontroli państwowej, sądom, trybunałom i innym organom wymienionym w art. 139 ust. 2, administracji rządowej, przy czym dla poszczególnych działów administracji rządowej oraz dla urzędów nadzorowanych przez Prezesa Rady Ministrów ustala się odpowiednio odrębne części budżetu.
+### 1)
 
-2. W odrębnych częściach budżetu państwa ujmuje się:
+kwotę i relację do produktu krajowego brutto:
 
-- **1)** subwencje ogólne dla jednostek samorządu terytorialnego;
-- **2)** rezerwę ogólną;
-- **3)** rezerwy celowe;
-- **4)** obsługę długu Skarbu Państwa;
-- **5)** zasoby własne Unii Europejskiej;
-- **6)** przychody i rozchody związane z finansowaniem potrzeb pożyczkowych budżetu państwa;
-- **7)** dochody, o których mowa w art. 111 pkt 16.
+### a)
 
-3. W uzasadnionych przypadkach, na wniosek właściwego ministra, w budżecie państwa mogą być tworzone odrębne części dla:
+państwowego długu publicznego,
 
-- **1)** urzędów centralnych nadzorowanych przez ministra;
-- **2)** państwowych jednostek organizacyjnych, które nie są organami władzy lub administracji rządowej;
-- **3)** zadań ogólnych, jeżeli wyodrębnienie części jest uzasadnione koniecznością zapewnienia bieżącej kontroli dochodów lub wydatków.
+### b)
 
-4. Częściami budżetu państwa dysponują dysponenci części budżetowych, jeżeli odrębne ustawy nie stanowią inaczej.
+długu Skarbu Państwa,
 
-5. Dochody i wydatki oraz przychody i rozchody budżetu państwa klasyfikuje się według zasad określonych w art. 39 oraz według części budżetowych, o których mowa w ust. 1–4.
+### c)
 
-6. Minister Finansów ustala, w drodze rozporządzenia, klasyfikację części budżetowych oraz dysponentów części budżetowych dla części budżetowych, o których mowa w ust. 1–3, mając na celu zapewnienie przejrzystości gospodarowania środkami budżetu państwa.
+niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa,
 
-**Art. 115.**
+### 2)
 
-1. Z budżetu państwa, w zakresie ustalonym w ustawie budżetowej, mogą być udzielane:
+kwotę niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez jednostki sektora finansów publicznych
 
-- **1)** pożyczki i kredyty wynikające z umów międzynarodowych;
-- **2)** pożyczki wynikające z ustaw innych niż ustawa budżetowa.
+- według stanu na koniec roku budżetowego.
 
-2. Pożyczki i kredyty udzielane z budżetu państwa są oprocentowane, o ile odrębne ustawy nie stanowią inaczej. Wysokość oprocentowania określa umowa.
+### Art. 39.
 
-**Art. 116.**
+### 1.
 
-1. Podatkowe i niepodatkowe dochody budżetu państwa ujmuje się w załączniku do ustawy budżetowej według:
+Dochody publiczne, wydatki publiczne i przychody, o których mowa w art. 5 ust. 1 pkt 5, oraz środki, o których mowa w art. 5 ust. 1 pkt 2 i 3, klasyfikuje się, z zastrzeżeniem ust. 2, według:
 
-- **1)** źródeł dochodów;
-- **2)** części i działów klasyfikacji budżetowej.
+### 1)
 
-2. Wydatki budżetu państwa ujmuje się w załączniku do ustawy budżetowej w podziale na części, działy i rozdziały klasyfikacji budżetowej wydatków oraz grupy wydatków, z wyodrębnieniem wydatków przeznaczonych na:
+działów i rozdziałów - określających rodzaj działalności;
 
-- **1)** realizację projektów pomocy technicznej programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5;
-- **2)** współfinansowanie realizacji programów finansowanych z udziałem środków europejskich i wpłat do wspólnych budżetów pomocy technicznej programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5;
-- **3)** realizację programów, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d.
+### 2)
 
-3. W załączniku, o którym mowa w ust. 2, dodatkowo ujmuje się wydatki budżetu państwa w podziale na poszczególnych dysponentów części budżetowych, razem, oraz w podziale na poszczególne części budżetowe, którymi ci dysponenci dysponują. Wydatki jednostek, o których mowa w art. 139 ust. 2, ujmuje się razem oraz w podziale na poszczególne części budżetowe.
+paragrafów - określających rodzaj dochodu, przychodu lub wydatku oraz środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
 
-**Art. 117.**
+### 2.
 
-1. Budżet środków europejskich jest rocznym planem dochodów i podlegających refundacji wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, z wyłączeniem środków przeznaczonych na realizację projektów pomocy technicznej oraz środków, o których mowa w art. 4 ust. 2 rozporządzenia nr 1306/2013 oraz w art. 5 ust. 3 rozporządzenia 2021/2116.
+Wydatki publiczne klasyfikuje się również według dodatkowej klasyfikacji określającej kody wydatków strukturalnych.
 
-2. W budżecie środków europejskich ujmuje się:
+### 3.
 
-- **1)** dochody z tytułu realizacji programów finansowanych z udziałem środków europejskich;
-- **2)** wydatki na realizację programów finansowanych z udziałem środków europejskich w części podlegającej refundacji.
+Przychody, o których mowa w art. 5 ust. 1 pkt 4, oraz rozchody, o których mowa w art. 6 ust. 2, klasyfikuje się według paragrafów określających źródło przychodu lub rodzaj rozchodu.
 
-**Art. 118.**
+### 4.
 
-1. Różnica pomiędzy dochodami a wydatkami budżetu środków europejskich stanowi odpowiednio nadwyżkę budżetu środków europejskich albo deficyt budżetu środków europejskich.
+Minister Finansów określi, w drodze rozporządzenia:
 
-2. Deficyt budżetu środków europejskich albo nadwyżka środków europejskich nie są wliczane do, odpowiednio, deficytu albo nadwyżki budżetu państwa.
+### 1)
 
-3. Deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych budżetu państwa.
+szczegółową klasyfikację dochodów, wydatków, przychodów i rozchodów oraz środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, z uwzględnieniem Polskiej Klasyfikacji Działalności;
 
-4. Nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu budżetu środków europejskich.
+### 2)
 
-**Art. 119.**
+szczegółową klasyfikację wydatków strukturalnych, o których mowa w ust. 2, uwzględniając potrzebę identyfikacji wydatków strukturalnych, ponoszonych przez jednostki sektora finansów publicznych.
 
-1. Dochody budżetu środków europejskich ujmuje się w ustawie budżetowej według:
+### 5.
 
-- **1)** części klasyfikacji budżetowej;
-- **2)** programów finansowanych z udziałem środków europejskich.
+Minister Finansów może określić w rozporządzeniu, o którym mowa w ust. 4 pkt 1, klasyfikację wydatków o większej szczegółowości niż określona w ust. 1 dla zadań z zakresu bezpieczeństwa wewnętrznego i zewnętrznego, z uwzględnieniem specyfiki jednostek realizujących zadania z tego zakresu.
 
-2. Wydatki budżetu środków europejskich ujmuje się w ustawie budżetowej w podziale na:
+### Art. 40.
 
-- **1)** części i działy klasyfikacji wydatków;
-- **2)** programy finansowane z udziałem środków europejskich w ramach części i działów klasyfikacji wydatków.
+### 1.
 
-**Art. 120.** W budżecie środków europejskich ujmuje się rezerwy celowe, o których mowa w art. 140 ust. 2 pkt 3, na wydatki związane z realizacją programów finansowanych z udziałem środków europejskich w zakresie, w jakim wydatki te podlegają refundacji.
+Jednostki sektora finansów publicznych prowadzą rachunkowość zgodnie z przepisami o rachunkowości, z uwzględnieniem zasad określonych w niniejszej ustawie.
 
-**Art. 121.**
+### 2.
 
-1. Programy finansowane z udziałem środków europejskich są ujmowane w załączniku do ustawy budżetowej.
+Plany kont dla budżetu państwa, budżetów jednostek samorządu terytorialnego, jednostek budżetowych, samorządowych zakładów budżetowych, państwowych funduszy celowych oraz państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej powinny uwzględniać, że:
 
-2. Dla każdego programu w załączniku, o którym mowa w ust. 1, określa się:
+### 1)
 
-- **1)** instytucję zarządzającą;
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** planowane w roku budżetowym i kolejnych dwóch latach dochody budżetu państwa z tytułu wpływu środków europejskich;
-- **5)** planowane w roku budżetowym i kolejnych dwóch latach wydatki budżetu państwa i budżetu środków europejskich na realizację programu;
-- **6)** plan wydatków budżetu państwa w roku budżetowym na finansowanie programu.
+dochody i wydatki ujmuje się w terminie ich zapłaty, niezależnie od rocznego budżetu, którego dotyczą;
 
-**Art. 122.**
+### 2)
 
-1. W załącznikach do ustawy budżetowej zamieszcza się także:
+ujmuje się również wszystkie etapy rozliczeń poprzedzające płatność dochodów i wydatków, a w zakresie wydatków i kosztów - także zaangażowanie środków;
 
-- **1)** plany finansowe:
-    - **a)** agencji wykonawczych,
-    - **b)** instytucji gospodarki budżetowej,
-    - **c)** państwowych funduszy celowych,
-    - **d)** państwowych osób prawnych, o których mowa w art. 9 pkt 8 i 14;
+### 3)
 
-- **2)** wykaz:
-    - **a)** jednostek otrzymujących dotacje podmiotowe i celowe, z wyłączeniem dotacji celowych na finansowanie i współfinansowanie programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, oraz kwoty dotacji,
-    - **b)** programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, wraz z limitami wydatków budżetu państwa przeznaczonych na finansowanie tych programów,
-    - **c)** wieloletnich limitów zobowiązań w kolejnych latach realizacji programów finansowanych z udziałem środków europejskich wraz z wykazem wieloletnich limitów wydatków realizowanych w ramach tych limitów, a w przypadku wspólnej polityki rolnej – wykaz wydatków w trzech kolejnych latach;
+odsetki od nieterminowych płatności nalicza się i ewidencjonuje nie później niż na koniec każdego kwartału;
 
-- **3)** plan wydatków budżetu państwa w roku budżetowym na:
-    - **a)** realizację projektów pomocy technicznej programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5,
-    - **b)** realizację programów współfinansowanych z udziałem środków europejskich i wpłat do wspólnych budżetów pomocy technicznej programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5,
-    - **c)** realizację programów, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d – w szczegółowości klasyfikacji budżetowej: część, dział, rozdział;
+### 4)
 
-- **4)** zestawienie programów wieloletnich w układzie zadaniowym;
-- **5)** zestawienie zadań z zakresu administracji rządowej i innych zadań zleconych jednostkom samorządu terytorialnego odrębnymi ustawami;
-- **6)** zakres i kwoty dotacji przedmiotowych i podmiotowych;
-- **7)** plan przychodów i rozchodów budżetu państwa.
+wyceny składników aktywów i pasywów wyrażonych w walutach obcych dokonuje się nie później niż na koniec kwartału.
 
-2. Zestawienie, o którym mowa w ust. 1 pkt 4, zawiera:
+### 3.
 
-- **1)** nazwę programu i podstawę prawną jego utworzenia;
-- **2)** jednostkę organizacyjną realizującą program lub koordynującą jego wykonanie;
-- **3)** cel programu;
-- **4)** zadania programu;
-- **5)** okres realizacji programu;
-- **6)** łączne nakłady, w tym z budżetu państwa, na realizację programu;
-- **7)** wysokość wydatków w roku budżetowym oraz w kolejnych latach na realizację programu;
-- **8)** mierniki określające stopień realizacji celu.
+Szczególne zasady rachunkowości dla jednostek, o których mowa w ust. 2, dotyczą:
 
-3. W przypadku gdy z określonych w odrębnych przepisach zasad i trybu udzielania dotacji wynika, że nie jest możliwe ujęcie jednostki w wykazie, o którym mowa w ust. 1 pkt 2 lit. a, wykaz może zawierać grupy jednostek i łączną kwotę dotacji.
+### 1)
 
-4. W przypadku, o którym mowa w ust. 3, dysponent części budżetowej, w której zaplanowane zostały dotacje, podaje do publicznej wiadomości, w drodze obwieszczenia, wykaz jednostek wraz z kwotami dotacji przyznanych poszczególnym jednostkom.
+ewidencji wykonania budżetu;
 
-**Art. 123.** Plany finansowe:
+### 2)
 
-#### Rozdział 3 Przeznaczenie wydatków budżetu państwa
+ewidencji wykonania budżetu w układzie zadaniowym;
 
-**Art. 124.**
+### 3)
 
-1. Wydatki budżetu państwa dzielą się na następujące grupy:
+ewidencji aktywów trwałych stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego;
 
-- **1)** transfery bieżące;
-- **2)** świadczenia na rzecz osób fizycznych;
-- **3)** wydatki bieżące;
-- **4)** wydatki majątkowe;
-- **5)** transfery majątkowe.
+### 4)
 
-2. W ramach grup, o których mowa w ust. 1, wyodrębnia się wydatki na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, nieujęte w budżecie środków europejskich.
+wyceny poszczególnych składników aktywów i pasywów;
 
-3. Transfery bieżące, o których mowa w ust. 1 pkt 1, obejmują:
+### 5)
 
-- **1)** przepływy finansowe niestanowiące zapłaty za dostarczone towary i usługi przekazywane innym podmiotom, w tym subwencje, dotacje oraz inne przepływy finansowe, które wywołują skutki ekonomiczne odpowiadające dotacjom i subwencjom, przeznaczone na finansowanie wydatków bieżących;
-- **2)** zasoby własne Unii Europejskiej.
+sporządzania sprawozdań finansowych oraz odbiorców tych sprawozdań.
 
-4. Świadczenia na rzecz osób fizycznych, o których mowa w ust. 1 pkt 2, obejmują wydatki kierowane bezpośrednio lub pośrednio do osób fizycznych na podstawie odrębnych przepisów, niebędące wynagrodzeniem za świadczoną pracę.
+### 4.
 
-5. Wydatki bieżące, o których mowa w ust. 1 pkt 3, obejmują:
+Minister Finansów określi:
 
-- **1)** daniny publiczne;
-- **2)** uposażenia i wynagrodzenia oraz składki od nich naliczane;
-- **3)** zakupy towarów i usług;
-- **4)** inne wydatki związane z funkcjonowaniem jednostek i realizacją ich statutowych zadań;
-- **5)** wydatki na obsługę długu Skarbu Państwa, w szczególności:
-    - **a)** wydatki z tytułu oprocentowania i dyskonta od skarbowych papierów wartościowych,
-    - **b)** wydatki z tytułu oprocentowania zaciągniętych kredytów i pożyczek,
-    - **c)** wypłaty związane z udzielonymi przez Skarb Państwa poręczeniami i gwarancjami,
-    - **d)** koszty związane z emisją skarbowych papierów wartościowych.
+### 1)
 
-6. Wydatki majątkowe, o których mowa w ust. 1 pkt 4, obejmują:
+w drodze rozporządzeń:
 
-- **1)** nakłady na niefinansowe aktywa trwałe (wydatki inwestycyjne), do których zalicza się wydatki na:
-    - **a)** nabycie lub wytworzenie aktywów trwałych,
-    - **b)** ulepszenie istniejących środków trwałych,
-    - **c)** pierwsze wyposażenie obiektów budowlanych;
+### a)
 
-- **2)** wydatki na zakup i objęcie akcji i udziałów oraz wniesienie wkładów do spółek prawa handlowego.
+szczególne zasady rachunkowości, o których mowa w ust. 3, oraz plany kont, o których mowa w ust. 2,
 
-7. Transfery majątkowe, o których mowa w ust. 1 pkt 5, obejmują przepływy finansowe niestanowiące zapłaty za dostarczone towary i usługi przekazywane innym podmiotom, w tym subwencje, dotacje oraz inne przepływy finansowe, które wywołują skutki ekonomiczne odpowiadające dotacjom i subwencjom, przeznaczone na finansowanie wydatków majątkowych.
+### b)
 
-**Art. 125.** (uchylony)
+zasady rachunkowości oraz plany kont dla organów podatkowych jednostek samorządu terytorialnego,
 
-**Art. 126.** Dotacje są to podlegające szczególnym zasadom rozliczania środki z budżetu państwa, budżetu jednostek samorządu terytorialnego oraz z państwowych funduszy celowych przeznaczone na podstawie niniejszej ustawy, odrębnych ustaw lub umów międzynarodowych, na finansowanie lub dofinansowanie realizacji zadań publicznych.
+### 2)
 
-**Art. 127.**
+w drodze zarządzenia - zasady rachunkowości oraz plany kont dla organów podatkowych podległych Ministrowi Finansów, w zakresie poboru i rozliczenia podatków, opłat, wpłat z zysku przedsiębiorstw państwowych i jednoosobowych spółek Skarbu Państwa oraz innych niepodatkowych należności budżetowych, do których ustalania lub określania są uprawnione organy podatkowe
 
-1. Dotacje celowe są to środki przeznaczone na:
+- uwzględniając potrzebę zapewnienia przejrzystości planów kont oraz charakter działalności prowadzonej przez te jednostki.
 
-- **1)** finansowanie lub dofinansowanie:
-    - **a)** zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami,
-    - **b)** ustawowo określonych zadań, w tym zadań z zakresu mecenatu państwa nad kulturą, realizowanych przez jednostki inne niż jednostki samorządu terytorialnego,
-    - **c)** bieżących zadań własnych jednostek samorządu terytorialnego,
-    - **d)** zadań agencji wykonawczych, o których mowa w art. 21 ust. 1 pkt 3 lit. b,
-    - **e)** zadań zleconych do realizacji organizacjom pozarządowym,
-    - **f)** kosztów realizacji inwestycji;
+### Art. 41.
 
-- **2)** dopłaty do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach.
+### 1.
 
-2. Dotacjami celowymi są także środki przeznaczone na:
+Jednostki sektora finansów publicznych sporządzają sprawozdania z wykonania procesów, o których mowa w art. 3.
 
-- **1)** realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 6, wydatkowane przez podmioty realizujące te programy, inne niż państwowe jednostki budżetowe;
-- **2)** realizację projektów pomocy technicznej finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b;
-- **3)** finansowanie lub dofinansowanie zadań realizowanych przez jednostki samorządu terytorialnego oraz inne podmioty, ze środków przekazywanych przez jednostki, o których mowa w art. 9 pkt 5, 7 i 14;
-- **4)** realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5;
-- **5)** współfinansowanie realizacji programów finansowanych z udziałem środków europejskich;
-- **6)** wyprzedzające finansowanie wspólnej polityki rolnej, o którym mowa w odrębnych przepisach, w części podlegającej refundacji ze środków Unii Europejskiej.
+### 2.
 
-**Art. 128.**
+Minister Finansów, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, określi, w drodze rozporządzenia:
 
-1. Udzielanie dotacji celowych dla jednostek samorządu terytorialnego określają odrębne ustawy.
+### 1)
 
-2. Kwota dotacji na dofinansowanie zadań własnych bieżących i inwestycyjnych nie może stanowić więcej niż 80 % kosztów realizacji zadania, chyba że odrębne ustawy stanowią inaczej.
+rodzaje, formy, terminy i sposoby sporządzania sprawozdań:
 
-**Art. 129.** Kwoty dotacji celowych na zadania z zakresu administracji rządowej oraz inne zadania zlecone odrębnymi ustawami jednostkom samorządu terytorialnego określane są przez dysponentów części budżetowych według zasad przyjętych w budżecie państwa do określenia wydatków podobnego rodzaju, o ile odrębne przepisy nie stanowią inaczej.
+### a)
 
-**Art. 130.**
+z wykonania budżetów jednostek samorządu terytorialnego,
 
-1. Dotacje przedmiotowe są to środki przeznaczone na dopłaty do określonych rodzajów wyrobów lub usług, kalkulowane według stawek jednostkowych.
+### b)
 
-2. Dotacje przedmiotowe mogą być udzielane na podstawie odrębnych ustaw lub przepisów Unii Europejskiej:
+z wykonania planów finansowych jednostek budżetowych,
 
-- **1)** dla przedsiębiorców wytwarzających określone rodzaje wyrobów lub świadczących określone rodzaje usług,
-- **2)** dla podmiotów wykonujących zadania na rzecz rolnictwa – z uwzględnieniem ich równoprawności.
+### c)
 
-3. Ustawa budżetowa ustala kwoty i przedmiot dotacji, o których mowa w ust. 2.
+z dochodów i wydatków na rachunkach, o których mowa w art. 163 i art. 223,
 
-4. Minister Finansów ustala, w drodze rozporządzenia, stawki dotacji przedmiotowych, o których mowa w ust. 2 pkt 1, oraz określa szczegółowy sposób i tryb udzielania i rozliczania tych dotacji, z zastrzeżeniem ust. 6 i 7, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+### d)
 
-5. Minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rozwoju wsi w porozumieniu z Ministrem Finansów ustalają, w drodze rozporządzenia, stawki dotacji, o których mowa w ust. 2 pkt 2, na jednostkę usługi lub produktu oraz szczegółowy sposób i tryb udzielania oraz rozliczania tych dotacji, z uwzględnieniem równoprawności podmiotów, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+z wykonania planów finansowych samorządowych zakładów budżetowych,
 
-6. W przypadku gdy ustawa budżetowa ustali dotacje przedmiotowe do podręczników szkolnych minister właściwy do spraw oświaty i wychowania w porozumieniu z Ministrem Finansów ustala, w drodze rozporządzenia, stawki oraz określa szczegółowy sposób oraz tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+### e)
 
-7. W przypadku gdy ustawa budżetowa ustali dotacje przedmiotowe do posiłków sprzedawanych w barach mlecznych, Minister Finansów ustala, w drodze rozporządzenia, stawki oraz określa szczegółowy sposób oraz tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+z wykonania planów finansowych agencji wykonawczych,
 
-**Art. 131.** Dotacje podmiotowe obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej, wyłącznie na dofinansowanie działalności bieżącej w zakresie określonym w odrębnej ustawie lub umowie międzynarodowej.
+### f)
 
-**Art. 132.**
+z wykonania planów finansowych instytucji gospodarki budżetowej,
 
-1. Z budżetu państwa są finansowane inwestycje państwowych jednostek budżetowych.
+### g)
 
-2. Z budżetu państwa mogą być udzielane dotacje celowe na finansowanie lub dofinansowanie kosztów realizacji inwestycji:
+z wykonania planów finansowych państwowych funduszy celowych,
 
-- **1)** agencji wykonawczych;
-- **2)** instytucji gospodarki budżetowej;
-- **3)** innych państwowych osób prawnych, dla których zasady gospodarki finansowej określają odrębne ustawy;
-- **4)** jednostek niezaliczanych do sektora finansów publicznych, na podstawie odrębnej ustawy;
-- **5)** w zakresie zadań zleconych do realizacji organizacjom pozarządowym;
-- **6)** realizowanych przez jednostki samorządu terytorialnego jako zadania:
-    - **a)** własne,
-    - **b)** z zakresu administracji rządowej;
+### h)
 
-- **7)** związanych z badaniami naukowymi lub pracami rozwojowymi.
+o stanie środków finansowych na rachunkach bankowych jednostek samorządu terytorialnego,
 
-3. Dotacje celowe z budżetu państwa na finansowanie lub dofinansowywanie kosztów realizacji inwestycji:
+### i)
 
-- **1)** przedsiębiorców – są udzielane z uwzględnieniem przepisów o postępowaniu w sprawach dotyczących pomocy publicznej;
-- **2)** związanych z badaniami naukowymi lub pracami rozwojowymi – są udzielane z uwzględnieniem kryteriów i trybu określonych w odrębnych przepisach;
-- **3)** w ramach umów o partnerstwie publiczno-prywatnym – są udzielane z uwzględnieniem przepisów o partnerstwie publiczno-prywatnym.
+z wykonania planów finansowych Zakładu Ubezpieczeń Społecznych,
 
-4. Do realizacji inwestycji finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, stosuje się przepisy odrębne.
+### j)
 
-**Art. 133.** Łączna kwota dotacji przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez jednostkę niezaliczaną do sektora finansów publicznych, o której mowa w art. 132 ust. 2 pkt 4, ze środków niepochodzących z budżetu Unii Europejskiej nie może być wyższa niż 50 % planowanej wartości kosztorysowej inwestycji, chyba że odrębne ustawy stanowią inaczej.
+z poniesionych przez jednostki sektora finansów publicznych wydatków strukturalnych;
 
-**Art. 133a.** Inwestycje finansowane lub dofinansowane z budżetu państwa w łącznej kwocie stanowiącej minimum 50 % wartości kosztorysowej, z wyłączeniem inwestycji współfinansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 1, podlegają obowiązkowi przeprowadzania corocznej oceny stopnia realizacji założonych celów, w ramach kontroli zarządczej w jednostkach sektora finansów publicznych. Art. 133aa. 1. Przed podjęciem decyzji o realizacji inwestycji, której szacunkowy łączny koszt wynosi co najmniej 10 000 tys. zł, finansowanej lub dofinansowanej w łącznej kwocie stanowiącej co najmniej 50 % szacunkowego łącznego kosztu inwestycji:
+### 2)
 
-**Art. 133b.**
+jednostki obowiązane do sporządzania poszczególnych sprawozdań, o których mowa w pkt 1, oraz odbiorców tych sprawozdań;
 
-1. Planowanie inwestycji przez podmiot publiczny, w rozumieniu art. 2 pkt 1 ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637), w tym inwestycji objętych programami rozwoju, o których mowa w art. 15 ust. 4 pkt 2 ustawy o zasadach prowadzenia polityki rozwoju, wymaga wydania niewiążącej opinii ministra właściwego do spraw rozwoju regionalnego w przedmiocie sposobu realizacji inwestycji, jeżeli planowana kwota finansowania z budżetu państwa tych inwestycji przekracza 500 000 tys. zł.
+### 3)
 
-2. Opinia, o której mowa w ust. 1, nie jest wymagana, jeżeli inwestycja:
+rodzaje i zasady sporządzania sprawozdań w zakresie zobowiązań wynikających z umów o partnerstwie publiczno-prywatnym zawieranych na podstawie odrębnych ustaw przez podmioty sektora finansów publicznych.
 
-- **1)** będzie realizowana na podstawie ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym albo
-- **2)** będzie realizowana na podstawie ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2023 r. poz. 140 oraz z 2025 r. poz. 620, 794, 1165 i 1173), albo
-- **3)** będzie współfinansowana ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, albo
-- **4)** dotyczy obronności lub bezpieczeństwa, w tym obejmuje zamówienia publiczne, o których mowa w art. 7 pkt 36 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+### 3.
 
-3. Podmiot publiczny nie może w celu uniknięcia stosowania ust. 1 dzielić inwestycji na kilka inwestycji.
+Minister Finansów może, w drodze rozporządzenia, określić wykaz zadań budżetowych grupujących wydatki według celów, a także szczegółowy sposób i terminy sporządzania przez dysponentów materiałów do informacji, o których mowa w art. 182 ust. 6, uwzględniając właściwość podmiotów i dysponentów realizujących zadania budżetowe oraz zakres przedmiotowy tych zadań.
 
-**Art. 133c.**
+### 4.
 
-1. Opinię, o której mowa w art. 133b ust. 1, wydaje się na wniosek podmiotu publicznego.
+Minister Finansów określi, w drodze rozporządzenia, rodzaje, formy, terminy i sposoby sporządzania przez państwowe jednostki budżetowe, dysponentów państwowych funduszy celowych, agencje wykonawcze, instytucje gospodarki budżetowej oraz państwowe osoby prawne, o których mowa w art. 9 pkt 14, sprawozdań z wykonania planów finansowych w układzie zadaniowym.
 
-2. Podmiot publiczny składa wniosek w dwóch egzemplarzach. Do wniosku załącza się w postaci papierowej lub elektronicznej:
+### 5.
 
-- **1)** opis planowanej inwestycji;
-- **2)** wskazanie sposobu realizacji inwestycji, wraz z uzasadnieniem;
-- **3)** ocenę efektywności realizacji inwestycji w ramach partnerstwa publicznoprywatnego w porównaniu do efektywności jego realizacji w sposób wskazany we wniosku;
-- **4)** opis sposobu i źródeł finansowania inwestycji obejmujący w szczególności przewidywaną wysokość środków z budżetu państwa przeznaczonych w poszczególnych okresach budżetowych na realizację inwestycji;
-- **5)** kopie aktów właściwych organów zatwierdzających realizację inwestycji lub kopie innych podobnych aktów, w szczególności plany inwestycyjne oraz opinie i oceny wydane przez właściwego ministra;
-- **6)** opis głównych rozwiązań technicznych i technologicznych.
+Minister Finansów, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, określi, w drodze rozporządzenia:
 
-3. Minister właściwy do spraw rozwoju regionalnego może, przed wydaniem opinii, o której mowa w art. 133b ust. 1, zwrócić się do Ministra Finansów o wydanie opinii o planowanym przez wnioskodawcę sposobie realizacji inwestycji, w zakresie wpływu planowanych wydatków z budżetu państwa na bezpieczeństwo finansów publicznych.
+### 1)
 
-4. Minister właściwy do spraw rozwoju regionalnego może, wyznaczając odpowiedni termin, zwrócić się do podmiotu publicznego o poprawienie, wyjaśnienie lub uzupełnienie wniosku i załączników do niego.
+rodzaje, formy, terminy i sposoby sporządzania przez jednostki sektora finansów publicznych sprawozdań w zakresie ogółu operacji finansowych, w szczególności w zakresie należności i zobowiązań, w tym państwowego długu publicznego oraz udzielonych poręczeń i gwarancji;
 
-5. Minister właściwy do spraw rozwoju regionalnego zwraca wniosek podmiotowi publicznemu, podając uzasadnienie prawne i faktyczne, jeżeli wniosek lub załączona dokumentacja nie zawierają danych, o których mowa w ust. 2.
+### 2)
 
-**Art. 133d.**
+odbiorców sprawozdań, o których mowa w pkt 1.
 
-1. Minister właściwy do spraw rozwoju regionalnego wydaje opinię, o której mowa w art. 133b ust. 1, podając uzasadnienie prawne i faktyczne, biorąc pod uwagę korzyść dla interesu publicznego, w szczególności zakładaną jakość wykonywania zadań podmiotu publicznego i oszczędne wykorzystanie zasobów oraz możliwość finansowania przedsięwzięcia ze środków budżetu państwa.
+### 6.
 
-2. Minister właściwy do spraw rozwoju regionalnego wydaje opinię w terminie 60 dni od dnia otrzymania kompletnego wniosku.
+Minister Finansów, wydając rozporządzenia, o których mowa w ust. 2, 4 i 5, uwzględni konieczność określenia wzorów formularzy sprawozdań i stopnia szczegółowości danych umożliwiających podanie do publicznej wiadomości informacji, o których mowa w art. 36 ust. 1 oraz w art. 38 pkt 1, a także sporządzenie informacji z wykonania budżetu państwa.
 
-3. Termin, o którym mowa w ust. 2, ulega przedłużeniu o czas nie dłuższy niż 30 dni, jeżeli wystąpi o to Minister Finansów. Minister właściwy do spraw rozwoju regionalnego niezwłocznie zawiadamia podmiot publiczny o przedłużeniu terminu.
+### 7.
 
-4. Minister właściwy do spraw rozwoju regionalnego niezwłocznie po wydaniu opinii przesyła:
+Prezes Głównego Urzędu Statystycznego gromadzi i przetwarza dane oraz sporządza zbiorcze sprawozdania w zakresie sprawozdań określonych w rozporządzeniu wydanym na podstawie ust. 5.
 
-- **1)** opinię wnioskodawcy;
-- **2)** kopię opinii Ministrowi Finansów.
+### Rozdział 5 Zasady gospodarowania środkami publicznymi
 
-5. Podmiot publiczny może złożyć kolejny wniosek o wydanie opinii w zakresie tej samej inwestycji w przypadku zmiany treści załączników wskazanych w art. 133c ust. 2.
+### Art. 42.
 
-**Art. 133e.**
+### 1.
 
-1. Opinii, o której mowa w art. 133b ust. 1, nie ujawnia się osobom trzecim do chwili zawarcia umowy w sprawie zamówienia publicznego, umowy o partnerstwie publiczno-prywatnym lub umowy koncesji na roboty budowlane lub usługi albo zakończenia postępowania w inny sposób w zakresie inwestycji, będącej przedmiotem tej opinii. W przypadku gdy mimo wydania opinii nie wszczęto postępowania w sprawie wyboru partnera prywatnego, zawarcia umowy koncesji lub zamówienia, opinia może zostać ujawniona nie wcześniej niż w terminie 2 lat od jej wydania.
+Sposób gromadzenia środków publicznych z poszczególnych tytułów określają odrębne ustawy.
 
-2. Minister właściwy do spraw rozwoju regionalnego nie ujawnia informacji pozyskanych w związku z wydaniem opinii, o której mowa w art. 133b ust. 1, jeżeli groziłoby to ujawnieniem tajemnicy przedsiębiorstwa lub innych tajemnic ustawowo chronionych.
+### 2.
 
-**Art. 134.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb finansowania inwestycji z budżetu państwa, w tym określania wysokości kwot dotacji w kolejnych latach realizacji inwestycji, a w szczególności:
+Środki publiczne pochodzące z poszczególnych tytułów nie mogą być przeznaczane na finansowanie imiennie wymienionych wydatków, chyba że odrębna ustawa stanowi inaczej.
 
-**Art. 135.**
+### 3.
 
-1. Zakup nieruchomości lub budowa budynku na potrzeby organów administracji rządowej wymaga zgody ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+Ograniczenia wynikającego z ust. 2 nie stosuje się do:
 
-2. (uchylony)
+### 1)
 
-3. (uchylony)
+wydatków finansowanych z kredytów udzielonych przez międzynarodowe instytucje finansowe, o ile umowa tak stanowi;
 
-4. (uchylony)
+### 2)
 
-**Art. 136.**
+wydatków finansowanych ze środków europejskich;
 
-1. Ustawa budżetowa może określać, w ramach limitów wydatków na rok budżetowy, limity wydatków na programy wieloletnie.
+### 3)
 
-2. Programy wieloletnie są ustanawiane przez Radę Ministrów w celu realizacji strategii przyjętych przez Radę Ministrów, w tym w zakresie obronności i bezpieczeństwa państwa. Rada Ministrów, ustanawiając program, wskazuje jego wykonawcę.
+wydatków finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 5 i 6.
 
-3. Realizacja programów wieloletnich może być podzielona na etapy.
+### 4.
 
-4. Jednostki realizujące program wieloletni mogą zaciągać zobowiązania w celu sfinansowania w poszczególnych latach realizacji tego programu do wysokości łącznej kwoty wydatków określonych dla całego programu. W razie wspólnej realizacji programu wieloletniego przez dwa lub więcej podmioty, zobowiązania zaciągane przez każdy podmiot nie mogą przekroczyć kwoty planowanej dla tego podmiotu.
+Ograniczenia wynikającego z ust. 2 nie stosuje się również do kosztów ponoszonych przez jednostki prowadzące działalność gospodarczą, agencje wykonawcze, instytucje gospodarki budżetowej oraz inne państwowe osoby prawne i samorządowe zakłady budżetowe.
 
-**Art. 137.**
+### Art. 43.
 
-1. Rada Ministrów określi, w drodze rozporządzenia, sposób finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień.
+Prawo realizacji zadań finansowanych ze środków publicznych przysługuje ogółowi podmiotów, chyba że odrębne ustawy stanowią inaczej.
 
-2. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 1, określi w szczególności rodzaj realizowanych zadań, źródła i formę ich finansowania oraz wykorzystania wpływów uzyskanych w wyniku realizowanych zadań w przypadku przejściowego ich finansowania, uwzględniając postanowienia umów i porozumień wskazanych w ust. 1.
+### Art. 44.
 
-#### Rozdział 4 Tryb opracowywania i uchwalania budżetu państwa
+### 1.
 
-**Art. 138.**
+Wydatki publiczne mogą być ponoszone na cele i w wysokościach ustalonych w:
 
-1. Minister Finansów przedstawia Radzie Ministrów projekt wieloletnich założeń makroekonomicznych wykorzystywanych na potrzeby opracowania projektu ustawy budżetowej.
+### 1)
 
-1a. Rada Ministrów przyjmuje wieloletnie założenia makroekonomiczne, o których mowa w ust. 1, w terminie do dnia 30 kwietnia, które następnie są publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+ustawie budżetowej;
 
-2. Materiały do projektu ustawy budżetowej oraz do uzasadnienia do projektu tej ustawy opracowują i przedstawiają Ministrowi Finansów dysponenci części budżetowych, z zastrzeżeniem ust. 3 i 4.
+### 2)
 
-3. Materiały do projektu ustawy budżetowej w zakresie programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5, opracowuje i przedstawia Ministrowi Finansów minister właściwy do spraw rozwoju regionalnego, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 122 ust. 1 pkt 2 lit. c, z zastrzeżeniem ust. 4.
+uchwale budżetowej jednostki samorządu terytorialnego;
 
-4. Materiały do projektu ustawy budżetowej w zakresie środków pochodzących z Europejskiego Funduszu Rybackiego, Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz środków, o których mowa w art. 5 ust. 3 pkt 4, opracowuje i przedstawia Ministrowi Finansów odpowiednio minister właściwy do spraw rybołówstwa lub minister właściwy do spraw rozwoju wsi, a w zakresie środków, o których mowa w art. 5 ust. 3 pkt 5b – minister właściwy do spraw zabezpieczenia społecznego.
+### 3)
 
-5. Właściwe organy oraz kierownicy jednostek opracowują i przedstawiają projekty planów finansowych właściwym ministrom w terminach określonych w rozporządzeniu wydanym na podstawie ust. 6.
+planie finansowym jednostki sektora finansów publicznych.
 
-6. Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób i zakres, w tym wzory formularzy, oraz tryb i terminy opracowania materiałów, o których mowa w ust. 2–5, w ujęciu rocznym i wieloletnim, w tym:
+### 2.
 
-- **1)** planów rzeczowych zadań realizowanych ze środków budżetowych,
-- **2)** projektów planów dochodów i wydatków poszczególnych części budżetowych,
-- **3)** zestawienia programów wieloletnich,
-- **4)** wykazu wydatków związanych z realizacją wspólnej polityki rolnej oraz innych programów, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2,
-- **5)** projektów planów finansowych jednostek, o których mowa w art. 9 pkt 14, dla których organem założycielskim lub nadzorującym jest organ administracji rządowej,
-- **6)** materiałów do opracowania zestawienia i planu, o których mowa w art. 142 ust. 1 pkt 10 i 11 – kierując się koniecznością uwzględniania klasyfikacji dochodów i wydatków budżetowych, opracowania budżetu w układzie zadaniowym oraz zakresem podmiotowym i przedmiotowym spraw wymagających ujęcia w projekcie ustawy budżetowej oraz w uzasadnieniu do projektu tej ustawy.
+Jednostki sektora finansów publicznych dokonują wydatków zgodnie z przepisami dotyczącymi poszczególnych rodzajów wydatków.
 
-**Art. 138a.** Zasoby własne Unii Europejskiej ujmuje się w projekcie ustawy budżetowej w wysokości umożliwiającej realizację zobowiązań wynikających z umowy międzynarodowej oraz z uwzględnieniem ich wysokości ustalonej w toku procedury budżetowej Unii Europejskiej.
+### 3.
 
-**Art. 139.**
+Wydatki publiczne powinny być dokonywane:
 
-1. Minister Finansów przedstawia Radzie Ministrów projekt ustawy budżetowej na rok następny wraz z uzasadnieniem.
+### 1)
 
-2. Minister Finansów włącza do projektu ustawy budżetowej dochody i wydatki Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Trybunału Konstytucyjnego, Najwyższej Izby Kontroli, Sądu Najwyższego, Naczelnego Sądu Administracyjnego wraz z wojewódzkimi sądami administracyjnymi, Krajowej Rady Sądownictwa, sądownictwa powszechnego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Krajowej Rady Radiofonii i Telewizji, Prezesa Urzędu Ochrony Danych Osobowych, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Krajowego Biura Wyborczego, Państwowej Inspekcji Pracy i Biura Rady Fiskalnej.
+w sposób celowy i oszczędny, z zachowaniem zasad:
 
-**Art. 140.**
+### a)
 
-1. W projekcie ustawy budżetowej planuje się rezerwę ogólną nie wyższą niż 0,2 % wydatków budżetu.
+uzyskiwania najlepszych efektów z danych nakładów,
 
-2. W projekcie ustawy budżetowej mogą zostać zaplanowane rezerwy celowe:
+### b)
 
-- **1)** na wydatki, których określenie wysokości lub szczegółowy podział na pozycje klasyfikacji budżetowej nie jest możliwy do dokonania w okresie opracowywania projektu ustawy budżetowej;
-- **2)** na wydatki, których realizacja jest uwarunkowana zaciągnięciem kredytu w międzynarodowej instytucji finansowej lub pozyskaniem środków z innych źródeł;
-- **3)** na wydatki związane z realizacją programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, oraz na rozliczenia z budżetem Unii Europejskiej;
-- **3a)** na wydatki związane z przeciwdziałaniem chorobie zakaźnej wywołanej wirusem SARS-CoV-2 (COVID-19) lub na rzecz pomocy Ukrainie w związku z konfliktem zbrojnym na terytorium tego kraju;
-- **4)** gdy odrębne ustawy tak stanowią.
+optymalnego doboru metod i środków służących osiągnięciu założonych celów;
 
-3. Suma rezerw celowych, o których mowa w ust. 2 pkt 1 i 4, nie może przekroczyć 5 % wydatków budżetu.
+### 2)
 
-4. W częściach budżetu państwa, których dysponentami są poszczególni wojewodowie, może być tworzona rezerwa w wysokości do 2 % planowanych wydatków. Przy ustalaniu wysokości rezerwy nie uwzględnia się dotacji planowanych dla jednostek samorządu terytorialnego.
+w sposób umożliwiający terminową realizację zadań;
 
-5. W rezerwie, o której mowa w ust. 4, mogą być planowane wydatki na wynagrodzenia z tytułu odpraw emerytalnych i odpraw w związku z przejściem na rentę z tytułu niezdolności do pracy.
+### 3)
 
-6. Środki na wydatki, o których mowa w ust. 5, planuje się w ramach ogólnej kwoty wynagrodzeń dla części budżetu państwa, których dysponentami są poszczególni wojewodowie, ustalanej w ustawie budżetowej zgodnie z art. 9 ust. 1 pkt 4 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356).
+w wysokości i terminach wynikających z wcześniej zaciągniętych zobowiązań.
 
-**Art. 141.** Rada Ministrów uchwala projekt ustawy budżetowej i wraz z uzasadnieniem przedkłada go Sejmowi w terminie do dnia 30 września roku poprzedzającego rok budżetowy.
+### 4.
 
-**Art. 142.**
+Jednostki sektora finansów publicznych zawierają umowy, których przedmiotem są usługi, dostawy lub roboty budowlane, na zasadach określonych w przepisach o zamówieniach publicznych, o ile odrębne przepisy nie stanowią inaczej.
 
-1. Do projektu ustawy budżetowej dołącza się uzasadnienie zawierające w szczególności:
+### Art. 45.
 
-- **1)** główne cele polityki społecznej i gospodarczej;
-- **2)** omówienie scenariusza makroekonomicznego na rok budżetowy i trzy kolejne lata, w szczególności założeń makroekonomicznych dotyczących prognozy:
-    - **a)** produktu krajowego brutto i jego składowych, w tym: – eksportu netto, – popytu krajowego, w tym konsumpcji prywatnej i publicznej oraz nakładów brutto na środki trwałe, aa) deflatora produktu krajowego brutto,
-    - **b)** średniorocznego wskaźnika cen towarów i usług konsumpcyjnych,
-    - **c)** kursu walutowego,
-    - **d)** przeciętnego wynagrodzenia brutto w gospodarce narodowej,
-    - **e)** poziomu zatrudnienia i bezrobocia,
-    - **f)** salda obrotów bieżących – wraz z przewidywanym wykonaniem dla roku poprzedzającego rok budżetowy;
+Ze środków publicznych nie można tworzyć fundacji na podstawie ustawy z dnia 6 kwietnia 1984 r. o fundacjach ([Dz. U. z 1991 r. Nr 46, poz. 203](https://api.sejm.gov.pl/eli/acts/DU/1991/203/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 120, poz. 1268, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 167, poz. 1398 i Nr 175, poz. 1462.](#gloss-0:2:)).
 
-- **2a)** porównanie scenariusza makroekonomicznego z najbardziej aktualnymi prognozami Komisji Europejskiej i prognozami przygotowanymi przez inne niezależne instytucje wraz z omówieniem znaczących różnic;
-- **2b)** informacje o działaniach podjętych w przypadku wystąpienia znaczących odchyleń negatywnie wpływających na prognozy makroekonomiczne w okresie czterech kolejnych lat budżetowych poprzedzających opracowanie scenariusza makroekonomicznego;
-- **2c)** analizę wrażliwości w zakresie deficytu i długu sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Rady (WE) nr 479/2009 z dnia 25 maja 2009 r. o stosowaniu Protokołu w sprawie procedury dotyczącej nadmiernego deficytu załączonego do Traktatu ustanawiającego Wspólnotę Europejską, państwowego długu publicznego oraz poziomu kwoty wydatków, o której mowa w art. 112aa ust. 1, przy różnych założeniach dotyczących wzrostu gospodarczego i stóp procentowych wraz z omówieniem istotnych czynników ryzyka;
-- **3)** kierunki polityki fiskalnej, zawierające w szczególności założenia dotyczące średniookresowego celu budżetowego oraz działania z zakresu polityki fiskalnej i polityki gospodarczej zmierzające do jego osiągnięcia;
-- **4)** przewidywane wykonanie budżetu państwa za rok budżetowy poprzedzający rok budżetowy, którego dotyczy projekt ustawy budżetowej;
-- **5)** omówienie projektowanych:
-    - **a)** przychodów i rozchodów oraz dochodów i wydatków budżetowych,
-    - **b)** (uchylona)
-    - **c)** (uchylona)
-    - **d)** wykazów określonych w art. 122 ust. 1 pkt 2 lit. b i c,
-    - **e)** planów finansowych, o których mowa w art. 122 ust. 1 pkt 1;
+### Art. 46.
 
-- **6)** omówienie przewidywanego wyniku sektora instytucji rządowych i samorządowych oraz długu sektora finansów publicznych;
-- **6a)** omówienie kwoty planowanych wydatków obliczonej zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3 oraz kwoty planowanego limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **6b)** informacje o:
-    - **a)** wielkości wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
-    - **b)** wielkości korekty kwoty wydatków, o której mowa w art. 112aa ust. 1,
-    - **c)** wartości klauzuli obronnej, o której mowa w art. 112aa ust. 4a,
-    - **d)** różnicach, o których mowa w art. 112aa ust. 4a pkt 1–3,
-    - **e)** każdym dyskrecjonalnym działaniu przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
-    - **f)** aktualizacji wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1,
-    - **g)** każdym jednorazowym i tymczasowym działaniu po stronie dochodów przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 3;
+### 1.
 
-- **6c)** opinię Rady Fiskalnej, o której mowa w:
-    - **a)** art. 112ab ust. 2,
-    - **b)** art. 112ac ust. 1,
-    - **c)** art. 112da ust. 1,
-    - **d)** art. 112db ust. 1 i 7 – albo informację o jej nieprzedstawieniu w wyznaczonym terminie wraz z wnioskiem odpowiednio Ministra Finansów albo Rady Ministrów, o którym mowa odpowiednio w art. 112ab ust. 2, art. 112ac ust. 3, art. 112da ust. 1 albo art. 112db ust. 1 albo 7;
+Jednostki sektora finansów publicznych mogą zaciągać zobowiązania do sfinansowania w danym roku do wysokości wynikającej z planu wydatków lub kosztów jednostki, pomniejszonej o wydatki na wynagrodzenia i uposażenia, składki na ubezpieczenie społeczne i Fundusz Pracy, inne składki i opłaty obligatoryjne oraz płatności wynikające z zobowiązań zaciągniętych w latach poprzednich, z zastrzeżeniem art. 136 ust. 4 i art. 153.
 
-- **7)** omówienie wielkości zasobów własnych Unii Europejskiej oraz środków ujętych w budżecie środków europejskich;
-- **8)** informacje o udzielonych przez Skarb Państwa kwotach poręczeń i gwarancji, według przewidywanego wykonania na koniec roku budżetowego poprzedzającego rok budżetowy, którego dotyczy projekt ustawy budżetowej;
-- **9)** (uchylony)
-- **10)** zestawienie zadań i celów priorytetowych na dany rok budżetowy;
-- **11)** skonsolidowany plan wydatków na rok budżetowy i dwa kolejne lata państwowych jednostek budżetowych, państwowych funduszy celowych, agencji wykonawczych, instytucji gospodarki budżetowej oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14, sporządzany w układzie zadań budżetowych określonych w art. 2 pkt 3, wraz z celami i miernikami stopnia realizacji celów;
-- **12)** plany finansowe lub projekty planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
+### 2.
 
-2. W roku s, o którym mowa w art. 112d ust. 3, uzasadnienie nie zawiera omówienia, o którym mowa w ust. 1 pkt 6a, i informacji, o których mowa w ust. 1 pkt 6b.
+Dysponent części budżetowej lub zarząd jednostki samorządu terytorialnego może ustalić dla podległych lub nadzorowanych jednostek dodatkowe ograniczenia zaciągania zobowiązań lub dokonywania wydatków.
 
-3. (uchylony)
+### Art. 47.
 
-**Art. 143.**
+Podmiot wnioskujący o przyznanie środków publicznych na realizację wyodrębnionego zadania powinien przedstawić ofertę wykonania zadania zgodnie z zasadami uczciwej konkurencji, gwarantującą wykonanie zadania w sposób efektywny, oszczędny i terminowy.
 
-1. Dysponenci części budżetowych, w terminie do dnia 25 października, przekazują informacje o przyjętych przez Radę Ministrów w projekcie ustawy budżetowej kwotach:
+### Art. 48.
 
-- **1)** dochodów i wydatków, w tym wynagrodzeń – jednostkom podległym;
-- **2)** dotacji na zadania z zakresu administracji rządowej, zadania inspekcji i straży, dotacji na realizację zadań własnych oraz o kwotach dochodów związanych z realizacją zadań z zakresu administracji rządowej – jednostkom samorządu terytorialnego;
-- **3)** środków na realizację programów finansowanych z udziałem środków europejskich, dla których zarządy województw są instytucją zarządzającą lub pośredniczącą – zarządom województw.
+Jednostki sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 9 pkt 1, 3 i 4, mogą dokonywać lokat wolnych środków, z wyjątkiem środków pochodzących z dotacji z budżetu:
 
-2. W terminie do dnia 25 listopada jednostki, o których mowa w ust. 1 pkt 1, opracowują i przekazują właściwym dysponentom części budżetowych projekty planów finansowych na następny rok budżetowy, zgodne z projektem ustawy budżetowej.
+### 1)
 
-3. Przepisu ust. 1 nie stosuje się do kwot dochodów z podatków i ceł pobieranych przez jednostki podległe Ministrowi Finansów.
+w skarbowych papierach wartościowych;
 
-**Art. 144.**
+### 2)
 
-1. W przypadku gdy Rada Ministrów przedkłada Sejmowi projekt ustawy o prowizorium budżetowym, przepis art. 141 stosuje się odpowiednio.
+w obligacjach emitowanych przez jednostki samorządu terytorialnego;
 
-2. Do projektu ustawy o prowizorium budżetowym stosuje się przepisy odnoszące się do projektu ustawy budżetowej, z wyłączeniem art. 142 ust. 1 pkt 10 i 11.
+### 3)
 
-3. W przypadku przedstawienia Sejmowi projektu ustawy o prowizorium budżetowym, Rada Ministrów przedstawia Sejmowi projekt ustawy budżetowej nie później niż na 3 miesiące przed zakończeniem okresu obowiązywania ustawy o prowizorium budżetowym.
+na rachunkach bankowych w bankach mających siedzibę na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 145.**
+### Art. 49.
 
-1. W przypadku gdy ustawa budżetowa albo ustawa o prowizorium budżetowym nie zostaną ogłoszone przed dniem 1 stycznia, to do czasu ogłoszenia odpowiedniej ustawy:
+### 1.
 
-- **1)** podstawą gospodarki finansowej jest przedstawiony Sejmowi odpowiedni projekt ustawy, o którym mowa w art. 141 lub w art. 144;
-- **2)** obowiązują stawki należności budżetowych oraz składki na państwowe fundusze celowe w wysokości ustalonej dla roku poprzedzającego rok budżetowy.
+Jednostki sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 9 pkt 2, nie mogą posiadać, obejmować lub nabywać udziałów lub akcji w spółkach ani nabywać obligacji emitowanych przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego, a także udziałów w spółdzielniach, chyba że odrębna ustawa stanowi inaczej, z zastrzeżeniem ust. 2.
 
-2. Przepis ust. 1 stosuje się odpowiednio, w przypadku gdy podstawą gospodarki finansowej państwa jest ustawa albo projekt ustawy o prowizorium budżetowym, a przed upływem terminu obowiązywania ustawy o prowizorium budżetowym nie zostanie ogłoszona ustawa budżetowa.
+### 2.
 
-#### Rozdział 5 Wykonywanie ustawy budżetowej
+Minister właściwy do spraw Skarbu Państwa przejmuje od jednostek sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 9 pkt 2, akcje i udziały w spółkach oraz obligacje wyemitowane przez podmioty inne niż Skarb Państwa lub jednostki samorządu terytorialnego oraz wykonuje wynikające z nich uprawnienia Skarbu Państwa.
 
-**Art. 146.**
+### Art. 50.
 
-1. Dysponenci części budżetowych, w terminie 7 dni od dnia ogłoszenia ustawy budżetowej, przekazują jednostkom podległym informacje o kwotach dochodów i wydatków, w tym wynagrodzeń.
+### 1.
 
-2. Jednostki, o których mowa w ust. 1, sporządzają plany finansowe celem zapewnienia ich zgodności z ustawą budżetową.
+Przedstawiane Radzie Ministrów projekty aktów prawnych, których skutkiem finansowym może być zwiększenie wydatków lub zmniejszenie dochodów jednostek sektora finansów publicznych w stosunku do wielkości wynikających z obowiązujących przepisów, wymagają:
 
-3. Przepisu ust. 1 nie stosuje się do kwot dochodów z podatków i ceł pobieranych przez jednostki podległe Ministrowi Finansów.
+### 1)
 
-**Art. 147.**
+określenia wysokości tych skutków;
 
-1. Minister Finansów, w porozumieniu z dysponentami części budżetowych, opracowuje harmonogram realizacji budżetu państwa.
+### 2)
 
-2. Harmonogram, o którym mowa w ust. 1, obejmuje:
+wskazania źródeł ich sfinansowania;
 
-- **1)** prognozę dochodów budżetu państwa w poszczególnych miesiącach roku budżetowego;
-- **2)** wielkość wydatków planowanych do sfinansowania w poszczególnych miesiącach roku budżetowego.
+### 3)
 
-3. Harmonogram realizacji wydatków podlega aktualizacji na wniosek dysponenta części budżetowej lub Ministra Finansów.
+opisu celów nowych zadań i mierników określających stopień realizacji celów.
 
-4. Dysponent części budżetowej może poinformować podległe i nadzorowane jednostki o harmonogramie, o którym mowa w ust. 1.
+### 2.
 
-**Art. 148.** W terminie 21 dni od dnia ogłoszenia ustawy budżetowej dysponenci części budżetowych przekazują:
+Projekt ustawy skutkującej zmianą poziomu dochodów lub wydatków jednostek samorządu terytorialnego wymaga określenia wysokości skutków tych zmian, wskazania źródeł ich sfinansowania oraz zaopiniowania przez Komisję Wspólną Rządu i Samorządu Terytorialnego.
 
-**Art. 149.**
+### 3.
 
-1. Dotacje celowe na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami są przekazywane jednostce samorządu terytorialnego przez wojewodę w terminie umożliwiającym pełne i terminowe wykonywanie zadań.
+Rada Ministrów, przekazując do Sejmu projekt ustawy, o którym mowa w ust. 2, dołącza opinię Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
-2. Dotacje celowe na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami mogą również być przekazywane – w terminach określonych w odrębnych przepisach – przez:
+### Art. 51.
 
-- **1)** Szefa Krajowego Biura Wyborczego lub działających z jego upoważnienia dyrektorów zespołów i delegatur Krajowego Biura Wyborczego na finansowanie zadań związanych z aktualizowaniem Centralnego Rejestru Wyborców oraz organizacją i przeprowadzaniem wyborów i referendów;
-- **2)** dyrektorów urzędów statystycznych na finansowanie zadań związanych z organizacją spisów powszechnych i rolnych.
+### 1.
 
-**Art. 150.** Dysponent części budżetowej lub dysponent środków, o których mowa w art. 127 ust. 2, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
+Zamieszczenie w budżecie państwa dochodów z określonych źródeł lub wydatków na określone cele nie stanowi podstawy roszczeń ani zobowiązań państwa wobec osób trzecich, ani roszczeń tych osób wobec państwa.
 
-**Art. 151.**
+### 2.
 
-1. Dysponent części budżetowej może zlecić organizacji pozarządowej realizację swoich zadań na podstawie zawartej z tą organizacją umowy, przyznając jednocześnie dotację celową na realizację tych zadań.
+Przepis ust. 1 stosuje się odpowiednio do:
 
-2. Umowa, o której mowa w ust. 1, powinna określać:
+### 1)
 
-- **1)** szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
-- **2)** wysokość udzielonej dotacji i tryb płatności;
-- **3)** termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
-- **4)** tryb kontroli wykonywania zadania;
-- **5)** termin i sposób rozliczenia udzielonej dotacji;
-- **6)** termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą – 30 dni od określonego w umowie dnia jego wykonania.
+jednostek samorządu terytorialnego;
 
-**Art. 151a.** Od kwoty niewykorzystanej części dotacji zwróconej po terminie określonym w umowie, o której mowa w art. 150 i art. 151 ust. 1, nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po dniu, w którym upłynął termin zwrotu tej dotacji.
+### 2)
 
-**Art. 152.**
+pozostałych jednostek sektora finansów publicznych.
 
-1. Jednostki, którym została udzielona dotacja, o której mowa w art. 150 i art. 151 ust. 1, są obowiązane do prowadzenia wyodrębnionej ewidencji księgowej środków otrzymanych z dotacji oraz wydatków dokonywanych z tych środków.
+### Art. 52.
 
-2. Zatwierdzenie przez dysponenta części budżetowej lub dysponenta środków, o których mowa w art. 127 ust. 2, rozliczenia dotacji w zakresie rzeczowym i finansowym, przedstawionego przez obowiązaną do tego jednostkę, powinno nastąpić w terminie 30 dni od dnia jego przedstawienia, a w przypadku dotacji na realizację zadania za granicą – 60 dni od dnia jego przedstawienia.
+### 1.
 
-3. W przypadku stwierdzenia na podstawie rozliczenia, o którym mowa w ust. 2, że dotacja wykorzystana została w części lub całości niezgodnie z przeznaczeniem albo pobrana w nadmiernej wysokości, dysponent części budżetowej lub dysponent środków, o których mowa w art. 127 ust. 2, określa, w drodze decyzji, wysokość kwoty podlegającej zwrotowi do budżetu państwa.
+Ujęte w budżecie państwa, budżetach jednostek samorządu terytorialnego i planach finansowych jednostek budżetowych:
 
-**Art. 153.**
+### 1)
 
-1. Minister Finansów, na wniosek dysponenta części budżetowej, może udzielić zapewnienia finansowania lub dofinansowania z budżetu państwa w bieżącym roku budżetowym lub w kolejnych latach:
+dochody oraz przychody - stanowią prognozy ich wielkości;
 
-- **1)** projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 1–5c i 6;
-- **2)** wydatków, o których mowa w art. 124 ust. 1, z wyłączeniem wydatków na projekty, o których mowa w pkt 1;
-- **3)** programów wieloletnich.
+### 2)
 
-2. Zapewnienie finansowania lub dofinansowania, o którym mowa w ust. 1, dotyczące bieżącego roku budżetowego może być udzielone, o ile środki na ten cel zostały ujęte w rezerwie celowej na ten rok. Środki na zapewnienie finansowania lub dofinansowania na kolejne lata są ujmowane w rezerwach celowych w projektach ustaw budżetowych na lata kolejne.
+wydatki oraz łączne rozchody - stanowią nieprzekraczalny limit.
 
-3. Zmiana zapewnienia finansowania lub dofinansowania, o którym mowa w ust. 1, może dotyczyć bieżącego roku budżetowego lub kolejnych lat, przy czym zmiana dotycząca bieżącego roku budżetowego może być dokonana do dnia 31 grudnia, na wniosek dysponenta części budżetowej. W przypadkach, o których mowa w ust. 1 pkt 2 i 3, wniosek należy złożyć niepóźniej niż na 10 dni roboczych przed upływem tego terminu.
+### 2.
 
-4. Minister Finansów może określić, w drodze rozporządzenia, szczegółowy tryb składania wniosków, o których mowa w ust. 1 i 3, wzór tych wniosków i dokumenty niezbędne do ich rozpatrzenia, mając na względzie właściwość podmiotów realizujących zadania, zakres przedmiotowy tych zadań oraz efektywność wykorzystania środków budżetu państwa.
+Ujęte w rocznych planach finansowych jednostek sektora finansów publicznych:
 
-**Art. 154.**
+### 1)
 
-1. Podziału rezerw celowych dokonuje Minister Finansów, w porozumieniu z właściwymi dysponentami części budżetowych, niepóźniej niż do dnia 15 października roku budżetowego.
+przychody - stanowią prognozy ich wielkości;
 
-2. Dysponenci części budżetowych, o których mowa w ust. 1, przekazują wojewodom informację o wysokości środków rezerw celowych przeznaczonych na zwiększenie wydatków w częściach budżetu państwa, którymi dysponują wojewodowie, do dnia 30 września roku budżetowego.
+### 2)
 
-3. Podziału rezerw celowych:
+koszty - mogą ulec zwiększeniu, jeżeli:
 
-- **1)** o których mowa w art. 140 ust. 2 pkt 2 i 3,
-- **2)** przeznaczonych na finansowanie zobowiązań Skarbu Państwa,
-- **3)** przeznaczonych na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków,
-- **4)** przeznaczonych na finansowanie zadań, dla których udzielone zostały zapewnienia finansowania lub dofinansowania, o których mowa w art. 153 – dokonuje Minister Finansów, w porozumieniu z właściwymi dysponentami części budżetowych, do końca roku budżetowego.
+### a)
 
-4. Rezerwy celowe mogą być przeznaczone wyłącznie na cel, na jaki zostały utworzone, oraz wykorzystane zgodnie z klasyfikacją wydatków.
+zrealizowano przychody wyższe od prognozowanych,
 
-5. Zmiana klasyfikacji wydatków może być dokonana przez Ministra Finansów do końca roku budżetowego na wniosek dysponenta części budżetowej, przy czym w przypadku rezerw celowych, o których mowa w ust. 1 i ust. 3 pkt 4, wniosek ten należy złożyć niepóźniej niż 10 dni roboczych przed upływem roku budżetowego.
+### b)
 
-6. Minister Finansów może, po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu, dokonać zmiany przeznaczenia rezerwy celowej.
+zwiększenie kosztów nie spowoduje zwiększenia dotacji z budżetu lub zwiększenia planowanego stanu zobowiązań.
 
-7. Podziału rezerw celowych przeznaczonych na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, z wyłączeniem środków, o których mowa w art. 5 ust. 3 pkt 6, dokonuje Minister Finansów na wniosek:
+### 3.
 
-- **1)** ministra pełniącego funkcję instytucji zarządzającej lub koordynującego realizację programów finansowanych z udziałem tych środków;
-- **2)** ministra właściwego do spraw rozwoju wsi – w zakresie wspólnej polityki rolnej.
+Zmiany w zakresie przychodów i kosztów, o których mowa w ust. 2, wymagają dokonania zmian w rocznym planie finansowym.
 
-8. Dysponent części budżetowej składa do Ministra Finansów wniosek o podział rezerwy celowej, o której mowa w ust. 1 i ust. 3 pkt 4, niepóźniej niż 10 dni roboczych przed upływem terminu, o którym mowa w ust. 1 albo 3.
+### Art. 53.
 
-**Art. 154a.** Podziału rezerwy celowej, o której mowa w art. 10 pkt 1 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw, z wyłączeniem środków, o których mowa w art. 5 ust. 1 pkt 2, dokonuje Rada Ministrów, na wniosek właściwych dysponentów części budżetowych, do dnia 30 września roku budżetowego, uwzględniając wskaźniki zatrudnienia osób niepełnosprawnych w państwowych jednostkach budżetowych.
+### 1.
 
-**Art. 155.**
+Kierownik jednostki sektora finansów publicznych, zwany dalej „kierownikiem jednostki”, jest odpowiedzialny za całość gospodarki finansowej tej jednostki.
 
-1. Rezerwą ogólną dysponuje Rada Ministrów.
+### 2.
 
-2. Rada Ministrów może upoważnić, w drodze rozporządzenia, Prezesa Rady Ministrów i Ministra Finansów do dysponowania rezerwą ogólną do wysokości określonych kwot, uwzględniając zróżnicowanie tych kwot.
+Kierownik jednostki może powierzyć określone obowiązki w zakresie gospodarki finansowej pracownikom jednostki. Przyjęcie obowiązków przez te osoby powinno być potwierdzone dokumentem w formie odrębnego imiennego upoważnienia albo wskazania w regulaminie organizacyjnym tej jednostki.
 
-3. Rezerwa ogólna nie może być przeznaczona na zwiększenie wydatków, które zostały zmniejszone w trakcie realizacji budżetu w wyniku przeniesień, dokonanych na podstawie art. 171.
+### Art. 54.
 
-**Art. 156.** (uchylony)
+### 1.
 
-**Art. 157.** Nie stanowią rezerwy, o której mowa w art. 140 ust. 4, środki niepodzielone przez wojewodów, przeznaczone na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami.
+Głównym księgowym jednostki sektora finansów publicznych, zwanym dalej „głównym księgowym”, jest pracownik, któremu kierownik jednostki powierza obowiązki i odpowiedzialność w zakresie:
 
-**Art. 158.** Ograniczenia, o których mowa w art. 154 ust. 4, 5 i 7 oraz w art. 155 ust. 3, nie mają zastosowania w przypadku realizacji zadań wynikających z przepisów dotyczących wprowadzenia stanów nadzwyczajnych na terytorium państwa lub na jego części.
+### 1)
 
-**Art. 159.** Rada Ministrów kieruje wykonywaniem budżetu państwa.
+prowadzenia rachunkowości jednostki;
 
-**Art. 160.**
+### 2)
 
-1. W celu rzetelnego i gospodarnego wykonania budżetu państwa Rada Ministrów może, w drodze rozporządzenia, określić:
+wykonywania dyspozycji środkami pieniężnymi;
 
-- **1)** organy administracji rządowej uprawnione do dokonywania określonych rodzajów wydatków;
-- **2)** wytyczne dotyczące:
-    - **a)** szczegółowego sposobu dokonywania wydatków, o których mowa w pkt 1,
-    - **b)** szczegółowego sposobu i terminów sporządzania informacji z wykonania wydatków, o których mowa w pkt 1, oraz jednostki obowiązane do ich sporządzania.
-    - **c)** (uchylona)
+### 3)
 
-2. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia zakres i rodzaj określanych wydatków oraz konieczność zachowania zasady przejrzystości finansów publicznych przy sporządzaniu informacji z ich wykonania.
+dokonywania wstępnej kontroli:
 
-**Art. 161.**
+### a)
 
-1. Zobowiązania na okres dłuższy niż rok budżetowy w ramach realizacji współpracy rozwojowej na terytoriach uznanych za strefę działań wojennych mogą być zaciągane, jeżeli wydatki niezbędne na obsługę zobowiązania są ujęte w ustawie budżetowej.
+zgodności operacji gospodarczych i finansowych z planem finansowym,
 
-2. Środki niewykorzystane w ramach zaciągniętego zobowiązania wieloletniego nie podlegają zwrotowi do dnia 31 grudnia danego roku budżetowego i traktowane są jako środki niewygasające, podlegające zwrotowi najpóźniej do dnia 30 czerwca kolejnego roku.
+### b)
 
-3. Rada Ministrów może wydawać, w drodze rozporządzenia, wytyczne dotyczące zasad zaciągania zobowiązań na okres dłuższy niż rok budżetowy w ramach realizacji współpracy rozwojowej na terytoriach uznanych za strefę działań wojennych, określając:
+kompletności i rzetelności dokumentów dotyczących operacji gospodarczych i finansowych.
 
-- **1)** podmioty uprawnione do dokonywania określonych rodzajów wydatków;
-- **2)** szczegółowy sposób dokonywania wydatków, o których mowa w pkt 1;
-- **3)** szczegółowy sposób i termin sporządzania informacji z wykonania wydatków, o których mowa w pkt 1, oraz jednostki obowiązane do ich sporządzania.
+### 2.
 
-4. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 3, uwzględnia właściwość podmiotów realizujących zadania oraz zakres tych zadań.
+Głównym księgowym, z zastrzeżeniem ust. 9, może być osoba, która:
 
-**Art. 162.** W toku wykonywania budżetu państwa obowiązują następujące zasady gospodarki finansowej:
+### 1)
 
-**Art. 163.**
+ma obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, chyba że odrębne ustawy uzależniają zatrudnienie w jednostce sektora finansów publicznych od posiadania obywatelstwa polskiego;
 
-1. Państwowe jednostki budżetowe mające siedzibę poza granicami Rzeczypospolitej Polskiej, podległe ministrowi właściwemu do spraw zagranicznych albo ministrowi właściwemu do spraw gospodarki, mogą gromadzić na wydzielonym rachunku bankowym dochody uzyskiwane z:
+### 2)
 
-- **1)** odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie bądź użytkowaniu jednostki budżetowej;
-- **2)** wpływów z najmu, dzierżawy lub sprzedaży składników majątkowych;
-- **3)** tytułu odsetek od środków zgromadzonych na rachunku.
+ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
 
-2. Dochody, o których mowa w ust. 1, są przeznaczane na sfinansowanie wydatków bieżących i inwestycyjnych związanych z remontami i odtworzeniem mienia państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej.
+### 3)
 
-2a. Dochody, o których mowa w ust. 1, mogą być przeznaczone na sfinansowanie zakupu nieruchomości na potrzeby państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej.
+nie była prawomocnie skazana za przestępstwo przeciwko mieniu, przeciwko obrotowi gospodarczemu, przeciwko działalności instytucji państwowych oraz samorządu terytorialnego, przeciwko wiarygodności dokumentów lub za przestępstwo skarbowe;
 
-3. Wydatki mogą być dokonywane do wysokości kwot zgromadzonych dochodów, w ramach planu finansowego obejmującego bieżące dochody i pozostałości środków z okresów poprzednich.
+### 4)
 
-3a. Odpowiednio minister właściwy do spraw zagranicznych albo minister właściwy do spraw gospodarki opracowuje, na podstawie informacji otrzymanych od kierowników podległych państwowych jednostek budżetowych, o których mowa w ust. 1, zestawienie dochodów, o których mowa w ust. 1, oraz wydatków nimi finansowanych i przekazuje je Ministrowi Finansów w trybie i terminach określonych w przepisach dotyczących prac nad projektem ustawy budżetowej.
+posiada znajomość języka polskiego w mowie i piśmie w zakresie koniecznym do wykonywania obowiązków głównego księgowego;
 
-4. Środki pieniężne gromadzone na wydzielonym rachunku bankowym, o którym mowa w ust. 1, w zależności od potrzeb wskazanych przez odpowiednio ministra właściwego do spraw zagranicznych albo ministra właściwego do spraw gospodarki mogą być przekazywane na wydzielony rachunek bankowy do innych państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej, podległych tym ministrom.
+### 5)
 
-**Art. 164.**
+spełnia jeden z poniższych warunków:
 
-1. Wydatki nieprzewidziane, których obowiązkowe płatności wynikają z tytułów wykonawczych, wyroków sądowych lub ugód, mogą być dokonywane bez względu na poziom środków finansowych zaplanowanych na ten cel. Odpowiednia zmiana planu wydatków powinna nastąpić w trybie przeniesień wydatków z innych podziałek klasyfikacji wydatków lub z rezerw celowych.
+### a)
 
-2. Do przeniesień, o których mowa w ust. 1, nie stosuje się ograniczeń wynikających z art. 171 ust. 1–5.
+ukończyła ekonomiczne jednolite studia magisterskie, ekonomiczne wyższe studia zawodowe, uzupełniające ekonomiczne studia magisterskie lub ekonomiczne studia podyplomowe i posiada co najmniej 3-letnią praktykę w księgowości,
 
-**Art. 165.**
+### b)
 
-1. Wydatki na obsługę długu Skarbu Państwa są dokonywane przed innymi wydatkami budżetu państwa.
+ukończyła średnią, policealną lub pomaturalną szkołę ekonomiczną i posiada co najmniej 6-letnią praktykę w księgowości,
 
-2. (uchylony)
+### c)
 
-**Art. 166.**
+jest wpisana do rejestru biegłych rewidentów na podstawie odrębnych przepisów,
 
-1. Środki finansowe uzyskane przez Ministra Finansów z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności odsetkowych, pomniejszają wydatki związane z obsługą długu Skarbu Państwa.
+### d)
 
-2. Środki finansowe uzyskane przez Ministra Finansów z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności kapitałowych, pomniejszają rozchody.
+posiada certyfikat księgowy uprawniający do usługowego prowadzenia ksiąg rachunkowych albo świadectwo kwalifikacyjne uprawniające do usługowego prowadzenia ksiąg rachunkowych, wydane na podstawie odrębnych przepisów.
 
-**Art. 167.**
+### 3.
 
-1. Wpłaty zasobów własnych Unii Europejskiej do budżetu Unii Europejskiej są dokonywane w terminach i wysokości umożliwiających realizację zobowiązań wynikających z umowy międzynarodowej.
+Dowodem dokonania przez głównego księgowego wstępnej kontroli, o której mowa w ust. 1 pkt 3, jest jego podpis złożony na dokumentach dotyczących danej operacji. Złożenie podpisu przez głównego księgowego na dokumencie, obok podpisu pracownika właściwego rzeczowo, oznacza, że:
 
-2. W przypadku gdy w trakcie roku budżetowego – w wyniku zmian wprowadzonych w budżecie ogólnym Unii Europejskiej – wpłata zasobów własnych Unii Europejskiej ulegnie zwiększeniu i nie będzie możliwe pokrycie zwiększonych środków z rezerw celowych, Rada Ministrów przedstawia sejmowej komisji właściwej do spraw budżetu propozycje sfinansowania zwiększonego wydatku.
+### 1)
 
-3. W pierwszej kolejności na cel, o którym mowa w ust. 2, przeznacza się:
+nie zgłasza zastrzeżeń do przedstawionej przez właściwych rzeczowo pracowników oceny prawidłowości tej operacji i jej zgodności z prawem;
 
-- **1)** wydatki zablokowane na podstawie art. 177;
-- **2)** niepodzielone rezerwy celowe.
+### 2)
 
-4. Pozytywna opinia sejmowej komisji właściwej do spraw budżetu o propozycjach sfinansowania zwiększonych wpłat zasobów własnych Unii Europejskiej oznacza:
+nie zgłasza zastrzeżeń do kompletności oraz formalno-rachunkowej rzetelności i prawidłowości dokumentów dotyczących tej operacji;
 
-- **1)** upoważnienie dla Ministra Finansów do przeniesienia wydatków między częściami i działami w przypadku, o którym mowa w ust. 3 pkt 1;
-- **2)** zgodę na zmianę przeznaczenia rezerw celowych bez stosowania trybu określonego w art. 154 ust. 6 w przypadku, o którym mowa w ust. 3 pkt 2;
-- **3)** upoważnienie dla Rady Ministrów do dokonania przeniesienia planowanych wydatków między częściami i działami budżetu państwa – w przypadku innych wydatków.
+### 3)
 
-**Art. 167a.**
+zobowiązania wynikające z operacji mieszczą się w planie finansowym jednostki.
 
-1. Rada Ministrów może przedstawić sejmowej komisji właściwej do spraw budżetu propozycje przekazania przez Ministra Obrony Narodowej do Funduszu Wsparcia Sił Zbrojnych, o którym mowa w art. 41 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080), dodatkowych środków na realizację zadań Funduszu, w tym spłaty zobowiązań z tytułu zaciągniętych kredytów, pożyczek i wyemitowanych obligacji oraz zobowiązań finansowych, o których mowa odpowiednio w art. 45 ust. 1 i art. 45a ust. 1 tej ustawy.
+### 4.
 
-2. W pierwszej kolejności na cel, o którym mowa w ust. 1, przeznacza się:
+Główny księgowy, w razie ujawnienia nieprawidłowości w zakresie określonym w ust. 3, zwraca dokument właściwemu rzeczowo pracownikowi, a w razie nieusunięcia nieprawidłowości odmawia jego podpisania.
 
-- **1)** wydatki zablokowane na podstawie art. 177;
-- **2)** niepodzielone rezerwy celowe.
+### 5.
 
-3. Pozytywna opinia sejmowej komisji właściwej do spraw budżetu o propozycji, o której mowa w ust. 1, oznacza:
+O odmowie podpisania dokumentu i jej przyczynach główny księgowy zawiadamia pisemnie kierownika jednostki. Kierownik jednostki może wstrzymać realizację zakwestionowanej operacji albo wydać w formie pisemnej polecenie jej realizacji.
 
-- **1)** upoważnienie dla Ministra Finansów do przeniesienia wydatków między częściami i działami budżetu państwa w przypadku, o którym mowa w ust. 2 pkt 1;
-- **2)** zgodę na zmianę przeznaczenia rezerw celowych bez stosowania trybu określonego w art. 154 ust. 6 w przypadku, o którym mowa w ust. 2 pkt 2;
-- **3)** upoważnienie dla Rady Ministrów do dokonania przeniesienia, w drodze rozporządzenia, planowanych wydatków między częściami i działami budżetu państwa – w przypadku innych wydatków.
+### 6.
 
-**Art. 168.**
+Jeżeli kierownik jednostki wyda polecenie realizacji zakwestionowanej operacji, niezwłocznie zawiadamia o tym w formie pisemnej dysponenta części budżetowej, a w przypadku jednostki samorządu terytorialnego i jednostek wymienionych w art. 9 pkt 3, 4, 10, 13 i 14, dla których organem założycielskim jest jednostka samorządu terytorialnego - zarząd jednostki samorządu terytorialnego, uzasadniając realizację zakwestionowanej operacji. W przypadku gdy polecenie wyda wójt, burmistrz, prezydent miasta, starosta lub marszałek województwa, zawiadamia on organ stanowiący jednostki samorządu terytorialnego oraz właściwą regionalną izbę obrachunkową.
 
-1. Dotacje udzielone z budżetu państwa w części niewykorzystanej do końca roku budżetowego lub w terminie określonym w przepisach wydanych na podstawie art. 181 ust. 2 podlegają zwrotowi do budżetu państwa odpowiednio do dnia 31 stycznia następnego roku albo w terminie 21 dni od dnia określonego w tych przepisach, z zastrzeżeniem art. 150 pkt 5 i art. 151 ust. 2 pkt 6 oraz terminów wynikających z przepisów wydanych na podstawie art. 189 ust. 4, 4a i 4b.
+### 7.
 
-2. Dotacje udzielone z budżetu państwa na realizację zadań za granicą w części niewykorzystanej do końca roku budżetowego podlegają zwrotowi do budżetu państwa do dnia 28 lutego następnego roku.
+W celu realizacji swoich zadań główny księgowy ma prawo:
 
-3. Od kwot dotacji zwróconych po terminie określonym w ust. 1 lub 2 nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po dniu, w którym upłynął termin zwrotu dotacji.
+### 1)
 
-4. Wykorzystanie dotacji następuje przez zapłatę za zrealizowane zadania, na które dotacja była udzielona. Przekazanie środków na rachunek beneficjenta nie oznacza wykorzystania dotacji.
+żądać od kierowników innych komórek organizacyjnych jednostki udzielania w formie ustnej lub pisemnej niezbędnych informacji i wyjaśnień, jak również udostępnienia do wglądu dokumentów i wyliczeń będących źródłem tych informacji i wyjaśnień;
 
-5. W przypadku gdy odrębne przepisy stanowią o sposobie udzielenia i rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych w tych przepisach.
+### 2)
 
-6. Dotacje celowe przyznane jednostkom samorządu terytorialnego na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, w części niewykorzystanej w danym roku, podlegają zwrotowi do budżetu państwa w części, w jakiej zadanie nie zostało wykonane, w terminie określonym w ust. 1.
+wnioskować do kierownika jednostki o określenie trybu, zgodnie z którym mają być wykonywane przez inne komórki organizacyjne jednostki prace niezbędne do zapewnienia prawidłowości gospodarki finansowej oraz ewidencji księgowej, kalkulacji kosztów i sprawozdawczości finansowej.
 
-**Art. 169.**
+### 8.
 
-1. Dotacje udzielone z budżetu państwa:
+Przepisy dotyczące głównego księgowego stosuje się odpowiednio do głównego księgowego budżetu państwa, głównego księgowego części budżetowej oraz skarbnika (głównego księgowego budżetu jednostki samorządu terytorialnego).
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi do budżetu państwa wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w ciągu 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
+### 9.
 
-2. Dotacjami pobranymi w nadmiernej wysokości są dotacje otrzymane z budżetu państwa w wysokości wyższej niż określona w przepisach niniejszej ustawy, przepisach odrębnych lub umowie lub w wysokości wyższej niż niezbędna na dofinansowanie lub finansowanie dotowanego zadania.
+Głównym księgowym placówki zagranicznej podległej ministrowi właściwemu do spraw zagranicznych może być osoba, która spełnia wymagania określone w ust. 2 pkt 1-4, posiada wykształcenie średnie oraz ukończyła z wynikiem pozytywnym kurs administracyjno-finansowy organizowany przez urząd obsługujący ministra właściwego do spraw zagranicznych.
 
-3. Dotacjami nienależnymi są dotacje udzielone bez podstawy prawnej.
+### Art. 55.
 
-4. Zwrotowi do budżetu państwa podlega ta część dotacji, która została wykorzystana niezgodnie z przeznaczeniem, nienależnie udzielona lub pobrana w nadmiernej wysokości.
+Należności pieniężne mające charakter cywilnoprawny, przypadające organom administracji rządowej, państwowym jednostkom budżetowym i państwowym funduszom celowym, mogą być umarzane w całości albo w części lub ich spłata może być odraczana lub rozkładana na raty.
 
-5. Odsetki od dotacji podlegających zwrotowi do budżetu państwa nalicza się, następującego po dniu:
+### Art. 56.
 
-- **1)** przekazania z budżetu państwa dotacji wykorzystanych niezgodnie z przeznaczeniem,
-- **2)** stwierdzenia nieprawidłowego naliczenia lub nienależnego pobrania dotacji – z zastrzeżeniem, że jeżeli dotacja stanowi pomoc publiczną, w rozumieniu art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, odsetki nalicza się od dnia przekazania dotacji beneficjentowi.
+### 1.
 
-6. W przypadku niedokonania zwrotu dotacji w terminie, o którym mowa w ust. 1 oraz w art. 150 pkt 5, art. 151 ust. 2 pkt 6, art. 168 ust. 1 i 2, organ lub inny dysponent części budżetowej, który udzielił dotacji, wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki.
+Należności, o których mowa w art. 55, mogą być umarzane w całości, jeżeli:
 
-7. Do subwencji dla podmiotów systemu szkolnictwa wyższego i nauki przepisy ust. 1–6 stosuje się odpowiednio.
+### 1)
 
-**Art. 170.**
+osoba fizyczna - zmarła, nie pozostawiając żadnego majątku albo pozostawiła majątek niepodlegający egzekucji na podstawie odrębnych przepisów, albo pozostawiła przedmioty codziennego użytku domowego, których łączna wartość nie przekracza kwoty 6 000 zł;
 
-1. Zmiany kwot dotacji celowych na zadania z zakresu administracji rządowej lub inne zadania zlecone odrębnymi ustawami jednostkom samorządu terytorialnego oraz zmiany kwot dotacji na dofinansowanie zadań własnych jednostek samorządu terytorialnego mogą następować w terminie do dnia 15 grudnia roku budżetowego.
+### 2)
 
-2. Termin określony w ust. 1 nie obowiązuje w przypadku:
+osoba prawna - została wykreślona z właściwego rejestru osób prawnych przy jednoczesnym braku majątku, z którego można by egzekwować należność, a odpowiedzialność z tytułu należności nie przechodzi z mocy prawa na osoby trzecie;
 
-- **1)** dofinansowania zadań jednostek samorządu terytorialnego realizowanych w związku ze zdarzeniem losowym lub finansowania zobowiązań Skarbu Państwa;
-- **2)** uprzedniego udzielenia zapewnienia finansowania lub dofinansowania z budżetu państwa.
+### 3)
 
-**Art. 171.**
+zachodzi uzasadnione przypuszczenie, że w postępowaniu egzekucyjnym nie uzyska się kwoty wyższej od kosztów dochodzenia i egzekucji tej należności lub postępowanie egzekucyjne okazało się nieskuteczne;
 
-1. Dysponenci części budżetowych mogą dokonywać przeniesień wydatków między rozdziałami i paragrafami klasyfikacji wydatków, z zastrzeżeniem ust. 5, w ramach danej części i działu budżetu państwa.
+### 4)
 
-2. Przeniesienie polegające na zmniejszeniu lub zwiększeniu wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich wymaga zgody ministra właściwego do spraw rozwoju regionalnego, z zastrzeżeniem art. 194 ust. 5 i 6.
+jednostka organizacyjna nieposiadająca osobowości prawnej uległa likwidacji;
 
-2a. O udzieleniu zgody na dokonanie przeniesienia, o której mowa w ust. 2, minister właściwy do spraw rozwoju regionalnego informuje niezwłocznie Ministra Finansów.
+### 5)
 
-3. Przeniesienie z grup wydatków lub do grup wydatków, o których mowa w art. 124 ust. 1 pkt 1–3, polegające na zmniejszeniu lub zwiększeniu wydatków majątkowych lub transferów majątkowych jednorazowo o kwotę powyżej 500 tys. zł wymaga zgody Ministra Finansów.
+zachodzi ważny interes dłużnika lub interes publiczny.
 
-3a. Dysponenci części budżetowych informują niezwłocznie Ministra Finansów o przeniesieniach wydatków majątkowych i transferów majątkowych w zakresie budżetu środków europejskich dokonanych poniżej kwoty 500 tys. zł.
+### 2.
 
-4. W przypadku wydatków na inwestycje budowlane, każde przeniesienie polegające na zmniejszeniu lub zwiększeniu tych wydatków wymaga zgody Ministra Finansów.
+W przypadku gdy oprócz dłużnika głównego są zobowiązane inne osoby, należności, o których mowa w ust. 1, mogą zostać umorzone tylko wtedy, gdy warunki umarzania są spełnione wobec wszystkich zobowiązanych.
 
-5. Dysponenci części budżetowych mogą upoważnić kierowników podległych jednostek do dokonywania przeniesień wydatków w obrębie jednego rozdziału.
+### Art. 57.
 
-6. Upoważnienie, o którym mowa w ust. 5, nie obejmuje przenoszenia wydatków, na dokonanie których wymagana jest zgoda ministra właściwego do spraw rozwoju regionalnego lub Ministra Finansów.
+Na wniosek dłużnika:
 
-7. Przeniesienia wydatków, o których mowa w ust. 1 i 5, nie mogą zwiększać planowanych wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne ustawy nie stanowią inaczej.
+### 1)
 
-8. Przepisy ust. 1–7 nie mają zastosowania do podziału rezerw budżetu państwa.
+należności mogą być umarzane w części,
 
-9. Ministrowie będący dysponentami więcej niż jednej części budżetowej mogą dokonywać przeniesień wydatków między częściami w ramach jednego działu i rozdziału budżetu państwa. O podjętych decyzjach ministrowie informują niezwłocznie Radę Ministrów. Rada Ministrów może uchylić decyzję ministra.
+### 2)
 
-10. Kierownik jednostki, która zapewnia obsługę więcej niż jednego dysponenta części budżetowej, może dokonywać, za zgodą tych dysponentów, przeniesień wydatków między rozdziałami i paragrafami klasyfikacji wydatków w ramach danego działu budżetu państwa. Przepisy ust. 2–9 stosuje się odpowiednio.
+mogą zostać odroczone terminy spłaty całości lub części należności,
 
-11. Wojewodowie mogą, w celu zapewnienia realizacji zadań z zakresu administracji rządowej oraz innych zadań zleconych odrębnymi ustawami jednostkom samorządu terytorialnego, dokonywać w ramach danej części budżetu państwa przeniesień wydatków między działami, rozdziałami i paragrafami klasyfikacji wydatków, które nie powodują powstania zobowiązania Skarbu Państwa. O dokonanych przeniesieniach wojewodowie informują niezwłocznie Ministra Finansów. Przepisy ust. 3, 3a i 4 stosuje się odpowiednio.
+### 3)
 
-12. Wydatki, które zostały zmniejszone w trakcie roku budżetowego w wyniku przeniesień, o których mowa w ust. 11, nie mogą być zwiększane ze środków rezerw celowych.
+płatność całości lub części należności może zostać rozłożona na raty
 
-**Art. 172.**
+- w przypadkach uzasadnionych względami społecznymi lub gospodarczymi, w szczególności możliwościami płatniczymi dłużnika oraz uzasadnionym interesem Skarbu Państwa.
 
-1. W razie zniesienia lub przekształcenia ministerstwa Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+### Art. 58.
 
-2. Prezes Rady Ministrów w rozporządzeniu, o którym mowa w ust. 1, może określić dla utworzonego lub przekształconego ministerstwa kwoty wynagrodzeń w podziale na części i działy budżetu państwa.
+### 1.
 
-3. Przepisy ust. 1 i 2 stosuje się również w przypadku zniesienia lub przekształcenia, będących dysponentami części budżetowych, organów, urzędów i jednostek organizacyjnych podległych Prezesowi Rady Ministrów albo ministrowi lub przez nich nadzorowanych.
+Do umarzania, odraczania terminów lub rozkładania na raty spłat należności, o których mowa w art. 55, są uprawnieni:
 
-**Art. 173.**
+### 1)
 
-1. Środki z budżetu państwa przeznaczone na finansowanie programów wieloletnich nie mogą być, z zastrzeżeniem ust. 2, wykorzystane na inne cele.
+minister właściwy do spraw Skarbu Państwa - w odniesieniu do należności Skarbu Państwa wynikających ze stosunków prawnych, w zakresie których jest on właściwy;
 
-2. Niewykorzystane środki na finansowanie programów wieloletnich Rada Ministrów może przeznaczyć na finansowanie innych programów wieloletnich lub zobowiązań Skarbu Państwa.
+### 2)
 
-**Art. 174.** Minister Finansów sprawuje ogólną kontrolę:
+kierownik państwowej jednostki budżetowej - w odniesieniu do pozostałych należności przypadających tej jednostce budżetowej, jeżeli wartość należności głównej nie przekracza kwoty 40 000 zł;
 
-**Art. 175.**
+### 3)
 
-1. Dysponenci części budżetowych sprawują nadzór i kontrolę: [1) nad całością gospodarki finansowej podległych im jednostek organizacyjnych, w tym nad dokonywaniem przez te jednostki wstępnej oceny celowości poniesionych wydatków oraz realizacją właściwych procedur;] <1) nad całością gospodarki finansowej podległych im jednostek organizacyjnych, w tym nad dokonywaniem przez te jednostki wstępnej oceny celowości poniesionych wydatków oraz realizacją właściwych procedur, w tym stosowaniem kryteriów oceny inwestycji;>
+dysponent państwowego funduszu celowego - w odniesieniu do należności tego funduszu;
 
-- **2)** wykorzystania dotacji udzielonych z budżetu państwa;
-- **3)** realizacji zadań finansowanych z budżetu państwa;
-- **4)** efektywności i skuteczności realizacji planów w układzie zadaniowym na podstawie mierników stopnia realizacji celów.
+### 4)
 
-2. Przedmiotem nadzoru i kontroli, o których mowa w ust. 1, jest w szczególności:
+dysponent części budżetowej - w pozostałych przypadkach.
 
-- **1)** prawidłowość i terminowość pobierania dochodów;
-- **2)** zgodność wydatków z planowanym przeznaczeniem;
-- **3)** prawidłowość wykorzystania środków finansowych, w tym zakres zrealizowanych zadań;
-- **4)** wysokość i terminy przekazywania dotacji;
-- **5)** prawidłowość wykorzystania dotacji udzielonych z budżetu państwa, pod względem zgodności z przeznaczeniem oraz wysokości wykorzystanej dotacji a stopniem realizacji zadań przewidzianych do sfinansowania dotacją z budżetu państwa.
+### 2.
 
-3. Dysponenci części budżetowych ustalają, w tym w odniesieniu do podległych jednostek organizacyjnych, sposób dokonywania wydatków przy wykorzystaniu służbowych kart płatniczych, w szczególności:
+Umorzenie należności oraz odroczenie terminu spłaty całości lub części należności albo rozłożenie płatności całości lub części należności na raty następuje, w formie pisemnej, na podstawie przepisów prawa cywilnego.
 
-- **1)** funkcje, stanowiska i zakres obowiązków służbowych uprawniających do korzystania ze służbowej karty płatniczej;
-- **2)** tryb i warunki przyznawania służbowej karty płatniczej i ustalania wysokości miesięcznych limitów wydatków;
-- **3)** rodzaje towarów i usług, za które może być dokonywana zapłata za pomocą służbowej karty płatniczej;
-- **4)** przypadki, kiedy może być dokonana wypłata gotówki za pomocą służbowej karty płatniczej;
-- **5)** sposób prowadzenia ewidencji wydanych służbowych kart płatniczych;
-- **6)** sposób i terminy rozliczania płatności dokonanych przy wykorzystaniu służbowej karty płatniczej.
+### 3.
 
-**Art. 175a.**
+W przypadkach, o których mowa w art. 56 ust. 1 pkt 1, 2 i 4, umorzenie należności następuje w formie jednostronnego oświadczenia woli.
 
-1. Minister Finansów może prowadzić przegląd wydatków (kosztów) jednostek sektora finansów publicznych w celu oddziaływania w perspektywie wykraczającej poza rok budżetowy na poziom, strukturę oraz jakość wydatków publicznych, w szczególności stopień, w jakim przyczyniają się one do skutecznej i efektywnej realizacji celów działalności państwa, zwany dalej „przeglądem wydatków”.
+### 4.
 
-2. Minister Finansów nie prowadzi przeglądu wydatków:
+Przepisy ust. 1-3 oraz art. 55-57 stosuje się odpowiednio do umarzania, odraczania lub rozkładania na raty spłat odsetek od tych należności oraz do umarzania, odraczania lub rozkładania na raty spłat innych należności ubocznych.
 
-- **1)** jednostek, o których mowa w art. 9 pkt 2, 2a, 4 i 11 oraz art. 139 ust. 2;
-- **2)** instytucji gospodarki budżetowej utworzonych przez organ lub kierownika jednostki, o których mowa w art. 139 ust. 2;
-- **3)** samorządowych jednostek budżetowych, samorządowych instytucji kultury oraz samorządowych osób prawnych utworzonych na podstawie odrębnych ustaw w celu wykonywania zadań publicznych.
+### 5.
 
-**Art. 175b.**
+Przepisów ust. 1-4 oraz art. 55-57 nie stosuje się do należności, których umarzanie, odraczanie terminów spłaty oraz rozkładanie spłaty na raty określają odrębne przepisy.
 
-1. Przegląd wydatków prowadzi się na podstawie planu przeglądu wydatków sporządzonego przez Ministra Finansów, po zasięgnięciu opinii:
+### 6.
 
-- **1)** dysponentów części budżetowych,
-- **2)** organów nadzorujących jednostki – których wydatki (koszty) będą podlegały przeglądowi wydatków.
+Dysponent części budżetowej lub dysponent państwowego funduszu celowego może wyrazić zgodę na niedochodzenie należności budżetu państwa z tytułu umowy cywilnoprawnej, której kwota wraz z odsetkami nie przekracza 100 zł.
 
-2. W uzasadnionych przypadkach przegląd wydatków może być prowadzony poza planem przeglądu wydatków w porozumieniu z:
+### Art. 59.
 
-- **1)** dysponentem części budżetowej,
-- **2)** organem nadzorującym jednostkę – których wydatki (koszty) będą podlegały przeglądowi wydatków.
+### 1.
 
-3. Plan przeglądu wydatków określa co najmniej:
+W przypadkach uzasadnionych ważnym interesem dłużnika lub interesem publicznym należności pieniężne mające charakter cywilnoprawny, przypadające jednostce samorządu terytorialnego lub jej jednostkom podległym, mogą być umarzane albo ich spłata może być odraczana lub rozkładana na raty, na zasadach określonych przez organ stanowiący jednostki samorządu terytorialnego, z zastrzeżeniem ust. 4.
 
-- **1)** okres, na jaki jest sporządzany;
-- **2)** jednostki, których wydatki będą podlegały przeglądowi wydatków;
-- **3)** zakres przeglądu wydatków.
+### 2.
 
-**Art. 175c.** Minister Finansów sporządza program przeglądu wydatków, który zawiera w szczególności cel i szczegółowy zakres przeglądu wydatków, w porozumieniu z:
+Organ stanowiący jednostki samorządu terytorialnego określi szczegółowe zasady, sposób i tryb udzielania ulg, o których mowa w ust. 1, warunki dopuszczalności pomocy publicznej w przypadkach, w których ulga stanowić będzie pomoc publiczną, oraz wskaże organ lub osobę uprawnione do udzielania tych ulg.
 
-**Art. 175d.**
+### 3.
 
-1. W przeglądzie wydatków uczestniczą, w szczególności dokonują identyfikacji i analizy nakładów oraz efektów wydatkowania środków publicznych:
+Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, postanowić o stosowaniu z urzędu ulg, o których mowa w ust. 1, w przypadku wystąpienia okoliczności wymienionych w art. 56 ust. 1.
 
-- **1)** dysponent części budżetowej,
-- **2)** organ nadzorujący jednostkę – których wydatki (koszty) podlegają przeglądowi wydatków.
+### 4.
 
-2. W przeglądzie wydatków może uczestniczyć Szef Kancelarii Prezesa Rady Ministrów.
+Do należności cywilnoprawnych powstałych w związku z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami stosuje się przepisy art. 55-58, z tym że uprawnienia kierownika państwowej jednostki budżetowej przysługują zarządowi jednostki samorządu terytorialnego.
 
-**Art. 175e.**
+### Art. 60.
 
-1. Minister Finansów dokumentuje przegląd wydatków, w szczególności po jego przeprowadzeniu sporządza raport w porozumieniu z:
+Środkami publicznymi stanowiącymi niepodatkowe należności budżetowe o charakterze publiczno-prawnym są w szczególności następujące dochody budżetu państwa albo budżetu jednostki samorządu terytorialnego:
 
-- **1)** dysponentem części budżetowej, którego wydatki (koszty) podlegały przeglądowi wydatków;
-- **2)** organem nadzorującym jednostkę, której wydatki (koszty) podlegały przeglądowi wydatków;
-- **3)** Szefem Kancelarii Prezesa Rady Ministrów, jeżeli uczestniczył w przeglądzie wydatków.
+### 1)
 
-2. Raport zawiera w szczególności propozycje zmian w zakresie jakości wydatków publicznych oraz wskazuje podmioty odpowiedzialne za ich wdrożenie.
+kwoty dotacji podlegające zwrotowi w przypadkach określonych w niniejszej ustawie;
 
-3. Raport może zawierać propozycje zmian poziomu lub struktury wydatków publicznych.
+### 2)
 
-4. Minister Finansów udostępnia raport:
+należności z tytułu gwarancji i poręczeń udzielonych przez Skarb Państwa i jednostki samorządu terytorialnego;
 
-- **1)** jednostce, której wydatki (koszty) podlegały przeglądowi wydatków;
-- **2)** dysponentowi części budżetowej, którego wydatki (koszty) podlegały przeglądowi wydatków;
-- **3)** organowi nadzorującemu jednostkę, której wydatki (koszty) podlegały przeglądowi wydatków;
-- **4)** Szefowi Kancelarii Prezesa Rady Ministrów, jeżeli uczestniczył w przeglądzie wydatków.
+### 3)
 
-5. Podmioty, o których mowa w ust. 4 pkt 1–3, wykorzystują propozycje zmian, o których mowa w ust. 3, przy opracowaniu materiałów do projektu ustawy budżetowej.
+wpłaty nadwyżek środków obrotowych samorządowych zakładów budżetowych;
 
-6. Minister Finansów monitoruje wykorzystanie propozycji zmian, o których mowa w ust. 2 i 3.
+### 4)
 
-**Art. 175f.** Rada Ministrów określi, w drodze rozporządzenia:
+wpłaty nadwyżek środków finansowych agencji wykonawczych;
 
-**Art. 175g.** Minister Finansów zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego wytyczne w zakresie prowadzenia przeglądu wydatków.
+### 5)
 
-**Art. 175h.** W związku z prowadzonym przeglądem wydatków jednostki, których wydatki (koszty) podlegają przeglądowi wydatków, dysponenci części budżetowych, których wydatki (koszty) podlegają przeglądowi wydatków, oraz organy nadzorujące jednostki, których wydatki (koszty) podlegają przeglądowi wydatków, przekazują Ministrowi Finansów, na jego żądanie, dokumenty, informacje i dane dotyczące:
+wpłaty środków z tytułu rozliczeń realizacji programów przedakcesyjnych;
 
-**Art. 176.**
+### 6)
 
-1. Minister Finansów może dokonać oceny planowania i gospodarowania środkami publicznymi w jednostkach sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, i jednostek samorządu terytorialnego.
+należności z tytułu zwrotu płatności dokonanych w ramach programów finansowanych z udziałem środków europejskich;
 
-2. Ocenę, o której mowa w ust. 1, przeprowadzają osoby upoważnione przez Ministra Finansów.
+### 7)
 
-3. Podczas przeprowadzania oceny planowania i gospodarowania środkami publicznymi osoby upoważnione przez Ministra Finansów kierują się wskazówkami zawartymi w standardach audytu wewnętrznego, o których mowa w art. 273 ust. 1.
+dochody pobierane przez państwowe i samorządowe jednostki budżetowe na podstawie odrębnych ustaw;
 
-4. Osoby upoważnione przez Ministra Finansów mają prawo wstępu do pomieszczeń jednostki oraz wglądu do wszelkich dokumentów, informacji i danych oraz do innych materiałów związanych z funkcjonowaniem jednostki, w tym zawartych na elektronicznych nośnikach danych, jak również do wykonywania z nich kopii, odpisów, wyciągów, zestawień lub wydruków, z zachowaniem przepisów o tajemnicy ustawowo chronionej.
+### 8)
 
-5. Pracownicy jednostki, w której przeprowadzana jest ocena, są obowiązani udzielać informacji i wyjaśnień, a także potwierdzać kopie, odpisy, wyciągi lub zestawienia, o których mowa w ust. 4.
+pobrane przez jednostkę samorządu terytorialnego dochody związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego odrębnymi ustawami i nieodprowadzone na rachunek dochodów budżetu państwa.
 
-**Art. 177.**
+### Art. 61.
 
-1. W przypadku stwierdzenia:
+### 1.
 
-- **1)** niegospodarności w określonych jednostkach,
-- **2)** opóźnień w realizacji zadań,
-- **3)** nadmiaru posiadanych środków,
-- **4)** naruszenia zasad gospodarki finansowej, o których mowa w art. 162 – może być podjęta decyzja o blokowaniu planowanych wydatków budżetowych.
+Organami pierwszej instancji właściwymi do wydawania decyzji w odniesieniu do należności, o których mowa w art. 60, o ile odrębne ustawy nie stanowią inaczej, są:
 
-1a. W zakresie budżetu środków europejskich decyzja o blokowaniu planowanych wydatków może być podjęta do dnia 15 grudnia roku budżetowego.
+### 1)
 
-2. Blokowanie planowanych wydatków budżetowych oznacza obowiązujący do końca roku zakaz dysponowania częścią lub całością planowanych wydatków.
+w stosunku do należności budżetu państwa - minister, wojewoda oraz inni dysponenci części budżetowych, a w przypadku płatności w ramach programów finansowanych ze środków europejskich - instytucje zarządzające, pośredniczące lub wdrażające, będące jednostkami sektora finansów publicznych, jeżeli instytucja pośrednicząca lub wdrażająca posiada upoważnienie od instytucji zarządzającej, lub - w przypadku instytucji wdrażającej - od instytucji pośredniczącej;
 
-3. Decyzje o blokowaniu planowanych wydatków, w przypadkach określonych w ust. 1, podejmują:
+### 2)
 
-- **1)** Minister Finansów – w zakresie całego budżetu państwa, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2;
-- **2)** dysponenci części budżetowych – w zakresie ich części budżetu państwa.
+w stosunku do należności budżetów jednostek samorządu terytorialnego - wójt, burmistrz, prezydent miasta, starosta albo marszałek województwa.
 
-4. Dysponenci części budżetowych niezwłocznie informują Ministra Finansów o decyzjach, o których mowa w ust. 3 pkt 2, dotyczących planowanych wydatków z budżetu środków europejskich.
+### 2.
 
-5. Decyzje, o których mowa w ust. 3 pkt 2, dotyczące planowanych wydatków z budżetu środków europejskich zawierają wykaz wydatków, które nie mogą być dokonywane, oraz wskazują programy albo programy operacyjne, w których wydatki zostały zablokowane.
+Od decyzji wydanej w pierwszej instancji przysługuje odwołanie.
 
-6. Minister Finansów, po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu, może utworzyć nową rezerwę celową i przenieść do tej rezerwy kwoty wydatków zablokowane na podstawie ust. 1 pkt 2 i 3.
+### 3.
 
-7. Rezerwę, o której mowa w ust. 6, przeznacza się na sfinansowanie zobowiązań Skarbu Państwa lub na cele osobno wskazane w ustawie budżetowej.
+Organami odwoławczymi są:
 
-8. (uchylony)
+### 1)
 
-**Art. 177a.**
+Minister Finansów - od decyzji wydanej w pierwszej instancji przez wojewodę;
 
-1. W celu realizacji zadań związanych z:
+### 2)
 
-- **1)** przeciwdziałaniem klęskom żywiołowym i usuwaniem ich skutków,
-- **2)** przeciwdziałaniem i usuwaniem skutków epidemii,
-- **3)** przeciwdziałaniem zdarzeniom bezpośrednio zagrażającym bezpieczeństwu państwa związanym z sytuacją geopolityczną oraz usuwaniem ich skutków – Prezes Rady Ministrów może wydać Ministrowi Finansów polecenie utworzenia nowej rezerwy celowej i przeniesienia do tej rezerwy kwot wydatków zablokowanych na podstawie art. 177 ust. 1.
+organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju ([Dz. U. z 2009 r. Nr 84, poz. 712](https://api.sejm.gov.pl/eli/acts/DU/2009/712/text.html)), zwanej dalej „ustawą o zasadach prowadzenia polityki rozwoju” - od decyzji wydanej przez instytucję pośredniczącą lub wdrażającą;
 
-2. Utworzenie rezerwy, o której mowa w ust. 1, może nastąpić w terminie do dnia 20 grudnia roku budżetowego i nie wymaga uzyskania opinii sejmowej komisji właściwej do spraw budżetu.
+### 3)
 
-3. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisu art. 170 ust. 1.
+organ pełniący funkcję instytucji zarządzającej w rozumieniu ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego ([Dz. U. Nr 72, poz. 619](https://api.sejm.gov.pl/eli/acts/DU/2009/619/text.html)) - od decyzji wydanej przez instytucję pośredniczącą;
 
-4. Podziału rezerwy, o której mowa w ust. 1, dokonuje Minister Finansów na wniosek właściwego ministra.
+### 4)
 
-**Art. 178.**
+samorządowe kolegium odwoławcze - od decyzji, o których mowa w ust. 1 pkt 2;
 
-1. W przypadku stwierdzenia okoliczności, o których mowa w art. 177 ust. 1, dotyczących wydatkowania środków przeznaczonych na programy finansowane z udziałem środków europejskich, z wyłączeniem programów finansowanych z udziałem środków Europejskiego Funduszu Rybackiego, Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury oraz środków, o których mowa w art. 5 ust. 3 pkt 4, Minister Finansów, na wniosek odpowiednio ministra właściwego do spraw rozwoju regionalnego lub ministra właściwego do spraw zabezpieczenia społecznego, może utworzyć nową rezerwę celową i przenieść do niej zablokowane kwoty wydatków, po poinformowaniu sejmowej komisji właściwej do spraw budżetu.
+### 5)
 
-2. Rezerwę, o której mowa w ust. 1, przeznacza się na te programy, w których realizacji nie występują opóźnienia.
+organ wyższego stopnia - od decyzji wydanej przez inny organ lub innego dysponenta części budżetowej.
 
-**Art. 179.**
+### 4.
 
-1. W przypadku zagrożenia realizacji ustawy budżetowej może nastąpić blokowanie na czas oznaczony planowanych wydatków budżetu państwa.
+Od decyzji wydanej w pierwszej instancji przez ministra lub instytucję zarządzającą nie służy odwołanie, jednakże strona niezadowolona z decyzji może zwrócić się do tego organu z wnioskiem o ponowne rozpatrzenie sprawy.
 
-2. Blokowanie planowanych wydatków budżetu państwa, o którym mowa w ust. 1, oznacza wstrzymanie przekazywania środków na realizację zadań finansowanych z budżetu państwa lub okresowy albo obowiązujący do końca roku zakaz dysponowania częścią lub całością planowanych wydatków.
+### 5.
 
-3. Blokowanie, o którym mowa w ust. 2, nie może dotyczyć subwencji ogólnej dla samorządu terytorialnego oraz subwencji dla podmiotów systemu szkolnictwa wyższego i nauki.
+Do wniosku, o którym mowa w ust. 4, stosuje się odpowiednio przepisy dotyczące odwołań od decyzji.
 
-4. Rada Ministrów po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu podejmuje, w drodze rozporządzenia, decyzję o blokowaniu wydatków.
+### Art. 62.
 
-5. W rozporządzeniu, o którym mowa w ust. 4, Rada Ministrów określa w szczególności:
+### 1.
 
-- **1)** część budżetu państwa,
-- **2)** łączną kwotę wydatków, która podlega blokowaniu – uwzględniając stopień zagrożenia realizacji poszczególnych zadań oraz stopień zagrożenia realizacji ustawy budżetowej.
+Zobowiązania z tytułu należności, o których mowa w art. 60, oraz zobowiązania wraz z odsetkami za zwłokę stanowiące dochód budżetu państwa podlegają, na wniosek zobowiązanego, potrąceniu z wzajemnej, bezspornej i wymagalnej wierzytelności zobowiązanego wobec Skarbu Państwa z tytułu:
 
-6. Szczegółową klasyfikację wydatków, które podlegają blokowaniu, ustala dysponent części budżetowej.
+### 1)
 
-**Art. 180.** W przypadku wprowadzenia stanu nadzwyczajnego na terytorium państwa lub na jego części Rada Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych wydatków budżetowych między częściami i działami budżetu państwa w celu realizacji zadań wynikających z przepisów dotyczących wprowadzenia tego stanu.
+prawomocnego wyroku sądowego wydanego na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075.](#gloss-0:3:)), zwanej dalej „Kodeksem cywilnym”;
 
-**Art. 180a.** W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, Rada Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych wydatków budżetowych między częściami i działami budżetu państwa w celu wsparcia realizacji zadań wynikających z przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, uwzględniając wysokość oraz rodzaj koniecznego wsparcia i bieżące wykonanie wydatków w poszczególnych częściach i działach budżetu państwa.
+### 2)
 
-**Art. 180b.** W przypadku uruchomienia Planu zabezpieczenia potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców, o którym mowa w art. 651 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, Rada Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych wydatków budżetowych między częściami i działami budżetu państwa w celu wsparcia realizacji zadań wynikających z ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, uwzględniając wysokość oraz rodzaj koniecznego wsparcia i bieżące wykonanie wydatków w poszczególnych częściach i działach budżetu państwa.
+prawomocnej ugody sądowej zawartej w związku z zaistnieniem okoliczności przewidzianych w art. 417 Kodeksu cywilnego;
 
-**Art. 181.**
+### 3)
 
-1. Niezrealizowane kwoty wydatków budżetu państwa wygasają, z zastrzeżeniem ust. 2 i 9, z upływem roku budżetowego.
+nabycia przez Skarb Państwa nieruchomości na cele uzasadniające jej wywłaszczenie lub wywłaszczenia nieruchomości na podstawie przepisów o gospodarce nieruchomościami;
 
-2. Nie później niż do dnia 15 grudnia roku budżetowego Rada Ministrów może ustalić, w drodze rozporządzenia, po uzyskaniu w tej sprawie opinii sejmowej komisji właściwej do spraw budżetu, wykaz oraz plan finansowy wydatków, do których nie stosuje się przepisów ust. 1, w szczegółowości określonej w art. 116 ust. 2, i ostateczny termin ich dokonania, nie dłuższy niż 31 marca następnego roku budżetowego.
+### 4)
 
-3. Wydając rozporządzenie, o którym mowa w ust. 2, Rada Ministrów uwzględni terminy zakończenia procedur wynikających z przepisów o zamówieniach publicznych, stopień zaawansowania realizacji programów wieloletnich, a w przypadku wydatków inwestycyjnych – zrealizowany, ale niezafakturowany zakres zadań rzeczowych danej inwestycji.
+odszkodowania za niesłuszne skazanie, tymczasowe aresztowanie lub zatrzymanie, uzyskanego na podstawie ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051 i Nr 144, poz. 1178.](#gloss-0:4:));
 
-4. W wykazie, o którym mowa w ust. 2, nie mogą być ujęte wydatki, które w toku realizacji budżetu zostały zwiększone w trybie art. 171 ust. 3 lub 4 lub art. 173 ust. 2.
+### 5)
 
-5. Środki finansowe na wydatki, o których mowa w ust. 2, Minister Finansów, do dnia 31 grudnia roku budżetowego, przekazuje na wyodrębniony rachunek wydatków centralnego rachunku bieżącego budżetu państwa.
+odszkodowania uzyskanego na podstawie przepisów o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego;
 
-6. (uchylony)
+### 6)
 
-7. (uchylony)
+odszkodowania orzeczonego w decyzji organu administracji rządowej.
 
-8. Środki finansowe niewykorzystane w terminie określonym przez Radę Ministrów podlegają przekazaniu na dochody budżetu państwa na wyodrębniony rachunek dochodów centralnego rachunku bieżącego budżetu państwa w terminie 21 dni od dnia określonego w rozporządzeniu wydanym na podstawie ust. 2.
+### 2.
 
-9. Minister Finansów może, na wniosek dysponenta części budżetowej, wyrazić zgodę na regulowanie zobowiązań wymagalnych według stanu na dzień 31 grudnia roku ubiegłego w ciężar planu wydatków tego roku w terminie do 9 dni roboczych roku następnego.
+Przepis ust. 1 stosuje się również do wzajemnych, bezspornych i wymagalnych wierzytelności zobowiązanego wobec państwowych jednostek budżetowych z tytułu zamówień wykonanych przez niego na podstawie umów zawartych w trybie przepisów o zamówieniach publicznych, pod warunkiem że potrącenie jest dokonywane przez tego zobowiązanego i z tej wierzytelności.
 
-**Art. 182.**
+### 3.
 
-1. Wykonanie ustawy budżetowej podlega kontroli Sejmu.
+Potrącenia z tytułów wymienionych w ust. 1 i 2 można również dokonać z urzędu.
 
-2. Rada Ministrów przedstawia Sejmowi i Najwyższej Izbie Kontroli, w terminie do dnia 31 maja roku następnego, roczne sprawozdanie z wykonania ustawy budżetowej oraz:
+### 4.
 
-- **1)** sprawozdanie o dochodach i wydatkach związanych z zadaniami z zakresu administracji rządowej, realizowanymi przez jednostki samorządu terytorialnego, i innymi zadaniami zleconymi jednostkom samorządu terytorialnego odrębnymi ustawami;
-- **2)** zbiorczą informację o wykonaniu budżetów jednostek samorządu terytorialnego;
-- **3)** ocenę realizacji scenariusza makroekonomicznego;
-- **4)** (uchylony)
-- **5)** informację o wykonaniu wydatków w układzie zadaniowym.
+Potrącenie następuje z dniem:
 
-3. Sprawozdanie z wykonania ustawy budżetowej powinno zawierać:
+### 1)
 
-- **1)** omówienie wyniku sektora instytucji rządowych i samorządowych;
-- **2)** dochody i wydatki wynikające z zamknięć rachunków budżetu państwa, sporządzone według szczegółowości i układu ustawy budżetowej;
-- **2a)** wykonanie planów finansowych, o których mowa w art. 32a ust. 1 i art. 122 ust. 1 pkt 1;
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony)
+złożenia wniosku, który został uwzględniony;
 
-4. Do sprawozdania dołącza się:
+### 2)
 
-- **1)** omówienie wykonania budżetu państwa, z uwzględnieniem różnic między wielkościami uchwalonymi a wykonanymi;
-- **2)** informację o realizacji wydatków, które nie wygasły z upływem roku budżetowego;
-- **3)** omówienie wielkości zasobów własnych Unii Europejskiej, z uwzględnieniem różnic między wielkościami uchwalonymi a wykonanymi;
-- **4)** informacje dotyczące otrzymanych i wydatkowanych środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
-- **5)** (uchylony)
-- **6)** informację o realizacji kwoty wydatków obliczonej zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3 oraz kwoty limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **6a)** informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego;
-- **6b)** informację o wykonaniu planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
-- **7)** (uchylony) 4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.
+wydania z urzędu postanowienia o potrąceniu.
 
-4b. (uchylony)
+### 5.
 
-5. Zbiorcza informacja o wykonaniu budżetów jednostek samorządu terytorialnego powinna zawierać, odrębnie dla każdego stopnia jednostki samorządu terytorialnego:
+Odmowa potrącenia następuje w drodze decyzji.
 
-- **1)** zestawienie dochodów według ważniejszych źródeł;
-- **2)** zestawienie wydatków według działów;
-- **3)** zestawienie wydatków według ważniejszych rodzajów wydatków;
-- **4)** zestawienie przychodów i kosztów samorządowych zakładów budżetowych;
-- **5)** omówienie wykonania budżetów jednostek samorządu terytorialnego;
-- **6)** kwotę nadwyżki albo deficytu jednostek samorządu terytorialnego.
+### 6.
 
-6. Informacja o wykonaniu wydatków w układzie zadaniowym, z wyodrębnieniem wydatków na programy wieloletnie, powinna zawierać:
+Potrącenie następuje w drodze postanowienia, na które służy zażalenie.
 
-- **1)** (uchylony)
-- **2)** omówienie i zestawienie planowanych i poniesionych wydatków oraz planowanych i osiągniętych wartości mierników stopnia realizacji celów sporządzane w układzie zadań budżetowych określonych w art. 2 pkt 3.
+### 7.
 
-7. Do sprawozdania, o którym mowa w ust. 2, Rada Ministrów dołącza:
+Jednostka budżetowa, której zobowiązanie zostało potrącone z wierzytelności zobowiązanego, jest zobowiązana wpłacić równowartość wygasłego zobowiązania do właściwego organu w terminie 7 dni od dnia dokonania potrącenia. Od niewpłaconej w terminie równowartości wygasłego zobowiązania nalicza się odsetki ustawowe.
 
-- **1)** sprawozdanie dotyczące przestrzegania zasady stanowiącej, że kwota państwowego długu publicznego nie może przekroczyć 60 % wartości rocznego produktu krajowego brutto w danym roku budżetowym;
-- **2)** informację dotyczącą długu, poręczeń i gwarancji sektora finansów publicznych, o których mowa w art. 38;
-- **3)** omówienie przyczyn przekroczenia kwoty limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **4)** opinię, o której mowa w art. 112ac ust. 1.
+### Art. 63.
 
-**Art. 183.** Minister Finansów przedstawia sejmowej komisji właściwej do spraw budżetu i Najwyższej Izbie Kontroli informację o przebiegu wykonania ustawy budżetowej za pierwsze półrocze w terminie do dnia 10 września tego roku.
+### 1.
 
-#### Rozdział 6 Wykonywanie budżetu środków europejskich
+Uprawnienie, o którym mowa w art. 62 ust. 1, przysługuje również zobowiązanemu w stosunku do gminy, powiatu lub województwa, z tytułu:
 
-**Art. 184.**
+### 1)
 
-1. Wydatki związane z realizacją programów i projektów finansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, są dokonywane zgodnie z procedurami określonymi w umowie międzynarodowej lub innymi procedurami obowiązującymi przy ich wykorzystaniu.
+nabycia przez gminę, powiat lub województwo nieruchomości na cele uzasadniające jej wywłaszczenie lub wywłaszczenia nieruchomości na podstawie odrębnych ustaw;
 
-2. Przy wydatkowaniu środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 lit. c i d, a także środków przeznaczonych na realizację programów finansowanych z tych środków, stosuje się odpowiednio zasady rozliczania określone dla dotacji z budżetu państwa.
+### 2)
 
-**Art. 185.** W trakcie wykonywania budżetu środków europejskich wydatki dokonywane w ramach płatności są klasyfikowane w podziale na części, działy, rozdziały i paragrafy klasyfikacji wydatków.
+odszkodowania orzeczonego w decyzji wydanej przez wójta, burmistrza, prezydenta miasta, starostę lub marszałka województwa.
 
-**Art. 186.** Wydatki na realizację programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, mogą być przeznaczone na:
+### 2.
 
-**Art. 187.** Za obsługę płatności w ramach programów finansowanych z udziałem środków europejskich, zwanych dalej „płatnościami”, odpowiada Minister Finansów.
+Przepisy art. 62 ust. 2-7 stosuje się odpowiednio.
 
-**Art. 188.**
+### Art. 64.
 
-1. Podstawą dokonania płatności na rzecz beneficjenta jest zlecenie płatności wystawione przez instytucję, z którą beneficjent zawarł umowę o dofinansowanie projektu, oraz pisemna zgoda dysponenta części budżetowej na dokonanie płatności, z zastrzeżeniem, że w przypadku gdy projekt realizuje instytucja zarządzająca lub instytucja pośrednicząca będąca zarządem województwa lub przez zarząd województwa upoważniona, zlecenia płatności są wystawiane przez zarząd województwa.
+### 1.
 
-1a. Instytucja, o której mowa w ust. 1, może, za zgodą dysponenta części budżetowej, upoważnić pisemnie inny podmiot będący państwową jednostką budżetową lub agencją wykonawczą, realizujący projekt finansowany z udziałem środków europejskich, do wystawiania zleceń płatności.
+Właściwy organ, na wniosek zobowiązanego, może udzielać określonych w art. 55 ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60.
 
-2. Dysponent części budżetowej może upoważnić na piśmie instytucję, o której mowa w ust. 1, lub podmiot, o którym mowa w ust. 1a, do wydawania zgody na dokonywanie płatności.
+### 2.
 
-3. Przepis ust. 1 stosuje się odpowiednio do decyzji, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów.
+Właściwy organ, na wniosek zobowiązanego prowadzącego działalność gospodarczą, może udzielać określonych w art. 55 ulg w spłacie zobowiązań z tytułu należności, o których mowa w art. 60 pkt 1-6, które:
 
-4. Instytucja, o której mowa w ust. 1, informuje właściwego dysponenta części budżetowej o zleceniach płatności przekazywanych do Banku Gospodarstwa Krajowego, a w przypadku programów finansowanych z udziałem środków europejskich, dla których instytucją zarządzającą lub pośredniczącą jest zarząd województwa, także zarząd województwa.
+### 1)
 
-5. Płatności mogą być przekazywane na rachunek beneficjenta, podmiotu upoważnionego przez beneficjenta lub wykonawcy.
+nie stanowią pomocy publicznej;
 
-6. Minister Finansów w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego, ministrem właściwym do spraw zabezpieczenia społecznego oraz ministrem właściwym do spraw rybołówstwa określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** wzór zlecenia płatności,
-- **2)** zakres, terminy i tryb przekazywania przez Bank Gospodarstwa Krajowego informacji dotyczących płatności,
-- **3)** wzory, zakres, terminy i tryb przekazywania informacji przez instytucję, o której mowa w ust. 1, do dysponenta części budżetowej lub do zarządu województwa – mając na względzie sprawność realizacji płatności, wymogi prowadzenia przez dysponentów części budżetowych ewidencji księgowej wydatków w ramach programów oraz zapewnienie skutecznej kontroli nad środkami przekazanymi do Banku Gospodarstwa Krajowego.
+stanowią pomoc de minimis - w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa Wspólnot Europejskich dotyczących pomocy w ramach zasady de minimis;
 
-**Art. 189.**
+### 3)
 
-1. Zlecenie płatności może dotyczyć kwoty wydatków kwalifikowalnych zgodnie z kryteriami określonymi na podstawie ustawy o zasadach prowadzenia polityki rozwoju albo ustawy o zasadach realizacji programów, albo ustawy o zasadach realizacji programów 2021–2027, albo ustawy o pomocy społecznej, albo rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1316/2013 z dnia 11 grudnia 2013 r. ustanawiającego instrument „Łącząc Europę”, zmieniającego rozporządzenie (UE) nr 913/2010 oraz uchylającego rozporządzenia (WE) nr 680/2007 i (WE) nr 67/2010, albo rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1153 z dnia 7 lipca 2021 r. ustanawiającego instrument „Łącząc Europę” i uchylającego rozporządzenia (UE) nr 1316/2013 i (UE) nr 283/2014, a w przypadku programów finansowanych z udziałem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury albo Europejskiego Funduszu Morskiego i Rybackiego, albo Europejskiego Funduszu Rybackiego – na podstawie odpowiednio ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 albo ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, albo ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, wynikającej z wniosku o płatność, zweryfikowanego pozytywnie przez instytucję, o której mowa w art. 188 ust. 1.
+stanowią pomoc publiczną:
 
-2. Instytucja, o której mowa w art. 188 ust. 1, może wystawić zlecenie dokonania płatności zaliczkowej dla beneficjenta.
+### a)
 
-3. W przypadku niezłożenia wniosku o płatność na kwotę wydatków kwalifikowalnych lub niezwrócenia niewykorzystanej części zaliczki w terminie 14 dni od dnia upływu terminu, o którym mowa w przepisach wydanych na podstawie ust. 4–4b, od środków pozostałych do rozliczenia, przekazanych w ramach zaliczki, nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, liczone od dnia przekazania środków do dnia złożenia wniosku o płatność lub do dnia zwrócenia niewykorzystanej części zaliczki.
+udzielaną w celu naprawienia szkód wyrządzonych przez klęski żywiołowe lub inne nadzwyczajne zdarzenia,
 
-3a. W przypadku stwierdzenia okoliczności, o których mowa w ust. 3, instytucja, która podpisała umowę z beneficjentem, wzywa go do:
+### b)
 
-- **1)** zapłaty odsetek lub
-- **2)** wyrażenia zgody na pomniejszenie kolejnych płatności – w terminie 14 dni od dnia doręczenia wezwania.
+udzielaną w celu zapobieżenia poważnym zakłóceniom w gospodarce o charakterze ponadsektorowym lub ich likwidacji,
 
-3b. Po bezskutecznym upływie terminu, o którym mowa w ust. 3a, organ pełniący funkcję instytucji zarządzającej, instytucji pośredniczącej albo instytucji wdrażającej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju albo ustawy o zasadach realizacji programów, albo ustawy o zasadach realizacji programów 2021–2027, albo ustawy o pomocy społecznej albo organ pełniący funkcję instytucji zarządzającej lub instytucji pośredniczącej w rozumieniu ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 lub ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, lub ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego wydaje decyzję o zapłacie odsetek określającą:
+### c)
 
-- **1)** kwotę środków, od których nalicza się odsetki;
-- **2)** termin, od którego nalicza się odsetki, a także sposób ich zapłaty. Przepis art. 207 ust. 2 stosuje się odpowiednio.
+udzielaną w celu wsparcia krajowych przedsiębiorców działających w ramach przedsięwzięcia gospodarczego podejmowanego w interesie europejskim,
 
-3c. Decyzji, o której mowa w ust. 3b, nie wydaje się, jeżeli przed jej wydaniem dokonano zapłaty odsetek oraz środki, od których te odsetki zostały naliczone, beneficjent rozliczył w sposób określony w przepisach wydanych na podstawie ust. 4–4b.
+### d)
 
-3d. Instytucja zarządzająca lub instytucja pośrednicząca mogą, na podstawie porozumienia lub umowy, o których mowa w art. 27 i art. 32 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 10 ust. 1 i 2 ustawy o zasadach realizacji programów, albo w art. 9 ust. 1 i 2 ustawy o zasadach realizacji programów 2021– 2027, upoważnić instytucję wdrażającą będącą jednostką sektora finansów publicznych do wydawania decyzji, o której mowa w ust. 3b.
+udzielaną w celu promowania i wspierania kultury i dziedzictwa narodowego, nauki oraz oświaty,
 
-3e. Od decyzji, o której mowa w ust. 3b, wydanej przez instytucję pośredniczącą lub instytucję wdrażającą, o której mowa w ust. 3d, służy odwołanie odpowiednio do właściwej instytucji zarządzającej albo, jeżeli rozpatrywanie odwołań od decyzji instytucji wdrażającej zostało powierzone instytucji pośredniczącej – instytucji pośredniczącej. W przypadku wydania decyzji w pierwszej instancji przez instytucję zarządzającą służy wniosek o ponowne rozpatrzenie sprawy do tej instytucji.
+### e)
 
-3f. (uchylony)
+będącą rekompensatą za świadczenie usług w ogólnym interesie gospodarczym powierzonych na podstawie odrębnych przepisów,
 
-4. Minister właściwy do spraw rozwoju regionalnego w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, warunki i tryb udzielania oraz rozliczania zaliczek, w tym zwrotu środków pochodzących z dotacji z budżetu państwa i jednostek samorządu terytorialnego, a także terminy składania wniosków o płatność oraz ich zakres, uwzględniając rodzaje beneficjentów i sposób wdrażania działań w ramach programu finansowanego z udziałem środków europejskich.
+### f)
 
-4a. Minister właściwy do spraw rybołówstwa w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, warunki i tryb udzielania oraz rozliczania zaliczek, w tym zwrotu środków pochodzących z dotacji z budżetu państwa, a także terminy składania wniosków o płatność oraz ich zakres w ramach programu finansowanego z udziałem środków Europejskiego Funduszu Morskiego i Rybackiego, uwzględniając rodzaje beneficjentów i sposób wdrażania działań w ramach programu finansowanego z udziałem środków Europejskiego Funduszu Morskiego i Rybackiego.
+na szkolenia,
 
-4b. Minister właściwy do spraw rybołówstwa w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, warunki i tryb udzielania oraz rozliczania zaliczek, w tym zwrotu środków pochodzących z dotacji z budżetu państwa, a także terminy składania wniosków o płatność oraz ich zakres w ramach programu finansowanego z udziałem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, uwzględniając rodzaje beneficjentów i sposób wdrażania działań w ramach programu finansowanego z udziałem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury.
+### g)
 
-5. W przypadku programów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2, udzielenie, wypłata i rozliczenie zaliczki następuje w terminach i na warunkach określonych w umowie o dofinansowanie, z uwzględnieniem wytycznych państw darczyńców lub umów zawartych z tymi państwami.
+na zatrudnienie,
 
-6. Przepisy ust. 1–4 stosuje się odpowiednio do projektów realizowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 2.
+### h)
 
-**Art. 190.** W przypadku gdy beneficjentem projektu finansowanego ze środków europejskich jest jednostka sektora finansów publicznych:
+na rozwój małych i średnich przedsiębiorstw,
 
-**Art. 191.**
+### i)
 
-1. Instytucja, o której mowa w art. 188 ust. 1, przekazuje dysponentowi części budżetowej lub do zarządu województwa, w terminie do 5 dnia każdego miesiąca, zbiorcze harmonogramy wydatków wynikających z podpisanych umów, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej, albo w art. 21 ust. 1 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027, albo w art. 17 ust. 1 i w art. 19 ust. 1 pkt 3 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów.
+na restrukturyzację,
 
-2. Przepisy ust. 1 stosuje się odpowiednio do zbiorczych harmonogramów wydatków wynikających z decyzji, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów.
+### j)
 
-3. Przepisy ust. 1 stosuje się odpowiednio do zbiorczych harmonogramów wydatków wynikających z umów o dofinansowanie projektów finansowanych ze środków pochodzących z instrumentu „Łącząc Europę”.
+na ochronę środowiska,
 
-**Art. 192.**
+### k)
 
-1. Minister Finansów przekazuje na rachunki w Banku Gospodarstwa Krajowego środki na płatności na rzecz beneficjentów, w przypadku wspólnej polityki rolnej – na rzecz agencji płatniczej, o której mowa w odrębnych ustawach, a w przypadku planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy o zasadach prowadzenia polityki rozwoju – na rzecz Polskiego Funduszu Rozwoju Spółka Akcyjna z siedzibą w Warszawie, zwanego dalej „PFR”.
+na prace badawczo-rozwojowe,
 
-2. Kwota środków, o których mowa w ust. 1, nie może być wyższa niż łączny limit wydatków dla programów finansowanych z udziałem środków europejskich, określony w budżecie środków europejskich.
+### l)
 
-3. Bank Gospodarstwa Krajowego może prowadzić obsługę wypłat na współfinansowanie realizacji programów i projektów finansowanych z udziałem środków europejskich, w ramach umowy zawartej z właściwym dysponentem części budżetowej.
+regionalną.
 
-4. Właściwy dysponent części budżetowej może zlecić Bankowi Gospodarstwa Krajowego dokonywanie wypłat, o których mowa w ust. 3, i przekazać środki na rachunek prowadzony przez ten Bank.
+### 3.
 
-5. Minister właściwy do spraw rozwoju regionalnego przekazuje Ministrowi Finansów kwartalne prognozy płatności w ramach programów finansowanych z udziałem środków europejskich w terminie do 15 dnia miesiąca poprzedzającego dany kwartał. W odniesieniu do programu finansowanego ze środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury albo Europejskiego Funduszu Morskiego i Rybackiego, albo Europejskiego Funduszu Rybackiego prognozy przekazuje minister właściwy do spraw rybołówstwa, w odniesieniu do środków, o których mowa w art. 5 ust. 3 pkt 4 – minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych, a w odniesieniu do środków, o których mowa w art. 5 ust. 3 pkt 5b – minister właściwy do spraw zabezpieczenia społecznego.
+Ulgi w spłacie zobowiązań, określone w art. 55, w przypadku wymienionym w ust. 2 pkt 3 lit. a mogą być udzielane jako pomoc indywidualna albo w ramach programów pomocowych określonych w odrębnych przepisach.
 
-6. Minister Finansów informuje ministra właściwego do spraw rozwoju regionalnego, ministra właściwego do spraw rybołówstwa oraz ministra właściwego do spraw zabezpieczenia społecznego o kwocie środków wypłaconych przez Bank Gospodarstwa Krajowego beneficjentom w ramach programów finansowanych z udziałem środków europejskich, z wyłączeniem środków, o których mowa w art. 5 ust. 3 pkt 4, w terminie do 15 dnia miesiąca następującego po miesiącu, w którym dokonano płatności.
+### 4.
 
-7. Minister Finansów informuje niezwłocznie ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw rozwoju wsi i ministra właściwego do spraw rybołówstwa o kwocie środków przekazanych przez Komisję Europejską w związku z realizacją programów finansowanych z udziałem środków europejskich oraz o odsetkach narosłych od tych środków w ramach poszczególnych programów.
+Ulgi w spłacie zobowiązań, określone w art. 55, w przypadku wymienionym w ust. 2 pkt 3 lit. b-e, lit. j oraz lit. k mogą być udzielane jako pomoc indywidualna zgodna z programami rządowymi lub samorządowymi albo pomoc udzielana w ramach programów pomocowych określonych w odrębnych przepisach.
 
-**Art. 193.**
+### Art. 65.
 
-1. Jednostki realizujące program finansowany z udziałem środków europejskich mogą zaciągać zobowiązania, rozumiane jako suma limitów wydatków wynikających z decyzji o dofinansowaniu lub umów z beneficjentami programów finansowanych z udziałem środków europejskich, do wysokości łącznej kwoty wydatków określonych dla całego programu, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 122 ust. 1 pkt 2 lit. c.
+Do odpowiedzialności solidarnej za zobowiązania z tytułu należności, o których mowa w art. 60 pkt 1-6, stosuje się przepisy Kodeksu cywilnego.
 
-2. Minister właściwy do spraw rozwoju regionalnego przedstawia Radzie Ministrów, w terminie do końca miesiąca następującego po zakończeniu kwartału, informacje o wysokości zobowiązań wynikających z zawartych z beneficjentami umów w ramach poszczególnych programów, wysokości środków przekazanych beneficjentom i planowanych do przekazania do końca roku budżetowego.
+### Art. 66.
 
-3. Rada Ministrów, na wniosek Ministra Finansów zaopiniowany przez ministra właściwego do spraw rozwoju regionalnego, może podjąć decyzję o wstrzymaniu zaciągania zobowiązań w ramach danego programu w przypadku zagrożenia wykonania planu dochodów budżetu z tytułu realizacji programów finansowanych ze środków europejskich, określonych w ustawie budżetowej.
+Do egzekucji należności, o których mowa w art. 60, mają zastosowanie przepisy o postępowaniu egzekucyjnym w administracji.
 
-4. Na wniosek instytucji zarządzającej lub organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, minister właściwy do spraw rozwoju regionalnego, w porozumieniu z Ministrem Finansów, może wyrazić zgodę na zaciągnięcie zobowiązań przekraczających łączną kwotę wydatków programu, o której mowa w ust. 1.
+### Art. 67.
 
-5. Maksymalny udział budżetu państwa w finansowaniu wydatków w ramach programu operacyjnego nie może przekroczyć wieloletniego limitu zobowiązań budżetu państwa określonego w załączniku do ustawy budżetowej, o którym mowa w art. 122.
+Do spraw dotyczących należności, o których mowa w art. 60, nieuregulowanych niniejszą ustawą stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539.](#gloss-0:5:)) i odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466 i Nr 131, poz. 1075.](#gloss-0:6:)).
 
-**Art. 194.**
+### Rozdział 6 Kontrola zarządcza oraz koordynacja kontroli zarządczej w jednostkach sektora finansów publicznych
 
-1. Minister Finansów, na wniosek ministra właściwego do spraw rozwoju regionalnego, zaopiniowany przez właściwego dysponenta części budżetowej, dokonuje przeniesień między częściami i działami budżetu państwa wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, z wyłączeniem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4.
+### Art. 68.
 
-2. Minister właściwy do spraw rozwoju regionalnego może wystąpić z wnioskiem, o którym mowa w ust. 1, także na wniosek właściwego dysponenta części budżetowej.
+### 1.
 
-3. Minister właściwy do spraw rozwoju regionalnego niezwłocznie informuje Radę Ministrów o przyczynach wystąpienia z wnioskiem, o którym mowa w ust. 1, w przypadku negatywnej opinii właściwego dysponenta części budżetowej. Rada Ministrów może uchylić decyzję Ministra Finansów o przeniesieniu, o którym mowa w ust. 1, w terminie 30 dni od dnia poinformowania o podjęciu decyzji.
+Kontrolę zarządczą w jednostkach sektora finansów publicznych stanowi ogół działań podejmowanych dla zapewnienia realizacji celów i zadań w sposób zgodny z prawem, efektywny, oszczędny i terminowy.
 
-4. Właściwy dysponent części budżetowej może dokonywać przeniesień pomiędzy programami finansowanymi z udziałem środków europejskich w ramach części i działu klasyfikacji wydatków, z wyłączeniem środków, o których mowa w art. 5 ust. 3 pkt 4. Przeniesienie wymaga zgody ministra właściwego do spraw rozwoju regionalnego, a w przypadku środków Europejskiego Funduszu Rybackiego, Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury – ministra właściwego do spraw rybołówstwa.
+### 2.
 
-4a. O wyrażonej zgodzie minister właściwy do spraw rozwoju regionalnego informuje niezwłocznie Ministra Finansów.
+Celem kontroli zarządczej jest zapewnienie w szczególności:
 
-5. Minister Finansów dokonuje przeniesień między częściami i działami w ramach wydatków z udziałem środków, o których mowa w:
+### 1)
 
-- **1)** art. 5 ust. 3 pkt 4 – na wniosek ministra właściwego do spraw rozwoju wsi lub ministra właściwego do spraw rynków rolnych;
-- **2)** art. 5 ust. 3 pkt 5b – na wniosek ministra właściwego do spraw zabezpieczenia społecznego.
+zgodności działalności z przepisami prawa oraz procedurami wewnętrznymi;
 
-5a. Minister Finansów na wniosek ministra właściwego do spraw rybołówstwa dokonuje przeniesień między częściami i działami w ramach wydatków z udziałem środków Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Rybackiego oraz Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury.
+### 2)
 
-6. Właściwy dysponent części budżetowej może dokonywać przeniesień w ramach części i działu klasyfikacji wydatków z udziałem środków, o którym mowa w art. 5 ust. 3 pkt 4.
+skuteczności i efektywności działania;
 
-**Art. 195.**
+### 3)
 
-1. Minister właściwy do spraw rozwoju regionalnego sprawuje nadzór i kontrolę nad realizacją programów finansowanych z udziałem środków europejskich, z wyłączeniem środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, Europejskiego Funduszu Morskiego i Rybackiego, Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4 i 5b.
+wiarygodności sprawozdań;
 
-2. Minister właściwy do spraw rozwoju wsi, minister właściwy do spraw rynków rolnych oraz minister właściwy do spraw rybołówstwa sprawują nadzór i kontrolę nad realizacją programów finansowanych odpowiednio z udziałem środków, o których mowa w art. 5 ust. 3 pkt 4, środków Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, Europejskiego Funduszu Morskiego i Rybackiego oraz Europejskiego Funduszu Rybackiego.
+### 4)
 
-3. Minister właściwy do spraw zabezpieczenia społecznego sprawuje nadzór i kontrolę nad realizacją programu finansowanego z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5b.
+ochrony zasobów;
 
-#### Rozdział 7 Bankowa obsługa budżetu państwa oraz niektórych jednostek sektora finansów publicznych
+### 5)
 
-**Art. 196.**
+przestrzegania i promowania zasad etycznego postępowania;
 
-1. Dla obsługi budżetu państwa w zakresie krajowych środków finansowych są prowadzone następujące rachunki bankowe:
+### 6)
 
-- **1)** centralny rachunek bieżący budżetu państwa, z wyodrębnieniem rachunków dochodów i wydatków budżetu państwa oraz rachunków środków do sfinansowania pożyczkowych potrzeb budżetu państwa;
-- **2)** rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachunków dochodów i wydatków, oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. );
-- **3)** rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla niektórych rodzajów dochodów;
-- **4)** rachunki bieżące państwowych funduszy celowych, o ile odrębne ustawy nie stanowią inaczej, oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **5)** rachunki pomocnicze oraz prowadzone dla tych rachunków rachunki VAT, o których mowa w rozdziale 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **6)** rachunki bieżące państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej.
+efektywności i skuteczności przepływu informacji;
 
-2. Obsługę bankową budżetu państwa w zakresie rachunków bankowych wymienionych w ust. 1 pkt 1–3 i 5 oraz państwowych funduszy celowych, o których mowa w art. 9 pkt 8, prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego, z zastrzeżeniem ust. 3, 6 i 7.
+### 7)
 
-2a. Obsługę bankową rachunków budżetu środków europejskich prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego.
+zarządzania ryzykiem.
 
-3. Wyboru podmiotu prowadzącego obsługę rachunków, o których mowa w ust. 1 pkt 1–3, oraz rachunków, o których mowa w ust. 1 pkt 4, prowadzonych dla państwowych funduszy celowych zarządzanych przez Zakład Ubezpieczeń Społecznych lub Prezesa Kasy Rolniczego Ubezpieczenia Społecznego, a także rachunków budżetu środków europejskich, o których mowa w ust. 2a, dokonuje Minister Finansów, uwzględniając niezbędne warunki techniczne i organizacyjne, które powinny być spełnione przez ten podmiot, jak również wpływ na stan finansów publicznych w związku z podjęciem i prowadzeniem obsługi tych rachunków.
+### Art. 69.
 
-4. Bank Gospodarstwa Krajowego może podjąć obsługę rachunków, o których mowa w ust. 1 pkt 1–3, nie wcześniej niż z dniem przyjęcia przez Rzeczpospolitą Polską waluty euro.
+### 1.
 
-5. Obsługę bankową rachunków jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–7, 9 i 12, samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowych instytucji kultury, państwowych osób prawnych, o których mowa w art. 9 pkt 14, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej prowadzi Bank Gospodarstwa Krajowego.
+Zapewnienie funkcjonowania adekwatnej, skutecznej i efektywnej kontroli zarządczej należy do obowiązków:
 
-6. Minister Finansów może dokonać wyboru podmiotu prowadzącego obsługę rachunków bankowych, wymienionych w ust. 1 pkt 5, dla niektórych rodzajów rachunków pomocniczych.
+### 1)
 
-7. Obsługę rachunków bankowych wymienionych w ust. 1 pkt 5 na potrzeby finansowania związków operacyjnych i taktycznych oraz oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej użytych lub przebywających poza granicami państwa może prowadzić bank inny niż Narodowy Bank Polski lub Bank Gospodarstwa Krajowego.
+ministra w kierowanych przez niego działach administracji rządowej, zwanego dalej „ministrem kierującym działem”, z zastrzeżeniem ust. 2;
 
-**Art. 197.**
+### 2)
 
-1. Dochody budżetu państwa są gromadzone odpowiednio na rachunkach urzędów obsługujących organy podatkowe dla gromadzenia dochodów lub na rachunkach bieżących dochodów państwowych jednostek budżetowych i przekazywane na centralny rachunek bieżący budżetu państwa, którego dysponentem jest Minister Finansów.
+wójta, burmistrza, prezydenta miasta, przewodniczącego zarządu jednostki samorządu terytorialnego;
 
-2. Wydatki budżetu państwa są dokonywane przez dysponentów środków budżetowych z ich rachunków bieżących wydatków ze środków otrzymanych bezpośrednio lub za pośrednictwem rachunku bieżącego wydatków dysponenta nadrzędnego z centralnego rachunku bieżącego budżetu państwa.
+### 3)
 
-3. Niewykorzystane przez dysponentów środków budżetowych środki, o których mowa w ust. 2, są przekazywane bezpośrednio lub za pośrednictwem rachunku bieżącego wydatków dysponenta nadrzędnego na centralny rachunek bieżący budżetu państwa.
+kierownika jednostki.
 
-4. Operacje z tytułu przychodów i rozchodów budżetu państwa są dokonywane na centralnym rachunku bieżącym budżetu państwa lub na rachunkach pomocniczych Ministra Finansów.
+### 2.
 
-**Art. 198.** Minister Finansów, kierując się ogólnie sprawowaną kontrolą realizacji dochodów i wydatków budżetu państwa, określi, w drodze rozporządzenia, szczegółowy sposób wykonywania budżetu państwa, w tym:
+Minister Sprawiedliwości zapewnia funkcjonowanie adekwatnej, skutecznej i efektywnej kontroli zarządczej w kierowanym przez niego dziale administracji rządowej, w zakresie spraw niezastrzeżonych odrębnymi przepisami do kompetencji innych organów państwowych i z uwzględnieniem zasady niezawisłości sędziowskiej.
 
-**Art. 199.**
+### 3.
 
-1. Obsługa bankowa rachunków budżetu państwa jest prowadzona w ramach umowy rachunku bankowego.
+Minister Finansów określi w formie komunikatu i ogłosi, w Dzienniku Urzędowym Ministra Finansów, standardy kontroli zarządczej dla sektora finansów publicznych, zgodne z międzynarodowymi standardami.
 
-2. W ramach obsługi bankowej budżetu państwa podmiot prowadzący obsługę udostępnia:
+### 4.
 
-- **1)** Ministrowi Finansów i Najwyższej Izbie Kontroli informacje o stanach środków na rachunkach, o których mowa w art. 196 ust. 1,
-- **2)** właściwym dysponentom informacje o stanach środków w podległych im jednostkach, na rachunkach bieżących, o których mowa w art. 196 ust. 1 pkt 2 i 3 – w zakresie i terminach określonych w rozporządzeniu wydanym na podstawie ust. 3.
+Minister Finansów może określić w formie komunikatu i ogłosić, w Dzienniku Urzędowym Ministra Finansów, szczegółowe wytyczne w zakresie kontroli zarządczej dla sektora finansów publicznych.
 
-3. Minister Finansów, mając na względzie ujednolicenie zasad obsługi rachunków budżetu państwa oraz kierując się koniecznością zapewnienia płynnego przepływu informacji, określi, w drodze rozporządzenia, rodzaje i tryb dokonywania operacji na rachunkach, o których mowa w art. 196 ust. 1, oraz zakres i terminy udostępniania informacji, o których mowa w ust. 2, w ramach prowadzonej obsługi bankowej budżetu państwa, z zastrzeżeniem ust. 4.
+### 5.
 
-4. Jeżeli podmiotem prowadzącym obsługę centralnego rachunku bieżącego budżetu państwa jest Narodowy Bank Polski, Minister Finansów, wydając rozporządzenie, o którym mowa w ust. 3, zasięga opinii Prezesa Narodowego Banku Polskiego.
+Minister kierujący działem może określić w formie komunikatu i ogłosić, w dzienniku urzędowym ministra, szczegółowe wytyczne w zakresie kontroli zarządczej dla kierowanych przez niego działów administracji rządowej.
 
-**Art. 199a.** W ramach obsługi bankowej rachunków jednostek sektora finansów publicznych, o których mowa w art. 9 pkt 5–7, 9 i 12, samodzielnych publicznych zakładów opieki zdrowotnej, dla których podmiotem tworzącym jest minister, centralny organ administracji rządowej, wojewoda lub uczelnia medyczna, państwowych instytucji kultury, państwowych osób prawnych, o których mowa w art. 9 pkt 14, oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej Bank Gospodarstwa Krajowego udostępnia Ministrowi Finansów i Najwyższej Izbie Kontroli informacje o stanach środków na poszczególnych rachunkach.
+### Art. 70.
 
-**Art. 200.**
+### 1.
 
-1. Obsługę bankową płatności prowadzi Bank Gospodarstwa Krajowego w ramach umowy rachunku bankowego zawartej z Ministrem Finansów.
+Minister kierujący działem sporządza, do końca listopada każdego roku, plan działalności na rok następny dla kierowanych przez niego działów administracji rządowej.
 
-2. Minister Finansów przedstawia do zaopiniowania ministrowi właściwemu do spraw rozwoju regionalnego oraz ministrowi właściwemu do spraw rybołówstwa projekt umowy, o której mowa w ust. 1.
+### 2.
 
-**Art. 201.** Umowa rachunku bankowego, o której mowa w art. 200 ust. 1, określa w szczególności:
+Plan działalności zawiera w szczególności określenie celów w ramach poszczególnych zadań budżetowych wraz ze wskazaniem podzadań służących osiągnięciu celów oraz mierniki określające stopień realizacji celu i ich planowane wartości.
 
-### DZIAŁ IV Środki europejskie i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi
+### 3.
 
-**Art. 202.**
+Minister kierujący działem sporządza do końca kwietnia każdego roku sprawozdanie z wykonania planu działalności oraz składa oświadczenie o stanie kontroli zarządczej za poprzedni rok w zakresie kierowanych przez niego działów administracji rządowej.
 
-1. Środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu są gromadzone na wyodrębnionych rachunkach bankowych.
+### 4.
 
-2. Obsługę bankową rachunków, o których mowa w ust. 1, prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego na podstawie umów rachunku bankowego.
+Minister kierujący działem może zobowiązać kierownika jednostki w dziale do sporządzania planu działalności na rok następny dla tej jednostki oraz sporządzania sprawozdania z wykonania planu działalności i składania oświadczenia o stanie kontroli zarządczej za poprzedni rok w zakresie kierowanej przez niego jednostki.
 
-3. W ramach obsługi, o której mowa w ust. 2, Narodowy Bank Polski lub Bank Gospodarstwa Krajowego dokonują wypłat na podstawie dyspozycji Ministra Finansów lub jego pełnomocników, a w zakresie środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na podstawie dyspozycji ministra właściwego do spraw rozwoju regionalnego.
+### 5.
 
-4. Środki finansowe pozostałe po zakończeniu realizacji programów finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na rachunkach, o których mowa w ust. 1, są wykorzystywane na realizację zadań w ramach celu Europejska Współpraca Terytorialna lub programów Europejskiego Instrumentu Sąsiedztwa lub programów w ramach celu Europejska Współpraca Terytorialna (Interreg).
+Plan działalności, sprawozdanie z wykonania planu działalności oraz oświadczenie o stanie kontroli zarządczej podlegają publikacji w Biuletynie Informacji Publicznej.
 
-5. W celu ponownego wykorzystania środków, o których mowa w ust. 4, minister właściwy do spraw rozwoju regionalnego otwiera w Narodowym Banku Polskim rachunek do ich obsługi.
+### 6.
 
-6. Środki zgromadzone na rachunku, o którym mowa w ust. 5, są uruchamiane przez Narodowy Bank Polski wyłącznie na podstawie dyspozycji ministra właściwego do spraw rozwoju regionalnego.
+Minister Finansów określi, w drodze rozporządzenia, wzór oświadczenia o stanie kontroli zarządczej, biorąc pod uwagę cele kontroli zarządczej oraz zakres odpowiedzialności za jej funkcjonowanie.
 
-**Art. 203.** Środki, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 6, stanowią dochody jednostek samorządu terytorialnego, przychody innych jednostek sektora finansów publicznych lub jednostek spoza tego sektora, jeżeli jednostki otrzymały te środki bezpośrednio od dawcy środków, chyba że możliwość otrzymania tych środków wynika z umowy międzynarodowej lub porozumienia między organem administracji rządowej a dawcą środków.
+### 7.
 
-**Art. 204.** Środki, o których mowa w art. 5 ust. 1 pkt 2 i 3, są przeznaczone wyłącznie na cele określone w umowie międzynarodowej, przepisach odrębnych lub deklaracji dawcy.
+Minister Finansów określi, w drodze rozporządzenia, sposób sporządzania oraz elementy planu działalności i sprawozdania z wykonania planu działalności, mając na uwadze potrzebę zapewnienia przejrzystości informacji zawartych w tych dokumentach.
 
-**Art. 205.** (uchylony)
+### Art. 71.
 
-**Art. 206.**
+Do zadań Ministra Finansów w zakresie koordynacji kontroli zarządczej w jednostkach sektora finansów publicznych należy w szczególności:
 
-1. Szczegółowe warunki dofinansowania:
+### 1)
 
-- **1)** projektu – określa umowa o dofinansowanie projektu, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju lub w art. 21 ust. 1 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027 albo w art. 17 ust. 1 oraz w art. 19 ust. 1 pkt 3 ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo w art. 9 ust. 2 pkt 3 ustawy o zasadach realizacji programów – z wyłączeniem programów w ramach celu Europejska Współpraca Terytorialna, albo w art. 2 pkt 32 ustawy o zasadach realizacji programów 2021–2027 – z wyłączeniem programów w ramach celu Europejska Współpraca Terytorialna (Interreg);
-- **2)** projektu w ramach Europejskiego Funduszu Pomocy Najbardziej Potrzebującym – określają umowy, o których mowa w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej;
-- **3)** projektu finansowanego z Europejskiego Funduszu Społecznego Plus przeznaczonego na zwalczanie deprywacji materialnej – określają umowy, o których mowa w art. 134n ust. 1 pkt 7 lit. a oraz art. 134o ust. 2 pkt 2 ustawy o pomocy społecznej;
-- **4)** projektu finansowanego w ramach instrumentu „Łącząc Europę” – określa umowa o dofinansowanie projektu finansowanego ze środków pochodzących z instrumentu „Łącząc Europę”.
+upowszechnianie standardów, o których mowa w art. 69 ust. 3;
 
-2. Umowa, o której mowa w ust. 1, powinna określać w szczególności:
+### 2)
 
-- **1)** opis projektu lub zadania, w tym cel, na jaki przyznano środki, i termin jego realizacji;
-- **2)** harmonogram dokonywania wydatków, obejmujący okres co najmniej jednego kwartału;
-- **3)** wysokość przyznanych środków;
-- **4)** zobowiązanie do poddania się kontroli i tryb kontroli realizacji projektu lub zadania;
-- **4a)** zobowiązanie do stosowania wytycznych, o których mowa w art. 2 pkt 32 ustawy o zasadach realizacji programów albo w art. 2 pkt 38 ustawy o zasadach realizacji programów 2021–2027, a w zakresie programu finansowanego z udziałem środków pochodzących z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym – zobowiązanie do stosowania wytycznych, o których mowa w art. 134a pkt 6 ustawy o pomocy społecznej;
-- **4b)** w zakresie programu finansowanego ze środków, o których mowa w art. 4 ust. 1 lit. m rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1057 z dnia 24 czerwca 2021 r. ustanawiającego Europejski Fundusz Społeczny Plus (EFS+) oraz uchylającego rozporządzenie (UE) nr 1296/2013 (Dz. Urz. UE L 231 z 30.06.2021, str. 21, z późn. zm. ) – zobowiązanie do stosowania wytycznych, o których mowa w art. 134n ust. 1 pkt 6 ustawy o pomocy społecznej;
-- **5)** termin i sposób rozliczenia projektu oraz ewentualnych zaliczek;
-- **6)** formy zabezpieczeń należytego wykonania zobowiązań wynikających z umowy;
-- **7)** warunki rozwiązania umowy ze względu na nieprawidłowości występujące w trakcie realizacji projektu;
-- **8)** warunki i terminy zwrotu środków, w tym środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny.
+wydawanie wytycznych;
 
-3. Aktualizacja harmonogramu, o którym mowa w ust. 2 pkt 2, nie wymaga zmiany umowy, o której mowa w ust. 1.
+### 3)
 
-4. Przepis ust. 2 pkt 6 nie ma zastosowania do beneficjenta programu finansowanego z udziałem środków europejskich będącego jednostką sektora finansów publicznych albo fundacją, której jedynym fundatorem jest Skarb Państwa, a także do Banku Gospodarstwa Krajowego, a w zakresie programu finansowanego z udziałem środków pochodzących z Europejskiego Funduszu Pomocy Najbardziej Potrzebującym – do umów, o których mowa w art. 134a pkt 7 i art. 134b ust. 2 pkt 2 ustawy o pomocy społecznej.
+współpraca z krajowymi i zagranicznymi organizacjami;
 
-5. W przypadku gdy beneficjentem jest państwowa jednostka budżetowa, warunki, o których mowa w ust. 1, określone zostają w porozumieniu. Przepis ust. 2 stosuje się odpowiednio, z wyjątkiem pkt 6 i 8.
+### 4)
 
-**Art. 207.**
+współpraca z komitetami audytu, o których mowa w art. 288.
 
-1. W przypadku gdy środki przeznaczone na realizację programów finansowanych z udziałem środków europejskich są:
+### Dział II Państwowy dług publiczny
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** wykorzystane z naruszeniem procedur, o których mowa w art. 184,
-- **3)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 9, na wskazany w tej decyzji rachunek bankowy.
+### Rozdział 1 Przepisy ogólne
 
-2. Zwrot środków może zostać dokonany przez pomniejszenie kolejnej płatności na rzecz beneficjenta o kwotę podlegającą zwrotowi. Instytucja, o której mowa w art. 188 ust. 1, uwzględnia tę kwotę w zleceniu płatności kierowanym do Banku Gospodarstwa Krajowego. W takim przypadku przepisu ust. 4 pkt 3 nie stosuje się.
+### Art. 72.
 
-2a. Odsetki, o których mowa w ust. 1, nalicza się do dnia zwrotu środków lub do dnia wpływu do właściwej instytucji pisemnej zgody na pomniejszenie kolejnych płatności, o której mowa w ust. 8, jeżeli taka zgoda została wyrażona.
+### 1.
 
-3. Przepis ust. 2 stosuje się odpowiednio do odsetek, o których mowa w ust. 1.
+Państwowy dług publiczny obejmuje zobowiązania sektora finansów publicznych z następujących tytułów:
 
-4. W przypadku, o którym mowa w ust. 1, beneficjent zostaje wykluczony z możliwości otrzymania środków, o których mowa w ust. 1, jeżeli:
+### 1)
 
-- **1)** otrzymał płatność na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
-- **2)** (uchylony)
-- **3)** nie zwrócił środków wraz z odsetkami w terminie 14 dni od dnia upływu terminu, o którym mowa w ust. 1, lub
-- **4)** okoliczności, o których mowa w ust. 1, wystąpiły wskutek popełnienia przestępstwa przez beneficjenta, partnera, podmiot upoważniony do dokonywania wydatków, a w przypadku gdy podmioty te nie są osobami fizycznymi – osobę uprawnioną do wykonywania w ramach projektu czynności w imieniu beneficjenta, przy czym fakt popełnienia przestępstwa przez wyżej wymienione podmioty został potwierdzony prawomocnym wyrokiem sądowym.
+wyemitowanych papierów wartościowych opiewających na wierzytelności pieniężne;
 
-5. Okres wykluczenia, o którym mowa w ust. 4, rozpoczyna się od dnia, kiedy decyzja, o której mowa w ust. 9, stała się ostateczna, zaś kończy się z upływem trzech lat od dnia dokonania zwrotu tych środków. Jeżeli okoliczności, o których mowa w ust. 4 pkt 1 i 4, zostały stwierdzone po dniu, w którym decyzja, o której mowa w ust. 9, stała się ostateczna, okres wykluczenia rozpoczyna się od dnia stwierdzenia tych okoliczności, z zastrzeżeniem ust. 6.
+### 2)
 
-6. Jeżeli zwrot środków przez beneficjenta, o którym mowa w ust. 4 pkt 1 i 4, został dokonany w trybie określonym w ust. 8 lub przed wydaniem decyzji, o której mowa w ust. 9, okres wykluczenia, o którym mowa w ust. 4, rozpoczyna się od dnia stwierdzenia okoliczności, o których mowa w ust. 4 pkt 1 i 4, a kończy się z upływem trzech lat liczonych od dnia dokonania zwrotu środków przez beneficjenta.
+zaciągniętych kredytów i pożyczek;
 
-7. Przepisu ust. 4 nie stosuje się do podmiotów, które na podstawie odrębnych przepisów realizują zadania interesu publicznego, jeżeli spowoduje to niemożność wdrożenia działania w ramach programu lub znacznej jego części, jednostek samorządu terytorialnego i samorządowych osób prawnych, instytutów badawczych prowadzących działalność leczniczą, podmiotów leczniczych utworzonych przez organy administracji rządowej oraz podmiotów leczniczych utworzonych lub prowadzonych przez uczelnie medyczne, a także do beneficjentów, o których mowa w art. 134b ust. 2 pkt 2 i art. 134o ust. 2 pkt 2 ustawy o pomocy społecznej.
+### 3)
 
-8. W przypadku stwierdzenia okoliczności, o których mowa w ust. 1, instytucja określona odpowiednio w ust. 9, 11 i 11a lub instytucja, która podpisała z beneficjentem umowę o dofinansowanie, wzywa do:
+przyjętych depozytów;
 
-- **1)** zwrotu środków lub
-- **2)** do wyrażenia zgody na pomniejszenie kolejnych płatności, o którym mowa w ust. 2, w terminie 14 dni od dnia doręczenia wezwania.
+### 4)
 
-9. Po bezskutecznym upływie terminu, o którym mowa w ust. 8, organ:
+wymagalnych zobowiązań:
 
-- **1)** pełniący funkcję instytucji zarządzającej lub instytucji pośredniczącej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju albo ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, albo ustawy z dnia 10 lipca 2015 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego i Rybackiego, albo ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021–2027, albo ustawy o zasadach realizacji programów, albo ustawy o zasadach realizacji programów 2021– 2027, albo
-- **2)** pełniący funkcję instytucji zarządzającej albo instytucji pośredniczącej, o których mowa w ustawie o pomocy społecznej, albo
-- **3)** pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, albo
-- **4)** odpowiedzialny za wdrożenie instrumentu „Łącząc Europę” – wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki, oraz sposób zwrotu środków, z uwzględnieniem ust. 2, oraz zawierającą pouczenie o sankcji wynikającej z ust. 4 pkt 3, z zastrzeżeniem ust. 7.
+### a)
 
-10. Decyzji, o której mowa w ust. 9, nie wydaje się, jeżeli dokonano zwrotu środków przed jej wydaniem.
+wynikających z odrębnych ustaw oraz prawomocnych orzeczeń sądów lub ostatecznych decyzji administracyjnych,
 
-11. Instytucja zarządzająca lub instytucja pośrednicząca na podstawie porozumienia lub umowy, o których mowa w art. 27 i art. 32 ustawy o zasadach prowadzenia polityki rozwoju albo art. 10 ust. 1 i 2 ustawy o zasadach realizacji programów, albo art. 9 ust. 1 i 2 ustawy o zasadach realizacji programów 2021– 2027, albo organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, albo organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, na podstawie porozumienia lub umowy, może upoważnić instytucję wdrażającą, a w przypadku programów finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – operatora programu, instytucję pośredniczącą lub instytucję, która podpisała z beneficjentem umowę o dofinansowanie, będących jednostkami sektora finansów publicznych, do wydawania decyzji, o której mowa w ust. 9.
+### b)
 
-11a. W przypadku gdy operator programu lub instytucja pośrednicząca w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, powierza na podstawie porozumienia lub umowy wykonywanie części swoich zadań innemu podmiotowi będącemu jednostką sektora finansów publicznych, porozumienie lub umowa może również zawierać upoważnienie do wydawania decyzji, o której mowa w ust. 9, o ile operator programu lub instytucja pośrednicząca zostały upoważnione do wydawania takich decyzji na podstawie ust. 11.
+uznanych za bezsporne przez właściwą jednostkę sektora finansów publicznych będącą dłużnikiem.
 
-12. Od decyzji, o której mowa w ust. 9, wydanej przez:
+### 2.
 
-- **1)** operatora programu albo
-- **2)** instytucję pośredniczącą lub instytucję wdrażającą, o których mowa w ust. 11, albo
-- **3)** podmiot upoważniony do wydania tej decyzji na podstawie ust. 11a, albo
-- **4)** instytucję pośredniczącą, o której mowa w ustawie o pomocy społecznej – służy odwołanie do właściwej instytucji zarządzającej albo organu pełniącego funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, a jeżeli rozpatrywanie odwołań od decyzji instytucji wdrażającej zostało powierzone instytucji pośredniczącej – do instytucji pośredniczącej.
+Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób klasyfikacji tytułów dłużnych zaliczanych do państwowego długu publicznego, w tym do długu Skarbu Państwa, uwzględniając podstawowe kategorie przedmiotowe i podmiotowe zadłużenia oraz okresy zapadalności.
 
-12a. W przypadku wydania decyzji w pierwszej instancji przez:
+### Art. 73.
 
-- **1)** instytucję zarządzającą albo
-- **2)** organ odpowiedzialny za wdrożenie instrumentu „Łącząc Europę”, albo
-- **3)** organ pełniący funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2 – służy wniosek do tej instytucji albo organu o ponowne rozpatrzenie sprawy.
+### 1.
 
-13. Przepisów ust. 1–9 nie stosuje się do państwowych jednostek budżetowych.
+Państwowy dług publiczny oblicza się jako wartość nominalną zobowiązań jednostek sektora finansów publicznych po wyeliminowaniu wzajemnych zobowiązań między jednostkami tego sektora.
 
-**Art. 208.**
+### 2.
 
-1. Przepisy art. 187–191, art. 193, art. 206 oraz art. 207 nie dotyczą wspólnej polityki rolnej, która jest finansowana zgodnie z odrębnymi ustawami.
+Przez wartość nominalną zobowiązania rozumie się wartość nominalną:
 
-2. Środki europejskie w części dotyczącej wspólnej polityki rolnej są przekazywane agencji płatniczej przez Bank Gospodarstwa Krajowego na podstawie umowy zawartej z Ministrem Finansów.
+### 1)
 
-3. Obsługę bankową rachunków agencji płatniczej w zakresie środków, o których mowa w ust. 2, oraz środków przeznaczonych na współfinansowanie realizacji zadań finansowanych z udziałem tych środków prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego na podstawie umów rachunku bankowego.
+wyemitowanych papierów wartościowych;
 
-4. (uchylony)
+### 2)
 
-**Art. 209.**
+zaciągniętej pożyczki, kredytu lub innego zobowiązania, to jest kwotę świadczenia głównego, należną do zapłaty w dniu wymagalności zobowiązania.
 
-1. Należności i wierzytelności przypadające agencji płatniczej w ramach wspólnej polityki rolnej mogą być, w szczególnie uzasadnionych przypadkach, umarzane w całości lub w części, a ich spłata odraczana lub rozkładana na raty.
+### 3.
 
-1a. (uchylony) 1b. W okresie trwania stanu zagrożenia epidemicznego lub stanu epidemii, od należności, o których mowa w ust. 1, których spłata została odroczona lub rozłożona na raty, odsetki za zwłokę są naliczane do dnia wniesienia podania o odroczenie lub rozłożenie na raty spłaty należności, włącznie z tym dniem.
+Wartość nominalna zobowiązań indeksowanych lub kapitalizowanych odpowiada początkowej wartości nominalnej z uwzględnieniem przyrostu kapitału, wynikającego z indeksacji lub kapitalizacji, naliczonego na koniec okresu sprawozdawczego.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb umarzania w całości lub w części, odraczania lub rozkładania na raty spłaty należności, o których mowa w ust. 1, a także wskaże organy do tego uprawnione, z uwzględnieniem:
+### 4.
 
-- **1)** przesłanek uzasadniających umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty tych należności;
-- **2)** rodzaju i zakresu udzielonych ulg w spłaceniu należności;
-- **3)** właściwości organów uprawnionych do umarzania należności w całości lub w części, odraczania lub rozkładania ich spłaty na raty w zależności od wysokości kwoty udzielonej ulgi.
+Przepisy ust. 1-3 stosuje się do obliczania kwot niewymagalnych zobowiązań z tytułu poręczeń i gwarancji niezaliczanych do państwowego długu publicznego, a także odpowiednio do obliczania długu Skarbu Państwa oraz kwot niewymagalnych zobowiązań z tytułu poręczeń i gwarancji niezaliczanych do długu Skarbu Państwa.
 
-**Art. 209a.**
+### 5.
 
-1. Przepisów art. 122 ust. 1 pkt 2 lit. b i c, art. 171, art. 187–191, art. 192 ust. 5 i 6, art. 193, art. 194, art. 206 oraz art. 207 nie stosuje się do planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy o zasadach prowadzenia polityki rozwoju, który jest finansowany zgodnie z odrębnymi ustawami.
+Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób ustalania:
 
-2. Środki budżetu środków europejskich w części dotyczącej planu rozwojowego, o którym mowa w art. 5 pkt 7aa ustawy o zasadach prowadzenia polityki rozwoju, który jest finansowany zgodnie z odrębnymi ustawami, są przekazywane PFR przez Bank Gospodarstwa Krajowego na podstawie umowy zawartej z Ministrem Finansów.
+### 1)
 
-3. Środki, o których mowa w ust. 2, są przekazywane na podstawie zlecenia płatności wystawionego przez ministra właściwego do spraw rozwoju regionalnego.
+wartości zobowiązań zaliczanych do:
 
-4. Do zwrotu środków, o których mowa w ust. 2, przekazanych PFR, przepisy art. 169 stosuje się odpowiednio.
+### a)
 
-**Art. 210.**
+państwowego długu publicznego,
 
-1. Minister Finansów prowadzi rejestr podmiotów wykluczonych na podstawie art. 207 w systemie teleinformatycznym.
+### b)
 
-1a. Zgłoszenie podmiotu do rejestru, o którym mowa w ust. 1, odbywa się za pośrednictwem elektronicznej platformy usług administracji publicznej ePUAP, o której mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
+długu Skarbu Państwa,
 
-1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej oraz beneficjentom projektów grantowych.
+### 2)
 
-1c. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, beneficjentom w zakresie ich własnego statusu.
+wartości zobowiązań z tytułu poręczeń i gwarancji
 
-1d. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, wojewodom w zakresie wykonywanych przez nich zadań określonych w art. 62 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2025 r. poz. 798).
+- uwzględniając klasyfikację tytułów dłużnych zaliczanych do państwowego długu publicznego oraz konieczność prawidłowego obliczenia relacji państwowego długu publicznego do produktu krajowego brutto.
 
-2. Minister Finansów określi, w drodze rozporządzenia:
+### Art. 74.
 
-- **1)** sposób i tryb wpisywania podmiotów wykluczonych do rejestru, o którym mowa w ust. 1,
-- **2)** wzór formularza zgłoszenia podmiotu podlegającego wpisowi do rejestru,
-- **3)** zakres przedmiotowy informacji, które będą zawarte w rejestrze,
-- **4)** sposób i tryb uzyskiwania informacji z rejestru,
-- **5)** tryb przekazywania informacji zawartych w rejestrze,
-- **6)** sposób i tryb dokonywania zmian w rejestrze – zapewniając ochronę informacji zawartych w rejestrze przed ich ujawnieniem osobom i podmiotom nieuprawnionym.
+### 1.
 
-### DZIAŁ V Budżet, wieloletnia prognoza finansowa i uchwała budżetowa jednostki samorządu terytorialnego
+Minister Finansów sprawuje kontrolę nad sektorem finansów publicznych w zakresie przestrzegania zasady stanowiącej, że państwowy dług publiczny nie może przekroczyć 60% wartości rocznego produktu krajowego brutto.
 
-#### Rozdział 1 Zakres budżetu jednostki samorządu terytorialnego
+### 2.
 
-**Art. 211.**
+Minister Finansów sprawuje kontrolę nad stanem długu Skarbu Państwa w celu zapewnienia przestrzegania zasady, o której mowa w ust. 1.
 
-1. Budżet jednostki samorządu terytorialnego jest rocznym planem dochodów i wydatków oraz przychodów i rozchodów tej jednostki.
+### 3.
 
-2. Budżet jednostki samorządu terytorialnego jest uchwalany na rok budżetowy.
+Minister Finansów sprawuje kontrolę, o której mowa w ust. 1 i 2, w szczególności przez sprawdzanie realizacji obowiązków wynikających z art. 86.
 
-3. Rokiem budżetowym jest rok kalendarzowy.
+### 4.
 
-4. Podstawą gospodarki finansowej jednostki samorządu terytorialnego w danym roku budżetowym jest uchwała budżetowa.
+Minister Finansów, w związku ze sprawowaną kontrolą, o której mowa w ust. 1 i 2, ma prawo żądania od jednostek sektora finansów publicznych dodatkowych informacji o bieżącym i prognozowanym zadłużeniu tych jednostek oraz o strukturze zadłużenia.
 
-5. Uchwała budżetowa składa się z:
+### 5.
 
-- **1)** budżetu jednostki samorządu terytorialnego;
-- **2)** załączników.
+W przypadku stwierdzenia nieprawidłowej realizacji obowiązków wynikających z art. 86 Minister Finansów informuje o nieprawidłowościach organy nadzoru nad działalnością jednostek sektora finansów publicznych.
 
-**Art. 212.**
+### Art. 75.
 
-1. Uchwała budżetowa określa:
+### 1.
 
-- **1)** łączną kwotę planowanych dochodów budżetu jednostki samorządu terytorialnego, z wyodrębnieniem dochodów bieżących i majątkowych;
-- **2)** łączną kwotę planowanych wydatków budżetu jednostki samorządu terytorialnego, z wyodrębnieniem wydatków bieżących i majątkowych;
-- **3)** kwotę planowanego deficytu albo planowanej nadwyżki budżetu jednostki samorządu terytorialnego wraz ze źródłami pokrycia deficytu albo przeznaczenia nadwyżki budżetu jednostki samorządu terytorialnego;
-- **4)** łączną kwotę planowanych przychodów budżetu jednostki samorządu terytorialnego;
-- **5)** łączną kwotę planowanych rozchodów budżetu jednostki samorządu terytorialnego;
-- **6)** limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych, o których mowa w art. 89 ust. 1 i art. 90;
-- **6a)** limit zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, innych niż określone w pkt 6;
-- **7)** kwotę wydatków na spłatę przypadających w danym roku budżetowym, zgodnie z zawartą umową, wymagalnych zobowiązań z tytułu udzielonych przez jednostkę samorządu terytorialnego poręczeń i gwarancji;
-- **8)** szczególne zasady wykonywania budżetu jednostki samorządu terytorialnego w roku budżetowym, wynikające z odrębnych ustaw;
-- **9)** uprawnienia jednostki pomocniczej do prowadzenia gospodarki finansowej w ramach budżetu gminy;
-- **10)** inne postanowienia, których obowiązek zamieszczenia w uchwale budżetowej wynika z postanowień organu stanowiącego jednostki samorządu terytorialnego.
+Minister Finansów opracowuje czteroletnią strategię zarządzania długiem Skarbu Państwa oraz oddziaływania na państwowy dług publiczny, uwzględniając w szczególności:
 
-2. W uchwale budżetowej organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd do:
+### 1)
 
-- **1)** zaciągania kredytów i pożyczek oraz emitowania papierów wartościowych, o których mowa w art. 89 ust. 1 i art. 90;
-- **1a)** zaciągania zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, innych niż określone w pkt 1;
-- **2)** dokonywania zmian w budżecie, w zakresie określonym w art. 258.
+uwarunkowania zarządzania długiem związane ze stabilnością makroekonomiczną gospodarki;
 
-**Art. 213.** W uchwale budżetowej nie zamieszcza się przepisów niezwiązanych z wykonywaniem budżetu jednostki samorządu terytorialnego.
+### 2)
 
-**Art. 214.** W załącznikach do uchwały budżetowej zamieszcza się:
+analizę poziomu państwowego długu publicznego;
 
-**Art. 215.**
+### 3)
 
-1. Zestawienie, o którym mowa w art. 214 pkt 1, sporządza się w podziale na dotacje dla jednostek sektora finansów publicznych i dotacje dla jednostek spoza sektora finansów publicznych.
+prognozy poziomu państwowego długu publicznego i długu Skarbu Państwa;
 
-2. W zestawieniu, o którym mowa w art. 214 pkt 1, wyodrębnia się dotacje przedmiotowe, podmiotowe i celowe związane z realizacją zadań jednostki samorządu terytorialnego.
+### 4)
 
-**Art. 216.**
+prognozy kosztów obsługi długu Skarbu Państwa;
 
-1. Źródła dochodów jednostek samorządu terytorialnego określa odrębna ustawa.
+### 5)
 
-2. Wydatki budżetu jednostki samorządu terytorialnego są przeznaczone na realizację zadań określonych w odrębnych przepisach, a w szczególności na:
+kształtowanie struktury zadłużenia;
 
-- **1)** zadania własne jednostek samorządu terytorialnego;
-- **2)** zadania z zakresu administracji rządowej i inne zadania zlecone ustawami jednostkom samorządu terytorialnego;
-- **3)** zadania przejęte przez jednostki samorządu terytorialnego do realizacji w drodze umowy lub porozumienia;
-- **4)** zadania realizowane wspólnie z innymi jednostkami samorządu terytorialnego;
-- **5)** pomoc rzeczową lub finansową dla innych jednostek samorządu terytorialnego, określoną odrębną uchwałą przez organ stanowiący jednostki samorządu terytorialnego;
-- **6)** programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+### 6)
 
-3. Wydatki budżetu jednostki samorządu terytorialnego mogą być przeznaczone na realizację zadań wynikających z porozumień, o których mowa w art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+prognozy i analizę niewymagalnych zobowiązań z tytułu poręczeń i gwarancji Skarbu Państwa.
 
-**Art. 217.**
+### 2.
 
-1. Różnica między dochodami a wydatkami budżetu jednostki samorządu terytorialnego stanowi odpowiednio nadwyżkę budżetu jednostki samorządu terytorialnego albo deficyt budżetu jednostki samorządu terytorialnego.
+Dokument, o którym mowa w ust. 1, Minister Finansów przedstawia Radzie Ministrów do zatwierdzenia.
 
-2. Deficyt budżetu jednostki samorządu terytorialnego może być sfinansowany przychodami pochodzącymi z:
+### 3.
 
-- **1)** sprzedaży papierów wartościowych wyemitowanych przez jednostkę samorządu terytorialnego;
-- **2)** kredytów;
-- **3)** pożyczek;
-- **4)** prywatyzacji majątku jednostki samorządu terytorialnego;
-- **5)** nadwyżki budżetu jednostki samorządu terytorialnego z lat ubiegłych, pomniejszonej o środki określone w pkt 8;
-- **6)** wolnych środków jako nadwyżki środków pieniężnych na rachunku bieżącym budżetu jednostki samorządu terytorialnego innych niż określone w pkt 5 i 8, w tym wynikających z rozliczeń wyemitowanych papierów wartościowych, kredytów i pożyczek z lat ubiegłych;
-- **7)** spłaty udzielonych pożyczek w latach ubiegłych lub środków z lokat dokonanych w latach ubiegłych;
-- **8)** niewykorzystanych środków pieniężnych na rachunku bieżącym budżetu, wynikających z rozliczenia dochodów i wydatków nimi finansowanych związanych ze szczególnymi zasadami wykonywania budżetu określonymi w odrębnych ustawach oraz wynikających z rozliczenia środków określonych w art. 5 ust. 1 pkt 2 i dotacji na realizację programu, projektu lub zadania finansowanego z udziałem tych środków.
+Rada Ministrów po zatwierdzeniu dokumentu, o którym mowa w ust. 1, przedstawia go Sejmowi wraz z uzasadnieniem projektu ustawy budżetowej.
 
-**Art. 218.** Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje podmiotowe, o ile odrębne ustawy tak stanowią.
+### Rozdział 2 Finansowanie potrzeb pożyczkowych budżetu państwa
 
-**Art. 219.**
+### Art. 76.
 
-1. Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje przedmiotowe dla samorządowych zakładów budżetowych, kalkulowane według stawek jednostkowych.
+Przez potrzeby pożyczkowe budżetu państwa rozumie się zapotrzebowanie na środki finansowe niezbędne do sfinansowania:
 
-2. Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje przedmiotowe również innym podmiotom niż wymienione w ust. 1, o ile odrębne przepisy tak stanowią.
+### 1)
 
-3. Kwoty i zakres dotacji, o których mowa w ust. 1 i 2, określa uchwała budżetowa.
+deficytu:
 
-4. Stawki dotacji przedmiotowych ustala organ stanowiący jednostki samorządu terytorialnego.
+### a)
 
-**Art. 220.**
+budżetu państwa,
 
-1. Z budżetu jednostki samorządu terytorialnego może być udzielona innym jednostkom samorządu terytorialnego pomoc finansowa w formie dotacji celowej lub pomoc rzeczowa.
+### b)
 
-2. Podstawą udzielenia pomocy, o której mowa w ust. 1, jest umowa.
+budżetu środków europejskich;
 
-3. Spory w zakresie zwrotu dotacji rozstrzygają sądy powszechne.
+### 2)
 
-**Art. 221.**
+rozchodów budżetu państwa.
 
-1. Podmioty niezaliczane do sektora finansów publicznych i niedziałające w celu osiągnięcia zysku mogą otrzymywać z budżetu jednostki samorządu terytorialnego dotacje celowe na cele publiczne, związane z realizacją zadań tej jednostki, a także na dofinansowanie inwestycji związanych z realizacją tych zadań.
+### Art. 77.
 
-2. Zlecenie zadania i udzielenie dotacji następuje zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, a jeżeli dotyczy ono innych zadań niż określone w tej ustawie – na podstawie umowy jednostki samorządu terytorialnego z podmiotem, o którym mowa w ust. 1.
+Minister Finansów w celu sfinansowania potrzeb pożyczkowych budżetu państwa oraz w związku z zarządzaniem długiem Skarbu Państwa jest upoważniony do:
 
-3. Umowa, o której mowa w ust. 2, powinna określać:
+### 1)
 
-- **1)** szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
-- **2)** wysokość dotacji udzielanej podmiotowi wykonującemu zadanie i tryb płatności;
-- **3)** termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
-- **4)** tryb kontroli wykonywania zadania;
-- **5)** termin i sposób rozliczenia udzielonej dotacji;
-- **6)** termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż terminy zwrotu dotacji określone w niniejszym dziale.
+zaciągania zobowiązań finansowych w imieniu Skarbu Państwa, w szczególności w drodze emisji papierów wartościowych oraz zaciągania pożyczek i kredytów na rynku krajowym i zagranicznym;
 
-4. Tryb postępowania o udzielenie dotacji na inne zadania niż określone w ustawie, o której mowa w ust. 2, sposób jej rozliczania oraz sposób kontroli wykonywania zleconego zadania określa, w drodze uchwały, organ stanowiący jednostki samorządu terytorialnego, mając na uwadze zapewnienie jawności postępowania o udzielenie dotacji i jej rozliczenia.
+### 2)
 
-**Art. 221a.**
+spłaty zaciągniętych zobowiązań, o których mowa w pkt 1;
 
-1. Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje celowe na dofinansowanie kosztów inwestycji związanych z wykonywaniem zadań publicznych jednostki w ramach umów o partnerstwie publiczno-prywatnym, z uwzględnieniem przepisów o partnerstwie publicznoprywatnym.
+### 3)
 
-2. Udzielenie dotacji następuje na podstawie umowy o partnerstwie publiczno-prywatnym z uwzględnieniem przepisów o postępowaniu w sprawach dotyczących pomocy publicznej.
+przeprowadzania innych operacji finansowych związanych z zarządzaniem długiem, w tym operacji związanych z finansowymi instrumentami pochodnymi;
 
-3. Do umowy, o której mowa w ust. 2, stosuje się odpowiednio przepis art. 221 ust. 3.
+### 4)
 
-**Art. 222.**
+zarządzania nadwyżką budżetu środków europejskich.
 
-1. W budżecie jednostki samorządu terytorialnego tworzy się rezerwę ogólną, w wysokości nie niższej niż 0,1 % i nie wyższej niż 1 % wydatków budżetu.
+### Art. 78.
 
-2. W budżecie jednostki samorządu terytorialnego mogą być tworzone rezerwy celowe:
+### 1.
 
-- **1)** na wydatki, których szczegółowy podział na pozycje klasyfikacji budżetowej nie może być dokonany w okresie opracowywania budżetu jednostki samorządu terytorialnego;
-- **2)** na wydatki związane z realizacją programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
-- **3)** gdy odrębne ustawy tak stanowią.
+Minister Finansów realizuje zadania wynikające z zarządzania długiem Skarbu Państwa w szczególności przez:
 
-3. Suma rezerw celowych, o których mowa w ust. 2 pkt 1 i 3, nie może przekroczyć 5 % wydatków budżetu jednostki samorządu terytorialnego.
+### 1)
 
-4. Zarząd jednostki samorządu terytorialnego dokonuje podziału rezerw, o których mowa w ust. 1 i 2.
+dokonywanie czynności prawnych i faktycznych związanych z:
 
-**Art. 223.**
+### a)
 
-1. Samorządowe jednostki budżetowe prowadzące działalność określoną w ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe gromadzą na wydzielonym rachunku dochody określone w uchwale przez organ stanowiący jednostki samorządu terytorialnego, pochodzące w szczególności:
+pozyskiwaniem zwrotnych środków finansujących potrzeby pożyczkowe budżetu państwa,
 
-- **1)** ze spadków, zapisów i darowizn w postaci pieniężnej na rzecz jednostki budżetowej;
-- **2)** z odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie albo użytkowaniu jednostki budżetowej;
-- **3)** z działalności polegającej na świadczeniu usług w ramach kształcenia zawodowego – w przypadku jednostek budżetowych prowadzących kształcenie zawodowe.
+### b)
 
-2. Organ stanowiący jednostki samorządu terytorialnego określi w szczególności:
+obsługą zobowiązań Skarbu Państwa z tytułu wyemitowanych papierów wartościowych oraz zaciągniętych kredytów i pożyczek;
 
-- **1)** jednostki budżetowe, które gromadzą dochody;
-- **2)** źródła, z których dochody są gromadzone na rachunku;
-- **3)** przeznaczenie dochodów, z tym że dochody wraz z odsetkami nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych;
-- **4)** sposób i tryb sporządzania planu finansowego dochodów i wydatków nimi finansowanych, dokonywania zmian w tym planie oraz ich zatwierdzania.
+### 2)
 
-3. W przypadku samorządowych jednostek budżetowych, o których mowa w ust. 1, prowadzących kształcenie zawodowe, dochody gromadzone ze spadków, zapisów i darowizn w postaci pieniężnej przekazywanych na cele kształcenia zawodowego oraz z tytułu działalności, o której mowa w ust. 1 pkt 3, są przeznaczane na cele kształcenia zawodowego realizowanego przez te jednostki.
+zarządzanie wolnymi środkami budżetu państwa, a także zarządzanie pasywami finansowymi oraz aktywami finansowymi Skarbu Państwa, w tym środkami publicznymi wyodrębnionymi w związku z zarządzaniem długiem Skarbu Państwa.
 
-4. Wydatki z rachunku, o którym mowa w ust. 1, mogą być dokonywane do wysokości kwot zgromadzonych dochodów, w ramach planu finansowego.
+### 2.
 
-5. Środki finansowe pozostające na rachunku, o którym mowa w ust. 1, na dzień 31 grudnia roku budżetowego, podlegają odprowadzeniu na rachunek budżetu jednostki samorządu terytorialnego w terminie do dnia 5 stycznia następnego roku.
+Zarządzanie wolnymi środkami, o których mowa w ust. 1 pkt 2, obejmuje w szczególności ich lokowanie na rynku finansowym.
 
-**Art. 224.**
+### 3.
 
-1. Jednostce samorządu terytorialnego może być udzielona pożyczka z budżetu państwa, jeżeli:
+Zarządzanie pasywami finansowymi oraz aktywami finansowymi, o których mowa w ust. 1 pkt 2, obejmuje w szczególności wykonywanie operacji i działań na rynkach finansowych, które wpływają na zmianę struktury zadłużenia Skarbu Państwa, w celu:
 
-- **1)** jednostka samorządu terytorialnego realizuje postępowanie naprawcze lub przystępuje do jego realizacji oraz
-- **2)** z analizy programu postępowania naprawczego wynika, że w stopniu wysoce prawdopodobnym:
-    - **a)** nastąpi poprawa sytuacji finansowej tej jednostki oraz skuteczności w wykonywaniu jej ustawowych zadań,
-    - **b)** najpóźniej na koniec roku, w którym upływa termin spłaty pożyczki, zostaną zachowane zasady określone w art. 242–244,
-    - **c)** zapewniona zostanie spłata pożyczki wraz z odsetkami.
+### 1)
 
-2. Pożyczka i odsetki nie podlegają umorzeniu.
+zwiększenia bezpieczeństwa finansowego potrzeb pożyczkowych budżetu państwa;
 
-3. Wniosek o udzielenie pożyczki jednostka samorządu terytorialnego składa do Ministra Finansów, a w przypadku zlecenia przez Ministra Finansów Bankowi Gospodarstwa Krajowego czynności, o których mowa w art. 225 ust. 1, do Banku Gospodarstwa Krajowego. Do wniosku o udzielenie pożyczki jednostka samorządu terytorialnego załącza program postępowania naprawczego, dokumenty zawierające dane umożliwiające dokonanie bieżącej i prognozowanej oceny sytuacji finansowej tej jednostki oraz propozycje zabezpieczeń spłaty pożyczki.
+### 2)
 
-4. W przypadku niedokonania spłaty pożyczki w terminie określonym w umowie pożyczki Minister Finansów może potrącić niespłaconą kwotę pożyczki wraz z odsetkami z należnej subwencji ogólnej ustalonej dla tej jednostki samorządu terytorialnego.
+obniżenia ryzyka lub kosztów obsługi długu Skarbu Państwa;
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio do pożyczki udzielanej jednostce samorządu terytorialnego realizującej program postępowania ostrożnościowego lub przystępującej do jego realizacji, jeżeli zagrożenie wykonania zadań publicznych powstało z przyczyn niezależnych od tej jednostki.
+### 3)
 
-6. Minister Finansów określi, w drodze rozporządzenia:
+realizacji innych zadań związanych z zarządzaniem długiem Skarbu Państwa, określonych w dokumencie, o którym mowa w art. 75 ust. 1.
 
-- **1)** szczegółowy zakres danych zawartych we wniosku o udzielenie pożyczki,
-- **2)** wykaz dokumentów dołączonych do wniosku,
-- **3)** rodzaje i zakres przyjmowanych zabezpieczeń – biorąc pod uwagę rodzaj prowadzonego przez jednostkę samorządu terytorialnego postępowania, zakres informacji niezbędnych do dokonania oceny, o której mowa w ust. 3, oraz zapewnienie sprawności rozpatrywania wniosków.
+### Art. 79.
 
-**Art. 225.**
+### 1.
 
-1. Minister Finansów może, w drodze umowy, zlecić Bankowi Gospodarstwa Krajowego dokonywanie czynności związanych z udzielaniem jednostce samorządu terytorialnego pożyczki oraz jej rozliczaniem i egzekucją, polegających w szczególności na:
+Z chwilą wykupu skarbowe papiery wartościowe podlegają umorzeniu.
 
-- **1)** przyjmowaniu od jednostki samorządu terytorialnego wniosku o udzielenie pożyczki oraz weryfikacji czy wniosek spełnia wymogi określone w przepisach wydanych na podstawie art. 224 ust. 6;
-- **2)** dokonywaniu ocen i analiz programu postępowania ostrożnościowego lub naprawczego;
-- **3)** przygotowaniu i zawieraniu, w imieniu Ministra Finansów, umowy pożyczki z jednostką samorządu terytorialnego;
-- **4)** kontroli spłaty pożyczki i ocenie sytuacji finansowej jednostki samorządu terytorialnego w okresie spłaty;
-- **5)** podejmowaniu czynności zmierzających do odzyskania kwot niespłaconej pożyczki lub odsetek od tej pożyczki i należnych opłat, w tym czynności sądowych i egzekucyjnych.
+### 2.
 
-2. Umowa określa wysokość wynagrodzenia za czynności dokonywane przez Bank Gospodarstwa Krajowego oraz zakres czynności zleconych Bankowi.
+Nie podlegają umorzeniu skarbowe papiery wartościowe nabywane przez Skarb Państwa w celu zarządzania długiem Skarbu Państwa.
 
-3. W przypadku zlecenia Bankowi Gospodarstwa Krajowego dokonywania czynności związanych z udzielaniem jednostkom samorządu terytorialnego pożyczek oraz ich rozliczaniem i egzekucją Minister Finansów może otworzyć w Banku Gospodarstwa Krajowego rachunek bankowy do obsługi pożyczek, na który będą przekazywane środki przewidziane na ten cel w ustawie budżetowej.
+### Art. 80.
 
-4. Rachunek bankowy, o którym mowa w ust. 3, jest oprocentowany. Oprocentowanie rachunku ustalone zostanie w umowie, o której mowa w ust. 1.
+### 1.
 
-5. (uchylony)
+Skarb Państwa może zaciągać pożyczki i kredyty wyłącznie na finansowanie potrzeb pożyczkowych budżetu państwa, z zastrzeżeniem art. 81.
 
-#### Rozdział 2 Wieloletnia prognoza finansowa jednostki samorządu terytorialnego
+### 2.
 
-**Art. 226.**
+W imieniu Skarbu Państwa pożyczki i kredyty może zaciągać, z zastrzeżeniem ust. 3, wyłącznie Minister Finansów.
 
-1. Wieloletnia prognoza finansowa powinna być realistyczna i określać dla każdego roku objętego prognozą co najmniej:
+### 3.
 
-- **1)** dochody bieżące oraz wydatki bieżące budżetu jednostki samorządu terytorialnego, w tym na obsługę długu, gwarancje i poręczenia;
-- **2)** dochody majątkowe, w tym dochody ze sprzedaży majątku, oraz wydatki majątkowe budżetu jednostki samorządu terytorialnego;
-- **3)** wynik budżetu jednostki samorządu terytorialnego;
-- **4)** przeznaczenie nadwyżki albo sposób sfinansowania deficytu;
-- **5)** przychody i rozchody budżetu jednostki samorządu terytorialnego, z uwzględnieniem długu zaciągniętego oraz planowanego do zaciągnięcia;
-- **6)** kwotę długu jednostki samorządu terytorialnego oraz sposób sfinansowania jego spłaty;
-- **6a)** relacje, o których mowa w art. 242–244, w tym informację o stopniu niezachowania tych relacji w przypadkach, o których mowa w art. 240a ust. 4 i 8 oraz art. 240b;
-- **7)** (uchylony)
-- **8)** kwoty wydatków bieżących i majątkowych wynikających z limitów wydatków na planowane i realizowane przedsięwzięcia, o których mowa w ust. 3.
+W przypadku zaciągania pożyczki lub kredytu w drodze umowy, w tym umowy międzynarodowej, zgodnie z którą wymagane jest, aby organem działającym w imieniu pożyczkobiorcy (kredytobiorcy) była Rada Ministrów, upoważnia ona Ministra Finansów do podpisania umowy i określa warunki jej wykonywania.
 
-2. (uchylony) 2a. Do wieloletniej prognozy finansowej dołącza się objaśnienia przyjętych wartości. W objaśnieniach mogą być zawarte także informacje uszczegóławiające dane, o których mowa w ust. 1.
+### Art. 81.
 
-3. W załączniku do uchwały w sprawie wieloletniej prognozy finansowej określa się odrębnie dla każdego przedsięwzięcia:
+### 1.
 
-- **1)** nazwę i cel;
-- **2)** jednostkę organizacyjną odpowiedzialną za realizację lub koordynującą wykonywanie przedsięwzięcia;
-- **3)** okres realizacji i łączne nakłady finansowe;
-- **4)** limity wydatków w poszczególnych latach;
-- **5)** limit zobowiązań.
+Na wniosek Rady Polityki Pieniężnej Skarb Państwa może zaciągać średnioterminowe pożyczki i kredyty od Wspólnoty Europejskiej i jej państw członkowskich w celu wsparcia bilansu płatniczego.
 
-4. Przez przedsięwzięcia, o których mowa w ust. 3, należy rozumieć wieloletnie programy, projekty lub zadania, w tym związane z:
+### 2.
 
-- **1)** programami finansowanymi z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
-- **2)** umowami o partnerstwie publiczno-prywatnym.
+Na wniosek Rady Unii Europejskiej Skarb Państwa może uczestniczyć w udzieleniu pożyczki na wsparcie bilansu płatniczego innego państwa członkowskiego, na zasadach określanych w ustawie budżetowej.
 
-**Art. 227.**
+### Art. 82.
 
-1. Wieloletnia prognoza finansowa obejmuje okres roku budżetowego oraz co najmniej trzech kolejnych lat budżetowych.
+Kwota zaciągniętych pożyczek i kredytów, o których mowa w art. 80 ust. 1 i art. 81 ust. 1, nie może przekroczyć limitów określonych w ustawie budżetowej.
 
-2. Prognozę kwoty długu, stanowiącą część wieloletniej prognozy finansowej, sporządza się na okres, na który zaciągnięto oraz planuje się zaciągnąć zobowiązania.
+### Art. 83.
 
-**Art. 228.**
+### 1.
 
-1. Uchwała w sprawie wieloletniej prognozy finansowej może zawierać upoważnienie dla zarządu jednostki samorządu terytorialnego do zaciągania zobowiązań:
+Minister Finansów może dokonywać lokat w złotych i walutach obcych oraz przeprowadzać inne operacje finansowe w Narodowym Banku Polskim lub innym banku.
 
-- **1)** związanych z realizacją zamieszczonych w niej przedsięwzięć;
-- **2)** z tytułu umów, których realizacja w roku budżetowym i w latach następnych jest niezbędna do zapewnienia ciągłości działania jednostki i z których wynikające płatności wykraczają poza rok budżetowy.
+### 2.
 
-2. Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd jednostki samorządu terytorialnego do przekazania uprawnień kierownikom jednostek organizacyjnych jednostki samorządu terytorialnego do zaciągania zobowiązań, o których mowa w ust. 1. W zakresie umów określonych w ust. 1 pkt 2 przekazanie uprawnień może dotyczyć także umów, z których wynikają zobowiązania zaliczane do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2.
+W przypadku zawierania transakcji na instrumentach pochodnych, dla których zawarto umowę zabezpieczającą, Minister Finansów może otworzyć w Narodowym Banku Polskim lub innym banku odrębny rachunek bankowy dla wnoszonego zabezpieczenia w pieniądzu. Minister Finansów zwraca zabezpieczenie wniesione w pieniądzu, wraz z odsetkami, w wysokości i w terminach wynikających z umowy zabezpieczającej.
 
-**Art. 229.** Wartości przyjęte w wieloletniej prognozie finansowej i budżecie jednostki samorządu terytorialnego powinny być zgodne co najmniej w zakresie wyniku budżetu i związanych z nim kwot przychodów i rozchodów oraz długu jednostki samorządu terytorialnego.
+### 3.
 
-**Art. 230.**
+Środki znajdujące się na rachunku, o którym mowa w ust. 2, Minister Finansów może lokować w Narodowym Banku Polskim lub innym banku.
 
-1. Inicjatywa w sprawie sporządzenia projektu uchwały w sprawie wieloletniej prognozy finansowej i jej zmiany należy wyłącznie do zarządu jednostki samorządu terytorialnego.
+### Art. 84.
 
-2. Projekt uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany zarząd jednostki samorządu terytorialnego przedstawia wraz z projektem uchwały budżetowej:
+Do zaciągania pożyczek i kredytów przez Skarb Państwa, emisji skarbowych papierów wartościowych oraz innych operacji związanych bezpośrednio z zarządzaniem państwowym długiem publicznym nie stosuje się przepisów art. 35 i art. 49 oraz przepisów o zamówieniach publicznych.
 
-- **1)** regionalnej izbie obrachunkowej – celem zaopiniowania;
-- **2)** organowi stanowiącemu jednostki samorządu terytorialnego.
+### Art. 85.
 
-3. Opinię do projektu uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany, przedstawionego wraz z projektem uchwały budżetowej, regionalna izba obrachunkowa wydaje ze szczególnym uwzględnieniem zapewnienia przestrzegania przepisów ustawy dotyczących uchwalania i wykonywania budżetów w następnych latach, na które zaciągnięto i planuje się zaciągnąć zobowiązania. Przepis art. 246 ust. 2 stosuje się odpowiednio.
+Narodowy Bank Polski udostępnia Ministrowi Finansów dane, w tym dane indywidualne oraz zestawienia i oceny, o których mowa w art. 23 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim ([Dz. U. z 2005 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/2005/2/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317 oraz z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164.](#gloss-0:7:)), niezbędne w celu realizacji zadań, o których mowa w art. 77 i art. 78.
 
-4. Regionalna izba obrachunkowa na podstawie przyjętej przez jednostkę samorządu terytorialnego wieloletniej prognozy finansowej oraz uchwały budżetowej przedstawia opinię w sprawie prawidłowości planowanej kwoty długu jednostki samorządu terytorialnego wynikającej z planowanych i zaciągniętych zobowiązań, o której mowa w art. 226 ust. 1 pkt 6. Przepis art. 246 ust. 2 stosuje się odpowiednio.
+### Rozdział 3 Procedury ostrożnościowe i sanacyjne
 
-5. W przypadku negatywnej opinii regionalnej izby obrachunkowej w zakresie, o którym mowa w ust. 4, jednostka samorządu terytorialnego dokonuje takich zmian uchwał, aby została zachowana relacja określona w art. 243.
+### Art. 86.
 
-6. Uchwałę, o której mowa w ust. 2, organ stanowiący jednostki samorządu terytorialnego podejmuje nie później niż uchwałę budżetową.
+W przypadku, gdy wartość relacji kwoty państwowego długu publicznego do produktu krajowego brutto, o której mowa w art. 38 pkt 1 lit. a, ogłoszonej zgodnie z art. 38:
 
-7. Organ stanowiący jednostki samorządu terytorialnego nie może uchylić obowiązującej uchwały w sprawie wieloletniej prognozy finansowej, jednocześnie nie podejmując nowej uchwały w tej sprawie.
+### 1)
 
-8. Jednostka samorządu terytorialnego przekazuje regionalnej izbie obrachunkowej uchwały i zarządzenia w sprawie wieloletniej prognozy finansowej.
+jest większa od 50%, a nie większa od 55%, to na kolejny rok Rada Ministrów uchwala projekt ustawy budżetowej, w którym relacja deficytu budżetu państwa do dochodów budżetu państwa nie może być wyższa niż relacja deficytu budżetu państwa do dochodów budżetu państwa z roku bieżącego wynikająca z ustawy budżetowej;
 
-9. Projekt uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany, o którym mowa w ust. 2, oraz uchwała i zarządzenie w sprawie wieloletniej prognozy finansowej są przekazywane do regionalnej izby obrachunkowej w formie dokumentu elektronicznego.
+### 2)
 
-**Art. 230a.** Regionalna izba obrachunkowa przekazuje, w formie dokumentu elektronicznego, Ministrowi Finansów:
+jest większa od 55%, a mniejsza od 60%, to:
 
-**Art. 230b.** Minister Finansów określi, w drodze rozporządzenia:
+### a)
 
-**Art. 231.**
+na kolejny rok Rada Ministrów uchwala projekt ustawy budżetowej, w którym:
 
-1. Zmiana kwot wydatków na realizację przedsięwzięć może nastąpić w wyniku podjęcia uchwały organu stanowiącego jednostki samorządu terytorialnego, zmieniającej zakres wykonywania lub wstrzymującej wykonywanie przedsięwzięcia.
+- - nie przewiduje się deficytu budżetu państwa lub przyjmuje się poziom różnicy dochodów i wydatków budżetu państwa, zapewniający, że relacja długu Skarbu Państwa do produktu krajowego brutto przewidywana na koniec roku budżetowego, którego dotyczy projekt ustawy, będzie niższa od relacji, o której mowa w art. 38 pkt 1 lit. b, ogłoszonej zgodnie z art. 38,
 
-2. Uchwały budżetowe określają wydatki na realizowane przedsięwzięcia w wysokości umożliwiającej ich terminowe zakończenie.
+- - nie przewiduje się wzrostu wynagrodzeń pracowników państwowej sfery budżetowej, w tym pracowników jednostek, o których mowa w art. 139 ust. 2,
 
-3. Jeżeli organ stanowiący jednostki samorządu terytorialnego nie postanowi o zaniechaniu realizacji, okresowym wstrzymaniu realizacji lub ograniczeniu rzeczowego zakresu przedsięwzięcia, a wydatki zaplanowane w projekcie budżetu przez zarząd jednostki samorządu terytorialnego nie różnią się od wydatków przewidzianych na realizację przedsięwzięcia, organ stanowiący jednostki samorządu terytorialnego nie może, bez zgody zarządu jednostki samorządu terytorialnego, zmniejszyć wydatków zaplanowanych w uchwale budżetowej na realizację przedsięwzięcia.
+- - waloryzacja rent i emerytur nie może przekroczyć poziomu odpowiadającego wzrostowi cen towarów i usług konsumpcyjnych, ogłoszonego przez Główny Urząd Statystyczny za poprzedni rok budżetowy,
 
-**Art. 232.**
+- - wprowadza się zakaz udzielania pożyczek i kredytów z budżetu państwa z wyjątkiem rat kredytów i pożyczek udzielonych w latach poprzednich,
 
-1. Zmian w wieloletniej prognozie finansowej, z wyłączeniem zmian limitów zobowiązań i kwot wydatków na przedsięwzięcia, dokonuje zarząd jednostki samorządu terytorialnego.
+- - nie przewiduje się wzrostu wydatków w jednostkach, o których mowa w art. 139 ust. 2, na poziomie wyższym niż w administracji rządowej,
 
-2. Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd jednostki samorządu terytorialnego do dokonywania zmian limitów zobowiązań i kwot wydatków na realizację przedsięwzięcia, w tym finansowanego z udziałem środków europejskich albo środków, o których mowa w art. 5 ust. 1 pkt 3, w związku ze zmianami w realizacji tego przedsięwzięcia, o ile zmiany te nie pogorszą wyniku budżetu dla każdego roku objętego wieloletnią prognozą finansową.
+### b)
 
-3. Upoważnienie, o którym mowa w ust. 2, obejmuje także możliwość dokonywania zmian limitów zobowiązań i kwot wydatków przeznaczonych na finansowanie realizacji przedsięwzięć, o których mowa w ust. 2, w tym wkładu własnego beneficjenta, wynikających z konkursów rozstrzygniętych zgodnie z art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów lub z projektów wybranych zgodnie z art. 44 ust. 1 ustawy o zasadach realizacji programów 2021–
+Rada Ministrów dokonuje przeglądu wydatków budżetu państwa finansowanych środkami pochodzącymi z kredytów zagranicznych oraz przeglądu programów wieloletnich,
 
-2027.
+### c)
 
-#### Rozdział 3 Uchwała budżetowa
+Rada Ministrów przedstawia Sejmowi program sanacyjny mający na celu obniżenie relacji, o której mowa w art. 38 pkt 1 lit. a,
 
-**Art. 233.** Inicjatywa w sprawie sporządzenia projektu uchwały:
+### d)
 
-**Art. 234.** Uchwała organu stanowiącego jednostki samorządu terytorialnego w sprawie trybu prac nad projektem uchwały budżetowej określa w szczególności:
+wydatki budżetu jednostki samorządu terytorialnego określone w uchwale budżetowej na kolejny rok mogą być wyższe niż dochody tego budżetu powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki, jedynie o kwotę związaną z realizacją zadań ze środków, o których mowa w art. 5 ust. 3;
 
-**Art. 235.**
+### 3)
 
-1. W planie dochodów budżetu jednostki samorządu terytorialnego wyszczególnia się, w układzie działów klasyfikacji budżetowej, planowane kwoty dochodów bieżących i dochodów majątkowych według ich źródeł, w tym w szczególności z tytułu dotacji i środków na finansowanie wydatków na realizację zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+jest równa lub większa od 60%, to:
 
-2. Przez dochody bieżące budżetu jednostki samorządu terytorialnego rozumie się dochody budżetowe niebędące dochodami majątkowymi.
+### a)
 
-3. Do dochodów majątkowych zalicza się:
+stosuje się odpowiednio postanowienia pkt 2 lit. a i b,
 
-- **1)** dotacje i środki przeznaczone na inwestycje;
-- **2)** dochody ze sprzedaży majątku;
-- **3)** dochody z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności.
+### b)
 
-4. Organ stanowiący jednostki samorządu terytorialnego może ustalić większą szczegółowość planu dochodów budżetu.
+Rada Ministrów, najpóźniej w terminie miesiąca od dnia ogłoszenia relacji, o której mowa w art. 38 pkt 1 lit. a, przedstawia Sejmowi program sanacyjny mający na celu ograniczenie tej relacji do poziomu poniżej 60%,
 
-**Art. 236.**
+### c)
 
-1. W planie wydatków budżetu jednostki samorządu terytorialnego wyszczególnia się, w układzie działów i rozdziałów klasyfikacji budżetowej, planowane kwoty wydatków bieżących i wydatków majątkowych.
+wydatki budżetu jednostki samorządu terytorialnego określone w uchwale budżetowej na kolejny rok nie mogą być wyższe niż dochody tego budżetu,
 
-2. Przez wydatki bieżące budżetu jednostki samorządu terytorialnego rozumie się wydatki budżetowe niebędące wydatkami majątkowymi.
+### d)
 
-3. W planie wydatków bieżących wyodrębnia się w układzie działów i rozdziałów planowane kwoty wydatków bieżących, w szczególności na:
+poczynając od siódmego dnia po dniu ogłoszenia relacji, o której mowa w art. 38 pkt 1 lit. a, jednostki sektora finansów publicznych nie mogą udzielać nowych poręczeń i gwarancji.
 
-- **1)** wydatki jednostek budżetowych, w tym na:
-    - **a)** uposażenia i wynagrodzenia oraz składki od nich naliczane,
-    - **b)** wydatki związane z realizacją ich statutowych zadań;
+### Art. 87.
 
-- **2)** transfery bieżące, które obejmują przepływy, o których mowa w art. 124 ust. 3 pkt 1;
-- **3)** świadczenia na rzecz osób fizycznych;
-- **4)** wydatki na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w części związanej z realizacją zadań jednostki samorządu terytorialnego;
-- **5)** wypłaty z tytułu poręczeń i gwarancji udzielonych przez jednostkę samorządu terytorialnego, przypadające do spłaty w danym roku budżetowym;
-- **6)** obsługę długu jednostki samorządu terytorialnego.
+Program sanacyjny obejmuje:
 
-3a. Wydatki bieżące, o których mowa w ust. 3 pkt 1 lit. b, obejmują w szczególności:
+### 1)
 
-- **1)** daniny publiczne;
-- **2)** zakupy towarów i usług;
-- **3)** inne wydatki związane z funkcjonowaniem jednostek budżetowych i realizacją ich statutowych zadań.
+wskazanie przyczyn kształtowania się relacji państwowego długu publicznego, o której mowa w art. 38 pkt 1 lit. a;
 
-4. W planie wydatków majątkowych wyodrębnia się w układzie działów i rozdziałów planowane kwoty wydatków majątkowych, do których zalicza się:
+### 2)
 
-- **1)** nakłady na niefinansowe aktywa trwałe (wydatki inwestycyjne) obejmujące wydatki, o których mowa w art. 124 ust. 6 pkt 1;
-- **2)** transfery majątkowe obejmujące przepływy, o których mowa w art. 124 ust. 7;
-- **3)** wydatki na zakup i objęcie akcji i udziałów;
-- **4)** wydatki na wniesienie wkładów do spółek prawa handlowego.
+program przedsięwzięć mających na celu doprowadzenie do ograniczenia relacji, o której mowa w art. 38 pkt 1 lit. a, uwzględniający w szczególności propozycje rozwiązań prawnych mających wpływ na poziom wydatków i rozchodów w sektorze finansów publicznych;
 
-4a. W ramach wydatków, o których mowa w ust. 4 pkt 1 i 2, wyodrębnia się wydatki na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w części związanej z realizacją zadań jednostki samorządu terytorialnego.
+### 3)
 
-5. Organ stanowiący jednostki samorządu terytorialnego może ustalić większą szczegółowość planu wydatków.
+trzyletnią prognozę dotyczącą relacji państwowego długu publicznego do produktu krajowego brutto, wraz z przewidywanym rozwojem sytuacji makroekonomicznej kraju.
 
-**Art. 237.**
+### Art. 88.
 
-1. W planie dochodów i wydatków budżetu jednostki samorządu terytorialnego określa się także dochody i wydatki finansowane z tych dochodów, związane ze szczególnymi zasadami wykonywania budżetu jednostki wynikającymi z odrębnych ustaw.
+Przepisów art. 86 i art. 87 nie stosuje się w przypadku wprowadzenia:
 
-2. W planie dochodów i wydatków budżetu jednostki samorządu terytorialnego wyodrębnia się dochody i wydatki związane z realizacją:
+### 1)
 
-- **1)** zadań z zakresu administracji rządowej i innych zleconych jednostce samorządu terytorialnego odrębnymi ustawami;
-- **2)** zadań wykonywanych na mocy porozumień z organami administracji rządowej;
-- **3)** zadań realizowanych w drodze umów lub porozumień między jednostkami samorządu terytorialnego.
+stanu wojennego;
 
-**Art. 238.**
+### 2)
 
-1. Zarząd jednostki samorządu terytorialnego sporządza i przedkłada projekt uchwały budżetowej:
+stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej;
 
-- **1)** organowi stanowiącemu jednostki samorządu terytorialnego,
-- **2)** regionalnej izbie obrachunkowej – celem zaopiniowania – do dnia 15 listopada roku poprzedzającego rok budżetowy.
+### 3)
 
-2. Wraz z projektem uchwały budżetowej zarząd jednostki samorządu terytorialnego przedkłada organowi stanowiącemu jednostki samorządu terytorialnego i regionalnej izbie obrachunkowej:
+stanu klęski żywiołowej na całym terytorium Rzeczypospolitej Polskiej.
 
-- **1)** uzasadnienie do projektu uchwały budżetowej;
-- **2)** inne materiały określone w uchwale, o której mowa w art. 234.
+### Rozdział 4 Ogólne zasady zaciągania zobowiązań przez inne niż Skarb Państwa jednostki sektora finansów publicznych
 
-3. Opinię regionalnej izby obrachunkowej o projekcie uchwały budżetowej zarząd jednostki samorządu terytorialnego jest obowiązany przedstawić, przed uchwaleniem budżetu, organowi stanowiącemu jednostki samorządu terytorialnego.
+### Art. 89.
 
-**Art. 239.** Uchwałę budżetową organ stanowiący jednostki samorządu terytorialnego podejmuje przed rozpoczęciem roku budżetowego, a w szczególnie uzasadnionych przypadkach – nie później niż do dnia 31 stycznia roku budżetowego.
+### 1.
 
-**Art. 240.**
+Jednostki samorządu terytorialnego mogą zaciągać kredyty i pożyczki oraz emitować papiery wartościowe na:
 
-1. Do czasu podjęcia uchwały budżetowej, jednak nie później niż do dnia 31 stycznia roku budżetowego, podstawą gospodarki finansowej jest projekt uchwały budżetowej przedstawiony organowi stanowiącemu jednostki samorządu terytorialnego, o którym mowa w art. 238 ust. 1.
+### 1)
 
-2. Bez zgody zarządu jednostki samorządu terytorialnego organ stanowiący jednostki samorządu terytorialnego nie może wprowadzić w projekcie uchwały budżetowej jednostki samorządu terytorialnego zmian powodujących zmniejszenie dochodów lub zwiększenie wydatków i jednocześnie zwiększenie deficytu budżetu jednostki samorządu terytorialnego.
+pokrycie występującego w ciągu roku przejściowego deficytu budżetu jednostki samorządu terytorialnego;
 
-3. W przypadku niepodjęcia uchwały budżetowej w terminie, o którym mowa w ust. 1, regionalna izba obrachunkowa, w terminie do końca lutego roku budżetowego, ustala budżet jednostki samorządu terytorialnego w zakresie zadań własnych oraz zadań zleconych. Do dnia ustalenia budżetu przez regionalną izbę obrachunkową podstawą gospodarki finansowej jest projekt uchwały, o której mowa w ust. 1.
+### 2)
 
-**Art. 240a.**
+finansowanie planowanego deficytu budżetu jednostki samorządu terytorialnego;
 
-1. W razie braku możliwości uchwalenia wieloletniej prognozy finansowej lub budżetu jednostki samorządu terytorialnego, zgodnie z zasadami określonymi w art. 242–244, oraz zagrożenia realizacji zadań publicznych przez jednostkę samorządu terytorialnego, kolegium regionalnej izby obrachunkowej wzywa jednostkę samorządu terytorialnego do opracowania i uchwalenia programu postępowania naprawczego oraz przedłożenia tego programu celem zaopiniowania do regionalnej izby obrachunkowej, w terminie 45 dni od dnia otrzymania wezwania.
+### 3)
 
-2. Organ stanowiący jednostki samorządu terytorialnego uchwala program postępowania naprawczego na okres nieprzekraczający 3 kolejnych lat budżetowych.
+spłatę wcześniej zaciągniętych zobowiązań z tytułu emisji papierów wartościowych oraz zaciągniętych pożyczek i kredytów;
 
-3. Program postępowania naprawczego zawiera w szczególności:
+### 4)
 
-- **1)** analizę stanu finansów jednostki samorządu terytorialnego, w tym określenie przyczyn zagrożenia realizacji zadań publicznych;
-- **2)** plan przedsięwzięć naprawczych, wraz z harmonogramem ich wprowadzania, zmierzających do usunięcia zagrożenia, o którym mowa w ust. 1, oraz zachowania relacji określonej w art. 242–244;
-- **3)** przewidywane efekty finansowe poszczególnych przedsięwzięć naprawczych, wraz z określeniem sposobu ich obliczania.
+wyprzedzające finansowanie działań finansowanych ze środków pochodzących z budżetu Unii Europejskiej.
 
-4. Organ stanowiący jednostki samorządu terytorialnego może uchwalić wieloletnią prognozę finansową oraz budżet jednostki, które nie zachowują relacji określonej w art. 242–244 w okresie realizacji programu postępowania naprawczego, który uzyskał pozytywną opinię regionalnej izby obrachunkowej, przy czym niezachowanie relacji może dotyczyć jedynie spłat zobowiązań istniejących na dzień uchwalenia programu postępowania naprawczego oraz spłat pożyczki otrzymanej z budżetu państwa.
+### 2.
 
-5. W okresie realizacji postępowania naprawczego jednostka samorządu terytorialnego:
+Zaciągnięte kredyty i pożyczki oraz wyemitowane papiery wartościowe, z przeznaczeniem na cel, o którym mowa w ust. 1 pkt 1, podlegają spłacie lub wykupowi w tym samym roku, w którym zostały zaciągnięte lub wyemitowane.
 
-- **1)** nie może podejmować nowych inwestycji finansowanych kredytem, pożyczką lub emisją papierów wartościowych;
-- **2)** nie może udzielać pomocy finansowej innym jednostkom samorządu terytorialnego;
-- **3)** nie może udzielać poręczeń, gwarancji i pożyczek;
-- **4)** nie może ponosić wydatków na promocję jednostki;
-- **5)** nie może ponosić wydatków z funduszu sołeckiego, chyba że poniesienie wydatków jest konieczne do zakończenia realizacji zadania rozpoczętego przed dniem przyjęcia programu postępowania naprawczego;
-- **6)** ogranicza realizację zadań innych niż obligatoryjne, finansowanych ze środków własnych.
+### Art. 90.
 
-6. Począwszy od miesiąca następującego po miesiącu, w którym został przyjęty program postępowania naprawczego, do dnia zakończenia postępowania naprawczego wysokość ustalonych przez organ stanowiący jednostki samorządu terytorialnego diet radnych i wydatków na wynagrodzenie zarządu jednostki samorządu terytorialnego nie może przekroczyć odpowiednich kwot wydatków z tego tytułu z roku poprzedzającego rok, w którym została podjęta uchwała w sprawie programu postępowania naprawczego.
+Na finansowanie wydatków na inwestycje i zakupy inwestycyjne ujęte w ramach przedsięwzięć, o których mowa w art. 226 ust. 3, jednostki samorządu terytorialnego mogą zaciągać pożyczki w państwowych funduszach celowych, o ile ustawa tworząca fundusz tak stanowi.
 
-7. Program postępowania naprawczego może zawierać inne ograniczenia niż określone w ust. 5 i 6.
+### Art. 91.
 
-8. W przypadku nieopracowania przez jednostkę samorządu terytorialnego programu postępowania naprawczego lub braku pozytywnej opinii regionalnej izby obrachunkowej do tego programu budżet jednostki ustala regionalna izba obrachunkowa. Budżet może być ustalony bez zachowania relacji określonej w art. 242–244. Przepis art. 240 ust. 3 stosuje się odpowiednio.
+### 1.
 
-9. Zmiana budżetu jednostki samorządu terytorialnego ustalonego zgodnie z ust. 8, bez zachowania relacji określonych w art. 242–244, nie może powodować zwiększenia stopnia niezachowania relacji wynikającego z tego budżetu.
+Suma zaciągniętych kredytów i pożyczek oraz zobowiązań z wyemitowanych papierów wartościowych, o których mowa w art. 89 ust. 1 i art. 90, nie może przekroczyć kwoty określonej w uchwale budżetowej jednostki samorządu terytorialnego.
 
-10. Do ustalenia budżetu jednostki samorządu terytorialnego zgodnie z ust. 8 oraz do jego zmiany przepisy ust. 5 i 6 stosuje się odpowiednio.
+### 2.
 
-11. W przypadku nieopracowania przez jednostkę samorządu terytorialnego programu postępowania naprawczego lub braku pozytywnej opinii regionalnej izby obrachunkowej do tego programu w jednostce samorządu terytorialnego można zawiesić jej organy i ustanowić zarząd komisaryczny, w trybie i na zasadach określonych w ustawie z dnia 8 marca 1990 r. o samorządzie gminnym, ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym albo ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa, z wyłączeniem wezwania organów jednostki do niezwłocznego przedłożenia programu poprawy sytuacji. W tym przypadku program postępowania naprawczego jest niezwłocznie opracowywany i przedstawiany do zaopiniowania regionalnej izbie obrachunkowej przez komisarza rządowego.
+W przypadku ubiegania się przez jednostkę samorządu terytorialnego o kredyt lub pożyczkę na cel, o którym mowa w art. 89 ust. 1 pkt 2-4 i art. 90, a także w przypadku zamiaru emisji przez jednostkę samorządu terytorialnego papierów wartościowych na cel, o którym mowa w art. 89 ust. 1 pkt 2-4 i art. 90, zarząd tej jednostki jest obowiązany uzyskać opinię regionalnej izby obrachunkowej o możliwości spłaty kredytu lub pożyczki lub wykupu papierów wartościowych.
 
-**Art. 240b.**
+### Art. 92.
 
-1. W razie braku możliwości uchwalenia wieloletniej prognozy finansowej lub budżetu jednostki samorządu terytorialnego, zgodnie z zasadami określonymi w art. 242–244, budżet jednostki samorządu terytorialnego ustala regionalna izba obrachunkowa. Budżet może być ustalony bez zachowania relacji określonych w art. 242–244. Przepis art. 240 ust. 3 stosuje się odpowiednio.
+### 1.
 
-2. Do zmiany budżetu jednostki samorządu terytorialnego ustalonego zgodnie z ust. 1, bez zachowania relacji określonych w art. 242–244, przepis art. 240a ust. 9 stosuje się odpowiednio.
+Jednostki samorządu terytorialnego mogą zaciągać jedynie takie zobowiązania finansowe, z przeznaczeniem na cel, o którym mowa w art. 89 ust. 1 pkt 2-4 oraz art. 90, których koszty obsługi są ponoszone co najmniej raz do roku, przy czym:
 
-**Art. 241.** W przypadku gdy Rada Ministrów uchwali projekt ustawy o prowizorium budżetowym, organ stanowiący jednostki samorządu terytorialnego, na wniosek zarządu, może podjąć uchwałę o prowizorium budżetowym jednostki samorządu terytorialnego na okres objęty prowizorium budżetowym.
+### 1)
 
-**Art. 242.**
+dyskonto od emitowanych przez jednostki samorządu terytorialnego papierów wartościowych nie może przekraczać 5% wartości nominalnej;
 
-1. Organ stanowiący jednostki samorządu terytorialnego nie może uchwalić budżetu, w którym planowane wydatki bieżące są wyższe niż planowane dochody bieżące powiększone o przychody, o których mowa w art. 217 ust. 2 pkt 5, 7 i 8.
+### 2)
 
-2. Na koniec roku budżetowego wykonane wydatki bieżące nie mogą być wyższe niż wykonane dochody bieżące powiększone o przychody, o których mowa w art. 217 ust. 2 pkt 5, 7 i 8, z zastrzeżeniem ust. 3 i 4.
+kapitalizacja odsetek jest niedopuszczalna.
 
-3. Wykonane wydatki bieżące mogą być wyższe niż wykonane dochody bieżące powiększone o nadwyżkę budżetową z lat ubiegłych jedynie o kwotę związaną z realizacją wydatków bieżących z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, w przypadku gdy środki te nie zostały przekazane w danym roku budżetowym.
+### 2.
 
-4. W przypadku równoważenia wydatków bieżących środkami, o których mowa w art. 217 ust. 2 pkt 8, ocena spełnienia zasady określonej w ust. 2 za rok poprzedzający rok budżetowy następuje po wyeliminowaniu kwot związanych z tymi środkami.
+Ograniczenie, o którym mowa w ust. 1, stosuje się odpowiednio do jednostek sektora finansów publicznych innych niż Skarb Państwa.
 
-**Art. 243.**
+### Art. 93.
 
-1. Organ stanowiący jednostki samorządu terytorialnego nie może uchwalić budżetu, którego realizacja spowoduje, że w roku budżetowym oraz w każdym roku następującym po roku budżetowym relacja łącznej kwoty przypadających w danym roku budżetowym:
+### 1.
 
-- **1)** spłat rat kredytów i pożyczek, o których mowa w art. 89 ust. 1 pkt 2–4 oraz art. 90, wraz z należnymi w danym roku wydatkami bieżącymi na obsługę zobowiązań, o których mowa w art. 89 ust. 1 i art. 90, w tym odsetkami od kredytów i pożyczek,
-- **2)** wykupów papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 pkt 2–4 oraz art. 90 wraz z należnymi w danym roku wydatkami bieżącymi na obsługę zobowiązań wynikających z papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 i art. 90, w tym odsetkami i dyskontem od tych papierów,
-- **3)** spłat rat zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, innych niż określone w pkt 1, z wyłączeniem rat zobowiązań określonych w art. 91 ust. 3 pkt 1, wraz z należnymi w danym roku wydatkami bieżącymi na obsługę zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, innych niż określone w pkt 1,
-- **4)** potencjalnych spłat kwot wynikających z udzielonych poręczeń oraz gwarancji – do planowanych dochodów bieżących budżetu przekroczy średnią arytmetyczną z obliczonych dla ostatnich siedmiu lat relacji jej dochodów bieżących pomniejszonych o wydatki bieżące do dochodów bieżących budżetu, obliczoną według wzoru: (R+O) 1 (Dbei−Wbei) ≤ ×∑ Db 7 Dbi w którym poszczególne symbole oznaczają: R – planowaną na rok budżetowy łączną kwotę z tytułu spłaty rat zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, oraz wykupów papierów wartościowych, z wyłączeniem kwot spłat kredytów i pożyczek oraz wykupów papierów wartościowych odpowiednio zaciągniętych lub emitowanych na cel, o którym mowa w art. 89 ust. 1 pkt 1, i zobowiązań określonych w art. 91 ust. 3 pkt 1, O – planowane na rok budżetowy wydatki bieżące na obsługę długu, w tym odsetki od zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, odsetki i dyskonto od papierów wartościowych oraz spłaty kwot wynikających z udzielonych poręczeń i gwarancji, Db – planowane na rok, na który ustalana jest relacja, dochody bieżące budżetu pomniejszone o dotacje i środki przeznaczone na cele bieżące, Dbei – dochody bieżące w roku poprzedzającym o i-lat rok, na który ustalana jest relacja, pomniejszone o dotacje i środki o charakterze bieżącym na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, Dbi – dochody bieżące w roku poprzedzającym o i-lat rok, na który ustalana jest relacja, pomniejszone o dotacje i środki przeznaczone na cele bieżące, Wbei – wydatki bieżące w roku poprzedzającym o i-lat rok, na który ustalana jest relacja, pomniejszone o wydatki bieżące z tytułu spłaty rat zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, wydatki bieżące na obsługę długu oraz wydatki bieżące na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2.
+Jednostki sektora finansów publicznych, z wyjątkiem Skarbu Państwa, nie mogą zaciągać pożyczek lub kredytów, emitować papierów wartościowych oraz udzielać poręczeń i gwarancji, których wartość nominalna należna do zapłaty w dniu wymagalności, wyrażona w złotych, nie została ustalona w dniu zawierania transakcji.
 
-2. Przy obliczaniu relacji, o których mowa w ust. 1:
+### 2.
 
-- **1)** dochody bieżące budżetu, do których odnoszone są łączna kwota spłat i wykupów określona w ust. 1 oraz kwota dochodów bieżących pomniejszonych o wydatki bieżące, podlegają pomniejszeniu o dotacje i środki przeznaczone na cele bieżące;
-- **2)** dochody bieżące budżetu pomniejszane o wydatki bieżące podlegają pomniejszeniu o dotacje i środki o charakterze bieżącym na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
-- **3)** wydatki bieżące budżetu podlegają pomniejszeniu o:
-    - **a)** wydatki bieżące z tytułu spłaty rat zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2,
-    - **b)** wydatki bieżące na obsługę długu,
-    - **c)** wydatki bieżące na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
+Rada Ministrów określi, w drodze rozporządzenia, przypadki, w których nie stosuje się ograniczeń, o których mowa w ust. 1, uwzględniając w szczególności specyfikę kredytów i pożyczek z instytucji międzynarodowych lub od pożyczkodawców rządowych, jak również biorąc pod uwagę możliwość wywiązywania się z zaciągniętych zobowiązań oraz ograniczenie wzrostu poziomu państwowego długu publicznego.
 
-- **4)** dla roku poprzedzającego rok budżetowy, na który ustalana jest relacja, przyjmuje się planowane wartości wykazane w sprawozdaniu za trzy kwartały z wykonania budżetu jednostki samorządu terytorialnego, a po sporządzeniu sprawozdań rocznych – wartości wykonane za ten rok, z tym że do obliczenia relacji dla poprzednich sześciu lat przyjmuje się wartości wykonane wynikające ze sprawozdań rocznych.
+### Art. 94.
 
-2a. Przy obliczaniu relacji, o których mowa w ust. 1, do dochodów bieżących budżetu pomniejszonych o wydatki bieżące dodaje się wykonane dochody ze sprzedaży majątku wynikające ze sprawozdań, o których mowa w ust. 2 pkt 4.
+### 1.
 
-3. Ograniczenia określonego w ust. 1 nie stosuje się do:
+Jednostki samorządu terytorialnego mogą udzielać poręczeń i gwarancji, z uwzględnieniem przepisów niniejszej ustawy. Łączna kwota poręczeń i gwarancji określana jest w uchwale budżetowej.
 
-- **1)** spłat rat kredytów i pożyczek zaciągniętych w związku z umową zawartą na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, wraz z należnymi odsetkami, 1a) wykupów papierów wartościowych emitowanych w związku z umową zawartą na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, wraz z należnymi odsetkami i dyskontem,
-- **2)** poręczeń i gwarancji udzielonych samorządowym osobom prawnym realizującym zadania jednostki samorządu terytorialnego w ramach programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 – w terminie nie dłuższym niż 90 dni po zakończeniu programu, projektu lub zadania i otrzymaniu refundacji z tych środków; termin ten nie ma zastosowania do odsetek i dyskonta od zobowiązań zaciągniętych na wkład krajowy, o których mowa w pkt 1 i 1a.
+### 2.
 
-3a. Ograniczenia określonego w ust. 1 nie stosuje się także do wykupów papierów wartościowych, spłat rat kredytów i pożyczek wraz z należnymi odsetkami i dyskontem, odpowiednio emitowanych lub zaciągniętych w związku z umową zawartą na realizację programu, projektu lub zadania finansowanego w co najmniej 50 % ze środków, o których mowa w art. 5 ust. 1 pkt 2, w części odpowiadającej wydatkom na wkład krajowy finansowanych tymi zobowiązaniami. W przypadku programu, projektu lub zadania przynoszącego dochód, poziom finansowania ze środków, o których mowa w art. 5 ust. 1 pkt 2, ustala się po odliczeniu zdyskontowanego dochodu obliczanego zgodnie z przepisami Unii Europejskiej dotyczącymi takiego programu, projektu lub zadania, a kwotę wydatków na wkład krajowy ustala się w wysokości jaka wynikałaby, gdyby poziom finansowania ze środków, o których mowa w art. 5 ust. 1 pkt 2, obliczony został bez uwzględnienia zdyskontowanego dochodu.
+Poręczenia i gwarancje, o których mowa w ust. 1, są terminowe i udzielane do określonej kwoty.
 
-3b. Ograniczenia określonego w ust. 1 nie stosuje się także do następującej wyłącznie w roku budżetowym, na który uchwalono budżet, wcześniejszej spłaty zobowiązań, która przypadałaby po roku budżetowym, na który uchwalono budżet:
+### Rozdział 5 Zasady i tryb emisji skarbowych papierów wartościowych
 
-- **1)** środkami pochodzącymi z nowego zobowiązania, jeżeli obniża to łączny koszt obsługi długu w całym okresie spłaty;
-- **2)** wynikających z posiadania wolnych środków, o których mowa w art. 217 ust. 2 pkt 6, środkami z tego tytułu;
-- **3)** środkami z tytułu innego niż wymieniony w pkt 1 i 2, w szczególności z posiadanych przychodów, o których mowa w art. 217 ust. 2 pkt 4 i 7, jeżeli jednostka nie zaciąga zobowiązań dłużnych określonych w art. 89 ust. 1 pkt 2.
+### Art. 95.
 
-4. W przypadku niespełnienia warunków, o których mowa w ust. 3 lub 3a, lub gdy określone w umowie o dofinansowanie środki, o których mowa w art. 5 ust. 1 pkt 2, nie zostały przekazane albo po ich przekazaniu został orzeczony ich zwrot, jednostka samorządu terytorialnego nie może emitować papierów wartościowych, zaciągać zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, ani udzielać poręczeń i gwarancji do czasu spełnienia relacji, o której mowa w ust. 1, uwzględniając w tej relacji kwotę zobowiązań związaną z:
+### 1.
 
-- **1)** nieprzekazanymi środkami lub środkami, w stosunku do których orzeczono zwrot;
-- **2)** niespełnieniem warunków, o których mowa w ust. 3 lub 3a.
+Skarbowy papier wartościowy jest papierem wartościowym, w którym Skarb Państwa stwierdza, że jest dłużnikiem właściciela takiego papieru, i zobowiązuje się wobec niego do spełnienia określonego świadczenia, które może mieć charakter pieniężny lub niepieniężny.
 
-5. Ustalenie spełnienia warunku określonego w ust. 3b pkt 1 następuje na podstawie danych przedstawianych przez jednostkę samorządu terytorialnego, przy czym, określając łączny koszt obsługi długu związany z danym zobowiązaniem, należy uwzględnić koszty, które jednostka jest obowiązana zapłacić, w szczególności odsetki, opłaty i prowizje.
+### 2.
 
-**Art. 243a.** Środków, o których mowa w art. 26 ust. 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708 oraz z 2025 r. poz.
+Skarbowe papiery wartościowe mogą być emitowane lub wystawiane w granicach limitów określonych w ustawie budżetowej.
 
-**Art. 244.**
+### 3.
 
-1. Do łącznej kwoty przypadających w danym roku budżetowym spłat i wykupów, o których mowa w art. 243 ust. 1, dodaje się, przypadające do spłaty w tym samym roku budżetowym, kwoty zobowiązań związku współtworzonego przez daną jednostkę samorządu terytorialnego:
+Skarbowe papiery wartościowe opiewające na świadczenia pieniężne mogą być emitowane lub wystawiane wyłącznie przez Ministra Finansów.
 
-- **1)** w wysokości proporcjonalnej do jej udziału we wspólnej inwestycji współfinansowanej kredytem, pożyczką lub emisją obligacji spłacanych lub wykupywanych w danym roku budżetowym;
-- **2)** w pozostałych przypadkach – w wysokości proporcjonalnej do jej udziału we wpłatach wnoszonych na rzecz związku, którego jest członkiem.
+### 4.
 
-2. Łączna kwota spłat i wykupów jednostki samorządu terytorialnego, o której mowa w art. 243, nie obejmuje zobowiązań związku współtworzonego przez tę jednostkę, na które jednostka udzieliła gwarancji i poręczeń.
+Skarbowe papiery wartościowe opiewające na świadczenia niepieniężne emituje minister właściwy do spraw Skarbu Państwa w porozumieniu z Ministrem Finansów.
 
-**Art. 245.** Zarząd związku jednostek samorządu terytorialnego informuje zarządy jednostek samorządu terytorialnego tworzących związek oraz właściwą regionalną izbę obrachunkową o kwotach zobowiązań związku, w terminie 15 dni od dnia ich zaciągnięcia.
+### 5.
 
-**Art. 246.**
+Skarbowe papiery wartościowe opiewające na świadczenia pieniężne uprawniające do określonych świadczeń niepieniężnych w zamian za te skarbowe papiery wartościowe emituje Minister Finansów w porozumieniu z ministrem właściwym do spraw Skarbu Państwa.
 
-1. Regionalna izba obrachunkowa na podstawie projektu uchwały budżetowej przedstawia opinię w sprawie możliwości sfinansowania deficytu przedstawionego przez jednostkę samorządu terytorialnego.
+### 6.
 
-2. Opinia, o której mowa w ust. 1, jest publikowana przez jednostkę samorządu terytorialnego w terminie 7 dni od dnia otrzymania od regionalnej izby obrachunkowej, na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
+Skarb Państwa odpowiada całym majątkiem za zobowiązania wynikające z wyemitowanych lub wystawionych skarbowych papierów wartościowych.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do uchwały budżetowej.
+### Art. 96.
 
-#### Rozdział 4 Wykonywanie budżetu jednostki samorządu terytorialnego
+Skarbowe papiery wartościowe mogą być emitowane lub wystawiane jako papiery wartościowe o pierwotnym terminie wykupu:
 
-**Art. 247.**
+### 1)
 
-1. Budżet jednostki samorządu terytorialnego wykonuje jej zarząd.
+nie dłuższym niż rok, do których zalicza się w szczególności bony skarbowe (krótkoterminowe skarbowe papiery wartościowe);
 
-2. Zarząd jednostki samorządu terytorialnego sprawuje ogólny nadzór nad realizacją, określonych uchwałą budżetową, dochodów i wydatków, przychodów i rozchodów budżetu jednostki samorządu terytorialnego.
+### 2)
 
-3. Zarząd jednostki samorządu terytorialnego określi szczegółowe zasady, sposób i tryb przyznawania i korzystania ze służbowych kart płatniczych przy dokonywaniu wydatków z budżetu jednostki samorządu terytorialnego oraz innych samorządowych jednostek organizacyjnych i osób prawnych, a także zasady rozliczania płatności dokonywanych przy ich wykorzystaniu, z uwzględnieniem konieczności zapewnienia prawidłowości i gospodarności dokonywania wydatków.
+dłuższym niż rok, do których zalicza się w szczególności obligacje skarbowe.
 
-**Art. 248.**
+### Art. 97.
 
-1. W terminie 7 dni od dnia przekazania projektu uchwały budżetowej organowi stanowiącemu jednostki samorządu terytorialnego zarząd jednostki samorządu terytorialnego przekazuje podległym jednostkom informacje niezbędne do opracowania projektów ich planów finansowych.
+### 1.
 
-2. Jednostki, o których mowa w ust. 1, opracowują projekty planów finansowych w terminie 30 dni od dnia otrzymania informacji określonej w ust. 1, nie później jednak niż do dnia 22 grudnia.
+Minister Finansów określi, w drodze rozporządzenia, warunki emitowania danego rodzaju skarbowych papierów wartościowych, a w szczególności:
 
-**Art. 249.**
+### 1)
 
-1. W terminie 21 dni od dnia podjęcia uchwały budżetowej zarząd jednostki samorządu terytorialnego:
+jednostkową wartość nominalną,
 
-- **1)** przekazuje podległym jednostkom informacje o ostatecznych kwotach dochodów i wydatków tych jednostek oraz wysokości dotacji i wpłat do budżetu;
-- **2)** opracowuje plan finansowy zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami, przyjmując jako podstawę dla tego planu kwotę dotacji przyznanych na ten cel w roku budżetowym oraz wielkość dochodów związanych z realizacją tych zadań, które podlegają przekazaniu do budżetu państwa.
+### 2)
 
-2. Jednostki organizacyjne jednostki samorządu terytorialnego dostosowują projekty planów do uchwały budżetowej.
+walutę, w której może następować emisja, lub sposób określenia waluty emisji,
 
-3. W planie finansowym urzędu jednostki samorządu terytorialnego ujmuje się wszystkie wydatki budżetowe nieujęte w planach finansowych innych jednostek budżetowych, w tym wydatki związane z funkcjonowaniem organu stanowiącego jednostki samorządu terytorialnego i zarządu jednostki samorządu terytorialnego.
+### 3)
 
-4. W planie, o którym mowa w ust. 3, ujmuje się także:
+zasady i tryb sprzedaży, w tym termin lub sposób ustalenia ceny sprzedaży emitowanych papierów wartościowych na rynku pierwotnym,
 
-- **1)** dotacje dla samorządowych zakładów budżetowych;
-- **2)** dotacje i środki przekazywane na rzecz innych jednostek samorządu terytorialnego i związków jednostek samorządu terytorialnego;
-- **3)** pozostałe dotacje, zgodnie z ust. 5;
-- **4)** (uchylony)
-- **5)** płatności oraz składki wpłacane na rzecz instytucji krajowych i zagranicznych.
+### 4)
 
-5. W planie finansowym samorządowej jednostki budżetowej, innej niż urząd marszałkowski, starostwo powiatowe, urząd gminy, mogą być ujmowane dotacje związane z realizacją programów operacyjnych oraz inne dotacje, w tym udzielane na finansowanie lub dofinansowanie realizacji zadania publicznego organizacjom pozarządowym, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, oraz podmiotom wymienionym w art. 3 ust. 3 tej ustawy.
+podmioty, którym skarbowe papiery wartościowe danej emisji są oferowane do nabycia na rynku pierwotnym,
 
-6. Zarząd jednostki samorządu terytorialnego może opracować harmonogram realizacji budżetu jednostki samorządu terytorialnego i poinformować o nim podległe i nadzorowane jednostki.
+### 5)
 
-**Art. 250.** Zarząd jednostki samorządu terytorialnego, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
+ograniczenia co do obrotu skarbowymi papierami wartościowymi na rynku pierwotnym i wtórnym,
 
-**Art. 251.**
+### 6)
 
-1. Dotacje udzielone z budżetu jednostki samorządu terytorialnego w części niewykorzystanej do końca roku budżetowego podlegają zwrotowi do budżetu tej jednostki w terminie do dnia 31 stycznia następnego roku, z zastrzeżeniem terminów wynikających z przepisów wydanych na podstawie art. 189 ust. 4.
+sposób realizacji świadczeń z tytułu skarbowych papierów wartościowych
 
-2. W przypadku podjęcia uchwały, o której mowa w art. 263 ust. 2, niewykorzystana część dotacji podlega zwrotowi do budżetu jednostki samorządu terytorialnego w terminie 15 dni od dnia określonego w tej uchwale.
+- kierując się koniecznością optymalnego zaspokajania potrzeb pożyczkowych budżetu państwa oraz efektywnego zarządzania długiem Skarbu Państwa.
 
-3. W przypadku gdy termin wykorzystania dotacji, o których mowa w ust. 1, jest krótszy niż rok budżetowy, niewykorzystana część dotacji podlega zwrotowi w terminie 15 dni po upływie terminu wykorzystania dotacji.
+### 2.
 
-4. Wykorzystanie dotacji następuje w szczególności przez zapłatę za zrealizowane zadania, na które dotacja była udzielona, albo, w przypadku gdy odrębne przepisy stanowią o sposobie udzielenia i rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych w tych przepisach.
+Minister Finansów w porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, w drodze rozporządzenia, warunki emitowania skarbowych papierów wartościowych, o których mowa w art. 95 ust. 5, a w szczególności:
 
-5. Od kwot dotacji zwróconych po terminach określonych w ust. 1–3 nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po upływie terminów zwrotu określonych w ust. 1–3.
+### 1)
 
-**Art. 252.**
+walutę, w której może następować emisja,
 
-1. Dotacje udzielone z budżetu jednostki samorządu terytorialnego:
+### 2)
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi do budżetu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w ciągu 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
+zasady i tryb sprzedaży skarbowych papierów wartościowych,
 
-2. W przypadku gdy termin wykorzystania dotacji, o których mowa w ust. 1, jest krótszy niż rok budżetowy, podlegają one zwrotowi w terminie 15 dni po upływie terminu wykorzystania dotacji.
+### 3)
 
-3. Dotacjami pobranymi w nadmiernej wysokości są dotacje otrzymane z budżetu jednostki samorządu terytorialnego w wysokości wyższej niż określona w odrębnych przepisach, umowie lub wyższej niż niezbędna na dofinansowanie lub finansowanie dotowanego zadania.
+rodzaj świadczeń niepieniężnych wydawanych w zamian za skarbowe papiery wartościowe,
 
-4. Dotacjami nienależnymi są dotacje udzielone bez podstawy prawnej.
+### 4)
 
-5. Zwrotowi do budżetu jednostki samorządu terytorialnego podlega ta część dotacji, która została wykorzystana niezgodnie z przeznaczeniem, nienależnie udzielona lub pobrana w nadmiernej wysokości.
+podmioty, którym skarbowe papiery wartościowe danej emisji mogą być oferowane do nabycia na rynku pierwotnym,
 
-6. Odsetki od dotacji podlegających zwrotowi do budżetu jednostki samorządu terytorialnego nalicza się począwszy od dnia:
+### 5)
 
-- **1)** przekazania z budżetu jednostki samorządu terytorialnego dotacji wykorzystanych niezgodnie z przeznaczeniem;
-- **2)** następującego po upływie terminów zwrotu określonych w ust. 1 i 2 w odniesieniu do dotacji pobranej nienależnie lub w nadmiernej wysokości.
+ograniczenia co do obrotu skarbowymi papierami wartościowymi na rynku pierwotnym i wtórnym
 
-**Art. 253.** Przepisów art. 251 i art. 252 nie stosuje się, jeżeli odrębne ustawy określają zasady i tryb zwrotu dotacji.
+- kierując się koniecznością zapewnienia efektywnego zarządzania długiem oraz aktywami Skarbu Państwa.
 
-**Art. 254.** W toku wykonywania budżetu jednostki samorządu terytorialnego obowiązują następujące zasady gospodarki finansowej:
+### Art. 98.
 
-**Art. 255.**
+### 1.
 
-1. Zarząd jednostki samorządu terytorialnego przekazuje pobrane dochody budżetowe związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami, pomniejszone o określone w odrębnych ustawach dochody budżetowe przysługujące jednostce samorządu terytorialnego z tytułu wykonywania tych zadań, na rachunek bieżący dochodów dysponenta części budżetowej przekazującego dotację celową, według stanu środków określonego na:
+Minister Finansów określi, przez wydanie listu emisyjnego, szczegółowe warunki emisji skarbowych papierów wartościowych dotyczące treści świadczeń wynikających ze skarbowego papieru wartościowego i sposób ich realizacji.
 
-- **1)** 10. dzień miesiąca – w terminie do 15. dnia danego miesiąca,
-- **2)** 20. dzień miesiąca – w terminie do 25. dnia danego miesiąca – a w przypadku gdy ten dzień przypada w dniu ustawowo wolnym od pracy lub w sobotę – do dnia następnego, który nie jest dniem wolnym od pracy ani sobotą.
+### 2.
 
-2. Pobrane od dnia 21 grudnia do dnia 31 grudnia dochody budżetowe, o których mowa w ust. 1, są przekazywane przez zarząd jednostki samorządu terytorialnego na rachunek bieżący dochodów dysponenta części budżetowej przekazującego dotację celową w terminie do dnia 8 stycznia roku następującego po roku budżetowym, a w przypadku gdy ten dzień przypada w dniu ustawowo wolnym od pracy lub w sobotę – do dnia następnego, który nie jest dniem wolnym od pracy ani sobotą.
+Minister Finansów w porozumieniu z ministrem właściwym do spraw Skarbu Państwa określi, przez wydanie listu emisyjnego, szczegółowe warunki emisji skarbowych papierów wartościowych, o których mowa w art. 95 ust. 5, dotyczące treści świadczeń wynikających z tego papieru i sposób ich realizacji. Przepisy ust. 4 i 5 stosuje się odpowiednio.
 
-3. Dochody, o których mowa w ust. 1 i 2, są przekazywane wraz z należnymi odsetkami:
+### 3.
 
-- **1)** pobranymi od dłużników z tytułu nieterminowo regulowanych należności stanowiących dochód budżetu państwa;
-- **2)** naliczonymi w wysokości jak dla zaległości podatkowych w przypadku nieodprowadzonych dochodów budżetowych przez zarząd jednostki samorządu terytorialnego w terminach, o których mowa w ust. 1 i 2.
+Minister Finansów może upoważnić inny podmiot do wydania listu emisyjnego dotyczącego skarbowych papierów wartościowych przeznaczonych na rynki finansowe.
 
-4. W przypadku nieprzekazania dochodów budżetowych w terminach, o których mowa w ust. 1 i 2, dysponent części budżetowej przekazujący dotację celową wydaje decyzję określającą kwotę dochodów przypadającą do zwrotu i termin, od którego naliczane są odsetki.
+### 4.
 
-5. Do dochodów budżetowych nieprzekazanych przez jednostkę samorządu terytorialnego do budżetu państwa stosuje się odpowiednio przepisy dotyczące zwrotu dotacji.
+List emisyjny zawiera w szczególności:
 
-6. Od kwot dochodów budżetowych związanych z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych odrębnymi ustawami jednostce samorządu terytorialnego przekazanych po terminie określonym w ust. 1 lub 2, nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po dniu, w którym upłynął termin ich przekazania.
+### 1)
 
-**Art. 256.** Wydatki nieprzewidziane, których obowiązkowe płatności wynikają z tytułów wykonawczych, wyroków sądowych lub ugód, mogą być dokonywane bez względu na poziom środków finansowych zaplanowanych na ten cel. Odpowiednia zmiana planu wydatków powinna nastąpić w trybie przeniesień wydatków z innych podziałek klasyfikacji wydatków lub z rezerw celowych.
+datę emisji;
 
-**Art. 257.** W toku wykonywania budżetu zarząd może dokonywać zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego polegających na zmianach planu:
+### 2)
 
-**Art. 257a.** Na obszarze objętym stanem klęski żywiołowej, stanem epidemii lub stanem zagrożenia epidemicznego wójt (burmistrz, prezydent miasta), zarząd powiatu lub zarząd województwa może dokonywać:
+powołanie podstawy prawnej emisji;
 
-**Art. 258.**
+### 3)
 
-1. Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd do:
+cenę zbycia lub sposób jej ustalenia;
 
-- **1)** dokonywania innych zmian w planie wydatków niż określone w art. 257, z wyłączeniem przeniesień wydatków między działami;
-- **2)** przekazania niektórych uprawnień do dokonywania przeniesień planowanych wydatków innym jednostkom organizacyjnym jednostki samorządu terytorialnego;
-- **3)** (uchylony)
-- **4)** dokonywania zmian w planie dochodów i wydatków związanych:
-    - **a)** ze zmianą kwot lub uzyskaniem płatności przekazywanych z budżetu środków europejskich, o ile zmiany te nie pogorszą wyniku budżetu,
-    - **b)** ze zmianami w realizacji przedsięwzięcia, w tym finansowanego z udziałem środków europejskich albo środków, o których mowa w art. 5 ust. 1 pkt 3, o ile zmiany te nie pogorszą wyniku budżetu,
-    - **c)** ze zwrotem płatności otrzymanych z budżetu środków europejskich,
-    - **d)** z otrzymaniem środków pochodzących z darowizn z poleceniem, o którym mowa w art. 893 Kodeksu cywilnego.
+### 4)
 
-2. Kierownicy jednostek organizacyjnych dokonujący przeniesień wydatków na podstawie upoważnień, o których mowa w ust. 1 pkt 2, wprowadzają odpowiednie zmiany w planach finansowych i informują o dokonanych przeniesieniach zarząd.
+stopę procentową lub sposób jej obliczania;
 
-3. Sejmik województwa może upoważnić zarząd województwa do dokonywania przeniesień w planie wydatków między działami, wynikających z konkursów rozstrzygniętych zgodnie z art. 38 ust. 1 pkt 1 ustawy o zasadach realizacji programów lub z projektów wybranych zgodnie z art. 44 ust. 1 ustawy o zasadach realizacji programów 2021–2027, w zakresie zadań związanych z realizacją programów, dla których zarząd województwa jest instytucją zarządzającą.
+### 5)
 
-**Art. 259.**
+określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
 
-1. Rezerwy celowe mogą być przeznaczone wyłącznie na cel, na jaki zostały utworzone, oraz wykorzystane zgodnie z klasyfikacją budżetową wydatków.
+### 6)
 
-2. Zarząd jednostki samorządu terytorialnego może, po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu organu stanowiącego jednostki samorządu terytorialnego, dokonać zmiany przeznaczenia rezerwy celowej.
+datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
 
-3. Wydatki przenoszone z rezerwy ogólnej nie mogą zwiększać planowanych wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne przepisy nie stanowią inaczej.
+### 7)
 
-**Art. 260.**
+termin wykupu oraz zastrzeżenia dotyczące możliwości wcześniejszego wykupu.
 
-1. W przypadkach stwierdzenia:
+### 5.
 
-- **1)** niegospodarności w określonych jednostkach,
-- **2)** opóźnień w realizacji zadań,
-- **3)** nadmiaru posiadanych środków,
-- **4)** naruszenia zasad gospodarki finansowej, o których mowa w art. 254 – zarząd jednostki samorządu terytorialnego może podjąć decyzję o blokowaniu planowanych wydatków budżetowych.
+Minister Finansów podaje do publicznej wiadomości szczegółowe warunki danej emisji. Podanie do publicznej wiadomości listu emisyjnego jest warunkiem dojścia emisji do skutku.
 
-2. O podjętej decyzji zarząd jednostki samorządu terytorialnego zawiadamia organ stanowiący jednostki samorządu terytorialnego.
+### Art. 99.
 
-3. Zarząd jednostki samorządu terytorialnego może, po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu organu stanowiącego jednostki samorządu terytorialnego, utworzyć nową rezerwę celową na finansowanie zobowiązań jednostki samorządu terytorialnego, przenosząc do niej zablokowane kwoty wydatków.
+Bon skarbowy jest krótkoterminowym papierem wartościowym oferowanym do sprzedaży w kraju na rynku pierwotnym z dyskontem i wykupywanym według wartości nominalnej po upływie okresu, na jaki został wyemitowany.
 
-4. Rezerwa celowa, o której mowa w ust. 3, nie może być przeznaczona na finansowanie wynagrodzeń i uposażeń.
+### Art. 100.
 
-**Art. 261.** Kierownik samorządowej jednostki budżetowej może, w celu realizacji zadań, zaciągać zobowiązania pieniężne, w tym zobowiązania zaliczane do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, inne niż kredyt i pożyczka, do wysokości kwot wydatków określonych w zatwierdzonym planie finansowym jednostki.
+### 1.
 
-**Art. 262.**
+Obligacja skarbowa jest papierem wartościowym oferowanym do sprzedaży w kraju lub za granicą, oprocentowanym w postaci dyskonta lub odsetek.
 
-1. Czynności prawnych polegających na zaciąganiu kredytów i pożyczek, innych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa w art. 72 ust. 1 pkt 2, oraz udzielaniu pożyczek, poręczeń i gwarancji, a także emisji papierów wartościowych dokonuje dwóch członków zarządu wskazanych w uchwale przez zarząd, z zastrzeżeniem ust. 2. Dla ważności tych czynności konieczna jest kontrasygnata skarbnika jednostki samorządu terytorialnego.
+### 2.
 
-2. Czynności prawnych, o których mowa w ust. 1, w gminie dokonuje wójt, burmistrz, prezydent miasta.
+Obligacja skarbowa sprzedawana jest na rynku pierwotnym:
 
-3. Skarbnik, który odmówi kontrasygnaty, dokonuje jej na pisemne polecenie przewodniczącego zarządu jednostki samorządu terytorialnego, z wyjątkiem przypadku, gdy wykonanie polecenia stanowiłoby przestępstwo albo wykroczenie. W takim przypadku skarbnik powiadamia o tym organ stanowiący jednostki samorządu terytorialnego i regionalną izbę obrachunkową.
+### 1)
 
-**Art. 263.**
+z dyskontem,
 
-1. Niezrealizowane kwoty wydatków budżetu jednostki samorządu terytorialnego wygasają, z zastrzeżeniem ust. 2 i 4, z upływem roku budżetowego.
+### 2)
 
-2. Organ stanowiący jednostki samorządu terytorialnego może ustalić, w drodze uchwały, wykaz wydatków, do których nie stosuje się przepisu ust. 1, oraz określić ostateczny termin dokonania każdego wydatku ujętego w tym wykazie w następnym roku budżetowym.
+według wartości nominalnej,
 
-3. W wykazie, o którym mowa w ust. 2, ujmuje się wydatki związane z realizacją umów:
+### 3)
 
-- **1)** w sprawie zamówienia publicznego;
-- **2)** które zostaną zawarte w wyniku zakończonego postępowania o udzielenie zamówienia publicznego, w którym dokonano wyboru wykonawcy.
+powyżej wartości nominalnej
 
-4. Ostateczny termin dokonania wydatków, które nie wygasają z upływem roku budżetowego, upływa 30 czerwca roku następnego.
+- i wykupywana po upływie okresu, na jaki została wyemitowana.
 
-5. Łącznie z wykazem wydatków, które nie wygasają z upływem roku budżetowego, organ stanowiący jednostki samorządu terytorialnego ustala plan finansowy tych wydatków w podziale na działy i rozdziały klasyfikacji wydatków, z wyodrębnieniem wydatków majątkowych.
+### Art. 101.
 
-6. Środki finansowe na wydatki ujęte w wykazie, o których mowa w ust. 2, są gromadzone na wyodrębnionym subkoncie podstawowego rachunku bankowego jednostki samorządu terytorialnego.
+### 1.
 
-7. Środki finansowe niewykorzystane w terminie określonym przez organ stanowiący jednostki samorządu terytorialnego podlegają przekazaniu na dochody budżetu jednostki samorządu terytorialnego w terminie 7 dni od dnia określonego przez organ stanowiący jednostki samorządu terytorialnego.
+Skarbowy papier oszczędnościowy jest skarbowym papierem wartościowym oferowanym do sprzedaży:
 
-**Art. 264.**
+### 1)
 
-1. Bankową obsługę budżetu jednostki samorządu terytorialnego wykonuje bank wybrany na zasadach określonych w przepisach o zamówieniach publicznych.
+osobom fizycznym;
 
-2. Zasady wykonywania obsługi bankowej określa umowa zawarta między zarządem jednostki samorządu terytorialnego a bankiem.
+### 2)
 
-3. Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd jednostki samorządu terytorialnego do lokowania wolnych środków budżetowych na rachunkach w innych bankach lub w formie depozytu u Ministra Finansów.
+stowarzyszeniom, innym organizacjom społecznym i zawodowym oraz fundacjom wpisanym do rejestru sądowego, a w przypadku nierezydentów - również wpisanym do innego rejestru urzędowego, o ile warunki emitowania tak stanowią.
 
-4. Zarząd jednostki samorządu terytorialnego może, w granicach upoważnień zawartych w uchwale budżetowej, zaciągać kredyty w wybranych przez siebie bankach, w trybie określonym w przepisach o zamówieniach publicznych.
+### 2.
 
-5. W celu zabezpieczenia kredytu lub pożyczki nie można udzielać pełnomocnictwa do dysponowania rachunkiem bankowym jednostki samorządu terytorialnego.
+Skarbowy papier oszczędnościowy może być wyłączony z obrotu na rynku wtórnym albo może być przedmiotem obrotu tylko między podmiotami, o których mowa w ust. 1, o ile warunki emitowania tak stanowią.
 
-#### Rozdział 5 Tryb zatwierdzenia wykonania budżetu jednostki samorządu terytorialnego
+### Art. 102.
 
-**Art. 265.** Jednostki, o których mowa w art. 9 pkt 10, 13 i 14, dla których organem założycielskim jest jednostka samorządu terytorialnego, przedstawiają właściwemu zarządowi jednostki samorządu terytorialnego w terminie do dnia:
+### 1.
 
-**Art. 266.** (uchylony)
+Skarbowe papiery wartościowe są zbywane na rynku pierwotnym odpłatnie.
 
-**Art. 267.**
+### 2.
 
-1. Zarząd jednostki samorządu terytorialnego przedstawia, w terminie do dnia 31 marca roku następującego po roku budżetowym, organowi stanowiącemu jednostki samorządu terytorialnego:
+Emisja następuje z dniem rozliczenia zaoferowanych do nabycia skarbowych papierów wartościowych oraz w kwocie równej wartości nominalnej zbytych papierów wartościowych.
 
-- **1)** sprawozdanie roczne z wykonania budżetu tej jednostki, zawierające zestawienie dochodów i wydatków wynikające z zamknięć rachunków budżetu jednostki samorządu terytorialnego, w szczegółowości nie mniejszej niż w uchwale budżetowej;
-- **2)** sprawozdania, o których mowa w art. 265 pkt 2;
-- **3)** informację o stanie mienia jednostki samorządu terytorialnego, zawierającą:
-    - **a)** dane dotyczące przysługujących jednostce samorządu terytorialnego praw własności,
-    - **b)** dane dotyczące: – innych niż własność praw majątkowych, w tym w szczególności o ograniczonych prawach rzeczowych, użytkowaniu wieczystym, wierzytelnościach, udziałach w spółkach, akcjach, – posiadania,
-    - **c)** dane o zmianach w stanie mienia komunalnego, w zakresie określonym w lit. a i b, od dnia złożenia poprzedniej informacji,
-    - **d)** dane o dochodach uzyskanych z tytułu wykonywania prawa własności i innych praw majątkowych oraz z wykonywania posiadania,
-    - **e)** inne dane i informacje o zdarzeniach mających wpływ na stan mienia jednostki samorządu terytorialnego.
+### Dział III Wieloletni Plan Finansowy Państwa i ustawa budżetowa
 
-2. Sprawozdanie, o którym mowa w ust. 1 pkt 1, obejmuje również wykaz jednostek budżetowych, o których mowa w art. 223.
+### Rozdział 1 Wieloletni Plan Finansowy Państwa
 
-3. Zarząd jednostki samorządu terytorialnego przedstawia regionalnej izbie obrachunkowej, w terminie do dnia 31 marca roku następującego po roku budżetowym:
+### Art. 103.
 
-- **1)** sprawozdanie, o którym mowa w ust. 1 pkt 1;
-- **2)** sprawozdanie, o którym mowa w art. 265 pkt 2;
-- **3)** informację, o której mowa w ust. 1 pkt 3.
+### 1.
 
-**Art. 268.** Roczne sprawozdanie finansowe jednostki samorządu terytorialnego, w której liczba mieszkańców, ustalona przez Główny Urząd Statystyczny, na dzień 31 grudnia roku poprzedzającego rok, za który sporządzono sprawozdanie, przekracza 150 tysięcy, podlega badaniu przez biegłego rewidenta.
+Wieloletni Plan Finansowy Państwa to plan dochodów i wydatków oraz przychodów i rozchodów budżetu państwa sporządzany na cztery lata budżetowe.
 
-**Art. 269.** Sprawozdanie z wykonania budżetu jednostki samorządu terytorialnego sporządza się na podstawie danych z ewidencji księgowej budżetu. Sprawozdanie powinno uwzględniać w szczególności:
+### 2.
 
-**Art. 270.**
+Wieloletni Plan Finansowy Państwa jest sporządzany w układzie obejmującym funkcje państwa wraz z celami i miernikami stopnia wykonania danej funkcji i uwzględnia:
 
-1. Sprawozdanie finansowe jednostki samorządu terytorialnego zarząd przekazuje organowi stanowiącemu jednostki samorządu terytorialnego, w terminie do dnia 31 maja roku następującego po roku budżetowym.
+### 1)
 
-2. Komisja rewizyjna organu stanowiącego jednostki samorządu terytorialnego rozpatruje:
+cele średniookresowej strategii rozwoju kraju, o której mowa w ustawie o zasadach prowadzenia polityki rozwoju;
 
-- **1)** sprawozdanie finansowe;
-- **2)** sprawozdanie z wykonania budżetu wraz z informacją, o której mowa w art. 267 ust. 1 pkt 3, oraz opinią regionalnej izby obrachunkowej o tych dokumentach;
-- **3)** sprawozdanie z badania sprawozdania finansowego, o którym mowa w art. 268 – w przypadku gdy jednostka samorządu terytorialnego jest obowiązana do badania tego sprawozdania.
+### 2)
 
-3. Komisja rewizyjna przedstawia organowi stanowiącemu jednostki samorządu terytorialnego oraz regionalnej izbie obrachunkowej, w terminie do dnia 15 czerwca roku następującego po roku budżetowym, wniosek w sprawie absolutorium dla zarządu.
+kierunki polityki społeczno-gospodarczej Rady Ministrów.
 
-4. Organ stanowiący jednostki samorządu terytorialnego rozpatruje i zatwierdza sprawozdanie finansowe jednostki samorządu terytorialnego wraz ze sprawozdaniem z wykonania budżetu, w terminie do dnia 30 czerwca roku następującego po roku budżetowym.
+### Art. 104.
 
-**Art. 271.**
+### 1.
 
-1. Nie później niż dnia 30 czerwca roku następującego po roku budżetowym, organ stanowiący jednostki samorządu terytorialnego podejmuje uchwałę w sprawie absolutorium dla zarządu po zapoznaniu się z:
+Wieloletni Plan Finansowy Państwa, w podziale na poszczególne lata budżetowe, określa:
 
-- **1)** sprawozdaniem z wykonania budżetu jednostki samorządu terytorialnego;
-- **2)** sprawozdaniem finansowym;
-- **3)** sprawozdaniem z badania sprawozdania finansowego, o którym mowa w art. 268;
-- **4)** opinią regionalnej izby obrachunkowej, o której mowa w art. 270 ust. 2;
-- **5)** informacją o stanie mienia jednostki samorządu terytorialnego;
-- **6)** stanowiskiem komisji rewizyjnej,
-- **7)** opinią regionalnej izby obrachunkowej o wniosku komisji rewizyjnej, o którym mowa w art. 270 ust. 3.
+### 1)
 
-2. Organ stanowiący jednostki samorządu terytorialnego może żądać przedłożenia przez zarząd jednostki samorządu terytorialnego dodatkowych wyjaśnień odnoszących się do dokumentów, o których mowa w ust. 1 pkt 1 i 2.
+podstawowe wielkości makroekonomiczne;
 
-### DZIAŁ VI Audyt wewnętrzny oraz koordynacja audytu wewnętrznego w jednostkach sektora finansów publicznych
+### 2)
 
-**Art. 272.**
+kierunki polityki fiskalnej;
 
-1. Audyt wewnętrzny jest działalnością niezależną i obiektywną, której celem jest wspieranie ministra kierującego działem lub kierownika jednostki w realizacji celów i zadań przez systematyczną ocenę kontroli zarządczej oraz czynności doradcze.
+### 3)
 
-2. Ocena, o której mowa w ust. 1, dotyczy w szczególności adekwatności, skuteczności i efektywności kontroli zarządczej w dziale administracji rządowej lub jednostce.
+prognozy dochodów oraz wydatków budżetu państwa;
 
-**Art. 273.**
+### 4)
 
-1. Minister Finansów określi, w formie komunikatu, i ogłosi w Dzienniku Urzędowym Ministra Finansów standardy audytu wewnętrznego dla jednostek sektora finansów publicznych, zgodne z powszechnie uznawanymi standardami audytu wewnętrznego.
+kwotę deficytu i potrzeb pożyczkowych budżetu państwa oraz źródła ich sfinansowania;
 
-2. Audytor wewnętrzny, prowadząc audyt wewnętrzny, kieruje się wskazówkami zawartymi w standardach audytu wewnętrznego, o których mowa w ust. 1.
+### 5)
 
-**Art. 274.**
+prognozy dochodów i wydatków budżetu środków europejskich;
 
-1. Audyt wewnętrzny prowadzi się w:
+### 6)
 
-- **1)** Kancelarii Prezesa Rady Ministrów;
-- **2)** ministerstwach;
-- **3)** urzędach wojewódzkich;
-- **4)** izbach administracji skarbowej;
-- **5)** (uchylony)
-- **6)** Zakładzie Ubezpieczeń Społecznych, w tym w zarządzanych przez niego funduszach;
-- **7)** Kasie Rolniczego Ubezpieczenia Społecznego, w tym w funduszach zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
-- **8)** Narodowym Funduszu Zdrowia;
-- **9)** Krajowym Zasobie Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834).
+wynik budżetu środków europejskich;
 
-2. Audyt wewnętrzny prowadzi się także w:
+### 7)
 
-- **1)** państwowych jednostkach budżetowych, jeżeli kwota ujętych w planie finansowym jednostki budżetowej dochodów lub kwota wydatków przekroczyła wysokość 40 000 tys. zł;
-- **2)** uczelniach publicznych, jeżeli kwota ujętych w planie rzeczowo-finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
-- **3)** samodzielnych publicznych zakładach opieki zdrowotnej, które nie zostały utworzone przez jednostki samorządu terytorialnego, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
-- **4)** agencjach wykonawczych, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
-- **5)** państwowych funduszach celowych, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł.
+skonsolidowaną prognozę bilansu sektora finansów publicznych;
 
-3. Audyt wewnętrzny prowadzi się w jednostkach samorządu terytorialnego, jeżeli ujęta w uchwale budżetowej jednostki samorządu terytorialnego kwota dochodów i przychodów lub kwota wydatków i rozchodów przekroczyła wysokość 40 000 tys. zł.
+### 8)
 
-4. Audyt wewnętrzny prowadzi się również w jednostkach sektora finansów publicznych, których kierownicy podejmą decyzję o prowadzeniu audytu wewnętrznego.
+kwotę państwowego długu publicznego.
 
-5. Audyt wewnętrzny prowadzi się również w jednostkach w dziale wskazanych przez właściwego ministra kierującego działem. Wskazując jednostkę zobowiązaną minister określa termin rozpoczęcia prowadzenia audytu wewnętrznego.
+### 2.
 
-6. Przepisy ust. 5 stosuje się odpowiednio do jednostek podległych Prezesowi Rady Ministrów lub przez niego nadzorowanych oraz jednostek obsługujących organy podległe Prezesowi Rady Ministrów lub przez niego nadzorowane.
+Prognozę dochodów budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa według głównych kategorii dochodów, z wyszczególnieniem:
 
-7. Kierownicy jednostek, o których mowa w ust. 2–6, informują pisemnie Ministra Finansów o rozpoczęciu prowadzenia audytu wewnętrznego.
+### 1)
 
-**Art. 275.** Audyt wewnętrzny prowadzi:
+dochodów podatkowych:
 
-**Art. 276.** W jednostce samorządu terytorialnego zadania przypisane kierownikowi jednostki związane z audytem wewnętrznym wykonują odpowiednio: wójt, burmistrz, prezydent miasta, przewodniczący zarządu jednostki samorządu terytorialnego.
+### a)
 
-**Art. 277.**
+podatków pośrednich, z tego:
 
-1. W jednostkach, o których mowa w art. 274 ust. 1–6, tworzy się wieloosobowe lub jednoosobowe komórki audytu wewnętrznego, z zastrzeżeniem ust. 2 oraz art. 278. W przypadku jednostek samorządu terytorialnego komórkę audytu wewnętrznego tworzy się w urzędzie tej jednostki.
+- - podatku od towarów i usług,
 
-2. W przypadku państwowych funduszy celowych komórki audytu wewnętrznego tworzy się w jednostkach budżetowych obsługujących te fundusze.
+- - podatku akcyzowego,
 
-3. Działalnością wieloosobowej komórki audytu wewnętrznego kieruje audytor wewnętrzny, zwany dalej „kierownikiem komórki audytu wewnętrznego”.
+- - podatku od gier,
 
-4. Do audytora wewnętrznego zatrudnionego w jednoosobowej komórce audytu wewnętrznego przepisy ustawy dotyczące kierownika komórki audytu wewnętrznego stosuje się odpowiednio.
+### b)
 
-**Art. 278.**
+podatków bezpośrednich, z tego:
 
-1. W jednostkach, o których mowa w art. 274 ust. 2, audyt wewnętrzny może być prowadzony przez usługodawcę, jeżeli:
+- - podatku dochodowego od osób prawnych,
 
-- **1)** żadna z kwot, o których mowa w art. 274 ust. 2 pkt 1–5, nie przekroczyła 100 000 tys. zł, lub
-- **2)** jednostka zatrudnia mniej niż 200 pracowników – z zastrzeżeniem ust. 2.
+- - podatku dochodowego od osób fizycznych;
 
-2. W jednostkach w dziale audyt wewnętrzny może być prowadzony przez usługodawcę za zgodą właściwego ministra kierującego działem.
+### 2)
 
-3. W jednostkach samorządu terytorialnego audyt wewnętrzny może być prowadzony przez usługodawcę, jeżeli ujęta w uchwale budżetowej jednostki samorządu terytorialnego kwota dochodów i przychodów oraz kwota wydatków i rozchodów jest niższa niż 100 000 tys. zł.
+dochodów niepodatkowych;
 
-4. Przepisy ust. 2 stosuje się odpowiednio do jednostek podległych i nadzorowanych oraz jednostek obsługujących organy podległe lub nadzorowane przez Prezesa Rady Ministrów.
+### 3)
 
-**Art. 279.**
+cła;
 
-1. Usługodawcą, o którym mowa w art. 275 pkt 2, może być:
+### 4)
 
-- **1)** osoba fizyczna, spełniająca warunki określone w art. 286;
-- **2)** osoba fizyczna prowadząca działalność gospodarczą, spełniająca warunki określone w art. 286;
-- **3)** spółka cywilna, spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna lub osoba prawna, która zatrudnia do prowadzenia audytu wewnętrznego w jednostce osoby spełniające warunki określone w art. 286.
+środków, o których mowa w art. 5 ust. 1 pkt 2.
 
-2. Umowa zawarta przez jednostkę sektora finansów publicznych z usługodawcą powinna zawierać postanowienia gwarantujące prowadzenie audytu wewnętrznego zgodnie z przepisami niniejszej ustawy. W umowie należy także określić sposób postępowania z dokumentami, w tym także w formie elektronicznej, wytworzonymi dla celów prowadzenia audytu wewnętrznego, tak aby zapewnić ich dostępność, ochronę przed nieupoważnionym rozpowszechnianiem, uszkodzeniem lub zniszczeniem.
+### 3.
 
-3. Umowę z usługodawcą, o której mowa w ust. 2, jednostka sektora finansów publicznych zawiera na okres co najmniej roku.
+Prognozę wydatków budżetu państwa ujmuje się w Wieloletnim Planie Finansowym Państwa w układzie, o którym mowa w art. 103 ust. 2, z wyszczególnieniem:
 
-**Art. 280.** Kierownik komórki audytu wewnętrznego podlega bezpośrednio kierownikowi jednostki, a w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu – dyrektorowi generalnemu w zakresie określonym odrębnymi ustawami.
+### 1)
 
-**Art. 281.** Rozwiązanie stosunku pracy ani zmiana warunków płacy i pracy kierownika komórki audytu wewnętrznego ministerstwa oraz jednostki w dziale nie może nastąpić bez zgody właściwego komitetu audytu.
+wydatków stałych związanych z utrzymaniem i funkcjonowaniem organów władzy publicznej i wykonywaniem zadań administracji rządowej;
 
-**Art. 282.**
+### 2)
 
-1. Kierownik jednostki, a w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu – dyrektor generalny, zapewnia warunki niezbędne do niezależnego, obiektywnego i efektywnego prowadzenia audytu wewnętrznego, w tym zapewnia organizacyjną odrębność komórki audytu wewnętrznego oraz ciągłość prowadzenia audytu wewnętrznego w jednostce.
+wydatków na obsługę długu publicznego;
 
-2. Audytor wewnętrzny ma prawo wstępu do pomieszczeń jednostki oraz wglądu do wszelkich dokumentów, informacji i danych oraz do innych materiałów związanych z funkcjonowaniem jednostki, w tym utrwalonych na elektronicznych nośnikach danych, jak również do sporządzania ich kopii, odpisów, wyciągów, zestawień lub wydruków, z zachowaniem przepisów o tajemnicy ustawowo chronionej.
+### 3)
 
-3. Pracownicy jednostki są obowiązani udzielać informacji i wyjaśnień, a także sporządzać i potwierdzać kopie, odpisy, wyciągi lub zestawienia, o których mowa w ust. 2.
+środków własnych Unii Europejskiej;
 
-**Art. 283.**
+### 4)
 
-1. Audyt wewnętrzny, z zastrzeżeniem ust. 2, przeprowadza się na podstawie rocznego planu audytu wewnętrznego, zwanego dalej „planem audytu”.
+dotacji dla Funduszu Ubezpieczeń Społecznych i Kasy Rolniczego Ubezpieczenia Społecznego;
 
-2. W uzasadnionych przypadkach audyt wewnętrzny przeprowadza się poza planem audytu.
+### 5)
 
-3. Do końca roku kierownik komórki audytu wewnętrznego w porozumieniu z kierownikiem jednostki przygotowuje na podstawie analizy ryzyka plan audytu na następny rok.
+subwencji ogólnej i dotacji na zadania zlecone jednostkom samorządu terytorialnego;
 
-4. Kierownik komórki audytu wewnętrznego, przeprowadzając analizę ryzyka, bierze pod uwagę w szczególności zadania wynikające z planu działalności, a także wytyczne ministra kierującego działem, komitetu audytu oraz szczegółowe wytyczne Ministra Finansów, o których mowa w art. 69 ust. 4.
+### 6)
 
-5. Do końca stycznia każdego roku kierownik komórki audytu wewnętrznego sporządza sprawozdanie z wykonania planu audytu za rok poprzedni.
+wydatków na sfinansowanie zobowiązań wynikających z przyjętych programów wieloletnich;
 
-**Art. 284.**
+### 7)
 
-1. (uchylony)
+wydatków budżetu państwa, w tym na realizację działań rozwojowych kraju:
 
-2. (utracił moc)
+### a)
 
-**Art. 285.** Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania audytu wewnętrznego oraz przekazywania informacji o pracy i wynikach audytu wewnętrznego, w szczególności:
+według priorytetów i głównych kierunków interwencji wskazanych w średniookresowej strategii rozwoju kraju, w tym odnoszących się do zagadnień przestrzennych i regionalnych objętych kontraktami wojewódzkimi,
 
-**Art. 286.**
+### b)
 
-1. Audytorem wewnętrznym może być osoba, która:
+z uwzględnieniem podziału na źródła finansowania,
 
-- **1)** ma obywatelstwo państwa członkowskiego Unii Europejskiej lub innego państwa, którego obywatelom, na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego, przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej;
-- **2)** ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
-- **3)** nie była karana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **4)** posiada wyższe wykształcenie;
-- **5)** posiada następujące kwalifikacje do przeprowadzania audytu wewnętrznego:
-    - **a)** jeden z certyfikatów: Certified Internal Auditor (CIA), Certified Government Auditing Professional (CGAP), Certified Information Systems Auditor (CISA), Association of Chartered Certified Accountants (ACCA), Certified Fraud Examiner (CFE), Certification in Control Self Assessment (CCSA), Certified Financial Services Auditor (CFSA) lub Chartered Financial Analyst (CFA), lub
-    - **b)** złożyła, w latach 2003–2006, z wynikiem pozytywnym egzamin na audytora wewnętrznego przed Komisją Egzaminacyjną powołaną przez Ministra Finansów, lub
-    - **c)** uprawnienia biegłego rewidenta, lub
-    - **d)** dwuletnią praktykę w zakresie audytu wewnętrznego i legitymuje się dyplomem ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydanym przez jednostkę organizacyjną, która w dniu wydania dyplomu była uprawniona, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora nauk ekonomicznych lub prawnych.
+### c)
 
-2. Za praktykę w zakresie audytu wewnętrznego, o której mowa w ust. 1 pkt 5 lit. d, uważa się udokumentowane przez kierownika jednostki wykonywanie czynności, w wymiarze czasu pracy nie mniejszym niż 1/2 etatu, związanych z:
+na każdy rok realizacji średniookresowej strategii rozwoju kraju;
 
-- **1)** przeprowadzaniem audytu wewnętrznego pod nadzorem audytora wewnętrznego;
-- **2)** realizacją czynności w zakresie audytu gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej oraz niepodlegającymi zwrotowi środkami z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), o którym mowa w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131);
-- **3)** nadzorowaniem lub wykonywaniem czynności kontrolnych, o których mowa w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623).
+### 8)
 
-**Art. 287.**
+środków przeznaczonych na realizację zadań współfinansowanych z udziałem środków europejskich, w tym na Wspólną Politykę Rolną;
 
-1. Do przeprowadzania audytu wewnętrznego w jednostce samorządu terytorialnego, w tym w jej jednostkach organizacyjnych, audytora wewnętrznego zatrudnionego w urzędzie jednostki samorządu terytorialnego upoważnia odpowiednio: wójt, burmistrz, prezydent miasta, przewodniczący zarządu jednostki samorządu terytorialnego.
+### 9)
 
-2. W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w innych jednostkach w dziale, minister kierujący działem może upoważnić audytora wewnętrznego zatrudnionego w ministerstwie do ich dokonania.
+środków przeznaczonych na finansowanie imiennie wymienionych wydatków lub zadań, w wysokościach określonych w odrębnych ustawach;
 
-3. W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w jednostce podległej lub nadzorowanej, kierownik jednostki nadrzędnej lub nadzorującej może upoważnić audytora wewnętrznego zatrudnionego w tej jednostce do ich dokonania.
+### 10)
 
-4. W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w jednostkach organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich, wojewoda może upoważniać audytora wewnętrznego zatrudnionego w urzędzie wojewódzkim do ich dokonania.
+innych wydatków rozwojowych;
 
-5. Przepisy art. 282 ust. 2 i 3 stosuje się odpowiednio.
+### 11)
 
-**Art. 288.**
+innych środków na realizację zadań uznanych przez Radę Ministrów za priorytetowe.
 
-1. Minister kierujący działem powołuje, w drodze zarządzenia, komitet audytu.
+### Art. 105.
 
-2. Przepisu ust. 1 nie stosuje się do działów administracji rządowej, w których nie występują jednostki w dziale.
+### 1.
 
-3. Dla działów administracji rządowej kierowanych przez jednego ministra można utworzyć wspólny komitet audytu.
+Wieloletni Plan Finansowy Państwa stanowi podstawę przygotowywania projektu ustawy budżetowej na kolejny rok budżetowy.
 
-4. Celem komitetu audytu jest doradztwo świadczone na rzecz ministra kierującego działem w zakresie zapewnienia funkcjonowania adekwatnej, skutecznej i efektywnej kontroli zarządczej oraz skutecznego audytu wewnętrznego.
+### 2.
 
-**Art. 289.**
+W projekcie ustawy budżetowej na dany rok budżetowy, przedstawianym przez Radę Ministrów Sejmowi, poziom deficytu nie może być większy niż poziom deficytu ustalony na ten rok budżetowy w Wieloletnim Planie Finansowym Państwa.
 
-1. Do zadań komitetu audytu należy w szczególności:
+### 3.
 
-- **1)** sygnalizowanie istotnych ryzyk;
-- **2)** sygnalizowanie istotnych słabości kontroli zarządczej oraz proponowanie jej usprawnień;
-- **3)** wyznaczanie priorytetów do rocznych i strategicznych planów audytu wewnętrznego;
-- **4)** przegląd istotnych wyników audytu wewnętrznego oraz monitorowanie ich wdrożenia;
-- **5)** przegląd sprawozdań z wykonania planu audytu wewnętrznego oraz z oceny kontroli zarządczej;
-- **6)** monitorowanie efektywności pracy audytu wewnętrznego, w tym przeglądanie wyników wewnętrznych i zewnętrznych ocen pracy audytu wewnętrznego;
-- **7)** wyrażenie zgody na rozwiązanie stosunku pracy oraz zmianę warunków płacy i pracy kierowników komórek audytu wewnętrznego.
+W szczególnie uzasadnionych przypadkach możliwe jest uwzględnienie wyższego poziomu deficytu. W tym przypadku Rada Ministrów jest obowiązana przedstawić Sejmowi szczegółowe wyjaśnienie.
 
-2. Do końca lutego każdego roku komitet audytu składa sprawozdanie z realizacji zadań w roku poprzednim, w tym w szczególności zadań, o których mowa w ust. 1, ministrowi kierującemu działem oraz Ministrowi Finansów. Sprawozdanie z realizacji zadań podlega publikacji w Biuletynie Informacji Publicznej.
+### Art. 106.
 
-**Art. 290.**
+### 1.
 
-1. W skład komitetu audytu wchodzi nie mniej niż 3 członków, w tym:
+Minister Finansów przedstawia Radzie Ministrów projekt Wieloletniego Planu Finansowego Państwa.
 
-- **1)** wskazana przez ministra osoba w randze sekretarza lub podsekretarza stanu jako przewodniczący komitetu;
-- **2)** co najmniej 2 osoby, niebędące pracownikami ministerstwa lub jednostek w dziale, zwane dalej „członkami niezależnymi”.
+### 2.
 
-2. Członkowie niezależni wykonują swoje zadania za wynagrodzeniem.
+Rada Ministrów uchwala Wieloletni Plan Finansowy Państwa i ogłasza go w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz w Biuletynie Informacji Publicznej.
 
-3. Organizację i tryb pracy komitetu audytu określa regulamin nadany przez ministra, na wniosek przewodniczącego komitetu.
+### Art. 107.
 
-4. Minister Finansów określi, w drodze rozporządzenia:
+### 1.
 
-- **1)** niezbędne kwalifikacje członków niezależnych,
-- **2)** sposób ustalania wynagrodzeń członków niezależnych,
-- **3)** wymogi, jakie powinien spełniać regulamin komitetu audytu – mając na uwadze zapewnienie rzetelnej identyfikacji i oceny ryzyk, pracy audytu wewnętrznego w działach administracji rządowej oraz sprawne funkcjonowanie komitetu audytu.
+Wieloletni Plan Finansowy Państwa jest aktualizowany przez Radę Ministrów, w drodze uchwały, corocznie, w terminie dwóch miesięcy od dnia ogłoszenia ustawy budżetowej, i uwzględnia prognozę na kolejne trzy lata.
 
-**Art. 291.**
+### 2.
 
-1. Komórka audytu wewnętrznego utworzona w ministerstwie:
+Aktualizacja polega na doprowadzeniu danych zawartych w Wieloletnim Planie Finansowym Państwa do zgodności z ustawą budżetową na dany rok budżetowy.
 
-- **1)** gromadzi plany audytu, sprawozdania z wykonania planów oraz inne, niezbędne dla komitetu audytu, informacje z jednostek w dziale;
-- **2)** przygotowuje zbiorcze informacje o istotnych ryzykach i słabościach kontroli zarządczej oraz proponowanych usprawnieniach kontroli zarządczej;
-- **3)** zapewnia obsługę organizacyjną komitetu audytu;
-- **4)** prowadzi inne działania mające na celu wsparcie komitetu audytu.
+### 3.
 
-2. Kierownicy komórek audytu wewnętrznego w innych jednostkach w dziale przekazują, na wniosek kierownika komórki audytu wewnętrznego utworzonej w ministerstwie, dokumenty i informacje niezbędne do realizacji zadań, o których mowa w ust. 1.
+Aktualizacja polega również na skorygowaniu Wieloletniego Planu Finansowego Państwa w dalszych latach jego realizacji, w celu zapewnienia zgodności z kierunkami polityki społeczno-gospodarczej i średniookresową strategią rozwoju kraju.
 
-**Art. 292.**
+### Art. 108.
 
-1. Do zadań Ministra Finansów w zakresie koordynacji audytu wewnętrznego w jednostkach sektora finansów publicznych należy w szczególności:
+### 1.
 
-- **1)** zlecanie przeprowadzenia audytu wewnętrznego, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, oraz jednostek samorządu terytorialnego;
-- **2)** ocena audytu wewnętrznego, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, oraz jednostek samorządu terytorialnego;
-- **3)** upowszechnianie standardów, o których mowa w art. 273 ust. 1;
-- **4)** wydawanie wytycznych;
-- **5)** współpraca z krajowymi i zagranicznymi organizacjami;
-- **6)** współpraca z komitetami audytu.
+Ministrowie, w terminie do dnia 15 kwietnia, przedkładają Ministrowi Finansów informacje o realizacji Wieloletniego Planu Finansowego Państwa, w tym o stopniu realizacji celów.
 
-2. W celu realizacji zadań, o których mowa w ust. 1 pkt 1 i 2:
+### 2.
 
-- **1)** Minister Finansów może żądać od kierownika jednostki przedłożenia wszelkich materiałów i dokumentów, z zachowaniem przepisów o tajemnicy ustawowo chronionej, a także udzielania informacji i wyjaśnień;
-- **2)** kierownik jednostki oraz kierownik komórki audytu wewnętrznego są obowiązani do współpracy z Ministrem Finansów w zakresie ustalenia sposobu przeprowadzenia czynności w tej jednostce.
+Minister Finansów łącznie ze sprawozdaniem z wykonania ustawy budżetowej przedkłada Radzie Ministrów informację o przebiegu wykonania Wieloletniego Planu Finansowego Państwa.
 
-**Art. 293.**
+### 3.
 
-1. Szef Krajowej Administracji Skarbowej może zlecić przeprowadzenie audytu wewnętrznego w zakresie środków, o których mowa w art. 5 ust. 1 pkt 2, w jednostkach, o których mowa w art. 274 ust. 1–4, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2. Przepis art. 292 ust. 2 stosuje się odpowiednio.
+Informację, o której mowa w ust. 2, Rada Ministrów ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” oraz w Biuletynie Informacji Publicznej.
 
-2. Audyt wewnętrzny zlecony, o którym mowa w art. 292 ust. 1 pkt 1, może być przeprowadzony także na polecenie Prezesa Rady Ministrów.
+### Rozdział 2 Ustawa budżetowa
 
-**Art. 294.**
+### Art. 109.
 
-1. Szef Krajowej Administracji Skarbowej może dokonać oceny audytu wewnętrznego w zakresie środków, o których mowa w art. 5 ust. 1 pkt 2, w jednostkach, o których mowa w art. 274 ust. 1–4, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2. Przepis art. 292 ust. 2 stosuje się odpowiednio.
+### 1.
 
-2. Ocena, o której mowa w ust. 1 i art. 292 ust. 1 pkt 2, może być dokonana w siedzibie jednostki przez pracowników Ministerstwa Finansów na podstawie pisemnego upoważnienia Ministra Finansów lub Szefa Krajowej Administracji Skarbowej.
+Ustawa budżetowa jest podstawą gospodarki finansowej państwa w danym roku budżetowym.
 
-**Art. 295.**
+### 2.
 
-1. Kierownik jednostki, o której mowa w art. 274 ust. 1, 2 i 4–6, z wyłączeniem jednostek samorządu terytorialnego, przedstawia Ministrowi Finansów, do końca stycznia każdego roku, informację o realizacji zadań z zakresu audytu wewnętrznego w roku poprzednim.
+Ustawa budżetowa składa się z:
 
-2. Kierownik jednostki, o której mowa w art. 274 ust. 1, 2 i 4–6, z wyłączeniem jednostek samorządu terytorialnego oraz jednostek, o których mowa w art. 139 ust. 2, przedstawia Ministrowi Finansów, na jego wniosek, w każdym czasie, informacje związane z funkcjonowaniem kontroli zarządczej.
+### 1)
 
-3. Minister Finansów może określić, w formie komunikatów, oraz ogłosić w Dzienniku Urzędowym Ministra Finansów wzory informacji, o których mowa w ust. 1 i 2.
+budżetu państwa;
 
-**Art. 296.** Kierownik komórki audytu wewnętrznego jednostki sektora finansów publicznych obowiązanej do prowadzenia audytu wewnętrznego, z wyłączeniem jednostek samorządu terytorialnego oraz jednostek, o których mowa w art. 139 ust. 2, przedstawia Ministrowi Finansów, na jego wniosek, w każdym czasie, informacje i dokumenty związane z prowadzeniem audytu wewnętrznego.
+### 2)
 
-### DZIAŁ VIa Przepisy epizodyczne
+załączników;
 
-**Art. 296a.**
+### 3)
 
-1. Do ustalenia na lata 2026–2029 relacji, o której mowa w art. 242 ust. 1 i 2, dochody bieżące jednostki samorządu terytorialnego mogą być powiększone także o przychody, o których mowa w art. 217 ust. 2 pkt 6.
+postanowień, których obowiązek zamieszczenia w ustawie budżetowej wynika z niniejszej ustawy lub z odrębnych ustaw.
 
-2. W latach 2024–2029 jednostka samorządu terytorialnego może w danym roku budżetowym przekroczyć relację, o której mowa w art. 242 ust. 1 i 2, jeżeli w latach 2022–2029 suma przekroczeń tej relacji w poszczególnych latach nie będzie wyższa od sumy nadwyżek wynikających z tej relacji w poszczególnych latach.
+### 3.
 
-**Art. 296b.** Do ustalenia na lata 2026–2029 relacji, o której mowa w art. 243 ust. 1, nie stosuje się przepisów art. 243 ust. 1 pkt 4 oraz ust. 3 pkt 2.
+Ustawa budżetowa jest uchwalana na okres roku budżetowego.
 
-**Art. 296c.**
+### 4.
 
-1. W latach 2024–2029 relacja, o której mowa w art. 243 ust. 1, może nie być zachowana, jeżeli prognozowana łączna kwota długu jednostki samorządu terytorialnego na koniec danego roku nie przekroczy 100 % planowanych dochodów ogółem tej jednostki w tym roku budżetowym, pomniejszonych o planowane kwoty dotacji i środków o podobnym charakterze oraz powiększonych o przychody z tytułów określonych w art. 217 ust. 2 pkt 4– 8 nieprzeznaczone na sfinansowanie deficytu budżetowego.
+Rokiem budżetowym jest rok kalendarzowy.
 
-2. W latach 2024–2029 łączna kwota długu jednostki samorządu terytorialnego, która prognozowała na koniec danego roku niezachowanie relacji, o której mowa w art. 243 ust. 1, nie może przekraczać 100 % wykonanych w tym roku budżetowym dochodów ogółem tej jednostki, pomniejszonych o kwoty wykonanych dotacji i środków o podobnym charakterze oraz powiększonych o przychody z tytułów określonych w art. 217 ust. 2 pkt 4–8 nieprzeznaczone na sfinansowanie deficytu budżetowego.
+### 5.
 
-3. Niezachowanie w latach 2024–2029 relacji, o której mowa w art. 243 ust. 1, nie może zagrażać realizacji zadań publicznych przez jednostkę samorządu terytorialnego w roku budżetowym i latach następnych. Regionalna izba obrachunkowa, wydając opinie, o których mowa w art. 91 ust. 2, art. 230 ust. 3 i 4 oraz art. 246, ocenia również wpływ niezachowania tej relacji na realizację zadań publicznych.
+Ustawa budżetowa nie może zawierać przepisów zmieniających inne ustawy.
 
-### DZIAŁ VII Przepis końcowy
+### Art. 110.
 
-**Art. 297.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. – Przepisy wprowadzające ustawę o finansach publicznych (Dz. U. poz. 1241, z późn. zm. ).
+Budżet państwa określa:
 
+### 1)
+
+łączną kwotę prognozowanych podatkowych i niepodatkowych dochodów budżetu państwa;
+
+### 2)
+
+łączną kwotę planowanych wydatków budżetu państwa;
+
+### 3)
+
+kwotę planowanego deficytu budżetu państwa wraz ze źródłami jego pokrycia;
+
+### 4)
+
+łączną kwotę prognozowanych dochodów budżetu środków europejskich;
+
+### 5)
+
+łączną kwotę planowanych wydatków budżetu środków europejskich;
+
+### 6)
+
+wynik budżetu środków europejskich;
+
+### 7)
+
+łączną kwotę planowanych przychodów budżetu państwa;
+
+### 8)
+
+łączną kwotę planowanych rozchodów budżetu państwa;
+
+### 9)
+
+planowane saldo przychodów i rozchodów budżetu państwa;
+
+### 10)
+
+limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych.
+
+### Art. 111.
+
+Dochodami podatkowymi i niepodatkowymi budżetu państwa są:
+
+### 1)
+
+podatki i opłaty, w części, która zgodnie z odrębnymi ustawami nie stanowi dochodów jednostek samorządu terytorialnego, przychodów państwowych funduszy celowych oraz innych jednostek sektora finansów publicznych;
+
+### 2)
+
+cła;
+
+### 3)
+
+wpłaty z zysku przedsiębiorstw państwowych oraz jednoosobowych spółek Skarbu Państwa;
+
+### 4)
+
+wpłaty z tytułu dywidendy;
+
+### 5)
+
+wpłaty z zysku Narodowego Banku Polskiego;
+
+### 6)
+
+wpłaty nadwyżki środków finansowych agencji wykonawczych;
+
+### 7)
+
+dochody pobierane przez państwowe jednostki budżetowe, o ile odrębne ustawy nie stanowią inaczej;
+
+### 8)
+
+dochody z najmu i dzierżawy oraz z innych umów o podobnym charakterze, dotyczące składników majątkowych Skarbu Państwa, o ile odrębne ustawy nie stanowią inaczej;
+
+### 9)
+
+odsetki od środków zgromadzonych na rachunkach bankowych państwowych jednostek budżetowych lub organów władzy publicznej, o ile odrębne ustawy nie stanowią inaczej;
+
+### 10)
+
+odsetki od lokat terminowych ustanowionych ze środków zgromadzonych na centralnym rachunku bieżącym budżetu państwa;
+
+### 11)
+
+odsetki od udzielonych z budżetu państwa pożyczek krajowych i zagranicznych;
+
+### 12)
+
+grzywny, mandaty i inne kary pieniężne, o ile odrębne ustawy nie stanowią inaczej;
+
+### 13)
+
+spadki, zapisy i darowizny w postaci pieniężnej na rzecz Skarbu Państwa;
+
+### 14)
+
+dochody ze sprzedaży majątku, rzeczy i praw, niestanowiące przychodów w rozumieniu art. 5 ust. 1 pkt 4 lit. a i b, o ile odrębne ustawy nie stanowią inaczej;
+
+### 15)
+
+inne dochody określone w odrębnych ustawach lub umowach międzynarodowych;
+
+### 16)
+
+środki europejskie i środki, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na realizację projektów pomocy technicznej oraz środki, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d oraz pkt 6, po ich przekazaniu na rachunek dochodów budżetu państwa;
+
+### 17)
+
+odsetki wykupywane przez nabywców obligacji skarbowych lub nadwyżka wynikająca z różnicy pomiędzy ceną emisyjną a wartością nominalną zbywanych obligacji skarbowych.
+
+### Art. 112.
+
+### 1.
+
+Wydatki budżetu państwa są przeznaczone w szczególności na:
+
+### 1)
+
+funkcjonowanie organów władzy publicznej, w tym organów administracji rządowej, organów kontroli i ochrony prawa oraz sądów i trybunałów;
+
+### 2)
+
+zadania wykonywane przez administrację rządową;
+
+### 3)
+
+subwencje ogólne dla jednostek samorządu terytorialnego;
+
+### 4)
+
+dotacje dla jednostek samorządu terytorialnego;
+
+### 5)
+
+wpłaty do budżetu Unii Europejskiej, zwane dalej „środkami własnymi Unii Europejskiej”;
+
+### 6)
+
+subwencje dla partii politycznych;
+
+### 7)
+
+dotacje na zadania określone odrębnymi ustawami;
+
+### 8)
+
+obsługę długu publicznego;
+
+### 9)
+
+wkład krajowy na realizację programów finansowanych z udziałem środków europejskich lub środków, o których mowa w art. 5 ust. 3 pkt 3, 5 i 6.
+
+### 2.
+
+Z budżetu państwa są finansowane zadania określone w odrębnych ustawach i umowach międzynarodowych.
+
+### Art. 113.
+
+### 1.
+
+Różnica między dochodami a wydatkami budżetu państwa stanowi odpowiednio nadwyżkę budżetu państwa albo deficyt budżetu państwa, z zastrzeżeniem art. 118 ust. 2.
+
+### 2.
+
+Deficyt budżetu państwa oraz inne pożyczkowe potrzeby budżetu państwa mogą być sfinansowane przychodami pochodzącymi z:
+
+### 1)
+
+sprzedaży skarbowych papierów wartościowych na rynku krajowym i zagranicznym;
+
+### 2)
+
+kredytów zaciąganych w bankach krajowych i zagranicznych;
+
+### 3)
+
+pożyczek;
+
+### 4)
+
+prywatyzacji majątku Skarbu Państwa;
+
+### 5)
+
+kwot pochodzących ze spłat udzielonych kredytów i pożyczek;
+
+### 6)
+
+nadwyżki budżetu państwa z lat ubiegłych;
+
+### 7)
+
+nadwyżki budżetu środków europejskich, z zastrzeżeniem art. 118 ust. 4;
+
+### 8)
+
+innych operacji finansowych.
+
+### Art. 114.
+
+### 1.
+
+Budżet państwa składa się z części odpowiadających organom władzy publicznej, kontroli państwowej, sądom, trybunałom i innym organom wymienionym w art. 139 ust. 2, administracji rządowej, przy czym dla poszczególnych działów administracji rządowej oraz dla urzędów nadzorowanych przez Prezesa Rady Ministrów ustala się odpowiednio odrębne części budżetu.
+
+### 2.
+
+W odrębnych częściach budżetu państwa ujmuje się:
+
+### 1)
+
+subwencje ogólne dla jednostek samorządu terytorialnego;
+
+### 2)
+
+rezerwę ogólną;
+
+### 3)
+
+rezerwy celowe;
+
+### 4)
+
+obsługę długu Skarbu Państwa;
+
+### 5)
+
+środki własne Unii Europejskiej;
+
+### 6)
+
+przychody i rozchody związane z finansowaniem potrzeb pożyczkowych budżetu państwa;
+
+### 7)
+
+dochody, o których mowa w art. 111 pkt 16.
+
+### 3.
+
+W uzasadnionych przypadkach, na wniosek właściwego ministra, w budżecie państwa mogą być tworzone odrębne części dla:
+
+### 1)
+
+urzędów centralnych nadzorowanych przez ministra;
+
+### 2)
+
+państwowych jednostek organizacyjnych, które nie są organami władzy lub administracji rządowej;
+
+### 3)
+
+zadań ogólnych, jeżeli wyodrębnienie części jest uzasadnione koniecznością zapewnienia bieżącej kontroli dochodów lub wydatków.
+
+### 4.
+
+Częściami budżetu państwa dysponują dysponenci części budżetowych, jeżeli odrębne ustawy nie stanowią inaczej.
+
+### 5.
+
+Dochody i wydatki oraz przychody i rozchody budżetu państwa klasyfikuje się według zasad określonych w art. 39 oraz według części budżetowych, o których mowa w ust. 1-4.
+
+### 6.
+
+Minister Finansów ustala, w drodze rozporządzenia, klasyfikację części budżetowych oraz dysponentów części budżetowych dla części budżetowych, o których mowa w ust. 1-3, mając na celu zapewnienie przejrzystości gospodarowania środkami budżetu państwa.
+
+### Art. 115.
+
+### 1.
+
+Z budżetu państwa, w zakresie ustalonym w ustawie budżetowej, mogą być udzielane:
+
+### 1)
+
+pożyczki i kredyty wynikające z umów międzynarodowych;
+
+### 2)
+
+pożyczki wynikające z ustaw innych niż ustawa budżetowa.
+
+### 2.
+
+Pożyczki i kredyty udzielane z budżetu państwa są oprocentowane, o ile odrębne ustawy nie stanowią inaczej. Wysokość oprocentowania określa umowa.
+
+### Art. 116.
+
+### 1.
+
+Podatkowe i niepodatkowe dochody budżetu państwa ujmuje się w załączniku do ustawy budżetowej według:
+
+### 1)
+
+źródeł dochodów;
+
+### 2)
+
+części i działów klasyfikacji budżetowej.
+
+### 2.
+
+Wydatki budżetu państwa ujmuje się w załączniku do ustawy budżetowej w podziale na części, działy i rozdziały klasyfikacji budżetowej wydatków oraz grupy wydatków, z wyodrębnieniem wydatków przeznaczonych na:
+
+### 1)
+
+realizację projektów pomocy technicznej programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5;
+
+### 2)
+
+współfinansowanie realizacji programów finansowanych z udziałem środków europejskich i wpłat do wspólnych budżetów pomocy technicznej programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5;
+
+### 3)
+
+realizację programów, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d.
+
+### Art. 117.
+
+### 1.
+
+Budżet środków europejskich jest rocznym planem dochodów i podlegających refundacji wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, z wyłączeniem środków przeznaczonych na realizację projektów pomocy technicznej.
+
+### 2.
+
+W budżecie środków europejskich ujmuje się:
+
+### 1)
+
+dochody z tytułu realizacji programów finansowanych z udziałem środków europejskich;
+
+### 2)
+
+wydatki na realizację programów finansowanych z udziałem środków europejskich w części podlegającej refundacji.
+
+### Art. 118.
+
+### 1.
+
+Różnica pomiędzy dochodami a wydatkami budżetu środków europejskich stanowi odpowiednio nadwyżkę budżetu środków europejskich albo deficyt budżetu środków europejskich.
+
+### 2.
+
+Deficyt budżetu środków europejskich albo nadwyżka środków europejskich nie są wliczane do, odpowiednio, deficytu albo nadwyżki budżetu państwa.
+
+### 3.
+
+Deficyt budżetu środków europejskich jest finansowany w ramach potrzeb pożyczkowych budżetu państwa.
+
+### 4.
+
+Nadwyżka budżetu środków europejskich jest źródłem spłaty zobowiązań budżetu państwa zaciągniętych na pokrycie deficytu budżetu środków europejskich.
+
+### Art. 119.
+
+### 1.
+
+Dochody budżetu środków europejskich ujmuje się w ustawie budżetowej według:
+
+### 1)
+
+części klasyfikacji budżetowej;
+
+### 2)
+
+programów finansowanych z udziałem środków europejskich.
+
+### 2.
+
+Wydatki budżetu środków europejskich ujmuje się w ustawie budżetowej w podziale na:
+
+### 1)
+
+części i działy klasyfikacji wydatków;
+
+### 2)
+
+programy finansowane z udziałem środków europejskich w ramach części i działów klasyfikacji wydatków.
+
+### Art. 120.
+
+W budżecie środków europejskich ujmuje się rezerwę celową na wydatki związane z realizacją programów finansowanych z udziałem środków europejskich, o której mowa w art. 140 ust. 2 pkt 3, w zakresie, w jakim wydatki te podlegają refundacji.
+
+### Art. 121.
+
+### 1.
+
+Programy finansowane z udziałem środków europejskich są ujmowane w załączniku do ustawy budżetowej.
+
+### 2.
+
+Dla każdego programu w załączniku, o którym mowa w ust. 1, określa się:
+
+### 1)
+
+instytucję zarządzającą;
+
+### 2)
+
+środki na realizację programu, w tym:
+
+### a)
+
+środki europejskie,
+
+### b)
+
+środki pochodzące z budżetu państwa,
+
+### c)
+
+środki pochodzące z budżetów jednostek samorządu terytorialnego,
+
+### d)
+
+inne publiczne środki krajowe,
+
+### e)
+
+inne środki;
+
+### 3)
+
+kategorie interwencji funduszy strukturalnych;
+
+### 4)
+
+planowane w roku budżetowym i kolejnych dwóch latach dochody budżetu państwa z tytułu wpływu środków europejskich;
+
+### 5)
+
+planowane w roku budżetowym i kolejnych dwóch latach wydatki na realizację programu, w szczegółowości określonej w pkt 2;
+
+### 6)
+
+plan wydatków budżetu państwa w roku budżetowym na finansowanie programu.
+
+### Art. 122.
+
+### 1.
+
+W załącznikach do ustawy budżetowej zamieszcza się także:
+
+### 1)
+
+plany finansowe:
+
+### a)
+
+agencji wykonawczych,
+
+### b)
+
+instytucji gospodarki budżetowej,
+
+### c)
+
+państwowych funduszy celowych,
+
+### d)
+
+państwowych osób prawnych, o których mowa w art. 9 pkt 14;
+
+### 2)
+
+wykaz:
+
+### a)
+
+jednostek otrzymujących dotacje podmiotowe i celowe oraz kwoty dotacji,
+
+### b)
+
+programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, wraz z limitami wydatków budżetu państwa przeznaczonych na finansowanie tych programów,
+
+### c)
+
+wieloletnich limitów zobowiązań w kolejnych latach realizacji programów finansowanych z udziałem środków europejskich wraz z wykazem wieloletnich limitów wydatków realizowanych w ich ramach;
+
+### 3)
+
+plan wydatków budżetu państwa w roku budżetowym na:
+
+### a)
+
+realizację projektów pomocy technicznej programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5,
+
+### b)
+
+realizację programów współfinansowanych z udziałem środków europejskich i wpłat do wspólnych budżetów pomocy technicznej programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5,
+
+### c)
+
+realizację programów, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d
+
+- w szczegółowości klasyfikacji budżetowej: część, dział, rozdział;
+
+### 4)
+
+zestawienie programów wieloletnich w układzie zadaniowym;
+
+### 5)
+
+zestawienie zadań z zakresu administracji rządowej i innych zadań zleconych jednostkom samorządu terytorialnego odrębnymi ustawami;
+
+### 6)
+
+zakres i kwoty dotacji przedmiotowych i podmiotowych;
+
+### 7)
+
+plan przychodów i rozchodów budżetu państwa.
+
+### 2.
+
+Zestawienie, o którym mowa w ust. 1 pkt 4, zawiera:
+
+### 1)
+
+nazwę programu i podstawę prawną jego utworzenia;
+
+### 2)
+
+jednostkę organizacyjną realizującą program lub koordynującą jego wykonanie;
+
+### 3)
+
+cel programu;
+
+### 4)
+
+zadania programu;
+
+### 5)
+
+okres realizacji programu;
+
+### 6)
+
+łączne nakłady, w tym z budżetu państwa, na realizację programu;
+
+### 7)
+
+wysokość wydatków w roku budżetowym oraz w kolejnych latach na realizację programu;
+
+### 8)
+
+mierniki określające stopień realizacji celu.
+
+### 3.
+
+W przypadku gdy z określonych w odrębnych przepisach zasad i trybu udzielania dotacji wynika, że nie jest możliwe ujęcie jednostki w wykazie, o którym mowa w ust. 1 pkt 2 lit. a, wykaz może zawierać grupy jednostek i łączną kwotę dotacji.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 3, dysponent części budżetowej, w której zaplanowane zostały dotacje, podaje do publicznej wiadomości, w drodze obwieszczenia, wykaz jednostek wraz z kwotami dotacji przyznanych poszczególnym jednostkom.
+
+### Art. 123.
+
+### 1.
+
+Plany finansowe agencji wykonawczych ujmuje się oddzielnie dla każdej agencji, z wyodrębnieniem:
+
+### 1)
+
+przychodów, w tym dotacji z budżetu państwa;
+
+### 2)
+
+kosztów w podziale na koszty:
+
+### a)
+
+funkcjonowania agencji wykonawczej,
+
+### b)
+
+realizacji zadań ustawowych
+
+- w tym wynagrodzeń i składek naliczanych od wynagrodzeń;
+
+### 3)
+
+wyniku finansowego.
+
+### 2.
+
+Plany finansowe państwowych funduszy celowych ujmuje się oddzielnie dla każdego funduszu, z wyodrębnieniem:
+
+### 1)
+
+stanu początkowego i końcowego środków pieniężnych, należności i zobowiązań;
+
+### 2)
+
+przychodów własnych;
+
+### 3)
+
+dotacji z budżetu państwa oraz innych jednostek sektora finansów publicznych;
+
+### 4)
+
+kosztów na realizację zadań, w tym kosztów wynagrodzeń i składek naliczanych od wynagrodzeń;
+
+### 5)
+
+zadań finansowanych ze środków funduszu.
+
+### 3.
+
+Plany finansowe instytucji gospodarki budżetowej oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14, ujmuje się odrębnie dla każdej jednostki, z wyodrębnieniem stanu początkowego i końcowego środków obrotowych oraz stanu środków pieniężnych, należności i zobowiązań, przychodów własnych, dotacji z budżetu państwa oraz kosztów realizacji zadań.
+
+### Rozdział 3 Przeznaczenie wydatków budżetu państwa
+
+### Art. 124.
+
+### 1.
+
+Wydatki budżetu państwa dzielą się na następujące grupy wydatków:
+
+### 1)
+
+dotacje i subwencje;
+
+### 2)
+
+świadczenia na rzecz osób fizycznych;
+
+### 3)
+
+wydatki bieżące jednostek budżetowych;
+
+### 4)
+
+wydatki majątkowe;
+
+### 5)
+
+wydatki na obsługę długu Skarbu Państwa;
+
+### 6)
+
+wydatki na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, w tym wydatki budżetu środków europejskich;
+
+### 7)
+
+środki własne Unii Europejskiej.
+
+### 2.
+
+Świadczenia na rzecz osób fizycznych obejmują wydatki budżetu państwa kierowane, na podstawie odrębnych przepisów, bezpośrednio lub pośrednio do osób fizycznych, a niebędące wynagrodzeniem za świadczoną pracę.
+
+### 3.
+
+Wydatki bieżące jednostek budżetowych obejmują:
+
+### 1)
+
+wynagrodzenia i uposażenia osób zatrudnionych w państwowych jednostkach budżetowych oraz składki naliczane od tych wynagrodzeń i uposażeń;
+
+### 2)
+
+zakupy towarów i usług;
+
+### 3)
+
+koszty utrzymania oraz inne wydatki związane z funkcjonowaniem jednostek budżetowych i realizacją ich statutowych zadań;
+
+### 4)
+
+koszty zadań zleconych do realizacji jednostkom zaliczanym i niezaliczanym do sektora finansów publicznych, z wyłączeniem organizacji pozarządowych.
+
+### 4.
+
+Wydatki majątkowe obejmują:
+
+### 1)
+
+wydatki na zakup i objęcie akcji oraz wniesienie wkładów do spółek prawa handlowego;
+
+### 2)
+
+wydatki inwestycyjne państwowych jednostek budżetowych oraz dotacje celowe na finansowanie lub dofinansowanie kosztów inwestycji realizowanych przez inne jednostki.
+
+### 5.
+
+Wydatki na obsługę długu Skarbu Państwa obejmują w szczególności wydatki budżetu państwa z tytułu oprocentowania i dyskonta od skarbowych papierów wartościowych, oprocentowania zaciągniętych kredytów i pożyczek oraz wypłat związanych z udzielonymi przez Skarb Państwa poręczeniami i gwarancjami, a także koszty związane z emisją skarbowych papierów wartościowych.
+
+### Art. 125.
+
+### 1.
+
+Środki własne Unii Europejskiej ujmuje się w ustawie budżetowej w wysokości ustalonej w toku procedury budżetowej Unii Europejskiej.
+
+### 2.
+
+Do środków własnych Unii Europejskiej zalicza się:
+
+### 1)
+
+udział we wpływach z ceł, opłat rolnych i cukrowych;
+
+### 2)
+
+środki obliczone na podstawie podatku od towarów i usług, zgodnie z metodologią wynikającą z przepisów Unii Europejskiej;
+
+### 3)
+
+środki obliczone na podstawie wartości rocznego dochodu narodowego brutto.
+
+### 3.
+
+Do środków własnych Unii Europejskiej zalicza się również odsetki i kary za nieterminowe lub nieprawidłowo naliczone płatności.
+
+### Art. 126.
+
+Dotacje są to podlegające szczególnym zasadom rozliczania środki z budżetu państwa, budżetu jednostek samorządu terytorialnego oraz z państwowych funduszy celowych przeznaczone na podstawie niniejszej ustawy, odrębnych ustaw lub umów międzynarodowych, na finansowanie lub dofinansowanie realizacji zadań publicznych.
+
+### Art. 127.
+
+### 1.
+
+Dotacje celowe są to środki przeznaczone na:
+
+### 1)
+
+finansowanie lub dofinansowanie:
+
+### a)
+
+zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami,
+
+### b)
+
+ustawowo określonych zadań, w tym zadań z zakresu mecenatu państwa nad kulturą, realizowanych przez jednostki inne niż jednostki samorządu terytorialnego,
+
+### c)
+
+bieżących zadań własnych jednostek samorządu terytorialnego,
+
+### d)
+
+zadań agencji wykonawczych, o których mowa w art. 21 ust. 1 pkt 3 lit. b,
+
+### e)
+
+zadań zleconych do realizacji organizacjom pozarządowym,
+
+### f)
+
+kosztów realizacji inwestycji;
+
+### 2)
+
+dopłaty do oprocentowania kredytów bankowych w zakresie określonym w odrębnych ustawach.
+
+### 2.
+
+Dotacjami celowymi są także środki przeznaczone na:
+
+### 1)
+
+realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 6, wydatkowane przez podmioty realizujące te programy, inne niż państwowe jednostki budżetowe;
+
+### 2)
+
+realizację projektów pomocy technicznej finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b;
+
+### 3)
+
+finansowanie lub dofinansowanie zadań realizowanych przez jednostki samorządu terytorialnego oraz inne podmioty, ze środków przekazywanych przez jednostki, o których mowa w art. 9 pkt 5, 7 i 14;
+
+### 4)
+
+realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 3 pkt 5 lit. c i d;
+
+### 5)
+
+współfinansowanie realizacji programów finansowanych z udziałem środków europejskich.
+
+### Art. 128.
+
+### 1.
+
+Udzielanie dotacji celowych dla jednostek samorządu terytorialnego określają odrębne ustawy.
+
+### 2.
+
+Kwota dotacji na dofinansowanie zadań własnych bieżących i inwestycyjnych nie może stanowić więcej niż 80% kosztów realizacji zadania, chyba że odrębne ustawy stanowią inaczej.
+
+### Art. 129.
+
+Kwoty dotacji celowych na zadania z zakresu administracji rządowej oraz inne zadania zlecone odrębnymi ustawami jednostkom samorządu terytorialnego określane są przez dysponentów części budżetowych według zasad przyjętych w budżecie państwa do określenia wydatków podobnego rodzaju, o ile odrębne przepisy nie stanowią inaczej.
+
+### Art. 130.
+
+### 1.
+
+Dotacje przedmiotowe są to środki przeznaczone na dopłaty do określonych rodzajów wyrobów lub usług, kalkulowane według stawek jednostkowych.
+
+### 2.
+
+Dotacje przedmiotowe mogą być udzielane na podstawie odrębnych ustaw lub przepisów Unii Europejskiej:
+
+### 1)
+
+dla przedsiębiorców wytwarzających określone rodzaje wyrobów lub świadczących określone rodzaje usług,
+
+### 2)
+
+dla podmiotów wykonujących zadania na rzecz rolnictwa
+
+- z uwzględnieniem ich równoprawności.
+
+### 3.
+
+Ustawa budżetowa ustala kwoty i przedmiot dotacji, o których mowa w ust. 2.
+
+### 4.
+
+Minister Finansów ustala, w drodze rozporządzenia, stawki dotacji przedmiotowych, o których mowa w ust. 2 pkt 1, oraz określa szczegółowy sposób i tryb udzielania i rozliczania tych dotacji, z zastrzeżeniem ust. 6 i 7, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+### 5.
+
+Minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rozwoju wsi w porozumieniu z Ministrem Finansów ustalają, w drodze rozporządzenia, stawki dotacji, o których mowa w ust. 2 pkt 2, na jednostkę usługi lub produktu oraz szczegółowy sposób i tryb udzielania oraz rozliczania tych dotacji, z uwzględnieniem równoprawności podmiotów, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+### 6.
+
+W przypadku gdy ustawa budżetowa ustali dotacje przedmiotowe do podręczników szkolnych minister właściwy do spraw oświaty i wychowania w porozumieniu z Ministrem Finansów ustala, w drodze rozporządzenia, stawki oraz określa szczegółowy sposób oraz tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+### 7.
+
+W przypadku gdy ustawa budżetowa ustali dotacje przedmiotowe do posiłków sprzedawanych w barach mlecznych, Minister Finansów ustala, w drodze rozporządzenia, stawki oraz określa szczegółowy sposób oraz tryb udzielania i rozliczania dotacji, w tym formę składania wniosków, informowania o ich przyjęciu lub odrzuceniu, warunki przekazywania i rozliczenia dotacji, termin zwrotu dotacji, uwzględniając łączne kwoty dotacji na poszczególne cele określone w ustawie budżetowej oraz mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
+### Art. 131.
+
+Dotacje podmiotowe obejmują środki dla podmiotu wskazanego w odrębnej ustawie lub w umowie międzynarodowej, wyłącznie na dofinansowanie działalności bieżącej w zakresie określonym w odrębnej ustawie lub umowie międzynarodowej.
+
+### Art. 132.
+
+### 1.
+
+Z budżetu państwa są finansowane inwestycje państwowych jednostek budżetowych.
+
+### 2.
+
+Z budżetu państwa mogą być udzielane dotacje celowe na finansowanie lub dofinansowanie kosztów realizacji inwestycji:
+
+### 1)
+
+agencji wykonawczych;
+
+### 2)
+
+instytucji gospodarki budżetowej;
+
+### 3)
+
+innych państwowych osób prawnych, dla których zasady gospodarki finansowej określają odrębne ustawy;
+
+### 4)
+
+jednostek niezaliczanych do sektora finansów publicznych, na podstawie odrębnej ustawy;
+
+### 5)
+
+w zakresie zadań zleconych do realizacji organizacjom pozarządowym;
+
+### 6)
+
+realizowanych przez jednostki samorządu terytorialnego jako zadania:
+
+### a)
+
+własne,
+
+### b)
+
+z zakresu administracji rządowej;
+
+### 7)
+
+związanych z badaniami naukowymi lub pracami rozwojowymi.
+
+### 3.
+
+Dotacje celowe z budżetu państwa na finansowanie lub dofinansowywanie kosztów realizacji inwestycji:
+
+### 1)
+
+przedsiębiorców - są udzielane z uwzględnieniem przepisów o postępowaniu w sprawach dotyczących pomocy publicznej;
+
+### 2)
+
+związanych z badaniami naukowymi lub pracami rozwojowymi - są udzielane z uwzględnieniem kryteriów i trybu określonych w odrębnych przepisach;
+
+### 3)
+
+w ramach umów o partnerstwie publiczno-prywatnym - są udzielane z uwzględnieniem przepisów o partnerstwie publiczno-prywatnym.
+
+### 4.
+
+Inwestycje realizowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, są finansowane z uwzględnieniem odrębnych przepisów.
+
+### Art. 133.
+
+Łączna kwota dotacji przyznanych w kolejnych latach na dofinansowanie inwestycji realizowanej przez jednostkę niezaliczaną do sektora finansów publicznych, o której mowa w art. 132 ust. 2 pkt 4, ze środków niepochodzących z budżetu Unii Europejskiej nie może być wyższa niż 50% planowanej wartości kosztorysowej inwestycji, chyba że odrębne ustawy stanowią inaczej.
+
+### Art. 134.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy sposób i tryb finansowania inwestycji z budżetu państwa, w tym określania wysokości kwot dotacji w kolejnych latach realizacji inwestycji, a w szczególności:
+
+### 1)
+
+warunki finansowania inwestycji ze środków budżetu państwa i ocenę efektywności ich wykorzystania,
+
+### 2)
+
+sposób przekazywania środków budżetu państwa przewidzianych na finansowanie inwestycji,
+
+### 3)
+
+sposób rozliczania inwestycji finansowanych ze środków budżetu państwa
+
+- z uwzględnieniem zasady, że łączna kwota środków z budżetu państwa nie może być wyższa niż wartość kosztorysowa inwestycji określona przy rozpoczęciu jej realizacji, obejmująca koszty przygotowania do realizacji, koszty robót budowlanych, koszty nadzoru nad wykonywaniem robót budowlanych i koszty pierwszego wyposażenia, oraz z uwzględnieniem warunków dokonywania wydatków przez państwowe jednostki budżetowe i zasad udzielania dotacji na realizację inwestycji innym jednostkom.
+
+### Art. 135.
+
+### 1.
+
+Zakup lub budowa nieruchomości na potrzeby organów administracji rządowej wymaga zgody ministra właściwego do spraw Skarbu Państwa.
+
+### 2.
+
+Zaplanowanie wydatków na inwestycje budowlane państwowych jednostek budżetowych oraz dotacji, o których mowa w art. 132 ust. 2, o wartości kosztorysowej przekraczającej 300 000 tys. zł wymaga uzyskania opinii ministra właściwego do spraw rozwoju regionalnego o zgodności przewidywanej inwestycji z odpowiednimi strategiami rozwoju, o których mowa w ustawie o zasadach prowadzenia polityki rozwoju, z zastrzeżeniem ust. 3.
+
+### 3.
+
+Zaplanowanie wydatków na inwestycje budowlane oraz dotacji celowych na finansowanie lub dofinansowanie kosztów realizacji inwestycji finansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2, nie wymaga uzyskania opinii, o której mowa w ust. 2.
+
+### 4.
+
+Minister właściwy do spraw rozwoju regionalnego, określi, w drodze rozporządzenia, szczegółowe warunki, sposób, tryb, kryteria i terminy dokonywania oceny, o której mowa w ust. 2, uwzględniając potrzebę zapewnienia spójności planowanych inwestycji z przyjętymi strategiami rozwoju oraz prawidłowej gospodarki środkami publicznymi.
+
+### Art. 136.
+
+### 1.
+
+Ustawa budżetowa może określać, w ramach limitów wydatków na rok budżetowy, limity wydatków na programy wieloletnie.
+
+### 2.
+
+Programy wieloletnie są ustanawiane przez Radę Ministrów w celu realizacji strategii przyjętych przez Radę Ministrów, w tym w zakresie obronności i bezpieczeństwa państwa. Rada Ministrów, ustanawiając program, wskazuje jego wykonawcę.
+
+### 3.
+
+Realizacja programów wieloletnich może być podzielona na etapy.
+
+### 4.
+
+Jednostki realizujące program wieloletni mogą zaciągać zobowiązania w celu sfinansowania w poszczególnych latach realizacji tego programu do wysokości łącznej kwoty wydatków określonych dla całego programu. W razie wspólnej realizacji programu wieloletniego przez dwa lub więcej podmioty, zobowiązania zaciągane przez każdy podmiot nie mogą przekroczyć kwoty planowanej dla tego podmiotu.
+
+### Art. 137.
+
+### 1.
+
+Rada Ministrów określi, w drodze rozporządzenia, sposób finansowania zadań realizowanych w ramach międzynarodowej współpracy z zakresu wewnętrznego i zewnętrznego bezpieczeństwa państwa, wynikających z umów i porozumień.
+
+### 2.
+
+Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 1, określi w szczególności rodzaj realizowanych zadań, źródła i formę ich finansowania oraz wykorzystania wpływów uzyskanych w wyniku realizowanych zadań w przypadku przejściowego ich finansowania, uwzględniając postanowienia umów i porozumień wskazanych w ust. 1.
+
+### Rozdział 4 Tryb opracowywania i uchwalania budżetu państwa
+
+### Art. 138.
+
+### 1.
+
+Minister Finansów przedstawia Radzie Ministrów założenia projektu budżetu państwa na rok następny, uwzględniające ustalenia przyjęte w Wieloletnim Planie Finansowym Państwa oraz kierunki działań zawarte w przyjętym przez Radę Ministrów Programie Konwergencji, opracowanym zgodnie z rozporządzeniem Rady (WE) nr 1466/97 z dnia 7 lipca 1997 r. w sprawie wzmocnienia nadzoru pozycji budżetowych oraz nadzoru i koordynacji polityk gospodarczych ([Dz. Urz. WE L 209 z 02.08.1997, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 10, t. 1, str. 84](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
+
+### 2.
+
+Materiały do projektu ustawy budżetowej opracowują i przedstawiają Ministrowi Finansów dysponenci części budżetowych, z zastrzeżeniem ust. 3 i 4.
+
+### 3.
+
+Materiały do projektu ustawy budżetowej w zakresie programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5, opracowuje i przedstawia Ministrowi Finansów minister właściwy do spraw rozwoju regionalnego, z uwzględnieniem wieloletnich limitów wydatków, o których mowa w art. 122 ust. 1 pkt 2 lit. c, z zastrzeżeniem ust. 4.
+
+### 4.
+
+Materiały do projektu ustawy budżetowej w zakresie środków pochodzących z Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4, opracowuje i przedstawia Ministrowi Finansów odpowiednio minister właściwy do spraw rybołówstwa lub minister właściwy do spraw rozwoju wsi.
+
+### 5.
+
+Właściwe organy oraz kierownicy jednostek opracowują i przedstawiają projekty planów finansowych właściwym ministrom w terminach określonych w rozporządzeniu wydanym na podstawie ust. 6.
+
+### 6.
+
+Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób, tryb i terminy opracowania materiałów, o których mowa w ust. 2-5, w tym:
+
+### 1)
+
+planów rzeczowych zadań realizowanych ze środków budżetowych,
+
+### 2)
+
+projektów planów dochodów i wydatków poszczególnych części budżetowych na rok budżetowy,
+
+### 3)
+
+zestawienia programów wieloletnich,
+
+### 4)
+
+wykazu wydatków związanych z realizacją Wspólnej Polityki Rolnej oraz innych programów, projektów i zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2,
+
+### 5)
+
+wzory formularzy,
+
+### 6)
+
+projektów rocznych planów finansowych jednostek, o których mowa w art. 9 pkt 14, dla których organem założycielskim lub nadzorującym jest organ administracji rządowej,
+
+### 7)
+
+materiałów do opracowania zestawienia i planu, o których mowa w art. 142 pkt 10 i 11,
+
+### 8)
+
+materiałów do opracowania i aktualizacji Wieloletniego Planu Finansowego Państwa oraz informacji o przebiegu jego wykonania
+
+- kierując się koniecznością uwzględniania klasyfikacji dochodów i wydatków budżetowych, opracowania budżetu w układzie zadaniowym oraz zakresem podmiotowym i przedmiotowym spraw wymagających ujęcia w projekcie ustawy budżetowej.
+
+### Art. 139.
+
+### 1.
+
+Minister Finansów przedstawia Radzie Ministrów projekt ustawy budżetowej na rok następny wraz z uzasadnieniem.
+
+### 2.
+
+Minister Finansów włącza do projektu ustawy budżetowej dochody i wydatki Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Trybunału Konstytucyjnego, Najwyższej Izby Kontroli, Sądu Najwyższego, Naczelnego Sądu Administracyjnego wraz z wojewódzkimi sądami administracyjnymi, Krajowej Rady Sądownictwa, sądownictwa powszechnego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Krajowej Rady Radiofonii i Telewizji, Generalnego Inspektora Ochrony Danych Osobowych, Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Krajowego Biura Wyborczego i Państwowej Inspekcji Pracy.
+
+### Art. 140.
+
+### 1.
+
+W budżecie państwa tworzy się rezerwę ogólną nie wyższą niż 0,2% wydatków budżetu.
+
+### 2.
+
+W budżecie państwa mogą być tworzone rezerwy celowe:
+
+### 1)
+
+na wydatki, których szczegółowy podział na pozycje klasyfikacji budżetowej nie jest możliwy do dokonania w okresie opracowywania projektu ustawy budżetowej;
+
+### 2)
+
+na wydatki, których realizacja jest uwarunkowana zaciągnięciem kredytu w międzynarodowej instytucji finansowej lub pozyskaniem środków z innych źródeł;
+
+### 3)
+
+na wydatki związane z realizacją programów współfinansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
+
+### 4)
+
+gdy odrębne ustawy tak stanowią.
+
+### 3.
+
+Suma rezerw celowych, o których mowa w ust. 2 pkt 1 i 4, nie może przekroczyć 3% wydatków budżetu.
+
+### 4.
+
+W częściach budżetu państwa, których dysponentami są poszczególni wojewodowie, może być tworzona rezerwa w wysokości do 1% planowanych wydatków, z wyłączeniem dotacji dla jednostek samorządu terytorialnego.
+
+### Art. 141.
+
+Rada Ministrów uchwala projekt ustawy budżetowej i wraz z uzasadnieniem przedkłada go Sejmowi w terminie do dnia 30 września roku poprzedzającego rok budżetowy.
+
+### Art. 142.
+
+Do projektu ustawy budżetowej dołącza się uzasadnienie zawierające w szczególności:
+
+### 1)
+
+główne cele polityki społecznej i gospodarczej, zgodne z Wieloletnim Planem Finansowym Państwa;
+
+### 2)
+
+założenia makroekonomiczne na rok budżetowy i trzy kolejne lata, dotyczące prognozy:
+
+### a)
+
+produktu krajowego brutto i jego składowych, w tym:
+
+- - wielkości eksportu netto,
+
+- - popytu krajowego, w tym konsumpcji prywatnej i zbiorowej,
+
+- - nakładów brutto na środki trwałe,
+
+### b)
+
+poziomu cen towarów i usług konsumpcyjnych,
+
+### c)
+
+kursu walutowego,
+
+### d)
+
+przeciętnego wynagrodzenia brutto w gospodarce narodowej,
+
+### e)
+
+poziomu zatrudnienia i bezrobocia,
+
+### f)
+
+salda obrotów bieżących;
+
+### 3)
+
+kierunki polityki fiskalnej, zawierające w szczególności założenia dotyczące średniookresowego celu budżetowego oraz działania z zakresu polityki fiskalnej i polityki gospodarczej zmierzające do jego osiągnięcia;
+
+### 4)
+
+przewidywane wykonanie budżetu państwa za rok budżetowy poprzedzający rok budżetowy, którego dotyczy projekt ustawy budżetowej;
+
+### 5)
+
+omówienie projektowanych:
+
+### a)
+
+przychodów i rozchodów oraz dochodów i wydatków budżetowych,
+
+### b)
+
+przychodów i kosztów państwowych funduszy celowych,
+
+### c)
+
+przychodów i kosztów agencji wykonawczych,
+
+### d)
+
+wykazów określonych w art. 122 ust. 1 pkt 2 lit. b i c;
+
+### 6)
+
+omówienie przewidywanych dochodów i wydatków, nadwyżki lub deficytu oraz długu sektora finansów publicznych;
+
+### 7)
+
+omówienie wielkości środków własnych Unii Europejskiej oraz środków ujętych w budżecie środków europejskich;
+
+### 8)
+
+informacje o udzielonych przez Skarb Państwa kwotach poręczeń i gwarancji, według przewidywanego wykonania na koniec roku budżetowego poprzedzającego rok budżetowy, którego dotyczy projekt ustawy budżetowej;
+
+### 9)
+
+kierunki prywatyzacji majątku Skarbu Państwa;
+
+### 10)
+
+zestawienie zadań i celów priorytetowych na dany rok budżetowy;
+
+### 11)
+
+skonsolidowany plan wydatków na rok budżetowy i dwa kolejne lata państwowych jednostek budżetowych, państwowych funduszy celowych, agencji wykonawczych, instytucji gospodarki budżetowej oraz państwowych osób prawnych, o których mowa w art. 9 pkt 14, sporządzany w układzie zadaniowym.
+
+### Art. 143.
+
+### 1.
+
+Dysponenci części budżetowych, w terminie do dnia 25 października, przekazują informacje o przyjętych przez Radę Ministrów w projekcie ustawy budżetowej kwotach:
+
+### 1)
+
+dochodów i wydatków, w tym wynagrodzeń - jednostkom podległym;
+
+### 2)
+
+dotacji na zadania z zakresu administracji rządowej, zadania inspekcji i straży, dotacji na realizację zadań własnych oraz o kwotach dochodów związanych z realizacją zadań z zakresu administracji rządowej - jednostkom samorządu terytorialnego;
+
+### 3)
+
+środków na realizację programów finansowanych z udziałem środków europejskich, dla których zarządy województw są instytucją zarządzającą lub pośredniczącą - zarządom województw.
+
+### 2.
+
+W terminie do dnia 1 grudnia jednostki, o których mowa w ust. 1 pkt 1, opracowują i przekazują właściwym dysponentom części budżetowych projekty planów finansowych na następny rok budżetowy, zgodne z projektem ustawy budżetowej.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się do kwot dochodów z podatków i ceł pobieranych przez jednostki podległe Ministrowi Finansów.
+
+### Art. 144.
+
+### 1.
+
+W przypadku gdy Rada Ministrów przedkłada Sejmowi projekt ustawy o prowizorium budżetowym, przepis art. 141 stosuje się odpowiednio.
+
+### 2.
+
+Do projektu ustawy o prowizorium budżetowym stosuje się przepisy odnoszące się do projektu ustawy budżetowej, z wyłączeniem art. 142 pkt 10 i 11.
+
+### 3.
+
+W przypadku przedstawienia Sejmowi projektu ustawy o prowizorium budżetowym, Rada Ministrów przedstawia Sejmowi projekt ustawy budżetowej nie później niż na 3 miesiące przed zakończeniem okresu obowiązywania ustawy o prowizorium budżetowym.
+
+### Art. 145.
+
+### 1.
+
+W przypadku gdy ustawa budżetowa albo ustawa o prowizorium budżetowym nie zostaną ogłoszone przed dniem 1 stycznia, to do czasu ogłoszenia odpowiedniej ustawy:
+
+### 1)
+
+podstawą gospodarki finansowej jest przedstawiony Sejmowi odpowiedni projekt ustawy, o którym mowa w art. 141 lub w art. 144;
+
+### 2)
+
+obowiązują stawki należności budżetowych oraz składki na państwowe fundusze celowe w wysokości ustalonej dla roku poprzedzającego rok budżetowy.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio, w przypadku gdy podstawą gospodarki finansowej państwa jest ustawa albo projekt ustawy o prowizorium budżetowym, a przed upływem terminu obowiązywania ustawy o prowizorium budżetowym nie zostanie ogłoszona ustawa budżetowa.
+
+### Rozdział 5 Wykonywanie ustawy budżetowej
+
+### Art. 146.
+
+### 1.
+
+Dysponenci części budżetowych, w terminie 21 dni od dnia ogłoszenia ustawy budżetowej, przekazują jednostkom podległym informacje o kwotach dochodów i wydatków, w tym wynagrodzeń.
+
+### 2.
+
+Jednostki, o których mowa w ust. 1, sporządzają plany finansowe celem zapewnienia ich zgodności z ustawą budżetową.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się do kwot dochodów z podatków i ceł pobieranych przez jednostki podległe Ministrowi Finansów.
+
+### Art. 147.
+
+### 1.
+
+Minister Finansów, w porozumieniu z dysponentami części budżetowych, opracowuje harmonogram realizacji budżetu państwa.
+
+### 2.
+
+Harmonogram, o którym mowa w ust. 1, obejmuje:
+
+### 1)
+
+prognozę dochodów budżetu państwa w poszczególnych miesiącach roku budżetowego;
+
+### 2)
+
+wielkość wydatków planowanych do sfinansowania w poszczególnych miesiącach roku budżetowego.
+
+### 3.
+
+Harmonogram realizacji wydatków podlega aktualizacji na wniosek dysponenta części budżetowej lub Ministra Finansów.
+
+### 4.
+
+Dysponent części budżetowej może poinformować podległe i nadzorowane jednostki o harmonogramie, o którym mowa w ust. 1.
+
+### Art. 148.
+
+W terminie 21 dni od dnia ogłoszenia ustawy budżetowej dysponenci części budżetowych przekazują:
+
+### 1)
+
+jednostkom samorządu terytorialnego informacje o kwotach dotacji celowych, dotacji na zadania z zakresu administracji rządowej, zadania inspekcji i straży, dotacji na realizację zadań własnych oraz o kwotach dochodów związanych z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych odrębnymi ustawami jednostkom samorządu terytorialnego, określonych w ustawie budżetowej;
+
+### 2)
+
+samorządom województw informacje o środkach na realizację programów finansowanych z udziałem środków europejskich, dla których zarządy województw są instytucją zarządzającą lub pośredniczącą, określonych w ustawie budżetowej.
+
+### Art. 149.
+
+### 1.
+
+Dotacje celowe na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami są przekazywane jednostce samorządu terytorialnego przez wojewodę w terminie umożliwiającym pełne i terminowe wykonywanie zadań.
+
+### 2.
+
+Dotacje celowe na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami mogą również być przekazywane - w terminach określonych w odrębnych przepisach - przez:
+
+### 1)
+
+Kierownika Krajowego Biura Wyborczego lub działających z jego upoważnienia dyrektorów zespołów i delegatur Krajowego Biura Wyborczego na finansowanie zadań związanych z prowadzeniem rejestru wyborców oraz organizacją i przeprowadzaniem wyborów i referendów;
+
+### 2)
+
+dyrektorów urzędów statystycznych na finansowanie zadań związanych z organizacją spisów powszechnych i rolnych.
+
+### Art. 150.
+
+Dysponent części budżetowej lub dysponent środków, o których mowa w art. 127 ust. 2, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
+
+### 1)
+
+szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
+
+### 2)
+
+wysokość udzielonej dotacji;
+
+### 3)
+
+termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+
+### 4)
+
+termin i sposób rozliczenia udzielonej dotacji;
+
+### 5)
+
+termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą - 30 dni od określonego w umowie dnia jego wykonania;
+
+### 6)
+
+tryb kontroli wykonania zadania.
+
+### Art. 151.
+
+### 1.
+
+Dysponent części budżetowej może zlecić organizacji pozarządowej realizację swoich zadań na podstawie zawartej z tą organizacją umowy, przyznając jednocześnie dotację celową na realizację tych zadań.
+
+### 2.
+
+Umowa, o której mowa w ust. 1, powinna określać:
+
+### 1)
+
+szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
+
+### 2)
+
+wysokość udzielonej dotacji i tryb płatności;
+
+### 3)
+
+termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+
+### 4)
+
+tryb kontroli wykonywania zadania;
+
+### 5)
+
+termin i sposób rozliczenia udzielonej dotacji;
+
+### 6)
+
+termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania, a w przypadku zadania realizowanego za granicą - 30 dni od określonego w umowie dnia jego wykonania.
+
+### Art. 152.
+
+### 1.
+
+Jednostki, którym została udzielona dotacja, o której mowa w art. 150 i art. 151 ust. 1, są obowiązane do prowadzenia wyodrębnionej ewidencji księgowej środków otrzymanych z dotacji oraz wydatków dokonywanych z tych środków.
+
+### 2.
+
+Zatwierdzenie przez dysponenta części budżetowej lub dysponenta środków, o których mowa w art. 127 ust. 2, rozliczenia dotacji w zakresie rzeczowym i finansowym, przedstawionego przez obowiązaną do tego jednostkę, powinno nastąpić w terminie 30 dni od dnia jego przedstawienia, a w przypadku dotacji na realizację zadania za granicą - 60 dni od dnia jego przedstawienia.
+
+### 3.
+
+W przypadku stwierdzenia na podstawie rozliczenia, o którym mowa w ust. 2, że dotacja wykorzystana została w części lub całości niezgodnie z przeznaczeniem albo pobrana w nadmiernej wysokości, dysponent części budżetowej lub dysponent środków, o których mowa w art. 127 ust. 2, określa, w drodze decyzji, wysokość kwoty podlegającej zwrotowi do budżetu państwa.
+
+### Art. 153.
+
+### 1.
+
+Minister Finansów, na wniosek dysponenta części budżetowej, może udzielić zapewnienia finansowania lub dofinansowania z budżetu państwa w danym roku budżetowym, jeżeli środki na ten cel zostały ujęte w rezerwie celowej, oraz w kolejnych latach:
+
+### 1)
+
+projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
+
+### 2)
+
+wydatków bieżących lub inwestycyjnych;
+
+### 3)
+
+programów wieloletnich.
+
+### 2.
+
+Minister Finansów może określić, w drodze rozporządzenia, szczegółowy tryb składania wniosków, o których mowa w ust. 1, wzór wniosku i niezbędne dokumenty, mając na względzie właściwość podmiotów realizujących zadania, zakres przedmiotowy tych zadań oraz efektywność wykorzystania środków budżetu państwa.
+
+### Art. 154.
+
+### 1.
+
+Podziału rezerw celowych dokonuje, z zastrzeżeniem ust. 3-6, Minister Finansów w porozumieniu z właściwymi ministrami lub innymi dysponentami części budżetowych, nie później niż do dnia 15 października, z wyjątkiem rezerw, o których mowa w art. 140 ust. 2 pkt 2 i 3, oraz rezerw przeznaczonych na finansowanie zobowiązań Skarbu Państwa i rezerw przeznaczonych na przeciwdziałanie klęskom żywiołowym i usuwanie ich skutków.
+
+### 2.
+
+Właściwi ministrowie lub inni dysponenci części budżetowych występują do Ministra Finansów do dnia 30 września o podział rezerw celowych, w wyniku którego następuje zwiększenie wydatków części budżetowych państwa, których dysponentami są wojewodowie.
+
+### 3.
+
+Podziału rezerwy celowej na finansowanie zadań, dla których udzielone zostały zapewnienia finansowania lub dofinansowania z budżetu państwa, Minister Finansów dokonuje nie później niż do dnia 20 grudnia.
+
+### 4.
+
+Podziału rezerwy celowej na zwiększenie wynagrodzeń wynikających ze zmian organizacyjnych i nowych zadań w państwowych jednostkach budżetowych dokonuje Rada Ministrów.
+
+### 5.
+
+Podziału rezerwy celowej przeznaczonej na realizację programów finansowanych z udziałem środków europejskich i środków, o których mowa w art. 5 ust. 3 pkt 5, dokonuje Minister Finansów na wniosek ministra właściwego do spraw rozwoju regionalnego, z zastrzeżeniem ust. 6.
+
+### 6.
+
+Podziału rezerwy celowej przeznaczonej na realizację programów finansowanych z udziałem środków pochodzących z Europejskiego Funduszu Rybackiego i na Wspólną Politykę Rolną dokonuje Minister Finansów na wniosek ministrów właściwych do spraw: rybołówstwa, rozwoju wsi i rynków rolnych.
+
+### 7.
+
+Rezerwy celowe mogą być przeznaczone, z zastrzeżeniem ust. 9, wyłącznie na cel, na jaki zostały utworzone, oraz wykorzystane zgodnie z klasyfikacją wydatków.
+
+### 8.
+
+Zmiana klasyfikacji wydatków, o której mowa w ust. 7, może być dokonana przez Ministra Finansów w porozumieniu z właściwym ministrem lub innym dysponentem części budżetowej nie później niż do dnia 15 listopada. W przypadku rezerw celowych, o których mowa w ust. 3, zmiana klasyfikacji wydatków może nastąpić do dnia 20 grudnia, a w przypadku rezerw celowych, o których mowa w ust. 5 i 6 - do końca roku budżetowego.
+
+### 9.
+
+Minister Finansów może, po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu, dokonać zmiany przeznaczenia rezerwy celowej.
+
+### Art. 155.
+
+### 1.
+
+Rezerwą ogólną dysponuje Rada Ministrów.
+
+### 2.
+
+Rada Ministrów może upoważnić, w drodze rozporządzenia, Prezesa Rady Ministrów i Ministra Finansów do dysponowania rezerwą ogólną do wysokości określonych kwot, uwzględniając zróżnicowanie tych kwot.
+
+### 3.
+
+Rezerwa ogólna nie może być przeznaczona na zwiększenie wydatków, które zostały zmniejszone w trakcie realizacji budżetu w wyniku przeniesień, dokonanych na podstawie art. 171.
+
+### Art. 156.
+
+O podziale rezerwy, o której mowa w art. 140 ust. 4, wojewodowie zawiadamiają Ministra Finansów.
+
+### Art. 157.
+
+Nie stanowią rezerwy, o której mowa w art. 140 ust. 4, środki niepodzielone przez wojewodów, przeznaczone na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostkom samorządu terytorialnego ustawami.
+
+### Art. 158.
+
+Ograniczenia, o których mowa w art. 154 ust. 3, 6-8 oraz w art. 155 ust. 3, nie mają zastosowania w przypadku realizacji zadań wynikających z przepisów dotyczących wprowadzenia stanów nadzwyczajnych na terytorium państwa lub na jego części.
+
+### Art. 159.
+
+Rada Ministrów kieruje wykonywaniem budżetu państwa.
+
+### Art. 160.
+
+### 1.
+
+W celu rzetelnego i gospodarnego wykonania budżetu państwa Rada Ministrów może, w drodze rozporządzenia, określić:
+
+### 1)
+
+organy administracji rządowej uprawnione do dokonywania określonych rodzajów wydatków;
+
+### 2)
+
+wytyczne dotyczące:
+
+### a)
+
+szczegółowego sposobu dokonywania wydatków, o których mowa w pkt 1,
+
+### b)
+
+szczegółowego sposobu i terminów sporządzania informacji z wykonania wydatków, o których mowa w pkt 1, oraz jednostki obowiązane do ich sporządzania,
+
+### c)
+
+warunków zaciągania zobowiązań w ramach wydatków planowanych w Wieloletnim Planie Finansowym Państwa.
+
+### 2.
+
+Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 1, uwzględnia zakres i rodzaj określanych wydatków oraz konieczność zachowania zasady przejrzystości finansów publicznych przy sporządzaniu informacji z ich wykonania i warunkach zaciągania zobowiązań.
+
+### Art. 161.
+
+### 1.
+
+Zobowiązania na okres dłuższy niż rok budżetowy w ramach realizacji polskiej pomocy zagranicznej na terytoriach uznanych za strefę działań wojennych mogą być zaciągane, jeżeli wydatki niezbędne na obsługę zobowiązania są ujęte w ustawie budżetowej.
+
+### 2.
+
+Środki niewykorzystane w ramach zaciągniętego zobowiązania wieloletniego nie podlegają zwrotowi do dnia 31 grudnia danego roku budżetowego i traktowane są jako środki niewygasające, podlegające zwrotowi najpóźniej do dnia 30 czerwca kolejnego roku.
+
+### 3.
+
+Rada Ministrów może wydawać, w drodze rozporządzenia, wytyczne dotyczące zasad zaciągania zobowiązań na okres dłuższy niż rok budżetowy w ramach realizacji polskiej pomocy zagranicznej na terytoriach uznanych za strefę działań wojennych, określając:
+
+### 1)
+
+podmioty uprawnione do dokonywania określonych rodzajów wydatków;
+
+### 2)
+
+szczegółowy sposób dokonywania wydatków, o których mowa w pkt 1;
+
+### 3)
+
+szczegółowy sposób i termin sporządzania informacji z wykonania wydatków, o których mowa w pkt 1, oraz jednostki obowiązane do ich sporządzania.
+
+### 4.
+
+Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 3, uwzględnia właściwość podmiotów realizujących zadania oraz zakres tych zadań.
+
+### Art. 162.
+
+W toku wykonywania budżetu państwa obowiązują następujące zasady gospodarki finansowej:
+
+### 1)
+
+ustalanie, pobieranie i odprowadzanie dochodów budżetu państwa następuje na zasadach i w terminach wynikających z obowiązujących przepisów;
+
+### 2)
+
+pełna realizacja zadań następuje w terminach określonych przepisami i harmonogramem, o którym mowa w art. 147 ust. 1;
+
+### 3)
+
+dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień i zgodnie z planowanym przeznaczeniem, w sposób celowy i oszczędny, z zachowaniem zasady uzyskiwania najlepszych efektów z danych nakładów;
+
+### 4)
+
+zlecanie zadań powinno następować na zasadzie wyboru najkorzystniejszej oferty, z uwzględnieniem przepisów o zamówieniach publicznych, a w odniesieniu do organizacji pozarządowych - z odpowiednim zastosowaniem art. 43 i art. 151.
+
+### Art. 163.
+
+### 1.
+
+Państwowe jednostki budżetowe mające siedzibę poza granicami Rzeczypospolitej Polskiej, nadzorowane przez ministra właściwego do spraw zagranicznych, mogą gromadzić na wydzielonym rachunku bankowym dochody uzyskiwane z:
+
+### 1)
+
+odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie bądź użytkowaniu jednostki budżetowej;
+
+### 2)
+
+wpływów z najmu, dzierżawy lub sprzedaży składników majątkowych;
+
+### 3)
+
+tytułu odsetek od środków zgromadzonych na rachunku.
+
+### 2.
+
+Dochody, o których mowa w ust. 1, są przeznaczane na sfinansowanie wydatków bieżących i inwestycyjnych związanych z remontami i odtworzeniem mienia państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej.
+
+### 3.
+
+Wydatki mogą być dokonywane do wysokości kwot zgromadzonych dochodów, w ramach planu finansowego obejmującego bieżące dochody i pozostałości środków z okresów poprzednich.
+
+### 4.
+
+Środki pieniężne gromadzone na wydzielonym rachunku bankowym, o których mowa w ust. 1, w zależności od potrzeb wskazanych przez ministra właściwego do spraw zagranicznych mogą być przekazywane na wydzielony rachunek bankowy do innej jednostki budżetowej mającej siedzibę poza granicami Rzeczypospolitej Polskiej, podległej temu ministrowi.
+
+### Art. 164.
+
+### 1.
+
+Wydatki nieprzewidziane, których obowiązkowe płatności wynikają z tytułów wykonawczych, wyroków sądowych lub ugod, mogą być dokonywane bez względu na poziom środków finansowych zaplanowanych na ten cel. Odpowiednia zmiana planu wydatków powinna nastąpić w trybie przeniesień wydatków z innych podziałek klasyfikacji wydatków lub z rezerw celowych.
+
+### 2.
+
+Do przeniesień, o których mowa w ust. 1, nie stosuje się ograniczeń wynikających z art. 171 ust. 1-5.
+
+### Art. 165.
+
+### 1.
+
+Wydatki na obsługę długu Skarbu Państwa są dokonywane przed innymi wydatkami budżetu państwa.
+
+### 2.
+
+Minister Finansów może dokonywać przeniesień wydatków planowanych na obsługę długu Skarbu Państwa między częściami budżetu państwa, w których ujmuje się obsługę długu zagranicznego Skarbu Państwa oraz obsługę długu krajowego Skarbu Państwa.
+
+### Art. 166.
+
+### 1.
+
+Środki finansowe uzyskane przez Ministra Finansów z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności odsetkowych, pomniejszają wydatki związane z obsługą długu Skarbu Państwa.
+
+### 2.
+
+Środki finansowe uzyskane przez Ministra Finansów z tytułu transakcji finansowych na instrumentach pochodnych, polegających na wymianie płatności kapitałowych, pomniejszają rozchody.
+
+### Art. 167.
+
+### 1.
+
+Wpłaty środków własnych Unii Europejskiej do jej budżetu dokonywane są w terminach i wysokości wynikających z umowy międzynarodowej, z zastrzeżeniem ust. 2.
+
+### 2.
+
+W przypadku gdy w trakcie roku budżetowego - w wyniku zmian wprowadzonych w budżecie ogólnym Unii Europejskiej - wpłata środków własnych, o których mowa w ust. 1, ulegnie zwiększeniu i nie będzie możliwe pokrycie zwiększonych środków z rezerw celowych, Rada Ministrów przedstawia sejmowej komisji właściwej do spraw budżetu propozycje sfinansowania zwiększonego wydatku.
+
+### 3.
+
+W pierwszej kolejności na cel, o którym mowa w ust. 2, przeznacza się:
+
+### 1)
+
+wydatki zablokowane na podstawie art. 177;
+
+### 2)
+
+niepodzielone rezerwy celowe.
+
+### 4.
+
+Pozytywna opinia sejmowej komisji właściwej do spraw budżetu o propozycjach sfinansowania zwiększonych wpłat środków własnych Unii Europejskiej oznacza:
+
+### 1)
+
+upoważnienie dla Ministra Finansów do przeniesienia wydatków między częściami i działami w przypadku, o którym mowa w ust. 3 pkt 1;
+
+### 2)
+
+zgodę na zmianę przeznaczenia rezerw celowych bez stosowania trybu określonego w art. 154 ust. 9 w przypadku, o którym mowa w ust. 3 pkt 2;
+
+### 3)
+
+upoważnienie dla Rady Ministrów do dokonania przeniesienia planowanych wydatków między częściami i działami budżetu państwa - w przypadku innych wydatków.
+
+### Art. 168.
+
+### 1.
+
+Dotacje udzielone z budżetu państwa w części niewykorzystanej do końca roku budżetowego lub w terminie określonym w rozporządzeniu wydanym na podstawie art. 181 ust. 3 podlegają zwrotowi do budżetu państwa odpowiednio do dnia 31 stycznia następnego roku albo w terminie 21 dni od dnia określonego w tym rozporządzeniu, z zastrzeżeniem art. 151 ust. 2 pkt 6.
+
+### 2.
+
+Dotacje udzielone z budżetu państwa na realizację zadań za granicą w części niewykorzystanej do końca roku budżetowego podlegają zwrotowi do budżetu państwa do dnia 28 lutego następnego roku.
+
+### 3.
+
+Od kwot dotacji zwróconych po terminie określonym w ust. 1 lub 2 nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po dniu, w którym upłynął termin zwrotu dotacji.
+
+### 4.
+
+Wykorzystanie dotacji następuje przez zapłatę za zrealizowane zadania, na które dotacja była udzielona. Przekazanie środków na rachunek beneficjenta nie oznacza wykorzystania dotacji.
+
+### 5.
+
+W przypadku gdy odrębne przepisy stanowią o sposobie udzielenia i rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych w tych przepisach.
+
+### 6.
+
+Dotacje celowe przyznane jednostkom samorządu terytorialnego na realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami, w części niewykorzystanej w danym roku, podlegają zwrotowi do budżetu państwa w części, w jakiej zadanie nie zostało wykonane, w terminie określonym w ust. 1.
+
+### Art. 169.
+
+### 1.
+
+Dotacje udzielone z budżetu państwa:
+
+### 1)
+
+wykorzystane niezgodnie z przeznaczeniem,
+
+### 2)
+
+pobrane nienależnie lub w nadmiernej wysokości
+
+- podlegają zwrotowi do budżetu państwa wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w ciągu 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
+
+### 2.
+
+Dotacjami pobranymi w nadmiernej wysokości są dotacje otrzymane z budżetu państwa w wysokości wyższej niż określona w odrębnych przepisach, umowie lub wyższej niż niezbędna na dofinansowanie lub finansowanie dotowanego zadania.
+
+### 3.
+
+Dotacjami nienależnymi są dotacje udzielone bez podstawy prawnej.
+
+### 4.
+
+Zwrotowi do budżetu państwa podlega ta część dotacji, która została wykorzystana niezgodnie z przeznaczeniem, nienależnie udzielona lub pobrana w nadmiernej wysokości.
+
+### 5.
+
+Odsetki od dotacji podlegających zwrotowi do budżetu państwa nalicza się, począwszy od dnia:
+
+### 1)
+
+przekazania z budżetu państwa dotacji wykorzystanych niezgodnie z przeznaczeniem,
+
+### 2)
+
+stwierdzenia nieprawidłowego naliczenia lub nienależnego pobrania dotacji
+
+- z zastrzeżeniem, że jeżeli dotacja stanowi pomoc publiczną, w rozumieniu art. 87 ust. 1 Traktatu ustanawiającego Wspólnotę Europejską, odsetki nalicza się od dnia przekazania dotacji beneficjentowi.
+
+### 6.
+
+W przypadku niedokonania zwrotu dotacji w terminie, o którym mowa w ust. 1 oraz w art. 150 pkt 5, art. 151 ust. 2 pkt 6, art. 168 ust. 1 i 2, organ lub inny dysponent części budżetowej, który udzielił dotacji, wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki.
+
+### Art. 170.
+
+### 1.
+
+Zmiany kwot dotacji celowych na zadania zlecone jednostkom samorządu terytorialnego mogą następować w terminie do dnia 15 listopada roku budżetowego, a zmiany kwot dotacji na dofinansowanie zadań własnych jednostek samorządu terytorialnego - do dnia 30 listopada roku budżetowego.
+
+### 2.
+
+Terminy określone w ust. 1 nie obowiązują w przypadku:
+
+### 1)
+
+dofinansowania zadań jednostek samorządu terytorialnego realizowanych w związku ze zdarzeniem losowym lub finansowania zobowiązań Skarbu Państwa;
+
+### 2)
+
+uprzedniego udzielenia zapewnienia finansowania lub dofinansowania z budżetu państwa.
+
+### Art. 171.
+
+### 1.
+
+Dysponenci części budżetowych mogą dokonywać przeniesień wydatków między rozdziałami i paragrafami klasyfikacji wydatków, z zastrzeżeniem ust. 5, w ramach danej części i działu budżetu państwa.
+
+### 2.
+
+Przeniesienie polegające na zmniejszeniu lub zwiększeniu wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich wymaga zgody ministra właściwego do spraw rozwoju regionalnego, z zastrzeżeniem art. 194 ust. 5 i 6.
+
+### 3.
+
+Przeniesienie polegające na zmniejszeniu lub zwiększeniu wydatków majątkowych jednorazowo o kwotę powyżej 100 tys. zł wymaga zgody Ministra Finansów, z zastrzeżeniem ust. 4. O przeniesieniach wydatków majątkowych dokonanych poniżej tej kwoty dysponenci części budżetowych informują niezwłocznie Ministra Finansów.
+
+### 4.
+
+W przypadku wydatków na inwestycje budowlane, każde przeniesienie polegające na zmniejszeniu lub zwiększeniu tych wydatków wymaga zgody Ministra Finansów.
+
+### 5.
+
+Dysponenci części budżetowych mogą upoważnić kierowników podległych jednostek do dokonywania przeniesień wydatków w obrębie jednego rozdziału.
+
+### 6.
+
+Upoważnienie, o którym mowa w ust. 5, nie obejmuje przenoszenia wydatków, na dokonanie których wymagana jest zgoda ministra właściwego do spraw rozwoju regionalnego lub Ministra Finansów.
+
+### 7.
+
+Przeniesienia wydatków, o których mowa w ust. 1 i 5, nie mogą zwiększać planowanych wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne ustawy nie stanowią inaczej.
+
+### 8.
+
+Przepisy ust. 1-7 nie mają zastosowania do podziału rezerw budżetu państwa.
+
+### 9.
+
+Ministrowie będący dysponentami więcej niż jednej części budżetowej mogą dokonywać przeniesień wydatków między częściami w ramach jednego działu i rozdziału budżetu państwa. O podjętych decyzjach ministrowie informują niezwłocznie Radę Ministrów. Rada Ministrów może uchylić decyzję ministra.
+
+### Art. 172.
+
+### 1.
+
+W razie zniesienia lub przekształcenia ministerstwa Prezes Rady Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych dochodów i wydatków budżetowych między częściami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+
+### 2.
+
+Prezes Rady Ministrów w rozporządzeniu, o którym mowa w ust. 1, może określić dla utworzonego lub przekształconego ministerstwa kwoty wynagrodzeń w podziale na części i działy budżetu państwa.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się również w przypadku zniesienia lub przekształcenia, będących dysponentami części budżetowych, organów, urzędów i jednostek organizacyjnych podległych Prezesowi Rady Ministrów albo ministrowi lub przez nich nadzorowanych.
+
+### Art. 173.
+
+### 1.
+
+Środki z budżetu państwa przeznaczone na finansowanie programów wieloletnich nie mogą być, z zastrzeżeniem ust. 2, wykorzystane na inne cele.
+
+### 2.
+
+Niewykorzystane środki na finansowanie programów wieloletnich Rada Ministrów może przeznaczyć na finansowanie innych programów wieloletnich lub zobowiązań Skarbu Państwa.
+
+### Art. 174.
+
+Minister Finansów sprawuje ogólną kontrolę:
+
+### 1)
+
+realizacji dochodów i wydatków oraz przychodów i rozchodów budżetu państwa;
+
+### 2)
+
+efektywności i skuteczności realizacji budżetu w układzie zadaniowym;
+
+### 3)
+
+wykorzystania środków, o których mowa w art. 5 ust. 1 pkt 2;
+
+### 4)
+
+poziomu deficytu sektora finansów publicznych.
+
+### Art. 175.
+
+### 1.
+
+Dysponenci części budżetowych sprawują nadzór i kontrolę:
+
+### 1)
+
+nad całością gospodarki finansowej podległych im jednostek organizacyjnych, w tym nad dokonywaniem przez te jednostki wstępnej oceny celowości poniesionych wydatków oraz realizacją właściwych procedur;
+
+### 2)
+
+wykorzystania dotacji udzielonych z budżetu państwa;
+
+### 3)
+
+realizacji zadań finansowanych z budżetu państwa;
+
+### 4)
+
+efektywności i skuteczności realizacji planów w układzie zadaniowym na podstawie mierników stopnia realizacji celów.
+
+### 2.
+
+Przedmiotem nadzoru i kontroli, o których mowa w ust. 1, jest w szczególności:
+
+### 1)
+
+prawidłowość i terminowość pobierania dochodów;
+
+### 2)
+
+zgodność wydatków z planowanym przeznaczeniem;
+
+### 3)
+
+prawidłowość wykorzystania środków finansowych, w tym zakres zrealizowanych zadań;
+
+### 4)
+
+wysokość i terminy przekazywania dotacji;
+
+### 5)
+
+prawidłowość wykorzystania dotacji udzielonych z budżetu państwa, pod względem zgodności z przeznaczeniem oraz wysokości wykorzystanej dotacji a stopniem realizacji zadań przewidzianych do sfinansowania dotacją z budżetu państwa.
+
+### 3.
+
+Dysponenci części budżetowych ustalają, w tym w odniesieniu do podległych jednostek organizacyjnych, sposób dokonywania wydatków przy wykorzystaniu służbowych kart płatniczych, w szczególności:
+
+### 1)
+
+funkcje, stanowiska i zakres obowiązków służbowych uprawniających do korzystania ze służbowej karty płatniczej;
+
+### 2)
+
+tryb i warunki przyznawania służbowej karty płatniczej i ustalania wysokości miesięcznych limitów wydatków;
+
+### 3)
+
+rodzaje towarów i usług, za które może być dokonywana zapłata za pomocą służbowej karty płatniczej;
+
+### 4)
+
+przypadki, kiedy może być dokonana wypłata gotówki za pomocą służbowej karty płatniczej;
+
+### 5)
+
+sposób prowadzenia ewidencji wydanych służbowych kart płatniczych;
+
+### 6)
+
+sposób i terminy rozliczania płatności dokonanych przy wykorzystaniu służbowej karty płatniczej.
+
+### Art. 176.
+
+### 1.
+
+Minister Finansów może dokonać oceny planowania i gospodarowania środkami publicznymi w jednostkach sektora finansów publicznych, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, i jednostek samorządu terytorialnego.
+
+### 2.
+
+Ocenę, o której mowa w ust. 1, przeprowadzają osoby upoważnione przez Ministra Finansów.
+
+### 3.
+
+Podczas przeprowadzania oceny planowania i gospodarowania środkami publicznymi osoby upoważnione przez Ministra Finansów kierują się wskazówkami zawartymi w standardach audytu wewnętrznego, o których mowa w art. 273 ust. 1.
+
+### 4.
+
+Osoby upoważnione przez Ministra Finansów mają prawo wstępu do pomieszczeń jednostki oraz wglądu do wszelkich dokumentów, informacji i danych oraz do innych materiałów związanych z funkcjonowaniem jednostki, w tym zawartych na elektronicznych nośnikach danych, jak również do wykonywania z nich kopii, odpisów, wyciągów, zestawień lub wydruków, z zachowaniem przepisów o tajemnicy ustawowo chronionej.
+
+### 5.
+
+Pracownicy jednostki, w której przeprowadzana jest ocena, są obowiązani udzielać informacji i wyjaśnień, a także potwierdzać kopie, odpisy, wyciągi lub zestawienia, o których mowa w ust. 4.
+
+### Art. 177.
+
+### 1.
+
+W przypadku stwierdzenia:
+
+### 1)
+
+niegospodarności w określonych jednostkach,
+
+### 2)
+
+opóźnień w realizacji zadań,
+
+### 3)
+
+nadmiaru posiadanych środków,
+
+### 4)
+
+naruszenia zasad gospodarki finansowej, o których mowa w art. 162
+
+- może być podjęta decyzja o blokowaniu planowanych wydatków budżetowych.
+
+### 2.
+
+Blokowanie planowanych wydatków budżetowych oznacza okresowy lub obowiązujący do końca roku zakaz dysponowania częścią lub całością planowanych wydatków.
+
+### 3.
+
+Decyzje o blokowaniu planowanych wydatków, w przypadkach określonych w ust. 1, podejmują:
+
+### 1)
+
+Minister Finansów - w zakresie całego budżetu państwa, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2;
+
+### 2)
+
+dysponenci części budżetowych - w zakresie ich części budżetu państwa.
+
+### 4.
+
+O decyzjach, o których mowa w ust. 3 pkt 2, dysponenci części budżetowych niezwłocznie informują Ministra Finansów.
+
+### 5.
+
+W decyzjach, o których mowa w ust. 3, może być zawarty wykaz wydatków, które nie mogą być dokonywane.
+
+### 6.
+
+Minister Finansów, po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu, może utworzyć nową rezerwę celową i przenieść do tej rezerwy kwoty wydatków zablokowane na podstawie ust. 1 pkt 2 i 3.
+
+### 7.
+
+Rezerwę, o której mowa w ust. 6, przeznacza się na sfinansowanie zobowiązań Skarbu Państwa lub na cele osobno wskazane w ustawie budżetowej.
+
+### 8.
+
+Minister Finansów informuje niezwłocznie Radę Ministrów o przyczynach podjęcia decyzji, o których mowa w ust. 3 pkt 1. Rada Ministrów może uchylić decyzję Ministra Finansów w terminie 30 dni od dnia poinformowania o podjęciu decyzji.
+
+### Art. 178.
+
+### 1.
+
+W przypadku stwierdzenia okoliczności, o których mowa w art. 377 ust. 1, dotyczących wydatkowania środków przeznaczonych na programy finansowane z udziałem środków europejskich, z wyłączeniem programów finansowanych z udziałem środków Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4, Minister Finansów, na wniosek ministra właściwego do spraw rozwoju regionalnego, może utworzyć nową rezerwę celową i przenieść do niej zablokowane kwoty wydatków, po poinformowaniu sejmowej komisji właściwej do spraw budżetu.
+
+### 2.
+
+Rezerwę, o której mowa w ust. 1, przeznacza się na te programy, w których realizacji nie występują opóźnienia.
+
+### Art. 179.
+
+### 1.
+
+W przypadku zagrożenia realizacji ustawy budżetowej może nastąpić blokowanie na czas oznaczony planowanych wydatków budżetu państwa.
+
+### 2.
+
+Blokowanie planowanych wydatków budżetu państwa, o którym mowa w ust. 1, oznacza wstrzymanie przekazywania środków na realizację zadań finansowanych z budżetu państwa lub okresowy albo obowiązujący do końca roku zakaz dysponowania częścią lub całością planowanych wydatków.
+
+### 3.
+
+Blokowanie, o którym mowa w ust. 2, nie może dotyczyć subwencji ogólnej dla samorządu terytorialnego.
+
+### 4.
+
+Rada Ministrów po uzyskaniu pozytywnej opinii sejmowej komisji właściwej do spraw budżetu podejmuje, w drodze rozporządzenia, decyzję o blokowaniu wydatków.
+
+### 5.
+
+W rozporządzeniu, o którym mowa w ust. 4, Rada Ministrów określa w szczególności:
+
+### 1)
+
+część budżetu państwa,
+
+### 2)
+
+łączną kwotę wydatków, która podlega blokowaniu
+
+- uwzględniając stopień zagrożenia realizacji poszczególnych zadań oraz stopień zagrożenia realizacji ustawy budżetowej.
+
+### 6.
+
+Szczegółową klasyfikację wydatków, które podlegają blokowaniu, ustala dysponent części budżetowej.
+
+### Art. 180.
+
+W przypadku wprowadzenia stanu nadzwyczajnego na terytorium państwa lub na jego części Rada Ministrów może, w drodze rozporządzenia, dokonywać przeniesienia planowanych wydatków budżetowych między częściami i działami budżetu państwa w celu realizacji zadań wynikających z przepisów dotyczących wprowadzenia tego stanu.
+
+### Art. 181.
+
+### 1.
+
+Niezrealizowane kwoty wydatków budżetu państwa wygasają, z zastrzeżeniem ust. 2 i 9, z upływem roku budżetowego.
+
+### 2.
+
+Nie później niż do dnia 15 grudnia roku budżetowego Rada Ministrów może ustalić, w drodze rozporządzenia, po uzyskaniu w tej sprawie opinii sejmowej komisji właściwej do spraw budżetu, wykaz oraz plan finansowy wydatków, do których nie stosuje się przepisów ust. 1, w szczegółowości określonej w art. 116 ust. 2, i ostateczny termin ich dokonania, nie dłuższy niż 31 marca następnego roku budżetowego.
+
+### 3.
+
+Wydając rozporządzenie, o którym mowa w ust. 2, Rada Ministrów uwzględni terminy zakończenia procedur wynikających z przepisów o zamówieniach publicznych, stopień zaawansowania realizacji programów wieloletnich, a w przypadku wydatków inwestycyjnych - zrealizowany, ale niezafakturowany zakres zadań rzeczowych danej inwestycji.
+
+### 4.
+
+W wykazie, o którym mowa w ust. 2, nie mogą być ujęte wydatki, które w toku realizacji budżetu zostały zwiększone w trybie art. 171 ust. 3 oraz art. 173 ust. 2.
+
+### 5.
+
+Środki finansowe na wydatki, o których mowa w ust. 2, Minister Finansów, do dnia 31 grudnia roku budżetowego, przekazuje na wyodrębniony rachunek wydatków centralnego rachunku bieżącego budżetu państwa
+
+### 6.
+
+Rada Ministrów w rozporządzeniu, o którym mowa w ust. 2, może:
+
+### 1)
+
+wskazać środki finansowe przeznaczone na:
+
+### a)
+
+integrację społeczną,
+
+### b)
+
+poprawę jakości kształcenia,
+
+### c)
+
+rozwój potencjału adaptacyjnego pracowników i przedsiębiorstw
+
+- w ramach realizacji programów współfinansowanych z udziałem Europejskiego Funduszu Społecznego, do których nie stosuje się przepisów ust. 5, uwzględniając rodzaje beneficjentów, rodzaje projektów oraz procedury stosowane przy ich realizacji;
+
+### 2)
+
+wskazać, w szczególnie uzasadnionych przypadkach, środki finansowe przeznaczone na realizację programów współfinansowanych z udziałem środków europejskich innych niż wymienione w pkt 1, do których nie stosuje się przepisów ust. 5, uwzględniając rodzaje beneficjentów realizujących projekty, rodzaje projektów oraz procedury stosowane przy ich realizacji, mając na uwadze sprawne funkcjonowanie programu, projektu lub zadania.
+
+### 7.
+
+Środki finansowe, o których mowa w ust. 6, pozostają na rachunkach beneficjentów realizujących projekty lub zadania z udziałem środków europejskich i mogą być wydatkowane w terminach określonych w rozporządzeniu, o którym mowa w ust. 2.
+
+### 8.
+
+Środki finansowe niewykorzystane w terminie określonym przez Radę Ministrów podlegają przekazaniu na dochody budżetu państwa na wyodrębniony rachunek dochodów centralnego rachunku bieżącego budżetu państwa w terminie 21 dni od dnia określonego w rozporządzeniu wydanym na podstawie ust. 2.
+
+### 9.
+
+Minister Finansów może, na wniosek dysponenta części budżetowej, wyrazić zgodę na regulowanie zobowiązań wymagalnych według stanu na dzień 31 grudnia roku ubiegłego w ciężar planu wydatków tego roku w terminie do 9 dni roboczych roku następnego.
+
+### Art. 182.
+
+### 1.
+
+Wykonanie ustawy budżetowej podlega kontroli Sejmu.
+
+### 2.
+
+Rada Ministrów przedstawia Sejmowi i Najwyższej Izbie Kontroli, w terminie do dnia 31 maja roku następnego, roczne sprawozdanie z wykonania ustawy budżetowej oraz:
+
+### 1)
+
+sprawozdanie o dochodach i wydatkach związanych z zadaniami z zakresu administracji rządowej, realizowanymi przez jednostki samorządu terytorialnego, i innymi zadaniami zleconymi jednostkom samorządu terytorialnego odrębnymi ustawami;
+
+### 2)
+
+zbiorczą informację o wykonaniu budżetów jednostek samorządu terytorialnego;
+
+### 3)
+
+ocenę realizacji założeń makroekonomicznych;
+
+### 4)
+
+ocenę przebiegu prywatyzacji majątku Skarbu Państwa;
+
+### 5)
+
+informację o wykonaniu wydatków w układzie zadaniowym.
+
+### 3.
+
+Sprawozdanie z wykonania ustawy budżetowej powinno zawierać:
+
+### 1)
+
+dochody, wydatki oraz nadwyżkę albo deficyt sektora finansów publicznych;
+
+### 2)
+
+dochody i wydatki wynikające z zamknięć rachunków budżetu państwa, sporządzone według szczegółowości i układu ustawy budżetowej;
+
+### 3)
+
+przychody i koszty państwowych funduszy celowych;
+
+### 4)
+
+przychody i koszty agencji wykonawczych;
+
+### 5)
+
+przychody i koszty instytucji gospodarki budżetowej;
+
+### 6)
+
+przychody i koszty jednostek, o których mowa w art. 9 pkt 14.
+
+### 4.
+
+Do sprawozdania dołącza się:
+
+### 1)
+
+omówienie wykonania budżetu państwa, z uwzględnieniem różnic między wielkościami uchwalonymi a wykonanymi;
+
+### 2)
+
+informację o realizacji wydatków, które nie wygasły z upływem roku budżetowego;
+
+### 3)
+
+omówienie wielkości środków własnych Unii Europejskiej, z uwzględnieniem różnic między wielkościami uchwalonymi a wykonanymi;
+
+### 4)
+
+informacje dotyczące otrzymanych i wydatkowanych środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
+
+### 5)
+
+informację o przebiegu wykonania Wieloletniego Planu Finansowego Państwa.
+
+### 5.
+
+Zbiorcza informacja o wykonaniu budżetów jednostek samorządu terytorialnego powinna zawierać, odrębnie dla każdego stopnia jednostki samorządu terytorialnego:
+
+### 1)
+
+zestawienie dochodów według ważniejszych źródeł;
+
+### 2)
+
+zestawienie wydatków według działów;
+
+### 3)
+
+zestawienie wydatków według ważniejszych rodzajów wydatków;
+
+### 4)
+
+zestawienie przychodów i kosztów samorządowych zakładów budżetowych;
+
+### 5)
+
+omówienie wykonania budżetów jednostek samorządu terytorialnego;
+
+### 6)
+
+kwotę nadwyżki albo deficytu jednostek samorządu terytorialnego.
+
+### 6.
+
+Informacja o wykonaniu wydatków w układzie zadaniowym, z wyodrębnieniem wydatków na inwestycje i dotacji na finansowanie lub dofinansowanie kosztów realizacji inwestycji oraz wydatków na programy wieloletnie, powinna zawierać:
+
+### 1)
+
+omówienie realizacji planu wydatków w układzie zadaniowym, w tym realizacji założonych celów;
+
+### 2)
+
+zestawienie planowanych i poniesionych wydatków na realizację zadań;
+
+### 3)
+
+zestawienie planowanych i poniesionych wydatków na realizację podzadań;
+
+### 4)
+
+zestawienie planowanych i osiągniętych wartości mierników stopnia realizacji celów.
+
+### 7.
+
+Do sprawozdania, o którym mowa w ust. 2, Rada Ministrów dołącza:
+
+### 1)
+
+sprawozdanie dotyczące przestrzegania zasady stanowiącej, że kwota państwowego długu publicznego nie może przekroczyć 60% wartości rocznego produktu krajowego brutto w danym roku budżetowym;
+
+### 2)
+
+informację dotyczącą długu, poręczeń i gwarancji sektora finansów publicznych, o których mowa w art. 38.
+
+### Art. 183.
+
+Minister Finansów przedstawia sejmowej komisji właściwej do spraw budżetu i Najwyższej Izbie Kontroli informację o przebiegu wykonania ustawy budżetowej za pierwsze półrocze w terminie do dnia 10 września tego roku.
+
+### Rozdział 6 Wykonywanie budżetu środków europejskich
+
+### Art. 184.
+
+### 1.
+
+Wydatki związane z realizacją programów i projektów finansowanych ze środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, są dokonywane zgodnie z procedurami określonymi w umowie międzynarodowej lub innymi procedurami obowiązującymi przy ich wykorzystaniu.
+
+### 2.
+
+Przy wydatkowaniu środków, o których mowa w art. 5 ust. 1 pkt 3 oraz ust. 3 pkt 5 lit. c i d, a także środków przeznaczonych na realizację programów finansowanych z tych środków, stosuje się odpowiednio zasady rozliczania określone dla dotacji z budżetu państwa.
+
+### Art. 185.
+
+W trakcie wykonywania budżetu środków europejskich wydatki dokonywane w ramach płatności są klasyfikowane w podziale na części, działy, rozdziały i paragrafy klasyfikacji wydatków.
+
+### Art. 186.
+
+Wydatki na realizację programów i projektów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, mogą być przeznaczone na:
+
+### 1)
+
+realizację projektów przez jednostki budżetowe;
+
+### 2)
+
+płatności w ramach programów finansowanych z udziałem środków europejskich;
+
+### 3)
+
+dotacje celowe dla beneficjentów;
+
+### 4)
+
+realizację projektów finansowanych w ramach Programu Środki Przejściowe;
+
+### 5)
+
+realizację Wspólnej Polityki Rolnej zgodnie z odrębnymi ustawami.
+
+### Art. 187.
+
+Za obsługę płatności w ramach programów finansowanych z udziałem środków europejskich, zwanych dalej „płatnościami”, odpowiada Minister Finansów.
+
+### Art. 188.
+
+### 1.
+
+Podstawą dokonania płatności na rzecz beneficjenta jest zlecenie płatności wystawione przez instytucję, z którą beneficjent zawarł umowę o dofinansowanie projektu, oraz pisemna zgoda dysponenta części budżetowej na dokonanie płatności, z zastrzeżeniem, że w przypadku gdy projekt realizuje instytucja zarządzająca lub instytucja pośrednicząca będąca zarządem województwa lub przez zarząd województwa upoważniona, zlecenia płatności są wystawiane przez zarząd województwa.
+
+### 2.
+
+Dysponent części budżetowej może upoważnić na piśmie instytucję, o której mowa w ust. 1, do wydawania zgody na dokonywanie płatności.
+
+### 3.
+
+Przepis ust. 1 stosuje się odpowiednio do decyzji, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego.
+
+### 4.
+
+Instytucja, o której mowa w ust. 1, informuje właściwego dysponenta części budżetowej o zleceniach płatności przekazywanych do Banku Gospodarstwa Krajowego, a w przypadku programów finansowanych z udziałem środków europejskich, dla których instytucją zarządzającą lub pośredniczącą jest zarząd województwa, także zarząd województwa.
+
+### 5.
+
+Płatności mogą być przekazywane na rachunek beneficjenta, podmiotu upoważnionego przez beneficjenta lub wykonawcy.
+
+### 6.
+
+Minister Finansów, w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego oraz ministrem właściwym do spraw rybołówstwa, określi, w drodze rozporządzenia:
+
+### 1)
+
+wzór zlecenia płatności,
+
+### 2)
+
+zakres, terminy i tryb przekazywania przez Bank Gospodarstwa Krajowego informacji dotyczących płatności,
+
+### 3)
+
+wzory, zakres, terminy i tryb przekazywania informacji przez instytucję, o której mowa w ust. 1, do dysponenta części budżetowej lub do zarządu województwa
+
+- mając na względzie sprawność realizacji płatności, wymogi prowadzenia przez dysponentów części budżetowych ewidencji księgowej wydatków w ramach programów oraz zapewnienie skutecznej kontroli nad środkami przekazanymi do Banku Gospodarstwa Krajowego.
+
+### Art. 189.
+
+### 1.
+
+Zlecenie płatności może dotyczyć kwoty wydatków kwalifikowalnych zgodnie z kryteriami określonymi na podstawie ustawy o zasadach prowadzenia polityki rozwoju, a w przypadku programu finansowanego z udziałem środków Europejskiego Funduszu Rybackiego - na podstawie ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego, wynikającej z wniosku o płatność, zweryfikowanego pozytywnie przez instytucję, o której mowa w art. 188 ust. 1.
+
+### 2.
+
+Instytucja, o której mowa w art. 188 ust. 1, może wystawić zlecenie dokonania płatności zaliczkowej dla beneficjenta przed złożeniem przez beneficjenta wniosku o płatność.
+
+### 3.
+
+W przypadku niezłożenia wniosku o płatność na kwotę lub w terminie, o których mowa w przepisach wydanych na podstawie ust. 4, od środków pozostałych do rozliczenia, przekazanych w ramach zaliczki, nalicza się odsetki jak dla zaległości podatkowych, liczone od dnia przekazania środków do dnia złożenia wniosku o płatność.
+
+### 4.
+
+Minister właściwy do spraw rozwoju regionalnego w porozumieniu z Ministrem Finansów, a w zakresie środków europejskich przeznaczonych na realizację programów finansowanych z udziałem środków Europejskiego Funduszu Rybackiego - także w porozumieniu z ministrem właściwym do spraw rybołówstwa, określi, w drodze rozporządzenia, warunki i tryb udzielania oraz rozliczania zaliczek, a także terminy składania wniosków o płatność oraz ich zakres, uwzględniając rodzaje beneficjentów i sposób wdrażania działań w ramach programu finansowanego z udziałem środków europejskich.
+
+### Art. 190.
+
+W przypadku gdy beneficjentem projektu finansowanego ze środków europejskich jest jednostka sektora finansów publicznych, każdy wydatek kwalifikowalny powinien zostać ujęty we wniosku o płatność przekazywanym właściwej instytucji w terminie do 3 miesięcy od dnia jego poniesienia.
+
+### Art. 191.
+
+### 1.
+
+Instytucja, o której mowa w art. 188 ust. 1, przekazuje dysponentowi części budżetowej lub do zarządu województwa, w terminie do 5 dnia każdego miesiąca, zbiorcze harmonogramy wydatków wynikających z podpisanych umów, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego.
+
+### 2.
+
+Przepisy ust. 1 stosuje się odpowiednio do decyzji, o których mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. a ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego.
+
+### Art. 192.
+
+### 1.
+
+Minister Finansów przekazuje na rachunki w Banku Gospodarstwa Krajowego środki na płatności na rzecz beneficjentów, a w przypadku Wspólnej Polityki Rolnej - na rzecz agencji płatniczych, o których mowa w odrębnych ustawach.
+
+### 2.
+
+Kwota środków, o których mowa w ust. 1, nie może być wyższa niż łączny limit wydatków dla programów finansowanych z udziałem środków europejskich, określony w budżecie środków europejskich.
+
+### 3.
+
+Bank Gospodarstwa Krajowego może prowadzić obsługę wypłat na współfinansowanie realizacji programów i projektów finansowanych z udziałem środków europejskich, w ramach umowy zawartej z właściwym dysponentem części budżetowej.
+
+### 4.
+
+Właściwy dysponent części budżetowej może zlecić Bankowi Gospodarstwa Krajowego dokonywanie wypłat, o których mowa w ust. 3, i przekazać środki na rachunek prowadzony przez ten Bank.
+
+### 5.
+
+Minister właściwy do spraw rozwoju regionalnego przekazuje Ministrowi Finansów kwartalne prognozy płatności w ramach programów finansowanych z udziałem środków europejskich w terminie do 15 dnia miesiąca poprzedzającego dany kwartał. W odniesieniu do programu finansowanego ze środków Europejskiego Funduszu Rybackiego prognozy przekazuje minister właściwy do spraw rybołówstwa, a w odniesieniu do środków, o których mowa w art. 5 ust. 3 pkt 4 - prognozy przekazuje minister właściwy do spraw rozwoju wsi oraz minister właściwy do spraw rynków rolnych.
+
+### 6.
+
+Minister Finansów informuje ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw rybołówstwa o kwocie środków wypłaconych przez Bank Gospodarstwa Krajowego beneficjentom w ramach programów finansowanych z udziałem środków europejskich, z wyłączeniem środków, o których mowa w art. 5 ust. 3 pkt 4, w terminie do 15 dnia miesiąca następującego po miesiącu, w którym dokonano płatności.
+
+### Art. 193.
+
+### 1.
+
+Jednostki realizujące program finansowany z udziałem środków europejskich mogą zaciągać zobowiązania, rozumiane jako suma limitów wydatków wynikających z decyzji o dofinansowaniu lub umów z beneficjentami programów finansowanych z udziałem środków europejskich, do wysokości łącznej kwoty wydatków określonych dla całego programu, z uwzględnieniem wieloletnich limitów zobowiązań i wydatków, o których mowa w art. 122 ust. 1 pkt 2 lit. c.
+
+### 2.
+
+Minister właściwy do spraw rozwoju regionalnego przedstawia Radzie Ministrów, w terminie do końca miesiąca następującego po zakończeniu kwartału, informacje o wysokości zobowiązań wynikających z zawartych z beneficjentami umów w ramach poszczególnych programów, wysokości środków przekazanych beneficjentom i planowanych do przekazania do końca roku budżetowego.
+
+### 3.
+
+Rada Ministrów, na wniosek Ministra Finansów zaopiniowany przez ministra właściwego do spraw rozwoju regionalnego, może podjąć decyzję o wstrzymaniu zaciągania zobowiązań w ramach danego programu w przypadku zagrożenia wykonania planu dochodów budżetu z tytułu realizacji programów finansowanych ze środków europejskich, określonych w ustawie budżetowej.
+
+### 4.
+
+Na wniosek instytucji zarządzającej minister właściwy do spraw rozwoju regionalnego, w porozumieniu z Ministrem Finansów, może wyrazić zgodę na zaciągnięcie zobowiązań przekraczających łączną kwotę wydatków programu, o której mowa w ust. 1. O wyrażonej zgodzie minister właściwy do spraw rozwoju regionalnego informuje Radę Ministrów.
+
+### Art. 194.
+
+### 1.
+
+Minister Finansów, na wniosek ministra właściwego do spraw rozwoju regionalnego, zaopiniowany przez właściwego dysponenta części budżetowej, dokonuje przeniesień między częściami i działami budżetu państwa wydatków przeznaczonych na realizację programów finansowanych z udziałem środków europejskich, z wyłączeniem Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4.
+
+### 2.
+
+Minister właściwy do spraw rozwoju regionalnego może wystąpić z wnioskiem, o którym mowa w ust. 1, także na wniosek właściwego dysponenta części budżetowej.
+
+### 3.
+
+Minister właściwy do spraw rozwoju regionalnego niezwłocznie informuje Radę Ministrów o przyczynach wystąpienia z wnioskiem, o którym mowa w ust. 1, w przypadku negatywnej opinii właściwego dysponenta części budżetowej. Rada Ministrów może uchylić decyzję Ministra Finansów o przeniesieniu, o którym mowa w ust. 1, w terminie 30 dni od dnia poinformowania o podjęciu decyzji.
+
+### 4.
+
+Właściwy dysponent części budżetowej może dokonywać przeniesień pomiędzy programami finansowanymi z udziałem środków europejskich w ramach części i działu klasyfikacji wydatków. Przeniesienie wymaga zgody ministra właściwego do spraw rozwoju regionalnego, z wyłączeniem środków Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4.
+
+### 5.
+
+Minister Finansów na wniosek ministra właściwego do spraw rozwoju wsi lub ministra właściwego do spraw rynków rolnych dokonuje przeniesień między częściami i działami w ramach wydatków z udziałem środków, o których mowa w art. 5 ust. 3 pkt 4.
+
+### 6.
+
+Właściwy dysponent części budżetowej może dokonywać przeniesień w ramach części i działu klasyfikacji wydatków z udziałem środków, o którym mowa w art. 5 ust. 3 pkt 4.
+
+### Art. 195.
+
+### 1.
+
+Minister właściwy do spraw rozwoju regionalnego sprawuje nadzór i kontrolę nad realizacją programów finansowanych z udziałem środków europejskich, z wyłączeniem środków Europejskiego Funduszu Rybackiego oraz środków, o których mowa w art. 5 ust. 3 pkt 4.
+
+### 2.
+
+Minister właściwy do spraw rozwoju wsi, minister właściwy do spraw rynków rolnych oraz minister właściwy do spraw rybołówstwa sprawują nadzór i kontrolę nad realizacją programów finansowanych odpowiednio z udziałem środków, o których mowa w art. 5 ust. 3 pkt 4, i środków Europejskiego Funduszu Rybackiego.
+
+### Rozdział 7 Bankowa obsługa budżetu państwa
+
+### Art. 196.
+
+### 1.
+
+Dla obsługi budżetu państwa w zakresie krajowych środków finansowych są prowadzone następujące rachunki bankowe:
+
+### 1)
+
+centralny rachunek bieżący budżetu państwa, z wyodrębnieniem rachunków dochodów i wydatków budżetu państwa oraz rachunków środków do sfinansowania pożyczkowych potrzeb budżetu państwa;
+
+### 2)
+
+rachunki bieżące państwowych jednostek budżetowych, z wyodrębnieniem rachunków dochodów i wydatków;
+
+### 3)
+
+rachunki bieżące urzędów obsługujących organy podatkowe, dla gromadzenia dochodów budżetu państwa, z wyodrębnieniem rachunków dla niektórych rodzajów dochodów;
+
+### 4)
+
+rachunki bieżące państwowych funduszy celowych, o ile odrębne ustawy nie stanowią inaczej;
+
+### 5)
+
+rachunki pomocnicze;
+
+### 6)
+
+rachunki bieżące państwowych jednostek budżetowych mających siedzibę poza granicami Rzeczypospolitej Polskiej.
+
+### 2.
+
+Obsługę bankową budżetu państwa w zakresie rachunków bankowych wymienionych w ust. 1 pkt 1-5 prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego, z zastrzeżeniem ust. 3 i 6.
+
+### 3.
+
+Wyboru podmiotu prowadzącego obsługę rachunków, o których mowa w ust. 1 pkt 1-4, dokonuje Minister Finansów, uwzględniając niezbędne warunki techniczne i organizacyjne, które powinny być spełnione przez ten podmiot, jak również wpływ na stan finansów publicznych w związku z podjęciem i prowadzeniem obsługi tych rachunków.
+
+### 4.
+
+Bank Gospodarstwa Krajowego może podjąć obsługę rachunków, o których mowa w ust. 1 pkt 1-3, nie wcześniej niż z dniem przyjęcia przez Rzeczpospolitą Polską waluty euro.
+
+### 5.
+
+Obsługę bankową rachunków państwowych osób prawnych, o których mowa w art. 9 pkt 14, może prowadzić Narodowy Bank Polski, Bank Gospodarstwa Krajowego lub inny bank. Wyboru banku innego niż Narodowy Bank Polski lub Bank Gospodarstwa Krajowego dla obsługi tych rachunków dokonuje się w trybie przepisów o zamówieniach publicznych.
+
+### 6.
+
+Minister Finansów może dokonać wyboru podmiotu prowadzącego obsługę rachunków bankowych, wymienionych w ust. 1 pkt 5, dla niektórych rodzajów rachunków pomocniczych.
+
+### Art. 197.
+
+### 1.
+
+Dochody budżetu państwa są gromadzone odpowiednio na rachunkach urzędów obsługujących organy podatkowe dla gromadzenia dochodów lub na rachunkach bieżących dochodów państwowych jednostek budżetowych i przekazywane na centralny rachunek bieżący budżetu państwa, którego dysponentem jest Minister Finansów.
+
+### 2.
+
+Wydatki budżetu państwa są dokonywane przez dysponentów środków budżetowych z ich rachunków bieżących wydatków ze środków otrzymanych bezpośrednio lub za pośrednictwem rachunku bieżącego wydatków dysponenta nadrzędnego z centralnego rachunku bieżącego budżetu państwa.
+
+### 3.
+
+Niewykorzystane przez dysponentów środków budżetowych środki, o których mowa w ust. 2, są przekazywane bezpośrednio lub za pośrednictwem rachunku bieżącego wydatków dysponenta nadrzędnego na centralny rachunek bieżący budżetu państwa.
+
+### 4.
+
+Operacje z tytułu przychodów i rozchodów budżetu państwa są dokonywane na centralnym rachunku bieżącym budżetu państwa.
+
+### Art. 198.
+
+Minister Finansów, kierując się ogólnie sprawowaną kontrolą realizacji dochodów i wydatków budżetu państwa, określi, w drodze rozporządzenia, szczegółowy sposób wykonywania budżetu państwa, w tym:
+
+### 1)
+
+sposób i warunki ustanawiania przez dysponentów części budżetowych dysponentów drugiego i trzeciego stopnia;
+
+### 2)
+
+tryb i terminy przekazywania:
+
+### a)
+
+na centralny rachunek bieżący budżetu państwa dochodów pobieranych przez urzędy obsługujące organy podatkowe i państwowe jednostki budżetowe z rachunków, o których mowa w art. 196 ust. 1 pkt 2 i 3,
+
+### b)
+
+z centralnego rachunku bieżącego budżetu państwa środków na rachunki, o których mowa w art. 196 ust. 1 pkt 2 i 3, z tytułu zwrotu nadpłat dochodów, określonych w odrębnych przepisach, dokonywanych z tych rachunków,
+
+### c)
+
+z centralnego rachunku bieżącego budżetu państwa środków na rachunki, o których mowa w art. 196 ust. 1 pkt 2, w celu dokonywania wydatków przez te jednostki,
+
+### d)
+
+na centralny rachunek bieżący budżetu państwa niewykorzystanych środków, o których mowa w art. 197 ust. 3,
+
+### e)
+
+na centralny rachunek bieżący budżetu państwa środków, o których mowa w art. 5 ust. 1 pkt 2,
+
+### f)
+
+środków pozostałych po uregulowaniu zobowiązań, o których mowa w art. 181 ust. 9.
+
+### Art. 199.
+
+### 1.
+
+Obsługa bankowa rachunków budżetu państwa jest prowadzona w ramach umowy rachunku bankowego.
+
+### 2.
+
+W ramach obsługi bankowej budżetu państwa podmiot prowadzący obsługę udostępnia:
+
+### 1)
+
+Ministrowi Finansów i Najwyższej Izbie Kontroli informacje o stanach środków na rachunkach, o których mowa w art. 196 ust. 1,
+
+### 2)
+
+właściwym dysponentom informacje o stanach środków w podległych im jednostkach, na rachunkach bieżących, o których mowa w art. 196 ust. 1 pkt 2 i 3
+
+- w zakresie i terminach określonych w rozporządzeniu wydanym na podstawie ust. 3.
+
+### 3.
+
+Minister Finansów, mając na względzie ujednolicenie zasad obsługi rachunków budżetu państwa oraz kierując się koniecznością zapewnienia płynnego przepływu informacji, określi, w drodze rozporządzenia, rodzaje i tryb dokonywania operacji na rachunkach, o których mowa w art. 196 ust. 1, oraz zakres i terminy udostępniania informacji, o których mowa w ust. 2, w ramach prowadzonej obsługi bankowej budżetu państwa, z zastrzeżeniem ust. 4.
+
+### 4.
+
+Jeżeli podmiotem prowadzącym obsługę centralnego rachunku bieżącego budżetu państwa jest Narodowy Bank Polski, Minister Finansów, wydając rozporządzenie, o którym mowa w ust. 3, zasięga opinii Prezesa Narodowego Banku Polskiego.
+
+### Art. 200.
+
+### 1.
+
+Obsługę bankową płatności prowadzi Bank Gospodarstwa Krajowego w ramach umowy rachunku bankowego zawartej z Ministrem Finansów.
+
+### 2.
+
+Minister Finansów przedstawia do zaopiniowania ministrowi właściwemu do spraw rozwoju regionalnego oraz ministrowi właściwemu do spraw rybołówstwa projekt umowy, o której mowa w ust. 1.
+
+### Art. 201.
+
+Umowa rachunku bankowego, o której mowa w art. 200 ust. 1, określa w szczególności:
+
+### 1)
+
+liczbę i rodzaje prowadzonych rachunków bankowych;
+
+### 2)
+
+wysokość oprocentowania rachunków bankowych;
+
+### 3)
+
+rodzaje sprawozdań z realizacji zadań przez Bank Gospodarstwa Krajowego i terminy ich składania;
+
+### 4)
+
+tryb dokonywania kontroli zadań realizowanych przez Bank Gospodarstwa Krajowego;
+
+### 5)
+
+wynagrodzenie Banku Gospodarstwa Krajowego z tytułu realizowanych zadań;
+
+### 6)
+
+zakres odpowiedzialności Banku Gospodarstwa Krajowego, w tym w szczególności za nieterminową realizację zadań.
+
+### Dział IV Środki europejskie i inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi
+
+### Art. 202.
+
+### 1.
+
+Środki pochodzące z budżetu Unii Europejskiej oraz niepodlegające zwrotowi środki z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu są gromadzone na wyodrębnionych rachunkach bankowych.
+
+### 2.
+
+Obsługę bankową rachunków, o których mowa w ust. 1, prowadzi Narodowy Bank Polski lub Bank Gospodarstwa Krajowego na podstawie umów rachunku bankowego.
+
+### 3.
+
+W ramach obsługi, o której mowa w ust. 2, Narodowy Bank Polski lub Bank Gospodarstwa Krajowego dokonują wypłat na podstawie dyspozycji Ministra Finansów lub jego pełnomocników, a w zakresie środków, o których mowa w art. 5 ust. 3 pkt 5 lit. a i b, na podstawie dyspozycji ministra właściwego do spraw rozwoju regionalnego.
+
+### Art. 203.
+
+Środki, o których mowa w art. 5 ust. 1 pkt 3 i ust. 3 pkt 6, stanowią dochody jednostek samorządu terytorialnego, przychody innych jednostek sektora finansów publicznych lub jednostek spoza tego sektora, jeżeli jednostki otrzymały te środki bezpośrednio od dawcy środków, chyba że możliwość otrzymania tych środków wynika z umowy międzynarodowej lub porozumienia między organem administracji rządowej a dawcą środków.
+
+### Art. 204.
+
+Środki, o których mowa w art. 5 ust. 1 pkt 2 i 3, są przeznaczone wyłącznie na cele określone w umowie międzynarodowej, przepisach odrębnych lub deklaracji dawcy.
+
+### Art. 205.
+
+Minister Finansów przekazuje do centralnej bazy danych Komisji Europejskiej, o której mowa w art. 95 ust. 1 rozporządzenia Rady (WE, EURATOM) nr 1605/2002 z dnia 25 czerwca 2002 r. w sprawie rozporządzenia finansowego mającego zastosowanie do budżetu ogólnego Wspólnot Europejskich ([Dz. Urz. UE L 248 z 16.09.2002, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 74](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), informacje dotyczące podmiotów wymienionych w art. 93 ust. 1 lit. e tego rozporządzenia.
+
+### Art. 206.
+
+### 1.
+
+Szczegółowe warunki dofinansowania projektu określa umowa o dofinansowanie projektu, o której mowa w art. 5 pkt 9 ustawy o zasadach prowadzenia polityki rozwoju albo w art. 9 pkt 4 lit. b ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego.
+
+### 2.
+
+Umowa, o której mowa w ust. 1, powinna określać w szczególności:
+
+### 1)
+
+opis projektu lub zadania, w tym cel, na jaki przyznano środki, i termin jego realizacji;
+
+### 2)
+
+harmonogram dokonywania wydatków, obejmujący okres co najmniej jednego kwartału;
+
+### 3)
+
+wysokość przyznanych środków;
+
+### 4)
+
+zobowiązanie do poddania się kontroli i tryb kontroli realizacji projektu lub zadania;
+
+### 5)
+
+termin i sposób rozliczenia projektu oraz ewentualnych zaliczek;
+
+### 6)
+
+formy zabezpieczeń należytego wykonania zobowiązań wynikających z umowy;
+
+### 7)
+
+warunki rozwiązania umowy ze względu na nieprawidłowości występujące w trakcie realizacji projektu;
+
+### 8)
+
+warunki i terminy zwrotu środków nieprawidłowo wykorzystanych lub pobranych w nadmiernej wysokości lub w sposób nienależny.
+
+### 3.
+
+Aktualizacja harmonogramu, o którym mowa w ust. 2 pkt 2, nie wymaga zmiany umowy, o której mowa w ust. 1.
+
+### 4.
+
+Przepis ust. 2 pkt 6 nie ma zastosowania do beneficjenta programu finansowanego z udziałem środków europejskich, będącego jednostką sektora finansów publicznych albo fundacją, której jedynym fundatorem jest Skarb Państwa, a także do Banku Gospodarstwa Krajowego.
+
+### 5.
+
+W przypadku gdy beneficjentem jest państwowa jednostka budżetowa, warunki, o których mowa ust. 1, określone zostają w porozumieniu. Przepis ust. 2 stosuje się odpowiednio, z wyjątkiem pkt 6 i 8.
+
+### Art. 207.
+
+### 1.
+
+W przypadku gdy środki przeznaczone na realizację programów finansowanych z udziałem środków europejskich są:
+
+### 1)
+
+wykorzystane niezgodnie z przeznaczeniem,
+
+### 2)
+
+wykorzystane z naruszeniem procedur, o których mowa w art. 184,
+
+### 3)
+
+pobrane nienależnie lub w nadmiernej wysokości
+
+- podlegają zwrotowi przez beneficjenta wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, liczonymi od dnia przekazania środków, w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 9, na wskazany w tej decyzji rachunek bankowy, z zastrzeżeniem ust. 8 i 10.
+
+### 2.
+
+Zwrot środków może zostać dokonany przez pomniejszenie kolejnej płatności na rzecz beneficjenta o kwotę podlegającą zwrotowi. Instytucja, o której mowa w art. 188 ust. 1, uwzględnia tę kwotę w zleceniu płatności kierowanym do Banku Gospodarstwa Krajowego. W takim przypadku przepisu ust. 4 pkt 3 nie stosuje się.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do odsetek, o których mowa w ust. 1 oraz w art. 189 ust. 3.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 1, beneficjent zostaje wykluczony z możliwości otrzymania środków, o których mowa w ust. 1, jeżeli:
+
+### 1)
+
+otrzymał płatność na podstawie przedstawionych jako autentyczne dokumentów podrobionych lub przerobionych lub dokumentów potwierdzających nieprawdę lub
+
+### 2)
+
+na skutek okoliczności leżących po stronie beneficjenta nie zrealizował pełnego zakresu rzeczowego projektu w przypadku projektów infrastrukturalnych lub nie zrealizował celu projektu, lub
+
+### 3)
+
+nie zwrócił środków w terminie, o którym mowa w ust. 1, lub
+
+### 4)
+
+okoliczności, o których mowa w ust. 1, wystąpiły wskutek popełnienia przestępstwa przez beneficjenta, partnera, podmiot upoważniony do dokonywania wydatków, a w przypadku gdy podmioty te nie są osobami fizycznymi - osobę uprawnioną do wykonywania w ramach projektu czynności w imieniu beneficjenta, przy czym fakt popełnienia przestępstwa przez wyżej wymienione podmioty został potwierdzony prawomocnym wyrokiem sądowym.
+
+### 5.
+
+Okres wykluczenia, o którym mowa w ust. 4, rozpoczyna się od dnia, kiedy decyzja, o której mowa w ust. 9, stała się ostateczna, zaś kończy się z upływem trzech lat od dnia dokonania zwrotu tych środków. Jeżeli okoliczności, o których mowa w ust. 4 pkt 1 i 4, zostały stwierdzone po dniu, w którym decyzja, o której mowa w ust. 9, stała się ostateczna, okres wykluczenia rozpoczyna się od dnia stwierdzenia tych okoliczności, z zastrzeżeniem ust. 6.
+
+### 6.
+
+Jeżeli zwrot środków przez beneficjenta, o którym mowa w ust. 4 pkt 1, 2 i 4, został dokonany w trybie określonym w ust. 8 lub przed wydaniem decyzji, o której mowa w ust. 9, okres wykluczenia określony w ust. 4 rozpoczyna się od dnia stwierdzenia okoliczności, o których mowa w ust. 4 pkt 1, 2 i 4, a kończy się z upływem trzech lat liczonych od dnia dokonania zwrotu środków przez beneficjenta.
+
+### 7.
+
+Przepisu ust. 4 nie stosuje się do podmiotów, które na podstawie odrębnych przepisów realizują zadania interesu publicznego, jeżeli spowoduje to niemożność wdrożenia działania w ramach programu lub znacznej jego części, oraz do jednostek samorządu terytorialnego.
+
+### 8.
+
+W przypadku stwierdzenia okoliczności, o których mowa w ust. 1, instytucja, która podpisała umowę z beneficjentem, wzywa go do:
+
+### 1)
+
+zwrotu środków lub
+
+### 2)
+
+do wyrażenia zgody na pomniejszenie kolejnych płatności, o którym mowa w ust. 2, w terminie 14 dni od dnia doręczenia wezwania.
+
+### 9.
+
+Po bezskutecznym upływie terminu, o którym mowa w ust. 8, organ pełniący funkcję instytucji zarządzającej lub instytucji pośredniczącej w rozumieniu ustawy o zasadach prowadzenia polityki rozwoju albo ustawy z dnia 3 kwietnia 2009 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Rybackiego wydaje decyzję określającą kwotę przypadającą do zwrotu i termin, od którego nalicza się odsetki, oraz sposób zwrotu środków, z uwzględnieniem ust. 2.
+
+### 10.
+
+Decyzji, o której mowa w ust. 9, nie wydaje się, jeżeli dokonano zwrotu środków przed jej wydaniem.
+
+### 11.
+
+Instytucja zarządzająca lub instytucja pośrednicząca może, na podstawie porozumienia lub umowy, o których mowa w art. 27 i art. 32 ustawy o zasadach prowadzenia polityki rozwoju, upoważnić instytucję wdrażającą, będącą jednostką sektora finansów publicznych, do wydawania decyzji, o której mowa w ust. 9.
+
+### 12.
+
+Od decyzji, o której mowa w ust. 9, wydanej przez instytucję pośredniczącą lub instytucję wdrażającą, o której mowa w ust. 11, beneficjent może złożyć odwołanie do właściwej instytucji zarządzającej; w przypadku wydania decyzji w pierwszej instancji przez instytucję zarządzającą beneficjent może zwrócić się do tej instytucji z wnioskiem o ponowne rozpatrzenie sprawy.
+
+### 13.
+
+Przepisów ust. 1-9 nie stosuje się do państwowych jednostek budżetowych.
+
+### Art. 208.
+
+### 1.
+
+Przepisy art. 187-191, art. 193 oraz art. 205-207 nie dotyczą Wspólnej Polityki Rolnej, która jest finansowana zgodnie z odrębnymi ustawami.
+
+### 2.
+
+Środki europejskie w części dotyczącej Wspólnej Polityki Rolnej są przekazywane agencjom płatniczym przez Bank Gospodarstwa Krajowego w oparciu o umowę zawartą z Ministrem Finansów.
+
+### 3.
+
+Obsługę bankową rachunków agencji płatniczych w zakresie środków, o których mowa w ust. 2, prowadzi Narodowy Bank Polski na podstawie umów rachunku bankowego.
+
+### Art. 209.
+
+### 1.
+
+Należności i wierzytelności przypadające agencjom płatniczym w ramach Wspólnej Polityki Rolnej mogą być, w szczególnie uzasadnionych przypadkach, umarzane w całości lub w części, a ich spłata odraczana lub rozkładana na raty.
+
+### 2.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb umarzania w całości lub w części, odraczania lub rozkładania na raty spłaty należności, o których mowa w ust. 1, a także wskaże organy do tego uprawnione, z uwzględnieniem:
+
+### 1)
+
+przesłanek uzasadniających umorzenie w całości lub w części, odroczenie lub rozłożenie na raty spłaty tych należności;
+
+### 2)
+
+rodzaju i zakresu udzielonych ulg w spłaceniu należności;
+
+### 3)
+
+właściwości organów uprawnionych do umarzania należności w całości lub w części, odraczania lub rozkładania ich spłaty na raty w zależności od wysokości kwoty udzielonej ulgi.
+
+### Art. 210.
+
+### 1.
+
+Minister Finansów prowadzi rejestr podmiotów wykluczonych na podstawie art. 207 oraz udostępnia te informacje instytucjom zarządzającym, instytucjom pośredniczącym, instytucjom wdrażającym i instytucji certyfikującej.
+
+### 2.
+
+Minister Finansów określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób i tryb wpisywania podmiotów wykluczonych do rejestru, o którym mowa w ust. 1,
+
+### 2)
+
+wzór formularza zgłoszenia podmiotu podlegającego wpisowi do rejestru,
+
+### 3)
+
+zakres przedmiotowy informacji, które będą zawarte w rejestrze,
+
+### 4)
+
+sposób i tryb uzyskiwania informacji z rejestru,
+
+### 5)
+
+tryb przekazywania informacji zawartych w rejestrze,
+
+### 6)
+
+sposób i tryb dokonywania zmian w rejestrze
+
+- zapewniając ochronę informacji zawartych w rejestrze przed ich ujawnieniem osobom i podmiotom nieuprawnionym.
+
+### Dział V Budżet, wieloletnia prognoza finansowa i uchwała budżetowa jednostki samorządu terytorialnego
+
+### Rozdział 1 Zakres budżetu jednostki samorządu terytorialnego
+
+### Art. 211.
+
+### 1.
+
+Budżet jednostki samorządu terytorialnego jest rocznym planem dochodów i wydatków oraz przychodów i rozchodów tej jednostki.
+
+### 2.
+
+Budżet jednostki samorządu terytorialnego jest uchwalany na rok budżetowy.
+
+### 3.
+
+Rokiem budżetowym jest rok kalendarzowy.
+
+### 4.
+
+Podstawą gospodarki finansowej jednostki samorządu terytorialnego w danym roku budżetowym jest uchwała budżetowa.
+
+### 5.
+
+Uchwała budżetowa składa się z:
+
+### 1)
+
+budżetu jednostki samorządu terytorialnego;
+
+### 2)
+
+załączników.
+
+### Art. 212.
+
+### 1.
+
+Uchwała budżetowa określa:
+
+### 1)
+
+łączną kwotę planowanych dochodów budżetu jednostki samorządu terytorialnego, z wyodrębnieniem dochodów bieżących i majątkowych;
+
+### 2)
+
+łączną kwotę planowanych wydatków budżetu jednostki samorządu terytorialnego, z wyodrębnieniem wydatków bieżących i majątkowych;
+
+### 3)
+
+kwotę planowanego deficytu albo planowanej nadwyżki budżetu jednostki samorządu terytorialnego wraz ze źródłami pokrycia deficytu albo przeznaczenia nadwyżki budżetu jednostki samorządu terytorialnego;
+
+### 4)
+
+łączną kwotę planowanych przychodów budżetu jednostki samorządu terytorialnego;
+
+### 5)
+
+łączną kwotę planowanych rozchodów budżetu jednostki samorządu terytorialnego;
+
+### 6)
+
+limit zobowiązań z tytułu zaciąganych kredytów i pożyczek oraz emitowanych papierów wartościowych, o których mowa w art. 89 ust. 1 i art. 90;
+
+### 7)
+
+kwotę wydatków przypadających do spłaty w danym roku budżetowym, zgodnie z zawartą umową, z tytułu poręczeń i gwarancji udzielonych przez jednostkę samorządu terytorialnego;
+
+### 8)
+
+szczególne zasady wykonywania budżetu jednostki samorządu terytorialnego w roku budżetowym, wynikające z odrębnych ustaw;
+
+### 9)
+
+uprawnienia jednostki pomocniczej do prowadzenia gospodarki finansowej w ramach budżetu gminy;
+
+### 10)
+
+inne postanowienia, których obowiązek zamieszczenia w uchwale budżetowej wynika z postanowień organu stanowiącego jednostki samorządu terytorialnego.
+
+### 2.
+
+W uchwale budżetowej organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd do:
+
+### 1)
+
+zaciągania kredytów i pożyczek oraz emitowania papierów wartościowych, o których mowa w art. 89 ust. 1 i art. 90;
+
+### 2)
+
+dokonywania zmian w budżecie, w zakresie określonym w art. 258.
+
+### Art. 213.
+
+W uchwale budżetowej nie zamieszcza się przepisów niezwiązanych z wykonywaniem budżetu jednostki samorządu terytorialnego.
+
+### Art. 214.
+
+W załącznikach do uchwały budżetowej zamieszcza się:
+
+### 1)
+
+zestawienie planowanych kwot dotacji udzielanych z budżetu jednostki samorządu terytorialnego;
+
+### 2)
+
+plan dochodów rachunku dochodów jednostek, o których mowa w art. 223 ust. 1, oraz wydatków nimi finansowanych;
+
+### 3)
+
+plany przychodów i kosztów samorządowych zakładów budżetowych.
+
+### Art. 215.
+
+### 1.
+
+Zestawienie, o którym mowa w art. 214 pkt 1, sporządza się w podziale na dotacje dla jednostek sektora finansów publicznych i dotacje dla jednostek spoza sektora finansów publicznych.
+
+### 2.
+
+W zestawieniu, o którym mowa w art. 214 pkt 1, wyodrębnia się dotacje przedmiotowe, podmiotowe i celowe związane z realizacją zadań jednostki samorządu terytorialnego.
+
+### Art. 216.
+
+### 1.
+
+Źródła dochodów jednostek samorządu terytorialnego określa odrębna ustawa.
+
+### 2.
+
+Wydatki budżetu jednostki samorządu terytorialnego są przeznaczone na realizację zadań określonych w odrębnych przepisach, a w szczególności na:
+
+### 1)
+
+zadania własne jednostek samorządu terytorialnego;
+
+### 2)
+
+zadania z zakresu administracji rządowej i inne zadania zlecone ustawami jednostkom samorządu terytorialnego;
+
+### 3)
+
+zadania przejęte przez jednostki samorządu terytorialnego do realizacji w drodze umowy lub porozumienia;
+
+### 4)
+
+zadania realizowane wspólnie z innymi jednostkami samorządu terytorialnego;
+
+### 5)
+
+pomoc rzeczową lub finansową dla innych jednostek samorządu terytorialnego, określoną odrębną uchwałą przez organ stanowiący jednostki samorządu terytorialnego;
+
+### 6)
+
+programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+
+### Art. 217.
+
+### 1.
+
+Różnica między dochodami a wydatkami budżetu jednostki samorządu terytorialnego stanowi odpowiednio nadwyżkę budżetu jednostki samorządu terytorialnego albo deficyt budżetu jednostki samorządu terytorialnego.
+
+### 2.
+
+Deficyt budżetu jednostki samorządu terytorialnego może być sfinansowany przychodami pochodzącymi z:
+
+### 1)
+
+sprzedaży papierów wartościowych wyemitowanych przez jednostkę samorządu terytorialnego;
+
+### 2)
+
+kredytów;
+
+### 3)
+
+pożyczek;
+
+### 4)
+
+prywatyzacji majątku jednostki samorządu terytorialnego;
+
+### 5)
+
+nadwyżki budżetu jednostki samorządu terytorialnego z lat ubiegłych;
+
+### 6)
+
+wolnych środków jako nadwyżki środków pieniężnych na rachunku bieżącym budżetu jednostki samorządu terytorialnego, wynikających z rozliczeń wyemitowanych papierów wartościowych, kredytów i pożyczek z lat ubiegłych.
+
+### Art. 218.
+
+Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje podmiotowe, o ile odrębne ustawy tak stanowią.
+
+### Art. 219.
+
+### 1.
+
+Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje przedmiotowe dla samorządowych zakładów budżetowych, kalkulowane według stawek jednostkowych.
+
+### 2.
+
+Z budżetu jednostki samorządu terytorialnego mogą być udzielane dotacje przedmiotowe również innym podmiotom niż wymienione w ust. 1, o ile odrębne przepisy tak stanowią.
+
+### 3.
+
+Kwoty i zakres dotacji, o których mowa w ust. 1 i 2, określa uchwała budżetowa.
+
+### 4.
+
+Stawki dotacji przedmiotowych ustala organ stanowiący jednostki samorządu terytorialnego.
+
+### Art. 220.
+
+### 1.
+
+Z budżetu jednostki samorządu terytorialnego może być udzielona innym jednostkom samorządu terytorialnego pomoc finansowa w formie dotacji celowej lub pomoc rzeczowa.
+
+### 2.
+
+Podstawą udzielenia pomocy, o której mowa w ust. 1, jest umowa.
+
+### 3.
+
+Spory w zakresie zwrotu dotacji rozstrzygają sądy powszechne.
+
+### Art. 221.
+
+### 1.
+
+Podmioty niezaliczane do sektora finansów publicznych i niedziałające w celu osiągnięcia zysku mogą otrzymywać z budżetu jednostki samorządu terytorialnego dotacje celowe na cele publiczne związane z realizacją zadań tej jednostki.
+
+### 2.
+
+Zlecenie zadania i udzielenie dotacji następuje zgodnie z przepisami ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, a jeżeli dotyczy ono innych zadań niż określone w tej ustawie - na podstawie umowy jednostki samorządu terytorialnego z podmiotem, o którym mowa w ust. 1.
+
+### 3.
+
+Umowa, o której mowa w ust. 2, powinna określać:
+
+### 1)
+
+szczegółowy opis zadania, w tym cel, na jaki dotacja została przyznana, i termin jego wykonania;
+
+### 2)
+
+wysokość dotacji udzielanej podmiotowi wykonującemu zadanie i tryb płatności;
+
+### 3)
+
+termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+
+### 4)
+
+tryb kontroli wykonywania zadania;
+
+### 5)
+
+termin i sposób rozliczenia udzielonej dotacji;
+
+### 6)
+
+termin zwrotu niewykorzystanej części dotacji, nie dłuższy niż terminy zwrotu dotacji określone w niniejszym dziale.
+
+### 4.
+
+Tryb postępowania o udzielenie dotacji na inne zadania niż określone w ustawie, o której mowa w ust. 2, sposób jej rozliczania oraz sposób kontroli wykonywania zleconego zadania określa, w drodze uchwały, organ stanowiący jednostki samorządu terytorialnego, mając na uwadze zapewnienie jawności postępowania o udzielenie dotacji i jej rozliczenia.
+
+### Art. 222.
+
+### 1.
+
+W budżecie jednostki samorządu terytorialnego tworzy się rezerwę ogólną, w wysokości nie niższej niż 0,1% i nie wyższej niż 1% wydatków budżetu.
+
+### 2.
+
+W budżecie jednostki samorządu terytorialnego mogą być tworzone rezerwy celowe:
+
+### 1)
+
+na wydatki, których szczegółowy podział na pozycje klasyfikacji budżetowej nie może być dokonany w okresie opracowywania budżetu jednostki samorządu terytorialnego;
+
+### 2)
+
+na wydatki związane z realizacją programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2;
+
+### 3)
+
+gdy odrębne ustawy tak stanowią.
+
+### 3.
+
+Suma rezerw celowych, o których mowa w ust. 2 pkt 1 i 3, nie może przekroczyć 5% wydatków budżetu jednostki samorządu terytorialnego.
+
+### 4.
+
+Zarząd jednostki samorządu terytorialnego dokonuje podziału rezerw, o których mowa w ust. 1 i 2.
+
+### Art. 223.
+
+### 1.
+
+Samorządowe jednostki budżetowe prowadzące działalność określoną w ustawie z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2004 r. Nr 256, poz. 2572](https://api.sejm.gov.pl/eli/acts/DU/2004/2572/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618 oraz z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 56, poz. 458.](#gloss-0:8:)) gromadzą na wydzielonym rachunku dochody określone w uchwale przez organ stanowiący jednostki samorządu terytorialnego, pochodzące w szczególności:
+
+### 1)
+
+ze spadków, zapisów i darowizn w postaci pieniężnej na rzecz jednostki budżetowej;
+
+### 2)
+
+z odszkodowań i wpłat za utracone lub uszkodzone mienie będące w zarządzie albo użytkowaniu jednostki budżetowej.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego określi w szczególności:
+
+### 1)
+
+jednostki budżetowe, które gromadzą dochody;
+
+### 2)
+
+źródła, z których dochody są gromadzone na rachunku;
+
+### 3)
+
+przeznaczenie dochodów, z tym że dochody wraz z odsetkami nie mogą być przeznaczone na finansowanie wynagrodzeń osobowych;
+
+### 4)
+
+sposób i tryb sporządzania planu finansowego dochodów i wydatków nimi finansowanych, dokonywania zmian w tym planie oraz ich zatwierdzania.
+
+### 3.
+
+Wydatki z rachunku, o którym mowa w ust. 1, mogą być dokonywane do wysokości kwot zgromadzonych dochodów, w ramach planu finansowego.
+
+### 4.
+
+Środki finansowe pozostające na rachunku, o którym mowa w ust. 1, na dzień 31 grudnia roku budżetowego, podlegają odprowadzeniu na rachunek budżetu jednostki samorządu terytorialnego w terminie do dnia 5 stycznia następnego roku.
+
+### Art. 224.
+
+### 1.
+
+Jednostce samorządu terytorialnego może być udzielona pożyczka z budżetu państwa, jeżeli:
+
+### 1)
+
+jednostka samorządu terytorialnego realizuje postępowanie naprawcze lub przystępuje do jego realizacji oraz
+
+### 2)
+
+z analizy programu postępowania naprawczego wynika, że w stopniu wysoce prawdopodobnym:
+
+### a)
+
+nastąpi poprawa sytuacji finansowej tej jednostki oraz skuteczności w wykonywaniu jej ustawowych zadań,
+
+### b)
+
+zachowane zostaną zasady określone w art. 242-244, na koniec roku, w którym upływa termin spłaty pożyczki,
+
+### c)
+
+zapewniona zostanie spłata pożyczki wraz z odsetkami.
+
+### 2.
+
+Pożyczka i odsetki nie podlegają umorzeniu.
+
+### 3.
+
+Wniosek o udzielenie pożyczki jednostka samorządu terytorialnego składa do Ministra Finansów, a w przypadku zlecenia przez Ministra Finansów Bankowi Gospodarstwa Krajowego czynności, o których mowa w art. 225 ust. 1, do Banku Gospodarstwa Krajowego. Do wniosku o udzielenie pożyczki jednostka samorządu terytorialnego załącza program postępowania naprawczego, dokumenty zawierające dane umożliwiające dokonanie bieżącej i prognozowanej oceny sytuacji finansowej tej jednostki oraz propozycje zabezpieczeń spłaty pożyczki.
+
+### 4.
+
+W przypadku niedokonania spłaty pożyczki w terminie określonym w umowie pożyczki Minister Finansów może potrącić niespłaconą kwotę pożyczki wraz z odsetkami z należnej subwencji ogólnej ustalonej dla tej jednostki samorządu terytorialnego.
+
+### 5.
+
+Przepisy ust. 1-4 stosuje się odpowiednio do pożyczki udzielanej jednostce samorządu terytorialnego realizującej program postępowania ostrożnościowego lub przystępującej do jego realizacji, jeżeli zagrożenie wykonania zadań publicznych powstało z przyczyn niezależnych od tej jednostki.
+
+### 6.
+
+Minister Finansów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy zakres danych zawartych we wniosku o udzielenie pożyczki,
+
+### 2)
+
+wykaz dokumentów dołączonych do wniosku,
+
+### 3)
+
+rodzaje i zakres przyjmowanych zabezpieczeń
+
+- biorąc pod uwagę rodzaj prowadzonego przez jednostkę samorządu terytorialnego postępowania, zakres informacji niezbędnych do dokonania oceny, o której mowa w ust. 3, oraz zapewnienie sprawności rozpatrywania wniosków.
+
+### Art. 225.
+
+### 1.
+
+Minister Finansów może, w drodze umowy, zlecić Bankowi Gospodarstwa Krajowego dokonywanie czynności związanych z udzielaniem jednostce samorządu terytorialnego pożyczki oraz jej rozliczaniem i egzekucją, polegających w szczególności na:
+
+### 1)
+
+przyjmowaniu od jednostki samorządu terytorialnego wniosku o udzielenie pożyczki oraz weryfikacji czy wniosek spełnia wymogi określone w przepisach wydanych na podstawie art. 224 ust. 6;
+
+### 2)
+
+dokonywaniu ocen i analiz programu postępowania ostrożnościowego lub naprawczego;
+
+### 3)
+
+przygotowaniu i zawieraniu, w imieniu Ministra Finansów, umowy pożyczki z jednostką samorządu terytorialnego;
+
+### 4)
+
+kontroli spłaty pożyczki i ocenie sytuacji finansowej jednostki samorządu terytorialnego w okresie spłaty;
+
+### 5)
+
+podejmowaniu czynności zmierzających do odzyskania kwot niespłaconej pożyczki lub odsetek od tej pożyczki i należnych opłat, w tym czynności sądowych i egzekucyjnych.
+
+### 2.
+
+Umowa określa wysokość wynagrodzenia za czynności dokonywane przez Bank Gospodarstwa Krajowego oraz zakres czynności zleconych Bankowi.
+
+### 3.
+
+W przypadku zlecenia Bankowi Gospodarstwa Krajowego dokonywania czynności związanych z udzielaniem jednostkom samorządu terytorialnego pożyczek oraz ich rozliczaniem i egzekucją Minister Finansów może otworzyć w Banku Gospodarstwa Krajowego rachunek bankowy do obsługi pożyczek, na który będą przekazywane środki przewidziane na ten cel w ustawie budżetowej.
+
+### 4.
+
+Rachunek bankowy, o którym mowa w ust. 3, jest oprocentowany. Oprocentowanie rachunku ustalone zostanie w umowie, o której mowa w ust. 1.
+
+### 5.
+
+Przy podejmowaniu czynności, o których mowa w ust. 1 pkt 5, Bank Gospodarstwa Krajowego ma prawo wystawić bankowy tytuł egzekucyjny, stosownie do art. 96-98 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045, Nr 131, poz. 1075 i Nr 144, poz. 1176.](#gloss-0:9:)).
+
+### Rozdział 2 Wieloletnia prognoza finansowa jednostki samorządu terytorialnego
+
+### Art. 226.
+
+### 1.
+
+Wieloletnia prognoza finansowa powinna być realistyczna i określać dla każdego roku objętego prognozą co najmniej:
+
+### 1)
+
+dochody bieżące oraz wydatki bieżące budżetu jednostki samorządu terytorialnego, w tym na obsługę długu, gwarancje i poręczenia;
+
+### 2)
+
+dochody majątkowe, w tym dochody ze sprzedaży majątku, oraz wydatki majątkowe budżetu jednostki samorządu terytorialnego;
+
+### 3)
+
+wynik budżetu jednostki samorządu terytorialnego;
+
+### 4)
+
+przeznaczenie nadwyżki albo sposób sfinansowania deficytu;
+
+### 5)
+
+przychody i rozchody budżetu jednostki samorządu terytorialnego, z uwzględnieniem długu zaciągniętego oraz planowanego do zaciągnięcia;
+
+### 6)
+
+kwotę długu jednostki samorządu terytorialnego, w tym relację, o której mowa w art. 243, oraz sposób sfinansowania spłaty długu;
+
+### 7)
+
+objaśnienia przyjętych wartości.
+
+### 2.
+
+W wydatkach, o których mowa w ust. 1, wyszczególnia się także:
+
+### 1)
+
+kwotę wydatków bieżących i majątkowych wynikających z limitów wydatków na planowane i realizowane przedsięwzięcia, o których mowa w ust. 3;
+
+### 2)
+
+kwotę wydatków na wynagrodzenia i składki od nich naliczane oraz wydatki związane z funkcjonowaniem organów jednostki samorządu terytorialnego.
+
+### 3.
+
+W załączniku do uchwały w sprawie wieloletniej prognozy finansowej określa się odrębnie dla każdego przedsięwzięcia:
+
+### 1)
+
+nazwę i cel;
+
+### 2)
+
+jednostkę organizacyjną odpowiedzialną za realizację lub koordynującą wykonywanie przedsięwzięcia;
+
+### 3)
+
+okres realizacji i łączne nakłady finansowe;
+
+### 4)
+
+limity wydatków w poszczególnych latach;
+
+### 5)
+
+limit zobowiązań.
+
+### 4.
+
+Przez przedsięwzięcia, o których mowa w ust. 3, należy rozumieć wieloletnie:
+
+### 1)
+
+programy, projekty lub zadania, w tym związane z:
+
+### a)
+
+programami finansowanymi z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3,
+
+### b)
+
+umowami o partnerstwie publiczno-prywatnym;
+
+### 2)
+
+umowy, których realizacja w roku budżetowym i w latach następnych jest niezbędna do zapewnienia ciągłości działania jednostki i z których wynikające płatności wykraczają poza rok budżetowy;
+
+### 3)
+
+gwarancje i poręczenia udzielane przez jednostki samorządu terytorialnego.
+
+### Art. 227.
+
+### 1.
+
+Wieloletnia prognoza finansowa obejmuje okres roku budżetowego oraz co najmniej trzech kolejnych lat. Okres objęty wieloletnią prognozą finansową nie może być jednak krótszy niż okres, na jaki przyjęto limity wydatków, o których mowa w art. 226 ust. 3 pkt 4.
+
+### 2.
+
+Prognozę kwoty długu, stanowiącą część wieloletniej prognozy finansowej, sporządza się na okres, na który zaciągnięto oraz planuje się zaciągnąć zobowiązania.
+
+### Art. 228.
+
+### 1.
+
+Uchwała w sprawie wieloletniej prognozy finansowej może zawierać upoważnienie dla zarządu jednostki samorządu terytorialnego do zaciągania zobowiązań:
+
+### 1)
+
+związanych z realizacją zamieszczonych w niej przedsięwzięć;
+
+### 2)
+
+z tytułu umów, których realizacja w roku budżetowym i w latach następnych jest niezbędna do zapewnienia ciągłości działania jednostki i z których wynikające płatności wykraczają poza rok budżetowy.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd do przekazania uprawnień kierownikom jednostek organizacyjnych jednostki samorządu terytorialnego do zaciągania zobowiązań, o których mowa w ust. 1.
+
+### Art. 229.
+
+Wartości przyjęte w wieloletniej prognozie finansowej i budżecie jednostki samorządu terytorialnego powinny być zgodne co najmniej w zakresie wyniku budżetu i związanych z nim kwot przychodów i rozchodów oraz długu jednostki samorządu terytorialnego.
+
+### Art. 230.
+
+### 1.
+
+Inicjatywa w sprawie sporządzenia projektu uchwały w sprawie wieloletniej prognozy finansowej i jej zmiany należy wyłącznie do zarządu jednostki samorządu terytorialnego.
+
+### 2.
+
+Projekt uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany zarząd jednostki samorządu terytorialnego przedstawia wraz z projektem uchwały budżetowej:
+
+### 1)
+
+regionalnej izbie obrachunkowej - celem zaopiniowania;
+
+### 2)
+
+organowi stanowiącemu jednostki samorządu terytorialnego.
+
+### 3.
+
+Opinię do projektu uchwały w sprawie wieloletniej prognozy finansowej lub jej zmiany, przedstawionego wraz z projektem uchwały budżetowej, regionalna izba obrachunkowa wydaje ze szczególnym uwzględnieniem zapewnienia przestrzegania przepisów ustawy dotyczących uchwalania i wykonywania budżetów w następnych latach, na które zaciągnięto i planuje się zaciągnąć zobowiązania. Przepis art. 246 ust. 2 stosuje się odpowiednio.
+
+### 4.
+
+Regionalna izba obrachunkowa na podstawie przyjętej przez jednostkę samorządu terytorialnego wieloletniej prognozy finansowej oraz uchwały budżetowej przedstawia opinię w sprawie prawidłowości planowanej kwoty długu jednostki samorządu terytorialnego wynikającej z planowanych i zaciągniętych zobowiązań, o której mowa w art. 226 ust. 1 pkt 6. Przepis art. 246 ust. 2 stosuje się odpowiednio.
+
+### 5.
+
+W przypadku negatywnej opinii regionalnej izby obrachunkowej w zakresie, o którym mowa w ust. 4, jednostka samorządu terytorialnego dokonuje takich zmian uchwał, aby została zachowana relacja określona w art. 243.
+
+### 6.
+
+Uchwałę, o której mowa w ust. 2, organ stanowiący jednostki samorządu terytorialnego podejmuje nie później niż uchwałę budżetową.
+
+### 7.
+
+Organ stanowiący jednostki samorządu terytorialnego nie może uchylić obowiązującej uchwały w sprawie wieloletniej prognozy finansowej, jednocześnie nie podejmując nowej uchwały w tej sprawie.
+
+### Art. 231.
+
+### 1.
+
+Zmiana kwot wydatków na realizację przedsięwzięć może nastąpić w wyniku podjęcia uchwały organu stanowiącego jednostki samorządu terytorialnego, zmieniającej zakres wykonywania lub wstrzymującej wykonywanie przedsięwzięcia.
+
+### 2.
+
+Uchwały budżetowe określają wydatki na realizowane przedsięwzięcia w wysokości umożliwiającej ich terminowe zakończenie.
+
+### 3.
+
+Jeżeli organ stanowiący jednostki samorządu terytorialnego nie postanowi o zaniechaniu realizacji, okresowym wstrzymaniu realizacji lub ograniczeniu rzeczowego zakresu przedsięwzięcia, a wydatki zaplanowane w projekcie budżetu przez zarząd jednostki samorządu terytorialnego nie różnią się od wydatków przewidzianych na realizację przedsięwzięcia, organ stanowiący jednostki samorządu terytorialnego nie może, bez zgody zarządu jednostki samorządu terytorialnego, zmniejszyć wydatków zaplanowanych w uchwale budżetowej na realizację przedsięwzięcia.
+
+### Art. 232.
+
+Zmian w wieloletniej prognozie finansowej, z wyłączeniem zmian limitów zobowiązań i kwot wydatków na przedsięwzięcia, dokonuje zarząd jednostki samorządu terytorialnego.
+
+### Rozdział 3 Uchwała budżetowa
+
+### Art. 233.
+
+Inicjatywa w sprawie sporządzenia projektu uchwały:
+
+### 1)
+
+budżetowej,
+
+### 2)
+
+o prowizorium budżetowym,
+
+### 3)
+
+o zmianie uchwały budżetowej
+
+- przysługuje wyłącznie zarządowi jednostki samorządu terytorialnego.
+
+### Art. 234.
+
+Uchwała organu stanowiącego jednostki samorządu terytorialnego w sprawie trybu prac nad projektem uchwały budżetowej określa w szczególności:
+
+### 1)
+
+wymaganą szczegółowość projektu budżetu jednostki samorządu terytorialnego;
+
+### 2)
+
+terminy obowiązujące w toku prac nad projektem uchwały budżetowej jednostki samorządu terytorialnego;
+
+### 3)
+
+wymogi dotyczące uzasadnienia i materiały informacyjne, które zarząd przedłoży organowi stanowiącemu jednostki samorządu terytorialnego wraz z projektem uchwały budżetowej.
+
+### Art. 235.
+
+### 1.
+
+W planie dochodów budżetu jednostki samorządu terytorialnego wyszczególnia się, w układzie działów klasyfikacji budżetowej, planowane kwoty dochodów bieżących i dochodów majątkowych według ich źródeł, w tym w szczególności z tytułu dotacji i środków na finansowanie wydatków na realizację zadań finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3.
+
+### 2.
+
+Przez dochody bieżące budżetu jednostki samorządu terytorialnego rozumie się dochody budżetowe niebędące dochodami majątkowymi.
+
+### 3.
+
+Do dochodów majątkowych zalicza się:
+
+### 1)
+
+dotacje i środki przeznaczone na inwestycje;
+
+### 2)
+
+dochody ze sprzedaży majątku;
+
+### 3)
+
+dochody z tytułu przekształcenia prawa użytkowania wieczystego w prawo własności.
+
+### 4.
+
+Organ stanowiący jednostki samorządu terytorialnego może ustalić większą szczegółowość planu dochodów budżetu.
+
+### Art. 236.
+
+### 1.
+
+W planie wydatków budżetu jednostki samorządu terytorialnego wyszczególnia się, w układzie działów i rozdziałów klasyfikacji budżetowej, planowane kwoty wydatków bieżących i wydatków majątkowych.
+
+### 2.
+
+Przez wydatki bieżące budżetu jednostki samorządu terytorialnego rozumie się wydatki budżetowe niebędące wydatkami majątkowymi.
+
+### 3.
+
+W planie wydatków bieżących wyodrębnia się w układzie działów i rozdziałów planowane kwoty wydatków bieżących, w szczególności na:
+
+### 1)
+
+wydatki jednostek budżetowych, w tym na:
+
+### a)
+
+wynagrodzenia i składki od nich naliczane,
+
+### b)
+
+wydatki związane z realizacją ich statutowych zadań;
+
+### 2)
+
+dotacje na zadania bieżące;
+
+### 3)
+
+świadczenia na rzecz osób fizycznych;
+
+### 4)
+
+wydatki na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w części związanej z realizacją zadań jednostki samorządu terytorialnego;
+
+### 5)
+
+wypłaty z tytułu poręczeń i gwarancji udzielonych przez jednostkę samorządu terytorialnego, przypadające do spłaty w danym roku budżetowym;
+
+### 6)
+
+obsługę długu jednostki samorządu terytorialnego.
+
+### 4.
+
+W planie wydatków majątkowych wyodrębnia się w układzie działów i rozdziałów planowane kwoty wydatków majątkowych, do których zalicza się wydatki na:
+
+### 1)
+
+inwestycje i zakupy inwestycyjne, w tym na programy finansowane z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, w części związanej z realizacją zadań jednostki samorządu terytorialnego;
+
+### 2)
+
+zakup i objęcie akcji i udziałów;
+
+### 3)
+
+wniesienie wkładów do spółek prawa handlowego.
+
+### 5.
+
+Organ stanowiący jednostki samorządu terytorialnego może ustalić większą szczegółowość planu wydatków.
+
+### Art. 237.
+
+### 1.
+
+W planie dochodów i wydatków budżetu jednostki samorządu terytorialnego określa się także dochody i wydatki finansowane z tych dochodów, związane ze szczególnymi zasadami wykonywania budżetu jednostki wynikającymi z odrębnych ustaw.
+
+### 2.
+
+W planie dochodów i wydatków budżetu jednostki samorządu terytorialnego wyodrębnia się dochody i wydatki związane z realizacją:
+
+### 1)
+
+zadań z zakresu administracji rządowej i innych zleconych jednostce samorządu terytorialnego odrębnymi ustawami;
+
+### 2)
+
+zadań wykonywanych na mocy porozumień z organami administracji rządowej;
+
+### 3)
+
+zadań realizowanych w drodze umów lub porozumień między jednostkami samorządu terytorialnego.
+
+### Art. 238.
+
+### 1.
+
+Zarząd jednostki samorządu terytorialnego sporządza i przedkłada projekt uchwały budżetowej:
+
+### 1)
+
+organowi stanowiącemu jednostki samorządu terytorialnego,
+
+### 2)
+
+regionalnej izbie obrachunkowej - celem zaopiniowania
+
+- do dnia 15 listopada roku poprzedzającego rok budżetowy.
+
+### 2.
+
+Wraz z projektem uchwały budżetowej zarząd jednostki samorządu terytorialnego przedkłada organowi stanowiącemu jednostki samorządu terytorialnego i regionalnej izbie obrachunkowej:
+
+### 1)
+
+uzasadnienie do projektu uchwały budżetowej;
+
+### 2)
+
+inne materiały określone w uchwale, o której mowa w art. 234.
+
+### 3.
+
+Opinię regionalnej izby obrachunkowej o projekcie uchwały budżetowej zarząd jednostki samorządu terytorialnego jest obowiązany przedstawić, przed uchwaleniem budżetu, organowi stanowiącemu jednostki samorządu terytorialnego.
+
+### Art. 239.
+
+Uchwałę budżetową organ stanowiący jednostki samorządu terytorialnego podejmuje przed rozpoczęciem roku budżetowego, a w szczególnie uzasadnionych przypadkach - nie później niż do dnia 31 stycznia roku budżetowego.
+
+### Art. 240.
+
+### 1.
+
+Do czasu podjęcia uchwały budżetowej, jednak nie później niż do dnia 31 stycznia roku budżetowego, podstawą gospodarki finansowej jest projekt uchwały budżetowej przedstawiony organowi stanowiącemu jednostki samorządu terytorialnego, o którym mowa w art. 238 ust. 1.
+
+### 2.
+
+Bez zgody zarządu jednostki samorządu terytorialnego organ stanowiący jednostki samorządu terytorialnego nie może wprowadzić w projekcie uchwały budżetowej jednostki samorządu terytorialnego zmian powodujących zmniejszenie dochodów lub zwiększenie wydatków i jednocześnie zwiększenie deficytu budżetu jednostki samorządu terytorialnego.
+
+### 3.
+
+W przypadku niepodjęcia uchwały budżetowej w terminie, o którym mowa w ust. 1, regionalna izba obrachunkowa, w terminie do końca lutego roku budżetowego, ustala budżet jednostki samorządu terytorialnego w zakresie zadań własnych oraz zadań zleconych. Do dnia ustalenia budżetu przez regionalną izbę obrachunkową podstawą gospodarki finansowej jest projekt uchwały, o której mowa w ust. 1.
+
+### Art. 241.
+
+W przypadku gdy Rada Ministrów uchwali projekt ustawy o prowizorium budżetowym, organ stanowiący jednostki samorządu terytorialnego, na wniosek zarządu, może podjąć uchwałę o prowizorium budżetowym jednostki samorządu terytorialnego na okres objęty prowizorium budżetowym.
+
+### Art. 242.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego nie może uchwalić budżetu, w którym planowane wydatki bieżące są wyższe niż planowane dochody bieżące powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki, o których mowa w art. 217 ust. 2 pkt 6.
+
+### 2.
+
+Na koniec roku budżetowego wykonane wydatki bieżące nie mogą być wyższe niż wykonane dochody bieżące powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki, z zastrzeżeniem ust. 3.
+
+### 3.
+
+Wykonane wydatki bieżące mogą być wyższe niż wykonane dochody bieżące powiększone o nadwyżkę budżetową z lat ubiegłych i wolne środki jedynie o kwotę związaną z realizacją wydatków bieżących z udziałem środków, o których mowa w art. 5 ust. 3, w przypadku gdy środki te nie zostały przekazane w danym roku budżetowym.
+
+### Art. 243.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego nie może uchwalić budżetu, którego realizacja spowoduje, że w roku budżetowym oraz w każdym roku następującym po roku budżetowym relacja łącznej kwoty przypadających w danym roku budżetowym:
+
+### 1)
+
+spłat rat kredytów i pożyczek, o których mowa w art. 89 ust. 1 pkt 2-4 oraz art. 90, wraz z należnymi w danym roku odsetkami od kredytów i pożyczek, o których mowa w art. 89 ust. 1 i art. 90,
+
+### 2)
+
+wykupów papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 pkt 2-4 oraz art. 90 wraz z należnymi odsetkami i dyskontem od papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 i art. 90,
+
+### 3)
+
+potencjalnych spłat kwot wynikających z udzielonych poręczeń oraz gwarancji do planowanych dochodów ogółem budżetu przekroczy średnią arytmetyczną z obliczonych dla ostatnich trzech lat relacji jej dochodów bieżących powiększonych o dochody ze sprzedaży majątku oraz pomniejszonych o wydatki bieżące, do dochodów ogółem budżetu, obliczoną według wzoru: \( \left( {{{R + O} \over D}} \right)_n \le {1 \over 3}*\left( {{{Db_{n - 1} + Sm_{n - 1} - Wb_{n - 1} } \over {D_{n - 1} }} + {{Db_{n - 2} + Sm_{n - 2} - Wb_{n - 2} } \over {D_{n - 2} }} + {{Db_{n - 3} + Sm_{n - 3} - Wb_{n - 3} } \over {D_{n - 3} }}} \right) \) gdzie poszczególne symbole oznaczają: R - planowaną na rok budżetowy łączną kwotę z tytułu spłaty rat kredytów i pożyczek, o których mowa w art. 89 ust. 1 pkt 2-4 oraz art. 90, oraz wykupów papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 pkt 2-4 oraz art. 90, O - planowane na rok budżetowy odsetki od kredytów i pożyczek, o których mowa w art. 89 ust. 1 i art. 90, odsetki i dyskonto od papierów wartościowych emitowanych na cele określone w art. 89 ust. 1 i art. 90 oraz spłaty kwot wynikających z udzielonych poręczeń i gwarancji, D - dochody ogółem budżetu w danym roku budżetowym, Db - dochody bieżące, Sm - dochody ze sprzedaży majątku, Wb - wydatki bieżące, n - rok budżetowy, na który ustalana jest relacja, n-1 - rok poprzedzający rok budżetowy, na który ustalana jest relacja, n-2 - rok poprzedzający rok budżetowy o dwa lata, n-3 - rok poprzedzający rok budżetowy o trzy lata.
+
+### 2.
+
+Przy obliczaniu relacji, o których mowa w ust. 1, dla roku poprzedzającego rok budżetowy przyjmuje się planowane wartości wykazane w sprawozdaniu za trzy kwartały z wykonania budżetu jednostki samorządu terytorialnego. Do obliczenia relacji dla poprzednich dwóch lat przyjmuje się wartości wykonane wynikające ze sprawozdań rocznych.
+
+### 3.
+
+Ograniczenia określonego w ust. 1 nie stosuje się do:
+
+### 1)
+
+wykupów papierów wartościowych, spłat kredytów i pożyczek zaciągniętych w związku z umową zawartą na realizację programu, projektu lub zadania finansowanego z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2, z wyłączeniem odsetek od tych zobowiązań,
+
+### 2)
+
+poręczeń i gwarancji udzielonych samorządowym osobom prawnym realizującym zadania jednostki samorządu terytorialnego w ramach programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2
+
+- w terminie nie dłuższym niż 90 dni po zakończeniu programu, projektu lub zadania i otrzymaniu refundacji z tych środków.
+
+### 4.
+
+W przypadku gdy określone w umowie środki, o których mowa w art. 5 ust. 1 pkt 2, nie zostaną przekazane lub po ich przekazaniu zostanie orzeczony ich zwrot, jednostka samorządu terytorialnego nie może emitować papierów wartościowych, zaciągać kredytów, pożyczek ani udzielać poręczeń i gwarancji do czasu spełnienia relacji, o której mowa w ust. 1.
+
+### Art. 244.
+
+### 1.
+
+Do łącznej kwoty przypadających w danym roku budżetowym spłat i wykupów, o których mowa w art. 243 ust. 1, dodaje się, przypadające do spłaty w tym samym roku budżetowym, kwoty zobowiązań związku współtworzonego przez daną jednostkę samorządu terytorialnego:
+
+### 1)
+
+w wysokości proporcjonalnej do jej udziału we wspólnej inwestycji współfinansowanej kredytem, pożyczką lub emisją obligacji spłacanych lub wykupywanych w danym roku budżetowym;
+
+### 2)
+
+w pozostałych przypadkach - w wysokości proporcjonalnej do jej udziału we wpłatach wnoszonych na rzecz związku, którego jest członkiem.
+
+### 2.
+
+Łączna kwota spłat i wykupów jednostki samorządu terytorialnego, o której mowa w art. 243, nie obejmuje zobowiązań związku współtworzonego przez tę jednostkę, na które jednostka udzieliła gwarancji i poręczeń.
+
+### Art. 245.
+
+Zarząd związku jednostek samorządu terytorialnego informuje zarządy jednostek samorządu terytorialnego tworzących związek oraz właściwą regionalną izbę obrachunkową o kwotach zobowiązań związku, w terminie 15 dni od dnia ich zaciągnięcia.
+
+### Art. 246.
+
+### 1.
+
+Regionalna izba obrachunkowa na podstawie projektu uchwały budżetowej przedstawia opinię w sprawie możliwości sfinansowania deficytu przedstawionego przez jednostkę samorządu terytorialnego.
+
+### 2.
+
+Opinia, o której mowa w ust. 1, jest publikowana przez jednostkę samorządu terytorialnego w terminie 7 dni od dnia otrzymania od regionalnej izby obrachunkowej, na zasadach określonych w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110.](#gloss-0:10:)).
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do uchwały budżetowej.
+
+### Rozdział 4 Wykonywanie budżetu jednostki samorządu terytorialnego
+
+### Art. 247.
+
+### 1.
+
+Budżet jednostki samorządu terytorialnego wykonuje jej zarząd.
+
+### 2.
+
+Zarząd jednostki samorządu terytorialnego sprawuje ogólny nadzór nad realizacją, określonych uchwałą budżetową, dochodów i wydatków, przychodów i rozchodów budżetu jednostki samorządu terytorialnego.
+
+### 3.
+
+Zarząd jednostki samorządu terytorialnego określi szczegółowe zasady, sposób i tryb przyznawania i korzystania ze służbowych kart płatniczych przy dokonywaniu wydatków z budżetu jednostki samorządu terytorialnego oraz innych samorządowych jednostek organizacyjnych i osób prawnych, a także zasady rozliczania płatności dokonywanych przy ich wykorzystaniu, z uwzględnieniem konieczności zapewnienia prawidłowości i gospodarności dokonywania wydatków.
+
+### Art. 248.
+
+### 1.
+
+W terminie 7 dni od dnia przekazania projektu uchwały budżetowej organowi stanowiącemu jednostki samorządu terytorialnego zarząd jednostki samorządu terytorialnego przekazuje podległym jednostkom informacje niezbędne do opracowania projektów ich planów finansowych.
+
+### 2.
+
+Jednostki, o których mowa w ust. 1, opracowują projekty planów finansowych w terminie 30 dni od dnia otrzymania informacji określonej w ust. 1, nie później jednak niż do dnia 22 grudnia.
+
+### Art. 249.
+
+### 1.
+
+W terminie 21 dni od dnia podjęcia uchwały budżetowej zarząd jednostki samorządu terytorialnego:
+
+### 1)
+
+przekazuje podległym jednostkom informacje o ostatecznych kwotach dochodów i wydatków tych jednostek oraz wysokości dotacji i wpłat do budżetu;
+
+### 2)
+
+opracowuje plan finansowy zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami, przyjmując jako podstawę dla tego planu kwotę dotacji przyznanych na ten cel w roku budżetowym oraz wielkość dochodów związanych z realizacją tych zadań, które podlegają przekazaniu do budżetu państwa.
+
+### 2.
+
+Jednostki organizacyjne jednostki samorządu terytorialnego dostosowują projekty planów do uchwały budżetowej.
+
+### 3.
+
+W planie finansowym urzędu jednostki samorządu terytorialnego ujmuje się wszystkie wydatki budżetowe nieujęte w planach finansowych innych jednostek budżetowych, w tym wydatki związane z funkcjonowaniem organu stanowiącego jednostki samorządu terytorialnego i zarządu jednostki samorządu terytorialnego.
+
+### 4.
+
+W planie, o którym mowa w ust. 3, ujmuje się także:
+
+### 1)
+
+dotacje dla samorządowych zakładów budżetowych;
+
+### 2)
+
+dotacje i środki przekazywane na rzecz innych jednostek samorządu terytorialnego i związków jednostek samorządu terytorialnego;
+
+### 3)
+
+pozostałe dotacje;
+
+### 4)
+
+wpłaty do budżetu państwa z przeznaczeniem na zwiększenie części subwencji ogólnej, określone w odrębnych ustawach;
+
+### 5)
+
+płatności oraz składki wpłacane na rzecz instytucji krajowych i zagranicznych.
+
+### 5.
+
+W planie finansowym wojewódzkiej jednostki budżetowej, innej niż urząd marszałkowski, mogą być ujmowane dotacje związane z realizacją programów operacyjnych.
+
+### 6.
+
+Zarząd jednostki samorządu terytorialnego może opracować harmonogram realizacji budżetu jednostki samorządu terytorialnego i poinformować o nim podległe i nadzorowane jednostki.
+
+### Art. 250.
+
+Zarząd jednostki samorządu terytorialnego, udzielając dotacji celowej, w tym jednostce sektora finansów publicznych, w przypadku gdy odrębne przepisy lub umowa międzynarodowa nie określają trybu i zasad udzielania lub rozliczania tej dotacji, zawiera umowę, która określa w szczególności:
+
+### 1)
+
+wysokość dotacji, cel lub opis zakresu rzeczowego zadania, na którego realizację są przekazywane środki dotacji;
+
+### 2)
+
+termin wykorzystania dotacji, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
+
+### 3)
+
+termin i sposób rozliczenia udzielonej dotacji oraz termin zwrotu niewykorzystanej części dotacji celowej, z tym że termin ten nie może być dłuższy niż terminy zwrotu określone w niniejszym dziale.
+
+### Art. 251.
+
+### 1.
+
+Dotacje udzielone z budżetu jednostki samorządu terytorialnego w części niewykorzystanej do końca roku budżetowego podlegają zwrotowi do budżetu tej jednostki w terminie do dnia 31 stycznia następnego roku.
+
+### 2.
+
+W przypadku podjęcia uchwały, o której mowa w art. 263 ust. 2, niewykorzystana część dotacji podlega zwrotowi do budżetu jednostki samorządu terytorialnego w terminie 15 dni od dnia określonego w tej uchwale.
+
+### 3.
+
+W przypadku gdy termin wykorzystania dotacji, o których mowa w ust. 1, jest krótszy niż rok budżetowy, niewykorzystana część dotacji podlega zwrotowi w terminie 15 dni po upływie terminu wykorzystania dotacji.
+
+### 4.
+
+Wykorzystanie dotacji następuje w szczególności przez zapłatę za zrealizowane zadania, na które dotacja była udzielona, albo, w przypadku gdy odrębne przepisy stanowią o sposobie udzielenia i rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych w tych przepisach.
+
+### 5.
+
+Od kwot dotacji zwróconych po terminach określonych w ust. 1-3 nalicza się odsetki w wysokości określonej jak dla zaległości podatkowych, począwszy od dnia następującego po upływie terminów zwrotu określonych w ust. 1-3.
+
+### Art. 252.
+
+### 1.
+
+Dotacje udzielone z budżetu jednostki samorządu terytorialnego:
+
+### 1)
+
+wykorzystane niezgodnie z przeznaczeniem,
+
+### 2)
+
+pobrane nienależnie lub w nadmiernej wysokości
+
+- podlegają zwrotowi do budżetu wraz z odsetkami w wysokości określonej jak dla zaległości podatkowych, w ciągu 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub pkt 2.
+
+### 2.
+
+W przypadku gdy termin wykorzystania dotacji, o których mowa w ust. 1, jest krótszy niż rok budżetowy, podlegają one zwrotowi w terminie 15 dni po upływie terminu wykorzystania dotacji.
+
+### 3.
+
+Dotacjami pobranymi w nadmiernej wysokości są dotacje otrzymane z budżetu jednostki samorządu terytorialnego w wysokości wyższej niż określona w odrębnych przepisach, umowie lub wyższej niż niezbędna na dofinansowanie lub finansowanie dotowanego zadania.
+
+### 4.
+
+Dotacjami nienależnymi są dotacje udzielone bez podstawy prawnej.
+
+### 5.
+
+Zwrotowi do budżetu jednostki samorządu terytorialnego podlega ta część dotacji, która została wykorzystana niezgodnie z przeznaczeniem, nienależnie udzielona lub pobrana w nadmiernej wysokości.
+
+### 6.
+
+Odsetki od dotacji podlegających zwrotowi do budżetu jednostki samorządu terytorialnego nalicza się począwszy od dnia:
+
+### 1)
+
+przekazania z budżetu jednostki samorządu terytorialnego dotacji wykorzystanych niezgodnie z przeznaczeniem;
+
+### 2)
+
+następującego po upływie terminów zwrotu określonych w ust. 1 i 2 w odniesieniu do dotacji pobranej nienależnie lub w nadmiernej wysokości.
+
+### Art. 253.
+
+Przepisów art. 251 i art. 252 nie stosuje się, jeżeli odrębne ustawy określają zasady i tryb zwrotu dotacji.
+
+### Art. 254.
+
+W toku wykonywania budżetu jednostki samorządu terytorialnego obowiązują następujące zasady gospodarki finansowej:
+
+### 1)
+
+ustalanie, pobieranie i odprowadzanie dochodów budżetu jednostki samorządu terytorialnego następuje na zasadach i w terminach wynikających z obowiązujących przepisów;
+
+### 2)
+
+pełna realizacja zadań następuje w terminach określonych w przepisach i harmonogramie, o którym mowa w art. 249 ust. 6, jeżeli został on opracowany;
+
+### 3)
+
+dokonywanie wydatków następuje w granicach kwot określonych w planie finansowym, z uwzględnieniem prawidłowo dokonanych przeniesień i zgodnie z planowanym przeznaczeniem, w sposób celowy i oszczędny, z zachowaniem zasady uzyskiwania najlepszych efektów z danych nakładów;
+
+### 4)
+
+zlecanie zadań powinno następować na zasadzie wyboru najkorzystniejszej oferty, z uwzględnieniem przepisów o zamówieniach publicznych, a w odniesieniu do organizacji pozarządowych - z odpowiednim zastosowaniem art. 43 i art. 221.
+
+### Art. 255.
+
+### 1.
+
+Zarząd jednostki samorządu terytorialnego przekazuje pobrane dochody budżetowe związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami, pomniejszone o określone w odrębnych ustawach dochody budżetowe przysługujące jednostce samorządu terytorialnego z tytułu wykonywania tych zadań, na rachunek bieżący dochodów dysponenta części budżetowej przekazującego dotację celową, według stanu środków określonego na:
+
+### 1)
+
+10 dzień miesiąca - w terminie do 15 dnia danego miesiąca;
+
+### 2)
+
+20 dzień miesiąca - w terminie do 25 dnia danego miesiąca.
+
+### 2.
+
+Pobrane do dnia 31 grudnia i nieprzekazane w terminach, o których mowa w ust. 1, dochody budżetowe związane z realizacją zadań z zakresu administracji rządowej oraz innych zadań zleconych jednostce samorządu terytorialnego odrębnymi ustawami są przekazywane odpowiednio przez zarząd jednostki samorządu terytorialnego na rachunek bieżący dochodów dysponenta części budżetowej przekazującego dotację celową - w terminie do dnia 8 stycznia roku następującego po roku budżetowym, a gdy ten dzień jest dniem wolnym od pracy - do pierwszego dnia roboczego po tym terminie.
+
+### 3.
+
+Dochody, o których mowa w ust. 1 i 2, są przekazywane wraz z należnymi odsetkami:
+
+### 1)
+
+pobranymi od dłużników z tytułu nieterminowo regulowanych należności stanowiących dochód budżetu państwa;
+
+### 2)
+
+naliczonymi w wysokości jak dla zaległości podatkowych w przypadku nieodprowadzonych dochodów budżetowych przez zarząd jednostki samorządu terytorialnego w terminach, o których mowa w ust. 1 i 2.
+
+### 4.
+
+W przypadku nieprzekazania dochodów budżetowych w terminach, o których mowa w ust. 1 i 2, dysponent części budżetowej przekazujący dotację celową wydaje decyzję określającą kwotę dochodów przypadającą do zwrotu i termin, od którego naliczane są odsetki.
+
+### 5.
+
+Do dochodów budżetowych nieprzekazanych przez jednostkę samorządu terytorialnego do budżetu państwa stosuje się odpowiednio przepisy dotyczące zwrotu dotacji.
+
+### Art. 256.
+
+Wydatki nieprzewidziane, których obowiązkowe płatności wynikają z tytułów wykonawczych, wyroków sądowych lub ugód, mogą być dokonywane bez względu na poziom środków finansowych zaplanowanych na ten cel. Odpowiednia zmiana planu wydatków powinna nastąpić w trybie przeniesień wydatków z innych podziałek klasyfikacji wydatków lub z rezerw celowych.
+
+### Art. 257.
+
+W toku wykonywania budżetu zarząd może dokonywać zmian w planie dochodów i wydatków budżetu jednostki samorządu terytorialnego polegających na zmianach planu:
+
+### 1)
+
+dochodów i wydatków związanych ze zmianą kwot lub uzyskaniem dotacji przekazywanych z budżetu państwa, z budżetów innych jednostek samorządu terytorialnego oraz innych jednostek sektora finansów publicznych;
+
+### 2)
+
+dochodów jednostki samorządu terytorialnego, wynikających ze zmian kwot subwencji w wyniku podziału rezerw subwencji ogólnej;
+
+### 3)
+
+wydatków jednostki samorządu terytorialnego w ramach działu w zakresie wydatków bieżących, z wyjątkiem zmian planu wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne przepisy nie stanowią inaczej;
+
+### 4)
+
+dochodów i wydatków jednostki samorządu terytorialnego związanych ze zwrotem dotacji otrzymanych z budżetu państwa lub innych jednostek samorządu terytorialnego.
+
+### Art. 258.
+
+### 1.
+
+Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd do:
+
+### 1)
+
+dokonywania innych zmian w planie wydatków niż określone w art. 257, z wyłączeniem przeniesień wydatków między działami;
+
+### 2)
+
+przekazania niektórych uprawnień do dokonywania przeniesień planowanych wydatków innym jednostkom organizacyjnym jednostki samorządu terytorialnego;
+
+### 3)
+
+przekazania uprawnień innym jednostkom organizacyjnym jednostki samorządu terytorialnego do zaciągania zobowiązań z tytułu umów, których realizacja w roku budżetowym i w latach następnych jest niezbędna do zapewnienia ciągłości działania jednostki i z których wynikające płatności wykraczają poza rok budżetowy.
+
+### 2.
+
+Kierownicy jednostek organizacyjnych dokonujący przeniesień wydatków na podstawie upoważnień, o których mowa w ust. 1 pkt 2, wprowadzają odpowiednie zmiany w planach finansowych i informują o dokonanych przeniesieniach zarząd.
+
+### Art. 259.
+
+### 1.
+
+Rezerwy celowe mogą być przeznaczone wyłącznie na cel, na jaki zostały utworzone, oraz wykorzystane zgodnie z klasyfikacją budżetową wydatków.
+
+### 2.
+
+Zarząd jednostki samorządu terytorialnego może, po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu organu stanowiącego jednostki samorządu terytorialnego, dokonać zmiany przeznaczenia rezerwy celowej.
+
+### 3.
+
+Wydatki przenoszone z rezerwy ogólnej nie mogą zwiększać planowanych wydatków na uposażenia i wynagrodzenia ze stosunku pracy, o ile odrębne przepisy nie stanowią inaczej.
+
+### Art. 260.
+
+### 1.
+
+W przypadkach stwierdzenia:
+
+### 1)
+
+niegospodarności w określonych jednostkach,
+
+### 2)
+
+opóźnień w realizacji zadań,
+
+### 3)
+
+nadmiaru posiadanych środków,
+
+### 4)
+
+naruszenia zasad gospodarki finansowej, o których mowa w art. 254
+
+- zarząd jednostki samorządu terytorialnego może podjąć decyzję o blokowaniu planowanych wydatków budżetowych.
+
+### 2.
+
+O podjętej decyzji zarząd jednostki samorządu terytorialnego zawiadamia organ stanowiący jednostki samorządu terytorialnego.
+
+### 3.
+
+Zarząd jednostki samorządu terytorialnego może, po uzyskaniu pozytywnej opinii komisji właściwej do spraw budżetu organu stanowiącego jednostki samorządu terytorialnego, utworzyć nową rezerwą celową na finansowanie zobowiązań jednostki samorządu terytorialnego, przenosząc do niej zablokowane kwoty wydatków.
+
+### 4.
+
+Rezerwa celowa, o której mowa w ust. 3, nie może być przeznaczona na finansowanie wynagrodzeń i uposażeń.
+
+### Art. 261.
+
+Kierownik samorządowej jednostki budżetowej może, w celu realizacji zadań, zaciągać zobowiązania pieniężne do wysokości kwot wydatków określonych w zatwierdzonym planie finansowym jednostki.
+
+### Art. 262.
+
+### 1.
+
+Czynności prawnych polegających na zaciąganiu kredytów i pożyczek oraz udzielaniu pożyczek, poręczeń i gwarancji, a także emisji papierów wartościowych dokonuje dwóch członków zarządu wskazanych w uchwale przez zarząd, z zastrzeżeniem ust. 2. Dla ważności tych czynności konieczna jest kontrasygnata skarbnika jednostki samorządu terytorialnego.
+
+### 2.
+
+Czynności prawnych, o których mowa w ust. 1, w gminie dokonuje wójt, burmistrz, prezydent miasta.
+
+### 3.
+
+Skarbnik, który odmówi kontrasygnaty, dokonuje jej na pisemne polecenie przewodniczącego zarządu jednostki samorządu terytorialnego, z wyjątkiem przypadku, gdy wykonanie polecenia stanowiłoby przestępstwo albo wykroczenie. W takim przypadku skarbnik powiadamia o tym organ stanowiący jednostki samorządu terytorialnego i regionalną izbę obrachunkową.
+
+### Art. 263.
+
+### 1.
+
+Niezrealizowane kwoty wydatków budżetu jednostki samorządu terytorialnego wygasają, z zastrzeżeniem ust. 2 i 4, z upływem roku budżetowego.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego może ustalić, w drodze uchwały, wykaz wydatków, do których nie stosuje się przepisu ust. 1, oraz określić ostateczny termin dokonania każdego wydatku ujętego w tym wykazie w następnym roku budżetowym.
+
+### 3.
+
+W wykazie, o którym mowa w ust. 2, ujmuje się wydatki związane z realizacją umów:
+
+### 1)
+
+w sprawie zamówienia publicznego;
+
+### 2)
+
+które zostaną zawarte w wyniku zakończonego postępowania o udzielenie zamówienia publicznego, w którym dokonano wyboru wykonawcy.
+
+### 4.
+
+Ostateczny termin dokonania wydatków, które nie wygasają z upływem roku budżetowego, upływa 30 czerwca roku następnego.
+
+### 5.
+
+Łącznie z wykazem wydatków, które nie wygasają z upływem roku budżetowego, organ stanowiący jednostki samorządu terytorialnego ustala plan finansowy tych wydatków w podziale na działy i rozdziały klasyfikacji wydatków, z wyodrębnieniem wydatków majątkowych.
+
+### 6.
+
+Środki finansowe na wydatki ujęte w wykazie, o których mowa w ust. 2, są gromadzone na wyodrębnionym subkoncie podstawowego rachunku bankowego jednostki samorządu terytorialnego.
+
+### 7.
+
+Środki finansowe niewykorzystane w terminie określonym przez organ stanowiący jednostki samorządu terytorialnego podlegają przekazaniu na dochody budżetu jednostki samorządu terytorialnego w terminie 7 dni od dnia określonego przez organ stanowiący jednostki samorządu terytorialnego.
+
+### Art. 264.
+
+### 1.
+
+Bankową obsługę budżetu jednostki samorządu terytorialnego wykonuje bank wybrany na zasadach określonych w przepisach o zamówieniach publicznych.
+
+### 2.
+
+Zasady wykonywania obsługi bankowej określa umowa zawarta między zarządem jednostki samorządu terytorialnego a bankiem.
+
+### 3.
+
+Organ stanowiący jednostki samorządu terytorialnego może upoważnić zarząd jednostki samorządu terytorialnego do lokowania wolnych środków budżetowych na rachunkach w innych bankach.
+
+### 4.
+
+Zarząd jednostki samorządu terytorialnego może, w granicach upoważnień zawartych w uchwale budżetowej, zaciągać kredyty w wybranych przez siebie bankach, w trybie określonym w przepisach o zamówieniach publicznych.
+
+### 5.
+
+W celu zabezpieczenia kredytu lub pożyczki nie można udzielać pełnomocnictwa do dysponowania rachunkiem bankowym jednostki samorządu terytorialnego.
+
+### Rozdział 5 Tryb zatwierdzenia wykonania budżetu jednostki samorządu terytorialnego
+
+### Art. 265.
+
+Jednostki, o których mowa w art. 9 pkt 10, 13 i 14, dla których organem założycielskim jest jednostka samorządu terytorialnego, przedstawiają właściwemu zarządowi jednostki samorządu terytorialnego w terminie do dnia:
+
+### 1)
+
+31 lipca roku budżetowego - informację o przebiegu wykonania planu finansowego jednostki za pierwsze półrocze, uwzględniającą w szczególności stan należności i zobowiązań, w tym wymagalnych;
+
+### 2)
+
+28 lutego roku następującego po roku budżetowym - sprawozdanie roczne z wykonania planu finansowego jednostki, w szczegółowości nie mniejszej niż w planie finansowym.
+
+### Art. 266.
+
+### 1.
+
+Zarząd jednostki samorządu terytorialnego przedstawia organowi stanowiącemu jednostki samorządu terytorialnego i regionalnej izbie obrachunkowej, w terminie do dnia 31 sierpnia:
+
+### 1)
+
+informację o przebiegu wykonania budżetu jednostki samorządu terytorialnego za pierwsze półrocze;
+
+### 2)
+
+informację o kształtowaniu się wieloletniej prognozy finansowej, w tym o przebiegu realizacji przedsięwzięć, o których mowa w art. 226 ust. 3;
+
+### 3)
+
+informację, o której mowa w art. 265 pkt 1.
+
+### 2.
+
+Zakres i formę informacji, o których mowa w ust. 1, określa organ stanowiący jednostki samorządu terytorialnego.
+
+### Art. 267.
+
+### 1.
+
+Zarząd jednostki samorządu terytorialnego przedstawia, w terminie do dnia 31 marca roku następującego po roku budżetowym, organowi stanowiącemu jednostki samorządu terytorialnego:
+
+### 1)
+
+sprawozdanie roczne z wykonania budżetu tej jednostki, zawierające zestawienie dochodów i wydatków wynikające z zamknięć rachunków budżetu jednostki samorządu terytorialnego, w szczegółowości nie mniejszej niż w uchwale budżetowej;
+
+### 2)
+
+sprawozdania, o których mowa w art. 265 pkt 2;
+
+### 3)
+
+informację o stanie mienia jednostki samorządu terytorialnego, zawierającą:
+
+### a)
+
+dane dotyczące przysługujących jednostce samorządu terytorialnego praw własności,
+
+### b)
+
+dane dotyczące:
+
+- - innych niż własność praw majątkowych, w tym w szczególności o ograniczonych prawach rzeczowych, użytkowaniu wieczystym, wierzytelnościach, udziałach w spółkach, akcjach,
+
+- - posiadania,
+
+### c)
+
+dane o zmianach w stanie mienia komunalnego, w zakresie określonym w lit. a i b, od dnia złożenia poprzedniej informacji,
+
+### d)
+
+dane o dochodach uzyskanych z tytułu wykonywania prawa własności i innych praw majątkowych oraz z wykonywania posiadania,
+
+### e)
+
+inne dane i informacje o zdarzeniach mających wpływ na stan mienia jednostki samorządu terytorialnego.
+
+### 2.
+
+Sprawozdanie, o którym mowa w ust. 1 pkt 1, obejmuje również wykaz jednostek budżetowych, o których mowa w art. 223.
+
+### 3.
+
+Sprawozdanie, o którym mowa w ust. 1 pkt 1, zarząd jednostki samorządu terytorialnego przedstawia regionalnej izbie obrachunkowej, w terminie do dnia 31 marca roku następującego po roku budżetowym.
+
+### Art. 268.
+
+Roczne sprawozdanie finansowe jednostki samorządu terytorialnego, w której liczba mieszkańców, ustalona przez Główny Urząd Statystyczny, na dzień 31 grudnia roku poprzedzającego rok, za który sporządzono sprawozdanie, przekracza 150 tysięcy, podlega badaniu przez biegłego rewidenta.
+
+### Art. 269.
+
+Sprawozdanie z wykonania budżetu jednostki samorządu terytorialnego sporządza się na podstawie danych z ewidencji księgowej budżetu. Sprawozdanie powinno uwzględniać w szczególności:
+
+### 1)
+
+dochody i wydatki budżetu jednostki samorządu terytorialnego w szczegółowości określonej jak w uchwale budżetowej;
+
+### 2)
+
+zmiany w planie wydatków na realizację programów finansowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3, dokonane w trakcie roku budżetowego;
+
+### 3)
+
+stopień zaawansowania realizacji programów wieloletnich.
+
+### Art. 270.
+
+### 1.
+
+Sprawozdanie finansowe jednostki samorządu terytorialnego zarząd przekazuje organowi stanowiącemu jednostki samorządu terytorialnego, w terminie do dnia 31 maja roku następującego po roku budżetowym.
+
+### 2.
+
+Komisja rewizyjna organu stanowiącego jednostki samorządu terytorialnego rozpatruje sprawozdanie finansowe, sprawozdanie z wykonania budżetu wraz z opinią regionalnej izby obrachunkowej o tym sprawozdaniu oraz informację, o której mowa w art. 267 ust. 1 pkt 3. W przypadku gdy jednostka samorządu terytorialnego jest obowiązana do badania sprawozdania finansowego, o którym mowa w art. 268, przedmiotem rozpatrzenia przez komisję rewizyjną jest również opinia z tego badania.
+
+### 3.
+
+Komisja rewizyjna przedstawia organowi stanowiącemu jednostki samorządu terytorialnego, w terminie do dnia 15 czerwca roku następującego po roku budżetowym, wniosek w sprawie absolutorium dla zarządu.
+
+### 4.
+
+Organ stanowiący jednostki samorządu terytorialnego rozpatruje i zatwierdza sprawozdanie finansowe jednostki samorządu terytorialnego wraz ze sprawozdaniem z wykonania budżetu, w terminie do dnia 30 czerwca roku następującego po roku budżetowym.
+
+### Art. 271.
+
+### 1.
+
+Nie później niż dnia 30 czerwca roku następującego po roku budżetowym, organ stanowiący jednostki samorządu terytorialnego podejmuje uchwałę w sprawie absolutorium dla zarządu po zapoznaniu się z:
+
+### 1)
+
+sprawozdaniem z wykonania budżetu jednostki samorządu terytorialnego;
+
+### 2)
+
+sprawozdaniem finansowym;
+
+### 3)
+
+opinią z badania sprawozdania finansowego, o którym mowa w art. 268;
+
+### 4)
+
+opinią regionalnej izby obrachunkowej, o której mowa w art. 270 ust. 2;
+
+### 5)
+
+informacją o stanie mienia jednostki samorządu terytorialnego;
+
+### 6)
+
+stanowiskiem komisji rewizyjnej.
+
+### 2.
+
+Organ stanowiący jednostki samorządu terytorialnego może żądać przedłożenia przez zarząd jednostki samorządu terytorialnego dodatkowych wyjaśnień odnoszących się do dokumentów, o których mowa w ust. 1 pkt 1 i 2.
+
+### Dział VI Audyt wewnętrzny oraz koordynacja audytu wewnętrznego w jednostkach sektora finansów publicznych
+
+### Art. 272.
+
+### 1.
+
+Audyt wewnętrzny jest działalnością niezależną i obiektywną, której celem jest wspieranie ministra kierującego działem lub kierownika jednostki w realizacji celów i zadań przez systematyczną ocenę kontroli zarządczej oraz czynności doradcze.
+
+### 2.
+
+Ocena, o której mowa w ust. 1, dotyczy w szczególności adekwatności, skuteczności i efektywności kontroli zarządczej w dziale administracji rządowej lub jednostce.
+
+### Art. 273.
+
+### 1.
+
+Minister Finansów określi, w formie komunikatu, i ogłosi w Dzienniku Urzędowym Ministra Finansów standardy audytu wewnętrznego dla jednostek sektora finansów publicznych, zgodne z powszechnie uznawanymi standardami audytu wewnętrznego.
+
+### 2.
+
+Audytor wewnętrzny, prowadząc audyt wewnętrzny, kieruje się wskazówkami zawartymi w standardach audytu wewnętrznego, o których mowa w ust. 1.
+
+### Art. 274.
+
+### 1.
+
+Audyt wewnętrzny prowadzi się w:
+
+### 1)
+
+Kancelarii Prezesa Rady Ministrów;
+
+### 2)
+
+ministerstwach;
+
+### 3)
+
+urzędach wojewódzkich;
+
+### 4)
+
+izbach celnych;
+
+### 5)
+
+izbach skarbowych;
+
+### 6)
+
+Zakładzie Ubezpieczeń Społecznych, w tym w zarządzanych przez niego funduszach;
+
+### 7)
+
+Kasie Rolniczego Ubezpieczenia Społecznego, w tym w funduszach zarządzanych przez Prezesa Kasy Rolniczego Ubezpieczenia Społecznego;
+
+### 8)
+
+Narodowym Funduszu Zdrowia.
+
+### 2.
+
+Audyt wewnętrzny prowadzi się także w:
+
+### 1)
+
+państwowych jednostkach budżetowych, jeżeli kwota ujętych w planie finansowym jednostki budżetowej dochodów lub kwota wydatków przekroczyła wysokość 40 000 tys. zł;
+
+### 2)
+
+uczelniach publicznych, jeżeli kwota ujętych w planie rzeczowo-finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
+
+### 3)
+
+samodzielnych publicznych zakładach opieki zdrowotnej, które nie zostały utworzone przez jednostki samorządu terytorialnego, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
+
+### 4)
+
+agencjach wykonawczych, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł;
+
+### 5)
+
+państwowych funduszach celowych, jeżeli kwota ujętych w planie finansowym przychodów lub kosztów przekroczyła wysokość 40 000 tys. zł.
+
+### 3.
+
+Audyt wewnętrzny prowadzi się w jednostkach samorządu terytorialnego, jeżeli ujęta w uchwale budżetowej jednostki samorządu terytorialnego kwota dochodów i przychodów lub kwota wydatków i rozchodów przekroczyła wysokość 40 000 tys. zł.
+
+### 4.
+
+Audyt wewnętrzny prowadzi się również w jednostkach sektora finansów publicznych, których kierownicy podejmą decyzję o prowadzeniu audytu wewnętrznego.
+
+### 5.
+
+Audyt wewnętrzny prowadzi się również w jednostkach w dziale wskazanych przez właściwego ministra kierującego działem. Wskazując jednostkę zobowiązaną minister określa termin rozpoczęcia prowadzenia audytu wewnętrznego.
+
+### 6.
+
+Przepisy ust. 5 stosuje się odpowiednio do jednostek podległych Prezesowi Rady Ministrów lub przez niego nadzorowanych oraz jednostek obsługujących organy podległe Prezesowi Rady Ministrów lub przez niego nadzorowane.
+
+### 7.
+
+Kierownicy jednostek, o których mowa w ust. 2-6, informują pisemnie Ministra Finansów o rozpoczęciu prowadzenia audytu wewnętrznego.
+
+### Art. 275.
+
+Audyt wewnętrzny prowadzi:
+
+### 1)
+
+audytor wewnętrzny zatrudniony w jednostce albo
+
+### 2)
+
+usługodawca niezatrudniony w jednostce, zwany dalej „usługodawcą”.
+
+### Art. 276.
+
+W jednostce samorządu terytorialnego zadania przypisane kierownikowi jednostki związane z audytem wewnętrznym wykonują odpowiednio: wójt, burmistrz, prezydent miasta, przewodniczący zarządu jednostki samorządu terytorialnego.
+
+### Art. 277.
+
+### 1.
+
+W jednostkach, o których mowa w art. 274 ust. 1-6, tworzy się wieloosobowe lub jednoosobowe komórki audytu wewnętrznego, z zastrzeżeniem ust. 2 oraz art. 278. W przypadku jednostek samorządu terytorialnego komórkę audytu wewnętrznego tworzy się w urzędzie tej jednostki.
+
+### 2.
+
+W przypadku państwowych funduszy celowych komórki audytu wewnętrznego tworzy się w jednostkach budżetowych obsługujących te fundusze.
+
+### 3.
+
+Działalnością wieloosobowej komórki audytu wewnętrznego kieruje audytor wewnętrzny, zwany dalej „kierownikiem komórki audytu wewnętrznego”.
+
+### 4.
+
+Do audytora wewnętrznego zatrudnionego w jednoosobowej komórce audytu wewnętrznego przepisy ustawy dotyczące kierownika komórki audytu wewnętrznego stosuje się odpowiednio.
+
+### Art. 278.
+
+### 1.
+
+W jednostkach, o których mowa w art. 274 ust. 2, audyt wewnętrzny może być prowadzony przez usługodawcę, jeżeli:
+
+### 1)
+
+żadna z kwot, o których mowa w art. 274 ust. 2 pkt 1-5, nie przekroczyła 100 000 tys. zł, lub
+
+### 2)
+
+jednostka zatrudnia mniej niż 200 pracowników
+
+- z zastrzeżeniem ust. 2.
+
+### 2.
+
+W jednostkach w dziale audyt wewnętrzny może być prowadzony przez usługodawcę za zgodą właściwego ministra kierującego działem.
+
+### 3.
+
+W jednostkach samorządu terytorialnego audyt wewnętrzny może być prowadzony przez usługodawcę, jeżeli ujęta w uchwale budżetowej jednostki samorządu terytorialnego kwota dochodów i przychodów oraz kwota wydatków i rozchodów jest niższa niż 100 000 tys. zł.
+
+### 4.
+
+Przepisy ust. 2 stosuje się odpowiednio do jednostek podległych i nadzorowanych oraz jednostek obsługujących organy podległe lub nadzorowane przez Prezesa Rady Ministrów.
+
+### Art. 279.
+
+### 1.
+
+Usługodawcą, o którym mowa w art. 275 pkt 2, może być:
+
+### 1)
+
+osoba fizyczna, spełniająca warunki określone w art. 286;
+
+### 2)
+
+osoba fizyczna prowadząca działalność gospodarczą, spełniająca warunki określone w art. 286;
+
+### 3)
+
+spółka cywilna, spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna lub osoba prawna, która zatrudnia do prowadzenia audytu wewnętrznego w jednostce osoby spełniające warunki określone w art. 286.
+
+### 2.
+
+Umowa zawarta przez jednostkę sektora finansów publicznych z usługodawcą powinna zawierać postanowienia gwarantujące prowadzenie audytu wewnętrznego zgodnie z przepisami niniejszej ustawy. W umowie należy także określić sposób postępowania z dokumentami, w tym także w formie elektronicznej, wytworzonymi dla celów prowadzenia audytu wewnętrznego, tak aby zapewnić ich dostępność, ochronę przed nieupoważnionym rozpowszechnianiem, uszkodzeniem lub zniszczeniem.
+
+### 3.
+
+Umowę z usługodawcą, o której mowa w ust. 2, jednostka sektora finansów publicznych zawiera na okres co najmniej roku.
+
+### Art. 280.
+
+Kierownik komórki audytu wewnętrznego podlega bezpośrednio kierownikowi jednostki, a w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu - dyrektorowi generalnemu w zakresie określonym odrębnymi ustawami.
+
+### Art. 281.
+
+Rozwiązanie stosunku pracy ani zmiana warunków płacy i pracy kierownika komórki audytu wewnętrznego ministerstwa oraz jednostki w dziale nie może nastąpić bez zgody właściwego komitetu audytu.
+
+### Art. 282.
+
+### 1.
+
+Kierownik jednostki, a w urzędzie administracji rządowej, w którym tworzy się stanowisko dyrektora generalnego urzędu - dyrektor generalny, zapewnia warunki niezbędne do niezależnego, obiektywnego i efektywnego prowadzenia audytu wewnętrznego, w tym zapewnia organizacyjną odrębność komórki audytu wewnętrznego oraz ciągłość prowadzenia audytu wewnętrznego w jednostce.
+
+### 2.
+
+Audytor wewnętrzny ma prawo wstępu do pomieszczeń jednostki oraz wglądu do wszelkich dokumentów, informacji i danych oraz do innych materiałów związanych z funkcjonowaniem jednostki, w tym utrwalonych na elektronicznych nośnikach danych, jak również do sporządzania ich kopii, odpisów, wyciągów, zestawień lub wydruków, z zachowaniem przepisów o tajemnicy ustawowo chronionej.
+
+### 3.
+
+Pracownicy jednostki są obowiązani udzielać informacji i wyjaśnień, a także sporządzać i potwierdzać kopie, odpisy, wyciągi lub zestawienia, o których mowa w ust. 2.
+
+### Art. 283.
+
+### 1.
+
+Audyt wewnętrzny, z zastrzeżeniem ust. 2, przeprowadza się na podstawie rocznego planu audytu wewnętrznego, zwanego dalej „planem audytu”.
+
+### 2.
+
+W uzasadnionych przypadkach audyt wewnętrzny przeprowadza się poza planem audytu.
+
+### 3.
+
+Do końca roku kierownik komórki audytu wewnętrznego w porozumieniu z kierownikiem jednostki przygotowuje na podstawie analizy ryzyka plan audytu na następny rok.
+
+### 4.
+
+Kierownik komórki audytu wewnętrznego, przeprowadzając analizę ryzyka, bierze pod uwagę w szczególności zadania wynikające z planu działalności, a także wytyczne ministra kierującego działem, komitetu audytu oraz szczegółowe wytyczne Ministra Finansów, o których mowa w art. 69 ust. 4.
+
+### 5.
+
+Do końca stycznia każdego roku kierownik komórki audytu wewnętrznego sporządza sprawozdanie z wykonania planu audytu za rok poprzedni.
+
+### Art. 284.
+
+### 1.
+
+Plan audytu oraz sprawozdanie z wykonania planu audytu stanowią, udostępnianą na wniosek, informację publiczną w rozumieniu ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej.
+
+### 2.
+
+Informacji publicznej nie stanowią inne niż wymienione w ust. 1 dokumenty wytworzone przez audytora wewnętrznego w trakcie prowadzenia audytu wewnętrznego.
+
+### Art. 285.
+
+Minister Finansów określi, w drodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania audytu wewnętrznego oraz przekazywania informacji o pracy i wynikach audytu wewnętrznego, w szczególności:
+
+### 1)
+
+sposób sporządzania oraz elementy planu audytu,
+
+### 2)
+
+sposób dokumentowania przebiegu oraz wyników audytu wewnętrznego,
+
+### 3)
+
+sposób sporządzania oraz elementy wyników audytu wewnętrznego,
+
+### 4)
+
+sposób sporządzania oraz elementy sprawozdania z wykonania planu audytu oraz
+
+### 5)
+
+tryb przeprowadzania audytu wewnętrznego zleconego, o którym mowa w art. 292 ust. 1 pkt 1 i art. 293,
+
+### 6)
+
+tryb przeprowadzania oceny prowadzenia audytu wewnętrznego, o której mowa w art. 292 ust. 1 pkt 2 i art. 294
+
+- z uwzględnieniem powszechnie uznawanych standardów audytu wewnętrznego.
+
+### Art. 286.
+
+### 1.
+
+Audytorem wewnętrznym może być osoba, która:
+
+### 1)
+
+ma obywatelstwo państwa członkowskiego Unii Europejskiej lub innego państwa, którego obywatelom, na podstawie umów międzynarodowych lub przepisów prawa wspólnotowego, przysługuje prawo podjęcia zatrudnienia na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+
+### 3)
+
+nie była karana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+
+### 4)
+
+posiada wyższe wykształcenie;
+
+### 5)
+
+posiada następujące kwalifikacje do przeprowadzania audytu wewnętrznego:
+
+### a)
+
+jeden z certyfikatów: Certified Internal Auditor (CIA), Certified Government Auditing Professional (CGAP), Certified Information Systems Auditor (CISA), Association of Chartered Certified Accountants (ACCA), Certified Fraud Examiner (CFE), Certification in Control Self Assessment (CCSA), Certified Financial Services Auditor (CFSA) lub Chartered Financial Analyst (CFA), lub
+
+### b)
+
+złożyła, w latach 2003-2006, z wynikiem pozytywnym egzamin na audytora wewnętrznego przed Komisją Egzaminacyjną powołaną przez Ministra Finansów, lub
+
+### c)
+
+uprawnienia biegłego rewidenta, lub
+
+### d)
+
+dwuletnią praktykę w zakresie audytu wewnętrznego i legitymuje się dyplomem ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydanym przez jednostkę organizacyjną, która w dniu wydania dyplomu była uprawniona, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora nauk ekonomicznych lub prawnych.
+
+### 2.
+
+Za praktykę w zakresie audytu wewnętrznego, o której mowa w ust. 1 pkt 5 lit. d, uważa się udokumentowane przez kierownika jednostki wykonywanie czynności, w wymiarze czasu pracy nie mniejszym niż 1/2 etatu, związanych z:
+
+### 1)
+
+przeprowadzaniem audytu wewnętrznego pod nadzorem audytora wewnętrznego;
+
+### 2)
+
+realizacją przez inspektorów kontroli skarbowej czynności z zakresu certyfikacji i wydawania deklaracji zamknięcia pomocy finansowej ze środków pochodzących z Unii Europejskiej, o których mowa w ustawie z dnia 28 września 1991 r. o kontroli skarbowej ([Dz. U. z 2004 r. Nr 8, poz. 65](https://api.sejm.gov.pl/eli/acts/DU/2004/65/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207, z 2008 r. Nr 110, poz. 707, Nr 209, poz. 1318 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 85, poz. 716.](#gloss-0:11:));
+
+### 3)
+
+nadzorowaniem lub wykonywaniem czynności kontrolnych, o których mowa w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ([Dz. U. z 2007 r. Nr 231, poz. 1701](https://api.sejm.gov.pl/eli/acts/DU/2007/1701/text.html) oraz z [2008 r. Nr 209, poz. 1315](https://api.sejm.gov.pl/eli/acts/DU/2008/1315/text.html), [Nr 225, poz. 1502](https://api.sejm.gov.pl/eli/acts/DU/2008/1502/text.html) i [Nr 227, poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text.html)).
+
+### Art. 287.
+
+### 1.
+
+Do przeprowadzania audytu wewnętrznego w jednostce samorządu terytorialnego, w tym w jej jednostkach organizacyjnych, audytora wewnętrznego zatrudnionego w urzędzie jednostki samorządu terytorialnego upoważnia odpowiednio: wójt, burmistrz, prezydent miasta, przewodniczący zarządu jednostki samorządu terytorialnego.
+
+### 2.
+
+W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w innych jednostkach w dziale, minister kierujący działem może upoważnić audytora wewnętrznego zatrudnionego w ministerstwie do ich dokonania.
+
+### 3.
+
+W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w jednostce podległej lub nadzorowanej, kierownik jednostki nadrzędnej lub nadzorującej może upoważnić audytora wewnętrznego zatrudnionego w tej jednostce do ich dokonania.
+
+### 4.
+
+W przypadku gdy do przeprowadzenia audytu wewnętrznego konieczne jest dokonanie czynności w jednostkach organizacyjnych stanowiących aparat pomocniczy kierowników zespolonych służb, inspekcji i straży wojewódzkich, wojewoda może upoważniać audytora wewnętrznego zatrudnionego w urzędzie wojewódzkim do ich dokonania.
+
+### 5.
+
+Przepisy art. 282 ust. 2 i 3 stosuje się odpowiednio.
+
+### Art. 288.
+
+### 1.
+
+Minister kierujący działem powołuje, w drodze zarządzenia, komitet audytu.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do działów administracji rządowej, w których nie występują jednostki w dziale.
+
+### 3.
+
+Dla działów administracji rządowej kierowanych przez jednego ministra można utworzyć wspólny komitet audytu.
+
+### 4.
+
+Celem komitetu audytu jest doradztwo świadczone na rzecz ministra kierującego działem w zakresie zapewnienia funkcjonowania adekwatnej, skutecznej i efektywnej kontroli zarządczej oraz skutecznego audytu wewnętrznego.
+
+### Art. 289.
+
+### 1.
+
+Do zadań komitetu audytu należy w szczególności:
+
+### 1)
+
+sygnalizowanie istotnych ryzyk;
+
+### 2)
+
+sygnalizowanie istotnych słabości kontroli zarządczej oraz proponowanie jej usprawnień;
+
+### 3)
+
+wyznaczanie priorytetów do rocznych i strategicznych planów audytu wewnętrznego;
+
+### 4)
+
+przegląd istotnych wyników audytu wewnętrznego oraz monitorowanie ich wdrożenia;
+
+### 5)
+
+przegląd sprawozdań z wykonania planu audytu wewnętrznego oraz z oceny kontroli zarządczej;
+
+### 6)
+
+monitorowanie efektywności pracy audytu wewnętrznego, w tym przeglądanie wyników wewnętrznych i zewnętrznych ocen pracy audytu wewnętrznego;
+
+### 7)
+
+wyrażenie zgody na rozwiązanie stosunku pracy oraz zmianę warunków płacy i pracy kierowników komórek audytu wewnętrznego.
+
+### 2.
+
+Do końca lutego każdego roku komitet audytu składa sprawozdanie z realizacji zadań w roku poprzednim, w tym w szczególności zadań, o których mowa w ust. 1, ministrowi kierującemu działem oraz Ministrowi Finansów. Sprawozdanie z realizacji zadań podlega publikacji w Biuletynie Informacji Publicznej.
+
+### Art. 290.
+
+### 1.
+
+W skład komitetu audytu wchodzi nie mniej niż 3 członków, w tym:
+
+### 1)
+
+wskazana przez ministra osoba w randze sekretarza lub podsekretarza stanu jako przewodniczący komitetu;
+
+### 2)
+
+co najmniej 2 osoby, niebędące pracownikami ministerstwa lub jednostek w dziale, zwane dalej „członkami niezależnymi”.
+
+### 2.
+
+Członkowie niezależni wykonują swoje zadania za wynagrodzeniem.
+
+### 3.
+
+Organizację i tryb pracy komitetu audytu określa regulamin nadany przez ministra, na wniosek przewodniczącego komitetu.
+
+### 4.
+
+Minister Finansów określi, w drodze rozporządzenia:
+
+### 1)
+
+niezbędne kwalifikacje członków niezależnych,
+
+### 2)
+
+sposób ustalania wynagrodzeń członków niezależnych,
+
+### 3)
+
+wymogi, jakie powinien spełniać regulamin komitetu audytu
+
+- mając na uwadze zapewnienie rzetelnej identyfikacji i oceny ryzyk, pracy audytu wewnętrznego w działach administracji rządowej oraz sprawne funkcjonowanie komitetu audytu.
+
+### Art. 291.
+
+### 1.
+
+Komórka audytu wewnętrznego utworzona w ministerstwie:
+
+### 1)
+
+gromadzi plany audytu, sprawozdania z wykonania planów oraz inne, niezbędne dla komitetu audytu, informacje z jednostek w dziale;
+
+### 2)
+
+przygotowuje zbiorcze informacje o istotnych ryzykach i słabościach kontroli zarządczej oraz proponowanych usprawnieniach kontroli zarządczej;
+
+### 3)
+
+zapewnia obsługę organizacyjną komitetu audytu;
+
+### 4)
+
+prowadzi inne działania mające na celu wsparcie komitetu audytu.
+
+### 2.
+
+Kierownicy komórek audytu wewnętrznego w innych jednostkach w dziale przekazują, na wniosek kierownika komórki audytu wewnętrznego utworzonej w ministerstwie, dokumenty i informacje niezbędne do realizacji zadań, o których mowa w ust. 1.
+
+### Art. 292.
+
+### 1.
+
+Do zadań Ministra Finansów w zakresie koordynacji audytu wewnętrznego w jednostkach sektora finansów publicznych należy w szczególności:
+
+### 1)
+
+zlecanie przeprowadzenia audytu wewnętrznego, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, oraz jednostek samorządu terytorialnego;
+
+### 2)
+
+ocena audytu wewnętrznego, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2, oraz jednostek samorządu terytorialnego;
+
+### 3)
+
+upowszechnianie standardów, o których mowa w art. 273 ust. 1;
+
+### 4)
+
+wydawanie wytycznych;
+
+### 5)
+
+współpraca z krajowymi i zagranicznymi organizacjami;
+
+### 6)
+
+współpraca z komitetami audytu.
+
+### 2.
+
+W celu realizacji zadań, o których mowa w ust. 1 pkt 1 i 2:
+
+### 1)
+
+Minister Finansów może żądać od kierownika jednostki przedłożenia wszelkich materiałów i dokumentów, z zachowaniem przepisów o tajemnicy ustawowo chronionej, a także udzielania informacji i wyjaśnień;
+
+### 2)
+
+kierownik jednostki oraz kierownik komórki audytu wewnętrznego są obowiązani do współpracy z Ministrem Finansów w zakresie ustalenia sposobu przeprowadzenia czynności w tej jednostce.
+
+### Art. 293.
+
+### 1.
+
+Generalny Inspektor Kontroli Skarbowej może zlecić przeprowadzenie audytu wewnętrznego w zakresie środków, o których mowa w art. 5 ust. 1 pkt 2, w jednostkach, o których mowa w art. 274 ust. 1-4, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2. Przepis art. 292 ust. 2 stosuje się odpowiednio.
+
+### 2.
+
+Audyt wewnętrzny zlecony, o którym mowa w art. 292 ust. 1 pkt 1, może być przeprowadzony także na polecenie Prezesa Rady Ministrów.
+
+### Art. 294.
+
+### 1.
+
+Generalny Inspektor Kontroli Skarbowej może dokonać oceny audytu wewnętrznego w zakresie środków, o których mowa w art. 5 ust. 1 pkt 2, w jednostkach, o których mowa w art. 274 ust. 1-4, z wyłączeniem jednostek, o których mowa w art. 139 ust. 2. Przepis art. 292 ust. 2 stosuje się odpowiednio.
+
+### 2.
+
+Ocena, o której mowa w ust. 1 i art. 292 ust. 1 pkt 2, może być dokonana w siedzibie jednostki przez pracowników Ministerstwa Finansów na podstawie pisemnego upoważnienia Ministra Finansów lub Generalnego Inspektora Kontroli Skarbowej.
+
+### Art. 295.
+
+### 1.
+
+Kierownik jednostki, o której mowa w art. 274 ust. 1, 2 i 4-6, z wyłączeniem jednostek samorządu terytorialnego, przedstawia Ministrowi Finansów, do końca stycznia każdego roku, informację o realizacji zadań z zakresu audytu wewnętrznego w roku poprzednim.
+
+### 2.
+
+Kierownik jednostki, o której mowa w art. 274 ust. 1, 2 i 4-6, z wyłączeniem jednostek samorządu terytorialnego oraz jednostek, o których mowa w art. 139 ust. 2, przedstawia Ministrowi Finansów, na jego wniosek, w każdym czasie, informacje związane z funkcjonowaniem kontroli zarządczej.
+
+### 3.
+
+Minister Finansów może określić, w formie komunikatów, oraz ogłosić w Dzienniku Urzędowym Ministra Finansów wzory informacji, o których mowa w ust. 1 i 2.
+
+### Art. 296.
+
+Kierownik komórki audytu wewnętrznego jednostki sektora finansów publicznych obowiązanej do prowadzenia audytu wewnętrznego, z wyłączeniem jednostek samorządu terytorialnego oraz jednostek, o których mowa w art. 139 ust. 2, przedstawia Ministrowi Finansów, na jego wniosek, w każdym czasie, informacje i dokumenty związane z prowadzeniem audytu wewnętrznego.
+
+### Dział VII Przepis końcowy
+
+### Art. 297.
+
+Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 27 sierpnia 2009 r. - Przepisy wprowadzające ustawę o finansach publicznych ([Dz. U. Nr 157, poz. 1241](https://api.sejm.gov.pl/eli/acts/DU/2009/1241/text.html)).
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 593, Nr 116, poz. 1203 i Nr 210, poz. 2135, z 2005 r. Nr 155, poz. 1298, Nr 169, poz. 1420, Nr 175, poz. 1462 i Nr 249, poz. 2104, z 2006 r. Nr 94, poz. 651, z 2008 r. Nr 209, poz. 1316 oraz z 2009 r. Nr 19, poz. 100 i Nr 22, poz. 120. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 121, poz. 769, z 2000 r. Nr 120, poz. 1268, z 2003 r. Nr 162, poz. 1568 oraz z 2005 r. Nr 167, poz. 1398 i Nr 175, poz. 1462. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151, z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692, Nr 172, poz. 1804 i Nr 281, poz. 2783, z 2005 r. Nr 48, poz. 462, Nr 157, poz. 1316 i Nr 172, poz. 1438, z 2006 r. Nr 133, poz. 935 i Nr 164, poz. 1166, z 2007 r. Nr 80, poz. 538, Nr 82, poz. 557 i Nr 181, poz. 1287, z 2008 r. Nr 116, poz. 731, Nr 163, poz. 1012, Nr 220, poz. 1425 i 1431 i Nr 228, poz. 1506 oraz z 2009 r. Nr 42, poz. 341, Nr 79, poz. 662 i Nr 131, poz. 1075. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051 i Nr 144, poz. 1178. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524 oraz z 2008 r. Nr 229, poz. 1539. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466 i Nr 131, poz. 1075. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 167, poz. 1398, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 25, poz. 162 i Nr 61, poz. 410, z 2008 r. Nr 209, poz. 1315 i 1317 oraz z 2009 r. Nr 69, poz. 589 i Nr 143, poz. 1164. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618 oraz z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206 i Nr 56, poz. 458. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545, Nr 71, poz. 609, Nr 127, poz. 1045, Nr 131, poz. 1075 i Nr 144, poz. 1176. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 64, poz. 565 i Nr 132, poz. 1110. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 64, poz. 594, Nr 91, poz. 868, Nr 171, poz. 1800 i Nr 173, poz. 1808, z 2005 r. Nr 124, poz. 1042, Nr 132, poz. 1110 i Nr 183, poz. 1537, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708 i 711, Nr 157, poz. 1119, Nr 191, poz. 1413 i Nr 217, poz. 1590, z 2007 r. Nr 171, poz. 1207, z 2008 r. Nr 110, poz. 707, Nr 209, poz. 1318 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 85, poz. 716.

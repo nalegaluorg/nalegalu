@@ -8,11 +8,9 @@ pos: 1694
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks postępowania karnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 19 lipca 2019 r.*
+# Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,53 +22,1966 @@ domain: null
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-09-04 |
 | Ostatnia zmiana | 2024-11-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001694) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1694/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1694/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1694) |
 
-**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399 oraz z 2019 r. poz. 150, 679 i 1255) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2019 r. poz. 676 i 679) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, z późn. zm. ) 122 1 pkt 1 po wyrazach „art. 192 2,” dodaje się wyrazy „art. 198 1,”.
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html) oraz [z 2019 r. poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2019/150/text.html), [679](https://api.sejm.gov.pl/eli/acts/DU/2019/679/text.html) i [1255](https://api.sejm.gov.pl/eli/acts/DU/2019/1255/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2019 r. poz. 1120, 1123 i 1556) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 6.** W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
+odnośnik nr 1 otrzymuje brzmienie: „ 1) Niniejsza ustawa w zakresie swojej regulacji realizuje postanowienia dyrektywy Parlamentu Europejskiego i Rady 2013/48/UE z dnia 22 października 2013 r. w sprawie prawa dostępu do adwokata w postępowaniu karnym i w postępowaniu dotyczącym europejskiego nakazu aresztowania oraz w sprawie prawa do poinformowania osoby trzeciej o pozbawieniu wolności i prawa do porozumiewania się z osobami trzecimi i organami konsularnymi w czasie pozbawienia wolności ([Dz. Urz. UE L 294 z 06.11.2013, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)) oraz dyrektywy Parlamentu Europejskiego i Rady (UE) 2016/343 z dnia 9 marca 2016 r. w sprawie wzmocnienia niektórych aspektów domniemania niewinności i prawa do obecności na rozprawie w postępowaniu karnym ([Dz. Urz. UE L 65 z 11.03.2016, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)). ” ;
 
-**Art. 7.** Czynności procesowe dokonane przed dniem wejścia życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+### 2)
 
-**Art. 8.** Przepisy ustaw wymienionych 1–5, brzmieniu nadanym niniejszą ustawą, stosuje się do spraw wszczętych przed dniem jej wejścia życie, jeżeli przepisy poniższe nie stanowią inaczej.
+w art. 12:
 
-**Art. 9.** Jeżeli na podstawie przepisów niniejszej ustawy nastąpiła zmiana właściwości lub składu sądu, do czasu zakończenia postępowania danej instancji orzeka sąd dotychczas właściwy lub dotychczasowym składzie.
+### a)
 
-**Art. 10.**
+po § 1 dodaje się § 1a w brzmieniu:
 
-1. Zawiadomień o ukończeniu postępowania określonych 21 1 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, oraz zawiadomień określonych 182 1 zdanie drugie ustawy, o której mowa 2, brzmieniu nadanym niniejszą ustawą, dokonuje się, jeżeli postępowanie zostało ukończone po dniu wejścia życie niniejszej ustawy.
+„
 
-2. Zawiadomień o wszczęciu postępowania określonych 21 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, dokonuje się, jeżeli postępowanie przeciwko osobie nie zostało ukończone przed dniem wejścia życie niniejszej ustawy.
+### § 1a.
 
-**Art. 11.** Postępowania wszczęte przed dniem wejścia życie niniejszej ustawy na skutek wniesienia zażalenia na postanowienie o odmowie wszczęcia lub umorzeniu postępowania przygotowawczego do czasu rozpoznania zażalenia prowadzi się na podstawie przepisów dotychczasowych.
+Uzyskanie wniosku o ściganie należy do oskarżyciela. Jeżeli powodem uzyskania wniosku jest wyłącznie uprzedzenie przez sąd stron o możliwości zakwalifikowania czynu według innego przepisu prawnego, przewidującego ściganie na wniosek, uzyskanie wniosku o ściganie należy do sądu.
 
-**Art. 12.** Zawiadomień określonych 55 2a ustawy, o której mowa 1, dokonuje się, jeżeli akt oskarżenia został wniesiony po dniu wejścia życie niniejszej ustawy.
+” ,
 
-**Art. 13.** Przepisów 198 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą, nie stosuje się, jeżeli postanowienie o dopuszczeniu dowodu z opinii biegłego zostało wydane przed dniem wejścia życie niniejszej ustawy.
+### b)
 
-**Art. 14.** W postępowaniach sądowych toczących się dniu wejścia życie niniejszej ustawy niezwłocznie po dniu jej wejścia życie właściwy sąd przekazuje oskarżonemu pisemne pouczenie o treści przepisów wskazanych 353 4 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
+§ 3 otrzymuje brzmienie:
 
-**Art. 15.** Jeżeli dniu wejścia życie niniejszej ustawy istnieje obowiązek sporządzenia uzasadnienia wyroku, a do dnia wejścia życie tej ustawy nie zostało ono sporządzone, do jego sporządzenia stosuje się przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, chyba że przewodniczący składu orzekającego albo upoważniony sędzia zarządzi sporządzenie uzasadnienia na podstawie przepisów dotychczasowych.
+„
 
-**Art. 16.** W postępowaniach wszczętych przed dniem wejścia życie niniejszej ustawy na skutek wniesienia apelacji do czasu jej rozpoznania nie stosuje się przepisów 427 3a, 447 6 oraz 452 2 pkt 2 i 3 ustawy, o której mowa 1, brzmieniu nadanym niniejszą ustawą.
+### § 3.
 
-**Art. 17.** Jeżeli stronie, która wniosła apelację, doręczono uzupełnione uzasadnienie okresie od czternastego dnia przed dniem wejścia życie niniejszej ustawy do dnia poprzedzającego dzień jej wejścia życie, termin do uzupełnienia apelacji, określony 449a 3 ustawy, o której mowa 1, biegnie od dnia wejścia życie niniejszej ustawy.
+Wniosek może być cofnięty w postępowaniu przygotowawczym za zgodą prokuratora, a w postępowaniu sądowym za zgodą sądu - aż do zamknięcia przewodu sądowego na pierwszej rozprawie głównej. W sprawach, w których akt oskarżenia wniósł oskarżyciel publiczny, cofnięcie wniosku po rozpoczęciu przewodu sądowego jest skuteczne, jeżeli nie sprzeciwi się temu oskarżyciel publiczny obecny na rozprawie lub posiedzeniu. Ponowne złożenie wniosku jest niedopuszczalne.
 
-**Art. 19.** Postępowania, o których mowa rozdziale 58 ustawy, o której mowa 1, toczą się do zakończenia postępowania danej instancji na podstawie przepisów dotychczasowych.
+” ;
 
-**Art. 20.** Do wyroku sprawie o wykroczenie wydanego przed dniem wejścia życie niniejszej ustawy nie stosuje się przepisu 107 2 ustawy, o której mowa 4, brzmieniu nadanym niniejszą ustawą.
+### 3)
 
-**Art. 21.**
+art. 21 otrzymuje brzmienie:
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie 81a 4 ustawy zmienianej 1 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 81a 4 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+„
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie 185d 2 i 300 4 ustawy zmienianej 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie 185d 2 i 300 4 ustawy zmienianej 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+### Art. 21.
 
-**Art. 22.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+### § 1.
 
+O wszczęciu i ukończeniu postępowania toczącego się z urzędu przeciw:
+
+### 1)
+
+funkcjonariuszom publicznym, osobom zatrudnionym w instytucjach państwowych, samorządowych i społecznych, uczniom i słuchaczom szkół, żołnierzom, a także duchownym i członkom zakonów oraz diakonatów - należy bezzwłocznie zawiadomić przełożonych tych osób;
+
+### 2)
+
+osobom będącym członkami samorządu zawodowego - należy bezzwłocznie zawiadomić właściwy organ tego samorządu;
+
+### 3)
+
+komornikom sądowym, asesorom komorniczym i aplikantom komorniczym - należy bezzwłocznie zawiadomić Ministra Sprawiedliwości, prezesa sądu apelacyjnego oraz prezesa sądu rejonowego właściwych ze względu na siedzibę kancelarii komorniczej.
+
+### § 2.
+
+O wszczęciu postępowania przeciw osobom, o których mowa w § 1, zawiadamia prokurator.
+
+” ;
+
+### 4)
+
+w art. 29 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Apelację lub kasację od wyroku orzekającego karę dożywotniego pozbawienia wolności albo wnoszącą o wymierzenie takiej kary rozpoznaje sąd w składzie pięciu sędziów.
+
+” ;
+
+### 5)
+
+w art. 38 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Spór o właściwość między sądami rozstrzyga ostatecznie sąd wyższego rzędu właściwy ze względu na siedzibę sądu, który pierwszy wszczął spór. Spór o właściwość między sądem rejonowym a sądem okręgowym rozstrzyga sąd apelacyjny, a spór o właściwość między sądem apelacyjnym a innym sądem powszechnym - Sąd Najwyższy.
+
+” ;
+
+### 6)
+
+w art. 55:
+
+### a)
+
+w § 1 zdanie pierwsze otrzymuje brzmienie: „ W razie powtórnego wydania postanowienia o odmowie wszczęcia lub o umorzeniu postępowania w wypadku, o którym mowa w art. 330 § 2, pokrzywdzony może w terminie miesiąca od doręczenia mu zawiadomienia o postanowieniu prokuratora nadrzędnego o utrzymaniu w mocy zaskarżonego postanowienia wnieść akt oskarżenia do sądu, dołączając po jednym odpisie dla każdego oskarżonego oraz dla prokuratora. ” ,
+
+### b)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Akt oskarżenia wniesiony przez pokrzywdzonego powinien być sporządzony i podpisany przez adwokata, radcę prawnego albo radcę Prokuratorii Generalnej Rzeczypospolitej Polskiej, z zachowaniem warunków określonych w art. 332 i art. 333 § 1.
+
+” ,
+
+### c)
+
+po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+O wniesieniu aktu oskarżenia zawiadamia się innych pokrzywdzonych znanych sądowi.
+
+” ,
+
+### d)
+
+w § 4 zdanie trzecie otrzymuje brzmienie: „ Cofnięcie aktu oskarżenia przez oskarżyciela publicznego jest dopuszczalne jedynie za zgodą pokrzywdzonego, który wniósł akt oskarżenia, a w razie przyłączenia się do postępowania pokrzywdzonego, o którym mowa w § 3 - również tego pokrzywdzonego. ” ;
+
+### 7)
+
+w art. 56:
+
+### a)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Na postanowienie sądu wydane na podstawie § 1 zażalenie nie przysługuje.
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Na postanowienie sądu wydane na podstawie § 2 przysługuje zażalenie do innego równorzędnego składu tego sądu.
+
+” ;
+
+### 8)
+
+w art. 57 po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+W sprawie, w której oskarżyciel publiczny nie bierze udziału, niestawiennictwo oskarżyciela posiłkowego i jego pełnomocnika na rozprawie głównej bez usprawiedliwienia uważa się za odstąpienie od oskarżenia.
+
+” ;
+
+### 9)
+
+w art. 81a:
+
+### a)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obrony:
+
+### 1)
+
+wniosek o wyznaczenie obrońcy oraz inne dokumenty niezbędne do rozpoznania wniosku mogą być przekazane przez organ prowadzący postępowanie przygotowawcze do właściwego sądu za pośrednictwem telefaksu lub poczty elektronicznej;
+
+### 2)
+
+prezes sądu, sąd lub referendarz sądowy, w sposób wskazany w art. 137, powiadamia oskarżonego oraz obrońcę o wyznaczeniu obrońcy z urzędu.
+
+” ,
+
+### b)
+
+w § 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+tryb przekazywania do sądu wniosku o wyznaczenie obrońcy z urzędu oraz szczegółowy tryb rozpoznawania takiego wniosku
+
+” ;
+
+### 10)
+
+w art. 88 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pełnomocnikiem może być adwokat, radca prawny lub radca Prokuratorii Generalnej Rzeczypospolitej Polskiej. Pełnomocnika z urzędu wyznacza prezes lub referendarz sądowy sądu właściwego do rozpoznania sprawy. Do pełnomocnika stosuje się odpowiednio przepisy art. 77, art. 78, art. 81 § 1a-2, art. 81a § 1-3, art. 83, art. 84, art. 86 § 2 oraz przepisy wydane na podstawie art. 81a § 4.
+
+” ;
+
+### 11)
+
+po art. 95a dodaje się art. 95aa w brzmieniu:
+
+„
+
+### Art. 95aa.
+
+### § 1.
+
+W sprawach wskazanych w art. 4 § 2-4 Kodeksu karnego orzeka na posiedzeniu sąd, który wydał wyrok w pierwszej instancji.
+
+### § 2.
+
+Przy orzekaniu sąd bierze pod uwagę czyn objęty wyrokiem i przypisany sprawcy na podstawie ustaleń faktycznych przyjętych za podstawę tego wyroku.
+
+### § 3.
+
+Na postanowienie przysługuje zażalenie.
+
+” ;
+
+### 12)
+
+w art. 95b po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Do posiedzeń stosuje się odpowiednio przepis art. 358.
+
+” ;
+
+### 13)
+
+art. 96 otrzymuje brzmienie:
+
+„
+
+### Art. 96.
+
+### § 1.
+
+Strony oraz osoby niebędące stronami, jeżeli wykażą interes prawny w rozstrzygnięciu, mają prawo wziąć udział w posiedzeniu wówczas, gdy ustawa tak stanowi, chyba że ich udział jest obowiązkowy. Przepis art. 451 stosuje się odpowiednio.
+
+### § 2.
+
+W pozostałych wypadkach nie zawiadamia się ich o posiedzeniu, a mogą wziąć w nim udział, jeżeli się stawią, chyba że ustawa stanowi inaczej.
+
+” ;
+
+### 14)
+
+po art. 99 dodaje się art. 99a w brzmieniu:
+
+„
+
+### Art. 99a.
+
+### § 1.
+
+Uzasadnienie wyroku sądu pierwszej instancji, w tym wyroku nakazowego i wyroku łącznego, oraz wyroku sądu odwoławczego i wyroku wydanego w postępowaniu o wznowienie postępowania sporządza się na formularzu według ustalonego wzoru.
+
+### § 2.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory formularzy uzasadnień wyroków oraz sposób ich wypełniania, mając na uwadze konieczność zamieszczenia w nich niezbędnych informacji wskazanych w ustawie, w sposób umożliwiający należyte sporządzenie przez uprawnionego środka zaskarżenia, a także właściwe dokonanie kontroli wyroku w razie wniesienia takiego środka.
+
+” ;
+
+### 15)
+
+w art. 100:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Orzeczenie lub zarządzenie wydane na rozprawie ogłasza się ustnie.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Orzeczenie lub zarządzenie wydane na posiedzeniu jawnym ogłasza się ustnie. Jeżeli na ogłoszeniu nikt się nie stawił, można uznać wydane orzeczenie lub zarządzenie za ogłoszone. Przyczynę odstąpienia od ogłoszenia należy wskazać w protokole albo notatce urzędowej z posiedzenia.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Wyrok doręcza się podmiotom uprawnionym do wniesienia środka zaskarżenia, jeżeli ustawa tak stanowi.
+
+” ,
+
+### d)
+
+w § 4 zdanie pierwsze otrzymuje brzmienie: „ Postanowienie albo zarządzenie wydane poza rozprawą, od którego przysługuje środek zaskarżenia, doręcza się podmiotom uprawnionym do wniesienia tego środka, a postanowienie kończące postępowanie jego stronom, chyba że byli obecni przy ogłoszeniu postanowienia albo zarządzenia. ” ,
+
+### e)
+
+§ 6 otrzymuje brzmienie:
+
+„
+
+### § 6.
+
+Jeżeli ustawa nie zwalnia od równoczesnego sporządzenia uzasadnienia, orzeczenie i zarządzenie doręcza się lub ogłasza wraz z uzasadnieniem. W wypadku określonym w art. 98 § 2 po ogłoszeniu postanowienia, na wniosek strony obecnej przy ogłoszeniu tego postanowienia, podaje się ustnie najważniejsze powody rozstrzygnięcia. Obecne strony należy pouczyć o możliwości złożenia takiego wniosku.
+
+” ;
+
+### 16)
+
+w art. 117 po § 3 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Niestawiennictwo strony, która została należycie zawiadomiona o czynności procesowej, niezależnie od jego przyczyny, nie stoi na przeszkodzie przeprowadzeniu tej czynności, jeżeli stawił się jej obrońca lub pełnomocnik. Nie dotyczy to czynności, w której udział strony jest obowiązkowy.
+
+” ;
+
+### 17)
+
+w art. 119 w § 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+oznaczenie oraz adres wnoszącego pismo, a także - w pierwszym piśmie złożonym w sprawie - numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;
+
+” ;
+
+### 18)
+
+w art. 120 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.
+
+” ;
+
+### 19)
+
+w art. 123 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli koniec terminu przypada na dzień uznany przez ustawę za dzień wolny od pracy lub na sobotę, czynność można wykonać następnego dnia, który nie jest dniem wolnym od pracy ani sobotą.
+
+” ;
+
+### 20)
+
+w art. 131 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Wezwania, zawiadomienia oraz inne pisma, od których daty doręczenia biegną terminy, doręcza się przez:
+
+### 1)
+
+operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2018 r. poz. 2188](https://api.sejm.gov.pl/eli/acts/DU/2018/2188/text.html) oraz [z 2019 r. poz. 1051](https://api.sejm.gov.pl/eli/acts/DU/2019/1051/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html));
+
+### 2)
+
+pracownika organu wysyłającego;
+
+### 3)
+
+organ procesowy dokonujący czynności procesowej - w toku tej czynności;
+
+### 4)
+
+Policję - tylko w razie niezbędnej konieczności.
+
+### § 2.
+
+Jeżeli w sprawie ustalono tylu pokrzywdzonych, że ich indywidualne zawiadomienie o przysługujących im uprawnieniach spowodowałoby poważne utrudnienie w prowadzeniu postępowania, zawiadamia się ich poprzez ogłoszenie w prasie, radiu, telewizji lub na stronie internetowej sądu albo prokuratury.
+
+” ;
+
+### 21)
+
+w art. 132 po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.
+
+” ;
+
+### 22)
+
+w art. 133:
+
+### a)
+
+§ 2a otrzymuje brzmienie:
+
+„
+
+### § 2a.
+
+Pismo pozostawione w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, adresowane do:
+
+### 1)
+
+obrońcy albo pełnomocnika będącego adwokatem lub radcą prawnym,
+
+### 2)
+
+osoby, której stan zdrowia uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej
+
+- może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w rozumieniu tej ustawy.
+
+” ,
+
+### b)
+
+po § 2a dodaje się § 2b i 2c w brzmieniu:
+
+„
+
+### § 2b.
+
+Stwierdzenie, że stan zdrowia osoby, która udzieliła pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe, uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej, następuje na podstawie zaświadczenia lekarza podstawowej opieki zdrowotnej wystawionego na wniosek tej osoby lub osoby upoważnionej na podstawie pełnomocnictwa pocztowego. Zaświadczenie wydaje się na czas określony albo bezterminowo. Czynności związane z wydaniem zaświadczenia oraz zaświadczenie są nieodpłatne.
+
+### § 2c.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb wydania zaświadczenia, o którym mowa w § 2b, jego formę oraz wzór zaświadczenia wystawianego w formie papierowej, mając na uwadze konieczność zapewnienia skuteczności dokonania doręczenia oraz właściwej realizacji gwarancji procesowych adresata pisma.
+
+” ;
+
+### 23)
+
+art. 138 otrzymuje brzmienie:
+
+„
+
+### Art. 138.
+
+Strona, a także osoba niebędąca stroną, której prawa zostały naruszone, nieprzebywająca w kraju ani w innym państwie członkowskim Unii Europejskiej, ma obowiązek wskazać adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej; w razie nieuczynienia tego pismo wysłane na ostatnio znany adres w kraju lub w innym państwie członkowskim Unii Europejskiej albo, jeżeli adresu tego nie ma, załączone do akt sprawy uważa się za doręczone.
+
+” ;
+
+### 24)
+
+w art. 139 w § 1 dodaje się zdanie drugie w brzmieniu: „ Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego. ” ;
+
+### 25)
+
+w art. 148a:
+
+### a)
+
+w § 1 zdanie pierwsze otrzymuje brzmienie: „ W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. ” ,
+
+### b)
+
+§ 3 i 4 otrzymują brzmienie:
+
+„
+
+### § 3.
+
+Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.
+
+### § 4.
+
+Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu - w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów - organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:
+
+### 1)
+
+jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka są oskarżonemu znane;
+
+### 2)
+
+w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;
+
+### 3)
+
+z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.
+
+” ;
+
+### 26)
+
+w art. 170:
+
+### a)
+
+w § 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+wniosek dowodowy został złożony po zakreślonym przez organ procesowy terminie, o którym strona składająca wniosek została zawiadomiona.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Nie można oddalić wniosku dowodowego na podstawie § 1 pkt 5 lub 6, jeżeli okoliczność, która ma być udowodniona, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.
+
+” ;
+
+### 27)
+
+w art. 185a:
+
+### a)
+
+w § 2 zdanie pierwsze otrzymuje brzmienie: „ Przesłuchanie przeprowadza sąd na posiedzeniu z udziałem biegłego psychologa niezwłocznie, nie później niż w terminie 14 dni od dnia wpływu wniosku. ” ,
+
+### b)
+
+w § 4 dodaje się zdanie drugie w brzmieniu: „ W takim wypadku przepisu art. 185c nie stosuje się. ” ;
+
+### 28)
+
+w art. 185c:
+
+### a)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+W sprawach o przestępstwa określone w § 1 pokrzywdzonego, który w chwili przesłuchania ukończył 15 lat, przesłuchuje się w charakterze świadka tylko wówczas, gdy jego zeznania mogą mieć istotne znaczenie dla rozstrzygnięcia sprawy, i tylko raz, chyba że wyjdą na jaw istotne okoliczności, których wyjaśnienie wymaga ponownego przesłuchania.
+
+” ,
+
+### b)
+
+§ 2-4 otrzymują brzmienie:
+
+„
+
+### § 2.
+
+Przesłuchanie pokrzywdzonego, o którym mowa w § 1a, w charakterze świadka przeprowadza sąd na posiedzeniu z udziałem biegłego psychologa niezwłocznie, nie później niż w terminie 14 dni od dnia wpływu wniosku. Prokurator, obrońca oraz pełnomocnik pokrzywdzonego mają prawo wziąć udział w przesłuchaniu. Osoba wymieniona w art. 51 § 2 lub osoba pełnoletnia wskazana przez pokrzywdzonego ma prawo również być obecna przy przesłuchaniu, jeżeli nie ogranicza to swobody wypowiedzi przesłuchiwanego. Na rozprawie głównej odtwarza się sporządzony zapis obrazu i dźwięku przesłuchania oraz odczytuje się protokół przesłuchania.
+
+### § 3.
+
+Jeżeli zajdzie konieczność ponownego przesłuchania pokrzywdzonego w charakterze świadka w związku z wyjściem na jaw okoliczności, o których mowa w § 1a, na jego wniosek przesłuchanie przeprowadza się w sposób wskazany w art. 177 § 1a, gdy zachodzi uzasadniona obawa, że bezpośrednia obecność oskarżonego przy przesłuchaniu mogłaby oddziaływać krępująco na zeznania pokrzywdzonego lub wywierać negatywny wpływ na jego stan psychiczny.
+
+### § 4.
+
+Na wniosek pokrzywdzonego należy zapewnić, aby biegły psycholog biorący udział w przesłuchaniu był osobą tej samej płci co pokrzywdzony, chyba że będzie to utrudniać postępowanie.
+
+” ;
+
+### 29)
+
+w art. 193 po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+Do instytucji naukowej lub specjalistycznej oraz do osób, które biorą udział w wydaniu opinii tej instytucji, stosuje się odpowiednio przepisy dotyczące biegłych.
+
+” ;
+
+### 30)
+
+w art. 198:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli jest to niezbędne do wydania opinii, sąd lub prokurator udostępnia biegłemu poszczególne dokumenty z akt sprawy lub uwierzytelnione kopie tych dokumentów. Dokumenty mogą być również udostępnione w postaci elektronicznej. Biegłemu powołanemu z tego względu, że wydana przez innego biegłego opinia jest niepełna lub niejasna albo gdy zachodzi sprzeczność w niej samej lub między różnymi innymi opiniami w tej samej sprawie, przed wydaniem opinii nie udostępnia się tej innej opinii lub tych innych opinii. Inną opinię lub inne opinie można udostępnić biegłemu, w niezbędnym zakresie, tylko w wyjątkowym, szczególnie uzasadnionym wypadku, gdy przedmiot opinii powołanego biegłego bezpośrednio dotyczy treści tej innej opinii lub tych innych opinii.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a i 1b w brzmieniu:
+
+„
+
+### § 1a.
+
+W wypadku udostępnienia biegłemu dokumentów z akt sprawy, również w postaci elektronicznej, lub uwierzytelnionych kopii tych dokumentów, o których mowa w § 1, sporządza się w formie notatki urzędowej wykaz dokumentów, których oryginały, postać elektroniczna lub uwierzytelnione kopie zostały przed wydaniem opinii udostępnione biegłemu. Notatka powinna być podpisana przez osobę sporządzającą z podaniem imienia, nazwiska i stanowiska służbowego oraz załączona do akt sprawy.
+
+### § 1b.
+
+W miarę potrzeby biegłego wzywa się do udziału w przeprowadzeniu dowodów.
+
+” ;
+
+### 31)
+
+w art. 213 w § 1 zdanie pierwsze otrzymuje brzmienie: „ W postępowaniu należy ustalić tożsamość oskarżonego, jego numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osoby nieposiadającej numeru PESEL - numer i nazwę dokumentu stwierdzającego tożsamość oraz nazwę organu, który wydał dokument, a także wiek oskarżonego, jego stosunki rodzinne i majątkowe, wykształcenie, zawód i źródła dochodu, dane o jego karalności oraz w miarę możliwości numer telefonu i telefaksu oraz adres poczty elektronicznej umożliwiające kontaktowanie się z oskarżonym oraz numer identyfikacji podatkowej (NIP), o ile został nadany. ” ;
+
+### 32)
+
+w art. 219 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+W celu znalezienia rzeczy wymienionych w § 1 i pod warunkiem określonym w tym przepisie oraz z uwzględnieniem zasad i granic określonych w art. 227 można też dokonać przeszukania osoby, jej odzieży i podręcznych przedmiotów.
+
+” ;
+
+### 33)
+
+w art. 257:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Stosując tymczasowe aresztowanie, sąd może zastrzec, że środek ten ulegnie zmianie pod warunkiem złożenia, nie później niż w wyznaczonym terminie, określonego poręczenia majątkowego; na uzasadniony wniosek oskarżonego lub jego obrońcy, złożony najpóźniej w ostatnim dniu wyznaczonego terminu, sąd może przedłużyć termin złożenia poręczenia.
+
+” ,
+
+### b)
+
+dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu postanowienia wydanego na podstawie § 2, że sprzeciwia się zmianie środka zapobiegawczego, postanowienie to, w zakresie dotyczącym zmiany tymczasowego aresztowania na poręczenie majątkowe, staje się wykonalne z dniem uprawomocnienia.
+
+” ;
+
+### 34)
+
+w art. 293 w § 3 dodaje się zdanie drugie w brzmieniu: „ Przepis art. 254 § 2 stosuje się odpowiednio. ” ;
+
+### 35)
+
+w art. 299a § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.
+
+” ;
+
+### 36)
+
+w art. 300 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Przed pierwszym przesłuchaniem należy pouczyć podejrzanego o jego uprawnieniach: do składania wyjaśnień, do odmowy składania wyjaśnień lub odmowy odpowiedzi na pytania, do informacji o treści zarzutów i ich zmianach, do składania wniosków o dokonanie czynności śledztwa lub dochodzenia, do korzystania z pomocy obrońcy, w tym do wystąpienia o obrońcę z urzędu w wypadku określonym w art. 78 oraz o treści art. 338b, do końcowego zaznajomienia z materiałami postępowania przygotowawczego, jak również o uprawnieniach określonych w art. 23a § 1, art. 72 § 1, art. 156 § 5 i 5a, art. 301, art. 335, art. 338a i art. 387 oraz o obowiązkach i konsekwencjach wskazanych w art. 74, art. 75, art. 133 § 2, art. 138 i art. 139. Pouczenie należy wręczyć podejrzanemu na piśmie; podejrzany otrzymanie pouczenia potwierdza podpisem.
+
+### § 2.
+
+Przed pierwszym przesłuchaniem albo niezwłocznie po ustaleniu pokrzywdzonego, jeżeli odstępuje się od jego przesłuchania, poucza się pokrzywdzonego o posiadaniu statusu strony procesowej w postępowaniu przygotowawczym oraz o wynikających z tego uprawnieniach, w szczególności: do składania wniosków o dokonanie czynności śledztwa lub dochodzenia i warunkach uczestniczenia w tych czynnościach, określonych w art. 51, art. 52 i art. 315-318, do korzystania z pomocy pełnomocnika, w tym do złożenia wniosku o wyznaczenie pełnomocnika z urzędu w okolicznościach wskazanych w art. 78, jak również o uprawnieniach określonych w art. 23a § 1, art. 156, art. 204, art. 306 i art. 315a oraz o obowiązkach i konsekwencjach wskazanych w art. 138 i art. 139. Pouczenie obejmuje również informację o: możliwościach naprawienia szkody przez oskarżonego lub uzyskania kompensaty państwowej, dostępie do pomocy prawnej, dostępnych środkach ochrony i pomocy, o których mowa w ustawie z dnia 28 listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka ([Dz. U. z 2015 r. poz. 21](https://api.sejm.gov.pl/eli/acts/DU/2015/21/text.html)), pomocy przewidzianej w art. 43 § 8 Kodeksu karnego wykonawczego, możliwości wydania europejskiego nakazu ochrony, organizacjach wsparcia pokrzywdzonych, treści art. 337a oraz możliwości zwrotu kosztów poniesionych w związku z udziałem w postępowaniu. Pouczenie należy wręczyć pokrzywdzonemu na piśmie; pokrzywdzony otrzymanie pouczenia potwierdza podpisem. W razie odstąpienia od przesłuchania pokrzywdzonego pouczenie podlega doręczeniu.
+
+” ;
+
+### 37)
+
+po art. 315 dodaje się art. 315a w brzmieniu:
+
+„
+
+### Art. 315a.
+
+Od przesłuchania pokrzywdzonego w charakterze świadka można odstąpić, jeżeli czynność ta nie jest niezbędna do dokonania ustaleń faktycznych. Pokrzywdzony, który nie był przesłuchany w charakterze świadka, powinien zostać przesłuchany w tym charakterze, jeżeli tego zażąda, chyba że uwzględnienie żądania prowadziłoby do przewlekłości postępowania.
+
+” ;
+
+### 38)
+
+w art. 325h dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Przepis art. 315a stosuje się.
+
+” ;
+
+### 39)
+
+w art. 330 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli organ prowadzący postępowanie nadal nie znajduje podstaw do wniesienia aktu oskarżenia, wydaje ponownie postanowienie o umorzeniu postępowania lub odmowie jego wszczęcia. Postanowienie to podlega zaskarżeniu tylko do prokuratora nadrzędnego. W razie utrzymania w mocy zaskarżonego postanowienia pokrzywdzony, który dwukrotnie wykorzystał uprawnienia przewidziane w art. 306 § 1 i 1a, może wnieść akt oskarżenia określony w art. 55 § 1 - o czym należy go pouczyć.
+
+” ;
+
+### 40)
+
+w art. 332 w § 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego;
+
+” ;
+
+### 41)
+
+w art. 333:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Prokurator może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków, o których mowa w art. 350a.
+
+” ,
+
+### b)
+
+w § 3 dodaje się zdanie drugie w brzmieniu: „ Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić. ” ,
+
+### c)
+
+po § 3 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.
+
+” ;
+
+### 42)
+
+w art. 334 w § 3 zdanie pierwsze otrzymuje brzmienie: „ O przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 343, art. 343a i art. 378a oskarżyciel publiczny zawiadamia oskarżonego i ujawnionego pokrzywdzonego, a także osobę lub instytucję, która złożyła zawiadomienie o przestępstwie. ” ;
+
+### 43)
+
+w art. 337a § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Na wniosek pokrzywdzonego należy poinformować go o zarzutach oskarżenia i ich kwalifikacji prawnej.
+
+” ;
+
+### 44)
+
+w art. 338 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu.
+
+” ;
+
+### 45)
+
+po art. 338a dodaje się art. 338b w brzmieniu:
+
+„
+
+### Art. 338b.
+
+### § 1.
+
+Żądanie, o którym mowa w art. 78 § 1, powinno zostać złożone do sądu w terminie 7 dni od daty doręczenia odpisu aktu oskarżenia. Do żądania należy dołączyć dowody mające wykazać, że oskarżony nie jest w stanie ponieść kosztów obrony bez uszczerbku dla niezbędnego utrzymania siebie i rodziny.
+
+### § 2.
+
+Jeżeli złożenie żądania po terminie spowodowałoby konieczność zmiany terminu rozprawy albo posiedzenia, o którym mowa w art. 341, art. 343 lub art. 343a, żądanie rozpoznaje się niezwłocznie po terminie rozprawy lub posiedzenia. Przepis ten stosuje się odpowiednio, jeżeli żądanie zostało złożone w terminie, lecz nie odpowiada wymaganiom formalnym, o których mowa w art. 120 § 1, lub nie dołączono dowodów, o których mowa w § 1 zdanie drugie.
+
+### § 3.
+
+Po pierwszym terminie rozprawy albo posiedzenia, o którym mowa w art. 341, art. 343 lub art. 343a, żądanie, o którym mowa w art. 78 § 1, powinno zostać złożone do sądu w takim terminie, aby jego rozpoznanie nie powodowało konieczności zmiany kolejnego terminu rozprawy albo posiedzenia. Przepisy § 1 zdanie drugie oraz § 2 stosuje się odpowiednio.
+
+” ;
+
+### 46)
+
+w art. 339 w § 3 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wydania postanowienia o niewłaściwości sądu;
+
+” ;
+
+### 47)
+
+w art. 340 § 2 i 2a otrzymują brzmienie:
+
+„
+
+### § 2.
+
+W razie istnienia podstaw określonych w art. 45a Kodeksu karnego albo art. 43 § 1 lub 2, art. 43a lub art. 47 § 4 Kodeksu karnego skarbowego sąd, umarzając postępowanie lub rozpoznając wniosek prokuratora, o którym mowa w art. 323 § 3, orzeka przepadek.
+
+### § 2a.
+
+Na postanowienie w przedmiocie przepadku przysługuje zażalenie stronom i osobie, od której przedmioty te odebrano lub która zgłosiła do nich roszczenie.
+
+” ;
+
+### 48)
+
+w art. 342 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W wyroku warunkowo umarzającym postępowanie należy dokładnie określić czyn przypisany oskarżonemu, jego kwalifikację prawną oraz oznaczyć okres próby.
+
+” ;
+
+### 49)
+
+w art. 343 § 5a otrzymuje brzmienie:
+
+„
+
+### § 5a.
+
+Przed uwzględnieniem wniosku, o którym mowa w art. 335, sąd poucza obecnego oskarżonego o treści art. 447 § 5.
+
+” ;
+
+### 50)
+
+w art. 343a § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W wypadku złożenia przez oskarżonego wniosku, o którym mowa w art. 338a, o terminie posiedzenia zawiadamia się strony i pokrzywdzonego, przesyłając im odpis wniosku.
+
+” ;
+
+### 51)
+
+po art. 343a dodaje się art. 343b w brzmieniu:
+
+„
+
+### Art. 343b.
+
+Postanowienia o nieuwzględnieniu wniosków, o których mowa w art. 335, art. 336 § 1 i art. 338a, mogą być również wydane na posiedzeniu, o którego terminie nie zawiadomiono uczestników uprawnionych do stawiennictwa.
+
+” ;
+
+### 52)
+
+po art. 350 dodaje się art. 350a w brzmieniu:
+
+„
+
+### Art. 350a.
+
+Przewodniczący składu orzekającego może zaniechać wezwania na rozprawę świadków, którzy zostali przesłuchani, przebywających za granicą lub mających stwierdzić okoliczności, które nie są tak doniosłe, aby konieczne było bezpośrednie przesłuchanie świadków na rozprawie, w szczególności takie, którym oskarżony w wyjaśnieniach swych nie zaprzeczył. Nie dotyczy to osób wymienionych w art. 182.
+
+” ;
+
+### 53)
+
+w art. 352 zdanie drugie otrzymuje brzmienie: „ Przepis art. 368 § 1 stosuje się odpowiednio. ” ;
+
+### 54)
+
+w art. 353:
+
+### a)
+
+§ 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Doręczając oskarżonemu wezwanie na rozprawę albo zawiadomienie o jej terminie, poucza się go o treści przepisów art. 100 § 3 i 4, art. 374, art. 376, art. 377, art. 378a, art. 419 § 1, art. 422 i art. 447 § 5.
+
+” ,
+
+### b)
+
+§ 5 otrzymuje brzmienie:
+
+„
+
+### § 5.
+
+Wniosek o doprowadzenie na rozprawę złożony po terminie, o którym mowa w § 3, podlega rozpoznaniu, jeżeli nie powoduje to konieczności zmiany terminu rozprawy.
+
+” ;
+
+### 55)
+
+w art. 368 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Wniosku o dopuszczenie tego samego dowodu, zgłoszonego ponownie po oddaleniu w postępowaniu przed sądem poprzedniego wniosku, nie rozpoznaje się, jeżeli został on oparty na tych samych podstawach faktycznych. Wzmiankę o tym zamieszcza się w protokole.
+
+” ;
+
+### 56)
+
+w art. 377 w § 3 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli oskarżony, którego obecność na rozprawie lub posiedzeniu jest obowiązkowa, zawiadomiony o terminie rozprawy lub posiedzenia oświadcza, że nie weźmie udziału w rozprawie lub posiedzeniu, uniemożliwia doprowadzenie go na rozprawę lub posiedzenie albo zawiadomiony o nich osobiście nie stawia się na rozprawę lub posiedzenie bez usprawiedliwienia, sąd może prowadzić postępowanie bez jego udziału; sąd może jednak zarządzić zatrzymanie i przymusowe doprowadzenie oskarżonego. ” ;
+
+### 57)
+
+po art. 378 dodaje się art. 378a w brzmieniu:
+
+„
+
+### Art. 378a.
+
+### § 1.
+
+Jeżeli oskarżony lub obrońca nie stawił się na rozprawę, będąc zawiadomiony o jej terminie, sąd, w szczególnie uzasadnionych wypadkach, może przeprowadzić postępowanie dowodowe podczas jego nieobecności, chociażby usprawiedliwił należycie niestawiennictwo, a w szczególności przesłuchać świadków, którzy stawili się na rozprawę, nawet jeżeli oskarżony nie złożył jeszcze wyjaśnień.
+
+### § 2.
+
+W wypadku, o którym mowa w § 1, oskarżonego lub obrońcę należy wezwać lub zawiadomić o nowym terminie rozprawy, jeżeli termin ten nie był im znany. Przy doręczeniu wezwania lub zawiadomienia należy również doręczyć pouczenie, o którym mowa w § 7.
+
+### § 3.
+
+Jeżeli sąd przeprowadził postępowanie dowodowe podczas nieobecności oskarżonego lub obrońcy w wypadku, o którym mowa w § 1, oskarżony lub obrońca może najpóźniej na kolejnym terminie rozprawy, o którym był należycie zawiadomiony przy jednoczesnym braku procesowych przeszkód do jego stawiennictwa, złożyć wniosek o uzupełniające przeprowadzenie dowodu przeprowadzonego podczas jego nieobecności. Prawo do złożenia wniosku nie przysługuje, jeżeli okaże się, że nieobecność oskarżonego lub obrońcy na terminie rozprawy, na którym przeprowadzono postępowanie dowodowe na podstawie § 1, była nieusprawiedliwiona.
+
+### § 4.
+
+W razie niezłożenia wniosku w terminie, o którym mowa w § 3 zdanie pierwsze, prawo do jego złożenia wygasa i w dalszym postępowaniu nie jest dopuszczalne podnoszenie zarzutu naruszenia gwarancji procesowych, w szczególności prawa do obrony, wskutek przeprowadzenia tego dowodu podczas nieobecności oskarżonego lub obrońcy.
+
+### § 5.
+
+We wniosku o uzupełniające przeprowadzenie dowodu oskarżony lub obrońca ma obowiązek wykazać, że sposób przeprowadzenia dowodu podczas jego nieobecności naruszał gwarancje procesowe, w szczególności prawo do obrony.
+
+### § 6.
+
+W razie uwzględnienia wniosku o uzupełniające przeprowadzenie dowodu sąd przeprowadza dowód uzupełniająco, jedynie w zakresie, w którym wykazano naruszenie gwarancji procesowych, w szczególności prawa do obrony.
+
+### § 7.
+
+Jeżeli oskarżony lub obrońca stawi się na termin rozprawy, o którym mowa w § 3 zdanie pierwsze, przewodniczący poucza go o możliwości złożenia wniosku o uzupełniające przeprowadzenie dowodu przeprowadzonego podczas jego nieobecności oraz o treści przepisów § 4 i 5, a także umożliwia mu wypowiedzenie się co do tej kwestii.
+
+” ;
+
+### 58)
+
+w art. 384 w § 2 zdanie pierwsze otrzymuje brzmienie: „ Pokrzywdzony może wziąć udział w rozprawie, jeżeli się stawi, i pozostać na sali, choćby miał składać zeznania jako świadek. ” ;
+
+### 59)
+
+w art. 386 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli oskarżony bierze udział w rozprawie głównej, przewodniczący, po przedstawieniu zarzutów oskarżenia, poucza go o prawie składania wyjaśnień, odmowy wyjaśnień lub odpowiedzi na pytania, składania wniosków dowodowych i konsekwencjach nieskorzystania z tego uprawnienia, po czym pyta go, czy przyznaje się do zarzucanego mu czynu oraz czy chce złożyć wyjaśnienia i jakie.
+
+” ;
+
+### 60)
+
+w art. 387 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Przed uwzględnieniem wniosku o wydanie wyroku skazującego sąd poucza obecnego oskarżonego o treści art. 447 § 5.
+
+” ;
+
+### 61)
+
+w art. 391 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli świadek bezpodstawnie odmawia zeznań, zeznaje odmiennie niż poprzednio albo oświadczy, że pewnych okoliczności nie pamięta, albo przebywa za granicą lub nie można mu było doręczyć wezwania, albo nie stawił się z powodu niedających się usunąć przeszkód lub przewodniczący zaniechał wezwania świadka na podstawie art. 350a, a także wtedy, gdy świadek zmarł, wolno odczytywać w odpowiednim zakresie protokoły złożonych poprzednio przez niego zeznań w postępowaniu przygotowawczym lub przed sądem w tej lub innej sprawie albo w innym postępowaniu przewidzianym przez ustawę.
+
+” ;
+
+### 62)
+
+w art. 394:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Dane dotyczące osoby oskarżonego oraz wyniki wywiadu środowiskowego odczytuje się na żądanie oskarżonego lub obrońcy.
+
+” ,
+
+### b)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Protokoły i dokumenty podlegające odczytaniu na rozprawie odczytuje się:
+
+### 1)
+
+na wniosek strony, która nie miała możliwości zapoznania się z ich treścią; przepis art. 392 § 2 stosuje się odpowiednio, lub
+
+### 2)
+
+gdy sąd uzna to za niezbędne.
+
+” ;
+
+### 63)
+
+po art. 394 dodaje się art. 394a w brzmieniu:
+
+„
+
+### Art. 394a.
+
+Protokoły i dokumenty, o których mowa w art. 389 § 1 i 3, art. 391 § 1 i 2, art. 392 § 1, art. 393, art. 393a i art. 394 § 1, odczytuje przewodniczący lub na jego zarządzenie członek składu orzekającego bądź protokolant.
+
+” ;
+
+### 64)
+
+art. 395 otrzymuje brzmienie:
+
+„
+
+### Art. 395.
+
+Jeżeli nie stoją temu na przeszkodzie właściwości dowodów rzeczowych, na wniosek strony lub gdy sąd uzna to za niezbędne, sprowadza się je na salę rozpraw i udostępnia stronom, a w razie potrzeby - świadkom i biegłym.
+
+” ;
+
+### 65)
+
+w art. 396:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli strona wniosła o sprowadzenie dowodu rzeczowego lub sąd uznał to za niezbędne, a zapoznanie się z dowodem rzeczowym przez pełny skład sądu napotyka znaczne trudności albo jeżeli strony wyrażają na to zgodę, sąd wyznacza do tej czynności sędziego ze swego składu albo sąd wezwany.
+
+” ,
+
+### b)
+
+po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Przepis § 1 stosuje się odpowiednio w razie dopuszczenia dowodu z oględzin.
+
+” ,
+
+### c)
+
+w § 3 zdanie pierwsze otrzymuje brzmienie: „ W czynnościach wskazanych w § 1-2 mają prawo brać udział strony, obrońcy i pełnomocnicy. ” ,
+
+### d)
+
+§ 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Sędzia wyznaczony lub sąd wezwany może przeprowadzić także inny dowód, którego potrzeba wyłoni się w toku czynności wskazanych w § 1-2.
+
+” ;
+
+### 66)
+
+w art. 401 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Każdorazowa przerwa w rozprawie może trwać nie dłużej niż 42 dni.
+
+” ;
+
+### 67)
+
+w art. 405 dotychczasową treść oznacza się jako § 1 i dodaje się § 2-4 w brzmieniu:
+
+„
+
+### § 2.
+
+Z chwilą zamknięcia przewodu sądowego ujawnione są bez odczytywania wszystkie protokoły i dokumenty podlegające odczytaniu na rozprawie, które nie zostały odczytane.
+
+### § 3.
+
+Protokołami i dokumentami, o których mowa w § 2, są protokoły i dokumenty:
+
+### 1)
+
+wskazane przez oskarżyciela w akcie oskarżenia jako dowody, których przeprowadzenia na rozprawie głównej się on domaga, z wyjątkiem tych, co do których sąd oddalił wniosek dowodowy;
+
+### 2)
+
+wskazane we wniosku dowodowym strony, który został uwzględniony;
+
+### 3)
+
+dopuszczone przez sąd z urzędu.
+
+### § 4.
+
+O ujawnieniu bez odczytywania protokołów i dokumentów zamieszcza się wzmiankę w protokole rozprawy. Wskazywanie poszczególnych protokołów i dokumentów nie jest konieczne.
+
+” ;
+
+### 68)
+
+w art. 418:
+
+### a)
+
+po § 1a dodaje się § 1b w brzmieniu:
+
+„
+
+### § 1b.
+
+Jeżeli ze względu na obszerność wyroku jego ogłoszenie wymagałoby zarządzenia przerwy lub odroczenia rozprawy, przewodniczący, ogłaszając wyrok, może poprzestać na zwięzłym przedstawieniu rozstrzygnięcia sądu oraz zastosowanych przepisów ustawy karnej. Przed ogłoszeniem wyroku przewodniczący uprzedza obecnych o takim sposobie ogłoszenia wyroku i o jego przyczynie oraz poucza o możliwości zapoznania się z pełną treścią wyroku po jego ogłoszeniu w sekretariacie sądu.
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Po ogłoszeniu przewodniczący lub jeden z członków składu orzekającego podaje ustnie najważniejsze powody wyroku, chyba że na ogłoszeniu nikt się nie stawił.
+
+” ;
+
+### 69)
+
+w art. 420 § 1-3 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli wyrok nie zawiera rozstrzygnięcia co do przepadku, zaliczenia okresu rzeczywistego pozbawienia wolności, okresu zatrzymania prawa jazdy lub innego odpowiedniego dokumentu lub okresu stosowania środków zapobiegawczych wymienionych w art. 276, nałożenia obowiązku zwrotu dokumentu uprawniającego do prowadzenia pojazdu albo dowodów rzeczowych, sąd orzeka o tym postanowieniem na posiedzeniu.
+
+### § 2.
+
+Jeżeli sąd nieprawidłowo zaliczył okres rzeczywistego pozbawienia wolności, okres zatrzymania prawa jazdy lub innego odpowiedniego dokumentu lub okres stosowania środków zapobiegawczych wymienionych w art. 276, stosuje się odpowiednio przepis § 1.
+
+### § 3.
+
+Strony mają prawo wziąć udział w posiedzeniu, jeżeli jego przedmiotem jest rozstrzygnięcie co do przepadku albo dowodów rzeczowych. Oskarżonego pozbawionego wolności sprowadza się na posiedzenie tylko wtedy, gdy prezes sądu lub sąd uzna to za konieczne.
+
+” ;
+
+### 70)
+
+w art. 423 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Uzasadnienie wyroku powinno być sporządzone w ciągu 14 dni od daty wpływu do sądu wniosku o sporządzenie uzasadnienia, a w wypadku sporządzenia uzasadnienia z urzędu - od daty ogłoszenia wyroku; w sprawie zawiłej lub z innej ważnej przyczyny, w razie niemożności sporządzenia uzasadnienia w terminie, prezes sądu może przedłużyć ten termin na czas oznaczony.
+
+” ;
+
+### 71)
+
+w art. 426 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Od postanowienia o zastosowaniu tymczasowego aresztowania wydanego na skutek zażalenia, a także od wydanego w toku postępowania odwoławczego postanowienia o przeprowadzeniu obserwacji, zastosowaniu środka zapobiegawczego, nałożeniu kary porządkowej, zawieszeniu postępowania oraz w przedmiocie kosztów procesu, o których po raz pierwszy orzekał sąd odwoławczy, przysługuje zażalenie do innego równorzędnego składu sądu odwoławczego. Jeżeli zaskarżone postanowienie wydał sąd w składzie jednego sędziego, zażalenie rozpoznaje sąd odwoławczy w składzie trzech sędziów, chyba że zażalenie dotyczy postanowienia o nałożeniu kary porządkowej lub w przedmiocie kosztów procesu.
+
+” ;
+
+### 72)
+
+w art. 427 po § 3 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+W środku odwoławczym nie można podnosić zarzutu nieprzeprowadzenia dowodu z urzędu, chyba że okoliczność, która ma być udowodniona, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.
+
+” ;
+
+### 73)
+
+w art. 437 w § 1 skreśla się zdanie drugie;
+
+### 74)
+
+w art. 438:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+obrazy przepisów prawa materialnego w zakresie kwalifikacji prawnej czynu przypisanego oskarżonemu;
+
+” ,
+
+### b)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+obrazy przepisów prawa materialnego w innym wypadku niż wskazany w pkt 1, chyba że pomimo błędnej podstawy prawnej orzeczenie odpowiada prawu;
+
+” ;
+
+### 75)
+
+w art. 442 w § 3 dodaje się zdanie drugie i trzecie w brzmieniu: „ Wskazania sądu odwoławczego co do dalszego postępowania mogą dotyczyć wyłącznie dowodów i innych czynności, które powinny być przeprowadzone, lub okoliczności, które należy wyjaśnić. Wskazania sądu odwoławczego nie mogą dotyczyć sposobu oceny poszczególnych dowodów. ” ;
+
+### 76)
+
+po art. 443 dodaje się art. 443a w brzmieniu:
+
+„
+
+### Art. 443a.
+
+### § 1.
+
+Do zaskarżenia uzasadnienia orzeczenia stosuje się odpowiednio przepisy art. 438 i art. 440.
+
+### § 2.
+
+Środkiem odwoławczym od uzasadnienia orzeczenia jest zażalenie, jeżeli nie wniesiono apelacji. W razie wniesienia apelacji i zażalenia - zażalenie rozpoznaje sąd odwoławczy łącznie z apelacją.
+
+### § 3.
+
+Strony mają prawo wziąć udział w posiedzeniu sądu odwoławczego rozpoznającego zażalenie. Przepis art. 451 stosuje się odpowiednio.
+
+### § 4.
+
+Po rozpoznaniu środka odwoławczego od uzasadnienia sąd orzeka o utrzymaniu w mocy lub zmianie zaskarżonego uzasadnienia w całości lub w części.
+
+” ;
+
+### 77)
+
+w art. 446 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Apelacja od wyroku sądu okręgowego, która nie pochodzi od prokuratora, powinna być sporządzona i podpisana przez adwokata, radcę prawnego albo radcę Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+
+” ;
+
+### 78)
+
+w art. 447 dodaje się § 6 w brzmieniu:
+
+„
+
+### § 6.
+
+Podstawą apelacji nie mogą być wyłącznie zarzuty, których uwzględnienie mogłoby nastąpić w trybie określonym w art. 105, art. 420 lub art. 626. Przepisy art. 118 § 1 i 2 stosuje się.
+
+” ;
+
+### 79)
+
+w art. 449 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli postępowanie przygotowawcze zakończyło się w formie dochodzenia oraz w sprawach z oskarżenia prywatnego, sąd odwoławczy orzeka na rozprawie jednoosobowo, chyba że zaskarżone orzeczenie sąd pierwszej instancji wydał w innym składzie niż w składzie jednego sędziego.
+
+” ;
+
+### 80)
+
+w art. 449a:
+
+### a)
+
+w § 1 dodaje się zdanie drugie w brzmieniu: „ Kwestie te mogą dotyczyć uzupełnienia zakresu uzasadnienia o inne części wyroku w wypadkach, o których mowa w art. 423 § 1a, lub uzupełnienia treści zawartych w uzasadnieniu w tym zakresie, w jakim zostało ono sporządzone. ” ,
+
+### b)
+
+dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Strona, która wniosła apelację, może ją uzupełnić w terminie 14 dni od daty doręczenia jej uzupełnionego uzasadnienia.
+
+” ;
+
+### 81)
+
+w art. 452:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Sąd odwoławczy oddala wniosek dowodowy również, jeżeli:
+
+### 1)
+
+przeprowadzenie dowodu przez ten sąd byłoby niecelowe z przyczyn określonych w art. 437 § 2 zdanie drugie;
+
+### 2)
+
+dowód nie był powołany przed sądem pierwszej instancji, pomimo że składający wniosek mógł go wówczas powołać, lub okoliczność, która ma być udowodniona, dotyczy nowego faktu, niebędącego przedmiotem postępowania przed sądem pierwszej instancji, a składający wniosek mógł go wówczas wskazać.
+
+” ,
+
+### b)
+
+dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Wniosku dowodowego nie można oddalić na podstawie § 2 pkt 2, jeżeli okoliczność, która ma być udowodniona, w granicach rozpoznania sprawy przez sąd odwoławczy, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.
+
+” ;
+
+### 82)
+
+w art. 453 po § 1 dodaje się § 1a w brzmieniu:
+
+„
+
+### § 1a.
+
+Jeżeli na rozprawę stawili się jedynie uczestnicy postępowania, sąd może na wniosek lub za zgodą obecnych stron odstąpić od ustnego sprawozdania. Jeżeli na rozprawę nie stawił się nikt, sąd może odstąpić od ustnego sprawozdania. W tych wypadkach przewód sądowy rozpoczyna ogłoszenie postanowienia o odstąpieniu od ustnego sprawozdania.
+
+” ;
+
+### 83)
+
+w art. 454:
+
+### a)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd odwoławczy nie może skazać oskarżonego, który został uniewinniony w pierwszej instancji lub co do którego w pierwszej instancji umorzono postępowanie.
+
+” ,
+
+### b)
+
+uchyla się § 3;
+
+### 84)
+
+w art. 491 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Niestawiennictwo oskarżyciela prywatnego i jego pełnomocnika na posiedzenie pojednawcze bez usprawiedliwienia uważa się za odstąpienie od oskarżenia; w takim wypadku prowadzący posiedzenie postępowanie umarza.
+
+” ;
+
+### 85)
+
+w art. 496 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Niestawiennictwo oskarżyciela prywatnego i jego pełnomocnika na rozprawie głównej bez usprawiedliwienia uważa się za odstąpienie od oskarżenia.
+
+” ;
+
+### 86)
+
+art. 505 otrzymuje brzmienie:
+
+„
+
+### Art. 505.
+
+### § 1.
+
+Odpis wyroku nakazowego doręcza się oskarżycielowi i pokrzywdzonemu, a oskarżonemu i jego obrońcy - wraz z odpisem aktu oskarżenia. W każdym wypadku odpis tego wyroku doręcza się prokuratorowi.
+
+### § 2.
+
+Wraz z odpisem wyroku należy doręczyć pouczenie przytaczające przepisy o prawie, terminie i sposobie wniesienia sprzeciwu oraz skutkach jego niewniesienia. Pokrzywdzonego należy ponadto pouczyć, że warunkiem wniesienia sprzeciwu jest złożenie w terminie, o którym mowa w art. 506 § 1, nie później niż jednocześnie ze sprzeciwem oświadczenia, że będzie on działał w charakterze oskarżyciela posiłkowego.
+
+### § 3.
+
+Przepisy art. 131 § 2 i 3 stosuje się odpowiednio.
+
+” ;
+
+### 87)
+
+w art. 517h § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Wniosek o sporządzenie na piśmie i doręczenie uzasadnienia wyroku może być złożony na piśmie w terminie zawitym 3 dni od daty ogłoszenia wyroku, a jeżeli ustawa przewiduje doręczenie wyroku - od daty jego doręczenia. Wniosek można również złożyć ustnie do protokołu rozprawy lub posiedzenia.
+
+” ;
+
+### 88)
+
+w art. 517i § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli po rozpoznaniu środka odwoławczego sąd stwierdza, że zachodzi potrzeba uzupełnienia postępowania dowodowego, a dokonanie niezbędnych czynności przez sąd powodowałoby znaczne trudności, może - uchylając wyrok - przekazać sprawę prokuratorowi w celu przeprowadzenia postępowania przygotowawczego na zasadach ogólnych.
+
+” ;
+
+### 89)
+
+w art. 521 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Prokurator Generalny, a także Rzecznik Praw Obywatelskich może wnieść kasację od każdego prawomocnego orzeczenia sądu kończącego postępowanie.
+
+” ;
+
+### 90)
+
+w art. 523 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Ograniczenia, o którym mowa w § 1 zdanie drugie, nie stosuje się do kasacji wniesionej przez Prokuratora Generalnego w sprawach o zbrodnie.
+
+” ;
+
+### 91)
+
+w art. 524 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Terminu do wniesienia kasacji wskazanego w § 1 nie stosuje się do kasacji wnoszonej przez Prokuratora Generalnego, Rzecznika Praw Obywatelskich i Rzecznika Praw Dziecka.
+
+” ;
+
+### 92)
+
+w art. 526 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli kasacja nie pochodzi od prokuratora, Prokuratora Generalnego, Rzecznika Praw Obywatelskich albo Rzecznika Praw Dziecka, powinna być sporządzona i podpisana przez adwokata, radcę prawnego albo radcę Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+
+” ;
+
+### 93)
+
+w art. 535 § 5 otrzymuje brzmienie:
+
+„
+
+### § 5.
+
+Kasacja może być uwzględniona w całości na posiedzeniu bez udziału stron w razie jej oczywistej zasadności.
+
+” ;
+
+### 94)
+
+po art. 537 dodaje się art. 537a w brzmieniu:
+
+„
+
+### Art. 537a.
+
+Nie można uchylić wyroku sądu odwoławczego z tego powodu, że jego uzasadnienie nie spełnia wymogów określonych w art. 457 § 3.
+
+” ;
+
+### 95)
+
+w art. 545 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Wniosek o wznowienie postępowania, jeżeli nie pochodzi od prokuratora, powinien być sporządzony i podpisany przez adwokata, radcę prawnego albo radcę Prokuratorii Generalnej Rzeczypospolitej Polskiej. Przepisy art. 446 stosuje się odpowiednio.
+
+” ;
+
+### 96)
+
+w art. 547 dodaje się § 5 w brzmieniu:
+
+„
+
+### § 5.
+
+Wyrok wydany na posiedzeniu doręcza się stronom.
+
+” ;
+
+### 97)
+
+w art. 552 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Oskarżonemu, który w wyniku wznowienia postępowania, kasacji lub skargi nadzwyczajnej został uniewinniony lub skazany na łagodniejszą karę, służy od Skarbu Państwa odszkodowanie za poniesioną szkodę oraz zadośćuczynienie za doznaną krzywdę, wynikłe z wykonania względem niego w całości lub w części kary, której nie powinien był ponieść.
+
+” ;
+
+### 98)
+
+w art. 554:
+
+### a)
+
+po § 2 dodaje się § 2a i 2b w brzmieniu:
+
+„
+
+### § 2a.
+
+Stronami w postępowaniu są: wnioskodawca, prokurator oraz Skarb Państwa.
+
+### § 2b.
+
+Organem reprezentującym Skarb Państwa jest:
+
+### 1)
+
+prezes sądu, w którym wydano ostatnie orzeczenie kończące postępowanie w przedmiocie odpowiedzialności karnej, stosowania środka zapobiegawczego, środka zabezpieczającego lub zatrzymania, albo
+
+### 2)
+
+prezes sądu pierwszej instancji, w którym wydano zmienione orzeczenie - jeżeli orzeczeniem, o którym mowa w pkt 1, zmieniono orzeczenie sądu pierwszej instancji i zastosowano środek, w związku z którym nie przysługuje odszkodowanie w myśl niniejszego rozdziału, albo
+
+### 3)
+
+organ, który dokonał zatrzymania - jeżeli sąd uwzględnił zażalenie na zatrzymanie albo jeżeli sąd nie rozpoznawał zażalenia na zatrzymanie.
+
+” ,
+
+### b)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+O terminie rozprawy zawiadamia się wnioskodawcę, prokuratora oraz organ reprezentujący Skarb Państwa, przesyłając odpis wniosku.
+
+” ;
+
+### 99)
+
+w art. 607e po § 3 dodaje się § 3a w brzmieniu:
+
+„
+
+### § 3a.
+
+Osoba ścigana nie może cofnąć zgody ani oświadczenia, o których mowa w § 3 pkt 6 i 7.
+
+” ;
+
+### 100)
+
+w art. 611 § 5 otrzymuje brzmienie:
+
+„
+
+### § 5.
+
+Jeżeli nie można ustalić właściwości według zasad określonych w § 2, sprawę rozpoznaje sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy.
+
+” ;
+
+### 101)
+
+w art. 632a dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W razie umorzenia postępowania ze względu na cofnięcie wniosku o ściganie po rozpoczęciu przewodu sądowego sąd może orzec, że koszty procesu ponosi w całości lub w części oskarżony.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy ([Dz. U. z 2019 r. poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2019/676/text.html) i [679](https://api.sejm.gov.pl/eli/acts/DU/2019/679/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 9 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Wyrok oraz postanowienia wydane w trybie art. 420 Kodeksu postępowania karnego, dotyczące przepadku albo dowodów rzeczowych, stają się wykonalne z chwilą uprawomocnienia, chyba że ustawa stanowi inaczej.
+
+” ;
+
+### 2)
+
+w art. 28 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Orzeczone w stosunku do jednego z małżonków, pozostających we wspólności majątkowej, kary grzywny, nawiązki i należności sądowe podlegają zaspokojeniu z osobistego majątku skazanego oraz z wynagrodzenia za pracę lub za inne usługi świadczone przez niego osobiście, jak również z praw twórcy wynalazku, wzoru użytkowego oraz projektu racjonalizatorskiego. Jeżeli zaspokojenie z tych źródeł okaże się niemożliwe, egzekucja może być prowadzona z majątku wspólnego. Niemożność zaspokojenia z majątku osobistego skazanego stwierdza się w protokole.
+
+” ;
+
+### 3)
+
+uchyla się art. 152;
+
+### 4)
+
+w art. 182 w § 1 zdanie drugie otrzymuje brzmienie: „ Jeżeli skazany wykonuje zawodowo czynności związane z prowadzeniem pojazdów, o orzeczeniu sąd zawiadamia ponadto bezzwłocznie pracodawcę, u którego skazany jest zatrudniony. ” ;
+
+### 5)
+
+w art. 242 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Określenie „sąd” bez bliższego sprecyzowania oznacza sąd powszechny lub wojskowy określony w art. 3 § 1, z tym zastrzeżeniem, że przepisy art. 6 § 1, art. 7, art. 8 § 2, art. 9 § 3 i 4, art. 10, art. 11 § 1, art. 13, art. 15 oraz art. 18-24 stosuje się odpowiednio do sądu penitencjarnego lub innego sądu właściwego na podstawie niniejszego kodeksu.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2018 r. poz. 1958](https://api.sejm.gov.pl/eli/acts/DU/2018/1958/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520 i 1556.](#gloss-0:2:)) w art. 122 w § 1 w pkt 1 po wyrazach „art. 192 § 2,” dodaje się wyrazy „art. 198 § 1,”.
+
+### Art. 4.
+
+W ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2019 r. poz. 1120](https://api.sejm.gov.pl/eli/acts/DU/2019/1120/text.html), [1123](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.html) i [1556](https://api.sejm.gov.pl/eli/acts/DU/2019/1556/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 16 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Do wyłączenia sędziego i referendarza sądowego stosuje się odpowiednio przepisy art. 40, art. 41, art. 41a i art. 42 § 1-3 Kodeksu postępowania karnego.
+
+” ;
+
+### 2)
+
+w art. 35 uchyla się § 3;
+
+### 3)
+
+w art. 44 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Przepis § 1 stosuje się odpowiednio do przeszukania osoby, jej odzieży lub podręcznych przedmiotów. Przeszukanie osoby odbywa się z uwzględnieniem zasad i granic określonych w art. 227 Kodeksu postępowania karnego.
+
+” ;
+
+### 4)
+
+w art. 59 w § 2 zdanie drugie otrzymuje brzmienie: „ Na postanowienie o odmowie wszczęcia postępowania służy zażalenie ujawnionemu pokrzywdzonemu oraz organowi, który wniósł wniosek o ukaranie. ” ;
+
+### 5)
+
+w art. 107 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Uzasadnienie wyroku zmieniającego lub utrzymującego w mocy wyrok sądu pierwszej instancji sporządza się wyłącznie na żądanie strony, złożone w terminie zawitym 7 dni od daty wydania wyroku przez sąd odwoławczy.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2019 r. poz. 1373](https://api.sejm.gov.pl/eli/acts/DU/2019/1373/text.html), [1394](https://api.sejm.gov.pl/eli/acts/DU/2019/1394/text.html) i [1590](https://api.sejm.gov.pl/eli/acts/DU/2019/1590/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 15 w ust. 2 w pkt 18 kropkę zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu:
+
+„
+
+### 19)
+
+stwierdzenia w związku z wydaniem zaświadczenia, o którym mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. z 2018 r. poz. 1987](https://api.sejm.gov.pl/eli/acts/DU/2018/1987/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html) oraz [z 2019 r. poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2019/150/text.html), [679](https://api.sejm.gov.pl/eli/acts/DU/2019/679/text.html), [1255](https://api.sejm.gov.pl/eli/acts/DU/2019/1255/text.html) i [1694](https://api.sejm.gov.pl/eli/acts/DU/2019/1694/text.html)), że stan zdrowia osoby, która udzieliła pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2018 r. poz. 2188](https://api.sejm.gov.pl/eli/acts/DU/2018/2188/text.html) oraz [z 2019 r. poz. 1051](https://api.sejm.gov.pl/eli/acts/DU/2019/1051/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html)), uniemożliwia lub w znacznym stopniu utrudnia osobiste odebranie pisma w placówce pocztowej.
+
+” ;
+
+### 2)
+
+w art. 97 w ust. 3 w pkt 14 kropkę zastępuje się średnikiem i dodaje się pkt 15 w brzmieniu:
+
+„
+
+### 15)
+
+finansowanie wydawania zaświadczeń, o których mowa w art. 133 § 2b ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, oraz czynności związanych z ich wydawaniem.
+
+” .
+
+### Art. 6.
+
+W razie wątpliwości, czy stosować prawo dotychczasowe, czy przepisy niniejszej ustawy, stosuje się przepisy niniejszej ustawy.
+
+### Art. 7.
+
+Czynności procesowe dokonane przed dniem wejścia w życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+
+### Art. 8.
+
+Przepisy ustaw wymienionych w art. 1-5, w brzmieniu nadanym niniejszą ustawą, stosuje się do spraw wszczętych przed dniem jej wejścia w życie, jeżeli przepisy poniższe nie stanowią inaczej.
+
+### Art. 9.
+
+Jeżeli na podstawie przepisów niniejszej ustawy nastąpiła zmiana właściwości lub składu sądu, do czasu zakończenia postępowania w danej instancji orzeka sąd dotychczas właściwy lub w dotychczasowym składzie.
+
+### Art. 10.
+
+### 1.
+
+Zawiadomień o ukończeniu postępowania określonych w art. 21 § 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz zawiadomień określonych w art. 182 § 1 zdanie drugie ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, dokonuje się, jeżeli postępowanie zostało ukończone po dniu wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Zawiadomień o wszczęciu postępowania określonych w art. 21 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, dokonuje się, jeżeli postępowanie przeciwko osobie nie zostało ukończone przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+Postępowania wszczęte przed dniem wejścia w życie niniejszej ustawy na skutek wniesienia zażalenia na postanowienie o odmowie wszczęcia lub umorzeniu postępowania przygotowawczego do czasu rozpoznania zażalenia prowadzi się na podstawie przepisów dotychczasowych.
+
+### Art. 12.
+
+Zawiadomień określonych w art. 55 § 2a ustawy, o której mowa w art. 1, dokonuje się, jeżeli akt oskarżenia został wniesiony po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 13.
+
+Przepisów art. 198 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się, jeżeli postanowienie o dopuszczeniu dowodu z opinii biegłego zostało wydane przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 14.
+
+W postępowaniach sądowych toczących się w dniu wejścia w życie niniejszej ustawy niezwłocznie po dniu jej wejścia w życie właściwy sąd przekazuje oskarżonemu pisemne pouczenie o treści przepisów wskazanych w art. 353 § 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 15.
+
+Jeżeli w dniu wejścia w życie niniejszej ustawy istnieje obowiązek sporządzenia uzasadnienia wyroku, a do dnia wejścia w życie tej ustawy nie zostało ono sporządzone, do jego sporządzenia stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, chyba że przewodniczący składu orzekającego albo upoważniony sędzia zarządzi sporządzenie uzasadnienia na podstawie przepisów dotychczasowych.
+
+### Art. 16.
+
+W postępowaniach wszczętych przed dniem wejścia w życie niniejszej ustawy na skutek wniesienia apelacji do czasu jej rozpoznania nie stosuje się przepisów art. 427 § 3a, art. 447 § 6 oraz art. 452 § 2 pkt 2 i § 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 17.
+
+Jeżeli stronie, która wniosła apelację, doręczono uzupełnione uzasadnienie w okresie od czternastego dnia przed dniem wejścia w życie niniejszej ustawy do dnia poprzedzającego dzień jej wejścia w życie, termin do uzupełnienia apelacji, określony w art. 449a § 3 ustawy, o której mowa w art. 1, biegnie od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 18.
+
+Przepisów art. 505 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się, jeżeli wyrok nakazowy został wydany przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 19.
+
+Postępowania, o których mowa w rozdziale 58 ustawy, o której mowa w art. 1, toczą się do zakończenia postępowania w danej instancji na podstawie przepisów dotychczasowych.
+
+### Art. 20.
+
+Do wyroku w sprawie o wykroczenie wydanego przed dniem wejścia w życie niniejszej ustawy nie stosuje się przepisu art. 107 § 2 ustawy, o której mowa w art. 4, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 21.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 81a § 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 81a § 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 185d § 2 i art. 300 § 4 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 185d § 2 i art. 300 § 4 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 22.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 14 oraz art. 15, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+
+### 2)
+
+art. 1 pkt 68, który wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694, 1520 i 1556.

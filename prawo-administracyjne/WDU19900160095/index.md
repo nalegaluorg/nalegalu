@@ -8,11 +8,9 @@ pos: 95
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o samorządzie gminnym
-
-*USTAWA z dnia 8 marca 1990 r.*
+# Ustawa z dnia 8 marca 1990 r. o samorządzie terytorialnym
 
 | Pole | Wartość |
 |---|---|
@@ -24,1490 +22,1568 @@ domain: null
 | Data ogłoszenia | 1990-03-08 |
 | Data wydania | 1990-03-19 |
 | Ostatnia zmiana | 2026-03-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900160095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/95/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1990/95/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1990/95) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zakres działania i zadania gminy](#chpt_2) [Rozdział 3 - Władze gminy](#chpt_3) [Rozdział 4 - Przepisy gminne](#chpt_4) [Rozdział 5 - Mienie komunalne](#chpt_5) [Rozdział 6 - Komunalna gospodarka finansowa](#chpt_6) [Rozdział 7 - Związki i porozumienia komunalne](#chpt_7) [Rozdział 8 - Sejmik samorządowy](#chpt_8) [Rozdział 9 - Stowarzyszenia gmin](#chpt_9) [Rozdział 10 - Nadzór nad działalnością komunalną](#chpt_10) [Rozdział 11 - Przepis końcowy](#chpt_11)
 
-1. Mieszkańcy gminy tworzą z mocy prawa wspólnotę samorządową.
+TOC
 
-2. Ilekroć ustawie jest mowa o gminie, należy przez to rozumieć wspólnotę samorządową oraz odpowiednie terytorium.
+## Treść ustawy
 
-**Art. 2.**
+### Rozdział 1 Przepisy ogólne
 
-1. Gmina wykonuje zadania publiczne imieniu własnym i na własną odpowiedzialność.
+### Art. 1.
 
-2. Gmina posiada osobowość prawną.
+### 1.
 
-3. Samodzielność gminy podlega ochronie sądowej.
+Mieszkańcy gminy tworzą z mocy prawa wspólnotę samorządową.
 
-**Art. 3.**
+### 2.
 
-1. O ustroju gminy stanowi jej statut.
+Ilekroć w. niniejszej ustawie jest mowa o gminie, należy przez to rozumieć wspólnotę samorządową oraz odpowiednie terytorium.
 
-2. Projekt statutu gminy powyżej 300 000 mieszkańców podlega uzgodnieniu z Prezesem Rady Ministrów na wniosek ministra właściwego do spraw administracji publicznej.
+### Art. 2.
 
-3. W sprawach spornych rozstrzyga Rada Ministrów.
+### 1.
 
-**Art. 4.**
+Gmina wykonuje zadania publiczne w imieniu własnym i na własną odpowiedzialność.
 
-1. Rada Ministrów, drodze rozporządzenia:
+### 2.
 
-- **1)** tworzy, łączy, dzieli i znosi gminy oraz ustala ich granice;
-- **2)** nadaje gminie lub miejscowości status miasta i ustala jego granice;
-- **3)** ustala i zmienia nazwy gmin oraz siedziby ich władz.
+Gmina posiada osobowość prawną.
 
-2. Rozporządzenie, o którym mowa ust. 1, może być wydane także na wniosek zainteresowanej rady gminy.
+### 3.
 
-3. Ustalenie i zmiana granic gmin dokonywane są sposób zapewniający gminie terytorium możliwie jednorodne ze względu na układ osadniczy i przestrzenny, uwzględniający więzi społeczne, gospodarcze i kulturowe oraz zapewniający zdolność wykonywania zadań publicznych. zmiana dokonywane są sposób uwzględniający infrastrukturę społeczną i techniczną oraz układ urbanistyczny i charakter zabudowy.
+Samodzielność gminy podlega ochronie sądowej.
 
-5. Zmiany, o których mowa ust. 1, następują z dniem 1 stycznia.
+### Art. 3.
 
-**Art. 4a.**
+### 1.
 
-1. Wydanie rozporządzenia, o którym mowa art. 4 ust. 1, wymaga zasięgnięcia przez ministra właściwego do spraw administracji publicznej opinii zainteresowanych rad gmin, poprzedzonych przeprowadzeniem przez te rady konsultacji z mieszkańcami, a przypadku zmian granic gmin naruszających granice powiatów lub województw – dodatkowo opinii odpowiednich rad powiatów lub sejmików województw, z zastrzeżeniem ust. 2.
+o ustroju gminy stanowi jej statut.
 
-2. Konsultacje z mieszkańcami sprawach zmiany granic gmin lub granic miasta polegającej na wyłączeniu obszaru lub części obszaru jednostki pomocniczej gminy i jego włączeniu do sąsiedniej jednostki pomocniczej tej gminy lub do sąsiedniej gminy mogą zostać ograniczone do:
+### 2.
 
-- **1)** mieszkańców jednostki pomocniczej gminy objętych zmianą – przez odpowiednie rady gmin;
-- **2)** mieszkańców gmin objętych zmianą naruszającą granice powiatów lub województw – przez odpowiednie rady powiatów lub sejmiki województw.
+Projekt statutu gminy powyżej 300.000 mieszkańców podlega uzgodnieniu z Prezesem Rady Ministrów.
 
-3. W przypadku niewyrażenia opinii, o której mowa ust. 1, terminie 3 miesięcy od dnia otrzymania wystąpienia o opinię, wymóg zasięgnięcia opinii uznaje się za spełniony.
+### 3.
 
-4. W przypadku przeprowadzenia referendum lokalnego sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy, o którym mowa art. 4c, konsultacji z mieszkańcami, o których mowa ust. 1 i 2, nie przeprowadza się.
+W sprawach spornych rozstrzyga Rada Ministrów.
 
-**Art. 4b.**
+### Art. 4.
 
-1. Wydanie rozporządzenia, o którym mowa art. 4 ust. 1, na wniosek rady gminy wymaga:
+### 1.
 
-- **1)** wniosku rady gminy poprzedzonego przeprowadzeniem przez tę radę konsultacji z mieszkańcami, wraz z uzasadnieniem oraz niezbędnymi dokumentami, mapami i informacjami potwierdzającymi zasadność wniosku;
-- **2)** opinii rad gmin objętych wnioskiem, poprzedzonych przeprowadzeniem przez te rady konsultacji z mieszkańcami, a przypadku zmiany granic gminy naruszającej granice powiatów lub województw – opinii odpowiednich rad powiatów lub sejmików województw;
+Tworzenie, łączenie i znoszenie gmin, ustalanie ich granic i nazw oraz siedzib władz następuje w drodze rozporządzenia Rady Ministrów, po przeprowadzeniu konsultacji z mieszkańcami.
 
-2. Do wniosku i opinii, o których mowa ust. 1, przepisy art. 4a ust. 2 i 3 stosuje się odpowiednio.
+### 2.
 
-3. Rada gminy występuje z wnioskiem, o którym mowa ust. 1, do ministra właściwego do spraw administracji publicznej za pośrednictwem wojewody, terminie do dnia 31 marca.
+Przy tworzeniu, łączeniu, znoszeniu gmin i ustalaniu ich granic należy dążyć do tego, aby gmina obejmowała obszar możliwie jednorodny ze względu na układ osadniczy i przestrzenny oraz więzi społeczne i gospodarcze zapewniające zdolność wykonywania zadań publicznych.
 
-4. Rada Ministrów określi, drodze rozporządzenia, tryb postępowania przy składaniu wniosków, o których mowa ust. 1, oraz dokumenty, które należy dołączyć do wniosku.
+### 3.
 
-**Art. 4c.**
+Nadanie gminie statusu miasta następuje w drodze rozporządzenia Rady Ministrów.
 
-1. W sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy może być przeprowadzone referendum lokalne z inicjatywy mieszkańców.
+### Art. 5.
 
-2. Z inicjatywą przeprowadzenia referendum, o którym mowa ust. 1, wystąpić może jedynie grupa co najmniej 15 obywateli, o której mowa art. 11 ust. 1a ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. z 2025 r. poz. 472).
+### 1.
 
-3. Referendum, o którym mowa ust. 1, nie przeprowadza się, jeżeli z analizy przeprowadzonej przed referendum wynika, iż na skutek podziału lub ustalenia nowych granic gminy:
+W gminie mogą być tworzone jednostki pomocnicze: sołectwa oraz dzielnice miejskie i osiedla.
 
-- **1)** dochody podatkowe na mieszkańca gminy zmienionych granicach lub gminy utworzonej byłyby niższe od najniższych dochodów podatkowych na mieszkańca ustalonych dla poszczególnych gmin zgodnie z ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717);
-- **2)** gmina zmienionych granicach lub gmina utworzona byłaby mniejsza od najmniejszej pod względem liczby mieszkańców gminy Polsce według stanu na dzień 31 grudnia roku poprzedzającego ogłoszenie rozporządzenia, o którym mowa art. 4.
+### 2.
 
-4. Analizy, o której mowa ust. 3, dokonuje właściwy wojewoda.
+Sołectwo lub dzielnicę (osiedle) tworzy rada gminy w drodze uchwały po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy.
 
-5. W przypadku przeprowadzania z inicjatywy mieszkańców referendum, o którym mowa ust. 1, pytanie zawarte we wniosku, o którym mowa art. 15 ust. 2 ustawy z dnia 15 września 2000 r. o referendum lokalnym, powinno określać szczegółowo proponowane zmiany podziale terytorialnym państwa.
+### 3.
 
-6. Wojewoda przekazuje ministrowi właściwemu do spraw administracji publicznej informację o publikacji wojewódzkim dzienniku urzędowym protokołu wyniku referendum, o którym mowa ust. 1. ust. 1 pkt 1, jeżeli:
+Zasady tworzenia jednostek pomocniczych określa statut gminy.
 
-- **1)** dochody podatkowe na mieszkańca gminy zmienionych granicach lub gminy utworzonej byłyby niższe od najniższych dochodów podatkowych na mieszkańca ustalonych dla poszczególnych gmin zgodnie z ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego;
-- **2)** gmina zmienionych granicach lub gmina utworzona byłaby mniejsza od najmniejszej pod względem liczby mieszkańców gminy Polsce według stanu na dzień 31 grudnia roku poprzedzającego ogłoszenie rozporządzenia, o którym mowa art. 4.
+### 4.
 
-**Art. 4e.**
+W miastach, w których istniały w dniu 1 stycznia 1990 r. wyodrębnione administracyjnie dzielnice, mogą one uzyskać status gminy. Decyzję w tej kwestii podejmuje Prezes Rady Ministrów po zasięgnięciu opinii zainteresowanych środowisk. Dzielnice stanowiące gminy tworzą obligatoryjny związek gmin.
 
-1. W przypadku łączenia gmin lub tworzenia nowej gminy Prezes Rady Ministrów, na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza pełnomocnika do spraw połączenia gmin lub utworzenia nowej gminy spośród pracowników podległych wojewodzie albo pracowników urzędu gminy, której obszar wchodzi skład łączonej lub nowo tworzonej gminy.
+### Rozdział 2 Zakres działania i zadania gminy
 
-2. Do czasu połączenia gmin lub utworzenia nowej gminy zadaniem pełnomocnika, o którym mowa ust. 1, jest przygotowanie organizacyjne i prawne gminy do wykonywania zadań publicznych, tym przygotowanie projektu uchwały budżetowej gminy trybie i na zasadach określonych przepisach o finansach publicznych.
+### Art. 6.
 
-3. Z dniem połączenia gmin lub utworzenia nowej gminy pełnomocnik, o którym mowa ust. 1, przejmuje wykonywanie zadań i kompetencji ich organów do dnia wyboru nowych organów gminy, a przypadku, o którym mowa art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) – do dnia pierwszej sesji rady gminy zwołanej trybie art. 20 ust. 2ba. Art. 4ea. 1. Gmina powstała wyniku połączenia gmin wstępuje we wszystkie prawa i obowiązki połączonych gmin, tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
+### 1.
 
-2. Organy gminy powstałej wyniku połączenia gmin stają się organami właściwymi lub stronami wszczętych i niezakończonych postępowań administracyjnych i sądowych. o której mowa ust. 1, praw ujawnionych tych księgach lub rejestrach następuje na wniosek gminy.
+Do zakresu działania gminy należą wszystkie sprawy publiczne o znaczeniu lokalnym, nie zastrzeżone ustawami na rzecz innych podmiotów.
 
-4. W przypadku gdy rozporządzenie sprawie połączenia gmin zostało wydane na wniosek poparty przez wszystkie zainteresowane rady gmin, gminy te zawierają porozumienie, o którym mowa art. 44 pkt 2.
+### 2.
 
-5. Akty prawa miejscowego ustanowione przez organy gmin przed połączeniem gmin stają się aktami prawa miejscowego gminy powstałej wyniku połączenia gmin, obowiązującymi na obszarze działania organów, które je ustanowiły, do dnia wejścia życie nowych aktów prawa miejscowego ustanowionych przez organ gminy powstałej wyniku połączenia gmin, jednak nie dłużej niż przez okres 3 lat od dnia połączenia. Art. 4eb. 1. W przypadku zmiany granic gmin polegającej na wyłączeniu części obszaru gminy i jego włączeniu do sąsiedniej gminy, gmina, do której został włączony ten obszar, wstępuje we wszystkie prawa i obowiązki gminy na tym obszarze, tym prawa i obowiązki wynikające z zezwoleń, koncesji oraz innych aktów administracyjnych.
+Jeżeli ustawy nie stanowią inaczej, rozstrzyganie w sprawach, o których mowa w ust. 1, należy do gminy.
 
-2. Akty prawa miejscowego z zakresu planowania i zagospodarowania przestrzennego ustanowione przez organ gminy przed zmianą granic:
+### Art. 7.
 
-- **1)** części dotyczącej obszaru, który został wyłączony z tej gminy, stają się aktami prawa miejscowego gminy, do której ten obszar został włączony i obowiązują do dnia wejścia życie nowych aktów prawa miejscowego ustanowionych przez organ tej gminy, jednak nie dłużej niż przez okres 3 lat od dnia zmiany granic gminy;
-- **2)** części dotyczącej obszaru, który nie został wyłączony z tej gminy, pozostają mocy.
+### 1.
 
-**Art. 4f.** Jeżeli wyniku zmian podziale terytorialnym państwa rada gminy została z mocy prawa rozwiązana na podstawie art. 390 § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej wyznacza osobę, która wykonuje zadania i kompetencje rady gminy do czasu wyboru nowej rady. osiedla i inne. Jednostką pomocniczą może być również położone na terenie gminy miasto. 2. Jednostkę pomocniczą tworzy rada gminy, drodze uchwały, po przeprowadzeniu konsultacji z mieszkańcami lub z ich inicjatywy. 3. Zasady tworzenia, łączenia, podziału oraz znoszenia jednostki pomocniczej określa statut gminy. 4. (uchylony)
+Zaspokajanie zbiorowych potrzeb wspólnoty należy do zadań własnych gminy. W szczególności zadania własne obejmują sprawy:
 
-**Art. 5a.**
+### 1)
 
-1. W wypadkach przewidzianych ustawą oraz innych sprawach ważnych dla gminy mogą być przeprowadzane na jej terytorium konsultacje z mieszkańcami gminy.
+ładu przestrzennego, gospodarki terenami i ochrony środowiska,
 
-2. Zasady i tryb przeprowadzania konsultacji z mieszkańcami gminy określa uchwała rady gminy, z zastrzeżeniem ust. 7.
+### 2)
 
-3. Szczególną formą konsultacji społecznych jest budżet obywatelski.
+gminnych dróg, ulic, mostów, placów oraz organizacji ruchu drogowego,
 
-4. W ramach budżetu obywatelskiego mieszkańcy bezpośrednim głosowaniu decydują corocznie o części wydatków budżetu gminy. Zadania wybrane ramach budżetu obywatelskiego zostają uwzględnione uchwale budżetowej gminy. Rada gminy toku prac nad projektem uchwały budżetowej nie może usuwać lub zmieniać stopniu istotnym zadań wybranych ramach budżetu obywatelskiego.
+### 3)
 
-5. W gminach będących miastami na prawach powiatu utworzenie budżetu obywatelskiego jest obowiązkowe, z tym że wysokość budżetu obywatelskiego wynosi co najmniej 0,5 % wydatków gminy zawartych ostatnim przedłożonym sprawozdaniu z wykonania budżetu.
+wodociągów i zaopatrzenia w wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości oraz urządzeń sanitarnych, wysypisk i utylizacji odpadów komunalnych, zaopatrzenia w energię elektryczną i cieplną,
 
-6. Środki wydatkowane ramach budżetu obywatelskiego mogą być dzielone na pule obejmujące całość gminy i jej części lub kategorie kwotowe projektów dotyczące całości obszaru gminy lub jej części.
+### 4)
 
-7. Rada gminy określa drodze uchwały wymagania, jakie powinien spełniać projekt budżetu obywatelskiego, szczególności:
+lokalnego transportu zbiorowego,
 
-- **1)** wymogi formalne, jakim powinny odpowiadać zgłaszane projekty z uwzględnieniem – o ile jest to możliwe – uniwersalnego projektowania, o którym mowa art. 2 pkt 4 ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2024 r. poz. 1411);
-- **2)** wymaganą liczbę podpisów mieszkańców popierających projekt, przy czym nie może być ona większa niż 0,1 % mieszkańców terenu objętego pulą budżetu obywatelskiego, którym zgłaszany jest projekt; wykonalności technicznej, spełniania przez nie wymogów formalnych oraz tryb odwołania od decyzji o niedopuszczeniu projektu do głosowania;
-- **4)** zasady przeprowadzania głosowania, ustalania wyników i podawania ich do publicznej wiadomości, biorąc pod uwagę, że zasady przeprowadzania głosowania muszą zapewniać równość i bezpośredniość głosowania.
+### 5)
 
-**Art. 5b.**
+ochrony zdrowia,
 
-1. Gmina podejmuje działania na rzecz wspierania i upowszechniania idei samorządowej wśród mieszkańców gminy, szczególności wśród młodzieży, angażując ją sprawy dla niej istotne.
+### 6)
 
-2. Rada gminy może wyrazić zgodę na utworzenie młodzieżowej rady gminy z własnej inicjatywy lub na wniosek:
+pomocy społecznej, w tym ośrodków i zakładów opiekuńczych,
 
-- **1)** wójta;
-- **2)** podmiotów reprezentujących zainteresowane środowiska, szczególności:
-    - **a)** organizacji pozarządowych lub podmiotów określonych art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), działających na terenie danej gminy,
-    - **b)** samorządu uczniowskiego lub samorządu studenckiego z terenu danej gminy.
+### 7)
 
-3. Wniosek, o którym mowa ust. 2, jest rozpatrywany przez radę gminy terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+komunalnego budownictwa mieszkaniowego,
 
-4. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa ust. 2 pkt 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
+### 8)
 
-5. Młodzieżowa rada gminy ma charakter konsultacyjny, doradczy i inicjatywny.
+oświaty, w tym szkół podstawowych, przedszkoli i innych placówek oświatowo-wychowawczych,
 
-6. Młodzieżowa rada gminy może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy lub odrębna uchwała rady gminy.
+### 9)
 
-7. W sprawach dotyczących gminy młodzieżowa rada gminy może kierować zapytania lub wnioski formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż terminie 30 dni od dnia otrzymania uchwały.
+kultury, w tym bibliotek komunalnych i innych placówek upowszechniania kultury,
 
-8. Do zadań młodzieżowej rady gminy należy szczególności:
+### 10)
 
-- **1)** opiniowanie projektów uchwał dotyczących młodzieży;
-- **3)** monitorowanie realizacji dokumentów strategicznych gminy na rzecz młodzieży;
-- **4)** podejmowanie działań na rzecz młodzieży, szczególności zakresie edukacji obywatelskiej, na zasadach określonych przez radę gminy.
+kultury fizycznej, w tym terenów rekreacyjnych i urządzeń sportowych,
 
-9. Młodzieżowa rada gminy może współuczestniczyć działaniach związanych z tworzeniem i realizacją rządowych dokumentów strategicznych dotyczących polityki młodzieżowej.
+### 11)
 
-10. Rada gminy, tworząc młodzieżową radę gminy, nadaje jej statut określający szczególności zasady działania młodzieżowej rady gminy, tryb i kryteria wyboru jej członków oraz zasady wygaśnięcia mandatu i odwołania członka młodzieżowej rady gminy. Podmioty, o których mowa ust. 2 pkt 1 i 2, mogą przedstawiać opinie zakresie projektu statutu.
+targowisk i hal targowych,
 
-11. Członkowi młodzieżowej rady gminy biorącemu udział posiedzeniach młodzieżowej rady gminy lub zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, a przypadku niepełnoletniego członka młodzieżowej rady gminy – także jego rodzicowi lub opiekunowi prawnemu, zwraca się, na jego wniosek, koszty przejazdu na terenie kraju związane z udziałem posiedzeniu młodzieżowej rady gminy lub zorganizowanym wydarzeniu, na którym reprezentuje on młodzieżową radę gminy, na podstawie dokumentów, szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem. Szczegółowe zasady zwrotu kosztów oraz zasady delegowania przedstawicieli młodzieżowej rady gminy na zorganizowane wydarzenia, na których reprezentują oni młodzieżową radę gminy, reguluje statut młodzieżowej rady gminy.
+### 12)
 
-12. Młodzieżowa rada gminy może posiadać opiekuna.
+zieleni komunalnej i zadrzewień,
 
-13. Statut młodzieżowej rady gminy może określać szczegółowe wymagania, które musi spełniać opiekun, zakres jego obowiązków oraz zasady jego odwoływania.
+### 13)
 
-14. Wyboru opiekuna młodzieżowej rady gminy dokonuje rada gminy spośród kandydatów wskazanych przez młodzieżową radę gminy.
+cmentarzy komunalnych,
 
-15. Obsługę administracyjno-biurową młodzieżowej rady gminy zapewnia urząd gminy. Koszty obsługi młodzieżowej rady gminy pokrywa urząd gminy.
+### 14)
 
-16. Rada gminy może statucie jednostki pomocniczej upoważnić ją do utworzenia młodzieżowej rady jednostki pomocniczej.
+porządku publicznego i ochrony przeciwpożarowej,
 
-17. Do zadań młodzieżowej rady jednostki pomocniczej należy szczególności: dotyczących młodzieży i projektów uchwał rady gminy dotyczących młodzieży zakresie dotyczącym jednostki pomocniczej;
+### 15)
 
-- **2)** udział opracowaniu dokumentów strategicznych gminy na rzecz młodzieży zakresie dotyczącym jednostki pomocniczej;
-- **3)** monitorowanie realizacji na terenie jednostki pomocniczej dokumentów, o których mowa pkt 2;
-- **4)** podejmowanie działań na rzecz młodzieży na zasadach określonych przez organ uchwałodawczy jednostki pomocniczej;
-- **5)** współpraca z innymi młodzieżowymi radami, szczególności z młodzieżową radą gminy, na terenie której jest położona dana jednostka pomocnicza, i młodzieżowymi radami innych jednostek pomocniczych położonych na terenie danej gminy.
+utrzymania gminnych obiektów i urządzeń użyteczności publicznej oraz obiektów administracyjnych.
 
-18. Do młodzieżowej rady jednostki pomocniczej stosuje się odpowiednio przepisy ust. 5–7 i 9–15, z tym że:
+### 2.
 
-- **1)** młodzieżowa rada jednostki pomocniczej może kierować zapytania lub wnioski formie uchwały sprawach dotyczących jednostki pomocniczej do organu wykonawczego;
-- **2)** statut jednostki pomocniczej określa tryb zgłaszania przez młodzieżową radę jednostki pomocniczej wniosku o podjęcie inicjatywy uchwałodawczej przez organ uchwałodawczy jednostki pomocniczej;
-- **3)** podmioty reprezentujące zainteresowane środowiska, szczególności organizacje pozarządowe lub podmioty określone art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie działające na terenie danej jednostki pomocniczej oraz samorząd uczniowski lub samorząd studencki z terenu danej jednostki pomocniczej, mogą przedstawiać opinie zakresie projektu statutu młodzieżowej rady jednostki pomocniczej.
+Ustawy określają, które zadania własne gminy mają charakter obowiązkowy.
 
-**Art. 5c.**
+### Art. 8.
 
-1. Gmina sprzyja solidarności międzypokoleniowej oraz tworzy warunki do pobudzania aktywności obywatelskiej osób starszych społeczności lokalnej.
+### 1.
 
-2. Rada gminy, z własnej inicjatywy lub na wniosek zainteresowanych środowisk, może utworzyć gminną radę seniorów.
+Ustawy mogą nakładać na gminę obowiązek wykonywania zadań zleconych z zakresu administracji rządowej.
 
-2a. Rada gminy tworzy gminną radę seniorów na wniosek:
+### 2.
 
-- **1)** gminie do 20 000 mieszkańców – co najmniej 50 mieszkańców tej gminy, którzy ukończyli 60 lat; gminy, którzy ukończyli 60 lat.
+Zadania z zakresu administracji rządowej gmina może wykonywać również na podstawie porozumienia z organami tej administracji.
 
-2b. Wniosek, o którym mowa ust. 2, jest rozpatrywany przez radę gminy terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+### 3.
 
-2c. Jeżeli wniosek, o którym mowa ust. 2a, spełnia wymogi, o których mowa tym przepisie, rada gminy tworzy gminną radę seniorów terminie nie dłuższym niż 3 miesiące od dnia jego złożenia.
+Zadania, o których mowa w ust. 1 i 2, są wykonywane po zapewnieniu środków finansowych przez administrację rządową.
 
-2d. W przypadku odrzucenia wniosku złożonego przez podmiot, o którym mowa ust. 2, kolejny wniosek może być złożony przez ten sam podmiot nie wcześniej niż po upływie 6 miesięcy od dnia odrzucenia poprzedniego wniosku.
+### Art. 9.
 
-3. Gminna rada seniorów ma charakter konsultacyjny, doradczy i inicjatywny.
+### 1.
 
-3a. W sprawach dotyczących gminy gminna rada seniorów może kierować zapytania lub wnioski formie uchwały. Uchwała powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania. Wójt lub osoba przez niego wyznaczona są obowiązani udzielić odpowiedzi na piśmie, nie później niż terminie 30 dni od dnia otrzymania uchwały.
+W celu wykonywania zadań gmina może tworzyć jednostki organizacyjne, w tym przedsiębiorstwa, i zawierać umowy z innymi podmiotami.
 
-4. Gminna rada seniorów składa się z przedstawicieli osób starszych oraz przedstawicieli podmiotów działających na rzecz osób starszych, szczególności przedstawicieli organizacji pozarządowych oraz podmiotów prowadzących uniwersytety trzeciego wieku.
+### 2.
 
-4a. Członkowi gminnej rady seniorów biorącemu udział posiedzeniach gminnej rady seniorów lub zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, mogą być zwracane, na jego wniosek, poniesione koszty, tym koszty przejazdu na terenie kraju związane z udziałem posiedzeniu gminnej rady seniorów lub zorganizowanym wydarzeniu, na którym reprezentuje on gminną radę seniorów, na podstawie dokumentów, szczególności rachunków, faktur lub biletów, potwierdzających poniesione wydatki lub informacji o wysokości poniesionych kosztów przejazdu samochodem.
+Gmina oraz inna komunalna osoba prawna może prowadzić działalność gospodarczą wykraczającą poza zadania o charakterze użyteczności publicznej, jeżeli wymagają tego potrzeby społeczne.
 
-5. Rada gminy, tworząc gminną radę seniorów, nadaje jej statut określający szczególności:
+### Art. 10.
 
-- **1)** tryb i kryteria wyboru jej członków,
-- **2)** zasady i tryb jej działania,
-- **3)** długość jej kadencji, z tym że kadencja nie może trwać dłużej niż kadencja rady gminy, na terenie której funkcjonuje ta rada,
-- **4)** zasady wygaśnięcia mandatu i odwołania jej członków a także zapewnienia sprawnego sposobu wyboru członków gminnej rady seniorów.
+Wykonywanie zadań publicznych przekraczających możliwości gminy następuje w drodze współdziałania międzykomunalnego.
 
-5a. Jeżeli rada gminy zadecydowała o zwracaniu kosztów, o których mowa ust. 4a, statucie, o którym mowa ust. 5, określa się zasady zwrotu tych kosztów, tym ich maksymalną wysokość podlegającą zwrotowi.
+### Rozdział 3 Władze gminy
 
-5b. Podmioty, o których mowa ust. 2 lub 2a, mogą przedstawiać opinie zakresie projektu statutu, o którym mowa ust. 5.
+### Art. 11.
 
-6. Rada gminy może statucie jednostki pomocniczej upoważnić ją do utworzenia rady seniorów jednostki pomocniczej. Przepisy ust. 3–5 stosuje się odpowiednio.
+### 1.
 
-7. Gminna rada seniorów może zgłosić do uprawnionych podmiotów wniosek o podjęcie inicjatywy uchwałodawczej. Tryb zgłaszania wniosku o podjęcie inicjatywy uchwałodawczej określa statut gminy.
+Mieszkańcy gminy podejmują rozstrzygnięcia w głosowaniu powszechnym (poprzez wybory i referendum) lub za pośrednictwem organów gminy.
 
-8. Obsługę administracyjno-biurową gminnej rady seniorów zapewnia urząd gminy. Koszty obsługi gminnej rady seniorów pokrywa urząd gminy.
+### 2.
 
-#### Rozdział 2 Zakres działania i zadania gminy
+Zasady i tryb przeprowadzania wyborów do rady gminy określa odrębna ustawa.
 
-**Art. 6.**
+### Art. 12.
 
-1. Do zakresu działania gminy należą wszystkie sprawy publiczne o znaczeniu lokalnym, niezastrzeżone ustawami na rzecz innych podmiotów.
+### 1.
 
-2. Jeżeli ustawy nie stanowią inaczej, rozstrzyganie sprawach, o których mowa ust. 1, należy do gminy.
+W sprawach samoopodatkowania mieszkańców na cele publiczne oraz odwołania rady gminy przed upływem kadencji rozstrzyga się wyłącznie w drodze referendum lokalnego.
 
-**Art. 7.**
+### 2.
 
-1. Zaspokajanie zbiorowych potrzeb wspólnoty należy do zadań własnych gminy. W szczególności zadania własne obejmują sprawy:
+Referendum może być przeprowadzone w każdej innej sprawie ważnej dla gminy.
 
-- **1)** ładu przestrzennego, gospodarki nieruchomościami, ochrony środowiska i przyrody oraz gospodarki wodnej;
-- **2)** gminnych dróg, ulic, mostów, placów oraz organizacji ruchu drogowego;
-- **3)** wodociągów i zaopatrzenia wodę, kanalizacji, usuwania i oczyszczania ścieków komunalnych, utrzymania czystości i porządku oraz urządzeń sanitarnych, wysypisk i unieszkodliwiania odpadów komunalnych, zaopatrzenia energię elektryczną i cieplną oraz gaz;
-- **3a)** działalności zakresie telekomunikacji;
-- **4)** lokalnego transportu zbiorowego;
-- **5)** ochrony zdrowia;
-- **6)** pomocy społecznej, tym ośrodków i zakładów opiekuńczych;
-- **7)** gminnego budownictwa mieszkaniowego;
-- **8)** edukacji publicznej;
-- **9)** kultury, tym bibliotek gminnych i innych instytucji kultury oraz ochrony zabytków i opieki nad zabytkami;
-- **10)** kultury fizycznej i turystyki, tym terenów rekreacyjnych i urządzeń sportowych;
-- **11)** targowisk i hal targowych;
-- **12)** zieleni gminnej i zadrzewień;
-- **13)** cmentarzy gminnych;
-- **14)** porządku publicznego i bezpieczeństwa obywateli oraz ochrony przeciwpożarowej i przeciwpowodziowej, tym wyposażenia i utrzymania gminnego magazynu przeciwpowodziowego;
-- **14a)** ochrony ludności i obrony cywilnej, tym tworzenia i utrzymywania zasobów ochrony ludności, z wyłączeniem zadań określonych ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) jako zadania zlecone z zakresu administracji rządowej;
-- **15)** utrzymania gminnych obiektów i urządzeń użyteczności publicznej oraz obiektów administracyjnych;
-- **16)** polityki prorodzinnej, tym zapewnienia kobietom ciąży opieki socjalnej, medycznej i prawnej;
-- **16a)** polityki senioralnej;
-- **17)** wspierania i upowszechniania idei samorządowej, tym tworzenia warunków do działania i rozwoju jednostek pomocniczych i wdrażania programów pobudzania aktywności obywatelskiej;
-- **18)** promocji gminy;
-- **19)** współpracy i działalności na rzecz organizacji pozarządowych oraz podmiotów wymienionych art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;
-- **20)** współpracy ze społecznościami lokalnymi i regionalnymi innych państw.
+### Art. 13.
 
-1a. (uchylony)
+### 1.
 
-2. Ustawy określają, które zadania własne gminy mają charakter obowiązkowy.
+Referendum przeprowadza rada z własnej inicjatywy lub na wniosek co najmniej 1/10 mieszkańców uprawnionych do głosowania.
 
-3. Przekazanie gminie, drodze ustawy, nowych zadań własnych wymaga zapewnienia koniecznych środków finansowych na ich realizację postaci się odpowiednio.
+### 2.
 
-**Art. 8.**
+Referendum jest ważne, jeżeli wzięło w nim udział co najmniej 30% uprawnionych do głosowania.
 
-1. Ustawy mogą nakładać na gminę obowiązek wykonywania zadań zleconych z zakresu administracji rządowej, a także z zakresu organizacji przygotowań i przeprowadzenia wyborów powszechnych oraz referendów.
+### 3.
 
-2. Zadania z zakresu administracji rządowej gmina może wykonywać również na podstawie porozumienia z organami tej administracji.
+Referendum w sprawie odwołania rady gminy przed upływem kadencji przeprowadza się na wniosek co najmniej 1/5 mieszkańców uprawnionych do głosowania. Referendum w tej sprawie jest ważne, jeżeli wzięło w nim udział co najmniej 50% uprawnionych do głosowania.
 
-2a. Gmina może wykonywać zadania z zakresu właściwości powiatu oraz zadania z zakresu właściwości województwa na podstawie porozumień z tymi jednostkami samorządu terytorialnego.
+### 4.
 
-2b. Spory majątkowe wynikłe z porozumień, o których mowa ust. 2 i 2a oraz art. 74, rozpatruje sąd powszechny.
+W sprawach nie uregulowanych niniejszą ustawą tryb przeprowadzenia referendum określa odrębna ustawa.
 
-3. Gmina otrzymuje środki finansowe wysokości koniecznej do wykonania zadań, o których mowa ust. 1, 2 i 2a.
+### Art. 14.
 
-4. Szczegółowe zasady i terminy przekazywania środków finansowych, o których mowa ust. 3, określają ustawy nakładające na gminy obowiązek wykonywania zadań zleconych lub zawarte porozumienia.
+### 1.
 
-5. W przypadku niedotrzymania terminów, o których mowa ust. 4, gminie przysługują odsetki wysokości ustalonej dla zaległości podatkowych.
+Uchwały organów gminy zapadają zwykłą większością głosów w obecności co najmniej połowy składu organu, chyba że przepis szczególny stanowi inaczej.
 
-**Art. 8a.** (utracił moc)
+### 2.
 
-**Art. 9.**
+W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.
 
-1. W celu wykonywania zadań gmina może tworzyć jednostki organizacyjne, a także zawierać umowy z innymi podmiotami, tym z organizacjami pozarządowymi.
+### Art. 15.
 
-2. Gmina oraz inna gminna osoba prawna może prowadzić działalność gospodarczą wykraczającą poza zadania o charakterze użyteczności publicznej wyłącznie przypadkach określonych odrębnej ustawie.
+### 1.
 
-2a. (uchylony)
+Z zastrzeżeniem art. 12 organem stanowiącym i kontrolnym w gminie jest rada gminy.
 
-3. Formy prowadzenia gospodarki gminnej, tym wykonywania przez gminę zadań o charakterze użyteczności publicznej, określa odrębna ustawa.
+### 2.
 
-4. Zadaniami użyteczności publicznej, rozumieniu ustawy, są zadania własne gminy, określone art. 7 ust. 1, których celem jest bieżące i nieprzerwane dostępnych.
+Jeżeli siedzibą rady gminy jest miasto, nosi ona nazwę rady miejskiej, chyba że rada postanowi inaczej.
 
-**Art. 9a.**
+### Art. 16.
 
-1. Gmina celu zapewnienia porządku publicznego i bezpieczeństwa obywateli oraz ochrony przeciwpożarowej i przeciwpowodziowej może stosować środki techniczne umożliwiające rejestrację obrazu (monitoring) obszarze przestrzeni publicznej, za zgodą zarządzającego tym obszarem lub podmiotu posiadającego tytuł prawny do tego obszaru lub na terenie nieruchomości i obiektach budowlanych stanowiących mienie gminy lub jednostek organizacyjnych gminy, a także na terenie wokół takich nieruchomości i obiektów budowlanych, jeżeli jest to konieczne do zapewnienia porządku publicznego i bezpieczeństwa obywateli lub ochrony przeciwpożarowej i przeciwpowodziowej.
+Kadencja rady gminy trwa 4 lata licząc od dnia wyboru.
 
-2. Monitoring nie obejmuje pomieszczeń sanitarnych, szatni, stołówek, palarni oraz obiektów socjalnych.
+### Art. 17.
 
-3. Nagrania obrazu zawierające dane osobowe przetwarza się wyłącznie do celów, dla których zostały zebrane, i przechowuje przez okres nieprzekraczający 3 miesięcy od dnia nagrania, o ile przepisy odrębne nie stanowią inaczej.
+W skład rady wchodzą radni w liczbie:
 
-4. Po upływie okresu, o którym mowa ust. 3, uzyskane wyniku monitoringu nagrania obrazu zawierające dane osobowe, podlegają zniszczeniu, z wyjątkiem sytuacji, których nagrania zostały zabezpieczone, zgodnie z odrębnymi przepisami.
+- - piętnastu w gminach do 4.000 mieszkańców
 
-5. Nieruchomości i obiekty budowlane objęte monitoringiem oznacza się sposób widoczny i czytelny informacją o monitoringu, szczególności za pomocą odpowiednich znaków.
+- - osiemnastu w gminach do 7.000 mieszkańców
 
-6. Monitoring, ramach którego dochodzi do przetwarzania danych osobowych, wymaga stosowania środków zabezpieczających przetwarzanie tych danych, szczególności uniemożliwiających ich utratę lub bezprawne rozpowszechnienie, a także uniemożliwienie dostępu do danych osobom nieuprawnionym.
+- - dwudziestu w gminach do 10.000 mieszkańców
 
-**Art. 10.**
+- - dwudziestu dwóch w gminach do 15.000 mieszkańców
 
-1. Wykonywanie zadań publicznych może być realizowane drodze współdziałania między jednostkami samorządu terytorialnego.
+- - dwudziestu czterech w gminach do 20.000 mieszkańców
 
-2. Gminy, związki międzygminne oraz stowarzyszenia jednostek samorządu terytorialnego mogą sobie wzajemnie bądź innym jednostkom samorządu terytorialnego udzielać pomocy, tym pomocy finansowej.
+- - dwudziestu ośmiu w gminach do 40.000 mieszkańców
 
-3. Gminy, związki międzygminne oraz stowarzyszenia jednostek samorządu terytorialnego mogą udzielać pomocy, tym pomocy finansowej, społecznościom lokalnym i regionalnym innych państw. Podstawą udzielania tej pomocy jest uchwała statutowego stowarzyszenia jednostek samorządu terytorialnego.
+- - trzydziestu dwóch w gminach do 60.000 mieszkańców
 
-**Art. 10a.** Gmina może zapewnić wspólną obsługę, szczególności administracyjną, finansową i organizacyjną:
+- - trzydziestu sześciu w gminach do 80.000 mieszkańców
 
-**Art. 10b.**
+- - czterdziestu w gminach do 100.000 mieszkańców
 
-1. Wspólną obsługę mogą prowadzić urząd gminy, inna jednostka organizacyjna gminy, jednostka organizacyjna związku międzygminnego, jednostka organizacyjna związku powiatowo-gminnego albo spółka, o której mowa art. 9 ust. 1 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej, tym spółka prawa handlowego powołana celu prowadzenia wspólnej obsługi, zwane dalej „jednostkami obsługującymi”.
+- - czterdziestu pięciu w gminach do 200.000 mieszkańców
 
-2. Rada gminy odniesieniu do jednostek obsługiwanych, o których mowa art. 10a pkt 1, określa, drodze uchwały, szczególności:
+oraz po pięciu na każde dalsze rozpoczęte 100.000 mieszkańców, nie więcej jednak niż stu radnych.
 
-- **1)** jednostki obsługujące;
-- **2)** jednostki obsługiwane;
-- **3)** zakres obowiązków powierzonych jednostkom obsługującym ramach wspólnej obsługi.
+### Art. 18.
 
-3. Jednostki obsługiwane, o których mowa art. 10a pkt 2 i 3, mogą, na podstawie porozumień zawartych przez te jednostki z jednostką obsługującą, przystąpić do wspólnej obsługi, po uprzednim zgłoszeniu tego zamiaru wójtowi. Zakres wspólnej obsługi określa zawarte porozumienie.
+### 1.
 
-4. Jednostka obsługująca ma prawo żądania od jednostki obsługiwanej informacji oraz wglądu dokumentację zakresie niezbędnym do wykonywania zadań ramach wspólnej obsługi tej jednostki. informacji oraz wglądu dokumentację zakresie zadań wykonywanych przez jednostkę obsługującą ramach wspólnej obsługi.
+Do właściwości rady gminy należą wszystkie sprawy pozostające w zakresie działania gminy, o ile ustawy nie stanowią inaczej.
 
-**Art. 10c.**
+### 2.
 
-1. Zakres wspólnej obsługi nie może obejmować kompetencji kierowników jednostek zaliczanych do sektora finansów publicznych do dysponowania środkami publicznymi oraz zaciągania zobowiązań, a także sporządzania i zatwierdzania planu finansowego oraz przeniesień wydatków tym planie.
+Do wyłącznej właściwości rady gminy należy:
 
-2. W przypadku powierzenia obowiązków z zakresu rachunkowości i sprawozdawczości jednostek obsługiwanych, o których mowa art. 10a pkt 1 i 2, są one przekazywane całości.
+### 1)
 
-**Art. 10d.** Jednostka obsługująca jest uprawniona do przetwarzania danych osobowych przetwarzanych przez jednostkę obsługiwaną zakresie i celu niezbędnych do wykonywania zadań ramach wspólnej obsługi tej jednostki.
+uchwalanie statutu gminy,
 
-**Art. 10e.** [1. Gmina może opracować strategię rozwoju gminy.] <1. Gmina opracowuje strategię rozwoju gminy.> <1a. Gmina może nie opracować strategii rozwoju gminy, jeżeli obszar gminy jest objęty strategią rozwoju ponadlokalnego.> 2. Strategia rozwoju gminy jest spójna ze strategią rozwoju województwa oraz strategią rozwoju ponadlokalnego, obejmującą tę gminę. 3. Strategia rozwoju gminy zawiera wnioski z diagnozy, o której mowa art. 10a ust. 1 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2025 r. poz. 198), przygotowanej na potrzeby tej strategii, oraz określa szczególności:
+### 2)
 
-**Art. 10f.**
+wybór i odwołanie zarządu, stanowienie o kierunkach jego działania oraz przyjmowanie sprawozdań z jego działalności,
 
-1. Rada gminy, drodze uchwały, określa szczegółowy tryb i harmonogram opracowania projektu strategii rozwoju gminy, tym tryb konsultacji, o których mowa art. 6 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+### 3)
 
-2. Projekt strategii rozwoju gminy opracowuje wójt oraz przedkłada go zarządowi województwa celu wydania opinii dotyczącej sposobu uwzględnienia ustaleń i rekomendacji zakresie kształtowania i prowadzenia polityki przestrzennej województwie określonych strategii rozwoju województwa.
+powoływanie i odwoływanie sekretarza oraz skarbnika gminy, który jest głównym księgowym budżetu,
 
-3. Zarząd województwa wydaje opinię, o której mowa ust. 2, terminie 30 dni od dnia otrzymania projektu strategii rozwoju gminy. W przypadku braku opinii we wskazanym terminie uznaje się, że strategia rozwoju gminy jest spójna ze strategią rozwoju województwa.
+### 4)
 
-4. Strategia rozwoju gminy jest przyjmowana przez radę gminy drodze uchwały.
+uchwalanie budżetu gminy oraz przyjmowanie sprawozdań z działalności finansowej gminy i udzielanie absolutorium zarządowi z tego tytułu;
 
-5. Strategia rozwoju gminy podlega aktualizacji, jeżeli wymaga tego sytuacja społeczna, gospodarcza, przestrzenna lub klimatyczno-środowiskowa gminy albo gdy jest to konieczne dla zachowania jej spójności ze strategią rozwoju ponadlokalnego lub strategią rozwoju województwa. Do aktualizacji strategii rozwoju gminy stosuje się ust. 1–4.
+### 5)
 
-**Art. 10g.**
+uchwalanie miejscowych planów zagospodarowania przestrzennego,
 
-1. Gminy sąsiadujące, powiązane ze sobą funkcjonalnie, mogą opracować strategię rozwoju ponadlokalnego będącą wspólną strategią rozwoju tych gmin zakresie ich terytorium.
+### 6)
 
-2. Strategia rozwoju ponadlokalnego:
+uchwalanie programów gospodarczych,
 
-- **1)** jest opracowywana z udziałem powiatu, jeżeli jej opracowywaniu uczestniczą wszystkie gminy z terytorium tego powiatu;
-- **2)** może być opracowywana z udziałem powiatu, jeżeli przynajmniej jedna gmina, o której mowa ust. 1, znajduje się na jego terytorium.
+### 7)
 
-3. Do strategii rozwoju ponadlokalnego przepisy art. 10e ust. 2–4 stosuje się odpowiednio.
+ustalanie zakresu działania sołectwa i dzielnicy (osiedla) oraz przekazywanie im składników mienia do korzystania,
 
-4. W celu przygotowania i realizacji strategii rozwoju ponadlokalnego jednostki samorządu terytorialnego mogą tworzyć szczególności związek międzygminny, o ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2024 r. poz. 107 i 1907), lub stowarzyszenie, o którym mowa art. 84, lub zawierać porozumienie międzygminne, o którym mowa art. 74.
+### 8)
 
-4a. Organ stanowiący związku międzygminnego albo stowarzyszenia, o którym mowa art. 84, drodze uchwały, określa szczegółowy tryb i harmonogram opracowania projektu strategii rozwoju ponadlokalnego, tym tryb konsultacji, o których mowa art. 6 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju.
+podejmowanie uchwał w sprawach podatków i opłat w granicach określonych w odrębnych ustawach,
 
-4b. W przypadku opracowywania strategii rozwoju ponadlokalnego przez porozumienie międzygminne, o którym mowa art. 74, szczegółowy tryb i harmonogram opracowania projektu strategii rozwoju ponadlokalnego, tym tryb konsultacji, o których mowa art. 6 ust. 3 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju, jest przyjmowany przez organ stanowiący jednostki samorządu terytorialnego, której powierzono opracowanie projektu strategii rozwoju ponadlokalnego.
+### 9)
 
-5. Projekt strategii rozwoju ponadlokalnego opracowuje odpowiednio wójt albo starosta wskazany porozumieniu międzygminnym, organ wykonawczy związku międzygminnego albo stowarzyszenia oraz przedkłada go zarządowi województwa celu wydania opinii dotyczącej sposobu uwzględnienia ustaleń i rekomendacji zakresie kształtowania i prowadzenia polityki przestrzennej województwie określonych strategii rozwoju województwa.
+podejmowanie uchwał w sprawach majątkowych gminy, przekraczających zakres zwykłego zarządu, dotyczących:
 
-6. Zarząd województwa wydaje opinię, o której mowa ust. 5, terminie 30 dni od dnia otrzymania projektu strategii rozwoju ponadlokalnego. W przypadku braku opinii we wskazanym terminie uznaje się, że strategia rozwoju ponadlokalnego jest spójna ze strategią rozwoju województwa.
+### a)
 
-7. Strategia rozwoju ponadlokalnego jest przyjmowana przez organ stanowiący związku międzygminnego albo stowarzyszenia, drodze uchwały.
+nabycia, zbycia i obciążania nieruchomości gruntowych oraz ich wydzierżawiania lub najmu na okres dłuższy niż trzy lata, o ile ustawy szczególne nie stanowią inaczej,
 
-8. Strategia rozwoju ponadlokalnego opracowana przez porozumienie międzygminne jest przyjmowana przez właściwe rady gmin i obowiązuje od dnia jej przyjęcia przez ostatnią radę gminy. Strategia rozwoju ponadlokalnego opracowana z udziałem powiatu jest przyjmowana również przez radę powiatu i obowiązuje od dnia jej przyjęcia przez ostatnią radę gminy lub powiatu.
+### b)
 
-9. Strategia rozwoju ponadlokalnego podlega aktualizacji, jeżeli wymaga tego sytuacja społeczna, gospodarcza, przestrzenna lub klimatyczno-środowiskowa ze strategią rozwoju województwa. Do aktualizacji strategii rozwoju ponadlokalnego stosuje się ust. 4a–8 oraz art. 10e ust. 2–4.
+przyjmowania lub odrzucania spadków i zapisów,
 
-#### Rozdział 3 Władze gminy
+### c)
 
-**Art. 11.**
+emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu przez zarząd,
 
-1. Mieszkańcy gminy podejmują rozstrzygnięcia głosowaniu powszechnym (poprzez wybory i referendum) lub za pośrednictwem organów gminy.
+### d)
 
-2. (uchylony)
+zaciągania długoterminowych pożyczek,
 
-**Art. 11a.**
+### e)
 
-1. Organami gminy są:
+ustalania maksymalnej wysokości pożyczek krótkoterminowych, zaciąganych przez zarząd w roku budżetowym,
 
-- **1)** rada gminy;
-- **2)** wójt (burmistrz, prezydent miasta).
+### f)
 
-2. Zasady i tryb przeprowadzania wyborów do rady gminy oraz wyboru wójta (burmistrza, prezydenta miasta) określają odrębne ustawy.
+zobowiązań w zakresie podejmowania inwestycji i remontów o wartości przekraczającej granicę ustalaną corocznie przez radę gminy,
 
-3. Ilekroć ustawie jest mowa o wójcie, należy przez to rozumieć także burmistrza oraz prezydenta miasta.
+### g)
 
-**Art. 11b.**
+tworzenia i przystępowania do spółek i spółdzielni oraz rozwiązywania i występowania z nich,
 
-1. Działalność organów gminy jest jawna. Ograniczenia jawności mogą wynikać wyłącznie z ustaw.
+### h)
 
-2. Jawność działania organów gminy obejmuje szczególności prawo obywateli do uzyskiwania informacji, wstępu na sesje rady gminy i posiedzenia jej komisji, a także dostępu do dokumentów wynikających z wykonywania zadań publicznych, tym protokołów posiedzeń organów gminy i komisji rady gminy.
+określania zasad wnoszenia, cofania i zbywania udziałów i akcji przez zarząd,
 
-3. Zasady dostępu do dokumentów i korzystania z nich określa statut gminy.
+### i)
 
-**Art. 12.** Zasady i tryb przeprowadzania referendum gminnego określa odrębna ustawa.
+tworzenia, likwidacji i reorganizacji przedsiębiorstw, zakładów i innych gminnych jednostek organizacyjnych oraz wyposażania ich w majątek,
 
-**Art. 13.** (uchylony)
+### 10)
 
-**Art. 14.**
+określanie wysokości sumy, do której zarząd gminy może samodzielnie zaciągać zobowiązania,
 
-1. Uchwały rady gminy zapadają zwykłą większością głosów obecności co najmniej połowy ustawowego składu rady, głosowaniu jawnym, chyba że ustawa stanowi inaczej.
+### 11)
 
-2. Głosowania jawne na sesjach rady odbywają się za pomocą urządzeń umożliwiających sporządzenie i utrwalenie imiennego wykazu głosowań radnych.
+podejmowanie uchwał w sprawie przyjęcia zadań z zakresu administracji rządowej, o których mowa w art. 8 ust. 2,
 
-3. W przypadku gdy przeprowadzenie głosowania sposób określony ust. 2 nie jest możliwe z przyczyn technicznych przeprowadza się głosowanie imienne. wiadomości Biuletynie Informacji Publicznej i na stronie internetowej gminy oraz inny sposób zwyczajowo przyjęty na obszarze gminy.
+### 12)
 
-**Art. 15.**
+podejmowanie uchwał w sprawach współdziałania z innymi gminami oraz wydzielanie na ten cel odpowiedniego majątku,
 
-1. Z zastrzeżeniem art. 12 organem stanowiącym i kontrolnym gminie jest rada gminy.
+### 13)
 
-2. Jeżeli siedziba rady gminy znajduje się mieście położonym na terytorium tej gminy, rada nosi nazwę rady miejskiej.
+podejmowanie uchwał w sprawach: herbu gminy, nazw ulic i placów publicznych oraz wznoszenia pomników,
 
-**Art. 16.** Kadencja rady gminy trwa 5 lat licząc od dnia wyboru.
+### 14)
 
-**Art. 17.**
+nadawanie honorowego obywatelstwa gminy,
 
-1. W skład rady wchodzą radni liczbie:
+### 15)
 
-- **1)** piętnastu gminach do 20 000 mieszkańców;
-- **2)** dwudziestu jeden gminach do 50 000 mieszkańców;
-- **3)** dwudziestu trzech gminach do 100 000 mieszkańców;
-- **4)** dwudziestu pięciu gminach do 200 000 mieszkańców oraz po trzech na każde dalsze rozpoczęte 100 000 mieszkańców, nie więcej jednak niż czterdziestu pięciu radnych.
+stanowienie w innych sprawach zastrzeżonych ustawami do kompetencji rady gminy.
 
-2. W skład rady gminy powstałej wyniku połączenia gmin, pierwszej kadencji wchodzą radni liczbie:
+### 3.
 
-- **1)** dwudziestu jeden gminach do 20 000 mieszkańców;
-- **2)** dwudziestu trzech gminach do 50 000 mieszkańców;
-- **3)** dwudziestu pięciu gminach do 100 000 mieszkańców oraz po trzech na każde dalsze rozpoczęte 100 000 mieszkańców, nie więcej jednak niż czterdziestu ośmiu radnych.
+Rada gminy kontroluje działalność zarządu i podporządkowanych mu jednostek; w tym celu może powołać komisję rewizyjną. Art. 21 ust. 2 i 3 stosuje się odpowiednio.
 
-**Art. 18.**
+### 4.
 
-1. Do właściwości rady gminy należą wszystkie sprawy pozostające zakresie działania gminy, o ile ustawy nie stanowią inaczej.
+Odwołanie zarządu gminy lub poszczególnych jego członków następuje w głosowaniu tajnym bezwzględną większością głosów ustawowego składu rady gminy. W razie odwołania zarządu rada gminy powołuje nowy zarząd w ciągu 10 dni.
 
-2. Do wyłącznej właściwości rady gminy należy:
+### Art. 19.
 
-- **1)** uchwalanie statutu gminy;
-- **2)** ustalanie wynagrodzenia wójta, stanowienie o kierunkach jego działania oraz przyjmowanie sprawozdań z jego działalności;
-- **3)** powoływanie i odwoływanie skarbnika gminy, który jest głównym księgowym budżetu – na wniosek wójta;
-- **4)** uchwalanie budżetu gminy, rozpatrywanie sprawozdania z wykonania budżetu oraz podejmowanie uchwały sprawie udzielenia lub nieudzielenia absolutorium z tego tytułu; udzielenia lub nieudzielenia wotum zaufania z tego tytułu;
-- **5)** uchwalanie planu ogólnego gminy oraz miejscowych planów zagospodarowania przestrzennego;
-- **6)** uchwalanie programów gospodarczych;
-- **6a)** przyjmowanie programów rozwoju trybie określonym przepisach o zasadach prowadzenia polityki rozwoju;
-- **7)** ustalanie zakresu działania jednostek pomocniczych, zasad przekazywania im składników mienia do korzystania oraz zasad przekazywania środków budżetowych na realizację zadań przez te jednostki;
-- **8)** podejmowanie uchwał sprawach podatków i opłat granicach określonych odrębnych ustawach;
-- **9)** podejmowanie uchwał sprawach majątkowych gminy, przekraczających zakres zwykłego zarządu, dotyczących: uchwała rady gminy jest wymagana również przypadku, gdy po umowie zawartej na czas oznaczony do 3 lat strony zawierają kolejne umowy, których przedmiotem jest ta sama nieruchomość; do czasu określenia zasad wójt może dokonywać tych czynności wyłącznie za zgodą rady gminy,
-    - **a)** zasad nabywania, zbywania i obciążania nieruchomości oraz ich wydzierżawiania lub wynajmowania na czas oznaczony dłuższy niż 3 lata lub na czas nieoznaczony, o ile ustawy szczególne nie stanowią inaczej;
-    - **b)** emitowania obligacji oraz określania zasad ich zbywania, nabywania i wykupu przez wójta,
-    - **c)** zaciągania długoterminowych zobowiązań zaliczanych do tytułu dłużnego, o którym mowa art. 72 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39),
-    - **d)** ustalania maksymalnej wysokości pożyczek i kredytów krótkoterminowych zaciąganych przez wójta roku budżetowym,
-    - **e)** zobowiązań zakresie podejmowania inwestycji i remontów o wartości przekraczającej granicę ustalaną corocznie przez radę gminy,
-    - **f)** tworzenia i przystępowania do spółek i spółdzielni oraz rozwiązywania i występowania z nich,
-    - **g)** określania zasad wnoszenia, cofania i zbywania udziałów i akcji przez wójta, gminnych jednostek organizacyjnych oraz wyposażania ich majątek,
-    - **i)** ustalania maksymalnej wysokości pożyczek i poręczeń udzielanych przez wójta roku budżetowym,
-    - **j)** wyrażenia zgody na zawarcie umowy, o której mowa art. 50a ust. 1;
+### 1.
 
-- **10)** określanie wysokości sumy, do której wójt może samodzielnie zaciągać zobowiązania;
-- **11)** podejmowanie uchwał sprawie przyjęcia zadań, o których mowa art. 8 ust. 2 i 2a;
-- **12)** podejmowanie uchwał sprawach współdziałania z innymi gminami oraz wydzielanie na ten cel odpowiedniego majątku;
-- **12a)** podejmowanie uchwał sprawach współpracy ze społecznościami lokalnymi i regionalnymi innych państw oraz przystępowania do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych;
-- **13)** podejmowanie uchwał sprawach herbu gminy, nazw ulic i placów będących drogami publicznymi lub nazw dróg wewnętrznych rozumieniu ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889), a także wznoszenia pomników;
-- **14)** nadawanie honorowego obywatelstwa gminy;
-- **14a)** podejmowanie uchwał sprawie zasad udzielania stypendiów dla uczniów i studentów;
-- **15)** stanowienie innych sprawach zastrzeżonych ustawami do kompetencji rady gminy.
+Rada gminy wybiera ze swego grona przewodniczącego i 1-3 wiceprzewodniczących w głosowaniu tajnym.
 
-3. (uchylony)
+### 2.
 
-4. (uchylony)
+Funkcji określonych w ust. 1 nie można łączyć ze stanowiskiem wójta, burmistrza lub prezydenta.
 
-**Art. 18a.**
+### Art. 20.
 
-1. Rada gminy kontroluje działalność wójta, gminnych jednostek organizacyjnych oraz jednostek pomocniczych gminy; tym celu powołuje komisję rewizyjną.
+### 1.
 
-2. W skład komisji rewizyjnej wchodzą radni, tym przedstawiciele wszystkich klubów, z wyjątkiem radnych pełniących funkcje, o których mowa art. 19 ust. 1.
+Rada gminy obraduje na sesjach zwoływanych przez przewodniczącego w miarę potrzeby, nie rzadziej jednak niż raz na kwartał.
 
-3. Komisja rewizyjna opiniuje wykonanie budżetu gminy i występuje z wnioskiem do rady gminy sprawie udzielenia lub nieudzielenia absolutorium wójtowi. Wniosek sprawie absolutorium podlega zaopiniowaniu przez regionalną izbę obrachunkową. kontroli. Uprawnienie to nie narusza uprawnień kontrolnych innych komisji, powoływanych przez radę gminy na podstawie art. 21 ust. 1.
+### 2.
 
-5. Zasady i tryb działania komisji rewizyjnej określa statut gminy.
+Pierwszą sesję nowo wybranej rady gminy zwołuje przewodniczący rady poprzedniej kadencji w ciągu 7 dni po ogłoszeniu zbiorczych wyników wyborów.
 
-**Art. 18b.**
+### 3.
 
-1. Rada gminy rozpatruje skargi na działania wójta i gminnych jednostek organizacyjnych; wnioski oraz petycje składane przez obywateli; tym celu powołuje komisję skarg, wniosków i petycji.
+Na wniosek zarządu lub co najmniej 1/4 ustawowego składu rady gminy przewodniczący obowiązany jest zwołać sesję w ciągu 7 dni od daty złożenia wniosku.
 
-2. W skład komisji skarg, wniosków i petycji wchodzą radni, tym przedstawiciele wszystkich klubów, z wyjątkiem radnych pełniących funkcje, o których mowa art. 19 ust. 1.
+### Art. 21.
 
-3. Zasady i tryb działania komisji skarg, wniosków i petycji określa statut gminy.
+### 1.
 
-**Art. 19.**
+Rada gminy może powoływać stałe i doraźne komisje do określonych zadań, ustalając przedmiot działania oraz skład osobowy.
 
-1. Rada gminy wybiera ze swego grona przewodniczącego i 1– 3 wiceprzewodniczących bezwzględną większością głosów obecności co najmniej połowy ustawowego składu rady, głosowaniu tajnym.
+### 2.
 
-2. Zadaniem przewodniczącego jest wyłącznie organizowanie pracy rady oraz prowadzenie obrad rady. Przewodniczący może wyznaczyć do wykonywania swoich zadań wiceprzewodniczącego. W przypadku nieobecności przewodniczącego i niewyznaczenia wiceprzewodniczącego, zadania przewodniczącego wykonuje wiceprzewodniczący najstarszy wiekiem.
+W skład komisji mogą wchodzić osoby spoza rady gminy w liczbie nie przekraczającej połowy składu komisji.
 
-3. (uchylony)
+### 3.
 
-4. Odwołanie przewodniczącego i wiceprzewodniczących następuje na wniosek co najmniej 1/4 ustawowego składu rady gminy trybie określonym ust. 1.
+Komisje podlegają radzie gminy, przedkładają jej plan pracy oraz sprawozdania z działalności.
 
-5. W przypadku rezygnacji przewodniczącego lub wiceprzewodniczącego rada podejmuje uchwałę sprawie przyjęcia tej rezygnacji nie później niż ciągu 1 miesiąca od dnia złożenia rezygnacji.
+### Art. 22.
 
-6. Niepodjęcie uchwały, o której mowa ust. 5, ciągu 1 miesiąca od dnia złożenia rezygnacji przez przewodniczącego lub wiceprzewodniczącego jest równoznaczne z przyjęciem rezygnacji przez radę gminy z upływem ostatniego dnia miesiąca, którym powinna być podjęta uchwała.
+Organizację wewnętrzną oraz tryb pracy rady i jej organów określa statut gminy.
 
-7. W przypadku odwołania lub przyjęcia rezygnacji przewodniczącego i wiceprzewodniczących oraz niewybrania ich miejsce osób do pełnienia tych funkcji terminie 30 dni od dnia przyjęcia rezygnacji albo od dnia odwołania, sesję rady gminy celu wyboru przewodniczącego, zwołuje wojewoda. Sesja zwoływana zdaniu pierwszym.
+### Art. 23.
 
-8. Sesję rady gminy, o której mowa ust. 7, do czasu wyboru przewodniczącego prowadzi najstarszy wiekiem radny obecny na sesji, który wyraził zgodę na prowadzenie sesji.
+Radny reprezentuje wyborców, utrzymuje stałą więź z mieszkańcami oraz ich organizacjami, przyjmuje zgłaszane postulaty i przedstawia je organom gminy do rozpatrzenia.
 
-**Art. 20.**
+### Art. 24.
 
-1. Rada gminy obraduje na sesjach zwoływanych przez przewodniczącego miarę potrzeby, nie rzadziej jednak niż raz na kwartał. Do zawiadomienia o zwołaniu sesji dołącza się porządek obrad wraz z projektami uchwał.
+Radny jest obowiązany brać udział w pracach rady gminy i jej organów oraz innych instytucji samorządowych, do których został wybrany lub desygnowany.
 
-1a. Rada gminy może wprowadzić zmiany porządku bezwzględną większością głosów ustawowego składu rady.
+### Art. 25.
 
-1b. Obrady rady gminy są transmitowane i utrwalane za pomocą urządzeń rejestrujących obraz i dźwięk. Nagrania obrad są udostępniane Biuletynie Informacji Publicznej i na stronie internetowej gminy oraz inny sposób zwyczajowo przyjęty.
+### 1.
 
-1c. (uchylony)
+Radny korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
 
-2. Pierwszą sesję nowo wybranej rady gminy zwołuje komisarz wyborczy na dzień przypadający ciągu 7 dni po upływie kadencji rady.
+### 2.
 
-2a. (uchylony) 2b. W przypadku wyborów przedterminowych pierwszą sesję zwołuje osoba, którą Prezes Rady Ministrów wyznaczył do pełnienia funkcji organów jednostki samorządu terytorialnego, na dzień przypadający ciągu 7 dni po ogłoszeniu wyników wyborów do rady gminy. 2ba. Pierwszą sesję rady gminy powstałej wyniku połączenia gmin lub rady nowo utworzonej gminy zwołuje komisarz wyborczy na dzień przypadający terminie 7 dni po dniu ogłoszenia wyników wyborów do rady, a przypadku, o którym mowa art. 390a § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, na dzień przypadający terminie 7 dni od dnia powstania gminy.
+Rozwiązanie z radnym stosunku pracy wymaga uprzedniej zgody rady gminy, której jest członkiem. Rada gminy odmówi zgody na rozwiązanie stosunku pracy z radnym, jeżeli podstawą rozwiązania tego stosunku są zdarzenia związane z wykonywaniem przez radnego mandatu.
 
-2c. Pierwszą sesję nowo wybranej rady gminy, do czasu wyboru przewodniczącego rady, prowadzi najstarszy wiekiem radny obecny na sesji.
+### 3.
 
-3. Na wniosek wójta lub co najmniej 1/4 ustawowego składu rady gminy przewodniczący obowiązany jest zwołać sesję na dzień przypadający ciągu 7 dni od dnia złożenia wniosku. Wniosek o zwołanie sesji powinien spełniać wymogi określone ust. 1 zdaniu drugim. ust. 3 stosuje się przepis ust. 1a, z tym że dodatkowo wymagana jest zgoda wnioskodawcy.
+Pracodawca obowiązany jest zwolnić radnego od pracy zawodowej w celu umożliwienia mu brania udziału w pracach organów gminy.
 
-5. Na wniosek wójta przewodniczący rady gminy jest obowiązany wprowadzić do porządku obrad najbliższej sesji rady gminy projekt uchwały, jeżeli wpłynął on do rady gminy co najmniej 7 dni przed dniem rozpoczęcia sesji rady.
+### 4.
 
-6. Na wniosek klubu radnych przewodniczący rady gminy jest obowiązany wprowadzić do porządku obrad najbliższej sesji rady gminy projekt uchwały, zgłoszony przez klub radnych, jeżeli wpłynął on do rady gminy co najmniej 7 dni przed dniem rozpoczęcia sesji rady. W trybie, o którym mowa zdaniu pierwszym, każdy klub radnych może zgłosić nie więcej niż jeden projekt uchwały na każdą kolejną sesję rady gminy.
+Na zasadach ustalonych przez radę gminy radnemu przysługują diety oraz zwrot kosztów podróży służbowych.
 
-**Art. 21.**
+### 5.
 
-1. Rada gminy ze swojego grona może powoływać stałe i doraźne komisje do określonych zadań, ustalając przedmiot działania oraz skład osobowy.
+Przepisy ust. 3 i 4 stosuje się odpowiednio do członków komisji spoza rady gminy.
 
-2. (uchylony)
+### Art. 26.
 
-3. Komisje podlegają radzie gminy, przedkładają jej plan pracy oraz sprawozdania z działalności.
+### 1.
 
-4. W posiedzeniach komisji mogą uczestniczyć radni niebędący jej członkami. Mogą oni zabierać głos dyskusji i składać wnioski bez prawa udziału głosowaniu.
+Organem wykonawczym gminy jest zarząd.
 
-**Art. 21a.** Przewodniczący rady gminy związku z realizacją swoich obowiązków może wydawać polecenia służbowe pracownikom urzędu gminy wykonującym zadania organizacyjne, prawne oraz inne zadania związane z funkcjonowaniem rady gminy, komisji i radnych. W tym przypadku przewodniczący rady gminy wykonuje uprawnienia zwierzchnika służbowego stosunku do pracowników, o których mowa zdaniu pierwszym.
+### 2.
 
-**Art. 22.**
+W skład zarządu wchodzą: wójt albo burmistrz (prezydent miasta) jako przewodniczący zarządu, ich zastępcy oraz pozostali członkowie.
 
-1. Organizację wewnętrzną oraz tryb pracy organów gminy określa statut gminy.
+### 3.
 
-2. Statut gminy podlega ogłoszeniu wojewódzkim dzienniku urzędowym.
+Burmistrz jest przewodniczącym zarządu w tych gminach, w których siedziba władz znajduje się w miejscowości posiadającej prawa miejskie.
 
-**Art. 23.**
+### 4.
 
-1. Radny obowiązany jest kierować się dobrem wspólnoty samorządowej gminy. Radny utrzymuje stałą więź z mieszkańcami oraz ich organizacjami, a szczególności przyjmuje zgłaszane przez mieszkańców gminy postulaty i przedstawia je organom gminy do rozpatrzenia, nie jest jednak związany instrukcjami wyborców.
+W miastach powyżej 100.000 mieszkańców przewodniczącym zarządu jest prezydent miasta. Dotyczy to również miast, w których do dnia wejścia w życie niniejszej ustawy prezydent miasta był organem wykonawczo-zarządzającym.
 
-2. Radni mogą tworzyć kluby radnych.
+### 5.
 
-4. Zasady działania klubów radnych określa statut gminy.
+Ilekroć w ustawie jest mowa o burmistrzu, należy przez to rozumieć także prezydenta miasta.
 
-**Art. 23a.**
+### Art. 27.
 
-1. Przed przystąpieniem do wykonywania mandatu radni składają ślubowanie: „Wierny Konstytucji i prawu Rzeczypospolitej Polskiej, ślubuję uroczyście obowiązki radnego sprawować godnie, rzetelnie i uczciwie, mając na względzie dobro mojej gminy i jej mieszkańców”.
+Członkostwa zarządu nie można łączyć z zatrudnieniem w administracji rządowej.
 
-2. Ślubowanie odbywa się ten sposób, że po odczytaniu roty wywołani kolejno radni powstają i wypowiadają słowo „ślubuję”. Ślubowanie może być złożone z dodaniem zdania: „Tak mi dopomóż Bóg”.
+### Art. 28.
 
-3. Radni nieobecni na pierwszej sesji rady gminy oraz radni, którzy uzyskali mandat czasie trwania kadencji, składają ślubowanie na pierwszej sesji, na której są obecni.
+### 1.
 
-4. (uchylony)
+Z zastrzeżeniem ust. 2 i 3, zarząd w liczbie od 4 do 7 osób wybiera rada gminy spośród swoich członków, w głosowaniu tajnym.
 
-**Art. 24.**
+### 2.
 
-1. Radny jest obowiązany brać udział pracach rady gminy i jej komisji oraz innych instytucji samorządowych, do których został wybrany lub desygnowany.
+Wójt, burmistrz i ich zastępcy mogą być wybierani spoza składu rady gminy.
 
-2. W wykonywaniu mandatu radnego radny ma prawo, jeżeli nie narusza to dóbr osobistych innych osób, do uzyskiwania informacji i materiałów, wstępu do pomieszczeń, których znajdują się te informacje i materiały, oraz wglądu działalność urzędu gminy, a także spółek z udziałem gminy, spółek handlowych z udziałem gminnych osób prawnych, gminnych osób prawnych, oraz zakładów, przedsiębiorstw i innych gminnych jednostek organizacyjnych, z zachowaniem przepisów o tajemnicy prawnie chronionej.
+### 3.
 
-3. W sprawach dotyczących gminy radni mogą kierować interpelacje i zapytania do wójta.
+Rada gminy wybiera wójta lub burmistrza w oddzielnym, tajnym głosowaniu, bezwzględną większością głosów, w obecności co najmniej 2/3 ustawowego składu rady.
 
-4. Interpelacja dotyczy spraw o istotnym znaczeniu dla gminy. Interpelacja powinna zawierać krótkie przedstawienie stanu faktycznego będącego jej przedmiotem oraz wynikające z niej pytania.
+### 4.
 
-5. Zapytania składa się sprawach aktualnych problemów gminy, a także celu uzyskania informacji o konkretnym stanie faktycznym. Przepis ust. 4 zdanie drugie stosuje się odpowiednio.
+Zastępcę albo zastępców wójta lub burmistrza wybiera rada gminy na wniosek wójta lub burmistrza.
 
-6. Interpelacje i zapytania składane są na piśmie do przewodniczącego rady, który przekazuje je niezwłocznie wójtowi. Wójt, lub osoba przez niego wyznaczona, dnia otrzymania interpelacji lub zapytania.
+### Art. 29.
 
-7. Treść interpelacji i zapytań oraz udzielonych odpowiedzi podawana jest do publicznej wiadomości poprzez niezwłoczną publikację Biuletynie Informacji Publicznej i na stronie internetowej gminy, oraz inny sposób zwyczajowo przyjęty.
+Po upływie kadencji rady gminy zarząd działa do dnia wyboru nowego zarządu.
 
-**Art. 24a.**
+### Art. 30.
 
-1. Z radnym nie może być nawiązywany stosunek pracy urzędzie gminy, której radny uzyskał mandat.
+### 1.
 
-2. Radny nie może pełnić funkcji kierownika gminnej jednostki organizacyjnej oraz jego zastępcy.
+Zarząd wykonuje uchwały rady gminy i zadania gminy określone przepisami prawa.
 
-3. (uchylony)
+### 2.
 
-4. (uchylony)
+Do zadań zarządu należy w szczególności:
 
-**Art. 24b.**
+### 1)
 
-1. Osoba wybrana na radnego nie może wykonywać pracy ramach stosunku pracy urzędzie gminy, której uzyskała mandat, oraz wykonywać funkcji kierownika lub jego zastępcy jednostce organizacyjnej tej gminy. Przed przystąpieniem do wykonywania mandatu osoba ta obowiązana jest złożyć wniosek o urlop bezpłatny terminie 7 dni od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy.
+przygotowywanie projektów uchwał rady gminy,
 
-2. Radny, o którym mowa ust. 1, otrzymuje urlop bezpłatny na okres sprawowania mandatu oraz 3 miesięcy po jego wygaśnięciu.
+### 2)
 
-3. Radny otrzymuje urlop bezpłatny bez względu na rodzaj i okres trwania stosunku pracy. Stosunek pracy zawarty na czas określony, który ustałby przed terminem zakończenia urlopu bezpłatnego, przedłuża się do 3 miesięcy po zakończeniu tego urlopu.
+określanie sposobu wykonywania uchwał,
 
-4. W przypadku radnego wykonującego funkcję kierownika lub jego zastępcy jednostce organizacyjnej, przejętej lub utworzonej przez gminę czasie kadencji, termin, o którym mowa ust. 1, wynosi 6 miesięcy od dnia przejęcia lub utworzenia tej jednostki.
+### 3)
 
-5. Niezłożenie przez radnego wniosku, o którym mowa ust. 1, jest równoznaczne ze zrzeczeniem się mandatu.
+gospodarowanie mieniem komunalnym,
 
-6. Przepisy ust. 1–5 stosuje się odpowiednio przypadku obsadzenia mandatu rady drodze uchwały rady gminy podjętej na podstawie przepisów ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy.
+### 4)
 
-**Art. 24c.** Po wygaśnięciu mandatu pracodawca przywraca radnego do pracy na tym samym lub równorzędnym stanowisku pracy z wynagrodzeniem odpowiadającym Radny zgłasza gotowość przystąpienia do pracy terminie 7 dni od dnia wygaśnięcia mandatu.
+wykonywanie budżetu,
 
-**Art. 24d.** Wójt nie może powierzyć radnemu gminy, której radny uzyskał mandat, wykonywania pracy na podstawie umowy cywilnoprawnej.
+### 5)
 
-**Art. 24e.**
+zatrudnianie i zwalnianie kierowników gminnych jednostek organizacyjnych,
 
-1. Radni nie mogą podejmować dodatkowych zajęć ani otrzymywać darowizn mogących podważyć zaufanie wyborców do wykonywania mandatu zgodnie z art. 23a ust. 1.
+### 6)
 
-2. Radni nie mogą powoływać się na swój mandat związku z podjętymi dodatkowymi zajęciami bądź działalnością gospodarczą prowadzoną na własny rachunek lub wspólnie z innymi osobami.
+wykonywanie zadań zleconych, o których mowa w art. 8.
 
-**Art. 24f.**
+### 3.
 
-1. Radni nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia komunalnego gminy, której radny uzyskał mandat, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem prowadzeniu takiej działalności.
+W realizacji zadań własnych gminy zarząd podlega wyłącznie radzie gminy.
 
-1a. Jeżeli radny przed rozpoczęciem wykonywania mandatu prowadził działalność gospodarczą, o której mowa ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego trybie art. 383 ustawy, o której mowa art. 24b ust. 6.
+### Art. 31.
 
-2. Wójtowie, radni, małżonkowie wójtów, zastępców wójtów, radnych, sekretarzy gminy, skarbników gminy, kierowników jednostek organizacyjnych gminy, osób zarządzających i członków organów zarządzających gminnymi osobami prawnymi, a także osoby pozostające we wspólnym pożyciu z wójtami, zastępcami wójtów, radnymi, sekretarzami gminy, skarbnikami gminy, kierownikami jednostek organizacyjnych gminy, osobami zarządzającymi i członkami organów zarządzających gminnymi osobami prawnymi, nie mogą być członkami władz zarządzających lub kontrolnych i rewizyjnych ani pełnomocnikami spółek handlowych z udziałem gminnych osób prawnych lub przedsiębiorców, których uczestniczą takie osoby. Wybór lub powołanie tych osób na te funkcje są z mocy prawa nieważne.
+Wójt lub burmistrz organizują pracę zarządu, kierują bieżącymi sprawami gminy oraz reprezentują ją na zewnątrz.
 
-3. (uchylony) rozpoczęciem wykonywania mandatu radnego albo dniem wyboru wójta lub przed zatrudnieniem na stanowisku sekretarza gminy, powołaniem na stanowisko zastępcy wójta, skarbnika gminy, kierownika jednostki organizacyjnej gminy oraz osoby zarządzającej i członka organu zarządzającego gminną osobą prawną, osoby, o których mowa ust. 2, są obowiązane zrzec się stanowiska lub funkcji terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo wójta czy też od dnia zatrudnienia na podstawie umowy o pracę lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa ust. 2, traci je z mocy prawa po upływie terminu, o którym mowa zdaniu pierwszym.
+### Art. 32.
 
-5. Radni nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji spółkach prawa handlowego z udziałem gminnych osób prawnych lub przedsiębiorców, których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez radnego przed pierwszą sesją rady gminy, a razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwóch lat po jego wygaśnięciu wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru).
+### 1.
 
-6. (uchylony) Art. 24fa. 1. Wójtowie, zastępcy wójtów, radni, małżonkowie wójtów, zastępców wójtów, radnych, a także osoby pozostające we wspólnym pożyciu z wójtami, zastępcami wójtów, radnymi, nie mogą:
+W sprawach nie cierpiących zwłoki, związanych z bezpośrednim zagrożeniem interesu publicznego, wójt lub burmistrz podejmują czynności należące do kompetencji zarządu. Nie dotyczy to wydawania zarządzeń porządkowych, o których mowa w art. 41 ust. 2.
 
-- **1)** zawierać umów najmu lokali mieszkalnych stanowiących mieszkaniowy zasób gminy, której wójt lub zastępca wójta pełni funkcję lub radny uzyskał mandat, ani umów najmu lokali mieszkalnych utworzonych wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego przez społeczną inicjatywę mieszkaniową, o której mowa art. 23 ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa (Dz. U. z 2024 r. poz. 1440 i 1635), której gmina dysponuje ponad 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu;
-- **2)** nabywać własności lokali mieszkalnych stanowiących mieszkaniowy zasób gminy, której wójt lub zastępca wójta pełni funkcję lub radny uzyskał mandat, ani własności lokali mieszkalnych utworzonych wyniku realizacji przedsięwzięcia inwestycyjno-budowlanego przez społeczną inicjatywę mieszkaniową będącą samorządową osobą prawną. kosztach budowy lokalu mieszkalnego, o której mowa art. 29a ustawy z dnia 26 października 1995 r. o społecznych formach rozwoju mieszkalnictwa, zawartą przed dniem objęcia funkcji wójta, zastępcy wójta albo uzyskania mandatu radnego, przepisu ust. 1 pkt 1 nie stosuje się.
+### 2.
 
-3. Przepisu ust. 1 pkt 1 nie stosuje się do najmu lokalu mieszkalnego wydzielonego przez radę gminy zasobie mieszkaniowym do wynajmowania na czas trwania stosunku pracy, jeżeli umowa tego najmu zawierana jest z wójtem lub zastępcą wójta na czas pełnienia tej funkcji.
+Czynności podjęte w trybie, o którym mowa w ust. 1, wymagają zatwierdzenia na najbliższym posiedzeniu zarządu.
 
-**Art. 24g.** (uchylony)
+### Art. 33.
 
-**Art. 24h.**
+### 1.
 
-1. Radny, wójt, zastępca wójta, sekretarz gminy, skarbnik gminy, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta są obowiązani do złożenia oświadczenia o swoim stanie majątkowym, zwanego dalej „oświadczeniem majątkowym”. Oświadczenie majątkowe dotyczy ich majątku odrębnego oraz majątku objętego małżeńską wspólnością majątkową. Oświadczenie majątkowe zawiera informacje o:
+Zarząd wykonuje zadania przy pomocy urzędu gminy.
 
-- **1)** zasobach pieniężnych, nieruchomościach, udziałach i akcjach spółkach handlowych oraz o nabyciu od Skarbu Państwa, innej państwowej osoby prawnej, jednostek samorządu terytorialnego, ich związków, komunalnej osoby prawnej lub od związku metropolitalnego mienia, które podlegało zbyciu drodze przetargu, a także dane o prowadzeniu działalności gospodarczej oraz dotyczące zajmowania stanowisk spółkach handlowych;
-- **2)** dochodach osiąganych z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu;
-- **3)** mieniu ruchomym o wartości powyżej 10 000 złotych;
-- **4)** zobowiązaniach pieniężnych o wartości powyżej 10 000 złotych, tym zaciągniętych kredytach i pożyczkach oraz warunkach, na jakich zostały udzielone.
+### 2.
 
-2. Osoba składająca oświadczenie majątkowe określa nim przynależność poszczególnych składników majątkowych, dochodów i zobowiązań do majątku odrębnego i majątku objętego małżeńską wspólnością majątkową. osiągniętego dochodu roku podatkowym (PIT) za rok poprzedni i jego korektą składają dwóch egzemplarzach:
+Organizację i zasady funkcjonowania urzędu określa regulamin organizacyjny, uchwalony na wniosek zarządu przez radę gminy.
 
-- **1)** radny – przewodniczącemu rady gminy;
-- **2)** wójt, przewodniczący rady gminy – wojewodzie;
-- **3)** zastępca wójta, sekretarz gminy, skarbnik gminy, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta – wójtowi.
+### 3.
 
-4. Radny i wójt składają pierwsze oświadczenie majątkowe terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem mienia gminy, której uzyskał mandat, a wójt informację o zaprzestaniu prowadzenia działalności gospodarczej, jeżeli taką działalność prowadzili przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego i wójta co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji.
+Kierownikiem urzędu jest wójt lub burmistrz.
 
-5. Zastępca wójta, sekretarz gminy, skarbnik gminy, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta składają pierwsze oświadczenie majątkowe terminie 30 dni od dnia powołania na stanowisko lub od dnia zatrudnienia. Do pierwszego oświadczenia majątkowego zastępca wójta, sekretarz gminy, skarbnik gminy, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta są obowiązani dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej, jeżeli prowadzili ją przed dniem powołania lub zatrudnienia. Kolejne oświadczenia majątkowe są składane przez nich co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz dniu odwołania ze stanowiska lub rozwiązania umowy o pracę.
+### 4.
 
-5a. Jeżeli terminy określone ust. 4 lub 5 nie zostaną dotrzymane, odpowiednio, przewodniczący rady gminy, wojewoda lub wójt terminie 14 dni od dnia stwierdzenia niedotrzymania terminu wzywa osobę, która nie złożyła oświadczenia do jego niezwłocznego złożenia wyznaczając dodatkowy czternastodniowy termin. Termin ten liczy się od dnia skutecznego dostarczenia wezwania. którym złożono oświadczenie majątkowe. Osoby, którym złożono oświadczenie majątkowe, przekazują jeden egzemplarz urzędowi skarbowemu właściwemu ze względu na miejsce zamieszkania osoby składającej oświadczenie majątkowe. Oświadczenie majątkowe przechowuje się przez 6 lat.
+W zakresie ustalonym przez zarząd wójt lub burmistrz może powierzyć prowadzenie spraw gminy w swoim imieniu sekretarzowi gminy.
 
-7. Analizy danych zawartych oświadczeniu majątkowym dokonuje również naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania osoby składającej oświadczenie majątkowe. Analizując oświadczenie majątkowe, naczelnik urzędu skarbowego uwzględnia również zeznanie o wysokości osiągniętego dochodu roku podatkowym (PIT) małżonka osoby składającej oświadczenie.
+### 5.
 
-8. Podmiot dokonujący analizy, o której mowa ust. 6 i 7, jest uprawniony do porównania treści analizowanego oświadczenia majątkowego oraz załączonej kopii zeznania o wysokości osiągniętego dochodu roku podatkowym (PIT) z treścią uprzednio złożonych oświadczeń majątkowych oraz z dołączonymi do nich kopiami zeznań o wysokości osiągniętego dochodu roku podatkowym (PIT).
+Kierownik urzędu wykonuje uprawnienia zwierzchnika służbowego w stosunku do pracowników urzędu oraz kierowników gminnych jednostek organizacyjnych, z zastrzeżeniem art. 30 ust. 2 pkt 5.
 
-9. W przypadku podejrzenia, że osoba składająca oświadczenie majątkowe podała nim nieprawdę lub zataiła prawdę, podmiot dokonujący analizy oświadczenia występuje do Centralnego Biura Antykorupcyjnego z wnioskiem o kontrolę jej oświadczenia majątkowego.
+### 6.
 
-10. (uchylony)
+Status prawny pracowników samorządowych określa odrębna ustawa.
 
-11. Do postępowania sprawie kontroli oświadczenia majątkowego stosuje się odpowiednio przepisy ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718).
+### Art. 34.
 
-12. Podmiot dokonujący analizy oświadczeń majątkowych terminie do dnia 30 października każdego roku przedstawia radzie gminy informację o:
+Sekretarz i skarbnik gminy (główny księgowy budżetu) uczestniczą w pracach zarządu bez prawa głosowania.
 
-- **1)** osobach, które nie złożyły oświadczenia majątkowego lub złożyły je po terminie;
-- **2)** nieprawidłowościach stwierdzonych analizowanych oświadczeniach majątkowych wraz z ich opisem i wskazaniem osób, które złożyły nieprawidłowe oświadczenia;
-- **3)** działaniach podjętych związku z nieprawidłowościami stwierdzonymi analizowanych oświadczeniach majątkowych.
+### Art. 35.
 
-13. Prezes Rady Ministrów określi, drodze rozporządzenia, wzór formularza oświadczenia majątkowego radnego oraz wzór formularza oświadczenia majątkowego wójta, zastępcy wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osoby zarządzającej i członka organu zarządzającego gminną uwzględniając zakazy określone odniesieniu do tych osób przepisach ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499).
+Organizację i zakres działania sołectwa, dzielnicy (osiedla) określa właściwa rada gminy odrębnym statutem.
 
-**Art. 24i.**
+### Art. 36.
 
-1. Informacje zawarte oświadczeniu majątkowym są jawne, z wyłączeniem informacji o adresie zamieszkania składającego oświadczenie oraz o miejscu położenia nieruchomości.
+### 1.
 
-2. Wojewoda i przewodniczący rady gminy przekazują wójtowi kopie oświadczeń majątkowych, które im złożono.
+Organem uchwałodawczym w sołectwie jest zebranie wiejskie, a wykonawczym - sołtys. Działalność sołtysa wspomaga rada sołecka.
 
-3. Jawne informacje zawarte oświadczeniach majątkowych są udostępniane Biuletynie Informacji Publicznej, o którym mowa ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902).
+### 2.
 
-**Art. 24j.** (uchylony)
+Sołtys oraz członkowie rady sołeckiej wybierani są w głosowaniu tajnym, bezpośrednim, spośród nieograniczonej liczby kandydatów, przez stałych mieszkańców sołectwa uprawnionych do głosowania.
 
-**Art. 24k.**
+### Art. 37.
 
-1. Niezłożenie oświadczenia majątkowego mimo upływu dodatkowego terminu, o którym mowa art. 24h ust. 5a przez:
+### 1.
 
-- **1)** radnego lub wójta – powoduje wygaśnięcie mandatu trybie odpowiednio art. 383 lub art. 492 ustawy, o której mowa art. 24b ust. 6;
-- **2)** zastępcę wójta, sekretarza gminy, skarbnika gminy, kierownika jednostki organizacyjnej gminy, osobę zarządzającą i członka organu zarządzającego gminną osobą prawną oraz osobę wydającą decyzje administracyjne imieniu wójta – powoduje utratę ich wynagrodzenia za okres od dnia, którym powinno być złożone oświadczenie do dnia złożenia oświadczenia.
+Organem uchwałodawczym w dzielnicy (osiedlu) jest rada o liczbie członków ustalonej według art. 17. Zasady i tryb przeprowadzania wyborów określa rada gminy.
 
-2. Jeżeli skarbnik gminy nie złoży terminie oświadczenia majątkowego, rada gminy odwołuje go, drodze uchwały, najpóźniej po upływie 30 dni od dnia, którym upłynął termin do złożenia oświadczenia.
+### 2.
 
-3. Jeżeli sekretarz gminy, zastępca wójta, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta nie złożą terminie oświadczenia majątkowego, właściwy organ odwołuje ich albo rozwiązuje z nimi umowę o pracę najpóźniej po upływie 30 dni od dnia, którym upłynął termin do złożenia oświadczenia.
+Organem wykonawczym w dzielnicy (osiedlu) jest zarząd wybierany według art. 28. Na czele zarządu stoi przewodniczący.
 
-4. Odwołanie i rozwiązanie umowy o pracę trybie określonym ust. 2 i 3 jest równoznaczne z rozwiązaniem umowy o pracę bez wypowiedzenia na podstawie art. 52 § 1 pkt 1 Kodeksu pracy. powoduje odpowiedzialność na podstawie art. 233 § 1 Kodeksu karnego.
+### 3.
 
-**Art. 24m.**
+Statut osiedla może ustalić, że w osiedlu organem uchwałodawczym jest ogólne zebranie mieszkańców. Ogólne zebranie wybiera zarząd osiedla; art. 36 ust. 2 stosuje się odpowiednio.
 
-1. Wójt, zastępca wójta, skarbnik gminy, sekretarz gminy, kierownik jednostki organizacyjnej gminy, osoba zarządzająca i członek organu zarządzającego gminną osobą prawną oraz osoba wydająca decyzje administracyjne imieniu wójta trakcie pełnienia funkcji lub trwania zatrudnienia oraz przez okres 3 lat po zakończeniu pełnienia funkcji lub ustaniu zatrudnienia nie mogą przyjąć jakiegokolwiek świadczenia o charakterze majątkowym, nieodpłatnie lub odpłatnie wysokości niższej od jego rzeczywistej wartości od podmiotu lub podmiotu od niego zależnego, jeżeli biorąc udział wydaniu rozstrzygnięcia sprawach indywidualnych jego dotyczących mieli bezpośredni wpływ na jego treść.
+### Art. 38.
 
-2. Podmiotem zależnym rozumieniu ust. 1 jest podmiot, którym:
+Odrębności ustroju gmin, które wykonują zadania o szczególnym charakterze, określają właściwe ustawy. Dotyczy to w szczególności gmin uzdrowiskowych.
 
-- **1)** przedsiębiorca posiada bezpośrednio lub pośrednio większość głosów jego organach, także na podstawie porozumień z innymi wspólnikami i akcjonariuszami;
-- **2)** przedsiębiorca jest uprawniony do powoływania albo odwoływania większości członków organów zarządzających podmiotu zależnego;
-- **3)** więcej niż połowa członków zarządu przedsiębiorcy jest jednocześnie członkami zarządu albo osobami pełniącymi funkcje kierownicze podmiocie pozostającym z przedsiębiorcą stosunku zależności.
+### Art. 39.
 
-3. Zakaz, o którym mowa ust. 1, nie dotyczy nabycia przedmiotu lub usługi dostępnych ramach publicznej oferty, a także nie dotyczy przedmiotów zwyczajowo wykorzystywanych celach reklamowych i promocyjnych oraz nagród przyznawanych konkursach na działalność artystyczną.
+### 1.
 
-**Art. 25.**
+Decyzje w indywidualnych sprawach z zakresu administracji publicznej wydaje wójt lub burmistrz.
 
-1. W związku z wykonywaniem mandatu radny korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
+### 2.
 
-2. Rozwiązanie z radnym stosunku pracy wymaga uprzedniej zgody rady gminy, której jest członkiem. Rada gminy odmówi zgody na rozwiązanie stosunku pracy z radnym, jeżeli podstawą rozwiązania tego stosunku są zdarzenia związane z wykonywaniem przez radnego mandatu.
+Wójt lub burmistrz może upoważnić swoich zastępców lub innych pracowników urzędu gminy do wydawania w jego imieniu decyzji administracyjnych, o których mowa w ust. 1.
 
-3. Pracodawca obowiązany jest zwolnić radnego od pracy zawodowej celu umożliwienia mu brania udziału pracach organów gminy.
+### 3.
 
-4. Na zasadach ustalonych przez radę gminy radnemu przysługują diety oraz zwrot kosztów podróży służbowych.
+Do załatwiania indywidualnych spraw z zakresu administracji publicznej rada gminy może upoważnić również organy wykonawcze jednostek pomocniczych, o których mowa w art. 5 ust. 1, oraz organy jednostek i podmiotów, o których mowa w art. 9 ust. 1.
 
-6. Wysokość diet przysługujących radnemu nie może przekroczyć ciągu miesiąca łącznie 2,4-krotności kwoty bazowej określonej ustawie budżetowej dla osób zajmujących kierownicze stanowiska państwowe na podstawie przepisów ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. z 2024 r. poz. 1356).
+### 4.
 
-7. Rada Ministrów określa, drodze rozporządzenia, maksymalną wysokość diet przysługujących radnemu ciągu miesiąca, uwzględniając liczbę mieszkańców gminy, przy czym kwota wymieniona ust. 6 oznacza maksymalną wysokość diet gminach o największej liczbie mieszkańców.
+Od decyzji administracyjnych, wydawanych przez wójta lub burmistrza w sprawach należących do zadań własnych gminy, służy odwołanie do kolegium odwoławczego przy sejmiku samorządowym, a w sprawach zleconych - do wojewody.
 
-8. Rada gminy przy ustalaniu wysokości diet radnych bierze pod uwagę funkcje pełnione przez radnego.
+### Rozdział 4 Przepisy gminne
 
-8a. W gminie będącej jednostką zainteresowania publicznego rozumieniu art. 2 pkt 9 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863) za funkcję pełnioną przez radnego uważa się również członkostwo komitecie audytu.
+### Art. 40.
 
-9. (uchylony)
+### 1.
 
-10. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia, sposób ustalania należności z tytułu zwrotu kosztów podróży służbowych radnych, uwzględniając celowość zwrotu rzeczywiście poniesionych wydatków związanych z wykonywaniem mandatu oraz ułatwienie dokonywania rozliczeń.
+Na podstawie upoważnień ustawowych gminie przysługuje prawo stanowienia przepisów powszechnie obowiązujących na obszarze gminy, zwanych dalej przepisami gminnymi.
 
-**Art. 25a.** Radny nie może brać udziału głosowaniu radzie ani komisji, jeżeli dotyczy ono jego interesu prawnego.
+### 2.
 
-**Art. 25b.** Mandatu radnego gminy nie można łączyć z:
+Na podstawie niniejszej ustawy organy gminy mogą wydawać przepisy gminne w zakresie:
 
-**Art. 26.**
+### 1)
 
-1. Organem wykonawczym gminy jest wójt.
+wewnętrznego ustroju gminy oraz sołectw, dzielnic (osiedli),
 
-2. Kadencja wójta rozpoczyna się dniu rozpoczęcia kadencji rady gminy lub wyboru go przez radę gminy i upływa z dniem upływu kadencji rady gminy.
+### 2)
 
-2a. Wójtem (burmistrzem, prezydentem miasta) nie może być osoba, która nie jest obywatelem polskim. znajduje się mieście położonym na terytorium tej gminy.
+organizacji urzędów i instytucji gminnych,
 
-4. W miastach powyżej 100 000 mieszkańców organem wykonawczym jest prezydent miasta. Dotyczy to również miast, których do dnia wejścia życie niniejszej ustawy prezydent miasta był organem wykonawczo-zarządzającym.
+### 3)
 
-5. (uchylony)
+zasad zarządu mieniem gminy,
 
-**Art. 26a.**
+### 4)
 
-1. Wójt, drodze zarządzenia, powołuje oraz odwołuje swojego zastępcę lub zastępców i określa ich liczbę.
+zasad i trybu korzystania z gminnych obiektów i urządzeń użyteczności publicznej.
 
-2. Liczba zastępców wójta nie może być większa niż:
+### 3.
 
-- **1)** jeden gminach do 20 000 mieszkańców;
-- **2)** dwóch gminach do 100 000 mieszkańców;
-- **3)** trzech gminach do 200 000 mieszkańców;
-- **4)** czterech gminach powyżej 200 000 mieszkańców.
+W zakresie nie uregulowanym w odrębnych ustawach lub innych przepisach powszechnie obowiązujących rada gminy może wydawać przepisy porządkowe, jeżeli jest to niezbędne dla ochrony życia lub zdrowia obywateli oraz dla zapewnienia porządku, spokoju i bezpieczeństwa publicznego.
 
-3. W przypadku gdy określona przez wójta liczba jego zastępców jest większa niż jeden, zarządzeniu, o którym mowa ust. 1, wójt wskazuje imiennie pierwszego i kolejnych zastępców.
+### 4.
 
-**Art. 27.** Funkcji wójta oraz jego zastępcy nie można łączyć z:
+Przepisy porządkowe, o których mowa w ust. 3, mogą przewidywać za ich naruszanie karę grzywny wymierzaną w trybie i na zasadach określonych w prawie o wykroczeniach.
 
-**Art. 28.** Do wójta i jego zastępców stosuje się odpowiednio przepis art. 24e ust. 1.
+### Art. 41.
 
-**Art. 28a.**
+### 1.
 
-1. Uchwała rady gminy sprawie nieudzielenia wójtowi absolutorium, podjęta po upływie 9 miesięcy od dnia wyboru wójta i nie później niż na 9 miesięcy przed zakończeniem kadencji, jest równoznaczna z podjęciem inicjatywy przeprowadzenia referendum sprawie odwołania wójta. Przed podjęciem uchwały sprawie udzielenia wójtowi absolutorium rada gminy zapoznaje się z wnioskiem i opinią, o których mowa art. 18a ust. 3.
+Przepisy gminne ustanawia rada gminy w formie uchwały.
 
-2. Uchwałę sprawie absolutorium rada gminy podejmuje bezwzględną większością głosów ustawowego składu rady gminy.
+### 2.
 
-3. Rada gminy może podjąć uchwałę o przeprowadzeniu referendum sprawie odwołania wójta z przyczyny określonej ust. 1 na sesji zwołanej nie wcześniej niż absolutorium.
+W przypadku nie cierpiącym zwłoki przepisy porządkowe może wydać zarząd w formie zarządzenia.
 
-4. Przed podjęciem uchwały, o której mowa ust. 3, rada gminy zapoznaje się z opinią regionalnej izby obrachunkowej sprawie uchwały rady gminy o nieudzieleniu wójtowi absolutorium oraz wysłuchuje wyjaśnień wójta.
+### 3.
 
-5. Uchwałę, o której mowa ust. 3, rada gminy podejmuje bezwzględną większością głosów ustawowego składu rady, głosowaniu imiennym. Art. 28aa. 1. Wójt co roku do dnia 31 maja przedstawia radzie gminy raport o stanie gminy.
+Zarządzenie, o którym mowa w ust. 2, podlega zatwierdzeniu na najbliższej sesji rady gminy. Traci ono moc w razie odmowy zatwierdzenia bądź nieprzedstawienia do zatwierdzenia na najbliższej sesji rady.
 
-2. Raport obejmuje podsumowanie działalności wójta roku poprzednim, szczególności realizację polityk, programów i strategii, uchwał rady gminy i budżetu obywatelskiego.
+### 4.
 
-3. Rada gminy może określić drodze uchwały szczegółowe wymogi dotyczące raportu.
+W razie nieprzedstawienia do zatwierdzenia lub odmowy zatwierdzenia zarządzenia, rada gminy określa termin utraty jego mocy obowiązującej.
 
-3a. W gminach, które posiadają miejski plan adaptacji, przy sporządzaniu raportu o stanie gminy uwzględnia się wnioski i rekomendacje zawarte sprawozdaniu, o którym mowa art. 18c ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647).
+### Art. 42.
 
-4. Rada gminy rozpatruje raport, o którym mowa ust. 1, podczas sesji, na której podejmowana jest uchwała rady gminy sprawie udzielenia lub nieudzielenia absolutorium wójtowi. Raport rozpatrywany jest pierwszej kolejności. Nad przedstawionym raportem o stanie gminy przeprowadza się debatę.
+### 1.
 
-5. W debacie nad raportem o stanie gminy radni zabierają głos bez ograniczeń czasowych.
+Przepisy gminne ogłasza się przez rozplakatowanie obwieszczeń w miejscach publicznych lub w inny sposób miejscowo przyjęty, a także przez ogłoszenie w lokalnej prasie, chyba że przepisy prawa stanowią inaczej.
 
-6. W debacie nad raportem o stanie gminy mieszkańcy gminy mogą zabierać głos.
+### 2.
 
-7. Mieszkaniec, który chciałby zabrać głos trybie określonym ust. 6, składa do przewodniczącego rady pisemne zgłoszenie, poparte podpisami:
+Przepisy gminne wchodzą w życie z dniem ogłoszenia, o ile nie przewidują wyraźnie terminu późniejszego.
 
-- **1)** gminie do 20 000 mieszkańców – co najmniej 20 osób;
-- **2)** gminie powyżej 20 000 mieszkańców – co najmniej 50 osób.
+### 3.
 
-8. Zgłoszenie składa się najpóźniej dniu poprzedzającym dzień, na który zwołana została sesja, podczas której ma być przedstawiany raport o stanie gminy. Mieszkańcy są dopuszczani do głosu według kolejności otrzymania przez przewodniczącego rady zgłoszenia. Liczba mieszkańców mogących zabrać głos debacie wynosi 15, chyba że rada postanowi o zwiększeniu tej liczby. głosowanie nad udzieleniem wójtowi wotum zaufania. Uchwałę o udzieleniu wójtowi wotum zaufania rada gminy podejmuje bezwzględną większością głosów ustawowego składu rady gminy. Niepodjęcie uchwały o udzieleniu wójtowi wotum zaufania jest równoznaczne z podjęciem uchwały o nieudzieleniu wójtowi wotum zaufania.
+Urząd gminy prowadzi zbiór przepisów gminnych dostępny do powszechnego wglądu w jego siedzibie.
 
-10. W przypadku nieudzielenia wójtowi wotum zaufania dwóch kolejnych latach rada gminy może podjąć uchwałę o przeprowadzeniu referendum sprawie odwołania wójta. Przepisy art. 28a ust. 3 i 5 stosuje się odpowiednio.
+### Rozdział 5 Mienie komunalne
 
-**Art. 28b.**
+### Art. 43.
 
-1. Rada gminy, po upływie 9 miesięcy od dnia wyboru wójta i nie później niż na 9 miesięcy przed zakończeniem kadencji, może podjąć uchwałę o przeprowadzeniu referendum sprawie odwołania wójta z przyczyny innej niż nieudzielenie wójtowi absolutorium lub nieudzielenie wójtowi wotum zaufania jedynie na wniosek co najmniej 1/4 ustawowego składu rady.
+Mieniem komunalnym jest własność i inne prawa majątkowe należące do poszczególnych gmin i ich związków oraz mienie innych komunalnych osób prawnych, w tym przedsiębiorstw.
 
-2. Wniosek, o którym mowa ust. 1, wymaga formy pisemnej i uzasadnienia przyczyny odwołania oraz podlega zaopiniowaniu przez komisję rewizyjną.
+### Art. 44.
 
-3. Rada gminy może podjąć uchwałę o przeprowadzeniu referendum sprawie odwołania wójta na sesji zwołanej nie wcześniej niż po upływie 14 dni od dnia złożenia wniosku, o którym mowa ust. 1.
+Nabycie mienia komunalnego następuje:
 
-4. Uchwałę, o której mowa ust. 3, rada gminy podejmuje większością co najmniej 3/5 głosów ustawowego składu rady, głosowaniu imiennym.
+### 1)
 
-**Art. 28c.** Jeżeli zgłoszony trybie art. 28b wniosek o podjęcie uchwały o przeprowadzeniu referendum sprawie odwołania wójta nie uzyskał wymaganej większości głosów, kolejny wniosek może być zgłoszony tym trybie nie wcześniej niż po upływie 12 miesięcy od poprzedniego głosowania.
+na podstawie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym,
 
-**Art. 28d.**
+### 2)
 
-1. W przypadku wygaśnięcia mandatu wójta przed upływem kadencji, przeprowadza się wybory przedterminowe na zasadach określonych ustawie, o której mowa art. 24b ust. 6.
+przez przekazanie gminie mienia w związku z utworzeniem lub zmianą granic gminy w trybie, o którym mowa w art. 4; przekazanie mienia następuje w drodze porozumienia zainteresowanych gmin, a w razie braku porozumienia - decyzją Prezesa Rady Ministrów,
 
-2. Wyborów nie przeprowadza się, jeżeli data wyborów przedterminowych miałaby przypaść okresie 6 miesięcy przed zakończeniem kadencji wójta. Wyborów przedterminowych nie przeprowadza się także wtedy, jeżeli data wyborów miałaby przypaść okresie dłuższym niż 6 a krótszym niż 12 miesięcy przed zakończeniem kadencji wójta i rada terminie 30 dni od dnia podjęcia uchwały stwierdzającej wygaśnięcie mandatu wójta podejmie uchwałę o nieprzeprowadzaniu wyborów. o których mowa art. 492 § 1 pkt 8 lub 9 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, jest równoznaczne z odwołaniem jego zastępcy lub zastępców.
+### 3)
 
-**Art. 28f.**
+w wyniku przekazania przez administrację rządową na zasadach określonych przez Radę Ministrów w drodze rozporządzenia,
 
-1. W przypadku wygaśnięcia mandatu wójta przed upływem kadencji jego funkcję, do czasu objęcia obowiązków przez nowo wybranego wójta, pełni:
+### 4)
 
-- **1)** zastępca wójta;
-- **2)** pierwszy zastępca – gminie, której powołano więcej niż jednego zastępcę;
-- **3)** osoba wyznaczona przez Prezesa Rady Ministrów – gminie, której nie powołano zastępcy wójta albo został on odwołany.
+w wyniku własnej działalności gospodarczej,
 
-2. Przewodniczący rady, terminie 7 dni od dnia wygaśnięcia mandatu wójta, pisemnie informuje wojewodę o objęciu funkcji wójta przez zastępcę albo pierwszego zastępcę, albo o konieczności wyznaczenia przez Prezesa Rady Ministrów osoby pełniącej funkcję wójta.
+### 5)
 
-3. Prezes Rady Ministrów, na wniosek wojewody przekazany niezwłocznie za pośrednictwem ministra właściwego do spraw administracji publicznej, terminie 7 dni od dnia otrzymania wniosku, wyznacza osobę pełniącą funkcję wójta do czasu objęcia obowiązków przez nowo wybranego wójta.
+przez inne czynności prawne,
 
-4. W przypadku wygaśnięcia mandatu wójta czasie wykonywania zadań i kompetencji wójta przez zastępcę wójta albo osobę, o której mowa art. 28h, funkcję wójta, do czasu objęcia obowiązków przez nowo wybranego wójta, pełni osoba, która przejęła wykonywanie zadań i kompetencji wójta na podstawie art. 28g.
+### 6)
 
-**Art. 28g.**
+w innych przypadkach określonych odrębnymi przepisami.
 
-1. W przypadku przemijającej przeszkody wykonywaniu zadań i kompetencji wójta spowodowanej jedną z następujących okoliczności:
+### Art. 45.
 
-- **1)** tymczasowym aresztowaniem,
-- **2)** odbywaniem kary pozbawienia wolności wymierzonej za przestępstwo nieumyślne,
-- **3)** odbywaniem kary aresztu,
-- **4)** niezdolnością do pracy z powodu choroby trwającej powyżej 30 dni,
-- **5)** zawieszeniem czynnościach służbowych – jego zadania i kompetencje przejmuje zastępca, a gminach, których powołano więcej niż jednego zastępcę – pierwszy zastępca.
+### 1.
 
-2. W przypadku gdy gminie nie powołano zastępcy wójta zadania i kompetencje wójta przejmuje osoba, o której mowa art. 28h. przez zastępcę albo pierwszego zastępcę, spowodowanej przez jedną z okoliczności, o których mowa ust. 1, zadania i kompetencje wójta przejmuje osoba, o której mowa art. 28h.
+Podmioty mienia komunalnego samodzielnie decydują o przeznaczeniu i sposobie wykorzystania składników majątkowych, przy zachowaniu wymogów zawartych w odrębnych przepisach prawa, z zastrzeżeniem przepisu ust. 2.
 
-3a. W przypadku gdy przemijająca przeszkoda wykonywaniu zadań i kompetencji wójta spowodowana przez jedną z okoliczności, o których mowa ust. 1, zaistnieje przed złożeniem przez wójta ślubowania, zadania i kompetencje wójta przejmuje osoba, o której mowa art. 28h.
+### 2.
 
-4. Potwierdzeniem zaistnienia okoliczności, o których mowa ust. 1, są odpowiednio:
+Uchwała rady gminy dotycząca:
 
-- **1)** zawiadomienie pracodawcy, o którym mowa art. 261 § 3 Kodeksu postępowania karnego – przypadku okoliczności, o której mowa ust. 1 pkt 1;
-- **2)** wezwanie sądu do odbycia kary pozbawienia wolności albo aresztu – przypadku okoliczności, o których mowa ust. 1 pkt 2 i 3;
-- **3)** zaświadczenie lekarskie, o którym mowa ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501) – przypadku okoliczności, o której mowa ust. 1 pkt 4;
-- **4)** postanowienie prokuratora albo postanowienie sądu o zastosowaniu środka zapobiegawczego postaci zawieszenia czynnościach służbowych, o którym mowa art. 276 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304) – przypadku okoliczności, o której mowa ust. 1 pkt 5.
+### 1)
 
-5. Wezwania, o których mowa ust. 4 pkt 2, sąd przesyła przewodniczącemu rady.
+zmiany przeznaczenia oraz zbycia nieruchomości służącej do powszechnego użytku lub bezpośredniego zaspokojenia potrzeb publicznych,
 
-5a. Postanowienia, o których mowa ust. 4 pkt 4, sąd lub prokurator przesyła przewodniczącemu rady.
+### 2)
 
-6. Zastępca, pierwszy zastępca albo osoba, o której mowa art. 28h, wykonuje zadania i kompetencje wójta:
+zmiany przeznaczenia oraz zbycia przedmiotów posiadających szczególną wartość naukową, historyczną, kulturalną i przyrodniczą,
 
-- **1)** od dnia zatrzymania do dnia zwolnienia – przypadku okoliczności, o której mowa ust. 1 pkt 1,
-- **2)** od dnia wskazanego wezwaniu do stawienia się zakładzie karnym do dnia zwolnienia – przypadku okoliczności, o których mowa ust. 1 pkt 2 i 3, o której mowa ust. 1 pkt 4,
-- **4)** okresie zawieszenia czynnościach służbowych – przypadku okoliczności, o której mowa ust. 1 pkt 5 – (uchylona)
+### 3)
 
-7. W terminie 48 godzin od powzięcia wiadomości o zaistnieniu jednej z okoliczności, o których mowa ust. 1, przewodniczący rady pisemnie informuje wojewodę o zaistnieniu takiej okoliczności i:
+zbycia w trybie nieodpłatnym innych składników mienia komunalnego
 
-- **1)** przejęciu zadań i kompetencji wójta przez zastępcę albo pierwszego zastępcę albo
-- **2)** konieczności wyznaczenia osoby, o której mowa art. 28h – związku z przepisem ust. 2, albo
-- **3)** konieczności wyznaczenia osoby, o której mowa art. 28h – związku z przepisem ust. 3.
+wymaga zgody sejmiku samorządowego. jeżeli wojewoda zgłosi sprzeciw wobec uchwały.
 
-**Art. 28h.** W przypadkach, o których mowa art. 28g ust. 2, 3 i 3a, Prezes Rady Ministrów, na wniosek wojewody przekazany niezwłocznie za pośrednictwem ministra właściwego do spraw administracji publicznej, wyznacza osobę, która przejmie wykonywanie zadań i kompetencji wójta.
+### Art. 46.
 
-**Art. 28i.**
+### 1.
 
-1. Zrzeczenie się funkcji wójta lub wystąpienie jednej z przyczyn skutkujących wygaśnięciem mandatu wójta, o których mowa art. 492 § 1 pkt 2, 4– 7 i 10 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, czasie pełnienia funkcji wójta albo wykonywania zadań i kompetencji wójta przez zastępcę wójta, jest równoznaczne z odwołaniem ze stanowiska zastępcy wójta.
+Oświadczenie woli w imieniu gminy w zakresie zarządu mieniem składają dwaj członkowie zarządu lub jeden członek zarządu i osoba upoważniona przez zarząd (pełnomocnik), o ile statut nie stanowi inaczej.
 
-2. Wojewoda stwierdza odwołanie ze stanowiska zastępcy wójta z przyczyn, o których mowa ust. 1, drodze zarządzenia.
+### 2.
 
-3. Od zarządzenia wojewody, o którym mowa ust. 2, przysługuje skarga do sądu administracyjnego terminie 7 dni od dnia doręczenia zarządzenia. Skargę wnosi się za pośrednictwem wojewody.
+Zarząd może udzielić wójtowi lub burmistrzowi upoważnienia do składania jednoosobowo oświadczeń woli związanych z prowadzeniem bieżącej działalności gminy.
 
-4. Sąd administracyjny rozpatruje skargę, o której mowa ust. 3, terminie 14 dni od dnia jej wniesienia. Skargę kasacyjną wnosi się terminie 14 dni. Naczelny Sąd Administracyjny rozpatruje skargę kasacyjną terminie 30 dni.
+### 3.
 
-5. Odwołanie ze stanowiska zastępcy wójta następuje z dniem uprawomocnienia się wyroku sądu administracyjnego oddalającego skargę, o której mowa ust. 3, albo upływu terminu do jej wniesienia. obowiązków przez nowo wybranego wójta albo osobę, którą Prezes Rady Ministrów wyznaczył do pełnienia funkcji wójta.
+Jeżeli czynność prawna może spowodować powstanie zobowiązań pieniężnych, do jej skuteczności potrzebna jest kontrasygnata skarbnika gminy (głównego księgowego budżetu) lub osoby przez niego upoważnionej.
 
-2. Po upływie kadencji wójta, zastępca wójta pełni swoje obowiązki do czasu objęcia obowiązków przez nowo powołanego zastępcę wójta.
+### 4.
 
-**Art. 29a.**
+Skarbnik gminy (główny księgowy budżetu), który odmówił kontrasygnaty, dokona jej jednak na pisemne polecenie zwierzchnika, powiadamiając o tym radę gminy oraz regionalną izbę obrachunkową.
 
-1. Objęcie obowiązków przez wójta następuje z chwilą złożenia wobec rady gminy ślubowania o następującej treści: „Obejmując urząd wójta (burmistrza, prezydenta) gminy (miasta), uroczyście ślubuję, że dochowam wierności prawu, a powierzony mi urząd sprawować będę tylko dla dobra publicznego i pomyślności mieszkańców gminy (miasta).” Ślubowanie może być złożone z dodaniem zdania: „Tak mi dopomóż Bóg.”.
+### Art. 47.
 
-2. Wójt składa ślubowanie podczas pierwszej sesji nowo wybranej rady zwołanej na podstawie art. 20 ust. 2, a przypadku wyboru wójta:
+### 1.
 
-- **1)** ponownym głosowaniu – podczas pierwszej sesji nowo wybranej rady zwołanej po dniu ogłoszenia obwieszczenia komisarza wyborczego o wynikach wyborów wójta wojewódzkim dzienniku urzędowym,
-- **2)** wyborach przedterminowych albo ponownych – podczas pierwszej sesji rady przypadającej po dniu ogłoszenia obwieszczenia komisarza wyborczego o wynikach wyborów wójta wojewódzkim dzienniku urzędowym – nie później jednak niż terminie 14 dni od dnia ogłoszenia wyników tych wyborów.
+Kierownicy jednostek organizacyjnych gminy nie posiadających osobowości prawnej działają jednoosobowo na podstawie pełnomocnictwa udzielonego przez zarząd gminy.
 
-3. Jeżeli sesja zwołana trybie określonym ust. 2 nie odbyła się albo upłynął termin, o którym mowa ust. 2, wójt składa ślubowanie o treści określonej ust. 1 przed właściwym terytorialnie komisarzem wyborczym. Złożenie ślubowania wójt potwierdza podpisem pod treścią ślubowania. Akt ślubowania komisarz wyborczy przesyła niezwłocznie przewodniczącemu rady. Informację o dacie złożenia ślubowania komisarz wyborczy podaje do publicznej wiadomości mieszkańców gminy formie komunikatu Biuletynie Informacji Publicznej terminie 14 dni od dnia złożenia ślubowania.
+### 2.
 
-4. Uchylanie się od złożenia ślubowania terminie 3 miesięcy od dnia ogłoszenia wyników wyborów wójta jest równoznaczne z odmową złożenia ślubowania.
+Do czynności przekraczających zakres pełnomocnictwa potrzebna jest zgoda zarządu.
 
-**Art. 30.**
+### Art. 48.
 
-1. Wójt wykonuje uchwały rady gminy i zadania gminy określone przepisami prawa.
+### 1.
 
-- **1)** przygotowywanie projektów uchwał rady gminy;
-- **1a)** opracowywanie programów rozwoju trybie określonym przepisach o zasadach prowadzenia polityki rozwoju;
-- **2)** określanie sposobu wykonywania uchwał;
-- **3)** gospodarowanie mieniem komunalnym;
-- **4)** wykonywanie budżetu;
-- **5)** zatrudnianie i zwalnianie kierowników gminnych jednostek organizacyjnych.
-- **6)** (uchylony)
+Sołectwo, dzielnica (osiedle) zarządza i korzysta z mienia komunalnego oraz rozporządza dochodami z tego źródła w zakresie określonym statutem. Statut ustala również zakres czynności dokonywanych samodzielnie przez organy sołectwa lub dzielnicy (osiedla) względem przysługującego im mienia.
 
-3. W realizacji zadań własnych gminy wójt podlega wyłącznie radzie gminy.
+### 2.
 
-**Art. 31.** Wójt kieruje bieżącymi sprawami gminy oraz reprezentuje ją na zewnątrz.
+Rada gminy nie może uszczuplić dotychczasowych praw sołectw do korzystania z mienia bez zgody zebrania wiejskiego.
 
-**Art. 31a.** Wójt opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy. Art. 31aa. Wójt wykonuje zadania organu ochrony ludności i obrony cywilnej określone ustawie z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej.
+### 3.
 
-**Art. 31b.**
+Wszystkie przysługujące dotychczas mieszkańcom wsi prawa własności, użytkowania lub inne prawa rzeczowe i majątkowe, zwane dalej mieniem gminnym, pozostają nienaruszone.
 
-1. Jeżeli inny sposób nie można usunąć bezpośredniego niebezpieczeństwa dla życia ludzi lub dla mienia, wójt może zarządzić ewakuację z obszarów bezpośrednio zagrożonych.
+### 4.
 
-2. W przypadku wprowadzenia stanu klęski żywiołowej wójt działa na zasadach określonych odrębnych przepisach.
+Do mienia gminnego mają zastosowanie, z zastrzeżeniem ust. 3, przepisy dotyczące mienia komunalnego.
 
-**Art. 32.** (uchylony)
+### Art. 49.
 
-**Art. 33.**
+### 1.
 
-1. Wójt wykonuje zadania przy pomocy urzędu gminy.
+Gmina nie ponosi odpowiedzialności za zobowiązania innych komunalnych osób prawnych, a te nie ponoszą odpowiedzialności za zobowiązania gminy.
 
-2. Organizację i zasady funkcjonowania urzędu gminy określa regulamin organizacyjny, nadany przez wójta drodze zarządzenia.
+### 2.
 
-3. Kierownikiem urzędu jest wójt.
+W przypadku zniesienia lub podziału gminy odpowiedzialność za jej zobowiązania ponoszą solidarnie gminy, które przejęły jej mienie.
 
-4. Wójt może powierzyć prowadzenie określonych spraw gminy swoim imieniu zastępcy wójta lub sekretarzowi gminy.
+### Art. 50.
 
-5. Kierownik urzędu wykonuje uprawnienia zwierzchnika służbowego stosunku do pracowników urzędu oraz kierowników gminnych jednostek organizacyjnych.
+Obowiązkiem osób uczestniczących w zarządzaniu mieniem komunalnym jest zachowanie szczególnej staranności przy wykonywaniu zarządu zgodnie z przeznaczeniem tego mienia i jego ochrona.
 
-6. Status prawny pracowników samorządowych określa odrębna ustawa.
+### Rozdział 6 Komunalna gospodarka finansowa
 
-**Art. 34.** (uchylony) gminy odrębnym statutem, po przeprowadzeniu konsultacji z mieszkańcami. 2. Statut może przewidywać powołanie jednostki niższego rzędu ramach jednostki pomocniczej. 3. Statut jednostki pomocniczej określa szczególności:
+### Art. 51.
 
-**Art. 35a.**
+### 1.
 
-1. Wyborów do organów jednostek pomocniczych gminy oraz wyborów do organów jednostek niższego rzędu nie zarządza się na dzień, na który zarządzone zostały wybory do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, wybory Prezydenta Rzeczypospolitej Polskiej, wybory do Parlamentu Europejskiego Rzeczypospolitej Polskiej, wybory do organów stanowiących jednostek samorządu terytorialnego lub wybory wójtów.
+Gmina samodzielnie prowadzi gospodarkę finansową na podstawie budżetu gminy, zwanego dalej budżetem.
 
-2. Przepis ust. 1 nie dotyczy wyborów do rad dzielnic m.st. Warszawy.
+### 2.
 
-3. Przepis ust. 1 nie dotyczy zarządzenia wyborów do organów jednostek pomocniczych gminy lub wyborów do organów jednostek niższego rzędu na dzień, na który zarządzone zostały wybory uzupełniające do Senatu, przedterminowe, uzupełniające lub ponowne wybory do organów stanowiących jednostek samorządu terytorialnego lub wybory do nowego organu stanowiącego jednostki samorządu terytorialnego, a także przedterminowe lub ponowne wybory wójta.
+Budżet jest uchwalany na rok kalendarzowy.
 
-**Art. 36.**
+### 3.
 
-1. Organem uchwałodawczym sołectwie jest zebranie wiejskie, a wykonawczym – sołtys. Działalność sołtysa wspomaga rada sołecka.
+Sołectwa i dzielnice (osiedla) nie tworzą własnych budżetów. Statut gminy określa uprawnienia sołectw i dzielnic (osiedli) do prowadzenia gospodarki finansowej w ramach budżetu gminy.
 
-2. Sołtys oraz członkowie rady sołeckiej wybierani są głosowaniu tajnym, bezpośrednim, spośród nieograniczonej liczby kandydatów, przez stałych mieszkańców sołectwa uprawnionych do głosowania.
+### Art. 52.
 
-3. Sołtys korzysta z ochrony prawnej przysługującej funkcjonariuszom publicznym.
+### 1.
 
-**Art. 37.**
+Projekt budżetu przygotowuje zarząd, uwzględniając zasady prawa budżetowego i wskazówki rady gminy.
 
-1. Organem uchwałodawczym dzielnicy (osiedlu) jest rada o liczbie członków ustalonej według art. 17, nie więcej jednak niż 21. stoi przewodniczący.
+### 2.
 
-3. Przewodniczący zarządu korzysta z ochrony prawnej przysługującej funkcjonariuszom publicznym.
+Projekt budżetu wraz z informacją o stanie mienia komunalnego i objaśnieniami zarząd przedkłada radzie gminy najpóźniej do 15 listopada roku poprzedzającego rok budżetowy i przesyła projekt do wiadomości regionalnej izbie obrachunkowej.
 
-4. Statut osiedla może ustalić, że osiedlu organem uchwałodawczym jest ogólne zebranie mieszkańców. Ogólne zebranie wybiera zarząd osiedla; art. 36 ust. 2 stosuje się odpowiednio.
+### 3.
 
-**Art. 37a.** Przewodniczący organu wykonawczego jednostki pomocniczej może uczestniczyć pracach rady gminy na zasadach określonych statucie gminy, bez prawa udziału głosowaniu. Przewodniczący rady gminy jest każdorazowo zobowiązany do zawiadamiania, na takich samych zasadach jak radnych, przewodniczącego organu wykonawczego jednostki pomocniczej o sesji rady gminy oraz posiedzeniach jej komisji.
+Budżet jest uchwalany do końca roku poprzedzającego rok budżetowy.
 
-**Art. 37b.**
+### Art. 53.
 
-1. Rada gminy może ustanowić zasady, na jakich przewodniczącemu organu wykonawczego jednostki pomocniczej będzie przysługiwała dieta oraz zwrot kosztów podróży służbowej.
+### 1.
 
-2. Rada gminy może ustanowić zasady, na jakich członkom organu wykonawczego jednostki pomocniczej oraz członkom rady dzielnicy (osiedla), rady sołeckiej, będzie przysługiwała dieta lub zwrot kosztów podróży służbowej.
+Procedurę uchwalania budżetu oraz rodzaje i szczegółowość materiałów informacyjnych towarzyszących projektowi określa rada gminy.
 
-**Art. 37c.** Gmina zapewnia członkom organu wykonawczego jednostki pomocniczej ubezpieczenie od odpowiedzialności cywilnej i od następstw nieszczęśliwych wypadków, zaistniałych związku z wykonywaniem zadań związanych z obowiązkami inkasenta oraz poborem podatków drodze inkasa oraz realizacją umów, o których mowa art. 48 ust. 1b.
+### 2.
 
-**Art. 37d.**
+Do czasu uchwalenia budżetu przez radę gminy, jednak nie później niż do 31 marca roku budżetowego, podstawą gospodarki budżetowej jest projekt budżetu przedłożony radzie gminy.
 
-1. Wójt, drodze zarządzenia, może powołać konwent przewodniczących organów wykonawczych jednostek pomocniczych gminy.
+### 3.
 
-2. Konwent jest organem opiniodawczo-doradczym wójta.
+W przypadku nieuchwalenia budżetu w terminie, o którym mowa w ust. 2, regionalna izba obrachunkowa ustala najpóźniej do końca kwietnia budżet gminy w zakresie obowiązkowych zadań własnych oraz zadań zleconych.
 
-3. Konwent obraduje na posiedzeniach, którym przewodniczy wójt.
+### Art. 54.
 
-4. W zarządzeniu, o którym mowa ust. 1, wójt określa zakres działania konwentu i tryb jego działania oraz może określić zasady wypłacania diety i zwrotu kosztów podróży przysługujących przewodniczącym organów wykonawczych jednostek pomocniczych za udział posiedzeniach konwentu. charakterze, określają właściwe ustawy. Dotyczy to szczególności gmin uzdrowiskowych.
+### 1.
 
-**Art. 39.**
+Dochodami gminy są:
 
-1. Decyzje indywidualnych sprawach z zakresu administracji publicznej wydaje wójt, o ile przepisy szczególne nie stanowią inaczej.
+### 1)
 
-2. Wójt może upoważnić swoich zastępców lub innych pracowników urzędu gminy do wydawania decyzji administracyjnych, o których mowa ust. 1, imieniu wójta.
+podatki, opłaty i inne wpływy określone w odrębnych ustawach jako dochody gminy,
 
-3. (uchylony)
+### 2)
 
-4. Do załatwiania indywidualnych spraw z zakresu administracji publicznej rada gminy może upoważnić również organ wykonawczy jednostki pomocniczej oraz organy jednostek i podmiotów, o których mowa art. 9 ust. 1.
+dochody z majątku gminy,
 
-5. Od decyzji wydanej przez wójta lub organ, o którym mowa ust. 4, służy odwołanie do samorządowego kolegium odwoławczego, chyba że przepis szczególny stanowi inaczej.
+### 3)
 
-**Art. 39a.** (uchylony)
+subwencja ogólna z budżetu centralnego.
 
-#### Rozdział 4 Akty prawa miejscowego stanowionego przez gminę
+### 2.
 
-**Art. 40.**
+Dochodami gminy mogą być:
 
-1. Na podstawie upoważnień ustawowych gminie przysługuje prawo stanowienia aktów prawa miejscowego obowiązujących na obszarze gminy.
+### 1)
 
-2. Na podstawie niniejszej ustawy organy gminy mogą wydawać akty prawa miejscowego zakresie:
+nadwyżki budżetowe z lat ubiegłych,
 
-- **1)** wewnętrznego ustroju gminy oraz jednostek pomocniczych;
-- **2)** organizacji urzędów i instytucji gminnych;
-- **3)** zasad zarządu mieniem gminy;
-- **4)** zasad i trybu korzystania z gminnych obiektów i urządzeń użyteczności publicznej.
+### 2)
 
-3. W zakresie nieuregulowanym odrębnych ustawach lub innych przepisach powszechnie obowiązujących rada gminy może wydawać przepisy porządkowe, jeżeli jest to niezbędne dla ochrony życia lub zdrowia obywateli oraz dla zapewnienia porządku, spokoju i bezpieczeństwa publicznego.
+dotacje celowe na realizację zadań zleconych,
 
-4. Przepisy porządkowe, o których mowa ust. 3, mogą przewidywać za ich naruszanie karę grzywny wymierzaną trybie i na zasadach określonych prawie o wykroczeniach.
+### 3)
 
-2. W przypadku niecierpiącym zwłoki przepisy porządkowe może wydać wójt, formie zarządzenia.
+wpływy z samoopodatkowania mieszkańców,
 
-3. Zarządzenie, o którym mowa ust. 2, podlega zatwierdzeniu na najbliższej sesji rady gminy. Traci ono moc razie odmowy zatwierdzenia bądź nieprzedstawienia do zatwierdzenia na najbliższej sesji rady.
+### 4)
 
-4. W razie nieprzedstawienia do zatwierdzenia lub odmowy zatwierdzenia zarządzenia rada gminy określa termin utraty jego mocy obowiązującej.
+pożyczki oraz emisja obligacji,
 
-5. Wójt przesyła przepisy porządkowe do wiadomości wójtom sąsiednich gmin i staroście powiatu, którym leży gmina, następnego dnia po ich ustanowieniu.
+### 5)
 
-**Art. 41a.**
+spadki, zapisy i darowizny,
 
-1. Grupa mieszkańców gminy, posiadających czynne prawa wyborcze do organu stanowiącego, może wystąpić z obywatelską inicjatywą uchwałodawczą.
+### 6)
 
-2. Grupa mieszkańców, o której mowa ust. 1, musi liczyć:
+inne dochody.
 
-- **1)** gminie do 5000 mieszkańców – co najmniej 100 osób;
-- **2)** gminie do 20 000 mieszkańców – co najmniej 200 osób;
-- **3)** gminie powyżej 20 000 mieszkańców – co najmniej 300 osób.
+### Art. 55.
 
-3. Projekt uchwały zgłoszony ramach obywatelskiej inicjatywy uchwałodawczej staje się przedmiotem obrad rady gminy na najbliższej sesji po złożeniu projektu, jednak nie później niż po upływie 3 miesięcy od dnia złożenia projektu.
+### 1.
 
-3a. Projekt uchwały o przystąpieniu do sporządzania aktu planowania przestrzennego zgłoszony ramach obywatelskiej inicjatywy uchwałodawczej staje się przedmiotem obrad rady gminy nie później niż po upływie 3 miesięcy od dnia złożenia projektu.
+Subwencje ogólne są ustalane dla gmin według zobiektywizowanych kryteriów, które określa odrębna ustawa.
 
-4. Komitet inicjatywy uchwałodawczej ma prawo wskazywać osoby uprawnione do reprezentowania komitetu podczas prac rady gminy.
+### 2.
 
-5. Rada gminy określi drodze uchwały: szczegółowe zasady wnoszenia inicjatyw obywatelskich, zasady tworzenia komitetów inicjatyw uchwałodawczych, zasady promocji obywatelskich inicjatyw uchwałodawczych, formalne wymogi, jakim muszą odpowiadać składane projekty, z zastrzeżeniem przepisów niniejszej ustawy.
+Minister Finansów ustala, zgodnie z ust. 1, wysokość i rozdziela subwencje ogólne na rzecz każdej gminy bezpośrednio z budżetu centralnego.
 
-**Art. 42.** Zasady i tryb ogłaszania aktów prawa miejscowego określa ustawa z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461). Mienie komunalne
+### Art. 56.
 
-**Art. 43.** Mieniem komunalnym jest własność i inne prawa majątkowe należące do poszczególnych gmin i ich związków oraz mienie innych gminnych osób prawnych, tym przedsiębiorstw.
+Suma pożyczek krótkoterminowych nie może przekroczyć pięciu procent wydatków planowanych na dany rok.
 
-**Art. 44.** Nabycie mienia komunalnego następuje:
+### Art. 57.
 
-**Art. 45.**
+Wydatki budżetu nie mogą przekraczać dochodów.
 
-1. Podmioty mienia komunalnego samodzielnie decydują o przeznaczeniu i sposobie wykorzystania składników majątkowych, przy zachowaniu wymogów zawartych odrębnych przepisach prawa.
+### Art. 58.
 
-2. (uchylony)
+### 1.
 
-**Art. 46.**
+Uchwały organów gminy dotyczące zobowiązań finansowych wskazują źródła dochodów, z których zobowiązania te zostaną pokryte.
 
-1. Oświadczenie woli imieniu gminy zakresie zarządu mieniem składa jednoosobowo wójt albo działający na podstawie jego upoważnienia zastępca wójta samodzielnie albo wraz z inną upoważnioną przez wójta osobą.
+### 2.
 
-2. (uchylony)
+Uchwały, o których mowa w ust. 1, zapadają bezwzględną większością głosów w obecności co najmniej połowy składu organu gminy.
 
-3. Jeżeli czynność prawna może spowodować powstanie zobowiązań pieniężnych, do jej skuteczności potrzebna jest kontrasygnata skarbnika gminy (głównego księgowego budżetu) lub osoby przez niego upoważnionej.
+### Art. 59.
 
-4. Skarbnik gminy (główny księgowy budżetu), który odmówił kontrasygnaty, dokona jej jednak na pisemne polecenie zwierzchnika, powiadamiając o tym radę gminy oraz regionalną izbę obrachunkową. osobowości prawnej działają jednoosobowo na podstawie pełnomocnictwa udzielonego przez wójta.
+### 1.
 
-2. (uchylony)
+Dyspozycja środkami pieniężnymi gminy jest oddzielona od kasowego jej wykonania.
 
-**Art. 48.**
+### 2.
 
-1. Jednostka pomocnicza zarządza i korzysta z mienia komunalnego oraz rozporządza dochodami z tego źródła zakresie określonym statucie. Statut ustala również zakres czynności dokonywanych samodzielnie przez jednostkę pomocniczą zakresie przysługującego jej mienia.
+Wydatki dokonywane są w miarę wpływów dochodów budżetowych, w granicach uchwalonych przez radę gminy.
 
-1a. Przepis ust. 1 stosuje się odpowiednio do jednostki niższego rzędu, o której mowa art. 35 ust. 2.
+### Art. 60.
 
-1b. Wójt może upoważnić przewodniczącego organu wykonawczego jednostki pomocniczej do zawierania umów związanych z określonym statucie zarządzaniem i korzystaniem z mienia komunalnego.
+### 1.
 
-2. Rada gminy nie może uszczuplić dotychczasowych praw sołectw do korzystania z mienia bez zgody zebrania wiejskiego.
+Za prawidłową gospodarkę finansową gminy odpowiada zarząd.
 
-3. Wszystkie przysługujące dotychczas mieszkańcom wsi prawa własności, użytkowania lub inne prawa rzeczowe i majątkowe, zwane dalej mieniem gminnym, pozostają nienaruszone.
+### 2.
 
-4. Do mienia gminnego mają zastosowanie, z zastrzeżeniem ust. 3, przepisy dotyczące mienia komunalnego.
+Obsługę kasową gminy prowadzi bank wskazany przez jej radę.
 
-**Art. 49.**
+### Art. 61.
 
-1. Gmina nie ponosi odpowiedzialności za zobowiązania innych gminnych osób prawnych, a te nie ponoszą odpowiedzialności za zobowiązania gminy.
+### 1.
 
-2. W przypadku zniesienia lub podziału gminy odpowiedzialność za jej zobowiązania ponoszą solidarnie gminy, które przejęły jej mienie.
+Gospodarka finansowa gminy jest jawna.
 
-**Art. 50.**
+### 2.
 
-1. Obowiązkiem osób uczestniczących zarządzaniu mieniem komunalnym jest zachowanie szczególnej staranności przy wykonywaniu zarządu zgodnie z przeznaczeniem tego mienia i jego ochrona.
+Wójt lub burmistrz niezwłocznie ogłasza uchwałę budżetową i sprawozdanie z jej wykonania w trybie przewidzianym dla przepisów gminnych.
 
-2. Ochrona mienia obejmuje szczególności monitoring na terenie nieruchomości i obiektach budowlanych stanowiących mienie gminy i na terenie wokół takich nieruchomości i obiektów budowlanych. Przepisy art. 9a ust. 2–6 stosuje się odpowiednio.
+### 3.
 
-**Art. 50a.**
+Zarząd informuje mieszkańców gminy o założeniach projektu budżetu, kierunkach polityki społecznej i gospodarczej oraz wykorzystywaniu środków budżetowych.
 
-1. Gmina może zawrzeć z inwestorem umowę, na mocy której zamian za realizację inwestycji zaspokajającej zbiorowe potrzeby wspólnoty, drogowym urządzeń infrastruktury technicznej niezwiązanych z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, ustali stawkę opłaty za zajęcie pasa drogowego wysokości niższej niż określona uchwale, o której mowa art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych. Zawarcie umowy następuje z uwzględnieniem przepisów dotyczących pomocy publicznej.
+### Art. 62.
 
-2. Gmina ogłasza Biuletynie Informacji Publicznej i na stronie internetowej gminy oraz inny sposób zwyczajowo przyjęty na obszarze gminy komunikat o zamiarze zawarcia umowy. Komunikat zawiera co najmniej wskazanie rodzaju inwestycji zaspokajającej zbiorowe potrzeby wspólnoty, której realizacji przez inwestora gmina oczekuje, oraz informację o terminie, jakim inwestorzy mogą zgłaszać zainteresowanie zawarciem umowy.
+### 1.
 
-3. Zawarcie umowy poprzedzają negocjacje z inwestorami, którzy zgłosili zainteresowanie jej zawarciem.
+Kontrolę gospodarki finansowej gmin i związków sprawują regionalne izby obrachunkowe.
 
-4. Zawarcie umowy nie może nastąpić przed upływem 30 dni od dnia upływu terminu na zgłoszenie zainteresowania jej zawarciem, wskazanego komunikacie.
+### 2.
 
-5. Umowa określa co najmniej:
+Prezesów regionalnych izb obrachunkowych powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Finansów.
 
-- **1)** rodzaj inwestycji wraz ze wskazaniem celu, któremu ma służyć jej zawarcie z punktu widzenia zaspokojenia zbiorowych potrzeb wspólnoty;
-- **2)** sposób, miejsce i szczegółowe warunki realizacji inwestycji;
-- **3)** wysokość stawki opłaty za zajęcie pasa drogowego odniesieniu do umieszczanych pasie drogowym urządzeń infrastruktury technicznej związanych z realizacją inwestycji.
+### Art. 63.
 
-6. Wysokość stawki opłaty, o której mowa ust. 5 pkt 3, ustala się:
+Odrębne ustawy określą:
 
-- **1)** oparciu o dane o przewidywanej liczbie metrów kwadratowych pasa drogowego zajętych przez urządzenia infrastruktury technicznej niezwiązane z potrzebami zarządzania drogami lub potrzebami ruchu drogowego, umieszczane pasie drogowym związku z realizacją inwestycji;
-- **2)** oparciu o dane o przewidywanych przychodach inwestora z realizowanej inwestycji okresie 5 lat od jej zakończenia;
-- **3)** na poziomie umożliwiającym odzyskanie przez inwestora różnicy między przewidywaną wartością bieżącą netto inwestycji terminie, o którym mowa pkt 2, uwzględniającą obowiązek ponoszenia opłat za zajęcie pasa drogowego obliczonych według wysokości stawek opłat określonych uchwale, o której mowa art. 40 ust. 8 ustawy z dnia 21 marca 1985 r. o drogach publicznych, niającą rozsądny zysk z inwestycji.
+### 1)
 
-7. Umowa jest zawierana pod rygorem nieważności formie aktu notarialnego.
+sposób powoływania, organizację i szczegółowe zasady działania regionalnych izb obrachunkowych,
 
-8. Informacja o zawarciu umowy wraz z jej treścią podlega niezwłocznej publikacji Biuletynie Informacji Publicznej i na stronie internetowej gminy oraz inny sposób zwyczajowo przyjęty na obszarze gminy.
+### 2)
 
-9. Do zmiany umowy stosuje się przepisy ust. 2–8.
+podatki, opłaty i wpływy uznane za dochody gminy,
 
-#### Rozdział 6 Gminna gospodarka finansowa
+### 3)
 
-**Art. 51.**
+ogólne zasady procedury budżetowej w gminach, gospodarki finansowej i rachunkowości publicznej oraz jednolitą klasyfikację budżetową,
 
-1. Gmina samodzielnie prowadzi gospodarkę finansową na podstawie uchwały budżetowej gminy.
+### 4)
 
-2. (uchylony)
+warunki zaciągania pożyczek przez gminy.
 
-3. Statut gminy określa uprawnienia jednostki pomocniczej do prowadzenia gospodarki finansowej ramach budżetu gminy.
+### Rozdział 7 Związki i porozumienia komunalne
 
-**Art. 52.** (uchylony)
+### Art. 64.
 
-**Art. 53.** (uchylony)
+### 1.
 
-**Art. 54.**
+W celu wspólnego wykonywania zadań publicznych gminy mogą tworzyć związki międzygminne (związki komunalne).
 
-1. Dochody gminy są określone odrębnych ustawach.
+### 2.
 
-2. Dochodami gminy mogą być także wpływy z samoopodatkowania mieszkańców. Samoopodatkowanie może nastąpić wyłącznie drodze referendum gminnego, o którym mowa art. 2 ust. 2 pkt 2 ustawy z dnia 15 września 2000 r. o referendum lokalnym.
+Uchwały o utworzeniu związku podejmują rady zainteresowanych gmin.
 
-**Art. 55.** (uchylony)
+### 3.
 
-**Art. 56.** (uchylony)
+Prawa i obowiązki gmin uczestniczących w związku komunalnym, związane z wykonywaniem zadań przekazanych związkowi, przechodzą na związek z dniem ogłoszenia statutu związku.
 
-**Art. 57.** (uchylony)
+### 4.
 
-**Art. 58.**
+Obowiązek utworzenia związku może być nałożony tylko w drodze ustawy, która określa zadania związku i tryb zatwierdzenia jego statutu.
 
-1. Uchwały i zarządzenia organów gminy dotyczące zobowiązań finansowych wskazują źródła, z których zobowiązania te zostaną pokryte.
+### 5.
 
-2. Uchwały rady gminy, o których mowa ust. 1, zapadają bezwzględną większością głosów obecności co najmniej połowy ustawowego składu rady.
+Do związków komunalnych art. 39 ust. 3 stosuje się odpowiednio.
 
-**Art. 59.** Dyspozycja środkami pieniężnymi gminy jest oddzielona od kasowego jej wykonania. 2. (uchylony)
+### Art. 65.
 
-**Art. 60.**
+### 1.
 
-1. Za prawidłową gospodarkę finansową gminy odpowiada wójt.
+Związek wykonuje zadania publiczne w imieniu własnym i na własną odpwiedzialność.
 
-- **1)** zaciągania zobowiązań mających pokrycie ustalonych uchwale budżetowej kwotach wydatków, ramach upoważnień udzielonych przez radę gminy;
-- **2)** emitowania papierów wartościowych, ramach upoważnień udzielonych przez radę gminy;
-- **3)** dokonywania wydatków budżetowych;
-- **4)** zgłaszania propozycji zmian budżecie gminy;
-- **5)** dysponowania rezerwami budżetu gminy;
-- **6)** blokowania środków budżetowych, przypadkach określonych ustawą.
+### 2.
 
-**Art. 61.**
+Związek posiada osobowość prawną.
 
-1. Gospodarka finansowa gminy jest jawna.
+### Art. 66.
 
-2. Wójt niezwłocznie ogłasza uchwałę budżetową i sprawozdanie z jej wykonania trybie przewidzianym dla aktów prawa miejscowego.
+Gmina informuje sejmik samorządowy oraz wojewodę o zamiarze przystąpienia do związku.
 
-3. Wójt informuje mieszkańców gminy o założeniach projektu budżetu, kierunkach polityki społecznej i gospodarczej oraz wykorzystywaniu środków budżetowych.
+### Art. 67.
 
-**Art. 62.** Kontrolę gospodarki finansowej gmin i związków sprawują regionalne izby obrachunkowe. 2. (uchylony)
+### 1.
 
-**Art. 63.** (uchylony)
+Utworzenie związku wymaga przyjęcia jego statutu przez rady zainteresowanych gmin bezwzględną większością głosów ustawowego składu rady gminy.
 
-#### Rozdział 7 Związki i porozumienia międzygminne
+### 2.
 
-**Art. 64.**
+Statut związku powinien określać:
 
-1. W celu wspólnego wykonywania zadań publicznych gminy mogą tworzyć związki międzygminne. Związek międzygminny może być tworzony również celu wspólnej obsługi, o której mowa art. 10a.
+### 1)
 
-2. Uchwały o utworzeniu związku podejmują rady zainteresowanych gmin.
+nazwę i siedzibę związku,
 
-3. Prawa i obowiązki gmin uczestniczących związku międzygminnym, związane z wykonywaniem zadań przekazanych związkowi, przechodzą na związek z dniem ogłoszenia statutu związku.
+### 2)
 
-4. Obowiązek utworzenia związku może być nałożony tylko drodze ustawy, która określa zadania związku i tryb zatwierdzenia jego statutu.
+uczestników i czas trwania związku,
 
-5. Do związków międzygminnych stosuje się odpowiednio art. 8 ust. 2–5 i art. 39 ust. 4. odpowiedzialność.
+### 3)
 
-2. Związek posiada osobowość prawną.
+zadania związku,
 
-**Art. 66.** Gmina informuje wojewodę o zamiarze przystąpienia do związku.
+### 4)
 
-**Art. 67.**
+organy związku, ich strukturę, zakres i tryb działania,
 
-1. Utworzenie związku oraz przystąpienie gminy do związku wymagają przyjęcia jego statutu bezwzględną większością głosów ustawowego składu rady odpowiednio przez rady zainteresowanych gmin albo radę zainteresowanej gminy.
+### 5)
 
-1a. Projekt statutu związku podlega uzgodnieniu z wojewodą.
+zasady korzystania z obiektów i urządzeń związku,
 
-1b. Zajęcie stanowiska przez wojewodę następuje terminie 30 dni od dnia doręczenia projektu statutu. Przepisy art. 89 ust. 2 i art. 98 stosuje się odpowiednio.
+### 6)
 
-1c. W postępowaniu sprawie uzgodnienia projektu statutu związku gminy zamierzające utworzyć związek reprezentuje wójt jednej z gmin upoważniony przez wójtów pozostałych gmin.
+zasady udziału w kosztach wspólnej działalności, zyskach i pokrywania strat związku,
 
-2. Statut związku powinien określać:
+### 7)
 
-- **1)** nazwę i siedzibę związku;
-- **2)** uczestników i czas trwania związku;
-- **3)** zadania związku;
-- **4)** organy związku, ich strukturę, zakres i tryb działania;
-- **5)** zasady korzystania z obiektów i urządzeń związku;
-- **6)** zasady udziału kosztach wspólnej działalności, zyskach i pokrywania strat związku;
-- **7)** zasady przystępowania i występowania członków oraz zasady rozliczeń majątkowych;
-- **8)** zasady i tryb likwidacji związku;
-- **9)** inne zasady określające współdziałanie.
+zasady przystępowania i występowania członków oraz zasady rozliczeń majątkowych,
 
-2a. Statut związku podlega ogłoszeniu wojewódzkim dzienniku urzędowym.
+### 8)
 
-2b. Związek nabywa osobowość prawną z dniem ogłoszenia statutu.
+zasady likwidacji związku,
 
-3. (uchylony)
+### 9)
 
-**Art. 67a.**
+inne zasady określające współdziałanie.
 
-1. Zmiany statutu związku dokonuje zgromadzenie związku formie uchwały. Przepisy art. 67 ust. 1a i 1b stosuje się odpowiednio.
+### 3.
 
-2. Uchwałę zmieniającą statut związku przewodniczący zgromadzenia związku przekazuje terminie 7 dni od dnia jej podjęcia radom gmin uczestniczących związku, a przypadku gdy uchwała zmieniająca dotyczy przystąpienia do związku nowej gminy – również radzie tej gminy. uchwały zmieniającej statut związku terminie 30 dni od dnia doręczenia tej uchwały. Wniesienie sprzeciwu wstrzymuje wykonanie uchwały zmieniającej statut związku.
+Zmiana statutu następuje w trybie przewidzianym dla jego ustanowienia.
 
-4. Zmiana statutu związku podlega ogłoszeniu wojewódzkim dzienniku urzędowym.
+### Art. 68.
 
-**Art. 67b.**
+### 1.
 
-1. Związek podlega likwidacji na zasadach i trybie określonych statucie.
+Rejestr związków prowadzi Prezes Rady Ministrów.
 
-2. Po zakończeniu likwidacji związek przekazuje wojewodzie informację o zakończeniu likwidacji oraz wniosek o wykreślenie związku z rejestru, o którym mowa art. 68 ust. 1.
+### 2.
 
-3. Informacja o wykreśleniu związku z rejestru, o którym mowa art. 68 ust. 1, podlega ogłoszeniu wojewódzkim dzienniku urzędowym.
+Związek nabywa osobowość prawną po zarejestrowaniu, z datą ogłoszenia statutu, w trybie i na zasadach ustalonych przez Prezesa Rady Ministrów.
 
-**Art. 68.**
+### Art. 69.
 
-1. Rejestr związków prowadzi minister właściwy do spraw administracji publicznej.
+### 1.
 
-1a. Wpisu rejestrze związków międzygminnych dokonuje się na podstawie zgłoszenia wojewody.
+Organem stanowiącym i kontrolnym związku jest zgromadzenie związku, zwane dalej zgromadzeniem.
 
-1b. Zgłoszenie, o którym mowa ust. 1a, może dotyczyć:
+### 2.
 
-- **1)** rejestracji związku międzygminnego;
-- **2)** zmiany statutu związku międzygminnego;
-- **3)** wykreślenia związku międzygminnego z rejestru związków międzygminnych.
+W zakresie zadań zleconych związkowi zgromadzenie wykonuje kompetencje przysługujące radzie gminy.
 
-1c. Zgłoszenie, o którym mowa ust. 1a, zawiera oświadczenie o zgodności z prawem uchwał stanowiących podstawę do dokonania zgłoszenia.
+### Art. 70.
 
-1d. Zgłoszenie, o którym mowa ust. 1a, opatruje się kwalifikowanym podpisem elektronicznym.
+### 1.
 
-2. (uchylony)
+W skład zgromadzenia wchodzą wójtowie i burmistrzowie gmin uczestniczących w związku.
 
-3. Minister właściwy do spraw administracji publicznej określi, drodze rozporządzenia:
+### 2.
 
-- **1)** tryb postępowania sprawach:
-    - **a)** rejestracji związku międzygminnego,
-    - **b)** rejestracji zmiany statutu związku międzygminnego,
-    - **c)** wykreślenia związku międzygminnego z rejestru związków międzygminnych,
+Za zgodą rady gmina może być reprezentowana w związku przez innego członka organu gminy.
 
-- **2)** wzór zgłoszenia sprawie rejestracji związku międzygminnego,
-- **4)** wzór zgłoszenia sprawie wykreślenia związku międzygminnego z rejestru związków międzygminnych,
-- **5)** dokumentację niezbędną do sporządzenia zgłoszeń, o których mowa pkt 2–4,
-- **6)** sposób prowadzenia rejestru związków międzygminnych, tym sposób dokonywania wpisów tym rejestrze,
-- **7)** zakres danych podlegających wpisowi do rejestru związków międzygminnych,
-- **8)** tryb ogłaszania statutu związku międzygminnego, zmiany tego statutu oraz informacji o wykreśleniu związku międzygminnego z rejestru związków międzygminnych – mając na uwadze konieczność zapewnienia sprawności postępowania sprawach dokonywania wpisów rejestrze związków międzygminnych oraz ogłaszania aktów i informacji, o których mowa pkt 8, jednolitości zgłoszeń oraz uwzględniając, że rejestr związków międzygminnych powinien zawierać szczególności nazwę związku międzygminnego i jego siedzibę, oznaczenie gmin uczestniczących związku oraz wskazanie zadań związku.
+### 3.
 
-**Art. 69.**
+Statut może przyznawać określonym gminom więcej niż jeden głos w zgromadzeniu. Dodatkowych przedstawicieli wyznacza zainteresowana rada gminy.
 
-1. Organem stanowiącym i kontrolnym związku jest zgromadzenie związku, zwane dalej zgromadzeniem.
+### Art. 71.
 
-2. W zakresie zadań zleconych związkowi zgromadzenie wykonuje kompetencje przysługujące radzie gminy.
+Uchwały zgromadzenia są podejmowane bezwzględną większością głosów statutowej liczby członków zgromadzenia.
 
-3. Do zgromadzenia związku stosuje się odpowiednio przepisy dotyczące rady gminy.
+### Art. 72.
 
-**Art. 70.**
+### 1.
 
-1. W skład zgromadzenia wchodzą wójtowie gmin uczestniczących związku.
+Członek zgromadzenia może wnieść pisemny sprzeciw w stosunku do uchwały zgromadzenia w ciągu 7 dni od daty jej podjęcia.
 
-2. Na wniosek wójta rada gminy może powierzyć reprezentowanie gminy zgromadzeniu zastępcy wójta albo radnemu.
+### 2.
 
-3. Statut może przyznawać określonym gminom więcej niż jeden głos zgromadzeniu. Dodatkowych przedstawicieli wyznacza zainteresowana rada gminy.
+Wniesienie sprzeciwu wstrzymuje wykonanie uchwały i wymaga ponownego rozpatrzenia sprawy.
 
-**Art. 71.** Uchwały zgromadzenia są podejmowane bezwzględną większością głosów statutowej liczby członków zgromadzenia.
+### 3.
 
-**Art. 72.**
+Sprzeciw nie może być zgłoszony do uchwały podjętej w wyniku ponownego rozpatrzenia sprawy.
 
-1. Członek zgromadzenia może wnieść pisemny sprzeciw stosunku do uchwały zgromadzenia ciągu 7 dni od dnia jej podjęcia. rozpatrzenia sprawy.
+### Art. 73.
 
-3. Sprzeciw nie może być zgłoszony do uchwały podjętej wyniku ponownego rozpatrzenia sprawy.
+### 1.
 
-4. Przepisów ust. 1–3 nie stosuje się do związków międzygminnych utworzonych na podstawie art. 64 ust. 4.
+Organem wykonawczym związku jest zarząd.
 
-**Art. 73.**
+### 2.
 
-1. Organem wykonawczym związku jest zarząd.
+Zarząd związku jest powoływany i odwoływany przez zgromadzenie spośród jego członków.
 
-2. Zarząd związku jest powoływany i odwoływany przez zgromadzenie spośród jego członków.
+### 3.
 
-3. O ile statut tak stanowi, dopuszczalny jest wybór członków zarządu spoza członków zgromadzenia liczbie nieprzekraczającej 1/3 składu zarządu związku.
+O ile statut tak stanowi, dopuszczalny jest wybór członków zarządu spoza członków zgromadzenia w liczbie nie przekraczającej 1/3 składu zarządu związku.
 
-4. (uchylony)
+### 4.
 
-5. (uchylony)
+Do przewodniczącego zarządu związku stosuje się odpowiednio przepisy dotyczące wójta lub burmistrza.
 
-**Art. 73a.**
+### Art. 74.
 
-1. Do gospodarki finansowej związku międzygminnego stosuje się odpowiednio przepisy o gospodarce finansowej gmin.
+### 1.
 
-2. Plan finansowy związku uchwala zgromadzenie związku.
+Gminy mogą zawierać porozumienia komunalne w sprawie powierzenia jednej z nich określonych przez nie zadań publicznych.
 
-**Art. 73b.**
+### 2.
 
-1. Do związku międzygminnego może przystąpić powiat. W takim przypadku następuje przekształcenie związku międzygminnego związek powiatowo-gminny, o którym mowa art. 72a ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym.
+Gmina wykonująca zadania publiczne objęte porozumieniem przejmuje prawa i obowiązki pozostałych gmin, związane z powierzonymi jej zadaniami, a gminy te mają obowiązek udziału w kosztach realizacji powierzonego zadania.
 
-2. Do przekształcenia, o którym mowa ust. 1, przepisy art. 72c ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym stosuje się odpowiednio.
+### Art. 75.
 
-**Art. 74.**
+W zakresie nie uregulowanym treścią porozumienia do porozumień komunalnych stosuje się odpowiednio przepisy dotyczące związków komunalnych.
 
-1. Gminy mogą zawierać porozumienia międzygminne sprawie powierzenia jednej z nich określonych przez nie zadań publicznych.
+### Rozdział 8 Sejmik samorządowy
 
-2. Gmina wykonująca zadania publiczne objęte porozumieniem przejmuje prawa i obowiązki pozostałych gmin, związane z powierzonymi jej zadaniami, a gminy te mają obowiązek udziału kosztach realizacji powierzonego zadania.
+### Art. 76.
 
-3. Stroną porozumienia międzygminnego, o którym mowa art. 10g ust. 4, może być również powiat.
+### 1.
 
-**Art. 75.** (uchylony)
+Gminy z obszaru województwa wyłaniają wspólną reprezentację w postaci sejmiku samorządowego, zwanego dalej sejmikiem.
 
-#### Rozdział 8 Stowarzyszenia gmin
+### 2.
 
-**Art. 84.**
+Zasady i tryb działania sejmiku i jego organów określa uchwalany przez niego regulamin.
 
-1. W celu wspierania idei samorządu terytorialnego oraz obrony wspólnych interesów, gminy mogą tworzyć stowarzyszenia, tym również z powiatami i województwami.
+### Art. 77.
 
-2. Organizację, zadania oraz tryb pracy stowarzyszenia określa jego statut.
+### 1.
 
-3. Do stowarzyszeń gmin stosuje się odpowiednio przepisy Prawa o stowarzyszeniach, z tym że dla założenia stowarzyszenia wymaganych jest co najmniej 3 założycieli.
+Do zadań sejmiku należy:
 
-**Art. 84a.** Zasady przystępowania gminy do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych określają odrębne przepisy.
+### 1)
 
-#### Rozdział 10 Nadzór nad działalnością gminną
+ocena działalności gmin i instytucji komunalnych na obszarze województwa,
 
-**Art. 85.** Nadzór nad działalnością gminną sprawowany jest na podstawie kryterium zgodności z prawem.
+### 2)
 
-**Art. 86.** Organami nadzoru są Prezes Rady Ministrów i wojewoda, a zakresie spraw finansowych – regionalna izba obrachunkowa.
+upowszechnianie doświadczeń samorządowych,
 
-**Art. 87.** Organy nadzoru mogą wkraczać działalność gminną tylko przypadkach określonych ustawami.
+### 3)
 
-**Art. 88.** Organy nadzoru mają prawo żądania informacji i danych, dotyczących organizacji i funkcjonowania gminy, niezbędnych do wykonywania przysługujących im uprawnień nadzorczych.
+prowadzenie mediacji w sprawach spornych między gminami,
 
-**Art. 89.**
+### 4)
 
-1. Jeżeli prawo uzależnia ważność rozstrzygnięcia organu gminy od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić nie później niż ciągu 14 dni od dnia doręczenia tego rozstrzygnięcia lub jego projektu, z zastrzeżeniem ust. 1a.
+zwoływanie nadzwyczajnej sesji rady gminy,
 
-1a. Termin, o którym mowa ust. 1, wynosi 30 dni, jeżeli zatwierdzenie, uzgodnienie lub zaopiniowanie wymagane jest od organu stanowiącego jednostki samorządu terytorialnego.
+### 5)
 
-2. Jeżeli organ, o którym mowa ust. 1 lub 1a, nie zajmie stanowiska sprawie, rozstrzygnięcie uważa się za przyjęte brzmieniu przedłożonym przez gminę, z upływem terminu określonego ust. 1 lub 1a. rozstrzygnięć innych organów przepisy ust. 1, 1a i 2 stosuje się odpowiednio.
+wyrażanie zgody w sprawach, o których mowa w art. 45 ust. 2,
 
-**Art. 90.**
+### 6)
 
-1. Wójt obowiązany jest do przedłożenia wojewodzie uchwał rady gminy ciągu 7 dni od dnia ich podjęcia. Akty ustanawiające przepisy porządkowe wójt przekazuje ciągu 2 dni od ich ustanowienia.
+podejmowanie uchwał w sprawie rozwiązania zarządu gminy w trybie określonym w art. 96 ust. 2,
 
-2. Wójt przedkłada regionalnej izbie obrachunkowej, na zasadach określonych ust. 1, uchwałę budżetową, uchwałę sprawie absolutorium oraz inne uchwały rady gminy i zarządzenia wójta objęte zakresem nadzoru regionalnej izby obrachunkowej.
+### 7)
 
-**Art. 91.**
+ocena działalności administracji rządowej w województwie, w tym opiniowanie kandydatów na wojewodów,
 
-1. Uchwała lub zarządzenie organu gminy sprzeczne z prawem są nieważne. O nieważności uchwały lub zarządzenia całości lub części orzeka organ nadzoru terminie nie dłuższym niż 30 dni od dnia doręczenia uchwały lub zarządzenia, trybie określonym art. 90.
+### 8)
 
-2. Organ nadzoru, wszczynając postępowanie sprawie stwierdzenia nieważności uchwały lub zarządzenia albo toku tego postępowania, może wstrzymać ich wykonanie.
+wyrażanie opinii w istotnych sprawach województwa,
 
-2a. Przepisu ust. 2 nie stosuje się do uchwały lub zarządzenia o zaskarżeniu rozstrzygnięcia nadzorczego do sądu administracyjnego.
+### 9)
 
-3. Rozstrzygnięcie nadzorcze powinno zawierać uzasadnienie faktyczne i prawne oraz pouczenie o dopuszczalności wniesienia skargi do sądu administracyjnego.
+występowanie z wnioskami o uchylenie zarządzeń wojewody naruszających interesy lokalne,
 
-4. W przypadku nieistotnego naruszenia prawa organ nadzoru nie stwierdza nieważności uchwały lub zarządzenia, ograniczając się do wskazania, iż uchwałę lub zarządzenie wydano z naruszeniem prawa.
+### 10)
 
-5. Przepisy Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+reprezentowanie interesów gmin wobec administracji rządowej,
 
-**Art. 92.**
+### 11)
 
-1. Stwierdzenie przez organ nadzoru nieważności uchwały lub zarządzenia organu gminy wstrzymuje ich wykonanie z mocy prawa zakresie objętym stwierdzeniem nieważności, z dniem doręczenia rozstrzygnięcia nadzorczego.
+powoływanie członków kolegium odwoławczego, o którym mowa w art. 39 ust. 4.
 
-2. Przepisu ust. 1 nie stosuje się do uchwały lub zarządzenia o zaskarżeniu rozstrzygnięcia nadzorczego do sądu administracyjnego.
+### 2.
 
-**Art. 92a.**
+Sejmik podejmuje nadto uchwały w sprawach określonych odrębnymi ustawami.
 
-1. W przypadku złożenia przez organ gminy skargi na rozstrzygnięcie nadzorcze, sąd administracyjny wyznacza rozprawę nie później niż ciągu 30 dni od dnia wpłynięcia skargi do sądu. 2 i art. 97 ust. 1, sąd administracyjny rozpatruje tę skargę terminie 30 dni. Skargę kasacyjną Naczelny Sąd Administracyjny rozpatruje terminie 30 dni.
+### 3.
 
-**Art. 93.**
+Czynności określone w ust. 1 pkt 2-4 oraz w pkt 8 i 9 wykonuje między sesjami sejmiku jego prezydium. W sprawach czynności określonych w pkt 8 i 9 prezydium obraduje z udziałem delegatów zainteresowanych gmin.
 
-1. Po upływie terminu wskazanego art. 91 ust. 1 organ nadzoru nie może we własnym zakresie stwierdzić nieważności uchwały lub zarządzenia organu gminy. W tym przypadku organ nadzoru może zaskarżyć uchwałę lub zarządzenie do sądu administracyjnego.
+### Art. 78.
 
-2. W przypadku, o którym mowa ust. 1, wydanie postanowienia o wstrzymaniu wykonania uchwały lub zarządzenia należy do sądu.
+### 1.
 
-**Art. 94.**
+Wyboru delegatów do sejmiku dokonują rady gmin w głosowaniu tajnym spośród swoich członków:
 
-1. Nie stwierdza się nieważności uchwały lub zarządzenia organu gminy po upływie jednego roku od dnia ich podjęcia, chyba że uchybiono obowiązkowi przedłożenia uchwały lub zarządzenia terminie określonym art. 90 ust. 1, albo jeżeli są one aktem prawa miejscowego.
+### 1)
 
-2. Jeżeli nie stwierdzono nieważności uchwały lub zarządzenia z powodu upływu terminu określonego ust. 1, a istnieją przesłanki stwierdzenia nieważności, sąd administracyjny orzeka o ich niezgodności z prawem. Uchwała lub zarządzenie tracą moc prawną z dniem orzeczenia o ich niezgodności z prawem. Przepisy Kodeksu postępowania administracyjnego co do skutków takiego orzeczenia stosuje się odpowiednio.
+w gminie do 20.000 mieszkańców - jednego delegata,
 
-**Art. 95.** (uchylony)
+### 2)
 
-**Art. 96.**
+w gminie od 20.001 do 50.000 mieszkańców - dwóch delegatów,
 
-1. W razie powtarzającego się naruszenia przez radę gminy Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może drodze uchwały rozwiązać radę gminy. W przypadku rozwiązania rady gminy Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej, wyznacza osobę, która do czasu wyboru rady gminy pełni jej funkcję.
+### 3)
 
-2. Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się wójt, wojewoda wzywa wójta do zaprzestania naruszeń, a jeżeli wezwanie to nie odnosi skutku – występuje z wnioskiem do Prezesa Rady Ministrów o odwołanie wójta. W przypadku odwołania wójta Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej, wyznacza osobę, która do czasu wyboru wójta pełni jego funkcję.
+w gminie od 50.001 do 100.000 mieszkańców - trzech delegatów,
 
-**Art. 97.**
+### 4)
 
-1. W razie nierokującego nadziei na szybką poprawę i przedłużającego się braku skuteczności wykonywaniu zadań publicznych przez organy gminy, Prezes Rady Ministrów, na wniosek ministra właściwego do spraw administracji do dwóch lat, nie dłużej jednak niż do wyboru rady oraz wójta na kolejną kadencję.
+w gminie liczącej ponad 100.000 mieszkańców - po jednym dodatkowym delegacie przypadającym na każde rozpoczęte 100.000 mieszkańców.
 
-2. Ustanowienie zarządu komisarycznego może nastąpić po uprzednim przedstawieniu zarzutów organom gminy i wezwaniu ich do niezwłocznego przedłożenia programu poprawy sytuacji gminy.
+### 2.
 
-3. Komisarza rządowego powołuje Prezes Rady Ministrów na wniosek wojewody, zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej.
+Delegat do sejmiku zachowuje mandat radnego. W wypadku wygaśnięcia mandatu lub odwołania delegata przez radę gminy, właściwa rada dokona niezwłocznie wyboru uzupełniającego.
 
-4. Komisarz rządowy przejmuje wykonywanie zadań i kompetencji organów gminy z dniem powołania.
+### 3.
 
-**Art. 98.**
+W czasie trwania kadencji sejmiku właściwa rada może odwołać swojego delegata większością 2/3 głosów, w obecności co najmniej połowy ustawowego składu rady.
 
-1. Rozstrzygnięcia organu nadzorczego dotyczące gminy, tym rozstrzygnięcia, o których mowa art. 96 ust. 2 i art. 97 ust. 1, a także stanowisko zajęte trybie art. 89, podlegają zaskarżeniu do sądu administracyjnego z powodu niezgodności z prawem terminie 30 dni od dnia ich doręczenia.
+### Art. 79.
 
-2. Przepis ust. 1 stosuje się odpowiednio do rozstrzygnięć dotyczących organów związków i porozumień międzygminnych.
+### 1.
 
-3. Do złożenia skargi uprawniona jest gmina lub związek międzygminny, których interes prawny, uprawnienie albo kompetencja zostały naruszone. Podstawą do wniesienia skargi jest uchwała lub zarządzenie organu, który podjął uchwałę lub zarządzenie albo którego dotyczy rozstrzygnięcie nadzorcze.
+Pierwsze posiedzenie sejmiku zwołuje prezydium sejmiku poprzedniej kadencji w ciągu 30 dni po wyborach samorządowych.
 
-3a. Do złożenia skargi na rozstrzygnięcie organu nadzorczego, dotyczące uchwały rady gminy, doręczone po upływie kadencji rady, uprawniona jest rada gminy następnej kadencji terminie 30 dni od dnia wyboru przewodniczącego rady.
+### 2.
 
-4. Do postępowania sprawach, o których mowa ust. 1 i 2, stosuje się odpowiednio przepisy o zaskarżaniu do sądu administracyjnego decyzji indywidualnych sprawach z zakresu administracji publicznej.
+Na pierwszym posiedzeniu sejmik wybiera spośród delegatów prezydium, składające się z przewodniczącego, dwóch zastępców oraz sześciu członków.
 
-5. Rozstrzygnięcia nadzorcze stają się prawomocne z upływem terminu do wniesienia skargi bądź z datą oddalenia lub odrzucenia skargi przez sąd.
+### 3.
 
-**Art. 98a.**
+Sejmik pełni funkcje do czasu wyłonienia nowego składu sejmiku przez nowo wybrane rady gmin.
 
-1. Jeżeli właściwy organ gminy, wbrew obowiązkowi wynikającemu z przepisów art. 383 § 2 i 6 oraz art. 492 § 2 i 5 ustawy, o której mowa art. 24b ust. 6, oraz art. 5 ust. 2 i 3 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, zakresie dotyczącym odpowiednio wygaśnięcia mandatu radnego, wygaśnięcia mandatu wójta, tarzem gminy, skarbnikiem gminy, kierownikiem jednostki organizacyjnej gminy i osobą zarządzającą lub członkiem organu zarządzającego gminną osobą prawną, nie podejmuje uchwały, nie odwołuje ze stanowiska lub nie rozwiązuje umowy o pracę, wojewoda wzywa organ gminy do podjęcia odpowiedniego aktu terminie 30 dni.
+### Art. 80.
 
-1a. Przepis ust. 1 stosuje się odpowiednio do obowiązków, o których mowa art. 6a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2024 r. poz. 1135).
+### 1.
 
-2. W razie bezskutecznego upływu terminu określonego ust. 1, wojewoda, po powiadomieniu ministra właściwego do spraw administracji publicznej, wydaje zarządzenie zastępcze.
+Co najmniej dwa razy w roku wojewoda i sejmik informują się wzajemnie o swojej działalności.
 
-3. Przepis art. 98 stosuje się odpowiednio, z tym że uprawniona do złożenia skargi jest również osoba, której interesu prawnego lub uprawnienia dotyczy zarządzenie zastępcze.
+### 2.
 
-**Art. 99.**
+Na sesjach plenarnych delegaci mają prawo składania interpelacji do wojewody, który jest obowiązany udzielić na nie odpowiedzi nie później niż w ciągu 30 dni.
 
-1. (uchylony) 1a. Przepisy o nadzorze nad gminami stosuje się odpowiednio do związków i porozumień międzygminnych.
+### 3.
 
-2. W sprawach związków i porozumień międzygminnych, wykraczających poza granice województwa, organy nadzorcze działają zakresie swojej właściwości miejscowej i za pośrednictwem organów nadzorczych właściwych ze względu na siedzibę władz związku lub porozumienia, chyba że statut związku lub porozumienie przekazuje uprawnienia nadzorcze Prezesowi Rady Ministrów.
+Delegaci składają własnym radom sprawozdania z działalności sejmiku.
 
-**Art. 100.** Postępowanie sądowe, o którym mowa artykułach poprzedzających, jest wolne od opłat sądowych.
+### Art. 81.
 
-**Art. 101.**
+### 1.
 
-1. Każdy, czyj interes prawny lub uprawnienie zostały naruszone uchwałą lub zarządzeniem, podjętymi przez organ gminy sprawie z zakresu administracji publicznej, może zaskarżyć uchwałę lub zarządzenie do sądu administracyjnego.
+Kolegium odwoławcze przy sejmiku orzeka w składach trzyosobowych w sprawach odwołań od indywidualnych decyzji administracyjnych wydawanych przez wójta lub burmistrza w zakresie zadań własnych gmin.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli sprawie orzekał już sąd administracyjny i skargę oddalił.
+### 2.
 
-2a. Skargę na uchwałę lub zarządzenie, o których mowa ust. 1, można wnieść do sądu administracyjnego imieniu własnym lub reprezentując grupę mieszkańców gminy, którzy na to wyrażą pisemną zgodę.
+Liczbę członków kolegium odwoławczego określa sejmik. Członków kolegium odwoławczego powołuje się na okres kadencji sejmiku.
 
-3. (uchylony)
+### 3.
 
-**Art. 101a.**
+Kolegium odwoławcze działa do wyboru nowego kolegium przez sejmik następnej kadencji.
 
-1. Przepisy art. 101 stosuje się odpowiednio, gdy organ gminy nie wykonuje czynności nakazanych prawem albo przez podejmowane czynności prawne lub faktyczne narusza prawa osób trzecich.
+### Art. 82.
 
-2. W przypadkach, o których mowa ust. 1, sąd administracyjny może nakazać organowi nadzoru wykonanie niezbędnych czynności na rzecz skarżącego, na koszt i ryzyko gminy.
+### 1.
 
-**Art. 102.** Przepisów rozdziału niniejszego nie stosuje się do decyzji indywidualnych sprawach z zakresu administracji publicznej, wydawanych przez organy gmin, ich związków lub samorządowe kolegia odwoławcze. Kontrolę instancyjną tym zakresie oraz nadzór pozainstancyjny i kontrolę sprawowaną przez sąd określają przepisy odrębne.
+Koszty działalności sejmiku ponoszą gminy, opłacając składki w wysokości proporcjonalnej do liczby mieszkańców.
 
-**Art. 102a.** (uchylony)
+### 2.
 
-#### Rozdział 11 Przepis końcowy
+Wojewoda zapewnia sejmikowi możliwość korzystania z niezbędnych lokali.
 
-**Art. 103.** Ustawa wchodzi życie terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę o samorządzie terytorialnym, z wyjątkiem art. 5 ust. 4 i art. 17, które wchodzą życie z dniem ogłoszenia .
+### Art. 83.
 
+### 1.
+
+Budżet oraz wysokość składek uchwala sejmik.
+
+### 2.
+
+Do gospodarki finansowej sejmiku stosuje się odpowiednio przepisy o gospodarce finansowej gmin.
+
+### Rozdział 9 Stowarzyszenia gmin
+
+### Art. 84.
+
+### 1.
+
+W celu wspierania idei samorządu terytorialnego oraz obrony wspólnych interesów, gminy mogą tworzyć stowarzyszenia.
+
+### 2.
+
+Organizację, zadania oraz tryb pracy stowarzyszenia określa jego statut.
+
+### 3.
+
+Do stowarzyszeń gmin stosuje się odpowiednio przepisy Prawa o stowarzyszeniach.
+
+### Rozdział 10 Nadzór nad działalnością komunalną
+
+### Art. 85.
+
+### 1.
+
+Nadzór nad działalnością komunalną sprawowany jest na podstawie kryterium zgodności z prawem, z zastrzeżeniem przepisu ust. 2.
+
+### 2.
+
+W sprawach zleconych nadzór sprawowany jest ponadto na podstawie kryteriów celowości, rzetelności i gospodarności.
+
+### Art. 86.
+
+Organami nadzoru są: Prezes Rady Ministrów i wojewoda, a w zakresie spraw budżetowych - regionalna izba obrachunkowa.
+
+### Art. 87.
+
+Organy nadzoru mogą wkraczać w działalność komunalną tylko w przypadkach określonych ustawami.
+
+### Art. 88.
+
+Organy nadzoru mają prawo żądania niezbędnych informacji i danych dotyczących organizacji i funkcjonowania gminy oraz mogą dokonywać wizytacji administracji komunalnej i uczestniczyć w posiedzeniach organów gminy.
+
+### Art. 89.
+
+### 1.
+
+Jeżeli prawo uzależnia ważność rozstrzygnięcia organu gminy od jego zatwierdzenia, uzgodnienia lub zaopiniowania przez inny organ, zajęcie stanowiska przez ten organ powinno nastąpić nie później niż w ciągu 14 dni od daty doręczenia tego rozstrzygnięcia lub jego projektu.
+
+### 2.
+
+Jeżeli organ, o którym mowa w ust. 1, nie zajmie stanowiska w sprawie, rozstrzygnięcie uważa się za przyjęte w brzmieniu przedłożonym przez gminę, z upływem terminu określonego w ust. 1.
+
+### Art. 90.
+
+### 1.
+
+Wójt lub burmistrz obowiązany jest do przedłożenia wojewodzie uchwał rady w ciągu 7 dni od daty ich podjęcia.
+
+### 2.
+
+Uchwałę budżetową oraz uchwałę o nieudzielaniu zarządowi absolutorium przedkłada się regionalnej izbie obrachunkowej na zasadach określonych w ust. 1.
+
+### Art. 91.
+
+### 1.
+
+Uchwała organu gminy sprzeczna z prawem jest nieważna. O nieważności uchwały w całości lub w części orzeka organ nadzoru w terminie nie dłuższym niż 30 dni od daty doręczenia uchwały, w trybie określonym w art. 90.
+
+### 2.
+
+Organ nadzoru, wszczynając postępowanie w sprawie stwierdzenia nieważności uchwały, może wstrzymać jej wykonanie.
+
+### 3.
+
+Rozstrzygnięcie nadzorcze powinno zawierać uzasadnienie faktyczne i prawne oraz pouczenie o dopuszczalności wniesienia skargi do sądu administracyjnego.
+
+### 4.
+
+W przypadku nieistotnego naruszenia prawa organ nadzoru nie stwierdza nieważności uchwały, ograniczając się do wskazania, iż uchwałę wydano z naruszeniem prawa.
+
+### 5.
+
+Przepisy Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### Art. 92.
+
+Jeżeli stwierdzenie nieważności dotyczy uchwały budżetowej, budżet, w części objętej stwierdzeniem nieważności, nie może być wykonywany do chwili rozstrzygnięcia sprawy przez sąd administracyjny. Przepisy art. 53 ust. 2 i 3 stosuje się odpowiednio.
+
+### Art. 93.
+
+### 1.
+
+Po upływie terminu wskazanego w art. 91 ust. 1 organ nadzoru nie może we własnym zakresie stwierdzić nieważności uchwały organu gminy. W tym przypadku organ nadzoru może zaskarżyć uchwałę do sądu administracyjnego.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, wydanie postanowienia o wstrzymaniu wykonania uchwały należy do sądu.
+
+### Art. 94.
+
+### 1.
+
+Nie stwierdza się nieważności uchwały organu gminy po upływie jednego roku od daty jej podjęcia, chyba że uchybiono obowiązkowi przedłożenia uchwały w terminie określonym w art. 90 ust. 1.
+
+### 2.
+
+Jeżeli nie stwierdzono nieważności uchwały z powodu upływu terminu określonego w ust. 1, a istnieją przesłanki stwierdzenia nieważności, orzeka się o niezgodności uchwały z prawem. Przepisy Kodeksu postępowania administracyjnego co do skutków takiego orzeczenia stosuje się odpowiednio.
+
+### Art. 95.
+
+### 1.
+
+Działając w granicach art. 85 ust. 2, wojewoda może wstrzymać wykonanie uchwały organu gminy i przekazać sprawę do ponownego rozpatrzenia, wskazując zaistniałe uchybienia oraz termin załatwienia sprawy.
+
+### 2.
+
+Jeżeli uchwała organu gminy, podjęta w wyniku ponownego rozpatrzenia sprawy, nie uwzględnia wskazówek, o których mowa w ust. 1, wojewoda może uchylić uchwałę i wydać zarządzenie zastępcze, powiadamiając o tym prezydium sejmiku i właściwego ministra.
+
+### 3.
+
+Zarządzenie zastępcze wchodzi w życie w terminie 30 dni od daty jego wydania, chyba że w tym czasie minister wyda inne rozstrzygnięcie w sprawie.
+
+### 4.
+
+Przepisy ust. 1-3 stosuje się odpowiednio do czynności podejmowanych przez gminę w wykonaniu zadań, o których mowa w art. 8 ust. 1.
+
+### Art. 96.
+
+### 1.
+
+W razie powtarzającego się naruszenia przez radę gminy Konstytucji lub ustaw, Sejm, na wniosek Prezesa Rady Ministrów, może w drodze uchwały rozwiązać radę gminy. Rozwiązanie rady równoznaczne jest z rozwiązaniem wszystkich organów gminy. Prezes Rady Ministrów wyznacza wówczas osobę, która do czasu wyborów nowych organów gminy pełni funkcję tych organów.
+
+### 2.
+
+Jeżeli powtarzającego się naruszenia Konstytucji lub ustaw dopuszcza się zarząd gminy, wojewoda wzywa radę gminy do zastosowania niezbędnych środków, a jeżeli wezwanie to nie odnosi skutku - występuje z wnioskiem do sejmiku o rozwiązanie zarządu gminy. Sejmik podejmuje uchwałę bezwzględną większością głosów w obecności co najmniej połowy liczby delegatów. Do czasu wyboru nowego zarządu funkcję zarządu, a także funkcję wójta lub burmistrza pełni osoba wyznaczona przez prezydium sejmiku.
+
+### Art. 97.
+
+### 1.
+
+W razie nie rokującego nadziei na szybką poprawę i przedłużającego się braku skuteczności w wykonywaniu zadań publicznych przez organy gminy, Prezes Rady Ministrów może zawiesić organy gminy i ustanowić zarząd komisaryczny na okres do dwóch lat, nie dłużej jednak niż do wyboru zarządu przez radę kolejnej kadencji.
+
+### 2.
+
+Ustanowienie zarządu komisarycznego może nastąpić po uprzednim przedstawieniu zarzutów organom gminy i wezwaniu ich do niezwłocznego przedłożenia programu poprawy sytuacji gminy oraz po wysłuchaniu opinii sejmiku.
+
+### 3.
+
+Komisarza rządowego powołuje Prezes Rady Ministrów na wniosek wojewody, zaopiniowany przez sejmik.
+
+### 4.
+
+Komisarz rządowy przejmuje wykonywanie zadań i kompetencji organów gminy.
+
+### Art. 98.
+
+### 1.
+
+Rozstrzygnięcie organu nadzorczego dotyczące gminy, a także stanowisko zajęte w trybie art. 89, podlega zaskarżeniu do sądu administracyjnego z powodu niezgodności z prawem w terminie 30 dni od daty jego doręczenia.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do rozstrzygnięć dotyczących organów związków i porozumień komunalnych.
+
+### 3.
+
+Do złożenia skargi uprawniona jest gmina lub związek komunalny, których interes prawny, uprawnienie albo kompetencja zostały naruszone. Podstawą wniesienia skargi jest uchwała organów gminy.
+
+### 4.
+
+Do postępowania w sprawach, o których mowa w ust. 1 i 2, stosuje się odpowiednio przepisy o zaskarżaniu do sądu administracyjnego decyzji w indywidualnych sprawach z zakresu administracji publicznej.
+
+### 5.
+
+Rozstrzygnięcia nadzorcze stają się prawomocne z upływem terminu do wniesienia skargi bądź z datą oddalenia lub odrzucenia skargi przez sąd.
+
+### Art. 99.
+
+### 1.
+
+Przepisy o nadzorze nad gminami stosuje się odpowiednio do sejmików oraz do związków i porozumień komunalnych.
+
+### 2.
+
+W sprawach związków i porozumień komunalnych, wykraczających poza granice województwa, organy nadzorcze działają w zakresie swojej właściwości miejscowej i za pośrednictwem organów nadzorczych właściwych ze względu na siedzibę władz związku lub porozumienia, chyba że statut związku lub porozumienie przekazuje uprawnienia nadzorcze Prezesowi Rady Ministrów.
+
+### Art. 100.
+
+Postępowanie sądowe, o którym mowa w artykułach poprzedzających, jest wolne od opłat sądowych.
+
+### Art. 101.
+
+### 1.
+
+Każdy, czyj interes prawny lub uprawnienie zostały naruszone uchwałą podjętą przez organ gminy w sprawie z zakresu administracji publicznej, może - po bezskutecznym wezwaniu do usunięcia naruszenia - zaskarżyć uchwałę do sądu administracyjnego.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli w sprawie orzekał już sąd administracyjny i skargę oddalił.
+
+### 3.
+
+W sprawie wezwania do usunięcia naruszenia stosuje się przepisy o terminach załatwiania spraw w postępowaniu administracyjnym.
+
+### 4.
+
+W sprawach, o których mowa w ust. 1, stosuje się odpowiednio art. 94.
+
+### Art. 102.
+
+Przepisów rozdziału niniejszego nie stosuje się do decyzji indywidualnych w sprawach z zakresu administracji publicznej, wydawanych przez organy gmin, ich związków lub kolegia odwoławcze przy sejmikach. Kontrolę instancyjną w tym zakresie oraz nadzór pozainstancyjny i kontrolę sprawowaną przez sąd określają przepisy odrębne.
+
+### Rozdział 11 Przepis końcowy
+
+### Art. 103.
+
+Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą - Przepisy wprowadzające ustawę o samorządzie terytorialnym, z wyjątkiem art. 5 ust. 4 i art. 17, które wchodzą w życie z dniem ogłoszenia.

@@ -8,11 +8,9 @@ pos: 1360
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o systemie oceny zgodności
-
-*USTAWA z dnia 30 sierpnia 2002 r.*
+# Ustawa z dnia 30 sierpnia 2002 r. o systemie oceny zgodności
 
 | Pole | Wartość |
 |---|---|
@@ -24,572 +22,1662 @@ domain: null
 | Data ogłoszenia | 2002-08-30 |
 | Data wydania | 2002-10-07 |
 | Ostatnia zmiana | 2026-05-06 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021661360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/1360/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/1360) |
 
-Art. 49–57. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami](#chpt_2) [Rozdział 3 - Akredytacja, autoryzacja oraz notyfikacja](#chpt_3) [Rozdział 4 - Centrum Akredytacji](#chpt_4) [Rozdział 5 - Opłaty](#chpt_5) [Rozdział 6 - Nadzór nad wyrobami wprowadzonymi do obrotu](#chpt_6) [Rozdział 7 - Odpowiedzialność karna](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących](#chpt_8) [Rozdział 9 - Przepisy przejściowe i końcowe](#chpt_9)
 
-**Art. 1.**
+TOC
 
-1. Ustawa określa:
+## Treść ustawy
 
-- **1)** zasady funkcjonowania systemu oceny zgodności z zasadniczymi i szczegółowymi wymaganiami dotyczącymi wyrobów;
-- **2)** (uchylony)
-- **3)** zasady i tryb autoryzacji jednostek certyfikujących i kontrolujących oraz laboratoriów, a także sposób zgłaszania Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek i laboratoriów;
-- **4)** (uchylony)
-- **5)** zasady działania systemu kontroli wyrobów zgodnie z ramami nadzoru rynku ustanowionymi w rozporządzeniu (WE) nr 765/2008.
+### Rozdział 1 Przepisy ogólne
 
-1a. Przepisy ustawy stosuje się do następujących rodzajów wyrobów:
+### Art. 1.
 
-- **1)** (uchylony)
-- **2)** wodnych kotłów grzewczych opalanych paliwami ciekłymi lub gazowymi;
-- **3)** urządzeń używanych na zewnątrz pomieszczeń w zakresie emisji hałasu do środowiska;
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** wyrobów ze szkła kryształowego;
-- **7)** maszyn;
-- **8)** wyrobów aerozolowych;
-- **9)** sprzętu elektrycznego i elektronicznego w zakresie ograniczenia stosowania niektórych substancji niebezpiecznych;
-- **10)** (uchylony)
-- **11)** wyrobów wykorzystujących energię, dla których określono wymagania w aktach wykonawczych do art. 15 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE z dnia 21 października 2009 r. ustanawiającej ogólne zasady ustalania wymogów dotyczących ekoprojektu dla produktów związanych z energią (Dz. Urz. UE L 285 z 31.10.2009, str. 10, z późn. zm.).
+### 1.
 
-2. Przepisy ustawy stosuje się do wyrobów medycznych, o których mowa w art. 2 ust. 1 pkt 38 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych (Dz. U. z 2021 r. poz. 1565) , wyrobów w rozumieniu art. 1 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/745”, oraz do wyrobów w rozumieniu w art. 1 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), zwanego dalej „rozporządzeniem 2017/746”, w zakresie, w jakim należą do rodzajów wyrobów wskazanych w art. 1 ust. 1a pkt 2, 3, 6–9 i 11, z uwzględnieniem stosowania wymagań bardziej szczegółowych w przypadkach wskazanych w art. 25 ustawy z dnia 20 maja 2010 r. o wyrobach medycznych , art. 1 ust. 12 rozporządzenia 2017/745 oraz art. 1 ust. 6 rozporządzenia 2017/746.
+Ustawa określa:
 
-2a. (uchylony)
+### 1)
 
-3. (uchylony) 3a. (uchylony)
+zasady funkcjonowania systemu oceny zgodności z zasadniczymi i szczegółowymi wymaganiami dotyczącymi wyrobów, jak również procesów ich wytwarzania, które mogą stwarzać zagrożenie albo służą ochronie lub ratowaniu życia, zdrowia, mienia oraz środowiska;
 
-4. (uchylony)
+### 2)
 
-5. (uchylony)
+zasady i tryb udzielania akredytacji oraz autoryzacji;
 
-6. (uchylony)
+### 3)
 
-**Art. 2.** Celem ustawy jest:
+sposób zgłaszania Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek oraz autoryzowanych laboratoriów;
 
-**Art. 3.** System oceny zgodności tworzą:
+### 4)
 
-**Art. 3a.** System kontroli wyrobów obejmuje:
+zadania Polskiego Centrum Akredytacji;
 
-**Art. 4.** W procesie oceny zgodności uczestniczą producenci, ich upoważnieni przedstawiciele, importerzy, jednostki certyfikujące, jednostki kontrolujące oraz laboratoria.
+### 5)
 
-**Art. 5.** Ilekroć w ustawie jest mowa o:
+zasady sprawowania nadzoru nad wyrobami podlegającymi ocenie zgodności oraz organy właściwe w tych sprawach.
 
-#### Rozdział 2 Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami
+### 2.
 
-**Art. 6.**
+Przepisów ustawy nie stosuje się do wyrobów będących wyrobami medycznymi w rozumieniu ustawy z dnia 27 lipca 2001 r. o wyrobach medycznych ([Dz. U. z 2001 r. Nr 126, poz. 1380](https://api.sejm.gov.pl/eli/acts/DU/2001/1380/text.html) oraz z [2002 r. Nr 152, poz. 1264](https://api.sejm.gov.pl/eli/acts/DU/2002/1264/text.html)).
 
-1. Wyroby wprowadzane do obrotu lub oddawane do użytku podlegają ocenie zgodności z:
+### Art. 2.
 
-- **1)** zasadniczymi wymaganiami określonymi w przepisach wydanych na podstawie art. 9 ust. 1 albo
-- **2)** szczegółowymi wymaganiami określonymi w przepisach wydanych na podstawie art. 10 ust. 1, albo
-- **3)** zasadniczymi lub szczegółowymi wymaganiami określonymi w odrębnych ustawach.
+Celem ustawy jest:
 
-2. Dokonanie oceny zgodności, o której mowa w ust. 1, jest obowiązkowe przed wprowadzeniem wyrobu do obrotu lub oddaniem do użytku.
+### 1)
 
-3. Niezależnie od oceny zgodności, o której mowa w ust. 1, dozwolone jest dokonywanie dobrowolnej oceny zgodności na warunkach uzgodnionych w umowie zawartej przez zainteresowane strony.
+eliminowanie zagrożeń stwarzanych przez wyroby dla życia lub zdrowia użytkowników i konsumentów oraz mienia, a także zagrożeń dla środowiska;
 
-**Art. 7.**
+### 2)
 
-1. Podczas dokonywania oceny zgodności z zasadniczymi wymaganiami wyrób może być poddawany:
+znoszenie barier technicznych w handlu i ułatwianie międzynarodowego obrotu towarowego;
 
-- **1)** badaniom przez:
-    - **a)** producenta lub jego upoważnionego przedstawiciela, jeżeli nie jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy,
-    - **b)** notyfikowane laboratorium, jeżeli jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy;
+### 3)
 
-- **2)** sprawdzeniu zgodności z zasadniczymi wymaganiami – przez notyfikowaną jednostkę kontrolującą;
-- **3)** certyfikacji – przez notyfikowaną jednostkę certyfikującą.
+stworzenie warunków do rzetelnej oceny wyrobów i procesów ich wytwarzania przez kompetentne i niezależne podmioty.
 
-2. Pozytywny wynik oceny zgodności z zasadniczymi wymaganiami dokonywanej przez notyfikowaną jednostkę certyfikującą stanowi podstawę do wydania producentowi lub jego upoważnionemu przedstawicielowi certyfikatu zgodności.
+### Art. 3.
 
-**Art. 7a.**
+System oceny zgodności tworzą:
 
-1. Oceny zgodności wyrobu ze szczegółowymi wymaganiami dokonuje producent lub importer, w sposób określony w przepisach wydanych na podstawie art. 10 ust. 1 lub w odrębnych ustawach.
+### 1)
 
-2. Minister właściwy ze względu na przedmiot oceny zgodności może upoważnić kompetentną jednostkę do wykonywania zadań dotyczących oceny zgodności, określonych w przepisach wydanych na podstawie art. 10 ust. 1.
+przepisy określające zasadnicze i szczegółowe wymagania oraz specyfikacje techniczne dotyczące wyrobów i procesów ich wytwarzania;
 
-**Art. 8.**
+### 2)
 
-1. Producent lub jego upoważniony przedstawiciel, który poddał wyrób lub proces jego wytwarzania ocenie zgodności z zasadniczymi wymaganiami i potwierdził ich zgodność, wystawia deklarację zgodności, jeżeli zastosowana procedura oceny zgodności to przewiduje, i umieszcza oznakowanie zgodności zgodnie z wymaganiami określonymi w przepisach wydanych na podstawie art. 9 ust. 1 lub w odrębnych ustawach.
+przepisy oraz normy określające działanie podmiotów uczestniczących w procesie oceny zgodności.
 
-2. W przypadku gdy deklarację zgodności sporządzono w innym języku niż język polski, a z przepisów wydanych na podstawie art. 9 ust. 1 lub z odrębnych ustaw wynika obowiązek dołączenia jej do wyrobu, producent lub jego upoważniony przedstawiciel albo importer powinien deklarację tę przetłumaczyć na język polski, o ile wyrób jest przeznaczony do używania lub dystrybucji na terytorium Rzeczypospolitej Polskiej.
+### Art. 4.
 
-3. Producent lub jego upoważniony przedstawiciel jest obowiązany przekazać niezwłocznie ministrowi właściwemu ze względu na przedmiot oceny zgodności i Komisji Europejskiej kopię deklaracji zgodności, o ile obowiązek ten wynika z przepisów wydanych na podstawie art. 9 ust. 1.
+W procesie oceny zgodności uczestniczą producenci, ich upoważnieni przedstawiciele, importerzy, jednostki certyfikujące, jednostki kontrolujące oraz laboratoria.
 
-4. Zabrania się umieszczania na wyrobie, który nie spełnia zasadniczych wymagań, lub do którego nie zastosowano właściwej procedury oceny zgodności określonej w przepisach wydanych na podstawie art. 9 ust. 1 lub w odrębnych ustawach, oznakowania zgodności lub znaków podobnych mogących wprowadzać w błąd użytkownika, konsumenta lub dystrybutora tego wyrobu.
+### Art. 5.
 
-5. Zabrania się wprowadzania do obrotu lub oddawania do użytku wyrobu nieposiadającego oznakowania zgodności, jeżeli wyrób ten podlega takiemu oznakowaniu.
+Ilekroć w ustawie jest mowa o:
 
-**Art. 9.**
+### 1)
 
-1. Minister właściwy ze względu na przedmiot oceny zgodności określi, w drodze rozporządzeń, zasadnicze wymagania dla wyrobów podlegających ocenie zgodności oraz procedury oceny zgodności, biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń, a także inne wymagania zawarte w dyrektywach nowego podejścia.
+wyrobie - należy przez to rozumieć rzecz ruchomą, bez względu na stopień jej przetworzenia, przeznaczoną do wprowadzenia do obrotu, z wyjątkiem artykułów rolno-spożywczych oraz środków żywienia zwierząt;
 
-2. Minister właściwy ze względu na przedmiot oceny zgodności określi, wydając rozporządzenia, o których mowa w ust. 1, w szczególności metody badań, sposób oznakowania wyrobów oraz wzór znaku.
+### 2)
 
-**Art. 10.**
+wprowadzeniu do obrotu - należy przez to rozumieć przekazanie wyrobu po raz pierwszy w kraju: użytkownikowi, konsumentowi bądź sprzedawcy przez producenta, jego upoważnionego przedstawiciela lub importera;
 
-1. Minister właściwy ze względu na przedmiot oceny zgodności może określić, w drodze rozporządzeń, szczegółowe wymagania dla wyrobów, które mogą stwarzać zagrożenie albo służą ochronie lub ratowaniu życia, zdrowia, mienia lub środowiska, biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń, a także inne wymagania zawarte w innych aktach prawnych Wspólnoty Europejskiej niż dyrektywy nowego podejścia.
+### 3)
 
-2. Minister właściwy ze względu na przedmiot oceny zgodności, wydając rozporządzenia, o których mowa w ust. 1, określi, w zależności od rodzaju wyrobów, w szczególności sposoby identyfikacji i oznakowania wyrobów oraz warunki i tryb przeprowadzania badań.
+oznakowaniu CE - należy przez to rozumieć oznakowanie potwierdzające zgodność danego wyrobu lub procesu jego wytwarzania z zasadniczymi wymaganiami;
 
-**Art. 11.** (uchylony)
+### 4)
 
-**Art. 12.** Domniemywa się, że wyrób, na którym umieszczono oznakowanie zgodności lub dla którego sporządzono dokumentację potwierdzającą spełnienie zasadniczych wymagań, jest zgodny z wymaganiami określonymi w obowiązujących przepisach.
+laboratorium - należy przez to rozumieć laboratorium badawcze lub laboratorium pomiarowe;
 
-**Art. 13.**
+### 5)
 
-1. Domniemywa się, że wyrób spełnia określone zasadnicze wymagania, jeżeli jest zgodny z odpowiednimi postanowieniami norm zharmonizowanych lub specyfikacji zharmonizowanych.
+upoważnionym przedstawicielu - należy przez to rozumieć każdą osobę fizyczną lub prawną mającą siedzibę w Unii Europejskiej, wyznaczoną przez producenta do działania w jego imieniu;
 
-2. W przypadku gdy producent lub jego upoważniony przedstawiciel nie wykaże zgodności wyrobu z odpowiednimi postanowieniami norm zharmonizowanych lub specyfikacji zharmonizowanych, jest obowiązany wykazać zgodność wyrobu z zasadniczymi wymaganiami na podstawie innych dowodów.
+### 6)
 
-3. Prezes Polskiego Komitetu Normalizacyjnego ogłasza dwa razy w roku, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, numery i tytuły norm zharmonizowanych wraz z tytułami aktów prawnych wdrażających dyrektywy nowego podejścia i danymi dotyczącymi miejsca ich publikacji, a także informacje o ogłoszonych przez Komisję Europejską okresach przejściowych stosowania domniemania zgodności i ostrzeżeniach dotyczących ograniczenia domniemania zgodności, według stanu na dzień 30 czerwca i dzień 31 grudnia każdego roku.
+jednostce kontrolującej - należy przez to rozumieć jednostkę dokonującą sprawdzenia projektu wyrobu, wyrobu lub procesu jego wytwarzania oraz ustalenia ich zgodności z zasadniczymi lub szczegółowymi wymaganiami lub specyfikacjami technicznymi;
 
-4. Prezes Głównego Urzędu Miar ogłasza raz na 12 miesięcy, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, numery i tytuły ustanowionych w danym roku dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML) wraz ze wskazaniem tych postanowień, których spełnienie pozwala na domniemanie zgodności wyrobu z zasadniczymi wymaganiami, a także tytuły aktów prawnych wdrażających dyrektywy nowego podejścia dotyczące przyrządów pomiarowych wraz z danymi dotyczącymi miejsca ich publikacji.
+### 7)
 
-**Art. 13a.**
+jednostce certyfikującej - należy przez to rozumieć niezależną od podmiotów wymienionych w pkt 2 jednostkę dokonującą certyfikacji, o której mowa w pkt 8;
 
-1. Producent lub jego upoważniony przedstawiciel jest obowiązany przechowywać dokumentację dotyczącą wyrobów oraz wyników dokonanej oceny zgodności wyrobów z zasadniczymi wymaganiami przez okres 10 lat od daty wyprodukowania ostatniego wyrobu, którego dokumentacja ta dotyczy, o ile przepisy szczególne nie stanowią inaczej.
+### 8)
 
-2. Jeżeli producent ma siedzibę poza terytorium państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym i nie ustanowił upoważnionego przedstawiciela, do przechowywania kopii dokumentacji dotyczącej wyrobu i przeprowadzonej oceny zgodności przez okres, o którym mowa w ust. 1, obowiązany jest importer.
+certyfikacji - należy przez to rozumieć działanie jednostki certyfikującej, wykazujące, że należycie zidentyfikowany wyrób lub proces jego wytwarzania są zgodne z zasadniczymi lub szczegółowymi wymaganiami lub specyfikacjami technicznymi;
 
-**Art. 14.** Notyfikowane jednostki certyfikujące, notyfikowane jednostki kontrolujące oraz notyfikowane laboratoria, o których mowa w art. 7, dokonują oceny zgodności z uwzględnieniem przepisów o ochronie informacji stanowiących tajemnicę przedsiębiorstwa i innych informacji prawnie chronionych.
+### 9)
 
-#### Rozdział 3 Autoryzacja i notyfikacja
+certyfikacie zgodności - należy przez to rozumieć dokument wydany przez notyfikowaną jednostkę certyfikującą potwierdzający, że wyrób i proces jego wytwarzania są zgodne z zasadniczymi wymaganiami lub specyfikacjami technicznymi;
 
-**Art. 15.** (uchylony)
+### 10)
 
-**Art. 16.** (uchylony)
+deklaracji zgodności - należy przez to rozumieć oświadczenie producenta lub jego upoważnionego przedstawiciela stwierdzające na jego wyłączną odpowiedzialność, że wyrób jest zgodny z zasadniczymi wymaganiami, specyfikacjami technicznymi lub określoną normą;
 
-**Art. 17.** (uchylony)
+### 11)
 
-**Art. 18.** (uchylony)
+akredytacji - należy przez to rozumieć uznanie przez jednostkę akredytującą kompetencji jednostki certyfikującej, jednostki kontrolującej oraz laboratorium do wykonywania określonych działań;
 
-**Art. 19.**
+### 12)
 
-1. Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria w celu uzyskania notyfikacji mogą ubiegać się o autoryzację w zakresie nieprzekraczającym zakresu posiadanej akredytacji, z zastrzeżeniem ust. 6.
+autoryzacji - należy przez to rozumieć zakwalifikowanie przez ministra lub kierownika urzędu centralnego, właściwego ze względu na przedmiot oceny zgodności, zgłaszającej się jednostki lub laboratorium do procesu notyfikacji;
 
-2. Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria, o których mowa w ust. 1, powinny spełniać następujące kryteria:
+### 13)
 
-- **1)** posiadać personel o odpowiedniej wiedzy technicznej w zakresie wyrobów i danej procedury oceny zgodności;
-- **2)** być niezależne i bezstronne w stosunku do podmiotów bezpośrednio lub pośrednio związanych z procesem produkcji wyrobu;
-- **3)** dysponować odpowiednim sprzętem.
-- **4)** (uchylony)
+notyfikacji - należy przez to rozumieć zgłoszenie Komisji Europejskiej i państwom członkowskim Unii Europejskiej autoryzowanych jednostek certyfikujących i kontrolujących oraz autoryzowanych laboratoriów właściwych do wykonywania czynności określonych w procedurach oceny zgodności;
 
-3. Autoryzacja jest udzielana na wniosek jednostki certyfikującej, jednostki kontrolującej albo laboratorium, spełniających kryteria określone w ust. 2, pod warunkiem:
+### 14)
 
-- **1)** uzyskania certyfikatu akredytacji;
-- **2)** ubezpieczenia się od odpowiedzialności cywilnej w wysokości odpowiedniej dla ryzyka związanego z prowadzoną działalnością;
-- **3)** spełnienia dodatkowych kryteriów określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 albo wymagań określonych w odrębnych ustawach.
+normach zharmonizowanych - należy przez to rozumieć normy krajowe przenoszące europejskie normy zharmonizowane, ustanowione przez europejskie organizacje normalizacyjne na podstawie mandatu udzielonego przez Komisję Europejską, których numery zostały opublikowane w Dzienniku Urzędowym Wspólnot Europejskich;
 
-4. Wniosek o udzielenie autoryzacji zawiera:
+### 15)
 
-- **1)** oznaczenie jednostki certyfikującej lub kontrolującej albo laboratorium ubiegających się o autoryzację, ich siedziby i adresu;
-- **2)** numer w rejestrze właściwym dla jednostki certyfikującej lub kontrolującej albo laboratorium;
-- **3)** określenie zakresu autoryzacji.
+dyrektywach nowego podejścia - należy przez to rozumieć dyrektywy Unii Europejskiej, uchwalone zgodnie z zasadami zawartymi w _uchwale Rady Unii Europejskiej z _dnia 7 maja 1985 r. w sprawie nowego podejścia do harmonizacji technicznej oraz normalizacji;
 
-5. Do wniosku o udzielenie autoryzacji dołącza się dokumenty potwierdzające spełnienie kryteriów, o których mowa w ust. 2 i 3.
+### 16)
 
-5a. Minister właściwy do spraw gospodarki określi wzór wniosku o udzielenie autoryzacji, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+zasadniczych wymaganiach - należy przez to rozumieć wymagania, które powinien spełniać wyrób wprowadzany do obrotu, określone w dyrektywach nowego podejścia;
 
-6. Warunki, o których mowa w ust. 3 pkt 1 i 2, nie dotyczą jednostek certyfikujących, jednostek kontrolujących i laboratoriów jednostek administracji rządowej wykonujących w imieniu Rzeczypospolitej Polskiej czynności związane z prawną kontrolą metrologiczną przyrządów pomiarowych na podstawie ustawy z dnia 11 maja 2001 r. – Prawo o miarach (Dz. U. z 2022 r. poz. 2068).
+### 17)
 
-7. Warunek, o którym mowa w ust. 3 pkt 2, nie dotyczy akredytowanych jednostek certyfikujących lub kontrolujących oraz akredytowanych laboratoriów wykonujących czynności w zakresie wyrobów wykorzystywanych na cele obronności lub bezpieczeństwa państwa oraz służących do ochrony informacji niejawnych.
+szczegółowych wymaganiach - należy przez to rozumieć wymagania, które powinien spełniać wyrób wprowadzany do obrotu, określone w dyrektywach Unii Europejskiej innych niż dyrektywy nowego podejścia lub w specyfikacjach technicznych;
 
-**Art. 20.**
+### 18)
 
-1. Autoryzacji dokonuje minister albo kierownik urzędu centralnego właściwy ze względu na przedmiot oceny zgodności, zwany dalej „ministrem albo kierownikiem urzędu centralnego”, w drodze decyzji administracyjnej.
+specyfikacjach technicznych - należy przez to rozumieć dokumenty określające cechy, które powinien posiadać wyrób lub proces jego wytwarzania w zakresie jakości, parametrów technicznych, bezpieczeństwa lub wymiarów, w tym w odniesieniu do nazewnictwa, symboli, badań i metodologii badań, opakowania, znakowania i oznaczania wyrobu.
 
-2. Minister albo kierownik urzędu centralnego może, w drodze decyzji administracyjnej, ograniczyć zakres autoryzacji lub cofnąć autoryzację w przypadku stwierdzenia naruszenia warunków autoryzacji, o których mowa w art. 19 ust. 3, w zależności od charakteru i znaczenia naruszenia; minister albo kierownik urzędu centralnego niezwłocznie informuje ministra właściwego do spraw gospodarki o podjętej decyzji.
+### Rozdział 2 Zasady funkcjonowania oceny zgodności wyrobów z zasadniczymi i szczegółowymi wymaganiami
 
-3. (uchylony)
+### Art. 6.
 
-**Art. 21.**
+### 1.
 
-1. Ministrowie i kierownicy urzędów centralnych notyfikują autoryzowane jednostki certyfikujące i jednostki kontrolujące oraz autoryzowane laboratoria Komisji Europejskiej i państwom członkowskim Unii Europejskiej.
+Wprowadzane do obrotu wyroby, które mogą stwarzać zagrożenie albo służą ochronie lub ratowaniu życia, zdrowia, mienia lub środowiska, podlegają ocenie zgodności z:
 
-2. W przypadku gdy notyfikowana jednostka certyfikująca i jednostka kontrolująca oraz notyfikowane laboratorium nie spełniają wymagań określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 albo w odrębnych ustawach i nie wywiązują się ze swoich obowiązków, a także została im cofnięta autoryzacja lub zakres autoryzacji został ograniczony, minister lub kierownik urzędu centralnego cofa notyfikację lub ogranicza jej zakres; minister lub kierownik urzędu centralnego o podjętej decyzji informuje Komisję Europejską i państwa członkowskie Unii Europejskiej.
+### 1)
 
-**Art. 22.** Minister oraz kierownik urzędu centralnego sprawują nadzór nad notyfikowanymi jednostkami certyfikującymi i jednostkami kontrolującymi oraz notyfikowanymi laboratoriami w zakresie określonym w art. 19 ust. 3.
+zasadniczymi wymaganiami określonymi w rozporządzeniach wydanych na podstawie art. 9 ust. 1 albo
 
-**Art. 23.** Notyfikowane jednostki certyfikujące są obowiązane informować właściwego ministra lub kierownika urzędu centralnego o odmowie wydania, ograniczeniu zakresu, zawieszeniu lub cofnięciu certyfikatów zgodności.
+### 2)
 
-**Art. 24.**
+szczegółowymi wymaganiami określonymi w rozporządzeniach wydanych na podstawie art. 10 ust. 1;
 
-1. Minister oraz kierownik urzędu centralnego są uprawnieni do kontroli notyfikowanych jednostek certyfikujących i jednostek kontrolujących oraz notyfikowanych laboratoriów.
+### 3)
 
-2. Czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez ministra albo kierownika urzędu centralnego, które zawiera:
+zasadniczymi i szczegółowymi wymaganiami określonymi w odrębnych ustawach.
 
-- **1)** oznaczenie osoby dokonującej kontroli;
-- **2)** nazwę kontrolowanej notyfikowanej jednostki certyfikującej lub kontrolującej albo notyfikowanego laboratorium;
-- **3)** zakres kontroli.
+### 2.
 
-3. Osoby upoważnione przez ministra oraz kierownika urzędu centralnego do dokonania kontroli są uprawnione do:
+Dokonanie oceny zgodności, o której mowa w ust. 1, jest obowiązkowe przed wprowadzeniem wyrobu do obrotu.
 
-- **1)** wstępu na teren nieruchomości, obiektu i lokalu notyfikowanej jednostki certyfikującej i kontrolującej oraz notyfikowanego laboratorium w dniach i godzinach ich pracy;
-- **2)** żądania ustnych i pisemnych wyjaśnień oraz okazania dokumentów związanych z działalnością objętą notyfikacją;
-- **3)** żądania udzielenia, w wyznaczonym terminie, pisemnych i ustnych wyjaśnień w sprawach objętych zakresem kontroli.
+### 3.
 
-4. Czynności kontrolnych dokonuje się w obecności kontrolowanego lub osoby przez niego upoważnionej.
+Niezależnie od oceny zgodności, o której mowa w ust. 1, dozwolone jest dokonywanie dobrowolnej oceny zgodności na warunkach uzgodnionych w umowie zawartej przez zainteresowane strony.
 
-5. Z przeprowadzonej kontroli sporządza się protokół i przedstawia organom kontrolowanej notyfikowanej jednostki certyfikującej i jednostki kontrolującej oraz notyfikowanemu laboratorium.
+### Art. 7.
 
-6. (uchylony)
+Podczas dokonywania oceny zgodności z zasadniczymi wymaganiami wyrób może być poddawany:
 
-#### Rozdział 4
+### 1)
 
-#### Rozdział 5
+badaniom - przez notyfikowane laboratorium, jeżeli jest wymagane przeprowadzenie badań przez laboratorium niezależne od dostawcy i odbiorcy;
 
-#### Rozdział 6 System kontroli wyrobów
+### 2)
 
-**Art. 38.**
+sprawdzeniu zgodności z tymi wymaganiami - przez notyfikowaną jednostkę kontrolującą;
 
-1. System kontroli wyrobów tworzą organy wymienione w ust. 2 i 3, zwane dalej „organami wyspecjalizowanymi”, oraz organy celne.
+### 3)
 
-2. Kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań prowadzą:
+certyfikacji - przez notyfikowaną jednostkę certyfikującą; pozytywny wynik oceny zgodności dokonanej przez notyfikowaną jednostkę certyfikującą stanowi podstawę do wydania producentowi oraz jego upoważnionemu przedstawicielowi certyfikatu zgodności.
 
-- **1)** wojewódzcy inspektorzy Inspekcji Handlowej;
-- **2)** inspektorzy pracy;
-- **3)** Prezes Urzędu Komunikacji Elektronicznej;
-- **4)** organy Inspekcji Ochrony Środowiska;
-- **5)** (uchylony)
-- **6)** organy nadzoru budowlanego;
-- **7)** Prezes Wyższego Urzędu Górniczego;
-- **8)** (uchylony)
-- **9)** wojewódzcy inspektorzy transportu drogowego.
+### Art. 8.
 
-3. Postępowania w zakresie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami prowadzą:
+### 1.
 
-- **1)** Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „Prezesem UOKiK”;
-- **2)** okręgowi inspektorzy pracy;
-- **3)** Prezes Urzędu Komunikacji Elektronicznej;
-- **4)** wojewódzcy inspektorzy ochrony środowiska;
-- **5)** (uchylony)
-- **6)** organy nadzoru budowlanego;
-- **7)** Prezes Wyższego Urzędu Górniczego;
-- **8)** (uchylony)
-- **9)** wojewódzcy inspektorzy transportu drogowego.
+Producent lub jego upoważniony przedstawiciel, który poddał wyrób lub proces jego wytwarzania ocenie zgodności z zasadniczymi wymaganiami i potwierdził zgodność, wystawia deklarację zgodności i umieszcza na wyrobie oznakowanie CE.
 
-4. Kompetencje organów wyspecjalizowanych określają przepisy odrębne.
+### 2.
 
-**Art. 39.**
+Zabrania się umieszczania na wyrobie, który nie spełnia zasadniczych wymagań oraz dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, oznakowania CE lub znaku podobnego mogącego wprowadzać w błąd użytkownika wyrobu.
 
-1. Prezes UOKiK jest także organem monitorującym funkcjonowanie systemu kontroli wyrobów.
+### Art. 9.
 
-2. Do zadań Prezesa UOKiK należy:
+### 1.
 
-- **1)** współpraca z organami wyspecjalizowanymi oraz organami celnymi;
-- **2)** przekazywanie organom wyspecjalizowanym informacji wskazujących, że wyrób wprowadzony do obrotu lub oddany do użytku nie spełnia zasadniczych, szczegółowych lub innych wymagań;
-- **3)** (uchylony)
-- **4)** przygotowywanie, zgodnie z odrębnymi przepisami, okresowych planów kontroli przeprowadzanych przez Inspekcję Handlową;
-- **5)** podawanie do publicznej wiadomości i przekazywanie Komisji Europejskiej informacji o organach wyspecjalizowanych i ich kompetencjach;
-- **6)** sporządzanie okresowych planów i sprawozdań dotyczących funkcjonowania systemu kontroli wyrobów oraz podawanie ich do publicznej wiadomości i przekazywanie Komisji Europejskiej, państwom członkowskim Unii Europejskiej i państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronom umowy o Europejskim Obszarze Gospodarczym.
+Minister właściwy ze względu na przedmiot oceny zgodności określi, w drodze rozporządzeń:
 
-3. Do zadań organów wyspecjalizowanych, o których mowa w art. 38 ust. 2 pkt 2–9 oraz ust. 3 pkt 2–9 należy także:
+### 1)
 
-- **1)** informowanie Prezesa UOKiK o wynikach przeprowadzonych kontroli w zakresie spełnienia przez wyroby zasadniczych, szczegółowych lub innych wymagań;
-- **2)** przekazywanie Prezesowi UOKiK informacji o wszczęciu i zakończeniu postępowań w zakresie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami;
-- **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii decyzji, o których mowa w:
-    - **a)** art. 41c ust. 3;
-    - **b)** (uchylona)
-    - **c)** (uchylona)
+zasadnicze wymagania dla wyrobów podlegających ocenie zgodności;
 
-- **4)** współpraca z Prezesem UOKiK i innymi organami wyspecjalizowanymi oraz organami celnymi;
-- **5)** przedstawianie Prezesowi UOKiK okresowych planów kontroli wyrobów wprowadzonych do obrotu lub oddanych do użytku;
-- **6)** sporządzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdań z przeprowadzanych kontroli.
+### 2)
 
-4. Prezes UOKiK może zgłaszać uwagi do planów, o których mowa w ust. 3 pkt 5.
+warunki i tryb dokonywania oceny zgodności;
 
-5. Organy wyspecjalizowane mogą podejmować współpracę z podmiotami, o których mowa w art. 24 ust. 1 rozporządzenia (WE) nr 765/2008, w zakresie kontroli wyrobów, która obejmuje w szczególności wymianę doświadczeń, informacji i dokumentów oraz udział we wspólnych działaniach kontrolnych.
+### 3)
 
-6. Na wniosek organów wyspecjalizowanych organy celne udostępniają dane dotyczące podmiotów dokonujących przywozu wyrobów z państw trzecich, w tym informacje objęte tajemnicą celną, w zakresie niezbędnym do prowadzenia przez organy wyspecjalizowane kontroli oraz postępowań dotyczących spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań.
+treść deklaracji zgodności;
 
-**Art. 39a.** (uchylony)
+### 4)
 
-**Art. 39b.** (uchylony)
+metody przeprowadzania badań wyrobów;
 
-**Art. 39c.** Organy wyspecjalizowane wprowadzają do systemu, o którym mowa w art. 62 ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854), dane dotyczące wyrobów, o których mowa w art. 1 ust. 1a, podmiotów gospodarczych w rozumieniu ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz podjętych działań, na zasadach określonych przez Komisję Europejską.
+### 5)
 
-**Art. 40.**
+minimalne kryteria, jakie powinny być uwzględnione przy notyfikowaniu jednostek i laboratoriów;
 
-1. Organy wyspecjalizowane prowadzą kontrolę spełniania przez wyroby zasadniczych, szczegółowych lub innych wymagań, zwaną dalej „kontrolą”, z urzędu lub na wniosek Prezesa UOKiK działającego jako organ monitorujący.
+### 6)
 
-2. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć, za jego zgodą, pracownik UOKiK upoważniony przez Prezesa UOKiK, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
+sposób oznakowania;
 
-2a. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć przedstawiciel właściwego organu państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
+### 7)
 
-3. Do kontroli prowadzonej przez organy wyspecjalizowane stosuje się przepisy dotyczące zakresu działania tych organów oraz przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105 oraz z 2022 r. poz. 24, 974 i 1570).
+wzór oznakowania
 
-**Art. 40a.** Producenci, importerzy i dystrybutorzy wyrobów podlegających ocenie zgodności, o której mowa w art. 6 ust. 1, a także upoważnieni przedstawiciele oraz notyfikowane jednostki certyfikujące i kontrolujące oraz notyfikowane laboratoria, są obowiązani współdziałać, z należytą starannością, z organami wyspecjalizowanymi, w zakresie niezbędnym do ustalenia, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania.
+- biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń.
 
-**Art. 40b.**
+### 2.
 
-1. Organy wyspecjalizowane przeprowadzają kontrolę u podmiotów objętych zakresem kontroli, zwanych dalej „kontrolowanymi”.
+Minister właściwy ze względu na przedmiot oceny zgodności, wydając rozporządzenia, o których mowa w ust. 1, określi procedury i metody oceny zgodności wyrobów z zasadniczymi wymaganiami przez:
 
-2. Kontrolowany oraz inne podmioty posiadające dowody lub informacje niezbędne do ustalenia, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, są obowiązani do przekazania tych dowodów i udzielania informacji na żądanie organu prowadzącego kontrolę.
+### 1)
 
-3. Żądanie, o którym mowa w ust. 2, powinno zawierać:
+wewnętrzną kontrolę produkcji;
 
-- **1)** określenie rodzaju dowodów oraz rodzaju i zakresu informacji, którego dotyczy;
-- **2)** wskazanie celu żądania;
-- **3)** określenie terminu udostępnienia dowodów lub udzielenia informacji;
-- **4)** pouczenie o skutkach nieudostępnienia żądanych dowodów lub informacji albo udostępnienia dowodów lub informacji nieprawdziwych lub wprowadzających w błąd.
+### 2)
 
-**Art. 40c.**
+badanie reprezentatywnego wzorca wyrobu;
 
-1. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, nie udzielą informacji lub nie współdziałają w toku kontroli, ustaleń dokonuje się na podstawie dowodów, danych lub informacji dostępnych organowi wyspecjalizowanemu przeprowadzającemu kontrolę.
+### 3)
 
-2. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, przedstawią wprowadzające w błąd lub nieprawdziwe dowody, dane lub informacje, organ wyspecjalizowany przeprowadzający kontrolę pomija je przy ustalaniu stanu faktycznego sprawy.
+zapewnienie zgodności wyrobu z reprezentatywnym wzorcem wyrobu;
 
-3. Kontrolowanego lub podmioty, o których mowa w art. 40b ust. 2, informuje się o skutkach działań określonych w ust. 1 i 2.
+### 4)
 
-**Art. 40d.**
+zapewnienie jakości produkcji;
 
-1. Informacje uzyskane w toku kontroli przez organ wyspecjalizowany nie podlegają ujawnieniu, pod warunkiem że przekazujący je wskaże przyczynę, dla której wnioskuje o ich nieujawnienie, z zastrzeżeniem ust. 3.
+### 5)
 
-2. Informacje objęte tajemnicą przedsiębiorstwa, rozumiane jako nieujawnione do wiadomości publicznej informacje techniczne, technologiczne oraz organizacyjne przedsiębiorstwa lub inne informacje, co do których przedsiębiorca podjął niezbędne działania w celu zachowania ich poufności, uzyskane w toku kontroli, mogą być wykorzystane wyłącznie do celów, dla których zostały zgromadzone, z zastrzeżeniem ust. 3.
+zapewnienie jakości wyrobu;
 
-3. Jeżeli zachodzi potrzeba ujawnienia informacji oraz dowodów uzyskanych w toku kontroli, Prezes UOKiK lub organ wyspecjalizowany ujawni je w zakresie niezbędnym do wyjaśnienia podjętych w postępowaniu rozstrzygnięć.
+### 6)
 
-**Art. 40e.**
+weryfikację wyrobu;
 
-1. Kontrolę przeprowadza się w obecności kontrolowanego lub osoby przez niego upoważnionej.
+### 7)
 
-2. Kontrolowany lub osoba przez niego upoważniona są obowiązani umożliwić wykonywanie kontroli, a w szczególności:
+weryfikację jednostkową;
 
-- **1)** zapewnić wgląd w dokumenty objęte zakresem kontroli;
-- **2)** wydać za pokwitowaniem wyroby lub dokumenty, jeżeli jest to niezbędne do przeprowadzenia ich dalszej analizy lub dokładniejszej kontroli;
-- **3)** udzielić niezbędnej pomocy technicznej, jeżeli dokumenty będące przedmiotem kontroli zostały zapisane na informatycznych nośnikach danych w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
-- **4)** udostępnić obiekty i pomieszczenia, w których znajdują się dokumenty i wyroby objęte zakresem kontroli;
-- **5)** udzielać wszelkich wyjaśnień w sprawach objętych zakresem kontroli;
-- **6)** udostępnić dokumenty w celu sporządzenia kopii; zgodność kopii z oryginałem dokumentu potwierdza kontrolowany lub osoba przez niego upoważniona.
+### 8)
 
-**Art. 40f.**
+pełne zapewnienie jakości.
 
-1. W toku kontroli osoba kontrolująca w szczególności może:
+### Art. 10.
 
-- **1)** badać akta i dokumenty w zakresie objętym kontrolą;
-- **2)** dokonywać oględzin terenów, obiektów, pomieszczeń, wyrobów i innych rzeczy w zakresie objętym kontrolą;
-- **3)** legitymować osoby w celu stwierdzenia ich tożsamości, jeżeli jest to niezbędne na potrzeby kontroli;
-- **4)** żądać udzielenia, w wyznaczonym terminie, pisemnych i ustnych wyjaśnień w sprawach objętych zakresem kontroli;
-- **5)** przesłuchiwać osoby w charakterze strony lub świadka, jeżeli jest to niezbędne do wyczerpującego wyjaśnienia okoliczności sprawy;
-- **6)** zasięgać opinii biegłych, jeżeli jest to niezbędne na potrzeby kontroli;
-- **7)** zabezpieczać dowody;
-- **8)** pobierać nieodpłatnie próbki wyrobów do badań;
-- **9)** zbierać inne niezbędne dowody w zakresie objętym kontrolą.
+### 1.
 
-2. Osoba kontrolująca jest uprawniona do wstępu oraz poruszania się na terenie, w obiektach i pomieszczeniach kontrolowanego za okazaniem legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli, bez obowiązku uzyskiwania przepustki określonej w regulaminie wewnętrznym.
+Minister właściwy ze względu na przedmiot oceny zgodności może określić, w drodze rozporządzeń, szczegółowe wymagania dla wyrobów, które mogą stwarzać zagrożenie albo służą ochronie lub ratowaniu życia, zdrowia, mienia lub środowiska, a także warunki certyfikacji oraz sposób oznakowania tych wyrobów, biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń.
 
-3. Osoba kontrolująca podlega przepisom bezpieczeństwa i higieny pracy obowiązującym w jednostce kontrolowanej.
+### 2.
 
-**Art. 40g.**
+Minister właściwy ze względu na przedmiot oceny zgodności, wydając rozporządzenia, o których mowa w ust. 1, określi, w zależności od rodzaju wyrobów, w szczególności:
 
-1. Przedmiotem kontroli może być wyrób, prawidłowość oznakowania wyrobu oraz dokumentacja techniczna wyrobu.
+### 1)
 
-2. Osoba kontrolująca może w toku kontroli żądać od osoby zobowiązanej do przechowywania dokumentów związanych z oceną zgodności przedstawienia, w wyznaczonym terminie, w szczególności:
+procedury pobierania próbek;
 
-- **1)** deklaracji zgodności;
-- **2)** nazwy i adresu producenta wyrobu;
-- **3)** wykazu uwzględnionych norm zharmonizowanych, specyfikacji zharmonizowanych lub rozwiązań przyjętych w celu stwierdzenia zgodności wyrobu z zasadniczymi wymaganiami;
-- **4)** ogólnego opisu wyrobu, schematu wyrobu oraz instrukcji obsługi wyrobu.
+### 2)
 
-3. W przypadku uzasadnionych wątpliwości co do zgodności wyrobu z zasadniczymi wymaganiami osoba kontrolująca może dodatkowo zażądać od osoby zobowiązanej do przechowywania dokumentów związanych z oceną zgodności przedstawienia, w wyznaczonym terminie, w szczególności:
+sposoby identyfikacji i oznakowania wyrobów;
 
-- **1)** sprawozdania z przeprowadzonych badań;
-- **2)** informacji o systemie zarządzania jakością.
+### 3)
 
-4. W przypadku gdy kontrolowany wyrób stwarza zagrożenie dla życia, zdrowia, mienia lub środowiska, osoba kontrolująca może zażądać od osoby zobowiązanej do przechowywania dokumentów związanych z oceną zgodności przedstawienia, w wyznaczonym terminie, pełnej dokumentacji technicznej.
+warunki i tryb przeprowadzania badań, kontroli i klasyfikacji wyrobów.
 
-5. Jeżeli dokumenty, o których mowa w ust. 2–4, sporządzono w języku obcym, osoba kontrolująca może żądać, w zakresie niezbędnym do przeprowadzenia kontroli, tłumaczenia tych dokumentów na język polski.
+### Art. 11.
 
-**Art. 40h.**
+### 1.
 
-1. W przypadku gdy osoba zobowiązana do przechowywania dokumentów związanych z oceną zgodności nie przedstawi tych dokumentów osobie kontrolującej lub z przedstawionych dokumentów nie wynika, że wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może poddać wyrób badaniom lub zlecić ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania.
+Ocenę zgodności wyrobów, przeznaczonych na cele obronności lub bezpieczeństwa państwa oraz służących do ochrony informacji niejawnych, z zasadniczymi i szczegółowymi wymaganiami oraz specyfikacjami technicznymi, mogą wykonywać wyłącznie jednostki wskazane w drodze decyzji przez Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych lub Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
-2. W celu stwierdzenia, czy wyrób spełnia zasadnicze lub szczegółowe wymagania, organ wyspecjalizowany może również poddać wyrób badaniom z pominięciem weryfikowania dokumentów związanych z oceną zgodności.
+### 2.
 
-**Art. 40i.**
+Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych określą, w drodze rozporządzenia, wykaz wyrobów, o których mowa w ust. 1, biorąc pod uwagę zagrożenia, jakie wyroby te stwarzają dla życia lub zdrowia ludzkiego oraz mienia i środowiska.
 
-1. W przypadku zabezpieczenia dowodów, pobrania próbek, dokonania oględzin lub przeprowadzenia innych czynności sporządza się protokół.
+### Art. 12.
 
-2. W celu poddania wyrobu badaniom, o których mowa w art. 40h, organ wyspecjalizowany pobiera nieodpłatnie próbki.
+### 1.
 
-3. Równocześnie z pobraniem próbki wyrobu należy pobrać i zabezpieczyć dodatkową próbkę z tej samej partii wyrobu w ilości odpowiadającej ilości pobranej do badań (próbka kontrolna).
+Wyroby wyprodukowane i wprowadzone do obrotu w państwach członkowskich Unii Europejskiej, zgodnie z przepisami obowiązującymi w tych państwach, dopuszcza się do obrotu na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem ust. 2.
 
-4. Próbka kontrolna jest przechowywana przez kontrolowanego, do czasu jej zwolnienia przez organ wyspecjalizowany, w warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu.
+### 2.
 
-5. Próbki kontrolnej nie pobiera się, jeżeli:
+Jeżeli właściwy organ stwierdzi, że wyroby, o których mowa w ust. 1, nie spełniają wymogów dotyczących ochrony zdrowia i życia użytkowników i konsumentów oraz mienia, a także stwarzają zagrożenia dla środowiska, stosuje się przepisy art. 41 ust. 1.
 
-- **1)** pobranie próbki byłoby utrudnione ze względu na wartość, rodzaj lub ilość wyrobu;
-- **2)** przechowanie próbki w warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu jest niemożliwe.
+### Art. 13.
 
-6. Po przeprowadzeniu badań sporządza się sprawozdanie z badań, które dołącza się do protokołu kontroli.
+### 1.
 
-**Art. 40j.**
+Domniemywa się, że wyrób spełnia zasadnicze wymagania, jeżeli jest zgodny z normami zharmonizowanymi.
 
-1. W przypadku stwierdzenia, że wyrób nie spełnia zasadniczych lub szczegółowych wymagań, opłaty związane z badaniami ponosi osoba, która wprowadziła wyrób do obrotu lub oddała go do użytku.
+### 2.
 
-2. Opłaty, o których mowa w ust. 1, organ wyspecjalizowany ustala na podstawie uzasadnionych kosztów badań, z uwzględnieniem rodzaju badanego wyrobu oraz stopnia skomplikowania i zakresu przeprowadzonych badań.
+W przypadku gdy producent lub jego upoważniony przedstawiciel nie wykaże zgodności wyrobu z normami zharmonizowanymi, jest obowiązany wykazać zgodność wyrobu z zasadniczymi wymaganiami na podstawie innych dowodów.
 
-3. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+### 3.
 
-4. W przypadku stwierdzenia, że wyrób spełnia zasadnicze lub szczegółowe wymagania, opłaty związane z badaniami ponosi Skarb Państwa.
+Prezes Polskiego Komitetu Normalizacyjnego ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” numery i tytuły norm zharmonizowanych wraz z tytułami aktów prawnych wdrażających dyrektywy nowego podejścia i miejscem ich publikacji.
 
-5. Do opłat, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+### Art. 14.
 
-**Art. 40k.**
+Notyfikowane jednostki certyfikujące, notyfikowane jednostki kontrolujące oraz notyfikowane laboratoria, o których mowa w art. 21 ust. 1, dokonują oceny zgodności z uwzględnieniem przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
 
-1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który ją przeprowadził, stwierdzi, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, może, w drodze decyzji, zakazać udostępniania wyrobu na okres nie dłuższy niż 2 miesiące.
+### Rozdział 3 Akredytacja, autoryzacja oraz notyfikacja
 
-2. W przypadku stwierdzenia niezgodności z wymaganiami, niepowodujących poważnego zagrożenia, organ wyspecjalizowany może zwrócić się do właściwego producenta, jego upoważnionego przedstawiciela, importera lub dystrybutora o usunięcie niezgodności lub wycofanie wyrobu z obrotu lub z użytku oraz przedstawienie dowodów podjętych działań w terminie określonym przez organ wyspecjalizowany.
+### Art. 15.
 
-3. W przypadku gdy działania, o których mowa w ust. 2, nie zostaną podjęte, protokół kontroli wraz z aktami kontroli przekazuje się organowi wyspecjalizowanemu właściwemu do wszczęcia postępowania, o którym mowa w art. 41.
+### 1.
 
-4. W przypadku wszczęcia postępowania, o którym mowa w art. 41, organ wyspecjalizowany prowadzący postępowanie może, w drodze decyzji, przedłużyć okres obowiązywania zakazu, o którym mowa w ust. 1, do czasu zakończenia postępowania.
+Akredytacja jest udzielana przez Polskie Centrum Akredytacji, zwane dalej „Centrum Akredytacji”, na wniosek zainteresowanej jednostki certyfikującej, jednostki kontrolującej oraz laboratorium, po dokonaniu ich oceny i potwierdzeniu, że spełniają wymagania i warunki określone w odpowiednich Polskich Normach, a w przypadku braku Polskich Norm - w odpowiednich dokumentach organizacji międzynarodowych.
 
-5. W przypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia wymagania, uchyla decyzję, o której mowa w ust. 1.
+### 2.
 
-**Art. 40l.** Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, w szczególności informację, czy wyrób spełnia zasadnicze, szczegółowe lub inne wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi, szczegółowymi lub innymi wymaganiami – informację, czy mogą być one usunięte.
+Wniosek, o którym mowa w ust. 1, zawiera co najmniej:
 
-**Art. 40m.** W przypadku gdy przepisy szczególne dopuszczają możliwość, przed wprowadzeniem do obrotu lub oddaniem do użytku, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, organy wyspecjalizowane mogą przeprowadzać kontrolę przestrzegania sposobu ich prezentowania, określonego przez te przepisy.
+### 1)
 
-**Art. 41.**
+oznaczenie jednostki certyfikującej lub kontrolującej albo laboratorium, ubiegających się o akredytację, ich siedziby i adresu;
 
-1. Postępowanie w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami, zwane dalej „postępowaniem”, wszczyna się z urzędu, w przypadku gdy ustalenia kontroli wskazują, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań.
+### 2)
 
-2. Postępowanie nie może być prowadzone dłużej niż 4 miesiące.
+numer w rejestrze właściwym dla jednostki certyfikującej lub kontrolującej albo laboratorium;
 
-**Art. 41a.**
+### 3)
 
-1. Stroną postępowania jest osoba, która wprowadziła do obrotu lub oddała do użytku wyrób niezgodny z zasadniczymi, szczegółowymi lub innymi wymaganiami, wobec której postępowanie zostało wszczęte. Stroną postępowania może być także dystrybutor.
+określenie zakresu akredytacji.
 
-2. Organizacja społeczna może występować z żądaniem dopuszczenia jej do udziału w postępowaniu tylko w przypadku, gdy osoba będąca stroną postępowania jest członkiem tej organizacji.
+### 3.
 
-3. Przepisy art. 40b ust. 2 i 3 oraz art. 40c i art. 40d stosuje się odpowiednio do stron postępowania.
+Centrum Akredytacji, w terminie nie dłuższym niż 6 miesięcy od dnia złożenia wniosku o udzielenie akredytacji, jest obowiązane do zawiadomienia wnioskującej jednostki certyfikującej, kontrolującej lub laboratorium o udzieleniu bądź odmowie udzielenia akredytacji.
 
-4. Dowodem z dokumentu w postępowaniu może być tylko oryginał dokumentu lub jego kopia poświadczona przez organ administracji publicznej, notariusza, adwokata, radcę prawnego, rzecznika patentowego, doradcę podatkowego, stronę postępowania lub osobę przez nią upoważnioną.
+### 4.
 
-**Art. 41b.**
+Odmowa udzielenia akredytacji następuje po stwierdzeniu, że jednostka certyfikująca lub kontrolująca albo laboratorium nie spełnia wymagań, o których mowa w ust. 1.
 
-1. Organ prowadzący postępowanie może, w drodze postanowienia, wyznaczyć stronie postępowania termin na usunięcie niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami albo wycofanie wyrobu z obrotu lub z użytku oraz powiadomienie konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach, określając termin i sposób powiadomienia.
+### Art. 16.
 
-2. Organ prowadzący postępowanie może przeprowadzić albo zlecić organowi, o którym mowa w art. 38 ust. 2, przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych, szczegółowych lub innych wymagań zostało faktycznie usunięte albo wyrób został wycofany z obrotu lub z użytku. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.
+### 1.
 
-**Art. 41c.**
+Dokumentem potwierdzającym udzielenie akredytacji jest certyfikat akredytacji.
 
-1. Do terminu określonego w art. 41 ust. 2 nie wlicza się okresów, o których mowa w art. 41b.
+### 2.
 
-2. Organ prowadzący postępowanie wydaje decyzję o umorzeniu postępowania, jeżeli:
+Certyfikat, o którym mowa w ust. 1, zawiera co najmniej:
 
-- **1)** stwierdzi, że wyrób spełnia zasadnicze, szczegółowe lub inne wymagania;
-- **2)** niezgodność wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami została usunięta albo wyrób został wycofany z obrotu lub z użytku;
-- **3)** postępowanie z innych przyczyn stało się bezprzedmiotowe.
+### 1)
 
-3. Jeżeli w wyniku kontroli stwierdzono, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, a strona postępowania nie podjęła działań, o których mowa w art. 41b ust. 1, organ prowadzący postępowanie może, w drodze decyzji:
+oznaczenie jednostki udzielającej akredytacji;
 
-- **1)** nakazać wycofanie wyrobu z obrotu lub z użytku;
-- **2)** zakazać udostępniania wyrobu;
-- **3)** ograniczyć udostępnianie wyrobu;
-- **4)** nakazać stronie postępowania powiadomienie konsumentów lub użytkowników wyrobu o stwierdzonych niezgodnościach z zasadniczymi, szczegółowymi lub innymi wymaganiami, określając termin i sposób powiadomienia.
+### 2)
 
-4. W decyzji, o której mowa w ust. 3 pkt 1, organ prowadzący postępowanie może także nakazać odkupienie wyrobu na żądanie osób, które faktycznie nim władają. Przepisy o rękojmi za wady stosuje się odpowiednio.
+oznaczenie jednostki certyfikującej lub kontrolującej albo laboratorium, jej siedziby i adresu;
 
-5. W przypadku stwierdzenia, że wyrób stwarza poważne zagrożenie, organ prowadzący postępowanie może, w decyzji, o której mowa w ust. 3 pkt 1, nakazać zniszczenie wyrobu na koszt strony postępowania, jeżeli zagrożenia nie można wyeliminować w inny sposób.
+### 3)
 
-6. Środki, o których mowa w ust. 3–5, stosuje się w zależności od rodzaju stwierdzonej niezgodności wyrobu z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz stopnia zagrożenia powodowanego przez wyrób, mając na celu w szczególności odwrócenie grożącego niebezpieczeństwa lub usunięcie już istniejącego zagrożenia dla życia i zdrowia konsumentów lub użytkowników wyrobu, a także zagrożenia dla mienia lub środowiska.
+numer i oznaczenie certyfikatu akredytacji;
 
-7. Jeżeli decyzja, o której mowa w ust. 3, dotyczy dystrybutora, środki, o których mowa w ust. 3–5, są stosowane wyłącznie wobec wyrobów przez niego dostarczonych lub udostępnionych.
+### 4)
 
-8. Środki, o których mowa w ust. 3–5, mogą zostać wprowadzone na czas określony lub nieokreślony.
+wskazanie Polskiej Normy lub dokumentów, o których mowa w art. 15 ust. 1;
 
-9. Jeżeli wymaga tego interes konsumentów lub użytkowników wyrobu, organ prowadzący postępowanie nadaje decyzji, o której mowa w ust. 3, rygor natychmiastowej wykonalności.
+### 5)
 
-10. W celu stwierdzenia, czy decyzja, o której mowa w ust. 3, została wykonana, organ prowadzący postępowanie może przeprowadzić kontrolę lub zlecić jej przeprowadzenie organowi, o którym mowa w art. 38 ust. 2. Przepisy art. 40 ust. 2 i 3 oraz art. 40a–40j stosuje się odpowiednio.
+zakres udzielonej akredytacji oraz okres jej ważności;
 
-**Art. 42.** (uchylony)
+### 6)
 
-**Art. 43.** (utracił moc)
+datę wydania i podpis Dyrektora Centrum Akredytacji.
 
-**Art. 43a.**
+### 3.
 
-1. Zasady postępowania organów celnych w przypadku stwierdzenia podczas kontroli celnej wyrobów, które mają być dopuszczone do obrotu, istnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych, szczegółowych lub innych wymagań, określają przepisy odrębne.
+W przypadku naruszenia warunków akredytacji może zostać ograniczony zakres akredytacji, zawieszenie akredytacji lub nastąpić jej cofnięcie.
 
-2. Opinię w sprawie spełniania przez wyrób zasadniczych, szczegółowych lub innych wymagań na wniosek organów celnych wydają organy wyspecjalizowane właściwe ze względu na lokalizację produktu oraz przedmiot wniosku.
+### 4.
 
-3. W razie stwierdzenia w opinii, o której mowa w ust. 2, że wyrób stwarza poważne zagrożenie, organ wyspecjalizowany, który wydał opinię, a w przypadku opinii wydanych przez organ wyspecjalizowany, o którym mowa w art. 38 ust. 2 pkt 2, okręgowy inspektor pracy, może wszcząć postępowanie w sprawie zniszczenia wyrobu w przypadkach określonych w art. 29 ust. 4 rozporządzenia (WE) nr 765/2008.
+Ograniczenie zakresu akredytacji następuje, jeżeli akredytowana jednostka certyfikująca lub kontrolująca albo akredytowane laboratorium nie wypełnia warunków określonych w certyfikacie akredytacji.
 
-4. Stroną postępowania w sprawie zniszczenia wyrobu jest importer.
+### 5.
 
-5. (uchylony)
+Zawieszenie akredytacji następuje, jeżeli akredytowana jednostka certyfikująca lub kontrolująca albo akredytowane laboratorium nie spełnia wszystkich warunków określonych w certyfikacie akredytacji albo nie wywiązuje się z zobowiązań wynikających z akredytacji.
 
-6. (uchylony)
+### 6.
 
-7. Koszty przechowywania wyrobu w okresie trwania postępowania w sprawie zniszczenia wyrobu i koszty jego zniszczenia ponosi importer.
+Cofnięcie akredytacji następuje, jeżeli akredytowana jednostka certyfikująca lub kontrolująca albo akredytowane laboratorium narusza wymagania określone w certyfikacie akredytacji.
 
-8. O działaniach podjętych w odniesieniu do zatrzymanych wyrobów organy celne informują Prezesa UOKiK.
+### 7.
 
-9. (uchylony) 9a. Szczegółowe zasady współpracy między organami celnymi a organami wyspecjalizowanymi mogą zostać określone w drodze porozumienia.
+Zawieszenie, cofnięcie lub ograniczenie zakresu akredytacji może nastąpić również na wniosek akredytowanej jednostki certyfikującej lub kontrolującej albo akredytowanego laboratorium.
 
-**Art. 43b.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania w sprawie wprowadzonych do obrotu lub oddanych do użytku wyrobów niezgodnych z zasadniczymi, szczegółowymi lub innymi wymaganiami oraz do postępowania, o którym mowa w art. 43a ust. 3 i 4, stosuje się przepisy Kodeksu postępowania administracyjnego.
+### 8.
 
-**Art. 44.**
+Centrum Akredytacji jest obowiązane informować ministrów i kierowników urzędów centralnych właściwych ze względu na przedmiot oceny zgodności o ograniczeniu, zawieszeniu lub cofnięciu akredytacji.
 
-1. Prezes UOKiK, jako organ monitorujący funkcjonowanie systemu kontroli wyrobów, niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa w:
+### Art. 17.
 
-- **1)** art. 41c ust. 3 pkt 1–3 i ust. 5,
-- **2)** art. 30 ust. 1 pkt 2 i 3 i ust. 2, art. 31 ust. 1 pkt 2 i 3 i ust. 2 oraz art. 31a ust. 3 ustawy z dnia 16 kwietnia 2004 r. o wyrobach budowlanych – jeżeli dotyczą one wyrobów, które zostały lub mogą zostać udostępnione na terytorium państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+### 1.
 
-2. (uchylony)
+W przypadku odmowy udzielenia, cofnięcia, zawieszenia lub ograniczenia zakresu akredytacji jednostce certyfikującej lub kontrolującej oraz laboratorium przysługuje odwołanie.
 
-#### Rozdział 7 Odpowiedzialność karna
+### 2.
 
-**Art. 45.** Kto wprowadza do obrotu lub oddaje do użytku wyrób niezgodny z zasadniczymi wymaganiami, podlega grzywnie.
+Odwołanie wnosi się do Komitetu Odwoławczego, o którym mowa w art. 36 ust. 1, w terminie 14 dni od dnia otrzymania zawiadomienia o odmowie udzielenia, zawieszeniu, cofnięciu bądź ograniczeniu zakresu akredytacji.
 
-**Art. 46.** Kto umieszcza oznakowanie zgodności na wyrobie, który nie spełnia zasadniczych lub szczegółowych wymagań albo dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, podlega grzywnie.
+### 3.
 
-**Art. 47.** Kto umieszcza na wyrobie znak podobny do oznakowania zgodności, mogący wprowadzić w błąd użytkownika, konsumenta lub dystrybutora tego wyrobu, podlega grzywnie.
+Odwołanie rozpatruje zespół trzech ekspertów, wyznaczonych spośród stałych członków Komitetu Odwoławczego przez Przewodniczącego Komitetu Odwoławczego, w terminie 60 dni od dnia doręczenia odwołania.
 
-**Art. 47a.** Kto wprowadza do obrotu lub oddaje do użytku wyrób podlegający oznakowaniu zgodności a nieposiadający takiego oznakowania, podlega grzywnie.
+### 4.
 
-**Art. 47b.** Kto umieszcza oznakowanie zgodności na wyrobie, który nie podlega temu oznakowaniu lub wprowadza do obrotu taki wyrób, podlega grzywnie.
+W przypadku gdy rozpatrzenie odwołania wymaga szczególnej wiedzy lub w rozpatrywanej dziedzinie nie ma ekspertów wśród stałych członków Komitetu Odwoławczego, Przewodniczący Komitetu Odwoławczego może powołać dodatkowego eksperta w skład zespołu rozpatrującego odwołanie.
 
-**Art. 47c.** Kto będąc obowiązanym do przechowywania próbki kontrolnej, niszczy ją, usuwa spod zabezpieczenia lub uniemożliwia zbadanie tej próbki, podlega grzywnie.
+### 5.
 
-**Art. 48.** (uchylony)
+Nadanie pisma z odwołaniem w polskim urzędzie pocztowym lub w polskim urzędzie konsularnym jest równoznaczne z wniesieniem go do Komitetu Odwoławczego.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+### Art. 18.
 
-#### Rozdział 9 Przepisy przejściowe i końcowe
+### 1.
 
-**Art. 58.** Ilekroć w obowiązujących przepisach jest mowa o Polskim Centrum Akredytacji utworzonym na podstawie przepisów ustawy, o której mowa w art. 67 ust. 1, należy przez to rozumieć Polskie Centrum Akredytacji określone w ustawie.
+Po rozpatrzeniu odwołania, o którym mowa w art. 17 ust. 1, Komitet Odwoławczy:
 
-**Art. 59.** Pracownicy Polskiego Centrum Akredytacji utworzonego na podstawie ustawy, o której mowa w art. 67 ust. 1, stają się w dniu wejścia w życie ustawy pracownikami Polskiego Centrum Akredytacji.
+### 1)
 
-**Art. 60.** (pominięty)
+stwierdza zasadność odwołania i przekazuje sprawę Centrum Akredytacji do ponownego rozpoznania albo
 
-**Art. 61.** (pominięty)
+### 2)
 
-**Art. 62.** (uchylony)
+oddala odwołanie.
 
-**Art. 63.** W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 2.
 
-**Art. 64.** (pominięty)
+W przypadku, o którym mowa w ust. 1 pkt 2, jednostce certyfikującej, jednostce kontrolującej oraz laboratorium przysługuje odwołanie do sądu powszechnego.
 
-**Art. 65.**
+### Art. 19.
 
-1. Przepisy art. 6–8, art. 14, art. 21–24 i art. 44 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , chyba że wcześniej wejdzie w życie Protokół do Układu Europejskiego między Rzecząpospolitą Polską a Wspólnotami Europejskimi w sprawie Oceny Zgodności i Dopuszczania Wyrobów Przemysłowych, zwany dalej „Protokołem”.
+### 1.
 
-2. Przepis art. 12 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , a dla wyrobów objętych zakresem Protokołu – od dnia jego wejścia w życie.
+Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria w celu uzyskania notyfikacji mogą ubiegać się o autoryzację.
 
-3. Przepis art. 43 stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej .
+### 2.
 
-**Art. 66.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku (Dz. U. poz. 343, z późn. zm. ).
+Jednostki certyfikujące, jednostki kontrolujące oraz laboratoria, o których mowa w ust. 1, powinny spełniać następujące kryteria:
 
-**Art. 67.**
+### 1)
 
-1. Traci moc ustawa z dnia 28 kwietnia 2000 r. o systemie oceny zgodności, akredytacji oraz zmianie niektórych ustaw (Dz. U. poz. 489, z 2001 r. poz. 636 oraz z 2002 r. poz. 676 i 1360).
+posiadać personel o odpowiedniej wiedzy technicznej w zakresie wyrobów i danej procedury oceny zgodności;
 
-2. Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc ustawa z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji (Dz. U. poz. 250, z późn. zm. ).
+### 2)
 
-**Art. 68.** Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 52, który wchodzi w życie z dniem ogłoszenia .
+być niezależne i bezstronne w stosunku do podmiotów bezpośrednio lub pośrednio związanych z procesem produkcji wyrobu;
 
+### 3)
+
+dysponować odpowiednim sprzętem;
+
+### 4)
+
+przestrzegać przepisów o ochronie informacji niejawnych i innych informacji prawnie chronionych.
+
+### 3.
+
+Autoryzacja jest udzielana na wniosek jednostki certyfikującej, jednostki kontrolującej albo laboratorium, spełniających kryteria określone w ust. 2, pod warunkiem:
+
+### 1)
+
+uzyskania certyfikatu akredytacji;
+
+### 2)
+
+ubezpieczenia się od odpowiedzialności cywilnej w wysokości odpowiedniej dla ryzyka związanego z prowadzoną działalnością;
+
+### 3)
+
+spełnienia dodatkowych kryteriów określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 albo wymagań określonych w odrębnych ustawach.
+
+### 4.
+
+Wniosek o udzielenie autoryzacji zawiera:
+
+### 1)
+
+oznaczenie jednostki certyfikującej lub kontrolującej albo laboratorium ubiegających się o autoryzację, ich siedziby i adresu;
+
+### 2)
+
+numer w rejestrze właściwym dla jednostki certyfikującej lub kontrolującej albo laboratorium;
+
+### 3)
+
+określenie zakresu autoryzacji.
+
+### 5.
+
+Do wniosku o udzielenie autoryzacji dołącza się dokumenty potwierdzające spełnienie kryteriów, o których mowa w ust. 2 i 3.
+
+### 6.
+
+Warunki, o których mowa w ust. 3 pkt 1 i 2, nie dotyczą jednostek certyfikujących, jednostek kontrolujących i laboratoriów jednostek administracji rządowej wykonujących w imieniu Rzeczypospolitej Polskiej czynności związane z prawną kontrolą metrologiczną przyrządów pomiarowych na podstawie ustawy z dnia 11 maja 2001 r. - Prawo o miarach ([Dz. U. z 2001 r. Nr 63, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/2001/636/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 155, poz. 1286](https://api.sejm.gov.pl/eli/acts/DU/2002/1286/text.html) i [Nr 166, poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.html)).
+
+### 7.
+
+Warunek, o którym mowa w ust. 3 pkt 2, nie dotyczy akredytowanych jednostek certyfikujących lub kontrolujących oraz akredytowanych laboratoriów wykonujących czynności w zakresie wyrobów wykorzystywanych na cele obronności lub bezpieczeństwa państwa oraz służących do ochrony informacji niejawnych.
+
+### Art. 20.
+
+### 1.
+
+Autoryzacji dokonuje minister albo kierownik urzędu centralnego właściwy ze względu na przedmiot oceny zgodności, zwany dalej „ministrem albo kierownikiem urzędu centralnego”, w drodze decyzji administracyjnej.
+
+### 2.
+
+Minister albo kierownik urzędu centralnego może, w drodze decyzji administracyjnej, ograniczyć zakres autoryzacji lub cofnąć autoryzację w przypadku stwierdzenia naruszenia warunków autoryzacji, o których mowa w art. 19 ust. 3, w zależności od charakteru i znaczenia naruszenia; minister albo kierownik urzędu centralnego niezwłocznie informuje ministra właściwego do spraw gospodarki o podjętej decyzji.
+
+### 3.
+
+Minister albo kierownik urzędu centralnego jest obowiązany informować organ nadzoru, o którym mowa w art. 38 ust. 1, o ograniczeniu lub cofnięciu autoryzacji.
+
+### Art. 21.
+
+### 1.
+
+Ministrowie i kierownicy urzędów centralnych zgłaszają ministrowi właściwemu do spraw gospodarki autoryzowane jednostki certyfikujące i jednostki kontrolujące oraz autoryzowane laboratoria w celu ich notyfikowania Komisji Europejskiej i państwom członkowskim Unii Europejskiej.
+
+### 2.
+
+Zgłoszeniu, o którym mowa w ust. 1, podlegają również akredytowane jednostki certyfikujące i kontrolujące oraz akredytowane laboratoria, o których mowa w art. 19 ust. 7.
+
+### 3.
+
+W przypadku gdy notyfikowana jednostka certyfikująca i jednostka kontrolująca oraz notyfikowane laboratorium nie spełniają wymagań określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 albo w odrębnych ustawach i nie wywiązują się ze swoich obowiązków, a także została im cofnięta autoryzacja lub zakres autoryzacji został ograniczony, minister właściwy do spraw gospodarki cofa notyfikację lub ogranicza jej zakres; minister właściwy do spraw gospodarki o podjętej decyzji informuje Komisję Europejską i państwa członkowskie Unii Europejskiej.
+
+### 4.
+
+Minister właściwy do spraw gospodarki ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” informacje o notyfikowanych jednostkach certyfikujących i jednostkach kontrolujących oraz notyfikowanych laboratoriach, a także o zmianie zakresu notyfikacji i jej cofnięciu.
+
+### Art. 22.
+
+Minister oraz kierownik urzędu centralnego sprawują nadzór nad notyfikowanymi jednostkami certyfikującymi i jednostkami kontrolującymi oraz notyfikowanymi laboratoriami w zakresie określonym w art. 19 ust. 3.
+
+### Art. 23.
+
+Notyfikowane jednostki certyfikujące są obowiązane informować o zawieszonych lub cofniętych certyfikatach zgodności, wraz z uzasadnieniem, organ nadzoru, o którym mowa w art. 38 ust. 1, a także inne notyfikowane jednostki; organ nadzoru informuje Komisję Europejską o zawieszonych oraz cofniętych certyfikatach wraz z uzasadnieniem.
+
+### Art. 24.
+
+### 1.
+
+Minister oraz kierownik urzędu centralnego są uprawnieni do kontroli notyfikowanych jednostek certyfikujących i jednostek kontrolujących oraz notyfikowanych laboratoriów.
+
+### 2.
+
+Czynności kontrolne przeprowadza się na podstawie upoważnienia wydanego przez ministra albo kierownika urzędu centralnego, które zawiera:
+
+### 1)
+
+oznaczenie osoby dokonującej kontroli;
+
+### 2)
+
+nazwę kontrolowanej notyfikowanej jednostki certyfikującej lub kontrolującej albo notyfikowanego laboratorium;
+
+### 3)
+
+zakres kontroli.
+
+### 3.
+
+Osoby upoważnione przez ministra oraz kierownika urzędu centralnego do dokonania kontroli są uprawnione do:
+
+### 1)
+
+wstępu na teren nieruchomości, obiektu i lokalu notyfikowanej jednostki certyfikującej i kontrolującej oraz notyfikowanego laboratorium w dniach i godzinach ich pracy;
+
+### 2)
+
+żądania ustnych i pisemnych wyjaśnień oraz okazania dokumentów związanych z działalnością objętą notyfikacją;
+
+### 3)
+
+żądania udzielenia, w wyznaczonym terminie, pisemnych i ustnych wyjaśnień w sprawach objętych zakresem kontroli.
+
+### 4.
+
+Czynności kontrolnych dokonuje się w obecności kontrolowanego lub osoby przez niego upoważnionej.
+
+### 5.
+
+Z przeprowadzonej kontroli sporządza się protokół i przedstawia organom kontrolowanej notyfikowanej jednostki certyfikującej i jednostki kontrolującej oraz notyfikowanemu laboratorium.
+
+### 6.
+
+Minister oraz kierownik urzędu centralnego mogą upoważnić do dokonywania kontroli, o której mowa w ust. 1, inny organ wyspecjalizowany w przeprowadzaniu kontroli działalności objętej notyfikacją.
+
+### Rozdział 4 Centrum Akredytacji
+
+### Art. 25.
+
+### 1.
+
+Centrum Akredytacji jest krajową jednostką akredytującą.
+
+### 2.
+
+Centrum Akredytacji jest państwową osobą prawną.
+
+### 3.
+
+Nadzór nad Centrum Akredytacji sprawuje minister właściwy do spraw gospodarki.
+
+### Art. 26.
+
+### 1.
+
+Do zakresu działania Centrum Akredytacji należy w szczególności:
+
+### 1)
+
+akredytowanie jednostek certyfikujących, jednostek kontrolujących oraz laboratoriów;
+
+### 2)
+
+sprawowanie nadzoru nad akredytowanymi jednostkami oraz akredytowanymi laboratoriami w zakresie przestrzegania przez nie warunków akredytacji;
+
+### 3)
+
+prowadzenie wykazu akredytowanych jednostek oraz akredytowanych laboratoriów;
+
+### 4)
+
+organizowanie szkoleń i prowadzenie działalności wydawniczej w zakresie akredytacji.
+
+### 2.
+
+Centrum Akredytacji może zawierać z zagranicznymi jednostkami akredytującymi porozumienia o wzajemnym uznawaniu kompetencji akredytowanych jednostek oraz akredytowanych laboratoriów.
+
+### Art. 27.
+
+### 1.
+
+Centrum Akredytacji kieruje Dyrektor Polskiego Centrum Akredytacji, zwany dalej „Dyrektorem Centrum”.
+
+### 2.
+
+Dyrektora Centrum powołuje minister właściwy do spraw gospodarki, w drodze konkursu, na okres 5 lat, spośród kandydatów posiadających:
+
+### 1)
+
+wykształcenie wyższe;
+
+### 2)
+
+co najmniej pięcioletni staż pracy na stanowisku kierowniczym;
+
+### 3)
+
+doświadczenie zawodowe w wykonywaniu pracy związanej z dokonywaniem oceny zgodności.
+
+### 3.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób i tryb przeprowadzania konkursu, o którym mowa w ust. 2, uwzględniając konieczność zapewnienia powszechnej dostępności ogłoszenia o konkursie.
+
+### 4.
+
+Minister właściwy do spraw gospodarki w rozporządzeniu, o którym mowa w ust. 3, określi w szczególności skład komisji konkursowej, sposób jej powoływania i działania.
+
+### 5.
+
+Minister właściwy do spraw gospodarki odwołuje Dyrektora Centrum przed upływem okresu, na który został powołany, w przypadku:
+
+### 1)
+
+choroby trwale uniemożliwiającej wykonywanie zadań;
+
+### 2)
+
+naruszenia przez niego obowiązków;
+
+### 3)
+
+skazania prawomocnym wyrokiem sądu za przestępstwo umyślne;
+
+### 4)
+
+rezygnacji ze stanowiska.
+
+### 6.
+
+Do zadań Dyrektora Centrum należy:
+
+### 1)
+
+reprezentowanie Centrum Akredytacji;
+
+### 2)
+
+podejmowanie decyzji w sprawach dotyczących działalności Centrum Akredytacji;
+
+### 3)
+
+współpraca z Radą do Spraw Akredytacji, w tym zasięganie opinii Rady w sprawach, o których mowa w art. 35 ust. 2;
+
+### 4)
+
+zatwierdzanie rocznych planów finansowych Centrum Akredytacji;
+
+### 5)
+
+sporządzanie rocznych sprawozdań z działalności Centrum Akredytacji i przedstawianie ich ministrowi właściwemu do spraw gospodarki.
+
+### Art. 28.
+
+Minister właściwy do spraw gospodarki, w drodze zarządzenia, nadaje statut Centrum Akredytacji, określając w szczególności strukturę organizacyjną Centrum Akredytacji.
+
+### Art. 29.
+
+### 1.
+
+Centrum Akredytacji prowadzi samodzielną gospodarkę finansową.
+
+### 2.
+
+Przychodami Centrum Akredytacji są:
+
+### 1)
+
+przychody z prowadzonej działalności, o której mowa w art. 26 ust. 1 pkt 1, 2 i 4;
+
+### 2)
+
+inne przychody.
+
+### 3.
+
+Koszty działalności Centrum Akredytacji, w tym wynagrodzenia pracowników, są pokrywane z przychodów, o których mowa w ust. 2.
+
+### 4.
+
+Minister właściwy do spraw gospodarki ustala, w drodze rozporządzenia, wynagrodzenie Dyrektora Centrum, biorąc pod uwagę wykonywane przez niego zadania.
+
+### 5.
+
+Dyrektor Centrum określi zasady wynagradzania pracowników Centrum Akredytacji.
+
+### Art. 30.
+
+### 1.
+
+Podstawą gospodarki finansowej Centrum Akredytacji jest roczny plan finansowy, zatwierdzany przez Dyrektora Centrum.
+
+### 2.
+
+Zasady prowadzenia rachunkowości przez Centrum Akredytacji określają odrębne przepisy.
+
+### Art. 31.
+
+Centrum Akredytacji finansuje inwestycje ze środków własnych.
+
+### Art. 32.
+
+Sprawozdania finansowe zatwierdza Dyrektor Centrum.
+
+### Art. 33.
+
+### 1.
+
+Centrum Akredytacji tworzy następujące fundusze:
+
+### 1)
+
+fundusz podstawowy;
+
+### 2)
+
+fundusz z aktualizacji wyceny;
+
+### 3)
+
+fundusz płac;
+
+### 4)
+
+zakładowy fundusz świadczeń socjalnych;
+
+### 5)
+
+zakładowy fundusz nagród.
+
+### 2.
+
+Zasady tworzenia funduszy, o których mowa w ust. 1 pkt 2 i 4, regulują odrębne przepisy.
+
+### 3.
+
+Zakładowy fundusz nagród stanowi 8,5% funduszu płac.
+
+### 4.
+
+Fundusz podstawowy zwiększa się o:
+
+### 1)
+
+część zatwierdzonego zysku bilansowego za poprzedni rok obrotowy;
+
+### 2)
+
+wartość składników majątkowych przejętych nieodpłatnie na podstawie decyzji i orzeczeń właściwych organów lub na podstawie odrębnych przepisów, w tym wartość majątku przekazanego Centrum Akredytacji w momencie jego powołania jako wyposażenie i przeznaczonego do wykonywania zadań statutowych.
+
+### 5.
+
+Fundusz podstawowy zmniejsza się o:
+
+### 1)
+
+wartość składników majątkowych przekazanych nieodpłatnie na podstawie decyzji i orzeczeń właściwych organów lub na podstawie odrębnych przepisów;
+
+### 2)
+
+stratę bilansową.
+
+### Art. 34.
+
+Zatwierdzony zysk Centrum Akredytacji przeznacza na:
+
+### 1)
+
+fundusz podstawowy - 70%;
+
+### 2)
+
+wpłatę do budżetu państwa - 30%.
+
+### Art. 35.
+
+### 1.
+
+Przy Centrum Akredytacji działa Rada do Spraw Akredytacji, zwana dalej „Radą”, jako organ opiniodawczo-doradczy Dyrektora Centrum w sprawach należących do zakresu działania Centrum Akredytacji.
+
+### 2.
+
+Do zadań Rady należy opiniowanie:
+
+### 1)
+
+stanu i kierunków rozwoju akredytacji;
+
+### 2)
+
+działalności merytorycznej Centrum Akredytacji;
+
+### 3)
+
+rocznych planów i sprawozdań z działalności Centrum Akredytacji.
+
+### 3.
+
+Kadencja Rady trwa 6 lat.
+
+### 4.
+
+Rada liczy nie więcej niż 20 osób. W skład Rady wchodzą proporcjonalnie, w liczbie zapewniającej brak dominacji którejkolwiek ze stron, osoby reprezentujące organy administracji rządowej, krajową jednostkę normalizacyjną oraz ogólnopolskie organizacje: konsumenckie, pracodawców, gospodarcze i naukowo-techniczne.
+
+### 5.
+
+Minister właściwy do spraw gospodarki, na wniosek organów, jednostki i organizacji, o których mowa w ust. 4, powołuje oraz odwołuje członków Rady.
+
+### 6.
+
+Przewodniczącego i jego dwóch zastępców wybiera Rada spośród swojego grona.
+
+### 7.
+
+Organizację i tryb pracy Rady określa regulamin uchwalony przez Radę.
+
+### 8.
+
+Obsługę organizacyjną Rady zapewnia Centrum Akredytacji.
+
+### Art. 36.
+
+### 1.
+
+Przy Centrum Akredytacji działa Komitet Odwoławczy, liczący nie więcej niż 10 ekspertów posiadających odpowiednią wiedzę i doświadczenie w zakresie akredytacji.
+
+### 2.
+
+Do zadań Komitetu Odwoławczego należy rozpatrywanie odwołań w sprawach odmowy udzielenia, zawieszenia, cofnięcia lub ograniczenia zakresu akredytacji.
+
+### 3.
+
+Minister właściwy do spraw gospodarki, na wniosek ministrów i kierowników urzędów centralnych właściwych ze względu na przedmiot akredytacji, w drodze zarządzenia, powołuje i odwołuje członków Komitetu Odwoławczego.
+
+### 4.
+
+Minister właściwy do spraw gospodarki określi, w drodze zarządzenia, tryb działania Komitetu Odwoławczego.
+
+### 5.
+
+Obsługę organizacyjną i finansową Komitetu Odwoławczego zapewnia Centrum Akredytacji.
+
+### Rozdział 5 Opłaty
+
+### Art. 37.
+
+### 1.
+
+Za czynności związane z:
+
+### 1)
+
+obowiązkową oceną zgodności wyrobów oraz akredytacją;
+
+### 2)
+
+badaniami na potrzeby oceny zgodności wyrobów;
+
+### 3)
+
+certyfikacją;
+
+### 4)
+
+sprawdzaniem zgodności wyrobów z wymaganiami, dokonywane przez notyfikowane jednostki kontrolujące;
+
+### 5)
+
+akredytacją laboratoriów
+
+- pobiera się opłaty.
+
+### 2.
+
+Opłaty, o których mowa w ust. 1, uiszcza wnioskodawca.
+
+### 3.
+
+Minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw gospodarki, określi, w drodze rozporządzenia, sposób ustalania opłat za czynności, o których mowa w ust. 1, z uwzględnieniem okoliczności, że stawki tych opłat powinny zapewnić pokrycie kosztów ich przeprowadzenia.
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych, na wniosek ministra właściwego do spraw gospodarki, może określić, w drodze rozporządzenia, maksymalne wysokości opłat, o których mowa w ust. 1, z uwzględnieniem uzasadnionych kosztów.
+
+### Rozdział 6 Nadzór nad wyrobami wprowadzonymi do obrotu
+
+### Art. 38.
+
+### 1.
+
+Organem sprawującym nadzór nad wyrobami wprowadzonymi do obrotu jest Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „organem nadzoru”.
+
+### 2.
+
+Organ nadzoru wykonuje swoje zadania przy pomocy organów wyspecjalizowanych, do których właściwości należy kontrola wyrobów wprowadzonych do obrotu.
+
+### 3.
+
+Nadzór nad wyrobami wprowadzonymi do obrotu obejmuje wykonywanie czynności i stosowanie środków określonych w ustawie oraz w odrębnych ustawach dotyczących zakresu działania organu nadzoru, a także organów wyspecjalizowanych.
+
+### 4.
+
+Organami wyspecjalizowanymi są:
+
+### 1)
+
+Inspekcja Handlowa;
+
+### 2)
+
+Państwowa Inspekcja Pracy;
+
+### 3)
+
+Prezes Wyższego Urzędu Górniczego;
+
+### 4)
+
+Prezes Urzędu Regulacji Telekomunikacji i Poczty;
+
+### 5)
+
+Główny Inspektor Nadzoru Budowlanego;
+
+### 6)
+
+inne organy określone w odrębnych ustawach, jeżeli są wymienione w nich jako organy wyspecjalizowane.
+
+### Art. 39.
+
+Do zadań organu nadzoru należy:
+
+### 1)
+
+współpraca z organami wyspecjalizowanym;
+
+### 2)
+
+uzgadnianie planów kontroli przeprowadzanych przez organy wyspecjalizowane;
+
+### 3)
+
+wydawanie decyzji administracyjnych o wycofaniu z obrotu wyrobów niespełniających zasadniczych wymagań, w przypadku gdy wycofanie tych wyrobów nie jest możliwe w drodze decyzji organów wyspecjalizowanych;
+
+### 4)
+
+przekazywanie organom wyspecjalizowanym informacji o konieczności:
+
+### a)
+
+przeprowadzania kontroli doraźnych, w przypadku powzięcia wiadomości o niespełnieniu przez wyroby wprowadzone do obrotu zasadniczych wymagań, a także niestosowaniu lub stosowaniu nieprawidłowo albo niezgodnie z wymaganiami określonymi w rozporządzeniach wydanych na podstawie art. 9 ust. 1 procedur oceny zgodności;
+
+### b)
+
+wykonywania innych czynności związanych z kontrolą wyrobów wprowadzonych do obrotu, a należących do zakresu zadań danego wyspecjalizowanego organu.
+
+### Art. 40.
+
+### 1.
+
+Organy wyspecjalizowane przeprowadzają kontrolę wprowadzonych do obrotu wyrobów w zakresie spełniania przez wyroby zasadniczych wymagań określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 lub w odrębnych ustawach.
+
+### 2.
+
+Do zadań organów wyspecjalizowanych należy:
+
+### 1)
+
+współpraca z organem nadzoru w realizacji zadań, o których mowa w art. 39;
+
+### 2)
+
+uzgadnianie z organem nadzoru planów kontroli wyrobów wprowadzonych do obrotu;
+
+### 3)
+
+zlecanie badań wybranych wyrobów akredytowanym laboratoriom, zgodnie z ustalonymi planami kontroli;
+
+### 4)
+
+przekazywanie organowi nadzoru kwartalnych i rocznych sprawozdań z przeprowadzanych kontroli;
+
+### 5)
+
+wydawanie decyzji administracyjnych o wycofaniu wyrobów z obrotu i niezwłoczne informowanie organu nadzoru o wydanych decyzjach.
+
+### 3.
+
+Organy wyspecjalizowane przeprowadzają kontrolę, o której mowa w ust. 1, na zasadach i w trybie określonych w przepisach dotyczących zakresu działania tych organów.
+
+### 4.
+
+Koszty badań, o których mowa w ust. 2 pkt 3, pokrywa Skarb Państwa.
+
+### Art. 41.
+
+### 1.
+
+Jeżeli w wyniku przeprowadzonej kontroli, o której mowa w art. 40 ust. 1, stwierdzono, że wprowadzony do obrotu wyrób nie spełnia zasadniczych wymagań określonych w rozporządzeniach wydanych na podstawie art. 9 ust. 1 lub w odrębnych ustawach, organ wyspecjalizowany może producentowi, jego upoważnionemu przedstawicielowi lub importerowi:
+
+### 1)
+
+nakazać usunięcie, w wyznaczonym terminie, niezgodności wyrobu z zasadniczymi wymaganiami;
+
+### 2)
+
+nakazać, w drodze decyzji, wycofanie z obrotu wyrobów niespełniających zasadniczych wymagań;
+
+### 3)
+
+zakazać, w drodze decyzji, wprowadzania do obrotu danej partii wyrobów, z której wyrób nie spełniał zasadniczych wymagań.
+
+### 2.
+
+W przypadku zaistnienia uzasadnionych okoliczności wskazujących, że wyrób nie spełnia zasadniczych wymagań, organ wyspecjalizowany poddaje wyrób badaniom lub zleca wykonanie badań notyfikowanemu laboratorium.
+
+### 3.
+
+Jeżeli przeprowadzona kontrola potwierdziła, że wyrób nie spełnia zasadniczych wymagań, organ wyspecjalizowany może nakazać, w drodze decyzji, wycofanie wyrobu z obrotu, a kosztami badań obciąża producenta, jego upoważnionego przedstawiciela lub importera.
+
+### 4.
+
+Od decyzji, o których mowa w ust. 1 i 3, służy skarga do właściwego sądu administracyjnego.
+
+### Art. 42.
+
+### 1.
+
+Organ nadzoru jest obowiązany gromadzić informacje o wyrobach niezgodnych z zasadniczymi wymaganiami, uzyskane od podmiotów krajowych i zagranicznych, oraz udostępniać je uprawnionym organom oraz podmiotom.
+
+### 2.
+
+Jeżeli wyrób niezgodny z zasadniczymi wymaganiami stwarza zagrożenie dla życia, zdrowia, mienia oraz środowiska, organ wyspecjalizowany przekazuje niezwłocznie właściwym urzędom celnym informacje o tych wyrobach.
+
+### Art. 43.
+
+### 1.
+
+Jeżeli organ celny podczas kontroli celnej wyrobów, które mają być objęte procedurą dopuszczenia do obrotu, stwierdzi, że wyrób jest niezgodny z zasadniczymi wymaganiami lub może stwarzać zagrożenie dla życia, zdrowia, mienia oraz środowiska, zatrzymuje wyrób i występuje do organów wyspecjalizowanych o wydanie stosownej opinii.
+
+### 2.
+
+Jeżeli organ wyspecjalizowany wyda opinię potwierdzającą, że wyrób jest niezgodny z zasadniczymi wymaganiami lub stwarza zagrożenie dla życia, zdrowia, mienia oraz środowiska, organ celny cofa wyrób za granicę.
+
+### 3.
+
+Koszty cofnięcia wyrobu za granicę ponosi producent.
+
+### Art. 44.
+
+Organ nadzoru, po uzyskaniu informacji od organów wyspecjalizowanych o wydanych decyzjach o wycofaniu wyrobu z obrotu, niezwłocznie informuje Komisję Europejską o tych decyzjach.
+
+### Rozdział 7 Odpowiedzialność karna
+
+### Art. 45.
+
+Kto wprowadza do obrotu wyroby niezgodne z zasadniczymi wymaganiami albo specyfikacjami technicznymi, podlega karze grzywny do 100 000 zł.
+
+### Art. 46.
+
+Kto umieszcza oznakowanie CE na wyrobie, który nie spełnia zasadniczych wymagań albo dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, podlega karze grzywny do 100 000 zł.
+
+### Art. 47.
+
+Kto umieszcza na wyrobie znak podobny do oznakowania CE, mogący wprowadzić w błąd nabywcę i użytkownika tego wyrobu, podlega karze grzywny do 100 000 zł.
+
+### Art. 48.
+
+Orzekanie w sprawach o czyny określone w art. 45-47 następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
+
+### Rozdział 8 Zmiany w przepisach obowiązujących
+
+### Art. 49.
+
+W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy ([Dz. U. z 2001 r. Nr 124, poz. 1362](https://api.sejm.gov.pl/eli/acts/DU/2001/1362/text.html), [Nr 128, poz. 1405](https://api.sejm.gov.pl/eli/acts/DU/2001/1405/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html)) w art. 8 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+nadzór i kontrola przestrzegania przez pracodawców obowiązku wyposażania stanowisk pracy w maszyny i inne urządzenia techniczne oraz dostarczania pracownikom środków ochrony indywidualnej, które spełniają wymagania dotyczące oceny zgodności określone w odrębnych przepisach,
+
+” .
+
+### Art. 50.
+
+W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ([Dz. U. z 1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 111, poz. 726](https://api.sejm.gov.pl/eli/acts/DU/1997/726/text.html) i [Nr 133, poz. 885](https://api.sejm.gov.pl/eli/acts/DU/1997/885/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 109, poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2000/1157/text.html) i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html), z [2001 r. Nr 110, poz. 1190](https://api.sejm.gov.pl/eli/acts/DU/2001/1190/text.html), [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 117, poz. 1007](https://api.sejm.gov.pl/eli/acts/DU/2002/1007/text.html) i [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 113:
+
+### a)
+
+w ust. 1 dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+powiadamia Prezesa Urzędu Ochrony Konkurencji i Konsumentów, jako organ nadzoru w rozumieniu odrębnych przepisów, w przypadku stwierdzenia, że wyrób stosowany w zakładzie górniczym, inny niż określony w przepisach wydanych na podstawie art. 111 ust. 2, nie spełnia wymagań dotyczących oceny zgodności, określonych w odrębnych przepisach,
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wniesienie odwołania od decyzji wydanej na podstawie ust. 1 pkt 1-3 nie wstrzymuje jej wykonania.
+
+” ;
+
+### 2)
+
+po art. 117 dodaje się art. 117a i 117b w brzmieniu:
+
+„
+
+### Art. 117a.
+
+Prezes Wyższego Urzędu Górniczego jest organem wyspecjalizowanym nadzoru nad wyrobami wprowadzonymi do obrotu w rozumieniu przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2002 r. Nr 166, poz. 1360), w zakresie wyrobów przeznaczonych do stosowania w zakładach górniczych.
+
+### Art. 117b.
+
+Pracownikom upoważnionym przez Prezesa Wyższego Urzędu Górniczego do wykonywania kontroli w ramach nadzoru nad wyrobami wprowadzonymi do obrotu przysługuje prawo wstępu do siedzib, obiektów i urządzeń przedsiębiorców produkujących, importujących lub wprowadzających do obrotu wyroby, a także do zakładów górniczych oraz siedzib, obiektów i urządzeń podmiotów wymienionych w art. 112, jak również prawo dostępu do niezbędnych dokumentów oraz żądania informacji i wyjaśnień. Pracownicy upoważnieni mogą żądać informacji również od jednostek notyfikowanych w zakresie wyników badań dotyczących kontrolowanych wyrobów.
+
+” .
+
+### Art. 51.
+
+W ustawie z dnia 22 stycznia 2000 r. o ogólnym bezpieczeństwie produktów ([Dz. U. z 2000 r. Nr 15, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/2000/179/text.html) oraz z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html)) po art. 15 dodaje się art. 15a w brzmieniu:
+
+„
+
+### Art. 15a.
+
+W przypadku braku laboratorium akredytowanego w zakresie badań, którym produkt powinien być poddany, organ nadzoru może wskazać producentowi laboratorium, które posiada akredytację na podobne badania oraz gwarantuje zastosowanie w pełni udokumentowanych i sprawdzonych w praktyce metod.
+
+” .
+
+### Art. 52.
+
+W ustawie z dnia 28 kwietnia 2000 r. o systemie oceny zgodności, akredytacji oraz zmianie niektórych ustaw ([Dz. U. z 2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html), z [2001 r. Nr 63, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/2001/636/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+skreśla się art. 53;
+
+### 2)
+
+w art. 54 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 47, który wchodzi w życie z dniem 1 stycznia 2003 r.
+
+” .
+
+### Art. 53.
+
+W ustawie z dnia 21 lipca 2000 r. - Prawo telekomunikacyjne ([Dz. U. z 2000 r. Nr 73, poz. 852](https://api.sejm.gov.pl/eli/acts/DU/2000/852/text.html), z [2001 r. Nr 122, poz. 1321](https://api.sejm.gov.pl/eli/acts/DU/2001/1321/text.html) i [Nr 154, poz. 1800 i 1802](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html) i [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 90:
+
+### a)
+
+w ust. 1 po wyrazach „zakres zastosowania” dodaje się wyrazy „, z zastrzeżeniem ust. 1a”,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Podmiot wprowadzający do obrotu urządzenie radiowe jest obowiązany zawiadomić Prezesa URTiP, co najmniej na 28 dni przed planowanym wprowadzeniem urządzenia do obrotu, o zamiarze wprowadzenia do obrotu takiego urządzenia. Zawiadomienie powinno zawierać niezbędne informacje dotyczące przeznaczenia, właściwości technicznych i eksploatacyjnych oraz zakresu zastosowania wprowadzanego do obrotu urządzenia radiowego.
+
+” ,
+
+### c)
+
+w ust. 2 wyrazy „Przepisu ust. 1” zastępuje się wyrazami „Przepisów ust. 1, 1a i 3”,
+
+### d)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Minister właściwy do spraw łączności określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje urządzeń radiowych objętych obowiązkiem określonym w ust. 1a, biorąc pod uwagę zakresy częstotliwości wykorzystywanych przez urządzenie,
+
+### 2)
+
+sposób, zakres i tryb udzielania informacji, o której mowa w ust. 1a, w tym wzór formularza zgłoszenia takiej informacji, biorąc pod uwagę, aby zakres udzielanej informacji był niezbędny do prowadzenia skutecznego nadzoru nad urządzeniami radiowymi wprowadzonymi do obrotu.
+
+” ;
+
+### 2)
+
+w art. 91 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+raport techniczny zawierający sprawozdanie z badań technicznych urządzenia radiowego wraz z opinią potwierdzającą spełnianie przez nie zasadniczych wymagań, wystawione przez akredytowane laboratorium badawcze, indywidualnemu użytkownikowi urządzenia radiowego, niebędący przedmiotem oferty handlowej,
+
+” ;
+
+### 3)
+
+w art. 110 w ust. 1:
+
+### a)
+
+w pkt 3 po wyrazach „oraz rynku” dodaje się wyrazy „aparatury, w tym rynku”,
+
+### b)
+
+w pkt 4 po wyrazach „usług telekomunikacyjnych i pocztowych” dodaje się wyrazy „oraz rynku aparatury, w tym rynku urządzeń telekomunikacyjnych,”;
+
+### 4)
+
+w art. 117:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Prezes URTiP jest uprawniony również do kontroli aparatury, w tym urządzeń telekomunikacyjnych, znajdującej się w obrocie handlowym, pełniąc w tym zakresie funkcję organu wyspecjalizowanego w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2002 r. Nr 166, poz. 1360).
+
+” ;
+
+### 5)
+
+w art. 118:
+
+### a)
+
+w ust. 1:
+
+- - pkt 3 otrzymuje brzmienie: „ 3) prowadzenia oględzin kontrolowanych sieci telekomunikacyjnych i aparatury, w tym urządzeń telekomunikacyjnych, ” ,
+
+- - po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) nieodpłatnego pobierania próbek wprowadzonej do obrotu handlowego aparatury, w tym urządzeń telekomunikacyjnych, w celu przeprowadzenia badań w zakresie spełniania przez aparaturę zasadniczych wymagań, ” ,
+
+- - pkt 6 otrzymuje brzmienie: „ 6) wykonywania czynności kontrolno-pomiarowych, badań sieci telekomunikacyjnych, urządzeń telekomunikacyjnych oraz innej aparatury, a także kontroli jakości świadczonych usług telekomunikacyjnych. ” ,
+
+### b)
+
+w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+nieodpłatne udostępnienie podlegających kontroli sieci telekomunikacyjnych, urządzeń telekomunikacyjnych oraz innej aparatury, w celu przeprowadzenia badań.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Do pobierania i badania próbek aparatury w zakresie spełniania przez nią zasadniczych wymagań, o których mowa w ust. 1 pkt 5a, stosuje się odpowiednio przepisy art. 27-31 ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej ([Dz. U. z 2001 r. Nr 4, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/2001/25/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) oraz z [2002 r. Nr 166, poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.html)).
+
+” ;
+
+### 6)
+
+po art. 120 dodaje się art. 120a w brzmieniu:
+
+„
+
+### Art. 120a.
+
+W przypadku stwierdzenia, że wprowadzona do obrotu handlowego aparatura, w tym urządzenia telekomunikacyjne, nie spełniają zasadniczych wymagań, Prezes URTiP:
+
+### 1)
+
+podejmuje decyzję o wycofaniu z obrotu handlowego aparatury niezgodnej z wymaganiami określonymi w odrębnych przepisach;
+
+### 2)
+
+przekazuje niezwłocznie organowi nadzoru wyniki kontroli wraz z odpowiednią dokumentacją oraz kopię decyzji, o której mowa w pkt 1.
+
+” ;
+
+### 7)
+
+art. 121 otrzymuje brzmienie:
+
+„
+
+### Art. 121.
+
+### 1.
+
+W przypadku stwierdzenia, że aparatura nie spełnia wymagań zasadniczych, w szczególności powoduje zakłócenie pracy aparatury spełniającej zasadnicze wymagania, Prezes URTiP może w decyzji, o której mowa w art. 119, nakazać:
+
+### 1)
+
+czasowe wstrzymanie używania aparatury niespełniającej wymagań zasadniczych;
+
+### 2)
+
+zmianę sposobu używania aparatury;
+
+### 3)
+
+zastosowanie na koszt podmiotu, wobec którego wydano decyzję, środków technicznych prowadzących do spełniania przez aparaturę zasadniczych wymagań, w szczególności prowadzących do eliminacji zakłóceń;
+
+### 4)
+
+czasowe zajęcie aparatury, w celu przeprowadzenia badań niezbędnych do ustalenia przyczyn powodujących niezgodność aparatury z zasadniczymi wymaganiami, w szczególności ustalenia przyczyn zakłóceń.
+
+### 2.
+
+Decyzja, o której mowa w art. 119, podlega natychmiastowemu wykonaniu.
+
+### 3.
+
+Prezes URTiP może uzależnić wydanie zajętej aparatury od zgody jej użytkownika na usunięcie, na koszt użytkownika, przyczyn powodujących niezgodność aparatury z zasadniczymi wymaganiami, w szczególności przyczyn zakłóceń.
+
+” ;
+
+### 8)
+
+w art. 124 w ust. 1:
+
+### a)
+
+po pkt 14 dodaje się pkt 14a w brzmieniu:
+
+„
+
+### 14a)
+
+wprowadza do obrotu handlowego urządzenia telekomunikacyjne bez przekazania Prezesowi URTiP informacji w trybie i zakresie, o którym mowa w art. 90 ust. 1,
+
+” ,
+
+### b)
+
+po pkt 16 dodaje się pkt 16a w brzmieniu:
+
+„
+
+### 16a)
+
+nie wypełnia obowiązków nałożonych decyzją wydaną na podstawie art. 119 lub art. 120a pkt 1,
+
+” .
+
+### Art. 54.
+
+W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej ([Dz. U. z 2001 r. Nr 4, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/2001/25/text.html) i [Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Inspekcja Handlowa, zwana dalej „Inspekcją”, jest wyspecjalizowanym organem kontroli powołanym do ochrony interesów i praw konsumentów oraz interesów gospodarczych państwa.
+
+” ;
+
+### 2)
+
+w art. 2 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+zasadniczych wymaganiach - należy przez to rozumieć zasadnicze wymagania, o których mowa w art. 5 pkt 16 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2002 r. Nr 166, poz. 1360),
+
+” ;
+
+### 3)
+
+w art. 3 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+kontrola produktów wprowadzonych do obrotu w zakresie zgodności z zasadniczymi wymaganiami określonymi w przepisach odrębnych z wyłączeniem produktów podlegających nadzorowi innych właściwych organów,
+
+” ;
+
+### 4)
+
+w art. 9 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Główny Inspektor może, na wniosek Prezesa Urzędu Ochrony Konkurencji i Konsumentów lub z własnej inicjatywy, zlecić wojewódzkiemu inspektorowi przeprowadzenie dodatkowej kontroli, jeżeli jest to niezbędne do zbadania:
+
+### 1)
+
+zjawisk lub procesów gospodarczych zachodzących na rynku;
+
+### 2)
+
+zgodności produktu z zasadniczymi wymaganiami albo zgodności produktu z ogólnymi wymaganiami bezpieczeństwa określonymi w odrębnych ustawach.
+
+” ;
+
+### 5)
+
+w art. 18:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli produkt nie spełnia zasadniczych wymagań albo produkt nie spełnia ogólnych wymagań bezpieczeństwa, wojewódzki inspektor może, w drodze decyzji, zakazać przedsiębiorcy prezentowania, oferowania, reklamowania, wprowadzania do obrotu i dostarczania produktu na okres niezbędny do przeprowadzenia kontroli lub badań albo do czasu spełnienia wymagań, albo w drodze decyzji, zarządzić wycofanie produktu z obrotu.
+
+” ,
+
+### b)
+
+w ust. 2 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”,
+
+### c)
+
+w ust. 3 po wyrazach „ust. 1” dodaje się wyrazy „i 1a”.
+
+### Art. 55.
+
+W ustawie z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów ([Dz. U. z 2000 r. Nr 122, poz. 1319](https://api.sejm.gov.pl/eli/acts/DU/2000/1319/text.html), z [2001 r. Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 129, poz. 1102](https://api.sejm.gov.pl/eli/acts/DU/2002/1102/text.html)) w art. 26 po pkt 14 dodaje się pkt 14a w brzmieniu:
+
+„
+
+### 14a)
+
+nadzór nad wyrobami wprowadzonymi do obrotu w zakresie ich zgodności z zasadniczymi wymaganiami zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2002 r. Nr 166, poz. 1360),
+
+” .
+
+### Art. 56.
+
+W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych ([Dz. U. z 2001 r. Nr 5, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/2001/44/text.html) i [Nr 154, poz. 1802](https://api.sejm.gov.pl/eli/acts/DU/2001/1802/text.html) oraz z [2002 r. Nr 135, poz. 1145](https://api.sejm.gov.pl/eli/acts/DU/2002/1145/text.html)) w art. 32 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Badania laboratoryjne związane z oceną jakości handlowej artykułów rolno-spożywczych, o której mowa w art. 31, są przeprowadzane w laboratoriach Inspekcji albo w innych laboratoriach posiadających akredytację.
+
+” .
+
+### Art. 57.
+
+W ustawie z dnia 11 maja 2001 r. - Prawo o miarach ([Dz. U. z 2001 r. Nr 63, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/2001/636/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html) oraz z [2002 r. Nr 155, poz. 1286](https://api.sejm.gov.pl/eli/acts/DU/2002/1286/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 9 w pkt 7 skreśla się wyrazy „udzielenie notyfikacji do dokonywania czynności oceny zgodności i”;
+
+### 2)
+
+w art. 16 w pkt 9 skreśla się wyrazy „notyfikacji do dokonywania czynności oceny zgodności lub”;
+
+### 3)
+
+w art. 24 w ust. 1:
+
+### a)
+
+w pkt 4 skreśla się wyrazy „notyfikacji do dokonywania czynności oceny zgodności lub”,
+
+### b)
+
+w pkt 6 skreśla się wyrazy „notyfikacji lub”.
+
+### Rozdział 9 Przepisy przejściowe i końcowe
+
+### Art. 58.
+
+Ilekroć w obowiązujących przepisach jest mowa o Polskim Centrum Akredytacji utworzonym na podstawie przepisów ustawy, o której mowa w art. 67 ust. 1, należy przez to rozumieć Polskie Centrum Akredytacji określone w ustawie.
+
+### Art. 59.
+
+Pracownicy Polskiego Centrum Akredytacji utworzonego na podstawie ustawy, o której mowa w art. 67 ust. 1, stają się w dniu wejścia w życie ustawy pracownikami Polskiego Centrum Akredytacji.
+
+### Art. 60.
+
+Z dniem wejścia w życie ustawy zadania określone w art. 7 ustawy z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji ([Dz. U. z 1993 r. Nr 55, poz. 250](https://api.sejm.gov.pl/eli/acts/DU/1993/250/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1997 r. Nr 104, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1997/661/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1999 r. Nr 70, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1999/776/text.html), z [2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html) i [Nr 89, poz. 991](https://api.sejm.gov.pl/eli/acts/DU/2000/991/text.html), z [2001 r. Nr 111, poz. 1194](https://api.sejm.gov.pl/eli/acts/DU/2001/1194/text.html) oraz z [2002 r. Nr 130, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.html) i [Nr 135, poz. 1145](https://api.sejm.gov.pl/eli/acts/DU/2002/1145/text.html)) wykonuje spotka powołana na mocy art. 49 ust. 2 ustawy z dnia 28 kwietnia 2000 r. o systemie oceny zgodności, akredytacji oraz zmianie niektórych ustaw ([Dz. U. z 2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html), z [2001 r. Nr 63, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/2001/636/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 166, poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.html)).
+
+### Art. 61.
+
+### 1.
+
+Kadencja Dyrektora Polskiego Centrum Akredytacji powołanego na podstawie ustawy, o której mowa w art. 67 ust. 1, upływa z dniem 31 grudnia 2003 r.
+
+### 2.
+
+Kadencja Rady do Spraw Akredytacji powołanej na podstawie ustawy, o której mowa w art. 67 ust. 1, upływa z dniem 31 grudnia 2003 r.
+
+### Art. 62.
+
+Zachowują moc dotychczasowe certyfikaty wydane na podstawie odrębnych przepisów do upływu określonego w nich terminu ważności.
+
+### Art. 63.
+
+W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 64.
+
+Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy, nie dłużej niż przez okres 12 miesięcy, obowiązują dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z przepisami tej ustawy.
+
+### Art. 65.
+
+Przepisy art. 6-8, art. 12, art. 14, art. 21-24 oraz art. 44 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+### Art. 66.
+
+Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku ([Dz. U. z 1928 r. Nr 36, poz. 343](https://api.sejm.gov.pl/eli/acts/DU/1928/343/text.html), z [1934 r. Nr 110, poz. 977](https://api.sejm.gov.pl/eli/acts/DU/1934/977/text.html), z [1939 r. Nr 54, poz. 342](https://api.sejm.gov.pl/eli/acts/DU/1939/342/text.html), z [1946 r. Nr 5, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/1946/44/text.html), z [1949 r. Nr 42, poz. 311](https://api.sejm.gov.pl/eli/acts/DU/1949/311/text.html), z [1970 r. Nr 29, poz. 245](https://api.sejm.gov.pl/eli/acts/DU/1970/245/text.html) oraz z [2001 r. Nr 42, poz. 473](https://api.sejm.gov.pl/eli/acts/DU/2001/473/text.html) i [Nr 128, poz. 1408](https://api.sejm.gov.pl/eli/acts/DU/2001/1408/text.html)).
+
+### Art. 67.
+
+### 1.
+
+Traci moc ustawa z dnia 28 kwietnia 2000 r. o systemie oceny zgodności, akredytacji oraz zmianie niektórych ustaw ([Dz. U. z 2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html), z [2001 r. Nr 63, poz. 636](https://api.sejm.gov.pl/eli/acts/DU/2001/636/text.html) oraz z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 166, poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2002/1360/text.html)).
+
+### 2.
+
+Z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej traci moc ustawa z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji ([Dz. U. z 1993 r. Nr 55, poz. 250](https://api.sejm.gov.pl/eli/acts/DU/1993/250/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1997 r. Nr 104, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1997/661/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), z [1999 r. Nr 70, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1999/776/text.html), z [2000 r. Nr 43, poz. 489](https://api.sejm.gov.pl/eli/acts/DU/2000/489/text.html) i [Nr 89, poz. 991](https://api.sejm.gov.pl/eli/acts/DU/2000/991/text.html), z [2001 r. Nr 111, poz. 1194](https://api.sejm.gov.pl/eli/acts/DU/2001/1194/text.html) oraz z [2002 r. Nr 130, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.html) i [Nr 135, poz. 1145](https://api.sejm.gov.pl/eli/acts/DU/2002/1145/text.html)).
+
+### Art. 68.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2003 r., z wyjątkiem art. 52, który wchodzi w życie z dniem ogłoszenia.

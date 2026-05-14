@@ -8,11 +8,9 @@ pos: 1603
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw
-
-*USTAWA z dnia 8 lipca 2021 r.*
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz ustawę z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,34 +22,916 @@ domain: null
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001603) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1603/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1603/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1603) |
 
-**Art. 1.** W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945, z 2019 r. poz. 2020 oraz z 2021 r. poz. 255) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2019 r. poz. 1430) wprowadza się następujące zmiany:
+W ustawie z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw ([Dz. U. z 2018 r. poz. 1026](https://api.sejm.gov.pl/eli/acts/DU/2018/1026/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2021 r. poz. 182 i 904) art. 38 po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Organ właściwy sprawie wypłaty pomocy ramach działania, o którym mowa art. 3 ust. 1 pkt 9, zawiesza postępowanie tej sprawie, przypadku wszczęcia postępowania sprawie cofnięcia uznania na podstawie przepisów o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw, przepisów o organizacji niektórych rynków rolnych lub przepisów o organizacji rynku mleka i przetworów mlecznych, do czasu rozstrzygnięcia postępowania sprawie cofnięcia uznania.”.
+### 1)
 
-**Art. 5.** W ustawie z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. poz. 1888) art. 7 ust. 1 pkt 2 otrzymuje brzmienie: „2) stwierdzenia nieważności decyzji – właściwy jest Prezes Agencji;”.
+po art. 2 dodaje się art. 2a w brzmieniu:
 
-**Art. 6.**
+„
 
-1. Do postępowań sprawie uznania grupy producentów rolnych i zatwierdzenia planu biznesowego oraz sprawie uznania związku grup producentów rolnych prowadzonych na podstawie ustawy zmienianej art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+### Art. 2a.
 
-2. Do postępowań sprawie zatwierdzenia zmian planu biznesowego prowadzonych na podstawie ustawy zmienianej art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+### 1.
 
-3. Do postępowań sprawie uznania organizacji producentów, prowadzonych na podstawie ustawy zmienianej art. 2, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 2 brzmieniu dotychczasowym.
+Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2021 r. poz. 735](https://api.sejm.gov.pl/eli/acts/DU/2021/735/text.html) i [1491](https://api.sejm.gov.pl/eli/acts/DU/2021/1491/text.html)), o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
-4. Do postępowań sprawie uznania organizacji producentów, prowadzonych na podstawie ustawy zmienianej art. 3, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 3 brzmieniu dotychczasowym.
+### 2.
 
-5. Do postępowań sprawie stwierdzenia nieważności decyzji sprawie stwierdzenia spełniania przez grupę producentów rolnych warunków określonych art. 3 albo art. 3a ustawy zmienianej art. 1 oraz przepisach wydanych na podstawie art. 6 ustawy zmienianej art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 5 brzmieniu dotychczasowym.
+Jeżeli przepisy ustawy przewidują złożenie wniosku do Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, albo do dyrektora oddziału regionalnego Agencji, wniosek ten składa się na piśmie.
 
-- **2)** art. 38i ust. 3 ustawy zmienianej art. 2 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 38i ust. 3 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane tym czasie na podstawie art. 38i ust. 3 ustawy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą;
-- **3)** art. 48a ust. 7 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 48a ust. 7 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane tym czasie na podstawie art. 48a ust. 7 ustawy zmienianej art. 3 brzmieniu nadanym niniejszą ustawą.
+### 3.
 
-**Art. 8.** Do sprawozdań, o których mowa art. 17a ust. 1 ustawy zmienianej art. 1, składanych za rok działalności związku rozpoczęty i niezakończony przed dniem wejścia życie niniejszej ustawy, stosuje się przepis art. 17a ust. 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+Jeżeli przepisy ustawy przewidują złożenie na piśmie sprawozdania lub informacji do Prezesa Agencji albo do dyrektora oddziału regionalnego Agencji w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, odpowiednio sprawozdanie to lub informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
-**Art. 9.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+” ;
 
+### 2)
+
+w art. 3 w ust. 1:
+
+### a)
+
+pkt 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6)
+
+każdy z członków grupy w każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
+
+### 7)
+
+każdy z członków grupy przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
+
+” ,
+
+### b)
+
+dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+żaden z członków grupy nie przynależy do organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych ([Dz. U. z 2018 r. poz. 945](https://api.sejm.gov.pl/eli/acts/DU/2018/945/text.html), [z 2019 r. poz. 2020](https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html) oraz [z 2021 r. poz. 255](https://api.sejm.gov.pl/eli/acts/DU/2021/255/text.html) i [1603](https://api.sejm.gov.pl/eli/acts/DU/2021/1603/text.html)), zwanej dalej „ustawą o rynkach rolnych”, albo ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych ([Dz. U. z 2019 r. poz. 1430](https://api.sejm.gov.pl/eli/acts/DU/2019/1430/text.html) oraz [z 2021 r. poz. 1603](https://api.sejm.gov.pl/eli/acts/DU/2021/1603/text.html)), zwanej dalej „ustawą o rynku mleka”, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+” ;
+
+### 3)
+
+w art. 3a:
+
+### a)
+
+pkt 6 i 7 otrzymują brzmienie:
+
+„
+
+### 6)
+
+każdy z członków grupy wskazanych w pkt 1 w każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
+
+### 7)
+
+każdy z członków grupy wskazanych w pkt 1 przynależy tylko do jednej grupy w zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
+
+” ,
+
+### b)
+
+dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+żaden z członków grupy wskazanych w pkt 1 nie przynależy do organizacji producentów, o której mowa w przepisach ustawy o rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+” ;
+
+### 4)
+
+po art. 3a dodaje się art. 3aa w brzmieniu:
+
+„
+
+### Art. 3aa.
+
+W przypadku gdy w danym roku działalności grupy nie każdy członek tej grupy jest w stanie spełnić warunek, o którym mowa w art. 3 ust. 1 pkt 6, a w przypadku grupy będącej spółdzielnią - nie każdy z członków grupy wskazanych w art. 3a pkt 1 jest w stanie spełnić warunek, o którym mowa w art. 3a pkt 6, uznaje się, że warunek ten jest spełniony, jeżeli w tym roku działalności grupy co najmniej 90% członków tej grupy, a w przypadku grupy będącej spółdzielnią - 90% członków grupy wskazanych w art. 3a pkt 1 wyprodukowało oraz sprzedało do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona.
+
+” ;
+
+### 5)
+
+w art. 4 w ust. 1 w pkt 7 w lit. b na końcu kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+wskazanie celów działalności grupy, o których mowa w art. 2.
+
+” ;
+
+### 6)
+
+w art. 7:
+
+### a)
+
+w ust. 1:
+
+- - we wprowadzeniu do wyliczenia skreśla się wyrazy „Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”,”,
+
+- - w pkt 2 po wyrazach „albo art. 8 ust. 4 pkt 3” dodaje się wyrazy „, jeżeli są spełnione wymagania określone w przepisach wydanych na podstawie art. 8 ust. 9”,
+
+### b)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Decyzję, o której mowa w ust. 1 pkt 1, wydaje się w terminie 90 dni od dnia złożenia wniosku o jej wydanie.
+
+” ;
+
+### 7)
+
+w art. 8:
+
+### a)
+
+w ust. 3:
+
+- - pkt 3 i 4 otrzymują brzmienie: „ 3) plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych; 4) oświadczenia członków grupy: a) o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, b) o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, c) o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, d) zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” ,
+
+- - dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie zawierające zobowiązanie osób upoważnionych do reprezentowania grupy, że coroczne przychody grupy ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy będą stanowić więcej niż połowę przychodów grupy ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” ,
+
+### b)
+
+w ust. 4:
+
+- - pkt 3 i 4 otrzymują brzmienie: „ 3) plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych; 4) oświadczenia członków grupy wskazanych w art. 3a pkt 1: a) o prowadzeniu, w dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej w zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona, b) o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów, c) o nieprzynależności do organizacji producentów, o której mowa w przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej w zakresie tego samego produktu lub grupy produktów, d) zawierające zobowiązanie do dostarczania do grupy, w każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona; ” ,
+
+- - dodaje się pkt 5 w brzmieniu: „ 5) oświadczenie zawierające zobowiązanie osób upoważnionych do składania oświadczeń woli w imieniu spółdzielni, że coroczne przychody spółdzielni ze sprzedaży produktów lub grup produktów wytworzonych w gospodarstwach lub działach specjalnych produkcji rolnej członków grupy wskazanych w art. 3a pkt 1 będą stanowić więcej niż połowę przychodów spółdzielni ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona. ” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Oświadczenia, o których mowa w ust. 3 pkt 4 lit. a-c oraz ust. 4 pkt 4 lit. a-c, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+” ,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Wniosek o wydanie decyzji, o której mowa w art. 7 ust. 1 pkt 2, składa się w terminie do 60 dni przed zakończeniem danego roku działalności grupy, którego dotyczy zmiana.
+
+” ,
+
+### e)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+W przypadku dokonania zmiany w składzie członkowskim grupy wniosek o wydanie decyzji, o której mowa w art. 7 ust. 1 pkt 2, składa się do zakończenia danego roku działalności grupy, którego dotyczy zmiana.
+
+” ,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Do wniosku, o którym mowa w ust. 5, dołącza się:
+
+### 1)
+
+dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną do reprezentowania grupy;
+
+### 2)
+
+plan biznesowy zawierający proponowane zmiany, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
+
+” ,
+
+### g)
+
+po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Wnioski o wydanie decyzji, o których mowa w art. 7 ust. 1, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
+” ;
+
+### 8)
+
+w art. 9:
+
+### a)
+
+w ust. 2 w pkt 5 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+informację o dacie wydania decyzji o cofnięciu danej grupie uznania i skreśleniu jej z rejestru grup, decyzji o stwierdzeniu nieważności decyzji o uznaniu albo decyzji uchylającej decyzję o uznaniu grupy - jeżeli taka decyzja została wydana.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Grupa jest obowiązana do informowania na piśmie dyrektora oddziału regionalnego Agencji o każdej zmianie danych zawartych w rejestrze, o których mowa w ust. 2 pkt 1, 4 i 5, w terminie miesiąca od dnia dokonania zmiany.
+
+” ,
+
+### c)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Dyrektor oddziału regionalnego Agencji informuje ministra właściwego do spraw rynków rolnych oraz Prezesa Agencji o każdej zmianie danych zawartych w rejestrze, w terminie 7 dni od dnia dokonania zmiany w tym rejestrze.
+
+” ;
+
+### 9)
+
+w art. 11:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy, w przypadku gdy grupa przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 1-3, 5 lub 7 albo art. 3a pkt 1-3, 5 lub 7, wzywa grupę na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności grupy następującego po roku, w którym wezwano grupę do spełnienia tych warunków.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Osoba upoważniona do reprezentowania grupy w terminie określonym w wezwaniu, o którym mowa w ust. 1, informuje na piśmie dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę grupy o spełnieniu brakujących warunków i przedkłada dokumenty potwierdzające ich spełnienie albo kopie tych dokumentów potwierdzone przez tę osobę za zgodność z oryginałem.
+
+### 1b.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy w przypadku gdy grupa:
+
+### 1)
+
+mimo wezwania, o którym mowa w ust. 1, w terminie określonym w tym wezwaniu nie spełniła brakujących warunków lub
+
+### 2)
+
+uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w art. 12 ust. 2 pkt 2 i 3, lub
+
+### 3)
+
+mimo wezwania, o którym mowa w art. 9 ust. 5 lub art. 13 ust. 2, nie wypełniła obowiązku określonego w art. 9 ust. 4 lub art. 13 ust. 1, lub
+
+### 4)
+
+przestała spełniać co najmniej jeden z warunków uznania określonych w art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub w przepisach wydanych na podstawie art. 6
+
+- wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup.
+
+” ;
+
+### 10)
+
+w art. 17:
+
+### a)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Prezes Agencji w przypadku gdy związek przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15, wzywa związek na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności związku następującego po roku, w którym wezwano związek do spełnienia tych warunków.
+
+” ,
+
+### b)
+
+dodaje się ust. 8 i 9 w brzmieniu:
+
+„
+
+### 8.
+
+Osoba upoważniona do reprezentowania związku w terminie określonym w wezwaniu, o którym mowa w ust. 5, informuje na piśmie Prezesa Agencji o spełnieniu brakujących warunków i przedkłada dokumenty potwierdzające ich spełnienie albo kopie tych dokumentów potwierdzone przez tę osobę za zgodność z oryginałem.
+
+### 9.
+
+Prezes Agencji w przypadku gdy związek:
+
+### 1)
+
+mimo wezwania, o którym mowa w ust. 5, w terminie określonym w tym wezwaniu nie spełnił brakujących warunków lub
+
+### 2)
+
+uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa w ust. 2, lub
+
+### 3)
+
+mimo wezwania, o którym mowa w art. 17a ust. 1a, nie wypełnił obowiązku określonego w art. 17a ust. 1, lub
+
+### 4)
+
+przestał spełniać co najmniej jeden z warunków uznania określonych w art. 14 lub art. 15
+
+- wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków.
+
+” ;
+
+### 11)
+
+w art. 17a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Związek składa Prezesowi Agencji na piśmie sprawozdanie z realizacji celów wybranych spośród celów, o których mowa w art. 14, w terminie 3 miesięcy od dnia zakończenia każdego roku jego działalności.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Prezes Agencji w przypadku gdy związek nie wypełnia obowiązku, o którym mowa w ust. 1, wzywa związek na piśmie do wypełnienia tego obowiązku w terminie 14 dni od dnia otrzymania przez związek wezwania.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych ([Dz. U. z 2018 r. poz. 945](https://api.sejm.gov.pl/eli/acts/DU/2018/945/text.html), [z 2019 r. poz. 2020](https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html) oraz [z 2021 r. poz. 255](https://api.sejm.gov.pl/eli/acts/DU/2021/255/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 1 dodaje się art. 1a w brzmieniu:
+
+„
+
+### Art. 1a.
+
+### 1.
+
+Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2021 r. poz. 735](https://api.sejm.gov.pl/eli/acts/DU/2021/735/text.html) i [1491](https://api.sejm.gov.pl/eli/acts/DU/2021/1491/text.html)), o ile przepisy rozporządzenia nr 1308/2013 lub przepisy niniejszej ustawy nie stanowią inaczej.
+
+### 2.
+
+Jeżeli przepisy ustawy przewidują złożenie wniosku do ministra właściwego do spraw rynków rolnych, do dyrektora oddziału regionalnego albo do kierownika biura powiatowego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, lub do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, zwanego dalej „Krajowym Ośrodkiem”, wniosek ten składa się na piśmie.
+
+### 3.
+
+Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+” ;
+
+### 2)
+
+w art. 20 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Agencja przeprowadza kontrole podmiotów uczestniczących w mechanizmach administrowanych przez Agencję określonych w ustawie.
+
+” ;
+
+### 3)
+
+w art. 21a w ust. 1 skreśla się wyrazy „Wsparcia Rolnictwa, zwany dalej „Krajowym Ośrodkiem”,”;
+
+### 4)
+
+w art. 38i:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian planu biznesowego organizacji producentów, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 154, art. 156 ust. 1 oraz art. 158 rozporządzenia nr 1308/2013.
+
+### 2.
+
+Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a-2g w brzmieniu:
+
+„
+
+### 2a.
+
+Wniosek, o którym mowa w ust. 2, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
+### 2b.
+
+Wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się w terminie 60 dni przed zakończeniem danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+### 2c.
+
+W przypadku dokonania zmiany w składzie członkowskim organizacji producentów wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się do zakończenia danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+### 2d.
+
+Do wniosku o uznanie organizacji producentów i zatwierdzenie jej planu biznesowego albo o uznanie zrzeszenia organizacji producentów albo organizacji międzybranżowej dołącza się:
+
+### 1)
+
+kopię aktu założycielskiego organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej sporządzonego zgodnie z wymaganiami określonymi w art. 153 ust. 1 i 2 rozporządzenia nr 1308/2013, potwierdzoną za zgodność z oryginałem przez osoby upoważnione odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+
+### 2)
+
+inne niezbędne dokumenty albo ich kopie, potwierdzające spełnienie przez organizację producentów, zrzeszenie organizacji producentów oraz organizację międzybranżową wymagań określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie ust. 3, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+### 2e.
+
+Do wniosku, o którym mowa w ust. 2b, dołącza się:
+
+### 1)
+
+dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną do reprezentowania organizacji producentów;
+
+### 2)
+
+plan biznesowy zawierający proponowane zmiany, a w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
+
+### 2f.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji albo zrzeszenia wydaje decyzję o uznaniu:
+
+### 1)
+
+organizacji producentów i zatwierdzeniu jej planu biznesowego, jeżeli spełnia ona wymagania określone w art. 152 ust. 1, art. 153 ust. 1 i 2 oraz art. 154 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
+
+### 2)
+
+zrzeszenia organizacji producentów, jeżeli spełnia ono wymagania określone w art. 156 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d,
+
+### 3)
+
+organizacji międzybranżowej, jeżeli spełnia ona wymagania określone w art. 157 ust. 1 i art. 158 ust. 1 rozporządzenia nr 1308/2013 oraz w ust. 2a i 2d
+
+- oraz jeżeli organizacja albo zrzeszenie spełnia wymagania określone w przepisach wydanych na podstawie ust. 3.
+
+### 2g.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji wydaje decyzję o zatwierdzeniu zmian planu biznesowego, jeżeli są spełnione wymagania, o których mowa w ust. 2a-2c i 2e, oraz proponowane zmiany planu biznesowego umożliwiają osiągnięcie celów wybranych przez organizację producentów, o których mowa w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej, w tym:
+
+### 1)
+
+minimalną liczbę członków organizacji producentów lub minimalną ilość lub wartość zbywalnej produkcji, o których mowa w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013,
+
+### 2)
+
+maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
+
+### 3)
+
+szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
+
+### 4)
+
+rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów oraz organizacji międzybranżowej
+
+- mając na względzie zapewnienie prawidłowego funkcjonowania tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+” ;
+
+### 5)
+
+w art. 38j:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy uznana organizacja producentów nie spełnia wymagań określonych w art. 153 ust. 1 lub 2, lub art. 154 ust. 1 lit. a lub d rozporządzenia nr 1308/2013 lub warunku określonego w przepisach wydanych na podstawie art. 38i ust. 3 dotyczącego maksymalnego odsetka głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów lub maksymalnego odsetka udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji, dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji wzywa organizację na piśmie do usunięcia naruszeń oraz, biorąc pod uwagę ich rodzaj, określa termin ich usunięcia nie dłuższy niż 12 miesięcy, licząc od początku roku działalności organizacji następującego po roku, w którym wezwano organizację do usunięcia tych naruszeń.
+
+” ,
+
+### b)
+
+w ust. 2 skreśla się wyrazy „albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa”,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Dyrektor oddziału regionalnego Agencji cofa, w drodze decyzji, uznanie:
+
+### 1)
+
+organizacji producentów, jeżeli:
+
+### a)
+
+mimo wezwania, o którym mowa w ust. 1, organizacja ta, w terminie określonym w tym wezwaniu, nie usunęła stwierdzonych naruszeń albo
+
+### b)
+
+organizacja ta przestała spełniać warunek uznania określony w art. 154 ust. 1 lit. b rozporządzenia nr 1308/2013;
+
+### 2)
+
+zrzeszeniu organizacji producentów, jeżeli zrzeszenie to przestało spełniać warunek uznania określony w art. 156 rozporządzenia nr 1308/2013;
+
+### 3)
+
+organizacji międzybranżowej, jeżeli organizacja ta przestała spełniać co najmniej jeden z warunków uznania określonych w art. 157 ust. 1 lub art. 158 ust. 1 rozporządzenia nr 1308/2013.
+
+” ;
+
+### 6)
+
+w art. 38n ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji przeprowadza co najmniej raz na dwa lata kontrole uznanych organizacji producentów, zrzeszeń organizacji producentów oraz organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 38i ust. 3, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych ([Dz. U. z 2019 r. poz. 1430](https://api.sejm.gov.pl/eli/acts/DU/2019/1430/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 1 dodaje się art. 1a w brzmieniu:
+
+„
+
+### Art. 1a.
+
+### 1.
+
+Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2021 r. poz. 735](https://api.sejm.gov.pl/eli/acts/DU/2021/735/text.html) i [1491](https://api.sejm.gov.pl/eli/acts/DU/2021/1491/text.html)), o ile przepisy niniejszej ustawy nie stanowią inaczej.
+
+### 2.
+
+Jeżeli przepisy ustawy przewidują złożenie wniosku do dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, wniosek ten składa się na piśmie.
+
+### 3.
+
+Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### 4.
+
+Jeżeli przepisy ustawy przewidują złożenie na piśmie informacji do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa albo do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+” ;
+
+### 2)
+
+w art. 43 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wnioski o wydanie świadectw autoryzacji, o których mowa w ust. 1, składa się do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa na piśmie, na formularzach opracowanych przez Agencję i udostępnionych na stronach internetowych Agencji oraz Krajowego Ośrodka Wsparcia Rolnictwa.
+
+” ;
+
+### 3)
+
+w art. 48a:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian ich planu biznesowego, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 156, art. 161 i art. 163 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - w pkt 1: - - po lit. a dodaje się lit. aa w brzmieniu: „ aa) akt założycielski tej organizacji zawiera postanowienia umożliwiające jej członkom, udziałowcom lub akcjonariuszom będącym producentami kontrolę organizacji oraz podejmowanych w ramach tej organizacji decyzji, w tym dotyczące, wyrażonej w procentach, wielkości posiadanych przez nich udziałów lub akcji oraz dopuszczalnej, wyrażonej w procentach, ilości głosów przysługujących im na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków tej organizacji, ” , - - lit. e otrzymuje brzmienie: „ e) okres wypowiedzenia członkostwa w tej organizacji, określony w jej akcie założycielskim, jest nie krótszy niż 6 miesięcy, ” , - w pkt 2 w lit. b wyraz „statucie” zastępuje się wyrazami „akcie założycielskim”,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
+” ,
+
+### d)
+
+po ust. 3 dodaje się ust. 3a-3e w brzmieniu:
+
+„
+
+### 3a.
+
+Wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się w terminie do 60 dni przed zakończeniem danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+### 3b.
+
+W przypadku dokonania zmiany w składzie członkowskim organizacji producentów wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się do zakończenia danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+### 3c.
+
+Do wniosku o uznanie organizacji producentów i zatwierdzenie jej planu biznesowego albo o uznanie zrzeszenia organizacji producentów, albo organizacji międzybranżowej dołącza się:
+
+### 1)
+
+kopię aktu założycielskiego organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej sporządzonego zgodnie z wymaganiami określonymi w art. 161 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika, potwierdzoną za zgodność z oryginałem przez osoby upoważnione odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+
+### 2)
+
+inne niezbędne dokumenty albo ich kopie, potwierdzające spełnianie przez organizację producentów, zrzeszenie organizacji producentów oraz organizację międzybranżową wymagań określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie ust. 7, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+### 3d.
+
+Do wniosku, o którym mowa w ust. 3a, dołącza się:
+
+### 1)
+
+dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+
+### 2)
+
+plan biznesowy zawierający proponowane zmiany; w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
+
+### 3e.
+
+Dyrektor oddziału regionalnego Agencji wydaje decyzję o zatwierdzeniu zmian planu biznesowego, jeżeli organizacja producentów spełnia wymagania, o których mowa w ust. 3a, 3b i 3d, oraz proponowane zmiany planu biznesowego umożliwią osiągnięcie celów wybranych przez organizację producentów, o których mowa w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów.
+
+” ,
+
+### e)
+
+uchyla się ust. 4 i 5,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej, w tym:
+
+### 1)
+
+maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
+
+### 2)
+
+szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
+
+### 3)
+
+rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej
+
+- mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+” ;
+
+### 4)
+
+w art. 48d uchyla się ust. 6;
+
+### 5)
+
+w art. 48e:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy uznana organizacja producentów nie spełnia warunków określonych w art. 161 ust. 1 lit. a lub d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 1 lit. aa lub e, lub warunku określonego w przepisach wydanych na podstawie art. 48a ust. 7 dotyczącego maksymalnego odsetka głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalnego odsetka udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji, dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów wzywa organizację producentów na piśmie do usunięcia naruszeń oraz, biorąc pod uwagę ich rodzaj, określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, licząc od początku roku działalności organizacji producentów następującego po roku, w którym wezwano organizację producentów do usunięcia tych naruszeń.
+
+” ,
+
+### b)
+
+w ust. 2 skreśla się wyrazy „albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa”,
+
+### c)
+
+uchyla się ust. 3,
+
+### d)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Dyrektor oddziału regionalnego Agencji cofa, w drodze decyzji, uznanie:
+
+### 1)
+
+organizacji producentów, jeżeli organizacja ta:
+
+### a)
+
+mimo wezwania, o którym mowa w ust. 1, w terminie określonym w tym wezwaniu, nie usunęła stwierdzonych naruszeń albo
+
+### b)
+
+przestała spełniać co najmniej jeden z warunków uznania określonych w art. 48a ust. 2 pkt 1 lit. a, b lub d;
+
+### 2)
+
+zrzeszeniu organizacji producentów, jeżeli zrzeszenie to przestało spełniać co najmniej jeden z warunków uznania określonych w art. 48a ust. 2 pkt 2;
+
+### 3)
+
+organizacji międzybranżowej, jeżeli organizacja ta przestała spełniać co najmniej jeden z warunków uznania określonych w art. 163 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+” ;
+
+### 6)
+
+w art. 49 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej przeprowadza kontrole uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 48a ust. 7, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. z 2021 r. poz. 182](https://api.sejm.gov.pl/eli/acts/DU/2021/182/text.html) i [904](https://api.sejm.gov.pl/eli/acts/DU/2021/904/text.html)) w art. 38 po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Organ właściwy w sprawie wypłaty pomocy w ramach działania, o którym mowa w art. 3 ust. 1 pkt 9, zawiesza postępowanie w tej sprawie, w przypadku wszczęcia postępowania w sprawie cofnięcia uznania na podstawie przepisów o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw, przepisów o organizacji niektórych rynków rolnych lub przepisów o organizacji rynku mleka i przetworów mlecznych, do czasu rozstrzygnięcia postępowania w sprawie cofnięcia uznania.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 ([Dz. U. poz. 1888](https://api.sejm.gov.pl/eli/acts/DU/2015/1888/text.html)) w art. 7 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+stwierdzenia nieważności decyzji - właściwy jest Prezes Agencji;
+
+” .
+
+### Art. 6.
+
+### 1.
+
+Do postępowań w sprawie uznania grupy producentów rolnych i zatwierdzenia planu biznesowego oraz w sprawie uznania związku grup producentów rolnych prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+### 2.
+
+Do postępowań w sprawie zatwierdzenia zmian planu biznesowego prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
+
+### 3.
+
+Do postępowań w sprawie uznania organizacji producentów, prowadzonych na podstawie ustawy zmienianej w art. 2, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 2 w brzmieniu dotychczasowym.
+
+### 4.
+
+Do postępowań w sprawie uznania organizacji producentów, prowadzonych na podstawie ustawy zmienianej w art. 3, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 3 w brzmieniu dotychczasowym.
+
+### 5.
+
+Do postępowań w sprawie stwierdzenia nieważności decyzji w sprawie stwierdzenia spełniania przez grupę producentów rolnych warunków określonych w art. 3 albo art. 3a ustawy zmienianej w art. 1 oraz w przepisach wydanych na podstawie art. 6 ustawy zmienianej w art. 1, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 5 w brzmieniu dotychczasowym.
+
+### Art. 7.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 8 ust. 9 ustawy zmienianej w art. 1 zachowują moc i mogą być zmieniane na podstawie art. 8 ust. 9 ustawy zmienianej w art. 1;
+
+### 2)
+
+art. 38i ust. 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 38i ust. 3 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane w tym czasie na podstawie art. 38i ust. 3 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+art. 48a ust. 7 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48a ust. 7 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane w tym czasie na podstawie art. 48a ust. 7 ustawy zmienianej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 8.
+
+Do sprawozdań, o których mowa w art. 17a ust. 1 ustawy zmienianej w art. 1, składanych za rok działalności związku rozpoczęty i niezakończony przed dniem wejścia w życie niniejszej ustawy, stosuje się przepis art. 17a ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 9.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych, ustawę z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych, ustawę z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 oraz ustawę z dnia 11 września 2015 r. o zmianie ustawy o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw oraz ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020.

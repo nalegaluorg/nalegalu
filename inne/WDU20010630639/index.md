@@ -8,11 +8,9 @@ pos: 639
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej
-
-*USTAWA z dnia 11 maja 2001 r.*
+# Ustawa z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,594 +22,910 @@ domain: null
 | Data ogłoszenia | 2001-05-11 |
 | Data wydania | 2001-06-22 |
 | Ostatnia zmiana | 2026-03-05 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/639/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/639/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/639) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Obowiązki przedsiębiorców](#chpt_2) [Rozdział 3 - Opłata produktowa](#chpt_3) [Rozdział 4 - Opłata depozytowa](#chpt_4) [Rozdział 5 - Obowiązki organów administracji publicznej](#chpt_5) [Rozdział 6 - Zasady gospodarowania środkami pochodzącymi z opłaty produktowej](#chpt_6) [Rozdział 7 - Przepisy karne](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_8)
 
-1. Ustawa określa:
+- [Załącznik nr 1 - Rodzaje opakowań](#part_2)
 
-- **1)** obowiązki przedsiębiorców wprowadzających do obrotu produkty,
-- **2)** zasady postępowania z odpadami powstałymi z produktów,
-- **3)** zasady ustalania i pobierania opłaty produktowej,
-- **4)** środki służące ochronie środowiska i ochronie życia ludzi przez zapobieganie niekorzystnemu wpływowi niektórych produktów z tworzyw sztucznych, w szczególności na środowisko wodne i zdrowie człowieka, oraz zmniejszanie tego wpływu – w celu zapobiegania powstawaniu odpadów powstałych z produktów, ograniczenia ich negatywnego oddziaływania na środowisko oraz zapewnienia wysokiego poziomu odzysku i recyklingu odpadów powstałych z produktów.
+- [Załącznik nr 2 - Rodzaje produktów](#part_3)
 
-2. W sprawach dotyczących postępowania z odpadami powstałymi z produktów w zakresie nieuregulowanym ustawą stosuje się przepisy o odpadach.
+- [Załącznik nr 3 - Rodzaje pozostałych produktów](#part_4)
 
-3. Przepisy ustawy nie naruszają postanowień działu II w tytule I ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54).
+- [Załącznik nr 4 - Docelowe procentowe poziomy odzysku i recyklingu dla odpadów opakowaniowych i poużytkowych w stosunku do masy lub ilości wprowadzonych na rynek krajowy, w drodze sprzedaży lub importu, opakowań i produktów](#part_5)
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+TOC
 
-**Art. 2a.**
+## Treść ustawy
 
-1. Wprowadzenie do obrotu następuje w dniu:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** wydania produktu z magazynu albo przekazania go osobie trzeciej – w przypadku produktu wytworzonego na terytorium kraju;
-- **2)** wystawienia faktury potwierdzającej przywóz produktu na terytorium kraju z terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo dokumentu celnego potwierdzającego przywóz produktu na terytorium kraju z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
-- **3)** przywozu produktu na terytorium kraju w celu wprowadzenia do obrotu.
+### Art. 1.
 
-2. Jeżeli terminy, o których mowa w ust. 1, nie są zbieżne, za dzień wprowadzenia do obrotu uważa się dzień, w którym wprowadzenie do obrotu nastąpiło wcześniej.
+### 1.
 
-3. Ciężar udowodnienia, że wprowadzenie do obrotu nie nastąpiło albo nastąpiło w dniu innym niż określony w ust. 1, spoczywa na przedsiębiorcy wprowadzającym do obrotu produkty.
+Ustawa określa obowiązki importerów oraz wytwórców produktów, zwanych dalej „przedsiębiorcami”, związane z wprowadzaniem na rynek krajowy produktów w opakowaniach, których rodzaje określa załącznik nr 1 do ustawy, i produktów wymienionych w załącznikach nr 2 i 3 do ustawy, oraz określa zasady ustalania i pobierania opłaty produktowej i opłaty depozytowej.
 
-#### Rozdział 2 Obowiązki przedsiębiorców
+### 2.
 
-**Art. 3.**
+Przez przedsiębiorcę wprowadzającego na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy rozumie się także przedsiębiorcę prowadzącego jednostkę handlu detalicznego o powierzchni handlowej powyżej 500 m2, sprzedającego produkty tam pakowane.
 
-1. Przedsiębiorca jest obowiązany do zapewnienia odzysku, a w szczególności recyklingu, odpadów takiego samego rodzaju jak odpady powstałe z produktów wymienionych w załączniku nr 4a do ustawy wprowadzonych przez niego do obrotu.
+### 3.
 
-2. Przedsiębiorca jest obowiązany osiągnąć poziom odzysku i recyklingu odpadów powstałych z produktów co najmniej w wysokości określonej w załączniku nr 4a do ustawy.
+Przepisy ustawy stosuje się również do przedsiębiorcy wprowadzającego na rynek krajowy w drodze importu towary, których częściami składowymi są produkty wymienione w załącznikach nr 2 i 3 do ustawy.
 
-2a. (uchylony) 2b. Przedsiębiorca, o którym mowa w ust. 1, wprowadzający na terytorium kraju produkty wymienione w załączniku nr 4a w poz. 2, jest obowiązany osiągnąć do dnia 31 grudnia 2020 r. poziom odzysku i recyklingu odpadów powstałych z tego rodzaju produktów co najmniej w wysokości określonej w załączniku nr 4a do ustawy.
+### 4.
 
-3. Poziom odzysku i recyklingu odpadów powstałych w danym roku kalendarzowym z produktów wymienionych w załączniku nr 4a do ustawy stanowi wyrażona w procentach wartość ilorazu masy odpadów powstałych z tych produktów poddanych odpowiednio odzyskowi lub recyklingowi w tym roku kalendarzowym oraz masy tych produktów wprowadzonych do obrotu w poprzednim roku kalendarzowym, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadzał do obrotu produktów wymienionych w załączniku nr 4a do ustawy – w stosunku do masy tych produktów wprowadzonych do obrotu w danym roku kalendarzowym.
+W sprawach dotyczących gospodarowania odpadami opakowaniowymi i odpadami poużytkowymi, nieuregulowanych ustawą, stosuje się przepisy o odpadach.
 
-3a. (uchylony) 3b. (uchylony)
+### 5.
 
-4. Masę produktów wprowadzonych do obrotu ustala się na podstawie dodatkowej ewidencji prowadzonej zgodnie z art. 11.
+Przepisy ustawy nie naruszają postanowień działu II w tytule I ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. Nr 62, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.html)).
 
-5. (uchylony)
+### Art. 2.
 
-6. (uchylony) 6a. (uchylony)
+Ilekroć w ustawie jest mowa o:
 
-7. (uchylony)
+### 1)
 
-8. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, roczne poziomy odzysku i recyklingu odpadów powstałych z produktów wymienionych w poz. 2 w załączniku nr 4a do ustawy, w poszczególnych latach do końca 2020 r., kierując się:
+akumulatorze ołowiowym (kwasowym) - rozumie się przez to akumulator rozruchowy lub pojedyncze ogniwo akumulatora przemysłowego,
 
-- **1)** potrzebą stopniowego tworzenia krajowego systemu odzysku i recyklingu odpadów powstałych z produktów oraz zwiększania jego efektywności;
-- **2)** działaniem na rzecz konkurencyjności polskiej gospodarki.
+### 2)
 
-9. Przy obliczaniu osiągniętych poziomów odzysku przez danego przedsiębiorcę do masy odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy poddanych odzyskowi dodaje się masę:
+eksporcie produktów - rozumie się przez to objęcie produktów procedurą wywozu, w rozumieniu przepisów ustawy z dnia 9 stycznia 1997 r. - Kodeks celny ([Dz. U. Nr 23, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1997/117/text.html), [Nr 64, poz. 407](https://api.sejm.gov.pl/eli/acts/DU/1997/407/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 157, poz. 1026](https://api.sejm.gov.pl/eli/acts/DU/1997/1026/text.html)i [Nr 160, poz. 1084](https://api.sejm.gov.pl/eli/acts/DU/1997/1084/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)i [Nr 160, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/1998/1063/text.html), z [1999 r. Nr 40, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1999/402/text.html)i [Nr 72, poz. 802](https://api.sejm.gov.pl/eli/acts/DU/1999/802/text.html), z [2000 r. Nr 22, poz. 269](https://api.sejm.gov.pl/eli/acts/DU/2000/269/text.html), [Nr 119, poz. 1250](https://api.sejm.gov.pl/eli/acts/DU/2000/1250/text.html)i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html)oraz z [2001 r. Nr 12, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/2001/92/text.html)i [Nr 29, poz. 320](https://api.sejm.gov.pl/eli/acts/DU/2001/320/text.html)),
 
-- **1)** opon zebranych i zregenerowanych (bieżnikowanych) na terytorium kraju;
-- **2)** olejów bazowych pochodzących z regeneracji zebranych na terytorium kraju olejów odpadowych zużytych do wytworzenia wprowadzonych do obrotu olejów smarowych, z zastrzeżeniem spełnienia warunków określonych w ust. 12 oraz przepisach wydanych na podstawie ust. 13.
+### 3)
 
-9a. Przy obliczaniu osiągniętych poziomów odzysku odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy do odzysku zalicza się procesy R1–R9 i R13 wymienione w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
+imporcie produktów - rozumie się przez to objęcie produktu procedurą dopuszczenia do obrotu, w rozumieniu przepisów ustawy - Kodeks celny,
 
-9b. Przy obliczaniu osiągniętych poziomów r ecyklingu odpadów powstałych z produktów wymienionych w załączniku nr 4a do ustawy do recyklingu zalicza się procesy R2–R9 wymienione w załączniku nr 1 do ustawy z dnia 14 grudnia 2012 r. o odpadach.
+### 4)
 
-10. Przy obliczaniu osiągniętych poziomów recyklingu przez danego przedsiębiorcę do masy olejów odpadowych poddanych recyklingowi dodaje się masę olejów bazowych pochodzących z regeneracji zebranych na terytorium kraju olejów odpadowych zużytych do wytworzenia wprowadzonych do obrotu olejów smarowych, z zastrzeżeniem spełnienia warunków określonych w ust. 12 oraz w przepisach wydanych na podstawie ust. 13.
+Narodowym Funduszu - rozumie się przez to Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej w rozumieniu przepisów o ochronie środowiska,
 
-11. Przy obliczaniu poziomu odzysku i recyklingu nie uwzględnia się produktów, które są częściami składowymi lub przynależnościami towarów wyeksportowanych lub wywiezionych z terytorium kraju w drodze wewnątrzwspólnotowej dostawy.
+### 5)
 
-11a. Przy obliczaniu poziomu odzysku i recyklingu odpadów powstałych z produktów do masy wprowadzonych do obrotu produktów nie wlicza się produktów, które zostały wywiezione z terytorium kraju w drodze eksportu lub wewnątrzwspólnotowej dostawy dokonanych przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu te produkty, na podstawie dokumentów potwierdzających eksport lub wewnątrzwspólnotową dostawę tych produktów.
+odpadzie opakowaniowym - rozumie się przez to odpady w rozumieniu przepisów o opakowaniach i odpadach opakowaniowych powstające z opakowań, których rodzaje wymienione są w załączniku nr 1 do ustawy,
 
-11b. Do rzeczywiście osiągniętego poziomu odzysku i recyklingu odpadów powstałych z produktów nie wlicza się importu oraz wewnątrzwspólnotowego nabycia odpadów powstałych z produktów, które poddaje się odzyskowi i recyklingowi na terytorium kraju.
+### 6)
 
-11c. Przy obliczaniu poziomu recyklingu olejów odpadowych wlicza się wyłącznie masę olejów odpadowych poddanych regeneracji w instalacjach wpisanych do Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”.
+odpadzie poużytkowym - rozumie się przez to odpady powstające z produktów wymienionych w załącznikach nr 2 i 3 do ustawy,
 
-11d. Przy obliczaniu poziomu odzysku i recyklingu odpadów powstałych z produktów do masy wprowadzonych do obrotu produktów nie wlicza się produktów, które przedsiębiorca w danym roku kalendarzowym wprowadził do obrotu w drodze importu lub wewnątrzwspólnotowego nabycia, a następnie w tym samym roku kalendarzowym wywiózł z kraju w drodze eksportu lub wewnątrzwspólnotowej dostawy, na podstawie dokumentów potwierdzających eksport lub wewnątrzwspólnotową dostawę tych produktów.
+### 7)
 
-12. Przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji może je włączyć do rzeczywiście uzyskanego poziomu recyklingu, jeżeli:
+odzysku - rozumie się przez to odzysk w rozumieniu przepisów o odpadach,
 
-- **1)** posiada specjalistyczną instalację umożliwiającą prowadzenie procesu regeneracji;
-- **2)** posiada zezwolenie wymagane przepisami o ochronie środowiska;
-- **3)** uzyskane produkty spełniają normy określone w przepisach odrębnych.
+### 8)
 
-13. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe warunki, jakie powinien spełnić przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji, w celu włączenia ich do rzeczywiście uzyskanego poziomu recyklingu, uwzględniając w nim:
+opłacie depozytowej - rozumie się przez to opłatę pobieraną przy sprzedaży detalicznej akumulatorów ołowiowych (kwasowych) jako osobnych produktów, której zwrot następuje po przekazaniu zużytego akumulatora sprzedawcy detalicznemu tych akumulatorów lub do punktu systemu zbiórki zużytych akumulatorów zorganizowanego przez przedsiębiorcę,
 
-- **1)** potrzebę bezpiecznego dla środowiska wykorzystania olejów odpadowych;
-- **2)** wymagane instalacje służące regeneracji olejów odpadowych;
-- **3)** spełnienie wymagań wynikających z przepisów o odpadach.
+### 9)
 
-**Art. 3a.** (uchylony)
+opłacie produktowej - rozumie się przez to opłatę obliczaną i wpłacaną za opakowania w przypadku sprzedaży produktów w tych opakowaniach, a także opłatę obliczaną i wpłacaną w przypadku sprzedaży akumulatorów niklowo-kadmowych, ogniw i baterii galwanicznych, opon, lamp wyładowczych, olejów smarowych oraz urządzeń chłodniczych i klimatyzacyjnych, wymienionych w załącznikach nr 1-3 do ustawy,
 
-**Art. 3b.**
+### 10)
 
-1. Przedsiębiorca prowadzący jednostkę handlu detalicznego, jednostkę handlu hurtowego lub jednostkę gastronomiczną, w których są oferowane produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 6 do ustawy będące opakowaniami lub napoje lub żywność pakowane przez tego przedsiębiorcę w te produkty, jest obowiązany do pobrania opłaty od użytkownika końcowego nabywającego te produkty lub napoje lub żywność w tych produktach, zwanej dalej „opłatą”.
+recyklingu - rozumie się przez to recykling w rozumieniu przepisów o odpadach,
 
-2. Do pobrania opłaty jest również obowiązany przedsiębiorca pakujący i oferujący – za pomocą urządzenia vendingowego, w tym umieszczonego także w miejscach innych niż jednostki handlu detalicznego, jednostki handlu hurtowego lub jednostki gastronomiczne – napoje lub żywność w produktach jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami.
+### 11)
 
-3. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany do zapewnienia dostępności opakowań alternatywnych do produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami, wytworzonych z materiałów innych niż tworzywa sztuczne, w tym innych niż tworzywa sztuczne ulegające biodegradacji, lub dostępności opakowań wielokrotnego użytku.
+regeneracji olejów odpadowych - rozumie się przez to regenerację w rozumieniu przepisów o odpadach,
 
-4. Nadzór nad przestrzeganiem przepisów ust. 1–3 sprawuje Inspekcja Handlowa na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2024 r. poz. 312).
+### 12)
 
-**Art. 3c.**
+wojewódzkich funduszach - rozumie się przez to wojewódzkie fundusze ochrony środowiska i gospodarki wodnej w rozumieniu przepisów o ochronie środowiska,
 
-1. Maksymalna stawka opłaty za sztukę produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 6 do ustawy będącego opakowaniem wynosi 1 zł.
+### 13)
 
-2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawki opłaty za sztukę produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 6 do ustawy będącego opakowaniem, kierując się koniecznością trwałego zmniejszenia zużycia tych produktów oraz mając na uwadze negatywny wpływ tworzyw sztucznych na środowisko, a także akceptowalny społecznie poziom stawki opłaty.
+zużytym akumulatorze - rozumie się przez to odpad poużytkowy powstały z akumulatora ołowiowego (kwasowego), zachowujący podstawowe elementy konstrukcyjne.
 
-**Art. 3d.** Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, wnoszą pobraną opłatę na odrębny rachunek bankowy prowadzony przez marszałka województwa właściwego ze względu na miejsce jej pobrania, w terminie do dnia 15 marca roku następującego po roku kalendarzowym, w którym została pobrana.
+### Rozdział 2 Obowiązki przedsiębiorców
 
-**Art. 3e.**
+### Art. 3.
 
-1. W przypadku gdy przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, nie wnieśli opłaty albo wnieśli opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, w którym dany przedsiębiorca był obowiązany do pobrania opłaty.
+### 1.
 
-2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty.
+Przedsiębiorca, o którym mowa w art. 1, ma obowiązek zapewnienia odzysku, a w szczególności recyklingu odpadów opakowaniowych i poużytkowych.
 
-3. Termin uiszczenia zaległości, o której mowa w ust. 1, i termin uiszczenia dodatkowej opłaty, o której mowa w ust. 2, wynosi 14 dni od dnia, w którym decyzje ustalające ich wysokość stały się ostateczne.
+### 2.
 
-**Art. 3f.**
+Przedsiębiorca, o którym mowa w ust. 1, obowiązany jest do dnia 31 grudnia 2007 r. osiągnąć docelowy poziom odzysku i recyklingu odpadów opakowaniowych i poużytkowych, co najmniej w wysokości określonej w załączniku nr 4 do ustawy.
 
-1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2.
+### 3.
 
-2. Wpływy z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek bankowy Narodowego Funduszu w terminie 30 dni po upływie każdego kwartału.
+Poziom odzysku i recyklingu odpadów opakowaniowych i poużytkowych stanowi wyrażona w procentach wartość ilorazu masy lub ilości odpadów opakowaniowych i poużytkowych poddanych odpowiednio odzyskowi lub recyklingowi oraz masy lub ilości wprowadzonych na rynek opakowań lub produktów, w określonym czasie.
 
-3. Wpływy z tytułu opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stanowią w wysokości 5 % dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
+### 4.
 
-**Art. 3g.** W sprawach dotyczących opłaty, opłaty, o której mowa w art. 3e ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3e ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760), z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+Masę i ilość opakowań wprowadzanych na rynek ustala się w oparciu o ewidencję prowadzoną zgodnie z art. 11.
 
-**Art. 3h.**
+### 5.
 
-1. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, są obowiązani do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji liczby nabytych i wydanych użytkownikom końcowym produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 6 do ustawy będących opakowaniami w danym roku kalendarzowym przez danego przedsiębiorcę.
+Wprowadzenie na rynek opakowań lub produktów następuje, z zastrzeżeniem ust. 6, w dacie ich wydania z magazynu w celu ostatecznego wprowadzenia do obrotu.
 
-2. Przedsiębiorca prowadzący więcej niż jedną jednostkę handlu detalicznego, jednostkę handlu hurtowego lub jednostkę gastronomiczną, o których mowa w art. 3b ust. 1, prowadzi ewidencję, o której mowa w ust. 1, oddzielnie dla poszczególnych jednostek.
+### 6.
 
-3. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, składają sprawozdania zawierające informacje, o których mowa w art. 73 ust. 2 pkt 3a ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+W przypadku importu produktów w opakowaniach uważa się, iż importer wprowadza na rynek opakowania w dacie ich dopuszczenia do obrotu w kraju.
 
-4. Przedsiębiorcy, o których mowa w art. 3b ust. 1 i 2, są obowiązani do przechowywania informacji zawartych w ewidencji, o której mowa w ust. 1, przez 5 lat, licząc od końca roku kalendarzowego, którego informacje dotyczą.
+### 7.
 
-**Art. 3i.** Zakazuje się wprowadzania do obrotu produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 7 do ustawy oraz wyrobów wykonanych z oksydegradowalnych tworzyw sztucznych.
+Opakowania lub produkt uważa się za wprowadzone do obrotu tylko raz.
 
-**Art. 3j.** Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 8 do ustawy jest obowiązany do zapewnienia umieszczenia na opakowaniach tych produktów lub na samych produktach oznakowania na zasadach określonych w rozporządzeniu wykonawczym Komisji (UE) 2020/2151 z dnia 17 grudnia 2020 r. ustanawiającym zasady dotyczące zharmonizowanych specyfikacji w odniesieniu do oznakowania produktów jednorazowego użytku z tworzyw sztucznych wymienionych w części D załącznika do dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 428 z 18.12.2020, str. 57, z późn. zm. ) i zgodnie ze wzorami określonymi w tym rozporządzeniu.
+### 8.
 
-**Art. 3k.**
+Rada Ministrów określi, w drodze rozporządzenia ogłoszonego na 6 miesięcy przed dniem jego wejścia w życie, roczne poziomy odzysku i recyklingu odpadów opakowaniowych i poużytkowych, w poszczególnych latach do końca 2007 r., uwzględniając:
 
-1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w sekcjach I i III załącznika nr 9 do ustawy jest obowiązany do ponoszenia corocznej opłaty na pokrycie kosztów:
+### 1)
 
-- **1)** zbierania odpadów powstałych z produktów tego samego rodzaju, które wprowadził do obrotu, pozostawionych w publicznych systemach zbierania odpadów, w tym na pokrycie kosztów utworzenia i utrzymania tych systemów, transportu tych odpadów i ich przetwarzania;
-- **2)** uprzątania oraz transportu i przetwarzania odpadów powstałych z produktów tego samego rodzaju jak odpady powstałe z produktów, które wprowadził do obrotu.
+potrzebę stopniowego tworzenia krajowego systemu odzysku i recyklingu odpadów opakowaniowych i poużytkowych oraz zwiększanie jego efektywności,
 
-2. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w sekcji II załącznika nr 9 do ustawy jest obowiązany do ponoszenia corocznej opłaty na pokrycie kosztów uprzątania oraz transportu i przetwarzania odpadów powstałych z produktów tego samego rodzaju jak odpady powstałe z produktów, które wprowadził do obrotu.
+### 2)
 
-3. Opłaty, o których mowa w ust. 1 i 2, oblicza się jako iloczyn stawki opłaty określonej w przepisach wydanych na podstawie art. 3l ust. 2 oraz odpowiednio masy albo liczby wprowadzonych do obrotu w danym roku kalendarzowym przez danego przedsiębiorcę produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 9 do ustawy.
+działania na rzecz konkurencyjności polskiej gospodarki,
 
-4. W przypadku produktów jednorazowego użytku z tworzyw sztucznych wymienionych w sekcjach II i III załącznika nr 9 do ustawy za produkty jednostkowe uznaje się produkty umieszczone łącznie w opakowaniach jednostkowych, w których te produkty są oferowane użytkownikom końcowym.
+### 3)
 
-**Art. 3l.**
+konieczność realizacji zobowiązań międzynarodowych.
 
-1. Maksymalne stawki opłaty, o której mowa w art. 3k ust. 1 i 2, wynoszą:
+### 9.
 
-- **1)** 0,20 zł za 1 kg – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcji I załącznika nr 9 do ustawy;
-- **2)** 0,03 zł za sztukę – oddzielnie dla każdego rodzaju wprowadzonego do obrotu produktu jednorazowego użytku z tworzyw sztucznych wymienionego w sekcjach II i III załącznika nr 9 do ustawy.
+Przy obliczaniu osiągniętych poziomów odzysku przez danego przedsiębiorcę do masy odpadów opakowaniowych i poużytkowych poddanych odzyskowi dodaje się:
 
-2. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, stawki opłaty, o której mowa w art. 3k ust. 1 i 2, dla każdego rodzaju produktu jednorazowego użytku z tworzyw sztucznych wymienionego w załączniku nr 9 do ustawy, kierując się rodzajami produktów objętych opłatą, koniecznością pokrycia, w niezbędnym zakresie, kosztów zagospodarowania odpadów powstałych z tych produktów oraz utworzenia i utrzymania publicznych systemów zbierania, a także proporcjonalnością stawki opłaty do kosztów, o których mowa w art. 3k ust. 1 i 2.
+### 1)
 
-3. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w:
+masę opakowań wielokrotnego użytku użytych powtórnie,
 
-- **1)** sekcjach I i III załącznika nr 9 do ustawy albo
-- **2)** sekcji II załącznika nr 9 do ustawy – wnosi opłatę, o której mowa odpowiednio w art. 3k ust. 1 albo 2, na odrębny rachunek bankowy prowadzony przez marszałka województwa w terminie do dnia 15 marca roku następującego po roku kalendarzowym, którego ta opłata dotyczy.
+### 2)
 
-**Art. 3m.**
+masę opon zebranych i zregenerowanych (bieżnikowanych) w kraju,
 
-1. W przypadku gdy przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy nie wniósł opłaty, o której mowa w art. 3k ust. 1 lub 2, albo wniósł opłatę niższą od należnej, marszałek województwa określa, w drodze decyzji, wysokość zaległości z tytułu tej opłaty, stosując stawkę opłaty z roku kalendarzowego, za który ten przedsiębiorca był obowiązany do wniesienia tej opłaty.
+### 3)
 
-2. W przypadku niewykonania decyzji, o której mowa w ust. 1, marszałek województwa ustala, w drodze decyzji, dodatkową opłatę w wysokości odpowiadającej 50 % kwoty niewniesionej opłaty, o której mowa w art. 3k ust. 1 lub 2.
+masę olejów bazowych pochodzących z regeneracji krajowych olejów odpadowych, zużytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrzeżeniem spełnienia warunków określonych w ust. 12 i 13.
 
-3. Termin uiszczenia opłat, o których mowa w ust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja ustalająca ich wysokość stała się ostateczna.
+### 10.
 
-**Art. 3n.**
+Przy obliczaniu osiągniętych poziomów recyklingu przez danego przedsiębiorcę do masy olejów odpadowych poddanych recyklingowi dodaje się masę olejów bazowych pochodzących z regeneracji krajowych olejów odpadowych, zużytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrzeżeniem spełnienia warunków określonych w ust. 12 i 13.
 
-1. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, a także dodatkowej opłaty, o której mowa w art. 3m ust. 2.
+### 11.
 
-2. Wpływy z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, a także dodatkowej opłaty, o której mowa w art. 3m ust. 2, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 3, marszałek województwa przekazuje na rachunek bankowy Narodowego Funduszu w terminie 30 dni po upływie kwartału, w którym wpłynęły, z przeznaczeniem na finansowanie:
+Przy obliczaniu poziomu odzysku i recyklingu nie uwzględnia się produktów, które są częściami składowymi wyeksportowanych towarów.
 
-- **1)** zbierania odpadów powstałych z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w sekcjach I i III załącznika nr 9 do ustawy pozostawionych w publicznych systemach zbierania odpadów, w tym na finansowanie kosztów utworzenia i utrzymania tych systemów, transportu tych odpadów i ich przetwarzania;
-- **2)** uprzątania oraz transportu i przetwarzania odpadów powstałych z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w załączniku nr 9 do ustawy.
+### 12.
 
-3. Wpływy z tytułu opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stanowią w wysokości 5 % dochody budżetu samorządu województwa z przeznaczeniem na koszty egzekucji należności z tytułu tych opłat i obsługę administracyjną systemu ich poboru.
+Przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji może je włączyć do rzeczywiście uzyskanego poziomu recyklingu, jeżeli:
 
-4. W sprawach dotyczących opłaty, o której mowa w art. 3k ust. 1 i 2 oraz art. 3m ust. 1, oraz dodatkowej opłaty, o której mowa w art. 3m ust. 2, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+### 1)
 
-**Art. 3o.**
+posiada specjalistyczną instalację umożliwiającą prowadzenie procesu regeneracji,
 
-1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy prowadzi, w postaci papierowej albo elektronicznej, ewidencję produktów wprowadzonych do obrotu w danym roku kalendarzowym zawierającą w zależności od rodzaju tych produktów odpowiednio ich masę albo liczbę.
+### 2)
 
-2. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w pkt 1 i 4 sekcji I załącznika nr 9 do ustawy prowadzi ewidencję, o której mowa w ust. 1, zgodnie z formatem danych określonym w decyzji wykonawczej Komisji (UE) 2022/162 z dnia 4 lutego 2022 r. ustanawiającej zasady stosowania dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 w odniesieniu do obliczania, weryfikacji i zgłaszania zmniejszenia stosowania niektórych produktów jednorazowego użytku z tworzyw sztucznych i środków wprowadzanych przez państwa członkowskie w celu osiągnięcia takiego zmniejszenia (Dz. Urz. UE L 26 z 07.02.2022, str. 19).
+posiada zezwolenie wymagane przepisami o ochronie środowiska,
 
-3. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy jest obowiązany do przechowywania informacji zawartych w ewidencji, o której mowa w ust. 1, przez 5 lat, licząc od końca roku kalendarzowego, którego informacje dotyczą.
+### 3)
 
-4. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych wymienione w załączniku nr 9 do ustawy składa sprawozdanie zawierające informacje, o których mowa w art. 73 ust. 2 pkt 3 i 3a ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+uzyskane produkty spełniają normy określone w przepisach odrębnych.
 
-**Art. 4.**
+### 13.
 
-1. Obowiązek, o którym mowa w art. 3 ust. 1, może być realizowany przez przedsiębiorcę:
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe warunki, jakie powinien spełnić przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji, w celu włączenia ich do rzeczywiście uzyskanego poziomu recyklingu, uwzględniając w nim:
 
-- **1)** samodzielnie albo
-- **2)** za pośrednictwem organizacji odzysku, zwanej dalej „organizacją”.
+### 1)
 
-1a. (uchylony) 1b. (uchylony)
+potrzebę bezpiecznego dla środowiska wykorzystania olejów odpadowych,
 
-2. Organizacja przejmuje od przedsiębiorcy obciążające go obowiązki na podstawie umowy.
+### 2)
 
-3. Przedsiębiorca lub organizacja może zlecić wykonanie poszczególnych czynności związanych z odzyskiem i recyklingiem posiadaczowi odpadów spełniającemu wymagania określone w ustawie z dnia 14 grudnia 2012 r. o odpadach.
+wymagane instalacje służące regeneracji olejów odpadowych,
 
-4. W przypadku otwarcia likwidacji albo ogłoszenia upadłości organizacji odzysku, przejęty przez nią obowiązek ponownie staje się, z dniem otwarcia likwidacji albo ogłoszenia upadłości, obowiązkiem wprowadzającego produkty, od którego został on przejęty, w odniesieniu do masy produktów wprowadzonych przez niego do obrotu od dnia 1 stycznia roku kalendarzowego, w którym nastąpiło otwarcie likwidacji lub ogłoszenie upadłości organizacji odzysku.
+### 3)
 
-5. (uchylony)
+spełnienie wymagań wynikających z przepisów o odpadach.
 
-**Art. 5.**
+### Art. 4.
 
-1. Organizacja może prowadzić działalność wyłącznie w formie spółki akcyjnej.
+### 1.
 
-2. Przedmiotem działania organizacji może być wyłącznie działalność związana z organizowaniem, zarządzaniem lub prowadzeniem przedsięwzięć związanych z odzyskiem, a w szczególności z recyklingiem odpadów, a także edukacja ekologiczna.
+Obowiązek, o którym mowa w art. 3 ust. 1, może być realizowany przez przedsiębiorcę:
 
-3. Firma organizacji zawiera oznaczenie „organizacja odzysku”.
+### 1)
 
-4. Do używania oznaczenia wskazanego w ust. 3 są uprawnione wyłącznie organizacje utworzone zgodnie z niniejszą ustawą.
+samodzielnie albo
 
-**Art. 6.**
+### 2)
 
-1. Kapitał zakładowy organizacji powinien wynosić co najmniej 1 000 000 złotych, a ponadto nie może być zebrany w drodze publicznej subskrypcji, z zastrzeżeniem art. 43.
+za pośrednictwem organizacji odzysku, zwanej dalej „organizacją”.
 
-2. Kapitał zakładowy organizacji powinien być pokryty w całości wkładem pieniężnym i wpłacony w całości przed złożeniem wniosku o zarejestrowanie organizacji.
+### 2.
 
-3. Kapitał zakładowy organizacji nie może pochodzić z pożyczki lub kredytu ani być obciążony w jakikolwiek sposób.
+Organizacja przejmuje od przedsiębiorcy obciążające go obowiązki na podstawie umowy.
 
-4. Organizacja ma obowiązek utrzymywania kapitałów własnych w wysokości co najmniej połowy minimalnego kapitału zakładowego określonego w ust. 1.
+### 3.
 
-4a. Organizacja odzysku jest obowiązana, w terminie do dnia 15 marca każdego roku, przedstawić marszałkowi województwa właściwemu ze względu na siedzibę tej organizacji, zaświadczenie wydane przez bank prowadzący rachunek bankowy tej organizacji stwierdzające, że w ciągu całego poprzedniego roku kalendarzowego utrzymywała na odrębnym rachunku bankowym kapitał własny w wysokości co najmniej połowy minimalnego kapitału zakładowego, o którym mowa w ust. 1. [5. Akcje organizacji mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.]
+Przedsiębiorca lub organizacja może zlecić wykonanie poszczególnych czynności związanych z odzyskiem i recyklingiem osobom trzecim.
 
-6. Organizacja nie może wydawać akcji o szczególnych uprawnieniach.
+### Art. 5.
 
-**Art. 7.** Organizacja jest obowiązana złożyć marszałkowi województwa, w terminie dwóch tygodni od dnia jej zarejestrowania, odpis statutu i zaświadczenie albo oświadczenie o wpisie do rejestru sądowego oraz w tym samym terminie odpis wszelkich zmian dokonanych w statucie lub zaświadczenie albo oświadczenie o zmianach w rejestrze sądowym.
+### 1.
 
-**Art. 7a.** Oświadczenia, o których mowa w art. 7, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+Organizacja może prowadzić działalność wyłącznie w formie spółki akcyjnej.
 
-**Art. 8.** Organizacja jest zobowiązana do zachowania w tajemnicy wszelkich danych przekazanych jej przez przedsiębiorców. Obowiązek zachowania tajemnicy nie dotyczy obowiązków informacyjnych wynikających z niniejszej ustawy oraz przypadków, w których przepisy prawa nakazują ujawnienie tajemnicy.
+### 2.
 
-**Art. 8a.**
+Przedmiotem działania organizacji może być wyłącznie działalność związana z organizowaniem, zarządzaniem lub prowadzeniem przedsięwzięć związanych z odzyskiem, a w szczególności z recyklingiem odpadów, a także edukacja ekologiczna.
 
-1. Producent, o którym mowa w art. 2 pkt 9d lit. a, może wyznaczyć swojego autoryzowanego przedstawiciela odpowiedzialnego za wykonywanie na terytorium kraju obowiązków określonych w ustawie dla przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne w odniesieniu do wprowadzonych do obrotu produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne pochodzących od tego producenta.
+### 3.
 
-2. Wyznaczenie autoryzowanego przedstawiciela następuje w drodze umowy zawartej w formie pisemnej pod rygorem nieważności.
+Firma organizacji zawiera oznaczenie „organizacja odzysku”.
 
-3. Autoryzowanym przedstawicielem może być osoba fizyczna, jednostka organizacyjna nieposiadająca osobowości prawnej lub osoba prawna mające odpowiednio miejsce zamieszkania albo siedzibę na terytorium kraju.
+### 4.
 
-4. W przypadku wyznaczenia autoryzowanego przedstawiciela producent, o którym mowa w art. 2 pkt 9d lit. a, działa wyłącznie za pośrednictwem autoryzowanego przedstawiciela, do którego stosuje się przepisy ustawy dotyczące przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne.
+Do używania oznaczenia wskazanego w ust. 3 są uprawnione wyłącznie organizacje utworzone zgodnie z niniejszą ustawą.
 
-5. Autoryzowany przedstawiciel działa w imieniu i na rzecz producenta, o którym mowa w art. 2 pkt 9d lit. a, i ponosi odpowiedzialność za wykonywanie obowiązków określonych w ustawie dla przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne.
+### Art. 6.
 
-**Art. 8b.**
+### 1.
 
-1. Przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne pochodzące od producenta, o którym mowa w art. 2 pkt 9d lit. a, nie jest obowiązany do wykonywania obowiązków nałożonych na niego ustawą, o ile:
+Kapitał zakładowy organizacji powinien wynosić co najmniej 1.000.000 złotych, a ponadto nie może być zebrany w drodze publicznej subskrypcji, z zastrzeżeniem art. 43.
 
-- **1)** producent ten wyznaczył autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1, i ten autoryzowany przedstawiciel jest wpisany do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach;
-- **2)** przedsiębiorca ten przekazał autoryzowanemu przedstawicielowi, o którym mowa w art. 8a ust. 1, dane niezbędne do wykonywania przez autoryzowanego przedstawiciela obowiązków w odniesieniu do wprowadzonych do obrotu przez tego przedsiębiorcę w danym roku kalendarzowym produktów jednorazowego użytku z tworzyw sztucznych lub narzędzi połowowych zawierających tworzywa sztuczne pochodzących od producenta, który wyznaczył tego autoryzowanego przedstawiciela.
+### 2.
 
-2. W przypadku nieprzekazania autoryzowanemu przedstawicielowi, o którym mowa w art. 8a ust. 1, danych, o których mowa w ust. 1 pkt 2, przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne pochodzące od producenta, o którym mowa w art. 2 pkt 9d lit. a, jest obowiązany do wykonywania obowiązków nałożonych na niego ustawą w odniesieniu do tych produktów, które wprowadził do obrotu w danym roku kalendarzowym i o których nie poinformował autoryzowanego przedstawiciela.
+Kapitał zakładowy organizacji powinien być pokryty w całości wkładem pieniężnym i wpłacony w całości przed złożeniem wniosku o zarejestrowanie organizacji.
 
-3. Autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, prowadzi wykaz przedsiębiorców wprowadzających do obrotu produkty jednorazowego użytku z tworzyw sztucznych lub narzędzia połowowe zawierające tworzywa sztuczne pochodzące od producenta, o którym mowa w art. 2 pkt 9d lit. a, którzy korzystają z uprawnienia, o którym mowa w ust. 1.
+### 3.
 
-**Art. 8c.**
+Kapitał zakładowy organizacji nie może pochodzić z pożyczki lub kredytu ani być obciążony w jakikolwiek sposób.
 
-1. Producent, o którym mowa w art. 2 pkt 9d lit. b, jest obowiązany do wyznaczenia w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej upoważnionego przedstawiciela odpowiedzialnego za wykonywanie na terytorium tego państwa obowiązków określonych w przepisach krajowych tego państwa wynikających z dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 z dnia 5 czerwca 2019 r. w sprawie zmniejszenia wpływu niektórych produktów z tworzyw sztucznych na środowisko (Dz. Urz. UE L 155 z 12.06.2019, str. 1).
+### 4.
 
-2. Wyznaczenie upoważnionego przedstawiciela następuje w drodze umowy zawartej w formie pisemnej pod rygorem nieważności.
+Organizacja ma obowiązek utrzymywania kapitałów własnych w wysokości co najmniej połowy minimalnego kapitału zakładowego określonego w ust. 1.
 
-**Art. 8d.**
+### 5.
 
-1. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do finansowania kosztów selektywnego zbierania narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, które zostały dostarczone do przedsiębiorców prowadzących portowe urządzenia do odbioru odpadów zgodnie z przepisami o portowych urządzeniach do odbioru odpadów ze statków lub do przedsiębiorców prowadzących inne równoważne systemy zbierania, oraz finansowania kosztów ich transportu i przetwarzania.
+Akcje organizacji mogą być wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.
 
-2. Koszty, o których mowa w ust. 1, nie mogą przekraczać kosztów niezbędnych do świadczenia usług gospodarowania odpadami w sposób efektywny kosztowo. Koszty te są ustalane między przedsiębiorcą wprowadzającym do obrotu narzędzia połowowe zawierające tworzywa sztuczne a przedsiębiorcą prowadzącym portowe urządzenia do odbioru odpadów lub przedsiębiorcą prowadzącym inne równoważne systemy zbierania.
+### 6.
 
-3. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do osiągnięcia minimalnego rocznego poziomu zbierania do celów recyklingu narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne w wysokości co najmniej:
+Organizacja nie może wydawać akcji o szczególnych uprawnieniach.
 
-- **1)** 5 % wagowo – za rok 2024;
-- **2)** 10 % wagowo – za rok 2025;
-- **3)** 15 % wagowo – za rok 2026;
-- **4)** 20 % wagowo – za rok 2027;
-- **5)** 25 % wagowo – za rok 2028;
-- **6)** 27 % wagowo – za rok 2029;
-- **7)** 30 % wagowo – za rok 2030 i za każdy kolejny rok.
+### Art. 7.
 
-4. Minimalny roczny poziom zbierania w danym roku kalendarzowym jest obliczany jako stosunek masy zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne do masy wprowadzonych do obrotu w poprzednim roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne, a w przypadku przedsiębiorcy, który w poprzednim roku kalendarzowym nie wprowadził do obrotu narzędzi połowowych zawierających tworzywa sztuczne – do masy produktów wprowadzonych do obrotu w danym roku kalendarzowym.
+Organizacja jest obowiązana złożyć marszałkowi województwa, w terminie dwóch tygodni po jej zarejestrowaniu, odpis statutu i wypis z rejestru sądowego lub postanowienie o wpisie do rejestru sądowego oraz w tym samym terminie odpis wszelkich zmian dokonanych w statucie lub rejestrze sądowym.
 
-5. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do prowadzenia, w postaci papierowej albo elektronicznej, ewidencji zawierającej informacje o masie wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne oraz o masie zebranych w danym roku kalendarzowym narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art.13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904 (Dz. Urz. UE L 211 z 15.06.2021, str. 51, z późn. zm. ).
+### Art. 8.
 
-6. Przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne jest obowiązany do przechowywania informacji zawartych w ewidencji, o której mowa w ust. 5, przez 5 lat, licząc od końca roku kalendarzowego, którego informacje dotyczą.
+Organizacja jest zobowiązana do zachowania w tajemnicy wszelkich danych przekazanych jej przez przedsiębiorców. Obowiązek zachowania tajemnicy nie dotyczy obowiązków informacyjnych wynikających z niniejszej ustawy oraz przypadków, w których przepisy prawa nakazują ujawnienie tajemnicy.
 
-7. W przypadku braku ewidencji, o której mowa w ust. 5, lub prowadzenia jej w sposób nierzetelny masę wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne określa marszałek województwa w drodze oszacowania.
+### Art. 9.
 
-8. W przypadku, o którym mowa w ust. 7, oszacowanie masy wprowadzonych do obrotu narzędzi połowowych zawierających tworzywa sztuczne następuje metodą porównawczą:
+### 1.
 
-- **1)** wewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne w poprzednich latach kalendarzowych, dla których jest znana wielkość tej masy;
-- **2)** zewnętrzną – polegającą na porównaniu masy wprowadzonych do obrotu w danym roku kalendarzowym narzędzi połowowych zawierających tworzywa sztuczne przez przedsiębiorcę innego niż przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, który prowadzi działalność gospodarczą o podobnej skali.
+Przedsiębiorca rozpoczynający działalność polegającą na wytwarzaniu lub imporcie produktów w opakowaniach, o których mowa w załączniku nr 1 do ustawy, lub produktów, o których mowa w załącznikach nr 2 i 3 do ustawy, jest obowiązany bez wezwania złożyć zawiadomienie o tym fakcie marszałkowi województwa, w terminie 30 dni od dnia rozpoczęcia działalności.
 
-9. Masę zebranych narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne ustala się na podstawie zaświadczenia, do którego sporządzenia jest obowiązany przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania. Zaświadczenie jest sporządzane na wniosek przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne.
+### 2.
 
-10. Wniosek, o którym mowa w ust. 9, za poprzedni rok kalendarzowy składa się do końca lutego roku następującego po tym roku kalendarzowym.
+Za dzień rozpoczęcia działalności, o której mowa w ust. 1, uważa się datę pierwszej sprzedaży lub powstania pierwszego długu celnego dla produktu w opakowaniu wymienionym w załączniku nr 1 do ustawy lub produktu wymienionego w załącznikach nr 2 lub 3 do ustawy.
 
-11. Zaświadczenie oraz wniosek, o których mowa w ust. 9, sporządza się za pośrednictwem indywidualnego konta w BDO.
+### 3.
 
-12. Przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania udostępniają zaświadczenie, o którym mowa w ust. 9, za pośrednictwem indywidualnego konta w BDO, marszałkowi województwa właściwemu ze względu na miejsce prowadzenia działalności przez tych przedsiębiorców oraz przedsiębiorcy wprowadzającemu do obrotu narzędzia połowowe zawierające tworzywa sztuczne w terminie 7 dni od dnia wpłynięcia wniosku, o którym mowa w ust. 9.
+Przedsiębiorca jest obowiązany w terminie 14 dni złożyć zawiadomienie marszałkowi województwa o fakcie likwidacji działalności, o której mowa w ust. 1.
 
-13. Zaświadczenie, o którym mowa w ust. 9, zawiera:
+### 4.
 
-- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby przedsiębiorcy prowadzącego portowe urządzenia do odbioru odpadów lub przedsiębiorcy prowadzącego inne równoważne systemy zbierania, wystawiających zaświadczenie;
-- **2)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, przedsiębiorcy, dla którego jest sporządzane zaświadczenie;
-- **3)** informacje o masie zebranych w danym roku kalendarzowym narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne, zgodnie z formatem zgłaszania danych określonym w decyzji wykonawczej Komisji (UE) 2021/958 z dnia 31 maja 2021 r. ustanawiającej format zgłaszania danych i informacji dotyczących wprowadzonych do obrotu narzędzi połowowych oraz zebranych narzędzi połowowych stanowiących odpady w państwach członkowskich i format sprawozdania z kontroli jakości zgodnie z art. 13 ust. 1 lit. d i art. 13 ust. 2 dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/904.
+Zawiadomienie, o którym mowa w ust. 1 i 3, powinno zawierać:
 
-**Art. 9.**
+### 1)
 
-1. Wpisowi do rejestru, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, w zakresie swojej działalności, podlegają:
+nazwę i siedzibę lub imię i nazwisko oraz adres przedsiębiorcy,
 
-- **1)** przedsiębiorcy:
-    - **a)** wprowadzający do obrotu produkty,
-    - **b)** o których mowa w art. 3b ust. 1 i 2,
-    - **c)** prowadzący odzysk lub recykling odpadów powstałych z produktów,
-    - **d)** dokonujący eksportu oraz wewnątrzwspólnotowej dostawy odpadów powstałych z produktów w celu poddania ich odzyskowi lub recyklingowi;
+### 2)
 
-- **2)** organizacja;
-- **3)** autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1;
-- **4)** przedsiębiorca prowadzący portowe urządzenia do odbioru odpadów lub przedsiębiorca prowadzący inne równoważne systemy zbierania.
+datę rozpoczęcia lub likwidacji działalności, o której mowa w ust. 1,
 
-2. Przedsiębiorca, o którym mowa w ust. 1 pkt 1 lit. a, oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do umieszczania numeru rejestrowego, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, na dokumentach sporządzanych w związku z wykonywaniem działalności w zakresie objętym wpisem do rejestru, o którym mowa w art. 49 ust. 1 tej ustawy.
+### 3)
 
-**Art. 10.** Przedsiębiorcy, o których mowa w art. 3k ust. 1 i 2, art. 4 ust. 1 pkt 1 i art. 8d ust. 1, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania sprawozdań zawierających informacje, o których mowa w art. 73 ust. 2 pkt 1, pkt 2 lit. a–d i f, pkt 3 lit. a–c i pkt 3a ustawy z dnia 14 grudnia 2012 r. o odpadach, na zasadach i w trybie określonych w tej ustawie.
+określenie rodzaju działalności,
 
-**Art. 10a.** Minister właściwy do spraw klimatu sporządza i przekazuje Komisji Europejskiej sprawozdanie zawierające informacje o:
+### 4)
 
-**Art. 11.**
+wskazanie sposobu wykonania obowiązku, o którym mowa w art. 4 ust. 1.
 
-1. Przedsiębiorca i organizacja odzysku są obowiązani do prowadzenia dodatkowej ewidencji, obejmującej informacje o:
+### 5.
 
-- **1)** masie wprowadzonych do obrotu produktów, z podziałem na poszczególne ich rodzaje – w przypadku przedsiębiorcy;
-- **2)** wykazie przedsiębiorców, w imieniu których działa organizacja oraz masie wprowadzonych do obrotu przez przedsiębiorców produktów, z podziałem na poszczególne ich rodzaje – w przypadku organizacji.
+Jeżeli dane, o których mowa w ust. 4, ulegną zmianie, przedsiębiorca jest obowiązany zgłosić ją marszałkowi województwa nie później niż do końca miesiąca następującego po miesiącu, w którym nastąpiła zmiana.
 
-2. Informacje o:
+### 6.
 
-- **1)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje – w przypadku przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1,
-- **2)** masie poddanych odzyskowi i recyklingowi odpadów powstałych z produktów, z podziałem na poszczególne ich rodzaje – w przypadku organizacji – są ustalane na podstawie odpowiednio dokumentu potwierdzającego recykling albo dokumentu potwierdzającego inne niż recykling procesy odzysku.
+Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1 i 3, kierując się potrzebą ujednolicenia zawiadomień.
 
-3. Dokumenty, o których mowa w ust. 2, sporządza się za pośrednictwem indywidualnego konta w BDO.
+### Art. 10.
 
-4. Dokumenty, o których mowa w ust. 2, są sporządzane przez prowadzącego odzysk lub recykling na wniosek złożony za pośrednictwem indywidualnego konta w BDO przez przedsiębiorcę lub organizację, przekazujących odpady do odzysku lub recyklingu, w terminie 7 dni od dnia wpływu wniosku.
+### 1.
 
-5. W przypadku gdy przedsiębiorca lub organizacja korzysta z usług innego posiadacza odpadów w przekazaniu odpadów do odzysku i recyklingu wniosek, o którym mowa w ust. 4, składa w ich imieniu posiadacz odpadów.
+Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, jest obowiązany do złożenia sprawozdania rocznego, zawierającego informacje o:
 
-6. Prowadzący odzysk lub recykling udostępnia dokumenty, o których mowa w ust. 2, za pośrednictwem indywidualnego konta w BDO, przekazującemu odpady do odzysku lub recyklingu oraz marszałkowi województwa, w terminie, o którym mowa w ust. 4.
+### 1)
 
-6a. Dokumenty, o których mowa w ust. 2, zawierają odpowiednio:
+nazwie i siedzibie lub imieniu i nazwisku oraz adresie przedsiębiorcy,
 
-- **1)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, przedsiębiorcy albo organizacji odzysku, dla których przeznaczony jest dokument;
-- **2)** imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu prowadzącego odzysk albo recykling;
-- **3)** informacje o masie odpadów przyjętych do odzysku lub recyklingu z podziałem na poszczególne ich rodzaje, o numerze karty przekazania odpadów potwierdzającej ich przyjęcie, a także o sposobie ich odzysku lub recyklingu.
+### 2)
 
-7. (uchylony)
+odpowiednio masie lub ilości opakowań, wymienionych w załączniku nr 1 do ustawy, w których sprzedał produkty, lub sprzedanych produktów wymienionych w załącznikach nr 2 i 3 do ustawy, z podziałem na poszczególne ich rodzaje,
 
-8. W przypadku eksportu odpadów lub wewnątrzwspólnotowej dostawy odpadów w celu poddania odzyskowi lub recyklingowi, masę lub ilość odpadów ustala się na podstawie dokumentu potwierdzającego ten eksport lub faktury potwierdzającej wewnątrzwspólnotową dostawę odpadów.
+### 3)
 
-8a. W przypadku eksportu odpadów w celu poddania ich odzyskowi lub recyklingowi przedsiębiorca jest obowiązany przedstawić również oświadczenie, że odzysk lub recykling odbywa się w instalacjach spełniających takie same wymagania jak określone dla instalacji eksploatowanych na terytorium kraju.
+odpowiednio masie lub ilości odzyskanych i poddanych recyklingowi odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje,
 
-9. W przypadku gdy przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, samodzielnie dokonuje odzysku lub recyklingu odpadów, masę lub ilość odpadów poddanych odzyskowi lub recyklingowi ustala się na podstawie ewidencji odpadów prowadzonej przez tego przedsiębiorcę.
+### 4)
 
-10. Przedsiębiorca i organizacja odzysku są obowiązani do przechowywania dodatkowej ewidencji, o której mowa w ust. 1, oraz dokumentów, o których mowa w ust. 8 i 8a, przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą.
+osiągniętych poziomach odzysku i recyklingu odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje.
 
-**Art. 11a.** (uchylony)
+### 2.
 
-**Art. 11b.**
+Organizacja jest obowiązana do złożenia sprawozdania rocznego, zawierającego informacje o:
 
-1. Przedsiębiorca wprowadzający do obrotu:
+### 1)
 
-- **1)** produkty jednorazowego użytku z tworzyw sztucznych wymienione w pkt 5– 9 załącznika nr 10 do ustawy,
-- **2)** narzędzia połowowe zawierające tworzywa sztuczne – jest obowiązany do finansowania publicznych kampanii edukacyjnych.
+nazwie i siedzibie oraz adresie organizacji,
 
-2. Publiczne kampanie edukacyjne obejmują wszelkie działania mające na celu podnoszenie świadomości ekologicznej społeczeństwa w zakresie prawidłowego postępowania z odpadami powstałymi z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy oraz narzędziami połowowymi stanowiącymi odpady zawierającymi tworzywa sztuczne, wspomagające osiągnięcie wysokiego poziomu selektywnego zbierania tych odpadów, w tym informowanie przy wykorzystaniu środków masowego przekazu, ulotek, broszur informacyjnych i plakatów oraz organizowanie konkursów, konferencji i akcji o charakterze informacyjno-edukacyjnym.
+### 2)
 
-3. Publiczne kampanie edukacyjne powinny uwzględniać informowanie społeczeństwa o:
+wykazie przedsiębiorców, w imieniu których działała,
 
-- **1)** dostępności alternatywnych produktów wielokrotnego użytku i metod gospodarowania odpadami powstałymi z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy oraz narzędziami połowowymi stanowiącymi odpady zawierającymi tworzywa sztuczne;
-- **2)** dobrych praktykach w zakresie należytego gospodarowania odpadami;
-- **3)** wpływie zaśmiecania oraz nieodpowiedniego unieszkodliwiania odpadów powstałych z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy oraz narzędzi połowowych stanowiących odpady zawierających tworzywa sztuczne na środowisko, w szczególności środowisko morskie;
-- **4)** wpływie na sieci kanalizacyjne nieodpowiednich sposobów unieszkodliwiania odpadów powstających z produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy.
+### 3)
 
-4. Przedsiębiorca, o którym mowa w ust. 1, wykonując obowiązek, o którym mowa w ust. 1, opłatę, obliczoną zgodnie z ust. 6:
+odpowiednio masie lub ilości opakowań, wymienionych w załączniku nr 1 do ustawy, w których przedsiębiorcy wymienieni w wykazie sprzedali produkty, lub sprzedanych przez przedsiębiorców produktów, wymienionych w załącznikach nr 2 i 3 do ustawy, z podziałem na poszczególne ich rodzaje,
 
-- **1)** przeznacza w terminie do dnia 1 marca roku kalendarzowego następującego po roku kalendarzowym, którego dotyczy opłata, na publiczne kampanie edukacyjne lub
-- **2)** wnosi na odrębny rachunek bankowy właściwego urzędu marszałkowskiego w terminie do dnia 15 marca roku kalendarzowego następującego po roku kalendarzowym, którego dotyczy opłata, na publiczne kampanie edukacyjne.
+### 4)
 
-5. Przedsiębiorca wprowadzający do obrotu wyroby tytoniowe z filtrami zawierającymi tworzywa sztuczne i filtry zawierające tworzywa sztuczne sprzedawane do używania łącznie z wyrobami tytoniowymi realizuje obowiązek, o którym mowa w ust. 1, wnosząc opłatę zgodnie z ust. 4 pkt 2.
+odpowiednio masie lub ilości odzyskanych i poddanych recyklingowi odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje,
 
-6. Opłata, o której mowa w ust. 4, zwana dalej „opłatą na publiczne kampanie edukacyjne”, stanowi iloczyn stawki, o której mowa odpowiednio w ust. 7, oraz odpowiednio masy lub liczby sztuk wprowadzonych do obrotu w roku kalendarzowym, którego dotyczy opłata, produktów jednorazowego użytku z tworzyw sztucznych wymienionych w pkt 5–9 załącznika nr 10 do ustawy oraz narzędzi połowowych zawierających tworzywa sztuczne.
+### 5)
 
-7. Stawka opłaty na publiczne kampanie edukacyjne wynosi:
+osiągniętych poziomach odzysku i recyklingu odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje.
 
-- **1)** 0,05 zł za 1 kg wprowadzonego do obrotu produktu wymienionego w pkt 8 załącznika nr 10 do ustawy oraz narzędzi połowowych zawierających tworzywa sztuczne;
-- **2)** 0,01 zł za 10 sztuk wprowadzonych do obrotu produktów wymienionych w pkt 5 załącznika nr 10 do ustawy;
-- **3)** 0,01 zł za sztukę wprowadzonych do obrotu produktów wymienionych w pkt 6, 7 i 9 załącznika nr 10 do ustawy.
+### 3.
 
-8. W przypadku produktów, o których mowa w pkt 5–7 i 9 załącznika nr 10 do ustawy, za produkty jednostkowe uznaje się łącznie produkty umieszczone w opakowaniach jednostkowych, w których te produkty są oferowane użytkownikom końcowym.
+Sprawozdania roczne, o których mowa w ust. 1 i 2, składane są marszałkowi województwa w terminie do dnia 31 marca następnego roku.
 
-9. Marszałek województwa prowadzi odrębny rachunek bankowy w celu gromadzenia i przekazywania wpływów z tytułu opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2.
+### Art. 11.
 
-10. Wpływy z tytułu opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2, powiększone o przychody z oprocentowania rachunku bankowego i pomniejszone o dochody, o których mowa w ust. 11, marszałek województwa przekazuje na rachunek bankowy Narodowego Funduszu w terminie 30 dni po upływie każdego kwartału.
+### 1.
 
-11. Wpływy z tytułu opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2 stanowią w wysokości 5 % dochody budżetu samorządu województwa z przeznaczeniem na obsługę rozliczenia wykonania obowiązku prowadzenia publicznych kampanii edukacyjnych.
+Przedsiębiorca i organizacja obowiązani są do prowadzenia dodatkowej ewidencji, uwzględniając także wymagania wynikające z odrębnych przepisów, w sposób umożliwiający ustalenie uzyskanych poziomów odzysku i recyklingu oraz obliczenie opłaty produktowej.
 
-12. W przypadku gdy przedsiębiorca, o którym mowa w ust. 1, nie przeznaczył na publiczne kampanie edukacyjne w terminie, o którym mowa w ust. 4 pkt 1, kwoty co najmniej równej opłacie na publiczne kampanie edukacyjne obliczonej zgodnie z ust. 6, wysokość opłaty, o której mowa w ust. 4 pkt 2, ulega obniżeniu o kwotę faktycznie przeznaczoną przez tego przedsiębiorcę na publiczne kampanie edukacyjne.
+### 2.
 
-13. Przedsiębiorca, o którym mowa w ust. 1, składa sprawozdanie o przeprowadzonych publicznych kampaniach edukacyjnych w ramach rocznego sprawozdania, o którym mowa w art. 73 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach.
+Przedsiębiorca i organizacja są obowiązani do przechowywania dodatkowej ewidencji, o której mowa w ust. 1, oraz innych dokumentów, o których mowa w art. 10 i 15, przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą.
 
-14. Przedsiębiorca, o którym mowa w ust. 1, nie finansuje publicznych kampanii edukacyjnych, jeżeli wysokość opłaty na publiczne kampanie edukacyjne obliczona zgodnie z ust. 6 nie przekracza 10 zł w danym roku kalendarzowym.
+### Rozdział 3 Opłata produktowa
 
-15. W sprawach dotyczących opłaty na publiczne kampanie edukacyjne wnoszonej na podstawie ust. 4 pkt 2 stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+### Art. 12.
 
-#### Rozdział 3 Opłata produktowa
+### 1.
 
-**Art. 12.**
+Rozliczenie wykonania obowiązku, o którym mowa w art. 3, następuje na koniec roku kalendarzowego.
 
-1. Rozliczenie wykonania obowiązków, o których mowa w art. 3 oraz w art. 8d ust. 3, następuje na koniec roku kalendarzowego.
+### 2.
 
-2. Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, organizacja albo przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, którzy nie wykonali obowiązków, o których mowa odpowiednio w art. 3 albo w art. 8d ust. 3, są obowiązani do wniesienia opłaty produktowej, obliczonej oddzielnie w przypadku nieosiągnięcia odpowiednio wymaganego poziomu:
+Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, albo organizacja, o której mowa w art. 4 ust. 1 pkt 2, którzy nie wykonali obowiązku, o którym mowa w art. 3, są obowiązani do wpłacania opłaty produktowej, obliczonej oddzielnie w przypadku nieosiągnięcia wymaganego poziomu:
 
-- **1)** odzysku;
-- **2)** recyklingu;
-- **3)** zbierania.
+### 1)
 
-2a. Do ponoszenia opłaty produktowej jest obowiązany również przedsiębiorca, który nie wykonuje obowiązku zapewnienia odzysku i recyklingu odpadów powstałych z produktów w sposób określony w art. 4 ust. 1.
+odzysku,
 
-3. Opłatę produktową oblicza się jako iloczyn stawki opłaty produktowej i różnicy między wymaganym a osiągniętym poziomem odpowiednio odzysku, recyklingu albo zbierania, przeliczonej na wielkość wyrażoną w masie produktów.
+### 2)
 
-3a. (uchylony)
+recyklingu.
 
-4. Opłatę produktową oblicza się oddzielnie dla każdego rodzaju produktu.
+### 3.
 
-5. Nie wnosi się opłaty produktowej, której łączna roczna wysokość dla wszystkich produktów nie przekracza 100 zł.
+Opłatę produktową oblicza się jako iloczyn stawki opłaty i różnicy pomiędzy wymaganym a osiągniętym poziomem odzysku (recyklingu) przeliczonej na wielkość wyrażoną w masie albo ilości produktów lub opakowań, z wyłączeniem przedsiębiorcy wprowadzającego na rynek krajowy, w drodze sprzedaży lub importu, akumulatory ołowiowe (kwasowe).
 
-**Art. 13.** Podstawę obliczenia opłaty produktowej stanowi masa produktów w kilogramach.
+### 4.
 
-**Art. 14.**
+Opłatę produktową oblicza się oddzielnie dla każdego rodzaju opakowań wymienionych w załączniku nr 1 do ustawy i produktów wymienionych w załączniku nr 2 do ustawy (z wyłączeniem produktów określonych w poz. 4) oraz w załączniku nr 3 do ustawy.
 
-1. Maksymalna stawka opłaty produktowej wynosi:
+### Art. 13.
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** (uchylony)
-- **5)** (uchylony)
-- **6)** (uchylony)
-- **7)** (uchylony)
-- **8)** dla produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy – 2,71 zł za 1 kg;
-- **9)** dla produktów wymienionych w poz. 3 i 4 w załączniku nr 4a do ustawy – 5,80 zł za 1 kg;
-- **10)** dla produktów wymienionych w poz. 5 w załączniku nr 4a do ustawy – 10,82 zł za 1 kg;
-- **11)** dla narzędzi połowowych zawierających tworzywa sztuczne – 5 zł za 1 kg.
+Podstawę obliczenia opłaty produktowej stanowi:
 
-2. (uchylony)
+### 1)
 
-3. (uchylony)
+masa w kilogramach - dla opakowań wymienionych w załączniku nr 1 do ustawy oraz produktów wymienionych w poz. 1 i 3 w załączniku nr 3 do ustawy,
 
-4. Minister właściwy do spraw klimatu w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe stawki opłat produktowych dla poszczególnych produktów, o których mowa w ust. 1, kierując się negatywnym oddziaływaniem na środowisko odpadów powstałych z produktów, kosztami ich zagospodarowania.
+### 2)
 
-**Art. 15.** Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorca wprowadzający do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorca wprowadzający do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacja oraz autoryzowany przedstawiciel, o którym mowa w art. 8a ust. 1, są obowiązani do sporządzania rocznego sprawozdania, o którym mowa w art. 73 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, zawierającego informacje, o których mowa w art. 73 ust. 2 pkt 1, ust. 2 pkt 2 lit. e, ust. 2 pkt 3 lit. d oraz ust. 2 pkt 3a tej ustawy.
+ilość w sztukach - dla produktów wymienionych w załączniku nr 2 do ustawy oraz dla produktów wymienionych w poz. 2 w załączniku nr 3 do ustawy.
 
-**Art. 16.**
+### Art. 14.
 
-1. Obowiązek wpłacenia opłaty produktowej, obliczonej w sposób określony w art. 12, powstaje na koniec roku kalendarzowego.
+### 1.
 
-2. Opłata produktowa jest wpłacana na odrębny rachunek bankowy urzędu marszałkowskiego do dnia 31 marca roku kalendarzowego następującego po roku, którego opłata dotyczy.
+Maksymalna stawka opłaty produktowej wynosi:
 
-**Art. 17.**
+### 1)
 
-1. W razie stwierdzenia, że przedsiębiorca lub organizacja, pomimo ciążącego obowiązku, nie dokonała wpłaty opłaty produktowej lub dokonała wpłaty w wysokości niższej od należnej, marszałek województwa wydaje decyzję, w której określa wysokość zaległości z tytułu opłaty produktowej.
+dla opakowań wymienionych w załączniku nr 1 do ustawy - 3 zł za 1 kg,
 
-2. W przypadku niewykonania decyzji określonej w ust. 1 marszałek województwa ustala, w drodze decyzji, dodatkową opłatę produktową w wysokości odpowiadającej 50 % kwoty niewpłaconej opłaty produktowej.
+### 2)
 
-3. Termin płatności opłat, o których mowa w ust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja ustalająca wysokość opłaty stała się ostateczna.
+dla produktów wymienionych w poz. 1-3 w załączniku nr 2 do ustawy - 150 zł za sztukę,
 
-**Art. 18.** (uchylony)
+### 3)
 
-**Art. 19.** Do opłat produktowych w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+dla produktów wymienionych w poz. 5 w załączniku nr 2 do ustawy - 50 zł za sztukę,
 
-#### Rozdział 4
+### 4)
 
-#### Rozdział 5 Obowiązki organów administracji publicznej
+dla produktów wymienionych w poz. 6 w załączniku nr 2 do ustawy - 5 zł za sztukę,
 
-**Art. 24.** (uchylony)
+### 5)
 
-**Art. 25.**
+dla produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy - 2 zł za 1 kg,
 
-1. Przez marszałka województwa oraz urząd marszałkowski rozumie się marszałka województwa lub urząd marszałkowski właściwych ze względu na siedzibę albo miejsce zamieszkania przedsiębiorcy, o którym mowa w art. 4 ust. 1 pkt 1, przedsiębiorcy wprowadzającego do obrotu produkty jednorazowego użytku z tworzyw sztucznych, przedsiębiorcy wprowadzającego do obrotu narzędzia połowowe zawierające tworzywa sztuczne, organizacji, autoryzowanego przedstawiciela, o którym mowa w art. 8a ust. 1, oraz producenta, a w przypadku braku siedziby albo miejsca zamieszkania na terytorium kraju – Marszałka Województwa Mazowieckiego lub Urząd Marszałkowski Województwa Mazowieckiego.
+### 6)
 
-2. W przypadku jednostki handlu detalicznego, jednostki handlu hurtowego, jednostki gastronomicznej lub urządzenia vendingowego właściwym marszałkiem województwa jest marszałek województwa właściwy ze względu na miejsce pobrania opłaty.
+dla produktów wymienionych w poz. 2 w załączniku nr 3 do ustawy - 3 zł za sztukę,
 
-**Art. 26.** (uchylony)
+### 7)
 
-#### Rozdział 6 Zasady gospodarowania środkami pochodzącymi z opłaty produktowej
+dla produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy - 2 zł za 1 kg dla opony nowej i używanej regenerowanej (bieżnikowanej) oraz 8 zł za 1 kg dla opony używanej nieregenerowanej (niebieżnikowanej).
 
-**Art. 27.**
+### 2.
 
-1. Urzędy marszałkowskie prowadzą odrębne rachunki bankowe w celu gromadzenia i odpowiedniego przekazywania wpływów z opłaty produktowej.
+Stawki opłat, określone w ust. 1, podlegają z dniem 1 stycznia każdego roku kalendarzowego podwyższeniu w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, przyjętemu w ustawie budżetowej za rok poprzedni.
 
-2. Wpływy z tytułu opłaty produktowej oraz dodatkowej opłaty produktowej, o której mowa w art. 17 ust. 2, powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody urzędów marszałkowskich, o których mowa w ust. 3, urzędy marszałkowskie przekazują w terminie 30 dni po upływie każdego kwartału na rachunek bankowy Narodowego Funduszu.
+### 3.
 
-3. Wpływy z opłat produktowych w wysokości 2 % stanowią dochody budżetu województwa samorządowego z przeznaczeniem na koszty egzekucji należności z tytułu opłat produktowych i obsługę administracyjną systemu opłat produktowych.
+Minister właściwy do spraw środowiska, nie później niż w terminie do dnia 30 września każdego roku, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość maksymalnych stawek opłat produktowych na następny rok.
 
-**Art. 28.** (uchylony)
+### 4.
 
-**Art. 29.** (uchylony)
+Rada Ministrów, w drodze rozporządzenia, ustali szczegółowe stawki opłat produktowych dla poszczególnych opakowań lub produktów, o których mowa w ust. 1, kierując się negatywnym oddziaływaniem na środowisko odpadów opakowaniowych oraz odpadów poużytkowych z tych produktów, a także kosztami ich zagospodarowania.
 
-**Art. 30.** (uchylony)
+### Art. 15.
 
-**Art. 31.** (uchylony)
+### 1.
 
-**Art. 32.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 3–5 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
+Przedsiębiorca i organizacja, o których mowa w art. 12 ust. 2, są obowiązani do złożenia marszałkowi województwa rocznego sprawozdania o wysokości należnej opłaty produktowej, z podziałem na poszczególne rodzaje opakowań lub produktów i określeniem odpowiednio ich masy lub ilości, w terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego opłata dotyczy.
 
-**Art. 33.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu produktów wymienionych w poz. 1 i 2 w załączniku nr 4a do ustawy są gromadzone na rachunku bankowym Narodowego Funduszu.
+### 2.
 
-**Art. 33a.** Wpływy z tytułu opłaty produktowej od wprowadzenia do obrotu narzędzi połowowych zawierających tworzywa sztuczne są gromadzone na rachunku bankowym Narodowego Funduszu.
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 1, kierując się potrzebą ujednolicenia sprawozdań.
 
-**Art. 34.** (uchylony)
+### Art. 16.
 
-**Art. 34a.** (uchylony)
+### 1.
 
-**Art. 35.** (uchylony)
+Obowiązek wpłacenia opłaty produktowej, obliczonej w sposób określony w art. 12, powstaje na koniec roku kalendarzowego.
 
-**Art. 36.** (uchylony)
+### 2.
 
-#### Rozdział 7 Przepisy karne i administracyjne kary pieniężne
+Opłata produktowa jest wpłacana na odrębny rachunek bankowy urzędu marszałkowskiego do dnia 31 marca roku kalendarzowego następującego po roku, którego opłata dotyczy.
 
-**Art. 37.** (uchylony)
+### Art. 17.
 
-**Art. 37a.** Kto, wbrew przepisom art. 11, prowadząc odzysk lub recykling nie udostępnia dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku:
+### 1.
 
-**Art. 37b.** Kto będąc posiadaczem odpadów, wykonującym usługę polegającą na przekazywaniu odpadów do odzysku lub recyklingu, w imieniu przedsiębiorcy lub organizacji odzysku, nie składa wniosku o wydanie dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku prowadzącemu odzysk lub recykling, podlega karze grzywny.
+W razie stwierdzenia, że przedsiębiorca lub organizacja, pomimo ciążącego obowiązku, nie dokonała wpłaty opłaty produktowej lub dokonała wpłaty w wysokości niższej od należnej, marszałek województwa wydaje decyzję, w której określa wysokość zaległości z tytułu opłaty produktowej wraz z odsetkami za zwłokę naliczonymi od następnego dnia po upływie terminu płatności.
 
-**Art. 38.** (uchylony)
+### 2.
 
-**Art. 39.** (uchylony)
+W przypadku niewykonania decyzji określonej w ust. 1 marszałek województwa ustala, w drodze decyzji, dodatkową opłatę produktową w wysokości odpowiadającej 50% kwoty niewpłaconej opłaty produktowej.
 
-**Art. 40.** Orzekanie w sprawach o czyny określone w art. 37a i art. 37b następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+### 3.
 
-**Art. 40a.** Administracyjnej karze pieniężnej podlega ten, kto:
+Termin płatności opłat, o których mowa w ust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja ustalająca wysokość opłaty stała się ostateczna.
 
-**Art. 40b.**
+### Art. 18.
 
-1. Administracyjne kary pieniężne wynoszą w przypadkach, o których mowa w art. 40a:
+### 1.
 
-- **1)** pkt 1–6 – od 500 zł do 20 000 zł;
-- **2)** pkt 7 i 15 – od 10 000 zł do 500 000 zł;
-- **3)** pkt 8–14 – od 10 000 zł do 100 000 zł.
+W razie nieterminowego uiszczenia opłat produktowych lub uiszczenia ich w wysokości niższej od kwoty należnej naliczane są odsetki za zwłokę w wysokości i na zasadach określonych w przepisach działu III ustawy - Ordynacja podatkowa.
 
-2. Administracyjne kary pieniężne za naruszenia, o których mowa w art. 40a pkt 1–3, wymierza, w drodze decyzji, właściwy wojewódzki inspektor Inspekcji Handlowej.
+### 2.
 
-3. Administracyjne kary pieniężne za naruszenia, o których mowa w art. 40a pkt 4–15, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
+Do opłat produktowych stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-4. Przy ustalaniu wysokości administracyjnej kary pieniężnej uwzględnia się stopień szkodliwości naruszenia, rodzaj, zakres i okres trwania naruszenia oraz dotychczasową działalność podmiotu.
+### 3.
 
-5. Jeżeli podmiot podlegający ukaraniu przedstawi dowody i okoliczności wskazujące, że podmiot ten dochował należytej staranności i uczynił wszystko, czego można od niego rozsądnie oczekiwać, aby do naruszenia nie doszło, lub że nie miał żadnego wpływu na powstanie naruszenia, a naruszenie to nastąpiło wskutek zdarzeń i okoliczności, których podmiot nie mógł przewidzieć, nie wszczyna się postępowania w sprawie nałożenia administracyjnej kary pieniężnej wobec tego podmiotu, a postępowanie wszczęte umarza.
+Obowiązek wpłacenia opłaty produktowej przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym wpłata powinna nastąpić.
 
-6. Należności z tytułu administracyjnych kar pieniężnych stanowią dochód budżetu państwa.
+### Art. 19.
 
-**Art. 40c.**
+Do ponoszenia opłat produktowych stosuje się odpowiednio przepisy działu III ustawy - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
 
-1. Do administracyjnych kar pieniężnych nie stosuje się przepisu art. 189f ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+### Rozdział 4 Opłata depozytowa
 
-2. Do administracyjnych kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organu podatkowego przysługują odpowiednio wojewódzkiemu inspektorowi Inspekcji Handlowej oraz wojewódzkiemu inspektorowi ochrony środowiska.
+### Art. 20.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+### 1.
 
-**Art. 41.** (pominięty)
+Sprzedawca detaliczny akumulatora ołowiowego (kwasowego) jest obowiązany przy jego sprzedaży do przyjęcia zużytego akumulatora.
 
-**Art. 42.** (pominięty)
+### 2.
 
-**Art. 43.** Do dnia 1 stycznia 2003 r. kapitał zakładowy spółek akcyjnych– organizacji odzysku może wynosić 500 tys. zł.
+Sprzedawca detaliczny jest obowiązany do pobrania opłaty depozytowej, jeżeli przy sprzedaży akumulatora ołowiowego (kwasowego) kupujący nie przekazał mu zużytego akumulatora.
 
-**Art. 44.** (pominięty)
+### 3.
 
-**Art. 45.** (pominięty)
+Stawka opłaty depozytowej wynosi 30 zł za sztukę.
 
-**Art. 46.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
+### 4.
 
+Sprzedawca detaliczny, o którym mowa w ust. 1, przy sprzedaży akumulatora ołowiowego (kwasowego) potwierdza na fakturze VAT lub paragonie fiskalnym wysokość pobranej opłaty depozytowej.
+
+### Art. 21.
+
+### 1.
+
+Sprzedawca detaliczny, który pobrał opłatę depozytową, jest obowiązany, w terminie 30 dni od daty sprzedaży akumulatora ołowiowego (kwasowego), przyjąć zużyty akumulator i zwrócić opłatę depozytową. Sprzedawca detaliczny potwierdza zwrot opłaty depozytowej na fakturze VAT lub paragonie fiskalnym.
+
+### 2.
+
+Sprzedawca detaliczny, o którym mowa w ust. 1, jest obowiązany do umieszczenia w punkcie sprzedaży akumulatora ołowiowego (kwasowego), w widocznym miejscu, wywieszki informującej o:
+
+### 1)
+
+warunkach i trybie zwrotu zużytego akumulatora i odbioru opłaty depozytowej w punkcie sprzedaży detalicznej i punktach systemu zbiórki zużytych akumulatorów, stworzonych przez przedsiębiorców, których akumulatory ołowiowe (kwasowe) sprzedaje,
+
+### 2)
+
+określonym w przepisach o Inspekcji Handlowej, prawie składania skarg i wniosków, dotyczących nieprawidłowości w realizacji zobowiązań wynikających z ustawy przez sprzedawcę detalicznego,
+
+### 3)
+
+instytucji, do której należy składać skargi i wnioski dotyczące nieprawidłowości w realizacji przez sprzedawcę zobowiązań wynikających z ustawy.
+
+### Art. 22.
+
+Sposób magazynowania zużytych akumulatorów przez sprzedawcę detalicznego nie może naruszać przepisów szczególnych o zasadach odzysku, unieszkodliwiania, zbierania i transportu odpadów niebezpiecznych.
+
+### Art. 23.
+
+### 1.
+
+Przedsiębiorca wytwarzający lub importujący akumulatory ołowiowe (kwasowe) jest obowiązany dołączyć do produktu informację o warunkach i trybie zwrotu zużytego akumulatora oraz o własnych punktach systemu zbiórki tego odpadu.
+
+### 2.
+
+Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany do odebrania na własny koszt od sprzedawcy detalicznego, o którym mowa w art. 20 ust. 1 i art. 21 ust. 1, zużytych akumulatorów i przekazania ich do recyklingu na zasadach określonych w przepisach odrębnych.
+
+### 3.
+
+W przypadku gdy zwrot pobranej opłaty depozytowej przez punkt sprzedaży detalicznej jest niemożliwy z powodu jego likwidacji lub przerwy w działalności, przedsiębiorca wytwarzający lub importujący akumulatory ołowiowe (kwasowe) jest obowiązany, poprzez własne punkty systemu zbiórki, do przyjęcia zużytego akumulatora wprowadzonego przez niego do obrotu i zwrotu opłaty depozytowej, w terminie 45 dni od daty sprzedaży produktu.
+
+### 4.
+
+Zwrot opłaty depozytowej w przypadku określonym w ust. 3 następuje za potwierdzeniem na fakturze VAT lub paragonie fiskalnym, o którym mowa w art. 20 ust. 4.
+
+### 5.
+
+Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany na własny koszt odebrać wszystkie zużyte akumulatory z innych miejsc niż punkty sprzedaży detalicznej i przekazać je do recyklingu.
+
+### Rozdział 5 Obowiązki organów administracji publicznej
+
+### Art. 24.
+
+### 1.
+
+Marszałek województwa jest obowiązany do przesyłania ministrowi właściwemu do spraw środowiska oraz Narodowemu Funduszowi sprawozdania zawierającego informację o:
+
+### 1)
+
+wielkościach wprowadzonych na rynek krajowy opakowań i produktów, z podziałem na poszczególne rodzaje opakowań i produktów, z wyszczególnieniem odpowiednio masy lub ilości,
+
+### 2)
+
+osiągniętych wielkościach odzysku i recyklingu odpadów opakowaniowych i poużytkowych, z wyszczególnieniem odpowiednio masy lub ilości,
+
+### 3)
+
+wpływach z opłat produktowych wraz z odsetkami, z podziałem na poszczególne rodzaje opakowań i produktów
+
+w terminie do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
+
+### 2.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, wzór sprawozdania, o którym mowa w ust. 1, kierując się potrzebą ujednolicenia sprawozdań.
+
+### Art. 25.
+
+Przez marszałka województwa oraz urząd marszałkowski rozumie się marszałka województwa lub urząd marszałkowski właściwy ze względu na siedzibę lub miejsce zamieszkania przedsiębiorcy wprowadzającego na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy lub produkty wymienione w załącznikach nr 2 i 3 do ustawy, oraz organizacji, a w przypadku braku siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej - Marszałka Województwa Mazowieckiego lub Urząd Marszałkowski Województwa Mazowieckiego.
+
+### Art. 26.
+
+Nadzór nad wykonaniem przez sprzedawców detalicznych i przedsiębiorców obowiązków wynikających z rozdziału 4 ustawy sprawuje Inspekcja Handlowa.
+
+### Rozdział 6 Zasady gospodarowania środkami pochodzącymi z opłaty produktowej
+
+### Art. 27.
+
+### 1.
+
+Urzędy marszałkowskie prowadzą odrębne rachunki bankowe w celu gromadzenia i odpowiedniego przekazywania wpływów z opłaty produktowej.
+
+### 2.
+
+Wpływy z tytułu opłaty produktowej powiększone o przychody z oprocentowania rachunków bankowych i pomniejszone o dochody urzędów marszałkowskich, o których mowa w ust. 3, urzędy marszałkowskie przekazują w terminie 5 dni po upływie terminu, o którym mowa w art. 16 ust. 2, na odrębny rachunek bankowy Narodowego Funduszu.
+
+### 3.
+
+Wpływy z opłat produktowych w wysokości 0,5% stanowią dochody budżetu województwa samorządowego z przeznaczeniem na koszty egzekucji należności z tytułu opłat produktowych i obsługę administracyjną systemu opłat produktowych.
+
+### Art. 28.
+
+### 1.
+
+Wpływy pochodzące z dodatkowej opłaty produktowej określonej w art. 17 ust. 2 są przekazywane na rachunek Narodowego Funduszu, w terminie 10 dni od ich wpływu na rachunek urzędu marszałkowskiego.
+
+### 2.
+
+Środki, o których mowa w ust. 1, przeznaczone są na cele określone w art. 29 ust. 5.
+
+### Art. 29.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów w opakowaniach wymienionych w załączniku nr 1 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+W terminie do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego opłata dotyczy, Narodowy Fundusz przekazuje 70% zgromadzonych środków wojewódzkim funduszom na zasadach określonych w ust. 4.
+
+### 3.
+
+Wojewódzkie fundusze, w terminie do dnia 31 maja, przekazują gminom (związkom gmin) środki, o których mowa w ust. 2, na zasadach określonych w ust. 4.
+
+### 4.
+
+Środki pochodzące z opłat produktowych za opakowania, powiększone o przychody z oprocentowania, przekazywane są wojewódzkim funduszom, a następnie gminom (związkom gmin), proporcjonalnie do ilości odpadów opakowaniowych przekazanych do odzysku i recyklingu, wykazanych w sprawozdaniach, o których mowa w art. 35 ust. 1 i 4, na cele, o których mowa w ust. 5.
+
+### 5.
+
+Pozostałe środki zgromadzone na rachunku bankowym Narodowy Fundusz przeznacza na finansowanie działań w zakresie:
+
+### 1)
+
+odzysku i recyklingu odpadów opakowaniowych,
+
+### 2)
+
+edukacji ekologicznej dotyczącej selektywnej zbiórki i recyklingu odpadów opakowaniowych.
+
+### Art. 30.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych w poz. 5 i 6 w załączniku nr 2 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+Środki, o których mowa w ust. 1, Narodowy Fundusz przeznacza na finansowanie działań w zakresie:
+
+### 1)
+
+odzysku i recyklingu odpadów poużytkowych powstałych z akumulatorów niklowo-kadmowych oraz baterii i ogniw galwanicznych,
+
+### 2)
+
+edukacji ekologicznej dotyczącej selektywnej zbiórki i recyklingu odpadów poużytkowych z akumulatorów niklowo-kadmowych oraz baterii i ogniw galwanicznych.
+
+### Art. 31.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych w poz. 1-3 w załączniku nr 2 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+Środki, o których mowa w ust. 1, Narodowy Fundusz przeznacza na finansowanie działań w zakresie:
+
+### 1)
+
+odzysku i recyklingu odpadów poużytkowych powstałych z urządzeń chłodniczych i klimatyzacyjnych,
+
+### 2)
+
+przedsięwzięć, w tym edukacji ekologicznej, prowadzących do ograniczenia użycia substancji zubożających warstwę ozonową w urządzeniach chłodniczych i klimatyzacyjnych.
+
+### Art. 32.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych w poz. 3 w załączniku nr 3 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+Środki, o których mowa w ust. 1, Narodowy Fundusz przeznacza na finansowanie przedsięwzięć, w tym edukacji ekologicznej, prowadzących do odzysku, recyklingu i unieszkodliwiania odpadów poużytkowych z opon.
+
+### Art. 33.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych w poz. 1 w załączniku nr 3 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+Środki, o których mowa w ust. 1, Narodowy Fundusz przeznacza na finansowanie zbierania i regeneracji odpadów poużytkowych z olejów smarowych oraz na edukację ekologiczną w tym zakresie.
+
+### Art. 34.
+
+### 1.
+
+Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych w poz. 2 w załączniku nr 3 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
+
+### 2.
+
+Środki, o których mowa w ust. 1, Narodowy Fundusz przeznacza na finansowanie działań w zakresie:
+
+### 1)
+
+odzysku, recyklingu i unieszkodliwiania odpadów poużytkowych z lamp wyładowczych,
+
+### 2)
+
+edukacji ekologicznej dotyczącej selektywnej zbiórki i recyklingu odpadów poużytkowych z lamp wyładowczych.
+
+### Art. 35.
+
+### 1.
+
+Zarząd gminy (zarząd związku gmin) jest obowiązany do sporządzenia rocznego sprawozdania zawierającego informacje o:
+
+### 1)
+
+rodzaju i ilości odpadów opakowaniowych zebranych przez gminę (związek gmin) lub podmiot działający w ich imieniu,
+
+### 2)
+
+rodzaju i ilości odpadów opakowaniowych przekazanych przez gminę (związek gmin) lub podmiot działający w ich imieniu do odzysku i recyklingu,
+
+### 3)
+
+wydatkach poniesionych na działania określone w pkt 1 i 2.
+
+### 2.
+
+Zarząd gminy (zarząd związku gmin) jest obowiązany przechowywać przez 5 lat dokumenty potwierdzające przekazanie odpadów opakowaniowych do odzysku i recyklingu.
+
+### 3.
+
+Sprawozdanie, o którym mowa w ust. 1, zarząd gminy (zarząd związku gmin) przekazuje, w terminie do dnia 15 lutego roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie, marszałkowi województwa i wojewódzkiemu funduszowi, właściwemu ze względu na siedzibę gminy (związku gmin).
+
+### 4.
+
+Wojewódzkie fundusze są obowiązane przekazać ministrowi właściwemu do spraw środowiska oraz Narodowemu Funduszowi zbiorczą informację o rodzaju i ilości odpadów opakowaniowych zebranych przez gminy na terenie danego województwa oraz przekazanych do odzysku i recyklingu, w terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego dotyczy informacja, a w terminie do dnia 30 czerwca - informację o przekazanych gminom (związkom gmin) środkach pochodzących z opłat produktowych za opakowania.
+
+### Art. 36.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki i ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe zasady i kryteria gospodarowania środkami z opłat produktowych, kierując się koniecznością uproszczenia procedur przyznawania środków i ułatwienia korzystania z nich.
+
+### Rozdział 7 Przepisy karne
+
+### Art. 37.
+
+Kto, będąc przedsiębiorcą prowadzącym organizację odzysku lub działalność polegającą na wytwarzaniu lub imporcie produktów w opakowaniach lub produktów, określonych w załącznikach nr 1-3 do ustawy:
+
+### 1)
+
+nie składa zawiadomienia o rozpoczęciu lub likwidacji tej działalności marszałkowi województwa, lub nie zawiadamia o zmianach w działalności, lub składa zawiadomienia nierzetelne, lub
+
+### 2)
+
+nie składa sprawozdań o opakowaniach lub produktach, osiągniętych poziomach odzysku lub recyklingu oraz o należnej opłacie produktowej lub składa sprawozdania nierzetelne,
+
+podlega karze grzywny.
+
+### Art. 38.
+
+Sprzedawca detaliczny akumulatorów ołowiowych (kwasowych), który:
+
+### 1)
+
+nie przyjmuje zużytego akumulatora lub nie zwraca opłaty depozytowej, lub
+
+### 2)
+
+nie umieszcza w punkcie sprzedaży informacji o systemie zbiórki zużytych akumulatorów,
+
+podlega karze grzywny.
+
+### Art. 39.
+
+Przedsiębiorca lub importer wprowadzający do obrotu akumulatory ołowiowe (kwasowe), który:
+
+### 1)
+
+nie dołącza do akumulatorów ołowiowych (kwasowych) informacji o warunkach i trybie zwrotu zużytych akumulatorów oraz o punktach systemu zbiórki odpadu,
+
+### 2)
+
+nie odbiera od sprzedawców detalicznych lub z innych miejsc niż punkty sprzedaży detalicznej zużytych akumulatorów,
+
+podlega karze grzywny.
+
+### Art. 40.
+
+Orzekanie w sprawach o czyny określone w art. 37-39 następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia.
+
+### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 41.
+
+W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym ([Dz. U. Nr 11, poz. 50](https://api.sejm.gov.pl/eli/acts/DU/1993/50/text.html), [Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html)i [Nr 129, poz. 599](https://api.sejm.gov.pl/eli/acts/DU/1993/599/text.html), z [1994 r. Nr 132, poz. 670](https://api.sejm.gov.pl/eli/acts/DU/1994/670/text.html), z [1995 r. Nr 44, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1995/231/text.html)i [Nr 142, poz. 702 i 703](https://api.sejm.gov.pl/eli/acts/DU/1995/702/text.html), z [1996 r. Nr 137, poz. 640](https://api.sejm.gov.pl/eli/acts/DU/1996/640/text.html), z [1997 r. Nr 111, poz. 722](https://api.sejm.gov.pl/eli/acts/DU/1997/722/text.html), [Nr 123, poz. 776 i 780](https://api.sejm.gov.pl/eli/acts/DU/1997/776/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html)i [Nr 162, poz. 1104](https://api.sejm.gov.pl/eli/acts/DU/1997/1104/text.html), z [1998 r. Nr 139, poz. 905](https://api.sejm.gov.pl/eli/acts/DU/1998/905/text.html)i [Nr 161, poz. 1076](https://api.sejm.gov.pl/eli/acts/DU/1998/1076/text.html), z [1999 r. Nr 50, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/1999/499/text.html), [Nr 57, poz. 596](https://api.sejm.gov.pl/eli/acts/DU/1999/596/text.html)i [Nr 95, poz. 1100](https://api.sejm.gov.pl/eli/acts/DU/1999/1100/text.html), z [2000 r. Nr 68, poz. 805](https://api.sejm.gov.pl/eli/acts/DU/2000/805/text.html)i [Nr 105, poz. 1107](https://api.sejm.gov.pl/eli/acts/DU/2000/1107/text.html)oraz z [2001 r. Nr 12, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/2001/92/text.html), [Nr 39, poz. 459](https://api.sejm.gov.pl/eli/acts/DU/2001/459/text.html)i [Nr 56, poz. 580](https://api.sejm.gov.pl/eli/acts/DU/2001/580/text.html)) w załączniku nr 6 „Wykaz wyrobów akcyzowych” skreśla się poz. 20 „Opakowania z tworzyw sztucznych, w tym również zastosowane do towarów w nich importowanych”.
+
+### Art. 42.
+
+W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. Nr 77, poz. 335](https://api.sejm.gov.pl/eli/acts/DU/1991/335/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 133, poz. 885](https://api.sejm.gov.pl/eli/acts/DU/1997/885/text.html)i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html), z [2000 r. Nr 12, poz. 136](https://api.sejm.gov.pl/eli/acts/DU/2000/136/text.html)i [Nr 109, poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2000/1157/text.html)oraz z [2001 r. Nr 38, poz. 452](https://api.sejm.gov.pl/eli/acts/DU/2001/452/text.html)i [Nr 63, poz. 638](https://api.sejm.gov.pl/eli/acts/DU/2001/638/text.html)) w art. 2 w ust. 1 w pkt 11 kropkę zastępuje się przecinkiem i dodaje pkt 12 w brzmieniu:
+
+„
+
+### 12)
+
+kontrola przestrzegania przepisów o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej i opłacie depozytowej.
+
+”
+
+### Art. 43.
+
+Do dnia 1 stycznia 2003 r. kapitał zakładowy spółek akcyjnych-organizacji odzysku może wynosić 500 tys. zł.
+
+### Art. 44.
+
+### 1.
+
+Przedsiębiorca, który w dniu wejścia w życie ustawy wprowadza na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy lub produkty wymienione w załącznikach nr 2 i 3 do ustawy, jest obowiązany bez wezwania zgłosić ten fakt marszałkowi województwa, w terminie 30 dni od dnia wejścia w życie ustawy.
+
+### 2.
+
+Do przedsiębiorcy, o którym mowa w ust. 1, stosuje się przepisy art. 9 ust. 4.
+
+### Art. 45.
+
+### 1.
+
+Przepisów ustawy nie stosuje się do dnia 1 stycznia 2004 r. w stosunku do przedsiębiorców, którzy w 2000 r. spełnili łącznie następujące warunki:
+
+### 1)
+
+osiągnęli przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych poniżej 500 tys. zł,
+
+### 2)
+
+nie dokonywali do dnia 31 grudnia 2000 r. importu towarów używanych lub odpadów, z zastrzeżeniem ust. 2 i 3.
+
+### 2.
+
+Przedsiębiorca, który osiągnie w 2001 r. przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych ponad 500 tys. zł lub dokona w tym czasie importu towarów używanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2002 r.
+
+### 3.
+
+Przedsiębiorca, który osiągnie w 2002 r. przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych ponad 500 tys. zł lub dokona w tym czasie importu towarów używanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2003 r.
+
+### Art. 46.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2002 r.
+
+## Załącznik nr 1 - Rodzaje opakowań
+
+Poz. Symbol PKWiU Rodzaje opakowań (jednostkowych, transportowych i zbiorczych) 1 2 3 1 25.2217.40.21-5017.40.21-7317.40.21-75 opakowania z tworzyw sztucznych 2 28.72.12 opakowania z aluminium, o pojemności mniejszej od 300 l 3 28.72.11 opakowania z blachy białej i lekkiej innej niż aluminiowa 4 21.21.1221.21.1321.21.1421.21.15-30 opakowania z papieru i tektury 5 26.13.11 opakowania ze szkła gospodarczego, poza ampułkami 6 bez względu na symbol PKWiU opakowania z materiałów naturalnych (drewna i tekstyliów) 7 bez względu na symbol PKWiU opakowania wielomateriałowe
+
+## Załącznik nr 2 - Rodzaje produktów
+
+Poz. Symbol PKWiU Rodzaj produktu 1 2 3 1 29.23.12 urządzenia klimatyzacyjne zawierające substancje zubożające warstwę ozonową (CFC i HCFC) 2 29.23.13 urządzenia chłodnicze i zamrażające oraz pompy ciepła poza urządzeniami dla gospodarstw domowych zawierające substancje zubożające warstwę ozonową (CFC i HCFC) [* Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji.](#gloss-30736512:.) 3 29.71.11 chłodziarki i zamrażarki typu domowego zawierające substancje zubożające warstwę ozonową (CFC i HCFC) [* Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji.](#gloss-30736512:.) 4 31.40.2131.40.22 akumulatory ołowiowe (kwasowe) 5 31.40.23 akumulatory niklowo-kadmowe:- wielkogabarytowe,- małogabarytowe (wraz z pakietami) 6 31.40.1, z wyłączeniem31.40.13 ogniwa i baterie galwaniczne, bez ich części:- guzikowe,- baterie pierwotne,- pozostałe baterie wtórne
+
+* Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji.
+
+## Załącznik nr 3 - Rodzaje pozostałych produktów
+
+Poz. Symbol PKWiU Rodzaj produktu 1 2 3 1 23.20.18z wyłączeniem:23.20.18-0123.20.18-09.10 oleje smarowe, z wyłączeniem:- oleje bazowe,- oleje przepracowane 2 bez względu na symbol PKWiU lampy wyładowcze, z wyłączeniem świetlówek kompaktowych 3 25.11.1125.11.13-5525.11.13-5725.11.14-0425.11.14-0525.11.2025.12.10-30.0025.12.10-5025.12.10-90 opony nowe, używane regenerowane (bieżnikowane), używane nieregenerowane (niebieżnikowane)
+
+## Załącznik nr 4 - Docelowe procentowe poziomy odzysku i recyklingu dla odpadów opakowaniowych i poużytkowych w stosunku do masy lub ilości wprowadzonych na rynek krajowy, w drodze sprzedaży lub importu, opakowań i produktów
+
+Poz. Odpad powstały z: Poziom odzysku Poziom recyklingu rodzaj produktów symbol PKWiU 1 2 3 4 5 1 opakowania razem [1) Poziom odzysku i recyklingu do uzyskania w skali kraju (nie dotyczy przedsiębiorców).](#gloss-361648928:1:) bez względu na symbol PKWiU 50 25 2 opakowania z tworzyw sztucznych 25.2217.40.21-5017.40.21-7317.40.21-75 - 25 3 opakowania z aluminium, o pojemności mniejszej od 300 l 28.72.12 - 40 4 opakowania z blachy białej i lekkiej innej niż aluminiowa 28.72.11 - 20 5 opakowania z papieru i tektury 21.21.1221.21.1321.21.1421.21.15-30 - 48 6 opakowania ze szkła gospodarczego, poza ampułkami 26.13.11 - 40 7 opakowania z materiałów naturalnych (drewna i tekstyliów) bez względu na symbol PKWiU - 15 8 opakowania wielomateriałowe bez względu na symbol PKWiU - 25 9 urządzenia klimatyzacyjne zawierające substancje zubożające warstwę ozonową (CFC i HCFC) 29.23.12 50 50 10 urządzenia chłodnicze i zamrażające oraz pompy ciepła poza urządzeniami dla gospodarstw domowych zawierające substancje zubożające warstwę ozonową (CFC i HCFC)[2) Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji.](#gloss-361648928:2:) 29.23.13 70 70 11 chłodziarki i zamrażarki typu domowego zawierające substancje zubożające warstwę ozonową (CFC i HCFC)[2) Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji.](#gloss-361648928:2:) 29.71.11 50 50 12 akumulatory ołowiowe (kwasowe) 31.40.2131.40.22 wszystkie zgłoszone wszystkie zebrane 13 akumulatory niklowo-kadmowe wielkogabarytowe 31.40.23 70 70 14 akumulatory niklowo-kadmowe małogabarytowe (wraz z pakietami) 31.40.23 50 50 15 ogniwa i baterie galwaniczne, bez ich części:- guzikowe,- baterie pierwotne,- pozostałe baterie wtórne 31.40.1, z wyłączeniem 31.40.13 50 50[3) Nie dotyczy ogniw cynkowo-węglowych i alkalicznych.](#gloss-361648928:3:) 16 oleje smarowe, z wyłączeniem:- oleje bazowe,- oleje przepracowane 23.20.18, z wyłączeniem:23.20.18-01,23.20.18-09.10 50 25[4) Dotyczy olejów przepracowanych poddanych regeneracji.](#gloss-361648928:4:) 17 lampy wyładowcze, z wyłączeniem świetlówek kompaktowych bez względu na symbol PKWiU 40 40 18 opony nowe, używane regenerowane (bieżnikowane), używane nieregenerowane (niebieżnikowane) 25.11.1125.11.13-5525.11.13-5725.11.14-0425.11.14-0525.11.2025.12.10-30.0025.12.10-5025.12.10-90 75 nie dotyczy
+
+1) Poziom odzysku i recyklingu do uzyskania w skali kraju (nie dotyczy przedsiębiorców). 2) Dotyczy również substancji zubożających warstwę ozonową, stosowanych jako czynniki spieniające w izolacji. 3) Nie dotyczy ogniw cynkowo-węglowych i alkalicznych. 4) Dotyczy olejów przepracowanych poddanych regeneracji.

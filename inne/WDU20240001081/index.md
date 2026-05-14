@@ -8,11 +8,9 @@ pos: 1081
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
-
-*USTAWA z dnia 28 czerwca 2024 r.*
+# Ustawa z dnia 28 czerwca 2024 r. o zmianie ustawy o zapewnianiu dostępności osobom ze szczególnymi potrzebami, ustawy o dokumentach publicznych oraz ustawy o pomocy państwa w oszczędzaniu na cele mieszkaniowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,30 @@ domain: null
 | Data ogłoszenia | 2024-06-28 |
 | Data wydania | 2024-07-19 |
 | Ostatnia zmiana | 2024-07-24 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1081/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1081/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1081) |
 
-**Art. 1.** W ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2022 r. poz. 2240 oraz z 2024 r. poz. 731) art. 66 otrzymuje brzmienie: „Art. 66. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 84 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być w tym czasie zmieniane na podstawie tych przepisów w brzmieniu nadanym niniejszą ustawą, w szczególności z uwzględnieniem potrzeb osób ze szczególnymi potrzebami.”.
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 564) w art. 73 w ust. 1 w pkt 2 wyrazy „pięciu lat” zastępuje się wyrazami „siedmiu lat”.
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe (Dz. U. poz. 1114) w art. 46 w ust. 1 w pkt 2 wyrazy „941 000 000 zł” zastępuje się wyrazami „1 190 000 000 zł”.
+W ustawie z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami ([Dz. U. z 2022 r. poz. 2240](https://api.sejm.gov.pl/eli/acts/DU/2022/2240/text.html) oraz [z 2024 r. poz. 731](https://api.sejm.gov.pl/eli/acts/DU/2024/731/text.html)) art. 66 otrzymuje brzmienie:
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+„
 
+### Art. 66.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 pkt 1 ustawy zmienianej w art. 44 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 84 miesiące od dnia wejścia w życie niniejszej ustawy, i mogą być w tym czasie zmieniane na podstawie tych przepisów w brzmieniu nadanym niniejszą ustawą, w szczególności z uwzględnieniem potrzeb osób ze szczególnymi potrzebami.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych ([Dz. U. z 2024 r. poz. 564](https://api.sejm.gov.pl/eli/acts/DU/2024/564/text.html)) w art. 73 w ust. 1 w pkt 2 wyrazy „pięciu lat” zastępuje się wyrazami „siedmiu lat”.
+
+### Art. 3.
+
+W ustawie z dnia 26 maja 2023 r. o pomocy państwa w oszczędzaniu na cele mieszkaniowe ([Dz. U. poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2023/1114/text.html)) w art. 46 w ust. 1 w pkt 2 wyrazy „941 000 000 zł” zastępuje się wyrazami „1 190 000 000 zł”.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem ogłoszenia.

@@ -8,11 +8,9 @@ pos: 1928
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wyjątkowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 28 września 2017 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 28 września 2017 r. w sprawie ogłoszenia jednolitego tekstu ustawy o stanie wyjątkowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,244 +22,666 @@ domain: null
 | Data ogłoszenia | 2017-09-28 |
 | Data wydania | 2017-10-17 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1928/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2017/1928/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2017/1928) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym (Dz. U. z 2016 r. poz. 886), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 września 2017 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 43 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), który stanowi: „Art. 43. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 39 ust. 2 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”.
-Marszałek Sejmu: M. Kuchciński z dnia 21 czerwca 2002 r.
-o stanie wyjątkowym
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.** Ustawa określa tryb wprowadzenia zniesienia stanu wyjątkowego, a także zasady działania organów władzy publicznej oraz zakres, w jakim mogą być ograniczone wolności prawa człowieka obywatela w czasie stanu wyjątkowego.
+- [Załącznik - Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zasady działania organów władzy publicznej](#chpt_2) [Rozdział 3 - Zakres ograniczeń wolności i praw człowieka i obywatela](#chpt_3) [Rozdział 4 - Przepisy karne](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących i przepisy końcowe](#chpt_5)
 
-**Art. 2.**
+TOC
 
-1. W sytuacji szczególnego zagrożenia konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego, w tym spowodowanego działaniami o charakterze terrorystycznym lub działaniami w cyberprzestrzeni, które nie może być usunięte poprzez użycie zwykłych środków konstytucyjnych, Rada Ministrów może podjąć uchwałę o skierowaniu do Prezydenta Rzeczypospolitej Polskiej wniosku o wprowadzenie stanu wyjątkowego.
+## Treść obwieszczenia
 
-1a. Przez cyberprzestrzeń, o której mowa w ust. 1, rozumie się przestrzeń przetwarzania wymiany informacji tworzoną przez systemy teleinformatyczne, określone w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570), wraz z powiązaniami pomiędzy nimi oraz relacjami z użytkownikami.
+### 1.
 
-2. We wniosku, o którym mowa w ust. 1, Rada Ministrów określa przyczyny wprowadzenia niezbędny czas trwania stanu wyjątkowego oraz obszar, na jakim stan wyjątkowy powinien być wprowadzony, a także odpowiednie do stopnia charakteru zagrożenia, w zakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności praw człowieka obywatela.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym ([Dz. U. z 2016 r. poz. 886](https://api.sejm.gov.pl/eli/acts/DU/2016/886/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw ([Dz. U. poz. 1954](https://api.sejm.gov.pl/eli/acts/DU/2016/1954/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 września 2017 r.
 
-**Art. 3.**
+### 2.
 
-1. Prezydent Rzeczypospolitej Polskiej niezwłocznie rozpatruje wniosek, o którym mowa w art. 2 ust. 1, a następnie wydaje rozporządzenie o wprowadzeniu stanu wyjątkowego na czas oznaczony nie dłuższy niż 90 dni lub postanawia odmówić wydania takiego rozporządzenia. Rozporządzenie o wprowadzeniu stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej przedstawia Sejmowi w ciągu 48 godzin od jego podpisania.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 43 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw ([Dz. U. poz. 1954](https://api.sejm.gov.pl/eli/acts/DU/2016/1954/text.html)), który stanowi:
 
-2. W rozporządzeniu o wprowadzeniu stanu wyjątkowego określa się przyczyny wprowadzenia, czas trwania obszar, na jakim wprowadza się stan wyjątkowy, oraz, w zakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności praw człowieka obywatela.
+„
 
-**Art. 4.**
+### Art. 43.
 
-1. Stan wyjątkowy obowiązuje od dnia ogłoszenia rozporządzenia, o którym mowa w art. 3 ust. 1, w Dzienniku Rzeczypospolitej Polskiej.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 39 ust. 2 i 3, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
 
-2. W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej, uchwałę Sejmu w tej sprawie niezwłocznie ogłasza się w Dzienniku Rzeczypospolitej Polskiej.
+” .
 
-3. Rozporządzenie Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego oraz inne akty prawne dotyczące tego stanu podaje się do publicznej wiadomości, w drodze obwieszczenia właściwego wojewody, przez rozplakatowanie w miejscach publicznych, a także w sposób zwyczajowo przyjęty na danym obszarze.
+## Załącznik - Tekst jednolity ustawy z dnia 21 czerwca 2002 r. o stanie wyjątkowym
 
-**Art. 5.**
+### Rozdział 1 Przepisy ogólne
 
-1. Jeżeli pomimo zbliżającego się upływu czasu, na jaki został wprowadzony stan wyjątkowy, nie ustały przyczyny wprowadzenia tego stanu oraz nie zostało przywrócone normalne funkcjonowanie państwa, Prezydent Rzeczypospolitej Polskiej może, w drodze rozporządzenia, przedłużyć czas trwania stanu wyjątkowego na okres nie dłuższy niż 60 dni.
+### Art. 1.
 
-2. Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów, w drodze rozporządzenia, znosi stan wyjątkowy przed upływem czasu, na jaki został wprowadzony, jeżeli ustaną przyczyny wprowadzenia tego stanu oraz zostanie przywrócone normalne funkcjonowanie państwa.
+Ustawa określa tryb wprowadzenia i zniesienia stanu wyjątkowego, a także zasady działania organów władzy publicznej oraz zakres, w jakim mogą być ograniczone wolności i prawa człowieka i obywatela w czasie stanu wyjątkowego.
 
-3. Przepisy art. 2–4 stosuje się odpowiednio do rozporządzenia, o którym mowa w ust. 1.
+### Art. 2.
 
-4. Przepisy art. 4 ust. 1 3 stosuje się odpowiednio do rozporządzenia, o którym mowa w ust. 2.
+### 1.
 
-**Art. 6.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych telewizyjnych są obowiązani do niezwłocznego, nieodpłatnego podania do publicznej wiadomości rozporządzenia Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego innych aktów prawnych dotyczących tego stanu, przekazanych im przez wojewodę właściwego ze względu na siedzibę redakcji lub nadawcy.
+W sytuacji szczególnego zagrożenia konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego, w tym spowodowanego działaniami o charakterze terrorystycznym lub działaniami w cyberprzestrzeni, które nie może być usunięte poprzez użycie zwykłych środków konstytucyjnych, Rada Ministrów może podjąć uchwałę o skierowaniu do Prezydenta Rzeczypospolitej Polskiej wniosku o wprowadzenie stanu wyjątkowego.
 
-**Art. 7.** Minister właściwy do spraw zagranicznych notyfikuje Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Rady Europy wprowadzenie zniesienie stanu wyjątkowego.
+### 1a.
 
-**Art. 9.** Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli lub porządek publiczny, a w szczególności koordynację kontrolę funkcjonowania administracji rządowej samorządowej wykonują:
+Przez cyberprzestrzeń, o której mowa w ust. 1, rozumie się przestrzeń przetwarzania i wymiany informacji tworzoną przez systemy teleinformatyczne, określone w art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2017 r. poz. 570](https://api.sejm.gov.pl/eli/acts/DU/2017/570/text.html)), wraz z powiązaniami pomiędzy nimi oraz relacjami z użytkownikami.
 
-**Art. 10.** Prezes Rady Ministrów jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej o skutkach wprowadzenia stanu wyjątkowego oraz o rodzaju rezultatach działań podejmowanych w celu przywrócenia normalnego funkcjonowania państwa.
+### 2.
 
-**Art. 10a.**
+We wniosku, o którym mowa w ust. 1, Rada Ministrów określa przyczyny wprowadzenia i niezbędny czas trwania stanu wyjątkowego oraz obszar, na jakim stan wyjątkowy powinien być wprowadzony, a także odpowiednie do stopnia i charakteru zagrożenia, w zakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności i praw człowieka i obywatela.
 
-1. Jeżeli użycie lub wykorzystanie środków przymusu bezpośredniego przez pododdział zwarty Policji okazało się niewystarczające do osiągnięcia celów tego użycia lub wykorzystania lub nie jest możliwe ze względu na okoliczności zdarzenia, pododdział zwarty Policji może użyć lub wykorzystać broń palną.
+### Art. 3.
 
-2. Polecenie użycia lub wykorzystania broni palnej przez pododdział zwarty Policji wydaje komendant wojewódzki (Stołeczny) Policji lub Komendant Główny Policji, a w przypadku gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia funkcjonariusza wchodzącego w skład tego pododdziału lub innej osoby dowódca pododdziału zwartego.
+### 1.
 
-3. Bezpośrednio przed wydaniem rozkazu użycia broni palnej przez pododdział zwarty Policji, dowódca:
+Prezydent Rzeczypospolitej Polskiej niezwłocznie rozpatruje wniosek, o którym mowa w art. 2 ust. 1, a następnie wydaje rozporządzenie o wprowadzeniu stanu wyjątkowego na czas oznaczony nie dłuższy niż 90 dni lub postanawia odmówić wydania takiego rozporządzenia. Rozporządzenie o wprowadzeniu stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej przedstawia Sejmowi w ciągu 48 godzin od jego podpisania.
 
-- **1)** wzywa do zachowania zgodnego z prawem, w szczególności do porzucenia broni lub niebezpiecznego przedmiotu lub do zaniechania stosowania przemocy;
-- **2)** uprzedza o możliwości użycia broni palnej w przypadku niepodporządkowania się temu wezwaniu;
-- **3)** wydaje rozkaz oddania strzału ostrzegawczego lub salwy ostrzegawczej w bezpiecznym kierunku.
+### 2.
 
-4. Przepisu ust. 3 nie stosuje się, gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia funkcjonariusza wchodzącego w skład pododdziału zwartego Policji lub innej osoby.
+W rozporządzeniu o wprowadzeniu stanu wyjątkowego określa się przyczyny wprowadzenia, czas trwania i obszar, na jakim wprowadza się stan wyjątkowy, oraz, w zakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności i praw człowieka i obywatela.
 
-5. O każdym przypadku użycia lub wykorzystania broni palnej przez pododdział zwarty Policji, jego dowódca niezwłocznie powiadamia przełożonego, który wydał polecenie użycia broni palnej, lub osobę pełniącą służbę dyżurną.
+### Art. 4.
 
-6. Do czynności podejmowanych przez przełożonego po użyciu broni palnej stosuje się przepisy art. 36 ust. 1–4, art. 37 ust. 1 ust. 2 pkt 2, art. 38 oraz art. 39 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej (Dz. U. z 2017 r. poz. 1120).
+### 1.
 
-7. W zakresie nieuregulowanym w ustawie do użycia lub wykorzystania broni palnej przez pododdział zwarty Policji, stosuje się przepisy art. 43 ust. 1, 3 4 oraz art. 44 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
+Stan wyjątkowy obowiązuje od dnia ogłoszenia rozporządzenia, o którym mowa w art. 3 ust. 1, w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-**Art. 11.**
+### 2.
 
-1. W czasie stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Rady Ministrów, może postanowić o użyciu oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej do przywrócenia normalnego funkcjonowania państwa, jeżeli dotychczas zastosowane siły środki zostały wyczerpane.
+W przypadku uchylenia rozporządzenia, o którym mowa w art. 3 ust. 1, przez Sejm Rzeczypospolitej Polskiej, uchwałę Sejmu w tej sprawie niezwłocznie ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej.
 
-2. Użycie oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej, o którym mowa w ust. 1, nie może zagrozić ich zdolności do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej ratyfikowanych umów międzynarodowych.
+### 3.
 
-3. W przypadku, o którym mowa w ust. 1, oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych wykonują zadania wyznaczone przez Ministra Obrony Narodowej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych. Żołnierzom wyznaczonym do tych oddziałów pododdziałów przysługują, w zakresie niezbędnym do wykonania ich zadań, uprawnienia policjantów określone w art. 15 art. 16 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2016 r. poz. 1782, z późn. zm. ).
+Rozporządzenie Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego oraz inne akty prawne dotyczące tego stanu podaje się do publicznej wiadomości, w drodze obwieszczenia właściwego wojewody, przez rozplakatowanie w miejscach publicznych, a także w sposób zwyczajowo przyjęty na danym obszarze.
 
-3b. Do użycia wykorzystania środków przymusu bezpośredniego przez oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 41–43 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
+### Art. 5.
 
-3c. Oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej mogą użyć broni palnej lub ją wykorzystać.
+### 1.
 
-3d. Zgody na użycie lub wykorzystanie broni palnej przez oddział lub pododdział Sił Zbrojnych Rzeczypospolitej Polskiej udziela przełożony służbowy, a w przypadku gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia żołnierza wchodzącego w skład tego oddziału lub pododdziału lub innej osoby dowódca pododdziału zwartego.
+Jeżeli pomimo zbliżającego się upływu czasu, na jaki został wprowadzony stan wyjątkowy, nie ustały przyczyny wprowadzenia tego stanu oraz nie zostało przywrócone normalne funkcjonowanie państwa, Prezydent Rzeczypospolitej Polskiej może, w drodze rozporządzenia, przedłużyć czas trwania stanu wyjątkowego na okres nie dłuższy niż 60 dni.
 
-3e. Bezpośrednio przed wydaniem rozkazu użycia broni palnej przez oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej ich dowódca:
+### 2.
 
-- **1)** wzywa do zachowania zgodnego z prawem, w szczególności do porzucenia broni lub niebezpiecznego przedmiotu lub do zaniechania stosowania przemocy;
-- **2)** uprzedza o możliwości użycia broni palnej w przypadku niepodporządkowania się temu wezwaniu;
-- **3)** wydaje rozkaz oddania strzału ostrzegawczego lub salwy ostrzegawczej w bezpiecznym kierunku.
+Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów, w drodze rozporządzenia, znosi stan wyjątkowy przed upływem czasu, na jaki został wprowadzony, jeżeli ustaną przyczyny wprowadzenia tego stanu oraz zostanie przywrócone normalne funkcjonowanie państwa.
 
-3f. Przepisu ust. 3e nie stosuje się, gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia żołnierza wchodzącego w skład oddziału lub pododdziału Sił Zbrojnych Rzeczypospolitej Polskiej lub innej osoby.
+### 3.
 
-3g. O każdym przypadku użycia broni palnej przez oddział pododdział Sił Zbrojnych Rzeczypospolitej Polskiej jego dowódca niezwłocznie powiadamia przełożonego, który wydał polecenie użycia broni palnej, lub osobę pełniącą służbę dyżurną.
+Przepisy art. 2-4 stosuje się odpowiednio do rozporządzenia, o którym mowa w ust. 1.
 
-3h. Do czynności podejmowanych przez przełożonego po użyciu broni palnej stosuje się przepisy art. 36 ust. 1–4, art. 37 ust. 1 ust. 2 pkt 2, art. 38 oraz art. 39 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
+### 4.
 
-3i. W zakresie nieuregulowanym w ustawie do użycia wykorzystania broni palnej przez oddziały pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 43 ust. 1, 3 4 oraz art. 44 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego broni palnej.
+Przepisy art. 4 ust. 1 i 3 stosuje się odpowiednio do rozporządzenia, o którym mowa w ust. 2.
 
-4. Rada Ministrów, w drodze rozporządzenia, określi szczegółowe zasady użycia oddziałów pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej w czasie stanu wyjątkowego, uwzględniając stopień rodzaj zagrożeń stanowiących przyczyny wprowadzenia trwania stanu wyjątkowego.
+### Art. 6.
 
-**Art. 12.**
+Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych są obowiązani do niezwłocznego, nieodpłatnego podania do publicznej wiadomości rozporządzenia Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego i innych aktów prawnych dotyczących tego stanu, przekazanych im przez wojewodę właściwego ze względu na siedzibę redakcji lub nadawcy.
 
-1. Jeżeli organy gminy, powiatu lub samorządu województwa nie wykazują dostatecznej skuteczności w wykonywaniu zadań publicznych lub w realizacji działań wynikających z przepisów o wprowadzeniu stanu wyjątkowego, Prezes Rady Ministrów, na wniosek właściwego wojewody, może zawiesić te organy do czasu zniesienia stanu wyjątkowego lub na czas określony ustanowić w ich miejsce zarząd komisaryczny sprawowany przez komisarza rządowego.
+### Art. 7.
 
-2. Komisarza rządowego powołuje odwołuje Prezes Rady Ministrów na wniosek wojewody.
+Minister właściwy do spraw zagranicznych notyfikuje Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Rady Europy wprowadzenie i zniesienie stanu wyjątkowego.
 
-3. Komisarz rządowy z dniem powołania przejmuje wykonywanie zadań kompetencji zawieszonych organów gminy, powiatu lub samorządu województwa.
+### Rozdział 2 Zasady działania organów władzy publicznej
 
-4. Stan zawieszenia organów gminy, powiatu lub samorządu województwa ustaje z upływem czasu określonego przez Prezesa Rady Ministrów oraz z mocy prawa z dniem zniesienia stanu wyjątkowego.
+### Art. 8.
 
-**Art. 13.** W czasie stanu wyjątkowego organy porządku bezpieczeństwa publicznego mogą w celu przywrócenia porządku publicznego wkroczyć na teren szkoły wyższej bez wezwania przez rektora, którego należy niezwłocznie o tym zawiadomić.
+W czasie stanu wyjątkowego organy władzy publicznej działają w dotychczasowych strukturach organizacyjnych państwa i w ramach przysługujących im kompetencji, z zastrzeżeniem przepisów niniejszej ustawy.
 
-**Art. 14.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio. stosuje się odpowiednio wobec osób prawnych jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze objętym stanem wyjątkowym. 2. Rodzaje ograniczeń wolności praw człowieka obywatela określone w rozporządzeniach, o których mowa w art. 3 ust. 1 art. 5 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wyjątkowego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
+### Art. 9.
 
-**Art. 16.**
+Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli lub porządek publiczny, a w szczególności koordynację i kontrolę funkcjonowania administracji rządowej i samorządowej wykonują:
 
-1. W czasie stanu wyjątkowego mogą być zawieszone prawa do:
+### 1)
 
-- **1)** organizowania przeprowadzania wszelkiego rodzaju zgromadzeń;
-- **2)** organizowania przeprowadzania imprez masowych oraz prowadzonych w ramach działalności kulturalnej imprez artystycznych rozrywkowych, niebędących imprezami masowymi;
-- **3)** strajków pracowniczych innych form protestu w odniesieniu do określonych kategorii pracowników lub w określonych dziedzinach;
-- **4)** strajków innych niż strajki form akcji protestacyjnych rolników;
-- **5)** akcji protestacyjnych studentów organizowanych przez studenckie samorządy, stowarzyszenia lub organizacje;
-- **6)** zrzeszania się poprzez:
-    - **a)** ustanowienie zakazu tworzenia rejestracji nowych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń fundacji,
-    - **b)** nakazanie okresowego zaniechania działalności zarejestrowanych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń fundacji, których działalność może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego.
+Prezes Rady Ministrów - w przypadku wprowadzenia stanu wyjątkowego na obszarze większym niż obszar jednego województwa;
 
-2. Przepis ust. 1 pkt 1 nie dotyczy zgromadzeń organizowanych przez kościoły inne związki wyznaniowe oraz organizacje religijne działające w obrębie świątyń, budynków kościelnych, w innych pomieszczeniach służących organizowaniu publicznemu sprawowaniu kultu, a także zgromadzeń organizowanych przez organy państwa lub organy samorządu terytorialnego.
+### 2)
 
-3. Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wyjątkowy, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjątkowego.
+właściwy wojewoda - w przypadku wprowadzenia stanu wyjątkowego na obszarze lub części obszaru jednego województwa.
 
-**Art. 17.**
+### Art. 10.
 
-1. W czasie stanu wyjątkowego może być odosobniona osoba mająca ukończone 18 lat, w stosunku do której zachodzi uzasadnione podejrzenie, że pozostając na wolności będzie prowadziła działalność zagrażającą konstytucyjnemu ustrojowi państwa, bezpieczeństwu obywateli lub porządkowi publicznemu albo gdy odosobnienie jest niezbędne dla zapobieżenia popełnienia czynu karalnego lub uniemożliwienia ucieczki po jego popełnieniu. Nie narusza to immunitetów wynikających z odrębnych przepisów.
+Prezes Rady Ministrów jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej o skutkach wprowadzenia stanu wyjątkowego oraz o rodzaju i rezultatach działań podejmowanych w celu przywrócenia normalnego funkcjonowania państwa.
 
-2. Odosobniona może być również osoba, która ukończyła 17 lat, jeżeli przeprowadzona uprzednio z nią rozmowa ostrzegawcza okazała się nieskuteczna.
+### Art. 10a.
 
-3. Odosobnienie następuje na podstawie decyzji wojewody właściwego ze względu na miejsce pobytu stałego lub czasowego osoby odosobnionej jest wykonywane przez właściwego komendanta wojewódzkiego Policji, w drodze zatrzymania tej osoby przymusowego doprowadzenia do ośrodka odosobnienia podległego Ministrowi Sprawiedliwości.
+### 1.
 
-4. Wojewoda, o którym mowa w ust. 3, wszczyna postępowanie w sprawach odosobnienia na wniosek właściwych organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, Żandarmerii Wojskowej lub Służby Kontrwywiadu Wojskowego.
+Jeżeli użycie lub wykorzystanie środków przymusu bezpośredniego przez pododdział zwarty Policji okazało się niewystarczające do osiągnięcia celów tego użycia lub wykorzystania lub nie jest możliwe ze względu na okoliczności zdarzenia, pododdział zwarty Policji może użyć lub wykorzystać broń palną.
 
-5. Decyzję w sprawie odosobnienia doręcza się osobie odosobnionej niezwłocznie, nie później niż w ciągu 48 godzin od chwili jej wydania. Decyzję tę uchyla się niezwłocznie, jeżeli ustaną przyczyny uzasadniające odosobnienie.
+### 2.
 
-7. W czasie odosobnienia nie może być rozwiązany stosunek pracy z osobą odosobnioną, chyba że przed odosobnieniem zaistniały z jej winy okoliczności uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia. Termin do wniesienia środków prawnych przeciwko rozwiązaniu stosunku pracy liczy się w tych przypadkach od dnia zakończenia odosobnienia.
+Polecenie użycia lub wykorzystania broni palnej przez pododdział zwarty Policji wydaje komendant wojewódzki (Stołeczny) Policji lub Komendant Główny Policji, a w przypadku gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia funkcjonariusza wchodzącego w skład tego pododdziału lub innej osoby - dowódca pododdziału zwartego.
 
-8. Do pobytu osób odosobnionych w ośrodkach odosobnienia stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące praw obowiązków tymczasowo aresztowanych, wykonywania tymczasowego aresztowania oraz nadzoru penitencjarnego.
+### 3.
 
-9. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych, w drodze rozporządzenia, tworzy znosi ośrodki odosobnienia z uwzględnieniem odpowiedniego stopnia zabezpieczenia ośrodków oraz izolacji odosobnionych.
+Bezpośrednio przed wydaniem rozkazu użycia broni palnej przez pododdział zwarty Policji, dowódca:
 
-**Art. 18.**
+### 1)
 
-1. Na obszarze obowiązywania stanu wyjątkowego na osobę, która ukończyła 18 lat, przebywającą w miejscu publicznym może być nałożony obowiązek posiadania przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość, a na osobę uczącą się, która nie ukończyła 18 lat legitymacji szkolnej.
+wzywa do zachowania zgodnego z prawem, w szczególności do porzucenia broni lub niebezpiecznego przedmiotu lub do zaniechania stosowania przemocy;
 
-2. W czasie stanu wyjątkowego mogą być wprowadzone nakazy lub zakazy:
+### 2)
 
-- **1)** przebywania lub opuszczania w ustalonym czasie oznaczonych miejsc, obiektów obszarów;
-- **2)** uzyskania zezwolenia organów administracji publicznej na zmianę miejsca pobytu stałego czasowego;
-- **3)** zgłoszenia w ustalonym terminie organom ewidencji ludności lub Policji przybycia do określonej miejscowości;
-- **4)** utrwalania za pomocą środków technicznych wyglądu lub innych cech określonych miejsc, obiektów lub obszarów.
+uprzedza o możliwości użycia broni palnej w przypadku niepodporządkowania się temu wezwaniu;
 
-**Art. 19.**
+### 3)
 
-1. W czasie stanu wyjątkowego na wezwanie organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, Żandarmerii Wojskowej lub Służby Kontrwywiadu Wojskowego osoba mająca ukończone 17 lat jest obowiązana do udziału, we wskazanym miejscu, w rozmowie ostrzegawczej. Wezwanie to może być przekazane w dowolnej udokumentowanej formie.
+wydaje rozkaz oddania strzału ostrzegawczego lub salwy ostrzegawczej w bezpiecznym kierunku.
 
-2. Do udziału w rozmowie ostrzegawczej można wezwać tylko taką osobę, co do której zachodzi uzasadnione podejrzenie, że nie będzie przestrzegać porządku prawnego.
+### 4.
 
-3. Jeżeli osoba wezwana na rozmowę ostrzegawczą nie zgłosi się dobrowolnie na wskazane miejsce, a fakt otrzymania wezwania nie budzi wątpliwości, może być przymusowo doprowadzona przez organ wzywający.
+Przepisu ust. 3 nie stosuje się, gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia funkcjonariusza wchodzącego w skład pododdziału zwartego Policji lub innej osoby.
 
-4. Jeżeli podejrzenie, o którym mowa w ust. 2, dotyczy osoby niemającej ukończonych 17 lat, wezwanie przekazuje się przeprowadza rozmowę ostrzegawczą z rodzicami lub rodzicem albo opiekunem prawnym tej osoby. Przepis ust. 3 stosuje się odpowiednio.
+### 5.
 
-5. Rozmowa ostrzegawcza polega na udzieleniu pouczenia o prawnych osobistych skutkach nieprzestrzegania porządku prawnego oraz niestosowania się do ustalonych na czas stanu wyjątkowego ograniczeń wolności praw człowieka obywatela. Osoby obecne przy rozmowie potwierdzają przebieg rozmowy podpisami na protokóle.
+O każdym przypadku użycia lub wykorzystania broni palnej przez pododdział zwarty Policji, jego dowódca niezwłocznie powiadamia przełożonego, który wydał polecenie użycia broni palnej, lub osobę pełniącą służbę dyżurną.
 
-6. W przypadku określonym w ust. 4, rozmowa ostrzegawcza odbywa się w obecności osoby, której podejrzenie dotyczy, jeżeli takie jest życzenie rodzica lub opiekuna prawnego tej osoby.
+### 6.
 
-**Art. 20.**
+Do czynności podejmowanych przez przełożonego po użyciu broni palnej stosuje się przepisy art. 36 ust. 1-4, art. 37 ust. 1 i ust. 2 pkt 2, art. 38 oraz art. 39 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej ([Dz. U. z 2017 r. poz. 1120](https://api.sejm.gov.pl/eli/acts/DU/2017/1120/text.html)).
 
-1. W czasie stanu wyjątkowego może być wprowadzona:
+### 7.
 
-- **1)** cenzura prewencyjna środków społecznego przekazu obejmująca materiały prasowe w rozumieniu ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. poz. 24, z późn. zm. ), z zastrzeżeniem ust. 7;
-- **2)** kontrola zawartości przesyłek, listów, paczek przekazów przekazywanych w ramach usług pocztowych o charakterze powszechnym lub usług kurierskich;
-- **3)** kontrola treści korespondencji telekomunikacyjnej rozmów telefonicznych lub sygnałów przesyłanych w sieciach telekomunikacyjnych; publicznej działającym na obszarze województwa wykonywanie czynności technicznych, niezbędnych do prowadzenia cenzury lub kontroli.
+W zakresie nieuregulowanym w ustawie do użycia lub wykorzystania broni palnej przez pododdział zwarty Policji, stosuje się przepisy art. 43 ust. 1, 3 i 4 oraz art. 44 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-3. Organy cenzury kontroli są uprawnione do zatrzymywania w całości lub w części publikacji, przesyłek pocztowych kurierskich oraz korespondencji telekomunikacyjnej, a także do przerywania rozmów telefonicznych transmisji sygnałów przesyłanych w sieciach telekomunikacyjnych, jeżeli ich zawartość lub treść może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego.
+### Art. 11.
 
-4. Zatrzymane publikacje, przesyłki lub korespondencję telekomunikacyjną doręcza się adresatom po zniesieniu stanu wyjątkowego, z zastrzeżeniem ust. 5.
+### 1.
 
-5. Zatrzymane publikacje, przesyłki pocztowe kurierskie oraz korespondencję telekomunikacyjną, których treść lub zawartość pochodzi z przestępstwa, była przeznaczona do popełnienia przestępstwa albo została objęta zakazem posiadania, organ cenzury kontroli przekazuje, niezwłocznie a najpóźniej bezpośrednio po zniesieniu stanu wyjątkowego, organom właściwym do prowadzenia postępowania karnego lub orzeczenia przepadku rzeczy.
+W czasie stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Rady Ministrów, może postanowić o użyciu oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej do przywrócenia normalnego funkcjonowania państwa, jeżeli dotychczas zastosowane siły i środki zostały wyczerpane.
 
-6. Decyzje organów cenzury kontroli są ostateczne mogą być zaskarżone bezpośrednio do sądu administracyjnego. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+### 2.
 
-7. Cenzura prewencyjna nie obejmuje należących do kościołów innych związków wyznaniowych środków społecznego przekazu, stanowiących źródła informacji na temat religii służących wypełnianiu funkcji religijnych.
+Użycie oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej, o którym mowa w ust. 1, nie może zagrozić ich zdolności do realizacji zadań wynikających z Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów międzynarodowych.
 
-8. Rada Ministrów, w drodze rozporządzenia, określi:
+### 3.
 
-- **1)** tryb postępowania organów cenzury kontroli, uwzględniając potrzebę zapewnienia sprawności szybkości działania;
-- **2)** organy właściwe w sprawach, o których mowa w ust. 1 pkt 4, oraz tryb postępowania tych organów, uwzględniając potrzebę zapewnienia niejawności stosowanych metod technik działania.
+W przypadku, o którym mowa w ust. 1, oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych i wykonują zadania wyznaczone przez Ministra Obrony Narodowej w uzgodnieniu z ministrem właściwym do spraw wewnętrznych. Żołnierzom wyznaczonym do tych oddziałów i pododdziałów przysługują, w zakresie niezbędnym do wykonania ich zadań, uprawnienia policjantów określone w art. 15 i art. 16 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2016 r. poz. 1782](https://api.sejm.gov.pl/eli/acts/DU/2016/1782/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708, 768, 1086 i 1321.](#gloss-0:1:)).
 
-**Art. 21.** W czasie stanu wyjątkowego mogą być wprowadzone ograniczenia wolności praw człowieka obywatela w zakresie:
+### 3a.
 
-#### Rozdział 4 Przepisy karne
+Oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej mogą użyć i wykorzystać środki przymusu bezpośredniego, do użycia i wykorzystania których uprawnieni są żołnierze Żandarmerii Wojskowej wchodzący w skład pododdziału zwartego, o którym mowa w przepisach ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-**Art. 23.**
+### 3b.
 
-1. Kto w czasie stanu wyjątkowego:
+Do użycia i wykorzystania środków przymusu bezpośredniego przez oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 41-43 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
 
-- **1)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 1 organizuje lub przeprowadza zgromadzenie,
-- **2)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 2 organizuje lub przeprowadza imprezę masową albo inną imprezę artystyczną lub rozrywkową, niebędącą imprezą masową,
-- **3)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 3–5 uczestniczy w strajku lub innej akcji protestacyjnej pracowników lub rolników, albo akcji protestacyjnej studentów zorganizowanej przez studenckie samorządy, stowarzyszenia lub organizacje,
-- **4)** wbrew zakazowi określonemu w art. 16 ust. 1 pkt 6 lit. a tworzy stowarzyszenie, partię polityczną, związek zawodowy, organizację społeczno-zawodową rolników, organizację pracodawców, ruch obywatelski, dobrowolne zrzeszenie lub fundację,
-- **5)** wbrew nakazowi określonemu w art. 16 ust. 1 pkt 6 lit. b uczestniczy w działalności zarejestrowanego stowarzyszenia, partii politycznej, związku zawodowego, organizacji społeczno-zawodowej rolników, organizacji pracodawców, ruchu obywatelskiego, dobrowolnego zrzeszenia lub fundacji,
-- **6)** wbrew obowiązkowi określonemu w art. 18 ust. 1 nie posiada przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość,
-- **9)** wbrew nakazowi określonemu w art. 18 ust. 2 pkt 3 nie zgłasza w ustalonym terminie organowi ewidencji ludności lub Policji przybycia do określonej miejscowości,
-- **10)** wbrew zakazowi określonemu w art. 18 ust. 2 pkt 4 utrwala za pomocą środków technicznych wygląd lub inną cechę określonego miejsca, obiektu lub obszaru,
-- **11)** wbrew nakazowi określonemu w art. 21 pkt 1 narusza zasady reglamentacji zaopatrzenia ludności, 11a) wbrew zakazowi określonemu w art. 21 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju,
-- **12)** wbrew obowiązkowi określonemu w art. 21 pkt 2 nie stosuje się do nakazu zaniechania prowadzenia działalności gospodarczej określonego rodzaju, albo bez wymaganego zezwolenia rozpoczyna działalność gospodarczą określonego rodzaju,
-- **13)** wbrew zakazowi określonemu w art. 21 pkt 3 organizuje lub przeprowadza zajęcia dydaktyczne w szkołach,
-- **14)** wbrew zakazowi określonemu w art. 21 pkt 4 nie stosuje się do wprowadzonych ograniczeń w obrocie krajowymi środkami płatniczymi, obrocie dewizowym oraz działalności kantorowej,
-- **15)** wbrew obowiązkowi określonemu w art. 21 pkt 5 nie stosuje się do ograniczeń w transporcie drogowym, kolejowym lub lotniczym, albo w ruchu jednostek pływających na morskich wodach wewnętrznych, morzu terytorialnym lub na śródlądowych drogach wodnych,
-- **16)** wbrew obowiązkowi określonemu w art. 21 pkt 6 nie stosuje się do nakazu wyłączenia na czas określony urządzeń łączności lub zawieszenia świadczenia usług, albo nakazu niezwłocznego złożenia do depozytu radiowych telewizyjnych urządzeń nadawczych nadawczo-odbiorczych lub innego sposobu ich zabezpieczenia,
-- **17)** wbrew obowiązkowi określonemu w art. 21 pkt 7 nie stosuje się do nakazu niezwłocznego złożenia do depozytu broni palnej, amunicji, materiałów wybuchowych, innych rodzajów broni lub określonych przedmiotów, albo zakazu ich noszenia,
-- **18)** wbrew obowiązkowi określonemu w art. 21 pkt 8 nie stosuje się do wprowadzonych ograniczeń w dostępie do informacji publicznej podlega karze aresztu albo grzywny.
+### 3c.
 
-2. Rozpoznawanie spraw, określonych w ust. 1, następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia w postępowaniu przyśpieszonym.
+Oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej mogą użyć broni palnej lub ją wykorzystać.
 
-**Art. 24.**
+### 3d.
 
-1. Niewykonane w całości lub w części do dnia zniesienia stanu wyjątkowego lub uchylenia odpowiednich ograniczeń wolności praw człowieka obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegają wykonaniu.
+Zgody na użycie lub wykorzystanie broni palnej przez oddział lub pododdział Sił Zbrojnych Rzeczypospolitej Polskiej udziela przełożony służbowy, a w przypadku gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia żołnierza wchodzącego w skład tego oddziału lub pododdziału lub innej osoby - dowódca pododdziału zwartego.
 
-2. Postępowania w sprawach o wykroczenia określone w niniejszej ustawie, wszczęte niezakończone orzeczeniem kończącym postępowanie do dnia zniesienia stanu wyjątkowego lub uchylenia odpowiednich ograniczeń wolności praw człowieka obywatela, prowadzi się na podstawie przepisów ustawy, a wymierzone kary podlegają wykonaniu.
+### 3e.
 
-3. Po zniesieniu stanu wyjątkowego postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
+Bezpośrednio przed wydaniem rozkazu użycia broni palnej przez oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej ich dowódca:
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących przepisy końcowe
+### 1)
 
-**Art. 25.** (pominięty)
+wzywa do zachowania zgodnego z prawem, w szczególności do porzucenia broni lub niebezpiecznego przedmiotu lub do zaniechania stosowania przemocy;
 
-**Art. 26.** Traci moc ustawa z dnia 5 grudnia 1983 r. o stanie wyjątkowym (Dz. U. poz. 297, z 1989 r. poz. 178 oraz z 1997 r. poz. 512 554).
+### 2)
 
-**Art. 27.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+uprzedza o możliwości użycia broni palnej w przypadku niepodporządkowania się temu wezwaniu;
 
+### 3)
+
+wydaje rozkaz oddania strzału ostrzegawczego lub salwy ostrzegawczej w bezpiecznym kierunku.
+
+### 3f.
+
+Przepisu ust. 3e nie stosuje się, gdy wszelka zwłoka groziłaby bezpośrednim niebezpieczeństwem dla życia lub zdrowia żołnierza wchodzącego w skład oddziału lub pododdziału Sił Zbrojnych Rzeczypospolitej Polskiej lub innej osoby.
+
+### 3g.
+
+O każdym przypadku użycia broni palnej przez oddział i pododdział Sił Zbrojnych Rzeczypospolitej Polskiej jego dowódca niezwłocznie powiadamia przełożonego, który wydał polecenie użycia broni palnej, lub osobę pełniącą służbę dyżurną.
+
+### 3h.
+
+Do czynności podejmowanych przez przełożonego po użyciu broni palnej stosuje się przepisy art. 36 ust. 1-4, art. 37 ust. 1 i ust. 2 pkt 2, art. 38 oraz art. 39 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+### 3i.
+
+W zakresie nieuregulowanym w ustawie do użycia i wykorzystania broni palnej przez oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej stosuje się przepisy art. 43 ust. 1, 3 i 4 oraz art. 44 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+### 4.
+
+Rada Ministrów, w drodze rozporządzenia, określi szczegółowe zasady użycia oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej w czasie stanu wyjątkowego, uwzględniając stopień i rodzaj zagrożeń stanowiących przyczyny wprowadzenia i trwania stanu wyjątkowego.
+
+### Art. 12.
+
+### 1.
+
+Jeżeli organy gminy, powiatu lub samorządu województwa nie wykazują dostatecznej skuteczności w wykonywaniu zadań publicznych lub w realizacji działań wynikających z przepisów o wprowadzeniu stanu wyjątkowego, Prezes Rady Ministrów, na wniosek właściwego wojewody, może zawiesić te organy do czasu zniesienia stanu wyjątkowego lub na czas określony i ustanowić w ich miejsce zarząd komisaryczny sprawowany przez komisarza rządowego.
+
+### 2.
+
+Komisarza rządowego powołuje i odwołuje Prezes Rady Ministrów na wniosek wojewody.
+
+### 3.
+
+Komisarz rządowy z dniem powołania przejmuje wykonywanie zadań i kompetencji zawieszonych organów gminy, powiatu lub samorządu województwa.
+
+### 4.
+
+Stan zawieszenia organów gminy, powiatu lub samorządu województwa ustaje z upływem czasu określonego przez Prezesa Rady Ministrów oraz z mocy prawa z dniem zniesienia stanu wyjątkowego.
+
+### Art. 13.
+
+W czasie stanu wyjątkowego organy porządku i bezpieczeństwa publicznego mogą w celu przywrócenia porządku publicznego wkroczyć na teren szkoły wyższej bez wezwania przez rektora, którego należy niezwłocznie o tym zawiadomić.
+
+### Art. 14.
+
+Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy lub przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym w administracji stosuje się odpowiednio.
+
+### Rozdział 3 Zakres ograniczeń wolności i praw człowieka i obywatela
+
+### Art. 15.
+
+### 1.
+
+Na obszarze, na którym został wprowadzony stan wyjątkowy, ograniczeniom wolności i praw człowieka i obywatela podlegają wszystkie osoby fizyczne zamieszkałe lub przebywające tam chociażby czasowo. Ograniczenia te stosuje się odpowiednio wobec osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze objętym stanem wyjątkowym.
+
+### 2.
+
+Rodzaje ograniczeń wolności i praw człowieka i obywatela określone w rozporządzeniach, o których mowa w art. 3 ust. 1 i art. 5 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wyjątkowego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
+
+### Art. 16.
+
+### 1.
+
+W czasie stanu wyjątkowego mogą być zawieszone prawa do:
+
+### 1)
+
+organizowania i przeprowadzania wszelkiego rodzaju zgromadzeń;
+
+### 2)
+
+organizowania i przeprowadzania imprez masowych oraz prowadzonych w ramach działalności kulturalnej imprez artystycznych i rozrywkowych, niebędących imprezami masowymi;
+
+### 3)
+
+strajków pracowniczych i innych form protestu w odniesieniu do określonych kategorii pracowników lub w określonych dziedzinach;
+
+### 4)
+
+strajków i innych niż strajki form akcji protestacyjnych rolników;
+
+### 5)
+
+akcji protestacyjnych studentów organizowanych przez studenckie samorządy, stowarzyszenia lub organizacje;
+
+### 6)
+
+zrzeszania się poprzez:
+
+### a)
+
+ustanowienie zakazu tworzenia i rejestracji nowych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń i fundacji,
+
+### b)
+
+nakazanie okresowego zaniechania działalności zarejestrowanych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń i fundacji, których działalność może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego.
+
+### 2.
+
+Przepis ust. 1 pkt 1 nie dotyczy zgromadzeń organizowanych przez kościoły i inne związki wyznaniowe oraz organizacje religijne działające w obrębie świątyń, budynków kościelnych, w innych pomieszczeniach służących organizowaniu i publicznemu sprawowaniu kultu, a także zgromadzeń organizowanych przez organy państwa lub organy samorządu terytorialnego.
+
+### 3.
+
+Informacja o zgłoszeniu zbiórki publicznej, która ma być przeprowadzona na obszarze, na którym wprowadzono stan wyjątkowy, może zostać zamieszczona na ogólnopolskim elektronicznym portalu zbiórek publicznych, tylko wówczas, gdy w ocenie ministra właściwego do spraw administracji publicznej, przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjątkowego.
+
+### Art. 17.
+
+### 1.
+
+W czasie stanu wyjątkowego może być odosobniona osoba mająca ukończone 18 lat, w stosunku do której zachodzi uzasadnione podejrzenie, że pozostając na wolności będzie prowadziła działalność zagrażającą konstytucyjnemu ustrojowi państwa, bezpieczeństwu obywateli lub porządkowi publicznemu albo gdy odosobnienie jest niezbędne dla zapobieżenia popełnienia czynu karalnego lub uniemożliwienia ucieczki po jego popełnieniu. Nie narusza to immunitetów wynikających z odrębnych przepisów.
+
+### 2.
+
+Odosobniona może być również osoba, która ukończyła 17 lat, jeżeli przeprowadzona uprzednio z nią rozmowa ostrzegawcza okazała się nieskuteczna.
+
+### 3.
+
+Odosobnienie następuje na podstawie decyzji wojewody właściwego ze względu na miejsce pobytu stałego lub czasowego osoby odosobnionej i jest wykonywane przez właściwego komendanta wojewódzkiego Policji, w drodze zatrzymania tej osoby i przymusowego doprowadzenia do ośrodka odosobnienia podległego Ministrowi Sprawiedliwości.
+
+### 4.
+
+Wojewoda, o którym mowa w ust. 3, wszczyna postępowanie w sprawach odosobnienia na wniosek właściwych organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, Żandarmerii Wojskowej lub Służby Kontrwywiadu Wojskowego.
+
+### 5.
+
+Decyzję w sprawie odosobnienia doręcza się osobie odosobnionej niezwłocznie, nie później niż w ciągu 48 godzin od chwili jej wydania. Decyzję tę uchyla się niezwłocznie, jeżeli ustaną przyczyny uzasadniające odosobnienie.
+
+### 6.
+
+Decyzje w sprawach odosobnienia są ostateczne i mogą być zaskarżone bezpośrednio do sądu administracyjnego w trybie i na zasadach określonych w odrębnych przepisach, z tym że sąd wyznacza rozprawę w terminie 7 dni od daty otrzymania skargi. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. z 2017 r. poz. 1369](https://api.sejm.gov.pl/eli/acts/DU/2017/1369/text.html) i [1370](https://api.sejm.gov.pl/eli/acts/DU/2017/1370/text.html)) nie stosuje się.
+
+### 7.
+
+W czasie odosobnienia nie może być rozwiązany stosunek pracy z osobą odosobnioną, chyba że przed odosobnieniem zaistniały z jej winy okoliczności uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia. Termin do wniesienia środków prawnych przeciwko rozwiązaniu stosunku pracy liczy się w tych przypadkach od dnia zakończenia odosobnienia.
+
+### 8.
+
+Do pobytu osób odosobnionych w ośrodkach odosobnienia stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące praw i obowiązków tymczasowo aresztowanych, wykonywania tymczasowego aresztowania oraz nadzoru penitencjarnego.
+
+### 9.
+
+Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych, w drodze rozporządzenia, tworzy i znosi ośrodki odosobnienia z uwzględnieniem odpowiedniego stopnia zabezpieczenia ośrodków oraz izolacji odosobnionych.
+
+### Art. 18.
+
+### 1.
+
+Na obszarze obowiązywania stanu wyjątkowego na osobę, która ukończyła 18 lat, przebywającą w miejscu publicznym może być nałożony obowiązek posiadania przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość, a na osobę uczącą się, która nie ukończyła 18 lat - legitymacji szkolnej.
+
+### 2.
+
+W czasie stanu wyjątkowego mogą być wprowadzone nakazy lub zakazy:
+
+### 1)
+
+przebywania lub opuszczania w ustalonym czasie oznaczonych miejsc, obiektów i obszarów;
+
+### 2)
+
+uzyskania zezwolenia organów administracji publicznej na zmianę miejsca pobytu stałego i czasowego;
+
+### 3)
+
+zgłoszenia w ustalonym terminie organom ewidencji ludności lub Policji przybycia do określonej miejscowości;
+
+### 4)
+
+utrwalania za pomocą środków technicznych wyglądu lub innych cech określonych miejsc, obiektów lub obszarów.
+
+### Art. 19.
+
+### 1.
+
+W czasie stanu wyjątkowego na wezwanie organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, Żandarmerii Wojskowej lub Służby Kontrwywiadu Wojskowego osoba mająca ukończone 17 lat jest obowiązana do udziału, we wskazanym miejscu, w rozmowie ostrzegawczej. Wezwanie to może być przekazane w dowolnej udokumentowanej formie.
+
+### 2.
+
+Do udziału w rozmowie ostrzegawczej można wezwać tylko taką osobę, co do której zachodzi uzasadnione podejrzenie, że nie będzie przestrzegać porządku prawnego.
+
+### 3.
+
+Jeżeli osoba wezwana na rozmowę ostrzegawczą nie zgłosi się dobrowolnie na wskazane miejsce, a fakt otrzymania wezwania nie budzi wątpliwości, może być przymusowo doprowadzona przez organ wzywający.
+
+### 4.
+
+Jeżeli podejrzenie, o którym mowa w ust. 2, dotyczy osoby niemającej ukończonych 17 lat, wezwanie przekazuje się i przeprowadza rozmowę ostrzegawczą z rodzicami lub rodzicem albo opiekunem prawnym tej osoby. Przepis ust. 3 stosuje się odpowiednio.
+
+### 5.
+
+Rozmowa ostrzegawcza polega na udzieleniu pouczenia o prawnych i osobistych skutkach nieprzestrzegania porządku prawnego oraz niestosowania się do ustalonych na czas stanu wyjątkowego ograniczeń wolności i praw człowieka i obywatela. Osoby obecne przy rozmowie potwierdzają przebieg rozmowy podpisami na protokóle.
+
+### 6.
+
+W przypadku określonym w ust. 4, rozmowa ostrzegawcza odbywa się w obecności osoby, której podejrzenie dotyczy, jeżeli takie jest życzenie rodzica lub opiekuna prawnego tej osoby.
+
+### Art. 20.
+
+### 1.
+
+W czasie stanu wyjątkowego może być wprowadzona:
+
+### 1)
+
+cenzura prewencyjna środków społecznego przekazu obejmująca materiały prasowe w rozumieniu ustawy z dnia 26 stycznia 1984 r. - Prawo prasowe ([Dz. U. poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1984/24/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136 oraz z 2013 r. poz. 771.](#gloss-0:2:)), z zastrzeżeniem ust. 7;
+
+### 2)
+
+kontrola zawartości przesyłek, listów, paczek i przekazów przekazywanych w ramach usług pocztowych o charakterze powszechnym lub usług kurierskich;
+
+### 3)
+
+kontrola treści korespondencji telekomunikacyjnej i rozmów telefonicznych lub sygnałów przesyłanych w sieciach telekomunikacyjnych;
+
+### 4)
+
+emisja sygnałów uniemożliwiających nadawanie lub odbiór przekazów radiowych, telewizyjnych lub dokonywanych poprzez urządzenia i sieci telekomunikacyjne, których treść może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego.
+
+### 2.
+
+Funkcję organów cenzury i kontroli pełnią właściwi wojewodowie, którzy mogą nakazać organom administracji publicznej działającym na obszarze województwa wykonywanie czynności technicznych, niezbędnych do prowadzenia cenzury lub kontroli.
+
+### 3.
+
+Organy cenzury i kontroli są uprawnione do zatrzymywania w całości lub w części publikacji, przesyłek pocztowych i kurierskich oraz korespondencji telekomunikacyjnej, a także do przerywania rozmów telefonicznych i transmisji sygnałów przesyłanych w sieciach telekomunikacyjnych, jeżeli ich zawartość lub treść może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego.
+
+### 4.
+
+Zatrzymane publikacje, przesyłki lub korespondencję telekomunikacyjną doręcza się adresatom po zniesieniu stanu wyjątkowego, z zastrzeżeniem ust. 5.
+
+### 5.
+
+Zatrzymane publikacje, przesyłki pocztowe i kurierskie oraz korespondencję telekomunikacyjną, których treść lub zawartość pochodzi z przestępstwa, była przeznaczona do popełnienia przestępstwa albo została objęta zakazem posiadania, organ cenzury i kontroli przekazuje, niezwłocznie a najpóźniej bezpośrednio po zniesieniu stanu wyjątkowego, organom właściwym do prowadzenia postępowania karnego lub orzeczenia przepadku rzeczy.
+
+### 6.
+
+Decyzje organów cenzury i kontroli są ostateczne i mogą być zaskarżone bezpośrednio do sądu administracyjnego. Przepisu art. 52 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi nie stosuje się.
+
+### 7.
+
+Cenzura prewencyjna nie obejmuje należących do kościołów i innych związków wyznaniowych środków społecznego przekazu, stanowiących źródła informacji na temat religii i służących wypełnianiu funkcji religijnych.
+
+### 8.
+
+Rada Ministrów, w drodze rozporządzenia, określi:
+
+### 1)
+
+tryb postępowania organów cenzury i kontroli, uwzględniając potrzebę zapewnienia sprawności i szybkości działania;
+
+### 2)
+
+organy właściwe w sprawach, o których mowa w ust. 1 pkt 4, oraz tryb postępowania tych organów, uwzględniając potrzebę zapewnienia niejawności stosowanych metod i technik działania.
+
+### Art. 21.
+
+W czasie stanu wyjątkowego mogą być wprowadzone ograniczenia wolności i praw człowieka i obywatela w zakresie:
+
+### 1)
+
+dostępu do towarów konsumpcyjnych, poprzez całkowitą lub częściową reglamentację zaopatrzenia ludności;
+
+### 1a)
+
+swobody uzgadniania cen przez strony umowy, poprzez zakazanie okresowego podwyższania cen na towary lub usługi określonego rodzaju albo nakazanie stosowania cen ustalonych na towary lub usługi mające podstawowe znaczenie dla kosztów utrzymania konsumentów;
+
+### 2)
+
+wolności działalności gospodarczej, poprzez nakazanie okresowego zaniechania prowadzenia działalności gospodarczej określonego rodzaju albo ustanowienie obowiązku uzyskania zezwolenia na rozpoczęcie działalności gospodarczej określonego rodzaju;
+
+### 3)
+
+działalności edukacyjnej, poprzez okresowe zawieszenie zajęć dydaktycznych w szkołach włącznie ze szkołami wyższymi, z wyjątkiem szkół duchownych i seminariów duchownych;
+
+### 4)
+
+obrotu krajowymi środkami płatniczymi, obrotu dewizowego oraz działalności kantorowej;
+
+### 5)
+
+transportu drogowego, kolejowego i lotniczego oraz w ruchu jednostek pływających na morskich wodach wewnętrznych i na morzu terytorialnym, a także na śródlądowych drogach wodnych;
+
+### 6)
+
+funkcjonowania systemów łączności oraz działalności telekomunikacyjnej i pocztowej, poprzez nakazanie wyłączenia urządzeń łączności lub zawieszenia świadczenia usług, na czas określony, a także poprzez nakazanie niezwłocznego złożenia do depozytu właściwego organu administracji rządowej radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych lub ustalenie innego sposobu ich zabezpieczenia przed wykorzystaniem w sposób zagrażający konstytucyjnemu ustrojowi państwa, bezpieczeństwu obywateli albo porządkowi publicznemu;
+
+### 7)
+
+prawa posiadania broni palnej, amunicji i materiałów wybuchowych oraz innych rodzajów broni lub określonych przedmiotów, poprzez nakazanie niezwłocznego złożenia do depozytu właściwego organu administracji rządowej albo zakazanie noszenia;
+
+### 8)
+
+dostępu do informacji publicznej.
+
+### Art. 22.
+
+### 1.
+
+Rada Ministrów, z zastrzeżeniem ust. 2 i 3, określa, w drodze rozporządzeń, szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia i stosowania ograniczeń wolności i praw człowieka i obywatela ustalonych przez Prezydenta Rzeczypospolitej Polskiej w rozporządzeniach, o których mowa w art. 3 ust. 1 i art. 5 ust. 1, uwzględniając w możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
+
+### 2.
+
+Jeżeli stan wyjątkowy został wprowadzony na obszarze jednego województwa lub jego części, określone w ust. 1 kompetencje Rady Ministrów przejmuje właściwy wojewoda.
+
+### 3.
+
+Określone w art. 21 ograniczenia wolności i praw człowieka i obywatela ustalone przez Prezydenta Rzeczypospolitej Polskiej w rozporządzeniach, o których mowa w art. 3 ust. 1 i art. 5 ust. 1, wprowadza się i stosuje w drodze rozporządzeń wydawanych przez:
+
+### 1)
+
+właściwego ministra - w przypadku jeżeli ograniczenie określone w art. 21 pkt 3 dotyczy szkół jemu podległych;
+
+### 2)
+
+ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego - w przypadku ograniczenia określonego w art. 21 pkt 4;
+
+### 3[3) Ze zmianą wprowadzoną przez art. 12 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), która weszła w życie z dniem 17 grudnia 2016 r.](#gloss-0:3:))
+
+ministrów właściwych do spraw transportu, żeglugi śródlądowej i gospodarki morskiej działających w porozumieniu z Ministrem Obrony Narodowej oraz ministrem właściwym do spraw wewnętrznych - w przypadku ograniczeń określonych w art. 21 pkt 5;
+
+### 4)
+
+ministra właściwego do spraw łączności i ministra właściwego do spraw informatyzacji działających w porozumieniu z ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej i ministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego w odniesieniu do bankowych systemów telekomunikacyjnych - w przypadku ograniczeń określonych w art. 21 pkt 6;
+
+### 5)
+
+ministra właściwego do spraw wewnętrznych oraz Ministra Obrony Narodowej w odniesieniu do żołnierzy zawodowych - w przypadku ograniczeń określonych w art. 21 pkt 7;
+
+### 6)
+
+właściwego wojewodę - w przypadku stosowania ograniczenia określonego w art. 21 pkt 3 do szkół, z wyłączeniem szkół wyższych, oraz stosowania ograniczeń określonych w art. 21 pkt 1, 1a, 2 i 5, jeżeli stan wyjątkowy wprowadzono na obszarze jednego województwa lub jego części.
+
+### 4.
+
+W rozporządzeniach, o których mowa w ust. 3, określa się szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia i stosowania ograniczeń wolności i praw człowieka i obywatela, uwzględniając w możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
+
+### Rozdział 4 Przepisy karne
+
+### Art. 23.
+
+### 1.
+
+Kto w czasie stanu wyjątkowego:
+
+### 1)
+
+wbrew zakazowi określonemu w art. 16 ust. 1 pkt 1 organizuje lub przeprowadza zgromadzenie,
+
+### 2)
+
+wbrew zakazowi określonemu w art. 16 ust. 1 pkt 2 organizuje lub przeprowadza imprezę masową albo inną imprezę artystyczną lub rozrywkową, niebędącą imprezą masową,
+
+### 3)
+
+wbrew zakazowi określonemu w art. 16 ust. 1 pkt 3-5 uczestniczy w strajku lub innej akcji protestacyjnej pracowników lub rolników, albo akcji protestacyjnej studentów zorganizowanej przez studenckie samorządy, stowarzyszenia lub organizacje,
+
+### 4)
+
+wbrew zakazowi określonemu w art. 16 ust. 1 pkt 6 lit. a tworzy stowarzyszenie, partię polityczną, związek zawodowy, organizację społeczno-zawodową rolników, organizację pracodawców, ruch obywatelski, dobrowolne zrzeszenie lub fundację,
+
+### 5)
+
+wbrew nakazowi określonemu w art. 16 ust. 1 pkt 6 lit. b uczestniczy w działalności zarejestrowanego stowarzyszenia, partii politycznej, związku zawodowego, organizacji społeczno-zawodowej rolników, organizacji pracodawców, ruchu obywatelskiego, dobrowolnego zrzeszenia lub fundacji,
+
+### 6)
+
+wbrew obowiązkowi określonemu w art. 18 ust. 1 nie posiada przy sobie dowodu osobistego lub innego dokumentu stwierdzającego tożsamość,
+
+### 7)
+
+wbrew nakazowi lub zakazowi określonemu w art. 18 ust. 2 pkt 1 przebywa lub nie opuszcza w ustalonym czasie oznaczonego miejsca, obiektu lub obszaru,
+
+### 8)
+
+wbrew nakazowi określonemu w art. 18 ust. 2 pkt 2 zmienia miejsce pobytu stałego lub czasowego bez wymaganego zezwolenia,
+
+### 9)
+
+wbrew nakazowi określonemu w art. 18 ust. 2 pkt 3 nie zgłasza w ustalonym terminie organowi ewidencji ludności lub Policji przybycia do określonej miejscowości,
+
+### 10)
+
+wbrew zakazowi określonemu w art. 18 ust. 2 pkt 4 utrwala za pomocą środków technicznych wygląd lub inną cechę określonego miejsca, obiektu lub obszaru,
+
+### 11)
+
+wbrew nakazowi określonemu w art. 21 pkt 1 narusza zasady reglamentacji zaopatrzenia ludności,
+
+### 11a)
+
+wbrew zakazowi określonemu w art. 21 pkt 1a podwyższa ceny na towary lub usługi określonego rodzaju albo nie stosuje się do nakazu stosowania cen w wysokości ustalonej na towary lub usługi określonego rodzaju,
+
+### 12)
+
+wbrew obowiązkowi określonemu w art. 21 pkt 2 nie stosuje się do nakazu zaniechania prowadzenia działalności gospodarczej określonego rodzaju, albo bez wymaganego zezwolenia rozpoczyna działalność gospodarczą określonego rodzaju,
+
+### 13)
+
+wbrew zakazowi określonemu w art. 21 pkt 3 organizuje lub przeprowadza zajęcia dydaktyczne w szkołach,
+
+### 14)
+
+wbrew zakazowi określonemu w art. 21 pkt 4 nie stosuje się do wprowadzonych ograniczeń w obrocie krajowymi środkami płatniczymi, obrocie dewizowym oraz działalności kantorowej,
+
+### 15)
+
+wbrew obowiązkowi określonemu w art. 21 pkt 5 nie stosuje się do ograniczeń w transporcie drogowym, kolejowym lub lotniczym, albo w ruchu jednostek pływających na morskich wodach wewnętrznych, morzu terytorialnym lub na śródlądowych drogach wodnych,
+
+### 16)
+
+wbrew obowiązkowi określonemu w art. 21 pkt 6 nie stosuje się do nakazu wyłączenia na czas określony urządzeń łączności lub zawieszenia świadczenia usług, albo nakazu niezwłocznego złożenia do depozytu radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych lub innego sposobu ich zabezpieczenia,
+
+### 17)
+
+wbrew obowiązkowi określonemu w art. 21 pkt 7 nie stosuje się do nakazu niezwłocznego złożenia do depozytu broni palnej, amunicji, materiałów wybuchowych, innych rodzajów broni lub określonych przedmiotów, albo zakazu ich noszenia,
+
+### 18)
+
+wbrew obowiązkowi określonemu w art. 21 pkt 8 nie stosuje się do wprowadzonych ograniczeń w dostępie do informacji publicznej
+
+- podlega karze aresztu albo grzywny.
+
+### 2.
+
+Rozpoznawanie spraw, określonych w ust. 1, następuje w trybie przepisów o postępowaniu w sprawach o wykroczenia w postępowaniu przyśpieszonym.
+
+### Art. 24.
+
+### 1.
+
+Niewykonane w całości lub w części do dnia zniesienia stanu wyjątkowego lub uchylenia odpowiednich ograniczeń wolności i praw człowieka i obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegają wykonaniu.
+
+### 2.
+
+Postępowania w sprawach o wykroczenia określone w niniejszej ustawie, wszczęte i niezakończone orzeczeniem kończącym postępowanie do dnia zniesienia stanu wyjątkowego lub uchylenia odpowiednich ograniczeń wolności i praw człowieka i obywatela, prowadzi się na podstawie przepisów ustawy, a wymierzone kary podlegają wykonaniu.
+
+### 3.
+
+Po zniesieniu stanu wyjątkowego postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+### Art. 25.
+
+(pominięty)
+
+### Art. 26.
+
+Traci moc ustawa z dnia 5 grudnia 1983 r. o stanie wyjątkowym ([Dz. U. poz. 297](https://api.sejm.gov.pl/eli/acts/DU/1983/297/text.html), [z 1989 r. poz. 178](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html) oraz [z 1997 r. poz. 512](https://api.sejm.gov.pl/eli/acts/DU/1997/512/text.html) i [554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)).
+
+### Art. 27.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia[4) Ustawa została ogłoszona w dniu 20 lipca 2002 r.](#gloss-0:4:).
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948 i 1955 oraz z 2017 r. poz. 60, 244, 708, 768, 1086 i 1321. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. poz. 324, z 1989 r. poz. 187, z 1990 r. poz. 173, z 1991 r. poz. 442, z 1996 r. poz. 542, z 1997 r. poz. 554 i 770, z 1999 r. poz. 999, z 2001 r. poz. 1198, z 2002 r. poz. 1271, z 2004 r. poz. 1181, z 2005 r. poz. 377, z 2007 r. poz. 590, z 2010 r. poz. 1228 i 1551, z 2011 r. poz. 459, 934, 1204 i 1660, z 2012 r. poz. 1136 oraz z 2013 r. poz. 771. 3) Ze zmianą wprowadzoną przez art. 12 ustawy z dnia 16 listopada 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 1954), która weszła w życie z dniem 17 grudnia 2016 r. 4) Ustawa została ogłoszona w dniu 20 lipca 2002 r.

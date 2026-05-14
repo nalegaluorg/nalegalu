@@ -1,0 +1,638 @@
+---
+title: "Rozporządzenie Ministra Zdrowia z dnia 27 listopada 2019 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej"
+address: WDU20190002335
+eli: DU/2019/2335
+publisher: DU
+year: 2019
+pos: 2335
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Zdrowiaz dnia 27 listopada 2019 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 2335 |
+| ISAP | WDU20190002335 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-11-27 |
+| Data wydania | 2019-11-29 |
+| Wejście w życie | 2019-12-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/2335/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/2335) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Zakres zadań lekarza podstawowej opieki zdrowotnej](#part_2)
+
+- [Załącznik nr 2 - Zakres zadań pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 13 ust. 4 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej ([Dz. U. z 2019 r. poz. 357](https://api.sejm.gov.pl/eli/acts/DU/2019/357/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [1590](https://api.sejm.gov.pl/eli/acts/DU/2019/1590/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Ustala się zakres zadań lekarza podstawowej opieki zdrowotnej, który określa załącznik nr 1 do rozporządzenia.
+
+### § 2.
+
+Ustala się zakres zadań pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej, który określa załącznik nr 2 do rozporządzenia.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 2 grudnia 2019 r.[2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 września 2016 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej (Dz. U. poz. 1567), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590).](#gloss-0:2:)
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 21 września 2016 r. w sprawie zakresu zadań lekarza podstawowej opieki zdrowotnej, pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej (Dz. U. poz. 1567), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 35 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej (Dz. U. z 2019 r. poz. 357, 730 i 1590).
+
+## Załącznik nr 1 - Zakres zadań lekarza podstawowej opieki zdrowotnej
+
+### 1.
+
+W zakresie działań mających na celu zachowanie zdrowia świadczeniobiorcy lekarz podstawowej opieki zdrowotnej, zwany dalej „lekarzem POZ”:
+
+### 1)
+
+prowadzi edukację zdrowotną;
+
+### 2)
+
+prowadzi systematyczną i okresową ocenę stanu zdrowia w ramach badań bilansowych;
+
+### 3)
+
+uczestniczy w realizacji programów zdrowotnych i programów polityki zdrowotnej, działając na rzecz zachowania zdrowia w społeczności lokalnej;
+
+### 4)
+
+rozpoznaje środowisko świadczeniobiorcy.
+
+### 2.
+
+W zakresie działań mających na celu profilaktykę chorób lekarz POZ:
+
+### 1)
+
+identyfikuje czynniki ryzyka oraz zagrożenia zdrowotne świadczeniobiorcy, a także podejmuje działania ukierunkowane na ich ograniczenie;
+
+### 2)
+
+informuje o obowiązku poddania się obowiązkowym szczepieniom ochronnym przeciw chorobom zakaźnym oraz o zalecanych szczepieniach ochronnych przeciw chorobom zakaźnym;
+
+### 3)
+
+przeprowadza badania kwalifikacyjne poprzedzające wykonanie obowiązkowych albo zalecanych szczepień ochronnych przeciw chorobom zakaźnym oraz, jeżeli dotyczy, kieruje na konsultację specjalistyczną;
+
+### 4)
+
+koordynuje wykonanie obowiązkowych i zalecanych szczepień ochronnych przeciw chorobom zakaźnym;
+
+### 5)
+
+uczestniczy w realizacji programów profilaktycznych;
+
+### 6)
+
+prowadzi systematyczną i okresową ocenę stanu zdrowia w ramach badań przesiewowych.
+
+### 3.
+
+W zakresie działań mających na celu rozpoznawanie chorób lekarz POZ:
+
+### 1)
+
+planuje i koordynuje postępowanie diagnostyczne, stosownie do stanu zdrowia świadczeniobiorcy;
+
+### 2)
+
+informuje świadczeniobiorcę o możliwościach postępowania diagnostycznego w odniesieniu do jego stanu zdrowia oraz wskazuje podmioty właściwe do jego przeprowadzenia;
+
+### 3)
+
+przeprowadza badanie podmiotowe świadczeniobiorcy zgodnie z aktualną wiedzą medyczną;
+
+### 4)
+
+przeprowadza badanie przedmiotowe z wykorzystaniem technik dostępnych w warunkach podstawowej opieki zdrowotnej;
+
+### 5)
+
+wykonuje testy lub zleca wykonanie badań dodatkowych, w szczególności laboratoryjnych lub obrazowych;
+
+### 6)
+
+wystawia kartę diagnostyki i leczenia onkologicznego, jeżeli stwierdzi podejrzenie nowotworu złośliwego;
+
+### 7)
+
+kieruje świadczeniobiorcę do świadczeniodawców udzielających ambulatoryjnych lub stacjonarnych i całodobowych świadczeń zdrowotnych, w przypadku gdy uzna to za konieczne;
+
+### 8)
+
+dokonuje interpretacji wyników badań i konsultacji wykonanych przez innych świadczeniodawców;
+
+### 9)
+
+orzeka o stanie zdrowia świadczeniobiorcy po uprzednim, osobistym jego zbadaniu lub zbadaniu za pośrednictwem systemów teleinformatycznych lub systemów łączności, a także po analizie dostępnej dokumentacji medycznej świadczeniobiorcy.
+
+### 4.
+
+W zakresie działań mających na celu leczenie chorób lekarz POZ:
+
+### 1)
+
+planuje i uzgadnia ze świadczeniobiorcą postępowanie terapeutyczne, stosownie do jego problemów zdrowotnych oraz zgodnie z aktualną wiedzą medyczną;
+
+### 2)
+
+planuje i uzgadnia ze świadczeniobiorcą działania edukacyjne mające na celu ograniczenie lub wyeliminowanie stanu będącego przyczyną choroby świadczeniobiorcy;
+
+### 3)
+
+zleca i monitoruje leczenie farmakologiczne;
+
+### 4)
+
+wykonuje lub zleca wykonanie zabiegów;
+
+### 5)
+
+kieruje świadczeniobiorcę do innych świadczeniodawców, w celu wykonania zabiegów;
+
+### 6)
+
+kieruje świadczeniobiorcę do innych świadczeniodawców, w tym udzielających ambulatoryjnych lub stacjonarnych i całodobowych świadczeń zdrowotnych, w celu dalszego leczenia;
+
+### 7)
+
+kieruje do pielęgniarskiej długoterminowej opieki domowej;
+
+### 8)
+
+kieruje do leczenia uzdrowiskowego;
+
+### 9)
+
+orzeka o czasowej niezdolności do pracy lub nauki;
+
+### 10)
+
+wydaje zaświadczenia i orzeczenia lekarskie, zgodnie z odpowiednimi przepisami;
+
+### 11)
+
+wystawia receptę albo zlecenie na zaopatrzenie w wyroby medyczne;
+
+### 12)
+
+integruje, koordynuje lub kontynuuje działania lecznicze podejmowane w odniesieniu do świadczeniobiorcy przez innych świadczeniodawców w ramach swoich kompetencji zawodowych, zgodnie z aktualną wiedzą medyczną.
+
+### 5.
+
+W zakresie działań mających na celu rehabilitację świadczeniobiorcy lekarz POZ:
+
+### 1)
+
+wystawia skierowanie na zabiegi fizjoterapeutyczne;
+
+### 2)
+
+wykonuje, stosownie do posiadanych kwalifikacji i zgodnie z aktualną wiedzą medyczną, zabiegi rehabilitacyjne;
+
+### 3)
+
+wystawia receptę albo zlecenie na zaopatrzenie w wyroby medyczne.
+
+## Załącznik nr 2 - Zakres zadań pielęgniarki podstawowej opieki zdrowotnej i położnej podstawowej opieki zdrowotnej
+
+### A.
+
+Zakres zadań pielęgniarki podstawowej opieki zdrowotnej, zwanej dalej „pielęgniarką POZ”
+
+### 1.
+
+Zadania pielęgniarki POZ w zakresie promocji zdrowia i profilaktyki chorób obejmują:
+
+### 1)
+
+rozpoznawanie, ocenę i zapobieganie zagrożeniom zdrowotnym u świadczeniobiorców;
+
+### 2)
+
+rozpoznawanie potrzeb pielęgnacyjnych i problemów zdrowotnych świadczeniobiorców;
+
+### 3)
+
+prowadzenie edukacji zdrowotnej;
+
+### 4)
+
+prowadzenie poradnictwa w zakresie zdrowego stylu życia;
+
+### 5)
+
+monitorowanie rozwoju dziecka;
+
+### 6)
+
+realizację programów zdrowotnych, programów polityki zdrowotnej i profilaktyki chorób;
+
+### 7)
+
+prowadzenie działań profilaktycznych u świadczeniobiorców z grup ryzyka zdrowotnego;
+
+### 8)
+
+organizowanie grup wsparcia;
+
+### 9)
+
+profilaktykę chorób wieku rozwojowego;
+
+### 10)
+
+edukację w zakresie obowiązkowych i zalecanych szczepień ochronnych przeciw chorobom zakaźnym.
+
+### 2.
+
+Zadania pielęgniarki POZ w zakresie świadczeń pielęgnacyjnych obejmują:
+
+### 1)
+
+realizację opieki pielęgnacyjnej nad świadczeniobiorcą w różnych stanach zdrowia i choroby zgodnie z aktualną wiedzą medyczną i standardami opieki pielęgniarskiej;
+
+### 2)
+
+wykonywanie zabiegów pielęgnacyjnych;
+
+### 3)
+
+przygotowywanie i aktywizowanie do samoopieki i samopielęgnacji w chorobie i niepełnosprawności.
+
+### 3.
+
+Zadania pielęgniarki POZ w zakresie świadczeń diagnostycznych obejmują:
+
+### 1)
+
+przeprowadzanie wywiadów środowiskowych;
+
+### 2)
+
+wykonywanie badania fizykalnego;
+
+### 3)
+
+wykonywanie podstawowych parametrów życiowych i ich ocenę oraz interpretację;
+
+### 4)
+
+ocenę stanu ogólnego świadczeniobiorcy oraz procesu jego zdrowienia;
+
+### 5)
+
+ocenę jakości życia i wydolności psychofizycznej świadczeniobiorcy;
+
+### 6)
+
+wykrywanie odchyleń od normy rozwojowej;
+
+### 7)
+
+wykonywanie testów diagnostycznych poza laboratorium przy wykorzystaniu zestawów i aparatury przeznaczonych do wykonywania oznaczeń w miejscu zamieszkania świadczeniobiorcy;
+
+### 8)
+
+ocenę i monitorowanie bólu;
+
+### 9)
+
+ocenę wydolności pielęgnacyjno-opiekuńczej rodziny;
+
+### 10)
+
+pobieranie materiału do badań diagnostycznych;
+
+### 11)
+
+wystawianie skierowań na wykonanie badań diagnostycznych, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla pacjenta - zgodnie z wymogami art. 15a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2019 r. poz. 576, z późn. zm.).
+
+### 4.
+
+Zadania pielęgniarki POZ w zakresie świadczeń leczniczych obejmują:
+
+### 1)
+
+udzielanie pierwszej pomocy w stanach nagłego zagrożenia zdrowotnego i w nagłych zachorowaniach, w tym prowadzenie resuscytacji krążeniowo-oddechowej;
+
+### 2)
+
+podawanie leków różnymi drogami i technikami zleconymi przez lekarza, w tym wykonywanie iniekcji domięśniowych, dożylnych, podskórnych, śródskórnych oraz wykonywanie wlewów dożylnych;
+
+### 3)
+
+zakładanie opatrunków na rany, odleżyny i oparzenia;
+
+### 4)
+
+cewnikowanie pęcherza moczowego i usuwanie cewnika;
+
+### 5)
+
+płukanie pęcherza moczowego;
+
+### 6)
+
+wykonywanie wlewów lub wlewek doodbytniczych;
+
+### 7)
+
+w porozumieniu z lekarzem wykonywanie zabiegów pielęgnacyjno-leczniczych w stomiach, przetokach i trudno gojących się ranach;
+
+### 8)
+
+zdejmowanie szwów;
+
+### 9)
+
+wykonywanie inhalacji;
+
+### 10)
+
+wykonywanie zabiegów z zastosowaniem ciepła i zimna;
+
+### 11)
+
+ustalanie diety w żywieniu przewlekle chorych;
+
+### 12)
+
+dobór technik karmienia w zależności od stanu chorego;
+
+### 13)
+
+doraźną modyfikację dawki leków przeciwbólowych, w uzgodnieniu z lekarzem i zgodnie z wykazem leków, do podawania których jest uprawniona pielęgniarka;
+
+### 14)
+
+w ramach samodzielnego wykonywania świadczeń - ordynowanie leków zawierających określone substancje czynne, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego, w tym wystawianie na nie recept oraz ordynowanie określonych wyrobów medycznych, w tym wystawianie na nie zleceń albo recept - zgodnie z wymogami określonymi w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej;
+
+### 15)
+
+w ramach realizacji zleceń lekarskich - wystawianie recept na leki, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, niezbędne do kontynuacji leczenia, oraz wystawienie zleceń na wyroby medyczne - zgodnie z wymogami określonymi w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+### 5.
+
+Zadania pielęgniarki POZ w zakresie świadczeń rehabilitacyjnych obejmują:
+
+### 1)
+
+rehabilitację przyłóżkową w celu zapobiegania powikłaniom wynikającym z procesu chorobowego i długotrwałego unieruchomienia;
+
+### 2)
+
+usprawnianie ruchowe;
+
+### 3)
+
+drenaż ułożeniowy, prowadzenie gimnastyki oddechowej;
+
+### 4)
+
+ćwiczenia ogólnousprawniające;
+
+### 5)
+
+ułożenie i przemieszczanie chorego w łóżku.
+
+### B.
+
+Zakres zadań położnej podstawowej opieki zdrowotnej, zwanej dalej „położną POZ”
+
+### 1.
+
+Zadania położnej POZ w zakresie promocji zdrowia i profilaktyki chorób obejmują:
+
+### 1)
+
+edukację dotyczącą prozdrowotnego stylu życia kobiety;
+
+### 2)
+
+edukację przedporodową;
+
+### 3)
+
+poradnictwo w zakresie odżywiania w okresie ciąży i połogu;
+
+### 4)
+
+poradnictwo w zakresie pielęgnacji i prawidłowego żywienia noworodka i niemowlęcia do 8. tygodnia życia;
+
+### 5)
+
+poradnictwo laktacyjne i promowanie karmienia piersią;
+
+### 6)
+
+kształtowanie postaw rodzicielskich;
+
+### 7)
+
+edukację i udzielanie porad w zakresie powrotu płodności po porodzie i metod regulacji płodności;
+
+### 8)
+
+profilaktykę chorób ginekologicznych i patologii położniczych;
+
+### 9)
+
+edukację kobiety we wszystkich okresach życia w zakresie prowadzenia samoobserwacji oraz podejmowania działań w celu wczesnego wykrywania i likwidacji czynników ryzyka nowotworowego;
+
+### 10)
+
+edukację w zakresie zapobiegania zakażeniom HIV oraz chorobom przenoszonym drogą płciową;
+
+### 11)
+
+profilaktykę chorób wieku rozwojowego;
+
+### 12)
+
+edukację w zakresie obowiązkowych i zalecanych szczepień ochronnych przeciw chorobom zakaźnym.
+
+### 2.
+
+Zadania położnej POZ w zakresie świadczeń pielęgnacyjnych obejmują:
+
+### 1)
+
+planowanie, realizację i ocenę opieki pielęgnacyjnej nad:
+
+### a)
+
+kobietą w okresie ciąży, porodu i połogu,
+
+### b)
+
+noworodkiem i niemowlęciem do 8. tygodnia życia,
+
+### c)
+
+kobietą ze schorzeniami ginekologicznymi;
+
+### 2)
+
+przygotowanie i wspieranie rodziny w opiece nad noworodkiem, niemowlęciem i kobietą;
+
+### 3)
+
+przygotowanie kobiety do samoopieki i samopielęgnacji.
+
+### 3.
+
+Zadania położnej POZ w zakresie świadczeń diagnostycznych obejmują:
+
+### 1)
+
+przeprowadzanie wywiadu środowiskowego lub rodzinnego;
+
+### 2)
+
+monitorowanie rozwoju ciąży fizjologicznej;
+
+### 3)
+
+wykonywanie badania położniczego;
+
+### 4)
+
+zwracanie uwagi na relację rodziny z noworodkiem i niemowlęciem do drugiego miesiąca życia;
+
+### 5)
+
+ocenę stanu psychicznego kobiety w okresie ciąży i połogu, w tym ryzyka wystąpienia depresji poporodowej;
+
+### 6)
+
+monitorowanie przebiegu połogu i rozwoju noworodka i niemowlęcia do 8. tygodnia życia;
+
+### 7)
+
+obserwację i ocenę rozwoju psychoruchowego noworodka i niemowlęcia do 8. tygodnia życia oraz adaptacji do środowiska zewnętrznego;
+
+### 8)
+
+wykonywanie pomiarów u kobiety i noworodka oraz ocenę tych pomiarów zgodnie z przepisami dotyczącymi standardu organizacyjnego opieki okołoporodowej, wydanymi na podstawie art. 22 ust. 5 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 2190, z późn. zm.);
+
+### 9)
+
+ocenę poziomu bilirubiny u noworodka w oparciu o topografię zażółcenia według schematu Kramera oraz pobieranie materiału do testów przesiewowych w kierunku wykrycia chorób metabolicznych;
+
+### 10)
+
+wykonywanie testów diagnostycznych poza laboratorium przy wykorzystaniu zestawów i aparatury przeznaczonych do wykonywania oznaczeń w miejscu zamieszkania świadczeniobiorcy;
+
+### 11)
+
+pobieranie materiału do badań diagnostycznych;
+
+### 12)
+
+wystawianie skierowań na wykonanie określonych badań diagnostycznych, w tym medycznej diagnostyki laboratoryjnej, z wyjątkiem badań wymagających metod diagnostycznych i leczniczych stwarzających podwyższone ryzyko dla pacjenta - zgodnie z wymogami art. 15a ust. 6 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+### 4.
+
+Zadania położnej POZ w zakresie świadczeń leczniczych obejmują:
+
+### 1)
+
+udzielanie pierwszej pomocy w stanach nagłego zagrożenia zdrowotnego i w nagłych zachorowaniach, w tym prowadzenie resuscytacji krążeniowo-oddechowej;
+
+### 2)
+
+udzielanie pomocy położniczej i neonatologicznej w stanach nagłego zagrożenia zdrowotnego do czasu przybycia lekarza;
+
+### 3)
+
+przyjmowanie porodu nagłego w warunkach domowych;
+
+### 4)
+
+zabezpieczenie naciętego lub pękniętego krocza;
+
+### 5)
+
+udzielanie pomocy w okresie laktacji;
+
+### 6)
+
+wykonywanie zabiegów leczniczych, w tym:
+
+### a)
+
+podawanie leków różnymi drogami i technikami zleconymi przez lekarza, w tym wykonywanie iniekcji domięśniowych, dożylnych, podskórnych i śródskórnych oraz wykonywanie wlewów dożylnych,
+
+### b)
+
+zdejmowanie szwów,
+
+### c)
+
+cewnikowanie pęcherza moczowego u kobiet, usuwanie cewnika, płukanie pęcherza moczowego,
+
+### d)
+
+wykonywanie wlewów lub wlewek doodbytniczych,
+
+### e)
+
+płukanie pochwy,
+
+### f)
+
+leczenie i opatrywanie oparzeń, ran oraz odleżyn we współpracy z pielęgniarką POZ,
+
+### g)
+
+wykonywanie zabiegów z zastosowaniem ciepła i zimna;
+
+### 7)
+
+ustalanie diety kobiety zgodnie z potrzebami;
+
+### 8)
+
+doraźną modyfikację dawki leczniczej leku przeciwbólowego, w uzgodnieniu z lekarzem i zgodnie z wykazem leków, do podawania których jest uprawniona położna;
+
+### 9)
+
+w ramach samodzielnego wykonywania świadczeń - ordynowanie leków zawierających określone substancje czynne, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz środków spożywczych specjalnego przeznaczenia żywieniowego, w tym wystawianie na nie recept oraz ordynowanie określonych wyrobów medycznych, w tym wystawianie na nie zleceń albo recept - zgodnie z wymogami określonymi w art. 15a ust. 1 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej;
+
+### 10)
+
+w ramach realizacji zleceń lekarskich - wystawianie recept na leki, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, środki spożywcze specjalnego przeznaczenia żywieniowego oraz wyroby medyczne, niezbędne do kontynuacji leczenia, oraz wystawienie zleceń na wyroby medyczne - zgodnie z wymogami określonymi w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej.
+
+### 5.
+
+Zadania położnej POZ w zakresie świadczeń rehabilitacyjnych obejmują:
+
+### 1)
+
+ćwiczenia usprawniające w ciąży, połogu i schorzeniach ginekologicznych;
+
+### 2)
+
+wykonywanie drenażu ułożeniowego u kobiety;
+
+### 3)
+
+prowadzenie gimnastyki oddechowej, relaksacyjnej i przygotowującej do porodu oraz w okresie połogu.

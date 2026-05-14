@@ -8,11 +8,9 @@ pos: 628
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zakazie stosowania wyrobów zawierających azbest
-
-*USTAWA z dnia 19 czerwca 1997 r.*
+# Ustawa z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest
 
 | Pole | Wartość |
 |---|---|
@@ -24,104 +22,194 @@ domain: null
 | Data ogłoszenia | 1997-06-19 |
 | Data wydania | 1997-08-28 |
 | Ostatnia zmiana | 2025-12-11 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971010628) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/628/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/628/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/628) |
 
-26. Wytwórnia Materiałów Izolacyjnych Azbestowo-Cementowych S.C.
-w Żelechach, gm. Piątnica.
-27. Wytwórnia Uszczelek „PZL MORPAK” Zakład w Łapinie.
-28. PILKINGTON POLSKA w Sandomierzu (poprzednia nazwa – Huta Szkła Okiennego „Sandomierz”).
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1)
 
-1. Zakazuje się produkcji wyrobów zawierających azbest.
+- [Załącznik nr 1 - Wykaz wyrobów zawierających azbest nie objętych zakazem produkcji, obrotu i importu](#part_2)
 
-2. Ilekroć w ustawie jest mowa o azbeście, należy przez to rozumieć następujące włókniste krzemiany:
+- [Załącznik nr 2 - Wykaz zakładów, które produkują wyroby zawierające azbest](#part_3)
 
-- **1)** azbest chryzotylowy, nr CAS 12001-29-5;
-- **2)** azbest krokidolitowy, nr CAS 12001-28-4;
-- **3)** azbest amozytowy (gruenerytowy), nr CAS 12172-73-5;
-- **4)** azbest antofilitowy, nr CAS 77536-67-5;
-- **5)** azbest tremolitowy, nr CAS 77536-68-6;
-- **6)** azbest aktynolitowy, nr CAS 77536-66-4.
+- [Załącznik nr 3 - Wykaz zakładów, które zaprzestały produkcji wyrobów zawierających azbest](#part_4)
 
-3. Na podstawie przepisów załącznika XVII do rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.) w zakresie dotyczącym wprowadzania do obrotu i stosowania włókien azbestu i wyrobów zawierających włókna azbestu, dopuszcza się wprowadzanie do obrotu i stosowanie diafragm do istniejących instalacji elektrolitycznych zawierających azbest chryzotylowy oraz stosowanie wałów z azbestu chryzotylowego stosowanych do ciągnienia szkła zainstalowanych lub znajdujących się w użytkowaniu przed dniem 1 stycznia 2005 r., do czasu ich zużycia lub do czasu kiedy będą dostępne substytuty bezazbestowe, w zależności od tego która okoliczność wystąpi wcześniej.
+TOC
 
-**Art. 2.** (uchylony)
+## Treść ustawy
 
-**Art. 3.** (uchylony)
+### Art. 1.
 
-**Art. 4.**
+### 1.
 
-1. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych, ministrem właściwym do spraw żeglugi śródlądowej, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw klimatu, określi, w drodze rozporządzenia, sposoby i warunki bezpiecznego użytkowania i usuwania wyrobów zawierających azbest.
+W celu wyeliminowania produkcji, stosowania oraz obrotu wyrobami zawierającymi azbest zakazuje się:
 
-1a. W rozporządzeniu, o którym mowa w ust. 1, określa się:
+### 1)
 
-- **1)** obowiązki wykonawcy prac polegających na bezpiecznym użytkowaniu i usuwaniu wyrobów zawierających azbest;
-- **2)** sposoby i warunki bezpiecznego użytkowania oraz usuwania wyrobów zawierających azbest, z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska;
-- **3)** warunki przygotowania do transportu i transportu wyrobów i odpadów zawierających azbest do miejsca ich składowania z uwzględnieniem zabezpieczeń przed przenikaniem azbestu do środowiska;
-- **4)** wymagania, jakim powinno odpowiadać oznakowanie wyrobów i odpadów zawierających azbest.
+wprowadzania na polski obszar celny:
 
-2. Minister właściwy do spraw pracy, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, w terminie 6 miesięcy od dnia wejścia w życie ustawy:
+### a)
 
-- **1)** zasady bezpieczeństwa i higieny pracy przy zabezpieczaniu i usuwaniu wyrobów zawierających azbest, zawierających azbest – uwzględniając środki mające na celu eliminowanie lub ograniczania emisji pyłów azbestu i ochrony pracowników przed ich działaniem oraz sposoby pakowania i znakowania materiałów zawierających azbest.
+wyrobów zawierających azbest,
 
-**Art. 5.**
+### b)
 
-1. Pracownikom zatrudnionym w zakładach wymienionych w załącznikach nr 2 i 3 do ustawy, w przypadku stwierdzenia po dniu rozwiązania stosunku pracy choroby zawodowej, jednorazowe odszkodowanie przysługujące od pracodawcy na podstawie przepisów o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych wypłaca Zakład Ubezpieczeń Społecznych.
+azbestu,
 
-2. Świadczenie, o którym mowa w ust. 1, finansowane jest ze środków budżetu państwa.
+### 2)
 
-3. Przepisy ust. 1 i 2 stosuje się także do jednorazowych odszkodowań przysługujących członkom rodziny pracownika, o którym mowa w ust. 1, a który zmarł wskutek choroby zawodowej.
+produkcji wyrobów zawierających azbest,
 
-**Art. 6.**
+### 3)
 
-1. Osobom spełniającym warunki do uzyskania statusu bezrobotnego i prawa do zasiłku dla bezrobotnych, określone w ustawie z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), przysługuje świadczenie przedemerytalne, o którym mowa w art. 2 ustawy z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421 i 620), jeżeli posiadają okres uprawniający do emerytury wynoszący co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 10 lat były zatrudnione w pełnym wymiarze czasu pracy w zakładach wymienionych w załącznikach nr 2 i 3 do niniejszej ustawy, z zastrzeżeniem ust. 2 i 3.
+obrotu azbestem i wyrobami zawierającymi azbest.
 
-2. Do okresu zatrudnienia, o którym mowa w ust. 1, zalicza się okresy:
+### 2.
 
-- **1)** zatrudnienia w zakładach wymienionych w załącznikach nr 2 i 3 oraz w przedsiębiorstwach powstałych w wyniku przekształcenia, podziału lub połączenia tych zakładów lub w przedsiębiorstwach korzystających z ich majątku do czasu zaprzestania produkcji wyrobów zawierających azbest i oczyszczenia tych zakładów z azbestu, nie później jednak niż do 31 grudnia 1999 r.;
-- **2)** zatrudnienia w innych przedsiębiorstwach, jeżeli pracownik był oddelegowany i wykonywał stale pracę na terenie zakładów, o których mowa w pkt 1. warunki, o których mowa w ust. 1 i 2, która w dniu wejścia w życie ustawy była zatrudniona w zakładach wymienionych w ust. 2, a rozwiązanie stosunku pracy z ostatnim pracodawcą nastąpiło z przyczyn dotyczących zakładu pracy.
+Przepis ust. 1 nie ma zastosowania, z zastrzeżeniem ust. 3, do wyrobów określonych w załączniku nr 1 do ustawy.
 
-**Art. 6a.** (uchylony)
+### 3.
 
-**Art. 6b.** (uchylony)
+Minister Gospodarki, w porozumieniu z Ministrem Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa, określa corocznie, w drodze rozporządzenia, na wniosek producenta lub podmiotu wprowadzającego na polski obszar celny wyroby zawierające azbest, wykaz wyrobów dopuszczonych do produkcji lub do wprowadzania na polski obszar celny spośród wyrobów określonych w załączniku nr 1 do ustawy.
 
-**Art. 7.**
+### Art. 2.
 
-1. Celem objęcia szczególną opieką zdrowotną pracowników i byłych pracowników zatrudnionych przy produkcji wyrobów zawierających azbest wprowadza się książeczkę badań profilaktycznych dla osoby, która była lub jest zatrudniona w warunkach narażenia zawodowego w zakładach stosujących azbest w procesach technologicznych.
+### 1.
 
-2. Książeczkę wystawia i przekazuje osobom, o których mowa w ust. 1, pracodawca, a w przypadku likwidacji lub upadłości pracodawcy – wojewódzki ośrodek medycyny pracy. Podmiot wystawiający książeczki zobowiązany jest do ich ewidencjonowania.
+Zakłady wymienione w załączniku nr 1 do ustawy, które w dniu wejścia jej w życie produkowały płyty faliste azbestowo-cementowe dla budownictwa, mogą, nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie ustawy nadal produkować te wyroby.
 
-3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór książeczki, sposób jej wypełniania i aktualizacji, uwzględniając czas zatrudnienia w warunkach narażenia zawodowego na działanie pyłów azbestu oraz szczegółowe parametry tego narażenia.
+### 2.
 
-**Art. 7a.**
+W zakresie dotyczącym produkcji i obrotu wyrobami, o których mowa w ust. 1, nie stosuje się zakazów określonych w art. 1:
 
-1. Pracownicy zakładów wymienionych w załączniku nr 4 do ustawy, zatrudnieni w tych zakładach w dniu 28 września 1997 r. lub przed tą datą, są uprawnieni do:
+### 1)
 
-- **1)** okresowych badań lekarskich, o których mowa w art. 229 § 5 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
-- **2)** bezpłatnego zaopatrzenia w leki związane z chorobami wywołanymi pracą przy azbeście;
-- **3)** korzystania raz w roku z leczenia uzdrowiskowego oraz zwolnienia z odpłatności związanej z leczeniem uzdrowiskowym, o której mowa w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+w ust. 1 pkt 1 lit. b) - przez okres 9 miesięcy od dnia wejścia w życie ustawy,
 
-2. Uprawnienia, o których mowa w ust. 1, finansowane są ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+### 2)
 
-3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki, które muszą spełniać podmioty uprawnione do przeprowadzania okresowych ich przeprowadzaniem, tryb i zakres tych badań lekarskich, ich częstotliwość oraz sposób dokumentowania, uwzględniając zasady profilaktycznej opieki zdrowotnej nad pracownikami zatrudnionymi w warunkach narażenia na działanie czynników rakotwórczych i pyłów zwłókniających.
+w ust. 1 pkt 3 - przez okres 18 miesięcy od dnia wejścia w życie ustawy.
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz leków, o których mowa w ust. 1 pkt 2, sposób realizacji recept oraz tryb rozliczania przez instytucje powszechnego ubezpieczenia zdrowotnego z budżetem państwa kosztów tych leków, uwzględniając strukturę chorób i stosowane w leczeniu tych chorób leki.
+### Art. 3.
 
-5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
+### 1.
 
-- **1)** tryb kierowania na leczenie uzdrowiskowe, o którym mowa w ust. 1 pkt 3,
-- **2)** tryb rozliczania przez instytucje powszechnego ubezpieczenia zdrowotnego z budżetem państwa kosztów z tytułu odpłatności, o której mowa w ust. 1 pkt 3 – uwzględniając podmioty kompetentne pod względem merytorycznym i formalnoprawnym do wystawiania skierowań i kwalifikowania na leczenie uzdrowiskowe.
+Zakłady pracy wymienione w załączniku nr 2 do ustawy, realizujące programy restrukturyzacyjne, przedkładają Ministrowi Gospodarki - w okresach kwartalnych - informacje o przebiegu procesu restrukturyzacyjnego.
 
-6. Uprawnienia, o których mowa w ust. 1 pkt 2 i 3, przysługują również pracownikom zatrudnionym w zakładach, które, zgodnie z art. 1 ust. 3, produkują wyroby zawierające azbest.
+### 2.
 
-**Art. 7b.**
+Realizacja programów, o których mowa w ust. 1, może być wspierana środkami budżetu państwa określonymi na ten cel w ustawie budżetowej.
 
-1. Kto wbrew przepisom ustawy wprowadza na terytorium Rzeczypospolitej Polskiej azbest lub wyroby zawierające azbest, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności od 3 miesięcy do lat 5.
+### 3.
 
-2. Tej samej karze podlega, kto produkuje wyroby zawierające azbest lub dokonuje obrotu azbestem lub wyrobami zawierającymi azbest.
+Rada Ministrów określi, w drodze rozporządzenia, warunki i tryb wspierania programów, o których mowa w ust. 1.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia . dnia 19 czerwca 1997 r. (Dz. U. z 2025 r. poz.
+### 4.
 
-##### Oddział w Sokółce).
+W przypadku nierealizowania przez zakłady pracy wymienione w załączniku nr 2 do ustawy programu, o którym mowa w ust. 1, Minister Gospodarki może, w drodze rozporządzenia, skrócić dla tego zakładu określony okres, w ciągu którego dopuszczalna jest dalsza produkcja wyrobów zawierających azbest.
 
+### Art. 4.
+
+### 1.
+
+Minister Gospodarki, w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji oraz Ministrem Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa, określi, w drodze rozporządzenia, w terminie 6 miesięcy od dnia wejścia w życie ustawy, sposoby bezpiecznego użytkowania oraz warunki usuwania wyrobów zawierających azbest.
+
+### 2.
+
+Minister Pracy i Polityki Socjalnej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, określi, w drodze rozporządzenia, w terminie 6 miesięcy od dnia wejścia w życie ustawy:
+
+### 1)
+
+zasady bezpieczeństwa i higieny pracy przy zabezpieczaniu i usuwaniu wyrobów zawierających azbest,
+
+### 2)
+
+program szkolenia w zakresie bezpiecznego użytkowania wyrobów zawierających azbest.
+
+### Art. 5.
+
+### 1.
+
+Pracownikom zatrudnionym w zakładach wymienionych w załącznikach nr 2 i 3 do ustawy, z którymi rozwiązano stosunek pracy, po dniu wejścia w życie ustawy, z przyczyn dotyczących pracodawcy, w przypadku stwierdzenia po dniu rozwiązania stosunku pracy choroby zawodowej, jednorazowe odszkodowanie przysługujące od pracodawcy na podstawie przepisów o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych wypłaca Zakład Ubezpieczeń Społecznych.
+
+### 2.
+
+Świadczenie, o którym mowa w ust. 1, finansowane jest ze środków budżetu państwa.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się także do jednorazowych odszkodowań przysługujących członkom rodziny pracownika, o którym mowa w ust. 1, a który zmarł wskutek choroby zawodowej.
+
+### Art. 6.
+
+Osobom spełniającym warunki do uzyskania statusu bezrobotnego i prawa do zasiłku dla bezrobotnych określone w ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu ([Dz. U. z 1997 r. Nr 25, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1997/128/text.html), [Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html) i [Nr 41, poz. 255](https://api.sejm.gov.pl/eli/acts/DU/1997/255/text.html), [Nr 63, poz. 403](https://api.sejm.gov.pl/eli/acts/DU/1997/403/text.html) i [Nr 93, poz. 569](https://api.sejm.gov.pl/eli/acts/DU/1997/569/text.html)) przysługuje zasiłek przedemerytalny, o którym mowa w art. 37j ust. 3 i 6 tej ustawy, jeżeli jednocześnie:
+
+### 1)
+
+posiadają okres uprawniający do emerytury, w tym co najmniej przez okres 10 lat były zatrudnione w pełnym wymiarze czasu pracy w zakładach wymienionych w załącznikach nr 2 i 3 do niniejszej ustawy,
+
+### 2)
+
+ostatnim pracodawcą były zakłady wymienione w tych załącznikach i stosunek pracy został rozwiązany z przyczyn dotyczących pracodawcy po dniu wejścia w życie niniejszej ustawy w okresie nie dłuższym niż 5 lat od dnia jej wejścia w życie.
+
+### Art. 7.
+
+### 1.
+
+Celem objęcia szczególną opieką zdrowotną pracowników i byłych pracowników zatrudnionych przy produkcji wyrobów zawierających azbest wprowadza się książeczkę dla osoby narażonej na działanie pyłów zawierających włókna azbestu, która była lub jest zatrudniona w warunkach narażenia zawodowego w zakładach stosujących azbest w procesach technologicznych.
+
+### 2.
+
+Książeczkę wystawia i przekazuje osobom, o których mowa w ust. 1, pracodawca.
+
+### 3.
+
+Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, wzór książeczki, sposób jej wypełnienia i aktualizacji.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 - Wykaz wyrobów zawierających azbest nie objętych zakazem produkcji, obrotu i importu
+
+Lp. Kod PCN Nazwa wyrobu SWW 1 6812 70 00 0 Wyroby azbestowo-kauczukowe 1338 - płyty uszczelniające azbestowo-kauczukowe 1338-1 - uszczelki z płyt azbestowo-kauczukowych 1338-2 - uszczelki azbestowo-kauczukowe formowane 1338-4 2 6812 10 00 0 Przędza specjalna 2071 - przędza azbestowa wolna, pozostała 2071-119 - przędza azbestowa zbrojona, inne 2071-129 3 6812 90 90 0 Szczeliwa azbestowe 2079-51 4 2524 00 30 0 Azbest włóknisty 1418-61
+
+## Załącznik nr 2 - Wykaz zakładów, które produkują wyroby zawierające azbest
+
+### 1.
+
+„Eternit” Polsko-Austriacka Spółka z o.o. w Szczucinie
+
+### 2.
+
+Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe „Izopol” Spółka Akcyjna w Trzemesznie
+
+### 3.
+
+Zakłady Wyrobów Azbestowo-Cementowych w Wierzbicy k. Radomia
+
+### 4.
+
+Przedsiębiorstwo Materiałów Izolacji Budowlanej „Izolacja” w Ogrodzieńcu.
+
+## Załącznik nr 3 - Wykaz zakładów, które zaprzestały produkcji wyrobów zawierających azbest
+
+### 1.
+
+„Fabryka Okładzin Ciernych” Spółka Akcyjna w Markach k. Warszawy
+
+### 2.
+
+Przedsiębiorstwo Państwowe „Gambit” w Lubawce
+
+### 3.
+
+Wytwórnia Uszczelek „Morpak” Spółka z o.o. w Gdańsku
+
+### 4.
+
+Fabryka Odzieży i Tkanin Żaroodpornych „Izo-term” w Gryfowie Śląskim
+
+### 5.
+
+Zakłady Wyrobów Uszczelniających i Termoizolacyjnych „Polonit” Spółka z o.o. w Łodzi.

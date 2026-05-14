@@ -8,11 +8,9 @@ pos: 650
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o finansowaniu Akademii Ignatianum w Krakowie z budżetu państwa
-
-*USTAWA z dnia 5 kwietnia 2006 r.*
+# Ustawa z dnia 5 kwietnia 2006 r. o finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej „Ignatianum” w Krakowie z budżetu państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2006-04-05 |
 | Data wydania | 2006-06-05 |
 | Ostatnia zmiana | 2024-07-12 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940650) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/650/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/650/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/650) |
 
-**Art. 1.** Akademia Ignatianum w Krakowie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2006 r.
+### Art. 1.
 
+Wyższa Szkoła Filozoficzno-Pedagogiczna „Ignatianum” w Krakowie otrzymuje dotacje i inne środki z budżetu państwa na zasadach określonych dla uczelni publicznych, z wyjątkiem finansowania kosztów realizacji inwestycji budowlanych.
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 października 2006 r.

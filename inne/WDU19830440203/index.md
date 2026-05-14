@@ -1,0 +1,110 @@
+---
+title: Ustawa z dnia 28 lipca 1983 r. o zmianie niektórych przepisów z zakresu prawa karnego i prawa o wykroczeniach.
+address: WDU19830440203
+eli: DU/1983/203
+publisher: DU
+year: 1983
+pos: 203
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Ustawa z dnia 28 lipca 1983 r. o zmianie niektórych przepisów z zakresu prawa karnego i prawa o wykroczeniach
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 1983 nr 44 poz. 203 |
+| ISAP | WDU19830440203 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 1983-07-28 |
+| Data wydania | 1983-08-01 |
+| Wejście w życie | 1983-08-01 |
+| Ostatnia zmiana | 2024-11-25 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1983/203/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1983/203) |
+
+## Treść ustawy
+
+### Art. 1.
+
+W Kodeksie karnym wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 278 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Kto bierze udział w związku, którego istnienie, ustrój lub cel ma pozostać tajemnicą wobec organów państwowych albo który rozwiązano lub któremu odmówiono zalegalizowania, podlega karze pozbawienia wolności do lat 3.
+
+” ;
+
+### 2)
+
+w art. 282a:
+
+### a)
+
+dotychczasowa treść otrzymuje oznaczenie § 1,
+
+### b)
+
+dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Tej samej karze podlega, kto organizuje lub kieruje akcją protestacyjną przeprowadzoną wbrew przepisom prawa.
+
+”
+
+### Art. 2.
+
+W Kodeksie wykroczeń po art. 63 dodaje się art. 63a w brzmieniu:
+
+„
+
+### Art. 63a.
+
+### § 1.
+
+Kto w miejscu publicznym, nie wyznaczonym do tego przez właściwy organ, umieszcza ogłoszenie, plakat, afisz, napis lub rysunek albo wystawia je na widok publiczny bez zgody organu lub instytucji, która miejsce to użytkuje lub nim zarządza podlega karze ograniczenia wolności, grzywny albo nagany.
+
+### § 2.
+
+W razie popełnienia wykroczenia organ orzekający może orzec nawiązkę w wysokości do 10 000 zł lub obowiązek przywrócenia do stanu poprzedniego.
+
+”
+
+### Art. 3.
+
+W Kodeksie postępowania karnego w art. 565 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przestępstwa określone w art. 122-133 Kodeksu karnego.
+
+”
+
+### Art. 4.
+
+W Kodeksie postępowania w sprawach o wykroczenia w art. 70:
+
+### 1)
+
+w § 1 po wyrazie „wprowadzić” dodaje się wyrazy „na czas określony”,
+
+### 2)
+
+§ 3 skreśla się.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

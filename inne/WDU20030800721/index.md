@@ -8,11 +8,9 @@ pos: 721
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o szczególnych zasadach przygotowania i realizacji inwestycji zakresie dróg publicznych
-
-*USTAWA z dnia 10 kwietnia 2003 r.*
+# Ustawa z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,522 +22,938 @@ domain: null
 | Data ogłoszenia | 2003-04-10 |
 | Data wydania | 2003-05-10 |
 | Ostatnia zmiana | 2024-03-22 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800721) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/721/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2003/721/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2003/721) |
 
-Art. 34–40. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Lokalizacja dróg](#chpt_2) [Rozdział 3 - Nabywanie nieruchomości pod drogi](#chpt_3) [Rozdział 4 - Realizacja inwestycji drogowej](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących](#chpt_5) [Rozdział 6 - Przepisy przejściowe i końcowe](#chpt_6)
 
-**Art. 1.**
+- [Załącznik nr 1 - Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko, wymagany do wniosku o ustalenie lokalizacji drogi](#part_2)
 
-1. Ustawa określa zasady i warunki przygotowania inwestycji zakresie dróg publicznych rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2023 r. poz. 645, 760, 1193 i 1688), zwanych dalej „drogami”, a także organy właściwe tych sprawach.
+- [Załącznik nr 2 - Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko, wymagany do wniosku o wydanie pozwolenia na budowę drogi](#part_3)
 
-2. W odniesieniu do dróg innych niż zarządzane przez Generalnego Dyrektora Dróg Krajowych i Autostrad uprawnienia, obowiązki i zadania Generalnego Dyrektora Dróg Krajowych i Autostrad wynikające z niniejszej ustawy wykonuje właściwy zarządca drogi.
+TOC
 
-3. Uprawnienia, obowiązki i zadania Generalnego Dyrektora Dróg Krajowych i Autostrad lub Generalnej Dyrekcji Dróg Krajowych i Autostrad stosuje się odpowiednio do drogowej spółki specjalnego przeznaczenia, z tym że spółce tej przysługuje prawo nieodpłatnego użytkowania stosunku do nieruchomości nabytych trybie ustawy lub przejętych od Generalnej Dyrekcji Dróg Krajowych i Autostrad.
+## Treść ustawy
 
-#### Rozdział 2 Postępowanie poprzedzające rozpoczęcie robót budowlanych
+### Rozdział 1 Przepisy ogólne
 
-**Art. 11a.**
+### Art. 1.
 
-1. Wojewoda odniesieniu do dróg krajowych i wojewódzkich albo wykonujący zadania zlecone z zakresu administracji rządowej starosta odniesieniu do dróg powiatowych i gminnych, wydają decyzję o zezwoleniu na realizację inwestycji drogowej na wniosek właściwego zarządcy drogi.
+### 1.
 
-2. W przypadku inwestycji drogowej realizowanej na obszarze dwóch lub więcej województw albo powiatów, decyzję o zezwoleniu na realizację inwestycji drogowej na wniosek właściwego zarządcy drogi wydaje odpowiednio wojewoda albo starosta, na którego obszarze właściwości znajduje się największa część powierzchni przeznaczonej na realizację inwestycji drogowej.
+Ustawa określa zasady i warunki przygotowania inwestycji w zakresie dróg krajowych w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2000 r. Nr 71, poz. 838](https://api.sejm.gov.pl/eli/acts/DU/2000/838/text.html) i [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html), z [2001 r. Nr 125, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2001/1371/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html), [Nr 62, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/2002/554/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 214, poz. 1816](https://api.sejm.gov.pl/eli/acts/DU/2002/1816/text.html) i [Nr 216, poz. 1826](https://api.sejm.gov.pl/eli/acts/DU/2002/1826/text.html) oraz z [2003 r. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)), zwanych dalej „drogami”, w tym warunki lokalizacji i nabywania nieruchomości na ten cel, oraz budowy tych dróg, a także organy właściwe w tych sprawach.
 
-2a. Wojewoda albo starosta wydają decyzję o zezwoleniu na realizację inwestycji drogowej dla inwestycji objętej wnioskiem właściwego zarządcy drogi, tym dla wszystkich elementów, o których mowa art. 11f ust. 1.
+### 2.
 
-3. Decyzję o zezwoleniu na realizację inwestycji drogowej wydaje się terminie 90 dni od dnia złożenia wniosku, o którym mowa ust. 1.
+Ustawa ma zastosowanie także do dróg w miastach na prawach powiatu, finansowanych z budżetów tych miast, z tym że uprawnienia, obowiązki i zadania Generalnego Dyrektora Dróg Krajowych i Autostrad, w odniesieniu do tych dróg, wykonuje właściwy zarządca drogi.
 
-4. Decyzja o zezwoleniu na realizację inwestycji drogowej może być wydana po uprzednim przeprowadzeniu oceny oddziaływania przedsięwzięcia na środowisko, jeżeli jest ona wymagane przepisami ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2023 r. poz. 1094, z późn. zm. ).
+### Rozdział 2 Lokalizacja dróg
 
-**Art. 11b.**
+### Art. 2.
 
-1. Właściwy zarządca drogi składa wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej po uzyskaniu opinii właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta).
+### 1.
 
-1a. Wniosek o wydanie opinii, o której mowa ust. 1, zawiera elementy, o których mowa art. 11d ust. 1 pkt 1, 2 i 4.
+Wojewoda wydaje decyzję o ustaleniu lokalizacji drogi na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad.
 
-2. Niewydanie opinii, o których mowa ust. 1, terminie 14 dni od dnia zwrócenia się przez właściwego zarządcę drogi o jej wyrażenie, traktuje się jako brak zastrzeżeń do wniosku. o zezwoleniu na realizację inwestycji drogowej stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem przepisów niniejszej ustawy.
+### 2.
 
-**Art. 11d.**
+Decyzję o ustaleniu lokalizacji drogi wydaje się w terminie 3 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 1.
 
-1. Wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej zawiera szczególności:
+### Art. 3.
 
-- **1)** mapę skali co najmniej 1:5000 przedstawiającą proponowany przebieg drogi, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych, oraz istniejące uzbrojenie terenu;
-- **2)** analizę powiązania drogi z innymi drogami publicznymi;
-- **3)** mapy zawierające projekty podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami;
-- **3a)** określenie nieruchomości lub ich części, które planowane są do przejęcia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego;
-- **3b)** określenie nieruchomości lub ich części, z których korzystanie będzie ograniczone;
-- **4)** określenie zmian dotychczasowej infrastrukturze zagospodarowania terenu;
-- **5)** trzy egzemplarze projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego wraz z zaświadczeniem, o którym mowa art. 12 ust. 7 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), aktualnym na dzień opracowania projektu;
-- **6)** (uchylony)
-- **7)** (uchylony) 7a) przypadku drogi lub jej odcinka, o których mowa art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych: 7aa) przypadku drogi krajowej lub jej odcinka innych niż wymienione art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych albo drogi wojewódzkiej lub jej odcinka należy ponadto przedstawić: ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, a także uzasadnienie zarządcy drogi, o którym mowa art. 24l ust. 4 tej ustawy, albo
-    - **a)** wynik audytu bezpieczeństwa ruchu drogowego, o którym mowa art. 24l ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych,
-    - **b)** uzasadnienie zarządcy drogi, o którym mowa art. 24l ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych;
-    - **b)** oświadczenie zarządcy drogi, że nie ubiega się i nie będzie się ubiegał o dofinansowanie zamierzenia budowlanego z budżetu Unii Europejskiej;
+### 1.
 
-- **7b)** przypadku inwestycji, dla których wydano decyzję o środowiskowych uwarunkowaniach postępowaniu wymagającym udziału społeczeństwa – załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, szczególności mapę, o której mowa art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko;
-- **8)** opinie:
-    - **a)** ministra właściwego do spraw zdrowia – odniesieniu do inwestycji lokalizowanych miejscowościach uzdrowiskowych, zgodnie z odrębnymi przepisami,
-    - **b)** dyrektora właściwego urzędu morskiego – odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
-    - **c)** właściwego organu nadzoru górniczego – odniesieniu do terenów górniczych, ca) ministra właściwego do spraw środowiska – odniesieniu do złóż strategicznych,
-    - **d)** dyrektora regionalnego zarządu gospodarki wodnej Państwowego Gospodarstwa Wodnego Wody Polskie – odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach szczególnego zagrożenia powodzią,
-    - **e)** dyrektora właściwej regionalnej dyrekcji Lasów Państwowych – odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących zarządzie Lasów Państwowych, dóbr kultury chronionych na podstawie odrębnych przepisów,
-    - **g)** właściwego zarządcy infrastruktury kolejowej – odniesieniu do linii kolejowej, ga) podmiotu zarządzającego rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796) – odniesieniu do obszaru portu lub przystani morskiej,
-    - **h)** innych organów wymaganych przepisami szczególnymi;
+Generalny Dyrektor Dróg Krajowych i Autostrad składa wniosek, o którym mowa w art. 2 ust. 1, po uzyskaniu opinii właściwych miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta).
 
-- **9)** wymagane przepisami odrębnymi decyzje administracyjne.
+### 2.
 
-2. Właściwy organ wydaje opinie, o których mowa ust. 1 pkt 8, na wniosek właściwego zarządcy drogi, terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie opinii. Niewydanie opinii tym terminie traktuje się jako brak zastrzeżeń do wniosku.
+Niewydanie opinii, o których mowa w ust. 1, w terminie 14 dni od dnia zwrócenia się przez Generalnego Dyrektora Dróg Krajowych i Autostrad o jej wyrażenie, traktuje się jako brak zastrzeżeń do wniosku.
 
-3. Opinie, o których mowa ust. 1 pkt 8, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
+### Art. 4.
 
-4. Jeżeli realizacja inwestycji drogowej wymaga zgody wodnoprawnej, odpowiednio Państwowe Gospodarstwo Wodne Wody Polskie albo minister właściwy do spraw gospodarki wodnej udzielają tej zgody terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jej wydanie. W sprawach dotyczących zgody wodnoprawnej nie stosuje się art. 396 ust. 1 pkt 7, art. 407 ust. 2 pkt 3 oraz art. 422 pkt 3 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890, 1963 i 2029). Dla ustalenia stanu prawnego nieruchomości, o których mowa art. 409 ust. 1 pkt 2 lit. e ustawy z dnia 20 lipca 2017 r. – Prawo wodne, siedziby i adresy właścicieli tych nieruchomości określa się według katastru nieruchomości.
+Do postępowania w sprawach o wydanie decyzji o ustaleniu lokalizacji drogi stosuje się przepisy Kodeksu postępowania administracyjnego, z zastrzeżeniem przepisów niniejszej ustawy.
 
-5. Wojewoda odniesieniu do dróg krajowych i wojewódzkich albo starosta odniesieniu do dróg powiatowych i gminnych wysyłają zawiadomienie o wszczęciu postępowania sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej wnioskodawcy, właścicielom lub użytkownikom wieczystym nieruchomości objętych wnioskiem o wydanie tej decyzji na adres wskazany katastrze nieruchomości, a przypadku, o którym mowa art. 11a ust. 2, wojewodom albo starostom, na których obszarze właściwości znajdują się nieruchomości lub ich części objęte wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, oraz zawiadamiają pozostałe strony drodze obwieszczeń, odpowiednio urzędzie wojewódzkim lub starostwie powiatowym, publikatorach teleinformatycznych – Biuletynie Informacji Publicznej tych urzędów i prasie lokalnej. Doręczenie zawiadomienia na adres wskazany katastrze nieruchomości jest skuteczne.
+### Art. 5.
 
-6. Zawiadomienie, o którym mowa ust. 5, zawiera szczególności:
+### 1.
 
-- **1)** oznaczenie nieruchomości lub ich części, objętych wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, według katastru nieruchomości;
-- **2)** informację o terminie i miejscu, którym strony mogą zapoznać się z aktami sprawy.
+Wniosek o wydanie decyzji o ustaleniu lokalizacji drogi zawiera w szczególności:
 
-7. W przypadku nieruchomości o nieuregulowanym stanie prawnym wojewoda odniesieniu do dróg krajowych i wojewódzkich albo starosta odniesieniu do dróg powiatowych i gminnych wysyłają zawiadomienie, o którym mowa ust. 5, jedynie wnioskodawcy.
+### 1)
 
-8. Przepis ust. 7 stosuje się odpowiednio, jeżeli właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
+mapę w skali co najmniej 1:5000 przedstawiającą proponowany przebieg drogi, z zaznaczeniem terenu niezbędnego dla obiektów budowlanych, oraz istniejące uzbrojenie terenu;
 
-9. Z dniem zawiadomienia, o którym mowa ust. 5, nieruchomości stanowiące własność Skarbu Państwa bądź jednostek samorządu terytorialnego, objęte wnioskiem o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej, nie mogą być przedmiotem obrotu rozumieniu przepisów o gospodarce nieruchomościami.
+### 2)
 
-10. Czynność prawna dokonana z naruszeniem zakazu, o którym mowa ust. 9, jest nieważna.
+analizę powiązania drogi z innymi drogami publicznymi;
 
-**Art. 11e.** Nie można uzależniać zezwolenia na realizację inwestycji drogowej od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami. Art. 11ea. 1. W postępowaniu sprawie wydania decyzji o zezwoleniu na realizację inwestycji drogowej przepisów art. 30 § 5, art. 34 i art. 97 § 1 pkt 1– 3 Kodeksu postępowania administracyjnego nie stosuje się. 2. W przypadkach określonych art. 30 § 5 i art. 34 Kodeksu postępowania administracyjnego wojewoda odniesieniu do dróg krajowych i wojewódzkich albo starosta odniesieniu do dróg powiatowych i gminnych wyznacza z urzędu przedstawiciela uprawnionego do działania postępowaniu, jeżeli jest to konieczne do przeprowadzenia postępowania.
+### 3)
 
-**Art. 11f.**
+mapy zawierające projekty podziału nieruchomości, sporządzone zgodnie z odrębnymi przepisami;
 
-1. Decyzja o zezwoleniu na realizację inwestycji drogowej zawiera szczególności: z określeniem ich kategorii;
+### 4)
 
-- **2)** określenie linii rozgraniczających teren, tym określenie granic pasów drogowych innych dróg publicznych przypadku gdy wniosek, o którym mowa art. 11d, zawiera określenie granic tych pasów;
-- **3)** warunki wynikające z potrzeb ochrony środowiska, ochrony zabytków i dóbr kultury współczesnej oraz potrzeb obronności państwa;
-- **4)** wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
-- **5)** zatwierdzenie podziału nieruchomości, o którym mowa art. 12 ust. 1;
-- **6)** oznaczenie nieruchomości lub ich części, według katastru nieruchomości, które stają się własnością Skarbu Państwa lub właściwej jednostki samorządu terytorialnego;
-- **7)** zatwierdzenie projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego;
-- **8)** razie potrzeby inne ustalenia dotyczące: i art. 124a ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2023 r. poz. 344, z późn. zm. ) stosuje się odpowiednio.
-    - **a)** określenia szczególnych warunków zabezpieczenia terenu budowy i prowadzenia robót budowlanych,
-    - **b)** określenia obowiązku budowy i okresu użytkowania tymczasowych obiektów budowlanych,
-    - **c)** określenia obowiązku i terminów rozbiórki istniejących obiektów budowlanych nieprzewidzianych do dalszego użytkowania oraz tymczasowych obiektów budowlanych,
-    - **d)** określenia szczegółowych wymagań dotyczących nadzoru na budowie,
-    - **e)** obowiązku budowy lub przebudowy sieci uzbrojenia terenu,
-    - **f)** obowiązku budowy lub przebudowy urządzeń wodnych lub urządzeń melioracji wodnych szczegółowych,
-    - **g)** obowiązku budowy lub przebudowy innych dróg publicznych,
-    - **h)** obowiązku budowy lub przebudowy zjazdów,
-    - **i)** określenia ograniczeń korzystaniu z nieruchomości dla realizacji obowiązków, o których mowa lit. b, c oraz e–h,
-    - **j)** zezwolenia na wykonanie obowiązków, o których mowa lit. b, c oraz e– h.
+określenie zmian w dotychczasowej infrastrukturze zagospodarowania terenu;
 
-2a. Decyzja o zezwoleniu na realizację inwestycji drogowej stanowi podstawę do przekazania wybudowanych i oddanych do użytkowania dróg, o których mowa art. 11f ust. 1 pkt 8 lit. g, właściwym zarządcom dróg.
+### 5)
 
-3. Wojewoda odniesieniu do dróg krajowych i wojewódzkich albo starosta odniesieniu do dróg powiatowych i gminnych doręczają decyzję o zezwoleniu na realizację inwestycji drogowej wnioskodawcy oraz zawiadamiają o jej wydaniu pozostałe strony drodze obwieszczeń, odpowiednio urzędzie wojewódzkim lub starostwie powiatowym oraz urzędach gmin właściwych ze względu na przebieg drogi, urzędowych publikatorach teleinformatycznych – Biuletynie Informacji Publicznej tych urzędów, a także prasie lokalnej. Ponadto wysyłają zawiadomienie o wydaniu decyzji o zezwoleniu na realizację inwestycji drogowej dotychczasowemu właścicielowi lub użytkownikowi wieczystemu na adres wskazany katastrze nieruchomości. W przypadku, o którym mowa art. 11a ust. 2, zawiadomienie to wysyła się wojewodom albo starostom, na których obszarze właściwości znajdują się nieruchomości lub ich części objęte wnioskiem o wydanie tej decyzji. Doręczenie zawiadomienia na adres wskazany katastrze nieruchomości jest skuteczne.
+raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko;
 
-4. Zawiadomienie o wydaniu decyzji o zezwoleniu na realizację inwestycji drogowej zawiera informację o miejscu, którym strony mogą zapoznać się z treścią decyzji.
+### 6)
 
-5. Przepisu ust. 3 zdanie drugie nie stosuje się przypadku nieruchomości o nieuregulowanym stanie prawnym oraz sytuacji, gdy właściciel lub użytkownik wieczysty nieruchomości nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
+opinie:
 
-6. Przepisy ust. 3–5 stosuje się odpowiednio do doręczania i zawiadamiania stron o decyzji o zezwoleniu na realizację inwestycji drogowej wydanej przez organ drugiej instancji.
+### a)
 
-7. Do zawiadamiania stron o wszczęciu postępowania oraz doręczeń decyzji oraz postanowień sprawie uchylenia, zmiany, wznowienia lub stwierdzenia nieważności lub wygaśnięcia decyzji o zezwoleniu na realizację inwestycji drogowej, od których służy stronom zażalenie, odwołanie, wniosek o ponowne rozpatrzenie lub skarga do i drugiej instancji, stosuje się przepisy ust. 3–5, z wyłączeniem obowiązku zawiadamiania drodze obwieszczenia prasie lokalnej.
+ministra właściwego do spraw środowiska - w odniesieniu do inwestycji lokalizowanych na obszarach parków narodowych, rezerwatów przyrody, parków krajobrazowych, obszarach objętych ochroną przyrody na podstawie prawa międzynarodowego, albo organu, który ustanowił daną formę ochrony przyrody - w odniesieniu do pozostałych obszarów objętych ochroną przyrody,
 
-7a. Do decyzji o zezwoleniu na realizację inwestycji drogowej, poprzedzonej decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+### b)
 
-8. Do zmiany decyzji o zezwoleniu na realizację inwestycji drogowej stosuje się odpowiednio przepis art. 155 Kodeksu postępowania administracyjnego, z zastrzeżeniem, że zgodę wyraża wyłącznie strona, która złożyła wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej.
+ministra właściwego do spraw zdrowia - w odniesieniu do inwestycji lokalizowanych w miejscowościach uzdrowiskowych, zgodnie z odrębnymi przepisami,
 
-**Art. 11g.**
+### c)
 
-1. Od decyzji o zezwoleniu na realizację inwestycji drogowej stronie służy odwołanie do organu wyższego stopnia, którym jest:
+dyrektora właściwego urzędu morskiego - w odniesieniu do obszarów pasa technicznego, pasa ochronnego, morskich portów i przystani,
 
-- **1)** wojewoda przypadku wydania decyzji przez starostę;
-- **2)** minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przypadku wydania decyzji przez wojewodę.
+### d)
 
-1a. Odwołanie strony od decyzji o zezwoleniu na realizację inwestycji drogowej zawiera zarzuty odnoszące się do tej decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
+właściwego organu nadzoru górniczego - w odniesieniu do terenów górniczych,
 
-2. Odwołanie strony od decyzji o zezwoleniu na realizację inwestycji drogowej rozpatruje się terminie 30 dni, a skargę do sądu administracyjnego terminie dwóch miesięcy.
+### e)
 
-3. W postępowaniu przed organem odwoławczym oraz przed sądem administracyjnym nie można uchylić decyzji całości ani stwierdzić jej nieważności, gdy wadą dotknięta jest tylko część decyzji dotycząca odcinka drogi, nieruchomości, działki.
+dyrektora właściwego regionalnego zarządu gospodarki wodnej - w odniesieniu do inwestycji obejmujących wykonanie urządzeń wodnych oraz w odniesieniu do wykonywania obiektów budowlanych lub robót na obszarach bezpośredniego zagrożenia powodzią,
 
-**Art. 11h.**
+### f)
 
-1. W przypadku gdy właściwy organ nie wyda decyzji o zezwoleniu na realizację inwestycji drogowej terminie 90 dni od dnia złożenia wniosku o wydanie takiej decyzji, organ wyższego stopnia wymierza temu organowi, drodze postanowienia, na które przysługuje zażalenie, karę wysokości 500 zł za każdy dzień zwłoki. Wpływy z kar stanowią dochód budżetu państwa. o którym mowa ust. 1. W przypadku nieuiszczenia kary, o której mowa ust. 1, podlega ona ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
+dyrektora właściwej regionalnej dyrekcji Lasów Państwowych - w odniesieniu do gruntów leśnych stanowiących własność Skarbu Państwa, będących w zarządzie Lasów Państwowych,
 
-3. Do terminu, o którym mowa ust. 1, nie wlicza się terminów przewidzianych przepisach prawa do dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
+### g)
 
-**Art. 11i.**
+właściwego wojewódzkiego konserwatora zabytków - w odniesieniu do dóbr kultury chronionych na podstawie odrębnych przepisów,
 
-1. W sprawach dotyczących zezwolenia na realizację inwestycji drogowej nieuregulowanych niniejszej ustawie stosuje się odpowiednio przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, z wyjątkiem art. 28 ust. 2.
+### h)
 
-2. W sprawach dotyczących zezwolenia na realizację inwestycji drogowej nie stosuje się przepisów o planowaniu i zagospodarowaniu przestrzennym oraz przepisów ustawy z dnia 9 października 2015 r. o rewitalizacji (Dz. U. z 2021 r. poz. 485 oraz z 2023 r. poz. 28 i 1688). Art. 11ia. Do postępowań sprawach dotyczących zezwolenia na realizację inwestycji drogowej, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+państwowego wojewódzkiego inspektora sanitarnego - w odniesieniu do wymagań higienicznych i zdrowotnych.
 
-**Art. 11j.** Do nieruchomości stanowiących rodzinne ogrody działkowe objętych decyzją o zezwoleniu na realizację inwestycji drogowej nie stosuje się przepisów art. 18–24 ustawy z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych (Dz. U. z 2021 r. poz. 1073).
+### 2.
 
-#### Rozdział 3 Nabywanie nieruchomości pod drogi
+Właściwy organ wydaje opinie, o których mowa w ust. 1 pkt 6, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, w terminie nie dłuższym niż 30 dni od dnia otrzymania wniosku o wydanie decyzji o ustaleniu lokalizacji drogi. Niewydanie opinii w tym terminie traktuje się jako brak zastrzeżeń do wniosku.
 
-**Art. 12.**
+### 3.
 
-1. Decyzją o zezwoleniu na realizację inwestycji drogowej zatwierdza się podział nieruchomości.
+Opinie, o których mowa w ust. 1 pkt 6, zastępują uzgodnienia, pozwolenia, opinie bądź stanowiska właściwych organów wymagane odrębnymi przepisami.
 
-2. Linie rozgraniczające teren, tym granice pasów drogowych, ustalone decyzją o zezwoleniu na realizację inwestycji drogowej stanowią linie podziału nieruchomości. dokonania wpisów księdze wieczystej i katastrze nieruchomości.
+### 4.
 
-4. Nieruchomości lub ich części, o których mowa art. 11f ust. 1 pkt 6, stają się z mocy prawa:
+Zakres raportu, o którym mowa w ust. 1 pkt 5, określa załącznik nr 1 do ustawy.
 
-- **1)** własnością Skarbu Państwa odniesieniu do dróg krajowych,
-- **2)** własnością odpowiednich jednostek samorządu terytorialnego odniesieniu do dróg wojewódzkich, powiatowych i gminnych – z dniem, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+### 5.
 
-4a. Decyzję ustalającą wysokość odszkodowania za nieruchomości, o których mowa ust. 4, wydaje organ, który wydał decyzję o zezwoleniu na realizację inwestycji drogowej.
+O wszczęciu postępowania o wydanie decyzji o ustaleniu lokalizacji drogi wojewoda zawiadamia w drodze obwieszczeń w urzędach gmin właściwych ze względu na przebieg drogi oraz w prasie lokalnej.
 
-4b. Decyzję ustalającą wysokość odszkodowania wydaje się terminie 30 dni od dnia, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+### 6.
 
-4c. Jeżeli na nieruchomości lub prawie użytkowania wieczystego tej nieruchomości zostały ustanowione ograniczone prawa rzeczowe z dniem, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna, prawa te wygasają.
+Z dniem zawiadomienia, o którym mowa w ust. 5, nieruchomości stanowiące własność Skarbu Państwa, objęte wnioskiem o wydanie decyzji o ustaleniu lokalizacji drogi, nie mogą być przedmiotem obrotu w rozumieniu przepisów o gospodarce nieruchomościami.
 
-4d. Jeżeli przeznaczona na pasy drogowe nieruchomość gruntowa stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa z dniem, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+### 7.
 
-4e. Przepis ust. 4d stosuje się odpowiednio do użytkowania wieczystego nabytego sposób inny niż drodze umowy zawartej formie aktu notarialnego.
+Czynność prawna dokonana z naruszeniem zakazu, o którym mowa w ust. 6, jest nieważna.
 
-4f. Odszkodowanie za nieruchomości, o których mowa ust. 4, przysługuje dotychczasowym właścicielom nieruchomości, użytkownikom wieczystym nieruchomości oraz osobom, którym przysługuje do nieruchomości ograniczone prawo rzeczowe.
+### Art. 6.
 
-4g. Jeżeli decyzji o zezwoleniu na realizację inwestycji drogowej nadany został rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się terminie 60 dni od dnia nadania decyzji o zezwoleniu na realizację inwestycji drogowej rygoru natychmiastowej wykonalności. ust. 4a, stosuje się odpowiednio przepisy o gospodarce nieruchomościami, z zastrzeżeniem art. 18.
+Nie można uzależniać ustalenia lokalizacji drogi od spełnienia świadczeń lub warunków nieprzewidzianych obowiązującymi przepisami.
 
-5a. Na wniosek osoby uprawnionej do otrzymania odszkodowania, za nieruchomości, o których mowa ust. 4, wypłaca się zaliczkę wysokości 70% odszkodowania ustalonego przez organ pierwszej instancji decyzji ustalającej wysokość odszkodowania, o której mowa ust. 4g. Wypłata zaliczki następuje jednorazowo terminie 30 dni od dnia złożenia wniosku.
+### Art. 7.
 
-5b. Osoba, której wypłacono zaliczkę, lub jej spadkobiercy są obowiązani do zwrotu zaliczki po jej waloryzacji na dzień zwrotu, jeżeli decyzja o zezwoleniu na realizację inwestycji drogowej została zmieniona, uchylona całości lub części dotyczącej tej osoby, lub stwierdzono jej nieważność.
+### 1.
 
-6. Nieruchomości, o których mowa ust. 4, mogą być użytkowane nieodpłatnie przez dotychczasowych właścicieli lub użytkowników wieczystych do upływu terminu, o którym mowa art. 16 ust. 2.
+Decyzja o ustaleniu lokalizacji drogi zawiera w szczególności:
 
-7. Jeżeli przemawia za tym interes społeczny lub gospodarczy Skarb Państwa albo jednostka samorządu terytorialnego mogą zrzec się całości lub części odszkodowania za nieruchomości, o których mowa ust. 4, formie pisemnej pod rygorem nieważności. Oświadczenie to składa się do organu, o którym mowa ust. 4a.
+### 1)
 
-8. W przypadku zrzeczenia się odszkodowania za nieruchomości, o których mowa ust. 4:
+wymagania dotyczące powiązania drogi z innymi drogami publicznymi, z określeniem ich kategorii;
 
-- **1)** przed wszczęciem postępowania ustalającego wysokość odszkodowania – postępowania nie wszczyna się;
-- **2)** trakcie postępowania ustalającego wysokość odszkodowania – postępowanie umarza się;
-- **3)** po wydaniu decyzji ustalającej wysokość odszkodowania – decyzję wygasza się.
+### 2)
 
-**Art. 13.**
+określenie linii rozgraniczających teren;
 
-1. (uchylony)
+### 3)
 
-2. Właściwy zarządca drogi może nabywać imieniu i na rzecz Skarbu Państwa, województwa, powiatu albo gminy, nieruchomości, tym lokale mieszkalne, poza pasami drogowymi celu dokonania ich zamiany na nieruchomości położone pasach drogowych lub wydzielania ich tych pasach postępowaniu scaleniowo-wymiennym. nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, właściwy zarządca drogi jest obowiązany do nabycia, na wniosek właściciela lub użytkownika wieczystego nieruchomości, imieniu i na rzecz Skarbu Państwa albo jednostki samorządu terytorialnego tej części nieruchomości.
+warunki wynikające z potrzeb ochrony środowiska, ochrony dóbr kultury oraz potrzeb obronności państwa;
 
-**Art. 14.** (uchylony)
+### 4)
 
-**Art. 15.** (uchylony)
+wymagania dotyczące ochrony uzasadnionych interesów osób trzecich;
 
-**Art. 16.**
+### 5)
 
-1. (uchylony)
+zatwierdzenie projektu podziału nieruchomości, o którym mowa w art. 12 ust. 1.
 
-2. Decyzja o zezwoleniu na realizację inwestycji drogowej określa termin odpowiednio wydania nieruchomości lub wydania nieruchomości i opróżnienia lokali oraz innych pomieszczeń. Termin ten nie może być krótszy niż 120 dni od dnia, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+### 2.
 
-3. Do egzekucji obowiązków wynikających z decyzji o zezwoleniu na realizację inwestycji drogowej stosuje się przepisy o postępowaniu egzekucyjnym administracji. Egzekucję obowiązku wynikającego z decyzji o zezwoleniu na realizację inwestycji drogowej przeprowadza się terminie 30 dni od dnia otrzymania wniosku właściwego zarządcy drogi.
+Wojewoda doręcza decyzję o ustaleniu lokalizacji drogi wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony w drodze obwieszczeń w urzędach gmin właściwych ze względu na przebieg drogi oraz w prasie lokalnej.
 
-**Art. 17.**
+### 3.
 
-1. Wojewoda odniesieniu do dróg krajowych i wojewódzkich albo starosta odniesieniu do dróg powiatowych i gminnych nadają decyzji o zezwoleniu na realizację inwestycji drogowej rygor natychmiastowej wykonalności na wniosek właściwego zarządcy drogi, uzasadniony interesem społecznym lub gospodarczym.
+Zawiadomienie o wydaniu decyzji o ustaleniu lokalizacji drogi zawiera informację o miejscu, w którym strony mogą zapoznać się z treścią decyzji.
 
-2. (uchylony)
+### 4.
 
-3. Decyzja, o której mowa ust. 1:
+Przepisy ust. 2 i 3 stosuje się odpowiednio do doręczania i zawiadamiania stron o decyzji o ustaleniu lokalizacji drogi wydanej przez organ drugiej instancji.
 
-- **1)** (uchylony)
-- **2)** zobowiązuje do niezwłocznego wydania nieruchomości, opróżnienia lokali i innych pomieszczeń;
-- **3)** uprawnia do faktycznego objęcia nieruchomości posiadanie przez właściwego zarządcę drogi;
-- **4)** uprawnia do rozpoczęcia robót budowlanych;
-- **5)** uprawnia do wydania przez właściwy organ dziennika budowy.
+### Art. 8.
 
-4. W przypadku gdy decyzja, o której mowa ust. 1, dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, właściwy zarządca drogi jest obowiązany, terminie z zastrzeżeniem ust. 4a.
+Wojewoda nadaje decyzji o ustaleniu lokalizacji drogi rygor natychmiastowej wykonalności na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, uzasadniony interesem społecznym lub gospodarczym.
 
-4a. W przypadku gdy faktyczne objęcie nieruchomości posiadanie następuje po upływie terminu, o którym mowa art. 16 ust. 2, właściwy zarządca drogi nie ma obowiązku do wskazania lokalu zamiennego.
+### Art. 9.
 
-4b. Osoba, której wskazano lokal zamienny, jest obowiązana do jego opróżnienia najpóźniej dniu upływu terminu, o którym mowa art. 16 ust. 2.
+### 1.
 
-5. Do egzekucji obowiązków wynikających z decyzji, o której mowa ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym administracji. Egzekucję obowiązku wynikającego z tej decyzji przeprowadza się terminie 30 dni od dnia otrzymania wniosku właściwego zarządcy drogi.
+Od decyzji o ustaleniu lokalizacji drogi stronie służy odwołanie do ministra właściwego do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
 
-**Art. 18.**
+### 2.
 
-1. Wysokość odszkodowania, o którym mowa art. 12 ust. 4a, ustala się według stanu nieruchomości dniu wydania decyzji o zezwoleniu na realizację inwestycji drogowej przez organ I instancji oraz według jej wartości z dnia, którym następuje ustalenie wysokości odszkodowania.
+Odwołanie strony od decyzji o ustaleniu lokalizacji drogi rozpatruje się w terminie 14 dni, a skargę do sądu administracyjnego w terminie dwóch miesięcy.
 
-1a. Jeżeli na nieruchomościach, o których mowa art. 12 ust. 4, lub na prawie użytkowania wieczystego tych nieruchomości są ustanowione ograniczone prawa rzeczowe, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się o kwotę równą wartości tych praw.
+### Art. 10.
 
-1b. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, z wyłączeniem kwot, o których mowa ust. 1e i 1f, i wysokości odszkodowania z tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+W sprawach dotyczących lokalizacji dróg przepisów o zagospodarowaniu przestrzennym nie stosuje się.
 
-1c. Jeżeli na nieruchomościach, o których mowa art. 12 ust. 4, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania z tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz z odsetkami zabezpieczonymi tą hipoteką. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami. rzeczowych ustaloną na dzień, o którym mowa ust. 1, wypłaca się osobom, którym te prawa przysługiwały.
+### Art. 11.
 
-1e. W przypadku, którym dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją o zezwoleniu na realizację inwestycji drogowej odpowiednio wyda tę nieruchomość lub wyda nieruchomość i opróżni lokal oraz inne pomieszczenia niezwłocznie, lecz nie później niż terminie 30 dni od dnia:
+W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. Nr 62, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.html) i [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html), z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html) i [Nr 233, poz. 1957](https://api.sejm.gov.pl/eli/acts/DU/2002/1957/text.html) oraz z [2003 r. Nr 46, poz. 392](https://api.sejm.gov.pl/eli/acts/DU/2003/392/text.html) i [Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)), zwanej dalej „Prawem ochrony środowiska”, z wyłączeniem przepisów art. 49-52 oraz art. 55-57.
 
-- **1)** doręczenia zawiadomienia o wydaniu decyzji, o której mowa art. 17,
-- **2)** doręczenia postanowienia o nadaniu decyzji o zezwoleniu na realizację inwestycji drogowej rygoru natychmiastowej wykonalności albo
-- **3)** którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna – wysokość odszkodowania powiększa się o kwotę równą 5% wartości nieruchomości lub wartości prawa użytkowania wieczystego.
+### Rozdział 3 Nabywanie nieruchomości pod drogi
 
-1f. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania, o którym mowa ust. 1, przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu tym budynku albo lokalu, powiększa się o kwotę 10 000 zł odniesieniu do tej nieruchomości.
+### Art. 12.
 
-1g. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy rodzinnych ogrodów działkowych ustanowionych zgodnie z ustawą z dnia 13 grudnia 2013 r. o rodzinnych ogrodach działkowych, podmiot, którego interesie nastąpi likwidacja rodzinnego ogrodu działkowego lub jego części, zobowiązany jest:
+### 1.
 
-- **1)** wypłacić działkowcom – odszkodowanie za stanowiące ich własność nasadzenia, urządzenia i obiekty znajdujące się na działkach;
-- **2)** wypłacić stowarzyszeniu ogrodowemu – odszkodowanie za stanowiące jego własność urządzenia, budynki i budowle rodzinnego ogrodu działkowego przeznaczone do wspólnego korzystania przez użytkujących działki i służące do zapewnienia funkcjonowania ogrodu;
-- **3)** zapewnić grunty zastępcze na odtworzenie rodzinnego ogrodu działkowego.
+Decyzją o ustaleniu lokalizacji drogi zatwierdza się projekt podziału nieruchomości.
 
-1h. Obowiązki wynikające z ust. 1g ustalane są decyzji wydanej przez organ, o którym mowa art. 12 ust. 4a. ustanowiona została hipoteka, na żądanie organu, o którym mowa art. 12 ust. 4a, ma obowiązek udzielenia informacji o wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz z odsetkami zabezpieczonymi tą hipoteką.
+### 2.
 
-1j. W przypadku gdy decyzja o zezwoleniu na realizację inwestycji drogowej dotyczy nieruchomości zarządzanej przez Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, na podstawie ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2023 r. poz. 1356, 1688 i 1933), wysokość przysługującego odszkodowania zmniejsza się o kwotę równą wartości drewna pozyskanego z wycinki drzew i krzewów, o której mowa art. 20b ust. 2.
+Linie rozgraniczające teren ustalone decyzją o ustaleniu lokalizacji drogi stanowią linie podziału nieruchomości.
 
-2. (uchylony)
+### 3.
 
-3. Odszkodowanie, o którym mowa ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
+Decyzja o ustaleniu lokalizacji drogi stanowi podstawę do dokonania wpisów w księdze wieczystej i w katastrze nieruchomości.
 
-**Art. 18a.** (uchylony)
+### Art. 13.
 
-**Art. 18b.**
+### 1.
 
-1. Rzeczoznawca majątkowy przesyła organowi prowadzącemu postępowanie odszkodowawcze operat szacunkowy postaci elektronicznej wraz z elektronicznym wyciągiem z operatu szacunkowego na adres elektronicznej skrzynki podawczej tego organu. Operat szacunkowy formie pisemnej rzeczoznawca majątkowy dostarcza do siedziby organu lub na uzgodniony adres korespondencyjny. W przypadku gdy organ zlecił lub uzgodnił z rzeczoznawcą majątkowym sporządzenie operatu szacunkowego postaci elektronicznej, operat przesyła się wyłącznie sposób określony zdaniu pierwszym.
+Generalny Dyrektor Dróg Krajowych i Autostrad nabywa w imieniu i na rzecz Skarbu Państwa nieruchomości lub ich części na cele budowy dróg, w drodze umowy, z zastrzeżeniem art. 14.
 
-2. Elektroniczny wyciąg z operatu szacunkowego, o którym mowa ust. 1, stanowi tabelaryczne zestawienie obejmujące:
+### 2.
 
-- **1)** dane identyfikujące nieruchomość (adres nieruchomości, numer księgi wieczystej, identyfikator działki albo identyfikatory działek ewidencyjnych wraz ze wskazaniem powierzchni każdej z nich, rodzaj użytków gruntowych według katastru nieruchomości);
-- **2)** dane identyfikujące dotychczasowych właścicieli, użytkowników wieczystych oraz podmioty posiadające ograniczone prawa rzeczowe do nieruchomości wycenianej; z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami wraz ze wskazaniem dokumentu, z którego ono wynika;
-- **4)** dotychczasowy sposób korzystania z nieruchomości;
-- **5)** katalog praw podlegających wycenie wraz z ich wartością i wskazaniem, czy podstawą przy ich określeniu był alternatywny sposób korzystania z nieruchomości wynikający z celu przejęcia z mocy prawa pod inwestycję drogową.
+Generalny Dyrektor Dróg Krajowych i Autostrad może nabywać w imieniu i na rzecz Skarbu Państwa nieruchomości, w tym lokale mieszkalne, poza pasami drogowymi w celu dokonania ich zamiany na nieruchomości położone w pasach drogowych lub wydzielania ich w tych pasach w postępowaniu scaleniowo-wymiennym.
 
-3. Na wniosek strony organ prowadzący postępowanie odszkodowawcze przekazuje operat szacunkowy postaci elektronicznej za pomocą środków komunikacji elektronicznej na wskazany przez nią adres elektroniczny lub adres poczty elektronicznej. W przypadku strony zobowiązanej na podstawie odrębnych przepisów do posiadania elektronicznej skrzynki podawczej przekazanie operatu szacunkowego postaci elektronicznej następuje wyłącznie na adres elektronicznej skrzynki podawczej tej strony. W przypadku właściwego zarządcy drogi przekazanie operatu szacunkowego postaci elektronicznej następuje wraz z elektronicznym wyciągiem z tego operatu. W przypadku gdy organ zlecił lub uzgodnił z rzeczoznawcą majątkowym dostarczenie operatu szacunkowego formie elektronicznej, zdania poprzednie stosuje się odpowiednio.
+### 3.
 
-**Art. 19.**
+W przypadku, o którym mowa w ust. 1, jeżeli nabywana jest część nieruchomości, a pozostała część nie nadaje się do prawidłowego wykorzystania na dotychczasowe cele, Generalny Dyrektor Dróg Krajowych i Autostrad jest obowiązany do nabycia, na wniosek właściciela lub użytkownika wieczystego nieruchomości, w imieniu i na rzecz Skarbu Państwa tej części nieruchomości.
 
-1. Wygaśnięcie trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas drogowy, stanowiącej własność Skarbu Państwa albo jednostki samorządu terytorialnego, z wyjątkiem przypadków, gdy trwały zarząd jest ustanowiony na rzecz właściwego zarządcy albo zarządu drogi, następuje z mocy prawa, z dniem którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+### Art. 14.
 
-2. Jeżeli przeznaczona na pasy drogowe nieruchomość stanowiąca własność Skarbu Państwa albo jednostki samorządu terytorialnego została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja o zezwoleniu na realizację inwestycji drogowej stanowi podstawę do wypowiedzenia przez właściwego zarządcę drogi umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie.
+### 1.
 
-3. (uchylony)
+Nieruchomości przeznaczone na pasy drogowe, stanowiące własność jednostek samorządu terytorialnego, stają się własnością Skarbu Państwa z dniem, w którym decyzja o ustaleniu lokalizacji drogi dotycząca tych nieruchomości stała się ostateczna.
 
-4. (uchylony)
+### 2.
 
-5. (uchylony) zarząd drogi otrzymują z mocy prawa, nieodpłatnie, trwały zarząd odpowiednio nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, z dniem, którym decyzja o zezwoleniu na realizację inwestycji drogowej dotycząca tych nieruchomości stała się ostateczna.
+W przypadku nieruchomości, o których mowa w ust. 1, które na podstawie ustawy z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych ([Dz. U. Nr 32, poz. 191](https://api.sejm.gov.pl/eli/acts/DU/1990/191/text.html), [Nr 43, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1990/253/text.html) i [Nr 92, poz. 541](https://api.sejm.gov.pl/eli/acts/DU/1990/541/text.html), z [1991 r. Nr 34, poz. 151](https://api.sejm.gov.pl/eli/acts/DU/1991/151/text.html), z [1992 r. Nr 6, poz. 20](https://api.sejm.gov.pl/eli/acts/DU/1992/20/text.html), z [1993 r. Nr 40, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1993/180/text.html), z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html) i [Nr 65, poz. 285](https://api.sejm.gov.pl/eli/acts/DU/1994/285/text.html), z [1996 r. Nr 23, poz. 102](https://api.sejm.gov.pl/eli/acts/DU/1996/102/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 9, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1997/43/text.html) oraz z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html)) stały się z dniem 27 maja 1990 r. własnością gmin, lecz co do których nie zostały wydane ostateczne decyzje potwierdzające nabycie własności, Generalny Dyrektor Dróg Krajowych i Autostrad, działając w imieniu Skarbu Państwa, występuje do gminy o przedłożenie, w terminie 60 dni od dnia otrzymania wezwania, decyzji potwierdzającej nabycie własności. Po bezskutecznym upływie tego terminu wojewoda, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, w drodze decyzji, udziela zezwolenia na niezwłoczne zajęcie nieruchomości. Decyzji tej nadaje się rygor natychmiastowej wykonalności. Do egzekucji obowiązków wynikających z niniejszej decyzji stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-2. Generalna Dyrekcja Dróg Krajowych i Autostrad albo właściwy zarząd drogi otrzymują z mocy prawa, nieodpłatnie, trwały zarząd odpowiednio nieruchomości stanowiące własność Skarbu Państwa albo jednostki samorządu terytorialnego, o których mowa art. 19, odpowiednio z dniem wygaśnięcia trwałego zarządu albo rozwiązania umów: dzierżawy, najmu lub użyczenia.
+### 3.
 
-3. Generalna Dyrekcja Dróg Krajowych i Autostrad albo właściwy zarząd drogi otrzymują z mocy prawa, nieodpłatnie, trwały zarząd odpowiednio nieruchomości nabyte na własność Skarbu Państwa albo jednostki samorządu terytorialnego na cele budowy dróg, z dniem, którym decyzja o zezwoleniu na realizację inwestycji drogowej stała się ostateczna.
+Za nieruchomości, o których mowa w ust. 1, jednostkom samorządu terytorialnego przysługuje odszkodowanie ustalone według zasad obowiązujących przy wywłaszczaniu nieruchomości.
 
-4. (uchylony)
+### 4.
 
-5. (uchylony)
+Wojewoda, w drodze decyzji, stwierdza nabycie przez Skarb Państwa własności nieruchomości, o której mowa w ust. 1, oraz ustala odszkodowanie.
 
-6. Generalna Dyrekcja Dróg Krajowych i Autostrad oraz zarząd drogi są zwolnione z opłat rocznych z tytułu trwałego zarządu za nieruchomości, o których mowa ust. 1–3, także przypadku odpłatnego udostępnienia tych nieruchomości koncesjonariuszom lub innym podmiotom realizującym zadania zakresie inwestycji drogowych, tym prac budowlanych i utrzymaniowych.
+### Art. 15.
 
-**Art. 20a.**
+### 1.
 
-1. W przypadku gdy realizacja inwestycji drogowej wymaga przejścia przez tereny wód płynących albo tereny linii kolejowej, właściwy zarządca drogi jest uprawniony do ich nieodpłatnego zajęcia na czas realizacji inwestycji, a przypadku terenów linii kolejowej również na czas użytkowania inwestycji.
+Wszczęcie postępowania wywłaszczeniowego, w odniesieniu do nieruchomości przeznaczonych na pasy drogowe, następuje na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad po bezskutecznym upływie terminu do zawarcia umowy, o której mowa w art. 13 ust. 1, wyznaczonego przez wojewodę na piśmie właścicielowi lub użytkownikowi wieczystemu tych nieruchomości. Termin ten nie może być krótszy niż 30 dni od dnia otrzymania przez właściciela lub użytkownika wieczystego nieruchomości pisemnej oferty Generalnego Dyrektora Dróg Krajowych i Autostrad dotyczącej zawarcia umowy.
 
-2. Właściwy zarządca drogi nie później niż terminie 30 dni przed planowanym zajęciem terenu, o którym mowa ust. 1, uzgadnia drodze pisemnego porozumienia z zarządcą infrastruktury kolejowej lub z odpowiednimi podmiotami, o których mowa art. 212 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zakres, warunki i termin zajęcia tego terenu.
+### 2.
 
-3. W przypadku gdy decyzji o zezwoleniu na realizację inwestycji drogowej został nadany rygor natychmiastowej wykonalności, porozumienie, o którym mowa ust. 2, zawiera się niezwłocznie. odszkodowanie ustalane na zasadach wynikających z Kodeksu cywilnego.
+W przypadku gdy nieruchomości przeznaczone na pasy drogowe mają nieuregulowany stan prawny, wszczęcie postępowania wywłaszczeniowego następuje na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, bez konieczności zachowania warunków określonych w ust. 1. Art. 114 ust. 3 i 4 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2000 r. Nr 46, poz. 543](https://api.sejm.gov.pl/eli/acts/DU/2000/543/text.html), z [2001 r. Nr 129, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2001/1447/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 126, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1070/text.html), [Nr 130, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.html), [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html), [Nr 200, poz. 1682](https://api.sejm.gov.pl/eli/acts/DU/2002/1682/text.html) i [Nr 240, poz. 2058](https://api.sejm.gov.pl/eli/acts/DU/2002/2058/text.html) oraz z [2003 r. Nr 1, poz. 15](https://api.sejm.gov.pl/eli/acts/DU/2003/15/text.html) i [Nr 80, poz. 717 i 720](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)), zwanej dalej „ustawą o gospodarce nieruchomościami”, stosuje się odpowiednio.
 
-5. Do zapłaty odszkodowania, o którym mowa ust. 4, jest obowiązany właściwy zarządca drogi.
+### 3.
 
-**Art. 20b.**
+Przepis ust. 2 stosuje się odpowiednio, jeżeli właściciel lub użytkownik wieczysty nie żyją, a ich spadkobiercy nie wykazali prawa do spadku.
 
-1. Lasy Państwowe, zarządzające nieruchomościami, o których mowa art. 11f ust. 1 pkt 6, na podstawie ustawy z dnia 28 września 1991 r. o lasach, są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia terminie ustalonym odrębnym porozumieniu między Lasami Państwowymi a właściwym zarządcą drogi.
+### Art. 16.
 
-2. Drewno pozyskane z wycinki drzew i krzewów, o której mowa ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
+### 1.
 
-3. Koszty wycinki drzew i krzewów wieku do 20 lat oraz ich uprzątnięcia ponosi właściwy zarządca drogi.
+Postępowanie wywłaszczeniowe wszczyna, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, i wydaje decyzje w jego toku wojewoda.
 
-**Art. 21.**
+### 2.
 
-1. Do gruntów rolnych i leśnych objętych decyzjami o zezwoleniu na realizację inwestycji drogowej nie stosuje się przepisów o ochronie gruntów rolnych i leśnych.
+Decyzja o wywłaszczeniu nieruchomości, poza elementami określonymi w przepisach odrębnych, określa termin wydania nieruchomości lub opróżnienia lokali i innych pomieszczeń. Termin ten nie może być krótszy niż 30 dni od dnia doręczenia decyzji właścicielowi lub użytkownikowi wieczystemu nieruchomości.
 
-2. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o zezwoleniu na realizację inwestycji drogowej, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
+### 3.
 
-**Art. 21a.**
+Do egzekucji obowiązków wynikających z decyzji o wywłaszczeniu nieruchomości stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-1. W przypadku gdy inwestycja drogowa wymaga wejścia na teren cudzej nieruchomości objętej decyzją o środowiskowych uwarunkowaniach, celu wykonania prac przygotowawczych polegających na:
+### Art. 17.
 
-- **1)** przeprowadzeniu badań archeologicznych, prac geologicznych lub określeniu geotechnicznych warunków posadowienia obiektu lub wykonaniu innych czynności niezbędnych do sporządzenia dokumentacji technicznej bezpośrednio związanej z inwestycją drogową,
-- **2)** przeprowadzeniu pomiarów, badań lub innych prac niezbędnych do sporządzenia raportu o odziaływaniu przedsięwzięcia na środowisko,
-- **3)** wycince drzew lub krzewów,
-- **4)** wykonaniu kompensacji przyrodniczej nieruchomości o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości.
+### 1.
 
-2. W przypadku gdy prace przygotowawcze, o których mowa ust. 1, polegają na wycince drzew i krzewów lub wykonaniu kompensacji przyrodniczej, stosuje się odpowiednio przepisy art. 21.
+Po wszczęciu postępowania wywłaszczeniowego wojewoda, na wniosek Generalnego Dyrektora Dróg Krajowych i Autostrad, udziela w uzasadnionych przypadkach, w drodze decyzji, zezwolenia na niezwłoczne zajęcie nieruchomości przeznaczonych na pasy drogowe.
 
-2a. W przypadku gdy prace przygotowawcze, o których mowa ust. 1, są przeprowadzane na nieruchomościach stanowiących własność Skarbu Państwa, zarządzanych przez Lasy Państwowe zgodnie z ustawą z dnia 28 września 1991 r. o lasach, decyzja o środowiskowych uwarunkowaniach uprawnia do nieodpłatnego wejścia na teren, na którym jest przewidywana realizacja inwestycji, celem wykonania tych prac. Do wycinki drzew i krzewów stosuje się odpowiednio przepisy art. 20b i art. 21.
+### 2.
 
-3. W przypadku gdy prace przygotowawcze, o których mowa ust. 1, odbywają się na nieruchomości zabudowanej budynkiem, nie mogą one powodować uszkodzeń budynku.
+Decyzji, o której mowa w ust. 1, nadaje się rygor natychmiastowej wykonalności, jeżeli jest to niezbędne do wykazania prawa do dysponowania nieruchomością na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2000 r. Nr 106, poz. 1126](https://api.sejm.gov.pl/eli/acts/DU/2000/1126/text.html), [Nr 109, poz. 1157](https://api.sejm.gov.pl/eli/acts/DU/2000/1157/text.html) i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html), z [2001 r. Nr 5, poz. 42](https://api.sejm.gov.pl/eli/acts/DU/2001/42/text.html), [Nr 100, poz. 1085](https://api.sejm.gov.pl/eli/acts/DU/2001/1085/text.html), [Nr 110, poz. 1190](https://api.sejm.gov.pl/eli/acts/DU/2001/1190/text.html), [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html), [Nr 129, poz. 1439](https://api.sejm.gov.pl/eli/acts/DU/2001/1439/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html), z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) oraz z [2003 r. Nr 80, poz. 718](https://api.sejm.gov.pl/eli/acts/DU/2003/718/text.html)), zwanej dalej „Prawem budowlanym”.
 
-4. W przypadku gdy prace przygotowawcze, o których mowa ust. 1, wymagają wejścia na teren nieruchomości stanowiących teren zamknięty lub objętych obszarem kolejowym lub lotniskiem użytku publicznego, właściwy zarządca drogi występuje odpowiednio do organu, który wydał decyzję o zamknięciu terenu zamkniętego, zarządcy infrastruktury kolejowej lub innego podmiotu zarządzającego obszarem kolejowym lub zarządzającego lotniskiem użytku publicznego o zgodę na wejście na teren nieruchomości lub jej części oraz uzgadnia z nim przewidywany sposób, zakres i termin korzystania z nieruchomości lub jej części.
+### 3.
 
-5. W przypadku nieuzyskania zgody, o której mowa ust. 1 albo 4, terminie 30 dni od dnia otrzymania wystąpienia o taką zgodę przez właściciela lub użytkownika wieczystego nieruchomości albo odpowiednio organ, który wydał decyzję o zamknięciu terenu zamkniętego, zarządcę infrastruktury kolejowej lub inny podmiot zarządzający obszarem kolejowym lub zarządzającego lotniskiem użytku publicznego właściwy zarządca drogi występuje do wojewody odniesieniu do dróg krajowych i wojewódzkich albo wykonującego zadania zlecone z zakresu administracji rządowej starosty odniesieniu do dróg powiatowych i gminnych z wnioskiem o wydanie decyzji o zezwoleniu na wejście na teren tej nieruchomości lub jej części.
+Decyzja, o której mowa w ust. 1:
 
-- **1)** ogólną charakterystykę planowanej inwestycji drogowej;
-- **2)** określenie granic terenu objętego wnioskiem;
-- **3)** oznaczenie nieruchomości lub jej części, na którą wejście jest konieczne celu wykonania prac przygotowawczych, o których mowa ust. 1, wraz ze wskazaniem zakresu tych prac, a także proponowanego sposobu, zakresu i terminu korzystania z nieruchomości lub jej części;
-- **4)** kopię decyzji o środowiskowych uwarunkowaniach;
-- **5)** oświadczenie właściwego zarządcy drogi o braku zgody, o której mowa ust. 1 albo 4.
+### 1)
 
-7. Wojewoda odniesieniu do dróg krajowych i wojewódzkich albo wykonujący zadania zlecone z zakresu administracji rządowej starosta odniesieniu do dróg powiatowych i gminnych wydają decyzję, o której mowa ust. 5, terminie 30 dni od dnia złożenia wniosku. Decyzja określa sposób, zakres i terminy korzystania z nieruchomości. Decyzja zastępuje zgodę organu, który wydał decyzję o zamknięciu terenu zamkniętego, o której mowa art. 13 ust. 3 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762).
+uprawnia do dysponowania nieruchomością na cele budowlane;
 
-8. W przypadku nieuregulowanego stanu prawnego nieruchomości, o której mowa ust. 1, lub braku katastrze nieruchomości danych pozwalających na ustalenie danych osobowych, szczególności adresu właściciela lub użytkownika wieczystego nieruchomości, przepisów ust. 1 dotyczących uzyskania zgody właściciela lub użytkownika wieczystego nieruchomości i ust. 6 pkt 5 nie stosuje się, a wojewoda albo starosta wydaje decyzję o zezwoleniu, o której mowa ust. 5, terminie 30 dni od dnia złożenia wniosku przez właściwego zarządcę drogi.
+### 2)
 
-9. Sposób, zakres i termin korzystania z nieruchomości lub jej części uzgodnione na podstawie ust. 1 albo 4 albo określone decyzji, o której mowa ust. 5, nie mogą powodować:
+zobowiązuje do niezwłocznego wydania nieruchomości, opróżnienia lokali i innych pomieszczeń;
 
-- **1)** zagrożenia bezpieczeństwa ruchu kolejowego, lotniczego lub żeglugi śródlądowej;
-- **2)** wstrzymania ruchu kolejowego lub lotniczego;
-- **3)** zamknięcia śródlądowych dróg wodnych;
-- **4)** utrudnień prowadzeniu pilnych działań z zakresu ochrony przeciwpowodziowej; ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872).
+### 3)
 
-10. Decyzję, o której mowa ust. 5, wydaje się na czas określony, nie dłuższy niż 3 lata.
+uprawnia do faktycznego objęcia nieruchomości w posiadanie przez Generalnego Dyrektora Dróg Krajowych i Autostrad.
 
-11. Od decyzji, o której mowa ust. 5, stronie służy odwołanie do organu wyższego stopnia, którym jest:
+### 4.
 
-- **1)** wojewoda – przypadku wydania decyzji przez starostę;
-- **2)** minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa – przypadku wydania decyzji przez wojewodę.
+W przypadku gdy decyzja, o której mowa w ust. 1, dotyczy nieruchomości zabudowanej, Generalny Dyrektor Dróg Krajowych i Autostrad jest obowiązany, w terminie faktycznego objęcia nieruchomości w posiadanie, do wskazania lokalu zamiennego.
 
-12. Odwołanie od decyzji, o której mowa ust. 5, zawiera zarzuty odnoszące się do tej decyzji, określa istotę i zakres żądania będącego przedmiotem odwołania oraz wskazuje dowody uzasadniające to żądanie.
+### 5.
 
-**Art. 21b.**
+Do egzekucji obowiązków wynikających z decyzji, o której mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
-1. Właściwy zarządca drogi po zakończeniu prac przygotowawczych, o których mowa art. 21a ust. 1, jest obowiązany przywrócić nieruchomość do stanu poprzedniego. Jeżeli przywrócenie nieruchomości do stanu poprzedniego nie jest możliwe, właścicielom lub użytkownikom wieczystym nieruchomości przysługuje odszkodowanie, z wyłączeniem nieruchomości stanowiących własność Skarbu Państwa, które zostały przejęte pod drogę na podstawie decyzji o zezwoleniu na realizację inwestycji drogowej.
+### Art. 18.
 
-2. Odszkodowanie, o którym mowa ust. 1, odpowiada wartości poniesionych szkód. Jeżeli wskutek poniesionych szkód zmniejszy się wartość nieruchomości, odszkodowaniu uwzględnia się kwotę odpowiadającą temu zmniejszeniu.
+### 1.
 
-3. Decyzję ustalającą wysokość odszkodowania, o którym mowa ust. 1, wydaje wojewoda odniesieniu do dróg krajowych i wojewódzkich albo wykonujący zadania zlecone z zakresu administracji rządowej starosta odniesieniu do dróg powiatowych i gminnych. Obowiązek zapłaty odszkodowania obciąża właściwego zarządcę drogi. Właściwy zarządca drogi może na podstawie odrębnego porozumienia zawartego z wojewodą albo starostą pokryć koszty powstałe związku z ustaleniem wysokości odszkodowań.
+Wysokość odszkodowania za wywłaszczoną nieruchomość ustala się według jej stanu na dzień wydania decyzji o ustaleniu lokalizacji drogi i według jej wartości rynkowej w dniu wydania decyzji o wywłaszczeniu nieruchomości.
 
-**Art. 22.**
+### 2.
 
-1. Koszty nabycia nieruchomości pod drogi, tym odszkodowania, finansowane są na podstawie przepisów o finansowaniu infrastruktury transportu oraz o Krajowym Funduszu Drogowym.
+Wartość nieruchomości określają rzeczoznawcy majątkowi, o których mowa w ustawie o gospodarce nieruchomościami.
 
-2. Zwalnia się z podatku od nieruchomości grunty i budynki wchodzące skład nieruchomości przeznaczonych na budowę dróg publicznych, nabytych, po dniu 1 stycznia 2007 r., odpowiednio na własność lub trwały zarząd:
+### 3.
 
-- **1)** Skarbu Państwa oraz przekazanych Generalnej Dyrekcji Dróg Krajowych i Autostrad,
-- **2)** właściwych jednostek samorządu terytorialnego – trybie określonym niniejszym rozdziale, od pierwszego dnia miesiąca następującego po miesiącu którym nastąpiło nabycie, nie dłużej niż przez okres 5 lat odniesieniu do gruntów i 1 roku odniesieniu do budynków.
+Odszkodowanie, o którym mowa w ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących w przypadku zwrotu wywłaszczonych nieruchomości.
 
-**Art. 23.**
+### Art. 19.
 
-- **4)** W sprawach nieuregulowanych niniejszym rozdziale stosuje się przepisy ustawy o gospodarce nieruchomościami.
+### 1.
 
-#### Rozdział 4 Realizacja inwestycji drogowej
+Decyzja o ustaleniu lokalizacji drogi stanowi podstawę do wydania przez wojewodę decyzji o wygaśnięciu trwałego zarządu ustanowionego na nieruchomości przeznaczonej na pas drogowy, stanowiącej własność Skarbu Państwa, z wyjątkiem przypadków, gdy trwały zarząd jest ustanowiony na rzecz Generalnej Dyrekcji Dróg Krajowych i Autostrad. Przepis art. 17 stosuje się odpowiednio.
 
-**Art. 24.** (uchylony)
+### 2.
 
-**Art. 25.** (uchylony)
+Jeżeli przeznaczona na pasy drogowe nieruchomość stanowiąca własność Skarbu Państwa została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja o ustaleniu lokalizacji drogi stanowi podstawę do wypowiedzenia przez Generalnego Dyrektora Dróg Krajowych i Autostrad umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie.
 
-**Art. 26.** (uchylony)
+### 3.
 
-**Art. 27.** (uchylony)
+Do rozwiązania użytkowania stosuje się odpowiednio przepis ust. 2.
 
-**Art. 28.** (uchylony)
+### 4.
 
-**Art. 29.** (uchylony)
+Jeżeli przeznaczona na pasy drogowe nieruchomość gruntowa stanowiąca własność Skarbu Państwa została oddana w użytkowanie wieczyste, Generalny Dyrektor Dróg Krajowych i Autostrad działając w imieniu Skarbu Państwa po dniu, w którym decyzja o ustaleniu lokalizacji drogi stała się ostateczna, może zwrócić się do wieczystego użytkownika o rozwiązanie umowy o użytkowanie wieczyste za odszkodowaniem ustalonym według zasad obowiązujących przy wywłaszczaniu nieruchomości, a w przypadku odmowy - żądać rozwiązania tej umowy w drodze postępowania sądowego.
 
-**Art. 30.** (uchylony)
+### 5.
 
-**Art. 31.**
+Przepis ust. 4 stosuje się odpowiednio do użytkowania wieczystego nabytego w sposób inny niż w drodze umowy zawartej w formie aktu notarialnego.
 
-1. Nie stwierdza się nieważności ostatecznej decyzji o zezwoleniu na realizację inwestycji drogowej, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 60 dni od dnia, którym decyzja stała się ostateczna, a inwestor rozpoczął budowę drogi. Art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio. inwestycji drogowej sąd administracyjny po upływie 60 dni od dnia rozpoczęcia budowy drogi może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wskazanych art. 145 § 1 lub art. 156 § 1 Kodeksu postępowania administracyjnego.
+### Art. 20.
 
-2a. Przepisów ust. 1 i 2 nie stosuje się przypadku niezgodności decyzji o zezwoleniu na realizację inwestycji drogowej z:
+### 1.
 
-- **1)** decyzją o środowiskowych uwarunkowaniach lub
-- **2)** postanowieniem, o którym mowa art. 90 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+Generalna Dyrekcja Dróg Krajowych i Autostrad otrzymuje z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa, z dniem, w którym decyzja o ustaleniu lokalizacji drogi dotycząca tych nieruchomości stała się ostateczna, z zastrzeżeniem ust. 2.
 
-3. (uchylony)
+### 2.
 
-**Art. 32.**
+Generalna Dyrekcja Dróg Krajowych i Autostrad otrzymuje z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości stanowiące własność Skarbu Państwa, o których mowa w art. 19, odpowiednio z dniem: wygaśnięcia lub rozwiązania prawa użytkowania wieczystego, wygaśnięcia zarządu, rozwiązania użytkowania albo rozwiązania umów: dzierżawy, najmu lub użyczenia.
 
-1. Do oddawania do użytkowania drogi stosuje się przepisy ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+### 3.
 
-2. Na wniosek inwestora właściwy organ nadzoru budowlanego wydaje decyzję o pozwoleniu na użytkowanie odniesieniu do jezdni lub odcinka drogi, na których zakończono budowę.
+Generalna Dyrekcja Dróg Krajowych i Autostrad otrzymuje z mocy prawa, nieodpłatnie, w trwały zarząd nieruchomości nabyte przez nią na własność Skarbu Państwa na cele budowy dróg, z dniem ich nabycia.
 
-3. Właściwy organ nadzoru budowlanego może wydać decyzję o pozwoleniu na użytkowanie drogi, jezdni lub odcinka drogi, pomimo niespełniania wymagań ochrony środowiska, o których mowa art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54), jeżeli stwierdzi, że zostały spełnione warunki określone przepisach ustawy z dnia 7 lipca 1994 r. – Prawo budowlane. Przepisów art. 59 ust. 4 ustawy z dnia 7 lipca 1994 r. – Prawo budowlane i art. 59e tej ustawy, zakresie dotyczącym posiadania przez przeprowadzającego kontrolę statusu osoby zatrudnionej we właściwym organie nadzoru budowlanego, oraz art. 76 ust. 1, 3 i 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, nie stosuje się.
+### 4.
 
-4. W decyzji, o której mowa ust. 3, właściwy organ nadzoru budowlanego określa termin wykonania pozostałej części robót wykończeniowych lub innych robót budowlanych i spełnienia wymagań ochrony środowiska, o których mowa art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. Termin ten nie może być dłuższy niż 9 miesięcy.
+Ustanowienie trwałego zarządu, o którym mowa w ust. 1-3, stwierdza wojewoda w drodze decyzji.
 
-5. Po upływie terminu określonego ust. 4 właściwy organ nadzoru budowlanego z urzędu wszczyna postępowanie sprawie stwierdzenia wykonania wymagań ochrony środowiska, o których mowa art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska. Organ nadzoru budowlanego decyzji, wydanej porozumieniu z wojewódzkim inspektorem ochrony środowiska, stwierdza wykonanie pozostałej części robót wykończeniowych lub innych robót budowlanych i spełnienie wymagań ochrony środowiska, o których mowa art. 76 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, na dzień wydania tej decyzji. Przepis art. 76 ust. 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska stosuje się odpowiednio.
+### 5.
 
-6. Przepisy ust. 2–5 stosuje się odpowiednio do drogowych obiektów inżynierskich, objętych decyzją o zezwoleniu na realizację inwestycji drogowej.
+Decyzja, o której mowa w ust. 4, stanowi podstawę wpisu do księgi wieczystej.
 
-7. Główny Inspektor Nadzoru Budowlanego może przejąć postępowanie sprawie drogi ekspresowej lub autostrady, o którym mowa ust. 3–5, wraz z aktami sprawy.
+### 6.
 
-**Art. 32a.** Odstąpienie od zatwierdzonego projektu zagospodarowania działki lub terenu oraz projektu architektoniczno--budowlanego, zakresie objętym projektem zagospodarowania terenu liniach rozgraniczających drogi, nie stanowi istotnego odstąpienia, o którym mowa art. 36a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane, jeżeli nie wymaga uzyskania opinii, uzgodnień, pozwoleń i innych dokumentów, wymaganych przepisami szczególnymi.
+Generalna Dyrekcja Dróg Krajowych i Autostrad jest zwolniona z opłat rocznych z tytułu trwałego zarządu za nieruchomości, o których mowa w ust. 1-3, także w przypadku odpłatnego udostępnienia tych nieruchomości koncesjonariuszom lub innym podmiotom realizującym zadania w zakresie inwestycji drogowych, w tym prac budowlanych i utrzymaniowych.
 
-**Art. 33.** (uchylony)
+### Art. 21.
 
-#### Rozdział 4a Szczególne zasady przygotowania i realizacji inwestycji na drogach zawierających elementy o istotnym znaczeniu dla obronności lub bezpieczeństwa państwa
+### 1.
 
-**Art. 33a.**
+Do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji drogi nie stosuje się przepisów o ochronie gruntów rolnych i leśnych.
 
-1. Do inwestycji strategicznych określonych przepisach wydanych na podstawie art. 103a ust. 2 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, polegających na budowie dróg publicznych i zawierających elementy o istotnym znaczeniu dla obronności lub bezpieczeństwa państwa, zwanych dalej „inwestycjami drogowo-obronnymi”, nie stosuje się przepisów ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2022 r. poz. 840 oraz z 2023 r. poz. 951, 1688 i 1904), ustawy 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2023 r. poz. 633, 1688 i 2029) oraz przepisów art. 28b–28c ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne.
+### 2.
 
-2. Właściwe organy sprawach regulowanych przepisami, o których mowa ust. 1, przedstawiają zarządcy drogi, na jego wniosek, nie później niż terminie 7 dni od dnia otrzymania wniosku, stanowisko lub informacje albo udzielają wsparcia innym zakresie związku z realizacją inwestycji, tym przez możliwą minimalizację zagrożeń dla środowiska.
+Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o ustaleniu lokalizacji drogi, z wyjątkiem drzew i krzewów usuwanych z nieruchomości wpisanej do rejestru zabytków, nie stosuje się przepisów o ochronie przyrody w zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych.
 
-3. Weryfikacja wyników zgłoszonych prac geodezyjnych dotyczących inwestycji drogowo-obronnej przez organy Służby Geodezyjnej i Kartograficznej, o której mowa art. 12b ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, jest dokonywana niezwłocznie, nie później niż terminie 7 dni roboczych.
+### Art. 22.
 
-**Art. 33b.** Minister Obrony Narodowej przekazuje zarządcy drogi wykaz elementów o istotnym znaczeniu dla obronności lub bezpieczeństwa państwa, o których mowa art. 33a ust. 1, ze wskazaniem lokalizacji ich umieszczenia planowanej drodze.
+### 1.
 
-**Art. 33c.**
+Koszty nabycia nieruchomości pod drogi, w tym odszkodowania, finansowane są na podstawie przepisów o finansowaniu dróg publicznych i przepisów o drogach publicznych.
 
-1. Zarządca drogi uzgadnia wniosek o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej dotyczącej inwestycji drogowo-obronnej z Ministrem Obrony Narodowej zakresie przebiegu drogi, warunków technicznych drogi oraz lokalizacji i warunków technicznych elementów o istotnym znaczeniu dla obronności lub bezpieczeństwa państwa. Minister Obrony Narodowej zajmuje stanowisko przedmiocie uzgodnienia wniosku terminie 14 dni od dnia otrzymania wniosku.
+### 2.
 
-2. W przypadku inwestycji drogowo-obronnej do wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej dotyczącej inwestycji drogowo-obronnej dołącza się uzgodnienie z Ministrem Obrony Narodowej, o którym mowa ust. 1.
+Skarb Państwa jest zwolniony od podatku od nieruchomości w zakresie nieruchomości przeznaczonych na budowę dróg, nabytych w trybie określonym w niniejszym rozdziale.
 
-3. Minister Obrony Narodowej może upoważnić do uzgodnienia, o którym mowa ust. 1, pracowników urzędów, jednostek oraz podmiotów podległych Ministrowi Obrony Narodowej.
+### Art. 23.
 
-4. Do wniosku, o którym mowa ust. 1, nie dołącza się opinii wymaganych przepisami odrębnymi. ust. 1, wynosi 60 dni od dnia złożenia wniosku o wydanie decyzji o zezwoleniu na realizację inwestycji drogowej dotyczącej inwestycji drogowo-obronnej.
+W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy o gospodarce nieruchomościami.
 
-**Art. 33d.**
+### Rozdział 4 Realizacja inwestycji drogowej
 
-1. Do inwestycji drogowo-obronnej nie stosuje się przepisów art. 11b, art. 11d ust. 1 pkt 8 i 9 oraz art. 18 ust. 1g i 1h.
+### Art. 24.
 
-2. Do inwestycji drogowo-obronnej, dla której wydano postanowienie Generalnego Dyrektora Ochrony Środowiska, o którym mowa art. 103c ust. 3 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz o ocenach oddziaływania na środowisko, stosuje się odpowiednio przepisy art. 21a i art. 21b.
+### 1.
 
-3. Do usuwania drzew i krzewów znajdujących się na nieruchomościach objętych decyzją o zezwoleniu na realizację inwestycji drogowej dotyczącej inwestycji drogowo-obronnej nie stosuje się przepisów o ochronie przyrody zakresie obowiązku uzyskiwania zezwoleń na ich usunięcie oraz opłat z tym związanych niezależnie od tego, czy nieruchomość ta wpisana jest do rejestru zabytków.
+Wojewoda wydaje decyzję o pozwoleniu na budowę drogi na zasadach i w trybie przepisów Prawa budowlanego, z zastrzeżeniem przepisów niniejszego rozdziału.
 
-4. W przypadku inwestycji drogowo-obronnej porozumienie, o którym mowa art. 20b ust. 1, jest zawierane terminie 7 dni od dnia jego przekazania przez zarządcę drogi, a termin wycinki drzew i krzewów oraz ich uprzątnięcia nie może przekraczać 2 miesięcy.
+### 2.
 
-5. W przypadku gdy inwestycja drogowo-obronna wymaga przejścia przez tereny linii kolejowej, a porozumienie, o którym mowa art. 20a ust. 2, nie zostanie zawarte terminie 7 dni od dnia jego przekazania zarządcy infrastruktury kolejowej z przyczyn leżących po jego stronie, zarządca drogi po upływie tego terminu jest uprawniony do nieodpłatnego zajęcia terenu linii kolejowej.
+Ilekroć w przepisach Prawa budowlanego jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji drogi.
 
-6. Odstąpienie od zatwierdzonego projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego zakresie objętym projektem zagospodarowania terenu liniach rozgraniczających drogi nie stanowi istotnego odstąpienia, o którym mowa art. 36a ustawy z dnia 7 lipca 1994 r. – Prawo budowlane.
+### 3.
 
-7. Zarządca drogi bada wpływ inwestycji drogowo-obronnej na stan wód trakcie realizacji inwestycji, o ile nie powoduje to opóźnień jej realizacji, oraz trakcie użytkowania inwestycji. W przypadku stwierdzenia ryzyka negatywnego wpływu inwestycji na możliwość osiągnięcia celów środowiskowych, o których wodne, zarządca drogi podejmuje środki zaradcze, które zapobiegają temu negatywnemu wpływowi.
+O wszczęciu postępowania o wydanie decyzji o pozwoleniu na budowę drogi wojewoda zawiadamia, w drodze obwieszczeń, w urzędach gmin i w prasie lokalnej.
 
-**Art. 33e.** Decyzji o zezwoleniu na realizację inwestycji drogowej dotyczącej inwestycji drogowo-obronnej nadaje się rygor natychmiastowej wykonalności.
+### Art. 25.
 
-**Art. 33f.**
+### 1.
 
-1. Przygotowanie i realizacja inwestycji drogowo-obronnej wypełniają przesłankę udzielenia zamówienia publicznego trybie z wolnej ręki określoną art. 214 ust. 1 pkt 5 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720).
+Wydanie decyzji o pozwoleniu na budowę drogi wymaga sporządzenia raportu o oddziaływaniu przedsięwzięcia drogowego na środowisko i dokonania uzgodnień z właściwymi organami.
 
-2. W przypadku, o którym mowa ust. 1, można odstąpić od stosowania przepisów art. 53–55 i art. 216 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+### 2.
 
-#### Rozdział 5 Zmiany przepisach obowiązujących
+Zakres raportu, o którym mowa w ust. 1, określa załącznik nr 2 do ustawy.
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+### Art. 26.
 
-**Art. 41.**
+### 1.
 
-1. Wskazania lokalizacyjne udzielone do dnia wejścia życie ustawy pozostają mocy zakresie dotyczącym ustalenia przebiegu autostrady, a pozostałym zakresie, jeżeli ich treść nie jest sprzeczna z przepisami niniejszej ustawy.
+Wojewoda może nałożyć na wnioskodawcę obowiązek przedłożenia analizy porealizacyjnej, określając termin jej przedłożenia nie krótszy niż 12 miesięcy i nie dłuższy niż 36 miesięcy od dnia oddania drogi do użytkowania.
 
-2. Decyzje o ustaleniu lokalizacji autostrady wydane do dnia wejścia życie ustawy pozostają mocy.
+### 2.
 
-3. Decyzje o warunkach zabudowy i zagospodarowania terenu wydane do dnia wejścia życie ustawy, a dotyczące dróg objętych niniejszą ustawą, pozostają mocy do dnia 31 grudnia 2020 r., chyba że uprawniony podmiot złoży przed upływem tego terminu wniosek o wydanie zezwolenia na realizację inwestycji drogowej na podstawie niniejszej ustawy.
+W analizie porealizacyjnej, o której mowa w ust. 1, dokonuje się porównania ustaleń zawartych w raporcie, o którym mowa w art. 25 ust. 1, z rzeczywistym oddziaływaniem inwestycji drogowej na środowisko i działaniami podjętymi w celu jego ograniczenia.
 
-**Art. 42.**
+### Art. 27.
 
-1. Do spraw wszczętych i niezakończonych do dnia wejścia życie ustawy decyzją ostateczną przepisy niniejszej ustawy stosuje się na wniosek uprawnionego podmiotu. wejścia życie niniejszej ustawy umarza się, z tym że dokumentacja do wniosku o ich udzielenie może być wykorzystana do wniosku o wydanie decyzji o ustaleniu lokalizacji drogi.
+Jeżeli z postępowania w sprawie oceny oddziaływania na środowisko wynika konieczność utworzenia obszaru ograniczonego użytkowania i zostało to stwierdzone w decyzji o pozwoleniu na budowę drogi, utworzenie obszaru ograniczonego użytkowania następuje w terminie nie dłuższym niż 12 miesięcy od dnia rozpoczęcia użytkowania drogi.
 
-**Art. 43.**
+### Art. 28.
 
-1. Decyzje o ustaleniu lokalizacji drogi, decyzje o pozwoleniu na budowę drogi, decyzje o zezwoleniu na realizację inwestycji drogowej oraz inne decyzje wydane na podstawie niniejszej ustawy pozostają mocy.
+### 1.
 
-2. Do spraw wszczętych i niezakończonych do dnia utraty mocy przez niniejszą ustawę decyzją ostateczną stosuje się przepisy dotychczasowe.
+Wojewoda doręcza decyzję o pozwoleniu na budowę drogi wnioskodawcy oraz zawiadamia o jej wydaniu pozostałe strony, w drodze obwieszczeń, w urzędach gmin oraz w prasie lokalnej.
 
-**Art. 44.** W okresie obowiązywania niniejszej ustawy do lokalizacji autostrad oraz do nabywania nieruchomości pod autostrady nie stosuje się art. 21–37 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2022 r. poz. 2483 i 2707 oraz z 2023 r. poz. 760, 1193 i 1688).
+### 2.
 
-**Art. 45.**
+Zawiadomienie o wydaniu decyzji o pozwoleniu na budowę drogi zawiera informację o miejscu, w którym strony mogą zapoznać się z treścią tej decyzji. Przepis art. 49 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-1. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+### 3.
 
-2. (uchylony) (Dz. U. z 2024 r. poz.
+Przepisy ust. 1 i 2 stosuje się odpowiednio do doręczania i zawiadamiania stron o decyzji w sprawie budowy drogi wydanej przez organ drugiej instancji.
 
-- **311)** Załącznik nr 1 (uchylony) Załącznik nr 2 (uchylony)
+### 4.
 
+Odwołanie strony od decyzji o pozwoleniu na budowę drogi rozpatruje się w terminie 14 dni, a skargę do sądu administracyjnego w terminie dwóch miesięcy.
 
+### Art. 29.
+
+Jeżeli budowa drogi wymaga wydania pozwolenia wodnoprawnego, właściwy wojewoda wydaje to pozwolenie w terminie nie dłuższym niż 30 dni od dnia złożenia wniosku o jego wydanie.
+
+### Art. 30.
+
+### 1.
+
+Jeżeli z decyzji o pozwoleniu na budowę drogi wynika obowiązek dokonania przebudowy istniejących urządzeń infrastruktury technicznej, wojewoda, na wniosek inwestora, może ograniczyć, w drodze decyzji, sposób korzystania z nieruchomości przez udzielenie zezwolenia na zakładanie i przeprowadzanie na nieruchomości ciągów drenażowych, przewodów i urządzeń służących do przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów i urządzeń niezbędnych do korzystania z tych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody. Przepisy art. 124 ust. 2-7 oraz art. 124a ustawy o gospodarce nieruchomościami stosuje się odpowiednio.
+
+### 2.
+
+Decyzji, o której mowa w ust. 1, nadaje się rygor natychmiastowej wykonalności, jeżeli jest to niezbędne do wykazania prawa do dysponowania nieruchomością na cele budowlane w rozumieniu przepisów Prawa budowlanego.
+
+### 3.
+
+Do egzekucji obowiązków wynikających z decyzji, o której mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+### Art. 31.
+
+### 1.
+
+Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na budowę drogi, jeżeli wniosek o stwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, w którym decyzja stała się ostateczna, a inwestor rozpoczął budowę drogi. Art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### 2.
+
+W przypadku uwzględnienia skargi na decyzję o pozwoleniu na budowę drogi, której nadano rygor natychmiastowej wykonalności, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy drogi może stwierdzić jedynie, że decyzja narusza prawo z przyczyn wyszczególnionych w art. 145 lub 156 Kodeksu postępowania administracyjnego. W tym przypadku art. 160 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do decyzji o ustaleniu lokalizacji drogi.
+
+### Art. 32.
+
+### 1.
+
+Wojewoda wydaje decyzję o pozwoleniu na użytkowanie drogi na zasadach i w trybie przepisów Prawa budowlanego, z zastrzeżeniem ust. 2.
+
+### 2.
+
+W przypadku decyzji o pozwoleniu na budowę drogi posiadającej co najmniej dwie jezdnie, przy czym każdą z nich przeznaczoną dla jednego kierunku ruchu, wojewoda, na wniosek inwestora, wydaje decyzję o pozwoleniu na użytkowanie w odniesieniu do jezdni lub jej odcinka, na którym zakończono budowę.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do drogowych obiektów inżynierskich, objętych decyzją o pozwoleniu na budowę drogi.
+
+### Art. 33.
+
+W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy Prawa ochrony środowiska, z wyłączeniem art. 31-36, art. 46, 47, art. 49-53, art. 55-57 oraz art. 135 ust. 4.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących
+
+### Art. 34.
+
+W ustawie z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2000 r. Nr 71, poz. 838](https://api.sejm.gov.pl/eli/acts/DU/2000/838/text.html) i [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html), z [2001 r. Nr 125, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2001/1371/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 41, poz. 365](https://api.sejm.gov.pl/eli/acts/DU/2002/365/text.html), [Nr 62, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/2002/554/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 89, poz. 804](https://api.sejm.gov.pl/eli/acts/DU/2002/804/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 214, poz. 1816](https://api.sejm.gov.pl/eli/acts/DU/2002/1816/text.html) i [Nr 216, poz. 1826](https://api.sejm.gov.pl/eli/acts/DU/2002/1826/text.html) oraz z [2003 r. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)) w art. 18 w ust. 2 w pkt 7 w lit. a skreśla się wyrazy „udzielenia wskazań lokalizacyjnych i”.
+
+### Art. 35.
+
+W ustawie z dnia 28 września 1991 r. o lasach ([Dz. U. z 2000 r. Nr 56, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2000/679/text.html), [Nr 86, poz. 958](https://api.sejm.gov.pl/eli/acts/DU/2000/958/text.html) i [Nr 120, poz. 1268](https://api.sejm.gov.pl/eli/acts/DU/2000/1268/text.html), z [2001 r. Nr 110, poz. 1189](https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text.html) i [Nr 145, poz. 1623](https://api.sejm.gov.pl/eli/acts/DU/2001/1623/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 200, poz. 1682](https://api.sejm.gov.pl/eli/acts/DU/2002/1682/text.html) oraz z [2003 r. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)) art. 38a otrzymuje brzmienie:
+
+„
+
+### Art. 38a.
+
+### 1.
+
+Nieruchomości przeznaczone na drogi krajowe, stanowiące własność Skarbu Państwa, zarządzane przez Lasy Państwowe, stają się nieodpłatnie, z mocy prawa, przedmiotem trwałego zarządu ustanowionego na rzecz Generalnej Dyrekcji Dróg Krajowych i Autostrad z dniem, w którym decyzja o ustaleniu lokalizacji drogi krajowej stała się ostateczna.
+
+### 2.
+
+Ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji.
+
+### 3.
+
+Decyzja, o której mowa w ust. 2, stanowi podstawę wpisu do księgi wieczystej.
+
+” .
+
+### Art. 36.
+
+W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa ([Dz. U. z 2001 r. Nr 57, poz. 603](https://api.sejm.gov.pl/eli/acts/DU/2001/603/text.html), [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html), [Nr 122, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2001/1323/text.html) i [Nr 154, poz. 1793 i 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1793/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html) i [Nr 155, poz. 1287](https://api.sejm.gov.pl/eli/acts/DU/2002/1287/text.html) oraz z [2003 r. Nr 6, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/2003/64/text.html), [Nr 49, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/2003/408/text.html) i [Nr 64, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/2003/592/text.html)) w art. 24 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Nieruchomości przeznaczone na drogi krajowe, stanowiące własność Skarbu Państwa, wchodzące w skład Zasobu, stają się nieodpłatnie, z mocy prawa, przedmiotem trwałego zarządu ustanowionego na rzecz Generalnej Dyrekcji Dróg Krajowych i Autostrad z dniem, w którym decyzja o ustaleniu lokalizacji drogi krajowej stała się ostateczna. Ustanowienie trwałego zarządu stwierdza wojewoda w drodze decyzji. Decyzja wojewody stanowi podstawę wpisu do księgi wieczystej.
+
+” .
+
+### Art. 37.
+
+W ustawie z dnia 27 października 1994 r. o autostradach płatnych ([Dz. U. z 2001 r. Nr 110, poz. 1192](https://api.sejm.gov.pl/eli/acts/DU/2001/1192/text.html) oraz z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 18 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+projektów wniosków o ustalenie lokalizacji,
+
+” ;
+
+### 2)
+
+uchyla się art. 19 i 20;
+
+### 3)
+
+w art. 22 w ust. 1 skreśla się wyrazy „, wydana zgodnie ze wskazaniami lokalizacyjnymi,”.
+
+### Art. 38.
+
+W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ([Dz. U. z 2000 r. Nr 46, poz. 543](https://api.sejm.gov.pl/eli/acts/DU/2000/543/text.html), z [2001 r. Nr 129, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2001/1447/text.html) i [Nr 154, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2001/1800/text.html), z [2002 r. Nr 25, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/2002/253/text.html), [Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 126, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2002/1070/text.html), [Nr 130, poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text.html), [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html), [Nr 200, poz. 1682](https://api.sejm.gov.pl/eli/acts/DU/2002/1682/text.html) i [Nr 240, poz. 2058](https://api.sejm.gov.pl/eli/acts/DU/2002/2058/text.html) oraz z [2003 r. Nr 1, poz. 15](https://api.sejm.gov.pl/eli/acts/DU/2003/15/text.html) i [Nr 80, poz. 717 i 720](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych (Dz. U. Nr 80, poz. 721),
+
+” ;
+
+### 2)
+
+w art. 95 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+wydzielenia części nieruchomości objętej decyzją o ustaleniu lokalizacji drogi krajowej,
+
+” ;
+
+### 3)
+
+w art. 109 w ust. 3 w pkt 5 kropkę zastępuje się przecinkiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+sprzedaż nieruchomości następuje na cele budowy dróg krajowych.
+
+” .
+
+### Art. 39.
+
+W ustawie z dnia 9 września 2000 r. o podatku od czynności cywilnoprawnych ([Dz. U. Nr 86, poz. 959](https://api.sejm.gov.pl/eli/acts/DU/2000/959/text.html) i [Nr 103, poz. 1099](https://api.sejm.gov.pl/eli/acts/DU/2000/1099/text.html), z [2001 r. Nr 100, poz. 1085](https://api.sejm.gov.pl/eli/acts/DU/2001/1085/text.html) oraz z [2002 r. Nr 121, poz. 1031](https://api.sejm.gov.pl/eli/acts/DU/2002/1031/text.html) i [Nr 199, poz. 1672](https://api.sejm.gov.pl/eli/acts/DU/2002/1672/text.html)) w art. 2 w pkt 1 dodaje się lit. h w brzmieniu:
+
+„
+
+### h)
+
+podlegających przepisom o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych,
+
+” .
+
+### Art. 40.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. Nr 62, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2001/627/text.html) i [Nr 115, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2001/1229/text.html), z [2002 r. Nr 74, poz. 676](https://api.sejm.gov.pl/eli/acts/DU/2002/676/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html), [Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html) i [Nr 233, poz. 1957](https://api.sejm.gov.pl/eli/acts/DU/2002/1957/text.html) oraz z [2003 r. Nr 46, poz. 392](https://api.sejm.gov.pl/eli/acts/DU/2003/392/text.html) i [Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 19 w ust. 2 uchyla się pkt 6;
+
+### 2)
+
+w art. 46:
+
+### a)
+
+w ust. 4 dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+decyzja o ustaleniu lokalizacji drogi krajowej wydawana na podstawie ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg krajowych (Dz. U. Nr 80, poz. 721).
+
+” ,
+
+### b)
+
+uchyla się ust. 5 i 6;
+
+### 3)
+
+w art. 49:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „oraz wskazań lokalizacyjnych, o których mowa w art. 46 ust. 5,”,
+
+### b)
+
+w ust. 5 skreśla się wyrazy „, a w sprawach, o których mowa w art. 46 ust. 5 - ministra właściwego do spraw środowiska oraz Głównego Inspektora Sanitarnego”;
+
+### 4)
+
+w art. 52 uchyla się ust. 6-9;
+
+### 5)
+
+uchyla się art. 54;
+
+### 6)
+
+w art. 57 uchyla się ust. 2;
+
+### 7)
+
+w art. 381 uchyla się ust. 2.
+
+### Rozdział 6 Przepisy przejściowe i końcowe
+
+### Art. 41.
+
+### 1.
+
+Wskazania lokalizacyjne udzielone do dnia wejścia w życie ustawy pozostają w mocy w zakresie dotyczącym ustalenia przebiegu autostrady, a w pozostałym zakresie, jeżeli ich treść nie jest sprzeczna z przepisami niniejszej ustawy.
+
+### 2.
+
+Decyzje o ustaleniu lokalizacji autostrady wydane do dnia wejścia w życie ustawy pozostają w mocy.
+
+### 3.
+
+Decyzje o warunkach zabudowy i zagospodarowania terenu wydane do dnia wejścia w życie ustawy, a dotyczące dróg objętych niniejszą ustawą, pozostają w mocy do dnia 31 grudnia 2007 r., chyba że uprawniony podmiot złoży przed upływem tego terminu wniosek o ustalenie lokalizacji drogi na podstawie niniejszej ustawy.
+
+### Art. 42.
+
+### 1.
+
+Do spraw wszczętych i niezakończonych do dnia wejścia w życie ustawy decyzją ostateczną przepisy niniejszej ustawy stosuje się na wniosek uprawnionego podmiotu.
+
+### 2.
+
+Postępowania o udzielenie wskazań lokalizacyjnych niezakończone do dnia wejścia w życie niniejszej ustawy umarza się, z tym że dokumentacja do wniosku o ich udzielenie może być wykorzystana do wniosku o wydanie decyzji o ustaleniu lokalizacji drogi.
+
+### Art. 43.
+
+### 1.
+
+Decyzje o ustaleniu lokalizacji drogi, decyzje o pozwoleniu na budowę drogi oraz inne decyzje wydane na podstawie niniejszej ustawy pozostają w mocy.
+
+### 2.
+
+Do spraw wszczętych i niezakończonych do dnia utraty mocy przez niniejszą ustawę decyzją ostateczną stosuje się przepisy dotychczasowe.
+
+### Art. 44.
+
+W okresie obowiązywania niniejszej ustawy do lokalizacji autostrad oraz do nabywania nieruchomości pod autostrady nie stosuje się art. 21-37 ustawy z dnia 27 października 1994 r. o autostradach płatnych.
+
+### Art. 45.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia i traci moc, z wyjątkiem rozdziału 6, z dniem 31 grudnia 2007 r.
+
+## Załącznik nr 1 - Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko, wymagany do wniosku o ustalenie lokalizacji drogi
+
+### 1.
+
+Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko powinien uwzględniać fazy realizacji i eksploatacji planowanego przedsięwzięcia i spełniać następujące wymagania:
+
+### 1)
+
+identyfikować elementy środowiska oraz dobra kultury istniejące w sąsiedztwie lub w bezpośrednim zasięgu oddziaływania planowanego przedsięwzięcia;
+
+### 2)
+
+ustalać wpływ planowanego przedsięwzięcia na środowisko, w szczególności na ludzi, zwierzęta, rośliny, powierzchnię ziemi, wodę, powietrze, klimat, dobra materialne, krajobraz oraz wzajemne oddziaływanie między tymi elementami środowiska;
+
+### 3)
+
+ustalać wpływy planowanego przedsięwzięcia na dobra kultury, w tym: zasoby i walory dóbr kultury, krajobraz kulturowy oraz obszary i obiekty chronione na podstawie odrębnych przepisów, z uwzględnieniem istniejącej dokumentacji, inwentaryzacji i rejestru konserwatorskiego;
+
+### 4)
+
+przyjmować za podstawę oceny istniejące dane obserwacyjne i pomiarowe oraz inne informacje dotyczące stanu środowiska i dóbr kultury, występujących uciążliwości, a także dane zawarte w istniejących opracowaniach dotyczących stanu środowiska;
+
+### 5)
+
+przedstawiać zagadnienia w formie opisowej i graficznej.
+
+### 2.
+
+Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko zawiera:
+
+### 1)
+
+opis planowanego przedsięwzięcia drogowego, a w szczególności:
+
+### a)
+
+charakterystykę planowanego przedsięwzięcia i warunki wykorzystania terenu w fazie realizacji i eksploatacji,
+
+### b)
+
+informacje o obiektach budowlanych i urządzeniach związanych z realizacją planowanego przedsięwzięcia,
+
+### c)
+
+wpływ planowanego przedsięwzięcia na istniejące elementy sieci drogowej, z uwzględnieniem wariantu polegającego na niepodejmowaniu przedsięwzięcia,
+
+### d)
+
+przewidywane wielkości emisji w trakcie eksploatacji obiektu drogowego;
+
+### 2)
+
+charakterystykę środowiska w obszarze przewidywanego oddziaływania planowanego przedsięwzięcia uwzględniającą:
+
+### a)
+
+elementy przyrodnicze środowiska i tendencje zmian w nim zachodzących,
+
+### b)
+
+obszary chronione, określone na podstawie odrębnych przepisów,
+
+### c)
+
+walory krajobrazowe i rekreacyjne;
+
+### 3)
+
+opis wariantu polegającego na niepodejmowaniu przedsięwzięcia;
+
+### 4)
+
+opis wariantów przebiegu przedsięwzięcia drogowego w sąsiedztwie lub na obszarach rezerwatów przyrody, parków narodowych, parków krajobrazowych i obszarów objętych ochroną przyrody na podstawie prawa międzynarodowego oraz na obszarach intensywnej zabudowy mieszkaniowej, wraz z uzasadnieniem wyboru wariantów;
+
+### 5)
+
+charakterystykę istniejącego zagospodarowania i użytkowania terenów w obszarze przewidywanego oddziaływania przedsięwzięcia;
+
+### 6)
+
+syntetyczne zestawienie dóbr kultury objętych ochroną na podstawie przepisów szczególnych, wraz z ich wskazaniem;
+
+### 7)
+
+określenie przewidywanych oddziaływań planowanego przedsięwzięcia na środowisko, w tym również w przypadku wystąpienia poważnego zagrożenia spowodowanego wypadkiem drogowym;
+
+### 8)
+
+opis przewidywanych znaczących oddziaływań planowanego przedsięwzięcia na środowisko, obejmujący bezpośrednie, pośrednie, wtórne, skumulowane, krótko-, średnio- i długoterminowe, stałe i chwilowe oddziaływania na środowisko występujące w czasie realizacji i eksploatacji obiektu drogowego;
+
+### 9)
+
+analizę i ocenę potencjalnych zagrożeń i szkód dla dóbr kultury, ze wskazaniem obiektów lub stanowisk archeologicznych narażonych na zniszczenie dużych części trwałych obiektów architektonicznych, fragmentów założeń parkowych i innych dóbr kultury w obrębie planowanego terenu budowy przedsięwzięcia;
+
+### 10)
+
+określenie potencjalnych zagrożeń w poszczególnych fazach realizacji i eksploatacji obiektu drogowego dla warunków życia i zdrowia ludzi, w tym prawdopodobnego zasięgu oddziaływań ponadnormatywnych hałasu, zanieczyszczeń powietrza, wody;
+
+### 11)
+
+określenie założeń do:
+
+### a)
+
+ratowniczych badań obiektów, stanowisk archeologicznych i historycznych znajdujących się na obszarze planowanego przedsięwzięcia, odkrywanych w trakcie prac budowlanych,
+
+### b)
+
+programu zabezpieczenia istniejących dóbr kultury przed negatywnym oddziaływaniem obiektu drogowego oraz ochrony krajobrazu kulturowego;
+
+### 12)
+
+opis zastosowanych metod prognozowania, przyjętych założeń i rozwiązań oraz wykorzystanych danych, w tym o ruchu drogowym, a także stwierdzonych braków i niedoskonałości w tym zakresie;
+
+### 13)
+
+opis przewidywanych działań mających na celu zapobieganie, ograniczanie lub kompensację przyrodniczą negatywnych oddziaływań na środowisko oraz ocenę efektywności proponowanych metod i środków;
+
+### 14)
+
+wnioski dotyczące:
+
+### a)
+
+warunków projektowania i realizacji planowanego przedsięwzięcia, w tym zabezpieczeń środowiska,
+
+### b)
+
+potrzeby zmian przebiegu drogi w odniesieniu do wybranych jej odcinków ze względu na ochronę dóbr kultury i ochronę przyrody;
+
+### 15)
+
+opis trudności wynikających z niedostatków techniki, luk w danych i we współczesnej wiedzy, jakie napotkano opracowując raport;
+
+### 16)
+
+opracowanie zagadnień w formie graficznej, w tym map w skali 1:5000;
+
+### 17)
+
+źródła informacji stanowiące podstawę do sporządzenia raportu;
+
+### 18)
+
+streszczenie informacji zawartych w raporcie w języku niespecjalistycznym.
+
+## Załącznik nr 2 - Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko, wymagany do wniosku o wydanie pozwolenia na budowę drogi
+
+Raport o oddziaływaniu planowanego przedsięwzięcia drogowego na środowisko zawiera:
+
+### 1)
+
+krótki opis projektowanego przedsięwzięcia z uwzględnieniem tych jego elementów, które są związane z oddziaływaniami na środowisko;
+
+### 2)
+
+syntetyczny opis elementów środowiska, w jakim przedsięwzięcie ma być zlokalizowane, objętych zakresem jego przewidywanego oddziaływania;
+
+### 3)
+
+syntezę warunków realizacji przedsięwzięcia oraz wymagań dotyczących ochrony środowiska zawartych w decyzji o ustaleniu lokalizacji oraz w innych decyzjach dotyczących ochrony środowiska;
+
+### 4)
+
+ocenę sposobów realizacji warunków zawartych w decyzji o ustaleniu lokalizacji;
+
+### 5)
+
+weryfikację zmian w realizacji wymagań dotyczących ochrony środowiska dokonanych w projekcie budowlanym w związku z uszczegółowieniem projektu przedsięwzięcia oraz stwierdzeniem nowych okoliczności i oddziaływań;
+
+### 6)
+
+ocenę poprawności metod prognozowania i analiz dotyczących oddziaływań przedsięwzięcia na środowisko wykorzystanych w projekcie wraz z oceną poprawności i kompletności danych o ruchu drogowym istniejącym i prognozowanym oraz zastosowanych środków redukujących te oddziaływania;
+
+### 7)
+
+ocenę efektywności środków zapobiegających, redukujących i kompensujących oddziaływania na elementy środowiska zastosowanych w projekcie budowlanym, z uwzględnieniem okresów realizacji i eksploatacji projektowanego przedsięwzięcia drogowego;
+
+### 8)
+
+sprawdzenie, czy zagrożone dobra kultury, zlokalizowane w obrębie projektowanego terenu budowy drogi, mają opracowane projekty ograniczające niekorzystne oddziaływania w fazie realizacji i eksploatacji obiektu;
+
+### 9)
+
+źródła informacji stanowiących podstawę do sporządzenia raportu oraz wskazanie trudności wynikających z niedostatków metod i danych, jakie napotkano opracowując raport;
+
+### 10)
+
+wnioski dotyczące:
+
+### a)
+
+ustaleń w zakresie zagadnień podanych w pkt 4-8,
+
+### b)
+
+celowości i możliwości etapowania budowy urządzeń ochrony środowiska,
+
+### c)
+
+wymagań ochrony środowiska w trakcie wykonywania robót budowlanych,
+
+### d)
+
+celowości wykonania oraz zakresu analizy porealizacyjnej;
+
+### 11)
+
+streszczenie w języku niespecjalistycznym informacji zawartych w raporcie;
+
+### 12)
+
+opracowanie zagadnień w formie graficznej, w tym map w skali odpowiedniej do prezentowanego zagadnienia, nie mniejszej jednak niż 1:5000.

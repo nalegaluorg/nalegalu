@@ -8,11 +8,9 @@ pos: 1218
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 13 maja 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 13 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,382 +22,958 @@ domain: null
 | Data ogłoszenia | 2022-05-13 |
 | Data wydania | 2022-06-08 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1218/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1218/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1218) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2021 r. poz. 1643), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 25) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 maja 2022 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 25), który stanowi: „Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
-Marszałek Sejmu: E. Witek
-USTAWA z dnia 26 czerwca 2014 r.
-o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.** Ustawa określa prawa i obowiązki stron oraz zasady zawierania umów w związku z realizacją zamówień dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiących środki, o których mowa w art. 346 ust. 1 lit. b Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „TFUE”, konieczne do ochrony podstawowych interesów bezpieczeństwa państwa, których wykonanie wymaga offsetu.
+- [Załącznik - Tekst jednolity ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zawarcie umowy offsetowej](#chpt_2) [Rozdział 3 - Treść i wykonanie umowy offsetowej](#chpt_3) [Rozdział 4 - Komitet Offsetowy](#chpt_4) [Rozdział 5 - Nadzór nad wykonywaniem umów offsetowych](#chpt_5) [Rozdział 6 - Przepisy zmieniające](#chpt_6) [Rozdział 7 - Przepisy przejściowe i końcowe](#chpt_7)
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+TOC
 
-**Art. 3.**
+## Treść obwieszczenia
 
-1. Zagraniczny dostawca ma obowiązek zawarcia umowy offsetowej na zasadach określonych w ustawie.
+### 1.
 
-2. Żadna ze stron nie może odstąpić od umowy offsetowej.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa ([Dz. U. z 2021 r. poz. 1643](https://api.sejm.gov.pl/eli/acts/DU/2021/1643/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa ([Dz. U. z 2022 r. poz. 25](https://api.sejm.gov.pl/eli/acts/DU/2022/25/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 maja 2022 r.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zmiany zakresu umowy dostawy.
+### 2.
 
-4. Umowy dostawy zawierane przez podmioty dominujące lub podmioty zależne w stosunku do zagranicznego dostawcy uważa się za zawierane przez tego zagranicznego dostawcę.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 3 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa ([Dz. U. z 2022 r. poz. 25](https://api.sejm.gov.pl/eli/acts/DU/2022/25/text.html)), który stanowi:
 
-**Art. 4.** Umowa offsetowa jest jawna w zakresie oznaczenia offsetobiorcy i offsetodawcy, wartości umowy offsetowej, terminu wykonania umowy offsetowej oraz przedmiotu dostawy, z wyjątkiem informacji, których ujawnienie jest sprzeczne z podstawowymi interesami bezpieczeństwa państwa.
+„
 
-**Art. 5.**
+### Art. 3.
 
-1. Wartość umowy offsetowej jest ustalana indywidualnie dla każdej umowy offsetowej.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-2. W przypadku gdy wartość umowy dostawy jest wyrażona w walucie obcej, jej równowartość w walucie polskiej ustala się przy zastosowaniu kursu średniego, ogłaszanego przez Narodowy Bank Polski z kwartału poprzedzającego dzień wyboru oferty w postępowaniu o udzielenie zamówienia na dostawę.
+” .
 
-**Art. 6.**
+## Załącznik - Tekst jednolity ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa
 
-1. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podlegają wyłączeniu od tych czynności, jeżeli:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106);
-- **2)** pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z członkami organów zarządzających lub nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
-- **3)** w ciągu 3 lat przed dniem złożenia oferty offsetowej pozostawały z offsetodawcą lub offsetobiorcą w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej, lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
-- **4)** w ciągu 3 lat przed dniem złożenia oferty offsetowej osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostawały z offsetodawcą lub offsetobiorcą lub ich pełnomocnikiem w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy lub jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
-- **5)** posiadają udziały, akcje lub inne papiery wartościowe emitowane przez zagranicznego dostawcę, offsetobiorcę lub offsetodawcę albo jednostki powiązane z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z osobami posiadającymi takie udziały, akcje lub inne papiery wartościowe;
-- **6)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostają z offsetodawcą lub offsetobiorcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób;
-- **7)** zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2021 r. poz. 2345 i 2447), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
-- **8)** osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli są członkami organów spółdzielni, fundacji lub stowarzyszeń, które w ciągu 3 lat przed dniem złożenia oferty offsetowej uzyskały wsparcie finansowe ze strony zagranicznego dostawcy, offsetobiorcy lub offsetodawcy, albo jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
-- **9)** nie złożyły oświadczenia, o którym mowa w ust. 2.
+### Art. 1.
 
-2. Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1–8.
+Ustawa określa prawa i obowiązki stron oraz zasady zawierania umów w związku z realizacją zamówień dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiących środki, o których mowa w art. 346 ust. 1 lit. b Traktatu o funkcjonowaniu Unii Europejskiej, zwanego dalej „TFUE”, konieczne do ochrony podstawowych interesów bezpieczeństwa państwa, których wykonanie wymaga offsetu.
 
-3. Oświadczenie, o którym mowa w ust. 2, zawiera w szczególności:
+### Art. 2.
 
-- **1)** imię i nazwisko oraz numer PESEL osoby składającej oświadczenie;
-- **2)** imię i nazwisko małżonka, osób pozostających z nim oraz osobą składającą oświadczenie w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związanych z nimi z tytułu przysposobienia, opieki lub kurateli.
+Użyte w ustawie określenia oznaczają:
 
-4. Czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podjęte przez osobę podlegającą wyłączeniu po powzięciu wiadomości o okolicznościach, o których mowa w ust. 1 pkt 1–8, powtarza się, z wyjątkiem czynności faktycznych niewpływających na zawarcie umowy.
+### 1)
 
-5. Oświadczenie, o którym mowa w ust. 2, weryfikuje Centralne Biuro Antykorupcyjne.
+umowa offsetowa - umowę zawartą między Skarbem Państwa a zagranicznym dostawcą, określającą w szczególności wartość, przedmiot i harmonogram wykonania zobowiązań offsetowych oraz warunki, na jakich te zobowiązania mają być wykonane, mającą na celu ochronę podstawowych interesów bezpieczeństwa państwa zgodnie z art. 346 ust. 1 lit. b TFUE;
 
-6. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór oświadczenia o braku okoliczności wymienionych w ust. 1 pkt 1–8, mając na uwadze zapewnienie czytelności oświadczeń oraz pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+### 2)
 
-#### Rozdział 2 Zawarcie umowy offsetowej
+zobowiązanie offsetowe - zobowiązanie zagranicznego dostawcy wobec Skarbu Państwa i offsetobiorcy, polegające w szczególności na przekazaniu technologii lub know-how, wraz z przeniesieniem autorskich praw majątkowych lub praw do korzystania z utworu na podstawie udzielonej licencji, zapewniające wymaganą przez Skarb Państwa niezależność od zagranicznego dostawcy w celu utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie przeniesienia zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
 
-**Art. 7.**
+### 3)
 
-1. Umowę offsetową zawiera się po przeprowadzeniu negocjacji na podstawie oferty offsetowej zagranicznego dostawcy, która jest zgodna z wymaganiami, o których mowa w art. 8 ust. 3 pkt 1, określonymi przez Ministra Obrony Narodowej.
+zagraniczny dostawca - stronę umowy dostawy lub inny podmiot, który wykonuje umowę offsetową za stronę umowy dostawy, w tym konsorcjum, rząd innego państwa lub agendę rządową, które ubiegają się o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa, i złożyła ofertę offsetową;
 
-2. W negocjacjach prowadzonych przez Ministra Obrony Narodowej uczestniczy zamawiający.
+### 4)
 
-3. Umowę offsetową zawiera Skarb Państwa, reprezentowany przez Ministra Obrony Narodowej, po zasięgnięciu opinii Komitetu Offsetowego. Zawarcie umowy nie może nastąpić na warunkach mniej korzystnych niż określone w ofercie offsetowej.
+offsetobiorca - podmiot wykonujący działalność gospodarczą w zakresie, o którym mowa w art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym ([Dz. U. z 2022 r. poz. 268](https://api.sejm.gov.pl/eli/acts/DU/2022/268/text.html) i [275](https://api.sejm.gov.pl/eli/acts/DU/2022/275/text.html)), z miejscem zamieszkania albo siedzibą na terytorium Rzeczypospolitej Polskiej, a także jednostkę sektora finansów publicznych oraz podmiot, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html), [682](https://api.sejm.gov.pl/eli/acts/DU/2022/682/text.html) i [807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html));
 
-4. Zastosowanie offsetu wymaga uzasadnienia stosownie do art. 346 ust. 1 lit. b TFUE.
+### 5)
 
-5. Przed zawarciem umowy offsetowej, minister kierujący działem administracji rządowej, któremu jednostka organizacyjna będąca zamawiającym podlega lub jest przez niego nadzorowana, przedkłada Radzie Ministrów uzasadnienie jej zawarcia.
+umowa dostawy - umowę między zamawiającym a wykonawcą, mającą na celu realizację zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, stanowiącego środek, o którym mowa w art. 346 ust. 1 lit. b TFUE, którego wykonanie wymaga offsetu;
 
-6. Jeżeli kierownikiem zamawiającego jest centralny organ administracji rządowej, który nie podlega ministrowi kierującemu działem administracji rządowej ani nie jest przez tego ministra nadzorowany, podmiotem właściwym do przedłożenia uzasadnienia, o którym mowa w ust. 5, jest ten organ.
+### 6)
 
-7. Rada Ministrów, na wniosek Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, działających w porozumieniu z ministrem właściwym do spraw zagranicznych oraz ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, tryb i zasady postępowania w zakresie sporządzenia uzasadnienia i oceny konieczności zastosowania offsetu w celu ochrony podstawowych interesów bezpieczeństwa państwa, mając na uwadze obowiązek zapewnienia prawidłowego stosowania art. 346 ust. 1 lit. b TFUE.
+dostawa - realizację umowy dostawy, o której mowa w pkt 5;
 
-**Art. 8.**
+### 7)
 
-1. Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa.
+wartość umowy offsetowej - łączną wartość zobowiązań offsetowych zagranicznego dostawcy określoną w umowie offsetowej;
 
-2. Minister Obrony Narodowej, na podstawie informacji, o której mowa w ust. 1, oraz uzasadnienia, o którym mowa w art. 7 ust. 5, po uzyskaniu opinii Komitetu Offsetowego, niezwłocznie przekazuje zamawiającemu założenia do oferty offsetowej wraz z projektem umowy offsetowej.
+### 8)
 
-3. Założenia do oferty offsetowej określają w szczególności:
+wartość zobowiązania offsetowego - wartość nominalną zobowiązania offsetowego;
 
-- **1)** wymagania dla utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
-- **2)** sposób i kryteria dokonywania oceny oferty offsetowej;
-- **3)** przewidywany okres dokonania oceny ofert offsetowych i przeprowadzenia negocjacji w celu zawarcia umowy offsetowej.
+### 9)
 
-4. Założenia do oferty offsetowej i projekt umowy offsetowej stanowią element warunków postępowania o udzielenie zamówienia o podstawowym znaczeniu dla bezpieczeństwa państwa.
+zamawiający - podmiot uprawniony do prowadzenia postępowania o udzielenie zamówienia mającego na celu ochronę podstawowych interesów bezpieczeństwa państwa;
 
-5. Zagraniczny dostawca składa ofertę offsetową Ministrowi Obrony Narodowej nie później niż w terminie złożenia zamawiającemu oferty na dostawę.
+### 10)
 
-6. Minister Obrony Narodowej dokonuje oceny ofert offsetowych, a jej wyniki niezwłocznie przekazuje zamawiającemu.
+offsetodawca - zagranicznego dostawcę lub podmioty przez niego wskazane do wykonania zobowiązań offsetowych, za które zagraniczny dostawca ponosi odpowiedzialność w przypadku niewykonania lub nienależytego wykonania zobowiązania offsetowego, niezależnie od winy;
 
-7. Zamawiający dokonuje wyboru oferty na dostawę, uwzględniając ocenę oferty offsetowej. O wyborze oferty na dostawę zamawiający niezwłocznie informuje Ministra Obrony Narodowej.
+### 11)
 
-8. Minister Obrony Narodowej prowadzi negocjacje w celu zawarcia umowy offsetowej z zagranicznym dostawcą wybranym przez zamawiającego.
+podmiot dominujący - podmiot, w przypadku gdy:
 
-9. Przedmiotem negocjacji z zagranicznym dostawcą są w szczególności:
+### a)
 
-- **1)** przedmiot zobowiązań offsetowych;
-- **2)** terminy wykonywania zobowiązań offsetowych.
+posiada bezpośrednio lub pośrednio przez inne podmioty większość głosów w organach innego podmiotu, także na podstawie porozumień z innymi osobami lub
 
-10. Minister Obrony Narodowej niezwłocznie przekazuje zamawiającemu informację o zakończeniu negocjacji i zawarciu umowy offsetowej.
+### b)
 
-11. Umowa dostawy nie może być zawarta przed datą wejścia w życie umowy offsetowej.
+jest uprawniony do powoływania lub odwoływania większości członków organów zarządzających innego podmiotu, lub
 
-12. W przypadku braku porozumienia co do postanowień umowy offsetowej w terminie określonym przez zamawiającego w warunkach postępowania, z przyczyn leżących po stronie zagranicznego dostawcy, Minister Obrony Narodowej informuje zagranicznego dostawcę o wykluczeniu go z postępowania. Za przyczynę leżącą po stronie zagranicznego dostawcy uznaje się w szczególności niezgodność proponowanych przez zagranicznego dostawcę postanowień umowy offsetowej z wymaganiami, o których mowa w art. 8 ust. 3 pkt 1.
+### c)
 
-13. W przypadku, o którym mowa w ust. 12, dalsze postępowanie prowadzi się z zastosowaniem procedury, o której mowa w ust. 8–12, z udziałem zagranicznego dostawcy, który przedstawił kolejną najkorzystniejszą ofertę zgodnie z oceną zamawiającego.
+więcej niż połowa członków organu zarządzającego drugiego podmiotu jest jednocześnie członkami organu zarządzającego, prokurentami lub osobami pełniącymi funkcje kierownicze pierwszego podmiotu bądź innego podmiotu pozostającego z pierwszym w stosunku zależności;
 
-**Art. 9.** W przypadku gdy postępowanie o udzielenie zamówienia na dostawę jest prowadzone w trybie negocjacji z jednym zagranicznym dostawcą, procedurę zawarcia umowy offsetowej określa Minister Obrony Narodowej po zasięgnięciu opinii Komitetu Offsetowego.
+### 12)
 
-**Art. 10.**
+podmiot zależny - podmiot, w stosunku do którego inny podmiot jest podmiotem dominującym, przy czym podmioty zależne od tego podmiotu zależnego uważa się również za podmioty zależne od tego podmiotu dominującego;
 
-1. Zamawiający zawiadamia Ministra Obrony Narodowej o każdej istotnej zmianie umowy dostawy. Przepisy art. 8 ust. 1 i 11 stosuje się odpowiednio.
+### 13)
 
-2. W przypadku zmiany, o której mowa w ust. 1, Minister Obrony Narodowej, po zasięgnięciu opinii Komitetu Offsetowego, podejmuje decyzję w sprawie zmiany umowy offsetowej.
+przekazanie technologii - przekazanie dokumentacji zakupowej i listy dostawców, specjalistycznych narzędzi i urządzeń, oprogramowania, dokumentacji technicznej (produkcyjnej, obsługowej, remontowej i serwisowej), zapewnienie szkoleń, asysty technicznej, organizacji produkcji i kooperacji, udzielenie licencji do produkcji, sprzedaży, serwisu, remontów i obsługi, a także przekazanie innych składników materialnych i niematerialnych potrzebnych do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
 
-**Art. 11.**
+### 14)
 
-1. W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone zgodnie z procedurą, o której mowa w art. 8.
+offset - kooperację między Skarbem Państwa i offsetobiorcą a zagranicznym dostawcą konieczną do utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, polegającą w szczególności na przekazaniu technologii, know-how wraz z przeniesieniem autorskich praw majątkowych lub korzystania z utworu na podstawie udzielonej licencji w celu zapewnienia wymaganej przez Skarb Państwa niezależności od zagranicznego dostawcy;
 
-2. Jeżeli negocjacje oferty na dostawę nie doprowadzą do zawarcia umowy, dalsze postępowanie jest prowadzone z udziałem dostawcy, który przedstawił kolejną najkorzystniejszą ofertę, zgodnie z oceną zamawiającego. Przepis ust. 1 zdanie drugie i trzecie stosuje się odpowiednio.
+### 15)
 
-3. W przypadku gdy najkorzystniejsza oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, Minister Obrony Narodowej wstrzymuje procedurę oceny ofert offsetowych. Procedura oceny ofert offsetowych zostaje wznowiona, gdy dalsze postępowanie jest prowadzone z udziałem zagranicznego dostawcy w przypadku, o którym mowa w ust. 2.
+oferta offsetowa - dokument sporządzony przez zagranicznego dostawcę na potrzeby postępowania o zawarcie umowy offsetowej, w którym zagraniczny dostawca wyraża wolę zawarcia umowy offsetowej i potwierdza spełnianie wymagań dla utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa, określonych przez Ministra Obrony Narodowej.
 
-**Art. 12.**
+### Art. 3.
 
-1. Ofertę offsetową sporządza się w języku polskim, z zachowaniem formy pisemnej pod rygorem nieważności.
+### 1.
 
-2. Oferta, o której mowa w ust. 1, zawiera w szczególności:
+Zagraniczny dostawca ma obowiązek zawarcia umowy offsetowej na zasadach określonych w ustawie.
 
-- **1)** informacje na temat formy prawnej oraz sposobu reprezentacji zagranicznego dostawcy;
-- **2)** informację o wynikach finansowych za ostatnie 3 lata działalności zagranicznego dostawcy, a w przypadku gdy zagraniczny dostawca istnieje przez okres krótszy niż 3 lata, informację o wynikach finansowych za cały okres działalności;
-- **3)** informacje dotyczące wykonanych lub wykonywanych przez zagranicznego dostawcę umów offsetowych;
-- **4)** określenie przedmiotu zobowiązań offsetowych;
-- **5)** wskazanie terminów wykonywania zobowiązań offsetowych;
-- **6)** listy intencyjne lub inne dokumenty potwierdzające uzgodnienia zawarte między offsetodawcą a offsetobiorcami w sprawie wykonania zobowiązań offsetowych.
+### 2.
 
-3. Brak listów intencyjnych lub innych dokumentów, o których mowa w ust. 2 pkt 6, skutkuje pominięciem zobowiązania offsetowego w ocenie oferty offsetowej.
+Żadna ze stron nie może odstąpić od umowy offsetowej.
 
-4. Jeżeli oferta offsetowa nie spełnia wymagań określonych w założeniach, Minister Obrony Narodowej wzywa do jej uzupełnienia, określając termin i zakres tego uzupełnienia. Ofertę nieuzupełnioną w wyznaczonym terminie pozostawia się bez rozpoznania.
+### 3.
 
-**Art. 13.**
+Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku zmiany zakresu umowy dostawy.
 
-1. Zagraniczny dostawca składa Ministrowi Obrony Narodowej wniosek o zaliczenie zobowiązania offsetowego na poczet umowy offsetowej nie później niż w terminie 90 dni od daty wykonania zobowiązania offsetowego.
+### 4.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+Umowy dostawy zawierane przez podmioty dominujące lub podmioty zależne w stosunku do zagranicznego dostawcy uważa się za zawierane przez tego zagranicznego dostawcę.
 
-- **1)** oznaczenie zobowiązania offsetowego;
-- **2)** przedmiot zobowiązania offsetowego;
-- **3)** terminy wykonywania zobowiązania offsetowego;
-- **4)** zakres zobowiązania offsetowego;
-- **5)** sposób wykonania zobowiązania offsetowego w zakresie, o którym mowa w pkt 4;
-- **6)** oświadczenie offsetodawcy o wykonaniu zobowiązania offsetowego zgodnie z umową offsetową.
+### Art. 4.
 
-3. Zagraniczny dostawca dołącza do wniosku, o którym mowa w ust. 1, oświadczenie offsetobiorcy o wykonaniu zobowiązania offsetowego.
+Umowa offsetowa jest jawna w zakresie oznaczenia offsetobiorcy i offsetodawcy, wartości umowy offsetowej, terminu wykonania umowy offsetowej oraz przedmiotu dostawy, z wyjątkiem informacji, których ujawnienie jest sprzeczne z podstawowymi interesami bezpieczeństwa państwa.
 
-4. W przypadku gdy wniosek, o którym mowa w ust. 1, nie spełnia wymogów określonych w ust. 2 i 3, Minister Obrony Narodowej, w terminie 14 dni od daty wpłynięcia wniosku, wzywa zagranicznego dostawcę do uzupełnienia wniosku w terminie nie dłuższym niż 30 dni.
+### Art. 5.
 
-5. Jeżeli wniosek, o którym mowa w ust. 1, został złożony po terminie, o którym mowa w ust. 1, albo nie został uzupełniony w wyznaczonym terminie Minister Obrony Narodowej pozostawia wniosek bez rozpoznania.
+### 1.
 
-6. Minister Obrony Narodowej, dokonując oceny wniosku, o którym mowa w ust. 1, może:
+Wartość umowy offsetowej jest ustalana indywidualnie dla każdej umowy offsetowej.
 
-- **1)** żądać przedstawienia przez zagranicznego dostawcę dodatkowych dokumentów oraz informacji niezbędnych do dokonania oceny zasadności wniosku;
-- **2)** zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony Narodowej, dysponującej odpowiednią wiedzą specjalistyczną w sprawie wykonania zobowiązania offsetowego.
+### 2.
 
-**Art. 14.**
+W przypadku gdy wartość umowy dostawy jest wyrażona w walucie obcej, jej równowartość w walucie polskiej ustala się przy zastosowaniu kursu średniego, ogłaszanego przez Narodowy Bank Polski z kwartału poprzedzającego dzień wyboru oferty w postępowaniu o udzielenie zamówienia na dostawę.
 
-1. Minister Obrony Narodowej określa okres wykonania umowy offsetowej; okres ten nie może przekraczać 10 lat.
+### Art. 6.
 
-2. Umowę offsetową zawiera się w formie pisemnej pod rygorem nieważności.
+### 1.
 
-#### Rozdział 3 Treść i wykonanie umowy offsetowej
+Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podlegają wyłączeniu od tych czynności, jeżeli:
 
-**Art. 15.** Umowa offsetowa zawiera w szczególności:
+### 1)
 
-**Art. 16.**
+ubiegają się lub ubiegały o jej zawarcie po stronie zagranicznego dostawcy, offsetodawcy, offsetobiorcy lub jednostek powiązanych z nimi w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2021 r. poz. 217](https://api.sejm.gov.pl/eli/acts/DU/2021/217/text.html), [2105](https://api.sejm.gov.pl/eli/acts/DU/2021/2105/text.html) i [2106](https://api.sejm.gov.pl/eli/acts/DU/2021/2106/text.html));
 
-1. Zagraniczny dostawca, który zawarł umowę offsetową, przekazuje Ministrowi Obrony Narodowej sprawozdanie z wykonania zobowiązań offsetowych za rok poprzedni w terminie do dnia 31 marca każdego roku.
+### 2)
 
-2. Minister Obrony Narodowej ma prawo żądać w każdym czasie od zagranicznego dostawcy, o którym mowa w ust. 1, informacji o stopniu wykonania zobowiązań offsetowych.
+pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z członkami organów zarządzających lub nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 
-3. Offsetobiorca udziela Ministrowi Obrony Narodowej, na jego żądanie, informacji o wykonaniu zobowiązań offsetowych.
+### 3)
 
-**Art. 17.**
+w ciągu 3 lat przed dniem złożenia oferty offsetowej pozostawały z offsetodawcą lub offsetobiorcą w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej, lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy, jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 
-1. Minister Obrony Narodowej przeprowadza u offsetobiorcy kontrolę w zakresie prawidłowości wykonania zobowiązań offsetowych, o czym informuje zagranicznego dostawcę.
+### 4)
 
-2. Czynności kontrolne wykonuje zespół kontrolny po doręczeniu offsetobiorcy oraz zagranicznemu dostawcy upoważnienia do przeprowadzenia kontroli.
+w ciągu 3 lat przed dniem złożenia oferty offsetowej osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostawały z offsetodawcą lub offsetobiorcą lub ich pełnomocnikiem w stosunku pracy lub wykonywały w ich imieniu lub na ich rzecz umowy odpłatne lub inne zajęcia zarobkowe, w tym w formie działalności gospodarczej lub były członkami organów zarządzających lub organów nadzorczych zagranicznego dostawcy, offsetobiorcy, offsetodawcy lub jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub ich pełnomocnikiem;
 
-3. W czynnościach kontrolnych, w charakterze obserwatora, może uczestniczyć zagraniczny dostawca.
+### 5)
 
-4. W skład zespołu, o którym mowa w ust. 2, mogą wejść również osoby niebędące pracownikami urzędu obsługującego Ministra Obrony Narodowej.
+posiadają udziały, akcje lub inne papiery wartościowe emitowane przez zagranicznego dostawcę, offsetobiorcę lub offsetodawcę albo jednostki powiązane z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości lub pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub są związane z tytułu przysposobienia, opieki lub kurateli z osobami posiadającymi takie udziały, akcje lub inne papiery wartościowe;
 
-5. Upoważnienie, o którym mowa w ust. 2, zawiera:
+### 6)
 
-- **1)** oznaczenie organu kontrolującego;
-- **2)** określenie daty i miejsca wystawienia upoważnienia;
-- **3)** imiona i nazwiska osób wchodzących w skład zespołu kontrolnego;
-- **4)** wskazanie podstawy prawnej do przeprowadzenia kontroli;
-- **5)** firmę offsetobiorcy;
-- **6)** określenie zakresu kontroli;
-- **7)** datę rozpoczęcia i przewidywany termin zakończenia kontroli;
-- **8)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
-- **9)** pouczenie o prawach i obowiązkach offsetobiorcy.
+osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli pozostają z offsetodawcą lub offsetobiorcą w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób;
 
-6. Zespół kontrolny w trakcie wykonywania czynności kontrolnych ma prawo:
+### 7)
 
-- **1)** wglądu w dokumentację związaną z przedmiotem zobowiązania offsetowego;
-- **2)** wstępu do obiektów i pomieszczeń offsetobiorcy związanych z wykonywaniem zobowiązania offsetowego;
-- **3)** żądania od offsetobiorcy ustnych lub pisemnych wyjaśnień dotyczących zobowiązania offsetowego;
-- **4)** sporządzania niezbędnych odpisów lub wyciągów z dokumentów oraz zestawień i obliczeń.
+zostały prawomocnie skazane za przestępstwo z art. 228 lub art. 229 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny ([Dz. U. z 2021 r. poz. 2345](https://api.sejm.gov.pl/eli/acts/DU/2021/2345/text.html) i [2447](https://api.sejm.gov.pl/eli/acts/DU/2021/2447/text.html)), przestępstwo przeciwko obrotowi gospodarczemu, o którym mowa w rozdziale XXXVI ustawy z dnia 6 czerwca 1997 r. - Kodeks karny lub inne przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej;
 
-7. Offsetobiorca zapewnia zespołowi kontrolnemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności:
+### 8)
 
-- **1)** udostępnia na czas trwania kontroli oddzielne pomieszczenie z odpowiednim wyposażeniem,
-- **2)** niezwłocznie przedstawia żądane dokumenty i materiały oraz udziela wyjaśnień,
-- **3)** umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach z zachowaniem przepisów o tajemnicy prawnie chronionej.
+osoby te lub osoby pozostające z nimi w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związane z nimi z tytułu przysposobienia, opieki lub kurateli są członkami organów spółdzielni, fundacji lub stowarzyszeń, które w ciągu 3 lat przed dniem złożenia oferty offsetowej uzyskały wsparcie finansowe ze strony zagranicznego dostawcy, offsetobiorcy lub offsetodawcy, albo jednostek powiązanych z nimi w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości;
 
-**Art. 18.**
+### 9)
 
-1. Z przeprowadzonej kontroli zespół kontrolny sporządza protokół.
+nie złożyły oświadczenia, o którym mowa w ust. 2.
 
-2. Protokół zawiera:
+### 2.
 
-- **1)** pieczęć urzędową;
-- **2)** numer protokołu;
-- **3)** firmę offsetobiorcy;
-- **4)** przedmiot kontroli;
-- **5)** termin rozpoczęcia i zakończenia kontroli;
-- **6)** wskazanie okresu objętego kontrolą;
-- **7)** imiona i nazwiska osób wchodzących w składu zespołu kontrolnego;
-- **8)** opis sposobu przeprowadzenia kontroli;
-- **9)** imiona i nazwiska osób, które w trakcie kontroli udzielały informacji lub wyjaśnień w zakresie dotyczącym przedmiotu kontroli;
-- **10)** wykaz aktów prawnych i dokumentów dotyczących przedmiotu kontroli;
-- **11)** wykaz dokumentów udostępnionych lub przekazanych w trakcie kontroli przez offsetobiorcę;
-- **12)** ustalenia kontroli;
-- **13)** pouczenie o sposobie zgłoszenia zastrzeżeń do treści protokołu;
-- **14)** podpisy osób wchodzących w skład zespołu kontrolnego.
+Osoby wykonujące w imieniu Skarbu Państwa czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej, składają Ministrowi Obrony Narodowej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, o której mowa w art. 233 § 1 i 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, przed podjęciem czynności, oświadczenie o braku okoliczności wymienionych w ust. 1 pkt 1-8.
 
-3. Zespół kontrolny sporządza protokół w trzech egzemplarzach, a następnie przekazuje po jednym egzemplarzu offsetobiorcy, zagranicznemu dostawcy oraz Ministrowi Obrony Narodowej.
+### 3.
 
-4. Offsetobiorca oraz zagraniczny dostawca mogą zgłosić Ministrowi Obrony Narodowej zastrzeżenia do protokołu wraz z ich uzasadnieniem w terminie 14 dni od dnia otrzymania protokołu.
+Oświadczenie, o którym mowa w ust. 2, zawiera w szczególności:
 
-5. W przypadku zgłoszenia zastrzeżeń Minister Obrony Narodowej może ponownie przeprowadzić kontrolę albo zmienić lub uzupełnić protokół.
+### 1)
 
-**Art. 19.**
+imię i nazwisko oraz numer PESEL osoby składającej oświadczenie;
 
-1. Minister Obrony Narodowej po przeprowadzeniu kontroli, o której mowa w art. 17, oraz po uzyskaniu pozytywnej opinii Komitetu Offsetowego zalicza wykonanie przez zagranicznego dostawcę zobowiązania offsetowego na poczet wartości umowy offsetowej. W przypadku negatywnych wyników kontroli lub negatywnej opinii Komitetu Offsetowego zobowiązania offsetowego nie zalicza się.
+### 2)
 
-2. Stwierdzenie wykonania zobowiązania offsetowego następuje w formie protokołu podpisanego przez Ministra Obrony Narodowej oraz zagranicznego dostawcę.
+imię i nazwisko małżonka, osób pozostających z nim oraz osobą składającą oświadczenie w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, we wspólnym pożyciu lub związanych z nimi z tytułu przysposobienia, opieki lub kurateli.
 
-**Art. 20.**
+### 4.
 
-1. Minister Obrony Narodowej nie później niż w dniu zawarcia umowy offsetowej wzywa, w imieniu Skarbu Państwa, zagranicznego dostawcę do przedstawienia zabezpieczenia należytego wykonania umowy offsetowej.
+Czynności w postępowaniu o zawarcie umowy offsetowej lub związane z wykonaniem umowy offsetowej podjęte przez osobę podlegającą wyłączeniu po powzięciu wiadomości o okolicznościach, o których mowa w ust. 1 pkt 1-8, powtarza się, z wyjątkiem czynności faktycznych niewpływających na zawarcie umowy.
 
-2. Zabezpieczeniem należytego wykonania umowy offsetowej może być w szczególności:
+### 5.
 
-- **1)** akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. );
-- **2)** gwarancja bankowa;
-- **3)** złożenie przez zagranicznego dostawcę weksla in blanco wraz z deklaracją wekslową.
+Oświadczenie, o którym mowa w ust. 2, weryfikuje Centralne Biuro Antykorupcyjne.
 
-3. Koszty związane z ustanowieniem zabezpieczenia należytego wykonania umowy offsetowej ponosi zagraniczny dostawca.
+### 6.
 
-4. Kwota zabezpieczenia należytego wykonania umowy offsetowej nie może być niższa niż wartość umowy offsetowej.
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór oświadczenia o braku okoliczności wymienionych w ust. 1 pkt 1-8, mając na uwadze zapewnienie czytelności oświadczeń oraz pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-**Art. 21.** W przypadku istotnej zmiany okoliczności w czasie wykonywania umowy offsetowej może nastąpić zmiana offsetobiorcy, offsetodawcy, przedmiotu, wartości oraz terminu wykonania poszczególnych zobowiązań offsetowych lub może nastąpić zastąpienie danego zobowiązania offsetowego nowym zobowiązaniem offsetowym lub nowymi zobowiązaniami offsetowymi. Przepisy art. 3 ust. 2, art. 5, art. 7–11, art. 13 i art. 14 ust. 2 stosuje się odpowiednio.
+### Rozdział 2 Zawarcie umowy offsetowej
 
-**Art. 22.** Prawem właściwym dla umowy offsetowej jest prawo polskie.
+### Art. 7.
 
-**Art. 23.**
+### 1.
 
-1. Umowa offsetowa wygasa, z zastrzeżeniem art. 29, z dniem stwierdzenia przez Ministra Obrony Narodowej wykonania zobowiązań offsetowych przez zagranicznego dostawcę albo w dniu zapłaty na rzecz Skarbu Państwa kary umownej lub odszkodowania z tytułu niewykonania lub nienależytego wykonania zobowiązań offsetowych.
+Umowę offsetową zawiera się po przeprowadzeniu negocjacji na podstawie oferty offsetowej zagranicznego dostawcy, która jest zgodna z wymaganiami, o których mowa w art. 8 ust. 3 pkt 1, określonymi przez Ministra Obrony Narodowej.
 
-2. W przypadku niewykonania zobowiązania offsetowego wysokość kary umownej stanowi równowartość niewykonanego zobowiązania offsetowego.
+### 2.
 
-3. W przypadku nienależytego wykonania zobowiązania offsetowego wysokość kary umownej stanowi równowartość nienależycie wykonanej części zobowiązania offsetowego.
+W negocjacjach prowadzonych przez Ministra Obrony Narodowej uczestniczy zamawiający.
 
-4. Zapłata kary, o której mowa w ust. 2 i 3, nie wyłącza odpowiedzialności odszkodowawczej zagranicznego dostawcy w zakresie przewyższającym wysokość tej kary.
+### 3.
 
-5. Odpowiedzialność zagranicznego dostawcy w przypadku niewykonania lub nienależytego wykonania zobowiązania offsetowego jest niezależna od winy zagranicznego dostawcy za niewykonanie lub nienależyte wykonanie danego zobowiązania offsetowego.
+Umowę offsetową zawiera Skarb Państwa, reprezentowany przez Ministra Obrony Narodowej, po zasięgnięciu opinii Komitetu Offsetowego. Zawarcie umowy nie może nastąpić na warunkach mniej korzystnych niż określone w ofercie offsetowej.
 
-**Art. 24.**
+### 4.
 
-1. Podmioty wchodzące w skład konsorcjum, o którym mowa w art. 2 pkt 3, ponoszą solidarną odpowiedzialność za należyte wykonanie zobowiązań offsetowych.
+Zastosowanie offsetu wymaga uzasadnienia stosownie do art. 346 ust. 1 lit. b TFUE.
 
-2. Podmioty wchodzące w skład konsorcjum wyznaczają spośród siebie podmiot upoważniony do ich reprezentowania (lidera konsorcjum).
+### 5.
 
-**Art. 25.**
+Przed zawarciem umowy offsetowej, minister kierujący działem administracji rządowej, któremu jednostka organizacyjna będąca zamawiającym podlega lub jest przez niego nadzorowana, przedkłada Radzie Ministrów uzasadnienie jej zawarcia.
 
-1. Za wykonanie zobowiązań offsetowych przez offsetodawcę niebędącego zagranicznym dostawcą odpowiedzialność ponosi zagraniczny dostawca.
+### 6.
 
-2. Odpowiedzialność zagranicznego dostawcy, o której mowa w ust. 1, jest niezależna od winy zagranicznego dostawcy za nienależyte wykonanie lub niewykonanie danego zobowiązania offsetowego.
+Jeżeli kierownikiem zamawiającego jest centralny organ administracji rządowej, który nie podlega ministrowi kierującemu działem administracji rządowej ani nie jest przez tego ministra nadzorowany, podmiotem właściwym do przedłożenia uzasadnienia, o którym mowa w ust. 5, jest ten organ.
 
-#### Rozdział 4 Komitet Offsetowy
+### 7.
 
-**Art. 26.**
+Rada Ministrów, na wniosek Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, działających w porozumieniu z ministrem właściwym do spraw zagranicznych oraz ministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, tryb i zasady postępowania w zakresie sporządzenia uzasadnienia i oceny konieczności zastosowania offsetu w celu ochrony podstawowych interesów bezpieczeństwa państwa, mając na uwadze obowiązek zapewnienia prawidłowego stosowania art. 346 ust. 1 lit. b TFUE.
 
-1. Tworzy się Komitet Offsetowy, który działa przy Ministrze Obrony Narodowej jako organ opiniodawczo-doradczy.
+### Art. 8.
 
-2. W skład Komitetu Offsetowego wchodzi przedstawiciel:
+### 1[1) W brzmieniu ustalonym przez art. 2 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 25), która weszła w życie z dniem 20 stycznia 2022 r.](#gloss-0:1:).
 
-- **1)** Prezydenta Rzeczypospolitej Polskiej;
-- **2)** Prezesa Rady Ministrów;
-- **3)** Ministra Obrony Narodowej;
-- **4)** ministra właściwego do spraw finansów publicznych;
-- **5)** ministra właściwego do spraw gospodarki;
-- **6)** ministra właściwego do spraw szkolnictwa wyższego i nauki;
-- **7)** (uchylony)
-- **8)** ministra właściwego do spraw wewnętrznych;
-- **9)** ministra właściwego do spraw zagranicznych;
-- **9a)** Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej;
-- **10)** Prezesa Urzędu Zamówień Publicznych;
-- **11)** Szefa Agencji Bezpieczeństwa Wewnętrznego;
-- **12)** Szefa Biura Bezpieczeństwa Narodowego;
-- **13)** Szefa Służby Kontrwywiadu Wojskowego.
+Zamawiający niezwłocznie informuje Ministra Obrony Narodowej o zamiarze wszczęcia postępowania o udzielenie zamówienia dotyczącego produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 ust. 1 lit. b TFUE. Informacja obejmuje co najmniej przedmiot postępowania o udzielenie zamówienia oraz dokument zawierający ocenę występowania podstawowych interesów bezpieczeństwa państwa.
 
-3. Przewodniczący Komitetu Offsetowego może zapraszać do udziału w pracach Komitetu Offsetowego bez prawa głosu inne osoby niż wymienione w ust. 2, w szczególności przedstawicieli innych ministrów, Szefa Centralnego Biura Antykorupcyjnego, oraz, o ile uzna to za wskazane, wybranych offsetobiorców.
+### 2.
 
-4. Przewodniczącym Komitetu Offsetowego jest przedstawiciel Ministra Obrony Narodowej. Zastępcę Przewodniczącego Komitetu Offsetowego wybiera ze swego grona Komitet Offsetowy.
+Minister Obrony Narodowej, na podstawie informacji, o której mowa w ust. 1, oraz uzasadnienia, o którym mowa w art. 7 ust. 5, po uzyskaniu opinii Komitetu Offsetowego, niezwłocznie przekazuje zamawiającemu założenia do oferty offsetowej wraz z projektem umowy offsetowej.
 
-5. Rada Ministrów określi, w drodze rozporządzenia, regulamin organizacyjny Komitetu Offsetowego, uwzględniając potrzebę zapewnienia skuteczności i sprawności działania Komitetu Offsetowego.
+### 3.
 
-**Art. 27.**
+Założenia do oferty offsetowej określają w szczególności:
 
-1. Do zadań Komitetu Offsetowego należy w szczególności:
+### 1)
 
-- **1)** określanie priorytetów w zakresie potrzeb offsetowych i przedkładanie informacji o nich Ministrowi Obrony Narodowej;
-- **2)** analizowanie potrzeb w zakresie podstawowych interesów bezpieczeństwa Rzeczypospolitej Polskiej, mogących być przedmiotem zobowiązań offsetowych;
-- **3)** przedkładanie Ministrowi Obrony Narodowej wniosków z przeprowadzonej analizy, o której mowa w pkt 2;
-- **4)** opiniowanie założeń do ofert offsetowych, o których mowa w art. 8 ust. 2;
-- **5)** opiniowanie ofert offsetowych pod względem zapewnienia największych korzyści dla bezpieczeństwa Rzeczypospolitej Polskiej oraz przedkładanie Ministrowi Obrony Narodowej tych opinii;
-- **6)** opiniowanie sprawozdań, o których mowa w art. 30;
-- **7)** przedkładanie Ministrowi Obrony Narodowej opinii, o których mowa w art. 7 ust. 3, art. 9, art. 10 ust. 2 i art. 19 ust. 1;
-- **8)** przedkładanie Ministrowi Obrony Narodowej, w miarę potrzeb, innych opinii w zakresie problematyki offsetowej.
+wymagania dla utrzymania lub ustanowienia na terytorium Rzeczypospolitej Polskiej potencjału w zakresie zdolności produkcyjnych, serwisowych i obsługowo-naprawczych, a także innych, niezbędnych z punktu widzenia ochrony podstawowych interesów bezpieczeństwa państwa;
 
-2. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres zadań Komitetu Offsetowego, uwzględniając potrzebę skutecznego i sprawnego wykonywania zadań, o których mowa w ust. 1.
+### 2)
 
-#### Rozdział 5 Nadzór nad wykonywaniem umów offsetowych
+sposób i kryteria dokonywania oceny oferty offsetowej;
 
-**Art. 28.** Nadzór nad wykonywaniem umów offsetowych sprawuje Minister Obrony Narodowej.
+### 3)
 
-**Art. 29.** Wejście w życie umowy offsetowej oraz stwierdzenie jej wykonania wymaga zatwierdzenia przez Radę Ministrów.
+przewidywany okres dokonania oceny ofert offsetowych i przeprowadzenia negocjacji w celu zawarcia umowy offsetowej.
 
-**Art. 30.** Minister Obrony Narodowej przedkłada Radzie Ministrów roczne sprawozdanie z wykonania zobowiązań offsetowych przez zagranicznych dostawców, które w szczególności prezentuje ocenę efektywności wykonania zobowiązań związanych z przekazaniem technologii o charakterze innowacyjnym i know-how, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego.
+### 4.
 
-**Art. 31.** Do umów offsetowych zawieranych w związku z umową dostawy nie stosuje się przepisów o ochronie konkurencji i konsumentów.
+Założenia do oferty offsetowej i projekt umowy offsetowej stanowią element warunków postępowania o udzielenie zamówienia o podstawowym znaczeniu dla bezpieczeństwa państwa.
 
-#### Rozdział 6 Przepisy zmieniające
+### 5.
 
-**Art. 32.** (pominięty)
+Zagraniczny dostawca składa ofertę offsetową Ministrowi Obrony Narodowej nie później niż w terminie złożenia zamawiającemu oferty na dostawę.
 
-**Art. 33.** (pominięty)
+### 6.
 
-#### Rozdział 7 Przepisy przejściowe i końcowe
+Minister Obrony Narodowej dokonuje oceny ofert offsetowych, a jej wyniki niezwłocznie przekazuje zamawiającemu.
 
-**Art. 34.**
+### 7.
 
-1. Do umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+Zamawiający dokonuje wyboru oferty na dostawę, uwzględniając ocenę oferty offsetowej. O wyborze oferty na dostawę zamawiający niezwłocznie informuje Ministra Obrony Narodowej.
 
-2. Do zmian umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy, dokonywanych po dniu wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 8.
 
-3. Do postępowań o zawarcie umowy offsetowej wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+Minister Obrony Narodowej prowadzi negocjacje w celu zawarcia umowy offsetowej z zagranicznym dostawcą wybranym przez zamawiającego.
 
-**Art. 35.** Komitet do Spraw Umów Offsetowych, o którym mowa w art. 20 ustawy uchylanej w art. 37, do czasu stwierdzenia wykonania umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy, działa w składzie, na zasadach oraz w trybie określonych w przepisach ustawy uchylanej w art. 37 oraz przepisach wykonawczych wydanych na podstawie art. 20 ust. 6 ustawy uchylanej w art. 37.
+### 9.
 
-**Art. 36.**
+Przedmiotem negocjacji z zagranicznym dostawcą są w szczególności:
 
-1. Minister właściwy do spraw gospodarki w zakresie, o którym mowa w art. 34, pozostaje ministrem właściwym w rozumieniu przepisu art. 9 ust. 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+### 1)
 
-2. Minister właściwy do spraw gospodarki, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego, przedkłada Radzie Ministrów roczne sprawozdanie z wykonania przez zagranicznych dostawców zobowiązań offsetowych, wynikających z umów, dla których jest właściwy na podstawie ust. 1.
+przedmiot zobowiązań offsetowych;
 
-**Art. 37.** Traci moc ustawa z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa (Dz. U. z 2013 r. poz. 716).
+### 2)
 
-**Art. 38.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+terminy wykonywania zobowiązań offsetowych.
 
+### 10.
+
+Minister Obrony Narodowej niezwłocznie przekazuje zamawiającemu informację o zakończeniu negocjacji i zawarciu umowy offsetowej.
+
+### 11.
+
+Umowa dostawy nie może być zawarta przed datą wejścia w życie umowy offsetowej.
+
+### 12.
+
+W przypadku braku porozumienia co do postanowień umowy offsetowej w terminie określonym przez zamawiającego w warunkach postępowania, z przyczyn leżących po stronie zagranicznego dostawcy, Minister Obrony Narodowej informuje zagranicznego dostawcę o wykluczeniu go z postępowania. Za przyczynę leżącą po stronie zagranicznego dostawcy uznaje się w szczególności niezgodność proponowanych przez zagranicznego dostawcę postanowień umowy offsetowej z wymaganiami, o których mowa w art. 8 ust. 3 pkt 1.
+
+### 13.
+
+W przypadku, o którym mowa w ust. 12, dalsze postępowanie prowadzi się z zastosowaniem procedury, o której mowa w ust. 8-12, z udziałem zagranicznego dostawcy, który przedstawił kolejną najkorzystniejszą ofertę zgodnie z oceną zamawiającego.
+
+### Art. 9.
+
+W przypadku gdy postępowanie o udzielenie zamówienia na dostawę jest prowadzone w trybie negocjacji z jednym zagranicznym dostawcą, procedurę zawarcia umowy offsetowej określa Minister Obrony Narodowej po zasięgnięciu opinii Komitetu Offsetowego.
+
+### Art. 10.
+
+### 1.
+
+Zamawiający zawiadamia Ministra Obrony Narodowej o każdej istotnej zmianie umowy dostawy. Przepisy art. 8 ust. 1 i 11 stosuje się odpowiednio.
+
+### 2.
+
+W przypadku zmiany, o której mowa w ust. 1, Minister Obrony Narodowej, po zasięgnięciu opinii Komitetu Offsetowego, podejmuje decyzję w sprawie zmiany umowy offsetowej.
+
+### Art. 11.
+
+### 1.
+
+W przypadku gdy co najmniej jedna oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, zamawiający dokonuje oceny wszystkich ofert bez uwzględniania kryterium offsetowego. W przypadku gdy w wyniku takiej oceny najkorzystniejsza okaże się oferta niepodlegająca obowiązkowi zawarcia umowy offsetowej, zamawiający zawiera umowę dostawy z pominięciem procedury, o której mowa w art. 8. W przypadku gdy w wyniku dokonanej oceny najlepsza okaże się oferta podlegająca obowiązkowi zawarcia umowy offsetowej, dalsze postępowanie jest prowadzone zgodnie z procedurą, o której mowa w art. 8.
+
+### 2.
+
+Jeżeli negocjacje oferty na dostawę nie doprowadzą do zawarcia umowy, dalsze postępowanie jest prowadzone z udziałem dostawcy, który przedstawił kolejną najkorzystniejszą ofertę, zgodnie z oceną zamawiającego. Przepis ust. 1 zdanie drugie i trzecie stosuje się odpowiednio.
+
+### 3.
+
+W przypadku gdy najkorzystniejsza oferta na dostawę nie podlega obowiązkowi zawarcia umowy offsetowej, Minister Obrony Narodowej wstrzymuje procedurę oceny ofert offsetowych. Procedura oceny ofert offsetowych zostaje wznowiona, gdy dalsze postępowanie jest prowadzone z udziałem zagranicznego dostawcy w przypadku, o którym mowa w ust. 2.
+
+### Art. 12.
+
+### 1.
+
+Ofertę offsetową sporządza się w języku polskim, z zachowaniem formy pisemnej pod rygorem nieważności.
+
+### 2.
+
+Oferta, o której mowa w ust. 1, zawiera w szczególności:
+
+### 1)
+
+informacje na temat formy prawnej oraz sposobu reprezentacji zagranicznego dostawcy;
+
+### 2)
+
+informację o wynikach finansowych za ostatnie 3 lata działalności zagranicznego dostawcy, a w przypadku gdy zagraniczny dostawca istnieje przez okres krótszy niż 3 lata, informację o wynikach finansowych za cały okres działalności;
+
+### 3)
+
+informacje dotyczące wykonanych lub wykonywanych przez zagranicznego dostawcę umów offsetowych;
+
+### 4)
+
+określenie przedmiotu zobowiązań offsetowych;
+
+### 5)
+
+wskazanie terminów wykonywania zobowiązań offsetowych;
+
+### 6)
+
+listy intencyjne lub inne dokumenty potwierdzające uzgodnienia zawarte między offsetodawcą a offsetobiorcami w sprawie wykonania zobowiązań offsetowych.
+
+### 3.
+
+Brak listów intencyjnych lub innych dokumentów, o których mowa w ust. 2 pkt 6, skutkuje pominięciem zobowiązania offsetowego w ocenie oferty offsetowej.
+
+### 4.
+
+Jeżeli oferta offsetowa nie spełnia wymagań określonych w założeniach, Minister Obrony Narodowej wzywa do jej uzupełnienia, określając termin i zakres tego uzupełnienia. Ofertę nieuzupełnioną w wyznaczonym terminie pozostawia się bez rozpoznania.
+
+### Art. 13.
+
+### 1.
+
+Zagraniczny dostawca składa Ministrowi Obrony Narodowej wniosek o zaliczenie zobowiązania offsetowego na poczet umowy offsetowej nie później niż w terminie 90 dni od daty wykonania zobowiązania offsetowego.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+oznaczenie zobowiązania offsetowego;
+
+### 2)
+
+przedmiot zobowiązania offsetowego;
+
+### 3)
+
+terminy wykonywania zobowiązania offsetowego;
+
+### 4)
+
+zakres zobowiązania offsetowego;
+
+### 5)
+
+sposób wykonania zobowiązania offsetowego w zakresie, o którym mowa w pkt 4;
+
+### 6)
+
+oświadczenie offsetodawcy o wykonaniu zobowiązania offsetowego zgodnie z umową offsetową.
+
+### 3.
+
+Zagraniczny dostawca dołącza do wniosku, o którym mowa w ust. 1, oświadczenie offsetobiorcy o wykonaniu zobowiązania offsetowego.
+
+### 4.
+
+W przypadku gdy wniosek, o którym mowa w ust. 1, nie spełnia wymogów określonych w ust. 2 i 3, Minister Obrony Narodowej, w terminie 14 dni od daty wpłynięcia wniosku, wzywa zagranicznego dostawcę do uzupełnienia wniosku w terminie nie dłuższym niż 30 dni.
+
+### 5.
+
+Jeżeli wniosek, o którym mowa w ust. 1, został złożony po terminie, o którym mowa w ust. 1, albo nie został uzupełniony w wyznaczonym terminie Minister Obrony Narodowej pozostawia wniosek bez rozpoznania.
+
+### 6.
+
+Minister Obrony Narodowej, dokonując oceny wniosku, o którym mowa w ust. 1, może:
+
+### 1)
+
+żądać przedstawienia przez zagranicznego dostawcę dodatkowych dokumentów oraz informacji niezbędnych do dokonania oceny zasadności wniosku;
+
+### 2)
+
+zasięgać opinii biegłego rewidenta lub innej osoby niebędącej pracownikiem urzędu obsługującego Ministra Obrony Narodowej, dysponującej odpowiednią wiedzą specjalistyczną w sprawie wykonania zobowiązania offsetowego.
+
+### Art. 14.
+
+### 1.
+
+Minister Obrony Narodowej określa okres wykonania umowy offsetowej; okres ten nie może przekraczać 10 lat.
+
+### 2.
+
+Umowę offsetową zawiera się w formie pisemnej pod rygorem nieważności.
+
+### Rozdział 3 Treść i wykonanie umowy offsetowej
+
+### Art. 15.
+
+Umowa offsetowa zawiera w szczególności:
+
+### 1)
+
+określenie stron oraz daty i miejsca jej zawarcia;
+
+### 2)
+
+oznaczenie czasu jej obowiązywania;
+
+### 3)
+
+oznaczenie jej wartości i wartości poszczególnych zobowiązań offsetowych;
+
+### 4)
+
+oznaczenie przedmiotu zobowiązań offsetowych;
+
+### 5)
+
+harmonogram wykonania zobowiązań offsetowych;
+
+### 6)
+
+określenie zasad odpowiedzialności za niewykonanie lub nienależyte wykonanie zobowiązań offsetowych, w tym kary umowne.
+
+### Art. 16.
+
+### 1.
+
+Zagraniczny dostawca, który zawarł umowę offsetową, przekazuje Ministrowi Obrony Narodowej sprawozdanie z wykonania zobowiązań offsetowych za rok poprzedni w terminie do dnia 31 marca każdego roku.
+
+### 2.
+
+Minister Obrony Narodowej ma prawo żądać w każdym czasie od zagranicznego dostawcy, o którym mowa w ust. 1, informacji o stopniu wykonania zobowiązań offsetowych.
+
+### 3.
+
+Offsetobiorca udziela Ministrowi Obrony Narodowej, na jego żądanie, informacji o wykonaniu zobowiązań offsetowych.
+
+### Art. 17.
+
+### 1.
+
+Minister Obrony Narodowej przeprowadza u offsetobiorcy kontrolę w zakresie prawidłowości wykonania zobowiązań offsetowych, o czym informuje zagranicznego dostawcę.
+
+### 2.
+
+Czynności kontrolne wykonuje zespół kontrolny po doręczeniu offsetobiorcy oraz zagranicznemu dostawcy upoważnienia do przeprowadzenia kontroli.
+
+### 3.
+
+W czynnościach kontrolnych, w charakterze obserwatora, może uczestniczyć zagraniczny dostawca.
+
+### 4.
+
+W skład zespołu, o którym mowa w ust. 2, mogą wejść również osoby niebędące pracownikami urzędu obsługującego Ministra Obrony Narodowej.
+
+### 5.
+
+Upoważnienie, o którym mowa w ust. 2, zawiera:
+
+### 1)
+
+oznaczenie organu kontrolującego;
+
+### 2)
+
+określenie daty i miejsca wystawienia upoważnienia;
+
+### 3)
+
+imiona i nazwiska osób wchodzących w skład zespołu kontrolnego;
+
+### 4)
+
+wskazanie podstawy prawnej do przeprowadzenia kontroli;
+
+### 5)
+
+firmę offsetobiorcy;
+
+### 6)
+
+określenie zakresu kontroli;
+
+### 7)
+
+datę rozpoczęcia i przewidywany termin zakończenia kontroli;
+
+### 8)
+
+podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
+
+### 9)
+
+pouczenie o prawach i obowiązkach offsetobiorcy.
+
+### 6.
+
+Zespół kontrolny w trakcie wykonywania czynności kontrolnych ma prawo:
+
+### 1)
+
+wglądu w dokumentację związaną z przedmiotem zobowiązania offsetowego;
+
+### 2)
+
+wstępu do obiektów i pomieszczeń offsetobiorcy związanych z wykonywaniem zobowiązania offsetowego;
+
+### 3)
+
+żądania od offsetobiorcy ustnych lub pisemnych wyjaśnień dotyczących zobowiązania offsetowego;
+
+### 4)
+
+sporządzania niezbędnych odpisów lub wyciągów z dokumentów oraz zestawień i obliczeń.
+
+### 7.
+
+Offsetobiorca zapewnia zespołowi kontrolnemu warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, w szczególności:
+
+### 1)
+
+udostępnia na czas trwania kontroli oddzielne pomieszczenie z odpowiednim wyposażeniem,
+
+### 2)
+
+niezwłocznie przedstawia żądane dokumenty i materiały oraz udziela wyjaśnień,
+
+### 3)
+
+umożliwia dostęp do danych zapisywanych na elektronicznych nośnikach
+
+- z zachowaniem przepisów o tajemnicy prawnie chronionej.
+
+### Art. 18.
+
+### 1.
+
+Z przeprowadzonej kontroli zespół kontrolny sporządza protokół.
+
+### 2.
+
+Protokół zawiera:
+
+### 1)
+
+pieczęć urzędową;
+
+### 2)
+
+numer protokołu;
+
+### 3)
+
+firmę offsetobiorcy;
+
+### 4)
+
+przedmiot kontroli;
+
+### 5)
+
+termin rozpoczęcia i zakończenia kontroli;
+
+### 6)
+
+wskazanie okresu objętego kontrolą;
+
+### 7)
+
+imiona i nazwiska osób wchodzących w składu zespołu kontrolnego;
+
+### 8)
+
+opis sposobu przeprowadzenia kontroli;
+
+### 9)
+
+imiona i nazwiska osób, które w trakcie kontroli udzielały informacji lub wyjaśnień w zakresie dotyczącym przedmiotu kontroli;
+
+### 10)
+
+wykaz aktów prawnych i dokumentów dotyczących przedmiotu kontroli;
+
+### 11)
+
+wykaz dokumentów udostępnionych lub przekazanych w trakcie kontroli przez offsetobiorcę;
+
+### 12)
+
+ustalenia kontroli;
+
+### 13)
+
+pouczenie o sposobie zgłoszenia zastrzeżeń do treści protokołu;
+
+### 14)
+
+podpisy osób wchodzących w skład zespołu kontrolnego.
+
+### 3.
+
+Zespół kontrolny sporządza protokół w trzech egzemplarzach, a następnie przekazuje po jednym egzemplarzu offsetobiorcy, zagranicznemu dostawcy oraz Ministrowi Obrony Narodowej.
+
+### 4.
+
+Offsetobiorca oraz zagraniczny dostawca mogą zgłosić Ministrowi Obrony Narodowej zastrzeżenia do protokołu wraz z ich uzasadnieniem w terminie 14 dni od dnia otrzymania protokołu.
+
+### 5.
+
+W przypadku zgłoszenia zastrzeżeń Minister Obrony Narodowej może ponownie przeprowadzić kontrolę albo zmienić lub uzupełnić protokół.
+
+### Art. 19.
+
+### 1.
+
+Minister Obrony Narodowej po przeprowadzeniu kontroli, o której mowa w art. 17, oraz po uzyskaniu pozytywnej opinii Komitetu Offsetowego zalicza wykonanie przez zagranicznego dostawcę zobowiązania offsetowego na poczet wartości umowy offsetowej. W przypadku negatywnych wyników kontroli lub negatywnej opinii Komitetu Offsetowego zobowiązania offsetowego nie zalicza się.
+
+### 2.
+
+Stwierdzenie wykonania zobowiązania offsetowego następuje w formie protokołu podpisanego przez Ministra Obrony Narodowej oraz zagranicznego dostawcę.
+
+### Art. 20.
+
+### 1.
+
+Minister Obrony Narodowej nie później niż w dniu zawarcia umowy offsetowej wzywa, w imieniu Skarbu Państwa, zagranicznego dostawcę do przedstawienia zabezpieczenia należytego wykonania umowy offsetowej.
+
+### 2.
+
+Zabezpieczeniem należytego wykonania umowy offsetowej może być w szczególności:
+
+### 1)
+
+akt notarialny zawierający oświadczenie o poddaniu się egzekucji, o którym mowa w art. 777 § 1 pkt 5 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2021 r. poz. 1805](https://api.sejm.gov.pl/eli/acts/DU/2021/1805/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830 i 974.](#gloss-0:2:));
+
+### 2)
+
+gwarancja bankowa;
+
+### 3)
+
+złożenie przez zagranicznego dostawcę weksla in blanco wraz z deklaracją wekslową.
+
+### 3.
+
+Koszty związane z ustanowieniem zabezpieczenia należytego wykonania umowy offsetowej ponosi zagraniczny dostawca.
+
+### 4.
+
+Kwota zabezpieczenia należytego wykonania umowy offsetowej nie może być niższa niż wartość umowy offsetowej.
+
+### Art. 21.
+
+W przypadku istotnej zmiany okoliczności w czasie wykonywania umowy offsetowej może nastąpić zmiana offsetobiorcy, offsetodawcy, przedmiotu, wartości oraz terminu wykonania poszczególnych zobowiązań offsetowych lub może nastąpić zastąpienie danego zobowiązania offsetowego nowym zobowiązaniem offsetowym lub nowymi zobowiązaniami offsetowymi. Przepisy art. 3 ust. 2, art. 5, art. 7-11, art. 13 i art. 14 ust. 2 stosuje się odpowiednio.
+
+### Art. 22.
+
+Prawem właściwym dla umowy offsetowej jest prawo polskie.
+
+### Art. 23.
+
+### 1.
+
+Umowa offsetowa wygasa, z zastrzeżeniem art. 29, z dniem stwierdzenia przez Ministra Obrony Narodowej wykonania zobowiązań offsetowych przez zagranicznego dostawcę albo w dniu zapłaty na rzecz Skarbu Państwa kary umownej lub odszkodowania z tytułu niewykonania lub nienależytego wykonania zobowiązań offsetowych.
+
+### 2.
+
+W przypadku niewykonania zobowiązania offsetowego wysokość kary umownej stanowi równowartość niewykonanego zobowiązania offsetowego.
+
+### 3.
+
+W przypadku nienależytego wykonania zobowiązania offsetowego wysokość kary umownej stanowi równowartość nienależycie wykonanej części zobowiązania offsetowego.
+
+### 4.
+
+Zapłata kary, o której mowa w ust. 2 i 3, nie wyłącza odpowiedzialności odszkodowawczej zagranicznego dostawcy w zakresie przewyższającym wysokość tej kary.
+
+### 5.
+
+Odpowiedzialność zagranicznego dostawcy w przypadku niewykonania lub nienależytego wykonania zobowiązania offsetowego jest niezależna od winy zagranicznego dostawcy za niewykonanie lub nienależyte wykonanie danego zobowiązania offsetowego.
+
+### Art. 24.
+
+### 1.
+
+Podmioty wchodzące w skład konsorcjum, o którym mowa w art. 2 pkt 3, ponoszą solidarną odpowiedzialność za należyte wykonanie zobowiązań offsetowych.
+
+### 2.
+
+Podmioty wchodzące w skład konsorcjum wyznaczają spośród siebie podmiot upoważniony do ich reprezentowania (lidera konsorcjum).
+
+### Art. 25.
+
+### 1.
+
+Za wykonanie zobowiązań offsetowych przez offsetodawcę niebędącego zagranicznym dostawcą odpowiedzialność ponosi zagraniczny dostawca.
+
+### 2.
+
+Odpowiedzialność zagranicznego dostawcy, o której mowa w ust. 1, jest niezależna od winy zagranicznego dostawcy za nienależyte wykonanie lub niewykonanie danego zobowiązania offsetowego.
+
+### Rozdział 4 Komitet Offsetowy
+
+### Art. 26.
+
+### 1.
+
+Tworzy się Komitet Offsetowy, który działa przy Ministrze Obrony Narodowej jako organ opiniodawczo-doradczy.
+
+### 2.
+
+W skład Komitetu Offsetowego wchodzi przedstawiciel:
+
+### 1)
+
+Prezydenta Rzeczypospolitej Polskiej;
+
+### 2)
+
+Prezesa Rady Ministrów;
+
+### 3)
+
+Ministra Obrony Narodowej;
+
+### 4)
+
+ministra właściwego do spraw finansów publicznych;
+
+### 5)
+
+ministra właściwego do spraw gospodarki;
+
+### 6)
+
+ministra właściwego do spraw szkolnictwa wyższego i nauki;
+
+### 7)
+
+(uchylony)
+
+### 8)
+
+ministra właściwego do spraw wewnętrznych;
+
+### 9)
+
+ministra właściwego do spraw zagranicznych;
+
+### 9a)
+
+Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej;
+
+### 10)
+
+Prezesa Urzędu Zamówień Publicznych;
+
+### 11)
+
+Szefa Agencji Bezpieczeństwa Wewnętrznego;
+
+### 12)
+
+Szefa Biura Bezpieczeństwa Narodowego;
+
+### 13)
+
+Szefa Służby Kontrwywiadu Wojskowego.
+
+### 3.
+
+Przewodniczący Komitetu Offsetowego może zapraszać do udziału w pracach Komitetu Offsetowego bez prawa głosu inne osoby niż wymienione w ust. 2, w szczególności przedstawicieli innych ministrów, Szefa Centralnego Biura Antykorupcyjnego, oraz, o ile uzna to za wskazane, wybranych offsetobiorców.
+
+### 4.
+
+Przewodniczącym Komitetu Offsetowego jest przedstawiciel Ministra Obrony Narodowej. Zastępcę Przewodniczącego Komitetu Offsetowego wybiera ze swego grona Komitet Offsetowy.
+
+### 5.
+
+Rada Ministrów określi, w drodze rozporządzenia, regulamin organizacyjny Komitetu Offsetowego, uwzględniając potrzebę zapewnienia skuteczności i sprawności działania Komitetu Offsetowego.
+
+### Art. 27.
+
+### 1.
+
+Do zadań Komitetu Offsetowego należy w szczególności:
+
+### 1)
+
+określanie priorytetów w zakresie potrzeb offsetowych i przedkładanie informacji o nich Ministrowi Obrony Narodowej;
+
+### 2)
+
+analizowanie potrzeb w zakresie podstawowych interesów bezpieczeństwa Rzeczypospolitej Polskiej, mogących być przedmiotem zobowiązań offsetowych;
+
+### 3)
+
+przedkładanie Ministrowi Obrony Narodowej wniosków z przeprowadzonej analizy, o której mowa w pkt 2;
+
+### 4)
+
+opiniowanie założeń do ofert offsetowych, o których mowa w art. 8 ust. 2;
+
+### 5)
+
+opiniowanie ofert offsetowych pod względem zapewnienia największych korzyści dla bezpieczeństwa Rzeczypospolitej Polskiej oraz przedkładanie Ministrowi Obrony Narodowej tych opinii;
+
+### 6)
+
+opiniowanie sprawozdań, o których mowa w art. 30;
+
+### 7)
+
+przedkładanie Ministrowi Obrony Narodowej opinii, o których mowa w art. 7 ust. 3, art. 9, art. 10 ust. 2 i art. 19 ust. 1;
+
+### 8)
+
+przedkładanie Ministrowi Obrony Narodowej, w miarę potrzeb, innych opinii w zakresie problematyki offsetowej.
+
+### 2.
+
+Rada Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres zadań Komitetu Offsetowego, uwzględniając potrzebę skutecznego i sprawnego wykonywania zadań, o których mowa w ust. 1.
+
+### Rozdział 5 Nadzór nad wykonywaniem umów offsetowych
+
+### Art. 28.
+
+Nadzór nad wykonywaniem umów offsetowych sprawuje Minister Obrony Narodowej.
+
+### Art. 29.
+
+Wejście w życie umowy offsetowej oraz stwierdzenie jej wykonania wymaga zatwierdzenia przez Radę Ministrów.
+
+### Art. 30.
+
+Minister Obrony Narodowej przedkłada Radzie Ministrów roczne sprawozdanie z wykonania zobowiązań offsetowych przez zagranicznych dostawców, które w szczególności prezentuje ocenę efektywności wykonania zobowiązań związanych z przekazaniem technologii o charakterze innowacyjnym i know-how, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego.
+
+### Art. 31.
+
+Do umów offsetowych zawieranych w związku z umową dostawy nie stosuje się przepisów o ochronie konkurencji i konsumentów.
+
+### Rozdział 6 Przepisy zmieniające
+
+### Art. 32.
+
+(pominięty)
+
+### Art. 33.
+
+(pominięty)
+
+### Rozdział 7 Przepisy przejściowe i końcowe
+
+### Art. 34.
+
+### 1.
+
+Do umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do zmian umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy, dokonywanych po dniu wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 3.
+
+Do postępowań o zawarcie umowy offsetowej wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 35.
+
+Komitet do Spraw Umów Offsetowych, o którym mowa w art. 20 ustawy uchylanej w art. 37, do czasu stwierdzenia wykonania umów offsetowych zawartych przed dniem wejścia w życie niniejszej ustawy, działa w składzie, na zasadach oraz w trybie określonych w przepisach ustawy uchylanej w art. 37 oraz przepisach wykonawczych wydanych na podstawie art. 20 ust. 6 ustawy uchylanej w art. 37.
+
+### Art. 36.
+
+### 1.
+
+Minister właściwy do spraw gospodarki w zakresie, o którym mowa w art. 34, pozostaje ministrem właściwym w rozumieniu przepisu art. 9 ust. 1 ustawy z dnia 4 września 1997 r. o działach administracji rządowej w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Minister właściwy do spraw gospodarki, w terminie do końca drugiego kwartału po zakończeniu roku sprawozdawczego, przedkłada Radzie Ministrów roczne sprawozdanie z wykonania przez zagranicznych dostawców zobowiązań offsetowych, wynikających z umów, dla których jest właściwy na podstawie ust. 1.
+
+### Art. 37.
+
+Traci moc ustawa z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa ([Dz. U. z 2013 r. poz. 716](https://api.sejm.gov.pl/eli/acts/DU/2013/716/text.html)).
+
+### Art. 38.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[3) Ustawa została ogłoszona w dniu 15 lipca 2014 r.](#gloss-0:3:).
+
+1) W brzmieniu ustalonym przez art. 2 ustawy z dnia 2 grudnia 2021 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 25), która weszła w życie z dniem 20 stycznia 2022 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1981, 2052, 2262, 2270, 2289, 2328 i 2459 oraz z 2022 r. poz. 1, 366, 480, 807, 830 i 974. 3) Ustawa została ogłoszona w dniu 15 lipca 2014 r.

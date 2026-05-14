@@ -1,0 +1,471 @@
+---
+title: "Obwieszczenie Ministra Zdrowia z dnia 20 września 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie metody zapobiegania COVID-19"
+address: WDU20230002072
+eli: DU/2023/2072
+publisher: DU
+year: 2023
+pos: 2072
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Zdrowiaz dnia 20 września 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie metody zapobiegania COVID-19
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2072 |
+| ISAP | WDU20230002072 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-09-20 |
+| Data wydania | 2023-09-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2072/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2072) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19 ([Dz. U. z 2022 r. poz. 1003](https://api.sejm.gov.pl/eli/acts/DU/2022/1003/text.html)), z uwzględnieniem zmian wprowadzonych:
+
+### 1)
+
+rozporządzeniem Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniającym rozporządzenie w sprawie metody zapobiegania COVID-19 ([Dz. U. poz. 2627](https://api.sejm.gov.pl/eli/acts/DU/2022/2627/text.html));
+
+### 2)
+
+rozporządzeniem Ministra Zdrowia z dnia 29 czerwca 2023 r. zmieniającym rozporządzenie w sprawie metody zapobiegania COVID-19 ([Dz. U. poz. 1254](https://api.sejm.gov.pl/eli/acts/DU/2023/1254/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+
+### 1)
+
+§ 2 rozporządzenia Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 ([Dz. U. poz. 2627](https://api.sejm.gov.pl/eli/acts/DU/2022/2627/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 12 grudnia 2022 r.
+
+” ;
+
+### 2)
+
+§ 2-4 rozporządzenia Ministra Zdrowia z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 ([Dz. U. poz. 1254](https://api.sejm.gov.pl/eli/acts/DU/2023/1254/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Unijne cyfrowe zaświadczenie COVID, o którym mowa w przepisach wydanych na podstawie art. 46a i art. 46b pkt 1-6 i 8-13 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, staje się Certyfikatem COVID, o którym mowa w § 2a ust. 2a rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+System teleinformatyczny, o którym mowa w przepisach wydanych na podstawie art. 46a i art. 46b pkt 1-6 i 8-13 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, staje się systemem teleinformatycznym, o którym mowa w § 5a ust. 1 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 4.
+
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2023 r.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Zdrowia z dnia 31 grudnia 2020 r. w sprawie metody zapobiegania COVID-19[1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1616).](#gloss-0:1:)
+
+Na podstawie art. 3 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ([Dz. U. z 2023 r. poz. 1284](https://api.sejm.gov.pl/eli/acts/DU/2023/1284/text.html), [909](https://api.sejm.gov.pl/eli/acts/DU/2023/909/text.html) i [1938](https://api.sejm.gov.pl/eli/acts/DU/2023/1938/text.html)) zarządza się, co następuje:
+
+### § 1[2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 (Dz. U. poz. 1254), które weszło w życie z dniem 1 lipca 2023 r.](#gloss-0:2:).
+
+Wprowadza się metody zapobiegania COVID-19 polegające na:
+
+### 1)
+
+wykonywaniu szczepień ochronnych przeciwko tej chorobie zakaźnej, zwanych dalej „szczepieniami”;
+
+### 2)
+
+wykonywaniu testów diagnostycznych w kierunku SARS-CoV-2.
+
+### § 2[3) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 (Dz. U. poz. 2627), które weszło w życie z mocą od dnia 12 grudnia 2022 r.](#gloss-0:3:).
+
+Szczepieniami są objęte osoby, które najpóźniej w dniu przeprowadzenia szczepienia ukończyły 6. miesiąc życia, nieszczepione lub niemające udokumentowanego zakończonego szczepienia.
+
+### § 2a.
+
+### 1[3) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 (Dz. U. poz. 2627), które weszło w życie z mocą od dnia 12 grudnia 2022 r.](#gloss-0:3:).
+
+Osoba, która najpóźniej w dniu przeprowadzenia szczepienia ukończyła 6. miesiąc życia, niemająca udokumentowanego zakończonego szczepienia, a która została zaszczepiona przeciwko COVID-19 poza terytorium Rzeczypospolitej Polskiej pierwszą dawką szczepionki dopuszczonej do obrotu w Unii Europejskiej lub szczepionką znajdującą się w wykazie odpowiedników szczepionek dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, prowadzonym przez Narodowy Instytut Zdrowia Publicznego PZH - Państwowy Instytut Badawczy, może kontynuować szczepienie na terytorium Rzeczypospolitej Polskiej.
+
+### 2[4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:4:).
+
+W celu kontynuacji szczepienia, o którym mowa w ust. 1, przedstawia się podmiotowi przeprowadzającemu szczepienia na terytorium Rzeczypospolitej Polskiej oryginał zaświadczenia o zaszczepieniu przeciwko COVID-19, zgodny z wzorem obowiązującym w kraju przyjęcia szczepionki przeciwko COVID-19, oraz tłumaczenie tego zaświadczenia na język polski przez tłumacza przysięgłego, a także oświadczenie zawierające zgodę tej osoby lub jej przedstawiciela ustawowego na przetwarzanie danych osobowych związanych z wydaniem certyfikatu, o którym mowa w ust. 2a.
+
+### 2a[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Informacje na temat zaszczepienia przeciwko COVID-19, wyniku testu diagnostycznego w kierunku SARS-CoV-2 lub powrotu do zdrowia po zakażeniu SARS-CoV-2 stwierdzonego na podstawie dodatniego wyniku testu diagnostycznego w kierunku SARS-CoV-2, są zawarte w interoperacyjnym dokumencie wydawanym przez ministra właściwego do spraw zdrowia, zwanym dalej „Certyfikatem COVID”.
+
+### 2b[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Certyfikat COVID umożliwia wydawanie i weryfikowanie:
+
+### 1)
+
+zaświadczenia potwierdzającego, że jego posiadacz otrzymał szczepionkę przeciwko COVID-19 (zaświadczenie o szczepieniu);
+
+### 2)
+
+zaświadczenia potwierdzającego, że jego posiadacz poddał się testowi diagnostycznemu w kierunku SARS-CoV-2 (zaświadczenie o wyniku testu);
+
+### 3)
+
+zaświadczenia potwierdzającego, że jego posiadacz powrócił do zdrowia po zakażeniu SARS-CoV-2 stwierdzonym na podstawie dodatniego wyniku testu diagnostycznego w kierunku SARS-CoV-2 (zaświadczenie o powrocie do zdrowia).
+
+### 2c[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Dla każdego szczepienia, wyniku testu diagnostycznego w kierunku SARS-CoV-2 oraz faktu powrotu do zdrowia po zakażeniu SARS-CoV-2 stwierdzonym na podstawie dodatniego wyniku testu diagnostycznego w kierunku SARS-CoV-2, wydaje się odrębne zaświadczenie.
+
+### 2d[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Zaświadczenie o szczepieniu zawiera następujące dane:
+
+### 1)
+
+w następującej kolejności: nazwisko (nazwiska) i imię (imiona);
+
+### 2)
+
+data urodzenia;
+
+### 3)
+
+choroba lub czynnik chorobotwórczy, których dotyczy szczepienie (SARS-CoV-2 lub jeden z jego wariantów);
+
+### 4)
+
+nazwa szczepionki przeciwko COVID-19;
+
+### 5)
+
+posiadacz pozwolenia na dopuszczenie do obrotu szczepionki przeciwko COVID-19 lub jej producent;
+
+### 6)
+
+numer w serii dawek i łączna liczba dawek w serii;
+
+### 7)
+
+data szczepienia, wskazująca datę ostatniej otrzymanej dawki;
+
+### 8)
+
+nazwa wystawcy zaświadczenia;
+
+### 9)
+
+niepowtarzalny identyfikator zaświadczenia.
+
+### 2e[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Zaświadczenie o wyniku testu diagnostycznego w kierunku SARS-CoV-2 zawiera następujące dane:
+
+### 1)
+
+w następującej kolejności: nazwisko (nazwiska) i imię (imiona);
+
+### 2)
+
+data urodzenia;
+
+### 3)
+
+choroba lub czynnik chorobotwórczy (SARS-CoV-2 lub jeden z jego wariantów), w kierunku których wykonano test diagnostyczny;
+
+### 4)
+
+rodzaj testu;
+
+### 5)
+
+nazwa testu;
+
+### 6)
+
+producent testu;
+
+### 7)
+
+data i godzina pobrania próbki do testu;
+
+### 8)
+
+wynik testu;
+
+### 9)
+
+nazwa podmiotu wykonującego działalność leczniczą, w którym wykonano test;
+
+### 10)
+
+nazwa wystawcy zaświadczenia;
+
+### 11)
+
+niepowtarzalny identyfikator zaświadczenia.
+
+### 2f[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Zaświadczenie o powrocie do zdrowia zawiera następujące dane:
+
+### 1)
+
+w następującej kolejności: nazwisko (nazwiska) i imię (imiona);
+
+### 2)
+
+data urodzenia;
+
+### 3)
+
+choroba lub czynnik chorobotwórczy, po których posiadacz tego zaświadczenia powrócił do zdrowia po zakażeniu SARS-CoV-2 lub jednym z jego wariantów;
+
+### 4)
+
+data pierwszego dodatniego wyniku testu;
+
+### 5)
+
+nazwa wystawcy zaświadczenia;
+
+### 6)
+
+oznaczenie ważności zaświadczenia z oznaczeniem jej początku i zakończenia;
+
+### 7)
+
+niepowtarzalny identyfikator zaświadczenia.
+
+### 2g[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Certyfikat COVID jest wystawiany:
+
+### 1)
+
+w postaci elektronicznej - automatycznie za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia ([Dz. U. z 2022 r. poz. 1555](https://api.sejm.gov.pl/eli/acts/DU/2022/1555/text.html), [2280](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.html) i [2705](https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text.html) oraz [z 2023 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2023/650/text.html), [1234](https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text.html), [1692](https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text.html) i [1972](https://api.sejm.gov.pl/eli/acts/DU/2023/1972/text.html)), lub
+
+### 2)
+
+w postaci papierowej - na żądanie osoby, której dane dotyczą, z systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przez:
+
+### a)
+
+podmioty przeprowadzające szczepienia,
+
+### b)
+
+lekarza podstawowej opieki zdrowotnej lub pielęgniarkę podstawowej opieki zdrowotnej.
+
+### 2h[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+W celu wydania Certyfikatu COVID osoba, która została zaszczepiona przeciwko COVID-19 poza terytorium Rzeczypospolitej Polskiej szczepionką dopuszczoną do obrotu w Unii Europejskiej lub znajdującą się w wykazie odpowiedników szczepionek, o którym mowa w § 5a ust. 6, albo jej przedstawiciel ustawowy, przedstawia podmiotowi przeprowadzającemu szczepienia oryginał zaświadczenia o zaszczepieniu przeciwko COVID-19, zgodny ze wzorem obowiązującym w kraju przyjęcia szczepionki przeciwko COVID-19, oraz tłumaczenie tego zaświadczenia na język polski przez tłumacza przysięgłego, a także oświadczenie zawierające zgodę tej osoby albo jej przedstawiciela ustawowego na przetwarzanie danych osobowych związanych z wydaniem Certyfikatu COVID.
+
+### 2i[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Lekarz, felczer, pielęgniarka, położna, ratownik medyczny, higienistka szkolna, zatrudnieni w podmiocie, o którym mowa w ust. 2h, wprowadzają dane zawarte w dokumentach, o których mowa w ust. 2h, do Karty Szczepień określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta ([Dz. U. z 2023 r. poz. 1545](https://api.sejm.gov.pl/eli/acts/DU/2023/1545/text.html), [1675](https://api.sejm.gov.pl/eli/acts/DU/2023/1675/text.html), [1692](https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text.html) i [1972](https://api.sejm.gov.pl/eli/acts/DU/2023/1972/text.html)), prowadzonej w postaci elektronicznej w systemie, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+### 2j[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Narodowy Fundusz Zdrowia podaje do publicznej wiadomości na swojej stronie internetowej oraz w Biuletynie Informacji Publicznej Narodowego Funduszu Zdrowia wykaz podmiotów przeprowadzających szczepienia, o których mowa w ust. 2h.
+
+### 2k[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Narodowy Instytut Zdrowia Publicznego PZH - Państwowy Instytut Badawczy podaje do publicznej wiadomości na swojej stronie internetowej oraz w Biuletynie Informacji Publicznej Narodowego Instytutu Zdrowia Publicznego PZH - Państwowego Instytutu Badawczego wykaz odpowiedników szczepionek, o którym mowa w § 5a ust. 6.
+
+### 2l[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Dane przetwarzane w Certyfikacie COVID są udostępniane w celu weryfikacji statusu zdrowotnego posiadacza zaświadczenia organom Państwowej Inspekcji Sanitarnej, Wojskowej Inspekcji Sanitarnej, Narodowemu Funduszowi Zdrowia, Policji, straży gminnej (miejskiej), Państwowej Straży Pożarnej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Straży Ochrony Kolei, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego, Żandarmerii Wojskowej, Wojskom Obrony Terytorialnej i Systemowi Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego.
+
+### 2m[5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Obowiązku przedstawienia podmiotowi przeprowadzającemu szczepienia tłumaczenia oryginału zaświadczenia o zaszczepieniu przeciwko COVID-19, zgodnego z wzorem obowiązującym w kraju przyjęcia szczepionki przeciwko COVID-19, na język polski przez tłumacza przysięgłego, o którym mowa w ust. 2h, nie stosuje się do osób przekraczających granicę Rzeczypospolitej Polskiej w związku z konfliktem zbrojnym na terytorium Ukrainy.
+
+### 3.
+
+(uchylony).[6) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:)
+
+### § 2b.
+
+Obowiązku przedstawiania tłumaczenia zaświadczenia o zaszczepieniu przeciwko COVID-19, o którym mowa w § 2a ust. 2, nie stosuje się do osób przekraczających granicę Rzeczypospolitej Polskiej z Ukrainą w związku z konfliktem zbrojnym na terytorium tego państwa.
+
+### § 3.
+
+### 1.
+
+Szczepienia są wykonywane przy użyciu szczepionki przeciwko COVID-19.
+
+### 2.
+
+Szczepienia są wykonywane w:
+
+### 1)
+
+gabinetach diagnostyczno-zabiegowych;
+
+### 2)
+
+przypadkach uzasadnionych efektywnością wykonywania szczepień w:
+
+### a)
+
+pomieszczeniach spełniających wymagania higieniczno-sanitarne do wykonywania szczepień,
+
+### b)
+
+miejscu pobytu osoby podlegającej szczepieniu, której stan zdrowia uniemożliwia samodzielne dotarcie do gabinetu, o którym mowa w pkt 1, albo pomieszczenia, o którym mowa w lit. a,
+
+### c)
+
+szpitalu psychiatrycznym, o którym mowa w art. 3 pkt 2 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego ([Dz. U. z 2022 r. poz. 2123](https://api.sejm.gov.pl/eli/acts/DU/2022/2123/text.html) oraz [z 2023 r. poz. 1972](https://api.sejm.gov.pl/eli/acts/DU/2023/1972/text.html)), dla osób tam przebywających,
+
+### d)
+
+jednostkach penitencjarnych dla osób tam osadzonych;
+
+### 3)
+
+aptekach ogólnodostępnych.
+
+### § 4.
+
+Dokumentowanie kwalifikacji i przeprowadzenia szczepienia odbywa się w Karcie Szczepień określonej w przepisach wydanych na podstawie art. 30 ust. 1 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, prowadzonej w postaci elektronicznej w systemie, o którym mowa w art. 7 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+### § 5.
+
+Przy wykonywaniu szczepień stosuje się przepisy dotyczące zgłaszania i leczenia niepożądanych odczynów poszczepiennych.
+
+### § 5a[7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:7:).
+
+### 1.
+
+Dane osób podlegających obowiązkowej kwarantannie, osób podlegających izolacji, izolacji w warunkach domowych z powodu zachorowania na chorobę wywołaną zakażeniem SARS-CoV-2, w tym adres miejsca zamieszkania lub pobytu, w którym odbyła się obowiązkowa kwarantanna, izolacja albo izolacja w warunkach domowych oraz numer telefonu do bezpośredniego kontaktu z tą osobą, osób, w stosunku do których podjęto decyzję o wykonaniu testu diagnostycznego w kierunku SARS-CoV-2, a także osób zakażonych tym wirusem oraz informacje dotyczące zgonu tych osób w zakresie objętym formularzem ZLK-5 określonym w przepisach wydanych na podstawie art. 27 ust. 9 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, są przetwarzane w systemie Ewidencji Wjazdu do Polski, będącym systemem teleinformatycznym udostępnionym przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia.
+
+### 2.
+
+Administratorem danych przetwarzanych w systemie teleinformatycznym, o którym mowa w ust. 1, jest minister właściwy do spraw zdrowia.
+
+### 3.
+
+Dane osób, w stosunku do których podjęto decyzję o wykonaniu testu diagnostycznego w kierunku SARS-CoV-2, w tym dane zawarte w zleceniach wykonania takich testów wystawionych przez podmioty inne niż organy Państwowej Inspekcji Sanitarnej oraz informacje o wynikach tych testów, niezależnie od podmiotów je zlecających, mogą być również przetwarzane w systemie teleinformatycznym stanowiącym moduł Krajowego Rejestru Pacjentów z COVID-19 prowadzonego przez jednostkę podległą ministrowi właściwemu do spraw zdrowia właściwą w zakresie systemów informacyjnych ochrony zdrowia oraz w systemie teleinformatycznym, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+### 4.
+
+Dane osób, które nie poddały się szczepieniu, obejmujące imię i nazwisko, numer PESEL oraz numer telefonu, mogą być udostępniane z systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, Narodowemu Funduszowi Zdrowia w celu informowania przez ten podmiot osób, których dotyczą te dane, o możliwości poddania się szczepieniu.
+
+### 5.
+
+Dane osób, które poddały się szczepieniu, obejmujące informacje, o których mowa w § 68b ust. 1 pkt 1 oraz 3-5 rozporządzenia Ministra Zdrowia z dnia 6 kwietnia 2020 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania ([Dz. U. z 2022 r. poz. 1304](https://api.sejm.gov.pl/eli/acts/DU/2022/1304/text.html) i [1990](https://api.sejm.gov.pl/eli/acts/DU/2022/1990/text.html) oraz [z 2023 r. poz. 1486](https://api.sejm.gov.pl/eli/acts/DU/2023/1486/text.html)), przetwarzane w systemie teleinformatycznym, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, mogą być przekazywane do systemu teleinformatycznego, o którym mowa w ust. 1, w celu zapewnienia podmiotom mającym dostęp do tego systemu możliwości weryfikowania posiadania przez daną osobę statusu osoby zaszczepionej przeciwko COVID-19.
+
+### 6.
+
+Osobą zaszczepioną przeciwko COVID-19 jest osoba, której wystawiono ważne zaświadczenie o wykonaniu szczepienia szczepionką dopuszczoną do obrotu w Unii Europejskiej lub znajdującą się w wykazie odpowiedników szczepionek dopuszczonych do obrotu na terytorium Rzeczypospolitej Polskiej, prowadzonym przez Narodowy Instytut Zdrowia Publicznego PZH - Państwowy Instytut Badawczy, i upłynęło co najmniej 14 dni od dnia podania szczepionki jednodawkowej albo drugiej dawki szczepionki - w przypadku szczepionek dwudawkowych, a w przypadku kolejnej dawki od dnia podania tej dawki.
+
+### 7.
+
+Dane, o których mowa w ust. 1 i 5, są udostępniane organom Państwowej Inspekcji Sanitarnej, Narodowemu Funduszowi Zdrowia, Zakładowi Ubezpieczeń Społecznych, Kasie Rolniczego Ubezpieczenia Społecznego, Narodowemu Instytutowi Zdrowia Publicznego PZH - Państwowemu Instytutowi Badawczemu, Agencji Oceny Technologii Medycznych i Taryfikacji, wojewodom, Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Krajowej Administracji Skarbowej, Państwowej Straży Pożarnej, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego, Żandarmerii Wojskowej, Wojskom Obrony Terytorialnej, Systemowi Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego, ministrowi właściwemu do spraw informatyzacji, operatorowi wyznaczonemu w rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2023 r. poz. 1640](https://api.sejm.gov.pl/eli/acts/DU/2023/1640/text.html)) oraz podmiotom wykonującym działalność leczniczą w celu realizacji ich zadań ustawowych lub statutowych lub zadań związanych z prowadzeniem działań dotyczących przeciwdziałania epidemii wywołanej zakażeniami SARS-CoV-2. Narodowy Fundusz Zdrowia może udostępnić dane, o których mowa w ust. 1 i 5, dotyczące osoby poddanej obowiązkowej kwarantannie, osoby podlegającej izolacji lub izolacji w warunkach domowych, osoby, w stosunku do której podjęto decyzję o wykonaniu testu diagnostycznego w kierunku SARS-CoV-2, albo osoby poddanej szczepieniu, świadczeniodawcy podstawowej opieki zdrowotnej, wybranemu na podstawie art. 9 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej ([Dz. U. z 2022 r. poz. 2527](https://api.sejm.gov.pl/eli/acts/DU/2022/2527/text.html)) przez tę osobę, w celu realizacji przez tego świadczeniodawcę ustawowych zadań oraz wydawania danej osobie zaświadczenia potwierdzającego odbycie izolacji lub izolacji w warunkach domowych, uzyskanie negatywnego wyniku testu diagnostycznego w kierunku SARS-CoV-2 lub zaszczepienie przeciwko COVID-19.
+
+### 8.
+
+Podmioty, o których mowa w ust. 2, 7 i 9, uzupełniają lub poprawiają dane przetwarzane w systemie teleinformatycznym, o którym mowa w ust. 1, w zakresie danych, które przekazują do tego systemu lub do których nadano dostęp w tym systemie umożliwiający edytowanie danych.
+
+### 9.
+
+Dane osób, w stosunku do których podjęto decyzję o wykonaniu testu diagnostycznego w kierunku SARS-CoV-2, mogą być udostępniane podmiotom odpowiedzialnym za wykonanie tych testów.
+
+### 10.
+
+Zlecenie na testy diagnostyczne w kierunku SARS-CoV-2, w tym testy, o których mowa w przepisach wydanych na podstawie art. 34 ust. 5 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, finansowane ze środków publicznych, wystawia się za pośrednictwem:
+
+### 1)
+
+systemu teleinformatycznego, o którym mowa w ust. 1, przez:
+
+### a)
+
+podmioty lecznicze w przypadku testów zlecanych w:
+
+- - szpitalach,
+
+- - innych zakładach leczniczych albo w ich komórkach organizacyjnych, w tym medycznych laboratoriach diagnostycznych, w których jest wykonywana diagnostyka zakażenia SARS-CoV-2, oraz w punktach pobrań materiałów do badań znajdujących się w strukturze organizacyjnej tych podmiotów leczniczych,
+
+### b)
+
+organy Państwowej Inspekcji Sanitarnej oraz organy Wojskowej Inspekcji Sanitarnej;
+
+### 2)
+
+systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przez:
+
+### a)
+
+inne niż określone w pkt 1 podmioty wykonujące działalność leczniczą,
+
+### b)
+
+apteki ogólnodostępne wykonujące diagnostykę zakażenia SARS-CoV-2.
+
+### 11.
+
+Dane pracowników medycznych zawarte w zleceniach, o których mowa w ust. 10, mogą być weryfikowane w systemie teleinformatycznym, o którym mowa w ust. 1, z wykorzystaniem danych przetwarzanych w Centralnym Wykazie Pracowników Medycznych, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia.
+
+### 12.
+
+W zleceniu, o którym mowa w ust. 10, informacje przekazywane o pacjencie obejmują numer telefonu do bezpośredniego kontaktu z osobą, której dotyczy zlecenie.
+
+### 13.
+
+Informacje o wynikach testów diagnostycznych w kierunku SARS-CoV-2 oraz informacje o osobie, której dotyczy badanie diagnostyczne, w tym informacja o numerze telefonu do bezpośredniego kontaktu z tą osobą, są wprowadzane za pośrednictwem:
+
+### 1)
+
+systemu teleinformatycznego, o którym mowa w ust. 1, przez:
+
+### a)
+
+medyczne laboratoria diagnostyczne wykonujące diagnostykę zakażenia SARS-CoV-2,
+
+### b)
+
+podmioty lecznicze - w przypadku testów zleconych w szpitalach;
+
+### 2)
+
+systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, przez:
+
+### a)
+
+inne niż określone w pkt 1 podmioty wykonujące działalność leczniczą,
+
+### b)
+
+apteki ogólnodostępne wykonujące diagnostykę zakażenia SARS-CoV-2.
+
+### 14.
+
+W przypadku braku dostępu do systemu teleinformatycznego, o którym mowa w ust. 1, lub do systemu teleinformatycznego, o którym mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia, w razie zlecania wykonania testów diagnostycznych w kierunku SARS-CoV-2 w tych systemach, wystawianie zleceń na te testy i przekazywanie ich wyników odbywa się bez pośrednictwa tych systemów.
+
+### § 6.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[8) Rozporządzenie zostało ogłoszone w dniu 4 stycznia 2021 r.](#gloss-0:8:), z mocą od dnia 27 grudnia 2020 r.
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 14 sierpnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1616). 2) W brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Zdrowia z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 (Dz. U. poz. 1254), które weszło w życie z dniem 1 lipca 2023 r. 3) Ze zmianą wprowadzoną przez § 1 rozporządzenia Ministra Zdrowia z dnia 13 grudnia 2022 r. zmieniającego rozporządzenie w sprawie metody zapobiegania COVID-19 (Dz. U. poz. 2627), które weszło w życie z mocą od dnia 12 grudnia 2022 r. 4) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 2. 5) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 2. 6) Przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2. 8) Rozporządzenie zostało ogłoszone w dniu 4 stycznia 2021 r.

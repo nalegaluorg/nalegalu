@@ -8,11 +8,9 @@ pos: 743
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r.
-
-*USTAWA 4 kwietnia 2019 jednorazowym świadczeniu pieniężnym dla emerytów rencistów 2019*
+# Ustawa z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. [1) Niniejszą ustawą zmienia się ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,83 +22,252 @@ domain: null
 | Data ogłoszenia | 2019-04-04 |
 | Data wydania | 2019-04-24 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000743) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/743/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/743/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/743) |
 
-**Art. 1.** Ustawa określa warunki nabywania prawa do jednorazowego świadczenia pieniężnego przysługującego 2019 zasady jego wypłaty.
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. W 2019 wypłacane jest jednorazowe świadczenie pieniężne.
+Ustawa określa warunki nabywania prawa do jednorazowego świadczenia pieniężnego przysługującego w 2019 r. oraz zasady jego wypłaty.
 
-2. Jednorazowe świadczenie pieniężne przysługuje osobom, które dniu 30 kwietnia 2019 mają prawo do:
+### Art. 2.
 
-- **1)** świadczeń, których mowa 2 pkt 1 lit. a b 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych ich rodzin (Dz. 2021 1656 2022 655),
-- **2)** świadczeń ubezpieczenia emerytalno-rentowego, których mowa 18 pkt 1–4 20 grudnia 1990 ubezpieczeniu społecznym rolników (Dz. 2022 933 1155),
-- **3)** świadczeń, których mowa 12 16 24 stycznia 1991 kombatantach niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. 2021 1858 2022
-- **655)** ,
-- **4)** świadczeń, których mowa 2 pkt 1 lit. a–c 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. 2022 520, 655 1115),
-- **5)** świadczeń, których mowa 2 ust. 1 pkt 1 lit. a–c, miesięcznych kwot, których mowa 15c ust. 3, 22a ust. 3 24a ust. 2 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2022 504),
-- **7)** rent, których mowa 6 ust. 1 pkt 6–8 49, 50 52 30 października 2002 ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych (Dz. 2019 1205, 2021 1621 1834 2022 755),
-- **8)** rent, których mowa 3 ust. 1 pkt 1 ust. 3 4 30 października 2002 zaopatrzeniu tytułu wypadków lub chorób zawodowych powstałych szczególnych okolicznościach (Dz. 2020
-- **984)** ,
-- **9)** renty socjalnej, której mowa ustawie 27 czerwca 2003 rencie socjalnej (Dz. 2022 240),
-- **10)** świadczenia przedemerytalnego zasiłku przedemerytalnego, którym mowa ustawie 30 kwietnia 2004 świadczeniach przedemerytalnych (Dz. 2021 1867),
-- **11)** świadczenia, którym mowa 2 ust. 1 16 listopada 2006 świadczeniu pieniężnym uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. 2021 1820),
-- **12)** okresowej emerytury kapitałowej, której mowa 7 ust. 1 21 listopada 2008 emeryturach kapitałowych (Dz. 2018 926),
-- **13)** emerytury, której mowa 1 ust. 1 pkt 1 19 grudnia 2008 emeryturach pomostowych (Dz. 2018 1924, 2021 1621 2022 755), Ubezpieczeń Społecznych niektórych innych ustaw (Dz. 637 2017 38),
-- **16)** rodzicielskiego świadczenia uzupełniającego, którym mowa 1 ust. 1 31 stycznia 2019 rodzicielskim świadczeniu uzupełniającym (Dz. 2022 1051) – zwanym dalej „osobami uprawnionymi”.
+### 1.
 
-3. Jednorazowe świadczenie pieniężne nie przysługuje osobom, którym prawo do świadczeń określonych ust. 2 zostało zawieszone na dzień 30 kwietnia 2019
+W 2019 r. wypłacane jest jednorazowe świadczenie pieniężne.
 
-4. Prawo do jednorazowego świadczenia pieniężnego podlega ponownemu ustaleniu, jeżeli okaże się, że na dzień 30 kwietnia 2019 prawo do świadczenia, którym mowa 2 ust. 2, nie istniało, podlegało zawieszeniu lub przysługiwała wypłata tego świadczenia.
+### 2.
 
-**Art. 3.** W razie zbiegu prawa do więcej niż jednego świadczenia, którym mowa 2 ust. 2, osobie uprawnionej przysługuje jedno jednorazowe świadczenie pieniężne.
+Jednorazowe świadczenie pieniężne przysługuje osobom, które w dniu 30 kwietnia 2019 r. mają prawo do:
 
-**Art. 4.**
+### 1)
 
-1. Do renty rodzinnej, do której uprawniona jest więcej niż jedna osoba, przysługuje jedno jednorazowe świadczenie pieniężne, które podlega proporcjonalnemu podziałowi na osoby uprawnione do renty rodzinnej.
+świadczeń, o których mowa w art. 2 pkt 1 lit. a i b ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin ([Dz. U. z 2017 r. poz. 2193](https://api.sejm.gov.pl/eli/acts/DU/2017/2193/text.html) oraz [z 2019 r. poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.html)),
 
-2. Jeżeli do renty rodzinnej uprawniona jest więcej niż jedna osoba przynajmniej jedna nich uprawniona jest do renty socjalnej, jednorazowe świadczenie pieniężne tytułu renty rodzinnej podlega podziałowi stosownie do liczby osób uprawnionych do renty rodzinnej, wyłączeniem osoby lub osób uprawnionych do renty socjalnej.
+### 2)
 
-3. Osobie lub osobom wyłączonym liczby osób uprawnionych do renty rodzinnej, których mowa ust. 2, przysługuje jednorazowe świadczenie pieniężne tytułu przysługującego prawa do renty socjalnej. świadczeń, których mowa 2 ust. 2, przypadającym maju, wyjątkiem jednorazowego świadczenia pieniężnego przyznanego osobie uprawnionej do świadczeń, których mowa 2 ust. 2 pkt 10, które wypłaca się terminie wypłaty świadczeń przypadającym czerwcu, 49 ust. 3 ustawy, której mowa 2 ust. 2 pkt 2, które wypłaca się terminie wypłaty świadczeń przypadającym lipcu.
+świadczeń z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1-4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2019 r. poz. 299](https://api.sejm.gov.pl/eli/acts/DU/2019/299/text.html) i [303](https://api.sejm.gov.pl/eli/acts/DU/2019/303/text.html)),
 
-**Art. 7.**
+### 3)
 
-1. Decyzje sprawie jednorazowego świadczenia pieniężnego wydaje świadczenie to wypłaca organ wypłacający świadczenie, którym mowa 2 ust. 2.
+świadczeń, o których mowa w art. 12 i art. 16 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ([Dz. U. z 2018 r. poz. 276](https://api.sejm.gov.pl/eli/acts/DU/2018/276/text.html)),
 
-2. W razie zbiegu prawa do świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje sprawie jednorazowego świadczenia pieniężnego wydaje świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
+### 4)
 
-3. Decyzje sprawie jednorazowego świadczenia pieniężnego, sporządzone wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+świadczeń, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2019 r. poz. 289](https://api.sejm.gov.pl/eli/acts/DU/2019/289/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)),
 
-4. Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane przepisach, których mowa 2 ust. 2.
+### 5)
 
-**Art. 8.**
+świadczeń, o których mowa w art. 2 ust. 1 pkt 1 lit. a-c, oraz miesięcznych kwot, o których mowa w art. 15c ust. 3, art. 22a ust. 3 i art. 24a ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2019 r. poz. 288](https://api.sejm.gov.pl/eli/acts/DU/2019/288/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)),
 
-1. Kwoty jednorazowego świadczenia pieniężnego nie wlicza się do dochodu, którym mowa w:
+### 6)
 
-- **1)** 26 ust. 7e 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2021 1128, późn. zm. );
-- **2)** 3 ust. 3 21 czerwca 2001 dodatkach mieszkaniowych (Dz. 2021 2021); do alimentów (Dz. 2022 1205);
-- **6)** 5 ust. 3 4 11 lutego 2016 pomocy państwa wychowywaniu dzieci (Dz. 2019 2407 2021 1162, 1981 2270).
+emerytur i rent, o których mowa w art. 3 pkt 1-3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2018 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2018/1270/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html) oraz [z 2019 r. poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)),
 
-2. W przypadku, którym mowa ust. 1 pkt 3 5, do dochodu członka rodziny nie wlicza się wypłaconej temu członkowi rodziny kwoty jednorazowego świadczenia pieniężnego.
+### 7)
 
-**Art. 9.** Kwoty jednorazowego świadczenia pieniężnego nie wlicza się do przychodu, którym mowa 10 ust. 5 27 czerwca 2003 rencie socjalnej.
+rent, o których mowa w art. 6 ust. 1 pkt 6-8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ([Dz. U. z 2018 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2018/1376/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)),
 
-**Art. 10.** Z kwoty jednorazowego świadczenia pieniężnego nie dokonuje się potrąceń egzekucji.
+### 8)
 
-**Art. 11.**
+rent, o których mowa w art. 3 ust. 1 pkt 1 oraz ust. 3 i 4 ustawy z dnia 30 października 2002 r. o zaopatrzeniu z tytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach ([Dz. U. z 2013 r. poz. 737](https://api.sejm.gov.pl/eli/acts/DU/2013/737/text.html) oraz [z 2018 r. poz. 2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)),
 
-1. Dla celów podatku dochodowego od osób fizycznych jednorazowe świadczenie pieniężne, którym mowa 2 ust. 1, stanowi świadczenie, którym mowa 12 ust. 7 26 lipca 1991 podatku dochodowym od osób fizycznych.
+### 9)
 
-2. Do kwoty jednorazowego świadczenia pieniężnego stosuje się odpowiednio 66 ust. 1 pkt 16, 81 ust. 8 pkt 2 85 ust. 9–11 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 2021 1285, późn. zm. ).
+renty socjalnej, o której mowa w ustawie z dnia 27 czerwca 2003 r. o rencie socjalnej ([Dz. U. z 2018 r. poz. 1340](https://api.sejm.gov.pl/eli/acts/DU/2018/1340/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)),
 
-**Art. 12.** W sprawach nieuregulowanych niniejszej ustawie stosuje się przepisy:
+### 10)
 
-**Art. 13.** (pominięty)
+świadczenia przedemerytalnego i zasiłku przedemerytalnego, o którym mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych ([Dz. U. z 2017 r. poz. 2148](https://api.sejm.gov.pl/eli/acts/DU/2017/2148/text.html) oraz [z 2019 r. poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)),
 
-**Art. 14.** W 2019 do świadczeń emerytalno-rentowych wypłacanych Funduszu Ubezpieczeń Społecznych Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, świadczeń emerytalno-rentowych wypłacanych Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się 29 ust. 10 12 52 ust. 2 pkt 2 lit. b 27 sierpnia 2009 finansach publicznych (Dz. 2017 2077, późn. zm. ).
+### 11)
 
-**Art. 15.** W 2019 minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami paragrafami klasyfikacji wydatków budżetu państwa między częściami budżetowymi 72 – Kasa Rolniczego Ubezpieczenia Społecznego 73 – Zakład Ubezpieczeń Społecznych.
+świadczenia, o którym mowa w art. 2 ust. 1 ustawy z dnia 16 listopada 2006 r. o świadczeniu pieniężnym i uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych ([Dz. U. poz. 1824](https://api.sejm.gov.pl/eli/acts/DU/2006/1824/text.html), [z 2010 r. poz. 1465](https://api.sejm.gov.pl/eli/acts/DU/2010/1465/text.html) oraz [z 2011 r. poz. 696](https://api.sejm.gov.pl/eli/acts/DU/2011/696/text.html)),
 
-**Art. 16.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia .
+### 12)
 
+okresowej emerytury kapitałowej, o której mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych ([Dz. U. z 2018 r. poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2018/926/text.html)),
+
+### 13)
+
+emerytury, o której mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych ([Dz. U. z 2018 r. poz. 1924](https://api.sejm.gov.pl/eli/acts/DU/2018/1924/text.html)),
+
+### 14)
+
+świadczenia, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych ([Dz. U. z 2018 r. poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2018/128/text.html)),
+
+### 15)
+
+okresowej emerytury rolniczej, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw ([Dz. U. poz. 637](https://api.sejm.gov.pl/eli/acts/DU/2012/637/text.html) oraz [z 2017 r. poz. 38](https://api.sejm.gov.pl/eli/acts/DU/2017/38/text.html)),
+
+### 16)
+
+rodzicielskiego świadczenia uzupełniającego, o którym mowa w art. 1 ust. 1 ustawy z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym ([Dz. U. poz. 303](https://api.sejm.gov.pl/eli/acts/DU/2019/303/text.html))
+
+- zwanym dalej „osobami uprawnionymi”.
+
+### 3.
+
+Jednorazowe świadczenie pieniężne nie przysługuje osobom, którym prawo do świadczeń określonych w ust. 2 zostało zawieszone na dzień 30 kwietnia 2019 r.
+
+### 4.
+
+Prawo do jednorazowego świadczenia pieniężnego podlega ponownemu ustaleniu, jeżeli okaże się, że na dzień 30 kwietnia 2019 r. prawo do świadczenia, o którym mowa w art. 2 ust. 2, nie istniało, podlegało zawieszeniu lub przysługiwała wypłata tego świadczenia.
+
+### Art. 3.
+
+W razie zbiegu prawa do więcej niż jednego świadczenia, o którym mowa w art. 2 ust. 2, osobie uprawnionej przysługuje jedno jednorazowe świadczenie pieniężne.
+
+### Art. 4.
+
+### 1.
+
+Do renty rodzinnej, do której uprawniona jest więcej niż jedna osoba, przysługuje jedno jednorazowe świadczenie pieniężne, które podlega proporcjonalnemu podziałowi na osoby uprawnione do renty rodzinnej.
+
+### 2.
+
+Jeżeli do renty rodzinnej uprawniona jest więcej niż jedna osoba i przynajmniej jedna z nich uprawniona jest do renty socjalnej, jednorazowe świadczenie pieniężne z tytułu renty rodzinnej podlega podziałowi stosownie do liczby osób uprawnionych do renty rodzinnej, z wyłączeniem osoby lub osób uprawnionych do renty socjalnej.
+
+### 3.
+
+Osobie lub osobom wyłączonym z liczby osób uprawnionych do renty rodzinnej, o których mowa w ust. 2, przysługuje jednorazowe świadczenie pieniężne z tytułu przysługującego prawa do renty socjalnej.
+
+### Art. 5.
+
+Jednorazowe świadczenie pieniężne przysługuje w wysokości 1100 zł.
+
+### Art. 6.
+
+### 1.
+
+Jednorazowe świadczenie pieniężne wypłaca się osobie uprawnionej z urzędu, wraz ze świadczeniem, o którym mowa w art. 2 ust. 2.
+
+### 2.
+
+Jednorazowe świadczenie pieniężne wypłaca się w terminie wypłaty świadczeń, o których mowa w art. 2 ust. 2, przypadającym w maju, z wyjątkiem jednorazowego świadczenia pieniężnego przyznanego osobie uprawnionej do świadczeń, o których mowa w art. 2 ust. 2 pkt 10, które wypłaca się w terminie wypłaty świadczeń przypadającym w czerwcu, i art. 49 ust. 3 ustawy, o której mowa w art. 2 ust. 2 pkt 2, które wypłaca się w terminie wypłaty świadczeń przypadającym w lipcu.
+
+### Art. 7.
+
+### 1.
+
+Decyzje w sprawie jednorazowego świadczenia pieniężnego wydaje i świadczenie to wypłaca organ wypłacający świadczenie, o którym mowa w art. 2 ust. 2.
+
+### 2.
+
+W razie zbiegu prawa do świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje w sprawie jednorazowego świadczenia pieniężnego wydaje i świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
+
+### 3.
+
+Decyzje w sprawie jednorazowego świadczenia pieniężnego, sporządzone z wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+
+### 4.
+
+Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane w przepisach, o których mowa w art. 2 ust. 2.
+
+### Art. 8.
+
+Kwoty jednorazowego świadczenia pieniężnego nie wlicza się do dochodu, o którym mowa w:
+
+### 1)
+
+art. 26 ust. 7e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2018 r. poz. 1509](https://api.sejm.gov.pl/eli/acts/DU/2018/1509/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271 i 303.](#gloss-0:2:));
+
+### 2)
+
+art. 3 ust. 3 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych ([Dz. U. z 2017 r. poz. 180](https://api.sejm.gov.pl/eli/acts/DU/2017/180/text.html) oraz [z 2018 r. poz. 756](https://api.sejm.gov.pl/eli/acts/DU/2018/756/text.html), [1540](https://api.sejm.gov.pl/eli/acts/DU/2018/1540/text.html) i [2529](https://api.sejm.gov.pl/eli/acts/DU/2018/2529/text.html));
+
+### 3)
+
+art. 3 pkt 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. z 2018 r. poz. 2220](https://api.sejm.gov.pl/eli/acts/DU/2018/2220/text.html) i [2354](https://api.sejm.gov.pl/eli/acts/DU/2018/2354/text.html) oraz [z 2019 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html), [303](https://api.sejm.gov.pl/eli/acts/DU/2019/303/text.html), [577](https://api.sejm.gov.pl/eli/acts/DU/2019/577/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html));
+
+### 4)
+
+art. 8 ust. 3 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2018 r. poz. 1508](https://api.sejm.gov.pl/eli/acts/DU/2018/1508/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730.](#gloss-0:3:));
+
+### 5)
+
+art. 2 pkt 4 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów ([Dz. U. z 2019 r. poz. 670](https://api.sejm.gov.pl/eli/acts/DU/2019/670/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html));
+
+### 6)
+
+art. 5 ust. 3 i 4 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci ([Dz. U. z 2018 r. poz. 2134](https://api.sejm.gov.pl/eli/acts/DU/2018/2134/text.html) i [2354](https://api.sejm.gov.pl/eli/acts/DU/2018/2354/text.html) oraz [z 2019 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html), [303](https://api.sejm.gov.pl/eli/acts/DU/2019/303/text.html), [577](https://api.sejm.gov.pl/eli/acts/DU/2019/577/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)).
+
+### Art. 9.
+
+Kwoty jednorazowego świadczenia pieniężnego nie wlicza się do przychodu, o którym mowa w art. 10 ust. 5 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej.
+
+### Art. 10.
+
+Z kwoty jednorazowego świadczenia pieniężnego nie dokonuje się potrąceń i egzekucji.
+
+### Art. 11.
+
+### 1.
+
+Dla celów podatku dochodowego od osób fizycznych jednorazowe świadczenie pieniężne, o którym mowa w art. 2 ust. 1, stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych.
+
+### 2.
+
+Do kwoty jednorazowego świadczenia pieniężnego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9-11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2018 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2018/1510/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447 i 730.](#gloss-0:4:)).
+
+### Art. 12.
+
+W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy:
+
+### 1)
+
+ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
+
+### 2)
+
+ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, z wyjątkiem art. 46 tej ustawy;
+
+### 3)
+
+ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, z wyjątkiem art. 47 tej ustawy;
+
+### 4)
+
+ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, z wyjątkiem art. 136.
+
+### Art. 13.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2018 r. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2018/1265/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622 i 730.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 108 w ust. 1 w pkt 62 kropkę zastępuje się średnikiem i dodaje się pkt 63 w brzmieniu:
+
+„
+
+### 63)
+
+jednorazowego świadczenia pieniężnego dla emerytów i rencistów, o którym mowa w art. 2 ust. 1 ustawy z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r. ([Dz. U. poz. 743](https://api.sejm.gov.pl/eli/acts/DU/2019/743/text.html)), przysługującego osobom, o których mowa w art. 2 ust. 2 pkt 10 tej ustawy, w roku 2019.
+
+” ;
+
+### 2)
+
+po art. 109j dodaje się art. 109k w brzmieniu:
+
+„
+
+### Art. 109k.
+
+Minister właściwy do spraw pracy, na wniosek Prezesa Zakładu Ubezpieczeń Społecznych, przekazuje w roku 2019 na wyodrębniony rachunek bankowy Zakładu Ubezpieczeń Społecznych środki Funduszu Pracy na wypłatę jednorazowego świadczenia pieniężnego dla emerytów i rencistów w 2019 r., o którym mowa w art. 2 ust. 1 ustawy z dnia 4 kwietnia 2019 r. o jednorazowym świadczeniu pieniężnym dla emerytów i rencistów w 2019 r., przysługującego osobom, o których mowa w art. 2 ust. 2 pkt 10 tej ustawy.
+
+” .
+
+### Art. 14.
+
+W 2019 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i 12 oraz art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2017 r. poz. 2077](https://api.sejm.gov.pl/eli/acts/DU/2017/2077/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303, 326 i 534.](#gloss-0:6:)).
+
+### Art. 15.
+
+W 2019 r. minister właściwy do spraw finansów publicznych, na wniosek właściwego dysponenta części budżetowej, może dokonywać przeniesień wydatków budżetowych między działami, rozdziałami i paragrafami klasyfikacji wydatków budżetu państwa oraz między częściami budżetowymi 72 - Kasa Rolniczego Ubezpieczenia Społecznego oraz 73 - Zakład Ubezpieczeń Społecznych.
+
+### Art. 16.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29, 271 i 303. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1693, 2192, 2245, 2354 i 2529 oraz z 2019 r. poz. 271 i 730. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669, 1925, 2192 i 2429 oraz z 2019 r. poz. 60, 303, 399, 447 i 730. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1149, 1544, 1629, 1669, 2077, 2192, 2215, 2245, 2432 i 2435 oraz z 2019 r. poz. 60, 577, 622 i 730. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500 oraz z 2019 r. poz. 303, 326 i 534.

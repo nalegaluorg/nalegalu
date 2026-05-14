@@ -1,0 +1,1253 @@
+---
+title: "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 11 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne"
+address: WDU20180000331
+eli: DU/2018/331
+publisher: DU
+year: 2018
+pos: 331
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 11 stycznia 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra rodziny, Pracy i Polityki społecznej w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 331 |
+| ISAP | WDU20180000331 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-01-11 |
+| Data wydania | 2018-02-08 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/331/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/331) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra rodziny, Pracy i Polityki sPołecznej z dnia 29 czerwca 2016 r. w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne](#part_2)
+
+- [Załącznik nr 1 - Charakterystyka ekspozycji lub narażenia na pole-EM przy wybranego typu źródłach](#part_3)
+
+- [Załącznik nr 2 - Limity granicznych poziomów oddziaływania pola-EM](#part_4)
+
+- [Załącznik nr 3 - Tekst załącznika](#part_5)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 29 czerwca 2016 r. w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne ([Dz. U. poz. 950](https://api.sejm.gov.pl/eli/acts/DU/2016/950/text.html)), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 grudnia 2016 r. zmieniającym rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne ([Dz. U. poz. 2284](https://api.sejm.gov.pl/eli/acts/DU/2016/2284/text.html) oraz [z 2017 r. poz. 1276](https://api.sejm.gov.pl/eli/acts/DU/2017/1276/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 grudnia 2016 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne ([Dz. U. poz. 2284](https://api.sejm.gov.pl/eli/acts/DU/2016/2284/text.html) oraz [z 2017 r. poz. 1276](https://api.sejm.gov.pl/eli/acts/DU/2017/1276/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Podmioty, którym do dnia 31 grudnia 2016 r. wydano certyfikaty akredytacji laboratoriów badawczych do realizacji pomiaru pola-EM w środowisku pracy, mogą wykonywać pomiary, dostosowując dotychczasowe metody do oceny pola-EM, o której mowa w części III załącznika nr 3 do rozporządzenia zmienianego w § 1, do czasu zaktualizowania zakresu akredytacji uwzględniającego metody, o których mowa w ust. 11 część III załącznika nr 3 do rozporządzenia w brzmieniu nadanym niniejszym rozporządzeniem, jeżeli dana metoda:
+
+### 1)
+
+została opublikowana do dnia 30 kwietnia 2017 r. i podmiot wystąpił lub wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę w terminie do dnia 30 czerwca 2017 r., z tym że jeżeli w terminie do dnia 30 czerwca 2017 r. podmiot nie wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę, po upływie tego terminu wygasa uprawnienie do wykonywania pomiarów z dostosowaniem dotychczasowych metod do oceny pola-EM, o której mowa w części III załącznika nr 3 do rozporządzenia zmienianego w § 1, albo
+
+### 2)
+
+została lub zostanie opublikowana po dniu 30 kwietnia 2017 r., a przed dniem 30 czerwca 2017 r. i podmiot wystąpił lub wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę w terminie do dnia 31 sierpnia 2017 r., z tym że jeżeli w terminie do dnia 31 sierpnia 2017 r. podmiot nie wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę, po upływie tego terminu wygasa uprawnienie do wykonywania pomiarów z dostosowaniem dotychczasowych metod do oceny pola-EM, o której mowa w części III załącznika nr 3 do rozporządzenia zmienianego w § 1, albo
+
+### 3)
+
+zostanie opublikowana po dniu 30 czerwca 2017 r. i podmiot wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę w terminie 60 dni licząc od daty jej opublikowania, z tym że jeżeli w terminie 60 dni licząc od daty jej opublikowania podmiot nie wystąpi o aktualizację zakresu akredytacji uwzględniającego tę metodę, po upływie tego terminu wygasa uprawnienie do wykonywania pomiarów z dostosowaniem dotychczasowych metod do oceny pola-EM, o której mowa w części III załącznika nr 3 do rozporządzenia zmienianego w § 1.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2017 r.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra rodziny, Pracy i Polityki sPołecznej z dnia 29 czerwca 2016 r. w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne[1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej - praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).](#gloss-0:1:)
+
+[2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/35/UE z dnia 26 czerwca 2013 r. w sprawie minimalnych wymagań w zakresie ochrony zdrowia i bezpieczeństwa dotyczących narażenia pracowników na zagrożenia spowodowane czynnikami fizycznymi (polami elektromagnetycznymi) (dwudziesta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) i uchylającą dyrektywę 2004/40/WE (Dz. Urz. UE L 179 z 29.06.2013, str. 1).](#gloss-0:2:) Na podstawie art. 23715§ 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 108](https://api.sejm.gov.pl/eli/acts/DU/2018/108/text.html), [4](https://api.sejm.gov.pl/eli/acts/DU/2018/4/text.html), [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html) i [305](https://api.sejm.gov.pl/eli/acts/DU/2018/305/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Rozporządzenie określa wymagania dotyczące:
+
+### 1)
+
+rozpoznawania obiektów technicznych emitujących pole elektromagnetyczne mające wpływ na bezpieczeństwo i higienę pracy,
+
+### 2)
+
+miar oraz oceny narażenia na pole elektromagnetyczne,
+
+### 3)
+
+miar i limitów oraz oceny bezpośredniego oddziaływania pola elektromagnetycznego na organizm człowieka,
+
+### 4)
+
+ochrony przed szkodliwymi dla zdrowia, niebezpiecznymi lub uciążliwymi skutkami bezpośredniego lub pośredniego oddziaływania pola elektromagnetycznego,
+
+### 5)
+
+środków ochronnych stosowanych w celu zapobiegania zagrożeniom elektromagnetycznym
+
+- stosowane przy pracach, przy których może wystąpić narażenie na pole elektromagnetyczne lub w miejscach narażenia.
+
+### 2.
+
+Przepisów rozporządzenia nie stosuje się do ochrony przed porażeniem przez prąd elektryczny na skutek kontaktu z przewodami zasilającymi lub elementami obiektów technicznych pod napięciem.
+
+### § 2.
+
+### 1.
+
+Pole elektromagnetyczne, zwane dalej „polem-EM”, na potrzeby oceny ekspozycji lub narażenia w przestrzeni pracy oznacza czynnik fizyczny w środowisku pracy, w postaci pola lub promieniowania elektromagnetycznego o częstotliwości z zakresu 0 Hz ≤ f ≤ 300×109Hz, którego składowymi są:
+
+### 1)
+
+pole elektryczne, zwane dalej „polem-E”, które może występować jako pole elektrostatyczne, albo zmienne w czasie pole elektryczne, tworzące składową elektryczną pola-EM;
+
+### 2)
+
+pole magnetyczne, zwane dalej „polem-M”, które może występować jako pole magnetostatyczne, albo zmienne w czasie pole magnetyczne, tworzące składową magnetyczną pola-EM.
+
+### 2.
+
+Wielkościami charakteryzującymi pole-EM w przestrzeni pracy są: E - natężenie pola-E: wielkość wektorowa charakteryzująca pole-E w określonym miejscu, wyrażona w woltach na metr [V/m]; alternatywną wielkością charakteryzującą pole-E o częstotliwości f < 5Hz jest ładunek elektryczny indukowany na ciele Q, wyrażony w kulombach [C]; H - natężenie pola-M: wielkość wektorowa charakteryzująca pole-M w określonym miejscu, wyrażona w amperach na metr [A/m]; alternatywną wielkością charakteryzującą pole-M jest indukcja magnetyczna B, wyrażona w teslach [T]; f - częstotliwość pola-EM: skalarna miara zmienności w czasie okresowo zmiennego pola-EM, określająca liczbę cyklów zmienności w jednostce czasu dla wybranej wielkości charakteryzującej pole-EM w określonym miejscu, wyrażaną w hercach [Hz]; na potrzeby oceny ekspozycji lub narażenia w przestrzeni pracy częstotliwość rozpoznaje się z rozdzielczością nie gorszą niż ±10%.
+
+### 3.
+
+W zależności od częstotliwości, na potrzeby oceny ekspozycji lub narażenia w przestrzeni pracy, pole-EM określa się jako:
+
+### 1)
+
+pole elektrostatyczne, zwane dalej „PES”, rozumiane jako pole-E o częstotliwości z zakresu f ≤ 5 Hz, występujące wokół ładunków elektrycznych lub obwodów wysokonapięciowych;
+
+### 2)
+
+pole magnetostatyczne, zwane dalej „PMS”, rozumiane jako pole-M o częstotliwości z zakresu f ≤ 5 Hz, występujące wokół magnesów trwałych lub obwodów wysokoprądowych;
+
+### 3)
+
+zmienne w czasie pole-EM, czyli zmienne pole-E i pole-M, występujące wokół obiektów technicznych zasilanych energią elektryczną, określone jako:
+
+### a)
+
+pole-EM quasi -statyczne, zwane dalej „PQS”, rozumiane jako pole-EM o częstotliwości z zakresu 5 Hz < f ≤ 100×103Hz,
+
+### b)
+
+pole-EM wielkiej częstotliwości, zwane dalej „PWCZ”, rozumiane jako pole-EM o częstotliwości z zakresu 100×103Hz < f ≤ 300×106Hz,
+
+### c)
+
+promieniowanie mikrofalowe, zwane dalej „PMF”, rozumiane jako pole-EM o częstotliwości z zakresu 300×106Hz < f < 300×109Hz.
+
+### 4.
+
+Pojęcia stosowane w odniesieniu do pola-EM na potrzeby oceny ekspozycji lub narażenia oznaczają:
+
+### 1)
+
+pole-EM bliskie - pole-EM, którego oddziaływanie w przestrzeni pracy charakteryzują dwie niezależne wielkości, natężenie pola-E i natężenie pola-M; przy częstotliwości pola-EM f>800×106Hz dopuszcza się wyznaczenie wartości skutecznej natężenia pola-M na podstawie wartości skutecznej natężenia pola-E według zależności wiążącej te wielkości z wartością impedancji swobodnej przestrzeni: E/H = 377 omów;
+
+### 2)
+
+pole-EM harmoniczne - pole-E lub pole-M sinusoidalnie zmienne w czasie, którego zmienność charakteryzuje częstotliwość fi amplituda natężenia pola-E (Ef ) lub pola-M (Hf );
+
+### 3)
+
+pole-EM modulowane - pole-EM traktowane jest jako modulowane, gdy wynik wyznaczania wartości miar narażenia odpowiadających limitom IPN uzależniony jest, co najmniej w 50%, od jednego lub więcej parametrów modulacji pola-EM, w szczególności: zakresu zmian amplitudy, częstotliwości, fazy lub czasu trwania impulsów i częstotliwości ich powtarzania;
+
+### 4)
+
+pole-EM niezaburzone - pole-EM, w którym rozkład przestrzenny natężenia pola-E i natężenia pola-M nie został zmieniony wskutek obecności obiektów, które nie są stałym elementem przestrzeni pracy lub przebywających tam osób; przyjmuje się, że pole-EM jest niezaburzone, kiedy zmiany te nie przekraczają ±10%;
+
+### 5)
+
+pole-EM stref ochronnych - pole o natężeniu pola-E lub natężeniu pola-M z zakresu określonego jako strefa: pośrednia, zagrożenia lub niebezpieczna.
+
+### § 3.
+
+Użyte w rozporządzeniu określenia oznaczają:
+
+### 1)
+
+limity GPO - wartości Granicznych Poziomów Oddziaływania rozumianych jako miary oddziaływania bezpośredniego, obejmującego skutki biofizyczne w organizmie człowieka, w szczególności skutki termiczne lub pobudzenie elektryczne tkanek, wywołane bezpośrednim oddziaływaniem pola-EM;
+
+### 2)
+
+limity IPN - wartości Interwencyjnych Poziomów Narażenia rozumianych jako miary narażenia na pole-EM, określające poziomy operacyjne ustalone w celu wykazywania, że przy określonym poziomie narażenia poziom oddziaływania jest zgodny z odnośnymi limitami GPO lub w celu zastosowania odpowiednich środków ochronnych;
+
+### 3)
+
+miejsce narażenia - część przestrzeni pracy (terenu, obiektu budowlanego lub pomieszczenia), w której występuje pole-EM stref ochronnych;
+
+### 4)
+
+narażenie - oddziaływanie pola-EM stref ochronnych;
+
+### 5)
+
+osoba potencjalnie narażona - każdą osobę mającą dostęp do miejsca narażenia, mimo że nie wykonuje prac przy użytkowaniu źródła pola-EM;
+
+### 6)
+
+osoba szczególnie chroniona - osobę, która podlega ograniczeniom dotyczącym przebywania w polu-EM stref ochronnych: kobieta w ciąży, młodociany, użytkownik aktywnych lub pasywnych implantów medycznych, osoba, u której stwierdzono przeciwskazania do wykonywania pracy w warunkach narażenia;
+
+### 7)
+
+poziom ekspozycji lub narażenia - poziom natężenia niezaburzonego pola-EM w przestrzeni pracy, charakteryzowany w danym miejscu wartościami miejscowymi natężenia pola-E lub natężenia pola-M;
+
+### 8)
+
+pracujący - osobę wykonującą prace przy użytkowaniu źródła pola-EM: pracownik, osoba fizyczna wykonująca te prace na innej podstawie niż stosunek pracy albo osoba prowadząca na własny rachunek działalność gospodarczą;
+
+### 9)
+
+środki ochronne - środki ochrony zbiorowej, środki ochrony indywidualnej i inne techniczne środki ochronne stosowane w celu ograniczenia poziomu emisji lub narażenia lub działania techniczno -organizacyjne podejmowane w celu zapobiegania zagrożeniom elektromagnetycznym;
+
+### 10)
+
+użytkowanie źródła pola-EM - wszystkie prace wykonywane przy obiekcie lub w jego otoczeniu, podczas których może on stać się pierwotnym lub wtórnym źródłem pola-EM, o parametrach zależnych od rodzaju tych prac, obejmujące w szczególności:
+
+### a)
+
+regulację parametrów roboczych, kontrolę techniczną lub inne czynności przy produkcji źródła pola-EM,
+
+### b)
+
+prace badawczo -rozwojowe dotyczące źródła lub wykorzystania pola-EM,
+
+### c)
+
+prace eksploatacyjne przy źródle pola-EM, wykonywane w zakresie:
+
+- - obsługi związanej ze zmianą parametrów działania podczas zamierzonego stosowania źródła pola-EM, w granicach nominalnych parametrów roboczych,
+
+- - konserwacji, przeglądów serwisowych, regulacji lub innych prac, polegających na utrzymaniu odpowiedniej zdolności użytkowej i bezpieczeństwa funkcjonalnego,
+
+- - remontów polegających na wykrywaniu niesprawności, usuwaniu usterek, naprawie uszkodzeń lub wymianie zużytych elementów, w celu osiągnięcia wymaganego stanu technicznego,
+
+- - montażu związanego z instalowaniem, przyłączaniem, rozbudową lub przebudową źródła pola-EM,
+
+- - prac kontrolno -pomiarowych dotyczących prób i pomiarów kontrolnych do oceny stanu technicznego, parametrów eksploatacyjnych, sprawności i funkcjonowania układów regulacji źródła pola-EM,
+
+### d)
+
+transport źródła pola-EM,
+
+### e)
+
+zamierzone wykorzystywanie pola-EM w różnych celach użytkowych,
+
+### f)
+
+prace renowacyjne dotyczące utrzymania odpowiedniego stanu obiektów technicznych związanych z użytkowanym źródłem pola-EM, takich jak: słupy, maszty i inne konstrukcje wsporcze, ogrodzenia, pomieszczenia i obiekty budowlane,
+
+### g)
+
+prace dotyczące utrzymania porządku lub czystości przy źródle pola-EM i w jego otoczeniu,
+
+### h)
+
+prace podczas pomiarów parametrów pola-EM w przestrzeni pracy;
+
+### 11)
+
+użytkownik - pracodawcę, który użytkuje źródła pola-EM lub przestrzeń pracy, w której występuje pole-EM emitowane ze źródła znajdującego się w tej przestrzeni lub poza nią;
+
+### 12)
+
+zagrożenia elektromagnetyczne - szkodliwe dla zdrowia, niebezpieczne lub uciążliwe skutki bezpośredniego lub pośredniego oddziaływania pola-EM, powstające w przestrzeni pracy ze względu na:
+
+### a)
+
+bezpośrednie skutki biofizyczne oddziaływania pola-EM na organizm człowieka, obejmujące:
+
+- - skutki termiczne - ogrzanie tkanki przez pochłoniętą energię pola-EM,
+
+- - skutki pozatermiczne - pobudzenie mięśni, nerwów lub narządów zmysłów, które mogą mieć szkodliwy wpływ na zdrowie psychiczne lub fizyczne; pobudzenie narządów zmysłów może prowadzić do przejściowych objawów, takich jak zawroty głowy czy wrażenia wzrokowe, mogące powodować przejściowe uciążliwości lub wpływać na funkcje poznawcze lub inne funkcje mózgu lub mięśni, przez co mogą wpływać na zdolność do bezpiecznego wykonywania pracy,
+
+- - prądy kończynowe indukowane - prądy pojemnościowe indukowane bezpośrednio w organizmie, przepływające w kończynach,
+
+### b)
+
+pośrednie skutki oddziaływania pola-EM na inne obiekty, obejmujące:
+
+- - zakłócenie działania urządzeń elektronicznych, w szczególności powodujące zakłócenie działania elektronicznego sprzętu medycznego i elektronicznych wyrobów medycznych przeznaczonych do wprowadzenia w całości lub w części do ludzkiego ciała, takich jak stymulatory serca, pompy insulinowe i inne aktywne implanty medyczne, spowodowane wrażliwością urządzeń na oddziaływanie pola-EM,
+
+- - skutki termiczne oddziaływania na implanty mechaniczne, w szczególności na endoprotezy ortopedyczne lub naczyniowe i inne pasywne implanty medyczne,
+
+- - zagrożenie balistyczne, rozumiane jako zagrożenie powodowane gwałtownym przemieszczaniem się przedmiotów ferromagnetycznych w PMS,
+
+- - uruchomienie elektrycznych urządzeń (sieci strzałowe, zapalniki) inicjujących detonację materiałów wybuchowych,
+
+- - zapłon materiałów łatwopalnych lub atmosfer wybuchowych, którego źródło mogą stanowić: wyładowania elektrostatyczne, iskrzenie w obiektach technicznych spowodowane prądem indukowanym w tych obiektach lub wyładowania iskrowe spowodowane prądem kontaktowym stanu przejściowego,
+
+- - prądy kończynowe kontaktowe - prądy przepływające w kończynach podczas dotykania obiektu w polu-EM, które mogą występować jako prądy: kontaktowe stanu ustalonego, gdy osoba ma ciągłą styczność z obiektem, lub kontaktowe stanu przejściowego, występujące w momencie rozpoczęcia lub przerwania styczności z obiektem;
+
+### 13)
+
+źródło pola-EM - obiekt techniczny tworzący:
+
+### a)
+
+pierwotne źródło pola-EM, rozumiane jako obiekt techniczny zasilany energią elektryczną, naelektryzowany lub magnes trwały, emitujący pole-EM w trakcie użytkowania jako:
+
+- - źródło zamierzone, z którego emisja pola-EM jest skutkiem przewidywanego działania tego obiektu w różnych celach użytkowych,
+
+- - źródło niezamierzone, z którego emisja pola-EM towarzyszy procesom zachodzącym w tym obiekcie, w szczególności przepływowi prądu elektrycznego,
+
+### b)
+
+wtórne źródło pola-EM, rozumiane jako obiekt metalowy, podlegający oddziaływaniom zewnętrznego pola-EM, emitowanego z innego źródła.
+
+### § 4.
+
+Ze względu na ochronę przed zagrożeniami elektromagnetycznymi ustala się limity narażenia na pola-EM i limity bezpośredniego oddziaływania pola-EM, wyznaczone jako:
+
+### 1)
+
+limity IPN, określone w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy ([Dz. U. z 2017 r. poz. 1348](https://api.sejm.gov.pl/eli/acts/DU/2017/1348/text.html));
+
+### 2)
+
+limity GPO, określone w załączniku nr 2 do rozporządzenia.
+
+### § 5.
+
+### 1.
+
+Użytkownik rozpoznaje źródła pola-EM znajdujące się w przestrzeni pracy lub poza nią oraz poziom ekspozycji w przestrzeni pracy, wykorzystując w tym celu dane dotyczące:
+
+### 1)
+
+parametrów technicznych źródła pola-EM określonych przez producenta w instrukcji eksploatacji lub innej dokumentacji technicznej;
+
+### 2)
+
+środków ochronnych zastosowanych w celu ograniczania emisji ze źródła pola-EM stanowiących jego stałe wyposażenie, w szczególności: blokad, obudów, osłon lub ekranów;
+
+### 3)
+
+poziomu emisji ze źródła pola-EM do środowiska lub poziomu pola-EM w jego otoczeniu, dostępne na podstawie wymagań określonych w odrębnych przepisach;
+
+### 4)
+
+charakterystyki ekspozycji na pole-EM, w szczególności przedstawione w załączniku nr 1 do rozporządzenia;
+
+### 5)
+
+zakresu użytkowania źródła pola-EM oraz wpływu wykonywanych prac na poziom emisji lub poziom ekspozycji.
+
+### 2.
+
+Użytkownik nie rozpatruje pola-EM jako czynnika szkodliwego dla zdrowia w przestrzeni pracy, jeżeli na podstawie działań określonych w ust. 1 zostało udokumentowane występowanie w tej przestrzeni pola-EM strefy bezpiecznej, w szczególności gdy:
+
+### 1)
+
+na podstawie danych, o których mowa w ust. 1 pkt 3, wykazano w przestrzeni pracy występowanie pola-EM strefy bezpiecznej i nie rozpoznano źródeł pola-EM innych, niż uwzględnione przy sporządzaniu tych danych;
+
+### 2)
+
+ekspozycja w przestrzeni pracy wynika wyłącznie z oddziaływania pola-EM emitowanego przez elektryczny sprzęt powszechnego użytku, rozumiany jako sprzęt o znamionowym napięciu zasilania nie przekraczającym 250 V (dla sprzętu jednofazowego) lub 480 V (dla innego sprzętu), przeznaczony do użytkowania w gospodarstwach domowych lub w warunkach podobnych, w szczególności w biurach, sklepach lub hotelach.
+
+### 3.
+
+Na podstawie działań, określonych w ust. 1 i 2, użytkownik wyznacza miejsca w przestrzeni pracy oraz pracujących i osoby potencjalnie narażone, których może dotyczyć oddziaływanie pola-EM stref ochronnych.
+
+### § 6.
+
+### 1.
+
+W miejscach, o których mowa w § 5 ust. 3, dokonuje się oceny poziomu narażenia na pole-EM źródeł pierwotnych i wtórnych na podstawie posiadanych przez użytkownika i odpowiednio udokumentowanych informacji, ze szczególnym uwzględnieniem danych, o których mowa w § 5 ust. 1, a w przypadku ich braku albo niedostatecznego zakresu - na podstawie pomiarów wykonywanych w trybie określonym w rozporządzeniu Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy ([Dz. U. poz. 166](https://api.sejm.gov.pl/eli/acts/DU/2011/166/text.html)).
+
+### 2.
+
+Minimalne wymagania dotyczące oceny pola-EM w przestrzeni pracy określono w części III załącznika nr 3 do rozporządzenia.
+
+### § 7.
+
+Na podstawie oceny poziomu narażenia, o której mowa w § 6, dla zidentyfikowanych w przestrzeni pracy źródeł pola-EM wyznacza się zasięgi pola-EM stref ochronnych.
+
+### § 8.
+
+### 1.
+
+Użytkownik rozpoznaje i ocenia zagrożenia elektromagnetyczne w miejscach narażenia, ze szczególnym uwzględnieniem prac podczas użytkowania rozpoznanych źródeł pola-EM oraz:
+
+### 1)
+
+miar narażenia i limitów IPN;
+
+### 2)
+
+rodzaju pola-EM w danym miejscu oraz jego zmienności w czasie i częstotliwości, czasu i poziomu narażenia oraz jego rozkładu w przestrzeni;
+
+### 3)
+
+bezpośrednich skutków biofizycznych oddziaływania pola-EM oraz ich miar i limitów GPO;
+
+### 4)
+
+wszelkich skutków pośrednich oddziaływania pola-EM mających wpływ na bezpieczeństwo i higienę pracy;
+
+### 5)
+
+skutków dla zdrowia osób szczególnie chronionych;
+
+### 6)
+
+dostępności środków technicznych ograniczających emisję lub poziom narażenia;
+
+### 7)
+
+informacji uzyskanych w wyniku profilaktycznych badań lekarskich pracowników;
+
+### 8)
+
+informacji technicznych dostarczanych przez producenta źródła pola-EM;
+
+### 9)
+
+innych dostępnych informacji dotyczących ochrony zdrowia i bezpieczeństwa pracy;
+
+### 10)
+
+narażenia na pole-EM emitowane przez więcej niż jedno źródło pola-EM;
+
+### 11)
+
+jednoczesnego narażenia na pola-EM o różnych częstotliwościach, wywołujących różne skutki bezpośrednie i pośrednie.
+
+### 2.
+
+Ocenę zagrożeń elektromagnetycznych dokumentuje się w zakresie określonym w ust. 1, z uwzględnieniem danych dotyczących działań i ocen, wykonywanych zgodnie z załącznikiem nr 3 do rozporządzenia.
+
+### 3.
+
+Użytkownik ocenia zagrożenia elektromagnetyczne w regularnych odstępach czasu uzależnionych od rodzaju i poziomu zagrożeń, nie rzadziej niż co 4 lata.
+
+### 4.
+
+Do sporządzania, przechowywania i udostępniania dokumentacji dotyczącej rozpoznania i oceny zagrożeń elektromagnetycznych, o której mowa w ust. 2 i 3, stosuje się rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy ([Dz. U. z 2003 r. poz. 1650](https://api.sejm.gov.pl/eli/acts/DU/2003/1650/text.html), [z 2007 r. poz. 330](https://api.sejm.gov.pl/eli/acts/DU/2007/330/text.html), [z 2008 r. poz. 690](https://api.sejm.gov.pl/eli/acts/DU/2008/690/text.html) oraz [z 2011 r. poz. 1034](https://api.sejm.gov.pl/eli/acts/DU/2011/1034/text.html)).
+
+### § 9.
+
+Użytkownik wykonuje działania określone w § 5-8 każdorazowo, jeżeli wystąpiły okoliczności, które mogły spowodować nieaktualność danych dotyczących rozpoznania źródeł pola-EM, oceny poziomu narażenia lub oceny zagrożeń elektromagnetycznych, w szczególności:
+
+### 1)
+
+zmiany w wyposażeniu technicznym, procesie technologicznym lub warunkach wykonywania pracy;
+
+### 2)
+
+zmiany dotyczące danych, o których mowa w § 5 ust. 1 pkt 3;
+
+### 3)
+
+niepożądane skutki dla zdrowia, o których mowa w § 13 ust. 2;
+
+### 4)
+
+zmiany poziomów emisji lub narażenia, spowodowane procesami zużycia technicznego źródeł pola-EM i ich wyposażenia, ze szczególnym uwzględnieniem źródeł pola-EM, w których zastosowano środki ochronne wymienione w § 5 ust. 1 pkt 2.
+
+### § 10.
+
+### 1.
+
+Użytkownik eliminuje zagrożenia elektromagnetyczne, uwzględniając wszelkie dostępne środki techniczne, ograniczające emisję pola-EM u jego źródła lub ograniczające narażenie na pole-EM, a jeżeli jest to niemożliwe, stosuje środki ochronne ograniczające te zagrożenia w inny sposób, przy odpowiednim wykorzystaniu osiągnięć nauki i techniki.
+
+### 2.
+
+W przypadku gdy ocena zagrożeń elektromagnetycznych wykaże możliwość oddziaływania pola-EM stref ochronnych na pracujących lub osoby potencjalnie narażone, użytkownik opracowuje i wprowadza w życie program stosowania środków ochronnych, zapobiegających możliwości przekroczenia limitów GPO oraz wystąpienia bezpośrednich i pośrednich zagrożeń elektromagnetycznych.
+
+### 3.
+
+W programie, o którym mowa w ust. 2, użytkownik uwzględnia, w zależności od rozpoznanych zagrożeń elektromagnetycznych w przestrzeni pracy i ich poziomu, w szczególności działania polegające na:
+
+### 1)
+
+wprowadzaniu metod pracy ograniczających poziom narażenia na pole-EM;
+
+### 2)
+
+doborze urządzeń o możliwie najniższej emisji pola-EM, zapewniających osiągnięcie zamierzonych wyników ich użytkowania;
+
+### 3)
+
+ograniczaniu emisji pola-EM środkami technicznymi, w przypadkach koniecznych przez stosowanie urządzeń ochronnych, w szczególności: blokad, obudów, osłon, ekranów i innych środków ochrony zbiorowej;
+
+### 4)
+
+wyznaczaniu zasięgów pola-EM stref ochronnych oraz ograniczeniu do nich dostępu i odpowiedniemu oznakowaniu źródeł pola-EM, miejsc narażenia i rozpoznanych rodzajów zagrożeń; jeżeli dostęp do tych źródeł lub miejsc narażenia jest, z powodu innych zagrożeń, odpowiednio ograniczony za pomocą środków technicznych, a pracujący lub osoby potencjalnie narażone zostali poinformowani o zagrożeniach elektromagnetycznych, nie są wymagane znaki i ograniczenie dostępu specyficzne dla pola-EM;
+
+### 5)
+
+stosowaniu środków technicznych ograniczających wyładowania iskrowe i prądy kończynowe oraz zapoznaniu pracujących ze środkami ochronnymi stosowanymi w zakresie tych zagrożeń;
+
+### 6)
+
+właściwej konserwacji źródeł pola-EM i ich wyposażenia, stosowanych urządzeń ochronnych i środków ochrony zbiorowej oraz wyposażenia miejsc i stanowisk pracy;
+
+### 7)
+
+projektowaniu miejsc pracy i rozmieszczaniu stanowisk pracy w sposób umożliwiający izolowanie ich od źródeł pola-EM oraz ograniczający jednoczesne narażenie na pola-EM emitowane przez różne źródła;
+
+### 8)
+
+ograniczaniu czasu trwania i poziomu narażenia;
+
+### 9)
+
+zapewnieniu prawidłowo dobranych środków ochrony indywidualnej;
+
+### 10)
+
+przestrzeganiu instrukcji producentów sprzętu, w szczególności w zakresie bezpiecznego użytkowania, zapobiegającego powstawaniu szkodliwych emisji pola-EM lub nadmiernych poziomów narażenia.
+
+### 4.
+
+Minimalne wymagania w zakresie stosowania środków ochronnych, dotyczących zagrożeń elektromagnetycznych, podejmowanych w przestrzeni pracy, w której rozpoznano pola-EM stref ochronnych, określono w części I załącznika nr 3 do rozporządzenia.
+
+### 5.
+
+Dane dotyczące stosowanych środków ochronnych sporządza się, zachowuje i wykorzystuje zgodnie z rozporządzeniem Ministra Pracy i Polityki Socjalnej z dnia 26 września 1997 r. w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy.
+
+### 6.
+
+Wymagań określonych w ust. 2-5 nie stosuje się do zagrożeń elektromagnetycznych przy urządzeniach techniki wojskowej emitujących pole-EM, których wykorzystanie w Siłach Zbrojnych jest objęte regulacjami wewnętrznymi Ministra Obrony Narodowej, pod warunkiem że personelowi zapewniony jest porównywalny poziom ochrony przed szkodliwymi dla zdrowia, niebezpiecznymi lub uciążliwymi skutkami bezpośredniego lub pośredniego oddziaływania pola-EM.
+
+### § 11.
+
+### 1.
+
+Oddziaływanie pola-EM na organizm człowieka nie może powodować bezpośrednich skutków oddziaływania, przy których przekroczone są limity GPO. Jeżeli górne limity GPO zostaną przekroczone, niezwłocznie podejmuje się stosowanie środków ochronnych w celu zmniejszenia narażenia do poziomu, przy którym limity GPO nie są przekroczone. Użytkownik rozpoznaje i rejestruje przyczyny przekroczenia limitów GPO oraz odpowiednio dostosowuje środki ochronne tak, aby zapobiec ponownemu przekroczeniu tych wartości.
+
+### 2.
+
+Minimalne wymagania dotyczące oceny zgodności poziomu bezpośredniego oddziaływania pola-EM z limitami GPO określono w części II załącznika nr 3 do rozporządzenia.
+
+### § 12.
+
+### 1.
+
+W ramach szkoleń w dziedzinie bezpieczeństwa i higieny pracy, użytkownik zapewnia pracownikom, dla których przebywanie w polu-EM rozpoznanych stref ochronnych nie zostało wykluczone, wszelkie niezbędne informacje dotyczące wyników oceny zagrożeń elektromagnetycznych, w szczególności dotyczące:
+
+### 1)
+
+środków ochronnych oraz zasad ograniczania poziomu narażenia lub ograniczania zagrożeń, jakie należy stosować na podstawie rozporządzenia z uwagi na rozpoznane zagrożenia elektromagnetyczne;
+
+### 2)
+
+limitów IPN i limitów GPO oraz możliwych bezpośrednich skutków oddziaływania pola-EM na organizm człowieka, w tym objawów przejściowych;
+
+### 3)
+
+możliwych skutków pośrednich oraz stwarzanych przez nie zagrożeń dla bezpieczeństwa i higieny pracy;
+
+### 4)
+
+występowania pola-EM stref ochronnych oraz potencjalnych skutków dla bezpieczeństwa i higieny pracy wynikających z poziomów pola-E i pola-M rozpoznanych w przestrzeni pracy;
+
+### 5)
+
+sposobów wykrywania i zgłaszania niekorzystnych dla zdrowia skutków narażenia oraz zakresu profilaktycznej opieki zdrowotnej, o której mowa w § 13;
+
+### 6)
+
+bezpiecznych sposobów pracy ograniczających zagrożenia wynikające z oddziaływania pola-EM;
+
+### 7)
+
+prawidłowego stosowania odpowiednio dobranych środków ochronnych;
+
+### 8)
+
+ograniczeń dotyczących oddziaływania pola-EM na osoby szczególnie chronione.
+
+### 2.
+
+Użytkownik konsultuje z pracownikami lub ich przedstawicielami wszystkie działania dotyczące:
+
+### 1)
+
+rozpoznania źródeł pola-EM i typowania miejsc narażenia oraz wykonywania badań i pomiarów natężeń pola-E i pola-M, zgodnie z rozporządzeniem Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy;
+
+### 2)
+
+bezpieczeństwa i higieny pracy przy narażeniu na pola-EM, zgodnie z art. 23711a ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### 3.
+
+Użytkownik, u którego prace wykonują pracownicy zatrudniani przez różnych pracodawców, osoby fizyczne wykonujące prace na innej podstawie niż stosunek pracy lub osoby prowadzące na własny rachunek działalność gospodarczą, którzy mają dostęp do pola-EM stref ochronnych, jest obowiązany dostarczyć tym pracodawcom lub osobom wszelkich niezbędnych informacji, o których mowa w ust. 1, oraz informacji, o których mowa w art. 2071 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
+
+### § 13.
+
+### 1.
+
+Pracownikom, którzy mają dostęp do przestrzeni pola-EM rozpoznanych stref ochronnych, w skierowaniu na profilaktyczne badania lekarskie użytkownik przekazuje lekarzowi sprawującemu profilaktyczną opiekę zdrowotną nad pracownikami odpowiednie informacje dotyczące charakterystyki pola-EM i poziomu narażenia w przestrzeni pracy dostępnej dla pracownika, zgodnie z rozporządzeniem Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy ([Dz. U. z 2016 r. poz. 2067](https://api.sejm.gov.pl/eli/acts/DU/2016/2067/text.html)).
+
+### 2.
+
+Użytkownik zapewnia przeprowadzenie badań lekarskich poza terminami wynikającymi z częstotliwości wykonywania badań okresowych, określonymi w rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów przewidzianych w Kodeksie pracy:
+
+### 1)
+
+pracownikowi - w przypadku zgłoszenia niepożądanych skutków dla zdrowia;
+
+### 2)
+
+pracującemu - w przypadku podejrzenia, że skutkiem narażenia mogło być przekroczenie górnych limitów GPO.
+
+### § 14.
+
+Jeżeli nie zachodzą okoliczności określone w § 9, sporządzona przed dniem wejścia w życie rozporządzenia dokumentacja w zakresie wyników badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy, przeprowadzonych na podstawie rozporządzenia Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy, oraz wykonana na ich podstawie ocena zagrożeń elektromagnetycznych i zastosowane środki ochronne, zachowują ważność:
+
+### 1)
+
+przez okres 2 lat od ostatniego pomiaru, podczas którego stwierdzono występowanie tylko strefy pośredniej;
+
+### 2)
+
+przez okres 1 roku od ostatniego pomiaru, podczas którego stwierdzono występowanie strefy zagrożenia albo strefy zagrożenia i strefy niebezpiecznej.
+
+### § 15.
+
+Wydane przed dniem 1 lipca 2016 r. certyfikaty akredytacji laboratoriów badawczych do realizacji pomiaru pola-EM w środowisku pracy, zgodnie z wymaganiami Polskich Norm PN-T-06580-1 i PN-T-06580-3, upoważniają do wykonywania pomiarów metodami dostosowanymi do oceny ekspozycji na pole-EM, o której mowa w części III załącznika nr 3 do rozporządzenia, w okresie do dnia 31 grudnia 2016 r. albo do czasu zaktualizowania zakresu akredytacji, jeżeli przed tym dniem laboratorium wystąpi o taką aktualizację.
+
+### § 16.
+
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2016 r.
+
+1) Minister Rodziny, Pracy i Polityki Społecznej kieruje działem administracji rządowej - praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady 2013/35/UE z dnia 26 czerwca 2013 r. w sprawie minimalnych wymagań w zakresie ochrony zdrowia i bezpieczeństwa dotyczących narażenia pracowników na zagrożenia spowodowane czynnikami fizycznymi (polami elektromagnetycznymi) (dwudziesta dyrektywa szczegółowa w rozumieniu art. 16 ust. 1 dyrektywy 89/391/EWG) i uchylającą dyrektywę 2004/40/WE (Dz. Urz. UE L 179 z 29.06.2013, str. 1).
+
+## Załącznik nr 1 - Charakterystyka ekspozycji lub narażenia na pole-EM przy wybranego typu źródłach
+
+Lp. Źródła pola-EM Charakterystyka pola-EM przy źródle Poziom ekspozycji/narażenia przy źródle pola-EM PMS PES PQS PWCZ PMF SEN SN 1. Elektryczny sprzęt powszechnego użytku - - T - - T MT 2. Systemy elektroenergetyczne i elektryczna instalacja zasilająca MT - T - - T MT 3. Telefony komórkowe, bezprzewodowe i urządzenia bezprzewodowe krótkiego zasięgu (WLAN, WiFi, bluetooth, itp.) - - - T T T - 4. Stacje bazowe systemów telefonii komórkowej - - - T T T MT 5. Nadawcze systemy tele- i radiokomunikacyjne (radio, telewizja, itp.) - - - T T T MT 6. Pojazdy elektryczne (pociągi, tramwaje, trolejbusy, metro) T - T - - T MT 7. Systemy antykradzieżowe oraz elektronicznej kontroli obiektów - - T T T T MT 8. Diatermie chirurgiczne - - - T - MT T 9. Diatermie fizykoterapeutyczne - - - T T MT T 10. Urządzenia do magnetoterapii MT - T - - T MT 11. Skanery rezonansu magnetycznego T - T T - MT T 12. Urządzenia do spawania łukowego T - T - - T MT 13. Urządzenia do grzania dielektrycznego (suszenia lub zgrzewania) - - - T MT - T 14. Urządzenia do grzania indukcyjnego - - T MT - MT T 15. Zgrzewarki rezystancyjne - - T - - MT T 16. Przemysłowe magnetyzatory i demagnetyzatory T - T - - MT T 17. Instalacje elektrolityczne T - MT - - T MT 18. Przemysłowe piece, nagrzewnice i suszarki mikrofalowe - - - - T T MT 19. Spektrometry NMR T - - T T T MT 20. Systemy radarowe - - - MT T MT T 21. Urządzenia techniki wojskowej - - - T MT T MT 22. Urządzenia do wytwarzania i przetwarzania tworzyw sztucznych - T - MT MT MT T Oznaczenia przyjęte w tabeli: PES, PMS, PQS, PWCZ, PMF - zgodnie z § 2 ust. 3 rozporządzenia. SEN - ekspozycja lub słabe narażenie; szczegółowa ocena zagrożeń elektromagnetycznych i środki ochronne dotyczące zapobiegania skutkom bezpośrednim nie są konieczne podczas użytkowania zgodnie z przeznaczeniem, pod warunkiem właściwego funkcjonowania źródeł pola-EM i organizacji pracy. SN - silne narażenie; konieczne są: szczegółowa ocena poziomu narażenia i zagrożeń elektromagnetycznych oraz środki ochronne. T - typowe częstotliwości pola-EM emitowanego przez źródła; najbardziej typowe/prawdopodobne warunki ekspozycji/narażenia na pole-EM przy źródle. MT - inne (lub alternatywne) częstotliwości pola-EM emitowanego przez źródła; mniej typowe warunki ekspozycji/narażenia na pole-EM przy źródle. Uwagi:
+
+### 1.
+
+W tabeli zaprezentowano charakterystyki wybranych źródeł pola-EM i poziomów ekspozycji/narażenia, występujące najczęściej w przestrzeni pracy przy takich źródłach, ułatwiające rozeznanie, gdzie niezbędne jest wdrożenie oceny poziomu narażenia i zagrożeń elektromagnetycznych oraz stosowanie środków ochronnych.
+
+### 2.
+
+W tabeli nie zaprezentowano wszystkich urządzeń i instalacji elektrycznych stanowiących źródła pola-EM, których może dotyczyć konieczność rozpoznania poziomów narażenia na pole-EM podczas ich użytkowania, zgodnie z wymaganiami określonymi w § 5-9 rozporządzenia.
+
+### 3.
+
+W tabeli nie uwzględniono prac przy zwiększonym poziomie emisji ze źródeł pola-EM, w szczególności: napraw przy zdjętych zabezpieczeniach lub obudowach urządzeń, prac technicznych w pobliżu aktywnych anten nadawczych albo kontroli automatycznych linii produkcyjnych przy działających urządzeniach będących źródłami pola-EM, dla których warunki narażenia należy oceniać zgodnie z wymaganiami określonymi w § 5-9 rozporządzenia.
+
+## Załącznik nr 2 - Limity granicznych poziomów oddziaływania pola-EM
+
+### 1.
+
+Ustala się limity miar oddziaływania bezpośredniego pola-EM, jako limity Granicznych Poziomów Oddziaływania, zwane dalej „limity GPO”, obowiązujące łącznie i określone w:
+
+### 1)
+
+tabeli 1 dla miar bezpośrednich skutków biofizycznych: termicznych i pozatermicznych;
+
+### 2)
+
+tabeli 2 dla prądu kończynowego: indukowanego i kontaktowego.
+
+### 2.
+
+Limity GPO dotyczą natychmiastowych i ostrych, określonych na podstawie względów biofizycznych i biologicznych, bezpośrednich skutków biofizycznych oddziaływania pola-EM na organizm człowieka.
+
+### 3.
+
+Limity GPO określone w tabelach 1 i 2 nie są parametrami środowiska pracy i nie podlegają pomiarom wykonywanym w trybie określonym w rozporządzeniu Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. poz. 166).
+
+### 4.
+
+Limity GPO określono jako:
+
+### 1)
+
+GPOg - górne GPO, po przekroczeniu których występują niekorzystne skutki dla zdrowia, takie jak ogrzanie tkanek lub pobudzenie tkanki nerwowej i mięśniowej;
+
+### 2)
+
+GPOd - dolne GPO, po przekroczeniu których występują przejściowe zakłócenia percepcji zmysłowej lub niewielkie zmiany funkcji mózgu;
+
+### 3)
+
+GPOu - uzupełniające GPO, dotyczące prądu kończynowego.
+
+### 5.
+
+Do limitów GPO, określonych w tabelach 1 i 2, zastosowano oznaczenia: H - natężenie pola-M indukowanego w organizmie, wyrażane w megaamperach na metr [MA/m], dotyczące oddziaływania ogólnego PMS, obejmującego całe ciało; Hk - natężenie pola-M indukowanego w organizmie, wyrażane w megaamperach na metr [MA/m], dotyczące oddziaływania miejscowego PMS obejmującego kończyny; Ew - natężenie pola-E indukowanego w organizmie, wyrażane w woltach na metr [V/m]; SA - energia pochłonięta w tkance biologicznej o masie jednostkowej, wyrażana w milidżulach na kilogram [mJ/kg], dotycząca wrażeń słuchowych spowodowanych narażeniem głowy na modulowane PMF; SARcc - szybkość pochłaniania właściwego energii, wyrażana w watach na kg [W/kg], dotycząca skutków termicznych narażenia w całym ciele; SARgt- szybkość pochłaniania właściwego energii, wyrażana w watach na kg [W/kg], dotycząca miejscowych skutków termicznych narażenia w głowie i tułowiu; SARk- szybkość pochłaniania właściwego energii, wyrażana w watach na kg [W/kg], dotycząca miejscowych skutków termicznych narażenia w kończynach; Es - natężenie pola-E padającego na powierzchnię ciała, wyrażane w woltach na metr [V/m], dotyczące powierzchniowych skutków termicznych oddziaływania PMF; Ikk - natężenie prądu kończynowego kontaktowego, przepływającego w kończynach w wyniku dotykania obiektu w polu-EM, wyrażane w miliamperach [mA]; Iki - natężenie prądu kończynowego indukowanego, powstającego na skutek indukcji prądu pojemnościowego bezpośrednio w organizmie, wyrażane w miliamperach [mA].
+
+### 6.
+
+W dziedzinie czasu limity GPO dotyczą zróżnicowanych miar narażenia, określonych jako:
+
+### 1)
+
+wartość szczytowa (P) - maksymalna wartość chwilowa wybranego parametru charakteryzującego oddziaływanie pola-EM w określonym miejscu, w ciągu określonego przedziału czasu (T),
+
+### 2)
+
+wartość skuteczna (RMS) - wartość wybranego parametru charakteryzującego oddziaływanie pola-EM w określonym miejscu definiowana zgodnie z uśrednioną w czasie zależnością całkową, reprezentującą ekwiwalent ciepła wydzielonego podczas przepływu prądu, wyrażana liczbowo zależnością: \( X_{RMS} = \sqrt {{1 \over {T_{RMS} }}\mathop \smallint \limits_0^{T_{RMS} } x^2 (t)dt} \) gdzie: x(t) - wartość chwilowa wybranego parametru charakteryzującego pole-EM w rozpatrywanym momencie czasu t, Trms - przedział czasu, w którym obliczana jest wartość skuteczna; jeżeli TRMS = 1/ f , to jest to okres zmian w czasie wartości chwilowej wybranego parametru. Dla pól harmonicznych wartość RMS równa jest wartości P podzielonej przez √2
+
+### 3)
+
+wartość średnia (SR) - wartość wybranego parametru charakteryzującego oddziaływanie pola-EM w określonym miejscu, wyrażana liczbowo zależnością: \( X_{SR} = {1 \over {T_{SR} }}\mathop \smallint \limits_0^{T_{SR} } x(t)dt \) gdzie: x(t) - wartość chwilowa wybranego parametru charakteryzującego pole-EM w rozpatrywanym momencie czasu t, TSR- przedział czasu, w którym obliczana jest wartość średnia; jeżeli TSR = 1/f, to jest to okres zmian w czasie wartości chwilowej wybranego parametru.
+
+### Tabela 1. LIMITY GRANICZNYCH POZIOMÓW ODDZIAŁYWANIA POLA-EM DOTYCZĄCE BEZPOŚREDNICH SKUTKÓW BIOFIZYCZNYCH
+
+Lp. Częstotliwość Limit GPO dotyczące bezpośredniego oddziaływania pola-EM -1- -2- -3- -4- -5- -6- -8- -9- -10- -11- -12- f GPOd-H1) GPOd-Hk1) GPOg-H1) GPOd-Ew2) GPOg-Ew2) GPOg-SARcc3) GPOg-SARgt3) GPOg-SARk3) GPOd-SA4) GPOg-Es5) Hz MA/m (P) MA/m (P) MA/m (P) V/m (P) V/m (P) W/kg (SR) W/kg (SR) W/kg (SR) mJ/kg (P) V/m (RMS) 1 0 < f < 0,66 1,6 1,6 6,4 1,1 1,1 - - - - - 2 0,66 < f < 1 0,7/f 3 1</<10 - - - 4 10< f <25 - - - 0,07 5 25 < f < 400 - - - 0,0028xf 6 400< f <3 × 103 - - - - 7 3 × 103< f <100 × 103 - - - - 3,8 × f × 10-4 8 100 × 103< f <10 × 106 - - - - 0,4 10 20 9 10 × 106< f <300 × 106 - - - - - 10 300 × 106 < f < 6 × 109 - - - - - 10 11 6 × 109<f<300 × 109 - - - - - - - - - 140 Objaśnienia do tabeli 1: 1) Wartości GPO dotyczące maksymalnej w przestrzeni wartości natężenia PMS, o częstotliwości f=(0-1) Hz, wyrażonej jako wartość szczytowa (P) w dziedzinie czasu określono jako:
+
+### a)
+
+GPOd-H - dolne GPO dotyczące normalnych warunków pracy, związane są z ograniczaniem zawrotów głowy i innych skutków fizjologicznych zaburzeń ludzkiego narządu równowagi, wynikających głównie z ruchu ciała człowieka w PMS. Limit ten dotyczy również maksymalnej zmiany natężenia PMS, ∆H, w dowolnym okresie T=3 sekundy podczas ruchu ciała człowieka w PMS lub wartości między szczytowej H(PP) zmiennego w czasie PMS; alternatywnie stosuje się: GPOd-H=1,6 MA/m i GPOd-B=2 T,
+
+### b)
+
+GPOd-Hk - dolne GPO dotyczące miejscowego oddziaływania PMS na kończyny podczas normalnych warunków pracy; alternatywnie stosuje się: GPOd-Hk=1,6 MA/m i GPOd-Bk=2 T,
+
+### c)
+
+GPOg-H - górne GPO dotyczące kontrolowanych warunków pracy, mają tymczasowe zastosowanie podczas dnia pracy, jeżeli jest to uzasadnione stosowaną praktyką lub technologią, pod warunkiem że zostały wdrożone odpowiednie środki ochronne, takie jak: poinformowanie, przeszkolenie i instruktaż oraz organizacja miejsca i sposobu pracy zapewniająca ograniczenie ruchu pracującego lub osoby potencjalnie narażonej; alternatywnie stosuje się: GPOg-H=6,4 MA/m i GPOg-B=8 T,
+
+### d)
+
+podczas oddziaływania PMS o częstotliwości: f < 5 Hz, powstającego wskutek ruchu pracującego lub osoby potencjalnie narażonej w otoczeniu źródła PMS, należy zapewnić, aby szczytowa wartość pochodnej natężenia PMS względem czasu nie przekraczała wartości: dH/dt < 2,16 (MA/m)/s (ekwiwalentnie: dB/dt < 2,7 T/s).
+
+2) Wartości GPO dotyczące maksymalnej wartości natężenia Ew indukowanego w organizmie pola-E wskutek oddziaływania pola-EM o częstotliwości 0 Hz < f < 10 × 106 Hz, wyrażonej jako wartość szczytowa (P) w dziedzinie czasu określono jako:
+
+### a)
+
+GPOd-Ew - dolne GPO dotyczące indukowanego pola-E dotyczą wartości maksymalnych w przestrzeni w głowie narażonej osoby. Wartości GPOd są związane z ograniczaniem skutków oddziaływania pola-E na ośrodkowy układ nerwowy w głowie, takich jak wrażenia wzrokowe w siatkówce i niewielkie przejściowe zmiany pewnych funkcji mózgu,
+
+### b)
+
+GPOg-Ew - górne GPO dotyczące indukowanego pola-E dotyczą wartości maksymalnych w przestrzeni w całym ciele narażonej osoby. Wartości GPOg są związane z ograniczaniem pobudzenia elektrycznego wszystkich tkanek obwodowego i ośrodkowego układu nerwowego w organizmie, w tym w głowie,
+
+### c)
+
+w przypadku pól nieharmonicznych ocena GPO jest oparta na metodzie ważonej wartości szczytowej (filtracja w dziedzinie czasu), albo równorzędnej procedurze naukowo sprawdzonej i zwalidowanej.
+
+3) Wartości GPO dotyczące wartości energii pochłoniętej w organizmie przez tkankę o masie jednostkowej wskutek oddziaływania pola-EM o częstotliwości 0,1 × 106 Hz < f < 6 × 109 Hz, wyrażonej jako SAR uśredniony w ciele i w okresie TSR=dowolne 6 minut:
+
+### a)
+
+GPOg-SARcc - górne GPO związane z ograniczaniem stresu cieplnego całego ciała,
+
+### b)
+
+GPOg-SARgt - górne GPO związane z ograniczaniem miejscowego stresu cieplnego w głowie i tułowiu,
+
+### c)
+
+GPOg-SARk - górne GPO związane z ograniczaniem miejscowego stresu cieplnego w kończynach,
+
+### d)
+
+wartość SAR uśredniona względem całego ciała lub części ciała jest to szybkość, z jaką energia jest pochłaniana w organizmie przez tkankę o masie jednostkowej, będąca miarą niekorzystnych skutków termicznych oddziaływania PWCZ lub PMF. Oprócz uśrednionej względem całego ciała wartości SAR, konieczne jest wykorzystanie miejscowych wartości SAR do oceny i ograniczania nadmiernego nagromadzenia energii w niewielkich częściach ciała, wynikającego ze szczególnych warunków oddziaływania pola-EM, w szczególności oddziaływania na człowieka PWCZ emitowanego przez zgrzewarki dielektryczne lub anteny,
+
+### e)
+
+miejscowy SAR jest uśredniany w dowolnych 10 g zwartej tkanki, stanowiąc masę zwartej tkanki o jednorodnych w przybliżeniu właściwościach dielektrycznych. W dozymetrii obliczeniowej „masa zwartej tkanki” może być reprezentowana prostym modelem geometrycznym tkanek, jak np. sześcian lub kula, i wykorzystana do oszacowania poziomu oddziaływania bezpośredniego PWCZ lub PMF podczas oceny maksymalnej wartości SAR. Wielkość taka nie jest adekwatna przy bezpośrednich pomiarach fizycznych.
+
+4) Wartości GPO dotyczące miejscowej wartości energii pochłoniętej SA w niewielkiej masie tkanki w głowie wskutek oddziaływania PMF o częstotliwości 0,3 × 109 Hz < f < 6 × 109 Hz określono jako:
+
+### a)
+
+GPOd-SA - dolne GPO dotyczące energii pochłoniętej w organizmie przez tkankę o masie jednostkowej. Wartości GPOd są związane z ograniczaniem wrażeń słuchowych spowodowanych narażeniem głowy na modulowane PMF,
+
+### b)
+
+masa tkanki, w której uśredniana jest miejscowa wartość SA wynosi 10 g.
+
+5) Wartości GPO dotyczące wartości natężenia pola-E padającego na powierzchnię ciała wskutek narażenia na PMF o częstotliwości 6 × 109 Hz < f < 300 × 109 Hz określono jako:
+
+### a)
+
+GPOg-Es - górne GPO dotyczące ograniczania oddziaływania pola-E padającego na powierzchnię ciała,
+
+### b)
+
+natężenie pola Es uśrednia się na dowolnych 20 cm2 narażonej powierzchni. Maksymalna w przestrzeni wartość natężenia pola-E uśrednionego na 1 cm2 nie powinna czterystu-krotnie przekroczyć wartości GPOg-Es,
+
+### c)
+
+aby skompensować zmniejszanie się głębokości wnikania PMF wraz ze wzrostem częstotliwości, podczas oceny natężenie pola Es o częstotliwości 6 × 109 Hz < f < 10 × 109 Hz przyjmuje się: TRMS=dowolne 6 minut, a dla częstotliwości f > 10 × 109 Hz przyjmuje się TEMS=dowolne (50/f) minut (gdzie f jest częstotliwością w Hz podzieloną przez 109),
+
+### d)
+
+alternatywną miarą dla GPOg-Es jest gęstość mocy padającego PMF, dla której wartość GPO wynosi 50 W/m2. Maksymalna w przestrzeni wartość gęstości mocy uśrednionej na 1 cm2 nie powinna dwudziesto-krotnie przekroczyć wartości 50 W/m2.
+
+### Tabela 2. LIMITY GRANICZNYCH POZIOMÓW ODDZIAŁYWANIA DLA PRĄDU KOŃCZYNOWEGO KONTAKTOWEGO ORAZ INDUKOWANEGO
+
+Lp. Częstotliwość Limit GPOu jako: f GPOu-Ikk1),3),5) GPOu-Iki2),4) Hz mA (RMS) mA (RMS) -1- -2- -3- 1 1 ≤ f < 2,5 × 103 1,0 - 2 2,5 × 103 ≤ f < 100 × 103 0,4 × f ×10-3 3 100 × 103 ≤ f < 10 × 106 40 4 10 × 106 ≤ f < 110 × 106 40 100 Objaśnienia do tabeli 2: 1) GPOu-Ikk - wartości natężenia kończynowego prądu kontaktowego stanu ustalonego w kończynie górnej. 2) GPOu-Iki - wartości natężenia indukowanego prądu kończynowego w dowolnej kończynie. 3) Prąd kontaktowy stanu ustalonego występuje w dowolnej kończynie, gdy ciało ma ciągłą styczność z obiektem w polu-EM i podczas jego oceny przyjmuje się TRMS=1/f. W chwili dotykania do obiektu może nastąpić wyładowanie iskrowe, któremu towarzyszą prądy stanu przejściowego. 4) Podczas oceny zagrożeń wynikających ze skutków termicznych oddziaływania kończynowego prądu indukowanego (Iki) przyjmuje się: TRMS=dowolne 6 minut. 5) Wartości natężenia kończynowego prądu kontaktowego (Ikk) nie dotyczą oceny zagrożenia wynikającego z zapłonu atmosfer wybuchowych w rozumieniu § 4 ust. 4 pkt 2 rozporządzenia Ministra Gospodarki z dnia 8 lipca 2010 r. w sprawie minimalnych wymagań, dotyczących bezpieczeństwa i higieny pracy, związanych z możliwością wystąpienia w miejscu pracy atmosfery wybuchowej (Dz. U. poz. 931).
+
+## Załącznik nr 3 - Tekst załącznika
+
+### I.
+
+ŚRODKI OCHRONNE
+
+### 1.
+
+Użytkownik dostosowuje środki ochronne do charakterystyki przestrzeni pracy i urządzeń, jakie są tam eksploatowane, rozpoznanych źródeł pola-EM i zakresu ich użytkowania, rodzaju wykonywanej tam pracy oraz rodzaju, częstotliwości i poziomu pola-EM.
+
+### 2.
+
+Dostosowując środki ochronne do poziomu pola-EM w przestrzeni pracy, użytkownik uwzględnia wymagania dotyczące przebywania w przestrzeni pola-EM stref ochronnych, określone w ust. 3 i 8.
+
+### 3.
+
+Przestrzeń pola-EM stref ochronnych rozumiana jest jako przestrzeń pracy, w której natężenie pola-E lub natężenie pola-M przekracza limit dolnej granicy strefy pośredniej, odpowiednio IPNp-E lub IPNp-H, określony w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. z 2017 r. poz. 1348), w której wyróżnia się:
+
+### 1)
+
+przestrzeń pola-EM strefy niebezpiecznej - przebywanie w której, określane jako narażenie niebezpieczne, w ramach codziennej praktyki jest zabronione;
+
+### 2)
+
+przestrzeń pola-EM strefy zagrożenia - przebywanie w której jest dopuszczane pod warunkiem stosowania środków ochronnych określonych ze względu na rozpoznane zagrożenia elektromagnetyczne wynikające z bezpośrednich lub pośrednich skutków oddziaływania pola-EM;
+
+### 3)
+
+przestrzeń pola-EM strefy pośredniej - przebywanie w której jest dopuszczane pod warunkiem stosowania środków ochronnych ze względu na rozpoznane zagrożenia elektromagnetyczne wynikające z pośrednich skutków oddziaływania pola-EM.
+
+Przebywanie w przestrzeni pola-EM strefy zagrożenia lub pośredniej określane jest jako narażenie kontrolowane.
+
+### 4.
+
+Przestrzeń pola-EM strefy bezpiecznej określona jest jako przestrzeń poza strefami ochronnymi, do której nie określono warunków ograniczających ekspozycję. Przebywanie w przestrzeni pola-EM strefy bezpiecznej określane jest jako ekspozycja pomijalna.
+
+### 5.
+
+Na podstawie rozpoznania lub oceny zagrożeń elektromagnetycznych dla rozpoznanych w przestrzeni pracy źródeł pola-EM wyznacza się zasięgi pola-EM stref ochronnych. Limity IPN rozgraniczające pola-EM stref ochronnych określono w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.
+
+### 6.
+
+Ze względu na powiązanie środków ochronnych z rozpoznanymi zasięgami pola-EM stref ochronnych, jako wartość miejscowego natężenia pola-E i pola-M przyjmuje się wynik jego oceny (bez jego niepewności), pod warunkiem zastosowania procedur oceny, dla których naukowo sprawdzono i zwalidowano doświadczalnie oraz udokumentowano niepewność standardową wyników nie gorszą od ±30%.
+
+### 7.
+
+Do określenia w przestrzeni, jakiej strefy pola-EM jest zlokalizowane miejsce wykonywania pracy, przyjmuje się maksymalne miejscowe wartości natężenia pola-E i natężenia pola-M w pionie pomiarowym odpowiadającym położeniu osi głównej ciała.
+
+### 8.
+
+W przestrzeni pola-EM stref ochronnych narażenie kontrolowane jest dopuszczalne warunkowo, jeżeli:
+
+### 1)
+
+dotyczy osób, u których w wyniku badań profilaktycznych nie stwierdzono przeciwwskazań do narażenia na pole-EM;
+
+### 2)
+
+przeprowadzono rozpoznanie i ocenę zagrożeń elektromagnetycznych w przestrzeni pracy;
+
+### 3)
+
+rozpoznane zagrożenia elektromagnetyczne zostały wyeliminowane lub ograniczone przez stosowanie środków ochronnych; w procesie rozpoznania i oceny zagrożeń elektromagnetycznych dopuszcza się wykorzystanie danych z recenzowanych publikacji, opracowanych przez kompetentne laboratoria instytutów naukowo-badawczych lub uniwersytetów technicznych, o udokumentowanej umiejętności wykonania oceny oddziaływania pola-EM w środowisku pracy i związanych z nim zagrożeń elektromagnetycznych, jeżeli można wykazać jednoznaczne powiązanie ich z charakterystyką zagrożeń elektromagnetycznych rozpoznanych w przestrzeni pracy i spełnienie minimalnych wymagań dotyczących oceny zagrożeń, określonych w części II lub III niniejszego załącznika;
+
+### 4)
+
+narażenie na pole-EM jest okresowo oceniane;
+
+### 5)
+
+odpowiednio oznakowano zasięgi przestrzeni pola-EM stref ochronnych oraz rodzaje występujących tam zagrożeń elektromagnetycznych, w szczególności w otoczeniu źródeł pola-EM o stałej lokalizacji zastosowano trwałe oznaczenia zasięgu pola-EM stref ochronnych naniesione na podłodze lub wyznaczone w inny sposób; do oznaczenia źródeł pola-EM, zasięgów stref ochronnych i rodzajów rozpoznanych zagrożeń elektromagnetycznych stosuje się tablice informacyjne lub znaki graficzne, w szczególności określone w normach PN-T-06260:1974 lub PN-EN ISO 7010:2012;
+
+### 6)
+
+uwzględniono specyficzne ograniczenia dotyczące oddziaływania pola-EM na osoby szczególnie chronione;
+
+### 7)
+
+rozmieszczono stanowiska pracy w sposób ograniczający narażenie;
+
+### 8)
+
+warunki wykonywania pracy zapewniają, że dziennie narażenie jest tymczasowe, jak określono w części III niniejszego załącznika do rozporządzenia;
+
+### 9)
+
+pracujący i osoby potencjalnie narażone zostali poinformowani o rozpoznanych zagrożeniach elektromagnetycznych i zapoznani z zastosowanymi środkami ochronnymi.
+
+### 9.
+
+W przestrzeni pracy w polu-EM stref ochronnych dostosowuje się zakres środków ochronnych oraz informowania, przeszkolenia lub instruktażu do specyfiki zidentyfikowanych rodzajów narażenia i związanych z nimi zagrożeń, w szczególności:
+
+### 1)
+
+ze względu na oddziaływanie PES lub PQS elektrycznego stosuje się odpowiednie środki ochronne, takie jak:
+
+### a)
+
+środki i procedury ograniczania wyładowań iskrowych i prądów kończynowych kontaktowych za pomocą środków technicznych, takich jak: uziemianie przedmiotów roboczych oraz łączenie ekwipotencjalne pracowników z przedmiotami roboczymi,
+
+### b)
+
+stosowanie, w odpowiednich przypadkach, środków ochrony indywidualnej, w szczególności: obuwia i rękawic elektroizolacyjnych lub innej odzieży ochronnej;
+
+### 2)
+
+ze względu na oddziaływanie PMS lub PQS magnetycznego, gdy wystąpiły objawy przejściowe, użytkownik rozpatruje aktualność oceny zagrożeń elektromagnetycznych i stosowanych środków ochronnych oraz podejmuje odpowiednie działania, w szczególności takie jak: organizacja miejsca i sposobu pracy zapewniająca ograniczenie ruchu pracującego lub osoby potencjalnie narażonej przy źródle pola; objawy przejściowe, o których mowa powyżej, to w szczególności:
+
+### a)
+
+zakłócenia percepcji zmysłowej lub funkcjonowania ośrodkowego układu nerwowego, spowodowane zmiennym w czasie polem-EM,
+
+### b)
+
+skutki oddziaływania PMS podczas ruchu pracującego przy jego źródle, takie jak zawroty głowy i mdłości;
+
+### 3)
+
+ze względu na oddziaływanie PWCZ lub PMF stosuje się odpowiednie środki ochronne, takie jak: środki i procedury ograniczania prądów kończynowych, stosowanie ubiorów ochronnych zabezpieczających przed oddziaływaniem pola-EM, ograniczenia dostępu do źródeł emisji pola-EM z tego zakresu częstotliwości.
+
+### 10.
+
+W przestrzeni pracy w polu-EM stref ochronnych stosowane środki ochronne dostosowuje się do specyfiki złożonych zagrożeń zawodowych, w szczególności rozpoznaje się prace:
+
+### 1)
+
+szczególnie niebezpieczne, w rozumieniu przepisów w sprawie ogólnych przepisów bezpieczeństwa i higieny pracy, wydanych na podstawie art. 23715 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy;
+
+### 2)
+
+stwarzające możliwość wystąpienia szczególnego zagrożenia dla zdrowia lub życia ludzkiego, które powinny być wykonywane przez co najmniej dwie osoby w celu zapewnienia asekuracji, określone na podstawie art. 225 ustawy z dnia 26 czerwca 1974 r. - Kodeksu pracy.
+
+### 11.
+
+W uzasadnionych okolicznościach, tymczasowe narażenia na pole-EM strefy niebezpiecznej jest dopuszczalne, jeżeli nie zostaną przekroczone górne limity GPO i spełnione są łącznie następujące warunki:
+
+### 1)
+
+udokumentowano okoliczności przemawiające za koniecznością wykonania prac związanych z narażeniem na pole-EM strefy niebezpiecznej;
+
+### 2)
+
+ocena poziomu narażenia i zagrożeń elektromagnetycznych przeprowadzona zgodnie z § 6-8 rozporządzenia wykazała, że zostały przekroczone limity IPNog lub dolne limity GPO;
+
+### 3)
+
+zastosowano wszystkie techniczne i organizacyjne środki ochronne, z uwzględnieniem najnowszego stanu wiedzy, w szczególności dotyczące prac, o których mowa w ust. 10;
+
+### 4)
+
+uwzględniono charakterystykę miejsca pracy, sprzętu roboczego lub praktyk roboczych;
+
+### 5)
+
+użytkownik wykaże, że pracujący lub osoby potencjalnie narażone są w dalszym ciągu chronieni przed niekorzystnymi skutkami dla zdrowia i zagrożeniami bezpieczeństwa, a wskaźnik narażenia W<5;
+
+### 6)
+
+w ramach profilaktycznej opieki medycznej lekarz medycyny pracy informowany jest, że pracownika dotyczy narażenie na pole-EM strefy niebezpiecznej.
+
+### 12.
+
+Zastosowane środki ochronne, określone w ust. 2-11, dokumentuje się uwzględniając w szczególności dane dotyczące:
+
+### 1)
+
+przestrzeni pracy, miejsc i stanowisk pracy oraz narażonych osób, których dotyczy ocena zagrożeń elektromagnetycznych;
+
+### 2)
+
+zidentyfikowanej przestrzeni obsługi;
+
+### 3)
+
+przestrzeni wyłączonej z dostępu oraz podjętych w tym celu działań;
+
+### 4)
+
+pierwotnych i wtórnych źródeł pola-EM rozpoznanych w przestrzeni pracy;
+
+### 5)
+
+poziomu ekspozycji na pole-EM, w tym zidentyfikowanego narażenia w przestrzeni pola-EM stref ochronnych i oceny jego tymczasowości;
+
+### 6)
+
+oceny zróżnicowanych warunków użytkowania źródeł pola-EM i ich wpływu na poziom ekspozycji, z uwzględnieniem wymagań dotyczących osób szczególnie chronionych;
+
+### 7)
+
+środków organizacyjno-technicznych jakie zastosowano albo zamierza się zastosować w celu wyeliminowania lub ograniczenia poszczególnych zagrożeń elektromagnetycznych oraz miejsc i stanowisk pracy, których one dotyczą;
+
+### 8)
+
+trybu i terminu planowanej aktualizacji dokumentacji.
+
+### II.
+
+MINIMALNE WYMAGANIA DOTYCZĄCE OCENY ZGODNOŚCI POZIOMU BEZPOŚREDNIEGO ODDZIAŁYWANIA POLA-EM Z LIMITAMI GPO
+
+### 1.
+
+Oddziaływanie pola-EM na organizm człowieka nie może powodować bezpośrednich skutków oddziaływania przekraczających limity GPO.
+
+### 2.
+
+Spełnienie wymagań dotyczących narażenia na pole-EM o natężeniach pola-E i pola-M mniejszych od poziomu górnej granicy strefy zagrożenia, odpowiednio IPNog-E i IPNog-H, określonych w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy, jest operacyjną metodą wykazania zgodności poziomu bezpośrednich skutków oddziaływania pola-EM z limitami GPO.
+
+### 3.
+
+Limity GPO uważa się za spełnione również w przypadku oddziaływania pola-EM strefy niebezpiecznej, jeżeli po zastosowaniu uśredniania w czasie zgodnie z zasadami wynikającymi z definicji limitów GPO odpowiednich do charakterystyki pola-EM rozpoznanego w przestrzeni pracy, wartości natężenia pola-E i pola-M nie przekraczają wartości liczbowych takich, jak określono dla odpowiednich limitów IPNob-E i IPNob-H, a także w przypadku zgodności wartości natężenia pola-E i natężenia pola-M z wartościami odpowiednich limitów dodatkowych IPNm-E i IPNm-H, określonych w rozporządzaniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.
+
+### 4.
+
+Jeżeli prace przy źródle pola-EM wymagają dotykania obiektów, które są pierwotnym albo wtórnym źródłem pola-EM strefy zagrożenia lub niebezpiecznej, to pomiary natężeń pola-E i pola-M nie mogą być jedynym kryterium oceny bezpośrednich skutków oddziaływania pola-EM. Wymagana jest dodatkowa ocena na podstawie udokumentowanych wyników badań, obliczeń lub ekspertyz, uwzględniających warunki ekspozycji i zasady oceny limitów GPO:
+
+### 1)
+
+w przypadku stwierdzenia, że miejscowe natężenie pola-E lub miejscowe natężenie pola-M przekracza odpowiednią wartość limitu IPNob, należy wykazać, że przez zastosowanie środków ochronnych zapewniono, że poziom bezpośredniego oddziaływania pola-EM nie przekracza limitów dotyczących prądu kończynowego (ze względu na limity GPO dotyczące kończyn) oraz ładunku elektrostatycznego (ze względu na limity GPO dotyczące PES i PQS);
+
+### 2)
+
+w innych szczególnych przypadkach prowadzi się wprost ocenę miar bezpośredniego oddziaływania pola-EM, w stosunku do których określono limity GPO, odpowiednie do charakterystyki pola-EM rozpoznanego w przestrzeni pracy.
+
+### 5.
+
+W badaniach dotyczących miar bezpośredniego oddziaływania pola-EM na człowieka, powiązanych z odpowiednimi dla charakterystyki narażenia na pole-EM limitami GPO, stosuje się metody symulacji komputerowych:
+
+### 1)
+
+algorytmy i metody numeryczne symulacji komputerowych odpowiednie do oceny miar ustalonych dla GPO, uznane przez kompetentne gremia międzynarodowe, w szczególności zalecane przez normy europejskie lub międzynarodowe;
+
+### 2)
+
+realistyczne modele rozpoznanych źródeł pól-EM i przestrzeni pracy, reprezentatywne dla sposobu użytkowania źródła i zwalidowane doświadczalnie;
+
+### 3)
+
+odpowiednie dla ocenianych limitów GPO fantomy ciała człowieka, reprezentatywne dla populacji polskich pracowników.
+
+### 6.
+
+Wyniki oceny zgodności poziomu oddziaływania pola-EM na narażone osoby z limitami GPO wymagają zwalidowania doświadczalnego oraz interpretacji wyników uwzględniającej niepewność i reprezentatywność zastosowanej procedury oceny, uwzględniającej wpływ czynników, takich jak: błędy metod numerycznych, modelowania źródeł, geometrii fantomów oraz właściwości elektrycznych tkanek i materiałów - określone zgodnie z odpowiednią dobrą praktyką w tej dziedzinie.
+
+### 7.
+
+Badania dotyczące limitów GPO prowadzą kompetentne laboratoria instytutów naukowo-badawczych lub uniwersytetów technicznych, o udokumentowanej umiejętności wykonania oceny bezpośredniego oddziaływania pola-EM w środowisku pracy i związanych z nim zagrożeń elektromagnetycznych.
+
+### III.
+
+MINIMALNE WYMAGANIA DOTYCZĄCE OCENY POLA-EM W PRZESTRZENI PRACY
+
+### 1.
+
+Podstawowe pojęcia dotyczące oceny pola-EM:
+
+### 1)
+
+pion pomiarowy - linia pionowa, w której znajdują się punkty pomiarowe podczas oceny zasięgu pola-EM stref ochronnych w przestrzeni pracy, zlokalizowane od dostępnej powierzchni co najmniej do wysokości 2 metrów;
+
+### 2)
+
+punkt pomiarowy - punkt w przestrzeni pracy, reprezentujący rozkład przestrzenny poziomu miejscowych wartości natężenia pola-E lub pola-M, określonego z odpowiednią do stosowanej metody badań precyzją co najwyżej 2 miejsc znaczących bez zakresu ich niepewności, uśrednionego w przestrzeni o kształcie sześcianu o długości krawędzi 10 cm, której środek reprezentuje położenie referencyjnej bezkierunkowej sondy niezaburzonego pola-EM bliskiego; za wartość natężenia pola-E bezpośrednio przy metalowych obiektach przyjmuje się wartość: E=3E1-2E2, wyznaczoną na podstawie miejscowych wartości E1 i E2, określonych w odległości od obiektu odpowiednio: 10 cm i 20 cm, oraz analogicznie dla wartości natężenia pola-M;
+
+### 3)
+
+narażenie quasi-stacjonarne - oddziaływanie pola-EM, podczas którego miara narażenia odpowiednia dla natężenia pola-E i natężenia pola-M zmienia się nie więcej niż ±20%, obejmując zmienność wynikającą z charakterystyki źródła pola-EM oraz rodzaju pracy wykonywanej przy źródle;
+
+### 4)
+
+narażenie ogólne - oddziaływanie pola-EM, podczas którego maksymalne miejscowe natężenie pola-E lub natężenie pola-M oddziałującego na głowę lub tułów przekracza wartości odpowiedniego limitu IPNp-E lub IPNp-H, dotyczącego pola-EM strefy pośredniej, określone w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy;
+
+### 5)
+
+narażenie miejscowe - oddziaływanie pola-EM, podczas którego maksymalne miejscowe natężenie pola-E lub pola-M oddziałującego miejscowo, w szczególności na kończyny, głowę lub tułów, przekracza wartości odpowiedniego limitu IPNp-E lub IPNp-H, dotyczącego pola-EM strefy pośredniej, określone w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy, które jest charakteryzowane przez rozkład przestrzenny miejscowych wartości natężenia niejednorodnego pola-E i pola-M, z rozdzielczością nie gorszą niż ok. ±20 cm;
+
+### 6)
+
+narażenie tymczasowe - oddziaływanie pola-EM, podczas którego wskaźnik narażenia nie przekracza wartość równej jeden (W<1);
+
+### 7)
+
+wskaźnik narażenia - wskaźnik dziennego narażenia ogólnego, wyznaczany jako suma wskaźników narażenia wynikających z narażenia quasi-stacjonarnego, zgodnie z zależnością: W = Tg(E/IPNob-E)2 + Tg(H/IPNob-H)2 gdzie: Tg - bezwymiarowy współczynnik krotności czasu narażenia ogólnego w stosunku do 8 godzin, E i H - wartości natężenia pola-E i pola-M, maksymalne w punktach pomiarowych odpowiadających narażeniu głowy i tułowia podczas narażenia quasi--stacjonarnego, IPNob-E i IPNob-H - wartości odpowiednich limitów IPN.
+
+### 2.
+
+Określenia charakteryzujące prace podczas użytkowania źródeł pola-EM:
+
+### 1)
+
+przestrzeń obsługi - w przestrzeni pracy wyróżnia się przestrzeń obsługi, w której pracujący przebywają podczas wykonywania dowolnego typu obowiązków, w szczególności w zakresie użytkowania źródła pola-EM, podczas dojścia do miejsc wykonywania pracy, przygotowania do pracy lub przerw w pracy;
+
+### 2)
+
+powierzchnia dostępu do źródła pola-EM - powierzchnia, w szczególności obudowa lub przegroda budowlana, będąca fizyczną barierą ograniczającą możliwość zbliżania się do użytkowanego źródła pola-EM; powierzchnia dostępu bywa zróżnicowana, w szczególności podczas prac wykonywanych z kompletną lub zdemontowaną obudową źródła pola-EM.
+
+### 3.
+
+Zakres oceny ekspozycji lub narażenia na pole-EM, zwaną dalej „oceną pola-EM”, dostosowuje się do charakterystyki przestrzeni pracy i urządzeń, jakie są tam eksploatowane, rozpoznanych pierwotnych i wtórnych źródeł pola-EM, zakresu ich użytkowania i przestrzeni obsługi, rodzaju wykonywanej tam pracy oraz rodzaju i częstotliwości pola-EM.
+
+### 4.
+
+Pole-EM w przestrzeni pracy ocenia się, uwzględniając zróżnicowany podczas użytkowania źródeł rozkład przestrzenny miejscowych wartości natężenia pola-EM, na podstawie badań wykonanych z zastosowaniem metod i aparatury pomiarowej, umożliwiających:
+
+### 1)
+
+ocenę odpowiednich do rozpoznanych charakterystyk pola-EM parametrów natężenia pola-E i pola-M w dziedzinie czasu: wartość równoważną (WR), skuteczną (RMS) lub szczytową (P), co najmniej w zakresie od najmniejszej wartości limitu IPNp do największej wartości IPNog, celem wykorzystania podczas oceny dotrzymania zależnych od częstotliwości limitów IPN, z wyjątkiem PMS i PES, których ocenę ogranicza się do parametrów odpowiednio natężenia pola-M lub pola-E;
+
+### 2)
+
+określenie odpowiednio dokładnie zasięgów pola-EM stref ochronnych celem zdefiniowania planu stosowania środków ochronnych;
+
+### 3)
+
+określenie odpowiednio dokładnie rozkładu przestrzennego miejscowych wartości natężenia pola-E i pola-M, celem oceny poziomu narażenia miejscowego części ciała, dla których określono zróżnicowane wartości limitów IPN lub GPO, oraz oceny narażeń quasi-stacjonarnych i tymczasowości narażenia na pole-EM.
+
+### 5.
+
+Rozpoznane w przestrzeni pracy miejsca, do których dostęp jest zabroniony lub niemożliwy bez użycia sprzętu technicznego, wyłącza się z oceny pola-EM. Zakres i uzasadnienie takich wyłączeń dokumentuje się i przekazuje do wiadomości osób, dla których ta przestrzeń pracy jest dostępna.
+
+### 6.
+
+Bezpośrednio przy powierzchni dostępu rozpoznanych w przestrzeni pracy źródeł pola-EM, ocenia się maksymalne wartości natężenia pola-E i natężenia pola-M dla łącznego oddziaływania wszystkich źródeł. W ocenie pola-EM mogą być pominięte składowe o natężeniach mniejszych od 30% dominującej składowej natężenia pola-E lub pola-M, jeżeli wartości odpowiednich dla nich limitów IPN są większe od 30% wartości limitów IPN dotyczących składowej dominującej. Dominująca w tym przypadku jest składowa, której natężenie pola-E lub pola-H osiąga największą wartość względem dotyczących ich limitów IPN.
+
+### 7.
+
+W zapisach dotyczących oceny pola-EM dokumentuje się miejscowe wartości natężenia pola-E i natężenia pola-M, powiązane jednoznacznie z ich lokalizacją oraz warunkami użytkowania źródeł pola-EM, w szczególności przez określenie ich trybu pracy, nastaw i wyposażenia lub konfiguracji.
+
+### 8.
+
+Jeżeli oceniane pole-EM przekracza wartości limitów IPNp-E lub IPNp-H, to:
+
+### 1)
+
+w przestrzeni pracy wyznacza się zasięg pola-EM strefy pośredniej i określa, czy występują również pola-EM strefy zagrożenia lub niebezpiecznej;
+
+### 2)
+
+za zasięgi strefy pośredniej w odpowiednich kierunkach przyjmuje się odległości od źródła, w których największe wyniki pomiarów w pionach pomiarowych odpowiadają limitom IPNp-E lub IPNp-H, wybierając większy z tych zasięgów;
+
+### 3)
+
+zasięg pola-EM strefy pośredniej wyznacza się tak, aby zlokalizowanie przestrzeni pracy, w której konieczne jest zastosowanie środków ochronnych było możliwe z rozdzielczością przestrzenną nie gorszą niż ±0,5 m.
+
+### 9.
+
+Jeżeli w przestrzeni pola-EM strefy zagrożenia rozpoznano przestrzeń obsługi, to wyznacza się w niej rozkład poziomu narażenia quasi-stacjonarnego z rozdzielczością przestrzenną miejscowych wartości natężenia pola-E i pola-M odpowiednią do przeprowadzenia oceny dotyczącej:
+
+### 1)
+
+zasięgów pola-EM strefy zagrożenia i niebezpiecznej przy rozpoznanych źródłach;
+
+### 2)
+
+poziomu największego narażenia głowy i tułowia, typowo na wysokości odpowiednio 140-180 cm i 80-120 cm;
+
+### 3)
+
+poziomu narażenia kończyn;
+
+### 4)
+
+wskaźnika narażenia.
+
+### 10.
+
+Ocena pola-EM obejmuje udokumentowane rozpoznanie charakterystyki tego pola-EM w dziedzinie czasu metodami pomiarowymi, niezależnie od wcześniejszego rozpoznania innymi metodami. Jeżeli rozpoznanie nie jest jednoznaczne, to ocenę wykonuje się tak, aby odpowiadała najmniejszym limitom IPN z pasma częstotliwości pola-EM, które rozpoznano w przestrzeni pracy.
+
+### 11.
+
+Do oceny ekspozycji lub narażenia na pole-EM rozpoznane w przestrzeni pracy wykorzystuje się wyniki pomiarów wykonanych odpowiednimi dla tego pola metodami, opublikowanymi w czasopiśmie „Podstawy i Metody Oceny Środowiska Pracy”, naukowo sprawdzonymi i zwalidowanymi doświadczalnie przez co najmniej dwa współpracujące ze sobą podmioty, które łącznie mają udokumentowany dorobek naukowy w zakresie pomiarów i oceny pola-EM w przestrzeni pracy i doświadczenie praktyczne w tym zakresie, będące laboratoriami instytutów badawczych lub instytutów naukowych Polskiej Akademii Nauk lub uniwersytetów technicznych, które są metodami rekomendowanymi w rozumieniu rozporządzenia Ministra Zdrowia z dnia 2 lutego 2011 r. w sprawie badań i pomiarów czynników szkodliwych dla zdrowia w środowisku pracy (Dz. U. poz. 166).3) Walidacja ta obejmuje w szczególności szacowanie niepewności pomiaru, rozumianej jako matematyczna miara zmienności wyników pomiaru natężenia pola-E lub pola-M w przestrzeni pracy. Potwierdzone doświadczalnie szacowanie niepewności uwzględnia co najmniej:
+
+### 1)
+
+zaburzenia pola-EM powodowane obecnością osób wykonujących badania i użytego przyrządu do pomiaru;
+
+### 2)
+
+powtarzalność wyników pomiarów wybranych parametrów ekspozycji lub narażenia;
+
+### 3)
+
+odpowiedź miernika w zakresie jego wzorcowania w funkcji częstotliwości (z równomierną rozdzielczością co najmniej 3 punktów na dekadę częstotliwości), natężenia (z rozdzielczością co najmniej 3 punktów na dekadę, przy co najmniej jednej częstotliwości) oraz polaryzacji i modulacji pola;
+
+### 4)
+
+niepewność wzorcowania miernika;
+
+### 5)
+
+czynniki środowiskowe podczas pomiarów (temperatura, wilgotność);
+
+### 6)
+
+odporność elektromagnetyczną miernika.
+
+Odporność elektromagnetyczna aparatury pomiarowej jest miarą jej odporności na pośrednie oddziaływanie pola-EM, polegające na indukowaniu w urządzeniu sygnałów elektrycznych powodujących wskazania niezwiązane z oddziaływaniem mierzonej składowej pola-EM na sondę pomiarową, która zapewnia pomijalną odpowiedź miernika w polu o poziomie zbliżonym do wartości IPNob dla wybranej częstotliwości, tj. jego wskazanie mniejsze od najmniejszej wartości limitu IPNp określonego dla częstotliwości z zakresu stosowania miernika. Na potrzeby oceny pola-EM w przestrzeni pracy odporność elektromagnetyczna miernika wyznaczana jest doświadczalnie w polu-E i polu-M, co najmniej przy częstotliwościach pola-EM typowych źródeł, tj. ok.: 50 Hz, (0,001; 0,5; 27; 450; 900 i 2500)×106 Hz, o ile są poza zakresem częstotliwości stosowania miernika, a przy częstotliwościach z zakresu stosowania miernika pola-E jedynie w polu-M lub w polu-E w przypadku miernika pola-M.
+
+### 12.
+
+Ocenę ekspozycji na pola-EM w przestrzeni pracy wykonuje się na podstawie wyników pomiarów z użyciem aparatury, która podlega konserwacji i udokumentowanemu okresowemu nadzorowi właściwości metrologicznych w zakresie określonym w ust. 11, koniecznych do miarodajnej oceny odpowiednich miar pola-EM rozpoznanego w przestrzeni pracy, w szczególności potwierdzającemu, że umożliwia ona miarodajne pomiary:
+
+### 1)
+
+niezaburzonego pola-EM bliskiego, umożliwiając odseparowanie osób wykonujących badania na odległość co najmniej 1 metra od sondy pomiarowej;
+
+### 2)
+
+miejscowej wartości natężenia pola-E lub pola-M, niezależnie od poziomu natężenia drugiej składowej pola oddziałującego na aparaturę, odpowiednio pola-M lub pola-E;
+
+### 3)
+
+miejscowej wartości natężenia pola-E lub pola-M, przy wskazaniu miernika spowodowanym w co najmniej 90% przez oddziaływanie pola-EM na sondę pomiarową;
+
+### 4)
+
+przy stałej czułości miernika w zakresie ±3dB, w zakresie częstotliwości obejmujących zakres częstotliwości ocenianego pola-EM;
+
+### 5)
+
+wartości równoważnej natężenia pola-E lub pola-M, w zakresie dynamicznym określonym w ust. 4 pkt 1.
+
+### 13.
+
+Wyniki oceny pola-EM dokumentuje się, uwzględniając w szczególności charakterystyki pola-EM - opracowane na podstawie zapisów z aktualnych pomiarów lub porównywalnej dokumentacji, prezentując:
+
+### 1)
+
+metodę przeprowadzonej oceny pola-EM, w szczególności: wyniki pomiarów, wykorzystanie danych technicznych urządzeń lub danych literaturowych;
+
+### 2)
+
+charakterystykę pola-EM ocenianego w przestrzeni pracy, w szczególności: zmienność w czasie i przestrzeni, maksymalne natężenia pola-E i pola-H oraz zasięgi zidentyfikowanych stref ochronnych, obejmujące:
+
+### a)
+
+charakterystykę przestrzeni obsługi, której dotyczy ocena i warunki eksploatacji źródeł, którym odpowiadają charakterystyki pola-EM, w szczególności przez określenie trybu pracy, nastaw i konfiguracji lub wyposażenia źródeł pola-EM,
+
+### b)
+
+zestawienie miejscowych wartości natężenia pola-E i natężenia pola-M, powiązanych jednoznacznie z ich lokalizacją w przestrzeni pracy, w zestawieniach opisowych lub w formie graficznej, jeżeli ma to zastosowanie przy nieruchomych źródłach, w szczególności: szkice lub fotografie z naniesionymi jednoznacznie danymi charakteryzującymi lokalizację punktów pomiarowych, np. w postaci ponumerowanych punktów, wymiarów prezentowanej na nich przestrzeni pracy, skalowanej siatki współrzędnych ortogonalnych,
+
+### c)
+
+zestawienie rozpoznanych zasięgów pola-EM stref ochronnych powiązane z warunkami użytkowania źródeł, np. w zestawieniu tabelarycznym lub zaprezentowane graficznie, w szczególności w odniesieniu do zasięgów stref przy nieruchomych źródłach pola-EM;
+
+### 3)
+
+jeżeli ma to zastosowanie, identyfikację wykonawcy pomiarów i datę wykonania pomiarów, istotne ze względu na wymagania odpowiednich przepisów określających wymagania dotyczące częstotliwości pomiarów i kompetencje;
+
+### 4)
+
+zapisy, dokumentujące przeprowadzoną ocenę pola-EM powinny umożliwić powtórzenie oceny w warunkach, w jakich zrealizowano je pierwotnie na potrzeby oceny zastosowanych środków ochronnych, oceny aktualności rozpoznania źródeł pola-EM w przestrzeni pracy i aktualności oceny ekspozycji lub narażenia oraz identyfikacji czynników wpływających na niepewność tej oceny.
+
+3) Zdanie pierwsze wprowadzenia do wyliczenia w brzmieniu ustalonym przez § 1 rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 grudnia 2016 r. zmieniającego rozporządzenie w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne (Dz. U. poz. 2284 oraz z 2017 r. poz. 1276), które weszło w życie z dniem 1 stycznia 2017 r.

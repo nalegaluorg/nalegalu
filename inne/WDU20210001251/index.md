@@ -1,0 +1,372 @@
+---
+title: "Decyzja Rady Unii Europejskiej nr 2020/2053/UE, Euratom, z dnia 14 grudnia 2020 r. w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylająca decyzję Rady Unii Europejskiej nr 2014/335/UE, Euratom, z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej"
+address: WDU20210001251
+eli: DU/2021/1251
+publisher: DU
+year: 2021
+pos: 1251
+act_type: Umowa międzynarodowa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Decyzja Rady Unii Europejskiej nr 2020/2053/ue, Euratomz dnia 14 grudnia 2020 r. w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylająca decyzję Rady Unii Europejskiej nr 2014/335/UE, Euratom, z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 1251 |
+| ISAP | WDU20210001251 |
+| Typ aktu | Umowa międzynarodowa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-12-14 |
+| Data wydania | 2021-07-09 |
+| Wejście w życie | 2021-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1251/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1251) |
+
+## Spis treści
+
+- [Treść decyzji](#part_1)
+
+- [Dodatek - Załącznik - Tabela korelacji](#part_2)
+
+- [Dodatek - Decyzja Rady UE w języku angielskim](#part_3)
+
+TOC
+
+## Treść decyzji
+
+W imieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Dnia 14 grudnia 2020 r. została przyjęta decyzja Rady (UE, Euratom) 2020/2053 w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylająca decyzję 2014/335/UE, Euratom, w następującym brzmieniu: DECYZJA RADY (UE, Euratom) 2020/2053 z dnia 14 grudnia 2020 r w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylająca decyzję 2014/335/UE, Euratom RADA UNII EUROPEJSKIEJ, uwzględniając Traktat o funkcjonowaniu Unii Europejskiej, w szczególności jego art. 311 akapit trzeci, uwzględniając Traktat ustanawiający Europejską Wspólnotę Energii Atomowej, w szczególności jego art. 106a, uwzględniając wniosek Komisji Europejskiej, po przekazaniu projektu aktu ustawodawczego parlamentom narodowym, uwzględniając opinię Parlamentu Europejskiego[1) Opinia z dnia 16 września 2020 r. (dotychczas nieopublikowana w Dzienniku Urzędowym).](#gloss-0:1:), stanowiąc zgodnie ze specjalną procedurą ustawodawczą, a także mając na uwadze, co następuje:
+
+### (1)
+
+System zasobów własnych Unii musi zapewniać odpowiednie zasoby na kształtowanie poszczególnych polityk Unii w sposób uporządkowany, przy uwzględnieniu potrzeby ścisłej dyscypliny budżetowej. Rozwój systemu zasobów własnych może i powinien także - w najszerszym możliwym zakresie - przyczyniać się do kształtowania polityk Unii.
+
+### (2)
+
+Traktat lizboński wprowadził zmiany w przepisach odnoszących się do systemu zasobów własnych Unii, które umożliwiają zniesienie istniejącej kategorii zasobów własnych i tworzenie nowych kategorii.
+
+### (3)
+
+W dniach 7 i 8 lutego 2013 r. Rada Europejska zaapelowała do Rady o kontynuowanie prac nad wnioskiem Komisji w sprawie nowego rodzaju zasobów własnych opartych na podatku od wartości dodanej (VAT), aby uczynić go jak najprostszym i jak najbardziej przejrzystym, aby wzmocnić związek z unijną polityką VAT i faktycznymi wpływami z VAT oraz aby zapewnić równe traktowanie podatników we wszystkich państwach członkowskich.
+
+### (4)
+
+W czerwcu 2017 r. Komisja przyjęła dokument otwierający debatę na temat przyszłości finansów UE. Komisja zaproponowała w nim szereg możliwości bardziej widocznego powiązania zasobów własnych z politykami Unii, w szczególności dotyczącymi jednolitego rynku i zrównoważonego wzrostu. Zgodnie z tym dokumentem przy wprowadzaniu nowych zasobów własnych należy zwrócić uwagę na przejrzystość, prostotę i stabilność tych zasobów, ich spójność z celami unijnej polityki, ich wpływ na konkurencyjność i zrównoważony wzrost oraz ich sprawiedliwy podział między państwa członkowskie.
+
+### (5)
+
+Obecny system określania zasobów własnych opartych na VAT był krytykowany wielokrotnie przez Trybunał Obrachunkowy, Parlament Europejski i państwa członkowskie jako zbyt skomplikowany. Rada Europejska obradująca w dniach od 17 do 21 lipca 2020 r. stwierdziła zatem, że należy uprościć obliczanie tych zasobów własnych.
+
+### (6)
+
+Rada Europejska obradująca w dniach od 17 do 21 lipca 2020 r. stwierdziła, że w celu lepszego dostosowania unijnych instrumentów finansowania do priorytetów politycznych, lepszego odzwierciedlenia znaczenia budżetu ogólnego Unii („budżet Unii”) dla funkcjonowania jednolitego rynku, lepszego wsparcia celów polityk Unii i zmniejszenia wkładów państw członkowskich do rocznego budżetu Unii opartych na dochodzie narodowym brutto (DNB), w nadchodzących latach Unia będzie dążyć do zreformowania systemu zasobów własnych i wprowadzenia nowych zasobów własnych.
+
+### (7)
+
+Jako pierwszy krok należy wprowadzić nową kategorię zasobów własnych opartych na krajowych wkładach obliczonych na podstawie odpadów opakowaniowych z tworzyw sztucznych niepoddawanych recyklingowi. Zgodnie z europejską strategią w dziedzinie tworzyw sztucznych budżet Unii może przyczynić się do zmniejszenia zanieczyszczenia pochodzącego z odpadów opakowaniowych z tworzyw sztucznych. Zasoby własne oparte na krajowych wkładach, które są proporcjonalne do ilości odpadów opakowaniowych z tworzyw sztucznych, które nie są poddawane recyklingowi w poszczególnych państwach członkowskich, będą stanowiły zachętę do zmniejszenia zużycia jednorazowych produktów z tworzyw sztucznych oraz promowania recyklingu i gospodarki o obiegu zamkniętym. Jednocześnie, zgodnie z zasadą pomocniczości, państwa członkowskie będą mogły podjąć kroki, jakie uznają za najbardziej odpowiednie do realizacji tych celów. Aby uniknąć nadmiernego regresywnego wpływu na wkłady krajowe, w odniesieniu do wkładów państw członkowskich, których DNB na mieszkańca w 2017 r. był niższy od średniej unijnej, należy zastosować roczną obniżkę ryczałtową. Obniżka ta powinna odpowiadać 3,8 kilogramom pomnożonym przez liczbę ludności danego państwa członkowskiego w 2017 r.
+
+### (8)
+
+Rada Europejska obradująca w dniach od 17 do 21 lipca 2020 r. odnotowała, że jako podstawę dodatkowych zasobów własnych Komisja przedstawi w pierwszym półroczu 2021 r. wniosek w sprawie mechanizmu dostosowywania cen na granicach z uwzględnieniem emisji CO2 oraz wniosek w sprawie opłaty cyfrowej w celu ich wprowadzenia najpóźniej do dnia 1 stycznia 2023 r. Rada Europejska zwróciła się do Komisji o przedstawienie zmienionego wniosku w sprawie unijnego systemu handlu uprawnieniami, z możliwością rozszerzenia go na sektor lotniczy i morski. Stwierdziła, że w czasie trwania wieloletnich ram finansowych na okres 2021-2027 („WRF 2021-2027”) Unia będzie pracować nad wprowadzeniem innych zasobów własnych, które mogą obejmować podatek od transakcji finansowych.
+
+### (9)
+
+Rada Europejska obradująca w dniach od 17 do 21 lipca 2020 r. stwierdziła, że ustaleniami dotyczącymi zasobów własnych powinny kierować ogólne cele prostoty, przejrzystości i sprawiedliwości, w tym sprawiedliwego podziału obciążeń. Stwierdziła też, że z korekt ryczałtowych obniżających roczny wkład oparty na DNB za okres 2021-2027 mają skorzystać Dania, Niderlandy, Austria i Szwecja, oraz w kontekście wsparcia na rzecz odbudowy i odporności, także Niemcy.
+
+### (10)
+
+Państwa członkowskie powinny zatrzymać - na poczet kosztów poboru - 25 % pobranych przez siebie kwot z tradycyjnych zasobów własnych.
+
+### (11)
+
+Włączeniu Europejskiego Funduszu Rozwoju do budżetu Unii powinno towarzyszyć podwyższenie pułapów zasobów własnych ustanowionych w niniejszej decyzji. Aby Unia była w stanie wypełniać w każdych okolicznościach swoje zobowiązania finansowe, nawet w okresie pogorszenia koniunktury gospodarczej, niezbędne jest zapewnienie wystarczającego marginesu między płatnościami a pułapem zasobów własnych.
+
+### (12)
+
+Należy zachować wystarczający margines w ramach pułapów zasobów własnych, aby Unia mogła pokryć wszystkie swoje zobowiązania finansowe i warunkowe, których termin zapadalności przypada na dany rok. Łączna kwota zasobów własnych przydzielonych Unii na pokrycie rocznych środków na płatności nie powinna przekroczyć 1,40 % sumy DNB wszystkich państw członkowskich. Łączna roczna kwota wpisanych do budżetu Unii środków na zobowiązania nie powinna przekroczyć 1,46 % sumy DNB wszystkich państw członkowskich.
+
+### (13)
+
+W celu utrzymania niezmienionej kwoty zasobów finansowych oddawanych do dyspozycji Unii, należy dostosować pułapy zasobów własnych w odniesieniu do środków na płatności i środków na zobowiązania, wyrażone jako procent DNB, w przypadku zmian do rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 [2) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych wUnii Europejskiej (Dz. U. L 174 z 26.6.2013, s. 1).](#gloss-0:2:), które powodują istotne zmiany poziomu DNB.
+
+### (14)
+
+Skutki gospodarcze kryzysu związanego z COVID-19 uwydatniły znaczenie zapewnienia, że Unia ma dostateczną zdolność finansową na wypadek wstrząsów gospodarczych. Unia musi sobie zapewnić środki umożliwiające realizację zakładanych celów. Potrzebne są zasoby finansowe na wyjątkową skalę, aby można było zaradzić skutkom kryzysu związanego z COVID-l 9 bez dodatkowego obciążania finansów państw członkowskich w sytuacji, w której ich budżety są już pod ogromną presją w związku z koniecznością sfinansowania krajowych środków gospodarczych i społecznych związanych z kryzysem. Konieczna jest zatem wyjątkowa reakcja na szczeblu Unii. W związku z tym należy na zasadzie wyjątku upoważnić Komisję do tymczasowego zaciągnięcia w imieniu Unii pożyczek na rynkach kapitałowych do wysokości 750 000 mln EUR w cenach z 2018 r. Z tej kwoty maksymalnie 360 000 mln EUR w cenach z 2018 r. pożyczonych środków finansowych byłoby przeznaczone na udzielanie pożyczek, a maksymalnie 390 000 min EUR w cenach z 2018 r. pożyczonych środków finansowych byłoby przeznaczone na wydatki, obie kwoty wyłącznie w celu zaradzenia skutkom kryzysu związanego z COVID-19.
+
+### (15)
+
+Ta wyjątkowa reakcja powinna zaradzić skutkom kryzysu związanego z COVID-19 i zapobiec jego nawrotowi. W związku z tym wsparcie należy ograniczyć w czasie, a większość środków finansowych należy zapewnić w okresie następującym bezpośrednio po kryzysie, co oznacza, że zobowiązania prawne w ramach danego programu finansowanego z tych dodatkowych zasobów należy zaciągnąć przed dniem 31 grudnia 2023 r. Zatwierdzenie płatności na podstawie Instrumentu na rzecz Odbudowy i Zwiększania Odporności będzie uzależnione od zadowalającego osiągnięcia odnośnych celów pośrednich i końcowych określonych w planie odbudowy i zwiększania odporności; osiągnięcie tych celów zostanie poddane ocenie zgodnie z odpowiednią procedurą określoną w rozporządzeniu ustanawiającym Instrument na rzecz Odbudowy i Zwiększania Odporności, w myśl konkluzji Rady Europejskiej, która odbyła się w dniach od 17 do 21 lipca 2020 r.
+
+### (16)
+
+Aby pokryć zobowiązania wynikające z planowanego zaciągania pożyczek, konieczne jest nadzwyczajne i tymczasowe zwiększenie pułapów zasobów własnych. W związku z tym, wyłącznie w celu pokrycia wszystkich zobowiązań Unii wynikających z pożyczek zaciągniętych w celu zaradzenia skutkom kryzysu związanego z COVID-19, pułap środków na płatności i pułap środków na zobowiązania powinny zostać zwiększone o 0,6 punktu procentowego każdy. Uprawnienie Komisji do zaciągania, w imieniu Unii, pożyczek na rynkach kapitałowych w wyłącznym celu sfinansowania środków mających zaradzić skutkom kryzysu związanego z COVID-19 jest ściśle związane z podwyższeniem pułapu zasobów własnych przewidzianym w niniejszej decyzji, a ostatecznie z funkcjonowaniem systemu zasobów własnych Unii. W związku z tym w niniejszej decyzji należy przewidzieć takie uprawnienie. Bezprecedensowy charakter tej operacji i wyjątkowa kwota środków finansowych, które mają być pożyczone wymagają pewności co do ogólnej wielkości zobowiązania Unii i podstawowej charakterystyki jego spłaty, a także realizacji zróżnicowanej strategii zaciągania pożyczek.
+
+### (17)
+
+Zwiększenie pułapów zasobów własnych jest konieczne, ponieważ bez tego pułapy te nie byłyby wystarczające, aby zapewnić dostępność odpowiednich zasobów, których Unia potrzebuje do pokrycia zobowiązań wynikających z wyjątkowego i tymczasowego uprawnienia do zaciągania pożyczek. Konieczność korzystania z tego dodatkowego przydziału też będzie miała wyłącznie tymczasowy charakter, ponieważ odnośne zobowiązania finansowe i warunkowe będą się zmniejszać w miarę spłacania pożyczek i zbliżania się terminów zapadalności. W związku z tym zwiększenie powinno wygasnąć w momencie, gdy wszystkie pożyczone środki finansowe zostaną spłacone i wszystkie zobowiązania warunkowe z tytułu pożyczek udzielonych na podstawie tych środków finansowych wygasną, co powinno nastąpić najpóźniej do dnia 31 grudnia 2058 r.
+
+### (18)
+
+Działania Unii w celu zaradzenia skutkom kryzysu związanego z COVID-19 muszą mieć istotną skalę i nastąpić w stosunkowo krótkim czasie. Działalność w zakresie zaciągania pożyczek musi przebiegać według harmonogramu zgodnego z tymi założeniami. A zatem nowa działalność w zakresie zaciągania pożyczek netto powinna się zakończyć najpóźniej z końcem 2026 r. Po 2026 r. operacje zaciągania pożyczek należy ściśle ograniczyć do operacji refinansujących, tak by zapewnić skuteczne zarządzanie długiem. Wdrażając operacje w ramach zróżnicowanej strategii finansowania, Komisja powinna jak najlepiej wykorzystać zdolności rynków do absorpcji tak znacznej kwoty środków finansowych w postaci pożyczek o różnych terminach zapadalności, w tym finansowania krótkoterminowego do celów zarządzania płynnością, oraz zapewnić jak najkorzystniejsze warunki spłaty. Dodatkowo Komisja powinna regularnie przedstawiać Parlamentowi Europejskiemu i Radzie wyczerpujące informacje na temat wszystkich aspektów swoich działań w zakresie zarządzania długiem. W momencie gdy harmonogramy płatności dotyczących polityk, które mają być finansowane z pożyczonych środków, będą znane, Komisja przekaże Parlamentowi Europejskiemu i Radzie harmonogram emisji zawierający przewidywane daty i przewidywane wielkości emisji na kolejny rok, a także plan określający przewidywane płatności z tytułu kwoty głównej i odsetek. Komisja powinna regularnie aktualizować ten harmonogram.
+
+### (19)
+
+Spłata środków finansowych pożyczonych w celu udzielenia bezzwrotnego wsparcia, wsparcia zwrotnego za pośrednictwem instrumentów finansowych lub rezerw na gwarancje budżetowe, jak również spłata należnych odsetek powinna być finansowana z budżetu Unii. Pożyczone środki finansowe, które są wykorzystywane celem udzielenia pożyczek państwom członkowskim, powinny zostać spłacone z kwot otrzymanych od państw członkowskich będących beneficjentami. Należy przydzielić i udostępnić Unii niezbędne zasoby, aby mogła pokrywać wszystkie swoje zobowiązania finansowe i warunkowe wynikające z wyjątkowego i tymczasowego uprawnienia do zaciągania pożyczek w dowolnym roku oraz w dowolnych okolicznościach zgodnie z art. 310 ust. 4 i art. 323 Traktatu o funkcjonowaniu Unii Europejskiej (TFUE).
+
+### (20)
+
+Kwoty niewykorzystane do przewidywanych płatności z tytułu odsetek zostaną użyte do celów przedterminowych spłat przed końcem WRF 2021-2027, w kwocie minimalnej, i mogą być zwiększane powyżej tego poziomu pod warunkiem, że po 2021 r. zostaną wprowadzone nowe zasoby własne zgodnie z procedurą określoną w art. 311 akapit trzeci TFUE. Wszystkie zobowiązania zaciągnięte w wyniku tego wyjątkowego i tymczasowego uprawnienia do zaciągania pożyczek powinny zostać w pełni spłacone do dnia 31 grudnia 2058 r. W celu zapewnienia skutecznego zarządzania budżetowego środkami potrzebnymi na pokrycie spłat pożyczonych środków należy przewidzieć możliwość rozłożenia odnośnych zobowiązań budżetowych na roczne raty.
+
+### (21)
+
+Harmonogram spłat powinien być zgodny z zasadą należytego zarządzania finansami i obejmować łączną wielkość pożyczonych środków finansowych na podstawie uprawnienia przyznanego Komisji w celu zapewnienia stałej i przewidywalnej redukcji zobowiązań w całym okresie. Z tego względu kwoty należne w danym roku od Unii z tytułu spłaty kwoty głównej nie powinny przekraczać 7,5 % kwoty maksymalnej wynoszącej 390 000 min EUR na wydatki.
+
+### (22)
+
+Mając na uwadze wyjątkowy, tymczasowy i ograniczony charakter uprawnienia Komisji do zaciągania pożyczek na potrzeby zaradzenia skutkom kryzysu związanego z COVID-19, należy doprecyzować, że co do zasady Unia nie powinna wykorzystywać środków finansowych pożyczonych na rynkach kapitałowych do finansowania wydatków operacyjnych.
+
+### (23)
+
+Aby zapewnić, by Unia była zawsze w stanie terminowo wywiązywać się ze swoich zobowiązań prawnych wobec stron trzecich, niniejsza decyzja powinna przewidywać szczegółowe przepisy upoważniające Komisję - w okresie tymczasowego zwiększenia pułapów zasobów własnych - do wzywania państw członkowskich do tymczasowego udostępnienia odpowiednich zasobów pieniężnych, w przypadku gdy zatwierdzone środki zapisane w budżecie Unii okażą się niewystarczające, by pokryć zobowiązania wynikające z zaciągniętych pożyczek w związku z tymczasowym zwiększeniem pułapów. Komisja powinna - jako rozwiązanie stosowane w ostateczności - mieć możliwość wezwania do udostępnienia zasobów pieniężnych jedynie wtedy, gdyby nie była w stanie zapewnić koniecznej płynności poprzez uruchomienie innych środków aktywnego zarządzania płynnością, w tym w razie potrzeby poprzez wykorzystanie finansowania krótkoterminowego na rynkach kapitałowych, by zapewnić terminowe wywiązanie się z zobowiązań Unii wobec pożyczkodawców. Należy przewidzieć, by Komisja ogłaszała takie wezwania skierowane do państw członkowskich z należytym wyprzedzeniem i by były one ściśle proporcjonalne do szacowanych dochodów budżetu poszczególnych państw członkowskich i, w każdym przypadku, ograniczone do ich udziału w ramach tymczasowo zwiększonego pułapu zasobów własnych, tj. 0,6 % DNB państw członkowskich, jeżeli jednak państwo członkowskie w określonym terminie nie zastosuje się do wezwania, w całości lub w części, lub poinformuje Komisję, że nie będzie w stanie się do niego zastosować, Komisja i tak powinna być upoważniona, na zasadzie tymczasowej, do wystąpienia z dodatkowymi wezwaniami do innych państw członkowskich, z zachowaniem proporcjonalności. Należy przewidzieć maksymalna kwotę roczną, jaka może być przedmiotem wezwania Komisji skierowanego do poszczególnych państw członkowskich. Oczekuje się, że Komisja przedłoży niezbędne wnioski na potrzeby zapisywania wydatków pokrywanych z kwot zasobów pieniężnych tymczasowo udostępnionych przez państwa członkowskie w budżecie Unii, aby zapewnić, by zasoby te zostały uwzględnione na jak najwcześniejszym etapie do celów wpłacenia zasobów własnych na rachunek przez państwa członkowskie, tzn. zgodnie z mającymi zastosowanie ramami prawnymi, a zatem według odnośnych kluczy DNB i bez uszczerbku dla innych zasobów własnych i innych dochodów.
+
+### (24)
+
+Na podstawie art. 311 akapit czwarty TFUE przyjęte zostanie rozporządzenie Rady ustanawiające środki wykonawcze w odniesieniu do systemu zasobów własnych Unii. Środki takie powinny obejmować przepisy o charakterze ogólnym i technicznym, które mają zastosowanie do wszystkich kategorii zasobów własnych. Środki te powinny obejmować szczegółowe zasady obliczania salda i jego zapisywania w budżecie, a także przepisy i ustalenia niezbędne do kontrolowania i nadzorowania poboru zasobów własnych.
+
+### (25)
+
+Niniejsza decyzja powinna wejść w życie dopiero po jej zatwierdzeniu przez wszystkie państwa członkowskie, zgodnie z ich odpowiednimi wymogami konstytucyjnymi, a tym samym w pełnym poszanowaniu suwerenności państw. Rada Europejska obradująca w dniach od 17 do 21 lipca 2020 r. zauważyła, że państwa członkowskie zamierzają jak najszybciej przystąpić do zatwierdzenia niniejszej decyzji.
+
+### (26)
+
+Dla zachowania spójności, ciągłości i pewności prawa należy ustanowić przepisy zapewniające płynne przejście z systemu wprowadzonego decyzją Rady 2014/335/UE, Euratom [3) Decyzja Rady 2014/335/UE, Euratom z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej (Dz. U. L 168 z 7.6.2014, s. 105).](#gloss-0:3:) na system przewidziany niniejszą decyzją.
+
+### (27)
+
+Należy uchylić decyzję 2014/335/UE, Euratom.
+
+### (28)
+
+Do celów niniejszej decyzji wszystkie kwoty pieniężne należy wyrazić w euro.
+
+### (29)
+
+Ze względu na konieczność pilnego umożliwienia zaciągania pożyczek w celu sfinansowania działań mających na celu zaradzenie skutkom kryzysu COVID-19 niniejsza decyzja powinna wejść w życie pierwszego dnia pierwszego miesiąca od otrzymania ostatniego z powiadomień o zakończeniu procedur przyjęcia niniejszej decyzji.
+
+### (30)
+
+Aby zapewnić przejście na zmieniony system zasobów własnych i zbieżności niniejszej decyzji w czasie z rokiem budżetowym, niniejsza decyzja powinna mieć zastosowanie od dnia 1 stycznia 2021 r., PRZYJMUJE NINIEJSZĄ DECYZJĘ:
+
+### Artykuł 1 Przedmiot
+
+W niniejszej decyzji ustanawia się zasady przydziału zasobów własnych Unii w celu zapewnienia finansowania rocznego budżetu Unii.
+
+### Artykuł 2 Kategorie zasobów własnych i specjalne metody ich obliczania
+
+### 1.
+
+Na zasoby własne zapisane w budżecie Unii składają się dochody pochodzące z następujących źródeł:
+
+### a)
+
+tradycyjne zasoby własne składające się z opłat, składek, kwot dodatkowych lub wyrównawczych, kwot lub czynników dodatkowych, ceł pobieranych na podstawie wspólnej taryfy celnej i innych ceł, które zostały lub zostaną ustanowione przez instytucje Unii w odniesieniu do handlu z państwami trzecimi, ceł na produkty objęte nieobowiązującym już Traktatem ustanawiającym Europejską Wspólnotę Węgla i Stali, a także wkładów i innych opłat przewidzianych w ramach wspólnej organizacji rynków cukru;
+
+### b)
+
+zastosowanie jednolitej stawki poboru w wysokości 0,30 % dla wszystkich państw członkowskich do całkowitej kwoty wpływów z VAT pobranych w odniesieniu do wszystkich dostaw podlegających opodatkowaniu podzielonej przez średnią ważoną stawkę VAT obliczoną dla odnośnego roku kalendarzowego, jak przewidziano w rozporządzeniu Rady (EWG, Euratom) nr 1553/89 [4) Rozporządzenie Rady (EWG, Euratom) nr 1553/89 z dnia 29 maja 1989 r. sprawie ostatecznych jednolitych warunków poboru środków własnych pochodzących z podatku od wartości dodanej (Dz. U. L 155 z 7.6.1989, s. 9).](#gloss-0:4:). Dla każdego państwa członkowskiego podstawa VAT, którą należy uwzględnić w tym celu, nie może przekroczyć 50 % DNB;
+
+### c)
+
+zastosowanie jednolitej stawki poboru do masy odpadów opakowaniowych z tworzyw sztucznych wytworzonych w poszczególnych państwach członkowskich, która nie została poddana recyklingowi. Jednolita stawka poboru wynosi 0,80 EUR za kilogram. W odniesieniu do niektórych państw członkowskich stosuje się roczną obniżkę ryczałtową, jak określono w ust. 2 akapit trzeci;
+
+### d)
+
+zastosowanie jednolitej stawki poboru, którą należy określić zgodnie z procedurą budżetową z uwzględnieniem łącznej kwoty wszystkich innych dochodów, do sumy DNB wszystkich państw członkowskich.
+
+### 2.
+
+Do celów ust. 1 lit. c) niniejszego artykułu „tworzywa sztuczne” oznaczają polimer w rozumieniu art. 3 pkt 5 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady [5) Rozporządzenie (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniające dyrektywę 1999/45/WE oraz uchylające rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. U. L 396 z 30.12.2006, s. 1).](#gloss-0:5:), do którego mogły zostać dodane dodatki lub inne substancje; „odpady opakowaniowe” i „recykling” mają znaczenie przypisane tym terminom odpowiednio w art. 3 pkt 2) i 2c) dyrektywy Parlamentu Europejskiego i Rady 94/62/WE [6) Dyrektywa 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych (Dz. U. L 365 z 31.12.1994, s. 10).](#gloss-0:6:) i w decyzji Komisji 2005/270/WE 7. Masę odpadów opakowaniowych z tworzyw sztucznych, które nie są poddawane recyklingowi, oblicza się jako różnicę między masą odpadów opakowaniowych z tworzyw sztucznych wytwarzanych w państwie członkowskim w danym roku a masą odpadów opakowaniowych z tworzyw sztucznych, które są poddawane recyklingowi w danym roku, określoną zgodnie z dyrektywą 94/62/WE. Następujące państwa członkowskie mają prawo do rocznej obniżki ryczałtowej, wyrażonej w cenach bieżących, która ma być stosowana odpowiednio do ich wkładu, o którym mowa w ust. 1 lit. c), w kwotach: 22 mln EUR dla Bułgarii, 32,1876 mln EUR dla Czech, 4 mln EUR dla Estonii, 33 mln EUR dla Grecji, 142 mln EUR dla Hiszpanii, 13 mln EUR dla Chorwacji, 184,0480 mln EUR dla Włoch, 3 mln EUR dla Cypru, 6 mln EUR dla Łotwy, 9 mln EUR dla Litwy, 30 mln EUR dla Węgier, 1,4159 mln EUR dla Malty, 117 mln EUR dla Polski, 31,3220 mln EUR dla Portugalii, 60 mln EUR dla Rumunii, 6,2797 mln EUR dla Słowenii i 17 mln EUR dla Słowacji.
+
+### 3.
+
+Do celów ust. 1 lit. d) jednolita stawka poboru ma zastosowanie do DNB każdego państwa członkowskiego. DNB, o którym mowa w ust. 1 lit. d), oznacza DNB za dany rok w cenach rynkowych, podany przez Komisję w ramach stosowania rozporządzenia (UE) nr 549/2013.
+
+### 4.
+
+W okresie 2021-2027 następujące państwa członkowskie korzystają z obniżki brutto swoich rocznych wkładów opartych na DNB zgodnie z ust. 1 lit. d) w kwotach: 565 mln EUR dla Austrii, 377 mln EUR dla Danii, 3 671 mln EUR dla Niemiec, 1 921 mln EUR dla Niderlandów i 1 069 mln EUR dla Szwecji. Powyższe kwoty są mierzone w cenach z 2020 r. i dostosowywane do cen bieżących przez zastosowanie najbardziej aktualnego deflatora produktu krajowego brutto dla Unii wyrażonego w euro, podanego przez Komisję, który jest dostępny w chwili opracowywania projektu budżetu. Te obniżki brutto są finansowane przez wszystkie państwa członkowskie.
+
+### 5.
+
+Jeżeli na początku roku budżetowego budżet Unii nie został jeszcze przyjęty, do czasu wejścia w życie nowych stawek nadal stosuje się poprzednie jednolite stawki poboru zasobów opartych na DNB.
+
+### Artykuł 3 Pułap zasobów własnych
+
+### 1.
+
+Łączna kwota zasobów własnych przydzielonych Unii na pokrycie rocznych środków na płatności nic może przekroczyć 1,40 % sumy DNB wszystkich państw członkowskich.
+
+### 2.
+
+Łączna kwota rocznych środków na zobowiązania zapisana w budżecie Unii nie może przekroczyć 1,46 % sumy DNB wszystkich państw członkowskich.
+
+### 3.
+
+Zachowuje się odpowiedni stosunek środków na zobowiązania do środków na płatności dla zagwarantowania ich kompatybilności i umożliwienia przestrzegania w kolejnych latach pułapu określonego w ust. 1.
+
+### 4.
+
+W przypadku gdy zmiany w rozporządzeniu (UE) nr 549/2013 powodują istotne zmiany poziomu DNB, Komisja przelicza pułapy ustalone w ust. 1 i 2, tymczasowo zwiększone zgodnie z art. 6, według następującego wzoru: \( x\% (y\% ) \times {{GNI_{t - 2} + GNI_{t - 1} + GNI_t ESAbiezacy} \over {GNI_{t - 2} + GNI_{t - 1} + GNI_t ESAzmieniony}} \) gdzie:
+
+- - „x” oznacza pułap zasobów własnych na środki na płatności;
+
+- - „y” - pułap zasobów własnych na środki na zobowiązania;
+
+- - „t” oznacza ostatni pełny rok, za który dostępne są dane określone w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2019/516 [8) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/516z dnia 19 marca 2019 r. w sprawie harmonizacji dochodu narodowego brutto w cenach rynkowych oraz uchylające dyrektywę Rady 89/130/EWG, Euratom i rozporządzenie Rady (WE, Euratom) nr 1287/2003 (rozporządzenie DNB) (Dz. U. L 91 z 29.3.2019, s. 19).](#gloss-0:8:);
+
+- - „ESA” oznacza europejski system rachunków narodowych i regionalnych w Unii.
+
+### Artykuł 4 Wykorzystanie środków finansowych pożyczonych na rynkach kapitałowych
+
+Unia nie wykorzystuje środków finansowych pożyczonych na rynkach kapitałowych do finansowania wydatków operacyjnych.
+
+### Artykuł 5 Nadzwyczajne i tymczasowe środki dodatkowe w celu zaradzenia skutkom kryzysu związanego z COVID-19
+
+### 1.
+
+Wyłącznie w celu zaradzenia skutkom kryzysu związanego z COVID-19 poprzez zastosowanie rozporządzenia Rady ustanawiającego Instrument Unii Europejskiej na rzecz Odbudowy i zawartych w nim przepisów sektorowych:
+
+### a)
+
+Komisja jest uprawniona do zaciągnięcia w imieniu Unii pożyczek na rynkach kapitałowych do wysokości 750 000 mln EUR w cenach z 2018 r. Operacje zaciągania pożyczek przeprowadzane są w euro;
+
+### b)
+
+maksymalnie 360 000 mln EUR w cenach z 2018 r. pożyczonych środków finansowych może być wykorzystane na udzielanie pożyczek oraz, w drodze odstępstwa od art. 4, maksymalnie 390 000 mln EUR w cenach z 2018 r. pożyczonych środków finansowych może być wykorzystane na wydatki.
+
+Kwota, o której mowa w akapicie pierwszym lit. a), jest dostosowywana na podstawie stałego deflatora w wysokości 2 % rocznie. Każdego roku Komisja informuje Parlament Europejski i Radę o wysokości dostosowanej kwoty. Komisja zarządza zaciągniętymi pożyczkami, o których mowa w ust. 1 lit. a) akapit pierwszy, w taki sposób, by po 2026 r. nie zaciągać już nowych pożyczek netto.
+
+### 2.
+
+Spłata kwoty głównej środków finansowych pożyczonych do wykorzystania na wydatki, o których mowa w ust. 1 lit. b) akapit pierwszy niniejszego artykułu, oraz odnośnych należnych odsetek jest pokrywana z budżetu Unii. Zgodnie z art. 112 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 2018/1046 te zobowiązania budżetowe można rozbić na kilka rocznych rat [9) Rozporządzenie Parlamentu Europejskiego i Rady (UE, Euratom) 2018/1046 z dnia 18 lipca 2018 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii, zmieniające rozporządzenia (UE) nr 1296/2013, (UE) nr 1301/2013, (UE) nr 1303/2013, (UE) nr 1304/2013, (UE) nr 1309/2013, (UE) nr 1316/2013, (UE) nr 223/2014 i (UE) nr 283/2014 oraz decyzje nr 541/2014/UE, a także uchylające rozporządzenie (UE, Euratom) nr 966/2012 (Dz. U. L 193 z 30.7.2018, s. 1).](#gloss-0:9:). Spłata środków finansowych, o których mowa w ust. 1 lit. a) akapit pierwszy niniejszego artykułu, musi być zaplanowana w czasie, zgodnie z zasadą należytego zarządzania finansami, tak aby zapewnić stałą i przewidywalną redukcję zobowiązań. Spłaty kwoty głównej środków finansowych muszą rozpocząć się przed końcem okresu WRF 2021-2027, w kwocie minimalnej, w zakresie, w jakim pozwalają na to kwoty niewykorzystane do płatności z tytułu odsetek należnych z tytułu pożyczek, o których mowa w ust. 1 niniejszego artykułu, z należytym uwzględnieniem procedury określonej w art. 314 TFUE. Wszystkie zobowiązania zaciągnięte w wyniku wyjątkowego i tymczasowego uprawnienia Komisji do zaciągania pożyczek, o którym mowa w ust. 1 niniejszego artykułu, powinny zostać w pełni spłacone najpóźniej do dnia 31 grudnia 2058 r. Kwoty należne w danym roku od Unii z tytułu spłaty kwoty głównej środków finansowych, o których mowa w akapicie pierwszym niniejszego ustępu, nie mogą przekraczać 7,5 % kwoty maksymalnej wykorzystywanej na wydatki, o której mowa w ust. 1 lit. b) akapit pierwszy.
+
+### 3.
+
+Komisja dokonuje koniecznych ustaleń w zakresie zarządzania operacjami zaciągania pożyczek. Komisja regularnie przedstawia Parlamentowi Europejskiemu i Radzie wyczerpujące informacje na temat wszystkich aspektów swojej strategii zarządzania długiem. Komisja opracuje harmonogram emisji zawierający przewidywane daty i wielkości emisji na kolejny rok, a także plan określający przewidywane płatności z tytułu kwoty głównej i odsetek, i przekaże go Parlamentowi Europejskiemu i Radzie. Komisja regularnie aktualizuje ten harmonogram.
+
+### Artykuł 6 Nadzwyczajne i tymczasowe zwiększenie pułapów zasobów własnych na przydział zasobów koniecznych do zaradzenia skutkom kryzysu związanego z COVID-19
+
+Każdy z pułapów określonych w art. 3 ust. 1 i 2 zostaje tymczasowo podwyższony o 0,6 punktu procentowego wyłącznie w celu pokrycia wszystkich zobowiązań Unii wynikających z zaciągniętych pożyczek, o których mowa w art. 5, aż do momentu wygaśnięcia wszystkich takich zobowiązań, a najpóźniej do dnia 31 grudnia 2058 r. Zwiększenie pułapów zasobów własnych nie może być wykorzystywane do pokrycia żadnych innych zobowiązań Unii.
+
+### Artykuł 7 Zasada uniwersalności
+
+Dochody, o których mowa w art. 2, wykorzystywane są, bez rozróżniania, na finansowanie wszystkich wydatków zapisanych w rocznym budżecie Unii.
+
+### Artykuł 8 Przenoszenie nadwyżki
+
+Wszelkie nadwyżki dochodów Unii w stosunku do całkowitych rzeczywistych wydatków podczas roku budżetowego przenosi się na kolejny rok budżetowy.
+
+### Artykuł 9 Pobór zasobów własnych i udostępnianie ich Komisji
+
+### 1.
+
+Zasoby własne, o których mowa w art. 2 ust. 1 lit. a), pobierane są przez państwa członkowskie zgodnie z krajowymi przepisami ustawowymi, wykonawczymi lub administracyjnymi. Państwa członkowskie dostosowują te przepisy w stosownych przypadkach tak, by spełniały one wymagania określone w przepisach unijnych. Komisja analizuje odpowiednie przepisy krajowe przekazywane jej przez państwa członkowskie, przekazuje państwom członkowskim dostosowania, które uważa za niezbędne w celu zapewnienia zgodności tych przepisów z przepisami unijnymi, oraz - w razie potrzeby - składa sprawozdania Parlamentowi Europejskiemu i Radzie.
+
+### 2.
+
+Państwa członkowskie zatrzymują - na poczet kosztów poboru - 25 % kwot, o których mowa w art. 2 ust. 1 lit. a).
+
+### 3.
+
+Państwa członkowskie udostępniają Komisji zasoby własne przewidziane w art. 2 ust. 1 niniejszej decyzji zgodnie z rozporządzeniami przyjętymi na mocy art. 322 ust. 2 TFUE.
+
+### 4.
+
+Bez uszczerbku dla art. 14 ust. 2 rozporządzenia Rady (UE, Euratom) nr 609/2014 [10) Rozporządzenie Rady (UE, Euratom) nr 609/2014 z dnia 26 maja 2014 r. w sprawie metod i procedury udostępniania tradycyjnych zasobów własnych, zasobów własnych opartych na VAT i zasobów własnych opartych na DNB oraz w sprawie środków w celu zaspokojenia potrzeb gotówkowych (Dz. U. L 168 z 7.6.2014, s. 39).](#gloss-0:10:), w przypadku gdy zatwierdzone środki zapisane w budżecie Unii nie są wystarczające do wywiązania się przez Unię z zobowiązań z tytułu zaciągniętych pożyczek, o których mowa w art. 5 niniejszej decyzji, a Komisja nie jest w stanie zapewnić koniecznej płynności poprzez uruchomienie innych środków przewidzianych w ustaleniach finansowych mających zastosowanie do takich pożyczek odpowiednio szybko, by zapewnić wywiązanie się z zobowiązań Unii, w tym poprzez środki aktywnego zarządzania płynnością oraz, w razie potrzeby, poprzez wykorzystanie finansowania krótkoterminowego na rynkach kapitałowych zgodnie z warunkami i limitami określonymi w art. 5 ust. 1 lit. a) akapit pierwszy i art. 5 ust. 2 niniejszej decyzji, państwa członkowskie udostępniają Komisji - jako rozwiązanie ostateczne - zasoby niezbędne na ten cel. W takich przypadkach ust. 5-9 niniejszego artykułu mają zastosowanie w drodze odstępstwa od art. 14 ust. 3 i art. 14 ust. 4 akapit pierwszy rozporządzenia Rady (UE, Euratom) nr 609/2014.
+
+### 5.
+
+Z zastrzeżeniem art. 14 ust. 4 akapit drugi rozporządzenia (UE, Euratom) nr 609/2014 Komisja może wezwać państwa członkowskie, by tymczasowo zapewniły kwotę stanowiącą różnicę między ogółem aktywów a potrzebami gotówkowymi, proporcjonalnie do szacowanych dochodów budżetu uzyskanych od każdego z nich. Komisja informuje państwa członkowskie o takich wezwaniach z należytym wyprzedzeniem. Komisja ustanowi zorganizowany dialog na temat harmonogramów emisji i spłat z krajowymi organami odpowiedzialnymi za zarządzanie długiem i zasobami finansowymi Skarbu Państwa. W przypadku gdy państwo członkowskie w określonym terminie nie zastosuje się do wezwania, w całości lub w części, lub poinformuje Komisję, że nie będzie w stanie się do niego zastosować, aby pokryć część przypadającą na to państwo członkowskie Komisja jest uprawniona, na zasadzie tymczasowej, do wystąpienia do pozostałych państw członkowskich z dodatkowymi wezwaniami. Takie wezwania muszą być proporcjonalne do szacowanych dochodów budżetu uzyskanych od każdego z tych pozostałych państw członkowskich. Państwo członkowskie, które nie zastosowało się do wezwania, nadal pozostaje zobowiązane do zastosowania się do niego.
+
+### 6.
+
+Maksymalna łączna roczna kwota zasobów pieniężnych, o którą można wystąpić z wezwaniem do poszczególnych państw członkowskich na mocy ust. 5, nie może w żadnym przypadku przekroczyć odpowiedniego udziału tego państwa opartego na DNB w nadzwyczajnym i tymczasowym zwiększeniu pułapu zasobów własnych, o którym mowa w art. 6. W tym celu względny udział oparty na DNB oblicza się jako udział w łącznym DNB Unii, wynikający z odpowiedniej kolumny w części dotyczącej dochodów w ostatnim przyjętym rocznym budżecie Unii.
+
+### 7.
+
+Wszelkie zasoby pieniężne zapewnione na podstawie ust. 5 i 6 są niezwłocznie rekompensowane zgodnie z mającymi zastosowanie ramami prawnymi dotyczącymi budżetu Unii.
+
+### 8.
+
+Wydatki pokryte z kwot zasobów pieniężnych udostępnionych tymczasowo przez państwa członkowskie zgodnie z ust. 5 niezwłocznie zapisuje się w budżecie Unii, aby zapewnić, by związany z tym dochód został uwzględniony na jak najwcześniejszym etapie we wpłacie zasobów własnych na rachunek przez państwa członkowskie zgodnie ze stosownymi przepisami rozporządzenia (UE, Euratom) nr 609/2014.
+
+### 9.
+
+W ujęciu rocznym stosowanie ust. 5 nie może prowadzić do wezwań do udostępnienia zasobów pieniężnych powyżej pułapów zasobów własnych, o których mowa w art. 3, zwiększonych zgodnie z art. 6.
+
+### Artykuł 10 Środki wykonawcze
+
+Rada„ ustanawia środki wykonawcze zgodnie z procedurą określoną w art. 311 akapit czwarty TFUE w odniesieniu do następujących elementów systemu zasobów własnych Unii:
+
+### a)
+
+procedury obliczania i zapisywania w budżecie rocznego salda budżetowego zgodnie z art. 8;
+
+### b)
+
+przepisów i ustaleń koniecznych do kontrolowania i nadzorowania poboru zasobów własnych, o których mowa w art. 2 ust. 1 oraz wszelkich odpowiednich wymogów sprawozdawczych.
+
+### Artykuł 11 Przepisy końcowe i przejściowe
+
+### 1.
+
+Z zastrzeżeniem ust. 2 traci moc decyzja 2014/335/UE, Euratom. Wszelkie odesłania do decyzji Rady 70/243/EWWiS, EWG, Euratom [11) Decyzja Rady 70/243/EWWiS, EWG, Euratom z dnia 21 kwietnia 1970 r. w sprawie zastąpienia wkładów finansowych państw członkowskich zasobami własnymi Wspólnot (Dz. U. L 94 z 28.4.1970, s. 19).](#gloss-0:11:), decyzji Rady 85/257/EWG, Euratom [12) Decyzja Rady 85/257/EWG, Euratom z dnia 7 maja 1985 r. w sprawie systemu zasobów własnych Wspólnot (Dz. U. L 128 z 14.5.1985, s. 15).](#gloss-0:12:), decyzji Rady 88/376/EWG, Euratom [13) Decyzja Rady 88/376/EWG, Euratom z dnia 24 czerwca 1988 r. w sprawie systemu środków własnych Wspólnot (Dz. U. L 185, 15.7.1988, s. 24).](#gloss-0:13:), decyzji Rady 94/728/WE, Euratom [14) Decyzja Rady 94/728/WE, Euratom z dnia 31 października 1994 r. w sprawie systemu zasobów własnych Wspólnot Europejskich (Dz. U. L 293 z 12.11.1994, s. 9).](#gloss-0:14:), decyzji Rady 2000/597/WE, Euratom [15) Decyzja Rady 2000/597/WE, Euratom z dnia 29 września 2000 r. w sprawie systemu środków własnych Wspólnot Europejskich (Dz. U. L 253 z 7.10.2000, s. 42).](#gloss-0:15:), decyzji Rady 2007/436/WE, Euratom [16) Decyzja Rady 2007/436/WE, Euratom z dnia 7 czerwca 2007 r. w sprawie systemu zasobów własnych Wspólnot Europejskich (Dz. U. L 163 z 23.6.2007, s. 17).](#gloss-0:16:) lub decyzji 2014/335/UE, Euratom uznaje się za odesłania do niniejszej decyzji, odesłania do uchylonej decyzji odczytuje się zgodnie z tabelą korelacji zawartą w załączniku do niniejszej decyzji.
+
+### 2.
+
+Art. 2, 4 i 5 decyzji 94/728/WE, Euratom, art. 2, 4 i 5 decyzji 2000/597/WE, Euratom, art. 2, 4 i 5 decyzji 2007/436/ WE, Euratom i art. 2, 4 i 5 decyzji 2014/335/UE, Euratom stosuje się nadal do obliczania i dostosowywania dochodów pochodzących ze stosowania stawki poboru do podstawy VAT określanej w sposób jednolity i mieszczącej się w przedziale od 50 % do 55 % PNB lub DNB każdego państwa członkowskiego, zależnie od danego roku, do obliczania korekt przyznanych Zjednoczonemu Królestwu z tytułu zakłóceń równowagi budżetowej w latach 1995-2020 i do obliczania finansowania przez inne państwa członkowskie korekt przyznanych Zjednoczonemu Królestwu.
+
+### 3.
+
+Państwa członkowskie zatrzymują nadal na poczet kosztów poboru 10 % kwot, o których mowa w art. 2 ust. 1 lit. a) i które powinny były zostać udostępnione przez państwa członkowskie przed dniem 28 lutego 2001 r., zgodnie z mającymi zastosowanie przepisami unijnymi.
+
+### 4.
+
+Państwa członkowskie zatrzymują nadal na poczet kosztów poboru 25 % kwot, o których mowa w art. 2 ust. 1 lit. a) i które powinny były zostać udostępnione przez państwa członkowskie między dniem 1 marca 2001 r. a dniem 28 lutego 2014 r., zgodnie z mającymi zastosowanie przepisami unijnymi.
+
+### 5.
+
+Państwa członkowskie zatrzymują nadal na poczet kosztów poboru 20 % kwot, o których mowa w art. 2 ust. 1 lit. a) i które powinny były zostać udostępnione przez państwa członkowskie między dniem 1 marca 2014 r. a dniem 28 lutego 2021 r., zgodnie z mającymi zastosowanie przepisami unijnymi.
+
+### 6.
+
+Na potrzeby niniejszej decyzji wszystkie kwoty pieniężne muszą być wyrażone w euro.
+
+### Artykuł 12 Wejście w życie
+
+Sekretarz Generalny Rady powiadamia o niniejszej decyzji państwa członkowskie. Państwa członkowskie bezzwłocznie powiadamiają Sekretarza Generalnego Rady o zakończeniu procedur związanych z przyjęciem niniejszej decyzji zgodnie z ich odpowiednimi wymogami konstytucyjnymi. Niniejsza decyzja wchodzi w życie pierwszego dnia pierwszego miesiąca następującego po otrzymaniu ostatniego z powiadomień, o których mowa w akapicie drugim. Niniejszą decyzję stosuje się od dnia 1 stycznia 2021 r.
+
+### Artykuł 13 Adresaci
+
+Niniejsza decyzja skierowana jest do państw członkowskich. Sporządzono w Brukseli dnia 14 grudnia 2020 r. W imieniu Rady: M. ROTH Przewodniczący Dnia 14 grudnia 2020 r. została przyjęta decyzja Rady (UE, Euratom) 2020/2053 w sprawie systemu zasobów własnych Unii Europejskiej oraz uchylająca decyzję 2014/335/UE, Euratom, w następującym brzmieniu:
+
+Po zaznajomieniu się z powyższą decyzją, w imieniu Rzeczypospolitej Polskiej oświadczam, że:
+
+- - została ona uznana za słuszną zarówno w całości, jak i każde z postanowień w niej zawartych,
+
+- - jest przyjęta, ratyfikowana i potwierdzona,
+
+- - będzie niezmiennie zachowywana.
+
+Na dowód czego wydany został akt niniejszy, opatrzony pieczęcią Rzeczypospolitej Polskiej. Dano w Warszawie dnia 31 maja 2021 r.
+
+1) Opinia z dnia 16 września 2020 r. (dotychczas nieopublikowana w Dzienniku Urzędowym). 2) Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych wUnii Europejskiej (Dz. U. L 174 z 26.6.2013, s. 1). 3) Decyzja Rady 2014/335/UE, Euratom z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej (Dz. U. L 168 z 7.6.2014, s. 105). 4) Rozporządzenie Rady (EWG, Euratom) nr 1553/89 z dnia 29 maja 1989 r. sprawie ostatecznych jednolitych warunków poboru środków własnych pochodzących z podatku od wartości dodanej (Dz. U. L 155 z 7.6.1989, s. 9). 5) Rozporządzenie (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH), utworzenia Europejskiej Agencji Chemikaliów, zmieniające dyrektywę 1999/45/WE oraz uchylające rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. U. L 396 z 30.12.2006, s. 1). 6) Dyrektywa 94/62/WE Parlamentu Europejskiego i Rady z dnia 20 grudnia 1994 r. w sprawie opakowań i odpadów opakowaniowych (Dz. U. L 365 z 31.12.1994, s. 10). 8) Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/516z dnia 19 marca 2019 r. w sprawie harmonizacji dochodu narodowego brutto w cenach rynkowych oraz uchylające dyrektywę Rady 89/130/EWG, Euratom i rozporządzenie Rady (WE, Euratom) nr 1287/2003 (rozporządzenie DNB) (Dz. U. L 91 z 29.3.2019, s. 19). 9) Rozporządzenie Parlamentu Europejskiego i Rady (UE, Euratom) 2018/1046 z dnia 18 lipca 2018 r. w sprawie zasad finansowych mających zastosowanie do budżetu ogólnego Unii, zmieniające rozporządzenia (UE) nr 1296/2013, (UE) nr 1301/2013, (UE) nr 1303/2013, (UE) nr 1304/2013, (UE) nr 1309/2013, (UE) nr 1316/2013, (UE) nr 223/2014 i (UE) nr 283/2014 oraz decyzje nr 541/2014/UE, a także uchylające rozporządzenie (UE, Euratom) nr 966/2012 (Dz. U. L 193 z 30.7.2018, s. 1). 10) Rozporządzenie Rady (UE, Euratom) nr 609/2014 z dnia 26 maja 2014 r. w sprawie metod i procedury udostępniania tradycyjnych zasobów własnych, zasobów własnych opartych na VAT i zasobów własnych opartych na DNB oraz w sprawie środków w celu zaspokojenia potrzeb gotówkowych (Dz. U. L 168 z 7.6.2014, s. 39). 11) Decyzja Rady 70/243/EWWiS, EWG, Euratom z dnia 21 kwietnia 1970 r. w sprawie zastąpienia wkładów finansowych państw członkowskich zasobami własnymi Wspólnot (Dz. U. L 94 z 28.4.1970, s. 19). 12) Decyzja Rady 85/257/EWG, Euratom z dnia 7 maja 1985 r. w sprawie systemu zasobów własnych Wspólnot (Dz. U. L 128 z 14.5.1985, s. 15). 13) Decyzja Rady 88/376/EWG, Euratom z dnia 24 czerwca 1988 r. w sprawie systemu środków własnych Wspólnot (Dz. U. L 185, 15.7.1988, s. 24). 14) Decyzja Rady 94/728/WE, Euratom z dnia 31 października 1994 r. w sprawie systemu zasobów własnych Wspólnot Europejskich (Dz. U. L 293 z 12.11.1994, s. 9). 15) Decyzja Rady 2000/597/WE, Euratom z dnia 29 września 2000 r. w sprawie systemu środków własnych Wspólnot Europejskich (Dz. U. L 253 z 7.10.2000, s. 42). 16) Decyzja Rady 2007/436/WE, Euratom z dnia 7 czerwca 2007 r. w sprawie systemu zasobów własnych Wspólnot Europejskich (Dz. U. L 163 z 23.6.2007, s. 17).
+
+## Dodatek - Załącznik - Tabela korelacji
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2021/1251/text.pdf) Decyzja 2014/335/UE, Euratom Niniejsza decyzja art. 1 art. 1 art. 2 ust. 1 lit. a) art. 2 ust. 1 lit. a) art. 2 ust. 1 lit. b) art. 2 ust. 1 lit. b) art. 2 ust. 1 lit. c) art. 2 ust. 1 lit. c) art. 2 ust. 1 lit. d) art. 2 ust. 2 - art. 2 ust. 2 art. 2 ust. 3 art. 9 ust. 2 art. 2 ust. 4 art. 2 ust. 1 lit. b) art. 2 ust. 5 art. 2 ust. 3, akapit pierwszy i art. 2 ust. 4 art. 2 ust. 6 art. 2 ust. 5 art. 2 ust. 7 art. 2 ust. 3, akapit drugi i art. 3 ust. 4 art. 3 ust. 1 art. 3 ust. 1 art. 3 ust. 2 art. 3 ust. 2 i 3 art. 3 ust. 3 art. 3 ust. 4 art. 3 ust. 4 art. 4 art. 4 art. 5 art. 5 art. 6 art. 6 art. 7 art. 7 art. 8 art. 8 ust. 1 art. 9 ust. 1 art. 8 ust. 2 art. 9 ust. 3 art. 9 ust. 4-9 art. 9 art. 10 art. 10 ust. 1 art. 11 ust. 1 art. 10 ust. 2 art. 11 ust. 2 art. 10 ust. 3 art. 11 ust. 3 art. 10 ust. 3 akapit drugi art. 11 ust. 4 art. 11 ust. 5 art. 10 ust. 4 art. 11 ust. 6 art. 11 art. 12 art. 12 - art. 13
+
+## Dodatek - Decyzja Rady UE w języku angielskim
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2021/1251/text.pdf)

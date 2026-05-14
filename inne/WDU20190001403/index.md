@@ -8,11 +8,9 @@ pos: 1403
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o odpadach oraz niektórych innych ustaw
-
-*USTAWA z dnia 4 lipca 2019 r.*
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw oraz ustawę z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,65 +22,2334 @@ domain: null
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-07-29 |
 | Ostatnia zmiana | 2025-01-16 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1403/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1403/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1403) |
 
-**Art. 1.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r. poz. 701 i 730) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2018 r. poz. 1454 i 1629 oraz z 2019 r. poz. 730) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396) wprowadza się następujące zmiany:
+W ustawie z dnia 14 grudnia 2012 r. o odpadach ([Dz. U. z 2019 r. poz. 701](https://api.sejm.gov.pl/eli/acts/DU/2019/701/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2018 r. poz. 1932) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 37b.** Kto będąc posiadaczem odpadów, wykonującym usługę polegającą na przekazywaniu odpadów do odzysku lub recyklingu, w imieniu przedsiębiorcy lub organizacji odzysku, nie składa wniosku o wydanie dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku prowadzącemu odzysk lub recykling, podlega karze grzywny.”.
+w art. 49:
 
-**Art. 5.** W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach (Dz. U. z 2019 r. poz. 521) wprowadza się następujące zmiany:
+### a)
 
-**Art. 95a.** Kto, wbrew przepisom art. 64a, nie udostępnia zaświadczenia o przetworzonych zużytych bateriach i zużytych akumulatorach albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne, podlega karze grzywny.”.
+ust. 3 otrzymuje brzmienie:
 
-**Art. 6.** W ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi (Dz. U. z 2019 r. poz. 542) wprowadza się następujące zmiany:
+„
 
-**Art. 7.** W ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2018 r. poz. 1466 i 1479 oraz z 2019 r. poz. 125) wprowadza się następujące zmiany:
+### 3.
 
-**Art. 8.** W ustawie z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2422, z 2018 r. poz. 1544 oraz z 2019 r. poz. 60) w art. 1:
+Wpisu do rejestru na wniosek dokonuje marszałek województwa, właściwy ze względu na miejsce zamieszkania lub siedzibę podmiotu.
 
-**Art. 9.** W ustawie z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw (Dz. U. z 2019 r. poz. 60, 848 i 934) w art. 45 pkt 5 otrzymuje brzmienie: „5) art. 57 otrzymuje brzmienie: „Art. 57. W ustawie z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw (Dz. U. poz. 2422) w art. 1 w pkt 9 lit. e otrzymuje brzmienie: „e) ust. 5 otrzymuje brzmienie: „5. Dokumenty ewidencji odpadów, o których mowa w ust. 1 pkt 1 i 2, sporządzane za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, nie wymagają opatrzenia ich podpisem.”,”.”;”.
+” ,
 
-**Art. 10.** Podmioty obowiązane do podania numeru PESEL we wniosku o wpis do rejestru podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, które posiadają wpis do tego rejestru w dniu wejścia w życie niniejszej ustawy, mogą prowadzić działalność na podstawie dotychczasowego wpisu do tego rejestru. Podmioty te są obowiązane uzupełnić brakujące dane dotyczące numeru PESEL w pierwszym wniosku o zmianę wpisu w tym rejestrze składanym po dniu wejścia w życie niniejszej ustawy.
+### b)
 
-**Art. 11.** Do wniosków o wpis do rejestru podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, wniosków o zmianę wpisu do tego rejestru oraz wniosków o wykreślenie z tego rejestru, złożonych do dnia 31 grudnia 2019 r., stosuje się przepisy dotychczasowe.
+w ust. 7:
 
-**Art. 12.** Do dokumentów ewidencji odpadów, o których mowa w art. 67 ust. 1 ustawy zmienianej w art. 1, sporządzanych za okres do dnia 31 grudnia 2019 r., stosuje się przepisy dotychczasowe.
+- - w pkt 1 wyraz „warunkach” zastępuje się wyrazem „warunków”,
 
-**Art. 13.** W przypadku trwałego zaprzestania wykonywania działalności, o którym mowa w art. 76 ust. 3 ustawy zmienianej w art. 1, do dnia 31 grudnia 2019 r., przedsiębiorca wykonuje określony w tym przepisie obowiązek zgodnie z dotychczasowymi przepisami.
+- - w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 i 5 w brzmieniu: „ 4) numeru PESEL; 5) adresu e-mail. ” ;
 
-**Art. 14.**
+### 2)
 
-1. Do sprawozdań za 2018 r., o których mowa w art. 9q ust. 1 i art. 9s ust. 1 ustawy zmienianej w art. 2, stosuje się przepisy dotychczasowe.
+w art. 50 w ust. 1 w pkt 6 w lit. f kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
 
-2. Do sprawozdań, o których mowa w art. 9o ust. 1 ustawy zmienianej w art. 2, dotyczących kwartału, w którym niniejsza ustawa weszła w życie, albo kwartału przed dniem jej wejścia w życie, stosuje się przepisy dotychczasowe.
+„
 
-**Art. 15.** Dokumenty potwierdzające recykling albo dokumenty potwierdzające inne niż recykling procesy odzysku wydawane na wniosek, o którym mowa w art. 11 ust. 3 ustawy zmienianej w art. 4, które obejmują okresy:
+### 7)
 
-**Art. 16.** Zaświadczenia, o których mowa w art. 59a i art. 64a ustawy zmienianej w art. 5, obejmujące okresy:
+z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach ([Dz. U. z 2018 r. poz. 1454](https://api.sejm.gov.pl/eli/acts/DU/2018/1454/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html) oraz [z 2019 r. poz. 730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [1403](https://api.sejm.gov.pl/eli/acts/DU/2019/1403/text.html)):
 
-**Art. 17.**
+### a)
 
-1. Do dokumentów DPO, o których mowa w art. 8 pkt 1 lit. b ustawy zmienianej w art. 6, i dokumentów DPR, o których mowa w art. 8 pkt 1 lit. a ustawy zmienianej w art. 6, wystawianych na wniosek, o którym mowa w art. 23 ust. 4 ustawy zmienianej w art. 6, złożony do dnia 31 grudnia 2021 r., stosuje się przepisy dotychczasowe.
+punktów selektywnego zbierania odpadów komunalnych prowadzonych samodzielnie przez gminę lub wspólnie z inną gminą lub gminami,
 
-2. Do dokumentów EDPO, o których mowa w art. 8 pkt 1 lit. d ustawy zmienianej w art. 6, i dokumentów EDPR, o których mowa w art. 8 pkt 1 lit. c ustawy zmienianej w art. 6, wystawianych na wniosek, o którym mowa w art. 24 ust. 2 ustawy zmienianej w art. 6, złożony do dnia 31 grudnia 2021 r., stosuje się przepisy dotychczasowe.
+### b)
 
-**Art. 18.** Zaświadczenia, o których mowa w art. 53 ust. 1, art. 55 ust. 1 i art. 57 ust. 1 ustawy zmienianej w art. 7, obejmujące okresy:
+podmiotów, które uzyskały wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości.
 
-**Art. 19.** Do dnia 31 grudnia 2019 r. do ewidencji odpadów stosuje się przepisy dotychczasowe.
+” ;
 
-**Art. 20.** Podmiot zbierający odpady komunalne inne niż stanowiące frakcje odpadów komunalnych papieru, tworzyw sztucznych, metali i szkła, po raz pierwszy składa sprawozdanie, o którym mowa w art. 9nb ust. 1 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, za 2020 r.
+### 3)
 
-**Art. 21.**
+w art. 51:
 
-1. Prowadzący punkt selektywnego zbierania odpadów, o którym mowa w art. 45 ust. 1 pkt 11 ustawy zmienianej w art. 1, do dnia 30 listopada 2019 r. składa do marszałka województwa właściwego ze względu na miejsce wykonywania działalności, wniosek o wpis do rejestru, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, zawierający informacje o nazwie oraz adresie punktu selektywnego zbierania odpadów komunalnych.
+### a)
 
-2. Do złożonych wniosków, o których mowa w ust. 1, stosuje się art. 53 ust. 1 ustawy zmienianej w art. 1.
+w ust. 1 w pkt 5 skreśla się przecinek i uchyla się pkt 6,
 
-**Art. 22.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
+### b)
 
+w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+wytwórca odpadów będący rolnikiem gospodarującym na powierzchni użytków rolnych poniżej 75 ha, o ile nie podlega wpisowi do rejestru na podstawie ust. 1.
+
+” ;
+
+### 4)
+
+w art. 52:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela - również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby producenta w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, zwanego dalej „producentem sprzętu”, który go wyznaczył; ” ,
+
+- - po pkt 3 dodaje się pkt 3a w brzmieniu: „ 3a) numer PESEL - w przypadku podmiotów będących osobami fizycznymi nieobowiązanymi do posiadania numeru identyfikacji podatkowej (NIP); ” ,
+
+- - w pkt 4: - - w lit. a tiret drugie otrzymuje brzmienie: „ - nazwę i numer rejestrowy organizacji odzysku, która przejęła obowiązek zapewnienia odzysku i recyklingu odpadów powstałych z produktów, o ile została zawarta umowa z organizacją odzysku, ” , - - w lit. b w tiret szóste po wyrazach „do recyklingu” dodaje się wyrazy „w odniesieniu do poszczególnych rodzajów odpadów”, - - w lit. c dodaje się tiret szóste w brzmieniu: „ - informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku, ” , - w pkt 5 w lit. a w tiret drugie po wyrazach „funkcjonuje w sieci,” dodaje się wyrazy „oraz datę, do której dane stacje lub punkty funkcjonowały w tej sieci, w przypadku zaprzestania ich funkcjonowania,”, - w pkt 6 w lit. f w tiret drugie wyrazy „zaświadczenie wydane” zastępuje się wyrazami „kopię zaświadczenia wydanego”, - w pkt 7 w lit. a: - - tiret pierwsze otrzymuje brzmienie: „ - informację o rodzaju wprowadzanych baterii i akumulatorów, ” , - - dodaje się tiret trzecie w brzmieniu: „ - informację o marce wprowadzanych baterii i akumulatorów, o ile posiada on taką informację, ” , - w pkt 7a: - - w lit. c tiret trzecie i czwarte otrzymują brzmienie: „ - informację o stosowanym procesie odzysku, - informację o masie poszczególnych rodzajów odpadów dopuszczonych do odzysku wraz z podaniem rocznej mocy przerobowej instalacji lub urządzenia służących do odzysku, ” , - - w lit. d tiret pierwsze-trzecie otrzymują brzmienie: „ - informację o sposobie wykonania obowiązku zapewnienia odzysku i recyklingu odpadów opakowaniowych samodzielnie, za pośrednictwem organizacji odzysku opakowań lub organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy, - nazwę i numer rejestrowy organizacji odzysku opakowań, która przejęła obowiązek zapewnienia odzysku i recyklingu odpadów opakowaniowych, o ile została zawarta umowa z organizacją odzysku opakowań, - nazwę i numer rejestrowy organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy - w przypadku wprowadzających produkty w opakowaniach wielomateriałowych lub wprowadzających środki niebezpieczne w opakowaniach, którzy przystąpili do porozumienia, o którym mowa w art. 25 tej ustawy, ” , - - lit. f otrzymuje brzmienie: „ f) organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1 tej ustawy - informację o zakresie i terminie realizacji zawartego przez tę organizację porozumienia z marszałkiem województwa; ” , - po pkt 7a dodaje się pkt 7b w brzmieniu: „ 7b) z zakresu ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach w odniesieniu do podmiotu, który uzyskał wpis do rejestru działalności regulowanej w zakresie odbierania odpadów komunalnych od właścicieli nieruchomości - nazwę gminy, powiatu i województwa, w których podmiot ten odbiera odpady komunalne; ” , - w pkt 8 w lit. f: - - wyraz „wytwarzaniu” zastępuje się wyrazami „miejscu wytwarzania”, - - kropkę zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) punktu selektywnego zbierania odpadów komunalnych, o którym mowa w art. 45 ust. 1 pkt 11: - adres punktu selektywnego zbierania odpadów komunalnych, - kod i nazwę rodzajów zbieranych odpadów komunalnych. ” ,
+
+### b)
+
+w ust. 2:
+
+- - po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) adres e-mail; ” ,
+
+- - pkt 5 otrzymuje brzmienie: „ 5) informacje zawarte w decyzjach, o których mowa w pkt 4: a) nazwę i adres instalacji lub nazwę i adres miejsca zbierania odpadów, b) informacje o rodzajach odpadów wytwarzanych, zbieranych lub przetwarzanych, c) informacje o dopuszczonej w decyzji mocy przerobowej instalacji lub urządzenia, d) informacje o procesie odzysku lub procesie unieszkodliwiania; ” ,
+
+- - uchyla się pkt 7,
+
+- - w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) współrzędne geograficzne instalacji: a) składowisk odpadów, b) obiektów unieszkodliwiania odpadów wydobywczych, c) spalarni odpadów, d) współspalarni odpadów. ” ,
+
+### c)
+
+w ust. 3 po wyrazach „ust. 2 pkt 2” dodaje się wyrazy „, 2a i 9”;
+
+### 5)
+
+w art. 53:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „w formie pisemnej”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wniosek o wpis do rejestru składa się przy użyciu rejestrowego formularza elektronicznego za pośrednictwem strony internetowej określonej w przepisach wydanych na podstawie art. 84.
+
+” ,
+
+### c)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przedsiębiorca zagraniczny, w przypadku, o którym mowa w ust. 3 pkt 2, składa w formie pisemnej wniosek o wpis do rejestru wygenerowany za pośrednictwem strony internetowej określonej w przepisach wydanych na podstawie art. 84, opatrzony podpisem tego przedsiębiorcy lub osoby go reprezentującej.
+
+” ,
+
+### d)
+
+w ust. 5:
+
+- - we wprowadzeniu do wyliczenia skreśla się wyrazy „w szczególności”,
+
+- - pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko lub nazwę podmiotu oraz adres zamieszkania lub siedziby, adres e-mail, a w przypadku wyznaczenia autoryzowanego przedstawiciela - również kod pocztowy, miejscowość, nazwę ulicy, numer domu i lokalu, kraj, numer telefonu i faksu oraz osobę do kontaktu, a także szczegółowe dane producenta sprzętu, który go wyznaczył, obejmujące informację o imieniu i nazwisku lub nazwie oraz adresie zamieszkania lub siedziby oraz wykaz wprowadzających sprzęt, którzy mogą korzystać z uprawnienia, o którym mowa w art. 25 ust. 3 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ” ,
+
+- - po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) imię i nazwisko oraz adres e-mail osoby uprawnionej do reprezentacji podmiotu, ” ,
+
+- - w pkt 4 po wyrazach „i nazwisko” dodaje się wyrazy „oraz adres e-mail”,
+
+### e)
+
+w ust. 7:
+
+- - we wprowadzeniu do wyliczenia skreśla się wyrazy „, składanego w formie pisemnej,”,
+
+- - w pkt 1 w lit. a oraz w pkt 2 w lit. a i c skreśla się wyraz „uwierzytelnioną”,
+
+- - w pkt 2 w lit. b wyrazy „dokument potwierdzający” zastępuje się wyrazami „kopię dokumentu potwierdzającego”,
+
+- - w pkt 3 i 4 wyrazy „zaświadczenie wydane” zastępuje się wyrazami „kopię zaświadczenia wydanego”,
+
+### f)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+Marszałek województwa zamieszcza w rejestrze dokumenty, o których mowa w ust. 7, oraz udostępnia na żądanie właściwych organów dokumenty, o których mowa w ust. 7 pkt 6.
+
+” ;
+
+### 6)
+
+w art. 55 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Marszałek województwa zawiadamia podmiot o aktywacji indywidualnego konta drogą elektroniczną.
+
+” ;
+
+### 7)
+
+art. 56 otrzymuje brzmienie:
+
+„
+
+### Art. 56.
+
+### 1.
+
+Marszałek województwa weryfikuje i zatwierdza:
+
+### 1)
+
+informacje, o których mowa w art. 52 ust. 1, zawarte we wniosku o wpis do rejestru;
+
+### 2)
+
+wymagane informacje, o których mowa w art. 52 ust. 2.
+
+### 2.
+
+Wpis do rejestru oraz zamieszczenie w rejestrze informacji, o których mowa w art. 52 ust. 1 i 2, następuje z chwilą zatwierdzenia, o którym mowa w ust. 1.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się w przypadku zmiany wpisu w rejestrze oraz wykreślenia z rejestru.
+
+” ;
+
+### 8)
+
+w art. 59 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmiot wpisany do rejestru jest obowiązany do złożenia marszałkowi województwa wniosku o zmianę wpisu w rejestrze przy użyciu aktualizacyjnego formularza elektronicznego za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, w przypadku zmiany: ” ;
+
+### 9)
+
+w art. 60:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku trwałego zaprzestania wykonywania działalności wymagającej wpisu do rejestru, podmiot jest obowiązany, w terminie 14 dni od dnia trwałego zaprzestania wykonywania tej działalności, do złożenia marszałkowi województwa wniosku o wykreślenie z rejestru przy użyciu formularza elektronicznego o wykreślenie z rejestru za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami.
+
+” ,
+
+### b)
+
+uchyla się ust. 4;
+
+### 10)
+
+uchyla się art. 61;
+
+### 11)
+
+w art. 65:
+
+### a)
+
+uchyla się ust. 2,
+
+### b)
+
+dodaje się ust. 3-5 w brzmieniu:
+
+„
+
+### 3.
+
+Formularze rejestrowe, aktualizacyjne i o wykreśleniu z rejestru złożone za pośrednictwem strony internetowej, określonej w przepisach wydanych na podstawie art. 84 albo indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami nie wymagają opatrzenia ich podpisem.
+
+### 4.
+
+Pisma w sprawach dotyczących wpisu do rejestru, zmiany wpisu w rejestrze oraz wykreślenia z rejestru doręcza się za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ([Dz. U. z 2019 r. poz. 123](https://api.sejm.gov.pl/eli/acts/DU/2019/123/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)), chyba że przepis szczególny stanowi inaczej.
+
+### 5.
+
+Przepisu ust. 4 nie stosuje się do wezwania do przekazania informacji w przypadku, o którym mowa w art. 52 ust. 3, gdy marszałek województwa nie posiada adresu e-mail posiadacza odpadów.
+
+” ;
+
+### 12)
+
+w art. 66 w ust. 4 w pkt 1 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu:
+
+„
+
+### c)
+
+będących rolnikami gospodarującymi na powierzchni użytków rolnych poniżej 75 ha, o ile nie podlegają wpisowi do rejestru na podstawie art. 51 ust. 1;
+
+” ;
+
+### 13)
+
+w art. 67 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Karta ewidencji odpadów niebezpiecznych zawiera dodatkowo:
+
+### 1)
+
+imię i nazwisko, adres zamieszkania lub siedziby oraz numer rejestrowy posiadacza odpadów, który przekazuje odpad;
+
+### 2)
+
+imię i nazwisko, adres zamieszkania lub siedziby oraz numer rejestrowy posiadacza odpadów, który przejmuje odpad;
+
+### 3)
+
+informację o rodzaju prowadzonej działalności w zakresie sprzedaży odpadów lub pośredniczenia w ich obrocie.
+
+” ;
+
+### 14)
+
+uchyla się art. 68;
+
+### 15)
+
+w art. 70 uchyla się ust. 2;
+
+### 16)
+
+art. 72 otrzymuje brzmienie:
+
+„
+
+### Art. 72.
+
+### 1.
+
+Posiadacz odpadów jest obowiązany do przechowywania dokumentów i wszelkich danych, na podstawie których są sporządzane dokumenty ewidencji odpadów, o których mowa w art. 67 ust. 1, przez 5 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty ewidencji odpadów, z zastrzeżeniem art. 116.
+
+### 2.
+
+Posiadacz odpadów jest obowiązany do udostępniania dokumentów i wszelkich danych, o których mowa w ust. 1, na żądanie organów uprawnionych do przeprowadzania kontroli.
+
+### 3.
+
+Marszałek województwa właściwy ze względu na miejsce odbierania odpadów komunalnych, wytwarzania, przetwarzania odpadów albo miejsce zamieszkania lub siedzibę transportującego odpady wykonującego usługę transportu odpadów, w drodze decyzji, zobowiązuje posiadacza odpadów do przedłożenia dokumentów i wszelkich danych, o których mowa w ust. 1, w przypadku gdy dokumenty ewidencji odpadów, o których mowa w art. 67 ust. 1, budzą wątpliwości co do prawidłowości sporządzenia lub gdy jest to niezbędne do prowadzenia innych postępowań z zakresu ochrony środowiska należących do jego właściwości.
+
+” ;
+
+### 17)
+
+w art. 73 w ust. 2:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Sprawozdanie, o którym mowa w ust. 1, zawiera co najmniej: ” ,
+
+### b)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+w zakresie opakowań i odpadów opakowaniowych informacje o:
+
+### a)
+
+masie wytworzonych i przywiezionych z zagranicy opakowań według rodzajów materiałów, z jakich zostały wykonane, w tym o:
+
+- - opakowaniach jednorazowego użytku,
+
+- - opakowaniach wielokrotnego użytku,
+
+- - przestrzeganiu ograniczeń wynikających z art. 11 ust. 1 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi,
+
+- - toksyczności lub zagrożeniach ze strony materiałów opakowaniowych lub składników stosowanych do produkcji opakowań,
+
+### b)
+
+liczbie wprowadzonych do obrotu lekkich toreb na zakupy z tworzywa sztucznego,
+
+### c)
+
+masie opakowań, w tym opakowań środków niebezpiecznych, w których zostały wprowadzone do obrotu produkty, z podziałem na poszczególne ich rodzaje,
+
+### d)
+
+masie poddanych odzyskowi i recyklingowi odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje oraz z uwzględnieniem podziału na odpady pochodzące z gospodarstw domowych i z innych źródeł niż gospodarstwa domowe, a także według sposobu ich odzysku i recyklingu,
+
+### e)
+
+osiągniętych poziomach odzysku i recyklingu odpadów opakowaniowych, w tym odpadów opakowaniowych powstałych z opakowań środków niebezpiecznych, z podziałem na poszczególne ich rodzaje,
+
+### f)
+
+wysokości należnej opłaty produktowej, obliczonej oddzielnie, z podziałem na poszczególne rodzaje opakowań, w tym opakowań środków niebezpiecznych - w przypadku nieosiągnięcia wymaganego poziomu odzysku lub recyklingu,
+
+### g)
+
+masie wywiezionych za granicę opakowań, według rodzajów materiałów, z jakich zostały wykonane, z podziałem na opakowania jednorazowego użytku oraz opakowania wielokrotnego użytku - w przypadku przedsiębiorcy, który eksportuje lub dokonuje wewnątrzwspólnotowej dostawy opakowań lub produktów w opakowaniach,
+
+### h)
+
+przeprowadzonych publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 19 ust. 4 pkt 2 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, oraz o wysokości środków, które powinny zostać przeznaczone na publiczne kampanie edukacyjne;
+
+” ,
+
+### c)
+
+w pkt 5:
+
+- - w lit. a tiret pierwsze-czwarte otrzymują brzmienie: „ - masie sprzętu wprowadzonego do obrotu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, oraz na sprzęt przeznaczony dla gospodarstw domowych i na sprzęt inny niż przeznaczony dla gospodarstw domowych, - masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, masie zużytego sprzętu przetworzonego w zakładzie przetwarzania, masie zużytego sprzętu przygotowanego do ponownego użycia, masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, poddanych recyklingowi, innym niż recykling procesom odzysku oraz unieszkodliwianiu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, - masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w celu poddania ich recyklingowi, innym niż recykling procesom odzysku, oraz unieszkodliwianiu, z podziałem na odpady wywiezione na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz na terytorium państwa niebędącego tym państwem członkowskim, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, - osiągniętym minimalnym rocznym poziomie zbierania zużytego sprzętu, poziomie odzysku oraz poziomie przygotowania do ponownego użycia i recyklingu zużytego sprzętu, z podziałem na grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, ” ,
+
+- - w lit. b wprowadzenie do wyliczenia i tiret pierwsze otrzymują brzmienie: „ wykaz zakładów przetwarzania, z których prowadzącymi została zawarta umowa, o której mowa w art. 23 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, przez wprowadzającego sprzęt lub organizację odzysku sprzętu elektrycznego i elektronicznego, za pośrednictwem której autoryzowany przedstawiciel lub wprowadzający sprzęt realizuje obowiązki wynikające z tej ustawy, zawierający: - imię i nazwisko lub nazwę podmiotu prowadzącego zakład przetwarzania, z którym została zawarta umowa, oraz adres zamieszkania lub siedziby, ” ,
+
+- - lit. c otrzymuje brzmienie: „ c) informacje o sposobie przeprowadzenia publicznych kampanii edukacyjnych ze wskazaniem, czy obowiązek ten był zrealizowany samodzielnie, czy za pośrednictwem organizacji odzysku sprzętu elektrycznego i elektronicznego, przy czym w przypadku wprowadzającego sprzęt przeprowadzającego publiczne kampanie edukacyjne samodzielnie informacje o wysokości: - środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 15 ust. 3 pkt 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, - osiągniętego przychodu netto z tytułu wprowadzania do obrotu sprzętu elektrycznego i elektronicznego na terytorium kraju w poprzednim roku kalendarzowym; ” ,
+
+### d)
+
+w pkt 6 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+informacje o przeprowadzonych publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków, o których mowa w art. 37 ust. 4 pkt 2 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach,
+
+” ;
+
+### 18)
+
+w art. 74:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+art. 73 ust. 2 pkt 2 - w przypadku organizacji odzysku opakowań, o której mowa w ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
+
+” ,
+
+### b)
+
+w ust. 3a:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) informacje o przeprowadzonych przez organizację odzysku opakowań publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel oraz o wysokości środków, które organizacja odzysku opakowań powinna przeznaczyć na publiczne kampanie edukacyjne; ” ,
+
+- - w pkt 3 uchyla się lit. a i b;
+
+### 19)
+
+w art. 74a:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, masie zużytego sprzętu przetworzonego w zakładzie przetwarzania, masie zużytego sprzętu przygotowanego do ponownego użycia, masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, poddanych recyklingowi, innym niż recykling procesom odzysku oraz unieszkodliwianiu, z podziałem na grupy sprzętu;
+
+” ,
+
+### b)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+przeprowadzonych przez nią publicznych kampaniach edukacyjnych wraz ze wskazaniem wysokości środków przeznaczonych na ten cel lub wysokości należnych środków oraz wysokości osiągniętego przychodu netto, o których mowa w art. 62 ust. 2 albo 3 tej ustawy.
+
+” ;
+
+### 20)
+
+w art. 75 w ust. 2:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Roczne sprawozdanie, o którym mowa w ust. 1, zawiera co najmniej: ” ,
+
+### b)
+
+w pkt 2 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+instalacjach i urządzeniach służących do przetwarzania tych odpadów, w tym dane techniczne i informacje na temat funkcjonowania instalacji i urządzenia, takie jak terminy i czas trwania postoju lub awarii oraz liczba godzin pracy na dobę, o ile podmiot przetwarza odpady,
+
+” ,
+
+### c)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+w przypadku wytwórcy komunalnych osadów ściekowych stosowanych w celach, o których mowa w art. 96 ust. 1 - informacje o:
+
+### a)
+
+adresie oczyszczalni ścieków,
+
+### b)
+
+rodzaju przeprowadzonej obróbki komunalnych osadów ściekowych,
+
+### c)
+
+masie i suchej masie komunalnych osadów ściekowych,
+
+### d)
+
+składzie i właściwościach komunalnych osadów ściekowych,
+
+### e)
+
+władającym powierzchnią ziemi, na której są stosowane komunalne osady ściekowe, z podaniem imienia i nazwiska lub nazwy podmiotu oraz adresu jego zamieszkania lub siedziby,
+
+### f)
+
+miejscu i powierzchni stosowania komunalnych osadów ściekowych,
+
+### g)
+
+celu stosowania komunalnych osadów ściekowych;
+
+” ,
+
+### d)
+
+pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+w przypadku zbierającego zużyty sprzęt w rozumieniu ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym - informacje o:
+
+### a)
+
+masie zebranego zużytego sprzętu pochodzącego z gospodarstw domowych oraz z innych źródeł niż gospodarstwa domowe, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych,
+
+### b)
+
+masie zużytego sprzętu przekazanego do prowadzącego zakład przetwarzania, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych;
+
+” ,
+
+### e)
+
+w pkt 7 lit. b-d otrzymują brzmienie:
+
+„
+
+### b)
+
+masie zużytego sprzętu elektrycznego i elektronicznego przyjętego przez prowadzącego zakład przetwarzania, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych, z którego powstał ten zużyty sprzęt, oraz o procesach przetwarzania,
+
+### c)
+
+kodzie, rodzaju i masie odpadów powstałych ze zużytego sprzętu, przekazanych prowadzącemu działalność w zakresie recyklingu, innych niż recykling procesów odzysku lub unieszkodliwiania, oraz o masie zużytego sprzętu, a także o kodzie i masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia, z podaniem typu procesu zastosowanego w zakładzie przetwarzania oraz numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych,
+
+### d)
+
+kodzie, rodzaju i masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju w podziale na inne niż Rzeczpospolita Polska państwa członkowskie w rozumieniu art. 4 pkt 5 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym oraz państwa niebędące tymi państwami członkowskimi, w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu, z podaniem numeru i nazwy grupy sprzętu, z wyodrębnieniem paneli fotowoltaicznych;
+
+” ;
+
+### 21)
+
+w art. 76:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Podmioty obowiązane do sporządzania sprawozdań, o których mowa w art. 73, art. 74a i art. 75, sporządzają te sprawozdania za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami.
+
+” ,
+
+### b)
+
+uchyla się ust. 4,
+
+### c)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Sprawozdania sporządzane za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami nie wymagają opatrzenia ich podpisem.
+
+” ;
+
+### 22)
+
+w art. 77 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Jeżeli z weryfikacji, o której mowa w ust. 1, wynika, że informacje zawarte w sprawozdaniu są niezgodne ze stanem faktycznym, marszałek województwa wzywa za pośrednictwem Bazy danych o produktach i opakowaniach oraz o gospodarce odpadami do korekty sprawozdania, określając termin przekazania korekty nie dłuższy niż 14 dni od dnia otrzymania wezwania. ” ;
+
+### 23)
+
+w art. 79 dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+W celu dokonywania czynności w BDO gromadzi się w niej również informacje: imię, nazwisko, numer PESEL oraz adres e-mail osoby fizycznej, która jest użytkownikiem BDO upoważnionym przez podmiot, niezbędne do dokonywania tych czynności.
+
+” ;
+
+### 24)
+
+w art. 80:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przetwarza dane i informacje gromadzone w BDO;
+
+” ,
+
+### b)
+
+ust. 1b otrzymuje brzmienie:
+
+„
+
+### 1b.
+
+Dane osobowe, o których mowa w ust. 1a, przechowuje się:
+
+### 1)
+
+w przypadku dokumentów ewidencji odpadów - przez 5 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty;
+
+### 2)
+
+w przypadku dokumentów innych niż dokumenty ewidencji odpadów - przez 100 lat, licząc od końca roku kalendarzowego, w którym zostały sporządzone te dokumenty.
+
+” ;
+
+### 25)
+
+art. 81 otrzymuje brzmienie:
+
+„
+
+### Art. 81.
+
+### 1.
+
+Administratorem BDO jest minister właściwy do spraw środowiska.
+
+### 2.
+
+Administratorem danych osobowych przetwarzanych w BDO jest minister właściwy do spraw środowiska. Przepisy art. 80 ust. 1b i 1c stosuje się odpowiednio.
+
+### 3.
+
+Minister właściwy do spraw środowiska może powierzyć innemu podmiotowi administrowanie BDO w całości lub w określonym zakresie.
+
+### 4.
+
+Podmiotem, o którym mowa w ust. 3, jest jednostka sektora finansów publicznych lub jednostka podległa lub nadzorowana przez ministra właściwego do spraw środowiska.
+
+### 5.
+
+Administrator BDO koordynuje realizację zadań określonych w art. 80 ust. 1.
+
+### 6.
+
+Administrator BDO trwale zabezpiecza przed utratą i nieuprawnionym dostępem informacje zawarte w rejestrze dotyczące podmiotu wykreślonego z rejestru oraz informacje, które uległy zmianie.
+
+### 7.
+
+Administrator BDO zbiera, przetwarza, przechowuje i zabezpiecza przed utratą dane i informacje gromadzone w BDO.
+
+### 8.
+
+Administrator BDO wykonuje obowiązki organu właściwego do określenia wzorów dokumentów elektronicznych i przekazuje je w celu umieszczenia w centralnym repozytorium wzorów dokumentów elektronicznych, w tym zamieszcza na stronie internetowej określonej w przepisach wydanych na podstawie art. 84 formularz, o którym mowa w art. 53 ust. 2, oraz w BDO formularze, o których mowa w art. 59 ust. 1 i art. 60 ust. 1.
+
+### 9.
+
+Zadania administratora BDO są finansowane ze środków budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw środowiska lub ze środków Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+” ;
+
+### 26)
+
+w art. 83 w ust. 1 w pkt 18 dodaje się przecinek i dodaje się pkt 19-21 w brzmieniu:
+
+„
+
+### 19)
+
+Policja,
+
+### 20)
+
+Inspekcja Transportu Drogowego,
+
+### 21)
+
+organy nadzoru górniczego
+
+” ;
+
+### 27)
+
+po art. 84 dodaje się art. 84a w brzmieniu:
+
+„
+
+### Art. 84a.
+
+Do doręczeń pism dokonywanych za pośrednictwem indywidualnego konta w BDO stosuje się odpowiednio art. 46 § 3-8 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, z tym że urzędowe poświadczenia odbioru pism w BDO nie wymagają opatrzenia ich podpisem.
+
+” ;
+
+### 28)
+
+w art. 180 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Tej samej karze podlega, kto wbrew przepisowi art. 72 nie przechowuje przez określony czas, nie udostępnia lub nie przedkłada dokumentów i wszelkich danych, o których mowa w art. 72 ust. 1.
+
+” ;
+
+### 29)
+
+w art. 194 po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+W przypadku braku możliwości obliczenia wysokości administracyjnej kary pieniężnej, o której mowa w ust. 4, w sposób określony w załączniku nr 6 do ustawy, wysokość tej kary oblicza się, uwzględniając przesłanki określone w art. 199.
+
+” ;
+
+### 30)
+
+w art. 251:
+
+### a)
+
+w ust. 3:
+
+- - we wprowadzeniu do wyliczenia wyrazy „2016-2025” zastępuje się wyrazami „2016-2028”,
+
+- - pkt 4-10 otrzymują brzmienie: „ 4) 2019 r. - 14 624 tys. zł; 5) 2020 r. - 9854 tys. zł; 6) 2021 r. - 3706 tys. zł; 7) 2022 r. - 3100 tys. zł; 8) 2023 r. - 2360 tys. zł; 9) 2024 r. - 2360 tys. zł; 10) 2025 r. - 2360 tys. zł; ” ,
+
+- - dodaje się pkt 11-13 w brzmieniu: „ 11) 2026 r. - 2360 tys. zł; 12) 2027 r. - 2360 tys. zł; 13) 2028 r. - 2360 tys. zł. ” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Działania, o których mowa w ust. 4, polegają na ograniczeniu lub wstrzymaniu rozbudowy systemu BDO w danym roku budżetowym.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach ([Dz. U. z 2018 r. poz. 1454](https://api.sejm.gov.pl/eli/acts/DU/2018/1454/text.html) i [1629](https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text.html) oraz [z 2019 r. poz. 730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 9n:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Podmiot odbierający odpady komunalne od właścicieli nieruchomości jest obowiązany do sporządzania rocznych sprawozdań.
+
+### 2.
+
+Sprawozdanie jest przekazywane wójtowi, burmistrzowi lub prezydentowi miasta w terminie do dnia 31 stycznia za poprzedni rok kalendarzowy.
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu odbierającego odpady komunalne od właścicieli nieruchomości, numer rejestrowy, o którym mowa w art. 9b ust. 4 pkt 5, numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, oraz numer identyfikacji podatkowej (NIP), o ile został nadany;
+
+### 2)
+
+informacje o miejscu prowadzenia działalności;
+
+### 3)
+
+informacje o masie:
+
+### a)
+
+poszczególnych rodzajów odebranych od właścicieli nieruchomości odpadów komunalnych oraz sposobie zagospodarowania tych odpadów, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały one przekazane,
+
+### b)
+
+pozostałości z sortowania odpadów komunalnych i pozostałości z procesu mechaniczno-biologicznego przetwarzania zmieszanych odpadów komunalnych, powstałych z odebranych od właścicieli nieruchomości odpadów komunalnych, przekazanych do składowania albo do termicznego przekształcania,
+
+### c)
+
+odpadów komunalnych przekazanych do przygotowania do ponownego użycia i recyklingu,
+
+### d)
+
+innych niż niebezpieczne odpadów budowlanych i rozbiórkowych będących odpadami komunalnymi, przekazanych do przygotowania do ponownego użycia, recyklingu i innych procesów odzysku.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Podmiot, o którym mowa w ust. 1, który w danym roku nie odbierał na terenie danej gminy odpadów komunalnych od właścicieli nieruchomości, przekazuje wójtowi, burmistrzowi lub prezydentowi miasta, w terminie, o którym mowa w ust. 2, sprawozdanie zerowe.
+
+” ;
+
+### 2)
+
+w art. 9na ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu prowadzącego punkt selektywnego zbierania odpadów komunalnych, numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, oraz numer identyfikacji podatkowej (NIP), o ile został nadany;
+
+### 2)
+
+informacje o miejscu prowadzenia punktu selektywnego zbierania odpadów komunalnych;
+
+### 3)
+
+informacje o masie:
+
+### a)
+
+poszczególnych rodzajów zebranych odpadów komunalnych oraz sposobie ich zagospodarowania, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały one przekazane,
+
+### b)
+
+pozostałości z sortowania odpadów komunalnych powstałych z zebranych odpadów komunalnych, przekazanych do składowania,
+
+### c)
+
+odpadów komunalnych przekazanych do przygotowania do ponownego użycia i recyklingu,
+
+### d)
+
+innych niż niebezpieczne odpadów budowlanych i rozbiórkowych będących odpadami komunalnymi, przekazanych do przygotowania do ponownego użycia, recyklingu i innych procesów odzysku.
+
+” ;
+
+### 3)
+
+w art. 9nb:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Podmiot zbierający odpady komunalne, z wyłączeniem podmiotu, o którym mowa w art. 9na ust. 1, oraz podmiotu zbierającego odpady komunalne przyjmującego odpady komunalne od innego zbierającego odpady komunalne, jest obowiązany do sporządzania rocznych sprawozdań.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu zbierającego odpady komunalne, numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, oraz numer identyfikacji podatkowej (NIP), o ile został nadany;
+
+### 2)
+
+informacje o miejscu prowadzenia działalności;
+
+### 3)
+
+informacje o masie:
+
+### a)
+
+poszczególnych rodzajów zebranych odpadów komunalnych, ze szczególnym uwzględnieniem odpadów opakowaniowych, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały przekazane zebrane odpady komunalne,
+
+### b)
+
+odpadów komunalnych przygotowanych do ponownego użycia i do recyklingu, powstałych z zebranych odpadów komunalnych.
+
+” ;
+
+### 4)
+
+w art. 9o ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby podmiotu prowadzącego działalność w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych, numer decyzji w sprawie wydania zezwolenia na prowadzenie tej działalności, o ile nie jest zwolniony z obowiązku jej posiadania, oraz numer identyfikacji podatkowej (NIP), o ile został nadany;
+
+### 2)
+
+informację, za który kwartał i rok sporządzane jest sprawozdanie;
+
+### 3)
+
+informacje o ilości odebranych z obszaru gminy nieczystości ciekłych:
+
+### a)
+
+bytowych,
+
+### b)
+
+przemysłowych;
+
+### 4)
+
+informacje o ilości przekazanych do stacji zlewnej odebranych z obszaru gminy nieczystości ciekłych:
+
+### a)
+
+bytowych,
+
+### b)
+
+przemysłowych
+
+- wraz ze wskazaniem nazwy i adresu stacji zlewnej, do której zostały przekazane odebrane nieczystości ciekłe;
+
+### 5)
+
+wyjaśnienia dotyczące różnicy między ilością nieczystości ciekłych odebranych z obszaru gminy a ilością tych nieczystości przekazanych do stacji zlewnych, jeżeli występuje taka różnica;
+
+### 6)
+
+liczbę właścicieli nieruchomości, od których zostały odebrane nieczystości ciekłe;
+
+### 7)
+
+datę sporządzenia sprawozdania;
+
+### 8)
+
+podpis prowadzącego działalność w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych lub podpis osoby upoważnionej do występowania w jego imieniu na podstawie pełnomocnictwa.
+
+” ;
+
+### 5)
+
+w art. 9p ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W celu weryfikacji danych zawartych w sprawozdaniu, o którym mowa w art. 9n ust. 1, art. 9na ust. 1, art. 9nb ust. 1, art. 9o ust. 1 i art. 9oa ust. 1, wójt, burmistrz lub prezydent miasta może zobowiązać podmiot odbierający odpady komunalne od właścicieli nieruchomości, podmiot prowadzący punkt selektywnego zbierania odpadów komunalnych, podmiot zbierający odpady komunalne, podmiot prowadzący działalność w zakresie opróżniania zbiorników bezodpływowych i transportu nieczystości ciekłych, prowadzącego regionalną instalację do przetwarzania odpadów komunalnych, prowadzącego instalację przewidzianą do zastępczej obsługi regionu oraz prowadzącego inną instalację do przetwarzania odpadów komunalnych do udostępniania dokumentów i wszelkich danych, na podstawie których są sporządzane dokumenty ewidencji odpadów, oraz dokumentów potwierdzających przetworzenie odpadów.
+
+” ;
+
+### 6)
+
+w art. 9q ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+nazwę gminy lub związku międzygminnego, który przejął zadania gminy, o których mowa w art. 3 ust. 2, w zakresie gospodarowania odpadami komunalnymi, rodzaj gminy i liczbę mieszkańców gminy lub związku międzygminnego;
+
+### 2)
+
+informacje o masie poszczególnych rodzajów odpadów komunalnych odebranych z terenu gminy oraz sposobie ich zagospodarowania, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały przekazane;
+
+### 3)
+
+informacje o działających na terenie gminy punktach selektywnego zbierania odpadów komunalnych, masie odpadów w nich zebranych oraz o sposobie ich zagospodarowania, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały przekazane zebrane odpady komunalne;
+
+### 4)
+
+informacje o masie pozostałości z sortowania i pozostałości z mechaniczno-biologicznego przetwarzania, przekazanych do składowania powstałych z odebranych i zebranych z terenu gminy odpadów komunalnych;
+
+### 5)
+
+informacje o osiągniętych poziomach:
+
+### a)
+
+recyklingu i przygotowania do ponownego użycia odpadów komunalnych,
+
+### b)
+
+recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami innych niż niebezpieczne odpadów budowlanych i rozbiórkowych stanowiących odpady komunalne,
+
+### c)
+
+ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania;
+
+### 6)
+
+liczbę właścicieli nieruchomości, od których zostały odebrane odpady komunalne.
+
+” ;
+
+### 7)
+
+w art. 9s ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Sprawozdanie zawiera:
+
+### 1)
+
+nazwę województwa, rodzaj i liczbę gmin lub związków międzygminnych, które przejęły zadania gminy, o których mowa w art. 3 ust. 2, w zakresie gospodarowania odpadami komunalnymi, oraz liczbę mieszkańców województwa;
+
+### 2)
+
+informacje o masie poszczególnych rodzajów odebranych z terenu województwa odpadów komunalnych oraz sposobie ich zagospodarowania, wraz ze wskazaniem nazwy i adresu instalacji, do których zostały przekazane;
+
+### 3)
+
+informacje o działających na terenie województwa punktach selektywnego zbierania odpadów komunalnych i podmiotach zbierających odpady komunalne, o których mowa w art. 9nb ust. 1;
+
+### 4)
+
+informacje o masie pozostałości z sortowania i pozostałości z mechaniczno-biologicznego przetwarzania, przekazanych do składowania powstałych z odebranych i zebranych z terenu województwa odpadów komunalnych;
+
+### 5)
+
+informacje o osiągniętych przez gminy lub związki międzygminne, które przejęły zadania gminy, o których mowa w art. 3 ust. 2, w zakresie gospodarowania odpadami komunalnymi, z terenu województwa poziomach:
+
+### a)
+
+recyklingu i przygotowania do ponownego użycia odpadów komunalnych,
+
+### b)
+
+recyklingu, przygotowania do ponownego użycia i odzysku innymi metodami innych niż niebezpieczne odpadów budowlanych i rozbiórkowych stanowiących odpady komunalne,
+
+### c)
+
+ograniczenia masy odpadów komunalnych ulegających biodegradacji przekazywanych do składowania;
+
+### 6)
+
+liczbę właścicieli nieruchomości, od których zostały odebrane odpady komunalne.
+
+” ;
+
+### 8)
+
+uchyla się art. 9t.
+
+### Art. 3.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2019 r. poz. 1396](https://api.sejm.gov.pl/eli/acts/DU/2019/1396/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 183c ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Przepisów dotyczących przeprowadzania kontroli przez komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej oraz wykonania operatu przeciwpożarowego, o którym mowa w art. 42 ust. 4b pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, nie stosuje się w przypadku pozwoleń na wytwarzanie odpadów, które dotyczą wyłącznie odpadów niepalnych.
+
+” ;
+
+### 2)
+
+w art. 184 w ust. 4 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+w przypadku pozwolenia na wytwarzanie odpadów - operat przeciwpożarowy spełniający wymagania określone w art. 42 ust. 4b pkt 1 ustawy z dnia 14 grudnia 2012 r. o odpadach;
+
+” ;
+
+### 3)
+
+w art. 401c w ust. 9 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+administrowanie Bazą danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, w tym na jej utworzenie, wdrażanie i utrzymywanie;
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej ([Dz. U. z 2018 r. poz. 1932](https://api.sejm.gov.pl/eli/acts/DU/2018/1932/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+odzysk - rozumie się przez to inny niż recykling proces odzysku;
+
+” ;
+
+### 2)
+
+w art. 3 w ust. 11c po wyrazach „o odpadach” dodaje się wyrazy „, zwanej dalej „BDO””;
+
+### 3)
+
+w art. 11:
+
+### a)
+
+w ust. 2 część wspólna otrzymuje brzmienie:
+
+„
+
+- - są ustalane na podstawie odpowiednio dokumentu potwierdzającego recykling albo dokumentu potwierdzającego inne niż recykling procesy odzysku.
+
+” ,
+
+### b)
+
+ust. 3-6 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Dokumenty, o których mowa w ust. 2, sporządza się za pośrednictwem indywidualnego konta w BDO.
+
+### 4.
+
+Dokumenty, o których mowa w ust. 2, są sporządzane przez prowadzącego odzysk lub recykling na wniosek złożony za pośrednictwem indywidualnego konta w BDO przez przedsiębiorcę lub organizację, przekazujących odpady do odzysku lub recyklingu, w terminie 7 dni od dnia wpływu wniosku.
+
+### 5.
+
+W przypadku gdy przedsiębiorca lub organizacja korzysta z usług innego posiadacza odpadów w przekazaniu odpadów do odzysku i recyklingu wniosek, o którym mowa w ust. 4, składa w ich imieniu posiadacz odpadów.
+
+### 6.
+
+Prowadzący odzysk lub recykling udostępnia dokumenty, o których mowa w ust. 2, za pośrednictwem indywidualnego konta w BDO, przekazującemu odpady do odzysku lub recyklingu oraz marszałkowi województwa, w terminie, o którym mowa w ust. 4.
+
+” ,
+
+### c)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Dokumenty, o których mowa w ust. 2, zawierają odpowiednio:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, przedsiębiorcy albo organizacji odzysku, dla których przeznaczony jest dokument;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu prowadzącego odzysk albo recykling;
+
+### 3)
+
+informacje o masie odpadów przyjętych do odzysku lub recyklingu z podziałem na poszczególne ich rodzaje, o numerze karty przekazania odpadów potwierdzającej ich przyjęcie, a także o sposobie ich odzysku lub recyklingu.
+
+” ,
+
+### d)
+
+uchyla się ust. 7,
+
+### e)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Przedsiębiorca i organizacja odzysku są obowiązani do przechowywania dodatkowej ewidencji, o której mowa w ust. 1, oraz dokumentów, o których mowa w ust. 8 i 8a, przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą.
+
+” ;
+
+### 4)
+
+art. 37a i art. 37b otrzymują brzmienie:
+
+„
+
+### Art. 37a.
+
+Kto, wbrew przepisom art. 11, prowadząc odzysk lub recykling nie udostępnia dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku:
+
+### 1)
+
+przedsiębiorcy lub organizacji odzysku albo nie udostępnia im dokumentu w terminie lub udostępnia im dokument zawierający informacje nierzetelne, lub
+
+### 2)
+
+marszałkowi województwa albo nie udostępnia mu dokumentu w terminie,
+
+podlega karze grzywny.
+
+### Art. 37b.
+
+Kto będąc posiadaczem odpadów, wykonującym usługę polegającą na przekazywaniu odpadów do odzysku lub recyklingu, w imieniu przedsiębiorcy lub organizacji odzysku, nie składa wniosku o wydanie dokumentu potwierdzającego recykling lub dokumentu potwierdzającego inne niż recykling procesy odzysku prowadzącemu odzysk lub recykling, podlega karze grzywny.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach ([Dz. U. z 2019 r. poz. 521](https://api.sejm.gov.pl/eli/acts/DU/2019/521/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 59:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zbierający zużyte baterie lub zużyte akumulatory jest obowiązany do prowadzenia ewidencji obejmującej informacje o masie zebranych zużytych baterii przenośnych i zużytych akumulatorów przenośnych, ogółem i w rozbiciu na poszczególnych wprowadzających baterie lub akumulatory, z którymi ma zawartą umowę, o której mowa w art. 32 ust. 1.
+
+” ,
+
+### b)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Zbierający zużyte baterie lub zużyte akumulatory jest obowiązany do przechowywania ewidencji, o której mowa w ust. 1, przez okres 5 lat, licząc od końca roku kalendarzowego, którego dotyczy.
+
+” ;
+
+### 2)
+
+w art. 59a:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Zbierający zużyte baterie lub zużyte akumulatory sporządza zaświadczenie o zebranych zużytych bateriach przenośnych lub zużytych akumulatorach przenośnych, za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”, zawierające: ” ,
+
+- - uchyla się pkt 11,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zbierający zużyte baterie lub zużyte akumulatory udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy, wprowadzającemu baterie lub akumulatory, z którym ma zawartą umowę, albo podmiotowi pośredniczącemu, z którym ma zawartą umowę, oraz marszałkowi województwa.
+
+” ;
+
+### 3)
+
+uchyla się art. 59b;
+
+### 4)
+
+w art. 64:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów, w zależności od rodzaju prowadzonego przetwarzania i recyklingu, jest obowiązany do prowadzenia ewidencji obejmującej informacje o: ” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów jest obowiązany do przechowywania ewidencji, o której mowa w ust. 1, przez okres 5 lat, licząc od końca roku kalendarzowego, którego dotyczy.
+
+” ;
+
+### 5)
+
+w art. 64a:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów sporządza zaświadczenie o przetworzonych zużytych bateriach lub zużytych akumulatorach, za pośrednictwem indywidualnego konta w BDO, zawierające: ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prowadzący zakład przetwarzania zużytych baterii lub zużytych akumulatorów udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy, wprowadzającemu baterie lub akumulatory, z którym ma zawartą umowę, albo podmiotowi pośredniczącemu, z którym ma zawartą umowę, oraz marszałkowi województwa.
+
+” ;
+
+### 6)
+
+uchyla się art. 64b;
+
+### 7)
+
+w art. 72 w ust. 2 wyrazy „Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w ustawie z dnia 14 grudnia 2012 r. o odpadach” zastępuje się wyrazem „BDO”;
+
+### 8)
+
+art. 92a otrzymuje brzmienie:
+
+„
+
+### Art. 92a.
+
+Kto, wbrew przepisom art. 59a, nie udostępnia zaświadczenia o zebranych zużytych bateriach przenośnych i zużytych akumulatorach przenośnych albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne, podlega karze grzywny.
+
+” ;
+
+### 9)
+
+art. 95 i art. 95a otrzymują brzmienie:
+
+„
+
+### Art. 95.
+
+Kto, wbrew przepisom art. 64, nie prowadzi lub nie przechowuje ewidencji obejmującej informacje o rodzaju i masie przyjętych do przetwarzania zużytych baterii i zużytych akumulatorów, przetworzonych zużytych baterii i zużytych akumulatorów, osiągniętych poziomów recyklingu oraz osiągniętych poziomów wydajności recyklingu, lub prowadzi ewidencję nierzetelnie, podlega karze grzywny.
+
+### Art. 95a.
+
+Kto, wbrew przepisom art. 64a, nie udostępnia zaświadczenia o przetworzonych zużytych bateriach i zużytych akumulatorach albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne, podlega karze grzywny.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi ([Dz. U. z 2019 r. poz. 542](https://api.sejm.gov.pl/eli/acts/DU/2019/542/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23:
+
+### a)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Dokumenty, o których mowa w ust. 3, sporządza się za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Dokumenty, o których mowa w ust. 3, są sporządzane przez przedsiębiorcę prowadzącego recykling lub inny niż recykling proces odzysku odpadów opakowaniowych na wniosek złożony, za pośrednictwem indywidualnego konta w BDO, przez wprowadzającego produkty w opakowaniach, organizację odzysku opakowań lub organizację samorządu gospodarczego, o której mowa w art. 25 ust. 1.
+
+” ,
+
+### c)
+
+w ust. 5 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku odpadów opakowaniowych pochodzących wyłącznie z gospodarstw domowych dokument DPO i dokument DPR są sporządzane przez przedsiębiorcę prowadzącego recykling lub inny niż recykling proces odzysku odpadów opakowaniowych na złożony, za pośrednictwem indywidualnego konta w BDO, wniosek: ” ,
+
+### d)
+
+ust. 6-7 otrzymują brzmienie:
+
+„
+
+### 6.
+
+Przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych jest obowiązany sporządzić dokument DPO lub dokument DPR, w przypadku gdy wprowadzający produkty w opakowaniach, organizacja odzysku opakowań, organizacja samorządu gospodarczego, o której mowa w art. 25 ust. 1, lub wnioskodawca określony w ust. 5 przekazali odpady opakowaniowe bezpośrednio lub za pośrednictwem innego posiadacza odpadów do recyklingu lub innego niż recykling procesu odzysku, jeżeli wniosek, o którym mowa w ust. 4 lub 5, został złożony nie później niż w terminie 30 dni od upływu kwartału, w którym odpady opakowaniowe zostały przekazane do recyklingu lub innego niż recykling procesu odzysku.
+
+### 6a.
+
+Jeżeli po upływie terminu określonego w ust. 6 wprowadzający produkty w opakowaniach, organizacja odzysku opakowań, organizacja samorządu gospodarczego, o której mowa w art. 25 ust. 1, lub wnioskodawca określony w ust. 5, w tym również ci, którzy nie przekazali odpadów opakowaniowych do recyklingu lub innego niż recykling procesu odzysku, złożyli wniosek o sporządzenie dokumentu DPO lub dokumentu DPR, nie później jednak niż 2 miesiące po upływie kwartału, w którym odpady opakowaniowe zostały przekazane do recyklingu lub innego niż recykling procesu odzysku, przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych może sporządzić ten dokument.
+
+### 7.
+
+Przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych sporządza dokumenty, o których mowa w ust. 3, w terminie 7 dni od dnia wpływu wniosku o ich sporządzenie.
+
+” ,
+
+### e)
+
+ust. 9-10b otrzymują brzmienie:
+
+„
+
+### 9.
+
+Przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych udostępnia dokumenty, o których mowa w ust. 3, za pośrednictwem indywidualnego konta w BDO, wprowadzającemu produkty w opakowaniach, organizacji odzysku opakowań, albo organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1, oraz marszałkowi województwa.
+
+### 10.
+
+Przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych udostępnia dokumenty, o których mowa w ust. 3, podmiotom wskazanym w ust. 9, w terminie określonym w ust. 7.
+
+### 10a.
+
+W przypadku odpadów opakowaniowych pochodzących wyłącznie z gospodarstw domowych przedsiębiorca prowadzący recykling lub inny niż recykling proces odzysku odpadów opakowaniowych udostępnia dokumenty, o których mowa w ust. 3, za pośrednictwem indywidualnego konta w BDO, wnioskodawcy określonemu w ust. 5, w terminie określonym w ust. 7.
+
+### 10b.
+
+Wnioskodawca określony w ust. 5 uzupełnia dokumenty, o których mowa w ust. 10a, nie później niż 2 miesiące po upływie kwartału, w którym odpady opakowaniowe zostały przekazane do recyklingu lub innego niż recykling procesu odzysku, wpisując w nich wprowadzającego produkty w opakowaniach, organizację odzysku opakowań albo organizację samorządu gospodarczego, o której mowa w art. 25 ust. 1, i niezwłocznie udostępnia, za pośrednictwem indywidualnego konta w BDO, wpisanemu podmiotowi oraz marszałkowi województwa właściwemu ze względu na miejsce prowadzenia działalności przez prowadzącego recykling lub inny niż recykling proces odzysku odpadów opakowaniowych.
+
+” ,
+
+### f)
+
+uchyla się ust. 12,
+
+### g)
+
+po ust. 12 dodaje się ust. 12a w brzmieniu:
+
+„
+
+### 12a.
+
+Dokument DPO i dokument DPR zawierają odpowiednio:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu, dla którego przeznaczony jest dokument;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu wnioskującego o sporządzenie dokumentu;
+
+### 3)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu prowadzącego recykling albo inny niż recykling proces odzysku;
+
+### 4)
+
+informacje o masie odpadów opakowaniowych przyjętych do recyklingu albo innego niż recykling procesu odzysku z podziałem na poszczególne ich rodzaje oraz na odpady pochodzące z gospodarstw domowych i z innych źródeł niż gospodarstwa domowe, a także o sposobie ich recyklingu albo innego niż recykling procesu odzysku, o numerze karty przekazania odpadów potwierdzającej ich przyjęcie oraz o kwartale, w którym zostały przyjęte.
+
+” ,
+
+### h)
+
+uchyla się ust. 13;
+
+### 2)
+
+w art. 24:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Dokumenty, o których mowa w ust. 1, sporządza się za pośrednictwem indywidualnego konta w BDO.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Dokumenty, o których mowa w ust. 1, są sporządzane przez przedsiębiorcę:
+
+### 1)
+
+eksportującego odpady opakowaniowe,
+
+### 2)
+
+dokonującego wewnątrzwspólnotowej dostawy odpadów opakowaniowych
+
+- na wniosek złożony, za pośrednictwem indywidualnego konta w BDO, przez wprowadzającego produkty w opakowaniach, organizację odzysku opakowań lub organizację samorządu gospodarczego, o której mowa w art. 25 ust. 1.
+
+” ,
+
+### c)
+
+w ust. 3 wyraz „wystawiane” zastępuje się wyrazem „sporządzane”,
+
+### d)
+
+w ust. 4 wyraz „wystawić” zastępuje się wyrazem „sporządzić”,
+
+### e)
+
+ust. 4a i 5 otrzymują brzmienie:
+
+„
+
+### 4a.
+
+Jeżeli po upływie terminu określonego w ust. 4 wprowadzający produkty w opakowaniach, organizacja odzysku opakowań lub organizacja samorządu gospodarczego, o której mowa w art. 25 ust. 1, w tym również ci, którzy nie przekazali odpadów opakowaniowych odpowiednio do eksportu odpadów opakowaniowych albo wewnątrzwspólnotowej dostawy odpadów opakowaniowych, złożyli wniosek o sporządzenie dokumentu EDPO lub dokumentu EDPR, nie później jednak niż 2 miesiące po upływie kwartału, w którym odpady opakowaniowe zostały przekazane odpowiednio do eksportu odpadów opakowaniowych albo wewnątrzwspólnotowej dostawy odpadów opakowaniowych, przedsiębiorca może sporządzić ten dokument.
+
+### 5.
+
+Przedsiębiorca sporządza dokumenty, o których mowa w ust. 1, w terminie 7 dni od dnia wpływu wniosku o ich sporządzenie, dołączając do nich kopie dokumentów celnych albo faktur, na podstawie których były one sporządzone.
+
+” ,
+
+### f)
+
+ust. 8-10 otrzymują brzmienie:
+
+„
+
+### 8.
+
+Przedsiębiorca sporządzający dokumenty, o których mowa w ust. 1, udostępnia je, za pośrednictwem indywidualnego konta w BDO, wprowadzającemu produkty w opakowaniach, organizacji odzysku opakowań albo organizacji samorządu gospodarczego, o której mowa w art. 25 ust. 1, oraz marszałkowi województwa.
+
+### 9.
+
+Przedsiębiorca sporządzający dokumenty, o których mowa w ust. 1, udostępnia je podmiotom wskazanym w ust. 8, w terminie określonym w ust. 5.
+
+### 10.
+
+Wprowadzający produkty w opakowaniach, organizacja odzysku opakowań oraz organizacja samorządu gospodarczego, o której mowa w art. 25 ust. 1, są obowiązani przechowywać dokumenty celne i faktury, o których mowa w ust. 3, przez 5 lat, licząc od końca roku kalendarzowego, którego dokumenty dotyczą.
+
+” ,
+
+### g)
+
+po ust. 10 dodaje się ust. 10a w brzmieniu:
+
+„
+
+### 10a.
+
+Dokument EDPO i dokument EDPR zawierają odpowiednio:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, podmiotu, dla którego przeznaczony jest dokument;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy, o którym mowa w art. 54 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, eksportera odpadów opakowaniowych albo wewnątrzwspólnotowego dostawcy odpadów opakowaniowych;
+
+### 3)
+
+imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby odbiorcy odpadów;
+
+### 4)
+
+informacje o masie odpadów opakowaniowych przekazanych do recyklingu albo innego niż recykling procesu odzysku z podziałem na poszczególne ich rodzaje oraz na odpady pochodzące z gospodarstw domowych i z innych źródeł niż gospodarstwa domowe, a także według sposobu ich recyklingu albo innego niż recykling procesu odzysku oraz o kwartale, w którym zostały przekazane.
+
+” ,
+
+### h)
+
+uchyla się ust. 11;
+
+### 3)
+
+w art. 46 w ust. 1:
+
+### a)
+
+w pkt 1 wyraz „wystawiają” zastępuje się wyrazem „sporządzają”,
+
+### b)
+
+w pkt 2 wyraz „wystawili” zastępuje się wyrazem „sporządzili”;
+
+### 4)
+
+w art. 56 w ust. 1:
+
+### a)
+
+w pkt 1 i 9 wyraz „wystawia” zastępuje się wyrazem „sporządza”,
+
+### b)
+
+w pkt 10 wprowadzenie do wyliczenia otrzymuje brzmienie: „ wbrew przepisom art. 23 ust. 10 i art. 24 ust. 9 nie udostępnia marszałkowi województwa: ” .
+
+### Art. 7.
+
+W ustawie z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym ([Dz. U. z 2018 r. poz. 1466](https://api.sejm.gov.pl/eli/acts/DU/2018/1466/text.html) i [1479](https://api.sejm.gov.pl/eli/acts/DU/2018/1479/text.html) oraz [z 2019 r. poz. 125](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 53:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Prowadzący zakład przetwarzania sporządza zaświadczenie o zużytym sprzęcie za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach, zwanej dalej „BDO”.
+
+### 2.
+
+Zaświadczenie o zużytym sprzęcie zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie recyklingu;
+
+### 3)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
+
+### 4)
+
+informacje o masie zużytego sprzętu przetworzonego w zakładzie przetwarzania dla wprowadzającego sprzęt;
+
+### 5)
+
+numer i nazwę grupy sprzętu, z którego powstał przetworzony w zakładzie przetwarzania zużyty sprzęt;
+
+### 6)
+
+informacje o masie zużytego sprzętu przygotowanego do ponownego użycia dla wprowadzającego sprzęt;
+
+### 7)
+
+informacje o masie odpadów powstałych ze zużytego sprzętu przygotowanych do ponownego użycia dla wprowadzającego sprzęt;
+
+### 8)
+
+informacje o masie odpadów powstałych ze zużytego sprzętu, poddanych recyklingowi i innym niż recykling procesom odzysku dla wprowadzającego sprzęt;
+
+### 9)
+
+oznaczenie zastosowanego procesu odzysku, z podaniem rodzaju procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
+
+### 10)
+
+informacje o masie odpadów powstałych ze zużytego sprzętu poddanych unieszkodliwianiu dla wprowadzającego sprzęt;
+
+### 11)
+
+oznaczenie zastosowanego procesu unieszkodliwiania, z podaniem rodzaju procesu określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach;
+
+### 12)
+
+informacje o masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium państwa niebędącego państwem członkowskim w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt;
+
+### 13)
+
+informacje o masie odpadów powstałych ze zużytego sprzętu wywiezionych z terytorium kraju na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego w celu poddania recyklingowi, innym niż recykling procesom odzysku lub unieszkodliwianiu dla wprowadzającego sprzęt.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Prowadzący zakład przetwarzania udostępnia zaświadczenie, o którym mowa w ust. 1, w terminie do dnia 28 lutego każdego roku za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO, wprowadzającemu sprzęt albo organizacji odzysku sprzętu elektrycznego i elektronicznego, z którymi zawarł umowę, o której mowa w art. 23 ust. 1, oraz marszałkowi województwa.
+
+” ,
+
+### c)
+
+uchyla się ust. 5,
+
+### d)
+
+uchyla się ust. 11;
+
+### 2)
+
+uchyla się art. 54;
+
+### 3)
+
+w art. 55:
+
+### a)
+
+ust. 1-4 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Prowadzący działalność w zakresie recyklingu sporządza zaświadczenie potwierdzające recykling za poprzedni rok kalendarzowy za pośrednictwem indywidualnego konta w BDO.
+
+### 2.
+
+Zaświadczenie, o którym mowa w ust. 1, jest sporządzane na wniosek prowadzącego zakład przetwarzania złożony, za pośrednictwem indywidualnego konta w BDO, w terminie 7 dni od dnia wpływu wniosku.
+
+### 3.
+
+Zaświadczenie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie recyklingu;
+
+### 3)
+
+kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do recyklingu;
+
+### 4)
+
+oznaczenie zastosowanego procesu odzysku, z podaniem jego rodzaju, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
+
+### 4.
+
+Prowadzący działalność w zakresie recyklingu udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do recyklingu oraz marszałkowi województwa, w terminie określonym w ust. 2.
+
+” ,
+
+### b)
+
+uchyla się ust. 5;
+
+### 4)
+
+uchyla się art. 56;
+
+### 5)
+
+w art. 57:
+
+### a)
+
+ust. 1-4 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Prowadzący działalność w zakresie innych niż recykling procesów odzysku sporządza zaświadczenie potwierdzające inne niż recykling procesy odzysku za poprzedni rok kalendarzowy, za pośrednictwem indywidualnego konta w BDO.
+
+### 2.
+
+Zaświadczenie, o którym mowa w ust. 1, jest sporządzane na wniosek prowadzącego zakład przetwarzania złożony za pośrednictwem indywidualnego konta w BDO, w terminie 7 dni od dnia wpływu wniosku.
+
+### 3.
+
+Zaświadczenie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego zakład przetwarzania;
+
+### 2)
+
+imię i nazwisko lub nazwę, adres zamieszkania lub siedziby oraz numer rejestrowy prowadzącego działalność w zakresie innych niż recykling procesów odzysku;
+
+### 3)
+
+kod i nazwę rodzaju oraz masę odpadów powstałych ze zużytego sprzętu przekazanych przez prowadzącego zakład przetwarzania do innych niż recykling procesów odzysku;
+
+### 4)
+
+oznaczenie innego niż recykling zastosowanego procesu odzysku, z podaniem jego rodzaju, określonego w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach.
+
+### 4.
+
+Prowadzący działalność w zakresie innych niż recykling procesów odzysku udostępnia zaświadczenie, o którym mowa w ust. 1, za pośrednictwem indywidualnego konta w BDO, prowadzącemu zakład przetwarzania przekazującemu odpady powstałe ze zużytego sprzętu do innych niż recykling procesów odzysku oraz marszałkowi województwa, w terminie określonym w ust. 2.
+
+” ,
+
+### b)
+
+uchyla się ust. 5;
+
+### 6)
+
+uchyla się art. 58 i art. 59;
+
+### 7)
+
+w art. 91:
+
+### a)
+
+pkt 41 otrzymuje brzmienie:
+
+„
+
+### 41)
+
+wbrew przepisom art. 53 ust. 4 nie udostępnia zaświadczenia o zużytym sprzęcie albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne;
+
+” ,
+
+### b)
+
+uchyla się pkt 42,
+
+### c)
+
+pkt 43 otrzymuje brzmienie:
+
+„
+
+### 43)
+
+wbrew przepisom art. 55 ust. 4 oraz art. 57 ust. 4 nie udostępnia zaświadczenia potwierdzającego recykling albo zaświadczenia potwierdzającego inne niż recykling procesy odzysku albo nie udostępnia zaświadczenia w terminie lub udostępnia zaświadczenie zawierające informacje nierzetelne;
+
+” ;
+
+### 8)
+
+w art. 92 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+w przypadkach, o których mowa w art. 91 pkt 11, 15, 16, 27, 28, 31, 32, 43, 45, 47 i 48 - od 10 000 zł do 400 000 zł;
+
+” ;
+
+### 9)
+
+w art. 93 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Administracyjne kary pieniężne za naruszenia przepisów, o których mowa w art. 91 pkt 1-21, 27-41 i 43-48, wymierza, w drodze decyzji, właściwy wojewódzki inspektor ochrony środowiska.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw ([Dz. U. poz. 2422](https://api.sejm.gov.pl/eli/acts/DU/2017/2422/text.html), [z 2018 r. poz. 1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html) oraz [z 2019 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html)) w art. 1:
+
+### 1)
+
+w pkt 9:
+
+### a)
+
+lit. b-d otrzymują brzmienie:
+
+„
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Dokumenty ewidencji odpadów, o których mowa w ust. 1, zawierają następujące informacje:
+
+### 1)
+
+imię i nazwisko lub nazwę posiadacza odpadów, w tym wykonującego usługę transportu odpadów, adres zamieszkania lub siedziby oraz adres miejsca prowadzenia działalności;
+
+### 2)
+
+numer rejestrowy, o którym mowa w art. 54 ust. 1;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP), o ile został nadany;
+
+### 4)
+
+imię i nazwisko lub nazwę sprzedawcy odpadów lub pośrednika w obrocie odpadami oraz adres zamieszkania lub siedziby, o ile przekazanie odpadów odbywa się z udziałem tych podmiotów;
+
+### 5)
+
+imię i nazwisko osoby sporządzającej - w przypadku karty ewidencji odpadów;
+
+### 6)
+
+imię i nazwisko lub nazwę oraz adres zamieszkania lub siedziby władającego powierzchnią ziemi, na której są stosowane komunalne osady ściekowe w celach, o których mowa w art. 96 ust. 1 pkt 1-3;
+
+### 7)
+
+rodzaj prowadzonej działalności w zakresie gospodarki odpadami, w szczególności wytwarzania, zbierania, odzysku lub unieszkodliwiania odpadów;
+
+### 8)
+
+adres miejsca pochodzenia odpadów, w tym spoza terytorium kraju - z wyłączeniem wytwórców odpadów;
+
+### 9)
+
+masę odpadów lub suchą masę odpadów oraz kod i rodzaj odpadów;
+
+### 10)
+
+sposób gospodarowania odpadami - w przypadku posiadacza odpadów prowadzącego przetwarzanie odpadów;
+
+### 11)
+
+adres miejsca przeznaczenia odpadów, a w przypadku przeznaczenia odpadów poza terytorium kraju również datę rozpoczęcia transportu, rodzaj środka transportu oraz przewidywaną metodę przetwarzania odpadów.
+
+” ,
+
+### c)
+
+po ust. 3 dodaje się ust. 3a-3e w brzmieniu:
+
+„
+
+### 3a.
+
+Karta przekazania odpadów zawiera dodatkowo informacje o:
+
+### 1)
+
+dacie i godzinie rozpoczęcia transportu odpadów i ich dostarczenia do następnego posiadacza odpadów;
+
+### 2)
+
+numerach rejestracyjnych środków transportu odpadów stanowiących pojazd albo zespół pojazdów, w rozumieniu art. 2 pkt 31 i 49 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2018 r. poz. 1990](https://api.sejm.gov.pl/eli/acts/DU/2018/1990/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.](#gloss-0:2:));
+
+### 3)
+
+numerach pojemników oraz numerze certyfikatu wymaganych dla składowania odpadów rtęci metalicznej - w przypadku posiadacza odpadów przekazującego odpady rtęci metalicznej do czasowego składowania na składowisku odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej oraz w przypadku zarządzającego składowiskiem odpadów niebezpiecznych przeznaczonym do czasowego składowania odpadów rtęci metalicznej przekazującego te odpady do dalszego unieszkodliwienia.
+
+### 3b.
+
+Karta ewidencji odpadów zawiera dodatkowo informacje o:
+
+### 1)
+
+procentowej zawartości PCB w odpadzie, jeżeli odpad zawiera PCB;
+
+### 2)
+
+masie odpadów wytworzonych, odebranych, przyjętych, zagospodarowanych we własnym zakresie lub przekazanych.
+
+### 3c.
+
+Karta ewidencji komunalnych osadów ściekowych zawiera dodatkowo informacje o:
+
+### 1)
+
+nazwie oraz adresie oczyszczalni ścieków, w której powstają komunalne osady ściekowe;
+
+### 2)
+
+rodzaju przeprowadzonej obróbki komunalnych osadów ściekowych;
+
+### 3)
+
+składzie i właściwościach komunalnych osadów ściekowych;
+
+### 4)
+
+dacie, miejscu i powierzchni stosowania komunalnych osadów ściekowych;
+
+### 5)
+
+celu stosowania komunalnych osadów ściekowych.
+
+### 3d.
+
+Karta ewidencji zużytego sprzętu elektrycznego i elektronicznego zawiera dodatkowo informacje o:
+
+### 1)
+
+wytworzonych odpadach w wyniku przetwarzania zużytego sprzętu elektrycznego i elektronicznego, w szczególności o masie i rodzaju tych odpadów;
+
+### 2)
+
+gospodarowaniu we własnym zakresie odpadami powstałymi w wyniku przetwarzania zużytego sprzętu elektrycznego i elektronicznego, w szczególności o masie i rodzaju zagospodarowanych odpadów oraz o zastosowanym procesie odzysku lub unieszkodliwiania;
+
+### 3)
+
+odpadach powstałych w wyniku przetwarzania zużytego sprzętu elektrycznego i elektronicznego przekazanych innemu posiadaczowi odpadów, w szczególności o masie i rodzaju przekazanych odpadów.
+
+### 3e.
+
+Karta ewidencji pojazdów wycofanych z eksploatacji zawiera dodatkowo informacje o:
+
+### 1)
+
+pojazdach przyjętych do punktu zbierania pojazdów lub przyjętych do stacji demontażu pojazdów, w szczególności o masie i liczbie przyjętych pojazdów;
+
+### 2)
+
+odpadach powstałych po demontażu pojazdów, w szczególności o masie i rodzaju tych odpadów;
+
+### 3)
+
+sposobie przetworzenia odpadów powstałych po demontażu pojazdów, z podziałem na przetworzone na stacji demontażu oraz przekazane do przetworzenia w kraju, w szczególności o masie przetworzonych odpadów;
+
+### 4)
+
+masie odpadów powstałych po demontażu pojazdów przekazanych do przetworzenia do innego kraju;
+
+### 5)
+
+masie przeznaczonych do ponownego użycia przedmiotów wyposażenia i części, wymontowanych z pojazdów wycofanych z eksploatacji.
+
+” ,
+
+### d)
+
+po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+„
+
+### 4a.
+
+Karta przekazania odpadów komunalnych zawiera dodatkowo informacje o:
+
+### 1)
+
+nazwie gminy, z terenu której odpady komunalne są odbierane od właścicieli nieruchomości;
+
+### 2)
+
+obszarze gminy, z terenu której odpady komunalne są odbierane od właścicieli nieruchomości;
+
+### 3)
+
+dacie i godzinie rozpoczęcia i zakończenia odbierania odpadów komunalnych od właścicieli nieruchomości;
+
+### 4)
+
+dacie i godzinie rozpoczęcia transportu odpadów komunalnych do następnego posiadacza odpadów;
+
+### 5)
+
+dacie i godzinie przejęcia odpadów komunalnych przez następnego posiadacza odpadów albo dacie i godzinie ich przekazania do stacji przeładunkowej, miejscu zbierania lub miejscu przetwarzania odpadów komunalnych, prowadzonych przez podmiot odbierający odpady komunalne od właścicieli nieruchomości.
+
+### 4b.
+
+Posiadacz odpadów zamieszcza informacje w karcie przekazania odpadów oraz karcie przekazania odpadów komunalnych odpowiednio do zakresu prowadzonej działalności.”,
+
+” ,
+
+” ,
+
+### b)
+
+lit. f otrzymuje brzmienie:
+
+„
+
+### f)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Dokumenty ewidencji odpadów, o których mowa w ust. 1, sporządza się za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami.”;
+
+” ;
+
+” ;
+
+### 2)
+
+uchyla się pkt 10;
+
+### 3)
+
+pkt 14 i 15 otrzymują brzmienie:
+
+„
+
+### 14)
+
+w art. 79 dodaje się ust. 5 i 6 w brzmieniu:
+
+„
+
+### 5.
+
+W BDO gromadzi się również informacje zawarte w:
+
+### 1)
+
+dokumentach ewidencji odpadów, o których mowa w art. 67 ust. 1;
+
+### 2)
+
+sprawozdaniach, o których mowa w art. 73-75;
+
+### 3)
+
+dokumentach, o których mowa w art. 23 ust. 3 oraz art. 24 ust. 1 ustawy z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi;
+
+### 4)
+
+dokumentach, o których mowa w art. 11 ust. 2 ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej;
+
+### 5)
+
+zaświadczeniach, o których mowa w art. 53 ust. 1, art. 55 ust. 1 i art. 57 ust. 1 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym;
+
+### 6)
+
+zaświadczeniach, o których mowa w art. 59a ust. 1 oraz art. 64a ust. 1 ustawy z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach.
+
+### 6.
+
+Baza danych o produktach i opakowaniach oraz o gospodarce odpadami umożliwia dla danego rodzaju odpadów identyfikację ich wytwórcy oraz kolejnych posiadaczy tych odpadów.
+
+” ;
+
+### 15)
+
+w art. 83 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Użytkownicy, o których mowa w ust. 1 pkt 1, 2, 7 oraz 12-21, posiadają możliwość weryfikacji zgodności ze stanem rzeczywistym prowadzonej przez posiadaczy odpadów ewidencji odpadów.”;
+
+” .
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw ([Dz. U. z 2019 r. poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html), [848](https://api.sejm.gov.pl/eli/acts/DU/2019/848/text.html) i [934](https://api.sejm.gov.pl/eli/acts/DU/2019/934/text.html)) w art. 45 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+art. 57 otrzymuje brzmienie:
+
+„
+
+### Art. 57.
+
+W ustawie z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw ([Dz. U. poz. 2422](https://api.sejm.gov.pl/eli/acts/DU/2017/2422/text.html)) w art. 1 w pkt 9 lit. e otrzymuje brzmienie:
+
+„
+
+### e)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Dokumenty ewidencji odpadów, o których mowa w ust. 1 pkt 1 i 2, sporządzane za pośrednictwem indywidualnego konta w Bazie danych o produktach i opakowaniach oraz o gospodarce odpadami, nie wymagają opatrzenia ich podpisem.”,”.”;
+
+” .
+
+” .
+
+” .
+
+” .
+
+### Art. 10.
+
+Podmioty obowiązane do podania numeru PESEL we wniosku o wpis do rejestru podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, które posiadają wpis do tego rejestru w dniu wejścia w życie niniejszej ustawy, mogą prowadzić działalność na podstawie dotychczasowego wpisu do tego rejestru. Podmioty te są obowiązane uzupełnić brakujące dane dotyczące numeru PESEL w pierwszym wniosku o zmianę wpisu w tym rejestrze składanym po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+Do wniosków o wpis do rejestru podmiotów wprowadzających produkty, produkty w opakowaniach i gospodarujących odpadami, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, wniosków o zmianę wpisu do tego rejestru oraz wniosków o wykreślenie z tego rejestru, złożonych do dnia 31 grudnia 2019 r., stosuje się przepisy dotychczasowe.
+
+### Art. 12.
+
+Do dokumentów ewidencji odpadów, o których mowa w art. 67 ust. 1 ustawy zmienianej w art. 1, sporządzanych za okres do dnia 31 grudnia 2019 r., stosuje się przepisy dotychczasowe.
+
+### Art. 13.
+
+W przypadku trwałego zaprzestania wykonywania działalności, o którym mowa w art. 76 ust. 3 ustawy zmienianej w art. 1, do dnia 31 grudnia 2019 r., przedsiębiorca wykonuje określony w tym przepisie obowiązek zgodnie z dotychczasowymi przepisami.
+
+### Art. 14.
+
+### 1.
+
+Do sprawozdań za 2018 r., o których mowa w art. 9q ust. 1 i art. 9s ust. 1 ustawy zmienianej w art. 2, stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do sprawozdań, o których mowa w art. 9o ust. 1 ustawy zmienianej w art. 2, dotyczących kwartału, w którym niniejsza ustawa weszła w życie, albo kwartału przed dniem jej wejścia w życie, stosuje się przepisy dotychczasowe.
+
+### Art. 15.
+
+Do dokumentów potwierdzających odrębnie odzysk i odrębnie recykling wydawanych na wniosek, o którym mowa w art. 11 ust. 3 ustawy zmienianej w art. 4, złożony do dnia 31 grudnia 2020 r., stosuje się przepisy dotychczasowe.
+
+### Art. 16.
+
+Do zaświadczeń, o których mowa w art. 59a oraz art. 64a ustawy zmienianej w art. 5, sporządzanych w 2020 r. dotyczących 2020 r. stosuje się przepisy dotychczasowe.
+
+### Art. 17.
+
+### 1.
+
+Do dokumentów DPO, o których mowa w art. 8 pkt 1 lit. b ustawy zmienianej w art. 6, i dokumentów DPR, o których mowa w art. 8 pkt 1 lit. a ustawy zmienianej w art. 6, wystawianych na wniosek, o którym mowa w art. 23 ust. 4 ustawy zmienianej w art. 6, złożony do dnia 31 grudnia 2020 r., stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do dokumentów EDPO, o których mowa w art. 8 pkt 1 lit. d ustawy zmienianej w art. 6, i dokumentów EDPR, o których mowa w art. 8 pkt 1 lit. c ustawy zmienianej w art. 6, wystawianych na wniosek, o którym mowa w art. 24 ust. 2 ustawy zmienianej w art. 6, złożony do dnia 31 grudnia 2020 r., stosuje się przepisy dotychczasowe.
+
+### Art. 18.
+
+Do zaświadczeń, o których mowa w art. 53 ust. 1, art. 55 ust. 1 i art. 57 ust. 1 ustawy zmienianej w art. 7, wystawianych w 2020 r. dotyczących 2020 r. stosuje się przepisy dotychczasowe.
+
+### Art. 19.
+
+Do dnia 31 grudnia 2019 r. do ewidencji odpadów stosuje się przepisy dotychczasowe.
+
+### Art. 20.
+
+Podmiot zbierający odpady komunalne inne niż stanowiące frakcje odpadów komunalnych papieru, tworzyw sztucznych, metali i szkła, po raz pierwszy składa sprawozdanie, o którym mowa w art. 9nb ust. 1 ustawy zmienianej w art. 2 w brzmieniu nadanym niniejszą ustawą, za 2020 r.
+
+### Art. 21.
+
+### 1.
+
+Prowadzący punkt selektywnego zbierania odpadów, o którym mowa w art. 45 ust. 1 pkt 11 ustawy zmienianej w art. 1, do dnia 30 listopada 2019 r. składa do marszałka województwa właściwego ze względu na miejsce wykonywania działalności, wniosek o wpis do rejestru, o którym mowa w art. 49 ust. 1 ustawy zmienianej w art. 1, zawierający informacje o nazwie oraz adresie punktu selektywnego zbierania odpadów komunalnych.
+
+### 2.
+
+Do złożonych wniosków, o których mowa w ust. 1, stosuje się art. 53 ust. 1 ustawy zmienianej w art. 1.
+
+### Art. 22.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów:
+
+### 1)
+
+art. 1 pkt 1, 2, 3 lit. a, pkt 4-11, 13-16, 18-20, 21 lit. a i c, pkt 22-24, 27 i 28, art. 8 i art. 9, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+
+### 2)
+
+art. 4-7 i art. 15-18, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej, ustawę z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach, ustawę z dnia 13 czerwca 2013 r. o gospodarce opakowaniami i odpadami opakowaniowymi, ustawę z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym, ustawę z dnia 24 listopada 2017 r. o zmianie ustawy o odpadach oraz niektórych innych ustaw oraz ustawę z dnia 6 grudnia 2018 r. o zmianie ustawy o dowodach osobistych oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123 i 1180.

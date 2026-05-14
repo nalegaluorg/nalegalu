@@ -1,0 +1,52 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 18 października 2023 r. w sprawie wykazu chorób pozostających w związku ze służbą wojskową, z tytułu których przysługują świadczenia odszkodowawcze"
+address: WDU20230002273
+eli: DU/2023/2273
+publisher: DU
+year: 2023
+pos: 2273
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Obrony Narodowejz dnia 18 października 2023 r. w sprawie wykazu chorób pozostających w związku ze służbą wojskową, z tytułu których przysługują świadczenia odszkodowawcze
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2273 |
+| ISAP | WDU20230002273 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-10-18 |
+| Data wydania | 2023-10-20 |
+| Wejście w życie | 2023-10-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2273/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2273) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wykaz chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej, z tytułu których przysługują świadczenia odszkodowawcze określone w dziale XVI ustawy z dnia 11 marca 2022 r. o obronie ojczyzny](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 512 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny ([Dz. U. poz. 2305](https://api.sejm.gov.pl/eli/acts/DU/2022/2305/text.html) oraz [z 2023 r. poz. 347](https://api.sejm.gov.pl/eli/acts/DU/2023/347/text.html), [641](https://api.sejm.gov.pl/eli/acts/DU/2023/641/text.html), [1615](https://api.sejm.gov.pl/eli/acts/DU/2023/1615/text.html), [1834](https://api.sejm.gov.pl/eli/acts/DU/2023/1834/text.html) i [1872](https://api.sejm.gov.pl/eli/acts/DU/2023/1872/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa wykaz chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej, z tytułu których przysługują świadczenia odszkodowawcze określone w dziale XVI ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, który jest określony w załączniku do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 23 października 2023 r.[1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 1 sierpnia 2003 r. w sprawie wykazu chorób, pozostających w związku ze służbą wojskową, z tytułu których przysługują świadczenia odszkodowawcze (Dz. U. poz. 1397 oraz z 2009 r. poz. 426), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 822 ust. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872).](#gloss-0:1:)
+
+1) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Obrony Narodowej z dnia 1 sierpnia 2003 r. w sprawie wykazu chorób, pozostających w związku ze służbą wojskową, z tytułu których przysługują świadczenia odszkodowawcze (Dz. U. poz. 1397 oraz z 2009 r. poz. 426), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 822 ust. 5 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 2305 oraz z 2023 r. poz. 347, 641, 1615, 1834 i 1872).
+
+## Załącznik - Wykaz chorób powstałych w związku ze szczególnymi właściwościami lub warunkami służby wojskowej, z tytułu których przysługują świadczenia odszkodowawcze określone w dziale XVI ustawy z dnia 11 marca 2022 r. o obronie ojczyzny
+
+Lp. Nazwa choroby pozostającej w związku ze służbą wojskową Szczególne właściwości lub warunki służby wojskowej powodujące powstanie choroby 1 Zatrucia ostre i przewlekłe substancjami chemicznymi oraz następstwa tych zatruć Służba, w której istnieje narażenie na działanie szkodliwych dla zdrowia substancji chemicznych 2 Pylica płuc Służba, w której istnieje narażenie na wdychanie pyłów mogących wywołać zwłóknienie tkanki płucnej 3 Przewlekłe choroby układu oddechowego powstałe w następstwie działania substancji: toksycznych, drażniących, uczulających (alergenów) lub czynników mechanicznych (nasilone wydechy) Służba, w której istnieje narażenie na działanie substancji toksycznych lub drażniących, pyłów, par gazów, aerozoli o właściwościach uczulających (alergenów), gra na instrumentach dętych 4 Choroby spowodowane działaniem promieniowania jonizującego Służba, w której istnieje narażenie na działanie promieniowania jonizującego lub substancji promieniotwórczych 5 Trwałe uszkodzenie zdrowia w wyniku oddziaływania pola elektromagnetycznego wielkiej częstotliwości w zakresie mikrofal i dłuższych fal radiowych Służba, w której istnieje narażenie na działanie pola elektromagnetycznego z zakresu mikrofal i dłuższych fal radiowych 6 Trwałe skutki odmrożeń Służba w warunkach działania ujemnych temperatur 7 Ostry zespół przegrzania i jego następstwa Służba w warunkach działania znacznie podwyższonych temperatur 8 Zmiany w układzie nerwowym, naczyniowym i ruchowym wywołane działaniem drgań mechanicznych (zespół wibracyjny) Służba, w której istnieje narażenie na działanie drgań mechanicznych (wibracje) 9 Przewlekłe choroby układu ruchu powstałe w warunkach służby (pracy związanej z wymuszoną pozycją ciała, nadmiernym przeciążeniem i mikrourazami: złamania powolne, zapalenie pochewek ścięgnistych i kaletek maziowych, uszkodzenia i zwyrodnienia łąkotek, zmiany zapalne mięśni i przyczepów ścięgnistych, martwica kości nadgarstka i uszkodzenia krążka międzykręgowego, przeciążeniowe zmiany zwyrodnieniowe) Służba w warunkach długotrwałego obciążenia ograniczonych grup mięśni, wymuszonej pozycji ciała lub narażających na częste powtarzające się mikrourazy albo powodujących ucisk na pnie nerwów, ruchy monotypowe wykonywane w szybkim tempie 10 Choroby narządu wzroku wywołane zawodowymi czynnikami fizycznymi lub chemicznymi.Uwaga: zmiany wywołane działaniem promieniowania jonizującego kwalifikuje się według wiersza oznaczonego lp. 4 Służba, w której istnieje narażenie na działanie długotrwałego promieniowania podczerwonego, nadfioletowego, pola elektromagnetycznego wysokiej częstotliwości, spójnego promieniowania świetlnego, generowanego przez układy laserowe, oraz na działanie drażniących substancji chemicznych 11 Trwały ubytek słuchu spowodowany hałasem, wyrażony podwyższeniem progu słuchu Służba, w której istnieje długotrwałe narażenie na działanie hałasu przekraczające dopuszczalne normy 12 Przewlekłe choroby narządu głosu spowodowane nadmiernym wysiłkiem głosowym, trwającym co najmniej 15 lat (guzki głosowe twarde, wtórne zmiany przerostowe fałdów głosowych, niedowład mięśni przywodzących i napinających fałdy głosowe z niedomykalnością tonacyjną głośni i trwałą dysfonią) Służba związana z nadmiernym, długotrwałym obciążeniem narządu głosu 13 Przewlekłe choroby skóry i błon śluzowych spowodowane warunkami pracy.Uwaga:1) zmiany o charakterze złośliwym kwalifikuje się według wiersza oznaczonego lp. 14;2) zmiany wywołane działaniem promieniowania jonizuącego kwalifikuje się według wiersza oznaczonego lp. 4;3) choroby zakaźne i inwazyjne (pasożytnicze) kwalifikuje się według wierszy oznaczonych lp. 18 lub lp. 19 Służba, w której występuje narażenie na styczność z substancjami drażniącymi lub uczulającymi 14 Nowotwory złośliwe, do powstania których przyczyniły się czynniki i warunki służby wojskowej, powstałe w następstwie styczności z czynnikami rakotwórczymi:1) nowotwory skóry;2) nowotwory dróg moczowych;3) nowotwory układu oddechowego;4) nowotwory przewodu pokarmowego;5) choroby rozrostowe układu krwiotwórczego i chłonnego (niektóre typy białaczek, chłoniaki, szpiczak mnogi, zespoły mielodysplastyczne);6) niektóre typy mięsaka;7) międzybłoniak otrzewnej i opłucnej;8) nowotwory układu wewnątrzwydzielniczego.Uwaga: nowotwory powstałe w następstwie działania promieniowania jonizującego Służba, w której występuje:1) długotrwały kontakt z produktami suchej destylacji węgla, ropy naftowej, łupków bitumicznych oraz asfaltu;2) długotrwały kontakt z benzenoaminami oraz ich pochodnymi, jak np. alfa- i betanaftyloamina, benzydyna;3) narażenie na wdychanie substancji rakotwórczych;4) narażenie na kontakt z patogenami odpowiedzialnymi za rozwój nowotworów złośliwych.Uwaga: w przypadku nowotworów złośliwych powstałych w następstwie styczności z czynnikami rakotwórczymi, kwalifikuje się według wiersza oznaczonego lp. 4 odnosi się to do czynników klasyfikowanych do kategorii 1 15 Choroby wywołane pracą w podwyższonym lub obniżonym ciśnieniu atmosferycznym oraz w warunkach działania znacznych przyspieszeń Służba pełniona w warunkach podwyższonego lub obniżonego ciśnienia atmosferycznego, narażająca organizm na nagłe zmiany ciśnienia oraz działania znacznych przyspieszeń 16 Żylaki podudzi z trudno gojącymi się owrzodzeniami Służba wymagająca długotrwałego przebywania w pozycji stojącej lub wymuszonej 17 Zaburzenia reaktywne oporne na leczenie:1) zaburzenia stresowe pourazowe - PTSD;2) psychozy reaktywne;3) trwałe potraumatyczne zmiany osobowości.Udokumentowane zaburzenia stresowo--pourazowe poparte dokumentacją służbową i lekarską dotyczące powyższych schorzeń Przeżycie traumatycznych wydarzeń lub sytuacji (oddziałujących krótko- lub długotrwale), w których wystąpiło bezpośrednie zagrożenie utraty życia lub zdrowia 18 Choroby zakaźne i inwazyjne z zakresu medycyny tropikalnej u osób przebywających w krajach egzotycznych:1) choroby transmisyjne (przenoszone wektorowo);2) choroby przenoszone drogą pokarmową;3) choroby przenoszone drogą oddechową;4) choroby przenoszone przez kontakt z zakażoną krwią;5) choroby pasożytnicze i odzwierzęce;6) choroby przenoszone drogą kontaktu z zanieczyszczoną wodą lub ziemią;7) COVID-19 Służba poza granicami kraju, wymagająca bezpośredniego kontaktu ze środowiskiem lub materiałem zakaźnym 19 Choroby zakaźne lub pasożytnicze albo ich następstwa:1) choroby transmisyjne (przenoszone wektorowo);2) choroby przenoszone drogą pokarmową;3) choroby przenoszone drogą oddechową;4) choroby przenoszone przez kontakt z zakażoną krwią;5) choroby pasożytnicze i odzwierzęce;6) choroby przenoszone drogą kontaktu z zanieczyszczoną wodą lub ziemią;7) COVID-19 Służba w kraju wymagająca bezpośredniego kontaktu ze środowiskiem lub materiałem zakaźnym (badania laboratoryjne, próbkobranie czynników BMR, wsparcie organów administracji publicznej)

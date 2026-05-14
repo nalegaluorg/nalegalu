@@ -1,0 +1,72 @@
+---
+title: Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej
+address: WDU20220002717
+eli: DU/2022/2717
+publisher: DU
+year: 2022
+pos: 2717
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 20 grudnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej [1) Minister Rolnictwa i Rozwoju Wsi kieruje działami administracji rządowej - rolnictwo, rozwój wsi, rynki rolne i rybołówstwo, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2717 |
+| ISAP | WDU20220002717 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-12-20 |
+| Data wydania | 2022-12-22 |
+| Wejście w życie | 2023-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/2717/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/2717) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 10 ust. 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi ([Dz. U. z 2019 r. poz. 2136](https://api.sejm.gov.pl/eli/acts/DU/2019/2136/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 23 sierpnia 2001 r. w sprawie szczegółowych zasad i trybu przyznawania nagrody rocznej osobom kierującym niektórymi podmiotami prawnymi oraz wzoru wniosku o przyznanie nagrody rocznej ([Dz. U. poz. 1060](https://api.sejm.gov.pl/eli/acts/DU/2001/1060/text.html) oraz [z 2019 r. poz. 2415](https://api.sejm.gov.pl/eli/acts/DU/2019/2415/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+§ 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+szczegółowe zasady i tryb przyznawania nagrody rocznej osobom, o których mowa w art. 2 pkt 1, 2 i 4 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi, zwanej dalej „ustawą”, kierującym podmiotami podległymi lub nadzorowanymi przez ministra właściwego do spraw rolnictwa, ministra właściwego do spraw rozwoju wsi, ministra właściwego do spraw rynków rolnych albo ministra właściwego do spraw rybołówstwa,
+
+### 2)
+
+wzór wniosku o przyznanie nagrody rocznej kierownikom jednostek organizacyjnych, o których mowa w art. 1 pkt 2 ustawy, podległych lub nadzorowanych przez ministra właściwego do spraw rolnictwa, ministra właściwego do spraw rozwoju wsi, ministra właściwego do spraw rynków rolnych albo ministra właściwego do spraw rybołówstwa.
+
+” ;
+
+### 2)
+
+w § 4 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+dla kierowników jednostek organizacyjnych, o których mowa w art. 1 pkt 2, 9 i 12 ustawy - minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi, minister właściwy do spraw rynków rolnych albo minister właściwy do spraw rybołówstwa,
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2023 r.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działami administracji rządowej - rolnictwo, rozwój wsi, rynki rolne i rybołówstwo, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).

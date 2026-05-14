@@ -8,11 +8,9 @@ pos: 2290
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników
-
-*USTAWA z dnia 29 października 2021 r.*
+# Ustawa z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników [1) Niniejszą ustawą zmienia się ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,25 +22,90 @@ domain: null
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-12-13 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002290) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2290/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/2290/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/2290) |
 
-**Art. 1.** Ustawa określa ułatwienia w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach.
+## Treść ustawy
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+### Art. 1.
 
-**Art. 3.**
+Ustawa określa ułatwienia w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach.
 
-1. Miejsce do prowadzenia handlu w piątki i soboty przez rolników i ich domowników wyznacza rada gminy w drodze uchwały.
+### Art. 2.
 
-2. Wyznaczając miejsce, o którym mowa w ust. 1, rada gminy bierze pod uwagę w szczególności dogodną komunikację, bliską lokalizację z centrum danej gminy lub miasta lub bliską lokalizację miejsc atrakcyjnych turystycznie.
+Użyte w ustawie określenia oznaczają:
 
-**Art. 4.** Przedmiotem handlu na wyznaczonych miejscach, o których mowa w art. 3 ust. 1, mogą być tylko produkty rolne lub spożywcze oraz wyroby rękodzieła wytworzone w gospodarstwie rolnym.
+### 1)
 
-**Art. 5.** Rada gminy uchwala regulamin określający zasady prowadzenia handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach, o których mowa w art. 3 ust. 1.
+rolnik - rolnika w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2021 r. poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2021/266/text.html), [1535](https://api.sejm.gov.pl/eli/acts/DU/2021/1535/text.html) i [1621](https://api.sejm.gov.pl/eli/acts/DU/2021/1621/text.html));
 
-**Art. 6.** Wyznaczenie miejsca, o którym mowa w art. 3 ust. 1, należy do zadań własnych gminy o charakterze obowiązkowym.
+### 2)
 
-**Art. 7.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2019 r. poz. 1170 oraz z 2021 r. poz. 401, 1558 i 2192) art. 16 otrzymuje brzmienie: „Art. 16. Zwalnia się od opłaty targowej:
+domownik - osobę bliską rolnikowi, która:
 
-**Art. 8.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### a)
 
+ukończyła 15 lat,
+
+### b)
+
+pozostaje z rolnikiem we wspólnym gospodarstwie domowym lub zamieszkuje na terenie jego gospodarstwa rolnego albo w bliskim sąsiedztwie,
+
+### c)
+
+stale pracuje w tym gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy;
+
+### 3)
+
+produkty rolne lub spożywcze - produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runo leśne i dziczyznę, a także produkty przetworzone z przeznaczeniem do spożycia z wykorzystaniem produktów wymienionych w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runa leśnego lub dziczyzny;
+
+### 4)
+
+handel - proces sprzedaży polegający na wymianie produktów rolnych lub spożywczych oraz wyrobów rękodzieła wytworzonych w gospodarstwie rolnym na środki pieniężne.
+
+### Art. 3.
+
+### 1.
+
+Miejsce do prowadzenia handlu w piątki i soboty przez rolników i ich domowników wyznacza rada gminy w drodze uchwały.
+
+### 2.
+
+Wyznaczając miejsce, o którym mowa w ust. 1, rada gminy bierze pod uwagę w szczególności dogodną komunikację, bliską lokalizację z centrum danej gminy lub miasta lub bliską lokalizację miejsc atrakcyjnych turystycznie.
+
+### Art. 4.
+
+Przedmiotem handlu na wyznaczonych miejscach, o których mowa w art. 3 ust. 1, mogą być tylko produkty rolne lub spożywcze oraz wyroby rękodzieła wytworzone w gospodarstwie rolnym.
+
+### Art. 5.
+
+Rada gminy uchwala regulamin określający zasady prowadzenia handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach, o których mowa w art. 3 ust. 1.
+
+### Art. 6.
+
+Wyznaczenie miejsca, o którym mowa w art. 3 ust. 1, należy do zadań własnych gminy o charakterze obowiązkowym.
+
+### Art. 7.
+
+W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ([Dz. U. z 2019 r. poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2019/1170/text.html) oraz [z 2021 r. poz. 401](https://api.sejm.gov.pl/eli/acts/DU/2021/401/text.html), [1558](https://api.sejm.gov.pl/eli/acts/DU/2021/1558/text.html) i [2192](https://api.sejm.gov.pl/eli/acts/DU/2021/2192/text.html)) art. 16 otrzymuje brzmienie:
+
+„
+
+### Art. 16.
+
+Zwalnia się od opłaty targowej:
+
+### 1)
+
+osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z przedmiotami opodatkowania położonymi na targowiskach;
+
+### 2)
+
+rolników i ich domowników prowadzących w piątki i soboty handel w rozumieniu art. 2 pkt 4 ustawy z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników ([Dz. U. poz. 2290](https://api.sejm.gov.pl/eli/acts/DU/2021/2290/text.html)).
+
+” .
+
+### Art. 8.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych.

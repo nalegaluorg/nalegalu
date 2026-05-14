@@ -8,11 +8,9 @@ pos: 423
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o utworzeniu Akademii Sztuk Pięknych w Katowicach
-
-*USTAWA z dnia 15 lutego 2001 r.*
+# Ustawa z dnia 15 lutego 2001 r. o utworzeniu Akademii Sztuk Pięknych w Katowicach
 
 | Pole | Wartość |
 |---|---|
@@ -24,47 +22,86 @@ domain: null
 | Data ogłoszenia | 2001-02-15 |
 | Data wydania | 2001-04-27 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010370423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/423/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2001/423/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2001/423) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Tworzy się z dniem 1 września 2001 r. Akademię Sztuk Pięknych w Katowicach, zwaną dalej „Akademią”.
+### Art. 1.
 
-2. Siedzibą Akademii jest miasto Katowice.
+### 1.
 
-3. Akademia jest uczelnią państwową.
+Tworzy się z dniem 1 września 2001 r. Akademię Sztuk Pięknych w Katowicach, zwaną dalej „Akademią”.
 
-**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie sztuk plastycznych i mieszczących się w nich dyscyplin artystycznych oraz w zakresie nauk humanistycznych.
+### 2.
 
-**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
+Siedzibą Akademii jest miasto Katowice.
 
-**Art. 4.**
+### 3.
 
-1. Akademię tworzy się z Filii Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie, w Katowicach.
+Akademia jest uczelnią państwową.
 
-2. Mienie Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie, obejmujące własność i inne prawa majątkowe będące w zarządzie Filii Akademii Sztuk Pięknych w Katowicach, staje się mieniem Akademii.
+### Art. 2.
 
-3. Akademia, z dniem utworzenia, przejmuje prawa i zobowiązania Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie dotyczące Filii Akademii Sztuk Pięknych w Katowicach.
+Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie sztuk plastycznych i mieszczących się w nich dyscyplin artystycznych oraz w zakresie nauk humanistycznych.
 
-**Art. 5.**
+### Art. 3.
 
-1. Z dniem utworzenia Akademii:
+Nadzór nad Akademią sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego.
 
-- **1)** pracownicy Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie zatrudnieni w Filii Akademii Sztuk Pięknych w Katowicach stają się pracownikami Akademii,
-- **2)** studenci Filii Akademii Sztuk Pięknych w Katowicach stają się studentami Akademii,
-- **3)** osoby przyjęte na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Akademii Sztuk Pięknych w Katowicach stają się osobami przyjętymi do Akademii.
+### Art. 4.
 
-2. Podstawowe jednostki organizacyjne Filii Akademii Sztuk Pięknych w Katowicach stają się podstawowymi jednostkami organizacyjnymi Akademii.
+### 1.
 
-3. Jednostki organizacyjne Filii Akademii Sztuk Pięknych w Katowicach, które przed dniem utworzenia Akademii posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Akademii.
+Akademię tworzy się z Filii Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie, w Katowicach.
 
-**Art. 6.**
+### 2.
 
-1. Dotychczasowe organy kolegialne i jednoosobowe Filii Akademii Sztuk Pięknych w Katowicach stają się z dniem 1 września 2001 r. organami Akademii.
+Mienie Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie, obejmujące własność i inne prawa majątkowe będące w zarządzie Filii Akademii Sztuk Pięknych w Katowicach, staje się mieniem Akademii.
 
-2. Dotychczasowi przedstawiciele Filii Akademii Sztuk Pięknych w Katowicach do Senatu Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie pełnią funkcję Senatu Akademii do dnia wyboru Senatu Akademii w trybie i na zasadach określonych w art. 7.
+### 3.
 
-**Art. 7.** Wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów zostaną przeprowadzone do dnia 30 września 2001 r. w trybie i na zasadach określonych w Statucie Akademii.
+Akademia, z dniem utworzenia, przejmuje prawa i zobowiązania Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie dotyczące Filii Akademii Sztuk Pięknych w Katowicach.
 
-**Art. 8.** Ustawa wchodzi w życie w terminie 14 dni od dnia ogłoszenia.
+### Art. 5.
 
+### 1.
+
+Z dniem utworzenia Akademii:
+
+### 1)
+
+pracownicy Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie zatrudnieni w Filii Akademii Sztuk Pięknych w Katowicach stają się pracownikami Akademii,
+
+### 2)
+
+studenci Filii Akademii Sztuk Pięknych w Katowicach stają się studentami Akademii,
+
+### 3)
+
+osoby przyjęte na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Akademii Sztuk Pięknych w Katowicach stają się osobami przyjętymi do Akademii.
+
+### 2.
+
+Podstawowe jednostki organizacyjne Filii Akademii Sztuk Pięknych w Katowicach stają się podstawowymi jednostkami organizacyjnymi Akademii.
+
+### 3.
+
+Jednostki organizacyjne Filii Akademii Sztuk Pięknych w Katowicach, które przed dniem utworzenia Akademii posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Akademii.
+
+### Art. 6.
+
+### 1.
+
+Dotychczasowe organy kolegialne i jednoosobowe Filii Akademii Sztuk Pięknych w Katowicach stają się z dniem 1 września 2001 r. organami Akademii.
+
+### 2.
+
+Dotychczasowi przedstawiciele Filii Akademii Sztuk Pięknych w Katowicach do Senatu Akademii Sztuk Pięknych imienia Jana Matejki w Krakowie pełnią funkcję Senatu Akademii do dnia wyboru Senatu Akademii w trybie i na zasadach określonych w art. 7.
+
+### Art. 7.
+
+Wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów zostaną przeprowadzone do dnia 30 września 2001 r. w trybie i na zasadach określonych w Statucie Akademii.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -1,0 +1,151 @@
+---
+title: "Obwieszczenie Ministra Środowiska z dnia 23 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju"
+address: WDU20180000515
+eli: DU/2018/515
+publisher: DU
+year: 2018
+pos: 515
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Środowiskaz dnia 23 lutego 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 515 |
+| ISAP | WDU20180000515 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-02-23 |
+| Data wydania | 2018-03-12 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/515/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/515) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju](#part_2)
+
+- [Załącznik - Statut Parku Narodowego Gór Stołowych z siedzibą w Kudowie-Zdroju](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju ([Dz. U. poz. 288](https://api.sejm.gov.pl/eli/acts/DU/2013/288/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającym rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju ([Dz. U. poz. 2309](https://api.sejm.gov.pl/eli/acts/DU/2017/2309/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju ([Dz. U. poz. 2309](https://api.sejm.gov.pl/eli/acts/DU/2017/2309/text.html)), który stanowi:
+
+„
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Ministra Środowiska z dnia 18 lutego 2013 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju[1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).](#gloss-0:1:)
+
+Na podstawie art. 8f ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2018 r. poz. 142](https://api.sejm.gov.pl/eli/acts/DU/2018/142/text.html) i [10](https://api.sejm.gov.pl/eli/acts/DU/2018/10/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju nadaje się statut, który stanowi załącznik do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia[2) Rozporządzenie zostało ogłoszone w dniu 4 marca 2013 r.](#gloss-0:2:).[3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 40 Ministra Środowiska z dnia 30 maja 2005 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 1 i 42 oraz z 2009 r. poz. 44), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).](#gloss-0:3:)
+
+1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96). 2) Rozporządzenie zostało ogłoszone w dniu 4 marca 2013 r. 3) Niniejsze rozporządzenie było poprzedzone zarządzeniem nr 40 Ministra Środowiska z dnia 30 maja 2005 r. w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych (Dz. Urz. Min. Środ. i GIOŚ z 2006 r. poz. 1 i 42 oraz z 2009 r. poz. 44), które utraciło moc z dniem 31 grudnia 2012 r. na podstawie art. 10 ustawy z dnia 18 sierpnia 2011 r. o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw (Dz. U. poz. 1337).
+
+## Załącznik - Statut Parku Narodowego Gór Stołowych z siedzibą w Kudowie-Zdroju
+
+### § 1.
+
+Park Narodowy Gór Stołowych z siedzibą w Kudowie-Zdroju, zwany dalej „Parkiem”, będący państwową osobą prawną, działa na podstawie ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2018 r. poz. 142](https://api.sejm.gov.pl/eli/acts/DU/2018/142/text.html) i [10](https://api.sejm.gov.pl/eli/acts/DU/2018/10/text.html)) oraz niniejszego statutu.
+
+### § 2.
+
+Organizację wewnętrzną Parku stanowią następujące komórki organizacyjne i samodzielne stanowiska pracy:
+
+### 1)
+
+Zespół do spraw Administracyjnych;
+
+### 1a[4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju (Dz. U. poz. 2309), które weszło w życie z dniem 28 grudnia 2017 r.](#gloss-0:4:))
+
+Zespół do spraw Badań Naukowych i Obszarów Natura 2000;
+
+### 2)
+
+Zespół do spraw Edukacji i Systemu Informacji Geograficznej (GIS);
+
+### 3)
+
+Zespół do spraw Finansowo-Księgowych;
+
+### 4)
+
+Zespół do spraw Ochrony Przyrody;
+
+### 5)
+
+Zespół do spraw Udostępniania Parku;
+
+### 6)
+
+(uchylony);[5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:5:)
+
+### 7)
+
+(uchylony);[5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.](#gloss-0:5:)
+
+### 8)
+
+Samodzielne Stanowisko do spraw Pracowniczych;
+
+### 9)
+
+Posterunek Straży Parku;
+
+### 10)
+
+obwody ochronne:
+
+### a)
+
+Bukowina,
+
+### b)
+
+Szczeliniec,
+
+### c)
+
+Czerwona Woda.
+
+### § 3.
+
+Dyrektor Parku może tworzyć komisje lub zespoły opiniodawczo-doradcze o charakterze stałym lub czasowym, określając ich nazwę, skład osobowy, zakres zadań, tryb działania oraz sposób ich obsługi.
+
+### § 4.
+
+Dyrektor Parku kieruje działalnością Parku przy pomocy zastępcy lub zastępców dyrektora Parku, głównego księgowego oraz kierujących komórkami organizacyjnymi, o których mowa w § 2.
+
+### § 5.
+
+W razie nieobecności dyrektora Parku lub czasowej niezdolności do wykonywania przez niego obowiązków działalnością Parku kieruje i reprezentuje Park na zewnątrz wyznaczony przez dyrektora Parku jego zastępca.
+
+### § 6.
+
+Dyrektor Parku udziela pełnomocnictwa do dokonywania czynności prawnych na piśmie.
+
+4) Dodany przez § 1 pkt 1 rozporządzenia Ministra Środowiska z dnia 30 listopada 2017 r. zmieniającego rozporządzenie w sprawie nadania statutu Parkowi Narodowemu Gór Stołowych z siedzibą w Kudowie-Zdroju (Dz. U. poz. 2309), które weszło w życie z dniem 28 grudnia 2017 r. 5) Przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 4.

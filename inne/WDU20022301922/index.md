@@ -8,11 +8,9 @@ pos: 1922
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# dopłatach do oprocentowania kredytów mieszkaniowych stałej stopie procentowej
-
-*USTAWA dnia 5 grudnia 2002 r.*
+# Ustawa z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej
 
 | Pole | Wartość |
 |---|---|
@@ -23,155 +21,343 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2002-12-05 |
 | Data wydania | 2002-12-24 |
-| Ostatnia zmiana | 2025-09-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022301922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1922/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/1922/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/1922) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa zasady stosowania dopłat do oprocentowania długoterminowych kredytów stałej stopie procentowej, udzielanych przez banki na cele związane budownictwem mieszkaniowym, realizowanym na terytorium Rzeczypospolitej Polskiej, a także źródła finansowania dopłat oraz zasady rozliczeń tytułu przekazanych bankom dopłat.
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Kredyt o stałej stopie procentowej](#chpt_2) [Rozdział 3 - Fundusz Dopłat](#chpt_3) [Rozdział 4 - Rozliczenia z tytułu dopłat](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących i przepisy końcowe](#chpt_5)
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+TOC
 
-#### Rozdział 2 Kredyt stałej stopie procentowej
+## Treść ustawy
 
-**Art. 3.**
+### Rozdział 1 Przepisy ogólne
 
-1. Kredytów stałej stopie procentowej udzielają banki, które zawarły umowy Bankiem Gospodarstwa Krajowego, zwane dalej „bankami”.
+### Art. 1.
 
-2. Kredytów stałej stopie procentowej udziela się:
+Ustawa określa zasady stosowania dopłat do oprocentowania długoterminowych kredytów o stałej stopie procentowej, udzielanych przez banki na cele związane z budownictwem mieszkaniowym, realizowanym na terytorium Rzeczypospolitej Polskiej, a także źródła finansowania dopłat oraz zasady rozliczeń z tytułu przekazanych bankom dopłat.
 
-- **1)** osobom fizycznym na zaspokojenie własnych potrzeb mieszkaniowych przez:
-    - **a)** budowę domu jednorodzinnego,
-    - **b)** nadbudowę, przebudowę lub rozbudowę budynku mieszkalnego lub adaptację budynku lub lokalu innym przeznaczeniu na cele mieszkalne, celu uzyskania lokalu mieszkalnego stanowiącego odrębną nieruchomość,
-    - **c)** zakup będącego budowie lub nowo wybudowanego domu jednorodzinnego lub lokalu mieszkalnego, stanowiącego odrębną nieruchomość, od gminy albo od osoby, która wybudowała ten budynek ramach wykonywanej działalności gospodarczej,
-    - **d)** pokrycie kosztów budowy lokalu mieszkalnego, budowanego przez spółdzielnię mieszkaniową celu ustanowienia odrębnej własności tego lokalu,
+### Art. 2.
 
-- **2)** osobom fizycznym, osobom prawnym i wspólnotom mieszkaniowym na remont budynku mieszkalnego, wyłączeniem remontów niewymagających pozwolenia na budowę oraz remontów lokali budynkach wielorodzinnych.
+Użyte w ustawie określenia oznaczają:
 
-3. Kredytów stałej stopie procentowej nie udziela się na finansowanie przedsięwzięcia inwestycyjnego, na które zaciągnięto kredyt uprawniający do otrzymania premii termomodernizacyjnej na podstawie przepisów ustawy dnia 18 grudnia 1998 r. wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. poz. 1121, późn. zm. ) .
+### 1)
 
-4. Kredytów stałej stopie procentowej udziela się:
+„budynek mieszkalny” - budynek, w którym łączna powierzchnia wykorzystywanych zgodnie z przeznaczeniem lokali mieszkalnych wraz z powierzchnią pomieszczeń do nich przynależnych jest większa od łącznej powierzchni pozostałych lokali i pomieszczeń do nich przynależnych;
 
-- **1)** na cele określone ust. 2 pkt 1 – na okres od 20 do 25 lat;
-- **2)** na cel określony ust. 2 pkt 2 – na okres od 15 do 20 lat.
+### 2)
 
-5. Kredyty stałej stopie procentowej są udzielane i spłacane walucie polskiej.
+„kredyty o stałej stopie procentowej” - długoterminowe kredyty udzielane na zasadach określonych w ustawie, do których oprocentowania stosowane są dopłaty;
 
-6. Prowizje i opłaty związane udzielaniem kredytu stałej stopie procentowej nie mogą być doliczone do kwoty kredytu ani niej potrącone.
+### 3)
 
-7. Kredyt stałej stopie procentowej jest spłacany równych ratach kapitałowo-odsetkowych okresach miesięcznych lub kwartalnych.
+„stała stopa procentowa” - nominalną roczną stopę oprocentowania kredytu, po jakiej banki udzielają kredytów o stałej stopie procentowej;
 
-8. Bank może odroczyć spłatę rat kapitałowych do czasu postawienia całej kwoty kredytu stałej stopie procentowej do dyspozycji kredytobiorcy, nie dłużej jednak niż 24 miesiące od dnia zawarcia umowy kredytu stałej stopie procentowej.
+### 4)
 
-**Art. 4.**
+„stopa WIBOR trzymiesięczny” - roczną stopę procentową trzymiesięcznych pożyczek udzielonych w walucie polskiej na warszawskim międzybankowym rynku finansowym, notowaną przez agencję informacyjną, wskazaną w umowie między Bankiem Gospodarstwa Krajowego a bankiem udzielającym kredytu o stałej stopie procentowej;
 
-1. Stała stopa procentowa wynosi 7 % stosunku rocznym, zastrzeżeniem ust. 2.
+### 5)
 
-2. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz Banku Gospodarstwa Krajowego, może, drodze rozporządzenia, zmienić wysokość stałej stopy procentowej, biorąc pod wyłącznie do kredytów stałej stopie procentowej udzielanych na podstawie umów zawartych po dniu wejścia życie rozporządzenia, którym mowa ust. 2.
+„stopa referencyjna” - zmienną stopę procentową, stanowiącą podstawę ustalenia wysokości dopłat do oprocentowania kredytów o stałej stopie procentowej, równą przeciętnej stopie WIBOR trzymiesięczny, obliczanej jako średnia arytmetyczna notowań w kwartale poprzedzającym dany kwartał, powiększonej o marżę określoną w umowie między Bankiem Gospodarstwa Krajowego a bankiem udzielającym kredytu o stałej stopie procentowej, wynoszącą nie więcej niż 1,5 punktu procentowego;
 
-#### Rozdział 3 Fundusz Dopłat
+### 6)
 
-**Art. 5.**
+„dopłata” - kwotę stanowiącą różnicę między odsetkami naliczonymi za dany okres według stopy referencyjnej a odsetkami naliczonymi za ten sam okres według stałej stopy procentowej; podstawą naliczania odsetek według obu stóp jest pozostający do spłaty kapitał kredytu.
 
-1. W Banku Gospodarstwa Krajowego tworzy się Fundusz Dopłat, zwany dalej „Funduszem”.
+### Rozdział 2 Kredyt o stałej stopie procentowej
 
-2. Środki Funduszu tworzą:
+### Art. 3.
 
-- **1)** nadwyżki, których mowa art. 8 ust. 3;
-- **2)** zwroty dopłat, których mowa art. 9 ust. 3 i art. 10 ust. 2;
-- **3)** dochody tytułu inwestowania przejściowo wolnych środków Funduszu lokaty bankowe i papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski, bądź poręczane lub gwarantowane przez Skarb Państwa, listy zastawne oraz jednostki uczestnictwa funduszy rynku pieniężnego, którym mowa art. 178 ustawy dnia 27 maja 2004 r. funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. 2024 r. poz. 1034, późn. zm. );
-- **4)** środki budżetu państwa – wysokości określonej ustawie budżetowej;
-- **4a)** środki przekazane przez Krajowy Zasób Nieruchomości, którym mowa ustawie dnia 20 lipca 2017 r. Krajowym Zasobie Nieruchomości (Dz. U. 2025 r. poz. 834);
-- **4b)** (uchylony) 4c) wpływy ze skarbowych papierów wartościowych;
-- **4d)** środki rezerwy celowej, której mowa art. 14ll ust. 4 ustawy dnia 6 grudnia 2006 r. zasadach prowadzenia polityki rozwoju (Dz. U. 2025 r. poz. 198), przekazane ramach realizacji działania „Inwestycje energooszczędne budownictwo mieszkaniowe dla gospodarstw domowych niskich i średnich powodzi (Dz. U. 2024 r. poz. 654, 1473, 1635 i 1717 oraz 2025 r. poz. 620 i 680);
-- **5)** inne wpływy.
+### 1.
 
-3. Środki Funduszu przeznacza się na:
+Kredytów o stałej stopie procentowej udzielają banki, które zawarły umowy z Bankiem Gospodarstwa Krajowego, zwane dalej „bankami”.
 
-- **1)** dopłaty;
-- **1a)** dopłaty do oprocentowania kredytów preferencyjnych, których mowa ustawie dnia 8 września 2006 r. finansowym wsparciu rodzin i innych osób nabywaniu własnego mieszkania (Dz. U. 2023 r. poz. 1296);
-- **1b)** finansowe wsparcie udzielone na podstawie ustawy dnia 8 grudnia 2006 r. finansowym wsparciu niektórych przedsięwzięć mieszkaniowych (Dz. U. 2024 r. poz. 304 oraz 2025 r. poz. 680 i 1077); 1ba) pokrycie kosztów tworzenia i uzupełniania zasobu dokumentacji projektowych, którym mowa rozdziale 2a ustawy dnia 8 grudnia 2006 r. finansowym wsparciu niektórych przedsięwzięć mieszkaniowych, oraz zarządzania tym zasobem;
-- **1c)** dopłaty do odsetek od środków banku prowadzącego kasę mieszkaniową wykorzystanych do przejściowego finansowania działalności kasy mieszkaniowej oraz dopłaty do oprocentowania pożyczki zaciągniętej innym banku, oraz dopłaty do oprocentowania kredytów ramach realizacji rządowego programu popierania budownictwa mieszkaniowego, których mowa ustawie dnia 26 października 1995 r. społecznych formach rozwoju mieszkalnictwa;
-- **1d)** finansowe wsparcie udzielane na podstawie ustawy dnia 27 września 2013 r. pomocy państwa nabyciu pierwszego mieszkania przez młodych ludzi (Dz. U. 2022 r. poz. 2628);
-- **1e)** dopłaty do czynszu, których mowa ustawie dnia 20 lipca 2018 r. pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych latach najmu mieszkania (Dz. U. 2024 r. poz. 506);
-- **1f)** (uchylony)
-- **2)** pokrycie kosztów działania Funduszu. ustawy dnia 16 września 2011 r. szczególnych rozwiązaniach związanych usuwaniem skutków powodzi;
-- **2)** nie są wliczane do łącznej wysokości środków, których mowa art. 8b ust. 1 ustawy dnia 8 grudnia 2006 r. finansowym wsparciu niektórych przedsięwzięć mieszkaniowych.
+### 2.
 
-3b. Przekazane danym roku do Funduszu środki rezerwy celowej, której mowa art. 3 ust. 2 ustawy dnia 16 września 2011 r. szczególnych rozwiązaniach związanych usuwaniem skutków powodzi, i niewykorzystane tym roku przeznacza się na wypłatę finansowego wsparcia udzielonego zgodnie art. 28 tej ustawy tym roku i niewypłaconego finansowego wsparcia udzielanego roku następnym.
+Kredytów o stałej stopie procentowej udziela się:
 
-4. Bank Gospodarstwa Krajowego:
+### 1)
 
-- **1)** sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat;
-- **2)** wyodrębnia plan finansowy Funduszu planie finansowym Banku Gospodarstwa Krajowego;
-- **3)** przekazuje organom, których mowa ust. 5, terminach określonych przepisach dotyczących sprawozdawczości budżetowej państwowych funduszy celowych, sprawozdanie miesięczne realizacji planu finansowego Funduszu, narastająco za kolejne miesiące roku budżetowego, szczegółowości nie mniejszej niż wynikająca tego planu.
+osobom fizycznym na zaspokojenie własnych potrzeb mieszkaniowych przez:
 
-5. Plan finansowy Funduszu, którym mowa ust. 4 pkt 2, jest opracowywany uzgodnieniu ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, nie później niż do dnia 31 lipca roku poprzedzającego rok, na który plan jest opracowywany.
+### a)
 
-6. Projekt planu finansowego na dany rok jest przekazywany do uzgodnienia organom wymienionym ust. 5, nie później niż do dnia 15 czerwca roku poprzedniego.
+budowę domu jednorodzinnego,
 
-**Art. 6.** (uchylony) 2. Koszt dochodzenia roszczeń, których mowa ust. 1, pokrywa się ze środków Funduszu.
+### b)
 
-**Art. 7.** Bank Gospodarstwa Krajowego jest zwolniony obowiązku utrzymywania rezerwy obowiązkowej, której mowa art. 38 ustawy dnia 29 sierpnia 1997 r. Narodowym Banku Polskim (Dz. U. 2022 r. poz. 2025), od środków zgromadzonych na rachunkach Funduszu.
+nadbudowę, przebudowę lub rozbudowę budynku mieszkalnego lub adaptację budynku lub lokalu o innym przeznaczeniu na cele mieszkalne, w celu uzyskania lokalu mieszkalnego stanowiącego odrębną nieruchomość,
 
-#### Rozdział 4 Rozliczenia tytułu dopłat
+### c)
 
-**Art. 8.**
+zakup będącego w budowie lub nowo wybudowanego domu jednorodzinnego lub lokalu mieszkalnego, stanowiącego odrębną nieruchomość, od gminy albo od osoby, która wybudowała ten budynek w ramach wykonywanej działalności gospodarczej,
 
-1. Dopłaty są stosowane, jeżeli stała stopa procentowa jest niższa od stopy referencyjnej.
+### d)
 
-2. Środki otrzymane przez banki na dopłaty są ewidencjonowane odrębnie dla rachunku każdego kredytobiorcy.
+pokrycie kosztów budowy lokalu mieszkalnego, budowanego przez spółdzielnię mieszkaniową w celu ustanowienia odrębnej własności tego lokalu,
 
-3. Jeżeli danym miesiącu stopa referencyjna jest niższa od stałej stopy procentowej, środki wpłacone przez kredytobiorcę do banku, kwocie odpowiadającej nadwyżce odsetek naliczonych za ten miesiąc według stałej stopy procentowej nad odsetkami naliczonymi za ten sam okres według stopy referencyjnej, podlegają przekazaniu do Funduszu.
+### e)
 
-3a. Jeżeli danym miesiącu stopa referencyjna jest ujemna, przekazaniu do Funduszu podlegają środki wpłacone przez kredytobiorcę do banku kwocie odpowiadającej wysokości odsetek naliczonych według stałej stopy procentowej.
+wniesienie wkładu do spółdzielni mieszkaniowej w celu uzyskania spółdzielczego prawa do zasiedlanego po raz pierwszy lokalu mieszkalnego
 
-4. Rozliczenia banków Bankiem Gospodarstwa Krajowego, których mowa ust. 3 i 3a, odbywają się okresach kwartalnych, terminie do końca miesiąca następującego po danym kwartale.
+- z wyjątkiem inwestycji dokonywanych przez te osoby fizyczne w ramach wykonywanej przez nie działalności gospodarczej;
 
-5. Środki wpłacone przez kredytobiorcę, których mowa ust. 3 i 3a, pomniejszają kwotę dopłat ewidencjonowanych przez bank na rachunku tego kredytobiorcy.
+### 2)
 
-3. W przypadku wystąpienia nieterminowej spłaty kredytu stałej stopie procentowej bank traci prawo do dopłat do oprocentowania tego kredytu i jest obowiązany zwrócić do Funduszu uzyskane dopłaty pomniejszone ewentualne nadwyżki, których mowa art. 8 ust. 3, terminie 6 miesięcy od dnia wypowiedzenia umowy kredytu przez bank.
+osobom fizycznym, osobom prawnym i wspólnotom mieszkaniowym na remont budynku mieszkalnego, z wyłączeniem remontów niewymagających pozwolenia na budowę oraz remontów lokali w budynkach wielorodzinnych.
 
-4. Przez nieterminową spłatę kredytu stałej stopie procentowej spłacanego okresach miesięcznych lub kwartalnych należy rozumieć brak spłaty raty przez kolejne trzy miesiące.
+### 3.
 
-5. W przypadku wystąpienia nieterminowej spłaty kredytu stałej stopie procentowej bankowi przysługuje wobec kredytobiorcy roszczenie zwrot kwoty, zwróconej przez bank do Funduszu, której mowa ust. 3.
+Kredytów o stałej stopie procentowej nie udziela się na finansowanie przedsięwzięcia inwestycyjnego, na które zaciągnięto kredyt uprawniający do otrzymania premii termomodernizacyjnej na podstawie przepisów ustawy z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. Nr 162, poz. 1121, z późn. zm.[1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 76, poz. 808 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253.](#gloss-0:1:)).
 
-**Art. 10.**
+### 4.
 
-1. Kredytobiorca może spłacić kredyt stałej stopie procentowej przed upływem okresu, na jaki ten kredyt został udzielony, jeżeli:
+Kredytów o stałej stopie procentowej udziela się:
 
-- **1)** łączna kwota nadwyżek, których mowa art. 8 ust. 3, przekroczy łączną kwotę zastosowanych dopłat lub
-- **2)** kredytobiorca spłaci kwotę zastosowanych dopłat, zaewidencjonowanych dla rachunku, którym mowa art. 8 ust. 2.
+### 1)
 
-2. W przypadku spłaty przez kredytobiorcę kwoty zastosowanych dopłat, której mowa ust. 1 pkt 2, bank niezwłocznie zwraca tę kwotę do Funduszu.
+na cele określone w ust. 2 pkt 1 - na okres od 20 do 25 lat;
 
-3. Bank niezwłocznie informuje kredytobiorcę wystąpieniu sytuacji, której mowa ust. 1 pkt 1, oraz przysługującym mu prawie wcześniejszej spłaty.
+### 2)
 
-4. Przepis ust. 1 nie narusza prawa banku do ustalenia własnych opłat i prowizji związanych wcześniejszą spłatą kredytu.
+na cel określony w ust. 2 pkt 2 - na okres od 15 do 20 lat.
 
-**Art. 11.**
+### 5.
 
-1. Bank Gospodarstwa Krajowego zawiera bankami umowy sprawie udzielania kredytów stałej stopie procentowej i rozliczeń finansowych tytułu dopłat.
+Kredyty o stałej stopie procentowej są udzielane i spłacane w walucie polskiej.
 
-2. Do wyboru banków nie mają zastosowania przepisy zamówieniach publicznych.
+### 6.
 
-4. Jeżeli środki Funduszu nie pozwalają na pokrycie należności banków tytułu dopłat, Bank Gospodarstwa Krajowego wypłaci bankom dopłaty własnych środków, a minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zwróci Bankowi Gospodarstwa Krajowego wypłaconą kwotę wraz odsetkami równymi kosztowi pozyskania przez Bank Gospodarstwa Krajowego tej kwoty.
+Prowizje i opłaty związane z udzielaniem kredytu o stałej stopie procentowej nie mogą być doliczone do kwoty kredytu ani z niej potrącone.
 
-**Art. 12.**
+### 7.
 
-1. Bank Gospodarstwa Krajowego sporządza zbiorcze rozliczenie dopłat przekazanych bankom za dany kwartał i przekazuje je ministrowi właściwemu do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa terminie do końca miesiąca następującego po danym kwartale.
+Kredyt o stałej stopie procentowej jest spłacany w równych ratach kapitałowo-odsetkowych w okresach miesięcznych lub kwartalnych.
 
-2. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa określi, drodze rozporządzenia, wzór formularza zbiorczego rozliczenia, którym mowa ust. 1, uwzględniając szczególności dane dotyczące kwot dopłat przekazanych bankom oraz kwot zwrotów nadwyżek, których mowa art. 8 ust. 3, a także dane służące obliczeniu tych kwot.
+### 8.
 
-#### Rozdział 5 Zmiany przepisach obowiązujących i przepisy końcowe
+Bank może odroczyć spłatę rat kapitałowych do czasu postawienia całej kwoty kredytu o stałej stopie procentowej do dyspozycji kredytobiorcy, nie dłużej jednak niż o 24 miesiące od dnia zawarcia umowy kredytu o stałej stopie procentowej.
 
-**Art. 13.** (pominięty)
+### Art. 4.
 
-**Art. 14.** Kredytów stałej stopie procentowej udziela się do dnia 31 grudnia 2005 r.
+### 1.
 
-**Art. 15.** Minister właściwy do spraw Skarbu Państwa dostosuje, trybie określonym odrębnych przepisach, statut Banku Gospodarstwa Krajowego do przepisów niniejszej ustawy.
+Stała stopa procentowa wynosi 7% w stosunku rocznym, z zastrzeżeniem ust. 2.
 
-**Art. 16.** (pominięty)
+### 2.
 
-**Art. 17.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast oraz Banku Gospodarstwa Krajowego, może, w drodze rozporządzenia, zmienić wysokość stałej stopy procentowej, biorąc pod uwagę konkurencyjność stopy procentowej kredytu o stałej stopie procentowej w stosunku do kredytów na cele mieszkaniowe oferowanych na rynku. Stała stopa procentowa nie może być ustalona na poziomie niższym niż 6% w stosunku rocznym.
 
+### 3.
+
+Stała stopa procentowa ustalona na podstawie ust. 2 ma zastosowanie wyłącznie do kredytów o stałej stopie procentowej udzielanych na podstawie umów zawartych po dniu wejścia w życie rozporządzenia, o którym mowa w ust. 2.
+
+### Rozdział 3 Fundusz Dopłat
+
+### Art. 5.
+
+### 1.
+
+W Banku Gospodarstwa Krajowego tworzy się Fundusz Dopłat, zwany dalej „Funduszem”.
+
+### 2.
+
+Środki Funduszu tworzą:
+
+### 1)
+
+nadwyżki, o których mowa w art. 8 ust. 3;
+
+### 2)
+
+zwroty dopłat, o których mowa w art. 9 ust. 3 i art. 10 ust. 2;
+
+### 3)
+
+dochody z tytułu inwestowania przejściowo wolnych środków Funduszu w lokaty bankowe i papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski, bądź poręczane lub gwarantowane przez Skarb Państwa, oraz w listy zastawne;
+
+### 4)
+
+środki z budżetu państwa - w wysokości określonej w ustawie budżetowej;
+
+### 5)
+
+inne wpływy.
+
+### 3.
+
+Środki Funduszu przeznacza się na:
+
+### 1)
+
+dopłaty;
+
+### 2)
+
+pokrycie kosztów działania Funduszu.
+
+### 4.
+
+Bank Gospodarstwa Krajowego:
+
+### 1)
+
+sporządza dla Funduszu odrębny bilans oraz rachunek zysków i strat;
+
+### 2)
+
+wyodrębnia plan finansowy Funduszu w planie finansowym Banku Gospodarstwa Krajowego;
+
+### 3)
+
+przekazuje organom, o których mowa w ust. 5, kwartalne informacje o realizacji planu finansowego Funduszu w terminie do końca miesiąca następującego po danym kwartale.
+
+### 5.
+
+Plan finansowy Funduszu, o którym mowa w ust. 4 pkt 2, jest opracowywany w uzgodnieniu z ministrem właściwym do spraw finansów publicznych oraz Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast.
+
+### 6.
+
+Projekt planu finansowego na dany rok jest przekazywany do uzgodnienia organom wymienionym w ust. 5, nie później niż do dnia 30 listopada roku poprzedzającego.
+
+### Art. 6.
+
+Po spłacie ostatniego kredytu o stałej stopie procentowej środki Funduszu podlegają odprowadzeniu do budżetu państwa.
+
+### Art. 7.
+
+Bank Gospodarstwa Krajowego jest zwolniony z obowiązku utrzymywania rezerwy obowiązkowej, o której mowa w art. 38 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. Nr 140, poz. 938, z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800 oraz z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178.](#gloss-0:2:)), od środków zgromadzonych na rachunkach Funduszu.
+
+### Rozdział 4 Rozliczenia z tytułu dopłat
+
+### Art. 8.
+
+### 1.
+
+Dopłaty są stosowane, jeżeli stała stopa procentowa jest niższa od stopy referencyjnej.
+
+### 2.
+
+Środki otrzymane przez banki na dopłaty są ewidencjonowane odrębnie dla rachunku każdego kredytobiorcy.
+
+### 3.
+
+Jeżeli w danym miesiącu stopa referencyjna jest niższa od stałej stopy procentowej, środki wpłacone przez kredytobiorcę do banku, w kwocie odpowiadającej nadwyżce odsetek naliczonych za ten miesiąc według stałej stopy procentowej nad odsetkami naliczonymi za ten sam okres według stopy referencyjnej, podlegają przekazaniu do Funduszu.
+
+### 4.
+
+Rozliczenia banków z Bankiem Gospodarstwa Krajowego, o których mowa w ust. 3, odbywają się w okresach kwartalnych, w terminie do końca miesiąca następującego po danym kwartale.
+
+### 5.
+
+Środki wpłacone przez kredytobiorcę, o których mowa w ust. 3, pomniejszają kwotę dopłat ewidencjonowanych przez bank na rachunku tego kredytobiorcy.
+
+### Art. 9.
+
+### 1.
+
+Dopłaty są przekazywane bankom pod warunkiem terminowej spłaty kredytu o stałej stopie procentowej wraz z odsetkami, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Dopłaty są przekazywane bankom również w okresie odroczenia spłaty rat kapitałowych, o którym mowa w art. 3 ust. 8.
+
+### 3.
+
+W przypadku wystąpienia nieterminowej spłaty kredytu o stałej stopie procentowej bank traci prawo do dopłat do oprocentowania tego kredytu i jest obowiązany zwrócić do Funduszu uzyskane dopłaty pomniejszone o ewentualne nadwyżki, o których mowa w art. 8 ust. 3, w terminie 6 miesięcy od dnia wypowiedzenia umowy kredytu przez bank.
+
+### 4.
+
+Przez nieterminową spłatę kredytu o stałej stopie procentowej spłacanego w okresach miesięcznych lub kwartalnych należy rozumieć brak spłaty raty przez kolejne trzy miesiące.
+
+### 5.
+
+W przypadku wystąpienia nieterminowej spłaty kredytu o stałej stopie procentowej bankowi przysługuje wobec kredytobiorcy roszczenie o zwrot kwoty, zwróconej przez bank do Funduszu, o której mowa w ust. 3.
+
+### Art. 10.
+
+### 1.
+
+Kredytobiorca może spłacić kredyt o stałej stopie procentowej przed upływem okresu, na jaki ten kredyt został udzielony, jeżeli:
+
+### 1)
+
+łączna kwota nadwyżek, o których mowa w art. 8 ust. 3, przekroczy łączną kwotę zastosowanych dopłat lub
+
+### 2)
+
+kredytobiorca spłaci kwotę zastosowanych dopłat, zaewidencjonowanych dla rachunku, o którym mowa w art. 8 ust. 2.
+
+### 2.
+
+W przypadku spłaty przez kredytobiorcę kwoty zastosowanych dopłat, o której mowa w ust. 1 pkt 2, bank niezwłocznie zwraca tę kwotę do Funduszu.
+
+### 3.
+
+Bank niezwłocznie informuje kredytobiorcę o wystąpieniu sytuacji, o której mowa w ust. 1 pkt 1, oraz o przysługującym mu prawie wcześniejszej spłaty.
+
+### 4.
+
+Przepis ust. 1 nie narusza prawa banku do ustalenia własnych opłat i prowizji związanych z wcześniejszą spłatą kredytu.
+
+### Art. 11.
+
+### 1.
+
+Bank Gospodarstwa Krajowego zawiera z bankami umowy w sprawie udzielania kredytów o stałej stopie procentowej i rozliczeń finansowych z tytułu dopłat.
+
+### 2.
+
+Do wyboru banków nie mają zastosowania przepisy ustawy z dnia 10 czerwca 1994 r. o zamówieniach publicznych ([Dz. U. z 2002 r. Nr 72, poz. 664](https://api.sejm.gov.pl/eli/acts/DU/2002/664/text.html), [Nr 113, poz. 984](https://api.sejm.gov.pl/eli/acts/DU/2002/984/text.html) i [Nr 197, poz. 1661](https://api.sejm.gov.pl/eli/acts/DU/2002/1661/text.html)).
+
+### 3.
+
+Umowy, o których mowa w ust. 1, określają w szczególności tryb i terminy przekazywania bankom przez Bank Gospodarstwa Krajowego środków na dopłaty, a także tryb i terminy przekazywania Bankowi Gospodarstwa Krajowego przez banki nadwyżek, o których mowa w art. 8 ust. 3.
+
+### 4.
+
+Jeżeli środki Funduszu nie pozwalają na pokrycie należności banków z tytułu dopłat, Bank Gospodarstwa Krajowego wypłaci bankom dopłaty z własnych środków, a minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej zwróci Bankowi Gospodarstwa Krajowego wypłaconą kwotę wraz z odsetkami równymi kosztowi pozyskania przez Bank Gospodarstwa Krajowego tej kwoty.
+
+### Art. 12.
+
+### 1.
+
+Bank Gospodarstwa Krajowego sporządza zbiorcze rozliczenie dopłat przekazanych bankom za dany kwartał i przekazuje je Prezesowi Urzędu Mieszkalnictwa i Rozwoju Miast w terminie do końca miesiąca następującego po danym kwartale.
+
+### 2.
+
+Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, wzór formularza zbiorczego rozliczenia, o którym mowa w ust. 1, uwzględniając w szczególności dane dotyczące kwot dopłat przekazanych bankom oraz kwot zwrotów nadwyżek, o których mowa w art. 8 ust. 3, a także dane służące obliczeniu tych kwot.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących i przepisy końcowe
+
+### Art. 13.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672 i Nr 200, poz. 1684.](#gloss-0:3:)) w art. 17 w ust. 1 dodaje się pkt 4y w brzmieniu:
+
+„
+
+### 4y)
+
+dochody Banku Gospodarstwa Krajowego prowadzącego Fundusz Dopłat, stanowiące równowartość dochodów uzyskanych przez ten Fundusz z tytułów określonych w przepisach regulujących jego tworzenie i funkcjonowanie - w części przeznaczonej wyłącznie na realizację celów wymienionych w tych przepisach,
+
+” .
+
+### Art. 14.
+
+Kredytów o stałej stopie procentowej udziela się do dnia 31 grudnia 2005 r.
+
+### Art. 15.
+
+Minister właściwy do spraw Skarbu Państwa dostosuje, w trybie określonym w odrębnych przepisach, statut Banku Gospodarstwa Krajowego do przepisów niniejszej ustawy.
+
+### Art. 16.
+
+Projekt planu finansowego Funduszu, o którym mowa w art. 5 ust. 4 pkt 2, na rok 2003 przekazywany jest do uzgodnienia organom wymienionym w art. 5 ust. 5 w terminie 30 dni od dnia wejścia ustawy w życie.
+
+### Art. 17.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 76, poz. 808 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 160, poz. 1063, z 2000 r. Nr 53, poz. 648, Nr 62, poz. 718 i Nr 119, poz. 1252, z 2001 r. Nr 8, poz. 64, Nr 110, poz. 1189 i Nr 154, poz. 1784 i 1800 oraz z 2002 r. Nr 126, poz. 1070 i Nr 141, poz. 1178. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672 i Nr 200, poz. 1684.

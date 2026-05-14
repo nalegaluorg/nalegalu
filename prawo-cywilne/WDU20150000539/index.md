@@ -8,11 +8,9 @@ pos: 539
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw
-
-*USTAWA dnia 20 marca o zmianie ustawy – Kodeks cywilny niektórych innych ustaw*
+# Ustawa z dnia 20 marca 2015 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,134 +22,672 @@ domain: null
 | Data ogłoszenia | 2015-03-20 |
 | Data wydania | 2015-04-17 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000539) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/539/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/539/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/539) |
 
-**Art. 1.** W ustawie dnia 23 kwietnia 1964 – Kodeks cywilny (Dz. 2014 121, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 1031².**
+### Art. 1.
 
-§ 1. Wykaz inwentarza składany sądzie sporządza się według ustalonego wzoru.
+W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2014 r. poz. 121](https://api.sejm.gov.pl/eli/acts/DU/2014/121/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-§ 2. Minister Sprawiedliwości określi, drodze rozporządzenia:
+### 1)
 
-- **1)** wzór wykazu inwentarza obejmujący:
-    - **a)** dane, o których mowa 1031 § 3,
-    - **b)** imię nazwisko, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, ostatni adres spadkodawcy,
-    - **c)** imię nazwisko, numer PESEL albo numer Krajowym Rejestrze Sądowym, a przypadku jego braku – numer innym właściwym rejestrze, ewidencji lub numer identyfikacji podatkowej (NIP), jeżeli został nadany, adres składającego wykaz inwentarza,
-    - **d)** pouczenie składającego wykaz inwentarza co do obowiązku jego uzupełnienia, przypadkach wskazanych 1031 § – mając na uwadze zamieszczenie danych koniecznych do ustalenia stanu czynnego spadku standaryzację danych zawartych wykazie;
+w art. 1015 § 2 otrzymuje brzmienie:
 
-- **2)** sposób udostępnienia druków wzoru wykazu inwentarza mając na uwadze przyspieszenie postępowania spadkowego. zapisobiercę windykacyjnego lub wykonawcę testamentu.
+„
 
-§ 2. Od chwili sporządzenia spisu inwentarza spadkobierca spłaca długi spadkowe zgodnie ze sporządzonym spisem.
+### § 2.
 
-§ 3. Przepisy § 1 2 stosuje się odpowiednio do zapisobierców windykacyjnych wykonawców testamentu.
+Brak oświadczenia spadkobiercy w terminie określonym w § 1 jest jednoznaczny z przyjęciem spadku z dobrodziejstwem inwentarza.
 
-**Art. 1031.** Wierzyciel, który zażądał sporządzenia spisu inwentarza, nie może odmówić przyjęcia należnego mu świadczenia, chociażby dług nie był jeszcze wymagalny.”;
+” ;
 
-**Art. 2.** W ustawie dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2014 101, późn. zm. ) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 634.** Spadek zabezpiecza się, gdy zostanie uprawdopodobnione, że jakiejkolwiek przyczyny grozi naruszenie rzeczy lub praw majątkowych, które chwili otwarcia spadku były we władaniu lub należały do spadkodawcy, zwłaszcza przez usunięcie, uszkodzenie, zniszczenie lub nieusprawiedliwione rozporządzenie.”;
+uchyla się art. 1016;
 
-**Art. 636.**
+### 3)
 
-§ 1. Wykaz inwentarza może być złożony sądzie spadku lub sądzie, którego okręgu znajduje się miejsce zamieszkania składającego wykaz. Sąd niebędący sądem spadku niezwłocznie przesyła wykaz inwentarza do sądu spadku.
+w art. 1031 § 2 otrzymuje brzmienie:
 
-§ 2. Na żądanie spadkobiercy, zapisobiercy windykacyjnego lub wykonawcy testamentu notariusz sporządza protokół obejmujący wykaz inwentarza. Notariusz, przed którym złożono wykaz inwentarza, niezwłocznie przesyła wypis protokołu do sądu spadku.
+„
 
-§ 3. Sąd spadku niezwłocznie zarządza ogłoszenie o złożeniu wykazu inwentarza.”;
+### § 2.
 
-- **8)** 637 otrzymuje brzmienie: „Art. 637. § 1. Na wniosek tego, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiercą, albo wykonawcy testamentu lub wierzyciela mającego pisemny dowód należności przeciwko spadkodawcy sąd spadku wydaje postanowienie o sporządzeniu spisu inwentarza.
+W razie przyjęcia spadku z dobrodziejstwem inwentarza spadkobierca ponosi odpowiedzialność za długi spadkowe tylko do wartości ustalonego w wykazie inwentarza albo spisie inwentarza stanu czynnego spadku. Powyższe ograniczenie odpowiedzialności odpada, jeżeli spadkobierca podstępnie pominął w wykazie inwentarza lub podstępnie nie podał do spisu inwentarza przedmiotów należących do spadku lub przedmiotów zapisów windykacyjnych albo podstępnie uwzględnił w wykazie inwentarza lub podstępnie podał do spisu inwentarza nieistniejące długi.
 
-§ 2. Jeżeli sporządzenia spisu inwentarza żąda wierzyciel, sąd spadku wydaje postanowienie przedmiocie wniosku po wysłuchaniu spadkobiercy, chyba że wysłuchanie nie jest możliwe.
+” ;
 
-§ 3. Sąd spadku niezwłocznie zarządza ogłoszenie o wydaniu postanowienia o sporządzeniu spisu inwentarza.
+### 4)
 
-§ 4. Na postanowienie przedmiocie sporządzenia spisu inwentarza przysługuje zażalenie.”;
+po art. 1031 dodaje się art. 10311-10314 w brzmieniu:
 
-- **9)** po 637 dodaje się 637 brzmieniu: „Art. 637 . § 1. Wniosek o sporządzenie spisu inwentarza może być także zgłoszony bezpośrednio komornikowi, który byłby właściwy do wykonania postanowienia sądu spadku o sporządzeniu spisu inwentarza.
+„
 
-§ 2. Komornik przystępuje niezwłocznie do sporządzenia spisu inwentarza zawiadamia o tym sąd spadku, który wydaje postanowienie przedmiocie sporządzenia spisu inwentarza. Jeżeli sąd oddali albo odrzuci wniosek, o którym mowa § 1, albo umorzy postępowanie, spis sporządzony przez komornika rodzi takie same skutki jak złożenie wykazu inwentarza.”;
+### Art. 10311.
 
-- **10)** uchyla się 638;
-- **11)** po 638 dodaje się 638 –638 brzmieniu: „Art. 638 . § 1. Ogłoszenia, o których mowa 636 § 637 § 3, zamieszcza się na stronie internetowej na tablicy ogłoszeń sądu spadku.
+### § 1.
 
-§ 2. Ogłoszenie zawiera:
+Spadkobierca, który przyjął spadek z dobrodziejstwem inwentarza, zapisobierca windykacyjny lub wykonawca testamentu mogą złożyć w sądzie albo przed notariuszem wykaz inwentarza. Wykaz inwentarza składany przed notariuszem zostaje objęty protokołem.
 
-- **1)** imię nazwisko, numer PESEL, jeżeli został nadany, ostatni adres spadkodawcy;
-- **2)** datę śmierci spadkodawcy.
+### § 2.
 
-§ 3. Ogłoszenie, o którym mowa 636 § 3, poza danymi, o których mowa § 2, zawiera również pouczenie, że:
+Wykaz inwentarza może zostać złożony wspólnie przez więcej niż jednego spadkobiercę, zapisobiercę windykacyjnego lub wykonawcę testamentu.
 
-- **1)** ze złożonym wykazem inwentarza może się zapoznać każdy, kto taką potrzebę dostatecznie uzasadni;
-- **2)** osoby wskazane 637 § 1 mogą złożyć wniosek o sporządzenie spisu inwentarza.
+### § 3.
 
-§ 4. Ogłoszenie, o którym mowa 637 § 3, poza danymi, o których mowa § 2, zawiera również pouczenie, że osoby wskazane 637 § 1 mogą uczestniczyć sporządzaniu spisu inwentarza, szczególności zgłaszać przedmioty należące do spadku, przedmioty zapisów windykacyjnych lub długi spadkowe, które podlegają zamieszczeniu spisie inwentarza.
+W wykazie inwentarza z należytą starannością ujawnia się przedmioty należące do spadku oraz przedmioty zapisów windykacyjnych, z podaniem ich wartości według stanu i cen z chwili otwarcia spadku, a także długi spadkowe i ich wysokość według stanu z chwili otwarcia spadku.
 
-**Art. 638².**
+### § 4.
 
-§ 1. W sprawach, których postanowienie o zabezpieczeniu spadku, zmianie środka zabezpieczenia lub sporządzeniu spisu inwentarza zostało wydane urzędu, sąd, który wydał to postanowienie, kieruje do komornika polecenie dokonania zabezpieczenia spadku, zmiany środka zabezpieczenia lub sporządzenia spisu inwentarza.
+W razie ujawnienia po złożeniu wykazu inwentarza przedmiotów należących do spadku, przedmiotów zapisów windykacyjnych lub długów spadkowych pominiętych w wykazie inwentarza składający wykaz uzupełnia go. Do uzupełnienia wykazu stosuje się przepisy dotyczące składania wykazu inwentarza.
 
-§ 2. Podstawą postępowania mającego na celu wykonanie postanowienia o zabezpieczeniu spadku, zmianie środka zabezpieczenia lub sporządzeniu spisu inwentarza jest postanowienie zaopatrzone urzędu we wzmiankę o wykonalności.
+### Art. 10312.
 
-§ 3. Nadzór nad czynnościami komornika sprawuje sąd, który wydał postanowienie o zabezpieczeniu spadku lub sporządzeniu spisu inwentarza.
+### § 1.
 
-§ 4. W postępowaniu o zabezpieczenie spadku, zmianę środka zabezpieczenia lub sporządzenie spisu inwentarza sprawach nieuregulowanych niniejszym rozdziale stosuje się odpowiednio przepisy 759–774. czenia.
+Wykaz inwentarza składany w sądzie sporządza się według ustalonego wzoru.
 
-§ 2. W razie potrzeby złożenia przedmiotów podlegających zabezpieczeniu do depozytu sądowego komornik występuje wnioskiem do sądu, który wydał postanowienie o zabezpieczeniu spadku.
+### § 2.
 
-§ 3. Sąd, który wydał postanowienie o zabezpieczeniu spadku, zawiadamia sąd spadku o środkach zabezpieczenia zastosowanych przez komornika.
+Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
-**Art. 638.**
+### 1)
 
-§ 1. Spis majątku ruchomego ramach zabezpieczenia spadku sporządza się obecności dwóch świadków powołanych przez komornika.
+wzór wykazu inwentarza obejmujący:
 
-§ 2. Przy sporządzaniu spisu majątku ruchomego mogą być obecne osoby, które mają prawo zgłosić wniosek o zabezpieczenie spadku. Niestawiennictwo tych osób nie wstrzymuje wykonania czynności.
+### a)
 
-§ 3. Z dokonanej czynności komornik sporządza protokół, który podpisują wszyscy obecni. Odmowę lub niemożność podpisania stwierdza się protokole podaniem przyczyny.
+dane, o których mowa w art. 10311 § 3,
 
-**Art. 638⁵.** Komornik wykonujący postanowienie o zabezpieczeniu spadku razie potrzeby stosuje niezbędne środki tymczasowe zapobiegające naruszeniu ruchomości przed ich spisaniem.
+### b)
 
-**Art. 638⁶.**
+imię i nazwisko, numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany, oraz ostatni adres spadkodawcy,
 
-§ 1. Z pieniędzy wchodzących skład spadku komornik wykonujący postanowienie o zabezpieczeniu spadku wyda razie potrzeby członkowi rodziny spadkodawcy, a gdyby to nie było możliwe, domownikowi spadkodawcy albo innej osobie ponoszącej koszty pogrzebu, sumę potrzebną na koszty pogrzebu spadkodawcy. W przypadku braku pieniędzy na pogrzeb spadkodawcy, sąd może zarządzić sprzedaż przez komornika odpowiedniego przedmiotu należącego do spadku, oznaczając przy tym sposób sprzedaży.
+### c)
 
-§ 2. Komornik wykonujący postanowienie o zabezpieczeniu spadku może pieniędzy wchodzących skład spadku pozostawić członkom rodziny spadkodawcy, którzy do chwili jego śmierci wspólnie nim zamieszkiwali byli na jego utrzymaniu, niezbędne kwoty na ich utrzymanie przez czas nie dłuższy niż miesiąc.
+imię i nazwisko, numer PESEL albo numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku - numer w innym właściwym rejestrze, ewidencji lub numer identyfikacji podatkowej (NIP), jeżeli został nadany, oraz adres składającego wykaz inwentarza,
 
-**Art. 638⁷.** O terminie sporządzenia spisu inwentarza komornik zawiadamia wnioskodawcę uczestników postępowania o sporządzenie spisu inwentarza, a także spadkobiercę zapisobiercę windykacyjnego, których miejsce pobytu jest znane, jak również wykonawcę testamentu, kuratora spadku, dozorcę zarządcę tymczasowego, jeżeli byli ustanowieni. Niestawiennictwo tych osób nie wstrzymuje czynności.
+### d)
 
-**Art. 638⁸.**
+pouczenie składającego wykaz inwentarza co do obowiązku jego uzupełnienia, w przypadkach wskazanych w art. 10311 § 4
 
-§ 1. W spisie inwentarza komornik zamieszcza przedmioty należące do spadku przedmioty zapisów windykacyjnych, zaznaczeniem wartości każdego tych przedmiotów, długi spadkowe ze wskazaniem wysokości każdego nich.
+- mając na uwadze zamieszczenie danych koniecznych do ustalenia stanu czynnego spadku oraz standaryzację danych zawartych w wykazie;
 
-§ 2. Wartość przedmiotów należących do spadku przedmiotów zapisów windykacyjnych komornik ustala według stanu cen chwili otwarcia spadku, a wysokość długów spadkowych – według stanu chwili otwarcia spadku.
+### 2)
 
-§ 3. Komornik urzędu ustala zamieszcza spisie inwentarza przedmioty należące do spadku, przedmioty zapisów windykacyjnych długi spadkowe.
+sposób udostępnienia druków wzoru wykazu inwentarza mając na uwadze przyspieszenie postępowania spadkowego.
 
-§ 4. W spisie inwentarza komornik wykazuje też wartość stanu czynnego spadku uwzględnieniem wartości rzeczy praw spornych.
+### Art. 10313.
 
-§ 5. Przy sporządzaniu spisu inwentarza stosuje się odpowiednio przepisy 638 § 1 947–949.
+### § 1.
 
-**Art. 638⁹.** W razie potrzeby zamieszczenia spisie inwentarza rzeczy znajdujących się okręgu innego sądu sąd spadku może zwrócić się do tego sądu o wykonanie potrzebnych czynności. Po ich wykonaniu sąd wezwany przekazuje akta sprawy sądowi spadku.
+Spadkobierca, który złożył wykaz inwentarza spłaca długi spadkowe zgodnie ze złożonym wykazem. Nie może jednak zasłaniać się brakiem znajomości wykazu inwentarza złożonego przez innego spadkobiercę, zapisobiercę windykacyjnego lub wykonawcę testamentu.
 
-**Art. 638¹⁰.**
+### § 2.
 
-§ 1. Ruchomości nieruchomości zamieszczone spisie inwentarza pozostawia się posiadaniu osób, które nimi władają. Nie dotyczy to ruchomości złożonych do depozytu sądowego.
+Od chwili sporządzenia spisu inwentarza spadkobierca spłaca długi spadkowe zgodnie ze sporządzonym spisem.
 
-§ 2. Jeżeli zachodzą podstawy do dokonania zabezpieczenia spadku urzędu, komornik zawiadamia o tym sąd właściwy do zabezpieczenia spadku.
+### § 3.
 
-**Art. 638¹¹.** W razie ujawnienia przedmiotu należącego do spadku, przedmiotu zapisu windykacyjnego lub długu spadkowego niezamieszczonego spisie inwentarza sąd spadku wydaje postanowienie o sporządzeniu uzupełniającego spisu inwentarza. W przypadkach, których postanowienie o sporządzeniu spisu inwentarza wydaje się urzędu, postanowienie o sporządzeniu uzupełniającego spisu inwentarza wydaje się również urzędu.
+Przepisy § 1 i 2 stosuje się odpowiednio do zapisobierców windykacyjnych i wykonawców testamentu.
 
-**Art. 638¹².** Po wykonaniu postanowienia o sporządzeniu spisu inwentarza komornik przesyła akta sądowi spadku, a przypadku, o którym mowa 638 , sądowi wezwanemu.”; „Art. 639. Minister Sprawiedliwości określi, drodze rozporządzenia:
+### Art. 10314.
 
-**Art. 3.** W ustawie dnia 17 czerwca 1966 o postępowaniu egzekucyjnym administracji (Dz. 2014 1619, późn. zm. ) 8 § 1 pkt 17 kropkę zastępuje się średnikiem dodaje się pkt 18 brzmieniu: „18) sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli egzekwowana wierzytelność przysługuje Skarbowi Państwa.”.
+Wierzyciel, który zażądał sporządzenia spisu inwentarza, nie może odmówić przyjęcia należnego mu świadczenia, chociażby dług nie był jeszcze wymagalny.
 
-**Art. 4.** W ustawie dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz.
+” ;
 
-**Art. 5.** W ustawie dnia 28 lipca 2005 o kosztach sądowych sprawach cywilnych (Dz. 2014 1025, późn. zm. ) wprowadza się następujące zmiany:
+### 5)
 
-**Art. 6.** Przepisów ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem wejścia życie niniejszej ustawy.
+art. 1032 otrzymuje brzmienie:
 
-**Art. 7.** Do postępowań przedmiocie zabezpieczenia spadku sporządzenia spisu inwentarza, tym postępowań mających na celu wykonanie postanowienia o zabezpieczeniu spadku sporządzeniu spisu inwentarza, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+„
 
-**Art. 8.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+### Art. 1032.
 
+### § 1.
+
+Spadkobierca, który przyjął spadek z dobrodziejstwem inwentarza i spłacił niektóre długi spadkowe, a nie wiedział i przy dołożeniu należytej staranności nie mógł się dowiedzieć o istnieniu innych długów spadkowych, ponosi odpowiedzialność za niespłacone długi spadkowe tylko do wysokości różnicy między wartością stanu czynnego spadku a wartością świadczeń spełnionych na zaspokojenie długów spadkowych, które spłacił.
+
+### § 2.
+
+Spadkobierca, który przyjął spadek z dobrodziejstwem inwentarza i spłacając niektóre długi spadkowe, wiedział lub przy dołożeniu należytej staranności mógł się dowiedzieć o istnieniu innych długów spadkowych, ponosi odpowiedzialność za te długi ponad wartość stanu czynnego spadku, jednakże tylko do takiej wysokości, w jakiej byłby obowiązany je zaspokoić, gdyby spłacał należycie wszystkie długi spadkowe. Nie dotyczy to spadkobiercy niemającego pełnej zdolności do czynności prawnych oraz spadkobiercy, co do którego istnieje podstawa do jego ubezwłasnowolnienia.
+
+” ;
+
+### 6)
+
+w art. 10341 w § 2 zdanie drugie otrzymuje brzmienie: „ Spadkobiercom uwzględnia się ich udział w wartości ustalonego w wykazie inwentarza albo spisie inwentarza stanu czynnego spadku. ” .
+
+### Art. 2.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2014 r. poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2014/101/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 87 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Pełnomocnikiem może być adwokat lub radca prawny, a w sprawach własności przemysłowej także rzecznik patentowy, a ponadto osoba sprawująca zarząd majątkiem lub interesami strony oraz osoba pozostająca ze stroną w stałym stosunku zlecenia, jeżeli przedmiot sprawy wchodzi w zakres tego zlecenia, współuczestnik sporu, jak również małżonek, rodzeństwo, zstępni lub wstępni strony oraz osoby pozostające ze stroną w stosunku przysposobienia.
+
+” ;
+
+### 2)
+
+w części pierwszej w księdze drugiej w tytule II w dziale IV tytuł rozdziału 1 otrzymuje brzmienie:
+
+„
+
+### Rozdział 1 Zabezpieczenie spadku, wykaz inwentarza i spis inwentarza”;
+
+### 3)
+
+art. 633 i art. 634 otrzymują brzmienie:
+
+„
+
+### Art. 633.
+
+### § 1.
+
+Do zabezpieczenia spadku właściwy jest sąd, w którego okręgu znajdują się rzeczy będące w chwili otwarcia spadku we władaniu spadkodawcy. Jeżeli przedmiotem zabezpieczenia mają być prawa majątkowe należące do spadkodawcy w chwili otwarcia spadku, sądem właściwym jest sąd właściwości ogólnej osoby zobowiązanej z tytułu tego prawa, a gdy takiej osoby nie ma - sąd, w którego okręgu znajduje się przedmiot świadczenia lub prawa. Jeżeli wykonanie prawa majątkowego jest związane z posiadaniem dokumentu, właściwy jest sąd, w którego okręgu znajduje się ten dokument.
+
+### § 2.
+
+Sąd, który nie jest sądem spadku, zawiadamia sąd spadku o dokonaniu zabezpieczenia, jego uchyleniu oraz zmianie środka zabezpieczenia, przesyłając odpisy postanowień wydanych w tym przedmiocie.
+
+### Art. 634.
+
+Spadek zabezpiecza się, gdy zostanie uprawdopodobnione, że z jakiejkolwiek przyczyny grozi naruszenie rzeczy lub praw majątkowych, które w chwili otwarcia spadku były we władaniu lub należały do spadkodawcy, zwłaszcza przez usunięcie, uszkodzenie, zniszczenie lub nieusprawiedliwione rozporządzenie.
+
+” ;
+
+### 4)
+
+w art. 635:
+
+### a)
+
+§ 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Wniosek może zgłosić każdy, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiercą, a ponadto wykonawca testamentu, współwłaściciel rzeczy, współuprawniony co do praw pozostałych po spadkodawcy, wierzyciel mający pisemny dowód należności przeciwko spadkodawcy oraz Skarb Państwa reprezentowany przez naczelnika właściwego urzędu skarbowego.
+
+” ,
+
+### b)
+
+po § 2 dodaje się § 21 w brzmieniu:
+
+„
+
+### § 21.
+
+Wniosek powinien zawierać uprawdopodobnienie okoliczności go uzasadniających.
+
+” ,
+
+### c)
+
+§ 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Zabezpieczenia spadku dokonuje się z urzędu, jeżeli sąd poweźmie wiadomość, że:
+
+### 1)
+
+spadkobierca jest nieznany, nieobecny lub nie ma pełnej zdolności do czynności prawnych i nie ma ustawowego przedstawiciela;
+
+### 2)
+
+organ administracji rządowej albo organ jednostki samorządu terytorialnego zastosował niezbędne środki tymczasowe ze względu na grożące niebezpieczeństwo naruszenia rzeczy, które w chwili otwarcia spadku były we władaniu spadkodawcy.
+
+” ,
+
+### d)
+
+uchyla się § 4,
+
+### e)
+
+§ 5 i 6 otrzymują brzmienie:
+
+„
+
+### § 5.
+
+Postanowienie o zabezpieczeniu spadku oraz zmianie środka zabezpieczenia podlega wykonaniu z chwilą jego wydania.
+
+### § 6.
+
+Na postanowienie w przedmiocie zabezpieczenia spadku przysługuje zażalenie. Sąd pierwszej instancji może wstrzymać wykonanie zaskarżonego postanowienia do czasu rozstrzygnięcia zażalenia.
+
+” ;
+
+### 5)
+
+art. 636 otrzymuje brzmienie:
+
+„
+
+### Art. 636.
+
+### § 1.
+
+Sąd stosuje taki środek zabezpieczenia, jaki stosownie do okoliczności uzna za odpowiedni. Jeżeli nie jest możliwe określenie środka zabezpieczenia w postanowieniu o zabezpieczeniu spadku, wybór środka zabezpieczenia należy do komornika.
+
+### § 2.
+
+Środkami zabezpieczenia są w szczególności spisanie majątku ruchomego i oddanie go pod dozór, złożenie do depozytu sądowego, ustanowienie zarządu tymczasowego, ustanowienie dozoru nad nieruchomością. Zastosowanie jednego środka zabezpieczenia nie wyłącza zastosowania innych, równocześnie lub kolejno.
+
+### § 3.
+
+Ustanowienie zarządu tymczasowego może nastąpić tylko wtedy, gdy zabezpieczeniu podlega przedsiębiorstwo, gospodarstwo rolne albo prawo majątkowe wymagające zabezpieczenia przez ustanowienie zarządu tymczasowego.
+
+### § 4.
+
+Do zarządcy tymczasowego i dozorcy ustanowionych w toku postępowania o zabezpieczenie spadku stosuje się odpowiednio przepisy art. 855-862, art. 931 i art. 933-941.
+
+### § 5.
+
+Do depozytu sądowego składa się podlegające zabezpieczeniu pieniądze, papiery wartościowe, imienne książeczki oszczędnościowe lub inne dokumenty potwierdzające zawarcie umowy rachunku oszczędnościowego, rachunku oszczędnościowo-rozliczeniowego albo rachunku terminowej lokaty oszczędnościowej, a także kosztowności, w tym złote monety oraz kruszce szlachetne i wyroby z tych kruszców. Kosztowności mogą być również oddane na przechowanie dozorcy.
+
+### § 6.
+
+Jeżeli w skład spadku wchodzą ruchomości ulegające szybkiemu zepsuciu, sąd zarządza ich sprzedaż przez komornika, oznaczając przy tym sposób sprzedaży. Uzyskane ze sprzedaży pieniądze składa się do depozytu sądowego.
+
+### § 7.
+
+Jeżeli przemawiają za tym właściwości przedmiotu podlegającego zabezpieczeniu, sąd zawiadamia właściwą instytucję o zastosowanym środku zabezpieczenia.
+
+” ;
+
+### 6)
+
+art. 6361 otrzymuje brzmienie:
+
+„
+
+### Art. 6361.
+
+### § 1.
+
+W razie potrzeby, sąd z urzędu zmieni środek zabezpieczenia, w szczególności jeżeli dotychczas zastosowany środek nie jest wystarczający do zabezpieczenia spadku.
+
+### § 2.
+
+Sąd z urzędu uchyli zabezpieczenie, jeżeli ustała potrzeba zabezpieczenia, a w szczególności gdy zgłosi się spadkobierca legitymujący się prawomocnym postanowieniem o stwierdzeniu nabycia spadku albo zarejestrowanym aktem poświadczenia dziedziczenia w celu objęcia spadku albo wykonawca testamentu lub kurator spadku w celu przejęcia zarządu majątkiem spadkowym.
+
+” ;
+
+### 7)
+
+po art. 6361 dodaje się art. 6362 i art. 6363 w brzmieniu:
+
+„
+
+### Art. 6362.
+
+Przepisy o zabezpieczeniu spadku stosuje się odpowiednio do zabezpieczenia przedmiotu zapisu windykacyjnego.
+
+### Art. 6363.
+
+### § 1.
+
+Wykaz inwentarza może być złożony w sądzie spadku lub w sądzie, w którego okręgu znajduje się miejsce zamieszkania składającego wykaz. Sąd niebędący sądem spadku niezwłocznie przesyła wykaz inwentarza do sądu spadku.
+
+### § 2.
+
+Na żądanie spadkobiercy, zapisobiercy windykacyjnego lub wykonawcy testamentu notariusz sporządza protokół obejmujący wykaz inwentarza. Notariusz, przed którym złożono wykaz inwentarza, niezwłocznie przesyła wypis protokołu do sądu spadku.
+
+### § 3.
+
+Sąd spadku niezwłocznie zarządza ogłoszenie o złożeniu wykazu inwentarza.
+
+” ;
+
+### 8)
+
+art. 637 otrzymuje brzmienie:
+
+„
+
+### Art. 637.
+
+### § 1.
+
+Na wniosek tego, kto uprawdopodobni, że jest spadkobiercą, uprawnionym do zachowku lub zapisobiercą, albo wykonawcy testamentu lub wierzyciela mającego pisemny dowód należności przeciwko spadkodawcy sąd spadku wydaje postanowienie o sporządzeniu spisu inwentarza.
+
+### § 2.
+
+Jeżeli sporządzenia spisu inwentarza żąda wierzyciel, sąd spadku wydaje postanowienie w przedmiocie wniosku po wysłuchaniu spadkobiercy, chyba że wysłuchanie nie jest możliwe.
+
+### § 3.
+
+Sąd spadku niezwłocznie zarządza ogłoszenie o wydaniu postanowienia o sporządzeniu spisu inwentarza.
+
+### § 4.
+
+Na postanowienie w przedmiocie sporządzenia spisu inwentarza przysługuje zażalenie.
+
+” ;
+
+### 9)
+
+po art. 637 dodaje się art. 6371 w brzmieniu:
+
+„
+
+### Art. 6371.
+
+### § 1.
+
+Wniosek o sporządzenie spisu inwentarza może być także zgłoszony bezpośrednio komornikowi, który byłby właściwy do wykonania postanowienia sądu spadku o sporządzeniu spisu inwentarza.
+
+### § 2.
+
+Komornik przystępuje niezwłocznie do sporządzenia spisu inwentarza i zawiadamia o tym sąd spadku, który wydaje postanowienie w przedmiocie sporządzenia spisu inwentarza. Jeżeli sąd oddali albo odrzuci wniosek, o którym mowa w § 1, albo umorzy postępowanie, spis sporządzony przez komornika rodzi takie same skutki jak złożenie wykazu inwentarza.
+
+” ;
+
+### 10)
+
+uchyla się art. 638;
+
+### 11)
+
+po art. 638 dodaje się art. 6381-63812 w brzmieniu:
+
+„
+
+### Art. 6381.
+
+### § 1.
+
+Ogłoszenia, o których mowa w art. 6363 § 3 i art. 637 § 3, zamieszcza się na stronie internetowej oraz na tablicy ogłoszeń sądu spadku.
+
+### § 2.
+
+Ogłoszenie zawiera:
+
+### 1)
+
+imię i nazwisko, numer PESEL, jeżeli został nadany, oraz ostatni adres spadkodawcy;
+
+### 2)
+
+datę śmierci spadkodawcy.
+
+### § 3.
+
+Ogłoszenie, o którym mowa w art. 6363 § 3, poza danymi, o których mowa w § 2, zawiera również pouczenie, że:
+
+### 1)
+
+ze złożonym wykazem inwentarza może się zapoznać każdy, kto taką potrzebę dostatecznie uzasadni;
+
+### 2)
+
+osoby wskazane w art. 637 § 1 mogą złożyć wniosek o sporządzenie spisu inwentarza.
+
+### § 4.
+
+Ogłoszenie, o którym mowa w art. 637 § 3, poza danymi, o których mowa w § 2, zawiera również pouczenie, że osoby wskazane w art. 637 § 1 mogą uczestniczyć w sporządzaniu spisu inwentarza, w szczególności zgłaszać przedmioty należące do spadku, przedmioty zapisów windykacyjnych lub długi spadkowe, które podlegają zamieszczeniu w spisie inwentarza.
+
+### Art. 6382.
+
+### § 1.
+
+W sprawach, w których postanowienie o zabezpieczeniu spadku, zmianie środka zabezpieczenia lub sporządzeniu spisu inwentarza zostało wydane z urzędu, sąd, który wydał to postanowienie, kieruje do komornika polecenie dokonania zabezpieczenia spadku, zmiany środka zabezpieczenia lub sporządzenia spisu inwentarza.
+
+### § 2.
+
+Podstawą postępowania mającego na celu wykonanie postanowienia o zabezpieczeniu spadku, zmianie środka zabezpieczenia lub sporządzeniu spisu inwentarza jest postanowienie zaopatrzone z urzędu we wzmiankę o wykonalności.
+
+### § 3.
+
+Nadzór nad czynnościami komornika sprawuje sąd, który wydał postanowienie o zabezpieczeniu spadku lub sporządzeniu spisu inwentarza.
+
+### § 4.
+
+W postępowaniu o zabezpieczenie spadku, zmianę środka zabezpieczenia lub sporządzenie spisu inwentarza w sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 759-774.
+
+### Art. 6383.
+
+### § 1.
+
+Jeżeli postanowienie o zabezpieczeniu spadku nie określa środka zabezpieczenia, komornik niezwłocznie zawiadamia sąd, który wydał postanowienie o zabezpieczeniu spadku, o zastosowanym środku zabezpieczenia.
+
+### § 2.
+
+W razie potrzeby złożenia przedmiotów podlegających zabezpieczeniu do depozytu sądowego komornik występuje z wnioskiem do sądu, który wydał postanowienie o zabezpieczeniu spadku.
+
+### § 3.
+
+Sąd, który wydał postanowienie o zabezpieczeniu spadku, zawiadamia sąd spadku o środkach zabezpieczenia zastosowanych przez komornika.
+
+### Art. 6384.
+
+### § 1.
+
+Spis majątku ruchomego w ramach zabezpieczenia spadku sporządza się w obecności dwóch świadków powołanych przez komornika.
+
+### § 2.
+
+Przy sporządzaniu spisu majątku ruchomego mogą być obecne osoby, które mają prawo zgłosić wniosek o zabezpieczenie spadku. Niestawiennictwo tych osób nie wstrzymuje wykonania czynności.
+
+### § 3.
+
+Z dokonanej czynności komornik sporządza protokół, który podpisują wszyscy obecni. Odmowę lub niemożność podpisania stwierdza się w protokole z podaniem przyczyny.
+
+### Art. 6385.
+
+Komornik wykonujący postanowienie o zabezpieczeniu spadku w razie potrzeby stosuje niezbędne środki tymczasowe zapobiegające naruszeniu ruchomości przed ich spisaniem.
+
+### Art. 6386.
+
+### § 1.
+
+Z pieniędzy wchodzących w skład spadku komornik wykonujący postanowienie o zabezpieczeniu spadku wyda w razie potrzeby członkowi rodziny spadkodawcy, a gdyby to nie było możliwe, domownikowi spadkodawcy albo innej osobie ponoszącej koszty pogrzebu, sumę potrzebną na koszty pogrzebu spadkodawcy. W przypadku braku pieniędzy na pogrzeb spadkodawcy, sąd może zarządzić sprzedaż przez komornika odpowiedniego przedmiotu należącego do spadku, oznaczając przy tym sposób sprzedaży.
+
+### § 2.
+
+Komornik wykonujący postanowienie o zabezpieczeniu spadku może z pieniędzy wchodzących w skład spadku pozostawić członkom rodziny spadkodawcy, którzy do chwili jego śmierci wspólnie z nim zamieszkiwali i byli na jego utrzymaniu, niezbędne kwoty na ich utrzymanie przez czas nie dłuższy niż miesiąc.
+
+### Art. 6387.
+
+O terminie sporządzenia spisu inwentarza komornik zawiadamia wnioskodawcę oraz uczestników postępowania o sporządzenie spisu inwentarza, a także spadkobiercę i zapisobiercę windykacyjnego, których miejsce pobytu jest znane, jak również wykonawcę testamentu, kuratora spadku, dozorcę i zarządcę tymczasowego, jeżeli byli ustanowieni. Niestawiennictwo tych osób nie wstrzymuje czynności.
+
+### Art. 6388.
+
+### § 1.
+
+W spisie inwentarza komornik zamieszcza przedmioty należące do spadku i przedmioty zapisów windykacyjnych, z zaznaczeniem wartości każdego z tych przedmiotów, oraz długi spadkowe ze wskazaniem wysokości każdego z nich.
+
+### § 2.
+
+Wartość przedmiotów należących do spadku i przedmiotów zapisów windykacyjnych komornik ustala według stanu i cen z chwili otwarcia spadku, a wysokość długów spadkowych - według stanu z chwili otwarcia spadku.
+
+### § 3.
+
+Komornik z urzędu ustala i zamieszcza w spisie inwentarza przedmioty należące do spadku, przedmioty zapisów windykacyjnych oraz długi spadkowe.
+
+### § 4.
+
+W spisie inwentarza komornik wykazuje też wartość stanu czynnego spadku z uwzględnieniem wartości rzeczy i praw spornych.
+
+### § 5.
+
+Przy sporządzaniu spisu inwentarza stosuje się odpowiednio przepisy art. 6384 § 1 i 3 oraz art. 947-949.
+
+### Art. 6389.
+
+W razie potrzeby zamieszczenia w spisie inwentarza rzeczy znajdujących się w okręgu innego sądu sąd spadku może zwrócić się do tego sądu o wykonanie potrzebnych czynności. Po ich wykonaniu sąd wezwany przekazuje akta sprawy sądowi spadku.
+
+### Art. 63810.
+
+### § 1.
+
+Ruchomości i nieruchomości zamieszczone w spisie inwentarza pozostawia się w posiadaniu osób, które nimi władają. Nie dotyczy to ruchomości złożonych do depozytu sądowego.
+
+### § 2.
+
+Jeżeli zachodzą podstawy do dokonania zabezpieczenia spadku z urzędu, komornik zawiadamia o tym sąd właściwy do zabezpieczenia spadku.
+
+### Art. 63811.
+
+W razie ujawnienia przedmiotu należącego do spadku, przedmiotu zapisu windykacyjnego lub długu spadkowego niezamieszczonego w spisie inwentarza sąd spadku wydaje postanowienie o sporządzeniu uzupełniającego spisu inwentarza. W przypadkach, w których postanowienie o sporządzeniu spisu inwentarza wydaje się z urzędu, postanowienie o sporządzeniu uzupełniającego spisu inwentarza wydaje się również z urzędu.
+
+### Art. 63812.
+
+Po wykonaniu postanowienia o sporządzeniu spisu inwentarza komornik przesyła akta sądowi spadku, a w przypadku, o którym mowa w art. 6389, sądowi wezwanemu.
+
+” ;
+
+### 12)
+
+art. 639 otrzymuje brzmienie:
+
+„
+
+### Art. 639.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy sposób zawiadamiania właściwych instytucji o zastosowanym środku zabezpieczenia, mając na względzie właściwość przedmiotu podlegającego zabezpieczeniu oraz właściwość poszczególnych instytucji;
+
+### 2)
+
+zawartość protokołu ze spisu majątku ruchomego, w tym zakres danych osobowych zamieszczanych w protokole, mając na względzie niezbędność i adekwatność informacji oraz niezbędność i adekwatność danych osobowych w stosunku do celu ich przetwarzania;
+
+### 3)
+
+szczegółowy tryb i sposób zastosowania niezbędnych środków tymczasowych zapobiegających naruszeniu ruchomości przed ich spisaniem, mając na względzie przedmiot zabezpieczenia, szybkość postępowania, a także skuteczność niezbędnych środków tymczasowych.
+
+” ;
+
+### 13)
+
+uchyla się art. 644;
+
+### 14)
+
+w art. 655 w § 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli po sporządzeniu spisu inwentarza zachodzi wątpliwość, czy zostały w nim zamieszczone wszystkie przedmioty należące do spadku i przedmioty zapisów windykacyjnych lub czy zamieszczone w spisie inwentarza długi spadkowe istnieją, sąd spadku z urzędu lub na wniosek spadkobiercy, zapisobiercy windykacyjnego, wykonawcy testamentu lub wierzyciela spadku może nakazać spadkobiercy złożenie: ” ;
+
+### 15)
+
+w art. 831 w § 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli egzekwowana wierzytelność przysługuje Skarbowi Państwa.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2014 r. poz. 1619](https://api.sejm.gov.pl/eli/acts/DU/2014/1619/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396.](#gloss-0:4:)) w art. 8 w § 1 w pkt 17 kropkę zastępuje się średnikiem i dodaje się pkt 18 w brzmieniu:
+
+„
+
+### 18)
+
+sumy przyznane orzeczeniem Europejskiego Trybunału Praw Człowieka, jeżeli egzekwowana wierzytelność przysługuje Skarbowi Państwa.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej ([Dz. U. z 2015 r. poz. 389](https://api.sejm.gov.pl/eli/acts/DU/2015/389/text.html)) w art. 19 ust. 4a otrzymuje brzmienie:
+
+„
+
+### 4a.
+
+Konsul nie może sporządzić aktu poświadczenia dziedziczenia oraz nie może przyjąć wykazu inwentarza.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ([Dz. U. z 2014 r. poz. 1025](https://api.sejm.gov.pl/eli/acts/DU/2014/1025/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4 i 238.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 113:
+
+### a)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Koszty sądowe, których nie miał obowiązku uiścić wnioskodawca lub uczestnik w sprawie o zabezpieczenie spadku lub sporządzenie spisu inwentarza, sąd może nakazać ściągnąć także ze spadku.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadkach szczególnie uzasadnionych sąd może odstąpić od przewidzianego w ust. 2-3a obciążenia kosztami.
+
+” ;
+
+### 2)
+
+po art. 115 dodaje się art. 115a w brzmieniu:
+
+„
+
+### Art. 115a.
+
+W celu zaspokojenia należności z tytułu kosztów sądowych, o których mowa w art. 113 ust. 3a, sąd może pobrać odpowiednią sumę z pieniędzy wchodzących w skład spadku złożonych do depozytu sądowego lub znajdujących się na rachunku bankowym lub rachunku prowadzonym przez spółdzielczą kasę oszczędnościowo-kredytową. Sąd może również zarządzić sprzedaż przez komornika odpowiedniego przedmiotu należącego do spadku, oznaczając przy tym sposób sprzedaży.
+
+” ;
+
+### 3)
+
+po art. 121 dodaje się art. 121a w brzmieniu:
+
+„
+
+### Art. 121a.
+
+Należności sądowe podlegają umorzeniu na wniosek dłużnika w razie stwierdzenia przez Europejski Trybunał Praw Człowieka, że w postępowaniu, w którym je zasądzono, naruszono wobec dłużnika Konwencję o ochronie praw człowieka i podstawowych wolności, sporządzoną w Rzymie dnia 4 listopada 1950 r. ([Dz. U. z 1993 r. Nr 61, poz. 284](https://api.sejm.gov.pl/eli/acts/DU/1993/284/text.html) i [285](https://api.sejm.gov.pl/eli/acts/DU/1993/285/text.html), z późn. zm.[6) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266, z 2003 r. Nr 42, poz. 364 oraz z 2010 r. Nr 90, poz. 587.](#gloss-0:6:)) lub Protokoły dodatkowe do tej Konwencji.
+
+” .
+
+### Art. 6.
+
+Przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do spadków otwartych przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 7.
+
+Do postępowań w przedmiocie zabezpieczenia spadku i sporządzenia spisu inwentarza, w tym postępowań mających na celu wykonanie postanowienia o zabezpieczeniu spadku i sporządzeniu spisu inwentarza, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego, ustawę z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, ustawę z dnia 13 lutego 1984 r. o funkcjach konsulów Rzeczypospolitej Polskiej oraz ustawę z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 827 oraz z 2015 r. poz. 4 i 397. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616, 945, 1091, 1161, 1296, 1585, 1626, 1741 i 1924 oraz z 2015 r. poz. 2, 4 i 218. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 87, 211, 218 i 396. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4 i 238. 6) Zmiany wymienionej Konwencji zostały ogłoszone w Dz. U. z 1995 r. Nr 36, poz. 175, 176 i 177, z 1998 r. Nr 147, poz. 962, z 2001 r. Nr 23, poz. 266, z 2003 r. Nr 42, poz. 364 oraz z 2010 r. Nr 90, poz. 587.

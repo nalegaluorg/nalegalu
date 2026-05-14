@@ -8,11 +8,9 @@ pos: 934
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o organizacji i funkcjonowaniu funduszy emerytalnych
-
-*USTAWA z dnia 28 sierpnia 1997 r.*
+# Ustawa z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,3026 +22,3560 @@ domain: null
 | Data ogłoszenia | 1997-08-28 |
 | Data wydania | 1997-11-20 |
 | Ostatnia zmiana | 2026-04-16 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971390934) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/934/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/934) |
 
-Art. 223–228. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Fundusze emerytalne](#chpt_2) [Rozdział 3 - Towarzystwa emerytalne](#chpt_3) [Rozdział 4 - Warunki podejmowania działalności przez towarzystwa emerytalne](#chpt_4) [Rozdział 5 - Przejęcie zarządzania funduszem emerytalnym, łączenie się towarzystw emerytalnych i likwidacja funduszu emerytalnego](#chpt_5) [Rozdział 6 - Postanowienia antymonopolowe](#chpt_6) [Rozdział 7 - Członkostwo w funduszu emerytalnym](#chpt_7) [Rozdział 8 - Działalność akwizycyjna otwartych funduszy emerytalnych](#chpt_8) [Rozdział 9 - Rachunki i przeliczenia składek](#chpt_9) [Rozdział 10 - Rachunki ilościowe](#chpt_10) [Rozdział 11 - Wypłata środków zgromadzonych na rachunku](#chpt_11) [Rozdział 12 - Podział środków w razie rozwodu lub unieważnienia małżeństwa](#chpt_12) [Rozdział 13 - Podział środków w razie śmierci członka funduszu emerytalnego](#chpt_13) [Rozdział 14 - Finansowanie działalności funduszu emerytalnego](#chpt_14) [Rozdział 15 - Działalność lokacyjna funduszy emerytalnych](#chpt_15) [Rozdział 16 - Depozytariusz](#chpt_16) [Rozdział 17 - Wycena aktywów i obliczanie stopy zwrotu funduszy emerytalnych](#chpt_17) [Rozdział 18 - Niedobór](#chpt_18) [Rozdział 19 - Fundusz gwarancyjny](#chpt_19) [Rozdział 20 - Obowiązki informacyjne funduszy emerytalnych](#chpt_20) [Rozdział 21 - Nadzór nad działalnością funduszy emerytalnych](#chpt_21) [Rozdział 22 - Przepisy karne](#chpt_22) [Rozdział 23 - Zmiany w przepisach obowiązujących](#chpt_23) [Rozdział 24 - Przepisy przejściowe i końcowe](#chpt_24)
 
-**Art. 1.** Ustawa określa zasady tworzenia i działania funduszy emerytalnych, zwanych dalej „funduszami”.
+TOC
 
-**Art. 2.**
+## Treść ustawy
 
-1. Fundusz jest osobą prawną.
+### Rozdział 1 Przepisy ogólne
 
-2. Przedmiotem działalności funduszu jest gromadzenie środków pieniężnych i ich lokowanie z przeznaczeniem na wypłatę członkom funduszu emerytury po osiągnięciu przez nich wieku emerytalnego oraz emerytury częściowej, o których mowa w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858), lub okresowej emerytury kapitałowej, o której mowa w ustawie z dnia 21 listopada 2008 r. o emeryturach kapitałowych (Dz. U. z 2018 r. poz. 926), z zastrzeżeniem ust. 3.
+### Art. 1.
 
-3. Przedmiotem działalności dobrowolnego funduszu jest:
+Ustawa określa zasady tworzenia i działania funduszy emerytalnych, zwanych dalej „funduszami”.
 
-- **1)** prowadzenie indywidualnego konta emerytalnego, zwanego dalej „IKE”, lub indywidualnego konta zabezpieczenia emerytalnego, zwanego dalej „IKZE”, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego (Dz. U. z 2024 r. poz. 707), albo
-- **2)** gromadzenie środków zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2024 r. poz. 427) w pracowniczych planach kapitałowych, zwanych dalej „PPK”, oraz ich lokowanie, zgodnie z polityką inwestycyjną funduszu zdefiniowanej daty, o którym mowa w art. 38 tej ustawy.
+### Art. 2.
 
-4. Przedmiotem działalności pracowniczego funduszu zarządzanego przez pracownicze towarzystwo, którego założycielem lub akcjonariuszem jest pracodawca zagraniczny, oprócz działalności, o której mowa w ust. 2 i 3, może być przyjmowanie składek pracowników zagranicznych związane z realizacją programu emerytalnego pracodawcy zagranicznego na pokrycie w całości albo w części ryzyk biometrycznych lub gwarancji, zwane dalej „przyjmowaniem składek pracowników zagranicznych”, na podstawie umowy o przyjmowanie składek zawartej przez pracowniczy fundusz z zakładem ubezpieczeń na życie, w ramach której zakład ubezpieczeń na życie przejmuje obsługę wszelkich ryzyk biometrycznych lub gwarancji związanych z realizacją programu emerytalnego pracodawcy zagranicznego, zwanej dalej „umową o przyjmowanie składek”.
+### 1.
 
-5. Przedmiotem działalności pracowniczego funduszu może być także gromadzenie środków w PPK zgodnie z przepisami ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych oraz ich lokowanie, zgodnie z polityką inwestycyjną funduszu zdefiniowanej daty, o którym mowa w art. 38 tej ustawy.
+Fundusz jest osobą prawną.
 
-**Art. 3.**
+### 2.
 
-1. Organem funduszu jest towarzystwo emerytalne, zwane dalej „towarzystwem”, utworzone zgodnie z przepisami ustawy.
+Przedmiotem działalności funduszu jest gromadzenie środków pieniężnych i ich lokowanie, z przeznaczeniem na wypłatę członkom funduszu po osiągnięciu przez nich wieku emerytalnego.
 
-2. Towarzystwo tworzy fundusz oraz, jako jego organ, zarządza nim i reprezentuje w stosunkach z osobami trzecimi.
+### Art. 3.
 
-3. Towarzystwo reprezentuje fundusz w sposób określony dla reprezentacji towarzystwa w jego statucie.
+### 1.
 
-**Art. 4.** Siedziba towarzystwa jest siedzibą funduszu.
+Organem funduszu jest towarzystwo emerytalne, zwane dalej „towarzystwem”, utworzone zgodnie z przepisami ustawy.
 
-**Art. 5.** Członkowie funduszu nie odpowiadają za jego zobowiązania.
+### 2.
 
-**Art. 6.**
+Towarzystwo tworzy fundusz oraz, jako jego organ, zarządza nim i reprezentuje w stosunkach z osobami trzecimi.
 
-1. Składki wpłacone do funduszu, nabyte za nie lub w związku z nimi prawa i pożytki z tych praw stanowią jego aktywa.
+### 3.
 
-2. Wartość aktywów netto funduszu ustala się pomniejszając wartość aktywów funduszu o jego zobowiązania.
+Towarzystwo reprezentuje fundusz w sposób określony dla reprezentacji towarzystwa w jego statucie.
 
-3. Aktywa związane z wykonywaniem obowiązków wynikających z umowy o przyjmowanie składek nie mogą być przedmiotem egzekucji skierowanej przeciwko zakładowi ubezpieczeń na życie oraz objęte postępowaniem układowym, a także nie wchodzą w skład masy upadłości zakładu ubezpieczeń na życie.
+### Art. 4.
 
-**Art. 7.** Ustawa nie narusza przepisów innych ustaw, które przewidują wypłatę świadczeń pieniężnych w związku z osiągnięciem wieku emerytalnego.
+Siedziba towarzystwa jest siedzibą funduszu.
 
-**Art. 8.** Użyte w niniejszej ustawie określenia mają następujące znaczenie:
+### Art. 5.
 
-**Art. 8a.** Jeżeli w ustawie jest mowa o ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych (Dz. U. z 2024 r. poz. 556), należy przez to również rozumieć odpowiednie przepisy prawa ubezpieczeń społecznych i prawa pracy dotyczące organizacji programów emerytalnych, właściwe dla państwa będącego siedzibą pracodawcy zagranicznego.
+Członkowie funduszu nie odpowiadają za jego zobowiązania.
 
-#### Rozdział 2 Fundusze emerytalne
+### Art. 6.
 
-**Art. 9.**
+### 1.
 
-1. Fundusz jest tworzony jako otwarty, pracowniczy lub dobrowolny.
+Składki wpłacane do funduszu, nabyte za nie prawa oraz pożyczki z tych praw stanowią jego aktywa.
 
-2. Fundusz tworzony jest wyłącznie przez towarzystwo.
+### 2.
 
-**Art. 10.**
+Wartość aktywów netto funduszu ustala się pomniejszając wartość aktywów funduszu o jego zobowiązania.
 
-1. Nazwa otwartego funduszu zawiera określenie „otwarty fundusz emerytalny”, nazwa pracowniczego funduszu zawiera określenie „pracowniczy fundusz emerytalny”, a nazwa dobrowolnego funduszu zawiera określenie „dobrowolny fundusz emerytalny”.
+### Art. 7.
 
-2. Wyłącznie fundusz utworzony zgodnie z niniejszą ustawą jest uprawniony do używania w swojej nazwie lub do określenia prowadzonej przez siebie działalności albo w reklamie określenia „fundusz emerytalny”.
+Ustawa nie narusza przepisów innych ustaw, które przewidują wypłatę świadczeń pieniężnych w związku z osiągnięciem wieku emerytalnego.
 
-**Art. 11.** Czas trwania funduszu jest nieograniczony.
+### Art. 8.
 
-**Art. 12.**
+Użyte w niniejszej ustawie określenia mają następujące znaczenie:
 
-1. Utworzenie funduszu wymaga:
+### 1)
 
-- **1)** nadania funduszowi statutu przez towarzystwo;
-- **2)** zawarcia przez towarzystwo z depozytariuszem umowy o przechowywanie aktywów funduszu;
-- **3)** uzyskania przez towarzystwo zezwolenia na utworzenie funduszu;
-- **4)** wpisania funduszu do rejestru funduszy.
+podmiot związany - oznacza w stosunku do danego podmiotu jednostkę dominującą, zależną lub stowarzyszoną w rozumieniu art. 3 ust. 1 pkt 4 ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) oraz z [1997 r. Nr 32, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.html), [Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html) i [Nr 139, poz. 933](https://api.sejm.gov.pl/eli/acts/DU/1997/933/text.html)) oraz jednostkę zależną od jednostki dominującej w stosunku do tego podmiotu,
 
-2. Utworzenie dobrowolnego funduszu lub pracowniczego funduszu, będącego funduszem zdefiniowanej daty, nie wymaga uzyskania zezwolenia na jego utworzenie.
+### 2)
 
-**Art. 13.**
+członek funduszu - oznacza osobę fizyczną, która zawarła umowę z funduszem lub na której nazwisko, w przypadkach określonych w ustawie, został otwarty rachunek w funduszu,
 
-1. Statut funduszu jest uchwalany przez walne zgromadzenie towarzystwa.
+### 3)
 
-2. Statut funduszu określa:
+wypłata transferowa - oznacza przeniesienie środków znajdujących się na rachunku członka z jednego funduszu do innego funduszu lub przeniesienie tych środków dokonywane między rachunkami tego samego funduszu,
 
-- **1)** nazwę funduszu;
-- **2)** firmę, siedzibę i adres towarzystwa;
-- **3)** wysokość kapitału zakładowego towarzystwa, skład akcjonariuszy towarzystwa i ilość posiadanych przez nich akcji;
-- **4)** sposób reprezentacji funduszu przez towarzystwo;
-- **5)** firmę (nazwę), siedzibę i adres depozytariusza;
-- **6)** rodzaje, maksymalną wysokość, sposób oraz tryb kalkulacji i pokrywania kosztów obciążających fundusz, z wyłączeniem kosztów wskazanych w art. 136a, w tym koszty, o których mowa w art. 182a;
-- **6a)** wysokość opłaty, o której mowa w art. 134 ust. 1;
-- **7)** sposób informowania przez fundusz o zmianach statutu;
-- **8)** inne dane przewidziane w przepisach ustawy.
+### 4)
 
-3. Poza danymi, o których mowa w ust. 2, statut otwartego funduszu określa:
+zakład ubezpieczeń emerytalnych - oznacza spółkę akcyjną prowadzącą działalność ubezpieczeniową polegającą na oferowaniu i wypłacaniu emerytur dożywotnich członkom otwartych funduszy, którzy osiągnęli wiek emerytalny, ze środków zgromadzonych w tych funduszach, na zasadach określonych w odrębnych ustawach,
 
-- **1)** ogólnodostępną stronę internetową przeznaczoną do ogłoszeń funduszu;
-- **2)** terminy ogłaszania przez fundusz prospektu informacyjnego.
+### 5)
 
-4. Poza danymi, o których mowa w ust. 2, statut pracowniczego funduszu określa:
+otwarty fundusz - oznacza otwarty fundusz emerytalny, który został utworzony i jest zarządzany przez powszechne towarzystwo,
 
-- **1)** terminy oraz formę i tryb wypłaty środków zgromadzonych na rachunkach członków;
-- **2)** zasady prowadzenia działalności lokacyjnej przez fundusz, wraz z informacją o tym, czy fundusz będzie sam zarządzał aktywami, czy też powierzy zarządzanie aktywami osobie trzeciej;
-- **3)** zasady przyjmowania składek pracowników zagranicznych, firmę (nazwę), siedzibę i adres zakładu ubezpieczeń na życie oraz zasady odpowiedzialności związanej z ryzykami biometrycznymi lub gwarancjami – w przypadku gdy w statucie funduszu określono możliwość przyjmowania składek pracowników zagranicznych;
-- **4)** tryb oraz warunki zawarcia i rozwiązania umowy o prowadzenie PPK, o której mowa w art. 14 ust. 1 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, jeżeli pracowniczy fundusz jest funduszem zdefiniowanej daty;
-- **5)** sposób dokonania ogłoszenia o zamiarze połączenia funduszu z innym pracowniczym funduszem – w przypadku pracowniczych funduszy będących funduszami zdefiniowanej daty;
-- **6)** ogólnodostępną stronę internetową przeznaczoną do ogłoszeń funduszu.
+### 6)
 
-4a. Poza danymi, o których mowa w ust. 2, statut dobrowolnego funduszu określa:
+pracowniczy fundusz - oznacza pracowniczy fundusz emerytalny, który został utworzony i jest zarządzany przez pracownicze towarzystwo,
 
-- **1)** tryb oraz warunki zawarcia i rozwiązania umowy o prowadzenie IKE oraz IKZE w przypadku dobrowolnego funduszu prowadzącego IKE lub IKZE;
-- **2)** zasady prowadzenia działalności lokacyjnej przez fundusz;
-- **3)** tryb oraz warunki zawarcia i rozwiązania umowy o prowadzenie PPK, o której mowa w art. 14 ust. 1 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, jeżeli dobrowolny fundusz jest funduszem zdefiniowanej daty;
-- **4)** sposób dokonania ogłoszenia o zamiarze połączenia funduszu z innym dobrowolnym funduszem – w przypadku dobrowolnych funduszy będących funduszami zdefiniowanej daty;
-- **5)** ogólnodostępną stronę internetową przeznaczoną do ogłoszeń funduszu.
+### 7)
 
-4b. W przypadku gdy założycielem lub akcjonariuszem pracowniczego towarzystwa jest pracodawca zagraniczny i z przepisów jego krajowego prawa ubezpieczeń społecznych i prawa pracy wynika taki wymóg, statut pracowniczego funduszu może zawierać postanowienia dotyczące przekazywania przez fundusz temu pracodawcy lub jego pracownikom dodatkowych informacji, w szczególności dotyczących:
+towarzystwo - oznacza spółkę akcyjną będącą organem funduszu,
 
-- **1)** rodzaju ryzyka finansowego, technicznego i innych ryzyk związanych z realizacją programu emerytalnego pracodawcy zagranicznego;
-- **2)** podziału ryzyka, o którym mowa w pkt 1;
-- **3)** docelowego poziomu świadczenia, w przypadku gdy program emerytalny pracodawcy zagranicznego przewiduje pokrycie ryzyk biometrycznych lub gwarancji;
-- **4)** kwoty wypłaty lub świadczenia z programu emerytalnego pracodawcy zagranicznego przewidującego pokrycie ryzyk biometrycznych lub gwarancji, w przypadku zaprzestania zatrudnienia;
-- **5)** w przypadku gdy uczestnicy programu emerytalnego pracodawcy zagranicznego ponoszą ryzyko inwestycyjne – zakresu wyboru polityki inwestycyjnej, jeżeli ma zastosowanie, oraz rzeczywistych portfeli inwestycyjnych, a także informacji dotyczących ryzyka i kosztów związanych z inwestycjami;
-- **6)** postanowień odnoszących się do przeniesienia praw do wypłaty z programu emerytalnego pracodawcy zagranicznego na inną instytucję pracowniczych programów emerytalnych, w przypadku rozwiązania stosunku pracy.
+### 8)
 
-4c. W przypadku zawarcia w statucie pracowniczego funduszu możliwości przyjmowania składek pracowników zagranicznych do statutu dołącza się pisemne zobowiązanie pracodawcy zagranicznego do przejęcia odpowiedzialności od zakładu ubezpieczeń na życie w zakresie, w jakim wynika to z umowy o przyjmowanie składek, w szczególności w przypadku zaniechania przez pracodawcę zagranicznego regularnego opłacania składek pracowników zagranicznych na pokrycie w całości albo w części ryzyk biometrycznych lub gwarancji.
+powszechne towarzystwo - oznacza powszechne towarzystwo emerytalne będące organem otwartego funduszu,
 
-5. Prezes Rady Ministrów może określić, w drodze rozporządzenia, dodatkowe dane, jakie powinny być zamieszczone w statucie funduszu, jeżeli wymaga tego interes członków funduszu.
+### 9)
 
-**Art. 14.**
+pracownicze towarzystwo - oznacza pracownicze towarzystwo emerytalne będące organem pracowniczego funduszu.
 
-1. Do wniosku towarzystwa o wydanie zezwolenia na utworzenie funduszu należy dołączyć:
+### Rozdział 2 Fundusze emerytalne
 
-- **1)** statut funduszu;
-- **2)** umowę z depozytariuszem;
-- **3)** (uchylony)
-- **4)** dane osobowe osób zatrudnionych w towarzystwie lub osób, które towarzystwo zamierza zatrudnić, mających istotny wpływ na gospodarkę finansową funduszu;
-- **5)** listę osób wyznaczonych przez depozytariusza bezpośrednio odpowiedzialnych za należyte wykonywanie obowiązków określonych w umowie;
-- **6)** informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 4 i 5, ze wskazaniem, które z tych osób są doradcami inwestycyjnymi.
+### Art. 9.
 
-2. Do wniosku pracowniczego towarzystwa o wydanie zezwolenia na utworzenie pracowniczego funduszu należy także dołączyć umowę o przyjmowanie składek oraz informację o państwach, z których będą przekazywane środki do pracowniczego funduszu, jeżeli statut pracowniczego funduszu przewiduje możliwość przyjmowania składek pracowników zagranicznych.
+### 1.
 
-**Art. 14a.** (uchylony)
+Fundusz jest tworzony jako otwarty lub pracowniczy.
 
-**Art. 15.**
+### 2.
 
-1. Komisja Nadzoru Finansowego, działająca na podstawie odrębnych przepisów, zwana dalej „organem nadzoru”, wydaje zezwolenie na utworzenie funduszu w terminie 3 miesięcy od dnia złożenia wniosku. Zezwolenie jest równoznaczne z zatwierdzeniem statutu funduszu.
+Fundusz tworzony jest wyłącznie przez towarzystwo.
 
-2. Organ nadzoru odmawia zezwolenia, jeżeli:
+### Art. 10.
 
-- **1)** wniosek i dołączone do niego dokumenty nie spełniają warunków określonych w ustawie;
-- **2)** statut funduszu nie zabezpiecza należycie interesów członków funduszu;
-- **3)** osoby, o których mowa w art. 14 ust. 1 pkt 4 i 5, nie dają rękojmi należytego wykonywania powierzonych obowiązków.
+### 1.
 
-3. W przypadku udzielenia zezwolenia na utworzenie pracowniczego funduszu, organ nadzoru zawiadamia Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych o udzieleniu tego zezwolenia, dołączając informację o jego treści.
+Nazwa otwartego funduszu zawiera określenie „otwarty fundusz emerytalny”, a nazwa pracowniczego funduszu zawiera określenie „pracowniczy fundusz emerytalny”.
 
-**Art. 16.**
+### 2.
 
-1. Po uzyskaniu zezwolenia na utworzenie funduszu towarzystwo niezwłocznie składa do sądu rejestrowego wniosek o wpisanie funduszu do rejestru funduszy.
+Wyłącznie fundusz utworzony zgodnie z niniejszą ustawą jest uprawniony do używania w swojej nazwie lub do określenia prowadzonej przez siebie działalności albo w reklamie określenia „fundusz emerytalny”.
 
-2. Do wniosku należy dołączyć:
+### Art. 11.
 
-- **1)** zezwolenie na utworzenie funduszu, jeżeli fundusz nie jest funduszem zdefiniowanej daty;
-- **2)** statut funduszu;
-- **3)** statut towarzystwa tworzącego fundusz;
-- **4)** listę członków zarządu towarzystwa.
+Czas trwania funduszu jest nieograniczony.
 
-2a. (uchylony)
+### Art. 12.
 
-3. Rozpoznanie wniosku przez sąd rejestrowy następuje w terminie 14 dni od dnia jego złożenia.
+Utworzenie funduszu wymaga:
 
-4. Sąd rejestrowy odmawia wpisania funduszu do rejestru funduszy, jeżeli nie zostały spełnione warunki określone ustawą.
+### 1)
 
-5. Niezwłocznie po wpisaniu funduszu do rejestru funduszy fundusz doręcza organowi nadzoru odpis z tego rejestru.
+nadania funduszowi statutu przez towarzystwo,
 
-**Art. 17.**
+### 2)
 
-1. Wpis do rejestru funduszy obejmuje:
+zawarcia przez towarzystwo z depozytariuszem umowy o przechowywanie aktywów funduszu,
 
-- **1)** nazwę funduszu;
-- **2)** firmę, siedzibę i adres towarzystwa, sposób reprezentacji towarzystwa oraz numer wpisu towarzystwa do rejestru przedsiębiorców i oznaczenie sądu prowadzącego ten rejestr;
-- **3)** imiona i nazwiska członków zarządu towarzystwa oraz prokurentów, jeżeli zostali ustanowieni;
-- **4)** firmę (nazwę), siedzibę i adres depozytariusza;
-- **5)** informację o państwach, z których są przekazywane środki do pracowniczego funduszu, jeżeli statut pracowniczego funduszu przewiduje możliwość przyjmowania składek pracowników zagranicznych.
+### 3)
 
-2. O każdej zmianie danych określonych w ust. 1 pkt 5 pracowniczy fundusz jest obowiązany niezwłocznie poinformować organ nadzoru. Niezwłocznie po wpisaniu zmiany do rejestru funduszy pracowniczy fundusz przekazuje organowi nadzoru odpis z tego rejestru potwierdzający dokonanie zmiany.
+uzyskania przez towarzystwo zezwolenia na utworzenie funduszu,
 
-**Art. 17a.**
+### 4)
 
-1. Organ nadzoru przekazuje informacje na temat pracowniczego funduszu, który został wpisany do rejestru funduszy, do Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych w celu ich publikacji na stronie internetowej tego urzędu. Zakres przekazywanych informacji określa art. 17 ust. 1.
+wpisania funduszu do rejestru funduszy.
 
-2. Informacje, o których mowa w ust. 1, organ nadzoru przekazuje do Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych drogą elektroniczną niezwłocznie po otrzymaniu od pracowniczego funduszu odpisu z rejestru funduszy, zgodnie z art. 16 ust. 5 oraz art. 17 ust. 2.
+### Art. 13.
 
-**Art. 18.** Zezwolenie na utworzenie funduszu wygasa, jeżeli w terminie 2 miesięcy od dnia doręczenia zezwolenia towarzystwo nie złożyło wniosku o wpisanie funduszu do rejestru funduszy.
+### 1.
 
-**Art. 19.**
+Statut funduszu jest uchwalany przez walne zgromadzenie towarzystwa.
 
-1. Do dnia wpisania funduszu do rejestru funduszy towarzystwo dokonuje czynności prawnych, mających na celu utworzenie funduszu, we własnym imieniu i na własny rachunek.
+### 2.
 
-2. Z chwilą wpisania funduszu do rejestru funduszy fundusz wstępuje w prawa i obowiązki towarzystwa z tytułu umowy z depozytariuszem, o której mowa w art. 14 ust. 1 pkt 2.
+Statut funduszu określa:
 
-**Art. 20.**
+### 1)
 
-1. Fundusz nabywa osobowość prawną z chwilą wpisania do rejestru funduszy.
+nazwę funduszu,
 
-2. Z chwilą wpisania do rejestru funduszy towarzystwo staje się organem funduszu.
+### 2)
 
-**Art. 21.**
+firmę, siedzibę i adres towarzystwa,
 
-1. Rejestr funduszy prowadzi Sąd Okręgowy w Warszawie, zwany dalej „sądem rejestrowym”.
+### 3)
 
-2. Rejestr funduszy jest jawny i dostępny dla osób trzecich.
+wysokość kapitału akcyjnego towarzystwa, skład akcjonariuszy towarzystwa i ilość posiadanych przez nich akcji,
 
-3. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia rejestru funduszy, wzór tego rejestru oraz szczegółowy tryb postępowania w sprawach o wpis do rejestru funduszy.
+### 4)
 
-**Art. 22.**
+sposób reprezentacji funduszu przez towarzystwo,
 
-1. Zmiana statutu funduszu wymaga zezwolenia organu nadzoru. Do wniosku o wydanie zezwolenia dołącza się:
+### 5)
 
-- **1)** uchwałę walnego zgromadzenia w sprawie zmiany statutu;
-- **2)** w przypadku pracowniczego funduszu ponadto:
-    - **a)** uchwałę rady nadzorczej,
-    - **b)** projekt umowy o przyjmowanie składek, jeżeli zmiana statutu pracowniczego funduszu przewiduje możliwość przyjmowania składek pracowników zagranicznych.
+firmę (nazwę), siedzibę i adres depozytariusza,
 
-2. Organ nadzoru odmawia zezwolenia, jeżeli zmiana jest sprzeczna z prawem lub interesem członków funduszu.
+### 6)
 
-2a. Organ nadzoru odmawia także zezwolenia, jeżeli zmiana statutu pracowniczego funduszu jest sprzeczna z interesem pracowników zagranicznych.
+rodzaje, wysokość, sposób oraz tryb kalkulacji i pokrywania kosztów obciążających fundusz i jego członków, w tym wysokość opłat, o których mowa w art. 134 ust. 1,
 
-3. Decyzję w sprawie zmiany statutu otwartego lub dobrowolnego funduszu podejmuje powszechne towarzystwo w formie uchwały walnego zgromadzenia.
+### 7)
 
-4. Decyzję w sprawie zmiany statutu pracowniczego funduszu podejmuje pracownicze towarzystwo w formie uchwały rady nadzorczej, zaś w przypadku zmiany statutu pracowniczego funduszu będącego funduszem zdefiniowanej daty – pracownicze towarzystwo w formie uchwały walnego zgromadzenia. Uchwała rady nadzorczej wymaga zatwierdzenia przez walne zgromadzenie.
+sposób informowania przez fundusz o zmianach statutu,
 
-**Art. 23.**
+### 8)
 
-1. Zmianę statutu otwarty fundusz ogłasza na ogólnodostępnej stronie internetowej przeznaczonej do ogłoszeń funduszu nie później niż w terminie 2 miesięcy od dnia doręczenia otwartemu funduszowi zezwolenia na zmianę statutu. Wraz z ogłoszeniem o zmianie statutu otwarty fundusz każdorazowo zamieszcza na tej stronie tekst jednolity statutu.
+inne dane przewidziane w przepisach ustawy.
 
-2. Zmiana statutu wchodzi w życie w terminie wskazanym w ogłoszeniu o jego zmianie, jednak nie wcześniej niż z upływem 5 miesięcy od dnia dokonania ogłoszenia.
+### 3.
 
-3. Organ nadzoru może zezwolić na skrócenie terminu 5 miesięcy, o którym mowa w ust. 2, jeżeli nie naruszy to interesu członków funduszu albo jeżeli wymaga tego interes członków funduszu.
+Poza danymi, o których mowa w ust. 2, statut otwartego funduszu określa:
 
-4. Fundusz zawiadamia organ nadzoru o dokonaniu ogłoszenia i jego terminie, dołączając jednolity tekst statutu, oraz składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, dołączając do wniosku zezwolenie organu nadzoru na zmianę statutu, uchwałę zmieniającą statut wraz z jednolitym tekstem statutu oraz informację o dokonaniu ogłoszenia i jego terminie.
+### 1)
 
-4a. Jeżeli otwarty fundusz nie dokona ogłoszenia zmian statutu zgodnie z ust. 1, organ nadzoru stwierdza wygaśnięcie zezwolenia na zmianę statutu.
+dziennik o zasięgu krajowym przeznaczony do ogłoszeń funduszu,
 
-5. Sąd rejestrowy wpisuje do rejestru informację o zmianie statutu wraz z datą wejścia w życie zmiany. Przepis art. 16 ust. 3 stosuje się odpowiednio.
+### 2)
 
-**Art. 24.**
+terminy ogłaszania przez fundusz prospektu informacyjnego.
 
-1. Zmiana statutu pracowniczego funduszu wymaga zawiadomienia na piśmie akcjonariuszy pracowniczego towarzystwa i wchodzi w życie w terminie wskazanym w zawiadomieniu, jednak nie wcześniej niż z upływem miesiąca od dnia doręczenia zawiadomienia ostatniemu akcjonariuszowi.
+### 4.
 
-2. Zmiana statutu wywołująca skutki finansowe w stosunku do członków pracowniczego funduszu, polegające na zwiększeniu obciążeń finansowych funduszu lub pogorszeniu warunków dysponowania przez członków środkami zgromadzonymi na ich rachunkach, wchodzi w życie na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+Poza danymi, o których mowa w ust. 2, statut pracowniczego funduszu określa:
 
-3. Przepisy art. 23 ust. 3–5 stosuje się odpowiednio, z tym że do wniosku o wpisanie do rejestru zmiany statutu dołącza się także uchwałę walnego zgromadzenia zatwierdzającą uchwałę zmieniającą statut.
+### 1)
 
-**Art. 25.**
+terminy oraz formę i tryb wypłaty środków zgromadzonych na rachunkach członków,
 
-1. W razie zmiany danych wymienionych w art. 17 ust. 1 pkt 3 fundusz składa niezwłocznie wniosek o ich wpisanie do rejestru funduszy.
+### 2)
 
-1a. (uchylony)
+zasady prowadzenia działalności lokacyjnej przez fundusz, wraz z informacją o tym, czy fundusz będzie sam zarządzał aktywami, czy też powierzy zarządzanie aktywami osobie trzeciej.
 
-2. Wpisanie zmian związanych z przejęciem zarządzania funduszem przez inne towarzystwo może nastąpić dopiero po przedstawieniu zezwolenia organu nadzoru na przejęcie zarządzania tym funduszem.
+### 5.
 
-3. Przepis ust. 2 stosuje się odpowiednio w przypadku połączenia towarzystw.
+Prezes Rady Ministrów może określić, w drodze rozporządzenia, dodatkowe dane, jakie powinny być zamieszczone w statucie funduszu, jeżeli wymaga tego interes członków funduszu.
 
-**Art. 26.**
+### Art. 14.
 
-1. Rachunkowość funduszy oraz terminy sporządzania, badania i składania do ogłoszenia sprawozdań finansowych regulują przepisy ustawy o rachunkowości.
+Do wniosku towarzystwa o wydanie zezwolenia na utworzenie funduszu należy dołączyć:
 
-2. Roczne sprawozdania finansowe funduszu zatwierdza towarzystwo w formie uchwały walnego zgromadzenia.
+### 1)
 
-3. Pracownicze towarzystwo może zlecić w całości lub w części innym podmiotom, upoważnionym na podstawie odrębnych przepisów, wykonywanie obowiązków w zakresie prowadzenia ksiąg rachunkowych pracowniczego funduszu.
+statut funduszu,
 
-#### Rozdział 2a System zarządzania w pracowniczym towarzystwie
+### 2)
 
-**Art. 26a.**
+umowę z depozytariuszem,
 
-1. Pracownicze towarzystwo jest obowiązane do przygotowania i wprowadzenia skutecznego systemu zarządzania, który zapewnia należyte i ostrożne zarządzanie prowadzoną działalnością.
+### 3)
 
-2. System zarządzania, o którym mowa w ust. 1, obejmuje strukturę organizacyjną, w której zakresy odpowiedzialności są jasno przypisane i odpowiednio podzielone, oraz skuteczny system przekazywania informacji.
+aktualny odpis z rejestru handlowego towarzystwa,
 
-3. System zarządzania, o którym mowa w ust. 1, może uwzględniać przy podejmowaniu decyzji inwestycyjnych czynniki środowiskowe i społeczne oraz czynniki związane z ładem korporacyjnym, w odniesieniu do aktywów inwestycyjnych.
+### 4)
 
-4. System zarządzania, o którym mowa w ust. 1, podlega regularnym przeglądom wewnętrznym dokonywanym nie rzadziej niż co 3 lata.
+dane osobowe osób zatrudnionych w towarzystwie lub osób, które towarzystwo zamierza zatrudnić, mających istotny wpływ na gospodarkę finansową funduszu,
 
-5. System zarządzania, o którym mowa w ust. 1, jest proporcjonalny do wielkości, charakteru, skali i złożoności działalności pracowniczego towarzystwa.
+### 5)
 
-**Art. 26b.**
+listę osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie,
 
-1. Pracownicze towarzystwo jest obowiązane do przygotowania pisemnego dokumentu określającego zasady:
+### 6)
 
-- **1)** zarządzania ryzykiem;
-- **2)** audytu wewnętrznego;
-- **3)** powierzania wykonywania zadań osobom trzecim lub zewnętrznym jednostkom organizacyjnym.
+informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 4 i 5, ze wskazaniem, które z tych osób są doradcami inwestycyjnymi.
 
-2. Zasady, o których mowa w ust. 1, podlegają zatwierdzeniu przez radę nadzorczą pracowniczego towarzystwa oraz przeglądowi funkcjonowania nie rzadziej niż co 3 lata.
+### Art. 15.
 
-3. Zasady, o których mowa w ust. 1, podlegają dostosowaniu do zmian w systemie zarządzania lub obszarze, którego dotyczą.
+### 1.
 
-**Art. 26c.**
+Urząd Nadzoru nad Funduszami Emerytalnymi, zwany dalej „Urzędem Nadzoru”, wydaje zezwolenie na utworzenie funduszu w terminie 3 miesięcy od dnia złożenia wniosku. Zezwolenie jest równoznaczne z zatwierdzeniem statutu funduszu.
 
-1. Pracownicze towarzystwo jest obowiązane do przygotowania i wprowadzenia skutecznego systemu kontroli wewnętrznej.
+### 2.
 
-2. System kontroli wewnętrznej, o którym mowa w ust. 1, obejmuje:
+Urząd Nadzoru odmawia zezwolenia, jeżeli:
 
-- **1)** procedury administracyjne i księgowe;
-- **2)** organizację kontroli wewnętrznej;
-- **3)** ustalenia w zakresie sprawozdawczości na wszystkich szczeblach pracowniczego towarzystwa.
+### 1)
 
-**Art. 26d.**
+wniosek i dołączone do niego dokumenty nie spełniają warunków określonych w ustawie,
 
-1. Pracownicze towarzystwo jest obowiązane do opracowania i wprowadzenia planów awaryjnych, aby zapewnić ciągłość i regularność prowadzenia swojej działalności.
+### 2)
 
-2. W przypadku zarządzania pracowniczym funduszem pracownicze towarzystwo stosuje odpowiednie i współmierne systemy, zasoby i procedury, w szczególności ustanawia sieci i systemy informatyczne oraz zarządza nimi zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2554 z dnia 14 grudnia 2022 r. w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniającego rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014, (UE) nr 909/2014 oraz (UE) 2016/1011 (Dz. Urz. UE L 333 z 27.12.2022, str. 1, z późn. zm. ).
+statut funduszu nie zabezpiecza należycie interesów członków funduszu,
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli pracowniczy fundusz obsługuje pracownicze programy emerytalne liczące łącznie nie więcej niż 15 uczestników.
+### 3)
 
-**Art. 26e.**
+osoby, o których mowa w art. 14 pkt 4 i 5, nie dają rękojmi należytego wykonywania powierzonych obowiązków.
 
-1. Pracownicze towarzystwo jest obowiązane do prowadzenia i dokumentowania własnej oceny ryzyka.
+### Art. 16.
 
-2. Własną ocenę ryzyka, o której mowa w ust. 1, przeprowadza się przynajmniej co 3 lata lub niezwłocznie po każdej istotnej zmianie w profilu ryzyka pracowniczego towarzystwa.
+### 1.
 
-3. Własna ocena ryzyka, o której mowa w ust. 1, uwzględnia wielkość i organizację wewnętrzną pracowniczego towarzystwa, jak również wielkość, charakter, skalę i złożoność jego działalności.
+Po uzyskaniu zezwolenia na utworzenie funduszu towarzystwo niezwłocznie składa do sądu rejestrowego wniosek o wpisanie funduszu do rejestru funduszy.
 
-4. Własna ocena ryzyka, o której mowa w ust. 1, obejmuje następujące elementy:
+### 2.
 
-- **1)** opis sposobu włączenia własnej oceny ryzyka do procesu zarządzania i procesów decyzyjnych pracowniczego towarzystwa;
-- **2)** ocenę skuteczności zarządzania ryzykiem, o którym mowa w art. 42a ust. 1 pkt 1;
-- **3)** opis, jak pracownicze towarzystwo zapobiega konfliktom interesów z pracodawcą, w przypadku gdy pracownicze towarzystwo powierza pełnienie kluczowych funkcji osobie trzeciej lub zewnętrznej jednostce organizacyjnej pełniącej podobną kluczową funkcję u pracodawcy, zgodnie z art. 42a ust. 5;
-- **4)** ocenę jakościową poszczególnych rodzajów ryzyka operacyjnego;
-- **5)** ocenę nowych lub powstających rodzajów ryzyka, w tym ryzyka związanego ze zmianą klimatu, wykorzystaniem zasobów i środowiskiem, a także ryzyka społecznego i ryzyka związanego ze spadkiem wartości aktywów z powodu zmiany przepisów prawa – w przypadku gdy przy podejmowaniu decyzji inwestycyjnych bierze się pod uwagę czynniki środowiskowe i społeczne oraz czynniki związane z ładem korporacyjnym.
+Do wniosku należy dołączyć:
 
-5. Własna ocena ryzyka, o której mowa w ust. 1, obejmuje również opis metody określania i oceny rodzajów ryzyka, na które pracownicze towarzystwo jest lub może być narażone w perspektywie krótko- i długoterminowej i które mogą mieć wpływ na zdolność pracowniczego towarzystwa do wypełniania swoich obowiązków. Metody te są proporcjonalne do wielkości, charakteru, skali i złożoności ryzyk właściwych dla działalności pracowniczego towarzystwa.
+### 1)
 
-6. Własna ocena ryzyka, o której mowa w ust. 1, jest brana pod uwagę przy podejmowaniu przez pracownicze towarzystwo decyzji strategicznych.
+zezwolenie na utworzenie funduszu,
 
-**Art. 26f.**
+### 2)
 
-1. Pracownicze towarzystwo może powierzyć osobie trzeciej pełnienie kluczowej funkcji w zakresie zarządzania ryzykiem, a także wypełnianie innych obowiązków, jeżeli powierzenie to:
+statut funduszu,
 
-- **1)** nie wpłynie niekorzystnie na jakość systemu zarządzania, o którym mowa w art. 26a ust. 1;
-- **2)** nie spowoduje zwiększenia ryzyka operacyjnego;
-- **3)** nie spowoduje zmniejszenia możliwości monitorowania przez organ nadzoru wypełniania przez pracowniczy fundusz i pracownicze towarzystwo ich obowiązków;
-- **4)** nie spowoduje pogorszenia jakości usług świadczonych przez pracowniczy fundusz i pracownicze towarzystwo na rzecz członków pracowniczego funduszu oraz osób uprawnionych do otrzymania wypłaty.
+### 3)
 
-2. Osoba trzecia, o której mowa w ust. 1, jest wybierana przez pracownicze towarzystwo w drodze uchwały rady nadzorczej.
+statut towarzystwa tworzącego fundusz wraz z aktualnym odpisem z rejestru handlowego towarzystwa,
 
-3. Osoba trzecia, o której mowa w ust. 1, pełni kluczową funkcję w zakresie zarządzania ryzykiem oraz wypełnia inne powierzone jej obowiązki na podstawie pisemnej umowy z pracowniczym towarzystwem oraz zgodnie z zasadami zarządzania ryzykiem określonymi w dokumencie, o którym mowa w art. 26b ust. 1.
+### 4)
 
-4. Do osoby trzeciej, o której mowa w ust. 1, przepis art. 41 ust. 1 stosuje się odpowiednio.
+listę członków zarządu towarzystwa.
 
-5. O zawarciu umowy, o której mowa w ust. 3, a także o jej zmianie pracownicze towarzystwo niezwłocznie informuje organ nadzoru.
+### 3.
 
-#### Rozdział 2b Działalność transgraniczna
+Rozpoznanie wniosku przez sąd rejestrowy następuje w terminie 14 dni od dnia jego złożenia.
 
-**Art. 26g.**
+### 4.
 
-1. Pracowniczy fundusz mający zamiar wykonywać działalność transgraniczną jest obowiązany zawiadomić o tym organ nadzoru.
+Sąd rejestrowy odmawia wpisania funduszu do rejestru funduszy, jeżeli nie zostały spełnione warunki określone ustawą.
 
-2. Zawiadomienie, o którym mowa w ust. 1, obejmuje:
+### 5.
 
-- **1)** nazwę przyjmującego państwa członkowskiego lub przyjmujących państw członkowskich, które określa pracodawca;
-- **2)** firmę, siedzibę i adres pracodawcy;
-- **3)** główne cechy charakterystyczne pracowniczego programu emerytalnego, jaki ma być obsługiwany, w szczególności:
-    - **a)** warunki uczestnictwa w pracowniczym programie emerytalnym,
-    - **b)** szacunkową liczbę uczestników pracowniczego programu emerytalnego,
-    - **c)** wysokość składki wnoszonej przez pracodawcę i pracownika,
-    - **d)** warunki uzyskania wypłaty,
-    - **e)** opcje wypłaty.
+Niezwłocznie po wpisaniu funduszu do rejestru funduszy fundusz doręcza Urzędowi Nadzoru odpis z tego rejestru.
 
-3. Organ nadzoru, w terminie 3 miesięcy od dnia otrzymania wszystkich informacji, o których mowa w ust. 2, jest obowiązany do ich przekazania zagranicznemu organowi nadzoru w przyjmującym państwie członkowskim.
+### Art. 17.
 
-4. O przekazaniu informacji, o których mowa w ust. 2, organ nadzoru niezwłocznie powiadamia pracowniczy fundusz.
+Wpis do rejestru funduszy obejmuje:
 
-5. Pracowniczy fundusz może rozpocząć wykonywanie działalności transgranicznej od dnia otrzymania powiadomienia, o którym mowa w ust. 4.
+### 1)
 
-6. Organ nadzoru jest zwolniony z obowiązku, o którym mowa w ust. 3, jeżeli po otrzymaniu wszystkich informacji, o których mowa w ust. 2, wydał decyzję o zakazie wykonywania działalności transgranicznej.
+nazwę funduszu,
 
-7. Organ nadzoru, w terminie 3 miesięcy od dnia otrzymania wszystkich informacji, o których mowa w ust. 2, może wydać decyzję o zakazie wykonywania działalności transgranicznej, jeżeli:
+### 2)
 
-- **1)** struktura pracowniczego towarzystwa stoi na przeszkodzie podjęciu proponowanej działalności transgranicznej lub
-- **2)** sytuacja finansowa pracowniczego towarzystwa stoi na przeszkodzie podjęciu proponowanej działalności transgranicznej, lub
-- **3)** członek zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem nie spełnia wymogów określonych w art. 41 ust. 1.
+firmę, siedzibę i adres towarzystwa, sposób reprezentacji towarzystwa oraz numer wpisu towarzystwa do rejestru handlowego i oznaczenie sądu prowadzącego ten rejestr,
 
-**Art. 26h.**
+### 3)
 
-1. W przypadku nieprzekazania przez organ nadzoru zagranicznemu organowi nadzoru w przyjmującym państwie członkowskim informacji, o których mowa w art. 26g ust. 2, w terminie 3 miesięcy od dnia ich otrzymania, pracowniczemu funduszowi przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa w art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+imiona i nazwiska członków zarządu towarzystwa oraz prokurentów, jeżeli zostali ustanowieni,
 
-2. Pracowniczemu funduszowi przysługuje, w każdym czasie po wniesieniu ponaglenia do organu nadzoru, prawo do wniesienia skargi na bezczynność organu do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu, za pośrednictwem organu nadzoru.
+### 4)
 
-**Art. 26i.**
+firmę (nazwę), siedzibę i adres depozytariusza.
 
-1. Pracowniczy fundusz, wobec którego wydano decyzję, o której mowa w art. 26g ust. 7, może zwrócić się do organu nadzoru z wnioskiem o ponowne rozpatrzenie sprawy w terminie 14 dni od dnia doręczenia decyzji.
+### Art. 18.
 
-2. Pracowniczy fundusz może wnieść skargę do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu na decyzję, o której mowa w art. 26g ust. 7, bez uprzedniego skorzystania z prawa do zwrócenia się do organu nadzoru z wnioskiem o ponowne rozpatrzenie sprawy. Skargę wnosi się za pośrednictwem organu nadzoru w terminie 30 dni od dnia doręczenia decyzji, o której mowa w art. 26g ust. 7.
+Zezwolenie na utworzenie funduszu wygasa, jeżeli w terminie 2 miesięcy od dnia doręczenia zezwolenia towarzystwo nie złożyło wniosku o wpisanie funduszu do rejestru funduszy.
 
-#### Rozdział 3 Towarzystwa emerytalne
+### Art. 19.
 
-**Art. 27.**
+### 1.
 
-1. Towarzystwo prowadzi działalność wyłącznie w formie spółki akcyjnej.
+Do dnia wpisania funduszu do rejestru funduszy towarzystwo dokonuje czynności prawnych mających na celu utworzenie funduszu, we własnym imieniu i na własny rachunek.
 
-2. Towarzystwo prowadzi działalność jako powszechne towarzystwo lub pracownicze towarzystwo.
+### 2.
 
-**Art. 28.**
+Z chwilą wpisania funduszu do rejestru funduszy fundusz wstępuje w prawa i obowiązki towarzystwa z tytułu umowy z depozytariuszem, o której mowa w art. 14 pkt 2.
 
-1. Firma powszechnego towarzystwa zawiera oznaczenie „powszechne towarzystwo emerytalne”, a firma pracowniczego towarzystwa zawiera oznaczenie „pracownicze towarzystwo emerytalne”.
+### Art. 20.
 
-2. Do używania oznaczeń wskazanych w ust. 1 są uprawnione wyłącznie towarzystwa utworzone zgodnie z niniejszą ustawą.
+### 1.
 
-**Art. 29.**
+Fundusz nabywa osobowość prawną z chwilą wpisania do rejestru funduszy.
 
-1. Przedmiotem przedsiębiorstwa towarzystwa jest wyłącznie tworzenie i zarządzanie funduszami oraz ich reprezentowanie wobec osób trzecich. Wyłącznie towarzystwo jest uprawnione do prowadzenia takiej działalności.
+### 2.
 
-2. Powszechne towarzystwo tworzy i zarządza tylko jednym otwartym funduszem oraz może utworzyć i zarządzać tylko jednym dobrowolnym funduszem, z zastrzeżeniem ust. 2a, a pracownicze towarzystwo tworzy i zarządza tylko jednym pracowniczym funduszem, z zastrzeżeniem ust. 2b, chyba że zarządzanie więcej niż jednym, odpowiednio, otwartym funduszem, dobrowolnym funduszem lub pracowniczym funduszem jest skutkiem przejęcia jego zarządzania przez towarzystwo albo połączenia towarzystw.
+Z chwilą wpisania do rejestru funduszy towarzystwo staje się organem funduszu.
 
-2a. Powszechne towarzystwo może utworzyć i zarządzać więcej niż jednym dobrowolnym funduszem, jeżeli fundusze te są funduszami zdefiniowanej daty.
+### Art. 21.
 
-2b. Pracownicze towarzystwo może utworzyć i zarządzać więcej niż jednym pracowniczym funduszem, jeżeli fundusze te są funduszami zdefiniowanej daty.
+### 1.
 
-3. Powszechne towarzystwo zarządza funduszem odpłatnie.
+Rejestr funduszy prowadzi Sąd Wojewódzki w Warszawie, zwany w niniejszej ustawie „sądem rejestrowym”.
 
-4. Pracownicze towarzystwo nie może mieć celu zarobkowego, z zastrzeżeniem ust. 4a. Akcjonariusze pracowniczego towarzystwa nie mają prawa do udziału w zysku rocznym, z zastrzeżeniem ust. 4a. Zysk roczny przysługuje wyłącznie od aktywów pracowniczych funduszy będących funduszami zdefiniowanej daty.
+### 2.
 
-4a. Pracownicze towarzystwo zarządzające funduszem będącym funduszem zdefiniowanej daty może pobierać wynagrodzenie za zarządzanie tym funduszem na zasadach określonych w art. 49 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych. W przypadku pobierania wynagrodzenia za zarządzanie funduszem art. 152 nie stosuje się.
+Rejestr funduszy jest jawny i dostępny dla osób trzecich.
 
-5. Do zarządzania aktywami otwartego funduszu powszechne towarzystwo jest obowiązane zatrudnić co najmniej jednego doradcę inwestycyjnego, a w przypadku gdy powszechne towarzystwo zarządza dobrowolnymi funduszami będącymi funduszami zdefiniowanej daty, do zarządzania aktywami otwartego funduszu oraz aktywami dobrowolnych funduszy będących funduszami zdefiniowanej daty powszechne towarzystwo jest obowiązane zatrudnić co najmniej dwóch doradców inwestycyjnych.
+### 3.
 
-6. Pracownicze towarzystwo do zarządzania aktywami funduszy będących funduszami zdefiniowanej daty jest obowiązane zatrudnić co najmniej jednego doradcę inwestycyjnego.
+Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia rejestru funduszy, wzór tego rejestru oraz szczegółowy tryb postępowania w sprawach o wpis do rejestru funduszy.
 
-**Art. 30.**
+### Art. 22.
 
-1. Kapitał zakładowy towarzystwa nie może być zebrany w drodze publicznej subskrypcji. [2. Akcje towarzystwa są wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.] 2a. Akcje towarzystwa nie mogą być przedmiotem zabezpieczenia majątkowego ani być obciążone w żaden sposób.
+### 1.
 
-3. Towarzystwo nie może wydawać akcji o szczególnych uprawnieniach.
+Zmiana statutu funduszu wymaga zezwolenia Urzędu Nadzoru.
 
-4. Statut towarzystwa powinien traktować wszystkich akcjonariuszy w jednakowy sposób. W szczególności statut nie może przyznawać niektórym akcjonariuszom dodatkowych uprawnień lub ograniczać praw niektórych akcjonariuszy albo też nakładać na niektórych akcjonariuszy dodatkowych obowiązków.
+### 2.
 
-5. Jeżeli akcjonariuszem towarzystwa jest związek zawodowy, organizacja pracodawców, izba gospodarcza lub organizacja samorządu zawodowego, której działalność wynika z przepisów ustawy, do akcjonariusza takiego nie stosuje się przepisów ust. 3 i 4.
+Urząd Nadzoru odmawia zezwolenia, jeżeli zmiana jest sprzeczna z prawem lub interesem członków funduszu.
 
-**Art. 31.** Minimalna wysokość kapitału zakładowego powszechnego towarzystwa nie może być niższa niż równowartość w złotych 5 000 000 euro, wyliczana według średniego kursu walut obcych Narodowego Banku Polskiego, obowiązującego w dniu sporządzenia statutu towarzystwa.
+### 3.
 
-**Art. 32.**
+Decyzję w sprawie zmiany statutu otwartego funduszu podejmuje powszechne towarzystwo w formie uchwały walnego zgromadzenia.
 
-1. Kapitał zakładowy towarzystwa jest pokrywany wyłącznie wkładem pieniężnym.
+### 4.
 
-2. Kapitał zakładowy powszechnego towarzystwa powinien być opłacony w całości przed zarejestrowaniem towarzystwa.
+Decyzję w sprawie zmiany statutu pracowniczego funduszu podejmuje pracownicze towarzystwo w formie uchwały rady nadzorczej. Uchwała rady nadzorczej wymaga zatwierdzenia przez walne zgromadzenie.
 
-3. Kapitał zakładowy powszechnego towarzystwa nie może pochodzić z pożyczki lub kredytu ani być obciążony w jakikolwiek sposób.
+### Art. 23.
 
-**Art. 33.**
+### 1.
 
-1. Powszechne towarzystwo ma obowiązek utrzymywania kapitałów własnych na poziomie nie niższym niż jedna druga minimalnego kapitału zakładowego, o którym mowa w art. 31.
+Zmianę statutu otwarty fundusz ogłasza w dzienniku o zasięgu krajowym przeznaczonym do ogłoszeń funduszu.
 
-2. O obniżeniu wysokości kapitałów własnych poniżej poziomu, o którym mowa w ust. 1, powszechne towarzystwo zawiadamia niezwłocznie organ nadzoru.
+### 2.
 
-3. Organ nadzoru pisemnie wzywa powszechne towarzystwo do uzupełnienia kapitałów własnych, wyznaczając jednocześnie termin do ich uzupełnienia, nie krótszy niż 3 miesiące i nie dłuższy niż 12 miesięcy.
+Zmiana statutu wchodzi w życie w terminie wskazanym w ogłoszeniu o jego zmianie, jednak nie wcześniej niż z upływem 5 miesięcy od dnia dokonania ogłoszenia.
 
-4. W przypadku nieuzupełnienia kapitałów własnych do wysokości określonej w ust. 1, w terminie wyznaczonym w wezwaniu, o którym mowa w ust. 3, organ nadzoru może cofnąć zezwolenie na utworzenie towarzystwa.
+### 3.
 
-**Art. 34.** (uchylony)
+Urząd Nadzoru może zezwolić na skrócenie terminu 5 miesięcy, o którym mowa w ust. 2, jeżeli nie naruszy to interesu członków funduszu albo jeżeli wymaga tego interes członków funduszu.
 
-**Art. 35.** Założycielem pracowniczego towarzystwa może być osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, mająca miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej, lub pracodawca zagraniczny.
+### 4.
 
-**Art. 36.** Ilekroć w niniejszej ustawie mowa jest o założycielach towarzystwa, należy przez to rozumieć także akcjonariuszy tego towarzystwa.
+Fundusz zawiadamia Urząd Nadzoru o dokonaniu ogłoszenia i jego terminie oraz składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, dołączając do wniosku zezwolenie Urzędu Nadzoru na zmianę statutu, uchwałę zmieniającą statut wraz z jednolitym tekstem statutu oraz informację o dokonaniu ogłoszenia i jego terminie.
 
-**Art. 37.**
+### 5.
 
-1. Ten sam podmiot może być akcjonariuszem wyłącznie jednego powszechnego towarzystwa.
+Sąd rejestrowy wpisuje do rejestru informację o zmianie statutu wraz datą wejścia w życie zmiany. Przepis art. 16 ust. 3 stosuje się odpowiednio.
 
-2. Podmioty związane mogą być akcjonariuszami wyłącznie tego samego powszechnego towarzystwa.
+### Art. 24.
 
-3. W przypadku połączenia dwóch lub większej liczby podmiotów w sytuacji, gdy przed połączeniem każdy z nich jest akcjonariuszem innego powszechnego towarzystwa, oraz w przypadku, gdy podmioty będące dotychczas akcjonariuszami różnych powszechnych towarzystw stały się podmiotami związanymi, organ nadzoru może wyrazić zgodę na odstąpienie od ograniczeń określonych w ust. 1 lub 2, na okres nie dłuższy niż 6 miesięcy, w celu umożliwienia podmiotowi działającemu w wyniku połączenia lub podmiotom, które stały się podmiotami związanymi, dostosowania ich działalności do wymogów ustawy.
+### 1.
 
-**Art. 38.**
+Zmiana statutu pracowniczego funduszu wymaga zawiadomienia na piśmie akcjonariuszy pracowniczego towarzystwa i wchodzi w życie w terminie wskazanym w zawiadomieniu, jednak nie wcześniej niż z upływem miesiąca od dnia doręczenia zawiadomienia ostatniemu akcjonariuszowi.
 
-1. Każdorazowe nabycie lub objęcie akcji towarzystwa wymaga zezwolenia organu nadzoru, z zastrzeżeniem ust. 4. Czynność prawna dokonana z naruszeniem tego wymogu jest nieważna.
+### 2.
 
-2. Wniosek o zezwolenie składa, za pośrednictwem towarzystwa, podmiot zamierzający nabyć lub objąć akcje. Do wniosku należy dołączyć:
+Zmiana statutu wywołująca skutki finansowe w stosunku do członków pracowniczego funduszu, polegające na zwiększeniu obciążeń finansowych funduszu lub pogorszeniu warunków dysponowania przez członków środkami zgromadzonymi na ich rachunkach, wchodzi w życie na zasadach określonych w ustawie z dnia 22 sierpnia 1997 r. o pracowniczych programach emerytalnych ([Dz. U. Nr 139, poz. 932](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)).
 
-- **1)** w przypadku gdy podmiot zamierzający nabyć lub objąć akcje jest akcjonariuszem towarzystwa:
-    - **a)** pisemne oświadczenie stwierdzające, że środki pieniężne na pokrycie kapitału zakładowego lub na nabycie akcji nie pochodzą z pożyczek, kredytów ani nie są w żaden sposób obciążone,
-    - **b)** dokumenty przedstawiające sytuację finansową podmiotu w okresie ostatnich 5 lat poprzedzających dzień złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych oraz zaległości z tytułu składek, do poboru których jest obowiązany Zakład Ubezpieczeń Społecznych;
+### 3.
 
-- **2)** w przypadku gdy podmiot zamierzający objąć lub nabyć akcje nie jest akcjonariuszem towarzystwa:
-    - **a)** pisemne oświadczenie stwierdzające, że środki pieniężne na pokrycie kapitału zakładowego lub na nabycie akcji nie pochodzą z pożyczek, kredytów ani nie są w żaden sposób obciążone,
-    - **b)** dokumenty potwierdzające status prawny podmiotu oraz dokumenty stwierdzające jego organizację,
-    - **c)** pisemne oświadczenie podmiotu dotyczące powiązań kapitałowych z akcjonariuszami towarzystwa,
-    - **d)** dokumenty przedstawiające sytuację finansową podmiotu w okresie ostatnich 5 lat poprzedzających dzień złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych oraz zaległości z tytułu składek, do poboru których jest obowiązany Zakład Ubezpieczeń Społecznych.
+Przepisy art. 23 ust. 3-5 stosuje się odpowiednio, z tym że do wniosku o wpisanie do rejestru zmiany statutu dołącza się także uchwałę walnego zgromadzenia zatwierdzającą uchwałę zmieniającą statut.
 
-2a. W przypadku podmiotu zamierzającego objąć akcje, do wniosku, o którym mowa w ust. 2, należy dołączyć dowód wpłaty środków pieniężnych na pokrycie kapitału zakładowego.
+### Art. 25.
 
-3. Organ nadzoru zezwala na nabycie lub objęcie akcji, jeżeli wnioskodawca spełnia warunki określone w ustawie dla założycieli towarzystwa.
+### 1.
 
-4. Jeżeli obejmującym akcje jest dotychczasowy akcjonariusz, zawiadamia on organ nadzoru o objęciu akcji w terminie 14 dni od daty ich objęcia. Objęcie akcji w liczbie powodującej przekroczenie odpowiednio 20 %, 25 %, 33 %, 50 %, 66 %, 75 % lub 80 % głosów na walnym zgromadzeniu wymaga jednak uzyskania zezwolenia organu nadzoru.
+W razie zmiany danych wymienionych w art. 17 pkt 3 fundusz składa niezwłocznie wniosek o ich wpisanie do rejestru funduszy, dołączając aktualny odpis z rejestru handlowego towarzystwa.
 
-5. Przepisy ust. 1–4 stosuje się odpowiednio do nabycia praw z akcji towarzystwa.
+### 2.
 
-**Art. 38a.**
+Wpisanie zmian związanych z przejęciem zarządzania funduszem przez inne towarzystwo może nastąpić dopiero po przedstawieniu:
 
-1. Akcjonariusz powszechnego towarzystwa jest obowiązany zawiadomić niezwłocznie powszechne towarzystwo o każdej jednostce dominującej względem tego akcjonariusza. Niezwłocznie, po uzyskaniu informacji od akcjonariusza powszechnego towarzystwa, powszechne towarzystwo zawiadamia organ nadzoru o każdej jednostce dominującej wobec akcjonariusza tego powszechnego towarzystwa.
+### 1)
 
-2. Organ nadzoru może wezwać powszechne towarzystwo do złożenia w wyznaczonym terminie, nie krótszym niż 30 dni:
+zezwolenia Urzędu Nadzoru na przejęcie zarządzania funduszem,
 
-- **1)** dokumentów potwierdzających status prawny jednostki dominującej oraz stwierdzających jej organizację;
-- **2)** dokumentów przedstawiających sytuację finansową jednostki dominującej w okresie ostatnich 5 lat poprzedzających dzień zawiadomienia, o którym mowa w ust. 1, w tym potwierdzających brak zaległości podatkowych oraz zaległości z tytułu składek, do poboru których obowiązany jest Zakład Ubezpieczeń Społecznych.
+### 2)
 
-3. W przypadku gdy jednostka dominująca nie daje rękojmi prowadzenia spraw przez powszechne towarzystwo w sposób zapewniający należytą ochronę interesów członków otwartego funduszu lub z dokumentów przedstawiających sytuację finansową jednostki dominującej za ostatnie 5 lat wynika, że posiada ona zaległości podatkowe lub zaległości z tytułu składek, do których poboru obowiązany jest Zakład Ubezpieczeń Społecznych, organ nadzoru, w drodze decyzji administracyjnej, może określić warunki na dostosowanie do właściwego stanu. Organ nadzoru zawiesza wykonywanie prawa głosu na walnym zgromadzeniu towarzystwa przez tego akcjonariusza do czasu dostosowania do właściwego stanu.
+informacji o braku zastrzeżeń Prezesa Urzędu Ochrony Konkurencji i Konsumentów do przejęcia zarządzania funduszem, jeżeli przejęcia dokonuje powszechne towarzystwo.
 
-4. Jeżeli w wyniku zawieszenia wykonywania prawa głosu, o którym mowa w ust. 3, wszyscy akcjonariusze powszechnego towarzystwa nie mogą wykonywać prawa głosu na walnym zgromadzeniu towarzystwa dłużej niż 3 miesiące, to organ nadzoru może cofnąć zezwolenie na utworzenie towarzystwa.
+### 3.
 
-**Art. 39.**
+Przepis ust. 2 stosuje się odpowiednio w przypadku połączenia towarzystw.
 
-1. Władzami towarzystwa są:
+### Art. 26.
 
-- **1)** zarząd;
-- **2)** rada nadzorcza;
-- **3)** walne zgromadzenie.
+### 1.
 
-1a. Zarząd towarzystwa nie może liczyć mniej niż trzy osoby.
+Rachunkowość funduszy oraz terminy sporządzania, badania i składania do ogłoszenia sprawozdań finansowych regulują przepisy ustawy o rachunkowości.
 
-2. Towarzystwo może mieć także komisję rewizyjną. Do komisji rewizyjnej stosuje się odpowiednio przepisy art. 43 i 44, art. 59 ust. 1, art. 148 pkt 3, art. 150 pkt 1 lit. b, art. 158 ust. 1 pkt 5 lit. a, art. 204 ust. 1 pkt 2 oraz art. 206 i 209 dotyczące rady nadzorczej.
+### 2.
 
-**Art. 40.**
+Roczne sprawozdania finansowe funduszu zatwierdza towarzystwo w formie uchwały walnego zgromadzenia.
 
-1. O ile statut nie stanowi inaczej, członków zarządu powszechnego towarzystwa powołuje i odwołuje walne zgromadzenie.
+### Rozdział 3 Towarzystwa emerytalne
 
-2. Członków zarządu pracowniczego towarzystwa powołuje i odwołuje rada nadzorcza.
+### Art. 27.
 
-3. Członków pierwszego zarządu pracowniczego towarzystwa powołują założyciele na okres roku.
+### 1.
 
-**Art. 41.**
+Towarzystwo prowadzi działalność wyłącznie w formie spółki akcyjnej.
 
-1. Członkiem zarządu towarzystwa może być osoba, która spełnia łącznie następujące wymogi:
+### 2.
 
-- **1)** posiada pełną zdolność do czynności prawnych;
-- **2)** nie była skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwo skarbowe lub przestępstwo, o którym mowa w rozdziale 22;
-- **3)** posiada wyższe wykształcenie;
-- **4)** legitymuje się stażem pracy nie krótszym niż 7 lat;
-- **5)** daje rękojmię należytego wykonywania funkcji członka zarządu.
+Towarzystwo prowadzi działalność jako powszechne towarzystwo lub pracownicze towarzystwo.
 
-1a. Co najmniej dwie osoby wchodzące w skład zarządu towarzystwa, w tym prezes zarządu, muszą posiadać udowodnioną znajomość języka polskiego.
+### Art. 28.
 
-2. Przynajmniej jedna trzecia składu zarządu powinna legitymować się wyższym wykształceniem prawniczym, ekonomicznym lub być wpisana na listę doradców inwestycyjnych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722).
+### 1.
 
-3. Wymóg określony w ust. 1 pkt 4 powinien być spełniony przez co najmniej dwie trzecie składu zarządu.
+Firma powszechnego towarzystwa zawiera oznaczenie „powszechne towarzystwo emerytalne”, a firma pracowniczego towarzystwa zawiera oznaczenie „pracownicze towarzystwo emerytalne”.
 
-4. (uchylony)
+### 2.
 
-5. Jeżeli wymogi określone w ust. 1a, 2 lub 3 nie są spełnione w związku z odwołaniem członka zarządu lub cofnięciem zezwolenia, o którym mowa w art. 59 ust. 3 i 4, towarzystwo jest obowiązane, w terminie 6 miesięcy, dostosować swoją działalność do wymogów określonych w ustawie.
+Do używania oznaczeń wskazanych w ust. 1 są uprawnione wyłącznie towarzystwa utworzone zgodnie z niniejszą ustawą.
 
-**Art. 41a.**
+### Art. 29.
 
-1. Członkowie zarządu powszechnego towarzystwa są obowiązani do złożenia oświadczenia o swoim stanie majątkowym. Oświadczenie o stanie majątkowym dotyczy majątku odrębnego oraz objętego małżeńską wspólnością majątkową. Oświadczenie to powinno zawierać informacje o:
+### 1.
 
-- **1)** posiadanych zasobach pieniężnych, nieruchomościach, uczestnictwie w spółkach cywilnych lub w osobowych spółkach handlowych, udziałach i akcjach w spółkach handlowych, a także dane dotyczące prowadzonej działalności gospodarczej oraz pełnienia funkcji w spółkach handlowych;
-- **2)** dochodach osiąganych z tytułu zatrudnienia lub innej działalności zarobkowej lub zajęć, z podaniem kwot uzyskiwanych z każdego tytułu;
-- **3)** mieniu ruchomym o wartości jednostkowej stanowiącej równowartość w złotych powyżej 3000 euro;
-- **4)** zobowiązaniach pieniężnych o wartości stanowiącej równowartość w złotych powyżej 3000 euro, w tym o zaciągniętych kredytach i pożyczkach oraz warunkach, na jakich zostały udzielone.
+Przedmiotem przedsiębiorstwa towarzystwa jest wyłącznie tworzenie i zarządzanie funduszami oraz ich reprezentowanie wobec osób trzecich. Wyłącznie towarzystwo jest uprawnione do prowadzenia takiej działalności.
 
-2. Oświadczenie o stanie majątkowym składa się w dwóch egzemplarzach organowi nadzoru przed objęciem funkcji w zarządzie, a następnie co roku do dnia 31 maja, według stanu na dzień 31 grudnia roku poprzedniego, dołączając kopię rocznego zeznania podatkowego (PIT).
+### 2.
 
-3. Jeden egzemplarz oświadczenia o stanie majątkowym organ nadzoru przekazuje do urzędu skarbowego właściwego ze względu na miejsce zamieszkania członka zarządu.
+Z zastrzeżeniem art. 229, towarzystwo tworzy i zarządza tylko jednym funduszem, chyba że zarządzanie więcej niż jednym funduszem jest skutkiem przejęcia przez towarzystwo zarządzania innym funduszem albo połączenia towarzystw.
 
-4. Analizy danych zawartych w oświadczeniach o stanie majątkowym dokonuje organ nadzoru oraz właściwe urzędy skarbowe. Podmiot dokonujący analizy danych zawartych w oświadczeniu jest uprawniony do porównania treści analizowanego oświadczenia z treścią uprzednio złożonych oświadczeń oraz z dołączoną kopią rocznego zeznania podatkowego (PIT). Wyniki analizy właściwe urzędy skarbowe przekazują niezwłocznie organowi nadzoru.
+### 3.
 
-5. Informacje zawarte w oświadczeniu o stanie majątkowym stanowią tajemnicę prawnie chronioną i podlegają ochronie przewidzianej dla informacji niejawnych o klauzuli tajności „zastrzeżone” określonej w przepisach o ochronie informacji niejawnych, chyba że osoba, która złożyła oświadczenie, wyraziła pisemną zgodę na ich ujawnienie. Oświadczenie przechowuje się przez okres 6 lat.
+Powszechne towarzystwo zarządza funduszem odpłatnie.
 
-6. W przypadku niezłożenia w terminie oświadczenia o stanie majątkowym organ nadzoru może nałożyć na członka zarządu karę pieniężną w wysokości do 10 000 zł.
+### 4.
 
-7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wzór oświadczenia o stanie majątkowym, uwzględniając w szczególności informacje, o których mowa w ust. 1.
+Pracownicze towarzystwo nie może mieć celu zarobkowego. Akcjonariusze pracowniczego towarzystwa nie mają prawa do udziału w zysku rocznym.
 
-**Art. 42.**
+### Art. 30.
 
-1. Członkiem zarządu powszechnego towarzystwa nie może być osoba będąca członkiem organu zarządzającego lub organu nadzorującego:
+### 1.
 
-- **1)** podmiotu będącego akcjonariuszem tego towarzystwa;
-- **2)** innego powszechnego towarzystwa;
-- **3)** depozytariusza przechowującego aktywa otwartego funduszu, dobrowolnego funduszu lub funduszu inwestycyjnego;
-- **4)** (uchylony) 4a) zakładu ubezpieczeń;
-- **4b)** banku;
-- **5)** towarzystwa funduszy inwestycyjnych lub podmiotu będącego akcjonariuszem towarzystwa funduszy inwestycyjnych;
-- **6)** podmiotu prowadzącego działalność maklerską w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub inną działalność w zakresie obrotu instrumentami finansowymi w rozumieniu tej ustawy;
-- **7)** podmiotu związanego w stosunku do któregokolwiek z podmiotów wymienionych w pkt 1–6.
+Kapitał akcyjny towarzystwa nie może być zebrany w drodze publicznej subskrypcji.
 
-2. Zakaz, o którym mowa w ust. 1, odnosi się także do osób pozostających z podmiotami, o których mowa w ust. 1, w stosunku pracy, stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.
+### 2.
 
-**Art. 42a.**
+Akcje towarzystwa są wyłącznie akcjami imiennymi i nie mogą być zamienione na akcje na okaziciela.
 
-1. Pracownicze towarzystwo jest obowiązane do wprowadzenia następujących kluczowych funkcji:
+### 3.
 
-- **1)** zarządzania ryzykiem;
-- **2)** audytu wewnętrznego.
+Towarzystwo nie może wydawać akcji o szczególnych uprawnieniach.
 
-2. Pracownicze towarzystwo umożliwia osobom i jednostkom organizacyjnym pełniącym kluczowe funkcje sprawowanie ich w obiektywny, uczciwy i niezależny sposób.
+### 4.
 
-3. Funkcja audytu wewnętrznego jest sprawowana niezależnie od funkcji zarządzania ryzykiem.
+Statut towarzystwa powinien traktować wszystkich akcjonariuszy w jednakowy sposób. W szczególności statut nie może przyznawać niektórym akcjonariuszom dodatkowych uprawnień lub ograniczać praw niektórych akcjonariuszy albo też nakładać na niektórych akcjonariuszy dodatkowych obowiązków.
 
-4. Kluczowej funkcji w pracowniczym towarzystwie nie może pełnić osoba lub jednostka organizacyjna pełniąca podobną kluczową funkcję u pracodawcy, z zastrzeżeniem ust. 5.
+### 5.
 
-5. Biorąc pod uwagę wielkość, charakter, skalę i złożoność działalności pracowniczego funduszu oraz pracowniczego towarzystwa, kluczowe funkcje w pracowniczym towarzystwie może pełnić ta sama osoba lub jednostka organizacyjna co u pracodawcy, pod warunkiem że pracownicze towarzystwo przekaże wyjaśnienie organowi nadzoru, jak zapobiega konfliktom interesów z pracodawcą lub jak je rozwiązuje.
+Jeżeli akcjonariuszem towarzystwa jest związek zawodowy, organizacja pracodawców, izba gospodarcza lub organizacja samorządu zawodowego, której działalność wynika z przepisów ustawy, do akcjonariusza takiego nie stosuje się przepisów ust. 3 i 4.
 
-6. Osoba lub jednostka organizacyjna pełniąca kluczową funkcję zgłasza wszelkie istotne ustalenia i zalecenia w zakresie pełnionych obowiązków pracowniczemu towarzystwu, które ustala, jakie działania należy podjąć.
+### Art. 31.
 
-7. Osoba lub jednostka organizacyjna pełniąca kluczową funkcję powiadamia organ nadzoru, jeżeli pracownicze towarzystwo nie podejmie we właściwym czasie odpowiednich działań zaradczych w następujących przypadkach:
+Minimalna wysokość kapitału akcyjnego powszechnego towarzystwa nie może być niższa niż równowartość w złotych 4 000 000 ECU, wyliczana według średniego kursu walut obcych Narodowego Banku Polskiego, obowiązującego w dniu sporządzenia statutu towarzystwa.
 
-- **1)** gdy osoba lub jednostka organizacyjna pełniąca daną kluczową funkcję stwierdzi istnienie znacznego ryzyka niespełnienia przez pracownicze towarzystwo wymogów określonych w ustawie, które może mieć znaczący wpływ na interesy członków funduszu oraz osób uprawnionych do otrzymania wypłaty, i zgłosi to pracowniczemu towarzystwu lub
-- **2)** gdy osoba lub jednostka organizacyjna pełniąca daną kluczową funkcję zauważy, w związku z pełnieniem tej kluczowej funkcji, naruszenie przepisów ustawowych, wykonawczych lub regulacji wewnętrznych mających zastosowanie do pracowniczego towarzystwa i jego działalności oraz zgłosi to pracowniczemu towarzystwu.
+### Art. 32.
 
-8. Pracownicze towarzystwo zapewnia osobom oraz jednostkom organizacyjnym pełniącym kluczowe funkcje, które zgłaszają informacje, o których mowa w ust. 7, ochronę przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania, zwłaszcza przed wypowiedzeniem przez pracodawcę stosunku pracy lub jego rozwiązaniem bez wypowiedzenia bez ważnego powodu lub rozwiązaniem umowy bez ważnego powodu.
+### 1.
 
-9. Przepis ust. 8 stosuje się również do tego, kto udzielił w jakiejkolwiek formie wsparcia zgłaszającemu informacje, o których mowa w ust. 7.
+Kapitał akcyjny towarzystwa jest pokrywany wyłącznie wkładem pieniężnym.
 
-10. Jeżeli w związku ze zgłoszonymi informacjami, o których mowa w ust. 7, doszło wobec osoby lub jednostki organizacyjnej zgłaszającej te informacje do działań o charakterze represyjnym, dyskryminacji lub innych rodzajów niesprawiedliwego traktowania, stosuje się odpowiednio przepisy art. 13–16 ustawy z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2023 r. poz. 970 oraz z 2024 r. poz. 834), z zastrzeżeniem ust. 11–14.
+### 2.
 
-11. Jeżeli w związku ze zgłoszonymi informacjami, o których mowa w ust. 7, doszło do wypowiedzenia umowy o pracę osobie zgłaszającej te informacje, a informacje te były zasadne, sąd pracy na skutek odwołania osoby, która zgłosiła te informacje, orzeka o bezskuteczności wypowiedzenia umowy o pracę, a jeżeli umowa uległa już rozwiązaniu – o przywróceniu tej osoby do pracy na poprzednich warunkach albo o odszkodowaniu.
+Kapitał akcyjny powszechnego towarzystwa powinien być opłacony w całości przed zarejestrowaniem towarzystwa.
 
-12. Jeżeli w związku ze zgłoszonymi informacjami, o których mowa w ust. 7, doszło do rozwiązania umowy o pracę bez wypowiedzenia z osobą zgłaszającą te informacje, a informacje te były zasadne, sąd pracy na skutek odwołania osoby, która zgłosiła te informacje, orzeka o przywróceniu tej osoby do pracy na poprzednich warunkach albo o odszkodowaniu.
+### 3.
 
-13. Jeżeli sąd pracy orzeka o odszkodowaniu w związku z wypowiedzeniem umowy o pracę lub rozwiązaniem umowy o pracę bez wypowiedzenia, jego wysokość ustala się w sposób określony w przepisach ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+Kapitał akcyjny powszechnego towarzystwa nie może pochodzić z pożyczki lub kredytu ani być obciążony w jakikolwiek sposób.
 
-14. Jeżeli w związku ze zgłoszonymi informacjami, o których mowa w ust. 7, doszło do rozwiązania umowy z jednostką organizacyjną zgłaszającą te informacje, a informacje te były zasadne, sąd na skutek żądania jednostki organizacyjnej, która zgłosiła te informacje, orzeka o odszkodowaniu, którego wysokość ustala się zgodnie z przepisami ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933 oraz z 2024 r. poz. 653).
+### Art. 33.
 
-**Art. 42b.**
+### 1.
 
-1. Funkcja zarządzania ryzykiem, o której mowa w art. 42a ust. 1 pkt 1, ma na celu ułatwienie funkcjonowania skutecznego systemu zarządzania ryzykiem, zintegrowanego ze strukturą organizacyjną oraz z procesami decyzyjnymi pracowniczego towarzystwa.
+Powszechne towarzystwo ma obowiązek utrzymywania kapitałów własnych na poziomie nie niższym niż jedna druga minimalnego kapitału akcyjnego określonego w art. 31.
 
-2. System zarządzania ryzykiem, o którym mowa w ust. 1, obejmuje – w sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa – rodzaje ryzyka, które mogą wystąpić w toku działalności pracowniczego towarzystwa, pracowniczego funduszu lub w podmiotach zewnętrznych, którym powierzono wykonywanie zadań pracowniczego towarzystwa, co najmniej w następujących obszarach:
+### 2.
 
-- **1)** zarządzanie aktywami i pasywami;
-- **2)** inwestycje, w szczególności w instrumenty pochodne, sekurytyzacje i podobne instrumenty finansowe;
-- **3)** zarządzanie płynnością i ryzykiem koncentracji;
-- **4)** zarządzanie ryzykiem operacyjnym;
-- **5)** inne techniki ograniczania ryzyka;
-- **6)** ryzyka związane z czynnikami środowiskowymi, społecznymi i czynnikami związanymi z ładem korporacyjnym oraz ryzyka związane z portfelem inwestycyjnym, a także zarządzaniem nim.
+O obniżeniu wysokości kapitałów własnych poniżej poziomu określonego w ust. 1 powszechne towarzystwo zawiadamia niezwłocznie Urząd Nadzoru.
 
-**Art. 42c.** Funkcja audytu wewnętrznego, o której mowa w art. 42a ust. 1 pkt 2, obejmuje – w sposób proporcjonalny do wielkości i organizacji wewnętrznej, a także do wielkości, charakteru, zakresu i złożoności działalności pracowniczego towarzystwa – ocenę adekwatności i skuteczności systemu kontroli wewnętrznej i innych elementów systemu zarządzania, w tym wykonywania zadań powierzonych osobom trzecim lub zewnętrznym jednostkom organizacyjnym.
+### 3.
 
-**Art. 42d.** W przypadku powierzenia przez pracownicze towarzystwo zarządzania aktywami pracowniczego funduszu podmiotom zewnętrznym spełniającym wymogi w zakresie wykonywania kluczowych funkcji, określone w art. 153 ust. 4 pkt 8 oraz w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2023 r. poz. 681, 825, 1723 i 1941), pracownicze towarzystwo jest zwolnione z obowiązku spełniania tych wymogów.
+Nieuzupełnienie wysokości kapitałów własnych do wymaganego poziomu w terminie wyznaczonym przez Urząd Nadzoru, nie krótszym niż 3 miesiące i nie dłuższym niż 12 miesięcy, jest podstawą cofnięcia przez Urząd Nadzoru zezwolenia na utworzenie towarzystwa.
 
-**Art. 43.** Członkowie pierwszej rady nadzorczej towarzystwa powoływani są na dwa lata.
+### Art. 34.
 
-**Art. 44.**
+Jeżeli założycielem lub założycielami powszechnego towarzystwa są osoby prawne, warunku określonego w przepisie art. 308 zdanie trzecie Kodeksu handlowego nie stosuje się.
 
-1. Członkiem rady nadzorczej towarzystwa może być osoba spełniająca wymogi określone w art. 41 ust. 1 pkt 1 i 2 oraz dająca rękojmię należytego wykonywania funkcji członka rady nadzorczej.
+### Art. 35.
 
-2. Przynajmniej połowa członków rady nadzorczej towarzystwa powinna posiadać wyższe wykształcenie prawnicze lub ekonomiczne, z tym że w przypadku pracowniczego towarzystwa wymóg ten powinna spełniać przynajmniej połowa członków rady nadzorczej powoływanych w inny sposób niż określony w art. 45 ust. 1.
+### 1.
 
-3. Przynajmniej połowa członków rady nadzorczej powszechnego towarzystwa jest powoływana spoza kręgu akcjonariuszy towarzystwa, podmiotów z nimi związanych, członków organu zarządzającego lub organu nadzorującego akcjonariusza towarzystwa, członków organu zarządzającego lub organu nadzorującego podmiotów związanych z akcjonariuszem towarzystwa, a także osób pozostających z akcjonariuszem lub podmiotem związanym z akcjonariuszem w stosunku pracy, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.
+Założycielem pracowniczego towarzystwa może być osoba fizyczna, osoba prawna lub jednostka organizacyjna nie posiadająca osobowości prawnej, mająca miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej.
 
-4. Przepisy ust. 2 i 3 stosuje się z uwzględnieniem art. 41 ust. 5.
+### 2.
 
-**Art. 45.**
+Pracodawca będący osobą prawną może być jednoosobowym założycielem pracowniczego towarzystwa.
 
-1. W skład rady nadzorczej pracowniczego towarzystwa wchodzą co najmniej w jednej drugiej osoby wybrane przez członków pracowniczego funduszu, na których rachunki zostały wpłacone składki w okresie ostatnich 12 miesięcy poprzedzających dzień wyborów.
+### Art. 36.
 
-2. Liczbę członków rady nadzorczej pracowniczego towarzystwa wybieranych przez członków pracowniczego funduszu określa statut towarzystwa, a tryb ich wyboru określa regulamin uchwalony przez radę nadzorczą.
+Ilekroć w niniejszej ustawie mowa jest o założycielach towarzystwa, należy przez to rozumieć także akcjonariuszy tego towarzystwa.
 
-3. Regulamin, o którym mowa w ust. 2, określa w szczególności, czy w wyborach mają uczestniczyć sami członkowie, czy też wybrani przez nich przedstawiciele, a także określa zasady odwoływania osób wybranych do rady nadzorczej przed upływem kadencji rady nadzorczej. Regulamin nie może uzależnić ważności wyboru od liczby osób uczestniczących w wyborach.
+### Art. 37.
 
-4. Jeżeli regulamin przewiduje wybory za pośrednictwem przedstawicieli członków, powinien określać także tryb wyboru i odwoływania przedstawicieli oraz czas trwania ich kadencji.
+### 1.
 
-5. Pierwszy wybór członków rady nadzorczej wybieranych przez członków pracowniczego funduszu powinien nastąpić nie później niż w terminie 3 miesięcy od dnia przyjęcia przez fundusz pierwszej składki. Do tego czasu rada nadzorcza działa w składzie wybranym przez założycieli pracowniczego towarzystwa i liczy nie mniej niż 5 osób.
+Ten sam podmiot może być akcjonariuszem wyłącznie jednego powszechnego towarzystwa.
 
-6. Niedokonanie wyboru członków rady nadzorczej wybieranych przez członków pracowniczego funduszu w terminie, o którym mowa w ust. 5, nie stanowi przeszkody do podejmowania ważnych uchwał przez radę nadzorczą.
+### 2.
 
-7. W przypadku wygaśnięcia, przed upływem kadencji rady nadzorczej, mandatu członka rady nadzorczej wybranego przez członków pracowniczego funduszu, rada nadzorcza ogłasza niezwłocznie wybory uzupełniające.
+Podmioty związane mogą być akcjonariuszami wyłącznie tego samego powszechnego towarzystwa.
 
-8. Przepisu ust. 1 nie stosuje się do pracowniczego funduszu będącego funduszem zdefiniowanej daty.
+### 3.
 
-**Art. 46.** Przepisy art. 385 § 3, 5 i 6 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”, stosuje się tylko do tych członków rady nadzorczej towarzystwa, którzy są powoływani w inny sposób niż określony w art. 45 ust. 1.
+W przypadku połączenia dwóch lub większej liczby podmiotów w sytuacji, gdy przed połączeniem każdy z nich jest akcjonariuszem innego powszechnego towarzystwa, oraz w przypadku, gdy podmioty będące dotychczas akcjonariuszami różnych powszechnych towarzystw stały się podmiotami związanymi, Urząd Nadzoru może wyrazić zgodę na odstąpienie od ograniczeń określonych w ust. 1 lub 2, na okres nie dłuższy niż 6 miesięcy, w celu umożliwienia podmiotowi działającemu w wyniku połączenia lub podmiotom, które stały się podmiotami związanymi, dostosowania ich działalności do wymogów ustawy.
 
-**Art. 47.** Pracownikiem powszechnego towarzystwa podejmującym decyzje o sposobie lokowania aktywów otwartego funduszu lub dobrowolnego funduszu nie może być osoba będąca członkiem organu zarządzającego lub organu nadzorującego albo pozostająca w stosunku pracy, stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotami, o których mowa w art. 42 ust. 1 pkt 1–7.
+### Art. 38.
 
-**Art. 47a.** Przepisy art. 41a stosuje się odpowiednio do pracowników powszechnych towarzystw, o których mowa w art. 47.
+### 1.
 
-**Art. 47b.**
+Każdorazowe nabycie lub objęcie akcji towarzystwa wymaga zezwolenia Urzędu Nadzoru, z zastrzeżeniem ust. 4. Czynność prawna dokonana z naruszeniem tego wymogu jest nieważna.
 
-1. Pracownicze towarzystwo jest obowiązane, biorąc pod uwagę swoją wielkość i organizację wewnętrzną, a także wielkość, charakter, zakres i złożoność działalności, ustanowić i stosować politykę wynagrodzeń wobec:
+### 2.
 
-- **1)** członków zarządu towarzystwa;
-- **2)** członków rady nadzorczej towarzystwa;
-- **3)** osób i jednostek organizacyjnych pełniących kluczowe funkcje określone w art. 42a ust. 1.
+Wniosek o zezwolenie składa, za pośrednictwem towarzystwa, podmiot zamierzający nabyć lub objąć akcje.
 
-2. Pracownicze towarzystwo regularnie, nie rzadziej niż co 12 miesięcy, podaje do publicznej wiadomości informacje dotyczące zakresu stosowania oraz zasad polityki wynagrodzeń, o której mowa w ust. 1, o ile nie stoi to w sprzeczności z przepisami rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ).
+### 3.
 
-3. Ustanawiając i stosując politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo przestrzega następujących zasad:
+Urząd Nadzoru zezwala na nabycie lub objęcie akcji, jeżeli wnioskodawca spełnia warunki określone w ustawie dla założycieli towarzystwa.
 
-- **1)** politykę wynagrodzeń ustanawia się, wdraża i prowadzi zgodnie z działalnością, profilem ryzyka, celami i długoterminowym interesem, stabilnością finansową oraz wynikami pracowniczego funduszu jako całości; polityka wynagrodzeń wspiera należyte, ostrożne i skuteczne zarządzanie pracowniczym funduszem;
-- **2)** polityka wynagrodzeń jest zgodna z długoterminowymi interesami członków funduszu oraz osób uprawnionych do otrzymania wypłaty;
-- **3)** w polityce wynagrodzeń uwzględnia się środki mające na celu zapobieganie konfliktom interesów;
-- **4)** polityka wynagrodzeń jest zgodna z należytym i skutecznym zarządzaniem ryzykiem i nie zachęca do podejmowania ryzyka, które nie jest zgodne z profilami ryzyka oraz zasadami ładu korporacyjnego pracowniczego towarzystwa;
-- **5)** pracownicze towarzystwo ustanawia ogólne zasady polityki wynagrodzeń, jest odpowiedzialne za jej wdrażanie oraz dokonuje przeglądu i aktualizacji tej polityki przynajmniej co 3 lata;
-- **6)** zarządzanie w zakresie wynagrodzeń i nadzoru nad nimi jest prowadzone w sposób zrozumiały, przejrzysty i skuteczny.
+### 4.
 
-4. Politykę wynagrodzeń, o której mowa w ust. 1, pracownicze towarzystwo stosuje także do innych pracowników pracowniczego towarzystwa, których działalność zawodowa może mieć wpływ na profil ryzyka pracowniczego towarzystwa.
+Wymóg określony w ust. 1 nie obowiązuje przy nabyciu lub objęciu akcji przez dotychczasowego akcjonariusza towarzystwa. W takim przypadku podmiot nabywający lub obejmujący akcje jedynie zawiadamia Urząd Nadzoru o nabyciu lub objęciu akcji w terminie 14 dni od daty nabycia lub objęcia akcji.
 
-**Art. 48.**
+### 5.
 
-1. Towarzystwo odpowiada wobec członków funduszu za wszelkie szkody spowodowane niewykonaniem lub nienależytym wykonaniem swych obowiązków w zakresie zarządzania funduszem i jego reprezentacji, chyba że niewykonanie lub nienależyte wykonanie tych obowiązków jest spowodowane okolicznościami, za które towarzystwo nie ponosi odpowiedzialności i którym nie mogło zapobiec mimo dołożenia najwyższej staranności.
+Przepisy ust. 1-4 stosuje się odpowiednio do nabycia praw z akcji towarzystwa.
 
-2. Za szkody z tytułu niewykonania lub nienależytego wykonania obowiązków, o których mowa w ust. 1, fundusz nie ponosi odpowiedzialności.
+### Art. 39.
 
-3. Jeżeli powszechne towarzystwo nie ponosi odpowiedzialności za szkodę na podstawie ust. 1, szkoda jest pokrywana ze środków Funduszu Gwarancyjnego, chyba że szkoda nastąpiła wyłącznie z winy poszkodowanego.
+### 1.
 
-4. Przepis ust. 3 stosuje się także w razie ogłoszenia upadłości powszechnego towarzystwa, jeżeli szkoda, za którą towarzystwo ponosi odpowiedzialność, nie może być pokryta z jego masy upadłości.
+Władzami towarzystwa są:
 
-4a. Przepisów ust. 3 i 4 nie stosuje się do dobrowolnego funduszu.
+### 1)
 
-5. Powierzenie wykonywania niektórych obowiązków osobie trzeciej nie ogranicza odpowiedzialności towarzystwa.
+zarząd,
 
-**Art. 48a.** Powierzenie przez fundusz lub towarzystwo niektórych obowiązków osobie trzeciej nie wyłącza odpowiedzialności towarzystwa określonej w art. 62, 197, 198 i 204.
+### 2)
 
-**Art. 49.**
+rada nadzorcza,
 
-1. Do zachowania tajemnicy zawodowej dotyczącej działalności funduszu są obowiązani:
+### 3)
 
-- **1)** członkowie władz statutowych towarzystwa;
-- **2)** osoby pozostające z towarzystwem w stosunku pracy;
-- **3)** osoby pozostające z towarzystwem lub funduszem w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze;
-- **4)** pracownicy podmiotów pozostających z towarzystwem lub funduszem w stosunku, o którym mowa w pkt 3;
-- **5)** osoby pozostające z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze;
-- **6)** pracownicy osób pozostających z osobami, o których mowa w pkt 3, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.
+walne zgromadzenie.
 
-1a. Obowiązek, o którym mowa w ust. 1, trwa po ustaniu funkcji, rozwiązaniu stosunku pracy, zlecenia lub innego stosunku prawnego o podobnym charakterze.
+### 2.
 
-2. Tajemnica zawodowa, w rozumieniu ust. 1, obejmuje informacje związane z lokatami funduszu, rejestrem członków funduszu, rozporządzeniami członków funduszu na wypadek śmierci oraz oświadczeniami, o których mowa w art. 83, których ujawnienie mogłoby naruszyć interes członków funduszu lub interes uczestników obrotu na rynku regulowanym w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+Towarzystwo może mieć także komisję rewizyjną. Do komisji rewizyjnej stosuje się odpowiednio przepisy art. 43 i 44, art. 59 ust. 1, art. 148 pkt 3, art. 150 pkt 1 lit. b), art. 158 ust. 1 pkt 5 lit. a), art. 204 ust. 1 pkt 2 oraz art. 206 i 209 dotyczące rady nadzorczej.
 
-3. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową prokuratorowi, w związku z powzięciem podejrzenia o popełnienie przestępstwa, Szefowi Krajowej Administracji Skarbowej oraz naczelnikowi urzędu celno-skarbowego, w zakresie i na zasadach określonych w odrębnych przepisach, albo na żądanie prokuratora lub sądu, albo innych właściwych organów państwowych, w związku z toczącymi się postępowaniami w sprawach dotyczących działalności funduszu, towarzystwa lub depozytariusza, w tym także na żądanie organu nadzoru, w związku ze sprawowaniem przez niego nadzoru nad działalnością funduszy.
+### Art. 40.
 
-3a. (uchylony) 3b. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową na żądanie komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym albo z wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza, jeżeli informacja ta jest niezbędna w tym postępowaniu.
+### 1.
 
-4. Przepisu ust. 1 nie stosuje się również w przypadku udostępnienia informacji objętej tajemnicą zawodową administracyjnemu organowi egzekucyjnemu oraz centralnemu biuru łącznikowemu, o którym mowa w art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), w zakresie danych zawartych w umowach, o których mowa w art. 88a, oraz w deklaracjach, o których mowa w art. 18 ust. 1 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+O ile statut nie stanowi inaczej, członków zarządu powszechnego towarzystwa powołuje i odwołuje walne zgromadzenie.
 
-5. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową Europejskiemu Urzędowi Nadzoru Bankowego oraz Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, jeżeli taki obowiązek wynika z przepisów dotyczących utworzenia i działalności tych podmiotów.
+### 2.
 
-5a. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową organowi nadzoru w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135).
+Członków zarządu pracowniczego towarzystwa powołuje i odwołuje rada nadzorcza.
 
-5b. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową Rzecznikowi Finansowemu, w zakresie niezbędnym do realizacji przez niego ustawowych zadań.
+### 3.
 
-6. Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową w postępowaniu wszczętym w związku z likwidacją funduszu.
+Członków pierwszego zarządu pracowniczego towarzystwa powołują założyciele na okres roku.
 
-**Art. 50.**
+### Art. 41.
 
-1. Towarzystwo nie może:
+### 1.
 
-- **1)** nabywać lub obejmować udziałów, akcji albo innych papierów wartościowych, jednostek uczestnictwa w funduszach inwestycyjnych lub tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę za granicą ani uczestniczyć w spółkach niemających osobowości prawnej;
-- **2)** (uchylony)
-- **3)** udzielać pożyczek, gwarancji i poręczeń, z wyjątkiem pożyczek z zakładowego funduszu świadczeń socjalnych;
-- **4)** zaciągać pożyczek i kredytów, w tym także dokonywać emisji obligacji, jeżeli wysokość zobowiązań towarzystwa z tego tytułu przekroczy łącznie 20 % wartości kapitałów własnych.
+Członkiem zarządu towarzystwa może być osoba, która spełnia łącznie następujące wymogi:
 
-2. Przepisu ust. 1 pkt 1 nie stosuje się do:
+### 1)
 
-- **1)** papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski;
-- **1a)** obligacji, bankowych papierów wartościowych lub listów zastawnych, emitowanych przez Bank Gospodarstwa Krajowego;
-- **2)** udziałów lub akcji:
-    - **a)** w spółce prowadzącej rejestr członków funduszu zarządzanego przez dane towarzystwo,
-    - **b)** w spółce rozliczającej transakcje zawierane na rynku kapitałowym w ilości niepowodującej powstania stosunku dominacji w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2024 r. poz. 620).
-    - **c)** (uchylona)
+posiada pełną zdolność do czynności prawnych,
 
-- **3)** (uchylony)
-- **4)** (uchylony)
+### 2)
 
-**Art. 51.**
+nie była skazana prawomocnym wyrokiem za przestępstwo przeciwko mieniu, wiarygodności dokumentów, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwo skarbowe lub przestępstwo, o którym mowa w rozdziale 22,
 
-1. Towarzystwo przechowuje i archiwizuje dokumenty i inne nośniki informacji funduszu, którym zarządza.
+### 3)
 
-2. W przypadku likwidacji funduszu, w sposób określony w art. 71 ust. 1, dokumenty i inne nośniki informacji, o których mowa w ust. 1, przechowuje likwidator tego funduszu, a w przypadku likwidacji pracowniczego funduszu, w sposób określony w art. 75, dokumenty i inne nośniki informacji, o których mowa w ust. 1, przechowuje depozytariusz. Obowiązek przechowania trwa przez pięćdziesiąt lat od chwili zakończenia likwidacji funduszu.
+posiada wyższe wykształcenie,
 
-3. Niezależnie od obowiązków określonych w ust. 2 depozytariusz przechowuje i archiwizuje wszelkie dokumenty i inne nośniki informacji, związane z wykonywaniem przez niego zadań depozytariusza, przez pięćdziesiąt lat od chwili zakończenia likwidacji funduszu.
+### 4)
 
-4. W przypadku upadłości lub likwidacji depozytariusza, do przechowywania dokumentów i innych nośników informacji, związanych z zarządzaniem funduszem lub wykonywaniem zadań depozytariusza, stosuje się przepis art. 476 § 3 Kodeksu spółek handlowych. Właściwy sąd niezwłocznie zawiadamia organ nadzoru o wyznaczonym przechowawcy.
+legitymuje się stażem pracy nie krótszym niż 7 lat,
 
-**Art. 52.** W sprawach nieuregulowanych w ustawie do towarzystw stosuje się przepisy Kodeksu spółek handlowych.
+### 5)
 
-#### Rozdział 4 Warunki podejmowania działalności przez towarzystwa emerytalne
+daje rękojmię należytego wykonywania funkcji członka zarządu, z zastrzeżeniem ust. 4.
 
-**Art. 53.** Utworzenie towarzystwa wymaga zezwolenia organu nadzoru.
+### 2.
 
-**Art. 54.**
+Przynajmniej jedna trzecia składu zarządu powinna legitymować się wyższym wykształceniem prawniczym lub ekonomicznym.
 
-1. Zezwolenie jest wydawane na wniosek założycieli towarzystwa, do którego dołącza się:
+### 3.
 
-- **1)** statut towarzystwa;
-- **2)** zgodę założycieli na zawiązanie towarzystwa i brzmienie statutu oraz na objęcie akcji przez założycieli;
-- **3)** regulamin organizacyjny towarzystwa określający w szczególności sposób zapobiegania ujawnianiu informacji, których wykorzystanie mogłoby naruszać interes członków funduszu, lub która po takim ujawnieniu mogłaby w istotny sposób wpłynąć na cenę instrumentów finansowych lub powiązanych z nimi pochodnych instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **4)** listę założycieli wraz z informacją o tym, czy są podmiotami związanymi i jaki jest charakter istniejących między nimi powiązań, a także dokumentami potwierdzającymi ich status prawny i pochodzenie środków pieniężnych przeznaczonych na pokrycie kapitału zakładowego towarzystwa;
-- **5)** listę członków władz statutowych towarzystwa, z wyłączeniem osób, o których mowa w art. 45, wraz z ich oświadczeniami o wyrażeniu zgody na pełnienie funkcji we władzach statutowych towarzystwa oraz spełnianiu wszystkich wymogów określonych w ustawie, a także danymi osobowymi tych osób oraz opisem ich kwalifikacji i dotychczasowej działalności zawodowej;
-- **6)** zaświadczenia o niekaralności członków władz statutowych towarzystwa, w zakresie wynikającym z art. 41 ust. 1 pkt 2;
-- **7)** dokumenty przedstawiające sytuację finansową wszystkich akcjonariuszy towarzystwa w okresie ostatnich 5 lat poprzedzających datę złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych oraz zaległości z tytułu składek, do których poboru obowiązany jest Zakład Ubezpieczeń Społecznych;
-- **8)** plan organizacyjny i finansowy działalności towarzystwa na 3 lata.
+Wymóg określony w ust. 1 pkt 4 powinien być spełniony przez co najmniej dwie trzecie składu zarządu.
 
-2. Wraz z wnioskiem o zezwolenie na utworzenie powszechnego towarzystwa założyciele mogą złożyć wniosek o wydanie przez organ nadzoru promesy zezwolenia na utworzenie otwartego funduszu, dołączając do tego wniosku:
+### 4.
 
-- **1)** projekt statutu funduszu;
-- **2)** projekt umowy z depozytariuszem;
-- **3)** dane osobowe osób, które towarzystwo zamierza zatrudnić po utworzeniu, mających istotny wpływ na gospodarkę finansową funduszu;
-- **4)** listę osób, które zostaną wyznaczone przez depozytariusza, bezpośrednio odpowiedzialnych za należyte wykonywanie obowiązków określonych w projekcie umowy;
-- **5)** informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 3 i 4, ze wskazaniem, które z tych osób są doradcami inwestycyjnymi.
+Ocena spełnienia wymogu określonego w ust. 1 pkt 5 następuje na podstawie załączników do wniosku o zezwolenie na utworzenie towarzystwa, o których mowa w art. 54 ust. 1 pkt 5 i 6.
 
-**Art. 55.**
+### 5.
 
-1. Organ nadzoru wydaje decyzję w sprawie zezwolenia w terminie 3 miesięcy od dnia złożenia wniosku.
+Jeżeli wymogi określone w ust. 2 lub 3 nie są spełnione w związku z odwołaniem członka zarządu, towarzystwo jest obowiązane, w terminie 6 miesięcy, dostosować swoją działalność do wymogów określonych w ustawie.
 
-2. Wydanie zezwolenia jest równoznaczne z zatwierdzeniem przez organ nadzoru statutu towarzystwa.
+### Art. 42.
 
-**Art. 56.**
+### 1.
 
-1. Jeżeli jednocześnie z wnioskiem o zezwolenie na utworzenie powszechnego towarzystwa założyciele złożyli wniosek o wydanie przez organ nadzoru promesy zezwolenia na utworzenie otwartego funduszu, a nie zachodzą podstawy do odmowy jej wydania, organ nadzoru wydaje promesę wraz z wydaniem zezwolenia na utworzenie powszechnego towarzystwa.
+Członkiem zarządu powszechnego towarzystwa nie może być osoba będąca członkiem organu zarządzającego lub organu nadzoru:
 
-2. W promesie organ nadzoru określa okres jej ważności, który nie może być krótszy niż 6 miesięcy.
+### 1)
 
-3. W okresie ważności promesy organ nadzoru nie może odmówić wydania zezwolenia na utworzenie otwartego funduszu, chyba że nastąpią zmiany w treści załączników, o których mowa w art. 14, w stosunku do treści załączników określonych w art. 54 ust. 1 pkt 1 i ust. 2.
+podmiotu będącego akcjonariuszem tego towarzystwa,
 
-4. Odmowa wydania promesy zezwolenia na utworzenie funduszu może nastąpić z przyczyn, o których mowa w art. 15 ust. 2.
+### 2)
 
-**Art. 57.** Organ nadzoru odmawia wydania zezwolenia na utworzenie towarzystwa, jeżeli:
+innego powszechnego towarzystwa,
 
-**Art. 58.**
+### 3)
 
-1. Zmiana statutu towarzystwa, depozytariusza lub umowy z depozytariuszem wymaga zezwolenia organu nadzoru. Do wniosku o zmianę statutu towarzystwa dołącza się uchwałę walnego zgromadzenia, a w przypadku podwyższenia kapitału zakładowego towarzystwa – dowód opłacenia podwyższonego kapitału zakładowego. Do wniosku o wydanie zezwolenia na zmianę umowy z depozytariuszem dołącza się umowę zmieniającą umowę z depozytariuszem.
+depozytariusza przechowującego aktywa otwartego funduszu lub funduszu inwestycyjnego,
 
-1a. Nie wymaga uzyskania zezwolenia, o którym mowa w ust. 1, zmiana statutu towarzystwa, jeżeli zmiana statutu jest związana z utworzeniem funduszu będącego funduszem zdefiniowanej daty.
+### 4)
 
-2. Organ nadzoru odmawia wydania zezwolenia, jeżeli zmiana statutu towarzystwa, depozytariusza lub umowy z depozytariuszem jest sprzeczna z prawem lub interesem członków funduszu.
+narodowego funduszu inwestycyjnego lub firmy zarządzającej majątkiem narodowego funduszu inwestycyjnego,
 
-3. Zezwolenie na zmianę statutu towarzystwa jest równoznaczne z zezwoleniem na zmianę statutu funduszu w zakresie określonym w art. 13 ust. 2 pkt 2 i 4. Zezwolenie na zmianę umowy z depozytariuszem jest równoznaczne z zezwoleniem na zmianę statutu funduszu w zakresie określonym w art. 13 ust. 2 pkt 5.
+### 5)
 
-4. Zmiana listy osób, o której mowa w art. 14 ust. 1 pkt 5, wymaga poinformowania organu nadzoru przez depozytariusza. W terminie 14 dni organ nadzoru może odmówić wydania zgody na zmianę tej listy, z przyczyn określonych w art. 15 ust. 2 pkt 3.
+towarzystwa funduszy inwestycyjnych lub podmiotu będącego akcjonariuszem towarzystwa funduszy inwestycyjnych,
 
-5. Brak odmowy wydania zgody na zmianę listy w terminie określonym w ust. 4 jest równoznaczny z przyjęciem zmian listy.
+### 6)
 
-6. W przypadku braku odmowy wydania zgody, o której mowa w ust. 5, depozytariusz niezwłocznie zawiadamia fundusz o zmianie listy.
+podmiotu prowadzącego działalność maklerską w rozumieniu przepisów prawo o publicznym obrocie papierami wartościowymi oraz inną działalność w zakresie publicznego obrotu papierami wartościowymi,
 
-**Art. 58a.**
+### 7)
 
-1. W terminie 2 tygodni od dnia udzielenia zezwolenia na utworzenie pracowniczego towarzystwa, którego akcjonariuszem jest pracodawca zagraniczny, organ nadzoru:
+podmiotu związanego w stosunku do któregokolwiek z podmiotów wymienionych w pkt 1-6.
 
-- **1)** zawiadamia zagraniczny organ nadzoru i Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych o udzieleniu tego zezwolenia, dołączając informację o jego treści oraz dane określające firmę, siedzibę i adres pracodawcy zagranicznego;
-- **2)** zwraca się do zagranicznego organu nadzoru o przekazanie informacji o wymogach prawa ubezpieczeń społecznych i prawa pracy dotyczących emerytur pracowniczych, zgodnie z którymi pracownicze towarzystwo zarządzające pracowniczym funduszem realizuje program emerytalny pracodawcy zagranicznego.
+### 2.
 
-2. Organ nadzoru powiadamia pracownicze towarzystwo o wysłaniu zawiadomienia, o którym mowa w ust. 1 pkt 1.
+Zakaz, o którym mowa w ust. 1, odnosi się także do osób pozostających z podmiotami, o których mowa w ust. 1, w stosunku pracy, stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze.
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku udzielenia zezwolenia na zmianę statutu pracowniczego towarzystwa wynikającą z nabycia lub objęcia akcji przez pracodawcę zagranicznego.
+### Art. 43.
 
-4. W terminie tygodnia od dnia otrzymania informacji, o której mowa w ust. 1 pkt 2, organ nadzoru przekazuje w formie przesyłki listowej te informacje pracowniczemu towarzystwu, zarządzającemu pracowniczym funduszem, które zamierza realizować program emerytalny pracodawcy zagranicznego. Po otrzymaniu tej informacji pracownicze towarzystwo może rozpocząć realizację programu emerytalnego pracodawcy zagranicznego.
+Członkowie pierwszej rady nadzorczej towarzystwa powoływani są na dwa lata.
 
-5. W przypadku nieotrzymania przez pracownicze towarzystwo informacji, o której mowa w ust. 1 pkt 2, w terminie 6 tygodni od dnia powiadomienia, o którym mowa w ust. 2, pracownicze towarzystwo może rozpocząć realizację programu emerytalnego pracodawcy zagranicznego po upływie tego terminu.
+### Art. 44.
 
-**Art. 59.**
+### 1.
 
-1. Zezwolenia organu nadzoru wymaga powołanie członków zarządu i rady nadzorczej towarzystwa, chyba że powołanie dotyczy osób, które pełniły funkcje w tych organach w poprzedniej kadencji.
+Członkiem rady nadzorczej towarzystwa może być osoba spełniająca wymogi określone w art. 41 ust. 1 pkt 1 i 2 oraz dająca rękojmię należytego wykonywania funkcji członka rady nadzorczej.
 
-1a. Organ nadzoru odmawia wydania zezwolenia, o którym mowa w ust. 1, jeżeli przedstawione osoby nie spełniają wymogów określonych w ustawie.
+### 2.
 
-2. Przepisu ust. 1 nie stosuje się do członków rady nadzorczej pracowniczego towarzystwa wybieranych przez członków pracowniczego funduszu.
+Przynajmniej połowa członków rady nadzorczej towarzystwa powinna posiadać wyższe wykształcenie prawnicze lub ekonomiczne, z tym że w przypadku pracowniczego towarzystwa wymóg ten powinna spełniać przynajmniej połowa członków rady nadzorczej powoływanych w inny sposób niż określony w art. 45 ust. 1.
 
-3. Organ nadzoru cofa zezwolenie, o którym mowa w ust. 1, osobom, które przestały spełniać wymogi określone:
+### 3.
 
-- **1)** w art. 41 ust. 1 pkt 1, 2 lub 5 dla członków zarządu towarzystwa;
-- **2)** w art. 44 ust. 1 dla członków rady nadzorczej towarzystwa.
+Przynajmniej połowa członków rady nadzorczej powszechnego towarzystwa jest powoływana spoza kręgu akcjonariuszy towarzystwa oraz członków ich organu zarządzającego i organu nadzoru.
 
-4. Organ nadzoru cofa zezwolenie członkom zarządu powszechnego towarzystwa, także gdy odmówią oni złożenia oświadczenia majątkowego, o którym mowa w art. 41a, albo gdy pomimo pisemnego wezwania organu nadzoru nie złożą tego oświadczenia w terminie 30 dni od dnia otrzymania wezwania.
+### 4.
 
-5. Przepisy ust. 3 i 4 stosuje się również do członków zarządu i rady nadzorczej pierwszej kadencji.
+Przepis ust. 1 stosuje się z odpowiednim uwzględnieniem art. 41 ust. 4, a przepis ust. 2 i 3 - z odpowiednim uwzględnieniem art. 41 ust. 5.
 
-**Art. 60.** Towarzystwo jest obowiązane zawiadamiać niezwłocznie organ nadzoru o każdej zmianie danych zawartych w załączniku do wniosku o utworzenie towarzystwa, o którym mowa w art. 54 ust. 1 pkt 3.
+### Art. 45.
 
-#### Rozdział 5 Przejęcie zarządzania funduszem emerytalnym, łączenie się towarzystw emerytalnych i likwidacja funduszu emerytalnego
+### 1.
 
-**Art. 61.** W przypadku ogłoszenia upadłości towarzystwa lub otwarcia jego likwidacji organ nadzoru wydaje decyzję o cofnięciu zezwolenia na utworzenie towarzystwa.
+W skład rady nadzorczej pracowniczego towarzystwa wchodzą co najmniej w jednej drugiej osoby wybrane przez członków pracowniczego funduszu, na których rachunki zostały wpłacone składki w okresie ostatnich 12 miesięcy poprzedzających dzień wyborów.
 
-**Art. 62.**
+### 2.
 
-1. Organ nadzoru może wydać decyzję o cofnięciu zezwolenia na utworzenie towarzystwa, jeżeli stwierdzi, że:
+Liczbę członków rady nadzorczej pracowniczego towarzystwa wybieranych przez członków pracowniczego funduszu określa statut towarzystwa, a tryb ich wyboru określa regulamin uchwalony przez radę nadzorczą.
 
-- **1)** fundusz lub towarzystwo rażąco lub uporczywie narusza przepisy ustawy, statutu funduszu lub towarzystwa;
-- **2)** fundusz lub towarzystwo nie spełnia warunków działania określonych w ustawie;
-- **3)** fundusz lub towarzystwo prowadzi działalność, rażąco naruszając interes członków funduszu;
-- **4)** fundusz, prowadząc działalność transgraniczną, nie przestrzega wymogów prawa ubezpieczeń społecznych i prawa pracy przyjmującego państwa członkowskiego, dotyczących pracowniczych programów emerytalnych.
+### 3.
 
-2. Przed cofnięciem zezwolenia organ nadzoru może powiadomić towarzystwo o stwierdzonych nieprawidłowościach w działalności funduszu lub towarzystwa, których wystąpienie warunkuje wydanie decyzji o cofnięciu zezwolenia. Organ nadzoru w powiadomieniu wskazuje termin, w którym towarzystwo ma doprowadzić działalność swoją lub funduszu do właściwego stanu. W przypadku gdy nieprawidłowości były szczególnie rażące, organ nadzoru, niezależnie od skierowanego powiadomienia, może również nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł.
+Regulamin, o którym mowa w ust. 2, określa w szczególności, czy w wyborach mają uczestniczyć sami członkowie, czy też wybrani przez nich przedstawiciele, a także określa zasady odwoływania osób wybranych do rady nadzorczej przed upływem kadencji rady nadzorczej. Regulamin nie może uzależnić ważności wyboru od liczby osób uczestniczących w wyborach.
 
-3. Do powiadomienia stosuje się odpowiednio art. 204b ust. 1 i 2.
+### 4.
 
-4. Po upływie terminu wyznaczonego w powiadomieniu i niedoprowadzeniu działalności towarzystwa lub funduszu do właściwego stanu, organ nadzoru może cofnąć zezwolenie na utworzenie towarzystwa.
+Jeżeli regulamin przewiduje wybory za pośrednictwem przedstawicieli członków, powinien określać także tryb wyboru i odwoływania przedstawicieli oraz czas trwania ich kadencji.
 
-5. W przypadku zaniechania kierowania przez organ nadzoru powiadomienia, o którym mowa w ust. 2, organ nadzoru, cofając zezwolenie na utworzenie towarzystwa, może nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł, jeżeli nieprawidłowości, stanowiące podstawę cofnięcia zezwolenia, były szczególnie rażące.
+### 5.
 
-6. Organ nadzoru przekazuje informację o wydaniu ostatecznej decyzji, o której mowa w ust. 1, Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, jeżeli dotyczy ona pracowniczego towarzystwa.
+Pierwszy wybór członków rady nadzorczej wybieranych przez członków pracowniczego funduszu powinien nastąpić nie później niż w terminie 3 miesięcy od dnia przyjęcia przez fundusz pierwszej składki. Do tego czasu rada nadzorcza działa w składzie wybranym przez założycieli pracowniczego towarzystwa i liczy nie mniej niż 5 osób.
 
-**Art. 63.** W decyzji o cofnięciu zezwolenia organ nadzoru określa datę wejścia tej decyzji w życie.
+### 6.
 
-**Art. 64.**
+Niedokonanie wyboru członków rady nadzorczej wybieranych przez członków pracowniczego funduszu w terminie, o którym mowa w ust. 5, nie stanowi przeszkody do podejmowania ważnych uchwał przez radę nadzorczą.
 
-1. Od dnia wejścia w życie decyzji o cofnięciu zezwolenia na utworzenie towarzystwa fundusz jest reprezentowany i zarządzany przez depozytariusza, z zastrzeżeniem art. 64a. W tym czasie fundusz nie może przyjmować nowych członków.
+### 7.
 
-2. Depozytariusz, za zgodą organu nadzoru, może powierzyć zarządzanie aktywami funduszu uprawnionemu podmiotowi zewnętrznemu w zakresie, o którym mowa w art. 69 ust. 2 pkt 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, jeżeli jest to zgodne z interesem członków funduszu.
+W przypadku wygaśnięcia, przed upływem kadencji rady nadzorczej, mandatu członka rady nadzorczej wybranego przez członków pracowniczego funduszu, rada nadzorcza ogłasza niezwłocznie wybory uzupełniające.
 
-3. Powierzenie zarządzania aktywami funduszu wymaga zezwolenia organu nadzoru. Organ nadzoru udziela zezwolenia, jeżeli jest to zgodne z interesem członków funduszu oraz gdy podmiot zewnętrzny daje rękojmię należytego zarządzania aktywami funduszu. W zakresie zarządzania aktywami funduszu, do podmiotu zewnętrznego stosuje się odpowiednio przepisy art. 204 ust. 1 pkt 3, ust. 2–9, art. 204a ust. 1, 2 pkt 3, ust. 3–8 i art. 204b.
+### Art. 46.
 
-4. Organ nadzoru może cofnąć zezwolenie, o którym mowa w ust. 3, jeżeli podmiot zewnętrzny narusza przepisy prawa, interes członków funduszu lub utracił rękojmię należytego zarządzania aktywami funduszu.
+Przepisy art. 379 § 3-5 Kodeksu handlowego stosuje się tylko do tych członków rady nadzorczej towarzystwa, którzy są powoływani w inny sposób niż określony w art. 45 ust. 1.
 
-5. Jeżeli w okresie 3 miesięcy od dnia wejścia w życie decyzji o cofnięciu zezwolenia zarządzanie otwartym funduszem nie zostanie przejęte przez inne powszechne towarzystwo, zgodnie z art. 66 ust. 3, przejęcia zarządzania tym funduszem dokonuje powszechne towarzystwo zarządzające otwartym funduszem, który osiągnął najwyższą stopę zwrotu za ostatnie 36 miesięcy, o której mowa w art. 172.
+### Art. 47.
 
-6. W przypadku osiągnięcia najwyższej stopy zwrotu przez więcej niż jeden otwarty fundusz, zarządzanie funduszem przejmuje to powszechne towarzystwo, które zarządza otwartym funduszem mającym najniższą wartość aktywów netto na koniec miesiąca poprzedzającego miesiąc, w którym decyzja o cofnięciu zezwolenia weszła w życie, spośród tych otwartych funduszy.
+Pracownikiem powszechnego towarzystwa, mającym istotny wpływ na gospodarkę finansową funduszu, nie może być osoba będąca członkiem organu zarządzającego lub organu nadzoru albo pozostająca w stosunku pracy, stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotami, o których mowa w art. 42 ust. 1.
 
-7. Powszechne towarzystwo, o którym mowa w ust. 5 albo 6, może złożyć organowi nadzoru pisemne oświadczenie o odmowie przejęcia zarządzania otwartym funduszem, w terminie 7 dni od dnia upływu 3 miesięcy, o którym mowa w ust. 5.
+### Art. 48.
 
-8. Organ nadzoru niezwłocznie informuje w formie pisemnej powszechne towarzystwa, które osiągnęły stopę zwrotu za ostatnie 36 miesięcy powyżej średniej ważonej stopy zwrotu, o której mowa w art. 173, o złożeniu oświadczenia, o którym mowa w ust. 7. W terminie 7 dni od dnia doręczenia informacji przez organ nadzoru powszechne towarzystwo może złożyć organowi nadzoru pisemną deklarację zamiaru przejęcia zarządzania otwartym funduszem. Jeżeli deklarację złoży więcej niż jedno powszechne towarzystwo, zarządzanie przejmuje powszechne towarzystwo, które zarządza otwartym funduszem o wyższej stopie zwrotu. Przepis ust. 6 stosuje się odpowiednio.
+### 1.
 
-9. Jeżeli żadne z powszechnych towarzystw nie złoży deklaracji, o której mowa w ust. 8, zarządzanie otwartym funduszem przejmuje powszechne towarzystwo zarządzające tym funduszem, którego aktywa netto miały najwyższą wartość na koniec miesiąca poprzedzającego miesiąc, w którym decyzja o cofnięciu zezwolenia na utworzenie powszechnego towarzystwa weszła w życie.
+Towarzystwo odpowiada wobec członków funduszu za wszelkie szkody spowodowane niewykonaniem lub nienależytym wykonaniem swych obowiązków w zakresie zarządzania funduszem i jego reprezentacji, chyba że niewykonanie lub nienależyte wykonanie tych obowiązków jest spowodowane okolicznościami, za które towarzystwo nie ponosi odpowiedzialności i którym nie mogło zapobiec mimo dołożenia najwyższej staranności.
 
-10. Przejęcie zarządzania następuje na warunkach określonych w decyzji organu nadzoru.
+### 2.
 
-**Art. 64a.**
+Za szkody z tytułu niewykonania lub nienależytego wykonania obowiązków, o których mowa w ust. 1, fundusz nie ponosi odpowiedzialności.
 
-1. Od dnia wejścia w życie decyzji o cofnięciu zezwolenia na utworzenie towarzystwa lub od dnia wydania decyzji o usunięciu towarzystwa z ewidencji PPK, o której mowa w art. 63 ust. 4, 5 lub 7 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, fundusz emerytalny, będący funduszem zdefiniowanej daty, jest reprezentowany i zarządzany przez depozytariusza funduszu.
+### 3.
 
-2. W przypadku, o którym mowa w ust. 1, depozytariusz funduszu emerytalnego, o którym mowa w ust. 1, niezwłocznie podejmuje czynności zmierzające do przejęcia zarządzania funduszem przez inne towarzystwo wpisane do ewidencji PPK.
+Jeżeli powszechne towarzystwo nie ponosi odpowiedzialności za szkodę w myśl ust. 1, szkoda jest pokrywana ze środków Funduszu Gwarancyjnego, chyba że szkoda nastąpiła wyłącznie z winy poszkodowanego. Przepis art. 180 stosuje się odpowiednio.
 
-3. Przejęcie zarządzania dobrowolnym funduszem, o którym mowa w ust. 1, przez inne powszechne towarzystwo wpisane do ewidencji PPK wymaga dokonania przez depozytariusza tego funduszu zmiany statutu funduszu przejmowanego w zakresie, o którym mowa w art. 13 ust. 2 pkt 2–4. Towarzystwo przejmujące zarządzanie wstępuje w prawa i obowiązki organu funduszu z chwilą wejścia w życie zmiany statutu w zakresie, o którym mowa w art. 13 ust. 2 pkt 2–
+### 4.
 
-4.
+Przepis ust. 3 stosuje się także w razie ogłoszenia upadłości powszechnego towarzystwa, jeżeli szkoda, za którą towarzystwo ponosi odpowiedzialność, nie może być pokryta z jego masy upadłości. Pokrycie szkody z masy upadłości następuje z zachowaniem kolejności określonej w art. 177 ust. 2.
 
-4. Przejęcie zarządzania pracowniczym funduszem, o którym mowa w ust. 1, przez inne pracownicze towarzystwo wpisane do ewidencji PPK wymaga dokonania przez depozytariusza tego funduszu zmiany statutu funduszu przejmowanego w zakresie, o którym mowa w art. 13 ust. 2 pkt 2–4. Towarzystwo przejmujące zarządzanie wstępuje w prawa i obowiązki organu funduszu z chwilą wejścia w życie zmiany statutu w zakresie, o którym mowa w art. 13 ust. 2 pkt 2–
+### 5.
 
-4.
+Powierzenie wykonywania niektórych obowiązków osobie trzeciej nie ogranicza odpowiedzialności towarzystwa.
 
-5. Zmiana statutu, o której mowa w ust. 3 lub 4, nie wymaga zezwolenia organu nadzoru.
+### Art. 49.
 
-6. Zmiana statutu, o której mowa w ust. 3 lub 4, wchodzi w życie z dniem ogłoszenia.
+### 1.
 
-7. Do przejęcia zarządzania funduszem emerytalnym, o którym mowa w ust. 1, nie stosuje się przepisów art. 25 ust. 2, art. 64, art. 66 i art. 68–72.
+Do zachowania tajemnicy zawodowej dotyczącej działalności funduszu są obowiązani:
 
-8. Towarzystwo, podmiot, któremu zlecono prowadzenie rejestru członków funduszu, podmiot, o którym mowa w art. 152 lub art. 153, podmiot, któremu zlecono prowadzenie ksiąg rachunkowych funduszu lub dokonywanie wyceny aktywów funduszu, są obowiązane niezwłocznie wydać depozytariuszowi reprezentującemu fundusz dokumenty oraz inne nośniki informacji zawierające informacje dotyczące funduszu emerytalnego, o którym mowa w ust. 1.
+### 1)
 
-9. Depozytariusz, reprezentując fundusz emerytalny, o którym mowa w ust. 1, jest obowiązany do wykonywania czynności związanych z reprezentacją i zarządzaniem funduszem emerytalnym z zachowaniem należytej staranności oraz z uwzględnieniem interesu członków funduszu, w tym do niezwłocznego przejęcia dokumentów oraz innych nośników informacji dotyczących funduszu emerytalnego od towarzystwa lub innych podmiotów, w których posiadaniu takie dokumenty lub nośniki informacji się znajdują, oraz do podejmowania niezwłocznie wszystkich niezbędnych czynności mających na celu ściągnięcie należności funduszu emerytalnego i zaspokojenie zobowiązań funduszu emerytalnego względem członków funduszu.
+członkowie władz statutowych towarzystwa,
 
-10. Depozytariusz w okresie wykonywania funkcji, o której mowa w ust. 1, obowiązany jest do jej oddzielenia pod względem organizacyjnym i technicznym od wykonywania funkcji depozytariusza, o której mowa w art. 159.
+### 2)
 
-11. Depozytariusz może pobierać wynagrodzenie za czynności, o których mowa w ust. 1, w wysokości nie wyższej niż określone w art. 49 ust. 1 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, proporcjonalnie do okresu, w którym wykonywał te czynności.
+osoby pozostające z towarzystwem w stosunku pracy,
 
-12. W przypadku gdy towarzystwo, o którym mowa w ust. 1, zarządzało funduszami zdefiniowanej daty, o których mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, których depozytariuszami są różne podmioty, depozytariusze tych funduszy są obowiązani do wspólnego dokonania wyboru jednego towarzystwa wpisanego do ewidencji PPK, które przejmie zarządzanie tymi funduszami.
+### 3)
 
-**Art. 65.** Jeżeli decyzja o cofnięciu zezwolenia, wydana przez organ nadzoru z innych przyczyn niż określone w art. 61, zostanie zaskarżona do sądu administracyjnego, rozpoznanie skargi powinno nastąpić w terminie 2 miesięcy od daty jej wniesienia.
+osoby pozostające z towarzystwem lub funduszem w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze,
 
-**Art. 66.**
+### 4)
 
-1. Powszechne towarzystwo, które zamierza zrezygnować z prowadzenia dotychczasowej działalności, może, na podstawie umowy zawartej z innym powszechnym towarzystwem, przekazać temu towarzystwu zarządzanie otwartym funduszem, którym zarządza.
+pracownicy podmiotów pozostających z towarzystwem albo funduszem w stosunku, o którym mowa w pkt 3.
 
-1a. Umowa, o której mowa w ust. 1, staje się skuteczna z chwilą wejścia w życie zmiany statutu otwartego funduszu, którym zarządzanie zostaje przejęte, w zakresie określonym w art. 13 ust. 2 pkt 2–4.
+### 2.
 
-1b. W terminie miesiąca od daty wejścia w życie zmiany statutu otwartego funduszu, którym zarządzanie zostaje przejęte, w zakresie określonym w art. 13 ust. 2 pkt 2–4, powinno nastąpić otwarcie likwidacji powszechnego towarzystwa, które zamierza zrezygnować z prowadzenia dotychczasowej działalności.
+Tajemnica zawodowa, w rozumieniu ust. 1, obejmuje informacje związane z lokatami funduszu, rejestrem członków funduszu, rozrządzeniami członków funduszu na wypadek śmierci oraz oświadczeniami, o których mowa w art. 83, których ujawnienie mogłoby naruszyć interes członków funduszu lub interes uczestników publicznego obrotu papierami wartościowymi.
 
-2. Powszechne towarzystwo przejmujące zarządzanie otwartym funduszem wstępuje w prawa i obowiązki powszechnego towarzystwa zarządzającego dotychczas tym funduszem. Postanowienia umowy wyłączające określone obowiązki są bezskuteczne wobec osób trzecich.
+### 3.
 
-3. Poza przypadkiem określonym w ust. 1 przejęcie przez towarzystwo zarządzania funduszem jest możliwe tylko w przypadku cofnięcia przez organ nadzoru zezwolenia na utworzenie towarzystwa zarządzającego tym funduszem, z zastrzeżeniem art. 67.
+Przepisu ust. 1 nie stosuje się w przypadku udostępnienia informacji objętej tajemnicą zawodową prokuratorowi, w związku z powzięciem podejrzenia o popełnienie przestępstwa, albo na żądanie prokuratora lub sądu, albo innych właściwych organów państwowych, w związku z toczącymi się postępowaniami w sprawach dotyczących działalności funduszu, towarzystwa lub depozytariusza, w tym także na żądanie Urzędu Nadzoru, w związku ze sprawowaniem przez niego nadzoru nad działalnością funduszy.
 
-4. Przejęcia zarządzania funduszem może dokonać wyłącznie towarzystwo zarządzające funduszem tego samego rodzaju.
+### Art. 50.
 
-5. Organ nadzoru stwierdza wygaśnięcie decyzji zezwalającej na utworzenie towarzystwa, jeżeli w terminie, o którym mowa w ust. 1b, nie nastąpi otwarcie jego likwidacji.
+### 1.
 
-6. Przepisy ust. 1, 1a i 2–4 stosuje się odpowiednio w przypadku przekazania przez powszechne towarzystwo zarządzania dobrowolnym funduszem.
+Towarzystwo nie może:
 
-**Art. 66a.**
+### 1)
 
-1. Powszechne towarzystwo wpisane do ewidencji PPK może na podstawie umowy zawartej z innym powszechnym towarzystwem, które zamierza zrezygnować z prowadzonej działalności, zarządzającym funduszami zdefiniowanej daty, przejąć zarządzanie tymi funduszami.
+nabywać lub obejmować udziałów, akcji albo innych papierów wartościowych, jednostek uczestnictwa w funduszach inwestycyjnych lub tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę za granicą ani uczestniczyć w spółkach nie mających osobowości prawnej,
 
-2. Pracownicze towarzystwo wpisane do ewidencji PPK może na podstawie umowy zawartej z innym pracowniczym towarzystwem, które zamierza zrezygnować z prowadzonej działalności, zarządzającym funduszami zdefiniowanej daty, przejąć zarządzanie tymi funduszami.
+### 2)
 
-3. Przejęcie zarządzania funduszem, o którym mowa w ust. 1 lub 2, wymaga zmiany statutu funduszu w zakresie, o którym mowa w art. 13 ust. 2 pkt 2–4.
+nabywać papierów wartościowych emitowanych przez depozytariusza,
 
-4. Zmiana statutu, o której mowa w ust. 3, nie wymaga zezwolenia organu nadzoru.
+### 3)
 
-5. Zmiana statutu, o której mowa w ust. 3, wchodzi w życie z dniem ogłoszenia.
+udzielać pożyczek, gwarancji i poręczeń, z wyjątkiem pożyczek z zakładowego funduszu świadczeń socjalnych,
 
-6. Powszechne towarzystwo, o którym mowa w ust. 1, przejmujące zarządzanie funduszem, o którym mowa w ust. 1, wstępuje w prawa i obowiązki towarzystwa będącego dotychczas organem funduszu, z dniem wejścia w życie zmiany statutu, o której mowa w ust. 3. Postanowienia umowy wyłączające przejęcie określonych obowiązków są bezskuteczne wobec osób trzecich.
+### 4)
 
-7. Pracownicze towarzystwo, o którym mowa w ust. 2, przejmujące zarządzanie funduszem, o którym mowa w ust. 2, wstępuje w prawa i obowiązki towarzystwa będącego dotychczas organem funduszu, z dniem wejścia w życie zmiany statutu, o której mowa w ust. 3. Postanowienia umowy wyłączające przejęcie określonych obowiązków są bezskuteczne wobec osób trzecich.
+zaciągać pożyczek i kredytów, w tym także dokonywać emisji obligacji, jeżeli wysokość zobowiązań towarzystwa z tego tytułu przekroczy łącznie 20% wartości kapitałów własnych.
 
-8. Do przejęcia zarządzania funduszem, o którym mowa w ust. 1 lub 2, nie stosuje się przepisów art. 25 ust. 2, art. 66 oraz art. 68–72.
+### 2.
 
-**Art. 67.**
+Przepisu ust. 1 pkt 1 nie stosuje się do:
 
-1. Towarzystwo może połączyć się z innym towarzystwem.
+### 1)
 
-2. Przepis art. 66 ust. 4 stosuje się odpowiednio.
+papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski,
 
-**Art. 68.**
+### 2)
 
-1. Przejęcie zarządzania funduszem w przypadkach, o których mowa w art. 66, oraz połączenie towarzystw wymaga zezwolenia organu nadzoru.
+udziałów w spółkach lub akcji spółek prowadzących rejestr członków funduszu zarządzanego przez dane towarzystwo,
 
-2. Wniosek o wydanie zezwolenia składa towarzystwo przejmujące zarządzanie funduszem, a w przypadku połączenia towarzystw – każde z łączących się towarzystw, z zastrzeżeniem ust. 4.
+### 3)
 
-3. Do wniosku o wydanie zezwolenia wnioskodawca dołącza:
+udziałów w spółkach lub akcji spółek rozliczających transakcje zawierane na rynku kapitałowym, w ilości nie powodującej powstania stosunku dominacji, w rozumieniu przepisów prawo o publicznym obrocie papierami wartościowymi,
 
-- **1)** w przypadku przejęcia zarządzania funduszem:
-    - **a)** umowę o przejęcie zarządzania,
-    - **b)** uchwały właściwych organów towarzystw, będących stronami umowy o przejęcie zarządzania, jeżeli obowiązek podjęcia takich uchwał wynika ze statutów tych towarzystw,
-    - **c)** uchwałę o zmianie statutu funduszu, którym zarządzanie zostanie przejęte,
-    - **d)** plan organizacyjny i finansowy towarzystwa przejmującego zarządzanie funduszem na okres 3 lat,
-    - **e)** dokumenty przedstawiające sytuację finansową akcjonariuszy towarzystwa przejmującego zarządzanie funduszem w okresie ostatnich 5 lat poprzedzających dzień złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych oraz zaległości z tytułu składek, do poboru których jest obowiązany Zakład Ubezpieczeń Społecznych,
-    - **f)** oświadczenie o pochodzeniu środków pieniężnych przeznaczonych na przejęcie zarządzania funduszem;
+### 4)
 
-- **2)** w przypadku łączenia towarzystw:
-    - **a)** uchwały walnych zgromadzeń towarzystw o połączeniu,
-    - **b)** umowę o połączeniu towarzystw,
-    - **c)** zmodyfikowany plan organizacyjny i finansowy,
-    - **d)** zmodyfikowany regulamin organizacyjny,
-    - **e)** informację o powiązaniach kapitałowych między akcjonariuszami,
-    - **f)** projekt statutu funduszu i towarzystwa po połączeniu towarzystw,
-    - **g)** dokumenty przedstawiające sytuację finansową akcjonariuszy towarzystwa przejmującego w okresie ostatnich 5 lat poprzedzających datę złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych oraz zaległości z tytułu składek, do poboru których jest obowiązany Zakład Ubezpieczeń Społecznych,
-    - **h)** oświadczenie o pochodzeniu środków pieniężnych przeznaczonych na dopłaty do akcji towarzystwa przejmującego, przewidziane w uchwałach o połączeniu towarzystw.
+papierów wartościowych wystawianych na podstawie prawa czekowego.
 
-4. W przypadku połączenia towarzystw, w trybie określonym w art. 492 § 1 pkt 2 Kodeksu spółek handlowych, wniosek jest składany przez akcjonariuszy łączących się towarzystw. Przepis art. 54 ust. 1 stosuje się odpowiednio. Zezwolenie na utworzenie towarzystwa organ nadzoru wydaje wraz z wydaniem zezwolenia na połączenie towarzystw.
+### Art. 51.
 
-5. Zezwolenie na przejęcie zarządzania funduszem albo połączenie towarzystw jest równoznaczne z zezwoleniem na zmianę statutu funduszu przejmowanego, w zakresie określonym w art. 13 ust. 2 pkt 2–4. Organ nadzoru może z urzędu zezwolić na skrócenie terminu wejścia w życie tej zmiany.
+### 1.
 
-6. Jeżeli połączenie towarzystw jest związane z koniecznością podwyższenia kapitału zakładowego towarzystwa przejmującego inne towarzystwo w następstwie połączenia, wraz z wnioskiem o wydanie zezwolenia na połączenie towarzystw, towarzystwo przejmujące składa wniosek o wydanie zezwolenia na zmianę statutu towarzystwa oraz statutu funduszu w zakresie wynikającym z podwyższenia kapitału zakładowego. Zezwolenie na zmianę statutu towarzystwa oraz statutu funduszu organ nadzoru wydaje wraz z wydaniem zezwolenia na połączenie towarzystw.
+Towarzystwo przechowuje i archiwizuje dokumenty i inne nośniki informacji funduszu, którym zarządza.
 
-7. Organ nadzoru w zezwoleniu określa szczegółowe warunki przejęcia zarządzania funduszem lub połączenia towarzystw i wskazuje datę rozpoczęcia i zakończenia likwidacji funduszu.
+### 2.
 
-8. Organ nadzoru odmawia wydania zezwolenia, jeżeli:
+W przypadku likwidacji funduszu, w sposób określony w art. 71 ust. 1, dokumenty i inne nośniki informacji, o których mowa w ust. 1, przechowuje likwidator tego funduszu, a w przypadku likwidacji pracowniczego funduszu, w sposób określony w art. 75, dokumenty i inne nośniki informacji, o których mowa w ust. 1, przechowuje depozytariusz. Obowiązek przechowania trwa przez pięćdziesiąt lat od chwili zakończenia likwidacji funduszu.
 
-- **1)** wniosek i dołączone dokumenty nie spełniają warunków określonych w ustawie;
-- **2)** z dokumentów dołączonych do wniosku lub innych informacji wynika, że towarzystwo przejmujące zarządzanie funduszem lub którykolwiek z akcjonariuszy tego towarzystwa albo którekolwiek z łączących się towarzystw lub którykolwiek z akcjonariuszy tych towarzystw w okresie ostatnich 5 lat poprzedzających dzień złożenia wniosku posiada zaległości podatkowe lub zaległości z tytułu składek, do których poboru jest obowiązany Zakład Ubezpieczeń Społecznych;
-- **3)** dopłaty do akcji towarzystwa przejmującego, przewidziane w uchwałach o połączeniu towarzystw, pochodzą z pożyczki, kredytu lub są obciążone w jakikolwiek sposób;
-- **4)** środki pieniężne przeznaczone na przejęcie zarządzania funduszem pochodzą z pożyczki, kredytu lub są obciążone w jakikolwiek sposób;
-- **5)** dotychczasowa działalność wnioskodawców nie daje rękojmi prowadzenia działalności funduszu lub towarzystwa w sposób zgodny z interesem członków funduszu;
-- **6)** wydanie zezwolenia pozostaje w sprzeczności z interesem członków funduszy emerytalnych lub innym dobrem publicznym.
+### 3.
 
-**Art. 68a.**
+Niezależnie od obowiązków określonych w ust. 2 depozytariusz przechowuje i archiwizuje wszelkie dokumenty i inne nośniki informacji, związane z wykonywaniem przez niego zadań depozytariusza, przez pięćdziesiąt lat od chwili zakończenia likwidacji funduszu.
 
-1. W przypadku połączenia towarzystw towarzystwo przejmujące wpisane do ewidencji PPK przejmuje zarządzanie funduszami zdefiniowanej daty.
+### 4.
 
-2. W przypadku, o którym mowa w ust. 1, do przejęcia zarządzania funduszem, o którym mowa w ust. 1, nie stosuje się przepisów art. 25 ust. 2, art. 68 ust. 1, 5 i 7 oraz art. 69–72.
+W przypadku upadłości lub likwidacji depozytariusza, do dokumentów i innych nośników informacji, związanych z zarządzaniem funduszem lub wykonywaniem zadań depozytariusza, stosuje się przepis art. 460 § 2 Kodeksu handlowego. Właściwy sąd niezwłocznie zawiadamia Urząd Nadzoru o wyznaczonym przechowawcy.
 
-3. Do przejęcia zarządzania funduszem, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 66a ust. 3–7.
+### Art. 52.
 
-4. W przypadku połączenia towarzystw towarzystwo przejmujące, które nie jest wpisane do ewidencji PPK, nie może przejąć zarządzania funduszami, o których mowa w ust. 1.
+W sprawach nie uregulowanych w ustawie do towarzystw stosuje się przepisy Kodeksu handlowego.
 
-5. W przypadku, o którym mowa w ust. 4, do przejęcia zarządzania funduszem, o którym mowa w ust. 1, nie stosuje się przepisów art. 68 ust. 1, 5 i 7. Od dnia wejścia w życie zezwolenia na połączenie towarzystw fundusz jest reprezentowany i zarządzany przez depozytariusza funduszu. Przepis art. 64a stosuje się odpowiednio.
+### Rozdział 4 Warunki podejmowania działalności przez towarzystwa emerytalne
 
-**Art. 69.**
+### Art. 53.
 
-1. Na podstawie zezwolenia organu nadzoru na przejęcie zarządzania funduszem lub połączenie towarzystw następuje likwidacja funduszu, którym zarządzanie zostało przejęte przez inne towarzystwo lub który był zarządzany przez towarzystwo przejęte w wyniku połączenia albo, jeżeli połączenie towarzystw odbywa się w sposób określony w art. 492 § 1 pkt 2 Kodeksu spółek handlowych, który został wskazany we wniosku o wydanie zezwolenia na połączenie towarzystw zgodnie z ust. 5.
+Utworzenie towarzystwa wymaga zezwolenia Urzędu Nadzoru.
 
-2. (uchylony)
+### Art. 54.
 
-3. O wydaniu zezwolenia organ nadzoru zawiadamia niezwłocznie sąd rejestrowy, załączając odpis zezwolenia. Sąd, z urzędu, wpisze w rejestrze funduszy datę rozpoczęcia likwidacji i likwidatora.
+### 1.
 
-4. Likwidatorem funduszu jest towarzystwo, które przejęło zarządzanie tym funduszem.
+Zezwolenie jest wydawane na wniosek założycieli towarzystwa, do którego dołącza się:
 
-5. Jeżeli połączenie towarzystw odbywa się w sposób określony w art. 492 § 1 pkt 2 Kodeksu spółek handlowych, wniosek o zezwolenie na połączenie towarzystw powinien wskazywać fundusz podlegający likwidacji.
+### 1)
 
-6. Od daty przejęcia zarządzania funduszem przez inne towarzystwo fundusz podlegający likwidacji nie może zawierać umów z nowymi członkami.
+statut towarzystwa,
 
-**Art. 70.**
+### 2)
 
-1. Treść zezwolenia organu nadzoru na przejęcie zarządzania otwartym funduszem lub połączenie powszechnych towarzystw otwarty fundusz ogłasza niezwłocznie na ogólnodostępnej stronie internetowej przeznaczonej do ogłoszeń funduszu.
+zgodę założycieli na zawiązanie towarzystwa i brzmienie statutu oraz na objęcie akcji przez założycieli,
 
-2. (uchylony)
+### 3)
 
-3. W przypadku pracowniczego funduszu informacja o treści wskazanej w ust. 1 jest podawana niezwłocznie, w sposób określony w statucie, do wiadomości akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem.
+regulamin organizacyjny towarzystwa określający w szczególności sposób zapobiegania ujawnianiu informacji, których wykorzystanie mogłoby naruszać interes członków funduszu lub interes uczestników publicznego obrotu papierami wartościowymi,
 
-3a. W przypadku dobrowolnego funduszu informacja o treści wskazanej w ust. 1 jest podawana niezwłocznie, w sposób określony w statucie, do wiadomości członków funduszu.
+### 4)
 
-4. O treści ogłoszenia, o którym mowa w ust. 1, lub treści informacji, o której mowa w ust. 3 i 3a, fundusz zawiadamia niezwłocznie organ nadzoru.
+listę założycieli wraz z informacją o tym, czy są podmiotami związanymi i jaki jest charakter istniejących między nimi powiązań, a także dokumentami potwierdzającymi ich status prawny i pochodzenie środków pieniężnych przeznaczonych na pokrycie kapitału akcyjnego towarzystwa,
 
-5. Jeżeli otwarty fundusz nie wykona obowiązku, o którym mowa w ust. 1, organ nadzoru dokonuje ogłoszenia na koszt likwidatora.
+### 5)
 
-**Art. 71.**
+listę członków władz statutowych towarzystwa, z wyłączeniem osób, o których mowa w art. 45, wraz z ich oświadczeniami o wyrażeniu zgody na pełnienie funkcji we władzach statutowych towarzystwa oraz spełnianiu wszystkich wymogów określonych w ustawie, a także danymi osobowymi tych osób oraz opisem ich kwalifikacji i dotychczasowej działalności zawodowej,
 
-1. Likwidacja funduszu odbywa się w drodze przeniesienia jego aktywów do funduszu zarządzanego przez towarzystwo, które przejęło zarządzanie tym funduszem, lub które przejęło towarzystwo zarządzające tym funduszem w wyniku połączenia, a jeżeli połączenie towarzystw odbywa się w sposób określony w art. 492 § 1 pkt 2 Kodeksu spółek handlowych – do funduszu niepodlegającego likwidacji wskutek połączenia towarzystw, z zastrzeżeniem ust. 3.
+### 6)
 
-2. Przeniesienie aktywów następuje w dniu wskazanym w zezwoleniu na przejęcie zarządzania funduszem lub połączenie towarzystw, przypadającym nie później niż w terminie 6 miesięcy od dnia wydania przez organ nadzoru takiego zezwolenia. Dzień wskazany w zezwoleniu jest datą zakończenia likwidacji funduszu w rozumieniu art. 68 ust. 7.
+zaświadczenia o niekaralności członków władz statutowych towarzystwa, w zakresie wynikającym z art. 41 ust. 1 pkt 2,
 
-3. Niezwłocznie po dokonaniu zawiadomienia organu nadzoru, o którym mowa w art. 70 ust. 4, fundusz podlegający likwidacji jest obowiązany rozwiązać umowę z depozytariuszem przechowującym jego aktywa oraz jest uprawniony do rozwiązania umów ze wszystkimi innymi podmiotami działającymi na jego rzecz lub zmiany warunków tych umów w sposób zapewniający zgodność z postanowieniami statutu funduszu przejmującego, z dniem zakończenia likwidacji. Jakiekolwiek postanowienia tych umów, ograniczające lub wyłączające możliwość rozwiązania umowy w powyższy sposób, uważa się za nieważne.
+### 7)
 
-4. W okresie, o którym mowa w ust. 2, fundusz podlegający likwidacji i fundusz przejmujący są obowiązane dopełnić czynności niezbędnych do połączenia rejestru członków funduszu podlegającego likwidacji z rejestrem członków funduszu przejmującego na dzień zakończenia likwidacji.
+dokumenty przedstawiające sytuację finansową wszystkich akcjonariuszy towarzystwa w okresie ostatnich 5 lat poprzedzających datę złożenia wniosku, w tym dokumenty potwierdzające brak zaległości podatkowych,
 
-5. W dacie zakończenia likwidacji funduszu:
+### 8)
 
-- **1)** przeniesienie jego aktywów do funduszu przejmującego uważa się za dokonane;
-- **2)** fundusz przejmujący dokonuje przeliczenia jednostek rozrachunkowych istniejących w funduszu przejętym na jednostki rozrachunkowe istniejące w funduszu przejmującym;
-- **3)** członkowie funduszu przejętego stają się członkami funduszu przejmującego na warunkach określonych w statucie funduszu przejmującego;
-- **4)** fundusz przejmujący wstępuje we wszystkie prawa i obowiązki funduszu przejętego.
+plan organizacyjny i finansowy działalności towarzystwa na 3 lata.
 
-6. Na dzień zakończenia likwidacji funduszu Zakład Ubezpieczeń Społecznych dokonuje zmian w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych w zakresie wynikającym z ust. 5 pkt 3.
+### 2.
 
-7. Wydanie aktywów funduszu przejętego depozytariuszowi przechowującemu aktywa funduszu przejmującego następuje z zachowaniem zasad określonych w art. 163.
+Wraz z wnioskiem o zezwolenie na utworzenie powszechnego towarzystwa założyciele mogą złożyć wniosek o wydanie przez Urząd Nadzoru promesy zezwolenia na utworzenie otwartego funduszu, dołączając do tego wniosku:
 
-8. Jeżeli rejestr członków przejętego funduszu był prowadzony przez osobę trzecią, wydanie dokumentów i innych nośników informacji związanych z tym rejestrem funduszowi przejmującemu lub podmiotowi prowadzącemu rejestr jego członków następuje w sposób zapewniający nieprzerwane wykonywanie obowiązków w zakresie prowadzenia rejestru członków funduszu oraz w terminie uzgodnionym bez zbędnej zwłoki przez strony.
+### 1)
 
-**Art. 72.** Niezwłocznie po zakończeniu likwidacji funduszu likwidator przedkłada szczegółowe sprawozdanie organowi nadzoru o dokonaniu czynności, o których mowa w art. 71 ust. 3 i 4, ust. 5 pkt 2 oraz ust. 7 i 8, a także składa wniosek do sądu rejestrowego o wykreślenie tego funduszu z rejestru funduszy.
+projekt statutu funduszu,
 
-**Art. 72a.**
+### 2)
 
-1. Rozwiązanie funduszu emerytalnego będącego funduszem zdefiniowanej daty powoduje:
+projekt umowy z depozytariuszem,
 
-- **1)** zaprzestanie wykonywania przez depozytariusza obowiązków, jeżeli nie zawarto umowy o przechowywanie aktywów funduszu z innym depozytariuszem, najpóźniej do końca dnia roboczego następującego po dniu zaprzestania wykonywania przez depozytariusza obowiązków;
-- **2)** upływ okresu wypowiedzenia umowy o przechowywanie aktywów funduszu, jeżeli do dnia upływu tego okresu fundusz nie zawarł umowy o przechowywanie aktywów funduszu z innym depozytariuszem.
+### 3)
 
-2. Rozwiązanie funduszu, o którym mowa w ust. 1, następuje po przeprowadzeniu likwidacji funduszu.
+dane osobowe osób, które towarzystwo zamierza zatrudnić po utworzeniu, mających istotny wpływ na gospodarkę finansową funduszu,
 
-3. Do likwidacji dobrowolnego funduszu emerytalnego będącego funduszem zdefiniowanej daty nie stosuje się przepisów art. 69 oraz art. 71–72.
+### 4)
 
-4. Do likwidacji pracowniczego funduszu emerytalnego będącego funduszem zdefiniowanej daty nie stosuje się przepisów art. 69 oraz art. 71–78.
+listę osób, które zostaną wyznaczone przez depozytariusza do wykonywania obowiązków określonych w projekcie umowy,
 
-**Art. 72b.**
+### 5)
 
-1. Likwidatorem funduszu emerytalnego będącego funduszem zdefiniowanej daty jest depozytariusz.
+informacje o kwalifikacjach i doświadczeniu zawodowym osób, o których mowa w pkt 3 i 4, ze wskazaniem, które z tych osób są doradcami inwestycyjnymi.
 
-2. Jeżeli depozytariuszowi zostało cofnięte zezwolenie na wykonywanie działalności przez ten podmiot lub takie zezwolenie wygasło, likwidatorem funduszu jest towarzystwo zarządzające tym funduszem przed dniem wystąpienia przesłanki rozwiązania funduszu.
+### Art. 55.
 
-3. Organ nadzoru może wyznaczyć innego likwidatora.
+### 1.
 
-4. Likwidator zgłasza niezwłocznie do rejestru funduszy otwarcie likwidacji funduszu i dane likwidatora.
+Urząd Nadzoru wydaje decyzję w sprawie zezwolenia w terminie 3 miesięcy od dnia złożenia wniosku.
 
-5. Od dnia otwarcia likwidacji funduszu emerytalnego zdefiniowanej daty fundusz nie przelicza wpłat do funduszu na jednostki rozrachunkowe oraz nie umarza jednostek rozrachunkowych, a także nie realizuje konwersji, wypłat, wypłat transferowych i zwrotów, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 2.
 
-**Art. 72c.**
+Wydanie zezwolenia jest równoznaczne z zatwierdzeniem przez Urząd Nadzoru statutu towarzystwa.
 
-1. Likwidacja funduszu emerytalnego będącego funduszem zdefiniowanej daty polega na zbyciu jego aktywów, ściągnięciu należności funduszu, zaspokojeniu wierzycieli, umorzeniu jednostek rozrachunkowych przez wypłatę uzyskanych środków pieniężnych członkom funduszu, proporcjonalnie do liczby posiadanych przez nich jednostek rozrachunkowych, w sposób określony w art. 87 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### Art. 56.
 
-2. Zbywania aktywów funduszu dokonuje się z należytym uwzględnieniem interesów członków funduszu.
+### 1.
 
-3. Środki pieniężne, których wypłacenie nie było możliwe, likwidator przekazuje do depozytu sądowego.
+Jeżeli jednocześnie z wnioskiem o zezwolenie na utworzenie powszechnego towarzystwa założyciele złożyli wniosek o wydanie przez Urząd Nadzoru promesy zezwolenia na utworzenie otwartego funduszu, a nie zachodzą podstawy do odmowy jej wydania, Urząd Nadzoru wydaje promesę wraz z wydaniem zezwolenia na utworzenie powszechnego towarzystwa.
 
-4. Środki, które pozostały po zakończeniu likwidacji, których nie można złożyć do depozytu sądowego ani nie można ze względu na ich wartość rozdzielić pomiędzy wszystkich członków funduszu, likwidator przekazuje na rzecz wybranej przez siebie organizacji pożytku publicznego.
+### 2.
 
-**Art. 72d.** O dokonaniu czynności określonych w art. 72c likwidator niezwłocznie zawiadamia organ nadzoru. Po dokonaniu tych czynności likwidator składa wniosek do sądu rejestrowego o wykreślenie funduszu z rejestru funduszy emerytalnych.
+W promesie Urząd Nadzoru określa okres jej ważności, który nie może być krótszy niż 6 miesięcy.
 
-**Art. 72e.** Rada Ministrów może określić, w drodze rozporządzenia, tryb likwidacji funduszy emerytalnych będących funduszami zdefiniowanej daty, z uwzględnieniem sposobu i terminów dokonywania poszczególnych czynności w ramach postępowania likwidacyjnego, w celu sprawnego przeprowadzenia postępowania likwidacyjnego oraz zapewnienia ochrony członków funduszu oraz jego wierzycieli.
+### 3.
 
-**Art. 73.** Likwidacja pracowniczego funduszu, którym zarządzanie nie zostało przejęte przez inne pracownicze towarzystwo, następuje z zachowaniem przepisów art. 74–78.
+W okresie ważności promesy Urząd Nadzoru nie może odmówić wydania zezwolenia na utworzenie otwartego funduszu, chyba że nastąpią zmiany w treści załączników, o których mowa w art. 14, w stosunku do treści załączników określonych w art. 54 ust. 1 pkt 1 i ust. 2.
 
-**Art. 74.**
+### 4.
 
-1. Likwidacja pracowniczego funduszu następuje na podstawie decyzji organu nadzoru o likwidacji. Organ nadzoru wydaje decyzję o likwidacji z urzędu.
+Odmowa wydania promesy zezwolenia na utworzenie funduszu może nastąpić z przyczyn, o których mowa w art. 15 ust. 2.
 
-2. Decyzja organu nadzoru określa datę rozpoczęcia i zakończenia likwidacji funduszu.
+### Art. 57.
 
-3. Przepisy art. 69 ust. 3 oraz art. 70 ust. 3 i 4 stosuje się odpowiednio.
+Urząd Nadzoru odmawia wydania zezwolenia na utworzenie towarzystwa, jeżeli:
 
-4. Likwidatorem pracowniczego funduszu jest depozytariusz, chyba że organ nadzoru wyznaczy innego likwidatora.
+### 1)
 
-5. Organ nadzoru informuje Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych o wydaniu decyzji o likwidacji pracowniczego funduszu.
+wniosek i dołączone do niego dokumenty nie spełniają warunków określonych w przepisach prawa,
 
-**Art. 75.** Likwidacja pracowniczego funduszu polega na zbyciu jego aktywów, ściągnięciu należności funduszu, zaspokojeniu wierzycieli funduszu i rozdysponowaniu środków zgromadzonych na rachunkach członków funduszu zgodnie z ich dyspozycją.
+### 2)
 
-**Art. 76.**
+w statucie towarzystwa są zamieszczone postanowienia mogące zagrażać bezpieczeństwu aktywów funduszu albo w inny sposób naruszać interes członków funduszu,
 
-1. W przypadku likwidacji pracowniczego funduszu środki zgromadzone na rachunkach jego członków są rozdysponowane zgodnie z przepisami ustawy o pracowniczych programach emerytalnych.
+### 3)
 
-2. W przypadku gdy akcjonariuszem pracowniczego towarzystwa jest pracodawca zagraniczny, środki zgromadzone na rachunkach członków funduszu, będących pracownikami tego pracodawcy, są po uzyskaniu zezwolenia organu nadzoru wypłacane członkowi lub przekazywane innemu zarządzającemu, na zasadach określonych w przepisach prawa ubezpieczeń społecznych i prawa pracy dotyczących emerytur pracowniczych obowiązujących na terenie państwa, w którym pracodawca zagraniczny ma swoją siedzibę. Przed wydaniem decyzji organ nadzoru jest obowiązany zasięgnąć opinii zagranicznego organu nadzoru właściwego dla siedziby pracodawcy zagranicznego.
+przedstawiony przez założycieli plan organizacyjny i finansowy działalności towarzystwa na 3 lata nie zabezpiecza w należyty sposób interesów członków funduszu,
 
-3. Wniosek o wydanie zezwolenia, o którym mowa w ust. 2, składa pracodawca zagraniczny.
+### 4)
 
-4. Jeżeli członek funduszu nie wyda dyspozycji co do sposobu wykorzystania środków, ich wykorzystanie następuje w formie jednorazowej wypłaty.
+założyciele towarzystwa i członkowie władz statutowych towarzystwa nie dają rękojmi prowadzenia spraw towarzystwa w sposób zapewniający należytą ochronę interesów członków funduszu,
 
-5. Środki nierozdysponowane zgodnie z ust. 1 i 2 są składane do depozytu sądowego.
+### 5)
 
-**Art. 77.** O zakończeniu wykonywania czynności, o których mowa w art. 75, likwidator zawiadamia niezwłocznie organ nadzoru, składając jednocześnie wniosek do sądu rejestrowego o wykreślenie zlikwidowanego funduszu z rejestru funduszy.
+z dokumentów przedstawiających sytuację finansową akcjonariuszy towarzystwa za ostatnie 5 lat wynika, że którykolwiek z nich posiada zaległości podatkowe,
 
-**Art. 78.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb likwidacji pracowniczych funduszy w przypadku, o którym mowa w art. 73, a w szczególności sposób i termin składania przez członków funduszu dyspozycji dotyczących sposobu wykorzystania środków zgromadzonych na ich rachunkach.
+### 6)
 
-#### Rozdział 5a Połączenie funduszy będących funduszami zdefiniowanej daty
+kapitał akcyjny powszechnego towarzystwa pochodzi z pożyczki, kredytu lub jest obciążony w jakikolwiek sposób.
 
-**Art. 78a.**
+### Art. 58.
 
-1. Połączenie dobrowolnych funduszy będących funduszami zdefiniowanej daty lub pracowniczych funduszy będących funduszami zdefiniowanej daty wymaga zgody organu nadzoru. Z wnioskiem o udzielenie zgody występuje towarzystwo.
+Zmiana statutu towarzystwa, depozytariusza lub umowy z depozytariuszem wymaga zezwolenia Urzędu Nadzoru.
 
-2. Do wniosku, o którym mowa w ust. 1, dołącza się statuty i prospekty informacyjne funduszy biorących udział w połączeniu.
+### Art. 59.
 
-3. Organ nadzoru odmawia udzielenia zgody, o której mowa w ust. 1, jeżeli planowane połączenie jest sprzeczne z przepisami prawa lub postanowieniami statutu funduszu lub jeżeli dokumenty dołączone do wniosku nie są zgodne z przepisami prawa lub stanem faktycznym.
+### 1.
 
-4. Połączeniu podlegają fundusze tego samego rodzaju, zarządzane przez to samo powszechne towarzystwo albo pracownicze towarzystwo.
+Zezwolenia Urzędu Nadzoru wymaga powołanie członków zarządu i rady nadzorczej towarzystwa, chyba że powołanie dotyczy osób, które pełniły funkcje w tych organach w poprzedniej kadencji.
 
-**Art. 78b.**
+### 2.
 
-1. O zamiarze połączenia towarzystwo ogłasza w sposób wskazany w statutach łączących się funduszy, niezwłocznie po uzyskaniu zgody organu nadzoru na połączenie.
+Przepisu ust. 1 nie stosuje się do członków rady nadzorczej pracowniczego towarzystwa wybieranych przez członków pracowniczego funduszu.
 
-2. Ogłoszenie o zamiarze połączenia funduszy:
+### Art. 60.
 
-- **1)** wskazuje fundusz przejmujący i fundusz przejmowany;
-- **2)** wskazuje dzień, od którego wpłaty do funduszu przejmowanego oraz wnioski o konwersję, wypłatę, wypłatę transferową lub zwrot, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, środków zgromadzonych w funduszu przejmowanym, będą uważane odpowiednio za wpłaty do funduszu przejmującego oraz wnioski o konwersję, wypłatę, wypłatę transferową lub zwrot, o których mowa w tej ustawie, środków zgromadzonych w funduszu przejmującym;
-- **3)** wskazuje termin, po upływie którego fundusz przejmowany nie będzie przeliczał wpłat do funduszu na jednostki rozrachunkowe oraz umarzał jednostek rozrachunkowych;
-- **4)** zawiera treść statutu funduszu przejmującego.
+Towarzystwo jest obowiązane zawiadamiać niezwłocznie Urząd Nadzoru o każdej zmianie danych zawartych w załączniku do wniosku o utworzenie towarzystwa, o którym mowa w art. 54 ust. 1 pkt 3.
 
-3. Wpłaty do funduszu przejmowanego oraz wnioski o konwersję, wypłatę, wypłatę transferową lub zwrot, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, środków zgromadzonych w funduszu przejmowanym, które wpłynęły po dniu wskazanym w ogłoszeniu, o którym mowa w ust. 2 pkt 2, uważa się odpowiednio za wpłaty do funduszu przejmującego oraz wnioski o wypłatę, wypłatę transferową lub zwrot, o których mowa w tej ustawie, środków zgromadzonych w funduszu przejmującym, oraz realizuje się je w pierwszym dniu wyceny funduszu przejmującego po dniu przydziału, o którym mowa w art. 78c ust. 1, chyba że z ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych wynikają inne terminy realizacji takich wniosków; w takim przypadku terminy te biegną na nowo, począwszy od dnia przydziału, o którym mowa w art. 78c ust. 1.
+### Rozdział 5 Przejęcie zarządzania funduszem emerytalnym, łączenie się towarzystw emerytalnych i likwidacja funduszu emerytalnego
 
-**Art. 78c.**
+### Art. 61.
 
-1. W pierwszym dniu po upływie terminu, o którym mowa w art. 78b ust. 2 pkt 3, towarzystwo:
+W przypadku ogłoszenia upadłości towarzystwa lub otwarcia jego likwidacji Urząd Nadzoru wydaje decyzję o cofnięciu zezwolenia na utworzenie towarzystwa.
 
-- **1)** przydziela członkowi funduszu przejmowanego jednostki rozrachunkowe funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek rozrachunkowych funduszu przejmowanego posiadanych przez tego członka i wartości aktywów netto funduszu przejmowanego przypadających na jednostkę rozrachunkową w dniu poprzedzającym dzień przydziału przez wartość aktywów netto funduszu przejmującego przypadających na jednostkę rozrachunkową w tym funduszu w dniu poprzedzającym dzień przydziału;
-- **2)** składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy i do wniosku dołącza zgodę organu nadzoru, o której mowa w art. 78b ust. 1.
+### Art. 62.
 
-2. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku albo jego uzupełnienia.
+### 1.
 
-**Art. 78d.**
+Urząd Nadzoru może wydać decyzję o cofnięciu zezwolenia na utworzenie towarzystwa, jeżeli stwierdzi, że fundusz prowadzi działalność niezgodnie z przepisami ustawy lub statutem funduszu albo w sposób zagrażający interesom członków funduszu.
 
-1. Połączenie funduszy następuje przez przeniesienie majątku funduszu przejmowanego do istniejącego funduszu przejmującego oraz przydzielenie członkom funduszu przejmowanego jednostek rozrachunkowych funduszu przejmującego w zamian za jednostki rozrachunkowe funduszu przejmowanego.
+### 2.
 
-2. Przydział, o którym mowa w art. 78c ust. 1 pkt 1, następuje przez wpisanie do rejestru członków funduszu przejmującego członków funduszu przejmowanego oraz liczby przydzielonych im jednostek rozrachunkowych funduszu przejmującego.
+Przed cofnięciem zezwolenia Urząd Nadzoru może wezwać fundusz, aby w określonym terminie doprowadził swoją działalność do właściwego stanu.
 
-3. Od dnia przydziału, o którym mowa w art. 78c ust. 1 pkt 1, wartość aktywów netto oraz wartość aktywów netto przypadających na jednostkę rozrachunkową funduszu przejmującego ustala się z uwzględnieniem aktywów i zobowiązań funduszu przejmowanego.
+### 3.
 
-4. Przepisów ust. 2 i 3 nie stosuje się, w przypadku gdy postanowienie sądu odmawiające wykreślenia funduszu przejmowanego z rejestru stanie się prawomocne.
+Niezależnie od cofnięcia zezwolenia, o którym mowa w ust. 1, lub wezwania, o którym mowa w ust. 2, Urząd Nadzoru może nałożyć na towarzystwo karę pieniężną do wysokości 500 000 zł, jeżeli stwierdzone nieprawidłowości były szczególnie rażące.
 
-5. Przy dokonywaniu przydziału, o którym mowa w art. 78c ust. 1 pkt 1, nie mogą być potrącane opłaty.
+### Art. 63.
 
-**Art. 78e.** Z dniem wykreślenia funduszu przejmowanego z rejestru funduszy:
+W decyzji o cofnięciu zezwolenia Urząd Nadzoru określa datę wejścia tej decyzji w życie.
 
-**Art. 78f.** Depozytariusz funduszu przejmowanego oraz inne podmioty przechowujące aktywa funduszu przejmowanego wydają depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 159, niezwłocznie po dniu, o którym mowa w art. 78e.
+### Art. 64.
 
-**Art. 78g.** Fundusz przejmujący, w terminie 6 miesięcy od dnia, o którym mowa w art. 78e, dostosowuje stan swoich aktywów do wymagań określonych w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, do przepisów wykonawczych wydanych na jej podstawie oraz do zasad i ograniczeń inwestycyjnych określonych w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi dla funduszy inwestycyjnych otwartych, w przepisach art. 116a–116b tej ustawy oraz w przepisach wydanych na podstawie art. 116d tej ustawy w zakresie, w jakim dotyczą specjalistycznych funduszy inwestycyjnych otwartych stosujących zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego otwartego oraz w statucie funduszu.
+### 1.
 
-**Art. 78h.** Sprawozdanie finansowe funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału jednostek rozrachunkowych. Sprawozdanie publikowane jest niezwłocznie na ogólnodostępnej stronie internetowej.
+Od dnia wejścia w życie decyzji o cofnięciu zezwolenia na utworzenie towarzystwa fundusz jest reprezentowany przez depozytariusza. W tym czasie fundusz nie może przyjmować nowych członków.
 
-#### Rozdział 6
+### 2.
 
-#### Rozdział 7 Członkostwo w funduszu emerytalnym
+Jeżeli w okresie 3 miesięcy od dnia wejścia w życie decyzji o cofnięciu zezwolenia zarządzanie otwartym funduszem nie zostanie przejęte przez inne powszechne towarzystwo zgodnie z art. 66 ust. 3, przejęcia zarządzania tym funduszem dokonuje powszechne towarzystwo zarządzające otwartym funduszem, którego aktywa netto miały najwyższą wartość na koniec miesiąca poprzedzającego miesiąc, w którym decyzja o cofnięciu zezwolenia weszła w życie, na warunkach określonych w decyzji Urzędu Nadzoru.
 
-**Art. 81.**
+### Art. 65.
 
-1. Uzyskanie członkostwa w otwartym funduszu, z zastrzeżeniem ust. 5 i 6, następuje z chwilą zawarcia umowy z funduszem, jeżeli:
+Jeżeli decyzja o cofnięciu zezwolenia, wydana przez Urząd Nadzoru z innych przyczyn niż określone w art. 61, zostanie zaskarżona do Naczelnego Sądu Administracyjnego, rozpoznanie skargi powinno nastąpić w terminie 2 miesięcy od daty jej wniesienia.
 
-- **1)** w dniu zawarcia pierwszej umowy z otwartym funduszem osoba przystępująca do otwartego funduszu podlega lub podlegała, w okresie 4 miesięcy przed dniem zawarcia umowy, ubezpieczeniu emerytalnemu w rozumieniu przepisów o systemie ubezpieczeń społecznych;
-- **2)** Zakład Ubezpieczeń Społecznych dokona odpowiedniego wpisu lub zmian w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych, o którym mowa w przepisach o systemie ubezpieczeń społecznych.
+### Art. 66.
 
-1a. Umowa z otwartym funduszem może zostać zawarta w trybie korespondencyjnym w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku.
+### 1.
 
-2. Otwarty fundusz nie może odmówić zawarcia umowy, o ile osoba występująca z wnioskiem o przyjęcie do funduszu spełnia warunki określone w przepisach o systemie ubezpieczeń społecznych.
+Powszechne towarzystwo, które zamierza zrezygnować z prowadzenia dotychczasowej działalności, może, na podstawie umowy zawartej z innym powszechnym towarzystwem, przekazać temu towarzystwu zarządzanie otwartym funduszem, którym zarządza.
 
-3. Umowa, co do której nie został spełniony którykolwiek z warunków wymienionych w ust. 1, nie wywołuje skutków prawnych, z zastrzeżeniem ust. 4. Zakład Ubezpieczeń Społecznych ma obowiązek, w terminie 30 dni roboczych, poinformować otwarty fundusz, czy osoba, która zawarła umowę z funduszem, spełnia warunki określone w ust. 1.
+### 2.
 
-4. Jeżeli osoba, która zawarła z otwartym funduszem umowę uznaną za bezskuteczną, pomimo istnienia w dniu zawarcia umowy faktycznych i prawnych podstaw do spełnienia warunków określonych w ust. 1, następnie uzyska członkostwo w otwartym funduszu, to Zakład Ubezpieczeń Społecznych jest obowiązany przekazać do tego funduszu należne składki za okres podlegania ubezpieczeniu emerytalnemu.
+Powszechne towarzystwo przejmujące zarządzanie otwartym funduszem wstępuje w prawa i obowiązki powszechnego towarzystwa zarządzającego dotychczas tym funduszem. Postanowienia umowy wyłączające określone obowiązki są bezskuteczne wobec osób trzecich.
 
-5. Można być członkiem tylko jednego otwartego funduszu. W przypadku zmiany funduszu uzyskanie członkostwa w nowym funduszu następuje z dniem dokonania zmian w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych.
+### 3.
 
-6. Uzyskanie członkostwa w otwartym funduszu następuje również:
+Poza przypadkiem określonym w ust. 1 przejęcie przez towarzystwo zarządzania funduszem jest możliwe tylko w przypadku cofnięcia przez Urząd Nadzoru zezwolenia na utworzenie towarzystwa zarządzającego tym funduszem, z zastrzeżeniem art. 67.
 
-- **1)** (uchylony)
-- **2)** w wyniku otwarcia rachunku w otwartym funduszu na podstawie art. 128 ust. 1.
+### 4.
 
-7. (uchylony)
+Przejęcia zarządzania funduszem może dokonać wyłącznie towarzystwo zarządzające funduszem tego samego rodzaju.
 
-8. (uchylony)
+### Art. 67.
 
-9. (uchylony)
+### 1.
 
-10. Członkostwo w otwartym funduszu ustaje z dniem wykreślenia członka funduszu przez Zakład Ubezpieczeń Społecznych z Centralnego Rejestru Członków Otwartych Funduszy Emerytalnych w związku z przekazaniem całości środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS.
+Towarzystwo może połączyć się z innym towarzystwem.
 
-**Art. 81a.** (uchylony)
+### 2.
 
-**Art. 82.**
+Przepis art. 66 ust. 4 stosuje się odpowiednio.
 
-1. Zawierając umowę z otwartym funduszem, osoba występująca z wnioskiem o przyjęcie do funduszu może wskazać imiennie jedną lub więcej osób fizycznych, na których rzecz ma nastąpić, po jej śmierci, wypłata środków niewykorzystanych zgodnie z art. 131. Wskazanie osoby, o której mowa w zdaniu pierwszym, zawiera imię (imiona) i nazwisko osoby uprawnionej do otrzymania środków po śmierci członka oraz numer PESEL tej osoby, o ile został nadany.
+### Art. 68.
 
-1a. Prawo, o którym mowa w ust. 1, przysługuje również członkowi otwartego funduszu.
+### 1.
 
-2. Jeżeli członek wskazał kilka osób uprawnionych do otrzymania środków po jego śmierci, a nie oznaczył ich udziału w tych środkach, uważa się, że udziały tych osób są równe.
+Przejęcie zarządzania funduszem w przypadkach, o których mowa w art. 66, oraz połączenia towarzystw wymaga zezwolenia Urzędu Nadzoru.
 
-3. Członek otwartego funduszu może w każdym czasie zmienić poprzednią dyspozycję, wskazując inne osoby fizyczne uprawnione do otrzymania środków po jego śmierci zamiast lub oprócz osób, o których mowa w ust. 1, jak również oznaczając w inny sposób udział wskazanych osób w tych środkach, albo odwołać poprzednią dyspozycję, nie wskazując żadnych innych osób.
+### 2.
 
-3a. (uchylony)
+Wniosek o wydanie zezwolenia składa towarzystwo przejmujące zarządzanie funduszem, a w przypadku połączenia towarzystw - każde z łączących się towarzystw.
 
-4. Wskazanie osoby uprawnionej do otrzymania środków po śmierci członka staje się bezskuteczne, jeżeli osoba ta zmarła przed śmiercią członka. W takim przypadku udział, który był przeznaczony dla zmarłego, przypada w równych częściach pozostałym osobom wskazanym, chyba że członek zadysponuje tym udziałem w inny sposób.
+### 3.
 
-5. Fundusz jest obowiązany poinformować osobę przystępującą do otwartego funduszu o skutkach niezłożenia dyspozycji, o której mowa w ust. 1.
+Zezwolenie na przejęcie zarządzania funduszem lub połączenie towarzystw jest równoznaczne z zezwoleniem na zmianę statutu funduszu w zakresie określonym w art. 13 ust. 2 pkt 2-4.
 
-**Art. 82a.** Zawierając umowę z otwartym funduszem, osoba występująca z wnioskiem o przyjęcie do otwartego funduszu składa oświadczenie o zapoznaniu się z treścią aktualnej informacji dotyczącej otwartych funduszy w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku.
+### 4.
 
-**Art. 83.**
+Zezwolenie Urzędu Nadzoru określa szczegółowe warunki przejęcia zarządzania funduszem lub połączenia towarzystw.
 
-1. Zawierając umowę z otwartym funduszem, osoba występująca z wnioskiem o przyjęcie do funduszu jest ponadto obowiązana złożyć w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku oświadczenie o stosunkach majątkowych istniejących między nią a jej małżonkiem, a jeżeli między małżonkami nie istnieje wspólność ustawowa – udokumentować także sposób uregulowania tych stosunków. Powyższy obowiązek ciąży także na członku otwartego funduszu, który zawarł związek małżeński po zawarciu umowy z funduszem.
+### Art. 69.
 
-2. Członek otwartego funduszu jest obowiązany zawiadomić fundusz o każdorazowej zmianie w stosunku do treści oświadczenia, o którym mowa w ust. 1, o ile zmiana taka obejmuje środki zgromadzone na jego rachunku. Zawiadomienie o zmianie treści oświadczenia składa się w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku.
+### 1.
 
-3. W razie niedopełnienia obowiązku, o którym mowa w ust. 1 zdanie drugie lub w ust. 2, przyjmuje się odpowiednio, że między małżonkami istnieje wspólność ustawowa albo że małżeńskie stosunki majątkowe uregulowane są zgodnie z treścią umowy zawartej z otwartym funduszem lub ostatnim zawiadomieniem dokonanym przez członka otwartego funduszu zgodnie z ust. 2.
+Na podstawie zezwolenia Urzędu Nadzoru na przejęcie zarządzania funduszem lub połączenie towarzystw następuje likwidacja funduszu, którym zarządzanie zostało przejęte przez inne towarzystwo lub który był zarządzany przez towarzystwo przejęte w wyniku połączenia albo - jeżeli połączenie towarzystw odbywa się w sposób określony w art. 463 pkt 2 Kodeksu handlowego - który został wskazany we wniosku o wydanie zezwolenia na połączenie towarzystw zgodnie z ust. 5.
 
-4. Otwarty fundusz nie odpowiada za szkody powstałe wskutek niedopełnienia lub nienależytego dopełnienia obowiązku, o którym mowa w ust. 1 lub 2.
+### 2.
 
-**Art. 84.** Jeżeli członek otwartego funduszu przystępuje do innego otwartego funduszu, fundusz ten jest obowiązany zawiadomić na piśmie dotychczasowy otwarty fundusz o zawarciu umowy z tym członkiem. Umowa z dotychczasowym funduszem ulega rozwiązaniu z dniem dokonania zmiany w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych.
+Zezwolenie określa datę rozpoczęcia i zakończenia likwidacji funduszu.
 
-**Art. 84a.**
+### 3.
 
-1. Osoby urodzone w latach 1949–1953 zawierające umowę z otwartym funduszem, są obowiązane złożyć pisemne oświadczenie o zapoznaniu się z treścią art. 24, 26, 46–50, 53, 183, 184 i 185 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, co osoba zawierająca umowę winna potwierdzić własnoręcznym podpisem.
+O wydaniu zezwolenia Urząd Nadzoru zawiadamia niezwłocznie sąd rejestrowy, załączając odpis zezwolenia. Sąd, z urzędu wpisze w rejestrze funduszy datę rozpoczęcia likwidacji i likwidatora.
 
-2. (uchylony)
+### 4.
 
-**Art. 85.** Rada Ministrów określi, w drodze rozporządzenia:
+Likwidatorem funduszu jest towarzystwo, które przejęło zarządzanie tym funduszem.
 
-**Art. 85a.** Rada Ministrów, wydając rozporządzenie, o którym mowa w art. 85, bierze pod uwagę konieczność zapewnienia ochrony interesów członków otwartego funduszu oraz prawidłowości i rzetelności przekazywanych informacji.
+### 5.
 
-**Art. 86.**
+Jeżeli połączenie towarzystw odbywa się w sposób określony w art. 463 pkt 2 Kodeksu handlowego, wniosek o zezwolenie na połączenie towarzystw powinien wskazywać fundusz podlegający likwidacji.
 
-1. Członkiem pracowniczego funduszu może zostać osoba fizyczna spełniająca warunki określone w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych dla uczestnika pracowniczego programu emerytalnego, osoba fizyczna będąca uczestnikiem programu emerytalnego pracodawcy zagranicznego, a w przypadku pracowniczego funduszu będącego funduszem zdefiniowanej daty – osoba fizyczna spełniająca warunki określone w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### Art. 70.
 
-2. Osoba, która przestała spełniać warunki, o których mowa w ust. 1, zachowuje status członka pracowniczego funduszu.
+### 1.
 
-**Art. 87.** Uzyskanie członkostwa w pracowniczym funduszu następuje na zasadach określonych w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, a w przypadku pracowniczego funduszu będącego funduszem zdefiniowanej daty – z chwilą zawarcia przez fundusz zdefiniowanej daty z podmiotem zatrudniającym, o którym mowa w art. 2 ust. 1 pkt 21 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, w imieniu i na rzecz osoby zatrudnionej umowy o prowadzenie PPK, o której mowa w art. 14 tej ustawy.
+Treść zezwolenia Urzędu Nadzoru na przejęcie zarządzania otwartym funduszem lub połączenie powszechnych towarzystw oraz o uprawnieniach przysługujących członkom funduszu w związku z jego likwidacją otwarty fundusz ogłasza niezwłocznie w dzienniku o zasięgu krajowym.
 
-**Art. 88.** Członek może zrezygnować z członkostwa w pracowniczym funduszu na zasadach określonych w ustawie:
+### 2.
 
-**Art. 88a.** Uzyskanie członkostwa w dobrowolnym funduszu prowadzącym IKE lub IKZE następuje z chwilą zawarcia umowy o prowadzenie IKE lub IKZE z funduszem, a w przypadku dobrowolnego funduszu będącego funduszem zdefiniowanej daty – z chwilą zawarcia przez fundusz z podmiotem zatrudniającym, o którym mowa w art. 2 ust. 1 pkt 21 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, w imieniu i na rzecz osoby zatrudnionej umowy o prowadzenie PPK, o której mowa w art. 14 tej ustawy.
+Otwarty fundusz jest obowiązany, na podstawie zawiadomienia przez członka o zawarciu umowy z innym otwartym funduszem, dokonanego w terminie 2 miesięcy od daty ogłoszenia, o którym mowa w ust. 1, dokonać wypłaty transferowej środków zgromadzonych na jego rachunku do tego funduszu. W tym przypadku otwarty fundusz nie może pobierać opłaty, o której mowa w art. 134 ust. 1 pkt 2.
 
-**Art. 89.**
+### 3.
 
-1. Fundusz prowadzi rejestr członków funduszu zawierający podstawowe dane osobowe członków, dane o wpłatach składek do funduszu i otrzymanych wypłatach transferowych oraz przeliczeniach tych składek i wypłat transferowych na jednostki rozrachunkowe, dane o aktualnym stanie środków na rachunkach z uwzględnieniem środków wypłaconych na okresową emeryturę kapitałową, a w pracowniczych funduszach – także dane o aktualnym stanie akcji na rachunkach ilościowych.
+W przypadku pracowniczego funduszu informacja o treści wskazanej w ust. 1 jest podawana niezwłocznie, w sposób określony w statucie, do wiadomości akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem.
 
-2. Podstawowe dane osobowe członków, o których mowa w ust. 1, obejmują:
+### 4.
 
-- **1)** imiona i nazwisko;
-- **2)** datę urodzenia;
-- **3)** numer PESEL, a w przypadku gdy członkowi funduszu nie nadano numeru PESEL – w miejsce numeru PESEL serię i numer dowodu osobistego lub paszportu;
-- **4)** adres miejsca zamieszkania.
+O treści ogłoszenia, o którym mowa w ust. 1, lub treści informacji, o której mowa w ust. 3, fundusz zawiadamia niezwłocznie Urząd Nadzoru.
 
-3. Prowadzenie rejestru członków funduszu może być powierzone osobie trzeciej, z zastrzeżeniem przepisów art. 49.
+### 5.
 
-3a. Osoba trzecia, której fundusz powierzył prowadzenie rejestru członków funduszu, może powierzyć wykonywanie czynności związanych z jego prowadzeniem innej osobie za zgodą funduszu i towarzystwa.
+Jeżeli otwarty fundusz nie wykona obowiązku, o którym mowa w ust. 1, Urząd Nadzoru dokonuje ogłoszenia na koszt likwidatora.
 
-3b. W przypadku powierzenia, o którym mowa w ust. 3a, osoba trzecia jest obowiązana do bieżącego nadzorowania ich wykonywania przez osobę, której powierzyła ich wykonywanie.
+### Art. 71.
 
-3c. Powierzenie, o którym mowa w ust. 3a, nie zwalnia towarzystwa z odpowiedzialności, o której mowa w art. 48 ust. 5.
+### 1.
 
-4. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady prowadzenia rejestru członków funduszu, w tym szczegółowy zakres informacji, które powinny być zawarte w rejestrze, a także zasady sporządzania i przechowywania kopii danych zawartych w rejestrze na wypadek jego utraty.
+Likwidacja funduszu odbywa się w drodze przeniesienia jego aktywów do funduszu zarządzanego przez towarzystwo, które przejęło zarządzanie tym funduszem lub które przejęło towarzystwo zarządzające tym funduszem w wyniku połączenia, a jeżeli połączenie towarzystw odbywa się w sposób określony w art. 463 pkt 2 Kodeksu handlowego - do funduszu nie podlegającego likwidacji wskutek połączenia towarzystw, z zastrzeżeniem ust. 3.
 
-**Art. 90.**
+### 2.
 
-1. W sprawach o roszczenia ze stosunków prawnych między członkami otwartych funduszy a tymi funduszami lub ich organami orzekają sądy ubezpieczeń społecznych właściwe dla miejsca zamieszkania członka funduszu.
+Przeniesienie aktywów następuje w dniu wskazanym w zezwoleniu na przejęcie zarządzania funduszem lub połączenie towarzystw, przypadającym nie później niż w terminie 9 miesięcy od dnia wydania przez Urząd Nadzoru takiego zezwolenia. Dzień wskazany w zezwoleniu jest datą zakończenia likwidacji funduszu w rozumieniu art. 69 ust. 2.
 
-2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, z wyjątkiem art. 460 § 1, art. 461 § 1 i 2, art. 463 § 1 i 3, art. 467 § 4, art. 476 § 1–2 i 4–5, art. 477 § 1 –2, art. 477 , art. 477 , art. 477 –477 .
+### 3.
 
-**Art. 91.** W sprawach o roszczenia ze stosunków prawnych między członkami pracowniczych funduszy a tymi funduszami lub ich organami orzekają sądy powszechne właściwe dla miejsca zamieszkania członka funduszu.
+Niezwłocznie po zawiadomieniu Urzędu Nadzoru, o którym mowa w art. 70 ust. 4, fundusz podlegający likwidacji jest obowiązany rozwiązać umowę z depozytariuszem przechowującym jego aktywa oraz jest uprawniony do rozwiązania umów ze wszystkimi innymi podmiotami działającymi na jego rzecz, z dniem zakończenia likwidacji. Jakiekolwiek postanowienia tych umów, ograniczające lub wyłączające możliwość rozwiązania umowy w powyższy sposób, uważa się za nie istniejące.
 
-#### Rozdział 8 Zakaz działalności akwizycyjnej otwartych funduszy emerytalnych
+### 4.
 
-**Art. 92.**
+W dacie zakończenia likwidacji funduszu przeniesienie jego aktywów do innego funduszu uważa się za dokonane, a fundusz ten wstępuje we wszystkie prawa i obowiązki funduszu zlikwidowanego. Z tą chwilą fundusz przejmujący dokonuje przeliczenia jednostek rozrachunkowych istniejących w funduszu przejętym na jednostki rozrachunkowe istniejące w funduszu przejmującym.
 
-1. Zakazuje się prowadzenia działalności akwizycyjnej na rzecz otwartego funduszu polegającej na działaniach mających na celu skłonienie kogokolwiek, aby przystąpił do otwartego funduszu lub pozostawał członkiem tego funduszu, w szczególności oferowania dodatkowych korzyści materialnych z tytułu członkostwa w otwartym funduszu lub wykorzystywania stosunku nadrzędności wynikającego ze stosunku pracy lub innego stosunku prawnego, na którym jest oparta zależność służbowa lub inna zależność o podobnym charakterze, jeżeli celem takiego działania miałoby być skłonienie kogokolwiek, aby przystąpił do funduszu lub pozostawał jego członkiem.
+### 5.
 
-2. Przepis ust. 1 stosuje się odpowiednio do innej działalności niż określona w tym przepisie, jeżeli w jej ramach oferuje się dodatkowe korzyści materialne w zamian za przystąpienie do określonego otwartego funduszu lub pozostawanie jego członkiem.
+Wydanie aktywów funduszu przejętego depozytariuszowi przechowującemu aktywa funduszu przejmującego następuje z zachowaniem zasad określonych w art. 163.
 
-**Art. 93.** (uchylony)
+### 6.
 
-**Art. 93a.** (uchylony)
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb likwidacji funduszu odbywającej się w drodze przeniesienia jego aktywów do innego funduszu.
 
-**Art. 94.** (uchylony)
+### Art. 72.
 
-#### Rozdział 9 Rachunki i przeliczenia składek
+Niezwłocznie po zakończeniu likwidacji funduszu likwidator zawiadamia Urząd Nadzoru o dokonaniu czynności, o których mowa w art. 71 ust. 3-5, oraz składa wniosek do sądu rejestrowego o wykreślenie tego funduszu z rejestru funduszy.
 
-**Art. 95.** Składki są wpłacane na rachunki prowadzone przez otwarte fundusze, w wysokości i na zasadach określonych w odrębnych ustawach, lub na rachunki prowadzone przez pracownicze fundusze, w wysokości i z częstotliwością określoną na zasadach, o których mowa w ustawie o pracowniczych programach emerytalnych.
+### Art. 73.
 
-**Art. 96.**
+Likwidacja pracowniczego funduszu, którym zarządzanie nie zostało przejęte przez inne pracownicze towarzystwo, następuje z zachowaniem przepisów art. 74-78.
 
-1. Składki do pracowniczego funduszu są wpłacane w imieniu pracowników będących członkami tego funduszu.
+### Art. 74.
 
-2. Wpłaty składek, o których mowa w ust. 1, w imieniu pracowników dokonuje ich pracodawca będący akcjonariuszem pracowniczego towarzystwa.
+### 1.
 
-3. Składka do pracowniczego funduszu może być wpłacona także w wyniku dokonania wypłaty transferowej, o której mowa w ustawie o pracowniczych programach emerytalnych.
+Likwidacja pracowniczego funduszu następuje na podstawie decyzji Urzędu Nadzoru o jego likwidacji.
 
-4. Pracodawca zagraniczny jest obowiązany do regularnego opłacania składek pracowników zagranicznych, o których mowa w art. 2 ust. 4.
+### 2.
 
-5. Wpłaty do PPK dokonywane są na rachunek funduszu emerytalnego, który niezwłocznie dokonuje ich przeliczenia na jednostki rozrachunkowe oraz zapisuje te jednostki rozrachunkowe na rachunku PPK uczestnika PPK.
+Decyzja Urzędu Nadzoru określa datę rozpoczęcia i zakończenia likwidacji funduszu.
 
-**Art. 96a.**
+### 3.
 
-1. Składki na wyodrębniony rachunek IKE lub IKZE prowadzony przez dobrowolny fundusz są wpłacane przez członka dobrowolnego funduszu.
+Przepisy art. 69 ust. 3 oraz art. 70 ust. 3 i 4 stosuje się odpowiednio.
 
-2. Składka na wyodrębniony rachunek IKE lub IKZE prowadzony przez dobrowolny fundusz może być wpłacona w wyniku dokonania wypłaty transferowej środków zgromadzonych na IKE oraz IKZE, o której mowa w ustawie z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego.
+### 4.
 
-3. Wpłaty do PPK dokonywane są na rachunek wspólny rozliczeniowy funduszy emerytalnych będących funduszami zdefiniowanej daty w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych zarządzanymi przez jedno powszechne towarzystwo emerytalne, które niezwłocznie dokonują ich przeliczenia na jednostki rozrachunkowe oraz zapisują te jednostki rozrachunkowe na rachunku PPK uczestnika PPK.
+Likwidatorem pracowniczego funduszu jest depozytariusz, chyba że Urząd Nadzoru wyznaczy innego likwidatora.
 
-**Art. 97.**
+### Art. 75.
 
-1. Wpłaty do otwartych funduszy i pracowniczych funduszy mogą być dokonywane w formie papierów wartościowych, na zasadach określonych w odrębnych ustawach.
+Likwidacja pracowniczego funduszu polega na zbyciu jego aktywów, ściągnięciu należności funduszu, zaspokojeniu wierzycieli funduszu i rozdysponowaniu środków zgromadzonych na rachunkach członków funduszu zgodnie z ich dyspozycją.
 
-2. Wpłaty do pracowniczych funduszy mogą być dokonywane w formie akcji, o których mowa w art. 101, na zasadach określonych w rozdziale 10.
+### Art. 76.
 
-**Art. 98.** Z chwilą przystąpienia członka do funduszu, fundusz otwiera dla niego rachunek, na który są wpłacane składki oraz przekazywane wypłaty transferowe.
+### 1.
 
-**Art. 99.**
+W przypadku likwidacji pracowniczego funduszu środki zgromadzone na rachunkach jego członków mogą być rozdysponowane w jeden z następujących sposobów:
 
-1. Składki wpłacane do funduszu oraz otrzymane wypłaty transferowe są przeliczane na jednostki rozrachunkowe, z wyjątkiem składek pracowników zagranicznych, o których mowa w art. 2 ust. 4, przekazywanych do zakładu ubezpieczeń na życie.
+### 1)
 
-2. (uchylony)
+przekazane w ramach wypłaty transferowej do innego pracowniczego funduszu, o ile członek spełnia warunki członkostwa w tym funduszu,
 
-3. Całkowita wartość jednostek rozrachunkowych jest zawsze równa całkowitej wartości aktywów netto funduszu przeliczonych na te jednostki.
+### 2)
 
-4. Składki oraz otrzymane wypłaty transferowe mogą być przeliczane również na części ułamkowe jednostki rozrachunkowej, a wartość środków na rachunku członka może być wyrażona w takich częściach ułamkowych.
+przekazane do zakładu ubezpieczeń na życie na zasadach określonych w ustawie o pracowniczych programach emerytalnych,
 
-5. Wartość aktywów netto funduszu oraz wartość jednostki rozrachunkowej jest ustalana zgodnie z zasadami wyceny aktywów i zobowiązań funduszy.
+### 3)
 
-6. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wyceny aktywów i zobowiązań funduszy.
+przekazane do funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego na zasadach określonych w ustawie o pracowniczych programach emerytalnych,
 
-**Art. 100.**
+### 4)
 
-1. Przeliczanie na jednostki rozrachunkowe wpłacanych składek oraz otrzymanych wypłat transferowych następuje w określonym zgodnie z ust. 2 dniu, zwanym dalej „dniem przeliczenia”, według wartości jednostek rozrachunkowych na ten dzień.
+wypłacone członkowi w formie jednorazowej wypłaty.
 
-1a. Wartość jednostki rozrachunkowej w dniu przeliczenia jest ustalana przez podzielenie wartości aktywów netto funduszu w dniu przeliczenia przez liczbę jednostek rozrachunkowych zapisanych w tym dniu na rachunkach prowadzonych przez fundusz.
+### 2.
 
-2. W przypadku pracowniczych funduszy dniem przeliczenia jest ostatni dzień roboczy miesiąca, o ile fundusz nie określi w statucie także innych dni przeliczenia. W przypadku otwartych funduszy i dobrowolnych funduszy dniem przeliczenia jest każdy dzień roboczy.
+Wykorzystanie środków w sposób określony w ust. 1 pkt 4 następuje także wówczas, gdy członek nie wyda dyspozycji co do sposobu wykorzystania tych środków.
 
-3. W pierwszym dniu przeliczenia, następującym po dokonaniu wpłaty pierwszej składki do funduszu, wartość jednostki rozrachunkowej wynosi 10 zł.
+### 3.
 
-4. Do czasu przeliczenia składek i wypłat transferowych są one przechowywane na odrębnym rachunku pieniężnym funduszu. Odsetki należne z tytułu przechowywania środków pieniężnych na tym rachunku stanowią przychód funduszu.
+Środki nie rozdysponowane zgodnie z ust. 1 są składane do depozytu sądowego.
 
-5. Przeliczanie papierów wartościowych, o których mowa w art. 97 ust. 1, na jednostki rozrachunkowe odbywa się na zasadach określonych w odrębnych ustawach.
+### Art. 77.
 
-6. (uchylony)
+O zakończeniu wykonywania czynności, o których mowa w art. 75, likwidator zawiadamia niezwłocznie Urząd Nadzoru, składając jednocześnie wniosek do sądu rejestrowego o wykreślenie zlikwidowanego funduszu z rejestru funduszy.
 
-**Art. 100a.**
+### Art. 78.
 
-1. Otwarty fundusz jest zobowiązany do zwrotu do Zakładu Ubezpieczeń Społecznych nienależnie otrzymanej składki.
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowy tryb likwidacji pracowniczych funduszy w przypadku, o którym mowa w art. 73, a w szczególności sposób i termin składania przez członków funduszu dyspozycji dotyczących sposobu wykorzystania środków zgromadzonych na ich rachunkach.
 
-1a. Kwotę składki, o której mowa w ust. 1, ustala się przez umorzenie jednostek rozrachunkowych uzyskanych za nienależnie otrzymaną składkę oraz nienależnie otrzymane odsetki określone przepisami o systemie ubezpieczeń społecznych.
+### Rozdział 6 Postanowienia antymonopolowe
 
-1b. W przypadku dokonania wypłaty transferowej, zgodnie z art. 119, 126 lub 131, kwotę składki, o której mowa w ust. 1, ustala się przez umorzenie jednostek rozrachunkowych odpowiadających kwocie uzyskanej z umorzenia jednostek rozrachunkowych odpowiadających kwocie nienależnie otrzymanej składki od otwartego funduszu, który dokonał wypłaty transferowej.
+### Art. 79.
 
-2. (uchylony)
+### 1.
 
-3. Otwarty fundusz zwraca kwotę składki:
+Zamiar połączenia powszechnych towarzystw lub zamiar przejęcia zarządzania otwartym funduszem podlega zgłoszeniu Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, jeżeli łączna wartość aktywów netto funduszy zarządzanych w następstwie zamierzonego połączenia lub przejęcia zarządzania przekroczyłaby, w którymkolwiek z miesięcy przypadających w roku poprzedzającym rok zgłoszenia takiego zamiaru, 33% łącznej wartości aktywów netto wszystkich otwartych funduszy.
 
-- **1)** ustaloną zgodnie z ust. 1a, powiększoną o nominalną wartość opłaty, o której mowa w art. 134 ust. 1, pobranej przez towarzystwo zarządzające otwartym funduszem, albo
-- **2)** ustaloną zgodnie z ust. 1b.
+### 2.
 
-3a. W przypadku dokonania wypłaty transferowej otwarty fundusz, do którego nienależnie otrzymana składka została wpłacona przez Zakład Ubezpieczeń Społecznych, zwraca pobraną opłatę, o której mowa w art. 134 ust. 1.
+Zamiar połączenia lub przejęcia zarządzania, o którym mowa w ust. 1, należy zgłosić w terminie 14 dni od dnia:
 
-4. Jeżeli przekazanie do otwartego funduszu nienależnej składki nastąpiło z przyczyn leżących po stronie towarzystwa zarządzającego tym funduszem, suma kwot, o których mowa w ust. 3 i 3a, nie może być niższa od nominalnej wartości nienależnie otrzymanej składki, powiększonej o odsetki określone przepisami o systemie ubezpieczeń społecznych.
+### 1)
 
-5. Kwotę stanowiącą równowartość opłat, o których mowa w ust. 3 i 3a, oraz różnicę pomiędzy nienależnie otrzymaną składką, powiększoną o odsetki określone przepisami o systemie ubezpieczeń społecznych, a sumą kwot, o których mowa w ust. 3 i 3a, finansuje towarzystwo zarządzające otwartym funduszem.
+podjęcia przez walne zgromadzenia akcjonariuszy łączących się powszechnych towarzystw uchwał o połączeniu z innym towarzystwem,
 
-6. (uchylony)
+### 2)
 
-7. Jeżeli zwrot nienależnej składki następuje w wyniku nieważności umowy z otwartym funduszem, a otwarty fundusz dokonał wypłaty transferowej zgodnie z art. 119, 126 lub 131, towarzystwo zarządzające tym funduszem finansuje kwotę stanowiącą równowartość różnicy pomiędzy kwotą określoną, zgodnie z ust. 4, do dnia dokonania wypłaty transferowej, a kwotą przekazaną w wypłacie transferowej.
+złożenia wniosku do Urzędu Nadzoru o zezwolenie na przejęcie zarządzania otwartym funduszem w związku z cofnięciem zezwolenia na utworzenie powszechnego towarzystwa,
 
-7a. Jeżeli zwrot nienależnie otrzymanej składki następuje w sytuacji unieważnienia umowy lub zmiany z urzędu przez Zakład Ubezpieczeń Społecznych nieprawidłowego wpisu w Centralnym Rejestrze Członków Otwartych Funduszy Emerytalnych, całą kwotę otrzymaną w wyniku wypłaty transferowej traktuje się jako jedną składkę.
+### 3)
 
-8. Jeżeli osoba, za którą została przekazana nienależna składka, jest członkiem innego otwartego funduszu, kwota ustalona zgodnie z ust. 3–4 jest przekazywana przez Zakład Ubezpieczeń Społecznych do tego funduszu.
+zawarcia umowy o przejęcie zarządzania otwartym funduszem, o której mowa w art. 66 ust. 1.
 
-9. Kwota, o której mowa w ust. 8, nie może być niższa niż nominalna wartość należnej składki powiększonej o odsetki określone przepisami o systemie ubezpieczeń społecznych.
+### 3.
 
-10. Odsetki, o których mowa w ust. 4, nalicza się za okres od dnia obciążenia rachunku bankowego Zakładu Ubezpieczeń Społecznych kwotą nienależnie otrzymanej składki do dnia jej zwrotu.
+Zgłoszenia zamiaru dokonują:
 
-11. Zwrotu nienależnie otrzymanej składki dokonuje się poprzez potrącenia ze składek przekazywanych przez Zakład Ubezpieczeń Społecznych do otwartego funduszu.
+### 1)
 
-12. Jeżeli Zakład Ubezpieczeń Społecznych przekazał składkę, o której mowa w ust. 1, wraz z odsetkami za opóźnienie, do odsetek tych stosuje się odpowiednio ust. 1–11 dotyczące składki.
+przy połączeniu towarzystw - oddzielnie zarządy tych towarzystw,
 
-**Art. 100b.** (uchylony)
+### 2)
 
-**Art. 100c.**
+przy przejęciu zarządzania funduszem - zarząd towarzystwa przejmującego zarządzanie.
 
-1. Zakład Ubezpieczeń Społecznych informuje otwarty fundusz o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku:
+### 4.
 
-- **1)** z osiągnięciem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
-- **2)** ze złożeniem przez ubezpieczonego wniosku o emeryturę, o której mowa w art. 88a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2023 r. poz. 984, 1234, 1586, 1672 i 2005).
+Do zgłoszenia zamiaru połączenia towarzystw należy dołączyć odpis z rejestru handlowego, statuty łączących się towarzystw oraz informację o funduszach zarządzanych przez te towarzystwa, obejmującą w szczególności wartość aktywów netto funduszy oraz pozycje zajmowane na rynku usług finansowych, a także odpowiednio dokumenty, o których mowa w ust. 2.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 1, każdego miesiąca umorzeniu podlega liczba jednostek rozrachunkowych będących ilorazem liczby jednostek rozrachunkowych zgromadzonych na rachunku członka otwartego funduszu i wyrażonej w miesiącach różnicy między wiekiem emerytalnym, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, a wiekiem członka otwartego funduszu w dniu dokonywania umorzenia.
+### 5.
 
-2a. W przypadku, o którym mowa w ust. 1 pkt 2, umorzeniu podlegają wszystkie jednostki rozrachunkowe zgromadzone na rachunku członka otwartego funduszu.
+Prezes Urzędu Ochrony Konkurencji i Konsumentów, w terminie nie dłuższym niż 2 miesiące, a w przypadku, o którym mowa w ust. 2 pkt 2, w terminie nie dłuższym niż miesiąc, zawiadamia zgłaszającego zamiar o braku zastrzeżeń bądź wydaje decyzję zakazującą łączenia towarzystw lub przejęcia zarządzania funduszem. Decyzja taka może być wydana tylko wówczas, jeżeli towarzystwo, w wyniku połączenia lub przejęcia zarządzania funduszem, uzyskałoby lub umocniło pozycję dominującą na rynku.
 
-3. Rada Ministrów określi, w drodze rozporządzenia, terminy, sposób i tryb:
+### 6.
 
-- **1)** informowania przez Zakład Ubezpieczeń Społecznych otwartego funduszu o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku:
-    - **a)** z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych,
-    - **b)** ze złożeniem przez ubezpieczonego wniosku o emeryturę, o której mowa w art. 88a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+Przepisów ust. 1-5 nie stosuje się w razie przejęcia zarządzania otwartym funduszem w przypadku, o którym mowa w art. 64 ust. 2.
 
-- **2)** umarzania, o którym mowa w ust. 2, informowania Zakładu Ubezpieczeń Społecznych przez otwarty fundusz emerytalny o okresach, za które umorzono jednostki rozrachunkowe oraz dokonywania rozliczeń między Zakładem Ubezpieczeń Społecznych a otwartym funduszem wynikających z obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, w taki sposób, aby w miesiącu, w którym ubezpieczony ukończy wiek emerytalny, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, nastąpiło umorzenie wszystkich jednostek rozrachunkowych pozostających na rachunku ubezpieczonego – biorąc pod uwagę konieczność zapewnienia ochrony interesu ubezpieczonych oraz prawidłowości przekazywania zgromadzonych środków.
+### Art. 80.
 
-**Art. 100d.** (uchylony)
+W zakresie nie uregulowanym w ustawie do połączenia powszechnych towarzystw lub przejęcia zarządzania otwartym funduszem stosuje się przepisy ustawy z dnia 24 lutego 1990 r. o przeciwdziałaniu praktykom monopolistycznym ([Dz. U. z 1997 r. Nr 49, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1997/318/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)).
 
-**Art. 100e.** Środki zgromadzone w funduszu nie mogą być przedmiotem egzekucji skierowanej przeciwko funduszowi.
+### Rozdział 7 Członkostwo w funduszu emerytalnym
 
-**Art. 100f.**
+### Art. 81.
 
-1. Fundusz emerytalny będący funduszem zdefiniowanej daty może zawiesić przeliczanie wpłat do funduszu na jednostki rozrachunkowe funduszu na 2 tygodnie, jeżeli nie można dokonać wiarygodnej wyceny istotnej części aktywów funduszu z przyczyn niezależnych od funduszu.
+### 1.
 
-2. W przypadku, o którym mowa w ust. 1, za zgodą i na warunkach określonych przez organ nadzoru, przeliczanie wpłat do funduszu na jednostki rozrachunkowe funduszu może zostać zawieszone na okres dłuższy niż 2 tygodnie, jednak nieprzekraczający 2 miesięcy.
+Uzyskanie członkostwa w otwartym funduszu następuje z chwilą zawarcia umowy z funduszem.
 
-**Art. 100g.**
+### 2.
 
-1. Fundusz emerytalny będący funduszem zdefiniowanej daty, o którym mowa w art. 38 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, może zawiesić umarzanie jednostek rozrachunkowych na 2 tygodnie, jeżeli:
+Otwarty fundusz nie może odmówić zawarcia umowy, o ile osoba występująca z wnioskiem o przyjęcie do funduszu spełnia warunki określone w odrębnych ustawach.
 
-- **1)** w okresie ostatnich 2 tygodni suma wartości umorzonych przez fundusz jednostek rozrachunkowych oraz jednostek, które powinny być umorzone w związku z wnioskiem uczestnika PPK o dokonanie wypłaty, wypłaty transferowej, zwrotu lub konwersji, stanowi kwotę przekraczającą 10 % wartości aktywów funduszu albo
-- **2)** nie można dokonać wiarygodnej wyceny istotnej części aktywów funduszu z przyczyn niezależnych od funduszu.
+### 3.
 
-2. W przypadkach, o których mowa w ust. 1, za zgodą i na warunkach określonych przez organ nadzoru:
+Można być członkiem tylko jednego otwartego funduszu, z zastrzeżeniem przepisów art. 84.
 
-- **1)** umarzanie jednostek rozrachunkowych może zostać zawieszone na okres dłuższy niż 2 tygodnie, jednak nieprzekraczający 2 miesięcy;
-- **2)** fundusz może umarzać jednostki rozrachunkowe w ratach w okresie nieprzekraczającym 6 miesięcy, przy zastosowaniu proporcjonalnej redukcji lub przy dokonywaniu wypłat z tytułu odkupienia jednostek rozrachunkowych.
+### Art. 82.
 
-**Art. 100h.** W przypadku gdy jest to uzasadnione interesem członków funduszu emerytalnego, będącego funduszem zdefiniowanej daty, organ nadzoru może, w drodze decyzji, nakazać funduszowi czasowe zawieszenie przeliczania wpłat do funduszu na jednostki rozrachunkowe funduszu lub umarzania jednostek rozrachunkowych funduszu.
+### 1.
 
-#### Rozdział 10 Rachunki ilościowe
+Zawierając umowę z otwartym funduszem, osoba występująca z wnioskiem o przyjęcie do funduszu wskazuje imiennie jedną lub więcej osób, na których rzecz ma nastąpić, po jej śmierci, wypłata środków niewykorzystanych zgodnie z odrębnymi przepisami dotyczącymi renty rodzinnej z ubezpieczenia społecznego oraz art. 131.
 
-**Art. 101.**
+### 2.
 
-1. Akcje uzyskane przez członków pracowniczego funduszu, nieodpłatnie lub na warunkach preferencyjnych, w następstwie prywatyzacji pracodawcy są składane na rachunkach ilościowych prowadzonych przez pracownicze fundusze na zasadach określonych w ustawie o pracowniczych programach emerytalnych.
+Jeżeli członek wskazał kilka osób uprawnionych do otrzymania środków po jego śmierci, a nie oznaczył ich udziału w tych środkach, uważa się, że udziały tych osób są równe.
 
-2. Pracowniczy fundusz może powierzyć prowadzenie rachunków ilościowych podmiotowi uprawnionemu do prowadzenia rachunków papierów wartościowych.
+### 3.
 
-3. Na jednym rachunku ilościowym nie mogą być składane akcje więcej niż jednego emitenta.
+Członek może w każdym czasie zmienić poprzednią dyspozycję. W szczególności członek może wskazać inne osoby uprawnione do otrzymania środków po jego śmierci, zamiast lub obok osób, o których mowa w ust. 1, a także w inny sposób oznaczyć udział wskazanych osób w tych środkach.
 
-4. Akcje złożone na rachunkach ilościowych są ujmowane ilościowo.
+### 4.
 
-5. Członkowie pracowniczego funduszu nie mogą rozporządzać akcjami złożonymi na rachunkach ilościowych ani prawem do dywidendy z tych akcji.
+Wskazanie osoby uprawnionej do otrzymania środków po śmierci członka staje się bezskuteczne, jeżeli osoba ta zmarła przed śmiercią członka. W takim przypadku udział, który był przeznaczony dla zmarłego, przypada w równych częściach pozostałym osobom wskazanym, chyba że członek zadysponuje tym udziałem w inny sposób.
 
-6. Dokonanie przez członka pracowniczego funduszu rozporządzenia prawem poboru akcji nowej emisji może nastąpić z uwzględnieniem art. 105.
+### Art. 83.
 
-**Art. 102.**
+### 1.
 
-1. Pracowniczy fundusz likwiduje rachunki ilościowe członków i przenosi akcje zdeponowane na tych rachunkach do aktywów funduszu w oparciu o harmonogram likwidacji rachunków ilościowych ustalany przez pracownicze towarzystwo, w drodze uchwały rady nadzorczej, i podawany do wiadomości organu nadzoru nie później niż 3 miesiące przed rozpoczęciem likwidacji tych rachunków.
+Zawierając umowę z otwartym funduszem, osoba występująca z wnioskiem o przyjęcie do funduszu jest ponadto obowiązana złożyć pisemne oświadczenie o stosunkach majątkowych istniejących między nią a jej małżonkiem, a jeżeli między małżonkami nie istnieje wspólność ustawowa - udokumentować także sposób uregulowania tych stosunków. Powyższy obowiązek ciąży także na członku otwartego funduszu, który zawarł związek małżeński po zawarciu umowy z funduszem.
 
-2. Harmonogram, o którym mowa w ust. 1, powinien określać:
+### 2.
 
-- **1)** terminy przeniesienia akcji do aktywów funduszu;
-- **2)** zasady ustalania ilości akcji złożonych na rachunkach ilościowych przez poszczególnych członków, które podlegają przeniesieniu do aktywów funduszu, w tym akcji złożonych przez osoby, które przystąpią do funduszu po ogłoszeniu harmonogramu;
-- **3)** ilość akcji złożonych na rachunkach ilościowych przez poszczególnych członków, które podlegają przeniesieniu do aktywów funduszu w poszczególnych terminach.
+Członek otwartego funduszu jest obowiązany zawiadomić fundusz na piśmie o każdorazowej zmianie w stosunku do treści oświadczenia, o którym mowa w ust. 1, o ile zmiana taka obejmuje środki zgromadzone na jego rachunku. Do zawiadomienia należy dołączyć dowód takiej zmiany.
 
-3. Dla osób przystępujących do pracowniczego funduszu, po ogłoszeniu harmonogramu, ustala się indywidualnie terminy przeniesienia akcji do aktywów funduszu.
+### Art. 84.
 
-4. Przeniesienie akcji do aktywów funduszu może nastąpić wyłącznie w dniach przeliczenia.
+Jeżeli członek otwartego funduszu przystępuje do innego otwartego funduszu, jest obowiązany zawiadomić na piśmie o zawarciu umowy z tym funduszem otwarty fundusz, do którego dotychczas wpłacał składki. Wraz z zawiadomieniem członek składa na piśmie oświadczenie woli o rozwiązaniu dotychczasowej umowy z dniem dokonania wypłaty transferowej, o której mowa w art. 119.
 
-5. W dniu przeniesienia akcji członkom funduszu zalicza się, odpowiednio, na rachunki jednostki rozrachunkowe o wartości odpowiadającej wartości akcji przeniesionych z ich rachunków ilościowych, pomniejszonej o kwotę należnego podatku. Ustalenie wartości akcji następuje w oparciu o zasady wyceny aktywów funduszu.
+### Art. 85.
 
-6. Likwidacja rachunków ilościowych, na których złożone zostały akcje danego emitenta, rozpoczyna się nie później niż w terminie 3 lat od dnia złożenia pierwszej akcji tego emitenta na rachunku ilościowym i nie może trwać dłużej niż 10 lat, licząc od daty przeniesienia pierwszej akcji z rachunku ilościowego do aktywów funduszu.
+Rada Ministrów określi, w drodze rozporządzenia:
 
-7. W razie stwierdzenia, że realizacja harmonogramu może przebiegać lub przebiega z naruszeniem przepisów prawa lub interesów członków pracowniczego funduszu, organ nadzoru może zawiesić realizację tego harmonogramu i wezwać pracowniczy fundusz do usunięcia stwierdzonych nieprawidłowości.
+### 1)
 
-8. Do przeniesienia akcji spółek publicznych, złożonych na rachunkach ilościowych, do aktywów pracowniczego funduszu nie stosuje się przepisów art. 38 ust. 3 i 4 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2023 r. poz. 343 oraz z 2024 r. poz. 123 i 834).
+sposób i tryb zawarcia umowy, na której podstawie następuje uzyskanie członkostwa w otwartym funduszu,
 
-**Art. 103.**
+### 2)
 
-1. Jeżeli członek zwróci się o dokonanie wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych na jego rachunku w pracowniczym funduszu, rachunek ilościowy tego członka powinien być niezwłocznie zlikwidowany, a akcje nieprzeniesione dotychczas do aktywów funduszu – wydane członkowi, z zastrzeżeniem ust. 2.
+sposób i termin składania oświadczenia o małżeńskich stosunkach majątkowych członka otwartego funduszu oraz zawiadamiania otwartego funduszu o każdorazowej zmianie w stosunku do treści takiego oświadczenia obejmującej środki zgromadzone na rachunku członka,
 
-2. Jeżeli pracowniczy fundusz dokonuje wypłaty środków zgromadzonych na rachunku członka funduszu w formie wypłaty realizowanej w ratach, rachunek ilościowy członka funduszu podlega likwidacji z chwilą wypłaty ostatniej raty, a zdeponowane na nim akcje zostają wydane członkowi funduszu.
+### 3)
 
-3. W razie śmierci członka funduszu posiadającego rachunek ilościowy albo rozwiązania przez rozwód lub unieważnienia jego małżeństwa, akcje znajdujące się na rachunku ilościowym zostają wydane osobie uprawnionej. Przepis art. 130 i 133 stosuje się odpowiednio.
+sposób i termin zawiadamiania otwartego funduszu przez członka o przystąpieniu do innego otwartego funduszu.
 
-4. Przepisy ust. 3 stosuje się odpowiednio w razie ustania wspólności majątkowej w czasie trwania małżeństwa członka pracowniczego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
+### Art. 86.
 
-**Art. 104.** Dywidenda wypłacana z akcji zdeponowanych na rachunku ilościowym oraz cena uzyskana ze zbycia przez pracowniczy fundusz, w imieniu członka funduszu, prawa poboru akcji nowej emisji jest przekazywana na rachunek członka funduszu prowadzony w jednostkach rozrachunkowych.
+### 1.
 
-**Art. 105.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady przeprowadzania i rozliczania transakcji zbywania przez pracowniczy fundusz, w imieniu członków funduszu, praw poboru przysługujących im z akcji złożonych na rachunkach ilościowych, a także szczegółowe warunki i tryb, w jakim dopuszczalna jest realizacja tych praw przez członków funduszu.
+Członkiem pracowniczego funduszu może zostać osoba fizyczna spełniająca warunki określone w ustawie o pracowniczych programach emerytalnych dla uczestnika pracowniczego programu emerytalnego.
 
-**Art. 106.**
+### 2.
 
-1. Jeżeli łączna ilość akcji tego samego emitenta, zdeponowanych na wszystkich rachunkach ilościowych w jednym pracowniczym funduszu, przekroczy 1 % ogólnej ilości akcji tego emitenta, prawa związane z własnością tych akcji, z wyjątkiem praw majątkowych, wykonywane są przez przedstawiciela członków funduszu posiadających akcje na rachunkach ilościowych, zwanego dalej „przedstawicielem”.
+Osoba, która przestała spełniać warunki, o których mowa w ust. 1, zachowuje status członka pracowniczego funduszu.
 
-2. Przedstawiciel jest wybierany na 3 lata w wyborach tajnych przez członków funduszu posiadających akcje danego emitenta na rachunkach ilościowych.
+### Art. 87.
 
-3. Tryb wyboru przedstawiciela określa regulamin uchwalony przez radę nadzorczą pracowniczego towarzystwa. Regulamin określa w szczególności, czy w wyborach mają uczestniczyć sami członkowie, czy też wybrani przez nich przedstawiciele, oraz zasady odwoływania przedstawiciela przed upływem okresu, na który został wybrany. Regulamin nie może uzależnić ważności wyboru przedstawiciela od liczby osób uczestniczących w wyborach.
+Uzyskanie członkostwa w pracowniczym funduszu następuje z chwilą zawarcia pracowniczej umowy emerytalnej, na zasadach określonych w ustawie o pracowniczych programach emerytalnych.
 
-4. Przepis art. 45 ust. 4 stosuje się odpowiednio.
+### Art. 88.
 
-#### Rozdział 10a Zakład ubezpieczeń na życie, do którego pracowniczy fundusz przekazuje składki pracowników zagranicznych
+Członek może zrezygnować z członkostwa w pracowniczym funduszu, w drodze wypowiedzenia pracowniczej umowy emerytalnej, na zasadach określonych w ustawie o pracowniczych programach emerytalnych.
 
-**Art. 106a.** Pracowniczy fundusz może wybrać zakład ubezpieczeń na życie, do którego będzie przekazywać w całości albo w części składki pracowników zagranicznych, na podstawie umowy o przyjmowanie składek.
+### Art. 89.
 
-**Art. 106b.**
+### 1.
 
-1. Zobowiązania związane z ryzykami biometrycznymi lub gwarancjami obciążają zakład ubezpieczeń na życie w zakresie, w jakim określono to w umowie o przyjmowanie składek, w pozostałych przypadkach zobowiązania te obciążają pracodawcę zagranicznego.
+Fundusz prowadzi rejestr członków funduszu zawierający podstawowe dane osobowe członków, dane o wpłatach składek do funduszu i otrzymanych wypłatach transferowych oraz przeliczeniach tych składek i wypłat transferowych na jednostki rozrachunkowe, dane o aktualnym stanie środków na rachunkach, a w pracowniczych funduszach - także dane o aktualnym stanie akcji na rachunkach ilościowych.
 
-2. Za wszelkie szkody wynikające z niewykonania lub nienależytego wykonania obowiązków nałożonych przez ustawę w zakresie obsługi wszelkich ryzyk biometrycznych lub gwarancji związanych z realizacją programu emerytalnego pracodawcy zagranicznego odpowiada zakład ubezpieczeń na życie.
+### 2.
 
-**Art. 106c.**
+Podstawowe dane osobowe członków, o których mowa w ust. 1, obejmują:
 
-1. Umowa o przyjmowanie składek powinna określać szczegółowo obowiązki zakładu ubezpieczeń na życie i pracowniczego funduszu, sposób ich wykonania, a także wskazywać osoby wyznaczone przez zakład bezpośrednio odpowiedzialne za należyte wykonanie umowy.
+### 1)
 
-2. Umowa o przyjmowanie składek określa ponadto, że operacje zaciągania pożyczek przez zakład ubezpieczeń na życie i pracowniczy fundusz mogą być prowadzone wyłącznie w celu utrzymania płynności finansowej i tylko na okres przejściowy.
+imiona i nazwisko,
 
-3. W przypadku gdy akcjonariuszem pracowniczego towarzystwa jest pracodawca zagraniczny i z przepisów jego krajowego prawa ubezpieczeń społecznych i prawa pracy wynika taki wymóg, umowa o przyjmowanie składek zawiera postanowienia dotyczące przekazywania przez pracowniczy fundusz temu pracodawcy lub jego pracownikom dodatkowych informacji dotyczących:
+### 2)
 
-- **1)** rodzaju ryzyka finansowego, technicznego i innych ryzyk związanych z realizacją programu emerytalnego pracodawcy zagranicznego;
-- **2)** podziału ryzyka, o którym mowa w pkt 1;
-- **3)** docelowego poziomu świadczenia, w przypadku gdy program emerytalny pracodawcy zagranicznego przewiduje pokrycie ryzyk biometrycznych lub gwarancji;
-- **4)** kwoty wypłaty lub świadczenia z programu emerytalnego pracodawcy zagranicznego przewidującego pokrycie ryzyk biometrycznych lub gwarancji, w przypadku zaprzestania zatrudnienia;
-- **5)** w przypadku gdy uczestnicy programu emerytalnego pracodawcy zagranicznego ponoszą ryzyko inwestycyjne – zakresu wyboru polityki inwestycyjnej, jeżeli ma zastosowanie, oraz rzeczywistych portfeli inwestycyjnych, a także informacji dotyczących ryzyka i kosztów związanych z inwestycjami;
-- **6)** postanowień odnoszących się do przeniesienia praw do wypłaty z programu emerytalnego pracodawcy zagranicznego na inną instytucję pracowniczych programów emerytalnych, w przypadku rozwiązania stosunku pracy.
+datę i miejsce urodzenia,
 
-**Art. 106d.**
+### 3)
 
-1. Pracowniczy fundusz lub zakład ubezpieczeń na życie mogą rozwiązać umowę o przyjmowanie składek w drodze wypowiedzenia, którego okres nie może być krótszy niż 6 miesięcy.
+imiona rodziców,
 
-2. O wypowiedzeniu umowy o przyjmowanie składek i jego przyczynach strona wypowiadająca umowę niezwłocznie powiadamia organ nadzoru.
+### 4)
 
-3. W razie rozwiązania umowy o przyjmowanie składek z dotychczasowym zakładem ubezpieczeń na życie zakład ten powinien wydać zakładowi ubezpieczeń na życie, z którym pracowniczy fundusz zawarł umowę, aktywa i wszelkie dokumenty związane z wykonywaniem obowiązków wynikających z umowy, w terminie uzgodnionym przez strony, bez zbędnej zwłoki.
+numer powszechnego elektronicznego systemu ewidencji ludności PESEL,
 
-**Art. 106e.**
+### 5)
 
-1. Jeżeli zakład ubezpieczeń na życie nie wykonuje obowiązków określonych w umowie o przyjmowanie składek albo wykonuje je nienależycie:
+miejsce zamieszkania.
 
-- **1)** pracowniczy fundusz wypowiada umowę, zawiadamiając o tym niezwłocznie organ nadzoru;
-- **2)** organ nadzoru może, w drodze decyzji administracyjnej, nakazać pracowniczemu funduszowi zmianę zakładu ubezpieczeń na życie.
+### 3.
 
-2. Organ nadzoru może nakazać pracowniczemu funduszowi zmianę zakładu ubezpieczeń na życie także wówczas, gdy nastąpiło istotne pogorszenie sytuacji finansowej tego zakładu, zagrażające realizacji zobowiązań wynikających z umowy o przyjmowanie składek.
+Prowadzenie rejestru członków funduszu może być powierzone osobie trzeciej, z zastrzeżeniem przepisów art. 49.
 
-**Art. 106f.** Pracowniczy fundusz dokonuje niezwłocznej zmiany zakładu ubezpieczeń na życie w przypadku zakazu wykonywania działalności, ogłoszenia upadłości lub otwarcia likwidacji dotyczącej zakładu ubezpieczeń na życie.
+### 4.
 
-**Art. 106g.**
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady prowadzenia rejestru członków funduszu, w tym szczegółowy zakres informacji, które powinny być zawarte w rejestrze, a także zasady sporządzania i przechowywania kopii danych zawartych w rejestrze na wypadek jego utraty.
 
-1. Organ nadzoru może, w drodze decyzji administracyjnej, ograniczyć lub zakazać zakładowi ubezpieczeń na życie swobodnego rozporządzania aktywami, które służą jako zabezpieczenie zobowiązań wynikających z umowy o przyjmowanie składek, w przypadku gdy zakład ten:
+### Art. 90.
 
-- **1)** nie zdołał utworzyć rezerw techniczno-ubezpieczeniowych w odpowiedniej wysokości, w odniesieniu do prowadzonej działalności, lub nie posiada aktywów stanowiących pokrycie rezerw techniczno-ubezpieczeniowych, w wysokości nie niższej niż wartość rezerw techniczno-ubezpieczeniowych w ujęciu brutto;
-- **2)** nie był w stanie utrzymać ustawowych funduszy własnych.
+### 1.
 
-2. W przypadku wydania przez organ nadzoru decyzji administracyjnej o zakazie swobodnego rozporządzania aktywami, o której mowa w ust. 1, pracowniczy fundusz niezwłocznie dokonuje zmiany zakładu ubezpieczeń na życie w drodze wypowiedzenia dotychczasowej umowy o przyjmowanie składek i zawarcia umowy z innym zakładem ubezpieczeń na życie.
+W sprawach o roszczenia ze stosunków prawnych między członkami otwartych funduszy a tymi funduszami lub ich organami orzekają sądy ubezpieczeń społecznych właściwe dla miejsca zamieszkania członka funduszu.
 
-**Art. 106h.**
+### 2.
 
-1. Każdorazowa zmiana zakładu ubezpieczeń na życie następuje w sposób zapewniający nieprzerwane wykonywanie obowiązków w zakresie realizacji zobowiązań wynikających z umowy o przyjmowanie składek. Przepis art. 106d ust. 3 stosuje się odpowiednio.
+Do postępowania w sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o postępowaniu w sprawach z zakresu prawa pracy i ubezpieczeń społecznych, z wyjątkiem art. 460 § 1, art. 461 § 1 i 2, art. 463 § 11 i 3, art. 467 § 4, art. 476 § 1-2 i 4-5, art. 4771 § 11-2, art. 4772, art. 4776, art. 4779-47714a.
 
-2. Zmiana zakładu ubezpieczeń na życie wymaga zezwolenia organu nadzoru, z wyjątkiem przypadków, o których mowa w art. 106e ust. 1 pkt 2 i ust. 2 oraz art. 106g ust. 2.
+### Art. 91.
 
-3. Zezwolenie jest wydawane przez organ nadzoru w trybie określonym dla wydania zezwolenia na zmianę statutu pracowniczego funduszu.
+W sprawach o roszczenia ze stosunków prawnych między członkami pracowniczych funduszy a tymi funduszami lub ich organami orzekają sądy powszechne właściwe dla miejsca zamieszkania członka funduszu.
 
-4. W przypadkach, o których mowa w art. 106e i art. 106g ust. 2, wypowiedzenie może nastąpić w terminie krótszym niż wskazany w art. 106d ust. 1.
+### Rozdział 8 Działalność akwizycyjna otwartych funduszy emerytalnych
 
-5. Przepisy ust. 2 i 3 stosuje się odpowiednio w przypadku zmiany umowy o przyjmowanie składek.
+### Art. 92.
 
-**Art. 106i.**
+### 1.
 
-1. Zakład ubezpieczeń na życie nie może zatrudniać oraz w skład władz statutowych tego zakładu nie mogą wchodzić osoby, które są:
+W ramach działalności akwizycyjnej prowadzonej przez otwarte fundusze nie jest dozwolone oferowanie dodatkowych korzyści materialnych z tytułu członkostwa w otwartym funduszu, jeżeli celem takiego działania miałoby być skłonienie kogokolwiek, aby przystąpił do funduszu lub pozostawał jego członkiem.
 
-- **1)** członkami zarządu, rady nadzorczej lub pracownikami pracowniczego towarzystwa zarządzającego pracowniczym funduszem, którego aktywa przechowuje;
-- **2)** członkami organu zarządzającego, rady nadzorczej lub pracownikami podmiotu związanego w stosunku do pracowniczego towarzystwa zarządzającego pracowniczym funduszem, którego aktywa przechowuje.
+### 2.
 
-2. Jeżeli zakład ubezpieczeń na życie w trakcie trwania umowy o przyjmowanie składek przestanie spełniać przynajmniej jeden z warunków, o których mowa w ust. 1, jest obowiązany:
+Przepis ust. 1 stosuje się odpowiednio do innej działalności niż określona w tym przepisie, jeżeli w jej ramach oferuje się dodatkowe korzyści materialne w zamian za przystąpienie do określonego otwartego funduszu lub pozostawanie jego członkiem.
 
-- **1)** zawiadomić o tym niezwłocznie organ nadzoru oraz pracowniczy fundusz;
-- **2)** dostosować się do warunków, o których mowa w ust. 1, w terminie nie dłuższym niż 3 miesiące, licząc od dnia, w którym naruszył te warunki.
+### 3.
 
-**Art. 106j.**
+Działalność akwizycyjna, w rozumieniu ust. 1, oznacza wszelką działalność zarobkową, mającą na celu skłonienie kogokolwiek, aby przystąpił do otwartego funduszu lub pozostawał członkiem tego funduszu. Działalność akwizycyjna obejmuje także zawieranie w imieniu otwartego funduszu umów, na których podstawie następuje uzyskanie członkostwa w tym funduszu, oraz pośredniczenie przy zawieraniu takich umów.
 
-1. Zakład ubezpieczeń na życie, w przypadku zapewnienia ubezpieczenia od ryzyk biometrycznych lub gwarancji, ma obowiązek zapewnić:
+### Art. 93.
 
-- **1)** kwotę pasywów w wysokości odpowiadającej zobowiązaniom finansowym, które wynikają z umowy o przyjmowanie składek;
-- **2)** rezerwy techniczno-ubezpieczeniowe w odpowiedniej wysokości, w odniesieniu do pełnego zakresu programu emerytalnego pracodawcy zagranicznego;
-- **3)** coroczne ustalenie wartości i poświadczenie przez aktuariusza rezerw techniczno-ubezpieczeniowych.
+### 1.
 
-2. Rezerwy techniczno-ubezpieczeniowe oblicza się zgodnie z następującymi zasadami:
+Działalność akwizycyjną na rzecz otwartego funduszu mogą prowadzić:
 
-- **1)** kwota rezerw techniczno-ubezpieczeniowych jest wyliczana na podstawie dostatecznie ostrożnej wyceny aktuarialnej, biorąc pod uwagę wszystkie zobowiązania z tytułu świadczeń i składek zgodnie z postanowieniami dotyczącymi wypłaty świadczeń w przypadku danego pracodawcy zagranicznego;
-- **2)** rezerwy techniczno-ubezpieczeniowe muszą być wystarczające zarówno do pokrycia wypłat emerytur i innych świadczeń już wypłacanych dla beneficjentów w rozumieniu prawa krajowego pracodawcy zagranicznego, którym nadal będą wypłacane, oraz odzwierciedlać zobowiązania, jakie wynikają z należnych uprawnień emerytalnych uczestników;
-- **3)** założenia ekonomiczne i aktuarialne przyjęte dla wyceny pasywów są określane w sposób ostrożny;
-- **4)** stosowane techniczne stopy procentowe są ustalane w sposób ostrożny i określone zgodnie z odpowiednimi przepisami krajowego prawa pracodawcy zagranicznego; techniczne stopy procentowe są ustalane z uwzględnieniem: przychodu z odpowiednich aktywów posiadanych przez instytucję i przyszłych dochodów z inwestycji lub przychodów rynkowych z obligacji o wysokiej jakości lub obligacji państwowych;
-- **5)** tablice biometryczne wykorzystywane w celu ustalania wartości rezerw techniczno-ubezpieczeniowych uwzględniają główne cechy charakterystyczne grupy uczestników i systemów emerytalnych, w szczególności przewidywane zmiany odpowiednich ryzyk;
-- **6)** metody i podstawy wyliczenia rezerw techniczno-ubezpieczeniowych są stosowane w sposób ciągły w kolejnych latach obrotowych, a ewentualny brak ciągłości może być uzasadniony zmianami prawnymi, zmianami demograficznymi lub okolicznościami gospodarczymi, leżącymi u podstaw założeń przyjętych do wyliczenia tych rezerw.
+### 1)
 
-3. Zakład ubezpieczeń na życie jest obowiązany posiadać:
+banki krajowe w rozumieniu ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe ([Dz. U. z 1992 r. Nr 72, poz. 359](https://api.sejm.gov.pl/eli/acts/DU/1992/359/text.html), z [1993 r. Nr 6, poz. 29](https://api.sejm.gov.pl/eli/acts/DU/1993/29/text.html), [Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 80, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1994/369/text.html) i [Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html), z [1995 r. Nr 4, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/1995/18/text.html) i [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html), z [1996 r. Nr 10, poz. 61](https://api.sejm.gov.pl/eli/acts/DU/1996/61/text.html), [Nr 75, poz. 357](https://api.sejm.gov.pl/eli/acts/DU/1996/357/text.html), [Nr 90, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1996/406/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 23, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1997/117/text.html), [Nr 24, poz. 119](https://api.sejm.gov.pl/eli/acts/DU/1997/119/text.html), [Nr 71, poz. 449](https://api.sejm.gov.pl/eli/acts/DU/1997/449/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html) i [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html)),
 
-- **1)** aktywa i pasywa odpowiadające działalności wynikającej z umowy o przyjmowanie składek, wyodrębnione, zarządzane i tworzone odrębnie w stosunku do innej działalności zakładu, bez możliwości ich przeniesienia;
-- **2)** dodatkowe aktywa ponad rezerwy techniczno-ubezpieczeniowe dla celów rachunkowości, które służą jako zabezpieczenie zobowiązań wynikających z umowy o przyjmowanie składek, w wysokości równej marginesowi wypłacalności ustalonemu dla odpowiednich rodzajów ryzyka, o których mowa w dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
-- **3)** środki własne w wysokości nie niższej niż margines wypłacalności i nie niższej niż kapitał gwarancyjny.
+### 2)
 
-4. Kapitał gwarancyjny, o którym mowa w ust. 3 pkt 3, jest równy większej z wartości:
+zakłady ubezpieczeń,
 
-- **1)** jednej trzeciej marginesu wypłacalności;
-- **2)** minimalnej wysokości kapitału gwarancyjnego. Art. 106ja. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, szczegółowy sposób wyliczenia wysokości marginesu wypłacalności dla działu I i grup ubezpieczeń działu I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej oraz minimalną wysokość kapitału gwarancyjnego dla działu I załącznika do tej ustawy, uwzględniając konieczność zapewnienia wypłacalności zakładów ubezpieczeń na życie, do których pracowniczy fundusz przekazuje składki pracowników zagranicznych. Art. 106jb. 1. Środki własne zakładu ubezpieczeń na życie stanowią aktywa zakładu ubezpieczeń na życie, z wyłączeniem aktywów:
-- **1)** przeznaczonych na pokrycie wszelkich przewidywalnych zobowiązań;
-- **2)** wartości niematerialnych i prawnych;
-- **3)** akcji własnych i udziałów własnych będących w posiadaniu zakładu ubezpieczeń na życie;
-- **4)** z tytułu odroczonego podatku dochodowego.
+### 3)
 
-2. Z aktywów stanowiących środki własne zakładu ubezpieczeń na życie wyłącza się posiadane przez zakład ubezpieczeń na życie w odniesieniu do innych zakładów ubezpieczeń, zakładów reasekuracji, instytucji kredytowych i instytucji finansowych, w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488), zwanej dalej „ustawą – Prawo bankowe”, oraz firm inwestycyjnych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi:
+podmioty prowadzące działalność maklerską w rozumieniu przepisów prawo o publicznym obrocie papierami wartościowymi,
 
-- **1)** pożyczki podporządkowane spełniające warunki określone w ust. 4 pkt 2;
-- **2)** skumulowane niezapłacone dywidendy z tytułu akcji uprzywilejowanych.
+### 4)
 
-3. Środki własne zakładu ubezpieczeń na życie powinny w szczególności odpowiadać:
+agenci ubezpieczeniowi,
 
-- **1)** wartości opłaconego kapitału zakładowego;
-- **2)** wartości zobowiązań wobec członków towarzystwa ubezpieczeń wzajemnych, w przypadku towarzystwa ubezpieczeń wzajemnych, pod warunkiem że zgodnie ze statutem towarzystwa ubezpieczeń wzajemnych zobowiązania wobec członków towarzystwa ubezpieczeń wzajemnych:
-    - **a)** mogą być spłacone członkom towarzystwa ubezpieczeń wzajemnych wyłącznie wtedy, gdy nie spowoduje to naruszenia art. 106j ust. 3 pkt 3,
-    - **b)** w przypadku likwidacji towarzystwa ubezpieczeń wzajemnych, mogą być spłacone członkom towarzystwa ubezpieczeń wzajemnych wyłącznie po spłaceniu wszelkich innych zobowiązań towarzystwa ubezpieczeń wzajemnych,
-    - **c)** z wyłączeniem indywidualnych płatności związanych z wygaśnięciem członkostwa, nie mogą być spłacane przed przekazaniem informacji o zamiarze dokonania spłaty, w terminie 30 dni przed dniem spłaty, organowi nadzoru, który może zakazać w tym terminie dokonywania spłaty;
+### 5)
 
-- **3)** kapitałowi zapasowemu i kapitałom rezerwowym oraz kapitałowi z aktualizacji wyceny;
-- **4)** niepodzielonemu wynikowi finansowemu z lat ubiegłych po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna;
-- **5)** wynikowi finansowemu netto w okresie sprawozdawczym po potrąceniu należnych dywidend: zysk – wielkość dodatnia, strata – wielkość ujemna.
+podmioty prowadzące działalność brokerską w rozumieniu przepisów o działalności ubezpieczeniowej,
 
-4. Na wniosek zakładu ubezpieczeń na życie i na podstawie przedstawionych przez niego dowodów organ nadzoru może, w drodze decyzji, wyrazić zgodę na zaliczenie do środków własnych:
+### 6)
 
-- **1)** ukrytych rezerw wynikających z niedoszacowania aktywów lub przeszacowania pasywów w bilansie dla celów rachunkowości, o ile takie ukryte rezerwy nie mają wyjątkowego charakteru;
-- **2)** kapitału pożyczek podporządkowanych spełniających łącznie następujące warunki:
-    - **a)** kapitał pożyczek podporządkowanych nie może stanowić więcej niż 25 % środków własnych,
-    - **b)** kapitał pożyczek podporządkowanych jest opłacony w pełnej wysokości,
-    - **c)** w umowie pożyczki zawarto warunki, zgodnie z którymi kapitał pożyczek podporządkowanych w przypadku upadłości albo likwidacji zakładu ubezpieczeń na życie może być spłacony dopiero po zaspokojeniu wszystkich innych wierzycieli zakładu ubezpieczeń,
-    - **d)** w przypadku pożyczek z określonym okresem spłaty, pierwotny okres spłaty wynosi przynajmniej 5 lat,
-    - **e)** w przypadku pożyczek, których termin spłaty nie jest ustalony, pożyczki te mogą być spłacane wyłącznie z zachowaniem 5-letniego okresu wypowiedzenia, chyba że nie są już zaliczane do środków własnych,
-    - **f)** w umowie pożyczki nie zawarto warunków przewidujących, że w określonych okolicznościach, innych niż likwidacja zakładu ubezpieczeń na życie, zadłużenie zostanie spłacone przed uzgodnionym terminem spłaty,
-    - **g)** w umowie pożyczki zawarto warunki, zgodnie z którymi umowa pożyczki może być zmieniona tylko po otrzymaniu od organu nadzoru oświadczenia o braku zastrzeżeń do planowanych zmian;
+państwowe przedsiębiorstwo użyteczności publicznej „Poczta Polska”.
 
-- **3)** połowy należnych wpłat na kapitał zakładowy, pod warunkiem że 25 % tego kapitału zostało opłacone, nie więcej jednak niż równowartość 50 % mniejszej spośród wartości marginesu wypłacalności lub środków własnych zakładu ubezpieczeń na życie;
-- **4)** w przypadku gdy zakład ubezpieczeń na życie nie stosuje metody Zillmera lub stosuje ją, lecz nie uwzględnia przy tym kosztów akwizycji w pełnej wysokości – różnicy między wysokością rezerwy w dziale ubezpieczeń na życie obliczoną przez zakład ubezpieczeń na życie i wysokością rezerwy w dziale ubezpieczeń na życie obliczoną przy zastosowaniu metody Zillmera, z uwzględnieniem kosztów akwizycji w pełnej wysokości.
+### 2.
 
-5. W przypadku, o którym mowa w ust. 4 pkt 2 lit. d, zakład ubezpieczeń na życie przedstawia organowi nadzoru, nie później niż przed upływem 12 miesięcy przed terminem spłaty pożyczki, plan przedstawiający sposób utrzymania lub podniesienia środków własnych do wymaganej wartości przed terminem spłaty, chyba że warunki zaliczenia pożyczki do środków własnych stopniowo ograniczają wartość pożyczki zaliczanej do środków własnych przez okres co najmniej 5 lat przed terminem spłaty. Organ nadzoru może zezwolić na przedterminową spłatę pożyczki, na wniosek zakładu ubezpieczeń na życie, pod warunkiem że nie spowoduje to naruszenia art. 106j ust. 3 pkt 3.
+Działalność akwizycyjna może być prowadzona przez otwarty fundusz bez pośrednictwa podmiotów, o których mowa w ust. 1.
 
-6. W przypadku, o którym mowa w ust. 4 pkt 2 lit. e, dokonanie przedterminowej spłaty może nastąpić wyłącznie po uzyskaniu uprzedniej zgody organu nadzoru, na wniosek zakładu ubezpieczeń na życie, który zawiadamia organ nadzoru o planowanej spłacie co najmniej 6 miesięcy przed planowanym terminem spłaty i przedstawia dane o wartości środków własnych i dane o wartości środków własnych przed dokonaniem płatności i po jej dokonaniu płatności. Organ nadzoru może zezwolić na spłatę pożyczek, pod warunkiem że nie spowoduje to naruszenia art. 106j ust. 3 pkt 3.
+### 3.
 
-7. Wielkość, o której mowa w ust. 4 pkt 4, nie może przekroczyć 3,5 % sumy różnicy pomiędzy sumami kapitału i wysokości rezerwy w dziale ubezpieczeń na życie dla wszystkich umów ubezpieczenia, dla których stosowanie metody Zillmera jest dopuszczalne. Różnica zaliczana do środków własnych jest pomniejszana o nierozliczone koszty akwizycji, wykazane w bilansie dla celów rachunkowości jako aktywa. Art. 106jc. Środki własne na pokrycie kapitału gwarancyjnego stanowią aktywa, o których mowa w art. 106jb, z wyłączeniem aktywów, o których mowa w art. 106jb ust. 4 pkt 3.
+Czynności akwizycyjne mogą wykonywać wyłącznie osoby fizyczne wpisane do rejestru osób uprawnionych do wykonywania czynności akwizycyjnych na rzecz otwartych funduszy, prowadzonego przez Urząd Nadzoru.
 
-**Art. 106k.** Przy ustalaniu wartości aktywów netto pracowniczego funduszu nie uwzględnia się składek pracowników zagranicznych, o których mowa w art. 2 ust. 4.
+### 4.
 
-#### Rozdział 10b Przeniesienie transgraniczne
+Jeżeli otwarty fundusz prowadzi działalność akwizycyjną bez pośrednictwa podmiotów, o których mowa w ust. 1, czynności akwizycyjne na rzecz tego funduszu mogą być wykonywane wyłącznie przez osoby fizyczne zatrudnione przez powszechne towarzystwo będące organem tego funduszu.
 
-**Art. 106l.**
+### 5.
 
-1. Pracowniczy fundusz przenoszący może przenieść w ramach przeniesienia transgranicznego zobowiązania tego funduszu oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne związane z przenoszonym pracowniczym programem emerytalnym do pracowniczego funduszu przyjmującego.
+Czynności akwizycyjne nie mogą być wykonywane na rzecz otwartego funduszu w ramach działalności gospodarczej, chyba że osoba fizyczna wykonująca te czynności jest agentem ubezpieczeniowym lub prowadzi działalność brokerską w rozumieniu przepisów o działalności ubezpieczeniowej.
 
-2. Koszty przeniesienia transgranicznego, o którym mowa w ust. 1, ponoszą członkowie pracowniczego funduszu przenoszącego, których to przeniesienie dotyczy, a którzy uprzednio je zatwierdzili, zgodnie z art. 106m ust. 1 pkt 1.
+### 6.
 
-3. Koszty, o których mowa w ust. 2, są potrącane z ekwiwalentów pieniężnych związanych z przenoszonym pracowniczym programem emerytalnym. Maksymalna wysokość kosztów oraz szczegółowy tryb i sposób ich potrącania są określone w statucie pracowniczego funduszu przenoszącego.
+Osoba fizyczna wpisana do rejestru, o którym mowa w ust. 3, może wykonywać czynności akwizycyjne na rzecz więcej niż jednego otwartego funduszu.
 
-4. Pracowniczy fundusz przyjmujący może przyjąć w ramach przeniesienia transgranicznego od pracowniczego funduszu przenoszącego zobowiązania tego funduszu oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne związane z przyjmowanym pracowniczym programem emerytalnym.
+### Art. 94.
 
-**Art. 106m.**
+### 1.
 
-1. Przeniesienie transgraniczne, o którym mowa w art. 106l ust. 1, podlega uprzedniemu zatwierdzeniu przez:
+Do rejestru, o którym mowa w art. 93 ust. 3, może być wpisana osoba fizyczna, która:
 
-- **1)** zwykłą większość członków pracowniczego funduszu przenoszącego i osób uprawnionych do otrzymania wypłaty, których ono dotyczy, albo ich przedstawicieli, oraz
-- **2)** pracodawcę.
+### 1)
 
-2. Informacje o warunkach przeniesienia transgranicznego pracownicze towarzystwo zarządzające pracowniczym funduszem przenoszącym udostępnia członkom funduszu i osobom uprawnionym do otrzymania wypłaty, których ono dotyczy, albo ich przedstawicielom, na co najmniej 30 dni przed planowanym dniem złożenia przez pracowniczy fundusz przyjmujący wniosku o wydanie zezwolenia na przeniesienie transgraniczne składanego do organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego.
+ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
 
-**Art. 106n.**
+### 2)
 
-1. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, przeniesienie transgraniczne, o którym mowa w art. 106l ust. 4, wymaga wydania przez organ nadzoru zezwolenia na przeniesienie transgraniczne.
+nie była skazana prawomocnym wyrokiem za przestępstwo umyślne przeciwko mieniu, wiarygodności dokumentów, przestępstwo skarbowe lub przestępstwo, o którym mowa w rozdziale 22,
 
-2. Wniosek o wydanie zezwolenia na przeniesienie transgraniczne składa do organu nadzoru pracowniczy fundusz przyjmujący.
+### 3)
 
-3. Wniosek, o którym mowa w ust. 2, zawiera:
+ma pełną zdolność do czynności prawnych.
 
-- **1)** pisemne porozumienie między pracowniczym towarzystwem zarządzającym pracowniczym funduszem przenoszącym i pracowniczym towarzystwem zarządzającym pracowniczym funduszem przyjmującym, w którym określa się warunki przeniesienia;
-- **2)** opis głównych cech charakterystycznych pracowniczego programu emerytalnego;
-- **3)** opis przenoszonych zobowiązań oraz innych zobowiązań i praw, jak również związanych z nimi aktywów lub ich ekwiwalentów pieniężnych;
-- **4)** nazwę i siedzibę pracowniczego funduszu przenoszącego i pracowniczego funduszu przyjmującego oraz nazwy państw członkowskich Unii Europejskiej, w których każdy z tych pracowniczych funduszy jest zarejestrowany lub wykonuje działalność na podstawie zezwolenia;
-- **5)** firmę, siedzibę i adres pracodawcy;
-- **6)** potwierdzenie uprzedniego zatwierdzenia zgodnie z art. 106m ust. 1;
-- **7)** nazwy państw członkowskich Unii Europejskiej, których przepisy prawa ubezpieczeń społecznych i prawa pracy odnoszące się do pracowniczych programów emerytalnych stosuje się do danego programu emerytalnego.
+### 2.
 
-4. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru przekazuje wniosek, o którym mowa w ust. 2, właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego niezwłocznie po jego otrzymaniu, w celu umożliwienia wydania zgody na przeniesienie transgraniczne.
+Urząd Nadzoru dokonuje wpisu do rejestru na podstawie zgłoszenia dokonanego przez podmiot prowadzący działalność akwizycyjną na rzecz otwartego funduszu, a jeżeli otwarty fundusz nie korzysta z pośrednictwa takiego podmiotu - przez ten fundusz. Odmowa wpisu następuje w drodze decyzji administracyjnej.
 
-5. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru ocenia, czy:
+### 3.
 
-- **1)** wniosek o wydanie zezwolenia na przeniesienie transgraniczne spełnia wymagania określone w ust. 3;
-- **2)** struktura pracowniczego funduszu przyjmującego jest zgodna z proponowanym przeniesieniem transgranicznym;
-- **3)** sytuacja finansowa pracowniczego funduszu przyjmującego jest zgodna z proponowanym przeniesieniem transgranicznym;
-- **4)** członkowie zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem przyjmującym spełniają wymogi określone w art. 41 ust. 1;
-- **5)** długoterminowe interesy członków pracowniczego funduszu przyjmującego, przenoszone zobowiązania pracowniczego funduszu przenoszącego oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne są odpowiednio chronione w trakcie przeniesienia i po nim;
-- **6)** przenoszone aktywa lub ich ekwiwalenty pieniężne są wystarczające i odpowiednie do pokrycia przenoszonych zobowiązań oraz innych zobowiązań i praw, zgodnie z przepisami prawa obowiązującymi pracowniczy fundusz przyjmujący.
+Rejestr osób uprawnionych do wykonywania czynności akwizycyjnych na rzecz otwartych funduszy zawiera:
 
-6. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru, po uzyskaniu od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacji o wydaniu zgody na przeniesienie transgraniczne, wydaje, w drodze decyzji, zezwolenie na przeniesienie transgraniczne albo odmawia wydania takiego zezwolenia i doręcza decyzję pracowniczemu funduszowi przyjmującemu w terminie 3 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 2.
+### 1)
 
-7. Organ nadzoru przekazuje decyzję, o której mowa w ust. 6, właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego w terminie 2 tygodni od dnia wydania takiej decyzji.
+numer wpisu do rejestru,
 
-8. Decyzja, o której mowa w ust. 6, zawiera wyniki oceny, o której mowa w ust. 5.
+### 2)
 
-9. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru odmawia wydania zezwolenia na przeniesienie transgraniczne, jeżeli ocena, o której mowa w ust. 5, wykazała niespełnienie któregokolwiek z wymogów, o których mowa w tym przepisie.
+podstawowe dane osobowe osób wpisanych do rejestru, obejmujące:
 
-10. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym i do organu nadzoru wpłynie, za pośrednictwem właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, wniosek pracowniczego funduszu przyjmującego o wydanie zezwolenia na przeniesienie transgraniczne, organ nadzoru w terminie 8 tygodni od dnia otrzymania tego wniosku dokonuje oceny, o której mowa w ust. 11, i wydaje zgodę na przeniesienie transgraniczne albo odmawia wydania takiej zgody i przekazuje ją właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego, w celu umożliwienia temu organowi wydania zezwolenia na przeniesienie transgraniczne.
+### a)
 
-11. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru ocenia, czy:
+imiona i nazwisko,
 
-- **1)** w przypadku przeniesienia zobowiązań pracowniczego funduszu przenoszącego oraz innych zobowiązań i praw, jak również związanych z nimi aktywów lub ich ekwiwalentów pieniężnych, długoterminowe interesy członków funduszu i osób uprawnionych do otrzymania wypłaty, zobowiązania funduszu oraz inne zobowiązania i prawa, jak również związane z nimi aktywa lub ich ekwiwalenty pieniężne są odpowiednio chronione;
-- **2)** indywidualne uprawnienia członków funduszu oraz osób uprawnionych do otrzymania wypłaty są co najmniej takie same po przeniesieniu;
-- **3)** przenoszone aktywa lub ich ekwiwalenty pieniężne związane z pracowniczym programem emerytalnym są wystarczające i odpowiednie do pokrycia przenoszonych zobowiązań oraz innych zobowiązań i praw, zgodnie z przepisami prawa obowiązującymi pracowniczy fundusz przenoszący.
+### b)
 
-12. Zgoda lub odmowa wydania zgody, o których mowa w ust. 10, zawierają wyniki oceny, o której mowa w ust. 11.
+datę i miejsce urodzenia,
 
-13. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru odmawia wydania zgody na przeniesienie transgraniczne, jeżeli ocena, o której mowa w ust. 11, wykazała niespełnienie któregokolwiek z wymogów, o których mowa w tym przepisie.
+### c)
 
-**Art. 106o.**
+imiona rodziców,
 
-1. W przypadku niewydania przez organ nadzoru w terminie 3 miesięcy decyzji, o której mowa w art. 106n ust. 6, pracowniczemu funduszowi przyjmującemu przysługuje prawo do wniesienia do organu nadzoru ponaglenia, o którym mowa w art. 37 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+### d)
 
-2. Pracowniczemu funduszowi przyjmującemu przysługuje, w każdym czasie po wniesieniu ponaglenia do organu nadzoru, prawo do wniesienia skargi na bezczynność organu do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu przyjmującego, za pośrednictwem organu nadzoru.
+numer powszechnego elektronicznego systemu ewidencji ludności PESEL,
 
-**Art. 106p.**
+### e)
 
-1. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, a organ nadzoru odmówił wydania zezwolenia, o którym mowa w art. 106n ust. 1, pracowniczemu funduszowi przyjmującemu przysługuje prawo do wniesienia skargi na tę decyzję do sądu administracyjnego właściwego ze względu na umiejscowienie siedziby pracowniczego funduszu przyjmującego.
+miejsce zamieszkania,
 
-2. Skargę, o której mowa w ust. 1, wnosi się za pośrednictwem organu nadzoru, w terminie 30 dni od dnia otrzymania odmowy wydania zezwolenia, o którym mowa w art. 106n ust. 1.
+### 3)
 
-**Art. 106q.**
+nazwę podmiotu, w którego imieniu osoba wpisana do rejestru wykonuje czynności akwizycyjne,
 
-1. W przypadku gdy przeniesienie transgraniczne skutkuje działalnością transgraniczną i działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru przekazuje właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego informacje o wymogach wynikających z przepisów prawa ubezpieczeń społecznych i prawa pracy oraz o wymogach dotyczących przekazywania informacji określonych w art. 22–22d ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych w terminie 4 tygodni od dnia otrzymania od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego informacji o decyzji o wydaniu zezwolenia na przeniesienie transgraniczne.
+### 4)
 
-2. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, organ nadzoru przekazuje temu funduszowi uzyskane od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje odpowiadające informacjom, o których mowa w ust. 1, w terminie tygodnia od dnia ich otrzymania.
+nazwę otwartego funduszu, na którego rzecz osoba wpisana do rejestru wykonuje czynności akwizycyjne.
 
-3. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym, może on rozpocząć zarządzanie programem emerytalnym po otrzymaniu decyzji o wydaniu zezwolenia, o której mowa w art. 106n ust. 6, lub gdy w terminie, o którym mowa w ust. 2, organ nadzoru nie przekazał żadnych informacji.
+### 4.
 
-4. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przyjmującym i prowadzi działalność transgraniczną, organ nadzoru przekazuje właściwemu organowi nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przenoszącego informacje o istotnych zmianach wymogów wynikających z przepisów prawa ubezpieczeń społecznych i prawa pracy, dotyczących pracowniczych programów emerytalnych, które mogą wpływać na cechy charakterystyczne programu emerytalnego w zakresie, w jakim dotyczy to działalności transgranicznej, oraz o zmianach wymogów dotyczących przekazywania informacji określonych w art. 22–22d ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+Urząd Nadzoru dokonuje w drodze decyzji administracyjnej wykreślenia osoby wpisanej do rejestru na wniosek podmiotu, w imieniu którego osoba ta wykonuje czynności akwizycyjne, lub z urzędu, jeżeli osoba ta:
 
-5. W przypadku gdy działający na terytorium Rzeczypospolitej Polskiej pracowniczy fundusz staje się pracowniczym funduszem przenoszącym, organ nadzoru przekazuje temu funduszowi informacje odpowiadające informacjom, o których mowa w ust. 4, uzyskane od właściwego organu nadzoru rodzimego państwa członkowskiego pracowniczego funduszu przyjmującego.
+### 1)
 
-#### Rozdział 11 Wypłata środków zgromadzonych na rachunku
+przestała spełniać warunki konieczne do uzyskania wpisu do rejestru,
 
-**Art. 107.**
+### 2)
 
-1. Członek funduszu nie może rozporządzać środkami zgromadzonymi na swoim rachunku.
+nie wykonuje czynności akwizycyjnych przez okres dłuższy niż 2 lata,
 
-2. Przepisu ust. 1 nie stosuje się do rozrządzeń członka funduszu na wypadek śmierci oraz do rozporządzeń środkami zgromadzonymi przez członka dobrowolnego funduszu na IKE oraz IKZE, a także do rozporządzeń środkami zgromadzonymi w PPK, do których mają zastosowanie przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 3)
 
-**Art. 108.** Środki zgromadzone na rachunku członka otwartego funduszu nie podlegają egzekucji.
+wykonuje czynności akwizycyjne z naruszeniem przepisów prawa.
 
-**Art. 109.** Środki zgromadzone na rachunku PPK członka pracowniczego funduszu oraz środki zgromadzone na rachunku członka pracowniczego funduszu podlegają egzekucji na zasadach określonych odpowiednio w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych oraz w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+### 5.
 
-**Art. 110.** Warunki nabycia przez członka otwartego funduszu uprawnień do wypłaty środków zgromadzonych na jego rachunku oraz zasady wypłaty tych środków określają odrębne ustawy.
+Podmiot, w którego imieniu osoba wpisana do rejestru wykonuje czynności akwizycyjne, zgłasza niezwłocznie Urzędowi Nadzoru fakt zaprzestania wykonywania przez tę osobę czynności akwizycyjnych w jego imieniu. Na podstawie zgłoszenia Urząd Nadzoru wpisuje do rejestru odpowiednią wzmiankę.
 
-**Art. 111.** Przekazanie środków zgromadzonych na rachunku w otwartym funduszu następuje przez przeniesienie tych środków na fundusz emerytalny FUS.
+### 6.
 
-**Art. 111a.**
+Jeżeli osoba wpisana do rejestru rozpoczyna wykonywanie czynności akwizycyjnych w imieniu podmiotu innego niż podmiot wpisany do rejestru, podmiot ten obowiązany jest zgłosić ten fakt niezwłocznie Urzędowi Nadzoru. Zgłoszenie powinno nastąpić przed rozpoczęciem wykonywania czynności akwizycyjnych. Na podstawie zgłoszenia Urząd Nadzoru dokonuje odpowiedniej zmiany w rejestrze oraz wykreślenia wzmianki, o której mowa w ust. 5.
 
-1. Środki zgromadzone na rachunku członka otwartego funduszu są przekazywane przez ten fundusz, za pośrednictwem Zakładu Ubezpieczeń Społecznych, na dochody budżetu państwa w przypadku, gdy:
+### 7.
 
-- **1)** właściwy organ emerytalny zawiadomi o ustaleniu członkowi otwartego funduszu prawa do emerytury: U. z 2024 r. poz. 242) lub
-    - **a)** obliczonej na podstawie art. 15, art. 15aa, art. 15c lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz.
-    - **b)** obliczonej na podstawie art. 15, art. 15aa, art. 15c, art. 15e lub prawa do jej zwiększenia na podstawie art. 14 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2023 r. poz. 1280, 1429 i 1834);
+Z zastrzeżeniem ust. 6, podmiot, w którego imieniu osoba wpisana do rejestru wykonuje czynności akwizycyjne, obowiązany jest zgłaszać Urzędowi Nadzoru zmiany danych objętych wpisem do rejestru w terminie 30 dni od dnia powzięcia o nich wiadomości. Odmowa wpisu zmiany danych następuje w drodze decyzji administracyjnej.
 
-- **2)** Zakład Ubezpieczeń Społecznych zawiadomi o ustaleniu członkowi otwartego funduszu prawa do emerytury na podstawie art. 46–50a, art. 50e lub art. 184 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz o obliczeniu wysokości emerytury na podstawie art. 183 tej ustawy;
-- **3)** Kasa Rolniczego Ubezpieczenia Społecznego zawiadomi o wyborze przez członka otwartego funduszu renty rolniczej z tytułu niezdolności do pracy albo renty rodzinnej z ubezpieczenia na podstawie art. 33 ust. 2b ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 2024 r. poz. 90);
-- **4)** Minister Sprawiedliwości zawiadomi o przejściu w stan spoczynku z prawem do uposażenia, o którym mowa w art. 100 § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334), sędziego będącego członkiem otwartego funduszu.
+### 8.
 
-2. W przypadku, o którym mowa w ust. 1, otwarty fundusz emerytalny nie może pobierać opłaty.
+Za wpis do rejestru oraz zmianę danych objętych wpisem Urząd Nadzoru pobiera opłatę, która stanowi dochód środka specjalnego Urzędu Nadzoru, o którym mowa w art. 203 ust. 5. Opłaty nie pobiera się za wykreślenie z rejestru, o którym mowa w ust. 4, oraz za wpis i wykreślenie wzmianki, o której mowa w ust. 5.
 
-2a. W przypadku ustalenia prawa do emerytury, o której mowa w ust. 1 pkt 2, Zakład Ubezpieczeń Społecznych wykreśla wpis o członkostwie w otwartym funduszu z Centralnego Rejestru Członków Otwartych Funduszy Emerytalnych i zawiadamia o tym wykreśleniu fundusz emerytalny.
+### 9.
 
-2b. Z dniem ustalenia prawa do emerytury, o której mowa w ust. 1 pkt 2, umowa z otwartym funduszem staje się nieważna z mocy prawa.
+Minister Finansów, w porozumieniu z Prezesem Urzędu Nadzoru, określa, w drodze rozporządzenia, wysokość oraz warunki i terminy uiszczania opłat z tytułów, o których mowa w ust. 8 zdanie pierwsze, przy czym wysokość opłaty za wpis do rejestru nie może przekraczać 250% najniższego wynagrodzenia za pracę pracowników w rozumieniu przepisów Kodeksu pracy, a wysokość opłaty za zmianę danych objętych wpisem nie może przekraczać 100% tego wynagrodzenia.
 
-2c. W przypadkach, o których mowa w ust. 1, nie stosuje się art. 100a.
+### Rozdział 9 Rachunki i przeliczenia składek
 
-3. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, termin i tryb dokonywania zwrotu w przypadkach, o których mowa w ust. 1, uwzględniając zasady współdziałania otwartych funduszy emerytalnych, organów emerytalnych i Zakładu Ubezpieczeń Społecznych przy dokonywaniu rozliczeń.
+### Art. 95.
 
-**Art. 111b.** (uchylony)
+Składki są wpłacane na rachunki prowadzone przez otwarte fundusze, w wysokości i na zasadach określonych w odrębnych ustawach, lub na rachunki prowadzone przez pracownicze fundusze, w wysokości i z częstotliwością określoną w planie emerytalnym, o którym mowa w ustawie o pracowniczych programach emerytalnych.
 
-**Art. 111c.**
+### Art. 96.
 
-1. Otwarty fundusz, po poinformowaniu przez Zakład Ubezpieczeń Społecznych o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku z ukończeniem przez ubezpieczonego wieku niższego o 10 lat od wieku emerytalnego, o którym mowa w art. 24 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, przekazuje na rachunek wskazany przez Zakład Ubezpieczeń Społecznych część środków zgromadzonych na rachunku członka otwartego funduszu odpowiadającą wartości umorzonych jednostek rozrachunkowych, o których mowa w art. 100c ust. 2.
+### 1.
 
-1a. Otwarty fundusz, po poinformowaniu przez Zakład Ubezpieczeń Społecznych o obowiązku przekazania środków zgromadzonych na rachunku członka otwartego funduszu na fundusz emerytalny FUS w związku ze złożeniem przez ubezpieczonego wniosku o emeryturę, o której mowa w art. 88a ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przekazuje na rachunek wskazany przez Zakład Ubezpieczeń Społecznych całość środków zgromadzonych na rachunku członka otwartego funduszu odpowiadającą wartości umorzonych jednostek rozrachunkowych, o których mowa w art. 100c ust. 2a.
+Składki do pracowniczego funduszu są wpłacane w imieniu pracowników będących członkami tego funduszu.
 
-2. Otwarty fundusz w dniu ustania członkostwa, o którym mowa w art. 81 ust. 10, przekazuje Zakładowi Ubezpieczeń Społecznych dane, o których mowa w art. 82 i art. 83.
+### 2.
 
-**Art. 111d.** (uchylony)
+Wpłaty składek, o których mowa w ust. 1, w imieniu pracowników dokonuje ich pracodawca będący akcjonariuszem pracowniczego towarzystwa.
 
-**Art. 112.** (uchylony)
+### 3.
 
-**Art. 113.**
+Składka do pracowniczego funduszu może być wpłacona także w wyniku dokonania wypłaty transferowej, o której mowa w ustawie o pracowniczych programach emerytalnych.
 
-1. Warunki nabycia przez członka pracowniczego funduszu uprawnień do wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych na jego rachunku określa ustawa o pracowniczych programach emerytalnych.
+### Art. 97.
 
-2. Warunki nabycia przez członka pracowniczego funduszu będącego funduszem zdefiniowanej daty uprawnień do wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych w PPK określa ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 1.
 
-**Art. 113a.**
+Wpłaty do otwartych funduszy i pracowniczych funduszy mogą być dokonywane w formie papierów wartościowych, na zasadach określonych w odrębnych ustawach.
 
-1. Warunki nabycia przez członka dobrowolnego funduszu prowadzącego IKE lub IKZE uprawnień do wypłaty, wypłaty transferowej, zwrotu środków zgromadzonych na IKE oraz IKZE i częściowego zwrotu środków zgromadzonych na IKE określa ustawa z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego w zakresie zgromadzonych tam środków.
+### 2.
 
-2. Warunki nabycia przez członka dobrowolnego funduszu będącego funduszem zdefiniowanej daty uprawnień do wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych w PPK określa ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+Wpłaty do pracowniczych funduszy mogą być dokonywane w formie akcji, o których mowa w art. 101, na zasadach określonych w rozdziale 10.
 
-**Art. 114.**
+### Art. 98.
 
-1. Pracowniczy fundusz jest obowiązany zapewnić członkom funduszu możliwość wypłaty całości środków zgromadzonych na ich rachunkach w formie wypłaty jednorazowej, z zastrzeżeniem ust. 1a.
+Z chwilą przystąpienia członka do funduszu, fundusz otwiera dla niego rachunek, na który są wpłacane składki oraz przekazywane wypłaty transferowe.
 
-1a. W przypadku pracowniczego funduszu będącego funduszem zdefiniowanej daty zasady wypłaty całości środków zgromadzonych w PPK w formie wypłaty jednorazowej określa ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### Art. 99.
 
-2. W trybie i na zasadach określonych w statucie pracowniczego funduszu wypłata środków może nastąpić także w formie wypłaty realizowanej w ratach, z zastrzeżeniem ust. 2a.
+### 1.
 
-2a. W przypadku pracowniczego funduszu będącego funduszem zdefiniowanej daty zasady wypłaty środków zgromadzonych w PPK w formie wypłaty realizowanej w ratach określa ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+Składki wpłacane do funduszu oraz otrzymane wypłaty transferowe są przeliczane na jednostki rozrachunkowe.
 
-3. Wypłata środków w obu formach lub w jednej z nich następuje na żądanie członka funduszu złożone w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku.
+### 2.
 
-**Art. 115.** Wypłata jednorazowa jest dokonywana nie później niż w terminie 1 miesiąca od dnia otrzymania przez pracowniczy fundusz żądania członka funduszu.
+Jednostka rozrachunkowa stanowi, na potrzeby ustalenia wartości aktywów netto funduszu, proporcjonalny udział w poszczególnych składnikach tych aktywów.
 
-**Art. 116.** Jeżeli wypłata jest realizowana w ratach, pierwsza rata płatna jest nie później niż w terminie 1 miesiąca od dnia otrzymania przez pracowniczy fundusz żądania członka funduszu, chyba że zażąda on wypłaty w terminie późniejszym.
+### 3.
 
-**Art. 117.** Członek otrzymujący wypłatę środków w ratach może w każdym czasie zażądać wypłaty środków pozostających na jego rachunku w formie wypłaty jednorazowej. Wypłata jednorazowa następuje z zachowaniem zasad określonych w art. 115.
+Całkowita wartość jednostek rozrachunkowych jest zawsze równa całkowitej wartości aktywów netto funduszu przeliczonych na te jednostki.
 
-**Art. 118.** Jeżeli do chwili ukończenia 70 lat członek pracowniczego funduszu nie wystąpi do funduszu z żądaniem wypłaty środków zgromadzonych na jego rachunku, fundusz dokonuje wypłaty tych środków w formie wypłaty jednorazowej w terminie 1 miesiąca od daty ukończenia przez członka funduszu 70 lat, z uwzględnieniem art. 42 ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+### 4.
 
-**Art. 119.**
+Składki oraz otrzymane wypłaty transferowe mogą być przeliczane również na części ułamkowe jednostki rozrachunkowej, a wartość środków na rachunku członka może być wyrażona w takich częściach ułamkowych.
 
-1. W razie przystąpienia przez członka otwartego funduszu do innego otwartego funduszu dotychczasowy fundusz dokonuje wypłaty transferowej do funduszu, do którego członek przystąpił, na podstawie zawiadomienia, o którym mowa w art. 84. Otwarty fundusz, do którego wypłata transferowa jest dokonywana, jest obowiązany przyjąć taką wypłatę.
+### 5.
 
-2. (uchylony)
+Wartość aktywów netto funduszu oraz wartość jednostki rozrachunkowej jest ustalana zgodnie z zasadami wyceny aktywów i zobowiązań funduszy.
 
-3. (uchylony)
+### 6.
 
-**Art. 120.**
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady wyceny aktywów i zobowiązań funduszy.
 
-1. Warunki dokonywania wypłat transferowych przez pracownicze fundusze określa ustawa z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych, z zastrzeżeniem ust. 2.
+### Art. 100.
 
-2. Warunki dokonywania wypłat transferowych przez pracownicze fundusze będące funduszami zdefiniowanej daty określa ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 1.
 
-**Art. 121.** Nie jest dozwolone dokonywanie wypłaty transferowej z rachunku w otwartym funduszu na rachunek w pracowniczym funduszu ani z rachunku w pracowniczym funduszu na rachunek w otwartym funduszu.
+Przeliczanie na jednostki rozrachunkowe wpłacanych składek oraz otrzymanych wypłat transferowych następuje w określonym dniu, zwanym dalej „dniem przeliczenia”, według wartości jednostek rozrachunkowych na ten dzień.
 
-**Art. 122.**
+### 2.
 
-1. Wypłaty transferowe między otwartymi funduszami odbywają się w ostatnim dniu roboczym lutego, maja, sierpnia i listopada.
+W przypadku pracowniczych funduszy dniem przeliczenia jest ostatni dzień roboczy miesiąca, o ile fundusz nie określi w statucie także innych dni przeliczenia.
 
-2. Kwota wypłaty transferowej jest ustalana w piątym dniu roboczym przed dniem tej wypłaty.
+### 3.
 
-**Art. 123.**
+W pierwszym dniu przeliczenia, następującym po dokonaniu wpłaty pierwszej składki do funduszu, wartość jednostki rozrachunkowej wynosi 10 zł.
 
-1. Rozliczenia wypłat transferowych między otwartymi funduszami dokonuje Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna, zwany dalej „Krajowym Depozytem”.
+### 4.
 
-2. Powszechne towarzystwo, będące organem otwartego funduszu, do którego dokonano wypłaty transferowej, uiszcza opłaty na rzecz Zakładu Ubezpieczeń Społecznych z tytułu refundacji kosztów za wykonanie czynności związanych z przystąpieniem członka do tego otwartego funduszu oraz na rzecz Krajowego Depozytu z tytułu refundacji kosztów za wykonywanie czynności związanych z rozliczaniem wypłat transferowych.
+Do czasu przeliczenie składek i wypłat transferowych są one przechowywane na odrębnym rachunku pieniężnym funduszu. Odsetki należne z tytułu przechowywania środków pieniężnych na tym rachunku stanowią przychód funduszu.
 
-2a. Opłata, jaką powszechne towarzystwo uiszcza na rzecz podmiotów, o których mowa w ust. 2, wynosi:
+### 5.
 
-- **1)** na rzecz Zakładu Ubezpieczeń Społecznych – 1 % kwoty minimalnego wynagrodzenia, określonego w przepisach odrębnych, od każdej zarejestrowanej umowy o członkostwo osoby przystępującej do nowego funduszu;
-- **2)** na rzecz Krajowego Depozytu – 1 % kwoty minimalnego wynagrodzenia, określonego w przepisach odrębnych, od każdej rozliczonej wypłaty transferowej.
+Przeliczanie papierów wartościowych, o których mowa w art. 97 ust. 1, na jednostki rozrachunkowe odbywa się na zasadach określonych w odrębnych ustawach.
 
-3. (uchylony)
+### 6.
 
-**Art. 123a.** Rada Ministrów określi, w drodze rozporządzenia, termin i tryb dokonywania wypłat transferowych w przypadkach, o których mowa w art. 119 oraz w przepisach rozdziałów 12 i 13. Rozporządzenie powinno określać zasady współdziałania Krajowego Depozytu i Zakładu Ubezpieczeń Społecznych oraz otwartych funduszy i Zakładu Ubezpieczeń Społecznych przy dokonywaniu rozliczeń wypłat transferowych oraz sposób rozdysponowania odsetek z tytułu przechowywania na rachunku środków przekazanych przez otwarte fundusze w ramach rozliczenia tej wypłaty.
+Prezes Rady Ministrów określi, w drodze rozporządzenia, dni przeliczenia w otwartych funduszach, przy czym dzień przeliczenia powinien przypadać nie rzadziej niż cztery razy w miesiącu.
 
-**Art. 124.** Szczegółowy tryb dokonywania rozliczeń wypłat transferowych między otwartymi funduszami określa Krajowy Depozyt w regulaminie zatwierdzonym przez organ nadzoru. Regulamin określa także wysokość opłat należnych Krajowemu Depozytowi, wnoszonych przez otwarte fundusze w związku z dokonaniem rozliczenia wypłat transferowych.
+### Rozdział 10 Rachunki ilościowe
 
-**Art. 125.** Wypłata transferowa nie wyłącza odpowiedzialności towarzystwa będącego organem funduszu dokonującego wypłaty transferowej wobec byłego członka tego funduszu lub innej osoby, na której rzecz wypłata transferowa została dokonana.
+### Art. 101.
 
-#### Rozdział 12 Podział środków w razie rozwodu lub unieważnienia małżeństwa
+### 1.
 
-**Art. 126.** Jeżeli małżeństwo członka otwartego funduszu uległo rozwiązaniu przez rozwód lub zostało unieważnione, środki zgromadzone na rachunku członka funduszu, przypadające byłemu współmałżonkowi w wyniku podziału majątku wspólnego małżonków, są przekazywane w ramach wypłaty transferowej na rachunek byłego współmałżonka w otwartym funduszu.
+Akcje uzyskane przez członków pracowniczego funduszu, nieodpłatnie lub na warunkach preferencyjnych, w następstwie prywatyzacji pracodawcy są składane na rachunkach ilościowych prowadzonych przez pracownicze fundusze na zasadach określonych w ustawie o pracowniczych programach emerytalnych.
 
-**Art. 127.** Wypłata transferowa jest dokonywana przez otwarty fundusz w terminie, o którym mowa w art. 122, po przedstawieniu funduszowi dowodu, że środki zgromadzone na rachunku członka funduszu przypadły byłemu współmałżonkowi.
+### 2.
 
-**Art. 128.**
+Pracowniczy fundusz może powierzyć prowadzenie rachunków ilościowych podmiotowi uprawnionemu do prowadzenia rachunków papierów wartościowych.
 
-1. Jeżeli były współmałżonek uprawniony nie posiada rachunku w otwartym funduszu i, w terminie 2 miesięcy od dnia przedstawienia dowodu, o którym mowa w art. 127, nie wskaże rachunku w jakimkolwiek otwartym funduszu, otwarty fundusz, do którego należy drugi z byłych współmałżonków, niezwłocznie otworzy rachunek na nazwisko byłego współmałżonka uprawnionego i przekaże na ten rachunek, w ramach wypłaty transferowej, przypadające mu środki zgromadzone na rachunku jego byłego współmałżonka. Z chwilą otwarcia rachunku były współmałżonek uprawniony uzyskuje członkostwo w funduszu. Fundusz niezwłocznie potwierdza na piśmie warunki członkostwa uprawnionego współmałżonka.
+### 3.
 
-2. W przypadku, o którym mowa w ust. 1, otwarty fundusz informuje byłego współmałżonka uprawnionego o prawie, o którym mowa w art. 82 ust. 1.
+Na jednym rachunku ilościowym nie mogą być składane akcje więcej niż jednego emitenta.
 
-**Art. 129.** Przepisy art. 126–128 stosuje się odpowiednio w przypadku ustania wspólności majątkowej w czasie trwania małżeństwa członka otwartego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
+### 4.
 
-**Art. 129a.**
+Akcje złożone na rachunkach ilościowych są ujmowane ilościowo.
 
-1. Osoby, którym na podstawie art. 128 otwarty fundusz emerytalny otworzył rachunek, mają prawo do jednorazowej wypłaty wszystkich środków zgromadzonych na rachunku, w terminie 14 dni od daty złożenia wniosku, w razie:
+### 5.
 
-- **1)** złożenia wniosku wraz z decyzją przyznającą emeryturę, zaopatrzenie emerytalne, emeryturę dla rolników lub uposażenie w stanie spoczynku;
-- **2)** nienabycia prawa do emerytury, o ile ukończyły 60 lat w przypadku kobiet i 65 lat w przypadku mężczyzn;
-- **3)** złożenia wniosku przez osoby urodzone przed dniem 1 stycznia 1969 r., jeżeli zgromadzone na ich rachunku środki w kwocie ustalonej w dniu złożenia wniosku nie są wyższe od kwoty stanowiącej:
-    - **a)** 50 % przeciętnego wynagrodzenia, o którym mowa w art. 20 pkt 3 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli otwarcie rachunku nastąpiło przed dniem 1 stycznia 2002 r.,
-    - **b)** 150 % przeciętnego wynagrodzenia, o którym mowa w art. 20 pkt 3 ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, jeżeli otwarcie rachunku nastąpiło po dniu 1 stycznia 2002 r.
+Członkowie pracowniczego funduszu nie mogą rozporządzać akcjami złożonymi na rachunkach ilościowych ani prawem do dywidendy z tych akcji.
 
-2. Osoby, które mają prawo do wcześniejszej emerytury na podstawie odrębnych przepisów, a którym otwarty fundusz emerytalny otworzył rachunek na podstawie art. 128, nie tracą prawa do wcześniejszej emerytury.
+### 6.
 
-3. Ubezpieczonym, o których mowa w art. 111 ust. 3 i 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, którzy uzyskali członkostwo w otwartym funduszu emerytalnym na podstawie art. 128, Zakład nie odprowadza na rachunek w otwartym funduszu emerytalnym części składki, o której mowa w art. 22 ust. 3 ustawy o systemie ubezpieczeń społecznych.
+Dokonanie przez członka pracowniczego funduszu rozporządzenia prawem poboru akcji nowej emisji może nastąpić z uwzględnieniem art. 105.
 
-4. Jeżeli ubezpieczonym, o których mowa w ust. 3, Zakład odprowadził na rachunek w otwartym funduszu emerytalnym część składki, o której mowa w art. 22 ust. 3 ustawy o systemie ubezpieczeń społecznych, składka ta podlega zwrotowi na zasadach określonych dla nienależnie opłaconej składki odprowadzonej do otwartego funduszu emerytalnego.
+### Art. 102.
 
-5. Przepisu ust. 1 nie stosuje się do osób urodzonych po dniu 31 grudnia 1968 r., które po dniu otwarcia rachunku na podstawie art. 128 opłacały składkę na ubezpieczenia społeczne.
+### 1.
 
-**Art. 130.**
+Pracowniczy fundusz likwiduje rachunki ilościowe członków i przenosi akcje zdeponowane na tych rachunkach do aktywów funduszu w oparciu o harmonogram likwidacji rachunków ilościowych ustalany przez pracownicze towarzystwo, w drodze uchwały rady nadzorczej, i podawany do wiadomości Urzędu Nadzoru nie później niż 3 miesiące przed rozpoczęciem likwidacji tych rachunków.
 
-1. Wypłata środków zgromadzonych na rachunku członka pracowniczego funduszu, które były objęte małżeńską wspólnością majątkową, w przypadku rozwiązania małżeństwa przez rozwód lub unieważnienia małżeństwa, następuje bezpośrednio na rzecz jego byłego współmałżonka w terminie 1 miesiąca od dnia przedstawienia funduszowi dowodu, że środki te przypadły byłemu współmałżonkowi.
+### 2.
 
-2. Przepis ust. 1 stosuje się odpowiednio w przypadku ustania wspólności majątkowej w czasie trwania małżeństwa członka pracowniczego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
+Harmonogram, o którym mowa w ust. 1, powinien określać:
 
-**Art. 130a.** Do podziału środków zgromadzonych w PPK w przypadku rozwodu lub unieważnienia małżeństwa członka dobrowolnego funduszu lub pracowniczego funduszu będących funduszami zdefiniowanej daty stosuje się przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 1)
 
-#### Rozdział 13 Podział środków w razie śmierci członka funduszu emerytalnego
+terminy przeniesienia akcji do aktywów funduszu,
 
-**Art. 131.**
+### 2)
 
-1. Jeżeli w chwili śmierci członek otwartego funduszu pozostawał w związku małżeńskim, fundusz dokonuje wypłaty transferowej połowy środków zgromadzonych na rachunku zmarłego na rachunek małżonka zmarłego w otwartym funduszu, w zakresie, w jakim środki te stanowiły przedmiot małżeńskiej wspólności majątkowej.
+zasady ustalania ilości akcji złożonych na rachunkach ilościowych przez poszczególnych członków, które podlegają przeniesieniu do aktywów funduszu, w tym akcji złożonych przez osoby, które przystąpią do funduszu po ogłoszeniu harmonogramu,
 
-2. Wypłata transferowa jest dokonywana w terminie, o którym mowa w art. 122, nie wcześniej jednak niż w terminie 1 miesiąca, po przedstawieniu przez małżonka zmarłego odpisu aktu zgonu, odpisu aktu małżeństwa oraz pisemnego oświadczenia stwierdzającego, czy do chwili śmierci członka funduszu nie zaszły żadne zmiany w stosunku do treści oświadczenia, o którym mowa w art. 83 ust. 1, lub zawiadomienia, o którym mowa w art. 83 ust. 2, a jeżeli zmiany te miały miejsce – także dowodu tych zmian.
+### 3)
 
-3. Jeżeli małżonek zmarłego członka funduszu nie posiada rachunku w otwartym funduszu, stosuje się odpowiednio przepisy art. 128.
+ilość akcji złożonych na rachunkach ilościowych przez poszczególnych członków, które podlegają przeniesieniu do aktywów funduszu w poszczególnych terminach.
 
-4. Jeżeli zmarły nie dopełnił obowiązku określonego w art. 83 ust. 1 zdanie drugie lub w ust. 2, jego małżonek powinien potwierdzić na piśmie, że do chwili śmierci członka funduszu nie zmienił się stan stosunków majątkowych między małżonkami ustalony stosownie do art. 83 ust. 3, a w przypadku zmiany tego stanu – przedstawić odpowiednie dowody tej zmiany.
+### 3.
 
-5. Otwarty fundusz nie ponosi odpowiedzialności za skutki niedopełnienia lub nienależytego dopełnienia obowiązku określonego w ust. 2 lub 3.
+Dla osób przystępujących do pracowniczego funduszu, po ogłoszeniu harmonogramu, ustala się indywidualnie terminy przeniesienia akcji do aktywów funduszu.
 
-**Art. 132.**
+### 4.
 
-1. Środki zgromadzone na rachunku zmarłego członka otwartego funduszu emerytalnego, które nie zostaną wykorzystane zgodnie z art. 131, przekazywane są osobom wskazanym przez zmarłego, zgodnie z art. 82 ust. 1 lub 1a, a w przypadku ich braku wchodzą w skład spadku.
+Przeniesienie akcji do aktywów funduszu może nastąpić wyłącznie w dniach przeliczenia.
 
-2. (uchylony)
+### 5.
 
-3. Otwarty fundusz dokonuje wypłaty środków należnych osobie wskazanej przez zmarłego w terminie 3 miesięcy, nie wcześniej jednak niż w terminie 1 miesiąca, od dnia przedstawienia funduszowi urzędowego dokumentu stwierdzającego tożsamość osoby uprawnionej, z tym że wypłata środków przypadających małżonkowi zmarłego może być przekazana na jego żądanie na rachunek w otwartym funduszu. W tym ostatnim przypadku do wypłaty transferowej środków przypadających małżonkowi zmarłego stosuje się odpowiednio art. 128.
+W dniu przeniesienia akcji członkom funduszu zalicza się, odpowiednio, na rachunki jednostki rozrachunkowe o wartości odpowiadającej wartości akcji przeniesionych z ich rachunków ilościowych, pomniejszonej o kwotę należnego podatku. Ustalenie wartości akcji następuje w oparciu o zasady wyceny aktywów funduszu.
 
-4. Wypłata dokonywana bezpośrednio na rzecz osoby wskazanej przez zmarłego następuje w formie wypłaty jednorazowej lub w formie wypłaty w ratach płatnych przez okres nie dłuższy niż 2 lata, zgodnie z dyspozycją osoby uprawnionej złożoną w formie pisemnej, w formie elektronicznej pozwalającej na utrwalenie jej treści na trwałym nośniku lub w formie dokumentowej pozwalającej na utrwalenie jej treści na trwałym nośniku.
+### 6.
 
-4a. Przepisy ust. 3 i 4 stosuje się odpowiednio do spadkobierców, którzy dodatkowo obowiązani są przedłożyć funduszowi prawomocne stwierdzenie nabycia spadku.
+Likwidacja rachunków ilościowych, na których złożone zostały akcje danego emitenta, rozpoczyna się nie później niż w terminie 3 lat od dnia złożenia pierwszej akcji tego emitenta na rachunku ilościowym i nie może trwać dłużej niż 10 lat, licząc od daty przeniesienia pierwszej akcji z rachunku ilościowego do aktywów funduszu.
 
-5. Zasady wypłaty w ratach określa statut otwartego funduszu.
+### 7.
 
-**Art. 132a.** (uchylony)
+W razie stwierdzenia, że realizacja harmonogramu może przebiegać lub przebiega z naruszeniem przepisów prawa lub interesów członków pracowniczego funduszu, Urząd Nadzoru może zawiesić realizację tego harmonogramu i wezwać pracowniczy fundusz do usunięcia stwierdzonych nieprawidłowości.
 
-**Art. 132b.**
+### 8.
 
-1. W razie śmierci członka dobrowolnego funduszu prowadzącego IKE lub IKZE stosuje się przepisy ustawy z dnia 20 kwietnia 2004 r. o indywidualnych kontach emerytalnych oraz indywidualnych kontach zabezpieczenia emerytalnego dotyczące rozporządzeń oszczędzającego na IKE oraz IKZE w przypadku jego śmierci.
+Przeniesienie akcji spółek publicznych, złożonych na rachunkach ilościowych, do aktywów pracowniczego funduszu odbywa się poza rynkiem regulowanym w rozumieniu ustawy z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi ([Dz. U. Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html)), a do przeniesienia tych akcji nie stosuje się przepisów art. 38 ust. 3 i 4 ustawy z dnia ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ([Dz. U. Nr 118, poz. 561](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html) oraz z [1997 r. Nr 32, poz. 184](https://api.sejm.gov.pl/eli/acts/DU/1997/184/text.html), [Nr 98, poz. 603](https://api.sejm.gov.pl/eli/acts/DU/1997/603/text.html), [Nr 106, poz. 673](https://api.sejm.gov.pl/eli/acts/DU/1997/673/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html) i [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html)).
 
-2. W razie śmierci członka dobrowolnego funduszu będącego funduszem zdefiniowanej daty stosuje się przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### Art. 103.
 
-**Art. 133.**
+### 1.
 
-1. Z zastrzeżeniem ust. 1a, w razie śmierci członka pracowniczego funduszu, środki zgromadzone na jego rachunku są wypłacane osobie wskazanej przez członka funduszu jako uposażonej do odbioru świadczenia na wypadek jego śmierci. W przypadku braku rozrządzenia na wypadek śmierci zgromadzone środki wchodzą w skład spadku.
+Jeżeli członek zwróci się o dokonanie wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych na jego rachunku w pracowniczym funduszu, rachunek ilościowy tego członka powinien być niezwłocznie zlikwidowany, a akcje nie przeniesione dotychczas do aktywów funduszu - wydane członkowi, z zastrzeżeniem ust. 2.
 
-1a. W razie śmierci członka pracowniczego funduszu będącego funduszem zdefiniowanej daty stosuje się przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+### 2.
 
-2. Wypłata środków, o których mowa w ust. 1, następuje bezpośrednio na rzecz osób uprawnionych, w terminie 1 miesiąca od dnia przedstawienia funduszowi dowodu, że środki te przypadły tym osobom.
+Jeżeli pracowniczy fundusz dokonuje wypłaty środków zgromadzonych na rachunku członka funduszu w formie wypłaty realizowanej w ratach, rachunek ilościowy członka funduszu podlega likwidacji z chwilą wypłaty ostatniej raty, a zdeponowane na nim akcje zostają wydane członkowi funduszu.
 
-#### Rozdział 14 Finansowanie działalności funduszu emerytalnego
+### 3.
 
-**Art. 134.**
+W razie śmierci członka funduszu posiadającego rachunek ilościowy albo rozwiązania przez rozwód lub unieważnienie jego małżeństwa, akcje znajdujące się na rachunku ilościowym zostają wydane osobie uprawnionej. Przepis art. 130 i 133 stosuje się odpowiednio.
 
-1. Otwarty fundusz może pobierać opłaty wyłącznie w formie potrącenia określonej procentowo kwoty z wpłacanych składek, nie większej niż 1,75 %, z tym że potrącenia dokonuje się przed przeliczeniem składek na jednostki rozrachunkowe.
+### 4.
 
-1a. Dobrowolny fundusz prowadzący IKE lub IKZE może pobierać opłaty wyłącznie w formie potrącenia określonej procentowo kwoty z wpłacanych składek, w wysokości określonej w statucie, z tym że potrącenia dokonuje się przed przeliczeniem składek na jednostki rozrachunkowe.
+Przepisy ust. 3 stosuje się odpowiednio w razie ustania wspólności majątkowej w czasie trwania małżeństwa członka pracowniczego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
 
-2. Kwoty stanowiące równowartość opłat, o których mowa w ust. 1, otwarty fundusz przekazuje niezwłocznie na rzecz powszechnego towarzystwa.
+### Art. 104.
 
-**Art. 135.** Otwarty fundusz stosuje jednolitą metodę obliczania i pobierania opłat, o których mowa w art. 134 ust. 1, wobec wszystkich członków, z tym że opłaty te mogą być pobierane w niższej wysokości od członków posiadających dłuższy staż członkowski, określony w statucie funduszu, przy czym nie jest dozwolone różnicowanie wysokości opłat w stosunku do osób posiadających taki sam staż członkowski.
+Dywidenda wypłacana z akcji zdeponowanych na rachunku ilościowym oraz cena uzyskana ze zbycia przez pracowniczy fundusz, w imieniu członka funduszu, prawa poboru akcji nowej emisji jest przekazywana na rachunek członka funduszu prowadzony w jednostkach rozrachunkowych.
 
-**Art. 136.**
+### Art. 105.
 
-1. Koszty związane z realizacją transakcji nabywania lub zbywania aktywów funduszu, stanowiące równowartość opłat ponoszonych na rzecz osób trzecich, z których pośrednictwa fundusz jest obowiązany korzystać z mocy odrębnych przepisów, oraz koszty związane z przechowywaniem tych aktywów, stanowiące równowartość wynagrodzenia depozytariusza, są pokrywane przez fundusz bezpośrednio z jego aktywów.
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady przeprowadzania i rozliczania transakcji zbywania przez pracowniczy fundusz, w imieniu członków funduszu, praw poboru przysługujących im z akcji złożonych na rachunkach ilościowych, a także szczegółowe warunki i tryb, w jakim dopuszczalna jest realizacja tych praw przez członków funduszu.
 
-2. Z zastrzeżeniem art. 137a, pracowniczy fundusz może pokrywać bezpośrednio ze swoich aktywów także koszty zarządzania funduszem przez pracownicze towarzystwo w wysokości nie wyższej niż 0,05 % wartości zarządzanych aktywów netto w skali miesiąca. Opłata ta jest obliczana na każdy dzień ustalania wartości aktywów netto funduszu i płatna w ostatnim dniu roboczym każdego miesiąca.
+### Art. 106.
 
-2a. Otwarty fundusz może pokrywać bezpośrednio ze swoich aktywów także koszty zarządzania funduszem przez towarzystwo według stawki ustalonej w statucie, jednak nieprzekraczającej kwot obliczonych według następującej skali: Wysokość aktywów netto Miesięczna opłata za zarządzanie (w mln zł) otwartym funduszem od aktywów netto ponad do wynosi: 0,045 % wartości aktywów netto w skali 8 000 miesiąca 3,6 mln zł + 0,04 % nadwyżki ponad 8 8 000 20 000 000 mln zł wartości aktywów netto, w skali miesiąca 8,4 mln zł + 0,032 % nadwyżki ponad 20 000 35 000 20 000 mln zł wartości aktywów netto, w skali miesiąca 13,2 mln zł + 0,023 % nadwyżki ponad 35 000 45 000 35 000 mln zł wartości aktywów netto, w skali miesiąca 45 000 15,5 mln zł Kwota ta jest obliczana na każdy dzień ustalania wartości aktywów netto funduszu i płatna w ostatnim dniu roboczym każdego miesiąca.
+### 1.
 
-2b. Otwarty fundusz może finansować ze swoich aktywów koszty wynikłe z otwarcia rachunku premiowego, o którym mowa w art. 182a.
+Jeżeli łączna ilość akcji tego samego emitenta, zdeponowanych na wszystkich rachunkach ilościowych w jednym pracowniczym funduszu, przekroczy 1% ogólnej ilości akcji tego emitenta, prawa związane z własnością tych akcji, z wyjątkiem praw majątkowych, wykonywane są przez przedstawiciela członków funduszu posiadających akcje na rachunkach ilościowych, zwanego dalej „przedstawicielem”.
 
-2c. Dobrowolny fundusz prowadzący IKE lub IKZE może pokrywać bezpośrednio ze swoich aktywów koszty zarządzania funduszem przez towarzystwo na zasadach ustalonych w statucie.
+### 2.
 
-3. Przy ustalaniu wartości zarządzanych aktywów netto funduszu, o której mowa w ust. 2 i 2a, nie uwzględnia się wartości lokat, o których mowa w art. 141 ust. 1 pkt 11–14.
+Przedstawiciel jest wybierany na 3 lata w wyborach tajnych przez członków funduszu posiadających akcje danego emitenta na rachunkach ilościowych.
 
-**Art. 136a.**
+### 3.
 
-1. Koszty związane z przechowywaniem aktywów oraz realizacją i rozliczeniem transakcji nabywania lub zbywania aktywów funduszu, stanowiące równowartość opłat ponoszonych na rzecz instytucji rozliczeniowych, z których pośrednictwa fundusz jest obowiązany korzystać na mocy odrębnych przepisów, stanowiące składnik wynagrodzenia depozytariusza, są pokrywane z aktywów funduszu według aktualnie obowiązującej tabeli prowizji i opłat danej instytucji rozliczeniowej.
+Tryb wyboru przedstawiciela określa regulamin uchwalony przez radę nadzorczą pracowniczego towarzystwa. Regulamin określa w szczególności, czy w wyborach mają uczestniczyć sami członkowie, czy też wybrani przez nich przedstawiciele, oraz zasady odwoływania przedstawiciela przed upływem okresu, na który został wybrany. Regulamin nie może uzależnić ważności wyboru przedstawiciela od liczby osób uczestniczących w wyborach.
 
-2. (uchylony)
+### 4.
 
-**Art. 137.**
+Przepis art. 45 ust. 4 stosuje się odpowiednio.
 
-1. Koszty działalności funduszu, które nie są pokrywane bezpośrednio z jego aktywów, pokrywa towarzystwo.
+### Rozdział 11 Wypłata środków zgromadzonych na rachunku
 
-2. Pracodawcy będący akcjonariuszami pracowniczego towarzystwa są obowiązani do pokrywania kosztów działalności tego towarzystwa na zasadach określonych w statucie towarzystwa.
+### Art. 107.
 
-3. Fundusz jest uprawniony do pokrywania ze swoich aktywów kosztów wynikających z ponoszonych danin publicznych, jeżeli z ich uiszczania nie jest zwolniony na podstawie odrębnych przepisów i jeżeli ich ponoszenie jest związane z prowadzoną przez fundusz działalnością statutową.
+### 1.
 
-4. W przypadku wydania prawomocnego orzeczenia uwzględniającego powództwo funduszu fundusz jest obowiązany do zwrotu towarzystwu:
+Członek funduszu nie może rozporządzać środkami zgromadzonymi na swoim rachunku.
 
-- **1)** kwot zasądzonych na rzecz funduszu tytułem zwrotu kosztów procesu,
-- **2)** innych kosztów związanych z wnoszonym powództwem, proporcjonalnie do zakresu uwzględnionego powództwa – tytułem poniesionych przez towarzystwo wydatków związanych z postępowaniem sądowym do dnia wydania prawomocnego orzeczenia.
+### 2.
 
-5. W przypadku, o którym mowa w ust. 4, wysokość kosztów zwracanych towarzystwu nie może być większa od wysokości zasądzonego orzeczeniem świadczenia.
+Przepisu ust. 1 nie stosuje się do rozrządzeń członka funduszu na wypadek śmierci.
 
-6. W przypadku wydania prawomocnego orzeczenia uwzględniającego powództwo funduszu fundusz, w terminie 7 dni od dnia uzyskania informacji o treści prawomocnego orzeczenia, informuje organ nadzoru o treści tego orzeczenia oraz o wysokości kosztów zwracanych towarzystwu z aktywów funduszu.
+### Art. 108.
 
-**Art. 137a.**
+Środki zgromadzone na rachunku członka otwartego funduszu nie podlegają egzekucji.
 
-1. Do kosztów działalności dobrowolnego funduszu lub pracowniczego funduszu będących funduszami zdefiniowanej daty stosuje się przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych. Dobrowolny fundusz lub pracowniczy fundusz będący funduszem zdefiniowanej daty może pobierać opłaty na zasadach określonych w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, z zastrzeżeniem ust. 2.
+### Art. 109.
 
-2. W okresie, w którym wartość aktywów netto dobrowolnego funduszu albo pracowniczego funduszu jest niższa niż 2 000 000 zł, powszechne towarzystwo albo pracownicze towarzystwo pokrywa z własnych środków koszty dobrowolnego funduszu albo pracowniczego funduszu będących funduszami zdefiniowanej daty, o których mowa w art. 50 ust. 1 pkt 5, 6, 8 i 9 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+Środki zgromadzone na rachunku członka pracowniczego funduszu podlegają egzekucji na zasadach określonych w ustawie o pracowniczych programach emerytalnych.
 
-**Art. 138.** (uchylony)
+### Art. 110.
 
-#### Rozdział 15 Działalność lokacyjna funduszy emerytalnych
+Warunki nabycia przez członka otwartego funduszu uprawnień do wypłaty środków zgromadzonych na jego rachunku oraz zasady wypłaty tych środków określają odrębne ustawy.
 
-**Art. 139.**
+### Art. 111.
 
-1. Fundusz lokuje swoje aktywa zgodnie z przepisami niniejszej ustawy, dążąc do osiągnięcia maksymalnego stopnia bezpieczeństwa i rentowności dokonywanych lokat.
+### 1.
 
-2. Dobrowolny fundusz lub pracowniczy fundusz będący funduszem zdefiniowanej daty przy lokowaniu aktywów stosuje przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych oraz przepisy wykonawcze wydane na jej podstawie.
+Wypłata środków zgromadzonych na rachunku w otwartym funduszu następuje przez przeniesienie tych środków do wskazanego przez członka zakładu ubezpieczeń emerytalnych, w którym wykupił on emeryturę dożywotnią.
 
-**Art. 140.** Przy ustalaniu, jaka część aktywów pracowniczego funduszu może zostać ulokowana w poszczególnych kategoriach lokat, nie uwzględnia się akcji złożonych na rachunkach ilościowych oraz środków na odrębnym rachunku pieniężnym, o którym mowa w art. 100 ust. 4.
+### 2.
 
-**Art. 141.**
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb składania przez członków otwartego funduszu dyspozycji dotyczących przeniesienia środków do zakładu ubezpieczeń emerytalnych w związku z wykupieniem emerytury dożywotniej, oraz zasady i tryb przeniesienia tych środków do zakładu ubezpieczeń emerytalnych.
 
-1. Aktywa funduszu mogą być lokowane, z zastrzeżeniem ust. 2 i 3 oraz art. 146, wyłącznie w następujących kategoriach lokat:
+### Art. 112.
 
-- **1)** obligacjach, bonach i innych papierach wartościowych, emitowanych przez Skarb Państwa lub Narodowy Bank Polski, a także pożyczkach i kredytach, udzielanych tym podmiotom;
-- **2)** obligacjach, bonach i innych papierach wartościowych, emitowanych przez rządy lub banki centralne państw, o których mowa w ust. 4, a także pożyczkach i kredytach, udzielanych tym podmiotom;
-- **3)** obligacjach i innych dłużnych papierach wartościowych, opiewających na świadczenia pieniężne, gwarantowanych lub poręczanych przez Skarb Państwa lub Narodowy Bank Polski, a także depozytach, kredytach i pożyczkach, gwarantowanych lub poręczanych przez te podmioty;
-- **4)** obligacjach i innych dłużnych papierach wartościowych, opiewających na świadczenia pieniężne, gwarantowanych lub poręczanych przez rządy lub banki centralne państw, o których mowa w ust. 4, a także depozytach, kredytach i pożyczkach, gwarantowanych lub poręczanych przez te podmioty;
-- **5)** depozytach bankowych w walucie polskiej w bankach lub instytucjach kredytowych, mających siedzibę i prowadzących działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym w państwach, o których mowa w ust. 4;
-- **6)** depozytach denominowanych w walutach państw, o których mowa w ust. 4, w bankach lub instytucjach kredytowych, mających siedzibę i prowadzących działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym w państwach, o których mowa w ust. 4, z tym że nabywanie waluty może nastąpić wyłącznie w celu rozliczenia bieżących zobowiązań funduszu wynikających z nabywania lub zbywania lokat w ramach prowadzonej polityki inwestycyjnej funduszu;
-- **7)** akcjach spółek notowanych na rynku regulowanym na terytorium Rzeczypospolitej Polskiej oraz obligacjach zamiennych na akcje tych spółek, a także notowanych na tym rynku prawach poboru i prawach do akcji;
-- **8)** akcjach, prawach poboru i prawach do akcji, będących przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej;
-- **9)** akcjach spółek notowanych na rynku regulowanym w państwach innych niż Rzeczpospolita Polska oraz obligacjach zamiennych na akcje tych spółek, a także notowanych na tych rynkach prawach poboru i prawach do akcji;
-- **10)** akcjach, prawach poboru i prawach do akcji, będących przedmiotem oferty publicznej na terytorium państw, o których mowa w ust. 4;
-- **11)** certyfikatach inwestycyjnych emitowanych przez fundusze inwestycyjne zamknięte;
-- **12)** tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania typu zamkniętego, mające siedzibę na terytorium państw, o których mowa w ust. 4, spełniające łącznie następujące warunki:
-    - **a)** wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego lub niepublicznego proponowania nabycia ich tytułów uczestnictwa, w papiery wartościowe, instrumenty rynku pieniężnego i inne prawa majątkowe,
-    - **b)** prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, albo prowadzenie przez nie działalności wymaga zawiadomienia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, w przypadku gdy zgodnie z dokumentami założycielskimi ich tytuły uczestnictwa nie są oferowane w drodze oferty publicznej ani dopuszczone do obrotu na rynku regulowanym, ani wprowadzone do alternatywnego systemu obrotu, oraz mogą być nabywane także przez osoby fizyczne, wyłącznie gdy osoby te dokonają jednorazowego nabycia tytułów uczestnictwa o wartości nie mniejszej niż 40 000 euro,
-    - **c)** ich działalność podlega bezpośredniemu nadzorowi właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę,
-    - **d)** zgodnie z przepisami prawa państwa ich siedziby mają obowiązek posiadania depozytariusza przechowującego aktywa tej instytucji,
-    - **e)** zarządzane są przez podmioty, które prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym podmioty te mają siedzibę;
+Sposób wykorzystania środków zgromadzonych na rachunku w otwartym funduszu, w razie nabycia przez członka uprawnień do renty inwalidzkiej z ubezpieczenia społecznego, określają odrębne ustawy.
 
-- **13)** jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte lub specjalistyczne fundusze inwestycyjne otwarte;
-- **14)** tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania typu otwartego, mające siedzibę na terytorium państw, o których mowa w ust. 4, spełniające łącznie następujące warunki:
-    - **a)** wyłącznym przedmiotem ich działalności jest zbiorowe lokowanie środków pieniężnych, zebranych w drodze publicznego lub niepublicznego proponowania nabycia ich tytułów uczestnictwa, w papiery wartościowe, instrumenty rynku pieniężnego i inne prawa majątkowe,
-    - **b)** prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę, albo prowadzenie przez nie działalności wymaga zawiadomienia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę,
-    - **c)** ich działalność podlega bezpośredniemu nadzorowi właściwych organów nadzoru nad rynkiem finansowym państwa, w którym mają siedzibę,
-    - **d)** zgodnie z przepisami prawa państwa ich siedziby mają obowiązek posiadania depozytariusza przechowującego aktywa tej instytucji,
-    - **e)** zarządzane są przez podmioty, które prowadzą swoją działalność na podstawie zezwolenia właściwych organów nadzoru nad rynkiem finansowym państwa, w którym podmioty te mają siedzibę;
+### Art. 113.
 
-- **15)** obligacjach i innych dłużnych papierach wartościowych, emitowanych przez jednostki samorządu terytorialnego lub ich związki, będących przedmiotem oferty publicznej;
-- **16)** będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4;
-- **17)** innych niż będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez jednostki samorządu terytorialnego lub ich związki;
-- **18)** innych niż będących przedmiotem oferty publicznej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4;
-- **19)** obligacjach przychodowych, o których mowa w ustawie z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2024 r. poz. 708);
-- **20)** dłużnych papierach wartościowych, których emitent może ograniczyć swoją odpowiedzialność za zobowiązania z nich wynikające do kwoty przychodów lub wartości majątku przedsięwzięcia, do których obligatariuszowi służy prawo pierwszeństwa przed innymi wierzycielami emitenta i których emitentami mogą być następujące podmioty mające siedzibę na terytorium państw, o których mowa w ust. 4:
-    - **a)** właściwe regionalne lub lokalne władze publiczne,
-    - **b)** banki lub instytucje kredytowe, realizujące w szczególności programy rządowe, w tym realizowane z wykorzystaniem środków pochodzących z funduszy Unii Europejskiej oraz międzynarodowych instytucji finansowych, infrastrukturalne, a także związane z rozwojem sektora małych i średnich przedsiębiorstw,
-    - **c)** państwowe fundusze realizujące działalność polegającą na udzielaniu wsparcia finansowego funduszom kapitałowym, inwestującym w przedsiębiorców mających siedzibę na terytorium państw, o których mowa w ust. 4,
-    - **d)** spółki, w których podmioty wymienione w lit. a posiadają taką liczbę akcji lub udziałów, która zapewnia tym podmiotom więcej niż 50 % ogólnej liczby głosów w tych spółkach, o ile jedynym przedmiotem działalności spółek jest zaspokajanie potrzeb społeczności lokalnych lub wykonywanie zadań z zakresu użyteczności publicznej,
-    - **e)** spółki, których jedynym przedmiotem działalności jest wykonywanie zadań z zakresu użyteczności publicznej na podstawie umów zawartych z podmiotami wymienionymi w lit. a i które zadania te będą wykonywać co najmniej przez okres równy okresowi zapadalności emitowanych w tym celu papierów wartościowych,
-    - **f)** spółki, które na podstawie upoważnienia zawartego w przepisach prawa lub na podstawie koncesji albo zezwolenia wykonywać będą zadania z zakresu użyteczności publicznej albo świadczyć usługi w zakresie transportu lub komunikacji oraz utrzymania i rozwoju infrastruktury komunikacyjnej lub transportowej co najmniej przez okres równy okresowi zapadalności emitowanych w tym celu papierów wartościowych;
+Warunki nabycia przez członka pracowniczego funduszu uprawnień do wypłaty, wypłaty transferowej lub zwrotu środków zgromadzonych na jego rachunku określa ustawa o pracowniczych programach emerytalnych.
 
-- **21)** będących przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej obligacjach emitowanych przez inne podmioty niż jednostki samorządu terytorialnego lub ich związki, które zostały zabezpieczone w wysokości odpowiadającej pełnej wartości nominalnej i ewentualnemu oprocentowaniu;
-- **22)** innych niż będących przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej obligacjach i innych dłużnych papierach wartościowych, emitowanych przez mające siedzibę na terytorium Rzeczypospolitej Polskiej podmioty inne niż jednostki samorządu terytorialnego lub ich związki, które zostały zabezpieczone w wysokości odpowiadającej wartości nominalnej i ewentualnemu oprocentowaniu;
-- **23)** będących przedmiotem oferty publicznej na terytorium państw, o których mowa w ust. 4, obligacjach i innych dłużnych papierach wartościowych, emitowanych przez inne podmioty niż właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4, które zostały zabezpieczone w wysokości odpowiadającej pełnej wartości nominalnej i ewentualnemu oprocentowaniu;
-- **24)** innych niż będących przedmiotem oferty publicznej na terytorium państw, o których mowa w ust. 4, obligacjach i innych dłużnych papierach wartościowych, emitowanych przez mające siedzibę na terytorium państw, o których mowa w ust. 4, podmioty inne niż właściwe regionalne lub lokalne władze publiczne państw, o których mowa w ust. 4, które zostały zabezpieczone w wysokości odpowiadającej pełnej wartości nominalnej i ewentualnemu oprocentowaniu;
-- **25)** obligacjach i innych dłużnych papierach wartościowych, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym na terytorium Rzeczypospolitej Polskiej, innych niż papiery wartościowe, o których mowa w pkt 21 i 22;
-- **26)** będących przedmiotem oferty publicznej na terytorium Rzeczypospolitej Polskiej obligacjach i innych dłużnych papierach wartościowych, innych niż papiery wartościowe, o których mowa w pkt 15 i 21;
-- **27)** będących przedmiotem oferty publicznej na terytorium państw, o których mowa w ust. 4, obligacjach i innych dłużnych papierach wartościowych, innych niż papiery wartościowe, o których mowa w pkt 16 i 23;
-- **28)** obligacjach i innych dłużnych papierach wartościowych, dla których podmiotami zobowiązanymi do spełnienia świadczeń są spółki notowane na rynku regulowanym w państwach innych niż Rzeczpospolita Polska, innych niż papiery wartościowe, o których mowa w pkt 23 i 24;
-- **29)** listach zastawnych;
-- **30)** dłużnych papierach wartościowych emitowanych przez instytucję kredytową, mającą siedzibę na terytorium państw, o których mowa w ust. 4, która podlega szczególnemu nadzorowi publicznemu mającemu na celu ochronę posiadaczy tych papierów wartościowych, pod warunkiem że kwoty uzyskane z emisji tych papierów wartościowych są inwestowane przez emitenta w aktywa, które do dnia wykupu zapewniają spełnienie wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych oraz w przypadku niewypłacalności emitenta zapewniają pierwszeństwo w odzyskaniu wszystkich świadczeń pieniężnych wynikających z tych papierów wartościowych;
-- **31)** kwitach depozytowych, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
-- **32)** kwitach depozytowych dopuszczonych do obrotu na rynku regulowanym w państwach innych niż Rzeczpospolita Polska;
-- **33)** obligacjach emitowanych przez Bank Gospodarstwa Krajowego na zasadach określonych w ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2024 r. poz. 321);
-- **34)** obligacjach innych niż wymienione w pkt 33, bankowych papierach wartościowych lub listach zastawnych, emitowanych przez Bank Gospodarstwa Krajowego.
+### Art. 114.
 
-2. Aktywa otwartego funduszu nie mogą być lokowane w kategoriach lokat, o których mowa w ust. 1:
+### 1.
 
-- **1)** pkt 1–4;
-- **2)** pkt 33 i 34, jeżeli są gwarantowane przez Skarb Państwa.
+Pracowniczy fundusz jest obowiązany zapewnić członkom funduszu możliwość wypłaty całości środków zgromadzonych na ich rachunkach w formie wypłaty jednorazowej.
 
-3. Aktywa funduszu mogą być lokowane w kategoriach lokat, o których mowa w ust. 1 pkt 13 i 14, jeżeli polityka inwestycyjna podmiotów, o których mowa w ust. 1 pkt 13 i 14, wynikająca z dokumentów założycielskich i okresowo podawana do publicznej wiadomości polega na lokowaniu aktywów wyłącznie w kategoriach lokat, o których mowa w ust. 1.
+### 2.
 
-4. Aktywa funduszu mogą być lokowane w aktywach denominowanych w złotych lub w walutach państw będących członkami Unii Europejskiej lub stronami umowy o Europejskim Obszarze Gospodarczym, lub członkami Organizacji Współpracy Gospodarczej i Rozwoju.
+W trybie i na zasadach określonych w statucie funduszu wypłata środków może nastąpić także w formie wypłaty realizowanej w ratach.
 
-5. Łączna wartość lokat aktywów otwartego funduszu w aktywach denominowanych w walucie innej niż krajowa nie może przekroczyć 30 % wartości tych aktywów.
+### 3.
 
-6. Łączna wartość lokat aktywów pracowniczego funduszu w aktywach denominowanych w walucie innej niż krajowa nie może przekroczyć 30 % wartości tych aktywów.
+Wypłata środków w obu formach lub w jednej z nich następuje ma pisemne żądanie członka funduszu.
 
-7. Rada Ministrów może określić, w drodze rozporządzenia, inne kategorie lokat niż wymienione w ust. 1, mając na względzie typy ryzyka, które powinny być ograniczane, dostępność instrumentów umożliwiających zmniejszenie ryzyka, możliwość wyceny tych instrumentów oraz efekty ich stosowania, w celu zapewnienia maksymalnej ochrony interesów członków funduszy.
+### Art. 115.
 
-8. W przypadku określenia w rozporządzeniu, o którym mowa w ust. 7, lokat w prawa pochodne lub instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi:
+Wypłata jednorazowa jest dokonywana nie później niż w terminie 3 miesięcy od dnia otrzymania przez pracowniczy fundusz żądania członka funduszu.
 
-- **1)** rozporządzenie powinno określać warunki zawierania przez fundusz umów, których przedmiotem są instrumenty pochodne, warunki i zasady zajmowania przez fundusz pozycji w instrumentach pochodnych, sposób wyznaczenia maksymalnego zaangażowania funduszu w instrumenty pochodne, warunki, jakie muszą spełniać indeksy stanowiące bazę instrumentów pochodnych, oraz wykaz tych indeksów;
-- **2)** aktywa funduszu mogą być lokowane w prawa pochodne lub instrumenty finansowe, o których mowa w art. 2 ust. 1 pkt 2 lit. c ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, wyłącznie w celu ograniczenia ryzyka inwestycyjnego związanego z lokowaniem tych aktywów.
+### Art. 116.
 
-**Art. 142.**
+Jeżeli wypłata jest realizowana w ratach, pierwsza rata płatna jest nie później niż w terminie 1 miesiąca od dnia otrzymania przez pracowniczy fundusz żądania członka funduszu, chyba że zażąda on wypłaty w terminie późniejszym.
 
-1. Lokaty w poszczególnych kategoriach lokat, o których mowa w art. 141 ust. 1, podlegają następującym ograniczeniom:
+### Art. 117.
 
-- **1)** w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 5 i 6, nie więcej niż 5 % wartości aktywów funduszu może być ulokowane w jednym banku lub jednej instytucji kredytowej albo w dwóch lub większej liczbie banków lub instytucji kredytowych będących podmiotami związanymi, przy czym w przypadku jednego dowolnie wybranego banku lub instytucji kredytowej albo grupy banków lub instytucji kredytowych będących podmiotami związanymi limit ten może wynosić 7,5 %;
-- **2)** w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 11 i 12, nie więcej niż 2 % wartości aktywów funduszu może być ulokowane w certyfikatach inwestycyjnych emitowanych przez jeden fundusz inwestycyjny zamknięty oraz w tytułach uczestnictwa emitowanych przez jedną instytucję wspólnego inwestowania typu zamkniętego;
-- **3)** w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 13 i 14, nie więcej niż 5 % wartości aktywów funduszu może być ulokowane w jednostkach uczestnictwa zbywanych przez jeden fundusz inwestycyjny otwarty lub jeden specjalistyczny fundusz inwestycyjny otwarty oraz w tytułach uczestnictwa emitowanych przez jedną instytucję wspólnego inwestowania typu otwartego, przy czym nie więcej niż 15 % wartości aktywów funduszu może być ulokowane łącznie we wszystkich funduszach inwestycyjnych otwartych i specjalistycznych funduszach inwestycyjnych otwartych zarządzanych przez jedno towarzystwo funduszy inwestycyjnych oraz we wszystkich instytucjach wspólnego inwestowania typu otwartego zarządzanych przez jedną spółkę zarządzającą;
-- **4)** w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 5–28, 31 i 32, łączna wartość lokat aktywów funduszu we wszystkich papierach wartościowych jednego emitenta albo dwóch lub większej liczby emitentów będących podmiotami związanymi nie może przekroczyć 10 % wartości tych aktywów;
-- **5)** w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 29 i 30, łączna wartość lokat aktywów funduszu we wszystkich papierach wartościowych jednego emitenta albo dwóch lub większej liczby emitentów będących podmiotami związanymi nie może przekroczyć 5 % wartości tych aktywów.
+Członek otrzymujący wypłatę środków w ratach może w każdym czasie zażądać wypłaty środków pozostających na jego rachunku w formie wypłaty jednorazowej. Wypłata jednorazowa następuje z zachowaniem zasad określonych w art. 115.
 
-2. Fundusz może dokonywać lokat do 5 % wartości swoich aktywów w certyfikaty inwestycyjne lub obligacje emitowane przez jeden fundusz sekurytyzacyjny oraz w tytuły uczestnictwa lub obligacje emitowane przez jedną instytucję wspólnego inwestowania, o której mowa w art. 141 ust. 1 pkt 12, dokonującą emisji tytułów uczestnictwa w celu zgromadzenia środków na nabycie wierzytelności lub praw do świadczeń z tytułu określonych wierzytelności.
+### Art. 118.
 
-3. Ograniczenia, o których mowa w ust. 1 pkt 3, nie dotyczą pracowniczych funduszy.
+Jeżeli do chwili ukończenia 70 lat członek pracowniczego funduszu nie wystąpi do funduszu z żądaniem wypłaty środków zgromadzonych na jego rachunku, fundusz dokonuje wypłaty tych środków w formie wypłaty jednorazowej w terminie 3 miesięcy od daty ukończenia przez członka funduszu 70 lat.
 
-4. Ograniczeń, o których mowa w ust. 1 pkt 4 i 5, nie stosuje się, jeżeli na fundusz został nałożony obowiązek przyjmowania wpłat w formie określonej w art. 97 ust. 1. Przepisy art. 149 ust. 2 i 3 stosuje się odpowiednio.
+### Art. 119.
 
-5. Rada Ministrów określi, w drodze rozporządzenia, maksymalną część aktywów otwartego funduszu, jaka może zostać ulokowana w poszczególnych kategoriach lokat, o których mowa w art. 141, uwzględniając potrzebę zapewnienia uzyskania wysokiej stopy zwrotu zaangażowanych środków, przy zachowaniu gwarancji bezpieczeństwa środków gromadzonych na wypłatę członkom otwartych funduszy.
+### 1.
 
-6. Rada Ministrów, wydając rozporządzenie, o którym mowa w ust. 5, uwzględnia, że lokaty aktywów otwartego funduszu w poszczególnych kategoriach lokat nie mogą przekroczyć:
+W razie przystąpienia przez członka otwartego funduszu do innego otwartego funduszu, dotychczasowy fundusz dokonuje wypłaty transferowej do funduszu, do którego członek przystąpił, na podstawie zawiadomienia przez członka o zawarciu umowy z tym funduszem. Otwarty fundusz, do którego wypłata transferowa jest dokonywana, jest obowiązany przyjąć taką wypłatę.
 
-- **1)** 20 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 5 i 6;
-- **2)** 10 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 11 i 12;
-- **3)** 15 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 13 i 14;
-- **4)** 40 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 15 i 16;
-- **5)** 20 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 17 i 18;
-- **6)** 20 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 19 i 20;
-- **7)** 40 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 21 i 23;
-- **8)** 10 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 22 i 24;
-- **9)** 10 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 25 i 28;
-- **10)** 5 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 26 i 27;
-- **11)** 40 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 29 i 30;
-- **12)** 10 % wartości aktywów – w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 31 i 32.
+### 2.
 
-7. Rada Ministrów może określić, w drodze rozporządzenia, maksymalną część aktywów pracowniczego funduszu, jaka może zostać ulokowana w poszczególnych kategoriach lokat, o których mowa w art. 141, uwzględniając potrzebę zapewnienia uzyskania wysokiej stopy zwrotu zaangażowanych środków, przy zachowaniu gwarancji bezpieczeństwa środków gromadzonych na wypłatę członkom pracowniczych funduszy.
+Rada Ministrów określi, w drodze rozporządzenia, termin i tryb dokonania wypłaty transferowej, o której mowa w ust. 1.
 
-**Art. 142a.**
+### Art. 120.
 
-1. Pracowniczy fundusz lokujący aktywa w akcje spółek notowanych na rynku regulowanym opracowuje i publikuje politykę dotyczącą zaangażowania, która opisuje, w jaki sposób zaangażowanie akcjonariuszy takich spółek jest przez ten fundusz uwzględniane w jego strategii inwestycyjnej.
+Warunki dokonywania wypłat transferowych przez pracownicze fundusze określa ustawa o pracowniczych programach emerytalnych.
 
-2. Polityka, o której mowa w ust. 1, zawiera opis sposobów:
+### Art. 121.
 
-- **1)** monitorowania spółek, o których mowa w ust. 1, w szczególności pod względem strategii, wyników oraz ryzyk finansowych i niefinansowych, struktury kapitałowej, wpływu społecznego i na środowisko naturalne oraz ładu korporacyjnego;
-- **2)** prowadzenia dialogu ze spółkami, o których mowa w ust. 1;
-- **3)** wykonywania prawa głosu oraz innych praw związanych z akcjami spółek, o których mowa w ust. 1;
-- **4)** współpracy z innymi akcjonariuszami spółek, o których mowa w ust. 1;
-- **5)** komunikacji z pozostałymi akcjonariuszami i członkami organów spółek, o których mowa w ust. 1;
-- **6)** zarządzania faktycznymi i potencjalnymi konfliktami interesów w odniesieniu do zaangażowania pracowniczego funduszu.
+Nie jest dozwolone dokonywanie wypłaty transferowej z rachunku w otwartym funduszu na rachunek w pracowniczym funduszu ani z rachunku w pracowniczym funduszu na rachunek w otwartym funduszu.
 
-3. Pracowniczy fundusz co rok opracowuje i publikuje sprawozdanie z realizacji polityki, o której mowa w ust. 1. Sprawozdanie zawiera w szczególności:
+### Art. 122.
 
-- **1)** ogólny opis sposobu głosowania;
-- **2)** opis najważniejszych głosowań;
-- **3)** opis sposobu korzystania z usług doradcy akcjonariusza do spraw głosowania, o którym mowa w art. 4 § 1 pkt 16 Kodeksu spółek handlowych.
+### 1.
 
-4. W przypadku gdy pracowniczy fundusz nie opracowuje lub nie publikuje polityki, o której mowa w ust. 1, lub sprawozdania, o którym mowa w ust. 3, publikuje wyjaśnienie powodów ich nieopracowania lub nieopublikowania.
+Wypłaty transferowe między otwartymi funduszami odbywają się w ostatnim dniu roboczym każdego miesiąca kończącego kwartał.
 
-5. Sprawozdanie, o którym mowa w ust. 3, może nie obejmować głosowań, które są mało istotne ze względu na ich przedmiot lub wielkość udziału pracowniczego funduszu w spółce, o której mowa w ust. 1.
+### 2.
 
-6. W przypadku gdy podmiot będący stroną ustaleń z pracowniczym funduszem, o których mowa w art. 142c ust. 2, wdraża politykę dotyczącą zaangażowania pracowniczego funduszu, pracowniczy fundusz zamieszcza na swojej stronie internetowej odnośnik do strony internetowej, na której ten podmiot opublikował sprawozdanie, o którym mowa w ust. 3.
+Kwota wypłaty transferowej jest ustalana w piątym dniu roboczym przed dniem tej wypłaty.
 
-**Art. 142b.** Polityka, sprawozdanie oraz wyjaśnienia, o których mowa w art. 142a ust. 1, 3 i 4, są publikowane na stronie internetowej pracowniczego funduszu.
+### Art. 123.
 
-**Art. 142c.**
+Rozliczenia wypłat transferowych między otwartymi funduszami dokonuje Krajowy Depozyt Papierów Wartościowych Spółka Akcyjna, zwany dalej „Krajowym Depozytem”.
 
-1. Pracowniczy fundusz publikuje informacje o tym, w jaki sposób główne elementy jego strategii inwestycji kapitałowych są spójne z profilem i terminami zapadalności jego pasywów, w szczególności o charakterze długoterminowym, oraz w jaki sposób przyczyniają się one do średnio- i długoterminowych wyników uzyskiwanych z jego aktywów.
+### Art. 124.
 
-2. W przypadku gdy:
+Szczegółowy tryb dokonywania rozliczeń wypłat transferowych między otwartymi funduszami określa Krajowy Depozyt w regulaminie zatwierdzonym przez Urząd Nadzoru.
 
-- **1)** firma inwestycyjna lub towarzystwo funduszy inwestycyjnych, w ramach zarządzania aktywami pracowniczego funduszu, o którym mowa w art. 152, lokują, na podstawie ustaleń z pracowniczym funduszem i w jego imieniu, aktywa pracowniczego funduszu w akcje spółek notowanych na rynku regulowanym,
-- **2)** pracowniczy fundusz posiada jednostki uczestnictwa lub certyfikaty inwestycyjne funduszu inwestycyjnego, który, na podstawie ustaleń z pracowniczym funduszem, lokuje swoje aktywa w akcje spółek notowanych na rynku regulowanym,
-- **3)** pracowniczy fundusz posiada prawa uczestnictwa alternatywnej spółki inwestycyjnej w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, która, na podstawie ustaleń z pracowniczym funduszem, lokuje swoje aktywa w akcje spółek notowanych na rynku regulowanym – pracowniczy fundusz publikuje informacje dotyczące tych ustaleń.
+### Art. 125.
 
-3. W informacjach dotyczących ustaleń, o których mowa w ust. 2, pracowniczy fundusz w szczególności wskazuje:
+Wypłata transferowa nie wyłącza odpowiedzialności towarzystwa będącego organem funduszu dokonującego wypłaty transferowej wobec byłego członka tego funduszu lub innej osoby, na której rzecz wypłata transferowa została dokonana.
 
-- **1)** w jaki sposób ustalenia te zachęcają firmy inwestycyjne, towarzystwa funduszy inwestycyjnych lub zarządzających ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi do dostosowania ich strategii inwestycyjnych i decyzji inwestycyjnych do profilu i terminów zapadalności pasywów pracowniczego funduszu, w szczególności o charakterze długoterminowym;
-- **2)** w jaki sposób ustalenia te zachęcają firmy inwestycyjne, towarzystwa funduszy inwestycyjnych lub zarządzających ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi do podejmowania decyzji inwestycyjnych na podstawie oceny średnio- i długoterminowych finansowych i niefinansowych wyników spółek notowanych na rynku regulowanym, w których akcje dokonano lokat, oraz do angażowania się w sprawy takich spółek, w celu poprawy ich wyników w perspektywie średnio- i długoterminowej;
-- **3)** w jaki sposób metoda i horyzont czasowy oceny wyników firmy inwestycyjnej, towarzystwa funduszy inwestycyjnych lub zarządzającego ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz wynagrodzenie za usługi zarządzania aktywami są zgodne z profilem i terminem zapadalności pasywów pracowniczego funduszu, w szczególności o charakterze długoterminowym, a także uwzględniają długoterminowe wyniki bezwzględne;
-- **4)** w jaki sposób pracowniczy fundusz monitoruje koszty zarządzania aktywami pracowniczego funduszu lub zarządzania portfelem inwestycyjnym poniesione przez firmy inwestycyjne, towarzystwa funduszy inwestycyjnych lub zarządzających ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi oraz w jaki sposób określa i monitoruje zgodność dokonywanych lokat z ustaleniami, o których mowa w ust. 2;
-- **5)** okres obowiązywania ustaleń z firmą inwestycyjną, towarzystwem funduszy inwestycyjnych lub zarządzającym ASI w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi.
+### Rozdział 12 Podział środków w razie rozwodu lub unieważnienia małżeństwa
 
-4. Jeżeli ustalenia, o których mowa w ust. 2, nie obejmują co najmniej jednego z elementów, o których mowa w ust. 3, pracowniczy fundusz wyjaśnia i uzasadnia tego przyczyny.
+### Art. 126.
 
-5. Informacje, o których mowa w ust. 1–3, oraz wyjaśnienia i uzasadnienie, o których mowa w ust. 4, są publikowane i bezpłatnie udostępniane na stronie internetowej pracowniczego funduszu oraz są uaktualniane co rok, a także w przypadku istotnej zmiany.
+Jeżeli małżeństwo członka otwartego funduszu uległo rozwiązaniu przez rozwód lub zostało unieważnione, środki zgromadzone na rachunku członka funduszu, przypadające byłemu współmałżonkowi w wyniku podziału majątku wspólnego małżonków, są przekazywane w ramach wypłaty transferowej na rachunek byłego współmałżonka w otwartym funduszu.
 
-**Art. 142d.** Za opracowanie i publikację dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 oraz art. 142c ust. 1, 2 i 4, oraz za informacje zawarte w tych dokumentach są odpowiedzialni członkowie zarządu pracowniczego towarzystwa zarządzającego pracowniczym funduszem, o którym mowa w art. 142a ust. 1.
+### Art. 127.
 
-**Art. 143.** (uchylony)
+Wypłata transferowa jest dokonywana przez otwarty fundusz w terminie 3 miesięcy od dnia przedstawienia funduszowi dowodu, że środki zgromadzone na rachunku członka funduszu przypadły byłemu współmałżonkowi.
 
-**Art. 144.** Aktywa otwartego funduszu i dobrowolnego funduszu nie mogą być lokowane w:
+### Art. 128.
 
-**Art. 145.** Aktywa pracowniczego funduszu nie mogą być lokowane w papierach wartościowych emitowanych przez pracownicze towarzystwo zarządzające tym funduszem.
+### 1.
 
-**Art. 146.**
+Jeżeli były współmałżonek uprawniony nie posiada rachunku w otwartym funduszu i, w terminie 2 miesięcy od dnia przedstawienia dowodu, o którym mowa w art. 127, nie wskaże rachunku w jakimkolwiek otwartym funduszu, otwarty fundusz, do którego należy drugi z byłych współmałżonków, niezwłocznie otworzy rachunek na nazwisko byłego współmałżonka uprawnionego i przekaże na ten rachunek, w ramach wypłaty transferowej, przypadające mu środki zgromadzone na rachunku jego byłego współmałżonka. Z chwilą otwarcia rachunku były współmałżonek uprawniony uzyskuje członkostwo w funduszu. Przepisu art. 81 ust. 1 nie stosuje się.
 
-1. Nie więcej niż 5 % wartości aktywów pracowniczego funduszu może być łącznie ulokowane w akcjach lub innych papierach wartościowych emitowanych przez akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem.
+### 2.
 
-2. Nie więcej niż 10 % wartości aktywów pracowniczego funduszu może być łącznie ulokowane w akcjach lub innych papierach wartościowych emitowanych przez podmioty będące podmiotami związanymi w stosunku do akcjonariuszy, o których mowa w ust. 1.
+W przypadku, o którym mowa w ust. 1, otwarty funduszu wzywa byłego współmałżonka uprawnionego, aby niezwłocznie dopełnił obowiązku, o którym mowa w art. 82 ust. 1.
 
-3. Aktywa pracowniczego funduszu mogą być lokowane w papierach wartościowych emitowanych przez akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem lub podmioty będące podmiotami związanymi w stosunku do tych akcjonariuszy, o ile zezwala na to statut tego funduszu.
+### Art. 129.
 
-4. Aktywa pracowniczego funduszu mogą być lokowane, o ile zezwala na to statut funduszu, w instrumenty emitowane lub gwarantowane przez Europejski Bank Inwestycyjny w ramach:
+Przepisy art. 126-128 stosuje się odpowiednio w przypadku ustania wspólności majątkowej w czasie trwania małżeństwa członka otwartego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
 
-- **1)** Europejskich Długoterminowych Funduszy Inwestycyjnych (ELTIF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/760 z dnia 29 kwietnia 2015 r. w sprawie europejskich długoterminowych funduszy inwestycyjnych (Dz. Urz. UE L 123 z 19.05.2015, str. 98);
-- **2)** Europejskich Funduszy na Rzecz Przedsiębiorczości Społecznej (EuSEF) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 346/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy na rzecz przedsiębiorczości społecznej (Dz. Urz. UE L 115 z 25.04.2013, str. 18, z późn. zm. );
-- **3)** Europejskich Funduszy Venture Capital (EuVECA) działających na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 345/2013 z dnia 17 kwietnia 2013 r. w sprawie europejskich funduszy venture capital (Dz. Urz. UE L 115 z 25.04.2013, str. 1, z późn. zm. );
-- **4)** Europejskiego Funduszu na rzecz Inwestycji Strategicznych (EFSI) działającego na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/1017 z dnia 25 czerwca 2015 r. w sprawie Europejskiego Funduszu na rzecz Inwestycji Strategicznych, Europejskiego Centrum Doradztwa Inwestycyjnego i Europejskiego Portalu Projektów Inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1291/2013 i (UE) nr 1316/2013 – Europejski Fundusz na rzecz Inwestycji Strategicznych (Dz. Urz. UE L 169 z 01.07.2015, str. 1, z późn. zm. ).
+### Art. 130.
 
-**Art. 146a.**
+### 1.
 
-1. Pracowniczy fundusz nie może polegać wyłącznie lub automatycznie na ratingach kredytowych sporządzanych przez zewnętrzne instytucje oceny wiarygodności kredytowej lub wykorzystywać ich jako jedynego parametru przy ocenie ryzyka związanego z lokowaniem aktywów pracowniczego funduszu.
+Wypłata środków zgromadzonych na rachunku członka pracowniczego funduszu, które były objęte małżeńską wspólnością majątkową, w przypadku rozwiązania małżeństwa przez rozwód lub unieważnienie małżeństwa, następuje bezpośrednio na rzecz jego byłego współmałżonka w terminie 3 miesięcy od dnia przedstawienia funduszowi dowodu, że środki te przypadły byłemu współmałżonkowi.
 
-2. Przez zewnętrzną instytucję oceny wiarygodności kredytowej, o której mowa w ust. 1, rozumie się agencję ratingową zarejestrowaną lub certyfikowaną zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1060/2009 z dnia 16 września 2009 r. w sprawie agencji ratingowych (Dz. Urz. UE L 302 z 17.11.2009, 1, z późn. zm.) lub bank centralny sporządzający ratingi kredytowe wyłączone z zakresu stosowania tego rozporządzenia.
+### 2.
 
-**Art. 147.**
+Przepis ust. 1 stosuje się odpowiednio w przypadku ustania wspólności majątkowej w czasie trwania małżeństwa członka pracowniczego funduszu albo umownego wyłączenia lub ograniczenia wspólności ustawowej między członkiem tego funduszu a jego małżonkiem.
 
-1. Statut pracowniczego funduszu określa, czy i w jakich papierach wartościowych, papierach skarbowych lub tytułach uczestnictwa fundusz może lokować swoje aktywa poza granicami kraju.
+### Rozdział 13 Podział środków w razie śmierci członka funduszu emerytalnego
 
-2. Statut pracowniczego funduszu może określać, że pracowniczy fundusz w swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym.
+### Art. 131.
 
-**Art. 148.** Wszelkie lokaty pracowniczego funduszu w jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte lub specjalistyczne fundusze inwestycyjne otwarte podlegają następującym ograniczeniom:
+### 1.
 
-**Art. 149.**
+Jeżeli w chwili śmierci członek otwartego funduszu pozostawał w związku małżeńskim, a odrębne przepisy dotyczące renty rodzinnej z ubezpieczenia społecznego nie stanowią inaczej, fundusz dokonuje wypłaty transferowej połowy środków zgromadzonych na rachunku zmarłego na rachunek małżonka zmarłego w otwartym funduszu, w zakresie, w jakim środki te stanowiły przedmiot małżeńskiej wspólności majątkowej.
 
-1. Jeżeli w następstwie zmiany cen rynkowych stanowiących podstawę wyceny aktywów i zobowiązań funduszy, kursów walut albo powiązań organizacyjnych lub kapitałowych między podmiotami, których instrumenty finansowe są przedmiotem lokaty aktywów funduszu, albo w następstwie innych okoliczności, na które fundusz nie ma bezpośredniego wpływu, naruszy on w sposób nieumyślny przepisy niniejszego rozdziału, obowiązany jest podjąć niezwłocznie kroki w celu dostosowania działalności lokacyjnej do wymogów określonych w ustawie.
+### 2.
 
-2. Dostosowanie działalności lokacyjnej do wymogów określonych w ustawie powinno nastąpić nie później niż w terminie 6 miesięcy od dnia zaistnienia stanu niezgodnego z prawem albo od dnia, w którym przeprowadzona wycena aktywów funduszu wykazała zaistnienie takiego stanu, w zależności od tego, który z tych terminów jest późniejszy.
+Wypłata transferowa jest dokonywana w terminie 3 miesięcy od dnia przedstawienia przez małżonka zmarłego odpisu aktu zgonu, odpisu aktu małżeństwa oraz pisemnego oświadczenia stwierdzającego, czy do chwili śmierci członka funduszu nie zaszły żadne zmiany w stosunku do treści oświadczenia, o którym mowa w art. 83 ust. 1, lub zawiadomienia, o którym mowa w art. 83 ust. 2, a jeżeli zmiany te miały miejsce - także dowodu tych zmian.
 
-3. Na wniosek funduszu, złożony nie później niż w terminie 1 miesiąca od daty zaistnienia stanu niezgodnego z prawem lub daty stwierdzenia takiego stanu, zgodnie z ust. 2, organ nadzoru może zezwolić na przedłużenie do 12 miesięcy okresu, o którym mowa w ust. 2, jeżeli jest to uzasadnione ze względu na ochronę interesów członków funduszu.
+### 3.
 
-4. Jeżeli w następstwie realizacji harmonogramu, o którym mowa w art. 102, nastąpi – ze względu na interes członków pracowniczego funduszu – naruszenie przez fundusz przepisów art. 146, dostosowanie działalności lokacyjnej funduszu do wymogów określonych w tych przepisach powinno nastąpić nie później niż w terminie miesiąca od daty zaistnienia stanu niezgodnego z prawem lub daty stwierdzenia takiego stanu, zgodnie z ust. 2, z tym że organ nadzoru może, na wniosek funduszu, przedłużyć ten termin do 6 miesięcy. W tym ostatnim przypadku przepis ust. 3 stosuje się odpowiednio.
+Jeżeli małżonek zmarłego członka funduszu nie posiada rachunku w otwartym funduszu, stosuje się odpowiednio przepisy art. 128.
 
-**Art. 150.** Fundusz nie może:
+### Art. 132.
 
-**Art. 151.**
+### 1.
 
-1. (uchylony)
+Środki zgromadzone na rachunku zmarłego członka otwartego funduszu, które nie zostaną wykorzystane zgodnie z odrębnymi przepisami dotyczącymi renty rodzinnej z ubezpieczenia społecznego oraz art. 131, przekazywane są osobom wskazanym przez zmarłego, zgodnie z art. 82 ust. 1, a w ich braku - członkom najbliższej rodziny zmarłego w równych częściach. Członkami najbliższej rodziny zmarłego są: małżonek, dzieci, rodzice oraz wnuki zmarłego.
 
-2. Fundusz może udzielać pożyczek papierów wartościowych będących przedmiotem obrotu na rynku regulowanym na warunkach i w trybie, o których mowa w ust. 3.
+### 2.
 
-3. Rada Ministrów może określić, w drodze rozporządzenia, warunki i tryb udzielania przez fundusze pożyczek papierów wartościowych będących przedmiotem obrotu na rynku regulowanym, dopuszczalny limit zaangażowania funduszu w udzielanie pożyczek papierów wartościowych oraz sposób uwzględniania pożyczonych papierów wartościowych przy stosowaniu ograniczeń w działalności lokacyjnej funduszu oraz przy ustalaniu wartości aktywów funduszu, mając na względzie bezpieczeństwo aktywów funduszu i ochronę interesów członków funduszu.
+Środki przypadające członkom najbliższej rodziny zmarłego otrzymują w pierwszej kolejności małżonek i dzieci zmarłego, a w przypadku ich braku - rodzice i wnuki zmarłego.
 
-**Art. 152.**
+### 3.
 
-1. Pracowniczy fundusz może powierzyć, w zakresie i na zasadach określonych w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi albo w ustawie z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, zarządzanie aktywami funduszu podmiotowi, który na podstawie tych przepisów jest uprawniony do prowadzenia działalności w zakresie zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, i posiada zezwolenie na wykonywanie tej działalności.
+Otwarty fundusz dokonuje wypłaty środków należnych osobie wskazanej przez zmarłego lub członkowi jego najbliższej rodziny w terminie 3 miesięcy od dnia przedstawienia funduszowi urzędowego dokumentu stwierdzającego tożsamość osoby uprawnionej, z tym że wypłata środków przypadających małżonkowi zmarłego może być przekazana na jego żądanie na rachunek w otwartym funduszu. W tym ostatnim przypadku do wypłaty transferowej środków przypadających małżonkowi zmarłego stosuje się odpowiednio art. 128.
 
-2. Podmiot, o którym mowa w ust. 1, jest wybierany przez pracownicze towarzystwo, w drodze uchwały rady nadzorczej, i zarządza częścią lub całością aktywów pracowniczego funduszu na podstawie pisemnej umowy z funduszem oraz zgodnie z określonymi w statucie funduszu zasadami prowadzenia działalności lokacyjnej.
+### 4.
 
-3. W przypadku, o którym mowa w ust. 1, statut pracowniczego funduszu powinien określać warunki, na jakich fundusz powierza zarządzanie całością lub częścią swoich aktywów, lub upoważnić pracownicze towarzystwo do ich ustalenia w drodze uchwały rady nadzorczej.
+Wypłata dokonywana bezpośrednio na rzecz osoby wskazanej przez zmarłego lub członka jego najbliższej rodziny następuje w formie wypłaty jednorazowej lub w formie wypłaty w ratach płatnych przez okres nie dłuższy niż 2 lata, zgodnie z pisemną dyspozycją osoby uprawnionej.
 
-**Art. 152a.** Pracownicze towarzystwo zarządzające pracowniczym funduszem niezwłocznie informuje organ nadzoru o zawarciu przez pracowniczy fundusz umowy, o której mowa w art. 152 ust. 2, a także o każdej jej zmianie.
+### 5.
 
-**Art. 153.**
+Zasady wypłaty w ratach określa statut otwartego funduszu.
 
-1. W ramach działalności lokacyjnej poza granicami kraju fundusz może powierzyć zarządzanie swoimi aktywami podmiotom mającym siedzibę na terytorium państw, o których mowa w art. 141 ust. 4, które są uprawnione do prowadzenia działalności w zakresie zarządzania cudzymi aktywami na mocy przepisów obowiązujących w tych państwach. Warunki, na jakich fundusz powierza zarządzanie aktywami, określa statut funduszu.
+### Art. 133.
 
-2. Podmiot, o którym mowa w ust. 1, jest wybierany przez towarzystwo w drodze uchwały rady nadzorczej.
+### 1.
 
-3. Zarządzanie aktywami funduszu w ramach działalności lokacyjnej poza granicami kraju odbywa się na podstawie umowy zawartej z funduszem przez podmiot, o którym mowa w ust. 1.
+W razie śmierci członka pracowniczego funduszu, środki zgromadzone na jego rachunku są wypłacane osobie wskazanej przez członka funduszu jako uposażonej do odbioru świadczenia na wypadek jego śmierci. W przypadku braku rozrządzenia na wypadek śmierci zgromadzone środki wchodzą w skład spadku.
 
-4. Fundusz może zawrzeć umowę z podmiotem, o którym mowa w ust. 1, jeżeli:
+### 2.
 
-- **1)** powierzenie zarządzania nie wpłynie niekorzystnie na możliwość sprawowania przez organ nadzoru efektywnego nadzoru nad działalnością inwestycyjną funduszu;
-- **2)** powierzenie wykonywania czynności nie wpłynie niekorzystnie na prowadzenie przez towarzystwo działalności zgodnie z interesem członków funduszu;
-- **3)** zostanie zapewniona należyta ochrona informacji prawnie chronionych;
-- **4)** zostanie zapewniona możliwość przekazywania przez towarzystwo poleceń dotyczących lokat funduszu podmiotowi, któremu powierzone zostało zarządzanie aktywami;
-- **5)** zostanie zapewniona możliwość rozwiązania umowy, o której mowa w ust. 3, przez towarzystwo ze skutkiem natychmiastowym, w przypadku gdy będzie tego wymagał interes członków funduszu;
-- **6)** zostanie zapewniona możliwość sprawowania przez towarzystwo skutecznej kontroli w zakresie wykonywania powierzonych mu czynności oraz w zakresie zarządzania ryzykiem związanym z powierzeniem czynności, w tym zwłaszcza na podmiot zostanie nałożony obowiązek niezwłocznego przekazywania informacji i dokumentów dotyczących wykonywanej umowy;
-- **7)** zostanie zapewniona możliwość skutecznego wykonywania w każdym czasie przez depozytariusza oraz podmioty, o których mowa w art. 159 ust. 2, obowiązków wynikających z przepisów prawa;
-- **8)** podmiot, któremu zostanie powierzone zarządzanie:
-    - **a)** posiada niezbędną wiedzę i doświadczenie w zakresie zarządzania aktywami oraz daje rękojmię należytego wykonywania obowiązków,
-    - **b)** zapewnia warunki techniczne i organizacyjne niezbędne do prawidłowego wykonania umowy oraz ciągłe i niezakłócone prowadzenie działalności w zakresie objętym umową,
-    - **c)** znajduje się w sytuacji finansowej zapewniającej prawidłowe wykonanie umowy.
+Wypłata środków, o których mowa w ust. 1, następuje bezpośrednio na rzecz osób uprawnionych, w terminie 1 miesiąca od dnia przedstawienia funduszowi dowodu, że środki te przypadły tym osobom.
 
-5. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy, o której mowa w ust. 3, towarzystwo odpowiada wobec członków funduszu solidarnie z podmiotem, z którym zawarło umowę.
+### Rozdział 14 Finansowanie działalności funduszu emerytalnego
 
-6. Koszty stanowiące równowartość opłat ponoszonych na rzecz podmiotu zarządzającego aktywami funduszu i stanowiące składnik wynagrodzenia tego podmiotu są pokrywane przez towarzystwo ze środków własnych.
+### Art. 134.
 
-7. Aktywa zarządzane przez podmiot, któremu fundusz powierzył zarządzanie, są przechowywane przez depozytariusza lub podmiot, o którym mowa w art. 159 ust. 2.
+### 1.
 
-8. Depozytariusz lub podmiot, o którym mowa w art. 159 ust. 2, nie mogą być podmiotami związanymi z podmiotem, któremu zostanie powierzone zarządzanie aktywami funduszu.
+Otwarty fundusz może pobierać opłaty wyłącznie w następujący sposób:
 
-9. Towarzystwo prowadzi ewidencję umów, o których mowa w ust. 3, która obejmuje następujące informacje:
+### 1)
 
-- **1)** dane identyfikujące podmioty, z którymi zostały zawarte umowy;
-- **2)** zakres powierzonych czynności i miejsce ich wykonywania;
-- **3)** okres obowiązywania umów;
-- **4)** opis rozwiązań technicznych i organizacyjnych zapewniających bezpieczne i prawidłowe wykonywanie powierzonych czynności, w szczególności ochronę tajemnicy prawnie chronionej.
+w formie potrącenia określonej procentowo kwoty z wpłacanych składek, z zastrzeżeniem, że potrącenie to jest dokonywane przed przeliczeniem składek na jednostki rozrachunkowe,
 
-**Art. 153a.**
+### 2)
 
-1. Fundusz niezwłocznie informuje organ nadzoru o zawarciu umowy, o której mowa w art. 153 ust. 3, lub jej zmianie.
+w formie potrącenia określonej kwoty ze środków na rachunku członka funduszu, z zastrzeżeniem, że może to nastąpić tylko wówczas, gdy wypłata transferowa do innego otwartego funduszu zostanie dokonana przed opłaceniem przez członka składek za okres 24 miesięcy, licząc od daty uzyskania członkostwa w funduszu dokonującym wypłaty transferowej.
 
-2. Organ nadzoru może wezwać fundusz do pozyskania od podmiotu, któremu powierzono wykonywanie zarządzania aktywami, informacji i dokumentów dotyczących wykonywania umowy, o której mowa w art. 153 ust. 3. Organ nadzoru określa w wezwaniu termin na przekazanie informacji i dokumentów.
+### 2.
 
-3. Organ nadzoru, w drodze decyzji administracyjnej, może nakazać funduszowi zmianę albo rozwiązanie umowy, o której mowa w art. 153 ust. 3, jeżeli:
+Kwoty stanowiące równowartość opłat, o których mowa w ust. 1, otwarty fundusz przekazuje niezwłocznie na rzecz powszechnego towarzystwa.
 
-- **1)** nie są spełnione wymogi określone w przepisach prawa lub statucie funduszu, warunkujące powierzenie zarządzania aktywami funduszu emerytalnego poza granicami kraju, lub
-- **2)** realizacja umowy narusza interes członków funduszu.
+### Art. 135.
 
-4. Decyzji, o której mowa w ust. 3, nadaje się rygor natychmiastowej wykonalności.
+Otwarty fundusz stosuje jednolitą metodę obliczania i pobierania opłat, o których mowa w art. 134 ust. 1, w stosunku do wszystkich członków, z zastrzeżeniem, że opłaty, o których mowa w art. 134 ust. 1 pkt 1, mogą być pobierane w niższej wysokości w stosunku do członków posiadających dłuższy staż członkowski, określony w statucie funduszu, przy czym nie jest dozwolone różnicowanie wysokości opłat w stosunku do osób posiadających taki sam staż członkowski.
 
-**Art. 154.**
+### Art. 136.
 
-1. Pożyczki i kredyty zaciągnięte przez fundusz nie mogą przekraczać 1,5 % wartości jego aktywów.
+### 1.
 
-2. W przypadku pracowniczego funduszu zaciągnięcie pożyczki lub kredytu jest możliwe wyłącznie na podstawie decyzji pracowniczego towarzystwa podjętej w formie uchwały rady nadzorczej.
+Koszty związane z realizacją transakcji nabywania lub zbywania aktywów funduszu, stanowiące równowartość opłat ponoszonych na rzecz osób trzecich, z których pośrednictwa fundusz jest obowiązany korzystać z mocy odrębnych przepisów, oraz koszty związane z przechowywaniem tych aktywów, stanowiące równowartość wynagrodzenia depozytariusza są pokrywane przez fundusz bezpośrednio z jego aktywów.
 
-**Art. 154a.**
+### 2.
 
-1. Towarzystwo przechowuje przez okres 3 lat dokumenty, na podstawie których podejmowane są poszczególne decyzje dotyczące lokat funduszu, w sposób umożliwiający ustalenie kiedy i przez kogo zostały podjęte.
+Fundusz może pokrywać bezpośrednio ze swoich aktywów także koszty zarządzania funduszem przez towarzystwo w kwocie ustalonej w statucie, jednak nie wyższej niż 0,05% wartości zarządzanych aktywów netto w skali miesiąca. Kwota ta jest obliczana na każdy dzień ustalania wartości aktywów netto funduszu i płatna w ostatnim dniu roboczym każdego miesiąca.
 
-2. Towarzystwo dokumentuje proces inwestycyjny w sposób umożliwiający stwierdzenie, kto i kiedy podejmował decyzje dotyczące strategii inwestycyjnej i lokowania aktywów funduszu.
+### 3.
 
-**Art. 155.** Rada Ministrów może określić, w drodze rozporządzenia, dodatkowe ograniczenia w zakresie prowadzenia działalności lokacyjnej przez fundusze, mając na względzie ochronę interesów członków tych funduszy.
+Przy ustalaniu wartości zarządzanych aktywów netto funduszu, o której mowa w ust. 2, nie uwzględnia się wartości lokat, o których mowa w art. 141 ust. 1 pkt 8, oraz lokat w tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę za granicą, o których mowa w art. 143 ust. 1.
 
-**Art. 156.** Jeżeli fundusz nie przestrzega przepisów prawa lub statutu funduszu określających zasady działalności lokacyjnej lub nie wykona obowiązków określonych w art. 149 ust. 1, 2 i 4, organ nadzoru może nałożyć na towarzystwo karę pieniężną w wysokości do 3 000 000 zł.
+### Art. 137.
 
-#### Rozdział 16 Depozytariusz
+### 1.
 
-**Art. 157.** Fundusz jest obowiązany wybrać depozytariusza, któremu na podstawie pisemnej umowy powierza przechowywanie swoich aktywów.
+Koszty działalności funduszu, które nie są pokrywane bezpośrednio z jego aktywów, pokrywa towarzystwo.
 
-**Art. 158.**
+### 2.
 
-1. Depozytariuszem może być bank, który:
+Pracodawcy będący akcjonariuszami pracowniczego towarzystwa są obowiązani do pokrywania kosztów działalności tego towarzystwa na zasadach określonych w statucie towarzystwa.
 
-- **1)** jest bankiem krajowym w rozumieniu ustawy – Prawo bankowe;
-- **2)** posiada fundusze własne w wysokości stanowiącej równowartość w złotych co najmniej 100 000 000 euro, o ile przedmiotem przechowywania mają być aktywa otwartego funduszu, lub 30 000 000 euro, o ile przedmiotem przechowywania mają być aktywa pracowniczego funduszu;
-- **3)** nie posiada akcji towarzystwa zarządzającego funduszem, którego aktywa przechowuje, lub akcji lub udziałów podmiotu związanego w stosunku do tego towarzystwa;
-- **4)** nie jest pożyczkodawcą lub kredytodawcą w stosunku do funduszu, którego aktywa przechowuje, ani towarzystwa zarządzającego tym funduszem, chyba że kwota pożyczki lub kredytu nie przekracza 1 % wartości aktywów netto funduszu w chwili zaciągnięcia kredytu lub pożyczki, oraz
-- **5)** nie zatrudnia ani nie posiada w składzie władz statutowych osób, które są:
-    - **a)** członkami zarządu, rady nadzorczej lub pracownikami towarzystwa zarządzającego funduszem, którego aktywa przechowuje,
-    - **b)** członkami organu zarządzającego, rady nadzorczej lub pracownikami podmiotu związanego w stosunku do towarzystwa, o którym mowa w lit. a.
+### Art. 138.
 
-2. Depozytariuszem może być Krajowy Depozyt, o ile spełnia warunki określone w ust. 1 pkt 3–5.
+Rada Ministrów określi, w drodze rozporządzenia, zasady obliczania oraz maksymalną wysokość opłat, o których mowa w art. 134 ust. 1 pkt 2.
 
-3. Jeżeli depozytariusz w trakcie trwania umowy z funduszem przestanie spełniać którykolwiek z warunków określonych w ust. 1, zawiadamia o tym niezwłocznie organ nadzoru oraz fundusz i jest obowiązany do dostosowania się do wymogów, o których mowa w tym przepisie, w terminie nie dłuższym niż 3 miesiące, licząc od dnia, w którym przestał spełniać te warunki.
+### Rozdział 15 Działalność lokacyjna funduszy emerytalnych
 
-**Art. 159.**
+### Art. 139.
 
-1. Do obowiązków depozytariusza w zakresie przechowywania aktywów funduszu należy:
+Fundusz lokuje swoje aktywa zgodnie z przepisami niniejszej ustawy, dążąc do osiągnięcia maksymalnego stopnia bezpieczeństwa i rentowności dokonywanych lokat.
 
-- **1)** prowadzenie rejestru aktywów funduszu zapisywanych na właściwych rachunkach oraz przechowywanych przez depozytariusza i inne podmioty uprawnione do tego na mocy odrębnych przepisów lub na podstawie umów zawieranych za zgodą depozytariusza;
-- **2)** zapewnienie, aby wartość aktywów netto funduszu była ustalana w sposób pozwalający funduszowi na wykonanie obowiązków określonych w rozdziale 17;
-- **3)** zapewnienie, aby umowy obejmujące nabywanie i zbywanie aktywów funduszu były zgodne z przepisami prawa oraz statutem funduszu;
-- **4)** wykonywanie poleceń funduszu, chyba że są one sprzeczne z przepisami prawa lub statutem funduszu albo w ocenie depozytariusza zagrażają bezpieczeństwu aktywów funduszu;
-- **5)** zapewnienie, aby aktywa funduszu były lokowane zgodnie z przepisami prawa oraz statutem funduszu;
-- **6)** zapewnienie terminowego rozliczania umów dotyczących aktywów funduszu;
-- **7)** wykonywanie poleceń likwidatora dotyczących likwidacji funduszu;
-- **8)** wykonywanie innych obowiązków przewidzianych ustawą.
+### Art. 140.
 
-2. Depozytariusz może, na polecenie funduszu, zawierać umowy, o których mowa w ust. 1 pkt 1, z bankami lub instytucjami finansowymi, które mają siedzibę poza obszarem Rzeczypospolitej Polskiej, z zastrzeżeniem, że fundusze własne takich banków lub instytucji finansowych wynoszą co najmniej 200 000 000 euro.
+Przy ustalaniu, jaka część aktywów pracowniczego funduszu może zostać ulokowana w poszczególnych kategoriach lokat, nie uwzględnia się akcji złożonych na rachunkach ilościowych oraz środków na odrębnym rachunku pieniężnym, o którym mowa w art. 100 ust. 4.
 
-3. Depozytariusz jest obowiązany do występowania, w imieniu członków funduszu, z powództwem przeciwko towarzystwu z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem przez towarzystwo obowiązków w zakresie zarządzania funduszem i jego reprezentacji.
+### Art. 141.
 
-4. Depozytariusz zapewnia zgodne z przepisami prawa i statutem funduszu wykonywanie obowiązków funduszu, o których mowa w ust. 1 pkt 2–3 i 5–6, przynajmniej przez stałą kontrolę czynności faktycznych i prawnych dokonywanych przez fundusz oraz doprowadzanie do zgodności tych czynności z przepisami prawa i statutem funduszu.
+### 1.
 
-**Art. 160.**
+Aktywa funduszu mogą być lokowane z zastrzeżeniem art. 146, wyłącznie w następujących kategoriach lokat:
 
-1. Umowa z depozytariuszem o przechowywanie aktywów funduszu powinna określać szczegółowo obowiązki depozytariusza i funduszu, sposób ich wykonywania, wynagrodzenie depozytariusza, sposób obliczania kosztów i pobierania opłat obciążających fundusz, a także wskazywać osoby wyznaczone przez depozytariusza bezpośrednio odpowiedzialne za należyte wykonanie umowy. Fundusz w umowie zobowiązuje się do przekazywania depozytariuszowi informacji niezbędnych do wykonywania jego obowiązków. Umowa może także określać w szczególności wysokość wynagrodzenia z tytułu pełnienia przez depozytariusza funkcji podmiotu reprezentującego i zarządzającego funduszem, zgodnie z art. 64 ust. 1, lub funkcji likwidatora pracowniczego funduszu. Umowa nie może ograniczać ustawowych obowiązków depozytariusza.
+### 1)
 
-2. Depozytariusz odpowiada za wszelkie szkody wynikające z niewykonania lub nienależytego wykonania obowiązków nałożonych przez ustawę.
+obligacjach, bonach i innych papierach wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski, a także w pożyczkach i kredytach udzielanych tym podmiotom,
 
-3. Odpowiedzialność, o której mowa w ust. 2, nie może być wyłączona bądź ograniczona ani w umowie o przechowywanie aktywów funduszu, ani wskutek powierzenia przechowywania całości lub części aktywów funduszu innemu podmiotowi.
+### 2)
 
-4. Fundusz lub depozytariusz może rozwiązać umowę o przechowywanie aktywów funduszu w drodze wypowiedzenia, którego okres nie może być krótszy niż 6 miesięcy. O wypowiedzeniu umowy i jego przyczynach strona wypowiadająca umowę powiadamia niezwłocznie organ nadzoru.
+obligacjach i innych dłużnych papierach wartościowych, opiewających na świadczenia pieniężne, gwarantowanych lub poręczanych przez Skarb Państwa albo Narodowy Bank Polski, a także depozytach, kredytach i pożyczkach gwarantowanych lub poręczanych przez te podmioty,
 
-**Art. 161.**
+### 3)
 
-1. Jeżeli depozytariusz nie wykonuje obowiązków określonych w umowie o przechowywanie aktywów funduszu albo wykonuje je nienależycie:
+depozytach bankowych i bankowych papierach wartościowych,
 
-- **1)** fundusz wypowiada umowę, zawiadamiając niezwłocznie organ nadzoru o tym fakcie;
-- **2)** organ nadzoru może nakazać funduszowi zmianę depozytariusza.
+### 4)
 
-2. Organ nadzoru może nakazać funduszowi zmianę depozytariusza także wtedy, gdy nastąpiło istotne pogorszenie sytuacji finansowej depozytariusza, zagrażające bezpieczeństwu przechowywanych przez niego aktywów.
+akcjach spółek notowanych na regulowanym rynku giełdowym,
 
-3. Narodowy Bank Polski niezwłocznie informuje organ nadzoru o każdym przypadku istotnego pogorszenia sytuacji finansowej banku pełniącego funkcję depozytariusza, o którym mowa w ust. 2.
+### 5)
 
-4. (uchylony)
+akcjach spółek notowanych na regulowanym rynku pozagiełdowym lub spółek nie notowanych na regulowanym rynku giełdowym i na regulowanym rynku pozagiełdowym, lecz dopuszczonych do publicznego obrotu,
 
-5. W przypadkach, o których mowa w ust. 1 i 2, wypowiedzenie może nastąpić w terminie krótszym niż wskazany w art. 160 ust. 4.
+### 6)
 
-**Art. 162.**
+akcjach narodowych funduszy inwestycyjnych,
 
-1. W razie ogłoszenia upadłości lub otwarcia likwidacji depozytariusza, a także w przypadku stwierdzenia przez organ nadzoru naruszenia przez depozytariusza warunków umowy w sposób zagrażający bezpieczeństwu aktywów funduszu lub interesom jego członków, fundusz dokonuje niezwłocznie zmiany depozytariusza. W tym przypadku nie stosuje się przepisu art. 160 ust. 4 zdanie pierwsze.
+### 7)
 
-2. Przepis ust. 1 stosuje się odpowiednio w przypadku, gdy depozytariusz nie dostosuje się, w terminie określonym w art. 158 ust. 3, do wymogów, o których mowa w art. 158 ust. 1.
+certyfikatach inwestycyjnych emitowanych przez fundusze inwestycyjne zamknięte lub fundusze inwestycyjne mieszane,
 
-**Art. 163.**
+### 8)
 
-1. Każdorazowa zmiana depozytariusza następuje w sposób zapewniający nieprzerwane wykonywanie obowiązków w zakresie przechowywania aktywów funduszu.
+jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte lub specjalistyczne fundusze inwestycyjne otwarte,
 
-2. W razie rozwiązania umowy z dotychczasowym depozytariuszem, powinien on wydać depozytariuszowi, z którym fundusz zawarł umowę, przechowywane aktywa funduszu i wszelkie dokumenty związane z wykonywaniem obowiązków określonych w ust. 1, w terminie uzgodnionym przez strony, jednakże bez zbędnej zwłoki.
+### 9)
 
-**Art. 164.**
+obligacjach i innych dłużnych papierach wartościowych emitowanych przez gminy, związki komunalne lub miasto stołeczne Warszawa, które zostały dopuszczone do publicznego obrotu,
 
-1. Depozytariusz jest obowiązany poinformować niezwłocznie organ nadzoru o wszelkich działaniach i zaniechaniach funduszu, które, w jego ocenie, stanowią naruszenie prawa, postanowień statutu funduszu lub powodują, że interesy członków funduszu nie są należycie uwzględniane.
+### 10)
 
-2. Depozytariusz jest obowiązany niezwłocznie poinformować organ nadzoru o stwierdzonych nieprawidłowościach w ustaleniu przez fundusz wartości aktywów netto funduszu, wartości jednostki rozrachunkowej i wysokości stopy zwrotu, o których mowa w art. 166, 169 i 170.
+obligacjach i innych dłużnych papierach wartościowych emitowanych przez gminy, związki komunalne lub miasto stołeczne Warszawa, które nie są dopuszczone do publicznego obrotu,
 
-**Art. 165.** Aktywa funduszu przechowywane w sposób przewidziany w przepisach niniejszego rozdziału oraz w sposób określony w art. 51 ustawy – Prawo bankowe nie mogą być przedmiotem egzekucji skierowanej przeciwko depozytariuszowi lub podmiotom, o których mowa w art. 159 ust. 1 pkt 1, a także nie wchodzą w skład masy upadłości depozytariusza lub tych podmiotów i nie mogą być objęte postępowaniem układowym.
+### 11)
 
-#### Rozdział 17 Wycena aktywów i obliczanie stopy zwrotu funduszy emerytalnych
+zabezpieczonych całkowicie obligacjach emitowanych przez inne podmioty niż gminy, związki komunalne lub miasto stołeczne Warszawa, które zostały dopuszczone do publicznego obrotu,
 
-**Art. 166.** Wartość aktywów netto funduszu jest ustalana przez fundusz w każdym dniu wyceny, o którym mowa w art. 168, i według stanu na ten dzień, oraz podawana do wiadomości organu nadzoru.
+### 12)
 
-**Art. 167.** Wycena aktywów netto funduszu stanowi podstawę ustalenia wartości jednostki rozrachunkowej, zgodnie z przepisami rozdziału 9.
+zabezpieczonych całkowicie obligacjach emitowanych przez inne podmioty niż gminy, związki komunalne lub miasto stołeczne Warszawa, które nie zostały dopuszczone do publicznego obrotu,
 
-**Art. 168.**
+### 13)
 
-1. W przypadku otwartego funduszu oraz dobrowolnego funduszu dniem wyceny jest każdy dzień roboczy, z wyjątkiem sobót, a w przypadku pracowniczego funduszu – ostatni dzień roboczy każdego miesiąca.
+obligacjach i innych dłużnych papierach wartościowych emitowanych przez spółki publiczne, które nie zostały dopuszczone do publicznego obrotu,
 
-2. Statut pracowniczego funduszu może określić także inne dni wyceny.
+### 14)
 
-**Art. 169.** Wartość jednostki rozrachunkowej jest ustalana przez fundusz w każdym dniu wyceny i według stanu na ten dzień oraz podawana do wiadomości organu nadzoru, a w przypadku otwartych funduszy także do wiadomości jednej z agencji informacyjnych wskazanych przez organ nadzoru.
+innych lokatach, które może, w drodze rozporządzenia, określić Rada Ministrów, z zastrzeżeniem, że lokaty w prawach pochodnych, o których mowa w ustawie - Prawo o publicznym obrocie papierami wartościowymi, mogą mieć na celu wyłącznie ograniczenie ryzyka inwestycyjnego związanego ze zmianą kursów walut w związku z lokatami, o których mowa w art. 143.
 
-**Art. 170.** Otwarty fundusz, który przyjmował składki co najmniej przez 36 miesięcy, ustala na koniec marca i września każdego roku wysokość stopy zwrotu za ostatnie 36 miesięcy. Wysokość stopy zwrotu jest podawana do wiadomości organu nadzoru oraz na ogólnodostępnej stronie internetowej.
+### 2.
 
-**Art. 171.** Fundusz jest obowiązany przekazywać informacje o wielkościach, o których mowa w art. 166, 169 i 170, do wiadomości depozytariusza niezwłocznie po ich sporządzeniu.
+Aktywa funduszy mogą być lokowane w jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte oraz specjalistyczne fundusze inwestycyjne otwarte, jeżeli polityka inwestycyjna tych funduszy inwestycyjnych, wynikająca z ich statutów i okresowo podawana do publicznej wiadomości, zgodnie z odrębnymi przepisami, polega na lokowaniu aktywów wyłącznie w kategoriach lokat, o których mowa w ust. 1 i art. 143, z zastrzeżeniem ograniczeń określonych w art. 142.
 
-**Art. 172.**
+### 3.
 
-1. Stopą zwrotu funduszu jest wyrażony procentowo iloraz różnicy wartości jednostki rozrachunkowej w ostatnim dniu roboczym miesiąca rozliczeniowego i wartości tej jednostki w ostatnim dniu roboczym miesiąca rozliczeniowego poprzedzającego okres 36 miesięcy oraz wartości tej jednostki w ostatnim dniu roboczym miesiąca rozliczeniowego poprzedzającego okres 36 miesięcy. Miesiącem rozliczeniowym jest odpowiednio marzec i wrzesień.
+Ilekroć w niniejszej ustawie mowa jest o funduszach inwestycyjnych otwartych, towarzystwach funduszy inwestycyjnych zarządzających takimi funduszami oraz jednostkach uczestnictwa zbywanych przez takie fundusze, należy przez to rozumieć odpowiednio także fundusze powiernicze i towarzystwa funduszy powierniczych, o których mowa w ustawie z dnia 22 marca 1991 r. - Prawo o publicznym obrocie papierami wartościowymi i funduszach powierniczych ([Dz. U. z 1994 r. Nr 58, poz. 239](https://api.sejm.gov.pl/eli/acts/DU/1994/239/text.html), [Nr 71, poz. 313](https://api.sejm.gov.pl/eli/acts/DU/1994/313/text.html) i [Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html), z [1996 r. Nr 45, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/1996/199/text.html), [Nr 75, poz. 357](https://api.sejm.gov.pl/eli/acts/DU/1996/357/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 30, poz. 164](https://api.sejm.gov.pl/eli/acts/DU/1997/164/text.html) i [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)), a także jednostki uczestnictwa zbywane przez te fundusze.
 
-2. Wysokość stóp zwrotu, obliczonych na podstawie ust. 1, podaje do publicznej wiadomości organ nadzoru.
+### Art. 142.
 
-**Art. 173.**
+### 1.
 
-1. Średnią ważoną stopą zwrotu wszystkich otwartych funduszy za okres 36 miesięcy jest suma iloczynów stopy zwrotu każdego z otwartych funduszy, o których mowa w art. 170, i wskaźnika przeciętnego udziału w rynku danego otwartego funduszu. Wskaźnikiem przeciętnego udziału w rynku danego otwartego funduszu jest średnia arytmetyczna wskaźnika udziału w rynku w ostatnim dniu roboczym miesiąca poprzedzającego okres 36 miesięcy i wskaźnika udziału w rynku w ostatnim dniu roboczym miesiąca przypadającego na koniec okresu 36 miesięcy. Wskaźnikiem udziału w rynku otwartego funduszu, w określonym dniu, jest iloraz wartości aktywów netto tego funduszu i wartości aktywów netto wszystkich otwartych funduszy, o których mowa w art. 170, według stanu na dzień obliczenia wskaźnika.
+Lokaty w kategoriach lokat, o których mowa w art. 141 ust. 1 pkt 1-9 i 11, powinny stanowić łącznie nie mniej niż 95% wartości aktywów funduszu emerytalnego.
 
-2. Jeżeli wskaźnik przeciętnego udziału w rynku danego funduszu wynosi co najmniej 15 %, dla celów obliczenia średniej ważonej stopy zwrotu wszystkich otwartych funduszy:
+### 2.
 
-- **1)** przyjmuje się dla tego funduszu wskaźnik w wysokości 15 %;
-- **2)** wskaźniki przeciętnego udziału w rynku pozostałych funduszy, obliczone zgodnie z ust. 1, ulegają proporcjonalnemu powiększeniu tak, aby suma wskaźników dla tych funduszy stanowiła różnicę między wielkością 100 % oraz iloczynem liczby funduszy, dla których przeciętny wskaźnik udziału w rynku wynosi co najmniej 15 %, i wielkości 15 %;
-- **3)** jeżeli należałoby dla któregokolwiek z funduszy zastosować powiększony wskaźnik w wysokości przekraczającej 15 %, w wyniku powiększania wskaźników udziałów w rynku pozostałych funduszy, to przyjmuje się dla tego funduszu wskaźnik 15 % i ponownie powiększa wskaźniki dla pozostałych funduszy.
+Lokaty w poszczególnych kategoriach lokat, o których mowa w art. 141 ust. 1 pkt 2-13, podlegają następującym ograniczeniom:
 
-3. Jeżeli liczba otwartych funduszy, dla których ustala się stopę zwrotu zgodnie z art. 172, nie jest większa niż 6, wskaźnik procentowego udziału w rynku dla każdego z nich ustala się w jednakowej wysokości.
+### 1)
 
-4. Wysokość średniej ważonej stopy zwrotu wszystkich otwartych funduszy podaje do publicznej wiadomości organ nadzoru.
+w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 2, nie więcej niż 10% wartości aktywów funduszu może być ulokowane w jednym rodzaju papierów wartościowych,
 
-**Art. 173a.** Pracowniczy fundusz może zlecić w całości lub części innym podmiotom wykonywanie obowiązków przewidzianych w niniejszym rozdziale.
+### 2)
 
-**Art. 174.** Rada Ministrów określi, w drodze rozporządzenia:
+w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 3, nie więcej niż 5% wartości aktywów funduszu może być ulokowane w jednym banku albo w dwóch lub większej liczbie banków będących podmiotami związanymi, przy czym w przypadku jednego dowolnie wybranego banku lub grupy banków będących podmiotami związanymi limit ten może wynosić 7,5%,
 
-#### Rozdział 18 Rachunek premiowy i rachunek rezerwowy
+### 3)
 
-**Art. 175.** (uchylony)
+w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 7, nie więcej niż 2% wartości aktywów funduszu może być ulokowane w certyfikatach inwestycyjnych wyemitowanych przez jeden fundusz inwestycyjny zamknięty lub jeden fundusz inwestycyjny mieszany,
 
-**Art. 176.** (uchylony)
+### 4)
 
-**Art. 177.** (uchylony)
+w przypadku lokat, o których mowa w art. 141 ust. 1 pkt 8, nie więcej niż 5% wartości aktywów funduszu może być ulokowane w jednostkach uczestnictwa zbywanych przez jeden fundusz inwestycyjny otwarty lub jeden specjalistyczny fundusz inwestycyjny otwarty, przy czym nie więcej niż 15% wartości aktywów funduszu może być ulokowane łącznie we wszystkich funduszach inwestycyjnych otwartych oraz specjalistycznych funduszach inwestycyjnych otwartych zarządzanych przez jedno towarzystwo funduszy inwestycyjnych,
 
-**Art. 178.** (uchylony)
+### 5)
 
-**Art. 179.** (uchylony)
+łączna wartość lokat aktywów funduszu we wszystkich papierach wartościowych jednego emitenta albo dwóch lub większej liczby emitentów będących podmiotami związanymi nie może przekroczyć 5% wartości tych aktywów.
 
-**Art. 180.** (uchylony)
+### 3.
 
-**Art. 181.**
+Ograniczenia, o których mowa w ust. 2 pkt 4, nie dotyczą pracowniczych funduszy.
 
-1. Otwarty fundusz otwiera rachunek rezerwowy.
+### 4.
 
-2. Środki na rachunku rezerwowym, o którym mowa w ust. 1, stanowią część aktywów funduszu i są przeliczane na jednostki rozrachunkowe.
+Ograniczeń, o których mowa w ust. 2, nie stosuje się, jeżeli na fundusz został nałożony obowiązek przyjmowania wpłat w formie określonej w art. 97 ust. 1. Przepisy art. 149 ust. 2 i 3 stosuje się odpowiednio.
 
-3. Na towarzystwo, które nie przenosi środków na rachunek rezerwowy, zgodnie z art. 182a ust. 5, organ nadzoru może nałożyć karę pieniężną w wysokości do 500 000 zł.
+### 5.
 
-**Art. 181a.**
+Rada Ministrów określi, w drodze rozporządzenia, maksymalną część aktywów otwartego funduszu, jaka może zostać ulokowana w poszczególnych kategoriach lokat, o których mowa w art. 141.
 
-1. Powszechne towarzystwo może wycofać środki zgromadzone na rachunku rezerwowym w ostatnim dniu roboczym kwietnia lub ostatnim dniu roboczym października, pod warunkiem że stopa zwrotu funduszu zarządzanego przez to towarzystwo za okres ostatnich 72 miesięcy, kończący się odpowiednio w ostatnim dniu roboczym poprzedzającego miesiąca, obliczana na zasadach określonych w art. 172, była nie niższa niż wskaźnik wzrostu cen towarów i usług konsumpcyjnych ogółem za ostatnie 72 miesiące, w marcu w stosunku do marca sprzed 6 lat oraz odpowiednio we wrześniu w stosunku do września sprzed 6 lat.
+### 6.
 
-1a. Środki niewycofane przez powszechne towarzystwo na skutek niespełnienia warunku, o którym mowa w ust. 1, są przekazywane do otwartego funduszu.
+Rada Ministrów może określić, w drodze rozporządzenia, maksymalną część aktywów pracowniczego funduszu, jaka może zostać ulokowana w poszczególnych kategoriach lokat, o których mowa w art. 141.
 
-2. Wskaźnik, o którym mowa w ust. 1, jest ogłaszany przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” do dnia 20 kwietnia i do dnia 20 października.
+### Art. 143.
 
-**Art. 182.** Ze środków na rachunku rezerwowym nie może być prowadzona egzekucja przeciwko powszechnemu towarzystwu.
+### 1.
 
-**Art. 182a.**
+Na podstawie ogólnego zezwolenia udzielonego przez Ministra Finansów, w drodze rozporządzenia, i na warunkach określonych w tym zezwoleniu aktywa funduszu mogą być lokowane poza granicami kraju w papierach wartościowych emitowanych przez spółki notowane na podstawowych giełdach rynków kapitałowych państw obcych będących członkami OECD lub innych państw obcych, które określone zostaną w tym zezwoleniu, a także w papierach skarbowych emitowanych przez rządy lub banki centralne tych państw oraz tytułach uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę w tych państwach, jeżeli instytucje te oferują publicznie tytuły uczestnictwa i umarzają je na żądanie uczestnika.
 
-1. Otwarty fundusz przekazuje ze swoich aktywów na rzecz powszechnego towarzystwa środki w kwocie nie wyższej w skali miesiąca niż 0,005 % wartości zarządzanych aktywów netto funduszu. Kwota ta jest obliczana na każdy dzień ustalania wartości aktywów netto funduszu i płatna w ostatnim dniu roboczym każdego miesiąca. Powszechne towarzystwo nie później niż w pierwszym dniu roboczym kolejnego miesiąca dokonuje wpłaty tej kwoty na rachunek premiowy.
+### 2.
 
-2. Otwarty fundusz otwiera rachunek premiowy, na którym są przechowywane środki, o których mowa w ust. 1. Środki te stanowią część aktywów funduszu i są przeliczane na jednostki rozrachunkowe.
+Do lokat, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 142.
 
-3. W pierwszym dniu roboczym od dnia podania przez organ nadzoru do publicznej wiadomości średniej ważonej stopy zwrotu wszystkich otwartych funduszy:
+### Art. 144.
 
-- **1)** towarzystwo zarządzające funduszem, który uzyskał najwyższą stopę zwrotu, nabywa uprawnienie do wycofania zgodnie z art. 181a wszystkich środków zgromadzonych na rachunku premiowym;
-- **2)** towarzystwo zarządzające funduszem, który uzyskał najniższą stopę zwrotu, przekazuje niezwłocznie wszystkie środki zgromadzone na rachunku premiowym do otwartego funduszu;
-- **3)** towarzystwa zarządzające pozostałymi funduszami uzyskują uprawnienie do wycofania zgodnie z art. 181a części środków zgromadzonych na rachunku premiowym, stanowiącej iloczyn całości środków zgromadzonych na rachunku premiowym i procentowego wskaźnika premiowego, o którym mowa w ust. 4, a pozostałą kwotę przekazuje się niezwłocznie do otwartego funduszu.
+Aktywa otwartego funduszu nie mogą być lokowane w:
 
-4. Procentowy wskaźnik premiowy oblicza się jako iloraz różnicy między stopami zwrotu uzyskanymi przez dany fundusz i fundusz, o którym mowa w ust. 3 pkt 2, oraz różnicy między stopami zwrotu uzyskanymi przez fundusz, o którym mowa w ust. 3 pkt 1, i fundusz, o którym mowa w ust. 3 pkt 2.
+### 1)
 
-5. Środki zgromadzone na rachunku premiowym, do których powszechne towarzystwo nabyło uprawnienie do wycofania zgodnie z art. 181a na podstawie ust. 3 pkt 1 i 3, są niezwłocznie przenoszone na rachunek rezerwowy, o którym mowa w art. 181 ust. 1.
+akcjach lub innych papierach wartościowych emitowanych przez powszechne towarzystwo zarządzające tym funduszem,
 
-**Art. 183.** (uchylony)
+### 2)
 
-#### Rozdział 19 Fundusz Gwarancyjny
+akcjach lub innych papierach wartościowych emitowanych przez akcjonariusza powszechnego towarzystwa zarządzającego tym funduszem,
 
-**Art. 184.** Tworzy się Fundusz Gwarancyjny, którego administratorem jest Krajowy Depozyt.
+### 3)
 
-**Art. 185.**
+akcjach lub innych papierach wartościowych emitowanych przez podmioty będące podmiotami związanymi w stosunku do podmiotów określonych w pkt 1 i 2.
 
-1. Przychodami Funduszu Gwarancyjnego są obowiązkowe wpłaty dokonywane przez powszechne towarzystwa z własnych środków, przychody z lokowania środków Funduszu Gwarancyjnego oraz inne przychody uzyskane w wyniku administrowania nim przez Krajowy Depozyt.
+### Art. 145.
 
-2. Wpłaty powszechnego towarzystwa do Funduszu Gwarancyjnego stanowią określoną procentowo, identyczną dla wszystkich otwartych funduszy, część aktywów netto otwartego funduszu zarządzanego przez to towarzystwo.
+Aktywa pracowniczego funduszu nie mogą być lokowane w papierach wartościowych emitowanych przez pracownicze towarzystwo zarządzające tym funduszem.
 
-3. Środki Funduszu Gwarancyjnego nie podlegają egzekucji prowadzonej z majątku powszechnego towarzystwa.
+### Art. 146.
 
-4. Rada Ministrów określi, w drodze rozporządzenia:
+### 1.
 
-- **1)** wysokość wpłat wnoszonych do Funduszu Gwarancyjnego, z tym że całkowita wartość środków Funduszu Gwarancyjnego nie może przekraczać 0,3 % wartości aktywów netto wszystkich otwartych funduszy, chyba że wartość zobowiązań Funduszu Gwarancyjnego wobec otwartych funduszy przekracza tę wielkość,
-- **2)** sposób i tryb wnoszenia wpłat do Funduszu Gwarancyjnego,
-- **3)** sposób i tryb działania Funduszu Gwarancyjnego, w tym lokowania jego środków,
-- **4)** sposób gospodarowania środkami Funduszu Gwarancyjnego, wysokość opłat wnoszonych do Krajowego Depozytu za administrowanie Funduszem Gwarancyjnym i tryb ich wnoszenia,
-- **5)** warunki i tryb dokonywania wypłat ze środków Funduszu Gwarancyjnego oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie – mając na względzie cele, jakim służą środki gromadzone w Funduszu Gwarancyjnym.
+Nie więcej niż 5% wartości aktywów pracowniczego funduszu może być łącznie ulokowane w akcjach lub innych papierach wartościowych emitowanych przez akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem oraz podmioty będące podmiotami związanymi w stosunku do tych akcjonariuszy, bez względu na to, czy papiery te są dopuszczone do publicznego obrotu.
 
-**Art. 186.** (uchylony)
+### 2.
 
-**Art. 187.** Ze środków Funduszu Gwarancyjnego są pokrywane szkody, o których mowa w art. 48 ust. 1, w zakresie, w jakim powszechne towarzystwo nie ponosi za nie odpowiedzialności, lub szkody te nie mogą być pokryte z jego masy upadłości.
+Jeżeli przedmiotem lokat, o których mowa w ust. 1, są zarówno papiery wartościowe dopuszczone do publicznego obrotu, jaki i papiery wartościowe nie dopuszczone do publicznego obrotu, limit określony w ust. 1 wynosi 12,5% wartości aktywów funduszu, o ile lokaty w papierach wartościowych dopuszczonych do publicznego obrotu stanowią co najmniej 7,5% wartości aktywów funduszu.
 
-**Art. 188.** Zwrócone wpłaty z Funduszu Gwarancyjnego stanowią przychód powszechnego towarzystwa w rozumieniu przepisów o podatku dochodowym od osób prawnych.
+### 3.
 
-**Art. 188a.**
+Aktywa pracowniczego funduszu mogą być lokowane w papierach wartościowych emitowanych przez akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem lub podmioty będące podmiotami związanymi w stosunku do tych akcjonariuszy, o ile zezwala na to statut tego funduszu.
 
-1. Roczne sprawozdanie finansowe Funduszu Gwarancyjnego sporządza Krajowy Depozyt.
+### Art. 147.
 
-2. Badanie i zatwierdzanie sprawozdania finansowego Funduszu Gwarancyjnego następuje według zasad przewidzianych dla badania i zatwierdzania rocznego sprawozdania finansowego Krajowego Depozytu.
+Statut pracowniczego funduszu określa, czy i w jakich papierach wartościowych, papierach skarbowych lub tytułach uczestnictwa fundusz może lokować swoje aktywa poza granicami kraju.
 
-**Art. 188b.** Krajowy Depozyt składa organowi nadzoru do zatwierdzenia roczne sprawozdania z działalności Krajowego Depozytu w zakresie administrowania Funduszem Gwarancyjnym.
+### Art. 148.
 
-#### Rozdział 20 Obowiązki informacyjne funduszy emerytalnych
+Wszelkie lokaty pracowniczego funduszu w jednostkach uczestnictwa zbywanych przez fundusze inwestycyjne otwarte lub specjalistyczne fundusze inwestycyjne otwarte podlegają następującym ograniczeniom:
 
-**Art. 189.**
+### 1)
 
-1. Otwarty fundusz i dobrowolny fundusz są obowiązane, raz w roku, ogłaszać prospekt informacyjny na ogólnodostępnej stronie internetowej przeznaczonej do ogłoszeń funduszu.
+towarzystwo funduszy inwestycyjnych zarządzające funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym, w którego jednostkach uczestnictwa pracowniczy fundusz ulokował swoje aktywa, nie może posiadać więcej niż 5% akcji któregokolwiek z akcjonariuszy pracowniczego towarzystwa zarządzającego tym funduszem oraz więcej niż 10% łącznej ilości akcji wszystkich akcjonariuszy tego towarzystwa,
 
-2. Prospekt informacyjny funduszu powinien zawierać jego statut, informacje na temat wyników działalności inwestycyjnej funduszu oraz zatwierdzone roczne sprawozdanie finansowe funduszu.
+### 2)
 
-3. Prospekt informacyjny otwartego funduszu powinien także zawierać deklarację zasad polityki inwestycyjnej i celu inwestycyjnego funduszu, wraz z określeniem wskaźników, do których porównywane będą osiągane przez fundusz stopy zwrotu.
+w akcjach któregokolwiek z akcjonariuszy pracowniczego towarzystwa nie może być ulokowane więcej niż 5% wartości aktywów funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego,
 
-**Art. 190.**
+### 3)
 
-1. Otwarty fundusz i dobrowolny fundusz prowadzący IKE lub IKZE udostępniają prospekt informacyjny każdej osobie, która złoży wniosek o przyjęcie do funduszu, przy czym powinno to nastąpić przed zawarciem umowy z funduszem.
+żaden z członków zarządu ani rady nadzorczej pracowniczego towarzystwa nie może być członkiem zarządu ani rady nadzorczej towarzystwa funduszy inwestycyjnych zarządzającego funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym.
 
-2. Otwarty fundusz i dobrowolny fundusz udostępniają prospekt informacyjny wraz z ostatnim półrocznym sprawozdaniem finansowym także na każde żądanie członka.
+### Art. 149.
 
-3. Prospekt informacyjny oraz półroczne i roczne sprawozdania finansowe powinny być przekazane organowi nadzoru niezwłocznie po ich sporządzeniu, a roczne sprawozdania finansowe – także po ich zatwierdzeniu przez powszechne towarzystwo w drodze uchwały walnego zgromadzenia.
+### 1.
 
-4. Dobrowolny fundusz będący funduszem zdefiniowanej daty udostępnia prospekt informacyjny podmiotom zatrudniającym w rozumieniu ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych, z którymi ten dobrowolny fundusz zawarł umowę o zarządzanie PPK, o której mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych. Przepisu ust. 1 nie stosuje się.
+Jeżeli w następstwie zmiany cen rynkowych stanowiących podstawę wyceny aktywów i zobowiązań funduszy, kursów walut albo powiązań organizacyjnych lub kapitałowych między podmiotami, których instrumenty finansowe są przedmiotem lokaty aktywów funduszu, albo w następstwie innych okoliczności, na które fundusz nie ma bezpośredniego wpływu, naruszy on w sposób nieumyślny przepisy niniejszego rozdziału, obowiązany jest podjąć niezwłocznie kroki w celu dostosowania działalności lokacyjnej do wymogów określonych w ustawie.
 
-**Art. 191.**
+### 2.
 
-1. Fundusz przesyła każdemu członkowi funduszu, w regularnych odstępach czasu, nie rzadziej jednak niż co 12 miesięcy, informację o środkach znajdujących się na rachunku członka, terminach dokonanych w tym okresie wpłat składek i wypłat transferowych oraz przeliczeniu tych składek i wypłat transferowych na jednostki rozrachunkowe, o wynikach działalności lokacyjnej funduszu, a także o zasadach polityki inwestycyjnej i celu inwestycyjnym funduszu, wraz ze wskaźnikami, do których są porównywane osiągane przez fundusz stopy zwrotu. Informacja jest przesyłana w trybie i formie uzgodnionych z członkiem funduszu. Tryby i formy przesyłania informacji, które mogą być stosowane w danym funduszu, określa jego statut.
+Dostosowanie działalności lokacyjnej do wymogów określonych w ustawie powinno nastąpić nie później niż w terminie 6 miesięcy od dnia zaistnienia stanu niezgodnego z prawem albo od dnia, w którym przeprowadzona wycena aktywów funduszu wykazała zaistnienie takiego stanu, w zależności od tego, który z tych terminów jest późniejszy.
 
-1a. W informacji, o której mowa w ust. 1, otwarty fundusz jest obowiązany umieścić także następujące informacje:
+### 3.
 
-- **1)** stopy zwrotu otwartego funduszu osiągane w przeszłości;
-- **2)** wysokość opłat, o których mowa w art. 134 ust. 1, oraz kosztów, o których mowa w art. 136 ust. 1, 2a i 2b;
-- **3)** opis ryzyka inwestycyjnego związanego z członkostwem w otwartym funduszu.
+Na wniosek funduszu, złożony nie później niż w terminie 1 miesiąca od daty zaistnienia stanu niezgodnego z prawem lub daty stwierdzenia takiego stanu, zgodnie z ust. 2, Urząd Nadzoru może zezwolić na przedłużenie do 12 miesięcy okresu, o którym mowa w ust. 2, jeżeli jest o uzasadnione ze względu na ochronę interesów członków funduszu.
 
-1b. Otwarty fundusz przesyła członkowi funduszu informację, w trybie i formie uzgodnionych z członkiem funduszu na podstawie ust. 1, o rozpoczęciu przekazywania środków zgromadzonych na rachunku członka w związku z ukończeniem przez członka wieku niższego o 10 lat od wieku emerytalnego oraz o sposobie przekazywania środków.
+### 4.
 
-1c. (uchylony)
+Jeżeli w następstwie realizacji harmonogramu, o którym mowa w art. 102, nastąpi - ze względu na interes członków pracowniczego funduszu - naruszenie przez fundusz przepisów art. 146, dostosowanie działalności lokacyjnej funduszu do wymogów określonych w tych przepisach powinno nastąpić nie później niż w terminie miesiąca od daty zaistnienia stanu niezgodnego z prawem lub daty stwierdzenia takiego stanu, zgodnie z ust. 2, z tym że Urząd Nadzoru może, na wniosek funduszu, przedłużyć ten termin do 6 miesięcy. W tym ostatnim przypadku przepis ust. 3 stosuje się odpowiednio.
 
-2. W razie sporu ciężar dowodu dostarczenia informacji, o których mowa w ust. 1 i 1b, spoczywa na funduszu.
+### Art. 150.
 
-**Art. 192.**
+Fundusz nie może:
 
-1. Fundusz jest obowiązany, na żądanie członka, udzielić mu informacji określającej pieniężną wartość środków zgromadzonych na jego rachunku w trybie i formie określonych na podstawie art. 191 ust. 1 zdanie drugie.
+### 1)
 
-2. (uchylony)
+zbywać swoich aktywów:
 
-3. (uchylony)
+### a)
 
-**Art. 192a.** Pracowniczy fundusz udostępnia statut funduszu za pośrednictwem ogólnodostępnej strony internetowej.
+towarzystwu zarządzającemu funduszem,
 
-**Art. 192b.** (uchylony)
+### b)
 
-**Art. 192c.** Otwarty fundusz może przekazywać do Zakładu Ubezpieczeń Społecznych w postaci elektronicznej dane i informacje, o których mowa w art. 50b ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, w celu realizacji zadania, o którym mowa w tym przepisie.
+członkom zarządu lub rady nadzorczej towarzystwa,
 
-**Art. 193.**
+### c)
 
-1. Fundusz udostępnia informacje dotyczące struktury swoich aktywów, z zastrzeżeniem ust. 2–4.
+osobom zatrudnionym w towarzystwie,
 
-2. W odstępach miesięcznych otwarty fundusz udostępnia dane o tym, jaka część aktywów została ulokowana w poszczególnych kategoriach lokat przewidzianych w przepisach rozdziału 15, według stanu na ostatni dzień wyceny w danym miesiącu.
+### d)
 
-3. W odstępach półrocznych otwarty fundusz udostępnia dane o tym, jaka wartość i jaka część aktywów funduszu była ulokowana w poszczególnych lokatach, podając informację o emitencie poszczególnych papierów wartościowych, według stanu na ostatni dzień wyceny przypadający w ostatnim miesiącu każdego okresu półrocznego, z zastrzeżeniem że dane z okresu półrocznego dotyczyć mogą wyłącznie lokat stanowiących co najmniej 1 % wartości aktywów funduszu.
+osobom pozostającym z osobami wymienionymi w lit. b)-c) w związku małżeńskim, stosunku pokrewieństwa lub powinowactwa do drugiego stopnia włącznie,
 
-4. Pełna informacja o strukturze aktywów otwartego funduszu, pracowniczego funduszu i dobrowolnego funduszu, z uwzględnieniem także lokat stanowiących mniej niż 1 % wartości aktywów funduszu, jest udostępniana na koniec każdego okresu rocznego.
+### e)
 
-**Art. 194.**
+akcjonariuszom towarzystwa,
 
-1. Informacje, o których mowa w art. 193 ust. 2–4, otwarty fundusz przekazuje niezwłocznie do organu nadzoru oraz publikuje na ogólnodostępnej stronie internetowej.
+### f)
 
-2. Pracowniczy fundusz przekazuje niezwłocznie informację, o której mowa w art. 193 ust. 4, do organu nadzoru oraz akcjonariuszom pracowniczego towarzystwa zarządzającego tym funduszem.
+podmiotowi związanemu w stosunku do towarzystwa,
 
-3. Dobrowolny fundusz przekazuje niezwłocznie informację, o której mowa w art. 193 ust. 4, do organu nadzoru oraz publikuje na ogólnodostępnej stronie internetowej.
+### g)
 
-**Art. 194a.**
+podmiotowi związanemu w stosunku do akcjonariuszy towarzystwa,
 
-1. Dobrowolny fundusz i pracowniczy fundusz są obowiązane do przygotowania deklaracji zasad polityki inwestycyjnej funduszu.
+### h)
 
-2. Deklaracja obejmuje co najmniej przedstawienie wdrożonych metod oceny ryzyka i procedur zarządzania ryzykiem oraz zasad alokacji środków w papiery wartościowe.
+depozytariuszowi przechowującemu jego aktywa,
 
-2a. Jeżeli pracowniczy fundusz w swojej działalności uwzględnia potencjalne długoterminowe skutki decyzji inwestycyjnych dotyczących czynników środowiskowych, społecznych i czynników związanych z ładem korporacyjnym, to deklaracja pracowniczego funduszu zawiera informację, w jaki sposób pracowniczy fundusz uwzględnia w swojej działalności te czynniki.
+### 2)
 
-3. Dobrowolny fundusz i pracowniczy fundusz przekazują deklarację organowi nadzoru co 3 lata lub niezwłocznie po wprowadzeniu istotnych zmian w polityce inwestycyjnej funduszu.
+nabywać za swoje aktywa aktywów od któregokolwiek z podmiotów wymienionych w pkt 1,
 
-4. Dobrowolny fundusz i pracowniczy fundusz są obowiązane do przekazania organowi nadzoru po raz pierwszy deklaracji w terminie 6 miesięcy od dnia wpłynięcia pierwszej składki do funduszu.
+### 3)
 
-5. Dobrowolny fundusz i pracowniczy fundusz udostępniają deklarację za pośrednictwem ogólnodostępnej strony internetowej oraz przekazują deklarację na pisemne żądanie członka funduszu.
+udzielać pożyczek, gwarancji i poręczeń, z zastrzeżeniem art. 141 ust. 1, art. 143 ust. 1 i art. 151.
 
-**Art. 194b.**
+### Art. 151.
 
-1. Pracowniczy fundusz jest obowiązany do przekazywania członkom pracowniczego funduszu oraz osobom uprawnionym do otrzymania wypłaty informacji o zmianach w zasadach funkcjonowania pracowniczego funduszu.
+### 1.
 
-2. Informację, o której mowa w ust. 1, pracowniczy fundusz przekazuje w terminie 14 dni od dnia zaistnienia tych zmian, w formie pisemnej, w postaci papierowej lub elektronicznej.
+Dozwolone jest udzielanie z aktywów funduszu pożyczek środków pieniężnych podmiotom, o których mowa w art. 141 ust. 1 pkt 4 i 5, przy czym pożyczki takie są równoznaczne z lokatą w akcjach tych podmiotów.
 
-**Art. 194c.** Pracowniczy fundusz jest obowiązany do sporządzenia i bezpłatnego udostępnienia przynajmniej raz w roku członkowi funduszu informacji, o której mowa w art. 22b ustawy z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych.
+### 2.
 
-**Art. 195.** Towarzystwo i fundusz mają obowiązek dostarczania organowi nadzoru okresowych sprawozdań oraz bieżących informacji dotyczących ich działalności i sytuacji finansowej.
+Fundusz może udzielać pożyczek w postaci papierów wartościowych dopuszczonych do publicznego obrotu, na zasadach i warunkach, które Rada Ministrów określi, w drodze rozporządzenia.
 
-**Art. 196.** Rada Ministrów określi, w drodze rozporządzenia:
+### Art. 152.
 
-**Art. 197.**
+### 1.
 
-1. Informacje o otwartym funduszu, dobrowolnym funduszu lub towarzystwie udostępniane lub rozpowszechniane publicznie przez powszechne towarzystwo lub na zlecenie powszechnego towarzystwa, a także na rzecz powszechnego towarzystwa, otwartego funduszu lub dobrowolnego funduszu, a także informacje o pracowniczym funduszu udostępniane przez pracownicze towarzystwo powinny w sposób zrozumiały, obiektywny i rzetelny przedstawiać sytuację finansową funduszu lub towarzystwa, a także ryzyko związane z przystąpieniem do funduszu oraz pozostawaniem członkiem funduszu.
+Pracowniczy fundusz może powierzyć, w zakresie i na zasadach określonych w przepisach prawo o publicznym obrocie papierami wartościowymi, zarządzanie aktywami funduszu podmiotowi, który na podstawie tych przepisów jest uprawniony do prowadzenia działalności w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie i posiada na wykonywanie tej działalności zezwolenie Komisji Papierów Wartościowych i Giełd.
 
-2. Zakazana jest reklama dotycząca otwartego funduszu zawierająca informacje, które nie spełniają wymagań określonych w ust. 1, lub wprowadzająca albo mogąca wprowadzić w błąd, który mógłby mieć wpływ na skłonienie kogokolwiek, aby przystąpił do otwartego funduszu lub w nim pozostawał.
+### 2.
 
-3. Jeżeli udostępniane lub rozpowszechniane publicznie informacje o funduszu lub towarzystwie lub reklama naruszają wymagania określone w ust. 1 lub 2, organ nadzoru, w drodze decyzji administracyjnej, zakazuje towarzystwu lub podmiotowi działającemu na rzecz towarzystwa lub funduszu ich udostępniania lub rozpowszechniania publicznego.
+Podmiot, o którym mowa w ust. 1, jest wybierany przez pracownicze towarzystwo, w drodze uchwały rady nadzorczej, i zarządza częścią lub całością aktywów pracowniczego funduszu na podstawie stosownej umowy z funduszem oraz zgodnie z określonymi w statucie funduszu zasadami prowadzenia działalności lokacyjnej.
 
-4. W decyzji administracyjnej, o której mowa w ust. 3, nakazuje się jednocześnie ogłoszenie lub udostępnienie sprostowania o treści i formie wskazanej przez organ nadzoru i we wskazanym przez organ nadzoru terminie.
+### 3.
 
-5. Decyzji administracyjnej, o której mowa w ust. 3, nadaje się rygor natychmiastowej wykonalności.
+W przypadku, o którym mowa w ust. 1, statut pracowniczego funduszu powinien określać warunki, na jakich fundusz powierza zarządzanie całością lub częścią swoich aktywów, lub upoważnić pracownicze towarzystwo do ich ustalenia w drodze uchwały rady nadzorczej.
 
-6. Jeżeli zakaz, o którym mowa w ust. 3, lub nakaz, o którym mowa w ust. 4, nie zostanie wykonany, organ nadzoru nakłada na towarzystwo lub podmiot działający na rzecz towarzystwa lub funduszu karę pieniężną w wysokości do 3 000 000 zł oraz na koszt towarzystwa udostępnia lub rozpowszechnia publicznie sprostowanie, o którym mowa w ust. 4, w sposób i formie adekwatnej do stopnia i zakresu naruszenia wymogów określonych w ust. 1 i 2.
+### Art. 153.
 
-7. Do informacji o dobrowolnym funduszu lub pracowniczym funduszu będącym funduszem zdefiniowanej daty oraz reklamy takiego funduszu stosuje się przepisy ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych.
+W ramach działalności lokacyjnej poza granicami kraju, fundusz może powierzyć, w zakresie określonym w art. 143, zarządzanie swoimi aktywami podmiotom mającym siedzibę na obszarze państw, o których mowa w tym przepisie, które są uprawnione do prowadzenia działalności w zakresie zarządzania cudzymi aktywami na mocy przepisów obowiązujących w tych państwach.
 
-**Art. 197a.**
+### Art. 154.
 
-1. (utracił moc)
+### 1.
 
-2. Za reklamę nie uważa się zamieszczania na stronie internetowej otwartego funduszu informacji, o których mowa w art. 191 ust. 1 i 1a.
+Pożyczki i kredyty zaciągnięte przez fundusz nie mogą przekraczać 2,5% wartości jego aktywów.
 
-3. W przypadku naruszenia zakazu określonego w ust. 1 organ nadzoru, w drodze decyzji administracyjnej, nakazuje towarzystwu lub podmiotowi działającemu na rzecz towarzystwa lub funduszu zaprzestanie tego naruszenia i nakłada na towarzystwo lub podmiot działający na rzecz towarzystwa lub funduszu karę pieniężną w wysokości od 1 000 000 zł do 3 000 000 zł.
+### 2.
 
-4. Decyzji administracyjnej, o której mowa w ust. 3, nadaje się rygor natychmiastowej wykonalności.
+W przypadku pracowniczego funduszu zaciągnięcie pożyczki lub kredytu jest możliwe wyłącznie na podstawie decyzji pracowniczego towarzystwa podjętej w formie uchwały rady nadzorczej.
 
-**Art. 198.** Jeżeli towarzystwo, fundusz lub depozytariusz nie wypełniają określonych w przepisach prawa obowiązków przekazywania informacji organowi nadzoru lub członkom funduszu, organ nadzoru może nałożyć na towarzystwo lub depozytariusza karę pieniężną w wysokości do 3 000 000 zł.
+### Art. 155.
 
-#### Rozdział 21 Nadzór nad działalnością funduszy emerytalnych
+Rada Ministrów może określić, w drodze rozporządzenia, dodatkowe ograniczenia w zakresie prowadzenia działalności lokacyjnej przez fundusze, mając na względzie ochronę interesów członków tych funduszy.
 
-**Art. 199.** (uchylony)
+### Art. 156.
 
-**Art. 200.**
+Jeżeli fundusz nie przestrzega przepisów ustawy określających zasady działalności lokacyjnej lub nie wykona obowiązków określonych w art. 149 ust. 1, 2 i 4, Urząd Nadzoru może nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł.
 
-1. (uchylony)
+### Rozdział 16 Depozytariusz
 
-2. Zadaniem organu nadzoru jest:
+### Art. 157.
 
-- **1)** sprawowanie nadzoru nad działalnością funduszy;
-- **1a)** analiza kształtu rynku emerytalnego w zakresie otwartych funduszy, dobrowolnych funduszy, pracowniczych programów emerytalnych, PPK, IKE oraz IKZE w Polsce, poziomu zabezpieczenia interesów członków funduszy emerytalnych, uczestników pracowniczych programów emerytalnych i uczestników PPK, zagrożeń dla konkurencji na rynku otwartych funduszy emerytalnych, rozwoju dobrowolnych i kapitałowych oszczędności emerytalnych, maksymalizacji poziomu oszczędności emerytalnych oraz przedkładanie propozycji stosownych zmian przepisów prawa w tym zakresie;
-- **2)** (uchylony)
-- **3)** sprawowanie nadzoru nad funkcjonowaniem pracowniczych programów emerytalnych;
-- **3a)** sprawowanie nadzoru nad funkcjonowaniem PPK zgodnie z ustawą z dnia 4 października 2018 r. o pracowniczych planach kapitałowych;
-- **4)** pogłębianie wiedzy społeczeństwa na temat celów i zasad działalności funduszy, ze szczególnym uwzględnieniem praw przysługujących ich członkom;
-- **5)** pogłębianie wiedzy społeczeństwa na temat celów i zasad funkcjonowania pracowniczych programów emerytalnych, ze szczególnym uwzględnieniem praw uczestników takich programów;
-- **6)** współdziałanie z organami administracji rządowej, Narodowym Bankiem Polskim, Zakładem Ubezpieczeń Społecznych, towarzystwami, podmiotami działającymi na rzecz funduszy oraz związkami pracodawców, związkami zawodowymi i innymi organizacjami społecznymi w zakresie kształtowania polityki państwa zapewniającej bezpieczny rozwój funduszy i pracowniczych programów emerytalnych;
-- **7)** udzielanie informacji Narodowemu Bankowi Polskiemu w zakresie niezbędnym do wykonywania nadzoru nad bankami pełniącymi funkcje depozytariuszy i bankami będącymi akcjonariuszami towarzystw;
-- **8)** (uchylony) 8a) współdziałanie z zagranicznymi organami nadzoru w ramach realizacji transgranicznej działalności instytucji pracowniczych programów emerytalnych oraz nadzoru nad tymi instytucjami;
-- **9)** podejmowanie innych działań przewidzianych przepisami niniejszej ustawy.
+Fundusz jest obowiązany wybrać depozytariusza, któremu, na podstawie umowy, powierza przechowywanie swoich aktywów.
 
-**Art. 200a.** (uchylony)
+### Art. 158.
 
-**Art. 201.** (uchylony)
+### 1.
 
-**Art. 202.**
+Depozytariuszem może być bank, który:
 
-1. (uchylony)
+### 1)
 
-2. (uchylony)
+jest bankiem krajowym w rozumieniu ustawy - Prawo bankowe,
 
-3. Wniosek o ponowne rozpatrzenie sprawy przez organ nadzoru nie wstrzymuje wykonania decyzji organu nadzoru o cofnięciu zezwolenia na utworzenie towarzystwa, jeżeli cofnięcie zezwolenia następuje z innych przyczyn niż określone w art. 61.
+### 2)
 
-3a. Organ nadzoru może nadać decyzji administracyjnej rygor natychmiastowej wykonalności, również jeżeli wymaga tego interes członków funduszy emerytalnych lub uczestników pracowniczych programów emerytalnych.
+posiada fundusze własne w wysokości stanowiącej równowartość w złotych co najmniej 100 000 000 ECU, o ile przedmiotem przechowywania mają być aktywa otwartego funduszu, lub 30 000 000 ECU, o ile przedmiotem przechowywania mają być aktywa pracowniczego funduszu,
 
-4. Przy ustalaniu wysokości kary pieniężnej nakładanej na podstawie przepisów ustawy organ nadzoru jest obowiązany uwzględniać rodzaj i wagę stwierdzonych nieprawidłowości.
+### 3)
 
-**Art. 203.** (uchylony)
+nie posiada akcji towarzystwa zarządzającego funduszem, którego aktywa przechowuje, lub akcji podmiotu związanego w stosunku do tego towarzystwa ani też nie posiada żadnych innych związków kapitałowych z tymi podmiotami,
 
-**Art. 204.**
+### 4)
 
-1. W ramach nadzoru nad działalnością funduszy organ nadzoru jest uprawniony w szczególności do:
+nie jest pożyczkodawcą lub kredytodawcą w stosunku do funduszu, którego aktywa przechowuje, ani towarzystwa zarządzającego tym funduszem, chyba że kwota pożyczki lub kredytu nie przekracza 1% wartości aktywów funduszu, oraz
 
-- **1)** żądania udostępnienia przez towarzystwo kopii dokumentów związanych z działalnością funduszu lub towarzystwa oraz zapoznawania się z ich treścią;
-- **2)** żądania wszelkich informacji i wyjaśnień, dotyczących działalności funduszu lub towarzystwa, od członków zarządu, rady nadzorczej, pracowników towarzystwa oraz innych osób związanych z towarzystwem lub funduszem umową zlecenia, umową o dzieło lub innym stosunkiem prawnym o podobnym charakterze;
-- **3)** żądania udostępnienia przez depozytariusza lub osobę trzecią, której fundusz lub towarzystwo powierzyły wykonywanie niektórych czynności, wszelkich informacji, dokumentów i wyjaśnień dotyczących wykonywanych czynności na rzecz funduszu lub towarzystwa.
+### 5)
 
-2. Organ nadzoru, kierując pisemne żądanie, o którym mowa w ust. 1, wskazuje termin jego wykonania.
+nie zatrudnia ani nie posiada w składzie władz statutowych osób, które są:
 
-3. W razie stwierdzenia, na podstawie uzyskanych informacji, wyjaśnień i dokumentów, o których mowa w ust. 1, przypadków naruszeń prawa lub interesu członków funduszu, organ nadzoru powiadamia towarzystwo, depozytariusza lub osobę trzecią, której fundusz lub towarzystwo powierzyły wykonywanie niektórych czynności, o stwierdzonych nieprawidłowościach i wyznacza termin do ich usunięcia.
+### a)
 
-4. Towarzystwo, depozytariusz lub osoba trzecia, której fundusz lub towarzystwo powierzyło wykonywanie niektórych czynności, może w terminie 7 dni od dnia doręczenia powiadomienia pisemnie zgłosić umotywowane zastrzeżenia do treści powiadomienia.
+członkami zarządu, rady nadzorczej lub pracownikami towarzystwa zarządzającego funduszem, którego aktywa przechowuje,
 
-4a. Jeżeli towarzystwo, depozytariusz lub osoba trzecia, której fundusz lub towarzystwo powierzyło wykonywanie niektórych czynności, uchybi terminowi, o którym mowa w ust. 4, organ nadzoru na prośbę zainteresowanego może przywrócić ten termin. Przywrócenie terminu może nastąpić, jeżeli zainteresowany uprawdopodobni, że uchybienie nastąpiło bez jego winy. Organ nadzoru informuje pisemnie zainteresowanego o przywróceniu terminu albo o odmowie jego przywrócenia.
+### b)
 
-5. Organ nadzoru po rozpatrzeniu zastrzeżeń powiadamia towarzystwo, depozytariusza lub osobę trzecią, której fundusz lub towarzystwo powierzyło wykonywanie niektórych czynności, o sposobie ich rozpatrzenia. W powiadomieniu o rozpatrzeniu zastrzeżeń organ nadzoru może:
+członkami organu zarządzającego, rady nadzorczej lub pracownikami podmiotu związanego w stosunku do towarzystwa, o którym mowa w lit. a).
 
-- **1)** uwzględnić zastrzeżenia w całości lub w części i dokonać odpowiedniej zmiany w treści powiadomienia;
-- **2)** nie uwzględnić zastrzeżeń, jeżeli są bezzasadne.
+### 2.
 
-6. W przypadku gdy zostały zgłoszone zastrzeżenia zgodnie z ust. 4, termin do usunięcia nieprawidłowości, o którym mowa w ust. 3, liczy się od dnia doręczenia powiadomienia o rozpatrzeniu zastrzeżeń.
+Depozytariuszem może być Krajowy Depozyt, o ile spełnia warunki określone w ust. 1 pkt 3-5.
 
-7. W terminie 3 dni od dnia upływu terminu wyznaczonego do usunięcia nieprawidłowości, towarzystwo, depozytariusz lub osoba trzecia, do której zostało skierowane powiadomienie, informuje pisemnie organ nadzoru o sposobie usunięcia nieprawidłowości.
+### Art. 159.
 
-8. W razie nieusunięcia nieprawidłowości w wyznaczonym terminie, organ nadzoru może nałożyć na towarzystwo, depozytariusza lub osobę trzecią, której fundusz lub towarzystwo powierzyło wykonywanie niektórych czynności, karę pieniężną w wysokości do 500 000 zł.
+### 1.
 
-9. W przypadku stwierdzenia na podstawie uzyskanych informacji, wyjaśnień lub dokumentów, o których mowa w ust. 1, rażącego naruszenia prawa lub rażącego naruszenia interesu członków funduszy, organ nadzoru może nałożyć na towarzystwo, depozytariusza lub osobę trzecią, której fundusz lub towarzystwo powierzyły wykonywanie niektórych czynności, karę pieniężną w wysokości do 500 000 zł, bezpośrednio po stwierdzeniu tych naruszeń.
+Do obowiązków depozytariusza w zakresie przechowywania aktywów funduszu należy:
 
-**Art. 204a.**
+### 1)
 
-1. Organ nadzoru może przeprowadzić kontrolę działalności funduszu, towarzystwa, depozytariusza, a także osoby trzeciej, której fundusz lub towarzystwo powierzyły wykonywanie niektórych czynności.
+prowadzenie rejestru aktywów funduszu zapisywanych na właściwych rachunkach oraz przechowywanych przez depozytariusza i inne podmioty uprawnione do tego na mocy odrębnych przepisów lub na podstawie umów zawieranych za zgodą depozytariusza,
 
-2. Osoba upoważniona przez organ nadzoru ma prawo wstępu do pomieszczeń:
+### 2)
 
-- **1)** towarzystwa – w celu sprawdzenia, czy działalność towarzystwa lub funduszu jest zgodna z prawem, statutem towarzystwa lub funduszu lub interesem członków funduszu;
-- **2)** depozytariusza – w celu sprawdzenia, czy jego działalność związana z przechowywaniem aktywów funduszu jest zgodna z prawem lub z umową o przechowywanie aktywów funduszu lub interesem członków funduszu;
-- **3)** osoby trzeciej, której fundusz lub towarzystwo powierzyły wykonywanie niektórych czynności – w celu sprawdzenia, czy jej działalność związana z wykonywaniem niektórych czynności na rzecz funduszu lub towarzystwa jest zgodna z prawem lub interesem członków funduszu.
+zapewnienie, aby wartość aktywów netto funduszu była ustalana w sposób pozwalający funduszowi na wykonanie obowiązków określonych w rozdziale 17,
 
-3. Osoba przeprowadzająca kontrolę ma prawo:
+### 3)
 
-- **1)** wglądu do wszelkich ksiąg, dokumentów i innych nośników informacji;
-- **2)** żądania sporządzenia oraz wydania kopii tych dokumentów i nośników informacji;
-- **3)** żądania udzielenia informacji przez członków władz statutowych, pracowników kontrolowanego przedsiębiorcy albo podmiotów lub innych osób związanych z kontrolowanym przedsiębiorcą albo podmiotem umową zlecenia, umową o dzieło lub innym stosunkiem prawnym o podobnym charakterze;
-- **4)** żądania zabezpieczenia dokumentów i innych dowodów.
+zapewnienie, aby umowy obejmujące nabywanie i zbywanie aktywów funduszu były zgodne z przepisami prawa oraz statutem funduszu,
 
-4. Czynności kontrolne podejmowane przez pracowników Urzędu Komisji Nadzoru Finansowego są wykonywane po okazaniu legitymacji służbowej oraz doręczeniu upoważnienia wydanego przez organ nadzoru.
+### 4)
 
-5. Kontrolę przeprowadza co najmniej dwóch kontrolujących.
+wykonywanie poleceń funduszu, chyba że są one sprzeczne z przepisami prawa lub statutem funduszu albo w ocenie depozytariusza zagrażają bezpieczeństwu aktywów funduszu,
 
-6. Upoważnienie, o którym mowa w ust. 4, zawiera co najmniej:
+### 5)
 
-- **1)** wskazanie podstawy prawnej;
-- **2)** oznaczenie organu kontroli;
-- **3)** datę i miejsce wystawienia;
-- **4)** imię i nazwisko pracownika organu kontroli uprawnionego do wykonania kontroli oraz numer jego legitymacji służbowej;
-- **5)** wskazanie osoby kierującej kontrolą;
-- **6)** firmę przedsiębiorcy albo nazwę podmiotu objętego kontrolą;
-- **7)** określenie zakresu przedmiotowego kontroli;
-- **8)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
-- **9)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
-- **10)** pouczenie o prawach i obowiązkach kontrolowanego przedsiębiorcy albo podmiotu.
+zapewnienie, aby aktywa funduszu były lokowane zgodnie z przepisami prawa oraz statutem funduszu,
 
-7. Zmiana zakresu przedmiotowego kontroli, terminu oraz pracownika organu kontroli wymaga wystawienia nowego upoważnienia do przeprowadzenia kontroli przedsiębiorcy. Przepis ust. 4 stosuje się odpowiednio.
+### 6)
 
-8. Upoważnienie do przeprowadzenia kontroli kierujący kontrolą doręcza kontrolowanemu przedsiębiorcy albo podmiotowi najpóźniej przed podjęciem przez kontrolujących pierwszych czynności kontrolnych.
+zapewnienie terminowego rozliczania umów dotyczących aktywów funduszu oraz umów z członkami funduszu,
 
-**Art. 204b.**
+### 7)
 
-1. Powiadomienie, o którym mowa w art. 204 ust. 3 oraz art. 204j ust. 1, powinno zawierać:
+wykonywanie poleceń likwidatora dotyczących likwidacji funduszu,
 
-- **1)** oznaczenie organu nadzoru;
-- **2)** datę wydania;
-- **3)** oznaczenie podmiotu, do którego kierowane jest powiadomienie;
-- **4)** wskazanie stwierdzonych nieprawidłowości oraz termin do ich usunięcia;
-- **5)** uzasadnienie faktyczne i prawne;
-- **6)** pouczenie o prawie zgłoszenia zastrzeżeń;
-- **7)** pouczenie o treści art. 204 ust. 8;
-- **8)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania powiadomienia.
+### 8)
 
-2. Powiadomienie, o którym mowa w ust. 1, oraz powiadomienie o rozpatrzeniu zastrzeżeń, o którym mowa w art. 204 ust. 5, jest czynnością nadzorczą, która nie rozstrzyga co do istoty jakiejkolwiek sprawy ani nie dotyczy uprawnień lub obowiązków wynikających z przepisów prawa.
+wykonywanie innych obowiązków przewidzianych ustawą.
 
-3. W razie wniesienia skargi do sądu administracyjnego na decyzję administracyjną, o której mowa w art. 204 ust. 8, sąd administracyjny może wstrzymać jej wykonanie, również wtedy, gdy skarżący uprawdopodobni, iż ocena działalności towarzystwa, depozytariusza lub osoby trzeciej, której fundusz lub towarzystwo powierzyło wykonywanie niektórych czynności, zawarta w powiadomieniu, o którym mowa w art. 204 ust. 3 albo art. 204j ust. 1, rażąco narusza prawo.
+### 2.
 
-**Art. 204c.** Jeżeli towarzystwo lub fundusz prowadzą działalność z naruszeniem prawa, statutu lub rażącym naruszeniem interesów członków funduszu, organ nadzoru może nałożyć na członka zarządu towarzystwa emerytalnego, odpowiedzialnego za te naruszenia, karę pieniężną do wysokości trzykrotności miesięcznego wynagrodzenia brutto tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące przed nałożeniem kary, niezależnie od innych środków nadzorczych przewidzianych przepisami prawa.
+Depozytariusz może, na polecenie funduszu, zawierać umowy, o których mowa w ust. 1 pkt 1, z bankami lub instytucjami finansowymi, które mają siedzibę poza obszarem Rzeczypospolitej Polskiej, z zastrzeżeniem, że fundusze własne takich banków lub instytucji finansowych wynoszą co najmniej 200 000 000 ECU.
 
-**Art. 204d.**
+### 3.
 
-1. Kontrolujący podlega wyłączeniu od udziału w kontroli, jeżeli ustalenia kontroli mogłyby oddziaływać na jego prawa lub obowiązki albo prawa lub obowiązki jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia albo osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
+Depozytariusz jest obowiązany do występowania, w imieniu członków funduszu, z powództwem przeciwko towarzystwu z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem przez towarzystwo obowiązków w zakresie zarządzania funduszem i jego reprezentacji.
 
-2. Powody wyłączenia kontrolującego trwają mimo ustania małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.
+### 4.
 
-3. Kontrolujący może być wyłączony również w razie stwierdzenia innych przyczyn, które mogłyby wywołać wątpliwości co do jego bezstronności.
+Depozytariusz zapewnia zgodne z przepisami prawa i statutem funduszu wykonywanie obowiązków funduszu, o których mowa w ust. 1 pkt 2-3 i 5-6, przynajmniej przez stałą kontrolę czynności faktycznych i prawnych dokonywanych przez fundusz oraz doprowadzanie do zgodności tych czynności z przepisami prawa i statutem funduszu.
 
-4. Jeżeli okoliczności, o których mowa w ust. 1 i 3, ujawnią się w toku kontroli, kontrolujący powstrzymuje się od dalszych czynności i zawiadamia o tym niezwłocznie organ nadzoru.
+### Art. 160.
 
-5. Wyłączony kontrolujący podejmuje jedynie czynności niecierpiące zwłoki ze względu na interes publiczny lub ważny interes podmiotu kontrolowanego.
+### 1.
 
-6. O wyłączeniu od udziału w kontroli postanawia organ nadzoru z urzędu albo na wniosek kontrolowanego przedsiębiorcy albo podmiotu lub na wniosek kontrolującego.
+Umowa z depozytariuszem o przechowywanie aktywów funduszu powinna określać szczegółowe obowiązki depozytariusza i funduszu, sposób ich wykonywania, wynagrodzenie depozytariusza, sposób obliczania kosztów i pobierania opłat obciążających fundusz, a także wskazywać osoby wyznaczone przez depozytariusza do wykonywania umowy. Umowa nie może ograniczać ustawowych obowiązków depozytariusza.
 
-7. Organ nadzoru, postanawiając o wyłączeniu kontrolującego, uzupełnia skład kontrolujących. Przepis art. 204a ust. 7 stosuje się odpowiednio.
+### 2.
 
-**Art. 204e.**
+Depozytariusz odpowiada za wszelkie szkody wynikające z niewykonania lub nienależytego wykonania obowiązków nałożonych przez ustawę.
 
-1. Kontrola przeprowadzana jest w siedzibie kontrolowanego przedsiębiorcy albo podmiotu, lub w miejscu wykonywania działalności, w godzinach pracy lub w czasie faktycznego wykonywania działalności przez kontrolowanego przedsiębiorcę albo podmiot.
+### 3.
 
-2. Kontrola lub poszczególne czynności kontrolne, za zgodą kontrolowanego przedsiębiorcy albo podmiotu, mogą być przeprowadzane również w siedzibie organu, jeżeli może to usprawnić prowadzenie kontroli.
+Odpowiedzialność, o której mowa w ust. 2, nie może być wyłączona bądź ograniczona ani w umowie o przechowywanie aktywów funduszu, ani wskutek powierzenia przechowywania całości lub części aktywów funduszu innemu podmiotowi.
 
-3. Kontrolowany przedsiębiorca albo podmiot zapewnia kontrolującym warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności udostępnia urządzenia techniczne oraz, w miarę możliwości, oddzielne pomieszczenia z odpowiednim wyposażeniem.
+### 4.
 
-4. Kontrolowany przedsiębiorca albo kierownik podmiotu lub upoważniona przez nich osoba może uczestniczyć w czynnościach, o których mowa w art. 204a ust. 3 pkt 3.
+Fundusz lub depozytariusz może rozwiązać umowę o przechowywanie aktywów funduszu w drodze wypowiedzenia, którego okres nie może być krótszy niż 6 miesięcy. O wypowiedzeniu umowy i jego przyczynach strona wypowiadająca umowę powiadamia niezwłocznie Urząd Nadzoru.
 
-5. W okresie trwania kontroli kontrolowany przedsiębiorca albo podmiot wypełnia obowiązki, o których mowa w art. 204a ust. 3, w terminach i formach wskazanych przez kierującego kontrolą lub w jego zastępstwie innego kontrolującego.
+### Art. 161.
 
-**Art. 204f.**
+### 1.
 
-1. Ustaleń kontroli dokonuje się na podstawie dowodów.
+Jeżeli depozytariusz nie wykonuje obowiązków określonych w umowie o przechowywanie aktywów funduszu albo wykonuje je nienależycie:
 
-2. Do dowodów zalicza się:
+### 1)
 
-- **1)** dokumenty;
-- **2)** dane i informacje umieszczone w systemach informatycznych kontrolowanego przedsiębiorcy albo podmiotu;
-- **3)** informacje udzielone przez osoby, o których mowa w art. 204a ust. 3 pkt 3;
-- **4)** oświadczenia osób trzecich;
-- **5)** wyniki oględzin;
-- **6)** inne materiały, które mogą przyczynić się do stwierdzenia stanu faktycznego w zakresie objętym kontrolą.
+fundusz wypowiada umowę, zawiadamiając niezwłocznie Urząd Nadzoru o tym fakcie,
 
-3. Informacje pisemne sporządzane przez kontrolowanego przedsiębiorcę albo podmiot na potrzeby przeprowadzanej kontroli powinny być podpisane przez osoby upoważnione do ich sporządzania. W przypadku odmowy podpisania kontrolujący sporządza stosowną adnotację.
+### 2)
 
-4. Zgodność z oryginałem odpisów, kserokopii i wyciągów z dokumentów potwierdza osoba upoważniona do reprezentowania kontrolowanego przedsiębiorcy albo podmiotu.
+Urząd Nadzoru może nakazać funduszowi zmianę depozytariusza.
 
-5. W razie niebezpieczeństwa utraty dowodów kierujący kontrolą lub w jego zastępstwie inny kontrolujący może wskazać sposób zabezpieczenia dowodów przez przechowywanie ich w miejscu prowadzenia działalności przez kontrolowanego przedsiębiorcę albo podmiot w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu.
+### 2.
 
-6. O zwolnieniu dowodów spod zabezpieczenia decyduje kierujący kontrolą lub w jego zastępstwie inny kontrolujący.
+Urząd Nadzoru może nakazać funduszowi zmianę depozytariusza także wtedy, gdy nastąpiło istotne pogorszenie sytuacji finansowej depozytariusza, zagrażające bezpieczeństwu przechowywanych przez niego aktywów.
 
-**Art. 204g.**
+### 3.
 
-1. Osoba przeprowadzająca kontrolę jest obowiązana z dokonanych czynności sporządzić i podpisać protokół kontroli. Protokół podpisuje kontrolowany przedsiębiorca albo podmiot, albo osoba upoważniona do ich reprezentowania.
+Narodowy Bank Polski niezwłocznie informuje Urząd Nadzoru o każdym przypadku istotnego pogorszenia sytuacji finansowej banku pełniącego funkcję depozytariusza, o którym mowa w ust. 2.
 
-2. Protokół zawiera w szczególności:
+### 4.
 
-- **1)** firmę i adres kontrolowanego przedsiębiorcy albo nazwę i siedzibę kontrolowanego podmiotu;
-- **2)** imiona i nazwiska oraz stanowiska służbowe kontrolujących;
-- **3)** wskazanie osoby kierującej kontrolą;
-- **4)** numer i datę upoważnienia do przeprowadzenia kontroli;
-- **5)** imiona i nazwiska oraz stanowiska służbowe osób składających oświadczenia oraz udzielających informacji w toku kontroli;
-- **6)** określenie przedmiotu i zakresu kontroli;
-- **7)** opis dokonanych czynności oraz ustalenia stanu faktycznego;
-- **8)** wzmiankę o poinformowaniu podmiotu kontrolowanego o jego prawach i obowiązkach, przez pouczenie o prawie, sposobie i terminie zgłoszenia zastrzeżeń do ustaleń zawartych w protokole kontroli;
-- **9)** wykaz załączników z podaniem nazwy każdego załącznika;
-- **10)** datę i miejsce sporządzenia protokołu.
+Komisja Papierów Wartościowych i Giełd niezwłocznie informuje Urząd Nadzoru o istotnym pogorszeniu sytuacji finansowej Krajowego Depozytu, w przypadku, o którym mowa w ust. 2.
 
-**Art. 204h.**
+### 5.
 
-1. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden egzemplarz kierujący kontrolą, lub w jego zastępstwie inny kontrolujący, przekazuje kontrolowanemu przedsiębiorcy albo podmiotowi.
+W przypadkach, o których mowa w ust. 1 i 2, wypowiedzenie może nastąpić w terminie krótszym niż wskazany w art. 160 ust. 4.
 
-2. Osoba upoważniona do reprezentowania kontrolowanego przedsiębiorcy albo podmiotu potwierdza odbiór protokołu, umieszczając pisemne oświadczenie w protokole.
+### Art. 162.
 
-3. Kierujący kontrolą lub w jego zastępstwie inny kontrolujący oraz kontrolowany przedsiębiorca albo podmiot, albo osoba przez nich upoważniona, parafują każdą stronę protokołu.
+### 1.
 
-4. Jeżeli kontrolowany przedsiębiorca albo podmiot odmawia lub uchyla się od odebrania protokołu kontroli, organ nadzoru wzywa pisemnie podmiot kontrolowany do złożenia oświadczenia o odbiorze protokołu, wyznaczając termin nie krótszy niż 7 dni na dokonanie tej czynności. W przypadku bezskutecznego upływu wyznaczonego terminu protokół uważa się za odebrany z upływem ostatniego dnia tego terminu.
+W razie ogłoszenia upadłości lub otwarcia likwidacji depozytariusza, a także w przypadku stwierdzenia przez Urząd Nadzoru naruszenia przez depozytariusza warunków umowy w sposób zagrażający bezpieczeństwu aktywów funduszu lub interesom jego członków, fundusz dokonuje niezwłocznie zmiany depozytariusza. W tym przypadku nie stosuje się przepisu art. 160 ust. 4 zdanie pierwsze.
 
-5. Po potwierdzeniu odbioru protokołu kontroli nie dokonuje się w protokole żadnych poprawek i dopisków.
+### 2.
 
-6. Oczywiste omyłki pisarskie lub rachunkowe prostuje kierujący kontrolą lub w jego zastępstwie inny kontrolujący, parafując sprostowania. Organ nadzoru o sprostowaniu oczywistych omyłek informuje pisemnie podmiot kontrolowany.
+Przepis ust. 1 stosuje się odpowiednio w przypadku, gdy depozytariusz przestanie spełniać którykolwiek z warunków określonych w art. 158, o czym niezwłocznie zawiadamia fundusz i Urząd Nadzoru.
 
-**Art. 204i.**
+### Art. 163.
 
-1. W terminie 14 dni od dnia potwierdzenia odbioru protokołu kontroli kontrolowany przedsiębiorca albo podmiot może zgłosić organowi nadzoru pisemne, umotywowane zastrzeżenia i uwagi do treści protokołu oraz stanowisko w sprawach objętych zakresem kontroli.
+### 1.
 
-2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje kontrolowanego przedsiębiorcę albo podmiot w terminie 14 dni od dnia ich doręczenia.
+Każdorazowa zmiana depozytariusza następuje w sposób zapewniający nieprzerwane wykonywanie obowiązków w zakresie przechowywania aktywów funduszu.
 
-**Art. 204j.**
+### 2.
 
-1. Po podpisaniu protokołu kontroli, organ nadzoru powiadamia pisemnie kontrolowanego przedsiębiorcę albo podmiot o stwierdzonych nieprawidłowościach i wyznacza termin do ich usunięcia. Przepisy art. 204 ust. 4– 8 stosuje się odpowiednio.
+W razie rozwiązania umowy z dotychczasowym depozytariuszem, powinien on wydać depozytariuszowi, z którym fundusz zawarł umowę, przechowywane aktywa funduszu i wszelkie dokumenty związane z wykonywaniem obowiązków określonych w ust. 1, w terminie uzgodnionym przez strony, jednakże bez zbędnej zwłoki.
 
-2. W przypadku stwierdzenia w wyniku kontroli rażących nieprawidłowości, organ nadzoru może nałożyć na kontrolowanego przedsiębiorcę albo podmiot karę pieniężną w wysokości do 500 000 zł, bezpośrednio po ich stwierdzeniu.
+### Art. 164.
 
-**Art. 204k.** Organ nadzoru może nakazać dobrowolnemu funduszowi lub pracowniczemu funduszowi będącemu funduszem zdefiniowanej daty zmianę statutu funduszu w terminie określonym przez organ nadzoru, jeżeli statut funduszu zawiera postanowienia niezgodne z przepisami ustawy lub ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych lub postanowienia niezabezpieczające należycie interesu członków funduszu.
+### 1.
 
-**Art. 204l.** Organ nadzoru może nakazać dobrowolnemu funduszowi lub pracowniczemu funduszowi będącemu funduszem zdefiniowanej daty zmianę umowy z depozytariuszem o przechowywanie aktywów funduszu, jeżeli umowa zawiera postanowienia niezgodne z przepisami ustawy lub ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych lub postanowienia niezabezpieczające należycie interesu członków funduszu.
+Depozytariusz jest obowiązany poinformować niezwłocznie Urząd Nadzoru o wszelkich działaniach i zaniechaniach funduszu, które, w jego ocenie, stanowią naruszenie prawa, postanowień statutu funduszu lub powodują, że interesy członków funduszu nie są należycie uwzględniane.
 
-**Art. 205.**
+### 2.
 
-1. Członek może wnieść do organu nadzoru skargę na fundusz, jeżeli sądzi, że działalność tego funduszu jest niezgodna z przepisami prawa lub postanowieniami statutu funduszu.
+Depozytariusz jest obowiązany niezwłocznie poinformować Urząd Nadzoru o stwierdzonych nieprawidłowościach w ustaleniu przez fundusz wartości aktywów netto funduszu, wartości jednostki rozrachunkowej i wysokości stopy zwrotu, o których mowa w art. 166, 169 i 170.
 
-2. Skargę na fundusz może wnieść także osoba, która była uprzednio jego członkiem w okresie 6 miesięcy poprzedzających wniesienie skargi.
+### Art. 165.
 
-3. W imieniu grupy członków skargę na fundusz może wnieść do organu nadzoru także organizacja społeczna, której zadanie nie polega na prowadzeniu działalności gospodarczej.
+Aktywa funduszu przechowywane w sposób przewidziany w przepisach niniejszego rozdziału nie mogą być przedmiotem egzekucji skierowanej przeciwko depozytariuszowi lub podmiotom, o których mowa w art. 159 ust. 1 pkt 1, a także nie wchodzą w skład masy upadłości depozytariusza lub tych podmiotów i nie mogą być objęte postępowaniem układowym.
 
-**Art. 206.**
+### Rozdział 17 Wycena aktywów i obliczanie stopy zwrotu funduszy emerytalnych
 
-1. Organ nadzoru może żądać zwołania posiedzenia zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa oraz umieszczenia poszczególnych spraw w porządku obrad tych organów, jeżeli uzna to za konieczne do prawidłowego sprawowania nadzoru nad działalnością funduszu lub towarzystwa.
+### Art. 166.
 
-2. W przypadkach, o których mowa w ust. 1, organ nadzoru deleguje swojego przedstawiciela do udziału w posiedzeniu zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa, który jest uprawniony do zabierania głosu w sprawach objętych porządkiem obrad tych organów.
+Wartość aktywów netto funduszu jest ustalana przez fundusz w każdym dniu wyceny, o którym mowa w art. 168, i według stanu na ten dzień, oraz podawana do wiadomości Urzędu Nadzoru.
 
-3. Organ nadzoru w pisemnym wezwaniu występuje z żądaniem, o którym mowa w ust. 1, określając termin, przed którego upływem posiedzenie zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa powinno się odbyć. Termin ten nie może być krótszy niż 30 dni, licząc od dnia doręczenia wezwania.
+### Art. 167.
 
-4. Towarzystwo jest obowiązane niezwłocznie poinformować organ nadzoru o ustalonym terminie posiedzenia.
+Wycena aktywów netto funduszu stanowi podstawę ustalenia wartości jednostki rozrachunkowej, zgodnie z przepisami rozdziału 9.
 
-5. Jeżeli w ciągu 14 dni od dnia doręczenia wezwania termin posiedzenia zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa nie zostanie ustalony lub zostanie ustalony z naruszeniem terminu określonego w wezwaniu, organ nadzoru może zwołać posiedzenie zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa na koszt towarzystwa.
+### Art. 168.
 
-**Art. 207.** (uchylony)
+### 1.
 
-**Art. 207a.** Organ nadzoru może być uczestnikiem postępowania rejestrowego dotyczącego towarzystwa emerytalnego lub funduszu emerytalnego.
+W przypadku otwartego funduszu dniem wyceny jest każdy dzień roboczy, z wyjątkiem sobót, a w przypadku pracowniczego funduszu ostatni dzień roboczy każdego miesiąca.
 
-**Art. 207b.** Organ nadzoru, przynajmniej raz na dwa lata, przekazuje Europejskiemu Urzędowi Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych informację o obowiązujących w prawie polskim wymogach dotyczących działalności pracowniczych funduszy emerytalnych.
+### 2.
 
-**Art. 207c.**
+Statut pracowniczego funduszu może określić także inne dni wyceny.
 
-1. Organ nadzoru jest obowiązany do ogłoszenia na swojej stronie internetowej bez zbędnej zwłoki informacji o zastosowaniu wobec osoby fizycznej, pracowniczego funduszu lub pracowniczego towarzystwa odpowiednio:
+### Art. 169.
 
-- **1)** kary pieniężnej, o której mowa w art. 62 ust. 2 i 5, art. 156, art. 197 ust. 6, art. 198, art. 204 ust. 8 i 9 i art. 204c,
-- **2)** powiadomienia o stwierdzonych nieprawidłowościach, o którym mowa w art. 62 ust. 2, art. 204 ust. 3 i art. 204j ust. 1,
-- **3)** decyzji o cofnięciu zezwolenia na utworzenie towarzystwa, o której mowa w art. 61 i art. 62 ust. 1 – wobec których nie złożono w terminie wniosku o ponowne rozpatrzenie sprawy.
+Wartość jednostki rozrachunkowej jest ustalana przez fundusz w każdym dniu wyceny i według stanu na ten dzień oraz podawana do wiadomości Urzędu Nadzoru, a w przypadku otwartych funduszy także do wiadomości jednej z agencji informacyjnych wskazanych przez Urząd Nadzoru.
 
-2. Informacja, o której mowa w ust. 1, obejmuje:
+### Art. 170.
 
-- **1)** imię i nazwisko osoby fizycznej lub firmę (nazwę) podmiotu, na który nałożono sankcję;
-- **2)** wskazanie rodzaju i charakteru naruszenia;
-- **3)** określenie rodzaju zastosowanej sankcji, a w przypadku kary pieniężnej – jej wysokość.
+Otwarty fundusz, który przyjmował składki co najmniej przez 24 miesiące, ustala na koniec każdego miesiąca kończącego kwartał wysokość stopy zwrotu za ostatnie 24 miesiące. Wysokość stopy zwrotu jest podawana do wiadomości Urzędu Nadzoru oraz jednej z agencji informacyjnych wskazanych przez ten Urząd.
 
-3. W przypadku gdy organ nadzoru uzna, że opublikowanie danych identyfikacyjnych podmiotu, na który nałożono sankcję, byłoby nieproporcjonalne w oparciu o indywidualną ocenę proporcjonalności opublikowania takich danych, lub w przypadku gdy zagroziłoby stabilności rynków finansowych lub trwającemu postępowaniu, organ nadzoru może podjąć decyzję o odroczeniu publikacji, zaniechaniu publikacji lub o opublikowaniu informacji o nałożonych sankcjach w sposób zanonimizowany.
+### Art. 171.
 
-4. Obowiązek publikacji informacji, o której mowa w ust. 1, powstaje w dniu, w którym decyzja o nałożeniu sankcji stała się ostateczna.
+Fundusz jest obowiązany przekazywać informacje o wielkościach, o których mowa w art. 166, 169 i 170, do wiadomości depozytariusza niezwłocznie po ich sporządzeniu.
 
-**Art. 208.** (uchylony)
+### Art. 172.
 
-**Art. 209.** (uchylony)
+Stopą zwrotu funduszu jest wyrażony procentowo iloraz różnicy wartości jednostki rozrachunkowej w ostatnim dniu roboczym miesiąca kończącego kwartał i wartości tej jednostki w ostatnim dniu roboczym miesiąca przypadającego przed 24 miesiącami oraz wartości tej jednostki w ostatnim dniu roboczym miesiąca przypadającego przed 24 miesiącami.
 
-**Art. 210.** Do Przewodniczącego Komisji Nadzoru Finansowego, jego Zastępców, członków Komisji, pracowników Urzędu tej Komisji oraz osób zatrudnionych w Urzędzie tej Komisji na podstawie umowy o dzieło, umowy zlecenia albo innych umów o podobnym charakterze stosuje się odpowiednio przepisy art. 49. Art. 211–214. (uchylone)
+### Art. 173.
 
-#### Rozdział 22 Przepisy karne
+### 1.
 
-**Art. 215.** Kto nie będąc do tego uprawniony używa w nazwie (firmie) lub do określenia prowadzonej przez siebie działalności gospodarczej albo w reklamie określeń, o których mowa w art. 10 ust. 2 lub art. 28 ust. 1, podlega grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 2.
+Średnią ważoną stopą zwrotu wszystkich otwartych funduszy za okres 24 miesięcy jest suma iloczynów stopy zwrotu każdego z otwartych funduszy, o których mowa w art. 170, i wskaźnika przeciętnego udziału w rynku danego otwartego funduszu. Wskaźnikiem przeciętnego udziału w rynku danego otwartego funduszu jest średnia arytmetyczna wskaźnika udziału w rynku w ostatnim dniu roboczym miesiąca poprzedzającego okres 24 miesięcy i wskaźnika udziału w rynku w ostatnim dniu roboczym miesiąca przypadającego na koniec okresu 24 miesięcy. Wskaźnikiem udziału w rynku otwartego funduszu, w określonym dniu, jest iloraz wartości aktywów netto tego funduszu i wartości aktywów netto wszystkich otwartych funduszy, o których mowa w art. 170, według stanu na dzień obliczenia wskaźnika.
 
-**Art. 216.** Kto bez wymaganego zezwolenia prowadzi działalność, o której mowa w art. 2 ust. 2 lub 3 lub art. 29 ust. 1, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 5.
+### 2.
 
-**Art. 217.** Kto, podejmując decyzje inwestycyjne na rachunek funduszu, narusza wymogi w zakresie działalności lokacyjnej określone w niniejszej ustawie, stwarzając przez to zagrożenie dla interesów członka funduszu, podlega grzywnie do 1 000 000 zł.
+Wysokość średniej ważonej stopy zwrotu wszystkich otwartych funduszy Prezes Urzędu Nadzoru podaje do publicznej wiadomości.
 
-**Art. 218.**
+### Art. 174.
 
-1. Kto, będąc odpowiedzialny za informacje zawarte w prospekcie informacyjnym, podaje nieprawdziwe lub zataja prawdziwe dane, wpływające w istotny sposób na treść informacji, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 3.
+Rada Ministrów określi, w drodze rozporządzenia:
 
-2. Kto, będąc odpowiedzialny za inne informacje udostępniane członkom funduszu lub organowi nadzoru, zgodnie z przepisami niniejszej ustawy, dopuszcza się czynu określonego w ust. 1, podlega grzywnie do 1 000 000 zł.
+### 1)
 
-**Art. 218a.** Kto, będąc do tego obowiązanym, nie opracowuje lub nie publikuje dokumentów, o których mowa w art. 142a ust. 1, 3 i 4 lub art. 142c ust. 1, 2 i 4, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+szczegółowe zasady ustalania stopy zwrotu i średniej ważonej stopy zwrotu wszystkich otwartych funduszy, w tym zasady zaokrąglania ustalonych wielkości,
 
-**Art. 218b.** Kto, będąc odpowiedzialnym za informacje zawarte w polityce dotyczącej zaangażowania, o której mowa w art. 142a ust. 1, podaje w niej nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tej polityki, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+### 2)
 
-**Art. 218c.** Kto, będąc odpowiedzialnym za informacje, o których mowa w art. 142c, podaje w nich nieprawdziwe dane lub zataja prawdziwe dane wpływające w istotny sposób na treść tych informacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+sposób i termin zawiadamiania Urzędu Nadzoru przez otwarty fundusz o wysokości stopy zwrotu funduszu oraz sposób i termin przekazywania przez otwarty fundusz informacji o wysokości tej stopy do agencji informacyjnej,
 
-**Art. 219.**
+### 3)
 
-1. Kto wbrew zakazowi przewidzianemu w art. 92 ust. 1 prowadzi działalność akwizycyjną polegającą na działaniach mających na celu skłonienie kogokolwiek, aby przystąpił do otwartego funduszu lub pozostawał członkiem tego funduszu, lub w ramach tej działalności oferuje określone w tym przepisie dodatkowe korzyści materialne lub wykorzystuje stosunek nadrzędności wynikający ze stosunku pracy lub innego stosunku prawnego, na którym jest oparta zależność służbowa lub inna zależność o podobnym charakterze, w celu skłonienia do przystąpienia do otwartego funduszu lub pozostawania jego członkiem, podlega grzywnie do 1 000 000 zł.
+sposób podawania przez Prezesa Urzędu Nadzoru do publicznej wiadomości wysokości średniej ważonej stopy zwrotu wszystkich otwartych funduszy, o której mowa w art. 173 ust. 1,
 
-2. Tej samej karze podlega, kto, prowadząc działalność, o której mowa w art. 92 ust. 2, oferuje dodatkowe korzyści materialne w zamian za przystąpienie do określonego otwartego funduszu lub za pozostawanie jego członkiem.
+### 4)
 
-**Art. 219a.** (uchylony)
+sposób i termin zawiadamiania Urzędu Nadzoru przez fundusz o wartości aktywów netto funduszu i wartości jednostki rozrachunkowej.
 
-**Art. 220.**
+### Rozdział 18 Niedobór
 
-1. Kto, będąc obowiązany do zachowania tajemnicy zawodowej dotyczącej działalności funduszu, ujawnia ją lub wykorzystuje, podlega grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 3.
+### Art. 175.
 
-2. Jeżeli sprawca dopuszcza się czynu określonego w ust. 1 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 5.
+### 1.
 
-**Art. 221.** (uchylony)
+Niedobór występuje w otwartym funduszu w przypadku, gdy stopa zwrotu tego funduszu za okres 24 miesięcy, o którym mowa w art. 170, jest niższa od minimalnej wymaganej stopy zwrotu.
 
-**Art. 222.** Odpowiedzialności karnej przewidzianej w przepisach art. 215– 220 podlega także ten, kto dopuszcza się czynów określonych w tych przepisach, działając w imieniu osoby prawnej.
+### 2.
 
-#### Rozdział 23 Zmiany w przepisach obowiązujących
+Minimalną wymaganą stopą zwrotu jest stopa zwrotu niższa o 50% od średniej ważonej stopy zwrotu wszystkich otwartych funduszy w tym okresie lub o 4 punkty procentowe od tej średniej, w zależności od tego, która z tych wielkości jest niższa.
 
-#### Rozdział 24 Przepisy przejściowe i końcowe
+### 3.
 
-**Art. 229.** (uchylony)
+Kwota niedoboru jest obliczana jako iloczyn liczby jednostek rozrachunkowych w otwartym funduszu w ostatnim dniu roboczym okresu 24 miesięcy oraz różnicy między wartością jednostki rozrachunkowej, która zapewniałaby osiągnięcie minimalnej wymaganej stopy zwrotu, a faktyczną wartością jednostki rozrachunkowej w ostatnim dniu roboczym okresu 24 miesięcy.
 
-**Art. 230.** (pominięty)
+### Art. 176.
 
-**Art. 230a.** (pominięty)
+### 1.
 
-**Art. 231.** Ustawa wchodzi w życie z dniem 1 kwietnia 1999 r., z wyjątkiem:
+W razie wystąpienia niedoboru otwarty fundusz jest obowiązany w terminie 3 dni, licząc od chwili podania przez Prezesa Urzędu Nadzoru do publicznej wiadomości wysokości średniej ważonej stopy zwrotu wszystkich otwartych funduszy, przeznaczyć na pokrycie niedoboru wszelkie środki dostępne na rachunku rezerwowym, o którym mowa w art. 181 ust. 1.
 
+### 2.
+
+Jeżeli środki na rachunku rezerwowym są niewystarczające na pokrycie niedoboru, powszechne towarzystwo dokonuje jego pokrycia z własnych środków w terminie 14 dni od chwili podania przez Prezesa Urzędu Nadzoru do publicznej wiadomości wysokości średniej ważonej stopy zwrotu wszystkich otwartych funduszy.
+
+### Art. 177.
+
+### 1.
+
+Jeżeli pokrycie niedoboru, w sposób określony w art. 176 ust. 2, okaże się niemożliwe, zarząd powszechnego towarzystwa jest obowiązany zawiadomić o tym niezwłocznie Urząd Nadzoru, który występuje do właściwego sądu z wnioskiem o ogłoszenie jego upadłości.
+
+### 2.
+
+W razie ogłoszenia upadłości towarzystwa pokrycie niedoboru z jego majątku może nastąpić dopiero po uprzednim zaspokojeniu należności innych wierzycieli towarzystwa według kolejności określonej w art. 204 § 1 pkt 1-3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ([Dz. U. z 1991 r. Nr 118, poz. 512](https://api.sejm.gov.pl/eli/acts/DU/1991/512/text.html), z [1994 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1994/1/text.html), z [1995 r. Nr 85, poz. 426](https://api.sejm.gov.pl/eli/acts/DU/1995/426/text.html), z [1996 r. Nr 6, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1996/43/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 54, poz. 349](https://api.sejm.gov.pl/eli/acts/DU/1997/349/text.html), [Nr 117, poz. 751](https://api.sejm.gov.pl/eli/acts/DU/1997/751/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)), jednakże przed zaspokojeniem należności, o których mowa w art. 204 § 1 pkt 5-9 tego rozporządzenia.
+
+### Art. 178.
+
+Niedobór nie pokryty, zgodnie z przepisami art. 176 i 177, pokrywany jest ze środków Funduszu Gwarancyjnego.
+
+### Art. 179.
+
+### 1.
+
+Jeżeli niedobór powstał w następstwie utraty przez depozytariusza aktywów otwartego funduszu, mających postać materialną, depozytariusz jest obowiązany do wyrównania niedoboru, zanim wykorzystane zostaną na ten cel środki na rachunku rezerwowym, własne środki powszechnego towarzystwa lub środki Funduszu Gwarancyjnego.
+
+### 2.
+
+Wyrównanie niedoboru przez depozytariusza następuje w terminie 14 dni od dnia stwierdzenia wystąpienia niedoboru, chociażby utrata aktywów otwartego funduszu nie została przez depozytariusza zawiniona.
+
+### 3.
+
+Z tytułu pokrycia niedoboru Fundusz Gwarancyjny nabywa, w stosunku do depozytariusza lub jego masy upadłości, roszczenie o zwrot środków Funduszu Gwarancyjnego wykorzystanych na pokrycie niedoboru.
+
+### Art. 180.
+
+Skarb Państwa gwarantuje pokrycie niedoboru w przypadku, gdy niedobór nie może być pokryty ze środków Funduszu Gwarancyjnego, na zasadach i w trybie określonych w odrębnych ustawach.
+
+### Art. 181.
+
+### 1.
+
+Otwarty fundusz otwiera rachunek rezerwowy, na który przekazywane są środki powszechnego towarzystwa.
+
+### 2.
+
+Środki na rachunku rezerwowym stanowią część aktywów funduszu.
+
+### 3.
+
+Na towarzystwo, które nie dokonuje wpłat na rachunek rezerwowy, zgodnie z ust. 1, Urząd Nadzoru może nałożyć karę pieniężną w wysokości do 500 000 zł.
+
+### Art. 182.
+
+Ze środków na rachunku rezerwowym nie może być prowadzona egzekucja przeciwko powszechnemu towarzystwu.
+
+### Art. 183.
+
+Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe zasady pokrywania niedoboru w przypadkach, o których mowa w art. 176-179,
+
+### 2)
+
+proporcjonalną część aktywów netto otwartego funduszu, która powinna być przechowywana na rachunku rezerwowym, z zastrzeżeniem, że wielkość ta nie może być niższa niż 1% ani wyższa niż 3% wartości pozostałych aktywów netto funduszu oraz że może być zależna od udziału wartości aktywów netto danego funduszu w wartości aktywów netto wszystkich otwartych funduszy,
+
+### 3)
+
+sposób ustalania przez powszechne towarzystwo wielkości środków, które powinny być przekazywane na rachunek rezerwowy,
+
+### 4)
+
+sposób wycofywania przez powszechne towarzystwo nadwyżek środków z rachunku rezerwowego.
+
+### Rozdział 19 Fundusz gwarancyjny
+
+### Art. 184.
+
+Tworzy się Fundusz Gwarancyjny, którego administratorem jest Krajowy Depozyt.
+
+### Art. 185.
+
+### 1.
+
+Przychodami Funduszu Gwarancyjnego są wpłaty dokonywane przez powszechne towarzystwa z własnych środków oraz przychody z lokowania środków Funduszu Gwarancyjnego. Środki Funduszu Gwarancyjnego nie podlegają egzekucji prowadzonej z majątku powszechnego towarzystwa.
+
+### 2.
+
+Wpłaty powszechnego towarzystwa do Funduszu Gwarancyjnego stanowią określoną procentowo, identyczną dla wszystkich otwartych funduszy, wartość aktywów netto otwartego funduszu zarządzanego przez to towarzystwo.
+
+### 3.
+
+Wysokość i zasady dokonywania wpłat do Funduszu Gwarancyjnego określa, w drodze rozporządzenia, Rada Ministrów, z zastrzeżeniem, że całkowita wartość środków Funduszu Gwarancyjnego nie może przekraczać 0,1% wartości aktywów netto wszystkich otwartych funduszy, o ile wartość zobowiązań otwartego funduszu nie przekracza tej wielkości.
+
+### Art. 186.
+
+### 1.
+
+Sposób i tryb wnoszenia wpłat do Funduszu Gwarancyjnego, a także sposób i tryb działania Funduszu Gwarancyjnego, w tym lokowania jego środków, określa Krajowy Depozyt w regulaminie zatwierdzanym przez Urząd Nadzoru.
+
+### 2.
+
+Regulamin określa również sposób gospodarowania środkami Funduszu Gwarancyjnego, szczegółowe warunki i tryb dokonywania wypłat z tych środków oraz ich zwrotu powszechnym towarzystwom, a także sposób dokonywania rozliczeń z powszechnymi towarzystwami, które zaprzestały dokonywania wpłat wskutek zakończenia działalności określonej w ustawie.
+
+### 3.
+
+Regulamin może zawierać także inne postanowienia niezbędne do zapewnienia prawidłowego działania Funduszu Gwarancyjnego.
+
+### Art. 187.
+
+Ze środków Funduszu Gwarancyjnego są dokonywane wypłaty na rzecz otwartych funduszy, w których wystąpił niedobór, w zakresie, w jakim środki na rachunku rezerwowym oraz własne środki powszechnego towarzystwa nie są wystarczające na pokrycie tego niedoboru, a także są pokrywane szkody, o których mowa w art. 48 ust. 1, w zakresie, w jakim powszechne towarzystwo nie ponosi za nie odpowiedzialności lub szkody te nie mogą być pokryte z jego masy upadłości.
+
+### Art. 188.
+
+Zwrot wpłat z Funduszu Gwarancyjnego stanowi przychód powszechnego towarzystwa w rozumieniu przepisów o podatku dochodowym od osób prawnych.
+
+### Rozdział 20 Obowiązki informacyjne funduszy emerytalnych
+
+### Art. 189.
+
+### 1.
+
+Otwarty fundusz jest obowiązany, raz w roku, ogłaszać prospekt informacyjny we wskazanym w statucie dzienniku o zasięgu krajowym.
+
+### 2.
+
+Prospekt informacyjny otwartego funduszu powinien zawierać jego statut, informacje na temat wyników działalności inwestycyjnej funduszu oraz zatwierdzone roczne sprawozdanie finansowe funduszu.
+
+### Art. 190.
+
+### 1.
+
+Otwarty fundusz udostępnia prospekt informacyjny każdej osobie, która złoży wniosek o przyjęcie do funduszu, przy czym powinno to nastąpić przed zawarciem umowy z funduszem.
+
+### 2.
+
+Otwarty fundusz udostępnia prospekt informacyjny, wraz z ostatnim półrocznym sprawozdaniem finansowym, także na każde żądanie członka.
+
+### 3.
+
+Prospekt informacyjny oraz półroczne i roczne sprawozdania finansowe powinny być przekazane Urzędowi Nadzoru niezwłocznie po ich sporządzeniu, a roczne sprawozdania finansowe - także po ich zatwierdzeniu przez powszechne towarzystwo w drodze uchwały walnego zgromadzenia.
+
+### Art. 191.
+
+Fundusz doręcza każdemu członkowi, w regularnych odstępach czasu, nie rzadziej jednak niż co 12 miesięcy, pisemną informację o środkach znajdujących się na rachunku członka, terminach dokonanych w tym okresie wpłat składek i wypłat transferowych oraz przeliczeniu tych składek i wypłat transferowych na jednostki rozrachunkowe, a także o wynikach działalności lokacyjnej funduszu.
+
+### Art. 192.
+
+Fundusz jest obowiązany, na żądanie członka, udzielić mu na piśmie informacji określającej pieniężną wartość środków zgromadzonych na jego rachunku.
+
+### Art. 193.
+
+### 1.
+
+Fundusz udostępnia informacje dotyczące struktury swoich aktywów, z zastrzeżeniem ust. 2-4.
+
+### 2.
+
+W odstępach miesięcznych otwarty fundusz udostępnia dane o tym, jaka część aktywów została ulokowana w poszczególnych kategoriach lokat przewidzianych w przepisach rozdziału 15, według stanu na ostatni dzień wyceny w danym miesiącu.
+
+### 3.
+
+W odstępach półrocznych otwarty fundusz udostępnia dane o tym, jaka wartość i jaka część aktywów funduszu była ulokowana w poszczególnych lokatach, podając informację o emitencie poszczególnych papierów wartościowych, według stanu na ostatni dzień wyceny przypadający w ostatnim miesiącu każdego okresu półrocznego, z zastrzeżeniem że dane z okresu półrocznego dotyczyć mogą wyłącznie lokat stanowiących co najmniej 1% wartości aktywów funduszu.
+
+### 4.
+
+Pełna informacja o strukturze aktywów otwartego funduszu i pracowniczego funduszu, z uwzględnieniem także lokat stanowiących mniej niż 1% wartość aktywów funduszu, jest udostępniana na koniec każdego okresu rocznego.
+
+### Art. 194.
+
+### 1.
+
+Informacje, o których mowa w art. 193 ust. 2-4, otwarty fundusz przekazuje niezwłocznie do Urzędu Nadzoru oraz do jednej z agencji informacyjnych wskazanych przez Urząd Nadzoru, a informacje, o których mowa w art. 193 ust. 3 i 4, ogłasza ponadto w dzienniku o zasięgu krajowym.
+
+### 2.
+
+Pracowniczy fundusz przekazuje niezwłocznie informację, o której mowa w art. 193 ust. 4, do Urzędu Nadzoru oraz akcjonariuszom pracowniczego towarzystwa zarządzającego tym funduszem.
+
+### Art. 195.
+
+Towarzystwo i fundusz mają obowiązek dostarczania Urzędowi Nadzoru okresowych sprawozdań oraz bieżących informacji dotyczących ich działalności i sytuacji finansowej.
+
+### Art. 196.
+
+Rada Ministrów określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki, jakim powinien odpowiadać prospekt informacyjny, oraz niezbędną treść informacji, o których mowa w art. 191 i 192,
+
+### 2)
+
+sposób i termin udostępniania przez fundusz prospektu informacyjnego oraz informacji, o których mowa w art. 191-193,
+
+### 3)
+
+zakres sprawozdań i bieżących informacji dostarczanych przez towarzystwo i fundusz do Urzędu Nadzoru oraz terminy przekazywania tych sprawozdań i informacji.
+
+### Art. 197.
+
+### 1.
+
+Informacje o otwartym funduszu, publikowane przez powszechne towarzystwo, w tym informacje reklamowe, a także informacje o pracowniczym funduszu, udostępniane przez pracownicze towarzystwo, powinny rzetelnie przedstawiać sytuację finansową funduszu oraz ryzyko związane z członkostwem w funduszu.
+
+### 2.
+
+Jeżeli Urząd Nadzoru stwierdzi, że publikacje lub udostępniane informacje, o których mowa w ust. 1, wprowadzają w błąd lub mogą wprowadzić w błąd, może zakazać ich ogłaszania lub udostępniania oraz nakazać ogłoszenie lub udostępnienie odpowiednich sprostowań w wyznaczonym terminie.
+
+### 3.
+
+Jeżeli zakaz lub nakaz nie zostanie wykonany, Urząd Nadzoru nakłada na towarzystwo karę pieniężną w wysokości do 500 000 zł oraz ogłasza lub udostępnia odpowiednie sprostowania na koszt towarzystwa.
+
+### Art. 198.
+
+Jeżeli towarzystwo lub depozytariusz nie wypełnia określonych w ustawie obowiązków przekazywania informacji Urzędowi Nadzoru lub członkom funduszu, Urząd Nadzoru może nałożyć karę pieniężną w wysokości do 500 000 zł.
+
+### Rozdział 21 Nadzór nad działalnością funduszy emerytalnych
+
+### Art. 199.
+
+### 1.
+
+Tworzy się Urząd Nadzoru nad Funduszami Emerytalnymi jako centralny organ administracji rządowej.
+
+### 2.
+
+Nadzór nad Urzędem Nadzoru sprawuje Prezes Rady Ministrów.
+
+### Art. 200.
+
+### 1.
+
+Zadaniem Urzędu Nadzoru jest ochrona interesów członków funduszy oraz uczestników pracowniczych programów emerytalnych.
+
+### 2.
+
+Zadanie, o którym mowa w ust. 1, Urząd Nadzoru realizuje poprzez:
+
+### 1)
+
+sprawowanie nadzoru nad działalnością funduszy,
+
+### 2)
+
+inspirowanie, organizowanie i podejmowanie działań mających na celu zapewnienie rozwoju systemu funduszy w Polsce,
+
+### 3)
+
+sprawowanie nadzoru nad funkcjonowaniem pracowniczych programów emerytalnych,
+
+### 4)
+
+pogłębianie wiedzy społeczeństwa na temat celów i zasad działalności funduszy, ze szczególnym uwzględnieniem praw przysługujących ich członkom,
+
+### 5)
+
+pogłębianie wiedzy społeczeństwa na temat celów i zasad funkcjonowania pracowniczych programów emerytalnych, ze szczególnym uwzględnieniem praw uczestników takich programów,
+
+### 6)
+
+współdziałanie z organami administracji rządowej, Narodowym Bankiem Polskim, Zakładem Ubezpieczeń Społecznych, towarzystwami, podmiotami działającymi na rzecz funduszy oraz związkami pracodawców, związkami zawodowymi i innymi organizacjami społecznymi w zakresie kształtowania polityki państwa zapewniającej bezpieczny rozwój funduszy i pracowniczych programów emerytalnych,
+
+### 7)
+
+udzielanie informacji Narodowemu Bankowi Polskiemu w zakresie niezbędnym do wykonywania nadzoru nad bankami pełniącymi funkcje depozytariuszy i bankami będącymi akcjonariuszami towarzystw,
+
+### 8)
+
+udzielanie informacji Komisji Papierów Wartościowych i Giełd w zakresie niezbędnym do wykonywania nadzoru nad działalnością Krajowego Depozytu,
+
+### 9)
+
+podejmowanie innych działań przewidzianych przepisami niniejszej ustawy.
+
+### Art. 201.
+
+### 1.
+
+Urzędem Nadzoru kieruje Prezes powoływany przez Prezesa Rady Ministrów na okres 5 lat.
+
+### 2.
+
+Odwołanie Prezesa Urzędu Nadzoru przez Prezesa Rady Ministrów przed upływem kadencji może nastąpić za zgodą Komitetu Doradczego Urzędu Nadzoru, o którym mowa w art. 211 ust. 1, wyrażoną w formie uchwały podjętej bezwględną większością głosów w obecności co najmniej dwóch trzecich składu Komitetu Doradczego Urzędu Nadzoru.
+
+### 3.
+
+Na wniosek Prezesa Urzędu Nadzoru Prezes Rady Ministrów powołuje i odwołuje wiceprezesów Urzędu Nadzoru. Prezes Rady Ministrów może odwołać wiceprezesów Urzędu Nadzoru także z własnej inicjatywy.
+
+### 4.
+
+Wielkość środków na wynagrodzenia Prezesa, wiceprezesów, dyrektora generalnego i pracowników Urzędu Nadzoru określana jest corocznie w ustawie budżetowej, w relacji do wynagrodzeń, łącznie z premiami i innymi dodatkami, wypłacanych w powszechnych towarzystwach.
+
+### 5.
+
+Prezes Rady Ministrów nadaje Urzędowi Nadzoru, w drodze rozporządzenia, statut, który określa jego organizację i zadania.
+
+### Art. 202.
+
+### 1.
+
+Do postępowania przed Urzędem Nadzoru stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że ustawa stanowi inaczej.
+
+### 2.
+
+Na decyzję Urzędu Nadzoru służy skarga do Naczelnego Sądu Administracyjnego.
+
+### 3.
+
+Wniosek o ponowne rozpatrzenie sprawy przez Urząd Nadzoru nie wstrzymuje wykonania decyzji Urzędu Nadzoru o cofnięciu zezwolenia na utworzenie towarzystwa, jeżeli cofnięcie zezwolenia następuje z innych przyczyn niż określone w art. 61.
+
+### Art. 203.
+
+### 1.
+
+Wydatki Urzędu Nadzoru są pokrywane z budżetu państwa w wysokości ustalanej corocznie w ustawie budżetowej.
+
+### 2.
+
+Od powszechnych towarzystw pobiera się miesięcznie opłaty w kwocie nie przekraczającej 0,02% składek wpłaconych w danym miesiącu do zarządzanych przez nie otwartych funduszy.
+
+### 3.
+
+Od pracowniczych towarzystw pobiera się kwartalnie opłaty w kwocie nie przekraczającej 0,2% składek wpłaconych w danym kwartale do zarządzanych przez nie pracowniczych funduszy.
+
+### 4.
+
+Od pracodawców prowadzących pracownicze programy emerytalne pobiera się kwartalnie opłaty w kwocie nie przekraczającej 0,1% składek wpłaconych w danym kwartale na rzecz uczestników pracowniczych programów emerytalnych.
+
+### 5.
+
+Połowa wpływów z opłat, o których mowa w ust. 2-4, pobieranych przez Urząd Nadzoru, stanowi dochód środka specjalnego Urzędu Nadzoru, z przeznaczeniem na usprawnienie pracy Urzędu Nadzoru, podnoszenie kwalifikacji zawodowych pracowników Urzędu Nadzoru oraz premie dla Prezesa, wiceprezesów, dyrektora generalnego i pracowników Urzędu Nadzoru. Pozostała część wpływów stanowi dochód budżetu państwa.
+
+### 6.
+
+Szczegółowy sposób rozdysponowania wpływów stanowiących dochód środka specjalnego oraz zasady przyznawania premii pracownikom Urzędu Nadzoru określa Prezes Urzędu Nadzoru w drodze regulaminu zatwierdzanego przez Komitet Doradczy Urzędu Nadzoru.
+
+### 7.
+
+Zasady przyznawania premii Prezesowi i wiceprezesom oraz dyrektorowi generalnemu Urzędu Nadzoru określa statut, o którym mowa w art. 201 ust. 5.
+
+### 8.
+
+Rada Ministrów określi, w drodze rozporządzenia, wysokość, tryb oraz terminy wnoszenia opłat, o których mowa w ust. 2-4.
+
+### Art. 204.
+
+### 1.
+
+W ramach nadzoru nad działalnością funduszy Urząd Nadzoru uprawniony jest w szczególności do:
+
+### 1)
+
+żądania udostępnienia przez towarzystwo kopii dokumentów związanych z działalnością funduszu oraz zapoznawania się z ich treścią,
+
+### 2)
+
+żądania wszelkich informacji i wyjaśnień od członków zarządu, rady nadzorczej i pracowników towarzystwa dotyczących działalności funduszu.
+
+### 2.
+
+Osoba upoważniona przez Prezesa Urzędu Nadzoru ma prawo wstępu do pomieszczeń:
+
+### 1)
+
+towarzystwa - w celu sprawdzenia, czy działalność towarzystwa jest zgodna z prawem i statutem,
+
+### 2)
+
+depozytariusza - w celu sprawdzenia, czy jego działalność związana z przechowywaniem aktywów funduszu jest zgodna z prawem i umową o przechowywanie aktywów funduszu,
+
+### 3)
+
+podmiotu, któremu fundusz powierzył prowadzenie rejestru członków funduszu - w celu sprawdzenia, czy jego działalność związana z prowadzeniem tego rejestru jest zgodna z prawem.
+
+### 3.
+
+Osoba przeprowadzająca kontrolę ma prawo:
+
+### 1)
+
+wglądu do wszelkich ksiąg, dokumentów i innych nośników informacji,
+
+### 2)
+
+żądania sporządzenia oraz wydania kopii tych dokumentów i nośników informacji,
+
+### 3)
+
+żądania udzielenia informacji przez członków władz statutowych i pracowników kontrolowanych podmiotów.
+
+### 4.
+
+Towarzystwo jest obowiązane zapewnić osobie przeprowadzającej kontrolę dostęp do wszystkich ksiąg, dokumentów i innych nośników informacji związanych z działalnością funduszu, które są przechowywane u osób trzecich w związku z powierzeniem im niektórych czynności na podstawie odrębnych umów.
+
+### 5.
+
+Upoważnienie Prezesa Urzędu Nadzoru określa zakres kontroli.
+
+### 6.
+
+Po sporządzeniu przez osobę przeprowadzającą kontrolę protokołu z dokonanych czynności Urząd Nadzoru powiadamia kontrolowany podmiot o stwierdzonych nieprawidłowościach i wyznacza termin do ich usunięcia.
+
+### 7.
+
+W razie nieusunięcia nieprawidłowości w wyznaczonym terminie, Urząd Nadzoru może nałożyć na kontrolowany podmiot karę pieniężną w wysokości do 500 000 zł. W przypadku stwierdzenia rażących nieprawidłowości, Urząd Nadzoru może nałożyć karę pieniężną bezpośrednio po ich stwierdzeniu.
+
+### Art. 205.
+
+### 1.
+
+Członek może wnieść do Urzędu Nadzoru skargę na fundusz, jeżeli sądzi, że działalność tego funduszu jest niezgodna z przepisami prawa lub postanowieniami statutu funduszu.
+
+### 2.
+
+Skargę na fundusz może wnieść także osoba, która byłą uprzednio jego członkiem w okresie 6 miesięcy poprzedzających wniesienie skargi.
+
+### 3.
+
+W imieniu grupy członków skargę na fundusz może wnieść do Urzędu Nadzoru także organizacja społeczna, której zadanie nie polega na prowadzeniu działalności gospodarczej.
+
+### Art. 206.
+
+### 1.
+
+Urząd Nadzoru może żądać zwołania posiedzenia zarządu, rady nadzorczej lub walnego zgromadzenia akcjonariuszy towarzystwa oraz umieszczenia poszczególnych spraw na porządku obrad tych organów, jeżeli uzna to za konieczne do prawidłowego sprawowania nadzoru nad działalnością funduszu.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, Urząd Nadzoru deleguje swojego przedstawiciela do udziału w posiedzeniu zarządu, rady nadzorczej lub walnego zgromadzenia towarzystwa, który jest uprawniony do zabierania głosu w sprawach objętych porządkiem obrad tych organów.
+
+### Art. 207.
+
+W sprawach cywilnych w zakresu tworzenia i działania funduszy Prezesowi Urzędu Nadzoru przysługują uprawnienia prokuratora, wynikające z właściwych przepisów Kodeksu postępowania cywilnego
+
+### Art. 208.
+
+Prezes Urzędu Nadzoru składa raz w roku sprawozdanie z działalności Urzędu Nadzoru Prezesowi Rady Ministrów.
+
+### Art. 209.
+
+### 1.
+
+Prezes, wiceprezesi, dyrektor generalny i pracownicy Urzędu Nadzoru nie mogą być jednocześnie akcjonariuszami ani wykonywać obowiązków członka zarządu lub rady nadzorczej towarzystwa, a także pozostawać z towarzystwem w stosunku pracy, stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze. Zakaz powyższy dotyczy także pozostawania w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze z funduszem.
+
+### 2.
+
+Przepis ust. 1 nie narusza przepisów i ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne.
+
+### Art. 210.
+
+Do Prezesa, wiceprezesów, dyrektora generalnego, pracowników Urzędu Nadzoru, a także osób pozostających z Urzędem Nadzoru w stosunku zlecenia lub w innym stosunku prawnym o podobnym charakterze, stosuje się odpowiednio przepisy art. 49.
+
+### Art. 211.
+
+### 1.
+
+Tworzy się Komitet Doradczy Urzędu Nadzoru jako organ doradczy i opiniodawczy Urzędu Nadzoru w sprawach związanych z działalnością funduszy oraz funkcjonowaniem pracowniczych programów emerytalnych.
+
+### 2.
+
+Do zadań Komitetu Doradczego Urzędu Nadzoru należy:
+
+### 1)
+
+opiniowanie projektów aktów normatywnych dotyczących działalności funduszy oraz funkcjonowania pracowniczych programów emerytalnych,
+
+### 2)
+
+opiniowanie sprawozdań Prezesa Urzędu Nadzoru z działalności Urzędu Nadzoru,
+
+### 3)
+
+przedstawianie Urzędowi Nadzoru opinii w sprawach związanych z działalnością funduszy i funkcjonowaniem pracowniczych programów emerytalnych,
+
+### 4)
+
+wyrażanie zgody na odwołanie Prezesa Urzędu Nadzoru,
+
+### 5)
+
+zatwierdzanie regulaminu, o którym mowa w art. 203 ust. 6.
+
+### Art. 212.
+
+### 1.
+
+Komitet Doradczy Urzędu Nadzoru składa się z 15 osób.
+
+### 2.
+
+Członków Komitetu Doradczego Urzędu Nadzoru oraz jego przewodniczącego i wiceprzewodniczącego powołuje Prezes Rady Ministrów spośród osób posiadających wiedzę i doświadczenie w sprawach związanych z zadaniami wykonywanymi przez Urząd Nadzoru.
+
+### 3.
+
+Przynajmniej 6 członków Komitetu Doradczego Urzędu Nadzoru Prezes Rady Ministrów powołuje spośród osób rekomendowanych przez Komisję Trójstronną do Spraw Społeczno-Gospodarczych.
+
+### 4.
+
+Kadencja członków Komitetu Doradczego Urzędu Nadzoru trwa 6 lat, licząc od dnia powołania, z tym że co 2 lata kończy się kadencja jednej trzeciej członków. Członkowie Komitetu Doradczego Urzędu Nadzoru pełnią swoje funkcje do czasu powołania ich następców.
+
+### 5.
+
+Powołanie przewodniczącego i wiceprzewodniczącego Komitetu Doradczego Urzędu Nadzoru następuje na 2 lata.
+
+### 6.
+
+Do członków Komitetu Doradczego Urzędu Nadzoru stosuje się odpowiednio przepisy art. 49.
+
+### 7.
+
+Prezes Rady Ministrów określa, w drodze rozporządzenia, wysokość i zasady wynagradzania członków Komitetu Doradczego Urzędu Nadzoru.
+
+### Art. 213.
+
+Koszty działalności Komitetu Doradczego Urzędu Nadzoru są pokrywane z budżetu państwa.
+
+### Art. 214.
+
+Zasady i tryb działania Komitetu Doradczego Urzędu Nadzoru określa regulamin uchwalany przez Komitet Doradczy Urzędu Nadzoru i zatwierdzany przez Prezesa Rady Ministrów.
+
+### Rozdział 22 Przepisy karne
+
+### Art. 215.
+
+Kto nie będąc do tego uprawniony używa w nazwie (firmie) lub do określenia prowadzonej przez siebie działalności gospodarczej albo w reklamie określeń, o których mowa w art. 10 ust. 2 lub art. 28 ust. 1, podlega grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 2.
+
+### Art. 216.
+
+Kto bez wymaganego zezwolenia prowadzi działalność, o której mowa w art. 2 ust. 2 lub art. 29 ust. 1, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 5.
+
+### Art. 217.
+
+Kto, podejmując decyzje inwestycyjne na rachunek funduszu, narusza wymogi w zakresie działalności lokacyjnej określone w niniejszej ustawie, stwarzając przez to zagrożenie dla interesów członka funduszu, podlega grzywnie do 1 000 000 zł.
+
+### Art. 218.
+
+### 1.
+
+Kto, będąc odpowiedzialny za informacje zawarte w prospekcie informacyjnym, podaje nieprawdziwe lub zataja prawdziwe dane, wpływające w istotny sposób na treść informacji, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 3.
+
+### 2.
+
+Kto, będąc odpowiedzialny za inne informacji udostępniane członkom funduszu lub Urzędowi Nadzoru, zgodnie z przepisami niniejszej ustawy, dopuszcza się czynu określonego w ust. 1, podlega grzywnie do 1 000 000 zł.
+
+### Art. 219.
+
+### 1.
+
+Kto, wbrew zakazowi przewidzianemu w art. 92 ust. 1, oferuje w ramach działalności akwizycyjnej określone w tym przepisie dodatkowe korzyści materialne w celu skłonienia do przystąpienia do otwartego funduszu lub pozostawania jego członkiem, podlega grzywnie do 1 000 000 zł.
+
+### 2.
+
+Tej samej karze podlega, kto nie będąc wpisany do rejestru osób uprawnionych do wykonywania czynności akwizycyjnych na rzecz otwartych funduszy wykonuje takie czynności na rzecz otwartego funduszu albo prowadząc działalność akwizycyjną nie czyni tego za pośrednictwem osoby wpisanej do rejestru osób uprawnionych do wykonywania czynności akwizycyjnych na rzecz otwartych funduszy.
+
+### 3.
+
+Tej samej karze podlega, kto prowadząc działalność, o której mowa w art. 92 ust. 2, oferuje dodatkowe korzyści materialne w zamian za przystąpienie do określonego otwartego funduszu lub za pozostawanie jego członkiem.
+
+### Art. 220.
+
+### 1.
+
+Kto, będąc obowiązany do zachowania tajemnicy zawodowej dotyczącej działalności funduszu, ujawnia ją lub wykorzystuje, podlega grzywnie do 1 000 000 zł lub karze pozbawienia wolności do lat 3.
+
+### 2.
+
+Jeżeli sprawca dopuszcza się czynu określonego w ust. 1 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 5.
+
+### Art. 221.
+
+Kto, będąc obowiązany do podjęcia czynności przewidzianych w rozdziale 18 w związku z wystąpieniem w otwartym funduszu niedoboru, nie dopełnia ciążących na nim obowiązków, podlega grzywnie do 1 000 000 zł.
+
+### Art. 222.
+
+Odpowiedzialności karnej, przewidzianej w przepisach art. 215-221, podlega także ten, kto dopuszcza się czynów określonych w tych przepisach działając w imieniu osoby prawnej.
+
+### Rozdział 23 Zmiany w przepisach obowiązujących
+
+### Art. 223.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z [1965 r. Nr 15, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1965/113/text.html), z [1974 r. Nr 27, poz. 157](https://api.sejm.gov.pl/eli/acts/DU/1974/157/text.html) i [Nr 39, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1974/231/text.html), z [1975 r. Nr 45, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html), z [1982 r. Nr 11, poz. 82](https://api.sejm.gov.pl/eli/acts/DU/1982/82/text.html) i [Nr 30, poz. 210](https://api.sejm.gov.pl/eli/acts/DU/1982/210/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1984 r. Nr 45, poz. 241 i 242](https://api.sejm.gov.pl/eli/acts/DU/1984/241/text.html), z [1985 r. Nr 20, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 4, poz. 21](https://api.sejm.gov.pl/eli/acts/DU/1989/21/text.html) i [Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z [1990 r. Nr 14, poz. 88](https://api.sejm.gov.pl/eli/acts/DU/1990/88/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), [Nr 53, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html), [Nr 55, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.html), [Nr 79, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1990/464/text.html), z [1991 r. Nr 7, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1991/24/text.html), [Nr 22, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1993 r. Nr 12, poz. 53](https://api.sejm.gov.pl/eli/acts/DU/1993/53/text.html), z [1994 r. Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 83, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1995/417/text.html), z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 73, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 43, poz. 270](https://api.sejm.gov.pl/eli/acts/DU/1997/270/text.html), [Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), [Nr 113, poz. 752](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html) i [Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html)) w art. 476 w § 3 skreśla się kropkę i dodaje się wyrazy „oraz sprawy o roszczenia ze stosunków prawnych między członkami otwartych funduszy emerytalnych a tymi funduszami lub ich organami”.
+
+### Art. 224.
+
+W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych ([Dz. U. Nr 35, poz. 195](https://api.sejm.gov.pl/eli/acts/DU/1989/195/text.html), z [1992 r. Nr 75, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1992/368/text.html), z [1996 r. Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html) oraz z [1997 r. Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html)) w art. 7 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Ograniczeń określonych w ust. 1 nie stosuje się, jeżeli założycielami są wyłącznie towarzystwa emerytalne działające na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych.
+
+”
+
+### Art. 225.
+
+W ustawie z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej ([Dz. U. z 1996 r. Nr 11, poz. 62](https://api.sejm.gov.pl/eli/acts/DU/1996/62/text.html) oraz z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 107, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1997/685/text.html) i [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html)) w art. 10 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przepisu ust. 1 nie stosuje się do działalności akwizycyjnej na rzecz otwartych funduszy emerytalnych, prowadzonej przez zakład ubezpieczeń na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych.
+
+”
+
+### Art. 226.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 1993 r. Nr 90, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/1993/416/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html), [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html), [Nr 123, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1994/602/text.html) i [Nr 126, poz. 626](https://api.sejm.gov.pl/eli/acts/DU/1994/626/text.html), z [1995 r. Nr 5, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/1995/25/text.html) i [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html), z [1996 r. Nr 25, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1996/113/text.html), [Nr 87, poz. 395](https://api.sejm.gov.pl/eli/acts/DU/1996/395/text.html), [Nr 137, poz. 638](https://api.sejm.gov.pl/eli/acts/DU/1996/638/text.html), [Nr 147, poz. 686](https://api.sejm.gov.pl/eli/acts/DU/1996/686/text.html) i [Nr 156, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1996/776/text.html) oraz z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 30, poz. 164](https://api.sejm.gov.pl/eli/acts/DU/1997/164/text.html), [Nr 71, poz. 449](https://api.sejm.gov.pl/eli/acts/DU/1997/449/text.html), [Nr 85, poz. 538](https://api.sejm.gov.pl/eli/acts/DU/1997/538/text.html), [Nr 96, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/1997/592/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 123, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1997/776/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html) i [Nr 139, poz. 932 i 933](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)), wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem i dodaje pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+przychodów z tytułu podziału wspólnego majątku małżonków w wyniku ustania lub ograniczenia małżeńskiej wspólności majątkowej.
+
+” ;
+
+### 2)
+
+w art. 17:
+
+### a)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+dywidendy i inne przychody z tytułu udziału w zyskach osób prawnych, których podstawą uzyskania jest tytuł prawny w postaci udziałów (akcji) stanowiących kapitał osób prawnych, w tym również dywidendy z akcji złożonych przez członków pracowniczych funduszy emerytalnych na rachunkach ilościowych, oprocentowanie udziałów członkowskich z nadwyżki bilansowej (dochodu ogólnego) w spółdzielniach, przychody z tytułu podziału majątku likwidowanej spółki (spółdzielni), a także wartość dokonanych na rzecz udziałowców i akcjonariuszy nieodpłatnych lub częściowo odpłatnych świadczeń, ustaloną według zasad określonych w art. 12 ust. 3 i 3a,
+
+”
+
+### b)
+
+w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 i 8 w brzmieniu:
+
+„
+
+### 7)
+
+przychody z odpłatnego przeniesienia prawa poboru, w tym również ze zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w imieniu członka funduszu,
+
+### 8)
+
+przychody członków pracowniczych funduszy emerytalnych z tytułu przeniesienia akcji złożonych na rachunkach ilościowych do aktywów tych funduszy.
+
+” ;
+
+### 3)
+
+w art. 20 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się w szczególności: kwoty wypłacone po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub członkowi jego najbliższej rodziny, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, zasiłki pieniężne z ubezpieczenia społecznego, alimenty, z wyjątkiem alimentów na rzecz dzieci, stypendia, dotacje (subwencje) inne niż wymienione w art. 14, dopłaty, nagrody i inne nieodpłatne świadczenia nie należące do przychodów określonych w art. 12, 14 i 17 oraz przychody nie znajdujące pokrycia w ujawnionych źródłach.
+
+” ;
+
+### 4)
+
+w art. 21 w ust. 1 w pkt 57 kropkę zastępuje się przecinkiem i dodaje się pkt 58 i 59 w brzmieniu:
+
+„
+
+### 58)
+
+wypłaty środków z pracowniczego funduszu emerytalnego dokonane na rzecz członka tego funduszu,
+
+### 59)
+
+wypłaty środków z otwartego funduszu emerytalnego na rzecz byłego współmałżonka członka tego funduszu, przekazane na rachunek tego współmałżonka w otwartym funduszu emerytalnym.
+
+” ;
+
+### 5)
+
+w art. 22 po ust. 1b dodaje się ust. 1c w brzmieniu:
+
+„
+
+### 1c.
+
+U pracodawców będących akcjonariuszami pracowniczych towarzystw emerytalnych kosztami uzyskania przychodu są także:
+
+### 1)
+
+wydatki na pokrycie kosztów działalności pracowniczych towarzystw emerytalnych,
+
+### 2)
+
+opłaty pobierane przez Urząd Nadzoru nad Funduszami Emerytalnymi, o których mowa w przepisach o organizacji i funkcjonowaniu funduszy emerytalnych.
+
+” ;
+
+### 6)
+
+w art. 24:
+
+### a)
+
+w ust. 5 skreśla się kropkę i dodaje wyrazy „oraz dywidendy z akcji złożonych przez członków pracowniczych funduszy emerytalnych na rachunkach ilościowych.”,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Dochodem z tytułu przeniesienia akcji złożonych na rachunku ilościowym członka pracowniczego funduszu emerytalnego do aktywów tego funduszu jest różnica pomiędzy wartością tych akcji w dniu przeniesienia, wycenionych według zasad wyceny aktywów funduszy emerytalnych, a kosztem nabycia tych akcji.
+
+” ;
+
+### 7)
+
+w art. 30 w ust. 1 w pkt 8 kropkę zastępuje się przecinkiem i dodaje się pkt 9-11 w brzmieniu:
+
+„
+
+### 9)
+
+od kwot wypłacanych po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub członkowi jego najbliższej rodziny, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, z wyjątkiem wypłat, o których mowa w art. 21 ust. 1 pkt 59 - w wysokości 20% uzyskanego przychodu,
+
+### 10)
+
+od dochodu członka pracowniczego funduszu emerytalnego z tytułu przeniesienia akcji złożonych na rachunku ilościowym do aktywów tego funduszu - w wysokości 20% uzyskanego dochodu,
+
+### 11)
+
+od przychodów z tytułu zbycia prawa poboru akcji nowej emisji przez pracowniczy fundusz emerytalny w imieniu członka funduszu - w wysokości 20% uzyskanego przychodu.
+
+” ;
+
+### 8)
+
+w art. 41 po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:
+
+„
+
+### 4a.
+
+Otwarte fundusze emerytalne są obowiązane, jako płatnicy, pobierać zryczałtowany podatek dochodowy od wypłat, o których mowa w art. 30 ust. 1 pkt 9.
+
+### 4b.
+
+Pracownicze fundusze emerytalne są obowiązane, jako płatnicy, pobierać zryczałtowany podatek dochodowy od:
+
+### a)
+
+dochodów, o których mowa w art. 30 ust. 1 pkt 10;
+
+### b)
+
+przychodów, o których mowa w art. 30 ust. 1 pkt 11.
+
+”
+
+### Art. 227.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 1993 r. Nr 106, poz. 482](https://api.sejm.gov.pl/eli/acts/DU/1993/482/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1994/2/text.html), [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 80, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1994/368/text.html), [Nr 87, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1994/406/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html), [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html), [Nr 123, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1994/602/text.html) i [Nr 127, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/1994/627/text.html), z [1995 r. Nr 5, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/1995/25/text.html), [Nr 86, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/1995/433/text.html), [Nr 96, poz. 478](https://api.sejm.gov.pl/eli/acts/DU/1995/478/text.html), [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html) i [Nr 142, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1995/704/text.html), z [1996 r. Nr 25, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1996/113/text.html), [Nr 34, poz. 146](https://api.sejm.gov.pl/eli/acts/DU/1996/146/text.html), [Nr 90, poz. 405](https://api.sejm.gov.pl/eli/acts/DU/1996/405/text.html), [Nr 137, poz. 639](https://api.sejm.gov.pl/eli/acts/DU/1996/639/text.html) i [Nr 147, poz. 686](https://api.sejm.gov.pl/eli/acts/DU/1996/686/text.html) oraz z [1997 r. Nr 9, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/1997/44/text.html), [Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 96, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/1997/592/text.html), [Nr 107, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1997/685/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 123, poz. 776 i 777](https://api.sejm.gov.pl/eli/acts/DU/1997/776/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html) i [Nr 139, poz. 932 i 933](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6 w ust. 1 w pkt 10 kropkę zastępuje się przecinkiem i dodaje się pkt 11 w brzmieniu:
+
+„
+
+### 11)
+
+fundusze emerytalne utworzone na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych.
+
+” ,
+
+### 2)
+
+w art. 15 po ust. 1d dodaje się ust. 1e-1g w brzmieniu:
+
+„
+
+### 1e.
+
+W powszechnych towarzystwach emerytalnych kosztem uzyskania przychodów w roku podatkowym są koszty ustalone zgodnie z ust. 1, a także:
+
+### 1)
+
+wydatki poniesione na pokrycie kosztów działalności otwartego funduszu emerytalnego,
+
+### 2)
+
+kwoty przekazane na rachunek rezerwowy otwartego funduszu emerytalnego,
+
+### 3)
+
+wydatki poniesione na pokrycie niedoboru w otwartym funduszu emerytalnym, jeżeli środki zgromadzone na rachunku rezerwowym tego funduszu są niewystarczające na pokrycie tego niedoboru,
+
+### 4)
+
+wpłaty dokonane na Fundusz Gwarancyjny, o których mowa w ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934) - do wysokości określonej w odrębnych przepisach,
+
+### 5)
+
+opłaty pobierane przez Urząd Nadzoru nad Funduszami Emerytalnym, o których mowa w ustawie wymienionej w pkt 4.
+
+### 1f.
+
+W pracowniczych towarzystwach emerytalnych kosztem uzyskania przychodów w roku podatkowym są koszty ustalone zgodnie z ust. 1, a także:
+
+### 1)
+
+wydatki poniesione na pokrycie kosztów działalności pracowniczego funduszu emerytalnego,
+
+### 2)
+
+opłaty pobierane przez Urząd Nadzoru nad Funduszami Emerytalnymi, o których mowa w ustawie wymienionej w ust. 1e pkt 4.
+
+### 1g.
+
+U pracodawców będących akcjonariuszami pracowniczego towarzystwa emerytalnego kosztem uzyskania przychodów w roku podatkowym są koszty ustalone zgodnie z ust. 1, a także:
+
+### 1)
+
+wydatki poniesione na pokrycie kosztów działalności pracowniczego towarzystwa emerytalnego,
+
+### 2)
+
+opłaty pobierane przez Urząd Nadzoru nad Funduszami Emerytalnymi, o których mowa w ustawie wymienionej w ust. 1e pkt 4.
+
+” ;
+
+### 3)
+
+w art. 17 w ust. 1 dodaje się pkt 30 w brzmieniu:
+
+„
+
+### 30)
+
+dochody Funduszu Gwarancyjnego, o którym mowa w ustawie wymienionej w art. 15 ust. 1e pkt 4.
+
+”
+
+### Art. 228.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) oraz z [1997 r. Nr 32, poz. 183](https://api.sejm.gov.pl/eli/acts/DU/1997/183/text.html), [Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html) i [Nr 139, poz. 933](https://api.sejm.gov.pl/eli/acts/DU/1997/933/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+w pkt 3 wyraz „lub” zastępuje się przecinkiem,
+
+### b)
+
+po wyrazach „przepisów o działalności ubezpieczeniowej” dodaje się wyrazy „lub przepisów o organizacji i funkcjonowaniu funduszy emerytalnych”;
+
+### 2)
+
+w art. 64 w ust. 1 po pkt 2 dodaje się pkt 2a:
+
+„
+
+### 2a)
+
+jednostek działających na podstawie przepisów o organizacji i funkcjonowaniu funduszy emerytalnych,
+
+” ;
+
+### 3)
+
+w art. 81 w ust. 3 dodaje się pkt 5:
+
+„
+
+### 5)
+
+w porozumieniu z Prezesem Urzędu Nadzoru nad Funduszami Emerytalnymi szczególne zasady rachunkowości funduszy emerytalnych, w tym również wzory bilansu, rachunku zysków i strat, informacji dodatkowej i innych składników sprawozdania finansowego, terminy sporządzania i złożenia do ogłoszenia rocznych sprawozdań finansowych, zakres ogłaszanych rocznych sprawozdań finansowych oraz termin zatwierdzania rocznego sprawozdania finansowego.
+
+”
+
+### Rozdział 24 Przepisy przejściowe i końcowe
+
+### Art. 229.
+
+### 1.
+
+Do dnia 31 grudnia 2004 r. powszechne towarzystwo może zarządzać jednym otwartym funduszem działającym na zasadach określonych w ustawie.
+
+### 2.
+
+Od dnia 1 stycznia 2005 r. powszechne towarzystwo może zarządzać dwoma otwartymi funduszami oznaczonymi jako odpowiednio „otwarty fundusz emerytalny typu A” i „otwarty fundusz emerytalny typu B”.
+
+### 3.
+
+Otwarty fundusz prowadzący działalność lokacyjną, na zasadach określonych w rozdziale 15, jest obowiązany używać w swojej nazwie określenia „otwarty fundusz emerytalny typu A” nie później niż od dnia 1 stycznia 2005 r.
+
+### 4.
+
+Otwarty fundusz typu B nie może lokować swoich aktywów w kategoriach lokat wymienionych w art. 141 ust. 1 pkt 3-8, 10, 12 i 14 oraz w art. 143.
+
+### 5.
+
+Ustalanie średniej ważonej stopy zwroty oraz minimalnej wymaganej stopy zwrotu następuje odrębnie w odniesieniu do otwartego funduszu typu A i otwartego funduszu typu B.
+
+### 6.
+
+Ilekroć w niniejszej ustawie jest mowa o relacji wartości aktywów netto otwartego funduszu do wartości aktywów netto wszystkich otwartych funduszy począwszy od dnia 1 stycznia 2005 r., należy przez to rozumieć relację wartości aktywów netto otwartego funduszu określonego typu do wartości aktywów netto wszystkich otwartych funduszy tego samego typu.
+
+### 7.
+
+Uzyskanie członkostwa w otwartym funduszu typu B może nastąpić nie wcześniej niż po ukończeniu 50 lat.
+
+### Art. 230.
+
+Przy powoływaniu członków Komitetu Doradczego Urzędu Nadzoru na pierwszą kadencję Prezes Rady Ministrów określa, którzy z członków są powoływani na 2, 4 oraz 6 lat.
+
+### Art. 231.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem:
+
+### 1)
+
+art. 199-214 i art. 230, które wchodzą w życie z dniem 1 maja 1998 r.,
+
+### 2)
+
+art. 1-60, art. 147, 152, art. 157-164, art. 197, art. 215-222, które wchodzą w życie z dniem 1 sierpnia 1998 r.

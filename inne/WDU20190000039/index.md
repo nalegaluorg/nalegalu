@@ -8,9 +8,9 @@ pos: 39
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
+# Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,71 +22,276 @@ domain: null
 | Data ogłoszenia | 2018-12-14 |
 | Data wydania | 2019-01-09 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000039) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/39/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/39/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/39) |
 
-**Art. 1.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U.
+## Treść ustawy
 
-**Art. 2.** W ustawie 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin (Dz. U.
+### Art. 1.
 
-**Art. 3.** W ustawie 30 kwietnia 2004 świadczeniach przedemerytalnych (Dz. U. 2017 2148) wprowadza się następujące zmiany:
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2018 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2018/1270/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html)) w art. 85 ust. 1 i 2 otrzymują brzmienie:
 
-**Art. 4.** W ustawie 3 lipca – Przepisy wprowadzające ustawę – Prawo szkolnictwie wyższym nauce (Dz. U. 1669) 329 po dodaje się 1a brzmieniu: „1a. Doktoranci, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, nie podlegają obowiązkowo ubezpieczeniom emerytalnemu rentowym, których 6 pkt 7b ustawy zmienianej 42.”.
+„
 
-**Art. 5.**
+### 1.
 
-1. W 2019 waloryzacja od marca polega na podwyższeniu kwoty świadczenia, wysokości przysługującej dniu 28 lutego 2019 r., wskaźnikiem waloryzacji ustalonym zgodnie 89 ustawy zmienianej 1, nie mniej niż kwotę 70 zł.
+Kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:
 
-2. Waloryzacja podstawy wymiaru świadczenia Funduszu Ubezpieczeń Społecznych polega na pomnożeniu podstawy wymiaru świadczenia przez wskaźnik stanowiący iloraz zwaloryzowanej kwoty świadczenia Funduszu Ubezpieczeń Społecznych kwoty tego świadczenia ustalonej na dzień poprzedzający termin waloryzacji.
+### 1)
 
-3. Do waloryzacji podstawy wymiaru świadczeń wypłacanych na podstawie ustaw, których 6 pkt 3, przepis stosuje się odpowiednio.
+1100,00 zł miesięcznie - dla osób całkowicie niezdolnych do pracy;
 
-8. Kwoty maksymalnych zmniejszeń, których 104 8 ustawy zmienianej 1, oraz kwoty emerytur rent wolne od egzekucji potrąceń, których 141 ustawy zmienianej 1, podlegają od marca 2019 podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie 89 ustawy zmienianej
+### 2)
 
-1.
+825,00 zł miesięcznie - dla osób częściowo niezdolnych do pracy.
 
-**Art. 6.**
+### 2.
 
-1. Waloryzacji, 5, podlegają:
+Kwota najniższej emerytury, z zastrzeżeniem art. 24a ust. 6, art. 54, art. 54a ust. 2 i art. 87, oraz renty rodzinnej wynosi 1100,00 zł miesięcznie.
 
-- **1)** świadczenia ubezpieczenia emerytalno-rentowego, których 18 pkt 1–4 ustawy 20 grudnia 1990 ubezpieczeniu społecznym rolników (Dz. U. 2017 2336 oraz 650 858); świadczenia, których pkt lit. a–c ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. 2017 2225 oraz 138 730);
-- **3)** świadczenia, których pkt lit. a–c, oraz miesięczne kwoty, których 15c 3, 22a 3 24a ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin (Dz. U. 132, 138, 730 912);
-- **4)** emerytury renty, których 3 pkt 1–3 ustawy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych;
-- **5)** świadczenia, których 6 pkt 6–8 oraz 49, 50 52 ustawy 30 października 2002 ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych (Dz. U. 1376 1669);
-- **6)** świadczenia przedemerytalne zasiłki przedemerytalne, których ustawie 30 kwietnia 2004 świadczeniach przedemerytalnych;
-- **7)** okresowe emerytury kapitałowe, których 7 ustawy 21 listopada 2008 emeryturach kapitałowych (Dz. U. 926);
-- **8)** emerytury, których pkt ustawy 19 grudnia 2008 emeryturach pomostowych (Dz. U.
-- **1924)** ;
-- **9)** świadczenie, którym 5 ustawy 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych (Dz. U. 128);
-- **10)** okresowa emerytura rolnicza, 15 ustawy 11 maja 2012 zmianie ustawy emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. 637 oraz 2017 38).
+” .
 
-2. Waloryzacji od marca 2019 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie 89 ustawy zmienianej 1, podlegają:
+### Art. 2.
 
-- **1)** dodatek, którym 90 ustawy 26 stycznia 1982 – Karta Nauczyciela (Dz. U.
-- **967²²⁴⁵)** ; dodatek, którym 15 ustawy 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. U. 276);
-- **3)** świadczenie pieniężne, którym ustawy września 1994 świadczeniu pieniężnym uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu batalionach budowlanych (Dz. U. 2014 1373);
-- **4)** świadczenie pieniężne, którym 3 ustawy 31 maja 1996 osobach deportowanych do pracy przymusowej oraz osadzonych obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich (Dz. U. 2014 1001 oraz 1552);
+W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin ([Dz. U. z 2017 r. poz. 2193](https://api.sejm.gov.pl/eli/acts/DU/2017/2193/text.html)) w art. 11 ust. 1 otrzymuje brzmienie:
 
-3. Waloryzacja emerytury oraz renty ubezpieczenia społecznego rolników polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, którym 48 ustawy, 6 pkt 1, tym że kwota podwyżki świadczenia nie może być niższa niż kwota, 5
+„
 
-1.
+### 1.
 
-4. Przepis 48 2a 2b ustawy, 6 pkt 1, stosuje się odpowiednio.
+Podstawę wymiaru renty inwalidzkiej stanowi kwota 2629,17 zł.
 
-**Art. 8.** W 2019 zakresie uregulowanym 5 nie stosuje się:
+” .
 
-**Art. 9.**
+### Art. 3.
 
-1. Prezes Zakładu Ubezpieczeń Społecznych ogłosi, formie komunikatu, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, należne od tego terminu miesięczne kwoty, których 6 pkt 3, kwoty dodatków świadczeń, których 6 pkt 1–5, kwoty maksymalnych zmniejszeń oraz kwoty emerytur rent wolne od egzekucji potrąceń, których 5 8.
+W ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych ([Dz. U. z 2017 r. poz. 2148](https://api.sejm.gov.pl/eli/acts/DU/2017/2148/text.html)) wprowadza się następujące zmiany:
 
-2. W 2019 Prezes Zakładu Ubezpieczeń Społecznych nie wydaje komunikatów, których w:
+### 1)
 
-- **1)** 90 5 ustawy 26 stycznia 1982 – Karta Nauczyciela; 15 6 ustawy 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego;
-- **3)** 15c 10, 22a 9 24a 9 ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin;
-- **4)** 3 ustawy września 1994 świadczeniu pieniężnym uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu batalionach budowlanych;
-- **5)** 3 3 ustawy 31 maja 1996 osobach deportowanych do pracy przymusowej oraz osadzonych obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich;
-- **6)** 94 ustawy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych.
+w art. 3 ust. 1 otrzymuje brzmienie:
 
-**Art. 10.** W 2019 do świadczeń emerytalno-rentowych wypłacanych Funduszu Ubezpieczeń Społecznych Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się 29 10 52 pkt lit. b ustawy 27 sierpnia 2009 finansach publicznych (Dz. U. 2017 2077, późn. zm. ).
+„
 
-**Art. 11.** W 2019 upoważnia się Prezesa Zakładu Ubezpieczeń Społecznych do dokonania przeniesień planowanych wydatków między działami, rozdziałami paragrafami ramach części 73 – Zakład Ubezpieczeń Społecznych przeznaczeniem na waloryzację renty socjalnej.
+### 1.
 
+Kwota świadczenia przedemerytalnego wynosi 1140,99 zł miesięcznie, z wyjątkiem świadczeń dla osób, o których mowa w art. 2 ust. 1 pkt 4, których świadczenie nie może być wyższe niż ostatnio otrzymywana renta.
+
+” ;
+
+### 2)
+
+w art. 5 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku gdy w wyniku zmniejszenia, o którym mowa w ust. 3, kwota świadczenia przedemerytalnego byłaby niższa niż 570,50 zł, świadczenie przedemerytalne wynosi 570,50 zł, z zastrzeżeniem ust. 5. Do kwoty świadczenia przedemerytalnego w wysokości 570,50 zł art. 3 ust. 2 stosuje się odpowiednio.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce ([Dz. U. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html)) w art. 329 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Doktoranci, którzy rozpoczęli studia doktoranckie przed rokiem akademickim 2019/2020, nie podlegają obowiązkowo ubezpieczeniom emerytalnemu i rentowym, o których mowa w art. 6 ust. 1 pkt 7b ustawy zmienianej w art. 42.
+
+” .
+
+### Art. 5.
+
+### 1.
+
+W 2019 r. waloryzacja od dnia 1 marca polega na podwyższeniu kwoty świadczenia, w wysokości przysługującej w dniu 28 lutego 2019 r., wskaźnikiem waloryzacji ustalonym zgodnie z art. 89 ustawy zmienianej w art. 1, nie mniej niż o kwotę 70 zł.
+
+### 2.
+
+Waloryzacja podstawy wymiaru świadczenia z Funduszu Ubezpieczeń Społecznych polega na pomnożeniu podstawy wymiaru świadczenia przez wskaźnik stanowiący iloraz zwaloryzowanej kwoty świadczenia z Funduszu Ubezpieczeń Społecznych i kwoty tego świadczenia ustalonej na dzień poprzedzający termin waloryzacji.
+
+### 3.
+
+Do waloryzacji podstawy wymiaru świadczeń wypłacanych na podstawie ustaw, o których mowa w art. 6 ust. 1 pkt 2 i 3, przepis ust. 2 stosuje się odpowiednio.
+
+### 4.
+
+W przypadku świadczenia niższego od kwoty najniższego świadczenia, do którego nie ma zastosowania gwarancja wysokości najniższego świadczenia, o której mowa w art. 85 ustawy zmienianej w art. 1, waloryzacja polega na podwyższeniu kwoty świadczenia w wysokości przysługującej w dniu 28 lutego 2019 r. wskaźnikiem waloryzacji ustalonym zgodnie z art. 89 tej ustawy.
+
+### 5.
+
+W przypadku renty z tytułu częściowej niezdolności do pracy i renty inwalidzkiej III grupy kwota waloryzacji, o której mowa w ust. 1, wynosi nie mniej niż 52,50 zł.
+
+### 6.
+
+W przypadku emerytury częściowej kwota waloryzacji, o której mowa w ust. 1, wynosi nie mniej niż 35 zł.
+
+### 7.
+
+Jeżeli emerytura z Funduszu Ubezpieczeń Społecznych przysługuje łącznie z okresową emeryturą kapitałową, o której mowa w art. 6 ust. 1 pkt 7, każde z tych świadczeń podwyższa się w sposób określony w ust. 1, przy czym kwotę, o której mowa w ust. 1, ustala się proporcjonalnie do wysokości tych świadczeń.
+
+### 8.
+
+Kwoty maksymalnych zmniejszeń, o których mowa w art. 104 ust. 8 ustawy zmienianej w art. 1, oraz kwoty emerytur i rent wolne od egzekucji i potrąceń, o których mowa w art. 141 ust. 1 ustawy zmienianej w art. 1, podlegają od dnia 1 marca 2019 r. podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie z art. 89 ustawy zmienianej w art. 1.
+
+### Art. 6.
+
+### 1.
+
+Waloryzacji, o której mowa w art. 5, podlegają:
+
+### 1)
+
+świadczenia z ubezpieczenia emerytalno-rentowego, o których mowa w art. 18 pkt 1-4 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2017 r. poz. 2336](https://api.sejm.gov.pl/eli/acts/DU/2017/2336/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [858](https://api.sejm.gov.pl/eli/acts/DU/2018/858/text.html));
+
+### 2)
+
+świadczenia, o których mowa w art. 2 pkt 1 lit. a-c ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2017 r. poz. 2225](https://api.sejm.gov.pl/eli/acts/DU/2017/2225/text.html) oraz [z 2018 r. poz. 138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html));
+
+### 3)
+
+świadczenia, o których mowa w art. 2 ust. 1 pkt 1 lit. a-c, oraz miesięczne kwoty, o których mowa w art. 15c ust. 3, art. 22a ust. 3 i art. 24a ust. 2 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2018 r. poz. 132](https://api.sejm.gov.pl/eli/acts/DU/2018/132/text.html), [138](https://api.sejm.gov.pl/eli/acts/DU/2018/138/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html) i [912](https://api.sejm.gov.pl/eli/acts/DU/2018/912/text.html));
+
+### 4)
+
+emerytury i renty, o których mowa w art. 3 pkt 1-3 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+
+### 5)
+
+świadczenia, o których mowa w art. 6 ust. 1 pkt 6-8 oraz art. 49, art. 50 i art. 52 ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ([Dz. U. z 2018 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2018/1376/text.html) i [1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html));
+
+### 6)
+
+świadczenia przedemerytalne i zasiłki przedemerytalne, o których mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych;
+
+### 7)
+
+okresowe emerytury kapitałowe, o których mowa w art. 7 ust. 1 ustawy z dnia 21 listopada 2008 r. o emeryturach kapitałowych ([Dz. U. z 2018 r. poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2018/926/text.html));
+
+### 8)
+
+emerytury, o których mowa w art. 1 ust. 1 pkt 1 ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych ([Dz. U. z 2018 r. poz. 1924](https://api.sejm.gov.pl/eli/acts/DU/2018/1924/text.html));
+
+### 9)
+
+świadczenie, o którym mowa w art. 5 ust. 1 ustawy z dnia 22 maja 2009 r. o nauczycielskich świadczeniach kompensacyjnych ([Dz. U. z 2018 r. poz. 128](https://api.sejm.gov.pl/eli/acts/DU/2018/128/text.html));
+
+### 10)
+
+okresowa emerytura rolnicza, o której mowa w art. 15 ustawy z dnia 11 maja 2012 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw ([Dz. U. poz. 637](https://api.sejm.gov.pl/eli/acts/DU/2012/637/text.html) oraz [z 2017 r. poz. 38](https://api.sejm.gov.pl/eli/acts/DU/2017/38/text.html)).
+
+### 2.
+
+Waloryzacji od dnia 1 marca 2019 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie z art. 89 ustawy zmienianej w art. 1, podlegają:
+
+### 1)
+
+dodatek, o którym mowa w art. 90 ust. 1 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. z 2018 r. poz. 967](https://api.sejm.gov.pl/eli/acts/DU/2018/967/text.html) i [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html));
+
+### 2)
+
+dodatek, o którym mowa w art. 15 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ([Dz. U. z 2018 r. poz. 276](https://api.sejm.gov.pl/eli/acts/DU/2018/276/text.html));
+
+### 3)
+
+świadczenie pieniężne, o którym mowa w art. 2 ust. 1 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych ([Dz. U. z 2014 r. poz. 1373](https://api.sejm.gov.pl/eli/acts/DU/2014/1373/text.html));
+
+### 4)
+
+świadczenie pieniężne, o którym mowa w art. 3 ust. 1 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich ([Dz. U. z 2014 r. poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2014/1001/text.html) oraz [z 2018 r. poz. 1552](https://api.sejm.gov.pl/eli/acts/DU/2018/1552/text.html));
+
+### 5)
+
+dodatki, o których mowa w art. 75 ust. 2 i art. 76 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
+
+### 6)
+
+świadczenie pieniężne, o którym mowa w art. 9 ust. 1 ustawy z dnia 20 marca 2015 r. o działaczach opozycji antykomunistycznej oraz osobach represjonowanych z powodów politycznych ([Dz. U. z 2018 r. poz. 690](https://api.sejm.gov.pl/eli/acts/DU/2018/690/text.html)).
+
+### Art. 7.
+
+### 1.
+
+W 2019 r. emerytura podstawowa, o której mowa w art. 6 pkt 7 ustawy, o której mowa w art. 6 ust. 1 pkt 1, podlega podwyższeniu przy zastosowaniu wskaźnika waloryzacji ustalonego zgodnie z art. 89 ustawy zmienianej w art. 1.
+
+### 2.
+
+Prezes Kasy Rolniczego Ubezpieczenia Społecznego ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, zwaloryzowaną kwotę emerytury podstawowej, o której mowa w ust. 1.
+
+### 3.
+
+Waloryzacja emerytury oraz renty z ubezpieczenia społecznego rolników polega na pomnożeniu zwaloryzowanej kwoty emerytury podstawowej przez wskaźnik wymiaru świadczenia, o którym mowa w art. 48 ust. 1 ustawy, o której mowa w art. 6 ust. 1 pkt 1, z tym że kwota podwyżki świadczenia nie może być niższa niż kwota, o której mowa w art. 5 ust. 1.
+
+### 4.
+
+Przepis art. 48 ust. 2a i 2b ustawy, o której mowa w art. 6 ust. 1 pkt 1, stosuje się odpowiednio.
+
+### Art. 8.
+
+W 2019 r. w zakresie uregulowanym w art. 5 nie stosuje się:
+
+### 1)
+
+art. 88 ustawy, o której mowa w art. 1;
+
+### 2)
+
+art. 48a ustawy, o której mowa w art. 6 ust. 1 pkt 1;
+
+### 3)
+
+art. 6 ustawy, o której mowa w art. 6 ust. 1 pkt 2;
+
+### 4)
+
+art. 6, art. 15c ust. 9, art. 22a ust. 8 i art. 24a ust. 8 ustawy, o której mowa w art. 6 ust. 1 pkt 3.
+
+### Art. 9.
+
+### 1.
+
+Prezes Zakładu Ubezpieczeń Społecznych ogłosi, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, co najmniej na 7 dni roboczych przed najbliższym terminem waloryzacji, należne od tego terminu miesięczne kwoty, o których mowa w art. 6 ust. 1 pkt 3, kwoty dodatków i świadczeń, o których mowa w art. 6 ust. 2 pkt 1-5, kwoty maksymalnych zmniejszeń oraz kwoty emerytur i rent wolne od egzekucji i potrąceń, o których mowa w art. 5 ust. 8.
+
+### 2.
+
+W 2019 r. Prezes Zakładu Ubezpieczeń Społecznych nie wydaje komunikatów, o których mowa w:
+
+### 1)
+
+art. 90 ust. 5 ustawy z dnia 26 stycznia 1982 r. - Karta Nauczyciela;
+
+### 2)
+
+art. 15 ust. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego;
+
+### 3)
+
+art. 15c ust. 10, art. 22a ust. 9 i art. 24a ust. 9 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin;
+
+### 4)
+
+art. 2 ust. 3 ustawy z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych;
+
+### 5)
+
+art. 3 ust. 3 ustawy z dnia 31 maja 1996 r. o osobach deportowanych do pracy przymusowej oraz osadzonych w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich;
+
+### 6)
+
+art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+### Art. 10.
+
+W 2019 r. do świadczeń emerytalno-rentowych wypłacanych z Funduszu Ubezpieczeń Społecznych i Funduszu Emerytur Pomostowych, którymi dysponuje Zakład Ubezpieczeń Społecznych, oraz świadczeń emerytalno-rentowych wypłacanych z Funduszu Emerytalno-Rentowego, którym dysponuje Prezes Kasy Rolniczego Ubezpieczenia Społecznego, nie stosuje się art. 29 ust. 10 i art. 52 ust. 2 pkt 2 lit. b ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2017 r. poz. 2077](https://api.sejm.gov.pl/eli/acts/DU/2017/2077/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.](#gloss-0:2:)).
+
+### Art. 11.
+
+W 2019 r. upoważnia się Prezesa Zakładu Ubezpieczeń Społecznych do dokonania przeniesień planowanych wydatków między działami, rozdziałami i paragrafami w ramach części 73 - Zakład Ubezpieczeń Społecznych z przeznaczeniem na waloryzację renty socjalnej.
+
+### Art. 12.
+
+Ustawa wchodzi w życie z dniem 1 marca 2019 r., z wyjątkiem art. 4, art. 7 ust. 2 i art. 9, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, ustawę z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych oraz ustawę z dnia 3 lipca 2018 r. - Przepisy wprowadzające ustawę - Prawo o szkolnictwie wyższym i nauce. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 62, 1000, 1366, 1669, 1693, 2245, 2354 i 2500.

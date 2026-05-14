@@ -8,11 +8,9 @@ pos: 168
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# Kodeks postępowania administracyjnego
-
-*USTAWA z dnia 14 czerwca 1960 r.*
+# Ustawa z dnia 14 czerwca 1960 r.Kodeks postępowania administracyjnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,2115 +22,1992 @@ domain: null
 | Data ogłoszenia | 1960-06-14 |
 | Data wydania | 1960-06-25 |
 | Ostatnia zmiana | 2025-12-12 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1960/168/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1960/168/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1960/168) |
 
-Art. 164–179. (uchylone)
+## Spis treści
 
-### DZIAŁ I Przepisy ogólne
+- [Treść ustawy](#part_1) [Dział I - Przepisy ogólne](#bran_I) [Rozdział 1 - Zasady ogólne](#bran_I-chpt_1) [Rozdział 2 - Organy wyższego stopnia i organy naczelne](#bran_I-chpt_2) [Rozdział 3 - Właściwość organów](#bran_I-chpt_3) [Rozdział 4 - Wyłączenie pracownika oraz organu](#bran_I-chpt_4) [Rozdział 5 - Strona](#bran_I-chpt_5) [Rozdział 6 - Załatwianie spraw](#bran_I-chpt_6) [Rozdział 7 - Doręczenia](#bran_I-chpt_7) [Rozdział 8 - Wezwania](#bran_I-chpt_8) [Rozdział 9 - Terminy](#bran_I-chpt_9) [Dział II - Postępowanie](#bran_II) [Rozdział 1 - Wszczęcie postępowania](#bran_II-chpt_1) [Rozdział 2 - Protokoły i adnotacje](#bran_II-chpt_2) [Rozdział 3 - Udostępnianie akt](#bran_II-chpt_3) [Rozdział 4 - Dowody](#bran_II-chpt_4) [Rozdział 5 - Rozprawa](#bran_II-chpt_5) [Rozdział 6 - Zawieszenie postępowania](#bran_II-chpt_6) [Rozdział 7 - Decyzje](#bran_II-chpt_7) [Rozdział 8 - Postanowienia](#bran_II-chpt_8) [Rozdział 9 - Odwołania](#bran_II-chpt_9) [Rozdział 10 - Zażalenia](#bran_II-chpt_10) [Rozdział 11 - Wznowienie postępowania](#bran_II-chpt_11) [Rozdział 12 - Uchylenie i zmiana decyzji](#bran_II-chpt_12) [Dział III - Udział prokuratora](#bran_III) [Dział IV - Skargi i wnioski](#bran_IV) [Rozdział 1 - Przepisy ogólne](#bran_IV-chpt_1) [Rozdział 2 - Skargi](#bran_IV-chpt_2) [Rozdział 3 - Wnioski](#bran_IV-chpt_3) [Rozdział 4 - Udział prasy i organizacji społecznych](#bran_IV-chpt_4) [Dział V - Opłaty i koszty postępowania](#bran_V) [Dział VI - Przepisy wprowadzające i końcowe](#bran_VI)
 
-#### Rozdział 1 Zakres obowiązywania
+TOC
 
-**Art. 1.** Kodeks postępowania administracyjnego normuje:
+## Treść ustawy
 
-**Art. 2.** Kodeks postępowania administracyjnego normuje ponadto postępowanie w sprawie skarg i wniosków (Dział VIII) przed organami państwowymi, organami jednostek samorządu terytorialnego oraz przed organami organizacji społecznych.
+### Dział I Przepisy ogólne
 
-**Art. 2a.**
+### Rozdział 1 Zasady ogólne
 
-§ 1. Kodeks postępowania administracyjnego normuje również sposób wykonywania obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2016/679”, w postępowaniach wymienionych w art. 1 i art. 2.
+### Art. 1.
 
-§ 2. Wykonywanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, odbywa się niezależnie od obowiązków organów administracji publicznej przewidzianych w Kodeksie postępowania administracyjnego i nie wpływa na tok i wynik postępowania.
+Kodeks postępowania administracyjnego normuje postępowanie w indywidualnych sprawach z zakresu administracji państwowej.
 
-§ 3. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie wpływa na tok i wynik postępowania.
+### Art. 2.
 
-**Art. 3.**
+### § 1.
 
-§ 1. Przepisów Kodeksu postępowania administracyjnego nie stosuje się do:
+Kodeks normuje postępowanie przed organami administracji państwowej.
 
-- **1)** postępowania w sprawach karnych skarbowych;
-- **2)** spraw uregulowanych w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z wyjątkiem przepisów działów IV i VIII.
+### § 2.
 
-§ 2. Przepisów Kodeksu postępowania administracyjnego nie stosuje się również do postępowania w sprawach:
+Kodeks stosuje się również w postępowaniu przed organami:
 
-- **1)** (uchylony)
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** należących do właściwości polskich przedstawicielstw dyplomatycznych i urzędów konsularnych, o ile przepisy szczególne nie stanowią inaczej.
+### 1)
 
-§ 3. Przepisów Kodeksu postępowania administracyjnego nie stosuje się także do postępowania w sprawach wynikających z:
+przedsiębiorstw państwowych i innych państwowych jednostek organizacyjnych,
 
-- **1)** nadrzędności i podległości organizacyjnej w stosunkach między organami państwowymi i innymi państwowymi jednostkami organizacyjnymi,
-- **2)** podległości służbowej pracowników organów i jednostek organizacyjnych wymienionych w pkt 1, o ile przepisy szczególne nie stanowią inaczej.
+### 2)
 
-§ 4. Do postępowania w sprawach wymienionych w § 1, 2 i 3 pkt 2 stosuje się jednak przepisy działu VIII.
+organizacji zawodowych, samorządowych, spółdzielczych i innych organizacji społecznych
 
-§ 5. Rada Ministrów w drodze rozporządzenia może rozciągnąć przepisy Kodeksu postępowania administracyjnego w całości lub w części na postępowania w sprawach wymienionych w § 2.
+- gdy organy te są powołane z mocy prawa do załatwiania spraw określonych w art. 1.
 
-**Art. 4.** Kodeks postępowania administracyjnego nie narusza szczególnych uprawnień wynikających z immunitetu dyplomatycznego i konsularnego oraz umów i zwyczajów międzynarodowych.
+### § 3.
 
-**Art. 5.**
+Ilekroć w dalszych przepisach kodeksu jest mowa o organach administracji państwowej, rozumie się przez nie także organy wymienione w § 2.
 
-§ 1. Jeżeli przepis prawa powołuje się ogólnie na przepisy o postępowaniu administracyjnym, rozumie się przez to przepisy Kodeksu postępowania administracyjnego.
+### Art. 3.
 
-§ 2. Ilekroć w przepisach Kodeksu postępowania administracyjnego jest mowa o:
+Kodeks reguluje ponadto postępowanie przed organami władzy i administracji państwowej oraz przed innymi organami państwowymi w sprawie skarg i wniosków (dział IV).
 
-- **1)** kodeksie – rozumie się przez to Kodeks postępowania administracyjnego;
-- **2)** (uchylony)
-- **3)** organach administracji publicznej – rozumie się przez to ministrów, centralne organy administracji rządowej, wojewodów, działające w ich lub we własnym imieniu inne terenowe organy administracji rządowej (zespolonej i niezespolonej), organy jednostek samorządu terytorialnego oraz organy i podmioty wymienione w art. 1 pkt 2;
-- **4)** ministrach – rozumie się przez to Prezesa i wiceprezesa Rady Ministrów pełniących funkcję ministra kierującego określonym działem administracji rządowej, ministrów kierujących określonym działem administracji rządowej, przewodniczących komitetów wchodzących w skład Rady Ministrów, kierowników centralnych urzędów administracji rządowej podległych, podporządkowanych lub nadzorowanych przez Prezesa Rady Ministrów lub właściwego ministra, a także kierowników innych równorzędnych urzędów państwowych załatwiających sprawy, o których mowa w art. 1 pkt 1 i 4;
-- **5)** organizacjach społecznych – rozumie się przez to organizacje zawodowe, samorządowe, spółdzielcze i inne organizacje społeczne;
-- **6)** organach jednostek samorządu terytorialnego – rozumie się przez to organy gminy, powiatu, województwa, związków gmin, związków powiatów, wójta, burmistrza (prezydenta miasta), starostę, marszałka województwa oraz kierowników służb, inspekcji i straży działających w imieniu wójta, burmistrza (prezydenta miasta), starosty lub marszałka województwa, a ponadto samorządowe kolegia odwoławcze.
+### Art. 4.
 
-#### Rozdział 2 Zasady ogólne
+Organy administracji państwowej działają na podstawie przepisów prawa kierując się interesem ludu pracującego i zadaniami budownictwa socjalistycznego.
 
-**Art. 6.** Organy administracji publicznej działają na podstawie przepisów prawa.
+### Art. 5.
 
-**Art. 7.** W toku postępowania organy administracji publicznej stoją na straży praworządności, z urzędu lub na wniosek stron podejmują wszelkie czynności niezbędne do dokładnego wyjaśnienia stanu faktycznego oraz do załatwienia sprawy, mając na względzie interes społeczny i słuszny interes obywateli.
+W toku postępowania organy administracji państwowej stoją na straży praworządności ludowej i podejmują wszelkie kroki niezbędne do dokładnego wyjaśnienia stanu faktycznego oraz do załatwienia sprawy, mając na względzie interes społeczny i słuszny interes obywateli.
 
-**Art. 7a.**
+### Art. 6.
 
-§ 1. Jeżeli przedmiotem postępowania administracyjnego jest nałożenie na stronę obowiązku bądź ograniczenie lub odebranie stronie uprawnienia, a w sprawie pozostają wątpliwości co do treści normy prawnej, wątpliwości te są rozstrzygane na korzyść strony, chyba że sprzeciwiają się temu sporne interesy stron albo interesy osób trzecich, na które wynik postępowania ma bezpośredni wpływ.
+Organy administracji państwowej powinny prowadzić postępowanie w taki sposób, aby pogłębić zaufanie obywateli do organów Państwa.
 
-§ 2. Przepisu § 1 nie stosuje się:
+### Art. 7.
 
-- **1)** jeżeli wymaga tego ważny interes publiczny, w tym istotne interesy państwa, a w szczególności jego bezpieczeństwa, obronności lub porządku publicznego;
-- **2)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych.
+Organy administracji państwowej w toku postępowania czuwają nad tym, aby strony nie poniosły szkody z powodu nieznajomości przepisów prawa i w tym celu udzielają stronom niezbędnych wyjaśnień i wskazówek.
 
-**Art. 7b.** W toku postępowania organy administracji publicznej współdziałają ze sobą w zakresie niezbędnym do dokładnego wyjaśnienia stanu faktycznego i prawnego sprawy, mając na względzie interes społeczny i słuszny interes obywateli oraz sprawność postępowania, przy pomocy środków adekwatnych do charakteru, okoliczności i stopnia złożoności sprawy.
+### Art. 8.
 
-**Art. 8.**
+### § 1.
 
-§ 1. Organy administracji publicznej prowadzą postępowanie w sposób budzący zaufanie jego uczestników do władzy publicznej, kierując się zasadami proporcjonalności, bezstronności i równego traktowania.
+Przed wydaniem decyzji organy administracji państwowej powinny umożliwić stronom wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
 
-§ 2. Organy administracji publicznej bez uzasadnionej przyczyny nie odstępują od utrwalonej praktyki rozstrzygania spraw w takim samym stanie faktycznym i prawnym.
+### § 2.
 
-**Art. 9.** Organy administracji publicznej są obowiązane do należytego i wyczerpującego informowania stron o okolicznościach faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków będących przedmiotem postępowania administracyjnego. Organy czuwają nad tym, aby strony i inne osoby uczestniczące w postępowaniu nie poniosły szkody z powodu nieznajomości prawa, i w tym celu udzielają im niezbędnych wyjaśnień i wskazówek.
+Organy administracji państwowej mogą odstąpić od zasady określonej w § 1 tylko w przypadkach, gdy załatwienie sprawy nie cierpi zwłoki ze względu na niebezpieczeństwo dla życia lub zdrowia ludzkiego albo ze względu na grożącą niepowetowaną szkodę materialną.
 
-**Art. 10.**
+### Art. 9.
 
-§ 1. Organy administracji publicznej obowiązane są zapewnić stronom czynny udział w każdym stadium postępowania, a przed wydaniem decyzji umożliwić im wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
+Organy administracji państwowej powinny wyjaśniać stronom zasadność przesłanek, którymi kierują się przy załatwieniu sprawy, aby w ten sposób w miarę możności doprowadzić do wykonania przez strony decyzji bez potrzeby stosowania środków przymusu.
 
-§ 2. Organy administracji publicznej mogą odstąpić od zasady określonej w § 1 tylko w przypadkach, gdy załatwienie sprawy nie cierpi zwłoki ze względu na niebezpieczeństwo dla życia lub zdrowia ludzkiego albo ze względu na grożącą niepowetowaną szkodę materialną.
+### Art. 10.
 
-§ 3. Organ administracji publicznej obowiązany jest utrwalić w aktach sprawy, w drodze adnotacji, przyczyny odstąpienia od zasady określonej w § 1.
+### § 1.
 
-**Art. 11.** Organy administracji publicznej powinny wyjaśniać stronom zasadność przesłanek, którymi kierują się przy załatwieniu sprawy, aby w ten sposób w miarę możności doprowadzić do wykonania przez strony decyzji bez potrzeby stosowania środków przymusu.
+Organy administracji państwowej powinny działać w sprawie wnikliwie i szybko, posługując się możliwie najprostszymi środkami prowadzącymi do jej załatwienia.
 
-**Art. 12.**
+### § 2.
 
-§ 1. Organy administracji publicznej powinny działać w sprawie wnikliwie i szybko, posługując się możliwie najprostszymi środkami prowadzącymi do jej załatwienia.
+Sprawy, które nie wymagają zbierania dowodów, informacji lub wyjaśnień, powinny być załatwione niezwłocznie.
 
-§ 2. Sprawy, które nie wymagają zbierania dowodów, informacji lub wyjaśnień, powinny być załatwione niezwłocznie.
+### Art. 11.
 
-**Art. 13.**
+### § 1.
 
-§ 1. Organy administracji publicznej w sprawach, których charakter na to pozwala, dążą do polubownego rozstrzygania kwestii spornych oraz ustalania praw i obowiązków będących przedmiotem postępowania w należących do ich właściwości sprawach, w szczególności przez podejmowanie czynności:
+Sprawy należy załatwiać w formie pisemnej.
 
-- **1)** skłaniających strony do zawarcia ugody, w sprawach, w których uczestniczą strony o spornych interesach;
-- **2)** niezbędnych do przeprowadzenia mediacji.
+### § 2.
 
-§ 2. Organy administracji publicznej podejmują wszystkie uzasadnione na danym etapie postępowania czynności umożliwiające przeprowadzenie mediacji lub zawarcie ugody, a w szczególności udzielają wyjaśnień o możliwościach i korzyściach polubownego załatwienia sprawy.
+Sprawy mogą być załatwiane ustnie, gdy przemawia za tym interes strony, a przepis prawny nie stoi temu na przeszkodzie. Treść oraz istotne motywy takiego załatwienia powinny być utrwalone w aktach w formie protokołu lub podpisanej przez stronę adnotacji.
 
-**Art. 14.**
+### Art. 12.
 
-§ 1. (uchylony) § 1a. Sprawy należy prowadzić i załatwiać na piśmie utrwalonym w postaci papierowej lub elektronicznej. Pisma utrwalone w postaci papierowej opatruje się podpisem własnoręcznym. Pisma utrwalone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym lub kwalifikowaną pieczęcią elektroniczną organu administracji publicznej ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią.
+Decyzje, od których nie służy odwołanie w administracyjnym toku instancji, są ostateczne i mogą być uchylane lub zmieniane tylko w przypadkach przewidzianych w kodeksie.
 
-§ 1b. Sprawy mogą być załatwiane z wykorzystaniem pism generowanych automatycznie i opatrzonych kwalifikowaną pieczęcią elektroniczną organu administracji publicznej. W przypadku pism generowanych automatycznie przepisów o konieczności opatrzenia pisma podpisem pracownika organu administracji publicznej nie stosuje się.
+### Rozdział 2 Organy wyższego stopnia i organy naczelne
 
-§ 1c. Sprawy mogą być załatwiane z wykorzystaniem usług online udostępnianych przez organy administracji publicznej po uwierzytelnieniu strony lub innego uczestnika postępowania w sposób określony w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 1557 i 1717 oraz z 2025 r. poz. 1006, 1019, 1158 i
+### Art. 13.
 
-- **1301)** .
+Organami wyższego stopnia w rozumieniu kodeksu są:
 
-§ 1d. Pisma kierowane do organów administracji publicznej mogą być sporządzane na piśmie utrwalonym w postaci papierowej lub elektronicznej. Do opatrywania ich podpisami i pieczęciami stosuje się przepisy § 1a i 1b.
+### 1)
 
-§ 2. Sprawy mogą być załatwiane ustnie, telefonicznie, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) lub za pomocą innych środków łączności, gdy przemawia za tym interes strony, a przepis prawny nie stoi temu na przeszkodzie. Treść oraz istotne motywy takiego załatwienia powinny być utrwalone w aktach w formie protokołu lub podpisanej przez stronę adnotacji.
+w stosunku do prezydiów rad narodowych - prezydia rad narodowych wyższego stopnia, w stosunku zaś do prezydiów wojewódzkich rad narodowych - Rada Ministrów z zastrzeżeniem przepisu art. 110 § 4,
 
-**Art. 14a.** Organy administracji publicznej umożliwiają stronom ocenę działania urzędów kierowanych przez te organy, w tym pracowników tych urzędów.
+### 2)
 
-**Art. 15.** Postępowanie administracyjne jest dwuinstancyjne, chyba że przepis szczególny stanowi inaczej.
+w stosunku do organów administracyjnych prezydiów rad narodowych - odpowiednie organy prezydiów rad narodowych wyższego stopnia i właściwi ministrowie,
 
-**Art. 16.**
+### 3)
 
-§ 1. Decyzje, od których nie służy odwołanie w administracyjnym toku instancji lub wniosek o ponowne rozpatrzenie sprawy, są ostateczne. Uchylenie lub zmiana takich decyzji, stwierdzenie ich nieważności oraz wznowienie postępowania może nastąpić tylko w przypadkach przewidzianych w kodeksie lub ustawach szczególnych.
+w stosunku do innych organów administracji państwowej, przedsiębiorstw państwowych i innych podstawowych jednostek organizacyjnych - odpowiednie organy nadrzędne i właściwi ministrowie,
 
-§ 2. Decyzje mogą być zaskarżane do sądu administracyjnego z powodu ich niezgodności z prawem, na zasadach i w trybie określonych w odrębnych ustawach.
+### 4)
 
-§ 3. Decyzje ostateczne, których nie można zaskarżyć do sądu, są prawomocne.
+w stosunku do organów organizacji wymienionych w art. 2 § 2 pkt 2 - odpowiedni organ wyższego stopnia tych organizacji, a w razie jego braku - organ państwowy sprawujący nadzór nad ich działalnością.
 
-#### Rozdział 3 Organy wyższego stopnia i organy naczelne
+### Art. 14.
 
-**Art. 17.** Organami wyższego stopnia w rozumieniu kodeksu są:
+Organami naczelnymi w rozumieniu kodeksu są:
 
-**Art. 18.** Organami naczelnymi w rozumieniu kodeksu są:
+### 1)
 
-#### Rozdział 4 Właściwość organów
+w stosunku do prezydiów rad narodowych - Rada Ministrów, w stosunku do organów administracyjnych prezydiów rad narodowych oraz do innych organów administracji państwowej, przedsiębiorstw państwowych i innych państwowych jednostek organizacyjnych - właściwi ministrowie,
 
-**Art. 19.** Organy administracji publicznej przestrzegają z urzędu swojej właściwości rzeczowej i miejscowej.
+### 2)
 
-**Art. 20.** Właściwość rzeczową organu administracji publicznej ustala się według przepisów o zakresie jego działania.
+w stosunku do organów organizacji wymienionych w art. 2 § 2 pkt 2 - naczelny organ tych organizacji lub naczelny organ administracji państwowej, jeżeli sprawuje zwierzchni nadzór nad ich działalnością.
 
-**Art. 21.**
+### Rozdział 3 Właściwość organów
 
-§ 1. Właściwość miejscową organu administracji publicznej ustala się:
+### Art. 15.
 
-- **1)** w sprawach dotyczących nieruchomości – według miejsca jej położenia; jeżeli nieruchomość położona jest na obszarze właściwości dwóch lub więcej organów, orzekanie należy do organu, na którego obszarze znajduje się większa część nieruchomości;
-- **2)** w sprawach dotyczących prowadzenia zakładu pracy – według miejsca, w którym zakład pracy jest, był lub ma być prowadzony;
-- **3)** w innych sprawach – według miejsca zamieszkania (siedziby) w kraju, a w braku zamieszkania w kraju – według miejsca pobytu strony lub jednej ze stron; jeżeli żadna ze stron nie ma w kraju zamieszkania (siedziby) lub pobytu – według miejsca ostatniego ich zamieszkania (siedziby) lub pobytu w kraju.
+Organy administracji państwowej przestrzegają z urzędu swojej właściwości rzeczowej i miejscowej.
 
-§ 2. Jeżeli nie można ustalić właściwości miejscowej w sposób wskazany w § 1, sprawa należy do organu właściwego dla miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania, albo w razie braku ustalenia takiego miejsca – do organu właściwego dla obszaru dzielnicy Śródmieście w m.st. Warszawie.
+### Art. 16.
 
-**Art. 22.**
+### § 1.
 
-§ 1. Spory o właściwość rozstrzygają:
+Właściwość rzeczową organu administracji państwowej ustala się według przepisów o zakresie jego działania.
 
-- **1)** między organami jednostek samorządu terytorialnego, z wyjątkiem przypadków określonych w pkt 2–4 – wspólny dla nich organ wyższego stopnia, a w razie braku takiego organu – sąd administracyjny;
-- **2)** między kierownikami służb, inspekcji i straży administracji zespolonej tego samego powiatu, działających w imieniu własnym lub w imieniu starosty – starosta;
-- **3)** między organami administracji zespolonej w jednym województwie niewymienionymi w pkt 2 – wojewoda;
-- **4)** między organami jednostek samorządu terytorialnego w różnych województwach w sprawach należących do zadań z zakresu administracji rządowej – minister właściwy do spraw administracji publicznej;
-- **5)** (uchylony)
-- **6)** między wojewodami oraz organami administracji zespolonej w różnych województwach – minister właściwy do spraw administracji publicznej;
-- **7)** między wojewodą a organami administracji niezespolonej – minister właściwy do spraw administracji publicznej po porozumieniu z organem sprawującym nadzór nad organem pozostającym w sporze z wojewodą;
-- **8)** między organami administracji publicznej innymi niż wymienione w pkt 1–4, 6 i 7 – wspólny dla nich organ wyższego stopnia, a w razie braku takiego organu – minister właściwy do spraw administracji publicznej;
-- **9)** między organami administracji publicznej, gdy jednym z nich jest minister – Prezes Rady Ministrów.
+### § 2.
 
-§ 2. Spory kompetencyjne między organami jednostek samorządu terytorialnego a organami administracji rządowej rozstrzyga sąd administracyjny.
+Jeżeli nie można ustalić właściwości rzeczowej w sposób wskazany w § 1, właściwy jest organ prezydium powiatowej rady narodowej, wyznaczony przez to prezydium.
 
-§ 3. Z wnioskiem o rozpatrzenie sporu przez sąd administracyjny może wystąpić:
+### Art. 17.
 
-- **1)** strona;
-- **2)** organ jednostki samorządu terytorialnego lub inny organ administracji publicznej, pozostające w sporze;
-- **3)** minister właściwy do spraw administracji publicznej;
-- **4)** minister właściwy do spraw sprawiedliwości, Prokurator Generalny;
-- **5)** Rzecznik Praw Obywatelskich.
+### § 1.
 
-**Art. 23.** Do czasu rozstrzygnięcia sporu o właściwość organ administracji publicznej, na którego obszarze wynikła sprawa, podejmuje tylko czynności niecierpiące zwłoki ze względu na interes społeczny lub słuszny interes obywateli i zawiadamia o tym organ właściwy do rozstrzygnięcia sporu.
+Właściwość miejscową organu administracji państwowej ustala się:
 
-#### Rozdział 5 Wyłączenie pracownika oraz organu
+### 1)
 
-**Art. 24.**
+w sprawach dotyczących nieruchomości - według miejsca jej położenia,
 
-§ 1. Pracownik organu administracji publicznej podlega wyłączeniu od udziału w postępowaniu w sprawie:
+### 2)
 
-- **1)** w której jest stroną albo pozostaje z jedną ze stron w takim stosunku prawnym, że wynik sprawy może mieć wpływ na jego prawa lub obowiązki;
-- **2)** swego małżonka oraz krewnych i powinowatych do drugiego stopnia;
-- **3)** osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli;
-- **4)** w której był świadkiem lub biegłym albo był lub jest przedstawicielem jednej ze stron, albo w której przedstawicielem strony jest jedna z osób wymienionych w pkt 2 i 3;
-- **5)** w której brał udział w wydaniu zaskarżonej decyzji;
-- **6)** z powodu której wszczęto przeciw niemu dochodzenie służbowe, postępowanie dyscyplinarne lub karne;
-- **7)** w której jedną ze stron jest osoba pozostająca wobec niego w stosunku nadrzędności służbowej.
+w sprawach dotyczących prowadzenia zakładu pracy - według miejsca, w którym zakład pracy jest, był lub ma być prowadzony,
 
-§ 2. Powody wyłączenia pracownika od udziału w postępowaniu trwają także po ustaniu małżeństwa (§ 1 pkt 2), przysposobienia, opieki lub kurateli (§ 1 pkt 3).
+### 3)
 
-§ 3. Bezpośredni przełożony pracownika jest obowiązany na jego żądanie lub na żądanie strony albo z urzędu wyłączyć go od udziału w postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności niewymienionych w § 1, które mogą wywołać wątpliwość co do bezstronności pracownika.
+w innych sprawach - według miejsca zamieszkania (siedziby) w kraju, a w braku zamieszkania w kraju - według miejsca pobytu strony lub jednej ze stron; jeżeli żadna ze stron nie ma w kraju zamieszkania (siedziby) lub pobytu - według miejsca ostatniego ich zamieszkania (siedziby) lub pobytu w kraju.
 
-§ 4. Wyłączony pracownik powinien podejmować tylko czynności niecierpiące zwłoki ze względu na interes społeczny lub ważny interes stron.
+### § 2.
 
-**Art. 25.**
+Jeżeli nie można ustalić właściwości miejscowej w sposób wskazany w § 1, sprawa należy do organu właściwego dla miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania, albo w razie braku ustalenia takiego miejsca - do organu, właściwego dla obszaru dzielnicy Śródmieście w m. st. Warszawie.
 
-§ 1. Organ administracji publicznej podlega wyłączeniu od załatwienia sprawy dotyczącej interesów majątkowych:
+### Art. 18.
 
-- **1)** jego kierownika lub osób pozostających z tym kierownikiem w stosunkach określonych w art. 24 § 1 pkt 2 i 3;
-- **2)** osoby zajmującej stanowisko kierownicze w organie bezpośrednio wyższego stopnia lub osób pozostających z nim w stosunkach określonych w art. 24 § 1 pkt 2 i 3.
+Spory o właściwość rozstrzyga:
 
-§ 2. Przepis art. 24 § 4 stosuje się odpowiednio.
+### 1)
 
-**Art. 26.**
+między prezydiami rad narodowych - prezydium rady narodowej wyższego stopnia, a między prezydiami wojewódzkich rad narodowych - Rada Ministrów,
 
-§ 1. W przypadku wyłączenia pracownika (art. 24) jego bezpośredni przełożony wyznacza innego pracownika do prowadzenia sprawy.
+### 2)
 
-§ 2. W przypadku wyłączenia organu sprawę załatwia:
+między organami administracyjnymi prezydium rady narodowej - prezydium tej rady, a między organami prezydiów różnych rad narodowych - wspólne dla tych prezydiów prezydium rady narodowej wyższego stopnia,
 
-- **1)** w okolicznościach przewidzianych w art. 25 § 1 pkt 1 – organ wyższego stopnia nad organem załatwiającym sprawę;
-- **2)** w okolicznościach przewidzianych w art. 25 § 1 pkt 2 – organ wyższego stopnia nad organem, w którym osoba wymieniona w tym przepisie zajmuje stanowisko kierownicze. Organ wyższego stopnia może do załatwienia sprawy wyznaczyć inny podległy sobie organ. W razie gdy osobą wymienioną w art. 25 § 1 pkt 2 jest minister albo prezes samorządowego kolegium odwoławczego, organ właściwy do załatwienia sprawy wyznacza Prezes Rady Ministrów.
+### 3)
 
-§ 3. Jeżeli wskutek wyłączenia pracowników organu administracji publicznej organ ten stał się niezdolny do załatwienia sprawy, stosuje się odpowiednio § 2.
+między organami administracyjnymi prezydiów różnych wojewódzkich rad narodowych - wspólny dla nich minister, a gdy organy te podlegają różnym organom naczelnym - Prezes Rady Ministrów,
 
-**Art. 27.**
+### 4)
 
-§ 1. Członek organu kolegialnego podlega wyłączeniu w przypadkach określonych w art. 24 § 1. O wyłączeniu tego członka w przypadkach określonych w art. 24 § 3 postanawia przewodniczący organu kolegialnego lub organu wyższego stopnia na wniosek strony, członka organu kolegialnego albo z urzędu.
+między innymi organami administracji państwowej oraz między tymi organami a organami administracyjnymi prezydiów rad narodowych - wspólny dla nich organ bezpośrednio wyższego stopnia, a w razie braku takiego organu - Prezes Rady Ministrów.
 
-§ 1a. Członek samorządowego kolegium odwoławczego podlega wyłączeniu od udziału w postępowaniu w sprawie wniosku o ponowne rozpatrzenie sprawy, jeżeli brał udział w wydaniu decyzji objętej wnioskiem.
+### Art. 19.
 
-§ 2. Jeżeli wskutek wyłączenia członków organu kolegialnego organ ten stał się niezdolny do podjęcia uchwały z braku wymaganego quorum, stosuje się odpowiednio przepisy art. 26 § 2.
+Do czasu rozstrzygnięcia sporu o właściwość organ administracji państwowej, na którego obszarze wynikła sprawa, podejmuje tylko czynności nie cierpiące zwłoki ze względu na interes społeczny lub słuszny interes obywateli i zawiadamia o tym organ właściwy do rozstrzygnięcia sporu.
 
-§ 3. Jeżeli samorządowe kolegium odwoławcze wskutek wyłączenia jego członków nie może załatwić sprawy, minister właściwy do spraw administracji publicznej, w drodze postanowienia, wyznacza inne samorządowe kolegium odwoławcze.
+### Art. 20.
 
-**Art. 27a.** (uchylony)
+Zasady i tryb rozstrzygania sporów o właściwość między organami administracji państwowej a sądami określi ustawa.
 
-#### Rozdział 6 Strona
+### Rozdział 4 Wyłączenie pracownika oraz organu
 
-**Art. 28.** Stroną jest każdy, czyjego interesu prawnego lub obowiązku dotyczy postępowanie albo kto żąda czynności organu ze względu na swój interes prawny lub obowiązek.
+### Art. 21.
 
-**Art. 29.** Stronami mogą być osoby fizyczne i osoby prawne, a gdy chodzi o państwowe i samorządowe jednostki organizacyjne i organizacje społeczne – również jednostki nieposiadające osobowości prawnej.
+### § 1.
 
-**Art. 30.**
+Pracownik organu administracji państwowej podlega wyłączeniu od udziału w postępowaniu w sprawie:
 
-§ 1. Zdolność prawną i zdolność do czynności prawnych stron ocenia się według przepisów prawa cywilnego, o ile przepisy szczególne nie stanowią inaczej.
+### 1)
 
-§ 2. Osoby fizyczne nieposiadające zdolności do czynności prawnych działają przez swych ustawowych przedstawicieli.
+w której jest stroną albo pozostaje z jedną ze stron w takim stosunku prawnym, że wynik sprawy może mieć wpływ na jego prawa lub obowiązki,
 
-§ 3. Strony niebędące osobami fizycznymi działają przez swych ustawowych lub statutowych przedstawicieli.
+### 2)
 
-§ 4. W sprawach dotyczących praw zbywalnych lub dziedzicznych w razie zbycia prawa lub śmierci strony w toku postępowania na miejsce dotychczasowej strony wstępują jej następcy prawni.
+swego małżonka oraz krewnych i powinowatych do drugiego stopnia,
 
-§ 4a. W sprawach dotyczących praw zbywalnych lub dziedzicznych, wynikających z prowadzenia przedsiębiorstwa strony, w razie jej śmierci w toku postępowania, jeżeli został ustanowiony zarząd sukcesyjny przedsiębiorstwem strony, na jej miejsce wstępuje zarządca sukcesyjny. W przypadku wygaśnięcia zarządu sukcesyjnego do postępowania toczącego się z udziałem zarządcy sukcesyjnego na jego miejsce wstępują następcy prawni zmarłego.
+### 3)
 
-§ 5. W sprawach dotyczących spadków nieobjętych jako strony działają osoby sprawujące zarząd majątkiem masy spadkowej, a w ich braku – kurator wyznaczony przez sąd na wniosek organu administracji publicznej.
+osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli,
 
-**Art. 31.**
+### 4)
 
-§ 1. Organizacja społeczna może w sprawie dotyczącej innej osoby występować z żądaniem:
+w której był świadkiem lub biegłym albo był lub jest przedstawicielem jednej ze stron, albo w której przedstawicielem strony jest jedna z osób wymienionych w pkt 2 i 3,
 
-- **1)** wszczęcia postępowania,
-- **2)** dopuszczenia jej do udziału w postępowaniu, jeżeli jest to uzasadnione celami statutowymi tej organizacji i gdy przemawia za tym interes społeczny.
+### 5)
 
-§ 1a. Organizacja społeczna, o której mowa w § 1, może brać udział w postępowaniu w imieniu i na rzecz pracownika delegowanego na terytorium RP lub z terytorium RP albo pracodawcy delegującego pracownika na terytorium RP lub z terytorium RP – za zgodą strony w imieniu i na rzecz której występuje w postępowaniu.
+w której brał udział w niższej instancji w wydaniu zaskarżonej decyzji,
 
-§ 2. Organ administracji publicznej, uznając żądanie organizacji społecznej za uzasadnione, postanawia o wszczęciu postępowania z urzędu lub o dopuszczeniu organizacji do udziału w postępowaniu. Na postanowienie o odmowie wszczęcia postępowania lub dopuszczenia do udziału w postępowaniu organizacji społecznej służy zażalenie.
+### 6)
 
-§ 3. Organizacja społeczna uczestniczy w postępowaniu na prawach strony.
+z powodu której wszczęto przeciw niemu dochodzenie służbowe, postępowanie dyscyplinarne lub karne,
 
-§ 4. Organ administracji publicznej, wszczynając postępowanie w sprawie dotyczącej innej osoby, zawiadamia o tym organizację społeczną, jeżeli uzna, że może ona być zainteresowana udziałem w tym postępowaniu ze względu na swoje cele statutowe, i gdy przemawia za tym interes społeczny.
+### 7)
 
-§ 5. Organizacja społeczna, która nie uczestniczy w postępowaniu na prawach strony, może za zgodą organu administracji publicznej przedstawić temu organowi swój pogląd w sprawie, wyrażony w uchwale lub oświadczeniu jej organu statutowego.
+w której jedną ze stron jest osoba pozostająca wobec niego w stosunku nadrzędności służbowej.
 
-§ 6. (uchylony)
+### § 2.
 
-**Art. 32.** Strona może działać przez pełnomocnika, chyba że charakter czynności wymaga jej osobistego działania.
+Bezpośredni przełożony pracownika, a jeżeli chodzi o pracownika organu administracyjnego prezydium rady narodowej również przewodniczący tego prezydium, jest obowiązany na żądanie pracownika lub strony albo z urzędu wyłączyć pracownika od udziału w postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności nie wymienionych w § 1, które mogą wywołać wątpliwość co do bezstronności pracownika.
 
-**Art. 33.**
+### § 3.
 
-§ 1. Pełnomocnikiem strony może być osoba fizyczna posiadająca zdolność do czynności prawnych.
+Wyłączony pracownik powinien podejmować tylko czynności nie cierpiące zwłoki ze względu na interes społeczny lub ważny interes stron.
 
-§ 2. Pełnomocnictwo powinno być udzielone na piśmie lub zgłoszone do protokołu.
+### Art. 22.
 
-§ 2a. (uchylony) § 3. Pełnomocnik dołącza do akt oryginał lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat, radca prawny, rzecznik patentowy, a także doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Organ administracji publicznej może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony.
+### § 1.
 
-§ 3a. (uchylony) § 4. W sprawach mniejszej wagi organ administracji publicznej może nie żądać pełnomocnictwa, jeśli pełnomocnikiem jest członek najbliższej rodziny lub domownik strony, a nie ma wątpliwości co do istnienia i zakresu upoważnienia do występowania w imieniu strony.
+Organ administracji państwowej podlega wyłączeniu od załatwienia sprawy dotyczącej interesów majątkowych:
 
-**Art. 34.**
+### 1)
 
-§ 1. Organ administracji publicznej wystąpi do sądu z wnioskiem o wyznaczenie przedstawiciela dla osoby nieobecnej lub niezdolnej do czynności prawnych, o ile przedstawiciel nie został już wyznaczony.
+jego kierownika lub osób pozostających z tym kierownikiem w stosunkach określonych w art. 21 § 1 pkt 2 i 3,
 
-§ 2. W przypadku konieczności podjęcia czynności niecierpiącej zwłoki organ administracji publicznej wyznacza dla osoby nieobecnej przedstawiciela uprawnionego do działania w postępowaniu do czasu wyznaczenia dla niej przedstawiciela przez sąd.
+### 2)
 
-#### Rozdział 7 Załatwianie spraw
+osoby zajmującej stanowisko kierownicze w organie bezpośrednio wyższego stopnia lub osób pozostających z nim w stosunkach określonych w art. 21 § 1 pkt 2 i 3.
 
-**Art. 35.**
+### § 2.
 
-§ 1. Organy administracji publicznej obowiązane są załatwiać sprawy bez zbędnej zwłoki.
+Przepis art. 21 § 3 stosuje się odpowiednio.
 
-§ 2. Niezwłocznie powinny być załatwiane sprawy, które mogą być rozpatrzone w oparciu o dowody przedstawione przez stronę łącznie z żądaniem wszczęcia postępowania lub w oparciu o fakty i dowody powszechnie znane albo znane z urzędu organowi, przed którym toczy się postępowanie, bądź możliwe do ustalenia na podstawie danych, którymi rozporządza ten organ.
+### Art. 23.
 
-§ 3. Załatwienie sprawy wymagającej postępowania wyjaśniającego powinno nastąpić nie później niż w ciągu miesiąca, a sprawy szczególnie skomplikowanej – nie później niż w ciągu dwóch miesięcy od dnia wszczęcia postępowania, zaś w postępowaniu odwoławczym – w ciągu miesiąca od dnia otrzymania odwołania.
+### § 1.
 
-§ 3a. Załatwienie sprawy w postępowaniu uproszczonym powinno nastąpić niezwłocznie, nie później niż w terminie miesiąca od dnia wszczęcia postępowania.
+W przypadku wyłączenia pracownika (art. 21) bezpośredni jego przełożony wyznacza innego pracownika do prowadzenia sprawy. Jeżeli wyłączony został kierownik organu administracyjnego prezydium rady narodowej, przewodniczący tego prezydium wyznaczy pracownika do prowadzenia sprawy.
 
-§ 4. Przepisy szczególne mogą określać inne terminy niż określone w § 3 i 3a.
+### § 2.
 
-§ 5. Do terminów określonych w przepisach poprzedzających nie wlicza się terminów przewidzianych w przepisach prawa dla dokonania określonych czynności, okresów doręczania z wykorzystaniem publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), okresów zawieszenia postępowania, okresu trwania mediacji oraz okresów opóźnień spowodowanych z winy strony albo przyczyn niezależnych od organu.
+W przypadku wyłączenia organu (art. 22) sprawę załatwia organ bezpośrednio wyższego stopnia, który do załatwienia sprawy może wyznaczyć inny podległy sobie organ.
 
-**Art. 36.**
+### Art. 24.
 
-§ 1. O każdym przypadku niezałatwienia sprawy w terminie organ administracji publicznej jest obowiązany zawiadomić strony, podając przyczyny zwłoki, wskazując nowy termin załatwienia sprawy oraz pouczając o prawie do wniesienia ponaglenia.
+### § 1.
 
-§ 2. Ten sam obowiązek ciąży na organie administracji publicznej również w przypadku zwłoki w załatwieniu sprawy z przyczyn niezależnych od organu.
+Członek organu kolegialnego podlega wyłączeniu w przypadkach określonych w art. 21 § 1. O wyłączeniu tego członka w przypadkach określonych w art. 21 § 2 postanawia przewodniczący organu kolegialnego lub organu wyższego stopnia na wniosek strony, członka organu kolegialnego albo z urzędu.
 
-**Art. 37.**
+### § 2.
 
-§ 1. Stronie służy prawo do wniesienia ponaglenia, jeżeli:
+Jeżeli wskutek wyłączenia członków organu kolegialnego organ ten stał się niezdolny do podjęcia uchwały z braku wymaganego quorum, stosuje się odpowiednio przepisy art. 23 § 2.
 
-- **1)** nie załatwiono sprawy w terminie określonym w art. 35 lub przepisach szczególnych ani w terminie wskazanym zgodnie z art. 36 § 1 (bezczynność);
-- **2)** postępowanie jest prowadzone dłużej niż jest to niezbędne do załatwienia sprawy (przewlekłość).
+### Rozdział 5 Strona
 
-§ 2. Ponaglenie zawiera uzasadnienie.
+### Art. 25.
 
-§ 3. Ponaglenie wnosi się:
+Stroną jest każdy, czyjego interesu prawnego lub obowiązku dotyczy postępowanie albo kto żąda czynności organu ze względu na swój interes prawny lub obowiązek.
 
-- **1)** do organu wyższego stopnia za pośrednictwem organu prowadzącego postępowanie;
-- **2)** do organu prowadzącego postępowanie – jeżeli nie ma organu wyższego stopnia.
+### Art. 26.
 
-§ 3a. Jeżeli ponaglenie zostało wniesione przed upływem terminu określonego w art. 35 albo przepisach szczególnych, organ prowadzący postępowanie pozostawia ponaglenie bez rozpoznania. Przepisów § 4–8 nie stosuje się.
+Stronami mogą być osoby fizyczne, osoby prawne oraz państwowe jednostki organizacyjne i organizacje społeczne.
 
-§ 4. Organ prowadzący postępowanie jest obowiązany przekazać ponaglenie organowi wyższego stopnia bez zbędnej zwłoki, nie później niż w terminie siedmiu dni od dnia jego otrzymania. Organ przekazuje ponaglenie wraz z niezbędnymi odpisami akt sprawy. Przekazując ponaglenie, organ jest obowiązany ustosunkować się do niego.
+### Art. 27.
 
-§ 5. Organ, o którym mowa w § 3, rozpatruje ponaglenie w terminie siedmiu dni od dnia jego otrzymania.
+### § 1.
 
-§ 6. Organ rozpatrujący ponaglenie wydaje postanowienie, w którym:
+Zdolność prawną i zdolność do czynności prawnych stron ocenia się według przepisów prawa cywilnego, o ile przepisy szczególne nie stanowią inaczej.
 
-- **1)** wskazuje, czy organ rozpatrujący sprawę dopuścił się bezczynności lub przewlekłego prowadzenia postępowania, stwierdzając jednocześnie, czy miało ono miejsce z rażącym naruszeniem prawa;
-- **2)** w przypadku stwierdzenia bezczynności lub przewlekłości:
-    - **a)** zobowiązuje organ rozpatrujący sprawę do załatwienia sprawy, wyznaczając termin do jej załatwienia, jeżeli postępowanie jest niezakończone,
-    - **b)** zarządza wyjaśnienie przyczyn i ustalenie osób winnych bezczynności lub przewlekłości, a w razie potrzeby także podjęcie środków zapobiegających bezczynności lub przewlekłości w przyszłości.
+### § 2.
 
-§ 7. Organ rozpatrujący ponaglenie może z urzędu zmienić postanowienie, o którym mowa w § 6, wyznaczając dłuższy termin zakończenia postępowania, jeżeli wyjdą na jaw istotne dla sprawy nowe okoliczności faktyczne lub nowe dowody, wymagające dłuższego postępowania, nieznane w momencie wyznaczania terminu.
+Osoby nie posiadające zdolności do czynności prawnych działają przez swych ustawowych przedstawicieli.
 
-§ 8. W przypadku, o którym mowa w § 3 pkt 2, przepisów § 4, 6 i 7 nie stosuje się. W przypadku stwierdzenia bezczynności lub przewlekłości organ prowadzący postępowanie niezwłocznie załatwia sprawę oraz zarządza wyjaśnienie przyczyn i ustalenie osób winnych bezczynności lub przewlekłości, a w razie potrzeby także podjęcie środków zapobiegających bezczynności lub przewlekłości w przyszłości.
+### § 3.
 
-**Art. 38.** Pracownik organu administracji publicznej podlega odpowiedzialności porządkowej lub dyscyplinarnej albo innej odpowiedzialności przewidzianej w przepisach prawa, jeżeli z nieuzasadnionych przyczyn nie załatwił sprawy w terminie lub prowadził postępowanie dłużej niż było to niezbędne do załatwienia sprawy.
+Strony nie będące osobami fizycznymi działają przez swych ustawowych lub statutowych przedstawicieli.
 
-#### Rozdział 8 Doręczenia
+### Art. 28.
 
-**Art. 39.**
+Organ administracji państwowej dopuści organizację społeczną do udziału na prawach strony w postępowaniu dotyczącym innej osoby, jeżeli udział taki jest uzasadniony statutowymi celami tej organizacji i interes społeczny wymaga tego. Organizacji społecznej, której nie dopuszczono do udziału w postępowaniu, służy z tego powodu zażalenie.
 
-§ 1. Organ administracji publicznej doręcza pisma na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, zwany dalej „adresem do doręczeń elektronicznych”, chyba że doręczenie następuje na konto w systemie teleinformatycznym organu albo w siedzibie organu.
+### Art. 29.
 
-§ 2. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1, organ administracji publicznej doręcza pisma za pokwitowaniem:
+Strona może działać przez pełnomocnika, chyba że charakter czynności wymaga jej osobistego działania.
 
-- **1)** przez operatora wyznaczonego z wykorzystaniem publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo
-- **2)** przez swoich pracowników lub przez inne upoważnione osoby lub organy.
+### Art. 30.
 
-§ 3. W przypadku braku możliwości doręczenia w sposób, o którym mowa w § 1 i § 2 pkt 1, organ administracji publicznej doręcza pisma:
+### § 1.
 
-- **1)** przesyłką rejestrowaną, o której mowa w art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456), albo
-- **2)** przez swoich pracowników lub przez inne upoważnione osoby lub organy.
+Pełnomocnikiem strony może być osoba fizyczna, posiadająca zdolność do czynności prawnych.
 
-§ 4. W przypadku doręczenia decyzji, której organ administracji publicznej nadał rygor natychmiastowej wykonalności, albo decyzji, która podlega natychmiastowemu wykonaniu z mocy ustawy, w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych albo jeżeli wymaga tego ważny interes publiczny, w szczególności bezpieczeństwo państwa, obronność lub porządek publiczny, organ administracji publicznej może doręczyć decyzję w sposób określony w § 3. Przepisów § 1 i § 2 pkt 1 nie stosuje się.
+### § 2.
 
-**Art. 39¹.** W przypadku doręczenia w sposób, o którym mowa w art. 39 § 1, pisma doręcza się stronie lub innemu uczestnikowi postępowania na:
+Pełnomocnictwo powinno być udzielone na piśmie lub zgłoszone do protokołu.
 
-**Art. 39².** (uchylony)
+### § 3.
 
-**Art. 39³.**
+Pełnomocnik dołącza do akt oryginał lub urzędowo poświadczony odpis pełnomocnictwa. Adwokat może sam uwierzytelnić odpis udzielonego mu pełnomocnictwa.
 
-§ 1. W przypadku pism wydanych przez organ administracji publicznej w postaci elektronicznej przy wykorzystaniu systemu teleinformatycznego, które zostały opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, zaawansowaną pieczęcią elektroniczną albo kwalifikowaną pieczęcią elektroniczną, doręczenie może polegać na doręczeniu wydruku pisma uzyskanego z tego systemu odzwierciedlającego treść tego pisma.
+### § 4.
 
-§ 2. Wydruk pisma, o którym mowa w § 1, zawiera:
+W sprawach mniejszej wagi organ administracji państwowej może nie żądać pełnomocnictwa, jeśli pełnomocnikiem jest członek najbliższej rodziny lub domownik strony, a nie ma wątpliwości co do istnienia i zakresu upoważnienia do występowania w imieniu strony.
 
-- **1)** informację, że pismo zostało wydane w postaci elektronicznej i podpisane kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, ze wskazaniem imienia i nazwiska oraz stanowiska służbowego osoby, która je podpisała, albo opatrzone zaawansowaną pieczęcią elektroniczną albo kwalifikowaną pieczęcią elektroniczną;
-- **2)** identyfikator tego pisma, nadawany przez system teleinformatyczny, za pomocą którego pismo zostało wydane.
+### Art. 31.
 
-§ 3. Wydruk pisma, o którym mowa w § 1, może zawierać mechanicznie odtwarzany podpis osoby, która podpisała pismo.
+### § 1.
 
-§ 4. Wydruk pisma, o którym mowa w § 1, stanowi dowód tego, co zostało stwierdzone w piśmie wydanym w postaci elektronicznej.
+Organ administracji państwowej może wystąpić do sądu z wnioskiem o wyznaczenie przedstawicieli dla osoby nieobecnej lub niezdolnej do czynności prawnych, o ile przedstawiciel nie został już wyznaczony.
 
-**Art. 39⁴.** W przypadku doręczenia w sposób, o którym mowa w art. 39 § 1, do ustalenia dnia doręczenia korespondencji stosuje się przepis art. 42 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+### § 2.
 
-**Art. 40.**
+W przypadku konieczności podjęcia czynności nie cierpiącej zwłoki organ administracji państwowej może dla osoby nieobecnej sam wyznaczyć przedstawiciela uprawnionego do działania do czasu wyznaczenia dla niej przedstawiciela przez sąd.
 
-§ 1. Pisma doręcza się stronie, a gdy strona działa przez przedstawiciela – temu przedstawicielowi.
+### Rozdział 6 Załatwianie spraw
 
-§ 2. Jeżeli strona ustanowiła pełnomocnika, pisma doręcza się pełnomocnikowi. Jeżeli ustanowiono kilku pełnomocników, doręcza się pisma tylko jednemu pełnomocnikowi. Strona może wskazać takiego pełnomocnika.
+### Art. 32.
 
-§ 3. W sprawie wszczętej na skutek podania złożonego przez dwie lub więcej stron pisma doręcza się wszystkim stronom, chyba że w podaniu wskazały jedną jako upoważnioną do odbioru pism.
+### § 1.
 
-§ 4. Strona, która nie ma miejsca zamieszkania lub zwykłego pobytu albo siedziby w Rzeczypospolitej Polskiej, innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym, jeżeli nie ustanowiła pełnomocnika do prowadzenia sprawy zamieszkałego w Rzeczypospolitej Polskiej i nie działa za pośrednictwem konsula Rzeczypospolitej Polskiej, jest obowiązana wskazać w Rzeczypospolitej Polskiej pełnomocnika do doręczeń, chyba że doręczenie następuje usługą rejestrowanego doręczenia elektronicznego.
+Organ administracji państwowej powinien załatwić sprawę w ciągu dwóch miesięcy od daty wszczęcia postępowania, a w postępowaniu odwoławczym - w ciągu miesiąca od daty otrzymania odwołania przez organ odwoławczy.
 
-§ 5. W razie niewskazania pełnomocnika do doręczeń przeznaczone dla tej strony pisma pozostawia się w aktach sprawy ze skutkiem doręczenia. Stronę należy o tym pouczyć przy pierwszym doręczeniu. Strona powinna być również pouczona o możliwości złożenia odpowiedzi na pismo wszczynające postępowanie i wyjaśnień na piśmie oraz o tym, kto może być ustanowiony pełnomocnikiem.
+### § 2.
 
-**Art. 41.**
+Do terminów określonych w § 1 nie wlicza się terminów przewidzianych w przepisach prawnych dla dokonania określonych czynności, okresów zawieszenia postępowania oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
-§ 1. W toku postępowania strony oraz ich przedstawiciele i pełnomocnicy mają obowiązek zawiadomić organ administracji publicznej o każdej zmianie swojego adresu.
+### Art. 33.
 
-§ 2. W razie zaniedbania obowiązku określonego w § 1 doręczenie pisma pod dotychczasowym adresem ma skutek prawny.
+### § 1.
 
-**Art. 42.**
+O każdym przypadku niezałatwienia sprawy w terminie określonym w art. 32 organ administracji państwowej obowiązany jest zawiadomić strony, podając przyczyny zwłoki i wskazując nowy termin załatwienia sprawy.
 
-§ 1. Pisma doręcza się osobom fizycznym w ich mieszkaniu lub miejscu pracy albo na adres do korespondencji wskazany w bazie adresów elektronicznych.
+### § 2.
 
-§ 2. Pisma mogą być doręczane również w lokalu organu administracji publicznej, jeżeli przepisy szczególne nie stanowią inaczej.
+Ten sam obowiązek ciąży na organie administracji państwowej również w przypadku zwłoki w załatwieniu sprawy z przyczyn niezależnych od organu.
 
-§ 3. W razie niemożności doręczenia pisma w sposób określony w § 1 i 2, a także w razie koniecznej potrzeby, pisma doręcza się w każdym miejscu, gdzie się adresata zastanie.
+### § 3.
 
-**Art. 43.** W przypadku nieobecności adresata pismo doręcza się, za pokwitowaniem, dorosłemu domownikowi, sąsiadowi lub dozorcy domu, jeżeli osoby te podjęły się oddania pisma adresatowi. O doręczeniu pisma sąsiadowi lub dozorcy zawiadamia się adresata, umieszczając zawiadomienie w oddawczej skrzynce pocztowej lub, gdy to nie jest możliwe, w drzwiach mieszkania.
+Organ administracji państwowej obowiązany jest o przypadkach niezałatwienia sprawy w terminie określonym w art. 32 zawiadomić również organ wyższego stopnia, a organ administracyjny prezydium rady narodowej - także to prezydium, w trybie określonym przez Radę Ministrów.
 
-**Art. 44.**
+### Art. 34.
 
-§ 1. W razie niemożności doręczenia pisma w sposób wskazany w art. 42 i 43:
+Na niezałatwienie sprawy w terminie określonym w art. 32 lub ustalonym w myśl art. 33 stronie służy zażalenie do organu administracji państwowej wyższego stopnia.
 
-- **1)** operator pocztowy w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe przechowuje pismo przez okres 14 dni w swojej placówce pocztowej – w przypadku doręczania pisma przez operatora pocztowego;
-- **2)** pismo składa się na okres czternastu dni w urzędzie właściwej gminy (miasta) – w przypadku doręczania pisma przez pracownika urzędu gminy (miasta) lub upoważnioną osobę lub organ.
+### Art. 35.
 
-§ 2. Zawiadomienie o pozostawieniu pisma wraz z informacją o możliwości jego odbioru w terminie siedmiu dni, licząc od dnia pozostawienia zawiadomienia w miejscu określonym w § 1, umieszcza się w oddawczej skrzynce pocztowej lub, gdy nie jest to możliwe, na drzwiach mieszkania adresata, jego biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe, bądź w widocznym miejscu przy wejściu na posesję adresata.
+Pracownik organu administracji państwowej, który nie dopełnił obowiązków wynikających z art. 33 albo nie załatwił sprawy w nowym terminie ustalonym w myśl art. 33, podlega odpowiedzialności służbowej lub dyscyplinarnej.
 
-§ 3. W przypadku niepodjęcia przesyłki w terminie, o którym mowa w § 2, pozostawia się powtórne zawiadomienie o możliwości odbioru przesyłki w terminie nie dłuższym niż czternaście dni od daty pierwszego zawiadomienia.
+### Rozdział 7 Doręczenia
 
-§ 4. Doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w § 1, a pismo pozostawia się w aktach sprawy.
+### Art. 36.
 
-**Art. 45.** Jednostkom organizacyjnym i organizacjom społecznym doręcza się pisma w lokalu ich siedziby do rąk osób uprawnionych do odbioru pism. Przepis art. 44 stosuje się odpowiednio.
+Organ administracji państwowej doręcza pisma za pokwitowaniem przez pocztę, przez swoich pracowników lub przez inne upoważnione osoby lub organy.
 
-**Art. 45a.**
+### Art. 37.
 
-§ 1. W przypadku braku możliwości doręczenia pisma w sposób wskazany w art. 45 z tego powodu, że podany przez jednostkę organizacyjną lub organizację społeczną adres jej siedziby nie istnieje, został wykreślony z rejestru lub jest niezgodny z odpowiednim rejestrem i nie można ustalić adresu siedziby, pismo doręcza się osobie fizycznej upoważnionej do reprezentowania adresata.
+### § 1.
 
-§ 2. W przypadku gdy reprezentacja ma charakter łączny z innymi osobami fizycznymi, pismo doręcza się wszystkim osobom upoważnionym do reprezentowania adresata. Doręczenie uważa się za dokonane z chwilą najwcześniejszego doręczenia pisma osobie fizycznej upoważnionej do reprezentowania adresata.
+Pisma doręcza się stronie, a gdy strona działa przez przedstawiciela - temu przedstawicielowi.
 
-§ 3. Jeżeli w przypadku określonym w § 1 lub 2 nie jest możliwe ustalenie adresu osoby fizycznej upoważnionej do reprezentowania adresata, pismo pozostawia się w aktach sprawy ze skutkiem doręczenia.
+### § 2.
 
-§ 4. Uznanie doręczenia, o którym mowa w § 3, za dokonane następuje z dniem sporządzenia przez organ administracji publicznej adnotacji o niemożności ustalenia adresu osoby fizycznej upoważnionej do reprezentowania adresata.
+Jeżeli strona ustanowiła pełnomocnika, pisma doręcza się pełnomocnikowi.
 
-§ 5. Organ administracji publicznej jest obowiązany niezwłocznie sporządzić i utrwalić w aktach sprawy adnotację, o której mowa w § 4.
+### § 3.
 
-**Art. 46.**
+W sprawie wszczętej na skutek podania złożonego przez dwie lub więcej stron pisma doręcza się wszystkim stronom, chyba że w podaniu wskazały jedną jako upoważnioną do odbioru pism.
 
-§ 1. Odbierający pismo potwierdza doręczenie mu pisma swoim podpisem ze wskazaniem daty doręczenia.
+### Art. 38.
 
-§ 2. Jeżeli odbierający pismo uchyla się od potwierdzenia doręczenia lub nie może tego uczynić, doręczający sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała pismo, i przyczynę braku jej podpisu.
+### § 1.
 
-§ 3. (uchylony) § 4. (uchylony) § 5. (uchylony) § 6. (uchylony) § 7. (uchylony) § 8. (uchylony) § 9. (uchylony) § 10. (uchylony)
+W toku postępowania strony oraz ich przedstawiciele i pełnomocnicy mają obowiązek zawiadomić organ administracji państwowej o każdej zmianie swego adresu.
 
-**Art. 47.**
+### § 2.
 
-§ 1. Jeżeli adresat odmawia przyjęcia pisma przesłanego mu przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe lub inny organ albo w inny sposób, pismo zwraca się nadawcy z adnotacją o odmowie jego przyjęcia i datą odmowy. Pismo wraz z adnotacją włącza się do akt sprawy.
+W razie zaniedbania obowiązku określonego w § 1 doręczenie pisma pod dotychczasowym adresem ma skutek prawny.
 
-§ 2. W przypadkach, o których mowa w § 1, uznaje się, że pismo doręczone zostało w dniu odmowy jego przyjęcia przez adresata.
+### Art. 39.
 
-**Art. 48.**
+### § 1.
 
-§ 1. Pisma skierowane do osób nieznanych z miejsca pobytu, dla których sąd nie wyznaczył przedstawiciela, doręcza się przedstawicielowi ustanowionemu w myśl art. 34.
+Pisma doręcza się osobom fizycznym w ich mieszkaniu lub miejscu pracy.
 
-§ 2. Pisma kierowane do osób korzystających ze szczególnych uprawnień wynikających z immunitetu dyplomatycznego lub konsularnego doręcza się w sposób przewidziany w przepisach szczególnych, w umowach i zwyczajach międzynarodowych.
+### § 2.
 
-**Art. 49.**
+Pisma mogą być doręczane również w lokalu organu administracji państwowej, jeżeli przepisy szczególne nie stanowią inaczej.
 
-§ 1. Jeżeli przepis szczególny tak stanowi, zawiadomienie stron o decyzjach i innych czynnościach organu administracji publicznej może nastąpić w formie publicznego obwieszczenia, w innej formie publicznego ogłoszenia zwyczajowo przyjętej w danej miejscowości lub przez udostępnienie pisma w Biuletynie Informacji Publicznej na stronie podmiotowej właściwego organu administracji publicznej.
+### § 3.
 
-§ 2. Dzień, w którym nastąpiło publiczne obwieszczenie, inne publiczne ogłoszenie lub udostępnienie pisma w Biuletynie Informacji Publicznej wskazuje się w treści tego obwieszczenia, ogłoszenia lub w Biuletynie Informacji Publicznej. Zawiadomienie uważa się za dokonane po upływie czternastu dni od dnia, w którym nastąpiło publiczne obwieszczenie, inne publiczne ogłoszenie lub udostępnienie pisma w Biuletynie Informacji Publicznej.
+W razie niemożności doręczenia pisma w sposób określony w § 1 i 2, a także w razie koniecznej potrzeby, pisma doręcza się w każdym miejscu, gdzie się adresata zastanie.
 
-**Art. 49a.** Poza przypadkami, o których mowa w art. 49, organ może dokonywać zawiadomienia o decyzjach i innych czynnościach organu administracji publicznej w formie, o której mowa w art. 49 § 1, jeżeli w postępowaniu bierze udział więcej niż dwadzieścia stron. Jeżeli przepis szczególny nie stanowi inaczej, zawiadomienie jest w takim przypadku skuteczne wobec stron, które zostały na piśmie uprzedzone o zamiarze zawiadamiania ich w określony sposób. Do zawiadomienia stosuje się przepis art. 49 § 2.
+### Art. 40.
 
-**Art. 49b.**
+W przypadku nieobecności adresata w mieszkaniu pisma doręcza się za pokwitowaniem do rąk dorosłego domownika, sąsiada lub dozorcy domu, gdy osoby te podjęły się oddania pisma adresatowi; o doręczeniu pisma do rąk sąsiada lub dozorcy umieszcza się zawiadomienie na drzwiach mieszkania adresata.
 
-§ 1. W przypadku zawiadomienia strony zgodnie z art. 49 § 1 lub art. 49a o decyzji lub postanowieniu, które podlega zaskarżeniu, na wniosek strony, organ, który wydał decyzję lub postanowienie, niezwłocznie, nie później niż w terminie trzech dni od dnia otrzymania wniosku, udostępnia stronie odpis decyzji lub postanowienia w sposób i formie określonych we wniosku, chyba że środki techniczne, którymi dysponuje organ, nie umożliwiają udostępnienia w taki sposób lub takiej formie.
+### Art. 41.
 
-§ 2. Jeżeli decyzja lub postanowienie, o których mowa w § 1, nie mogą być udostępnione stronie w sposób lub formie określonych we wniosku, organ powiadamia o tym stronę i wskazuje, w jaki sposób lub jakiej formie odpis decyzji lub postanowienia może być niezwłocznie udostępniony.
+W razie niemożności dokonania doręczenia w sposób wskazany w art. 39 i 40 pismo składa się na okres dwóch tygodni w urzędzie pocztowym lub w biurze gromadzkiej rady narodowej (w prezydium miejskiej, dzielnicowej rady narodowej, rady narodowej osiedla), a zawiadomienie o tym umieszcza się na drzwiach mieszkania adresata albo biura lub innego pomieszczenia, w którym wykonuje on swoje czynności zarobkowe, albo na nieruchomości, której postępowanie dotyczy. W tym przypadku doręczenie uważa się za dokonane z upływem ostatniego dnia tego okresu.
 
-#### Rozdział 9 Wezwania
+### Art. 42.
 
-**Art. 50.**
+Państwowym jednostkom organizacyjnym, organizacjom zawodowym, samorządowym, spółdzielczym oraz innym osobom prawnym i organizacjom społecznym doręcza się pisma w lokalu ich siedziby do rąk osób uprawnionych do odbioru pism.
 
-§ 1. Organ administracji publicznej może wzywać osoby do udziału w podejmowanych czynnościach i do złożenia wyjaśnień lub zeznań osobiście, przez pełnomocnika, na piśmie, jeżeli jest to niezbędne dla rozstrzygnięcia sprawy lub dla wykonywania czynności urzędowych.
+### Art. 43.
 
-§ 2. Organ obowiązany jest dołożyć starań, aby zadośćuczynienie wezwaniu nie było uciążliwe.
+### § 1.
 
-§ 3. W przypadkach, w których osoba wezwana nie może stawić się z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, organ może dokonać określonej czynności lub przyjąć wyjaśnienie albo przesłuchać osobę wezwaną w miejscu jej pobytu, jeżeli pozwalają na to okoliczności, w jakich znajduje się ta osoba.
+Odbierający pismo potwierdza doręczenie mu pisma swym podpisem ze wskazaniem daty doręczenia.
 
-**Art. 51.**
+### § 2.
 
-§ 1. Do osobistego stawienia się wezwany jest obowiązany tylko w obrębie gminy lub miasta, w którym zamieszkuje albo przebywa.
+Jeżeli odbierający pismo uchyla się od potwierdzenia doręczenia lub nie może tego uczynić, doręczający sam stwierdza datę doręczenia oraz wskazuje osobę, która odebrała pismo, i przyczynę braku jej podpisu.
 
-§ 2. Obowiązek osobistego stawiennictwa dotyczy również wezwanego, zamieszkałego lub przebywającego w sąsiedniej gminie albo mieście.
+### Art. 44.
 
-**Art. 52.** W toku postępowania organ administracji publicznej zwraca się do właściwego terenowego organu administracji rządowej lub organu samorządu terytorialnego o wezwanie osoby zamieszkałej lub przebywającej w danej gminie lub mieście do złożenia wyjaśnień lub zeznań albo do dokonania innych czynności, związanych z toczącym się postępowaniem. Organ prowadzący postępowanie oznaczy zarazem okoliczności będące przedmiotem wyjaśnień lub zeznań albo czynności, jakie mają być dokonane.
+### § 1.
 
-**Art. 53.** Przepisów art. 51 i 52 nie stosuje się w przypadkach, w których charakter sprawy lub czynności wymaga dokonania czynności przed organem administracji publicznej prowadzącym postępowanie.
+Jeżeli adresat odmawia przyjęcia pisma przesłanego mu:
 
-**Art. 54.**
+### 1)
 
-§ 1. W wezwaniu należy wskazać:
+przez pocztę - pismo zwrócone przez organ pocztowy z jego adnotacją o odmowie przyjęcia i podaniem jej daty uważa się za doręczone w tym dniu i załącza do akt sprawy;
 
-- **1)** nazwę i adres organu wzywającego;
-- **2)** imię i nazwisko wzywanego;
-- **3)** w jakiej sprawie oraz w jakim charakterze i w jakim celu zostaje wezwany;
-- **4)** czy wezwany powinien się stawić osobiście lub przez pełnomocnika, czy też może złożyć wyjaśnienie lub zeznanie na piśmie;
-- **5)** termin, do którego żądanie powinno być spełnione, albo dzień, godzinę i miejsce stawienia się wezwanego lub jego pełnomocnika;
-- **6)** skutki prawne niezastosowania się do wezwania.
+### 2)
 
-§ 1a. W wezwaniu zawiera się również informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, chyba że wezwany posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+w inny sposób - pismo doręcza się przez pozostawienie go w miejscu doręczenia, a gdy to jest niemożliwe, przez złożenie go w urzędzie pocztowym lub w biurze gromadzkiej rady narodowej (prezydium miejskiej, dzielnicowej rady narodowej, rady narodowej osiedla).
 
-§ 2. Wezwanie powinno być opatrzone podpisem pracownika organu wzywającego, z podaniem imienia, nazwiska i stanowiska służbowego podpisującego.
+### § 2.
 
-**Art. 55.**
+W przypadkach określonych w § 1 pkt 2 doręczający stwierdza datę pozostawienia pisma w miejscu doręczenia albo złożenia go w urzędzie pocztowym lub w biurze (prezydium) rady narodowej.
 
-§ 1. W sprawach niecierpiących zwłoki wezwania można dokonać również telefonicznie albo przy użyciu innych środków łączności, z podaniem danych wymienionych w art. 54 § 1 oraz imienia, nazwiska i stanowiska służbowego pracownika organu wzywającego.
+### Art. 45.
 
-§ 2. Wezwanie dokonane w sposób określony w § 1 powoduje skutki prawne tylko wtedy, gdy nie ma wątpliwości, że dotarło do adresata we właściwej treści i w odpowiednim terminie.
+Pisma skierowane do osób nieznanych z miejsca pobytu, dla których sąd nie wyznaczył przedstawiciela, pozostawia się w aktach sprawy, o czym wywiesza się obwieszczenie na okres czternastu dni w biurze gromadzkiej rady narodowej (prezydium miejskiej, dzielnicowej rady narodowej, rady narodowej osiedla). Pisma te uważa się za doręczone w ostatnim dniu okresu, na który wywieszono obwieszczenie.
 
-**Art. 56.**
+### Rozdział 8 Wezwania
 
-§ 1. Osobie, która stawiła się na wezwanie, przyznaje się koszty podróży i inne należności ustalone zgodnie z przepisami zawartymi w dziale 2 tytułu III ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228). Dotyczy to również kosztów osobistego stawiennictwa stron, gdy postępowanie zostało wszczęte z urzędu albo gdy strona bez swojej winy została błędnie wezwana do stawienia się.
+### Art. 46.
 
-§ 2. Żądanie przyznania należności należy zgłosić organowi administracji publicznej, przed którym toczy się postępowanie, przed wydaniem decyzji, pod rygorem utraty roszczenia.
+### § 1.
 
-#### Rozdział 10 Terminy
+Organ administracji państwowej może wzywać osoby do udziału w podejmowanych czynnościach i do złożenia wyjaśnień lub zeznań osobiście, przez pełnomocnika lub na piśmie, jeżeli jest to niezbędne dla rozstrzygnięcia sprawy lub dla wykonywania czynności urzędowych.
 
-**Art. 57.**
+### § 2.
 
-§ 1. Jeżeli początkiem terminu określonego w dniach jest pewne zdarzenie, przy obliczaniu tego terminu nie uwzględnia się dnia, w którym zdarzenie nastąpiło. Upływ ostatniego z wyznaczonej liczby dni uważa się za koniec terminu.
+Organ obowiązany jest dołożyć starań, aby zadośćuczynienie wezwaniu nie było dla strony uciążliwe.
 
-§ 2. Terminy określone w tygodniach kończą się z upływem tego dnia w ostatnim tygodniu, który nazwą odpowiada początkowemu dniowi terminu.
+### Art. 47.
 
-§ 3. Terminy określone w miesiącach kończą się z upływem tego dnia w ostatnim miesiącu, który odpowiada początkowemu dniowi terminu, a gdyby takiego dnia w ostatnim miesiącu nie było – w ostatnim dniu tego miesiąca.
+### § 1.
 
-§ 3a. Terminy określone w latach kończą się z upływem tego dnia w ostatnim roku, który odpowiada początkowemu dniowi terminu, a gdyby takiego dnia w ostatnim roku nie było – w dniu poprzedzającym bezpośrednio ten dzień.
+Do osobistego stawienia się wezwany jest obowiązany tylko w obrębie powiatu (miasta stanowiącego powiat miejski, miasta wyłączonego z województwa), w którym on zamieszkuje albo przebywa.
 
-§ 4. Jeżeli koniec terminu do wykonania czynności przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa następnego dnia, który nie jest dniem wolnym od pracy ani sobotą.
+### § 2.
 
-§ 5. Termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało:
+Miasto stanowiące powiat miejski lub wyłączone z województwa oraz otaczający je lub graniczący z nim powiat uważa się za jeden powiat w rozumieniu § 1.
 
-- **1)** wysłane na adres do doręczeń elektronicznych organu administracji publicznej, a nadawca otrzymał dowód otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;
-- **2)** nadane w polskiej placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe albo placówce pocztowej operatora świadczącego pocztowe usługi powszechne w innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej albo państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronie umowy o Europejskim Obszarze Gospodarczym;
-- **3)** złożone w polskim urzędzie konsularnym;
-- **4)** złożone przez żołnierza w dowództwie jednostki wojskowej;
-- **5)** złożone przez członka załogi statku morskiego kapitanowi statku;
-- **6)** złożone przez osobę pozbawioną wolności w administracji zakładu karnego.
+### Art. 48.
 
-**Art. 58.**
+W toku postępowania organ administracji państwowej zwraca się do innego organu stopnia powiatowego lub niższego o wezwanie osoby zamieszkałej lub przebywającej w jego okręgu do złożenia wyjaśnień lub zeznań albo do dokonania innych czynności, związanych z toczącym się postępowaniem. Organ prowadzący postępowanie oznaczy zarazem okoliczności będące przedmiotem wyjaśnień lub zeznań albo czynności, jakie mają być dokonane.
 
-§ 1. W razie uchybienia terminu należy przywrócić termin na prośbę zainteresowanego, jeżeli uprawdopodobni, że uchybienie nastąpiło bez jego winy.
+### Art. 49.
 
-§ 2. Prośbę o przywrócenie terminu należy wnieść w ciągu siedmiu dni od dnia ustania przyczyny uchybienia terminu. Jednocześnie z wniesieniem prośby należy dopełnić czynności, dla której określony był termin.
+Przepisów art. 47 i 48 nie stosuje się w przypadkach, w których charakter sprawy lub czynności wymaga dokonania czynności przed organem administracji państwowej prowadzącym postępowanie.
 
-§ 3. Przywrócenie terminu do złożenia prośby przewidzianej w § 2 jest niedopuszczalne.
+### Art. 50.
 
-**Art. 59.**
+### § 1.
 
-§ 1. O przywróceniu terminu postanawia właściwy w sprawie organ administracji publicznej. Od postanowienia o odmowie przywrócenia terminu służy zażalenie.
+W wezwaniu należy wskazać:
 
-§ 2. O przywróceniu terminu do wniesienia odwołania lub zażalenia postanawia ostatecznie organ właściwy do rozpatrzenia odwołania lub zażalenia.
+### 1)
 
-**Art. 60.** Przed rozpatrzeniem prośby o przywrócenie terminu do wniesienia odwołania lub zażalenia organ administracji publicznej na żądanie strony może wstrzymać wykonanie decyzji lub postanowienia.
+nazwę i adres organu wzywającego,
 
-### DZIAŁ II Postępowanie
+### 2)
 
-#### Rozdział 1 Wszczęcie postępowania
+imię i nazwisko wzywanego,
 
-**Art. 61.**
+### 3)
 
-§ 1. Postępowanie administracyjne wszczyna się na żądanie strony lub z urzędu.
+w jakiej sprawie oraz w jakim charakterze i w jakim celu zostaje wezwany,
 
-§ 2. Organ administracji publicznej może ze względu na szczególnie ważny interes strony wszcząć z urzędu postępowanie także w sprawie, w której przepis prawa wymaga wniosku strony. Organ obowiązany jest uzyskać na to zgodę strony w toku postępowania, a w razie nieuzyskania zgody – postępowanie umorzyć.
+### 4)
 
-§ 3. Datą wszczęcia postępowania na żądanie strony jest dzień doręczenia żądania organowi administracji publicznej.
+czy wezwany powinien się stawić osobiście lub przez pełnomocnika, czy też może złożyć wyjaśnienie lub zeznanie na piśmie,
 
-§ 3a. Datą wszczęcia postępowania na żądanie strony wniesione drogą elektroniczną jest dzień wystawienia dowodu otrzymania, o którym mowa w art. 41 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+### 5)
 
-§ 4. O wszczęciu postępowania z urzędu lub na żądanie jednej ze stron należy zawiadomić wszystkie osoby będące stronami w sprawie.
+termin, do którego żądanie powinno być spełnione, albo dzień, godzinę i miejsce stawienia się wezwanego lub jego pełnomocnika,
 
-§ 5. Organ administracji publicznej przekazuje informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do strony, chyba że strona posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+### 6)
 
-**Art. 61a.**
+skutki prawne niezastosowania się do wezwania.
 
-§ 1. Gdy żądanie, o którym mowa w art. 61, zostało wniesione przez osobę niebędącą stroną lub z innych uzasadnionych przyczyn postępowanie nie może być wszczęte, organ administracji publicznej wydaje postanowienie o odmowie wszczęcia postępowania. Przepis art. 61 § 5 stosuje się odpowiednio.
+### § 2.
 
-§ 2. Na postanowienie, o którym mowa w § 1, służy zażalenie.
+Wezwanie powinno być zaopatrzone podpisem pracownika organu wzywającego, z podaniem imienia, nazwiska i stopnia służbowego podpisującego.
 
-**Art. 62.** W sprawach, w których prawa lub obowiązki stron wynikają z tego samego stanu faktycznego oraz z tej samej podstawy prawnej i w których właściwy jest ten sam organ administracji publicznej, można wszcząć i prowadzić jedno postępowanie dotyczące więcej niż jednej strony.
+### Art. 51.
 
-**Art. 63.**
+W sprawach nie cierpiących zwłoki ze względu na interes społeczny lub ważny interes strony wezwania można dokonać również telegraficznie z podaniem danych wymienionych w art. 50 § 1.
 
-§ 1. Podania (żądania, wyjaśnienia, odwołania, zażalenia) wnosi się na piśmie, za pomocą telefaksu lub ustnie do protokołu. Podania utrwalone w postaci elektronicznej wnosi się na adres do doręczeń elektronicznych lub za pośrednictwem konta w systemie teleinformatycznym organu administracji publicznej. Jeżeli przepisy odrębne nie stanowią inaczej, podania wniesione na adres poczty elektronicznej organu administracji publicznej pozostawia się bez rozpoznania.
+### Art. 52.
 
-§ 2. Podanie powinno zawierać co najmniej wskazanie osoby, od której pochodzi, jej adres, również w przypadku złożenia podania w postaci elektronicznej, i żądanie oraz czynić zadość innym wymaganiom ustalonym w przepisach szczególnych.
+### § 1.
 
-§ 3. Podanie wniesione na piśmie albo ustnie do protokołu powinno być podpisane przez wnoszącego, a protokół ponadto przez pracownika, który go sporządził. Gdy podanie wnosi osoba, która nie może lub nie umie złożyć podpisu, podanie lub protokół podpisuje za nią inna osoba przez nią upoważniona, czyniąc o tym wzmiankę obok podpisu.
+Osobie, która stawiła się na wezwanie, przyznaje się koszty podróży i inne należności według przepisów o należnościach świadków i biegłych w postępowaniu sądowym. Dotyczy to również kosztów osobistego stawiennictwa stron, gdy postępowanie zostało wszczęte z urzędu albo gdy strona została bez swojej winy błędnie wezwana do stawienia się.
 
-§ 3a. Podanie wniesione na adres do doręczeń elektronicznych lub za pośrednictwem konta w systemie teleinformatycznym organu administracji publicznej zawiera dane w ustalonym formacie, zawartym we wzorze podania określonym w odrębnych przepisach, jeżeli te przepisy nakazują wnoszenie podań według określonego wzoru.
+### § 2.
 
-§ 3b. (uchylony) § 4. Organ administracji publicznej jest obowiązany potwierdzić wniesienie podania, jeżeli wnoszący tego zażąda.
+Żądanie przyznania należności należy zgłosić organowi administracji państwowej, przed którym toczy się postępowanie, przed wydaniem decyzji, pod rygorem utraty roszczenia.
 
-§ 5. (uchylony)
+### Rozdział 9 Terminy
 
-**Art. 64.**
+### Art. 53.
 
-§ 1. Jeżeli w podaniu nie wskazano adresu wnoszącego i nie ma możności ustalenia tego adresu na podstawie posiadanych danych, podanie pozostawia się bez rozpoznania.
+### § 1.
 
-§ 2. Jeżeli podanie nie spełnia innych wymagań ustalonych w przepisach prawa, należy wezwać wnoszącego do usunięcia braków w wyznaczonym terminie, nie krótszym niż siedem dni, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie podania bez rozpoznania.
+Jeżeli początkiem terminu określonego w dniach jest pewne zdarzenie, przy obliczaniu tego terminu nie uwzględnia się dnia, w którym zdarzenie nastąpiło. Upływ ostatniego z wyznaczonej liczby dni uważa się za koniec terminu.
 
-**Art. 65.**
+### § 2.
 
-§ 1. Jeżeli organ administracji publicznej, do którego podanie wniesiono, jest niewłaściwy w sprawie, niezwłocznie przekazuje je do organu właściwego, zawiadamiając jednocześnie o tym wnoszącego podanie. Zawiadomienie o przekazaniu powinno zawierać uzasadnienie.
+Terminy określone w tygodniach kończą się z upływem tego dnia w ostatnim tygodniu, który nazwą odpowiada początkowemu dniowi terminu.
 
-§ 1a. Zawiadomienie o przekazaniu sprawy zawiera również informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w zakresie danych przetwarzanych przez organ przekazujący, chyba że wnoszący podanie posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+### § 3.
 
-§ 2. Podanie wniesione do organu niewłaściwego przed upływem przepisanego terminu uważa się za wniesione z zachowaniem terminu.
+Terminy określone w miesiącach kończą się z upływem tego dnia w ostatnim miesiącu, który odpowiada początkowemu dniowi terminu, a gdyby takiego dnia w ostatnim miesiącu nie było - w ostatnim dniu tego miesiąca.
 
-**Art. 66.**
+### § 4.
 
-§ 1. Jeżeli podanie dotyczy kilku spraw podlegających załatwieniu przez różne organy, organ administracji publicznej, do którego podanie wniesiono, uczyni przedmiotem rozpoznania sprawy należące do jego właściwości. Równocześnie zawiadomi wnoszącego podanie, że w sprawach innych powinien wnieść odrębne podanie do właściwego organu, i poinformuje go o treści § 2. Do zawiadomienia stosuje się odpowiednio przepis art. 65 § 1a.
+Jeżeli koniec terminu przypada na dzień ustawowo wolny od pracy, za ostatni dzień terminu uważa się najbliższy następny dzień powszedni.
 
-§ 2. Odrębne podanie złożone zgodnie z zawiadomieniem, o którym mowa w § 1, w terminie czternastu dni od daty doręczenia zawiadomienia uważa się za złożone w dniu wniesienia pierwszego podania.
+### § 5.
 
-§ 3. Jeżeli podanie wniesiono do organu niewłaściwego, a organu właściwego nie można ustalić na podstawie danych podania, albo gdy z podania wynika, że właściwym w sprawie jest sąd powszechny, organ, do którego podanie wniesiono, zwraca je wnoszącemu. Zwrot podania następuje w drodze postanowienia, na które służy zażalenie.
+Termin uważa się za zachowany, jeżeli przed jego upływem nadano pismo w urzędzie pocztowym lub telegraficznym.
 
-§ 4. Organ nie może jednak zwrócić podania z tej przyczyny, że właściwym w sprawie jest sąd powszechny, jeżeli w tej sprawie sąd uznał się już za niewłaściwy.
+### Art. 54.
 
-#### Rozdział 2 Metryki, protokoły i adnotacje
+### § 1.
 
-**Art. 66a.**
+W razie uchybienia terminu należy przywrócić termin na prośbę zainteresowanego, jeżeli uprawdopodobni, że uchybienie nastąpiło bez jego winy.
 
-§ 1. W aktach sprawy zakłada się metrykę sprawy.
+### § 2.
 
-§ 2. W treści metryki sprawy wskazuje się wszystkie osoby, które uczestniczyły w podejmowaniu czynności w postępowaniu administracyjnym oraz określa się wszystkie podejmowane przez te osoby czynności wraz z odpowiednim odesłaniem do dokumentów określających te czynności.
+Prośbę o przywrócenie terminu należy wnieść w ciągu siedmiu dni od dnia ustania przyczyny uchybienia terminu. Jednocześnie z wniesieniem prośby należy dopełnić czynności, dla której określony był termin.
 
-§ 3. Metryka sprawy, wraz z dokumentami do których odsyła, stanowi obowiązkową część akt sprawy i jest na bieżąco aktualizowana.
+### § 3.
 
-§ 4. Minister właściwy do spraw administracji publicznej określa, w drodze rozporządzenia, wzór i sposób prowadzenia metryki sprawy, uwzględniając treść i formę metryki określoną w § 1 i 2 oraz obowiązek bieżącej aktualizacji metryki, a także, aby w oparciu o treść metryki było możliwe ustalenie treści czynności w postępowaniu administracyjnym podejmowanych w sprawie przez poszczególne osoby.
+Przywrócenie terminu do złożenia prośby przewidzianej w § 2 jest niedopuszczalne.
 
-§ 5. Minister właściwy do spraw administracji publicznej określa, w drodze rozporządzenia, rodzaje spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki w stosunku do prostego i powtarzalnego charakteru tych spraw.
+### Art. 55.
 
-**Art. 67.**
+### § 1.
 
-§ 1. Organ administracji publicznej sporządza zwięzły protokół z każdej czynności postępowania, mającej istotne znaczenie dla rozstrzygnięcia sprawy, chyba że czynność została w inny sposób utrwalona na piśmie.
+O przywróceniu terminu postanawia właściwy w sprawie organ administracji państwowej. Od postanowienia o odmowie przywrócenia terminu służy zażalenie.
 
-§ 2. W szczególności sporządza się protokół:
+### § 2.
 
-- **1)** przyjęcia wniesionego ustnie podania;
-- **2)** przesłuchania strony, świadka i biegłego;
-- **3)** oględzin i ekspertyz dokonywanych przy udziale przedstawiciela organu administracji publicznej;
-- **4)** rozprawy;
-- **5)** ustnego ogłoszenia decyzji i postanowienia.
+O przywróceniu terminu do wniesienia odwołania lub zażalenia postanawia ostatecznie organ właściwy do rozpatrzenia odwołania lub zażalenia.
 
-**Art. 68.**
+### Art. 56.
 
-§ 1. Protokół sporządza się tak, aby z niego wynikało, kto, kiedy, gdzie i jakich czynności dokonał, kto i w jakim charakterze był przy tym obecny, co i w jaki sposób w wyniku tych czynności ustalono i jakie uwagi zgłosiły obecne osoby.
+Przed rozpatrzeniem prośby o przywrócenie terminu do wniesienia odwołania lub zażalenia organ administracji państwowej na żądanie strony może wstrzymać wykonanie decyzji lub postanowienia.
 
-§ 2. Protokół odczytuje się wszystkim osobom obecnym, biorącym udział w czynności urzędowej, które powinny następnie protokół podpisać. Odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokole.
+### Dział II Postępowanie
 
-**Art. 69.**
+### Rozdział 1 Wszczęcie postępowania
 
-§ 1. Protokół przesłuchania powinien być odczytany i przedstawiony do podpisu osobie zeznającej niezwłocznie po złożeniu zeznania.
+### Art. 57.
 
-§ 2. W protokołach przesłuchania osoby, która złożyła zeznanie w języku obcym, należy podać w przekładzie na język polski treść złożonego zeznania oraz wskazać osobę i adres tłumacza, który dokonał przekładu; tłumacz ten powinien podpisać protokół przesłuchania.
+### § 1.
 
-**Art. 70.** Organ administracji publicznej może zezwolić na dołączenie do protokołu zeznania na piśmie, podpisanego przez zeznającego, oraz innych dokumentów mających znaczenie dla sprawy.
+Postępowanie administracyjne wszczyna się na żądanie strony lub z urzędu.
 
-**Art. 71.** Skreśleń i poprawek w protokole należy tak dokonywać, aby wyrazy skreślone i poprawione były czytelne. Skreślenia i poprawki powinny być stwierdzone w protokole przed jego podpisaniem.
+### § 2.
 
-**Art. 72.**
+Datą wszczęcia postępowania na żądanie strony jest dzień doręczenia żądania organowi administracji państwowej.
 
-§ 1. Czynności organu administracji publicznej, z których nie sporządza się protokołu, a które mają znaczenie dla sprawy lub toku postępowania, utrwala się w aktach w formie adnotacji podpisanej przez pracownika, który dokonał tych czynności.
+### § 3.
 
-§ 2. (uchylony)
+O wszczęciu postępowania z urzędu lub na żądanie jednej ze stron należy zawiadomić wszystkie osoby będące stronami w sprawie.
 
-#### Rozdział 3 Udostępnianie akt
+### Art. 58.
 
-**Art. 73.**
+### § 1.
 
-§ 1. Strona ma prawo wglądu w akta sprawy, sporządzania z nich notatek, kopii lub odpisów. Prawo to przysługuje również po zakończeniu postępowania.
+Podania (żądania, wyjaśnienia, odwołania, zażalenia) mogą być wnoszone pisemnie lub telegraficznie. Podania mogą być wnoszone również ustnie do protokołu.
 
-§ 1a. Czynności określone w § 1 są dokonywane w lokalu organu administracji publicznej w obecności pracownika tego organu.
+### § 2.
 
-§ 1b. Wgląd w akta sprawy w przypadku, o którym mowa w art. 236 § 2, następuje z pominięciem danych osobowych osoby składającej skargę.
+Podanie powinno zawierać co najmniej wskazanie osoby, od której pochodzi, jej adres i żądanie oraz czynić zadość innym wymaganiom ustalonym w przepisach szczególnych.
 
-§ 2. Strona może żądać uwierzytelnienia odpisów lub kopii akt sprawy lub wydania jej z akt sprawy uwierzytelnionych odpisów, o ile jest to uzasadnione ważnym interesem strony.
+### § 3.
 
-§ 3. Organ administracji publicznej może zapewnić stronie dokonanie czynności, o których mowa w § 1, w swoim systemie teleinformatycznym, po uwierzytelnieniu strony w sposób określony w art. 20a ust. 1 albo 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+Podanie wniesione pisemnie albo ustnie do protokołu powinno być podpisane przez wnoszącego, a protokół ponadto przez pracownika, który go sporządził. Gdy podanie wnosi osoba, która nie może lub nie umie złożyć podpisu, podanie lub protokół podpisuje za nią inna osoba przez nią upoważniona, czyniąc o tym wzmiankę obok podpisu.
 
-**Art. 74.**
+### § 4.
 
-§ 1. Przepisu art. 73 nie stosuje się do akt sprawy zawierających informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne”, a także do innych akt, które organ administracji publicznej wyłączy ze względu na ważny interes państwowy.
+Organ administracji państwowej obowiązany jest potwierdzić wniesienie podania, jeżeli wnoszący je tego zażąda.
 
-§ 2. Odmowa umożliwienia stronie przeglądania akt sprawy, sporządzania z nich notatek, kopii i odpisów, uwierzytelnienia takich kopii i odpisów lub wydania uwierzytelnionych odpisów następuje w drodze postanowienia, na które służy zażalenie.
+### Art. 59.
 
-**Art. 74a.** Przepis art. 73 § 1 nie narusza prawa osoby, której dane dotyczą, do skorzystania z uprawnień wynikających z art. 15 rozporządzenia 2016/679.
+### § 1.
 
-#### Rozdział 4 Dowody
+Jeżeli w podaniu nie wskazano adresu wnoszącego i nie ma możności ustalenia tego adresu na podstawie posiadanych danych, podanie pozostawia się bez rozpoznania.
 
-**Art. 75.**
+### § 2.
 
-§ 1. Jako dowód należy dopuścić wszystko, co może przyczynić się do wyjaśnienia sprawy, a nie jest sprzeczne z prawem. W szczególności dowodem mogą być dokumenty, zeznania świadków, opinie biegłych oraz oględziny.
+Jeżeli podanie nie czyni zadość innym wymaganiom ustalonym w przepisach prawa, należy wezwać wnoszącego do usunięcia braków w terminie siedmiu dni z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie podania bez rozpoznania.
 
-§ 2. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia właściwego organu administracji, organ administracji publicznej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności za fałszywe zeznania. Przepis art. 83 § 3 stosuje się odpowiednio.
+### Art. 60.
 
-**Art. 76.**
+### § 1.
 
-§ 1. Dokumenty urzędowe sporządzone w przepisanej formie przez powołane do tego organy państwowe w ich zakresie działania stanowią dowód tego, co zostało w nich urzędowo stwierdzone.
+Jeżeli organ administracji państwowej, do którego podanie wniesiono, jest niewłaściwy w sprawie, powinien niezwłocznie przekazać je do organu właściwego, zawiadamiając o tym wnoszącego podanie.
 
-§ 2. Przepis § 1 stosuje się odpowiednio do dokumentów urzędowych sporządzanych przez organy jednostek organizacyjnych lub podmioty, w zakresie poruczonych im z mocy prawa lub porozumienia spraw wymienionych w art. 1 pkt 1 i 4.
+### § 2.
 
-§ 3. Przepisy § 1 i 2 nie wyłączają możliwości przeprowadzenia dowodu przeciwko treści dokumentów wymienionych w tych przepisach.
+Podanie wniesione do organu niewłaściwego przed upływem przepisanego terminu uważa się za wniesione z zachowaniem terminu.
 
-**Art. 76a.**
+### Art. 61.
 
-§ 1. Jeżeli dokument znajduje się w aktach organu lub podmiotu, o którym mowa w art. 76 § 1 lub 2, wystarczy przedstawić urzędowo poświadczony przez ten organ lub podmiot odpis lub wyciąg z dokumentu. Organ administracji publicznej zażąda udzielenia odpisu lub wyciągu, jeżeli strona sama uzyskać ich nie może. Gdy organ uzna za konieczne przejrzenie oryginału dokumentu, może wystąpić o jego dostarczenie.
+### § 1.
 
-§ 2. Zamiast oryginału dokumentu strona może złożyć odpis dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub doradcą podatkowym.
+Jeżeli podanie dotyczy kilku spraw podlegających załatwianiu przez różne organy, organ administracji państwowej, do którego podanie wniesiono, uczyni przedmiotem rozpoznania sprawy należące do jego właściwości. Równocześnie zawiadomi wnoszącego podanie, że w sprawach innych powinien wnieść odrębne podanie do właściwego organu i poinformuje go o treści § 2.
 
-§ 2a. Jeżeli odpis dokumentu został sporządzony na piśmie utrwalonym w postaci elektronicznej, poświadczenia jego zgodności z oryginałem, o którym mowa w § 2, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub podpisu osobistego. Odpisy dokumentów poświadczane elektronicznie sporządzane są w formatach danych określonych w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+### § 2.
 
-§ 2b. Upoważniony pracownik organu prowadzącego postępowanie, któremu został okazany oryginał dokumentu wraz z odpisem, na żądanie strony, poświadcza zgodność odpisu dokumentu z oryginałem. Poświadczenie obejmuje podpis pracownika, datę i oznaczenie miejsca sporządzenia poświadczenia, a na żądanie strony, również godzinę sporządzenia poświadczenia. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia), należy stwierdzić to w poświadczeniu.
+Odrębne podanie złożone zgodnie z zawiadomieniem, o którym mowa w § 1, w terminie czternastu dni od daty doręczenia zawiadomienia uważa się za złożone w dniu wniesienia pierwszego podania.
 
-§ 3. Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym, rzecznikiem patentowym lub doradcą podatkowym albo przez upoważnionego pracownika organu prowadzącego postępowanie ma charakter dokumentu urzędowego.
+### § 3.
 
-§ 4. Jeżeli jest to uzasadnione okolicznościami sprawy, organ administracji publicznej zażąda od strony składającej odpis dokumentu, o którym mowa w § 2, przedłożenia oryginału tego dokumentu.
+Jeżeli podanie wniesiono do organu niewłaściwego, a organu właściwego nie można ustalić na podstawie danych podania, albo gdy z podania wynika, że właściwym w sprawie jest sąd, organ, do którego podanie wniesiono, zwraca je wnoszącemu z odpowiednim pouczeniem.
 
-**Art. 77.**
+### Rozdział 2 Protokoły i adnotacje
 
-§ 1. Organ administracji publicznej jest obowiązany w sposób wyczerpujący zebrać i rozpatrzyć cały materiał dowodowy.
+### Art. 62.
 
-§ 2. Organ może w każdym stadium postępowania zmienić, uzupełnić lub uchylić swoje postanowienie dotyczące przeprowadzenia dowodu.
+### § 1.
 
-§ 3. Organ przeprowadzający postępowanie na wezwanie organu właściwego do załatwienia sprawy (art. 52) może z urzędu lub na wniosek strony przesłuchać również nowych świadków i biegłych na okoliczności będące przedmiotem tego postępowania.
+Organ administracji państwowej sporządza zwięzły protokół z każdej czynności postępowania, mającej istotne znaczenie dla rozstrzygnięcia sprawy, chyba że czynność została w inny sposób utrwalona na piśmie.
 
-§ 4. Fakty powszechnie znane oraz fakty znane organowi z urzędu nie wymagają dowodu. Fakty znane organowi z urzędu należy zakomunikować stronie.
+### § 2.
 
-**Art. 78.**
+W szczególności sporządza się protokół:
 
-§ 1. Żądanie strony dotyczące przeprowadzenia dowodu należy uwzględnić, jeżeli przedmiotem dowodu jest okoliczność mająca znaczenie dla sprawy.
+### 1)
 
-§ 2. Organ administracji publicznej może nie uwzględnić żądania (§ 1), które nie zostało zgłoszone w toku przeprowadzania dowodów lub w czasie rozprawy, jeżeli żądanie to dotyczy okoliczności już stwierdzonych innymi dowodami, chyba że mają one znaczenie dla sprawy.
+przyjęcia wniesionego ustnie podania,
 
-**Art. 79.**
+### 2)
 
-§ 1. Strona powinna być zawiadomiona o miejscu i terminie przeprowadzenia dowodu ze świadków, biegłych lub oględzin przynajmniej na siedem dni przed terminem.
+przesłuchania strony, świadka i biegłego,
 
-§ 2. Strona ma prawo brać udział w przeprowadzeniu dowodu, może zadawać pytania świadkom, biegłym i stronom oraz składać wyjaśnienia.
+### 3)
 
-**Art. 79a.**
+oględzin i ekspertyz dokonywanych przy udziale przedstawiciela organu administracji państwowej,
 
-§ 1. W postępowaniu wszczętym na żądanie strony, informując o możliwości wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań, organ administracji publicznej jest obowiązany do wskazania przesłanek zależnych od strony, które nie zostały na dzień wysłania informacji spełnione lub wykazane, co może skutkować wydaniem decyzji niezgodnej z żądaniem strony. Przepisy art. 10 § 2 i 3 stosuje się.
+### 4)
 
-§ 2. W terminie wyznaczonym na wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań, strona może przedłożyć dodatkowe dowody celem wykazania spełnienia przesłanek, o których mowa w § 1.
+rozprawy,
 
-**Art. 80.** Organ administracji publicznej ocenia na podstawie całokształtu materiału dowodowego, czy dana okoliczność została udowodniona.
+### 5)
 
-**Art. 81.** Okoliczność faktyczna może być uznana za udowodnioną, jeżeli strona miała możność wypowiedzenia się co do przeprowadzonych dowodów, chyba że zachodzą okoliczności, o których mowa w art. 10 § 2.
+ustnego ogłoszenia decyzji i postanowienia.
 
-**Art. 81a.**
+### Art. 63.
 
-§ 1. Jeżeli przedmiotem postępowania administracyjnego jest nałożenie na stronę obowiązku bądź ograniczenie lub odebranie stronie uprawnienia, a w tym zakresie pozostają niedające się usunąć wątpliwości co do stanu faktycznego, wątpliwości te są rozstrzygane na korzyść strony.
+### § 1.
 
-§ 2. Przepisu § 1 nie stosuje się:
+Protokół sporządza się tak, aby z niego wynikało, kto, kiedy, gdzie i jakich czynności dokonał, kto i w jakim charakterze był przy tym obecny, co i w jaki sposób w wyniku tych czynności ustalono i jakie uwagi zgłosiły obecne osoby.
 
-- **1)** jeżeli w sprawie uczestniczą strony o spornych interesach lub wynik postępowania ma bezpośredni wpływ na interesy osób trzecich;
-- **2)** jeżeli przepisy odrębne wymagają od strony wykazania określonych faktów;
-- **3)** jeżeli wymaga tego ważny interes publiczny, w tym istotne interesy państwa, a w szczególności jego bezpieczeństwa, obronności lub porządku publicznego;
-- **4)** w sprawach osobowych funkcjonariuszy oraz żołnierzy zawodowych.
+### § 2.
 
-**Art. 82.** Świadkami nie mogą być:
+Protokół odczytuje się wszystkim osobom obecnym, biorącym udział w czynności urzędowej, które powinny następnie protokół podpisać. Odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokole.
 
-**Art. 83.**
+### Art. 64.
 
-§ 1. Nikt nie ma prawa odmówić zeznań w charakterze świadka, z wyjątkiem małżonka strony, wstępnych, zstępnych i rodzeństwa strony oraz jej powinowatych pierwszego stopnia, jak również osób pozostających ze stroną w stosunku przysposobienia, opieki lub kurateli. Prawo odmowy zeznań trwa także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli.
+### § 1.
 
-§ 2. Świadek może odmówić odpowiedzi na pytania, gdy odpowiedź mogłaby narazić jego lub jego bliskich wymienionych w § 1 na odpowiedzialność karną, hańbę lub bezpośrednią szkodę majątkową albo spowodować naruszenie obowiązku zachowania prawnie chronionej tajemnicy zawodowej.
+Protokół przesłuchania powinien być odczytany i przedstawiony do podpisu osobie zeznającej niezwłocznie po złożeniu zeznania.
 
-§ 3. Przed odebraniem zeznania organ administracji publicznej uprzedza świadka o prawie odmowy zeznań i odpowiedzi na pytania oraz o odpowiedzialności za fałszywe zeznania.
+### § 2.
 
-§ 4. Mediator nie może być przesłuchany w charakterze świadka co do faktów, o których dowiedział się w związku z prowadzeniem mediacji, chyba że uczestnicy mediacji zwolnią go od obowiązku zachowania tajemnicy mediacji.
+W protokołach przesłuchania osoby, która złożyła zeznanie w języku obcym, należy podać w przekładzie na język polski treść złożonego zeznania oraz wskazać osobę i adres tłumacza, który dokonał przekładu; tłumacz ten powinien podpisać protokół przesłuchania.
 
-**Art. 84.**
+### Art. 65.
 
-§ 1. Gdy w sprawie wymagane są wiadomości specjalne, organ administracji publicznej może zwrócić się do biegłego lub biegłych o wydanie opinii.
+Organ administracji państwowej może zezwolić na dołączenie do protokołu zeznania na piśmie, podpisanego przez zeznającego, oraz innych dokumentów mających znaczenie dla sprawy.
 
-§ 2. Biegły podlega wyłączeniu na zasadach i w trybie określonym w art. 24. Poza tym do biegłych stosuje się przepisy dotyczące przesłuchania świadków.
+### Art. 66.
 
-**Art. 85.**
+Skreśleń i poprawek w protokole należy tak dokonywać, aby wyrazy skreślone i poprawione były czytelne. Skreślenia i poprawki powinny być stwierdzone w protokole przed jego podpisaniem.
 
-§ 1. Organ administracji publicznej może w razie potrzeby przeprowadzić oględziny.
+### Art. 67.
 
-§ 2. Jeżeli przedmiot oględzin znajduje się u osób trzecich, osoby te są obowiązane na wezwanie organu do okazania przedmiotu oględzin.
+Czynności organu administracji państwowej, z których nie sporządza się protokołu, a które mają znaczenie dla sprawy lub toku postępowania, utrwala się w aktach w formie adnotacji podpisanej przez pracownika, który dokonał tych czynności.
 
-**Art. 86.** Jeżeli po wyczerpaniu środków dowodowych lub z powodu ich braku pozostały niewyjaśnione fakty istotne dla rozstrzygnięcia sprawy, organ administracji publicznej dla ich wyjaśnienia może przesłuchać stronę. Do przesłuchania stron stosuje się przepisy dotyczące świadków, z wyłączeniem przepisów o środkach przymusu.
+### Rozdział 3 Udostępnianie akt
 
-**Art. 87.** Organ kolegialny, właściwy do wydania decyzji w sprawie, może zlecić przeprowadzenie postępowania dowodowego lub jego części jednemu ze swych członków lub pracowników, jeżeli szczególne przepisy temu się nie sprzeciwiają.
+### Art. 68.
 
-**Art. 88.**
+### § 1.
 
-§ 1. Kto, będąc obowiązany do osobistego stawienia się (art. 51), mimo prawidłowego wezwania nie stawił się bez uzasadnionej przyczyny jako świadek lub biegły albo bezzasadnie odmówił złożenia zeznania, wydania opinii, okazania przedmiotu oględzin albo udziału w innej czynności urzędowej, może być ukarany przez organ przeprowadzający dowód grzywną do 50 zł, a w razie ponownego niezastosowania się do wezwania – grzywną do 200 zł. Na postanowienie o ukaraniu grzywną służy zażalenie.
+W każdym stadium postępowania organ administracji państwowej obowiązany jest umożliwić stronie przeglądanie akt sprawy oraz sporządzanie z nich notatek i odpisów.
 
-§ 2. Organ, który nałożył karę grzywny, może na wniosek ukaranego, złożony w ciągu siedmiu dni od daty otrzymania zawiadomienia o ukaraniu, uznać za usprawiedliwioną nieobecność lub odmowę zeznania, wydania opinii albo okazania przedmiotu oględzin i zwolnić od kary grzywny. Na odmowę zwolnienia od kary służy zażalenie.
+### § 2.
 
-§ 3. Ukaranie grzywną nie wyklucza możności zastosowania do opornego świadka środków przymusu przewidzianych w przepisach szczególnych.
+Strona może żądać uwierzytelnienia sporządzonych przez siebie odpisów z akt sprawy lub wydania jej z akt sprawy uwierzytelnionych odpisów, o ile jest to uzasadnione ważnym interesem strony.
 
-**Art. 88a.** W razie uchybienia przez żołnierza w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, obowiązkom, o których mowa w art. 88 § 1, organ przeprowadzający dowód, zamiast wymierzyć żołnierzowi karę grzywny, występuje do dowódcy jednostki wojskowej, w której żołnierz ten pełni służbę, z wnioskiem o pociągnięcie go do odpowiedzialności dyscyplinarnej.
+### Art. 69.
 
-#### Rozdział 5 Rozprawa
+Przepisu art. 68 nie stosuje się do akt sprawy, objętych ochroną tajemnicy państwowej, a także do innych akt, które kierownik organu administracji państwowej wyłączy ze względu na ważny interes państwowy.
 
-**Art. 89.**
+### Rozdział 4 Dowody
 
-§ 1. Organ administracji publicznej przeprowadzi, z urzędu lub na wniosek strony, w toku postępowania rozprawę, w każdym przypadku gdy zapewni to przyspieszenie lub uproszczenie postępowania lub gdy wymaga tego przepis prawa.
+### Art. 70.
 
-§ 2. Organ powinien przeprowadzić rozprawę, gdy zachodzi potrzeba uzgodnienia interesów stron oraz gdy jest to potrzebne dla wyjaśnienia sprawy przy udziale świadków lub biegłych albo w drodze oględzin.
+Jako dowód należy dopuścić wszystko, co może przyczynić się do wyjaśnienia sprawy, a nie jest sprzeczne z prawem. W szczególności dowodem mogą być dokumenty, zeznania świadków oraz opinie biegłych.
 
-**Art. 90.**
+### Art. 71.
 
-§ 1. Organ administracji publicznej podejmuje przed rozprawą czynności niezbędne do jej przeprowadzenia.
+### § 1.
 
-§ 2. W szczególności organ wzywa:
+Organ administracji państwowej jest obowiązany w sposób wyczerpujący zebrać i rozpatrzyć cały materiał dowodowy.
 
-- **1)** strony do złożenia przed rozprawą wyjaśnień, dokumentów i innych dowodów i do stawienia się na rozprawę osobiście lub przez przedstawicieli albo pełnomocników;
-- **2)** świadków i biegłych do stawienia się na rozprawę.
+### § 2.
 
-§ 3. Ponadto organ zawiadamia o rozprawie państwowe i samorządowe jednostki organizacyjne, organizacje społeczne, a także inne osoby, jeżeli ich udział w rozprawie jest uzasadniony ze względu na jej przedmiot. W tym przypadku organ wzywa je do wzięcia udziału w rozprawie albo do złożenia przed rozprawą oświadczenia i dowodów dla jego poparcia.
+Organ może w każdym stadium postępowania zmienić, uzupełnić lub uchylić swoje postanowienie dotyczące przeprowadzenia dowodu.
 
-**Art. 91.**
+### § 3.
 
-§ 1. W wezwaniu na rozprawę określa się termin, miejsce i przedmiot rozprawy.
+Organ przeprowadzający postępowanie na wezwanie organu właściwego do załatwienia sprawy (art. 48) może z urzędu lub na wniosek strony przesłuchać również nowych świadków i biegłych na okoliczności będące przedmiotem tego postępowania.
 
-§ 2. Stronom, świadkom, biegłym oraz państwowym i samorządowym jednostkom organizacyjnym, organizacjom i innym osobom, wezwanym do udziału w rozprawie, doręcza się wezwanie na piśmie.
+### § 4.
 
-§ 3. Jeżeli zachodzi prawdopodobieństwo, że oprócz wezwanych stron, uczestniczących w postępowaniu, mogą być jeszcze w sprawie inne strony, nieznane organowi administracji publicznej, należy ponadto o terminie, miejscu i przedmiocie rozprawy ogłosić w formie publicznego obwieszczenia, w innej formie publicznego ogłoszenia zwyczajowo przyjętej w danej miejscowości lub przez udostępnienie zawiadomienia w Biuletynie Informacji Publicznej na stronie podmiotowej właściwego organu administracji publicznej.
+Fakty powszechnie znane oraz fakty znane organowi z urzędu nie wymagają dowodu. Fakty znane organowi z urzędu należy zakomunikować stronie.
 
-**Art. 92.** Termin rozprawy powinien być tak wyznaczony, aby doręczenie wezwań oraz ogłoszenie o rozprawie nastąpiły przynajmniej na siedem dni przed rozprawą.
+### Art. 72.
 
-**Art. 93.** Rozprawą kieruje wyznaczony do przeprowadzenia rozprawy pracownik tego organu administracji publicznej, przed którym toczy się postępowanie. Gdy postępowanie toczy się przed organem kolegialnym, rozprawą kieruje przewodniczący albo wyznaczony członek organu kolegialnego.
+### § 1.
 
-**Art. 93a.** Osoba pozbawiona wolności, która przebywa w zakładzie karnym lub areszcie śledczym, może brać udział w rozprawie przy użyciu urządzeń technicznych umożliwiających jej przeprowadzenie na odległość i tam dokonywać czynności. W miejscu przebywania osoby pozbawionej wolności w czynnościach bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego oraz może wziąć udział pełnomocnik, jeżeli został ustanowiony, i tłumacz, jeżeli osoba pozbawiona wolności włada niedostatecznie językiem polskim.
+Żądanie strony dotyczące przeprowadzenia dowodu należy uwzględnić, jeżeli przedmiotem dowodu jest okoliczność mająca znaczenie dla sprawy.
 
-**Art. 94.**
+### § 2.
 
-§ 1. Nieobecność na rozprawie stron należycie wezwanych na rozprawę nie stanowi przeszkody do jej przeprowadzenia.
+Organ administracji państwowej może nie uwzględnić żądania (§ 1), które nie zostało zgłoszone w toku przeprowadzania dowodów lub w czasie rozprawy, jeżeli żądanie to dotyczy okoliczności już stwierdzonych innymi dowodami, chyba że mają one znaczenie dla sprawy.
 
-§ 2. Kierujący rozprawą odroczy ją, jeżeli stwierdzi poważne nieprawidłowości w wezwaniu stron na rozprawę, jeżeli niestawienie się strony zostało spowodowane przeszkodą trudną do przezwyciężenia, a także z innej ważnej przyczyny.
+### Art. 73.
 
-**Art. 95.**
+### § 1.
 
-§ 1. Na rozprawie strony mogą składać wyjaśnienia, zgłaszać żądania, propozycje i zarzuty oraz przedstawiać dowody na ich poparcie. Ponadto strony mogą wypowiadać się co do wyników postępowania dowodowego.
+Strona powinna być zawiadomiona o miejscu i terminie przeprowadzenia dowodu ze świadków, biegłych lub oględzin przynajmniej na siedem dni przed terminem.
 
-§ 2. Kierujący rozprawą może uchylić zadawane świadkom, biegłym i stronom pytania, jeżeli nie mają one istotnego znaczenia dla sprawy. Jednakże na żądanie strony należy zamieścić w protokole osnowę treści uchylonego pytania.
+### § 2.
 
-**Art. 96.** Za niewłaściwe zachowanie się w czasie rozprawy strony, świadkowie, biegli i inne osoby uczestniczące w rozprawie mogą być, po uprzednim ostrzeżeniu, wydalone z miejsca rozprawy przez kierującego rozprawą oraz ukarane grzywną do 100 zł. Na postanowienie o ukaraniu grzywną służy zażalenie.
+Strona ma prawo brać udział w przeprowadzeniu dowodu, może zadawać pytania świadkom, biegłym i stronom oraz składać wyjaśnienia.
 
-#### Rozdział 5a Mediacja
+### Art. 74.
 
-**Art. 96a.**
+Organ administracji państwowej ocenia na podstawie całokształtu materiału dowodowego, czy dana okoliczność została udowodniona.
 
-§ 1. W toku postępowania może być przeprowadzona mediacja, jeżeli pozwala na to charakter sprawy.
+### Art. 75.
 
-§ 1a. Sprawą, której charakter pozwala na przeprowadzenie mediacji, jest w szczególności sprawa rozstrzygana w ramach uznania administracyjnego lub dotycząca:
+Okoliczność faktyczna może być uznana za udowodnioną, jeżeli strona miała możność wypowiedzenia się co do przeprowadzonych dowodów, chyba że zachodzą okoliczności, o których mowa w art. 8 § 2.
 
-- **1)** koncesji albo zezwolenia na prowadzenie działalności gospodarczej, albo wpisu do rejestru działalności regulowanej;
-- **2)** budownictwa i architektury;
-- **3)** zagospodarowania przestrzennego;
-- **4)** ochrony środowiska i przyrody;
-- **5)** nieruchomości;
-- **6)** rolnictwa;
-- **7)** leśnictwa;
-- **8)** rybołówstwa;
-- **9)** własności przemysłowej.
+### Art. 76.
 
-§ 1b. Organ administracji publicznej jest obowiązany sporządzić i utrwalić w aktach sprawy adnotację zawierającą informację, czy:
+Świadkami nie mogą być:
 
-- **1)** charakter sprawy pozwala na przeprowadzenie mediacji oraz
-- **2)** zachodzą okoliczności odstąpienia od zawiadomienia o możliwości przeprowadzenia mediacji, mimo że charakter sprawy pozwala na przeprowadzenie mediacji.
+### 1)
 
-§ 2. Mediacja jest dobrowolna.
+osoby niezdolne do spostrzegania lub komunikowania swych spostrzeżeń,
 
-§ 3. Celem mediacji jest wyjaśnienie i rozważenie okoliczności faktycznych i prawnych sprawy oraz dokonanie ustaleń dotyczących jej załatwienia w granicach obowiązującego prawa, w tym przez wydanie decyzji lub zawarcie ugody.
+### 2)
 
-§ 4. Uczestnikami mediacji mogą być:
+osoby obowiązane do zachowania tajemnicy państwowej i służbowej na okoliczności objęte tajemnicą, jeżeli nie zostały w trybie określonym obowiązującymi przepisami zwolnione od obowiązku zachowania tej tajemnicy,
 
-- **1)** organ prowadzący postępowanie oraz strona lub strony tego postępowania albo
-- **2)** strony postępowania.
+### 3)
 
-**Art. 96b.**
+duchowni co do faktów objętych tajemnicą spowiedzi.
 
-§ 1. Organ administracji publicznej, z urzędu lub na wniosek strony, zawiadamia strony oraz organ, o którym mowa w art. 106 § 1, w przypadku gdy ten organ nie zajął stanowiska, o możliwości przeprowadzenia mediacji. Zawiadomienia o możliwości przeprowadzenia mediacji można dokonywać więcej niż raz oraz na każdym etapie postępowania.
+### Art. 77.
 
-§ 2. We wniosku strona może wskazać mediatora.
+### § 1.
 
-§ 3. W zawiadomieniu o możliwości przeprowadzenia mediacji organ administracji publicznej zwraca się do stron o:
+Nikt nie ma prawa odmówić zeznań w charakterze świadka z wyjątkiem małżonka strony, wstępnych, zstępnych i rodzeństwa strony oraz jej powinowatych pierwszego stopnia, jak również osób pozostających ze stroną w stosunku przysposobienia, opieki lub kurateli.
 
-- **1)** wyrażenie zgody na przeprowadzenie mediacji,
-- **2)** wybranie mediatora – w terminie czternastu dni od dnia doręczenia zawiadomienia.
+### § 2.
 
-§ 4. Zawiadomienie o możliwości przeprowadzenia mediacji zawiera pouczenie o zasadach, korzyściach i kosztach mediacji oraz możliwości ponawiania zawiadomienia na każdym etapie postępowania.
+Świadek może odmówić odpowiedzi na pytania, gdy odpowiedź mogłaby narazić jego lub jego bliskich wymienionych w § 1 na odpowiedzialność karną, hańbę lub bezpośrednią szkodę majątkową albo spowodować naruszenie obowiązku zachowania prawnie chronionej tajemnicy zawodowej.
 
-§ 5. Organ administracji publicznej odstępuje od zawiadomienia o możliwości przeprowadzenia mediacji, jeżeli z okoliczności faktycznych i prawnych wynika, że:
+### § 3.
 
-- **1)** sprawa powinna być załatwiona niezwłocznie, w tym jeżeli wymaga tego ważny interes publiczny, lub
-- **2)** przeprowadzenie mediacji zmierzałoby jedynie do przedłużenia postępowania.
+Przed odebraniem zeznania organ administracji państwowej uprzedza świadka o prawie odmowy zeznań i odpowiedzi na pytania oraz o odpowiedzialności za fałszywe zeznania.
 
-**Art. 96c.** Mediacji nie przeprowadza się w przypadku niewyrażenia zgody na przeprowadzenie mediacji w terminie, o którym mowa w art. 96b § 3.
+### Art. 78.
 
-**Art. 96d.**
+### § 1.
 
-§ 1. Jeżeli uczestnicy mediacji wyrazili zgodę na przeprowadzenie mediacji, organ administracji publicznej wydaje postanowienie o skierowaniu sprawy do mediacji. Postanowienie doręcza się stronom oraz organowi, o którym mowa w art. 106 § 1.
+Gdy w sprawie wymagane są wiadomości specjalne, organ administracji państwowej może zwrócić się do biegłego lub biegłych o wydanie opinii.
 
-§ 2. W postanowieniu o skierowaniu sprawy do mediacji wskazuje się mediatora wybranego przez uczestników mediacji, a jeżeli uczestnicy mediacji nie wybrali mediatora, wskazuje się mediatora wybranego przez organ administracji publicznej, posiadającego odpowiednią wiedzę i umiejętności w zakresie prowadzenia mediacji w sprawach danego rodzaju.
+### § 2.
 
-**Art. 96e.**
+Strona może zażądać wyłączenia biegłego w przypadkach określonych w art. 21. Poza tym do biegłych stosuje się przepisy dotyczące przesłuchania świadków.
 
-§ 1. Organ administracji publicznej, kierując sprawę do mediacji, odracza rozpatrzenie sprawy na okres do dwóch miesięcy.
+### Art. 79.
 
-§ 2. Na zgodny wniosek uczestników mediacji lub z innych ważnych powodów termin określony w § 1 może zostać przedłużony, nie dłużej jednak niż o miesiąc.
+### § 1.
 
-§ 3. W przypadku nieosiągnięcia celów mediacji określonych w art. 96a § 3 w terminie, o którym mowa w § 1 albo 2, organ administracji publicznej wydaje postanowienie o zakończeniu mediacji i załatwia sprawę.
+Organ administracji państwowej może w razie potrzeby przeprowadzić oględziny.
 
-**Art. 96f.**
+### § 2.
 
-§ 1. Mediatorem może być osoba fizyczna, która posiada pełną zdolność do czynności prawnych i korzysta z pełni praw publicznych, w szczególności mediator wpisany na listę stałych mediatorów lub do wykazu instytucji i osób uprawnionych do prowadzenia postępowania mediacyjnego, prowadzonych przez prezesa sądu okręgowego, lub na listę prowadzoną przez organizację pozarządową lub uczelnię, o której informację przekazano prezesowi sądu okręgowego.
+Jeżeli przedmiot oględzin znajduje się u osób trzecich, osoby te są obowiązane na wezwanie organu do okazania przedmiotu oględzin.
 
-§ 2. W przypadku gdy organ prowadzący postępowanie jest uczestnikiem mediacji, mediatorem może być wyłącznie osoba wpisana na listę stałych mediatorów lub do wykazu instytucji i osób uprawnionych do prowadzenia postępowania mediacyjnego, prowadzonych przez prezesa sądu okręgowego, lub mediator wpisany na listę prowadzoną przez organizację pozarządową lub uczelnię, o której informację przekazano prezesowi sądu okręgowego.
+### Art. 80.
 
-§ 3. Mediatorem nie może być pracownik organu administracji publicznej, przed którym toczy się postępowanie w sprawie.
+Organ kolegialny, właściwy do wydania decyzji w sprawie, może zlecić przeprowadzenie postępowania dowodowego lub jego części jednemu ze swych członków lub pracowników, jeżeli szczególne przepisy temu się nie sprzeciwiają.
 
-**Art. 96g.**
+### Art. 81.
 
-§ 1. Mediator powinien zachować bezstronność przy prowadzeniu mediacji i niezwłocznie ujawnić okoliczności, które mogłyby wzbudzić wątpliwość co do jego bezstronności, w tym odpowiednio okoliczności, o których mowa w art. 24 § 1 i 2.
+### § 1.
 
-§ 2. Mediator odmawia przeprowadzenia mediacji w przypadku wątpliwości co do jego bezstronności i niezwłocznie zawiadamia o tym uczestników mediacji oraz organ administracji publicznej, jeżeli nie jest on uczestnikiem mediacji.
+Kto, będąc obowiązany do osobistego stawienia się (art. 47), mimo prawidłowego wezwania nie stawił się bez uzasadnionej przyczyny jako strona, świadek lub biegły albo bezzasadnie odmówił złożenia zeznania, wydania opinii, okazania przedmiotu oględzin albo udziału w innej czynności urzędowej, może być ukarany przez organ przeprowadzający dowód grzywną do 300 zł, a w razie ponownego niezastosowania się do wezwania - grzywną do 500 zł.
 
-**Art. 96h.** Organ administracji publicznej niezwłocznie przekazuje mediatorowi dane kontaktowe uczestników mediacji oraz ich pełnomocników, w szczególności numery telefonów i adresy poczty elektronicznej, jeżeli je posiada.
+### § 2.
 
-**Art. 96i.** Mediator zapoznaje się z aktami sprawy i ma prawo sporządzania z nich notatek, kopii lub odpisów, chyba że uczestnik mediacji w terminie siedmiu dni od dnia ogłoszenia lub doręczenia postanowienia o skierowaniu sprawy do mediacji nie wyrazi zgody na zapoznanie się mediatora z aktami.
+Organ, który nałożył karę grzywny, może na wniosek ukaranego, złożony w ciągu siedmiu dni od daty otrzymania zawiadomienia o ukaraniu, uznać za usprawiedliwioną nieobecność lub odmowę zeznania, wydania opinii albo okazania przedmiotu oględzin i zwolnić od kary grzywny. Na odmowę zwolnienia od kary służy zażalenie.
 
-**Art. 96j.**
+### § 3.
 
-§ 1. Mediacja nie jest jawna.
+Ukaranie grzywną nie wyklucza możności zastosowania do opornego świadka środków przymusu, przewidzianych w przepisach szczególnych.
 
-§ 2. Mediator, uczestnicy mediacji i inne osoby biorące udział w mediacji są obowiązani zachować w tajemnicy wszelkie fakty, o których dowiedzieli się w związku z prowadzeniem mediacji, chyba że uczestnicy mediacji postanowią inaczej.
+### Rozdział 5 Rozprawa
 
-§ 3. Propozycje ugodowe, ujawnione fakty lub oświadczenia złożone w toku mediacji nie mogą być wykorzystywane po jej zakończeniu, z wyjątkiem ustaleń zawartych w protokole z przebiegu mediacji.
+### Art. 82.
 
-**Art. 96k.** Mediator prowadzi mediację, dążąc do polubownego rozwiązania sporu, w tym przez wspieranie uczestników mediacji w formułowaniu przez nich propozycji ugodowych.
+### § 1.
 
-**Art. 96l.**
+Organ administracji państwowej może przeprowadzić w toku postępowania rozprawę, jeżeli w ten sposób da się osiągnąć znaczne przyspieszenie lub uproszczenie postępowania.
 
-§ 1. Mediator ma prawo do wynagrodzenia i zwrotu wydatków związanych z przeprowadzeniem mediacji, chyba że wyraził zgodę na prowadzenie mediacji bez wynagrodzenia.
+### § 2.
 
-§ 2. Koszty wynagrodzenia i zwrotu wydatków związanych z przeprowadzeniem mediacji pokrywa organ administracji publicznej, a w sprawach, w których może być zawarta ugoda – strony w równych częściach, chyba że postanowią one inaczej.
+Organ powinien przeprowadzić rozprawę:
 
-§ 3. Koszty mediacji są pokrywane niezwłocznie po jej zakończeniu.
+### 1)
 
-**Art. 96m.**
+jeżeli jest to potrzebne dla wyjaśnienia sprawy przy udziale świadków lub biegłych albo w drodze oględzin,
 
-§ 1. Mediator sporządza protokół z przebiegu mediacji.
+### 2)
 
-§ 2. Protokół z przebiegu mediacji zawiera:
+gdy zachodzi potrzeba uzgodnienia interesów stron,
 
-- **1)** czas i miejsce przeprowadzenia mediacji;
-- **2)** imiona i nazwiska (nazwy) oraz adresy (siedziby) uczestników mediacji;
-- **3)** imię i nazwisko oraz adres mediatora;
-- **4)** dokonane ustalenia co do sposobu załatwienia sprawy;
-- **5)** podpis mediatora oraz uczestników mediacji, a jeżeli którykolwiek z uczestników mediacji nie może podpisać protokołu, wzmiankę o przyczynie braku podpisu.
+### 3)
 
-§ 3. Mediator niezwłocznie przedkłada protokół z przebiegu mediacji organowi administracji publicznej w celu włączenia go do akt sprawy i doręcza odpis tego protokołu uczestnikom mediacji.
+jeżeli wymagają tego przepisy prawne.
 
-**Art. 96n.**
+### Art. 83.
 
-§ 1. Jeżeli w wyniku mediacji zostaną dokonane ustalenia dotyczące załatwienia sprawy w granicach obowiązującego prawa, organ administracji publicznej załatwia sprawę zgodnie z tymi ustaleniami, zawartymi w protokole z przebiegu mediacji.
+### § 1.
 
-§ 2. Do akt postępowania nie włącza się dokumentów i innych materiałów, które nie znajdują się w aktach postępowania, ujawnionych w toku mediacji przez jej uczestników, jeżeli te dokumenty i materiały nie stanowią podstawy do załatwienia sprawy zgodnie z ustaleniami zawartymi w protokole z przebiegu mediacji.
+Organ administracji państwowej podejmuje przed rozprawą czynności niezbędne do jej przeprowadzenia.
 
-#### Rozdział 6 Zawieszenie postępowania
+### § 2.
 
-**Art. 97.**
+W szczególności organ wzywa:
 
-§ 1. Organ administracji publicznej zawiesza postępowanie:
+### 1)
 
-- **1)** w razie śmierci strony lub jednej ze stron, jeżeli wezwanie spadkobierców zmarłej strony albo zarządcy sukcesyjnego do udziału w postępowaniu nie jest możliwe i nie zachodzą okoliczności, o których mowa w art. 30 § 5, a postępowanie nie podlega umorzeniu jako bezprzedmiotowe (art. 105);
-- **2)** w razie śmierci przedstawiciela ustawowego strony;
-- **3)** w razie utraty przez stronę lub przez jej ustawowego przedstawiciela zdolności do czynności prawnych;
-- **3a)** w razie wygaśnięcia zarządu sukcesyjnego, gdy postępowanie toczyło się z udziałem zarządcy sukcesyjnego, jeżeli wezwanie spadkobierców zmarłego do udziału w postępowaniu nie jest możliwe i nie zachodzą okoliczności, o których mowa w art. 30 § 5, a postępowanie nie podlega umorzeniu jako bezprzedmiotowe (art. 105);
-- **4)** gdy rozpatrzenie sprawy i wydanie decyzji zależy od uprzedniego rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd;
-- **5)** na wniosek Bankowego Funduszu Gwarancyjnego, w przypadku gdy stroną postępowania jest podmiot w restrukturyzacji, o którym mowa w art. 2 pkt 44 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2025 r. poz. 643 i 1069).
+strony do złożenia przed rozprawą wyjaśnień, dokumentów i innych dowodów i do stawienia się na rozprawę osobiście lub przez przedstawicieli albo pełnomocników,
 
-§ 2. Gdy ustąpią przyczyny uzasadniające zawieszenie postępowania, o których mowa w § 1 pkt 1–4, organ administracji publicznej podejmie postępowanie z urzędu lub na żądanie strony.
+### 2)
 
-§ 3. Organ administracji publicznej podejmie postępowanie, o którym mowa w § 1 pkt 5, na wniosek Bankowego Funduszu Gwarancyjnego.
+świadków i biegłych do stawienia się na rozprawę.
 
-§ 4. Jeżeli w okresie trzech lat od daty zawieszenia postępowania, wszczętego na żądanie strony, nie ustąpią przyczyny uzasadniające zawieszenie postępowania, o których mowa w § 1 pkt 1–3a, organ administracji publicznej może wydać decyzję o umorzeniu postępowania, o ile nie sprzeciwiają się temu pozostałe strony oraz nie zagraża to interesowi społecznemu.
+### § 3.
 
-§ 5. Organ administracji publicznej, przed wydaniem decyzji o umorzeniu postępowania, wyznacza pozostałym stronom postępowania, innym niż wymienione w § 1 pkt 1–3a, siedmiodniowy termin na wniesienie sprzeciwu, licząc od dnia doręczenia pisma o możliwości wniesienia sprzeciwu w sprawie wydania decyzji o umorzeniu postępowania, o której mowa w § 4.
+Ponadto organ zawiadamia o rozprawie państwowe jednostki organizacyjne, organizacje społeczne, a także inne osoby, jeżeli ich udział w rozprawie jest uzasadniony ze względu na jej przedmiot. W tym przypadku organ wzywa je do wzięcia udziału w rozprawie albo do złożenia przed rozprawą oświadczenia i dowodów dla jego poparcia.
 
-§ 6. Organ administracji publicznej nie wydaje decyzji o umorzeniu postępowania w przypadku wniesienia sprzeciwu w terminie, o którym mowa w § 5, przez pozostałe strony postępowania, inne niż wymienione w § 1 pkt 1–3a, albo przez jedną z tych stron.
+### Art. 84.
 
-§ 7. Decyzję o umorzeniu postępowania, o której mowa w § 4, pozostawia się w aktach sprawy ze skutkiem doręczenia stronom postępowania, o których mowa w § 1 pkt 1–3a.
+### § 1.
 
-**Art. 98.**
+W wezwaniu na rozprawę określa się termin, miejsce i przedmiot rozprawy.
 
-§ 1. Organ administracji publicznej może zawiesić postępowanie, jeżeli wystąpi o to strona, na której żądanie postępowanie zostało wszczęte, a nie sprzeciwiają się temu inne strony oraz nie zagraża to interesowi społecznemu.
+### § 2.
 
-§ 2. Jeżeli w okresie trzech lat od daty zawieszenia postępowania żadna ze stron nie zwróci się o podjęcie postępowania, żądanie wszczęcia postępowania uważa się za wycofane.
+Stronom, świadkom, biegłym oraz państwowym jednostkom organizacyjnym, organizacjom i innym osobom, wezwanym do udziału w rozprawie (art. 83 § 3), doręcza się wezwanie na piśmie.
 
-**Art. 99.** Organ administracji publicznej, który z przyczyny określonej w art. 97 § 1 pkt 1–3a zawiesił postępowanie wszczęte z urzędu, poczyni równocześnie niezbędne kroki w celu usunięcia przeszkody do dalszego prowadzenia postępowania. Tak samo postąpi organ w razie zawieszenia z tej samej przyczyny postępowania wszczętego na żądanie strony, jeżeli interes społeczny przemawia za załatwieniem sprawy.
+### § 3.
 
-**Art. 100.**
+Jeżeli zachodzi prawdopodobieństwo, że oprócz wezwanych stron, uczestniczących w postępowaniu, mogą być jeszcze w sprawie inne strony, nie znane organowi administracji państwowej, należy ponadto o terminie, miejscu i przedmiocie rozprawy ogłosić w drodze obwieszczeń albo w sposób zwyczajowo przyjęty w danej miejscowości.
 
-§ 1. Organ administracji publicznej, który zawiesił postępowanie z przyczyny określonej w art. 97 § 1 pkt 4, wystąpi równocześnie do właściwego organu lub sądu o rozstrzygnięcie zagadnienia wstępnego albo wezwie stronę do wystąpienia o to w oznaczonym terminie, chyba że strona wykaże, że już zwróciła się w tej sprawie do właściwego organu lub sądu.
+### Art. 85.
 
-§ 2. Jeżeli zawieszenie postępowania z przyczyny określonej w art. 97 § 1 pkt 4 mogłoby spowodować niebezpieczeństwo dla życia lub zdrowia ludzkiego albo poważną szkodę dla interesu społecznego, organ administracji publicznej załatwi sprawę, rozstrzygając zagadnienie wstępne we własnym zakresie.
+Termin rozprawy powinien być tak wyznaczony, aby doręczenie wezwań oraz ogłoszenie o rozprawie nastąpiły przynajmniej na siedem dni przed rozprawą.
 
-§ 3. Przepis § 2 stosuje się także wówczas, gdy strona mimo wezwania (§ 1) nie wystąpiła o rozstrzygnięcie zagadnienia wstępnego albo gdy zawieszenie postępowania mogłoby spowodować niepowetowaną szkodę dla strony. W tym ostatnim przypadku organ może uzależnić załatwienie sprawy od złożenia przez stronę stosownego zabezpieczenia.
+### Art. 86.
 
-**Art. 101.**
+Rozprawą kieruje wyznaczony do przeprowadzenia rozprawy pracownik tego organu administracji państwowej, przed którym toczy się postępowanie. Gdy postępowanie toczy się przed organem kolegialnym, rozprawą kieruje przewodniczący albo wyznaczony członek organu kolegialnego.
 
-§ 1. O postanowieniu w sprawie zawieszenia albo podjęcia postępowania organ administracji publicznej zawiadamia strony.
+### Art. 87.
 
-§ 2. W przypadku zawieszenia postępowania na żądanie strony lub jednej ze stron (art. 98 § 1) organ pouczy je o treści przepisu art. 98 § 2.
+### § 1.
 
-§ 3. Na postanowienie w sprawie zawieszenia postępowania albo odmowy podjęcia zawieszonego postępowania służy stronie zażalenie.
+Nieobecność na rozprawie stron należycie wezwanych na rozprawę nie stanowi przeszkody do jej przeprowadzenia.
 
-**Art. 102.** W czasie zawieszenia postępowania organ administracji publicznej może podejmować czynności niezbędne w celu zapobieżenia niebezpieczeństwu dla życia lub zdrowia ludzkiego albo poważnym szkodom dla interesu społecznego.
+### § 2.
 
-**Art. 103.** Zawieszenie postępowania wstrzymuje bieg terminów przewidzianych w kodeksie.
+Kierujący rozprawą odroczy ją, jeżeli stwierdzi poważne nieprawidłowości w wezwaniu stron na rozprawę, jeżeli niestawienie się strony zostało spowodowane przeszkodą trudną do przezwyciężenia, a także z innej ważnej przyczyny.
 
-#### Rozdział 7 Decyzje
+### Art. 88.
 
-**Art. 104.**
+### § 1.
 
-§ 1. Organ administracji publicznej załatwia sprawę przez wydanie decyzji, chyba że przepisy kodeksu stanowią inaczej.
+Na rozprawie strony mogą składać wyjaśnienia, zgłaszać żądania, propozycje i zarzuty oraz przedstawiać dowody na ich poparcie. Ponadto strony mogą wypowiadać się co do wyników postępowania dowodowego.
 
-§ 2. Decyzje rozstrzygają sprawę co do jej istoty w całości lub w części albo w inny sposób kończą sprawę w danej instancji.
+### § 2.
 
-**Art. 105.**
+Kierujący rozprawą może uchylić zadawane świadkom, biegłym i stronom pytania, jeżeli nie mają one istotnego znaczenia dla sprawy. Jednakże na żądanie strony należy zamieścić w protokole osnowę treści uchylonego pytania.
 
-§ 1. Gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości albo w części, organ administracji publicznej wydaje decyzję o umorzeniu postępowania odpowiednio w całości albo w części.
+### Art. 89.
 
-§ 2. Organ administracji publicznej może umorzyć postępowanie, jeżeli wystąpi o to strona, na której żądanie postępowanie zostało wszczęte, a nie sprzeciwiają się temu inne strony oraz gdy nie jest to sprzeczne z interesem społecznym.
+Za niewłaściwe zachowanie się w czasie rozprawy strony, świadkowie, biegli i inne osoby uczestniczące w rozprawie mogą być po uprzednim ostrzeżeniu wydalone z miejsca rozprawy przez kierującego rozprawą oraz ukarane grzywną do 500 zł. Na postanowienie kierującego rozprawą o ukaraniu służy zażalenie.
 
-**Art. 106.**
+### Rozdział 6 Zawieszenie postępowania
 
-§ 1. Jeżeli przepis prawa uzależnia wydanie decyzji od zajęcia stanowiska przez inny organ (wyrażenia opinii lub zgody albo wyrażenia stanowiska w innej formie), decyzję wydaje się po zajęciu stanowiska przez ten organ.
+### Art. 90.
 
-§ 2. Organ załatwiający sprawę, zwracając się do innego organu o zajęcie stanowiska, zawiadamia o tym stronę.
+### § 1.
 
-§ 3. Organ, do którego zwrócono się o zajęcie stanowiska, obowiązany jest przedstawić je niezwłocznie, jednak nie później niż w terminie dwóch tygodni od dnia doręczenia mu żądania, chyba że przepis prawa przewiduje inny termin.
+Organ administracji państwowej zawiesza postępowanie:
 
-§ 4. Organ obowiązany do zajęcia stanowiska może w razie potrzeby przeprowadzić postępowanie wyjaśniające.
+### 1)
 
-§ 5. Zajęcie stanowiska przez ten organ następuje w drodze postanowienia, na które służy stronie zażalenie.
+w razie śmierci strony lub jednej ze stron, jeżeli wezwanie spadkobierców zmarłej strony do udziału w postępowaniu nie jest możliwe, a postępowanie nie podlega umorzeniu jako bezprzedmiotowe (art. 98),
 
-§ 6. W przypadku niezajęcia stanowiska w terminie określonym w § 3 stosuje się przepisy art. 36–38, przy czym organ obowiązany do zajęcia stanowiska niezwłocznie informuje organ załatwiający sprawę o wniesieniu ponaglenia.
+### 2)
 
-**Art. 106a.**
+w razie śmierci przedstawiciela ustawowego strony,
 
-§ 1. Organ załatwiający sprawę może, z urzędu albo na wniosek strony lub organu, do którego zwrócono się o zajęcie stanowiska, zwołać posiedzenie, jeżeli przyczyni się to do przyspieszenia zajęcia stanowiska (posiedzenie w trybie współdziałania).
+### 3)
 
-§ 2. Organ załatwiający sprawę może zwołać posiedzenie w trybie współdziałania przed upływem terminu do zajęcia stanowiska, określonego w art. 106 § 3, a jeżeli przepis prawa przewiduje inny termin, przed upływem tego terminu, tylko na wniosek organu, do którego zwrócono się o zajęcie stanowiska.
+w razie utraty przez stronę lub przez jej ustawowego przedstawiciela zdolności do czynności prawnych,
 
-§ 3. Organ załatwiający sprawę może wezwać strony na posiedzenie w trybie współdziałania. Przepisy art. 90–96 stosuje się odpowiednio.
+### 4)
 
-§ 4. Zwołanie posiedzenia w trybie współdziałania nie zwalnia z obowiązku rozpatrzenia ponaglenia, o którym mowa w art. 106 § 6. Postanowienie, o którym mowa w art. 106 § 5, może zostać wpisane do protokołu posiedzenia w trybie współdziałania.
+gdy rozpatrzenie sprawy i wydanie decyzji zależy od uprzedniego rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd.
 
-**Art. 107.**
+### § 2.
 
-§ 1. Decyzja zawiera:
+Gdy ustąpiły przyczyny uzasadniające zawieszenie postępowania, organ administracji państwowej podejmie postępowanie z urzędu lub na żądanie strony.
 
-- **1)** oznaczenie organu administracji publicznej;
-- **2)** datę wydania;
-- **3)** oznaczenie strony lub stron;
-- **4)** powołanie podstawy prawnej;
-- **5)** rozstrzygnięcie;
-- **6)** uzasadnienie faktyczne i prawne;
-- **7)** pouczenie, czy i w jakim trybie służy od niej odwołanie oraz o prawie do zrzeczenia się odwołania i skutkach zrzeczenia się odwołania;
-- **8)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu upoważnionego do wydania decyzji;
-- **9)** w przypadku decyzji, w stosunku do której może być wniesione powództwo do sądu powszechnego, sprzeciw od decyzji lub skarga do sądu administracyjnego – pouczenie o dopuszczalności wniesienia powództwa, sprzeciwu od decyzji lub skargi oraz wysokości opłaty od powództwa lub wpisu od skargi lub sprzeciwu od decyzji, jeżeli mają one charakter stały, albo podstawie do wyliczenia opłaty lub wpisu o charakterze stosunkowym, a także możliwości ubiegania się przez stronę o zwolnienie od kosztów albo przyznanie prawa pomocy.
+### Art. 91.
 
-§ 2. Przepisy szczególne mogą określać także inne składniki, które powinna zawierać decyzja.
+### § 1.
 
-§ 3. Uzasadnienie faktyczne decyzji powinno w szczególności zawierać wskazanie faktów, które organ uznał za udowodnione, dowodów, na których się oparł, oraz przyczyn, z powodu których innym dowodom odmówił wiarygodności i mocy dowodowej, zaś uzasadnienie prawne – wyjaśnienie podstawy prawnej decyzji, z przytoczeniem przepisów prawa.
+Organ administracji państwowej może zawiesić postępowanie, jeżeli wystąpi o to strona, na której żądanie postępowanie zostało wszczęte, a nie sprzeciwiają się temu inne strony oraz nie zagraża to interesowi społecznemu.
 
-§ 4. Można odstąpić od uzasadnienia decyzji, gdy uwzględnia ona w całości żądanie strony; nie dotyczy to jednak decyzji rozstrzygających sporne interesy stron oraz decyzji wydanych na skutek odwołania.
+### § 2.
 
-§ 5. Organ może odstąpić od uzasadnienia decyzji również w przypadkach, w których z dotychczasowych przepisów ustawowych wynikała możliwość zaniechania lub ograniczenia uzasadnienia ze względu na interes bezpieczeństwa Państwa lub porządek publiczny.
+Jeżeli w okresie trzech lat od daty zawieszenia postępowania żadna ze stron nie zwróci się o podjęcie postępowania, żądanie wszczęcia postępowania uważa się za wycofane.
 
-**Art. 108.**
+### Art. 92.
 
-§ 1. Decyzji, od której służy odwołanie, może być nadany rygor natychmiastowej wykonalności, gdy jest to niezbędne ze względu na ochronę zdrowia lub życia ludzkiego albo dla zabezpieczenia gospodarstwa narodowego przed ciężkimi stratami bądź też ze względu na inny interes społeczny lub wyjątkowo ważny interes strony. W tym ostatnim przypadku organ administracji publicznej może w drodze postanowienia zażądać od strony stosownego zabezpieczenia.
+Organ administracji państwowej, który z przyczyny określonej w art. 90 § 1 pkt 1-3 zawiesił postępowanie wszczęte z urzędu, poczyni równocześnie niezbędne kroki w celu usunięcia przeszkody do dalszego prowadzenia postępowania. Tak samo postąpi organ w razie zawieszenia z tej samej przyczyny postępowania wszczętego na żądanie strony, jeżeli interes społeczny przemawia za załatwieniem sprawy.
 
-§ 2. Rygor natychmiastowej wykonalności może być nadany decyzji również po jej wydaniu. W tym przypadku organ wydaje postanowienie, na które służy stronie zażalenie.
+### Art. 93.
 
-**Art. 109.**
+### § 1.
 
-§ 1. Decyzję doręcza się stronom na piśmie.
+Organ administracji państwowej, który zawiesił postępowanie z przyczyny określonej w art. 90 § 1 pkt 4, wystąpi równocześnie do właściwego organu lub sądu o rozstrzygnięcie zagadnienia wstępnego albo wezwie stronę do wystąpienia o to w oznaczonym terminie, chyba że strona wykaże, że już zwróciła się w tej sprawie do właściwego organu lub sądu.
 
-§ 2. W przypadkach wymienionych w art. 14 § 2 decyzja może być stronom ogłoszona ustnie.
+### § 2.
 
-§ 3. Załączniki do decyzji wydanej w postaci papierowej mogą być doręczone na innym trwałym nośniku informacji za zgodą strony wyrażoną na piśmie albo ustnie do protokołu.
+Jeżeli zawieszenie postępowania z przyczyny określonej w art. 90 § 1 pkt 4 mogłoby spowodować niebezpieczeństwo dla życia lub zdrowia ludzkiego albo poważną szkodę dla interesu społecznego, organ administracji państwowej załatwi sprawę, rozstrzygając zagadnienie wstępne we własnym zakresie.
 
-§ 4. Przez trwały nośnik informacji rozumie się każdy nośnik informacji umożliwiający przechowywanie przez czas niezbędny, wynikający z charakteru informacji oraz celu ich sporządzenia lub przekazania, zawartych na nim informacji w sposób uniemożliwiający ich zmianę lub pozwalający na odtworzenie informacji w wersji i formie, w jakiej zostały sporządzone lub przekazane.
+### § 3.
 
-**Art. 110.**
+Przepis § 2 stosuje się także wówczas, gdy strona mimo wezwania (§ 1) nie wystąpiła o rozstrzygnięcie zagadnienia wstępnego albo gdy zawieszenie postępowania mogłoby spowodować niepowetowaną szkodę dla strony. W tym ostatnim przypadku organ może uzależnić załatwienie sprawy od złożenia przez stronę stosownego zabezpieczenia.
 
-§ 1. Organ administracji publicznej, który wydał decyzję, jest nią związany od chwili jej doręczenia lub ogłoszenia, o ile kodeks nie stanowi inaczej.
+### Art. 94.
 
-§ 2. Organ administracji publicznej, w przypadku milczącego załatwienia sprawy, jest związany wydanym w tym trybie rozstrzygnięciem od dnia następującego po dniu, w którym upływa termin przewidziany na wydanie decyzji lub postanowienia kończącego postępowanie albo wniesienie sprzeciwu, o ile kodeks nie stanowi inaczej.
+### § 1.
 
-**Art. 111.**
+O postanowieniu w sprawie zawieszenia postępowania organ administracji państwowej zawiadamia strony.
 
-§ 1. Strona może w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji zażądać jej uzupełnienia co do rozstrzygnięcia bądź co do prawa odwołania, wniesienia w stosunku do decyzji powództwa do sądu powszechnego lub skargi do sądu administracyjnego albo sprostowania zamieszczonego w decyzji pouczenia w tych kwestiach.
+### § 2.
 
-§ 1a. Organ administracji publicznej, który wydał decyzję, może ją uzupełnić lub sprostować z urzędu w zakresie, o którym mowa w § 1, w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji.
+W przypadku zawieszenia postępowania na żądanie strony lub jednej ze stron (art. 91 § 1) organ pouczy je o treści przepisu art. 91 § 2.
 
-§ 1b. Uzupełnienie lub odmowa uzupełnienia decyzji następuje w formie postanowienia.
+### § 3.
 
-§ 2. W przypadku wydania postanowienia, o którym mowa w § 1b, termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia.
+Na postanowienie w sprawie zawieszenia postępowania służy stronie zażalenie.
 
-**Art. 112.** Błędne pouczenie w decyzji co do prawa odwołania lub skutków zrzeczenia się odwołania albo wniesienia powództwa do sądu powszechnego lub skargi do sądu administracyjnego nie może szkodzić stronie, która zastosowała się do tego pouczenia.
+### Art. 95.
 
-**Art. 113.**
+W czasie zawieszenia postępowania organ administracji państwowej może podejmować czynności niezbędne w celu zapobieżenia niebezpieczeństwu dla życia lub zdrowia ludzkiego albo poważnym szkodom dla interesu społecznego.
 
-§ 1. Organ administracji publicznej może z urzędu lub na żądanie strony prostować w drodze postanowienia błędy pisarskie i rachunkowe oraz inne oczywiste omyłki w wydanych przez ten organ decyzjach.
+### Art. 96.
 
-§ 2. Organ, który wydał decyzję, wyjaśnia w drodze postanowienia na żądanie organu egzekucyjnego lub strony wątpliwości co do treści decyzji.
+Zawieszenie postępowania wstrzymuje bieg terminów przewidzianych w kodeksie.
 
-§ 3. Na postanowienie w sprawie sprostowania i wyjaśnienia służy zażalenie.
+### Rozdział 7 Decyzje
 
-#### Rozdział 8 Ugoda
+### Art. 97.
 
-**Art. 114.** W sprawie, w której toczy się postępowanie administracyjne, strony mogą zawrzeć ugodę, jeżeli charakter sprawy na to pozwala i nie sprzeciwiają się temu przepisy szczególne.
+### § 1.
 
-**Art. 115.** Ugoda może być zawarta przed organem administracji publicznej, przed którym toczy się postępowanie w pierwszej instancji lub postępowanie odwoławcze, do czasu wydania przez organ decyzji w sprawie.
+Organ administracji państwowej załatwia sprawę przez wydanie decyzji.
 
-**Art. 116.**
+### § 2.
 
-§ 1. Organ administracji publicznej odroczy wydanie decyzji i wyznaczy stronom termin do zawarcia ugody, jeżeli istnieją przesłanki do jej zawarcia, pouczając strony o trybie i skutkach zawarcia ugody.
+Decyzje rozstrzygają sprawę co do jej istoty w całości lub w części albo w inny sposób kończą sprawę w danej instancji.
 
-§ 2. W przypadku zawiadomienia przez jedną ze stron o odstąpieniu od zamiaru zawarcia ugody lub niedotrzymania przez strony terminu wyznaczonego w myśl § 1, organ administracji publicznej załatwia sprawę w drodze decyzji.
+### Art. 98.
 
-**Art. 117.**
+Gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe, organ administracji państwowej wydaje decyzję o umorzeniu postępowania.
 
-§ 1. Ugodę sporządza upoważniony pracownik organu administracji publicznej na piśmie, na podstawie zgodnych oświadczeń stron.
+### Art. 99.
 
-§ 1a. Ugoda zawiera:
+### § 1.
 
-- **1)** oznaczenie organu administracji publicznej, przed którym ugoda została zawarta, i stron postępowania;
-- **2)** datę sporządzenia ugody;
-- **3)** przedmiot i treść ugody;
-- **4)** podpisy stron oraz podpis upoważnionego pracownika organu administracji publicznej z podaniem imienia, nazwiska i stanowiska służbowego.
+Decyzja powinna zawierać: oznaczenie organu administracji państwowej i strony lub stron, powołanie podstawy prawnej, osnowę i datę decyzji, pouczenie, czy i w jakim trybie służy od niej odwołanie, oraz podpis z podaniem imienia, nazwiska i stanowiska służbowego podpisującego.
 
-§ 2. Przed podpisaniem ugody upoważniony pracownik organu administracji publicznej odczytuje stronom jej treść, chyba że ugoda została zawarta z wykorzystaniem środków komunikacji elektronicznej. Ugodę włącza się do akt sprawy.
+### § 2.
 
-**Art. 118.**
+Jeżeli decyzja nie uwzględnia żądania strony w całości lub w części, rozstrzyga sporne interesy stron albo nakłada na stronę lub stwierdza nałożony na nią obowiązek, powinna zawierać faktyczne i prawne uzasadnienie.
 
-§ 1. Ugoda wymaga zatwierdzenia przez organ administracji publicznej, przed którym została zawarta.
+### § 3.
 
-§ 2. Jeżeli ugoda dotyczy kwestii, których rozstrzygnięcie wymaga zajęcia stanowiska przez inny organ, stosuje się odpowiednio przepis art. 106.
+Decyzja wydana na skutek odwołania powinna zawierać zawsze faktyczne i prawne uzasadnienie.
 
-§ 3. Organ administracji publicznej odmówi zatwierdzenia ugody zawartej z naruszeniem prawa, nieuwzględniającej stanowiska organu, o którym mowa w § 2, albo naruszającej interes społeczny bądź słuszny interes stron.
+### § 4.
 
-**Art. 119.**
+Organ może ograniczyć treść decyzji do danych wymienionych w § 1 w przypadkach, w których z dotychczasowych przepisów ustawowych wynikała możliwość zaniechania lub ograniczenia uzasadnienia ze względu na interes bezpieczeństwa Państwa lub porządek publiczny.
 
-§ 1. Zatwierdzenie bądź odmowa zatwierdzenia ugody następuje w drodze postanowienia, na które służy zażalenie; postanowienie w tej sprawie powinno być wydane w ciągu siedmiu dni od dnia zawarcia ugody.
+### Art. 100.
 
-§ 2. W przypadku gdy ugoda zawarta została w toku postępowania odwoławczego, z dniem, w którym stało się ostateczne postanowienie zatwierdzające ugodę, traci moc decyzja organu pierwszej instancji, o czym zamieszcza się wzmiankę w tym postanowieniu.
+### § 1.
 
-§ 3. Łącznie z postanowieniem zatwierdzającym ugodę doręcza się stronom ugodę albo jej odpis.
+Decyzji, od której służy odwołanie, może być nadany rygor natychmiastowej wykonalności, gdy jest to niezbędne ze względu na ochronę zdrowia lub życia ludzkiego albo dla zabezpieczenia gospodarstwa narodowego przed ciężkimi stratami bądź też ze względu na inny interes społeczny lub wyjątkowo ważny interes strony. W tym ostatnim przypadku organ administracji państwowej może w drodze postanowienia zażądać od strony stosownego zabezpieczenia.
 
-**Art. 120.**
+### § 2.
 
-§ 1. Ugoda staje się wykonalna z dniem, w którym postanowienie o jej zatwierdzeniu stało się ostateczne.
+W przypadkach określonych w § 1 rygor natychmiastowej wykonalności może być nadany decyzji również po jej wydaniu. Wówczas organ wydaje osobną decyzję, od której służy stronie odwołanie.
 
-§ 2. (uchylony)
+### Art. 101.
 
-**Art. 121.** Zatwierdzona ugoda wywiera takie same skutki, jak decyzja wydana w toku postępowania administracyjnego.
+### § 1.
 
-**Art. 121a.** Do ugody zawartej przed mediatorem przepisy art. 117–121 stosuje się odpowiednio.
+Decyzję doręcza się stronom na piśmie.
 
-**Art. 122.** W sprawach nieuregulowanych w niniejszym rozdziale do ugody i postanowienia w sprawie jej zatwierdzenia lub odmowy zatwierdzenia stosuje się odpowiednio przepisy dotyczące decyzji.
+### § 2.
 
-#### Rozdział 8a Milczące załatwienie sprawy
+W przypadkach wymienionych w art. 11 § 2 decyzja może być stronom ogłoszona ustnie.
 
-**Art. 122a.**
+### Art. 102.
 
-§ 1. Sprawa może być załatwiona milcząco, jeżeli przepis szczególny tak stanowi.
+Organ administracji państwowej, który wydał decyzję, jest nią związany od chwili jej doręczenia lub ogłoszenia, o ile kodeks nie stanowi inaczej.
 
-§ 2. Sprawę uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony, jeżeli w terminie miesiąca od dnia doręczenia żądania strony właściwemu organowi administracji publicznej albo innym terminie określonym w przepisie szczególnym organ ten:
+### Art. 103.
 
-- **1)** nie wyda decyzji lub postanowienia kończącego postępowanie w sprawie (milczące zakończenie postępowania) albo
-- **2)** nie wniesie sprzeciwu w drodze decyzji (milcząca zgoda).
+### § 1.
 
-**Art. 122b.** Za dzień wydania decyzji lub postanowienia kończącego postępowanie w sprawie, o której mowa w art. 122a § 2 pkt 1, albo wniesienia sprzeciwu, o którym mowa w art. 122a § 2 pkt 2, uznaje się dzień:
+Strona może w terminie czternastu dni od daty doręczenia lub ogłoszenia decyzji zażądać jej uzupełnienia co do osnowy. Strona może również w tym samym terminie zażądać uzupełnienia decyzji pouczeniem co do prawa odwołania albo sprostowania tego pouczenia zamieszczonego w decyzji.
 
-**Art. 122c.**
+### § 2.
 
-§ 1. Milczące załatwienie sprawy następuje w dniu następującym po dniu, w którym upływa termin przewidziany do wydania decyzji lub postanowienia kończącego postępowanie w sprawie albo wniesienia sprzeciwu. W przypadku gdy organ przed upływem terminu do załatwienia sprawy zawiadomi stronę o braku sprzeciwu, milczące załatwienie sprawy następuje w dniu doręczenia tego zawiadomienia.
+W przypadkach określonych w § 1 termin dla strony do wniesienia odwołania biegnie od dnia doręczenia jej odpowiedzi.
 
-§ 2. Jeżeli podanie nie spełnia wymagań wskazanych w przepisach lub jest konieczne doprecyzowanie treści żądania, stosuje się przepis art. 64. Termin, o którym mowa w art. 122a § 2, biegnie od dnia uzupełnienia braków lub doprecyzowania treści żądania.
+### Art. 104.
 
-§ 3. Jeżeli w sprawie, która może być załatwiona milcząco, organ odwoławczy wydał decyzję na podstawie art. 138 § 2, termin, o którym mowa w art. 122a § 2, biegnie od dnia doręczenia organowi pierwszej instancji akt sprawy wraz z tą decyzją.
+Błędne pouczenie w decyzji co do prawa odwołania nie może szkodzić stronie, która zastosowała się do tego pouczenia.
 
-**Art. 122d.**
+### Art. 105.
 
-§ 1. Do spraw załatwianych milcząco nie stosuje się przepisów art. 10 i art. 79a.
+### § 1.
 
-§ 2. Zawieszenie postępowania administracyjnego wstrzymuje bieg terminu, o którym mowa w art. 122a § 2.
+Organ administracji państwowej może z urzędu lub na żądanie strony prostować w drodze postanowienia błędy pisarskie i rachunkowe oraz inne oczywiste omyłki w wydanych przez ten organ decyzjach.
 
-**Art. 122e.** W aktach sprawy zamieszcza się adnotację o milczącym załatwieniu sprawy, wskazując treść rozstrzygnięcia oraz jego podstawę prawną.
+### § 2.
 
-**Art. 122f.**
+Organ, który wydał decyzję, wyjaśnia w drodze postanowienia na żądanie organu egzekucyjnego lub strony wątpliwości co do treści decyzji.
 
-§ 1. Na wniosek strony organ administracji publicznej, w drodze postanowienia, wydaje zaświadczenie o milczącym załatwieniu sprawy albo odmawia wydania takiego zaświadczenia.
+### § 3.
 
-§ 2. Na postanowienie, o którym mowa w § 1, przysługuje zażalenie.
+Na postanowienie w sprawie sprostowania i wyjaśnienia służy zażalenie.
 
-§ 3. Zaświadczenie o milczącym załatwieniu sprawy zawiera:
+### Rozdział 8 Postanowienia
 
-- **1)** oznaczenie organu administracji publicznej i strony lub stron postępowania;
-- **2)** datę wydania zaświadczenia o milczącym załatwieniu sprawy;
-- **3)** powołanie podstawy prawnej;
-- **4)** treść rozstrzygnięcia sprawy załatwionej milcząco;
-- **5)** datę milczącego załatwienia sprawy;
-- **6)** pouczenie o możliwości wniesienia zażalenia;
-- **7)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego pracownika organu upoważnionego do wydania zaświadczenia.
+### Art. 106.
 
-§ 4. Zaświadczenie o milczącym załatwieniu sprawy doręcza się wszystkim stronom w sprawie załatwionej milcząco.
+### § 1.
 
-§ 5. W zakresie nieuregulowanym w § 1–4 do zaświadczenia o milczącym załatwieniu sprawy stosuje się przepisy działu VII.
+W toku postępowania organ administracji państwowej wydaje postanowienia.
 
-**Art. 122g.** Do spraw załatwionych milcząco przepisy rozdziałów 12 i 13 w dziale II stosuje się odpowiednio. Przyjmuje się, że skutek wydania decyzji ostatecznej powstał w terminie czternastu dni od dnia upływu terminu, o którym mowa w art. 122c § 1.
+### § 2.
 
-**Art. 122h.**
+Postanowienia dotyczą poszczególnych kwestii wynikających w toku postępowania, lecz nie rozstrzygają o istocie sprawy.
 
-§ 1. W sprawach załatwianych milcząco organ administracji publicznej udostępnia informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, na swojej stronie internetowej oraz w widocznym miejscu w swojej siedzibie.
+### Art. 107.
 
-§ 2. Przekazanie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w sposób określony w § 1, nie zwalnia organu administracji publicznej z obowiązku ich przekazania przy pierwszej czynności skierowanej do strony.
+Postanowienie powinno zawierać: oznaczenie organu administracji państwowej i strony lub stron, powołanie podstawy prawnej, osnowę i datę postanowienia oraz podpis z podaniem imienia, nazwiska i stanowiska służbowego podpisującego. Gdy na postanowienie służy stronie zażalenie, postanowienie powinno zawierać ponadto zwięzłe uzasadnienie oraz pouczenie o trybie wniesienia zażalenia.
 
-#### Rozdział 9 Postanowienia
+### Art. 108.
 
-**Art. 123.**
+### § 1.
 
-§ 1. W toku postępowania organ administracji publicznej wydaje postanowienia.
+Postanowienia, od których służy stronom zażalenie, doręcza się na piśmie.
 
-§ 2. Postanowienia dotyczą poszczególnych kwestii wynikających w toku postępowania, lecz nie rozstrzygają o istocie sprawy, chyba że przepisy kodeksu stanowią inaczej.
+### § 2.
 
-**Art. 124.**
+W przypadkach wymienionych w art. 11 § 2 postanowienia mogą być stronom ogłaszane ustnie.
 
-§ 1. Postanowienie powinno zawierać:
+### Art. 109.
 
-- **1)** oznaczenie organu administracji publicznej;
-- **2)** datę jego wydania;
-- **3)** oznaczenie strony lub stron albo innych osób biorących udział w postępowaniu;
-- **4)** powołanie podstawy prawnej;
-- **5)** treść rozstrzygnięcia;
-- **6)** pouczenie, czy i w jakim trybie służy:
-    - **a)** na nie zażalenie lub skarga do sądu administracyjnego,
-    - **b)** od niego sprzeciw;
+Do postanowień stosuje się odpowiednio przepisy art. 99 § 3 i 4 oraz art. 103-105.
 
-- **7)** podpis z podaniem imienia i nazwiska oraz stanowiska służbowego osoby upoważnionej do wydania postanowienia.
+### Rozdział 9 Odwołania
 
-§ 2. Postanowienie powinno zawierać uzasadnienie faktyczne i prawne, jeżeli służy na nie zażalenie lub skarga do sądu administracyjnego lub służy od niego sprzeciw oraz gdy zostało wydane na skutek zażalenia na postanowienie.
+### Art. 110.
 
-**Art. 125.**
+### § 1.
 
-§ 1. Postanowienie, na które służy zażalenie lub skarga do sądu administracyjnego, oraz postanowienie, od którego służy sprzeciw, doręcza się na piśmie.
+Od decyzji wydanej w pierwszej instancji służy stronie odwołanie tylko do jednej instancji.
 
-§ 2. W przypadkach wymienionych w art. 14 § 2 postanowienia mogą być stronom ogłaszane ustnie.
+### § 2.
 
-§ 3. Postanowienie, na które służy skarga do sądu administracyjnego, oraz postanowienie, od którego służy sprzeciw, doręcza się stronie wraz z pouczeniem o dopuszczalności wniesienia skargi albo sprzeciwu oraz uzasadnieniem faktycznym i prawnym.
+Właściwy do rozpatrzenia odwołania jest organ administracji państwowej bezpośrednio wyższego stopnia, chyba że ustawa przewiduje szczególny organ odwoławczy.
 
-**Art. 126.** Do postanowień stosuje się odpowiednio przepisy art. 105, art. 107 § 2–5 oraz art. 109–113, a do postanowień, od których przysługuje zażalenie, oraz do postanowień określonych w art. 134 – również art. 145–152 oraz art. 156–159, z tym że zamiast decyzji, o której mowa w art. 151 § 1 i art. 158 § 1, wydaje się postanowienie.
+### § 3.
 
-#### Rozdział 10 Odwołania
+Od decyzji wydanej w pierwszej instancji przez naczelny organ administracji państwowej nie służy odwołanie.
 
-**Art. 127.**
+### § 4.
 
-§ 1. Od decyzji wydanej w pierwszej instancji służy stronie odwołanie tylko do jednej instancji.
+Od decyzji prezydium wojewódzkiej rady narodowej, mocą której uchylono lub zmieniono decyzję organu administracyjnego tego prezydium (art. 140), służy stronie odwołanie do właściwego ministra.
 
-§ 1a. Decyzja wydana w pierwszej instancji, od której uzasadnienia organ odstąpił z powodu uwzględnienia w całości żądania strony, jest ostateczna.
+### Art. 111.
 
-§ 2. Właściwy do rozpatrzenia odwołania jest organ administracji publicznej wyższego stopnia, chyba że ustawa przewiduje inny organ odwoławczy.
+Odwołanie nie wymaga szczegółowego uzasadnienia. Wystarcza, jeżeli z odwołania wynika, że strona nie jest zadowolona z wydanej decyzji.
 
-§ 3. Od decyzji wydanej w pierwszej instancji przez ministra lub samorządowe kolegium odwoławcze nie służy odwołanie, jednakże strona niezadowolona z decyzji może zwrócić się do tego organu z wnioskiem o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od decyzji.
+### Art. 112.
 
-§ 4. (uchylony)
+### § 1.
 
-**Art. 127a.**
+Odwołanie wnosi się do właściwego organu odwoławczego za pośrednictwem organu, który wydał decyzję.
 
-§ 1. Przed upływem terminu do wniesienia odwołania strona może zrzec się prawa do wniesienia odwołania wobec organu administracji publicznej, który wydał decyzję.
+### § 2.
 
-§ 2. Z dniem doręczenia organowi administracji publicznej oświadczenia o zrzeczeniu się prawa do wniesienia odwołania przez ostatnią ze stron postępowania, decyzja staje się ostateczna i prawomocna.
+Odwołanie wnosi się w terminie czternastu dni od dnia doręczenia decyzji stronie, a gdy decyzja została ogłoszona ustnie - od dnia jej ogłoszenia stronie.
 
-**Art. 128.** Odwołanie nie wymaga szczegółowego uzasadnienia. Wystarczy, jeżeli z odwołania wynika, że strona nie jest zadowolona z wydanej decyzji. Przepisy szczególne mogą ustalać inne wymogi co do treści odwołania.
+### § 3.
 
-**Art. 129.**
+Pozostają w mocy przepisy ustaw, przewidujące inne terminy do wniesienia odwołania.
 
-§ 1. Odwołanie wnosi się do właściwego organu odwoławczego za pośrednictwem organu, który wydał decyzję.
+### Art. 113.
 
-§ 2. Odwołanie wnosi się w terminie czternastu dni od dnia doręczenia decyzji stronie, a gdy decyzja została ogłoszona ustnie – od dnia jej ogłoszenia stronie.
+### § 1.
 
-§ 3. Przepisy szczególne mogą przewidywać inne terminy do wniesienia odwołania.
+Przed upływem terminu do wniesienia odwołania decyzja nie ulega wykonaniu.
 
-**Art. 130.**
+### § 2.
 
-§ 1. Przed upływem terminu do wniesienia odwołania decyzja nie ulega wykonaniu.
+Wniesienie odwołania w terminie wstrzymuje wykonanie decyzji.
 
-§ 2. Wniesienie odwołania w terminie wstrzymuje wykonanie decyzji.
+### § 3.
 
-§ 3. Przepisów § 1 i 2 nie stosuje się w przypadkach, gdy:
+Przepisów § 1 i 2 nie stosuje się w przypadkach, gdy:
 
-- **1)** decyzji został nadany rygor natychmiastowej wykonalności (art. 108);
-- **2)** decyzja podlega natychmiastowemu wykonaniu z mocy ustawy.
+### 1)
 
-§ 4. Decyzja podlega wykonaniu przed upływem terminu do wniesienia odwołania, jeżeli jest zgodna z żądaniem wszystkich stron lub jeżeli wszystkie strony zrzekły się prawa do wniesienia odwołania.
+decyzji został nadany rygor natychmiastowej wykonalności (art. 100),
 
-**Art. 131.** O wniesieniu odwołania organ administracji publicznej, który wydał decyzję, zawiadomi strony.
+### 2)
 
-**Art. 132.**
+decyzja podlega natychmiastowemu wykonaniu z mocy ustawy.
 
-§ 1. Jeżeli odwołanie wniosły wszystkie strony, a organ administracji publicznej, który wydał decyzję, uzna, że to odwołanie zasługuje w całości na uwzględnienie, może wydać nową decyzję, w której uchyli zaskarżoną decyzję w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo uchyli tę decyzję i umorzy postępowanie w całości albo w części.
+### § 4.
 
-§ 2. Przepis § 1 stosuje się także w przypadku, gdy odwołanie wniosła jedna ze stron, a pozostałe strony wyraziły zgodę na wydanie nowej decyzji.
+Ponadto decyzja podlega wykonaniu przed upływem terminu do wniesienia odwołania, gdy:
 
-§ 3. Od nowej decyzji służy stronom odwołanie.
+### 1)
 
-**Art. 133.** Organ administracji publicznej, który wydał decyzję, obowiązany jest przesłać odwołanie wraz z aktami sprawy organowi odwoławczemu w terminie siedmiu dni od dnia, w którym otrzymał odwołanie, jeżeli w tym terminie nie wydał nowej decyzji w myśl art. 132.
+jest zgodna z żądaniem wszystkich stron,
 
-**Art. 134.** Organ odwoławczy stwierdza w drodze postanowienia niedopuszczalność odwołania oraz uchybienie terminu do wniesienia odwołania. Postanowienie w tej sprawie jest ostateczne.
+### 2)
 
-**Art. 135.** Organ odwoławczy może w uzasadnionych przypadkach wstrzymać natychmiastowe wykonanie decyzji.
+wszystkie strony zgodnie zrzekły się na piśmie wniesienia odwołania.
 
-**Art. 136.**
+### Art. 114.
 
-§ 1. Organ odwoławczy może przeprowadzić na żądanie strony lub z urzędu dodatkowe postępowanie w celu uzupełnienia dowodów i materiałów w sprawie albo zlecić przeprowadzenie tego postępowania organowi, który wydał decyzję.
+O wniesieniu odwołania organ administracji państwowej, który wydał decyzję, zawiadomi strony.
 
-§ 2. Jeżeli decyzja została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie, na zgodny wniosek wszystkich stron zawarty w odwołaniu, organ odwoławczy przeprowadza postępowanie wyjaśniające w zakresie niezbędnym do rozstrzygnięcia sprawy. Jeżeli przyczyni się to do przyspieszenia postępowania, organ odwoławczy może zlecić przeprowadzenie określonych czynności postępowania wyjaśniającego organowi, który wydał decyzję.
+### Art. 115.
 
-§ 3. Przepis § 2 stosuje się także w przypadku, gdy jedna ze stron zawarła w odwołaniu wniosek o przeprowadzenie przez organ odwoławczy postępowania wyjaśniającego w zakresie niezbędnym do rozstrzygnięcia sprawy, a pozostałe strony wyraziły na to zgodę w terminie czternastu dni od dnia doręczenia im zawiadomienia o wniesieniu odwołania, zawierającego wniosek o przeprowadzenie przez organ odwoławczy postępowania wyjaśniającego w zakresie niezbędnym do rozstrzygnięcia sprawy.
+### § 1.
 
-§ 4. Przepisów § 2 i 3 nie stosuje się, jeżeli przeprowadzenie przez organ odwoławczy postępowania wyjaśniającego w zakresie niezbędnym do rozstrzygnięcia sprawy byłoby nadmiernie utrudnione.
+Jeżeli odwołanie wniosły wszystkie strony, a organ administracji państwowej, który wydał decyzję, uzna, że to odwołanie zasługuje w całości na uwzględnienie, może wydać nową decyzję, w której uchyli lub zmieni zaskarżoną decyzję.
 
-**Art. 137.** Strona może cofnąć odwołanie przed wydaniem decyzji przez organ odwoławczy. Organ odwoławczy nie uwzględni jednak cofnięcia odwołania, jeżeli prowadziłoby to do utrzymania w mocy decyzji naruszającej prawo lub interes społeczny.
+### § 2.
 
-**Art. 138.**
+Od nowej decyzji służy stronom odwołanie.
 
-§ 1. Organ odwoławczy wydaje decyzję, w której:
+### Art. 116.
 
-- **1)** utrzymuje w mocy zaskarżoną decyzję albo
-- **2)** uchyla zaskarżoną decyzję w całości albo w części i w tym zakresie orzeka co do istoty sprawy albo uchylając tę decyzję – umarza postępowanie pierwszej instancji w całości albo w części, albo
-- **3)** umarza postępowanie odwoławcze.
+Organ administracji państwowej, który wydał decyzję, obowiązany jest przesłać odwołanie wraz z aktami sprawy organowi odwoławczemu w terminie czternastu dni od dnia, w którym otrzymał odwołanie, jeżeli w tym terminie nie wydał nowej decyzji w myśl art. 115.
 
-§ 2. Organ odwoławczy może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia organowi pierwszej instancji, gdy decyzja ta została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie. Przekazując sprawę, organ ten powinien wskazać, jakie okoliczności należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy.
+### Art. 117.
 
-§ 2a. Jeżeli organ pierwszej instancji dokonał w zaskarżonej decyzji błędnej wykładni przepisów prawa, które mogą znaleźć zastosowanie w sprawie, w decyzji, o której mowa w § 2, organ odwoławczy określa także wytyczne w zakresie wykładni tych przepisów.
+Organ odwoławczy stwierdza w drodze postanowienia niedopuszczalność odwołania oraz uchybienie terminu do wniesienia odwołania. Postanowienie w tej sprawie jest ostateczne.
 
-§ 2b. Przepisu § 2 nie stosuje się w przypadkach, o których mowa w art. 136 § 2 lub 3. Organ odwoławczy po przeprowadzeniu postępowania wyjaśniającego w zakresie niezbędnym do rozstrzygnięcia sprawy wydaje decyzję, o której mowa w § 1 albo 4.
+### Art. 118.
 
-§ 3. (uchylony) § 4. Jeżeli przepisy przewidują wydanie decyzji na blankiecie urzędowym, a istnieją podstawy do zmiany zaskarżonej decyzji, organ odwoławczy uchyla decyzję i zobowiązuje organ pierwszej instancji do wydania decyzji o określonej treści.
+Organ odwoławczy może w uzasadnionych przypadkach wstrzymać natychmiastowe wykonanie decyzji.
 
-**Art. 139.** Organ odwoławczy nie może wydać decyzji na niekorzyść strony odwołującej się, chyba że zaskarżona decyzja rażąco narusza prawo lub rażąco narusza interes społeczny.
+### Art. 119.
 
-**Art. 139a.**
+Organ odwoławczy może przeprowadzić na żądanie strony lub z urzędu dodatkowe postępowanie w celu uzupełnienia dowodów i materiałów w sprawie albo zlecić przeprowadzenie tego postępowania organowi, który wydał decyzję.
 
-§ 1. W przypadkach, o których mowa w art. 138 § 2 i 2a, przy ponownym rozpatrzeniu sprawy organ pierwszej instancji jest obowiązany wziąć pod uwagę okoliczności wskazane przez organ odwoławczy oraz jest związany wytycznymi tego organu określonymi w decyzji uchylającej zaskarżoną decyzję w całości i przekazującej sprawę do ponownego rozpatrzenia, chyba że przy ponownym rozpatrzeniu sprawy przepisy prawa, na podstawie których organ pierwszej instancji rozstrzygnął sprawę, uległy zmianie.
+### Art. 120.
 
-§ 2. Organ odwoławczy przy rozpatrywaniu odwołania wniesionego od decyzji organu pierwszej instancji wydanej po ponownym rozpatrzeniu sprawy, w przypadku stwierdzenia naruszenia obowiązku, o którym mowa w § 1, przez organ pierwszej instancji polegającego na odstąpieniu od:
+### § 1.
 
-- **1)** wskazanych przez organ odwoławczy okoliczności, które należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy, o których mowa w art. 138 § 2 zdanie drugie, lub
-- **2)** określonych przez organ odwoławczy wytycznych w zakresie wykładni przepisów prawa, które mogą znaleźć zastosowanie w sprawie, o których mowa w art. 138 § 2a – może zarządzić wyjaśnienie przez organ pierwszej instancji przyczyn naruszenia tego obowiązku, a w razie potrzeby – także podjęcie środków zapobiegających naruszeniu tego obowiązku w przyszłości.
+Organ odwoławczy wydaje decyzję, w której:
 
-**Art. 140.** W sprawach nieuregulowanych w art. 136–139 w postępowaniu przed organami odwoławczymi mają odpowiednie zastosowanie przepisy o postępowaniu przed organami pierwszej instancji.
+### 1)
 
-#### Rozdział 11 Zażalenia
+utrzymuje w mocy zaskarżoną decyzję albo
 
-**Art. 141.**
+### 2)
 
-§ 1. Na wydane w toku postępowania postanowienia służy stronie zażalenie, gdy kodeks tak stanowi.
+uchyla zaskarżoną decyzję w całości lub w części i wydaje w tym zakresie nową decyzję.
 
-§ 2. Zażalenia wnosi się w terminie siedmiu dni od dnia doręczenia postanowienia stronie, a gdy postanowienie zostało ogłoszone ustnie – od dnia jego ogłoszenia stronie.
+### § 2.
 
-**Art. 142.** Postanowienie, na które nie służy zażalenie, strona może zaskarżyć tylko w odwołaniu od decyzji.
+Organ odwoławczy może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia przez organ pierwszej instancji, gdy rozstrzygnięcie sprawy wymaga uprzedniego przeprowadzenia dowodów, których przeprowadzenie bezpośrednio przed organem odwoławczym byłoby zbyt uciążliwe lub połączone ze znacznymi kosztami.
 
-**Art. 143.** Wniesienie zażalenia nie wstrzymuje wykonania postanowienia, jednakże organ administracji publicznej, który wydał postanowienie, może wstrzymać jego wykonanie, gdy uzna to za uzasadnione.
+### Art. 121.
 
-**Art. 144.** W sprawach nieuregulowanych w niniejszym rozdziale do zażaleń mają odpowiednie zastosowanie przepisy dotyczące odwołań.
+W przypadku określonym w art. 120 § 1 pkt 2 organ odwoławczy może wydać decyzję na niekorzyść strony odwołującej się, gdy zaskarżona decyzja jest niezgodna z prawem lub sprzeczna z interesem społecznym.
 
-#### Rozdział 12 Wznowienie postępowania
+### Art. 122.
 
-**Art. 145.**
+W sprawach nie uregulowanych w art. 119-121 - w postępowaniu przed organami odwoławczymi mają odpowiednie zastosowanie przepisy o postępowaniu przed organami pierwszej instancji.
 
-§ 1. W sprawie zakończonej decyzją ostateczną wznawia się postępowanie, jeżeli:
+### Rozdział 10 Zażalenia
 
-- **1)** dowody, na których podstawie ustalono istotne dla sprawy okoliczności faktyczne, okazały się fałszywe;
-- **2)** decyzja wydana została w wyniku przestępstwa;
-- **3)** decyzja wydana została przez pracownika lub organ administracji publicznej, który podlega wyłączeniu stosownie do art. 24, 25 i 27;
-- **4)** strona bez własnej winy nie brała udziału w postępowaniu;
-- **5)** wyjdą na jaw istotne dla sprawy nowe okoliczności faktyczne lub nowe dowody istniejące w dniu wydania decyzji, nieznane organowi, który wydał decyzję;
-- **6)** decyzja wydana została bez uzyskania wymaganego prawem stanowiska innego organu;
-- **7)** zagadnienie wstępne zostało rozstrzygnięte przez właściwy organ lub sąd odmiennie od oceny przyjętej przy wydaniu decyzji (art. 100 § 2);
-- **8)** decyzja została wydana w oparciu o inną decyzję lub orzeczenie sądu, które zostało następnie uchylone lub zmienione.
+### Art. 123.
 
-§ 2. Z przyczyn określonych w § 1 pkt 1 i 2 postępowanie może być wznowione również przed stwierdzeniem sfałszowania dowodu lub popełnienia przestępstwa orzeczeniem sądu lub innego organu, jeżeli sfałszowanie dowodu lub popełnienie przestępstwa jest oczywiste, a wznowienie postępowania jest niezbędne dla uniknięcia niebezpieczeństwa dla życia lub zdrowia ludzkiego albo poważnej szkody dla interesu społecznego.
+### § 1.
 
-§ 3. Z przyczyn określonych w § 1 pkt 1 i 2 można wznowić postępowanie także w przypadku, gdy postępowanie przed sądem lub innym organem nie może być wszczęte na skutek upływu czasu lub z innych przyczyn określonych w przepisach prawa.
+Na wydane w toku postępowania postanowienia służy stronie zażalenie, gdy kodeks tak stanowi.
 
-**Art. 145a.**
+### § 2.
 
-§ 1. Można żądać wznowienia postępowania również w przypadku, gdy Trybunał Konstytucyjny orzekł o niezgodności aktu normatywnego z Konstytucją, umową międzynarodową lub z ustawą, na podstawie którego została wydana decyzja.
+Zażalenia wnosi się w terminie siedmiu dni od dnia doręczenia postanowienia stronie, a gdy postanowienie zostało ogłoszone ustnie - od dnia jego ogłoszenia stronie.
 
-§ 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego. Art. 145aa. § 1. Można żądać wznowienia postępowania również w przypadku, gdy zostało wydane orzeczenie Trybunału Sprawiedliwości Unii Europejskiej, które ma wpływ na treść wydanej decyzji.
+### Art. 124.
 
-§ 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej.
+Postanowienie, na które nie służy zażalenie, strona może zaskarżyć tylko w odwołaniu od decyzji.
 
-**Art. 145b.**
+### Art. 125.
 
-§ 1. Można żądać wznowienia postępowania również w przypadku, gdy zostało wydane orzeczenie sądu stwierdzające naruszenie zasady równego traktowania, zgodnie z ustawą z dnia 3 grudnia 2010 r. o wdrożeniu niektórych przepisów Unii Europejskiej w zakresie równego traktowania (Dz. U. z 2025 r. poz.
+Wniesienie zażalenia nie wstrzymuje wykonania postanowienia, jednakże organ administracji państwowej, który wydał postanowienie, może wstrzymać jego wykonanie, gdy uzna to za uzasadnione.
 
-- **1452)** , jeżeli naruszenie tej zasady miało wpływ na rozstrzygnięcie sprawy zakończonej decyzją ostateczną.
+### Art. 126.
 
-§ 2. W sytuacji określonej w § 1 skargę o wznowienie wnosi się w terminie jednego miesiąca od dnia uprawomocnienia się orzeczenia sądu.
+W sprawach nie uregulowanych w niniejszym rozdziale do zażaleń mają odpowiednie zastosowanie przepisy dotyczące odwołań.
 
-**Art. 146.**
+### Rozdział 11 Wznowienie postępowania
 
-§ 1. Uchylenie decyzji z przyczyn określonych w art. 145 § 1 pkt 1 i 2 nie może nastąpić, jeżeli od dnia doręczenia lub ogłoszenia decyzji upłynęło dziesięć lat, zaś z przyczyn określonych w art. 145 § 1 pkt 3–8 oraz w art. 145a–145b, jeżeli od dnia doręczenia lub ogłoszenia decyzji upłynęło pięć lat.
+### Art. 127.
 
-§ 2. Nie uchyla się decyzji także w przypadku, jeżeli w wyniku wznowienia postępowania mogłaby zapaść wyłącznie decyzja odpowiadająca w swej istocie decyzji dotychczasowej.
+### § 1.
 
-**Art. 147.** Wznowienie postępowania następuje z urzędu lub na żądanie strony. Wznowienie postępowania z przyczyny określonej w art. 145 § 1 pkt 4 oraz art. 145a– 145b następuje tylko na żądanie strony.
+W sprawie zakończonej decyzją ostateczną wznawia się postępowanie, jeżeli:
 
-**Art. 148.**
+### 1)
 
-§ 1. Podanie o wznowienie postępowania wnosi się do organu administracji publicznej, który wydał w sprawie decyzję w pierwszej instancji, w terminie jednego miesiąca od dnia, w którym strona dowiedziała się o okoliczności stanowiącej podstawę do wznowienia postępowania.
+dowody, na których podstawie ustalono istotne dla sprawy okoliczności faktyczne, okazały się fałszywe,
 
-§ 2. Termin do złożenia podania o wznowienie postępowania z przyczyny określonej w art. 145 § 1 pkt 4 biegnie od dnia, w którym strona dowiedziała się o decyzji.
+### 2)
 
-**Art. 149.**
+decyzja wydana została w wyniku przestępstwa,
 
-§ 1. Wznowienie postępowania następuje w drodze postanowienia.
+### 3)
 
-§ 2. Postanowienie stanowi podstawę do przeprowadzenia przez właściwy organ postępowania co do przyczyn wznowienia oraz co do rozstrzygnięcia istoty sprawy.
+decyzja wydana została przez pracownika lub organ administracji państwowej, który podlega wyłączeniu stosownie do art. 21 i 22,
 
-§ 3. Odmowa wznowienia postępowania następuje w drodze postanowienia.
+### 4)
 
-§ 4. Na postanowienie, o którym mowa w § 3, służy zażalenie.
+strona bez własnej winy nie brała udziału w postępowaniu,
 
-**Art. 150.**
+### 5)
 
-§ 1. Organem administracji publicznej właściwym w sprawach wymienionych w art. 149 jest organ, który wydał w sprawie decyzję w ostatniej instancji.
+wyjdą na jaw istotne dla sprawy nowe okoliczności faktyczne, które istniały już przy wydaniu decyzji, lub nowe dowody, o ile te okoliczności i dowody nie były w toku postępowania znane organowi, który wydał decyzję, i nie mogły być wówczas powołane przez stronę zainteresowaną we wznowieniu bez jej winy,
 
-§ 2. Jeżeli przyczyną wznowienia postępowania jest działalność organu wymienionego w § 1, o wznowieniu postępowania rozstrzyga organ wyższego stopnia, który równocześnie wyznacza organ właściwy w sprawach wymienionych w art. 149 § 2.
+### 6)
 
-§ 3. Przepis § 2 nie dotyczy przypadków, gdy decyzję w ostatniej instancji wydał minister, a w sprawach należących do zadań jednostek samorządu terytorialnego – samorządowe kolegium odwoławcze.
+zagadnienie wstępne zostało rozstrzygnięte przez właściwy organ lub sąd odmiennie od oceny przyjęte przy wydaniu decyzji (art. 93 § 2),
 
-**Art. 151.**
+### 7)
 
-§ 1. Organ administracji publicznej, o którym mowa w art. 150, po przeprowadzeniu postępowania określonego w art. 149 § 2 wydaje decyzję, w której:
+decyzja została wydana w oparciu o inną decyzję lub orzeczenie sądu, które zostało następnie uchylone lub zmienione.
 
-- **1)** odmawia uchylenia decyzji dotychczasowej, gdy stwierdzi brak podstaw do jej uchylenia na podstawie art. 145 § 1, art. 145a, art. 145aa lub art. 145b, albo
-- **2)** uchyla decyzję dotychczasową, gdy stwierdzi istnienie podstaw do jej uchylenia na podstawie art. 145 § 1, art. 145a, art. 145aa lub art. 145b, i wydaje nową decyzję rozstrzygającą o istocie sprawy.
+### § 2.
 
-§ 2. W przypadku gdy w wyniku wznowienia postępowania nie można uchylić decyzji na skutek okoliczności, o których mowa w art. 146, organ administracji publicznej ograniczy się do stwierdzenia wydania zaskarżonej decyzji z naruszeniem prawa oraz wskazania okoliczności, z powodu których nie uchylił tej decyzji.
+Z przyczyny określonej w § 1 pkt 1 postępowanie może być wznowione również przed stwierdzeniem sfałszowania dowodu orzeczeniem sądu lub innego organu państwowego, jeżeli jest to niezbędne dla uniknięcia niebezpieczeństwa dla życia lub zdrowia ludzkiego albo poważnej szkody dla interesu społecznego.
 
-§ 3. W sprawach, o których mowa w § 1, przepisów o milczącym załatwieniu sprawy nie stosuje się.
+### Art. 128.
 
-**Art. 152.**
+Wznowienie postępowania z przyczyny wymienionej w art. 127 § 1 pkt 5 może nastąpić tylko w okresie trzech lat od dnia wydania decyzji ostatecznej.
 
-§ 1. Organ administracji publicznej właściwy w sprawie wznowienia postępowania wstrzyma z urzędu lub na żądanie strony wykonanie decyzji, jeżeli okoliczności sprawy wskazują na prawdopodobieństwo uchylenia decyzji w wyniku wznowienia postępowania.
+### Art. 129.
 
-§ 2. Na postanowienie w sprawie wstrzymania wykonania decyzji służy stronie zażalenie, chyba że postanowienie wydał minister lub samorządowe kolegium odwoławcze.
+Wznowienie postępowania następuje z urzędu lub na żądanie strony. Wznowienie postępowania z przyczyny określonej w art. 127 § 1 pkt 4 następuje tylko na żądanie strony.
 
-**Art. 153.** (uchylony)
+### Art. 130.
 
-#### Rozdział 13 Uchylenie, zmiana oraz stwierdzenie nieważności decyzji
+### § 1.
 
-**Art. 154.**
+Podanie o wznowienie postępowania wnosi się do organu administracji państwowej, który wydał w sprawie decyzję w pierwszej instancji, w terminie jednego miesiąca od dnia, w którym strona dowiedziała się o okoliczności stanowiącej podstawę do wznowienia postępowania.
 
-§ 1. Decyzja ostateczna, na mocy której żadna ze stron nie nabyła prawa, może być w każdym czasie uchylona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przemawia za tym interes społeczny lub słuszny interes strony.
+### § 2.
 
-§ 2. W przypadkach określonych w § 1 właściwy organ wydaje decyzję w sprawie uchylenia lub zmiany dotychczasowej decyzji.
+Termin do złożenia podania o wznowienie postępowania z przyczyny określonej w art. 127 § 1 pkt 4 biegnie od dnia, w którym strona dowiedziała się o decyzji.
 
-§ 3. (uchylony)
+### Art. 131.
 
-**Art. 155.** Decyzja ostateczna, na mocy której strona nabyła prawo, może być w każdym czasie za zgodą strony uchylona lub zmieniona przez organ administracji publicznej, który ją wydał, jeżeli przepisy szczególne nie sprzeciwiają się uchyleniu lub zmianie takiej decyzji i przemawia za tym interes społeczny lub słuszny interes strony; przepis art. 154 § 2 stosuje się odpowiednio.
+Decyzję o wznowieniu postępowania wydaje organ administracji państwowej, który w sprawie wydał decyzję w ostatniej instancji, z wyjątkiem przypadku, gdy przyczynę wznowienia stanowi działalność tego organu albo okoliczność, że ten organ podlega wyłączeniu. W tym przypadku o wznowieniu postępowania decyduje organ wyższego stopnia. Nie dotyczy to przypadków, gdy decyzję w ostatniej instancji wydał naczelny organ administracji państwowej.
 
-**Art. 155a.** W sprawach, o których mowa w art. 154 i art. 155, przepisów o milczącym załatwieniu sprawy nie stosuje się.
+### Art. 132.
 
-**Art. 156.**
+W decyzji o wznowieniu postępowania organ administracji państwowej uchyla dotychczasową decyzję i ustala, w której instancji i w jakim zakresie ma nastąpić ponowne rozpatrzenie sprawy i wydanie nowej decyzji.
 
-§ 1. Organ administracji publicznej stwierdza nieważność decyzji, która:
+### Art. 133.
 
-- **1)** wydana została z naruszeniem przepisów o właściwości;
-- **2)** wydana została bez podstawy prawnej lub z rażącym naruszeniem prawa;
-- **3)** dotyczy sprawy już poprzednio rozstrzygniętej inną decyzją ostateczną albo sprawy, którą załatwiono milcząco;
-- **4)** została skierowana do osoby niebędącej stroną w sprawie;
-- **5)** była niewykonalna w dniu jej wydania i jej niewykonalność ma charakter trwały;
-- **6)** w razie jej wykonania wywołałaby czyn zagrożony karą;
-- **7)** zawiera wadę powodującą jej nieważność z mocy prawa.
+### § 1.
 
-§ 2. Nie stwierdza się nieważności decyzji z przyczyn wymienionych w § 1, jeżeli od dnia jej doręczenia lub ogłoszenia upłynęło dziesięć lat, a także gdy decyzja wywołała nieodwracalne skutki prawne.
+Od decyzji o wznowieniu postępowania nie służy stronie odwołanie.
 
-**Art. 157.**
+### § 2.
 
-§ 1. Właściwy do stwierdzenia nieważności decyzji w przypadkach wymienionych w art. 156 jest organ wyższego stopnia, a gdy decyzja wydana została przez ministra lub samorządowe kolegium odwoławcze – ten organ.
+Od decyzji o odmowie wznowienia postępowania służy stronie odwołanie, chyba że decyzję wydał naczelny organ administracji państwowej.
 
-§ 2. Postępowanie w sprawie stwierdzenia nieważności decyzji wszczyna się na żądanie strony lub z urzędu.
+### Art. 134.
 
-§ 3. (uchylony)
+### § 1.
 
-**Art. 158.**
+Organ administracji państwowej, właściwy w sprawie wznowienia postępowania, może przed rozpatrzeniem tej sprawy postanowić o wstrzymaniu wykonania decyzji wydanej w ostatniej instancji, jeżeli decyzja nie została jeszcze wykonana, gdy zostało uprawdopodobnione, że decyzję tę wydano przy istnieniu okoliczności stanowiącej przyczynę wznowienia postępowania.
 
-§ 1. Rozstrzygnięcie w sprawie stwierdzenia nieważności decyzji następuje w drodze decyzji. Przepisów o milczącym załatwieniu sprawy nie stosuje się.
+### § 2.
 
-§ 2. Jeżeli nie można stwierdzić nieważności decyzji na skutek okoliczności, o których mowa w art. 156 § 2, organ administracji publicznej ograniczy się do stwierdzenia wydania zaskarżonej decyzji z naruszeniem prawa oraz wskazania okoliczności, z powodu których nie stwierdził nieważności decyzji.
+Na postanowienie w sprawie wstrzymania wykonania decyzji służy stronie zażalenie, chyba że postanowienie wydał naczelny organ administracji państwowej.
 
-§ 3. Jeżeli od dnia doręczenia lub ogłoszenia decyzji, o której mowa w art. 156 § 2, upłynęło trzydzieści lat, nie wszczyna się postępowania w sprawie stwierdzenia nieważności decyzji.
+### Rozdział 12 Uchylenie i zmiana decyzji
 
-**Art. 159.**
+### Art. 135.
 
-§ 1. Organ administracji publicznej, właściwy w sprawie stwierdzenia nieważności decyzji, wstrzyma z urzędu lub na żądanie strony wykonanie decyzji, jeżeli zachodzi prawdopodobieństwo, że jest ona dotknięta jedną z wad wymienionych w art. 156 § 1.
+### § 1.
 
-§ 2. Na postanowienie o wstrzymaniu wykonania decyzji służy stronie zażalenie.
+Decyzja, na mocy której żadna ze stron nie nabyła prawa, może być w każdym czasie uchylona lub zmieniona przez organ administracji państwowej, który decyzję wydał, lub przez organ wyższego stopnia.
 
-**Art. 160.** (uchylony)
+### § 2.
 
-**Art. 161.**
+W przypadkach wymienionych w § 1 właściwy organ wydaje decyzję o uchyleniu lub zmianie dotychczasowej decyzji.
 
-§ 1. Minister może uchylić lub zmienić w niezbędnym zakresie każdą decyzję ostateczną, jeżeli w inny sposób nie można usunąć stanu zagrażającego życiu lub zdrowiu ludzkiemu albo zapobiec poważnym szkodom dla gospodarki narodowej lub dla ważnych interesów Państwa.
+### Art. 136.
 
-§ 2. Uprawnienia określone w § 1 w stosunku do decyzji wydanych przez organy jednostek samorządu terytorialnego w sprawach należących do zadań z zakresu administracji rządowej przysługują również wojewodzie.
+Decyzja, na mocy której strony nabyły prawo, może być za ich zgodą uchylona lub zmieniona przez organ administracji państwowej, który decyzję wydał, lub przez organ wyższego stopnia, jeżeli przepisy szczególne nie sprzeciwiają się uchyleniu lub zmianie decyzji. Przepis art. 135 § 2 stosuje się odpowiednio.
 
-§ 3. Stronie, która poniosła szkodę na skutek uchylenia lub zmiany decyzji, służy roszczenie o odszkodowanie za poniesioną rzeczywistą szkodę od organu, który uchylił lub zmienił tę decyzję; organ ten, w drodze decyzji, orzeka również o odszkodowaniu.
+### Art. 137.
 
-§ 4. Roszczenie o odszkodowanie przedawnia się z upływem trzech lat od dnia, w którym stała się ostateczna decyzja uchylająca lub zmieniająca decyzję.
+### § 1.
 
-§ 5. (uchylony)
+Podlega uchyleniu jako nieważna decyzja, która:
 
-**Art. 162.**
+### 1)
 
-§ 1. Organ administracji publicznej, który wydał decyzję w pierwszej instancji, stwierdza jej wygaśnięcie, jeżeli decyzja:
+została wydana przez organ administracji państwowej niewłaściwy ze względu na przedmiot decyzji,
 
-- **1)** stała się bezprzedmiotowa, a stwierdzenie wygaśnięcia takiej decyzji nakazuje przepis prawa albo gdy leży to w interesie społecznym lub w interesie strony;
-- **2)** została wydana z zastrzeżeniem dopełnienia przez stronę określonego warunku, a strona nie dopełniła tego warunku.
+### 2)
 
-§ 2. Organ administracji publicznej, o którym mowa w § 1, uchyli decyzję, jeżeli została ona wydana z zastrzeżeniem dopełnienia określonych czynności, a strona nie dopełniła tych czynności w wyznaczonym terminie.
+została wydana bez jakiejkolwiek podstawy prawnej,
 
-§ 3. Organ stwierdza wygaśnięcie decyzji lub uchyla decyzję na podstawie przepisów § 1 i 2 w drodze decyzji.
+### 3)
 
-**Art. 163.** Organ administracji publicznej może uchylić lub zmienić decyzję, na mocy której strona nabyła prawo, także w innych przypadkach oraz na innych zasadach niż określone w niniejszym rozdziale, o ile przewidują to przepisy szczególne.
+dotyczy sprawy już poprzednio rozstrzygniętej inną decyzją ostateczną,
 
-**Art. 163a.** W sprawach, o których mowa w art. 161–163, przepisów o milczącym załatwieniu sprawy nie stosuje się.
+### 4)
 
-#### Rozdział 14 Postępowanie uproszczone
+została skierowana do osoby nie będącej stroną w sprawie,
 
-**Art. 163b.**
+### 5)
 
-§ 1. Organ administracji publicznej załatwia sprawę w postępowaniu uproszczonym, jeżeli przepis szczególny tak stanowi.
+jest niewątpliwie niewykonalna,
 
-§ 2. Postępowanie uproszczone może dotyczyć interesu prawnego lub obowiązku tylko jednej strony, jeżeli przepis szczególny nie stanowi inaczej. Przepisu art. 62 nie stosuje się.
+### 6)
 
-§ 3. W sprawie rozpoznawanej w postępowaniu uproszczonym stosuje się przepisy o milczącym załatwieniu sprawy, chyba że przepis szczególny stanowi inaczej.
+w razie jej wykonania wywołałaby czyn zagrożony karą,
 
-**Art. 163c.**
+### 7)
 
-§ 1. W postępowaniu uproszczonym strona może wnieść podanie z wykorzystaniem urzędowego formularza, w którym wskazuje okoliczności mające znaczenie dla sprawy oraz przedstawia dowody wraz z żądaniem wszczęcia postępowania.
+zawiera wadę powodującą nieważność tej decyzji z mocy wyraźnego przepisu prawa.
 
-§ 2. Urzędowy formularz zawiera pouczenie o treści § 4.
+### § 2.
 
-§ 3. (uchylony) § 4. W sprawie wszczętej na skutek podania złożonego z wykorzystaniem urzędowego formularza nie jest dopuszczalne późniejsze zgłaszanie przez stronę nowych żądań.
+Jeżeli jedna z wad określonych w § 1 dotyczy tylko części decyzji, decyzja ta podlega uchyleniu tylko w niezbędnym zakresie.
 
-**Art. 163d.** Jeżeli uwzględnienie nowych okoliczności powołanych przez stronę w toku postępowania jest istotne dla wyniku tego postępowania, a ich uwzględnienie doprowadzi do jego przedłużenia, organ administracji publicznej w dalszym ciągu prowadzi postępowanie z pominięciem przepisów niniejszego rozdziału, o czym niezwłocznie informuje stronę.
+### Art. 138.
 
-**Art. 163e.**
+### § 1.
 
-§ 1. Postępowanie dowodowe jest ograniczone do dowodów zgłoszonych przez stronę, łącznie z żądaniem wszczęcia postępowania, oraz dowodów możliwych do ustalenia na podstawie danych, którymi dysponuje organ prowadzący postępowanie.
+Właściwy do uchylenia nieważnej decyzji w przypadkach wymienionych w art. 137 jest organ wyższego stopnia, a gdy decyzja wydana została przez naczelny organ administracji państwowej - ten organ.
 
-§ 2. W sprawach rozpoznawanych w postępowaniu uproszczonym nie stosuje się przepisu art. 81.
+### § 2.
 
-**Art. 163f.** Uzasadnienie decyzji wydanej w postępowaniu uproszczonym może ograniczać się do wskazania faktów, które organ administracji publicznej uznał za udowodnione, oraz przytoczenia przepisów prawa stanowiących podstawę prawną decyzji.
+Właściwy organ wydaje decyzję o uchyleniu nieważnej decyzji na żądanie strony lub z urzędu.
 
-**Art. 163g.** Postanowienia wydane w postępowaniu uproszczonym można zaskarżyć tylko w odwołaniu od decyzji, z wyjątkiem postanowień wydanych po wydaniu decyzji, postanowień o zawieszeniu lub odmowie podjęcia zawieszonego postępowania oraz postanowień, w odniesieniu do których możliwość ich zaskarżenia przewidują przepisy szczególne.
+### § 3.
 
-### DZIAŁ III Przepisy szczególne w sprawach ubezpieczeń społecznych
+Od decyzji o uchyleniu nieważnej decyzji służy stronie odwołanie, chyba że decyzję o uchyleniu wydał naczelny organ administracji państwowej.
 
-**Art. 180.**
+### Art. 139.
 
-§ 1. W sprawach z zakresu ubezpieczeń społecznych stosuje się przepisy kodeksu, chyba że przepisy dotyczące ubezpieczeń ustalają odmienne zasady postępowania w tych sprawach.
+### § 1.
 
-§ 2. Przez sprawy z zakresu ubezpieczeń społecznych rozumie się sprawy wynikające z przepisów o ubezpieczeniach społecznych, o zaopatrzeniach emerytalnych i rentowych, o funduszu alimentacyjnym, a także sprawy wynikające z przepisów o innych świadczeniach wypłacanych z funduszów przeznaczonych na ubezpieczenia społeczne.
+Organ administracji państwowej, właściwy do uchylenia decyzji jako nieważnej, wstrzyma z urzędu lub na żądanie strony wykonanie decyzji, gdy zachodzi prawdopodobieństwo, że jest ona dotknięta jedną z wad wymienionych w art. 137.
 
-**Art. 181.** Organy odwoławcze właściwe w sprawach z zakresu ubezpieczeń społecznych określają przepisy odrębne; do postępowania przed tymi organami stosuje się odpowiednio przepis art. 180 § 1.
+### § 2.
 
-### DZIAŁ IV Udział prokuratora
+Na postanowienie o wstrzymaniu wykonania decyzji służy stronie zażalenie.
 
-**Art. 182.** Prokuratorowi służy prawo zwrócenia się do właściwego organu administracji publicznej o wszczęcie postępowania w celu usunięcia stanu niezgodnego z prawem.
+### Art. 140.
 
-**Art. 183.**
+Przewidziane w art. 135-139 uprawnienia organów wyższego stopnia do uchylenia i zmiany decyzji służą w stosunku do decyzji wydanych przez organy administracji prezydiów rad narodowych także tym prezydiom.
 
-§ 1. Prokuratorowi służy prawo udziału w każdym stadium postępowania w celu zapewnienia, aby postępowanie i rozstrzygnięcie sprawy było zgodne z prawem.
+### Art. 141.
 
-§ 2. Organ administracji publicznej zawiadamia prokuratora o wszczęciu postępowania oraz o toczącym się postępowaniu w każdym przypadku, gdy uzna udział prokuratora w postępowaniu za potrzebny.
+### § 1.
 
-**Art. 184.**
+Naczelny organ administracji państwowej może uchylić lub zmienić w niezbędnym zakresie każdą decyzję ostateczną, jeżeli w inny sposób nie można usunąć stanu zagrażającego życiu lub zdrowiu ludzkiemu albo zapobiec poważnym szkodom dla gospodarki narodowej lub dla ważnych interesów Państwa.
 
-§ 1. Prokuratorowi służy prawo wniesienia sprzeciwu od decyzji ostatecznej, jeżeli przepisy kodeksu lub przepisy szczególne przewidują wznowienie postępowania, stwierdzenie nieważności decyzji albo jej uchylenie lub zmianę.
+### § 2.
 
-§ 2. Prokurator wnosi sprzeciw do organu właściwego do wznowienia postępowania, stwierdzenia nieważności decyzji albo jej uchylenia lub zmiany.
+Uprawnienia określone w § 1 przysługują także prezydium wojewódzkiej rady narodowej co do decyzji wydanych przez organy administracyjne prezydiów rad narodowych niższego stopnia.
 
-§ 3. Sprzeciw od decyzji wydanej przez ministra wnosi Prokurator Generalny.
+### § 3.
 
-§ 4. Jeżeli podstawą sprzeciwu jest naruszenie przepisu art. 145 § 1 pkt 4, wniesienie sprzeciwu wymaga zgody strony.
+W przypadkach określonych w § 1 i 2 stronom poszkodowanym służy prawo do odszkodowania od Państwa. Strony mogą dochodzić odszkodowania także na drodze sądowej.
 
-**Art. 185.**
+### Art. 142.
 
-§ 1. Sprzeciw prokuratora powinien być rozpatrzony i załatwiony w terminie trzydziestu dni od daty jego wniesienia.
+Organ administracji państwowej może uchylić lub zmienić decyzję, na mocy której strona nabyła prawo, także w innych przypadkach oraz na innych zasadach niż określone w niniejszym rozdziale, o ile przewidują to przepisy szczególne.
 
-§ 2. W razie niezałatwienia sprzeciwu w terminie określonym w § 1 mają odpowiednie zastosowanie przepisy art. 36–38.
+### Dział III Udział prokuratora
 
-**Art. 186.** W przypadku wniesienia sprzeciwu przez prokuratora właściwy organ administracji publicznej wszczyna w sprawie postępowanie z urzędu, zawiadamiając o tym strony.
+### Art. 143.
 
-**Art. 187.** W przypadku wniesienia przez prokuratora sprzeciwu organ administracji publicznej, do którego sprzeciw wniesiono, obowiązany jest niezwłocznie rozpatrzyć, czy zachodzi potrzeba wstrzymania wykonania decyzji do chwili załatwienia sprzeciwu.
+Prokuratorowi służy prawo zwrócenia się do właściwego organu administracji państwowej o wszczęcie postępowania w celu usunięcia stanu niezgodnego z prawem.
 
-**Art. 188.** Prokuratorowi, który bierze udział w postępowaniu w przypadkach określonych w art. 182–184, służą prawa strony.
+### Art. 144.
 
-**Art. 189.** Prokurator, który wniósł skargę na decyzję organu administracji publicznej do sądu administracyjnego, nie może z tych samych przyczyn wnieść sprzeciwu.
+Prokuratorowi służy prawo udziału w każdym stadium postępowania w celu zapewnienia, aby postępowanie i rozstrzygnięcie sprawy było zgodne z prawem.
 
-### DZIAŁ IVA Administracyjne kary pieniężne
+### Art. 145.
 
-**Art. 189a.**
+### § 1.
 
-§ 1. W sprawach nakładania lub wymierzania administracyjnej kary pieniężnej lub udzielania ulg w jej wykonaniu stosuje się przepisy niniejszego działu.
+Prokuratorowi służy prawo wniesienia sprzeciwu od decyzji ostatecznej, jeżeli zachodzą:
 
-§ 2. W przypadku uregulowania w przepisach odrębnych:
+### 1)
 
-- **1)** przesłanek wymiaru administracyjnej kary pieniężnej,
-- **2)** odstąpienia od nałożenia administracyjnej kary pieniężnej lub udzielenia pouczenia,
-- **3)** terminów przedawnienia nakładania administracyjnej kary pieniężnej,
-- **4)** terminów przedawnienia egzekucji administracyjnej kary pieniężnej,
-- **5)** odsetek od zaległej administracyjnej kary pieniężnej,
-- **6)** udzielania ulg w wykonaniu administracyjnej kary pieniężnej – przepisów niniejszego działu w tym zakresie nie stosuje się.
+określone w art. 127 przyczyny wznowienia postępowania,
 
-§ 3. W sprawach nakładania lub wymierzania przez organ administracji publicznej kar na podstawie przepisów o postępowaniu w sprawach o wykroczenia, odpowiedzialności dyscyplinarnej, porządkowej lub z tytułu naruszenia dyscypliny finansów publicznych, przepisów niniejszego działu nie stosuje się.
+### 2)
 
-**Art. 189b.** Przez administracyjną karę pieniężną rozumie się określoną w ustawie sankcję o charakterze pieniężnym, nakładaną przez organ administracji publicznej, w drodze decyzji, w następstwie naruszenia prawa polegającego na niedopełnieniu obowiązku albo naruszeniu zakazu ciążącego na osobie fizycznej, osobie prawnej albo jednostce organizacyjnej nieposiadającej osobowości prawnej.
+określone w art. 137 i 141 lub w innych przepisach prawnych przyczyny uchylenia lub zmiany decyzji.
 
-**Art. 189c.** Jeżeli w czasie wydawania decyzji w sprawie administracyjnej kary pieniężnej obowiązuje ustawa inna niż w czasie naruszenia prawa, w następstwie którego ma być nałożona kara, stosuje się ustawę nową, jednakże należy stosować ustawę obowiązującą poprzednio, jeżeli jest ona względniejsza dla strony.
+### § 2.
 
-**Art. 189d.** Wymierzając administracyjną karę pieniężną, organ administracji publicznej bierze pod uwagę:
+Prokurator wnosi sprzeciw do organu wyższego stopnia.
 
-**Art. 189e.** W przypadku gdy do naruszenia prawa doszło wskutek działania siły wyższej, strona nie podlega ukaraniu.
+### Art. 146.
 
-**Art. 189f.**
+### § 1.
 
-§ 1. Organ administracji publicznej, w drodze decyzji, odstępuje od nałożenia administracyjnej kary pieniężnej i poprzestaje na pouczeniu, jeżeli:
+Sprzeciw prokuratora powinien być rozpatrzony i załatwiony w terminie trzydziestu dni od daty jego wniesienia.
 
-- **1)** waga naruszenia prawa jest znikoma, a strona zaprzestała naruszania prawa lub
-- **2)** za to samo zachowanie prawomocną decyzją na stronę została uprzednio nałożona administracyjna kara pieniężna przez inny uprawniony organ administracji publicznej lub strona została prawomocnie ukarana za wykroczenie lub wykroczenie skarbowe, lub prawomocnie skazana za przestępstwo lub przestępstwo skarbowe i uprzednia kara spełnia cele, dla których miałaby być nałożona administracyjna kara pieniężna.
+### § 2.
 
-§ 2. W przypadkach innych niż wymienione w § 1, jeżeli pozwoli to na spełnienie celów, dla których miałaby być nałożona administracyjna kara pieniężna, organ administracji publicznej, w drodze postanowienia, może wyznaczyć stronie termin do przedstawienia dowodów potwierdzających:
+W razie niezałatwienia sprzeciwu w terminie określonym w § 1 mają odpowiednie zastosowanie przepisy art. 33-35.
 
-- **1)** usunięcie naruszenia prawa lub
-- **2)** powiadomienie właściwych podmiotów o stwierdzonym naruszeniu prawa, określając termin i sposób powiadomienia.
+### Art. 147.
 
-§ 3. Organ administracji publicznej w przypadkach, o których mowa w § 2, odstępuje od nałożenia administracyjnej kary pieniężnej i poprzestaje na pouczeniu, jeżeli strona przedstawiła dowody, potwierdzające wykonanie postanowienia.
+Jeżeli organ administracji państwowej właściwy do rozpatrzenia sprzeciwu, uzna sprzeciw za uzasadniony, powinien zależnie od jego podstawy, spowodować wznowienie postępowania albo uchylić lub zmienić decyzję.
 
-**Art. 189g.**
+### Art. 148.
 
-§ 1. Administracyjna kara pieniężna nie może zostać nałożona, jeżeli upłynęło pięć lat od dnia naruszenia prawa albo wystąpienia skutków naruszenia prawa.
+W przypadku wniesienia przez prokuratora sprzeciwu organ administracji państwowej, do którego sprzeciw wniesiono, obowiązany jest niezwłocznie rozpatrzyć, czy zachodzi potrzeba wstrzymania wykonania decyzji do chwili załatwienia sprzeciwu.
 
-§ 2. Przepisu § 1 nie stosuje się do spraw, w przypadku których przepisy odrębne przewidują termin, po upływie którego nie można wszcząć postępowania w sprawie nałożenia administracyjnej kary pieniężnej lub stwierdzenia naruszenia prawa, w następstwie którego może być nałożona administracyjna kara pieniężna.
+### Art. 149.
 
-§ 3. Administracyjna kara pieniężna nie podlega egzekucji, jeżeli upłynęło pięć lat od dnia, w którym kara powinna być wykonana.
+Prokuratorowi, który bierze udział w postępowaniu w przypadkach określonych w art. 143-145, służą prawa strony.
 
-**Art. 189h.**
+### Art. 150.
 
-§ 1. Bieg terminu przedawnienia nałożenia administracyjnej kary pieniężnej przerywa ogłoszenie upadłości strony.
+Przepisów niniejszego działu o sprzeciwie prokuratora nie stosuje się do decyzji wydanej przez naczelny organ administracji państwowej. Jednakże decyzja ta może być z przyczyn określonych w art. 145 § 1 przedmiotem wystąpienia Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej do naczelnego organu administracji państwowej, który wydał decyzję. Organ ten powinien rozpatrzyć wystąpienie Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej i udzielić mu odpowiedzi w ciągu 30 dni.
 
-§ 2. Po przerwaniu biegu terminu przedawnienia nałożenia administracyjnej kary pieniężnej biegnie on na nowo od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
+### Dział IV Skargi i wnioski
 
-§ 3. Jeżeli ogłoszenie upadłości strony nastąpiło przed rozpoczęciem biegu terminu przedawnienia nałożenia administracyjnej kary pieniężnej, bieg tego terminu rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
+### Rozdział 1 Przepisy ogólne
 
-§ 4. Bieg terminu przedawnienia nałożenia administracyjnej kary pieniężnej nie rozpoczyna się, a rozpoczęty ulega zawieszeniu z dniem:
+### Art. 151.
 
-- **1)** wniesienia środka zaskarżenia od decyzji w przedmiocie administracyjnej kary pieniężnej do sądu administracyjnego albo sądu powszechnego, albo skargi kasacyjnej od prawomocnego orzeczenia w przedmiocie administracyjnej kary pieniężnej;
-- **2)** wniesienia żądania ustalenia przez sąd powszechny istnienia lub nieistnienia stosunku prawnego lub prawa;
-- **3)** doręczenia zarządzenia zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, jeżeli przepisy odrębne przewidują możliwość zarządzenia zabezpieczenia;
-- **4)** wydania postanowienia o zawieszeniu postępowania na podstawie art. 97 § 1 pkt 2–4.
+### § 1.
 
-§ 5. Termin przedawnienia nałożenia administracyjnej kary pieniężnej rozpoczyna się, a po zawieszeniu biegnie dalej, od dnia następującego po dniu:
+Obywatelom oraz organizacjom zawodowym, samorządowym, spółdzielczym i innym organizacjom społecznym służy zagwarantowane w Konstytucji Polskiej Rzeczypospolitej Ludowej prawo składania skarg i wniosków do organów państwowych.
 
-- **1)** uprawomocnienia się orzeczenia sądu administracyjnego albo sądu powszechnego właściwego do rozpoznania odwołania od decyzji w przedmiocie administracyjnej kary pieniężnej, albo odmowy przyjęcia skargi kasacyjnej do rozpoznania przez Sąd Najwyższy, oddalenia skargi kasacyjnej, albo uchylenia przez Sąd Najwyższy zaskarżonego wyroku i orzeczenia co do istoty sprawy;
-- **2)** uprawomocnienia się orzeczenia lub ogłoszenia prawomocnego orzeczenia sądu powszechnego w sprawie ustalenia istnienia lub nieistnienia stosunku prawnego lub prawa;
-- **3)** zakończenia postępowania zabezpieczającego w trybie przepisów o postępowaniu egzekucyjnym w administracji;
-- **4)** podjęcia postępowania w przypadku, o którym mowa w art. 97 § 2.
+### § 2.
 
-**Art. 189i.**
+Skargi i wnioski można składać w interesie własnym, innych osób, a także w interesie społecznym.
 
-§ 1. Zaległą administracyjną karą pieniężną jest kara niezapłacona w terminie 14 dni od dnia, w którym decyzja w sprawie administracyjnej kary pieniężnej stała się ostateczna, a jeżeli przepisy szczególne wskazują inny termin zapłaty administracyjnej kary pieniężnej – zaległą administracyjną karą pieniężną jest kara niezapłacona w tym terminie.
+### Art. 152.
 
-§ 2. Od zaległej administracyjnej kary pieniężnej nalicza się odsetki za zwłokę w wysokości określonej jak dla zaległości podatkowych, chyba że przepisy odrębne stanowią inaczej.
+### § 1.
 
-**Art. 189j.**
+Skargi i wnioski składane do organów państwowych mogą dotyczyć wszelkich spraw wchodzących w zakres zadań organów państwowych i państwowych jednostek organizacyjnych, a także zadań wynikających dla organów organizacji zawodowych, samorządowych i spółdzielczych i innych organizacji społecznych z załatwiania przez nie spraw określonych w art. 1.
 
-§ 1. Bieg terminu przedawnienia egzekucji administracyjnej kary pieniężnej przerywa ogłoszenie upadłości strony.
+### § 2.
 
-§ 2. Po przerwaniu biegu terminu przedawnienia egzekucji administracyjnej kary pieniężnej biegnie on na nowo od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
+O tym, czy pismo jest skargą albo wnioskiem, decyduje treść pisma, a nie jego forma zewnętrzna.
 
-§ 3. Jeżeli ogłoszenie upadłości strony nastąpiło przed rozpoczęciem biegu terminu przedawnienia egzekucji administracyjnej kary pieniężnej, bieg tego terminu rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
+### Art. 153.
 
-§ 4. Bieg terminu przedawnienia egzekucji administracyjnej kary pieniężnej nie rozpoczyna się, a rozpoczęty ulega przerwaniu z dniem:
+### § 1.
 
-- **1)** zastosowania środka egzekucyjnego, o którym zobowiązany został zawiadomiony;
-- **2)** doręczenia zarządzenia zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+Organy państwowe obowiązane są skargi i wnioski rozpatrzyć i załatwić w ramach swojej właściwości.
 
-§ 5. Bieg terminu przedawnienia egzekucji administracyjnej kary pieniężnej rozpoczyna się, a po przerwaniu biegnie na nowo, od dnia następującego po dniu, w którym:
+### § 2.
 
-- **1)** zastosowano środek egzekucyjny, o którym zobowiązany został zawiadomiony;
-- **2)** doręczono zarządzenie zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+Pracownik organu państwowego winny przewlekłego lub biurokratycznego załatwiania skarg i wniosków podlega odpowiedzialności służbowej lub dyscyplinarnej.
 
-**Art. 189k.**
+### Art. 154.
 
-§ 1. Organ administracji publicznej, który nałożył administracyjną karę pieniężną, na wniosek strony, w przypadkach uzasadnionych ważnym interesem publicznym lub ważnym interesem strony, może udzielić ulg w wykonaniu administracyjnej kary pieniężnej przez:
+Przepisy niniejszego działu stosuje się odpowiednio do skarg i wniosków składanych do organów organizacji zawodowych, samorządowych, spółdzielczych i innych organizacji społecznych, w związku z załatwianiem przez te organy spraw określonych w art. 1. W tych przypadkach przepis art. 153 § 2 ma zastosowanie do osób załatwiających skargi i wnioski składane do organów tych organizacji.
 
-- **1)** odroczenie terminu zapłaty lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej;
-- **2)** odroczenie terminu zapłaty lub rozłożenie na raty zapłaty zaległej administracyjnej kary pieniężnej wraz z odsetkami za zwłokę;
-- **3)** umorzenie administracyjnej kary pieniężnej w całości lub części;
-- **4)** umorzenie odsetek za zwłokę w całości lub części.
+### Art. 155.
 
-§ 2. W przypadku umorzenia zaległej administracyjnej kary pieniężnej umorzeniu podlegają także odsetki za zwłokę w całości lub takiej części, w jakiej została umorzona zaległa administracyjna kara pieniężna.
+Nikt nie może być narażony na jakikolwiek uszczerbek lub zarzut z powodu złożenia skargi lub wniosku albo z powodu dostarczenia materiału do publikacji o znamionach skargi lub wniosku, jeżeli działał w granicach prawem dozwolonych.
 
-§ 2a. Od zaległej administracyjnej kary pieniężnej, której termin zapłaty został odroczony lub zapłata została rozłożona na raty, odsetki za zwłokę są naliczane do dnia wniesienia wniosku strony o odroczenie terminu jej zapłaty lub rozłożenie zapłaty na raty, włącznie z tym dniem.
+### Art. 156.
 
-§ 2b. Jeżeli decyzja o odmowie odroczenia terminu zapłaty lub rozłożenia na raty zapłaty administracyjnej kary pieniężnej została doręczona stronie:
+Rada Ministrów wyda przepisy o organizacji przyjmowania i rozpatrywania skarg i wniosków.
 
-- **1)** przed upływem dwóch miesięcy od dnia wniesienia wniosku o jej odroczenie lub rozłożenie na raty, odsetki za zwłokę są naliczane, począwszy od dnia następującego po dniu upływu terminu zapłaty administracyjnej kary pieniężnej;
-- **2)** po upływie dwóch miesięcy od dnia wniesienia wniosku o jej odroczenie lub rozłożenie na raty, dalsze odsetki za zwłokę są naliczane z wyłączeniem okresu od dnia następującego po dniu wniesienia wniosku do dnia doręczenia tej decyzji, włącznie z tym dniem.
+### Rozdział 2 Skargi
 
-§ 2c. W razie niedotrzymania terminu zapłaty odroczonej administracyjnej kary pieniężnej lub terminu zapłaty którejkolwiek z rat, na jakie została rozłożona administracyjna kara pieniężna, z mocy prawa następuje wygaśnięcie decyzji o:
+### Art. 157.
 
-- **1)** odroczeniu terminu zapłaty administracyjnej kary pieniężnej – w całości;
-- **2)** rozłożeniu na raty zapłaty administracyjnej kary pieniężnej – w części dotyczącej raty niezapłaconej w terminie zapłaty.
+Przedmiotem skargi może być w szczególności zaniedbanie lub nienależyte wykonywanie zadań przez właściwe organy albo przez ich pracowników, naruszenie praworządności lub słusznych interesów obywateli, a także przewlekłe lub biurokratyczne załatwianie spraw.
 
-§ 2d. W razie niedotrzymania terminu zapłaty trzech z rat, na jakie została rozłożona administracyjna kara pieniężna, z mocy prawa następuje wygaśnięcie decyzji o rozłożeniu na raty zapłaty administracyjnej kary pieniężnej w zakresie wszystkich niezapłaconych rat.
+### Art. 158.
 
-§ 2e. W przypadkach, o których mowa w § 2c i 2d, odsetki za zwłokę są naliczane od dnia wniesienia wniosku strony o odroczenie lub rozłożenie na raty zapłaty administracyjnej kary pieniężnej, włącznie z tym dniem.
+Skargi składa się do organów właściwych do ich rozpatrzenia.
 
-§ 2f. Przepisy § 2b–2e stosuje się odpowiednio do odroczonej lub rozłożonej na raty zapłaty zaległej administracyjnej kary pieniężnej.
+### Art. 159.
 
-§ 3. Właściwy organ, na wniosek strony prowadzącej działalność gospodarczą, może udzielać określonych w § 1 ulg w wykonaniu administracyjnej kary pieniężnej, które:
+Jeżeli przepisy szczególne nie określają innych organów właściwych do rozpatrywania skarg, jest organem właściwym do rozpatrzenia skargi dotyczącej zadań lub działalności:
 
-- **1)** nie stanowią pomocy publicznej;
-- **2)** stanowią pomoc de minimis albo pomoc de minimis w rolnictwie lub rybołówstwie – w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis;
-- **3)** stanowią pomoc publiczną:
-    - **a)** mającą na celu naprawienie szkód spowodowanych klęskami żywiołowymi lub innymi zdarzeniami nadzwyczajnymi,
-    - **b)** mającą na celu zaradzenie poważnym zaburzeniom w gospodarce,
-    - **c)** zgodną z zasadami rynku wewnętrznego Unii Europejskiej, której dopuszczalność została określona przez właściwe organy Unii Europejskiej, udzielaną na przeznaczenie inne niż wymienione w lit. a i b.
+### 1)
 
-§ 4. W przypadku pomocy publicznej określonej w § 3 pkt 3 lit. a i b ulgi, o których mowa w § 3 pkt 2, mogą być udzielane, jeżeli w przepisach odrębnych zostały określone szczegółowe warunki udzielania tej pomocy, zapewniające jej zgodność z zasadami rynku wewnętrznego Unii Europejskiej.
+rady narodowej - rada narodowa bezpośrednio wyższego stopnia, a w stosunku do wojewódzkiej rady narodowej i rady narodowej miasta wyłączonego z województwa - Rada Państwa,
 
-§ 4a. Do pomocy publicznej, o której mowa w § 3 pkt 3 lit. c, przeznaczonej na restrukturyzację, stosuje się:
+### 2)
 
-- **1)** w zakresie warunków udzielania tej pomocy: o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców (Dz. U. poz. 1298 oraz z 2025 r. poz. 769);
-    - **a)** w przypadku przedsiębiorcy, wobec którego jest prowadzone postępowanie restrukturyzacyjne – przepisy ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne (Dz. U. z 2024 r. poz. 1428 oraz z 2025 r. poz. 1085, 1170 i 1172),
-    - **b)** w przypadku przedsiębiorcy, wobec którego nie jest prowadzone postępowanie restrukturyzacyjne – przepisy ustawy z dnia 16 lipca 2020 r.
+prezydium rady narodowej - prezydium rady narodowej wyższego stopnia, a w stosunku do prezydium wojewódzkiej rady narodowej - Rada Ministrów,
 
-- **2)** w zakresie trybu udzielania tej pomocy – przepisy ustawy z dnia 16 lipca 2020 r. o udzielaniu pomocy publicznej w celu ratowania lub restrukturyzacji przedsiębiorców.
+### 3)
 
-§ 5. Rada Ministrów może określić, w drodze rozporządzenia, inne niż restrukturyzacja przeznaczenie pomocy, o której mowa w § 3 pkt 3 lit. c, udzielanej w formie ulg w wykonaniu administracyjnej kary pieniężnej oraz warunki i tryb udzielania tych ulg, mając na uwadze dopuszczalność i warunki udzielania pomocy państwa określone przez właściwe organy Unii Europejskiej.
+ministra - Rada Ministrów,
 
-**Art. 189l.**
+### 4)
 
-§ 1. Organ administracji publicznej, który nałożył administracyjną karę pieniężną, może z urzędu udzielić ulg w wykonaniu administracyjnej kary pieniężnej, o których mowa w art. 189k § 1 pkt 3 i 4, jeżeli:
+urzędu centralnego i jego kierownika - Prezes Rady Ministrów lub minister, któremu urząd podlega,
 
-- **1)** zachodzi uzasadnione przypuszczenie, że egzekucja zaległej administracyjnej kary pieniężnej będzie bezskuteczna z powodu braku majątku lub źródła dochodu zobowiązanego, z których jest możliwe wyegzekwowanie środków pieniężnych przewyższających koszty egzekucyjne;
-- **2)** zaległa administracyjna kara pieniężna nie została zaspokojona w zakończonym postępowaniu likwidacyjnym lub upadłościowym;
-- **3)** wysokość zaległej administracyjnej kary pieniężnej nie przekracza pięciokrotnej wysokości kosztów upomnienia, o którym mowa w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302).
+### 5)
 
-§ 2. Przepis art. 189k § 2 stosuje się odpowiednio.
+organu administracyjnego prezydium rady narodowej - prezydium tej rady oraz odpowiedni organ prezydium rady narodowej wyższego stopnia, a w stosunku do organu administracyjnego prezydium wojewódzkiej rady narodowej - prezydium tej rady oraz właściwy minister,
 
-§ 3. W przypadku, o którym mowa w § 1 pkt 2, decyzję o udzieleniu ulgi w wykonaniu administracyjnej kary pieniężnej pozostawia się w aktach sprawy ze skutkiem doręczenia.
+### 6)
 
-§ 4. W przypadku, o którym mowa w § 1 pkt 2, właściwy organ może umorzyć zaległą administracyjną karę pieniężną, jeżeli umorzenie:
+innego organu administracji państwowej, przedsiębiorstwa państwowego lub innej państwowej jednostki organizacyjnej - organ wyższego stopnia lub sprawujący bezpośredni nadzór.
 
-- **1)** nie będzie stanowiło pomocy publicznej lub
-- **2)** będzie stanowiło pomoc udzielaną zgodnie z warunkami dopuszczalności pomocy de minimis albo pomocy de minimis w rolnictwie lub rybołówstwie – w zakresie i na zasadach określonych w bezpośrednio obowiązujących przepisach prawa Unii Europejskiej dotyczących pomocy w ramach zasady de minimis.
+### Art. 160.
 
-### DZIAŁ V (uchylony)
+Do rozpatrzenia skargi dotyczącej zadań lub działalności organu organizacji zawodowej, samorządowej, spółdzielczej i innej organizacji społecznej w zakresie administracji państwowej (art. 2 § 2) właściwy jest organ bezpośrednio wyższego stopnia tej organizacji, a w stosunku do organu naczelnego tej organizacji - organ państwowy sprawujący nadzór nad organizacją.
 
-### DZIAŁ VI (uchylony)
+### Art. 161.
 
-### DZIAŁ VII Wydawanie zaświadczeń
+Jeżeli organ, który otrzymał skargę, nie jest właściwy do jej rozpatrzenia, obowiązany jest w terminie siedmiu dni przekazać ją właściwemu organowi, zawiadamiając równocześnie o tym skarżącego, albo wskazać mu właściwy organ.
 
-**Art. 217.**
+### Art. 162.
 
-§ 1. Organ administracji publicznej wydaje zaświadczenie na żądanie osoby ubiegającej się o zaświadczenie.
+### § 1.
 
-§ 2. Zaświadczenie wydaje się, jeżeli:
+Organ właściwy do rozpatrzenia skargi może ją przekazać do załatwienia organowi niższego stopnia, o ile skarga nie zawiera zarzutów dotyczących działalności tego organu.
 
-- **1)** urzędowego potwierdzenia określonych faktów lub stanu prawnego wymaga przepis prawa;
-- **2)** osoba ubiega się o zaświadczenie ze względu na swój interes prawny w urzędowym potwierdzeniu określonych faktów lub stanu prawnego.
+### § 2.
 
-§ 3. Zaświadczenie powinno być wydane bez zbędnej zwłoki, nie później jednak niż w terminie siedmiu dni.
+Skargę na pracownika można przekazać do załatwienia również jego przełożonemu służbowemu, z obowiązkiem zawiadomienia organu właściwego do rozpatrzenia skargi o sposobie jej załatwienia.
 
-§ 4. (uchylony)
+### § 3.
 
-**Art. 217a.** Organ administracji publicznej przekazuje informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, przy pierwszej czynności skierowanej do strony, chyba że strona posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+O przekazaniu skargi zawiadamia się równocześnie skarżącego.
 
-**Art. 218.**
+### Art. 163.
 
-§ 1. W przypadkach, o których mowa w art. 217 § 2 pkt 2, organ administracji publicznej obowiązany jest wydać zaświadczenie, gdy chodzi o potwierdzenie faktów albo stanu prawnego, wynikających z prowadzonej przez ten organ ewidencji, rejestrów bądź z innych danych znajdujących się w jego posiadaniu.
+Skarga w sprawie indywidualnej, która nie była i nie jest przedmiotem postępowania administracyjnego, powoduje wszczęcie postępowania, jeżeli została złożona przez stronę. Jeżeli skarga taka pochodzi od innej osoby, może spowodować wszczęcie postępowania administracyjnego z urzędu, chyba że przepisy wymagają do wszczęcia postępowania żądania strony.
 
-§ 2. Organ administracji publicznej, przed wydaniem zaświadczenia, może przeprowadzić w koniecznym zakresie postępowanie wyjaśniające.
+### Art. 164.
 
-**Art. 219.** Odmowa wydania zaświadczenia bądź zaświadczenia o treści żądanej przez osobę ubiegającą się o nie następuje w drodze postanowienia, na które służy zażalenie.
+W sprawie, w której toczy się postępowanie administracyjne:
 
-**Art. 220.**
+### 1)
 
-§ 1. Organ administracji publicznej nie może żądać zaświadczenia ani oświadczenia na potwierdzenie faktów lub stanu prawnego, jeżeli:
+skarga złożona przez stronę podlega rozpatrzeniu w toku postępowania, zgodnie z przepisami kodeksu,
 
-- **1)** znane są one organowi z urzędu;
-- **2)** możliwe są do ustalenia przez organ na podstawie:
-    - **a)** posiadanych przez niego ewidencji, rejestrów lub innych danych,
-    - **b)** rejestrów publicznych posiadanych przez inne podmioty publiczne, do których organ ma dostęp w drodze elektronicznej na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne,
-    - **c)** wymiany informacji z innym podmiotem publicznym na zasadach określonych w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne,
-    - **d)** przedstawionych przez zainteresowanego do wglądu dokumentów urzędowych (dowodu osobistego, dowodów rejestracyjnych i innych).
+### 2)
 
-§ 2. Organ administracji publicznej żądający od strony lub innego uczestnika postępowania zaświadczenia albo oświadczenia na potwierdzenie faktów lub stanu prawnego jest obowiązany wskazać przepis prawa wymagający urzędowego potwierdzenia tych faktów lub stanu prawnego w drodze zaświadczenia albo oświadczenia.
+skarga pochodząca od innych osób stanowi materiał, który organ prowadzący postępowanie powinien rozpatrzyć z urzędu.
 
-§ 3. Jeżeli strona lub inny uczestnik postępowania nie może uzyskać utrwalonego w postaci elektronicznej zaświadczenia wymaganego do potwierdzenia faktów lub stanu prawnego lub innego dokumentu wydanego przez podmiot publiczny w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, jak również potwierdzenia uiszczenia opłat i kosztów postępowania, strona lub inny uczestnik postępowania może złożyć elektroniczną kopię takiego dokumentu, po uwierzytelnieniu jej przez wnoszącego, przy użyciu kwalifikowanego podpisu elektronicznego podpisu zaufanego albo podpisu osobistego.
+### Art. 165.
 
-§ 4. Organ administracji publicznej może żądać przedłożenia oryginału zaświadczenia, innego dokumentu lub potwierdzenia uiszczenia opłat i kosztów postępowania, o których mowa w § 3, o ile złożona kopia nie pozwala na weryfikację autentyczności oraz integralności lub jeżeli jest to uzasadnione innymi okolicznościami sprawy.
+### § 1.
 
-§ 5. Strona lub inny uczestnik postępowania przechowują zaświadczenie, inny dokument lub potwierdzenie uiszczenia opłat i kosztów postępowania, o których mowa w § 3, do dnia, w którym decyzja kończąca postępowanie stała się ostateczna.
+Skargę w sprawie, w której w toku postępowania administracyjnego została wydana decyzja ostateczna, uważa się zależnie od jej treści za podanie o wznowienie postępowania lub za żądanie uchylenia lub zmiany decyzji z urzędu.
 
-### DZIAŁ VIII Skargi i wnioski
+### § 2.
 
-#### Rozdział 1 Postanowienia ogólne
+W przypadkach określonych w § 1 postępowanie zostanie wznowione, a decyzja zostanie uchylona lub zmieniona, gdy zachodzą przewidziane w kodeksie warunki do wznowienia postępowania albo do uchylenia lub zmiany decyzji.
 
-**Art. 221.**
+### Art. 166.
 
-§ 1. Zagwarantowane każdemu w Konstytucji Rzeczypospolitej Polskiej prawo składania skarg i wniosków do organów państwowych, organów jednostek samorządu terytorialnego, organów samorządowych jednostek organizacyjnych oraz do organizacji i instytucji społecznych realizowane jest na zasadach określonych przepisami niniejszego działu.
+### § 1.
 
-§ 2. Skargi i wnioski mogą być składane do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej.
+Gdy organ właściwy do rozpatrzenia skargi uzna ją za uzasadnioną, przekaże ją w przypadkach określonych w art. 163 i 165 organowi właściwemu do wszczęcia lub wznowienia postępowania albo do uchylenia lub zmiany decyzji, a w przypadku określonym w art. 164 - organowi, przed którym toczy się postępowanie.
 
-§ 3. Skargi i wnioski można składać w interesie publicznym, własnym lub innej osoby za jej zgodą.
+### § 2.
 
-**Art. 222.** O tym, czy pismo jest skargą albo wnioskiem, decyduje treść pisma, a nie jego forma zewnętrzna.
+O rozpatrzeniu skargi i przekazaniu jej do załatwienia zawiadamia się równocześnie skarżącego.
 
-**Art. 223.**
+### Art. 167.
 
-§ 1. Organy państwowe, organy samorządu terytorialnego i inne organy samorządowe oraz organy organizacji społecznych – rozpatrują oraz załatwiają skargi i wnioski w ramach swojej właściwości.
+### § 1.
 
-§ 2. Pracownik organu państwowego, pracownik samorządowy oraz organu organizacji społecznej, winny niewłaściwego i nieterminowego załatwiania skarg i wniosków, podlega odpowiedzialności porządkowej lub dyscyplinarnej albo innej odpowiedzialności przewidzianej w przepisach prawa.
+Organ, któremu przekazana została skarga do załatwienia, powinien ją załatwić w ciągu dwóch miesięcy.
 
-**Art. 224.** Ilekroć w przepisach niniejszego działu jest mowa o organach państwowych – rozumie się przez to także organy przedsiębiorstw państwowych i innych państwowych jednostek organizacyjnych.
+### § 2.
 
-**Art. 225.**
+O sposobie załatwienia skargi zawiadamia się skarżącego.
 
-§ 1. Nikt nie może być narażony na jakikolwiek uszczerbek lub zarzut z powodu złożenia skargi lub wniosku albo z powodu dostarczenia materiału do publikacji o znamionach skargi lub wniosku, jeżeli działał w granicach prawem dozwolonych.
+### § 3.
 
-§ 2. Organy państwowe, organy jednostek samorządu terytorialnego i inne organy samorządowe oraz organy organizacji społecznych są obowiązane przeciwdziałać hamowaniu krytyki i innym działaniom ograniczającym prawo do składania skarg i wniosków lub dostarczania informacji – do publikacji – o znamionach skargi lub wniosku.
+W razie niezałatwienia skargi w terminie określonym w § 1 stosuje się przepisy art. 33-35.
 
-**Art. 226.** Rada Ministrów wyda, w drodze rozporządzenia, przepisy o organizacji przyjmowania i rozpatrywania skarg i wniosków.
+### Art. 168.
 
-**Art. 226a.** Organy właściwe w sprawach skarg i wniosków przekazują informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, skarżącemu lub wnioskodawcy przy pierwszej czynności skierowanej do tych osób.
+Gdy skarga dotyczy sprawy, która nie podlega rozpatrzeniu według przepisów kodeksu (art. 194) albo nie należy do zakresu administracji państwowej, przepisy art. 163-167 stosuje się odpowiednio, z zastrzeżeniem, że w miejsce pozostałych przepisów kodeksu mają zastosowanie przepisy postępowania właściwego dla danej sprawy.
 
-#### Rozdział 2 Skargi
+### Rozdział 3 Wnioski
 
-**Art. 227.** Przedmiotem skargi może być w szczególności zaniedbanie lub nienależyte wykonywanie zadań przez właściwe organy albo przez ich pracowników, naruszenie praworządności lub interesów skarżących, a także przewlekłe lub biurokratyczne załatwianie spraw.
+### Art. 169.
 
-**Art. 228.** Skargi składa się do organów właściwych do ich rozpatrzenia.
+Przedmiotem wniosku mogą być w szczególności sprawy ulepszenia organizacji, wzmocnienia praworządności, usprawnienia pracy i zapobiegania nadużyciom, ochrony własności społecznej, lepszego zaspokajania potrzeb ludności.
 
-**Art. 229.** Jeżeli przepisy szczególne nie określają innych organów właściwych do rozpatrywania skarg, jest organem właściwym do rozpatrzenia skargi dotyczącej zadań lub działalności:
+### Art. 170.
 
-**Art. 230.** Do rozpatrzenia skargi dotyczącej zadań i działalności organizacji społecznej właściwy jest organ bezpośrednio wyższego stopnia tej organizacji, a w stosunku do organu naczelnego organizacji – Prezes Rady Ministrów lub właściwi ministrowie sprawujący nadzór nad działalnością tej organizacji.
+### § 1.
 
-**Art. 231.**
+Wnioski składa się do organów właściwych ze względu na przedmiot wniosku.
 
-§ 1. Jeżeli organ, który otrzymał skargę, nie jest właściwy do jej rozpatrzenia, obowiązany jest niezwłocznie, nie później jednak niż w terminie siedmiu dni, przekazać ją właściwemu organowi, zawiadamiając równocześnie o tym skarżącego, albo wskazać mu właściwy organ.
+### § 2.
 
-§ 2. Informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, w zakresie danych przetwarzanych przez organ przekazujący skargę, dołącza się do zawiadomienia o przekazaniu skargi.
+Wnioski w sprawach dotyczących zadań organów organizacji zawodowych, samorządowych, spółdzielczych i innych organizacji społecznych w zakresie administracji państwowej (art. 2 § 2) składa się do organów tych organizacji.
 
-**Art. 232.**
+### Art. 171.
 
-§ 1. Organ właściwy do rozpatrzenia skargi może ją przekazać do załatwienia organowi niższego stopnia, o ile skarga nie zawiera zarzutów dotyczących działalności tego organu.
+Jeżeli organ, który otrzymał wniosek, nie jest właściwy do jego rozpatrzenia, obowiązany jest w ciągu czternastu dni przekazać go właściwemu organowi. O przekazaniu wniosku zawiadamia się równocześnie wnioskodawcę.
 
-§ 2. Skargę na pracownika można przekazać do załatwienia również jego przełożonemu służbowemu, z obowiązkiem zawiadomienia organu właściwego do rozpatrzenia skargi o sposobie jej załatwienia.
+### Art. 172.
 
-§ 3. O przekazaniu skargi zawiadamia się równocześnie skarżącego.
+### § 1.
 
-**Art. 233.** Skarga w sprawie indywidualnej, która nie była i nie jest przedmiotem postępowania administracyjnego, powoduje wszczęcie postępowania, jeżeli została złożona przez stronę. Jeżeli skarga taka pochodzi od innej osoby, może spowodować wszczęcie postępowania administracyjnego z urzędu, chyba że przepisy wymagają do wszczęcia postępowania żądania strony.
+Wniosek powinien być rozpatrzony i załatwiony w ciągu dwóch miesięcy.
 
-**Art. 234.** W sprawie, w której toczy się postępowanie administracyjne:
+### § 2.
 
-**Art. 235.**
+O sposobie załatwienia wniosku należy równocześnie zawiadomić wnioskodawcę.
 
-§ 1. Skargę w sprawie, w której wydano decyzję ostateczną, uważa się zależnie od jej treści za żądanie wznowienia postępowania, stwierdzenia nieważności decyzji albo jej uchylenia lub zmiany, które może być uwzględnione, z zastrzeżeniem art. 16 § 1 zdanie drugie.
+### Art. 173.
 
-§ 2. (uchylony)
+W razie niemożności załatwienia wniosku w terminie określonym w art. 172 właściwy organ obowiązany jest w tym terminie zawiadomić wnioskodawcę o czynnościach podjętych w celu rozpatrzenia wniosku oraz o przewidywanym terminie załatwienia wniosku.
 
-**Art. 236.**
+### Art. 174.
 
-§ 1. W przypadkach określonych w art. 233 i 234 organem właściwym do rozpatrzenia skargi jest organ uprawniony do wszczęcia postępowania lub organ, przed którym toczy się postępowanie, a w przypadkach określonych w art. 235 – organ właściwy do wznowienia postępowania, stwierdzenia nieważności decyzji albo do jej uchylenia lub zmiany.
+### § 1.
 
-§ 2. W przypadku wszczęcia albo wznowienia postępowania, stwierdzenia nieważności decyzji, jej uchylenia albo zmiany na skutek skargi, o której mowa w art. 233 zdanie drugie, art. 234 pkt 2 lub art. 235, w stosunku do strony i uczestnika postępowania przepisu art. 15 ust. 1 lit. g rozporządzenia 2016/679 nie stosuje się.
+Wnioskodawcy niezadowolonemu ze sposobu załatwienia wniosku służy prawo wniesienia skargi w trybie określonym w rozdziale 2 niniejszego działu.
 
-§ 3. Na każdym etapie postępowania, o którym mowa w § 2, skarżący może zezwolić organowi na udostępnienie swoich danych stronie postępowania.
+### § 2.
 
-**Art. 237.**
+Wnioskodawcy służy prawo wniesienia skargi w przypadku niezałatwienia wniosku w terminie określonym w art. 172 albo wskazanym w zawiadomieniu (art. 173).
 
-§ 1. Organ właściwy do załatwienia skargi powinien załatwić skargę bez zbędnej zwłoki, nie później jednak niż w ciągu miesiąca.
+### Rozdział 4 Udział prasy i organizacji społecznych
 
-§ 2. Posłowie na Sejm, senatorowie i radni, którzy wnieśli skargę we własnym imieniu albo przekazali do załatwienia skargę innej osoby, powinni być zawiadomieni o sposobie załatwienia skargi, a gdy jej załatwienie wymaga zebrania dowodów, informacji lub wyjaśnień – także o stanie rozpatrzenia skargi, najpóźniej w terminie czternastu dni od dnia jej wniesienia albo przekazania.
+### Art. 175.
 
-§ 3. O sposobie załatwienia skargi zawiadamia się skarżącego.
+### § 1.
 
-§ 4. W razie niezałatwienia skargi w terminie określonym w § 1 stosuje się przepisy art. 36–38.
+Skargi i wnioski przekazane przez redakcje prasowe do organów właściwych w myśl art. 158-160 i 170 podlegają rozpatrzeniu i załatwieniu w trybie określonym w przepisach rozdziałów 2 i 3 niniejszego działu.
 
-**Art. 238.**
+### § 2.
 
-§ 1. Zawiadomienie o sposobie załatwienia skargi powinno zawierać: oznaczenie organu, od którego pochodzi, wskazanie, w jaki sposób skarga została załatwiona, oraz podpis z podaniem imienia, nazwiska i stanowiska służbowego osoby upoważnionej do załatwienia skargi. Zawiadomienie o odmownym załatwieniu skargi powinno zawierać ponadto uzasadnienie faktyczne i prawne oraz pouczenie o treści art. 239.
+Właściwy organ zawiadamia w przepisanym terminie o sposobie załatwienia skargi lub wniosku albo o ich przekazaniu innemu organowi w celu załatwienia również redakcję prasową, jeżeli zażądała takiego zawiadomienia.
 
-§ 2. W zawiadomieniu, o którym mowa w § 1, w jednostkach organizacyjnych resortu obrony narodowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego oraz Centralnego Biura Antykorupcyjnego można pominąć imię i nazwisko osoby upoważnionej do załatwienia skargi.
+### Art. 176.
 
-**Art. 239.**
+Przepisy art. 175 stosuje się odpowiednio do skarg i wniosków przekazanych przez organizacje zawodowe, samorządowe, spółdzielcze i inne organizacje społeczne do organów właściwych w myśl art. 158-160 i 170.
 
-§ 1. W przypadku gdy skarga, w wyniku jej rozpatrzenia, została uznana za bezzasadną i jej bezzasadność wykazano w odpowiedzi na skargę, a skarżący ponowił skargę bez wskazania nowych okoliczności – organ właściwy do jej rozpatrzenia może podtrzymać swoje poprzednie stanowisko z odpowiednią adnotacją w aktach sprawy – bez zawiadamiania skarżącego.
+### Art. 177.
 
-§ 2. (uchylony)
+### § 1.
 
-**Art. 240.** Gdy skarga dotyczy sprawy, która nie podlega rozpatrzeniu według przepisów kodeksu (art. 3 § 1 i 2) albo nie należy do właściwości organów administracji publicznej, przepisy art. 233–239 stosuje się odpowiednio, z zastrzeżeniem, że w miejsce pozostałych przepisów kodeksu stosuje się przepisy postępowania właściwego dla danej sprawy.
+Artykuły, notatki i inne wiadomości opublikowane w prasie, których treść ma znamiona skargi (art. 157) lub wniosku (art. 169) i które przesłane zostały przez redakcję prasową do organu właściwego w myśl art. 158-160 lub art. 170, podlegają rozpatrzeniu i załatwieniu jako skargi lub wnioski w trybie przepisów rozdziału 2 lub 3 niniejszego działu.
 
-#### Rozdział 3 Wnioski
+### § 2.
 
-**Art. 241.** Przedmiotem wniosku mogą być w szczególności sprawy ulepszenia organizacji, wzmocnienia praworządności, usprawnienia pracy i zapobiegania nadużyciom, ochrony własności, lepszego zaspokajania potrzeb ludności.
+Właściwy organ zawiadamia w przepisanym terminie o sposobie załatwienia sprawy albo o jej przekazaniu innemu organowi w celu załatwienia redakcję prasową, która te materiały (§ 1) przesłała, a w miarę możności także osoby, których sprawa dotyczy.
 
-**Art. 242.**
+### Art. 178.
 
-§ 1. Wnioski składa się do organów właściwych ze względu na przedmiot wniosku.
+Przepisy art. 167 § 3 oraz art. 173 i 174 stosuje się odpowiednio do redakcji prasowej, która opublikowała i przesłała do właściwego organu administracji państwowej artykuł, notatkę lub inną wiadomość, w trybie przewidzianym w niniejszym rozdziale.
 
-§ 2. Wnioski w sprawach dotyczących zadań organizacji społecznych składa się do organów tych organizacji.
+### Art. 179.
 
-**Art. 243.** Jeżeli organ, który otrzymał wniosek, nie jest właściwy do jego rozpatrzenia, obowiązany jest w ciągu siedmiu dni przekazać go właściwemu organowi. O przekazaniu wniosku zawiadamia się równocześnie wnioskodawcę.
+Przepisy niniejszego rozdziału stosuje się odpowiednio do skarg, wniosków oraz wiadomości przekazanych właściwym organom przez redakcję radia, telewizji i kroniki filmowej.
 
-**Art. 244.**
+### Dział V Opłaty i koszty postępowania
 
-§ 1. W sprawie terminu załatwiania wniosków stosuje się przepis art. 237 § 1.
+### Art. 180.
 
-§ 2. O sposobie załatwienia wniosku zawiadamia się równocześnie wnioskodawcę.
+### § 1.
 
-**Art. 245.** W razie niemożności załatwienia wniosku w terminie określonym w art. 244 właściwy organ obowiązany jest w tym terminie zawiadomić wnioskodawcę o czynnościach podjętych w celu rozpatrzenia wniosku oraz o przewidywanym terminie załatwienia wniosku.
+Jeżeli strona nie wpłaciła należności tytułem opłat i kosztów postępowania, które zgodnie z przepisami powinny być uiszczone z góry, organ administracji państwowej prowadzący postępowanie wyznaczy jej termin do wniesienia tych należności. Termin ten nie może być krótszy niż siedem dni, a dłuższy niż czternaście dni.
 
-**Art. 246.**
+### § 2.
 
-§ 1. Wnioskodawcy niezadowolonemu ze sposobu załatwienia wniosku służy prawo wniesienia skargi w trybie określonym w rozdziale 2 niniejszego działu.
+Jeżeli w wyznaczonym terminie należności nie zostaną uiszczone, podanie podlega zwrotowi lub czynność uzależniona od opłaty zostanie zaniechana.
 
-§ 2. Wnioskodawcy służy prawo wniesienia skargi w przypadku niezałatwienia wniosku w terminie określonym w art. 244 albo wskazanym w zawiadomieniu (art.
+### § 3.
 
-- **245)** .
+Organ powinien jednak załatwić podanie mimo nieuiszczenia należności:
 
-**Art. 247.** Do wniosków stosuje się odpowiednio przepisy art. 230, 237 § 2 i art. 238.
+### 1)
 
-#### Rozdział 4 Udział prasy i organizacji społecznych
+jeżeli za niezwłocznym załatwieniem przemawiają względy społeczne lub wzgląd na ważny interes strony,
 
-**Art. 248.**
+### 2)
 
-§ 1. Skargi i wnioski przekazane przez redakcje prasowe, radiowe i telewizyjne do organów właściwych w myśl art. 228–230 i 242 podlegają rozpatrzeniu i załatwieniu w trybie określonym w przepisach rozdziałów 2 i 3 niniejszego działu.
+jeżeli wniesienie podania stanowi czynność, dla której jest ustanowiony termin zawity,
 
-§ 2. Właściwy organ zawiadamia w przepisanym terminie o sposobie załatwienia skargi lub wniosku albo o ich przekazaniu innemu organowi w celu załatwienia również redakcję, jeżeli zażądała takiego zawiadomienia.
+### 3)
 
-**Art. 249.** Przepis art. 248 stosuje się odpowiednio do skarg i wniosków przekazanych przez organizacje społeczne do organów właściwych w myśl art. 228– 230 oraz art. 242.
+jeżeli podanie wniosła osoba zamieszkała za granicą.
 
-**Art. 250.** (uchylony)
+### Art. 181.
 
-**Art. 251.** Przepisy art. 237 § 4 oraz art. 245 i 246 stosuje się odpowiednio do redakcji prasowej, która opublikowała i przesłała do właściwego organu administracji publicznej artykuł, notatkę lub inną wiadomość, w trybie przewidzianym w niniejszym rozdziale.
+### § 1.
 
-**Art. 252.** (uchylony)
+Stronę obciążają te koszty postępowania, które:
 
-#### Rozdział 5 Przyjmowanie skarg i wniosków
+### 1)
 
-**Art. 253.**
+wynikły z winy strony,
 
-§ 1. Organy państwowe, organy samorządu terytorialnego i inne organy samorządowe oraz organy organizacji społecznych obowiązane są przyjmować obywateli w sprawach skarg i wniosków w ustalonych przez siebie dniach i godzinach.
+### 2)
 
-§ 2. Kierownicy organów wymienionych w § 1 lub wyznaczeni przez nich zastępcy obowiązani są przyjmować obywateli w sprawach skarg i wniosków co najmniej raz w tygodniu.
+zostały poniesione w interesie lub na żądanie strony, a nie wynikają z ustawowego obowiązku organów prowadzących postępowanie.
 
-§ 3. Dni i godziny przyjęć powinny być dostosowane do potrzeb ludności, przy czym przynajmniej raz w tygodniu przyjęcia powinny się odbywać w ustalonym dniu po godzinach pracy.
+### § 2.
 
-§ 4. Informacja o dniach i godzinach przyjęć powinna być wywieszona na widocznym miejscu w siedzibie danej jednostki organizacyjnej oraz w podporządkowanych jej jednostkach organizacyjnych.
+W uzasadnionych przypadkach organ administracji państwowej może zażądać od strony złożenia zaliczki w określonej wysokości na pokrycie kosztów postępowania.
 
-§ 5. Prezes Rady Ministrów lub właściwy minister oraz naczelny organ organizacji społecznej mogą ustalać sposób, dni i godziny przyjmowania obywateli w sprawach skarg i wniosków przez podporządkowane im organy i jednostki organizacyjne.
+### Art. 182.
 
-**Art. 254.** Skargi i wnioski składane i przekazywane do organów państwowych, organów samorządu terytorialnego i innych organów samorządowych i organów organizacji społecznych oraz związane z nimi pisma i inne dokumenty rejestruje się i przechowuje w sposób ułatwiający kontrolę przebiegu i terminów załatwiania poszczególnych skarg i wniosków.
+### § 1.
 
-**Art. 255.** (uchylony)
+Do kosztów postępowania zalicza się koszty podróży i inne należności świadków i biegłych oraz stron w przypadkach przewidzianych w art. 52, a także koszty spowodowane oględzinami na miejscu, jak również koszty doręczenia stronom pism urzędowych.
 
-**Art. 256.** Pracownik, który otrzymał skargę dotyczącą jego działalności, obowiązany jest przekazać ją niezwłocznie swojemu przełożonemu służbowemu.
+### § 2.
 
-#### Rozdział 6 Nadzór i kontrola
+Organ administracji państwowej może zaliczyć do kosztów postępowania także inne koszty bezpośrednio związane z rozstrzygnięciem sprawy.
 
-**Art. 257.** Zwierzchni nadzór nad przyjmowaniem i załatwianiem skarg i wniosków składanych do sądów sprawuje Krajowa Rada Sądownictwa, a do innych organów i jednostek organizacyjnych – Prezes Rady Ministrów.
+### Art. 183.
 
-**Art. 258.**
+### § 1.
 
-§ 1. Nadzór i kontrolę nad przyjmowaniem i załatwianiem skarg i wniosków sprawują:
+Jednocześnie z wydaniem decyzji organ administracji państwowej ustali w drodze postanowienia wysokość kosztów postępowania, osoby zobowiązane do ich poniesienia oraz termin i sposób ich uiszczenia.
 
-- **1)** ministrowie – gdy chodzi o skargi załatwiane przez ministerstwa i inne jednostki organizacyjne bezpośrednio podległe ministrowi;
-- **2)** właściwi rzeczowo ministrowie we współdziałaniu z ministrem właściwym do spraw administracji publicznej – gdy chodzi o skargi załatwiane przez organy administracji rządowej;
-- **3)** terenowe organy administracji rządowej – gdy chodzi o skargi załatwiane przez jednostki organizacyjne nadzorowane przez te organy;
-- **4)** organy wyższego stopnia oraz właściwe organy naczelne – gdy chodzi o skargi załatwiane przez pozostałe organy państwowe i organy państwowych jednostek organizacyjnych;
-- **5)** Prezes Rady Ministrów i wojewodowie – gdy chodzi o skargi załatwiane przez organy jednostek samorządu terytorialnego oraz samorządowe jednostki organizacyjne.
+### § 2.
 
-§ 2. Nadzór i kontrolę nad przyjmowaniem i załatwianiem skarg i wniosków w organach organizacji społecznych sprawują statutowe organy nadzorcze tych organizacji oraz organy wyższego stopnia, zaś w organach naczelnych tych organizacji – organ administracji rządowej sprawujący nadzór nad działalnością danej organizacji.
+Na postanowienie w sprawie kosztów postępowania osobie zobowiązanej do ich poniesienia służy zażalenie.
 
-**Art. 259.**
+### Art. 184.
 
-§ 1. Organy, o których mowa w art. 258, dokonują okresowo, nie rzadziej niż raz na dwa lata, ocen przyjmowania i załatwiania skarg i wniosków przez organy i jednostki organizacyjne poddane ich nadzorowi.
+Wszelkie nie uiszczone w terminie opłaty i koszty postępowania oraz inne należności wynikłe z tego postępowania podlegają ściągnięciu w trybie przepisów o egzekucji administracyjnej świadczeń pieniężnych.
 
-§ 2. (uchylony) § 3. W wyniku przeprowadzonych kontroli oraz ocen organy wymienione w § 1 dążą do usunięcia przyczyn skarg oraz do pełnego wykorzystania wniosków w celu polepszenia działalności poszczególnych organów i innych państwowych jednostek organizacyjnych.
+### Art. 185.
 
-**Art. 260.** (uchylony)
+Pracownik organu administracji państwowej winny błędnego wezwania strony (art. 52 § 1) obowiązany jest do zwrotu wynikłych stąd kosztów. Orzekanie i ściąganie należności od tego pracownika następuje w trybie administracyjnym.
 
-### DZIAŁ VIIIA Europejska współpraca administracyjna
+### Art. 186.
 
-**Art. 260a.**
+W razie niewątpliwej niemożności poniesienia przez stronę opłat, kosztów i należności związanych z tokiem postępowania organ administracji państwowej może ją zwolnić w całości lub w części od ponoszenia tych opłat, kosztów i należności. Zwolnienie od opłat skarbowych następuje z zachowaniem przepisów o tych opłatach.
 
-§ 1. Organy administracji publicznej udzielają pomocy organom innych państw członkowskich Unii Europejskiej oraz organom administracji Unii Europejskiej, jeżeli przepisy prawa Unii Europejskiej tak stanowią i na zasadach określonych w tych przepisach.
+### Dział VI Przepisy wprowadzające i końcowe
 
-§ 2. Organ administracji publicznej udziela pomocy z urzędu albo na wniosek. Pomoc ta obejmuje w szczególności udostępnianie informacji o okolicznościach faktycznych i prawnych oraz wykonywanie czynności procesowych w ramach pomocy prawnej.
+### Art. 187.
 
-§ 3. Właściwość organów w przedmiocie udzielenia pomocy ustala się na podstawie przepisów kodeksu, jeżeli przepisy prawa Unii Europejskiej nie stanowią inaczej.
+Przepisy kodeksu dotyczące:
 
-§ 4. Organ administracji publicznej udzielający pomocy zawiadamia o udzieleniu pomocy podmiot, którego pomoc dotyczy, jeżeli przepisy szczególne nie stanowią inaczej.
+### 1)
 
-**Art. 260b.**
+ministrów i naczelnych organów administracji państwowej - stosuje się również do urzędów centralnych i ich kierowników,
 
-§ 1. Wniosek o udzielenie pomocy podlega rozpatrzeniu, jeżeli zawiera uzasadnienie i został sporządzony w języku urzędowym Unii Europejskiej.
+### 2)
 
-§ 2. Jeżeli wniosek zawiera braki formalne, organ administracji publicznej wzywa organ wnioskujący do ich uzupełnienia w terminie czternastu dni od dnia doręczenia wezwania.
+prezydiów wojewódzkich rad narodowych - stosuje się również do prezydiów miejskich rad narodowych miast wyłączonych z województw,
 
-§ 3. Jeżeli organ wnioskujący nie uzupełni w terminie braków formalnych lub brak jest podstaw prawnych do udzielenia pomocy, wniosek o udzielenie pomocy nie podlega rozpatrzeniu i jest zwracany organowi wnioskującemu.
+### 3)
 
-§ 4. Rozpatrzenie wniosku następuje w terminie wynikającym z przepisów prawa Unii Europejskiej, a jeżeli brak jest takiego terminu – bez zbędnej zwłoki.
+prezydiów powiatowych rad narodowych - stosuje się również do prezydiów miejskich rad narodowych miast stanowiących powiaty miejskie oraz prezydiów dzielnicowych rad narodowych w miastach wyłączonych z województw.
 
-**Art. 260c.**
+### Art. 188.
 
-§ 1. Organy administracji publicznej zwracają się o pomoc do organów innych państw członkowskich Unii Europejskiej oraz organów administracji Unii Europejskiej, jeżeli przepisy prawa Unii Europejskiej tak stanowią i na zasadach określonych w tych przepisach.
+Rada Ministrów może swoje uprawnienia wynikające z kodeksu, z wyjątkiem art. 156, przekazać do właściwości Prezesa Rady Ministrów albo odrębnego organu, a gdy chodzi o stosunek do prezydiów rad narodowych - również właściwemu ze względu na rodzaj sprawy ministrowi.
 
-§ 2. Wniosek o udzielenie pomocy zawiera uzasadnienie. Jeżeli wniosek jest kierowany do organów administracji Unii Europejskiej, sporządza się go w języku urzędowym Unii Europejskiej, a jeżeli jest kierowany do organów innego państwa członkowskiego Unii Europejskiej, tłumaczy się go na język uzgodniony przez zainteresowane organy.
+### Art. 189.
 
-**Art. 260d.** Informacje między organami administracji publicznej są przekazywane w szczególności drogą elektroniczną.
+Jeżeli przepis prawny powołuje się ogólnie na przepisy o postępowaniu administracyjnym, należy przez to rozumieć przepisy kodeksu.
 
-**Art. 260e.** Zasady ponoszenia kosztów udzielenia pomocy regulują przepisy prawa Unii Europejskiej. W przypadku braku takich przepisów organ administracji publicznej ponosi koszty swojego działania.
+### Art. 190.
 
-**Art. 260f.** Przepisy niniejszego działu stosuje się także w odniesieniu do organów państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz Konfederacji Szwajcarskiej, jeżeli przepisy prawa Unii Europejskiej znajdują zastosowanie do tych państw.
+Decyzje określone w innych przepisach prawnych jako prawomocne uważa się za ostateczne, chyba że z przepisów tych wynika, iż dotyczą one takiej decyzji, która została utrzymana w mocy w postępowaniu sądowym bądź też nie została zaskarżona w tym postępowaniu z powodu upływu terminu do wniesienia skargi.
 
-**Art. 260g.** Przepisów niniejszego działu nie stosuje się, jeżeli przepisy prawa Unii Europejskiej lub przepisy szczególne dotyczące europejskiej współpracy administracyjnej stanowią inaczej.
+### Art. 191.
 
-### DZIAŁ IX Opłaty i koszty postępowania
+### § 1.
 
-**Art. 261.**
+Sprawy wszczęte przed dniem wejścia w życie kodeksu rozpoznawane będą aż do ich ukończenia w danej instancji według przepisów dotychczasowych.
 
-§ 1. Jeżeli strona nie wpłaciła należności tytułem opłat i kosztów postępowania, które zgodnie z przepisami powinny być uiszczone z góry, organ administracji publicznej prowadzący postępowanie wyznaczy jej termin do wniesienia tych należności. Termin ten nie może być krótszy niż siedem dni, a dłuższy niż czternaście dni.
+### § 2.
 
-§ 2. Jeżeli w wyznaczonym terminie należności nie zostaną uiszczone, podanie podlega zwrotowi lub czynność uzależniona od opłaty zostanie zaniechana.
+Termin do wniesienia odwołania od decyzji doręczonej lub ogłoszonej przed dniem wejścia w życie kodeksu oblicza się według przepisów dotychczasowych.
 
-§ 3. Na postanowienie w sprawie zwrotu podania służy zażalenie.
+### Art. 192.
 
-§ 4. Organ powinien jednak załatwić podanie mimo nieuiszczenia należności:
+Pozostają w mocy przepisy ustaw szczególnych, przewidujące drogę postępowania sądowego w sprawach z zakresu administracji państwowej.
 
-- **1)** jeżeli za niezwłocznym załatwieniem przemawiają względy społeczne lub wzgląd na ważny interes strony;
-- **2)** jeżeli wniesienie podania stanowi czynność, dla której jest ustanowiony termin zawity;
-- **3)** jeżeli podanie wniosła osoba zamieszkała za granicą.
+### Art. 193.
 
-**Art. 262.**
+Kodeks nie narusza przepisów o szczególnych uprawnieniach osób korzystających z immunitetów dyplomatycznych.
 
-§ 1. Stronę obciążają te koszty postępowania, które:
+### Art. 194.
 
-- **1)** wynikły z winy strony;
-- **2)** zostały poniesione w interesie lub na żądanie strony, a nie wynikają z ustawowego obowiązku organów prowadzących postępowanie.
+### § 1.
 
-§ 2. W uzasadnionych przypadkach organ administracji publicznej może zażądać od strony złożenia zaliczki w określonej wysokości na pokrycie kosztów postępowania.
+Przepisów kodeksu nie stosuje się do postępowania:
 
-**Art. 263.**
+### 1)
 
-§ 1. Do kosztów postępowania zalicza się koszty podróży i inne należności świadków i biegłych oraz stron w przypadkach przewidzianych w art. 56, koszty spowodowane oględzinami na miejscu, koszty doręczenia stronom pism urzędowych, a także koszty mediacji.
+przed organami państwowego arbitrażu gospodarczego,
 
-§ 2. Organ administracji publicznej może zaliczyć do kosztów postępowania także inne koszty bezpośrednio związane z rozstrzygnięciem sprawy.
+### 2)
 
-**Art. 263a.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wysokość wynagrodzenia mediatora za prowadzenie postępowania mediacyjnego oraz wydatki mediatora podlegające zwrotowi, biorąc pod uwagę rodzaj sprawy oraz sprawny przebieg mediacji, a także niezbędne wydatki związane z prowadzeniem mediacji.
+karno-administracyjnego,
 
-**Art. 264.**
+### 3)
 
-§ 1. Jednocześnie z wydaniem decyzji organ administracji publicznej ustali w drodze postanowienia wysokość kosztów postępowania, osoby zobowiązane do ich poniesienia oraz termin i sposób ich uiszczenia.
+karnego skarbowego,
 
-§ 1a. Jeżeli w sprawie została przeprowadzona mediacja, organ administracji publicznej, niezwłocznie po doręczeniu protokołu z przebiegu mediacji, wydaje postanowienie w sprawie ustalenia wysokości kosztów mediacji.
+### 4)
 
-§ 2. Na postanowienie w sprawie kosztów postępowania osobie zobowiązanej do ich poniesienia służy zażalenie.
+przed komisjami rozjemczymi,
 
-**Art. 265.** Wszelkie nieuiszczone w terminie opłaty i koszty postępowania oraz inne należności wynikłe z tego postępowania podlegają ściągnięciu w trybie przepisów o egzekucji administracyjnej świadczeń pieniężnych.
+### 5)
 
-**Art. 266.** Pracownik organu administracji publicznej winny błędnego wezwania strony (art. 56 § 1) obowiązany jest do zwrotu wynikłych stąd kosztów. Orzekanie i ściąganie należności od tego pracownika następuje w trybie administracyjnym.
+w sprawach ubezpieczeń społecznych oraz rent i zaopatrzeń z innych tytułów,
 
-**Art. 267.** W razie niewątpliwej niemożności poniesienia przez stronę opłat, kosztów i należności związanych z tokiem postępowania organ administracji publicznej może ją zwolnić w całości lub w części od ponoszenia tych opłat, kosztów i należności. Zwolnienie od opłat skarbowych następuje z zachowaniem przepisów o tych opłatach.
+### 6)
 
-### DZIAŁ X Przepisy końcowe
+dyscyplinarnego,
 
-**Art. 268.** (uchylony)
+### 7)
 
-**Art. 268a.** Organ administracji publicznej może upoważniać, na piśmie utrwalonym w postaci papierowej lub elektronicznej, pracowników obsługujących ten organ do załatwiania spraw w jego imieniu w ustalonym zakresie, a w szczególności do wydawania decyzji administracyjnych, postanowień, zaświadczeń, a także do poświadczania za zgodność odpisów dokumentów przedstawionych przez stronę na potrzeby prowadzonych postępowań z oryginałem.
+podatkowego,
 
-**Art. 269.** Decyzje określone w innych przepisach prawnych jako prawomocne uważa się za ostateczne, chyba że z przepisów tych wynika, iż dotyczą one takiej decyzji, która została utrzymana w mocy w postępowaniu sądowym bądź też nie została zaskarżona w tym postępowaniu z powodu upływu terminu do wniesienia skargi.
+### 8)
 
+przed organami administracji wojskowej w sprawach unormowanych w przepisach szczególnych,
+
+### 9)
+
+przed Urzędem Patentowym Polskiej Rzeczypospolitej Ludowej,
+
+### 10)
+
+przed polskimi przedstawicielstwami dyplomatycznymi i konsularnymi za granicą.
+
+### § 2.
+
+Przepisów kodeksu nie stosuje się również do postępowania w sprawach:
+
+### 1)
+
+powszechnego obowiązku wojskowego,
+
+### 2)
+
+dostarczania środków transportowych dla potrzeb obrony Państwa i bezpieczeństwa publicznego oraz w sprawach świadczeń osobistych i rzeczowych dla potrzeb obrony Państwa,
+
+### 3)
+
+odpowiedzialności majątkowej za szkody wyrządzone w majątku państwowym, unormowanej w przepisach szczególnych.
+
+### § 3.
+
+Do spraw rozpatrywanych w postępowaniach wymienionych w § 1 i 2 stosuje się jednak przepisy działu IV oraz art. 189 kodeksu.
+
+### § 4.
+
+Rada Ministrów może rozciągnąć w drodze rozporządzenia przepisy kodeksu w całości lub w części na postępowania przed organami administracji państwowej w sprawach wymienionych w § 1 i 2.
+
+### Art. 195.
+
+### § 1.
+
+Tracą moc dotychczasowe przepisy w sprawach uregulowanych w niniejszym kodeksie.
+
+### § 2.
+
+W szczególności traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu administracyjnym ([Dz. U. Nr 36, poz. 341](https://api.sejm.gov.pl/eli/acts/DU/1928/341/text.html) z późniejszymi zmianami).
+
+### Art. 196.
+
+Kodeks wchodzi w życie z dniem 1 stycznia 1961 r.

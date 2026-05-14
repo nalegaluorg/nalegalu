@@ -8,11 +8,9 @@ pos: 2745
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy niektórych instytucji finansowych oraz niektórych innych ustaw
-
-*USTAWA dnia 16 listopada 2022 r.*
+# Ustawa z dnia 16 listopada 2022 r. o zmianie ustawy o podatku od niektórych instytucji finansowych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy - Prawo ochrony środowiska.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +22,160 @@ domain: null
 | Data ogłoszenia | 2022-11-16 |
 | Data wydania | 2022-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002745) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2745/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/2745/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/2745) |
 
-Art. W ustawie dnia 15 stycznia 2016 r. niektórych instytucji finansowych (Dz. U. 2022 r. poz. 1685) 5: 7 wyrazy „art. 138 pkt lub 2a” zastępuje się wyrazami „art. 138 pkt lub 3”;
-2) 9 otrzymuje brzmienie: „9. W przypadku podatników, mowa 4 pkt 1–4, podstawę opodatkowania obniża się wartość aktywów: postaci skarbowych papierów wartościowych rozumieniu 95 ustawy dnia 27 sierpnia 2009 r.
-finansach publicznych (Dz. U. 2022 r. poz. 1634, późn. zm. );
-2) postaci papierów wartościowych ustawowo objętych gwarancją Skarbu Państwa;
-3) wynikających transakcji odkupu, której mowa 3 pkt 9 rozporządzenia Parlamentu Europejskiego Rady (UE) 2015/2365 dnia 25 listopada 2015 r. sprawie przejrzystości transakcji finansowanych użyciem papierów wartościowych ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 (Dz.
-337 23.12.2015, 1, późn. zm. ), której przedmiotem są skarbowe papiery wartościowe rozumieniu 95 ustawy dnia 27 sierpnia 2009 r. finansach publicznych, przy czym jeżeli drugą stroną tej transakcji jest podmiot inny niż Skarb Państwa, Narodowy Bank Polski lub Bankowy Fundusz Gwarancyjny, podstawę opodatkowania obniża się, jeżeli są spełnione łącznie następujące warunki:
-a) transakcja została zawarta na rynku regulowanym albo alternatywnym systemie obrotu rozumieniu przepisów ustawy dnia 29 lipca 2005 r. obrocie instrumentami finansowymi (Dz. U. 2022 r. poz. 1500, 1488, 1933, 2185 2640),
-b) transakcja podlega rozliczeniu przez CCP rozumieniu 3 pkt 49 ustawy dnia 29 lipca 2005 r. obrocie instrumentami finansowymi.”.
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 26 lipca 1991 r. dochodowym osób fizycznych (Dz. U. 2022 r. poz. 2647 2687) 52jb po 5 dodaje się 5a brzmieniu: „5a. Nie podlegają odliczeniu, którym mowa 1, koszty uzyskania przychodów poniesione na robotyzację dotyczące działań lub aktywów: mowa dyrektywy 2003/87/WE Parlamentu Europejskiego Rady dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. 275 25.10.2003, 32, późn. zm. – Polskie wydanie specjalne, rozdz. 15, t. 7, 631), wyjątkiem działań aktywów, prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10% najbardziej wydajnych instalacji 2016 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021–2025, określonych rozporządzeniu
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 15 lutego 1992 r. dochodowym osób prawnych (Dz. U. 2022 r. poz. 2587 2640) 38eb po 5 dodaje się 5a brzmieniu: „5a. Nie podlegają odliczeniu, którym mowa 1, koszty uzyskania przychodów poniesione na robotyzację dotyczące działań lub aktywów: mowa dyrektywy 2003/87/WE Parlamentu Europejskiego Rady dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych Unii oraz zmieniającej dyrektywę Rady 96/61/WE (Dz. 275 25.10.2003, 32, późn. zm. – Polskie wydanie specjalne, rozdz. 15, t. 7, 631), wyjątkiem działań aktywów, prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10% najbardziej wydajnych instalacji 2016 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021–2025, określonych rozporządzeniu wykonawczym Komisji (UE) 2021/447 dnia 12 marca 2021 r. określającym zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021–2025 zgodnie 10a dyrektywy 2003/87/WE Parlamentu Europejskiego Rady (Dz. 87 15.03.2021, 29);
+W ustawie z dnia 15 stycznia 2016 r. o podatku od niektórych instytucji finansowych ([Dz. U. z 2022 r. poz. 1685](https://api.sejm.gov.pl/eli/acts/DU/2022/1685/text.html)) w art. 5:
 
-**Art. 4.** W ustawie dnia 23 czerwca 2022 r. zmianie ustawy finansach publicznych oraz ustawy – Prawo ochrony środowiska (Dz. U. poz. 1747 2127) 4a otrzymuje brzmienie: „Art. 4a. W roku 2022 wydatkach objętych limitem wydatków ustalonym 4 ustawy budżetowej na rok 2022 dnia 17 grudnia 2021 r. (Dz. U. 2022 r. poz. 270) nie uwzględnia się skutków finansowych wynikających dodatkowych działań nakierowanych na: wsparcie podmiotów dotkniętych kryzysem energetycznym lub zapewnienie bezpieczeństwa energetycznego;
+### 1)
 
-**Art. 5.** Przepisy 52jb 5a ustawy zmienianej oraz 38eb 5a ustawy zmienianej 3 stosuje się do kosztów poniesionych roku podatkowego rozpoczynającego się po dniu 31 stycznia 2023 r. 3. Przepis stosuje się odpowiednio do umów leasingu zakresie opłat, mowa 52jb pkt 4 ustawy zmienianej oraz 38eb pkt 4 ustawy zmienianej 3.
+w ust. 7 wyrazy „art. 138 ust. 1 pkt 2 lub 2a” zastępuje się wyrazami „art. 138 ust. 2 pkt 2 lub 3”;
 
-**Art. 6.** Ustawa wchodzi życie dniem stycznia 2023 r., wyjątkiem: 4, który wchodzi życie dniem następującym po dniu ogłoszenia;
+### 2)
 
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+W przypadku podatników, o których mowa w art. 4 pkt 1-4, podstawę opodatkowania obniża się o wartość aktywów:
+
+### 1)
+
+w postaci skarbowych papierów wartościowych w rozumieniu art. 95 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2022 r. poz. 1634](https://api.sejm.gov.pl/eli/acts/DU/2022/1634/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414.](#gloss-0:2:));
+
+### 2)
+
+w postaci papierów wartościowych ustawowo objętych gwarancją Skarbu Państwa;
+
+### 3)
+
+wynikających z transakcji odkupu, o której mowa w art. 3 pkt 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/2365 z dnia 25 listopada 2015 r. w sprawie przejrzystości transakcji finansowanych z użyciem papierów wartościowych i ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 ([Dz. Urz. UE L 337 z 23.12.2015, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 80 z 22.03.2019, str. 16 oraz Dz. Urz. UE L 22 z 22.01.2021, str. 1.](#gloss-0:3:)), której przedmiotem są skarbowe papiery wartościowe w rozumieniu art. 95 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przy czym jeżeli drugą stroną tej transakcji jest podmiot inny niż Skarb Państwa, Narodowy Bank Polski lub Bankowy Fundusz Gwarancyjny, podstawę opodatkowania obniża się, jeżeli są spełnione łącznie następujące warunki:
+
+### a)
+
+transakcja została zawarta na rynku regulowanym albo w alternatywnym systemie obrotu w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2022 r. poz. 1500](https://api.sejm.gov.pl/eli/acts/DU/2022/1500/text.html), [1488](https://api.sejm.gov.pl/eli/acts/DU/2022/1488/text.html), [1933](https://api.sejm.gov.pl/eli/acts/DU/2022/1933/text.html), [2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html) i [2640](https://api.sejm.gov.pl/eli/acts/DU/2022/2640/text.html)),
+
+### b)
+
+transakcja podlega rozliczeniu przez CCP w rozumieniu art. 3 pkt 49 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2022 r. poz. 2647](https://api.sejm.gov.pl/eli/acts/DU/2022/2647/text.html) i [2687](https://api.sejm.gov.pl/eli/acts/DU/2022/2687/text.html)) w art. 52jb po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Nie podlegają odliczeniu, o którym mowa w ust. 1, koszty uzyskania przychodów poniesione na robotyzację dotyczące działań lub aktywów:
+
+### 1)
+
+o których mowa w art. 2 ust. 1 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE ([Dz. Urz. UE L 275 z 25.10.2003, str. 32](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 343 z 19.12.2013, str. 1 oraz Dz. Urz. UE L 129 z 30.04.2014, str. 1.](#gloss-0:4:) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631](https://api.sejm.gov.pl/eli/acts//text.html)), z wyjątkiem działań i aktywów, których prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10% najbardziej wydajnych instalacji w 2016 i 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021-2025, określonych w rozporządzeniu wykonawczym Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającym zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021-2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ([Dz. Urz. UE L 87 z 15.03.2021, str. 29](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+związanych z działalnością:
+
+### a)
+
+górniczą polegającą na wydobywaniu lub magazynowaniu paliw kopalnych oraz działalnością polegającą na przeróbce, dystrybucji lub spalaniu paliw kopalnych, z wyjątkiem projektów w zakresie wytwarzania energii elektrycznej lub ciepła oraz związanej z tym infrastruktury przesyłowej i dystrybucyjnej, wykorzystujących gaz ziemny, które spełniają warunki określone w załączniku III do Wytycznych technicznych KE dotyczących stosowania zasady „Nie czyń poważnych szkód” (2021/C58/01),
+
+### b)
+
+składowisk odpadów, spalarni odpadów lub instalacji do mechaniczno-biologicznego przetwarzania odpadów.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2022 r. poz. 2587](https://api.sejm.gov.pl/eli/acts/DU/2022/2587/text.html) i [2640](https://api.sejm.gov.pl/eli/acts/DU/2022/2640/text.html)) w art. 38eb po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Nie podlegają odliczeniu, o którym mowa w ust. 1, koszty uzyskania przychodów poniesione na robotyzację dotyczące działań lub aktywów:
+
+### 1)
+
+o których mowa w art. 2 ust. 1 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiającej system handlu przydziałami emisji gazów cieplarnianych w Unii oraz zmieniającej dyrektywę Rady 96/61/WE ([Dz. Urz. UE L 275 z 25.10.2003, str. 32](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[5) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 343 z 19.12.2013, str. 1 oraz Dz. Urz. UE L 129 z 30.04.2014, str. 1.](#gloss-0:5:) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631](https://api.sejm.gov.pl/eli/acts//text.html)), z wyjątkiem działań i aktywów, których prognozowane emisje gazów cieplarnianych są poniżej średniej wartości 10% najbardziej wydajnych instalacji w 2016 i 2017 r. (t ekwiwalentu CO2/t) oraz wartości wskaźnika emisyjności (uprawnienia/t) na lata 2021-2025, określonych w rozporządzeniu wykonawczym Komisji (UE) 2021/447 z dnia 12 marca 2021 r. określającym zmienione wartości wskaźników emisyjności na potrzeby przydziału bezpłatnych uprawnień do emisji na lata 2021-2025 zgodnie z art. 10a ust. 2 dyrektywy 2003/87/WE Parlamentu Europejskiego i Rady ([Dz. Urz. UE L 87 z 15.03.2021, str. 29](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+związanych z działalnością:
+
+### a)
+
+górniczą polegającą na wydobywaniu lub magazynowaniu paliw kopalnych oraz działalnością polegającą na przeróbce, dystrybucji lub spalaniu paliw kopalnych, z wyjątkiem projektów w zakresie wytwarzania energii elektrycznej lub ciepła oraz związanej z tym infrastruktury przesyłowej i dystrybucyjnej, wykorzystujących gaz ziemny, które spełniają warunki określone w załączniku III do Wytycznych technicznych KE dotyczących stosowania zasady „Nie czyń poważnych szkód” (2021/C58/01),
+
+### b)
+
+składowisk odpadów, spalarni odpadów lub instalacji do mechaniczno-biologicznego przetwarzania odpadów.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy - Prawo ochrony środowiska ([Dz. U. poz. 1747](https://api.sejm.gov.pl/eli/acts/DU/2022/1747/text.html) i [2127](https://api.sejm.gov.pl/eli/acts/DU/2022/2127/text.html)) art. 4a otrzymuje brzmienie:
+
+„
+
+### Art. 4a.
+
+### 1.
+
+W roku 2022 w wydatkach objętych limitem wydatków ustalonym w art. 1 ust. 4 ustawy budżetowej na rok 2022 z dnia 17 grudnia 2021 r. ([Dz. U. z 2022 r. poz. 270](https://api.sejm.gov.pl/eli/acts/DU/2022/270/text.html)) nie uwzględnia się skutków finansowych wynikających z dodatkowych działań nakierowanych na:
+
+### 1)
+
+wsparcie podmiotów dotkniętych kryzysem energetycznym lub zapewnienie bezpieczeństwa energetycznego;
+
+### 2)
+
+wsparcie świadczeniobiorców, w szczególności emerytów i rencistów, w związku ze wzrostem średniorocznego wskaźnika cen towarów i usług konsumpcyjnych;
+
+### 3)
+
+finansowanie sił zbrojnych.
+
+### 2.
+
+Do sprawozdania z wykonania ustawy budżetowej na rok 2022 dołącza się informację o sumie skutków finansowych, o których mowa w ust. 1, obliczonej na podstawie danych przekazanych w celu sporządzenia sprawozdania z wykonania ustawy budżetowej na rok 2022.
+
+” .
+
+### Art. 5.
+
+### 1.
+
+Przepisy art. 52jb ust. 5a ustawy zmienianej w art. 2 oraz art. 38eb ust. 5a ustawy zmienianej w art. 3 stosuje się do kosztów poniesionych od roku podatkowego rozpoczynającego się po dniu 31 stycznia 2023 r.
+
+### 2.
+
+Podatnicy, którzy w roku podatkowym poprzedzającym rok, o którym mowa w ust. 1, nabyli roboty, maszyny lub urządzenia, o których mowa w art. 52jb ust. 2 pkt 1-3 ustawy zmienianej w art. 2 oraz art. 38eb ust. 2 pkt 1-3 ustawy zmienianej w art. 3, w zakresie kosztów uzyskania przychodów związanych z tymi robotami, maszynami i urządzeniami, stosują w kolejnych latach podatkowych przepisy ustawy zmienianej w art. 2 i art. 3, w brzmieniu dotychczasowym.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do umów leasingu w zakresie opłat, o których mowa w art. 52jb ust. 2 pkt 4 ustawy zmienianej w art. 2 oraz art. 38eb ust. 2 pkt 4 ustawy zmienianej w art. 3.
+
+### Art. 6.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2023 r., z wyjątkiem:
+
+### 1)
+
+art. 4, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 2, art. 3 i art. 5, które wchodzą w życie z dniem 1 lutego 2023 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 23 czerwca 2022 r. o zmianie ustawy o finansach publicznych oraz ustawy - Prawo ochrony środowiska. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 80 z 22.03.2019, str. 16 oraz Dz. Urz. UE L 22 z 22.01.2021, str. 1. 4) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 343 z 19.12.2013, str. 1 oraz Dz. Urz. UE L 129 z 30.04.2014, str. 1. 5) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 338 z 13.11.2004, str. 18, Dz. Urz. UE L 8 z 13.01.2009, str. 3, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 140 z 05.06.2009, str. 63, Dz. Urz. UE L 343 z 19.12.2013, str. 1 oraz Dz. Urz. UE L 129 z 30.04.2014, str. 1.

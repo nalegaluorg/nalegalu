@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo karne**.
 
-Łącznie: **112** aktów
+Łącznie: **115** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -57,12 +57,15 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU20120001101](WDU20120001101/index.md) | Ustawa z dnia 31 sierpnia 2012 r. o zmianie ustawy - Kodeks postępowania ka | Ustawa | obowiązujący | [tak](WDU20120001101/orzecznictwo.md) |
 | [WDU20110170078](WDU20110170078/index.md) | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy - Kodeks karny | Ustawa | obowiązujący |  |
 | [WDU20111330767](WDU20111330767/index.md) | Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy - Kodeks karny oraz niektó | Ustawa | obowiązujący | [tak](WDU20111330767/orzecznictwo.md) |
+| [WDU20111290734](WDU20111290734/index.md) | Ustawa z dnia 15 kwietnia 2011 r. zmieniająca ustawę o zmianie ustawy - Kod | Ustawa | obowiązujący |  |
 | [WDU20111290733](WDU20111290733/index.md) | Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy - Kodeks karny skarbowy | Ustawa | obowiązujący |  |
 | [WDU20110940549](WDU20110940549/index.md) | Ustawa z dnia 25 marca 2011 r. o zmianie ustawy - Kodeks karny oraz niektór | Ustawa | obowiązujący |  |
 | [WDU20110530273](WDU20110530273/index.md) | Ustawa z dnia 4 lutego 2011 r. o zmianie ustawy - Kodeks postępowania karne | Ustawa | obowiązujący | [tak](WDU20110530273/orzecznictwo.md) |
 | [WDU20110480245](WDU20110480245/index.md) | Ustawa z dnia 20 stycznia 2011 r. o zmianie ustawy - Kodeks karny, ustawy - | Ustawa | obowiązujący | [tak](WDU20110480245/orzecznictwo.md) |
 | [WDU20110390202](WDU20110390202/index.md) | Ustawa z dnia 3 lutego 2011 r. o zmianie ustawy - Kodeks karny wykonawczy o | Ustawa | obowiązujący |  |
+| [WDU20112401431](WDU20112401431/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy - Kodeks karny wykonawcz | Ustawa | obowiązujący |  |
 | [WDU20112401430](WDU20112401430/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy - Kodeks postępowania ka | Ustawa | obowiązujący | [tak](WDU20112401430/orzecznictwo.md) |
+| [WDU20111911135](WDU20111911135/index.md) | Ustawa z dnia 29 lipca 2011 r. o zmianie ustawy - Kodeks karny, ustawy - Ko | Ustawa | obowiązujący |  |
 | [WDU20101060672](WDU20101060672/index.md) | Ustawa z dnia 29 kwietnia 2010 r. o zmianie ustawy o usługach turystycznych | Ustawa | obowiązujący | [tak](WDU20101060672/orzecznictwo.md) |
 | [WDU20100980626](WDU20100980626/index.md) | Ustawa z dnia 20 maja 2010 r. o zmianie ustawy - Kodeks karny, ustawy o Pol | Ustawa | obowiązujący | [tak](WDU20100980626/orzecznictwo.md) |
 | [WDU20100980625](WDU20100980625/index.md) | Ustawa z dnia 29 kwietnia 2010 r. zmieniająca ustawę o zmianie ustawy - Kod | Ustawa | obowiązujący |  |
@@ -119,4 +122,4 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU19710120115](WDU19710120115/index.md) | Ustawa z dnia 20 maja 1971 r. przepisy wprowadzające Kodeks wykroczeń. | Ustawa | obowiązujący |  |
 | [WDU19710120114](WDU19710120114/index.md) | Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń. | Ustawa | akt posiada tekst jednolity | [tak](WDU19710120114/orzecznictwo.md) |
 
-*112 aktów • [← Powrót do spisu głównego](../README.md)*
+*115 aktów • [← Powrót do spisu głównego](../README.md)*

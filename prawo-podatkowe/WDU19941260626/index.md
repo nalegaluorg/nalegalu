@@ -8,9 +8,9 @@ pos: 626
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o utracie mocy obowiązującej art. 6 ust. 6 ustawy o podatku dochodowym od os(cid:243)b fizycznych.
+# Obwieszczenie Prezesa Trybunału Konstytucyjnegoz dnia 19 listopada 1994 r. o utracie mocy obowiązującej art. 6 ust. 6 ustawy o podatku dochodowym od osób fizycznych
 
 | Pole | Wartość |
 |---|---|
@@ -21,8 +21,8 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1994-11-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941260626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/626/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1994/626/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1994/626) |
 
-W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 11 kwietnia 1994 r. sygn. K 10/93 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym (Dz.U. z 1991 r. Nr 109, poz. 470 i z 1993 r. Nr 47, poz. 213) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. (Dz.U. Nr 105, poz. 481), ogłaszam utratę mocy obowiązującej art. 6 ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od os(cid:243)b fizycznych (Dz.U. 1993 Nr 90, poz. 416 i Nr 134, poz. 646 oraz z 1994 r. nr 43 poz. 163, Nr 90, poz. 419 i Nr 113, poz. 547) w zakresie mocy obowiązującej utrzymanej po jego uchylenia, w odniesieniu do obowiązku podatkowego za rok 1993.
-Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+## Treść obwieszczenia
 
+W wykonaniu orzeczenia Trybunału Konstytucyjnego z dnia 11 kwietnia 1994 r. sygn. K 10/93 i z mocy art. 7 ust. 2 ustawy z dnia 29 kwietnia 1985 r. o Trybunale Konstytucyjnym ([Dz. U. z 1991 r. Nr 109, poz. 470](https://api.sejm.gov.pl/eli/acts/DU/1991/470/text.html) i z [1993 r. Nr 47, poz. 213](https://api.sejm.gov.pl/eli/acts/DU/1993/213/text.html)) oraz uchwały Trybunału Konstytucyjnego z dnia 20 października 1993 r. ([Dz. U. Nr 105, poz. 481](https://api.sejm.gov.pl/eli/acts/DU/1993/481/text.html)) ogłaszam utratę mocy obowiązującej art. 6 ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 1993 r. Nr 90, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/1993/416/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html) oraz z [1994 r. Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html) i [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html)) w zakresie mocy obowiązującej, utrzymanej po jego uchyleniu, w odniesieniu do obowiązku podatkowego za rok 1993. Obwieszczenie podlega ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej.

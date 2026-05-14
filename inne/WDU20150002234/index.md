@@ -1,0 +1,158 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 21 grudnia 2015 r. w sprawie szczegółowych warunków dotyczących miejsca odbioru wyrobów akcyzowych oraz prowadzenia składu podatkowego
+address: WDU20150002234
+eli: DU/2015/2234
+publisher: DU
+year: 2015
+pos: 2234
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 21 grudnia 2015 r. w sprawie szczegółowych warunków dotyczących miejsca odbioru wyrobów akcyzowych oraz prowadzenia składu podatkowego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 2234 |
+| ISAP | WDU20150002234 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2015-12-21 |
+| Data wydania | 2015-12-29 |
+| Wejście w życie | 2016-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/2234/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/2234) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 59 ust. 7 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ([Dz. U. z 2014 r. poz. 752](https://api.sejm.gov.pl/eli/acts/DU/2014/752/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+szczegółowe warunki dotyczące miejsca odbioru wyrobów akcyzowych nabywanych wewnątrzwspólnotowo przez zarejestrowanego odbiorcę, z wyłączeniem zarejestrowanego odbiorcy posiadającego zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca;
+
+### 2)
+
+szczegółowe warunki prowadzenia składu podatkowego, w tym miejsca, w którym wyroby akcyzowe są magazynowane.
+
+### § 2.
+
+Miejsce odbioru wyrobów akcyzowych powinno:
+
+### 1)
+
+być wydzielone od pozostałej części terenu lub pomieszczenia, w szczególności za pomocą ogrodzenia lub innego trwałego oznaczenia;
+
+### 2)
+
+być oznaczone poprzez umieszczenie tablicy zawierającej wyrazy „Miejsce odbioru wyrobów akcyzowych” oraz imię i nazwisko lub nazwę zarejestrowanego odbiorcy;
+
+### 3)
+
+posiadać infrastrukturę techniczną, sanitarną i komunikacyjną umożliwiającą wykonywanie kontroli nad tymi wyrobami zgodnie z odrębnymi przepisami oraz wprowadzenie nabytych wewnątrzwspólnotowo wyrobów akcyzowych;
+
+### 4)
+
+być wyposażone w odpowiednie do rodzaju wyrobów akcyzowych i sposobu ich dostarczania urządzenia i przyrządy umożliwiające:
+
+### a)
+
+wprowadzenie wyrobów akcyzowych do miejsca odbioru,
+
+### b)
+
+określenie ilości wprowadzonych wyrobów,
+
+### c)
+
+wykonywanie kontroli nad wprowadzonymi wyrobami akcyzowymi zgodnie z odrębnymi przepisami.
+
+### § 3.
+
+Miejsce prowadzenia składu podatkowego powinno:
+
+### 1)
+
+być wydzielone od pozostałej części terenu lub pomieszczenia, w szczególności za pomocą ogrodzenia lub innego trwałego oznaczenia;
+
+### 2)
+
+być oznaczone poprzez umieszczenie tablicy zawierającej wyrazy „Skład podatkowy” oraz imię i nazwisko lub nazwę podmiotu prowadzącego skład podatkowy;
+
+### 3)
+
+posiadać infrastrukturę techniczną, sanitarną i komunikacyjną umożliwiającą wykonywanie kontroli nad wyrobami akcyzowymi w składzie podatkowym zgodnie z odrębnymi przepisami oraz prowadzenie w składzie podatkowym działalności określonej w zezwoleniu;
+
+### 4)
+
+posiadać zabezpieczenia techniczne lub elektroniczne gwarantujące nienaruszalność i niezmienialność znajdujących się w składzie podatkowym wyrobów akcyzowych;
+
+### 5)
+
+być wyposażone odpowiednio w urządzenia, maszyny, przyrządy, narzędzia, pojemniki lub naczynia umożliwiające:
+
+### a)
+
+prowadzenie w składzie podatkowym działalności określonej w zezwoleniu,
+
+### b)
+
+określenie ilości wyrobów znajdujących się w składzie podatkowym,
+
+### c)
+
+wykonywanie kontroli nad wyrobami akcyzowymi znajdującymi się w składzie podatkowym zgodnie z odrębnymi przepisami.
+
+### § 4.
+
+### 1.
+
+W składach podatkowych, w których prowadzona jest działalność polegająca wyłącznie na magazynowaniu wyrobów akcyzowych wyprodukowanych w innym składzie podatkowym, magazynowanie:
+
+### 1)
+
+wyrobów energetycznych i napojów alkoholowych, określonych w załączniku nr 2 do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”, objętych stawką akcyzy inną niż stawka zerowa i procedurą zawieszenia poboru akcyzy,
+
+### 2)
+
+wyrobów energetycznych, o których mowa w art. 47a ust. 3 ustawy
+
+- odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
+
+### 2.
+
+W składach podatkowych, w których prowadzona jest działalność polegająca na produkcji wyrobów akcyzowych, magazynowanie gotowych wyrobów energetycznych:
+
+### 1)
+
+określonych w załączniku nr 2 do ustawy, objętych stawką akcyzy inną niż stawka zerowa i procedurą zawieszenia poboru akcyzy,
+
+### 2)
+
+o których mowa w art. 47a ust. 3 ustawy
+
+- odbywa się w zbiornikach, które podlegają prawnej kontroli metrologicznej, na podstawie odrębnych przepisów.
+
+### 3.
+
+Za zbiorniki służące do magazynowania gotowych wyrobów energetycznych uznawane są zbiorniki, w których magazynowane są wyroby w takim stopniu przetworzenia, w którym mogą być wyprowadzane ze składu podatkowego do odbiorcy nawet, jeśli ich część zostanie wykorzystana w procesach produkcyjnych w składzie podatkowym.
+
+### § 5.
+
+W przypadku wystąpienia braków ilościowych wyrobów akcyzowych podmiot prowadzący skład podatkowy informuje o tym fakcie niezwłocznie, nie później niż w terminie 3 dni roboczych, licząc od dnia stwierdzenia braków, właściwego naczelnika urzędu celnego.
+
+### § 6.
+
+Do dnia 30 czerwca 2016 r. miejsca odbioru wyrobów akcyzowych nabywanych wewnątrzwspólnotowo przez zarejestrowanych odbiorców, działających na podstawie zezwoleń wydanych przed dniem 1 stycznia 2016 r., mogą funkcjonować na warunkach określonych w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych ([Dz. U. Nr 156, poz. 1048](https://api.sejm.gov.pl/eli/acts/DU/2010/1048/text.html)).
+
+### § 7.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2016 r.[3) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 24 lutego 2009 r. w sprawie warunków prowadzenia składów podatkowych oraz ewidencji przez podmioty prowadzące składy podatkowe (Dz. U. z 2014 r. poz. 353) oraz w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych (Dz. U. Nr 156, poz. 1048), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479 i 1932).](#gloss-0:3:)
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932. 3) Zakres spraw uregulowany w niniejszym rozporządzeniu był poprzednio uregulowany w rozporządzeniu Ministra Finansów z dnia 24 lutego 2009 r. w sprawie warunków prowadzenia składów podatkowych oraz ewidencji przez podmioty prowadzące składy podatkowe (Dz. U. z 2014 r. poz. 353) oraz w rozporządzeniu Ministra Finansów z dnia 19 sierpnia 2010 r. w sprawie warunków dotyczących miejsca odbioru wyrobów akcyzowych (Dz. U. Nr 156, poz. 1048), które tracą moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 24 lipca 2015 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 1479 i 1932).

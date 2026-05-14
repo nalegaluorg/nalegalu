@@ -1,0 +1,408 @@
+---
+title: "Rozporządzenie Ministra Finansów z dnia 27 sierpnia 2013 r. w sprawie współczynnika wypłacalności spółdzielczej kasy oszczędnościowo-kredytowej"
+address: WDU20130001102
+eli: DU/2013/1102
+publisher: DU
+year: 2013
+pos: 1102
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 27 sierpnia 2013 r. w sprawie współczynnika wypłacalności spółdzielczej kasy oszczędnościowo-kredytowej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2013 poz. 1102 |
+| ISAP | WDU20130001102 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2013-08-27 |
+| Data wydania | 2013-09-18 |
+| Wejście w życie | 2013-10-03 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2013/1102/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2013/1102) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Indeksy giełdowe, o których mowa w § 5 ust. 3 pkt 4 lit. b rozporządzenia](#part_2)
+
+- [Załącznik nr 2 - Pozycje rachunku zysków i strat kasy, o których mowa w § 6 ust. 5 rozporządzenia](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 24 ust. 6 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych ([Dz. U. z 2012 r. poz. 855](https://api.sejm.gov.pl/eli/acts/DU/2012/855/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 oraz z 2013 r. poz. 613 i 1036.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa sposób i szczegółowe zasady obliczania współczynnika wypłacalności spółdzielczej kasy oszczędnościowo-kredytowej.
+
+### § 2.
+
+Ilekroć w rozporządzeniu jest mowa o:
+
+### 1)
+
+ustawie - rozumie się przez to ustawę z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych;
+
+### 2)
+
+ustawie o rachunkowości - rozumie się przez to ustawę z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2013 r. poz. 330](https://api.sejm.gov.pl/eli/acts/DU/2013/330/text.html) i [613](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.html));
+
+### 3)
+
+kasie - rozumie się przez to spółdzielczą kasę oszczędnościowo-kredytową, o której mowa w art. 2 ustawy;
+
+### 4)
+
+Kasie Krajowej - rozumie się przez to Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową, o której mowa w art. 41 ustawy.
+
+### § 3.
+
+Współczynnik wypłacalności kasy oblicza się w procentach jako pomnożony przez 100 ułamek, którego:
+
+### 1)
+
+licznikiem jest wartość funduszy własnych;
+
+### 2)
+
+mianownikiem jest suma wymogów kapitałowych z tytułu ryzyka kredytowego, operacyjnego oraz walutowego pomnożona przez 20.
+
+### § 4.
+
+### 1.
+
+Aktywa i pasywa bilansowe oraz pozycje pozabilansowe wycenia się zgodnie z zasadami określonymi w ustawie o rachunkowości oraz w przepisach szczególnych o rachunkowości kas, o ile przepisy rozporządzenia nie stanowią inaczej.
+
+### 2.
+
+Wyrażone w walutach obcych wielkości przelicza się na walutę polską według ogłoszonego przez Narodowy Bank Polski średniego kursu obowiązującego na dzień przeliczenia.
+
+### § 5.
+
+### 1.
+
+Wymóg kapitałowy z tytułu ryzyka kredytowego oblicza się jako 5% sumy aktywów ważonych ryzykiem i sumy udzielonych zobowiązań pozabilansowych ważonych ryzykiem.
+
+### 2.
+
+W celu przypisania wag ryzyka poszczególnym kategoriom aktywów dokonuje się następującej klasyfikacji podmiotów:
+
+### 1)
+
+podmioty klasy I:
+
+### a)
+
+Skarb Państwa,
+
+### b)
+
+Narodowy Bank Polski,
+
+### c)
+
+Bankowy Fundusz Gwarancyjny;
+
+### 2)
+
+podmioty klasy II:
+
+### a)
+
+Kasa Krajowa,
+
+### b)
+
+jednostki samorządu terytorialnego i ich związki,
+
+### c)
+
+banki krajowe i instytucje kredytowe oraz banki zagraniczne mające siedzibę w państwach członkowskich Unii Europejskiej, państwach członkowskich Organizacji Współpracy Gospodarczej i Rozwoju (OECD), państwach, które zawarły porozumienia w sprawie udzielania kredytów z Międzynarodowym Funduszem Walutowym w związku z Ogólnym Porozumieniem o Zaciąganiu Kredytów (GAB);
+
+### 3)
+
+podmioty klasy III - kasy;
+
+### 4)
+
+podmioty klasy IV - członkowie kasy, o których mowa w art. 10 ustawy, oraz inne podmioty, które nie zostały ujęte jako podmioty klasy I, II lub III.
+
+### 3.
+
+Sumę aktywów ważonych ryzykiem oblicza się jako sumę wartości poszczególnych kategorii aktywów pomnożonych przez przypisane im procentowe wagi ryzyka:
+
+### 1)
+
+waga ryzyka 0%:
+
+### a)
+
+środki pieniężne w kasie i równoważne pozycje gotówkowe,
+
+### b)
+
+należności od podmiotów klasy I,
+
+### c)
+
+należności od podmiotów klasy II, III i IV - w części zabezpieczonej:
+
+- - kwotą środków pieniężnych przeniesionych na kasę do czasu spłaty należności w celu zabezpieczenia wierzytelności kasy,
+
+- - gwarancjami (poręczeniami) udzielonymi przez podmioty klasy I,
+
+- - dłużnymi papierami wartościowymi, których emitentami są podmioty klasy I,
+
+### d)
+
+obligacje lub inne papiery wartościowe, których emitentami są podmioty klasy I,
+
+### e)
+
+obligacje lub inne papiery wartościowe, których emitentami są podmioty klasy II, III lub IV - w części objętej gwarancją (poręczeniem) przez podmioty klasy I,
+
+### f)
+
+pomniejszenia funduszy własnych kasy, o których mowa w art. 24 ust. 3 pkt 4 ustawy;
+
+### 2)
+
+waga ryzyka 20%:
+
+### a)
+
+środki pieniężne w drodze,
+
+### b)
+
+lokaty, wkłady lub udziały w Kasie Krajowej,
+
+### c)
+
+należności od podmiotów klasy II - w części nieobjętej wagą ryzyka 0%,
+
+### d)
+
+jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych ([Dz. U. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70, 433 i 777.](#gloss-0:3:)),
+
+### e)
+
+papiery wartościowe, których emitentami są podmioty klasy II - w części nieobjętej gwarancją (poręczeniem) przez podmioty klasy I,
+
+### f)
+
+papiery wartościowe, których emitentami są podmioty klasy III lub IV - w części objętej gwarancją (poręczeniem) przez podmioty klasy II,
+
+### g)
+
+należności od podmiotów klasy III, których pierwotny efektywny termin zapadalności jest nie dłuższy niż 3 miesiące, z wyłączeniem należności, co do których istnieje zamiar ich odnawiania po upływie terminu zapadalności tak, że ich efektywny termin zapadalności jest dłuższy niż 3 miesiące,
+
+### h)
+
+należności od podmiotów klasy III i IV - w części zabezpieczonej gwarancjami (poręczeniami) udzielonymi przez podmioty klasy II lub dłużnymi papierami wartościowymi, których emitentami są podmioty klasy II;
+
+### 3)
+
+waga ryzyka 50%:
+
+### a)
+
+należności w walucie polskiej od podmiotów klasy III, których pierwotny efektywny termin zapadalności jest dłuższy niż 3 miesiące,
+
+### b)
+
+należności w walucie polskiej od podmiotów klasy III i IV - w części nieobjętej wagami ryzyka 0% i 20%, zabezpieczonej hipoteką ustanowioną na nieruchomości mieszkalnej, którą dłużnik zamieszkuje lub będzie zamieszkiwał albo oddał lub odda w najem lub dzierżawę - do wysokości kwoty równej 50% wartości ustalonej na podstawie wyceny rzeczoznawcy, a jeżeli:
+
+- - kwota ta jest wyższa niż wartość ujawniona w księdze wieczystej - uwzględnia się wartość hipoteki ujawnionej w księdze wieczystej,
+
+- - w wycenie nie została uwzględniona wartość innych, niż wartość hipoteki, wcześniej powstałych obciążeń - wartość ustaloną na podstawie wyceny pomniejsza się najpierw o łączną wartość tych obciążeń;
+
+### 4)
+
+waga ryzyka 100%:
+
+### a)
+
+należności nieobjęte wagami ryzyka 0%, 20% lub 50%,
+
+### b)
+
+akcje podmiotów, które są przedmiotem obrotu na giełdzie, wchodzące w skład co najmniej jednego z indeksów giełdowych określonych w załączniku nr 1 do rozporządzenia,
+
+### c)
+
+papiery wartościowe, których emitentami są podmioty klasy III lub IV - w części nieobjętej gwarancją (poręczeniem) przez podmioty klasy I,
+
+### d)
+
+zaangażowania kapitałowe kasy wobec podmiotów świadczących usługi pomocnicze względem działalności kasy oraz podmiotów zależnych w rozumieniu ustawy o rachunkowości lub powiązanych z Kasą Krajową w rozumieniu art. 4 ust. 1 pkt 16 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2012 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2012/1376/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.](#gloss-0:4:)),
+
+### e)
+
+pozostałe aktywa nieobjęte wagami ryzyka 0%, 20%, 50% lub 150%;
+
+### 5)
+
+waga ryzyka 150% - papiery wartościowe - w części nieobjętej niższymi wagami ryzyka.
+
+### 4.
+
+Sumę udzielonych zobowiązań pozabilansowych ważonych ryzykiem oblicza się jako sumę iloczynów ekwiwalentów bilansowych udzielonych zobowiązań pozabilansowych i odpowiadających im procentowych wag ryzyka. Przepisy ust. 3 stosuje się odpowiednio.
+
+### 5.
+
+Aktywom i udzielonym zobowiązaniom pozabilansowym, których spłata jest uzależniona od podmiotu innego niż dłużnik, przypisuje się wyższą z wag ryzyka przypisanych dłużnikowi albo temu podmiotowi.
+
+### 6.
+
+Ekwiwalent bilansowy udzielonego zobowiązania pozabilansowego oblicza się jako iloczyn nominalnej wartości zobowiązania i procentowej wagi ryzyka produktu przypisanej temu zobowiązaniu, gdzie:
+
+### 1)
+
+waga ryzyka produktu 0% (ryzyko niskie) - odnosi się do niewykorzystanych udzielonych zobowiązań kredytowych (zobowiązań udzielenia kredytu) z pierwotnym efektywnym terminem wymagalności do jednego roku lub które można bezwarunkowo wypowiedzieć w każdym czasie bez zachowania okresu wypowiedzenia;
+
+### 2)
+
+waga ryzyka produktu 50% (ryzyko średnie) - odnosi się do niewykorzystanych udzielonych zobowiązań kredytowych (zobowiązań udzielenia kredytu) i podobnych zobowiązań z pierwotnym efektywnym terminem wymagalności powyżej jednego roku;
+
+### 3)
+
+waga ryzyka produktu 100% (ryzyko wysokie) - odnosi się do pozostałych udzielonych zobowiązań pozabilansowych.
+
+### § 6.
+
+### 1.
+
+Wymóg kapitałowy z tytułu ryzyka operacyjnego oblicza się metodą wskaźnika.
+
+### 2.
+
+Wskaźnik stanowi średnią arytmetyczną wyników za okres trzech lat.
+
+### 3.
+
+Średnią arytmetyczną oblicza się na koniec roku obrotowego, na podstawie wyników z ostatnich trzech dwunastomiesięcznych okresów, jako iloraz sumy dodatnich wartości wyników i liczby lat z dodatnimi wartościami wyników.
+
+### 4.
+
+Jeżeli dane finansowe nie zostały zbadane przez biegłego rewidenta, kasa wykorzystuje dane nieaudytowane. Po uzyskaniu opinii z badania sprawozdania finansowego przez biegłego rewidenta kasa dokonuje niezwłocznie ponownego obliczenia wskaźnika.
+
+### 5.
+
+Wynik oblicza się jako sumę pozycji rachunku zysków i strat kasy określonych w załączniku nr 2 do rozporządzenia, przy czym każdą pozycję uwzględnia się odpowiednio ze znakiem dodatnim albo ujemnym.
+
+### 6.
+
+W wyniku nie uwzględnia się kosztów operacyjnych, w tym kosztów z tytułu opłat za usługi na rzecz kasy, z wyjątkiem kosztów usług pośrednictwa finansowego oraz usług świadczonych przez Kasę Krajową na rzecz kasy na podstawie art. 44 ustawy.
+
+### 7.
+
+Przychody z tytułu leasingu operacyjnego oraz z tytułu najmu lub dzierżawy nieruchomości komercyjnych uwzględnia się w wyniku w pozostałych przychodach operacyjnych, a przychody i koszty z tytułu leasingu finansowego - odpowiednio w przychodach albo kosztach z tytułu odsetek.
+
+### § 7.
+
+### 1.
+
+Wymóg kapitałowy z tytułu ryzyka operacyjnego stanowi 9,375% wskaźnika, o którym mowa w § 6 ust. 2.
+
+### 2.
+
+Wymóg kapitałowy z tytułu ryzyka operacyjnego oblicza się według wzoru: \( K = {{\sum\limits_{i = 3}^{ - 1} {\max (w_i ;0)} } \over n} \times 9,375\% \) gdzie: K - oznacza wymóg kapitałowy z tytułu ryzyka operacyjnego; wi - oznacza roczny wynik w i-tym roku, ustalony zgodnie z § 6; n - oznacza liczbę lat, w których wi > 0.
+
+### 3.
+
+Przy obliczaniu wymogu kapitałowego z tytułu ryzyka operacyjnego na dany rok obrotowy (i = 0) uwzględnia się rok, na koniec którego dokonuje się obliczeń (i = -1), i dwa kolejne lata poprzedzające ten rok (i = -2, -3). Przy obliczaniu wymogu na ostatni dzień roku obrotowego uwzględnia się ten rok obrotowy oraz dwa kolejne lata poprzedzające ten rok.
+
+### § 8.
+
+### 1.
+
+Wymóg kapitałowy z tytułu ryzyka walutowego oblicza się jako:
+
+### 1)
+
+5% pozycji walutowej całkowitej - jeżeli pozycja walutowa całkowita jest wyższa niż 2% funduszy własnych kasy;
+
+### 2)
+
+zero - jeżeli pozycja walutowa całkowita nie jest wyższa niż 2% funduszy własnych kasy.
+
+### 2.
+
+Pozycję walutową całkowitą oblicza się jako:
+
+### 1)
+
+sumę długich lub sumę krótkich pozycji netto w poszczególnych walutach obcych w zależności od tego, która z tych sum jest wyższa;
+
+### 2)
+
+sumę długich pozycji netto w poszczególnych walutach obcych - jeżeli sumy, o których mowa w pkt 1, są sobie równe.
+
+### 3.
+
+Pozycję netto w danej walucie obcej oblicza się jako bezwzględną wartość różnicy pomiędzy sumą długich i sumą krótkich pozycji pierwotnych bilansowych i pozabilansowych w danej walucie obcej, przy czym pozycję tę oznacza się jako:
+
+### 1)
+
+długą - jeżeli różnica ta jest dodatnia;
+
+### 2)
+
+krótką - jeżeli różnica ta jest ujemna;
+
+### 3)
+
+domkniętą - jeżeli różnica ta jest równa zero.
+
+### § 9.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 oraz z 2013 r. poz. 613 i 1036. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 83, poz. 719, Nr 183, poz. 1537 i 1538 i Nr 184, poz. 1539, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 112, poz. 769, z 2008 r. Nr 231, poz. 1546, z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 168, poz. 1323 i Nr 201, poz. 1540, z 2010 r. Nr 81, poz. 530, Nr 106, poz. 670, Nr 126, poz. 853 i Nr 182, poz. 1228, z 2011 r. Nr 106, poz. 622, Nr 152, poz. 900 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 596, 1385 i 1529 oraz z 2013 r. poz. 70, 433 i 777. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777 i 1036.
+
+## Załącznik nr 1 - Indeksy giełdowe, o których mowa w § 5 ust. 3 pkt 4 lit. b rozporządzenia
+
+Lp. Nazwa indeksu Kraj 1 S&P All Ords Australia 2 ATX Austria 3 BEL20 Belgia 4 SaoPaulo - Bovespa Brazylia 5 PX 50 Czechy 6 CSE M&P Gen Cypr 7 OMX Copenhagen 20 Dania 8 DJ Euro STOXX 50 Indeks międzynarodowy 9 Euronext 100 Indeks międzynarodowy 10 OMX Tallin Estonia 11 OMX Helsinki General Finlandia 12 CAC40 Francja 13 Athens Gen Grecja 14 IBEX35 Hiszpania 15 EOE25 Holandia 16 Hang Seng Hongkong 17 ISEQ Overall Irlandia 18 ICEX-15 Islandia 19 Nikkei225 Japonia 20 TSE35 Kanada 21 OMX Vilnius Litwa 22 Lux General Luksemburg 23 OMX Riga Łotwa 24 MSE Share Index Malta 25 IPC Index Meksyk 26 DAX Niemcy 27 Oslo All-Share Norwegia 28 WIG20 Polska 29 PSI General Portugalia 30 SAX Słowacja 31 SBI 20 Słowenia 32 SMI Szwajcaria 33 OMX Stockholm 30 Szwecja 34 S&P 500 USA 35 Dow Jones Ind. Av. USA 36 NASDAQ USA 37 BUX Węgry 38 FTSE 100 Wielka Brytania 39 FTSE mid-250 Wielka Brytania 40 MIB 30 Włochy
+
+## Załącznik nr 2 - Pozycje rachunku zysków i strat kasy, o których mowa w § 6 ust. 5 rozporządzenia
+
+1 Wynik z tytułu odsetek1) 2 Wynik z tytułu prowizji2) 3 Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych3) 4 Wynik z różnic kursowych4) 5 Pozostałe przychody operacyjne5) Objaśnienia: 1) Wynik z tytułu odsetek - rozumie się przez to różnicę pomiędzy:
+
+### 1)
+
+przychodami osiągniętymi z tytułu odsetek od środków na rachunkach bieżących i lokat kasy, udzielonych przez kasę kredytów i pożyczek, dłużnych papierów wartościowych, w tym dyskonta oraz innych przychodów o podobnym charakterze, a
+
+### 2)
+
+kosztami odsetkowymi poniesionymi z tytułu naliczonych przez kasę odsetek od oszczędności członków kasy, zaciągniętych przez kasę kredytów i pożyczek oraz innych kosztów o podobnym charakterze.
+
+2) Wynik z tytułu prowizji - rozumie się przez to różnicę pomiędzy:
+
+### 1)
+
+przychodami z tytułu prowizji osiągniętymi z tytułu pobieranych przez kasę prowizji od udzielonych kredytów i pożyczek, wystawionych poręczeń, linii kredytowych oraz innych przychodów o podobnym charakterze a
+
+### 2)
+
+kosztami z tytułu prowizji poniesionymi od zaciąganych przez kasę kredytów i pożyczek, linii kredytowych oraz innych kosztów o podobnym charakterze.
+
+3) Wynik z tytułu wyceny i zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych - rozumie się przez to ujęty w przychodach lub kosztach:
+
+### 1)
+
+wynik z wyceny instrumentów finansowych wycenianych w wartości godziwej, z wyłączeniem odsetek i różnic kursowych;
+
+### 2)
+
+zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych, z wyłączeniem zrealizowanych zysków i strat ze sprzedaży należności z tytułu udzielonych kredytów i pożyczek; zrealizowany wynik ze sprzedaży aktywów i zobowiązań finansowych obejmuje także przychody z tytułu otrzymanych dywidend.
+
+4) Wynik z różnic kursowych - rozumie się przez to różnice kursowe ustalone zgodnie z przepisami art. 30 ustawy o rachunkowości. 5) Pozostałe przychody operacyjne - rozumie się przez to przychody zdefiniowane w art. 3 ust. 1 pkt 32 ustawy o rachunkowości, z wyłączeniem rozwiązanych odpisów aktualizujących, przychodów z tytułu zdarzeń nadzwyczajnych lub występujących nieregularnie oraz przychodów z tytułu odszkodowań uzyskanych z tytułu ubezpieczenia.

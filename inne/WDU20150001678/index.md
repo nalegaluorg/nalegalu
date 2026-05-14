@@ -1,0 +1,60 @@
+---
+title: "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 7 października 2015 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem, oraz obszaru i granic jego strefy ochronnej"
+address: WDU20150001678
+eli: DU/2015/1678
+publisher: DU
+year: 2015
+pos: 1678
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 7 października 2015 r. w sprawie określenia granic Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem, oraz obszaru i granic jego strefy ochronnej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1678 |
+| ISAP | WDU20150001678 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2015-10-07 |
+| Data wydania | 2015-10-23 |
+| Wejście w życie | 2016-01-24 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1678/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1678) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Granice pomnika zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 4 ust. 3 pkt 6 ustawy z dnia 7 maja 1999 r. o ochronie terenów byłych hitlerowskich obozów zagłady ([Dz. U. Nr 41, poz. 412](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 80, poz. 717, z 2006 r. Nr 220, poz. 1600 oraz z 2015 r. poz. 1485.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Granice Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem, zwanego dalej „Pomnikiem”, określa załącznik do rozporządzenia.
+
+### § 2.
+
+Granice strefy ochronnej Pomnika pokrywają się z granicami Pomnika, określonymi w załączniku do rozporządzenia.
+
+### § 3.
+
+Obszar strefy ochronnej Pomnika wynosi 0 ha.
+
+### § 4.
+
+Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 153, poz. 1271, z 2003 r. Nr 80, poz. 717, z 2006 r. Nr 220, poz. 1600 oraz z 2015 r. poz. 1485.
+
+## Załącznik - Granice pomnika zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem
+
+Rozpoczynając od punktu nr 400411, stanowiącego północno-zachodni narożnik działki ewidencyjnej, zwanej dalej „działką”, nr 5356/3, położonej w obrębie Rzuchów gmina Dąbie, powiat kolski, granica części Pomnika Zagłady, na obszarze którego jest położone Muzeum Martyrologiczne - Obóz w Chełmnie nad Nerem, zwanego dalej „Pomnikiem”, tj. części położonej w obrębie Rzuchów, biegnie w linii prostej, w kierunku północno-wschodnim, przez punkt nr 400427 do punktu nr 300100. W punkcie nr 300100 granica zmienia kierunek na północno-zachodni i biegnie do punktu nr 400428, stanowiącego północno-zachodni narożnik działki nr 960, a następnie zmienia kierunek na północno-wschodni i biegnie do punktu nr 400429. W punkcie nr 400429 granica załamuje się w kierunku południowo-wschodnim i biegnie do punktu nr 400430, stanowiącego południowo-wschodni narożnik działki nr 960. Z punktu nr 400430 granica biegnie w kierunku północno-wschodnim linią prostą do punktu nr 400431, stanowiącego południowo-zachodni narożnik działki nr 959. W punkcie nr 400431 granica załamuje się w kierunku północno-wschodnim i biegnie do punktu nr 300069. W punkcie nr 300069 granica zmienia kierunek na południowo-wschodni i biegnie wzdłuż zachodniej granicy drogi (działka nr 958) do punktu nr 300068, stanowiącego północno-wschodni narożnik działki nr 959. Następnie w punkcie nr 300068 granica załamuje się w kierunku południowo-zachodnim i biegnie do punktu nr 400432, wyznaczającego południowo-wschodni narożnik działki nr 959. W punkcie nr 400432 granica zmienia kierunek na wschodni i w linii prostej biegnie do punktu nr 300067, stanowiącego północno-wschodni narożnik działki nr 961 i zlokalizowanego na zachodniej granicy drogi (działka nr 958). Od punktu nr 300067 do punktu nr 300066 granica biegnie, w kierunku południowo-wschodnim, zachodnią granicą drogi (działka nr 958). W punkcie nr 300066 granica załamuje się w kierunku zachodnim i biegnie do punktu nr 300109, a następnie w punkcie tym zmienia kierunek na południowy i biegnie do punktu nr 300110, stanowiącego południowo-zachodni narożnik działki nr 5355/5, graniczącej z działką nr 961. Od punktu nr 300110 granica biegnie linią łamaną w kierunku południowo-wschodnim przez punkt nr 300065 do punktu nr 300064, które są zlokalizowane na zachodniej granicy działki nr 958. W punkcie nr 300064 granica zmienia kierunek na zachodni i biegnie do punktu nr 300117, stanowiącego południowo-wschodni narożnik działki nr 961 i jednocześnie północny narożnik działki nr 5355/10. W punkcie nr 300117 granica zmienia kierunek na południowo-zachodni i biegnie linią łamaną przez punkt nr 300116 do punktu nr 400440, stanowiącego południowo-wschodni narożnik działki nr 961 i jednocześnie północny narożnik działki nr 5355/9 oraz zachodni narożnik działki nr 5355/10. W punkcie nr 400440 granica załamuje się w kierunku południowo-wschodnim i biegnie do punktu nr 400416, stanowiącego wschodni narożnik działki nr 5355/9. Od punktu nr 400416 granica zmienia kierunek na południowo-zachodni i biegnie w linii prostej przez punkty nr 400415 i nr 400418 do punktu nr 400419, stanowiącego południowy narożnik działki nr 962. W punkcie nr 400419 granica załamuje się w kierunku północno-zachodnim i przez punkt nr 400420 biegnie w linii prostej do punktu nr 400412, stanowiącego północno-zachodni narożnik działki nr 5356/4. Następnie w punkcie nr 400412 granica zmienia kierunek na północno-wschodni i biegnie do punktu nr 400413, stanowiącego północno-wschodni narożnik działki nr 5356/4. W punkcie nr 400413 granica załamuje się w kierunku południowo-wschodnim i biegnie do punktu nr 400414, stanowiącego południowo-wschodni narożnik działki nr 5356/4. W punkcie nr 400414 granica zmienia kierunek na północno-wschodni i biegnie linią łamaną przez punkt nr 400421 do punktu nr 400422. Następnie w punkcie nr 400422 granica załamuje się w kierunku północno-zachodnim i biegnie w linii prostej przez punkt nr 400423 do punktu nr 400411, stanowiącego północno-zachodni narożnik działki nr 5356/3, od którego rozpoczęto opis granic części Pomnika, położonej w obrębie Rzuchów. Rozpoczynając od punktu nr 102442, stanowiącego północny narożnik działki nr 399/1, położonej w obrębie Chełmno Wieś, gmina Dąbie, powiat kolski, granica części Pomnika położonej w obrębie Chełmno Wieś, będąca równocześnie granicą jej strefy ochronnej, biegnie w linii prostej, w kierunku południowo-wschodnim, przez punkt 102469 do punktu nr 101421. W punkcie nr 101421 granica załamuje się w kierunku południowym i biegnie w linii prostej przez punkty nr 102465 i nr 102466 do punktu nr 100401, stanowiącego północno-wschodni narożnik działki nr 399/1 i jednocześnie południowo-zachodni narożnik działki nr 403. W punkcie nr 100401 granica załamuje się w kierunku południowo-wschodnim i biegnie linią łamaną przez punkty nr 101041, nr 102075, nr 102081, nr 102082 do punktu nr 102083. Następnie w punkcie nr 102083 granica zmienia kierunek na północno-wschodni i biegnie do punktu nr 102084, zlokalizowanego na zachodniej granicy drogi (działka nr 477/1), stanowiącego północno-wschodni narożnik działki nr 399/1 i jednocześnie południowo-wschodni narożnik działki nr 400. W punkcie nr 102084 granica zmienia kierunek na południowy i zachodnią granicą drogi (działka nr 477/1) biegnie do punktu nr 102221, stanowiącego południowo-zachodni narożnik działki nr 477/1 i jednocześnie północny narożnik działki nr 490/2 (droga). W punkcie nr 102221 granica załamuje się w kierunku południowo-zachodnim i biegnie do punktu nr 102073, stanowiącego południowo-wschodni narożnik działki nr 399/1 i jednocześnie północno-wschodni narożnik działki nr 397. Od punktu nr 102073 granica biegnie w kierunku północno-zachodnim do punktu nr 102074, a następnie w punkcie tym załamuje się w kierunku południowo-zachodnim i biegnie do punktu nr 100843, stanowiącego północno-zachodni narożnik działki nr 397 i jednocześnie północno-wschodni narożnik działki nr 398/1 oraz południowo-wschodni narożnik działki 399/1. W punkcie nr 100843 granica załamuje się w kierunku południowym i biegnie do punktu nr 100844, stanowiącego południowo-wschodni narożnik działki nr 398/1. W punkcie nr 100844 granica zmienia kierunek na północno-zachodni i biegnie linią łamaną, stanowiącą północną granicę drogi (część działki nr 484 i część działki nr 345), przez punkty nr 100845, nr 102121, nr 102122, nr 102120 do punktu nr 102099, stanowiącego południowo-zachodni narożnik działki nr 399/1 i jednocześnie południowy narożnik działki nr 344. W punkcie nr 102099 granica załamuje się w kierunku północno-wschodnim i biegnie do punktu nr 102100, stanowiącego północno-wschodni narożnik działki nr 344. Od punktu nr 102100 granica biegnie w linii prostej w kierunku północno-zachodnim przez punkty nr 102098 i nr 102093 do punktu nr 102094, stanowiącego południowo-zachodni narożnik działki nr 399/1 i jednocześnie południowy narożnik działki nr 405. W punkcie nr 102094 granica zmienia kierunek na północno-wschodni i biegnie w linii prostej przez punkt nr 102462 do punktu nr 102442, od którego rozpoczęto opis granic części Pomnika położonej w obrębie Chełmno Wieś, zamykając tym samym obszar Pomnika.

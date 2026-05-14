@@ -8,9 +8,9 @@ pos: 1235
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2017 poz. 1523) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 6 lipca 2001 o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 97, poz. 1051), uwzględnieniem zmian wprowadzonych:
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
 
 | Pole | Wartość |
 |---|---|
@@ -22,54 +22,190 @@ domain: null
 | Data ogłoszenia | 2018-06-14 |
 | Data wydania | 2018-06-26 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001235) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1235/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1235/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1235) |
 
-1) ustawą dnia 8 maja 2003 o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 113, poz. 1068),
-2) ustawą dnia 20 lipca 2017 – Prawo wodne (Dz. U. poz. 1566) oraz zmian wynikających przepisów ogłoszonych przed dniem 12 czerwca 2018
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 2 ustawy dnia 8 maja 2003 o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. Nr 113, poz. 1068), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
-2) odnośnika nr 1 oraz art. 574 ustawy dnia 20 lipca 2017 – Prawo wodne (Dz. U. poz. 1566), które stanowią: „ Niniejsza ustawa zakresie swojej regulacji wdraża:
-1) dyrektywę Rady 91/271/EWG dnia 21 maja 1991 dotyczącą oczyszczania ścieków komunalnych (Dz. Urz. WE L 135 30.05.1991, str. 40, późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26, Dz. Urz. WE L 67 07.03.1998, str. 29 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27, Dz. Urz. UE L 284 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447, Dz. Urz. UE L 311 21.11.2008, str. 1, późn. zm. oraz Dz. Urz. UE L 353 28.12.2013, str. 8);
-2) dyrektywę Rady 91/676/EWG dnia 12 grudnia 1991 dotyczącą ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego (Dz. Urz. WE L 375 31.12.1991, str. 1, późn. zm.
-– Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 68, Dz. Urz. UE L 284 31.10.2003, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447 oraz Dz. Urz. UE L 31 21.11.2008, str. 1, późn. zm.);
-3) dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady dnia 23 października 2000 ustanawiającą ramy wspólnotowego działania dziedzinie polityki wodnej (Dz. Urz. WE L 327 22.12.2000, str. 1 – Dz. Urz.
-UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275, Dz. Urz. WE L 331 15.12.2001, str. 1 – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358, Dz. Urz. UE L 81 20.03.2008, str. 60, Dz. Urz.
-UE L 348 24.12.2008, str. 84, późn. zm., Dz. Urz. UE L 140 05.06.2009, str. 114, późn. zm., Dz. Urz.
-UE L 226 24.08.2013, str. 1, Dz. Urz. UE L 353 28.12.2013, str. 8 oraz Dz. Urz. UE L 311 31.10.2010, str. 32);
-4) dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady dnia 15 lutego 2006 dotyczącą zarządzania jakością wody kąpieliskach i uchylającą dyrektywę 76/160/EWG (Dz. Urz. UE L 64 04.03.2006, str. 37, Dz. Urz. UE L 188 18.07.2009, str. 14, późn. zm. oraz Dz. Urz. UE L 353 28.12.2013, str. 8);
-5) dyrektywę 2006/118/WE Parlamentu Europejskiego i Rady dnia 12 grudnia 2006 sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu (Dz. Urz. UE L 372 27.12.2006, str. 19 oraz Dz. Urz. UE L 182 21.06.2014, str. 52);
-7) dyrektywę Parlamentu Europejskiego i Rady 2008/56/WE dnia 17 czerwca 2008 ustanawiającą ramy działań Wspólnoty dziedzinie polityki środowiska morskiego (dyrektywa ramowa sprawie strategii morskiej) (Dz. Urz. UE L 164 25.06.2008, str. 19);
-8) dyrektywę Parlamentu Europejskiego i Rady 2008/105/WE dnia 16 grudnia 2008 sprawie środowiskowych norm jakości dziedzinie polityki wodnej, zmieniającą i następstwie uchylającą dyrektywy Rady 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG i 86/280/EWG oraz zmieniającą dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 348 24.12.2008, str. 84 oraz Dz. Urz.
-UE L 226 24.08.2013, str. 1).” „Art. 574. Ustawa wchodzi życie dniem 1 stycznia 2018 r., wyjątkiem:
-1) art. 102–112, art. 494, art. 502, art. 506, art. 515, art. 525 ust. 3–6 oraz 8 i 9, art. 539 ust. 3–5 i 7, art. 540 ust. 1–4, 6 i 7, art. 541, art. 542, art. 544 ust. 1, art. 554 oraz art. 570, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) art. 532 ust. 5 i 6, które wchodzą życie dniem 31 grudnia 2017 r.;
-3) art. 524, który wchodzi życie dniem 1 stycznia 2019 r.;
-4) art. 274 pkt 1, który wchodzi życie dniem 1 stycznia 2020 r.;
-5) art. 36 ust. 1–3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą życie dniem 1 stycznia 2021 r.”.
-Marszałek Sejmu: M. Kuchciński
-USTAWA dnia 6 lipca 2001 o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
+## Spis treści
 
-**Art. 1.** Do strategicznych zasobów naturalnych kraju zalicza się:
+- [Treść obwieszczenia](#part_1)
 
-**Art. 2.** Zasoby naturalne wymienione art. 1 stanowiące własność Skarbu Państwa nie podlegają przekształceniom własnościowym, zastrzeżeniem przepisów zawartych ustawach szczególnych.
+- [Załącznik - Tekst jednolity ustawy z dnia 6 lipca 2001 r. o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju](#part_2)
 
-**Art. 3.** Gospodarowanie strategicznymi zasobami naturalnymi jest prowadzone zgodnie zasadą zrównoważonego rozwoju interesie dobra ogólnego.
+TOC
 
-**Art. 4.** Dla osiągnięcia celu określonego art. 3 właściwe organy administracji publicznej oraz inne podmioty, sprawujące na podstawie odrębnych przepisów zarząd nad zasobami naturalnymi wymienionymi art. 1, mają obowiązek:
+## Treść obwieszczenia
 
-**Art. 5.**
+### 1.
 
-1. Świadczenia pozaprodukcyjne zasobów naturalnych Skarbu Państwa na potrzeby własne ludności, szczególnie rekreacja oraz niekomercyjny zbiór runa leśnego, są nieodpłatne.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2017 r. poz. 1523](https://api.sejm.gov.pl/eli/acts/DU/2017/1523/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 6 lipca 2001 r. o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju ([Dz. U. Nr 97, poz. 1051](https://api.sejm.gov.pl/eli/acts/DU/2001/1051/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-2. (uchylony)
+### 1)
 
-**Art. 6.**
+ustawą z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju ([Dz. U. Nr 113, poz. 1068](https://api.sejm.gov.pl/eli/acts/DU/2003/1068/text.html)),
 
-1. Wstęp do lasów państwowych i dostęp do cieków i zbiorników wodnych stanowiących własność Skarbu Państwa jest wolny.
+### 2)
 
-2. Szczegółowe zasady korzystania ludności zasobów naturalnych określają odrębne przepisy.
+ustawą z dnia 20 lipca 2017 r. - Prawo wodne ([Dz. U. poz. 1566](https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text.html))
 
-**Art. 7.** Roszczenia osób fizycznych, byłych właścicieli lub ich spadkobierców, tytułu utraty własności zasobów wymienionych art. 1, zaspokojone zostaną formie rekompensat wypłaconych ze środków budżetu państwa na podstawie odrębnych przepisów.
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 12 czerwca 2018 r.
 
-**Art. 8.** Ustawa wchodzi życie dniem ogłoszenia .
+### 2.
 
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+
+### 1)
+
+art. 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju ([Dz. U. Nr 113, poz. 1068](https://api.sejm.gov.pl/eli/acts/DU/2003/1068/text.html)), który stanowi:
+
+„
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” ;
+
+### 2)
+
+odnośnika nr 1 oraz art. 574 ustawy z dnia 20 lipca 2017 r. - Prawo wodne ([Dz. U. poz. 1566](https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text.html)), które stanowią:
+
+„
+
+1) Niniejsza ustawa w zakresie swojej regulacji wdraża:
+
+### 1)
+
+dyrektywę Rady 91/271/EWG z dnia 21 maja 1991 r. dotyczącą oczyszczania ścieków komunalnych ([Dz. Urz. WE L 135 z 30.05.1991, str. 40](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm. - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 26](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. WE L 67 z 07.03.1998, str. 29](https://api.sejm.gov.pl/eli/acts//text.html) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 4, str. 27](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 311 z 21.11.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm. oraz [Dz. Urz. UE L 353 z 28.12.2013, str. 8](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+dyrektywę Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotyczącą ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego ([Dz. Urz. WE L 375 z 31.12.1991, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) z późn. zm. - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 68](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 284 z 31.10.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 1, t. 4, str. 447](https://api.sejm.gov.pl/eli/acts//text.html) oraz [Dz. Urz. UE L 31 z 21.11.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
+
+### 3)
+
+dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2000 r. ustanawiającą ramy wspólnotowego działania w dziedzinie polityki wodnej ([Dz. Urz. WE L 327 z 22.12.2000, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 275](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. WE L 331 z 15.12.2001, str. 1](https://api.sejm.gov.pl/eli/acts//text.html) - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 358](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 81 z 20.03.2008, str. 60](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 348 z 24.12.2008, str. 84](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm., [Dz. Urz. UE L 140 z 05.06.2009, str. 114](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm., [Dz. Urz. UE L 226 z 24.08.2013, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), Dz. Urz. UE L 353 z 28.12.2013, str. 8 oraz Dz. Urz. UE L 311 z 31.10.2010, str. 32);
+
+### 4)
+
+dyrektywę 2006/7/WE Parlamentu Europejskiego i Rady z dnia 15 lutego 2006 r. dotyczącą zarządzania jakością wody w kąpieliskach i uchylającą dyrektywę 76/160/EWG ([Dz. Urz. UE L 64 z 04.03.2006, str. 37](https://api.sejm.gov.pl/eli/acts//text.html), [Dz. Urz. UE L 188 z 18.07.2009, str. 14](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm. oraz Dz. Urz. UE L 353 z 28.12.2013, str. 8);
+
+### 5)
+
+dyrektywę 2006/118/WE Parlamentu Europejskiego i Rady z dnia 12 grudnia 2006 r. w sprawie ochrony wód podziemnych przed zanieczyszczeniem i pogorszeniem ich stanu ([Dz. Urz. UE L 372 z 27.12.2006, str. 19](https://api.sejm.gov.pl/eli/acts//text.html) oraz Dz. Urz. UE L 182 z 21.06.2014, str. 52);
+
+### 6)
+
+dyrektywę 2007/60/WE Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. w sprawie oceny ryzyka powodziowego i zarządzania nim ([Dz. Urz. UE L 288 z 06.11.2007, str. 27](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 7)
+
+dyrektywę Parlamentu Europejskiego i Rady 2008/56/WE z dnia 17 czerwca 2008 r. ustanawiającą ramy działań Wspólnoty w dziedzinie polityki środowiska morskiego (dyrektywa ramowa w sprawie strategii morskiej) ([Dz. Urz. UE L 164 z 25.06.2008, str. 19](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 8)
+
+dyrektywę Parlamentu Europejskiego i Rady 2008/105/WE z dnia 16 grudnia 2008 r. w sprawie środowiskowych norm jakości w dziedzinie polityki wodnej, zmieniającą i w następstwie uchylającą dyrektywy Rady 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG i 86/280/EWG oraz zmieniającą dyrektywę 2000/60/WE Parlamentu Europejskiego i Rady ([Dz. Urz. UE L 348 z 24.12.2008, str. 84](https://api.sejm.gov.pl/eli/acts//text.html) oraz [Dz. Urz. UE L 226 z 24.08.2013, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+”
+
+„
+
+### Art. 574.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+
+### 1)
+
+art. 102-112, art. 494, art. 502, art. 506, art. 515, art. 525 ust. 3-6 oraz 8 i 9, art. 539 ust. 3-5 i 7, art. 540 ust. 1-4, 6 i 7, art. 541, art. 542, art. 544 ust. 1, art. 554 oraz art. 570, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 532 ust. 5 i 6, które wchodzą w życie z dniem 31 grudnia 2017 r.;
+
+### 3)
+
+art. 524, który wchodzi w życie z dniem 1 stycznia 2019 r.;
+
+### 4)
+
+art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2020 r.;
+
+### 5)
+
+art. 36 ust. 1-3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą w życie z dniem 1 stycznia 2021 r.
+
+” .
+
+## Załącznik - Tekst jednolity ustawy z dnia 6 lipca 2001 r. o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju
+
+### Art. 1.
+
+Do strategicznych zasobów naturalnych kraju zalicza się:
+
+### 1[1) W brzmieniu ustalonym przez art. 495 ustawy z dnia 20 lipca 2017 r. - Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r.](#gloss-0:1:))
+
+wody podziemne oraz wody powierzchniowe w ciekach naturalnych i w źródłach, z których te cieki biorą początek, w kanałach, w jeziorach i w zbiornikach wodnych o ciągłym dopływie w rozumieniu przepisów ustawy z dnia 20 lipca 2017 r. - Prawo wodne ([Dz. U. poz. 1566](https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text.html) i [2180](https://api.sejm.gov.pl/eli/acts/DU/2017/2180/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [710](https://api.sejm.gov.pl/eli/acts/DU/2018/710/text.html));
+
+### 2)
+
+wody polskich obszarów morskich wraz z pasmem nadbrzeżnym i ich naturalnymi zasobami żywymi i mineralnymi, a także zasobami naturalnymi dna i wnętrza ziemi znajdującego się w granicach tych obszarów w rozumieniu ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. z 2017 r. poz. 2205](https://api.sejm.gov.pl/eli/acts/DU/2017/2205/text.html) oraz [z 2018 r. poz. 317](https://api.sejm.gov.pl/eli/acts/DU/2018/317/text.html));
+
+### 3)
+
+lasy państwowe;
+
+### 4)
+
+złoża kopalin niestanowiące części składowych nieruchomości gruntowej w rozumieniu ustawy z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ([Dz. U. z 2005 r. poz. 1947](https://api.sejm.gov.pl/eli/acts/DU/2005/1947/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 934, 1217, 1399 i 1834, z 2007 r. poz. 125 i 556, z 2008 r. poz. 865, 958, 1227 i 1505, z 2009 r. poz. 97, z 2010 r. poz. 278 i 489 oraz z 2011 r. poz. 622 i 766.](#gloss-0:2:))[3) Obecnie ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126 oraz z 2018 r. poz. 650 i 723), która weszła w życie z dniem 1 stycznia 2012 r. na podstawie art. 225 tej ustawy.](#gloss-0:3:);
+
+### 5)
+
+zasoby przyrodnicze parków narodowych.
+
+### Art. 2.
+
+Zasoby naturalne wymienione w art. 1 stanowiące własność Skarbu Państwa nie podlegają przekształceniom własnościowym, z zastrzeżeniem przepisów zawartych w ustawach szczególnych.
+
+### Art. 3.
+
+Gospodarowanie strategicznymi zasobami naturalnymi jest prowadzone zgodnie z zasadą zrównoważonego rozwoju w interesie dobra ogólnego.
+
+### Art. 4.
+
+Dla osiągnięcia celu określonego w art. 3 właściwe organy administracji publicznej oraz inne podmioty, sprawujące na podstawie odrębnych przepisów zarząd nad zasobami naturalnymi wymienionymi w art. 1, mają obowiązek:
+
+### 1)
+
+utrzymać, powiększać i doskonalić zasoby odnawialne;
+
+### 2)
+
+użytkować złoża kopalin zgodnie z zasadą zrównoważonego rozwoju.
+
+### Art. 5.
+
+### 1.
+
+Świadczenia pozaprodukcyjne zasobów naturalnych Skarbu Państwa na potrzeby własne ludności, szczególnie rekreacja oraz niekomercyjny zbiór runa leśnego, są nieodpłatne.
+
+### 2.
+
+(uchylony)[4) Przez art. 1 pkt 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. poz. 1068), która weszła w życie z dniem 15 lipca 2003 r.](#gloss-0:4:)
+
+### Art. 6.
+
+### 1.
+
+Wstęp do lasów państwowych i dostęp do cieków i zbiorników wodnych stanowiących własność Skarbu Państwa jest wolny.
+
+### 2.
+
+Szczegółowe zasady korzystania ludności z zasobów naturalnych określają odrębne przepisy.
+
+### Art. 7.
+
+Roszczenia osób fizycznych, byłych właścicieli lub ich spadkobierców, z tytułu utraty własności zasobów wymienionych w art. 1, zaspokojone zostaną w formie rekompensat wypłaconych ze środków budżetu państwa na podstawie odrębnych przepisów.
+
+### Art. 8.
+
+Ustawa wchodzi w życie z dniem ogłoszenia[5) Ustawa została ogłoszona w dniu 11 września 2001 r.](#gloss-0:5:).
+
+1) W brzmieniu ustalonym przez art. 495 ustawy z dnia 20 lipca 2017 r. - Prawo wodne (Dz. U. poz. 1566), która weszła w życie z dniem 1 stycznia 2018 r. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 934, 1217, 1399 i 1834, z 2007 r. poz. 125 i 556, z 2008 r. poz. 865, 958, 1227 i 1505, z 2009 r. poz. 97, z 2010 r. poz. 278 i 489 oraz z 2011 r. poz. 622 i 766. 3) Obecnie ustawa z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze (Dz. U. z 2017 r. poz. 2126 oraz z 2018 r. poz. 650 i 723), która weszła w życie z dniem 1 stycznia 2012 r. na podstawie art. 225 tej ustawy. 4) Przez art. 1 pkt 2 ustawy z dnia 8 maja 2003 r. o zmianie ustawy o zachowaniu narodowego charakteru strategicznych zasobów naturalnych kraju (Dz. U. poz. 1068), która weszła w życie z dniem 15 lipca 2003 r. 5) Ustawa została ogłoszona w dniu 11 września 2001 r.

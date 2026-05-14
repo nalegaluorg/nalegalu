@@ -8,11 +8,9 @@ pos: 586
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego oraz niektórych innych ustaw
-
-*USTAWA z dnia 24 kwietnia 2014 r.*
+# Ustawa z dnia 24 kwietnia 2014 r. o zmianie ustawy o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego oraz niektórych innych ustaw [1) Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2011/89/UE z dnia 16 listopada 2011 r. w sprawie zmiany dyrektyw 98/78/WE, 2002/87/WE, 2006/48/WE i 2009/138/WE w odniesieniu do dodatkowego nadzoru nad podmiotami finansowymi konglomeratu finansowego (Dz. Urz. UE L 326 z 08.12.2011, str. 113).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +22,610 @@ domain: null
 | Data ogłoszenia | 2014-04-24 |
 | Data wydania | 2014-05-08 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000586) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/586/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/586/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/586) |
 
-**Art. 1.** W ustawie z dnia 15 kwietnia 2005 r. nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi skład konglomeratu finansowego (Dz. U. Nr 83, poz. 719, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2012 r. poz. 1376, z późn. zm. ) wprowadza się następujące zmiany:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.](#gloss-0:2:)
 
-**Art. 4.** W ustawie z dnia 29 lipca 2005 r. obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94) 98a:
+### Art. 1.
 
-**Art. 5.**
+W ustawie z dnia 15 kwietnia 2005 r. o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń, zakładami reasekuracji i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego ([Dz. U. Nr 83, poz. 719](https://api.sejm.gov.pl/eli/acts/DU/2005/719/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036.](#gloss-0:3:)) wprowadza się następujące zmiany:
 
-1. Do kwartalnych i dodatkowych rocznych sprawozdań finansowych i statystycznych oraz rocznych sprawozdań dotyczących transakcji przeprowadzanych ubezpieczeniowej grupie kapitałowej, których mowa 169 ust. 1, 173 ust. 1, 223zzd ust. 1 i 223zzf ust. 1 ustawy zmienianej 3, sporządzanych za kwartalne roczne okresy sprawozdawcze kończące się przed rozpoczęciem pierwszego rocznego okresu sprawozdawczego po dniu wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+### 1)
 
-2. Zakłady ubezpieczeń i zakłady reasekuracji, których podmiotem dominującym jest dominujący podmiot nieregulowany, objęte nadzorem dodatkowym zgodnie z 2 ust. 1 pkt 5c lit. b ustawy zmienianej 3, brzmieniu nadanym niniejszą ustawą, sporządzają roczne sprawozdania dotyczące transakcji przeprowadzanych ubezpieczeniowej grupie kapitałowej, których mowa 173 ust. 1 i 223zzf ust. 1 ustawy zmienianej 3, po raz pierwszy za rok kalendarzowy rozpoczynający się po dniu wejścia życie niniejszej ustawy.
+w art. 3:
 
-**Art. 6.** Dotychczasowe akty wykonawcze wydane na podstawie 148 ust. 8, 169 ust. 2, 173 ust. 2, 223zw ust. 12, 223zzd ust. 2 i 223zzf ust. 2 ustawy zmienianej 3 zachowują moc do dnia wejścia życie nowych aktów wykonawczych wydanych na podstawie 148 ust. 8, 169 ust. 2, 173 ust. 2, 223zw ust. 12, 223zzd ust. 2 i 223zzf ust. 2 ustawy zmienianej 3, nie dłużej jednak niż przez 24 miesiące od dnia wejścia życie niniejszej ustawy.
+### a)
 
-**Art. 7.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+w pkt 3:
 
+- - lit. h otrzymuje brzmienie: „ h) spółkę zarządzającą, o której mowa w art. 2 pkt 10 ustawy o funduszach inwestycyjnych, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim Unii Europejskiej, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim Unii Europejskiej, byłby obowiązany uzyskać zezwolenie właściwego organu na prowadzenie wykonywanej działalności zgodnie z przepisami dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE z dnia 13 lipca 2009 r. w sprawie koordynacji przepisów ustawowych, wykonawczych i administracyjnych odnoszących się do przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) ([Dz. Urz. UE L 302 z 17.11.2009, str. 32](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), ” ,
+
+- - dodaje się lit. i w brzmieniu: „ i) zarządzającego alternatywnym funduszem inwestycyjnym, o którym mowa w art. 4 ust. 1 lit. b dyrektywy Parlamentu Europejskiego i Rady 2011/61/UE z dnia 8 czerwca 2011 r. w sprawie zarządzających alternatywnymi funduszami inwestycyjnymi i zmiany dyrektyw 2003/41/WE i 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 i (UE) nr 1095/2010 ([Dz. Urz. UE L 174 z 01.07.2011, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), który uzyskał zezwolenie, o którym mowa w art. 6 ust. 1 tej dyrektywy, lub inny podmiot z siedzibą w państwie niebędącym państwem członkowskim, który, w przypadku gdyby jego siedziba znajdowała się w państwie członkowskim, byłby obowiązany uzyskać zezwolenie na prowadzenie wykonywanej działalności zgodnie z przepisami tej dyrektywy; ” ,
+
+### b)
+
+pkt 10-13 otrzymują brzmienie:
+
+„
+
+### 10)
+
+sektor usług inwestycyjnych - sektor, który tworzą firmy inwestycyjne, o których mowa w pkt 3 lit. a-f;
+
+### 11)
+
+sektor finansowy - sektor, który tworzy co najmniej jeden podmiot z sektora bankowego, sektora ubezpieczeniowego lub sektora usług inwestycyjnych, zwanych dalej „sektorami”, lub co najmniej jeden z podmiotów, o których mowa w pkt 3 lit. g-i;
+
+### 12)
+
+podmiot dominujący - podmiot, który sprawuje nad innym podmiotem kontrolę w rozumieniu art. 3 ust. 1 pkt 37 lit. a-d ustawy z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2013 r. poz. 330](https://api.sejm.gov.pl/eli/acts/DU/2013/330/text.html) i [613](https://api.sejm.gov.pl/eli/acts/DU/2013/613/text.html)), lub podmiot, który w ocenie krajowego organu nadzoru sprawuje w inny sposób kontrolę nad innym podmiotem;
+
+### 13)
+
+podmiot zależny - podmiot, wobec którego inny podmiot jest podmiotem dominującym;
+
+” ,
+
+### c)
+
+w pkt 21 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+inne organy nadzoru wskazane przez organy, o których mowa w lit. a i b;
+
+” ;
+
+### 2)
+
+w art. 4 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Konglomerat finansowy stanowi grupa, na czele której stoi podmiot regulowany, albo grupa, w której co najmniej jeden z podmiotów zależnych jest podmiotem regulowanym, która:
+
+### 1)
+
+w przypadku gdy na czele grupy stoi podmiot regulowany, spełnia łącznie następujące warunki:
+
+### a)
+
+podmiot stojący na czele grupy jest podmiotem dominującym wobec podmiotu sektora finansowego, podmiotem posiadającym znaczący udział kapitałowy w podmiocie sektora finansowego lub podmiotem powiązanym z podmiotem sektora finansowego przez umowę o zarządzanie, o której mowa w art. 7 § 1 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych, lub inną umowę o podobnym charakterze,
+
+### b)
+
+co najmniej jeden z podmiotów w grupie prowadzi działalność w sektorze ubezpieczeniowym i co najmniej jeden z nich prowadzi działalność w sektorze bankowym lub w sektorze usług inwestycyjnych lub jest jednym z podmiotów, o których mowa w art. 3 pkt 3 lit. g-i,
+
+### c)
+
+skonsolidowana lub zagregowana działalność wchodzących w skład grupy podmiotów prowadzących działalność w sektorze ubezpieczeniowym oraz podmiotów prowadzących działalność w sektorze bankowym i w sektorze usług inwestycyjnych jest znacząca w rozumieniu art. 6 ust. 2 lub 3;
+
+### 2)
+
+w przypadku gdy co najmniej jeden z podmiotów zależnych w grupie jest podmiotem regulowanym, spełnia łącznie następujące warunki:
+
+### a)
+
+działalność grupy jest prowadzona głównie w sektorze finansowym w rozumieniu art. 6 ust. 1,
+
+### b)
+
+co najmniej jeden z podmiotów w grupie prowadzi działalność w sektorze ubezpieczeniowym i co najmniej jeden z nich prowadzi działalność w sektorze bankowym lub w sektorze usług inwestycyjnych lub jest jednym z podmiotów, o których mowa w art. 3 pkt 3 lit. g-i,
+
+### c)
+
+skonsolidowana lub zagregowana działalność wchodzących w skład grupy podmiotów prowadzących działalność w sektorze ubezpieczeniowym oraz podmiotów prowadzących działalność w sektorze bankowym i w sektorze usług inwestycyjnych jest znacząca w rozumieniu art. 6 ust. 2 lub 3.
+
+” ;
+
+### 3)
+
+po art. 4 dodaje się art. 4a w brzmieniu:
+
+„
+
+### Art. 4a.
+
+### 1.
+
+Krajowy organ nadzoru wyraża ocenę, o której mowa w art. 3 pkt 12, w formie decyzji. Od tej decyzji nie przysługuje odwołanie.
+
+### 2.
+
+Podmiot uznany za podmiot dominujący może zwrócić się do krajowego organu nadzoru o ponowne rozpatrzenie sprawy.
+
+### 3.
+
+Od decyzji krajowego organu nadzoru rozstrzygającej wniosek o ponowne rozpatrzenie sprawy podmiot uznany za podmiot dominujący może wnieść skargę do sądu administracyjnego w terminie 14 dni od dnia doręczenia decyzji.
+
+” ;
+
+### 4)
+
+w art. 6 po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Podmiot wymieniony w art. 3 pkt 3 lit. g-i zalicza się do tego sektora, do którego należy on w ramach grupy. Jeżeli podmiot ten nie należy wyłącznie do jednego sektora w ramach grupy, zalicza się go do najmniej istotnego sektora w konglomeracie finansowym.
+
+” ;
+
+### 5)
+
+po art. 6 dodaje się art. 6a w brzmieniu:
+
+„
+
+### Art. 6a.
+
+Koordynator może, jeżeli jest to szczególnie przydatne dla celów nadzoru uzupełniającego, po zasięgnięciu opinii zainteresowanych organów nadzoru, zastąpić lub uzupełnić kryterium, o którym mowa w art. 6 ust. 1, kryterium opartym na:
+
+### 1)
+
+strukturze przychodów lub
+
+### 2)
+
+działalności pozabilansowej, lub
+
+### 3)
+
+sumie zarządzanych aktywów.
+
+” ;
+
+### 6)
+
+w art. 8 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Podmioty wchodzące w skład konglomeratu finansowego podlegają nadzorowi uzupełniającemu do dnia doręczenia podmiotowi wiodącemu informacji, o której mowa w art. 12 ust. 1, albo upływu okresu, na jaki została wydana decyzja, o której mowa w art. 10 ust. 1, albo doręczenia decyzji o uchyleniu tej decyzji.
+
+” ;
+
+### 7)
+
+art. 9 otrzymuje brzmienie:
+
+„
+
+### Art. 9.
+
+### 1.
+
+Jeżeli grupa, spełniając warunek, o którym mowa w art. 6 ust. 2, nie spełnia warunku, o którym mowa w art. 6 ust. 3, albo spełniając warunek, o którym mowa w art. 6 ust. 3, nie spełnia warunku, o którym mowa w art. 6 ust. 2, koordynator, po zasięgnięciu opinii zainteresowanych organów nadzoru, może, w drodze decyzji skierowanej do podmiotu wiodącego, ustalić, że grupa nie będzie podlegała nadzorowi uzupełniającemu albo że nie będą podlegać temu nadzorowi znaczące transakcje wewnątrzgrupowe, znacząca koncentracja ryzyka lub zarządzanie ryzykiem i kontrola wewnętrzna, o których mowa w rozdziale 3 w oddziałach 3-5, jeżeli ze względu na cele nadzoru uzupełniającego byłoby to niewłaściwe lub mylące.
+
+### 2.
+
+O decyzji, o której mowa w ust. 1, koordynator informuje zainteresowane organy nadzoru sprawujące nadzór nad podmiotami wchodzącymi w skład grupy, której dotyczy ta decyzja.
+
+” ;
+
+### 8)
+
+po art. 9 dodaje się art. 9a w brzmieniu:
+
+„
+
+### Art. 9a.
+
+Koordynator, po zasięgnięciu opinii zainteresowanych organów nadzoru, może, w drodze decyzji skierowanej do podmiotu stojącego na czele grupy:
+
+### 1)
+
+w przypadkach określonych w art. 26 pkt 1-3 nie uwzględnić podmiotu wchodzącego w skład grupy przy obliczaniu wskaźników, o których mowa w art. 6, chyba że podmiot przeniósł siedzibę z państwa członkowskiego do państwa niebędącego państwem członkowskim, a istnieją podstawy do stwierdzenia, że podmiot przeniósł siedzibę, aby nie być objętym nadzorem uzupełniającym;
+
+### 2)
+
+uwzględniać osiąganie progów procentowych określonych w art. 6 ust. 1 i 2 przez określony czas, nie dłuższy niż 3 kolejne lata obrotowe, w przypadku gdy istnieją podstawy do stwierdzenia, że osiągnięcie tych progów może mieć charakter przejściowy, albo nie uwzględniać osiągania takich progów, jeżeli w strukturze grupy zachodzą znaczące zmiany;
+
+### 3)
+
+wyłączyć jeden znaczący udział kapitałowy lub większą liczbę znaczących udziałów kapitałowych w najmniej istotnym sektorze, jeżeli udziały te mają decydujące znaczenie dla zidentyfikowania konglomeratu finansowego i łącznie nie są istotne ze względu na cele nadzoru uzupełniającego.
+
+” ;
+
+### 9)
+
+w art. 10 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W okresie, na który wydano decyzję, o której mowa w ust. 1, przejściowe niespełnienie kryteriów określonych w tym przepisie nie wywołuje skutków dla utrzymania nadzoru uzupełniającego.
+
+” ;
+
+### 10)
+
+w art. 12:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Jeżeli grupa przestała spełniać warunki, o których mowa w art. 4 ust. 1, koordynator niezwłocznie informuje o tym podmiot wiodący.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Podmiot wiodący informuje podmioty regulowane wchodzące w skład konglomeratu finansowego o zaprzestaniu spełniania przez grupę warunków, o których mowa w art. 4 ust. 1.
+
+” ;
+
+### 11)
+
+art. 42 otrzymuje brzmienie:
+
+„
+
+### Art. 42.
+
+### 1.
+
+Wchodzące w skład konglomeratu finansowego podmioty regulowane podlegające nadzorowi sprawowanemu przez krajowy organ nadzoru są obowiązane wdrożyć odpowiednie systemy zarządzania ryzykiem oraz systemy kontroli wewnętrznej.
+
+### 2.
+
+Podmiot wiodący przekazuje koordynatorowi na piśmie, w terminie 90 dni od dnia kończącego rok obrotowy, szczegółowe informacje o strukturze prawnej, strukturze zarządzania i strukturze organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego, w tym o podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa w art. 141f ust. 12, 13 i 17 ustawy - Prawo bankowe, i domów maklerskich, o których mowa w art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+
+### 3.
+
+Podmiot wiodący, w terminie 90 dni od dnia kończącego rok obrotowy, udostępnia na swojej stronie internetowej opis struktury prawnej, struktury zarządzania i struktury organizacyjnej podmiotów regulowanych wchodzących w skład konglomeratu finansowego w pełnej formie lub przez zamieszczenie odnośników do informacji równoważnych.
+
+” ;
+
+### 12)
+
+w art. 55 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Porozumienia dotyczące współpracy, o których mowa w ust. 1, są uwzględniane w uzgodnieniach koordynacyjnych zawartych na podstawie regulacji sektorowych.
+
+” ;
+
+### 13)
+
+po art. 55 dodaje się art. 55a w brzmieniu:
+
+„
+
+### Art. 55a.
+
+Odpowiednią koordynację nadzoru uzupełniającego i współpracę z właściwymi organami nadzoru państw niebędących państwami członkowskimi zapewniają kolegia organów nadzoru powołane na podstawie regulacji sektorowych.
+
+” ;
+
+### 14)
+
+w art. 57:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+struktury prawnej grupy, jej struktury zarządzania i struktury organizacyjnej, w tym o podmiotach regulowanych, podmiotach zależnych niebędących podmiotami regulowanymi oraz istotnych oddziałach instytucji kredytowych, o których mowa w art. 141f ust. 12, 13 i 17 ustawy - Prawo bankowe, i domów maklerskich, o których mowa w art. 98a ust. 12a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, wchodzących w skład konglomeratu finansowego, podmiotach posiadających bezpośrednio lub pośrednio akcje lub prawa z akcji podmiotów regulowanych w liczbie zapewniającej osiągnięcie albo przekroczenie 10% ogólnej liczby głosów w organie stanowiącym lub udziału w kapitale zakładowym danego podmiotu regulowanego, a także organów nadzoru właściwych dla podmiotów regulowanych wchodzących w skład grupy;
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Koordynator przekazuje Wspólnemu Komitetowi informacje, o których mowa w ust. 1 pkt 1 i art. 42 ust. 2, niezwłocznie po ich otrzymaniu.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2012 r. poz. 1376](https://api.sejm.gov.pl/eli/acts/DU/2012/1376/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 1:
+
+### a)
+
+pkt 28 i 29 otrzymują brzmienie:
+
+„
+
+### 28)
+
+instytucja dominująca w państwie członkowskim - instytucję kredytową lub bank krajowy, w stosunku do których podmiotem zależnym lub blisko powiązanym w rozumieniu pkt 15 lit. a jest instytucja kredytowa, instytucja finansowa lub bank krajowy oraz które nie są podmiotami zależnymi w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie ani w stosunku do instytucji finansowej lub dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mających siedzibę na terytorium tego samego państwa, ani w stosunku do banku krajowego;
+
+### 29)
+
+podmiot dominujący w holdingu finansowym w państwie członkowskim - podmiot dominujący w holdingu finansowym lub hybrydowym, który nie jest podmiotem zależnym w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie ani w stosunku do instytucji finansowej lub dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mających siedzibę na terytorium tego samego państwa, ani w stosunku do banku krajowego, jeżeli podmiot ten ma siedzibę na terytorium Rzeczypospolitej Polskiej;
+
+” ,
+
+### b)
+
+po pkt 29a dodaje się pkt 29b w brzmieniu:
+
+„
+
+### 29b)
+
+dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim - dominujący podmiot nieregulowany w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym, który nie jest podmiotem zależnym w stosunku do instytucji kredytowej działającej na podstawie zezwolenia udzielonego w tym samym państwie ani w stosunku do dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mającego siedzibę na terytorium tego samego państwa, ani w stosunku do banku krajowego, jeżeli podmiot ten ma siedzibę na terytorium Rzeczypospolitej Polskiej;
+
+” ,
+
+### c)
+
+pkt 30 i 31 otrzymują brzmienie:
+
+„
+
+### 30)
+
+unijna instytucja dominująca - instytucję dominującą w państwie członkowskim, która nie jest podmiotem zależnym w stosunku do instytucji kredytowej lub banku krajowego ani w stosunku do instytucji finansowej lub dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mających siedzibę na terytorium państwa członkowskiego;
+
+### 31)
+
+unijny podmiot dominujący w holdingu finansowym - podmiot dominujący w holdingu finansowym w państwie członkowskim, który nie jest podmiotem zależnym w stosunku do instytucji kredytowej lub banku krajowego ani w stosunku do instytucji finansowej lub dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mających siedzibę na terytorium państwa członkowskiego;
+
+” ,
+
+### d)
+
+dodaje się pkt 32 w brzmieniu:
+
+„
+
+### 32)
+
+unijna dominująca finansowa spółka holdingowa o działalności mieszanej - dominującą finansową spółkę holdingową o działalności mieszanej w państwie członkowskim, która nie jest podmiotem zależnym w stosunku do instytucji kredytowej lub banku krajowego ani w stosunku do instytucji finansowej lub dominującego podmiotu nieregulowanego w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym mających siedzibę na terytorium państwa członkowskiego.
+
+” ;
+
+### 2)
+
+w art. 141f:
+
+### a)
+
+w ust. 6 pkt 2-7 otrzymują brzmienie:
+
+„
+
+### 2)
+
+podmiotem dominującym wobec banku jest podmiot dominujący w holdingu finansowym w państwie członkowskim, dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim, unijny podmiot dominujący w holdingu finansowym albo unijna dominująca finansowa spółka holdingowa o działalności mieszanej - sprawuje Komisja Nadzoru Finansowego;
+
+### 3)
+
+podmiotem dominującym wobec instytucji kredytowej jest podmiot dominujący w holdingu finansowym w państwie członkowskim, dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim, unijny podmiot dominujący w holdingu finansowym albo unijna dominująca finansowa spółka holdingowa o działalności mieszanej - sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności instytucji kredytowej;
+
+### 4)
+
+unijny podmiot dominujący w holdingu finansowym, unijna dominująca finansowa spółka holdingowa o działalności mieszanej, podmiot dominujący w holdingu finansowym w państwie członkowskim albo dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim jest podmiotem dominującym wobec instytucji kredytowej działającej na podstawie zezwolenia udzielonego w państwie członkowskim - sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności instytucji kredytowej, z państwa, w którym ma siedzibę unijny podmiot dominujący w holdingu finansowym, unijna dominująca finansowa spółka holdingowa o działalności mieszanej, podmiot dominujący w holdingu finansowym w państwie członkowskim albo dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim;
+
+### 5)
+
+unijny podmiot dominujący w holdingu finansowym, unijna dominująca finansowa spółka holdingowa o działalności mieszanej, podmiot dominujący w holdingu finansowym w państwie członkowskim z siedzibą na terytorium Rzeczypospolitej Polskiej albo dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim z siedzibą na terytorium Rzeczypospolitej Polskiej jest podmiotem dominującym wobec banku krajowego lub instytucji kredytowej - sprawuje Komisja Nadzoru Finansowego;
+
+### 6)
+
+instytucje finansowe z siedzibami w różnych państwach członkowskich lub dominujące podmioty nieregulowane w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym z siedzibami na terytorium różnych państw członkowskich są podmiotami dominującymi wobec banku lub instytucji kredytowej działających na podstawie zezwoleń udzielonych w państwach członkowskich, w których mają siedziby te instytucje finansowe lub dominujące podmioty nieregulowane - sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności bankowi lub instytucji kredytowej, które mają najwyższą sumę bilansową;
+
+### 7)
+
+instytucja finansowa lub dominujący podmiot nieregulowany w rozumieniu art. 3 pkt 5 ustawy o nadzorze uzupełniającym jest podmiotem dominującym wobec banku lub instytucji kredytowej działających na podstawie zezwoleń udzielonych w państwach członkowskich innych niż państwo siedziby tej instytucji finansowej lub tego dominującego podmiotu nieregulowanego - sprawuje władza nadzorcza, która udzieliła zezwolenia na prowadzenie działalności bankowi lub instytucji kredytowej, które mają najwyższą sumę bilansową, a bank lub instytucję kredytową uważa się za podmioty zależne od unijnego podmiotu dominującego w holdingu finansowym albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej.
+
+” ,
+
+### b)
+
+ust. 9 otrzymuje brzmienie:
+
+„
+
+### 9.
+
+W celu dokonania uzgodnienia, o którym mowa w ust. 8, właściwe władze nadzorcze mogą zasięgnąć opinii unijnej instytucji dominującej, unijnego podmiotu dominującego w holdingu finansowym, unijnej dominującej finansowej spółki holdingowej o działalności mieszanej albo instytucji kredytowej lub banku, które mają najwyższą sumę bilansową, o których mowa w ust. 6.
+
+” ,
+
+### c)
+
+ust. 11 otrzymuje brzmienie:
+
+„
+
+### 11.
+
+Komisja Nadzoru Finansowego informuje unijną instytucję dominującą, unijny podmiot dominujący w holdingu finansowym, unijną dominującą finansową spółkę holdingową o działalności mieszanej albo bank o najwyższej sumie bilansowej, o których mowa w ust. 6, o sprawowaniu przez siebie nadzoru skonsolidowanego.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej ([Dz. U. z 2013 r. poz. 950](https://api.sejm.gov.pl/eli/acts/DU/2013/950/text.html) i [1289](https://api.sejm.gov.pl/eli/acts/DU/2013/1289/text.html)) w art. 2 w ust. 1 w pkt 5c lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+jest podmiotem zależnym od dominującego podmiotu ubezpieczeniowego lub dominującego podmiotu nieregulowanego w rozumieniu ustawy o nadzorze uzupełniającym, lub zakładu ubezpieczeń mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej, lub zakładu reasekuracji mającego siedzibę w państwie niebędącym państwem członkowskim Unii Europejskiej, lub
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2014 r. poz. 94](https://api.sejm.gov.pl/eli/acts/DU/2014/94/text.html)) w art. 98a:
+
+### 1)
+
+w ust. 2:
+
+### a)
+
+pkt 18 i 19 otrzymują brzmienie:
+
+„
+
+### 18)
+
+firma inwestycyjna dominująca w państwie członkowskim - rozumie się dom maklerski lub zagraniczną firmę inwestycyjną, od której podmiotem zależnym jest firma inwestycyjna, bank lub instytucja finansowa lub która posiada udział kapitałowy w takich podmiotach oraz która nie jest podmiotem zależnym od innej instytucji działającej na podstawie zezwolenia udzielonego w tym samym państwie członkowskim ani od finansowej spółki holdingowej lub dominującego podmiotu nieregulowanego mających siedzibę na terytorium tego samego państwa członkowskiego;
+
+### 19)
+
+finansowa spółka holdingowa dominująca w państwie członkowskim - rozumie się finansową spółkę holdingową działającą na podstawie zezwolenia, która nie jest podmiotem zależnym od instytucji działającej na podstawie zezwolenia udzielonego w tym samym państwie członkowskim ani od finansowej spółki holdingowej lub dominującego podmiotu nieregulowanego mających siedzibę na terytorium tego samego państwa członkowskiego;
+
+” ,
+
+### b)
+
+po pkt 19 dodaje się pkt 19a w brzmieniu:
+
+„
+
+### 19a)
+
+dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim - rozumie się dominujący podmiot nieregulowany, który nie jest podmiotem zależnym od instytucji działającej na podstawie zezwolenia udzielonego w tym samym państwie członkowskim ani od dominującego podmiotu nieregulowanego mającego siedzibę na terytorium tego samego państwa członkowskiego;
+
+” ,
+
+### c)
+
+pkt 20 i 21 otrzymują brzmienie:
+
+„
+
+### 20)
+
+unijna dominująca firma inwestycyjna - rozumie się firmę inwestycyjną dominującą w państwie członkowskim, która nie jest podmiotem zależnym od instytucji, finansowej spółki holdingowej ani dominującego podmiotu nieregulowanego mających siedzibę na terytorium państwa członkowskiego;
+
+### 21)
+
+unijna dominująca finansowa spółka holdingowa - rozumie się finansową spółkę holdingową dominującą w państwie członkowskim, która nie jest podmiotem zależnym od instytucji, finansowej spółki holdingowej ani dominującego podmiotu nieregulowanego mających siedzibę na terytorium państwa członkowskiego;
+
+” ,
+
+### d)
+
+po pkt 21 dodaje się pkt 21a w brzmieniu:
+
+„
+
+### 21a)
+
+unijna dominująca finansowa spółka holdingowa o działalności mieszanej - rozumie się dominującą finansową spółkę holdingową o działalności mieszanej w państwie członkowskim, która nie jest podmiotem zależnym od instytucji, finansowej spółki holdingowej ani dominującego podmiotu nieregulowanego mających siedzibę na terytorium państwa członkowskiego;
+
+” ;
+
+### 2)
+
+w ust. 7 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+podmiotem zależnym od finansowej spółki holdingowej dominującej w państwie członkowskim, dominującej finansowej spółki holdingowej o działalności mieszanej w państwie członkowskim, unijnej dominującej finansowej spółki holdingowej lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej;
+
+” ;
+
+### 3)
+
+w ust. 8 pkt 2-5 otrzymują brzmienie:
+
+„
+
+### 2)
+
+od finansowej spółki holdingowej dominującej w państwie członkowskim, dominującej finansowej spółki holdingowej o działalności mieszanej w państwie członkowskim, unijnej dominującej finansowej spółki holdingowej lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej podmiotem zależnym jest dom maklerski lub zagraniczna firma inwestycyjna, a jednocześnie podmiotami zależnymi w stosunku do tej spółki nie są banki krajowe lub instytucje kredytowe - sprawuje organ nadzoru, który udzielił zezwolenia na prowadzenie działalności tego domu maklerskiego lub tej zagranicznej firmy inwestycyjnej;
+
+### 3)
+
+od finansowej spółki holdingowej dominującej w państwie członkowskim, dominującej finansowej spółki holdingowej o działalności mieszanej w państwie członkowskim, unijnej dominującej finansowej spółki holdingowej lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej podmiotem zależnym jest dom maklerski lub zagraniczna firma inwestycyjna, które uzyskały zezwolenia na prowadzenie działalności w dwóch lub więcej państwach członkowskich, a jednocześnie podmiotem zależnym w stosunku do tej spółki nie jest bank krajowy lub instytucja kredytowa - sprawuje organ nadzoru, który udzielił zezwolenia na prowadzenie działalności tego domu maklerskiego lub tej zagranicznej firmy inwestycyjnej w państwie członkowskim, w którym siedzibę posiada ta spółka;
+
+### 4)
+
+od dwóch lub więcej finansowych spółek holdingowych dominujących w państwach członkowskich, dominujących finansowych spółek holdingowych o działalności mieszanej w państwach członkowskich, unijnych dominujących finansowych spółek holdingowych lub unijnych dominujących finansowych spółek holdingowych o działalności mieszanej, posiadających siedziby w dwóch lub więcej państwach członkowskich, podmiotem zależnym jest dom maklerski lub zagraniczna firma inwestycyjna, które uzyskały zezwolenia na prowadzenie działalności w tych państwach członkowskich, a jednocześnie podmiotem zależnym w stosunku do tej spółki nie jest bank krajowy lub instytucja kredytowa - sprawuje organ nadzoru, który udzielił zezwolenia na prowadzenie działalności tego domu maklerskiego lub tej zagranicznej firmy inwestycyjnej, które mają najwyższą sumę bilansową;
+
+### 5)
+
+podmiotem dominującym wobec dwóch lub więcej domów maklerskich lub zagranicznych firm inwestycyjnych jest finansowa spółka holdingowa dominująca w państwie członkowskim, dominująca finansowa spółka holdingowa o działalności mieszanej w państwie członkowskim, unijna dominująca finansowa spółka holdingowa lub unijna dominująca finansowa spółka holdingowa o działalności mieszanej, która posiada siedzibę w państwie członkowskim innym niż państwo, w którym te domy maklerskie lub te zagraniczne firmy inwestycyjne uzyskały zezwolenia na prowadzenie działalności, a jednocześnie podmiotami zależnymi w stosunku do tej spółki nie są banki krajowe lub instytucje kredytowe - sprawuje organ nadzoru, który udzielił zezwolenia na prowadzenie działalności tego domu maklerskiego lub tej zagranicznej firmy inwestycyjnej, które mają najwyższą sumę bilansową.
+
+” ;
+
+### 4)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+W celu dokonania uzgodnienia, o którym mowa w ust. 9, właściwe organy nadzoru mogą zasięgnąć opinii unijnej dominującej firmy inwestycyjnej, unijnej dominującej finansowej spółki holdingowej, unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, a także tego domu maklerskiego lub tej zagranicznej firmy inwestycyjnej, które mają najwyższą sumę bilansową.
+
+” ;
+
+### 5)
+
+ust. 12 otrzymuje brzmienie:
+
+„
+
+### 12.
+
+Komisja informuje unijną dominującą firmę inwestycyjną, unijną dominującą finansową spółkę holdingową, unijną dominującą finansową spółkę holdingową o działalności mieszanej albo dom maklerski, który ma najwyższą sumę bilansową, o sprawowaniu przez siebie nadzoru w ujęciu skonsolidowanym.
+
+” .
+
+### Art. 5.
+
+### 1.
+
+Do kwartalnych i dodatkowych rocznych sprawozdań finansowych i statystycznych oraz rocznych sprawozdań dotyczących transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej, o których mowa w art. 169 ust. 1, art. 173 ust. 1, art. 223zzd ust. 1 i art. 223zzf ust. 1 ustawy zmienianej w art. 3, sporządzanych za kwartalne lub roczne okresy sprawozdawcze kończące się przed rozpoczęciem pierwszego rocznego okresu sprawozdawczego po dniu wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Zakłady ubezpieczeń i zakłady reasekuracji, których podmiotem dominującym jest dominujący podmiot nieregulowany, objęte nadzorem dodatkowym zgodnie z art. 2 ust. 1 pkt 5c lit. b ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, sporządzają roczne sprawozdania dotyczące transakcji przeprowadzanych w ubezpieczeniowej grupie kapitałowej, o których mowa w art. 173 ust. 1 i art. 223zzf ust. 1 ustawy zmienianej w art. 3, po raz pierwszy za rok kalendarzowy rozpoczynający się po dniu wejścia w życie niniejszej ustawy.
+
+### Art. 6.
+
+Dotychczasowe akty wykonawcze wydane na podstawie art. 148 ust. 8, art. 169 ust. 2, art. 173 ust. 2, art. 223zw ust. 12, art. 223zzd ust. 2 i art. 223zzf ust. 2 ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie nowych aktów wykonawczych wydanych na podstawie art. 148 ust. 8, art. 169 ust. 2, art. 173 ust. 2, art. 223zw ust. 12, art. 223zzd ust. 2 i art. 223zzf ust. 2 ustawy zmienianej w art. 3, nie dłużej jednak niż przez 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 7.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa wdraża częściowo dyrektywę Parlamentu Europejskiego i Rady 2011/89/UE z dnia 16 listopada 2011 r. w sprawie zmiany dyrektyw 98/78/WE, 2002/87/WE, 2006/48/WE i 2009/138/WE w odniesieniu do dodatkowego nadzoru nad podmiotami finansowymi konglomeratu finansowego (Dz. Urz. UE L 326 z 08.12.2011, str. 113). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 22 maja 2003 r. o działalności ubezpieczeniowej oraz ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 157, poz. 1119, z 2009 r. Nr 42, poz. 341, z 2012 r. poz. 1385 oraz z 2013 r. poz. 1036. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1385 i 1529 oraz z 2013 r. poz. 777, 1036, 1289 i 1567.

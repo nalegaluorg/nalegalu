@@ -8,9 +8,9 @@ pos: 624
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz zmianie innych ustaw
+# Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,256 @@ domain: null
 | Data ogłoszenia | 2004-03-04 |
 | Data wydania | 2004-04-20 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040690624) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/624/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/624/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/624) |
 
-**Art. 1.** W ustawie 19 października 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz.U. 2001 57, 603, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 3.** W ustawie 14 grudnia 1994 zatrudnieniu i przeciwdziałaniu bezrobociu (Dz.U. 2003 58, 514, późn. zm. ) 37o:
+### Art. 1.
 
-**Art. 4.** W ustawie 4 września 1997 działach administracji rządowej (Dz.U. 2003 159, 1548, 162, 1568 i 180, 1864) 23:
+W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa ([Dz. U. z 2001 r. Nr 57, poz. 603](https://api.sejm.gov.pl/eli/acts/DU/2001/603/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64, Nr 49, poz. 408, Nr 64, poz. 592, Nr 80, poz. 721 i Nr 122, poz. 1143.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 7.** Umowy zawarte przed dniem wejścia życie niniejszej ustawy, na podstawie przepisów ustawy 1, celu tworzenia miejsc pracy związku restrukturyzacją państwowej gospodarki rolnej, udzielania pomocy byłym pracownikom państwowych przedsiębiorstw gospodarki rolnej i członkom ich rodzin przezwyciężaniu trudnych sytuacji życiowych, szczególności przez wspieranie zatrudnienia socjalnego, określonego odrębnych przepisach, pozostają mocy do ich wygaśnięcia lub rozwiązania.
+### 1)
 
-**Art. 8.** Do 31 grudnia 2004 Agencja Nieruchomości Rolnych przyznaje i wypłaca stypendia dzieciom byłych pracowników państwowych przedsiębiorstw gospodarki rolnej, uczącym się szkołach ponadgimnazjalnych lub kształcącym się szkołach wyższych, oraz finansuje dożywianie tych dzieci szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych na dotychczasowych zasadach.
+w art. 3 ust. 2 otrzymuje brzmienie:
 
-**Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie 20 6 ustawy 1 zachowują moc do wejścia życie nowych przepisów wykonawczych wydanych na podstawie tego artykułu, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od wejścia życie niniejszej ustawy.
+„
 
-**Art. 10.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem 2, który wchodzi życie dniem 1 stycznia 2005
+### 2.
 
+Nadzór nad Agencją sprawuje minister właściwy do spraw Skarbu Państwa, a w zakresie określonym w art. 6 ust. 1 pkt 1, 2 i 7 oraz w zakresie zadań określonych w przepisach o kształtowaniu ustroju rolnego - nadzór nad Agencją sprawuje minister właściwy do spraw rozwoju wsi.
+
+” ;
+
+### 2)
+
+w art. 6 w ust. 1 uchyla się pkt 8 i 9;
+
+### 3)
+
+w art. 20:
+
+### a)
+
+po ust. 5 dodaje się ust. 5a i 5b w brzmieniu:
+
+„
+
+### 5a.
+
+Kwoty stanowiące różnicę między środkami uzyskanymi z gospodarowania mieniem Zasobu w danym roku obrotowym z tytułów, o których mowa w art. 20c ust. 1 pkt 1, a środkami wydatkowanymi na realizację zadań, o których mowa w art. 20 ust. 4 i 5, podlegają przekazaniu przez Agencję do budżetu państwa, w terminie do dnia 30 czerwca roku następnego.
+
+### 5b.
+
+Do zobowiązań Agencji, o których mowa w ust. 5a, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593.](#gloss-0:3:)).
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji i gospodarki finansowej Zasobu, uwzględniając w szczególności odrębność tworzenia i funkcjonowania funduszy własnych Agencji, o których mowa w art. 20b ust. 2, oraz funduszu mienia Zasobu, o którym mowa w art. 20c ust. 2.
+
+” ;
+
+### 4)
+
+w art. 20b w ust. 1:
+
+### a)
+
+w pkt 1 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+środki, o których mowa w art. 20 ust. 4, w kwocie przeznaczonej na realizację zobowiązań określonych w art. 20a ust. 1 i 4,
+
+” ,
+
+### b)
+
+w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+koszty wpłat określonych w art. 20a ust. 1 i 4 oraz koszty obsługi tych wpłat,
+
+” ;
+
+### 5)
+
+w art. 20c:
+
+### a)
+
+w ust. 1 w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+koszty wynikające z przekazania Agencji kwot przeznaczonych na pokrycie kosztów wpłat określonych w art. 20 ust. 5a i w art. 20a ust. 1 i 4 oraz kosztów obsługi tych wpłat,
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Agencja tworzy fundusz mienia Zasobu odzwierciedlający wartość mienia Zasobu pomniejszoną o zobowiązania związane z tym mieniem.
+
+” ;
+
+### 6)
+
+uchyla się art. 20e, 20f i 20g;
+
+### 7)
+
+w art. 22 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Agencja, za zgodą ministra właściwego do spraw Skarbu Państwa, może wykorzystywać mienie Zasobu do ustanawiania zabezpieczeń zaciąganych kredytów, o których mowa w ust. 1, i emisji obligacji, o których mowa w ust. 2. Agencja może w szczególności ustanowić hipotekę na nieruchomościach Zasobu.
+
+” ;
+
+### 8)
+
+w art. 25:
+
+### a)
+
+w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zasady wynagradzania administratora,
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Jeżeli umowa między administratorem a Agencją jest umową o pracę, to może być zawarta również na czas nieokreślony.
+
+” ;
+
+### 9)
+
+w art. 29 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Agencji przysługuje prawo odkupu nieruchomości na rzecz Skarbu Państwa w okresie 5 lat, licząc od dnia jej nabycia od Agencji, z wyjątkiem nieruchomości położonych w granicach specjalnych stref ekonomicznych; prawo odkupu powinno być ujawnione w księdze wieczystej prowadzonej dla danej nieruchomości.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 1996 r. Nr 67, poz. 329](https://api.sejm.gov.pl/eli/acts/DU/1996/329/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966.](#gloss-0:4:)) po art. 91 dodaje się art. 91a w brzmieniu:
+
+„
+
+### Art. 91a.
+
+W ramach programu, o którym mowa w art. 91 ust. 3, przyznawane i wypłacane są stypendia dzieciom byłych pracowników państwowych przedsiębiorstw gospodarki rolnej, uczącym się w szkołach ponadgimnazjalnych lub kształcącym się w szkołach wyższych, a także finansowane jest dożywianie tych dzieci w przedszkolach, szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu ([Dz. U. z 2003 r. Nr 58, poz. 514](https://api.sejm.gov.pl/eli/acts/DU/2003/514/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 122, poz. 1143, Nr 128, poz. 1176, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 142, poz. 1380, Nr 166, poz. 1608, Nr 203, poz. 1966, Nr 210, poz. 2036 i 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 64, poz. 593.](#gloss-0:5:)) w art. 37o:
+
+### 1)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Świadczenia przedemerytalne są finansowane z budżetu państwa, w ramach dotacji dla Funduszu Pracy.
+
+” ;
+
+### 2)
+
+uchyla się ust. 3 i 4.
+
+### Art. 4.
+
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2003 r. Nr 159, poz. 1548](https://api.sejm.gov.pl/eli/acts/DU/2003/1548/text.html), [Nr 162, poz. 1568](https://api.sejm.gov.pl/eli/acts/DU/2003/1568/text.html) i [Nr 190, poz. 1864](https://api.sejm.gov.pl/eli/acts/DU/2003/1864/text.html) oraz z [2004 r. Nr 19, poz. 177](https://api.sejm.gov.pl/eli/acts/DU/2004/177/text.html)) w art. 23:
+
+### 1)
+
+w ust. 1 uchyla się pkt 6 i 7;
+
+### 2)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw rozwoju wsi sprawuje nadzór nad działalnością Agencji Restrukturyzacji i Modernizacji Rolnictwa, Kasy Rolniczego Ubezpieczenia Społecznego, a w zakresie spraw wymienionych w ust. 1 pkt 1 i 4 lit. c oraz pkt 8 - nad działalnością Agencji Nieruchomości Rolnych.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 20 grudnia 2002 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa ([Dz. U. z 2003 r. Nr 6, poz. 64](https://api.sejm.gov.pl/eli/acts/DU/2003/64/text.html)) w art. 7 uchyla się ust. 3.
+
+### Art. 6.
+
+W ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym ([Dz. U. Nr 122, poz. 1143](https://api.sejm.gov.pl/eli/acts/DU/2003/1143/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 uchyla się ust. 2;
+
+### 2)
+
+w art. 10 uchyla się ust. 3.
+
+### Art. 7.
+
+Umowy zawarte przed dniem wejścia w życie niniejszej ustawy, na podstawie przepisów ustawy wymienionej w art. 1, w celu tworzenia miejsc pracy w związku z restrukturyzacją państwowej gospodarki rolnej, udzielania pomocy byłym pracownikom państwowych przedsiębiorstw gospodarki rolnej i członkom ich rodzin w przezwyciężaniu trudnych sytuacji życiowych, w szczególności przez wspieranie zatrudnienia socjalnego, określonego w odrębnych przepisach, pozostają w mocy do dnia ich wygaśnięcia lub rozwiązania.
+
+### Art. 8.
+
+Do dnia 31 grudnia 2004 r. Agencja Nieruchomości Rolnych przyznaje i wypłaca stypendia dzieciom byłych pracowników państwowych przedsiębiorstw gospodarki rolnej, uczącym się w szkołach ponadgimnazjalnych lub kształcącym się w szkołach wyższych, oraz finansuje dożywianie tych dzieci w szkołach podstawowych, gimnazjach i szkołach ponadgimnazjalnych na dotychczasowych zasadach.
+
+### Art. 9.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 6 ustawy wymienionej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie tego artykułu, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 10.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 2005 r.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 115, poz. 1229, Nr 122, poz. 1323 i Nr 154, poz. 1793 i 1800, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676 i Nr 155, poz. 1287 oraz z 2003 r. Nr 6, poz. 64, Nr 49, poz. 408, Nr 64, poz. 592, Nr 80, poz. 721 i Nr 122, poz. 1143. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 28, poz. 153 i Nr 141, poz. 943, z 1998 r. Nr 117, poz. 759 i Nr 162, poz. 1126, z 2000 r. Nr 12, poz. 136, Nr 19, poz. 239, Nr 48, poz. 550, Nr 104, poz. 1104, Nr 120, poz. 1268 i Nr 122, poz. 1320, z 2001 r. Nr 111, poz. 1194 i Nr 144, poz. 1615, z 2002 r. Nr 41, poz. 362, Nr 113, poz. 984, Nr 141, poz. 1185 i Nr 200, poz. 1683 oraz z 2003 r. Nr 6, poz. 65, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 203, poz. 1966. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 90, poz. 844, Nr 122, poz. 1143, Nr 128, poz. 1176, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 142, poz. 1380, Nr 166, poz. 1608, Nr 203, poz. 1966, Nr 210, poz. 2036 i 2037, Nr 223, poz. 2217 i Nr 228, poz. 2255 oraz z 2004 r. Nr 64, poz. 593.

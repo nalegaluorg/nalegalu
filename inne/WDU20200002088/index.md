@@ -1,0 +1,56 @@
+---
+title: "Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 23 listopada 2020 r. zmieniające rozporządzenie w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej"
+address: WDU20200002088
+eli: DU/2020/2088
+publisher: DU
+year: 2020
+pos: 2088
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnejz dnia 23 listopada 2020 r. zmieniające rozporządzenie w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej [1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 2088 |
+| ISAP | WDU20200002088 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-11-23 |
+| Data wydania | 2020-11-25 |
+| Wejście w życie | 2020-12-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/2088/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/2088) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 89 ust. 1 pkt 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2020 r. poz. 505](https://api.sejm.gov.pl/eli/acts/DU/2020/505/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1087](https://api.sejm.gov.pl/eli/acts/DU/2020/1087/text.html) i [1106](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Finansów z dnia 6 lutego 2018 r. w sprawie kandydatów na przewodników psów służbowych oraz psów służbowych w Służbie Celno-Skarbowej ([Dz. U. poz. 358](https://api.sejm.gov.pl/eli/acts/DU/2018/358/text.html)) w § 14 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+W uzasadnionych przypadkach, gdy wystąpią okoliczności uniemożliwiające przeprowadzenie weryfikacji, o której mowa w ust. 1, może zostać ona przeprowadzona w innym terminie niż określony w ust. 1, nie później jednak niż w terminie 2 lat od:
+
+### 1)
+
+ostatniej weryfikacji albo
+
+### 2)
+
+ukończenia przez psa szkolenia podstawowego, w przypadku gdy pies nie był dotychczas poddany weryfikacji.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719).

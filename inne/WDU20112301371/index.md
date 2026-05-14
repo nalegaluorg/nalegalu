@@ -8,11 +8,9 @@ pos: 1371
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi
-
-*USTAWA z dnia 16 września 2011 r.*
+# Ustawa z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej [1) Niniejsza ustawa wdraża decyzję ramową Rady 2006/960/WSiSW z dnia 18 grudnia 2006 r. w sprawie uproszczenia wymiany informacji i danych wywiadowczych między organami ścigania państw członkowskich Unii Europejskiej (Dz. Urz. UE L 386 z 29.12.2006, str. 89) i decyzję ramową Rady 2008/977/WSiSW z dnia 27 listopada 2008 r. w sprawie ochrony danych osobowych przetwarzanych w ramach współpracy policyjnej i sądowej w sprawach karnych (Dz. Urz. UE L 350 z 30.12.2008, str. 60) oraz dostosowuje przepisy do decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia w państwach członkowskich w dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem (Dz. Urz. UE L 332 z 18.12.2007, str. 103) oraz decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,556 +22,1182 @@ domain: null
 | Data ogłoszenia | 2011-09-16 |
 | Data wydania | 2011-10-27 |
 | Ostatnia zmiana | 2026-03-18 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301371) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/1371/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/1371) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Punkt kontaktowy](#chpt_2) [Rozdział 3 - Warunki i zasady wymiany informacji](#chpt_3) [Rozdział 4 - Ochrona danych osobowych](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących](#chpt_5) [Rozdział 6 - Przepisy przejściowe i końcowe](#chpt_6)
 
-1. Ustawa określa:
+TOC
 
-- **1)** zasady i warunki wymiany informacji z organami ścigania państw członkowskich Unii Europejskiej, organami ścigania państw trzecich, agencjami Unii Europejskiej, organizacjami międzynarodowymi w celu rozpoznawania, wykrywania lub zwalczania przestępstw lub przestępstw skarbowych, w tym zagrożeń dla bezpieczeństwa i porządku publicznego oraz zapobiegania takim przestępstwom i zagrożeniom, a także ścigania sprawców przestępstw lub przestępstw skarbowych;
-- **2)** podmioty uprawnione do wymiany informacji z podmiotami, o których mowa w pkt 1;
-- **3)** zasady i sposób działania oraz zadania punktu kontaktowego do wymiany informacji między podmiotami uprawnionymi a podmiotami, o których mowa w pkt 1.
+## Treść ustawy
 
-2. Podmiotami uprawnionymi do wymiany informacji z podmiotami, o których mowa w ust. 1 pkt 1, są:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu oraz ustawę z dnia 13 lipca 2006 r. o dokumentach paszportowych.](#gloss-0:2:)
 
-- **1)** Agencja Bezpieczeństwa Wewnętrznego;
-- **2)** Centralne Biuro Antykorupcyjne;
-- **2a)** Biuro Nadzoru Wewnętrznego;
-- **2b)** (uchylony)
-- **3)** Policja;
-- **4)** Krajowa Administracja Skarbowa;
-- **5)** Straż Graniczna;
-- **6)** (uchylony)
-- **7)** Żandarmeria Wojskowa;
-- **8)** Służba Ochrony Państwa.
+### Rozdział 1 Przepisy ogólne
 
-3. Ustawę stosuje się również do wymiany oraz przetwarzania informacji:
+### Art. 1.
 
-- **1)** (uchylony)
-- **2)** w sposób całkowicie lub częściowo zautomatyzowany, zgromadzonych w zbiorach danych referencyjnych, w szczególności obejmujących dane o wynikach analizy kwasu deoksyrybonukleinowego (DNA), oraz w zbiorach danych daktyloskopijnych;
-- **3)** uzyskanych przez podmioty, o których mowa w ust. 2, od Generalnego Inspektora Informacji Finansowej, obejmujących informacje finansowe, o których mowa w art. 2 ust. 2 pkt 10a ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2025 r. poz. 644 i 1669), oraz analizy finansowe, o których mowa w art. 2 ust. 2 pkt 1a tej ustawy.
+### 1.
 
-4. Ustawa nie narusza przepisów o pomocy prawnej w sprawach karnych oraz postanowień umów międzynarodowych dotyczących współpracy w sprawach zapobiegania przestępczości, jej zwalczania oraz współdziałania na terenach przygranicznych.
+Ustawa określa zasady i warunki wymiany informacji z organami ścigania państw członkowskich Unii Europejskiej w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania oraz przetwarzania informacji, a także podmioty uprawnione w tych sprawach.
 
-**Art. 2.**
+### 2.
 
-1. Przepisy ustawy stosuje się odpowiednio do wymiany informacji przez krajowe biuro do spraw odzyskiwania mienia, o którym mowa w decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia w państwach członkowskich w dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem (Dz. Urz. UE L 332 z 18.12.2007, str. 103).
+Podmiotami uprawnionymi do wymiany informacji z organami ścigania państw członkowskich Unii Europejskiej w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych, zapobiegania przestępczości i jej zwalczania oraz przetwarzania informacji są:
 
-2. Podmiotami uprawnionymi do wymiany informacji za pośrednictwem krajowego biura do spraw odzyskiwania mienia są podmioty, o których mowa w art. 1 ust. 2, oraz:
+### 1)
 
-- **1)** minister właściwy do spraw finansów publicznych;
-- **2)** (uchylony)
-- **3)** (uchylony)
-- **4)** prokurator.
+Agencja Bezpieczeństwa Wewnętrznego;
 
-**Art. 2a.**
+### 2)
 
-1. Przepisy ustawy stosuje się odpowiednio do wymiany informacji przez podmioty, o których mowa w art. 1 ust. 2, z wyznaczonymi właściwymi organami w celu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.
+Centralne Biuro Antykorupcyjne;
 
-2. W ramach wymiany informacji, o której mowa w ust. 1, podmioty, o których mowa w art. 1 ust. 2, mogą przekazywać wyznaczonym właściwym organom informacje finansowe, o których mowa w art. 2 ust. 2 pkt 10a ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, oraz analizy finansowe, o których mowa w art. 2 ust. 2 pkt 1a tej ustawy, a także występować do wyznaczonych właściwych organów o przekazanie informacji pochodzących od jednostki analityki finansowej z państwa pochodzenia tego organu.
+### 3)
 
-**Art. 3.** Ilekroć w ustawie jest mowa o:
+Policja;
 
-#### Rozdział 2 Punkt kontaktowy
+### 4)
 
-**Art. 4.**
+Służba Celna;
 
-1. W ramach struktury Komendy Głównej Policji wyznacza się komórkę organizacyjną pełniącą funkcję punktu kontaktowego do wymiany informacji między podmiotami uprawnionymi a podmiotami, o których mowa w art. 1 ust.1 pkt 1, zwaną dalej „punktem kontaktowym”.
+### 5)
 
-1a. Szefa punktu kontaktowego powołuje i odwołuje Komendant Główny Policji.
+Straż Graniczna;
 
-1b. Komendant Główny Policji organizuje i wyposaża punkt kontaktowy w sposób pozwalający na efektywne i skuteczne wykonywanie zadań, o których mowa w art. 5.
+### 6)
 
-1c. Punkt kontaktowy działa całodobowo przez 7 dni w tygodniu.
+organy kontroli skarbowej;
 
-1d. Podmioty uprawnione współdziałają, w ramach swoich kompetencji, z punktem kontaktowym w zakresie niezbędnym do realizacji jego zadań.
+### 7)
 
-2. Dopuszcza się bezpośrednią wymianę informacji z pominięciem punktu kontaktowego między przedstawicielami uprawnionych podmiotów a podmiotów, o których mowa w art. 1 ust. 1 pkt 1, podczas prowadzonych wspólnych patroli, spotkań operacyjnych lub innych operacji transgranicznych.
+Żandarmeria Wojskowa.
 
-3. Dopuszcza się bezpośrednią wymianę informacji z pominięciem punktu kontaktowego między przedstawicielami uprawnionych podmiotów a podmiotów, o których mowa w art. 1 ust. 1 pkt 1, w ramach:
+### 3.
 
-- **1)** współpracy na terenach przygranicznych, w tym realizowanej przez międzynarodowe centra współpracy;
-- **2)** wykonywania zadań oficera łącznikowego podmiotu uprawnionego za granicą lub oficera łącznikowego wchodzącego w skład polskiego biura łącznikowego przy Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol).
+Ustawę stosuje się również do wymiany oraz przetwarzania informacji:
 
-4. Punkt kontaktowy może upoważnić podmiot uprawniony do bezpośredniej wymiany informacji z podmiotami, o których mowa w art. 1 ust. 1 pkt 1, lub punktem kontaktowym państwa członkowskiego Unii Europejskiej. W upoważnieniu punkt kontaktowy określa warunki, zasady i sposób takiej wymiany.
+### 1)
 
-5. Ustawa nie narusza przepisów odrębnych o organizacji i zadaniach innych punktów kontaktowych niż wymieniony w ust. 1.
+z organami ścigania państw niebędących państwami członkowskimi Unii Europejskiej, które stosują przepisy dorobku Schengen;
 
-**Art. 5.** Do zadań punktu kontaktowego należy:
+### 2)
 
-**Art. 6.**
+w sposób całkowicie lub częściowo zautomatyzowany, zgromadzonych w zbiorach danych referencyjnych, w szczególności obejmujących dane o wynikach analizy kwasu dezoksyrybonukleinowego (DNA), oraz w zbiorach danych daktyloskopijnych.
 
-1. Punkt kontaktowy, w celu realizacji swoich zadań, posiada bezpośredni dostęp do:
+### 4.
 
-- **1)** Krajowego Systemu Informacyjnego Policji;
-- **2)** rejestru PESEL;
-- **3)** centralnej ewidencji pojazdów;
-- **4)** centralnej ewidencji kierowców;
-- **5)** krajowego zbioru rejestrów, ewidencji i wykazu w sprawach cudzoziemców;
-- **6)** Krajowego Rejestru Karnego;
-- **7)** Krajowego Rejestru Sądowego;
-- **8)** Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej;
-- **9)** ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych;
-- **10)** Rejestru Dokumentów Paszportowych;
-- **11)** Centralnej Bazy Danych Osób Pozbawionych Wolności;
-- **12)** danych udostępnianych za pośrednictwem Krajowego Systemu Informatycznego;
-- **13)** Systemu Informacji Finansowej;
-- **14)** Systemu Rejestracji Broni.
+Ustawa nie narusza przepisów o pomocy prawnej w sprawach karnych oraz postanowień umów międzynarodowych dotyczących współpracy w sprawach zapobiegania przestępczości, jej zwalczania oraz współdziałania na terenach przygranicznych.
 
-2. Punkt kontaktowy posiada pośredni dostęp do zbiorów danych zawierających informacje o wynikach analizy kwasu deoksyrybonukleinowego (DNA) oraz zbiorów danych daktyloskopijnych prowadzonych na podstawie przepisów ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366).
+### Art. 2.
 
-3. Punkt kontaktowy posiada pośredni dostęp do zbiorów danych i rejestrów, administrowanych przez podmioty uprawnione, o których mowa w art. 1 ust. 2, w zakresie niezbędnym do realizacji jego zadań.
+### 1.
 
-**Art. 7.** Punkt kontaktowy może na zasadach określonych w ustawie wymieniać informacje zgromadzone w Krajowym Centrum Informacji Kryminalnych, przekazane przez podmioty, o których mowa w art. 1 ust. 2.
+Przepisy ustawy stosuje się odpowiednio do wymiany informacji przez krajowe biuro do spraw odzyskiwania mienia, o którym mowa w decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia w państwach członkowskich w dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem ([Dz. Urz. UE L 332 z 18.12.2007, str. 103](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-**Art. 8.**
+### 2.
 
-1. Punkt kontaktowy wymienia informacje z podmiotami, o których mowa w art. 1 ust. 1 pkt 1, dostępnymi kanałami komunikacji wykorzystywanymi w międzynarodowej współpracy policyjnej, w szczególności kanałem komunikacji:
+Podmiotami uprawnionymi do wymiany informacji za pośrednictwem krajowego biura do spraw odzyskiwania mienia są podmioty, o których mowa w art. 1 ust. 2, oraz:
 
-- **1)** Międzynarodowej Organizacji Policji Kryminalnej – Interpol;
-- **2)** wykorzystującym aplikację sieci bezpiecznej wymiany informacji SIENA;
-- **3)** biura SIRENE.
+### 1)
 
-2. Punkt kontaktowy może przekazywać podmiotom, o których mowa w art. 1 ust. 1 pkt 1, informacje za pośrednictwem oficerów łącznikowych lub innych przedstawicieli podmiotów uprawnionych w podmiotach, o których mowa w art. 1 ust. 1 pkt 1, oraz oficerów łącznikowych lub innych przedstawicieli podmiotów, o których mowa w art. 1 ust. 1 pkt 1, w Rzeczypospolitej Polskiej, z wyłączeniem oficerów łącznikowych, o których mowa w art. 47 ust. 1 Konwencji wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach (Dz. Urz. WE L 239 z 22.09.2000, str. 19, z późn. zm. – Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 2, str. 9, z późn. zm.).
+minister właściwy do spraw finansów publicznych;
 
-**Art. 9.**
+### 2)
 
-1. W punkcie kontaktowym mogą wykonywać swoje obowiązki funkcjonariusze, żołnierze i pracownicy podmiotów uprawnionych. Sposób ich współdziałania określa się w odrębnych porozumieniach zawieranych między Komendantem Głównym Policji a kierownikiem podmiotu uprawnionego odpowiedzialnego za wymianę informacji z punktem kontaktowym.
+Generalny Inspektor Informacji Finansowej;
 
-2. Osoba delegowana do wykonywania zadań w punkcie kontaktowym posiada znajomość języka angielskiego na poziomie komunikatywnym oraz wiedzę z zakresu prawa Unii Europejskiej i prawa krajowego, istotnego dla działania punktu kontaktowego, w tym z zakresu ochrony danych osobowych.
+### 3)
 
-3. W skład punktu kontaktowego wchodzą przedstawiciele:
+izby i urzędy skarbowe;
 
-- **1)** Jednostki Krajowej Europolu wyznaczonej na podstawie art. 7 ust. 2 rozporządzenia (UE) 2016/794;
-- **2)** biura SIRENE, o którym mowa w art. 35 ust. 1 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355 oraz z 2024 r. poz. 1688);
-- **3)** Krajowego Biura Interpolu wyznaczonego zgodnie z art. 32 Statutu Międzynarodowej Organizacji Policji Kryminalnej – Interpol, przyjętego w Wiedniu dnia 13 czerwca 1956 r. (Dz. U. z 2015 r. poz. 1758).
+### 4)
 
-**Art. 9a.**
+prokurator.
 
-1. Osoby wykonujące obowiązki w punkcie kontaktowym odbywają regularne szkolenia w celu podniesienia kwalifikacji, w szczególności w zakresie:
+### Art. 3.
 
-- **1)** korzystania z narzędzi przetwarzania danych wykorzystywanych w punkcie kontaktowym, w szczególności kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA i systemu zarządzania sprawami;
-- **2)** znajomości i stosowania prawa Unii Europejskiej i prawa krajowego, istotnego dla działania punktu kontaktowego, w tym z zakresu ochrony danych osobowych;
-- **3)** znajomości języka angielskiego na poziomie niezbędnym do wykonywania zadań w punkcie kontaktowym lub wyższym.
+Ilekroć w ustawie jest mowa o:
 
-2. Szkolenia w zakresie, o którym mowa w ust. 1 pkt 1 i 2, zapewnia Komendant Główny Policji.
+### 1)
 
-3. Podmiot uprawniony zapewnia osobom delegowanym do wykonywania zadań w punkcie kontaktowym dostęp do szkoleń w zakresie, o którym mowa w ust. 1 pkt 3.
+anonimizacji - rozumie się przez to przekształcenie danych osobowych w sposób uniemożliwiający przyporządkowanie poszczególnych informacji do określonej lub możliwej do zidentyfikowania osoby fizycznej albo jeżeli przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań;
 
-**Art. 10.** Rada Ministrów określi, w drodze rozporządzenia:
+### 2)
 
-#### Rozdział 3 Warunki i zasady wymiany informacji z organami ścigania państw członkowskich Unii Europejskiej i agencjami Unii Europejskiej
+blokowaniu - rozumie się przez to oznaczanie informacji w celu ograniczenia ich przetwarzania;
 
-**Art. 11.**
+### 3)
 
-1. Podmioty uprawnione, za pośrednictwem punktu kontaktowego, składają wnioski o udzielenie informacji oraz udzielają odpowiedzi na wnioski złożone przez punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania w terminie umożliwiającym punktowi kontaktowemu przekazanie odpowiedzi z zachowaniem terminów, o których mowa w art. 15.
+informacji - rozumie się przez to informacje, w tym dane osobowe, do których pobierania, uzyskiwania, przekazywania, gromadzenia, wykorzystywania i przetwarzania, w celu realizacji swoich zadań ustawowych są uprawnione, na podstawie przepisów odrębnych, podmioty uprawnione;
 
-2. Podmioty uprawnione składają wnioski o udzielenie informacji oraz udzielają odpowiedzi na wnioski, korzystając z kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA, do której dostęp uzyskują we własnym zakresie.
+### 4)
 
-3. Punkt kontaktowy, przesyłając wniosek o udzielenie informacji podmiotowi uprawnionemu, może wyznaczyć termin udzielenia odpowiedzi na wniosek w celu zachowania terminów określonych w art. 15.
+organach ścigania państw członkowskich Unii Europejskiej - rozumie się przez to organy państw członkowskich Unii Europejskiej oraz państw niebędących państwami członkowskimi Unii Europejskiej stosujących przepisy dorobku Schengen, które są uprawnione w tych państwach do wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania;
 
-4. Punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania składają wniosek o udzielenie informacji w języku polskim albo w języku angielskim. Udzielenie informacji następuje w języku, w którym złożono wniosek.
+### 5)
 
-5. Wymiana informacji z punktem kontaktowym państwa członkowskiego Unii Europejskiej lub wyznaczonym organem ścigania odbywa się na takich samych warunkach jak wymiana informacji prowadzona na podstawie prawa krajowego przez podmioty uprawnione w ramach postępowania przygotowawczego lub czynności operacyjno-rozpoznawczych albo innego rodzaju czynności w sprawach o przestępstwa lub przestępstwa skarbowe.
+państwie trzecim - rozumie się przez to państwo niebędące państwem członkowskim Unii Europejskiej i niestosujące przepisy dorobku Schengen;
 
-6. Podmiot uprawniony występuje z wnioskiem o udzielenie informacji, w przypadku gdy:
+### 6)
 
-- **1)** informacje, których dotyczy wniosek o udzielenie informacji, są niezbędne i proporcjonalne dla rozpoznawania, wykrywania lub zwalczania przestępstw lub przestępstw skarbowych, w tym zagrożeń dla bezpieczeństwa i porządku publicznego oraz zapobiegania takim przestępstwom i zagrożeniom, a także ścigania sprawców przestępstw lub przestępstw skarbowych oraz
-- **2)** istnieje uzasadnione przypuszczenie, że informacje, których dotyczy wniosek o udzielenie informacji, znajdują się w posiadaniu państw członkowskich Unii Europejskiej lub agencji Unii Europejskiej, do których kierowany jest wniosek.
+podmiotach uprawnionych - rozumie się przez to podmioty, o których mowa w art. 1 ust. 2 oraz art. 2 ust. 2;
 
-7. Wniosek o udzielenie informacji zawiera:
+### 7)
 
-- **1)** określenie podmiotu uprawnionego składającego wniosek o udzielenie informacji (nazwa, adres, numer telefonu, numer faksu, adres poczty elektronicznej, państwo);
-- **2)** określenie państwa członkowskiego Unii Europejskiej lub agencji Unii Europejskiej, do których jest kierowany wniosek o udzielenie informacji;
-- **3)** datę i godzinę złożenia wniosku o udzielenie informacji;
-- **4)** specyfikację informacji, których dotyczy wniosek o udzielenie informacji, w szczególności:
-    - **a)** określenie rodzaju przestępstwa lub przestępstwa skarbowego lub działalności przestępczej będących przedmiotem prowadzonego postępowania przygotowawczego lub czynności operacyjnorozpoznawczych,
-    - **b)** dane pozwalające na określenie tożsamości osoby, wobec której jest prowadzone postępowanie przygotowawcze lub czynności operacyjnorozpoznawcze dotyczące przestępstwa lub przestępstwa skarbowego będącego podstawą wniosku o udzielenie informacji;
+wstawianiu odnośników - rozumie się przez to oznaczanie przechowywanych danych osobowych, w przypadkach zakwestionowania ich poprawności przez osobę, której dane te dotyczą, którego celem nie jest ograniczenie przetwarzania tych danych w przyszłości;
 
-- **5)** określenie celu, w jakim składa się wniosek o udzielenie informacji, w tym opis przestępstwa lub przestępstwa skarbowego, którego dotyczy ten wniosek;
-- **6)** określenie przyczyn pozwalających przypuszczać, że informacje, których dotyczy wniosek o udzielenie informacji, znajdują się w państwie członkowskim Unii Europejskiej lub agencji Unii Europejskiej, do których kierowany jest wniosek;
-- **7)** określenie związku między celem, w jakim składa się wniosek o udzielenie informacji, a osobą, której one dotyczą;
-- **8)** informację, czy wniosek o udzielenie informacji ma charakter pilny, wraz z uzasadnieniem;
-- **9)** ograniczenia dotyczące wykorzystania informacji zawartej we wniosku o udzielenie informacji do celów innych niż te, z powodu których zostały dostarczone;
-- **10)** inne informacje istotne dla rozpatrzenia wniosku o udzielenie informacji.
+### 8)
 
-8. Podejmując decyzję w przedmiocie uznania wniosku o udzielenie informacji za pilny, podmiot uprawniony uwzględnia, czy informacja, której dotyczy wniosek:
+wymianie - rozumie się przez to przekazywanie, udostępnianie, uzyskiwanie lub otrzymywanie informacji przez organy ścigania państw członkowskich Unii Europejskiej lub podmioty uprawnione.
 
-- **1)** ma zasadnicze znaczenie dla zapobieżenia bezpośredniemu i poważnemu zagrożeniu dla bezpieczeństwa publicznego;
-- **2)** jest niezbędna, aby zapobiec bezpośredniemu zagrożeniu życia lub zdrowia ludzkiego;
-- **3)** jest niezbędna do zastosowania lub utrzymania środków polegających na pozbawieniu wolności;
-- **4)** ma istotne znaczenie dla rozpoznawania, wykrywania lub zwalczania przestępstw lub przestępstw skarbowych, w tym zagrożeń dla bezpieczeństwa i porządku publicznego, oraz zapobiegania takim przestępstwom i zagrożeniom, a także ścigania sprawców przestępstw lub przestępstw skarbowych, a istnieje bezpośrednie ryzyko, że utraci znaczenie, jeżeli nie zostanie udzielona w trybie pilnym.
+### Rozdział 2 Punkt kontaktowy
 
-9. Podmioty uprawnione składają wniosek o udzielenie informacji w języku polskim i w języku angielskim.
+### Art. 4.
 
-10. W przypadku gdy punkt kontaktowy składa wniosek o udzielenie informacji bezpośrednio do wyznaczonego organu ścigania lub udziela informacji na wniosek wyznaczonego organu ścigania, kopię wniosku lub kopię informacji przekazuje punktowi kontaktowemu państwa członkowskiego Unii Europejskiej.
+### 1.
 
-11. W przypadku gdy upoważniony podmiot uprawniony składa wniosek o udzielenie informacji lub udziela informacji bezpośrednio do:
+W ramach struktury Komendy Głównej Policji wyznacza się komórkę organizacyjną pełniącą funkcję punktu kontaktowego do wymiany informacji między podmiotami uprawnionymi a organami ścigania państw członkowskich Unii Europejskiej, zwaną dalej „punktem kontaktowym”.
 
-- **1)** wyznaczonego organu ścigania – kopię wniosku lub kopię informacji przesyła punktowi kontaktowemu oraz punktowi kontaktowemu państwa członkowskiego Unii Europejskiej;
-- **2)** punktu kontaktowego państwa członkowskiego Unii Europejskiej – kopię wniosku lub kopię informacji przesyła punktowi kontaktowemu.
+### 2.
 
-12. Kopii wniosków oraz kopii informacji, o których mowa w ust. 10 i 11, nie przekazuje się punktowi kontaktowemu lub punktowi kontaktowemu państwa członkowskiego Unii Europejskiej w tym samym czasie, w którym są one przedkładane lub udzielane, jeżeli ich przekazanie:
+Ustawa nie narusza przepisów odrębnych o organizacji i zadaniach innych punktów kontaktowych niż wymieniony w ust. 1.
 
-- **1)** mogłoby utrudniać postępowanie przygotowawcze lub czynności operacyjnorozpoznawcze albo innego rodzaju czynności w sprawach o przestępstwa lub przestępstwa skarbowe, które wymagają odpowiedniego poziomu poufności;
-- **2)** mogłoby utrudniać prowadzenie działań antyterrorystycznych w rozumieniu art. 2 pkt 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194);
-- **3)** zagrażałoby bezpieczeństwu osoby fizycznej, w tym osoby biorącej udział w czynnościach określonych w pkt 1.
+### Art. 5.
 
-13. W przypadku gdy informacje, których dotyczy wniosek o udzielenie informacji złożony przez punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania, zostały uzyskane od innego państwa członkowskiego Unii Europejskiej lub państwa trzeciego, informacje te mogą być przekazane innemu państwu członkowskiemu Unii Europejskiej tylko w przypadku, gdy to państwo członkowskie Unii Europejskiej lub państwo trzecie wyrazi na to zgodę, przy zapewnieniu przestrzegania warunków regulujących ich wykorzystanie nałożonych przez to państwo członkowskie Unii Europejskiej lub państwo trzecie.
+Do zadań punktu kontaktowego należy:
 
-**Art. 11a.**
+### 1)
 
-1. Punkt kontaktowy lub upoważniony podmiot uprawniony mogą z własnej inicjatywy przekazać informacje punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania, jeżeli istnieje uzasadnione przypuszczenie, że informacje te przyczynią się do wykrycia i zatrzymania sprawców przestępstw lub przestępstw skarbowych lub zapobieżenia przestępstwu lub przestępstwu skarbowemu na terytorium państwa członkowskiego Unii Europejskiej lub państw trzecich. Przekazanie informacji następuje w języku angielskim. Przepis art. 11 ust. 13 stosuje się.
+przyjmowanie wniosków o udzielenie informacji składanych przez organy ścigania państw członkowskich Unii Europejskiej oraz udzielanie odpowiedzi na te wnioski;
 
-2. Punkt kontaktowy lub upoważniony podmiot uprawniony z własnej inicjatywy przekazują informacje punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania, jeżeli istnieje uzasadnione przypuszczenie, że informacje te przyczynią się do zapobieżenia przestępstwu katalogowemu lub do wykrycia i zatrzymania sprawców tego przestępstwa. Przekazanie informacji następuje w języku angielskim. Przepis art. 11 ust. 13 stosuje się.
+### 2)
 
-3. Informacje, o których mowa w ust. 1 lub 2, podmioty uprawnione przekazują do punktu kontaktowego w celu przekazania do punktu kontaktowego państwa członkowskiego Unii Europejskiej lub wyznaczonego organu ścigania. Przekazanie informacji do punktu kontaktowego następuje w języku polskim i w języku angielskim.
+przekazywanie wniosków o udzielenie informacji składanych przez organy ścigania państw członkowskich Unii Europejskiej podmiotom uprawnionym, zgodnie z ich właściwością, w celu udzielenia odpowiedzi na te wnioski;
 
-4. Informacji, o których mowa w ust. 2, nie przekazuje się w przypadkach, o których mowa w art. 13 ust. 1 pkt 3 i 6.
+### 3)
 
-5. W przypadku udzielania informacji, o których mowa w ust. 1 lub 2, przez punkt kontaktowy bezpośrednio wyznaczonemu organowi ścigania punkt kontaktowy przesyła kopię tych informacji punktowi kontaktowemu państwa członkowskiego Unii Europejskiej.
+przekazywanie organom ścigania państw członkowskich Unii Europejskiej wniosków o udzielenie informacji składanych przez podmioty uprawnione;
 
-6. W przypadku udzielania informacji, o których mowa w ust. 1 lub 2, przez upoważniony podmiot uprawniony bezpośrednio wyznaczonemu organowi ścigania upoważniony podmiot uprawniony przesyła kopię tych informacji punktowi kontaktowemu oraz punktowi kontaktowemu państwa członkowskiego Unii Europejskiej.
+### 4)
 
-7. Kopii informacji, o których mowa w ust. 1 lub 2, nie przekazuje się punktowi kontaktowemu lub punktowi kontaktowemu państwa członkowskiego Unii Europejskiej w przypadkach, o których mowa w art. 11 ust. 12.
+przekazywanie organom ścigania państw członkowskich Unii Europejskiej informacji w przypadku, o którym mowa w art. 11 ust. 1 pkt 2;
 
-**Art. 11b.**
+### 5)
 
-1. Punkt kontaktowy oraz upoważniony podmiot uprawniony, występując z wnioskiem o udzielenie informacji, udzielając informacji na podstawie wniosku punktu kontaktowego państwa członkowskiego Unii Europejskiej lub wyznaczonego organu ścigania lub udzielając informacji z własnej inicjatywy, w przypadku gdy komunikacja dotyczy przestępstw, o których mowa w art. 3 rozporządzenia (UE) 2016/794, każdorazowo oceniają, czy konieczne dla zwalczania i zapobiegania przestępczości jest przekazanie kopii wniosku lub kopii udzielonych informacji Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol), w szczególności w celu zapewnienia współpracy w zakresie zapobiegania i zwalczania poważnej przestępczości, dotykającej co najmniej dwa państwa członkowskie, terroryzmowi i formom przestępczości mającym wpływ na wspólny interes objęty polityką Unii, wymienionym w załączniku I do rozporządzenia (UE) 2016/794.
+koordynowanie wymiany informacji.
 
-2. Punkt kontaktowy oraz upoważniony podmiot uprawniony, przesyłając Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) kopię wniosku o udzielenie informacji lub kopię udzielonych informacji, informują o celach przetwarzania informacji oraz o możliwych ograniczeniach tego przetwarzania, zgodnie z art. 19 rozporządzenia (UE) 2016/794. Przepisy art. 11c stosuje się.
+### Art. 6.
 
-3. Informacje uzyskane od innego państwa członkowskiego Unii Europejskiej lub państwa trzeciego mogą być przekazane Agencji Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) tylko w przypadku, gdy to państwo członkowskie Unii Europejskiej lub państwo trzecie wyrazi na to zgodę, przy zapewnieniu przestrzegania warunków regulujących ich wykorzystanie nałożonych przez to państwo członkowskie Unii Europejskiej lub państwo trzecie. <Art. 11c. 1. Punkt kontaktowy oraz upoważniony podmiot uprawniony składają wnioski o udzielenie informacji, udzielają informacji oraz przekazują informacje, korzystając z kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA.
+### 1.
 
-2. Punkt kontaktowy oraz upoważniony podmiot uprawniony, składając wniosek o udzielenie informacji oraz udzielając informacji, mogą skorzystać z innego dostępnego kanału komunikacji wykorzystywanego w międzynarodowej współpracy policyjnej, w przypadku gdy:
+Punkt kontaktowy, w celu realizacji swoich zadań, posiada bezpośredni dostęp do:
 
-- **1)** wymiana informacji wymaga zaangażowania państw trzecich lub organizacji międzynarodowych lub zachodzą okoliczności uzasadniające przypuszczenie, że konieczne będzie zaangażowanie w wymianę informacji państw trzecich lub organizacji międzynarodowych, w tym za pośrednictwem kanału komunikacji udostępnianego przez Międzynarodową Organizację Policji Kryminalnej – Interpol;
-- **2)** pilny charakter wniosku o udzielenie informacji wymaga tymczasowego wykorzystania innego dostępnego kanału komunikacji;
-- **3)** ze względów technicznych lub operacyjnych nie jest możliwe wykorzystanie kanału komunikacji wykorzystującego aplikację sieci bezpiecznej wymiany informacji SIENA;
-- **4)** przepisy umów dwustronnych lub wielostronnych w większym stopniu ułatwiają wymianę informacji z organami ścigania państw członkowskich Unii Europejskiej.>
+### 1)
 
-**Art. 12.**
+Krajowego Systemu Informacyjnego Policji;
 
-1. (uchylony) 1a. Podmioty uprawnione, przekazując informacje organom ścigania państw członkowskich Unii Europejskiej, zapewniają, aby wymiana danych osobowych nie była ograniczana ani zakazywana z powodów dotyczących ochrony osób fizycznych w związku z przetwarzaniem danych osobowych.
+### 2)
 
-2. (uchylony)
+rejestru PESEL;
 
-3. Przekazując informację, podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, wskazują organowi ścigania państwa członkowskiego Unii Europejskiej sposób, w jaki może być ona wykorzystana przez ten organ, w szczególności, czy może być ona wykorzystana w postępowaniu karnym.
+### 3)
 
-**Art. 13.**
+centralnej ewidencji pojazdów;
 
-1. Punkt kontaktowy lub upoważniony podmiot uprawniony odmawia przekazania informacji punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania, w przypadku gdy:
+### 4)
 
-- **1)** informacje, których dotyczy wniosek o udzielenie informacji, nie są dostępne punktowi kontaktowemu lub podmiotom uprawnionym;
-- **2)** wniosek o udzielenie informacji nie spełnia wymogów, o których mowa w art. 11 ust. 4, 6, ust. 7 pkt 4–9 lub ust. 8;
-- **3)** organ prowadzący postępowanie karne nie wyraził zgody na przekazanie informacji, jeżeli uzyskanie zgody jest wymagane zgodnie z przepisami prawa krajowego;
-- **4)** informacje, których dotyczy wniosek o udzielenie informacji, stanowią dane osobowe inne niż należące do kategorii danych osobowych wymienionych w sekcji B załącznika II do rozporządzenia (UE) 2016/794;
-- **5)** informacje, których dotyczy wniosek o udzielenie informacji, są niedokładne, niekompletne lub nieaktualne i nie mogą zostać przekazane;
-- **6)** zaistniały okoliczności uzasadniające przypuszczenie, że ujawnienie informacji, których dotyczy wniosek o udzielenie informacji:
-    - **a)** byłoby sprzeczne z podstawowymi interesami bezpieczeństwa narodowego Rzeczypospolitej Polskiej lub naruszałoby te interesy,
-    - **b)** mogłoby utrudniać postępowanie przygotowawcze lub czynności operacyjno-rozpoznawcze albo innego rodzaju czynności w sprawach o przestępstwa lub przestępstwa skarbowe lub zagrażałoby bezpieczeństwu osoby fizycznej, w tym osoby biorącej udział w postępowaniu przygotowawczym lub czynnościach operacyjno-rozpoznawczych albo innego rodzaju czynnościach w sprawach o przestępstwa lub przestępstwa skarbowe,
-    - **c)** spowodowałoby nadmierną szkodę dla chronionych ważnych interesów osoby prawnej;
+centralnej ewidencji kierowców;
 
-- **7)** wniosek o udzielenie informacji dotyczy:
-    - **a)** przestępstwa lub przestępstwa skarbowego zagrożonego w Rzeczypospolitej Polskiej karą pozbawienia wolności do roku lub karą łagodniejszą,
-    - **b)** czynu, który w Rzeczypospolitej Polskiej nie stanowi przestępstwa ani przestępstwa skarbowego;
+### 5)
 
-- **8)** informacje, których dotyczy wniosek o udzielenie informacji, uzyskano od innego państwa członkowskiego Unii Europejskiej lub państwa trzeciego i to państwo członkowskie Unii Europejskiej lub państwo trzecie nie wyraziło zgody na udzielenie informacji.
+Systemu Pobyt;
 
-2. Punkt kontaktowy lub upoważniony podmiot uprawniony oceniają, czy wniosek o udzielenie informacji złożony przez punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania jest zgodny z wymogami określonymi w art. 11 ust. 4, 6, ust. 7 pkt 4–9 lub ust. 8, w szczególności w odniesieniu do tego, czy nie doszło do oczywistego naruszenia praw podstawowych.
+### 6)
 
-3. Odmowa przekazania informacji dotyczy tylko tej części wniosku o udzielenie informacji, w odniesieniu do której zostaną spełnione przesłanki, o których mowa w ust. 1. W pozostałym zakresie informacje przekazuje się punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania zgodnie z wnioskiem o udzielenie informacji.
+Krajowego Rejestru Karnego;
 
-4. W terminach, o których mowa w art. 15, punkt kontaktowy lub upoważniony podmiot uprawniony informuje punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania o odmowie przekazania informacji oraz o powodach tej odmowy.
+### 7)
 
-5. Przed podjęciem decyzji o odmowie przekazania informacji punkt kontaktowy lub upoważniony podmiot uprawniony może niezwłocznie wystąpić do punktu kontaktowego państwa członkowskiego Unii Europejskiej lub wyznaczonego organu ścigania o uzupełnienie wniosku o udzielenie informacji lub przekazanie wyjaśnień w zakresie niezbędnym do rozpatrzenia wniosku. Bieg terminów, o których mowa w art. 15, ulega zawieszeniu od chwili doręczenia wniosku o uzupełnienie lub przekazanie wyjaśnień punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania do chwili dostarczenia wyjaśnień lub uściśleń, o które się zwrócono.
+Krajowego Rejestru Sądowego;
 
-6. Korespondencję w sprawie odmowy przekazania informacji, uzupełnienia wniosku o udzielenie informacji lub przekazania wyjaśnień w zakresie niezbędnym do rozpatrzenia wniosku przekazuje się w języku, w którym złożono wniosek.
+### 8)
 
-**Art. 14.**
+Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej;
 
-1. Jeżeli na podstawie przepisów odrębnych na przekazanie informacji jest wymagana zgoda organu prowadzącego postępowanie karne, podmioty uprawnione zwracają się do organu prowadzącego to postępowanie o wyrażenie zgody na przekazanie informacji.
+### 9)
 
-1a. W przypadku, o którym mowa w ust. 1, punkt kontaktowy lub upoważniony podmiot uprawniony niezwłocznie:
+ogólnokrajowej ewidencji wydanych i unieważnionych dowodów osobistych;
 
-- **1)** informuje punkt kontaktowy państwa członkowskiego Unii Europejskiej lub wyznaczony organ ścigania o konieczności uzyskania zgody organu prowadzącego postępowanie karne na przekazanie informacji oraz, o ile to możliwe, o planowanym terminie uzyskania zgody;
-- **2)** po uzyskaniu zgody organu prowadzącego postępowanie karne przekazuje informacje punktowi kontaktowemu państwa członkowskiego Unii Europejskiej lub wyznaczonemu organowi ścigania.
+### 10)
 
-1b. Zasadność wydania zgody, o której mowa w ust. 1, jest rozpatrywana zgodnie z prawem krajowym.
+Centralnej Ewidencji Wydanych i Unieważnionych Dokumentów Paszportowych;
 
-1c. Organ właściwy do wydania zgody, o której mowa w ust. 1, jest dostępny dla podmiotu uprawnionego całodobowo przez 7 dni w tygodniu. Organ właściwy do wydania zgody może działać w sposób inny niż określony w zdaniu pierwszym, jeżeli zapewni udzielenie odpowiedzi w terminach określonych w art. 15 ust. 1 lub 2.
+### 11)
 
-2. (uchylony)
+Centralnej Bazy Danych Osób Pozbawionych Wolności;
 
-**Art. 15.**
+### 12)
 
-1. Punkt kontaktowy lub upoważniony podmiot uprawniony, na podstawie informacji dostępnych lub informacji przekazanych przez podmioty uprawnione, udzielają odpowiedzi na wniosek o udzielenie informacji punktu kontaktowego państwa członkowskiego Unii Europejskiej lub wyznaczonego organu ścigania niezwłocznie, niepóźniej niż w terminie 7 dni od dnia otrzymania wniosku.
+danych udostępnianych za pośrednictwem Krajowego Systemu Informatycznego.
 
-2. W przypadku wniosku o udzielenie informacji mającego charakter pilny:
+### 2.
 
-- **1)** jeżeli informacje dotyczące wniosku o udzielenie informacji są przetwarzane w zbiorach danych, do których punkt kontaktowy lub upoważniony podmiot uprawniony mają bezpośredni dostęp, punkt kontaktowy lub upoważniony podmiot uprawniony udzielają odpowiedzi na ten wniosek w terminie 8 godzin od chwili jego otrzymania;
-- **2)** jeżeli informacje dotyczące wniosku o udzielenie informacji są przetwarzane w zbiorach danych, do których punkt kontaktowy lub upoważniony podmiot uprawniony mają pośredni dostęp, punkt kontaktowy lub upoważniony podmiot uprawniony udzielają odpowiedzi na ten wniosek w terminie 3 dni od dnia jego otrzymania.
+Punkt kontaktowy posiada pośredni dostęp do zbiorów danych zawierających informacje o wynikach analizy kwasu dezoksyrybonukleinowego (DNA) oraz zbiorów danych daktyloskopijnych prowadzonych na podstawie przepisów ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677, Nr 171, poz. 1016, Nr 205, poz. 1205, Nr 207, poz. 1229 i Nr 217, poz. 1280.](#gloss-0:3:)).
 
-3. Przepisów ust. 1 i 2 nie stosuje się w przypadku, gdy we wniosku o udzielenie informacji został określony dłuższy termin udzielenia odpowiedzi.
+### Art. 7.
 
-**Art. 16.**
+Punkt kontaktowy może na zasadach określonych w ustawie wymieniać informacje zgromadzone w Krajowym Centrum Informacji Kryminalnych, przekazane przez podmioty, o których mowa w art. 1 ust. 2.
 
-1. Podmioty uprawnione przetwarzają informacje uzyskane w wyniku ich wymiany z organami ścigania państw członkowskich Unii Europejskiej zgodnie z celem wskazanym we wniosku o udzielenie informacji.
+### Art. 8.
 
-2. Podmioty uprawnione mogą przetwarzać informacje, o których mowa w ust. 1:
+### 1.
 
-- **1)** (uchylony)
-- **2)** w innych celach, po uzyskaniu pisemnej zgody organu ścigania państwa członkowskiego Unii Europejskiej, który informacje przekazał.
+Punkt kontaktowy wymienia informacje z organami ścigania państw członkowskich Unii Europejskiej dostępnymi kanałami komunikacji wykorzystywanymi w międzynarodowej współpracy policyjnej, w szczególności udostępnianymi przez:
 
-3. (uchylony)
+### 1)
 
-**Art. 17.**
+Międzynarodową Organizację Policji Kryminalnych - INTERPOL;
 
-1. Podmioty uprawnione przetwarzają informacje przekazane przez organ ścigania państwa członkowskiego Unii Europejskiej w sposób przez niego określony oraz na wniosek tego organu informują go o sposobie przetwarzania tych informacji.
+### 2)
 
-2. Jeżeli przy przekazywaniu informacji organ ścigania państwa członkowskiego Unii Europejskiej wyrazi na to zgodę, informacje uzyskane przez podmiot uprawniony mogą zostać wykorzystane w postępowaniu karnym.
+Europejski Urząd Policji - EUROPOL;
 
-**Art. 17a.** Szczegółowe zasady i warunki wymiany informacji z agencjami Unii Europejskiej przez podmioty uprawnione i punkt kontaktowy określają przepisy Unii Europejskiej.
+### 3)
 
-**Art. 18.** (uchylony)
+biura SIRENE.
 
-#### Rozdział 3a Warunki i zasady wymiany informacji z organami ścigania państw trzecich i organizacji międzynarodowych
+### 2.
 
-**Art. 18a.**
+Punkt kontaktowy może przekazywać organom ścigania państw członkowskich Unii Europejskiej informacje za pośrednictwem oficerów łącznikowych lub innych przedstawicieli podmiotów uprawnionych w państwach członkowskich Unii Europejskiej oraz oficerów łącznikowych lub innych przedstawicieli organów ścigania państw członkowskich Unii Europejskiej w Rzeczypospolitej Polskiej.
 
-1. Dane osobowe mogą zostać przekazane przez podmioty uprawnione lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, do państwa trzeciego lub organizacji międzynarodowej, jeżeli:
+### Art. 9.
 
-- **1)** przekazanie jest niezbędne do celów, o których mowa w art. 1 ust. 1 pkt 1;
-- **2)** dane osobowe są przekazywane administratorowi w państwie trzecim lub organizacji międzynarodowej, który jest podmiotem właściwym do realizacji celów, o których mowa w art. 1 ust. 1 pkt 1, z zastrzeżeniem art. 18e ust. 1;
-- **3)** państwo członkowskie Unii Europejskiej, które przekazało dane osobowe, wyraziło uprzednią zgodę na ich przekazanie do państwa trzeciego lub organizacji międzynarodowej, a w przypadku dalszego przekazania tych danych do kolejnego państwa trzeciego lub organizacji międzynarodowej właściwy organ ścigania, który dokonał pierwotnego przekazania, lub inny właściwy organ ścigania tego samego państwa członkowskiego Unii Europejskiej zezwala na dalsze przekazanie po należytym uwzględnieniu całokształtu sprawy;
-- **4)** Komisja Europejska w przypadku, o którym mowa w art. 18b ust. 1, uznała, że państwo trzecie, terytorium lub przynajmniej jeden sektor w tym państwie trzecim, lub dana organizacja międzynarodowa zapewniają odpowiedni stopień ochrony danych osobowych;
-- **5)** w razie braku decyzji Komisji, o której mowa w art. 18b ust. 1:
-    - **a)** zostały zapewnione lub istnieją odpowiednie zabezpieczenia zgodnie z art. 18c – w przypadku gdy nie zostały spełnione warunki, o których mowa w pkt 4,
-    - **b)** ma zastosowanie wyjątek w szczególnych sytuacjach zgodnie z art. 18d – w przypadku gdy nie zostały spełnione warunki, o których mowa w lit. a.
+W punkcie kontaktowym mogą wykonywać swoje obowiązki funkcjonariusze, żołnierze lub pracownicy podmiotów uprawnionych.
 
-2. Przekazanie danych osobowych bez uprzedniej zgody innego państwa członkowskiego Unii Europejskiej, o której mowa w ust. 1 pkt 3, jest dozwolone wyłącznie wtedy, gdy takiej uprzedniej zgody nie da się uzyskać w odpowiednim terminie, a przekazanie jest:
+### Art. 10.
 
-- **1)** niezbędne do zapobieżenia bezpośredniemu, poważnemu zagrożeniu dla bezpieczeństwa publicznego w państwie członkowskim Unii Europejskiej lub państwie trzecim lub
-- **2)** ma istotne znaczenie dla ważnych interesów państwa członkowskiego Unii Europejskiej.
+Rada Ministrów określi, w drodze rozporządzenia:
 
-3. W przypadku zastosowania przepisu ust. 2 państwo członkowskie Unii Europejskiej odpowiadające za wydanie uprzedniej zgody zostaje powiadomione o tym bez zbędnej zwłoki.
+### 1)
 
-4. Podmiot uprawniony lub punkt kontaktowy mogą, o ile przepisy odrębne nie stanowią inaczej, zezwolić organowi ścigania państwa członkowskiego Unii Europejskiej na przekazanie do państwa trzeciego lub organizacji międzynarodowej danych osobowych, uprzednio przekazanych temu organowi przez podmiot uprawniony lub punkt kontaktowy, o ile przekazał on dane osobowe, realizując zadanie określone w art. 5 pkt 1. Jeżeli organ ścigania państwa członkowskiego Unii Europejskiej wystąpił do podmiotu uprawnionego lub punktu kontaktowego o zgodę na dalsze przekazanie danych osobowych uprzednio od nich otrzymanych do kolejnego państwa trzeciego lub organizacji międzynarodowej, organ uprawniony lub punkt kontaktowy może zezwolić na to dalsze przekazanie po należytym uwzględnieniu całokształtu sprawy, w tym:
+szczegółowy sposób działania punktu kontaktowego,
 
-- **1)** wagi czynu zabronionego;
-- **2)** celu, w którym dane osobowe zostały pierwotnie przekazane;
-- **3)** stopnia ochrony danych osobowych w państwie trzecim lub organizacji międzynarodowej, do których dane osobowe są dalej przekazywane.
+### 2)
 
-**Art. 18b.**
+sposób wyznaczania oraz działania komórek organizacyjnych w podmiocie uprawnionym odpowiedzialnym za wymianę informacji z punktem kontaktowym,
 
-1. Dane osobowe mogą zostać przekazane do państwa trzeciego, terytorium lub przynajmniej jednego sektora w tym państwie trzecim, lub danej organizacji międzynarodowej – o ile Komisja Europejska w drodze decyzji uznała, iż państwo trzecie, terytorium lub przynajmniej jeden określony sektor w państwie trzecim, lub dana organizacja międzynarodowa zapewnia odpowiedni stopień ochrony danych osobowych.
+### 3)
 
-2. Wydanie przez Komisję Europejską decyzji stwierdzającej, że państwo trzecie, terytorium lub przynajmniej jeden określony sektor w państwie trzecim, lub organizacja międzynarodowa przestały zapewniać odpowiedni stopień ochrony danych osobowych – nie wpływa na przekazywanie danych osobowych do danego państwa trzeciego, terytorium lub jednego lub więcej określonych sektorów w tym państwie trzecim, lub do danej organizacji międzynarodowej na mocy art. 18c i art. 18d.
+sposób rejestrowania wniosków o udzielenie informacji,
 
-**Art. 18c.**
+### 4)
 
-1. W przypadku braku decyzji Komisji Europejskiej, o której mowa w art. 18b ust. 1, dane osobowe mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej, jeżeli przepisy prawa przewidują odpowiednie zabezpieczenia ochrony danych osobowych.
+sposób wymiany informacji między punktem kontaktowym a organami ścigania państw członkowskich Unii Europejskiej oraz punktem kontaktowym a podmiotami uprawnionymi,
 
-2. W przypadku braku prawnie wiążącego aktu, o którym mowa w ust. 1, dane osobowe mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej, jeżeli administrator danych stwierdził, po przeanalizowaniu wszystkich okoliczności związanych z przekazaniem danych osobowych, że to państwo trzecie lub organizacja międzynarodowa zapewniają odpowiedni poziom zabezpieczenia ochrony danych osobowych, w szczególności poufności przekazanych danych, celu, w którym dane zostały przekazane, lub sposobu ich wykorzystania, tak aby nie zostały one użyte do wydania orzeczenia lub wykonania kary śmierci, lub innego rodzaju okrutnego lub nieludzkiego traktowania lub karania.
+### 5)
 
-3. Administrator danych dokumentuje fakt przekazania danych osobowych w przypadkach, o których mowa w ust. 2, oraz bez zbędnej zwłoki informuje Prezesa Urzędu Ochrony Danych Osobowych o tym fakcie.
+wzory formularzy wykorzystywanych do wymiany informacji
 
-4. Podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, dokumentują, w sposób określony w ust. 5, fakt przekazania danych osobowych do państwa trzeciego lub organizacji międzynarodowej, które zostały przez administratora danych uznane, na podstawie ust. 2, za zapewniające odpowiedni poziom zabezpieczenia ochrony danych osobowych.
+- mając na uwadze wymogi zapewnienia efektywnej wymiany informacji przez punkt kontaktowy oraz ciągłości jego funkcjonowania, wdrożenia systemu rejestrowania informacji w punkcie kontaktowym, w tym czasu przekazania lub otrzymania informacji oraz wniosków o przekazanie informacji, a także uwzględniając uregulowania Unii Europejskiej dotyczące ujednoliconych wzorów formularzy wymiany informacji.
 
-5. Podmiot uprawniony lub punkt kontaktowy, o ile realizował zadanie określone w art. 5 pkt 1, udostępnia Prezesowi Urzędu Ochrony Danych Osobowych, na każde jego żądanie, dokumentację obejmującą:
+### Rozdział 3 Warunki i zasady wymiany informacji
 
-- **1)** datę i godzinę przekazania;
-- **2)** informacje o właściwym organie odbierającym;
-- **3)** uzasadnienie przekazania;
-- **4)** wyliczenie danych osobowych, jakie zostały przekazane.
+### Art. 11.
 
-6. Prezes Urzędu Ochrony Danych Osobowych współpracuje z podmiotami uprawnionymi i punktem kontaktowym w celu prawidłowej realizacji obowiązku zawartego w ust. 2.
+### 1.
 
-**Art. 18d.**
+Podmioty uprawnione, za pośrednictwem punktu kontaktowego:
 
-1. W przypadku braku decyzji Komisji Europejskiej, o której mowa w art. 18b ust. 1, oraz braku odpowiednich zabezpieczeń, o których mowa w art. 18c ust. 1 i 2, dane osobowe lub określona ich kategoria mogą zostać przekazane do państwa trzeciego lub organizacji międzynarodowej wyłącznie pod warunkiem, że przekazanie jest niezbędne:
+### 1)
 
-- **1)** w celu ochrony życia lub zdrowia osoby, której dane dotyczą, lub innej osoby;
-- **2)** w celu zabezpieczenia uzasadnionych interesów osoby, której dane dotyczą, jeżeli przepisy odrębne tak stanowią;
-- **3)** dla zapobieżenia bezpośredniemu, poważnemu ryzyku naruszenia bezpieczeństwa publicznego państwa członkowskiego Unii Europejskiej lub państwa trzeciego;
-- **4)** w indywidualnym przypadku do celów, o których mowa w art. 1 ust. 1 pkt 1;
-- **5)** w indywidualnym przypadku dla ustalenia, dochodzenia lub obrony roszczeń w związku z celami określonymi w art. 1 ust. 1 pkt 1.
+składają wnioski o udzielenie informacji oraz udzielają odpowiedzi na te wnioski w terminie umożliwiającym punktowi kontaktowemu przekazanie odpowiedzi z zachowaniem terminów, o których mowa w art. 15;
 
-2. Danych osobowych nie przekazuje się, jeżeli podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, stwierdziły, że podstawowe prawa i wolności konkretnej osoby, której dane dotyczą, są nadrzędne wobec interesu publicznego przemawiającego za przekazaniem, o którym mowa w ust. 1 pkt 4 i 5.
+### 2)
 
-3. Podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, dokumentują, w sposób określony w ust. 4, fakt przekazania danych osobowych na podstawie ust. 1 do państwa trzeciego lub organizacji międzynarodowej.
+z urzędu przekazują organom ścigania państw członkowskich Unii Europejskiej informacje, jeżeli istnieje uzasadnione przypuszczenie, że informacje te przyczynią się do wykrycia i zatrzymania sprawców przestępstw lub przestępstw skarbowych lub zapobieżenia przestępstwu na terytorium państwa członkowskiego Unii Europejskiej.
 
-4. Podmiot uprawniony lub punkt kontaktowy, o ile realizował zadanie określone w art. 5 pkt 1, udostępnia Prezesowi Urzędu Ochrony Danych Osobowych, na każde jego żądanie, dokumentację obejmującą:
+### 2.
 
-- **1)** datę i godzinę przekazania;
-- **2)** informacje o właściwym organie odbierającym;
-- **3)** uzasadnienie przekazania;
-- **4)** wyliczenie danych osobowych, jakie zostały przekazane.
+Podmioty uprawnione współpracują z punktem kontaktowym, w szczególności przez udzielanie informacji niezbędnych do realizacji jego zadań oraz utrzymywanie stałej łączności.
 
-**Art. 18e.**
+### Art. 12.
 
-1. Z zastrzeżeniem wyjątków przewidzianych w umowach międzynarodowych dotyczących współpracy policyjnej zawartych z państwami trzecimi, dane osobowe w indywidualnych i konkretnych przypadkach mogą zostać przekazane bezpośrednio odbiorcom mającym siedzibę w państwach trzecich jedynie wówczas, gdy spełnione zostały łącznie następujące warunki:
+### 1.
 
-- **1)** przekazanie jest niezbędne do wykonania prawnie określonego zadania podmiotu uprawnionego do celów, o których mowa w art. 1 ust. 1 pkt 1;
-- **2)** podmiot uprawniony stwierdza, że podstawowe prawa i wolności danej osoby, której dane dotyczą, nie są nadrzędne wobec interesu publicznego przemawiającego za przedmiotowym przekazaniem;
-- **3)** podmiot uprawniony uznaje, że przekazanie organowi ścigania państwa trzeciego do celów, o których mowa w art. 1 ust. 1 pkt 1, byłoby nieskuteczne lub niewłaściwe, w szczególności z uwagi na niemożność zachowania odpowiedniego terminu;
-- **4)** organ ścigania państwa trzeciego zostaje o tym poinformowany bez zbędnej zwłoki, chyba że byłoby to nieskuteczne lub niewłaściwe;
-- **5)** podmiot uprawniony informuje odbiorcę o konkretnym celu, w którym dane osobowe mają być wyłącznie przetwarzane przez odbiorcę, pod warunkiem że takie przetwarzanie jest niezbędne.
+Podmioty uprawnione mogą uzależnić przekazanie informacji organowi ścigania państwa członkowskiego Unii Europejskiej od spełnienia przez ten organ określonych warunków, w szczególności od:
 
-2. Podmiot uprawniony lub punkt kontaktowy, o ile realizuje zadanie określone w art. 5 pkt 1, dokumentują fakt przekazania danych osobowych na podstawie ust. 1 oraz niezwłocznie informują Prezesa Urzędu Ochrony Danych Osobowych o tym fakcie.
+### 1)
 
-3. Podmiot uprawniony lub punkt kontaktowy, o ile realizował zadanie określone w art. 5 pkt 1, udostępnia Prezesowi Urzędu Ochrony Danych Osobowych, na każde jego żądanie, dokumentację obejmującą:
+otrzymania dodatkowych informacji w sprawie, w związku z którą organ ten wystąpił o ich udzielenie;
 
-- **1)** datę i godzinę przekazania;
-- **2)** informacje o właściwym organie odbierającym;
-- **3)** uzasadnienie przekazania;
-- **4)** wyliczenie danych osobowych, jakie zostały przekazane.
+### 2)
 
-**Art. 18f.**
+poinformowania o sposobie wykorzystania przekazanych informacji przez ten organ.
 
-1. Do wymiany informacji z państwami trzecimi lub organizacjami międzynarodowymi stosuje się odpowiednio przepisy art. 11 ust. 1, 3, 6, ust. 7 pkt 2– 10, ust. 8 i 9 oraz 13, art. 11a ust. 1–4, art. 12 ust. 3, art. 13 ust. 1–3 oraz 5, art. 14, art. 16 i art. 17.
+### 2.
 
-2. Punkt kontaktowy udziela informacji na wniosek organów ścigania państw trzecich lub organizacji międzynarodowych w terminie wskazanym przez te podmioty lub wynikającym ze standardów przyjętych przez organizacje międzynarodowe.
+W przypadku wymiany danych osobowych podmiot uprawniony może żądać od organu ścigania państwa członkowskiego Unii Europejskiej, niezależnie od warunków określonych w ust. 1, również:
 
-3. Podmioty uprawnione udzielają odpowiedzi na wnioski, o których mowa w ust. 2, w terminie umożliwiającym punktowi kontaktowemu przekazanie odpowiedzi z zachowaniem terminu określonego w ust. 2.
+### 1)
 
-#### Rozdział 4 Ochrona danych osobowych
+usunięcia, blokowania, anonimizacji lub weryfikacji danych osobowych po upływie wskazanych terminów określonych w przepisach odrębnych;
 
-**Art. 19.**
+### 2)
 
-1. Podmioty uprawnione, w tym upoważniony podmiot uprawniony, lub punkt kontaktowy mogą wymieniać dane osobowe z podmiotami, o których mowa w art. 1 ust. 1 pkt 1, po uprzednim zweryfikowaniu ich prawidłowości, aktualności i kompletności oraz w sposób umożliwiający podmiotom, o których mowa w art. 1 ust. 1 pkt 1, dokonanie oceny tych danych w tym zakresie.
+ograniczenia przetwarzania przekazanych danych osobowych, w przypadkach określonych w przepisach o ochronie danych osobowych oraz przepisach odrębnych;
 
-1a. Podmioty uprawnione, w tym upoważniony podmiot uprawniony, lub punkt kontaktowy zapewniają, aby kategorie danych osobowych przekazywanych w podziale na kategorie osób, których dane dotyczą, były ograniczone do kategorii wymienionych w sekcji B załącznika II do rozporządzenia (UE) 2016/794 oraz były niezbędne i proporcjonalne do wniosku.
+### 3)
 
-2. Podmiot uprawniony, w tym upoważniony podmiot uprawniony, lub punkt kontaktowy, który otrzymał dane osobowe od podmiotów, o których mowa w art. 1 ust. 1 pkt 1, bez wniosku, dokonuje niezwłocznie weryfikacji tych danych w zakresie ich przydatności do realizacji celu, w którym dane zostały przekazane.
+zaniechania obowiązku informowania osoby, której dane dotyczą, o przetwarzaniu jej danych osobowych, jeżeli przepisy odrębne przewidują lub dopuszczają przetwarzanie danych tej osoby przez podmiot uprawniony, bez jej wiedzy i zgody.
 
-3. Podmiot uprawniony, w tym upoważniony podmiot uprawniony, lub punkt kontaktowy, który przekazał nieprawdziwe, niekompletne, nieaktualne lub niezupełne dane osobowe albo przekazał te dane z naruszeniem przepisów ustawy, jest obowiązany, bez zbędnej zwłoki, poinformować o tym podmioty, o których mowa w art. 1 ust. 1 pkt 1, oraz sprostować, uzupełnić lub uaktualnić te dane, przekazując dane właściwe, albo, w zależności od okoliczności, o których mowa w art. 21 ust. 1, dane te usunąć.
+### Art. 13.
 
-**Art. 20.**
+### 1.
 
-1. Dane osobowe, uzyskane w wyniku wymiany z podmiotami, o których mowa w art. 1 ust. 1 pkt 1, podmiot uprawniony przechowuje przez okres niezbędny do realizacji celu, w jakim te dane zostały pozyskane, zgodnie z terminami oraz zasadami przetwarzania danych w zbiorach danych administrowanych przez dany podmiot uprawniony.
+Podmioty uprawnione mogą odmówić przekazania informacji organowi ścigania państwa członkowskiego Unii Europejskiej w razie zaistnienia okoliczności uzasadniających przypuszczenie, że ujawnienie tych informacji:
 
-2. Podmioty uprawnione dokonują weryfikacji zgromadzonych danych osobowych i usuwają dane zbędne albo dokonują ich pseudonimizacji.
+### 1)
 
-3. (uchylony)
+mogłoby zagrażać bezpieczeństwu Rzeczypospolitej Polskiej;
 
-4. (uchylony)
+### 2)
 
-5. (uchylony)
+mogłoby utrudniać postępowanie karne lub czynności operacyjno-rozpoznawcze albo innego rodzaju czynności w sprawach o przestępstwa lub przestępstwa skarbowe, albo zagrozić bezpieczeństwu osób biorących w nich udział;
 
-**Art. 21.**
+### 3)
 
-1. Jeżeli podmiot, o którym mowa w art. 1 ust. 1 pkt 1, przy wymianie danych osobowych określił termin ich przechowywania, po upływie którego wymagane jest ich usunięcie lub zweryfikowanie, podmiot uprawniony, który te dane otrzymał i przechowuje, ma obowiązek zachowania takiego terminu.
+byłoby niewspółmierne do osiągnięcia celu, w jakim wystąpiono z wnioskiem.
 
-2. (uchylony)
+### 2.
 
-**Art. 22.** Jeżeli podmiot, o którym mowa w art. 1 ust. 1 pkt 1, przy wymianie danych osobowych określił ograniczenia dotyczące przetwarzania tych danych wynikające z prawa krajowego tego państwa, podmiot uprawniony, który te dane otrzymał i przechowuje, ma obowiązek uwzględnić takie ograniczenia.
+Podmioty uprawnione mogą odmówić przekazania informacji organowi ścigania państwa członkowskiego Unii Europejskiej, jeżeli wniosek dotyczy przestępstwa lub przestępstwa skarbowego zagrożonego w Rzeczypospolitej Polskiej karą pozbawienia wolności do roku lub karą łagodniejszą albo gdy orzeczono taką karę.
 
-**Art. 23.**
+### Art. 14.
 
-1. Podmioty uprawnione, które przekazały lub udostępniły dane osobowe podmiotowi, o którym mowa w art. 1 ust. 1 pkt 1, albo otrzymały takie dane od tego podmiotu, odnotowują lub dokumentują fakt takiego przekazania, udostępnienia lub otrzymania w celu weryfikacji legalności przetwarzanych danych, ich integralności oraz zapewnienia ich bezpieczeństwa.
+### 1.
 
-2. Odnotowanie lub dokumentowanie, o których mowa w ust. 1, odbywa się zgodnie z przepisami dotyczącymi przetwarzania danych w zbiorach danych administrowanych przez dany podmiot uprawniony.
+Jeżeli na przekazanie informacji organowi ścigania państwa członkowskiego Unii Europejskiej jest wymagana zgoda organu prowadzącego postępowanie karne, podmioty uprawnione zwracają się do organu prowadzącego to postępowanie o wyrażenie zgody na przekazanie informacji.
 
-3. Obowiązek niezwłocznego odnotowania lub udokumentowania faktu przekazania, udostępnienia lub otrzymania danych osobowych dotyczy również punktu kontaktowego.
+### 2.
 
-**Art. 23a.**
+Podmioty uprawnione odmawiają przekazania informacji organowi ścigania państwa członkowskiego Unii Europejskiej, jeżeli organ prowadzący postępowanie karne nie wyraził zgody na ich przekazanie.
 
-1. Punkt kontaktowy, przy użyciu systemu teleinformatycznego, prowadzi system zarządzania sprawami, dotyczący co najmniej:
+### Art. 15.
 
-- **1)** wniosków o udzielenie informacji składanych przez podmioty, o których mowa w art. 1 ust. 1 pkt 1 i 2, odmowy udzielenia informacji na taki wniosek, wniosków w sprawie uzupełnienia wniosku o udzielenie informacji lub przekazania wyjaśnień w zakresie niezbędnym do rozpatrzenia wniosku;
-- **2)** wymiany korespondencji między punktem kontaktowym a podmiotami uprawnionymi w sprawie wniosku o udzielenie informacji składanego przez podmioty, o których mowa w art. 1 ust. 1 pkt 1, lub podmioty uprawnione;
-- **3)** informacji udzielonych podmiotom, o których mowa w art. 1 ust. 1 pkt 1.
+### 1.
 
-2. System zarządzania sprawami zawiera minimalne wymogi funkcjonalne, obejmujące co najmniej:
+Punkt kontaktowy, na podstawie dostępnych informacji lub informacji przekazanych przez podmioty uprawnione, udziela odpowiedzi na wniosek organu ścigania państwa członkowskiego Unii Europejskiej w terminie 14 dni od dnia otrzymania wniosku.
 
-- **1)** datę i godzinę złożenia wniosku o udzielenie informacji;
-- **2)** numer referencyjny wniosku o udzielenie informacji;
-- **3)** nazwę i dane kontaktowe podmiotu, o którym mowa w art. 1 ust. 1 pkt 1, składającego wniosek o udzielenie informacji;
-- **4)** termin udzielenia odpowiedzi na wniosek o udzielenie informacji, w tym informację dotyczącą wniosków, które mają charakter pilny;
-- **5)** oznaczenie postępowania, w związku z którym złożono wniosek o udzielenie informacji;
-- **6)** przedmiot wniosku o udzielenie informacji;
-- **7)** wskazanie daty oraz sposobu rozpatrzenia wniosku o udzielenie informacji;
-- **8)** informacje dotyczące korespondencji punktu kontaktowego z podmiotami uprawnionymi, w tym datę i godzinę przekazania wniosku o udzielenie informacji oraz datę i godzinę uzyskania odpowiedzi na wniosek złożony przez podmioty, o których mowa w art. 1 ust. 1 pkt 1;
-- **9)** podstawę odmowy przekazania informacji;
-- **10)** wskazanie daty wystąpienia o uzupełnienie wniosku o udzielenie informacji lub przekazanie wyjaśnień w zakresie niezbędnym do rozpatrzenia wniosku o udzielenie informacji;
-- **11)** wskazanie daty i godziny wystąpienia do organu prowadzącego postępowanie karne o wyrażenie zgody na udzielenie informacji oraz daty i godziny przekazania informacji po uzyskaniu zgody;
-- **12)** numer referencyjny prowadzonej w systemie sprawy.
+### 2.
 
-3. System zarządzania sprawami spełnia wymogi funkcjonalne pozwalające na tworzenie statystyk do celów oceny i monitorowania wymiany informacji z państwami członkowskimi Unii Europejskiej.
+Jeżeli informacje dotyczące wniosku złożonego przez organ ścigania państwa członkowskiego Unii Europejskiej są przetwarzane w zbiorach danych, do których punkt kontaktowy albo podmiot uprawniony mają bezpośredni dostęp, oraz dotyczą przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135 i Nr 217, poz. 1280.](#gloss-0:4:)), punkt kontaktowy udziela odpowiedzi na ten wniosek w terminie 7 dni od dnia jego otrzymania.
 
-4. System teleinformatyczny, przy użyciu którego punkt kontaktowy prowadzi system zarządzania sprawami, zapewnia w szczególności:
+### 3.
 
-- **1)** zabezpieczenia techniczne i organizacyjne uniemożliwiające dostęp osobie nieuprawnionej;
-- **2)** możliwość ustalenia osoby uzyskującej dostęp do systemu zarządzania sprawami oraz wykonanych operacji przetwarzania zgromadzonych w nim danych;
-- **3)** interoperacyjność z kanałem komunikacji wykorzystującym aplikację sieci bezpiecznej wymiany informacji SIENA, kanałem komunikacji udostępnianym przez Międzynarodową Organizację Policji Kryminalnej – Interpol oraz przez Krajowy System Informatyczny (KSI);
-- **4)** możliwość weryfikacji wniosków o udzielenie informacji składanych przez podmioty, o których mowa w art. 1 ust. 1 pkt 1, z informacjami zgromadzonymi w systemie zarządzania sprawami;
-- **5)** monitorowanie wymaganych terminów udzielenia informacji na wniosek podmiotu, o którym mowa w art. 1 ust. 1 pkt 1, lub podmiotu uprawnionego.
+W sprawach niecierpiących zwłoki dotyczących przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, punkt kontaktowy udziela odpowiedzi na wniosek organu ścigania państwa członkowskiego Unii Europejskiej w terminie 8 godzin od chwili jego otrzymania, jeżeli informacje, których wniosek dotyczy, są przetwarzane w zbiorach danych, o których mowa w art. 6.
 
-5. Punkt kontaktowy przetwarza dane osobowe zgromadzone w systemie zarządzania sprawami tak długo, jak jest to konieczne, i proporcjonalnie do realizacji zadań, o których mowa w art. 5, a następnie nieodwracalnie usuwa te dane.
+### 4.
 
-6. Punkt kontaktowy systematycznie, nierzadziej niż co 2 lata, weryfikuje dane zgromadzone w systemie zarządzania sprawami, usuwając dane zbędne. Pierwszą weryfikację punkt kontaktowy przeprowadza niepóźniej niż 6 miesięcy po zakończeniu wymiany informacji.
+Jeżeli udzielenie odpowiedzi w terminach określonych w ust. 1-3 nie jest możliwe, punkt kontaktowy:
 
-**Art. 23b.** Do dnia 1 marca każdego roku Komendant Główny Policji przekazuje Komisji Europejskiej dane dotyczące wymiany informacji z państwami członkowskimi Unii Europejskiej, która miała miejsce w poprzednim roku kalendarzowym, obejmujące w szczególności liczbę:
+### 1)
 
-**Art. 24.** (uchylony)
+niezwłocznie informuje o tym organ ścigania państwa członkowskiego Unii Europejskiej, który złożył wniosek, podając przyczyny nieudzielania odpowiedzi w terminie;
 
-**Art. 25.** (uchylony)
+### 2)
 
-**Art. 25a.**
+udziela odpowiedzi w najkrótszym możliwym terminie, przy czym w sprawach niecierpiących zwłoki - w terminie nie dłuższym niż 3 dni od dnia otrzymania wniosku.
 
-1. Punkt kontaktowy prowadzi rejestr realizowanych za jego pośrednictwem wniosków o informacje:
+### 5.
 
-- **1)** składanych w związku z wymianą informacji, o której mowa w art. 2a ust. 2,
-- **2)** z Systemu Informacji Finansowej składanych przez Agencję Unii Europejskiej ds. Współpracy Organów Ścigania (Europol) – zwanych dalej „wnioskami o informacje”.
+Przepisów ust. 1-3 nie stosuje się, w przypadku gdy we wniosku organu ścigania państwa członkowskiego Unii Europejskiej został oznaczony dłuższy termin udzielenia odpowiedzi.
 
-2. Rejestr, o którym mowa w ust. 1, zawiera:
+### Art. 16.
 
-- **1)** datę złożenia wniosku o informacje;
-- **2)** nazwę i dane kontaktowe podmiotu składającego wniosek o informacje;
-- **3)** imię i nazwisko osoby składającej wniosek o informacje;
-- **4)** imię i nazwisko osoby będącej odbiorcą informacji, jeżeli punkt kontaktowy ma te dane;
-- **5)** oznaczenie postępowania, w związku z którym złożono wniosek o informacje;
-- **6)** przedmiot wniosku o informacje;
-- **7)** wskazanie daty oraz sposobu rozpatrzenia wniosku o informacje.
+### 1.
 
-3. Dane zgromadzone w rejestrze, o którym mowa w ust. 1, są przechowywane przez okres 5 lat od dnia ich zarejestrowania i mogą być wykorzystane wyłącznie do celów weryfikacji zgodności przetwarzania danych osobowych z prawem.
+Podmioty uprawnione przetwarzają informacje uzyskane w wyniku ich wymiany z organami ścigania państw członkowskich Unii Europejskiej w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania.
 
-4. Dane zgromadzone w rejestrze, o którym mowa w ust. 1, są udostępniane do wglądu Prezesowi Urzędu Ochrony Danych Osobowych, na uzasadniony wniosek, w związku z weryfikacją zgodności przetwarzania danych osobowych z prawem.
+### 2.
 
-**Art. 25b.** W zakresie, w jakim w związku z wymianą informacji, o której mowa w art. 2a ust. 2, podmioty, o których mowa w art. 1 ust. 2, dokonują bezpośredniej wymiany informacji z wyznaczonymi właściwymi organami, podmioty te prowadzą rejestry w zakresie wynikającym z art. 25a. Przepisy art. 25a ust. 2–4 stosuje się odpowiednio.
+Podmioty uprawnione mogą przetwarzać informacje, o których mowa w ust. 1:
 
-**Art. 25c.** Organy prowadzące rejestry na podstawie art. 25a i art. 25b przekazują w terminie 4 miesięcy od dnia zakończenia roku kalendarzowego ministrowi właściwemu do spraw finansów publicznych dane za zakończony rok dotyczące informacji zgromadzonych w tych rejestrach, obejmujące w szczególności informacje o:
+### 1)
 
-**Art. 26.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
+jeżeli jest to niezbędne do realizacji ich zadań ustawowych, a cele przetwarzania i przekazania informacji nie są sprzeczne ze sobą;
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+### 2)
 
-**Art. 27.** (pominięty)
+w innych celach, po uzyskaniu pisemnej zgody organu ścigania państwa członkowskiego Unii Europejskiej, który informacje przekazał.
 
-**Art. 28.** (pominięty)
+### 3.
 
-**Art. 29.** (pominięty)
+W przypadkach niecierpiących zwłoki podmioty uprawnione mogą przetwarzać informacje przekazane przez organy ścigania państwa członkowskiego Unii Europejskiej w celu zapobieżenia bezpośredniemu i poważnemu zagrożeniu bezpieczeństwa lub porządku publicznego.
 
-**Art. 30.** (pominięty)
+### Art. 17.
 
-**Art. 31.** (pominięty)
+Podmioty uprawnione przetwarzają informacje przekazane przez organ ścigania państwa członkowskiego Unii Europejskiej w sposób przez niego określony oraz na wniosek tego organu informują go o sposobie przetwarzania tych informacji.
 
-**Art. 32.** (pominięty)
+### Art. 18.
 
-**Art. 33.** (pominięty)
+### 1.
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+Przekazanie informacji otrzymanych od organu ścigania państwa członkowskiego Unii Europejskiej państwu trzeciemu może nastąpić, jeżeli spełnione są łącznie następujące warunki:
 
-**Art. 34.**
+### 1)
 
-1. Administratorzy zbiorów danych, o których mowa w art. 6 ust. 1, zapewnią na własny koszt punktowi kontaktowemu bezpośredni dostęp do tych zbiorów w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+organ, który przekazał lub udostępnił informacje, wyraził na to zgodę;
 
-2. Do czasu uzyskania przez punkt kontaktowy bezpośredniego dostępu do zbiorów danych, o których mowa w art. 6 ust. 1, administratorzy tych zbiorów zapewnią punktowi kontaktowemu dostęp do danych zawartych w tych zbiorach w zakresie niezbędnym do wykonywania zadań przez punkt kontaktowy.
+### 2)
 
-**Art. 35.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 19 ustawy zmienianej w art. 27 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 19 ustawy zmienianej w art. 27 , w brzmieniu nadanym niniejszą ustawą, niedłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+jest to niezbędne w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości lub jej zwalczania;
 
-**Art. 36.** Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+### 3)
 
+organ państwa trzeciego, któremu informacja ma zostać przekazana, jest właściwy w sprawach wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości lub jej zwalczania;
+
+### 4)
+
+państwo trzecie zapewnia odpowiedni poziom ochrony, o którym mowa w art. 47 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497.](#gloss-0:5:));
+
+### 5)
+
+nie zagraża to rażącym naruszeniem praw człowieka.
+
+### 2.
+
+Przekazanie organowi ścigania państwa członkowskiego Unii Europejskiej informacji otrzymanej od państwa trzeciego następuje po wyrażeniu zgody przez organ tego państwa, które przekazało informację.
+
+### 3.
+
+W przypadkach niecierpiących zwłoki, jeżeli jest to niezbędne do zapobieżenia bezpośredniemu i poważnemu zagrożeniu bezpieczeństwa lub porządku publicznego w państwie członkowskim Unii Europejskiej, w państwie niebędącym państwem członkowskim Unii Europejskiej stosującym przepisy dorobku Schengen lub w państwie trzecim, jeżeli nie spowoduje to zagrożenia rażącym naruszeniem praw człowieka, podmioty uprawnione przekazują informacje bez uprzedniej zgody organu, o której mowa w ust. 1 pkt 1 i ust. 2, jeżeli jej uzyskanie w odpowiednim terminie nie jest możliwe. O takim przypadku przekazania informacji podmioty uprawnione niezwłocznie informują organ właściwy do udzielenia zgody.
+
+### 4.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio w przypadku wymiany informacji z Międzynarodową Organizacją Policji Kryminalnych - INTERPOL.
+
+### 5.
+
+Jeżeli państwo trzecie nie daje gwarancji ochrony, o której mowa w ust. 1 pkt 4, wymiana informacji może nastąpić, jeżeli:
+
+### 1)
+
+następuje w uzasadnionym interesie osoby, której dane dotyczą;
+
+### 2)
+
+jest niezbędna ze względu na dobro publiczne;
+
+### 3)
+
+spełnione zostaną warunki określone w art. 47 ust. 2 lub art. 48 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+### Rozdział 4 Ochrona danych osobowych
+
+### Art. 19.
+
+### 1.
+
+Podmioty uprawnione mogą wymieniać dane osobowe z organami ścigania państw członkowskich Unii Europejskiej po uprzednim zweryfikowaniu ich prawidłowości, aktualności i kompletności oraz w sposób umożliwiający organowi ścigania państwa członkowskiego Unii Europejskiej dokonanie oceny tych danych w tym zakresie.
+
+### 2.
+
+Podmiot uprawniony, który otrzymał dane osobowe od organu ścigania państwa członkowskiego Unii Europejskiej bez wniosku, w przypadkach, o których mowa w art. 16 ust. 3, dokonuje niezwłocznie weryfikacji tych danych w zakresie ich przydatności do realizacji celu, w którym dane zostały przekazane.
+
+### 3.
+
+Podmiot uprawniony lub punkt kontaktowy, który przekazał nieprawdziwe, niekompletne, nieaktualne lub niezupełne dane osobowe albo przekazał te dane z naruszeniem przepisów ustawy, jest obowiązany, bez zbędnej zwłoki, poinformować o tym organ ścigania państwa członkowskiego Unii Europejskiej oraz sprostować, uzupełnić lub uaktualnić te dane, przekazując dane właściwe, albo, w zależności od okoliczności, o których mowa w art. 21 ust. 1, dane te usunąć lub zablokować.
+
+### Art. 20.
+
+### 1.
+
+Dane osobowe, uzyskane w wyniku wymiany z organami ścigania państw członkowskich Unii Europejskiej, podmiot uprawniony przechowuje przez okres niezbędny do realizacji celu, w jakim te dane zostały uzyskane lub przez okres niezbędny do wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości lub jej zwalczania, zgodnie z terminami oraz zasadami przetwarzania danych w zbiorach danych administrowanych przez dany podmiot uprawniony.
+
+### 2.
+
+Podmioty uprawnione dokonują weryfikacji zgromadzonych danych osobowych i usuwają dane zbędne albo dokonują ich anonimizacji.
+
+### 3.
+
+Podmioty uprawnione blokują dane osobowe, o których mowa w ust. 1, jeżeli przemawia za tym uzasadniony interes osoby, której dane dotyczą. Zablokowane dane osobowe mogą być przetwarzane tylko w celu, który uniemożliwił ich usunięcie.
+
+### 4.
+
+Jeżeli osoba, której przetwarzane dane dotyczą, kwestionuje poprawność swoich danych osobowych, a nie można o tym rozstrzygnąć, podmiot uprawniony w odniesieniu do tego elementu może wstawić odnośnik.
+
+### Art. 21.
+
+### 1.
+
+Jeżeli organ ścigania państwa członkowskiego Unii Europejskiej przy wymianie danych osobowych określił termin ich przechowywania, po upływie którego wymagane jest ich usunięcie, zablokowanie lub zweryfikowanie, podmiot uprawniony, który te dane otrzymał i przechowuje, ma obowiązek zachowania takiego terminu.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli dane osobowe, uzyskane w wyniku wymiany, są niezbędne w toku czynności operacyjno-rozpoznawczych lub dochodzeniowo-śledczych prowadzonych w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania.
+
+### Art. 22.
+
+Jeżeli organ ścigania państwa członkowskiego Unii Europejskiej przy wymianie danych osobowych określił ograniczenia dotyczące przetwarzania tych danych wynikające z prawa krajowego tego państwa, podmiot uprawniony, który te dane otrzymał i przechowuje, ma obowiązek uwzględnić takie ograniczenia.
+
+### Art. 23.
+
+### 1.
+
+Podmioty uprawnione, które przekazały lub udostępniły dane osobowe organowi ścigania państwa członkowskiego Unii Europejskiej albo otrzymały takie dane od tego organu, odnotowują lub dokumentują fakt takiego przekazania, udostępnienia lub otrzymania w celu weryfikacji legalności przetwarzanych danych, ich integralności oraz zapewnienia ich bezpieczeństwa.
+
+### 2.
+
+Odnotowanie lub dokumentowanie, o których mowa w ust. 1, odbywa się zgodnie z przepisami dotyczącymi przetwarzania danych w zbiorach danych administrowanych przez dany podmiot uprawniony.
+
+### 3.
+
+Obowiązek niezwłocznego odnotowania lub udokumentowania faktu przekazania, udostępnienia lub otrzymania danych osobowych dotyczy również punktu kontaktowego.
+
+### Art. 24.
+
+### 1.
+
+Dane osobowe uzyskane od organu ścigania państwa członkowskiego Unii Europejskiej w wyniku wymiany mogą być przetwarzane bez zgody tego organu:
+
+### 1)
+
+w celach historycznych, statystycznych lub innych naukowych, pod warunkiem ich anonimizacji;
+
+### 2)
+
+za zgodą osoby, której te dane osobowe dotyczą, uzyskanej zgodnie z przepisami prawa państwa członkowskiego Unii Europejskiej, którego organ dane te przekazał lub udostępnił.
+
+### 2.
+
+Dane osobowe uzyskane w wyniku wymiany z organami ścigania państw członkowskich Unii Europejskiej mogą być przetwarzane przez inne podmioty, jeżeli spełnione są łącznie następujące warunki:
+
+### 1)
+
+organ, który przekazał dane osobowe, wyraził zgodę na takie przetwarzanie;
+
+### 2)
+
+przetwarzanie danych osobowych nie narusza praw i wolności osoby, której dane dotyczą, oraz odbywa się w uzasadnionym interesie tej osoby;
+
+### 3)
+
+przetwarzanie danych osobowych jest niezbędne w celu wykrywania i ścigania sprawców przestępstw lub przestępstw skarbowych oraz zapobiegania przestępczości i jej zwalczania lub w celu zapobieżenia bezpośredniemu i poważnemu zagrożeniu bezpieczeństwa lub porządku publicznego albo w realizacji innych ustawowych zadań podmiotów uprawnionych.
+
+### 3.
+
+W przypadkach, o których mowa w ust. 1, podmiot uprawniony określa cel wykorzystania danych osobowych.
+
+### Art. 25.
+
+Wymiana informacji podlega kontroli Generalnego Inspektora Ochrony Danych Osobowych.
+
+### Art. 26.
+
+### 1.
+
+W sprawach nieuregulowanych w tym rozdziale stosuje się przepisy art. 12, art. 14-19, art. 26 ust. 1, art. 27 ust. 2 pkt 2, art. 32 ust. 1 pkt 6, art. 34-39 i art. 49-54a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych oraz przepisy wydane na podstawie art. 39a tej ustawy.
+
+### 2.
+
+Na wniosek osoby, której dane dotyczą, administrator danych jest obowiązany, w terminie 30 dni, poinformować o przysługujących jej prawach oraz udzielić, odnośnie do jej danych osobowych, informacji, o których mowa w art. 32 ust. 1 pkt 1, 2 i 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących
+
+### Art. 27.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677, Nr 171, poz. 1016, Nr 205, poz. 1205, Nr 207, poz. 1229 i Nr 217, poz. 1280.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 20:
+
+### a)
+
+po ust. 2a dodaje się ust. 2aa i 2ab w brzmieniu:
+
+„
+
+### 2aa.
+
+Policja, w celu realizacji zadań ustawowych, może pobierać, uzyskiwać, gromadzić, przetwarzać, sprawdzać i wykorzystywać informacje, w tym dane osobowe, uzyskane lub przetwarzane przez organy innych państw oraz przez Międzynarodową Organizację Policji Kryminalnych - INTERPOL.
+
+### 2ab.
+
+Policja może przekazywać informacje, w tym dane osobowe, służące zapobieganiu lub zwalczaniu przestępczości organom innych państw lub Międzynarodowej Organizacji Policji Kryminalnych - INTERPOL, o których mowa w ust. 2aa, na zasadach i w trybie określonych w ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej ([Dz. U. Nr 230, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.html)), w prawie Unii Europejskiej i w postanowieniach umów międzynarodowych.
+
+” ,
+
+### b)
+
+ust. 2b otrzymuje brzmienie:
+
+„
+
+### 2b.
+
+Informacje, o których mowa w ust. 1, 2a, 2aa i 2ab, dotyczą osób, o których mowa w ust. 2a i mogą obejmować:
+
+### 1)
+
+dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, z tym że dane dotyczące kodu genetycznego obejmują informacje wyłącznie o niekodującej części DNA;
+
+### 2)
+
+odciski linii papilarnych;
+
+### 3)
+
+zdjęcia, szkice i opisy wizerunku;
+
+### 4)
+
+cechy i znaki szczególne, pseudonimy;
+
+### 5)
+
+informacje o:
+
+### a)
+
+miejscu zamieszkania lub pobytu,
+
+### b)
+
+wykształceniu, zawodzie, miejscu i stanowisku pracy oraz sytuacji materialnej i stanie majątku,
+
+### c)
+
+dokumentach i przedmiotach, którymi sprawca się posługuje,
+
+### d)
+
+sposobie działania sprawcy, jego środowisku i kontaktach,
+
+### e)
+
+sposobie zachowania się sprawcy wobec osób pokrzywdzonych.
+
+” ,
+
+### c)
+
+ust. 15 otrzymuje brzmienie:
+
+„
+
+### 15.
+
+Policja w celu zapobieżenia lub wykrycia przestępstw oraz identyfikacji osób może uzyskiwać, gromadzić i przetwarzać informacje, w tym również dane osobowe ze zbiorów prowadzonych na podstawie odrębnych przepisów przez organy władzy publicznej, a w szczególności z Krajowego Rejestru Karnego oraz rejestru PESEL, w tym również ze zbiorów, w których przetwarza się informacje, obejmujące dane osobowe, uzyskane w wyniku wykonywania przez te organy czynności operacyjno-rozpoznawczych. Administratorzy danych gromadzonych w tych rejestrach są obowiązani do nieodpłatnego ich udostępniania.
+
+” ,
+
+### d)
+
+po ust. 16 dodaje się ust. 16a w brzmieniu:
+
+„
+
+### 16a.
+
+Dane osobowe, o których mowa w ust. 2a, 2aa, 2ab i ust. 15, z wyjątkiem danych osobowych, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, Policja może przetwarzać:
+
+### 1)
+
+w innym celu niż ten, w którym dane te zostały pobrane, uzyskane, przekazane, udostępnione lub zgromadzone - jeżeli jest to niezbędne do realizacji zadań ustawowych Policji;
+
+### 2)
+
+w celach historycznych, statystycznych lub innych naukowych - jeżeli dane te zostały zmodyfikowane w sposób uniemożliwiający przyporządkowanie numeru identyfikacyjnego albo określonych cech fizycznych, fizjologicznych, umysłowych, ekonomicznych, kulturowych lub społecznych określonej lub możliwej do zidentyfikowania osobie fizycznej albo przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
+
+” ,
+
+### e)
+
+ust. 17 otrzymuje brzmienie:
+
+„
+
+### 17.
+
+Dane osobowe zebrane w celu wykrycia przestępstwa przechowuje się przez okres niezbędny do realizacji ustawowych zadań Policji. Organy Policji dokonują weryfikacji tych danych po zakończeniu sprawy, w ramach której dane te zostały wprowadzone do zbioru, a ponadto nie rzadziej niż co 10 lat od dnia uzyskania lub pobrania informacji, usuwając zbędne dane.
+
+” ,
+
+### f)
+
+po ust. 17 dodaje się ust. 17a i 17b w brzmieniu:
+
+„
+
+### 17a.
+
+Dane osobowe uznane za zbędne można przekształcić w sposób uniemożliwiający przyporządkowanie poszczególnych informacji osobistych lub rzeczowych do określonej lub możliwej do zidentyfikowania osoby fizycznej albo w taki sposób, iż przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
+
+### 17b.
+
+Dane osobowe, o których mowa w ust. 17, usuwa się, jeżeli organ Policji powziął wiarygodną informację, że:
+
+### 1)
+
+czynu stanowiącego podstawę wprowadzenia informacji do zbioru nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;
+
+### 2)
+
+zdarzenie lub okoliczność, w związku z którymi wprowadzono informacje do zbioru, nie ma znamion czynu zabronionego;
+
+### 3)
+
+osoba, której dane dotyczą, została uniewinniona prawomocnym wyrokiem sądu.
+
+” ,
+
+### g)
+
+ust. 19 otrzymuje brzmienie:
+
+„
+
+### 19.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb gromadzenia, sposoby przetwarzania informacji, w tym danych osobowych, o których mowa w ust. 2a, 2aa i 2ab, w zbiorach danych, rodzaje służb policyjnych uprawnionych do korzystania z tych zbiorów, wzory dokumentów obowiązujących przy przetwarzaniu danych oraz sposób oceny danych pod kątem ich przydatności w prowadzonych postępowaniach, uwzględniając potrzebę ochrony danych przed nieuprawnionym dostępem i przesłanki zaniechania zbierania określonych rodzajów informacji, a w przypadku informacji, o których mowa w ust. 2aa i 2ab, uwzględniając konieczność dostosowania się do wymogów określonych przez organy innych państw lub przez Międzynarodową Organizację Policji Kryminalnych - INTERPOL wskazane w ust. 2aa w związku z pobieraniem lub uzyskiwaniem tych informacji.
+
+” ;
+
+### 2)
+
+po rozdziale 10b dodaje się rozdział 10c w brzmieniu:
+
+„
+
+### Rozdział 10c Punkty kontaktowe wymiany informacji z państwami członkowskimi Unii Europejskiej oraz krajowe biuro do spraw odzyskiwania mienia
+
+### Art. 145j.
+
+### 1.
+
+Komendant Główny Policji wykonuje zadania:
+
+### 1)
+
+krajowego punktu kontaktowego do spraw wymiany danych o profilach DNA, o którym mowa w art. 6 ust. 1 decyzji Rady 2008/615/WSiSW;
+
+### 2)
+
+krajowego punktu kontaktowego do spraw wymiany danych daktyloskopijnych ze zautomatyzowanych systemów identyfikacji daktyloskopijnej, o którym mowa w art. 11 ust. 1 decyzji Rady 2008/615/WSiSW;
+
+### 3)
+
+krajowego punktu kontaktowego do spraw współpracy przy wymianie danych rejestracyjnych pojazdów, o którym mowa w art. 12 ust. 2 decyzji Rady 2008/615/WSiSW;
+
+### 4)
+
+krajowego punktu kontaktowego do spraw wymiany danych osobowych i nieosobowych, o którym mowa w art. 15 decyzji Rady 2008/615/WSiSW;
+
+### 5)
+
+punktu kontaktowego, o którym mowa w art. 17 ust. 1 decyzji Rady 2008/616/WSiSW w sprawie wdrożenia decyzji 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 12).
+
+### 2.
+
+Do zadań krajowego punktu kontaktowego, o którym mowa w ust. 1 pkt 1, należy:
+
+### 1)
+
+udostępnianie punktom kontaktowym państw członkowskich Unii Europejskiej, do automatycznych przeszukań, danych referencyjnych obejmujących wyłącznie profile DNA ustalone na podstawie niekodującej części DNA oraz indywidualne oznaczenia identyfikacyjne ze zautomatyzowanego systemu gromadzenia i przetwarzania profili DNA, działającego w ramach bazy danych DNA, o której mowa w art. 21a, gromadzone w celach wykrywania sprawców przestępstw, ich ścigania, zapobiegania przestępczości lub jej zwalczania, z wyłączeniem danych, co do których uprawnione podmioty zastrzegły, że nie podlegają wymianie międzynarodowej;
+
+### 2)
+
+wykonywanie, na zlecenie podmiotów wymienionych w art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, przeszukań w bazach danych DNA udostępnianych przez punkty kontaktowe do spraw wymiany danych o profilach DNA innych państw członkowskich Unii Europejskiej;
+
+### 3)
+
+współpraca z punktem kontaktowym, o którym mowa w art. 4 ust. 1 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, w zakresie udostępniania, przetwarzania i wymiany danych o profilach DNA.
+
+### 3.
+
+Do zadań krajowego punktu kontaktowego, o którym mowa w ust. 1 pkt 2, należy:
+
+### 1)
+
+udostępnianie punktom kontaktowym państw członkowskich Unii Europejskiej, do automatycznych przeszukań, danych referencyjnych obejmujących wyłącznie dane daktyloskopijne oraz indywidualne oznaczenia identyfikacyjne ze zautomatyzowanego systemu identyfikacji daktyloskopijnej, działającego w ramach Centralnej Registratury Daktyloskopijnej, zgromadzone w celach wykrywania sprawców przestępstw, ich ścigania, zapobiegania przestępczości lub jej zwalczania, z wyłączeniem danych, co do których uprawnione podmioty zastrzegły, że nie podlegają wymianie międzynarodowej;
+
+### 2)
+
+wykonywanie, na zlecenie podmiotów wymienionych w art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, przeszukań w zautomatyzowanych systemach identyfikacji daktyloskopijnej udostępnianych przez punkty kontaktowe do spraw wymiany danych daktyloskopijnych innych państw członkowskich Unii Europejskiej;
+
+### 3)
+
+współpraca z punktem kontaktowym, o którym mowa w art. 4 ust. 1 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, w zakresie udostępniania, przetwarzania i wymiany danych daktyloskopijnych.
+
+### 4.
+
+Do zadań krajowego punktu kontaktowego, o którym mowa w ust. 1 pkt 3, należy:
+
+### 1)
+
+udostępnianie, we współpracy z ministrem właściwym do spraw wewnętrznych, punktom kontaktowym państw członkowskich Unii Europejskiej, do przeszukań, danych lub informacji zawartych w centralnej ewidencji pojazdów, o której mowa w art. 80a ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2005 r. Nr 108, poz. 908](https://api.sejm.gov.pl/eli/acts/DU/2005/908/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210, Nr 208, poz. 1240 i 1241, Nr 222, poz. 1321 i Nr 227, poz. 1367.](#gloss-0:7:)), w celu wykrywania sprawców przestępstw oraz innych czynów zabronionych należących do jurysdykcji sądów lub prokuratury w tych państwach;
+
+### 2)
+
+wykonywanie, na zlecenie podmiotów wymienionych w art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, przeszukań w bazach krajowych danych rejestracyjnych pojazdów udostępnianych przez punkty kontaktowe do spraw wymiany danych o pojazdach innych państw członkowskich Unii Europejskiej;
+
+### 3)
+
+współpraca z punktem kontaktowym, o którym mowa w art. 4 ust. 1 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, oraz z ministrem właściwym do spraw wewnętrznych w zakresie udostępniania, przetwarzania i wymiany danych o pojazdach.
+
+### 5.
+
+Do zadań krajowego punktu kontaktowego, o którym mowa w ust. 1 pkt 4, należy:
+
+### 1)
+
+przekazywanie punktom kontaktowym państw członkowskich Unii Europejskiej informacji, w tym danych osobowych, w związku z istotnymi wydarzeniami o skutkach transgranicznych, otrzymanych od właściwych organów krajowych, do których ustawowych zadań należy realizacja zadań w zakresie zapobiegania przestępczości oraz ochrony bezpieczeństwa i porządku publicznego;
+
+### 2)
+
+otrzymywanie od punktów kontaktowych państw członkowskich Unii Europejskiej informacji, o których mowa w pkt 1, oraz ich przekazywanie właściwym organom krajowym, do których ustawowych zadań należy realizacja zadań w zakresie zapobiegania przestępczości oraz ochrony bezpieczeństwa i porządku publicznego.
+
+### 6.
+
+Zadania, o których mowa w ust. 2 i 3, Komendant Główny Policji wykonuje przy pomocy Centralnego Laboratorium Kryminalistycznego Policji.
+
+### Art. 145k.
+
+### 1.
+
+Komenda Główna Policji wykonuje zadania krajowego biura do spraw odzyskiwania mienia, o którym mowa w art. 1 ust. 1 decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia w państwach członkowskich w dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem ([Dz. Urz. UE L 332 z 18.12.2007, str. 103](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### 2.
+
+Współpraca, w rozumieniu przepisów decyzji Rady 2007/845/WSiSW, między krajowym biurem do spraw odzyskiwania mienia, o którym mowa w ust. 1, a krajowymi biurami ds. odzyskiwania mienia innych państw członkowskich Unii Europejskiej, w szczególności w zakresie wymiany informacji w celu wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem, oraz w zakresie przetwarzania tych informacji, odbywa się na zasadach i warunkach określonych w ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej.
+
+” .
+
+### Art. 28.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2011 r. Nr 116, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2011/675/text.html), [Nr 117, poz. 677](https://api.sejm.gov.pl/eli/acts/DU/2011/677/text.html), [Nr 170, poz. 1015](https://api.sejm.gov.pl/eli/acts/DU/2011/1015/text.html) i [Nr 171, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/2011/1016/text.html)) po art. 147u dodaje się art. 147v w brzmieniu:
+
+„
+
+### Art. 147v.
+
+Komendant Główny Straży Granicznej wykonuje zadania punktu kontaktowego, o którym mowa w art. 17 ust. 1 decyzji Rady 2008/616/WSiSW w sprawie wdrożenia decyzji 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 12).
+
+” .
+
+### Art. 29.
+
+W ustawie z dnia 28 września 1991 r. o kontroli skarbowej ([Dz. U. z 2011 r. Nr 41, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/2011/214/text.html) i [Nr 53, poz. 273](https://api.sejm.gov.pl/eli/acts/DU/2011/273/text.html)) w art. 36e w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+innym organom lub instytucjom, w tym organom lub instytucjom państw obcych - w przypadkach i na zasadach określonych w odrębnych ustawach.
+
+” .
+
+### Art. 30.
+
+W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 26a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli rozstrzygnięcie zostało podjęte podczas zawierania lub wykonywania umowy i uwzględnia wniosek osoby, której dane dotyczą, albo jeżeli zezwalają na to przepisy prawa, które przewidują również środki ochrony uzasadnionych interesów osoby, której dane dotyczą.
+
+” ;
+
+### 2)
+
+w art. 43 w ust. 1 po pkt 2b dodaje się pkt 2c w brzmieniu:
+
+„
+
+### 2c)
+
+przetwarzanych przez właściwie organy na podstawie przepisów o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej,
+
+” ;
+
+### 3)
+
+w art. 47:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Przekazanie danych osobowych do państwa trzeciego może nastąpić, jeżeli państwo docelowe zapewnia na swoim terytorium odpowiedni poziom ochrony danych osobowych.
+
+” ,
+
+### b)
+
+dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Odpowiedni poziom ochrony danych osobowych, o którym mowa w ust. 1, jest oceniany z uwzględnieniem wszystkich okoliczności dotyczących operacji przekazania danych, w szczególności biorąc pod uwagę charakter danych, cel i czas trwania proponowanych operacji przetwarzania danych, kraj pochodzenia i kraj ostatecznego przeznaczenia danych oraz przepisy prawa obowiązujące w danym państwie trzecim oraz stosowane w tym państwie środki bezpieczeństwa i zasady zawodowe.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, gdy przesłanie danych osobowych wynika z obowiązku nałożonego na administratora danych przepisami prawa lub postanowieniami ratyfikowanej umowy międzynarodowej, gwarantującymi odpowiedni poziom ochrony tych danych.
+
+” .
+
+### Art. 31.
+
+W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych ([Dz. U. z 2010 r. Nr 29, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/2010/153/text.html), [Nr 167, poz. 1131](https://api.sejm.gov.pl/eli/acts/DU/2010/1131/text.html), [Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html) i [Nr 229, poz. 1497](https://api.sejm.gov.pl/eli/acts/DU/2010/1497/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4:
+
+### a)
+
+uchyla się pkt 2,
+
+### b)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+gromadzenie informacji kryminalnych - to wprowadzanie do bazy danych informacji kryminalnych otrzymanych od podmiotów zobowiązanych, o których mowa w art. 20, przekazanych w odpowiedzi na zapytanie lub z własnej inicjatywy;
+
+” ,
+
+### c)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+usuwanie informacji kryminalnych - to trwałe zniszczenie informacji kryminalnych w bazach danych lub takie ich przekształcenie, które nie pozwoli na identyfikację informacji w bazach danych;
+
+” ;
+
+### 2)
+
+w art. 6 w pkt 4 średnik zastępuje się kropką i uchyla się pkt 5;
+
+### 3)
+
+w art. 11 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, po uzyskaniu opinii Ministra Sprawiedliwości, Ministra Obrony Narodowej, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw instytucji finansowych oraz Prokuratora Generalnego, przedkłada Prezesowi Rady Ministrów coroczne sprawozdanie z działalności Szefa Centrum wraz z uzyskanymi opiniami oraz własną oceną sprawozdania, w terminie do dnia 31 maja.
+
+” ;
+
+### 4)
+
+w art. 16:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Szef Centrum udostępnia informacje kryminalne zgromadzone w bazach danych podmiotom uprawnionym oraz podmiotom zobowiązanym, które nie są podmiotami uprawnionymi, na zasadach określonych w niniejszej ustawie.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Szef Centrum udostępnia informacje kryminalne zgromadzone w bazach danych w celu ich wymiany z organami ścigania innych państw na zasadach i w trybie określonych w przepisach ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej ([Dz. U. Nr 230, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.html)).
+
+” ;
+
+### 5)
+
+w art. 21 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Podmioty uprawnione dokonują niezwłocznie niezbędnych modyfikacji informacji kryminalnych w celu zapewnienia ich aktualności i zgodności z prawem.
+
+” ;
+
+### 6)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+Informacje kryminalne podlegają usunięciu z baz danych, jeżeli:
+
+### 1)
+
+ich gromadzenie jest zabronione;
+
+### 2)
+
+zarejestrowane informacje kryminalne okazały się nieprawdziwe;
+
+### 3)
+
+ustał cel ich gromadzenia;
+
+### 4)
+
+upłyną okresy, o których mowa w art. 14 ust. 1-3;
+
+### 5)
+
+jest to uzasadnione ze względu na bezpieczeństwo państwa lub jego obronność albo mogą spowodować identyfikację osób udzielających pomocy przy wykonywaniu czynności operacyjno-rozpoznawczych prowadzonych przez upoważnione do tego podmioty uprawnione.
+
+” ;
+
+### 7)
+
+art. 27 otrzymuje brzmienie:
+
+„
+
+### Art. 27.
+
+### 1.
+
+Podmiot zobowiązany, który stwierdził:
+
+### 1)
+
+nieprawdziwość przekazanej przez siebie informacji kryminalnej,
+
+### 2)
+
+przekazanie informacji kryminalnej, której gromadzenie jest zabronione
+
+- niezwłocznie zawiadamia o tym pisemnie Szefa Centrum.
+
+### 2.
+
+Szef Centrum niezwłocznie zawiadamia podmioty zobowiązane, które otrzymały od niego informację kryminalną, o zaistnieniu okoliczności, o których mowa w ust. 1.
+
+### 3.
+
+Informację kryminalną, o której mowa w art. 25 pkt 1-3, przekazaną Szefowi Centrum:
+
+### 1)
+
+z urzędu - Szef Centrum usuwa z baz danych niezwłocznie po otrzymaniu odpowiednio wypełnionej karty rejestracyjnej, o której mowa w art. 21 ust. 2, od podmiotu uprawnionego, który uprzednio przekazał tę informację;
+
+### 2)
+
+na zapytanie - Szef Centrum niezwłocznie zarządza usunięcie jej z baz danych i wskazuje informację kryminalną, miejsce, datę i tryb jej usunięcia oraz skład osobowy komisji.
+
+### 4.
+
+Usuwanie informacji kryminalnej z baz danych w przypadku, o którym mowa w art. 25 pkt 4, następuje automatycznie.
+
+### 5.
+
+Informację kryminalną, w przypadku, o którym mowa w art. 25 pkt 5, Szef Centrum usuwa z baz danych niezwłocznie po otrzymaniu odpowiednio wypełnionej karty rejestracyjnej, o której mowa w art. 21 ust. 2, od podmiotu uprawnionego, który uprzednio przekazał tę informację z urzędu.
+
+” ;
+
+### 8)
+
+w art. 28 uchyla się ust. 6;
+
+### 9)
+
+uchyla się rozdział 5.
+
+### Art. 32.
+
+W ustawie z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2010 r. Nr 29, poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2010/154/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677.](#gloss-0:9:)) w art. 5 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Szef Agencji Bezpieczeństwa Wewnętrznego wykonuje zadania punktu kontaktowego do wymiany danych, o którym mowa w art. 16 ust. 3 decyzji Rady 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1).
+
+” .
+
+### Art. 33.
+
+W ustawie z dnia 13 lipca 2006 r. o dokumentach paszportowych ([Dz. U. Nr 143, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2006/1027/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 32, poz. 192, z 2009 r. Nr 69, poz. 595 i Nr 95, poz. 791 oraz z 2010 r. Nr 8, poz. 51.](#gloss-0:10:)) w art. 52:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organy paszportowe, Komendant Główny Policji oraz Komendant Główny Straży Granicznej mają bezpośredni dostęp do zbiorów centralnej ewidencji w zakresie niezbędnym do wykonywania ustawowych zadań.
+
+” ;
+
+### 2)
+
+w ust. 2 uchyla się pkt 5.
+
+### Rozdział 6 Przepisy przejściowe i końcowe
+
+### Art. 34.
+
+### 1.
+
+Administratorzy zbiorów danych, o których mowa w art. 6 ust. 1, zapewnią na własny koszt punktowi kontaktowemu bezpośredni dostęp do tych zbiorów w terminie 3 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Do czasu uzyskania przez punkt kontaktowy bezpośredniego dostępu do zbiorów danych, o których mowa w art. 6 ust. 1, administratorzy tych zbiorów zapewnią punktowi kontaktowemu dostęp do danych zawartych w tych zbiorach w zakresie niezbędnym do wykonywania zadań przez punkt kontaktowy.
+
+### Art. 35.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 20 ust. 19 ustawy zmienianej w art. 27 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 20 ust. 19 ustawy zmienianej w art. 27, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 36.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2012 r.
+
+1) Niniejsza ustawa wdraża decyzję ramową Rady 2006/960/WSiSW z dnia 18 grudnia 2006 r. w sprawie uproszczenia wymiany informacji i danych wywiadowczych między organami ścigania państw członkowskich Unii Europejskiej (Dz. Urz. UE L 386 z 29.12.2006, str. 89) i decyzję ramową Rady 2008/977/WSiSW z dnia 27 listopada 2008 r. w sprawie ochrony danych osobowych przetwarzanych w ramach współpracy policyjnej i sądowej w sprawach karnych (Dz. Urz. UE L 350 z 30.12.2008, str. 60) oraz dostosowuje przepisy do decyzji Rady 2007/845/WSiSW z dnia 6 grudnia 2007 r. dotyczącej współpracy pomiędzy biurami ds. odzyskiwania mienia w państwach członkowskich w dziedzinie wykrywania i identyfikacji korzyści pochodzących z przestępstwa lub innego mienia związanego z przestępstwem (Dz. Urz. UE L 332 z 18.12.2007, str. 103) oraz decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 6 kwietnia 1990 r. o Policji, ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, ustawę z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych, ustawę z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu oraz ustawę z dnia 13 lipca 2006 r. o dokumentach paszportowych. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677, Nr 171, poz. 1016, Nr 205, poz. 1205, Nr 207, poz. 1229 i Nr 217, poz. 1280. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651, z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178, Nr 168, poz. 1323, Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 7, poz. 46, Nr 98, poz. 626, Nr 106, poz. 669, Nr 122, poz. 826, Nr 125, poz. 842, Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 48, poz. 245 i 246, Nr 53, poz. 273, Nr 112, poz. 654, Nr 117, poz. 678, Nr 142, poz. 829, Nr 191, poz. 1135 i Nr 217, poz. 1280. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677, Nr 171, poz. 1016, Nr 205, poz. 1205, Nr 207, poz. 1229 i Nr 217, poz. 1280. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701, z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661, Nr 123, poz. 845 i Nr 176, poz. 1238, z 2008 r. Nr 37, poz. 214, Nr 100, poz. 649, Nr 163, poz. 1015, Nr 209, poz. 1320, Nr 220, poz. 1411 i 1426, Nr 223, poz. 1461 i 1462 i Nr 234, poz. 1573 i 1574, z 2009 r. Nr 3, poz. 11, Nr 18, poz. 97, Nr 79, poz. 663, Nr 91, poz. 739, Nr 92, poz. 753, Nr 97, poz. 802 i 803, Nr 98, poz. 817 i Nr 168, poz. 1323, z 2010 r. Nr 40, poz. 230, Nr 43, poz. 246, Nr 122, poz. 827, Nr 151, poz. 1013, Nr 152, poz. 1018, Nr 182, poz. 1228, Nr 219, poz. 1443, Nr 225, poz. 1466 i Nr 257, poz. 1726 oraz z 2011 r. Nr 30, poz. 151, Nr 92, poz. 530, Nr 102, poz. 585, Nr 106, poz. 622, Nr 171, poz. 1016, Nr 204, poz. 1195, Nr 205, poz. 1210, Nr 208, poz. 1240 i 1241, Nr 222, poz. 1321 i Nr 227, poz. 1367. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 165, poz. 1170 i Nr 176, poz. 1238 oraz z 2010 r. Nr 41, poz. 233, Nr 182, poz. 1228 i Nr 229, poz. 1497. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 32, poz. 192, z 2009 r. Nr 69, poz. 595 i Nr 95, poz. 791 oraz z 2010 r. Nr 8, poz. 51.

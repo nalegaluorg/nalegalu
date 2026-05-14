@@ -8,11 +8,9 @@ pos: 251
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
 # Ustawa z dnia 16 stycznia 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy - Ordynacja podatkowa
-
-*USTAWA dnia 16 stycznia zmianie ustawy podatku dochodowym od osób fizycznych ustawy – Ordynacja podatkowa*
 
 | Pole | Wartość |
 |---|---|
@@ -24,71 +22,270 @@ domain: null
 | Data ogłoszenia | 2015-01-16 |
 | Data wydania | 2015-02-24 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000251) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/251/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/251/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/251) |
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2012 361, późn. zm. ) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 25b.**
+### Art. 1.
 
-1. Za przychody, 20 1b, uważa przychody:
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2012 r. poz. 361](https://api.sejm.gov.pl/eli/acts/DU/2012/361/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73 i 211.](#gloss-0:1:)) wprowadza się następujące zmiany:
 
-- **1)** nieznajdujące pokrycia ujawnionych źródłach obejmujące przychody ze źródeł wskazanych przez podatnika, ujawnione nieprawidłowej wysokości, – kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
+### 1)
 
-2. Za wydatek uznaje wartość zgromadzonego roku podatkowym mienia wysokość wydatkowanych roku podatkowym środków, przypadku gdy nie możliwe ustalenie roku podatkowego, którym zgromadzono te środki.
+w art. 2 dodaje się ust. 6 w brzmieniu:
 
-3. Za przychody (dochody) opodatkowane uznaje wartości pozostające dyspozycji podatnika przed poniesieniem wydatku, spełniające łącznie następujące warunki:
+„
 
-- **1)** ich pochodzenie zostało ustalone co tytułu, kwoty okresu uzyskania;
-- **2)** możliwe określenie ustalenie zobowiązania podatkowego odniesieniu wartości, które mają wpływ na ustalenie takiego zobowiązania, albo zobowiązanie takie zostało określone ustalone, albo zostały zgłoszone opodatkowania.
+### 6.
 
-4. Za przychody (dochody) nieopodatkowane uznaje wartości pozostające dyspozycji podatnika przed poniesieniem wydatku, pochodzenie zostało ustalone co tytułu, kwoty okresu uzyskania, które:
+W przypadku braku przeciwnego dowodu przyjmuje się, że przychody pochodzą z czynności, które mogą być przedmiotem prawnie skutecznej umowy.
 
-- **1)** były wolne od podatku zwolnione od opodatkowania na podstawie przepisów ustawy innych niż przepisy niniejszego rozdziału przepisów odrębnych ustaw albo
-- **2)** nie podlegały opodatkowaniu na podstawie przepisów ustawy innych niż przepisy niniejszego rozdziału przepisów odrębnych ustaw, albo
-- **3)** były objęte obowiązkiem podatkowym zakresie właściwego podatku, jednak zobowiązanie podatkowe nie powstało albo wygasło wskutek:
-    - **a)** zaniechania poboru podatku,
-    - **b)** umorzenia zaległości podatkowej,
-    - **c)** zwolnienia obowiązku zapłaty podatku,
-    - **d)** przedawnienia.
+” ;
 
-5. Do wydatków, przychodów (dochodów) opodatkowanych przychodów (dochodów) nieopodatkowanych, stosuje odpowiednio przepisy 8 1–2.
+### 2)
 
-**Art. 25c.** Obowiązek podatkowy tytułu przychodów nieznajdujących pokrycia ujawnionych źródłach pochodzących ze źródeł nieujawnionych powstaje na ostatni dzień roku podatkowego, którym powstał przychód kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi.
+w art. 9 ust. 1a otrzymuje brzmienie:
 
-**Art. 25d.** Podstawę opodatkowania przychodów nieznajdujących pokrycia ujawnionych źródłach pochodzących ze źródeł nieujawnionych stanowi roku podatkowym przychód odpowiadający kwocie nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi. W przypadku wystąpienia roku podatkowym więcej niż jednej nadwyżki, podstawę opodatkowania stanowi suma przychodów odpowiadających kwocie nadwyżek wydatków nad przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi.
+„
 
-**Art. 25e.** Od przychodów nieznajdujących pokrycia ujawnionych źródłach pochodzących ze źródeł nieujawnionych, zastrzeżeniem 25g 7, zryczałtowany podatek dochodowy wynosi 75% podstawy opodatkowania.
+### 1a.
 
-**Art. 25f.** Podatek od przychodów nieznajdujących pokrycia ujawnionych źródłach pochodzących ze źródeł nieujawnionych ustala, drodze decyzji, za rok podatkowy, którym powstał przychód odpowiadający kwocie nadwyżki nadwyżek, właściwy organ podatkowy właściwy organ kontroli skarbowej.
+Jeżeli podatnik uzyskuje dochody z więcej niż jednego źródła, przedmiotem opodatkowania w danym roku podatkowym jest, z zastrzeżeniem art. 25e, art. 29-30c, art. 30e, art. 30f oraz art. 44 ust. 7e i 7f, suma dochodów z wszystkich źródeł przychodów.
 
-**Art. 25g.**
+” ;
 
-1. W toku postępowania podatkowego albo toku postępowania kontrolnego organu kontroli skarbowej ciężar dowodu zakresie wykazania przychodów (dochodów) opodatkowanych przychodów (dochodów) nieopodatkowanych stanowiących pokrycie wydatku spoczywa na podatniku.
+### 3)
 
-2. Przepisu 1 nie stosuje przychodów (dochodów) opodatkowanych przychodów (dochodów) nieopodatkowanych znanych organowi urzędu możliwych ustalenia przez organ na podstawie:
+w art. 11 ust. 1 otrzymuje brzmienie:
 
-- **1)** posiadanych przez niego ewidencji, rejestrów innych danych;
-- **2)** rejestrów publicznych posiadanych przez inne podmioty publiczne, organ ma dostęp drogą elektroniczną na zasadach określonych przepisach ustawy dnia 17 lutego 2005 informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 2014 1114). pierwszym, przychody (dochody) te uznaje za przychody, 25b 1.
+„
 
-4. Przepis 3 stosuje odpowiednio przychodów (dochodów) nieopodatkowanych, 25b 4 pkt 1 2.
+### 1.
 
-5. W postępowaniu prowadzonym zakresie przychodów nieznajdujących pokrycia ujawnionych źródłach pochodzących ze źródeł nieujawnionych przy ustalaniu nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi podatnik wskazuje przychody (dochody) opodatkowane przychody (dochody) nieopodatkowane, którymi pokrywa poszczególne wydatki. Jeżeli podatnik nie wskazał, którymi przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi pokrył poszczególne wydatki, stosuje zasadę, że najwcześniejszy wydatek pokrywany najwcześniejszymi przychodami (dochodami) opodatkowanymi przychodami (dochodami) nieopodatkowanymi.
+Przychodami, z zastrzeżeniem art. 14-15, art. 17 ust. 1 pkt 6, 9 i 10 w zakresie realizacji praw wynikających z pochodnych instrumentów finansowych, art. 19, art. 25b i art. 30f, są otrzymane lub postawione do dyspozycji podatnika w roku kalendarzowym pieniądze i wartości pieniężne oraz wartość otrzymanych świadczeń w naturze i innych nieodpłatnych świadczeń.
 
-6. Jeżeli podatnik nie dysponuje dowodami potwierdzającymi wartość zgromadzonego roku podatkowym mienia, wartość tę określa na dzień poniesienia wydatku, stosując odpowiednio przepis 19.
+” ;
 
-7. W przypadku ustalenia postępowaniu podatkowym albo postępowaniu kontrolnym organu kontroli skarbowej źródła pochodzenia nieujawnionych uprzednio przychodów (dochodów) ich wysokości, przychody (dochody) te podlegają opodatkowaniu podatkiem na zasadach określonych przepisach ustawy innych niż przepisy niniejszego rozdziału przepisach odrębnych ustaw.”;
+### 4)
 
-- **6)** 30 1 uchyla pkt 7.
+w art. 20:
 
-**Art. 2.** W ustawie dnia 29 sierpnia 1997 – Ordynacja podatkowa (Dz. U. 2012 749, późn. zm. ) wprowadza następujące zmiany:
+### a)
 
-**Art. 3.**
+ust. 1 otrzymuje brzmienie:
 
-1. Do uzyskanych przed dniem wejścia życie niniejszej ustawy przychodów, które nie znajdują pokrycia ujawnionych źródłach pochodzą ze źródeł nieujawnionych stosunku nie upłynął termin przedawnienia prawa ustalenia zobowiązania podatkowego, stosuje przepisy ustaw zmienianych 1 2, brzmieniu nadanym niniejszą ustawą.
+„
 
-2. Czynności dokonane postępowaniach wszczętych niezakończonych przez organy podatkowe organy kontroli skarbowej przed dniem wejścia życie niniejszej ustawy pozostają mocy.
+### 1.
 
-**Art. 4.** W okresie od dnia 28 lutego dnia 31 grudnia r., zobowiązanie podatkowe tytułu opodatkowania dochodu nieznajdującego pokrycia ujawnionych źródłach przychodów pochodzącego ze źródeł nieujawnionych nie powstaje, jeżeli decyzja ustalająca to zobowiązanie została doręczona po upływie 5 lat, licząc od końca roku,
+Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się w szczególności: kwoty wypłacone po śmierci członka otwartego funduszu emerytalnego wskazanej przez niego osobie lub członkowi jego najbliższej rodziny, w rozumieniu przepisów o organizacji i funkcjonowaniu funduszy emerytalnych, kwoty uzyskane z tytułu zwrotu z indywidualnego konta zabezpieczenia emerytalnego oraz wypłaty z indywidualnego konta zabezpieczenia emerytalnego, w tym także dokonane na rzecz osoby uprawnionej na wypadek śmierci oszczędzającego, zasiłki pieniężne z ubezpieczenia społecznego, alimenty, stypendia, dotacje (subwencje) inne niż wymienione w art. 14, dopłaty, nagrody i inne nieodpłatne świadczenia nienależące do przychodów określonych w art. 12-14 i art. 17.
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2016 r., wyjątkiem 4, który wchodzi życie dniem 28 lutego Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+” ,
 
+### b)
+
+po ust. 1a dodaje się ust. 1b w brzmieniu:
+
+„
+
+### 1b.
+
+Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się także przychody nieznajdujące pokrycia w ujawnionych źródłach lub pochodzące ze źródeł nieujawnionych.
+
+” ,
+
+### c)
+
+uchyla się ust. 3;
+
+### 5)
+
+po rozdziale 5 dodaje się rozdział 5a w brzmieniu:
+
+„
+
+### Rozdział 5a Opodatkowanie przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych
+
+### Art. 25b.
+
+### 1.
+
+Za przychody, o których mowa w art. 20 ust. 1b, uważa się przychody:
+
+### 1)
+
+nieznajdujące pokrycia w ujawnionych źródłach obejmujące przychody ze źródeł wskazanych przez podatnika, ujawnione w nieprawidłowej wysokości,
+
+### 2)
+
+ze źródeł nieujawnionych obejmujące przychody ze źródeł niewskazanych przez podatnika i nieustalonych przez organ podatkowy lub organ kontroli skarbowej
+
+- w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi, uzyskanymi przed poniesieniem tego wydatku.
+
+### 2.
+
+Za wydatek uznaje się wartość zgromadzonego w roku podatkowym mienia lub wysokość wydatkowanych w roku podatkowym środków, w przypadku gdy nie jest możliwe ustalenie roku podatkowego, w którym zgromadzono te środki.
+
+### 3.
+
+Za przychody (dochody) opodatkowane uznaje się wartości pozostające w dyspozycji podatnika przed poniesieniem wydatku, spełniające łącznie następujące warunki:
+
+### 1)
+
+ich pochodzenie zostało ustalone co do tytułu, kwoty i okresu uzyskania;
+
+### 2)
+
+jest możliwe określenie lub ustalenie zobowiązania podatkowego w odniesieniu do wartości, które mają wpływ na ustalenie takiego zobowiązania, albo zobowiązanie takie zostało określone lub ustalone, albo zostały zgłoszone do opodatkowania.
+
+### 4.
+
+Za przychody (dochody) nieopodatkowane uznaje się wartości pozostające w dyspozycji podatnika przed poniesieniem wydatku, których pochodzenie zostało ustalone co do tytułu, kwoty i okresu uzyskania, oraz które:
+
+### 1)
+
+były wolne od podatku lub zwolnione od opodatkowania na podstawie przepisów ustawy innych niż przepisy niniejszego rozdziału lub przepisów odrębnych ustaw albo
+
+### 2)
+
+nie podlegały opodatkowaniu na podstawie przepisów ustawy innych niż przepisy niniejszego rozdziału lub przepisów odrębnych ustaw, albo
+
+### 3)
+
+były objęte obowiązkiem podatkowym w zakresie właściwego podatku, jednak zobowiązanie podatkowe nie powstało albo wygasło wskutek: a) zaniechania poboru podatku, b) umorzenia zaległości podatkowej, c) zwolnienia z obowiązku zapłaty podatku, d)przedawnienia.
+
+### 5.
+
+Do wydatków, przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, stosuje się odpowiednio przepisy art. 8 ust. 1-2.
+
+### Art. 25c.
+
+Obowiązek podatkowy z tytułu przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych powstaje na ostatni dzień roku podatkowego, w którym powstał przychód w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
+
+### Art. 25d.
+
+Podstawę opodatkowania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych stanowi w roku podatkowym przychód odpowiadający kwocie nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi. W przypadku wystąpienia w roku podatkowym więcej niż jednej nadwyżki, podstawę opodatkowania stanowi suma przychodów odpowiadających kwocie nadwyżek wydatków nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
+
+### Art. 25e.
+
+Od przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych, z zastrzeżeniem art. 25g ust. 7, zryczałtowany podatek dochodowy wynosi 75% podstawy opodatkowania.
+
+### Art. 25f.
+
+Podatek od przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych ustala, w drodze decyzji, za rok podatkowy, w którym powstał przychód odpowiadający kwocie nadwyżki lub nadwyżek, właściwy organ podatkowy lub właściwy organ kontroli skarbowej.
+
+### Art. 25g.
+
+### 1.
+
+W toku postępowania podatkowego albo w toku postępowania kontrolnego organu kontroli skarbowej ciężar dowodu w zakresie wykazania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych stanowiących pokrycie wydatku spoczywa na podatniku.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się do przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych znanych organowi z urzędu lub możliwych do ustalenia przez organ na podstawie:
+
+### 1)
+
+posiadanych przez niego ewidencji, rejestrów lub innych danych;
+
+### 2)
+
+rejestrów publicznych posiadanych przez inne podmioty publiczne, do których organ ma dostęp drogą elektroniczną na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2014 r. poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2014/1114/text.html)).
+
+### 3.
+
+Jeżeli w toku postępowania podatkowego lub postępowania kontrolnego organu kontroli skarbowej podatnik nie udowodni uzyskania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, o których mowa w art. 25b ust. 4 pkt 3, stanowiących pokrycie wydatku i nastąpiło przedawnienie zobowiązania podatkowego w stosunku do tych przychodów (dochodów), to ich uzyskanie podatnik może uprawdopodobnić. W przypadku nieudowodnienia lub nieuprawdopodobnienia przychodów (dochodów), o których mowa w zdaniu pierwszym, przychody (dochody) te uznaje się za przychody, o których mowa w art. 25b ust. 1.
+
+### 4.
+
+Przepis ust. 3 stosuje się odpowiednio do przychodów (dochodów) nieopodatkowanych, o których mowa w art. 25b ust. 4 pkt 1 i 2.
+
+### 5.
+
+W postępowaniu prowadzonym w zakresie przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych przy ustalaniu nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi podatnik wskazuje przychody (dochody) opodatkowane lub przychody (dochody) nieopodatkowane, którymi pokrywa poszczególne wydatki. Jeżeli podatnik nie wskazał, którymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi pokrył poszczególne wydatki, stosuje się zasadę, że najwcześniejszy wydatek jest pokrywany najwcześniejszymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
+
+### 6.
+
+Jeżeli podatnik nie dysponuje dowodami potwierdzającymi wartość zgromadzonego w roku podatkowym mienia, wartość tę określa się na dzień poniesienia wydatku, stosując odpowiednio przepis art. 19.
+
+### 7.
+
+W przypadku ustalenia w postępowaniu podatkowym albo w postępowaniu kontrolnym organu kontroli skarbowej źródła pochodzenia nieujawnionych uprzednio przychodów (dochodów) i ich wysokości, przychody (dochody) te podlegają opodatkowaniu podatkiem na zasadach określonych w przepisach ustawy innych niż przepisy niniejszego rozdziału lub w przepisach odrębnych ustaw.
+
+” ;
+
+### 6)
+
+w art. 30 w ust. 1 uchyla się pkt 7.
+
+### Art. 2.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2012 r. poz. 749](https://api.sejm.gov.pl/eli/acts/DU/2012/749/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 68 po § 4 dodaje się § 4a w brzmieniu:
+
+„
+
+### § 4a.
+
+Zobowiązanie podatkowe z tytułu opodatkowania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych nie powstaje, jeżeli decyzja ustalająca to zobowiązanie została doręczona po upływie 5 lat, licząc od końca roku kalendarzowego, w którym powstał obowiązek podatkowy w tym zakresie.
+
+” ;
+
+### 2)
+
+art. 99 otrzymuje brzmienie:
+
+„
+
+### Art. 99.
+
+Bieg terminów przewidzianych w art. 70, art. 71, art. 77 § 1 oraz art. 80 § 1 nie rozpoczyna się, a rozpoczęty ulega zawieszeniu od dnia śmierci spadkodawcy do dnia uprawomocnienia się postanowienia sądu o stwierdzeniu nabycia spadku lub zarejestrowania aktu poświadczenia dziedziczenia, nie dłużej jednak niż do dnia, w którym upłynęły 2 lata od śmierci spadkodawcy.
+
+” ;
+
+### 3)
+
+w art. 272 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+weryfikację poniesionych przez podatnika wydatków i uzyskanych przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych - w zakresie niezbędnym do ujawnienia podstawy opodatkowania z tytułu przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych.
+
+” ;
+
+### 4)
+
+w art. 306f § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Jeżeli postępowanie podatkowe w sprawie określenia wysokości zobowiązań podatkowych spadkodawcy nie zostało zakończone, w zaświadczeniu podaje się przybliżoną wysokość zobowiązania na podstawie posiadanych danych co do podstawy opodatkowania.
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Do uzyskanych przed dniem wejścia w życie niniejszej ustawy przychodów, które nie znajdują pokrycia w ujawnionych źródłach lub pochodzą ze źródeł nieujawnionych i w stosunku do których nie upłynął termin przedawnienia prawa do ustalenia zobowiązania podatkowego, stosuje się przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Czynności dokonane w postępowaniach wszczętych i niezakończonych przez organy podatkowe oraz organy kontroli skarbowej przed dniem wejścia w życie niniejszej ustawy pozostają w mocy.
+
+### Art. 4.
+
+W okresie od dnia 28 lutego 2015 r. do dnia 31 grudnia 2015 r., zobowiązanie podatkowe z tytułu opodatkowania dochodu nieznajdującego pokrycia w ujawnionych źródłach przychodów lub pochodzącego ze źródeł nieujawnionych nie powstaje, jeżeli decyzja ustalająca to zobowiązanie została doręczona po upływie 5 lat, licząc od końca roku, w którym poniesiono wydatki lub zgromadzono mienie, o których mowa w art. 20 ust. 3 ustawy zmienianej w art. 1, w brzmieniu obowiązującym do dnia 31 grudnia 2015 r.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem art. 4, który wchodzi w życie z dniem 28 lutego 2015 r.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 21, 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863 oraz z 2015 r. poz. 73 i 211. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289, z 2014 r. poz. 183, 567, 915, 1171, 1215, 1328 i 1644 oraz z 2015 r. poz. 211.

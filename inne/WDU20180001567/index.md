@@ -8,9 +8,9 @@ pos: 1567
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Instytucie Solidarności i Męstwa oraz niektórych innych ustaw
+# Ustawa z dnia 20 lipca 2018 r. o zmianie ustawy o Instytucie Solidarności i Męstwa oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach, ustawę z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego i ustawę z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,35 +22,274 @@ domain: null
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-14 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001567) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1567/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1567/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1567) |
 
-**Art. 1.** W ustawie dnia 9 listopada 2017 r. o Instytucie (Dz. U. 2303 oraz 2018 r.
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 16 października 1992 r. o orderach odznaczeniach (Dz. U. 2018 r. 400 730) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego (Dz. U. 2018 r. 975) art. 3 2 otrzymuje brzmienie: „2. Minister właściwy spraw zagranicznych przedstawia wnioski własnej inicjatywy inicjatywy związków stowarzyszeń kombatanckich, organizacji społecznych, Szefa Urzędu Spraw Kombatantów Osób Represjonowanych, Dyrektora imienia Witolda Pileckiego oraz osób prywatnych, uzyskaniu pozytywnej opinii Prezesa Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”.
+W ustawie z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa ([Dz. U. poz. 2303](https://api.sejm.gov.pl/eli/acts/DU/2017/2303/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego (Dz. U. 2018 r. 1379) art. 3 2 otrzymuje brzmienie: „2. Minister właściwy spraw zagranicznych przedstawia wnioski własnej inicjatywy inicjatywy związków stowarzyszeń kombatanckich, organizacji społecznych, Szefa Urzędu Spraw Kombatantów Osób Represjonowanych, Dyrektora imienia Witolda Pileckiego oraz osób prywatnych, uzyskaniu pozytywnej opinii Prezesa Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”.
+### 1)
 
-**Art. 5.**
+tytuł ustawy otrzymuje brzmienie: „ o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego ” ;
 
-1. Z dniem wejścia życie niniejszej ustawy państwowa instytucja kultury Ośrodek Badań nad Totalitaryzmami im. Witolda Pileckiego ulega likwidacji.
+### 2)
 
-2. Z dniem likwidacji, o której mowa 1:
+art. 1 otrzymuje brzmienie:
 
-- **1)** minister właściwy spraw kultury ochrony dziedzictwa narodowego wykreśli Ośrodek Badań nad Totalitaryzmami im. Witolda Pileckiego rejestru instytucji kultury prowadzonego przez tego ministra;
-- **2)** pracownicy Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego stają się pracownikami imienia Witolda Pileckiego trybie art. 23 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. 2018 r. 917, 1000 1076);
-- **3)** mienie Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego staje się nieodpłatnie mieniem Solidarności imienia Witolda Pileckiego;
-- **4)** zobowiązania wierzytelności Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego przejmuje nieodpłatnie
+„
 
-5. Wartość poszczególnych składników przejmowanego majątku ustala się:
+### Art. 1.
 
-- **1)** wysokości wartości początkowej określonej ewidencji środków trwałych oraz wartości niematerialnych Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego, uwzględnieniem naliczonych odpisów umorzeniowych, przypadku składników zaliczanych środków trwałych wartości niematerialnych;
-- **2)** wysokości wynikających ksiąg rachunkowych – przypadku pozostałych składników.
+Ustawa określa organizację i zadania Instytutu Solidarności i Męstwa imienia Witolda Pileckiego, zwanego dalej „Instytutem”.
 
-**Art. 6.** Minister właściwy spraw kultury ochrony dziedzictwa narodowego dostosuje terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy statut imienia Witolda Pileckiego przepisów ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+” ;
 
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 2 ustawy zmienianej art. 1 zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 14 2 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+### 3)
 
-**Art. 8.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 5 3 4, które wchodzą życie dniem następującym dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+w art. 3:
 
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Celem działalności Instytutu jest inicjowanie, podejmowanie i wspieranie działań mających na celu:
+
+### 1)
+
+uhonorowanie i upamiętnienie osób żyjących, zmarłych lub zamordowanych, zasłużonych dla Narodu Polskiego, zarówno w kraju, jak i za granicą, w dziele pielęgnowania pamięci lub niesienia pomocy obywatelom polskim lub Polakom o innej przynależności państwowej będącym ofiarami zbrodni sowieckich, nazistowskich zbrodni niemieckich, zbrodni z pobudek nacjonalistycznych lub innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodni wojennych, w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.;
+
+### 2)
+
+prowadzenie badań w zakresie nauk historycznych oraz badań interdyscyplinarnych z wykorzystaniem narzędzi pokrewnych nauk humanistycznych i społecznych, a w szczególności badanie, dokumentowanie i poszerzanie wiedzy na temat totalitaryzmów oraz zbrodni nazistowskich i komunistycznych w XX wieku;
+
+### 3)
+
+gromadzenie, opracowywanie i udostępnianie relacji ofiar i świadków zbrodni totalitarnych oraz popularyzowanie wiedzy na ten temat.
+
+” ,
+
+### b)
+
+w ust. 2 pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+współpraca z Instytutem Pamięci Narodowej - Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz krajowymi, zagranicznymi i międzynarodowymi instytucjami naukowymi i stowarzyszeniami w zakresie, o którym mowa w ust. 1;
+
+” ;
+
+### 4)
+
+w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W strukturze organizacyjnej Instytutu działa Ośrodek Badań na Totalitaryzmami realizujący cele określone w art. 3 ust. 1 pkt 2 i 3.
+
+” ;
+
+### 5)
+
+w art. 5 w pkt 2 kropkę zastępuje się średnikiem oraz dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+Rada Naukowa.
+
+” ;
+
+### 6)
+
+po art. 9 dodaje się art. 9a w brzmieniu:
+
+„
+
+### Art. 9a.
+
+Do Rady Naukowej nie stosuje się przepisów ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych w zakresie dotyczącym uchwalania statutu Instytutu oraz opiniowania rocznego planu finansowego Instytutu.
+
+” ;
+
+### 7)
+
+w art. 11 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Roczny plan finansowy ustala Dyrektor Instytutu.
+
+” ;
+
+### 8)
+
+w art. 13 uchyla się ust. 5;
+
+### 9)
+
+w art. 14 w ust. 1 i 2 wyrazy „art. 3 ust. 1” zastępuje się wyrazami „art. 3 ust. 1 pkt 1”;
+
+### 10)
+
+w art. 21:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Niewykorzystane w roku 2017 środki dotacji, o której mowa w ust. 1, przechodzą na kolejne lata obrotowe.
+
+” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Środki dotacji, o których mowa w ust. 2, mogą zostać również przeznaczone na:
+
+### 1)
+
+pozyskanie, za zgodą ministra, nieruchomości niezbędnych do rozpoczęcia działalności Instytutu w przypadku niewyposażenia Instytutu w nieruchomości zgodnie z art. 20 ust. 1;
+
+### 2)
+
+finansowanie kosztów, w tym inwestycji, związanych z działalnością Instytutu.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach ([Dz. U. z 2018 r. poz. 400](https://api.sejm.gov.pl/eli/acts/DU/2018/400/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2018/730/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prezydent nadaje odznaczenia z własnej inicjatywy lub na wniosek Prezesa Rady Ministrów, ministrów, kierowników urzędów centralnych oraz wojewodów, a w przypadku odznaczenia, o którym mowa w art. 15a, na wniosek Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, zaś w przypadku odznaczenia, o którym mowa w art. 15b, na wniosek Dyrektora Instytutu Solidarności i Męstwa imienia Witolda Pileckiego.
+
+” ;
+
+### 2)
+
+w art. 31 ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Wnioski o nadanie Medalu Virtus et Fraternitas przedstawia Prezydentowi Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego ([Dz. U. poz. 2303](https://api.sejm.gov.pl/eli/acts/DU/2017/2303/text.html) oraz [z 2018 r. poz. 650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html) i [1567](https://api.sejm.gov.pl/eli/acts/DU/2018/1567/text.html)), a w przypadku osób nieposiadających obywatelstwa polskiego lub zamieszkałych stale za granicą - Dyrektor Instytutu Solidarności i Męstwa imienia Witolda Pileckiego po uzyskaniu pozytywnej opinii Rady Pamięci, o której mowa w art. 5 pkt 2 ustawy z dnia 9 listopada 2017 r. o Instytucie Solidarności i Męstwa imienia Witolda Pileckiego, oraz po zasięgnięciu opinii ministra właściwego do spraw zagranicznych.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego ([Dz. U. z 2018 r. poz. 975](https://api.sejm.gov.pl/eli/acts/DU/2018/975/text.html)) w art. 3 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw zagranicznych przedstawia wnioski z własnej inicjatywy lub z inicjatywy związków i stowarzyszeń kombatanckich, organizacji społecznych, Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, Dyrektora Instytutu Solidarności i Męstwa imienia Witolda Pileckiego oraz osób prywatnych, po uzyskaniu pozytywnej opinii Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego ([Dz. U. z 2018 r. poz. 1379](https://api.sejm.gov.pl/eli/acts/DU/2018/1379/text.html)) w art. 3 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw zagranicznych przedstawia wnioski z własnej inicjatywy lub z inicjatywy związków i stowarzyszeń kombatanckich, organizacji społecznych, Szefa Urzędu do Spraw Kombatantów i Osób Represjonowanych, Dyrektora Instytutu Solidarności i Męstwa imienia Witolda Pileckiego oraz osób prywatnych, po uzyskaniu pozytywnej opinii Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” .
+
+### Art. 5.
+
+### 1.
+
+Z dniem wejścia w życie niniejszej ustawy państwowa instytucja kultury Ośrodek Badań nad Totalitaryzmami im. Witolda Pileckiego ulega likwidacji.
+
+### 2.
+
+Z dniem likwidacji, o której mowa w ust. 1:
+
+### 1)
+
+minister właściwy do spraw kultury i ochrony dziedzictwa narodowego wykreśli Ośrodek Badań nad Totalitaryzmami im. Witolda Pileckiego z rejestru instytucji kultury prowadzonego przez tego ministra;
+
+### 2)
+
+pracownicy Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego stają się pracownikami Instytutu Solidarności i Męstwa imienia Witolda Pileckiego w trybie art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1076](https://api.sejm.gov.pl/eli/acts/DU/2018/1076/text.html));
+
+### 3)
+
+mienie Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego staje się nieodpłatnie mieniem Instytutu Solidarności i Męstwa imienia Witolda Pileckiego;
+
+### 4)
+
+zobowiązania i wierzytelności Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego przejmuje nieodpłatnie Instytut Solidarności i Męstwa imienia Witolda Pileckiego;
+
+### 5)
+
+Instytut Solidarności i Męstwa imienia Witolda Pileckiego wstępuje w stosunki prawne, których podmiotem jest Ośrodek Badań nad Totalitaryzmami im. Witolda Pileckiego, w szczególności staje się podmiotem zezwoleń, koncesji oraz ulg, które zostały przyznane tej instytucji przed jej likwidacją, chyba że ustawa lub decyzja o udzieleniu zezwolenia, koncesji albo ulgi stanowi inaczej.
+
+### 3.
+
+Nabycie mienia i przejęcie zobowiązań i wierzytelności, o których mowa w ust. 2, następuje na podstawie protokołu zdawczo-odbiorczego, sporządzonego na dzień przekazania tych składników.
+
+### 4.
+
+Wartość przejętego mienia powiększa fundusz statutowy Instytutu Solidarności i Męstwa imienia Witolda Pileckiego, z wyjątkiem wartości rzeczowego majątku trwałego sfinansowanego dotacją, która zwiększa rozliczenia międzyokresowe Instytutu Solidarności i Męstwa imienia Witolda Pileckiego.
+
+### 5.
+
+Wartość poszczególnych składników przejmowanego majątku ustala się:
+
+### 1)
+
+w wysokości wartości początkowej określonej w ewidencji środków trwałych oraz wartości niematerialnych Ośrodka Badań nad Totalitaryzmami im. Witolda Pileckiego, z uwzględnieniem naliczonych odpisów umorzeniowych, w przypadku składników zaliczanych do środków trwałych i wartości niematerialnych;
+
+### 2)
+
+w wysokości wynikających z ksiąg rachunkowych - w przypadku pozostałych składników.
+
+### Art. 6.
+
+Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego dostosuje w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy statut Instytutu Solidarności i Męstwa imienia Witolda Pileckiego do przepisów ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 7.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 5 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 października 1992 r. o orderach i odznaczeniach, ustawę z dnia 15 grudnia 2016 r. o ustanowieniu Krzyża Wschodniego i ustawę z dnia 7 kwietnia 2017 r. o ustanowieniu Krzyża Zachodniego.

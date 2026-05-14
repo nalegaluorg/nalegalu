@@ -8,11 +8,9 @@ pos: 224
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Akademii Medycznej w Białymstoku nazwy „Uniwersytet Medyczny w Białymstoku”
-
-*USTAWA z dnia 23 stycznia 2008 r.*
+# Ustawa z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Białymstoku nazwy „Uniwersytet Medyczny w Białymstoku”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2008-01-23 |
 | Data wydania | 2008-03-07 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080390224) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/224/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/224/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/224) |
 
-**Art. 1.** Akademii Medycznej w Białymstoku nadaje się nazwę „Uniwersytet Medyczny w Białymstoku”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Akademii Medycznej w Białymstoku nadaje się nazwę „Uniwersytet Medyczny w Białymstoku”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

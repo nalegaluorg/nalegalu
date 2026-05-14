@@ -1,0 +1,48 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 3 czerwca 2016 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej
+address: WDU20160000820
+eli: DU/2016/820
+publisher: DU
+year: 2016
+pos: 820
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Zdrowiaz dnia 3 czerwca 2016 r. zmieniające rozporządzenie w sprawie nadania statutu Krajowej Radzie Transplantacyjnej [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 820 |
+| ISAP | WDU20160000820 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-06-03 |
+| Data wydania | 2016-06-09 |
+| Wejście w życie | 2016-06-24 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/820/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/820) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 41 ust. 8 ustawy z dnia 1 lipca 2005 r. o pobieraniu, przechowywaniu i przeszczepianiu komórek, tkanek i narządów ([Dz. U. z 2015 r. poz. 793](https://api.sejm.gov.pl/eli/acts/DU/2015/793/text.html), [1893](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.html) i [1991](https://api.sejm.gov.pl/eli/acts/DU/2015/1991/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Zdrowia z dnia 10 maja 2006 r. w sprawie nadania statutu Krajowej Radzie Transplantacyjnej ([Dz. U. z 2016 r. poz. 57](https://api.sejm.gov.pl/eli/acts/DU/2016/57/text.html)) w załączniku do rozporządzenia w § 9 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Komisja Etyczna wybiera ze swego składu przewodniczącego oraz zastępcę przewodniczącego większością głosów.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908).

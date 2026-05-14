@@ -1,0 +1,52 @@
+---
+title: "Zmiany do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem sporządzonym w Londynie dnia 11 listopada 1988 r., przyjęte w Londynie dnia 10 listopada 2022 r."
+address: WDU20240001778
+eli: DU/2024/1778
+publisher: DU
+year: 2024
+pos: 1778
+act_type: Umowa międzynarodowa
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Zmianyprzyjęte w Londynie dnia 10 listopada 2022 r. do załącznika do Międzynarodowej konwencji o bezpieczeństwie życia na morzu, 1974, sporządzonej w Londynie dnia 1 listopada 1974 r., zmienionej Protokołem sporządzonym w Londynie dnia 17 lutego 1978 r. oraz Protokołem sporządzonym w Londynie dnia 11 listopada 1988 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1778 |
+| ISAP | WDU20240001778 |
+| Typ aktu | Umowa międzynarodowa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-11-10 |
+| Data wydania | 2024-12-04 |
+| Wejście w życie | 2024-07-01 |
+| Ostatnia zmiana | 2024-12-05 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1778/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1778) |
+
+## Spis treści
+
+- [Treść](#part_1)
+
+- [Dodatek - Tekst zmian do Międzynarodowej konwencji w języku angielskim](#part_2)
+
+TOC
+
+## Treść
+
+Przekład REZOLUCJA MSC.521(106) (przyjęta dnia 10 listopada 2022 r.) POPRAWKI DO MIĘDZYNARODOWEJ KONWENCJI O BEZPIECZEŃSTWIE ŻYCIA NA MORZU, 1974 (ROZDZIAŁ XV) KOMITET BEZPIECZEŃSTWA NA MORZU, PRZYWOŁUJĄC artykuł 28(b) Konwencji o Międzynarodowej Organizacji Morskiej dotyczący funkcji Komitetu, PRZYWOŁUJĄC również artykuł Vlll(b) Międzynarodowej konwencji o bezpieczeństwie życia na morzu z 1974 r. (dalej „Konwencja”) dotyczący procedury wprowadzania poprawek do Załącznika do Konwencji w części innej niż rozdział I, ROZWAŻYWSZY, na swojej 106 sesji, poprawki do Konwencji zaproponowane i rozpowszechnione zgodnie z artykułem Vlll(b)(i) Konwencji, 1 PRZYJMUJE, zgodnie z artykułem Vlll(b)(iv) Konwencji, poprawki do Konwencji, których tekst został przedstawiony w załączniku do niniejszej rezolucji; 2 POSTANAWIA, zgodnie z artykułem Vlll(b)(vi)(2)(bb) Konwencji, że wspomniane poprawki uważa się za przyjęte z dniem 1 stycznia 2024 r., chyba że przed tą datą więcej niż jedna trzecia Umawiających się Rządów będących stronami Konwencji lub Umawiających się Rządów, których łącznie liczona flota handlowa stanowi nie mniej niż 50% tonażu brutto światowej floty handlowej, powiadomi Sekretarza Generalnego o swoim sprzeciwie wobec poprawek; 3 ZWRACA SIĘ do Umawiających się Rządów będących stronami Konwencji o odnotowanie, iż zgodnie z artykułem Vlll(b)(vii)(2) Konwencji poprawki wchodzą w życie, po ich przyjęciu zgodnie z punktem 2 powyżej, w dniu 1 lipca 2024 roku; 4 WZYWA Sekretarza Generalnego, dla celów artykułu VIII(b)(v) Konwencji, do przekazania uwierzytelnionych kopii niniejszej rezolucji oraz tekstu poprawek zawartych w załączniku wszystkim Umawiającym się Rządom będącym stronami Konwencji; 5 WZYWA RÓWNIEŻ Sekretarza Generalnego do przekazania kopii niniejszej rezolucji, wraz z jej załącznikiem, członkom IMO, którzy nie są Umawiającymi się Rządami będącymi stronami Konwencji. ZAŁĄCZNIK POPRAWKI DO MIĘDZYNARODOWEJ KONWENCJI O BEZPIECZEŃSTWIE ŻYCIA NA MORZU, 1974 ROZDZIAŁ XV ŚRODKI BEZPIECZEŃSTWA DLA STATKÓW PRZEWOŻĄCYCH PERSONEL PRZEMYSŁOWY Po istniejącym rozdziale XIV (Środki bezpieczeństwa dla statków uprawiających żeglugę na wodach polarnych) dodaje się nowy rozdział XV:
+
+„
+
+### Rozdział XV Środki bezpieczeństwa dla statków przewożących personel przemysłowy
+
+Prawidło 1 - Definicje Dla celów niniejszego rozdziału: 1 Personel przemysłowy (IP) oznacza wszystkie osoby przewożone lub zakwaterowane na statku w celu prowadzenia działalności przemysłowej na morzu wykonywanej na pokładzie innych statków i/lub obiektów offshore. 2 Kodeks IP oznacza Międzynarodowy kodeks bezpieczeństwa statków przewożących personel przemysłowy, uchwalony przez Komitet Bezpieczeństwa na Morzu rezolucją MSC.527(106) i który może być poprawiany, o ile takie poprawki są uchwalane, wchodzą w życie i obowiązują stosownie do postanowień artykułu VIII niniejszej Konwencji dotyczącego procedury wprowadzania poprawek do Załącznika w części innej niż rozdział I. 3 Działalność przemysłowa w sektorze offshore oznacza budowę, konserwację, likwidację, obsługę lub serwisowanie obiektów offshore związanych między innymi z poszukiwaniem i eksploatacją zasobów w sektorach energii odnawialnej lub węglowodorów, akwakultura, górnictwem oceanicznym lub podobną działalnością. 4 Kodeks HSC oznacza Międzynarodowy kodeks jednostek szybkich, 2000, uchwalony przez Komitet Bezpieczeństwa na Morzu rezolucją MSC.97(73) i który może być poprawiany, o ile takie poprawki są uchwalane, wchodzą w życie i obowiązują stosownie do postanowień artykułu VIII niniejszej Konwencji dotyczącego procedury wprowadzania poprawek do Załącznika w części innej niż rozdział I. Prawidło 2 - Postanowienia ogólne 1 Wszędzie tam, gdzie w Kodeksie IP znajduje się odniesienie do wymagań dotyczących statków pasażerskich, odpowiednie wymagania dotyczące statków towarowych uznaje się za spełnione. 2 Dla celów niniejszego rozdziału personel przemysłowy nie jest traktowany ani uważany za pasażerów. 3 Wszędzie tam, gdzie w niniejszym rozdziale lub w Kodeksie IP liczba personelu przemysłowego pojawia się jako parametr, powinna to być łączna liczba personelu przemysłowego, personelu specjalnego[* Zob. Kodeks bezpieczeństwa statków specjalnego przeznaczenia, 2008.](#gloss-0:.) oraz pasażerów przewożonych na statku, przy czym liczba pasażerów nie powinna przekraczać 12. 4 Niezależnie od postanowień prawidła 2.1 powyżej, dla jednostek szybkich, do których ma zastosowanie rozdział X oraz niezależnie od postanowień rozdziałów 2 do 12 i 18 Kodeksu HSC, statek certyfikowany zgodnie z wymaganiami niniejszego rozdziału i Kodeksu IP będzie uważany za spełniający wymagania rozdziałów 2 do 12 i 18 Kodeksu HSC. Prawidło 3 - Zakres stosowania 1 O ile wyraźnie nie postanowiono inaczej, niniejszy rozdział ma zastosowanie do statków towarowych oraz szybkich jednostek towarowych o pojemności brutto 500 lub większej, zbudowanych w dniu 1 lipca 2024 r. lub po tej dacie, które przewożą więcej niż 12 osób personelu przemysłowego. 2 Statki towarowe zbudowane przed 1 lipca 2024 r., upoważnione przez Administrację do przewozu więcej niż 12 osób personelu przemysłowego zgodnie z zaleceniami opracowanymi przez Organizację, powinny spełniać wymagania prawideł III/1, III/2 (z wyjątkiem paragrafu 2.1.7), IV/7 i IV/8 Kodeksu IP podczas pierwszego przeglądu pośredniego lub odnowieniowego, w zależności od tego, który z nich po 1 lipca 2024 r. nastąpi wcześniej. 3 Szybkie jednostki towarowe zbudowane przed 1 lipca 2024 r., upoważnione przez Administrację do przewozu więcej niż 12 osób personelu przemysłowego zgodnie z zaleceniami opracowanymi przez Organizację, powinny spełniać wymagania prawideł III/1, III/2 (z wyjątkiem paragrafu 2.1.7), V/7 i V/8 Kodeksu IP do trzeciego przeglądu okresowego lub pierwszego przeglądu odnowieniowego, w zależności od tego, który z nich po 1 lipca 2024 r. nastąpi wcześniej. 4 Statki towarowe i szybkie jednostki towarowe, niezależnie od daty budowy, które przed 1 lipca 2024 r. nie zostały upoważnione przez Administrację do przewozu więcej niż 12 osób personelu przemysłowego w oparciu o zalecenia opracowane przez Organizację, muszą spełniać wymagania i być certyfikowane zgodnie z niniejszym rozdziałem i Kodeksem IP przed dopuszczeniem do przewozu więcej niż 12 osób personelu przemysłowego na pokładzie. 5 Dla celów niniejszego rozdziału wyrażenie zbudowany odnosi się do opisu podanego w prawidle: .1 II-2/1.1.2.1, uzupełnionym prawidłem II-2/1.1.3 dla statków towarowych; oraz .2 X/1.4, uzupełnionym prawidłem X/1.5 dla szybkich jednostek towarowych. Prawidło 4 - Zakres stosowania innych rozdziałów 1 Prawidła dla statków towarowych zawarte w innych rozdziałach niniejszej Konwencji mają zastosowanie do statków opisanych w prawidle 3.1 powyżej, z wyjątkiem zmian wprowadzonych przez niniejszy rozdział. 2 Niezależnie od postanowień prawidła 4.1 powyżej, dla jednostek szybkich, do których zastosowanie ma Kodeks HSC, stosuje się prawidła dla jednostek towarowych zawarte w tym Kodeksie, z wyjątkiem zmian wprowadzonych przez niniejszy rozdział. Prawidło 5 - Wymagania 1 Statki i jednostki szybkie, do których ma zastosowanie niniejszy rozdział, powinny: .1 być certyfikowane jako statek towarowy lub szybka jednostka towarowa zgodnie z przepisami rozdziału I lub VIII lub X, zależnie od przypadku; .2 spełniać wymagania Kodeksu IP; oraz .3 dodatkowo do wymagań prawideł I/8, I/9 i I/10 lub sekcji 1.5 do 1.9 Kodeksu HSC, stosownie do przypadku, zostać poddane przeglądowi i certyfikacji zgodnie z Kodeksem IP. 2 Statki i jednostki szybkie, do których ma zastosowanie niniejszy rozdział, posiadające certyfikat wydany zgodnie z prawidłem 5.1 powyżej, podlegają kontroli ustanowionej w prawidle I/19 lub XI-1/4 oraz w 1.10 Kodeksu HSC, w zależności od przypadku. Dla tego celu takie certyfikaty będą traktowane jako certyfikaty wydane zgodnie z prawidłem I/12 lub I/13.
+
+”
+
+* Zob. Kodeks bezpieczeństwa statków specjalnego przeznaczenia, 2008.
+
+## Dodatek - Tekst zmian do Międzynarodowej konwencji w języku angielskim
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2024/1778/text.pdf)

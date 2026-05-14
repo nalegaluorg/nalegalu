@@ -8,11 +8,9 @@ pos: 139
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:13)(cid:2)(cid:1)(cid:2)(cid:14)(cid:15)(cid:3)(cid:8)(cid:16)(cid:17)(cid:18)(cid:5)(cid:9)(cid:2)(cid:4)(cid:6)(cid:16)(cid:19)(cid:11)(cid:20)(cid:9)(cid:2)(cid:21)(cid:13)(cid:22)(cid:8)(cid:16) Polskiej Zjednoczonej Partii Robotniczej
-
-*USTAWA z dnia 7 lipca 1994 r.*
+# Ustawa z dnia 7 lipca 1994 r. o zmianie ustawy o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,38 @@ domain: null
 | Data ogłoszenia | 1994-07-07 |
 | Data wydania | 1996-03-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960320139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/139/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1996/139/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1996/139) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:2)(cid:14)(cid:8)(cid:4)(cid:5)(cid:15)(cid:16)(cid:6)(cid:11)(cid:6)(cid:2)(cid:17)(cid:13)(cid:13)(cid:18)(cid:2)(cid:19)(cid:20)(cid:2)(cid:15)(cid:2)(cid:16)(cid:19)(cid:10)(cid:9)(cid:21)(cid:22)(cid:23)(cid:8)(cid:3)(cid:2)(cid:24)(cid:6)(cid:21)(cid:25)(cid:5)(cid:26)(cid:3)(cid:2)(cid:27)(cid:28)(cid:29)(cid:9)(cid:21)(cid:2)(cid:30)(cid:15)(cid:14)(cid:4)(cid:26)(cid:8)(cid:9)(cid:21)(cid:2)(cid:31)(cid:21)(cid:9)(cid:11)(cid:12)(cid:15)(cid:23)(cid:10)(cid:15)(cid:12)(cid:9)(cid:21) (cid:30)(cid:6)(cid:19)(cid:5)(cid:8)(cid:8)(cid:2) (cid:15)(cid:27)(cid:15)(cid:5)(cid:12)(cid:8)(cid:23)(cid:10)(cid:9)(cid:21)(cid:2)!"(cid:10)(cid:20)#(cid:20)(cid:2)(cid:10)(cid:2)(cid:17)(cid:13)(cid:13)(cid:17)(cid:2)(cid:19)(cid:20)(cid:2)$(cid:19)(cid:2)(cid:17)%&(cid:2)(cid:16)(cid:15)(cid:10)(cid:20)(cid:2)’()(cid:2)(cid:7)(cid:16)(cid:19)(cid:15)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)(cid:22)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:22)(cid:16)(cid:3)(cid:21)(cid:25)(cid:23)(cid:9)(cid:2)(cid:10)(cid:24)(cid:8)any:
+## Treść ustawy
 
-**Art. 2.** #(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:2)(cid:7)(cid:23)*(cid:15)(cid:11)(cid:10)(cid:8)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)/(cid:28)(cid:23)(cid:8)(cid:9)(cid:2)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:24)(cid:2)(cid:15),(cid:29)(cid:15)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:10)(cid:2)(cid:24)(cid:15)(cid:23)(cid:25)(cid:2)(cid:15)(cid:11)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:2)(cid:4)(cid:5)(cid:28)(cid:23)(cid:10)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:13)(cid:13)3(cid:2)(cid:19)(cid:20)&(cid:2)(cid:10) (cid:5)(cid:28)(cid:24)(cid:2)/(cid:9)(cid:2)(cid:6)(cid:19)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:16)(cid:26)(cid:5)(cid:2)(cid:17)(cid:2)(cid:14)(cid:8)(cid:5)(cid:20)(cid:27))(cid:2)(cid:7)(cid:23)*(cid:15)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)(cid:2)/(cid:28)(cid:23)(cid:8)(cid:9)(cid:2)(cid:16)(cid:15)(cid:2)(cid:3)(cid:16)(cid:29)(cid:28)(cid:7)(cid:8)(cid:9)(cid:2)(cid:17)4(cid:2)(cid:11)(cid:12)(cid:8)(cid:2)(cid:15)(cid:11)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:15),(cid:29)(cid:15)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:20)
+### Art. 1.
 
+W ustawie z dnia 9 listopada 1990 r. o przejęciu majątku byłej Polskiej Zjednoczonej Partii Robotniczej ([Dz. U. z 1991 r. Nr 16, poz. 72](https://api.sejm.gov.pl/eli/acts/DU/1991/72/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1:
+
+### a)
+
+w ust. 1 po wyrazach „podległych byłej Polskiej Zjednoczonej Partii Robotniczej” dodaje się wyrazy „w szczególności użytkowane następnie przez Socjaldemokrację Rzeczypospolitej Polskiej”,
+
+### b)
+
+w ust. 2 skreśla się wyraz „kwot”;
+
+### 2)
+
+w art. 4 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Osoby, które roszczą prawa do nieruchomości lub ruchomości określonych w art. 1 ust. 1, mogą wystąpić na drogę sądową na zasadach ogólnych.
+
+”
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1993 r., z tym że art. 1 pkt 1 lit. b) wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

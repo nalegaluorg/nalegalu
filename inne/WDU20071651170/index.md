@@ -8,11 +8,9 @@ pos: 1170
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym
-
-*USTAWA z dnia 24 sierpnia 2007 r.*
+# Ustawa z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,429 +22,1450 @@ domain: null
 | Data ogłoszenia | 2007-08-24 |
 | Data wydania | 2007-09-14 |
 | Ostatnia zmiana | 2024-11-29 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071651170) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.pdf) |
-
-Art. 38–42. (pominięte)
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/1170/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/1170) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa zasady i sposób realizacji udziału Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, w tym obowiązki i uprawnienia organów dotyczące dokonywania wpisów oraz wglądu do danych zawartych w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym poprzez Krajowy System Informatyczny (KSI).
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organy i służby uprawnione do wykorzystywania danych](#chpt_2) [Rozdział 3 - Ochrona danych osobowych oraz odpowiedzialność za niezgodne z prawem działanie lub zaniechanie związane z wykorzystywaniem danych](#chpt_3) [Rozdział 4 - Bezpieczeństwo Krajowego Systemu Informatycznego](#chpt_4) [Rozdział 5 - Centralny organ techniczny KSI](#chpt_5) [Rozdział 6 - Biuro SIRENE](#chpt_6) [Rozdział 7 - Zmiany w przepisach obowiązujących](#chpt_7) [Rozdział 8 - Przepisy przejściowe i końcowe](#chpt_8)
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+TOC
 
-#### Rozdział 2 Organy i służby uprawnione do przetwarzania danych
+## Treść ustawy
 
-**Art. 3.**
+### Rozdział 1 Przepisy ogólne
 
-1. Uprawnienie do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu dokonywania wpisów danych SIS dotyczących:
+### Art. 1.
 
-- **1)** osób poszukiwanych do tymczasowego aresztowania w celu wydania ich przez państwo obce na podstawie wniosku o wydanie – przysługuje sądowi lub prokuraturze;
-- **2)** osób poszukiwanych do tymczasowego aresztowania w celu przekazania osoby ściganej na podstawie europejskiego nakazu aresztowania lub na podstawie nakazu aresztowania wydanego zgodnie z zawartą w tym celu umową, która przewiduje przekazywanie takiego nakazu aresztowania za pośrednictwem Systemu Informacyjnego Schengen – przysługuje sądowi lub prokuraturze;
-- **3)** świadków albo podejrzanych lub oskarżonych wezwanych do stawiennictwa przed sądem lub prokuratorem celem złożenia wyjaśnień w związku z postępowaniem karnym lub postępowaniem karnym skarbowym lub poszukiwanych w celu wezwania do takiego stawiennictwa albo osób, którym ma zostać doręczony wyrok w sprawie karnej lub w sprawie o przestępstwo skarbowe lub inne dokumenty związane z postępowaniem karnym lub postępowaniem karnym skarbowym w celu złożenia wyjaśnień, albo osób, którym ma zostać doręczone wezwanie do stawienia się w celu odbycia kary pozbawienia wolności – w celu zapewnienia informacji o ich miejscu zamieszkania lub pobytu – przysługuje sądowi lub prokuraturze;
-- **4)** cudzoziemców objętych odmową wjazdu i pobytu na warunkach określonych w art. 24 rozporządzenia 2018/1861 – przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
-- **5)** cudzoziemców, w stosunku do których została wydana decyzja o zobowiązaniu cudzoziemca do powrotu na zasadach określonych w art. 3 rozporządzenia 2018/1860 – przysługuje Straży Granicznej;
-- **6)** osób zaginionych, które dla ich własnej ochrony lub w celu zapobieżenia stwarzanemu przez nie zagrożeniu dla porządku publicznego lub bezpieczeństwa publicznego powinny zostać umieszczone we właściwej placówce opiekuńczej lub leczniczej, w szczególności w wyniku decyzji o przymusowym umieszczeniu w takiej placówce, oraz osób zaginionych, które nie wymagają ochrony – przysługuje Policji;
-- **7)** małoletnich, którym należy uniemożliwić podróżowanie ze względu na zagrożenie uprowadzeniem przez rodzica, członka rodziny lub opiekuna lub ze względu na realne zagrożenie, że zostaną wywiezieni z terytorium państwa członkowskiego lub opuszczą to terytorium – przysługuje Policji, sądowi lub prokuraturze;
-- **8)** małoletnich, którym należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezieni z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami handlu ludźmi lub ofiarami przymusowego małżeństwa, okaleczenia żeńskich narządów płciowych lub innych form przemocy warunkowanej płcią – przysługuje Policji, Straży Granicznej, sądowi lub prokuraturze;
-- **9)** małoletnich, którym należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezieni z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami przestępstw o charakterze terrorystycznym lub wezmą udział w popełnianiu takich przestępstw lub zostaną zwerbowani lub zaciągnięci do ugrupowań zbrojnych, lub zmuszeni do aktywnego udziału w działaniach wojennych – przysługuje Policji, Agencji Bezpieczeństwa Wewnętrznego, sądowi lub prokuraturze;
-- **10)** osób pełnoletnich narażonych na niebezpieczeństwo, którym dla ich własnej ochrony należy uniemożliwić podróżowanie ze względu na realne zagrożenie, że zostaną wywiezione z terytorium państwa członkowskiego lub opuszczą to terytorium oraz że staną się ofiarami handlu ludźmi lub przemocy warunkowanej płcią – przysługuje Policji, Straży Granicznej, sądowi lub prokuraturze;
-- **11)** osób lub przedmiotów należących do jednej z kategorii, o których mowa w pkt 12 lit. a–c, e, g, h oraz j–l, a także bezgotówkowych środków płatniczych wprowadzonych w celu:
-    - **a)** przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie przestępstwom, ich wykrywanie, prowadzenie w ich sprawie postępowań przygotowawczych lub ich ściganie, wykonanie wyroku w sprawach karnych lub w sprawach o przestępstwa skarbowe lub zapobieganie zagrożeniom dla bezpieczeństwa publicznego, jeżeli zachodzi co najmniej jedna z następujących okoliczności: – istnieje uzasadnione podejrzenie, że dana osoba ma zamiar popełnić lub popełnia którekolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375, z późn. zm. ), – informacje, o których mowa w art. 37 ust. 1 rozporządzenia 2018/1862, są niezbędne do wykonania kary pozbawienia wolności lub środka zabezpieczającego polegającego na pozbawieniu wolności w odniesieniu do osoby skazanej za popełnienie któregokolwiek z przestępstw, o których mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, – ogólna ocena danej osoby, w szczególności w świetle wcześniej popełnionych przestępstw, pozwala przypuszczać, że osoba ta może w przyszłości popełnić przestępstwo, o którym mowa w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego – przysługuje Policji, Służbie Celno-Skarbowej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej lub Centralnemu Biuru Antykorupcyjnemu,
-    - **b)** przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, których celem jest zapobieganie poważnym zagrożeniom wewnętrznego i zewnętrznego bezpieczeństwa państwa – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego;
-
-- **12)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z poniższych kategorii:
-    - **a)** pojazdy silnikowe niezależnie od układu napędowego,
-    - **b)** przyczepy o masie własnej przekraczającej 750 kg,
-    - **c)** przyczepy turystyczne,
-    - **d)** urządzenia przemysłowe,
-    - **e)** jednostki pływające,
-    - **f)** silniki jednostek pływających,
-    - **g)** kontenery,
-    - **h)** statki powietrzne,
-    - **i)** silniki statków powietrznych,
-    - **j)** broń palna,
-    - **k)** blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone, utracone lub które mają charakter takich dokumentów, ale są fałszywe,
-    - **l)** wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów, ale są fałszywe,
-    - **m)** dowody rejestracyjne pojazdów i tablice rejestracyjne pojazdów, które zostały skradzione, przywłaszczone, utracone lub unieważnione lub które mają charakter takich dokumentów lub tablic rejestracyjnych, ale są fałszywe,
-    - **n)** banknoty o spisanych numerach i banknoty fałszywe,
-    - **o)** sprzęt informatyczny,
-    - **p)** możliwe do zidentyfikowania części pojazdów silnikowych,
-    - **q)** możliwe do zidentyfikowania części urządzeń przemysłowych,
-    - **r)** inne możliwe do zidentyfikowania przedmioty o znacznej wartości, zdefiniowane zgodnie z art. 38 ust. 3 rozporządzenia 2018/1862 – przysługuje Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-
-- **13)** przedmiotów podlegających zatrzymaniu, należących do jednej z kategorii:
-    - **a)** blankiety dokumentów urzędowych, które zostały skradzione, przywłaszczone lub utracone,
-    - **b)** wydane dokumenty tożsamości, takie jak paszporty, dowody tożsamości, dokumenty pobytowe, dokumenty podróży oraz prawa jazdy, które zostały skradzione, przywłaszczone, utracone lub unieważnione – przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub wojewodzie;
-
-- **14)** podlegających zatrzymaniu dowodów rejestracyjnych pojazdów i tablic rejestracyjnych pojazdów, które zostały skradzione, przywłaszczone, utracone lub unieważnione – przysługuje ministrowi właściwemu do spraw wewnętrznych;
-- **15)** danych daktyloskopijnych znalezionych na miejscu popełnienia przestępstw o charakterze terrorystycznym lub innych poważnych przestępstw będących przedmiotem postępowania przygotowawczego, jeżeli zachodzi bardzo wysokie prawdopodobieństwo, że należą do sprawcy – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, Policji, Służbie Celno-Skarbowej, Żandarmerii Wojskowej lub Straży Granicznej.
-
-2. W przypadku braku bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI), spowodowanego przyczynami niezależnymi od danego organu, organy wymienione w ust. 1 mogą dokonywać wpisów danych SIS za pośrednictwem centralnego organu technicznego KSI.
-
-3. Organy wymienione w ust. 1 odpowiadają za wprowadzone wpisy danych SIS, w tym dokonują ich aktualizacji, weryfikacji, przedłużenia okresu utrzymywania i usunięcia na zasadach określonych w art. 39 ust. 1–5 i 7, art. 40 i art. 44 rozporządzenia 2018/1861 oraz art. 53 ust. 1–7 i 9, art. 54 ust. 1–4, art. 55 i art. 59 rozporządzenia 2018/1862.
-
-4. W przypadku operacji, o której mowa w art. 26 ust. 4 rozporządzenia 2018/1862, o zgodę na tymczasowy brak dostępności do wglądu danych SIS zawartych w istniejącym wpisie, o którym mowa w ust. 1 pkt 1 i 2, do sądu lub prokuratury albo organu wymiaru sprawiedliwości innego państwa, który wprowadził wpis, może wystąpić Policja, Straż Graniczna, Agencja Bezpieczeństwa Wewnętrznego lub Centralne Biuro Antykorupcyjne.
-
-5. W przypadku gdy decyzja, o której mowa w ust. 1 pkt 5, została zrealizowana zgodnie z art. 6 rozporządzenia 2018/1860 i towarzyszy jej zakaz wjazdu, o którym mowa w art. 24 ust. 1 lit. b rozporządzenia 2018/1861, Szefowi Urzędu do Spraw Cudzoziemców przysługuje możliwość dokonania wpisu określonego w ust. 1 pkt 4 w miejsce wpisu określonego w ust. 1 pkt 5 zgodnie z art. 24 rozporządzenia 2018/1861.
-
-6. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 5, pozwalającego na skuteczną identyfikację osoby nim objętej, organ uprawniony przetwarza dane SIS zgodnie z zakresem wskazanym w art. 4 rozporządzenia 2018/1860. W celu dokonania wpisu do Systemu Informacyjnego Schengen określonego w ust. 1 pkt 1–4 i 6–15, pozwalającego na skuteczną identyfikację osoby nim objętej, organy uprawnione przetwarzają dane SIS zgodnie z zakresem wskazanym w art. 20 rozporządzenia 2018/1861 oraz art. 20 rozporządzenia 2018/1862.
-
-**Art. 3a.** (uchylony)
-
-**Art. 3b.** Dostęp do Krajowego Systemu Informatycznego (KSI) w celu dokonywania wpisów danych SIS, o których mowa w art. 3 ust. 1 pkt 1–3, 7–10 i 12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
-
-**Art. 4.**
-
-1. Uprawnienie do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących:
-
-- **1)** osób poszukiwanych do tymczasowego aresztowania w celu wydania ich na wniosek państwa członkowskiego lub państwa obcego – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, ministrowi właściwemu do spraw wewnętrznych, wojewodzie, sądowi lub prokuraturze;
-- **2)** osób poszukiwanych do tymczasowego aresztowania, o których mowa w art. 3 ust. 1 pkt 2 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, ministrowi właściwemu do spraw wewnętrznych, wojewodzie, sądowi lub prokuraturze;
-- **3)** osób poszukiwanych w celu zapewnienia informacji o ich miejscu zamieszkania lub pobytu, o których mowa w art. 3 ust. 1 pkt 3 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, sądowi lub prokuraturze;
-- **4)** cudzoziemców, o których mowa w art. 3 ust. 1 pkt 4 – przysługuje ministrowi właściwemu do spraw zagranicznych, ministrowi właściwemu do spraw wewnętrznych, Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, Szefowi Urzędu do Spraw Cudzoziemców, wojewodzie, konsulowi, sądowi lub prokuraturze;
-- **5)** cudzoziemców, o których mowa w art. 3 ust. 1 pkt 5 – przysługuje ministrowi właściwemu do spraw zagranicznych, ministrowi właściwemu do spraw wewnętrznych, Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, Szefowi Urzędu do Spraw Cudzoziemców, wojewodzie, konsulowi, sądowi lub prokuraturze;
-- **6)** osób zaginionych, o których mowa w art. 3 ust. 1 pkt 6 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, ministrowi właściwemu do spraw wewnętrznych, wojewodzie, sądowi lub prokuraturze;
-- **7)** małoletnich, o których mowa w art. 3 ust. 1 pkt 7 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **8)** małoletnich, o których mowa w art. 3 ust. 1 pkt 8 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **9)** małoletnich, o których mowa w art. 3 ust. 1 pkt 9 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **10)** osób pełnoletnich narażonych na niebezpieczeństwo, o których mowa w art. 3 ust. 1 pkt 10 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **11)** osób lub przedmiotów wprowadzonych w celu przeprowadzania kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych, o których mowa w art. 3 ust. 1 pkt 11 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Żandarmerii Wojskowej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, Służbie Ochrony Państwa, ministrowi właściwemu do spraw wewnętrznych, wojewodzie, sądowi lub prokuraturze;
-- **12)** przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 – przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celno-Skarbowej, sądowi lub prokuraturze;
-- **13)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. k oraz l – przysługuje ministrowi właściwemu do spraw wewnętrznych, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców, wojewodzie lub konsulowi;
-- **14)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. a–i, m, p oraz q – przysługuje ministrowi właściwemu do spraw wewnętrznych, Służbie Ochrony Państwa, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego lub wojewodzie mazowieckiemu;
-- **15)** przedmiotów podlegających zatrzymaniu albo mogących stanowić dowód w sprawie lub podlegających zajęciu w celu zabezpieczenia w postępowaniu karnym lub postępowaniu karnym skarbowym, należących do jednej z kategorii, o których mowa w art. 3 ust. 1 pkt 12 lit. a, e oraz h – przysługuje naczelnikowi urzędu skarbowego;
-- **16)** przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. h oraz i – przysługuje Prezesowi Urzędu Lotnictwa Cywilnego;
-- **17)** danych daktyloskopijnych, o których mowa w art. 3 ust. 1 pkt 15, jeżeli zachodzi wysokie prawdopodobieństwo, że należą do sprawcy – przysługuje Agencji Bezpieczeństwa Wewnętrznego, Policji, Żandarmerii Wojskowej, Służbie Celno-Skarbowej, Centralnemu Biuru Antykorupcyjnemu lub Straży Granicznej.
+Ustawa określa zasady i tryb udziału Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej, w tym obowiązki organów dokonujących wpisów oraz organów uprawnionych do dostępu do danych w zakresie wykorzystywania informacji zawartych w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej poprzez Krajowy System Informatyczny (KSI).
 
-2. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. a–c, m oraz p – przysługuje organom jednostek samorządu terytorialnego właściwym w sprawach rejestracji pojazdów.
+### Art. 2.
 
-3. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS dotyczących przedmiotów, o których mowa w art. 3 ust. 1 pkt 12 lit. e oraz f – przysługuje dyrektorowi urzędu morskiego, izbie morskiej, dyrektorowi urzędu żeglugi śródlądowej oraz organom rejestrującym w rozumieniu art. 2 pkt 8 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2020 r. poz. 1500, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261).
+Ilekroć w ustawie jest mowa o:
 
-4. Uprawnienie do wglądu do danych SIS przysługuje organom określonym w:
+### 1)
 
-- **1)** ust. 1 pkt 14 i ust. 2 wyłącznie w związku z wykonywaniem obowiązku rejestracji pojazdów określonego w art. 73 i art. 74 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2022 r. poz. 988, z późn. zm. ) w celu sprawdzenia, czy zgłoszone do rejestracji pojazdy oraz towarzyszące im dowody rejestracyjne i tablice rejestracyjne nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
-- **2)** ust. 1 pkt 16 wyłącznie w związku z wykonywaniem obowiązku rejestracji statków powietrznych określonego w art. 34, art. 35 i art. 37 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) albo obowiązku ich wpisu do ewidencji określonego w przepisach wydanych na podstawie art. 33 ust. 2 i 4 tej ustawy w celu sprawdzenia, czy statki powietrzne zgłoszone do rejestracji albo ewidencji lub ich silniki nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
-- **3)** ust. 3 wyłącznie w związku z wykonywaniem obowiązku rejestracji jednostek pływających określonego w art. 23 i art. 39 ustawy z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2018 r. poz. 2175, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261), art. 18 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2022 r. poz. 1097 i 2642) oraz art. 4 ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m w celu sprawdzenia, czy zgłoszone do rejestracji jednostki pływające, w tym silniki jednostek pływających, nie zostały skradzione, przywłaszczone, utracone lub nie są poszukiwane jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym.
-
-5. Organy, o których mowa w ust. 1, w przypadku odnalezienia na skutek wglądu do danych SIS osoby lub przedmiotu, których dotyczy wpis, są obowiązane bezzwłocznie poinformować o tym odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE oraz podjąć wnioskowane we wpisie działania, o ile realizowane przez dany organ zadania umożliwiają mu takie działania, albo bezzwłocznie przekazać osobę lub przedmiot Policji. Przy realizacji tych obowiązków organy korzystają w szczególności z formularzy odnalezienia osoby, odnalezienia przedmiotu, tożsamości przywłaszczonej, oświadczenia o wyrażeniu zgody na uzupełnienie danych SIS oraz protokołu przekazania osoby.
-
-6. Organy, o których mowa w ust. 2 i 3, w przypadku odnalezienia na skutek wglądu do danych SIS przedmiotu, którego dotyczy wpis, są obowiązane podjąć wnioskowane we wpisie działania, bezzwłocznie informując odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE, albo bezzwłocznie przekazać przedmiot Policji, a w razie braku takiej możliwości bezzwłocznie przekazać Policji informację o odnalezieniu przedmiotu.
-
-7. W przypadku przekazania osoby lub przedmiotu albo informacji, o której mowa w ust. 6, Policja podejmuje wnioskowane we wpisie działania na podstawie ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2023 r. poz. 171, z późn. zm. ), bezzwłocznie informując odpowiednio organ wymieniony w art. 3, który dokonał wpisu, albo biuro SIRENE oraz stosuje inne przewidziane prawem środki w oparciu o przekazane wraz z osobą lub przedmiotem materiały, w szczególności treść zgromadzonej w związku z zatrzymaniem dokumentacji.
+bezpośrednim dostępie - rozumie się przez to dostęp do danych wykorzystywanych poprzez Krajowy System Informatyczny, realizowany w sposób bezpośredni przez organ wskazany w ustawie;
 
-8. Dokumenty, o których mowa w ust. 5, zawierają:
+### 2)
 
-- **1)** formularz odnalezienia osoby:
-    - **a)** nazwisko,
-    - **b)** imiona,
-    - **c)** nazwisko rodowe,
-    - **d)** wcześniej używane nazwiska,
-    - **e)** datę, miejsce i kraj urodzenia,
-    - **f)** obywatelstwo,
-    - **g)** płeć,
-    - **h)** informacje o innej tożsamości,
-    - **i)** dane posiadanego dokumentu tożsamości: – rodzaj dokumentu, – seria i numer dokumentu, – kraj wydania, – data wydania i ważności,
-    - **j)** dane dotyczące zezwolenia na pobyt lub wizy długoterminowej: – rodzaj i numer dokumentu, – kraj wydania, – okres ważności,
-    - **k)** dane osób towarzyszących osobie odnalezionej: – imiona i nazwisko, – data urodzenia,
-    - **l)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+Centralnym Systemie Informacji Wizowej - rozumie się przez to Centralny Wizowy System Informacyjny, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego (VIS) ([Dz. Urz. UE L 213 z 15.06.2004, str. 5-7](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **2)** formularz odnalezienia przedmiotu:
-    - **a)** dane osoby posiadającej lub osób posiadających odnaleziony przedmiot: – imiona, – nazwisko, – data urodzenia, – opis osoby posiadającej lub osób posiadających odnaleziony przedmiot,
-    - **b)** dane osób towarzyszących osobie posiadającej odnaleziony przedmiot: – imiona i nazwisko, – data urodzenia,
-    - **c)** dane osoby upoważnionej, która sporządziła i nadała formularz: – imię i nazwisko, – jednostka organizacyjna i organ, – telefon służbowy lub faks i adres poczty elektronicznej, – podpis lub odpowiednio dla wersji elektronicznej numer identyfikacyjny w systemie,
-    - **d)** dane dotyczące osoby powiązanej z zabezpieczonym przedmiotem: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – dane dotyczące posiadanego dokumentu tożsamości (seria, numer, data wydania, kraj wydania dokumentu tożsamości),
-    - **e)** dane dotyczące dokumentu (blankietu dokumentu, wydanego dokumentu tożsamości, dokumentu pobytowego, dokumentu podróży, prawa jazdy oraz dowodu rejestracyjnego pojazdu): – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości,
-    - **f)** dane dotyczące prawowitego właściciela: – nazwisko, – imiona, – nazwisko rodowe, – data urodzenia, – miejsce urodzenia, – płeć, – obywatelstwo, – inne posiadane tożsamości, – posiadany dokument tożsamości (seria, numer, nazwa organu, który wydał dokument oraz data jego wydania),
-    - **g)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+### 3)
 
-- **3)** formularz tożsamości przywłaszczonej:
-    - **a)** dane tożsamości przywłaszczonej: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć,
-    - **b)** informacje o innej tożsamości: – nazwisko, – imiona, – nazwisko rodowe, – wcześniej używane nazwiska, – data, miejsce i kraj urodzenia, – obywatelstwa, – płeć,
-    - **c)** dane dotyczące dokumentu: – rodzaj dokumentu, – kraj wydania, – numer dokumentu, – data i miejsce wydania, – organ wydający, – data ważności, – imię i nazwisko ojca oraz imię i nazwisko matki,
-    - **d)** aktualny adres zamieszkania: – kraj zamieszkania lub pobytu, – województwo lub region, – miejscowość zamieszkania, – ulica, kod pocztowy, – miejscowość poczty, – numer telefonu lub inne dane kontaktowe, – inne dane dotyczące miejsca zamieszkania,
-    - **e)** inne dane określone w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4, art. 9 ust. 5, art. 20 ust. 3 i art. 32 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4, art. 9 ust. 5, art. 12 ust. 8, art. 20 ust. 4, art. 26 ust. 6, art. 32 ust. 9, art. 34 ust. 3, art. 36 ust. 6, art. 38 ust. 4, art. 42 ust. 5 i art. 62 ust. 4 rozporządzenia 2018/1862, służące realizacji procedury wymiany informacji uzupełniających;
+centralnym organie technicznym KSI - rozumie się przez to Komendanta Głównego Policji;
 
-- **4)** oświadczenie o wyrażeniu zgody na uzupełnienie danych SIS:
-    - **a)** zgodę na uzupełnienie danych SIS w celu rozwiązywania problemów związanych z przywłaszczaniem tożsamości o imiona i nazwisko, nazwisko rodowe, miejsce i datę urodzenia, płeć danej osoby oraz jej fotografie, odbitki linii papilarnych, posiadany przez nią dokument lub dokumenty tożsamości wraz z danymi identyfikacyjnymi każdego z tych dokumentów, a także o poprzednio używane imiona i nazwiska, inne posiadane tożsamości, szczególne obiektywne cechy fizyczne niepodlegające zmianom, posiadane obywatelstwa, adres zamieszkania danej osoby oraz imiona i nazwiska jej rodziców,
-    - **b)** potwierdzenie okoliczności przekazania informacji o celu dostępności i wykorzystania objętych zgodą danych,
-    - **c)** potwierdzenie świadomości osoby udzielającej zgody co do istnienia możliwości cofnięcia zgody w każdym czasie,
-    - **d)** datę i podpis osoby udzielającej zgody;
+### 4)
 
-- **5)** protokół przekazania osoby:
-    - **a)** nazwę i numer rejestru albo znak sprawy,
-    - **b)** nazwę jednostki organizacyjnej przekazującej osobę i miejsce przekazania,
-    - **c)** datę, godzinę i miejsce sporządzenia protokołu oraz datę i godzinę przekazania protokołu,
-    - **d)** stopień, imię i nazwisko osoby przekazującej i osoby przejmującej, a także ich stanowiska, nazwy jednostek i komórek organizacyjnych oraz inne informacje niezbędne do określenia przynależności służbowej tych osób,
-    - **e)** nazwisko, imiona, nazwisko rodowe, datę i miejsce urodzenia, numer tożsamości, płeć, obywatelstwo, rysopis osoby przekazywanej oraz jej numer ID Schengen, a także posiadany przez nią dokument tożsamości wraz z danymi identyfikacyjnymi tego dokumentu,
-    - **f)** nazwiska, imiona, stopień, stanowiska lub pełnione funkcje innych osób uczestniczących w przekazaniu oraz nazwy jednostek i komórek organizacyjnych lub reprezentowanego przez nie podmiotu oraz inne informacje niezbędne do określenia przynależności służbowej tych osób,
-    - **g)** uwagi dotyczące przekazania oraz uwagi dotyczące skreśleń i poprawek,
-    - **h)** wykaz rzeczy oraz dokumentów przekazanych wraz z osobą,
-    - **i)** podpisy osób biorących udział w czynności.
+danych - rozumie się przez to dane SIS lub dane VIS;
 
-9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przekazywania Policji osób lub przedmiotów odnalezionych na skutek wglądu do danych SIS, procedurę postępowania w przypadkach ujawnienia tożsamości przywłaszczonej oraz sposób i tryb współpracy organów z biurem SIRENE, w tym procedurę wymiany informacji uzupełniających określonych w art. 37 ust. 2 niezbędnych do wykonania wnioskowanych we wpisie działań, a także wzory dokumentów, o których mowa w ust. 5, uwzględniając sprawną i skuteczną realizację wnioskowanych we wpisie działań wobec odnalezionych osób lub przedmiotów.
+### 5)
 
-10. Uprawnienie do weryfikacji dopasowań uzyskanych przez uprawniony organ, opierających się na porównaniu danych biometrycznych, przysługuje Centralnemu Laboratorium Kryminalistycznemu Policji.
+danych SIS - rozumie się przez to dane określone w art. 94 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach ([Dz. Urz. UE L 239 z 22.09.2000, str. 19](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanej dalej „Konwencją Wykonawczą”;
 
-11. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób i tryb przetwarzania danych biometrycznych oraz sposób i tryb weryfikacji dopasowań opartych na porównaniu danych daktyloskopijnych, uwzględniając procedurę postępowania i warunki techniczne przy pobieraniu, rejestrowaniu i przekazywaniu tych danych.
+### 6)
 
-**Art. 4a.** (uchylony)
+danych VIS - rozumie się przez to dane przetwarzane w Systemie Informacji Wizowej, określone w odrębnych przepisach wydanych przez organy Unii Europejskiej, dotyczących funkcjonowania Systemu Informacji Wizowej;
 
-**Art. 4b.** Dostęp do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych SIS, o których mowa w art. 4 ust. 1 pkt 1–12, sądy realizują za pośrednictwem systemu teleinformatycznego prowadzonego przez Ministra Sprawiedliwości.
+### 7)
 
-**Art. 5.**
+informacjach uzupełniających - rozumie się przez to wszelkie informacje, wymieniane za pośrednictwem biur SIRENE między krajowymi a zagranicznymi organami uprawnionymi do wykorzystywania danych SIS, niezbędne przy dokonywaniu wpisów do Systemu Informacyjnego Schengen lub w celu umożliwienia podjęcia odpowiednich działań, w przypadkach gdy w wyniku przeglądania danych SIS odnaleziono osoby lub przedmioty, których dotyczą wpisy;
 
-1. Bezpośredni dostęp do Wizowego Systemu Informacyjnego jest realizowany poprzez Krajowy System Informatyczny (KSI) w celu dokonywania wpisów danych VIS przez Straż Graniczną, konsula, wojewodę, ministra właściwego do spraw zagranicznych lub Szefa Urzędu do Spraw Cudzoziemców.
+### 8)
 
-2. Organy określone w ust. 1 są obowiązane do:
+interfejsie krajowym - rozumie się przez to interfejs krajowy, o którym mowa w art. 1 ust. 2 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego;
 
-- **1)** wymiany krajowych danych VIS przez dokonywanie wpisów do Centralnego Wizowego Systemu Informacyjnego poprzez Krajowy System Informatyczny (KSI);
-- **2)** zapewnienia, aby dokonywane przez dany organ wpisy danych VIS były zgodne z prawem, a ponadto, aby te dane VIS były dokładne i aktualne;
-- **3)** zapewnienia usuwania danych VIS po upływie okresu, na który dane te zostały przez dany organ wprowadzone;
-- **4)** niezwłocznego informowania centralnego organu technicznego KSI o ujawnionych nieprawidłowościach w związku z wykorzystaniem danych VIS poprzez Krajowy System Informatyczny (KSI);
-- **5)** rozpatrzenia wniosków państw członkowskich o dokonanie zmiany lub usunięcia danych VIS wprowadzonych przez dany organ oraz powiadomienia państw członkowskich o konieczności dokonania zmiany lub usunięcia danych VIS wprowadzonych przez te państwa członkowskie.
+### 9)
 
-3. Konsul lub wojewoda niezwłocznie powiadamiają państwo członkowskie lub państwa członkowskie o nabyciu obywatelstwa polskiego przez osobę ubiegającą się o wizę w tym państwie członkowskim lub państwach członkowskich.
+jednostce centralnej Systemu Informacyjnego Schengen - rozumie się przez to jednostkę centralną Systemu Informacyjnego Schengen, o której mowa w art. 92 ust. 3 Konwencji Wykonawczej;
 
-**Art. 6.** Bezpośredni dostęp do Wizowego Systemu Informacyjnego realizowany poprzez Krajowy System Informatyczny (KSI) umożliwiający wgląd do danych VIS w celu:
+### 10)
 
-**Art. 7.**
+kopii krajowej - rozumie się przez to kopię bazy danych SIS z jednostki centralnej Systemu Informacyjnego Schengen;
 
-1. Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu wglądu do danych VIS przysługuje sądowi, prokuraturze, Policji, Straży Granicznej, Służbie Celno-Skarbowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Ochrony Państwa, Służbie Kontrwywiadu Wojskowego, Żandarmerii Wojskowej lub Służbie Wywiadu Wojskowego, jeżeli:
+### 11)
 
-- **1)** dostęp jest konieczny w celu zapobiegania, wykrywania lub ścigania przestępstw wymienionych w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;
-- **2)** jest to niezbędne w związku z określoną sprawą;
-- **3)** istnieją uzasadnione powody do uznania, że wgląd do danych VIS ma istotne znaczenie dla zapobiegania, wykrywania lub ścigania przestępstw, o których mowa w pkt 1.
+Krajowym Systemie Informatycznym - rozumie się przez to zespół współpracujących ze sobą urządzeń, oprogramowania, procedur przetwarzania informacji, narzędzi programowych zastosowanych w celu przetwarzania danych oraz infrastrukturę telekomunikacyjną, umożliwiające organom administracji publicznej i organom wymiaru sprawiedliwości przekazywanie oraz dostęp do danych gromadzonych w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej;
 
-2. Pośredni dostęp, o którym mowa w ust. 1, jest realizowany poprzez centralne punkty dostępu, którymi są odpowiednio dla:
+### 12)
 
-- **1)** sądu, prokuratury, Policji – Komendant Główny Policji;
-- **2)** Straży Granicznej – Komendant Główny Straży Granicznej;
-- **3)** Służby Celno-Skarbowej – Szef Krajowej Administracji Skarbowej;
-- **4)** Agencji Bezpieczeństwa Wewnętrznego – Szef Agencji Bezpieczeństwa Wewnętrznego;
-- **5)** Agencji Wywiadu – Szef Agencji Wywiadu;
-- **6)** Centralnego Biura Antykorupcyjnego – Szef Centralnego Biura Antykorupcyjnego;
-- **7)** (uchylony)
-- **8)** Służby Ochrony Państwa – Komendant Służby Ochrony Państwa;
-- **9)** Służby Kontrwywiadu Wojskowego – Szef Służby Kontrwywiadu Wojskowego;
-- **10)** Służby Wywiadu Wojskowego – Szef Służby Wywiadu Wojskowego;
-- **11)** Żandarmerii Wojskowej – Komendant Główny Żandarmerii Wojskowej. <3. Pośredni dostęp do danych VIS dla podmiotów wymienionych w ust. 1 w przypadku realizowania wniosku o dostęp do danych EES, o którym mowa w art. 4 ust. 5 ustawy z dnia 18 października 2024 r. o udziale Rzeczypospolitej Polskiej w Systemie Wjazdu/Wyjazdu (Dz. U. poz. 1688), jest realizowany przez centralny punkt dostępu, którym jest Komendant Główny Straży Granicznej.>
+module krajowym - rozumie się przez to polski krajowy moduł Systemu Informacyjnego Schengen, o którym mowa w art. 92 ust. 2 Konwencji Wykonawczej;
 
-#### Rozdział 3 Ochrona danych osobowych oraz odpowiedzialność za niezgodne z prawem działanie lub zaniechanie związane z przetwarzaniem danych
+### 13)
 
-**Art. 8.** Prezes Urzędu Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) w celu sprawowania kontroli.
+Państwie Członkowskim - rozumie się przez to państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym nienależące do Unii Europejskiej lub państwo niebędące stroną umowy o Europejskim Obszarze Gospodarczym, którego obywatele mogą korzystać ze swobody przepływu osób na podstawie umów zawartych przez to państwo ze Wspólnotą Europejską i jej państwami członkowskimi, z wyjątkiem państwa, wobec którego Rada podjęła decyzję o niestosowaniu przepisów dorobku Schengen;
 
-**Art. 9.** Prezes Urzędu Ochrony Danych Osobowych w przypadkach, o których mowa w art. 44 ust. 6 rozporządzenia 2018/1861 oraz art. 59 ust. 6 rozporządzenia 2018/1862, jest organem uprawnionym do przekazania sprawy Europejskiemu Inspektorowi Ochrony Danych w celu podjęcia działań mediacyjnych.
+### 14)
 
-**Art. 10.** Administratorem danych osobowych przetwarzanych poprzez Krajowy System Informatyczny (KSI) jest Centralny organ techniczny KSI.
+pośrednim dostępie - rozumie się przez to dostęp do danych wykorzystywanych poprzez Krajowy System Informatyczny, realizowany w sytuacjach wskazanych w ustawie za pośrednictwem centralnego organu technicznego KSI albo organu wskazanego w art. 7 ust. 2;
 
-**Art. 11.**
+### 15)
 
-1. Przetwarzanie danych może następować bez wiedzy i zgody osób, których dane dotyczą, oraz bez obowiązku ujawniania faktycznego celu zbierania danych.
+Systemie Informacyjnym Schengen - rozumie się przez to system informacyjny, o którym mowa w art. 92 ust. 1-3 Konwencji Wykonawczej;
 
-2. Decyzje podejmowane przez właściwe organy w celu rozpatrzenia wniosku wizowego, sprawdzenia autentyczności wizy lub spełnienia warunków wjazdu lub pobytu na terytorium Rzeczypospolitej Polskiej lub państw członkowskich mogą się opierać wyłącznie na zautomatyzowanym przetwarzaniu danych osobowych.
+### 16)
 
-**Art. 12.** (uchylony)
+Systemie Informacji Wizowej - rozumie się przez to system, o którym mowa w art. 1 decyzji Rady 2004/512/WE z dnia 8 czerwca 2004 r. w sprawie ustanowienia Wizowego Systemu Informacyjnego;
 
-**Art. 13.** (uchylony)
+### 17)
 
-#### Rozdział 4 Bezpieczeństwo Krajowego Systemu Informatycznego (KSI)
+wpisie - rozumie się przez to czynności faktyczne skutkujące wprowadzeniem do Systemu Informacyjnego Schengen lub Systemu Informacji Wizowej zestawu danych umożliwiających właściwym organom identyfikację osoby lub przedmiotu oraz podjęcie wnioskowanego działania w związku ze zidentyfikowaniem osoby lub przedmiotu;
 
-**Art. 14.** Organy, o których mowa w rozdziale 2, obowiązane są, w zakresie swojego działania, do współpracy z centralnym organem technicznym KSI w celu realizacji ich zadań związanych z udziałem w Systemie Informacyjnym Schengen lub Wizowym Systemie Informacyjnym, w tym do przekazywania dokumentów oraz udzielania informacji.
+### 18)
 
-**Art. 15.** Centralny organ techniczny KSI składa ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, sprawozdanie z funkcjonowania Krajowego Systemu Informatycznego (KSI) w poprzednim roku kalendarzowym.
+wykorzystywaniu danych - rozumie się przez to przetwarzanie danych będących danymi osobowymi w rozumieniu ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285 oraz z 2006 r. Nr 104, poz. 708 i 711.](#gloss-0:1:)), jak również jakiekolwiek operacje wykonywane na danych niebędących danymi osobowymi, takie jak zbieranie, wpisywanie, utrwalanie, przechowywanie, opracowywanie, zmienianie, udostępnianie i usuwanie.
 
-**Art. 16.**
+### Rozdział 2 Organy i służby uprawnione do wykorzystywania danych
 
-1. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad prawidłowością działania Krajowego Systemu Informatycznego (KSI).
+### Art. 3.
 
-2. Minister właściwy do spraw wewnętrznych, w celu wykonania nadzoru wynikającego z ust. 1, ma w szczególności prawo:
+### 1.
 
-- **1)** dostępu do wykazu zarejestrowanych przypadków, o których mowa w art. 27 ust. 1 pkt 10;
-- **2)** sprawdzania, czy Krajowy System Informatyczny (KSI) spełnia wymagania techniczne niezbędne do udziału w Systemie Informacyjnym Schengen i Wizowym Systemie Informacyjnym;
-- **3)** sprawdzania, czy osoby mające dostęp do Krajowego Systemu Informatycznego (KSI) zostały odpowiednio przeszkolone w zakresie bezpieczeństwa danych oraz zasad ich ochrony oraz czy posiadają upoważnienie, o którym mowa w art. 25 ust. 2, a także czy wobec tych osób przeprowadzono kontrolę bezpieczeństwa;
-- **4)** sprawdzania prawidłowości opisu zadań i funkcji osób mających dostęp do Krajowego Systemu Informatycznego (KSI);
-- **5)** sprawdzania, czy jest zapewniona odpowiednia fizyczna ochrona Krajowego Systemu Informatycznego (KSI) przez organy mające do niego bezpośredni dostęp, w szczególności czy nie ma możliwości dostępu osób nieuprawnionych do Krajowego Systemu Informatycznego (KSI).
+Uprawnienie do bezpośredniego dostępu do Krajowego Systemu Informatycznego w celu dokonywania wpisów danych SIS dotyczących:
 
-**Art. 17.**
+### 1)
 
-1. Minister właściwy do spraw wewnętrznych, przed uruchomieniem Krajowego Systemu Informatycznego (KSI), jest uprawniony do sprawdzenia gotowości do prawidłowej eksploatacji Krajowego Systemu Informatycznego (KSI) w ramach poszczególnych organów uprawnionych do bezpośredniego dostępu.
+osób poszukiwanych do tymczasowego aresztowania w celu wydania ich na wniosek państw obcych przysługuje sądowi lub prokuraturze;
 
-2. W przypadku stwierdzenia braku gotowości do prawidłowej eksploatacji Krajowego Systemu Informatycznego (KSI) w ramach poszczególnych organów uprawnionych do bezpośredniego dostępu minister właściwy do spraw wewnętrznych jest uprawniony do wstrzymania uruchomienia Krajowego Systemu Informatycznego (KSI) w ramach organu, w przypadku którego stwierdzono nieprawidłowości.
+### 2)
 
-**Art. 18.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) lub jego zabezpieczenia w poszczególnych organach mających do niego bezpośredni dostęp minister właściwy do spraw wewnętrznych jest uprawniony do zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI) dla organu, w przypadku którego stwierdzone zostały te nieprawidłowości, do czasu ich usunięcia.
+osób poszukiwanych do tymczasowego aresztowania w celu przekazania osoby ściganej na podstawie europejskiego nakazu aresztowania przysługuje sądowi lub prokuraturze;
 
-**Art. 19.** W celu wykonania zadań, o których mowa w art. 16–18, minister właściwy do spraw wewnętrznych może:
+### 3)
 
-**Art. 20.** W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego (KSI) minister właściwy do spraw wewnętrznych może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania tych osób, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
+świadków lub osób wezwanych do stawienia się przed sądami w związku z postępowaniem karnym w celu poniesienia odpowiedzialności za czyny, za które są ścigane, lub osób, wobec których powinien zostać wykonany wyrok w sprawie karnej, lub osób wezwanych do stawienia się w celu odbycia kary pozbawienia wolności, dla ustalenia miejsca ich pobytu przysługuje sądowi lub prokuraturze;
 
-**Art. 21.**
+### 4)
 
-1. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki techniczne, sposób i tryb dokonywania wpisów danych SIS oraz tworzenia odsyłaczy pomiędzy wpisami w Systemie Informacyjnym Schengen, a także sposób i tryb aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny (KSI), mając na względzie prawidłowe wykonywanie przez Rzeczpospolitą Polską zobowiązań wynikających z udziału w Systemie Informacyjnym Schengen.
+cudzoziemców, o których mowa w art. 134a ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html) i [Nr 165, poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.html)), przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób wykorzystywania Krajowego Systemu Informatycznego (KSI) jako krajowego interfejsu Wizowego Systemu Informacyjnego, w tym sposób dokonywania wpisów danych VIS, a także wglądu do danych VIS, mając na względzie prawidłowe wykonanie przez Rzeczpospolitą Polską zobowiązań wynikających z udziału w Wizowym Systemie Informacyjnym.
+### 5)
 
-**Art. 22.**
+osób zaginionych lub osób, które dla ich ochrony lub w celu zapobiegania stwarzanym przez nie zagrożeniom powinny zostać oddane do właściwej placówki opiekuńczej lub leczniczej, przysługuje Policji;
 
-1. Organy uprawnione zgodnie z art. 3 ust. 2 do dokonania wpisu danych SIS za pośrednictwem centralnego organu technicznego KSI kierują wniosek o dokonanie wnioskowanego wpisu danych SIS na wypełnionej karcie wpisu. Centralny organ techniczny KSI niezwłocznie dokonuje wpisu danych SIS, informując o tym organ, który wystąpił z takim wnioskiem, albo informuje organ o braku możliwości dokonania danego wpisu danych SIS oraz jego przyczynach.
+### 6)
 
-2. Organy wskazane w art. 4 ust. 2 i 3 kierują zapytanie o dane SIS, do których mają dostęp pośredni, do centralnego organu technicznego KSI na wypełnionej karcie zapytania. Centralny organ techniczny KSI przekazuje niezwłocznie odpowiednie dane SIS organowi składającemu zapytanie.
+osób zaginionych, których miejsce przebywania należy ustalić, przysługuje Policji;
 
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór karty wpisu, o której mowa w ust. 1, oraz wzór karty zapytania, o której mowa w ust. 2, a także sposób ich wypełnienia, uwzględniając zakres uprawnień organów do przetwarzania danych SIS.
+### 7)
 
-**Art. 23.** Organy, o których mowa w art. 4, w przypadku stwierdzenia, że przetwarzane przez te organy dane SIS są nieprawidłowe, niezwłocznie informują o tym biuro SIRENE w celu weryfikacji prawidłowości tych danych SIS zgodnie z art. 44 ust. 5 rozporządzenia 2018/1861 oraz art. 59 ust. 5 rozporządzenia 2018/1862.
+osób lub pojazdów, statków wodnych, statków powietrznych i kontenerów, wprowadzonych w celu:
 
-**Art. 24.** Organ uprawniony do przetwarzania danych poprzez Krajowy System Informatyczny (KSI) jest obowiązany stosować odpowiednie procedury kontrolne wskazujące działania podejmowane w ramach danego organu mające na celu zapewnienie zgodności przetwarzania danych z obowiązującymi przepisami.
+### a)
 
-**Art. 25.**
+przeprowadzania niejawnego nadzorowania, którego celem jest ściganie przestępstw oraz zapobieganie zagrożeniom bezpieczeństwa publicznego, przysługuje Policji, organom kontroli skarbowej lub Straży Granicznej,
 
-1. Organ uprawniony do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) jest obowiązany do szkolenia wszystkich osób, które mają realizować to uprawnienie, w zakresie użytkowania Systemu Informacyjnego Schengen i Wizowego Systemu Informacyjnego, bezpieczeństwa i jakości danych, praw podstawowych oraz procedur regulujących przetwarzanie danych.
+### b)
 
-2. Odbycie szkolenia przed przyznaniem upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) stanowi warunek nadania tego upoważnienia (szkolenie dostępowe). Odbycie szkolenia po przyznaniu upoważnienia do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) (szkolenia okresowe) następuje zgodnie z terminami określonymi przez organ uprawniony.
+przeprowadzania kontroli, której celem jest ściganie przestępstw oraz zapobieganie zagrożeniom bezpieczeństwa publicznego, przysługuje Policji, organom kontroli skarbowej, Straży Granicznej lub Służbie Celnej,
 
-3. Centralny organ techniczny KSI na podstawie wystawionego przez organ upoważnienia dla użytkownika indywidualnego do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) nadaje uprawnienie użytkownikowi indywidualnemu do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI), wydając w tym celu osobisty i niepowtarzalny identyfikator użytkownika indywidualnego, a także prowadzi ewidencję tych użytkowników.
+### c)
 
-4. Upoważnienie, o którym mowa w ust. 3, zawiera:
+przeprowadzania niejawnego nadzorowania, którego celem jest zapobieganie poważnym zagrożeniom wewnętrznego i zewnętrznego bezpieczeństwa państwa, przysługuje Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego,
 
-- **1)** imię i nazwisko użytkownika indywidualnego;
-- **2)** numer PESEL użytkownika indywidualnego;
-- **3)** zakres przyznanych użytkownikowi indywidualnemu uprawnień;
-- **4)** okres, na który przyznaje się użytkownikowi indywidualnemu uprawnienia;
-- **5)** oświadczenie użytkownika indywidualnego o zobowiązaniu do zapewnienia bezpieczeństwa danych osobowych, w tym ochrony przed niedozwolonym lub niezgodnym z prawem przetwarzaniem danych osobowych oraz ich przypadkową utratą, zniszczeniem lub uszkodzeniem;
-- **6)** nazwę organu uprawnionego do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI).
+### d)
 
-5. Centralny organ techniczny KSI cofa uprawnienie użytkownikowi indywidualnemu do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI) na podstawie pisemnego wniosku organu, który wystawił upoważnienie dla użytkownika indywidualnego, zawierającego:
+przeprowadzania kontroli, której celem jest zapobieganie poważnym zagrożeniom wewnętrznego i zewnętrznego bezpieczeństwa państwa, przysługuje Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, Służbie Kontrwywiadu Wojskowego lub Służbie Wywiadu Wojskowego;
 
-- **1)** imię i nazwisko użytkownika indywidualnego;
-- **2)** numer PESEL użytkownika indywidualnego;
-- **3)** nazwę organu uprawnionego do bezpośredniego dostępu do Krajowego Systemu Informatycznego (KSI).
+### 8)
 
-6. Organ, o którym mowa w art. 3 ust. 1 i art. 4 ust. 1, upoważnia użytkownika końcowego do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI), a także prowadzi ewidencję tych użytkowników.
+przedmiotów do celów ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym przysługuje sądowi, prokuraturze, Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnemu Biuru Antykorupcyjnemu, organom kontroli skarbowej lub Służbie Celnej.
 
-7. Upoważnienie, o którym mowa w ust. 6, zawiera:
+### 2.
 
-- **1)** imię i nazwisko użytkownika końcowego;
-- **2)** numer PESEL użytkownika końcowego;
-- **3)** zakres przyznanego użytkownikowi końcowemu upoważnienia;
-- **4)** okres, na który przyznaje się użytkownikowi końcowemu upoważnienie.
+W przypadku braku bezpośredniego dostępu do Krajowego Systemu Informatycznego spowodowanego przyczynami niezależnymi od danego organu, organy wymienione w ust. 1 mogą dokonywać wpisów danych SIS za pośrednictwem centralnego organu technicznego KSI.
 
-8. Upoważnienie dla użytkownika końcowego może zawierać dane inne niż wymienione w ust. 7, wyłącznie jeżeli są one niezbędne do upoważnienia użytkownika końcowego do systemu teleinformatycznego użytkownika instytucjonalnego.
+### Art. 4.
 
-9. Do upoważnienia dla użytkownika końcowego należy dołączyć oświadczenie użytkownika końcowego o zobowiązaniu do zapewnienia bezpieczeństwa danych osobowych, w tym ochrony przed niedozwolonym lub niezgodnym z prawem przetwarzaniem danych osobowych oraz ich przypadkową utratą, zniszczeniem lub uszkodzeniem.
+### 1.
 
-10. Ewidencja, o której mowa w ust. 3, zawiera elementy wymienione w ust. 4 pkt 1–4 oraz datę nadania lub cofnięcia uprawnienia. Ewidencja, o której mowa w ust. 6, zawiera elementy wymienione w ust. 7 i 8 oraz datę nadania lub cofnięcia upoważnienia.
+Uprawnienie do bezpośredniego dostępu do Krajowego Systemu Informatycznego w celu wglądu do danych SIS dotyczących:
 
-11. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Prezesa Urzędu Ochrony Danych Osobowych, określi, w drodze rozporządzenia, sposób przeprowadzania szkoleń w zakresie określonym w ust. 1, ze szczególnym uwzględnieniem zasad dotyczących ochrony danych osobowych oraz przetwarzania danych, w tym określanych w aktach wykonawczych Komisji Europejskiej przyjętych na podstawie rozporządzenia 2018/1860, rozporządzenia 2018/1861 oraz rozporządzenia 2018/1862, a także kwalifikacje osób uprawnionych do przeprowadzania tych szkoleń, mając na uwadze konieczność zapewnienia możliwości pełnego korzystania z funkcji Systemu Informacyjnego Schengen i Wizowego Systemu Informacyjnego w zakresie przyznanego dostępu.
+### 1)
 
-12. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb nadania dostępu do Krajowego Systemu Informatycznego (KSI) oraz tryb cofania tego dostępu, sposób przydzielania osobom uprawnionym osobistych i niepowtarzalnych identyfikatorów użytkownika indywidualnego, jak również sposób prowadzenia ewidencji użytkowników końcowych oraz użytkowników indywidualnych, a także wzór upoważnienia dla użytkownika indywidualnego do dostępu do Krajowego Systemu Informatycznego (KSI) oraz przetwarzania danych poprzez Krajowy System Informatyczny (KSI), przy uwzględnieniu konieczności zapewnienia bezpieczeństwa i ochrony przetwarzania danych poprzez Krajowy System Informatyczny (KSI).
+osób poszukiwanych do tymczasowego aresztowania w celu wydania ich na wniosek państw obcych przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celnej, organom kontroli skarbowej, sądowi lub prokuraturze;
 
-#### Rozdział 5 Centralny organ techniczny KSI
+### 2)
 
-**Art. 26.**
+osób poszukiwanych do tymczasowego aresztowania w celu przekazania osoby ściganej na podstawie europejskiego nakazu aresztowania przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celnej, organom kontroli skarbowej, sądowi lub prokuraturze;
 
-1. Organem odpowiedzialnym za system krajowy N.SIS jest centralny organ techniczny KSI.
+### 3)
 
-2. Do zadań centralnego organu technicznego KSI należy:
+świadków lub osób wezwanych do stawienia się przed sądami w związku z postępowaniem karnym w celu poniesienia odpowiedzialności za czyny, za które są ścigane, lub osób, wobec których powinien zostać wykonany wyrok w sprawie karnej, lub osób wezwanych do stawienia się w celu odbycia kary pozbawienia wolności, dla ustalenia miejsca ich pobytu przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Służbie Celnej, organom kontroli skarbowej, sądowi lub prokuraturze;
 
-- **1)** utworzenie, zapewnienie funkcjonowania, utrzymanie i dalsze rozwijanie Krajowego Systemu Informatycznego (KSI);
-- **2)** zapewnienie sprawnego działania i bezpieczeństwa Systemu Informacyjnego Schengen w ramach systemu krajowego N.SIS.
+### 4)
 
-**Art. 27.**
+cudzoziemców, których dane zostały wpisane do Systemu Informacyjnego Schengen dla celów odmowy wjazdu, o których mowa w art. 134a ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach, przysługuje Straży Granicznej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, Agencji Wywiadu, Służbie Celnej, organom kontroli skarbowej, sądowi, prokuraturze, Szefowi Urzędu do Spraw Cudzoziemców, Służbie Kontrwywiadu Wojskowego, wojewodzie, konsulowi lub ministrowi właściwemu do spraw zagranicznych;
 
-1. W celu realizacji zadań, o których mowa w art. 26 ust. 2, centralny organ techniczny KSI jest obowiązany do:
+### 5)
 
-- **1)** przestrzegania obowiązujących protokołów i procedur technicznych w celu zapewnienia kompatybilności Krajowego Systemu Informatycznego (KSI) z systemem centralnym SIS oraz Centralnym Wizowym Systemem Informacyjnym;
-- **2)** zapewnienia, aby dane SIS przechowywane w kopii krajowej były, dzięki automatycznym aktualizacjom, identyczne i spójne z danymi przechowywanymi w systemie centralnym SIS oraz aby wyszukiwanie przeprowadzone w kopii krajowej prowadziło do wyniku równoważnego wynikowi wyszukiwania w bazie danych systemu centralnego SIS;
-- **3)** realizacji zadań wskazanych w art. 10 ust. 1 rozporządzenia 2018/1861 oraz art. 10 ust. 1 rozporządzenia 2018/1862;
-- **4)** umożliwienia organom, o których mowa w art. 3 i art. 4, oraz biuru SIRENE przetwarzania danych SIS poprzez Krajowy System Informatyczny (KSI), w szczególności przez zapewnienie im niezakłóconej dostępności danych SIS, oraz udzielania tym organom niezbędnych informacji do prawidłowego wykonywania przez nie zadań w zakresie uczestnictwa w Systemie Informacyjnym Schengen;
-- **5)** umożliwienia organom, o których mowa w art. 5–7, przetwarzania danych VIS poprzez Krajowy System Informatyczny (KSI) oraz udzielania tym organom niezbędnych informacji do prawidłowego wykonywania przez te organy zadań w zakresie uczestnictwa w Wizowym Systemie Informacyjnym;
-- **6)** przekazywania organowi zarządzającemu systemem centralnym SIS wykazu organów, o których mowa w art. 3 ust. 1 i art. 4 ust. 1, oraz zmian w tym zakresie;
-- **7)** przekazywania Komisji Europejskiej listy organów, o których mowa w art. 5–7;
-- **8)** współpracy z jednostką krajową Europolu w zakresie udzielania zgody na dostęp Agencji Unii Europejskiej do spraw Współpracy Organów Ścigania (Europol) do danych VIS;
-- **9)** zapewnienia rejestrowania wszystkich przypadków, w których uzyskano dostęp do danych lub wykorzystano dane w inny sposób poprzez Krajowy System Informatyczny (KSI);
-- **10)** współdziałania z organami, o których mowa w art. 3 ust. 1, w celu zapewnienia zgodności z prawem, dokładności i aktualności wpisów danych SIS.
+osób zaginionych lub osób, które dla ich ochrony lub w celu zapobiegania stwarzanym przez nie zagrożeniom powinny zostać oddane do właściwej placówki opiekuńczej lub leczniczej, przysługuje Straży Granicznej, Służbie Celnej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, organom kontroli skarbowej, sądowi lub prokuraturze;
 
-2. Centralnemu organowi technicznemu KSI powierza się sprawozdawczość związaną z funkcjonowaniem Krajowego Systemu Informatycznego (KSI), w tym prowadzenie statystyk określonych w art. 39 ust. 6 rozporządzenia 2018/1861 oraz art. 53 ust. 8 i art. 54 ust. 6 rozporządzenia 2018/1862.
+### 6)
 
-**Art. 28.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób rejestrowania przypadków, o których mowa w art. 27 ust. 1 pkt 9, mając na względzie bezpieczeństwo i ochronę danych przetwarzanych poprzez Krajowy System Informatyczny (KSI).
+osób zaginionych, których miejsce przebywania należy ustalić, przysługuje Straży Granicznej, Służbie Celnej, Policji, Agencji Bezpieczeństwa Wewnętrznego lub Żandarmerii Wojskowej;
 
-**Art. 29.**
+### 7)
 
-1. Centralny organ techniczny KSI, przed uruchomieniem Krajowego Systemu Informatycznego (KSI), jest obowiązany poinformować ministra właściwego do spraw wewnętrznych o gotowości Krajowego Systemu Informatycznego (KSI) do uruchomienia.
+osób lub pojazdów, statków wodnych, statków powietrznych i kontenerów, wprowadzonych w celu przeprowadzania niejawnego nadzorowania lub kontroli przysługuje Straży Granicznej, Służbie Celnej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Służbie Kontrwywiadu Wojskowego, Centralnemu Biuru Antykorupcyjnemu, organom kontroli skarbowej, sądowi lub prokuraturze;
 
-2. Minister właściwy do spraw wewnętrznych, po uzyskaniu informacji, o której mowa w ust. 1, przeprowadza kontrolę w zakresie spełniania przez Krajowy System Informatyczny (KSI) wymogów określonych w art. 9 ust. 1 i 2 rozporządzenia 2018/1861 oraz art. 9 ust. 1 i 2 rozporządzenia 2018/1862.
+### 8)
 
-3. Po przeprowadzeniu kontroli, o której mowa w ust. 2, minister właściwy do spraw wewnętrznych przedstawia centralnemu organowi technicznemu KSI pisemną opinię w zakresie spełnienia przez Krajowy System Informatyczny (KSI) wymogów określonych w art. 9 ust. 1 i 2 rozporządzenia 2018/1861 oraz art. 9 ust. 1 i 2 rozporządzenia 2018/1862, a w przypadku stwierdzenia nieprawidłowości w Krajowym Systemie Informatycznym (KSI) przekazuje centralnemu organowi technicznemu KSI zalecenia pokontrolne w formie pisemnej.
+przedmiotów w celu ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym, wskazanych w art. 100 ust. 3 Konwencji Wykonawczej, przysługuje Straży Granicznej, Służbie Celnej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Żandarmerii Wojskowej, Centralnemu Biuru Antykorupcyjnemu, organom kontroli skarbowej, ministrowi właściwemu do spraw wewnętrznych, sądowi lub prokuraturze;
 
-**Art. 30.**
+### 9)
 
-1. Centralny organ techniczny KSI, przed uruchomieniem Krajowego Systemu Informatycznego (KSI), jest obowiązany do wystąpienia do Prezesa Urzędu Ochrony Danych Osobowych z wnioskiem o przeprowadzenie kontroli w zakresie spełniania przez Krajowy System Informatyczny (KSI) wymogów określonych w przepisach o ochronie danych osobowych.
+przedmiotów w celu ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym, wskazanych w art. 100 ust. 3 lit. d i e Konwencji Wykonawczej, przysługuje wojewodzie, konsulowi lub Szefowi Urzędu do Spraw Cudzoziemców;
 
-2. Wniosek, o którym mowa w ust. 1, powinien zawierać opis środków technicznych i organizacyjnych, w szczególności w zakresie zapobiegania dostępowi osób nieuprawnionych do Krajowego Systemu Informatycznego (KSI).
+### 10)
 
-3. Centralny organ techniczny KSI jest obowiązany współpracować z Prezesem Urzędu Ochrony Danych Osobowych w celu przeprowadzenia kontroli, o której mowa w ust. 1, w szczególności udzielać informacji i wyjaśnień.
+przedmiotów w celu ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym, wskazanych w art. 100 ust. 3 lit. a, b i f Konwencji Wykonawczej, przysługuje Biuru Ochrony Rządu, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, organom jednostek wojskowych Sit Zbrojnych Rzeczypospolitej Polskiej, Centralnemu Biuru Antykorupcyjnemu, Straży Granicznej, organom kontroli skarbowej, Służbie Celnej lub wojewodzie mazowieckiemu.
 
-4. W celu wykonania zadań, o których mowa w ust. 1, Prezes Urzędu Ochrony Danych Osobowych, zastępca Prezesa Urzędu Ochrony Danych Osobowych lub upoważnieni przez niego pracownicy Urzędu mają prawo:
+### 2.
 
-- **1)** wstępu, w godzinach od 6.00 do 22.00, za okazaniem imiennego upoważnienia i legitymacji służbowej, do pomieszczenia, w którym jest zlokalizowany Krajowy System Informatyczny (KSI), i przeprowadzenia niezbędnych badań lub innych czynności kontrolnych;
-- **2)** żądać złożenia pisemnych lub ustnych wyjaśnień oraz wzywać i przesłuchiwać osoby w zakresie niezbędnym do ustalenia stanu faktycznego;
-- **3)** wglądu do wszelkich dokumentów i wszelkich danych mających bezpośredni związek z przedmiotem kontroli oraz sporządzania ich kopii;
-- **4)** przeprowadzania oględzin poszczególnych elementów Krajowego Systemu Informatycznego (KSI), w tym urządzeń, oprogramowania, procedur przetwarzania informacji;
-- **5)** zlecać sporządzanie ekspertyz i opinii.
+Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego w celu wglądu do danych SIS dotyczących przedmiotów do celów ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym, wskazanych w art. 100 ust. 3 lit. a, b i f Konwencji Wykonawczej, przysługuje organom samorządowym właściwym w sprawach rejestracji pojazdów.
 
-5. Prezes Urzędu Ochrony Danych Osobowych po przeprowadzeniu kontroli, o której mowa w ust. 1, przedstawia centralnemu organowi technicznemu KSI pisemną opinię w zakresie spełnienia przez Krajowy System Informatyczny (KSI) wymogów określonych w przepisach o ochronie danych osobowych, a w przypadku stwierdzenia nieprawidłowości w Krajowym Systemie Informatycznym (KSI) przekazuje centralnemu organowi technicznemu KSI zalecenia pokontrolne w formie pisemnej.
+### 3.
 
-**Art. 31.**
+Uprawnienie do wglądu do danych SIS przysługuje organom określonym w ust. 1 pkt 10 i ust. 2 wyłącznie w związku z wykonywaniem obowiązku rejestracji pojazdów określonego w art. 73 i 74 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2005 r. Nr 108, poz. 908](https://api.sejm.gov.pl/eli/acts/DU/2005/908/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661 i Nr 123, poz. 845.](#gloss-0:2:)) w celu sprawdzenia, czy zgłoszone do rejestracji pojazdy nie zostały skradzione, przywłaszczone lub utracone w inny sposób.
 
-1. W przypadku przedstawienia przez ministra właściwego do spraw wewnętrznych lub Prezesa Urzędu Ochrony Danych Osobowych zaleceń pokontrolnych, centralny organ techniczny KSI ma prawo zgłoszenia na piśmie umotywowanych zastrzeżeń co do przekazanych zaleceń pokontrolnych, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych.
+### 4.
 
-2. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 1, odpowiednio minister właściwy do spraw wewnętrznych lub Prezes Urzędu Ochrony Danych Osobowych może:
+Organy, o których mowa w ust. 1 i 2, w przypadku odnalezienia na skutek wglądu do danych SIS osoby lub przedmiotu, których dotyczy wpis, są obowiązane do podjęcia wnioskowanych we wpisie działań, o ile realizowane przez dany organ zadania umożliwiają im takie działania, albo do bezzwłocznego przekazania osoby lub przedmiotu Policji.
 
-- **1)** uznać zgłoszone zastrzeżenia za niezasadne i podtrzymać zalecenia pokontrolne;
-- **2)** uwzględnić zgłoszone zastrzeżenia w części, a w pozostałym zakresie podtrzymać zalecenia pokontrolne;
-- **3)** uwzględnić zgłoszone zastrzeżenia w całości i wydać pozytywną opinię.
+### 5.
 
-**Art. 32.** W przypadku niezgłoszenia przez centralny organ techniczny KSI zastrzeżeń, jak również w przypadku nieuwzględnienia zastrzeżeń przez odpowiednio ministra właściwego do spraw wewnętrznych lub Prezesa Urzędu Ochrony Danych Osobowych, centralny organ techniczny KSI jest obowiązany wykonać zalecenia pokontrolne, a następnie wystąpić z wnioskiem do organu, który przedstawił zalecenia pokontrolne, o przeprowadzenie kontroli, o której mowa w art. 29 ust. 2 lub art. 30 ust. 1.
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przekazywania Policji osób lub przedmiotów odnalezionych na skutek wglądu do danych SIS, a także związane z tym obowiązki Policji, uwzględniając sprawną i skuteczną realizację wnioskowanych we wpisie działań wobec odnalezionych osób lub przedmiotów.
 
-**Art. 33.** Uruchomienie Krajowego Systemu Informatycznego (KSI) może nastąpić pod warunkiem uzyskania pozytywnych opinii, o których mowa w art. 29 ust. 3, art. 30 ust. 5 lub w art. 31 ust. 2 pkt 3.
+### Art. 5.
 
-**Art. 34.**
+### 1.
 
-1. W przypadku dokonywania zmian w Krajowym Systemie Informatycznym (KSI) po jego uruchomieniu, mających wpływ na bezpieczeństwo w zakresie, o którym mowa w art. 10 rozporządzenia 2018/1861 oraz art. 10 rozporządzenia 2018/1862, centralny organ techniczny KSI jest obowiązany przed wdrożeniem tych zmian do uzyskania pisemnej opinii ministra właściwego do spraw wewnętrznych w zakresie spełnienia przez Krajowy System Informatyczny (KSI) wymogów określonych w art. 4 i art. 9 rozporządzenia 2018/1861 oraz art. 4 i art. 9 rozporządzenia 2018/1862, a także opinii Prezesa Urzędu Ochrony Danych Osobowych.
+Bezpośredni dostęp do Systemu Informacji Wizowej realizowany jest poprzez Krajowy System Informatyczny w celu dokonywania, zmieniania lub usuwania wpisów danych VIS przez Straż Graniczną, konsula, wojewodę, ministra właściwego do spraw zagranicznych, Szefa Urzędu do Spraw Cudzoziemców lub Policję.
 
-2. W celu wydania opinii minister właściwy do spraw wewnętrznych przeprowadza kontrolę w zakresie spełniania przez Krajowy System Informatyczny (KSI) wymogów, o których mowa w ust. 1.
+### 2.
 
-3. Po przeprowadzeniu kontroli minister właściwy do spraw wewnętrznych przedstawia centralnemu organowi technicznemu KSI pisemną opinię, o której mowa w ust. 1, a w przypadku stwierdzenia nieprawidłowości w Krajowym Systemie Informatycznym (KSI) przekazuje centralnemu organowi technicznemu KSI zalecenia pokontrolne w formie pisemnej. W przypadku przekazania zaleceń pokontrolnych przepis art. 31 stosuje się odpowiednio do centralnego organu technicznego KSI.
+Organy określone w ust. 1 są obowiązane do:
 
-4. W przypadku niezgłoszenia przez centralny organ techniczny KSI zastrzeżeń, jak również w przypadku nieuwzględnienia zastrzeżeń przez ministra właściwego do spraw wewnętrznych, centralny organ techniczny KSI jest obowiązany wykonać zalecenia pokontrolne, a następnie wystąpić z wnioskiem do ministra właściwego do spraw wewnętrznych o przeprowadzenie kontroli, o której mowa w ust. 2.
+### 1)
 
-5. Uzyskanie opinii Prezesa Urzędu Ochrony Danych Osobowych, o której mowa w ust. 1, następuje w zakresie i w trybie określonych w art. 30–32.
+wymiany krajowych danych VIS poprzez dokonywanie wpisów do Centralnego Systemu Informacji Wizowej poprzez Krajowy System Informatyczny;
 
-#### Rozdział 6 Biuro SIRENE
+### 2)
 
-**Art. 35.**
+zapewnienia, aby dokonywane przez dany organ wpisy danych VIS były zgodne z prawem, a ponadto, aby te dane VIS były dokładne i aktualne;
 
-1. W ramach struktury Komendy Głównej Policji wyznacza się komórkę organizacyjną będącą biurem SIRENE, zapewniającą w szczególności wymianę informacji uzupełniających w trybie i zgodnie z zasadami określonymi w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4 rozporządzenia 2018/1862.
+### 3)
 
-2. Biuro SIRENE, w celu realizacji zadań, posiada bezpośredni dostęp do Krajowego Systemu Informatycznego (KSI).
+zapewnienia usuwania dokonanych przez dany organ wpisów danych VIS po upływie okresu, na który wpisy te zostały wprowadzone;
 
-3. W ramach biura SIRENE współdziałają funkcjonariusze i pracownicy Policji i Straży Granicznej, którzy wspólnie realizują zadania określone w ust. 1. Szczegółowy zakres i podział zadań oraz sposoby współdziałania określa porozumienie zawarte pomiędzy Komendantem Głównym Straży Granicznej a Komendantem Głównym Policji.
+### 4)
 
-**Art. 36.** Szefa biura SIRENE powołuje i odwołuje Komendant Główny Policji po uzyskaniu zgody ministra właściwego do spraw wewnętrznych.
+niezwłocznego informowania centralnego organu technicznego KSI o ujawnionych nieprawidłowościach w związku z wykorzystaniem danych VIS poprzez Krajowy System Informatyczny;
 
-**Art. 37.**
+### 5)
 
-1. Organy, o których mowa w rozdziale 2, są obowiązane, w zakresie swojego działania, do współpracy z biurem SIRENE w celu realizacji jego zadań związanych z udziałem w Systemie Informacyjnym Schengen, w tym do wymiany informacji uzupełniających oraz zapewnienia łatwego, bezpośredniego lub pośredniego dostępu do wszelkich stosownych informacji i do baz danych w zakresie dokonywanych przez te organy wpisów.
+rozpatrywania wniosków Państw Członkowskich o uaktualnienie, uzupełnienie, skorygowanie lub wykasowanie wprowadzonego przez dany organ wpisu danych VIS.
 
-2. Obowiązek, o którym mowa w ust. 1, dotyczy w szczególności bezzwłocznego przekazywania do biura SIRENE, w związku z dokonaniem poprzez Krajowy System Informatyczny (KSI) wpisu danych SIS, kopii decyzji będących podstawą wpisu danych SIS do celów odmowy wjazdu dotyczących cudzoziemców będących członkami rodzin obywateli UE w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697 oraz z 2023 r. poz. 547), a także przekazywania odpowiednio wszystkich istotnych informacji w odniesieniu do wpisów dokonywanych zgodnie z art. 3 ust. 1 od momentu utworzenia wpisu zgodnie z zakresem określonym w aktach wykonawczych przyjętych przez Komisję Europejską na podstawie art. 8 ust. 4 rozporządzenia 2018/1861 oraz art. 8 ust. 4 rozporządzenia 2018/1862.
+### Art. 6.
 
-#### Rozdział 7 Zmiany w przepisach obowiązujących
+Bezpośredni dostęp do Systemu Informacji Wizowej realizowany poprzez Krajowy System Informatyczny umożliwiający wgląd do danych VIS:
 
-#### Rozdział 8 Przepisy przejściowe i końcowe
+### 1)
 
-**Art. 43.** Centralny organ techniczny KSI jest obowiązany do utworzenia oraz uruchomienia Krajowego Systemu Informatycznego (KSI) w terminie do dnia 1 września 2007 r.
+w celu rozpatrzenia wniosków wizowych oraz zbadania podjętych decyzji dotyczących tych wniosków, zgodnie z odpowiednimi postanowieniami Wspólnych Instrukcji Konsularnych, przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub Policji;
 
-**Art. 44.** Osoby mające dostęp do Krajowego Systemu Informatycznego (KSI) po dniu 1 czerwca 2008 r. muszą być przeszkolone w sposób określony w przepisach wydanych na podstawie art. 25 ust. 3, przez osoby posiadające kwalifikacje określone w tych przepisach.
+### 2)
 
-**Art. 45.** (pominięty)
+w celu przeprowadzania konsultacji, o których mowa w art. 17 ust. 2 Konwencji Wykonawczej, przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
 
-**Art. 46.** Ustawa wchodzi w życie z dniem ogłoszenia , z tym że:
+### 3)
 
+w celach sprawozdawczych i statystycznych przysługuje Straży Granicznej, konsulowi, wojewodzie, ministrowi właściwemu do spraw zagranicznych, Szefowi Urzędu do Spraw Cudzoziemców lub Policji;
+
+### 4)
+
+w celu przeprowadzania kontroli wiz na granicach i na terytorium Rzeczypospolitej Polskiej, wyłącznie w celu potwierdzenia tożsamości osoby lub potwierdzenia autentyczności wizy, przysługuje Straży Granicznej, Policji, Służbie Celnej lub Szefowi Urzędu do Spraw Cudzoziemców;
+
+### 5)
+
+w celu weryfikacji dla ustalenia, czy warunki wjazdu i pobytu są spełnione, przysługuje komendantowi wojewódzkiemu Policji, komendantowi powiatowemu (miejskiemu) Policji, komendantowi oddziału Straży Granicznej lub komendantowi placówki Straży Granicznej, wojewodzie lub Szefowi Urzędu do Spraw Cudzoziemców;
+
+### 6)
+
+w celu określania odpowiedzialności Państwa Członkowskiego za rozpatrywanie wniosków o nadanie statusu uchodźcy w rozumieniu rozporządzenia Rady (WE) nr 343/2003 z dnia 18 lutego 2003 r. ustanawiającego kryteria i mechanizmy określania Państwa Członkowskiego, które jest odpowiedzialne za rozpatrzenie wniosku o azyl złożonego w jednym z Państw Członkowskich przez obywatela kraju trzeciego ([Dz. Urz. UE L 050 z 25.02.2003, str. 1](https://api.sejm.gov.pl/eli/acts//text.html); [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 6, str. 109](https://api.sejm.gov.pl/eli/acts//text.html)), przysługuje Szefowi Urzędu do Spraw Cudzoziemców;
+
+### 7)
+
+w celu rozpatrywania wniosku o nadanie statusu uchodźcy przysługuje Szefowi Urzędu do Spraw Cudzoziemców lub Radzie do Spraw Uchodźców.
+
+### Art. 7.
+
+### 1.
+
+Uprawnienie do pośredniego dostępu do Krajowego Systemu Informatycznego w celu wglądu do danych VIS przysługuje sądowi, prokuraturze, Policji, Straży Granicznej, Służbie Celnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu, organom kontroli skarbowej, Biuru Ochrony Rządu, Służbie Kontrwywiadu Wojskowego, Żandarmerii Wojskowej lub Służbie Wywiadu Wojskowego, jeżeli:
+
+### 1)
+
+dostęp jest konieczny w celu zapobiegania, wykrywania lub ścigania przestępstw wymienionych w art. 607w ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648 oraz z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903.](#gloss-0:3:));
+
+### 2)
+
+jest to niezbędne w związku z określoną sprawą;
+
+### 3)
+
+istnieją uzasadnione powody do uznania, że wgląd do danych VIS ma istotne znaczenie dla zapobiegania, wykrywania lub ścigania przestępstw, o których mowa w pkt 1.
+
+### 2.
+
+Pośredni dostęp, o którym mowa w ust. 1, jest realizowany poprzez centralne punkty dostępu, którymi są odpowiednio dla:
+
+### 1)
+
+sądu, prokuratury, Policji - Komendant Główny Policji;
+
+### 2)
+
+Straży Granicznej - Komendant Główny Straży Granicznej;
+
+### 3)
+
+Służby Celnej - Szef Służby Celnej;
+
+### 4)
+
+Agencji Bezpieczeństwa Wewnętrznego - Szef Agencji Bezpieczeństwa Wewnętrznego;
+
+### 5)
+
+Agencji Wywiadu - Szef Agencji Wywiadu;
+
+### 6)
+
+Centralnego Biura Antykorupcyjnego - Szef Centralnego Biura Antykorupcyjnego;
+
+### 7)
+
+organów kontroli skarbowej - Generalny Inspektor Kontroli Skarbowej;
+
+### 8)
+
+Biura Ochrony Rządu - Szef Biura Ochrony Rządu;
+
+### 9)
+
+Służby Kontrwywiadu Wojskowego - Szef Służby Kontrwywiadu Wojskowego;
+
+### 10)
+
+Służby Wywiadu Wojskowego - Szef Służby Wywiadu Wojskowego;
+
+### 11)
+
+Żandarmerii Wojskowej - Komendant Główny Żandarmerii Wojskowej.
+
+### Rozdział 3 Ochrona danych osobowych oraz odpowiedzialność za niezgodne z prawem działanie lub zaniechanie związane z wykorzystywaniem danych
+
+### Art. 8.
+
+### 1.
+
+Generalny Inspektor Ochrony Danych Osobowych sprawuje kontrolę nad tym, czy wykorzystywanie danych nie narusza praw osób, których dane te dotyczą.
+
+### 2.
+
+Generalny Inspektor Ochrony Danych Osobowych jest uprawniony do bezpośredniego dostępu do Krajowego Systemu Informatycznego w celu sprawowania kontroli, o której mowa w ust. 1.
+
+### 3.
+
+Kontrola, o której mowa w ust. 1, jest sprawowana zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+### Art. 9.
+
+Generalny Inspektor Ochrony Danych Osobowych, w przypadku, o którym mowa w art. 106 ust. 3 Konwencji Wykonawczej, jest organem uprawnionym do przekazania sprawy wspólnemu organowi nadzorczemu wskazanemu w art. 115 ust. 1 Konwencji Wykonawczej, w celu uzyskania jego opinii.
+
+### Art. 10.
+
+Centralny organ techniczny KSI, w zakresie wykorzystywania danych poprzez Krajowy System Informatyczny, jest administratorem danych w rozumieniu art. 7 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych.
+
+### Art. 11.
+
+Wykorzystywanie danych może następować bez wiedzy i zgody osób, których dane dotyczą, oraz bez obowiązku ujawniania faktycznego celu zbierania danych.
+
+### Art. 12.
+
+W sprawie o naprawienie szkody wyrządzonej przez niezgodne z prawem działanie lub zaniechanie związane z wykorzystywaniem danych SIS organem reprezentującym Skarb Państwa jest Prokuratoria Generalna Skarbu Państwa.
+
+### Art. 13.
+
+W sprawie o naprawienie szkody wyrządzonej przez niezgodne z prawem działanie lub zaniechanie związane z wykorzystywaniem danych VIS organem reprezentującym Skarb Państwa jest organ, w związku z działaniem lub zaniechaniem którego szkoda ta powstała, z zastrzeżeniem art. 8 ustawy z dnia 8 lipca 2005 r. o Prokuratorii Generalnej Skarbu Państwa ([Dz. U. Nr 169, poz. 1417](https://api.sejm.gov.pl/eli/acts/DU/2005/1417/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 264, poz. 2205, z 2006 r. Nr 170, poz. 1217 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162.](#gloss-0:4:)).
+
+### Rozdział 4 Bezpieczeństwo Krajowego Systemu Informatycznego
+
+### Art. 14.
+
+Organy, o których mowa w rozdziale 2, obowiązane są, w zakresie swojego działania, do współpracy z centralnym organem technicznym KSI w celu realizacji ich zadań związanych z udziałem w Systemie Informacyjnym Schengen lub Systemie Informacji Wizowej, w tym do przekazywania dokumentów oraz udzielania informacji.
+
+### Art. 15.
+
+Centralny organ techniczny KSI składa ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, sprawozdanie z funkcjonowania Krajowego Systemu Informatycznego w poprzednim roku kalendarzowym.
+
+### Art. 16.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych sprawuje nadzór nad prawidłowością działania Krajowego Systemu Informatycznego.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, w celu wykonania nadzoru wynikającego z ust. 1, ma w szczególności prawo:
+
+### 1)
+
+dostępu do wykazu zarejestrowanych przypadków, o których mowa w art. 27 ust. 1 pkt 10;
+
+### 2)
+
+sprawdzania, czy Krajowy System Informatyczny spełnia wymagania techniczne niezbędne do udziału w Systemie Informacyjnym Schengen i Systemie Informacji Wizowej;
+
+### 3)
+
+sprawdzania, czy osoby mające dostęp do Krajowego Systemu Informatycznego zostały odpowiednio przeszkolone w zakresie bezpieczeństwa danych oraz zasad ich ochrony oraz czy posiadają upoważnienie, o którym mowa w art. 25 ust. 2, a także czy wobec tych osób przeprowadzono kontrolę bezpieczeństwa;
+
+### 4)
+
+sprawdzania prawidłowości opisu zadań i funkcji osób mających dostęp do Krajowego Systemu Informatycznego;
+
+### 5)
+
+sprawdzania, czy jest zapewniona odpowiednia fizyczna ochrona Krajowego Systemu Informatycznego przez organy mające do niego bezpośredni dostęp, w szczególności czy nie ma możliwości dostępu osób nieuprawnionych do Krajowego Systemu Informatycznego.
+
+### Art. 17.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych, przed uruchomieniem Krajowego Systemu Informatycznego, jest uprawniony do sprawdzenia gotowości do prawidłowej eksploatacji Krajowego Systemu Informatycznego w ramach poszczególnych organów uprawnionych do bezpośredniego dostępu.
+
+### 2.
+
+W przypadku stwierdzenia braku gotowości do prawidłowej eksploatacji Krajowego Systemu Informatycznego w ramach poszczególnych organów uprawnionych do bezpośredniego dostępu minister właściwy do spraw wewnętrznych jest uprawniony do wstrzymania uruchomienia Krajowego Systemu Informatycznego w ramach organu, w przypadku którego stwierdzono nieprawidłowości.
+
+### Art. 18.
+
+W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego lub jego zabezpieczenia w poszczególnych organach mających do niego bezpośredni dostęp minister właściwy do spraw wewnętrznych jest uprawniony do zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego dla organu, w przypadku którego stwierdzone zostały te nieprawidłowości, do czasu ich usunięcia.
+
+### Art. 19.
+
+W celu wykonania zadań, o których mowa w art. 16-18, minister właściwy do spraw wewnętrznych może:
+
+### 1)
+
+żądać przedłożenia informacji w zakresie niezbędnym do ustalenia stanu faktycznego;
+
+### 2)
+
+przeprowadzać, w godzinach urzędowania danego organu, oględziny urządzeń, nośników oraz systemów informatycznych włączonych do Krajowego Systemu Informatycznego w ramach danego organu;
+
+### 3)
+
+zlecać sporządzanie ekspertyz i opinii;
+
+### 4)
+
+żądać zablokowania bezpośredniego dostępu do Krajowego Systemu Informatycznego do czasu usunięcia stwierdzonych nieprawidłowości.
+
+### Art. 20.
+
+W przypadku stwierdzenia nieprawidłowości działania Krajowego Systemu Informatycznego minister właściwy do spraw wewnętrznych może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania tych osób, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
+
+### Art. 21.
+
+### 1.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, techniczne warunki, sposób i tryb dokonywania wpisów danych SIS, a także związane z tym obowiązki uprawnionych organów oraz sposób i tryb aktualizowania, usuwania i wyszukiwania danych SIS poprzez Krajowy System Informatyczny, mając na względzie prawidłowe wykonywanie przez Rzeczpospolitą Polską zobowiązań wynikających z udziału w Systemie Informacyjnym Schengen.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sposób wykorzystywania Krajowego Systemu Informatycznego jako krajowego interfejsu Systemu Informacji Wizowej, w tym sposób dokonywania, zmieniania i usuwania wpisów danych VIS, a także wglądu do danych VIS, mając na względzie prawidłowe wykonanie przez Rzeczpospolitą Polską zobowiązań wynikających z udziału w Systemie Informacji Wizowej.
+
+### Art. 22.
+
+### 1.
+
+Organy uprawnione zgodnie z art. 3 ust. 2 do dokonania wpisu danych SIS za pośrednictwem centralnego organu technicznego KSI kierują wniosek o dokonanie wnioskowanego wpisu danych SIS na wypełnionej karcie wpisu. Centralny organ techniczny KSI niezwłocznie dokonuje wpisu danych SIS, informując o tym organ, który wystąpił z takim wnioskiem, albo informuje organ o braku możliwości dokonania danego wpisu danych SIS oraz jego przyczynach.
+
+### 2.
+
+Organy wskazane w art. 4 ust. 2 kierują zapytanie o dane SIS, do których mają dostęp pośredni, do centralnego organu technicznego KSI na wypełnionej karcie zapytania. Centralny organ techniczny KSI przekazuje niezwłocznie odpowiednie dane SIS organowi składającemu zapytanie.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wzór karty wpisu, o której mowa w ust. 1, oraz wzór karty zapytania, o której mowa w ust. 2, a także sposób ich wypełnienia, uwzględniając zakres uprawnień organów do wykorzystywania danych SIS.
+
+### Art. 23.
+
+### 1.
+
+W przypadku stwierdzenia przez organ, który dokonał wpisu danych SIS, że zawarte we wpisie dane SIS są nieprawidłowe, organ ten niezwłocznie dokonuje niezbędnej modyfikacji tych danych, zawiadamiając jednocześnie o tym fakcie centralny organ techniczny KSI.
+
+### 2.
+
+W przypadku stwierdzenia przez organ, który dokonał wpisu danych SIS, że upłynął okres konieczny do osiągnięcia celów, dla których wpis został dokonany albo brak jest podstaw prawnych do dalszego przechowywania tych danych, organ ten usuwa dane SIS, zawiadamiając jednocześnie o tym fakcie centralny organ techniczny KSI.
+
+### 3.
+
+Centralny organ techniczny KSI informuje organy, które zgłosiły zapytanie o dane SIS, o dokonanej modyfikacji danych SIS.
+
+### 4.
+
+Organy, o których mowa w art. 3 i 4, w przypadku stwierdzenia, że wykorzystywane przez te organy dane SIS są nieprawidłowe, niezwłocznie informują o tym Biuro SIRENE w celu weryfikacji prawidłowości tych danych SIS.
+
+### Art. 24.
+
+Organ uprawniony do wykorzystywania danych poprzez Krajowy System Informatyczny jest obowiązany stosować odpowiednie procedury kontrolne wskazujące działania podejmowane w ramach danego organu mające na celu zapewnienie zgodności wykorzystywania danych z obowiązującymi przepisami.
+
+### Art. 25.
+
+### 1.
+
+Organ uprawniony do wykorzystywania danych poprzez Krajowy System Informatyczny jest obowiązany do przeszkolenia z zakresu bezpieczeństwa i ochrony danych wszystkich osób mających dostęp do Krajowego Systemu Informatycznego.
+
+### 2.
+
+Odbycie szkolenia, o którym mowa w ust. 1, jest warunkiem otrzymania upoważnienia do dostępu do Krajowego Systemu Informatycznego oraz wykorzystywania danych.
+
+### 3.
+
+Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Generalnego Inspektora Ochrony Danych Osobowych określi, w drodze rozporządzenia, sposób przeprowadzania szkoleń z zakresu bezpieczeństwa i ochrony danych wykorzystywanych poprzez Krajowy System Informatyczny oraz kwalifikacje osób uprawnionych do przeprowadzania tych szkoleń, uwzględniając konieczność zapewnienia ochrony danych.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb dostępu do Krajowego Systemu Informatycznego, sposób przydzielania osobom upoważnionym do dostępu osobistych i niepowtarzalnych identyfikatorów użytkownika, a także wzór upoważnienia do dostępu do Krajowego Systemu Informatycznego oraz wykorzystywania danych, uwzględniając prawidłową realizację przez Rzeczpospolitą Polską obowiązków wynikających z udziału w Systemie Informacyjnym Schengen.
+
+### Rozdział 5 Centralny organ techniczny KSI
+
+### Art. 26.
+
+### 1.
+
+Organem odpowiedzialnym za moduł krajowy jest centralny organ techniczny KSI.
+
+### 2.
+
+Do zadań centralnego organu technicznego KSI należy:
+
+### 1)
+
+utworzenie, uruchomienie, eksploatacja techniczna oraz utrzymanie Krajowego Systemu Informatycznego;
+
+### 2)
+
+zapewnienie sprawnego działania i bezpieczeństwa Systemu Informacyjnego Schengen w ramach modułu krajowego.
+
+### Art. 27.
+
+### 1.
+
+W celu realizacji zadań, o których mowa w art. 26 ust. 2 pkt 1, centralny organ techniczny KSI jest w szczególności obowiązany do:
+
+### 1)
+
+przestrzegania obowiązujących protokołów i procedur technicznych w celu zapewnienia kompatybilności Krajowego Systemu Informatycznego z jednostką centralną Systemu Informacyjnego Schengen oraz Centralnym Systemem Informacji Wizowej;
+
+### 2)
+
+zapewnienia, aby dane SIS przechowywane w kopii krajowej były, dzięki automatycznym aktualizacjom, identyczne i spójne z danymi przechowywanymi w jednostce centralnej Systemu Informacyjnego Schengen;
+
+### 3)
+
+zapewnienia bezpieczeństwa Krajowego Systemu Informatycznego, w szczególności poprzez sporządzenie planów awaryjnych służących ochronie infrastruktury krytycznej;
+
+### 4)
+
+sprawdzania, czy organy, które wykorzystują dane poprzez Krajowy System Informatyczny, mają prawo dostępu do danych;
+
+### 5)
+
+umożliwienia organom, o których mowa w art. 5-7, wykorzystywania danych VIS poprzez Krajowy System Informatyczny oraz udzielania tym organom niezbędnych informacji do prawidłowego wykonywania przez te organy zadań w zakresie uczestnictwa w Systemie Informacji Wizowej;
+
+### 6)
+
+przekazywania Komisji Europejskiej listy organów, o których mowa w art. 5-7;
+
+### 7)
+
+współpracy z Krajowym Oddziałem Europolu w zakresie udzielenia zgody na dostęp Europejskiego Biura Policji Europol do danych VIS;
+
+### 8)
+
+zapobiegania dostępowi osób nieuprawnionych do Krajowego Systemu Informatycznego;
+
+### 9)
+
+zapobiegania nieuprawnionemu odczytywaniu, kopiowaniu, zmienianiu lub usuwaniu nośników informatycznych wykorzystywanych w Krajowym Systemie Informatycznym;
+
+### 10)
+
+zapewnienia rejestrowania wszystkich przypadków, w których uzyskano dostęp do danych lub wykorzystano dane w inny sposób poprzez Krajowy System Informatyczny;
+
+### 11)
+
+zapewnienia fizycznej ochrony danych wykorzystywanych poprzez Krajowy System Informatyczny;
+
+### 12)
+
+zapobiegania wykorzystywaniu systemów informatycznego przetwarzania danych przez osoby nieuprawnione korzystające ze sprzętu do przekazywania danych;
+
+### 13)
+
+zapewnienia możliwości późniejszej weryfikacji i stwierdzenia, które dane zostały wprowadzone poprzez Krajowy System Informatyczny oraz kiedy, przez kogo i w jakim celu dane te zostały wykorzystane;
+
+### 14)
+
+zapobiegania nieuprawnionemu odczytywaniu, kopiowaniu, zmienianiu lub usuwaniu danych podczas transferu tych danych lub podczas przemieszczania nośników informatycznych w ramach Krajowego Systemu Informatycznego, w szczególności poprzez zastosowanie odpowiednich technik szyfrowania;
+
+### 15)
+
+zapewnienia, aby osoby uprawnione do korzystania z systemu informatycznego przetwarzania danych miały dostęp wyłącznie do danych objętych posiadanym przez te osoby upoważnieniem, poprzez przydzielenie im osobistych i niepowtarzalnych identyfikatorów użytkownika oraz poufny tryb dostępu.
+
+### 2.
+
+W celu realizacji zadań, o których mowa w art. 26 ust. 2 pkt 2, centralny organ techniczny KSI jest w szczególności obowiązany do:
+
+### 1)
+
+umożliwienia organom, o których mowa w art. 3 i 4, wykorzystywania danych SIS poprzez Krajowy System Informatyczny;
+
+### 2)
+
+udzielania informacji niezbędnych do prawidłowego wykonywania zadań przez organy, o których mowa w art. 3 i 4;
+
+### 3)
+
+współdziałania z organami, które są uprawnione do dokonywania wpisów danych SIS poprzez Krajowy System Informatyczny, w celu zapewnienia, aby wpisy danych SIS byty zgodne z prawem oraz aby były one dokładne i aktualne;
+
+### 4)
+
+sprawdzania, czy organy, które wykorzystują dane SIS poprzez Krajowy System Informatyczny, mają prawo dostępu do danych SIS;
+
+### 5)
+
+sprawdzenia skuteczności środków mających na celu zapewnienie bezpieczeństwa danych SIS wykorzystywanych poprzez Krajowy System Informatyczny;
+
+### 6)
+
+zapewnienia usuwania danych SIS wprowadzonych poprzez Krajowy System Informatyczny po upływie okresu, na który wpisy te zostały wprowadzone;
+
+### 7)
+
+sprawdzenia zasadności przedłużenia okresu przechowywania danych SIS wprowadzonych poprzez Krajowy System Informatyczny;
+
+### 8)
+
+przekazywania organowi zarządzającemu jednostką centralną Systemu Informacyjnego Schengen wykazu organów, o których mowa w art. 3 i 4;
+
+### 9)
+
+zapobiegania nieuprawnionemu wykorzystywaniu danych SIS.
+
+### Art. 28.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy sposób rejestrowania przypadków, o których mowa w art. 27 ust. 1 pkt 10, mając na względzie bezpieczeństwo i ochronę danych wykorzystywanych poprzez Krajowy System Informatyczny.
+
+### Art. 29.
+
+### 1.
+
+Centralny organ techniczny KSI, przed uruchomieniem Krajowego Systemu Informatycznego, jest obowiązany poinformować ministra właściwego do spraw wewnętrznych o gotowości Krajowego Systemu Informatycznego do uruchomienia.
+
+### 2.
+
+Minister właściwy do spraw wewnętrznych, po uzyskaniu informacji, o której mowa w ust. 1, przeprowadza kontrolę w zakresie spełniania przez Krajowy System Informatyczny wymogów określonych w art. 92 ust. 2 Konwencji Wykonawczej.
+
+### 3.
+
+Po przeprowadzeniu kontroli, o której mowa w ust. 2, minister właściwy do spraw wewnętrznych przedstawia centralnemu organowi technicznemu KSI pisemną opinię w zakresie spełnienia przez Krajowy System Informatyczny wymogów określonych w art. 92 ust. 2 Konwencji Wykonawczej, a w przypadku stwierdzenia nieprawidłowości w Krajowym Systemie Informatycznym przekazuje centralnemu organowi technicznemu KSI zalecenia pokontrolne w formie pisemnej.
+
+### Art. 30.
+
+### 1.
+
+Centralny organ techniczny KSI, przed uruchomieniem Krajowego Systemu Informatycznego, jest obowiązany do wystąpienia do Generalnego Inspektora Ochrony Danych Osobowych z wnioskiem o przeprowadzenie kontroli w zakresie spełniania przez Krajowy System Informatyczny wymogów określonych w art. 36-39 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych oraz w przepisach wydanych na podstawie art. 39a tej ustawy.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, powinien zawierać opis środków technicznych i organizacyjnych określonych w art. 36-39 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych oraz informację o sposobie wypełnienia warunków technicznych i organizacyjnych, określonych w przepisach, wydanych na podstawie art. 39a tej ustawy.
+
+### 3.
+
+Centralny organ techniczny KSI obowiązany jest współpracować z Generalnym Inspektorem Ochrony Danych Osobowych w celu przeprowadzenia kontroli, o której mowa w ust. 1, w szczególności udzielać informacji i wyjaśnień.
+
+### 4.
+
+W celu wykonania zadań, o których mowa w ust. 1, Generalny Inspektor Ochrony Danych Osobowych, zastępca Generalnego Inspektora lub upoważnieni przez niego pracownicy Biura Generalnego Inspektora Ochrony Danych Osobowych, mają prawo:
+
+### 1)
+
+wstępu, w godzinach od 600 do 2200, za okazaniem imiennego upoważnienia i legitymacji służbowej, do pomieszczenia, w którym zlokalizowany jest Krajowy System Informatyczny i przeprowadzenia niezbędnych badań lub innych czynności kontrolnych;
+
+### 2)
+
+żądać złożenia pisemnych lub ustnych wyjaśnień oraz wzywać i przesłuchiwać osoby w zakresie niezbędnym do ustalenia stanu faktycznego;
+
+### 3)
+
+wglądu do wszelkich dokumentów i wszelkich danych mających bezpośredni związek z przedmiotem kontroli oraz sporządzania ich kopii;
+
+### 4)
+
+przeprowadzania oględzin poszczególnych elementów Krajowego Systemu Informatycznego, w tym urządzeń, oprogramowania, procedur przetwarzania informacji;
+
+### 5)
+
+zlecać sporządzanie ekspertyz i opinii.
+
+### 5.
+
+Generalny Inspektor Ochrony Danych Osobowych po przeprowadzeniu kontroli, o której mowa w ust. 1, przedstawia centralnemu organowi technicznemu KSI pisemną opinię w zakresie spełnienia przez Krajowy System Informatyczny wymogów określonych w art. 36-39 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, a także w przepisach wydanych na podstawie art. 39a tej ustawy, a w przypadku stwierdzenia nieprawidłowości w Krajowym Systemie Informatycznym przekazuje centralnemu organowi technicznemu KSI zalecenia pokontrolne w formie pisemnej.
+
+### Art. 31.
+
+### 1.
+
+W przypadku przedstawienia przez ministra właściwego do spraw wewnętrznych lub Generalnego Inspektora Ochrony Danych Osobowych zaleceń pokontrolnych, centralny organ techniczny KSI ma prawo zgłoszenia na piśmie umotywowanych zastrzeżeń co do przekazanych zaleceń pokontrolnych, w terminie 7 dni od dnia otrzymania zaleceń pokontrolnych.
+
+### 2.
+
+W razie zgłoszenia zastrzeżeń, o których mowa w ust. 1, odpowiednio minister właściwy do spraw wewnętrznych lub Generalny Inspektor Ochrony Danych Osobowych może:
+
+### 1)
+
+uznać zgłoszone zastrzeżenia za niezasadne i podtrzymać zalecenia pokontrolne;
+
+### 2)
+
+uwzględnić zgłoszone zastrzeżenia w części, a w pozostałym zakresie podtrzymać zalecenia pokontrolne;
+
+### 3)
+
+uwzględnić zgłoszone zastrzeżenia w całości i wydać pozytywną opinię.
+
+### Art. 32.
+
+W przypadku niezgłoszenia przez centralny organ techniczny KSI zastrzeżeń, jak również w przypadku nieuwzględnienia zastrzeżeń przez odpowiednio ministra właściwego do spraw wewnętrznych lub Generalnego Inspektora Ochrony Danych Osobowych, centralny organ techniczny KSI obowiązany jest wykonać zalecenia pokontrolne, a następnie wystąpić z wnioskiem do organu, który przedstawił zalecenia pokontrolne, o przeprowadzenie kontroli, o której mowa w art. 29 ust. 2 lub art. 30 ust. 1.
+
+### Art. 33.
+
+Uruchomienie Krajowego Systemu Informatycznego może nastąpić pod warunkiem uzyskania pozytywnych opinii, o których mowa w art. 29 ust. 3, art. 30 ust. 5 lub w art. 31 ust. 2 pkt 3.
+
+### Art. 34.
+
+W przypadku dokonywania jakichkolwiek zmian w Krajowym Systemie Informatycznym po jego uruchomieniu centralny organ techniczny KSI jest obowiązany przed wdrożeniem tych zmian do uzyskania opinii ministra właściwego do spraw wewnętrznych oraz Generalnego Inspektora Ochrony Danych Osobowych, w zakresie i w trybie określonym w art. 29-32.
+
+### Rozdział 6 Biuro SIRENE
+
+### Art. 35.
+
+### 1.
+
+W ramach struktury Komendy Głównej Policji tworzy się wyodrębnione organizacyjnie Biuro SIRENE, zapewniające w szczególności wymianę informacji uzupełniających w trybie i zgodnie z zasadami określonymi w Załączniku Nr 1 do Decyzji Komisji 2006/758/WE z dnia 22 września 2006 r. w sprawie zmiany podręcznika SIRENE ([Dz. Urz. WE L 317 z 16.11.2006, str. 41](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### 2.
+
+Biuro SIRENE, w celu realizacji zadań, posiada bezpośredni dostęp do Krajowego Systemu Informatycznego.
+
+### Art. 36.
+
+Szefa Biura SIRENE powołuje i odwołuje Komendant Główny Policji po uzyskaniu zgody ministra właściwego do spraw wewnętrznych.
+
+### Art. 37.
+
+### 1.
+
+Organy, o których mowa w rozdziale 2, są obowiązane, w zakresie swojego działania, do współpracy z Biurem SIRENE w celu realizacji jego zadań związanych z udziałem w Systemie Informacyjnym Schengen, w tym do wymiany informacji uzupełniających.
+
+### 2.
+
+Obowiązek, o którym mowa w ust. 1, dotyczy w szczególności bezzwłocznego przekazywania do Biura SIRENE, w związku z dokonaniem poprzez Krajowy System Informatyczny wpisu danych SIS, kopii decyzji będących podstawą wpisu danych SIS do celów odmowy wjazdu dotyczących cudzoziemców będących członkami rodzin obywateli UE w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin ([Dz. U. Nr 144, poz. 1043](https://api.sejm.gov.pl/eli/acts/DU/2006/1043/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html)).
+
+### Rozdział 7 Zmiany w przepisach obowiązujących
+
+### Art. 38.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), [Nr 57, poz. 390](https://api.sejm.gov.pl/eli/acts/DU/2007/390/text.html), [Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html) i [Nr 140, poz. 981](https://api.sejm.gov.pl/eli/acts/DU/2007/981/text.html)) w art. 1 w ust. 2 uchyla się pkt 11.
+
+### Art. 39.
+
+W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. z 2002 r. Nr 101, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/2002/926/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285 oraz z 2006 r. Nr 104, poz. 708 i 711.](#gloss-0:5:)) w art. 43 w ust. 1 po pkt 2a dodaje się pkt 2b w brzmieniu:
+
+„
+
+### 2b)
+
+przetwarzanych przez właściwe organy na potrzeby udziału Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Systemie Informacji Wizowej,
+
+” .
+
+### Art. 40.
+
+W ustawie z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych oraz o Krajowym Systemie Informatycznym ([Dz. U. z 2006 r. Nr 216, poz. 1585](https://api.sejm.gov.pl/eli/acts/DU/2006/1585/text.html) i [Nr 220, poz. 1600](https://api.sejm.gov.pl/eli/acts/DU/2006/1600/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+tytuł ustawy otrzymuje brzmienie: „Ustawa z dnia 6 lipca 2001 r. o gromadzeniu, przetwarzaniu i przekazywaniu informacji kryminalnych”;
+
+### 2)
+
+w art. 4 uchyla się pkt 8;
+
+### 3)
+
+uchyla się rozdział 4a;
+
+### 4)
+
+uchyla się art. 40a i 40b.
+
+### Art. 41.
+
+W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+art. 93, art. 94, art. 96, art. 100, rozdziałów 9 i 10, art. 124 pkt 1 lit. g oraz pkt 2 i 4, art. 125 ust. 1 pkt 2 w zakresie dotyczącym art. 124 pkt 1 lit. g, art. 126 ust. 1 pkt 4 i 7 oraz ust. 2, art. 127, art. 128 ust. 2, art. 131-134a, które mają zastosowanie do obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członków ich rodzin,
+
+” ;
+
+### 2)
+
+w art. 4:
+
+### a)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+wiza - zezwolenie wydane cudzoziemcowi przez organ polski lub organ, którego właściwość w tej sprawie wynika z postanowień umów międzynarodowych obowiązujących Rzeczpospolitą Polską lub organ państw obszaru Schengen, uprawniające go do wjazdu na terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen, przejazdu przez to terytorium i pobytu na nim w czasie, w celu i na warunkach w nim określonych;
+
+” ,
+
+### b)
+
+po pkt 5 dodaje się pkt 5a-5d w brzmieniu:
+
+„
+
+### 5a)
+
+wiza jednolita - wiza, o której mowa w art. 10 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach ([Dz. Urz. UE L 239 z 22.09.2000, str. 19](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
+
+### 5b)
+
+wiza krajowa - wiza uprawniająca do wjazdu na terytorium Rzeczypospolitej Polskiej, przejazdu przez to terytorium i pobytu na nim;
+
+### 5c)
+
+centralny organ wizowy - organ odpowiedzialny za przeprowadzenie konsultacji, w tym konsultacji elektronicznych, o których mowa w art. 17 ust. 2 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach;
+
+### 5d)
+
+państwa obszaru Schengen - państwa, które w pełni stosują dorobek Schengen;
+
+” ;
+
+### 3)
+
+art. 28 otrzymuje brzmienie:
+
+„
+
+### Art. 28.
+
+### 1.
+
+Wiza tranzytowa uprawnia do przejazdu przez terytorium Rzeczypospolitej Polskiej lub innych państw obszaru Schengen i może być wydana cudzoziemcowi, który posiada prawo wjazdu do państwa docelowego lub państwa graniczącego z terytorium Rzeczypospolitej Polskiej.
+
+### 2.
+
+Wizę, o której mowa w ust. 1, wydaje się na okres pobytu nie dłuższy niż 5 dni, licząc od dnia każdego wjazdu na terytorium państw obszaru Schengen.
+
+” ;
+
+### 4)
+
+art. 31 otrzymuje brzmienie:
+
+„
+
+### Art. 31.
+
+### 1.
+
+Wizę pobytową wydaje się jako wizę jednolitą lub krajową.
+
+### 2.
+
+Wiza pobytowa jednolita uprawnia do wjazdu i nieprzerwanego pobytu na terytorium państw obszaru Schengen lub kilku pobytów następujących po sobie, trwających przez okres nieprzekraczający łącznie 3 miesięcy w okresie 6 miesięcy liczonych od dnia pierwszego wjazdu na to terytorium.
+
+### 3.
+
+Wiza pobytowa krajowa uprawnia do wjazdu i nieprzerwanego pobytu na terytorium Rzeczypospolitej Polskiej lub kilku pobytów następujących po sobie, trwających przez okres nieprzekraczający łącznie roku w okresie ważności wizy.
+
+### 4.
+
+Wiza pobytowa krajowa może być wydana w celu wjazdu i pobytu, o którym mowa w art. 26 pkt 4 lit. b i d-j oraz r. jeżeli okoliczności tego pobytu wymagają, aby trwał on dłużej niż 3 miesiące.
+
+### 5.
+
+Okres pobytu na podstawie wizy pobytowej krajowej ustala się w granicach określonych w ust. 3 i 4 odpowiednio do celu wskazanego przez cudzoziemca.
+
+### 6.
+
+Okres ważności wizy pobytowej może wynosić do 5 lat.
+
+” ;
+
+### 5)
+
+w art. 32 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wiza pobytowa krajowa w celu wykonywania pracy może być wydana cudzoziemcowi, który przedstawi przyrzeczenie wydania zezwolenia na pracę na terytorium Rzeczypospolitej Polskiej albo pisemne oświadczenie pracodawcy o zamiarze powierzenia cudzoziemcowi wykonywania pracy, jeżeli zezwolenie na pracę nie jest wymagane.
+
+” ;
+
+### 6)
+
+w art. 33 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Cudzoziemcowi może być wydana wiza pobytowa krajowa, choćby zachodziły okoliczności, o których mowa w art. 42, jeżeli: ” ;
+
+### 7)
+
+w art. 34 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wizę pobytową krajową wydaje się małoletniemu cudzoziemcowi urodzonemu na terytorium Rzeczypospolitej Polskiej, na wniosek jego przedstawiciela ustawowego, który przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy.
+
+” ;
+
+### 8)
+
+w art. 35 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Wizę dyplomatyczną, służbową i kurierską wydaje się jako wizę krajową.
+
+” ;
+
+### 9)
+
+w art. 42 zdanie wstępne otrzymuje brzmienie: „ Cudzoziemcowi odmawia się wydania wizy krajowej, jeżeli: ” ,
+
+### 10)
+
+po art. 42 dodaje się art. 42a w brzmieniu:
+
+„
+
+### Art. 42a.
+
+Cudzoziemcowi odmawia się wydania wizy pobytowej jednolitej, jeżeli jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany, lub w przypadku gdy cudzoziemiec nie spełnia warunków wjazdu, o których mowa w art. 5 ust. 1 lit. a, c, d i e rozporządzenia (WE) nr 562/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. ustanawiającego wspólnotowy kodeks zasad regulujących przepływ osób przez granice (kodeks graniczny Schengen) ([Dz. Urz. UE L 105 z 13.04.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+” ;
+
+### 11)
+
+w art. 44 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Cudzoziemiec jest obowiązany złożyć wniosek o przedłużenie wizy co najmniej 7 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie jednolitej lub co najmniej 14 dni przed upływem okresu pobytu oznaczonego w posiadanej wizie krajowej.
+
+” ;
+
+### 12)
+
+po art. 45 dodaje się art. 45a i 45b w brzmieniu:
+
+„
+
+### Art. 45a.
+
+### 1.
+
+Wydanie wizy jednolitej w przypadkach określonych przez Radę Unii Europejskiej na podstawie art. 17 ust. 2 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach wymaga uzyskania zgody Szefa Urzędu do Spraw Cudzoziemców działającego jako centralny organ wizowy.
+
+### 2.
+
+Szef Urzędu do Spraw Cudzoziemców konsultuje możliwość wyrażenia zgody na wydanie wizy jednolitej:
+
+### 1)
+
+w przypadkach określonych w załączniku 5A do Wspólnych Instrukcji Konsularnych dla misji dyplomatycznych i urzędów konsularnych dotyczących wiz (Dz. Urz. UE C 326 z 22.12.2005, str. 1), zwanych dalej „Wspólnymi Instrukcjami Konsularnymi”, z:
+
+### a)
+
+Komendantem Głównym Straży Granicznej,
+
+### b)
+
+Komendantem Głównym Policji,
+
+### c)
+
+Szefem Agencji Bezpieczeństwa Wewnętrznego,
+
+### d)
+
+Szefem Agencji Wywiadu,
+
+### e)
+
+ministrem właściwym do spraw zagranicznych;
+
+### 2)
+
+w przypadkach określonych w załączniku 5B do Wspólnych Instrukcji Konsularnych z centralnymi organami wizowymi innych państw obszaru Schengen.
+
+### 3.
+
+Jeżeli wydanie wizy jednolitej przez organ wizowy innego państwa obszaru Schengen wymaga zgody centralnego organu wizowego Rzeczypospolitej Polskiej, Szef Urzędu do Spraw Cudzoziemców działający jako centralny organ wizowy konsultuje możliwość wyrażenia zgody z organami, o których mowa w ust. 2 pkt 1.
+
+### 4.
+
+Organy, o których mowa w ust. 2 pkt 1, są obowiązane, w terminie 5 dni od dnia otrzymania wniosku o konsultację, przekazać opinię w sprawie zgody na wydanie wizy jednolitej. Nieprzekazanie opinii w tym terminie uznaje się za równoważne z wydaniem opinii pozytywnej.
+
+### 5.
+
+Na wniosek organów, o których mowa w ust. 2 pkt 1, termin przekazania opinii w sprawie zgody na wydanie wizy jednolitej może być przedłużony o 5 dni, a w szczególnie uzasadnionych przypadkach do 80 dni, o czym Szef Urzędu do Spraw Cudzoziemców zawiadamia konsula.
+
+### 6.
+
+Szef Urzędu do Spraw Cudzoziemców informuje konsula o wyrażeniu zgody na wydanie wizy jednolitej lub braku zgody na jej wydanie, w terminie 10 dni od dnia otrzymania wniosku w tej sprawie. Termin ten ulega przedłużeniu odpowiednio do przedłużenia terminu przekazania opinii w sprawie zgody na wydanie wizy jednolitej, o którym mowa w ust. 5.
+
+### 7.
+
+Nieudzielenie konsulowi przez Szefa Urzędu do Spraw Cudzoziemców informacji w sprawie zgody na wydanie wizy jednolitej w terminach, o których mowa w ust. 6, uznaje się za wyrażenie zgody.
+
+### 8.
+
+W przypadku gdy brak zgody na wydanie wizy jednolitej wynika ze stanowiska centralnego organu wizowego innego państwa obszaru Schengen, konsul może wydać cudzoziemcowi wizę jednolitą upoważniającą tylko do wjazdu na terytorium Rzeczypospolitej Polskiej.
+
+### Art. 45b.
+
+### 1.
+
+Przed wydaniem wizy organ właściwy do jej wydania może zwrócić się do Szefa Urzędu do Spraw Cudzoziemców z wnioskiem o przekazanie informacji, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 42 pkt 1-4 i 7.
+
+### 2.
+
+Szef Urzędu do Spraw Cudzoziemców jest obowiązany przekazać informacje, czy wobec cudzoziemca zachodzą okoliczności, o których mowa w art. 42 pkt 1-4 i 7, w terminie 10 dni od dnia otrzymania wniosku w tej sprawie.
+
+” ;
+
+### 13)
+
+w art. 46:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wizę pobytową krajową w celu wykonywania pracy wydaje lub odmawia jej wydania konsul właściwy ze względu na miejsce stałego zamieszkania cudzoziemca.
+
+” ,
+
+### b)
+
+uchyla się ust. 7a i 7b;
+
+### 14)
+
+w art. 48 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Wizę krajową unieważnia się, jeżeli: ” ;
+
+### 15)
+
+w art. 52 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+oznaczenie wiz, z wyłączeniem wiz wydawanych szefom i członkom personelu misji dyplomatycznych, kierownikom urzędów konsularnych i członkom personelu konsularnego państw obcych oraz innym osobom zrównanym z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, i wzór wizy krajowej, uwzględniając jej typy, o których mowa w art. 26, a także zakres danych, które powinny być w niej zawarte, określony w art. 25 ust. 1-4;
+
+” ;
+
+### 16)
+
+w art. 57:
+
+### a)
+
+w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+jego dane znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu;
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+W przypadku, o którym mowa w ust. 1 pkt 2a, można udzielić zezwolenia na zamieszkanie na czas oznaczony tylko w razie istnienia poważnych przyczyn, zwłaszcza ze względów humanitarnych lub z powodu zobowiązań międzynarodowych, z uwzględnieniem interesu państwa, które dokonało wpisu do Systemu Informacyjnego Schengen.
+
+” ;
+
+### 17)
+
+w art. 62:
+
+### a)
+
+po ust. 7a dodaje się ust. 7b w brzmieniu:
+
+„
+
+### 7b.
+
+W przypadku, o którym mowa w art. 57 ust. 1 pkt 2a, gdy zachodzą okoliczności, o których mowa w art. 57 ust. 5a, wojewoda zasięga opinii, o której mowa w art. 25 ust. 1 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach, za pośrednictwem Komendanta Głównego Policji.
+
+” ,
+
+### b)
+
+po ust. 8 dodaje się ust. 8a w brzmieniu:
+
+„
+
+### 8a.
+
+Wojewoda jest obowiązany ustalić, czy zachodzą przesłanki do cofnięcia zezwolenia na zamieszkanie na czas oznaczony, w przypadku gdy państwo obszaru Schengen zasięga opinii na podstawie art. 25 ust. 2 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach.
+
+” ,
+
+### c)
+
+w ust. 9 dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o:
+
+### a)
+
+udzieleniu zezwolenia na zamieszkanie na czas oznaczony w przypadku, o którym mowa w art. 25 ust. 1 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach,
+
+### b)
+
+braku przesłanek do cofnięcia zezwolenia na zamieszkanie na czas oznaczony w przypadku, o którym mowa w art. 25 ust. 2 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach.
+
+” ;
+
+### 18)
+
+art. 66 otrzymuje brzmienie:
+
+„
+
+### Art. 66.
+
+### 1.
+
+Cudzoziemcowi odmawia się udzielenia zezwolenia na osiedlenie się, jeżeli:
+
+### 1)
+
+nie spełnia wymogów, o których mowa w art. 64 ust. 1;
+
+### 2)
+
+jego dane znajdują się w wykazie cudzoziemców, których pobyt na terytorium Rzeczypospolitej Polskiej jest niepożądany;
+
+### 3)
+
+jego dane znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu;
+
+### 4)
+
+wymagają tego względy obronności lub bezpieczeństwa państwa albo ochrony bezpieczeństwa i porządku publicznego lub interes Rzeczypospolitej Polskiej;
+
+### 5)
+
+podstawą ubiegania się o zezwolenie jest zawarcie związku małżeńskiego z obywatelem polskim, a związek małżeński został zawarty wyłącznie w celu obejścia przepisów o udzielaniu zezwolenia na zamieszkanie na czas oznaczony lub zezwolenia na osiedlenie się;
+
+### 6)
+
+w postępowaniu o udzielenie zezwolenia na osiedlenie się:
+
+### a)
+
+złożył wniosek lub dołączył do niego dokumenty zawierające nieprawdziwe dane osobowe lub fałszywe informacje,
+
+### b)
+
+zeznał nieprawdę lub zataił prawdę albo, w celu użycia za autentyczny, podrobił lub przerobił dokument bądź takiego dokumentu jako autentycznego używał;
+
+### 7)
+
+nie wywiązuje się z zobowiązań podatkowych wobec Skarbu Państwa.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1 pkt 3, można udzielić zezwolenia na osiedlenie się tylko w razie istnienia poważnych przyczyn, zwłaszcza ze względów humanitarnych lub z powodu zobowiązań międzynarodowych, z uwzględnieniem interesu państwa, które dokonało wpisu do Systemu Informacyjnego Schengen.
+
+” ;
+
+### 19)
+
+w art. 71b:
+
+### a)
+
+po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+W przypadku, o którym mowa w art. 66 ust. 1 pkt 3, gdy zachodzą okoliczności, o których mowa w art. 66 ust. 2, oraz przed wydaniem zezwolenia na pobyt rezydenta długoterminowego WE wojewoda zasięga opinii, o której mowa w art. 25 ust. 1 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach, za pośrednictwem Komendanta Głównego Policji.
+
+” ,
+
+### b)
+
+dodaje się ust. 9 i 10 w brzmieniu:
+
+„
+
+### 9.
+
+W przypadku, o którym mowa w art. 25 ust. 1 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach, oraz przed wydaniem zezwolenia na pobyt rezydenta długoterminowego WE, wojewoda informuje właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o wydaniu zezwolenia na osiedlenie się.
+
+### 10.
+
+W przypadku, o którym mowa w art. 25 ust. 2 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach, oraz przed wydaniem zezwolenia na pobyt rezydenta długoterminowego WE, wojewoda informuje właściwy organ państwa obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, o braku przesłanek do cofnięcia zezwolenia na osiedlenie się.
+
+” ;
+
+### 20)
+
+w art. 88 w ust. 1 po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+jego dane znajdują się w Systemie Informacyjnym Schengen do celów odmowy wjazdu, jeżeli cudzoziemiec przebywa na terytorium Rzeczypospolitej Polskiej na podstawie wizy pobytowej krótkoterminowej lub w ruchu bezwizowym;
+
+” ;
+
+### 21)
+
+w art. 128 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+cudzoziemiec został skazany prawomocnym wyrokiem:
+
+### a)
+
+w Rzeczypospolitej Polskiej za przestępstwo umyślne lub przestępstwo skarbowe na karę grzywny lub karę pozbawienia wolności poniżej jednego roku,
+
+### b)
+
+w innym państwie niż państwo obszaru Schengen za przestępstwo stanowiące zbrodnię pospolitą również w rozumieniu prawa polskiego,
+
+### c)
+
+w państwie obszaru Schengen za przestępstwo na karę pozbawienia wolności powyżej jednego roku;
+
+” ;
+
+### 22)
+
+w art. 131:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Cudzoziemiec może złożyć wniosek o:
+
+### 1)
+
+udzielenie informacji o wpisaniu jego danych osobowych do wykazu lub do Systemu Informacyjnego Schengen;
+
+### 2)
+
+sprostowanie jego danych osobowych zawartych w wykazie lub w Systemie Informacyjnym Schengen, jeżeli stwierdzi, że nie są prawdziwe;
+
+### 3)
+
+wykreślenie jego danych osobowych zawartych w wykazie lub w Systemie Informacyjnym Schengen, jeżeli zostały tam umieszczone w wyniku błędu.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Wniosek w sprawie danych zawartych w Systemie Informacyjnym Schengen może dotyczyć tylko danych wpisanych przez Szefa Urzędu do Spraw Cudzoziemców do celów odmowy wjazdu.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W postępowaniu wszczętym wskutek złożenia wniosku, o którym mowa w ust. 1, Szef Urzędu do Spraw Cudzoziemców udziela cudzoziemcowi tylko informacji o wpisaniu jego danych osobowych do wykazu lub do Systemu Informacyjnego Schengen.
+
+” ;
+
+### 23)
+
+w art. 131a dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Przepis ust. 1 stosuje się także do przeglądania dokumentów dotyczących wpisu danych cudzoziemca do Systemu Informacyjnego Schengen dokonanego przez Szefa Urzędu do Spraw Cudzoziemców do celów odmowy wjazdu.
+
+” ;
+
+### 24)
+
+po art. 134 dodaje się art. 134a w brzmieniu:
+
+„
+
+### Art. 134a.
+
+Dane cudzoziemca, z wyłączeniem danych obywateli państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, przechowywane w wykazie na podstawie:
+
+### 1)
+
+art. 128 ust. 1 pkt 1 i 2, z wyłączeniem danych cudzoziemca, który otrzymał decyzję o zobowiązaniu do opuszczenia terytorium Rzeczypospolitej Polskiej,
+
+### 2)
+
+art. 128 ust. 1 pkt 3 i 6,
+
+### 3)
+
+art. 77 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin ([Dz. U. Nr 144, poz. 1043](https://api.sejm.gov.pl/eli/acts/DU/2006/1043/text.html) oraz z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html))
+
+- są przekazywane do Systemu Informacyjnego Schengen na okres przechowywania ich w wykazie.
+
+” ;
+
+### 25)
+
+w art. 143 w ust. 1:
+
+### a)
+
+po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+przekazywanie właściwym organom innych państw obszaru Schengen, za pośrednictwem Komendanta Głównego Policji, informacji dotyczących podstawy prawnej i faktycznej wpisu do celów określonych w art. 25 Konwencji Wykonawczej z dnia 19 czerwca 1990 r. do Układu z Schengen z dnia 14 czerwca 1985 r. między Rządami Państw Unii Gospodarczej Beneluksu, Republiki Federalnej Niemiec oraz Republiki Francuskiej w sprawie stopniowego znoszenia kontroli na wspólnych granicach;
+
+” ,
+
+### b)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+wykonywanie funkcji polskiego centralnego organu wizowego;
+
+” .
+
+### Art. 42.
+
+W ustawie z dnia 21 lipca 2006 r. o zmianie ustawy o Policji oraz niektórych innych ustaw ([Dz. U. Nr 158, poz. 1122](https://api.sejm.gov.pl/eli/acts/DU/2006/1122/text.html)) w art. 7 uchyla się ust. 1.
+
+### Rozdział 8 Przepisy przejściowe i końcowe
+
+### Art. 43.
+
+Centralny organ techniczny KSI jest obowiązany do utworzenia oraz uruchomienia Krajowego Systemu Informatycznego w terminie do dnia 1 września 2007 r.
+
+### Art. 44.
+
+Osoby mające dostęp do Krajowego Systemu Informatycznego po dniu 1 czerwca 2008 r. muszą być przeszkolone w sposób określony w przepisach wydanych na podstawie art. 25 ust. 3, przez osoby posiadające kwalifikacje określone w tych przepisach.
+
+### Art. 45.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 52 ust. 1 pkt 1 ustawy, o której mowa w art. 41, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 52 ust. 1 pkt 1 ustawy, o której mowa w art. 41, jednakże nie dłużej niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 46.
+
+Ustawa wchodzi w życie z dniem ogłoszenia, z tym że:
+
+### 1)
+
+art. 5-7, art. 13 oraz art. 27 ust. 1 pkt 5-7 stosuje się zgodnie z określoną przez Komisję Europejską datą rozpoczęcia funkcjonowania Systemu Informacji Wizowej w Rzeczypospolitej Polskiej;
+
+### 2)
+
+art. 3 ust. 1 pkt 6 i art. 4 ust. 1 pkt 6 wchodzą w życie z dniem określonym w decyzji Rady, zgodnie z art. 55 ust. 2 rozporządzenia (WE) nr 1987/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie utworzenia, funkcjonowania i użytkowania Systemu Informacyjnego Schengen drugiej generacji (SIS II) ([Dz. Urz. UE L 381 z 28.12.2006, str. 4](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 3)
+
+art. 41 wchodzi w życie z dniem określonym w decyzji Rady, zgodnie z art. 3 ust. 2 Aktu dotyczącego warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej z dnia 16 kwietnia 2003 r. ([Dz. U. z 2004 r. Nr 90, poz. 864](https://api.sejm.gov.pl/eli/acts/DU/2004/864/text.html)).
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285 oraz z 2006 r. Nr 104, poz. 708 i 711. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 109, poz. 925, Nr 175, poz. 1462, Nr 179, poz. 1486 i Nr 180, poz. 1494 i 1497, z 2006 r. Nr 17, poz. 141, Nr 104, poz. 708 i 711, Nr 190, poz. 1400, Nr 191, poz. 1410 i Nr 235, poz. 1701 oraz z 2007 r. Nr 52, poz. 343, Nr 57, poz. 381, Nr 99, poz. 661 i Nr 123, poz. 845. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648 oraz z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 264, poz. 2205, z 2006 r. Nr 170, poz. 1217 i Nr 218, poz. 1592 oraz z 2007 r. Nr 25, poz. 162. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 25, poz. 219 i Nr 33, poz. 285 oraz z 2006 r. Nr 104, poz. 708 i 711.

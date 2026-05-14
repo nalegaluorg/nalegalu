@@ -8,11 +8,9 @@ pos: 779
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o strażach gminnych
-
-*USTAWA z dnia 29 sierpnia 1997 r.*
+# Ustawa z dnia 29 sierpnia 1997 r. o strażach gminnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,409 +22,568 @@ domain: null
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-10-09 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971230779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/779/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/779/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/779) |
 
-Art. 34–37. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organizacja, zadania i zakres uprawnień straży](#chpt_2) [Rozdział 3 - Uprawnienia i obowiązki strażników](#chpt_3) [Rozdział 4 - Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe](#chpt_4)
 
-**Art. 1.**
+TOC
 
-1. Do ochrony porządku publicznego na terenie gminy może być utworzona samorządowa umundurowana formacja – straż gminna, zwana dalej „strażą”.
+## Treść ustawy
 
-2. Straż spełnia służebną rolę wobec społeczności lokalnej, wykonując swe zadania z poszanowaniem godności i praw obywateli.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 2.**
+### Art. 1.
 
-1. Rada gminy może utworzyć straż gminną.
+### 1.
 
-2. Rada gminy tworzy straż po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji, o czym zawiadamia wojewodę. W przypadku nieotrzymania opinii, rada gminy może utworzyć straż po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii.
+Do ochrony porządku publicznego na terenie gminy może być utworzona samorządowa umundurowana formacja - straż gminna, zwana dalej „strażą”.
 
-3. W gminach, w których organem wykonawczym jest burmistrz (prezydent miasta), straż nosi nazwę „straż miejska”.
+### 2.
 
-**Art. 3.**
+Straż spełnia służebną rolę wobec społeczności lokalnej, wykonując swe zadania z poszanowaniem godności i praw obywateli.
 
-1. Gminy sąsiadujące na obszarze jednego województwa mogą zawrzeć, po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji, porozumienie o utworzeniu wspólnej straży. W przypadku nieotrzymania opinii gminy sąsiadujące na obszarze jednego województwa mogą zawrzeć porozumienie o utworzeniu wspólnej straży po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii.
+### Art. 2.
 
-2. Porozumienie określa w szczególności:
+### 1.
 
-- **1)** zasięg terytorialny działania wspólnej straży;
-- **2)** sposób finansowania wspólnej straży;
-- **3)** radę gminy, która nada regulamin wspólnej straży i może ją rozwiązać;
-- **4)** wójta, burmistrza (prezydenta miasta), któremu wspólna straż będzie podlegać.
+Rada gminy może utworzyć straż gminną.
 
-**Art. 4.** Rada gminy może rozwiązać straż po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji, o czym zawiadamia wojewodę. W przypadku nieotrzymania opinii, rada gminy może rozwiązać straż po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii.
+### 2.
 
-**Art. 5.** Koszty związane z funkcjonowaniem straży są pokrywane z budżetu gminy.
+Rada gminy tworzy straż po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego Policji.
 
-#### Rozdział 2 Organizacja, zadania i zakres uprawnień straży
+### 3.
 
-**Art. 6.**
+W gminach, w których przewodniczącym zarządu jest burmistrz (prezydent miasta), straż nosi nazwę „straż miejska”.
 
-1. Straż jest jednostką organizacyjną gminy.
+### Art. 3.
 
-2. Rada gminy może postanowić o umiejscowieniu straży w strukturze urzędu gminy. W takim przypadku szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez wójta, burmistrza (prezydenta miasta).
+### 1.
 
-**Art. 7.**
+Gminy sąsiadujące na obszarze jednego województwa mogą zawrzeć, po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego Policji, porozumienie o utworzeniu wspólnej straży. W porozumieniu ustala się w szczególności zasięg terytorialny działania straży i sposób jej finansowania przez zainteresowane gminy oraz wyznacza się radę gminy, która nada regulamin straży i której straż będzie podlegać.
 
-1. Strażą kieruje komendant, zatrudniany na podstawie umowy o pracę przez wójta, burmistrza (prezydenta miasta), po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji. W przypadku nieotrzymania opinii wójt, burmistrz (prezydent miasta) może zatrudnić komendanta po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii.
+### 2.
 
-2. Przełożonym Komendanta jest wójt, burmistrz (prezydent miasta).
+W mieście, które jest związkiem komunalnym, utworzonym z mocy ustawy, może działać tylko straż miejska utworzona przez radę miasta. Przepis art. 2 ust. 2 stosuje się odpowiednio.
 
-**Art. 8.**
+### 3.
 
-1. (uchylony)
+Ilekroć w dalszych przepisach ustawy jest mowa o „gminie”, „radzie gminy” i „zarządzie gminy” - rozumie się przez to również, odpowiednio, miasto będące związkiem komunalnym utworzonym z mocy ustawy oraz radę i zarząd tego miasta.
 
-2. Szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez radę gminy.
+### Art. 4.
 
-**Art. 8a.** W straży ustanawia się stanowiska strażnicze:
+Rada gminy może rozwiązać straż po powiadomieniu właściwego terytorialnie komendanta wojewódzkiego Policji.
 
-**Art. 9.**
+### Art. 5.
 
-1. Nadzór nad działalnością straży sprawuje wójt, burmistrz (prezydent miasta).
+Koszty związane z funkcjonowaniem straży pokrywane są z budżetu gminy. Koszty związane z funkcjonowaniem straży, o której mowa w art. 3 ust. 2, są pokrywane z budżetu miasta.
 
-2. Nadzór nad działalnością straży w zakresie:
+### Rozdział 2 Organizacja, zadania i zakres uprawnień straży
 
-- **1)** wykonywania uprawnień, o których mowa w art. 12,
-- **2)** użycia broni palnej oraz środków przymusu bezpośredniego,
-- **3)** ewidencji, o której mowa w art. 9a ust. 1 – sprawuje wojewoda przy pomocy komendanta wojewódzkiego (Stołecznego) Policji działającego w jego imieniu.
+### Art. 6.
 
-3. Wojewoda sprawuje nadzór przez:
+### 1.
 
-- **1)** okresowe lub doraźne kontrole, obejmujące całokształt lub część spraw poddanych nadzorowi;
-- **2)** wydawanie zaleceń pokontrolnych oraz kontrolę prawidłowości i terminowości ich realizacji;
-- **3)** podejmowanie innych czynności zmierzających do usunięcia stwierdzonych uchybień i zapobieżenia ich powstawaniu.
+Straż jest jednostką organizacyjną gminy.
 
-4. W związku z wykonywaniem swoich zadań straż współpracuje z Policją. W tym celu wójt, burmistrz (prezydent miasta) może zawierać z właściwym terytorialnie komendantem Policji porozumienie o współpracy straży i Policji.
+### 2.
 
-5. Współpraca Policji i straży polega w szczególności na:
+W szczególnie uzasadnionych przypadkach rada gminy może postanowić o umiejscowieniu Komendy straży w strukturze urzędu gminy.
 
-- **1)** stałej wymianie informacji o zagrożeniach występujących na określonym terenie w zakresie bezpieczeństwa ludzi i mienia, spokoju i porządku publicznego;
-- **2)** zorganizowaniu systemu łączności Policji i straży, uwzględniającego lokalne potrzeby i możliwości oraz zapewniającego utrzymanie stałej łączności między jednostkami Policji i straży;
-- **3)** koordynowaniu rozmieszczenia służb policyjnych i straży, z uwzględnieniem zagrożeń występujących na danym terenie;
-- **4)** wspólnym prowadzeniu działań porządkowych w celu zapewnienia spokoju i porządku w miejscach zgromadzeń, imprez artystycznych, rozrywkowych i sportowych, a także w innych miejscach publicznych;
-- **5)** organizowaniu wspólnych szkoleń oraz ćwiczeń policjantów i strażników gminnych (miejskich);
-- **6)** wymianie informacji w zakresie obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych.
+### Art. 7.
 
-5a. W celu realizacji zadań, o których mowa w art. 11 ust. 1 pkt 1 i 3, w przypadku powszechnego zagrożenia bezpieczeństwa publicznego, katastrofy, klęski żywiołowej, stanu zagrożenia epidemicznego, stanu epidemii lub innej sytuacji kryzysowej, na obszarze województwa lub gminy, wojewoda może na czas określony zarządzić użycie straży do wspólnych działań z Policją. O zarządzeniu użycia straży do wspólnych działań z Policją wojewoda niezwłocznie informuje właściwego terytorialnie wójta, burmistrza (prezydenta miasta).
+### 1.
 
-5b. W przypadku, o którym mowa w ust. 5a, straż podlega dowództwu właściwego terytorialnie komendanta Policji.
+Strażą kieruje Komendant powoływany i odwoływany przez zarząd gminy po zasięgnięciu opinii właściwego terytorialnie komendanta wojewódzkiego Policji.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb sprawowania nadzoru nad działalnością straży przez właściwego terytorialnie wojewodę przy pomocy komendanta wojewódzkiego (Stołecznego) Policji, kierując się potrzebą zapewnienia zgodnej z prawem realizacji zadań straży.
+### 2.
 
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, formy współpracy straży z Policją oraz sposób informowania wojewody o tej współpracy, kierując się potrzebą zapewnienia skuteczności tej współpracy.
+Przełożonym Komendanta jest wójt, burmistrz (prezydent miasta).
 
-**Art. 9a.**
+### Art. 8.
 
-1. Straż prowadzi ewidencję:
+### 1.
 
-- **1)** etatów;
-- **2)** wyposażenia, w tym środków przymusu bezpośredniego, broni palnej, środków technicznych służących do obserwowania i rejestrowania obrazu zdarzeń w miejscach publicznych, pojazdów;
-- **3)** wyników działań straży.
+Komendant straży wykonuje swoje zadania przy pomocy Komendy Straży.
 
-2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres i sposób prowadzenia ewidencji, uwzględniając dane podlegające wpisowi oraz możliwość jej prowadzenia w systemie informatycznym.
+### 2.
 
-**Art. 9b.**
+Szczegółową strukturę organizacyjną straży określa regulamin straży nadawany przez radę gminy.
 
-1. Komendanci straży przekazują właściwemu terytorialnie komendantowi wojewódzkiemu (Stołecznemu) Policji do dnia 31 stycznia każdego roku informacje o danych zawartych w ewidencji, o której mowa w art. 9a ust. 1. Zbiorcze informacje z obszaru województwa komendant wojewódzki (Stołeczny) Policji składa do końca lutego każdego roku wojewodzie.
+### Art. 9.
 
-2. Wojewoda, do dnia 15 marca każdego roku, przekazuje ministrowi właściwemu do spraw wewnętrznych otrzymane informacje z obszaru województwa o danych zawartych w ewidencjach, o których mowa w art. 9a ust. 1.
+### 1.
 
-**Art. 10.**
+Nadzór nad działalnością straży sprawuje zarząd gminy, a w zakresie fachowym - Komendant Główny Policji poprzez właściwego terytorialnie komendanta wojewódzkiego Policji.
 
-1. Straż wykonuje zadania w zakresie ochrony porządku publicznego wynikające z ustaw i aktów prawa miejscowego.
+### 2.
 
-2. Zadania, o których mowa w ust. 1, wykonują pracownicy straży, zwani dalej „strażnikami”, po ukończeniu z wynikiem pozytywnym szkolenia podstawowego, o którym mowa w art. 25.
+Minister Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, zasady współpracy Policji ze strażami oraz zakres, w jakim Komendant Główny Policji sprawuje fachowy nadzór nad strażami i udziela im pomocy.
 
-**Art. 10a.**
+### Art. 10.
 
-1. Straż w celu realizacji ustawowych zadań może przetwarzać dane osobowe, z wyłączeniem danych ujawniających pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub filozoficzne, przynależność wyznaniową, partyjną lub związkową, jak również danych o stanie zdrowia, kodzie genetycznym, nałogach lub życiu seksualnym, bez wiedzy i zgody osoby, której dane te dotyczą, uzyskane:
+### 1.
 
-- **1)** w wyniku wykonywania czynności podejmowanych w postępowaniu w sprawach o wykroczenia;
-- **2)** z rejestrów, ewidencji i zbiorów, do których straż posiada dostęp na podstawie odrębnych przepisów.
+Straż wykonuje zadania w zakresie ochrony porządku publicznego wynikające z ustaw i aktów prawa miejscowego.
 
-2. Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), przez straż jest komendant straży.
+### 2.
 
-**Art. 10b.** W celu wykonywania zadań w zakresie kontroli ruchu drogowego, o których mowa w art. 129b ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2021 r. poz. 450, 463, 694, 720 i 1641), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych w art. 80k–80r tej ustawy.
+Zadania, o których mowa w ust. 1, wykonują pracownicy straży, zwani dalej „strażnikami”.
 
-**Art. 11.**
+### Art. 11.
 
-1. Do zadań straży należy w szczególności:
+Do zadań straży należy w szczególności:
 
-- **1)** ochrona spokoju i porządku w miejscach publicznych;
-- **2)** czuwanie nad porządkiem i kontrola ruchu drogowego – w zakresie określonym w przepisach o ruchu drogowym;
-- **2a)** kontrola publicznego transportu zbiorowego – w zakresie określonym w art. 45 ust. 1 ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2021 r. poz. 1371);
-- **3)** współdziałanie z właściwymi podmiotami w zakresie ratowania życia i zdrowia obywateli, pomocy w usuwaniu awarii technicznych i skutków klęsk żywiołowych oraz innych miejscowych zagrożeń;
-- **4)** zabezpieczenie miejsca przestępstwa, katastrofy lub innego podobnego zdarzenia albo miejsc zagrożonych takim zdarzeniem przed dostępem osób postronnych lub zniszczeniem śladów i dowodów, do momentu przybycia właściwych służb, a także ustalenie, w miarę możliwości, świadków zdarzenia;
-- **5)** ochrona obiektów komunalnych i urządzeń użyteczności publicznej;
-- **6)** współdziałanie z organizatorami i innymi służbami w ochronie porządku podczas zgromadzeń i imprez publicznych;
-- **7)** doprowadzanie osób nietrzeźwych do izby wytrzeźwień lub miejsca ich zamieszkania, jeżeli osoby te zachowaniem swoim dają powód do zgorszenia w miejscu publicznym, znajdują się w okolicznościach zagrażających ich życiu lub zdrowiu albo zagrażają życiu i zdrowiu innych osób;
-- **8)** informowanie społeczności lokalnej o stanie i rodzajach zagrożeń, a także inicjowanie i uczestnictwo w działaniach mających na celu zapobieganie popełnianiu przestępstw i wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami państwowymi, samorządowymi i organizacjami społecznymi;
-- **9)** konwojowanie dokumentów, przedmiotów wartościowych lub wartości pieniężnych dla potrzeb gminy.
+### 1)
 
-2. W związku z realizowanymi zadaniami określonymi w ust. 1 i art. 10, straży przysługuje prawo do obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych w przypadku, gdy czynności te są niezbędne do wykonywania zadań oraz w celu:
+ochrona spokoju i porządku w miejscach publicznych,
 
-- **1)** utrwalania dowodów popełnienia przestępstwa lub wykroczenia;
-- **2)** przeciwdziałania przypadkom naruszania spokoju i porządku w miejscach publicznych;
-- **3)** ochrony obiektów komunalnych i urządzeń użyteczności publicznej.
+### 2)
 
-3. Rada Ministrów określi, w drodze rozporządzenia, sposób wykonywania czynności, o których mowa w ust. 2, uwzględniając potrzebę zapewnienia skuteczności obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych, a także potrzebę respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
+czuwanie nad porządkiem i kontrola ruchu drogowego - w zakresie określonym w przepisach o ruchu drogowym,
 
-**Art. 12.**
+### 3)
 
-1. Strażnik wykonując zadania, o których mowa w art. 10 i 11, ma prawo do:
+współdziałanie z właściwymi podmiotami w zakresie ratowania życia i zdrowia obywateli, pomocy w usuwaniu awarii technicznych i skutków klęsk żywiołowych oraz innych miejscowych zagrożeń,
 
-- **1)** udzielania pouczeń, zwracania uwagi, ostrzegania lub stosowania innych środków oddziaływania wychowawczego;
-- **2)** legitymowania osób w uzasadnionych przypadkach w celu ustalenia ich tożsamości;
-- **3)** ujęcia osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia i niezwłocznego doprowadzenia do najbliższej jednostki Policji;
-- **3a)** dokonywania kontroli osobistej, przeglądania zawartości podręcznych bagaży osoby w przypadku istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego pod groźbą kary lub w związku z wykonywaniem czynności określonych w ust. 1 pkt 3 – na zasadach i w sposób określony w ust. 1c–1m;
-- **3b)** dokonywania sprawdzenia prewencyjnego osób doprowadzanych, o których mowa w art. 11 ust. 1 pkt 7, w celu ochrony przed bezprawnymi zamachami na życie lub zdrowie osób lub mienie, a także w celu ochrony przed nieuprawnionymi działaniami skutkującymi zagrożeniem życia lub zdrowia;
-- **4)** nakładania grzywien w postępowaniu mandatowym za wykroczenia określone w trybie przewidzianym przepisami o postępowaniu w sprawach o wykroczenia;
-- **5)** dokonywania czynności wyjaśniających, kierowania wniosków o ukaranie do sądu, oskarżania przed sądem i wnoszenia środków odwoławczych – w trybie i zakresie określonych w Kodeksie postępowania w sprawach o wykroczenia;
-- **6)** usuwania pojazdów i ich unieruchamiania przez blokowanie kół w przypadkach, zakresie i trybie określonych w przepisach o ruchu drogowym;
-- **7)** wydawania osobom poleceń określonego zachowania się w granicach niezbędnych do wykonywania czynności określonych w pkt 1–6;
-- **8)** żądania niezbędnej pomocy od instytucji państwowych i samorządowych;
-- **9)** zwracania się, w nagłych przypadkach, o pomoc do jednostek gospodarczych, prowadzących działalność w zakresie użyteczności publicznej oraz organizacji społecznych, jak również do każdej osoby o udzielenie doraźnej pomocy na zasadach określonych w ustawie o Policji.
-- **10)** (uchylony) 1a. Straż w toku wykonywania czynności, o których mowa w ust. 1 i art. 11 ust. 2, ma obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka. Czynności te powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
+### 4)
 
-1b. (uchylony) 1c. Kontrola osobista polega na sprawdzeniu:
+zabezpieczenie miejsca przestępstwa, katastrofy lub innego podobnego zdarzenia albo miejsc zagrożonych takim zdarzeniem przed dostępem osób postronnych lub zniszczeniem śladów i dowodów, do momentu przybycia właściwych służb, a także ustalenie, w miarę możliwości, świadków zdarzenia,
 
-- **1)** zawartości odzieży i obuwia osoby poddawanej kontroli osobistej, zwanej dalej „osobą kontrolowaną”, i przedmiotów, które znajdują się na jej ciele;
-- **2)** zawartości podręcznego bagażu oraz innych przedmiotów, które posiada przy sobie osoba kontrolowana;
-- **3)** jamy ustnej, nosa, uszu oraz włosów osoby kontrolowanej.
+### 5)
 
-1d. Sprawdzenia, o którym mowa w ust. 1c, można dokonać wzrokowo lub manualnie.
+ochrona obiektów komunalnych i urządzeń użyteczności publicznej,
 
-1e. Strażnik dokonujący kontroli osobistej:
+### 6)
 
-- **1)** przystępując do czynności związanych z kontrolą osobistą podaje swoje stanowisko, imię i nazwisko w sposób umożliwiający odnotowanie tych danych, a także podstawę prawną i przyczynę podjęcia kontroli osobistej;
-- **2)** legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
-- **3)** może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów mogących służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmiotów, których posiadanie jest zabronione lub stanowiących zagrożenie życia lub zdrowia lub przedmiotów mogących stanowić dowód rzeczowy lub podlegających przepadkowi oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży, obuwia lub przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
-- **4)** odbiera osobie kontrolowanej posiadaną broń lub inne niebezpieczne przedmioty mogące służyć do popełnienia czynu zabronionego pod groźbą kary lub przedmioty, których posiadanie jest zabronione, lub które stanowią zagrożenie życia lub zdrowia, lub przedmioty mogące stanowić dowód rzeczowy lub podlegające przepadkowi.
+współdziałanie z organizatorami i innymi służbami w ochronie porządku podczas zgromadzeń i imprez publicznych,
 
-1f. Przedmioty, o których mowa w ust. 1e pkt 4, przekazuje się za potwierdzeniem odbioru właściwym podmiotom albo zwraca się osobie kontrolowanej.
+### 7)
 
-1g. Kontroli osobistej dokonuje strażnik tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+doprowadzanie osób nietrzeźwych do izby wytrzeźwień lub miejsca ich zamieszkania, jeżeli osoby te zachowaniem swoim dają powód do zgorszenia w miejscu publicznym, znajdują się w okolicznościach zagrażających ich życiu lub zdrowiu albo zagrażają życiu i zdrowiu innych osób,
 
-1h. W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać strażnik płci odmiennej niż osoba kontrolowana, także w miejscu niespełniającym warunku, o którym mowa w ust. 1g.
+### 8)
 
-1i. Podczas kontroli osobistej może być obecna osoba przybrana przez strażnika, a w przypadku gdy nie uniemożliwi to przeprowadzenia kontroli osobistej albo nie utrudni jej przeprowadzenia w istotny sposób, może być obecna także osoba wskazana przez osobę kontrolowaną.
+informowanie społeczności lokalnej o stanie i rodzajach zagrożeń, a także inicjowanie i uczestnictwo w działaniach mających na celu zapobieganie popełnianiu przestępstw i wykroczeń oraz zjawiskom kryminogennym i współdziałanie w tym zakresie z organami państwowymi, samorządowymi i organizacjami społecznymi,
 
-1j. Po zakończeniu kontroli osobistej strażnik poucza osobę kontrolowaną o prawie do złożenia zażalenia, o którym mowa w ust. 1l, oraz o prawie do żądania sporządzenia protokołu z kontroli osobistej.
+### 9)
 
-1k. Z kontroli osobistej sporządza się protokół w przypadku, gdy osoba kontrolowana zgłosiła takie żądanie bezpośrednio po jej dokonaniu oraz w przypadku, gdy w toku kontroli znaleziono broń lub przedmioty, o których mowa w ust. 1e pkt 4. Protokół zawiera w szczególności:
+konwojowanie dokumentów, przedmiotów wartościowych lub wartości pieniężnych dla potrzeb gminy.
 
-- **1)** oznaczenie czynności, podstawę prawną i przyczynę jej podjęcia;
-- **2)** miejsce podjęcia czynności oraz datę i godzinę rozpoczęcia i zakończenia czynności;
-- **3)** imię i nazwisko, datę i miejsce urodzenia oraz miejsce zamieszkania lub pobytu osoby kontrolowanej i osób uczestniczących w czynności;
-- **4)** rodzaj dokumentu, który stanowił podstawę do ustalenia tożsamości, a w przypadku gdy tożsamość osoby ustalono w inny sposób – dane pozwalające na ustalenie tożsamości osoby;
-- **5)** stanowisko, imię i nazwisko strażnika dokonującego czynności;
-- **6)** przebieg czynności, oświadczenia i wnioski jej uczestników;
-- **7)** spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
-- **8)** pouczenie osoby kontrolowanej o jej prawach;
-- **9)** w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+### Art. 12.
 
-1l. Osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce dokonania kontroli osobistej, w terminie 7 dni od dnia jej dokonania, w celu zbadania zasadności, legalności oraz prawidłowości jej dokonania. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534 i 1023).
+### 1.
 
-1m. W przypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości dokonania kontroli osobistej, sąd zawiadamia o tym prokuratora i komendanta straży, w której zatrudniony jest strażnik, który dokonał kontroli osobistej.
+Strażnik wykonując zadania, o których mowa w art. 10 i 11, ma prawo do:
 
-1n. W przypadku gdy w toku kontroli osobistej nie znaleziono broni lub przedmiotów, o których mowa w ust. 1e pkt 4, lub w przypadku gdy osoba kontrolowana nie zgłosiła żądania sporządzenia protokołu z kontroli, kontrolę osobistą dokumentuje się w notatniku służbowym lub w notatce służbowej, określając datę, czas, miejsce i przyczynę jej dokonania, dane osób w niej uczestniczących oraz rodzaj i wynik czynności, a także informację o pouczeniu osoby kontrolowanej, o którym mowa w ust. 1j.
+### 1)
 
-1o. Sprawdzenie prewencyjne osób doprowadzanych, o którym mowa w ust. 1 pkt 3b, polega na manualnym sprawdzeniu osoby, zawartości jej odzieży oraz przedmiotów znajdujących się na jej ciele lub przez nią posiadanych.
+udzielania pouczeń,
 
-1p. W toku wykonywania czynności, o których mowa w ust. 1o, strażnik może, w uzasadnionych przypadkach, przeprowadzić badania na zawartość alkoholu w wydychanym powietrzu. Warunki oraz sposób przeprowadzania badań, o których mowa w zdaniu pierwszym, określają przepisy wykonawcze wydane na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2021 r. poz. 1119).
+### 2)
 
-1q. W przypadku gdy w stosunku do osób doprowadzanych, o którym mowa w art. 11 ust. 1 pkt 7, zachodzi uzasadnione podejrzenie że posiadają przy sobie niebezpieczne przedmioty dla życia lub zdrowia ludzkiego, dokonuje się kontroli osobistej na zasadach i w sposób określony w ust. 1c–1n.
+legitymowania osób w uzasadnionych przypadkach w celu ustalenia ich tożsamości,
 
-2. Rada Ministrów określi, w drodze rozporządzenia, zakres i sposób wykonywania czynności, o których mowa w ust. 1 pkt 2, 3, 3b, 8 i 9, uwzględniając potrzebę zapewnienia skuteczności podejmowanych przez strażnika czynności, a także potrzebę respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
+### 3)
 
-**Art. 12a.**
+ujęcia osób stwarzających w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia i niezwłocznego doprowadzenia do najbliższej jednostki Policji,
 
-1. Komendant straży w przypadku, gdy istnieje potrzeba wykonania czynności w ramach prowadzonych czynności wyjaśniających w sprawach o wykroczenia poza obszarem jego działania, ma prawo wnosić o udzielenie niezbędnej pomocy w tym zakresie od komendanta straży właściwej dla miejsca wykonania czynności.
+### 4)
 
-2. Komendant straży może wykonać czynności zlecone w ramach pomocy, o której mowa w ust. 1.
+nakładania grzywien w postępowaniu mandatowym za wykroczenia określone w trybie przewidzianym przepisami o postępowaniu w sprawach o wykroczenia,
 
-3. W przypadku, gdy na danym terenie nie funkcjonuje straż, komendant straży, o którym mowa w ust. 1, może zwrócić się o przeprowadzenie poszczególnych czynności dowodowych w ramach prowadzonych czynności wyjaśniających w sprawach o wykroczenia do organu Policji właściwego dla miejsca wykonania czynności.
+### 5)
 
-**Art. 12b.** Dzień 29 sierpnia ustanawia się Dniem Straży Gminnej.
+dokonywania czynności sprawdzających, kierowania wniosków o ukaranie do kolegium do spraw wykroczeń, oskarżania przed kolegium do spraw wykroczeń i wnoszenia środków odwoławczych - w trybie przewidzianym przepisami o postępowaniu w sprawach o wykroczenia,
 
-**Art. 13.** (uchylony)
+### 6)
 
-#### Rozdział 3 Uprawnienia i obowiązki strażników
+usuwania pojazdów i blokowania kół pojazdów w przypadkach określonych w przepisach o ruchu drogowym,
 
-**Art. 14.**
+### 7)
 
-1. W przypadkach, o których mowa w art. 11 pkt 1–6, 8–10 i 12– 14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2019 r. poz. 2418), strażnik może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1 lit. a, b i d, pkt 2 lit. a, pkt 7, 9, pkt 12 lit. a i pkt 13 tej ustawy, lub wykorzystać te środki.
+wydawania poleceń,
 
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a, b, e i pkt 2 oraz w art. 47 pkt 3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, strażnik może użyć broni palnej lub ją wykorzystać.
+### 8)
 
-3. Wobec zwierzęcia, którego zachowanie zagraża bezpośrednio życiu lub zdrowiu strażnika lub innej osoby, strażnik może wykorzystać także środek przymusu bezpośredniego, o którym mowa w art. 12 ust. 1 pkt 5 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+żądania niezbędnej pomocy od instytucji państwowych i samorządowych,
 
-4. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+### 9)
 
-**Art. 14a.** (uchylony)
+zwracania się, w nagłych przypadkach, o pomoc do jednostek gospodarczych, prowadzących działalność w zakresie użyteczności publicznej oraz organizacji społecznych, jak również do każdej osoby o udzielenie doraźnej pomocy na zasadach określonych w ustawie o Policji.
 
-**Art. 14b.** (uchylony)
+### 2.
 
-**Art. 14c.** (uchylony)
+Rada Ministrów określi, w drodze rozporządzenia, zakres i sposób wykonywania czynności, o których mowa w ust. 1 pkt 2, 3, 8 i 9.
 
-**Art. 14d.** (uchylony)
+### Art. 13.
 
-**Art. 14e.** (uchylony)
+Minister Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, tryb i zasady uznawania pojazdów straży za pojazdy uprzywilejowane.
 
-**Art. 14f.** (uchylony)
+### Rozdział 3 Uprawnienia i obowiązki strażników
 
-**Art. 14g.** (uchylony)
+### Art. 14.
 
-**Art. 14h.** Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, sposób przechowywania i ewidencjonowania środków przymusu bezpośredniego, uwzględniając potrzebę właściwego zabezpieczenia tych środków i dokumentacji, uniemożliwiającego dostęp osób niepowołanych.
+### 1.
 
-**Art. 15.**
+Strażnik może stosować środki przymusu bezpośredniego wobec osób uniemożliwiających wykonywanie przez niego zadań określonych w ustawie.
 
-1. Straż może otrzymać świadectwo broni, na zasadach określonych w przepisach art. 29 oraz art. 31 ust. 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji, na:
+### 2.
 
-- **1)** broń palną do wykonywania zadań określonych w art. 11 ust. 1 pkt 5 i 9;
-- **2)** przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, o których mowa w art. 12 ust. 1 pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, o średniej wartości prądu w obwodzie przekraczającej 10 mA.
+Środkami przymusu bezpośredniego, o których mowa w ust. 1, są:
 
-2. Straże, po uzyskaniu świadectwa broni mogą nabywać broń i amunicję od podmiotów uprawnionych do obrotu bronią.
+### 1)
 
-**Art. 16.**
+siła fizyczna w postaci chwytów obezwładniających oraz podobnych technik obrony,
 
-1. Dopuszczenie strażnika do wykonywania zadań z bronią palną i przedmiotem przeznaczonym do obezwładniania osób za pomocą energii elektrycznej, o którym mowa w art. 12 ust. 1 pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, o średniej wartości prądu w obwodzie przekraczającej 10 mA, następuje na wniosek komendanta straży, w drodze decyzji administracyjnej wydanej przez właściwy organ Policji.
+### 2)
 
-2. W zakresie zasad dopuszczenia strażnika do posiadania broni palnej i przedmiotu przeznaczonego do obezwładniania osób za pomocą energii elektrycznej, o którym mowa w art. 12 ust. 1 pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, stosuje się odpowiednio przepisy art. 30 ustawy z dnia 21 maja 1999 r. o broni i amunicji.
+kajdanki,
 
-**Art. 17.** Strażnik, o którym mowa w art. 16, na polecenie właściwego komendanta straży może zostać wyposażony w broń palną na czas wykonywania zadań określonych w art. 11 pkt 5 i 9.
+### 3)
 
-**Art. 18.**
+pałki obronne wielofunkcyjne,
 
-1. (uchylony)
+### 4)
 
-2. (uchylony)
+psy obronne,
 
-3. (uchylony)
+### 5)
 
-4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki przydziału broni palnej i amunicji do tej broni oraz warunki przechowywania i ewidencjonowania broni i amunicji przez straż, z uwzględnieniem specyfiki działania straży oraz sposobów uniemożliwienia dostępu do tej broni i amunicji osobom trzecim.
+paralizatory elektryczne,
 
-**Art. 19.** (uchylony)
+### 6)
 
-**Art. 20.** Na zastosowanie i sposób przeprowadzenia czynności, o których mowa w art. 12 ust. 1 pkt 1–3 i 4–9 oraz art. 14, przysługuje zażalenie do prokuratora.
+broń gazowa i ręczne miotacze gazu.
 
-**Art. 21.**
+### 3.
 
-1. Strażnik podczas wykonywania czynności służbowych jest obowiązany nosić umundurowanie, legitymację służbową, znak identyfikacyjny oraz emblemat gminny.
+Strażnik może stosować jedynie środki, o których mowa w ust. 2, odpowiadające potrzebom wynikającym z istniejącej sytuacji i niezbędne do osiągnięcia podporządkowania się wydanym poleceniom.
 
-2. Rada Ministrów określi, w drodze rozporządzenia, wzór umundurowania, legitymacji, dystynkcji i znaków identyfikacyjnych strażników, a także warunki i sposób ich noszenia.
+### 4.
 
-**Art. 22.** Strażnik przy wykonywaniu czynności, o których mowa w art. 12, jest obowiązany przedstawić się imieniem i nazwiskiem, a ponadto na żądanie osoby, której czynności te dotyczą, okazać legitymację służbową w sposób umożliwiający odczytanie i zanotowanie nazwiska strażnika oraz organu, który wydał legitymację.
+Środki, o których mowa w ust. 2, powinny być stosowane w sposób możliwie najmniej naruszający dobra osobiste osoby, w stosunku do której zostały podjęte.
 
-**Art. 23.** W związku z wykonywaniem czynności służbowych strażnik korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
+### 5.
 
-**Art. 24.** Strażnikiem może być osoba, która:
+Użycie środków, o których mowa w ust. 2, przez strażnika może nastąpić przy odpowiednim zachowaniu przepisów o Policji.
 
-**Art. 24a.**
+### Art. 15.
 
-1. Strażnicy oraz osoby ubiegające się o przyjęcie do pracy w charakterze strażnika podlegają obowiązkowym badaniom lekarskim i psychologicznym.
+### 1.
 
-2. Do przeprowadzania badań lekarskich stosuje się odpowiednio art. 229 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162).
+Straży wykonującej zadania określone w art. 11 pkt 5 i 9 może być wydane pozwolenie na broń, zwane świadectwem broni.
 
-3. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, zakres i tryb przeprowadzania badań psychologicznych osób, o których mowa w ust. 1, oraz podmioty uprawnione do przeprowadzania badań psychologicznych, uwzględniając potrzebę prawidłowego stwierdzenia przez psychologa istnienia lub braku przeciwwskazań psychologicznych do wykonywania czynności strażnika.
+### 2.
 
-**Art. 25.**
+Straże, po uzyskaniu świadectwa broni mogą nabywać broń i amunicję od podmiotów uprawnionych do obrotu bronią.
 
-1. Strażnika zatrudnia się po raz pierwszy na czas określony nie dłuższy niż 12 miesięcy, w ramach którego odbywa szkolenie podstawowe.
+### Art. 16.
 
-2. Szkolenie podstawowe kończy się egzaminem, który przeprowadza komisja egzaminacyjna powoływana przez właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji. Członkowie komisji powinni posiadać wiedzę, umiejętności i doświadczenie w zakresie wynikającym z programu szkolenia podstawowego.
+Dopuszczenie strażnika do wykonywania zadań z bronią palną krótką następuje na wniosek komendanta straży w drodze decyzji administracyjnej, wydanej przez właściwy organ Policji.
 
-3. Po ukończeniu z wynikiem pozytywnym szkolenia podstawowego, strażnika można zatrudnić na czas określony nie dłuższy niż 3 lata albo na czas nieokreślony.
+### Art. 17.
 
-4. W uzasadnionych przypadkach można odstąpić od zatrudnienia strażnika na czas określony, jeżeli posiada on odpowiednie przygotowanie do pracy w straży.
+Strażnik, o którym mowa w art. 16, może być wyposażony na czas wykonywania czynności służbowych w broń palną krótką, na polecenie komendanta straży.
 
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, minimalny zakres programu szkolenia podstawowego strażników gminnych, warunki i zakres udziału Policji w szkoleniu podstawowym, sposób powoływania, skład i tryb działania komisji egzaminacyjnych, obowiązki przewodniczącego komisji, formę egzaminu oraz organ właściwy do wydania świadectwa złożenia egzaminu i wzór świadectwa. Rozporządzenie powinno uwzględniać potrzebę zapewnienia odpowiedniego poziomu wyszkolenia strażników i jednolitości minimum programowego, formy szkolenia, zakres wiedzy teoretycznej i praktyki niezbędnej do wykonywania obowiązków strażnika oraz poprawność przebiegu i rzetelność oceny egzaminowanych.
+### Art. 18.
 
-**Art. 26.** Z dniem zatrudnienia strażnik składa pisemne ślubowanie następującej treści: „Ślubuję uroczyście służyć Państwu i wspólnocie lokalnej, chronić porządek publiczny i bezpieczeństwo ludzi, przestrzegać porządku prawnego i dyscypliny służbowej, dbać o etykę i dobre imię służby”. Ślubowanie może być również złożone z dodaniem słów „Tak mi dopomóż Bóg”.
+### 1.
 
-**Art. 26a.**
+Jeżeli środki przymusu bezpośredniego, wymienione w art. 14 ust. 2, przy wykonywaniu zadań wymienionych w art. 15 ust. 1 okazały się niewystarczające lub ich użycie ze względu na okoliczności danego zdarzenia nie jest możliwe, strażnik ma prawo użycia broni palnej krótkiej wyłącznie:
 
-1. Strażnika zawiesza się w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione umyślnie przestępstwo lub przestępstwo skarbowe – na czas nie dłuższy niż 3 miesiące.
+### 1)
 
-2. Strażnika można zawiesić w pełnieniu obowiązków pracowniczych w razie wszczęcia przeciwko niemu postępowania karnego w sprawie o ścigane z oskarżenia publicznego i popełnione nieumyślnie przestępstwo lub przestępstwo skarbowe, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro pracy – na czas nie dłuższy niż 3 miesiące.
+w celu odparcia bezpośredniego i bezprawnego zamachu na życie, zdrowie strażnika lub innej osoby,
 
-3. W uzasadnionych przypadkach okres zawieszenia w pełnieniu obowiązków pracowniczych można przedłużyć na dalszy okres, nie dłużej jednak niż do czasu ukończenia postępowania karnego za przestępstwo lub przestępstwo skarbowe.
+### 2)
 
-4. Strażnikowi zawieszonemu w pełnieniu obowiązków pracowniczych, od najbliższego terminu wypłaty wynagrodzenia za pracę przysługuje wynagrodzenie w wysokości 50% jego wynagrodzenia zasadniczego oraz dodatków do wynagrodzenia określonych w umowie o pracę w stałej wysokości.
+przeciwko osobie, która nie zastosowała się do wezwania do natychmiastowego porzucenia broni lub innego niebezpiecznego narzędzia, którego użycie zagrozić może życiu, zdrowiu strażnika lub innej osoby,
 
-5. Po upływie okresu, na jaki strażnik został zawieszony w pełnieniu obowiązków pracowniczych, strażnikowi wypłaca się należne wynagrodzenie za okres zawieszenia oraz obligatoryjne podwyżki wynagrodzenia w tym okresie, w przypadku umorzenia postępowania karnego za przestępstwo lub przestępstwo skarbowe lub uniewinnienia prawomocnym wyrokiem sądu.
+### 3)
 
-6. Przepisu ust. 5 nie stosuje się w przypadku warunkowego umorzenia postępowania karnego.
+przeciwko osobie, która usiłuje bezprawnie, przemocą odebrać broń palną krótką strażnikowi,
 
-**Art. 27.** Do obowiązków strażnika należy:
+### 4)
 
-**Art. 28.** (uchylony)
+w celu odparcia gwałtownego, bezpośredniego i bezprawnego zamachu na wykonywany konwój dokumentów, przedmiotów wartościowych lub wartości pieniężnych.
 
-**Art. 29.**
+### 2.
 
-1. Strażnik, który wzorowo wykonuje obowiązki, przejawia inicjatywę w działaniach, doskonali swoje kwalifikacje zawodowe, może uzyskać:
+Użycie broni palnej powinno następować w sposób wyrządzający możliwie najmniejszą szkodę osobie, przeciwko której użyto broni, i nie może zmierzać do pozbawienia jej życia, a także narażać na niebezpieczeństwo utraty życia lub zdrowia innych osób.
 
-- **1)** pochwałę;
-- **2)** nagrodę pieniężną;
-- **3)** przeniesienie na wyższe stanowisko;
-- **4)** przedstawienie do odznaczenia.
+### 3.
 
-2. Strażnik, o którym mowa w ust. 1, może również uzyskać usunięcie z akt osobowych zapisu o uprzednio wymierzonej karze dyscyplinarnej.
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i sposób postępowania przy użyciu broni palnej krótkiej przez strażników.
 
-**Art. 29a.**
+### 4.
 
-1. Obowiązki pracownicze strażnika powinny być ustalone w sposób pozwalający na ich wykonanie w ramach przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy w 4-miesięcznym okresie rozliczeniowym.
+Minister Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, warunki przydziału, przechowywania i ewidencjonowania broni i amunicji przez straż.
 
-2. Tygodniowy czas pracy strażnika, łącznie z pracą w godzinach nadliczbowych, nie może przekraczać przeciętnie 48 godzin w 4-miesięcznym okresie rozliczeniowym.
+### Art. 19.
 
-3. Strażnikowi przysługuje w każdym tygodniu nieprzerwany odpoczynek w wymiarze nie krótszym niż 35 godzin oraz nieprzerwany odpoczynek dobowy w wymiarze nie krótszym niż 11 godzin.
+Strażnik, który podjął decyzję o użyciu broni, powinien postępować ze szczególną rozwagą, traktując broń jako ostateczny środek działania.
 
-4. Przepisy ust. 1–3 nie dotyczą sytuacji, które wymagają podjęcia środków do ochrony życia lub zdrowia obywateli, a także bezpieczeństwa zbiorowości, w szczególności w związku z powszechnym zagrożeniem bezpieczeństwa publicznego, katastrofą, klęską żywiołową lub przestępstwem o charakterze terrorystycznym.
+### Art. 20.
 
-5. W zamian za czas przepracowany w godzinach nadliczbowych strażnikowi przysługuje w tym samym wymiarze, w okresie rozliczeniowym, czas wolny od pracy albo może mu zostać przyznany dodatek do wynagrodzenia.
+Na zastosowanie i sposób przeprowadzenia czynności, o których mowa w art. 12, 14 i 18, przysługuje zażalenie do prokuratora.
 
-6. W przypadku naruszenia prawa do odpoczynku, o którym mowa w ust. 3, w sytuacjach wskazanych w ust. 4 strażnikowi przysługuje, w okresie rozliczeniowym, równoważny okres odpoczynku.
+### Art. 21.
 
-**Art. 29b.**
+### 1.
 
-1. W okresie przebywania na zwolnieniu lekarskim w razie stwierdzenia zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby, strażnik zachowuje prawo do 100% wynagrodzenia.
+Strażnik podczas wykonywania czynności służbowych jest obowiązany nosić umundurowanie, legitymację służbową, znak identyfikacyjny oraz emblemat gminny.
 
-2. Prawo do 100% wynagrodzenia przysługuje również wtedy, gdy strażnik został zwolniony od wykonywania zadań służbowych na skutek podlegania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby.
+### 2.
 
-3. Wykonywanie zadań służbowych, o których mowa w art. 27, stwierdza pisemnie przełożony lub upoważniona przez niego osoba.
+Rada Ministrów określi, w drodze rozporządzenia, wzór umundurowania, legitymacji, dystynkcji i znaków identyfikacyjnych strażników, a także warunki i sposób ich noszenia.
 
-**Art. 30.**
+### Art. 22.
 
-1. Strażnicy mogą się zrzeszać w związkach zawodowych, z tym że nie mają prawa do strajku. Przepisy ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2019 r. poz. 263) stosuje się odpowiednio.
+Strażnik przy wykonywaniu czynności, o których mowa w art. 12, jest obowiązany przedstawić się imieniem i nazwiskiem, a ponadto na żądanie osoby, której czynności te dotyczą, okazać legitymację służbową w sposób umożliwiający odczytanie i zanotowanie nazwiska strażnika oraz organu, który wydał legitymację.
 
-2. W trakcie trwania stosunku pracy strażnik nie może być członkiem partii politycznej.
+### Art. 23.
 
-**Art. 31.** Strażnik nie może bez zezwolenia komendanta podejmować innego zajęcia zarobkowego.
+Przy wykonywaniu czynności służbowych strażnik korzysta z ochrony przewidzianej dla funkcjonariuszy publicznych.
 
-**Art. 32.** W sprawach dotyczących strażników, a nieuregulowanych w ustawie, mają zastosowanie przepisy o pracownikach samorządowych.
+### Art. 24.
 
-**Art. 33.** Obowiązki i prawa innych pracowników zatrudnionych w straży reguluje ustawa o pracownikach samorządowych.
+Strażnikiem może być osoba, która:
 
-#### Rozdział 4 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+### 1)
 
-**Art. 38.**
+posiada obywatelstwo polskie,
 
-1. Straże gminne działające w dniu wejścia w życie ustawy stają się z tym dniem strażami w rozumieniu ustawy.
+### 2)
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli rada gminy, w drodze uchwały, przed wejściem w życie ustawy, postanowi o likwidacji straży.
+ukończyła 21 lat,
 
-**Art. 39.**
+### 3)
 
-1. Straże gminne utworzone przez gminy, o których mowa w art. 1 ustawy z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy (Dz. U. poz. 195 i 396 oraz z 1995 r. poz. 601), zwane dalej „gminami warszawskimi”, stają się z mocy prawa oddziałami Straży Miejskiej m.st. Warszawy. Regulamin straży może określić inną strukturę organizacyjną Straży Miejskiej.
+korzysta z pełni praw publicznych,
 
-2. Strażnicy oraz inni pracownicy straży gminnych utworzonych przez gminy warszawskie mogą do dnia 31 marca 1998 r. złożyć oświadczenie o niewyrażeniu zgody na zatrudnienie w Straży Miejskiej m.st. Warszawy. Stosunek pracy z osobami, które złożyły oświadczenie, wygasa z mocy prawa z dniem przekształcenia straży gminnej w oddział straży miejskiej.
+### 4)
 
-3. Zasady i wysokość wynagrodzenia strażników oraz innych pracowników straży gminnych, o których mowa w ust. 2, z dniem przekształcenia straży gminnej w jednostkę organizacyjną straży miejskiej ustalana jest według zasad obowiązujących w Straży Miejskiej m.st. Warszawy. W roku 1998 koszty funkcjonowania oddziałów, o których mowa w ust. 1, pokrywane są z budżetu gmin warszawskich, w których straże gminne działały przed dniem przejęcia przez Straż Miejską.
+posiada co najmniej wykształcenie średnie,
 
-4. Mienie komunalne pozostające w dyspozycji straży gminnej może być przekazane nieodpłatnie przez gminę warszawską m.st. Warszawie, z przeznaczeniem na potrzeby Straży Miejskiej m.st. Warszawy.
+### 5)
 
-**Art. 40.** Strażnik może używać umundurowania, legitymacji służbowej, znaku identyfikacyjnego oraz emblematu gminy według dotychczasowych obowiązujących wzorów, do czasu wyczerpania ich zapasów, nie dłużej jednak niż 18 miesięcy od dnia wejścia ustawy w życie.
+cieszy się nienaganną opinią,
 
-**Art. 41.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem art. 39 ust. 1, 3 i 4, który wchodzi w życie z dniem następującym po upływie kadencji rad gmin wybranych w dniu 19 czerwca 1994 r.
+### 6)
 
+jest sprawna pod względem fizycznym i psychicznym,
+
+### 7)
+
+nie była karana sądownie,
+
+### 8)
+
+ma uregulowany stosunek do służby wojskowej.
+
+### Art. 25.
+
+### 1.
+
+Strażnika zatrudnia się na czas określony nie dłuższy niż 12 miesięcy, w ramach którego odbywa on przeszkolenie podstawowe.
+
+### 2.
+
+Zatrudnienie strażnika na czas nieokreślony może nastąpić po ukończeniu przez niego z wynikiem pozytywnym przeszkolenia podstawowego.
+
+### 3.
+
+W uzasadnionych przypadkach można odstąpić od zatrudnienia strażnika na czas określony, jeżeli posiada odpowiednie przygotowanie do pracy w straży.
+
+### 4.
+
+Komendant Główny Policji określi założenia programowe o metodyczne przeszkolenia podstawowego strażników oraz zasady udziału policjantów w innych szkoleniach dla potrzeb straży.
+
+### Art. 26.
+
+Z dniem zatrudnienia strażnik składa pisemne ślubowanie następującej treści: „ Ślubuję uroczyście służyć Państwu i wspólnocie lokalnej, chronić porządek publiczny i bezpieczeństwo ludzi, przestrzegać porządku prawnego i dyscypliny służbowej, dbać o etykę i dobre imię służby ” . Ślubowanie może być również złożone z dodaniem słów „Tak mi dopomóż Bóg”.
+
+### Art. 27.
+
+Do obowiązków strażnika należy:
+
+### 1)
+
+przestrzeganie prawa, rzetelne, bezstronne i terminowe wykonywanie poleceń przełożonych,
+
+### 2)
+
+poszanowanie powagi, honoru, godności obywateli i własnej,
+
+### 3)
+
+zachowanie tajemnicy państwowej i służbowej,
+
+### 4)
+
+podejmowanie interwencji w sytuacjach zagrożenia życia, zdrowia lub mienia, a także w przypadku naruszenia dóbr osobistych ludzi,
+
+### 5)
+
+zachowanie uprzejmości i życzliwości w kontaktach z obywatelami, przełożonymi, podwładnymi oraz współpracownikami,
+
+### 6)
+
+stałe podnoszenie kwalifikacji zawodowych,
+
+### 7)
+
+zachowanie się z godnością w czasie pracy i poza nią.
+
+### Art. 28.
+
+Strażnik, który przy wykonywaniu zadań przekroczył uprawnienia lub nie dopełnił obowiązku, naruszając w ten sposób dobra osobiste obywatela, podlega karze pozbawienia wolności do lat 5.
+
+### Art. 29.
+
+### 1.
+
+Strażnik, który wzorowo wykonuje obowiązki, przejawia inicjatywę w działaniach, doskonali swoje kwalifikacje zawodowe, może uzyskać:
+
+### 1)
+
+pochwałę,
+
+### 2)
+
+nagrodę pieniężną,
+
+### 3)
+
+awans,
+
+### 4)
+
+przedstawienie do odznaczenia.
+
+### 2.
+
+Strażnik, o którym mowa w ust. 1, może również uzyskać usunięcie z akt osobowych zapisu o uprzednio wymierzonej karze dyscyplinarnej.
+
+### Art. 30.
+
+### 1.
+
+Strażnicy mogą się zrzeszać w związkach zawodowych, z tym że nie mają prawa do strajku. Przepisy ustawy z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. Nr 55, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.html), z [1994 r. Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), z [1996 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1996/2/text.html), [Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), [Nr 61, poz. 283](https://api.sejm.gov.pl/eli/acts/DU/1996/283/text.html), [Nr 75, poz. 355](https://api.sejm.gov.pl/eli/acts/DU/1996/355/text.html) i [Nr 152, poz. 723](https://api.sejm.gov.pl/eli/acts/DU/1996/723/text.html) oraz z [1997 r. Nr 82, poz. 518](https://api.sejm.gov.pl/eli/acts/DU/1997/518/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html), [Nr 96, poz. 589](https://api.sejm.gov.pl/eli/acts/DU/1997/589/text.html) i [Nr 121, poz. 769](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html)) stosuje się odpowiednio.
+
+### 2.
+
+W trakcie trwania stosunku pracy strażnik nie może być członkiem partii politycznej.
+
+### Art. 31.
+
+Strażnik nie może bez zezwolenia komendanta podejmować innego zajęcia zarobkowego.
+
+### Art. 32.
+
+W sprawach dotyczących strażników, a nie uregulowanych w ustawie, mają zastosowanie przepisy ustawy z dnia 22 marca 1990 r. o pracownikach samorządowych ([Dz. U. Nr 21, poz. 124](https://api.sejm.gov.pl/eli/acts/DU/1990/124/text.html) i [Nr 43, poz. 253](https://api.sejm.gov.pl/eli/acts/DU/1990/253/text.html), z [1991 r. Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), z [1994 r. Nr 98, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1994/471/text.html) oraz z [1997 r. Nr 9, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1997/43/text.html) i [Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html)).
+
+### Art. 33.
+
+Obowiązki i prawa innych pracowników zatrudnionych w straży reguluje ustawa o pracownikach samorządowych.
+
+### Rozdział 4 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+### Art. 34.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. Nr 12, poz. 116](https://api.sejm.gov.pl/eli/acts/DU/1971/116/text.html), z [1972 r. Nr 49, poz. 312](https://api.sejm.gov.pl/eli/acts/DU/1972/312/text.html), z [1975 r. Nr 16, poz. 91](https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html) i [Nr 45, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html), z [1982 r. Nr 16, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.html) i [Nr 45, poz. 291](https://api.sejm.gov.pl/eli/acts/DU/1982/291/text.html), z [1983 r. Nr 6, poz. 35](https://api.sejm.gov.pl/eli/acts/DU/1983/35/text.html) i [Nr 44, poz. 203](https://api.sejm.gov.pl/eli/acts/DU/1983/203/text.html), z [1985 r. Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html), z [1986 r. Nr 39, poz. 193](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.html), z [1988 r. Nr 20, poz. 135](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.html), z [1989 r. Nr 34, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1989/180/text.html), z [1990 r. Nr 20, poz. 121](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.html), [Nr 43, poz. 251](https://api.sejm.gov.pl/eli/acts/DU/1990/251/text.html) i [Nr 72, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.html), z [1991 r. Nr 32, poz. 131](https://api.sejm.gov.pl/eli/acts/DU/1991/131/text.html) i [Nr 94, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1991/419/text.html), z [1992 r. Nr 24, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1992/101/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html), z [1995 r. Nr 95, poz. 475](https://api.sejm.gov.pl/eli/acts/DU/1995/475/text.html) oraz z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html) i [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 19 w § 1 po wyrazach „Państwowej Inspekcji Handlowej” wyraz „oraz” zastępuje się przecinkiem, a po wyrazach „służby ochronnej lasów państwowych” dodaje się wyrazy „oraz straż gminna (miejska)”,
+
+### 2)
+
+w art. 27 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Organom administracji państwowej, właściwym organom gminy oraz strażom gminnym (miejskim), uprawnienia oskarżyciela publicznego przysługują tylko w sprawach, w których, w zakresie swojego działania, złożyły wnioski o ukaranie
+
+” .
+
+### Art. 35.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. Nr 12, poz. 114](https://api.sejm.gov.pl/eli/acts/DU/1971/114/text.html), z [1981 r. Nr 24, poz. 124](https://api.sejm.gov.pl/eli/acts/DU/1981/124/text.html), z [1982 r. Nr 16, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.html), z [1983 r. Nr 6, poz. 35](https://api.sejm.gov.pl/eli/acts/DU/1983/35/text.html) i [Nr 44, poz. 203](https://api.sejm.gov.pl/eli/acts/DU/1983/203/text.html), z [1984 r. Nr 54, poz. 275](https://api.sejm.gov.pl/eli/acts/DU/1984/275/text.html), z [1985 r. Nr 14, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.html) i [Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html), z [1986 r. Nr 39, poz. 193](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.html), z [1988 r. Nr 20, poz. 135](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.html) i [Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 34, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1989/180/text.html), z [1990 r. Nr 51, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/1990/297/text.html), [Nr 72, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.html) i [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html), z [1991 r. Nr 75, poz. 332](https://api.sejm.gov.pl/eli/acts/DU/1991/332/text.html) i [Nr 91, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/1991/408/text.html), z [1992 r. Nr 24, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1992/101/text.html), z [1994 r. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html), z [1995 r. Nr 6, poz. 29](https://api.sejm.gov.pl/eli/acts/DU/1995/29/text.html) i [Nr 60, poz. 310](https://api.sejm.gov.pl/eli/acts/DU/1995/310/text.html) oraz z [1997 r. Nr 54, poz. 349](https://api.sejm.gov.pl/eli/acts/DU/1997/349/text.html), [Nr 60, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1997/369/text.html), [Nr 85, poz. 539](https://api.sejm.gov.pl/eli/acts/DU/1997/539/text.html), [Nr 98, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1997/602/text.html), [Nr 104, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1997/661/text.html), [Nr 106, poz. 677](https://api.sejm.gov.pl/eli/acts/DU/1997/677/text.html) i [Nr 111, poz. 724](https://api.sejm.gov.pl/eli/acts/DU/1997/724/text.html)) w art. 65:
+
+### a)
+
+w § 1 po wyrazach „organ państwowy” dodaje się wyrazy „oraz straż gminną (miejską)”,
+
+### b)
+
+w § 2 po wyrazach „organowi państwowemu” dodaje się wyrazy „oraz straży gminnej (miejskiej)”.
+
+### Art. 36.
+
+W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. Nr 98, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1997/602/text.html)) w art. 131 w ust. 1 w pkt 2 na końcu skreśla się przecinek i dodaje wyrazy „oraz strażników straży gminnych (miejskich),”.
+
+### Art. 37.
+
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. Nr 30, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/1990/179/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html) i [Nr 107, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1991/461/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html), z [1996 r. Nr 59, poz. 269](https://api.sejm.gov.pl/eli/acts/DU/1996/269/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) oraz z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 80, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/1997/499/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 106, poz. 680](https://api.sejm.gov.pl/eli/acts/DU/1997/680/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2 w pkt 5 skreśla się wyrazy „tworzonymi na podstawie ustawy”;
+
+### 2)
+
+w art. 7 w ust. 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+szczegółowe zasady szkolenia policjantów i strażników gminnych (miejskich)
+
+” ;
+
+### 3)
+
+skreśla się rozdział 4.
+
+### Art. 38.
+
+### 1.
+
+Straże gminne działające w dniu wejścia w życie ustawy stają się z tym dniem strażami w rozumieniu ustawy.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli rada gminy, w drodze uchwały, przed wejściem w życie ustawy, postanowi o likwidacji straży.
+
+### Art. 39.
+
+### 1.
+
+Straże gminne utworzone przez gminy, o których mowa w art. 1 ustawy z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy ([Dz. U. Nr 48, poz. 195](https://api.sejm.gov.pl/eli/acts/DU/1994/195/text.html) i [Nr 86, poz. 396](https://api.sejm.gov.pl/eli/acts/DU/1994/396/text.html) oraz z [1995 r. Nr 124, poz. 601](https://api.sejm.gov.pl/eli/acts/DU/1995/601/text.html)), zwane dalej „gminami warszawskimi”, stają się z mocy prawa oddziałami Straży Miejskiej m.st. Warszawy. Regulamin straży może określić inną strukturę organizacyjną Straży Miejskiej.
+
+### 2.
+
+Strażnicy oraz inni pracownicy straży gminnych utworzonych przez gminy warszawskie mogą do dnia 31 marca 1998 r. złożyć oświadczenie o niewyrażeniu zgody na zatrudnienie w Straży Miejskiej m.st. Warszawy. Stosunek pracy z osobami, które złożyły oświadczenie, wygasa z mocy prawa z dniem przekształcenia straży gminnej w oddział straży miejskiej.
+
+### 3.
+
+Zasady i wysokość wynagrodzenia strażników oraz innych pracowników straży gminnych, o których mowa w ust. 2, z dniem przekształcenia straży gminnej w jednostkę organizacyjną straży miejskiej ustalana jest według zasad obowiązujących w Straży Miejskiej m.st. Warszawy. W roku 1998 koszty funkcjonowania oddziałów, o których mowa w ust. 1, pokrywane są z budżetu gmin warszawskich, w których straże gminne działały przed dniem przejęcia przez Straż Miejską.
+
+### 4.
+
+Mienie komunalne pozostające w dyspozycji straży gminnej może być przekazane nieodpłatnie przez gminę warszawską m.st. Warszawie, z przeznaczeniem na potrzeby Straży Miejskiej m.st. Warszawy.
+
+### Art. 40.
+
+Strażnik może używać umundurowania, legitymacji służbowej, znaku identyfikacyjnego oraz emblematu gminy według dotychczasowych obowiązujących wzorów, do czasu wyczerpania ich zapasów, nie dłużej jednak niż 18 miesięcy od dnia wejścia ustawy w życie.
+
+### Art. 41.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem art. 39 ust. 1, 3 i 4, który wchodzi w życie z dniem następującym po upływie kadencji rad gmin wybranych dniu 19 czerwca 1994 r.

@@ -1,0 +1,64 @@
+---
+title: Rozporządzenie Prezesa Rady Ministrów z dnia 3 grudnia 2012 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego
+address: WDU20120001386
+eli: DU/2012/1386
+publisher: DU
+year: 2012
+pos: 1386
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Prezesa Rady Ministrówz dnia 3 grudnia 2012 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2012 poz. 1386 |
+| ISAP | WDU20120001386 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2012-12-03 |
+| Data wydania | 2012-12-11 |
+| Wejście w życie | 2012-12-26 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/1386/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/1386) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101.](#gloss-0:1:)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego ([Dz. U. Nr 174, poz. 1426](https://api.sejm.gov.pl/eli/acts/DU/2002/1426/text.html), z późn. zm.[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 58, poz. 353 oraz z 2010 r. Nr 114, poz. 766 i Nr 259, poz. 1766.](#gloss-0:2:)) w § 2:
+
+### 1)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 35, art. 41-49 i art. 52-63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach ([Dz. U. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html) oraz z [2012 r. poz. 908](https://api.sejm.gov.pl/eli/acts/DU/2012/908/text.html));
+
+” ;
+
+### 2)
+
+dodaje się pkt 9 w brzmieniu:
+
+„
+
+### 9)
+
+art. 193 pkt 5 i 6 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2012 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2012/145/text.html) i [951](https://api.sejm.gov.pl/eli/acts/DU/2012/951/text.html)).
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1344 i Nr 237, poz. 1651, z 2009 r. Nr 178, poz. 1375, Nr 190, poz. 1474 i Nr 206, poz. 1589, z 2010 r. Nr 182, poz. 1228, Nr 197, poz. 1307 i Nr 225, poz. 1466, z 2011 r. Nr 217, poz. 1280, Nr 240, poz. 1431 i Nr 244, poz. 1454 oraz z 2012 r. poz. 1101. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. U. z 2008 r. Nr 58, poz. 353 oraz z 2010 r. Nr 114, poz. 766 i Nr 259, poz. 1766.

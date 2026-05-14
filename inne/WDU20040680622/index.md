@@ -8,11 +8,9 @@ pos: 622
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# Prawo celne
-
-*USTAWA z dnia 19 marca 2004 r.*
+# Ustawa z dnia 19 marca 2004 r.Prawo celne
 
 | Pole | Wartość |
 |---|---|
@@ -24,916 +22,1458 @@ domain: null
 | Data ogłoszenia | 2004-03-19 |
 | Data wydania | 2004-04-20 |
 | Ostatnia zmiana | 2026-04-20 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040680622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/622/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/622/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/622) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa reguluje w zakresie uzupełniającym przepisy prawa unijnego:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Wprowadzanie towarów na obszar celny Wspólnoty i nadawanie im przeznaczenia celnego](#chpt_2) [Rozdział 3 - Zwolnienia celne](#chpt_3) [Rozdział 4 - Dług celny](#chpt_4) [Rozdział 5 - Właściwość organów celnych](#chpt_5) [Rozdział 6 - Postępowanie w sprawach celnych](#chpt_6) [Rozdział 7 - Zasady postępowania z towarami objętymi Wspólną Polityką Rolną](#chpt_7) [Rozdział 8 - Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Wspólnoty](#chpt_8) [Rozdział 9 - Przepis końcowy](#chpt_9)
 
-**Art. 2.** Wprowadzenie towaru na obszar celny Unii lub jego wyprowadzenie z tego obszaru powoduje z mocy prawa powstanie obowiązków i uprawnień przewidzianych w przepisach prawa celnego, jeżeli przepisy prawa, w tym ratyfikowane umowy międzynarodowe, nie stanowią inaczej.
+TOC
 
-**Art. 3.** Ustawa ma zastosowanie na terytorium Rzeczypospolitej Polskiej, chyba że umowa międzynarodowa stanowi inaczej.
+## Treść ustawy
 
-**Art. 4.** Użyte w ustawie określenia oznaczają:
+### Rozdział 1 Przepisy ogólne
 
-**Art. 5.**
+### Art. 1.
 
-1. Przepisy art. 134 ust. 1 oraz art. 267 ust. 1 unijnego kodeksu celnego stosuje się odpowiednio do przemieszczania towarów pomiędzy terytorium kraju a pozostałą częścią obszaru celnego Unii, którymi obrót podlega na mocy przepisów krajowych, przepisów unijnych lub umów międzynarodowych zakazom lub ograniczeniom, a także do przemieszczania towarów, których nabycie wewnątrzwspólnotowe lub dostawa wewnątrzwspólnotowa podlega opodatkowaniu podatkiem akcyzowym.
+Ustawa reguluje w zakresie uzupełniającym przepisy prawa wspólnotowego:
 
-2. W przypadku uzasadnionego przypuszczenia lub stwierdzenia naruszenia przepisów mających zastosowanie do towarów, o których mowa w ust. 1, organ celny, w sprawach nienależących do jego właściwości, niezwłocznie zawiadamia właściwe organy nadzoru i kontroli, które podejmują stosowne działania. Jeżeli jest to uzasadnione, organ celny może również w takim przypadku zatrzymać towar i niezwłocznie przekazać go tym organom.
+### 1)
 
-**Art. 6.** (uchylony)
+zasady przywozu towarów na obszar celny Wspólnoty Europejskiej, zwanej dalej „Wspólnotą”, i wywozu towarów z tego obszaru,
 
-**Art. 7.** (uchylony)
+### 2)
 
-**Art. 8.** (uchylony)
+zasady postępowania z towarami objętymi Wspólną Polityką Rolną,
 
-**Art. 8a.**
+### 3)
 
-1. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia:
+sposób przekazywania informacji do celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Wspólnoty
 
-- **1)** wnioski, do których stosuje się alternatywne wymogi dla danych w stosunku do wymogów określonych w załączniku A do rozporządzenia delegowanego, oraz alternatywne wymogi dla danych zamieszczanych w tych wnioskach;
-- **2)** wnioski, do których stosuje się wymogi dla danych określone w załączniku 12 do rozporządzenia delegowanego Komisji (UE) 2016/341 z dnia 17 grudnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do przepisów przejściowych dotyczących niektórych przepisów unijnego kodeksu celnego w okresie, gdy nie działają jeszcze odpowiednie systemy teleinformatyczne, i zmieniającego rozporządzenie delegowane Komisji (UE) 2015/2446 (Dz. Urz. UE L 69 z 15.03.2016, str. 1), zamiast wymogów dla danych określonych w załączniku A do rozporządzenia delegowanego;
-- **3)** wnioski inne niż określone w pkt 1 i 2, dla których w unijnym prawie celnym nie określono szczegółowych wymogów dla danych zawartych w tych wnioskach, a także takie wymogi;
-- **4)** wymogi dla danych zamieszczanych w deklaracji do czasowego składowania, powiadomieniu o przybyciu oraz powiadomieniu o powrotnym wywozie;
-- **5)** dokumenty załączane do wniosków, deklaracji i powiadomień, o których mowa w pkt 1–4.
+- oraz związane z tym prawa i obowiązki osób, a także uprawnienia i obowiązki organów celnych.
 
-2. Przy wydawaniu rozporządzenia, o którym mowa w ust. 1, bierze się pod uwagę standaryzację i ułatwienie formalności celnych.
+### Art. 2.
 
-**Art. 9.** Termin przechowywania dokumentów i informacji, o którym mowa w art. 51 ust. 1 unijnego kodeksu celnego, wynosi 5 lat.
+Wprowadzenie towaru na obszar celny Wspólnoty lub jego wyprowadzenie z tego obszaru powoduje z mocy prawa powstanie obowiązków i uprawnień przewidzianych w przepisach prawa celnego, jeżeli przepisy prawa, w tym umowy międzynarodowe, nie stanowią inaczej.
 
-**Art. 10.**
+### Art. 3.
 
-1. Na wniosek eksportera lub nadawcy towaru świadectwa pochodzenia towarów wywożonych z terytorium kraju są wystawiane przez organy celne, chyba że ratyfikowane umowy międzynarodowe stanowią inaczej.
+Ustawa ma zastosowanie na terytorium Rzeczypospolitej Polskiej, chyba że umowa międzynarodowa stanowi inaczej.
 
-2. Świadectwa potwierdzające niepreferencyjne pochodzenie towarów, o którym mowa w tytule II w rozdziale 2 w sekcji 1 unijnego kodeksu celnego, dotyczące towarów wywożonych z terytorium kraju mogą być wystawiane również przez inne podmioty upoważnione na podstawie odrębnych ustaw.
+### Art. 4.
 
-3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+Użyte w ustawie określenia oznaczają:
 
-- **1)** szczegółowe wymogi, jakie powinien spełniać wniosek o wystawienie świadectwa potwierdzającego niepreferencyjne pochodzenie towaru, oraz to świadectwo,
-- **2)** wzór świadectwa potwierdzającego niepreferencyjne pochodzenie towaru i wniosku o jego wystawienie,
-- **3)** sposób i tryb wystawiania przez organy celne świadectwa potwierdzającego niepreferencyjne pochodzenie towaru – mając na uwadze zapewnienie kompletności informacji niezbędnych do udokumentowania niepreferencyjnego pochodzenia towaru oraz ułatwienie formalności celnych.
+### 1)
 
-**Art. 10a.**
+terytorium kraju - terytorium Rzeczypospolitej Polskiej;
 
-1. Wymiana informacji z organami celnymi drogą elektroniczną, w szczególności deklaracji lub zgłoszeń, jest dokonywana przez Platformę Usług Elektronicznych Skarbowo-Celnych, zwaną dalej „PUESC”.
+### 2)
 
-2. Wymiana informacji, o której mowa w ust. 1, wymaga uprzedniej rejestracji na PUESC oraz przedstawienia organowi celnemu dokumentu potwierdzającego zakres uprawnień do korzystania z usług oferowanych na PUESC.
+terytorium państwa trzeciego - terytorium państwa nienależącego do Wspólnoty;
 
-2a. Adwokat, radca prawny i doradca podatkowy mogą sami uwierzytelnić odpis dokumentu, o którym mowa w ust. 2. Odpis takiego dokumentu może również uwierzytelnić osoba uprawniona przez przedsiębiorcę posiadającego pozwolenie na korzystanie ze statusu upoważnionego przedsiębiorcy lub pozwolenie na stosowanie uproszczeń w rozumieniu przepisów celnych, jeżeli uprawnienie takie wynika z treści przedstawionego organom celnym upoważnienia dla tej osoby. Organ celny może w przypadku wątpliwości zażądać okazania oryginału dokumentu, o którym mowa w ust.
+### 3)
 
-2.
+Wspólnotowy Kodeks Celny - rozporządzenie Rady (EWG) nr 2913/92 z dnia 12 października 1992 r. ustanawiające Wspólnotowy Kodeks Celny (Dz. Urz. WE L 302 z 19.10.1992), ostatnio zmienione aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. UE L 236 z 23.9.2003);
 
-2b. Jeżeli odpis dokumentu, o którym mowa w ust. 2, został sporządzony w formie dokumentu elektronicznego, jego uwierzytelnienia dokonuje się, opatrując odpis podpisem, o którym mowa w art. 10b ust. 1. Odpis dokumentu jest sporządzany w formatach danych określonych w przepisach wydanych na podstawie art. 18 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222).
+### 4)
 
-3. (uchylony)
+Rozporządzenie Wykonawcze - rozporządzenie Komisji (EWG) nr 2454/93 z dnia 2 lipca 1993 r. ustanawiające przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. WE L 253 z 11.10.1993), ostatnio zmienione rozporządzeniem Komisji (EWG) nr 1335/2003 z dnia 25 lipca 2003 r. zmieniającym rozporządzenie Komisji (EWG) nr 2454/93 ustanawiające przepisy w celu wykonania rozporządzenia Rady (EWG) nr 2913/92 ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz. UE L 187 z 26.7.2003);
 
-**Art. 10b.**
+### 5)
 
-1. Dokumenty elektroniczne przesyłane organom celnym podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym lub zaawansowanym podpisem elektronicznym weryfikowanym za pomocą certyfikatu celnego albo zapewnia się w inny sposób możliwość potwierdzenia pochodzenia oraz integralności przesłanych danych w postaci elektronicznej, jeżeli w przepisach wydanych na podstawie art. 3b § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879) minister właściwy do spraw finansów publicznych umożliwił podpisywanie określonych dokumentów w taki sposób.
+Rozporządzenie ustanawiające wspólnotowy system zwolnień celnych - rozporządzenie Rady (EWG) nr 918/83 z dnia 28 marca 1983 r. dotyczące ustanowienia wspólnotowego systemu zwolnień celnych (Dz. Urz. WE L 105 z 23.4.1983), ostatnio zmienione aktem dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej oraz dostosowań w traktatach stanowiących podstawę Unii Europejskiej (Dz. Urz. WE L 236 z 23.9.2003).
 
-2. Decyzje i inne dokumenty wydawane przez organ celny w postaci elektronicznej podpisuje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym lub zaawansowanym podpisem elektronicznym weryfikowanym za pomocą certyfikatu celnego.
+### Art. 5.
 
-3. Dokumenty w postaci elektronicznej, inne niż decyzje, mogą być opatrywane zaawansowaną pieczęcią elektroniczną organu celnego. Przepisu ust. 2 nie stosuje się.
+### 1.
 
-**Art. 11.** W celu ustalenia wartości celnej stosuje się bieżące kursy średnie walut obcych ogłaszane przez Narodowy Bank Polski.
+Przepis art. 37 ust. 1 Wspólnotowego Kodeksu Celnego stosuje się odpowiednio do przemieszczania towarów pomiędzy terytorium kraju a pozostałą częścią obszaru celnego Wspólnoty, którymi obrót podlega na mocy przepisów krajowych, przepisów wspólnotowych lub umów międzynarodowych zakazom lub ograniczeniom, a także do przemieszczania towarów, których nabycie wewnątrzwspólnotowe lub dostawa wewnątrzwspólnotowa podlega opodatkowaniu podatkiem akcyzowym.
 
-**Art. 12.** (uchylony)
+### 2.
 
-**Art. 13.** (uchylony)
+W przypadku uzasadnionego przypuszczenia lub stwierdzenia naruszenia przepisów mających zastosowanie do towarów, o których mowa w ust. 1, organ celny, w sprawach nienależących do jego właściwości, niezwłocznie zawiadamia właściwe organy nadzoru i kontroli, które podejmują stosowne działania. Jeżeli jest to uzasadnione, organ celny może również w takim przypadku zatrzymać towar i niezwłocznie przekazać go tym organom.
 
-**Art. 13a.** Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, dla procedur specjalnych, o których mowa w art. 210 lit. b– d unijnego kodeksu celnego, w przypadku przeniesienia na terytorium kraju praw i obowiązków osoby korzystającej z procedury, szczegółowe warunki lub tryb takiego przeniesienia, a także wzór dokumentu stosowanego przy takim przeniesieniu, mając na uwadze zapewnienie skutecznego dozoru celnego.
+### Art. 6.
 
-**Art. 13b.**
+Uprawnienia organów celnych do wykonywania czynności w ramach dozoru celnego (kontrola celna) oraz zakres tych czynności określa ustawa z dnia 24 lipca 1999 r. o Służbie Celnej ([Dz. U. Nr 72, poz. 802](https://api.sejm.gov.pl/eli/acts/DU/1999/802/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2002 r. Nr 41, poz. 365, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 120, poz. 1122, Nr 137, poz. 1302, Nr 199, poz. 1939 i Nr 217, poz. 2124 oraz z 2004 r. Nr 29, poz. 257.](#gloss-0:2:)).
 
-1. Minister właściwy do spraw finansów publicznych w porozumieniu z właściwym ministrem może upoważnić, w drodze rozporządzenia, inne organy administracji rządowej do wykonywania niektórych zadań organów celnych określając szczegółowy zakres upoważnienia tych organów oraz miejsca, w których wykonują one zadania organów celnych.
+### Art. 7.
 
-2. Organom administracji rządowej przy wykonywaniu zadań, o których mowa w ust. 1, przysługują prawa i obowiązki organów celnych.
+Do obliczania terminów określonych w przepisach wspólnotowego prawa celnego stosuje się rozporządzenie nr 1182/71/EWG/EURATOM z dnia 3 czerwca 1971 r. określające zasady mające zastosowanie do okresów, dat i terminów (Dz. Urz. WE L 124 z 8.6.1971).
 
-#### Rozdział 2 Wprowadzanie towarów na obszar celny Unii i regulowanie sytuacji towarów
+### Art. 8.
 
-**Art. 14.** Towary mogą być wprowadzane na obszar celny Unii lub wyprowadzane z tego obszaru przez przejścia graniczne otwarte dla danego ruchu, chyba że przepis szczególny stanowi inaczej.
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory formularzy stosowanych w sprawach celnych, mając na uwadze jednolite wykonywanie przepisów prawa celnego oraz ułatwienie w dokonywaniu formalności przed organami celnymi. Rozporządzenie może zawierać instrukcje wypełniania tych formularzy.
 
-**Art. 15.**
+### Art. 9.
 
-1. (uchylony)
+Termin przechowywania dokumentów, o którym mowa w art. 16 Wspólnotowego Kodeksu Celnego, wynosi 5 lat.
 
-2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw transportu może, w drodze rozporządzenia, wyznaczyć trasy przewozu do właściwego miejsca, o których mowa w art. 135 ust. 1 unijnego kodeksu celnego, trasy wyprowadzenia towarów poza obszar celny Unii, o których mowa w art. 267 ust. 1 unijnego kodeksu celnego, a także określić:
+### Art. 10.
 
-- **1)** sposób poruszania się i przemieszczania towarów po tych trasach;
-- **2)** przypadki i warunki, które powinny zostać spełnione, aby przewóz towarów oraz ich wprowadzenie i wyprowadzenie mogły odbywać się poza wyznaczonymi trasami.
+Świadectwa pochodzenia towarów wywożonych z terytorium kraju są wystawiane przez organy celne na pisemny wniosek eksportera lub nadawcy towaru, chyba że umowy międzynarodowe stanowią inaczej.
 
-3. Przy wydawaniu rozporządzenia, o którym mowa w ust. 2, bierze się pod uwagę przepisy dotyczące ruchu turystycznego, ruchu przygranicznego, obrotu pocztowego lub ruchu o mało istotnym znaczeniu ekonomicznym, a także potrzebę zabezpieczenia towarów przed ich usunięciem spod dozoru celnego.
+### Art. 11.
 
-**Art. 16.** (uchylony)
+Minister właściwy do spraw finansów publicznych wyznaczy, w drodze rozporządzenia, kurs wymiany, o którym mowa w rozdziale 6 tytułu 5 Rozporządzenia Wykonawczego, stosowany w celu ustalenia wartości celnej, mając na uwadze postanowienia wspólnotowego prawa celnego oraz zapewnienie powszechnej dostępności informacji w tym zakresie.
 
-**Art. 17.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, urzędy celno-skarbowe oraz podległe im oddziały celne, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej.
+### Art. 12.
 
-**Art. 17a.**
+Minister właściwy do spraw finansów publicznych może ogłosić w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia, wyjaśnienia do Taryfy celnej, obejmujące, w szczególności, noty wyjaśniające do Zharmonizowanego Systemu Oznaczania i Kodowania Towarów (HS), noty wyjaśniające do Nomenklatury Scalonej oraz opinie klasyfikacyjne przyjęte przez Radę Współpracy Celnej.
 
-1. Organ celny może udzielić osobie mającej siedzibę na terytorium kraju i posiadającej możliwość wykonywania regularnych przewozów międzynarodowych pozwolenia na korzystanie z procedury TIR.
+### Art. 13.
 
-2. Organ celny może udzielić pozwolenia na uproszczenie przy obejmowaniu towarów procedurą TIR, które polega na umożliwieniu upoważnionemu nadawcy w procedurze TIR samodzielnego otwierania procedury tranzytu TIR bez przedstawiania towaru i karnetu TIR organowi celnemu w urzędzie celnym wyjścia. Pozwolenie określa szczegółowy sposób korzystania z tego uproszczenia.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, procedury przyjmowania i przekazywania wniosków o zaliczenie towarów na poczet kontyngentu taryfowego, tryb przekazywania informacji w zakresie rejestrowania i sprawowania kontroli importu specyficznych towarów objętych procedurą nadzoru importu, mając na uwadze sprawną realizację przepisów prawa celnego oraz uproszczenie w dokonywaniu formalności przed organami celnymi.
 
-3. Uproszczenia, o którym mowa w ust. 2, nie stosuje się, jeżeli procedura tranzytu TIR została otwarta poza terytorium kraju. Uproszczenie ma zastosowanie wyłącznie w sytuacji, gdy dotyczy objęcia karnetem TIR w pierwszym urzędzie celnym wyjścia na terytorium kraju.
+### Rozdział 2 Wprowadzanie towarów na obszar celny Wspólnoty i nadawanie im przeznaczenia celnego
 
-4. Do udzielenia pozwolenia, o którym mowa w ust. 2, stosuje się odpowiednio warunki określone w art. 191 rozporządzenia delegowanego. Do oceny spełnienia kryteriów, o których mowa w art. 39 lit. a, b i d unijnego kodeksu celnego, stosuje się przepisy art. 24, art. 25 i art. 27 rozporządzenia wykonawczego.
+### Art. 14.
 
-5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, dane wymagane we wnioskach o udzielenie pozwoleń, o których mowa w ust. 1 i 2, oraz dokumenty załączane do tych wniosków, a także szczegółowy sposób korzystania z uproszczenia, o którym mowa w ust. 2, mając na uwadze ułatwienie formalności celnych oraz zapewnienie skutecznego dozoru celnego.
+Towary mogą być wprowadzane na obszar celny Wspólnoty lub wyprowadzane z tego obszaru przez otwarte dla danego ruchu przejścia graniczne.
 
-**Art. 18.** (uchylony)
+### Art. 15.
 
-**Art. 19.**
+### 1.
 
-1. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe wymogi, jakie powinno spełniać zgłoszenie celne, w tym dokonywane z wykorzystaniem systemu teleinformatycznego, dokumenty, które mogą być wykorzystywane w charakterze zgłoszenia celnego, oraz dokumenty dołączane do zgłoszenia celnego. W rozporządzeniu należy w szczególności określić rodzaje i wzory dokumentów, które mogą być wykorzystywane w charakterze zgłoszenia celnego, sposób dokonywania zgłoszeń celnych dokonywanych z wykorzystaniem systemu teleinformatycznego oraz wymogi dotyczące dokumentów dołączanych do zgłoszenia celnego. Rozporządzenie powinno uwzględniać różne formy dokonywania zgłoszenia celnego.
+Wprowadzanie towarów na obszar celny Wspólnoty i ich wyprowadzanie z tego obszaru jest dozwolone wyłącznie drogą celną określoną przez organ celny i zgodnie z jego instrukcjami, chyba że przepis odrębny stanowi inaczej.
 
-2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, dokumenty, na podstawie których odbywa się przewóz przesyłek pocztowych wprowadzanych na obszar celny Unii i wyprowadzanych poza ten obszar, oraz tryb przedstawiania towarów i dokonywania zgłoszeń celnych w obrocie pocztowym realizowanym przez operatora wyznaczonego, mając na uwadze specyfikę obrotu pocztowego, ułatwienie formalności celnych i zapewnienie skutecznego dozoru celnego.
+### 2.
 
-3. Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Obrony Narodowej i ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowy tryb wprowadzania na obszar celny Unii i wyprowadzania poza ten obszar, a także obejmowania procedurą celną i powrotnym wywozem okrętów wojennych i wojskowych statków powietrznych oraz wyposażenia i sprzętu jednostek wojskowych i jednostek organizacyjnych służb podległych ministrowi właściwemu do spraw wewnętrznych lub nadzorowanych przez tego ministra, mając na uwadze prawidłową realizację obrotu towarowego oraz ułatwienie formalności celnych.
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw transportu może, w drodze rozporządzenia, wyznaczyć drogi celne, określić sposób poruszania się i przemieszczania towarów po tych drogach, zabezpieczający przed usunięciem towarów spod dozoru celnego, oraz ustalić przypadki i warunki, które powinny zostać spełnione, aby przewóz towarów oraz ich wprowadzenie i wyprowadzenie mogło odbywać się poza drogami celnymi, uwzględniając przepisy dotyczące ruchu turystycznego, ruchu przygranicznego, obrotu pocztowego lub ruchu o mato istotnym znaczeniu ekonomicznym.
 
-**Art. 20.** Zgłoszenie celne lub zgłoszenie do powrotnego wywozu dotyczące towaru niemającego charakteru handlowego wprowadzanego na obszar celny Unii lub wyprowadzanego z tego obszaru, dokonywane przez podróżnych, powinno być złożone najpóźniej w chwili przystąpienia organu celnego do kontroli celnej.
+### Art. 16.
 
-**Art. 21.**
+Warunki i tryb tworzenia oraz prowadzenia magazynów czasowego składowania, o których mowa w art. 185 Rozporządzenia Wykonawczego, określi minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, mając na uwadze zapewnienie właściwego dozoru celnego i kontroli celnej towarów w nich składowanych.
 
-1. Organ celny odmawia, w postaci papierowej lub elektronicznej, przyjęcia zgłoszenia celnego, wskazując przyczyny odmowy, jeżeli:
+### Art. 17.
 
-- **1)** zgłoszenie nie odpowiada wymogom formalnym przewidzianym w przepisach prawa celnego, określającym formy dokonania takiego zgłoszenia, wymagane dane oraz dołączane do niego dokumenty;
-- **2)** nie są spełnione warunki do objęcia towaru wnioskowaną procedurą celną;
-- **3)** objęcie towaru wnioskowaną procedurą celną nie może nastąpić z powodu obowiązujących zakazów lub ograniczeń.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, urzędy celne, w których są dokonywane czynności przewidziane przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej.
 
-2. Przepis ust. 1 stosuje się odpowiednio do zgłoszenia do powrotnego wywozu.
+### Art. 18.
 
-**Art. 21a.** (uchylony)
+### 1.
 
-**Art. 22.** (uchylony)
+W uzasadnionych przypadkach i na warunkach określonych przez organ celny czynności przewidziane przepisami prawa celnego mogą być dokonywane w miejscach wyznaczonych lub uznanych przez organ celny.
 
-**Art. 23.**
+### 2.
 
-1. Zgłaszający oblicza i wykazuje w zgłoszeniu celnym kwotę należności przywozowych lub wywozowych.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-2. (uchylony)
+### 1)
 
-3. (uchylony)
+wymogi, jakie ma spełniać miejsce wyznaczone lub uznane przez organ celny;
 
-4. (uchylony)
+### 2)
 
-5. (uchylony)
+warunki i tryb postępowania przy wyznaczaniu lub uznawaniu oraz znoszeniu przez organ celny tych miejsc;
 
-**Art. 24.**
+### 3)
 
-1. Towary zwolnione przez organ celny powinny zostać podjęte w terminie 30 dni od dnia ich zwolnienia.
+okres, na jaki mogą zostać przez organ celny uznane lub wyznaczone te miejsca;
 
-2. W szczególnie uzasadnionych przypadkach termin ten może zostać przedłużony na wniosek osoby zainteresowanej.
+### 4)
 
-**Art. 25.** (uchylony)
+przypadki, w których czynności przewidziane przepisami prawa celnego mogą być dokonywane w tych miejscach;
 
-**Art. 26.**
+### 5)
 
-1. Wolne obszary celne mogą być tworzone na wniosek w celu:
+rodzaj towarów, którym może zostać nadane przeznaczenie celne w tych miejscach.
 
-- **1)** ułatwienia międzynarodowego ruchu tranzytowego towarów, w szczególności w portach morskich, lotniczych, rzecznych lub miejscach przyległych do przejść granicznych;
-- **2)** rozwoju eksportu i tworzenia nowych miejsc pracy.
+Rozporządzenie powinno uwzględniać właściwość urzędów celnych do dokonywania czynności określonych przepisami prawa celnego w zależności od rodzaju towarów lub procedur celnych, a w zakresie wymogów, jakie musi spełniać miejsce wyznaczone lub uznane - konieczność skutecznego sprawowania dozoru celnego.
 
-2. Wolne obszary celne tworzy się w miejscach niezamieszkanych, umożliwiających sprawowanie skutecznego dozoru celnego towarów wprowadzanych do wolnego obszaru celnego i z niego wyprowadzanych.
+### Art. 19.
 
-3. Zarządzającym wolnym obszarem celnym może być osoba, która spełnia następujące warunki:
+### 1.
 
-- **1)** ma siedzibę na obszarze celnym Unii;
-- **2)** przysługuje jej prawo własności lub użytkowania wieczystego nieruchomości, na której ma być utworzony wolny obszar celny;
-- **3)** zapewnia prawidłową realizację operacji dokonywanych w wolnym obszarze celnym;
-- **4)** wykaże, że utworzenie wolnego obszaru celnego jest uzasadnione gospodarczo.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe wymogi, jakie powinno spełniać zgłoszenie celne, w tym dokonywane z wykorzystaniem systemu teleinformatycznego, dokumenty, które mogą być wykorzystywane w charakterze zgłoszenia celnego, oraz dokumenty dołączane do zgłoszenia celnego. W rozporządzeniu należy w szczególności określić rodzaje i wzory dokumentów, które mogą być wykorzystywane w charakterze zgłoszenia celnego, sposób dokonywania zgłoszeń celnych dokonywanych z wykorzystaniem systemu teleinformatycznego oraz wymogi dotyczące dokumentów dołączanych do zgłoszenia celnego. Rozporządzenie powinno uwzględniać różne formy dokonywania zgłoszenia celnego.
 
-3a. Wolny obszar celny może zostać utworzony, jeżeli organy celne mogą sprawować dozór celny bez konieczności stosowania środków administracyjnych niewspółmiernych do istniejącej potrzeby gospodarczej.
+### 2.
 
-3b. Minister właściwy do spraw finansów publicznych, w drodze decyzji, odmawia utworzenia wolnego obszaru celnego w przypadku niespełnienia przesłanek jego utworzenia.
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, szczegółowy tryb i warunki przedstawiania towarów i dokonywania zgłoszeń celnych w obrocie pocztowym. Rozporządzenie powinno uwzględniać specyfikę obrotu pocztowego oraz przepisy wspólnotowego prawa celnego w tym zakresie.
 
-4. Wstęp do wolnego obszaru celnego oraz przemieszczanie się w nim odbywa się według zasad i na warunkach ustalonych z organem celnym.
+### Art. 20.
 
-5. Wolny obszar celny znosi się z urzędu lub na wniosek zarządzającego.
+Zgłoszenie celne dotyczące towaru niemającego charakteru handlowego wprowadzanego na obszar celny Wspólnoty lub wyprowadzanego z tego obszaru, dokonywane przez podróżnych, powinno być złożone najpóźniej w chwili przystąpienia organu celnego do kontroli celnej.
 
-6. Wolny obszar celny znosi się z urzędu, w przypadku gdy:
+### Art. 21.
 
-- **1)** wymagają tego zobowiązania międzynarodowe Rzeczypospolitej Polskiej;
-- **2)** zarządzający rażąco naruszył przepisy podatkowe lub celne;
-- **3)** w wolnym obszarze celnym nie została podjęta działalność gospodarcza w terminie 24 miesięcy od dnia jego utworzenia.
+Organ celny odmawia przyjęcia zgłoszenia celnego, wskazując przyczyny odmowy w formie pisemnej, jeżeli:
 
-7. (uchylony)
+### 1)
 
-**Art. 27.**
+zgłoszenie nie odpowiada wymogom formalnym, o których mowa w art. 62 Wspólnotowego Kodeksu Celnego;
 
-1. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku o utworzenie, zmianę powierzchni lub zniesienie wolnego obszaru celnego oraz dokumenty, które należy do niego dołączyć, uwzględniając zakres informacji niezbędnych do rozstrzygnięcia sprawy.
+### 2)
 
-2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki, w drodze rozporządzenia, tworzy i znosi wolne obszary celne, określa ich obszar i wyznacza osobę zarządzającego, mając na uwadze spełnienie wymogów, o których mowa w art. 26 ust. 1–3a.
+nie są spełnione warunki do objęcia towaru wnioskowaną procedurą celną lub nadania przeznaczenia celnego;
 
-**Art. 28.** (uchylony)
+### 3)
 
-**Art. 28a.**
+objęcie towaru wnioskowaną procedurą celną lub nadanie przeznaczenia celnego nie może nastąpić z powodu obowiązujących zakazów lub ograniczeń.
 
-1. Osoba zamierzająca prowadzić działalność przemysłową, handlową lub usługową w wolnym obszarze celnym składa powiadomienie, o którym mowa w art. 244 ust. 2 unijnego kodeksu celnego, do organu celnego właściwego ze względu na położenie wolnego obszaru celnego.
+### Art. 22.
 
-2. Powiadomienie powinno zawierać w szczególności:
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, rodzaje towarów, których objęcie procedurą celną z zastosowaniem procedury uproszczonej zależy od spełnienia dodatkowych warunków, oraz rodzaje towarów, które nie mogą być obejmowane procedurą celną z zastosowaniem procedury uproszczonej. Rozporządzenie powinno uwzględniać rodzaje procedur celnych, w których stosuje się procedurę uproszczoną, oraz ryzyko związane z obrotem określonymi kategoriami towarów.
 
-- **1)** określenie osoby, która zamierza prowadzić działalność w wolnym obszarze celnym;
-- **2)** numer identyfikacyjny EORI.
+### Art. 23.
 
-3. Do powiadomienia należy dołączyć kopię zezwolenia lub koncesji, w przypadku działalności, której prowadzenie wymaga zezwolenia lub koncesji.
+### 1.
 
-4. Zmiana danych, o których mowa w powiadomieniu lub załączonych dokumentach, wymaga zgłoszenia do organu celnego właściwego ze względu na miejsce złożenia powiadomienia, w terminie 14 dni od dnia ich powstania.
+Zgłaszający oblicza i wykazuje w zgłoszeniu celnym kwotę należności przywozowych lub należności wywozowych.
 
-**Art. 29.** (uchylony)
+### 2.
 
-**Art. 30.**
+Jeżeli organ celny stwierdzi, że zgłaszający w zgłoszeniu celnym zadeklarował nieprawidłowe dane, mogące mieć wpływ na wysokość kwoty wynikającej z długu celnego lub zastosowaną procedurę celną, wydaje decyzję, w której określa kwotę wynikającą z długu celnego lub rozstrzyga o nadaniu towarowi właściwego przeznaczenia celnego zgodnie z przepisami prawa celnego.
 
-1. W celu podjęcia środków, o których mowa w art. 198 unijnego kodeksu celnego, organ celny może dokonać zajęcia towaru.
+### 3.
 
-2. Zajęcie towaru może być dokonane bez względu na prawa osób trzecich i z pierwszeństwem przed wszystkimi obciążeniami i przywilejami.
+W przypadku, o którym mowa w ust. 2, organ celny nie wydaje postanowienia o wszczęciu postępowania. Za datę wszczęcia postępowania przyjmuje się datę przyjęcia zgłoszenia celnego.
 
-3. Zajęcie towaru następuje w drodze decyzji.
+### 4.
 
-4. (uchylony)
+Po zwolnieniu towaru organ celny może, z urzędu lub na wniosek, wydać postanowienie, w którym zmienia nieprawidłowe dane zawarte w zgłoszeniu celnym, inne niż określone w ust. 2. Na postanowienie w sprawie zmiany służy zażalenie.
 
-5. W sprawach o zajęcie towaru, w zakresie nieuregulowanym w ustawie, stosuje się przepisy o postępowaniu egzekucyjnym w administracji dotyczące zajęcia ruchomości.
+### Art. 24.
 
-**Art. 31.**
+### 1.
 
-1. Jeżeli umowy międzynarodowe lub przepisy odrębne zakazują posiadania towarów, ich rozpowszechniania lub obrotu nimi albo uzależniają ich posiadanie, rozpowszechnianie lub obrót nimi od spełnienia określonych wymogów, a wymogi te nie zostały spełnione, organ celny w celu uregulowania sytuacji towaru może:
+Towary zwolnione przez organ celny powinny zostać podjęte w terminie 30 dni od dnia ich zwolnienia.
 
-- **1)** cofnąć towar poza obszar celny Unii lub nie zezwolić na opuszczenie tego obszaru,
-- **2)** zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa,
-- **3)** wyrazić zgodę na zrzeczenie się towaru na rzecz Skarbu Państwa zgodnie z art. 199 unijnego kodeksu celnego – chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
+### 2.
 
-2. O przepadku towaru na rzecz Skarbu Państwa orzeka, na wniosek organu celnego, sąd, stosując przepisy Kodeksu postępowania cywilnego. Niemożność ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, nie stanowi przeszkody do wystąpienia z wnioskiem o orzeczenie przepadku towaru i do orzeczenia tego przepadku.
+W szczególnie uzasadnionych przypadkach termin ten może zostać przedłużony na wniosek osoby zainteresowanej. Na postanowienie w sprawie przedłużenia terminu służy zażalenie.
 
-3. Przepis ust. 2 stosuje się również, gdy umowy międzynarodowe lub przepisy odrębne przewidują przepadek towaru.
+### Art. 25.
 
-4. Wyroby tytoniowe oraz produkty lecznicze, których przepadek orzeczono lub które były przedmiotem zrzeczenia na rzecz Skarbu Państwa, podlegają zniszczeniu.
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, przypadki, w których organ celny pobiera zabezpieczenie:
 
-5. Napoje alkoholowe oraz produkty kosmetyczne, których przepadek orzeczono lub które były przedmiotem zrzeczenia na rzecz Skarbu Państwa, podlegają zniszczeniu w całości albo w części, jeżeli sprzedaż tych towarów jest niemożliwa, znacznie utrudniona lub nieuzasadniona lub towary te nie odpowiadają warunkom dopuszczenia do obrotu określonym w przepisach odrębnych.
+### 1)
 
-6. (uchylony)
+w związku z prowadzeniem składu celnego;
 
-7. W przypadku gdy zajęty towar jest dobrem kultury w rozumieniu ustawy z dnia 25 maja 2017 r. o restytucji narodowych dóbr kultury (Dz. U. z 2019 r. poz. 1591), organ celny przekazuje go w depozyt instytucji kultury wskazanej przez wojewódzkiego konserwatora zabytków.
+### 2)
 
-8. Kosztów, o których mowa w art. 198 ust. 3 unijnego kodeksu celnego, w szczególności kosztów zniszczenia towaru lub likwidacji w inny sposób oraz kosztów związanych z jego przechowywaniem nie pobiera się, jeżeli łączna kwota tych kosztów nie przekracza równowartości kwoty 10 euro.
+w związku z korzystaniem z zawieszającej procedury celnej, w celu zapewnienia pokrycia kwoty wynikającej z długu celnego mogącego powstać w stosunku do towarów objętych tą procedurą;
 
-**Art. 32.**
+### 3)
 
-1. W celu uregulowania sytuacji towarów innych niż będące przedmiotem zakazów lub ograniczeń organ celny może zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa, chyba że przepisy prawa celnego stanowią inaczej.
+w związku z dopuszczeniem do obrotu towarów, które podlegają dozorowi celnemu ze względu na przeznaczenie;
 
-2. (uchylony)
+### 4)
 
-3. W przypadku, o którym mowa w ust. 1, stosuje się przepisy art. 31 ust. 2 i 7.
+w innych przypadkach, gdy przepisy prawa celnego przewidują możliwość pobrania zabezpieczenia.
 
-4. (uchylony)
+Rozporządzenie powinno uwzględniać, w szczególności, różnice pomiędzy poszczególnymi typami składów celnych, rodzaje towarów obejmowanych procedurami celnymi, z uwzględnieniem towarów, którymi obrót związany jest z podwyższonym ryzykiem.
 
-5. Kosztów, o których mowa w art. 198 ust. 3 unijnego kodeksu celnego, w szczególności kosztów zniszczenia towaru lub likwidacji w inny sposób oraz kosztów związanych z jego przechowywaniem nie pobiera się, jeżeli łączna kwota tych kosztów nie przekracza równowartości kwoty 10 euro.
+### Art. 26.
 
-**Art. 33.**
+### 1.
 
-1. W zakresie nieuregulowanym w niniejszej ustawie do sprzedaży towaru, o której mowa w art. 250 rozporządzenia wykonawczego, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+Wolne obszary celne lub składy wolnocłowe mogą być tworzone na wniosek w celu:
 
-2. Przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858, 859 i 1222) dotyczące zobowiązanego stosuje się do osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, lub każdej innej osoby, w której posiadaniu znajduje się towar.
+### 1)
 
-3. W przypadku gdy zobowiązany jest nieznany, w dokumentach stosowanych przy sprzedaży wskazuje się ten fakt.
+ułatwienia międzynarodowego ruchu tranzytowego towarów, w szczególności w portach morskich, lotniczych, rzecznych lub miejscach przyległych do przejść granicznych;
 
-4. (uchylony)
+### 2)
 
-5. (uchylony)
+rozwoju eksportu i tworzenia nowych miejsc pracy.
 
-6. Jeżeli sprzedaż towaru jest dokonywana pod warunkiem objęcia określoną procedurą celną albo powrotnym wywozem, obowiązki wynikające z przepisów prawa celnego powstają z chwilą wydania towaru nabywcy.
+### 2.
 
-**Art. 34.** (uchylony)
+Wolne obszary celne lub składy wolnocłowe mogą być tworzone w miejscach niezamieszkanych, których położenie umożliwi sprawowanie skutecznego dozoru celnego towarów wprowadzanych i wyprowadzanych z wolnego obszaru celnego lub składu wolnocłowego.
 
-**Art. 35.**
+### 3.
 
-1. W depozycie urzędu celno-skarbowego przechowuje się czasowo:
+Zarządzającym wolnym obszarem celnym lub składem wolnocłowym może być jedynie osoba mająca siedzibę we Wspólnocie posiadająca, z wyjątkiem wolnych obszarów celnych o typie kontroli II w rozumieniu art. 799 lit. b Rozporządzenia Wykonawczego, prawo własności lub użytkowania wieczystego nieruchomości, na której ma być ustanowiony wolny obszar celny lub skład wolnocłowy.
 
-- **1)** towary nieunijne przed objęciem procedurą celną lub uregulowaniem sytuacji towarów w inny sposób bądź towary unijne niedopuszczone do wywozu, jeżeli cofnięcie towarów odpowiednio poza obszar celny Unii lub na ten obszar albo ich złożenie w magazynie czasowego składowania jest niemożliwe lub utrudnione;
-- **2)** towary zajęte w celu podjęcia środków, o których mowa w art. 198 unijnego kodeksu celnego;
-- **3)** inne towary, w przypadkach przewidzianych w przepisach odrębnych.
+### 4.
 
-2. Towary przyjęte do przechowania w depozycie mogą być przekazane przez organ celny innej osobie do przechowania pod dozorem celnym.
+Wstęp do wolnego obszaru celnego oraz przemieszczanie się w nim odbywa się według zasad i na warunkach ustalonych z organem celnym.
 
-3. Przechowaniu w depozycie nie podlegają towary niebezpieczne, szkodliwe dla zdrowia lub środowiska naturalnego oraz łatwo psujące się.
+### 5.
 
-4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+Wolny obszar celny lub skład wolnocłowy może być zniesiony z urzędu lub na wniosek zarządzającego.
 
-- **1)** warunki przyjmowania towarów do depozytu i wydawania towarów z depozytu,
-- **2)** przypadki, w których organ celny odmówi przyjęcia towarów do depozytu,
-- **3)** terminy przechowywania towarów w depozycie – mając na uwadze, w szczególności, rodzaj towarów oraz uproszczenie formalności w przyjmowaniu towarów do depozytu.
+### 6.
 
-**Art. 35a.** Pozwolenia, o których mowa w art. 185 unijnego kodeksu celnego, są udzielane przedsiębiorcom dokonującym zgłoszeń celnych w swoim imieniu i na swoją rzecz.
+Zniesienie wolnego obszaru celnego lub składu wolnocłowego może nastąpić z urzędu, w przypadku gdy:
 
-**Art. 35b.** Składający rozliczenie zamknięcia, o którym mowa w art. 175 rozporządzenia delegowanego, jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy, że w przypadku nieuiszczenia w terminie w całości lub w części należności pieniężnej wynikającej z rozliczenia zamknięcia, rozliczenie niniejsze stanowi podstawę do wystawienia tytułu wykonawczego.”. Klauzula ta zastępuje pouczenie, że rozliczenie zamknięcia stanowi podstawę do wystawienia tytułu wykonawczego.
+### 1)
 
-#### Rozdział 3 Zwolnienia celne
+wymagają tego zobowiązania międzynarodowe Rzeczypospolitej Polskiej;
 
-**Art. 36.** Zwolnienie od należności przywozowych lub należności wywozowych stosuje się na wniosek zgłaszającego.
+### 2)
 
-**Art. 37.**
+zarządzający rażąco naruszył przepisy podatkowe lub celne;
 
-1. Zwolnione od należności przywozowych są paliwa, smary i inne materiały eksploatacyjne niezbędne do funkcjonowania środków transportu, innych niż wymienione w art. 107 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, przewożone w tych środkach transportu, wykorzystywane do ich napędu lub działania instalacji, w które są wyposażone.
+### 3)
 
-2. Towary, o których mowa w ust. 1, nie mogą być wykorzystywane w innych środkach transportu niż ten, w którym zostały przywiezione, ani nie mogą zostać usunięte z tego środka transportu, chyba że jest to konieczne ze względu na jego naprawę, oraz nie mogą zostać odpłatnie lub nieodpłatnie odstąpione przez osobę korzystającą ze zwolnienia.
+nie została podjęta działalność gospodarcza:
 
-3. W przypadku naruszenia warunku, o którym mowa w ust. 2, powstaje dług celny. Wysokość długu celnego określa się według stanu i wartości celnej towaru w dniu naruszenia warunku i według stawek celnych obowiązujących w tym dniu. Jeżeli nie można ustalić daty naruszenia warunku, przepis art. 85 unijnego kodeksu celnego stosuje się odpowiednio.
+### a)
 
-**Art. 38.**
+w wolnym obszarze celnym - w terminie 24 miesięcy od dnia jego ustanowienia,
 
-1. Zwolnione od należności przywozowych są środki spożywcze oraz zapasy pokładowe przywożone w innych niż wymienione w art. 107 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych środkach transportu, użytkowanych w celach zarobkowych, przeznaczone do konsumpcji lub jednorazowego zużycia przez załogę lub pasażerów w tych środkach transportu w czasie rejsu lub podróży, jeżeli tego rodzaju usługa jest normalną praktyką.
+### b)
 
-2. W przypadku sprzedaży podróżnym towarów, o których mowa w ust. 1, opakowania towarów muszą być oznaczone w sposób umożliwiający ich identyfikację poza środkiem transportu.
+w składzie wolnocłowym - w terminie 12 miesięcy od dnia jego ustanowienia.
 
-3. Zwolnień, o których mowa w ust. 1, nie stosuje się do alkoholu i napojów alkoholowych z pozycji 2208 Taryfy celnej oraz tytoniu i wyrobów tytoniowych przewożonych w wagonach restauracyjnych kolejowych środków transportu.
+### Art. 27.
 
-**Art. 39.** (uchylony)
+### 1.
 
-**Art. 40.** (uchylony)
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku o utworzenie lub zmianę powierzchni wolnego obszaru celnego lub składu wolnocłowego, dokumenty, które należy do niego dołączyć, oraz tryb rozpatrzenia wniosku, uwzględniając zakres informacji niezbędnych do rozstrzygnięcia sprawy.
 
-**Art. 41.**
+### 2.
 
-1. Na zasadzie wzajemności i pod warunkiem nieodstępowania towarów przez okres 3 lat od dnia dopuszczenia do obrotu osobom innym niż wymienione w tym artykule zwolnione od należności przywozowych, zgodnie z postanowieniami Konwencji wiedeńskiej o stosunkach dyplomatycznych, sporządzonej w Wiedniu dnia 18 kwietnia 1961 r. (Dz. U. z 1965 r. poz. 232), Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r. (Dz. U. z 1982 r. poz. 98), oraz Konwencji o misjach specjalnych, otwartej do podpisu w Nowym Jorku dnia 16 grudnia 1969 r. (Dz. U. z 1985 r. poz. 245), są towary przeznaczone do użytku:
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki, w drodze rozporządzenia, ustanawia i znosi wolne obszary celne i składy wolnocłowe, określa ich obszar i wyznacza osobę zarządzającego, mając na uwadze spełnienie wymogów, o których mowa w art. 26.
 
-- **1)** urzędowego obcych przedstawicielstw dyplomatycznych, urzędów konsularnych oraz misji specjalnych w Rzeczypospolitej Polskiej, a także organizacji międzynarodowych mających siedzibę lub placówkę w Rzeczypospolitej Polskiej;
-- **2)** osobistego uwierzytelnionych w Rzeczypospolitej Polskiej szefów przedstawicielstw dyplomatycznych państw obcych, osób należących do personelu dyplomatycznego tych przedstawicielstw i misji specjalnych, osób należących do personelu organizacji międzynarodowych oraz innych osób korzystających z przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych, jak również pozostających z nimi we wspólnocie domowej członków ich rodzin;
-- **3)** osobistego urzędników konsularnych państw obcych oraz pozostających z nimi we wspólnocie domowej członków ich rodzin;
-- **4)** osobistego osób niekorzystających z immunitetów, a należących do cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych oraz misji specjalnych w Rzeczypospolitej Polskiej.
+### Art. 28.
 
-2. Na zasadzie wzajemności, zwolnienie, o którym mowa w ust. 1, w odniesieniu do pojazdu silnikowego w rozumieniu art. 2 pkt 32 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251) stosuje się także, jeżeli niezachowanie terminu określonego w ust. 1 było uzasadnione okolicznościami związanymi z ważnym interesem służby, dotyczącymi przesiedlenia osoby odstępującej pojazd silnikowy w celu podjęcia pracy w innym państwie, a osoba ta przebywała na terytorium kraju nie krócej niż 2 lata.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-**Art. 42.** Zwolnione od należności przywozowych są towary przywożone w zakresie przewidzianym w Umowie między Państwami-Stronami Traktatu Północnoatlantyckiego dotyczącej statusu ich sił zbrojnych, sporządzonej w Londynie dnia 19 czerwca 1951 r. (Dz. U. z 2000 r. poz. 257 oraz z 2008 r. poz. 1052).
+### 1)
 
-**Art. 43.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 43 lit. b Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te jednostki i organizacje.
+sposób powiadamiania organu celnego o rozpoczęciu lub zakończeniu działalności w wolnym obszarze celnym lub składzie wolnocłowym;
 
-**Art. 44.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw oświaty i wychowania oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz prywatnych instytucji, których podstawową działalnością jest nauczanie lub prowadzenie badań naukowych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 44 ust. 2 lit. b Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje.
+### 2)
 
-**Art. 45.** Minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw rolnictwa oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz prywatnych instytucji, których podstawową działalnością jest nauczanie lub prowadzenie badań naukowych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 53 ust. 2 lit. b Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje.
+ogólne warunki i wzory ewidencji prowadzonych w wolnym obszarze celnym lub składzie wolnocłowym.
 
-**Art. 46.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz instytucji i laboratoriów uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 55 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje i laboratoria.
+W rozporządzeniu należy określić w szczególności dokumenty, które powinien przedłożyć organowi celnemu przedsiębiorca w przypadku rozpoczęcia lub zakończenia działalności w wolnym obszarze celnym lub składzie wolnocłowym.
 
-**Art. 47.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 57 ust. 1 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych. W wykazie mogą być umieszczone tylko jednostki, które gwarantują wykorzystanie zwolnionych od należności przywozowych towarów zgodnie z przeznaczeniem.
+### Art. 29.
 
-**Art. 48.** Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wykaz instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 59 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych. W wykazie mogą być umieszczone tylko instytucje, które wykorzystują substancje posiadające atest Światowej Organizacji Zdrowia w celu kontroli jakości surowców używanych do produkcji produktów leczniczych oraz gwarantują wykorzystanie zwolnionych od należności przywozowych towarów zgodnie z przeznaczeniem.
+### 1.
 
-**Art. 49.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, warunki, jakie muszą spełniać instytucje i organizacje, o których mowa w art. 61 ust. 1 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj i charakter działalności prowadzonej przez te instytucje i organizacje.
+Organ celny może wyrazić zgodę na zrzeczenie się towaru na rzecz Skarbu Państwa bez innych obciążeń niż należności przywozowe. Organ celny może odstąpić od tego warunku, jeżeli z okoliczności sprawy wynika, że przyjęcie zrzeczonego towaru nie narazi Skarbu Państwa na straty.
 
-**Art. 50.** Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, warunki, jakie muszą spełniać instytucje i organizacje, o których mowa w art. 67 ust. 1 lit. b oraz w art. 68 ust. 1 lit. b Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj i charakter działalności prowadzonej przez te instytucje i organizacje.
+### 2.
 
-#### Rozdział 4 Dług celny
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki i tryb postępowania przy zniszczeniu towaru i zrzeczeniu się towaru na rzecz Skarbu Państwa. Rozporządzenie powinno uwzględniać, w szczególności, możliwość sprawowania dozoru celnego i kontroli celnej oraz powierzenia zniszczenia towaru wyspecjalizowanym jednostkom powołanym do niszczenia określonego rodzaju towarów.
 
-**Art. 51.** (uchylony)
+### Art. 30.
 
-**Art. 52.**
+### 1.
 
-1. Gwarantem zatwierdzonym przez organy celne, o którym mowa w art. 94 ust. 1 unijnego kodeksu celnego, jest osoba wpisana do wykazu gwarantów uprawnionych do udzielania gwarancji składanych jako zabezpieczenie pokrycia kwot wynikających z długów celnych, zwanego dalej „wykazem”.
+Jeżeli zgodnie z przepisami Wspólnotowego Kodeksu Celnego organ celny jest obowiązany podjąć działania zmierzające do uregulowania sytuacji towaru, może dokonać jego zajęcia.
 
-2. Do wykazu wpisuje się osobę, która:
+### 2.
 
-- **1)** ma siedzibę na obszarze celnym Unii;
-- **2)** prowadzi na terytorium kraju działalność:
-    - **a)** bankową albo
-    - **b)** ubezpieczeniową;
+Zajęcie towaru może być dokonane bez względu na prawa osób trzecich i z pierwszeństwem przed wszystkimi obciążeniami i przywilejami.
 
-- **3)** posiada uprawnienie do udzielania gwarancji;
-- **4)** daje rękojmię prawidłowego wywiązywania się z zobowiązań wobec organów celnych.
+### 3.
 
-3. Wykaz prowadzi i dokonuje w nim odpowiednich wpisów Szef Krajowej Administracji Skarbowej.
+Zajęcie towaru następuje w drodze postanowienia, które może być w każdym czasie uchylone lub zmienione.
 
-4. Wpis do wykazu następuje na wniosek zainteresowanej osoby, złożony do Szefa Krajowej Administracji Skarbowej, po uzyskaniu od Komisji Nadzoru Finansowego informacji:
+### 4.
 
-- **1)** potwierdzającej spełnianie przez tę osobę:
-    - **a)** warunków, o których mowa w ust. 2 pkt 1–3,
-    - **b)** wymogów kapitałowych określonych przepisami prawa;
+Na postanowienie w sprawie zajęcia towaru przysługuje zażalenie.
 
-- **2)** o toczących się przed Komisją Nadzoru Finansowego postępowaniach wobec tej osoby.
+### Art. 31.
 
-5. W przypadku instytucji kredytowej, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów rozdziału 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838), Komisja Nadzoru Finansowego przekazuje informację, o której mowa w ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej.
+### 1.
 
-6. Wykaz składa się z dwóch części, w których wpisuje się:
+Jeżeli umowy międzynarodowe lub przepisy odrębne zakazują posiadania, rozpowszechniania lub obrotu towarami albo uzależniają ich posiadanie, obrót lub rozpowszechnianie od spełnienia określonych wymogów, a wymogi te nie zostały spełnione, organ celny, w celu uregulowania sytuacji towaru, może:
 
-- **1)** w części I – banki i instytucje kredytowe;
-- **2)** w części II – zakłady ubezpieczeń.
+### 1)
 
-7. Wpis do wykazu zawiera nazwę osoby oraz adres jej siedziby.
+cofnąć towar poza obszar celny Wspólnoty lub na ten obszar,
 
-8. Wpis do wykazu oraz jego zmiana są decyzjami Szefa Krajowej Administracji Skarbowej. Informację o wpisie do wykazu oraz jego zmianie otrzymuje zainteresowana osoba oraz Komisja Nadzoru Finansowego.
+### 2)
 
-8a. W przypadku niespełnienia przez zainteresowaną osobę warunków, o których mowa w ust. 2, Szef Krajowej Administracji Skarbowej wydaje decyzję o odmowie wpisu do wykazu. Decyzja jest przekazywana do wiadomości Komisji Nadzoru Finansowego.
+sprzedać towar osobie, która zobowiąże się do dokonania jego powrotnego wywozu albo która zapewnia spełnienie tych wymogów w terminie wyznaczonym przez organ celny, jeżeli cofnięcie towaru nie jest możliwe,
 
-9. Komisja Nadzoru Finansowego jest zobowiązana niezwłocznie powiadamiać Szefa Krajowej Administracji Skarbowej o:
+### 3)
 
-- **1)** zaprzestaniu spełniania przez gwaranta warunków, o których mowa w ust. 2 pkt 1–3 oraz ust. 4 pkt 1 lit. b;
-- **2)** zmianie danych, o których mowa w ust. 7;
-- **3)** toczących się przed Komisją Nadzoru Finansowego postępowaniach wobec gwaranta.
+dokonać zniszczenia towaru, jeżeli sprzedaż towaru nie jest możliwa, jest znacznie utrudniona lub nieuzasadniona,
 
-9a. Gwarant powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o zmianie swojej nazwy lub adresu swojej siedziby.
+### 4)
 
-10. Szef Krajowej Administracji Skarbowej wydaje decyzję o skreśleniu gwaranta z wykazu, jeżeli gwarant:
+wystąpić o orzeczenie przepadku towaru na rzecz Skarbu Państwa, jeżeli dokonanie zniszczenia towaru jest nieuzasadnione
 
-- **1)** nie spełnia wymogów, o których mowa w ust. 2;
-- **2)** nie wywiązuje się z zobowiązań wobec organów celnych;
-- **3)** złożył wniosek o skreślenie z wykazu;
-- **4)** uległ likwidacji.
+- chyba że umowy międzynarodowe lub przepisy odrębne przewidują inny sposób postępowania.
 
-10a. Skreślenie gwaranta z wykazu następuje z dniem wydania decyzji o skreśleniu z wykazu. Decyzja jest przekazywana do wiadomości Komisji Nadzoru Finansowego.
+### 2.
 
-11. Szef Krajowej Administracji Skarbowej udostępnia i aktualizuje do celów informacyjnych w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw finansów publicznych wykaz, a także informację o gwarantach akredytowanych w Unii, o których mowa w art. 94 ust. 1 unijnego kodeksu celnego.
+O przepadku towaru na rzecz Skarbu Państwa, na wniosek organu celnego, orzeka sąd, stosując przepisy Kodeksu postępowania cywilnego. Niemożność ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, nie stanowi przeszkody do wystąpienia z wnioskiem o orzeczenie przepadku towaru i do orzeczenia tego przepadku.
 
-**Art. 53.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+### 3.
 
-**Art. 54.** Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia:
+Przepis ust. 2 stosuje się również, gdy umowy międzynarodowe lub przepisy odrębne przewidują przepadek towaru.
 
-**Art. 55.** Organ celny odstępuje od powiadomienia o długu celnym w przypadku, o którym mowa w art. 88 ust. 1 i 2 rozporządzenia delegowanego.
+### 4.
 
-**Art. 56.** W przypadku, o którym mowa w art. 103 ust. 2 unijnego kodeksu celnego, powiadomienie dłużnika o kwocie należności nie może nastąpić po upływie 5 lat, licząc od dnia powstania długu celnego.
+Koszty cofnięcia towaru, sprzedaży, zniszczenia lub likwidacji w inny sposób oraz koszty związane z jego przechowywaniem ponoszą solidarnie osoba, na której ciążą obowiązki wynikające z przepisów prawa celnego, oraz każda inna osoba, w której posiadaniu znajduje się towar.
 
-**Art. 57.**
+### Art. 32.
 
-1. Za termin dokonania zapłaty kwoty należności uważa się:
+### 1.
 
-- **1)** przy zapłacie gotówką – dzień wpłacenia kwoty należności w kasie urzędu skarbowego lub w kasie podmiotu obsługującego ten urząd lub na rachunek właściwego urzędu skarbowego w banku, w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, w spółdzielczej kasie oszczędnościowo-kredytowej, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego;
-- **2)** w obrocie bezgotówkowym – dzień obciążenia rachunku bankowego dłużnika lub rachunku dłużnika w spółdzielczej kasie oszczędnościowo-kredytowej lub rachunku płatniczego dłużnika w instytucji płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu lub zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego, zwanego dalej „innym instrumentem płatniczym”.
+W celu uregulowania sytuacji towarów innych niż będące przedmiotem zakazów lub ograniczeń, organ celny może:
 
-2. W przypadku polecenia przelewu z rachunku bankowego dłużnika w banku lub instytucji kredytowej lub rachunku płatniczego dłużnika w unijnej instytucji płatniczej w rozumieniu art. 2 pkt 32 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30, 731 i 1222) lub unijnej instytucji pieniądza elektronicznego niemających siedziby lub oddziału na terytorium Rzeczypospolitej Polskiej za termin zapłaty kwoty należności uważa się dzień złożenia zlecenia płatniczego przez dłużnika, jeżeli wpłacana kwota zostanie uznana na rachunku bankowym urzędu skarbowego w terminie wskazanym w art. 54 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych. W razie przekroczenia tego terminu za termin zapłaty uważa się dzień uznania kwoty na rachunku bankowym urzędu skarbowego.
+### 1)
 
-3. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw łączności i po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, może określić, w drodze rozporządzenia, wzór formularza wpłaty gotówkowej oraz polecenia przelewu na rachunek bankowy urzędu skarbowego, uwzględniając dane identyfikujące wpłacającego oraz tytuł wpłaty.
+sprzedać towar,
 
-**Art. 57a.**
+### 2)
 
-1. Zlecenia płatnicze na rzecz urzędów skarbowych mogą być składane również w postaci elektronicznej, przy użyciu oprogramowania udostępnionego przez bank lub innego dostawcę usług płatniczych w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych uprawnionego do przyjmowania zleceń płatniczych, albo w inny sposób uzgodniony z bankiem lub z innym dostawcą usług płatniczych przyjmującym zlecenie.
+dokonać zniszczenia towaru, jeżeli sprzedaż towaru nie jest możliwa, jest znacznie utrudniona lub nieuzasadniona,
 
-2. Zlecenie płatnicze, o którym mowa w ust. 1, powinno zawierać dane identyfikujące wpłacającego oraz wskazywać tytuł wpłaty, przy czym niepodanie lub błędne podanie tych informacji stanowi podstawę do odmowy realizacji wpłaty gotówkowej lub polecenia przelewu.
+### 3)
 
-3. Rozliczanie płatności na rzecz urzędu skarbowego następuje poprzez międzybankowy system rozliczeń elektronicznych w krajowej organizacji rozliczeniowej lub poprzez system elektronicznych rozrachunków międzyoddziałowych Narodowego Banku Polskiego.
+wystąpić o orzeczenie przepadku towaru na rzecz Skarbu Państwa, jeżeli dokonanie zniszczenia towaru jest nieuzasadnione
 
-**Art. 57b.**
+- chyba że przepisy prawa celnego stanowią inaczej.
 
-1. W przypadku, o którym mowa w art. 57 ust. 1 pkt 2, dłużnik ponosi koszty opłat i prowizji związanych z zapłatą kwoty należności za pomocą innego instrumentu płatniczego.
+### 2.
 
-2. W miejscu zapłaty innym instrumentem płatniczym urząd skarbowy jest obowiązany zamieścić informację o pobieraniu i wysokości opłat i prowizji z tytułu płatności za pomocą tego instrumentu. Przed dokonaniem zapłaty należności za pomocą innego instrumentu płatniczego dłużnik jest informowany o pobieraniu i wysokości opłat i prowizji z tytułu zapłaty za pomocą tego instrumentu.
+W przypadku, o którym mowa w ust. 1 pkt 1, cena sprzedaży powinna uwzględniać ustaloną przez organ celny kwotę należności przywozowych ciążących na towarze.
 
-3. Zapłata należności za pomocą innego instrumentu płatniczego jest możliwa, jeżeli urząd skarbowy dysponuje odpowiednim urządzeniem do autoryzacji transakcji płatniczych.
+### 3.
 
-**Art. 58.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wyrażoną w euro równowartość kwoty, powyżej której należności uiszcza się w formie bezgotówkowej. Rozporządzenie powinno uwzględniać zachowanie bezpieczeństwa w obrocie pieniężnym.
+W przypadku, o którym mowa w ust. 1 pkt 3, stosuje się przepis art. 31 ust. 2.
 
-**Art. 59.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+### 4.
 
-**Art. 60.** (uchylony)
+Koszty sprzedaży towaru, zniszczenia lub likwidacji w inny sposób oraz koszty związane z jego przechowywaniem ponoszą solidarnie osoba, na której ciążą obowiązki wynikające z przepisów prawa celnego, oraz każda inna osoba, w której posiadaniu znajduje się towar.
 
-**Art. 61.**
+### Art. 33.
 
-1. Jeżeli nie zostało złożone zabezpieczenie albo gdyby kwota złożonego zabezpieczenia nie pokryła kwoty wynikającej z długu celnego, stosuje się odpowiednio przepisy rozdziału 3 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, chyba że przepisy prawa celnego stanowią inaczej.
+### 1.
 
-2. Zabezpieczenia można dokonać również:
+Sprzedaż towaru następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów niniejszej ustawy.
 
-- **1)** przed zaksięgowaniem kwoty należności;
-- **2)** w toku postępowania celnego lub kontroli celnej, przed wydaniem decyzji określającej kwotę należności wynikającą z długu celnego.
+### 2.
 
-3. Zabezpieczenie następuje w drodze decyzji. W przypadku, o którym mowa w ust. 2, organ celny określa w decyzji o zabezpieczeniu przybliżoną kwotę należności w oparciu o dane dotyczące podstawy ustalenia wysokości tej kwoty.
+Przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji ([Dz. U. z 2002 r. Nr 110, poz. 968](https://api.sejm.gov.pl/eli/acts/DU/2002/968/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 193, poz. 1884, Nr 217, poz. 2124 i Nr 228, poz. 2255.](#gloss-0:3:)) dotyczące zobowiązanego stosuje się do osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, lub każdej innej osoby, w której posiadaniu znajduje się towar.
 
-4. (uchylony)
+### 3.
 
-5. (uchylony)
+W przypadku gdy zobowiązany jest nieznany, w dokumentach stosowanych przy sprzedaży wskazuje się ten fakt.
 
-**Art. 62.** (uchylony)
+### 4.
 
-**Art. 63.**
+Środki pieniężne uzyskane ze sprzedaży towaru przeznaczone są na finansowanie wydatków i należności, w następującej kolejności:
 
-1. Decyzja o zabezpieczeniu, o której mowa w art. 61, wygasa po upływie 10 dni od dnia powiadomienia dłużnika o wysokości zaksięgowanej kwoty należności.
+### 1)
 
-2. (uchylony)
+koszty sprzedaży;
 
-**Art. 63a.**
+### 2)
 
-1. W przypadku uchylenia decyzji określającej kwotę należności wynikającą z długu celnego i przekazania sprawy do rozpatrzenia właściwemu organowi celnemu kwota należności uiszczona na podstawie decyzji określającej tę kwotę staje się zabezpieczeniem kwoty wynikającej z długu celnego w dniu następującym po dniu doręczenia decyzji o uchyleniu przez organ celny lub po dniu doręczenia organowi celnemu odpisu orzeczenia sądu administracyjnego stwierdzającego nieważność lub uchylającego tę decyzję, wraz ze stwierdzeniem jego prawomocności.
+koszty przewozu, przeładunku i przechowywania - poniesione przez Skarb Państwa;
 
-2. Jeżeli zostanie wydana nowa decyzja określająca kwotę należności w tej sprawie, to:
+### 3)
 
-- **1)** różnica pomiędzy zabezpieczeniem, o którym mowa w ust. 1, a kwotą wynikającą z nowej decyzji jako nadwyżka zabezpieczenia podlega zwolnieniu;
-- **2)** pozostała część zabezpieczenia jest zaliczana na poczet należności wynikających z nowej decyzji.
+kwotę należności przywozowych lub wywozowych;
 
-**Art. 64.** (uchylony)
+### 4)
 
-**Art. 65.**
+kwoty należności obciążające towar na podstawie przepisów odrębnych.
 
-1. Termin, o którym mowa w art. 108 ust. 1 unijnego kodeksu celnego, wynosi 10 dni.
+### 5.
 
-2. Kwotę należności celnych nieuiszczoną w terminie pokrywa się ze złożonego zabezpieczenia.
+Nadwyżkę ze sprzedaży towaru niestanowiącego własności Skarbu Państwa, pozostałą po pokryciu wydatków i kwot należności, o których mowa w ust. 4, zwraca się osobie uprawnionej, jeżeli jest znana. Nadwyżka przechodzi na rzecz Skarbu Państwa, jeżeli osoba uprawniona nie zgłosi się po jej odbiór w terminie 12 miesięcy od dnia jej zawiadomienia lub od dnia, kiedy stwierdzono brak możliwości doręczenia zawiadomienia.
 
-3. Do ustalenia stawki odsetek kredytowych, o której mowa w art. 112 unijnego kodeksu celnego, oraz stawki odsetek za zwłokę, o której mowa w art. 114 unijnego kodeksu celnego, stosuje się stopę referencyjną ustalaną zgodnie z przepisami o Narodowym Banku Polskim.
+### 6.
 
-4. (uchylony)
+Jeżeli sprzedaż towaru jest dokonywana pod warunkiem nadania określonego przeznaczenia celnego, obowiązki wynikające z przepisów prawa celnego związane z tym przeznaczeniem powstają z chwilą wydania towarów nabywcy.
 
-5. (uchylony)
+### Art. 34.
 
-6. (uchylony) 6a. (uchylony) 6b. (uchylony) 6c. Do odsetek za zwłokę, o których mowa w art. 114 unijnego kodeksu celnego, przepisy art. 53 § 3 i art. 55 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa oraz przepisy wykonawcze wydane na podstawie art. 58 tej ustawy stosuje się odpowiednio.
+Nieodpłatne przekazanie towarów, o którym mowa w przepisach wskazanych w art. 33 ust. 1, jest możliwe pod warunkiem, że podmiot, na rzecz którego to przekazanie jest realizowane, wystąpi o nadanie towarowi przeznaczenia celnego określonego przez organ celny w terminie wyznaczonym przez ten organ. Przepis art. 33 ust. 6 stosuje się odpowiednio.
 
-6d. Jeżeli dokonana wpłata nie pokrywa kwoty należności celnej wraz z odsetkami za zwłokę, wpłatę tę zalicza się w pierwszej kolejności na poczet kwoty należności celnej.
+### Art. 35.
 
-7. Kwot należności można dochodzić w terminie 5 lat, licząc od dnia, w którym zostały zaksięgowane.
+### 1.
 
-8. Bieg przedawnienia terminu, o którym mowa w ust. 7, zostaje przerwany wskutek zastosowania środka egzekucyjnego, o którym dłużnik został zawiadomiony. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym zakończono postępowanie egzekucyjne.
+W depozycie urzędu celnego przechowuje się czasowo:
 
-9. Kolejne wszczęcie postępowania egzekucyjnego nie przerywa biegu terminu przedawnienia.
+### 1)
 
-10. Bieg przedawnienia terminu, o którym mowa w ust. 7, zostaje zawieszony z dniem:
+towary niewspólnotowe przed uzyskaniem przez nie przeznaczenia celnego bądź towary wspólnotowe niedopuszczone do wywozu, jeżeli cofnięcie towarów odpowiednio poza obszar celny Wspólnoty lub na ten obszar albo ich złożenie w magazynie czasowego składowania jest niemożliwe lub utrudnione;
 
-- **1)** wszczęcia postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe, o którym dłużnik został zawiadomiony;
-- **2)** wniesienia skargi do sądu administracyjnego.
+### 2)
 
-11. Termin przedawnienia biegnie dalej od dnia następującego po dniu:
+towary zajęte w celu zabezpieczenia należności przywozowych lub należności wywozowych;
 
-- **1)** prawomocnego zakończenia postępowania karnego lub postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe;
-- **2)** doręczenia organowi celnemu prawomocnego orzeczenia sądu administracyjnego.
+### 3)
 
-**Art. 65a.** (uchylony)
+inne towary, w przypadkach przewidzianych w przepisach odrębnych.
 
-**Art. 65b.** (uchylony)
+### 2.
 
-**Art. 65c.** Organ celny zawiadamia dłużnika o zawieszeniu biegu terminu przedawnienia kwoty należności w przypadku, o którym mowa w art. 65 ust. 10 pkt 1, najpóźniej z upływem terminu przedawnienia, o którym mowa w art. 65 ust. 7, oraz o dalszym biegu terminu przedawnienia po upływie okresu zawieszenia.
+Towary przyjęte do przechowania w depozycie mogą być przekazane przez organ celny innej osobie do przechowania pod dozorem celnym.
 
-**Art. 66.**
+### 3.
 
-1. Do odpowiedzialności z tytułu długu celnego oraz odsetek, o których mowa w art. 114 unijnego kodeksu celnego, stosuje się odpowiednio przepisy art. 29 oraz działu III rozdziałów 14 i 15 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+Przechowaniu w depozycie nie podlegają towary niebezpieczne, szkodliwe dla zdrowia lub środowiska naturalnego oraz łatwo psujące się.
 
-1a. Organem celnym właściwym do orzekania w sprawach odpowiedzialności osoby trzeciej z tytułu długu celnego oraz odsetek, o których mowa w art. 114 unijnego kodeksu celnego, jest naczelnik urzędu celno-skarbowego właściwy ze względu na miejsce powstania długu celnego.
+### 4.
 
-2. W zakresie wykonania obowiązków o charakterze pieniężnym lub niepieniężnym wynikających z przepisów prawa celnego stosuje się przepisy o postępowaniu egzekucyjnym w administracji, chyba że przepisy prawa celnego stanowią inaczej.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-**Art. 67.**
+### 1)
 
-1. (uchylony)
+warunki przyjmowania towarów do depozytu i wydawania towarów z depozytu,
 
-2. (uchylony)
+### 2)
 
-3. (uchylony)
+przypadki, w których organ celny odmówi przyjęcia towarów do depozytu,
 
-4. Od ceł antydumpingowych zwracanych na podstawie decyzji Komisji Europejskiej, o której mowa w art. 11 ust. 8 rozporządzenia Rady (WE) nr 1225/2009 z dnia 30 listopada 2009 r. w sprawie ochrony przed przywozem produktów po cenach dumpingowych z krajów niebędących członkami Wspólnoty Europejskiej (Dz. Urz. UE L 343 z 22.12.2009, str. 51, z późn. zm. ), organ celny płaci odsetki, jeżeli decyzja Komisji Europejskiej nie zostanie wykonana w terminie, o którym mowa w art. 11 ust. 8 zdanie ostatnie tego rozporządzenia.
+### 3)
 
-5. W przypadku, o którym mowa w ust. 4, odsetki oblicza się w wysokości i według zasad obowiązujących dla wypłaty odsetek od zwracanych należności celnych.
+terminy przechowywania towarów w depozycie
 
-**Art. 67a.** Do zaokrąglania podstaw naliczania należności przywozowych i wywozowych, kwoty tych należności oraz odsetek stosuje się odpowiednio art. 63 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+- mając na uwadze, w szczególności, rodzaj towarów oraz uproszczenie formalności w przyjmowaniu towarów do depozytu.
 
-**Art. 68.** Kwota należności podlegających zwrotowi może zostać zaliczona na zaległe lub bieżące zobowiązania dłużnika wobec organu celnego.
+### Rozdział 3 Zwolnienia celne
 
-**Art. 68a.** (uchylony)
+### Art. 36.
 
-#### Rozdział 4a Wywóz, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego
+Zwolnienie od należności przywozowych lub należności wywozowych stosuje się na wniosek zgłaszającego.
 
-**Art. 68b.**
+### Art. 37.
 
-1. W przypadku, o którym mowa w art. 140 ust. 2 rozporządzenia delegowanego, urząd celny, o którym mowa w art. 221 ust. 2 rozporządzenia wykonawczego, wydaje na wniosek osoby zainteresowanej zaświadczenie potwierdzające wywóz towarów.
+### 1.
 
-2. Warunkiem wydania zaświadczenia jest przedstawienie przez wnioskodawcę dokumentów, z których jednoznacznie wynika, że towary będące przedmiotem wywozu zostały dostarczone do miejsca ich przeznaczenia i odebrane przez odbiorcę wskazanego w dokumentach przewozowych i fakturze.
+Zwolnione od należności przywozowych są paliwa, smary i inne materiały eksploatacyjne niezbędne do funkcjonowania środków transportu, innych niż wymienione w art. 112 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, przewożone w tych środkach transportu, wykorzystywane do ich napędu lub działania instalacji, w które są wyposażone.
 
-#### Rozdział 5 Organy celne i ich właściwość
+### 2.
 
-**Art. 69.**
+Towary, o których mowa w ust. 1, nie mogą być wykorzystywane w innych środkach transportu niż ten, w którym zostały przywiezione, ani nie mogą zostać usunięte z tego środka transportu, chyba że jest to konieczne ze względu na jego naprawę, oraz nie mogą zostać odpłatnie lub nieodpłatnie odstąpione przez osobę korzystającą ze zwolnienia.
 
-1. Organem celnym, stosownie do swojej właściwości, jest:
+### 3.
 
-- **1)** naczelnik urzędu celno-skarbowego – jako organ pierwszej instancji;
-- **2)** dyrektor izby administracji skarbowej – jako:
-    - **a)** organ odwoławczy od decyzji naczelnika urzędu celno-skarbowego,
-    - **b)** organ pierwszej instancji w sprawach określonych w przepisach prawa celnego oraz przepisach odrębnych,
-    - **c)** organ odwoławczy od decyzji wydanych przez ten organ w pierwszej instancji, chyba że przepis szczególny stanowi inaczej;
+W przypadku naruszenia warunku, o którym mowa w ust. 2, powstaje dług celny. Wysokość długu celnego określa się według stanu i wartości celnej towaru w dniu naruszenia warunku i według stawek celnych obowiązujących w tym dniu. Jeżeli nie można ustalić daty odstąpienia towaru, art. 214 Wspólnotowego Kodeksu Celnego stosuje się odpowiednio.
 
-- **2a)** Dyrektor Krajowej Informacji Skarbowej – jako:
-    - **a)** organ pierwszej instancji w sprawach, o których mowa w art. 70 ust. 2a,
-    - **b)** organ odwoławczy od decyzji wydawanych w sprawach, o których mowa w art. 70 ust. 2a;
+### Art. 38.
 
-- **3)** Szef Krajowej Administracji Skarbowej – jako:
-    - **a)** organ pierwszej instancji w sprawach dotyczących wpisu do wykazu, o których mowa w art. 52,
-    - **b)** organ odwoławczy od decyzji wydawanych w sprawach, o których mowa w lit. a oraz w art. 70 ust. 2;
+### 1.
 
-- **4)** minister właściwy do spraw finansów publicznych – jako organ odwoławczy od decyzji wydanych przez ten organ w pierwszej instancji.
+Zwolnione od należności przywozowych są środki spożywcze oraz zapasy pokładowe przywożone w innych niż wymienione w art. 112 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych środkach transportu, użytkowanych w celach zarobkowych, przeznaczone do konsumpcji lub jednorazowego zużycia przez załogę lub pasażerów w tych środkach transportu w czasie rejsu lub podróży, jeżeli tego rodzaju usługa jest normalną praktyką.
 
-2. Organami wyższego stopnia są organy odwoławcze.
+### 2.
 
-**Art. 70.**
+W przypadku sprzedaży podróżnym towarów, o których mowa w ust. 1, opakowania towarów muszą być oznaczone w sposób umożliwiający ich identyfikację poza środkiem transportu.
 
-1. Dyrektor izby administracji skarbowej jest właściwy w sprawach, o których mowa w:
+### 3.
 
-- **1)** art. 38 ust. 1, art. 89 ust. 5, art. 110, art. 112 ust. 1, art. 166 ust. 2, art. 179 ust. 1, art. 182 ust. 1, art. 185 ust. 1, art. 214 ust. 1 – w zakresie dotyczącym zatwierdzania ewidencji w wolnych obszarach celnych, art. 230, art. 233 ust. 4, art. 243 ust. 1 – w zakresie dotyczącym określania miejsc wejścia i wyjścia w wolnym obszarze celnym, i art. 244 ust. 2–4 unijnego kodeksu celnego;
-- **2)** art. 115 – z wyjątkiem wyznaczenia lub uznania miejsca w celu jednorazowego przedstawienia towarów organom celnym, art. 120 ust. 1 i art. 128 rozporządzenia delegowanego;
-- **3)** art. 17a ust. 2 i art. 96 ust. 1 pkt 4–6.
+Zwolnień, o których mowa w ust. 1, nie stosuje się do alkoholu i napojów alkoholowych z pozycji 2208 Taryfy celnej oraz tytoniu i wyrobów tytoniowych przewożonych w wagonach restauracyjnych kolejowych środków transportu.
 
-2. Dyrektor lub dyrektorzy izb administracji skarbowej wyznaczeni przez ministra właściwego do spraw finansów publicznych są właściwi w sprawach dotyczących:
+### Art. 39.
 
-- **1)** pozwoleń na korzystanie z procedury TIR;
-- **2)** (uchylony)
-- **3)** prowadzenia listy agentów celnych, wpisu osoby na listę agentów celnych oraz zawieszenia działalności agenta celnego, o których mowa w art. 80;
-- **4)** wydawania decyzji w sprawach ochrony praw własności intelektualnej.
+Zwolnione od należności przywozowych są paliwa, o których mowa w art. 112 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, w ilości nieprzekraczającej:
 
-2a. Dyrektor Krajowej Informacji Skarbowej jest właściwy w sprawach dotyczących wiążącej informacji taryfowej i wiążącej informacji o pochodzeniu.
+### 1)
 
-3. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznaczy dyrektora lub dyrektorów izb administracji skarbowej właściwych do prowadzenia spraw, o których mowa w ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby administracji skarbowej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
+600 litrów, w przypadku paliwa przewożonego w standardowym zbiorniku handlowego pojazdu samochodowego służącego do odpłatnego lub nieodpłatnego przewozu więcej niż dziewięciu osób włącznie z kierowcą,
 
-4. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może wyznaczyć dyrektora lub dyrektorów izb administracji skarbowej właściwych do prowadzenia spraw innych niż określone w ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby administracji skarbowej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
+### 2)
 
-5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, urząd skarbowy lub urzędy skarbowe, na których rachunek bankowy dokonuje się wpłaty kwot z tytułu należności przywozowych lub wywozowych oraz z których rachunku bankowego dokonuje się wypłaty z tytułu zwrotu należności przywozowych lub wywozowych, uwzględniając potrzebę zapewnienia sprawnego poboru i zwrotu tych należności.
+200 litrów, w przypadku paliwa przewożonego w standardowym zbiorniku handlowego pojazdu samochodowego innego niż wymieniony w pkt 1,
 
-**Art. 71.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość miejscową organów celnych, mając na uwadze, w szczególności, zakres zadań wykonywanych przez te organy, a także rodzaje procedur celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej, a także gospodarcze potrzeby przedsiębiorców.
+### 3)
 
-**Art. 72.** W przypadku sporu o właściwość miejscową i rzeczową, przepisy art. 19 i 20 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio.
+200 litrów paliwa przewożonego w standardowym zbiorniku pojemnika specjalnego przeznaczenia
 
-#### Rozdział 6 Postępowanie w sprawach celnych
+chyba że umowy międzynarodowe stanowią inaczej.
 
-**Art. 73.**
+### Art. 40.
 
-1. Do:
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, ograniczenia wartości lub ilości zwolnionych od należności przywozowych towarów przywożonych przez osoby, o których mowa w art. 47 zdanie drugie i art. 49 ust. 1 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze, w szczególności, zapobieżenie nadmiernemu przywozowi niektórych towarów objętych podatkiem akcyzowym na obszar celny Wspólnoty.
 
-- **1)** postępowania w sprawach celnych stosuje się odpowiednio przepisy art. 12, art. 138a § 4, art. 141–143, art. 168, art. 170, art. 215 § 1 oraz działu IV rozdziałów 2, 5, 6, 9 i 10, rozdziału 11 – z wyłączeniem art. 200, oraz rozdziałów 21–23 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
-- **2)** odwołań stosuje się odpowiednio także przepisy art. 140 § 1, art. 162 § 1–3, art. 163 § 2, art. 169, art. 208, art. 210 § 1 pkt 1–6 i 8 oraz § 2, art. 220, art. 221, art. 222, art. 223, art. 226–229, art. 232, art. 233 § 1 i 2, art. 234 oraz art. 234a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+### Art. 41.
 
-2. Czynności podjęte w sprawach celnych na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z wyjątkiem rozstrzygnięć, o których mowa w art. 163 § 2, art. 169 § 4, art. 179 § 2, art. 215 § 1, art. 228 § 1, art. 262 § 5, art. 263 § 1, art. 268 § 3 oraz art. 270a tej ustawy:
+Na zasadzie wzajemności i pod warunkiem nieodstępowania towarów przez okres 3 lat od dnia dopuszczenia do obrotu osobom innym niż wymienione w tym artykule zwolnione od należności przywozowych, zgodnie z postanowieniami Konwencji wiedeńskiej o stosunkach dyplomatycznych, sporządzonej w Wiedniu dnia 18 kwietnia 1961 r. ([Dz. U. z 1965 r. Nr 37, poz. 232](https://api.sejm.gov.pl/eli/acts/DU/1965/232/text.html)), Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 r. ([Dz. U. z 1982 r. Nr 13, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1982/98/text.html)), oraz Konwencji o misjach specjalnych, otwartej do podpisu w Nowym Jorku dnia 16 grudnia 1969 r. ([Dz. U. z 1985 r. Nr 48, poz. 245](https://api.sejm.gov.pl/eli/acts/DU/1985/245/text.html)), są towary przeznaczone do użytku:
 
-- **1)** nie są uznawane za decyzje w rozumieniu przepisów prawa celnego;
-- **2)** są zaskarżalne tylko w odwołaniu od decyzji.
+### 1)
 
-3. Do wydawania zaświadczeń stosuje się odpowiednio przepisy działu VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że odmowa wydania zaświadczenia lub zaświadczenia o treści żądanej przez osobę ubiegającą się o nie następuje w drodze decyzji w rozumieniu przepisów prawa celnego.
+urzędowego obcych przedstawicielstw dyplomatycznych, urzędów konsularnych oraz misji specjalnych w Rzeczypospolitej Polskiej, a także organizacji międzynarodowych mających siedzibę lub placówkę w Rzeczypospolitej Polskiej;
 
-**Art. 73a.** (uchylony)
+### 2)
 
-**Art. 73b.** W sprawie wstrzymania wykonania decyzji właściwy jest:
+osobistego uwierzytelnionych w Rzeczypospolitej Polskiej szefów przedstawicielstw dyplomatycznych państw obcych, osób należących do personelu dyplomatycznego tych przedstawicielstw i misji specjalnych, osób należących do personelu organizacji międzynarodowych oraz innych osób korzystających z przywilejów i immunitetów na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych, jak również pozostających z nimi we wspólnocie domowej członków ich rodzin;
 
-**Art. 73c.** Na potrzeby stosowania przepisów prawa celnego za osobę uznaje się również spółkę cywilną.
+### 3)
 
-**Art. 73d.**
+osobistego urzędników konsularnych państw obcych oraz pozostających z nimi we wspólnocie domowej członków ich rodzin;
 
-1. Naczelnik urzędu celno-skarbowego prowadzi jedno postępowanie w sprawie należności celnych przywozowych, podatku od towarów i usług, podatku akcyzowego, a także opłaty paliwowej i opłaty emisyjnej, z tytułu importu towarów.
+### 4)
 
-2. W wyniku postępowania, o którym mowa w ust. 1, jest wydawana jedna decyzja.
+osobistego osób niekorzystających z immunitetów, a należących do cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych oraz misji specjalnych w Rzeczypospolitej Polskiej.
 
-**Art. 73e.** Pisma w sprawie:
+### Art. 42.
 
-**Art. 74.** W zakresie praw i obowiązków następców prawnych i podmiotów przekształconych stosuje się odpowiednio przepisy rozdziału 14 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+Zwolnione od należności przywozowych są towary przywożone w zakresie przewidzianym w Umowie między Państwami-Stronami Traktatu Północnoatlantyckiego dotyczącej statusu ich sił zbrojnych, sporządzonej w Londynie dnia 19 czerwca 1951 r. (Dz. U. z 2000 r. Nr 21, poz. 257).
 
-**Art. 75.** (uchylony)
+### Art. 43.
 
-**Art. 76.** Czynności dokonane przez przedstawiciela celnego w granicach pełnomocnictwa pociągają za sobą skutki bezpośrednio dla osoby, która go ustanowiła.
+Minister właściwy do spraw szkolnictwa wyższego w porozumieniu z ministrem właściwym do spraw nauki, ministrem właściwym do spraw oświaty i wychowania, ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz jednostek i organizacji uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 51 tiret drugie Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te jednostki i organizacje.
 
-**Art. 77.** Przedstawiciel celny może udzielić dalszego pełnomocnictwa do wykonywania określonych czynności za zgodą osoby, która go ustanowiła.
+### Art. 44.
 
-**Art. 77a.** W przypadkach, o których mowa w art. 143a rozporządzenia delegowanego, osobę dokonującą zgłoszenia celnego w imieniu własnym, lecz na rzecz odbiorcy przesyłki, uważa się za upoważnioną do dokonania zgłoszenia, jeżeli odbiorca przesyłki, poinformowany o możliwości samodzielnego dokonania zgłoszenia celnego lub wyboru innego przedstawiciela celnego, nie zgłosił zamiaru skorzystania z tej możliwości.
+Minister właściwy do spraw nauki w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego, ministrem właściwym do spraw oświaty i wychowania oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz prywatnych instytucji, których podstawową działalnością jest nauczanie lub prowadzenie badań naukowych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 52 ust. 2 tiret drugie Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje.
 
-**Art. 78.** (uchylony)
+### Art. 45.
 
-**Art. 79.**
+Minister właściwy do spraw nauki w porozumieniu z ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz prywatnych instytucji, których podstawową działalnością jest nauczanie lub prowadzenie badań naukowych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 60 ust. 2 tiret drugie Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje.
 
-1. Agentem celnym jest osoba wpisana na listę agentów celnych.
+### Art. 46.
 
-2. Wpis osoby na listę agentów celnych oraz jego zmiana są decyzjami organu, o którym mowa w art. 70 ust. 2. Informację o wpisie osoby na listę agentów celnych oraz jego zmianie otrzymuje zainteresowana osoba.
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw nauki, ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz instytucji i laboratoriów uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 62 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, mając na uwadze rodzaj działalności prowadzonej przez te instytucje i laboratoria.
 
-**Art. 80.**
+### Art. 47.
 
-1. Na listę agentów celnych wpisuje się osobę fizyczną, jeżeli spełnia następujące warunki:
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw nauki, ministrem właściwym do spraw szkolnictwa wyższego oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz szpitali i innych jednostek służby zdrowia oraz medycznych instytutów badawczych uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 63a ust. 1 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych. W wykazie mogą być umieszczone tylko jednostki, które gwarantują wykorzystanie zwolnionych od należności przywozowych towarów zgodnie z przeznaczeniem.
 
-- **1)** ma pełną zdolność do czynności prawnych;
-- **2)** posiada kwalifikacje lub doświadczenie w zakresie obsługi celnej podmiotów gospodarczych;
-- **3)** nie została skazana prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi lub przestępstwo skarbowe;
-- **4)** wystąpiła z wnioskiem o wpis na listę agentów celnych.
+### Art. 48.
 
-2. Warunek określony w ust. 1 pkt 2 należy uznać za spełniony, jeżeli wnioskodawca posiada:
+Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz instytucji powołanych do kontroli jakości surowców używanych do produkcji produktów leczniczych, uprawnionych do korzystania ze zwolnienia od należności przywozowych, o których mowa w art. 63c Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych. W wykazie mogą być umieszczone tylko instytucje, które wykorzystują substancje posiadające atest Światowej Organizacji Zdrowia w celu kontroli jakości surowców używanych do produkcji produktów leczniczych oraz gwarantują wykorzystanie zwolnionych od należności przywozowych towarów zgodnie z przeznaczeniem.
 
-- **1)** dyplom ukończenia studiów wyższych, na kierunku w dziedzinie nauk ekonomicznych, prawnych lub technicznych, obejmującym wiedzę i umiejętności z zakresu prawa administracyjnego i finansowego, w szczególności prawa celnego, albo świadectwo ukończenia studiów podyplomowych w tym zakresie, lub
-- **2)** co najmniej trzyletnie doświadczenie w sprawach celnych albo
-- **3)** decyzję o uznaniu kwalifikacji do wykonywania zawodu agenta celnego wydaną na podstawie przepisów ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
+### Art. 49.
 
-3. Przez doświadczenie w sprawach celnych należy rozumieć okres zawodowego wykonywania przed organem celnym czynności określonych przepisami prawa celnego lub okres kształcenia specjalistycznego w szkołach policealnych, przygotowującego do wykonywania takich czynności, w przypadku ukończenia go nie wcześniej niż 5 lat przed złożeniem wniosku o wpis.
+Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, warunki, jakie muszą spełniać instytucje i organizacje, o których mowa w art. 65 ust. 1 Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych.
 
-3a. W przypadku niespełnienia przez wnioskodawcę warunków, o których mowa w ust. 1, organ, o którym mowa w art. 70 ust. 2, wydaje decyzję o odmowie wpisu osoby na listę agentów celnych.
+### Art. 50.
 
-4. Działalność agenta celnego może zostać zawieszona na czas toczącego się przeciwko agentowi postępowania w sprawach, o których mowa w ust. 1 pkt 3.
+Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia, ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, warunki, jakie muszą spełniać instytucje i organizacje, o których mowa w art. 71 tiret drugie oraz w art. 72 ust. 1 tiret drugie Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych.
 
-5. Agent celny jest obowiązany zawiadomić organ prowadzący listę agentów celnych o zaprzestaniu spełniania warunku, o którym mowa w ust. 1 pkt 1 lub 3, w terminie 30 dni od dnia zaistnienia tego faktu.
+### Rozdział 4 Dług celny
 
-6. Z listy agentów celnych skreśla się osobę w przypadku:
+### Art. 51.
 
-- **1)** gdy przestała ona spełniać jeden z warunków, o których mowa w ust. 1;
-- **2)** jej śmierci.
+Organ celny, w drodze decyzji, określa kwotę należności wynikającą z długu celnego powstałego na podstawie art. 202-205, art. 210, art. 211 i art. 216 Wspólnotowego Kodeksu Celnego, a także niezaksięgowaną kwotę należności wynikającą z długu celnego, gdy istnieją podstawy do jej zaksięgowania retrospektywnego na podstawie art. 220 Wspólnotowego Kodeksu Celnego.
 
-7. Minister właściwy do spraw finansów publicznych udostępnia do celów informacyjnych listę agentów celnych w Biuletynie Informacji Publicznej na swojej stronie podmiotowej.
+### Art. 52.
 
-8. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia listy agentów celnych oraz tryb dokonywania wpisu na listę, a także dokumenty dołączane do wniosku o wpis, mając na uwadze zapewnienie sprawnego i jednolitego postępowania przy dokonywaniu wpisu.
+### 1.
 
-**Art. 81.** (uchylony)
+Gwarantem, o którym mowa w art. 195 Wspólnotowego Kodeksu Celnego, uprawnionym do udzielania gwarancji składanych jako zabezpieczenie pokrycia kwot wynikających z długów celnych, może być jedynie osoba mająca siedzibę we Wspólnocie i prowadząca działalność bankową lub ubezpieczeniową na obszarze stosowania niniejszej ustawy, ujęta w wykazie gwarantów.
 
-**Art. 82.**
+### 2.
 
-1. W przypadku niemożności ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, organ celny może podejmować wszelkie niezbędne działania w celu uregulowania sytuacji towaru, w tym także prowadzić postępowanie i wydawać decyzje w stosunku do osoby nieznanej.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz gwarantów, mając na uwadze konieczność zapewnienia realizacji zobowiązań wynikających z zabezpieczenia kwoty długu celnego.
 
-2. W przypadku, o którym mowa w ust. 1, decyzja jest wydawana bez oznaczania strony.
+### Art. 53.
 
-**Art. 83.** Pisma, w tym decyzje, skierowane do osób nieznanych z miejsca pobytu lub adresu oraz decyzje, o których mowa w art. 82, wywiesza się na okres 14 dni w siedzibie organu celnego prowadzącego postępowanie. Pisma oraz decyzje uważa się za doręczone po upływie tego terminu.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-**Art. 84.**
+### 1)
 
-1. Osoba, która nie ma miejsca zamieszkania lub zwykłego pobytu albo siedziby na terytorium kraju lub w innym państwie członkowskim Unii, jeżeli nie ustanowiła przedstawiciela celnego, jest obowiązana do ustanowienia w kraju pełnomocnika do spraw doręczeń. Ustanowienie pełnomocnika jest skuteczne także w postępowaniu, o którym mowa w art. 31 ust. 2.
+sposób złożenia zabezpieczenia w formie depozytu w gotówce,
 
-1a. Przepisu ust. 1 nie stosuje się, jeżeli doręczanie pism osobie następuje za pomocą środków komunikacji elektronicznej.
+### 2)
 
-2. W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, stosuje się odpowiednio art. 83.
+dokumenty uważane za równoważne z depozytem w gotówce, mające wartość płatniczą, które mogą być przyjmowane przez organy celne,
 
-3. (uchylony)
+### 3)
 
-**Art. 85.** (uchylony)
+sposób potwierdzenia przez organ celny złożenia zabezpieczenia
 
-**Art. 86.**
+- mając na uwadze, w szczególności, jednolitość postępowania w tym zakresie, a także uwzględniając potrzeby gospodarcze przedsiębiorców.
 
-1. Organ celny może przyjąć jako dowód w postępowaniu dokumenty sporządzone przez organy celne państwa obcego lub inne uprawnione podmioty państwa obcego.
+### Art. 54.
 
-2. Organ celny może żądać od strony postępowania:
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, inne formy zabezpieczenia niż te, o których mowa w art. 193 Wspólnotowego Kodeksu Celnego, oraz przypadki i warunki korzystania z tych form zabezpieczenia, biorąc pod uwagę formy zabezpieczenia określone w art. 857 Rozporządzenia Wykonawczego oraz zapewnienie skuteczności realizacji obowiązków wynikających z przepisów prawa celnego.
 
-- **1)** urzędowego tłumaczenia na język polski dokumentów sporządzonych w języku obcym;
-- **2)** przedłożenia dokumentów zagranicznych zalegalizowanych przez właściwe organy polskie działające w kraju albo polskie przedstawicielstwa dyplomatyczne lub urzędy konsularne.
+### Art. 55.
 
-**Art. 87.** (uchylony)
+Organ celny nie księguje i nie pobiera kwoty należności przywozowych:
 
-**Art. 88.** Prowadzenie postępowania w sprawie o przestępstwo skarbowe, wykroczenie skarbowe lub postępowania karnego nie stanowi przeszkody do prowadzenia postępowania w sprawie celnej.
+### 1)
 
-**Art. 89.**
+jeżeli suma kwot tych należności i należności podatkowych z tytułu importu towarów nie przekracza:
 
-1. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia, organ celny przyjmuje od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+### a)
 
-2. Przed przyjęciem oświadczenia organ celny uprzedza stronę o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+w ruchu podróżnych - równowartości kwoty 1 euro,
 
-**Art. 90.** Organ celny może połączyć toczące się przed nim oddzielne sprawy w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli dotyczą tej samej osoby i są ze sobą w związku.
+### b)
 
-**Art. 90a.** (uchylony)
+w pozostałych przypadkach - równowartości kwoty 3 euro;
 
-**Art. 90b.** Odwołanie od decyzji organu celnego powinno również wskazywać osobę, od której pochodzi, jej adres (miejsca zamieszkania lub zwykłego pobytu, siedziby albo miejsca prowadzenia działalności) lub adres do doręczeń w kraju, numer EORI, o ile go posiada, a w przypadku nierezydentów – numer i serię paszportu lub innego dokumentu stwierdzającego tożsamość, lub inny numer identyfikacyjny, o ile nie posiadają numeru EORI.
+### 2)
 
-**Art. 90c.** W przypadku nieuwzględnienia wniosku o przywrócenie terminu organ odwoławczy wydaje jedną decyzję w sprawie nieuwzględnienia wniosku o przywrócenie terminu i uchybienia terminowi do wniesienia odwołania.
+jeżeli upłynął termin na powiadomienie dłużnika o kwocie należności.
 
-**Art. 90d.**
+### Art. 56.
 
-1. Przed wydaniem decyzji organ odwoławczy wyznacza osobie siedmiodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego; termin ten za zgodą osoby może zostać skrócony.
+W przypadku, o którym mowa w art. 221 ust. 4 Wspólnotowego Kodeksu Celnego, powiadomienie dłużnika o kwocie należności nie może nastąpić po upływie 5 lat, licząc od dnia powstania długu celnego. Art. 221 ust. 3 zdanie drugie Wspólnotowego Kodeksu Celnego stosuje się odpowiednio.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli decyzja w całości uwzględnia odwołanie.
+### Art. 57.
 
-**Art. 90e.**
+Za termin dokonania zapłaty kwoty należności uważa się:
 
-1. Załatwienie sprawy w postępowaniu odwoławczym powinno nastąpić nie później niż w ciągu 2 miesięcy od dnia otrzymania odwołania przez organ odwoławczy.
+### 1)
 
-2. Do terminu określonego w ust. 1 nie wlicza się terminów przewidzianych w przepisach prawa celnego dla dokonania określonych czynności oraz okresów opóźnień spowodowanych z winy osoby składającej odwołanie albo z przyczyn niezależnych od organu.
+przy zapłacie gotówką - dzień wpłacenia kwoty należności w kasie urzędu celnego lub na rachunek organu celnego w banku, w placówce pocztowej, w spółdzielczej kasie oszczędnościowo-kredytowej;
 
-**Art. 91.** Badania lub analizy towaru mogą być wykonywane przez laboratoria celne lub inne laboratoria akredytowane zgodnie z odrębnymi przepisami, a także przez podmioty, o których mowa w art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), lub inne podmioty, które dysponują metodami i wyposażeniem niezbędnym dla danego rodzaju badań lub analiz.
+### 2)
 
-**Art. 92.**
+w obrocie bezgotówkowym - dzień obciążenia rachunku bankowego dłużnika lub rachunku dłużnika w spółdzielczej kasie oszczędnościowo-kredytowej na podstawie polecenia przelewu.
 
-1. Z tytułu przeprowadzonych badań lub analiz towarów pobierane są opłaty, w przypadku gdy:
+### Art. 58.
 
-- **1)** badanie lub analiza zostaną przeprowadzone na żądanie osoby;
-- **2)** rozpatrzenie wniosku o wydanie wiążącej informacji taryfowej lub wiążącej informacji o pochodzeniu towaru wymaga przeprowadzenia badania lub analizy.
-- **3)** (uchylony)
-- **4)** (uchylony)
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wyrażoną w euro równowartość kwoty, powyżej której należności uiszcza się w formie bezgotówkowej. Rozporządzenie powinno uwzględniać zachowanie bezpieczeństwa w obrocie pieniężnym.
 
-2. Osoba, na wezwanie organu celnego, jest obowiązana do uiszczenia zaliczki w określonej wysokości na pokrycie opłat za badania lub analizy, o których mowa w ust. 1.
+### Art. 59.
 
-2a. W przypadku nieuiszczenia zaliczki w wyznaczonym terminie:
+### 1.
 
-- **1)** uznaje się żądanie osoby za wycofane – w przypadku, o którym mowa w ust. 1 pkt 1;
-- **2)** organ celny odmawia przyjęcia wniosku lub wydaje decyzję o odmowie wydania wiążącej informacji – w przypadku, o którym mowa w ust. 1 pkt 2.
+Organ celny wydaje pozwolenie na odroczenie terminu płatności należności osobom, które spełniają następujące warunki:
 
-3. Kwota opłat powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz.
+### 1)
 
-4. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, ryczałtowe stawki opłat za badania lub analizy przeprowadzane przez laboratoria celne. Określając stawki opłat, należy uwzględnić rodzaj przeprowadzanych badań lub analiz, stopień ich skomplikowania i pracochłonność.
+nie popełniły poważnego lub powtórnego naruszenia przepisów prawa celnego;
 
-**Art. 93.**
+### 2)
 
-1. Pobierane są opłaty, stanowiące dochody budżetu państwa, za:
+dają gwarancje należytego wykonania obowiązków wynikających z przepisów prawa celnego.
 
-- **1)** przechowanie towarów w depozycie lub w magazynie czasowego składowania prowadzonym przez organ celny;
-- **2)** wykonywanie na wniosek osoby zainteresowanej czynności przewidzianych w przepisach prawa celnego w miejscu innym niż urząd celno-skarbowy lub poza czasem pracy urzędu celno-skarbowego.
+### 2.
 
-1a. W przypadku przechowywania w depozycie urzędu celno-skarbowego towarów zajętych na podstawie art. 30 ust. 1 całkowita opłata za to przechowywanie nie może być niższa niż równowartość kwoty 10 euro i wyższa niż wartość celna towaru.
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, stawki opłat oraz sposób ich obliczania za:
+### 1)
 
-- **1)** przechowywanie towarów w depozycie, w tym w depozycie, o którym mowa w ust. 1a, oraz w magazynie czasowego składowania prowadzonym przez organ celny, uwzględniając wartość celną tych towarów albo wartość rynkową towaru identycznego lub podobnego;
-- **2)** czynności przewidziane w przepisach prawa celnego, o których mowa w ust. 1 pkt 2, uwzględniając ich charakter.
+szczegółowe warunki i tryb postępowania przy udzielaniu pozwoleń na odroczenie terminu płatności należności,
 
-**Art. 93a.**
+### 2)
 
-1. Kwoty opłat, o których mowa w art. 92 i art. 93, są ustalane przez organ celny w drodze decyzji.
+szczegółowe warunki i tryb postępowania przy stosowaniu odroczenia
 
-2. Doręczenie decyzji, o której mowa w ust. 1, nie może nastąpić po upływie 3 lat, licząc od dnia zakończenia czynności, za dokonanie których pobierane są opłaty.
+- biorąc pod uwagę zapewnienie jednolitości postępowania oraz ułatwienie w dokonywaniu formalności przed organami celnymi.
 
-3. W zakresie nieuregulowanym w ust. 1 i 2, w odniesieniu do zabezpieczania i poboru opłat stosuje się odpowiednio przepisy prawa celnego, dotyczące zabezpieczania i poboru należności przywozowych.
+### 3.
 
-**Art. 93b.**
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, przypadki, w których ze względu na rodzaj towaru nie udziela się pozwolenia na odroczenie terminu płatności należności. Wskazując przypadki, w których nie udziela się pozwolenia, należy uwzględnić ryzyko związane z obrotem określonymi kategoriami towarów.
 
-1. Opłaty podlegają odpowiednio zwrotowi lub umorzeniu, gdy okaże się, że w chwili ich uiszczenia lub ustalenia, kwota tych opłat była nienależna.
+### Art. 60.
 
-2. Opłaty nie podlegają zwrotowi lub umorzeniu, w przypadku gdy fakty, które doprowadziły do uiszczenia lub ustalenia opłat nienależnych, są wynikiem świadomego działania osoby zobowiązanej.
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, rodzaje ułatwień płatniczych innych niż odroczenie płatności kwoty należności, warunki ich udzielania, wzór wniosku o udzielenie ułatwienia oraz dokumenty, które należy do niego dołączyć, uwzględniając wysokość odsetek, o których mowa w art. 229 lit. b Wspólnotowego Kodeksu Celnego.
 
-3. Opłaty są zwracane lub umarzane po złożeniu wniosku przed upływem roku od dnia doręczenia decyzji, o której mowa w art. 93a ust. 1.
+### Art. 61.
 
-4. W sprawie zwrotu lub umorzenia opłat w całości lub części organ celny orzeka w drodze decyzji.
+### 1.
 
-5. W zakresie nieuregulowanym w ust. 3 i 4, w odniesieniu do zwrotu lub umorzenia opłat stosuje się odpowiednio przepisy prawa celnego, dotyczące zwrotu lub umorzenia należności przywozowych.
+Jeżeli nie zostało złożone zabezpieczenie albo gdyby kwota złożonego zabezpieczenia nie pokryła kwoty wynikającej z długu celnego, kwota należności może być zabezpieczona na majątku dłużnika przed terminem płatności, jeżeli zachodzi uzasadniona obawa, że nie zostanie ona uiszczona.
 
-**Art. 94.** (uchylony)
+### 2.
 
-**Art. 95.** Pozwolenia wydawane na podstawie przepisów prawa celnego nie podlegają opłacie skarbowej oraz innym opłatom o charakterze publicznoprawnym.
+Zabezpieczenia można dokonać również:
 
-**Art. 95a.** (uchylony)
+### 1)
 
-**Art. 95b.**
+przed zaksięgowaniem kwoty należności;
 
-1. Indywidualne dane zawarte w zgłoszeniu celnym oraz innych dokumentach składanych przez zgłaszającego objęte są tajemnicą celną.
+### 2)
 
-2. Przepis ust. 1 stosuje się również do danych zawartych w:
+w toku postępowania celnego lub kontroli celnej, przed wydaniem decyzji określającej kwotę należności wynikającą z długu celnego.
 
-- **1)** aktach postępowania celnego oraz aktach postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe;
-- **2)** dokumentacji rachunkowej organu celnego;
-- **3)** informacjach uzyskanych przez Szefa Krajowej Administracji Skarbowej lub naczelnika urzędu celno-skarbowego z banków oraz z innych źródeł niż wymienione w ust. 1.
+### 3.
 
-3. Do przestrzegania tajemnicy celnej obowiązani są funkcjonariusze Służby Celno-Skarbowej oraz członkowie korpusu służby cywilnej zatrudnieni w jednostkach organizacyjnych Krajowej Administracji Skarbowej, którzy w związku z wykonywaniem obowiązków uzyskali dostęp do informacji stanowiących tajemnicę celną.
+Zabezpieczenie następuje w drodze decyzji. W przypadku, o którym mowa w ust. 2, organ celny określa w decyzji o zabezpieczeniu przybliżoną kwotę należności w oparciu o dane dotyczące podstawy ustalenia wysokości tej kwoty.
 
-4. Osoby wymienione w ust. 3 są obowiązane do złożenia na piśmie przyrzeczenia następującej treści: „Przyrzekam, że będę przestrzegał tajemnicy celnej. Oświadczam, że są mi znane przepisy o odpowiedzialności karnej za ujawnienie tej tajemnicy.”.
+### 4.
 
-5. Do przestrzegania tajemnicy celnej obowiązane są również inne osoby, którym udostępniono informacje objęte tajemnicą celną, chyba że na ich ujawnienie zezwala przepis prawa.
+Na podstawie decyzji o zabezpieczeniu następuje tymczasowe zajęcie majątku do czasu wydania zarządzenia zabezpieczenia na podstawie przepisów ustawy o postępowaniu egzekucyjnym w administracji.
 
-6. Przepisu ust. 5 nie stosuje się do osób, które przekazały informacje objęte tajemnicą celną.
+### 5.
 
-7. W zakresie nieuregulowanym w ust. 1–6 przepisy art. 294 § 3, art. 295, art. 296–297a oraz art. 299–299b i art. 301 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio.
+W postępowaniu zabezpieczającym nie stosuje się przepisów art. 165 § 2 i art. 200 § 1 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593.](#gloss-0:4:)).
 
-8. Naruszenie tajemnicy celnej podlega odpowiedzialności karnej jak za naruszenie tajemnicy skarbowej.
+### Art. 62.
 
-9. Przepisów o tajemnicy celnej nie stosuje się do informacji podlegających ochronie na podstawie przepisów o ochronie informacji niejawnych.
+### 1.
 
-#### Rozdział 7 Zasady postępowania z towarami objętymi Wspólną Polityką Rolną
+Zabezpieczenie, o którym mowa w art. 61, następuje w trybie określonym w przepisach o postępowaniu egzekucyjnym w administracji.
 
-**Art. 96.**
+### 2.
 
-1. W zakresie przewidzianym dla organów celnych postępowanie z towarami objętymi Wspólną Polityką Rolną obejmuje czynności związane z przywozem towarów na obszar celny Unii i wywozem towarów z tego obszaru oraz:
+Tymczasowe zajęcie, o którym mowa w art. 61 ust. 4, jest skuteczne pod warunkiem wydania zarządzenia zabezpieczenia w terminie 3 dni od dnia wydania decyzji o zabezpieczeniu.
 
-- **1)** sprawdzanie i saldowanie pozwoleń na przywóz lub wywóz oraz świadectw IP, o których mowa w art. 1 ust. 1 rozporządzenia Komisji (WE) nr 1488/2001 z dnia 19 lipca 2001 r. ustanawiającego zasady stosowania rozporządzenia Rady (WE) nr 3448/93 w odniesieniu do obejmowania pewnych ilości niektórych produktów podstawowych wymienionych w załączniku I do Traktatu ustanawiającego Wspólnotę Europejską ustaleniami dotyczącymi uszlachetniania czynnego bez uprzedniego badania warunków gospodarczych (Dz. Urz. UE L 196 z 20.07.2001, str. 9, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 33, str. 126, z późn. zm.);
-- **2)** przyjmowanie, sprawdzanie i potwierdzanie wniosków o refundację;
-- **3)** pobór i badania laboratoryjne próbek towarów;
-- **4)** wydawanie pozwoleń na prowadzenie magazynów żywnościowych;
-- **5)** wydawanie pozwoleń na stosowanie procedury planowej;
-- **6)** uznawanie miejsc załadunku dla potrzeb odpraw towarów wywożonych z wnioskiem o refundację;
-- **7)** wykonywanie czynności dozoru i kontroli celnej w miejscach, w których towary objęte refundacją są składowane lub przetwarzane przed ich wywozem;
-- **8)** inne czynności wynikające z przepisów unijnych regulujących Wspólną Politykę Rolną.
+### Art. 63.
 
-2. Przy wykonywaniu czynności, o których mowa w ust. 1, przepisy dotyczące przywozu towarów na obszar celny Unii i wywozu towarów z tego obszaru oraz wykonywania czynności kontroli celnej stosuje się odpowiednio.
+### 1.
 
-3. Czynności w ramach postępowania z towarami objętymi Wspólną Polityką Rolną w zakresie przewidzianym dla organów celnych są realizowane we współpracy z właściwą agencją płatniczą ustanowioną w przepisach odrębnych.
+Decyzja o zabezpieczeniu, o której mowa w art. 61, wygasa po upływie 10 dni od dnia powiadomienia dłużnika o wysokości zaksięgowanej kwoty należności.
 
-4. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, sposób współpracy organów celnych z agencją płatniczą przy wykonywaniu zadań wynikających z przepisów unijnych regulujących Wspólną Politykę Rolną, uwzględniając konieczność zapewnienia prawidłowej realizacji tych zadań.
+### 2.
 
-5. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dokumenty stosowane w obrocie towarami objętymi Wspólną Polityką Rolną oraz szczegółowe warunki i tryb postępowania z tymi towarami, w zakresie przewidzianym dla organów celnych, mając na uwadze zapewnienie właściwego dozoru i kontroli celnej oraz wykonywania zadań wynikających z przepisów unijnych regulujących Wspólną Politykę Rolną. Rozporządzenie powinno określać wzory i szczegółowy sposób stosowania dokumentów, szczegółowe warunki i tryb wydawania pozwoleń na prowadzenie magazynów żywnościowych i stosowanie procedury planowej oraz szczegółowe warunki i tryb uznawania miejsc uznanych na potrzeby załadunku.
+Wygaśnięcie decyzji o zabezpieczeniu nie narusza zarządzenia zabezpieczenia wydanego na podstawie przepisów o postępowaniu egzekucyjnym w administracji.
 
-#### Rozdział 8 Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Unii
+### Art. 64.
 
-**Art. 97.** Użyte w niniejszym rozdziale określenia oznaczają:
+### 1.
 
-**Art. 98.**
+Jeżeli nie zostało złożone zabezpieczenie albo gdyby kwota złożonego zabezpieczenia nie pokryła długu celnego, towar, na którym ciążą należności, może być przez organ celny zajęty w celu zabezpieczenia kwoty należności, do czasu ich uiszczenia. W tym przypadku stosuje się przepisy art. 30 ust. 2-4.
 
-1. Osoba zobowiązana dokonuje zgłoszeń INTRASTAT na zasadach i w terminach określonych w przepisach unijnych regulujących statystykę dotyczącą obrotu towarowego pomiędzy państwami członkowskimi Unii, przepisach o statystyce publicznej oraz przepisach niniejszej ustawy.
+### 2.
 
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+Jeżeli nie zostanie uiszczona kwota należności za towar, o którym mowa w ust. 1, może on zostać sprzedany przez organ celny w celu pokrycia ciążącej na nim kwoty należności. Przepis art. 33 stosuje się odpowiednio.
 
-- **1)** szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT i korekt tych zgłoszeń oraz przypadki, gdy dokonanie zgłoszenia INTRASTAT lub korekty tego zgłoszenia nie jest wymagane,
-- **2)** wymogi, jakie powinno spełniać zgłoszenie INTRASTAT oraz korekta tego zgłoszenia,
-- **3)** szczegółowy tryb, sposób i terminy dokonywania upomnień oraz szczegółowy tryb dokonywania wezwań,
-- **4)** właściwość miejscową organów celnych w sprawach dotyczących zgłoszeń INTRASTAT i ich korekty – mając na względzie wysokość progów statystycznych, która jest ustalana corocznie przez Prezesa Głównego Urzędu Statystycznego i udostępniana na stronie internetowej Głównego Urzędu Statystycznego, zakres przekazywanych informacji wymaganych od osoby zobowiązanej oraz możliwość wykorzystania systemu teleinformatycznego, a także potrzebę zapewnienia skutecznego egzekwowania wykonania obowiązku przekazywania prawidłowych informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii.
+### Art. 65.
 
-**Art. 99.**
+### 1.
 
-1. Osoba zobowiązana może dokonywać zgłoszeń INTRASTAT przez przedstawiciela.
+Termin, o którym mowa w art. 222 ust. 1 lit. a Wspólnotowego Kodeksu Celnego, wynosi 10 dni.
 
-2. Przedstawicielem, o którym mowa w ust. 1, może być osoba, o której mowa w art. 5 pkt 4 unijnego kodeksu celnego, w szczególności przedstawiciel celny.
+### 2.
 
-**Art. 100.**
+Jeżeli kwota należności nie została uiszczona w terminie, organ celny pokrywa ją ze złożonego zabezpieczenia.
 
-1. W przypadku niewykonania lub nieprawidłowego wykonania obowiązku, o którym mowa w art. 98 ust. 1, organ celny, nie więcej niż trzykrotnie, upomina w postaci papierowej lub elektronicznej osobę zobowiązaną o konieczności złożenia zgłoszenia INTRASTAT lub dokonania korekty zgłoszenia już dokonanego.
+### 3.
 
-2. Organ celny, przed skierowaniem upomnienia o konieczności dokonania korekty zgłoszenia INTRASTAT, może wezwać, telefonicznie, telefaksem lub za pomocą innego środka łączności, osobę zobowiązaną do dokonania korekty zgłoszenia lub złożenia wyjaśnień w tym zakresie.
+Od kwot należności nieuiszczonych w terminie pobiera się odsetki.
 
-**Art. 101.**
+### 4.
 
-1. Na osobę zobowiązaną, która pomimo trzykrotnego upomnienia, o którym mowa w art. 100 ust. 1, za okres sprawozdawczy:
+W przypadku powstania długu celnego na podstawie art. 202-205 oraz art. 210 i art. 211 Wspólnotowego Kodeksu Celnego pobiera się odsetki liczone od dnia jego powstania.
 
-- **1)** nie dokonała zgłoszenia INTRASTAT lub
-- **2)** nie dokonała korekty złożonego uprzednio zgłoszenia INTRASTAT – organ celny może nałożyć karę pieniężną w wysokości 3000 zł.
+### 5.
 
-2. Karę pieniężną, o której mowa w ust. 1, organ celny nakłada w drodze decyzji.
+Organ celny pobiera odsetki w przypadku, gdy kwota wynikająca z długu celnego została zaksięgowana na podstawie nieprawidłowych lub niekompletnych danych podanych przez zgłaszającego w zgłoszeniu celnym, z wyjątkiem, gdy dłużnik udowodni, że podanie nieprawidłowych lub niekompletnych danych spowodowane było okolicznościami niewynikającymi z jego zaniedbania lub świadomego działania. Odsetki pobierane są od dnia powstania długu celnego od kwoty stanowiącej różnicę pomiędzy kwotą należną a kwotą pobraną.
 
-3. Termin płatności kary pieniężnej wynosi 14 dni od dnia doręczenia decyzji.
+### 6.
 
-4. Karę pieniężną uiszcza się gotówką w kasie urzędu skarbowego lub przekazuje na rachunek bankowy urzędu skarbowego określonego na podstawie art. 70 ust. 5.
+Odsetki, o których mowa w ust. 3-5, pobiera się według zasad i w wysokości określonej w odrębnych przepisach, dotyczących pobierania odsetek za zwłokę od należności podatkowych.
 
-5. Kara pieniężna stanowi dochód budżetu państwa.
+### 7.
 
-6. Do dochodzenia kary pieniężnej stosuje się odpowiednio art. 65 ust. 7–11.
+Kwot należności można dochodzić w terminie 5 lat, licząc od dnia, w którym zostały zaksięgowane.
 
-**Art. 102.** Do postępowania w sprawach ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Unii, w zakresie nieuregulowanym przepisami unijnymi regulującymi statystykę dotyczącą obrotu towarowego z państwami członkowskimi Unii, przepisami o statystyce publicznej oraz przepisami niniejszej ustawy, stosuje się odpowiednio przepisy art. 12, działu III rozdziału 14 oraz działów IV i VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+### 8.
 
-#### Rozdział 9 Przepis końcowy
+Bieg przedawnienia terminu, o którym mowa w ust. 7, zostaje przerwany wskutek zastosowania środka egzekucyjnego, o którym dłużnik został zawiadomiony. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym zakończono postępowanie egzekucyjne.
 
-**Art. 103.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 19 marca 2004 r. – Przepisy wprowadzające ustawę – Prawo celne (Dz. U. poz. 623) .
+### 9.
 
+Kolejne wszczęcie postępowania egzekucyjnego nie przerywa biegu terminu przedawnienia.
+
+### 10.
+
+Bieg przedawnienia terminu, o którym mowa w ust. 7, zostaje zawieszony z dniem:
+
+### 1)
+
+wszczęcia postępowania karnego lub postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe;
+
+### 2)
+
+wniesienia skargi do sądu administracyjnego.
+
+### 11.
+
+Termin przedawnienia biegnie dalej od dnia następującego po dniu:
+
+### 1)
+
+prawomocnego zakończenia postępowania karnego lub postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe;
+
+### 2)
+
+doręczenia organowi celnemu prawomocnego orzeczenia sądu administracyjnego.
+
+### Art. 66.
+
+### 1.
+
+Do odpowiedzialności z tytułu długu celnego oraz odsetek, o których mowa w art. 65 ust. 3-5, stosuje się odpowiednio przepisy art. 29 oraz rozdziałów 14 i 15 działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
+
+### 2.
+
+W zakresie wykonania obowiązków o charakterze pieniężnym lub niepieniężnym, wynikających z przepisów prawa celnego, organy celne stosują przepisy o postępowaniu egzekucyjnym w administracji, chyba że przepisy prawa celnego stanowią inaczej.
+
+### Art. 67.
+
+### 1.
+
+Od zwracanych należności organ celny płaci odsetki, gdy niewłaściwe ustalenie kwoty należności było wynikiem błędu organu celnego, a dłużnik w żaden sposób nie przyczynił się do powstania tego błędu. W takim przypadku odsetki oblicza się od dnia zapłaty należności podlegających zwrotowi oraz według zasad i w wysokości określonej w odrębnych przepisach, dotyczących pobierania odsetek za zwłokę od należności podatkowych.
+
+### 2.
+
+W przypadku gdy decyzja o zwrocie należności nie zostanie wykonana w terminie 3 miesięcy od dnia jej wydania, odsetki, które podlegają wypłacie, są obliczane od dnia następującego po dniu upływu tego terminu oraz według zasad i w wysokości określonej w odrębnych przepisach, dotyczących pobierania odsetek za zwłokę od należności podatkowych.
+
+### 3.
+
+Przepisu ust. 2 nie stosuje się w przypadku, gdy wypłata odsetek następuje na podstawie ust. 1.
+
+### Art. 68.
+
+Kwota należności podlegających zwrotowi może zostać zaliczona na zaległe lub bieżące zobowiązania dłużnika wobec organu celnego.
+
+### Rozdział 5 Właściwość organów celnych
+
+### Art. 69.
+
+### 1.
+
+W postępowaniu celnym organami właściwymi są:
+
+### 1)
+
+naczelnik urzędu celnego - jako organ pierwszej instancji;
+
+### 2)
+
+dyrektor izby celnej - jako:
+
+### a)
+
+organ odwoławczy od decyzji naczelnika urzędu celnego,
+
+### b)
+
+organ pierwszej instancji w sprawach określonych w przepisach prawa celnego oraz przepisach odrębnych,
+
+### c)
+
+organ odwoławczy od decyzji wydanych przez ten organ w pierwszej instancji, chyba że przepis szczególny stanowi inaczej;
+
+### 3)
+
+minister właściwy do spraw finansów publicznych - jako:
+
+### a)
+
+organ pierwszej instancji w sprawach stwierdzenia z urzędu nieważności decyzji ostatecznej dyrektora izby celnej,
+
+### b)
+
+organ odwoławczy od decyzji wydanych przez ten organ w pierwszej instancji oraz decyzji, o których mowa w art. 70 ust. 2 pkt 2.
+
+### 2.
+
+Organami wyższego stopnia są organy odwoławcze.
+
+### Art. 70.
+
+### 1.
+
+Dyrektor izby celnej jest właściwy w sprawach, o których mowa w:
+
+### 1)
+
+art. 76, art. 94 ust. 2 lit. b i ust. 4, art. 100, art. 167 ust. 3, art. 172 ust. 2 i 3, art. 191, art. 224 i art. 229 Wspólnotowego Kodeksu Celnego;
+
+### 2)
+
+art. 292 ust. 5, art. 313b, art. 324a, art. 324d, art. 324e, art. 372 ust. 1 lit. a, e, f i h, art. 403 ust. 1, art. 500 i art. 804 Rozporządzenia Wykonawczego;
+
+### 3)
+
+art. 18, art. 31 ust. 1 pkt 2 i 3, art. 32 ust. 1 pkt 1 i 2, art. 34, art. 64 ust. 2 i art. 65 ust. 2 ustawy.
+
+### 2.
+
+Dyrektor lub dyrektorzy izb celnych wyznaczeni przez ministra właściwego do spraw finansów publicznych są właściwi w sprawach dotyczących:
+
+### 1)
+
+pozwoleń na korzystanie z procedury TIR;
+
+### 2)
+
+wiążącej informacji taryfowej i wiążącej informacji o pochodzeniu towaru;
+
+### 3)
+
+prowadzenia listy agentów celnych oraz wydawania decyzji w sprawach wpisu osoby na listę agentów celnych, skreślenia osoby z listy agentów celnych i zawieszenia w działalności agenta celnego;
+
+### 4)
+
+wydawania decyzji w sprawach ochrony praw własności intelektualnej.
+
+### 3.
+
+Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznaczy dyrektora lub dyrektorów izb celnych właściwych do prowadzenia spraw, o których mowa w ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby celnej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, może wyznaczyć dyrektora lub dyrektorów izb celnych właściwych do prowadzenia spraw innych niż określone w ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby celnej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
+
+### Art. 71.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość miejscową organów celnych, mając na uwadze, w szczególności, zakres zadań wykonywanych przez te organy, a także rodzaje procedur celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej, a także gospodarcze potrzeby przedsiębiorców.
+
+### Art. 72.
+
+W przypadku sporu o właściwość miejscową i rzeczową, przepisy art. 19 i 20 ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa stosuje się odpowiednio.
+
+### Rozdział 6 Postępowanie w sprawach celnych
+
+### Art. 73.
+
+### 1.
+
+Do postępowania w sprawach celnych stosuje się odpowiednio przepisy art. 12 oraz działu IV ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, z uwzględnieniem zmian wynikających z przepisów prawa celnego.
+
+### 2.
+
+Do wydawania zaświadczeń stosuje się odpowiednio przepisy działu VIIIa ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
+
+### Art. 74.
+
+W zakresie praw i obowiązków następców prawnych i podmiotów przekształconych stosuje się odpowiednio przepisy rozdziału 14 działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
+
+### Art. 75.
+
+Z zastrzeżeniem art. 78, przedstawicielem może być każda osoba, o której mowa w art. 4 pkt 1 Wspólnotowego Kodeksu Celnego. Przedstawicielem może być, w szczególności, agencja celna, spedytor, przewoźnik.
+
+### Art. 76.
+
+Czynności dokonane przez przedstawiciela w granicach upoważnienia pociągają za sobą skutki bezpośrednio dla osoby, która go ustanowiła.
+
+### Art. 77.
+
+Przedstawiciel może udzielić dalszego upoważnienia do wykonania określonych czynności, za zgodą osoby udzielającej upoważnienia.
+
+### Art. 78.
+
+### 1.
+
+Zgłoszenia celnego jako przedstawiciel bezpośredni osoby zainteresowanej może dokonać wyłącznie osoba, o której mowa w art. 4 pkt 1 Wspólnotowego Kodeksu Celnego, jeżeli jest agentem celnym lub jeżeli w jej imieniu czynności przed organem celnym dokonuje upoważniony pracownik wpisany na listę agentów celnych.
+
+### 2.
+
+Przepis ust. 1 nie ma zastosowania, jeżeli zgłoszenie celne:
+
+### 1)
+
+dotyczy towarów niemających charakteru handlowego;
+
+### 2)
+
+jest dokonywane w imieniu osoby zainteresowanej przez jej pracownika;
+
+### 3)
+
+jest dokonywane w ramach obrotu pocztowego.
+
+### Art. 79.
+
+Agentem celnym jest osoba wpisana na listę agentów celnych.
+
+### Art. 80.
+
+### 1.
+
+Na listę agentów celnych wpisuje się osobę fizyczną, jeżeli spełnia następujące warunki:
+
+### 1)
+
+posiada miejsce zamieszkania we Wspólnocie;
+
+### 2)
+
+ma pełną zdolność do czynności prawnych;
+
+### 3)
+
+korzysta z pełni praw publicznych;
+
+### 4)
+
+posiada co najmniej średnie wykształcenie;
+
+### 5)
+
+nie została skazana prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwo gospodarcze lub za przestępstwo skarbowe;
+
+### 6)
+
+swoim postępowaniem daje rękojmię prawidłowego wykonywania czynności agenta celnego;
+
+### 7)
+
+złożyła z wynikiem pozytywnym egzamin na agenta celnego przed komisją egzaminacyjną, powoływaną przez ministra właściwego do spraw finansów publicznych, lub otrzymała decyzję o uznaniu kwalifikacji do wykonywania zawodu agenta celnego wydaną na podstawie przepisów odrębnych;
+
+### 8)
+
+wystąpiła z wnioskiem o wpis na listę agentów celnych, nie później niż w okresie 2 lat od dnia spełnienia warunku określonego w pkt 7.
+
+### 2.
+
+Z listy agentów celnych skreśla się osobę w przypadku:
+
+### 1)
+
+gdy został naruszony jeden z warunków, o których mowa w ust. 1;
+
+### 2)
+
+niewykonywania czynności agenta celnego przez okres co najmniej pięciu lat;
+
+### 3)
+
+jej śmierci.
+
+### 3.
+
+Działalność agenta celnego może zostać zawieszona na czas toczącego się przeciwko osobie agenta postępowania w sprawach, o których mowa w ust. 1 pkt 5.
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych ogłasza listę agentów celnych w Dzienniku Urzędowym Ministra Finansów.
+
+### Art. 81.
+
+### 1.
+
+Osoba przystępująca do egzaminu, o którym mowa w art. 80 ust. 1 pkt 7, wnosi opłatę egzaminacyjną.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+tryb przeprowadzania egzaminu kwalifikacyjnego osób ubiegających się o uprawnienie do wykonywania czynności agenta celnego oraz sposób powoływania komisji egzaminacyjnej, kwalifikacje członków komisji, zakres i sposób przeprowadzania egzaminu, a także wysokość opłat egzaminacyjnych przeznaczonych na pokrycie działalności i wynagrodzenia jej członków,
+
+### 2)
+
+sposób prowadzenia i tryb dokonywania wpisu na listę agentów celnych
+
+- mając na uwadze, w szczególności, konieczność zapewnienia prawidłowego przebiegu egzaminu, sprawdzenia wiedzy niezbędnej do wykonywania czynności agenta celnego oraz sprawnego i jednolitego postępowania przy dokonywaniu wpisu.
+
+### Art. 82.
+
+### 1.
+
+W przypadku niemożności ustalenia osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, organ celny może podejmować wszelkie niezbędne działania w celu uregulowania sytuacji towaru, w tym także wszcząć i prowadzić postępowanie oraz wydawać decyzje w stosunku do osoby nieznanej.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, decyzja jest wydawana bez oznaczania strony.
+
+### Art. 83.
+
+Pisma skierowane do osób nieznanych z miejsca pobytu lub adresu oraz decyzje, o których mowa w art. 82, wywiesza się na okres 14 dni w siedzibie organu celnego prowadzącego postępowanie. Pisma oraz decyzje uważa się za doręczone po upływie tego terminu.
+
+### Art. 84.
+
+### 1.
+
+Osoba, która nie posiada miejsca zamieszkania lub siedziby na terytorium kraju, jest obowiązana, na żądanie organu celnego i w terminie przez niego wskazanym, do ustanowienia w kraju pełnomocnika do spraw doręczeń. Ustanowienie pełnomocnika jest skuteczne także w postępowaniu, o którym mowa w art. 31 ust. 2.
+
+### 2.
+
+W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, stosuje się odpowiednio art. 83.
+
+### 3.
+
+Organ celny poucza osobę, o której mowa w ust. 1, o skutkach nieustanowienia pełnomocnika do spraw doręczeń, sporządzając z tej czynności pisemny protokół.
+
+### Art. 85.
+
+Organ celny może wszcząć postępowanie z urzędu w sprawach dotyczących towaru przywożonego z terytorium państwa trzeciego lub do niego wywożonego w obrocie pocztowym.
+
+### Art. 86.
+
+### 1.
+
+Organ celny może przyjąć jako dowód w postępowaniu dokumenty sporządzone przez organy celne państwa obcego lub inne uprawnione podmioty państwa obcego.
+
+### 2.
+
+Organ celny może żądać od strony postępowania:
+
+### 1)
+
+urzędowego tłumaczenia na język polski dokumentów sporządzonych w języku obcym;
+
+### 2)
+
+przedłożenia dokumentów zagranicznych zalegalizowanych przez właściwe organy polskie działające w kraju albo polskie przedstawicielstwa dyplomatyczne lub urzędy konsularne.
+
+### Art. 87.
+
+### 1.
+
+Organ celny może zawiesić postępowanie w przypadku, gdy w jego toku wystąpił z wnioskiem o pomoc prawną do organu celnego państwa obcego lub innego uprawnionego podmiotu państwa obcego.
+
+### 2.
+
+Na postanowienie w sprawie zawieszenia postępowania służy zażalenie.
+
+### Art. 88.
+
+Prowadzenie postępowania w sprawie o przestępstwo skarbowe, wykroczenie skarbowe lub postępowania karnego nie stanowi przeszkody do prowadzenia postępowania w sprawie celnej.
+
+### Art. 89.
+
+### 1.
+
+Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia, organ celny przyjmuje od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+### 2.
+
+Przed przyjęciem oświadczenia organ celny uprzedza stronę o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+
+### Art. 90.
+
+Organ celny może, w drodze postanowienia, połączyć toczące się przed nim oddzielne sprawy, w celu ich łącznego rozpoznania lub także rozstrzygnięcia, jeżeli dotyczą tej samej osoby i są ze sobą w związku.
+
+### Art. 91.
+
+Badania lub analizy towaru mogą być wykonywane przez laboratoria celne lub inne laboratoria, akredytowane zgodnie z odrębnymi przepisami, a także przez instytuty naukowe i badawcze dysponujące wyposażeniem niezbędnym dla danego rodzaju badań.
+
+### Art. 92.
+
+### 1.
+
+Organ celny pobiera opłaty z tytułu przeprowadzonych badań lub analiz towarów, w przypadku gdy:
+
+### 1)
+
+badanie lub analiza zostaną przeprowadzone na żądanie osoby;
+
+### 2)
+
+rozpatrzenie wniosku o wydanie wiążącej informacji taryfowej lub wiążącej informacji o pochodzeniu towaru wymaga przeprowadzenia badania lub analizy;
+
+### 3)
+
+osoba będąca do tego zobowiązaną nie podała danych dotyczących rodzaju, wartości, właściwości towaru lub innych informacji niezbędnych do wydania rozstrzygnięcia i pomimo wezwania nie uzupełniła tych danych w wyznaczonym przez organ celny terminie;
+
+### 4)
+
+podane przez osobę dane dotyczące towarów były nieprawdziwe lub nieprawidłowe.
+
+### 2.
+
+Osoba, na wezwanie organu celnego, obowiązana jest do uiszczenia zaliczki w określonej wysokości na pokrycie opłat za badania lub analizy, o których mowa w ust. 1 pkt 1 i 2. W przypadku nieuiszczenia zaliczki w wyznaczonym terminie organ celny wydaje postanowienie o pozostawieniu wniosku bez rozpatrzenia.
+
+### 3.
+
+Kwota opłat i termin jej uiszczenia są ustalane przez organ celny, w drodze postanowienia, na które przysługuje zażalenie. Kwota opłat powinna odpowiadać rzeczywistym wydatkom poniesionym z tytułu przeprowadzonych badań lub analiz.
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, ryczałtowe stawki opłat za badania lub analizy przeprowadzane przez laboratoria celne. Określając stawki opłat, należy uwzględnić rodzaj przeprowadzanych badań lub analiz, stopień ich skomplikowania i pracochłonność.
+
+### Art. 93.
+
+### 1.
+
+Organ celny pobiera opłaty za:
+
+### 1)
+
+przechowanie towarów w depozycie lub w magazynie czasowego składowania prowadzonym przez organ celny;
+
+### 2)
+
+wykonywanie na wniosek osoby zainteresowanej czynności przewidzianych w przepisach prawa celnego w miejscu innym niż urząd celny lub poza czasem pracy urzędu celnego.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, stawki opłat, o których mowa w ust. 1, uwzględniając charakter czynności, za które opłaty te są pobierane.
+
+### Art. 94.
+
+### 1.
+
+Środki finansowe z opłat, o których mowa w art. 93, stanowią dochód budżetu państwa, z tym że 20% tych środków przeznacza się na usprawnienie funkcjonowania organów celnych oraz na premie dla funkcjonariuszy celnych i pracowników podległych ministrowi właściwemu do spraw finansów publicznych, którzy przyczynili się bezpośrednio do wykrycia przestępstw lub wykroczeń celnych i dewizowych.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych określi sposób rozdysponowania środków, o których mowa w ust. 1, oraz zasady przyznawania premii.
+
+### Art. 95.
+
+Pozwolenia wydawane na podstawie przepisów prawa celnego nie podlegają opłacie skarbowej oraz innym opłatom o charakterze publicznoprawnym.
+
+### Rozdział 7 Zasady postępowania z towarami objętymi Wspólną Polityką Rolną
+
+### Art. 96.
+
+### 1.
+
+W zakresie przewidzianym dla organów celnych postępowanie z towarami objętymi Wspólną Polityką Rolną obejmuje czynności związane z przywozem towarów na obszar celny Wspólnoty i wywozem towarów z tego obszaru oraz:
+
+### 1)
+
+sprawdzanie i potwierdzanie pozwoleń na przywóz lub wywóz oraz certyfikatów przywozowych;
+
+### 2)
+
+przyjmowanie, sprawdzanie i potwierdzanie wniosków o refundację;
+
+### 3)
+
+pobór i badania laboratoryjne próbek towarów;
+
+### 4)
+
+zatwierdzanie magazynów żywnościowych;
+
+### 5)
+
+zatwierdzanie miejsc, w których towary mogą być przetwarzane lub składowane w ramach prefinansowania;
+
+### 6)
+
+kontrolę zakładów produkcyjnych w zakresie dostosowania możliwości wytwórczych producenta do zgłoszonej i zarejestrowanej receptury, spełnienia parametrów wytwarzanego towaru, wynikających z receptury oraz weryfikacja receptur;
+
+### 7)
+
+inne czynności wynikające z przepisów wspólnotowych regulujących Wspólną Politykę Rolną.
+
+### 2.
+
+Przy wykonywaniu czynności, o których mowa w ust. 1, przepisy dotyczące przywozu towarów na obszar celny Wspólnoty i wywozu towarów z tego obszaru oraz wykonywania czynności kontroli celnej stosuje się odpowiednio.
+
+### 3.
+
+Czynności w ramach postępowania z towarami objętymi Wspólną Polityką Rolną w zakresie przewidzianym dla organów celnych są realizowane we współpracy z właściwą agencją płatniczą, ustanowioną zgodnie z art. 3 ustawy z dnia 30 lipca 2003 r. o uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej ([Dz. U. Nr 166, poz. 1611](https://api.sejm.gov.pl/eli/acts/DU/2003/1611/text.html) oraz z [2004 r. Nr 42, poz. 386](https://api.sejm.gov.pl/eli/acts/DU/2004/386/text.html)).
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, sposób współpracy organów celnych z agencją płatniczą przy wykonywaniu zadań wynikających z przepisów wspólnotowych regulujących Wspólną Politykę Rolną, uwzględniając konieczność zapewnienia prawidłowej realizacji tych zadań.
+
+### 5.
+
+Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, w drodze rozporządzenia, dokumenty stosowane w obrocie towarami objętymi Wspólną Polityką Rolną oraz zasady postępowania z tymi towarami, w zakresie przewidzianym dla organów celnych. Rozporządzenie powinno określać, w szczególności, wzory i zasady stosowania dokumentów wykorzystywanych w obrocie towarami objętymi Wspólną Polityką Rolną, warunki i tryb zatwierdzania magazynów żywnościowych, miejsc przetwarzania lub składowania towarów w ramach prefinansowania, kontroli zakładów produkcyjnych w zakresie receptur oraz weryfikacji receptur, mając na uwadze konieczność zapewnienia właściwego dozoru i kontroli celnej towarów objętych Wspólną Polityką Rolną oraz prawidłowego wykonania zadań wynikających z przepisów wspólnotowych regulujących Wspólną Politykę Rolną.
+
+### Rozdział 8 Ewidencja i statystyka dotycząca obrotu towarowego z państwami członkowskimi Wspólnoty
+
+### Art. 97.
+
+Użyte w niniejszym rozdziale określenia oznaczają:
+
+### 1)
+
+zgłoszenie INTRASTAT - przekazanie organom celnym, w wymaganej formie i w określony sposób, informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Wspólnoty;
+
+### 2)
+
+osoba zobowiązana - osobę fizyczną lub osobę prawną, a także jednostkę organizacyjną niemającą osobowości prawnej, uczestniczącą w obrocie towarowym z państwami członkowskimi Wspólnoty i zobowiązaną do przekazywania informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Wspólnoty, zgodnie z przepisami wspólnotowymi regulującymi statystykę dotyczącą obrotu towarowego pomiędzy państwami członkowskimi Wspólnoty, przepisami o statystyce publicznej oraz przepisami niniejszej ustawy.
+
+### Art. 98.
+
+### 1.
+
+Osoba zobowiązana dokonuje zgłoszeń INTRASTAT na zasadach i w terminach określonych w przepisach wspólnotowych regulujących statystykę dotyczącą obrotu towarowego pomiędzy państwami członkowskimi Wspólnoty, przepisach o statystyce publicznej oraz przepisach niniejszej ustawy.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowy tryb, sposób i terminy dokonywania zgłoszeń INTRASTAT oraz korekt tych zgłoszeń,
+
+### 2)
+
+wzory i sposób wypełniania formularzy stosowanych przy dokonywaniu zgłoszeń INTRASTAT oraz korekt tych zgłoszeń,
+
+### 3)
+
+właściwość miejscową organów celnych w sprawach dotyczących zgłoszeń INTRASTAT
+
+- uwzględniając wysokość progów statystycznych, zakres przekazywanych informacji wymaganych od osoby zobowiązanej oraz możliwość wykorzystania systemu teleinformatycznego.
+
+### 3.
+
+Wysokość progów statystycznych, o których mowa w ust. 2, będzie ustalana corocznie w programie badań statystycznych statystyki publicznej, o którym mowa w przepisach o statystyce publicznej.
+
+### Art. 99.
+
+### 1.
+
+Osoba zobowiązana może upoważnić osobę trzecią do dokonywania w jej imieniu zgłoszeń INTRASTAT. Upoważnienie powinno zostać sporządzone w formie pisemnej.
+
+### 2.
+
+Osobą trzecią, o której mowa w ust. 1, może być:
+
+### 1)
+
+pracownik osoby zobowiązanej lub jej prokurent;
+
+### 2)
+
+agent celny lub osoba, w imieniu której czynności przed organem celnym dokonuje upoważniony pracownik wpisany na listę agentów celnych;
+
+### 3)
+
+adwokat;
+
+### 4)
+
+radca prawny;
+
+### 5)
+
+doradca podatkowy.
+
+### 3.
+
+Czynności dokonane przez osobę, o której mowa w ust. 2, w granicach upoważnienia pociągają za sobą skutki bezpośrednio dla osoby, która ją upoważniła.
+
+### Art. 100.
+
+### 1.
+
+W przypadku niewykonania lub nieprawidłowego wykonania obowiązku, o którym mowa w art. 98 ust. 1, organ celny, nie więcej niż trzykrotnie, upomina pisemnie osobę zobowiązaną o konieczności złożenia zgłoszenia INTRASTAT lub dokonania korekty zgłoszenia już dokonanego.
+
+### 2.
+
+Organ celny, przed skierowaniem pisemnego upomnienia o konieczności dokonania korekty zgłoszenia INTRASTAT, może wezwać, telefonicznie, telefaksem lub za pomocą innego środka łączności, osobę zobowiązaną do dokonania korekty zgłoszenia lub złożenia wyjaśnień w tym zakresie.
+
+### 3.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy tryb, sposób i terminy dokonywania upomnień oraz wezwań, uwzględniając potrzebę zapewnienia skutecznego egzekwowania wykonania obowiązku przekazywania prawidłowych informacji dla celów ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Wspólnoty.
+
+### Art. 101.
+
+### 1.
+
+Na osobę zobowiązaną, która pomimo trzykrotnego pisemnego upomnienia, o którym mowa w art. 100 ust. 1, za okres sprawozdawczy:
+
+### 1)
+
+nie dokonała zgłoszenia INTRASTAT lub
+
+### 2)
+
+nie dokonała korekty złożonego uprzednio zgłoszenia INTRASTAT
+
+- organ celny może nałożyć karę pieniężną w wysokości 3 000 zł.
+
+### 2.
+
+Karę pieniężną, o której mowa w ust. 1, organ celny nakłada w drodze decyzji.
+
+### 3.
+
+Termin płatności kary pieniężnej wynosi 10 dni od dnia doręczenia decyzji.
+
+### 4.
+
+Karę pieniężną uiszcza się gotówką w kasie urzędu celnego lub przekazuje na rachunek bankowy właściwego organu celnego.
+
+### 5.
+
+Kara pieniężna stanowi dochód budżetu państwa.
+
+### 6.
+
+Do dochodzenia kary pieniężnej stosuje się odpowiednio art. 65 ust. 7-11.
+
+### Art. 102.
+
+Do postępowania w sprawach ewidencji i statystyki dotyczącej obrotu towarowego z państwami członkowskimi Wspólnoty, w zakresie nieuregulowanym przepisami wspólnotowymi regulującymi statystykę dotyczącą obrotu towarowego z państwami członkowskimi Wspólnoty, przepisami o statystyce publicznej oraz przepisami niniejszej ustawy, stosuje się odpowiednio przepisy art. 12, rozdziału 14 działu III oraz działów IV i VIIIa ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
+
+### Rozdział 9 Przepis końcowy
+
+### Art. 103.
+
+Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą z dnia 19 marca 2004 r. - Przepisy wprowadzające ustawę - Prawo celne ([Dz. U. Nr 68, poz. 623](https://api.sejm.gov.pl/eli/acts/DU/2004/623/text.html)).
+
+2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2002 r. Nr 41, poz. 365, Nr 89, poz. 804 i Nr 153, poz. 1271, z 2003 r. Nr 120, poz. 1122, Nr 137, poz. 1302, Nr 199, poz. 1939 i Nr 217, poz. 2124 oraz z 2004 r. Nr 29, poz. 257. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984, Nr 127, poz. 1090, Nr 141, poz. 1178, Nr 153, poz. 1271, Nr 169, poz. 1387, Nr 199, poz. 1672, Nr 200, poz. 1679 i Nr 216, poz. 1824 oraz z 2003 r. Nr 80, poz. 718, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 193, poz. 1884, Nr 217, poz. 2124 i Nr 228, poz. 2255. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1083, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062, z 2000 r. Nr 94, poz. 1037, Nr 116, poz. 1216, Nr 120, poz. 1268 i Nr 122, poz. 1315, z 2001 r. Nr 16, poz. 166, Nr 39, poz. 459, Nr 42, poz. 475, Nr 110, poz. 1189, Nr 125, poz. 1368 i Nr 130, poz. 1452, z 2002 r. Nr 89, poz. 804, Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188, Nr 137, poz. 1302, Nr 170, poz. 1660 i Nr 228, poz. 2255 i 2256 oraz z 2004 r. Nr 29, poz. 257 i Nr 64, poz. 593.

@@ -1,0 +1,198 @@
+---
+title: "Rozporządzenie Ministra Kultury i Dziedzictwa Narodowego z dnia 5 stycznia 2012 r. w sprawie Medalu \"Zasłużony Kulturze Gloria Artis\""
+address: WDU20120000070
+eli: DU/2012/70
+publisher: DU
+year: 2012
+pos: 70
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 5 stycznia 2012 r. w sprawie Medalu „Zasłużony Kulturze Gloria Artis”
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2012 poz. 70 |
+| ISAP | WDU20120000070 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2012-01-05 |
+| Data wydania | 2012-01-19 |
+| Wejście w życie | 2012-02-03 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/70/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/70) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Medal „Zasłużony Kulturze Gloria Artis” (wzór)](#part_2)
+
+- [Załącznik nr 2 - Miniatura medalu „Zasłużony Kulturze Gloria Artis” (wzór)](#part_3)
+
+- [Załącznik nr 3 - Wniosek o nadanie Medalu „Zasłużony Kulturze Gloria Artis” (wzór)](#part_4)
+
+- [Załącznik nr 4 - Legitymacja potwierdzająca nadanie medalu „Zasłużony Kulturze Gloria Artis” (wzór)](#part_5)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 7 ust. 5 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej ([Dz. U. z 2001 r. Nr 13, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/2001/123/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111, z 2006 r. Nr 227, poz. 1658, z 2009 r. Nr 62, poz. 504 oraz z 2011 r. Nr 207, poz. 1230.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa wzór odznaki Medalu „Zasłużony Kulturze Gloria Artis”, zwanego dalej „Medalem”, oraz miniatury odznaki Medalu, wzór wniosku o nadanie Medalu, wzór legitymacji potwierdzającej nadanie Medalu, tryb wydawania legitymacji potwierdzającej nadanie Medalu i warunki wydawania jej duplikatu oraz sposób noszenia odznaki Medalu i miniatury odznaki Medalu.
+
+### § 2.
+
+### 1.
+
+Odznaka Medalu ma postać stylizowanego kwiatu. Średnica odznaki Medalu Złotego wynosi 70 mm, Srebrnego 55 mm i Brązowego 40 mm. W środkowej części awersu znajduje się nakładka ze stylizowanym orłem w koronie. W środkowej części rewersu jest umieszczona nakładka przedstawiająca twarz kobiety z wieńcem z liści laurowych. Powyżej znajduje się półkolisty napis „Gloria Artis”.
+
+### 2.
+
+Odznaka Medalu jest wykonana z tombaku srebrzonego oksydowanego. Wewnętrzna część płatków kwiatu na awersie jest wypełniona emalią:
+
+### 1)
+
+zieloną - w przypadku Medalu Złotego;
+
+### 2)
+
+niebieską - w przypadku Medalu Srebrnego;
+
+### 3)
+
+wiśniową - w przypadku Medalu Brązowego.
+
+### 3.
+
+Nakładki z orłem są wykonane w odznace:
+
+### 1)
+
+Medalu Złotego z metalu koloru złotego;
+
+### 2)
+
+Medalu Srebrnego z metalu koloru srebrnego;
+
+### 3)
+
+Medalu Brązowego z metalu koloru brązowego.
+
+### 4.
+
+Odznaka Medalu Złotego jest zawieszona na wstążce o długości 680 mm i szerokości 50 mm, koloru zielonego z dwoma pionowymi paskami - białym i czerwonym szerokości 13 mm.
+
+### 5.
+
+Odznaka Medalu Srebrnego jest zawieszona na wstążce o długości 60 mm i szerokości 35 mm koloru niebieskiego z dwoma pionowymi paskami - białym i czerwonym szerokości 5 mm.
+
+### 6.
+
+Odznaka Medalu Brązowego jest zawieszona na wstążce o długości 55 mm i szerokości 35 mm koloru bordowego z dwoma pionowymi paskami - białym i czerwonym szerokości 5 mm.
+
+### 7.
+
+Wzór graficzny odznaki Medalu określa załącznik nr 1 do rozporządzenia.
+
+### § 3.
+
+### 1.
+
+Odznaka miniatury Medalu jest jednostronnie tłoczona, patynowana (brązowiona), ma średnicę 17 mm i przedstawia, w zależności od stopnia Medalu, rewers Medalu Złotego barwiony zieloną farbą żywiczną, rewers Medalu Srebrnego barwiony niebieską farbą żywiczną albo rewers Medalu Brązowego barwiony wiśniową farbą żywiczną.
+
+### 2.
+
+Odznaka miniatury Medalu jest zapinana na sztyft.
+
+### 3.
+
+Wzór graficzny odznaki miniatury Medalu określa załącznik nr 2 do rozporządzenia.
+
+### § 4.
+
+Wzór wniosku o nadanie Medalu określa załącznik nr 3 do rozporządzenia.
+
+### § 5.
+
+### 1.
+
+Legitymacja potwierdzająca nadanie odznaki Medalu jest wręczana osobie wyróżnionej wraz z odznaką Medalu i miniaturą odznaki Medalu.
+
+### 2.
+
+Odbiór legitymacji potwierdza osoba wyróżniona, a w przypadku gdy osobą wyróżnioną jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej - jej przedstawiciel, własnoręcznym i czytelnym podpisem.
+
+### 3.
+
+W przypadku gdy odznaka Medalu jest wręczana poza urzędem obsługującym ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, zwanego dalej „ministrem”, potwierdzenia odbioru legitymacji może również dokonać osoba upoważniona przez osobę wyróżnioną.
+
+### 4.
+
+Jeżeli osobą wyróżnioną jest osoba fizyczna, która nie może odebrać Medalu, potwierdzenia odbioru legitymacji dokonuje członek rodziny osoby wyróżnionej albo inna osoba upoważniona przez osobę wyróżnioną.
+
+### § 6.
+
+### 1.
+
+Legitymacja potwierdzająca nadanie odznaki Medalu ma wymiary 152 mm × 107 mm. Na zewnętrznej stronie legitymacji wydrukowane jest godło państwa.
+
+### 2.
+
+Wzór legitymacji określa załącznik nr 4 do rozporządzenia.
+
+### § 7.
+
+### 1.
+
+Odznakę Medalu Złotego nosi się na szyi, a odznakę Medalu Srebrnego, Medalu Brązowego oraz miniaturę odznaki Medalu nosi się na lewej stronie piersi.
+
+### 2.
+
+W przypadku przyznania odznaki Medalu osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej odznaka Medalu i miniatura odznaki Medalu jest przechowywana w obiekcie stanowiącym jej siedzibę w sposób zapewniający należyty szacunek.
+
+### § 8.
+
+### 1.
+
+W przypadku zniszczenia lub utraty legitymacji potwierdzającej nadanie odznaki Medalu, na wniosek osoby wyróżnionej, a w przypadku osoby fizycznej również na wniosek członka jej rodziny, wydaje się duplikat legitymacji potwierdzającej nadanie odznaki Medalu.
+
+### 2.
+
+Wniosek wraz z uzasadnieniem składa się do ministra.
+
+### 3.
+
+Duplikat legitymacji wydaje się nieodpłatnie na druku według wzoru obowiązującego w dniu wydania oryginału legitymacji potwierdzającej nadanie odznaki Medalu. Na drugiej stronie legitymacji należy umieścić wyraz „Duplikat”, a na dole trzeciej strony dodać wyrazy „oryginał podpisał” i wymienić ministra, który podpisał oryginał legitymacji, oraz zamieścić datę i czytelny podpis przedstawiciela właściwej komórki organizacyjnej urzędu obsługującego ministra wystawiającej duplikat legitymacji.
+
+### 4.
+
+Odbiór duplikatu legitymacji potwierdza osoba wyróżniona, a w przypadku gdy osobą wyróżnioną jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej - jej przedstawiciel, własnoręcznym i czytelnym podpisem. W przypadku gdy osobą wyróżnioną jest osoba fizyczna, która nie może odebrać duplikatu legitymacji, odbiór potwierdza członek rodziny osoby wyróżnionej albo inna osoba upoważniona przez osobę wyróżnioną.
+
+### § 9.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.[3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 20 lipca 2005 r. w sprawie nadawania Medalu „Zasłużony Kulturze Gloria Artis” (Dz. U. Nr 149, poz. 1235 oraz z 2006 r. Nr 21, poz. 158), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).](#gloss-0:3:)
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 364, z 2003 r. Nr 96, poz. 874, Nr 162, poz. 1568 i Nr 213, poz. 2081, z 2004 r. Nr 11, poz. 96 i Nr 261, poz. 2598, z 2005 r. Nr 131, poz. 1091 i Nr 132, poz. 1111, z 2006 r. Nr 227, poz. 1658, z 2009 r. Nr 62, poz. 504 oraz z 2011 r. Nr 207, poz. 1230. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Kultury z dnia 20 lipca 2005 r. w sprawie nadawania Medalu „Zasłużony Kulturze Gloria Artis” (Dz. U. Nr 149, poz. 1235 oraz z 2006 r. Nr 21, poz. 158), które traci moc z dniem wejścia w życie niniejszego rozporządzenia na podstawie art. 13 pkt 1 ustawy z dnia 31 sierpnia 2011 r. o zmianie ustawy o organizowaniu i prowadzeniu działalności kulturalnej oraz niektórych innych ustaw (Dz. U. Nr 207, poz. 1230).
+
+## Załącznik nr 1 - Medal „Zasłużony Kulturze Gloria Artis” (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 2 - Miniatura medalu „Zasłużony Kulturze Gloria Artis” (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 3 - Wniosek o nadanie Medalu „Zasłużony Kulturze Gloria Artis” (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 4 - Legitymacja potwierdzająca nadanie medalu „Zasłużony Kulturze Gloria Artis” (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

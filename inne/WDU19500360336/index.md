@@ -8,11 +8,9 @@ pos: 336
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zawodzie felczera
-
-*USTAWA dnia 20 lipca 1950 r.*
+# Ustawa z dnia 20 lipca 1950 r. o zawodzie felczera
 
 | Pole | Wartość |
 |---|---|
@@ -24,113 +22,204 @@ domain: null
 | Data ogłoszenia | 1950-07-20 |
 | Data wydania | 1950-08-26 |
 | Ostatnia zmiana | 2026-04-17 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500360336) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1950/336/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1950/336/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1950/336) |
 
-**Art. 1.** Zawód felczera może wykonywać osoba, której Naczelna Rada Lekarska przyznała prawo wykonywania zawodu która jest jednocześnie wpisana do Centralnego Rejestru Felczerów prowadzonego przez Naczelną Radę Lekarską.
+## Treść ustawy
 
-**Art. 1a.**
+### Art. 1.
 
-1. (uchylony) (uchylony)
+### 1.
 
-3. (uchylony)
+Prawo wykonywania zawodu i używania tytułu felczera przysługuje obywatelom polskim, którzy:
 
-4. (uchylony)
+### 1)
 
-5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej, określi, drodze rozporządzenia, wzór dokumentu „Prawo wykonywania zawodu felczera”, uwzględniając szczególności niezbędne dane osobowe felczera, numer prawa wykonywania zawodu, adnotacje o wpisie do rejestru oraz dane dotyczące kwalifikacji felczera.
+ukończyli liceum felczerskie bądź szkołę felczerską w Polsce albo
 
-**Art. 1b.** (uchylony)
+### 2)
 
-**Art. 1c.**
+w dniu wejścia w życie niniejszej ustawy byli uprawnieni do wykonywania czynności felczerskich na podstawie dotychczasowych przepisów, albo
 
-1. Felczer, który uzyskał prawo wykonywania zawodu, podlega wpisowi do rejestru prowadzonego przez Naczelną Radę Lekarską. Naczelna Rada Lekarska określi szczegółowy tryb prowadzenia Centralnego Rejestru Felczerów. [3. Naczelna Rada Lekarska udostępnia informacje zawarte rejestrze felczerów, systemowi informacji ochronie zdrowia, o którym mowa ustawie <3. Naczelna Rada Lekarska udostępnia informacje zawarte rejestrze felczerów systemowi informacji ochronie zdrowia, o którym mowa ustawie dnia 28 kwietnia 2011 r. o systemie informacji ochronie zdrowia (Dz. U. 2025 r. poz. 302, 779, 1537 1705), oraz Zakładowi Ubezpieczeń Społecznych dla celów określonych art. 56 ust. 5 pkt 3 ustawy dnia 25 czerwca 1999 r. o świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa (Dz. U. 2025 r. poz. 501 1083 oraz 2026 r. poz. 26).>
+### 3)
 
-**Art. 1.** Wykonywanie zawodu felczera polega na udzielaniu świadczeń zdrowotnych, a szczególności:
+po dniu 9 maja 1945 r. ukończyli Oficerską Szkołę Instruktorów Sanitarnych przy Centrum Wyszkolenia Sanitarnego w Łodzi.
 
-**Art. 2a.**
+### 2.
 
-1. Felczer albo starszy felczer tracą prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej mocy prawa przypadku ubezwłasnowolnienia. Felczer albo starszy felczer posiadający prawo wykonywania zawodu niewykonujący zawodu przez 5 lat tracą prawo do wykonywania zawodu podlegają wykreśleniu Centralnego Rejestru Felczerów. niedostatecznego przygotowania zawodowego felczera, Naczelna Rada Lekarska powołuje komisję złożoną lekarzy o odpowiednich kwalifikacjach zawodowych, która wydaje opinię o przygotowaniu zawodowym felczera. Felczer ma obowiązek stawienia się przed komisją. O powołaniu komisji Naczelna Rada Lekarska powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni.
+Minister Zdrowia może przyznawać prawo wykonywania zawodu i używania tytułu felczera obywatelom polskim, którzy za granicą w myśl obowiązujących tam przepisów nabyli równorzędne uprawnienia. Minister Zdrowia może uzależnić przyznanie tego prawa od złożenia przez kandydata egzaminu w liceum felczerskim z niektórych przedmiotów, objętych programem tego liceum.
 
-3. Naczelna Rada Lekarska, na podstawie opinii komisji, o której mowa ust. 1, może zobowiązać felczera do odbycia przeszkolenia uzupełniającego organizowanego przeprowadzanego przez okręgową radę lekarską właściwą dla miejsca zamieszkania felczera oraz zawiesić prawo wykonywania zawodu do czasu ukończenia przeszkolenia uzupełniającego, zwanego dalej „przeszkoleniem”.
+### Art. 2.
 
-4. Okręgowa rada lekarska ustala program, miejsce oraz sposób przeszkolenia.
+### 1.
 
-5. Przeszkolenie trwa nie dłużej niż 1 rok obejmuje zajęcia teoretyczne praktyczne. Koszt przeszkolenia teoretycznego ponosi felczer, a wpływy tego tytułu stanowią przychód okręgowej rady lekarskiej. Wysokość opłaty za przeszkolenie teoretyczne nie może przewyższać planowanych kosztów związanych jego przeprowadzeniem.
+Wykonywanie zawodu felczera obejmuje:
 
-6. Warunki odbywania przeszkolenia praktycznego określa umowa o prowadzenie przeszkolenia praktycznego, zawarta między felczerem a podmiotem realizującym to przeszkolenie.
+### 1)
 
-7. W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa ust. 1, lub uchylania się od uczestnictwa przeszkoleniu Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu ukończenia przeszkolenia.
+udzielanie pomocy ludności w przypadkach zachorowania lub zagrożenia chorobą w granicach, ustalonych przez Ministra Zdrowia (art. 4),
 
-**Art. 2c.**
+### 2)
 
-1. Jeżeli zaistnieją przesłanki uzasadniające podejrzenie niezdolności felczera do wykonywania zawodu ze względu na stan zdrowia, Naczelna Rada do wykonywania zawodu felczera. O powołaniu komisji minister właściwy do spraw zdrowia powiadamia niezwłocznie felczera, którego postępowanie dotyczy. Termin stawienia się felczera przed komisją powinien być tak wyznaczony, aby między doręczeniem felczerowi zawiadomienia a dniem stawienia się przed komisją upłynęło co najmniej 14 dni.
+szerzenie oświaty sanitarnej,
 
-3. Felczer ma obowiązek stawienia się przed komisją, o której mowa ust. 1, poddania się niezbędnym badaniom.
+### 3)
 
-4. Felczer, którego dotyczy postępowanie, o którym mowa ust. 1, jest uprawniony do uczestnictwa posiedzeniu komisji czasie rozpatrywania sprawy.
+wykonywanie czynności sanitarnych z zakresu: higieny pracy, zwalczania chorób zakaźnych i zapobiegania tym chorobom oraz nadzoru nad artykułami żywności i przedmiotami użytku,
 
-5. Komisja powinna wydać orzeczenie nie później niż ciągu 2 miesięcy od dnia powołania.
+### 4)
 
-6. W razie nieusprawiedliwionego niestawienia się felczera przed komisją, o której mowa ust. 1, Naczelna Rada Lekarska zawiesza prawo wykonywania zawodu do czasu zakończenia postępowania przed komisją.
+wydawanie orzeczeń o stanie zdrowia,
 
-7. Naczelna Rada Lekarska, na podstawie orzeczenia komisji o niezdolności felczera do wykonywania zawodu, zawiesza prawo wykonywania zawodu felczera na okres trwania niezdolności lub stwierdza o utracie prawa wykonywania zawodu.
+### 5)
 
-8. Postępowanie, o którym mowa ust. 1, jest poufne.
+stwierdzanie zgonów.
 
-**Art. 2d.** Zadania Naczelnej Rady Lekarskiej, o których mowa art. 1c, oraz prace komisji, o których mowa art. 2b art. 2c, są finansowane budżetu państwa, części, której dysponentem jest minister właściwy do spraw zdrowia. Członkom komisji przysługuje za każde posiedzenie komisji wynagrodzenie wysokości 10% przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłaty nagród zysku za ubiegły rok, ogłaszanego, drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 2.
 
-**Art. 2e.**
+Czynności, określone w ust. 1 pkt 1) i 4), felczer może wykonywać jedynie w zakładach społecznych służby zdrowia. W punktach felczerskich felczer wykonuje te czynności samodzielnie, w innych zaś zakładach społecznych służby zdrowia - pod kierunkiem lekarza.
 
-1. Jeżeli przepisy ustawy nie stanowią inaczej, sprawach, o których mowa art. 2a ust. 1, art. 2b ust. 1–3 7 oraz art. 2c ust. 1, 6 7, stosuje się się do decyzji administracyjnych. Od rozstrzygnięcia sprawach, o których mowa ust. 1, przysługuje wniosek do Naczelnej Rady Lekarskiej o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od decyzji.
+### 3.
 
-3. Uchwały Naczelnej Rady Lekarskiej sprawach, o których mowa ust. 1 2, podpisują prezes albo wiceprezes oraz sekretarz Naczelnej Rady Lekarskiej.
+Przepis ust. 2 nie dotyczy czynności, związanych z udzielaniem pomocy w nagłych wypadkach.
 
-**Art. 3.**
+### Art. 3.
 
-1. Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje tytuł starszego felczera. Starszy felczer czynności określone art. 2 ust. 1 wykonuje samodzielnie podmiocie leczniczym.
+### 1.
 
-3. (uchylony)
+Felczerowi, wykonującemu zawód ponad trzy lata, przysługuje po odbyciu kursu dokształcającego tytuł starszego felczera.
 
-4. (uchylony)
+### 2.
 
-**Art. 3a.** Starszy felczer albo felczer może wydać ubezpieczonemu orzeczenie o czasowej niezdolności do pracy jednorazowo do 7 dni, tym że łącznie orzeczony okres niezdolności do pracy nie może być dłuższy niż 14 dni.
+Starszy felczer jest uprawniony od samodzielnego wykonywania czynności, określonych w art. 2 ust. 1 pkt 1) i 4), nie tylko w punktach felczerskich, lecz również w innych zakładach społecznych służby zdrowia.
 
-**Art. 4.**
+### 3.
 
-1. Felczer lub starszy felczer mają prawo przepisywać produkty lecznicze, które są dopuszczone do obrotu na terytorium Rzeczypospolitej Polskiej, wyłączeniem leków bardzo silnie działających oraz niektórych środków odurzających psychotropowych, oraz środki spożywcze specjalnego przeznaczenia żywieniowego, oraz wyroby medyczne, wyposażenie wyrobów medycznych, systemy zestawy zabiegowe, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego Rady (UE) 2017/745 dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG 93/42/EWG (Dz. Urz. UE L 117 05.05.2017, str. 1, późn. zm. ), oraz wyroby do samokontroli pojemniki na próbki, rozumieniu przepisów rozporządzenia Parlamentu Europejskiego Rady (UE) 2017/746 dnia 5 kwietnia 2017 r. str. 176, późn. zm. ).
+Minister Zdrowia ustala, w jakich zakładach i na jakich stanowiskach może być zatrudniony starszy felczer.
 
-1a. W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept, stosuje się odpowiednio art. 42 ust. 2 oraz art. 45 ust. 2 2a ustawy dnia 5 grudnia 1996 r. o zawodach lekarza lekarza dentysty (Dz. U. 2021 r. poz. 790, późn. zm. ) oraz art. 95aa–96d ustawy dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. 2021 r. poz. 1977 2120 oraz 2022 r. poz. 830, 974, 1095 1344). Minister właściwy do spraw zdrowia określi, drodze rozporządzenia:
+### 4.
 
-- **1)** szczegółowy zakres uprawnień zawodowych felczera, uwzględniając szczególności czynności wykonywane samodzielnie czynności wykonywane pod kierunkiem lekarza;
-- **2)** wykaz leków spośród środków odurzających psychotropowych oraz leków silnie działających, które mogą być przepisywane na recepcie przez felczera, uwzględniając szczególności wskazania terapeutyczne bezpieczeństwo stosowania leków;
-- **3)** sposób oznaczania recept wystawianych przez felczera, uwzględnieniem danych dotyczących felczera.
+Minister Zdrowia ustala program, organizację i warunki odbywania kursów dokształcających dla felczerów oraz tryb przyjmowania na te kursy.
 
-**Art. 5.** (uchylony)
+### Art. 4.
 
-**Art. 6.** W nagłych wypadkach nie wolno felczerowi (starszemu felczerowi) odmówić udzielenia pomocy choremu do czasu przybycia lekarza.
+Szczegółowy zakres czynności, do których wykonywania jest uprawniony felczer (starszy felczer), określa Minister Zdrowia w drodze rozporządzenia.
 
-**Art. 7.**
+### Art. 5.
 
-1. Felczer (starszy felczer) obowiązany jest do zachowania tajemnicy wszystkiego, o czym poweźmie wiadomość związku wykonywaniem zawodu. Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto przypadkach: ujawnienie tajemnicy;
+### 1.
 
-- **3)** gdy zachowanie tajemnicy może spowodować istotne niebezpieczeństwo dla życia zdrowia osoby, korzystającej pomocy felczera (starszego felczera) lub dla otoczenia tej osoby.
+W związku z samodzielnym wykonywaniem czynności, określonych w art. 2 ust. 1 pkt 1) felczer (starszy felczer) jest uprawniony do wystawiania recept.
 
-**Art. 7a.**
+### 2.
 
-1. Felczer (starszy felczer) jest uprawniony do zgłaszania Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych Produktów Biobójczych lub podmiotowi odpowiedzialnemu za wprowadzenie produktu leczniczego do obrotu działania niepożądanego produktu leczniczego. Zgłoszenia, o którym mowa ust. 1, felczer dokonuje zgodnie ustawą dnia 6 września 2001 r. – Prawo farmaceutyczne.
+Minister Zdrowia określa w drodze rozporządzenia zasady wystawiania recept przez felczera (starszego felczera) oraz wykaz leków, które może on zapisywać.
 
-**Art. 8.** (uchylony)
+### Art. 6.
 
-**Art. 9.**
+W nagłych wypadkach nie wolno felczerowi (starszemu felczerowi) odmówić udzielenia pomocy choremu do czasu przybycia lekarza.
 
-1. Kto nie będąc uprawnionym udziela zawodowo świadczeń, o których mowa art. 2 3, podlega karze grzywny. W przypadku określonym ust. 1 orzekanie następuje trybie przepisów o postępowaniu sprawach o wykroczenia.
+### Art. 7.
 
-**Art. 10.** (uchylony)
+### 1.
 
-**Art. 11.** (uchylony)
+Felczer (starszy felczer) obowiązany jest do zachowania w tajemnicy wszystkiego, o czym poweźmie wiadomość w związku z wykonywaniem zawodu.
 
-**Art. 12.** Uchyla się ustawę dnia 1 lipca 1921 r. o uprawnieniach do wykonywania czynności felczerskich (Dz. U. R. P. 1921 r. poz. 396, 1934 r. poz. 976 oraz 1946 r. poz. 312).
+### 2.
 
-**Art. 13.** (uchylony)
+Od obowiązku zachowania tajemnicy felczer (starszy felczer) jest zwolniony w stosunku do lekarza, sprawującego nadzór fachowy nad danym zakładem bądź kierującego czynnościami felczera (starszego felczera), a ponadto w przypadkach:
 
-**Art. 14.** Ustawa wchodzi życie dniem ogłoszenia .
+### 1)
 
+gdy z mocy szczególnych przepisów jest on obowiązany, donieść władzom o określonych okolicznościach,
+
+### 2)
+
+gdy osoba, korzystająca z jego pomocy lub jej prawny zastępca, zezwolą na ujawnienie tajemnicy,
+
+### 3)
+
+gdy zachowanie tajemnicy może spowodować istotne niebezpieczeństwo dla życia i zdrowia osoby, korzystającej z pomocy felczera (starszego felczera) lub dla otoczenia tej osoby.
+
+### Art. 8.
+
+### 1.
+
+W celu przygotowania kadr felczerów Minister Zdrowia prowadzi:
+
+### 1)
+
+licea felczerskie dla osób, posiadających wykształcenie na poziomie ośmiu klas szkoły podstawowej,
+
+### 2)
+
+szkoły felczerskie dla osób, wyróżniających się doświadczeniem w zakresie opieki nad chorymi oraz wysokimi kwalifikacjami społecznymi, które:
+
+### a)
+
+posiadają stałe prawo wykonywania praktyki pielęgniarskiej oraz po uzyskaniu tego prawa wykonywały zawód pielęgniarki (pielęgniarza) albo
+
+### b)
+
+uzyskały zaliczenie trzech lat studiów na wydziale lekarskim polskiej szkoły akademickiej.
+
+### 2.
+
+Nauczanie w liceach felczerskich trwa trzy lata, w szkołach felczerskich zaś - rok i sześć miesięcy.
+
+### 3.
+
+Do liceum felczerskiego mogą być przyjęte osoby bez względu na wykształcenie szkolne pod warunkiem złożenia egzaminu wstępnego w zakresie, odpowiadającym wykształceniu szkolnemu, określonemu w ust. 1 pkt 1).
+
+### 4.
+
+Minister Zdrowia w porozumieniu z Ministrem Oświaty ustala:
+
+### 1)
+
+organizację i programy liceów i szkół felczerskich,
+
+### 2)
+
+warunki i tryb przyjmowania kandydatów, a w szczególności okres wykonywania zawodu przez osoby, określone w ust. 1 pkt 2) lit a), nie krótszy jednak niż jeden rok oraz
+
+### 3)
+
+szczegółowy zakres egzaminu wstępnego (ust. 3).
+
+### 5.
+
+Uprawnienia Ministra Zdrowia, przewidziane w ustępach poprzedzających, przysługują odpowiednio Ministrowi Obrony Narodowej, który organizację i programy liceów i szkół felczerskich, warunki przyjmowania kandydatów oraz szczegółowy zakres egzaminu wstępnego ustala ponadto w porozumieniu z Ministrem Zdrowia.
+
+### Art. 9.
+
+### 1.
+
+Felczer (starszy felczer), który przedsiębierze czynności, przekraczające jego uprawnienia zawodowe lub odmawia udzielenia pomocy choremu wbrew obowiązkom, ustalonym w niniejszej ustawie - podlega karze aresztu do roku i grzywny lub jednej z tych kar.
+
+### 2.
+
+Felczer (starszy felczer), który ujawnia tajemnicę zawodową wbrew obowiązkowi, określonemu w art. 7 - podlega karze aresztu do trzech miesięcy i grzywny do 150.000 zł lub jednej z tych kar.
+
+### 3.
+
+Do orzekania w sprawach, określonych w ust. 2, powołane są powiatowe rady narodowe.
+
+### Art. 10.
+
+Przepisy ustawy stosuje się odpowiednio do obywateli państw obcych na zasadach wzajemności.
+
+### Art. 11.
+
+Osoby, którym prawo wykonywania zawodu i używania tytułu felczera przysługuje w myśl art. 1 ust. 1 pkt 2), mogą wykonywać czynności zawodowe poza zakładami społecznymi służby zdrowia.
+
+### Art. 12.
+
+Uchyla się ustawę z dnia 1 lipca 1921 r. o uprawnieniach do wykonywania czynności felczerskich ([Dz. U. R. P. z 1921 r. Nr 64, poz. 396](https://api.sejm.gov.pl/eli/acts/DU/1921/396/text.html), z [1934 r. Nr 110, poz. 976](https://api.sejm.gov.pl/eli/acts/DU/1934/976/text.html) i z [1946 r. Nr 55, poz. 312](https://api.sejm.gov.pl/eli/acts/DU/1946/312/text.html)).
+
+### Art. 13.
+
+Wykonanie ustawy porucza się Ministrowi Zdrowia w porozumieniu z Ministrem Oświaty.
+
+### Art. 14.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

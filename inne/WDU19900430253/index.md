@@ -8,11 +8,9 @@ pos: 253
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:7)(cid:5)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:2)(cid:16)(cid:17)(cid:10)(cid:6)(cid:18)(cid:2)(cid:19)(cid:1)(cid:10)(cid:13)(cid:14)(cid:3)(cid:20)(cid:14)(cid:13)(cid:14)(cid:15)(cid:2)(cid:17)(cid:6)(cid:4)(cid:1)(cid:12)(cid:3)(cid:20)(cid:19)(cid:16)(cid:2)(cid:10)(cid:8)(cid:12)(cid:13)(cid:10)(cid:1)(cid:12)(cid:5)(cid:6)(cid:21)(cid:7)(cid:8)(cid:22)(cid:1)(cid:23)
-
-*USTAWA z dnia 21 czerwca 1990 r.*
+# Ustawa z dnia 21 czerwca 1990 r. o zmianie niektórych ustaw dotyczących samorządu terytorialnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,102 @@ domain: null
 | Data ogłoszenia | 1990-06-21 |
 | Data wydania | 1990-07-03 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900430253) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/253/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1990/253/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1990/253) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:13)(cid:2)(cid:14)(cid:6)(cid:15)(cid:16)(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)(cid:2)(cid:21)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:10)(cid:8)(cid:9)(cid:2)(cid:5)(cid:9)(cid:15)(cid:23)(cid:5)(cid:21)(cid:15)(cid:8)(cid:6)(cid:24)(cid:12)(cid:23)(cid:14)(cid:2)(cid:25)(cid:26)(cid:10)(cid:20)(cid:27)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2)(cid:17)(cid:29)(cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)(cid:18) (cid:2)(cid:8)(cid:2)(cid:28)(cid:15)(cid:2)!"(cid:30) (cid:31)(cid:21)(cid:10)(cid:20)(cid:2)(cid:17)(cid:18)(cid:18)#(cid:2)(cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)$(cid:31)(cid:3)%(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)&
+## Treść ustawy
 
-**Art. 2.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(((cid:2)(cid:14)(cid:6)(cid:15)(cid:16)(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)(cid:2)(cid:21)(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:21)(cid:7)(cid:12)(cid:8)/(cid:6)(cid:16)4(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:23)(cid:16)4(cid:2)(cid:25)(cid:26)(cid:10)(cid:20)(cid:27)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2)((cid:17)(cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)(cid:17)("# (cid:7)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)!!(cid:2)(cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)$(cid:31)(cid:3)%(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)& (cid:17)#(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)%(cid:9)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:12)(cid:21)(cid:7)(cid:23)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)((cid:2)(cid:7)(cid:2)+(cid:15)(cid:10)(cid:14)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)& ’((cid:20)(cid:2)5(cid:15)(cid:6)(cid:16)(cid:21)(cid:7)(cid:12)(cid:8)(cid:16)(cid:23)(cid:2)(cid:10)(cid:6)(cid:5)(cid:15)(cid:3)(cid:11)(cid:12)(cid:8)(cid:9)(cid:12)(cid:8)(cid:2)(cid:7)(cid:2)(cid:11)(cid:21)(cid:5)(cid:23)(cid:16)4(cid:16)(cid:10)(cid:6)(cid:4)(cid:21)(cid:7)(cid:23)(cid:16)4(cid:2)(cid:3)(cid:15)(cid:10)$(cid:11)(cid:6)(cid:16)4(cid:2)(cid:5)(cid:9)(cid:15)(cid:9)(cid:12)(cid:21)(cid:7)(cid:23)(cid:16)4 (cid:21)(cid:15),(cid:6)(cid:12)3(cid:7)(cid:2)(cid:6)(cid:11)(cid:14)(cid:8)(cid:12)(cid:8)(cid:4)(cid:5)(cid:15)(cid:6)(cid:16)%(cid:8)(cid:2)(cid:31)(cid:6)6(cid:4)(cid:5)(cid:7)(cid:21)(cid:7)(cid:9)%(cid:30)(cid:2)/(cid:5)3(cid:15)(cid:10)(cid:23)(cid:2)(cid:10),(cid:21)(cid:11)(cid:12)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:10)(cid:11)(cid:6)(cid:12)(cid:8)(cid:9) (cid:31)(cid:8)(cid:9)(cid:15)(cid:7)(cid:4)(cid:10)(cid:9)(cid:2)(cid:4)(cid:5)(cid:24)(cid:8)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:21)(cid:7)(cid:12)(cid:8)/(cid:6)(cid:14)(cid:8)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:23)(cid:14)(cid:8)(cid:30)(cid:2)(cid:10)(cid:6)(cid:16)4(cid:21)(cid:7)(cid:3)%(cid:22)(cid:2)(cid:3)(cid:31)(cid:15)(cid:6)(cid:7)(cid:12)(cid:8)(cid:9)(cid:12)(cid:8)(cid:6) (cid:7)(cid:23)(cid:12)(cid:8)/(cid:6)%(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:2)(cid:31)(cid:15)(cid:10)(cid:9)(cid:31)(cid:8)(cid:4)3(cid:7)(cid:2)(cid:4)(cid:10)(cid:16)(cid:10)(cid:9),3(cid:24)(cid:12)(cid:23)(cid:16)4(cid:2)(cid:11)(cid:21)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:12)(cid:6)(cid:7)(cid:8)(cid:22)(cid:10)(cid:6)(cid:12)(cid:8)(cid:6)(cid:2)(cid:12)(cid:21)(cid:7)(cid:23)(cid:16)4 (cid:4)(cid:5)(cid:21)(cid:4)(cid:3)(cid:12)/3(cid:7)(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:23)(cid:2)(cid:12)(cid:6)(cid:2)(cid:11)(cid:6)(cid:24)(cid:4)(cid:10)(cid:23)(cid:2)(cid:21)/(cid:15)(cid:9)(cid:4)(cid:2)(cid:6)(cid:24)+(cid:21)(cid:2)(cid:11)(cid:21)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:7)(cid:16)(cid:10)(cid:9)-(cid:12)(cid:8)(cid:9)%(cid:4)(cid:10)(cid:9),(cid:21)(cid:2)(cid:15)(cid:21)(cid:10)(cid:7)(cid:8)(cid:22)(cid:10)(cid:6)(cid:12)(cid:8)(cid:6) (cid:24)(cid:3)+(cid:2)(cid:7)(cid:23),(cid:6)-(cid:12)(cid:8)$(cid:16)(cid:8)(cid:6)(cid:2)(cid:4)(cid:5)(cid:21)(cid:4)(cid:3)(cid:12)/3(cid:7)(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:23)(cid:2)(cid:10),(cid:21)(cid:11)(cid:12)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:10)(cid:11)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:11)(cid:15)(cid:3),(cid:8)(cid:9)(cid:2)(cid:8)(cid:2)(cid:5)(cid:15)(cid:10)(cid:9)(cid:16)(cid:8)(cid:9)(cid:20)01 (#(cid:2)(cid:11)(cid:21)(cid:5)(cid:23)(cid:16)4(cid:16)(cid:10)(cid:6)(cid:4)(cid:21)(cid:7)(cid:9)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)((cid:2)(cid:8)(cid:2)!(cid:2)(cid:21)(cid:10)(cid:12)(cid:6)(cid:16)(cid:10)(cid:6)(cid:2)(cid:4)(cid:8)$(cid:2)%(cid:6)/(cid:21)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)!(cid:2)(cid:8)(cid:2)"(cid:20)
+### Art. 1.
 
-**Art. 3.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)(cid:19)(cid:2)(cid:14)(cid:6)%(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)(cid:2)7(cid:2)5(cid:15)(cid:10)(cid:9)(cid:31)(cid:8)(cid:4)(cid:23)(cid:2)(cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6)%(cid:22)(cid:16)(cid:9)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)$(cid:2)(cid:21)(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:10)(cid:8)(cid:9) (cid:5)(cid:9)(cid:15)(cid:23)(cid:5)(cid:21)(cid:15)(cid:8)(cid:6)(cid:24)(cid:12)(cid:23)(cid:14)(cid:2)(cid:8)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)$(cid:2)(cid:21)(cid:2)(cid:31)(cid:15)(cid:6)(cid:16)(cid:21)(cid:7)(cid:12)(cid:8)/(cid:6)(cid:16)4(cid:2)(cid:4)(cid:6)(cid:14)(cid:21)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:23)(cid:16)4(cid:2)(cid:25)(cid:26)(cid:10)(cid:20)(cid:27)(cid:20)(cid:2)(cid:28)(cid:15)(cid:2)!((cid:30)(cid:2)(cid:31)(cid:21)(cid:10)(cid:20)(cid:2)(cid:17)(cid:18)(cid:17)#(cid:2)(cid:7)(cid:31)(cid:15)(cid:21)(cid:7)(cid:6)(cid:11)(cid:10)(cid:6) (cid:4)(cid:8)$(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)$(cid:31)(cid:3)%(cid:22)(cid:16)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)& (cid:17)#(cid:2)(cid:7)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)!(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:11)(cid:21)(cid:11)(cid:6)%(cid:9)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:10)(cid:11)(cid:6)(cid:12)(cid:8)(cid:9)(cid:2)(cid:11)(cid:15)(cid:3),(cid:8)(cid:9)(cid:2)(cid:7)(cid:2)+(cid:15)(cid:10)(cid:14)(cid:8)(cid:9)(cid:12)(cid:8)(cid:3)& ’(cid:27)(cid:16)4(cid:7)(cid:6).(cid:23)(cid:2)(cid:7)(cid:21)%(cid:9)(cid:7)3(cid:11)(cid:10)/(cid:8)(cid:16)4(cid:2)(cid:15)(cid:6)(cid:11)(cid:2)(cid:12)(cid:6)(cid:15)(cid:21)(cid:11)(cid:21)(cid:7)(cid:23)(cid:16)4(cid:2)(cid:7)(cid:2)(cid:4)(cid:31)(cid:15)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:23)(cid:2),(cid:15)(cid:6)(cid:12)(cid:8)(cid:16)(cid:2)(cid:14)(cid:8)(cid:6)(cid:4)(cid:5)(cid:2)(cid:8) ,(cid:14)(cid:8)(cid:12)(cid:2)(cid:10)(cid:6)(cid:16)4(cid:21)(cid:7)(cid:3)%(cid:22)(cid:2)(cid:7)(cid:6)*(cid:12)(cid:21)-8(cid:30)(cid:2)(cid:12)(cid:6)(cid:7)(cid:9)(cid:5)(cid:2)%(cid:9)*(cid:9)(cid:24)(cid:8)(cid:2)(cid:8)(cid:16)4(cid:2)(cid:7)(cid:9)%-(cid:16)(cid:8)(cid:9)(cid:2)(cid:7)(cid:2)*(cid:23)(cid:16)(cid:8)(cid:9)(cid:2)(cid:14)(cid:8)(cid:6).(cid:21)+(cid:23)(cid:2)(cid:12)(cid:6)(cid:4)(cid:5)(cid:22)(cid:31)(cid:8)8 (cid:31)(cid:21)(cid:2)(cid:11)(cid:12)(cid:8)(cid:3)(cid:2)(cid:7)(cid:9)%-(cid:16)(cid:8)(cid:6)(cid:2)(cid:7)(cid:2)*(cid:23)(cid:16)(cid:8)(cid:9)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:23)(cid:20)01 (#(cid:2)(cid:7)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)(cid:17)9(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:20)(cid:2)(cid:17)(cid:2)(cid:7)(cid:23)(cid:15)(cid:6)(cid:10)(cid:23)(cid:2)’(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)(cid:13)(cid:30)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)(cid:17)"(cid:2)(cid:8)(cid:2)(cid:6)(cid:15)(cid:5)(cid:20)(cid:2)(cid:17) 0(cid:2)(cid:4)/(cid:15)(cid:9)-(cid:24)(cid:6)(cid:2)(cid:4)(cid:8)$1
+W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym ([Dz. U. Nr 16, poz. 95](https://api.sejm.gov.pl/eli/acts/DU/1990/95/text.html) i [Nr 34, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/1990/199/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(cid:17)9(cid:2)(cid:14)(cid:6)%(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)(cid:2)(cid:21)(cid:2)(cid:31)(cid:21)(cid:11)(cid:10)(cid:8)(cid:6)(cid:24)(cid:9)(cid:2)(cid:10)(cid:6)(cid:11)(cid:6)6(cid:2)(cid:8)(cid:2)/(cid:21)(cid:14)(cid:31)(cid:9)(cid:5)(cid:9)(cid:12)(cid:16)%(cid:8)(cid:2)(cid:21)/(cid:15)(cid:9)-(cid:24)(cid:21)(cid:12)(cid:23)(cid:16)4(cid:2)(cid:7)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:16)4 (cid:4)(cid:10)(cid:16)(cid:10)(cid:9),3(cid:24)(cid:12)(cid:23)(cid:16)4(cid:2)(cid:31)(cid:21)(cid:14)(cid:8)$(cid:11)(cid:10)(cid:23)(cid:2)(cid:21)(cid:15),(cid:6)(cid:12)(cid:23)(cid:2),(cid:14)(cid:8)(cid:12)(cid:23)(cid:2)(cid:6)(cid:2)(cid:21)(cid:15),(cid:6)(cid:12)(cid:23)(cid:2)(cid:6)(cid:11)(cid:14)(cid:8)(cid:12)(cid:8)(cid:4)(cid:5)(cid:15)(cid:6)(cid:16)%(cid:8)(cid:2)(cid:15)(cid:10)(cid:22)(cid:11)(cid:21)(cid:7)(cid:9)%(cid:2)(cid:21)(cid:15)(cid:6)(cid:10)(cid:2)(cid:21)(cid:2)(cid:10)(cid:14)(cid:8)(cid:6)(cid:12)(cid:8)(cid:9) niektórych ustaw (Dz.U. Nr 34, poz. 198) w art. 45 w ust. 1 w zdaniu pierwszym wyrazy „do (cid:11)(cid:12)(cid:8)(cid:6)0(cid:2)(cid:10)(cid:6)(cid:4)(cid:5)$(cid:31)(cid:3)%(cid:9)(cid:2)(cid:4)(cid:8)$(cid:2)(cid:7)(cid:23)(cid:15)(cid:6)(cid:10)(cid:6)(cid:14)(cid:8)(cid:2)’(cid:31)(cid:21)(cid:2)(cid:11)(cid:12)(cid:8)(cid:3)0(cid:20)
+### 1)
 
-**Art. 5.** (cid:27)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:2)(cid:7)(cid:16)4(cid:21)(cid:11)(cid:10)(cid:8)(cid:2)(cid:7)*(cid:23)(cid:16)(cid:8)(cid:9)(cid:2)(cid:10)(cid:2)(cid:11)(cid:12)(cid:8)(cid:9)(cid:14)(cid:2)(cid:21),.(cid:21)(cid:4)(cid:10)(cid:9)(cid:12)(cid:8)(cid:6)(cid:2)(cid:10)(cid:2)(cid:14)(cid:21)(cid:16)(cid:22)(cid:2)(cid:21)(cid:11)(cid:2)(cid:11)(cid:12)(cid:8)(cid:6)(cid:2)(9(cid:2)(cid:14)(cid:6)%(cid:6)(cid:2)(cid:17)(cid:18)(cid:18)(cid:19)(cid:2)(cid:15)(cid:20)
+w art. 15 ust. 2 otrzymuje brzmienie:
 
+„
+
+### 2.
+
+Jeżeli siedziba rady gminy znajduje się w mieście położonym na terytorium tej gminy, rada nosi nazwę rady miejskiej.
+
+” ;
+
+### 2)
+
+w art. 26 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Burmistrz jest przewodniczącym zarządu w gminie, w której siedziba władz znajduje się w mieście położonym na terytorium tej gminy.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 22 marca 1990 r. o pracownikach samorządowych ([Dz. U. Nr 21, poz. 124](https://api.sejm.gov.pl/eli/acts/DU/1990/124/text.html)) w art. 33 wprowadza się następujące zmiany:
+
+### 1)
+
+dodaje się nowy ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Pracownicy zatrudnieni w dotychczasowych urzędach terenowych organów administracji państwowej, którzy zgodnie z ust. 1 zdanie pierwsze stali się pracownikami samorządowymi, zachowują uprawnienia wynikające z przepisów szczególnych do dnia nawiązania nowych stosunków pracy na dalszy okres albo do dnia wcześniejszego rozwiązania lub wygaśnięcia stosunków pracy zgodnie z ust. 1 zdanie drugie i trzecie
+
+” ;
+
+### 2)
+
+dotychczasowe ust. 2 i 3 oznacza się jako ust. 3 i 4.
+
+### Art. 3.
+
+W ustawie z dnia 10 maja 1990 r. - Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych ([Dz. U. Nr 32, poz. 191](https://api.sejm.gov.pl/eli/acts/DU/1990/191/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 dodaje się zdanie drugie w brzmieniu: „Uchwały wojewódzkich rad narodowych w sprawie zmiany granic miast i gmin zachowują ważność, nawet jeżeli ich wejście w życie miałoby nastąpić po dniu wejścia w życie ustawy.”;
+
+### 2)
+
+w art. 17 w ust. 1 wyrazy „art. 8, art. 14 i art. 15” skreśla się;
+
+### 3)
+
+w art. 22;
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Poza osobami, o których mowa w ust. 1, do czasu wyboru wójta, burmistrza lub prezydenta miasta ich funkcje mogą również pełnić w zakresie swojej dotychczasowej właściwości oraz posiadanych dotychczas uprawnień:
+
+### 1)
+
+osoby pełniące funkcje terenowych organów administracji państwowej o właściwości szczególnej oraz kierowników urzędów stanu cywilnego i ich zastępców,
+
+### 2)
+
+osoby upoważnione do załatwiania określonych spraw na podstawie art. 135 ust. 3 ustawy wymienionej w art. 2 ust. 1 pkt 3 albo art. 268a Kodeksu postępowania administracyjnego
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 17 maja 1990 r. o podziale zadań i kompetencji określonych w ustawach szczególnych pomiędzy organy gminy a organy administracji rządowej oraz o zmianie niektórych ustaw ([Dz. U. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html)) w art. 45 w ust. 1 w zdaniu pierwszym wyrazy „do dnia” zastępuje się wyrazami „po dniu”.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 27 maja 1990 r.

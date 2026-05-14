@@ -8,11 +8,9 @@ pos: 37
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 22 listopada 2018 r. o europejskich partiach politycznych i europejskich fundacjach politycznych
-
-*USTAWA dnia 22 listopada 2018 europejskich partiach politycznych i europejskich fundacjach politycznych*
+# Ustawa z dnia 22 listopada 2018 r. o europejskich partiach politycznych i europejskich fundacjach politycznych [1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,223 +22,528 @@ domain: null
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2019-01-08 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/37/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/37/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/37) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Europejska partia polityczna](#chpt_2) [Rozdział 3 - Europejska fundacja polityczna](#chpt_3) [Rozdział 4 - Zmiany w przepisach i przepis końcowy](#chpt_4)
 
-**Art. 2.** Użyte ustawie określenia oznaczają:
+TOC
 
-#### Rozdział 2 Europejska partia polityczna
+## Treść ustawy
 
-**Art. 3.** W zakresie nieuregulowanym rozporządzeniu 1141/2014 oraz ustawie do europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące partii politycznej, wyłączeniem:
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.](#gloss-0:2:)
 
-**Art. 4.**
+### Rozdział 1 Przepisy ogólne
 
-1. Do wniosku rejestrację europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej składanego Urzędzie wnioskodawca dołącza zaświadczenie.
+### Art. 1.
 
-2. Zaświadczenie dołącza się również do wniosku aktualizację wpisu europejskiej partii politycznej do rejestru związaną ze zmianą jej statutu.
+Ustawa:
 
-**Art. 5.**
+### 1)
 
-1. Zaświadczenie wydaje sąd właściwy do prowadzenia ewidencji.
+reguluje powstanie, organizację, zasady działalności i likwidację europejskiej partii politycznej i europejskiej fundacji politycznej posiadających siedzibę w Rzeczypospolitej Polskiej, w zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych ([Dz. Urz. UE L 317 z 04.11.2014, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 I z 04.05.2018, str. 1.](#gloss-0:3:), zwanym dalej „rozporządzeniem 1141/2014”;
 
-2. Wniosek wydanie zaświadczenia składa organ uprawniony według statutu europejskiej partii politycznej do jej reprezentowania.
+### 2)
 
-3. Wniosek wydanie zaświadczenia jest sporządzany zgodnie wymaganiami przewidzianymi dla pisma procesowego, a ponadto zawiera przynajmniej nazwę, siedzibę i adres europejskiej partii politycznej oraz imiona, nazwiska i adresy osób wchodzących skład organu uprawnionego według statutu do reprezentowania europejskiej partii politycznej.
+reguluje zasady działalności na terytorium Rzeczypospolitej Polskiej europejskiej partii politycznej i europejskiej fundacji politycznej posiadających siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie nieuregulowanym w rozporządzeniu 1141/2014;
 
-4. Do wniosku wydanie zaświadczenia dołączanego do wniosku, którym mowa art. 4 ust. 1, dołącza się statut europejskiej partii politycznej, a przypadku wniosku wydanie zaświadczenia dołączanego do wniosku, którym mowa art. 4 ust. 2 – tekst zmian statucie oraz tekst jednolity statutu.
+### 3)
 
-5. Jeżeli statut europejskiej partii politycznej lub inne dołączane dokumenty są sporządzone języku obcym, dołącza się ich uwierzytelnione tłumaczenie na język polski.
+określa organy właściwe do wykonywania zadań wynikających z rozporządzenia 1141/2014.
 
-**Art. 6.** Sąd właściwy do prowadzenia ewidencji wydaje zaświadczenie niezwłocznie po ustaleniu, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny przepisami polskiego prawa.
+### Art. 2.
 
-**Art. 7.** W zakresie nieuregulowanym ustawie do postępowania wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. U. 2018 poz. 1360, późn. zm. ) postępowaniu nieprocesowym.
+Użyte w ustawie określenia oznaczają:
 
-**Art. 8.**
+### 1)
 
-1. W ramach konsultacji, których mowa art. 15 ust. 4 i art. 16 ust. 4 rozporządzenia 1141/2014, sąd właściwy do prowadzenia ewidencji otrzymuje Urzędu informację dniu, którym Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja rejestracji lub wykreśleniu rejestru europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej wraz odpisem tej decyzji, a także informację każdej aktualizacji wpisu europejskiej partii politycznej do rejestru związanej ze zmianą jej statutu.
+europejska partia polityczna - europejską partię polityczną, o której mowa w art. 2 pkt 3 rozporządzenia 1141/2014;
 
-2. Sąd właściwy do prowadzenia ewidencji niezwłocznie przekazuje otrzymaną informację wraz kopią otrzymanych dokumentów krajowemu punktowi kontaktowemu, którym mowa art. 9, oraz Prokuratorowi Generalnemu.
+### 2)
 
-**Art. 9.** Krajowym punktem kontaktowym rozumieniu art. 2 pkt 10 rozporządzenia 1141/2014 zakresie wymiany informacji europejskiej partii politycznej jest Państwowa Komisja Wyborcza.
+europejska fundacja polityczna - europejską fundację polityczną, o której mowa w art. 2 pkt 4 rozporządzenia 1141/2014;
 
-**Art. 10.** Uprawnienie do wystąpienia wnioskiem, którym mowa art. 16 ust. 3 rozporządzenia 1141/2014, wykreślenie europejskiej partii politycznej rejestru powodu poważnego naruszenia obowiązków przewidzianych prawie krajowym przysługuje Prokuratorowi Generalnemu.
+### 3)
 
-**Art. 11.**
+partia polityczna - partię polityczną, o której mowa w art. 1 ust. 1 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych ([Dz. U. z 2018 r. poz. 580](https://api.sejm.gov.pl/eli/acts/DU/2018/580/text.html));
 
-1. Z dniem opublikowania decyzji wykreśleniu rejestru europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej następuje otwarcie jej likwidacji.
+### 4)
 
-2. Nie później niż terminie 7 dni od dnia opublikowania decyzji, której mowa ust. 1, europejska partia polityczna wyznacza likwidatorów, ile nie zostali oni wyznaczeni wcześniej, oraz przesyła do sądu właściwego do prowadzenia ewidencji odpis dokumentu stanowiącego wyznaczeniu likwidatorów ze wskazaniem ich imion, nazwisk, adresów oraz sposobu reprezentowania przez nich europejskiej partii politycznej.
+stowarzyszenie - stowarzyszenie, o którym mowa w art. 2 ust. 1 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ([Dz. U. z 2017 r. poz. 210](https://api.sejm.gov.pl/eli/acts/DU/2017/210/text.html) oraz [z 2018 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.html)), z wyłączeniem stowarzyszenia, o którym mowa w rozdziale 6 tej ustawy;
 
-3. Likwidatorzy zamieszczają ogłoszenie otwarciu likwidacji i ich wyznaczeniu Monitorze Sądowym i Gospodarczym.
+### 5)
 
-4. Likwidatorzy powinni dążyć do zakończenia czynności likwidacyjnych przed dniem wejścia życie decyzji wykreśleniu rejestru europejskiej partii politycznej.
+Urząd - Urząd do spraw Europejskich Partii Politycznych i Europejskich Fundacji Politycznych, o którym mowa w art. 6 rozporządzenia 1141/2014;
 
-5. Likwidatorzy zgłaszają sądowi właściwemu do prowadzenia ewidencji zakończenie likwidacji oraz składają bilans na dzień zakończenia likwidacji i sprawozdanie opisowe przeprowadzonych czynności likwidacyjnych.
+### 6)
 
-**Art. 12.**
+rejestr - rejestr europejskich partii politycznych i europejskich fundacji politycznych, o którym mowa w art. 7 rozporządzenia 1141/2014;
 
-1. Jeżeli przed dniem wejścia życie decyzji wykreśleniu rejestru europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej jej likwidacja nie została przeprowadzona i zakończona zgodnie art. 11, likwidację prowadzi się po wejściu życie tej decyzji.
+### 7)
 
-2. Po wejściu życie decyzji, której mowa ust. 1, na czas prowadzenia likwidacji europejska partia polityczna wykreślona rejestru nabywa zdolność prawną, a ponadto przysługują jej wszystkie prawa i obowiązki, które przysługiwały europejskiej partii politycznej dniu wejścia życie decyzji wykreśleniu rejestru. W sprawach wynikających likwidacji europejska partia polityczna wykreślona rejestru może pozywać i być pozywana.
+ewidencja - ewidencję partii politycznych, o której mowa w rozdziale 3 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych;
 
-3. Likwidatorzy wyznaczeni zgodnie art. 11 ust. 2 zachowują swój mandat.
+### 8)
 
-4. W przypadku braku likwidatorów, których mowa ust. 3, likwidatorów wyznacza sąd właściwy do prowadzenia ewidencji. Jeżeli jest to możliwe, likwidatorami wyznacza się osoby, które były członkami organu uprawnionego do reprezentowania europejskiej partii politycznej wykreślonej rejestru według stanu na dzień wykreślenia rejestru.
+zaświadczenie - dokument, o którym mowa w art. 15 ust. 2 rozporządzenia 1141/2014, potwierdzający, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny z przepisami polskiego prawa.
 
-5. Likwidatorzy wyznaczeni zgodnie ust. 4 zamieszczają ogłoszenie ich wyznaczeniu Monitorze Sądowym i Gospodarczym. Ogłoszenie nie podlega opłacie.
+### Rozdział 2 Europejska partia polityczna
 
-**Art. 13.**
+### Art. 3.
 
-1. Po przeprowadzeniu likwidacji, której mowa art. 12, likwidatorzy składają sądowi właściwemu do prowadzenia ewidencji bilans na dzień zakończenia likwidacji oraz sprawozdanie opisowe przeprowadzonych czynności likwidacyjnych, jednoczesnym zgłoszeniem wniosku stwierdzenie zakończenia likwidacji.
+W zakresie nieuregulowanym w rozporządzeniu 1141/2014 oraz w ustawie do europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące partii politycznej, z wyłączeniem:
 
-2. Sąd właściwy do prowadzenia ewidencji stwierdza zakończenie likwidacji.
+### 1)
 
-**Art. 14.** Jeżeli majątek europejskiej partii politycznej wystarcza jedynie na pokrycie części kosztów jej likwidacji, odpowiedzialność za pokrycie pozostałej części tych kosztów ponoszą solidarnie członkowie organu uprawnionego do reprezentowania europejskiej partii politycznej według stanu na dzień wykreślenia rejestru.
+art. 1 ust. 2, art. 5, art. 11-16, art. 18-23, art. 24-25a, art. 26a-36a, art. 37-38d, art. 39a, art. 42-47 oraz art. 48 zdanie drugie ustawy z dnia 27 czerwca 1997 r. o partiach politycznych;
 
-**Art. 15.** W zakresie nieuregulowanym art. 12–14 do likwidacji prowadzonej od dnia wejścia życie decyzji wykreśleniu rejestru europejskiej partii politycznej stosuje się odpowiednio przepisy likwidacji partii politycznej.
+### 2)
 
-**Art. 16.** Do europejskiej partii politycznej posiadającej siedzibę innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zakresie, jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej partii politycznej posiadającej siedzibę Rzeczypospolitej Polskiej, wyłączeniem art. 4–8 oraz art. 11–15.
+przepisów ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy ([Dz. U. z 2018 r. poz. 754](https://api.sejm.gov.pl/eli/acts/DU/2018/754/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1349](https://api.sejm.gov.pl/eli/acts/DU/2018/1349/text.html)) dotyczących udziału partii politycznej w wyborach;
 
-#### Rozdział 3 Europejska fundacja polityczna
+### 3)
 
-**Art. 17.** W zakresie nieuregulowanym rozporządzeniu 1141/2014 oraz ustawie do europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące stowarzyszenia, wyłączeniem:
+przepisów ustawy z dnia 15 września 2000 r. o referendum lokalnym ([Dz. U. z 2016 r. poz. 400](https://api.sejm.gov.pl/eli/acts/DU/2016/400/text.html), [z 2017 r. poz. 850](https://api.sejm.gov.pl/eli/acts/DU/2017/850/text.html) oraz [z 2018 r. poz. 1349](https://api.sejm.gov.pl/eli/acts/DU/2018/1349/text.html) i [1579](https://api.sejm.gov.pl/eli/acts/DU/2018/1579/text.html)) oraz ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym ([Dz. U. z 2015 r. poz. 318](https://api.sejm.gov.pl/eli/acts/DU/2015/318/text.html), [z 2017 r. poz. 850](https://api.sejm.gov.pl/eli/acts/DU/2017/850/text.html) oraz [z 2018 r. poz. 1579](https://api.sejm.gov.pl/eli/acts/DU/2018/1579/text.html)) dotyczących występowania z inicjatywą przeprowadzenia referendum oraz uczestnictwa w kampanii referendalnej.
 
-**Art. 18.**
+### Art. 4.
 
-1. Stowarzyszenie, które nie jest wpisane do rejestru przedsiębiorców Krajowego Rejestru Sądowego, może zostać przekształcone europejską fundację polityczną posiadającą siedzibę Rzeczypospolitej Polskiej po spełnieniu wymogów określonych rozporządzeniu 1141/2014 oraz ustawie (przekształcenie stowarzyszenia europejską fundację polityczną).
+### 1.
 
-2. Do przekształcenia stowarzyszenia europejską fundację polityczną wymaga się:
+Do wniosku o rejestrację europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej składanego w Urzędzie wnioskodawca dołącza zaświadczenie.
 
-- **1)** sporządzenia planu przekształcenia wraz załącznikami;
-- **2)** powzięcia uchwały przekształceniu stowarzyszenia europejską fundację polityczną;
-- **3)** rejestracji europejskiej fundacji politycznej rejestrze;
-- **4)** wykreślenia stowarzyszenia Krajowego Rejestru Sądowego.
+### 2.
 
-**Art. 19.**
+Zaświadczenie dołącza się również do wniosku o aktualizację wpisu europejskiej partii politycznej do rejestru związaną ze zmianą jej statutu.
 
-1. Plan przekształcenia przygotowuje zarząd stowarzyszenia.
+### Art. 5.
 
-2. Plan przekształcenia sporządza się formie pisemnej pod rygorem nieważności.
+### 1.
 
-**Art. 20.**
+Zaświadczenie wydaje sąd właściwy do prowadzenia ewidencji.
 
-1. Plan przekształcenia powinien zawierać co najmniej:
+### 2.
 
-- **1)** podstawę prawną oraz uzasadnienie przekształcenia stowarzyszenia europejską fundację polityczną odnoszące się do zmian zakresie dotychczasowych celów statutowych stowarzyszenia;
-- **2)** nazwę, siedzibę i numer wpisu stowarzyszenia Krajowym Rejestrze Sądowym oraz nazwę i siedzibę europejskiej fundacji politycznej;
-- **3)** ustalenie wartości bilansowej majątku stowarzyszenia na określony dzień miesiącu poprzedzającym sporządzenie planu przekształcenia.
+Wniosek o wydanie zaświadczenia składa organ uprawniony według statutu europejskiej partii politycznej do jej reprezentowania.
 
-2. Do planu przekształcenia dołącza się:
+### 3.
 
-- **1)** projekt uchwały przekształceniu stowarzyszenia europejską fundację polityczną;
-- **2)** projekt statutu europejskiej fundacji politycznej;
-- **3)** wycenę składników majątku (aktywów i pasywów) stowarzyszenia;
-- **4)** sprawozdanie finansowe sporządzone dla celów przekształcenia na dzień, którym mowa ust. 1 pkt 3, zastosowaniem takich samych metod i takiego samego układu jak ostatnim rocznym sprawozdaniu finansowym.
+Wniosek o wydanie zaświadczenia jest sporządzany zgodnie z wymaganiami przewidzianymi dla pisma procesowego, a ponadto zawiera przynajmniej nazwę, siedzibę i adres europejskiej partii politycznej oraz imiona, nazwiska i adresy osób wchodzących w skład organu uprawnionego według statutu do reprezentowania europejskiej partii politycznej.
 
-**Art. 21.**
+### 4.
 
-1. Stowarzyszenie zawiadamia swoich członków zamiarze podjęcia uchwały przekształceniu europejską fundację polityczną na zasadach przewidzianych dla zawiadamiania planowanych uchwałach sprawie zmian statutu.
+Do wniosku o wydanie zaświadczenia dołączanego do wniosku, o którym mowa w art. 4 ust. 1, dołącza się statut europejskiej partii politycznej, a w przypadku wniosku o wydanie zaświadczenia dołączanego do wniosku, o którym mowa w art. 4 ust. 2 - tekst zmian w statucie oraz tekst jednolity statutu.
 
-2. Członkowie stowarzyszenia mają prawo przeglądać lokalu stowarzyszenia dokumenty, których mowa art. 20, oraz żądać wydania im bezpłatnie odpisów tych dokumentów.
+### 5.
 
-**Art. 22.**
+Jeżeli statut europejskiej partii politycznej lub inne dołączane dokumenty są sporządzone w języku obcym, dołącza się ich uwierzytelnione tłumaczenie na język polski.
 
-1. Uchwała przekształceniu stowarzyszenia europejską fundację polityczną podejmowana jest na zasadach przewidzianych dla uchwał sprawie zmian statutu stowarzyszenia.
+### Art. 6.
 
-2. Uchwała, której mowa ust. 1, zawiera co najmniej zgodę na przekształcenie stowarzyszenia europejską fundację polityczną oraz na brzmienie jej statutu.
+Sąd właściwy do prowadzenia ewidencji wydaje zaświadczenie niezwłocznie po ustaleniu, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny z przepisami polskiego prawa.
 
-3. Uchwałę, której mowa ust. 1, zamieszcza się protokole sporządzonym przez notariusza.
+### Art. 7.
 
-4. Zarząd stowarzyszenia zamieszcza ogłoszenie podjęciu uchwały, której mowa ust. 1, Monitorze Sądowym i Gospodarczym.
+W zakresie nieuregulowanym w ustawie do postępowania o wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. z 2018 r. poz. 1360](https://api.sejm.gov.pl/eli/acts/DU/2018/1360/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432.](#gloss-0:4:)) o postępowaniu nieprocesowym.
 
-**Art. 23.**
+### Art. 8.
 
-1. Do wniosku rejestrację europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej składanego Urzędzie wnioskodawca dołącza zaświadczenie.
+### 1.
 
-2. Zaświadczenie dołącza się również do wniosku aktualizację wpisu europejskiej fundacji politycznej do rejestru związaną ze zmianą jej statutu.
+W ramach konsultacji, o których mowa w art. 15 ust. 4 i art. 16 ust. 4 rozporządzenia 1141/2014, sąd właściwy do prowadzenia ewidencji otrzymuje z Urzędu informację o dniu, w którym w Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja o rejestracji lub wykreśleniu z rejestru europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej wraz z odpisem tej decyzji, a także informację o każdej aktualizacji wpisu europejskiej partii politycznej do rejestru związanej ze zmianą jej statutu.
 
-**Art. 24.**
+### 2.
 
-1. Zaświadczenie wydaje sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej albo – przypadku przekształcenia stowarzyszenia europejską fundację polityczną – sąd rejestrowy właściwy ze względu na siedzibę stowarzyszenia.
+Sąd właściwy do prowadzenia ewidencji niezwłocznie przekazuje otrzymaną informację wraz z kopią otrzymanych dokumentów krajowemu punktowi kontaktowemu, o którym mowa w art. 9, oraz Prokuratorowi Generalnemu.
 
-2. Wniosek wydanie zaświadczenia składa organ uprawniony według statutu europejskiej fundacji politycznej do jej reprezentowania.
+### Art. 9.
 
-3. Wniosek wydanie zaświadczenia jest sporządzany zgodnie wymaganiami przewidzianymi dla pisma procesowego, a ponadto zawiera przynajmniej nazwę, siedzibę i adres europejskiej fundacji politycznej oraz imiona, nazwiska i ada także nazwę, siedzibę i adres europejskiej partii politycznej, którą jest formalnie powiązana europejska fundacja polityczna.
+Krajowym punktem kontaktowym w rozumieniu art. 2 pkt 10 rozporządzenia 1141/2014 w zakresie wymiany informacji o europejskiej partii politycznej jest Państwowa Komisja Wyborcza.
 
-4. Do wniosku wydanie zaświadczenia dołączanego do wniosku, którym mowa art. 23 ust. 1, dołącza się:
+### Art. 10.
 
-- **1)** statut europejskiej fundacji politycznej;
-- **2)** plan przekształcenia stowarzyszenia europejską fundację polityczną wraz załącznikami – przypadku przekształcenia stowarzyszenia europejską fundację polityczną;
-- **3)** uchwałę przekształceniu stowarzyszenia europejską fundację polityczną – przypadku przekształcenia stowarzyszenia europejską fundację polityczną.
+Uprawnienie do wystąpienia z wnioskiem, o którym mowa w art. 16 ust. 3 rozporządzenia 1141/2014, o wykreślenie europejskiej partii politycznej z rejestru z powodu poważnego naruszenia obowiązków przewidzianych w prawie krajowym przysługuje Prokuratorowi Generalnemu.
 
-5. Do wniosku wydanie zaświadczenia dołączanego do wniosku, którym mowa art. 23 ust. 2, dołącza się tekst zmian statucie oraz tekst jednolity statutu.
+### Art. 11.
 
-6. Jeżeli statut europejskiej fundacji politycznej lub inne dołączane dokumenty są sporządzone języku obcym, dołącza się ich uwierzytelnione tłumaczenie na język polski.
+### 1.
 
-**Art. 25.** Sąd rejestrowy, którym mowa art. 24 ust. 1, wydaje zaświadczenie niezwłocznie po ustaleniu, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny przepisami polskiego prawa.
+Z dniem opublikowania decyzji o wykreśleniu z rejestru europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej następuje otwarcie jej likwidacji.
 
-**Art. 26.** W zakresie nieuregulowanym ustawie do postępowania wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy dnia 17 listopada 1964 – Kodeks postępowania cywilnego postępowaniu rejestrowym.
+### 2.
 
-**Art. 27.**
+Nie później niż w terminie 7 dni od dnia opublikowania decyzji, o której mowa w ust. 1, europejska partia polityczna wyznacza likwidatorów, o ile nie zostali oni wyznaczeni wcześniej, oraz przesyła do sądu właściwego do prowadzenia ewidencji odpis dokumentu stanowiącego o wyznaczeniu likwidatorów ze wskazaniem ich imion, nazwisk, adresów oraz sposobu reprezentowania przez nich europejskiej partii politycznej.
 
-1. W ramach konsultacji, których mowa art. 15 ust. 4 i art. 16 ust. 4 rozporządzenia 1141/2014, sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej otrzymuje Urzędu informację dniu, którym Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja rejestracji lub wykreśleniu rejestru europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej wraz odpisem tej decyzji, a także informację każdej aktualizacji wpisu europejskiej fundacji politycznej do rejestru związanej ze zmianą jej statutu.
+### 3.
 
-2. Sąd rejestrowy, którym mowa ust. 1, niezwłocznie przekazuje otrzymaną informację wraz kopią otrzymanych dokumentów krajowemu punktowi kontaktowemu, którym mowa art. 29, oraz Prokuratorowi Generalnemu. W przypadku przekształcenia stowarzyszenia europejską fundację polityczną otrzymaną informację wraz kopią otrzymanych dokumentów dotyczących decyzji rejestracji europejskiej fundacji politycznej przekazuje się także sądowi rejestrowemu właściwemu ze względu na siedzibę stowarzyszenia, jeśli związku przekształceniem nastąpiła zmiana siedziby.
+Likwidatorzy zamieszczają ogłoszenie o otwarciu likwidacji i ich wyznaczeniu w Monitorze Sądowym i Gospodarczym.
 
-**Art. 28.**
+### 4.
 
-1. Sąd rejestrowy właściwy ze względu na siedzibę stowarzyszenia przekształcanego europejską fundację polityczną po otrzymaniu informacji dniu, którym Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja rejestracji europejskiej fundacji politycznej urzędu wykreśla stowarzyszenie Krajowego Rejestru Sądowego.
+Likwidatorzy powinni dążyć do zakończenia czynności likwidacyjnych przed dniem wejścia w życie decyzji o wykreśleniu z rejestru europejskiej partii politycznej.
 
-2. Wykreślenie stowarzyszenia Krajowego Rejestru Sądowego nie może nastąpić przed dniem opublikowania decyzji Urzędu rejestracji europejskiej fundacji politycznej.
+### 5.
 
-**Art. 29.** Krajowym punktem kontaktowym rozumieniu art. 2 pkt 10 rozporządzenia 1141/2014 zakresie wymiany informacji europejskiej fundacji politycznej jest Państwowa Komisja Wyborcza.
+Likwidatorzy zgłaszają sądowi właściwemu do prowadzenia ewidencji zakończenie likwidacji oraz składają bilans na dzień zakończenia likwidacji i sprawozdanie opisowe z przeprowadzonych czynności likwidacyjnych.
 
-**Art. 30.** Uprawnienie do wystąpienia wnioskiem, którym mowa art. 16 ust. 3 rozporządzenia 1141/2014, wykreślenie europejskiej fundacji politycznej rejestru powodu poważnego naruszenia obowiązków przewidzianych prawie krajowym przysługuje Prokuratorowi Generalnemu.
+### Art. 12.
 
-**Art. 31.**
+### 1.
 
-1. Z dniem opublikowania decyzji wykreśleniu rejestru europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej następuje otwarcie jej likwidacji.
+Jeżeli przed dniem wejścia w życie decyzji o wykreśleniu z rejestru europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej jej likwidacja nie została przeprowadzona i zakończona zgodnie z art. 11, likwidację prowadzi się po wejściu w życie tej decyzji.
 
-2. Nie później niż terminie 7 dni od dnia opublikowania decyzji, której mowa ust. 1, europejska fundacja polityczna wyznacza likwidatorów, ile nie zostali oni wyznaczeni wcześniej, oraz przesyła do sądu rejestrowego właściwego ze względu na siedzibę europejskiej fundacji politycznej odpis dokumentu stanowiącego wyznaczeniu likwidatorów ze wskazaniem ich imion, nazwisk, adresów oraz sposobu reprezentowania przez nich europejskiej fundacji politycznej.
+### 2.
 
-3. Likwidatorzy zamieszczają ogłoszenie otwarciu likwidacji i ich wyznaczeniu Monitorze Sądowym i Gospodarczym.
+Po wejściu w życie decyzji, o której mowa w ust. 1, na czas prowadzenia likwidacji europejska partia polityczna wykreślona z rejestru nabywa zdolność prawną, a ponadto przysługują jej wszystkie prawa i obowiązki, które przysługiwały europejskiej partii politycznej w dniu wejścia w życie decyzji o wykreśleniu z rejestru. W sprawach wynikających z likwidacji europejska partia polityczna wykreślona z rejestru może pozywać i być pozywana.
 
-4. Likwidatorzy powinni dążyć do zakończenia czynności likwidacyjnych przed dniem wejścia życie decyzji wykreśleniu rejestru europejskiej fundacji politycznej.
+### 3.
 
-5. Likwidatorzy zgłaszają sądowi rejestrowemu, którym mowa ust. 2, zakończenie likwidacji oraz składają bilans na dzień zakończenia likwidacji i sprawozdanie opisowe przeprowadzonych czynności likwidacyjnych.
+Likwidatorzy wyznaczeni zgodnie z art. 11 ust. 2 zachowują swój mandat.
 
-**Art. 32.**
+### 4.
 
-1. Jeżeli przed dniem wejścia życie decyzji wykreśleniu rejestru europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej jej likwidacja nie została przeprowadzona i zakończona zgodnie art. 31, likwidację prowadzi się po wejściu życie tej decyzji.
+W przypadku braku likwidatorów, o których mowa w ust. 3, likwidatorów wyznacza sąd właściwy do prowadzenia ewidencji. Jeżeli jest to możliwe, likwidatorami wyznacza się osoby, które były członkami organu uprawnionego do reprezentowania europejskiej partii politycznej wykreślonej z rejestru według stanu na dzień wykreślenia z rejestru.
 
-2. Po wejściu życie decyzji, której mowa ust. 1, na czas prowadzenia likwidacji europejska fundacja polityczna wykreślona rejestru nabywa zdolność prawną, a ponadto przysługują jej wszystkie prawa i obowiązki, które przysługiwały europejskiej fundacji politycznej dniu wejścia życie decyzji wykreśleniu rejestru. W sprawach wynikających likwidacji europejska fundacja polityczna wykreślona rejestru może pozywać i być pozywana.
+### 5.
 
-3. Likwidatorzy wyznaczeni zgodnie art. 31 ust. 2 zachowują swój mandat.
+Likwidatorzy wyznaczeni zgodnie z ust. 4 zamieszczają ogłoszenie o ich wyznaczeniu w Monitorze Sądowym i Gospodarczym. Ogłoszenie nie podlega opłacie.
 
-4. W przypadku braku likwidatorów, których mowa ust. 3, likwidatorów wyznacza sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej wykreślonej rejestru. Jeżeli jest to możliwe, likwidatorami wyznacza się osoby, które były członkami organu uprawnionego do reprezentowania europejskiej fundacji politycznej wykreślonej rejestru według stanu na dzień wykreślenia rejestru.
+### Art. 13.
 
-5. Likwidatorzy wyznaczeni zgodnie ust. 4 zamieszczają ogłoszenie ich wyznaczeniu Monitorze Sądowym i Gospodarczym. Ogłoszenie nie podlega opłacie.
+### 1.
 
-**Art. 33.**
+Po przeprowadzeniu likwidacji, o której mowa w art. 12, likwidatorzy składają sądowi właściwemu do prowadzenia ewidencji bilans na dzień zakończenia likwidacji oraz sprawozdanie opisowe z przeprowadzonych czynności likwidacyjnych, z jednoczesnym zgłoszeniem wniosku o stwierdzenie zakończenia likwidacji.
 
-1. Po przeprowadzeniu likwidacji, której mowa art. 32, likwidatorzy składają sądowi rejestrowemu właściwemu ze względu na siedzibę europejskiej fundacji politycznej bilans na dzień zakończenia likwidacji oraz sprawozdanie opisowe przeprowadzonych czynności likwidacyjnych, jednoczesnym zgłoszeniem wniosku stwierdzenie zakończenia likwidacji.
+### 2.
 
-2. Sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej stwierdza zakończenie likwidacji.
+Sąd właściwy do prowadzenia ewidencji stwierdza zakończenie likwidacji.
 
-**Art. 34.** Jeżeli majątek europejskiej fundacji politycznej wystarcza jedynie na pokrycie części kosztów jej likwidacji, odpowiedzialność za pokrycie pozostałej części tych kosztów ponoszą solidarnie członkowie organu uprawnionego do reprezentowania europejskiej fundacji politycznej według stanu na dzień wykreślenia rejestru.
+### Art. 14.
 
-**Art. 35.** W zakresie nieuregulowanym art. 32–34 do likwidacji prowadzonej od dnia wejścia życie decyzji wykreśleniu rejestru europejskiej fundacji politycznej stosuje się odpowiednio przepisy likwidacji stowarzyszenia.
+Jeżeli majątek europejskiej partii politycznej wystarcza jedynie na pokrycie części kosztów jej likwidacji, odpowiedzialność za pokrycie pozostałej części tych kosztów ponoszą solidarnie członkowie organu uprawnionego do reprezentowania europejskiej partii politycznej według stanu na dzień wykreślenia z rejestru.
 
-**Art. 36.** Do europejskiej fundacji politycznej posiadającej siedzibę innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, zakresie, jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej fundacji politycznej posiadającej siedzibę Rzeczypospolitej Polskiej, wyłączeniem art. 18–28 oraz art. 31–35.
+### Art. 15.
 
-#### Rozdział 4 Zmiany przepisach i przepis końcowy
+W zakresie nieuregulowanym w art. 12-14 do likwidacji prowadzonej od dnia wejścia w życie decyzji o wykreśleniu z rejestru europejskiej partii politycznej stosuje się odpowiednio przepisy o likwidacji partii politycznej.
 
-**Art. 37.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2018 poz. 1036, późn. zm. ) art. 17 ust. 1 pkt 39 otrzymuje brzmienie: „39) dochody związków zawodowych, społeczno-zawodowych organizacji rolników, izb rolniczych, izb gospodarczych, organizacji samorządu gospodarczego rzemiosła, spółdzielczych związków rewizyjnych, organizacji pracodawców, partii politycznych, europejskich partii politycznych i europejskich fundacji politycznych, działających na podstawie odrębnych przepisów – części przeznaczonej na cele statutowe, wyłączeniem działalności gospodarczej;”.
+### Art. 16.
 
-**Art. 38.** W ustawie dnia 24 kwietnia 2003 działalności pożytku publicznego i wolontariacie (Dz. U. 2018 poz. 450, 650, 723 i 1365) art. 3 ust. 4:
+Do europejskiej partii politycznej posiadającej siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie, w jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej partii politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej, z wyłączeniem art. 4-8 oraz art. 11-15.
 
-**Art. 39.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### Rozdział 3 Europejska fundacja polityczna
 
+### Art. 17.
+
+W zakresie nieuregulowanym w rozporządzeniu 1141/2014 oraz w ustawie do europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy dotyczące stowarzyszenia, z wyłączeniem:
+
+### 1)
+
+art. 8 ust. 1 i 5, art. 10a, art. 10b, art. 12, art. 16, art. 17 ust. 1 i 3, art. 20-22, art. 25-35, art. 36 ust. 2, art. 37 ust. 2 pkt 1 i 3 oraz ust. 3 oraz art. 40-43 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach;
+
+### 2)
+
+przepisów ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy dotyczących udziału stowarzyszenia w wyborach;
+
+### 3)
+
+przepisów ustawy z dnia 15 września 2000 r. o referendum lokalnym oraz ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym dotyczących występowania z inicjatywą przeprowadzenia referendum oraz uczestnictwa w kampanii referendalnej.
+
+### Art. 18.
+
+### 1.
+
+Stowarzyszenie, które nie jest wpisane do rejestru przedsiębiorców Krajowego Rejestru Sądowego, może zostać przekształcone w europejską fundację polityczną posiadającą siedzibę w Rzeczypospolitej Polskiej po spełnieniu wymogów określonych w rozporządzeniu 1141/2014 oraz w ustawie (przekształcenie stowarzyszenia w europejską fundację polityczną).
+
+### 2.
+
+Do przekształcenia stowarzyszenia w europejską fundację polityczną wymaga się:
+
+### 1)
+
+sporządzenia planu przekształcenia wraz z załącznikami;
+
+### 2)
+
+powzięcia uchwały o przekształceniu stowarzyszenia w europejską fundację polityczną;
+
+### 3)
+
+rejestracji europejskiej fundacji politycznej w rejestrze;
+
+### 4)
+
+wykreślenia stowarzyszenia z Krajowego Rejestru Sądowego.
+
+### Art. 19.
+
+### 1.
+
+Plan przekształcenia przygotowuje zarząd stowarzyszenia.
+
+### 2.
+
+Plan przekształcenia sporządza się w formie pisemnej pod rygorem nieważności.
+
+### Art. 20.
+
+### 1.
+
+Plan przekształcenia powinien zawierać co najmniej:
+
+### 1)
+
+podstawę prawną oraz uzasadnienie przekształcenia stowarzyszenia w europejską fundację polityczną odnoszące się do zmian w zakresie dotychczasowych celów statutowych stowarzyszenia;
+
+### 2)
+
+nazwę, siedzibę i numer wpisu stowarzyszenia w Krajowym Rejestrze Sądowym oraz nazwę i siedzibę europejskiej fundacji politycznej;
+
+### 3)
+
+ustalenie wartości bilansowej majątku stowarzyszenia na określony dzień w miesiącu poprzedzającym sporządzenie planu przekształcenia.
+
+### 2.
+
+Do planu przekształcenia dołącza się:
+
+### 1)
+
+projekt uchwały o przekształceniu stowarzyszenia w europejską fundację polityczną;
+
+### 2)
+
+projekt statutu europejskiej fundacji politycznej;
+
+### 3)
+
+wycenę składników majątku (aktywów i pasywów) stowarzyszenia;
+
+### 4)
+
+sprawozdanie finansowe sporządzone dla celów przekształcenia na dzień, o którym mowa w ust. 1 pkt 3, z zastosowaniem takich samych metod i takiego samego układu jak w ostatnim rocznym sprawozdaniu finansowym.
+
+### Art. 21.
+
+### 1.
+
+Stowarzyszenie zawiadamia swoich członków o zamiarze podjęcia uchwały o przekształceniu w europejską fundację polityczną na zasadach przewidzianych dla zawiadamiania o planowanych uchwałach w sprawie zmian statutu.
+
+### 2.
+
+Członkowie stowarzyszenia mają prawo przeglądać w lokalu stowarzyszenia dokumenty, o których mowa w art. 20, oraz żądać wydania im bezpłatnie odpisów tych dokumentów.
+
+### Art. 22.
+
+### 1.
+
+Uchwała o przekształceniu stowarzyszenia w europejską fundację polityczną podejmowana jest na zasadach przewidzianych dla uchwał w sprawie zmian statutu stowarzyszenia.
+
+### 2.
+
+Uchwała, o której mowa w ust. 1, zawiera co najmniej zgodę na przekształcenie stowarzyszenia w europejską fundację polityczną oraz na brzmienie jej statutu.
+
+### 3.
+
+Uchwałę, o której mowa w ust. 1, zamieszcza się w protokole sporządzonym przez notariusza.
+
+### 4.
+
+Zarząd stowarzyszenia zamieszcza ogłoszenie o podjęciu uchwały, o której mowa w ust. 1, w Monitorze Sądowym i Gospodarczym.
+
+### Art. 23.
+
+### 1.
+
+Do wniosku o rejestrację europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej składanego w Urzędzie wnioskodawca dołącza zaświadczenie.
+
+### 2.
+
+Zaświadczenie dołącza się również do wniosku o aktualizację wpisu europejskiej fundacji politycznej do rejestru związaną ze zmianą jej statutu.
+
+### Art. 24.
+
+### 1.
+
+Zaświadczenie wydaje sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej albo - w przypadku przekształcenia stowarzyszenia w europejską fundację polityczną - sąd rejestrowy właściwy ze względu na siedzibę stowarzyszenia.
+
+### 2.
+
+Wniosek o wydanie zaświadczenia składa organ uprawniony według statutu europejskiej fundacji politycznej do jej reprezentowania.
+
+### 3.
+
+Wniosek o wydanie zaświadczenia jest sporządzany zgodnie z wymaganiami przewidzianymi dla pisma procesowego, a ponadto zawiera przynajmniej nazwę, siedzibę i adres europejskiej fundacji politycznej oraz imiona, nazwiska i adresy osób wchodzących w skład organu uprawnionego według statutu do reprezentowania europejskiej fundacji politycznej, a także nazwę, siedzibę i adres europejskiej partii politycznej, z którą jest formalnie powiązana europejska fundacja polityczna.
+
+### 4.
+
+Do wniosku o wydanie zaświadczenia dołączanego do wniosku, o którym mowa w art. 23 ust. 1, dołącza się:
+
+### 1)
+
+statut europejskiej fundacji politycznej;
+
+### 2)
+
+plan przekształcenia stowarzyszenia w europejską fundację polityczną wraz z załącznikami - w przypadku przekształcenia stowarzyszenia w europejską fundację polityczną;
+
+### 3)
+
+uchwałę o przekształceniu stowarzyszenia w europejską fundację polityczną - w przypadku przekształcenia stowarzyszenia w europejską fundację polityczną.
+
+### 5.
+
+Do wniosku o wydanie zaświadczenia dołączanego do wniosku, o którym mowa w art. 23 ust. 2, dołącza się tekst zmian w statucie oraz tekst jednolity statutu.
+
+### 6.
+
+Jeżeli statut europejskiej fundacji politycznej lub inne dołączane dokumenty są sporządzone w języku obcym, dołącza się ich uwierzytelnione tłumaczenie na język polski.
+
+### Art. 25.
+
+Sąd rejestrowy, o którym mowa w art. 24 ust. 1, wydaje zaświadczenie niezwłocznie po ustaleniu, że wnioskodawca spełnia wszystkie odpowiednie krajowe wymogi dotyczące wniosku, a jego statut jest zgodny z przepisami polskiego prawa.
+
+### Art. 26.
+
+W zakresie nieuregulowanym w ustawie do postępowania o wydanie zaświadczenia stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego o postępowaniu rejestrowym.
+
+### Art. 27.
+
+### 1.
+
+W ramach konsultacji, o których mowa w art. 15 ust. 4 i art. 16 ust. 4 rozporządzenia 1141/2014, sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej otrzymuje z Urzędu informację o dniu, w którym w Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja o rejestracji lub wykreśleniu z rejestru europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej wraz z odpisem tej decyzji, a także informację o każdej aktualizacji wpisu europejskiej fundacji politycznej do rejestru związanej ze zmianą jej statutu.
+
+### 2.
+
+Sąd rejestrowy, o którym mowa w ust. 1, niezwłocznie przekazuje otrzymaną informację wraz z kopią otrzymanych dokumentów krajowemu punktowi kontaktowemu, o którym mowa w art. 29, oraz Prokuratorowi Generalnemu. W przypadku przekształcenia stowarzyszenia w europejską fundację polityczną otrzymaną informację wraz z kopią otrzymanych dokumentów dotyczących decyzji o rejestracji europejskiej fundacji politycznej przekazuje się także sądowi rejestrowemu właściwemu ze względu na siedzibę stowarzyszenia, jeśli w związku z przekształceniem nastąpiła zmiana siedziby.
+
+### Art. 28.
+
+### 1.
+
+Sąd rejestrowy właściwy ze względu na siedzibę stowarzyszenia przekształcanego w europejską fundację polityczną po otrzymaniu informacji o dniu, w którym w Dzienniku Urzędowym Unii Europejskiej zostanie opublikowana decyzja o rejestracji europejskiej fundacji politycznej z urzędu wykreśla stowarzyszenie z Krajowego Rejestru Sądowego.
+
+### 2.
+
+Wykreślenie stowarzyszenia z Krajowego Rejestru Sądowego nie może nastąpić przed dniem opublikowania decyzji Urzędu o rejestracji europejskiej fundacji politycznej.
+
+### Art. 29.
+
+Krajowym punktem kontaktowym w rozumieniu art. 2 pkt 10 rozporządzenia 1141/2014 w zakresie wymiany informacji o europejskiej fundacji politycznej jest Państwowa Komisja Wyborcza.
+
+### Art. 30.
+
+Uprawnienie do wystąpienia z wnioskiem, o którym mowa w art. 16 ust. 3 rozporządzenia 1141/2014, o wykreślenie europejskiej fundacji politycznej z rejestru z powodu poważnego naruszenia obowiązków przewidzianych w prawie krajowym przysługuje Prokuratorowi Generalnemu.
+
+### Art. 31.
+
+### 1.
+
+Z dniem opublikowania decyzji o wykreśleniu z rejestru europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej następuje otwarcie jej likwidacji.
+
+### 2.
+
+Nie później niż w terminie 7 dni od dnia opublikowania decyzji, o której mowa w ust. 1, europejska fundacja polityczna wyznacza likwidatorów, o ile nie zostali oni wyznaczeni wcześniej, oraz przesyła do sądu rejestrowego właściwego ze względu na siedzibę europejskiej fundacji politycznej odpis dokumentu stanowiącego o wyznaczeniu likwidatorów ze wskazaniem ich imion, nazwisk, adresów oraz sposobu reprezentowania przez nich europejskiej fundacji politycznej.
+
+### 3.
+
+Likwidatorzy zamieszczają ogłoszenie o otwarciu likwidacji i ich wyznaczeniu w Monitorze Sądowym i Gospodarczym.
+
+### 4.
+
+Likwidatorzy powinni dążyć do zakończenia czynności likwidacyjnych przed dniem wejścia w życie decyzji o wykreśleniu z rejestru europejskiej fundacji politycznej.
+
+### 5.
+
+Likwidatorzy zgłaszają sądowi rejestrowemu, o którym mowa w ust. 2, zakończenie likwidacji oraz składają bilans na dzień zakończenia likwidacji i sprawozdanie opisowe z przeprowadzonych czynności likwidacyjnych.
+
+### Art. 32.
+
+### 1.
+
+Jeżeli przed dniem wejścia w życie decyzji o wykreśleniu z rejestru europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej jej likwidacja nie została przeprowadzona i zakończona zgodnie z art. 31, likwidację prowadzi się po wejściu w życie tej decyzji.
+
+### 2.
+
+Po wejściu w życie decyzji, o której mowa w ust. 1, na czas prowadzenia likwidacji europejska fundacja polityczna wykreślona z rejestru nabywa zdolność prawną, a ponadto przysługują jej wszystkie prawa i obowiązki, które przysługiwały europejskiej fundacji politycznej w dniu wejścia w życie decyzji o wykreśleniu z rejestru. W sprawach wynikających z likwidacji europejska fundacja polityczna wykreślona z rejestru może pozywać i być pozywana.
+
+### 3.
+
+Likwidatorzy wyznaczeni zgodnie z art. 31 ust. 2 zachowują swój mandat.
+
+### 4.
+
+W przypadku braku likwidatorów, o których mowa w ust. 3, likwidatorów wyznacza sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej wykreślonej z rejestru. Jeżeli jest to możliwe, likwidatorami wyznacza się osoby, które były członkami organu uprawnionego do reprezentowania europejskiej fundacji politycznej wykreślonej z rejestru według stanu na dzień wykreślenia z rejestru.
+
+### 5.
+
+Likwidatorzy wyznaczeni zgodnie z ust. 4 zamieszczają ogłoszenie o ich wyznaczeniu w Monitorze Sądowym i Gospodarczym. Ogłoszenie nie podlega opłacie.
+
+### Art. 33.
+
+### 1.
+
+Po przeprowadzeniu likwidacji, o której mowa w art. 32, likwidatorzy składają sądowi rejestrowemu właściwemu ze względu na siedzibę europejskiej fundacji politycznej bilans na dzień zakończenia likwidacji oraz sprawozdanie opisowe z przeprowadzonych czynności likwidacyjnych, z jednoczesnym zgłoszeniem wniosku o stwierdzenie zakończenia likwidacji.
+
+### 2.
+
+Sąd rejestrowy właściwy ze względu na siedzibę europejskiej fundacji politycznej stwierdza zakończenie likwidacji.
+
+### Art. 34.
+
+Jeżeli majątek europejskiej fundacji politycznej wystarcza jedynie na pokrycie części kosztów jej likwidacji, odpowiedzialność za pokrycie pozostałej części tych kosztów ponoszą solidarnie członkowie organu uprawnionego do reprezentowania europejskiej fundacji politycznej według stanu na dzień wykreślenia z rejestru.
+
+### Art. 35.
+
+W zakresie nieuregulowanym w art. 32-34 do likwidacji prowadzonej od dnia wejścia w życie decyzji o wykreśleniu z rejestru europejskiej fundacji politycznej stosuje się odpowiednio przepisy o likwidacji stowarzyszenia.
+
+### Art. 36.
+
+Do europejskiej fundacji politycznej posiadającej siedzibę w innym niż Rzeczpospolita Polska państwie członkowskim Unii Europejskiej, w zakresie, w jakim prowadzi ona działalność na terytorium Rzeczypospolitej Polskiej, stosuje się odpowiednio przepisy dotyczące europejskiej fundacji politycznej posiadającej siedzibę w Rzeczypospolitej Polskiej, z wyłączeniem art. 18-28 oraz art. 31-35.
+
+### Rozdział 4 Zmiany w przepisach i przepis końcowy
+
+### Art. 37.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2018 r. poz. 1036](https://api.sejm.gov.pl/eli/acts/DU/2018/1036/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500.](#gloss-0:5:)) w art. 17 w ust. 1 pkt 39 otrzymuje brzmienie:
+
+„
+
+### 39)
+
+dochody związków zawodowych, społeczno-zawodowych organizacji rolników, izb rolniczych, izb gospodarczych, organizacji samorządu gospodarczego rzemiosła, spółdzielczych związków rewizyjnych, organizacji pracodawców, partii politycznych, europejskich partii politycznych i europejskich fundacji politycznych, działających na podstawie odrębnych przepisów - w części przeznaczonej na cele statutowe, z wyłączeniem działalności gospodarczej;
+
+” .
+
+### Art. 38.
+
+W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2018 r. poz. 450](https://api.sejm.gov.pl/eli/acts/DU/2018/450/text.html), [650](https://api.sejm.gov.pl/eli/acts/DU/2018/650/text.html), [723](https://api.sejm.gov.pl/eli/acts/DU/2018/723/text.html) i [1365](https://api.sejm.gov.pl/eli/acts/DU/2018/1365/text.html)) w art. 3 w ust. 4:
+
+### 1)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+europejskich partii politycznych;
+
+” ;
+
+### 2)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+europejskich fundacji politycznych.
+
+” .
+
+### Art. 39.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE, EURATOM) nr 1141/2014 z dnia 22 października 2014 r. w sprawie statusu i finansowania europejskich partii politycznych i europejskich fundacji politycznych. 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz ustawę z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 114 I z 04.05.2018, str. 1. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500.

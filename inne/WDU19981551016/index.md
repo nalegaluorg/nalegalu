@@ -8,11 +8,9 @@ pos: 1016
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Mając na względzie: – zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu, – patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, – czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej, – obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych, – a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka, jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu – stanowi się, co następuje:
-
-*USTAWA z dnia 18 grudnia 1998 r.*
+# Ustawa z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu
 
 | Pole | Wartość |
 |---|---|
@@ -24,1103 +22,1152 @@ domain: null
 | Data ogłoszenia | 1998-12-18 |
 | Data wydania | 1998-12-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981551016) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1998/1016/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1998/1016) |
 
-Art. 56–67. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiemu i jego organy](#chpt_2) [Rozdział 3 - Gromadzenie dokumentów przez Instytut Pamięci](#chpt_3) [Rozdział 4 - Udostępnianie dokumentów przez Instytut Pamięci](#chpt_4) [Rozdział 5 - Funkcje śledcze Instytutu Pamięci](#chpt_5) [Rozdział 6 - Funkcje edukacyjne Instytutu Pamięci](#chpt_6) [Rozdział 7 - Przepisy karne](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_8)
 
-**Art. 1.** Ustawa reguluje:
+TOC
 
-**Art. 2.**
+## Treść ustawy
 
-1. Zbrodniami komunistycznymi, w rozumieniu ustawy, są czyny popełnione przez funkcjonariuszy państwa komunistycznego w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r. polegające na stosowaniu represji lub innych form naruszania praw człowieka wobec jednostek lub grup ludności bądź w związku z ich stosowaniem, stanowiące przestępstwa według polskiej ustawy karnej obowiązującej w czasie ich popełnienia. Zbrodniami komunistycznymi są również czyny popełnione przez tych funkcjonariuszy w okresie, o którym mowa w zdaniu poprzedzającym, zawierające znamiona czynów zabronionych określonych w art. 187, 193 lub 194 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. – Kodeks karny albo art. 265 § 1, art. 266 § 1, 2 lub 4 lub art. 267 ustawy z dnia 19 kwietnia 1969 r. – Kodeks karny, dokonane przeciwko dokumentom w rozumieniu art. 3 ust. 1 i 3 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2021 r. poz. 1633 oraz z 2022 r. poz. 1459 i 1512) na szkodę osób, których te dokumenty dotyczą.
+Mając na względzie:
 
-2. Funkcjonariuszem państwa komunistycznego, w rozumieniu ustawy, jest funkcjonariusz publiczny, a także osoba, która podlegała ochronie równej ochronie funkcjonariusza publicznego, w szczególności funkcjonariusz państwowy oraz osoba pełniąca funkcję kierowniczą w organie statutowym partii komunistycznych.
+- - zachowanie pamięci o ogromie ofiar, strat i szkód poniesionych przez Naród Polski w latach II wojny światowej i po jej zakończeniu,
 
-**Art. 2a.**
+- - patriotyczne tradycje zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem,
 
-- **2)** Zbrodniami ukraińskich nacjonalistów i członków ukraińskich formacji kolaborujących z Trzecią Rzeszą Niemiecką, w rozumieniu ustawy, są czyny popełnione przez ukraińskich nacjonalistów w latach 1925–1950, polegające na stosowaniu przemocy, terroru lub innych form naruszania praw człowieka wobec jednostek lub grup ludności. Zbrodnią ukraińskich nacjonalistów i członków ukraińskich formacji kolaborujących z Trzecią Rzeszą Niemiecką jest również udział w eksterminacji ludności żydowskiej oraz ludobójstwie na obywatelach II Rzeczypospolitej na terenach Wołynia i Małopolski Wschodniej.
+- - czyny obywateli dokonywane na rzecz niepodległego bytu Państwa Polskiego i w obronie wolności oraz godności ludzkiej,
 
-**Art. 3.** Zbrodniami przeciwko ludzkości są w szczególności zbrodnie ludobójstwa w rozumieniu Konwencji w sprawie zapobiegania i karania zbrodni ludobójstwa, przyjętej w dniu 9 grudnia 1948 r. (Dz. U. z 1952 r. poz. 9, 10 i 213 oraz z 1998 r. poz. 177), a także inne poważne prześladowania z powodu przynależności osób prześladowanych do określonej grupy narodowościowej, politycznej, społecznej, rasowej lub religijnej, jeżeli były dokonywane przez funkcjonariuszy publicznych albo przez nich inspirowane lub tolerowane.
+- - obowiązek ścigania zbrodni przeciwko pokojowi, ludzkości i zbrodni wojennych,
 
-**Art. 4.**
+- - a także powinność zadośćuczynienia przez nasze państwo wszystkim pokrzywdzonym przez państwo łamiące prawa człowieka,
 
-1. Zbrodnie:
+jako wyraz naszego przekonania, że żadne bezprawne działania państwa przeciwko obywatelom nie mogą być chronione tajemnicą ani nie mogą ulec zapomnieniu - stanowi się, co następuje:
 
-- **1)** stanowiące według prawa międzynarodowego zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne, o których mowa w art. 1 pkt 1 lit. a, oraz
-- **2)** komunistyczne, w rozumieniu art. 2 ust. 1, niebędące zbrodniami wojennymi lub zbrodniami przeciwko ludzkości – nie ulegają przedawnieniu.
+### Rozdział 1 Przepisy ogólne
 
-1a. (uchylony) 1b. Do zbrodni komunistycznych, o których mowa w ust. 1 pkt 2, przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.
+### Art. 1.
 
-2. Zbrodnie wymienione w art. 1 w pkt 1 lit. a, popełnione na innych osobach niż obywatele polscy, są przedmiotem działania organów powołanych przez ustawę, jeżeli zostały popełnione na terytorium Państwa Polskiego.
+Ustawa reguluje:
 
-3. W stosunku do sprawców zbrodni wojennych, zbrodni przeciwko ludzkości lub zbrodni komunistycznych nie stosuje się wydanych przed dniem 7 grudnia 1989 r. przepisów ustaw i dekretów, które przewidują amnestię lub abolicję.
+### 1)
 
-**Art. 5.**
+ewidencjonowanie, gromadzenie, udostępnianie, zarządzanie i korzystanie z dokumentów organów bezpieczeństwa państwa, wytworzonych oraz gromadzonych od dnia 22 lipca 1944 r. do dnia 31 grudnia 1989 r., a także organów bezpieczeństwa Trzeciej Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich, dotyczących:
 
-1. Organami bezpieczeństwa państwa, w rozumieniu ustawy, są:
+### a)
 
-- **1)** Resort Bezpieczeństwa Publicznego Polskiego Komitetu Wyzwolenia Narodowego;
-- **2)** Ministerstwo Bezpieczeństwa Publicznego;
-- **3)** Komitet do Spraw Bezpieczeństwa Publicznego;
-- **4)** jednostki organizacyjne podległe organom, o których mowa w pkt 1–3, a w szczególności jednostki Milicji Obywatelskiej w okresie do dnia 14 grudnia 1954 r.;
-- **5)** instytucje centralne Służby Bezpieczeństwa Ministerstwa Spraw Wewnętrznych oraz podległe im jednostki terenowe w wojewódzkich, powiatowych i równorzędnych komendach Milicji Obywatelskiej oraz w wojewódzkich, rejonowych i równorzędnych urzędach spraw wewnętrznych;
-- **6)** Akademia Spraw Wewnętrznych;
-- **7)** Zwiad Wojsk Ochrony Pogranicza;
-- **8)** Zarząd Główny Służby Wewnętrznej jednostek wojskowych Ministerstwa Spraw Wewnętrznych oraz podległe mu komórki;
-- **9)** Informacja Wojskowa;
-- **10)** Wojskowa Służba Wewnętrzna;
-- **11)** Zarząd II Sztabu Generalnego Wojska Polskiego;
-- **12)** inne służby Sił Zbrojnych prowadzące działania operacyjno-rozpoznawcze lub dochodzeniowo-śledcze, w tym w rodzajach broni oraz w okręgach wojskowych;
-- **13)** Główny Urząd Kontroli Prasy, Publikacji i Widowisk wraz z wojewódzkimi i miejskimi urzędami kontroli prasy, publikacji i widowisk oraz Główny Urząd Kontroli Publikacji i Widowisk wraz z okręgowymi urzędami;
-- **14)** Urząd do Spraw Wyznań oraz terenowe organy administracji państwowej o właściwości szczególnej do spraw wyznań stopnia wojewódzkiego.
+popełnionych na osobach narodowości polskiej lub obywatelach polskich innych narodowości w okresie od dnia 1 września 1939 r. do dnia 31 grudnia 1989 r.;
 
-2. Do organów bezpieczeństwa państwa, w rozumieniu ustawy, należą także organy i instytucje cywilne i wojskowe państw obcych o zadaniach podobnych do zadań organów, o których mowa w ust. 1.
+- - zbrodni nazistowskich,
 
-3. Jednostkami Służby Bezpieczeństwa, w rozumieniu ustawy, są te jednostki Ministerstwa Spraw Wewnętrznych, które z mocy prawa podlegały rozwiązaniu w chwili zorganizowania Urzędu Ochrony Państwa, oraz te jednostki, które były ich poprzedniczkami.
+- - zbrodni komunistycznych,
 
-**Art. 6.** (uchylony)
+- - innych przestępstw stanowiących zbrodnie przeciwko pokojowi, ludzkości lub zbrodnie wojenne,
 
-**Art. 7.** Dokumentami, w rozumieniu ustawy, są:
+### b)
 
-#### Rozdział 2 Instytut Pamięci Narodowej – Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu i jego organy
+innych represji z motywów politycznych, jakich dopuścili się funkcjonariusze polskich organów ścigania lub wymiaru sprawiedliwości albo osoby działające na ich zlecenie, a ujawnionych w treści orzeczeń zapadłych na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego ([Dz. U. Nr 34, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1991/149/text.html), z [1993 r. Nr 36, poz. 159](https://api.sejm.gov.pl/eli/acts/DU/1993/159/text.html), z [1995 r. Nr 28, poz. 143](https://api.sejm.gov.pl/eli/acts/DU/1995/143/text.html) i z [1998 r. Nr 97, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1998/604/text.html)),
 
-**Art. 8.**
+### c)
 
-1. W celu realizacji zadań określonych w art. 1 tworzy się Instytut Pamięci Narodowej – Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwany dalej „Instytutem Pamięci”.
+działalności organów bezpieczeństwa państwa, o których mowa w art. 5,
 
-2. Instytut Pamięci jest finansowany z budżetu państwa, w którym stanowi odrębną część.
+### 2)
 
-3. Organizację Instytutu Pamięci w zakresie nieuregulowanym ustawą określa statut nadany przez Prezesa Instytutu Pamięci.
+tryb postępowania w zakresie ścigania przestępstw określonych w pkt 1 lit. a),
 
-**Art. 9.**
+### 3)
 
-1. Instytutem Pamięci kieruje Prezes Instytutu Pamięci.
+ochronę danych osobowych osób pokrzywdzonych,
 
-2. Prezes Instytutu Pamięci w sprawowaniu swego urzędu jest niezależny od organów władzy państwowej.
+### 4)
 
-**Art. 10.**
+prowadzenie działań w zakresie edukacji publicznej.
 
-1. Prezesa Instytutu Pamięci powołuje i odwołuje Sejm Rzeczypospolitej Polskiej za zgodą Senatu, na wniosek Kolegium Instytutu Pamięci, które zgłasza kandydata spoza swego grona.
+### Art. 2.
 
-2. Kadencja Prezesa Instytutu Pamięci trwa 5 lat, licząc od dnia złożenia ślubowania. Po upływie kadencji pełni on obowiązki do czasu objęcia stanowiska przez nowego Prezesa Instytutu Pamięci.
+### 1.
 
-2a. W razie śmierci Prezesa Instytutu Pamięci, do czasu objęcia stanowiska przez nowo powołanego Prezesa Instytutu Pamięci, jego obowiązki pełni jeden z zastępców Prezesa Instytutu Pamięci wskazany przez Marszałka Sejmu.
+Zbrodniami komunistycznymi, w rozumieniu ustawy, są czyny popełnione przez funkcjonariuszy państwa komunistycznego w okresie od dnia 17 września 1939 r. do dnia 31 grudnia 1989 r., polegające na stosowaniu represji lub innych form naruszania praw człowieka wobec jednostek lub grup ludności bądź w związku z ich stosowaniem, stanowiące przestępstwa według polskiej ustawy karnej obowiązującej w czasie ich popełnienia.
 
-3. Nie wcześniej niż na 6 miesięcy i nie później niż na 3 miesiące przed upływem kadencji Prezesa Instytutu Pamięci przewodniczący Kolegium Instytutu Pamięci ogłasza publiczny konkurs na stanowisko Prezesa Instytutu Pamięci. W przypadku innej przyczyny opróżnienia stanowiska Prezesa Instytutu Pamięci, termin zgłaszania się kandydatów do konkursu na to stanowisko wynosi 30 dni od dnia ogłoszenia konkursu. Przesłuchania kandydatów na stanowisko Prezesa Instytutu Pamięci mają charakter publiczny.
+### 2.
 
-4. Ta sama osoba nie może być Prezesem Instytutu Pamięci więcej niż przez dwie kolejne kadencje.
+Funkcjonariuszem państwa komunistycznego, w rozumieniu ustawy, jest funkcjonariusz publiczny, a także osoba, która podlegała ochronie równej ochronie funkcjonariusza publicznego, w szczególności funkcjonariusz państwowy oraz osoba pełniąca funkcję kierowniczą w organie statutowym partii komunistycznych.
 
-**Art. 10a.**
+### Art. 3.
 
-1. Przewodniczący Kolegium Instytutu Pamięci udostępnia ogłoszenie o konkursie na stanowisko Prezesa Instytutu Pamięci w Biuletynie Informacji Publicznej Instytutu Pamięci.
+Zbrodniami przeciwko ludzkości są w szczególności zbrodnie ludobójstwa w rozumieniu Konwencji w sprawie zapobiegania i karania zbrodni ludobójstwa, przyjętej w dniu 9 grudnia 1948 r. (Dz. U. z 1952 r. Nr 2, poz. 9 i 10, Nr 31, poz. 213 i z 1998 r. Nr 33, poz. 177), a także czyny zabronione pod groźbą kary przez polską ustawę karną, popełnione w czasie jej obowiązywania, stanowiące inne poważne prześladowanie z powodu przynależności osób prześladowanych do określonej grupy narodowościowej, politycznej, społecznej, rasowej lub religijnej, jeśli były dokonywane przez funkcjonariuszy publicznych albo przez nich inspirowane lub tolerowane.
 
-2. Ogłoszenie o konkursie zawiera:
+### Art. 4.
 
-- **1)** określenie stanowiska, na które jest przeprowadzany konkurs;
-- **2)** wymagania niezbędne do sprawowania stanowiska, w szczególności określone w art. 11;
-- **3)** wykaz dokumentów i oświadczeń kandydata oraz informacje o sposobie, terminie i miejscu ich składania;
-- **4)** informacje o terminie rozpoczęcia i zakończenia konkursu.
+### 1.
 
-3. Członek Kolegium Instytutu Pamięci, który jest małżonkiem kandydata lub jego krewnym albo powinowatym, do drugiego stopnia włącznie, albo pozostaje wobec niego w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do jego bezstronności, nie może uczestniczyć w przeprowadzaniu konkursu. Członek Kolegium Instytutu Pamięci składa oświadczenie o niewystępowaniu tych okoliczności przed rozpoczęciem pierwszego etapu konkursu, a jeżeli te okoliczności ujawnią się po rozpoczęciu pierwszego etapu konkursu, członek Kolegium Instytutu Pamięci składa oświadczenie o wyłączeniu się z dalszego udziału w postępowaniu konkursowym.
+Bieg terminu przedawnienia zbrodni komunistycznych, w rozumieniu art. 2, nie będących zbrodniami wojennymi lub zbrodniami przeciwko ludzkości, rozpoczyna się od dnia 1 stycznia 1990 r. Przepisu art. 4 § 1 Kodeksu karnego nie stosuje się.
 
-4. Czynności dokonane przy udziale członka Kolegium Instytutu Pamięci podlegającego wyłączeniu mogą być uznane za nieważne, jeżeli mogły one mieć wpływ na ustalenie wyniku konkursu. Decyzję w tej sprawie Kolegium Instytutu Pamięci podejmuje bezwzględną większością głosów.
+### 2.
 
-5. Konkurs składa się z dwóch etapów:
+Zbrodnie wymienione w art. 1 w pkt 1 lit. a), popełnione na innych osobach niż obywatele polscy, są przedmiotem działania organów powołanych przez ustawę, jeżeli zostały popełnione na terytorium Państwa Polskiego.
 
-- **1)** etap pierwszy polegający na sprawdzeniu dokumentów i oświadczeń złożonych przez kandydatów, ustaleniu na ich podstawie, czy spełniają oni wymogi formalne określone w ogłoszeniu o konkursie, i wystąpieniu do właściwych organów i instytucji państwowych o udzielenie informacji w zakresie, o którym mowa w art. 11 ust. 2–2b;
-- **2)** etap drugi polegający na publicznym wysłuchaniu kandydatów, podczas którego kandydat prezentuje swoje umiejętności i przedstawia koncepcje kierowania Instytutem Pamięci oraz plany dotyczące jego działania, a każdy członek Kolegium Instytutu Pamięci ma prawo zadawania pytań kandydatom.
+### 3.
 
-6. Lista kandydatów spełniających wymogi formalne, dopuszczonych do drugiego etapu konkursu jest udostępniana w Biuletynie Informacji Publicznej Instytutu Pamięci.
+W stosunku do sprawców zbrodni wojennych, zbrodni przeciwko ludzkości lub zbrodni komunistycznych nie stosuje się wydanych przed dniem 7 grudnia 1989 r. przepisów ustaw i dekretów, które przewidują amnestię lub abolicję.
 
-7. Termin i miejsce przeprowadzenia drugiego etapu konkursu wyznacza przewodniczący Kolegium Instytutu Pamięci, zawiadamiając kandydatów dopuszczonych do drugiego etapu konkursu oraz członków Kolegium Instytutu Pamięci. Informacje o terminie i miejscu przeprowadzenia drugiego etapu konkursu udostępnia się w Biuletynie Informacji Publicznej Instytutu Pamięci. Przewodniczący Kolegium Instytutu Pamięci może ustalić, ze względów bezpieczeństwa, maksymalną liczbę osób obecnych w miejscu wysłuchania kandydatów.
+### Art. 5.
 
-8. W toku konkursu sprawdzeniu przez Kolegium Instytutu Pamięci podlegają wiedza, predyspozycje oraz umiejętności kandydatów niezbędne do wykonywania zadań na stanowisku Prezesa Instytutu Pamięci.
+### 1.
 
-9. Kolegium Instytutu Pamięci podejmuje uchwałę w sprawie wyłonienia kandydata na stanowisko Prezesa Instytutu Pamięci w głosowaniu tajnym, bezwzględną większością głosów. Jeżeli w pierwszym głosowaniu żaden z kandydatów nie uzyska bezwzględnej większości głosów, wówczas przeprowadza się kolejne głosowanie zwykłą większością głosów, z udziałem kandydatów, którzy uzyskali dwie kolejne największe liczby głosów. Jeżeli w głosowaniach wymienionych w zdaniu pierwszym i drugim żaden z kandydatów nie uzyska wymaganej większości głosów, Kolegium Instytutu Pamięci, w drodze uchwały, uznaje konkurs za nierozstrzygnięty, a jego przewodniczący ponownie ogłasza konkurs.
+Organami bezpieczeństwa państwa, w rozumieniu ustawy, są:
 
-10. Członek Kolegium Instytutu Pamięci może oddać jeden głos w każdej turze głosowania.
+### 1)
 
-11. Uchwałę Kolegium Instytutu Pamięci, o której mowa w ust. 9, podpisują wszyscy członkowie Kolegium Instytutu Pamięci. Członek Kolegium Instytutu Pamięci może zgłosić zdanie odrębne wraz z uzasadnieniem.
+Resort Bezpieczeństwa Publicznego Polskiego Komitetu Wyzwolenia Narodowego,
 
-**Art. 11.**
+### 2)
 
-1. Na stanowisko Prezesa Instytutu Pamięci może być powołana osoba, która:
+Ministerstwo Bezpieczeństwa Publicznego,
 
-- **1)** posiada wyłącznie obywatelstwo polskie;
-- **2)** nie została skazana prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z urzędu;
-- **3)** wyróżnia się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci;
-- **4)** posiada stopień naukowy doktora, doktora habilitowanego lub tytuł naukowy profesora.
+### 3)
 
-2. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana osoba, która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5, ani też sędzia, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
+Komitet do Spraw Bezpieczeństwa Publicznego,
 
-2a. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, co do której w archiwach podlegających przekazaniu do Instytutu Pamięci lub w innych archiwach państwowych znajduje się informacja o tym, że istnieją wobec niej przesłanki przewidziane w ust. 2.
+### 4)
 
-2b. Na stanowisko Prezesa Instytutu Pamięci nie może być powołana również osoba, której działalność związana z dostępem do informacji niejawnych lub objęta ochroną jako informacja niejawna uniemożliwia szczegółowe przedstawienie informacji o przebiegu swojej służby, pracy lub współpracy.
+jednostki organizacyjne podległe organom, o których mowa w pkt 1-3,
 
-3. Prezes Instytutu Pamięci nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej niedającej się pogodzić z godnością jego urzędu.
+### 5)
 
-4. Prezes Instytutu Pamięci nie może wykonywać innych zajęć zawodowych, z wyjątkiem zajmowania stanowiska profesora szkoły wyższej.
+jednostki organizacyjne Służby Bezpieczeństwa Ministerstwa Spraw Wewnętrznych oraz podległe im jednostki terenowe w wojewódzkich, powiatowych i równorzędnych komendach Milicji Obywatelskiej oraz w wojewódzkich, rejonowych i równorzędnych urzędach spraw wewnętrznych,
 
-5. Stanowiska Prezesa Instytutu Pamięci nie można łączyć z mandatem posła albo senatora.
+### 6)
 
-6. Prokuratorem Instytutu Pamięci może być osoba, która:
+Zwiad Wojsk Ochrony Pogranicza,
 
-- **1)** wyróżnia się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci;
-- **2)** spełnia warunki, o których mowa w ust. 2–2b.
+### 7)
 
-7. Pracownikiem Instytutu Pamięci może być osoba, która spełnia warunki, o których mowa w ust. 1 pkt 3 oraz w ust. 2–2b, i nie prowadzi działalności publicznej niedającej się pogodzić z działalnością Instytutu Pamięci.
+Zarząd Główny Służby Wewnętrznej jednostek wojskowych Ministerstwa Spraw Wewnętrznych oraz podległe mu komórki,
 
-**Art. 12.** Przed przystąpieniem do wykonywania obowiązków Prezes Instytutu Pamięci składa przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „Ślubuję uroczyście na powierzonym mi stanowisku Prezesa Instytutu Pamięci Narodowej służyć wiernie Narodowi Polskiemu, stać na straży prawa, obowiązki mojego urzędu wypełniać sumiennie, a w postępowaniu kierować się zasadami godności i uczciwości.”. Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
+### 8)
 
-**Art. 13.**
+Informacja Wojska Polskiego, Zarząd Informacji Naczelnego Dowództwa Wojska Polskiego, Kierownictwo Informacji Wojska Polskiego, Główny Zarząd Informacji Wojska Polskiego oraz jednostki podległe tym organom,
 
-1. Kadencja Prezesa Instytutu Pamięci wygasa w razie:
+### 9)
 
-- **1)** śmierci;
-- **2)** rezygnacji;
-- **3)** odwołania;
-- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z urzędu.
+Wojskowa Służba Wewnętrzna,
 
-2. Sejm Rzeczypospolitej Polskiej odwołuje Prezesa Instytutu Pamięci, jeżeli:
+### 10)
 
-- **1)** z powodu choroby, ułomności lub upadku sił stał się trwale niezdolny do pełnienia obowiązków Prezesa Instytutu Pamięci;
-- **2)** nie wypełnia obowiązków nałożonych przez ustawę lub działa na szkodę Instytutu Pamięci;
-- **3)** nie zostało przyjęte sprawozdanie z działalności Instytutu Pamięci za dany rok kalendarzowy.
+Zarząd II Sztabu Generalnego Wojska Polskiego,
 
-**Art. 14.**
+### 11)
 
-1. Prezes Instytutu Pamięci nie może być bez uprzedniej zgody Rzeczypospolitej Polskiej pociągnięty do odpowiedzialności karnej ani pozbawiony wolności, z zastrzeżeniem ust. 2.
+inne służby Sił Zbrojnych prowadzące działania operacyjno-rozpoznawcze lub dochodzeniowo-śledcze, w tym w rodzajach broni oraz w okręgach wojskowych.
 
-2. Prezes Instytutu Pamięci może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenia, o których mowa w ust. 3, w trybie określonym w tym przepisie.
+### 2.
 
-3. W przypadku popełnienia przez Prezesa Instytutu Pamięci wykroczenia, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2022 r. poz. 2151 i 2311), przyjęcie przez Prezesa Instytutu Pamięci mandatu karnego albo uiszczenie grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124), stanowi oświadczenie o wyrażeniu przez niego zgody na pociągnięcie go do odpowiedzialności w tej formie.
+Organami bezpieczeństwa państwa, w rozumieniu ustawy, są także jednostki Ministerstwa Spraw Wewnętrznych, które z mocy prawa podlegały rozwiązaniu w chwili zorganizowania Urzędu Ochrony Państwa, oraz te jednostki, które były ich poprzedniczkami.
 
-4. Prezes Instytutu Pamięci nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+### 3.
 
-**Art. 14a.** Przedawnienie w postępowaniu karnym czynu objętego immunitetem nie biegnie w okresie korzystania z immunitetu.
+Do organów bezpieczeństwa państwa, w rozumieniu ustawy, należą także organy i instytucje cywilne i wojskowe państw obcych o zadaniach podobnych do zadań organów, o których mowa w ust. 1.
 
-**Art. 14b.**
+### Art. 6.
 
-1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+### 1.
 
-2. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia prywatnego składa oskarżyciel prywatny, po wniesieniu sprawy do sądu.
+Pokrzywdzonym, w rozumieniu ustawy, jest osoba, o której organy bezpieczeństwa państwa zbierały informacje na podstawie celowo gromadzonych danych, w tym w sposób tajny.
 
-3. Wniosek, o którym mowa w ust. 2, sporządza i podpisuje adwokat lub radca prawny, z wyjątkiem wniosków składanych w swoich sprawach przez sędziów, prokuratorów, adwokatów, radców prawnych, notariuszy oraz profesorów i doktorów habilitowanych nauk prawnych.
+### 2.
 
-4. Wnioski, o których mowa w ust. 1 i 2, powinny zawierać:
+W razie śmierci pokrzywdzonego jego uprawnienia wynikające z ustawy przysługują osobie mu najbliższej w rozumieniu art. 115 § 11 Kodeksu karnego. Przepisu tego nie stosuje się w razie istnienia dowodu, że byłoby to sprzeczne z wolą pokrzywdzonego.
 
-- **1)** oznaczenie wnioskodawcy oraz pełnomocnika, o ile został ustanowiony;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci;
-- **3)** wskazanie podstawy prawnej wniosku;
-- **4)** dokładne określenie czynu, którego dotyczy wniosek, ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz jego skutków, a zwłaszcza charakteru powstałej szkody;
-- **5)** uzasadnienie.
+### 3.
 
-**Art. 14c.**
+Pokrzywdzonym nie jest osoba, która została następnie funkcjonariuszem, pracownikiem lub współpracownikiem organów bezpieczeństwa państwa.
 
-1. Wniosek o wyrażenie zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej składa się Marszałkowi Sejmu.
+### Art. 7.
 
-2. Jeżeli wniosek nie spełnia wymogów formalnych, o których mowa w art. 14b ust. 3 lub 4, Marszałek wzywa wnioskodawcę do poprawienia lub uzupełnienia wniosku w terminie 14 dni, wskazując niezbędny zakres poprawienia lub uzupełnienia. W przypadku niepoprawienia lub nieuzupełnienia wniosku we wskazanym terminie i zakresie Marszałek postanawia o pozostawieniu wniosku bez biegu.
+Dokumentem, w rozumieniu ustawy, jest każdy przedmiot lub zapis na komputerowym nośniku informacji, o których mowa w art. 115 § 14 Kodeksu karnego.
 
-3. Jeżeli wniosek spełnia wymogi formalne, o których mowa w art. 14b ust. 3 i 4, Marszałek kieruje go do organu właściwego na podstawie regulaminu do rozpatrzenia wniosku, zawiadamiając jednocześnie Prezesa Instytutu Pamięci o treści wniosku.
+### Rozdział 2 Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiemu i jego organy
 
-4. Organ właściwy do rozpatrzenia wniosku powiadamia Prezesa Instytutu Pamięci o terminie rozpatrzenia wniosku. Pomiędzy doręczeniem powiadomienia a terminem rozpatrzenia wniosku, o ile nie zachodzi wypadek niecierpiący zwłoki, powinno upłynąć co najmniej 7 dni.
+### Art. 8.
 
-5. Na żądanie organu właściwego do rozpatrzenia wniosku sąd albo odpowiedni organ, przed którym toczy się postępowanie wobec Prezesa Instytutu Pamięci, udostępnia akta postępowania.
+### 1.
 
-6. Prezes Instytutu Pamięci przedstawia organowi właściwemu do rozpatrzenia wniosku wyjaśnienia i własne wnioski w tej sprawie w formie pisemnej lub ustnej.
+W celu realizacji zadań określonych w art. 1 tworzy się Instytut Pamięci Narodowej - Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwany dalej „Instytutem Pamięci”.
 
-7. Po rozpatrzeniu sprawy, organ właściwy do rozpatrzenia wniosku uchwala sprawozdanie wraz z propozycją przyjęcia lub odrzucenia wniosku.
+### 2.
 
-8. W trakcie rozpatrywania przez Sejm sprawozdania, o którym mowa w ust. 7, Prezesowi Instytutu Pamięci przysługuje prawo do zabrania głosu.
+Instytut Pamięci jest finansowany z budżetu państwa, w którym stanowi odrębną część.
 
-9. Sejm wyraża zgodę na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na pociągnięcie Prezesa Instytutu Pamięci do odpowiedzialności karnej.
+### 3.
 
-**Art. 14d.**
+Organizację Instytutu Pamięci określa statut, który przyjmuje Kolegium Instytutu Pamięci na wniosek Prezesa Instytutu Pamięci.
 
-1. Zakaz zatrzymania, o którym mowa w art. 14, obejmuje wszelkie formy pozbawienia lub ograniczenia wolności osobistej Prezesa Instytutu Pamięci przez organy stosujące przymus.
+### Art. 9.
 
-2. Wniosek o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci składa się za pośrednictwem Prokuratora Generalnego.
+### 1.
 
-3. Wniosek, o którym mowa w ust. 2, powinien zawierać:
+Instytutem Pamięci kieruje Prezes Instytutu Pamięci.
 
-- **1)** oznaczenie wnioskodawcy;
-- **2)** imię i nazwisko oraz datę i miejsce urodzenia Prezesa Instytutu Pamięci;
-- **3)** dokładne określenie czynu oraz jego kwalifikację prawną;
-- **4)** podstawę prawną zastosowania określonego środka;
-- **5)** uzasadnienie, wskazujące w szczególności na konieczność zastosowania określonego środka.
+### 2.
 
-4. Do postępowania z wnioskiem o wyrażenie zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci przepisy art. 14c ust. 1–8 stosuje się odpowiednio.
+Prezes Instytutu Pamięci w sprawowaniu swego urzędu jest niezależny od organów administracji państwowej.
 
-5. Sejm wyraża zgodę na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci w drodze uchwały podjętej bezwzględną większością ustawowej liczby posłów. Nieuzyskanie wymaganej większości głosów oznacza podjęcie uchwały o niewyrażeniu zgody na zatrzymanie lub aresztowanie Prezesa Instytutu Pamięci.
+### Art. 10.
 
-6. Wymóg uzyskania zgody nie dotyczy wykonania kary pozbawienia wolności orzeczonej prawomocnym wyrokiem sądu.
+### 1.
 
-**Art. 14e.**
+Prezesa Instytutu Pamięci powołuje i odwołuje Sejm Rzeczypospolitej Polskiej, za zgodą Senatu, na wniosek Kolegium Instytutu Pamięci, które zgłasza kandydata spoza swego grona.
 
-1. Marszałek przesyła wnioskodawcy niezwłocznie uchwałę, o której mowa w art. 14c ust. 9 i art. 14d ust. 5.
+### 2.
 
-2. Uchwały, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+Kadencja Prezesa Instytutu Pamięci trwa 7 lat, licząc od dnia złożenia ślubowania. Po upływie kadencji pełni on obowiązki do czasu objęcia stanowiska przez nowego Prezesa Instytutu Pamięci.
 
-**Art. 14f.** Przepisy ustawy dotyczące odpowiedzialności karnej Prezesa Instytutu Pamięci stosuje się odpowiednio do odpowiedzialności za wykroczenia.
+### 3.
 
-**Art. 14g.** Szczegółowy tryb postępowania w sprawach, o których mowa w art. 14a–14f, określa regulamin Sejmu.
+W okresie 3 miesięcy przed upływem kadencji Prezesa Instytutu Pamięci przewodniczący Kolegium Instytutu Pamięci ogłasza publiczny konkurs na to stanowisko, według zasad i w trybie określonych przez Kolegium Instytutu Pamięci. W wypadku innej przyczyny opróżnienia stanowiska Prezesa Instytutu Pamięci, termin zgłaszania się kandydatów do konkursu na to stanowisko wynosi 30 dni od dnia ogłoszenia konkursu. Przesłuchania kandydatów na stanowisko Prezesa Instytutu Pamięci mają charakter publiczny.
 
-**Art. 15.**
+### 4.
 
-1. W Instytucie Pamięci tworzy się Kolegium Instytutu Pamięci.
+Ta sama osoba nie może być Prezesem Instytutu Pamięci więcej niż przez dwie kolejne kadencje.
 
-2. Kolegium Instytutu Pamięci jest organem opiniodawczo-doradczym Prezesa Instytutu Pamięci w sprawach objętych zakresem działania Instytutu Pamięci oraz wykonuje zadania i posiada kompetencje przewidziane w ustawie.
+### Art. 11.
 
-3. Kolegium Instytutu Pamięci składa się z dziewięciu członków, w tym:
+### 1.
 
-- **1)** dwóch powoływanych przez Prezydenta Rzeczypospolitej Polskiej;
-- **2)** pięciu powoływanych przez Sejm Rzeczypospolitej Polskiej;
-- **3)** dwóch powoływanych przez Senat.
+Na stanowisko Prezesa Instytutu Pamięci może być powołany obywatel polski wyróżniający się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci.
 
-4. Członkiem Kolegium Instytutu Pamięci może zostać osoba, która posiada wyłącznie obywatelstwo polskie, wyróżnia się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci.
+### 2.
 
-5. Członkiem Kolegium Instytutu Pamięci nie może zostać osoba, która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5, ani też sędzia, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
+Na stanowisko Prezesa Instytutu Pamięci nie może być powołana osoba, która pełniła służbę, pracowała lub była współpracownikiem organów bezpieczeństwa państwa, wymienionych w art. 5, ani też sędzia, który orzekając uchybił godności urzędu, sprzeniewierzając się niezawisłości sędziowskiej.
 
-6. Członkiem Kolegium Instytutu Pamięci nie może być również osoba, co do której w archiwach podlegających przekazaniu do Instytutu Pamięci lub w innych archiwach państwowych znajduje się informacja o tym, że istnieją wobec niej przesłanki przewidziane w ust. 5.
+### 3.
 
-7. Członek Kolegium Instytutu Pamięci nie może być także pracownikiem ani prokuratorem Instytutu Pamięci, ani świadczyć innych usług na podstawie umowy cywilnoprawnej.
+Prezes Instytutu Pamięci nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej, nie dającej się pogodzić z godnością jego urzędu.
 
-8. Kadencja Kolegium Instytutu Pamięci trwa 7 lat. Funkcję członka Kolegium Instytutu Pamięci można pełnić nie dłużej niż przez dwie kadencje.
+### 4.
 
-9. Członkostwo w Kolegium Instytutu Pamięci ustaje wskutek:
+Prezes Instytutu Pamięci nie może wykonywać innych zajęć zawodowych, z wyjątkiem zajmowania stanowiska profesora szkoły wyższej.
 
-- **1)** śmierci;
-- **2)** rezygnacji;
-- **3)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z urzędu;
-- **4)** odwołania odpowiednio przez Prezydenta Rzeczypospolitej Polskiej, Sejm Rzeczypospolitej Polskiej albo Senat, na wniosek Kolegium Instytutu Pamięci podjęty większością 2/3 głosów ustawowego składu Kolegium Instytutu Pamięci, z powodu długotrwałej choroby lub upadku sił powodujących niezdolność do pełnienia obowiązków albo niewypełniania obowiązków nałożonych przez ustawę lub naruszenia zakazów określonych w ust. 7.
+### 5.
 
-10. W przypadku ustania członkostwa przed upływem kadencji właściwy organ niezwłocznie powołuje nowego członka na okres do zakończenia kadencji Kolegium Instytutu Pamięci.
+Stanowiska Prezesa Instytutu Pamięci nie można łączyć z mandatem posła albo senatora.
 
-11. Członkowi Kolegium Instytutu Pamięci przysługuje miesięczna dieta z tytułu wykonywanych przez niego zadań.
+### 6.
 
-12. Prezes Rady Ministrów określi, w drodze rozporządzenia, wysokość miesięcznej diety przysługującej członkowi Kolegium Instytutu Pamięci z tytułu wykonywanych przez niego zadań, mając na uwadze, że nie może być ona wyższa od czterokrotności minimalnego wynagrodzenia za pracę.
+Warunki, o których mowa w ust. 1, 2, 3 i 5, powinni spełniać również prokuratorzy i pracownicy Instytutu Pamięci, a także członkowie Kolegium Instytutu Pamięci.
 
-13. Pierwsze posiedzenie Kolegium Instytutu Pamięci zwołuje Marszałek Rzeczypospolitej Polskiej.
+### Art. 12.
 
-14. Kolegium Instytutu Pamięci określa w regulaminie organizacyjnym szczegółową organizację i tryb pracy Kolegium Instytutu Pamięci.
+Przed przystąpieniem do wykonywania obowiązków Prezes Instytutu Pamięci składa przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „ Ślubuję uroczyście na powierzonym mi stanowisku Prezesa Instytutu Pamięci Narodowej służyć wiernie Narodowi Polskiemu, stać na straży prawa i strzec praworządności, obowiązki mojego urzędu wypełniać sumiennie, a w postępowaniu kierować się zasadami godności i uczciwości. ” Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
 
-**Art. 16.**
+### Art. 13.
 
-1. Prezes Instytutu Pamięci wykonuje swoje funkcje przy pomocy jednostek organizacyjnych Instytutu Pamięci wymienionych w art. 17.
+Kolegium Instytutu Pamięci wnioskuje o odwołanie Prezesa Instytutu Pamięci większością głosów, jeśli:
 
-2. Prezes Instytutu Pamięci powołuje nie więcej niż trzech swoich zastępców.
+### 1)
 
-**Art. 17.**
+zrzekł się stanowiska,
 
-1. W celu wykonywania zadań Instytutu Pamięci w miejscowościach będących siedzibami sądów apelacyjnych tworzy się oddziały Instytutu Pamięci, zwane dalej „oddziałami”, w innych miastach zaś mogą być utworzone delegatury Instytutu Pamięci, zwane dalej „delegaturami”.
+### 2)
 
-2. Oddziałem Instytutu Pamięci kieruje dyrektor oddziału, a delegaturą Instytutu Pamięci – naczelnik delegatury. Dyrektora oddziału oraz naczelnika delegatury powołuje i odwołuje Prezes Instytutu Pamięci.
+z powodu choroby, ułomności lub upadku sił stał się trwale niezdolny do pełnienia obowiązków Prezesa Instytutu Pamięci,
 
-**Art. 18.**
+### 3)
 
-1. W Instytucie Pamięci działają następujące komórki organizacyjne:
+został skazany prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z urzędu,
 
-- **1)** Główna Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwana dalej „Główną Komisją”;
-- **2)** Archiwum Instytutu Pamięci Narodowej;
-- **3)** Biuro Upamiętniania Walk i Męczeństwa;
-- **4)** Biuro Poszukiwań i Identyfikacji;
-- **5)** Biuro Edukacji Narodowej;
-- **6)** Biuro Badań Historycznych;
-- **7)** Biuro Lustracyjne.
+### 4)
 
-2. W oddziałach Instytutu Pamięci działają następujące komórki organizacyjne:
+sprzeniewierzył się celom ustawy.
 
-- **1)** oddziałowe komisje ścigania zbrodni przeciwko Narodowi Polskiemu, zwane dalej „oddziałowymi komisjami”;
-- **2)** oddziałowe biura lustracyjne;
-- **3)** inne komórki organizacyjne wymienione w statucie Instytutu Pamięci.
+### Art. 14.
 
-3. W delegaturach Instytutu Pamięci działają wydziały i referaty wymienione w statucie Instytutu Pamięci.
+Prezes Instytutu Pamięci nie może być, bez uprzedniej zgody Sejmu Rzeczypospolitej Polskiej, pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Instytutu Pamięci nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
-**Art. 19.**
+### Art. 15.
 
-1. Prokuratorów Głównej Komisji oraz oddziałowych komisji powołuje Prokurator Generalny oraz odwołuje na wniosek Prezesa Instytutu Pamięci.
+### 1.
 
-2. Komórkami organizacyjnymi wymienionymi w art. 18 ust. 1 pkt 2–6 kierują dyrektorzy powoływani i odwoływani przez Prezesa Instytutu Pamięci.
+W Instytucie Pamięci tworzy się Kolegium Instytutu Pamięci, którego członków wybiera Sejm spoza swego grona na trwającą 9 lat kadencję spośród obywateli polskich wyróżniających się wysokimi walorami moralnymi oraz wiedzą przydatną w pracach Instytutu Pamięci.
 
-3. Komórkami organizacyjnymi wymienionymi w art. 18 ust. 2 pkt 3 i ust. 3 kierują naczelnicy i kierownicy powoływani i odwoływani przez Prezesa Instytutu Pamięci.
+### 2.
 
-4. (uchylony)
+W skład Kolegium Instytutu Pamięci wchodzi 9 członków.
 
-5. Oddziałową komisją kieruje naczelnik oddziałowej komisji. Naczelnika oddziałowej komisji powołuje, spośród prokuratorów wymienionych w ust. 1, i odwołuje Prokurator Generalny na wniosek Prezesa Instytutu Pamięci.
+### 3.
 
-5a. Dyrektor Głównej Komisji może powierzyć prokuratorowi oddziałowej komisji pełnienie obowiązków naczelnika oddziałowej komisji na okres nieprzekraczający 6 miesięcy.
+Członkostwo w Kolegium Instytutu Pamięci ustaje wskutek:
 
-6. Pracownik Instytutu Pamięci nie może, bez zezwolenia Prezesa Instytutu Pamięci, podejmować innego zajęcia zawodowego.
+### 1)
 
-7. Prokuratorów Biura Lustracyjnego i prokuratorów oddziałowych biur lustracyjnych powołuje Prokurator Generalny oraz odwołuje na wniosek Prezesa Instytutu Pamięci.
+śmierci,
 
-8. Oddziałowym biurem lustracyjnym kieruje naczelnik oddziałowego biura lustracyjnego. Naczelnika oddziałowego biura lustracyjnego powołuje spośród prokuratorów wymienionych w ust. 7, i odwołuje Prokurator Generalny na wniosek Prezesa Instytutu Pamięci.
+### 2)
 
-9. Dyrektor Biura Lustracyjnego może powierzyć prokuratorowi oddziałowego biura lustracyjnego pełnienie obowiązków naczelnika oddziałowego biura lustracyjnego na okres nieprzekraczający 6 miesięcy.
+rezygnacji,
 
-10. Biurem Lustracyjnym kieruje Dyrektor Biura Lustracyjnego, powoływany spośród prokuratorów Biura Lustracyjnego i odwoływany przez Prokuratora Generalnego na wniosek zgłoszony przez Prezesa Instytutu Pamięci po zasięgnięciu opinii Kolegium Instytutu Pamięci.
+### 3)
 
-11. Kadencja Dyrektora Biura Lustracyjnego trwa 3 lata, licząc od dnia powołania; po upływie kadencji Dyrektor Biura Lustracyjnego pełni swoje obowiązki do czasu powołania nowego Dyrektora Biura Lustracyjnego.
+skazania prawomocnym wyrokiem za przestępstwo umyślne ścigane z urzędu,
 
-12. Ta sama osoba może być Dyrektorem Biura Lustracyjnego nie dłużej niż przez dwie kolejne kadencje.
+### 4)
 
-13. Kadencja Dyrektora Biura Lustracyjnego ustaje z chwilą śmierci lub odwołania.
+odwołania przez Kolegium Instytutu Pamięci większością 2/3 głosów ustawowego składu Kolegium z powodu długotrwałej choroby, ułomności lub upadku sił powodujących trwałą niezdolność do pełnienia obowiązków albo z powodu sprzeniewierzenia się celom ustawy.
 
-14. Dyrektora Biura Lustracyjnego odwołuje się w przypadku:
+### 4.
 
-- **1)** zrzeczenia się stanowiska;
-- **2)** stwierdzenia prawomocnym orzeczeniem sądu niezgodności z prawdą oświadczenia lustracyjnego;
-- **3)** długotrwałej przeszkody uniemożliwiającej wykonywanie obowiązków związanych ze stanowiskiem;
-- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane z urzędu;
-- **5)** skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania.
+Kolegium Instytutu Pamięci wybiera ze swojego składu przewodniczącego Kolegium i jego zastępcę na okres roku.
 
-**Art. 20.** Pracownicy Instytutu Pamięci, także po ustaniu stosunku pracy, są obowiązani zachować w tajemnicy wiadomości związane z działalnością Instytutu Pamięci, powzięte w związku z zatrudnieniem w Instytucie Pamięci, z wyjątkiem uzyskanych w toku badań naukowych.
+### 5.
 
-**Art. 21.** Prezes Instytutu Pamięci oraz członkowie Kolegium Instytutu Pamięci są obowiązani, także po upływie kadencji albo ustaniu członkostwa, do zachowania w tajemnicy wiadomości, do których mieli dostęp w związku z wykonywaną funkcją. Nie dotyczy to faktów powszechnie znanych.
+Po ustaniu członkostwa Kolegium Instytutu Pamięci dokonuje wyboru nowego członka na okres do zakończenia kadencji Kolegium.
 
-**Art. 22.**
+### 6.
 
-1. Prezes Instytutu Pamięci może, w szczególnie uzasadnionych wypadkach, zezwolić na ujawnienie wiadomości stanowiącej informację niejawną oraz na udostępnienie dokumentów lub materiałów zawierających informacje niejawne określonej osobie lub instytucji, jeżeli zachowanie tajemnicy uniemożliwiałoby wykonanie wskazanych w ustawie zadań Instytutu Pamięci.
+Za wykonywanie zadań członkowie Kolegium otrzymują diety w wysokości określonej przez Prezesa Rady Ministrów, w drodze rozporządzenia, a także zwrot kosztów według zasad obowiązujących przy podróżach służbowych na obszarze kraju.
 
-2. W odniesieniu do dokumentów przekazanych do archiwum Instytutu Pamięci, Prezesowi Instytutu Pamięci przysługują uprawnienia określone w art. 6 ust. 7 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742 oraz z 2022 r. poz. 655 i 1933).
+### Art. 16.
 
-**Art. 23.**
+### 1.
 
-1. Prezes Instytutu Pamięci przedstawia okresowo Kolegium Instytutu Pamięci informację o istotnych sprawach związanych z działalnością Instytutu Pamięci.
+Prezes Instytutu Pamięci wykonuje swoje funkcje przy pomocy jednostek organizacyjnych Instytutu Pamięci wymienionych w art. 18.
 
-2. Kolegium Instytutu Pamięci:
+### 2.
 
-- **1)** przyjmuje roczne sprawozdanie Prezesa Instytutu Pamięci z działalności Instytutu Pamięci;
-- **2)** wyraża opinie o przedstawionych przez Prezesa Instytutu Pamięci kandydatach na stanowiska kierownicze w Instytucie Pamięci wymienione w statucie Instytutu Pamięci;
-- **3)** opiniuje i rekomenduje kierunki działalności i programy badawcze Instytutu Pamięci;
-- **4)** zatwierdza szczegółowe zasady ewidencjonowania, przechowywania, opracowywania, zabezpieczania, udostępniania i publikowania dokumentów;
-- **5)** wyraża, na podstawie art. 36 ust. 9, opinię o zasadności odmowy udostępnienia dokumentów zgromadzonych przez Instytut Pamięci;
-- **6)** ustala priorytety w zakresie udostępniania dokumentów zgromadzonych przez Instytut Pamięci;
-- **7)** zajmuje stanowisko w sprawach ważnych dla Instytutu Pamięci;
-- **8)** wykonuje inne zadania i posiada kompetencje przewidziane w ustawie.
+Prezes Instytutu Pamięci może powołać nie więcej niż trzech swoich zastępców.
 
-3. Kolegium Instytutu Pamięci zatwierdza informację roczną, o której mowa w art. 24 ust. 1.
+### Art. 17.
 
-4. Kolegium Instytutu Pamięci przyjmuje uchwały większością głosów w obecności co najmniej połowy ustawowej liczby członków Kolegium.
+### 1.
 
-**Art. 24.**
+W celu wykonywania zadań Instytutu Pamięci w miejscowościach będących siedzibami sądów apelacyjnych tworzy się oddziały Instytutu Pamięci, zwane dalej „oddziałami”, w innych miastach zaś mogą być utworzone delegatury Instytutu Pamięci, zwane dalej „delegaturami”.
 
-1. Prezes Instytutu Pamięci składa Sejmowi i Senatowi, raz w roku, informację o działalności Instytutu Pamięci oraz o działalności Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL, zwanego dalej „Muzeum”.
+### 2.
 
-2. Informacja, o której mowa w ust. 1, w części dotyczącej bezpieczeństwa lub obronności państwa może być utajniona.
+Oddziałem Instytutu Pamięci kieruje dyrektor oddziału, a delegaturą Instytutu Pamięci - naczelnik delegatury. Dyrektora oddziału oraz naczelnika delegatury powołuje i odwołuje Prezes Instytutu Pamięci.
 
-3. Informacja Prezesa Instytutu Pamięci jest podawana do wiadomości publicznej, z wyłączeniem części, o której mowa w ust. 2.
+### Art. 18.
 
-4. Prezes Instytutu Pamięci składa raz w roku, za pośrednictwem Marszałka Sejmu, do wyłącznej wiadomości członków sejmowej Komisji do Spraw Służb Specjalnych, informację o sprawach określonych w art. 38.
+### 1.
 
-**Art. 24a.**
+W Instytucie Pamięci tworzy się:
 
-1. Prezes Instytutu Pamięci składa Kolegium Instytutu Pamięci sprawozdanie z działalności Instytutu Pamięci za dany rok kalendarzowy w terminie do dnia 31 marca roku następnego.
+### 1)
 
-2. Kolegium Instytutu Pamięci przyjmuje sprawozdanie z działalności Instytutu Pamięci za dany rok kalendarzowy bezwzględną większością głosów.
+Główną Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu, zwaną dalej „Główną Komisją”,
 
-3. Do sprawozdania, o którym mowa w ust. 1, przepisy art. 24 ust. 2 i 3 stosuje się odpowiednio.
+### 2)
 
-#### Rozdział 3 Gromadzenie dokumentów przez Instytut Pamięci
+Biuro Udostępniania i Archiwizacji Dokumentów,
 
-**Art. 25.**
+### 3)
 
-1. Nie później niż w terminie 60 dni od dnia utworzenia Instytutu Pamięci organy, o których mowa niżej, są obowiązane przygotować do przekazania do archiwum Instytutu Pamięci dokumenty, zbiory danych, rejestry i kartoteki wytworzone oraz zgromadzone przez organy bezpieczeństwa państwa, organy więziennictwa, sądy i prokuratury oraz organy bezpieczeństwa III Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich. Obowiązek ten ciąży na:
+Biuro Edukacji Publicznej.
 
-- **1)** Ministrze Spraw Wewnętrznych i Administracji oraz Szefie Urzędu Ochrony Państwa – co do dokumentów, zbiorów danych, rejestrów i kartotek, a także akt funkcjonariuszy, wytworzonych lub gromadzonych w okresie do dnia 6 maja 1990 r.;
-- **2)** Ministrze Obrony Narodowej – co do dokumentów, zbiorów danych, rejestrów i kartotek wojskowych organów bezpieczeństwa, a także akt funkcjonariuszy tych służb, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r.;
-- **3)** Ministrze Sprawiedliwości – co do dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych oraz gromadzonych przez organy więziennictwa do dnia 31 grudnia 1956 r., dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych lub gromadzonych przez wydział ochrony Centralnego Zarządu Zakładów Karnych i podległe mu jednostki w okresie do dnia 31 grudnia 1989 r., a także akt penitencjarnych osób represjonowanych z motywów politycznych osadzonych w zakładach karnych, aresztach śledczych i obozach odosobnienia;
-- **4)** prezesach sądów powszechnych i wojskowych – co do akt spraw osób represjonowanych z motywów politycznych;
-- **5)** prokuratorach kierujących powszechnymi jednostkami organizacyjnymi prokuratury – co do akt spraw, w tym akt podręcznych spraw, o których mowa w pkt 4;
-- **6)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych – co do akt byłej Polskiej Partii Robotniczej oraz byłej Polskiej Zjednoczonej Partii Robotniczej dotyczących organów bezpieczeństwa państwa, a także akt organów bezpieczeństwa państw okupacyjnych;
-- **7)** dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych – co do dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w pkt 1– 5, a przechowywanych w tych archiwach; przekazanie ich do Instytutu Pamięci następuje na zasadzie użyczenia.
+### 2.
 
-2. Przekazanie akt, o których mowa w ust. 1 pkt 6, polega na dostarczeniu kopii.
+W oddziałach tworzy się:
 
-3. Obowiązek określony w ust. 1 pkt 1–5 dotyczy także kopii dokumentów, zbiorów danych i kartotek, niezależnie od czasu ich sporządzenia.
+### 1)
 
-4. Na żądanie Prezesa Instytutu Pamięci:
+oddziałowe komisje ścigania zbrodni przeciwko Narodowi Polskiemu, zwane dalej „oddziałowymi komisjami”,
 
-- **1)** minister właściwy do spraw wewnętrznych,
-- **2)** Minister Obrony Narodowej,
-- **3)** Minister Sprawiedliwości,
-- **4)** prezes sądu powszechnego i wojskowego,
-- **5)** prokurator kierujący powszechną jednostką organizacyjną prokuratury,
-- **6)** dyrektor Archiwum Akt Nowych oraz innego archiwum państwowego,
-- **7)** Szef Agencji Bezpieczeństwa Wewnętrznego, Szef Agencji Wywiadu, Szef Służby Kontrwywiadu Wojskowego oraz Szef Służby Wywiadu Wojskowego,
-- **8)** inne instytucje – przekazują do archiwum Instytutu Pamięci dokumenty nieprzekazane.
+### 2)
 
-5. Minister Spraw Wewnętrznych i Administracji, Szef Urzędu Ochrony Państwa oraz Minister Obrony Narodowej mogą wykonać dla potrzeb urzędu kopie akt funkcjonariuszy pozostających w służbie, które powstały w okresach, o których mowa odpowiednio w ust. 1 pkt 1 lub 2.
+oddziałowe biura udostępniania i archiwizacji dokumentów,
 
-6. Prezes Instytutu Pamięci wyznacza organom określonym w ust. 1 pkt 1– 7 terminy przejęcia dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w tym przepisie.
+### 3)
 
-**Art. 26.**
+oddziałowe biura edukacji publicznej.
 
-1. Do archiwum Instytutu Pamięci przekazuje się dokumenty wytworzone w toku postępowań prowadzonych przez sądy w sprawach, o których mowa w ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów, z chwilą prawomocnego zakończenia postępowania w danej sprawie, z zastrzeżeniem ust. 2.
+### 3.
 
-2. Dokumenty wytworzone w toku postępowań prowadzonych przez sądy w sprawach, o których mowa w art. 17 ustawy wymienionej w ust. 1, przekazuje się po upływie terminu do wniesienia kasacji w danej sprawie, a jeśli kasacja została wniesiona – po jej rozpatrzeniu. Z chwilą prawomocnego zakończenia postępowania w danej sprawie przekazuje się kopie tych dokumentów.
+W delegaturach tworzy się wydziały udostępniania i archiwizacji dokumentów.
 
-**Art. 26a.** Do archiwum Instytutu Pamięci przekazuje się dokumenty wytworzone w toku postępowań prowadzonych przez sądy na podstawie ustawy z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego, niezależnie od czasu ich wytworzenia, z chwilą prawomocnego zakończenia postępowania w danej sprawie.
+### Art. 19.
 
-**Art. 26b.**
+### 1.
 
-1. Do archiwum Instytutu Pamięci przekazuje się dokumenty:
+Prokuratorów Głównej Komisji oraz oddziałowych komisji powołuje i odwołuje Prokurator Generalny na wniosek Prezesa Instytutu Pamięci.
 
-- **1)** wytworzone w toku postępowań prowadzonych przez sądy w sprawach innych niż określone w art. 26 i art. 26a dotyczące funkcjonariuszy państwa komunistycznego albo osób działających na ich zlecenie oskarżonych o zbrodnie komunistyczne popełnione od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.,
-- **2)** zawierające informacje o obsadzie personalnej, strukturach lub działalności organów bezpieczeństwa państwa i ich funkcjonariuszy w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r. – niezależnie od czasu ich wytworzenia.
+### 2.
 
-2. Dokumenty przekazuje się z chwilą prawomocnego zakończenia postępowania w danej sprawie.
+Jednostkami organizacyjnymi, wymienionymi w art. 18 ust. 1 pkt 2 i 3, kierują dyrektorzy powoływani i odwoływani przez Prezesa Instytutu Pamięci.
 
-**Art. 27.**
+### 3.
 
-1. Prezes Instytutu Pamięci może, po zawiadomieniu właściwego organu administracji rządowej lub samorządu terytorialnego albo zawodowego, uzyskać wgląd w dokumenty, jeżeli istnieje uzasadnione przypuszczenie, że zawierają one informacje z zakresu działania Instytutu Pamięci.
+Jednostkami organizacyjnymi, wymienionymi w art. 18 ust. 2 pkt 2 i 3 oraz ust. 3, kierują naczelnicy powoływani i odwoływani przez Prezesa Instytutu Pamięci.
 
-2. Każdy, kto posiada dokumenty, o których mowa w art. 25, jest obowiązany niezwłocznie zawiadomić o tym fakcie Prezesa Instytutu Pamięci.
+### 4.
 
-3. Każdy organ administracji rządowej, samorządu terytorialnego albo zawodowego jest obowiązany bezzwłocznie wydać Prezesowi Instytutu Pamięci, na jego żądanie, posiadane dokumenty, o których mowa w art. 25. Obowiązek ten dotyczy także wydania kopii.
+Główną Komisją kieruje Dyrektor Głównej Komisji. Dyrektora Głównej Komisji powołuje, spośród prokuratorów Głównej Komisji, i odwołuje Prezes Rady Ministrów na wniosek Prokuratora Generalnego zgłoszony w porozumieniu z Prezesem Instytutu Pamięci. Dyrektor Głównej Komisji jest jednym z zastępców Prokuratora Generalnego.
 
-4. Prezes Instytutu Pamięci może zażądać wydania także innej dokumentacji niż wskazana w art. 25, niezależnie od czasu jej wytworzenia lub zgromadzenia, jeżeli jest ona niezbędna do wypełnienia zadań Instytutu Pamięci określonych w ustawie.
+### 5.
 
-5. Jeżeli dokumenty są niezbędne organowi, o którym mowa w ust. 3, do wykonywania jego zadań ustawowych, można poprzestać na przekazaniu Prezesowi Instytutu Pamięci ich kopii.
+Oddziałową komisją kieruje naczelnik oddziałowej komisji. Naczelnika oddziałowej komisji powołuje, spośród prokuratorów wymienionych w ust. 1, i odwołuje Prokurator Generalny na wniosek Prezesa Instytutu Pamięci.
 
-**Art. 28.**
+### 6.
 
-1. Każdy, kto bez tytułu prawnego posiada dokumenty zawierające informacje z zakresu działania Instytutu Pamięci, jest obowiązany wydać je bezzwłocznie Prezesowi Instytutu Pamięci.
+Pracownik Instytutu Pamięci nie może, bez zezwolenia Prezesa Instytutu Pamięci, podejmować innego zajęcia zawodowego.
 
-2. Właściciel lub osoba mająca inny tytuł prawny do posiadania dokumentów, o których mowa w ust. 1, jest obowiązana do ich udostępnienia Prezesowi Instytutu Pamięci, na jego żądanie, w celu sporządzenia kopii.
+### Art. 20.
 
-3. Prezes Instytutu Pamięci może zwracać się do wszelkich osób lub instytucji zagranicznych o pomoc w udostępnianiu dokumentów.
+### 1.
 
-**Art. 28a.**
+Pracownicy Instytutu Pamięci, a także po ustaniu stosunku pracy, są obowiązani zachować w tajemnicy wszystkie wiadomości związane z działalnością Instytutu Pamięci, powzięte w związku z zatrudnieniem w Instytucie Pamięci.
 
-1. Instytut Pamięci publikuje na stronie internetowej inwentarz archiwalny zawierający opis całego zasobu na poziomie jednostki archiwalnej w sposób pozwalający na identyfikację zagadnień lub osób, których dotyczą dokumenty.
+### 2.
 
-2. Opis jednostki archiwalnej zawiera:
+Prezes Instytutu Pamięci określa rodzaje wiadomości oraz kategorie pracowników, którzy mogą je ujawnić ze względu na ich stanowisko służbowe.
 
-- **1)** sygnaturę archiwalną;
-- **2)** nazwę zespołu (zbioru) archiwalnego lub wytwórcy materiałów archiwalnych;
-- **3)** tytuł jednostki archiwalnej identyfikujący rodzaj materiałów archiwalnych ze wskazaniem danych osobowych osób, takich jak: imię, nazwisko, data urodzenia, imię ojca, bądź zagadnień, których dotyczą;
-- **4)** formę fizyczną;
-- **5)** liczbę tomów;
-- **6)** miejsce przechowywania akt.
+### Art. 21.
 
-3. Opis jednostki archiwalnej może być uzupełniony o:
+Prezes Instytutu Pamięci oraz członkowie Kolegium Instytutu Pamięci są obowiązani, także po upływie kadencji albo ustaniu członkostwa, do zachowania w tajemnicy wiadomości, do których mieli dostęp w związku z wykonywaną funkcją. Nie dotyczy to faktów powszechnie znanych.
 
-- **1)** nazwę podzespołu archiwalnego;
-- **2)** nazwę serii;
-- **3)** nazwę podserii;
-- **4)** sygnaturę mikrofilmu;
-- **5)** sygnatury dawne;
-- **6)** regest lub dodatkowe informacje o zawartości jednostki;
-- **7)** kryptonim;
-- **8)** liczbę kart lub stron;
-- **9)** daty skrajne;
-- **10)** numer rejestracyjny.
+### Art. 22.
 
-**Art. 29.**
+Prezes Instytutu Pamięci może, w szczególnie uzasadnionych wypadkach, zezwolić na ujawnienie wiadomości stanowiącej tajemnicę państwową lub służbową oraz na udostępnienie dokumentów lub materiałów objętych tajemnicą państwową określonej osobie lub instytucji, jeżeli zachowanie tajemnicy uniemożliwiałoby wykonanie wskazanych w ustawie zadań Instytutu Pamięci.
 
-1. W zakresie działalności archiwalnej Instytut Pamięci gromadzi, ewidencjonuje, przechowuje, opracowuje, zabezpiecza i udostępnia dokumenty zbrodni z lat 1917–1990 oraz dokumenty ukazujące fakty i okoliczności dotyczące losów Narodu Polskiego w latach 1939–1990 i informujące o poniesionych ofiarach i wyrządzonych szkodach, wydaje na ich podstawie uwierzytelnione odpisy, wypisy, wyciągi i reprodukcje przechowywanych dokumentów.
+### Art. 23.
 
-2. Instytut Pamięci gromadzi, ewidencjonuje, przechowuje, opracowuje, zabezpiecza i udostępnia także inne niż wymienione w ust. 1 i w art. 25–28 materiały archiwalne pozyskane w formie oryginalnych dokumentów, kopii lub na nośnikach elektronicznych od instytucji prowadzących archiwa z innych państw, polskich instytucji emigracyjnych i polonijnych oraz osób prywatnych z kraju i zagranicy.
+### 1.
 
-#### Rozdział 4 Udostępnianie dokumentów przez Instytut Pamięci
+Prezes Instytutu Pamięci przedstawia okresowo Kolegium Instytutu Pamięci informację o istotnych sprawach związanych z działalnością Instytutu Pamięci.
 
-**Art. 29a.** (uchylony)
+### 2.
 
-**Art. 30.**
+Poza innymi zadaniami określonymi w ustawie Kolegium Instytutu Pamięci w szczególności zajmuje stanowisko w następujących sprawach:
 
-1. Każdy ma prawo wystąpić z wnioskiem do Instytutu Pamięci o udostępnienie do wglądu dotyczących go dokumentów będących w zasobach Instytutu Pamięci.
+### 1)
 
-2. Instytut Pamięci udostępnia dokumenty, o których mowa w ust. 1, dotyczące wnioskodawcy lub kopie tych dokumentów, jeżeli stan fizyczny zachowania dokumentów nie pozwala na ich udostępnienie lub jeżeli o dostęp do tych samych dokumentów ubiega się jednocześnie wiele osób lub gdy dysponuje wyłącznie kopiami tych dokumentów, przy czym:
+pełnego przejęcia do zasobów archiwalnych Instytutu Pamięci dokumentów spraw, o których mowa w art. 1, i oceny ich kompletności,
 
-- **1)** Instytut Pamięci udostępnia kopie dokumentów, o których mowa w ust. 1, dotyczących wnioskodawcy i wytworzonych przez wnioskodawcę lub przy jego udziale w ramach czynności wykonywanych w związku z jego pracą lub służbą w organach bezpieczeństwa państwa albo w związku z czynnościami wykonywanymi w charakterze tajnego informatora lub pomocnika przy operacyjnym zdobywaniu informacji.
-- **2)** (utracił moc) 2a. Przez dokumenty wytworzone przy udziale wnioskodawcy przy operacyjnym zdobywaniu informacji przez organy bezpieczeństwa państwa rozumie się także pomoce ewidencyjne, takie jak dzienniki rejestracyjne, inwentarze archiwalne, karty ewidencyjne i Zintegrowany System Kartotek Operacyjnych organów bezpieczeństwa państwa, jeżeli potwierdzają fakt rejestracji go w charakterze tajnego informatora lub pomocnika organów bezpieczeństwa państwa.
+### 2)
 
-3. (uchylony)
+ustalania zasad archiwizacji dokumentów przy ich ocenie, porządkowaniu, udostępnianiu, przechowywaniu i administrowaniu,
 
-4. Wniosek, o którym mowa w ust. 1, powinien zawierać:
+### 3)
 
-- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
-- **2)** rodzaj i numer dokumentu tożsamości;
-- **3)** datę wydania dokumentu tożsamości oraz nazwę organu, który go wydał;
-- **4)** dane ułatwiające odnalezienie dokumentów.
+ustalania zasad wglądu w dokumenty oraz zasad ich publikowania,
 
-5. W razie późniejszego odnalezienia w archiwum Instytutu Pamięci dokumentów dotyczących wnioskodawcy należy go o tym poinformować oraz pouczyć o możliwości ponownego złożenia wniosku, o którym mowa w ust. 1.
+### 4)
 
-**Art. 31.**
+ustalania priorytetów w sprawach wniosków poszczególnych osób i próśb instytucji oraz organów władzy publicznej i innych podmiotów,
 
-1. Udostępnienie przez Instytutu Pamięci kopii dokumentów, w przypadku, o którym mowa w art. 30 ust. 2 pkt 1, następuje w drodze decyzji administracyjnej.
+### 5)
 
-2. Od decyzji, o której mowa w ust. 1, służy odwołanie do Prezesa Instytutu Pamięci.
+oceniania polityki ścigania przez Instytut Pamięci przestępstw, o których mowa w art. 1 pkt 1 lit. a),
 
-**Art. 32.**
+### 6)
 
-1. Po rozpatrzeniu odwołania, o którym mowa w art. 31 ust. 2, Prezes Instytutu Pamięci wydaje decyzję, w której:
+ustalania programów badawczych w zakresie opracowywania działalności organów bezpieczeństwa państwa, a także informowania oraz edukacji społeczeństwa.
 
-- **1)** utrzymuje w mocy decyzję, o której mowa w art. 31 ust. 1;
-- **2)** uchyla decyzję, o której mowa w art. 31 ust. 1, i przekazuje sprawę do ponownego rozpatrzenia przez organ pierwszej instancji.
+### 3.
 
-2. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 1 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655, 1457 i 1855).
+Kolegium Instytutu Pamięci zatwierdza informację roczną, o której mowa w art. 24 ust. 1.
 
-3. (uchylony)
+### 4.
 
-4. (uchylony)
+Kolegium Instytutu Pamięci przyjmuje uchwały większością głosów w obecności co najmniej połowy ustawowej liczby członków Kolegium.
 
-5. (uchylony)
+### Art. 24.
 
-6. Po wydaniu wyroku sąd administracyjny niezwłocznie zwraca do Instytutu Pamięci akta postępowania.
+### 1.
 
-7. (uchylony)
+Prezes Instytutu Pamięci składa Sejmowi i Senatowi, raz w roku, informację o działalności Instytutu Pamięci.
 
-**Art. 33.**
+### 2.
 
-1. (uchylony)
+Informacja, o której mowa w ust. 1, w części dotyczącej bezpieczeństwa lub obronności państwa może być utajniona.
 
-2. Każdy, kto uzyskał wgląd w dokumenty, o których mowa w art. 30 ust. 1, ma prawo – na zasadach i w zakresie określonych w ustawie – do uzyskania kopii tych dokumentów oraz prawo do zwrotu przedmiotów znajdujących się w archiwum Instytutu Pamięci, które w momencie utraty stanowiły jego własność lub były w jego posiadaniu.
+### 3.
 
-3. Dokumenty udostępnia się do wglądu w siedzibie oddziału Instytutu Pamięci właściwego ze względu na miejsce zamieszkania wnioskodawcy, chyba że we wniosku wskazał on inny oddział, w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w art. 30 ust. 1. Przepis art. 34 ust. 4 stosuje się odpowiednio.
+Informacja Prezesa Instytutu Pamięci jest podawana do wiadomości publicznej, z wyłączeniem części, o której mowa w ust. 2.
 
-4. (uchylony)
+### 4.
 
-5. Wydanie kopii dokumentów jest bezpłatne, z zastrzeżeniem ust. 6.
+Prezes Instytutu Pamięci składa raz w roku, za pośrednictwem Marszałka Sejmu, do wyłącznej wiadomości członków sejmowej Komisji do Spraw Służb Specjalnych, informację o sprawach określonych w art. 38.
 
-6. Za sporządzenie i wydanie reprodukcji dokumentów dla celów, o których mowa w art. 36 ust. 1 pkt 2 i 3, pobiera się opłatę, która stanowi dochód Instytutu Pamięci.
+### Rozdział 3 Gromadzenie dokumentów przez Instytut Pamięci
 
-7. Prezes Rady Ministrów określi, w drodze rozporządzenia, rodzaj i zakres usług reprodukcyjnych, które podlegają opłacie, maksymalne stawki opłat oraz sposób ich naliczania i pobierania, mając na względzie potrzebę realizacji celów naukowych i publicystycznych. Wysokość opłat nie może przekraczać dodatkowych kosztów pieniężnych z tytułu usług reprodukcyjnych ponoszonych przez Instytut Pamięci.
+### Art. 25.
 
-**Art. 34.**
+### 1.
 
-1. Wydanie kopii dokumentów następuje na pisemny wniosek osoby, o której mowa w art. 33 ust. 2.
+Nie później niż w terminie 60 dni od dnia utworzenia Instytutu Pamięci organy, o których mowa niżej, są obowiązane przygotować do przekazania do archiwum Instytutu Pamięci dokumenty, zbiory danych, rejestry i kartoteki wytworzone oraz zgromadzone przez organy bezpieczeństwa państwa, organy więziennictwa, sądy i prokuratury oraz organy bezpieczeństwa III Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich. Obowiązek ten ciąży na:
 
-2. Na żądanie wnioskodawcy należy uwierzytelnić wydawane kopie dokumentów.
+### 1)
 
-3. Wydanie kopii dokumentów następuje w siedzibie oddziału Instytutu Pamięci właściwego ze względu na miejsce zamieszkania wnioskodawcy, chyba że we wniosku wskazał on inny oddział, w terminie 30 dni od dnia złożenia wniosku, o którym mowa w ust. 1.
+Ministrze Spraw Wewnętrznych i Administracji oraz Szefie Urzędu Ochrony Państwa - co do dokumentów, zbiorów danych, rejestrów i kartotek, a także akt funkcjonariuszy, wytworzonych lub gromadzonych w okresie do dnia 6 maja 1990 r.,
 
-4. Wnioskodawca powinien być zawiadomiony na piśmie o terminie wydania kopii dokumentów przynajmniej na 7 dni przed tym terminem. Wydanie kopii dokumentów powinno być udokumentowane protokołem, który podpisuje wnioskodawca i upoważniony pracownik Instytutu Pamięci.
+### 2)
 
-5. Na pisemny wniosek osoby, o której mowa w art. 33 ust. 2, Instytut Pamięci wydaje znajdujące się w jego archiwum przedmioty, które w momencie utraty stanowiły jej własność lub były w jej posiadaniu.
+Ministrze Obrony Narodowej - co do dokumentów, zbiorów danych, rejestrów i kartotek wojskowych organów bezpieczeństwa, a także akt funkcjonariuszy tych służb, wytworzonych lub gromadzonych w okresie do dnia 31 grudnia 1990 r.,
 
-6. Przed wydaniem przedmiotów Instytut Pamięci może sporządzić i zachować ich kopie; o fakcie tym należy poinformować wnioskodawcę.
+### 3)
 
-7. W zakresie określonym w ust. 5 przepisy ust. 3 i 4 stosuje się odpowiednio.
+Ministrze Sprawiedliwości - co do dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych oraz gromadzonych przez organy więziennictwa do dnia 31 grudnia 1956 r., dokumentów, zbiorów danych, rejestrów i kartotek, wytworzonych lub gromadzonych przez wydział ochrony Centralnego Zarządu Zakładów Karnych i podległe mu jednostki w okresie do dnia 31 grudnia 1989 r., a także akt penitencjarnych osób represjonowanych z motywów politycznych osadzonych w zakładach karnych, aresztach śledczych i obozach odosobnienia,
 
-**Art. 35.**
+### 4)
 
-1. Na pisemny wniosek osoby, o której mowa w art. 33 ust. 2, podaje się tej osobie dalsze dane identyfikujące tożsamość osób, które przekazywały o niej informacje organom bezpieczeństwa państwa, jeżeli można je jednoznacznie określić na podstawie dokumentów danego organu bezpieczeństwa państwa i jeżeli w dokumentach udostępnionych do wglądu na podstawie wniosku, o którym mowa w art. 30 ust. 1, znajdują się pseudonimy lub nazwiska tych osób.
+prezesach sądów powszechnych i wojskowych - co do akt spraw osób represjonowanych z motywów politycznych,
 
-2. Przepis ust. 1 stosuje się odpowiednio, jeżeli w dokumentach udostępnionych do wglądu na podstawie wniosku, o którym mowa w art. 30 ust. 1, znajdują się nazwiska pracowników i funkcjonariuszy, którzy zbierali lub oceniali informacje o wnioskodawcy lub prowadzili osoby, które przekazywały organom bezpieczeństwa państwa te informacje.
+### 5)
 
-3. Odmawia się podania nazwisk oraz innych danych identyfikujących tożsamość osób, które udzielały jedynie informacji o przestępstwach pospolitych.
+prokuratorach kierujących powszechnymi i wojskowymi jednostkami organizacyjnymi prokuratury - co do akt spraw, w tym akt podręcznych spraw, o których mowa w pkt 4,
 
-4. Od odmowy udostępnienia danych identyfikujących tożsamość osób, o których mowa w ust. 1 i 2, przysługuje odwołanie do Prezesa Instytutu Pamięci.
+### 6)
 
-5. W zakresie określonym w ust. 1 i 2 przepisy art. 34 ust. 3 i 4 stosuje się odpowiednio.
+dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych - co do akt byłej Polskiej Partii Robotniczej oraz byłej Polskiej Zjednoczonej Partii Robotniczej dotyczących organów bezpieczeństwa państwa, a także akt organów bezpieczeństwa państw okupacyjnych,
 
-**Art. 35a.**
+### 7)
 
-1. Wnioski, o których mowa w art. 30 ust. 1, art. 34 ust. 1 i 5, składa się osobiście w siedzibie Instytutu Pamięci, jego oddziałach i delegaturach lub za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2022 r. poz. 896, 1933 i 2042), pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza.
+dyrektorach: Archiwum Akt Nowych oraz innych archiwów państwowych - co do dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w pkt 1-5, a przechowywanych w tych archiwach; przekazanie ich do Instytutu Pamięci następuje na zasadzie użyczenia.
 
-2. Osoba mająca stałe miejsce zamieszkania za granicą może złożyć wniosek osobiście w polskiej placówce konsularnej, przy czym podpis wnioskodawcy uwierzytelnia konsul. Wniosek taki może być również złożony za pośrednictwem operatora pocztowego, pod warunkiem poświadczenia podpisu wnioskodawcy przez notariusza lub inną osobę uprawnioną do uwierzytelniania podpisów zgodnie z prawem państwa, w którym ta czynność zostanie dokonana.
+### 2.
 
-3. Po złożeniu wniosku wnioskodawca może ustanowić pełnomocnika do realizacji przysługujących mu praw wynikających z ustawy.
+Przekazanie akt, o których mowa w ust. 1 pkt 6, polega na dostarczeniu kopii.
 
-4. Uprawnienia wynikające z art. 30–35 i art. 35b może wykonywać osoba najbliższa zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, a w razie jej braku – także krewny boczny do czwartego stopnia pokrewieństwa po złożeniu pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń oświadczenia o braku wiedzy o osobie najbliższej zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego.
+### 3.
 
-5. Jeżeli realizacja praw wynikających z art. 30–35 i art. 35b następuje przez osobę, o której mowa w ust. 4, należy we właściwym wniosku wskazać imię i nazwisko osoby zmarłej, której praw on dotyczy.
+Obowiązek określony w ust. 1 pkt 1-5 dotyczy także kopii dokumentów, zbiorów danych i kartotek, niezależnie od czasu ich sporządzenia.
 
-**Art. 35b.**
+### 4.
 
-1. Każdy ma prawo załączyć do zbioru dotyczących go dokumentów własne uzupełnienia, sprostowania, uaktualnienia, wyjaśnienia oraz dokumenty lub ich kopie. Dane już zawarte w dokumentach nie ulegają zmianie.
+Prezes Instytutu Pamięci może, w każdym czasie, zażądać od organów wymienionych w ust. 1, a także od innych instytucji, dokumentów nie przekazanych.
 
-2. Uzupełnienia, sprostowania, uaktualnienia, wyjaśnienia oraz dokumenty lub ich kopie dołącza się do zbioru dokumentów z oznaczeniem ich w sposób pozwalający na ich odróżnienie od dokumentów zgromadzonych przez Instytut Pamięci w trybie art. 25.
+### 5.
 
-**Art. 35c.**
+Minister Spraw Wewnętrznych i Administracji, Szef Urzędu Ochrony Państwa oraz Minister Obrony Narodowej mogą wykonać dla potrzeb urzędu kopie akt funkcjonariuszy pozostających w służbie, które powstały w okresach, o których mowa odpowiednio w ust. 1 pkt 1 lub 2.
 
-1. Każdy ma prawo wystąpić z wnioskiem do Instytutu Pamięci o udostępnienie do wglądu dokumentów osobowych dotyczących pracownika lub funkcjonariusza organu bezpieczeństwa państwa.
+### 6.
 
-1a. Dokumentami osobowymi są dokumenty związane z ubieganiem się o zatrudnienie, pracą i rozwiązaniem stosunku pracy lub służby w organach bezpieczeństwa państwa.
+Prezes Instytutu Pamięci wyznacza organom określonym w ust. 1 pkt 1-7 terminy przejęcia dokumentów, zbiorów danych, rejestrów i kartotek, o których mowa w tym przepisie.
 
-2. Wniosek, o którym mowa w ust. 1, powinien zawierać:
+### Art. 26.
 
-- **1)** imię i nazwisko oraz adres zamieszkania wnioskodawcy;
-- **2)** rodzaj i numer dokumentu tożsamości;
-- **3)** datę wydania dokumentu tożsamości oraz nazwę organu, który go wydał;
-- **4)** dane ułatwiające odnalezienie dokumentów, w szczególności imię i nazwisko oraz informacje o miejscu pracy lub działania pracownika lub funkcjonariusza organu bezpieczeństwa państwa, którego dotyczyć mają dokumenty.
+Do archiwum Instytutu Pamięci przekazuje się dokumenty wytworzone w toku postępowania określonego w ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne ([Dz. U. Nr 70, poz. 443](https://api.sejm.gov.pl/eli/acts/DU/1997/443/text.html) oraz z [1998 r. Nr 113, poz. 715](https://api.sejm.gov.pl/eli/acts/DU/1998/715/text.html) i [Nr 131, poz. 860](https://api.sejm.gov.pl/eli/acts/DU/1998/860/text.html)), z chwilą prawomocnego zakończenia postępowania w danej sprawie.
 
-3. Funkcjonariusze i pracownicy organów bezpieczeństwa państwa mogą uzyskać na swój wniosek kopie dotyczących ich dokumentów osobowych i kopie bądź uwierzytelnione odpisy, wypisy i wyciągi dokumentów finansowo-księgowych.
+### Art. 27.
 
-4. W razie późniejszego odnalezienia w archiwum Instytutu Pamięci dokumentów osobowych dotyczących pracownika lub funkcjonariusza organu bezpieczeństwa państwa, którymi zainteresowany był wnioskodawca, należy go o tym poinformować oraz pouczyć o możliwości ponownego złożenia wniosku, o którym mowa w ust. 1.
+### 1.
 
-**Art. 36.**
+Prezes Instytutu Pamięci może, po zawiadomieniu właściwego organu administracji rządowej lub samorządu terytorialnego albo zawodowego, uzyskać wgląd w dokumenty, zbiory danych, rejestry i kartoteki, jeżeli istnieje uzasadnione przypuszczenie, że zawierają one informacje z zakresu działania Instytutu Pamięci.
 
-1. Dokumenty zgromadzone przez Instytut Pamięci udostępnia się w celu:
+### 2.
 
-- **1)** wykonywania zadań ustawowych;
-- **2)** prowadzenia badań naukowych;
-- **3)** publikacji materiału prasowego, w rozumieniu przepisów ustawy z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914), z upoważnienia redakcji albo wydawcy.
+Każdy, kto posiada dokumenty, zbiory danych, rejestry i kartoteki, o których mowa w art. 25, jest obowiązany niezwłocznie zawiadomić o tym fakcie Prezesa Instytutu Pamięci.
 
-2. Dokumenty, o których mowa w ust. 1, udostępnia się na pisemny wniosek, skierowany do dyrektora oddziału Instytutu Pamięci, właściwego ze względu na miejsce zamieszkania lub siedzibę wnioskodawcy.
+### 3.
 
-3. Wniosek, o którym mowa w ust. 2, powinien zawierać:
+Każdy organ administracji rządowej, samorządu terytorialnego albo zawodowego jest obowiązany bezzwłocznie wydać Prezesowi Instytutu Pamięci, na jego żądanie, posiadane dokumenty, zbiory danych, rejestry i kartoteki, o których mowa w art. 25. Obowiązek ten dotyczy także wydania kopii.
 
-- **1)** imię i nazwisko albo nazwę oraz adres zamieszkania albo siedziby wnioskodawcy;
-- **2)** rodzaj i numer dokumentu tożsamości osoby, której ma nastąpić udostępnienie;
-- **3)** datę wydania dokumentu tożsamości osoby, której ma nastąpić udostępnienie oraz nazwę organu, który go wydał;
-- **4)** dane ułatwiające odnalezienie dokumentów.
+### 4.
 
-4. Wniosek o udostępnienie dokumentów w celu, o którym mowa:
+Prezes Instytutu Pamięci może zażądać wydania także innej dokumentacji niż wskazana w art. 25, niezależnie od czasu jej wytworzenia lub zgromadzenia, jeżeli jest ona niezbędna do wypełnienia zadań Instytutu Pamięci określonych w ustawie.
 
-- **1)** w ust. 1 pkt 1 – powinien zawierać również podstawę prawną dotyczącą wykonywania zadań, o których mowa w ust. 1 pkt 1;
-- **2)** w ust. 1 pkt 2 – powinien zawierać również:
-    - **a)** wskazanie tematu prowadzonych badań naukowych,
-    - **b)** rekomendację pracownika naukowego uprawnionego do prowadzenia badań naukowych w dyscyplinach nauk humanistycznych, społecznych, gospodarki lub prawa – w przypadku osób niebędących takimi pracownikami;
+### 5.
 
-- **3)** w ust. 1 pkt 3 – powinien zawierać również:
-    - **a)** wskazanie tematu materiału prasowego,
-    - **b)** załączone upoważnienie redakcji albo wydawcy do wystąpienia z wnioskiem.
+Jeżeli dokumenty, zbiory danych, rejestry bądź kartoteki są niezbędne organowi, o którym mowa w ust. 3, do wykonywania jego zadań ustawowych, można poprzestać na przekazaniu Prezesowi Instytutu Pamięci ich kopii.
 
-4a. Dokumenty określone w ust. 1, które zostały zdigitalizowane, udostępnia się w terminie 7 dni od dnia złożenia wniosku.
+### Art. 28.
 
-4b. Osoby, które korzystają z dokumentów, o których mowa w ust. 1, do celów, o których mowa w ust. 1 pkt 2 i 3, mają prawo do uzyskiwania, na wniosek, informacji ze znajdujących się w zasobie archiwalnym Instytutu Pamięci zbiorów danych, rejestrów i kartotek organów bezpieczeństwa państwa, w tym dotyczących tożsamości tajnych informatorów lub pomocników przy operacyjnym zdobywaniu informacji.
+### 1.
 
-5. Podmioty, które złożyły wniosek i którym dokumenty zostały udostępnione, ponoszą odpowiedzialność prawną za sposób ich wykorzystania, o czym należy je poinformować na piśmie.
+Każdy, kto bez tytułu prawnego posiada dokumenty, zbiory danych, rejestry i kartoteki, zawierające informacje z zakresu działania Instytutu Pamięci, jest obowiązany wydać je bezzwłocznie Prezesowi Instytutu Pamięci.
 
-6. Dyrektor oddziału Instytutu Pamięci, w drodze decyzji administracyjnej, odmawia udostępnienia dokumentów, o których mowa w ust. 1, jeżeli złożony wniosek nie spełnia warunków określonych w ust. 1–4 lub zachodzą przesłanki, o których mowa w art. 30 ust. 2 pkt 1 lub art. 37.
+### 2.
 
-7. Decyzja, o której mowa w ust. 6, powinna zawierać uzasadnienie faktyczne i prawne. Można odstąpić od uzasadnienia faktycznego lub ograniczyć je w zakresie, w jakim udostępnienie informacji wnioskodawcy uniemożliwia realizację ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
+Właściciel lub osoba mająca inny tytuł prawny do posiadania dokumentów, zbiorów danych, rejestrów bądź kartotek, o których mowa w ust. 1, jest obowiązana do ich udostępnienia Prezesowi Instytutu Pamięci, na jego żądanie, w celu sporządzenia kopii.
 
-8. Od decyzji, o której mowa w ust. 6, służy odwołanie do Prezesa Instytutu Pamięci.
+### 3.
 
-9. W wyniku rozpatrzenia odwołania, o którym mowa w ust. 8, Prezes Instytutu Pamięci, po zasięgnięciu opinii Kolegium Instytutu Pamięci, wydaje decyzję, w której:
+Prezes Instytutu Pamięci może zwracać się do wszelkich osób lub instytucji zagranicznych o pomoc w udostępnianiu dokumentów, zbiorów danych, rejestrów i kartotek pokrzywdzonym, jak również do celów edukacji publicznej.
 
-- **1)** utrzymuje w mocy decyzję, o której mowa w ust. 6;
-- **2)** uchyla decyzję, o której mowa w ust. 6, i przekazuje sprawę do ponownego rozpatrzenia przez organ pierwszej instancji.
+### Art. 29.
 
-10. Do decyzji Prezesa Instytutu Pamięci, o której mowa w ust. 9, stosuje się przepis ust. 7.
+W zakresie działalności archiwalnej Instytut Pamięci gromadzi, przechowuje, opracowuje i udostępnia dokumenty zbrodni, ukazujące fakty i okoliczności dotyczące losów Narodu Polskiego w latach 1939-1989 oraz informujące o poniesionych ofiarach i wyrządzonych szkodach.
 
-11. Wnioskodawcy przysługuje skarga do sądu administracyjnego na decyzję, o której mowa w ust. 9 pkt 1, w terminie określonym w art. 53 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi.
+### Rozdział 4 Udostępnianie dokumentów przez Instytut Pamięci
 
-12. Sąd administracyjny rozpoznaje skargę na posiedzeniu niejawnym.
+### Art. 30.
 
-13. Po uprawomocnieniu się wyroku sąd administracyjny niezwłocznie zwraca do Instytutu Pamięci akta postępowania.
+### 1.
 
-14. Do skargi kasacyjnej stosuje się odpowiednio przepis ust. 12.
+Pokrzywdzonemu należy, na jego wniosek, udzielić informacji o posiadanych i dostępnych, dotyczących go dokumentach.
 
-**Art. 37.**
+### 2.
 
-1. Osoba, która uzyskała na podstawie art. 30 wgląd w dotyczące jej dokumenty, i nie zachowały się w stosunku do niej dokumenty, o których mowa w art. 30 ust. 2 pkt 1, może zastrzec, że dotyczące jej dane osobowe zebrane w sposób tajny w toku czynności operacyjno-rozpoznawczych organów bezpieczeństwa państwa nie będą udostępniane w celach, o których mowa w art. 36 ust. 1 pkt 2 i 3, przez określony czas, jednakże nie dłużej niż przez 50 lat od daty ich wytworzenia.
+Każdy ma prawo wystąpić z pytaniem do Instytutu Pamięci, czy jest pokrzywdzonym w rozumieniu ustawy.
 
-2. Osoba, która uzyskała na podstawie art. 30 wgląd w dotyczące jej dokumenty, i nie zachowały się w stosunku do niej dokumenty, o których mowa w art. 30 ust. 2 pkt 1, może zastrzec, że dotyczące jej informacje ujawniające jej pochodzenie etniczne lub rasowe, przekonania religijne, przynależność wyznaniową oraz dane o stanie zdrowia i życiu seksualnym, a także ujawniające jej stan majątkowy, a w szczególności nieruchomości oraz rzeczy ruchome stanowiące dobra kultury w rozumieniu przepisów o ochronie dóbr kultury, nie będą udostępnione.
+### 3.
 
-3. Prezes Instytutu Pamięci informuje o prawie zastrzeżenia, o którym mowa w ust. 1 i 2.
+We wniosku, który składa się osobiście, należy umieścić deklarację o statusie wnioskodawcy (pokrzywdzony w rozumieniu art. 6 ust. 1 albo osoba najbliższa w rozumieniu art. 6 ust. 2) oraz podać dane ułatwiające odnalezienie dokumentów. Przyczyna żądania informacji nie musi być podana.
 
-4. Osoba, która uzyskała na podstawie art. 30 wgląd w dotyczące jej dokumenty, może wyrazić zgodę na udostępnianie swoich danych osobowych określonych w ust. 1, wskazanym organom władzy publicznej, innym instytucjom, organizacjom i osobom, a także na ich powszechną dostępność.
+### 4.
 
-5. Dane osobowe, określone w ust. 1, mogą być jednakże udostępniane w celach, o których mowa w art. 36 ust. 1 pkt 2 i 3, jeżeli:
+Obywatelom państw obcych prawo złożenia wniosku przysługuje na zasadach wzajemności.
 
-- **1)** osoba, której dotyczą te dane, albo w przypadku jej śmierci osoba najbliższa wyrazi na to zgodę;
-- **2)** odnoszą się do publicznego wystąpienia osoby, której dotyczą, do jej działalności publicznej lub politycznej lub są danymi osobowymi wymaganymi przez ustawę w związku z pełnieniem funkcji publicznej.
+### 5.
 
-6. Cele, o których mowa w art. 36 ust. 1 pkt 2 i 3, można realizować także po anonimizacji danych osobowych, i informacji, o których mowa w ust. 1 i 2, w kopiach dokumentów.
+W wypadkach uzasadnionych stanem zdrowia wnioskodawcy odbiera się od niego wniosek, o którym mowa w ust. 3, w miejscu jego pobytu.
 
-7. Prawo do zastrzeżenia, o którym mowa w ust. 1 i 2, oraz prawo do wyrażenia zgody na udostępnienie swoich danych osobowych, określonych w ust. 1, wskazanym organom władzy publicznej, innym instytucjom, organizacjom i osobom nie przysługuje w stosunku do dokumentów, o których mowa w art. 30 ust. 2 pkt 1.
+### 6.
 
-**Art. 38.**
+Po złożeniu wniosku wnioskodawca może ustanowić pełnomocnika do realizacji przysługujących mu praw wynikających z ustawy.
 
-1. Funkcjonariusze i żołnierze służb specjalnych upoważnieni odpowiednio przez Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego lub Szefa Centralnego Biura Antykorupcyjnego, działając w zakresie zadań ustawowych, po zawiadomieniu Prezesa Instytutu Pamięci, mogą mieć wgląd do danych zawartych w dokumentach gromadzonych przez Instytut Pamięci, w granicach upoważnienia.
+### 7.
 
-2. Dokumenty organów bezpieczeństwa państwa mogą być wykorzystywane przez upoważnionych funkcjonariuszy służb specjalnych w ramach ich zadań ustawowych, jeśli zawierają informację o przestępstwie szpiegostwa, przestępstwie o charakterze terrorystycznym, przestępstwie godzącym w podstawy ekonomiczne państwa lub przestępstwie korupcji w rozumieniu ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2022 r. poz. 557, 1488 i 2185) lub przestępstwie godzącym w porządek konstytucyjny Rzeczypospolitej Polskiej.
+Osoba mająca stałe miejsce zamieszkania za granicą może złożyć wniosek osobiście w polskiej placówce konsularnej, przy czym podpis wnioskodawcy uwierzytelnia kierownik tej placówki.
 
-3. Przepis ust. 2 stosuje się odpowiednio do funkcjonariuszy służb specjalnych państw, z którymi Rzeczpospolita Polska jest związana stosowną umową międzynarodową, jeżeli dokumenty te zawierają informację o przestępstwie szpiegostwa lub terroryzmu.
+### Art. 31.
 
-**Art. 39.** (uchylony)
+### 1.
 
-**Art. 39a.** (uchylony)
+Pokrzywdzonego albo osobę mu najbliższą Instytut Pamięci informuje o istnieniu w archiwum Instytutu Pamięci dotyczących go dokumentów oraz o sposobie uzyskania w nie wglądu.
 
-**Art. 40.** Jeżeli Prezes Instytutu Pamięci, w związku z wykonywaniem swoich zadań, stwierdzi, że w dokumentach znajdują się informacje o przestępstwach określonych w art. 5 ust. 1 pkt 2 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, zawiadamia o tym bezzwłocznie Szefa Agencji Bezpieczeństwa Wewnętrznego. Przepisu art. 304 Kodeksu postępowania karnego nie stosuje się.
+### 2.
 
-**Art. 41.** (uchylony)
+Na wniosek pokrzywdzonego wydaje się mu kopie dotyczących go dokumentów.
 
-**Art. 42.** Jeżeli Dyrektor Archiwum Instytutu Pamięci Narodowej zostanie zawiadomiony, że znajdujące się w dokumentach dane osobowe są nieprawdziwe, to informacje o tym dołącza się niezwłocznie do zbioru dokumentów dotyczących danej osoby.
+### 3.
 
-**Art. 43.**
+W kopiach dokumentów wydawanych zgodnie z ust. 2 należy zanonimizować dane osobowe innych pokrzywdzonych lub innych osób, chyba że byłoby to technicznie niemożliwe. Przepis ten nie ogranicza prawa pokrzywdzonego określonego w art. 32.
 
-1. Postępowanie w sprawach uregulowanych w ustawie prowadzi się według przepisów Kodeksu postępowania administracyjnego, jeżeli przepisy ustawy nie stanowią inaczej.
+### Art. 32.
 
-2. W sprawach rozstrzyganych decyzją administracyjną, w myśl przepisów niniejszej ustawy, organem pierwszej instancji jest dyrektor oddziału Instytutu Pamięci. Organem odwoławczym jest Prezes Instytutu Pamięci.
+### 1.
 
-**Art. 44.** (uchylony)
+Jeżeli w istniejących i dostępnych dokumentach, w które pokrzywdzony miał wgląd lub otrzymał ich kopie, znajdują się nazwiska funkcjonariuszy, pracowników lub kryptonimy współpracowników organów bezpieczeństwa państwa, którzy zbierali lub oceniali dane o nim, lub tych, którzy prowadzili tych współpracowników, to - na żądanie pokrzywdzonego - należy mu podać nazwiska oraz dalsze dane osobowe tych funkcjonariuszy, pracowników i współpracowników, jeżeli można je jednoznacznie określić na podstawie dokumentów danego organu bezpieczeństwa. Przepis ten stosuje się również do innych osób, które denuncjowały pokrzywdzonego.
 
-#### Rozdział 5 Funkcje śledcze Instytutu Pamięci
+### 2.
 
-**Art. 45.**
+Odmawia się podania nazwisk oraz innych danych identyfikacyjnych osób, które udzielały informacji o przestępstwach pospolitych.
 
-1. Śledztwo w sprawach o zbrodnie, o których mowa w art. 1 pkt 1 lit. a, wszczyna i prowadzi prokurator oddziałowej komisji.
+### 3.
 
-2. Prokuratorom Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu i oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu w sprawach określonych w art. 1 pkt 1 lit. a przysługują wszystkie uprawnienia prokuratora, także w sprawach podlegających orzecznictwu sądów wojskowych.
+Na odmowę udostępnienia danych identyfikacyjnych informatorów przysługuje odwołanie do Prezesa Instytutu Pamięci.
 
-3. Celem śledztwa w sprawach o zbrodnie, o których mowa w art. 1, jest również wyjaśnienie okoliczności sprawy, w szczególności ustalenie osób pokrzywdzonych.
+### Art. 33.
 
-4. Okoliczność, o której mowa w art. 17 § 1 pkt 5 Kodeksu postępowania karnego, nie może stanowić przeszkody do realizacji celu, o którym mowa w ust. 3. Po zrealizowaniu tego celu postępowanie umarza się.
+### 1.
 
-5. Do prowadzenia śledztw przez Instytut Pamięci stosuje się przepisy Kodeksu postępowania karnego.
+Pokrzywdzony ma prawo załączyć do zbioru dotyczących go dokumentów własne uzupełnienia, sprostowania, uaktualnienia, wyjaśnienia oraz dokumenty lub ich kopie. Dane już zawarte w dokumentach nie ulegają jednak zmianie.
 
-6. Prokurator oddziałowej komisji może zaniechać wszczęcia postępowania, a wszczęte umorzyć w stosunku do sprawcy przestępstwa, o którym mowa w art. 1 pkt 1 lit. a, jeżeli dobrowolnie ujawnił on wobec organu powołanego do ścigania przestępstw wszystkie istotne informacje dotyczące osób współdziałających przy popełnieniu przestępstwa, jak również okoliczności jego popełnienia, jeżeli informacje te umożliwiają wszczęcie postępowania przeciwko określonej osobie. Odstępując od ścigania sprawcy przestępstwa, prokurator uwzględnia stopień społecznej szkodliwości popełnionego przez niego czynu i stopień jego winy oraz rodzaj i charakter przestępstwa ujawnionego, a w szczególności ustala, czy możliwe jest ujawnienie w inny sposób sprawców współdziałających w dokonaniu tego przestępstwa, a także ocenia wagę, jaką ma ujawnienie przestępstwa dla realizacji zadań Instytutu Pamięci.
+### 2.
 
-7. Prokurator może wszcząć postępowanie w stosunku do sprawcy, którego ścigania zaniechał na podstawie ust. 6, tylko wtedy, gdy w toku dalszego postępowania uchyli się on od złożenia zeznań lub złoży zeznania odmienne od tych, które uzasadniały zaniechanie wszczęcia postępowania lub umorzenie postępowania wszczętego.
+Przepis ust. 1 stosuje się odpowiednio do osób, o których mowa w art. 35.
 
-8. Jeżeli osoba, wobec której ścigania zaniechano na podstawie ust. 6, zostanie wezwana w charakterze świadka, prokurator oddziałowej komisji może wydać postanowienie o zachowaniu w tajemnicy jej danych osobowych, choćby nie zachodziły okoliczności określone w art. 184 § 1 Kodeksu postępowania karnego.
+### 3.
 
-9. W sądowym postępowaniu odwoławczym na skutek wniesienia apelacji oraz kasacji występują prokuratorzy Głównej Komisji.
+Uzupełnienia, sprostowania, uaktualnienia, wyjaśnienia oraz dokumenty lub ich kopie dołącza się do zbioru dokumentów z oznaczeniem ich w sposób pozwalający na ich odróżnienie od dokumentów zgromadzonych przez Instytut Pamięci.
 
-10. Dyrektor Głównej Komisji wnosi kasację w zastępstwie Prokuratora Generalnego w sprawach, o których mowa w art. 1 pkt 1 lit. a, w tym także należących do właściwości sądów wojskowych.
+### 4.
 
-**Art. 45a.** Prokurator oddziałowej komisji wszczyna śledztwa w sprawach o przestępstwa określone w art. 54 i art. 55.
+Pokrzywdzonemu, na jego żądanie, wydaje się przedmioty, które w momencie utraty stanowiły jego własność lub były w jego posiadaniu, jeżeli znajdują się w archiwum Instytutu Pamięci.
 
-**Art. 45b.** Prokurator Głównej Komisji lub prokurator oddziałowej komisji jest uprawniony do kierowania wniosków i występowania przed sądami w sprawach o uznanie za nieważne orzeczeń w trybie określonym w ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego.
+### Art. 34.
 
-**Art. 46.** Prezes Instytutu Pamięci, po zasięgnięciu opinii Dyrektora Głównej Komisji, może ujawnić opinii publicznej, a także innym osobom niż wymienione w art. 156 § 5 Kodeksu postępowania karnego, dane osobowe sprawcy zbrodni, o których mowa w art. 1 pkt 1 lit. a, jeżeli postępowanie karne nie zakończyło się wydaniem prawomocnego wyroku skazującego z powodu wskazanego w art. 17 § 1 pkt 5 Kodeksu postępowania karnego albo zostało zawieszone na podstawie art. 22 § 1 tego kodeksu.
+### 1.
 
-**Art. 47.**
+Pokrzywdzony ma prawo żądać, po upływie 7 lat od wejścia w życie ustawy, anonimizacji dotyczących go danych.
 
-1. Dyrektor Głównej Komisji jest prokuratorem przełożonym prokuratorów tej Komisji oraz komisji oddziałowych. Naczelnik komisji oddziałowej jest prokuratorem przełożonym prokuratorów tej komisji.
+### 2.
 
-1a. Prokuratorami bezpośrednio przełożonymi są:
+Przepisu ust. 1 nie stosuje się, jeżeli:
 
-- **1)** Dyrektor Głównej Komisji – w stosunku do prokuratorów pełniących czynności w tej Komisji oraz naczelników oddziałowych komisji;
-- **2)** naczelnicy oddziałowych komisji – w stosunku do prokuratorów danej oddziałowej komisji.
+### 1)
 
-2. Polecenia Prokuratora Generalnego, wykraczające poza zakres zadań Instytutu Pamięci, mogą być wydawane prokuratorom Głównej Komisji i oddziałowych komisji tylko za zgodą Prezesa Instytutu Pamięci.
+inna osoba ma prawnie uzasadniony interes korzystania z tych danych,
 
-3. Prokuratorami nadrzędnymi w stosunku do prokuratorów oddziałowych komisji są dyrektor Głównej Komisji oraz prokuratorzy tej Komisji.
+### 2)
 
-4. Prokurator odwołany z powodu zrzeczenia się stanowiska prokuratora Instytutu Pamięci ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeśli nie ma innych przeszkód prawnych.
+dane te są niezbędne do badań naukowych,
 
-4a. (uchylony) 4b. W przypadku stwierdzenia, że prokurator Głównej Komisji i oddziałowej komisji nie może ze względów zdrowotnych pełnić służby w Instytucie Pamięci, Prokurator Generalny przenosi go na stanowisko równorzędne do innej jednostki organizacyjnej prokuratury, Ministerstwa Sprawiedliwości lub innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, zgodnie z kwalifikacjami prokuratora.
+### 3)
 
-5. Wynagrodzenie prokuratorów Głównej Komisji określają przepisy o wynagrodzeniu prokuratorów Prokuratury Krajowej, zaś wynagrodzenie prokuratorów oddziałowych komisji określają przepisy o wynagrodzeniu prokuratorów prokuratury regionalnej. Wynagrodzenie to wraz ze związanymi z nim świadczeniami o charakterze osobowym finansowane jest ze środków Instytutu Pamięci.
+z prośbą o dostęp do tych danych zwrócił się uprawniony organ władzy publicznej.
 
-6. Do prokuratorów Instytutu Pamięci stosuje się, w sprawach nieuregulowanych ustawą, przepisy ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259).
+### Art. 35.
 
-**Art. 48.** Prokurator oddziałowej komisji wydaje postanowienie o wszczęciu albo odmowie wszczęcia śledztwa w sprawie o zbrodnię, o której mowa w art. 1 pkt 1 lit. a, w terminie 3 miesięcy od otrzymania zawiadomienia o przestępstwie. Jeżeli osoba lub instytucja, która złożyła zawiadomienie, nie zostanie w ciągu 4 miesięcy od dnia jego złożenia powiadomiona o wszczęciu albo odmowie wszczęcia śledztwa, może wnieść zażalenie do prokuratora nadrzędnego.
+### 1.
 
-**Art. 49.** (uchylony)
+Funkcjonariusze i pracownicy organów bezpieczeństwa państwa mogą uzyskać na swój wniosek kopię świadectwa służby albo pracy oraz kopię opinii o służbie albo o pracy.
 
-**Art. 50.**
+### 2.
 
-1. Główna Komisja oraz oddziałowe komisje stanowią jednostki organizacyjne prokuratury w rozumieniu umów międzynarodowych, wiążących Rzeczpospolitą Polską z innymi państwami, o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych, pracowniczych i karnych.
+Funkcjonariusza, pracownika lub współpracownika organów bezpieczeństwa państwa, po uprzednim złożeniu przez niego oświadczenia Instytutowi Pamięci o fakcie jego służby, pracy lub współpracy z tymi organami, informuje się, na jego wniosek, o dotyczących go dokumentach znajdujących się w archiwum Instytutu Pamięci.
 
-2. Minister właściwy do spraw sprawiedliwości może, na wniosek Prezesa Instytutu Pamięci, delegować sędziego do pełnienia czynności w Głównej Komisji oraz udzielania pomocy prawnej.
+### Art. 36.
 
-**Art. 51.**
+Dokumenty zawierające dane o pokrzywdzonych lub osobach trzecich mogą być, w niezbędnym zakresie i w sposób nie naruszający praw tych osób, wykorzystywane przez organy władzy publicznej oraz przez inne instytucje, organizacje i osoby w celach:
 
-1. Do zgromadzenia i kolegium prokuratorów Głównej Komisji stosuje się odpowiednio przepisy ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze o zgromadzeniu i kolegium prokuratury regionalnej.
+### 1)
 
-2. W sprawach dyscyplinarnych prokuratorów Instytutu Pamięci orzekają:
+ochrony dóbr osobistych w postępowaniu sądowym,
 
-- **1)** w pierwszej instancji:
-    - **a)** Sąd Dyscyplinarny w Instytucie Pamięci w składzie 3 członków,
-    - **b)** Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego w sprawach przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego lub umyślnych przestępstw skarbowych lub w sprawach, w których wniosek złożył Sąd Najwyższy;
+### 2)
 
-- **2)** w drugiej instancji – Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego.
+wykonania ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ([Dz. U. z 1997 r. Nr 142, poz. 950](https://api.sejm.gov.pl/eli/acts/DU/1997/950/text.html) oraz z [1998 r. Nr 37, poz. 204](https://api.sejm.gov.pl/eli/acts/DU/1998/204/text.html) i [Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)),
 
-3. Członków Sądu Dyscyplinarnego w Instytucie Pamięci wybiera, w ustalonej przez siebie liczbie, na okres 4 lat, zgromadzenie prokuratorów Głównej Komisji spośród prokuratorów Instytutu Pamięci. Sąd Dyscyplinarny w Instytucie Pamięci wybiera ze swego grona przewodniczącego.
+### 3)
 
-4. Dyrektor Głównej Komisji jest przełożonym dyscyplinarnym w stosunku do prokuratorów Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu i oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu.
+wykonania ustawy z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne,
 
-5. Rzecznika Dyscyplinarnego dla prokuratorów Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu i oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu wyznacza Prokurator Generalny spośród prokuratorów Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu i oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu na wniosek Dyrektora Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. Rzecznik dyscyplinarny jest związany wskazaniami Dyrektora Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+### 4)
 
-6. Minister Sprawiedliwości może powołać Rzecznika Dyscyplinarnego Ministra Sprawiedliwości do prowadzenia określonej sprawy dotyczącej prokuratora Instytutu Pamięci. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wyłącza innego rzecznika od podejmowania czynności w sprawie.
+ścigania przestępstw, o których mowa w art. 1 pkt 1 lit. a),
 
-7. Rzecznik Dyscyplinarny Ministra Sprawiedliwości jest powoływany spośród prokuratorów każdorazowo wskazanych przez Prokuratora Krajowego. W uzasadnionych przypadkach, w szczególności śmierci czy przedłużającej się przeszkody w pełnieniu funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości, Minister Sprawiedliwości powołuje w miejsce tej osoby innego prokuratora spośród wskazanych przez Prokuratora Krajowego.
+### 5)
 
-8. Rzecznik Dyscyplinarny Ministra Sprawiedliwości może wszcząć postępowanie na wniosek Ministra Sprawiedliwości albo wstąpić do toczącego się postępowania.
+prowadzenia badań naukowych.
 
-9. Powołanie Rzecznika Dyscyplinarnego Ministra Sprawiedliwości jest równoznaczne z żądaniem podjęcia postępowania wyjaśniającego albo postępowania dyscyplinarnego.
+### Art. 37.
 
-10. Funkcja Rzecznika Dyscyplinarnego Ministra Sprawiedliwości wygasa z chwilą uprawomocnienia się orzeczenia o odmowie wszczęcia postępowania dyscyplinarnego, umorzeniu postępowania dyscyplinarnego albo uprawomocnienia się orzeczenia kończącego postępowanie dyscyplinarne. Wygaśnięcie funkcji Rzecznika Dyscyplinarnego Ministra Sprawiedliwości nie stoi na przeszkodzie ponownemu powołaniu przez Ministra Sprawiedliwości Rzecznika Dyscyplinarnego Ministra Sprawiedliwości w tej samej sprawie.
+### 1.
 
-11. Minister Sprawiedliwości ma wgląd w czynności sądu dyscyplinarnego pierwszej instancji, może zwracać uwagę na stwierdzone uchybienia, żądać wyjaśnień oraz usunięcia skutków uchybienia; czynności te nie mogą wkraczać w dziedzinę, w której członkowie sądów dyscyplinarnych są niezawiśli.
+Pokrzywdzony może zastrzec, że dotyczące go dane osobowe nie podlegające anonimizacji na podstawie art. 34 ust. 1 i zebrane w sposób tajny w toku czynności operacyjno-rozpoznawczych organów bezpieczeństwa państwa nie będą udostępniane w celach badawczych przez określony czas, jednakże nie dłużej niż przez 90 lat od daty ich wytworzenia.
 
-**Art. 52.** Organy wymiaru sprawiedliwości, prokuratury, organy i jednostki organizacyjne podległe, nadzorowane lub podporządkowane ministrowi właściwemu do spraw wewnętrznych, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw zagranicznych i odpowiednio Szefowi Agencji Bezpieczeństwa Wewnętrznego i Szefowi Agencji Wywiadu oraz organy administracji rządowej i samorządu terytorialnego są obowiązane, każdy w zakresie swojego działania, do udzielania pomocy Instytutowi Pamięci w realizacji zadań Instytutu Pamięci, o których mowa w art. 1.
+### 2.
 
-#### Rozdział 5a Funkcje lustracyjne Instytutu Pamięci
+Pokrzywdzony może wyrazić zgodę na udostępnienie swoich danych osobowych, określonych w ust. 1, wskazanym osobom lub instytucjom, a także na ich powszechną dostępność.
 
-**Art. 52a.** Do zadań Biura Lustracyjnego należy w szczególności:
+### 3.
 
-**Art. 52b.**
+Dane osobowe, określone w ust. 1, mogą być jednakże przedmiotem prac badawczych, jeżeli:
 
-1. Każdy katalog, o którym mowa w art. 52a pkt 5, 6 i 8, zawiera:
+### 1)
 
-- **1)** dane osobowe: imię i nazwisko (imiona i nazwiska, w tym imiona i nazwiska poprzednie, jeżeli były używane oraz nazwisko rodowe), imiona rodziców, datę i miejsce urodzenia;
-- **2)** opis danej kategorii pracy, służby lub współpracy;
-- **3)** informacje o rodzajach dokumentów zgromadzonych w zasobie archiwalnym Instytutu Pamięci, zawierających dane osobowe osoby, której dane osobowe zostały zamieszczone w katalogu;
-- **4)** przebieg pracy, służby lub współpracy z organami bezpieczeństwa państwa, osoby, której dane osobowe zostały zamieszczone w katalogu;
-- **5)** treść zapisów ewidencyjnych w dokumentach zgromadzonych w zasobie archiwalnym Instytutu Pamięci, dotyczących osoby, której dane osobowe zostały zamieszczone w katalogu, przy czym kolejne rejestracje traktuje się odrębnie;
-- **6)** wzmiankę o ewentualnych uzupełnieniach, sprostowaniach, uaktualnieniach, wyjaśnieniach lub dokumentach złożonych przez osobę, której dane osobowe zostały zamieszczone w katalogu, do zbioru dokumentów organu bezpieczeństwa państwa znajdujących się w zasobie archiwalnym Instytutu Pamięci;
-- **7)** informację o złożeniu oświadczenia, o którym mowa w art. 52a pkt 1;
-- **8)** informację o wyniku postępowania lustracyjnego.
+pokrzywdzony albo w przypadku jego śmierci osoba najbliższa wyrazi na to zgodę,
 
-2. W katalogu, o którym mowa w art. 52a pkt 5, zamieszcza się ponadto informację o wniosku, o którym mowa w art. 52d ust. 2.
+### 2)
 
-2a. W katalogu, o którym mowa w art. 52a pkt 7, zamieszcza się dane, o których mowa w ust. 1 pkt 1, 3 i 6–8.
+odnoszą się do publicznego wystąpienia pokrzywdzonego, jego działalności publicznej lub są danymi osobowymi wymaganymi przez ustawę w związku z pełnieniem funkcji publicznej.
 
-3. Na wniosek osoby, której dane osobowe zostały zamieszczone w katalogu, o którym mowa w art. 52a pkt 5, w katalogu zamieszcza się przedstawione przez tę osobę wyjaśnienia dotyczące informacji, o których mowa w ust. 1 pkt 2–5.
+### 4.
 
-4. Zapisami ewidencyjnymi, o których mowa w ust. 1 pkt 5, są informacje zawarte w dziennikach rejestracyjnych, dziennikach archiwalnych, kartotekach i dokumentach o podobnym charakterze.
+Prace badawcze można także przeprowadzić po anonimizacji danych osobowych, o których mowa w ust. 1, w kopiach dokumentów.
 
-5. W katalogu, o którym mowa w art. 52a pkt 6, nie zamieszcza się danych osobowych i informacji dotyczących osób:
+### 5.
 
-- **1)** które na podstawie art. 7a ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów nie podają w oświadczeniu lustracyjnym informacji o pracy lub służbie w organach bezpieczeństwa państwa;
-- **2)** które składają oświadczenie lustracyjne na zasadach określonych w art. 11 ust. 4 ustawy wymienionej w pkt 1;
-- **3)** które na podstawie art. 3 ust. 1 i 2 ustawy z dnia 13 kwietnia 2007 r. o zmianie ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów i ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. poz. 561) nie podają w oświadczeniu lustracyjnym informacji o pracy lub służbie w organach bezpieczeństwa państwa;
-- **4)** o których mowa w art. 4 ustawy wymienionej w pkt 3.
+Dane osobowe, określone w ust. 1, nie mogą być wykorzystywane na niekorzyść pokrzywdzonego.
 
-**Art. 52c.** (utracił moc)
+### Art. 38.
 
-**Art. 52d.**
+### 1.
 
-1. Osoba, której dane osobowe zostały umieszczone w katalogu, o którym mowa w art. 52a pkt 5, która nie zgadza się z informacją zawartą w katalogu dotyczącą jej osoby, może złożyć oświadczenie lustracyjne. Przepisy dotyczące postępowania lustracyjnego stosuje się odpowiednio.
+Funkcjonariusze służb specjalnych upoważnieni przez Szefa Urzędu Ochrony Państwa i w ramach ich zadań ustawowych, po zawiadomieniu Prezesa Instytutu Pamięci, mogą mieć wgląd do danych zawartych w dokumentach gromadzonych przez Instytut Pamięci, w granicach upoważnienia.
 
-2. Na wniosek osoby, której dane osobowe zostały zamieszczone w katalogu, o którym mowa w ust. 1, i która złożyła oświadczenie lustracyjne, każdemu przysługuje wgląd do kopii dokumentów dotyczących tej osoby, zgromadzonych w zasobie archiwalnym Instytutu Pamięci. Przepisy art. 30 ust. 1 i 4 stosuje się odpowiednio.
+### 2.
 
-3. Uprawnienia wynikające z ust. 2 może wykonywać osoba najbliższa zmarłego w rozumieniu art. 115 § 11 Kodeksu karnego, przy czym osoba ta nie składa oświadczenia lustracyjnego.
+Dokumenty organów bezpieczeństwa państwa, jeżeli nie zawierają danych osobowych pokrzywdzonego lub osoby trzeciej, mogą być wykorzystywane przez upoważnionych funkcjonariuszy służb specjalnych w ramach ich zadań ustawowych, jeśli zawierają informację o przestępstwie szpiegostwa, terroryzmu lub przestępstwie godzącym w porządek konstytucyjny Rzeczypospolitej Polskiej.
 
-4. Osoba, o której mowa w ust. 3, która nie zgadza się z informacją zawartą w katalogu, o którym mowa w art. 52a pkt 5, dotyczącą zmarłego może wystąpić do sądu. Sąd orzeka o zasadności albo braku podstaw do zamieszczenia w katalogu danych osobowych zmarłego. Przepisy dotyczące postępowania lustracyjnego stosuje się odpowiednio.
+### 3.
 
-**Art. 52e.**
+Przepis ust. 2 stosuje się odpowiednio do funkcjonariuszy służb specjalnych państw, z którymi Rzeczpospolita Polska jest związana stosowną umową międzynarodową, jeżeli dokumenty te zawierają informację o przestępstwie szpiegostwa lub terroryzmu.
 
-1. Analizy oświadczeń lustracyjnych dokonuje się z uwzględnieniem kolejności, według której zostały wymienione funkcje publiczne w art. 22 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów.
+### Art. 39.
 
-2. W uzasadnionych przypadkach można odstąpić od analizy oświadczeń według kolejności, o której mowa w ust. 1. O takich odstępstwach przekazuje się informacje wraz z uzasadnieniem do sądu.
+### 1.
 
-3. W przypadku powstania wątpliwości co do zgodności oświadczenia z prawdą, prokurator Biura Lustracyjnego lub prokurator oddziałowego biura lustracyjnego informuje o tym osobę, na której ciążył obowiązek złożenia oświadczenia, a także informuje o możliwości złożenia wyjaśnień; z czynności złożenia wyjaśnień sporządza się protokół.
+Szef Urzędu Ochrony Państwa lub Minister Obrony Narodowej może zastrzec, na czas określony, że do określonych dokumentów nie może mieć dostępu żadna inna osoba poza wyznaczonymi przez nich przedstawicielami, jeżeli jest to konieczne dla bezpieczeństwa państwa. Organy innych służb specjalnych mogą występować z takim zastrzeżeniem za pośrednictwem Szefa Urzędu Ochrony Państwa.
 
-3a. Prokurator Biura Lustracyjnego i oddziałowego biura lustracyjnego, w ramach czynności określonych w art. 52a pkt 3, może żądać nadesłania lub przedstawienia akt oraz dokumentów i pisemnych wyjaśnień, a w razie potrzeby przesłuchiwać świadków, zasięgać opinii biegłych oraz dokonywać zatrzymania rzeczy lub przeszukania, a także może stosować kary porządkowe. Do tych czynności stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+### 2.
 
-4. W terminie 6 miesięcy od dnia doręczenia informacji, o której mowa w ust. 3, prokurator Biura Lustracyjnego lub prokurator oddziałowego biura lustracyjnego składa wniosek do sądu o wszczęcie postępowania lustracyjnego albo powiadamia osobę, na której ciążył obowiązek złożenia oświadczenia, o braku podstaw do złożenia takiego wniosku.
+Dokumenty, o których mowa w ust. 1, stanowią wyodrębniony, tajny zbiór w archiwum Instytutu Pamięci i podlegają szczególnej ochronie.
 
-**Art. 52f.** Prokurator Biura Lustracyjnego, prokurator oddziałowego biura lustracyjnego oraz upoważnieni pracownicy Biura Lustracyjnego i oddziałowych biur lustracyjnych mają pełny dostęp do dokumentacji, ewidencji i pomocy informacyjnych, bez względu na formę ich utrwalenia, zgromadzonych lub wytworzonych do dnia 31 lipca 1990 r. przez:
+### 3.
 
-**Art. 52g.**
+Prezes Instytutu Pamięci, na wniosek Szefa Urzędu Ochrony Państwa lub na wniosek Ministra Obrony Narodowej, zatwierdza lub uchyla zastrzeżenie dostępu do określonych dokumentów. Od decyzji Prezesa Instytutu Pamięci Ministrowi Obrony Narodowej oraz Szefowi Urzędu Ochrony Państwa służy odwołanie do Kolegium Instytutu Pamięci.
 
-1. Z zastrzeżeniem ust. 2 przepisy art. 47 i 51 stosuje się odpowiednio do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych, przy czym uprawnienia Dyrektora Głównej Komisji w stosunku do prokuratorów Biura Lustracyjnego oraz prokuratorów oddziałowych biur lustracyjnych przysługują Dyrektorowi Biura Lustracyjnego.
+### 4.
 
-2. Dyrektor Biura Lustracyjnego jest prokuratorem przełożonym prokuratorów tego Biura oraz oddziałowych biur lustracyjnych. Naczelnik oddziałowego biura lustracyjnego jest prokuratorem przełożonym prokuratorów tego biura.
+Zastrzeżenie jest objęte tajemnicą państwową.
 
-#### Rozdział 6 Funkcje badawcze i edukacyjne Instytutu Pamięci
+### 5.
 
-**Art. 53.** Instytut Pamięci:
+Przepis art. 39 nie ogranicza uprawnień sądu w postępowaniu lustracyjnym i Rzecznika Interesu Publicznego.
 
-**Art. 53a.**
+### Art. 40.
 
-1. Wykonywanie funkcji edukacyjnych Instytutu Pamięci następuje w szczególności przez:
+Jeżeli Prezes Instytutu Pamięci, w związku z wykonywaniem swoich zadań, stwierdzi, że w dokumentach znajdują się informacje o przestępstwach określonych w art. 1 w ust. 2 w pkt 2-4 ustawy z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa ([Dz. U. Nr 30, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1990/180/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html) i [Nr 107, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1991/461/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html), z [1996 r. Nr 59, poz. 269](https://api.sejm.gov.pl/eli/acts/DU/1996/269/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 70, poz. 443](https://api.sejm.gov.pl/eli/acts/DU/1997/443/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 131, poz. 860](https://api.sejm.gov.pl/eli/acts/DU/1998/860/text.html)), zawiadamia o tym bezzwłocznie Szefa Urzędu Ochrony Państwa. Przepisu art. 304 Kodeksu postępowania karnego nie stosuje się.
 
-- **1)** upowszechnianie w kraju i za granicą stanowisk i opinii dotyczących najważniejszych dla Narodu Polskiego wydarzeń historycznych;
-- **2)** popularyzację porozbiorowej i najnowszej historii Polski jako elementu wychowania patriotycznego;
-- **3)** promowanie wiedzy o udziale Polaków i ich formacjach wojskowych na frontach walk;
-- **4)** przeciwdziałanie rozpowszechnianiu w kraju i za granicą informacji i publikacji o nieprawdziwych treściach historycznych, krzywdzących lub zniesławiających Rzeczpospolitą Polską lub Naród Polski;
-- **5)** informowanie o metodach, miejscach i sprawcach zbrodni popełnionych przeciwko Narodowi Polskiemu;
-- **6)** wspieranie przedsięwzięć społecznych mających na celu kreowanie patriotyzmu i umacnianie tożsamości narodowej.
+### Art. 41.
 
-2. Zadania Instytutu Pamięci w zakresie funkcji edukacyjnych mogą być wykonywane we współpracy ze szkołami, z uczelniami, placówkami oświatowymi i kulturalnymi, ze stowarzyszeniami, z fundacjami i innymi organizacjami pozarządowymi, a także ze środkami masowego przekazu, polskimi organizacjami i instytucjami emigracyjnymi oraz organami władzy publicznej.
+### 1.
 
-3. Zadania Instytutu Pamięci realizowane za granicą są wykonywane we współpracy z ministrem właściwym do spraw zagranicznych.
+Dyrektor Biura Udostępniania i Archiwizacji Dokumentów Instytutu Pamięci zawiadamia pokrzywdzonego o przekazaniu jego danych osobowych innym osobom lub instytucjom w myśl przepisów art. 31, 36 i 37, informując go o rodzaju przekazanych danych i ich odbiorcy.
 
-#### Rozdział 6a Poszukiwanie miejsc spoczynku osób, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r.
+### 2.
 
-**Art. 53b.** Instytut Pamięci prowadzi prace poszukiwawcze miejsc spoczynku osób, które straciły życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r., zwane dalej „pracami poszukiwawczymi”, a w przypadku odnalezienia zwłok, szczątków lub prochów ludzkich identyfikuje tożsamość tych osób.
+Przepisu ust. 1 nie stosuje się w razie złożenia przez Ministra Obrony Narodowej lub Szefa Urzędu Ochrony Państwa Prezesowi Instytutu Pamięci oświadczenia, że zawiadomienie takie zagrażałoby bezpieczeństwu państwa.
 
-**Art. 53c.**
+### Art. 42.
 
-1. Prowadzenie prac poszukiwawczych wymaga uzyskania uprzedniej zgody właściciela lub posiadacza nieruchomości, na której mają być prowadzone te prace, i uzgodnienia z nim, w drodze umowy, w tym odpłatnej, sposobu, zakresu i terminu korzystania z nieruchomości oraz zasad i sposobu naprawienia ewentualnych szkód wyrządzonych w związku z prowadzonymi pracami poszukiwawczymi.
+Jeżeli Dyrektor Biura Udostępniania i Archiwizacji Dokumentów Instytutu Pamięci zostanie zawiadomiony, zwłaszcza w wyniku postępowania określonego w ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne, że znajdujące się w dokumentach dane osobowe są nieprawdziwe, to informacje o tym dołącza się do zbioru dokumentów dotyczących danej osoby.
 
-2. W przypadku braku uzgodnień, o których mowa w ust. 1, starosta właściwy ze względu na miejsce położenia nieruchomości, wykonujący zadanie z zakresu administracji rządowej, na wniosek Prezesa Instytutu Pamięci, może wydać decyzję nakazującą właścicielowi lub posiadaczowi udostępnienie nieruchomości na czas niezbędny do przeprowadzenia prac poszukiwawczych, jednak nie dłuższy niż 9 miesięcy od dnia, w którym decyzja stała się ostateczna.
+### Art. 43.
 
-3. Do decyzji, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 124 ust. 4–7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185).
+Postępowanie w sprawach uregulowanych w ustawie prowadzi się według przepisów Kodeksu postępowania administracyjnego, jeżeli przepisy ustawy nie stanowią inaczej. W sprawach określonych w art. 39 skarga do Naczelnego Sądu Administracyjnego nie przysługuje.
 
-4. Za szkody wyrządzone w związku z prowadzeniem prac poszukiwawczych przysługuje odszkodowanie. Do ustalenia wysokości i wypłacenia odszkodowania stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
+### Art. 44.
 
-5. Przepisu ust. 4 nie stosuje się, jeżeli udostępnienie nieruchomości w celu prowadzenia prac poszukiwawczych nastąpiło na podstawie umowy, o której mowa w ust. 1.
+Informacje uzyskane do celów naukowych i publicystycznych na podstawie dokumentów Instytutu Pamięci nie mogą być wykorzystywane do innych celów ani przekazywane innym instytucjom.
 
-**Art. 53d.**
+### Rozdział 5 Funkcje śledcze Instytutu Pamięci
 
-1. Jeżeli w wyniku prowadzonych prac poszukiwawczych odkryto zwłoki, szczątki lub prochy ludzkie albo ustalono lub powzięto podejrzenie, że zwłoki, szczątki lub prochy ludzkie znajdują się w określonym miejscu, Prezes Instytutu Pamięci zawiadamia o tym prokuratora właściwej miejscowo oddziałowej komisji.
+### Art. 45.
 
-2. Prokurator właściwej miejscowo oddziałowej komisji zawiadamia Prezesa Instytutu Pamięci o zarządzeniu ekshumacji, wskazując miejsce i czas jej dokonania.
+### 1.
 
-3. Prokurator właściwej miejscowo oddziałowej komisji przekazuje do bazy, o której mowa w art. 53f, dane dotyczące miejsca odkrycia zwłok, szczątków lub prochów ludzkich, oznaczenia materiału genetycznego z ekshumowanych zwłok, szczątków lub prochów ludzkich oraz miejsca jego przechowywania.
+Śledztwo w sprawach o zbrodnie, o których mowa w art. 1 pkt 1 lit. a), wszczyna i prowadzi prokurator oddziałowej komisji.
 
-**Art. 53e.**
+### 2.
 
-1. Do pochowania zwłok, szczątków lub prochów osób, których tożsamość została ustalona, stosuje się odpowiednio przepis art. 10 ust. 1 ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 2020 r. poz. 1947).
+Prokuratorom Instytutu Pamięci w sprawach określonych w art. 1 przysługują uprawnienia procesowe przewidziane dla prokuratora w Kodeksie postępowania karnego.
 
-2. Jeżeli nie ma osób uprawnionych do pochowania zwłok, szczątków lub prochów ludzkich albo nie udało się ustalić tożsamości osób, o których mowa w art. 53b, miejsce ich pochowania określa Prezes Instytutu Pamięci, po przeprowadzeniu konsultacji z organizacjami społecznymi zajmującymi się upamiętnianiem i otaczaniem opieką miejsc pamięci narodowej. Organizacja pochówku i pokrycie jego kosztów należą do Instytutu Pamięci.
+### 3.
 
-3. Dane dotyczące miejsca pochowania zwłok, szczątków lub prochów osób, o których mowa w art. 53b, w tym lokalizację cmentarza i grobu (kwatera, rząd, numer w rzędzie), zamieszcza się w bazie, o której mowa w art. 53f.
+Celem śledztwa w sprawach o zbrodnie, o których mowa w art. 1, jest również wszechstronne wyjaśnienie okoliczności sprawy, a w szczególności ustalenie osób pokrzywdzonych.
 
-**Art. 53f.**
+### 4.
 
-1. W celu prowadzenia prac poszukiwawczych oraz identyfikacji tożsamości osób, o których mowa w art. 53b, w Instytucie Pamięci tworzy się Bazę Materiału Genetycznego, zwaną dalej „Bazą”, której administratorem jest Prezes Instytutu Pamięci.
+Okoliczność, o której mowa w art. 17 § 1 pkt 5 Kodeksu postępowania karnego, nie może stanowić przeszkody do realizacji celu, o którym mowa w ust. 3. Po zrealizowaniu tego celu postępowanie umarza się.
 
-2. Baza obejmuje:
+### 5.
 
-- **1)** dane i informacje o osobach, których krewni stracili życie wskutek walki z narzuconym systemem totalitarnym lub wskutek represji totalitarnych lub czystek etnicznych w okresie od dnia 8 listopada 1917 r. do dnia 31 lipca 1990 r. i miejsce ich pochowania nie jest znane:
-    - **a)** imię i nazwisko,
-    - **b)** adres do korespondencji,
-    - **c)** oznaczenie materiału genetycznego i miejsce jego przechowywania,
-    - **d)** określenie stopnia pokrewieństwa z krewnym, jego imię i nazwisko, datę urodzenia i imię ojca oraz stopień wojskowy,
-    - **e)** wskazanie okoliczności mogących służyć odnalezieniu miejsca pochowania i ustaleniu tożsamości, w szczególności dotyczących aresztowania, miejsc osadzenia oraz organów bezpieczeństwa państwa i ich funkcjonariuszy prowadzących postępowania w sprawach krewnego;
+Do prowadzenia śledztw przez Instytut Pamięci, w tym również do udzielania pomocy prawnej w zakresie przestępstw, o których mowa w art. 1 pkt 1, stosuje się przepisy Kodeksu postępowania karnego.
 
-- **2)** dane i informacje o zwłokach, szczątkach lub prochach ludzkich, o których mowa w art. 53b:
-    - **a)** miejsce odkrycia zwłok, szczątków lub prochów ludzkich, oznaczenie materiału genetycznego z ekshumowanych zwłok, szczątków lub prochów ludzkich oraz miejsce jego przechowywania,
-    - **b)** miejsce pochowania zwłok, szczątków lub prochów ludzkich, w tym lokalizację cmentarza i grobu (kwatera, rząd, numer w rzędzie);
+### 6.
 
-- **3)** wyniki badań genetycznych.
+Prokurator oddziałowej komisji może zaniechać wszczęcia postępowania, a wszczęte umorzyć w stosunku do sprawcy przestępstwa, o którym mowa w art. 1 pkt 1 lit. a), jeżeli dobrowolnie ujawnił on wobec organu powołanego do ścigania przestępstw wszystkie istotne informacje dotyczące osób współdziałających przy popełnieniu przestępstwa, jak również okoliczności jego popełnienia, jeżeli informacje te umożliwiają wszczęcie postępowania przeciwko określonej osobie. Odstępując od ścigania sprawcy przestępstwa, prokurator uwzględnia stopień społecznej szkodliwości popełnionego przez niego czynu i stopień jego winy oraz rodzaj i charakter przestępstwa ujawnionego, a w szczególności ustala, czy możliwe jest ujawnienie w inny sposób sprawców współdziałających w dokonaniu tego przestępstwa, a także ocenia wagę, jaką ma ujawnienie przestępstwa dla realizacji zadań Instytutu Pamięci.
 
-3. Osoby, o których mowa w ust. 2 pkt 1, mogą zgłaszać wnioski o zarejestrowanie w Bazie swoich danych oraz przekazać swój materiał genetyczny.
+### 7.
 
-4. Prezes Instytutu Pamięci dokonuje weryfikacji danych i informacji o osobach, o których mowa w ust. 2 pkt 1, nie rzadziej niż co 10 lat od ich zarejestrowania w Bazie pod kątem celowości dalszego ich przetwarzania lub wykorzystywania.
+Prokurator może wszcząć postępowanie w stosunku do sprawcy, którego ścigania zaniechał na podstawie ust. 6, tylko wtedy, gdy w toku dalszego postępowania uchyli się on od złożenia zeznań lub złoży zeznania odmienne od tych, które uzasadniały zaniechanie wszczęcia postępowania lub umorzenie postępowania wszczętego.
 
-5. Usunięcie danych i informacji o osobach, o których mowa w ust. 2 pkt 1, następuje na wniosek tych osób. W przypadku usunięcia danych i informacji z Bazy materiał genetyczny przekazany przez te osoby podlega zniszczeniu.
+### 8.
 
-6. Usunięcia danych i informacji o osobach, o których mowa w ust. 2 pkt 1, oraz zniszczenia materiału genetycznego przekazanego przez te osoby dokonuje się również, gdy w wyniku weryfikacji, o której mowa w ust. 4, stwierdzono niecelowość dalszego przetwarzania lub wykorzystywania tych danych lub informacji, informując o tym fakcie te osoby.
+Jeżeli osoba, wobec której ścigania zaniechano na podstawie ust. 6, zostanie wezwana w charakterze świadka, prokurator oddziałowej komisji może wydać postanowienie o zachowaniu w tajemnicy jej danych osobowych, choćby nie zachodziły okoliczności określone w art. 184 § 1 Kodeksu postępowania karnego.
 
-7. Usunięcia danych i informacji o osobach oraz zniszczenia materiału genetycznego dokonuje komisja powołana przez Prezesa Instytutu Pamięci, sporządzając z tych czynności protokół.
+### 9.
 
-8. Informacje objęte Bazą, z wyjątkiem informacji dotyczących miejsca odkrycia zwłok, szczątków lub prochów ludzkich oraz miejsca pochowania zwłok, szczątków lub prochów ludzkich, w tym lokalizacji cmentarza i grobu (kwatera, rząd, numer w rzędzie), nie podlegają udostępnieniu osobom trzecim.
+W sądowym postępowaniu odwoławczym oraz kasacyjnym występują prokuratorzy Głównej Komisji.
 
-9. Pobieranie i przechowywanie materiału genetycznego oraz prowadzenie badań porównawczych materiału genetycznego pobranego z ekshumowanych zwłok, szczątków lub prochów ludzkich z materiałem genetycznym znajdującym się w Bazie, Instytut Pamięci zleca:
+### Art. 46.
 
-- **1)** grupie uczelni medycznych lub
-- **2)** grupie uczelni prowadzących działalność dydaktyczną i badawczą w dziedzinie nauk medycznych, lub
-- **3)** grupie innych podmiotów uprawnionych do prowadzenia badań porównawczych materiału genetycznego na podstawie odrębnych przepisów, lub
-- **4)** grupie składającej się z uczelni i podmiotów wymienionych w pkt 1–3 – powołanej na podstawie umowy do realizacji tych zadań.
+Prezes Instytutu Pamięci, po zasięgnięciu opinii Dyrektora Głównej Komisji, może ujawnić opinii publicznej, a także innym osobom niż wymienione w art. 156 § 5 Kodeksu postępowania karnego, dane osobowe sprawcy zbrodni, o których mowa w art. 1 pkt 1 lit. a), jeżeli postępowanie karne nie zakończyło się wydaniem prawomocnego wyroku skazującego z powodu wskazanego w art. 17 § 1 pkt 5 Kodeksu postępowania karnego albo zostało zawieszone na podstawie art. 22 § 1 tego kodeksu.
 
-10. Zmiany w składzie grupy, o której mowa w ust. 9, wymagają uzyskania zgody Prezesa Instytutu Pamięci.
+### Art. 47.
 
-**Art. 53g.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób pobierania materiału genetycznego, o którym mowa w art. 53f ust. 2 pkt 1 lit. c, oraz warunki i sposób przechowywania materiału genetycznego, o którym mowa w art. 53f ust. 2 pkt 1 lit. c i pkt 2 lit. a, mając na względzie zapewnienie poszanowania praw osób, o których mowa w art. 53f ust. 2 pkt 1, zwłok, szczątków i prochów ludzkich oraz bezpieczeństwo sanitarne.
+### 1.
 
-**Art. 53h.**
+Dyrektor Głównej Komisji jest prokuratorem przełożonym prokuratorów tej Komisji oraz komisji oddziałowych.
 
-1. Podmiot będący administratorem bazy materiału genetycznego lub bazy materiału biologicznego przechowywanego w celu identyfikacji tożsamości osób, o których mowa w art. 53b, przekazuje do Bazy informacje o posiadanych próbkach materiału genetycznego lub biologicznego oraz dotyczące ich dane i informacje określone w art. 53f ust. 2.
+### 2.
 
-2. Podmiot, o którym mowa w ust. 1, jest obowiązany do aktualizacji przekazanych danych i informacji w okresach trzymiesięcznych.
+Polecenia Prokuratora Generalnego inne niż określone w art. 8 ust. 5 ustawy z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 1994 r. Nr 19, poz. 70](https://api.sejm.gov.pl/eli/acts/DU/1994/70/text.html) i [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html), z [1996 r. Nr 77, poz. 367](https://api.sejm.gov.pl/eli/acts/DU/1996/367/text.html), z [1997 r. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), [Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 106, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/1997/679/text.html), [Nr 117, poz. 752 i 753](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 124, poz. 782](https://api.sejm.gov.pl/eli/acts/DU/1997/782/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html) oraz z [1998 r. Nr 98, poz. 607](https://api.sejm.gov.pl/eli/acts/DU/1998/607/text.html)), wykraczające poza zakres zadań Instytutu Pamięci, mogą być wydawane prokuratorom Instytutu Pamięci tylko za zgodą Prezesa Instytutu Pamięci.
 
-3. Podmiot, o którym mowa w ust. 1, przekazuje do Instytutu Pamięci informacje i dane, o których mowa w ust. 1, oraz posiadane próbki materiału genetycznego i biologicznego w przypadku zakończenia działalności związanej z identyfikacją tożsamości osób, o których mowa w art. 53b.
+### 3.
 
-**Art. 53i.**
+Prokuratorami nadrzędnymi w stosunku do prokuratorów oddziałowych komisji są Dyrektor Głównej Komisji oraz prokuratorzy tej Komisji.
 
-1. Prezes Instytutu Pamięci może uzyskać dostęp do bazy materiału genetycznego lub bazy materiału biologicznego, administrowanej przez inny podmiot, jeżeli istnieje uzasadnione przypuszczenie, że te bazy zawierają informacje i dane z zakresu działania Instytutu Pamięci.
+### 4.
 
-2. Każdy, kto posiada bazy, o których mowa w ust. 1, jest obowiązany niezwłocznie zawiadomić o tym fakcie Prezesa Instytutu Pamięci.
+Prokurator odwołany z powodu zrzeczenia się stanowiska prokuratora Instytutu Pamięci ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne poprzednio zajmowanemu, jeśli nie ma innych przeszkód prawnych.
 
-3. Każdy podmiot jest obowiązany bezzwłocznie wydać Prezesowi Instytutu Pamięci, na jego żądanie, posiadane informacje lub dane zawarte w bazach, o których mowa w ust. 1.
+### 5.
 
-#### Rozdział 6b Wykonywanie zadań z zakresu upamiętniania walk i męczeństwa
+Uposażenie prokuratorów Głównej Komisji określają przepisy o uposażeniu prokuratorów Prokuratury Krajowej, zaś uposażenie prokuratorów oddziałowych komisji określają przepisy o uposażeniu prokuratorów prokuratury apelacyjnej. Uposażenie to wraz ze związanymi z nimi świadczeniami o charakterze osobowym finansowane jest ze środków Instytutu Pamięci.
 
-**Art. 53j.**
+### 6.
 
-1. Instytut Pamięci prowadzi działalność związaną z upamiętnianiem historycznych wydarzeń, miejsc oraz postaci w dziejach walk i męczeństwa Narodu Polskiego, zarówno w kraju, jak i za granicą, a także miejsc walk i męczeństwa innych narodów na terytorium Rzeczypospolitej Polskiej, w szczególności w zakresie:
+Do prokuratorów Instytutu Pamięci stosuje się, w sprawach nie uregulowanych ustawą, przepisy ustawy z dnia 20 czerwca 1985 r. o prokuraturze.
 
-- **1)** inicjowania opieki nad miejscami walk i męczeństwa oraz trwałego upamiętnienia faktów, wydarzeń i postaci związanych z tymi miejscami;
-- **2)** współdziałania w organizowaniu obchodów, uroczystości, przedsięwzięć wydawniczych i wystawienniczych;
-- **3)** popularyzowania za pomocą środków masowego przekazu miejsc, wydarzeń i postaci historycznych związanych z walkami i męczeństwem;
-- **4)** oceniania stanu opieki nad miejscami i trwałymi obiektami pamięci narodowej, w szczególności nad grobami i cmentarzami wojennymi oraz walk narodowowyzwoleńczych, cmentarzami ofiar totalitarnego terroru, a także izbami pamięci narodowej;
-- **5)** opiniowania pod względem historycznym wniosków o trwałe upamiętnienie miejsc i wydarzeń historycznych, a także wybitnych postaci związanych z dziejami walk i męczeństwa;
-- **6)** współdziałania w szczególności ze środowiskami i organizacjami emigracyjnymi i polonijnymi oraz polskimi poza granicami Rzeczypospolitej Polskiej w sprawowaniu opieki nad miejscami walk i męczeństwa Narodu Polskiego za granicą;
-- **7)** dokonywania trwałych upamiętnień faktów, wydarzeń i postaci związanych z miejscami walk i męczeństwa.
+### Art. 48.
 
-2. W sprawach, które mogą mieć wpływ na realizację polityki państwa dotyczącej miejsc pamięci narodowej oraz grobów i cmentarzy wojennych, Prezes Instytutu Pamięci podejmuje działania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
+Prokurator oddziałowej komisji wydaje postanowienie o wszczęciu albo odmowie wszczęcia śledztwa w sprawie o zbrodnię, o której mowa w art. 1 pkt 1 lit. a), w terminie 3 miesięcy od otrzymania zawiadomienia o przestępstwie.
 
-3. W sprawach, które mogą mieć wpływ na realizację umów międzynarodowych dotyczących miejsc pamięci narodowej oraz grobów i cmentarzy wojennych, Prezes Instytutu Pamięci podejmuje działania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
+### Art. 49.
 
-4. Prezes Instytutu Pamięci prowadzi Muzeum.
+Po upływie 3 miesięcy od daty wszczęcia śledztwa w sprawie o zbrodnię, o której mowa w art. 1 pkt 1 lit. a), prokurator prowadzący je składa prokuratorowi nadrzędnemu sprawozdanie z dokonanych czynności. Sprawozdanie takie składa się po upływie każdego trzymiesięcznego okresu śledztwa. Terminów dotyczących ukończenia śledztwa, określonych w art. 309 Kodeksu postępowania karnego, nie stosuje się.
 
-**Art. 53k.** Wykonywanie zadań określonych w art. 53j ust. 1 następuje w szczególności przez:
+### Art. 50.
 
-**Art. 53l.** Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo wydają zezwolenie po zasięgnięciu opinii Prezesa Instytutu Pamięci.
+Główna Komisja oraz oddziałowe komisje stanowią jednostki organizacyjne prokuratury w rozumieniu umów międzynarodowych, wiążących Rzeczpospolitą Polską z innymi państwami, o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych, pracowniczych i karnych.
 
-**Art. 53m.**
+### Art. 51.
 
-1. W celu realizacji zadań określonych w art. 53j przy oddziałach Instytutu Pamięci tworzy się komitety ochrony pamięci walk i męczeństwa.
+### 1.
 
-2. Członkami komitetu ochrony pamięci walk i męczeństwa mogą być w szczególności przedstawiciele organów jednostek samorządu terytorialnego, a także organizacji społecznych, których przedmiot działalności jest związany z upamiętnianiem historycznych wydarzeń, miejsc oraz postaci w dziejach walk i męczeństwa Narodu Polskiego, w tym fundacji kombatanckich oraz stowarzyszeń kombatanckich w rozumieniu art. 6 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2022 r. poz. 2039).
+Do kolegium prokuratorów oddziałowych komisji stosuje się odpowiednio przepisy o kolegium prokuratury wojewódzkiej, a do zgromadzenia i kolegium prokuratorów Głównej Komisji stosuje się odpowiednio przepisy o zgromadzeniu i kolegium prokuratury apelacyjnej.
 
-3. Właściwy miejscowo dyrektor oddziału Instytutu Pamięci zamieszcza w prasie o zasięgu lokalnym oraz na stronie internetowej oddziału ogłoszenie o możliwości zgłaszania kandydatów na członków komitetu ochrony pamięci walk i męczeństwa, w tym o terminie i miejscu składania wniosków w tej sprawie.
+### 2.
 
-4. Członków komitetu ochrony pamięci walk i męczeństwa powołuje i odwołuje Prezes Instytutu Pamięci na wniosek właściwego miejscowo dyrektora oddziału Instytutu Pamięci.
+Przewodniczącego i ośmiu członków Komisji Dyscyplinarnej dla prokuratorów Instytutu Pamięci powołuje na okres 2 lat Prokurator Generalny w porozumieniu z Prezesem Instytutu Pamięci.
 
-5. Udział w pracach komitetu ochrony pamięci walk i męczeństwa ma charakter społeczny.
+### 3.
 
-6. Obsługę organizacyjną komitetu ochrony pamięci walk i męczeństwa zapewnia właściwy miejscowo dyrektor oddziału Instytutu Pamięci.
+Komisja Dyscyplinarna w Instytucie Pamięci orzeka w pierwszej instancji w składzie trzech członków, a w drugiej instancji - w składzie pięciu członków. W składzie orzekającym w drugiej instancji nie może brać udziału członek Komisji, który brał udział w wydaniu zaskarżonego orzeczenia.
 
-**Art. 53n.** (uchylony)
+### Art. 52.
 
-#### Rozdział 6c Ochrona dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego
+Organy wymiaru sprawiedliwości, prokuratury, organy i jednostki organizacyjne podległe, nadzorowane lub podporządkowane Ministrowi Spraw Wewnętrznych i Administracji, Ministrowi Obrony Narodowej, Ministrowi Spraw Zagranicznych i Szefowi Urzędu Ochrony Państwa oraz organy administracji rządowej i samorządu terytorialnego są obowiązane, każdy w zakresie swojego działania, do udzielania pomocy Instytutowi Pamięci w realizacji zadań Instytutu Pamięci, o których mowa w art. 1.
 
-**Art. 53o.** Do ochrony dobrego imienia Rzeczypospolitej Polskiej i Narodu Polskiego odpowiednie zastosowanie mają przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339) o ochronie dóbr osobistych. Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć organizacja pozarządowa w zakresie swoich zadań statutowych. Odszkodowanie lub zadośćuczynienie przysługują Skarbowi Państwa.
+### Rozdział 6 Funkcje edukacyjne Instytutu Pamięci
 
-**Art. 53p.** Powództwo o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego może wytoczyć również Instytut Pamięci Narodowej. W sprawach tych Instytut Pamięci Narodowej ma zdolność sądową.
+### Art. 53.
 
-**Art. 53q.** Przepisy art. 53o i art. 53p mają zastosowanie niezależnie od tego, jakie prawo jest właściwe.
+Instytut Pamięci:
 
-#### Rozdział 6d Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL
+### 1)
 
-**Art. 53r.**
+prowadzi badania naukowe nad zbrodniami i zdarzeniami, o których mowa w art. 1, a także udostępnia zgromadzone dokumenty innym placówkom naukowym w celu prowadzenia takich badań, z zachowaniem warunków określonych w ustawie,
 
-1. Organizatorem Muzeum powołanego na mocy zarządzenia Ministra Sprawiedliwości z dnia 1 marca 2020 r. w sprawie przekształcenia Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL w państwową instytucję kultury oraz nadania statutu Muzeum (Dz. Urz. Min. Sprawiedl. poz. 83) jest Prezes Instytutu Pamięci.
+### 2)
 
-2. Muzeum jest państwową instytucją kultury i działa na podstawie:
+udziela informacji na temat zgromadzonych dokumentów oraz publikuje zbiory posiadanych dokumentów,
 
-- **1)** niniejszej ustawy, z wyjątkiem art. 53m;
-- **2)** ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2020 r. poz. 194);
-- **3)** ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2022 r. poz. 385), z wyjątkiem art. 6 ust. 1, art. 8, art. 11, art. 23, art. 24 i art. 27;
-- **4)** statutu, o którym mowa w art. 53s.
+### 3)
 
-3. Przedmiotem działania Muzeum jest upamiętnienie historii Polski i działalności Żołnierzy Wyklętych, a także działaczy podziemia antykomunistycznego i opozycji antykomunistycznej w Polsce w latach 1944–1990.
+informuje społeczeństwo o strukturach i metodach działania instytucji, w ramach których zostały popełnione zbrodnie nazistowskie i komunistyczne, oraz informuje o sposobach działania organów bezpieczeństwa państwa,
 
-**Art. 53s.** Prezes Instytutu Pamięci nadaje statut Muzeum, określający w szczególności jego siedzibę i majątek, źródła finansowania, rodzaj i zakres gromadzonych zbiorów, cele, zasady, formy i zakres działalności oraz organizację. Statut może zawierać również inne postanowienia, w szczególności dotyczące prowadzenia działalności gospodarczej.
+### 4)
 
-**Art. 53t.** Dyrektora Muzeum powołuje i odwołuje Prezes Instytutu Pamięci. Przepisów art. 15 i art. 16 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej nie stosuje się.
+upowszechnia w kraju i za granicą wyniki swojej pracy oraz badań innych instytucji, organizacji i osób nad problematyką stanowiącą przedmiot jego działania,
 
-**Art. 53u.** Szczegółowe zasady postępowania z muzealiami, w razie likwidacji Muzeum, określi Prezes Instytutu Pamięci w drodze decyzji.
+### 5)
 
-#### Rozdział 7 Przepisy karne
+prowadzi działalność wystawienniczą,
 
-**Art. 54.**
+### 6)
 
-1. Kto nie będąc do tego uprawnionym, dokumenty lub zapis informacji, podlegające przekazaniu Instytutowi Pamięci na podstawie art. 25 i 28 ust. 1 lub znajdujące się w archiwum Instytutu, niszczy, ukrywa, uszkadza, usuwa lub zmienia ich zapis, w inny sposób udaremnia lub znacznie utrudnia uprawnionej osobie lub instytucji zapoznanie się z nimi albo zakłóca lub uniemożliwia automatyczne gromadzenie lub przekazywanie takich informacji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+formułuje wnioski dotyczące edukacji historycznej.
 
-2. Tej samej karze podlega ten, kto będąc w posiadaniu dokumentów lub zapisu informacji podlegających przekazaniu Instytutowi Pamięci na podstawie wymienionej w ust. 1, uchyla się od ich przekazania, utrudnia przekazanie lub je udaremnia.
+### Rozdział 7 Przepisy karne
 
-3. (uchylony)
+### Art. 54.
 
-4. (uchylony)
+### 1.
 
-**Art. 55.** Kto publicznie i wbrew faktom zaprzecza zbrodniom, o których mowa w art. 1 pkt 1, podlega grzywnie lub karze pozbawienia wolności do lat 3. Wyrok podawany jest do publicznej wiadomości.
+Kto nie będąc do tego uprawnionym, dokumenty lub zapis informacji, podlegające przekazaniu Instytutowi Pamięci na podstawie art. 25 i 28 ust. 1 lub znajdujące się w archiwum Instytutu, niszczy, ukrywa, uszkadza, usuwa lub zmienia ich zapis, w inny sposób udaremnia lub znacznie utrudnia uprawnionej osobie lub instytucji zapoznanie się z nimi albo zakłóca lub uniemożliwia automatyczne gromadzenie lub przekazywanie takich informacji, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-**Art. 55a.** (uchylony)
+### 2.
 
-**Art. 55b.** (uchylony)
+Tej samej karze podlega ten, kto będąc w posiadaniu dokumentów lub zapisu informacji podlegających przekazaniu Instytutowi Pamięci na podstawie wymienionej w ust. 1, uchyla się od ich przekazania, utrudnia przekazanie lub je udaremnia.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+### 3.
 
-**Art. 68.**
+Kto w celu uzyskania informacji udzielanych pokrzywdzonemu na podstawie przepisów ustawy podaje nieprawdę lub zataja prawdę wiedząc, że dotyczą go okoliczności, o których mowa w art. 6 ust. 3, lub że jego dane osobowe mogą zostać ujawnione na podstawie ustawy bez jego zgody, podlega karze pozbawienia wolności od 6 miesięcy do lat 3.
 
-1. Zasób archiwalny dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytutu Pamięci Narodowej oraz komisji okręgowych staje się zasobem archiwalnym Instytutu Pamięci.
+### Art. 55.
 
-2. Mienie dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytutu Pamięci Narodowej oraz komisji okręgowych staje się mieniem Instytutu Pamięci.
+Kto publicznie i wbrew faktom zaprzecza zbrodniom, o których mowa w art. 1 pkt 1, podlega grzywnie lub karze pozbawienia wolności do lat 3. Wyrok podawany jest do publicznej wiadomości.
 
-**Art. 69.** W sprawach nieuregulowanych w ustawie a dotyczących zatrudnionych w Instytucie Pamięci pracowników naukowych, stosuje się przepisy ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. z 2008 r. poz. 993 oraz z 2009 r. poz. 1323) .
+### Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 70.** Do pracowników Instytutu Pamięci innych niż prokuratorzy i pracownicy naukowi stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2022 r. poz. 2290).
+### Art. 56.
 
-**Art. 71.** W działalności Instytutu Pamięci określonej w art. 1 przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1) stosuje się do prowadzenia Bazy.
+W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ([Dz. U. Nr 20, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1981/101/text.html), z [1982 r. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1985 r. Nr 22, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1985/98/text.html) i [Nr 50, poz. 262](https://api.sejm.gov.pl/eli/acts/DU/1985/262/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html), z [1989 r. Nr 34, poz. 178](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html), z [1991 r. Nr 100, poz. 443](https://api.sejm.gov.pl/eli/acts/DU/1991/443/text.html), z [1993 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1993/1/text.html), z [1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 142, poz. 701](https://api.sejm.gov.pl/eli/acts/DU/1995/701/text.html), z [1996 r. Nr 73, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html), [Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 139, poz. 647](https://api.sejm.gov.pl/eli/acts/DU/1996/647/text.html) oraz z [1997 r. Nr 75, poz. 469](https://api.sejm.gov.pl/eli/acts/DU/1997/469/text.html) i [Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html)) w art. 2 w pkt 2 po wyrazach „Generalnego Inspektora Ochrony Danych Osobowych,” dodaje się wyrazy „Prezesa Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”.
 
-**Art. 72.** Traci moc ustawa z dnia 6 kwietnia 1984 r. o Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu – Instytucie Pamięci Narodowej (Dz. U. poz. 98 oraz z 1991 r. poz. 195).
+### Art. 57.
 
-**Art. 73.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia .
+W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1984 r. Nr 35, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1984/187/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1989/24/text.html), [Nr 34, poz. 178 i 182](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html), z [1990 r. Nr 20, poz. 121](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.html), z [1991 r. Nr 55, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.html), [Nr 88, poz. 400](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.html) i [Nr 95, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 90, poz. 451](https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html), z [1994 r. Nr 136, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1994/704/text.html), z [1995 r. Nr 132, poz. 640](https://api.sejm.gov.pl/eli/acts/DU/1995/640/text.html), z [1996 r. Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 133, poz. 882 i 883](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 131, poz. 860](https://api.sejm.gov.pl/eli/acts/DU/1998/860/text.html)) wprowadza się następujące zmiany:
 
+### 1)
+
+w art. 1 w pkt 13 kropkę zastępuje się przecinkiem i dodaje się pkt 14 w brzmieniu:
+
+„
+
+### 14)
+
+Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” ,
+
+### 2)
+
+w art. 36 w ust. 5 w pkt 1 wyraz „oraz” zastępuje się przecinkiem, a po wyrazach „Generalnego Inspektora Ochrony Danych Osobowych” dodaje się wyrazy „ oraz Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”.
+
+### Art. 58.
+
+W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. Nr 38, poz. 173](https://api.sejm.gov.pl/eli/acts/DU/1983/173/text.html), z [1989 r. Nr 34, poz. 178](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 156, poz. 775](https://api.sejm.gov.pl/eli/acts/DU/1996/775/text.html), z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 w ust. 3 w pkt 6 kropkę zastępuje się przecinkiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu - Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” ;
+
+### 2)
+
+w art. 17 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Ministrowie: Obrony Narodowej, Spraw Wewnętrznych i Administracji, Spraw Zagranicznych, Szef Urzędu Ochrony Państwa, Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz Szefowie Kancelarii Sejmu, Kancelarii Senatu i Kancelarii Prezydenta, w porozumieniu z Ministrem Edukacji Narodowej, określą zasady i tryb udostępniania materiałów archiwalnych znajdujących się w podporządkowanych im archiwach wyodrębnionych.
+
+” ;
+
+### 3)
+
+dotychczasową treść art. 19 oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Właściwym organem w sprawach archiwum wyodrębnionego Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w zakresie określonym przepisami ustawy jest Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” ;
+
+### 4)
+
+w art. 21 w ust. 4 w pkt 3 kropkę zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” ;
+
+### 5)
+
+w art. 29:
+
+### a)
+
+w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+archiwum Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Ministrowie: Obrony Narodowej, Spraw Wewnętrznych i Administracji, Spraw Zagranicznych, a także Szefowie: Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta, Urzędu Ochrony Państwa oraz Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu określają organizację podległych im archiwów wyodrębnionych.
+
+” ;
+
+### 6)
+
+w art. 31 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Zasób archiwalny archiwum państwowego wyodrębnionego, podległego Prezesowi Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, określa ustawa z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr 155, poz. 1016).
+
+”
+
+### Art. 59.
+
+W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 1994 r. Nr 19, poz. 70](https://api.sejm.gov.pl/eli/acts/DU/1994/70/text.html), [Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html), z [1996 r. Nr 77, poz. 367](https://api.sejm.gov.pl/eli/acts/DU/1996/367/text.html), z [1997 r. Nr 90, poz. 557](https://api.sejm.gov.pl/eli/acts/DU/1997/557/text.html), [Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 106, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/1997/679/text.html), [Nr 117, poz. 752 i 753](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 124, poz. 782](https://api.sejm.gov.pl/eli/acts/DU/1997/782/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html) oraz z [1998 r. Nr 98, poz. 607](https://api.sejm.gov.pl/eli/acts/DU/1998/607/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 1 po wyrazie „prokuratury” dodaje się wyrazy „oraz prokuratorzy Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu”;
+
+### 2)
+
+w art. 6 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Prokuratorami Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu są prokuratorzy Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Instytutu Pamięci Narodowej oraz prokuratorzy oddziałowych komisji ścigania zbrodni przeciwko Narodowi Polskiemu Instytutu Pamięci Narodowej.
+
+” ;
+
+### 3)
+
+w art. 23 w ust. 1 wyrazy „delegowanych do Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu - Instytutu Pamięci Narodowej” zastępuje się wyrazami „Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu”.
+
+### Art. 60.
+
+W ustawie z dnia 5 stycznia 1991 r. - Prawo budżetowe ([Dz. U. z 1993 r. Nr 72, poz. 344](https://api.sejm.gov.pl/eli/acts/DU/1993/344/text.html), z [1994 r. Nr 76, poz. 344](https://api.sejm.gov.pl/eli/acts/DU/1994/344/text.html), [Nr 121, poz. 591](https://api.sejm.gov.pl/eli/acts/DU/1994/591/text.html) i [Nr 133, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1994/685/text.html), z [1995 r. Nr 78, poz. 390](https://api.sejm.gov.pl/eli/acts/DU/1995/390/text.html), [Nr 124, poz. 601](https://api.sejm.gov.pl/eli/acts/DU/1995/601/text.html) i [Nr 132, poz. 640](https://api.sejm.gov.pl/eli/acts/DU/1995/640/text.html), z [1996 r. Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), [Nr 132, poz. 621](https://api.sejm.gov.pl/eli/acts/DU/1996/621/text.html) i [Nr 139, poz. 647](https://api.sejm.gov.pl/eli/acts/DU/1996/647/text.html) oraz z [1997 r. Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 123, poz. 775 i 778](https://api.sejm.gov.pl/eli/acts/DU/1997/775/text.html), [Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) i [Nr 158, poz. 1042](https://api.sejm.gov.pl/eli/acts/DU/1997/1042/text.html)) w art. 31 w ust. 3 w pkt 2 po wyrazach „Generalnego Inspektora Ochrony Danych Osobowych,” dodaje się wyrazy „Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”.
+
+### Art. 61.
+
+W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ([Dz. U. z 1995 r. Nr 13, poz. 59](https://api.sejm.gov.pl/eli/acts/DU/1995/59/text.html), z [1996 r. Nr 64, poz. 315](https://api.sejm.gov.pl/eli/acts/DU/1996/315/text.html) i [Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 96, poz. 589](https://api.sejm.gov.pl/eli/acts/DU/1997/589/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html) i [Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html) oraz z [1998 r. Nr 148, poz. 966](https://api.sejm.gov.pl/eli/acts/DU/1998/966/text.html)) w art. 4 w ust. 1 i 2 po wyrazach „Generalnego Inspektora Ochrony Danych Osobowych,” dodaje się wyrazy „Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”.
+
+### Art. 62.
+
+W ustawie z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej oraz o zmianie niektórych ustaw ([Dz. U. z 1995 r. Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 139, poz. 647](https://api.sejm.gov.pl/eli/acts/DU/1996/647/text.html), z [1997 r. Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html) oraz z [1998 r. Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html) i [Nr 155, poz. 1014](https://api.sejm.gov.pl/eli/acts/DU/1998/1014/text.html)) w art. 2 w ust. 2 w pkt 1 po wyrazach „Biurze Generalnego Inspektora Ochrony Danych Osobowych,” dodaje się wyrazy „Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,”.
+
+### Art. 63.
+
+Z dniem wejścia w życie ustawy stawia się w stan likwidacji Główną Komisję Badania Zbrodni przeciwko Narodowi Polskiemu - Instytut Pamięci Narodowej. Likwidatora powołuje Minister Sprawiedliwości.
+
+### Art. 64.
+
+Prezes Instytutu Pamięci, powołany na pierwszą kadencję, przedkłada Kolegium Instytutu Pamięci statut Instytutu do zatwierdzenia oraz tworzy jednostki organizacyjne Instytutu Pamięci przed upływem 3 miesięcy od daty złożenia ślubowania.
+
+### Art. 65.
+
+Sejm Rzeczypospolitej Polskiej dokonuje wyboru Kolegium Instytutu Pamięci w terminie 1 miesiąca od dnia wejścia w życie ustawy.
+
+### Art. 66.
+
+Kolegium Instytutu Pamięci zgłasza Sejmowi kandydata na Prezesa Instytutu Pamięci na pierwszą kadencję nie później niż po upływie 1 miesiąca od dnia wyboru Kolegium Instytutu.
+
+### Art. 67.
+
+Sejm Rzeczypospolitej Polskiej dokonuje wyboru Prezesa Instytutu Pamięci na pierwszą kadencję w terminie 1 miesiąca od dnia zgłoszenia kandydata.
+
+### Art. 68.
+
+### 1.
+
+Zasób archiwalny dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu - Instytutu Pamięci Narodowej oraz komisji okręgowych staje się zasobem archiwalnym Instytutu Pamięci.
+
+### 2.
+
+Mienie dotychczasowej Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu - Instytutu Pamięci Narodowej oraz komisji okręgowych staje się mieniem Instytutu Pamięci.
+
+### Art. 69.
+
+W sprawach nie uregulowanych w ustawie, a dotyczących zatrudnionych w Instytucie Pamięci pracowników naukowych, stosuje się przepisy ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ([Dz. U. z 1991 r. Nr 44, poz. 194](https://api.sejm.gov.pl/eli/acts/DU/1991/194/text.html) i [Nr 107, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1991/464/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1994 r. Nr 1, poz. 3](https://api.sejm.gov.pl/eli/acts/DU/1994/3/text.html) i [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), z [1996 r. Nr 41, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1996/175/text.html) i [Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html), z [1997 r. Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 75, poz. 467 i 469](https://api.sejm.gov.pl/eli/acts/DU/1997/467/text.html), [Nr 104, poz. 661](https://api.sejm.gov.pl/eli/acts/DU/1997/661/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html)).
+
+### Art. 70.
+
+Do pracowników Instytutu Pamięci innych niż prokuratorzy i pracownicy naukowi stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1984 r. Nr 35, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1984/187/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1989/24/text.html), [Nr 34, poz. 178 i 182](https://api.sejm.gov.pl/eli/acts/DU/1989/178/text.html), z [1990 r. Nr 20, poz. 121](https://api.sejm.gov.pl/eli/acts/DU/1990/121/text.html), z [1991 r. Nr 55, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1991/234/text.html), [Nr 88, poz. 400](https://api.sejm.gov.pl/eli/acts/DU/1991/400/text.html) i [Nr 95, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 90, poz. 451](https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html), z [1994 r. Nr 136, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1994/704/text.html), z [1995 r. Nr 132, poz. 640](https://api.sejm.gov.pl/eli/acts/DU/1995/640/text.html), z [1996 r. Nr 89, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1996/402/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html), z [1997 r. Nr 98, poz. 604](https://api.sejm.gov.pl/eli/acts/DU/1997/604/text.html), [Nr 133, poz. 882 i 883](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html) i [Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 131, poz. 860](https://api.sejm.gov.pl/eli/acts/DU/1998/860/text.html)).
+
+### Art. 71.
+
+W działalności Instytutu Pamięci, określonej w art. 1, dozwolone jest przetwarzanie danych osobowych, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ([Dz. U. Nr 133, poz. 883](https://api.sejm.gov.pl/eli/acts/DU/1997/883/text.html)), bez zgody i wiedzy osób, której dotyczą.
+
+### Art. 72.
+
+Traci moc ustawa z dnia 6 kwietnia 1984 r. o Głównej Komisji Badania Zbrodni przeciwko Narodowi Polskiemu - Instytucie Pamięci Narodowej ([Dz. U. Nr 21, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1984/98/text.html) i z [1991 r. Nr 45, poz. 195](https://api.sejm.gov.pl/eli/acts/DU/1991/195/text.html)).
+
+### Art. 73.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.

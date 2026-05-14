@@ -8,11 +8,9 @@ pos: 2123
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw
-
-*USTAWA z dnia 28 listopada 2020 r.*
+# Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw oraz ustawę z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,115 +22,2760 @@ domain: null
 | Data ogłoszenia | 2020-11-28 |
 | Data wydania | 2020-11-30 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002123) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2123/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/2123/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/2123) |
 
-**Art. 1.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, 1291, 1428, 1492, 1565 i 2122) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 3.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. z 2020 r. poz. 1905) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 4.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, z późn. zm. ) art. 36 ust. 2 zdanie pierwsze otrzymuje brzmienie: „Kapitał zakładowy spółek, określony ustawie z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2020 r. poz. 1526), z zastrzeżeniem ust. 2aa, towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej, fundusz udziałowy spółdzielni wykazuje się wysokości określonej umowie lub statucie i wpisanej rejestrze sądowym.”.
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2020 r. poz. 1426](https://api.sejm.gov.pl/eli/acts/DU/2020/1426/text.html), [1291](https://api.sejm.gov.pl/eli/acts/DU/2020/1291/text.html), [1428](https://api.sejm.gov.pl/eli/acts/DU/2020/1428/text.html), [1492](https://api.sejm.gov.pl/eli/acts/DU/2020/1492/text.html), [1565](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423 i 2122) art. 30 § 5a pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) płatnik jest spółką nieruchomościową rozumieniu art. 5a pkt 49 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 4a pkt 35 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.”.
+### 1)
 
-**Art. 6.** W ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym (Dz. U. z 2020 r. poz. 1443) wprowadza się następujące zmiany:
+w art. 3 w ust. 2b:
 
-**Art. 7.** W ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych (Dz. U. z 2020 r. poz. 1084) wprowadza się następujące zmiany:
+### a)
 
-**Art. 8.** W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy – Kodeks spółek handlowych oraz niektórych innych ustaw (Dz. U. poz. 1655, 2020 i 2217 oraz z 2020 r. poz. 288) art. 5:
+pkt 6 otrzymuje brzmienie:
 
-**Art. 9.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 1842, 2112 i 2113) po art. 31z dodaje się art. 31z –31z brzmieniu: „Art. 31z . 1. Zwalnia się podatników dokonujących korekty cen transferowych z obowiązku posiadania oświadczenia, o którym mowa art. 23q pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11e pkt 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli ta korekta jest dokonywana za rok podatkowy lub momencie, którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone związku z COVID-19. 2. Przepis ust. 1 stosuje się odpowiednio do ustalania wysokości przychodów i kosztów uzyskania przychodów, o których mowa art. 14 ust. 1ca pkt 1 i art. 22 ust. 1ab pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 12 ust. 3aa pkt 1 i art. 15 ust. 1ab pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+„
 
-**Art. 31z².**
+### 6)
 
-1. Warunku, o którym mowa art. 23z pkt 1 lit. b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11n pkt 1 lit. c ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, nie stosuje się roku podatkowym rozpoczynającym się po dniu 31 grudnia 2019 r., którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone związku z COVID-19, jeżeli podmiot powiązany niespełniający tego warunku uzyskał tym roku łączne przychody niższe o co najmniej 50% od łącznych przychodów uzyskanych analogicznym okresie bezpośrednio poprzedzającym ten rok.
+tytułu przeniesienia własności udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną lub tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze lub z tytułu należności będących następstwem posiadania tych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw - jeżeli co najmniej 50% wartości aktywów tej spółki, spółki niebędącej osobą prawną, tego funduszu inwestycyjnego, tej instytucji wspólnego inwestowania lub osoby prawnej, bezpośrednio lub pośrednio, stanowią nieruchomości położone na terytorium Rzeczypospolitej Polskiej lub prawa do takich nieruchomości;
 
-2. Przez łączne przychody, o których mowa ust. 1, rozumie się sumę przychodów:
+” ,
 
-- **1)** z pozarolniczej działalności gospodarczej uwzględnianych przy obliczaniu podatku na podstawie art. 27 ust. 1 i art. 30c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ryczałtu od przychodów ewidencjonowanych – przypadku podatników podatku dochodowego od osób fizycznych;
+### b)
 
-**Art. 31z³.**
+po pkt 6 dodaje się pkt 6a w brzmieniu:
 
-1. Oświadczenie o sporządzeniu lokalnej dokumentacji cen transferowych, o którym mowa art. 23y ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, składane za rok podatkowy lub rok obrotowy lub momencie, którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone związku z COVID-19, może podpisać:
+„
 
-- **1)** osoba fizyczna – przypadku podmiotu powiązanego będącego osobą fizyczną,
-- **2)** osoba upoważniona przez przedsiębiorcę zagranicznego do reprezentowania go oddziale – przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział na terytorium Rzeczypospolitej Polskiej,
-- **3)** osoba uprawniona do reprezentacji – przypadku pozostałych podmiotów powiązanych – przy czym nie jest dopuszczalne złożenie oświadczenia przez pełnomocnika.
+### 6a)
 
-2. W przypadku, o którym mowa ust. 1, przepisów art. 23y ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych nie stosuje się.”.
+tytułu przeniesienia własności udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w spółce nieruchomościowej;
 
-**Art. 10.** W ustawie z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 1106) art. 23 pkt 2 po wyrazach „art. 4” dodaje się wyrazy „pkt 1”.
+” ;
 
-**Art. 11.** W ustawie z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw (Dz. U. poz. 1065) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 12.**
+w art. 5a:
 
-1. W przypadku spółek komandytowych oraz spółek jawnych, które z dniem 1 stycznia 2021 r. uzyskały status podatnika podatku dochodowego od osób prawnych, oraz zakresie uzyskanych przez podatników podatku dochodowego od osób prawnych oraz podatników podatku dochodowego od osób fizycznych przychodów i poniesionych kosztów związanych z uczestnictwem tej spółce, tym z tytułu objęcia (nabycia) i zbycia udziałów tej spółki, wystąpienia z tej spółki lub jej likwidacji, przepisy ustaw zmienianych art. 1 i art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od dnia 1 stycznia 2021 r., z zastrzeżeniem ust. 2.
+### a)
 
-2. Spółka komandytowa może postanowić, że przepisy ustaw zmienianych art. 1 i art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się do tej spółki oraz przychodów i kosztów związanych z uczestnictwem tej spółce począwszy od dnia 1 maja 2021 r. W takim przypadku spółka komandytowa uzyskuje status podatnika podatku dochodowego od osób prawnych z dniem 1 maja 2021 r.
+w pkt 28:
 
-3. Z dniem poprzedzającym dzień uzyskania przez spółkę komandytową i spółkę jawną statusu podatnika podatku dochodowego od osób prawnych spółka ta jest obowiązana do zamknięcia ksiąg rachunkowych, przy czym przepis art. 8 ust. 6 ustawy zmienianej art. 2 stosuje się odpowiednio.
+- - lit. c otrzymuje brzmienie: „ c) spółkę komandytową i spółkę komandytowo-akcyjną mające siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, ” ,
 
-4. Jeżeli ostatni dzień roku obrotowego spółki komandytowej, o której mowa ust. 2, przypada okresie od dnia 31 grudnia 2020 r. do dnia 31 marca 2021 r., spółka ta może nie zamykać ksiąg rachunkowych na ten dzień i kontynuować rok obrotowy do dnia 30 kwietnia 2021 r. oraz kosztów, które na podstawie art. 8 ustawy zmienianej art. 1 lub art. 5 ustawy zmienianej art. 2 stanowiły przychody lub koszty wspólników takiej spółki.
+- - w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu: „ e) spółkę jawną będącą podatnikiem podatku dochodowego od osób prawnych; ” ,
 
-6. Spółka, o której mowa ust. 1, kontynuuje dokonaną przed dniem, którym stała się podatnikiem podatku dochodowego od osób prawnych, wycenę wartości podatkowej składników majątkowych, szczególności zakresie dotyczącym wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, przyjętej metody amortyzacji, stawek oraz okresu amortyzacji, a także wysokości odpisów amortyzacyjnych uprzednio dokonanych od tych środków trwałych oraz wartości niematerialnych i prawnych, oraz, stosując przepisy ustaw zmienianych art. 1 i art. 2, brzmieniu nadanym niniejszą ustawą, uwzględnia, z zastrzeżeniem ust. 5, zdarzenia zaistniałe przed dniem, którym stała się podatnikiem podatku dochodowego od osób prawnych, mające wpływ na wysokość jej zobowiązania podatkowego podatku dochodowym od osób prawnych.
+### b)
 
-**Art. 13.**
+w pkt 48 kropkę zastępuje się średnikiem i dodaje się pkt 49 w brzmieniu:
 
-1. Do dochodów wspólników spółki komandytowej lub spółki jawnej uzyskanych z udziału zyskach takiej spółki, osiągniętych przez taką spółkę przed dniem, którym taka spółka stała się podatnikiem podatku dochodowego od osób prawnych, stosuje się przepisy ustaw zmienianych art. 1 i art. 2, brzmieniu obowiązującym przed dniem, którym taka spółka stała się podatnikiem podatku dochodowego od osób prawnych.
+„
 
-2. Jeżeli udziały spółce komandytowej lub spółce jawnej zostały nabyte lub objęte przez wspólnika przed dniem, którym spółka ta stała się podatnikiem podatku dochodowego od osób prawnych, przychód wspólnika z tytułu:
+### 49)
 
-- **1)** umorzenia udziałów lub wystąpienia ze spółki,
-- **2)** odpłatnego zbycia tych udziałów,
-- **3)** ich wniesienia do innej spółki, tytułem wkładu niepieniężnego,
-- **4)** likwidacji spółki – pomniejsza się o wydatki na nabycie lub objęcie udziału takiej spółce oraz o określoną zgodnie z art. 8 ustawy zmienianej art. 1 albo art. 5 ustawy zmienianej art. 2 część odpowiadającą uzyskanej przez wspólnika przed dniem, którym spółka komandytowa lub spółka jawna stała się podatnikiem podatku dochodowego od osób prawnych, nadwyżce przychodów nad kosztami ich uzyskania, pomniejszonej o wypłaty dokonane z tytułu udziału spółce i o wydatki niestanowiące kosztów uzyskania przychodu.
+spółce nieruchomościowej - oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
 
-3. Przepis art. 7 ust. 3 pkt 2 ustawy zmienianej art. 2 oraz zwolnienie przewidziane art. 22 ust. 4 tej ustawy mają zastosowanie wyłącznie do przychodów z tytułu udziału zyskach spółki komandytowej lub spółki jawnej wypracowanych od dnia, którym spółka ta stała się podatnikiem podatku dochodowego od osób prawnych.
+### a)
 
-4. Podatnicy będący wspólnikami spółki komandytowej lub spółki jawnej, którzy przed dniem, którym spółka taka stała się podatnikiem podatku dochodowego od osób prawnych, dokonywali na podstawie przepisów ustawy zmienianej art. 1 lub art. 2 odliczeń od podstawy opodatkowania, zachowują prawo do tych odliczeń na zasadach przewidzianych tych przepisach, brzmieniu obowiązującym dniu poprzedzającym dzień, którym spółka komandytowa lub spółka jawna stała się podatnikiem podatku dochodowego od osób prawnych.
+na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na pierwszy dzień roku obrotowego, co najmniej 50% wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego - w przypadku podmiotów rozpoczynających działalność,
 
-**Art. 14.** Przepisy art. 22i ust. 8 i art. 22j ust. 2 pkt 1 i ust. 3 pkt 1 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, oraz art. 16i ust. 8 i art. 16j ust. 2 pkt 1 i ust. 3 pkt 1 ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się do środków trwałych oraz wartości niematerialnych i prawnych wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych po dniu 31 grudnia 2020 r.
+### b)
 
-**Art. 15.**
+na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50% wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 2b pkt 6, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60% ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto - w przypadku podmiotów innych niż określone w lit. a.
 
-1. Wspólnik spółki komandytowej będący podatnikiem podatku dochodowego od osób prawnych może obniżyć przychód, o którym mowa art. 22 ust. 1 ustawy zmienianej art. 2, o nieodliczoną przed dniem, którym spółka komandytowa stała się podatnikiem podatku dochodowego od osób prawnych, stratę takiej części, jakiej pozostawały przychody takiego podatnika z udziału spółce komandytowej poszczególnych latach podatkowych ogólnej kwocie jego przychodów – o ile strata ta nie może zostać odliczona zgodnie z zasadami, o których mowa art. 7 ust. 5 ustawy zmienianej art. 2, ze źródła przychodów, z którego została poniesiona.
+” ;
 
-2. Wspólnik spółki komandytowej będący podatnikiem podatku dochodowego od osób fizycznych, który przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych poniósł stratę z pozarolniczej działalności gospodarczej, może obniżyć przychód, o którym mowa art. 17 ust. 1 pkt 4 ustawy zmienianej art. 1, o nieodliczoną przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych stratę takiej części, jakiej pozostawały przychody takiego podatnika z udziału spółce komandyo ile strata ta nie może zostać odliczona zgodnie z zasadami, o których mowa art. 9 ust. 3 ustawy zmienianej art. 1 lub art. 11 ustawy zmienianej art. 3, ze źródła przychodów, z którego została poniesiona.
+### 3)
 
-3. Przepis ust. 2 stosuje się odpowiednio do wspólnika spółki komandytowej będącego podatnikiem podatku dochodowego od osób fizycznych, który przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych poniósł stratę z działów specjalnych produkcji rolnej.
+użyte w art. 5a w pkt 29, 30, 31 i 32, w art. 17 w ust. 1d oraz w art. 24 w ust. 5 w pkt 10 wyrazy „pkt 28 lit. c i d” zastępuje się wyrazami „pkt 28 lit. c-e”;
 
-4. Do odliczenia straty, o której mowa ust. 1 i 2, stosuje się odpowiednio zasady, o których mowa art. 7 ust. 5 ustawy zmienianej art. 2 albo art. 9 ust. 3 ustawy zmienianej art. 1, z tym że przy obliczaniu pięcioletniego okresu, o którym mowa tych przepisach, uwzględnia się lata następujące po roku, którym strata została poniesiona.
+### 4)
 
-5. Przepisów ust. 1–3 nie stosuje się do przychodu, o którym mowa art. 22 ust. 1 ustawy zmienianej art. 2 oraz art. 17 ust. 1 pkt 4 ustawy zmienianej art. 1, osiągniętego z udziału zysku spółki komandytowej utworzonej po dniu 31 grudnia 2020 r.
+w art. 21:
 
-**Art. 16.**
+### a)
 
-1. Decyzji z zastosowaniem art. 119a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, 1423 i 2122) nie wydaje się podatnikowi podatku dochodowego od osób fizycznych zakresie korzyści podatkowej rozumieniu art. 3 pkt 18 tej ustawy polegającej na braku opodatkowania wypłaty zysku ze spółki komandytowej uzyskanego z działalności operacyjnej prowadzonej przez tę spółkę pod warunkiem, że działalność ta nie była sztuczna rozumieniu art. 119c ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+w ust. 1:
 
-2. Przepis ust. 1 stosuje się do korzyści podatkowej uzyskanej do dnia poprzedzającego dzień, którym spółka komandytowa stała się podatnikiem podatku dochodowego od osób prawnych.
+- - w pkt 23c skreśla się wyrazy „podnoszących banderę państwa członkowskiego Unii Europejskiej lub państwa należącego do Europejskiego Obszaru Gospodarczego”,
 
-3. Przepisu ust. 1 nie stosuje się do postępowań, o których mowa dziale IIIA ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, wszczętych i niezakończonych do dnia wejścia życie niniejszej ustawy.
+- - po pkt 51 dodaje się pkt 51a w brzmieniu: „ 51a) kwoty stanowiące 50% przychodów uzyskanych przez komandytariusza z tytułu udziału w zyskach w spółce komandytowej mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, nie więcej jednak niż 60 000 zł w roku podatkowym odrębnie z tytułu udziału w zyskach w każdej takiej spółce komandytowej, w której podatnik jest komandytariuszem; ” ,
 
-**Art. 17.** Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż rok kalendarzowy i rozpoczął się przed dniem 1 stycznia 2021 r., a zakończy się po dniu 31 grudnia 2020 r., stosują do końca przyjętego przez siebie roku podatkowego przepisy ustawy zmienianej art. 2, brzmieniu dotychczasowym, z wyjątkiem art. 38g, art. 38ha, art. 38i, art. 38k–38m, art. 38o, art. 38p, art. 38r i art. 38s tej ustawy.
+- - pkt 148 otrzymuje brzmienie: „ 148) przychody: a) ze stosunku służbowego, stosunku pracy, pracy nakładczej, spółdzielczego stosunku pracy, b) z umów zlecenia, o których mowa w art. 13 pkt 8, c) z tytułu odbywania praktyki absolwenckiej, o której mowa w przepisach ustawy z dnia 17 lipca 2009 r. o praktykach absolwenckich ([Dz. U. z 2018 r. poz. 1244](https://api.sejm.gov.pl/eli/acts/DU/2018/1244/text.html)), d) z tytułu odbywania stażu uczniowskiego, o którym mowa w art. 121a ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe - otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł. ” ,
 
-**Art. 18.** Podatnicy podatku dochodowego od osób prawnych utworzeni okresie od dnia wejścia życie niniejszego przepisu, a przed dniem wejścia życie niniejszej ustawy:
+### b)
 
-**Art. 19.** Podatnicy podatku dochodowego od osób prawnych, którzy okresie od dnia wejścia życie niniejszego przepisu, a przed dniem wejścia życie niniejszej ustawy:
+dodaje się ust. 40 w brzmieniu:
 
-**Art. 20.** Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2021 r., a zakończy się po dniu 31 grudnia 2020 r., i których przychody osiągnięte od początku roku podatkowego do dnia 31 grudnia 2020 r. nie przekroczyły kwoty 2 000 000 euro, mogą stosować stawkę podatku określoną art. 19 ust. 1 pkt 2 ustawy zmienianej art. 2 do końca miesiąca, którym ich przychody osiągnięte od początku roku podatkowego nie przekroczyły tej kwoty, przy czym przeliczenia kwot wyrażonych euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy roku podatkowego, zaokrągleniu do 1000 zł. Począwszy od następnego miesiąca, podatnicy są obowiązani do stosowania stawki podatku, o której mowa art. 19 ust. 1 pkt 1 ustawy zmienianej art. 2.
+„
 
-**Art. 21.**
+### 40.
 
-1. Pierwszą informację, o której mowa art. 1 ust. 3 pkt 1a lit. a ustawy zmienianej art. 2, spółka jawna mająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, której wspólnikami nie są wyłącznie osoby fizyczne, składa terminie do dnia 31 stycznia 2021 r. według stanu na dzień:
+Zwolnienia, o którym mowa w ust. 1 pkt 51a, nie stosuje się do komandytariusza spółki komandytowej mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, który:
 
-- **1)** 1 stycznia 2021 r. – przypadku spółki jawnej, która rozpoczęła działalność przed dniem 1 stycznia 2021 r.;
-- **2)** rozpoczęcia działalności – przypadku spółki jawnej, która rozpoczęła działalność okresie od dnia 1 stycznia 2021 r. do dnia 31 stycznia 2021 r.
+### 1)
 
-2. Jeżeli przed przekazaniem pierwszej informacji, o której mowa art. 1 ust. 3 pkt 1a lit. a ustawy zmienianej art. 2, nastąpi zmiana składzie podatników, pierwszą aktualizację informacji, o której mowa art. 1 ust. 3 pkt 1a lit. b ustawy zmienianej art. 2, składa się terminie do dnia 31 stycznia 2021 r., chyba że termin do jej złożenia przypada później.
+posiada bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej lub
 
-3. W przypadku niezłożenia zgodnie z ust. 1 albo 2 informacji, o których mowa art. 1 ust. 3 pkt 1a ustawy zmienianej art. 2, spółka jawna uzyskuje status podatnika podatku dochodowego od osób prawnych odpowiednio z dniem 1 stycznia 2021 r., z dniem rozpoczęcia działalności albo z dniem, którym nastąpiła zmiana składzie podatników.
+### 2)
 
-**Art. 22.** Przepisy art. 23u, art. 23w ust. 2a i 4, art. 23za i art. 23zc ust. 1a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, oraz art. 11i, art. 11k ust. 2a i 4, art. 11o i art. 11q ust. 1a ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, stosuje się do transakcji kontrolowanych i transakcji innych niż transakcje kontrolowane, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r., zakresie tej części tych transakcji, które są realizowane roku podatkowym rozpoczynającym się po dniu 31 grudnia 2020 r. pomocy publicznej z rynkiem wewnętrznym odniesieniu do tego przepisu, i obowiązuje okresie jej obowiązywania. 2. Przepis art. 21 ust. 1 pkt 148 ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów uzyskanych od dnia 1 stycznia 2021 r. 3. Przepis art. 52m ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) otrzymanych lub postawionych do dyspozycji podatnika od dnia 15 października 2020 r. 4. Przepisy art. 52n, art. 52q, art. 52va, art. 52w, art. 52x, art. 52z i art. 52za ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, art. 38g, art. 38i, art. 38o, art. 38p, art. 38r i art. 38s ustawy zmienianej art. 2, brzmieniu nadanym niniejszą ustawą, oraz art. 57b–57e i art. 57h ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2020 r.
+jest członkiem zarządu:
 
-**Art. 24.** Ustawa wchodzi życie z dniem 1 stycznia 2021 r., z wyjątkiem:
+### a)
 
+spółki posiadającej osobowość prawną lub spółki kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej, lub
+
+### b)
+
+spółki posiadającej bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej, lub
+
+### 3)
+
+jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 z członkiem zarządu lub wspólnikiem spółki posiadającej bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej.
+
+” ;
+
+### 5)
+
+w art. 22i dodaje się ust. 8 w brzmieniu:
+
+„
+
+### 8.
+
+Przepisów ust. 4 i 5 nie stosuje się do środków trwałych wykorzystywanych przez podatników w działalności, z której przychody podlegają:
+
+### 1)
+
+zwolnieniu z opodatkowania podatkiem dochodowym - w okresie korzystania z takiego zwolnienia;
+
+### 2)
+
+opodatkowaniu ryczałtem od przychodów ewidencjonowanych, podatkiem tonażowym lub zryczałtowanym podatkiem od wartości sprzedanej produkcji, o którym mowa w ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych - w okresie tego opodatkowania.
+
+” ;
+
+### 6)
+
+w art. 22j:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+używane - jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 6 miesięcy, lub
+
+” ,
+
+### b)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+używane - jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 60 miesięcy, lub
+
+” ;
+
+### 7)
+
+art. 23u otrzymuje brzmienie:
+
+„
+
+### Art. 23u.
+
+Przepisy art. 23o i art. 23p stosuje się odpowiednio do transakcji innej niż transakcja kontrolowana z podmiotem:
+
+### 1)
+
+mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub
+
+### 2)
+
+innym niż mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
+
+” ;
+
+### 8)
+
+w art. 23w:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową próg dokumentacyjny wynosi 100 000 zł, niezależnie od rodzaju transakcji.
+
+” ,
+
+### b)
+
+w ust. 4 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 2-3”;
+
+### 9)
+
+w art. 23y ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przepisy ust. 1-4 stosuje się odpowiednio do podatników i spółek niebędących osobami prawnymi obowiązanych do sporządzania lokalnej dokumentacji cen transferowych na podstawie art. 23za ust. 1 lub 1a.
+
+” ;
+
+### 10)
+
+w art. 23za:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji innej niż transakcja kontrolowana z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 100 000 zł. Przepisy art. 23w ust. 3-5, art. 23x, art. 23zc ust. 1 i art. 23zd stosuje się odpowiednio.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji kontrolowanej lub transakcji innej niż transakcja kontrolowana, jeżeli rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową oraz wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 500 000 zł. Przepisy art. 23w ust. 3-5, art. 23x, art. 23zc ust. 1 i art. 23zd stosuje się odpowiednio.
+
+### 1b.
+
+Na potrzeby ust. 1a domniemywa się, że rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli druga strona transakcji, o których mowa w ust. 1a, dokonuje w roku podatkowym lub roku obrotowym rozliczeń z podmiotem mającym siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową. Przy ustalaniu tych okoliczności podatnik lub spółka niebędąca osobą prawną są obowiązani do dochowania należytej staranności.
+
+” ,
+
+### c)
+
+w ust. 2 wyrazy „Kwoty, o których mowa w ust. 1, wyrażone” zastępuje się wyrazami „Wartość transakcji, o której mowa w ust. 1 i 1a, wyrażoną”;
+
+### 11)
+
+w art. 23zc po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku transakcji, o których mowa w art. 23za ust. 1 i 1a, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+
+” ;
+
+### 12)
+
+w art. 23ze w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. ” ;
+
+### 13)
+
+w art. 23zf:
+
+### a)
+
+w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 23za ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. ” ,
+
+### b)
+
+w ust. 5 w zdaniu pierwszym wyrazy „niemających osobowości prawnej” zastępuje się wyrazami „niebędących osobami prawnymi”;
+
+### 14)
+
+użyte w art. 24 w ust. 5 w pkt 1a, 1b i 9 oraz w ust. 5e wyrazy „art. 5a pkt 28 lit. c albo d” zastępuje się wyrazami „art. 5a pkt 28 lit. c-e”;
+
+### 15)
+
+w art. 27g:
+
+### a)
+
+w ust. 2 dodaje się zdanie drugie w brzmieniu: „ Odliczenie to nie może jednak przekroczyć wysokości kwoty zmniejszającej podatek, o której mowa w art. 27 ust. 1a pkt 1. ” ,
+
+### b)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Przepisu ust. 2 zdanie drugie nie stosuje się do dochodów osiąganych w roku podatkowym poza terytorium Rzeczypospolitej Polskiej ze źródeł, o których mowa w art. 12 ust. 1 oraz art. 13 pkt 8 lit. a i pkt 9, jeżeli dochody te są osiągane z tytułu pracy lub usług wykonywanych poza terytorium lądowym państw.
+
+” ;
+
+### 16)
+
+w art. 30f w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 23v ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej albo
+
+” ;
+
+### 17)
+
+w art. 35 po ust. 6 dodaje się ust. 6a w brzmieniu:
+
+„
+
+### 6a.
+
+Do poboru zaliczek, o których mowa w ust. 1 pkt 8, przepis art. 32 ust. 1f stosuje się odpowiednio.
+
+” ;
+
+### 18)
+
+w art. 41 po ust. 4e dodaje się ust. 4f-4j w brzmieniu:
+
+„
+
+### 4f.
+
+Spółka nieruchomościowa, której udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze są zbywane, jest obowiązana wpłacić na rachunek właściwego urzędu skarbowego, jako płatnik, zaliczkę na podatek od dochodu z tego tytułu w wysokości 19%, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym powstał dochód, jeżeli:
+
+### 1)
+
+stroną dokonującą zbycia jest podmiot niemający siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej lub osoba fizyczna niemająca miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej oraz
+
+### 2)
+
+przedmiotem transakcji zbycia są udziały (akcje) dające co najmniej 5% praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5% prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5% ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze, w spółce nieruchomościowej.
+
+### 4g.
+
+Przepis ust. 4f stosuje się również w przypadku dokonania przez jeden podmiot więcej niż jednej transakcji zbycia udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w spółce nieruchomościowej, w okresie nieprzekraczającym 12 miesięcy liczonych począwszy od ostatniego dnia miesiąca, w którym nastąpiło pierwsze ich zbycie, jeżeli są spełnione warunki określone w tym przepisie. W takim przypadku spółka nieruchomościowa jest obowiązana wpłacić zaliczkę na podatek w terminie do 20. dnia miesiąca następującego po miesiącu, w którym suma praw głosu w spółce, której udziały (akcje) zostały zbyte, albo ogółu praw i obowiązków dających prawa do udziału w zyskach w spółce niebędącej osobą prawną, albo tytułów uczestnictwa lub praw o podobnym charakterze, w okresie, o którym mowa w zdaniu pierwszym, wyniosła co najmniej 5%.
+
+### 4h.
+
+W przypadku nieposiadania przez spółkę nieruchomościową informacji o kwocie transakcji zbycia zaliczkę na podatek, o której mowa w ust. 4f, ustala się w wysokości 19% wartości rynkowej zbywanych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa albo praw o podobnym charakterze.
+
+### 4i.
+
+Podatnik jest obowiązany przed terminem, o którym mowa w ust. 4f i ust. 4g zdaniu drugim, przekazać płatnikowi kwotę zaliczki na podatek. W terminie wpłaty zaliczki na podatek na rachunek właściwego urzędu skarbowego płatnik jest obowiązany przesłać podatnikowi informację o wpłaconej zaliczce na podatek sporządzoną według ustalonego wzoru.
+
+### 4j.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 4i, wraz z objaśnieniami co do sposobu jej wypełnienia, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze umożliwienie identyfikacji płatnika, podatnika i urzędu skarbowego, do którego została wpłacona zaliczka na podatek, oraz poprawnego obliczenia przez płatnika zaliczki na podatek.
+
+” ;
+
+### 19)
+
+po art. 41b dodaje się art. 41c w brzmieniu:
+
+„
+
+### Art. 41c.
+
+### 1.
+
+Spółka nieruchomościowa niemająca siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej jest obowiązana ustanowić przedstawiciela podatkowego.
+
+### 2.
+
+Przedstawicielem podatkowym może być osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, jeżeli spełnia łącznie następujące warunki:
+
+### 1)
+
+ma siedzibę lub zarząd albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+przez 24 miesiące poprzedzające dzień zawarcia umowy nie posiadała zaległości w podatkach stanowiących dochód budżetu państwa, przekraczających 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
+
+### 3)
+
+przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2020 r. poz. 19](https://api.sejm.gov.pl/eli/acts/DU/2020/19/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1106](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) za popełnienie przestępstwa skarbowego;
+
+### 4)
+
+jest uprawniona do zawodowego wykonywania doradztwa podatkowego zgodnie z przepisami o doradztwie podatkowym lub do usługowego prowadzenia ksiąg rachunkowych zgodnie z przepisami o rachunkowości.
+
+### 3.
+
+Przedstawiciela podatkowego ustanawia się w drodze umowy zawartej w formie pisemnej, zawierającej co najmniej:
+
+### 1)
+
+nazwy stron umowy oraz ich adresy i dane identyfikacyjne na potrzeby rozliczenia podatku, o którym mowa w art. 41 ust. 4f;
+
+### 2)
+
+oświadczenie podmiotu, który jest ustanawiany przedstawicielem podatkowym, o spełnieniu warunków, o których mowa w ust. 2.
+
+### 4.
+
+Przedstawiciel podatkowy wykonuje w imieniu i na rzecz spółki nieruchomościowej, dla której został ustanowiony, obowiązki płatnika, o których mowa w art. 41 ust. 4f.
+
+### 5.
+
+Przedstawiciel podatkowy odpowiada solidarnie ze spółką nieruchomościową za zobowiązanie podatkowe, które przedstawiciel podatkowy rozlicza w imieniu i na rzecz spółki nieruchomościowej.
+
+### 6.
+
+Przepisów ust. 1-5 nie stosuje się do spółek nieruchomościowych podlegających w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania.
+
+### 7.
+
+W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, spółka nieruchomościowa podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 1 000 000 zł.
+
+### 8.
+
+W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2020 r. poz. 256](https://api.sejm.gov.pl/eli/acts/DU/2020/256/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [1298](https://api.sejm.gov.pl/eli/acts/DU/2020/1298/text.html)).
+
+### 9.
+
+Do postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do dyrektora izby administracji skarbowej.
+
+” ;
+
+### 20)
+
+w art. 45 po ust. 3e dodaje się ust. 3f i 3g w brzmieniu:
+
+„
+
+### 3f.
+
+Spółki nieruchomościowe oraz podatnicy posiadający, bezpośrednio lub pośrednio, w spółce nieruchomościowej udziały (akcje) dające co najmniej 5% praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5% prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5% ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze są obowiązani przekazywać Szefowi Krajowej Administracji Skarbowej w terminie do końca trzeciego miesiąca po zakończeniu roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - do końca trzeciego miesiąca po zakończeniu roku obrotowego spółki nieruchomościowej, za pomocą środków komunikacji elektronicznej, informację:
+
+### 1)
+
+o podmiotach posiadających, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze, wraz z podaniem liczby posiadanych przez każdego z nich takich praw - w przypadku informacji przekazywanych przez spółki nieruchomościowe,
+
+### 2)
+
+o liczbie posiadanych, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze - w przypadku informacji przekazywanych przez podatników będących wspólnikami spółek nieruchomościowych
+
+- według stanu na ostatni dzień roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień jej roku obrotowego.
+
+### 3g.
+
+W celu obliczenia posiadania pośredniego, o którym mowa w ust. 3f, przepis art. 23m ust. 3 stosuje się odpowiednio.
+
+” ;
+
+### 21)
+
+użyte w art. 52l w pkt 1 i 2 oraz w art. 52t w ust. 1 wyrazy „w 2020 r.” zastępuje się wyrazami „w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19,”;
+
+### 22)
+
+użyte w art. 52l w pkt 3 i 4 wyrazy „w 2020 r. i 2021 r.” zastępuje się wyrazami „w okresie od 2020 r. do końca roku podatkowego następującego po roku, w którym odwołano stan epidemii ogłoszony z powodu COVID-19,”;
+
+### 23)
+
+w art. 52m:
+
+### a)
+
+we wprowadzeniu do wyliczenia skreśla się wyrazy „w 2020 r.”,
+
+### b)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+dodatkowe świadczenia postojowe, o których mowa w art. 15zs1 ustawy o COVID-19;
+
+” ;
+
+### 24)
+
+w art. 52n:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od podstawy obliczenia podatku ustalonej zgodnie z art. 26 ust. 1 lub art. 30c ust. 2 w celu obliczenia podatku lub zaliczki podatnik może odliczyć darowizny przekazane od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19: ” ,
+
+- - w pkt 3 wyraz „Bazy” zastępuje się wyrazem „Bazie”, - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1086](https://api.sejm.gov.pl/eli/acts/DU/2020/1086/text.html), [1262](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.html), [1478](https://api.sejm.gov.pl/eli/acts/DU/2020/1478/text.html) i [1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)). ” ,
+
+### b)
+
+w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 25)
+
+art. 52pa otrzymuje brzmienie:
+
+„
+
+### Art. 52pa.
+
+Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 30g, ustalone za okres:
+
+### 1)
+
+od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
+
+### 2)
+
+od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany - w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
+
+” ;
+
+### 26)
+
+w art. 52q:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Zwalnia się z obowiązku, o którym mowa w art. 44 ust. 17 pkt 2 i ust. 23 oraz art. 26i ust. 1 pkt 2 i ust. 2 pkt 2, odpowiednio za poszczególne okresy rozliczeniowe lub rok podatkowy, w których spełnione zostały łącznie następujące warunki:
+
+### 1)
+
+w danym roku podatkowym obowiązywał stan epidemii ogłoszony z powodu COVID-19;
+
+### 2)
+
+uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody, o których mowa w art. 14, są niższe o co najmniej 50% w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy - w stosunku do uzyskanych w tym roku średnich przychodów;
+
+### 3)
+
+podatnik poniósł odpowiednio w danym okresie rozliczeniowym lub roku podatkowym negatywne konsekwencje ekonomiczne z powodu COVID-19.
+
+### 2.
+
+Warunku, o którym mowa w ust. 1 pkt 2, nie stosuje się do podatników, którzy:
+
+### 1)
+
+w okresie od 2019 r. do końca roku poprzedzającego rok podatkowy stosowali formę opodatkowania, w przypadku której nie ustala się przychodów;
+
+### 2)
+
+rozpoczęli prowadzenie działalności gospodarczej w ostatnim kwartale roku poprzedzającego rok podatkowy i nie uzyskali w tym okresie przychodów, o których mowa w art. 14;
+
+### 3)
+
+rozpoczęli prowadzenie działalności gospodarczej w roku podatkowym.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przez analogiczny okres poprzedniego roku podatkowego, o którym mowa w ust. 1 pkt 2, rozumie się analogiczny okres rozliczeniowy albo rok podatkowy przypadający w okresie od 2019 r. do roku bezpośrednio poprzedzającego rok podatkowy.
+
+” ;
+
+### 27)
+
+w art. 52s w ust. 1 wyrazy „w 2020 roku” zastępuje się wyrazami „w okresie od 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”;
+
+### 28)
+
+w art. 52u:
+
+### a)
+
+w ust. 1 wyrazy „w 2020 r.” zastępuje się wyrazami „w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19,”,
+
+### b)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W 2020 r. wysokość zaliczek, o których mowa w ust. 1, oblicza się w następujący sposób: ” ;
+
+### 29)
+
+po art. 52v dodaje się art. 52va w brzmieniu:
+
+„
+
+### Art. 52va.
+
+### 1.
+
+Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty w wysokości nieprzekraczającej 1% podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 45c ust. 3 i 3a, zostanie złożony po terminie do jego złożenia, nie później jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego, złożenia korekty tego zeznania albo złożenia oświadczenia, określony odpowiednio w art. 45c ust. 1 pkt 1 albo 2 albo ust. 3a zdaniu drugim.
+
+### 2.
+
+Jeżeli podatnik, któremu organ rentowy przekazał roczne obliczenie podatku, z którego wynika podatek należny na podstawie art. 34 ust. 9, nie złożył wniosku, o którym mowa w ust. 1, organ podatkowy przekazuje kwotę w wysokości nieprzekraczającej 1% tego podatku organizacji pożytku publicznego wskazanej przez podatnika we wniosku zawartym w złożonym zeznaniu, o którym mowa w art. 45 ust. 1, złożonej korekcie tego zeznania albo złożonym oświadczeniu, o którym mowa w art. 45c ust. 3a lub art. 52v ust. 4, za ubiegły rok podatkowy.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, przekazanie kwoty w wysokości nieprzekraczającej 1% podatku należnego następuje na podstawie wniosku, o którym mowa w art. 45c ust. 3a, sporządzonego przez organ podatkowy za pośrednictwem portalu podatkowego.
+
+### 4.
+
+W zakresie nieuregulowanym w ust. 1-3 do przekazania kwoty na rzecz organizacji pożytku publicznego stosuje się odpowiednio przepis art. 45c.
+
+” ;
+
+### 30)
+
+w art. 52w ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W roku podatkowym, w którym obowiązywał stan epidemii ogłoszony z powodu COVID-19, zmniejszenia, o którym mowa w art. 44 ust. 17 pkt 1 oraz art. 26i ust. 1 pkt 1, albo zwiększenia, o którym mowa w art. 26i ust. 2 pkt 1, dokonuje się począwszy od odpowiednio okresu rozliczeniowego lub roku podatkowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do końca okresu, w którym wierzytelność została uregulowana lub zbyta.
+
+” ;
+
+### 31)
+
+w art. 52x:
+
+### a)
+
+w ust. 1 we wprowadzeniu do wyliczenia wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”,
+
+### b)
+
+w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 32)
+
+w art. 52z:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1 i w tym ust. wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, realizowanego w okresie od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na rzecz:
+
+### 1)
+
+podmiotów wymienionych w art. 52n ust. 1,
+
+### 2)
+
+podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19
+
+- o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+” ;
+
+### 33)
+
+w art. 52za:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1 i w tym ust. wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19,”,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przez podatników, o których mowa w art. 52n ust. 1 oraz art. 52z ust. 2 pkt 2.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2020 r. poz. 1406](https://api.sejm.gov.pl/eli/acts/DU/2020/1406/text.html), [1492](https://api.sejm.gov.pl/eli/acts/DU/2020/1492/text.html), [1565](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1:
+
+### a)
+
+w ust. 3:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) spółek komandytowych i spółek komandytowo-akcyjnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej; ” ,
+
+- - po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) spółek jawnych mających siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, jeżeli wspólnikami spółki jawnej nie są wyłącznie osoby fizyczne oraz spółka jawna nie złoży: a) przed rozpoczęciem roku obrotowego informacji, według ustalonego wzoru, o podatnikach podatku dochodowego od osób prawnych oraz o podatnikach podatku dochodowego od osób fizycznych, posiadających, bezpośrednio lub za pośrednictwem podmiotów niebędących podatnikami podatku dochodowego, prawa do udziału w zysku tej spółki, o którym mowa odpowiednio w art. 5 ust. 1 albo o którym mowa w art. 8 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2020 r. poz. 1426](https://api.sejm.gov.pl/eli/acts/DU/2020/1426/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122 i 2123.](#gloss-0:2:)), lub b) aktualizacji informacji, o której mowa w lit. a, w terminie 14 dni, licząc od dnia zaistnienia zmian w składzie podatników - do naczelnika urzędu skarbowego właściwego ze względu na siedzibę spółki jawnej oraz naczelnika urzędu skarbowego właściwego dla każdego podatnika osiągającego dochody z takiej spółki; ” ,
+
+### b)
+
+dodaje się ust. 4-6 w brzmieniu:
+
+„
+
+### 4.
+
+Informacja, o której mowa w ust. 3 pkt 1a, zawiera:
+
+### 1)
+
+imię i nazwisko albo firmę (nazwę), adres miejsca zamieszkania albo adres siedziby, numer identyfikacji podatkowej oraz wielkość prawa do udziału w zysku spółki jawnej:
+
+### a)
+
+wspólnika będącego podatnikiem osiągającym dochody ze spółki jawnej,
+
+### b)
+
+podatnika niebędącego wspólnikiem spółki jawnej osiągającego dochody z tej spółki;
+
+### 2)
+
+nazwę, adres oraz numer identyfikacji podatkowej podmiotu niebędącego podatnikiem podatku dochodowego, za pośrednictwem którego podatnik osiąga dochody ze spółki jawnej, oraz wielkość posiadanego przez podatnika prawa do udziału w zysku tego podmiotu.
+
+### 5.
+
+Spółka jawna posiada status podatnika odpowiednio od pierwszego dnia roku obrotowego, o którym mowa w ust. 3 pkt 1a lit. a, albo od dnia zaistnienia zmian w składzie podatników, o których mowa w ust. 3 pkt 1a lit. b, do dnia likwidacji spółki lub wykreślenia z właściwego rejestru.
+
+### 6.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 3 pkt 1a, wraz z objaśnieniami co do sposobu jej wypełniania, terminu i miejsca składania, mając na uwadze identyfikację podatnika i naczelnika urzędu skarbowego, do którego jest kierowana informacja, określenie wielkości przysługujących podatnikom praw do udziału w zysku w spółce jawnej bezpośrednio lub za pośrednictwem podmiotów niebędących podatnikami podatku dochodowego oraz identyfikację tych podmiotów.
+
+” ;
+
+### 2)
+
+w art. 3 w ust. 3:
+
+### a)
+
+pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+tytułu przeniesienia własności udziałów (akcji) w spółce, ogółu praw i obowiązków w spółce niebędącej osobą prawną lub tytułów uczestnictwa w funduszu inwestycyjnym, instytucji wspólnego inwestowania lub innej osobie prawnej i praw o podobnym charakterze lub z tytułu należności będących następstwem posiadania tych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw - jeżeli co najmniej 50% wartości aktywów tej spółki, spółki niebędącej osobą prawną, tego funduszu inwestycyjnego, tej instytucji wspólnego inwestowania lub osoby prawnej, bezpośrednio lub pośrednio, stanowią nieruchomości położone na terytorium Rzeczypospolitej Polskiej lub prawa do takich nieruchomości;
+
+” ,
+
+### b)
+
+po pkt 4 dodaje się pkt 4a w brzmieniu:
+
+„
+
+### 4a)
+
+tytułu przeniesienia własności udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w spółce nieruchomościowej;
+
+” ;
+
+### 3)
+
+w art. 4a:
+
+### a)
+
+w pkt 21 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+spółki, o których mowa w art. 1 ust. 3 pkt 1 i 1a, mające siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+
+” ,
+
+### b)
+
+w pkt 34 kropkę zastępuje się średnikiem i dodaje się pkt 35 w brzmieniu:
+
+„
+
+### 35)
+
+spółce nieruchomościowej - oznacza to podmiot inny niż osoba fizyczna, obowiązany do sporządzania bilansu na podstawie przepisów o rachunkowości, w którym:
+
+### a)
+
+na pierwszy dzień roku podatkowego, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na pierwszy dzień roku obrotowego, co najmniej 50% wartości rynkowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość rynkowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości oraz wartość rynkowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego pierwszy dzień roku podatkowego - w przypadku podmiotów rozpoczynających działalność,
+
+### b)
+
+na ostatni dzień roku poprzedzającego rok podatkowy, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień roku poprzedzającego rok obrotowy, co najmniej 50% wartości bilansowej aktywów, bezpośrednio lub pośrednio, stanowiła wartość bilansowa nieruchomości położonych na terytorium Rzeczypospolitej Polskiej lub praw do takich nieruchomości i wartość bilansowa tych nieruchomości przekraczała 10 000 000 zł albo równowartość tej kwoty określoną według kursu średniego walut obcych, ogłaszanego przez Narodowy Bank Polski, z ostatniego dnia roboczego poprzedzającego ostatni dzień roku podatkowego poprzedzającego odpowiednio rok podatkowy albo rok obrotowy oraz w roku poprzedzającym odpowiednio rok podatkowy albo rok obrotowy przychody podatkowe, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - przychody ujęte w wyniku finansowym netto, z tytułu najmu, podnajmu, dzierżawy, poddzierżawy, leasingu i innych umów o podobnym charakterze lub z przeniesienia własności, których przedmiotem są nieruchomości lub prawa do nieruchomości, o których mowa w art. 3 ust. 3 pkt 4, oraz z tytułu udziałów w innych spółkach nieruchomościowych, stanowiły co najmniej 60% ogółu odpowiednio przychodów podatkowych albo przychodów ujętych w wyniku finansowym netto - w przypadku podmiotów innych niż określone w lit. a.
+
+” ;
+
+### 4)
+
+w art. 7:
+
+### a)
+
+w ust. 3 w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+strat podatnika, jeżeli podatnik przejął inny podmiot lub nabył przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa, w tym w drodze wkładu niepieniężnego, lub otrzymał wkład pieniężny, za który nabył przedsiębiorstwo lub zorganizowaną część przedsiębiorstwa, w wyniku czego:
+
+### a)
+
+przedmiot faktycznie prowadzonej przez podatnika podstawowej działalności gospodarczej po takim przejęciu lub nabyciu, w całości albo w części jest inny niż przedmiot faktycznie prowadzonej przez podatnika podstawowej działalności przed takim przejęciem lub nabyciem, lub
+
+### b)
+
+co najmniej 25% udziałów (akcji) podatnika posiada podmiot lub podmioty, które na dzień kończący rok podatkowy, w którym podatnik poniósł taką stratę, praw takich nie posiadały.
+
+” ,
+
+### b)
+
+po ust. 4a dodaje się ust. 4b w brzmieniu:
+
+„
+
+### 4b.
+
+Przy ustalaniu straty nie uwzględnia się strat, o których mowa w ust. 3 pkt 7.
+
+” ;
+
+### 5)
+
+w art. 8 po ust. 2a dodaje się ust. 2b w brzmieniu:
+
+„
+
+### 2b.
+
+W przypadku uzyskania statusu podatnika przez spółkę jawną pierwszy rok podatkowy tej spółki trwa od dnia, w którym spółka uzyskała ten status, do końca przyjętego przez tę spółkę roku obrotowego.
+
+” ;
+
+### 6)
+
+w art. 9 po ust. 2d dodaje się ust. 2e w brzmieniu:
+
+„
+
+### 2e.
+
+W przypadku uzyskania przez spółkę jawną statusu podatnika spółka ta jest obowiązana:
+
+### 1)
+
+zamknąć księgi rachunkowe i sporządzić sprawozdanie finansowe zgodnie z przepisami o rachunkowości na dzień poprzedzający dzień uzyskania tego statusu oraz
+
+### 2)
+
+wydzielić w kapitale podstawowym zyski wypracowane w okresie, w którym spółka ta nie posiadała statusu podatnika, jeżeli zyski te nie zostały podzielone między wspólników tej spółki.
+
+” ;
+
+### 7)
+
+art. 11i otrzymuje brzmienie:
+
+„
+
+### Art. 11i.
+
+Przepisy art. 11c i art. 11d stosuje się odpowiednio do transakcji innej niż transakcja kontrolowana z podmiotem:
+
+### 1)
+
+mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową lub
+
+### 2)
+
+innym niż mający miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową.
+
+” ;
+
+### 8)
+
+w art. 11k:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku transakcji kontrolowanych z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową próg dokumentacyjny wynosi 100 000 zł, niezależnie od rodzaju transakcji.
+
+” ,
+
+### b)
+
+w ust. 4 wyrazy „ust. 2 i 3” zastępuje się wyrazami „ust. 2-3”;
+
+### 9)
+
+w art. 11m ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Przepisy ust. 1-4 stosuje się odpowiednio do podatników i spółek niebędących osobami prawnymi obowiązanych do sporządzania lokalnej dokumentacji cen transferowych na podstawie art. 11o ust. 1 lub 1a.
+
+” ;
+
+### 10)
+
+w art. 11o:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani także podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji innej niż transakcja kontrolowana z podmiotem mającym miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 100 000 zł. Przepisy art. 11k ust. 3-5, art. 11l, art. 11q ust. 1 i art. 11r stosuje się odpowiednio.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Do sporządzenia lokalnej dokumentacji cen transferowych są obowiązani podatnicy i spółki niebędące osobami prawnymi dokonujący transakcji kontrolowanej lub transakcji innej niż transakcja kontrolowana, jeżeli rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową oraz wartość tej transakcji za rok podatkowy, a w przypadku spółek niebędących osobami prawnymi - za rok obrotowy, przekracza 500 000 zł. Przepisy art. 11k ust. 3-5, art. 11l, art. 11q ust. 1 i art. 11r stosuje się odpowiednio.
+
+### 1b.
+
+Na potrzeby ust. 1a domniemywa się, że rzeczywisty właściciel ma miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, jeżeli druga strona transakcji, o których mowa w ust. 1a, dokonuje w roku podatkowym lub roku obrotowym rozliczeń z podmiotem mającym siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową. Przy ustalaniu tych okoliczności podatnik lub spółka niebędąca osobą prawną są obowiązani do dochowania należytej staranności.
+
+” ,
+
+### c)
+
+w ust. 2 wyrazy „Kwoty, o których mowa w ust. 1, wyrażone” zastępuje się wyrazami „Wartość transakcji, o której mowa w ust. 1 i 1a, wyrażoną”;
+
+### 11)
+
+w art. 11q po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku transakcji, o których mowa w art. 11o ust. 1 i 1a, lokalna dokumentacja cen transferowych zawiera również uzasadnienie gospodarcze tej transakcji, w szczególności opis spodziewanych korzyści ekonomicznych, w tym podatkowych.
+
+” ;
+
+### 12)
+
+w art. 11s w ust. 4 zdanie pierwsze otrzymuje brzmienie: „ Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 11o ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. ” ;
+
+### 13)
+
+w art. 11t:
+
+### a)
+
+w ust. 3 zdanie pierwsze otrzymuje brzmienie: „ Obowiązek, o którym mowa w ust. 1, ma zastosowanie również do podatników i spółek niebędących osobami prawnymi, o których mowa w art. 11o ust. 1 i 1a, w zakresie transakcji wskazanych w tych przepisach. ” ,
+
+### b)
+
+w ust. 5 w zdaniu pierwszym wyrazy „niemających osobowości prawnej” zastępuje się wyrazami „niebędących osobami prawnymi”;
+
+### 14)
+
+w art. 14a w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ W przypadku gdy podatnik przez wykonanie świadczenia niepieniężnego reguluje w całości albo w części zobowiązanie, w tym z tytułu zaciągniętej pożyczki (kredytu), dywidendy, umorzenia albo zbycia w celu umorzenia udziałów (akcji), podziału pomiędzy wspólników (akcjonariuszy) majątku likwidowanej spółki albo spółdzielni, przychodem takiego podatnika jest wysokość zobowiązania uregulowanego w następstwie takiego świadczenia. ” ;
+
+### 15)
+
+w art. 16i dodaje się ust. 8 w brzmieniu:
+
+„
+
+### 8.
+
+Przepisów ust. 4 i 5 nie stosuje się do środków trwałych wykorzystywanych przez podatników w działalności, z której dochody podlegają zwolnieniu z opodatkowania podatkiem dochodowym - w okresie korzystania z takiego zwolnienia.
+
+” ;
+
+### 16)
+
+w art. 16j:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+używane, jeżeli podatnik udowodni, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 6 miesięcy, lub
+
+” ,
+
+### b)
+
+w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+używane, jeżeli podatnik wykaże, że przed ich nabyciem były wykorzystywane przez podmiot inny niż podatnik co najmniej przez okres 60 miesięcy, lub
+
+” ;
+
+### 17)
+
+użyte w art. 19 w ust. 1 w pkt 2 i w art. 25 w ust. 1g wyrazy „1 200 000 euro” zastępuje się wyrazami „2 000 000 euro”;
+
+### 18)
+
+w art. 22 po ust. 4d dodaje się ust. 4e i 4f w brzmieniu:
+
+„
+
+### 4e.
+
+Zwalnia się od podatku dochodowego kwotę stanowiącą 50% przychodów uzyskanych przez komandytariusza z tytułu udziału w zyskach w spółce komandytowej mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, nie więcej jednak niż 60 000 zł w roku podatkowym odrębnie z tytułu udziału w zyskach w każdej takiej spółce komandytowej, w której podatnik jest komandytariuszem.
+
+### 4f.
+
+Zwolnienia, o którym mowa w ust. 4e, nie stosuje się do komandytariusza spółki komandytowej mającej siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, który:
+
+### 1)
+
+posiada bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej lub
+
+### 2)
+
+jest członkiem zarządu:
+
+### a)
+
+spółki posiadającej osobowość prawną lub spółki kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej, lub
+
+### b)
+
+spółki posiadającej bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej, lub
+
+### 3)
+
+jest podmiotem powiązanym w rozumieniu art. 11a ust. 1 pkt 4 z członkiem zarządu lub wspólnikiem spółki posiadającej bezpośrednio lub pośrednio co najmniej 5% udziałów (akcji) w spółce posiadającej osobowość prawną lub spółce kapitałowej w organizacji będących komplementariuszem w tej spółce komandytowej.
+
+” ;
+
+### 19)
+
+w art. 24a w ust. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+zagraniczna jednostka mająca siedzibę lub zarząd lub zarejestrowana lub położona na terytorium lub w kraju wymienionym w przepisach wydanych na podstawie art. 11j ust. 2 lub w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej, albo
+
+” ;
+
+### 20)
+
+po art. 26a dodaje się art. 26aa w brzmieniu:
+
+„
+
+### Art. 26aa.
+
+### 1.
+
+Spółka nieruchomościowa, której udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze są zbywane, jest obowiązana wpłacić na rachunek właściwego urzędu skarbowego, jako płatnik, zaliczkę na podatek od dochodu z tego tytułu w wysokości 19%, w terminie do 20. dnia miesiąca następującego po miesiącu, w którym powstał dochód, jeżeli:
+
+### 1)
+
+stroną dokonującą zbycia jest podmiot niemający siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej lub osoba fizyczna niemająca miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej oraz
+
+### 2)
+
+przedmiotem transakcji zbycia są udziały (akcje) dające co najmniej 5% praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5% prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5% ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze, w spółce nieruchomościowej.
+
+### 2.
+
+Przepis ust. 1 stosuje się również w przypadku dokonania przez jeden podmiot więcej niż jednej transakcji zbycia udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze w spółce nieruchomościowej, w okresie nieprzekraczającym 12 miesięcy liczonych począwszy od ostatniego dnia miesiąca, w którym nastąpiło pierwsze ich zbycie, jeżeli są spełnione warunki określone w tym przepisie. W takim przypadku spółka nieruchomościowa jest obowiązana wpłacić zaliczkę na podatek w terminie do 20. dnia miesiąca następującego po miesiącu, w którym suma praw głosu w spółce, której udziały (akcje) zostały zbyte, albo ogółu praw i obowiązków dających prawa do udziału w zyskach w spółce niebędącej osobą prawną, albo tytułów uczestnictwa lub praw o podobnym charakterze, w okresie, o którym mowa w zdaniu pierwszym, wyniosła co najmniej 5%.
+
+### 3.
+
+W przypadku nieposiadania przez spółkę nieruchomościową informacji o kwocie transakcji zbycia zaliczkę na podatek, o której mowa w ust. 1, ustala się w wysokości 19% wartości rynkowej zbywanych udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa albo praw o podobnym charakterze.
+
+### 4.
+
+Podatnik jest obowiązany przed terminem, o którym mowa w ust. 1 i ust. 2 zdaniu drugim, przekazać płatnikowi kwotę zaliczki na podatek. W terminie wpłaty na rachunek właściwego urzędu skarbowego zaliczki na podatek płatnik jest obowiązany przesłać podatnikowi informację o wpłaconej zaliczce na podatek sporządzoną według ustalonego wzoru.
+
+### 5.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji, o której mowa w ust. 4, wraz z objaśnieniami co do sposobu jej wypełnienia, terminu i miejsca składania oraz niezbędnymi pouczeniami, mając na uwadze umożliwienie identyfikacji płatnika, podatnika i urzędu skarbowego, do którego została wpłacona zaliczka na podatek, oraz poprawnego obliczenia przez płatnika zaliczki na podatek.
+
+” ;
+
+### 21)
+
+po art. 26b dodaje się art. 26c w brzmieniu:
+
+„
+
+### Art. 26c.
+
+### 1.
+
+Spółka nieruchomościowa niemająca siedziby lub zarządu na terytorium Rzeczypospolitej Polskiej jest obowiązana ustanowić przedstawiciela podatkowego.
+
+### 2.
+
+Przedstawicielem podatkowym może być osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, jeżeli spełnia łącznie następujące warunki:
+
+### 1)
+
+ma siedzibę lub zarząd albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+przez 24 miesiące poprzedzające dzień zawarcia umowy nie posiadała zaległości w podatkach stanowiących dochód budżetu państwa, przekraczających 3% kwoty należnych zobowiązań podatkowych w poszczególnych podatkach, przy czym udział zaległości w kwocie podatku ustala się w stosunku do kwoty należnych wpłat za okres rozliczeniowy, którego dotyczy zaległość;
+
+### 3)
+
+przez 24 miesiące poprzedzające dzień zawarcia umowy osoba fizyczna będąca podatnikiem, a w przypadku podatników niebędących osobami fizycznymi - osoba będąca wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej, członkiem organów zarządzających, osobą prowadzącą księgi rachunkowe, nie została prawomocnie skazana na podstawie ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2020 r. poz. 19](https://api.sejm.gov.pl/eli/acts/DU/2020/19/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1106](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) za popełnienie przestępstwa skarbowego;
+
+### 4)
+
+jest uprawniona do zawodowego wykonywania doradztwa podatkowego zgodnie z przepisami o doradztwie podatkowym lub do usługowego prowadzenia ksiąg rachunkowych zgodnie z przepisami o rachunkowości.
+
+### 3.
+
+Przedstawiciela podatkowego ustanawia się w drodze umowy zawartej w formie pisemnej, zawierającej co najmniej:
+
+### 1)
+
+nazwy stron umowy oraz ich adresy i dane identyfikacyjne na potrzeby rozliczenia podatku, o którym mowa w art. 26aa;
+
+### 2)
+
+oświadczenie podmiotu, który jest ustanawiany przedstawicielem podatkowym, o spełnieniu warunków, o których mowa w ust. 2.
+
+### 4.
+
+Przedstawiciel podatkowy wykonuje w imieniu i na rzecz spółki nieruchomościowej, dla której został ustanowiony, obowiązki płatnika, o których mowa w art. 26aa.
+
+### 5.
+
+Przedstawiciel podatkowy odpowiada solidarnie ze spółką nieruchomościową za zobowiązanie podatkowe, które przedstawiciel podatkowy rozlicza w imieniu i na rzecz spółki nieruchomościowej.
+
+### 6.
+
+Przepisów ust. 1-5 nie stosuje się do spółek nieruchomościowych podlegających w państwie członkowskim Unii Europejskiej lub w innym państwie należącym do Europejskiego Obszaru Gospodarczego opodatkowaniu podatkiem dochodowym od całości swoich dochodów, bez względu na miejsce ich osiągania.
+
+### 7.
+
+W przypadku niedopełnienia obowiązku, o którym mowa w ust. 1, spółka nieruchomościowa podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 1 000 000 zł.
+
+### 8.
+
+W zakresie nieuregulowanym w ust. 7 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2020 r. poz. 256](https://api.sejm.gov.pl/eli/acts/DU/2020/256/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html) i [1298](https://api.sejm.gov.pl/eli/acts/DU/2020/1298/text.html)).
+
+### 9.
+
+Do postępowania w sprawie nałożenia kary pieniężnej stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do dyrektora izby administracji skarbowej.
+
+” ;
+
+### 22)
+
+w art. 27 po ust. 1d dodaje się ust. 1e-1g w brzmieniu:
+
+„
+
+### 1e.
+
+Spółki nieruchomościowe oraz podatnicy posiadający, bezpośrednio lub pośrednio, w spółce nieruchomościowej udziały (akcje) dające co najmniej 5% praw głosu w spółce albo ogół praw i obowiązków dający co najmniej 5% prawa do udziału w zysku spółki niebędącej osobą prawną, albo co najmniej 5% ogólnej liczby tytułów uczestnictwa lub praw o podobnym charakterze są obowiązani przekazywać Szefowi Krajowej Administracji Skarbowej w terminie do końca trzeciego miesiąca po zakończeniu roku podatkowego spółki nieruchomościowej, a w przypadku, gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - do końca trzeciego miesiąca po zakończeniu roku obrotowego spółki nieruchomościowej, za pomocą środków komunikacji elektronicznej, informację:
+
+### 1)
+
+o podmiotach posiadających, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziały (akcje), ogół praw i obowiązków, tytuły uczestnictwa lub prawa o podobnym charakterze, wraz z podaniem liczby posiadanych przez każdego z nich takich praw - w przypadku informacji przekazywanych przez spółki nieruchomościowe,
+
+### 2)
+
+o liczbie posiadanych, bezpośrednio lub pośrednio, w tej spółce nieruchomościowej udziałów (akcji), ogółu praw i obowiązków, tytułów uczestnictwa lub praw o podobnym charakterze - w przypadku informacji przekazywanych przez podatników będących wspólnikami spółek nieruchomościowych
+
+- według stanu na ostatni dzień roku podatkowego spółki nieruchomościowej, a w przypadku gdy spółka nieruchomościowa nie jest podatnikiem podatku dochodowego - na ostatni dzień jej roku obrotowego.
+
+### 1f.
+
+W przypadku podatkowych grup kapitałowych przepis ust. 1e stosuje się do spółek wchodzących w skład takiej grupy.
+
+### 1g.
+
+W celu obliczenia posiadania pośredniego, o którym mowa w ust. 1e, przepis art. 11c ust. 3 stosuje się odpowiednio.
+
+” ;
+
+### 23)
+
+w art. 27b w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+spółek nieruchomościowych, w tym spółek nieruchomościowych wchodzących w skład podatkowej grupy kapitałowej.
+
+” ;
+
+### 24)
+
+po art. 27b dodaje się art. 27c w brzmieniu:
+
+„
+
+### Art. 27c.
+
+### 1.
+
+Podatnicy, o których mowa w art. 27b ust. 2 pkt 1 i 2, są obowiązani do sporządzania i podawania do publicznej wiadomości informacji o realizowanej strategii podatkowej za rok podatkowy.
+
+### 2.
+
+Informacja o realizowanej strategii podatkowej obejmuje, z uwzględnieniem charakteru, rodzaju i rozmiaru prowadzonej działalności, w szczególności:
+
+### 1)
+
+informacje o stosowanych przez podatnika:
+
+### a)
+
+procesach oraz procedurach dotyczących zarządzania wykonywaniem obowiązków wynikających z przepisów prawa podatkowego i zapewniających ich prawidłowe wykonanie,
+
+### b)
+
+dobrowolnych formach współpracy z organami Krajowej Administracji Skarbowej,
+
+### 2)
+
+informacje odnośnie do realizacji przez podatnika obowiązków podatkowych na terytorium Rzeczypospolitej Polskiej, wraz z informacją o liczbie przekazanych Szefowi Krajowej Administracji Skarbowej informacji o schematach podatkowych, o których mowa w art. 86a § 1 pkt 10 Ordynacji podatkowej, z podziałem na podatki, których dotyczą,
+
+### 3)
+
+informacje o:
+
+### a)
+
+transakcjach z podmiotami powiązanymi w rozumieniu art. 11a ust. 1 pkt 4, których wartość przekracza 5% sumy bilansowej aktywów w rozumieniu przepisów o rachunkowości, ustalonych na podstawie ostatniego zatwierdzonego sprawozdania finansowego spółki, w tym podmiotami niebędącymi rezydentami podatkowymi Rzeczypospolitej Polskiej,
+
+### b)
+
+planowanych lub podejmowanych przez podatnika działaniach restrukturyzacyjnych mogących mieć wpływ na wysokość zobowiązań podatkowych podatnika lub podmiotów powiązanych w rozumieniu art. 11a ust. 1 pkt 4,
+
+### 4)
+
+informacje o złożonych przez podatnika wnioskach o wydanie:
+
+### a)
+
+ogólnej interpretacji podatkowej, o której mowa w art. 14a § 1 Ordynacji podatkowej,
+
+### b)
+
+interpretacji przepisów prawa podatkowego, o której mowa w art. 14b Ordynacji podatkowej,
+
+### c)
+
+wiążącej informacji stawkowej, o której mowa w art. 42a ustawy o podatku od towarów i usług,
+
+### d)
+
+wiążącej informacji akcyzowej, o której mowa w art. 7d ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ([Dz. U. z 2020 r. poz. 722](https://api.sejm.gov.pl/eli/acts/DU/2020/722/text.html) i [1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)),
+
+### 5)
+
+informacje dotyczące dokonywania rozliczeń podatkowych podatnika na terytoriach lub w krajach stosujących szkodliwą konkurencję podatkową wskazanych w aktach wykonawczych wydanych na podstawie art. 11j ust. 2 i na podstawie art. 23v ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz w obwieszczeniu ministra właściwego do spraw finansów publicznych wydanym na podstawie art. 86a § 10 Ordynacji podatkowej
+
+- z wyłączeniem informacji objętych tajemnicą handlową, przemysłową, zawodową lub procesu produkcyjnego.
+
+### 3.
+
+Informacja o realizowanej strategii podatkowej sporządzana przez podatkową grupę kapitałową zawiera informacje, o których mowa w ust. 2, w odniesieniu do podatkowej grupy kapitałowej oraz każdej ze spółek wchodzących w jej skład.
+
+### 4.
+
+Podatnik zamieszcza informację o realizowanej strategii podatkowej za rok podatkowy, sporządzoną w języku polskim lub jej tłumaczenie na język polski, na swojej stronie internetowej w terminie do końca dwunastego miesiąca następującego po zakończeniu roku podatkowego.
+
+### 5.
+
+W przypadku gdy podatnik nie posiada własnej strony internetowej, informację o realizowanej strategii podatkowej udostępnia w języku polskim na stronie internetowej podmiotu powiązanego w rozumieniu art. 11a ust. 1 pkt 4.
+
+### 6.
+
+Na stronie internetowej, o której mowa w ust. 4 lub 5, są dostępne sporządzone i podane do publicznej wiadomości informacje o realizowanej strategii podatkowej za poszczególne lata.
+
+### 7.
+
+W terminie, o którym mowa w ust. 4, podatnik jest obowiązany przekazać za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ([Dz. U. z 2020 r. poz. 344](https://api.sejm.gov.pl/eli/acts/DU/2020/344/text.html)) naczelnikowi urzędu skarbowego właściwemu dla podatnika informację o adresie strony internetowej, o której mowa w ust. 4 lub 5.
+
+### 8.
+
+W przypadku niewykonania obowiązku, o którym mowa w ust. 7, podatnik podlega karze pieniężnej. Karę pieniężną nakłada naczelnik urzędu skarbowego właściwy dla podatnika, w drodze decyzji, w wysokości do 250 000 zł.
+
+### 9.
+
+W zakresie nieuregulowanym w ust. 8 do nakładania kary pieniężnej stosuje się przepisy działu IVA ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### 10.
+
+Do postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 8, stosuje się odpowiednio przepisy działu IV Ordynacji podatkowej, przy czym od decyzji w sprawie nałożenia kary pieniężnej przysługuje odwołanie do dyrektora izby administracji skarbowej.
+
+### 11.
+
+Przepisy ust. 1-10 nie mają zastosowania do podatników, którzy są stroną umowy o współdziałanie, o której mowa w art. 20s ust. 1 Ordynacji podatkowej.
+
+” ;
+
+### 25)
+
+w art. 38g:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od podstawy opodatkowania ustalonej zgodnie z art. 18 ust. 1 w celu obliczenia podatku lub zaliczki podatnik może odliczyć nieodliczone na podstawie art. 18 ust. 1 pkt 1 i 8 darowizny przekazane od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19: ” ,
+
+- - w pkt 3 wyraz „Bazy” zastępuje się wyrazem „Bazie”,
+
+- - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1086](https://api.sejm.gov.pl/eli/acts/DU/2020/1086/text.html), [1262](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.html), [1478](https://api.sejm.gov.pl/eli/acts/DU/2020/1478/text.html) i [1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)), zwanemu dalej „Funduszem COVID”. ” ,
+
+### b)
+
+w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 26)
+
+art. 38ha otrzymuje brzmienie:
+
+„
+
+### Art. 38ha.
+
+Zwalnia się z podatku od przychodów z budynków przychody podlegające opodatkowaniu na podstawie art. 24b, ustalone za okres:
+
+### 1)
+
+od dnia 1 marca 2020 r. do dnia 31 grudnia 2020 r.;
+
+### 2)
+
+od dnia 1 stycznia 2021 r. do końca miesiąca, w którym stan epidemii został odwołany - w przypadku obowiązywania po dniu 31 grudnia 2020 r. stanu epidemii ogłoszonego z powodu COVID-19.
+
+” ;
+
+### 27)
+
+w art. 38i:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Zwalnia się z obowiązku, o którym mowa w art. 25 ust. 19 pkt 2 i ust. 25 oraz art. 18f ust. 1 pkt 2 i ust. 2 pkt 2, odpowiednio za poszczególne okresy rozliczeniowe lub rok podatkowy, w których spełnione zostały łącznie następujące warunki:
+
+### 1)
+
+podatnik poniósł odpowiednio w danym okresie rozliczeniowym lub roku podatkowym negatywne konsekwencje ekonomiczne z powodu COVID-19;
+
+### 2)
+
+uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody, o których mowa w art. 12, są niższe o co najmniej 50% w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności w roku podatkowym - w stosunku do uzyskanych w tym roku średnich przychodów.
+
+### 2.
+
+Warunku, o którym mowa w ust. 1 pkt 2, nie stosuje się do podatników, którzy:
+
+### 1)
+
+w okresie od 2019 r. do końca roku poprzedzającego rok podatkowy stosowali formę opodatkowania, w przypadku której nie ustala się przychodów;
+
+### 2)
+
+rozpoczęli prowadzenie działalności w ostatnim kwartale roku poprzedzającego rok podatkowy i nie uzyskali w tym okresie przychodów, o których mowa w art. 12;
+
+### 3)
+
+rozpoczęli prowadzenie działalności w roku podatkowym.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przez analogiczny okres poprzedniego roku podatkowego, o którym mowa w ust. 1 pkt 2, rozumie się analogiczny okres rozliczeniowy albo rok podatkowy w okresie od 2019 r. do roku bezpośrednio poprzedzającego rok podatkowy.
+
+” ,
+
+### c)
+
+uchyla się ust. 4,
+
+### d)
+
+dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Przepis ust. 1 stosuje się nie dłużej niż do końca roku kalendarzowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przy czym w przypadku podatników, których rok podatkowy jest inny niż kalendarzowy, zwolnieniu z obowiązku, o którym mowa w art. 18f ust. 1 pkt 2 albo ust. 2 pkt 2, podlegają zobowiązania objęte do końca tego roku kalendarzowego zwolnieniem z obowiązku, o którym mowa w art. 25 ust. 19 pkt 2 i ust. 25.
+
+” ;
+
+### 28)
+
+w art. 38k w ust. 1 wyrazy „w 2020 roku” zastępuje się wyrazami „w okresie od 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”;
+
+### 29)
+
+w art. 38l ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Koszty kwalifikowane, o których mowa w art. 18d, ponoszone w okresie od 2020 r. do końca roku podatkowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na działalność badawczo-rozwojową, której celem jest opracowanie produktów niezbędnych do przeciwdziałania COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, podatnik może odliczyć również od dochodu będącego podstawą obliczenia zaliczki, o której mowa w art. 25 ust. 1 lub 1b, w trakcie roku podatkowego, który:
+
+### 1)
+
+rozpoczął się przed dniem 1 stycznia 2020 r. a zakończy się po dniu 31 grudnia 2019 r.;
+
+### 2)
+
+rozpoczął się po dniu 31 grudnia 2019 r., nie później jednak niż w miesiącu, w którym odwołano stan epidemii ogłoszony z powodu COVID-19.
+
+” ;
+
+### 30)
+
+w art. 38m:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+rozpoczął się po dniu 31 grudnia 2019 r., nie później jednak niż w miesiącu, w którym odwołano stan epidemii ogłoszony z powodu COVID-19
+
+” ,
+
+### b)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W roku podatkowym obejmującym marzec 2020 r. wysokość zaliczek, o których mowa w ust. 1, oblicza się w następujący sposób: ” ;
+
+### 31)
+
+po art. 38n dodaje się art. 38na w brzmieniu:
+
+„
+
+### Art. 38na.
+
+Warunek określony w art. 1a ust. 2 pkt 4 uważa się za spełniony w roku podatkowym, który zakończy się nie później niż dnia 31 grudnia 2021 r., jeżeli podatkowa grupa kapitałowa poniosła w 2021 r. negatywne konsekwencje ekonomiczne z powodu COVID-19, o którym mowa w ustawie o COVID-19.
+
+” ;
+
+### 32)
+
+w art. 38o:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Zmniejszenia, o których mowa w art. 25 ust. 19 pkt 1 oraz art. 18f ust. 1 pkt 1, albo zwiększenia, o którym mowa w art. 18f ust. 2 pkt 1, dokonuje się począwszy od odpowiednio okresu rozliczeniowego lub roku podatkowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do końca okresu, w którym wierzytelność została uregulowana lub zbyta.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Przepis ust. 1 stosuje się nie dłużej niż do końca roku kalendarzowego, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, przy czym w przypadku podatników, których rok podatkowy jest inny niż kalendarzowy, uprawnieniu, o którym mowa w art. 18f ust. 1 pkt 1 i ust. 2 pkt 1, podlegają wierzytelności objęte do końca tego roku kalendarzowego uprawnieniem, o którym mowa w art. 25 ust. 19 pkt 2 i ust. 25.
+
+” ;
+
+### 33)
+
+w art. 38p:
+
+### a)
+
+w ust. 1 we wprowadzeniu do wyliczenia wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”,
+
+### b)
+
+w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 34)
+
+w art. 38r:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1 i w tym ust. wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Kosztem uzyskania przychodów są koszty poniesione z tytułu nieodpłatnego świadczenia, którego celem jest przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19, realizowanego w okresie od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na rzecz:
+
+### 1)
+
+podmiotów wymienionych w art. 38g ust. 1,
+
+### 2)
+
+podmiotów lub jednostek, do których zadań ustawowych należy przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy o COVID-19
+
+- o ile nie zostały zaliczone do kosztów uzyskania przychodów, w tym poprzez odpisy amortyzacyjne.
+
+” ;
+
+### 35)
+
+w art. 38s:
+
+### a)
+
+dotychczasową treść oznacza się jako ust. 1 i w tym ust. wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19,”,
+
+### b)
+
+dodaje się ust. 2 w brzmieniu:
+
+„
+
+### 2.
+
+Do przychodów nie zalicza się wartości nieodpłatnych świadczeń otrzymanych do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 przez podatników, o których mowa w art. 38g ust. 1 oraz w art. 38r ust. 2 pkt 2.
+
+” ;
+
+### 36)
+
+w art. 38v ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do przychodów Polskiej Organizacji Turystycznej nie zalicza się przychodów otrzymanych z Funduszu COVID na realizację zadań wynikających z ustawy z dnia 15 lipca 2020 r. o Polskim Bonie Turystycznym ([Dz. U. poz. 1262](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.html), [1493](https://api.sejm.gov.pl/eli/acts/DU/2020/1493/text.html) i [1639](https://api.sejm.gov.pl/eli/acts/DU/2020/1639/text.html)).
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne ([Dz. U. z 2020 r. poz. 1905](https://api.sejm.gov.pl/eli/acts/DU/2020/1905/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 w ust. 1 pkt 11 otrzymuje brzmienie:
+
+„
+
+### 11)
+
+wolny zawód - pozarolniczą działalność gospodarczą wykonywaną osobiście przez lekarzy, lekarzy dentystów, lekarzy weterynarii, techników dentystycznych, felczerów, położne, pielęgniarki, psychologów, fizjoterapeutów, tłumaczy, adwokatów, notariuszy, radców prawnych, architektów, inżynierów budownictwa, rzeczoznawców budowlanych, biegłych rewidentów, księgowych, agentów ubezpieczeniowych, agentów oferujących ubezpieczenia uzupełniające, brokerów reasekuracyjnych, brokerów ubezpieczeniowych, doradców podatkowych, doradców restrukturyzacyjnych, maklerów papierów wartościowych, doradców inwestycyjnych, agentów firm inwestycyjnych, rzeczników patentowych, oraz nauczycieli w zakresie świadczenia usług edukacyjnych polegających na udzielaniu lekcji na godziny, z tym że za osobiste wykonywanie wolnego zawodu uważa się wykonywanie działalności bez zatrudniania na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze osób, które wykonują czynności związane z istotą danego zawodu;
+
+” ;
+
+### 2)
+
+użyte w art. 6 w ust. 4 w pkt 1 w lit. a i b oraz w ust. 6 w zdaniu pierwszym wyrazy „250 000 euro” zastępuje się wyrazami „2 000 000 euro”;
+
+### 3)
+
+w art. 8 w ust. 1 w pkt 3:
+
+### a)
+
+uchyla się lit. b,
+
+### b)
+
+uchyla się lit. d i e;
+
+### 4)
+
+w art. 12:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Ryczałt od przychodów ewidencjonowanych wynosi:
+
+### 1)
+
+17% przychodów osiąganych w zakresie wolnych zawodów;
+
+### 2)
+
+15% przychodów ze świadczenia usług:
+
+### a)
+
+reprodukcji komputerowych nośników informacji (PKWiU 18.20.30.0),
+
+### b)
+
+pośrednictwa w sprzedaży motocykli oraz części i akcesoriów do nich (PKWiU 45.40.40.0),
+
+### c)
+
+pośrednictwa w sprzedaży hurtowej (PKWiU grupa 46.1),
+
+### d)
+
+magazynowania i przechowywania cieczy i gazów (PKWiU 52.10.12.0), magazynowania i przechowywania towarów w strefach wolnocłowych (PKWiU ex 52.10.19.0), parkingowych (PKWiU 52.21.24.0), obsługi centrali wzywania radio-taxi (PKWiU ex 52.21.29.0), pilotowania na wodach morskich i przybrzeżnych (PKWiU ex 52.22.13.0), pilotowania na wodach śródlądowych (PKWiU ex 52.22.14.0),
+
+### e)
+
+licencyjnych związanych z:
+
+- - nabywaniem praw do książek, broszur, ulotek, map itp. (PKWiU 58.11.60.0),
+
+- - nabywaniem praw do korzystania z wykazów i list (np. adresowych, telefonicznych) (PKWiU 58.12.30.0),
+
+- - nabywaniem praw do czasopism i pozostałych periodyków (PKWiU 58.14.40.0),
+
+- - nabywaniem praw do pozostałych wyrobów drukowanych (PKWiU 58.19.30.0),
+
+- - nabywaniem praw do korzystania z gier komputerowych (PKWiU 58.21.40.0),
+
+- - nabywaniem praw do korzystania z programów komputerowych (PKWiU 58.29.50.0),
+
+### f)
+
+związanych ze sprzedażą miejsca reklamowego w wykazach i listach (np. adresowych, telefonicznych) (PKWiU 58.12.40.0),
+
+### g)
+
+związanych z wydawaniem:
+
+- - pakietów gier komputerowych (PKWiU ex 58.21.10.0), z wyłączeniem publikowania gier komputerowych w trybie on-line,
+
+- - pakietów oprogramowania systemowego (PKWiU 58.29.1),
+
+- - pakietów oprogramowania użytkowego (PKWiU 58.29.2),
+
+- - oprogramowania komputerowego pobieranego z Internetu (PKWiU ex 58.29.3), z wyłączeniem pobierania oprogramowania w trybie on-line,
+
+### h)
+
+związanych z nadawaniem programów ogólnodostępnych i abonamentowych (PKWiU dział 60), z doradztwem w zakresie sprzętu komputerowego (PKWiU 62.02.10.0), związanych z oprogramowaniem (PKWiU ex 62.01.1), objętych grupowaniem „Oryginały oprogramowania komputerowego” (PKWiU 62.01.2), związanych z doradztwem w zakresie oprogramowania (PKWiU ex 62.02), w zakresie instalowania oprogramowania (PKWiU ex 62.09.20.0), związanych z zarządzaniem siecią i systemami informatycznymi (PKWiU 62.03.1),
+
+### i)
+
+przetwarzania danych (PKWiU ex 63.11.1), przesyłania strumieni wideo przez Internet (PKWiU 59.11.25.0), przesyłania strumieni audio przez Internet (PKWiU 59.20.36.0), agencji informacyjnych (PKWiU 63.91.1) oraz pozostałych w zakresie informacji, gdzie indziej niesklasyfikowanych (PKWiU 63.99),
+
+### j)
+
+finansowych i ubezpieczeniowych (PKWiU sekcja K), innych niż świadczone w ramach wolnych zawodów,
+
+### k)
+
+związanych z obsługą nieruchomości, świadczonych na zlecenie (PKWiU 68.3),
+
+### l)
+
+prawnych, rachunkowo-księgowych i doradztwa podatkowego (PKWiU dział 69), innych niż świadczone w ramach wolnych zawodów,
+
+### m)
+
+firm centralnych (head office); usług doradztwa związanych z zarządzaniem (PKWiU ex dział 70), z wyjątkiem usług doradztwa związanych z zarządzaniem rynkiem rybnym (PKWiU 70.22.16.), innych niż świadczone w ramach wolnych zawodów,
+
+### n)
+
+architektonicznych i inżynierskich; usług badań i analiz technicznych (PKWiU dział 71), innych niż świadczone w ramach wolnych zawodów,
+
+### o)
+
+reklamowych; usług badania rynku i opinii publicznej (PKWiU dział 73),
+
+### p)
+
+w zakresie specjalistycznego projektowania (PKWiU 74.1), innych niż świadczone w ramach wolnych zawodów,
+
+### q)
+
+fotograficznych (PKWiU 74.2),
+
+### r)
+
+tłumaczeń pisemnych i ustnych (PKWiU 74.3), innych niż świadczone w ramach wolnych zawodów,
+
+### s)
+
+związanych z zatrudnieniem (PKWiU dział 78),
+
+### t)
+
+przez organizatorów turystyki, pośredników i agentów turystycznych oraz pozostałych usług rezerwacji i usług z nią związanych (PKWiU dział 79),
+
+### u)
+
+detektywistycznych i ochroniarskich (PKWiU dział 80), z wyjątkiem robót związanych z instalowaniem systemów przeciwpożarowych i przeciwwłamaniowych z późniejszym monitoringiem,
+
+### v)
+
+obsługi nieruchomości wykonywanych na zlecenie, polegających m.in. na utrzymaniu porządku w budynkach, kontroli systemów ogrzewania, wentylacji, klimatyzacji, wykonywaniu drobnych napraw (PKWiU 81.10.10.0), dezynfekcji i tępienia szkodników (PKWiU 81.29.11.0), związanych ze wspomaganiem prowadzenia działalności gospodarczej, gdzie indziej niesklasyfikowane (PKWiU 82.9), centrów telefonicznych (call center) (PKWiU 82.20.10.0), powielania (PKWiU 82.19.11.0), związanych z organizowaniem kongresów, targów i wystaw (PKWiU 82.30),
+
+### w)
+
+w zakresie opieki zdrowotnej (PKWiU dział 86), innych niż świadczone w ramach wolnych zawodów,
+
+### x)
+
+w zakresie pomocy społecznej bez zakwaterowania (PKWiU ex dział 88), innych niż świadczone w ramach wolnych zawodów, z wyłączeniem usług pomocy społecznej bez zakwaterowania w zakresie odwiedzania i pomocy domowej świadczonych osobom niepełnosprawnym (PKWiU 88.10.14), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej świadczonych osobom dorosłym niepełnosprawnym (PKWiU 88.10.15), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi, z wyłączeniem opieki nad dziećmi niepełnosprawnymi (PKWiU 88.91.11), usług pomocy społecznej bez zakwaterowania w zakresie opieki dziennej nad dziećmi i młodzieżą niepełnosprawną (PKWiU 88.91.12), usług pomocy społecznej bez zakwaterowania świadczonych przez opiekunki do dzieci (PKWiU 88.91.13), pozostałych usług pomocy społecznej bez zakwaterowania, gdzie indziej niesklasyfikowane (PKWiU 88.99.19), innych niż świadczone w ramach wolnych zawodów,
+
+### y)
+
+kulturalnych i rozrywkowych (PKWiU dział 90),
+
+### z)
+
+związanych ze sportem, rozrywką i rekreacją (PKWiU dział 93);
+
+### 3)
+
+10% przychodów ze świadczenia usług w zakresie kupna i sprzedaży nieruchomości na własny rachunek (PKWiU 68.10.1);
+
+### 4)
+
+8,5% przychodów do kwoty 100 000 zł oraz 12,5% przychodów od nadwyżki ponad kwotę 100 000 zł z tytułu:
+
+### a)
+
+przychodów, o których mowa w art. 6 ust. 1a,
+
+### b)
+
+przychodów, o których mowa w art. 14 ust. 2 pkt 11 ustawy o podatku dochodowym,
+
+### c)
+
+świadczenia usług związanych z zakwaterowaniem (PKWiU dział 55),
+
+### d)
+
+świadczenia usług wynajmu i obsługi nieruchomości własnych lub dzierżawionych (PKWiU 68.20.1),
+
+### e)
+
+wykonywania usług w zakresie badań naukowych i prac rozwojowych (PKWiU dział 72),
+
+### f)
+
+wynajmu i dzierżawy:
+
+- - samochodów osobowych i furgonetek, bez kierowcy (PKWiU 77.11.10.0),
+
+- - pozostałych pojazdów samochodowych (z wyłączeniem motocykli), bez kierowcy (PKWiU 77.12.1),
+
+- - środków transportu wodnego bez załogi (PKWiU 77.34.10.0),
+
+- - środków transportu lotniczego bez załogi (PKWiU 77.35.10.0),
+
+- - pojazdów szynowych (bez obsługi) (PKWiU 77.39.11.0),
+
+- - kontenerów (PKWiU 77.39.12.0),
+
+- - motocykli, przyczep kempingowych i samochodów z częścią mieszkalną, bez kierowcy (PKWiU 77.39.13.0),
+
+- - własności intelektualnej i podobnych produktów z wyłączeniem prac chronionych prawem autorskim (PKWiU 77.40),
+
+### g)
+
+świadczenia usług pomocy społecznej z zakwaterowaniem (PKWiU dział 87), innych niż świadczone w ramach wolnych zawodów;
+
+### 5)
+
+8,5%:
+
+### a)
+
+przychodów z działalności usługowej, w tym przychodów z działalności gastronomicznej w zakresie sprzedaży napojów o zawartości alkoholu powyżej 1,5%, z zastrzeżeniem pkt 1-4 oraz 6-8,
+
+### b)
+
+przychodów ze świadczenia usług związanych ze zwalczaniem pożarów i zapobieganiem pożarom (PKWiU 84.25.11.0),
+
+### c)
+
+przychodów ze świadczenia usług w zakresie edukacji (PKWiU dział 85), innych niż świadczone w ramach wolnych zawodów,
+
+### d)
+
+przychodów ze świadczenia usług związanych z działalnością bibliotek, archiwów, muzeów oraz pozostałych usług w zakresie kultury (PKWiU dział 91),
+
+### e)
+
+przychodów z działalności polegającej na wytwarzaniu przedmiotów (wyrobów) z materiału powierzonego przez zamawiającego,
+
+### f)
+
+prowizji uzyskanej przez komisanta ze sprzedaży na podstawie umowy komisu,
+
+### g)
+
+prowizji uzyskanej przez kolportera prasy na podstawie umowy o kolportaż prasy,
+
+### h)
+
+przychodów, o których mowa w art. 14 ust. 2 pkt 12 ustawy o podatku dochodowym;
+
+### 6)
+
+5,5%:
+
+### a)
+
+przychodów z działalności wytwórczej, robót budowlanych lub w zakresie przewozów ładunków taborem samochodowym o ładowności powyżej 2 ton,
+
+### b)
+
+prowizji uzyskanej z działalności handlowej w zakresie sprzedaży jednorazowych biletów komunikacji miejskiej, znaczków do biletów miesięcznych, znaczków pocztowych, żetonów i kart magnetycznych do automatów,
+
+### c)
+
+przychodów, o których mowa w art. 14 ust. 2 pkt 14 ustawy o podatku dochodowym;
+
+### 7)
+
+3,0% przychodów:
+
+### a)
+
+z działalności gastronomicznej, z wyjątkiem przychodów ze sprzedaży napojów o zawartości alkoholu powyżej 1,5%,
+
+### b)
+
+z działalności usługowej w zakresie handlu, z zastrzeżeniem pkt 2 i 3,
+
+### c)
+
+ze świadczenia usług związanych z produkcją zwierzęcą (PKWiU 01.62.10.0),
+
+### d)
+
+z działalności rybaków morskich i zalewowych w zakresie sprzedaży ryb i innych surowców pochodzących z własnych połowów, z wyjątkiem sprzedaży konserw oraz prezerw z ryb i innych surowców z połowów,
+
+### e)
+
+o których mowa w art. 14 ust. 2 pkt 2 i 5-10 ustawy o podatku dochodowym,
+
+### f)
+
+z odpłatnego zbycia ruchomych składników majątku wykorzystywanych w pozarolniczej działalności gospodarczej, nawet jeżeli przed zbyciem zostały wycofane z tej działalności gospodarczej, a pomiędzy pierwszym dniem miesiąca następującego po miesiącu, w którym składnik majątku został wycofany z działalności, i dniem jego zbycia nie upłynęło sześć lat, będących:
+
+- - środkami trwałymi podlegającymi ujęciu w wykazie środków trwałych oraz wartości niematerialnych i prawnych,
+
+- - składnikami majątku, o których mowa w art. 22d ust. 1 ustawy o podatku dochodowym, z wyłączeniem składników, których wartość początkowa, ustalona zgodnie z art. 22g ustawy o podatku dochodowym, nie przekracza 1500 zł,
+
+- - składnikami majątku, które ze względu na przewidywany okres używania równy rokowi lub krótszy niż rok nie zostały zaliczone do środków trwałych albo wartości niematerialnych i prawnych,
+
+### g)
+
+z odpłatnego zbycia ruchomych składników majątku przedsiębiorstwa w spadku;
+
+### 8)
+
+2% przychodów, o których mowa w art. 6 ust. 1d.
+
+” ,
+
+### b)
+
+w ust. 3 zdanie drugie otrzymuje brzmienie:
+
+„
+
+W przypadku gdy podatnik, o którym mowa w zdaniu poprzednim, nie prowadzi ewidencji w sposób zapewniający ustalenie przychodów dla każdego rodzaju działalności, ryczałt od przychodów ewidencjonowanych wynosi 8,5% przychodów, z tym że w przypadku osiągania również przychodów, o których mowa w:
+
+### 1)
+
+ust. 1 pkt 1, ryczałt wynosi 17%;
+
+### 2)
+
+ust. 1 pkt 2, ryczałt wynosi 15%;
+
+### 3)
+
+ust. 1 pkt 3, ryczałt wynosi 10%;
+
+### 4)
+
+ust. 1 pkt 4, ryczałt wynosi 12,5%.
+
+” ,
+
+### c)
+
+ust. 13 otrzymuje brzmienie:
+
+„
+
+### 13.
+
+W przypadku osiągania przez małżonków przychodów, o których mowa w art. 6 ust. 1a, kwota przychodów określona w ust. 1 pkt 4 lit. a dotyczy łącznie obojga małżonków.
+
+” ;
+
+### 5)
+
+w art. 17:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku nieprowadzenia ewidencji lub prowadzenia jej niezgodnie z warunkami wymaganymi do uznania jej za dowód w postępowaniu podatkowym, a także w przypadku stwierdzenia istnienia powiązań, o których mowa w art. 23m ust. 1 pkt 5 ustawy o podatku dochodowym, organ podatkowy określi wartość niezewidencjonowanego przychodu, w tym również w formie oszacowania, i określi od tej kwoty ryczałt zgodnie z ust. 2.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku stwierdzenia powiązań, o których mowa w ust. 1, przepisy art. 23m-23u ustawy o podatku dochodowym oraz przepisy wydane na podstawie art. 23v tej ustawy stosuje się odpowiednio.
+
+” ,
+
+### c)
+
+w ust. 3 wyrazy „art. 12 ust. 1 pkt 6” zastępuje się wyrazami „art. 12 ust. 1 pkt 8”;
+
+### 6)
+
+w art. 21:
+
+### a)
+
+w ust. 1b w zdaniu pierwszym wyrazy „25 000 euro” zastępuje się wyrazami „200 000 euro”,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przy obliczaniu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące albo kwartały podatnicy mogą uwzględniać odliczenia i obniżki, o których mowa w art. 11 i art. 13, z zastrzeżeniem art. 26h ust. 6 ustawy o podatku dochodowym.
+
+” ,
+
+### c)
+
+ust. 3f otrzymuje brzmienie:
+
+„
+
+### 3f.
+
+Przy obliczaniu ryczałtu od przychodów ewidencjonowanych za poszczególne miesiące albo kwartały podatnicy dokonują zwiększenia albo zmniejszenia, o którym mowa w art. 11 ust. 4-19.
+
+” ;
+
+### 7)
+
+w art. 25 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+małżonek podatnika nie prowadzi działalności w tym samym zakresie, z której przychody (dochody) podlegają odrębnemu opodatkowaniu podatkiem dochodowym na ogólnych zasadach lub ryczałtem od przychodów ewidencjonowanych;
+
+” ;
+
+### 8)
+
+w art. 36:
+
+### a)
+
+w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+nie więcej niż o trzech pracowników w latach 2021-2024.
+
+” ,
+
+### b)
+
+w ust. 5 wyrazy „ust. 4 pkt 1-3” zastępuje się wyrazami „ust. 4 pkt 1-4”;
+
+### 9)
+
+w art. 57b:
+
+### a)
+
+w ust. 1:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Od przychodu obliczonego na podstawie art. 11 podatnik może odliczyć darowizny przekazane od dnia 1 stycznia 2020 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19, na przeciwdziałanie COVID-19, o którym mowa w art. 2 ust. 2 ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. poz. 1842](https://api.sejm.gov.pl/eli/acts/DU/2020/1842/text.html), [2112](https://api.sejm.gov.pl/eli/acts/DU/2020/2112/text.html) i [2113](https://api.sejm.gov.pl/eli/acts/DU/2020/2113/text.html)), zwanej dalej „ustawą o COVID-19”: ” ,
+
+- - w pkt 1 wyrazy „ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374 i 567), zwanej dalej „ustawą o COVID-19”” zastępuje się wyrazami „ustawy o COVID-19”,
+
+- - w pkt 3 wyraz „Bazy” zastępuje się wyrazem „Bazie”,
+
+- - w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) Funduszowi Przeciwdziałania COVID-19, o którym mowa w art. 65 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1086](https://api.sejm.gov.pl/eli/acts/DU/2020/1086/text.html), [1262](https://api.sejm.gov.pl/eli/acts/DU/2020/1262/text.html), [1478](https://api.sejm.gov.pl/eli/acts/DU/2020/1478/text.html) i [1747](https://api.sejm.gov.pl/eli/acts/DU/2020/1747/text.html)). ” ,
+
+### b)
+
+w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 10)
+
+w art. 57c:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Zwalnia się z obowiązku, o którym mowa w art. 21 ust. 3f oraz art. 11 ust. 4 pkt 2, odpowiednio za poszczególne okresy rozliczeniowe lub rok podatkowy, w których spełnione zostały łącznie następujące warunki:
+
+### 1)
+
+w danym roku podatkowym obowiązywał stan epidemii ogłoszony z powodu COVID-19;
+
+### 2)
+
+uzyskane przez podatnika odpowiednio w danym okresie rozliczeniowym lub roku podatkowym przychody z działalności gospodarczej są niższe o co najmniej 50% w stosunku do analogicznego okresu poprzedniego roku podatkowego, a w przypadku podatnika, który rozpoczął prowadzenie działalności gospodarczej w roku poprzedzającym rok podatkowy - w stosunku do uzyskanych w tym roku średnich przychodów z działalności gospodarczej;
+
+### 3)
+
+podatnik poniósł odpowiednio w danym okresie rozliczeniowym lub roku podatkowym negatywne konsekwencje ekonomiczne z powodu COVID-19.
+
+### 2.
+
+Warunku, o którym mowa w ust. 1 pkt 2, nie stosuje się do podatników, którzy:
+
+### 1)
+
+w okresie od 2019 r. do końca roku poprzedzającego rok podatkowy stosowali formę opodatkowania, w przypadku której nie ustala się przychodów;
+
+### 2)
+
+rozpoczęli prowadzenie działalności gospodarczej w ostatnim kwartale roku poprzedzającego rok podatkowy i nie uzyskali w tym okresie przychodów z działalności gospodarczej;
+
+### 3)
+
+rozpoczęli prowadzenie działalności gospodarczej w roku podatkowym.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przez analogiczny okres poprzedniego roku podatkowego, o którym mowa w ust. 1 pkt 2, rozumie się analogiczny okres rozliczeniowy albo rok podatkowy przypadający w okresie od 2019 r. do roku bezpośrednio poprzedzającego rok podatkowy.
+
+” ;
+
+### 11)
+
+art. 57d otrzymuje brzmienie:
+
+„
+
+### Art. 57d.
+
+W roku podatkowym, w którym obowiązywał stan epidemii ogłoszony z powodu COVID-19, zmniejszenia, o którym mowa w art. 21 ust. 3f oraz art. 11 ust. 4 pkt 1, dokonuje się począwszy od odpowiednio okresu rozliczeniowego lub roku podatkowego, w którym upłynęło 30 dni od dnia upływu terminu zapłaty określonego na fakturze (rachunku) lub w umowie, do końca okresu, w którym wierzytelność została uregulowana lub zbyta, jeżeli odpowiednio w tym okresie lub roku podatnik poniósł negatywne konsekwencje ekonomiczne z powodu COVID-19.
+
+” ;
+
+### 12)
+
+w art. 57e:
+
+### a)
+
+w ust. 1 we wprowadzeniu do wyliczenia wyrazy „do dnia 30 września 2020 r.” zastępuje się wyrazami „do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19”,
+
+### b)
+
+w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4-6 w brzmieniu:
+
+„
+
+### 4)
+
+od dnia 1 października 2020 r. do dnia 31 grudnia 2020 r. - odliczeniu podlega kwota odpowiadająca 200% wartości darowizny;
+
+### 5)
+
+od dnia 1 stycznia 2021 r. do dnia 31 marca 2021 r. - odliczeniu podlega kwota odpowiadająca 150% wartości darowizny;
+
+### 6)
+
+od dnia 1 kwietnia 2021 r. do końca miesiąca, w którym odwołano stan epidemii ogłoszony z powodu COVID-19 - odliczeniu podlega kwota odpowiadająca wartości darowizny.
+
+” ;
+
+### 13)
+
+po art. 57g dodaje się art. 57h w brzmieniu:
+
+„
+
+### Art. 57h.
+
+### 1.
+
+Jeżeli do końca miesiąca poprzedzającego miesiąc, w którym upływa termin do złożenia zeznania podatkowego za rok podatkowy, nie zostanie odwołany stan epidemii ogłoszony z powodu COVID-19, przekazanie kwoty nieprzekraczającej 1% podatku należnego następuje również w przypadku, gdy wniosek, o którym mowa w art. 21b ust. 3, zostanie złożony po terminie do jego złożenia, nie później jednak niż do końca miesiąca następującego po miesiącu, w którym upływa termin do złożenia zeznania podatkowego albo złożenia korekty tego zeznania, określony odpowiednio w art. 21b ust. 1 pkt 1 albo 2.
+
+### 2.
+
+W zakresie nieuregulowanym w ust. 1 do przekazania kwoty na rzecz organizacji pożytku publicznego stosuje się odpowiednio przepisy art. 21b.
+
+” ;
+
+### 14)
+
+uchyla się załącznik nr 2 do ustawy.
+
+### Art. 4.
+
+W ustawie z dnia 29 września 1994 r. o rachunkowości ([Dz. U. z 2019 r. poz. 351](https://api.sejm.gov.pl/eli/acts/DU/2019/351/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568 i 2122.](#gloss-0:3:)) w art. 36 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Kapitał zakładowy spółek, określony w ustawie z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. z 2020 r. poz. 1526](https://api.sejm.gov.pl/eli/acts/DU/2020/1526/text.html)), z zastrzeżeniem ust. 2aa, towarzystw ubezpieczeń wzajemnych, towarzystw reasekuracji wzajemnej, fundusz udziałowy spółdzielni wykazuje się w wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym. ” .
+
+### Art. 5.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2020 r. poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2020/1325/text.html), [1423](https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) w art. 30 w § 5a w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+płatnik jest spółką nieruchomościową w rozumieniu art. 5a pkt 49 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 4a pkt 35 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 24 sierpnia 2006 r. o podatku tonażowym ([Dz. U. z 2020 r. poz. 1443](https://api.sejm.gov.pl/eli/acts/DU/2020/1443/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w pkt 3:
+
+### a)
+
+w lit. a we wprowadzeniu do wyliczenia wyrazy „art. 1 ust. 3 pkt 1” zastępuje się wyrazami „art. 1 ust. 3 pkt 1 i 1a”,
+
+### b)
+
+w lit. b wprowadzenie do wyliczenia otrzymuje brzmienie: „ wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, która spełnia przynajmniej jeden z warunków: ” ;
+
+### 2)
+
+w art. 4 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ W przypadku przedsiębiorców żeglugowych, o których mowa w art. 2 pkt 3 lit. b, podstawę opodatkowania podatkiem tonażowym stanowi dochód z działalności podlegającej opodatkowaniu na podstawie art. 3 ust. 1 i 2, odpowiadający iloczynowi dobowej stawki ustalonej zgodnie z art. 5 ust. 1-3 oraz okresu eksploatacji w danym miesiącu wszystkich statków spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, z których dochód opodatkowany jest podatkiem tonażowym, określony proporcjonalnie do prawa takiego przedsiębiorcy żeglugowego w udziale w zysku spółki. ” ;
+
+### 3)
+
+w art. 7 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W okresie opodatkowania podatkiem tonażowym przedsiębiorca żeglugowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością, o której mowa w art. 3 ust. 1 i 2, a w przypadku przedsiębiorcy żeglugowego, o którym mowa w art. 2 pkt 3 lit. b, wykaz obowiązana jest prowadzić spółka cywilna i spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych ([Dz. U. z 2020 r. poz. 1084](https://api.sejm.gov.pl/eli/acts/DU/2020/1084/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+w pkt 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ przebudowie statku - oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych - przez tę spółkę: ” ,
+
+### b)
+
+w pkt 4 lit. a i b otrzymują brzmienie:
+
+„
+
+### a)
+
+osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2020 r. poz. 1406](https://api.sejm.gov.pl/eli/acts/DU/2020/1406/text.html), [1492](https://api.sejm.gov.pl/eli/acts/DU/2020/1492/text.html), [1565](https://api.sejm.gov.pl/eli/acts/DU/2020/1565/text.html), [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html) i [2123](https://api.sejm.gov.pl/eli/acts/DU/2020/2123/text.html)), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+
+### b)
+
+wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
+
+” ;
+
+### 2)
+
+w art. 4 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych wniosek, o którym mowa w ust. 1, składa ta spółka.
+
+” ;
+
+### 3)
+
+w art. 10 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna lub spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych - wykaz obowiązana jest prowadzić ta spółka.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw ([Dz. U. poz. 1655](https://api.sejm.gov.pl/eli/acts/DU/2019/1655/text.html), [2020](https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html) i [2217](https://api.sejm.gov.pl/eli/acts/DU/2019/2217/text.html) oraz [z 2020 r. poz. 288](https://api.sejm.gov.pl/eli/acts/DU/2020/288/text.html)) w art. 5:
+
+### 1)
+
+w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+pkt 30 otrzymuje brzmienie:
+
+„
+
+### 30)
+
+kapitale zakładowym - oznacza to również kapitał akcyjny prostej spółki akcyjnej, kapitał podstawowy spółki, o której mowa w pkt 28 lit. c i d, oraz wartość wkładów wspólników w spółce komandytowej i spółce jawnej będącej podatnikiem podatku dochodowego od osób prawnych;”,
+
+” ;
+
+” ;
+
+### 2)
+
+w pkt 2 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+ust. 1d otrzymuje brzmienie:
+
+„
+
+### 1d.
+
+W przypadku akcjonariusza prostej spółki akcyjnej albo wspólnika spółki, o której mowa w art. 5a pkt 28 lit. c-e, przepis ust. 1 pkt 9 stosuje się wyłącznie do wniesienia wkładu niepieniężnego stanowiącego rzeczy lub prawa zbywalne.”;
+
+” .
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ([Dz. U. poz. 1842](https://api.sejm.gov.pl/eli/acts/DU/2020/1842/text.html), [2112](https://api.sejm.gov.pl/eli/acts/DU/2020/2112/text.html) i [2113](https://api.sejm.gov.pl/eli/acts/DU/2020/2113/text.html)) po art. 31z dodaje się art. 31z1-31z3wbrzmieniu:
+
+„
+
+### Art. 31z1.
+
+### 1.
+
+Zwalnia się podatników dokonujących korekty cen transferowych z obowiązku posiadania oświadczenia, o którym mowa w art. 23q pkt 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11e pkt 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli ta korekta jest dokonywana za rok podatkowy lub w momencie, w którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone w związku z COVID-19.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do ustalania wysokości przychodów i kosztów uzyskania przychodów, o których mowa w art. 14 ust. 1ca pkt 1 i art. 22 ust. 1ab pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 12 ust. 3aa pkt 1 i art. 15 ust. 1ab pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
+
+### Art. 31z2.
+
+### 1.
+
+Warunku, o którym mowa w art. 23z pkt 1 lit. b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11n pkt 1 lit. c ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, nie stosuje się w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2019 r., w którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone w związku z COVID-19, jeżeli podmiot powiązany niespełniający tego warunku uzyskał w tym roku łączne przychody niższe o co najmniej 50% od łącznych przychodów uzyskanych w analogicznym okresie bezpośrednio poprzedzającym ten rok.
+
+### 2.
+
+Przez łączne przychody, o których mowa w ust. 1, rozumie się sumę przychodów:
+
+### 1)
+
+z pozarolniczej działalności gospodarczej uwzględnianych przy obliczaniu podatku na podstawie art. 27 ust. 1 i art. 30c ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ryczałtu od przychodów ewidencjonowanych - w przypadku podatników podatku dochodowego od osób fizycznych;
+
+### 2)
+
+z działalności - w przypadku podatników podatku dochodowego od osób prawnych.
+
+### Art. 31z3.
+
+### 1.
+
+Oświadczenie o sporządzeniu lokalnej dokumentacji cen transferowych, o którym mowa w art. 23y ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, składane za rok podatkowy lub rok obrotowy lub w momencie, w którym na całym terytorium Rzeczypospolitej Polskiej obowiązywał stan zagrożenia epidemicznego lub stan epidemii ogłoszone w związku z COVID-19, może podpisać:
+
+### 1)
+
+osoba fizyczna - w przypadku podmiotu powiązanego będącego osobą fizyczną,
+
+### 2)
+
+osoba upoważniona przez przedsiębiorcę zagranicznego do reprezentowania go w oddziale - w przypadku podmiotu powiązanego będącego przedsiębiorcą zagranicznym posiadającym oddział na terytorium Rzeczypospolitej Polskiej,
+
+### 3)
+
+osoba uprawniona do reprezentacji - w przypadku pozostałych podmiotów powiązanych
+
+- przy czym nie jest dopuszczalne złożenie oświadczenia przez pełnomocnika.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, przepisów art. 23y ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 11m ust. 3 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych nie stosuje się.
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw ([Dz. U. poz. 1106](https://api.sejm.gov.pl/eli/acts/DU/2020/1106/text.html)) w art. 23 w pkt 2 po wyrazach „art. 4” dodaje się wyrazy „pkt 1”.
+
+### Art. 11.
+
+W ustawie z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw ([Dz. U. poz. 1065](https://api.sejm.gov.pl/eli/acts/DU/2020/1065/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3:
+
+### a)
+
+uchyla się pkt 2,
+
+### b)
+
+uchyla się pkt 5;
+
+### 2)
+
+w art. 9:
+
+### a)
+
+w ust. 4 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+art. 4 ust. 1 pkt 1 ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą
+
+” ,
+
+### b)
+
+w ust. 5 uchyla się pkt 2;
+
+### 3)
+
+uchyla się załącznik do ustawy.
+
+### Art. 12.
+
+### 1.
+
+W przypadku spółek komandytowych oraz spółek jawnych, które z dniem 1 stycznia 2021 r. uzyskały status podatnika podatku dochodowego od osób prawnych, oraz w zakresie uzyskanych przez podatników podatku dochodowego od osób prawnych oraz podatników podatku dochodowego od osób fizycznych przychodów i poniesionych kosztów związanych z uczestnictwem w tej spółce, w tym z tytułu objęcia (nabycia) i zbycia udziałów tej spółki, wystąpienia z tej spółki lub jej likwidacji, przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od dnia 1 stycznia 2021 r., z zastrzeżeniem ust. 2.
+
+### 2.
+
+Spółka komandytowa może postanowić, że przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do tej spółki oraz przychodów i kosztów związanych z uczestnictwem w tej spółce począwszy od dnia 1 maja 2021 r. W takim przypadku spółka komandytowa uzyskuje status podatnika podatku dochodowego od osób prawnych z dniem 1 maja 2021 r.
+
+### 3.
+
+Z dniem poprzedzającym dzień uzyskania przez spółkę komandytową i spółkę jawną statusu podatnika podatku dochodowego od osób prawnych spółka ta jest obowiązana do zamknięcia ksiąg rachunkowych, przy czym przepis art. 8 ust. 6 ustawy zmienianej w art. 2 stosuje się odpowiednio.
+
+### 4.
+
+Jeżeli ostatni dzień roku obrotowego spółki komandytowej, o której mowa w ust. 2, przypada w okresie od dnia 31 grudnia 2020 r. do dnia 31 marca 2021 r., spółka ta może nie zamykać ksiąg rachunkowych na ten dzień i kontynuować rok obrotowy do dnia 30 kwietnia 2021 r.
+
+### 5.
+
+Do przychodów oraz kosztów uzyskania przychodów spółek, o których mowa w ust. 1, nie zalicza się przychodów oraz kosztów, które na podstawie art. 8 ustawy zmienianej w art. 1 lub art. 5 ustawy zmienianej w art. 2 stanowiły przychody lub koszty wspólników takiej spółki.
+
+### 6.
+
+Spółka, o której mowa w ust. 1, kontynuuje dokonaną przed dniem, w którym stała się podatnikiem podatku dochodowego od osób prawnych, wycenę wartości podatkowej składników majątkowych, w szczególności w zakresie dotyczącym wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych, przyjętej metody amortyzacji, stawek oraz okresu amortyzacji, a także wysokości odpisów amortyzacyjnych uprzednio dokonanych od tych środków trwałych oraz wartości niematerialnych i prawnych, oraz, stosując przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu nadanym niniejszą ustawą, uwzględnia, z zastrzeżeniem ust. 5, zdarzenia zaistniałe przed dniem, w którym stała się podatnikiem podatku dochodowego od osób prawnych, mające wpływ na wysokość jej zobowiązania podatkowego w podatku dochodowym od osób prawnych.
+
+### Art. 13.
+
+### 1.
+
+Do dochodów wspólników spółki komandytowej lub spółki jawnej uzyskanych z udziału w zyskach takiej spółki, osiągniętych przez taką spółkę przed dniem, w którym taka spółka stała się podatnikiem podatku dochodowego od osób prawnych, stosuje się przepisy ustaw zmienianych w art. 1 i art. 2, w brzmieniu obowiązującym przed dniem, w którym taka spółka stała się podatnikiem podatku dochodowego od osób prawnych.
+
+### 2.
+
+Jeżeli udziały w spółce komandytowej lub spółce jawnej zostały nabyte lub objęte przez wspólnika przed dniem, w którym spółka ta stała się podatnikiem podatku dochodowego od osób prawnych, przychód wspólnika z tytułu:
+
+### 1)
+
+umorzenia udziałów lub wystąpienia ze spółki,
+
+### 2)
+
+odpłatnego zbycia tych udziałów,
+
+### 3)
+
+ich wniesienia do innej spółki, tytułem wkładu niepieniężnego,
+
+### 4)
+
+likwidacji spółki
+
+- pomniejsza się o wydatki na nabycie lub objęcie udziału w takiej spółce oraz o określoną zgodnie z art. 8 ustawy zmienianej w art. 1 albo art. 5 ustawy zmienianej w art. 2 część odpowiadającą uzyskanej przez wspólnika przed dniem, w którym spółka komandytowa lub spółka jawna stała się podatnikiem podatku dochodowego od osób prawnych, nadwyżce przychodów nad kosztami ich uzyskania, pomniejszonej o wypłaty dokonane z tytułu udziału w spółce i o wydatki niestanowiące kosztów uzyskania przychodu.
+
+### 3.
+
+Przepis art. 7 ust. 3 pkt 2 ustawy zmienianej w art. 2 oraz zwolnienie przewidziane w art. 22 ust. 4 tej ustawy mają zastosowanie wyłącznie do przychodów z tytułu udziału w zyskach spółki komandytowej lub spółki jawnej wypracowanych od dnia, w którym spółka ta stała się podatnikiem podatku dochodowego od osób prawnych.
+
+### 4.
+
+Podatnicy będący wspólnikami spółki komandytowej lub spółki jawnej, którzy przed dniem, w którym spółka taka stała się podatnikiem podatku dochodowego od osób prawnych, dokonywali na podstawie przepisów ustawy zmienianej w art. 1 lub art. 2 odliczeń od podstawy opodatkowania, zachowują prawo do tych odliczeń na zasadach przewidzianych w tych przepisach, w brzmieniu obowiązującym w dniu poprzedzającym dzień, w którym spółka komandytowa lub spółka jawna stała się podatnikiem podatku dochodowego od osób prawnych.
+
+### Art. 14.
+
+Przepisy art. 22i ust. 8 i art. 22j ust. 2 pkt 1 i ust. 3 pkt 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 16i ust. 8 i art. 16j ust. 2 pkt 1 i ust. 3 pkt 1 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do środków trwałych oraz wartości niematerialnych i prawnych wprowadzonych do ewidencji środków trwałych oraz wartości niematerialnych i prawnych po dniu 31 grudnia 2020 r.
+
+### Art. 15.
+
+### 1.
+
+Wspólnik spółki komandytowej będący podatnikiem podatku dochodowego od osób prawnych może obniżyć przychód, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 2, o nieodliczoną przed dniem, w którym spółka komandytowa stała się podatnikiem podatku dochodowego od osób prawnych, stratę w takiej części, w jakiej pozostawały przychody takiego podatnika z udziału w spółce komandytowej w poszczególnych latach podatkowych w ogólnej kwocie jego przychodów - o ile strata ta nie może zostać odliczona zgodnie z zasadami, o których mowa w art. 7 ust. 5 ustawy zmienianej w art. 2, ze źródła przychodów, z którego została poniesiona.
+
+### 2.
+
+Wspólnik spółki komandytowej będący podatnikiem podatku dochodowego od osób fizycznych, który przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych poniósł stratę z pozarolniczej działalności gospodarczej, może obniżyć przychód, o którym mowa w art. 17 ust. 1 pkt 4 ustawy zmienianej w art. 1, o nieodliczoną przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych stratę w takiej części, w jakiej pozostawały przychody takiego podatnika z udziału w spółce komandytowej w poszczególnych latach podatkowych w ogólnej kwocie przychodów z pozarolniczej działalności gospodarczej - o ile strata ta nie może zostać odliczona zgodnie z zasadami, o których mowa w art. 9 ust. 3 ustawy zmienianej w art. 1 lub art. 11 ustawy zmienianej w art. 3, ze źródła przychodów, z którego została poniesiona.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do wspólnika spółki komandytowej będącego podatnikiem podatku dochodowego od osób fizycznych, który przed dniem uzyskania przez spółkę komandytową statusu podatnika podatku dochodowego od osób prawnych poniósł stratę z działów specjalnych produkcji rolnej.
+
+### 4.
+
+Do odliczenia straty, o której mowa w ust. 1 i 2, stosuje się odpowiednio zasady, o których mowa w art. 7 ust. 5 ustawy zmienianej w art. 2 albo art. 9 ust. 3 ustawy zmienianej w art. 1, z tym że przy obliczaniu pięcioletniego okresu, o którym mowa w tych przepisach, uwzględnia się lata następujące po roku, w którym strata została poniesiona.
+
+### 5.
+
+Przepisów ust. 1-3 nie stosuje się do przychodu, o którym mowa w art. 22 ust. 1 ustawy zmienianej w art. 2 oraz w art. 17 ust. 1 pkt 4 ustawy zmienianej w art. 1, osiągniętego z udziału w zysku spółki komandytowej utworzonej po dniu 31 grudnia 2020 r.
+
+### Art. 16.
+
+### 1.
+
+Decyzji z zastosowaniem art. 119a ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2020 r. poz. 1325](https://api.sejm.gov.pl/eli/acts/DU/2020/1325/text.html), [1423](https://api.sejm.gov.pl/eli/acts/DU/2020/1423/text.html) i [2122](https://api.sejm.gov.pl/eli/acts/DU/2020/2122/text.html)) nie wydaje się podatnikowi podatku dochodowego od osób fizycznych w zakresie korzyści podatkowej w rozumieniu art. 3 pkt 18 tej ustawy polegającej na braku opodatkowania wypłaty zysku ze spółki komandytowej uzyskanego z działalności operacyjnej prowadzonej przez tę spółkę pod warunkiem, że działalność ta nie była sztuczna w rozumieniu art. 119c ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa.
+
+### 2.
+
+Przepis ust. 1 stosuje się do korzyści podatkowej uzyskanej do dnia poprzedzającego dzień, w którym spółka komandytowa stała się podatnikiem podatku dochodowego od osób prawnych.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się do postępowań, o których mowa w dziale IIIA ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, wszczętych i niezakończonych do dnia wejścia w życie niniejszej ustawy.
+
+### Art. 17.
+
+Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż rok kalendarzowy i rozpoczął się przed dniem 1 stycznia 2021 r., a zakończy się po dniu 31 grudnia 2020 r., stosują do końca przyjętego przez siebie roku podatkowego przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym, z wyjątkiem art. 38g, art. 38ha, art. 38i, art. 38k-38m, art. 38o, art. 38p, art. 38r i art. 38s tej ustawy.
+
+### Art. 18.
+
+Podatnicy podatku dochodowego od osób prawnych utworzeni w okresie od dnia wejścia w życie niniejszego przepisu, a przed dniem wejścia w życie niniejszej ustawy:
+
+### 1)
+
+w wyniku przekształcenia, połączenia lub podziału podatników, z wyjątkiem przekształcenia spółki w inną spółkę, albo
+
+### 2)
+
+w wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną wykonującą we własnym imieniu działalność gospodarczą lub spółki niebędącej osobą prawną, albo
+
+### 3)
+
+przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej, które wniosły na poczet kapitału podatnika uprzednio prowadzone przez siebie przedsiębiorstwo, zorganizowaną część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień 1 października 2020 r., w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14 ustawy zmienianej w art. 2, albo
+
+### 4)
+
+przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej wnoszące, tytułem wkładów niepieniężnych na poczet kapitału podatnika, składniki majątku uzyskane przez te osoby albo jednostki w wyniku likwidacji innych podatników, jeżeli te osoby albo jednostki posiadały udziały (akcje) tych innych likwidowanych podatników, albo
+
+### 5)
+
+przez osoby prawne, osoby fizyczne albo jednostki organizacyjne niemające osobowości prawnej, jeżeli w roku podatkowym, w którym podatnik został utworzony, oraz w roku podatkowym bezpośrednio po nim następującym, zostało do niego wniesione na poczet kapitału uprzednio prowadzone przedsiębiorstwo, zorganizowana część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień 1 października 2020 r., w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14 ustawy zmienianej w art. 2
+
+- stosują w roku podatkowym rozpoczętym po dniu 31 grudnia 2020 r. przepis art. 19 ust. 1 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+### Art. 19.
+
+Podatnicy podatku dochodowego od osób prawnych, którzy w okresie od dnia wejścia w życie niniejszego przepisu, a przed dniem wejścia w życie niniejszej ustawy:
+
+### 1)
+
+dokonali podziału,
+
+### 2)
+
+wnieśli tytułem wkładu do innego podmiotu, w tym na poczet kapitału:
+
+### a)
+
+uprzednio prowadzone przez siebie przedsiębiorstwo, zorganizowaną część przedsiębiorstwa albo składniki majątku tego przedsiębiorstwa o wartości przekraczającej łącznie równowartość w złotych kwoty 10 000 euro przeliczonej według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień 1 października 2020 r., w zaokrągleniu do 1000 zł, przy czym wartość tych składników oblicza się, stosując odpowiednio przepisy art. 14 ustawy zmienianej w art. 2, lub
+
+### b)
+
+składniki majątku uzyskane przez tego podatnika w wyniku likwidacji innych podatników, jeżeli ten podatnik posiadał udziały (akcje) tych innych likwidowanych podatników
+
+- stosują w roku podatkowym rozpoczętym po dniu 31 grudnia 2020 r. przepis art. 19 ust. 1 ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+### Art. 20.
+
+Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy i rozpoczął się przed dniem 1 stycznia 2021 r., a zakończy się po dniu 31 grudnia 2020 r., i których przychody osiągnięte od początku roku podatkowego do dnia 31 grudnia 2020 r. nie przekroczyły kwoty 2 000 000 euro, mogą stosować stawkę podatku określoną w art. 19 ust. 1 pkt 2 ustawy zmienianej w art. 2 do końca miesiąca, w którym ich przychody osiągnięte od początku roku podatkowego nie przekroczyły tej kwoty, przy czym przeliczenia kwot wyrażonych w euro dokonuje się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski na pierwszy dzień roboczy roku podatkowego, w zaokrągleniu do 1000 zł. Począwszy od następnego miesiąca, podatnicy są obowiązani do stosowania stawki podatku, o której mowa w art. 19 ust. 1 pkt 1 ustawy zmienianej w art. 2.
+
+### Art. 21.
+
+### 1.
+
+Pierwszą informację, o której mowa w art. 1 ust. 3 pkt 1a lit. a ustawy zmienianej w art. 2, spółka jawna mająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, której wspólnikami nie są wyłącznie osoby fizyczne, składa w terminie do dnia 31 stycznia 2021 r. według stanu na dzień:
+
+### 1)
+
+1 stycznia 2021 r. - w przypadku spółki jawnej, która rozpoczęła działalność przed dniem 1 stycznia 2021 r.;
+
+### 2)
+
+rozpoczęcia działalności - w przypadku spółki jawnej, która rozpoczęła działalność w okresie od dnia 1 stycznia 2021 r. do dnia 31 stycznia 2021 r.
+
+### 2.
+
+Jeżeli przed przekazaniem pierwszej informacji, o której mowa w art. 1 ust. 3 pkt 1a lit. a ustawy zmienianej w art. 2, nastąpi zmiana w składzie podatników, pierwszą aktualizację informacji, o której mowa w art. 1 ust. 3 pkt 1a lit. b ustawy zmienianej w art. 2, składa się w terminie do dnia 31 stycznia 2021 r., chyba że termin do jej złożenia przypada później.
+
+### 3.
+
+W przypadku niezłożenia zgodnie z ust. 1 albo 2 informacji, o których mowa w art. 1 ust. 3 pkt 1a ustawy zmienianej w art. 2, spółka jawna uzyskuje status podatnika podatku dochodowego od osób prawnych odpowiednio z dniem 1 stycznia 2021 r., z dniem rozpoczęcia działalności albo z dniem, w którym nastąpiła zmiana w składzie podatników.
+
+### Art. 22.
+
+Przepisy art. 23u, art. 23w ust. 2a i 4, art. 23za i art. 23zc ust. 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 11i, art. 11k ust. 2a i 4, art. 11o i art. 11q ust. 1a ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, stosuje się do transakcji kontrolowanych i transakcji innych niż transakcje kontrolowane, rozpoczętych i niezakończonych przed dniem 1 stycznia 2021 r., w zakresie tej części tych transakcji, które są realizowane w roku podatkowym rozpoczynającym się po dniu 31 grudnia 2020 r.
+
+### Art. 23.
+
+### 1.
+
+Przepis art. 21 ust. 1 pkt 23c ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów uzyskanych począwszy od roku, w którym Komisja Europejska wydała pozytywną decyzję o zgodności pomocy publicznej z rynkiem wewnętrznym w odniesieniu do tego przepisu, i obowiązuje w okresie jej obowiązywania.
+
+### 2.
+
+Przepis art. 21 ust. 1 pkt 148 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów uzyskanych od dnia 1 stycznia 2021 r.
+
+### 3.
+
+Przepis art. 52m ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) otrzymanych lub postawionych do dyspozycji podatnika od dnia 15 października 2020 r.
+
+### 4.
+
+Przepisy art. 52n, art. 52q, art. 52va, art. 52w, art. 52x, art. 52z i art. 52za ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, art. 38g, art. 38i, art. 38o, art. 38p, art. 38r i art. 38s ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, oraz art. 57b-57e i art. 57h ustawy zmienianej w art. 3, w brzmieniu nadanym niniejszą ustawą, stosuje się do dochodów (przychodów) uzyskanych od dnia 1 stycznia 2020 r.
+
+### Art. 24.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2021 r., z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 21-33, art. 2 pkt 25-35, art. 3 pkt 9-13, art. 9, art. 10, art. 12, art. 18, art. 19 oraz art. 23 ust. 3 i 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 4 i art. 8, które wchodzą w życie z dniem 1 marca 2021 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 29 września 1994 r. o rachunkowości, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 24 sierpnia 2006 r. o podatku tonażowym, ustawę z dnia 6 lipca 2016 r. o aktywizacji przemysłu okrętowego i przemysłów komplementarnych, ustawę z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych oraz niektórych innych ustaw, ustawę z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych, ustawę z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw oraz ustawę z dnia 5 czerwca 2020 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych, ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1291, 1428, 1492, 1565, 2122 i 2123. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495, 1571, 1655 i 1680 oraz z 2020 r. poz. 568 i 2122.

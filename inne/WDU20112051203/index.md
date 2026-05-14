@@ -8,11 +8,9 @@ pos: 1203
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o weteranach działań poza granicami państwa
-
-*USTAWA z dnia 19 sierpnia 2011 r.*
+# Ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach zdrowotnych finansowanych ze środków publicznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,782 +22,1530 @@ domain: null
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-29 |
 | Ostatnia zmiana | 2026-02-10 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112051203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1203/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/1203/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/1203) |
 
-Art. 39–44. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Uhonorowanie](#chpt_2) [Rozdział 3 - Świadczenia opieki zdrowotnej i pomoc psychologiczna](#chpt_3) [Rozdział 4 - Pomoc w finansowaniu nauki i uprawnienia socjalne](#chpt_4) [Rozdział 5 - Uprawnienia pracownicze](#chpt_5) [Rozdział 6 - Dodatek weterana poszkodowanego](#chpt_6) [Rozdział 7 - Źródła i sposób finansowania niektórych świadczeń](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących](#chpt_8) [Rozdział 9 - Przepisy końcowe](#chpt_9)
 
-**Art. 1.** Ustawa ustanawia Dzień Weterana Działań poza Granicami Państwa oraz określa:
+TOC
 
-**Art. 2.** Weteranem działań poza granicami państwa, zwanym dalej „weteranem”, może być osoba, która brała udział, na podstawie skierowania, w działaniach poza granicami państwa w ramach:
+## Treść ustawy
 
-**Art. 3.** Weteranem poszkodowanym w działaniach poza granicami państwa, zwanym dalej „weteranem poszkodowanym”, może być osoba, która biorąc udział na podstawie skierowania w działaniach poza granicami państwa, doznała uszczerbku na zdrowiu wskutek wypadku pozostającego w związku z tymi działaniami lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych poza granicami państwa, z tytułu których przyznano jej świadczenia odszkodowawcze.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 4.** Określenia użyte w ustawie oznaczają:
+### Art. 1.
 
-**Art. 5.**
+Ustawa ustanawia Dzień Weterana Działań poza Granicami Państwa oraz określa:
 
-1. Status weterana oraz weterana poszkodowanego przyznaje, na wniosek żołnierza, funkcjonariusza, funkcjonariusza ABW lub funkcjonariusza AW, w drodze decyzji administracyjnej, Minister Obrony Narodowej – w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szef Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW oraz Szef Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW.
+### 1)
 
-1a. W przypadku zbiegu właściwości w sprawach określonych w ust. 1 organem właściwym w sprawie przyznania statusu weterana oraz weterana poszkodowanego jest organ, który ostatni skierował daną osobę do udziału w działaniach poza granicami państwa.
+status weterana działań poza granicami państwa i weterana poszkodowanego w działaniach poza granicami państwa;
 
-1b. W przypadku zaistnienia okoliczności uzasadniających zmianę wysokości uszczerbku na zdrowiu oraz dodatku weterana poszkodowanego, o którym mowa w art. 36 ust. 1, niezależnie od organu, który skierował daną osobę do udziału w działaniach poza granicami państwa, organem właściwym w sprawie zmiany decyzji ostatecznej o przyznaniu statusu weterana poszkodowanego jest organ, który wydał tę decyzję.
+### 2)
 
-2. Decyzja o przyznaniu statusu weterana poszkodowanego zawiera informację o:
+uprawnienia przysługujące osobom, o których mowa w pkt 1;
 
-- **1)** procentowej wysokości uszczerbku na zdrowiu doznanego wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa, z tytułu których przyznano świadczenia odszkodowawcze;
-- **2)** wysokości dodatku weterana poszkodowanego, o którym mowa w art. 36 ust. 1.
+### 3)
 
-3. Egzemplarz decyzji o przyznaniu statusu weterana poszkodowanego Minister Obrony Narodowej – w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szef Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW oraz Szef Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW przesyłają do Prezesa Narodowego Funduszu Zdrowia, zwanego dalej „Prezesem NFZ”, w terminie 7 dni od dnia wydania decyzji ostatecznej.
+zasady i warunki korzystania z uprawnień, o których mowa w pkt 2;
 
-**Art. 6.**
+### 4)
 
-1. Status weterana oraz weterana poszkodowanego nie przysługuje osobie, która została skazana prawomocnym wyrokiem sądu za:
+tryb postępowania i właściwość organów w sprawach, o których mowa w pkt 1-3.
 
-- **1)** przestępstwo popełnione umyślnie lub przestępstwo skarbowe popełnione umyślnie w związku z wykonywaniem zadań lub obowiązków służbowych podczas udziału w działaniach poza granicami państwa;
-- **2)** przestępstwo przeciwko Rzeczypospolitej Polskiej.
+### Art. 2.
 
-2. W przypadku wszczęcia postępowania karnego lub karnego skarbowego, pod zarzutem popełnienia przestępstwa wymienionego w ust. 1, przeciwko osobie ubiegającej się o nadanie statusu weterana albo weterana poszkodowanego rozpatrzenie wniosku zawiesza się do czasu jego prawomocnego zakończenia.
+Weteranem działań poza granicami państwa, zwanym dalej „weteranem”, może być osoba, która brała udział, na podstawie skierowania, w działaniach poza granicami państwa w ramach:
 
-**Art. 7.**
+### 1)
 
-1. Podstawą do ubiegania się o przyznanie statusu weterana są:
+misji pokojowej lub stabilizacyjnej, kontyngentu policyjnego, kontyngentu Straży Granicznej, zadań ochronnych Biura Ochrony Rządu lub zapewniania bezpieczeństwa państwa, nieprzerwanie przez okres, na jaki została skierowana, jednak nie krócej niż przez okres 60 dni;
 
-- **1)** wniosek, o którym mowa w art. 5 ust. 1;
-- **2)** zaświadczenie wydane odpowiednio przez:
-    - **a)** dowódcę jednostki wojskowej, w której żołnierz ostatnio pełnił lub pełni służbę,
-    - **b)** szefa wojskowego centrum rekrutacji właściwego ze względu na miejsce zamieszkania żołnierza albo właściwego kierownika archiwum wojskowego,
-    - **c)** Szefa Agencji Bezpieczeństwa Wewnętrznego,
-    - **d)** Szefa Agencji Wywiadu,
-    - **e)** Komendanta Głównego Policji,
-    - **f)** Komendanta Głównego Straży Granicznej,
-    - **g)** Szefa Biura Ochrony Rządu,
-    - **h)** Komendanta Głównego Państwowej Straży Pożarnej,
-    - **i)** Komendanta Służby Ochrony Państwa;
+### 2)
 
-- **3)** zaświadczenie z Krajowego Rejestru Karnego;
-- **4)** oświadczenie osoby ubiegającej się o przyznanie statusu weterana lub weterana poszkodowanego o pełnieniu służby odpowiednio jako żołnierz, funkcjonariusz, funkcjonariusz ABW lub funkcjonariusz AW, wraz z informacją o posiadanym stopniu służbowym, lub oświadczenie o pozostawaniu w stosunku pracy pracownika, o którym mowa w art. 12;
-- **5)** oświadczenie o posiadanym statusie weterana lub weterana poszkodowanego przyznanym przez jeden z organów, o którym mowa w art. 5 ust. 1.
+grupy ratowniczej Państwowej Straży Pożarnej, łącznie przez okres nie krótszy niż 60 dni.
 
-2. Zaświadczenie, o którym mowa w ust. 1 pkt 2, zawiera:
+### Art. 3.
 
-- **1)** imię (imiona) i nazwisko osoby ubiegającej się o przyznanie statusu weterana;
-- **2)** numer PESEL;
-- **3)** nazwę i rodzaj działania poza granicami państwa, w którym uczestniczyła osoba ubiegająca się o przyznanie statusu weterana;
-- **4)** okres uczestnictwa w działaniach poza granicami państwa;
-- **5)** zajmowane stanowisko służbowe lub pełnioną funkcję podczas udziału w działaniach poza granicami państwa.
+Weteranem poszkodowanym w działaniach poza granicami państwa, zwanym dalej „weteranem poszkodowanym”, może być osoba, która biorąc udział na podstawie skierowania w działaniach poza granicami państwa, doznała uszczerbku na zdrowiu wskutek wypadku pozostającego w związku z tymi działaniami lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych poza granicami państwa, z tytułu których przyznano jej świadczenia odszkodowawcze.
 
-3. W przypadku braku możliwości wydania zaświadczenia, o którym mowa w ust. 1 pkt 2, potwierdzonego pismem właściwego podmiotu, osoba ubiegająca się o przyznanie statusu weterana może ubiegać się o jego przyznanie na podstawie innych dokumentów lub dowodów poświadczających udział w działaniach poza granicami państwa.
+### Art. 4.
 
-**Art. 8.** Podstawą do ubiegania się o przyznanie statusu weterana poszkodowanego są:
+Określenia użyte w ustawie oznaczają:
 
-**Art. 9.**
+### 1)
 
-1. Dokumentem potwierdzającym status weterana oraz weterana poszkodowanego jest odpowiednio legitymacja weterana albo legitymacja weterana poszkodowanego wydana przez Ministra Obrony Narodowej – w odniesieniu do żołnierzy, ministra właściwego do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW albo Szefa Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW.
+skierowanie - skierowanie, wyznaczenie, delegowanie, zatrudnienie przez:
 
-2. Legitymacje, o których mowa w ust. 1, wydaje się w terminie do 60 dni od dnia wydania decyzji ostatecznej o przyznaniu statusu weterana albo weterana poszkodowanego.
+### a)
 
-**Art. 10.** Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określą, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2, wzór legitymacji weterana oraz weterana poszkodowanego oraz tryb wydawania, wymiany lub zwrotu tych legitymacji, uwzględniając konieczność zapewnienia sprawności postępowania w tym zakresie, a także wskazania przypadków, w których weteran oraz weteran poszkodowany może dokonać wymiany posiadanej legitymacji.
+Ministra Obrony Narodowej albo właściwy organ wojskowy,
 
-**Art. 11.**
+### b)
 
-1. Statusu weterana albo weterana poszkodowanego w przypadku, o którym mowa w art. 6 ust. 1, pozbawia, w drodze decyzji administracyjnej, Minister Obrony Narodowej – w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szef Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW oraz Szef Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW.
+organizację międzynarodową, za zgodą Ministra Obrony Narodowej,
 
-2. Weteran albo weteran poszkodowany traci swój status z dniem stania się ostateczną decyzji, o której mowa w ust. 1.
+### c)
 
-3. O skazaniu prawomocnym wyrokiem weterana lub weterana poszkodowanego za przestępstwo, o którym mowa w art. 6 ust. 1, sąd zawiadamia w terminie 7 dni od dnia uprawomocnienia się wyroku odpowiednio Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego lub Szefa Agencji Wywiadu.
+Szefa Służby Kontrwywiadu Wojskowego,
 
-4. Osoba pozbawiona statusu weterana albo weterana poszkodowanego decyzją ostateczną traci uprawnienia wynikające z ustawy i jest obowiązana do zwrotu legitymacji weterana albo legitymacji weterana poszkodowanego organowi, który ją wydał, w terminie 7 dni od dnia doręczenia jej tej decyzji.
+### d)
 
-5. O pozbawieniu decyzją ostateczną statusu weterana poszkodowanego Minister Obrony Narodowej – w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych – w odniesieniu do funkcjonariuszy, Szef Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do funkcjonariuszy ABW oraz Szef Agencji Wywiadu – w odniesieniu do funkcjonariuszy AW zawiadamia właściwy organ emerytalno-rentowy oraz Prezesa NFZ w terminie 7 dni od dnia, w którym decyzja stała się ostateczna.
+Szefa Służby Wywiadu Wojskowego,
 
-**Art. 12.** Przepisy ustawy dotyczące:
+### e)
 
-**Art. 13.** Uprawnienia i obowiązki dowódcy jednostki wojskowej określone w ustawie stosuje się odpowiednio do Szefa Służby Wywiadu Wojskowego i Szefa Służby Kontrwywiadu Wojskowego.
+Szefa Agencji Bezpieczeństwa Wewnętrznego,
 
-**Art. 14.** W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+### f)
 
-#### Rozdział 2 Uhonorowanie
+Szefa Agencji Wywiadu,
 
-**Art. 15.** Dzień 29 maja ustanawia się Dniem Weterana Działań poza Granicami Państwa.
+### g)
 
-**Art. 16.**
+Komendanta Głównego Policji,
 
-1. Ustanawia się wojskową odznakę „Za Rany i Kontuzje”.
+### h)
 
-2. Tworzy się fundusz przeznaczony na wojskową odznakę „Za Rany i Kontuzje”, którego dysponentem jest Minister Obrony Narodowej.
+Komendanta Głównego Straży Granicznej,
 
-3. Minister Obrony Narodowej, za rany i kontuzje odniesione podczas działań poza granicami państwa, może przyznać weteranowi poszkodowanemu-żołnierzowi, wojskową odznakę „Za Rany i Kontuzje”.
+### i)
 
-4. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+Szefa Biura Ochrony Rządu,
 
-- **1)** szczegółowe warunki i tryb przyznawania i wręczania odznaki,
-- **2)** szczegółowy tryb występowania z wnioskiem o przyznawanie odznaki,
-- **3)** osoby uprawnione do występowania z wnioskiem o przyznanie odznaki,
-- **4)** rodzaje, wzór i sposób noszenia odznaki,
-- **5)** szczegółowe warunki tworzenia i dysponowania funduszem przeznaczonym na odznakę,
-- **6)** wysokość i sposób ustalania wysokości funduszu przeznaczonego na odznakę,
-- **7)** komórkę organizacyjną Ministerstwa Obrony Narodowej właściwą do ewidencjonowania, zakupu oraz dystrybucji odznaki – o której mowa w ust. 1.
+### j)
 
-5. W rozporządzeniu, o którym mowa w ust. 4, należy uwzględnić kryteria przyznawania wojskowej odznaki „Za Rany i Kontuzje”, obejmujące przede wszystkim okoliczności odniesienia ran i kontuzji oraz ich związek z wykonywaniem czynności służbowych, a także ilość i stopień obrażeń, jakie w wyniku ran i kontuzji poniósł weteran poszkodowany-żołnierz, potwierdzonych orzeczeniem właściwej wojskowej komisji lekarskiej.
+Komendanta Głównego Państwowej Straży Pożarnej;
 
-**Art. 17.**
+### 2)
 
-1. Ustanawia się odznakę honorową „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”.
+działania poza granicami państwa - działania podjęte poza granicami państwa w ramach misji pokojowej lub stabilizacyjnej, kontyngentu policyjnego, kontyngentu Straży Granicznej, zadań ochronnych Biura Ochrony Rządu, zapewniania bezpieczeństwa państwa oraz grupy ratowniczej Państwowej Straży Pożarnej;
 
-2. Minister właściwy do spraw wewnętrznych może nadać weteranowifunkcjonariuszowi oraz weteranowi poszkodowanemu-funkcjonariuszowi za zasługi podczas działań poza granicami państwa odznakę honorową „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”.
+### 3)
 
-3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+misja pokojowa lub stabilizacyjna - działania określone w art. 2 pkt 1 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa ([Dz. U. Nr 162, poz. 1117](https://api.sejm.gov.pl/eli/acts/DU/1998/1117/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278 oraz z 2010 r. Nr 240, poz. 1601.](#gloss-0:2:)) oraz inne działania o tym charakterze podejmowane przez organizacje międzynarodowe, w których uczestniczyli obywatele polscy skierowani przez podmioty, o których mowa w pkt 1 lit. a-f, w szczególności działania mające na celu utrzymanie lub przywrócenie pokoju, bądź akcje zapobiegania aktom terroryzmu lub ich skutkom;
 
-- **1)** tryb postępowania w sprawach o nadanie odznaki, osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku,
-- **2)** wzór odznaki, wzór wniosku o nadanie odznaki – zawierający informację uzasadniającą jej nadanie – oraz wzór legitymacji potwierdzającej nadanie odznaki,
-- **3)** sposób wręczenia i noszenia odznaki,
-- **4)** sposób ewidencjonowania informacji o osobach wyróżnionych odznaką – mając na uwadze sprawne przeprowadzanie postępowania, ujednolicenie sposobu składania wniosków oraz zapewnienie przyznawania odznaki osobom szczególnie zasłużonym.
+### 4)
 
-**Art. 18.**
+kontyngent policyjny - kontyngent wydzielony w celu realizacji zadań, o których mowa w art. 145a ust. 1 pkt 1-3 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677 i Nr 171, poz. 1016.](#gloss-0:3:)) oraz byłą Polską Grupę Policyjną;
 
-1. Ustanawia się odznakę honorową „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej”.
+### 5)
 
-2. Prezes Rady Ministrów może nadać weteranowi-funkcjonariuszowi ABW, weteranowi poszkodowanemu-funkcjonariuszowi ABW, weteranowi-funkcjonariuszowi AW i weteranowi poszkodowanemu-funkcjonariuszowi AW za zasługi podczas zapewniania bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej odznakę honorową „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej”.
+kontyngent Straży Granicznej - kontyngent wydzielony w celu realizacji zadań, o których mowa w art. 147c pkt 1-3a ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2011 r. Nr 116, poz. 675](https://api.sejm.gov.pl/eli/acts/DU/2011/675/text.html), [Nr 117, poz. 677](https://api.sejm.gov.pl/eli/acts/DU/2011/677/text.html), [Nr 170, poz. 1015](https://api.sejm.gov.pl/eli/acts/DU/2011/1015/text.html) i [Nr 171, poz. 1016](https://api.sejm.gov.pl/eli/acts/DU/2011/1016/text.html));
 
-3. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+### 6)
 
-- **1)** tryb postępowania w sprawach o nadanie odznaki, osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku,
-- **2)** wzór odznaki, wzór wniosku o nadanie odznaki – zawierający informację uzasadniającą jej nadanie – oraz wzór legitymacji potwierdzającej nadanie odznaki,
-- **3)** sposób wręczenia i noszenia odznaki,
-- **4)** sposób ewidencjonowania informacji o osobach wyróżnionych odznaką – mając na uwadze sprawne przeprowadzanie postępowania, ujednolicenie sposobu składania wniosków oraz zapewnienie przyznawania odznaki osobom szczególnie zasłużonym.
+zadania ochronne Biura Ochrony Rządu - zadania służbowe wykonywane na terytorium państw w całości lub w części uznanych za strefę działań wojennych oraz państw, o których mowa w przepisach wydanych na podstawie art. 60a ust. 2 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu ([Dz. U. z 2004 r. Nr 163, poz. 1712](https://api.sejm.gov.pl/eli/acts/DU/2004/1712/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677.](#gloss-0:4:));
 
-**Art. 19.**
+### 7)
 
-1. Weteran lub weteran poszkodowany, będący żołnierzem rezerwy lub w stanie spoczynku, ma prawo do noszenia umundurowania oraz odznak i oznak wojskowych w przypadkach i w sposób określony w przepisach wydanych na podstawie art. 270 ust. 2 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny.
+zapewnianie bezpieczeństwa państwa - zadania, o których mowa w art. 5 ust. 1 pkt 2 i w art. 6 ust. 1 pkt 2, 5 i 7 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2010 r. Nr 29, poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2010/154/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677.](#gloss-0:5:)), a także art. 5 ust. 1 i 2 oraz art. 6 ust. 1 pkt 1-4 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego ([Dz. U. Nr 104, poz. 709](https://api.sejm.gov.pl/eli/acts/DU/2006/709/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455.](#gloss-0:6:)), wykonywane na terytorium państw w całości lub w części uznanych za strefę działań wojennych odpowiednio przez funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu lub przez funkcjonariuszy i żołnierzy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego;
 
-2. Weteran poszkodowany-żołnierz zwolniony z czynnej służby wojskowej, któremu w czasie pełnienia służby nie przysługiwały należności umundurowania i wyekwipowania wyjściowego, ma prawo do jednorazowego bezpłatnego otrzymania takiego umundurowania i wyekwipowania.
+### 8)
 
-3. Minister Obrony Narodowej określi, w drodze rozporządzenia, normy umundurowania i wyekwipowania wyjściowego weteranów poszkodowanychżołnierzy oraz tryb postępowania i organy właściwe w sprawach wydawania umundurowania, uwzględniając w szczególności specyfikę umundurowania i wyekwipowania poszczególnych rodzajów wojsk i służb.
+grupa ratownicza Państwowej Straży Pożarnej - grupę utworzoną do wykonywania zadań, o których mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2009 r. Nr 12, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/2009/68/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677 i Nr 171, poz. 1016.](#gloss-0:7:));
 
-**Art. 20.**
+### 9)
 
-1. Weteran i weteran poszkodowany ma prawo do zwrotu kosztów przejazdu, z uwzględnieniem przysługujących mu ulg w tym zakresie, i zakwaterowania, poniesionych w związku z udziałem w uroczystościach organizowanych odpowiednio przez:
+organizacja międzynarodowa - Organizację Narodów Zjednoczonych, Organizację Bezpieczeństwa i Współpracy w Europie, Organizację Traktatu Północnoatlantyckiego oraz Unię Europejską;
 
-- **1)** Ministra Obrony Narodowej,
-- **2)** dowódców jednostek wojskowych,
-- **3)** ministra właściwego do spraw wewnętrznych,
-- **4)** Szefa Agencji Bezpieczeństwa Wewnętrznego,
-- **5)** Szefa Agencji Wywiadu,
-- **6)** Komendanta Głównego Policji,
-- **7)** właściwego miejscowo komendanta wojewódzkiego Policji,
-- **8)** Komendanta Głównego Straży Granicznej,
-- **9)** komendantów oddziałów lub ośrodków szkolenia Straży Granicznej,
-- **10)** Komendanta Służby Ochrony Państwa,
-- **11)** kierownika jednostki organizacyjnej Państwowej Straży Pożarnej – na które został zaproszony w charakterze uczestnika działań poza granicami państwa.
+### 10)
 
-2. Zwrot kosztów, o których mowa w ust. 1, przysługuje za udział w niewięcej niż dwóch uroczystościach w danym roku kalendarzowym, łącznie do wysokości najniższej emerytury.
+renta inwalidzka - rentę inwalidzką, wojskową rentę inwalidzką, policyjną rentę inwalidzką, rentę z tytułu niezdolności do pracy i rentę rolniczą z tytułu niezdolności do pracy, otrzymywane odpowiednio na podstawie ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin ([Dz. U. z 2010 r. Nr 101, poz. 648](https://api.sejm.gov.pl/eli/acts/DU/2010/648/text.html) i [Nr 113, poz. 745](https://api.sejm.gov.pl/eli/acts/DU/2010/745/text.html) oraz z [2011 r. Nr 112, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.html)), ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2004 r. Nr 8, poz. 66](https://api.sejm.gov.pl/eli/acts/DU/2004/66/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130.](#gloss-0:8:)), ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2004 r. Nr 8, poz. 67](https://api.sejm.gov.pl/eli/acts/DU/2004/67/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786 oraz z 2010 r. Nr 113, poz. 745.](#gloss-0:9:)), ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2009 r. Nr 153, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2009/1227/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001 i Nr 187, poz. 1112.](#gloss-0:10:)), ustawy z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ([Dz. U. z 2009 r. Nr 167, poz. 1322](https://api.sejm.gov.pl/eli/acts/DU/2009/1322/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808.](#gloss-0:11:)) oraz ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2008 r. Nr 50, poz. 291](https://api.sejm.gov.pl/eli/acts/DU/2008/291/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656, z 2009 r. Nr 69, poz. 595, Nr 79, poz. 667 i Nr 97, poz. 800 oraz z 2011 r. Nr 106, poz. 622 i Nr 149, poz. 887.](#gloss-0:12:));
 
-3. Zwrotu kosztów dokonuje odpowiednio podmiot, o którym mowa w ust. 1, na którego zaproszenie weteran lub weteran poszkodowany przyjechał, po złożeniu przez niego wniosku oraz oświadczenia o wysokości kosztów przejazdu i przedstawieniu oryginału rachunku za zakwaterowanie.
+### 11)
 
-**Art. 21.**
+emerytura - emeryturę wojskową, emeryturę policyjną, emeryturę i emeryturę rolniczą, otrzymywane odpowiednio na podstawie ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin oraz ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników;
 
-1. Zmarłemu weteranowi-żołnierzowi i zmarłemu weteranowi poszkodowanemu-żołnierzowi przysługuje wojskowa asysta honorowa podczas pogrzebu na terytorium Rzeczypospolitej Polskiej.
+### 12)
 
-2. Zmarłemu weteranowi-funkcjonariuszowi, weteranowi-funkcjonariuszowi ABW, weteranowi-funkcjonariuszowi AW, zmarłemu weteranowi poszkodowanemu-funkcjonariuszowi, zmarłemu weteranowi poszkodowanemu-funkcjonariuszowi ABW oraz zmarłemu weteranowi poszkodowanemu-funkcjonariuszowi AW przysługuje asysta honorowa podczas pogrzebu na terytorium Rzeczypospolitej Polskiej.
+najbliższy członek rodziny - małżonka, wstępnych, zstępnych, rodzeństwo, osobę pozostającą w stosunku przysposobienia oraz osobę pozostającą we wspólnym pożyciu z weteranem lub weteranem poszkodowanym;
 
-3. Asystę, o której mowa w ust. 1 i 2, przydziela się po przesłaniu przez najbliższego członka rodziny weterana lub weterana poszkodowanego informacji o jego śmierci.
+### 13)
 
-4. Informację przesyła się odpowiednio do:
+jednostka wojskowa - jednostkę wojskową, o której mowa w art. 3 ust. 5 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej ([Dz. U. z 2004 r. Nr 241, poz. 2416](https://api.sejm.gov.pl/eli/acts/DU/2004/2416/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458, z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706, z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228, Nr 217, poz. 1427 i Nr 240, poz. 1601 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 171, poz. 1016, Nr 185, poz. 1092 i Nr 187, poz. 1109.](#gloss-0:13:)), a także komórkę organizacyjną Ministerstwa Obrony Narodowej i jednostkę organizacyjną podległą Ministrowi Obrony Narodowej;
 
-- **1)** dowódcy garnizonu właściwego terytorialnie ze względu na miejsce pochówku weterana-żołnierza lub weterana poszkodowanego-żołnierza;
-- **2)** komendanta wojewódzkiego Policji, kierownika jednostki organizacyjnej Straży Granicznej, Komendanta Służby Ochrony Państwa albo kierownika jednostki organizacyjnej Państwowej Straży Pożarnej, właściwych terytorialnie ze względu na miejsce pochówku weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza;
-- **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego – w przypadku pochówku weterana-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza ABW;
-- **4)** Szefa Agencji Wywiadu – w przypadku pochówku weterana-funkcjonariusza AW lub weterana poszkodowanego-funkcjonariusza AW.
+### 14)
 
-5. W przypadku śmierci samotnego weterana lub weterana poszkodowanego informację, o której mowa w ust. 3, może przesłać organizacja pozarządowa zrzeszająca weteranów-żołnierzy, weteranów-funkcjonariuszy, weteranów-funkcjonariuszy ABW albo weteranów-funkcjonariuszy AW.
+dowódca jednostki wojskowej - dowódcę, dyrektora, szefa, komendanta lub inną osobę na równorzędnym stanowisku służbowym;
 
-#### Rozdział 3 Świadczenia opieki zdrowotnej i pomoc psychologiczna
+### 15)
 
-**Art. 22.**
+wypadek pozostający w związku z działaniami poza granicami państwa - zdarzenie nagłe, wywołane przyczyną zewnętrzną, powodujące uszczerbek na zdrowiu, które zaistniało podczas lub w związku z:
 
-1. Realizację uprawnień wynikających z art. 24b, art. 24c, art. 44 ust. 1c, art. 46 ust. 1 pkt 8, art. 47 ust. 2a, art. 47c ust. 1 pkt 11 oraz art. 57 ust. 2 pkt 12 i 13 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26) monitoruje i koordynuje Prezes NFZ.
+### a)
 
-2. Prezes NFZ przekazuje raz na kwartał informację o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej określonych w ust. 1 odpowiednio do:
+działaniami podejmowanymi w ramach uderzenia na przeciwnika bądź odparcia jego uderzeń,
 
-- **1)** Ministra Obrony Narodowej – w odniesieniu do weteranów poszkodowanych-żołnierzy,
-- **2)** ministra właściwego do spraw wewnętrznych – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy,
-- **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy ABW,
-- **4)** Szefa Agencji Wywiadu – w odniesieniu do weteranów poszkodowanychfunkcjonariuszy AW – w celu monitorowania przez te organy realizacji prawa do tych świadczeń.
+### b)
 
-3. Informacja, o której mowa w ust. 2, zawiera:
+zamachem lub innym bezprawnym działaniem wymierzonym przeciwko osobie, która brała udział w działaniach poza granicami państwa,
 
-- **1)** imię, nazwisko i numer PESEL weterana poszkodowanego;
-- **2)** serię i numer dokumentu potwierdzającego uprawnienia weterana poszkodowanego do korzystania ze świadczeń opieki zdrowotnej;
-- **3)** rodzaj i zakres świadczeń opieki zdrowotnej udzielonych weteranom poszkodowanym;
-- **4)** nazwę i siedzibę świadczeniodawcy, który udzielił weteranowi poszkodowanemu świadczeń opieki zdrowotnej w danym rodzaju i zakresie;
-- **5)** liczbę i wartość udzielonych świadczeń opieki zdrowotnej.
+### c)
 
-4. Podmiot właściwy do wydawania dokumentów potwierdzających uprawnienia do korzystania ze świadczeń opieki zdrowotnej przekazuje Prezesowi NFZ informację o nabyciu uprawnień przez weterana poszkodowanego, która zawiera:
+innymi działaniami pozostającymi w bezpośrednim związku z wykonywaniem zadań:
 
-- **1)** imię, nazwisko i numer PESEL weterana poszkodowanego;
-- **2)** serię i numer dokumentu potwierdzającego uprawnienia weterana poszkodowanego do korzystania ze świadczeń opieki zdrowotnej oraz datę jego wydania.
+- - przez żołnierza, z wyłączeniem przypadków, w których żołnierz przy wykonywaniu zadań nie przestrzegał przepisów bezpieczeństwa i higieny pracy,
 
-5. Właściwe komisje lekarskie przekazują organom, o których mowa w ust. 2 pkt 1–4, w terminie do dnia 31 stycznia każdego roku, za rok poprzedni, informacje o liczbie wydanych orzeczeń ustalających związek uszczerbku na zdrowiu z wypadkiem pozostającym w związku z działaniami poza granicami państwa lub chorobą nabytą podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa oraz o wysokości orzeczonego procentowego uszczerbku na zdrowiu z tytułu urazów lub chorób powstałych w związku z udziałem w działaniach poza granicami państwa, a także ich skutków zdrowotnych.
+- - określonych w akcie utworzenia kontyngentu policyjnego, kontyngentu Straży Granicznej, grupy ratowniczej Państwowej Straży Pożarnej, w skierowaniu do wykonywania zadań ochronnych Biura Ochrony Rządu lub w skierowaniu do wykonywania zadań mających na celu zapewnianie bezpieczeństwa państwa;
 
-6. Świadczeniodawca, o którym mowa w art. 5 pkt 41 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, przekazuje organom, o których mowa w ust. 2 pkt 1–4, dane o odpłatnych lub niezakwalifikowanych jako gwarantowane świadczeniach opieki zdrowotnej, których udzielił weteranom poszkodowanym oraz weteranom poszkodowanym, których ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa, obejmujące:
+### 16)
 
-- **1)** imię, nazwisko i numer PESEL weterana poszkodowanego oraz weterana poszkodowanego, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %, a w przypadku gdy nie posiada on numeru PESEL – rodzaj, serię i numer dokumentu potwierdzającego tożsamość oraz datę urodzenia;
-- **2)** numer dokumentu potwierdzającego uprawnienia weterana poszkodowanego oraz weterana poszkodowanego, którego ustalony procentowy uszczerbek na zdrowiu wynosi co najmniej 30 %;
-- **3)** rodzaj odpłatnych lub niezakwalifikowanych jako gwarantowane świadczeń opieki zdrowotnej udzielonych w związku z urazami lub chorobami nabytymi podczas wykonywania zadań poza granicami państwa;
-- **4)** koszt udzielonego świadczenia.
+żołnierz - żołnierza zawodowego i niezawodowego, a także żołnierza rezerwy i w stanie spoczynku;
 
-7. Prezes Rady Ministrów, po zasięgnięciu opinii Prezesa NFZ, określi, w drodze rozporządzenia:
+### 17)
 
-- **1)** sposób i tryb postępowania w zakresie monitorowania odpowiednio przez Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Agencji Wywiadu realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych-funkcjonariuszy ABW i weteranów poszkodowanych-funkcjonariuszy AW,
-- **2)** podmiot prowadzący w imieniu organów, o których mowa w pkt 1, monitorowanie informacji, o których mowa w ust. 2 pkt 3 i 4,
-- **3)** podmiot właściwy do przekazywania do Prezesa NFZ informacji o nabyciu uprawnień przez weterana poszkodowanego-funkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza AW – uwzględniając konieczność zapewnienia sprawności postępowania w tym zakresie.
+funkcjonariusz - funkcjonariusza i zwolnionego ze służby funkcjonariusza Policji, Straży Granicznej, Biura Ochrony Rządu oraz strażaka i zwolnionego ze służby strażaka Państwowej Straży Pożarnej;
 
-8. Minister Obrony Narodowej, po zasięgnięciu opinii Prezesa NFZ, określi, w drodze rozporządzenia:
+### 18)
 
-- **1)** sposób i tryb postępowania w zakresie monitorowania realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy,
-- **2)** podmiot prowadzący w jego imieniu monitorowanie informacji, o których mowa w ust. 2 pkt 1,
-- **3)** podmiot właściwy do przekazywania do Prezesa NFZ informacji o nabyciu uprawnień przez weterana poszkodowanego-żołnierza – uwzględniając konieczność zapewnienia sprawności postępowania w tym zakresie.
+funkcjonariusz ABW - funkcjonariusza i zwolnionego ze służby funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego oraz funkcjonariusza i zwolnionego ze służby funkcjonariusza Agencji Wywiadu;
 
-9. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Prezesa NFZ, określi, w drodze rozporządzenia:
+### 19)
 
-- **1)** sposób i tryb postępowania w zakresie monitorowania realizacji indywidualnego prawa do świadczeń opieki zdrowotnej weteranów poszkodowanych-funkcjonariuszy,
-- **2)** podmiot prowadzący w jego imieniu monitorowanie informacji, o których mowa w ust. 2 pkt 2,
-- **3)** podmiot właściwy do przekazywania do Prezesa NFZ informacji o nabyciu uprawnień przez weterana poszkodowanego-funkcjonariusza – uwzględniając konieczność zapewnienia sprawności postępowania w tym zakresie.
+najniższa emerytura - kwotę najniższej emerytury, od pierwszego dnia następnego miesiąca po ogłoszeniu przez Prezesa Zakładu Ubezpieczeń Społecznych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, na podstawie art. 94 ust. 2 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-**Art. 23.**
+### Art. 5.
 
-1. Weteran-żołnierz lub weteran poszkodowany-żołnierz oraz najbliżsi członkowie jego rodziny mają prawo do korzystania poza kolejnością z bezpłatnej pomocy psychologicznej udzielanej przez psychologów w jednostkach wojskowych oraz przez psychologów w wojskowych centrach rekrutacji, a także z pomocy bezpłatnej udzielanej w podmiotach leczniczych utworzonych i nadzorowanych przez Ministra Obrony Narodowej, jeżeli problemy zdrowotne żołnierza są związane z działaniami poza granicami państwa.
+### 1.
 
-2. Weteran-funkcjonariusz lub weteran poszkodowany-funkcjonariusz oraz najbliżsi członkowie jego rodziny mają prawo do korzystania poza kolejnością z bezpłatnej pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, jeżeli problemy zdrowotne funkcjonariusza są związane z działaniami poza granicami państwa.
+Status weterana oraz weterana poszkodowanego przyznaje, na wniosek żołnierza, funkcjonariusza lub funkcjonariusza ABW, w drodze decyzji administracyjnej, Minister Obrony Narodowej - w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych - w odniesieniu do funkcjonariuszy, oraz Szef Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do funkcjonariuszy ABW.
 
-3. Weteran-funkcjonariusz ABW lub weteran poszkodowany-funkcjonariusz ABW oraz najbliżsi członkowie jego rodziny mają prawo do korzystania poza kolejnością z bezpłatnej pomocy psychologicznej udzielanej w podmiotach leczniczych utworzonych przez Szefa Agencji Bezpieczeństwa Wewnętrznego, jeżeli problemy zdrowotne funkcjonariusza są związane z działaniami poza granicami państwa.
+### 2.
 
-3a. Weteran-funkcjonariusz AW lub weteran poszkodowany-funkcjonariusz AW oraz najbliżsi członkowie jego rodziny mają prawo do korzystania poza kolejnością z bezpłatnej pomocy psychologicznej udzielanej w podmiotach wykonujących działalność leczniczą utworzonych przez Szefa Agencji Wywiadu, jeżeli problemy zdrowotne funkcjonariusza są związane z działaniami poza granicami państwa.
+Decyzja o przyznaniu statusu weterana poszkodowanego zawiera informację o:
 
-4. Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** tryb udzielania i zakres pomocy psychologicznej,
-- **2)** sposób i tryb postępowania w zakresie monitorowania realizacji prawa weteranów poszkodowanych do pomocy, o której mowa w ust. 1–3a, oraz właściwość organów w tym zakresie – mając na względzie zapewnienie sprawnego dostępu do korzystania z pomocy psychologicznej oraz jej realizację adekwatną do potrzeb weteranów.
+procentowej wysokości uszczerbku na zdrowiu doznanego wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa, z tytułu których przyznano świadczenia odszkodowawcze;
 
-**Art. 24.**
+### 2)
 
-1. Weteran i weteran poszkodowany mają prawo do umieszczenia poza kolejnością w Domu Weterana i odpłatnego w nim pobytu, na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z zastrzeżeniem art. 25.
+wysokości dodatku weterana poszkodowanego, o którym mowa w art. 36 ust. 1.
 
-1a. Pierwszeństwo w umieszczeniu w Domu Weterana mają weterani i weterani poszkodowani szczególnie zasłużeni z tytułu działalności na rzecz suwerennej i demokratycznej Rzeczypospolitej Polskiej lub odznaczeni Orderem Wojennym Virtuti Militari albo Orderem Krzyża Wojskowego.
+### 3.
 
-1b. Podmiot nadzorujący Dom Weterana odpowiednio w imieniu Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych, Szefa Agencji Wywiadu lub Szefa Agencji Bezpieczeństwa Wewnętrznego wydaje zaświadczenie o uprawnieniu, o którym mowa w ust. 1a, na wniosek weterana lub weterana poszkodowanego złożony przed uruchomieniem procedury, o której mowa w ust. 2.
+Egzemplarz decyzji o przyznaniu statusu weterana poszkodowanego Minister Obrony Narodowej - w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych - w odniesieniu do funkcjonariuszy, oraz Szef Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do funkcjonariuszy ABW, przesyłają do organu, o którym mowa w art. 98 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016 i Nr 205, poz. 1203.](#gloss-0:14:)), w terminie 7 dni od dnia wydania decyzji ostatecznej.
 
-1c. Do wniosku dołącza się dokumenty potwierdzające szczególne zasługi z tytułu działalności na rzecz suwerennej i demokratycznej Rzeczypospolitej Polskiej lub przyznanie odznaczenia Orderem Wojennym Virtuti Militari albo Orderem Krzyża Wojskowego.
+### Art. 6.
 
-1d. Zaświadczenie, o którym mowa w ust. 1b, weteran lub weteran poszkodowany składa kierownikowi albo dyrektorowi Domu Weterana przed umieszczeniem w Domu Weterana.
+### 1.
 
-2. Weterana i weterana poszkodowanego umieszcza się w Domu Weterana w trybie określonym w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, odpowiednio do zakresu udzielanych świadczeń.
+Status weterana oraz weterana poszkodowanego nie przysługuje osobie, która została skazana prawomocnym wyrokiem sądu za:
 
-2a. Miesięczną opłatę za wyżywienie i zakwaterowanie weterana poszkodowanego przebywającego w Domu Weterana ustala się w wysokości odpowiadającej 250 % najniższej emerytury, z tym że opłata ta nie może być wyższa niż kwota odpowiadająca 50 % miesięcznego dochodu weterana poszkodowanego w rozumieniu przepisów art. 8 ust. 3 i 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2025 r. poz. 1214 i 1302 oraz z 2026 r. poz. 26).
+### 1)
 
-3. Pobyt, o którym mowa w ust. 1, może być dofinansowany ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej – w odniesieniu do weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy.
+przestępstwo popełnione umyślnie lub przestępstwo skarbowe popełnione umyślnie w związku z wykonywaniem zadań lub obowiązków służbowych podczas udziału w działaniach poza granicami państwa;
 
-4. Weteranowi-funkcjonariuszowi, weteranowi-funkcjonariuszowi ABW, weteranowi-funkcjonariuszowi AW, weteranowi poszkodowanemu-funkcjonariuszowi, weteranowi poszkodowanemu-funkcjonariuszowi ABW i weteranowi poszkodowanemu-funkcjonariuszowi AW może zostać udzielona zapomoga na pobyt w Domu Weterana ze środków budżetu państwa, z części pozostającej odpowiednio w dyspozycji ministra właściwego do spraw wewnętrznych oraz z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu.
+### 2)
 
-4a. Zapomogę, o której mowa w ust. 4, można przyznać na pokrycie poniesionych kosztów pobytu w Domu Weterana nieobjętych opłatą za pobyt w Domu Weterana, określonych w przepisach wydanych na podstawie art. 33a ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+przestępstwo przeciwko Rzeczypospolitej Polskiej.
 
-4b. Wysokość przyznanej zapomogi jest uzależniona od sytuacji materialnej osób, o których mowa w ust. 4, potwierdzonej dokumentami.
+### 2.
 
-4c. Zapomogę, o której mowa w ust. 4, przyznaje się na wniosek, który zawiera:
+W przypadku wszczęcia postępowania karnego lub karnego skarbowego, pod zarzutem popełnienia przestępstwa wymienionego w ust. 1, przeciwko osobie ubiegającej się o nadanie statusu weterana albo weterana poszkodowanego rozpatrzenie wniosku zawiesza się do czasu jego prawomocnego zakończenia.
 
-- **1)** imię i nazwisko;
-- **2)** numer PESEL;
-- **3)** adres zamieszkania;
-- **4)** numer i datę wydania legitymacji weterana lub weterana poszkodowanego.
+### Art. 7.
 
-4d. Do wniosku dołącza się dokumenty potwierdzające sytuację materialną osób, o których mowa w ust. 4, oraz potwierdzające poniesione koszty, o których mowa w ust. 4a.
+### 1.
 
-5. Tworzy się fundusze na zapomogi, o których mowa w ust. 4, których dysponentami są odpowiednio minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego oraz Szef Agencji Wywiadu.
+Podstawą do ubiegania się o przyznanie statusu weterana są:
 
-6. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb przyznawania zapomogi weteranowi-funkcjonariuszowi ABW, weteranowi poszkodowanemu-funkcjonariuszowi ABW, weteranowi-funkcjonariuszowi AW i weteranowi poszkodowanemu-funkcjonariuszowi AW na pobyt w Domu Weterana, dokumenty dołączane do wniosku, sposób przekazywania zapomogi oraz sposób tworzenia funduszu na zapomogi, biorąc pod uwagę konieczność zapewnienia uprawnionym odpowiedniego dostępu do tych świadczeń oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+### 1)
 
-7. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana oraz dokumenty niezbędne do wydania zaświadczeń, o których mowa w ust. 1b i 1d, biorąc pod uwagę konieczność zapewnienia uprawnionym odpowiedniego dostępu do tych świadczeń oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+wniosek, o którym mowa w art. 5 ust. 1;
 
-8. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przyznawania zapomogi weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi na pobyt w Domu Weterana, dokumenty dołączane do wniosku, sposób przekazywania zapomogi oraz sposób tworzenia funduszu na zapomogi, biorąc pod uwagę konieczność zapewnienia uprawnionym odpowiedniego dostępu do tych świadczeń oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+### 2)
 
-**Art. 25.** W uzasadnionych przypadkach do Domu Weterana może być skierowany weteran poszkodowany, na podstawie opinii konsultanta ochrony zdrowia, o którym mowa w art. 5 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia (Dz. U. z 2025 r. poz. 254), niezależnie od oceny jego skali samodzielności określanej stosownie do przepisów wykonawczych wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+zaświadczenie wydane odpowiednio przez:
 
-#### Rozdział 4 Pomoc w finansowaniu nauki i uprawnienia socjalne
+### a)
 
-**Art. 26.**
+dowódcę jednostki wojskowej, w której żołnierz ostatnio pełnił lub pełni służbę,
 
-1. Weteran poszkodowany-żołnierz ma prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+### b)
 
-- **1)** naukę na poziomie szkoły ponadpodstawowej;
-- **2)** studia pierwszego stopnia;
-- **3)** studia drugiego stopnia;
-- **4)** jednolite studia magisterskie;
-- **5)** studia podyplomowe.
+wojskowego komendanta uzupełnień właściwego ze względu na miejsce zamieszkania żołnierza albo właściwego kierownika archiwum wojskowego,
 
-1a. Weteran poszkodowany-żołnierz, którego ustalony uszczerbek na zdrowiu wynosi co najmniej 30 %, ma prawo do uzyskania pomocy finansowej na dwie formy kształcenia z form określonych w ust. 1.
+### c)
 
-2. W ramach pomocy, o której mowa w ust. 1, mogą być pokryte koszty:
+Szefa Agencji Bezpieczeństwa Wewnętrznego,
 
-- **1)** opłaty za naukę lub studia;
-- **2)** przejazdów z miejsca zamieszkania weterana poszkodowanego-żołnierza do szkoły lub uczelni i z powrotem;
-- **3)** zakwaterowania w miejscowości, w której weteran poszkodowany-żołnierz pobiera naukę lub odbywa studia.
+### d)
 
-3. Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-żołnierza form kształcenia do wysokości 400 % najniższej emerytury.
+Szefa Agencji Wywiadu,
 
-4. Wysokość pomocy finansowej, o której mowa w ust. 3, przysługuje na każdy rok szkolny lub akademicki przez cały czas trwania nauki lub studiów, niedłużej niż w wymiarze określonym w programie nauczania lub w programie studiów.
+### e)
 
-5. Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50 % pełnej stawki określonej w ust. 3.
+Komendanta Głównego Policji,
 
-6. W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-żołnierza powodującymi konieczność przerwania nauki lub studiów, wypłata pomocy finansowej ulega zawieszeniu, na wniosek zainteresowanego, do czasu ustania przyczyny przerwania nauki lub studiów.
+### f)
 
-7. Poniesione przez organ koszty nauki lub studiów oraz przejazdów i zakwaterowania podlegają zwrotowi w przypadku nieukończenia nauki lub studiów z przyczyn leżących po stronie weterana poszkodowanego-żołnierza w terminie określonym w programie nauczania lub w programie studiów, z wyjątkiem przyczyn nieukończenia nauki lub studiów, o których mowa w ust. 6. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+Komendanta Głównego Straży Granicznej,
 
-8. Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb przyznawania pomocy, o której mowa w ust. 1, oraz właściwość organów w tym zakresie, dokumenty stanowiące podstawę jej przyznawania oraz sposób i termin jej wypłaty, a także warunki zawieszania jej udzielania oraz zwrotu kosztów nauki lub studiów, przejazdów i zakwaterowania. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+### g)
 
-**Art. 27.**
+Szefa Biura Ochrony Rządu,
 
-1. Weteran poszkodowany-funkcjonariusz zwolniony ze służby ma prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+### h)
 
-- **1)** studia pierwszego stopnia;
-- **2)** studia drugiego stopnia;
-- **3)** jednolite studia magisterskie;
-- **4)** studia podyplomowe.
+Komendanta Głównego Państwowej Straży Pożarnej;
 
-2. Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-funkcjonariusza form kształcenia do wysokości 400 % najniższej emerytury.
+### 3)
 
-3. Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50 % pełnej stawki.
+zaświadczenie z Krajowego Rejestru Karnego.
 
-4. Pomoc, o której mowa w ust. 1, jest udzielana przez czas trwania studiów na wniosek weterana poszkodowanego--funkcjonariusza, w każdym roku akademickim, w wymiarze określonym programem studiów na jednym kierunku wybranym przez funkcjonariusza.
+### 2.
 
-5. W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-funkcjonariusza powodującymi konieczność przerwania studiów, na wniosek zainteresowanego, wypłata pomocy finansowej ulega zawieszeniu do czasu ustania przyczyny przerwania studiów.
+Zaświadczenie, o którym mowa w ust. 1 pkt 2, zawiera:
 
-6. Pomoc finansowa podlega zwrotowi w przypadku nieukończenia studiów z przyczyn leżących po stronie weterana poszkodowanego-funkcjonariusza, z wyjątkiem przyczyn nieukończenia studiów, o których mowa w ust. 5. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+### 1)
 
-7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb przyznawania pomocy, o której mowa w ust. 1, oraz właściwość organów w tym zakresie, dokumenty stanowiące podstawę jej przyznawania oraz sposób i termin jej wypłaty, a także warunki zawieszania jej udzielania oraz zwrotu kosztów kształcenia. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+imię (imiona) i nazwisko osoby ubiegającej się o przyznanie statusu weterana;
 
-**Art. 28.**
+### 2)
 
-1. Weteran poszkodowany-funkcjonariusz ABW i weteran poszkodowany-funkcjonariusz AW zwolnieni ze służby mają prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+numer PESEL;
 
-- **1)** studia pierwszego stopnia;
-- **2)** studia drugiego stopnia;
-- **3)** jednolite studia magisterskie;
-- **4)** studia podyplomowe.
+### 3)
 
-2. Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-funkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza AW form kształcenia do wysokości 400 % najniższej emerytury.
+nazwę i rodzaj działania poza granicami państwa, w którym uczestniczyła osoba ubiegająca się o przyznanie statusu weterana;
 
-3. Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50 % pełnej stawki.
+### 4)
 
-4. Pomoc, o której mowa w ust. 1, jest udzielana przez czas trwania studiów na wniosek weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW, w każdym roku akademickim, w wymiarze określonym programem studiów na jednym kierunku wybranym przez funkcjonariusza.
+okres uczestnictwa w działaniach poza granicami państwa;
 
-4a. Wniosek, o którym mowa w ust. 4, zawiera:
+### 5)
 
-- **1)** imię i nazwisko;
-- **2)** adres zamieszkania;
-- **3)** numer PESEL;
-- **4)** numer i datę wydania legitymacji weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW;
-- **5)** zobowiązanie do niezwłocznego zawiadomienia odpowiednio Szefa ABW albo Szefa AW o przerwaniu studiów w trakcie roku akademickiego lub niepodjęciu nauki;
-- **6)** określenie formy wypłaty świadczenia z tytułu pomocy, a w przypadku formy bezgotówkowej – wskazanie rachunku bankowego właściwego dla wypłaty.
+zajmowane stanowisko służbowe lub pełnioną funkcję podczas udziału w działaniach poza granicami państwa.
 
-4b. Do wniosku dołącza się zaświadczenie wydane przez uczelnię lub inny dokument potwierdzający:
+### 3.
 
-- **1)** fakt odbywania przez weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW studiów, ich rodzaj i łączny czas ich trwania (liczbę semestrów);
-- **2)** aktualny semestr (rok) nauki odbywanej oraz liczbę semestrów w danym roku akademickim wraz z terminami ich rozpoczęcia i zakończenia;
-- **3)** wysokość opłaty ustalonej przez uczelnię za naukę w danym roku akademickim i w poszczególnych jego semestrach.
+W przypadku braku możliwości wydania zaświadczenia, o którym mowa w ust. 1 pkt 2, potwierdzonego pismem właściwego podmiotu, osoba ubiegająca się o przyznanie statusu weterana może ubiegać się o jego przyznanie na podstawie innych dokumentów lub dowodów poświadczających udział w działaniach poza granicami państwa.
 
-5. W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW, powodującymi konieczność przerwania studiów, na wniosek zainteresowanego wypłata pomocy finansowej ulega zawieszeniu do czasu ustania przyczyny przerwania studiów.
+### Art. 8.
 
-6. Pomoc finansowa podlega zwrotowi w przypadku nieukończenia studiów z przyczyn leżących po stronie weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW, z wyjątkiem przyczyn nieukończenia studiów, o których mowa w ust. 5. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+Podstawą do ubiegania się o przyznanie statusu weterana poszkodowanego są:
 
-7. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania pomocy, o której mowa w ust. 1, właściwość podmiotów w tym zakresie, sposób i termin jej wypłaty, a także szczegółowe warunki zawieszania jej udzielania oraz zwrotu kosztów kształcenia. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+### 1)
 
-**Art. 29.**
+dokumenty lub dowody, o których mowa w art. 7 ust. 1 i 3;
 
-1. Weteranowi poszkodowanemu przysługują odpowiednio uprawnienia określone w art. 14, art. 15, art. 22 ust. 1 oraz art. 23a ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin.
+### 2)
 
-2. W przypadku zbiegu prawa do tego samego świadczenia na podstawie odrębnych przepisów, przysługuje tylko jedno świadczenie według wyboru uprawnionego.
+protokół powypadkowy albo decyzja o stwierdzeniu choroby zawodowej;
 
-3. Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja weterana poszkodowanego.
+### 3)
 
-**Art. 29a.**
+orzeczenie właściwej komisji lekarskiej o związku uszczerbku na zdrowiu z wypadkiem pozostającym w związku z działaniami poza granicami państwa lub chorobą nabytą podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa albo orzeczenie lekarza orzecznika lub komisji lekarskiej Zakładu Ubezpieczeń Społecznych ustalające uszczerbek na zdrowiu w związku z wypadkiem przy pracy lub chorobą zawodową wydane dla celów świadczeń z ubezpieczenia społecznego;
 
-1. Weteran poszkodowany, którego ustalony uszczerbek na zdrowiu wynosi co najmniej 30 %, ma prawo do udziału w bezpłatnych turnusach readaptacyjno-kondycyjnych organizowanych przez jednostki organizacyjne podległe Ministrowi Obrony Narodowej lub nadzorowane przez ministra właściwego do spraw wewnętrznych nieczęściej niż raz w roku kalendarzowym.
+### 4)
 
-2. Turnus readaptacyjno-kondycyjny trwa 14 dni kalendarzowych i obejmuje w szczególności zajęcia psychologiczne, sportowo-rekreacyjne i fizjoterapeutyczne.
+decyzja administracyjna o przyznaniu świadczeń odszkodowawczych albo prawomocny wyrok sądu zasądzający odszkodowanie.
 
-3. W turnusie readaptacyjno-kondycyjnym wraz z weteranem poszkodowanym może uczestniczyć pełnoletni najbliższy członek rodziny.
+### Art. 9.
 
-4. W turnusie readaptacyjno-kondycyjnym nie mogą uczestniczyć weterani poszkodowani, u których lekarz stwierdził przeciwwskazania medyczne do udziału w turnusie readaptacyjno-kondycyjnym.
+### 1.
 
-5. Koszt udziału w turnusie readaptacyjno-kondycyjnym jest finansowany z budżetu państwa odpowiednio w części pozostającej w dyspozycji:
+Dokumentem potwierdzającym status weterana oraz weterana poszkodowanego jest odpowiednio legitymacja weterana albo legitymacja weterana poszkodowanego wydana przez Ministra Obrony Narodowej - w odniesieniu do żołnierzy, ministra właściwego do spraw wewnętrznych - w odniesieniu do funkcjonariuszy, albo Szefa Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do funkcjonariuszy ABW.
 
-- **1)** Ministra Obrony Narodowej – w odniesieniu do weterana poszkodowanego-żołnierza i pełnoletniego najbliższego członka rodziny;
-- **2)** ministra właściwego do spraw wewnętrznych – w odniesieniu do weterana poszkodowanego-funkcjonariusza i pełnoletniego najbliższego członka rodziny;
-- **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do weterana poszkodowanego-funkcjonariusza ABW i pełnoletniego najbliższego członka rodziny;
-- **4)** Szefa Agencji Wywiadu – w odniesieniu do weterana poszkodowanego-funkcjonariusza AW i pełnoletniego najbliższego członka rodziny.
+### 2.
 
-6. Wniosek weterana poszkodowanego o skierowanie na turnus readaptacyjno-kondycyjny zawiera:
+Legitymacje, o których mowa w ust. 1, wydaje się w terminie do 60 dni od dnia wydania decyzji ostatecznej o przyznaniu statusu weterana albo weterana poszkodowanego.
 
-- **1)** imię i nazwisko;
-- **2)** numer PESEL;
-- **3)** serię i numer legitymacji weterana poszkodowanego;
-- **4)** miejsce służby lub pracy;
-- **5)** adres zamieszkania i do korespondencji;
-- **6)** numer telefonu kontaktowego.
+### Art. 10.
 
-7. Do wniosku dołącza się:
+Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określą, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w art. 7 ust. 1 pkt 2, wzór legitymacji weterana oraz weterana poszkodowanego oraz tryb wydawania, wymiany lub zwrotu tych legitymacji, uwzględniając konieczność zapewnienia sprawności postępowania w tym zakresie, a także wskazania przypadków, w których weteran oraz weteran poszkodowany może dokonać wymiany posiadanej legitymacji.
 
-- **1)** kopię decyzji o przyznaniu statusu weterana poszkodowanego;
-- **2)** opinię psychologa o braku przeciwwskazań do udziału w turnusie readaptacyjno-kondycyjnym;
-- **3)** zaświadczenie lekarskie o braku przeciwwskazań medycznych do udziału w turnusie readaptacyjno-kondycyjnym;
-- **4)** zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego na turnus readaptacyjno-kondycyjny w przypadku udziału członka rodziny.
+### Art. 11.
 
-8. Zgłoszenie pełnoletniego najbliższego członka rodziny weterana poszkodowanego na turnus readaptacyjno-kondycyjny zawiera następujące dane pełnoletniego najbliższego członka rodziny:
+### 1.
 
-- **1)** imię i nazwisko;
-- **2)** stopień pokrewieństwa;
-- **3)** numer PESEL;
-- **4)** adres zamieszkania;
-- **5)** numer telefonu kontaktowego.
+Minister Obrony Narodowej - w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych - w odniesieniu do funkcjonariuszy, oraz Szef Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do funkcjonariuszy ABW, w przypadku, o którym mowa w art. 6 ust. 1, pozbawia, w drodze decyzji administracyjnej, statusu weterana albo weterana poszkodowanego.
 
-9. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+### 2.
 
-- **1)** tryb kierowania weteranów poszkodowanych-żołnierzy wraz z pełnoletnim najbliższym członkiem rodziny na turnus readaptacyjno-kondycyjny,
-- **2)** ramowy program turnusu readaptacyjno-kondycyjnego,
-- **3)** wzór wniosku weterana poszkodowanego-żołnierza o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-żołnierza na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus,
-- **4)** podmiot kierujący na turnus readaptacyjno-kondycyjny,
-- **5)** miejsce prowadzenia turnusów readaptacyjno-kondycyjnych – uwzględniając potrzeby weterana poszkodowanego-żołnierza wynikające z jego aktualnego stanu zdrowia.
+Weteran albo weteran poszkodowany traci swój status z dniem stania się ostateczną decyzji, o której mowa w ust. 1.
 
-10. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+### 3.
 
-- **1)** tryb kierowania weteranów poszkodowanych-funkcjonariuszy wraz z pełnoletnim najbliższym członkiem rodziny na turnus readaptacyjno-kondycyjny,
-- **2)** ramowy program turnusu readaptacyjno-kondycyjnego,
-- **3)** wzór wniosku weterana poszkodowanego-funkcjonariusza o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus,
-- **4)** podmiot kierujący na turnus readaptacyjno-kondycyjny,
-- **5)** miejsce prowadzenia turnusów readaptacyjno-kondycyjnych – uwzględniając potrzeby weterana poszkodowanego-funkcjonariusza wynikające z jego aktualnego stanu zdrowia.
+O skazaniu prawomocnym wyrokiem weterana lub weterana poszkodowanego za przestępstwo, o którym mowa w art. 6 ust. 1, sąd zawiadamia, w terminie 7 dni od dnia uprawomocnienia się wyroku, odpowiednio Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych lub Szefa Agencji Bezpieczeństwa Wewnętrznego.
 
-11. Prezes Rady Ministrów określi, w drodze rozporządzenia:
+### 4.
 
-- **1)** tryb kierowania weteranów poszkodowanych-funkcjonariuszy ABW oraz weteranów poszkodowanych-funkcjonariuszy AW, wraz z pełnoletnim najbliższym członkiem rodziny, na turnus readaptacyjno-kondycyjny,
-- **2)** ramowy program turnusu readaptacyjno-kondycyjnego,
-- **3)** wzór wniosku weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW o skierowanie na turnus readaptacyjno-kondycyjny i wzór zgłoszenia pełnoletniego najbliższego członka rodziny weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW na turnus readaptacyjno-kondycyjny – wraz z miejscem na stanowisko podmiotu kierującego na turnus,
-- **4)** podmiot kierujący na turnus readaptacyjno-kondycyjny,
-- **5)** miejsce prowadzenia turnusów readaptacyjno-kondycyjnych – uwzględniając potrzeby weterana poszkodowanego-funkcjonariusza ABW oraz weterana poszkodowanego-funkcjonariusza AW wynikające z jego aktualnego stanu zdrowia.
+Osoba pozbawiona statusu weterana albo weterana poszkodowanego decyzją ostateczną traci uprawnienia wynikające z ustawy i jest obowiązana do zwrotu legitymacji weterana albo legitymacji weterana poszkodowanego organowi, który ją wydał, w terminie 7 dni od dnia doręczenia jej tej decyzji.
 
-**Art. 30.**
+### 5.
 
-1. Weteranowi poszkodowanemu przysługuje:
+O pozbawieniu decyzją ostateczną statusu weterana poszkodowanego Minister Obrony Narodowej - w odniesieniu do żołnierzy, minister właściwy do spraw wewnętrznych - w odniesieniu do funkcjonariuszy, oraz Szef Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do funkcjonariuszy ABW, zawiadamia właściwy organ emerytalno-rentowy oraz organ, o którym mowa w art. 98 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, w terminie 7 dni od dnia, w którym decyzja stała się ostateczna.
 
-- **1)** ulga taryfowa w wysokości 50 % przy przejazdach środkami komunikacji miejskiej;
-- **2)** ulga w wysokości 37 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego i autobusowego w komunikacji krajowej w:
-    - **a)** 1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusach w komunikacji zwykłej i przyspieszonej – na podstawie biletów jednorazowych,
-    - **b)** 2 klasie pociągów innych niż osobowe i pospieszne – na podstawie biletów jednorazowych.
+### Art. 12.
 
-2. Weteran poszkodowany uprawniony do ulgowego przejazdu, o którym mowa w ust. 1 pkt 2 lit. b, korzystający z przejazdu w klasie 1, jest zobowiązany do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2.
+Przepisy ustawy dotyczące:
 
-3. Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja weterana poszkodowanego.
+### 1)
 
-**Art. 30a.**
+żołnierzy, z wyjątkiem art. 19 - stosuje się odpowiednio do funkcjonariuszy Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego oraz pracowników jednostek wojskowych;
 
-1. Weteran i weteran poszkodowany korzystają bezpłatnie z hali sportowej, siłowni i pływalni, będących w zasobie jednostek samorządu terytorialnego.
+### 2)
 
-2. Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja weterana lub weterana poszkodowanego.
+funkcjonariuszy - stosuje się odpowiednio do pracowników Policji, Straży Granicznej, Biura Ochrony Rządu i Państwowej Straży Pożarnej.
 
-**Art. 31.**
+### Art. 13.
 
-1. Weteran-żołnierz, który ukończył 65 lat życia, lub weteran poszkodowany-żołnierz, którzy znajdują się w trudnej sytuacji materialnej, mogą ubiegać się o przyznanie zapomogi:
+Uprawnienia i obowiązki dowódcy jednostki wojskowej określone w ustawie stosuje się odpowiednio do Szefa Służby Wywiadu Wojskowego i Szefa Służby Kontrwywiadu Wojskowego.
 
-- **1)** na zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku choroby powodującej wzrost kosztów utrzymania, w tym zakup leków, środków opatrunkowych oraz koszty dojazdów do podmiotów leczniczych na zabiegi medyczne i rehabilitacyjne oraz usługi pielęgnacyjne niezbędne ze względu na wiek lub stan zdrowia;
-- **2)** w przypadku zaistnienia zdarzeń losowych, mających wpływ na pogorszenie w istotny sposób sytuacji materialnej weterana-żołnierza lub weterana poszkodowanego-żołnierza.
+### Art. 14.
 
-2. Tworzy się fundusz na zapomogi dla weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy, którego dysponentem jest Minister Obrony Narodowej.
+W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2000 r. Nr 98, poz. 1071](https://api.sejm.gov.pl/eli/acts/DU/2000/1071/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100.](#gloss-0:15:)).
 
-3. Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb przyznawania zapomóg, o których mowa w ust. 1, dokumenty stanowiące podstawę ich przyznania, sposób przekazywania przyznanych zapomóg oraz sposób tworzenia funduszu na te zapomogi. Rozporządzenie uwzględni konieczność zapewnienia równego dostępu do tego świadczenia wszystkim uprawnionym oraz możliwość korzystania z zapomogi z innego tytułu.
+### Rozdział 2 Uhonorowanie
 
-**Art. 31a.**
+### Art. 15.
 
-1. Weteran-funkcjonariusz, który ukończył 65 lat życia, lub weteran poszkodowany-funkcjonariusz, którzy znajdują się w trudnej sytuacji materialnej, mogą ubiegać się o przyznanie zapomogi:
+Dzień 29 maja ustanawia się Dniem Weterana Działań poza Granicami Państwa.
 
-- **1)** na zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku choroby powodującej wzrost kosztów utrzymania, w tym zakup leków, środków opatrunkowych oraz koszty dojazdów do podmiotów leczniczych na zabiegi medyczne i rehabilitacyjne oraz usługi pielęgnacyjne niezbędne ze względu na wiek lub stan zdrowia;
-- **2)** w przypadku zaistnienia zdarzeń losowych mających wpływ na pogorszenie w istotny sposób sytuacji materialnej weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza.
+### Art. 16.
 
-2. Warunkiem przyznania zapomogi, o której mowa w ust. 1, jest konieczność poniesienia wydatków pieniężnych z tytułu pokrycia kosztów lub zaistnienia zdarzenia określonego w ust. 1. Przy przyznawaniu zapomogi uwzględnia się okoliczności mające wpływ na sytuację materialną weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza, w tym otrzymywanie z innego źródła pomocy finansowej z przeznaczeniem na pokrycie wydatków, o których mowa w ust.
+### 1.
 
-1.
+Ustanawia się wojskową odznakę „Za Rany i Kontuzje”.
 
-3. Podstawą przyznania zapomogi są dokumenty potwierdzające konieczność poniesienia wydatków lub zaistnienia zdarzenia wymienionego w ust. 1.
+### 2.
 
-4. Tworzy się fundusz na zapomogi dla weteranów-funkcjonariuszy i weteranów poszkodowanych-funkcjonariuszy, którego dysponentem jest minister właściwy do spraw wewnętrznych.
+Tworzy się fundusz przeznaczony na wojskową odznakę „Za Rany i Kontuzje”, którego dysponentem jest Minister Obrony Narodowej.
 
-5. Fundusz na zapomogi tworzy się z uwzględnieniem liczby weteranówfunkcjonariuszy i weteranów poszkodowanych--funkcjonariuszy w ramach środków budżetowych z części budżetu państwa, której dysponentem jest minister właściwy do spraw wewnętrznych.
+### 3.
 
-6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb przyznawania zapomóg, o których mowa w ust. 1, dokumenty stanowiące podstawę ich przyznania oraz sposób przekazywania przyznanych zapomóg. W rozporządzeniu uwzględnia się konieczność zapewnienia równego dostępu do tego świadczenia wszystkim uprawnionym.
+Minister Obrony Narodowej, za rany i kontuzje odniesione podczas działań poza granicami państwa, może przyznać weteranowi poszkodowanemu-żołnierzowi, wojskową odznakę „Za Rany i Kontuzje”.
 
-**Art. 32.**
+### 4.
 
-1. Weteran-funkcjonariusz ABW oraz weteran-funkcjonariusz AW, który ukończył 65 lat życia, lub weteran poszkodowany-funkcjonariusz ABW oraz weteran poszkodowany-funkcjonariusz AW, którzy znajdują się w trudnej sytuacji materialnej, mogą ubiegać się o przyznanie zapomogi:
+Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
-- **1)** na zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku choroby powodującej wzrost kosztów utrzymania, w tym zakup leków, środków opatrunkowych oraz koszty dojazdów do podmiotów leczniczych na zabiegi medyczne i rehabilitacyjne oraz usługi pielęgnacyjne niezbędne ze względu na wiek lub stan zdrowia;
-- **2)** w przypadku zaistnienia zdarzeń losowych mających wpływ na pogorszenie w istotny sposób sytuacji materialnej weterana-funkcjonariusza ABW, weterana-funkcjonariusza AW, weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW.
+### 1)
 
-2. Warunkiem przyznania zapomogi, o której mowa w ust. 1, jest konieczność poniesienia wydatków pieniężnych z tytułu pokrycia kosztów lub zaistnienia zdarzenia określonego w ust. 1. Przy przyznawaniu zapomogi uwzględnia się okoliczności mające wpływ na sytuację materialną weterana-funkcjonariusza ABW, weterana-funkcjonariusza AW, weterana poszkodowanego-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza AW, w tym otrzymywanie z innego źródła pomocy finansowej z przeznaczeniem na pokrycie wydatków, o których mowa w ust. 1.
+szczegółowe warunki i tryb przyznawania i wręczania odznaki,
 
-3. Podstawą przyznania zapomogi są dokumenty potwierdzające konieczność poniesienia wydatków lub zaistnienia zdarzenia wymienionego w ust. 1.
+### 2)
 
-4. Tworzy się fundusze na zapomogi dla weteranów-funkcjonariuszy ABW, weteranów poszkodowanych-funkcjonariuszy ABW, weteranów-funkcjonariuszy AW i weteranów poszkodowanych-funkcjonariuszy AW, których dysponentami są odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego oraz Szef Agencji Wywiadu.
+szczegółowy tryb występowania z wnioskiem o przyznawanie odznaki,
 
-5. Fundusze na zapomogi tworzy się z uwzględnieniem liczby weteranów-funkcjonariuszy ABW, weteranów poszkodowanych-funkcjonariuszy ABW, weteranów-funkcjonariuszy AW i weteranów poszkodowanych-funkcjonariuszy AW w ramach środków budżetowych z części budżetu państwa, których dysponentem jest odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego lub Szef Agencji Wywiadu.
+### 3)
 
-6. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb przyznawania zapomóg, o których mowa w ust. 1, dokumenty stanowiące podstawę ich przyznania oraz sposób przekazywania przyznanych zapomóg. W rozporządzeniu uwzględnia się konieczność zapewnienia równego dostępu do tego świadczenia wszystkim uprawnionym.
+osoby uprawnione do występowania z wnioskiem o przyznanie odznaki,
 
-#### Rozdział 5 Uprawnienia pracownicze
+### 4)
 
-**Art. 33.**
+rodzaje, wzór i sposób noszenia odznaki,
 
-1. Weteran poszkodowany korzysta z pierwszeństwa w zatrudnieniu odpowiednio w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych na stanowiskach odpowiadających jego wykształceniu, wiedzy i sprawności psychofizycznej.
+### 5)
 
-2. W przypadku zbiegu prawa do tego samego uprawnienia na podstawie odrębnych przepisów, przysługuje tylko jedno z nich, według wyboru uprawnionego.
+szczegółowe warunki tworzenia i dysponowania funduszem przeznaczonym na odznakę,
 
-**Art. 34.** Okresy udziału weterana oraz weterana poszkodowanego w działaniach poza granicami państwa wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+### 6)
 
-**Art. 35.**
+wysokość i sposób ustalania wysokości funduszu przeznaczonego na odznakę,
 
-1. Weteranowi oraz weteranowi poszkodowanemu pozostającym w stosunku pracy przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni w roku kalendarzowym.
+### 7)
 
-2. Wymiar urlopu dla weterana oraz weterana poszkodowanego zatrudnionych w niepełnym wymiarze czasu pracy ustala się proporcjonalnie do wymiaru czasu pracy. Niepełny dzień urlopu zaokrągla się w górę do pełnego dnia.
+komórkę organizacyjną Ministerstwa Obrony Narodowej właściwą do ewidencjonowania, zakupu oraz dystrybucji odznaki
 
-3. Urlop, o którym mowa w ust. 1 i 2, nie przysługuje weteranowi oraz weteranowi poszkodowanemu uprawnionym do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni na podstawie odrębnych ustaw.
+- o której mowa w ust. 1.
 
-4. Prawo do pierwszego dodatkowego urlopu, o którym mowa w ust. 1 i 2, powstaje z dniem, w którym decyzja administracyjna o przyznaniu statusu weterana lub weterana poszkodowanego stała się ostateczna, przy czym realizacja tego prawa może nastąpić niewcześniej niż z dniem przedstawienia pracodawcy tej decyzji.
+### 5.
 
-5. Dodatkowy urlop, o którym mowa w ust. 1 i 2, wykorzystuje się w całości w roku kalendarzowym, w którym weteran oraz weteran poszkodowany pozostający w stosunku pracy mają do niego prawo, w terminie uzgodnionym z pracodawcą. Za niewykorzystany urlop nie przysługuje ekwiwalent pieniężny.
+W rozporządzeniu, o którym mowa w ust. 4, należy uwzględnić kryteria przyznawania wojskowej odznaki „Za Rany i Kontuzje”, obejmujące przede wszystkim okoliczności odniesienia ran i kontuzji oraz ich związek z wykonywaniem czynności służbowych, a także ilość i stopień obrażeń, jakie w wyniku ran i kontuzji poniósł weteran poszkodowany-żołnierz, potwierdzonych orzeczeniem właściwej wojskowej komisji lekarskiej.
 
-6. Do dodatkowego urlopu, o którym mowa w ust. 1 i 2, stosuje się odpowiednio przepisy art. 154 , art. 172 oraz art. 172 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
+### Art. 17.
 
-#### Rozdział 6 Dodatek weterana poszkodowanego
+### 1.
 
-**Art. 36.**
+Ustanawia się odznakę honorową „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”.
 
-1. Weteran poszkodowany ma prawo do dodatku weterana poszkodowanego od miesiąca złożenia wniosku do właściwego organu emerytalnorentowego.
+### 2.
 
-2. Do wniosku, o którym mowa w ust. 1, załącza się decyzję o przyznaniu statusu weterana poszkodowanego albo jej odpis.
+Minister właściwy do spraw wewnętrznych może nadać weteranowi-funkcjonariuszowi oraz weteranowi poszkodowanemu-funkcjonariuszowi za zasługi podczas działań poza granicami państwa odznakę honorową „Za zasługi w działaniach poza granicami Rzeczypospolitej Polskiej”.
 
-3. Wniosek zawiera:
+### 3.
 
-- **1)** imię i nazwisko zainteresowanego;
-- **2)** imiona rodziców;
-- **3)** datę i miejsce urodzenia;
-- **4)** adres zamieszkania i adres do korespondencji;
-- **5)** numer PESEL;
-- **6)** wskazanie świadczenia, o które ubiega się zainteresowany;
-- **7)** podpis zainteresowanego lub jego pełnomocnika.
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-4. Podstawę wymiaru dodatku weterana poszkodowanego stanowi najniższa emerytura.
+### 1)
 
-5. Wysokość dodatku weterana poszkodowanego jest uzależniona od ustalonego procentu uszczerbku na zdrowiu doznanego wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa, z tytułu których przyznano świadczenia odszkodowawcze, i wynosi w przedziale:
+tryb postępowania w sprawach o nadanie odznaki, osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku,
 
-- **1)** od 1 % do 9 % uszczerbku – 5 % podstawy wymiaru;
-- **2)** od 10 % do 20 % uszczerbku – 10 % podstawy wymiaru;
-- **3)** od 21 % do 30 % uszczerbku – 20 % podstawy wymiaru;
-- **4)** od 31 % do 40 % uszczerbku – 40 % podstawy wymiaru;
-- **5)** od 41 % do 50 % uszczerbku – 50 % podstawy wymiaru;
-- **6)** od 51 % do 60 % uszczerbku – 80 % podstawy wymiaru;
-- **7)** od 61 % do 70 % uszczerbku – 100 % podstawy wymiaru;
-- **8)** od 71 % do 80 % uszczerbku – 110 % podstawy wymiaru;
-- **9)** od 81 % do 90 % uszczerbku – 120 % podstawy wymiaru;
-- **10)** powyżej 90 % uszczerbku – 130 % podstawy wymiaru.
+### 2)
 
-5a. Kwotę dodatku weterana poszkodowanego ustala w przypadku:
+wzór odznaki, wzór wniosku o nadanie odznaki - zawierający informację uzasadniającą jej nadanie - oraz wzór legitymacji potwierdzającej nadanie odznaki,
 
-- **1)** weterana poszkodowanego pobierającego emeryturę lub rentę inwalidzką, lub rentę rodzinną – właściwy organ emerytalno-rentowy wypłacający świadczenie,
-- **2)** weterana poszkodowanego-żołnierza nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej – dyrektor Wojskowego Biura Emerytalnego w Warszawie,
-- **3)** weterana poszkodowanego-funkcjonariusza, weterana poszkodowanegofunkcjonariusza ABW i weterana poszkodowanego-funkcjonariusza AW nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej – organ emerytalny określony przez ministra właściwego do spraw wewnętrznych na podstawie art. 32 ust. 2a ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin – na podstawie decyzji organu przyznającego status weterana poszkodowanego.
+### 3)
 
-5b. W przypadku ustalenia prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej wraz z ustaleniem i wypłatą dodatku weterana poszkodowanego właściwy organ emerytalno-rentowy przesyła informację o tym fakcie do organów emerytalnorentowych, o których mowa w ust. 5a pkt 2 i 3. Informacja zawiera imię, nazwisko i numer PESEL weterana poszkodowanego, a w przypadku osób nieposiadających numeru PESEL – imię, nazwisko oraz serię i numer dokumentu potwierdzającego tożsamość.
+sposób wręczenia i noszenia odznaki,
 
-5c. Obowiązek określony w ust. 5b spoczywa również na weteranie poszkodowanym.
+### 4)
 
-6. Dodatek weterana poszkodowanego podlega waloryzacji poprzez ponowne obliczenie jego wysokości od kwoty najniższej emerytury, przy zastosowaniu właściwej dla ustalonego procentu uszczerbku na zdrowiu, stawki procentowej podstawy wymiaru, określonej w ust. 5.
+sposób ewidencjonowania informacji o osobach wyróżnionych odznaką
 
-7. Waloryzacji, o której mowa w ust. 6, dokonuje właściwy do wypłaty dodatku weterana poszkodowanego organ emerytalno-rentowy w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+- mając na uwadze sprawne przeprowadzanie postępowania, ujednolicenie sposobu składania wniosków oraz zapewnienie przyznawania odznaki osobom szczególnie zasłużonym.
 
-8. W przypadku zbiegu prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej przyznawanych na podstawie odrębnych przepisów przysługuje tylko jeden dodatek weterana poszkodowanego.
+### Art. 18.
 
-8a. Osoba, która nienależnie pobrała dodatek weterana poszkodowanego, jest obowiązana do jego zwrotu wraz z odsetkami ustawowymi za opóźnienie na zasadach określonych w art. 138 i art. 138a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+### 1.
 
-9. Dodatek weterana poszkodowanego jest wypłacany weteranowi poszkodowanemu pobierającemu emeryturę lub rentę inwalidzką, lub rentę rodzinną wraz z tymi świadczeniami oraz w terminie i trybie dla nich określonych, a w przypadku wypłaty dodatku po raz pierwszy – w najbliższym terminie płatności emerytury lub renty inwalidzkiej, lub renty rodzinnej albo w następnym terminie płatności, jeżeli wniosek, o którym mowa w ust. 1, został złożony na 14 dni przed upływem terminu płatności emerytury lub renty inwalidzkiej, lub renty rodzinnej.
+Ustanawia się odznakę honorową „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej”.
 
-9a. W przypadku weterana poszkodowanego nieposiadającego prawa do emerytury lub renty inwalidzkiej, lub renty rodzinnej dodatek weterana poszkodowanego wypłaca właściwy organ emerytalno-rentowy, o którym mowa w ust. 5a pkt 2 i 3, kwartalnie, w trzecim miesiącu kwartału.
+### 2.
 
-9b. Na wniosek weterana poszkodowanego zamieszkałego za granicą dodatek weterana poszkodowanego wypłaca się na rachunek bankowy w państwie zamieszkania tej osoby w terminie ustalonym przez organ emerytalno-rentowy i na zasadach określonych w art. 132 ust. 1 i 1a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. Wypłata jest dokonywana w walucie wymienialnej według kursu tej waluty obowiązującego w dniu dokonywania przeliczenia przez organ emerytalno-rentowy. Wartość waluty określa się zgodnie z art. 358 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+Prezes Rady Ministrów może nadać weteranowi-funkcjonariuszowi ABW oraz weteranowi poszkodowanemu-funkcjonariuszowi ABW za zasługi podczas zapewniania bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej odznakę honorową „Za zasługi w zapewnianiu bezpieczeństwa państwa poza granicami Rzeczypospolitej Polskiej”.
 
-10. W przypadku zawieszenia wypłaty emerytury lub renty właściwy organ emerytalno-rentowy wypłaca dodatek weterana poszkodowanego kwartalnie, w trzecim miesiącu kwartału.
+### 3.
 
-11. Organ emerytalno-rentowy, o którym mowa w ust. 5a, jest uprawniony do przetwarzania danych osobowych w zakresie niezbędnym do ustalania i wypłaty dodatku weterana poszkodowanego.
+Prezes Rady Ministrów określi, w drodze rozporządzenia:
 
-12. Do przetwarzania danych osobowych dotyczących weteranów poszkodowanych mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie do przetwarzania takich danych wydane przez administratora danych. Osoby upoważnione do przetwarzania takich danych są zobowiązane do zachowania ich w poufności.
+### 1)
 
-#### Rozdział 6a Rekompensata
+tryb postępowania w sprawach o nadanie odznaki, osoby uprawnione do występowania z wnioskiem o jej nadanie oraz termin rozpatrzenia wniosku,
 
-**Art. 36a.**
+### 2)
 
-1. Weteran poszkodowany może ubiegać się o przyznanie rekompensaty z tytułu krzywd związanych z uszczerbkiem na zdrowiu doznanym wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa, z których tytułu przyznano świadczenia odszkodowawcze, zwanej dalej „rekompensatą”.
+wzór odznaki, wzór wniosku o nadanie odznaki - zawierający informację uzasadniającą jej nadanie - oraz wzór legitymacji potwierdzającej nadanie odznaki,
 
-2. Weteran poszkodowany może otrzymać tylko jedną rekompensatę.
+### 3)
 
-3. O przyznanie rekompensaty weteran poszkodowany może ubiegać się w terminie 2 lat od dnia wydania orzeczenia o uszczerbku na zdrowiu, którego doznał wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa.
+sposób wręczenia i noszenia odznaki,
 
-4. Przez czas trwania postępowania w przedmiocie przyznania statusu weterana poszkodowanego bieg terminu, o którym mowa w ust. 3, ulega zawieszeniu.
+### 4)
 
-**Art. 36b.**
+sposób ewidencjonowania informacji o osobach wyróżnionych odznaką
 
-1. Rekompensatę przyznaje się w wysokości 6000 zł za każdy 1 % uszczerbku na zdrowiu, o którym mowa w art. 36a ust. 1.
+- mając na uwadze sprawne przeprowadzanie postępowania, ujednolicenie sposobu składania wniosków oraz zapewnienie przyznawania odznaki osobom szczególnie zasłużonym.
 
-2. Wysokość uszczerbku na zdrowiu, o którym mowa w art. 36a ust. 1, ustala się na podstawie informacji, o której mowa w art. 5 ust. 2 pkt 1, zawartej w decyzji o przyznaniu statusu weterana poszkodowanego, w brzmieniu obowiązującym w dniu przyznania rekompensaty.
+### Art. 19.
 
-3. Kwota, o której mowa w ust. 1, podlega corocznie waloryzacji od dnia 1 marca. Wskaźnikiem waloryzacji jest średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem w poprzednim roku kalendarzowym zgodnie z komunikatem Prezesa Głównego Urzędu Statystycznego, o którym mowa w art. 94 ust. 1 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+### 1.
 
-4. Waloryzacja, o której mowa w ust. 3, polega na pomnożeniu kwoty, o której mowa w ust. 1, przez wskaźnik waloryzacji, z uwzględnieniem jej wcześniejszych waloryzacji. Kwota ustalona w wyniku przeprowadzonej waloryzacji zostaje zaokrąglona do pełnych setek złotych w górę.
+Weteran lub weteran poszkodowany, będący żołnierzem rezerwy lub w stanie spoczynku, ma prawo do noszenia umundurowania oraz odznak i oznak wojskowych w przypadkach i w sposób określony w przepisach wydanych odpowiednio na podstawie art. 50 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych ([Dz. U. z 2010 r. Nr 90, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/2010/593/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016.](#gloss-0:16:)) oraz art. 67 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej.
 
-5. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego i Szef Agencji Wywiadu informację o kwocie rekompensaty ogłaszają, w drodze komunikatu, każdy w swoim dzienniku urzędowym, do dnia 1 marca każdego roku.
+### 2.
 
-**Art. 36c.**
+Weteran poszkodowany-żołnierz zwolniony z czynnej służby wojskowej, któremu w czasie pełnienia służby nie przysługiwały należności umundurowania i wyekwipowania wyjściowego, ma prawo do jednorazowego bezpłatnego otrzymania takiego umundurowania i wyekwipowania.
 
-1. Postępowanie w sprawie przyznania rekompensaty, zwane dalej „postępowaniem”, wszczyna na pisemny wniosek:
+### 3.
 
-- **1)** weterana poszkodowanego-żołnierza – Minister Obrony Narodowej;
-- **2)** weterana poszkodowanego-funkcjonariusza – minister właściwy do spraw wewnętrznych;
-- **3)** weterana poszkodowanego-funkcjonariusza ABW – Szef Agencji Bezpieczeństwa Wewnętrznego;
-- **4)** weterana poszkodowanego-funkcjonariusza AW – Szef Agencji Wywiadu.
+Minister Obrony Narodowej określi, w drodze rozporządzenia, normy umundurowania i wyekwipowania wyjściowego weteranów poszkodowanych-żołnierzy oraz tryb postępowania i organy właściwe w sprawach wydawania umundurowania, uwzględniając w szczególności specyfikę umundurowania i wyekwipowania poszczególnych rodzajów wojsk i służb.
 
-2. Przez czas trwania postępowania bieg przedawnienia roszczeń o zadośćuczynienie związane z uszczerbkiem na zdrowiu, którego to uszczerbku dotyczy wniosek o rekompensatę, nie rozpoczyna się, a rozpoczęty – ulega zawieszeniu.
+### Art. 20.
 
-**Art. 36d.**
+### 1.
 
-1. Wniosek o przyznanie rekompensaty zawiera:
+Weteran i weteran poszkodowany ma prawo do zwrotu kosztów przejazdu, z uwzględnieniem przysługujących mu ulg w tym zakresie, i zakwaterowania, poniesionych w związku z udziałem w uroczystościach organizowanych odpowiednio przez:
 
-- **1)** imię i nazwisko weterana poszkodowanego;
-- **2)** numer PESEL weterana poszkodowanego;
-- **3)** adres zamieszkania i adres do korespondencji weterana poszkodowanego;
-- **4)** serię i numer legitymacji weterana poszkodowanego;
-- **5)** podpis weterana poszkodowanego lub jego pełnomocnika.
+### 1)
 
-2. Weteran poszkodowany może podać we wniosku, o którym mowa w ust. 1, numer telefonu kontaktowego.
+Ministra Obrony Narodowej,
 
-3. Do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie, że:
+### 2)
 
-- **1)** w związku z wypadkiem lub chorobą, na skutek których żądana jest rekompensata, weteran poszkodowany nie uzyskał zadośćuczynienia lub innego świadczenia finansowego od sprawcy czynu powodującego krzywdę lub od podmiotu innego niż sprawca czynu powodującego krzywdę;
-- **2)** w sprawie, która jest objęta wnioskiem, sąd w postępowaniu karnym nie orzekł na rzecz weterana poszkodowanego zadośćuczynienia za doznaną krzywdę;
-- **3)** w sprawie, która jest objęta wnioskiem, nie został wydany prawomocny wyrok ani nie zawarto ugody w sprawie o zadośćuczynienie lub nie toczy się postępowanie sądowe w sprawie o zadośćuczynienie.
+dowódców jednostek wojskowych,
 
-4. Jeżeli weteran poszkodowany uzyskał świadczenia, o których mowa w ust. 3 pkt 1, lub zaistniały okoliczności, o których mowa w ust. 3 pkt 2 lub 3, do wniosku dołącza się kopie dokumentów potwierdzających te fakty.
+### 3)
 
-5. Oświadczenia, o których mowa w ust. 3, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+ministra właściwego do spraw wewnętrznych,
 
-6. Jeżeli wniosek jest niekompletny lub nieprawidłowo wypełniony, to w ramach prowadzonego postępowania odpowiednio Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego albo Szef Agencji Wywiadu wzywają weterana poszkodowanego do uzupełnienia tego wniosku w terminie 14 dni od dnia doręczenia wezwania i wskazują stwierdzone w nim braki formalne, które uniemożliwiają rozpoznanie wniosku, pod rygorem pozostawienia go bez rozpoznania.
+### 4)
 
-**Art. 36e.**
+Szefa Agencji Bezpieczeństwa Wewnętrznego,
 
-1. Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego albo Szef Agencji Wywiadu rozpatrują sprawę niepóźniej niż w terminie 2 miesięcy od dnia otrzymania kompletnego i prawidłowo wypełnionego wniosku.
+### 5)
 
-2. Po rozpatrzeniu sprawy właściwy organ, o którym mowa w ust. 1, przesyła weteranowi poszkodowanemu:
+Szefa Agencji Wywiadu,
 
-- **1)** rozstrzygnięcie w przedmiocie rekompensaty;
-- **2)** informację, że konieczne jest złożenie oświadczenia o przyjęciu rekompensaty albo o rezygnacji z rekompensaty, oraz pouczenie o terminie do złożenia oświadczenia oraz o skutkach złożenia albo niezłożenia oświadczenia zgodnie z art. 36h, a także o dopuszczalności wniesienia skargi do sądu administracyjnego.
+### 6)
 
-3. Weteran poszkodowany niezadowolony z rozstrzygnięcia ma prawo do wniesienia skargi do sądu administracyjnego za pośrednictwem organu, który wydał rozstrzygnięcie.
+Komendanta Głównego Policji,
 
-**Art. 36f.**
+### 7)
 
-1. Postępowania nie wszczyna się, a wszczęte – umarza także w przypadku, gdy w związku z uszczerbkiem na zdrowiu doznanym wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych poza granicami państwa:
+właściwego miejscowo komendanta wojewódzkiego Policji,
 
-- **1)** wydano prawomocny wyrok albo zawarto ugodę w sprawie o zadośćuczynienie;
-- **2)** toczy się postępowanie sądowe w sprawie o zadośćuczynienie;
-- **3)** weteran poszkodowany uzyskał zadośćuczynienie lub inne świadczenie finansowe od sprawcy czynu powodującego krzywdę lub od podmiotu innego niż sprawca czynu powodującego krzywdę;
-- **4)** sąd w postępowaniu karnym orzekł na rzecz weterana poszkodowanego zadośćuczynienie za doznaną krzywdę.
+### 8)
 
-2. Prawo do rekompensaty wygasa z dniem śmierci weterana poszkodowanego.
+Komendanta Głównego Straży Granicznej,
 
-**Art. 36g.** Administratorem danych osobowych, które są zawarte w dokumentacji zgromadzonej lub sporządzonej w związku z postępowaniem wszczętym na wniosek:
+### 9)
 
-**Art. 36h.**
+komendantów oddziałów lub ośrodków szkolenia Straży Granicznej,
 
-1. Weteran poszkodowany składa odpowiednio Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego albo Szefowi Agencji Wywiadu oświadczenie o przyjęciu rekompensaty albo o rezygnacji z rekompensaty w terminie 30 dni od dnia doręczenia rozstrzygnięcia o wysokości przysługującej rekompensaty, chyba że wniósł skargę do sądu administracyjnego.
+### 10)
 
-2. W przypadku wniesienia do sądu administracyjnego skargi na rozstrzygnięcie o wysokości przysługującej rekompensaty termin na złożenie wybranego oświadczenia liczy się od dnia prawomocnego oddalenia skargi albo ponownego rozpatrzenia sprawy przez właściwy organ.
+Szefa Biura Ochrony Rządu,
 
-3. Warunkiem wypłaty rekompensaty jest złożenie oświadczenia o przyjęciu rekompensaty.
+### 11)
 
-4. Złożenie oświadczenia o przyjęciu rekompensaty jest równoznaczne ze zrzeczeniem się przez weterana poszkodowanego wszelkich roszczeń o zadośćuczynienie związane z uszczerbkiem na zdrowiu, o którym mowa w art. 36a ust. 1.
+kierownika jednostki organizacyjnej Państwowej Straży Pożarnej
 
-5. Oświadczenie o przyjęciu rekompensaty zawiera informację o formie wypłaty rekompensaty wraz ze wskazaniem rachunku bankowego albo adresu do wypłaty.
+- na które został zaproszony w charakterze uczestnika działań poza granicami państwa.
 
-6. Złożenie oświadczenia o rezygnacji z rekompensaty albo niezłożenie żadnego z oświadczeń w terminie, o którym mowa w ust. 1, jest równoznaczne ze zrzeczeniem się przez weterana poszkodowanego rekompensaty oraz wygaśnięciem rozstrzygnięcia o jej przyznaniu.
+### 2.
 
-7. Do przywrócenia terminu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 58 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z tym że prośbę o przywrócenie terminu należy wnieść w ciągu 30 dni od dnia ustania przyczyny uchybienia terminu.
+Zwrot kosztów, o których mowa w ust. 1, przysługuje za udział w nie więcej niż dwóch uroczystościach w danym roku kalendarzowym, łącznie do wysokości najniższej emerytury.
 
-**Art. 36i.** Przyznana kwota rekompensaty nie podlega waloryzacji.
+### 3.
 
-**Art. 36j.**
+Zwrotu kosztów dokonuje odpowiednio podmiot, o którym mowa w ust. 1, na którego zaproszenie weteran lub weteran poszkodowany przyjechał, po złożeniu przez niego wniosku oraz oświadczenia o wysokości kosztów przejazdu i przedstawieniu oryginału rachunku za zakwaterowanie.
 
-1. Rekompensata jest wypłacana w terminie 14 dni od dnia doręczenia właściwemu organowi przyznającemu rekompensatę oświadczenia, o którym mowa w art. 36h ust. 1, o przyjęciu rekompensaty wynikającej z rozstrzygnięcia, o którym mowa w art. 36e ust. 2 pkt 1.
+### Art. 21.
 
-2. Rekompensatę wypłaca się ze środków budżetu państwa z części pozostającej w dyspozycji:
+### 1.
 
-- **1)** Ministra Obrony Narodowej – dla weteranów poszkodowanych-żołnierzy;
-- **2)** ministra właściwego do spraw wewnętrznych – dla weteranów poszkodowanych-funkcjonariuszy;
-- **3)** Szefa Agencji Bezpieczeństwa Wewnętrznego – dla weteranów poszkodowanych-funkcjonariuszy ABW;
-- **4)** Szefa Agencji Wywiadu – dla weteranów poszkodowanych-funkcjonariuszy AW.
+Zmarłemu weteranowi-żołnierzowi i zmarłemu weteranowi poszkodowanemu-żołnierzowi przysługuje wojskowa asysta honorowa podczas pogrzebu na terytorium Rzeczypospolitej Polskiej.
 
-#### Rozdział 7 Źródła i sposób finansowania niektórych świadczeń
+### 2.
 
-**Art. 37.**
+Zmarłemu weteranowi-funkcjonariuszowi i weteranowi-funkcjonariuszowi ABW oraz zmarłemu weteranowi poszkodowanemu-funkcjonariuszowi i zmarłemu weteranowi poszkodowanemu-funkcjonariuszowi ABW przysługuje asysta honorowa podczas pogrzebu na terytorium Rzeczypospolitej Polskiej.
 
-1. Dodatek weterana poszkodowanego, w wysokości ustalonej na zasadach określonych w art. 36, wypłaca właściwy organ emerytalno-rentowy ze środków będących w dyspozycji tego organu.
+### 3.
 
-2. Dodatek, o którym mowa w ust. 1, jest finansowany ze środków budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej – w odniesieniu do weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy, z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy ABW oraz z części pozostającej w dyspozycji Szefa Agencji Wywiadu – w odniesieniu do weteranów poszkodowanych-funkcjonariuszy AW.
+Asystę, o której mowa w ust. 1 i 2, przydziela się po przesłaniu przez najbliższego członka rodziny weterana lub weterana poszkodowanego informacji o jego śmierci.
 
-3. W przypadku wypłaty dodatku weterana poszkodowanego przez Zakład Ubezpieczeń Społecznych lub Kasę Rolniczego Ubezpieczenia Społecznego, świadczenie to wraz z odsetkami za opóźnienie w ustaleniu prawa do niego lub jego wypłaty oraz koszty obsługi są finansowane ze środków budżetu państwa.
+### 4.
 
-**Art. 38.** Świadczenia określone w ustawie, inne niż wymienione w art. 37 ust. 1, są finansowane ze środków budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej – w odniesieniu do weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych – w odniesieniu do weteranów-funkcjonariuszy i weteranów poszkodowanych-funkcjonariuszy, z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego – w odniesieniu do weteranów-funkcjonariuszy ABW i weteranów poszkodowanych-funkcjonariuszy ABW oraz z części pozostającej w dyspozycji Szefa Agencji Wywiadu – w odniesieniu do weteranów-funkcjonariuszy AW i weteranów poszkodowanych-funkcjonariuszy AW.
+Informację przesyła się odpowiednio do:
 
-**Art. 38a.**
+### 1)
 
-1. Minister Obrony Narodowej prowadzi bazę weteranów i weteranów poszkodowanych oraz przetwarza dane, o których mowa w ust. 2, w celu realizacji uprawnień tych osób, wynikających z ustawy.
+dowódcy garnizonu właściwego terytorialnie ze względu na miejsce pochówku weterana-żołnierza lub weterana poszkodowanego-żołnierza;
 
-2. W bazie, o której mowa w ust. 1, gromadzone są dane weteranów i weteranów poszkodowanych obejmujące:
+### 2)
 
-- **1)** imię (imiona) i nazwisko;
-- **2)** numer PESEL;
-- **3)** datę i miejsce urodzenia;
-- **4)** adres miejsca zamieszkania lub adres do korespondencji;
-- **5)** numer telefonu kontaktowego;
-- **6)** informacje o udziale w działaniach poza granicami państwa, w tym: nazwę i rodzaj misji pokojowej lub stabilizacyjnej, jej miejsce i okres przebywania na tej misji oraz nazwę zajmowanego stanowiska służbowego lub pełnionej funkcji;
-- **7)** wysokość uszczerbku na zdrowiu, organ wydający orzeczenie oraz numer i datę wydania orzeczenia;
-- **8)** numer i datę protokołu powypadkowego i organ sporządzający protokół;
-- **9)** numer i datę wydania decyzji o przyznaniu świadczeń odszkodowawczych oraz organ wydający decyzję;
-- **10)** numer i datę wydania decyzji o przyznaniu statusu weterana lub weterana poszkodowanego;
-- **11)** datę potwierdzenia doręczenia decyzji o przyznaniu statusu weterana lub weterana poszkodowanego;
-- **12)** numer i datę wydania decyzji pozbawiającej statusu weterana lub weterana poszkodowanego;
-- **13)** wysokość dodatku weterana poszkodowanego, nazwę organu wypłacającego i termin rozpoczęcia wypłaty;
-- **14)** serię i numer legitymacji weterana lub weterana poszkodowanego oraz datę jej wydania;
-- **15)** datę potwierdzenia odbioru legitymacji weterana lub weterana poszkodowanego;
-- **16)** numer i datę wydania decyzji przyznającej weteranowi poszkodowanemu pomoc na naukę, wysokość przyznanej pomocy i datę jej wypłaty;
-- **17)** nazwę organu wypłacającego pomoc finansową na naukę;
-- **18)** numer i datę wydania decyzji wstrzymującej wypłatę pomocy finansowej na naukę;
-- **19)** numer i datę wydania decyzji o przyznaniu zapomogi weteranowi lub weteranowi poszkodowanemu, datę wypłaty zapomogi, jej wysokość i nazwę organu wypłacającego;
-- **20)** wysokość zwrotu kosztów udziału w uroczystościach oraz nazwę podmiotu zapraszającego do udziału w uroczystości;
-- **21)** wysokość przyznanej rekompensaty.
+komendanta wojewódzkiego Policji, kierownika jednostki organizacyjnej Straży Granicznej, Szefa Biura Ochrony Rządu albo kierownika jednostki organizacyjnej Państwowej Straży Pożarnej, właściwych terytorialnie ze względu na miejsce pochówku weterana-funkcjonariusza lub weterana poszkodowanego-funkcjonariusza;
 
-3. Dane, o których mowa w ust. 2 pkt 3–5, są gromadzone na podstawie informacji zawartej we wniosku o przyznanie statusu weterana lub weterana poszkodowanego.
+### 3)
 
-4. Dane, o których mowa w ust. 2, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych.
+Szefa Agencji Bezpieczeństwa Wewnętrznego - w przypadku pochówku weterana-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza ABW.
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+### 5.
 
-#### Rozdział 9 Przepisy końcowe
+W przypadku śmierci samotnego weterana lub weterana poszkodowanego informację, o której mowa w ust. 3, może przesłać organizacja pozarządowa zrzeszająca weteranów-żołnierzy, weteranów-funkcjonariuszy albo weteranów-funkcjonariuszy ABW.
 
-**Art. 45.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia .
+### Rozdział 3 Świadczenia opieki zdrowotnej i pomoc psychologiczna
 
+### Art. 22.
+
+### 1.
+
+Realizację uprawnień wynikających z art. 24b, art. 24c, art. 44 ust. 1c, art. 47 ust. 2a oraz art. 57 ust. 2 pkt 13 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych monitoruje i koordynuje organ wskazany w art. 98 ust. 1 pkt 2 tej ustawy.
+
+### 2.
+
+Organ, o którym mowa w ust. 1, przekazuje raz na kwartał informację o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej określonych w ust. 1 odpowiednio do:
+
+### 1)
+
+Ministra Obrony Narodowej - w odniesieniu do weteranów poszkodowanych-żołnierzy;
+
+### 2)
+
+ministra właściwego do spraw wewnętrznych - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy;
+
+### 3)
+
+Szefa Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy ABW.
+
+### 3.
+
+Prezes Rady Ministrów, po zasięgnięciu opinii organu, o którym mowa w ust. 1, określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób i tryb postępowania w zakresie monitorowania realizacji świadczeń opieki zdrowotnej weteranów poszkodowanych-funkcjonariuszy ABW,
+
+### 2)
+
+podmiot prowadzący w jego imieniu monitoring i analizę informacji, o których mowa w ust. 2 pkt 3
+
+- uwzględniając zakres informacji gromadzonych przez świadczeniodawców w rejestrze świadczeń oraz składanie sprawozdań z monitoringu i analizy informacji o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom ABW.
+
+### 4.
+
+Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii organu, o którym mowa w ust. 1, określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób i tryb postępowania w zakresie monitorowania realizacji świadczeń opieki zdrowotnej weteranów poszkodowanych-żołnierzy,
+
+### 2)
+
+podmiot prowadzący w jego imieniu monitoring i analizę informacji, o których mowa w ust. 2 pkt 1
+
+- uwzględniając zakres informacji gromadzonych przez świadczeniodawców w rejestrze świadczeń oraz składanie sprawozdań z monitoringu i analizy informacji o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-żołnierzom.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii organu, o którym mowa w ust. 1, określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób i tryb postępowania w zakresie monitorowania realizacji świadczeń opieki zdrowotnej weteranów poszkodowanych-funkcjonariuszy,
+
+### 2)
+
+podmiot prowadzący w jego imieniu monitoring i analizę informacji, o których mowa w ust. 2 pkt 2
+
+- uwzględniając zakres informacji gromadzonych przez świadczeniodawców w rejestrze świadczeń oraz składanie sprawozdań z monitoringu i analizy informacji o realizacji indywidualnego prawa do świadczeń opieki zdrowotnej udzielanych weteranom poszkodowanym-funkcjonariuszom.
+
+### Art. 23.
+
+### 1.
+
+Weteran-żołnierz lub weteran poszkodowany-żołnierz oraz najbliżsi członkowie jego rodziny mają prawo poza kolejnością do bezpłatnej pomocy psychologicznej udzielanej przez psychologów w jednostkach wojskowych oraz przez wojskowe pracownie psychologiczne, a także udzielanej w zakładach opieki zdrowotnej utworzonych i nadzorowanych przez Ministra Obrony Narodowej, jeżeli problemy zdrowotne żołnierza są związane z działaniami poza granicami państwa.
+
+### 2.
+
+Weteran-funkcjonariusz lub weteran poszkodowany-funkcjonariusz oraz najbliżsi członkowie jego rodziny mają prawo poza kolejnością do bezpłatnej pomocy psychologicznej udzielanej w zakładach opieki zdrowotnej utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, jeżeli problemy zdrowotne funkcjonariusza są związane z działaniami poza granicami państwa.
+
+### 3.
+
+Weteran-funkcjonariusz ABW lub weteran poszkodowany-funkcjonariusz ABW oraz najbliżsi członkowie jego rodziny mają prawo poza kolejnością do bezpłatnej pomocy psychologicznej udzielanej w zakładach opieki zdrowotnej utworzonych przez Szefa Agencji Bezpieczeństwa Wewnętrznego, jeżeli problemy zdrowotne funkcjonariusza są związane z działaniami poza granicami państwa.
+
+### 4.
+
+Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w zakresie swojej właściwości, określi, w drodze rozporządzenia:
+
+### 1)
+
+tryb udzielania i zakres pomocy psychologicznej,
+
+### 2)
+
+sposób i tryb postępowania w zakresie monitorowania realizacji prawa weteranów poszkodowanych do pomocy, o której mowa w ust. 1-3, oraz właściwość organów w tym zakresie
+
+- mając na względzie zapewnienie sprawnego dostępu do korzystania z pomocy psychologicznej oraz jej realizację adekwatną do potrzeb weteranów.
+
+### Art. 24.
+
+### 1.
+
+Weteran i weteran poszkodowany mają prawo do umieszczenia poza kolejnością w Domu Weterana, funkcjonującego jako zakład opiekuńczo-leczniczy w ramach zakładu opieki zdrowotnej albo jako inna jednostka organizacyjna takiego zakładu, i odpłatnego w nim pobytu, na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z zastrzeżeniem art. 25.
+
+### 2.
+
+Weterana i weterana poszkodowanego umieszcza się w Domu Weterana w trybie określonym w przepisach wydanych na podstawie art. 33a ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+### 3.
+
+Pobyt, o którym mowa w ust. 1, może być dofinansowany ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej - w odniesieniu do weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy.
+
+### 4.
+
+Weteranowi-funkcjonariuszowi i weteranowi-funkcjonariuszowi ABW oraz weteranowi poszkodowanemu-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi ABW może zostać udzielona zapomoga ze środków budżetu państwa, z części pozostającej odpowiednio w dyspozycji ministra właściwego do spraw wewnętrznych oraz z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu, na pobyt w Domu Weterana.
+
+### 5.
+
+Tworzy się fundusze na zapomogi, o których mowa w ust. 4, których dysponentami są odpowiednio minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego oraz Szef Agencji Wywiadu.
+
+### 6.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki i tryb przyznawania zapomogi weteranowi-funkcjonariuszowi ABW i weteranowi poszkodowanemu-funkcjonariuszowi ABW na pobyt w Domu Weterana, dokumenty stanowiące podstawę jej przyznania, sposób przekazywania zapomogi oraz sposób tworzenia funduszu na zapomogi, biorąc pod uwagę konieczność zapewnienia równego dostępu do tych świadczeń wszystkim uprawnionym oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+
+### 7.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób dofinansowania pobytu weterana-żołnierza i weterana poszkodowanego-żołnierza w Domu Weterana, biorąc pod uwagę konieczność zapewnienia równego dostępu do tych świadczeń wszystkim uprawnionym oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+
+### 8.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb przyznawania zapomogi weteranowi-funkcjonariuszowi i weteranowi poszkodowanemu-funkcjonariuszowi na pobyt w Domu Weterana, dokumenty stanowiące podstawę jej przyznania, sposób przekazywania zapomogi oraz sposób tworzenia funduszu na zapomogi, biorąc pod uwagę konieczność zapewnienia równego dostępu do tych świadczeń wszystkim uprawnionym oraz uwzględniając rzeczywiste koszty pobytu w Domu Weterana.
+
+### Art. 25.
+
+W uzasadnionych przypadkach do Domu Weterana może być skierowany weteran poszkodowany, na podstawie opinii konsultanta ochrony zdrowia, o którym mowa w art. 5 ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia ([Dz. U. z 2009 r. Nr 52, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2009/419/text.html) i [Nr 76, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html), z [2010 r. Nr 107, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2010/679/text.html) oraz z [2011 r. Nr 112, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/2011/654/text.html)), niezależnie od oceny jego skali samodzielności określanej stosownie do przepisów wykonawczych wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+### Rozdział 4 Pomoc w finansowaniu nauki i uprawnienia socjalne
+
+### Art. 26.
+
+### 1.
+
+Weteran poszkodowany-żołnierz ma prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+
+### 1)
+
+naukę na poziomie szkoły ponadgimnazjalnej;
+
+### 2)
+
+studia pierwszego stopnia;
+
+### 3)
+
+studia drugiego stopnia;
+
+### 4)
+
+jednolite studia magisterskie;
+
+### 5)
+
+studia podyplomowe.
+
+### 2.
+
+W ramach pomocy, o której mowa w ust. 1, mogą być pokryte koszty:
+
+### 1)
+
+opłaty za naukę lub studia;
+
+### 2)
+
+przejazdów z miejsca zamieszkania weterana poszkodowanego-żołnierza do szkoły lub uczelni i z powrotem;
+
+### 3)
+
+zakwaterowania w miejscowości, w której weteran poszkodowany-żołnierz pobiera naukę lub odbywa studia.
+
+### 3.
+
+Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-żołnierza form kształcenia do wysokości 400% najniższej emerytury.
+
+### 4.
+
+Wysokość pomocy finansowej, o której mowa w ust. 3, przysługuje na każdy rok szkolny lub akademicki przez cały czas trwania nauki lub studiów, nie dłużej niż w wymiarze określonym w programie nauczania lub w programie studiów.
+
+### 5.
+
+Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50% pełnej stawki określonej w ust. 3.
+
+### 6.
+
+W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-żołnierza powodującymi konieczność przerwania nauki lub studiów, wypłata pomocy finansowej ulega zawieszeniu, na wniosek zainteresowanego, do czasu ustania przyczyny przerwania nauki lub studiów.
+
+### 7.
+
+Poniesione przez organ koszty nauki lub studiów oraz przejazdów i zakwaterowania podlegają zwrotowi w przypadku nieukończenia nauki lub studiów z przyczyn leżących po stronie weterana poszkodowanego-żołnierza w terminie określonym w programie nauczania lub w programie studiów, z wyjątkiem przyczyn nieukończenia nauki lub studiów, o których mowa w ust. 6. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+
+### 8.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb przyznawania pomocy, o której mowa w ust. 1, oraz właściwość organów w tym zakresie, dokumenty stanowiące podstawę jej przyznawania oraz sposób i termin jej wypłaty, a także warunki zawieszania jej udzielania oraz zwrotu kosztów nauki lub studiów, przejazdów i zakwaterowania. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+
+### Art. 27.
+
+### 1.
+
+Weteran poszkodowany-funkcjonariusz zwolniony ze służby ma prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+
+### 1)
+
+studia pierwszego stopnia;
+
+### 2)
+
+studia drugiego stopnia;
+
+### 3)
+
+jednolite studia magisterskie;
+
+### 4)
+
+studia podyplomowe.
+
+### 2.
+
+Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-funkcjonariusza form kształcenia do wysokości 400% najniższej emerytury.
+
+### 3.
+
+Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50% pełnej stawki.
+
+### 4.
+
+Pomoc, o której mowa w ust. 1, jest udzielana przez czas trwania studiów na wniosek weterana poszkodowanego-funkcjonariusza, w każdym roku akademickim, w wymiarze określonym programem studiów na jednym kierunku wybranym przez funkcjonariusza.
+
+### 5.
+
+W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-funkcjonariusza powodującymi konieczność przerwania studiów, na wniosek zainteresowanego, wypłata pomocy finansowej ulega zawieszeniu do czasu ustania przyczyny przerwania studiów.
+
+### 6.
+
+Pomoc finansowa podlega zwrotowi w przypadku nieukończenia studiów z przyczyn leżących po stronie weterana poszkodowanego-funkcjonariusza, z wyjątkiem przyczyn nieukończenia studiów, o których mowa w ust. 5. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb przyznawania pomocy, o której mowa w ust. 1, oraz właściwość organów w tym zakresie, dokumenty stanowiące podstawę jej przyznawania oraz sposób i termin jej wypłaty, a także warunki zawieszania jej udzielania oraz zwrotu kosztów kształcenia. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+
+### Art. 28.
+
+### 1.
+
+Weteran poszkodowany-funkcjonariusz ABW zwolniony ze służby ma prawo do uzyskania pomocy finansowej na jedną z wymienionych form kształcenia:
+
+### 1)
+
+studia pierwszego stopnia;
+
+### 2)
+
+studia drugiego stopnia;
+
+### 3)
+
+jednolite studia magisterskie;
+
+### 4)
+
+studia podyplomowe.
+
+### 2.
+
+Pomoc, o której mowa w ust. 1, przysługuje na jedną z wybranych przez weterana poszkodowanego-funkcjonariusza ABW form kształcenia do wysokości 400% najniższej emerytury.
+
+### 3.
+
+Jeżeli w roku akademickim program studiów obejmuje tylko jeden semestr, pomoc finansową przyznaje się w wysokości 50% pełnej stawki.
+
+### 4.
+
+Pomoc, o której mowa w ust. 1, jest udzielana przez czas trwania studiów na wniosek weterana poszkodowanego-funkcjonariusza ABW, w każdym roku akademickim, w wymiarze określonym programem studiów na jednym kierunku wybranym przez funkcjonariusza.
+
+### 5.
+
+W szczególnie uzasadnionych przypadkach związanych ze stanem zdrowia lub zdarzeniami losowymi dotyczącymi weterana poszkodowanego-funkcjonariusza ABW powodującymi konieczność przerwania studiów, na wniosek zainteresowanego, wypłata pomocy finansowej ulega zawieszeniu do czasu ustania przyczyny przerwania studiów.
+
+### 6.
+
+Pomoc finansowa podlega zwrotowi w przypadku nieukończenia studiów z przyczyn leżących po stronie weterana poszkodowanego-funkcjonariusza ABW, z wyjątkiem przyczyn nieukończenia studiów, o których mowa w ust. 5. Koszty te podlegają zwrotowi w terminie 6 miesięcy od dnia doręczenia wezwania.
+
+### 7.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki i tryb przyznawania pomocy, o której mowa w ust. 1, oraz właściwość organów w tym zakresie, dokumenty stanowiące podstawę jej przyznawania oraz sposób i termin jej wypłaty, a także warunki zawieszania jej udzielania oraz zwrotu kosztów kształcenia. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanej pomocy finansowej w stosunku do rzeczywistych kosztów kształcenia.
+
+### Art. 29.
+
+### 1.
+
+Weteranowi poszkodowanemu pobierającemu rentę inwalidzką z tytułu urazów lub chorób powstałych w związku z udziałem w działaniach poza granicami państwa, przysługują odpowiednio uprawnienia określone w art. 14, art. 15, art. 22 ust. 1 oraz art. 23a ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin.
+
+### 2.
+
+W przypadku zbiegu prawa do tego samego świadczenia na podstawie odrębnych przepisów, przysługuje tylko jedno świadczenie według wyboru uprawnionego.
+
+### 3.
+
+Dokumentem potwierdzającym prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja weterana poszkodowanego.
+
+### Art. 30.
+
+### 1.
+
+Weteranowi poszkodowanemu pobierającemu rentę inwalidzką z tytułu urazów lub chorób powstałych w związku z udziałem w działaniach poza granicami państwa przysługuje:
+
+### 1)
+
+ulga taryfowa w wysokości 50% przy przejazdach środkami komunikacji miejskiej;
+
+### 2)
+
+ulga w wysokości 37% przy przejazdach środkami publicznego transportu zbiorowego kolejowego i autobusowego w komunikacji krajowej w:
+
+### a)
+
+1 i 2 klasie pociągów osobowych i pospiesznych oraz autobusach w komunikacji zwykłej i przyspieszonej - na podstawie biletów jednorazowych,
+
+### b)
+
+2 klasie pociągów innych niż osobowe i pospieszne - na podstawie biletów jednorazowych.
+
+### 2.
+
+Weteran poszkodowany uprawniony do ulgowego przejazdu, o którym mowa w ust. 1 pkt 2 lit. b, korzystający z przejazdu w klasie 1, jest zobowiązany do uiszczenia dopłaty w wysokości stanowiącej różnicę między należnością za pełnopłatny przejazd w klasie 1 a należnością za pełnopłatny przejazd w klasie 2.
+
+### 3.
+
+Dokumentami potwierdzającymi prawo do korzystania z uprawnień, o których mowa w ust. 1, jest legitymacja weterana poszkodowanego wraz z legitymacją emeryta-rencisty.
+
+### Art. 31.
+
+### 1.
+
+Weteran-żołnierz, który ukończył 65 lat życia, lub weteran poszkodowany-żołnierz, którzy znajdują się w trudnej sytuacji materialnej, mogą ubiegać się o przyznanie zapomogi:
+
+### 1)
+
+na zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku choroby powodującej wzrost kosztów utrzymania, w tym zakup leków, środków opatrunkowych oraz koszty dojazdów do zakładów opieki zdrowotnej na zabiegi medyczne i rehabilitacyjne oraz usługi pielęgnacyjne niezbędne ze względu na wiek lub stan zdrowia;
+
+### 2)
+
+w przypadku zaistnienia zdarzeń losowych, mających wpływ na pogorszenie w istotny sposób sytuacji materialnej weterana-żołnierza lub weterana poszkodowanego-żołnierza.
+
+### 2.
+
+Tworzy się fundusz na zapomogi dla weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy, którego dysponentem jest Minister Obrony Narodowej.
+
+### 3.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb przyznawania zapomóg, o których mowa w ust. 1, dokumenty stanowiące podstawę ich przyznania, sposób przekazywania przyznanych zapomóg oraz sposób tworzenia funduszu na te zapomogi. Rozporządzenie uwzględni konieczność zapewnienia równego dostępu do tego świadczenia wszystkim uprawnionym oraz możliwość korzystania z zapomogi z innego tytułu.
+
+### Art. 32.
+
+### 1.
+
+Weteran-funkcjonariusz ABW, który ukończył 65 lat życia, lub weteran poszkodowany-funkcjonariusz ABW, którzy znajdują się w trudnej sytuacji materialnej, mogą ubiegać się o przyznanie zapomogi:
+
+### 1)
+
+na zaspokojenie potrzeb bytowych i ochronę zdrowia w przypadku choroby powodującej wzrost kosztów utrzymania, w tym zakup leków, środków opatrunkowych oraz koszty dojazdów do zakładów opieki zdrowotnej na zabiegi medyczne i rehabilitacyjne oraz usługi pielęgnacyjne niezbędne ze względu na wiek lub stan zdrowia;
+
+### 2)
+
+w przypadku zaistnienia zdarzeń losowych, mających wpływ na pogorszenie w istotny sposób sytuacji materialnej weterana-funkcjonariusza ABW lub weterana poszkodowanego-funkcjonariusza ABW.
+
+### 2.
+
+Tworzy się fundusze na zapomogi dla weteranów-funkcjonariuszy ABW i weteranów poszkodowanych-funkcjonariuszy ABW, których dysponentami są odpowiednio Szef Agencji Bezpieczeństwa Wewnętrznego oraz Szef Agencji Wywiadu.
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, warunki i tryb przyznawania zapomóg, o których mowa w ust. 1, dokumenty stanowiące podstawę ich przyznania, sposób przekazywania przyznanych zapomóg oraz sposób tworzenia funduszu na te zapomogi. Rozporządzenie uwzględni konieczność zapewnienia równego dostępu do tego świadczenia wszystkim uprawnionym oraz możliwość korzystania z zapomogi z innego tytułu.
+
+### Rozdział 5 Uprawnienia pracownicze
+
+### Art. 33.
+
+### 1.
+
+Weteran poszkodowany korzysta z pierwszeństwa w zatrudnieniu odpowiednio w jednostkach organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej albo ministra właściwego do spraw wewnętrznych na stanowiskach odpowiadających jego wykształceniu, wiedzy i sprawności psychofizycznej.
+
+### 2.
+
+W przypadku zbiegu prawa do tego samego uprawnienia na podstawie odrębnych przepisów, przysługuje tylko jedno z nich, według wyboru uprawnionego.
+
+### Art. 34.
+
+Okresy udziału weterana oraz weterana poszkodowanego w działaniach poza granicami państwa wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
+
+### Art. 35.
+
+### 1.
+
+Weteranowi oraz weteranowi poszkodowanemu, pozostającemu w stosunku pracy, przysługuje dodatkowy urlop wypoczynkowy w wymiarze 5 dni w roku kalendarzowym.
+
+### 2.
+
+Urlop dodatkowy, o którym mowa w ust. 1, nie przysługuje, jeżeli weteran lub weteran-poszkodowany posiada prawo do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni w roku kalendarzowym.
+
+### 3.
+
+Prawo do pierwszego dodatkowego urlopu, o którym mowa w ust. 1, powstaje z dniem stania się ostateczną decyzji administracyjnej o przyznaniu statusu weterana lub weterana poszkodowanego, przy czym jego realizacja może nastąpić nie wcześniej niż z dniem przedstawienia pracodawcy tej decyzji.
+
+### Rozdział 6 Dodatek weterana poszkodowanego
+
+### Art. 36.
+
+### 1.
+
+Weteran poszkodowany pobierający emeryturę lub rentę inwalidzką ma prawo do dodatku weterana poszkodowanego od miesiąca złożenia wniosku do organu emerytalno-rentowego.
+
+### 2.
+
+Do wniosku, o którym mowa w ust. 1, załącza się decyzję o przyznaniu statusu weterana poszkodowanego albo jej odpis.
+
+### 3.
+
+Wniosek zawiera:
+
+### 1)
+
+imię i nazwisko zainteresowanego;
+
+### 2)
+
+imiona rodziców;
+
+### 3)
+
+datę i miejsce urodzenia;
+
+### 4)
+
+adres zamieszkania i adres do korespondencji;
+
+### 5)
+
+numer PESEL;
+
+### 6)
+
+wskazanie świadczenia, o które ubiega się zainteresowany;
+
+### 7)
+
+podpis zainteresowanego lub jego pełnomocnika.
+
+### 4.
+
+Podstawę wymiaru dodatku weterana poszkodowanego stanowi najniższa emerytura.
+
+### 5.
+
+Wysokość dodatku weterana poszkodowanego uzależniona jest od ustalonego procentu uszczerbku na zdrowiu doznanego wskutek wypadku pozostającego w związku z działaniami poza granicami państwa lub choroby nabytej podczas wykonywania zadań lub obowiązków służbowych w ramach działań poza granicami państwa, z tytułu których przyznano świadczenia odszkodowawcze, i wynosi w przedziale:
+
+### 1)
+
+od 10 do 20% uszczerbku - 10% podstawy wymiaru;
+
+### 2)
+
+od 21 do 30% uszczerbku - 20% podstawy wymiaru;
+
+### 3)
+
+od 31 do 40% uszczerbku - 30% podstawy wymiaru;
+
+### 4)
+
+od 41 do 50% uszczerbku - 40% podstawy wymiaru;
+
+### 5)
+
+od 51 do 60% uszczerbku - 50% podstawy wymiaru;
+
+### 6)
+
+od 61 do 80% uszczerbku - 60% podstawy wymiaru;
+
+### 7)
+
+powyżej 80% uszczerbku - 80% podstawy wymiaru.
+
+### 6.
+
+Dodatek weterana poszkodowanego podlega waloryzacji poprzez ponowne obliczenie jego wysokości od kwoty najniższej emerytury, przy zastosowaniu właściwej dla ustalonego procentu uszczerbku na zdrowiu, stawki procentowej podstawy wymiaru, określonej w ust. 5.
+
+### 7.
+
+Waloryzacji, o której mowa w ust. 6, dokonuje właściwy do wypłaty dodatku weterana poszkodowanego organ emerytalno-rentowy w terminach przewidzianych w ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+
+### 8.
+
+W przypadku zbiegu prawa do emerytury lub renty inwalidzkiej przyznawanych na podstawie odrębnych przepisów, przysługuje tylko jeden dodatek weterana poszkodowanego.
+
+### 9.
+
+Dodatek weterana poszkodowanego jest wypłacany wraz z emeryturą lub rentą inwalidzką w terminie i trybie określonych dla tych świadczeń, a w przypadku wypłaty dodatku po raz pierwszy - w najbliższym terminie płatności emerytury lub renty albo w następnym terminie płatności, jeżeli wniosek, o którym mowa w ust. 1, został złożony na 14 dni przed upływem terminu płatności emerytury lub renty.
+
+### 10.
+
+W przypadku zawieszenia wypłaty emerytury lub renty właściwy organ emerytalno-rentowy wypłaca dodatek weterana poszkodowanego kwartalnie, w trzecim miesiącu kwartału.
+
+### Rozdział 7 Źródła i sposób finansowania niektórych świadczeń
+
+### Art. 37.
+
+### 1.
+
+Dodatek weterana poszkodowanego, w wysokości ustalonej na zasadach określonych w art. 36, wypłaca wraz z emeryturą lub rentą inwalidzką właściwy organ emerytalno-rentowy ze środków będących w dyspozycji tego organu.
+
+### 2.
+
+Dodatek, o którym mowa w ust. 1, jest finansowany ze środków budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej - w odniesieniu do weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy, oraz z części pozostającej odpowiednio w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy ABW.
+
+### 3.
+
+W przypadku wypłaty dodatku weterana poszkodowanego przez Zakład Ubezpieczeń Społecznych lub Kasę Rolniczego Ubezpieczenia Społecznego, świadczenie to wraz z odsetkami za opóźnienie w ustaleniu prawa do niego lub jego wypłaty oraz koszty obsługi są finansowane ze środków budżetu państwa.
+
+### Art. 38.
+
+Świadczenia określone w ustawie, inne niż wymienione w art. 37 ust. 1, finansowane są ze środków budżetu państwa z części pozostającej w dyspozycji Ministra Obrony Narodowej - w odniesieniu do weteranów-żołnierzy i weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych - w odniesieniu do weteranów-funkcjonariuszy i weteranów poszkodowanych-funkcjonariuszy, oraz z części pozostającej odpowiednio w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego albo Szefa Agencji Wywiadu - w odniesieniu do weteranów-funkcjonariuszy ABW i weteranów poszkodowanych-funkcjonariuszy ABW.
+
+### Rozdział 8 Zmiany w przepisach obowiązujących
+
+### Art. 39.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2010 r. Nr 51, poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2010/307/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887, Nr 168, poz. 1006, Nr 178, poz. 1059, Nr 197, poz. 1170 i Nr 205, poz. 1202.](#gloss-0:17:)) w art. 21 w ust. 1 po pkt 90 dodaje się pkt 90a w brzmieniu:
+
+„
+
+### 90a)
+
+świadczenia, o których mowa w art. 19 ust. 2, art. 26-28 i art. 36 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa ([Dz. U. Nr 205, poz. 1203](https://api.sejm.gov.pl/eli/acts/DU/2011/1203/text.html));
+
+” .
+
+### Art. 40.
+
+W ustawie z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego ([Dz. U. z 2002 r. Nr 175, poz. 1440](https://api.sejm.gov.pl/eli/acts/DU/2002/1440/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 149, poz. 1452 i Nr 203, poz. 1966, z 2005 r. Nr 90, poz. 756 i Nr 180, poz. 1497, z 2006 r. Nr 141, poz. 1011 i Nr 249, poz. 1824, z 2007 r. Nr 82, poz. 558, Nr 180, poz. 1280 i Nr 191, poz. 1370, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 222, poz. 1456 i Nr 238, poz. 1578 oraz z 2011 r. Nr 5, poz. 13 i Nr 84, poz. 455.](#gloss-0:18:)) w art. 7 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa ([Dz. U. Nr 205, poz. 1203](https://api.sejm.gov.pl/eli/acts/DU/2011/1203/text.html)).
+
+” .
+
+### Art. 41.
+
+W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2004 r. Nr 8, poz. 67](https://api.sejm.gov.pl/eli/acts/DU/2004/67/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786 oraz z 2010 r. Nr 113, poz. 745.](#gloss-0:19:)) w art. 24 wprowadza się następujące zmiany:
+
+### 1)
+
+w pkt 1a:
+
+### a)
+
+lit. a i b otrzymują brzmienie:
+
+„
+
+### a)
+
+w czasie pełnienia służby w kontyngencie policyjnym wydzielonym do realizacji zadań, o których mowa w art. 145a ust. 1 pkt 1-3 ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677 i Nr 171, poz. 1016.](#gloss-0:20:)),
+
+### b)
+
+w czasie pełnienia służby poza granicami państwa, na terytorium państw w całości lub części uznanych za strefę działań wojennych, jeżeli funkcjonariusz wykonywał czynności operacyjno-rozpoznawcze, o których mowa w art. 21 ust. 1 pkt 1 albo w art. 22 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2010 r. Nr 29, poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2010/154/text.html), z późn. zm.[21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677.](#gloss-0:21:)) albo czynności operacyjno-rozpoznawcze, o których mowa w art. 25 pkt 1 albo w art. 26 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego ([Dz. U. Nr 104, poz. 709](https://api.sejm.gov.pl/eli/acts/DU/2006/709/text.html), z późn. zm.[22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455.](#gloss-0:22:)), lub kierował wykonywaniem takich czynności,
+
+” ,
+
+### b)
+
+po lit. d dodaje się lit. e w brzmieniu:
+
+„
+
+### e)
+
+w czasie pełnienia służby poza granicami państwa w grupie ratowniczej, o której mowa w art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej ([Dz. U. z 2009 r. Nr 12, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/2009/68/text.html), z późn. zm.[23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677 i Nr 171, poz. 1016.](#gloss-0:23:))
+
+” ;
+
+### 2)
+
+pkt 1c otrzymuje brzmienie:
+
+„
+
+### 1c)
+
+w razie śmierci funkcjonariusza Służby Kontrwywiadu Wojskowego lub Służby Wywiadu Wojskowego po zwolnieniu ze służby, jeżeli śmierć nastąpiła wskutek wypadku albo choroby powstałej w czasie wykonywania zadań służbowych, o których mowa w art. 25 pkt 1 lub w art. 26 pkt 1 ustawy z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego, lub kierowania wykonywaniem takich czynności, renta rodzinna przysługuje małżonkowi bez względu na wiek i stan zdrowia;
+
+” ;
+
+### 3)
+
+po pkt 6 dodaje się pkt 7 w brzmieniu:
+
+„
+
+### 7)
+
+w razie śmierci albo zaginięcia funkcjonariusza w związku z pełnieniem służby, o której mowa w pkt 1a, renta rodzinna przysługuje w wysokości uposażenia.
+
+” .
+
+### Art. 42.
+
+W ustawie z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa ([Dz. U. Nr 162, poz. 1117](https://api.sejm.gov.pl/eli/acts/DU/1998/1117/text.html), z późn. zm.[24) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278 oraz z 2010 r. Nr 240, poz. 1601.](#gloss-0:24:)) po art. 9 dodaje się art. 9a w brzmieniu:
+
+„
+
+### Art. 9a.
+
+W przypadku śmierci pracownika podczas pobytu poza granicami państwa albo jeżeli pracownik zmarł w następstwie wypadku lub choroby pozostających w związku z wykonywaną pracą poza granicami państwa stosuje się odpowiednio przepisy art. 73 ust. 2 pkt 3, art. 74 ust. 2 pkt 7, art. 84 ust. 1a, 1aa i 1ab oraz art. 99 ust. 2 i 3 ustawy z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych ([Dz. U. z 2010 r. Nr 90, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/2010/593/text.html), z późn. zm.[25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016.](#gloss-0:25:)).
+
+” .
+
+### Art. 43.
+
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2009 r. Nr 153, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2009/1227/text.html), z późn. zm.[26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001 i Nr 187, poz. 1112.](#gloss-0:26:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 139 w ust. 1 po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+kwoty nienależnie pobranego dodatku weterana poszkodowanego;
+
+” ;
+
+### 2)
+
+w art. 141 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Kwoty wolne od potrąceń i egzekucji ustala się dla emerytur i rent wraz ze wszystkimi wzrostami, zwiększeniami, dodatkami oraz innymi świadczeniami wypłacanymi wraz z emeryturą lub rentą na podstawie odrębnych przepisów, z wyłączeniem świadczeń rodzinnych oraz dodatku dla sierot zupełnych, dodatku pielęgnacyjnego i dodatku weterana poszkodowanego.
+
+” .
+
+### Art. 44.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887 i Nr 171, poz. 1016.](#gloss-0:27:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 po pkt 44a dodaje się pkt 44b w brzmieniu:
+
+„
+
+### 44b)
+
+weteran poszkodowany - osobę posiadającą status weterana poszkodowanego nadany na podstawie art. 5 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa ([Dz. U. Nr 205, poz. 1203](https://api.sejm.gov.pl/eli/acts/DU/2011/1203/text.html));
+
+” ;
+
+### 2)
+
+po art. 24a dodaje się art. 24b i art. 24c w brzmieniu:
+
+„
+
+### Art. 24b.
+
+Przepisów art. 20-23 nie stosuje się w stosunku do weterana poszkodowanego. Osoba ta korzysta ze świadczeń opieki zdrowotnej, o których mowa w art. 20, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa, poza kolejnością.
+
+### Art. 24c.
+
+### 1.
+
+Weteranom poszkodowanym przysługuje prawo do korzystania poza kolejnością ze stacjonarnych i całodobowych świadczeń opieki zdrowotnej innych niż te, o których mowa w art. 20, w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa.
+
+### 2.
+
+Weteran poszkodowany ma prawo do bezterminowego czasu trwania leczenia w zakresie świadczeń opieki zdrowotnej, o których mowa w ust. 1.
+
+” ;
+
+### 3)
+
+w art. 42:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Świadczenia opieki zdrowotnej niezakwalifikowane jako świadczenia gwarantowane oraz odpłatne świadczenia opieki zdrowotnej udzielane weteranom poszkodowanym w zakresie leczenia urazów i chorób nabytych podczas wykonywania zadań poza granicami państwa pokrywa się z budżetu państwa, z części, której dysponentem jest odpowiednio Minister Obrony Narodowej, minister właściwy do spraw wewnętrznych, Szef Agencji Bezpieczeństwa Wewnętrznego albo Szef Agencji Wywiadu.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Prezes Rady Ministrów, Minister Obrony Narodowej oraz minister właściwy do spraw wewnętrznych, każdy w swoim zakresie, określą, w drodze rozporządzenia:
+
+### 1)
+
+szczegółowe warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w ust. 1a,
+
+### 2)
+
+tryb postępowania w sprawach, o których mowa w pkt 1,
+
+### 3)
+
+sposób i tryb finansowania ponoszonych kosztów
+
+- uwzględniając zasady wydatkowania środków publicznych.
+
+” ;
+
+### 4)
+
+w art. 44:
+
+### a)
+
+po ust. 1a dodaje się ust. 1b i 1c w brzmieniu:
+
+„
+
+### 1b.
+
+Uprawnionemu żołnierzowi lub pracownikowi w przypadku przekroczenia wysokości limitu finansowania, o którym mowa w art. 37 ust. 2 pkt 6 ustawy o refundacji, przysługuje prawo do finansowania kwotą wykraczającą poza ten limit. Dofinansowanie może być dokonane ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej.
+
+### 1c.
+
+Weteranowi poszkodowanemu przysługuje bezpłatne zaopatrzenie w leki objęte wykazem, o którym mowa w art. 37 ust. 1 ustawy o refundacji, w zakresie kategorii, o której mowa w art. 6 ust. 1 pkt 1 tej ustawy, oraz leki recepturowe, na czas leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa.
+
+” ,
+
+### b)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb ubiegania się o dofinansowanie kosztów, o których mowa w ust. 1b. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanego dofinansowania w stosunku do ceny leku.
+
+” ;
+
+### 5)
+
+w art. 47 po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+
+„
+
+### 2a.
+
+Weteranowi poszkodowanemu w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa, przysługuje prawo do bezpłatnych wyrobów medycznych na zlecenie lekarza ubezpieczenia zdrowotnego, felczera ubezpieczenia zdrowotnego, pielęgniarki lub położnej ubezpieczenia zdrowotnego, do wysokości limitu finansowania ze środków publicznych określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.
+
+### 2b.
+
+W przypadku gdy cena wyrobów medycznych jest wyższa od wysokości limitu finansowania ze środków publicznych, określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji, wówczas weteranom poszkodowanym, o których mowa w ust. 2a, służy prawo do dofinansowania kwotą wykraczającą poza wysokość limitu finansowania ze środków publicznych, określonego w przepisach wydanych na podstawie art. 38 ust. 4 ustawy o refundacji.
+
+### 2c.
+
+Dofinansowanie, o którym mowa w ust. 2b, może być dokonane ze środków budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej - w odniesieniu do weteranów poszkodowanych-żołnierzy, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu i Państwowej Straży Pożarnej, z części pozostającej w dyspozycji Szefa Agencji Bezpieczeństwa Wewnętrznego - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego albo z części pozostającej w dyspozycji Szefa Agencji Wywiadu - w odniesieniu do weteranów poszkodowanych-funkcjonariuszy Agencji Wywiadu.
+
+### 2d.
+
+Prezes Rady Ministrów, Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, każdy w swoim zakresie, określą, w drodze rozporządzenia, warunki i tryb ubiegania się o dofinansowanie kosztów, o których mowa w ust. 2b. Rozporządzenie powinno zapewnić sprawność postępowania w tych sprawach oraz adekwatność udzielanego dofinansowania w stosunku do ceny wyrobów medycznych.
+
+” ;
+
+### 6)
+
+w art. 47b:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Weteran poszkodowany korzysta ze świadczeń opieki zdrowotnej, o których mowa w art. 24b, art. 24c, art. 44 ust. 1c, art. 47 ust. 2a oraz art. 57 ust. 2 pkt 13, na podstawie dokumentu potwierdzającego przysługujące mu uprawnienia.
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prezes Rady Ministrów, Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych, każdy w swoim zakresie, określą, w drodze rozporządzenia, podmioty uprawnione do wydawania dokumentów, o których mowa w ust. 1 i 1a, wzory tych dokumentów, tryb ich wydawania, wymiany lub zwrotu, a także dane zawarte w tych dokumentach, mając na względzie realizację uprawnień wynikających z ustawy oraz kierując się koniecznością zapewnienia sprawności postępowania przy wydawaniu dokumentów potwierdzających uprawnienia.
+
+” ;
+
+### 7)
+
+w art. 57 w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
+
+„
+
+### 13)
+
+dla weterana poszkodowanego, w zakresie leczenia urazów lub chorób nabytych podczas wykonywania zadań poza granicami państwa.
+
+” ;
+
+### 8)
+
+w art. 97:
+
+### a)
+
+w ust. 3 w pkt 10 kropkę zastępuje się średnikiem i dodaje się pkt 11 w brzmieniu:
+
+„
+
+### 11)
+
+monitorowanie i koordynowanie realizacji uprawnień wynikających z art. 24a-art. 24c, art. 44 ust. 1a-1c, art. 47 ust. 2 i 2a oraz art. 57 ust. 2 pkt 12 i 13.
+
+” ,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Zadania Funduszu określone w ust. 3 pkt 1, 2, 4, 6 i 11 w odniesieniu do podmiotów leczniczych nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości i ministra właściwego do spraw wewnętrznych realizuje komórka organizacyjna oddziału wojewódzkiego Funduszu, o której mowa w art. 96 ust. 4.
+
+” ;
+
+### 9)
+
+w art. 102 w ust. 5 w pkt 32 kropkę zastępuje się średnikiem i dodaje się pkt 33 w brzmieniu:
+
+„
+
+### 33)
+
+realizacja zadań, o których mowa w art. 22 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa.
+
+” ;
+
+### 10)
+
+w art. 103 w ust. 8 po pkt 1 dodaje się pkt 1a i 1b w brzmieniu:
+
+„
+
+### 1a)
+
+nadzorowanie i koordynowanie działań związanych z realizacją prawa do świadczeń dla ubezpieczonych, o których mowa w art. 5 pkt 44a i 44b;
+
+### 1b)
+
+rozpatrywanie indywidualnych spraw związanych z realizacją prawa do świadczeń dla ubezpieczonych, o których mowa w art. 5 pkt 44a i 44b;
+
+” ;
+
+### 11)
+
+w art. 107 w ust. 5 w pkt 12 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c w brzmieniu:
+
+„
+
+### c)
+
+realizacji prawa do świadczeń dla ubezpieczonych, o których mowa w art. 5 pkt 44a i 44b;
+
+” ;
+
+### 12)
+
+w art. 188 w ust. 4 pkt 15 otrzymuje brzmienie:
+
+„
+
+### 15)
+
+rodzaj uprawnień oraz numer i termin ważności dokumentu potwierdzającego uprawnienia osób, o których mowa w art. 43 ust. 1, art. 44 ust. 1, art. 45 ust. 1, art. 46 ust. 1 i art. 47, a także osób posiadających na podstawie odrębnych przepisów szersze uprawnienia do świadczeń opieki zdrowotnej niż wynikające z ustawy;
+
+” .
+
+### Rozdział 9 Przepisy końcowe
+
+### Art. 45.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego, ustawę z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, ustawę z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa, ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawę z dnia 27 sierpnia 2004 r. o świadczeniach zdrowotnych finansowanych ze środków publicznych. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278 oraz z 2010 r. Nr 240, poz. 1601. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677 i Nr 171, poz. 1016. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2006 r. Nr 104, poz. 708 i 711, z 2008 r. Nr 66, poz. 402, z 2009 r. Nr 22, poz. 120 i Nr 85, poz. 716, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 117, poz. 677. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677 i Nr 171, poz. 1016. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 559, z 2008 r. Nr 208, poz. 1308, z 2009 r. Nr 24, poz. 145, Nr 79, poz. 669, Nr 95, poz. 785 i Nr 161, poz. 1278 oraz z 2010 r. Nr 27, poz. 141, Nr 36, poz. 204, Nr 113, poz. 745 i Nr 167, poz. 1130. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786 oraz z 2010 r. Nr 113, poz. 745. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001 i Nr 187, poz. 1112. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 122, poz. 696 i Nr 138, poz. 808. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 67, poz. 411, Nr 70, poz. 416, Nr 180, poz. 1112, Nr 227, poz. 1505, Nr 228, poz. 1507 i Nr 237, poz. 1654 i 1656, z 2009 r. Nr 69, poz. 595, Nr 79, poz. 667 i Nr 97, poz. 800 oraz z 2011 r. Nr 106, poz. 622 i Nr 149, poz. 887. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 277, poz. 2742, z 2005 r. Nr 180, poz. 1496, z 2006 r. Nr 104, poz. 708 i 711 i Nr 220, poz. 1600, z 2007 r. Nr 107, poz. 732 i Nr 176, poz. 1242, z 2008 r. Nr 171, poz. 1056, Nr 180, poz. 1109, Nr 206, poz. 1288, Nr 208, poz. 1308 i Nr 223, poz. 1458, z 2009 r. Nr 22, poz. 120, Nr 97, poz. 801, Nr 161, poz. 1278, Nr 190, poz. 1474 i Nr 219, poz. 1706, z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228, Nr 217, poz. 1427 i Nr 240, poz. 1601 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 171, poz. 1016, Nr 185, poz. 1092 i Nr 187, poz. 1109. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016 i Nr 205, poz. 1203. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 49, poz. 509, z 2002 r. Nr 113, poz. 984, Nr 153, poz. 1271 i Nr 169, poz. 1387, z 2003 r. Nr 130, poz. 1188 i Nr 170, poz. 1660, z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 64, poz. 565, Nr 78, poz. 682 i Nr 181, poz. 1524, z 2008 r. Nr 229, poz. 1539, z 2009 r. Nr 195, poz. 1501 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 254, poz. 1700 oraz z 2011 r. Nr 6, poz. 18, Nr 34, poz. 173, Nr 106, poz. 622 i Nr 186, poz. 1100. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 57, poz. 352, Nr 75, poz. 473, Nr 105, poz. 655, Nr 149, poz. 996, Nr 182, poz. 1228, Nr 219, poz. 1442, Nr 226, poz. 1475 i 1478 i Nr 257, poz. 1725 i 1726 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 84, poz. 455, Nr 102, poz. 585, Nr 106, poz. 622, Nr 120, poz. 690, Nr 131, poz. 764, Nr 149, poz. 887, Nr 168, poz. 1006, Nr 178, poz. 1059, Nr 197, poz. 1170 i Nr 205, poz. 1202. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 137, poz. 1304, Nr 149, poz. 1452 i Nr 203, poz. 1966, z 2005 r. Nr 90, poz. 756 i Nr 180, poz. 1497, z 2006 r. Nr 141, poz. 1011 i Nr 249, poz. 1824, z 2007 r. Nr 82, poz. 558, Nr 180, poz. 1280 i Nr 191, poz. 1370, z 2009 r. Nr 168, poz. 1323, z 2010 r. Nr 222, poz. 1456 i Nr 238, poz. 1578 oraz z 2011 r. Nr 5, poz. 13 i Nr 84, poz. 455. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558, z 2008 r. Nr 66, poz. 402 i 409 i Nr 220, poz. 1410, z 2009 r. Nr 24, poz. 145 i Nr 95, poz. 786 oraz z 2010 r. Nr 113, poz. 745. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777, z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842, Nr 127, poz. 857, Nr 164, poz. 1108, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 240, poz. 1602 oraz z 2011 r. Nr 53, poz. 273, Nr 117, poz. 677 i Nr 171, poz. 1016. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 53, poz. 273, Nr 84, poz. 455 i Nr 117, poz. 677. 22) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 18, poz. 97, z 2010 r. Nr 127, poz. 857, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 239, poz. 1589 oraz z 2011 r. Nr 117, poz. 677 i Nr 171, poz. 1016. 24) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 210, poz. 2135, z 2009 r. Nr 79, poz. 669 i Nr 161, poz. 1278 oraz z 2010 r. Nr 240, poz. 1601. 25) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 107, poz. 679, Nr 113, poz. 745, Nr 127, poz. 857, Nr 182, poz. 1228 i Nr 238, poz. 1578 oraz z 2011 r. Nr 22, poz. 114, Nr 112, poz. 654, Nr 122, poz. 696 i Nr 171, poz. 1016. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001 i Nr 187, poz. 1112. 27) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887 i Nr 171, poz. 1016.

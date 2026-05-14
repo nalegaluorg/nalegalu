@@ -8,11 +8,9 @@ pos: 1012
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw
-
-*USTAWA dnia 26 lipca 2013 zmianie ustawy Bankowym Funduszu Gwarancyjnym niektórych innych ustaw*
+# Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej, ustawę z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawę z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,45 +22,566 @@ domain: null
 | Data ogłoszenia | 2013-07-26 |
 | Data wydania | 2013-09-03 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1012/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2013/1012/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2013/1012) |
 
-**Art. 1.** W ustawie dnia 14 grudnia 1994 Bankowym Funduszu Gwarancyjnym (Dz. U. 2009 84, 711, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 18a.**
+### Art. 1.
 
-1. Z wpłat opłaty ostrożnościowej, której art. 14a, tworzy się fundusz stabilizacyjny będący funduszem własnym Funduszu.
+W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-2. Rada Funduszu, na wniosek Zarządu Funduszu, po uzyskaniu opinii ministra właściwego do spraw instytucji finansowych, może przenieść całość lub część środków funduszu stabilizacyjnego na fundusz własny, tworzony celu zapewnienia środków na finansowanie zadań Funduszu zakresie udzielania pomocy podmiotom objętym systemem gwarantowania.
+### 1)
 
-3. Rada Funduszu, na wniosek Zarządu Funduszu, po uzyskaniu zgody ministra właściwego do spraw instytucji finansowych, może dokonać czasowego przeniesienia całości lub części środków funduszu własnego, tworzonego celu zapewnienia środków na finansowanie zadań Funduszu zakresie udzielania pomocy podmiotom objętym systemem gwarantowania, na fundusz stabilizacyjny.
+w art. 1 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
 
-**Art. 18b.** Środki funduszu stabilizacyjnego przeznacza się na:
+„
 
-**Art. 18c.**
+### 6)
 
-1. W przypadku gdy ramach postępowania naprawczego konieczne jest zwiększenie funduszy własnych banku krajowego, Fundusz, uwzględniając działania, których art. 3a, stan środków funduszu stabilizacyjnego możliwość udzielenia pomocy sposób, którym art. 19 ust. 1, może udzielić gwarancji rekapitalizacyjnej.
+źródła finansowania funduszu stabilizacyjnego, rodzaje działań finansowanych ze środków funduszu stabilizacyjnego oraz zasady i tryb wykorzystania środków gromadzonych na tym funduszu.
 
-2. W przypadku, którym ust. 1, do udzielania gwarancji rekapitalizacyjnej stosuje się odpowiednio przepisy art. 3–8, art. 9 ust. 1, 3 4, art. 12 art. 22 ustawy dnia 12 lutego rekapitalizacji niektórych inArt. 18d. 1. Fundusz może udzielić gwarancji rekapitalizacyjnej wyłącznie na wniosek, którym art. 6 ust. 2a ustawy dnia 12 lutego rekapitalizacji niektórych instytucji finansowych.
+” ;
 
-2. Udzielenie gwarancji rekapitalizacyjnej następuje po wniesieniu przez bank krajowy na rzecz Funduszu opłaty prowizyjnej naliczonej od kwoty zobowiązania objętego tą gwarancją.
+### 2)
 
-3. Odmowa udzielenia gwarancji rekapitalizacyjnej nie stanowi podstawy roszczeń banku krajowego ani osób trzecich wobec Funduszu jego organów.”;
+art. 3a otrzymuje brzmienie:
 
-- **11)** art. 19 ust. 1 otrzymuje brzmienie: „1. Realizując zadania Funduszu, których art. 4 ust. 2 pkt 1, Fundusz może szczególności udzielać podmiotom objętym systemem gwarantowania pożyczek, gwarancji lub poręczeń.”;
-- **12)** art. 36 otrzymuje brzmienie: „Art. 36. Z tytułu opóźnień dokonywaniu opłat rocznych, których art. 13 ust. 1, opłaty ostrożnościowej, której art. 14a, wpłat, których art. 26a ust. 2 art. 26c, Funduszowi przysługują odsetki wysokości odsetek pobieranych od zaległości podatkowych.”;
-- **13)** art. 38 po ust. 4a dodaje się ust. 4b brzmieniu: „4b. Fundusz Narodowy Bank Polski przekazują sobie informacje, tym informacje niejawne rozumieniu przepisów ochronie informacji niejawnych, zakresie niezbędnym do wykonywania ich ustawowo określonych zadań.”.
+„
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 74, 397, późn. zm. ) art. 16 ust. 1 pkt 67 kropkę zastępuje się średnikiem dodaje się pkt 68 brzmieniu: „68) opłaty ostrożnościowej, której art. 14a ustawy dnia 14 grudnia 1994 Bankowym Funduszu Gwarancyjnym (Dz. U. 2009 84, 711, późn. zm. ).”.
+### Art. 3a.
 
-**Art. 3.** W ustawie dnia 21 lipca 2006 nadzorze nad rynkiem finansowym (Dz. U. 1149, późn. zm. ) art. 17a otrzymuje brzmienie: „Art. 17a. Przewodniczący Komisji może przekazywać Ministrowi Finansów, Narodowemu Bankowi Polskiemu Bankowemu Funduszowi Gwarancyjnemu informacje uzyskane przez Komisję, tym także informacje chronione na podstawie odrębnych ustaw, niezbędne do realizacji celu działalności zadań Komitetu Stabilności Finansowej.”.
+Celem działalności Funduszu jest podejmowanie działań na rzecz stabilności krajowego systemu finansowego, o którym mowa w art. 2 pkt 1 ustawy z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej ([Dz. U. Nr 209, poz. 1317](https://api.sejm.gov.pl/eli/acts/DU/2008/1317/text.html) oraz z [2013 r. poz. 1012](https://api.sejm.gov.pl/eli/acts/DU/2013/1012/text.html)), w szczególności poprzez zapewnienie funkcjonowania obowiązkowego systemu gwarantowania środków pieniężnych, udzielanie pomocy i wsparcia oraz udzielanie lub wykonywanie gwarancji rekapitalizacyjnej, na zasadach określonych w ustawie.
 
-**Art. 4.** W ustawie dnia 7 listopada 2008 Komitecie Stabilności Finansowej (Dz. U. 209, 1317) wprowadza się następujące zmiany:
+” ;
 
-**Art. 5.** W ustawie dnia 12 lutego 2009 udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. 39, 308, późn. zm. ) uchyla się art. 20.
+### 3)
 
-**Art. 6.** W ustawie dnia 12 lutego rekapitalizacji niektórych instytucji finansowych (Dz. U. 40, 226 38, 196) wprowadza się następujące zmiany:
+w art. 4 po ust. 1i dodaje się ust. 1j w brzmieniu:
 
-**Art. 7.** Podmioty objęte obowiązkowym systemem gwarantowania są obowiązane do wniesienia po raz pierwszy opłaty ostrożnościowej za rok wejścia życie ustawy wysokości określonej art. 14a ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, terminie 60 dni od dnia opublikowania uchwały Rady Bankowego Funduszu Gwarancyjnego wysokości stawki tej opłaty dwóch dziennikach zasięgu ogólnokrajowym.
+„
 
-**Art. 8.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+### 1j.
 
+Do zadań Funduszu w zakresie udzielania pomocy finansowanej ze środków funduszu stabilizacyjnego należy:
+
+### 1)
+
+udzielanie gwarancji zwiększania funduszy własnych banku krajowego, zwanej dalej „gwarancją rekapitalizacyjną”, a w przypadku wykonania tej gwarancji - nabywanie lub obejmowanie akcji, obligacji lub bankowych papierów wartościowych banku krajowego;
+
+### 2)
+
+określanie wysokości stawki opłaty ostrożnościowej, o której mowa w art. 14a, wnoszonej przez podmioty objęte systemem gwarantowania na rzecz Funduszu.
+
+” ;
+
+### 4)
+
+w art. 7:
+
+### a)
+
+w ust. 2:
+
+- - pkt 5 otrzymuje brzmienie: „ 5) określanie na wniosek Zarządu Funduszu wysokości stawek obowiązkowej opłaty rocznej i opłaty ostrożnościowej podmiotów objętych systemem gwarantowania oraz stawki określającej wysokość funduszy ochrony środków gwarantowanych; ” ,
+
+- - po pkt 7d dodaje się pkt 7e w brzmieniu: „ 7e) określanie zasad udzielania pomocy finansowej, o której mowa w art. 4 ust. 1j pkt 1, oraz zasad zarządzania akcjami, obligacjami i bankowymi papierami wartościowymi banku krajowego nabytymi lub objętymi w wyniku wykonania gwarancji rekapitalizacyjnej; ” ,
+
+### b)
+
+dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Przy określaniu wysokości stawki obowiązkowej opłaty rocznej, o której mowa w art. 13 ust. 1, oraz stawki opłaty ostrożnościowej, o której mowa w art. 14a, Rada Funduszu uwzględnia w szczególności sytuację w sektorze finansowym oraz jego otoczeniu makroekonomicznym.
+
+” ;
+
+### 5)
+
+po art. 14 dodaje się art. 14a w brzmieniu:
+
+„
+
+### Art. 14a.
+
+Podmioty objęte systemem gwarantowania wnoszą na rzecz Funduszu opłatę ostrożnościową w wysokości iloczynu stawki nieprzekraczającej 0,2% i podstawy naliczania opłaty rocznej, o której mowa w art. 13 ust. 1a. Przepisy art. 13 ust. 2, 3, 3c i 5 oraz art. 14 ust. 2, 3 i 4 stosuje się odpowiednio.
+
+” ;
+
+### 6)
+
+w art. 15 po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+opłaty ostrożnościowe, o których mowa w art. 14a, wnoszone przez podmioty objęte systemem gwarantowania;
+
+” ;
+
+### 7)
+
+w art. 16:
+
+### a)
+
+w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+finansowanie zadań Funduszu w zakresie udzielania pomocy, o której mowa w art. 4 ust. 1j pkt 1, przy czym pomoc ta może być udzielana jedynie ze środków funduszu stabilizacyjnego;
+
+” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Nadwyżka bilansowa Funduszu w danym roku powiększa jego fundusz własny, tworzony w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania, fundusz kas oraz fundusz stabilizacyjny, z zastrzeżeniem ust. 2a i 2b. Podział nadwyżki bilansowej jest dokonywany w proporcji, w jakiej fundusze te uczestniczą w ich sumie na dzień bilansowy ostatniego zatwierdzonego sprawozdania finansowego.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Fundusz może, z zastrzeżeniem art. 4 ust. 1h oraz art. 20g ust. 2 pkt 1, nabywać:
+
+### 1)
+
+papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub Narodowy Bank Polski;
+
+### 2)
+
+papiery wartościowe emitowane, poręczone lub gwarantowane przez rządy lub banki centralne państw będących członkami Unii Europejskiej, stronami umowy o Europejskim Obszarze Gospodarczym lub członkami Organizacji Współpracy Gospodarczej i Rozwoju;
+
+### 3)
+
+jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych;
+
+### 4)
+
+w wykonaniu gwarancji rekapitalizacyjnej - akcje, obligacje lub bankowe papiery wartościowe banku krajowego;
+
+### 5)
+
+prawa z nabytych lub objętych w sposób określony w pkt 4, w art. 4 ust. 1h lub art. 20g ust. 2 pkt 1 papierów wartościowych.
+
+” ,
+
+### d)
+
+po ust. 4a dodaje się ust. 4b w brzmieniu:
+
+„
+
+### 4b.
+
+W celu nabywania lub zbywania papierów wartościowych, o których mowa w ust. 3 pkt 2, Fundusz może również posiadać rachunki papierów wartościowych w zagranicznej izbie rozliczeniowej i posiadać rachunek bankowy do przeprowadzania rozliczeń z tym związanych.
+
+” ,
+
+### e)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Koszty działalności biura Funduszu oraz inne wydatki związane z wykonywaniem zadań Funduszu pokrywane są ze środków, o których mowa w art. 15 pkt 1, 1a i 3-7.
+
+” ;
+
+### 8)
+
+w art. 16a ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku gdy wielkość zobowiązań z tytułu środków gwarantowanych przewyższa sumę środków, o których mowa w ust. 1 i 2, Fundusz dokonuje wypłat środków gwarantowanych ze środków funduszu własnego, tworzonego w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania. Kwota wypłat nie może przewyższać wartości funduszu pomniejszonej o wartość bilansową wierzytelności sfinansowanych z tego funduszu.
+
+” ;
+
+### 9)
+
+po art. 16a dodaje się art. 16b w brzmieniu:
+
+„
+
+### Art. 16b.
+
+### 1.
+
+W razie konieczności dokonania wypłat środków gwarantowanych w przypadku, o którym mowa w art. 16a ust. 3, jeżeli dokonano przeniesienia środków, o którym mowa w art. 18a ust. 3, minister właściwy do spraw instytucji finansowych przekazuje Funduszowi środki finansowe na wypłatę środków gwarantowanych do wysokości środków przeniesionych z funduszu własnego, tworzonego w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania na fundusz stabilizacyjny, w terminach umożliwiających Funduszowi dokonanie wypłaty środków gwarantowanych w terminie określonym w art. 22 ust. 3.
+
+### 2.
+
+Środki finansowe mogą być przekazane Funduszowi w formie dotacji z budżetu państwa lub skarbowych papierów wartościowych.
+
+### 3.
+
+Warunki emisji skarbowych papierów wartościowych oraz sposób realizacji wynikających z nich świadczeń określi minister właściwy do spraw instytucji finansowych przez wydanie listu emisyjnego.
+
+### 4.
+
+List emisyjny zawiera w szczególności:
+
+### 1)
+
+datę emisji;
+
+### 2)
+
+powołanie podstawy prawnej emisji;
+
+### 3)
+
+jednostkową wartość nominalną;
+
+### 4)
+
+określenie waluty, w której może następować emisja, lub sposób określenia waluty emisji;
+
+### 5)
+
+cenę lub sposób jej ustalenia;
+
+### 6)
+
+stopę procentową lub sposób jej obliczania;
+
+### 7)
+
+określenie sposobu i terminów wypłaty należności głównej oraz należności ubocznych;
+
+### 8)
+
+datę, od której nalicza się oprocentowanie skarbowych papierów wartościowych tej emisji;
+
+### 9)
+
+termin wykupu oraz zastrzeżenie możliwości wcześniejszego wykupu.
+
+### 5.
+
+Emisja skarbowych papierów wartościowych następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
+
+### 6.
+
+Do emisji skarbowych papierów wartościowych, o których mowa w ust. 2, nie stosuje się przepisów art. 97, art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2013 r. poz. 885](https://api.sejm.gov.pl/eli/acts/DU/2013/885/text.html) i [938](https://api.sejm.gov.pl/eli/acts/DU/2013/938/text.html)).
+
+### 7.
+
+Emisji skarbowych papierów wartościowych nie wlicza się do limitów określonych w ustawie budżetowej.
+
+### 8.
+
+Wartość nominalną zobowiązań z tytułu wyemitowanych skarbowych papierów wartościowych zalicza się do długu Skarbu Państwa zgodnie z ustawą z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+” ;
+
+### 10)
+
+po art. 18 dodaje się rozdział 2a w brzmieniu:
+
+„
+
+### Rozdział 2a Fundusz stabilizacyjny i udzielanie pomocy ze środków tego funduszu
+
+### Art. 18a.
+
+### 1.
+
+Z wpłat opłaty ostrożnościowej, o której mowa w art. 14a, tworzy się fundusz stabilizacyjny będący funduszem własnym Funduszu.
+
+### 2.
+
+Rada Funduszu, na wniosek Zarządu Funduszu, po uzyskaniu opinii ministra właściwego do spraw instytucji finansowych, może przenieść całość lub część środków funduszu stabilizacyjnego na fundusz własny, tworzony w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania.
+
+### 3.
+
+Rada Funduszu, na wniosek Zarządu Funduszu, po uzyskaniu zgody ministra właściwego do spraw instytucji finansowych, może dokonać czasowego przeniesienia całości lub części środków funduszu własnego, tworzonego w celu zapewnienia środków na finansowanie zadań Funduszu w zakresie udzielania pomocy podmiotom objętym systemem gwarantowania, na fundusz stabilizacyjny.
+
+### Art. 18b.
+
+Środki funduszu stabilizacyjnego przeznacza się na:
+
+### 1)
+
+finansowanie pomocy, o której mowa w art. 4 ust. 1j pkt 1;
+
+### 2)
+
+wypłatę środków gwarantowanych w przypadku, o którym mowa w art. 16a ust. 4.
+
+### Art. 18c.
+
+### 1.
+
+W przypadku gdy w ramach postępowania naprawczego konieczne jest zwiększenie funduszy własnych banku krajowego, Fundusz, uwzględniając działania, o których mowa w art. 3a, stan środków funduszu stabilizacyjnego oraz możliwość udzielenia pomocy w sposób, o którym mowa w art. 19 ust. 1, może udzielić gwarancji rekapitalizacyjnej.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, do udzielania gwarancji rekapitalizacyjnej stosuje się odpowiednio przepisy art. 3-8, art. 9 ust. 1, 3 i 4, art. 12 i art. 22 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych ([Dz. U. Nr 40, poz. 226](https://api.sejm.gov.pl/eli/acts/DU/2010/226/text.html), z [2011 r. Nr 38, poz. 196](https://api.sejm.gov.pl/eli/acts/DU/2011/196/text.html) oraz z [2013 r. poz. 1012](https://api.sejm.gov.pl/eli/acts/DU/2013/1012/text.html)).
+
+### 3.
+
+Fundusz może odmówić udzielenia gwarancji rekapitalizacyjnej, w szczególności w przypadku istotnego zaangażowania środków Funduszu w stosunku do banku krajowego, w ramach zadań określonych w art. 4 ust. 1j pkt 1 lub ust. 2 pkt 1 lub pkt 1a.
+
+### Art. 18d.
+
+### 1.
+
+Fundusz może udzielić gwarancji rekapitalizacyjnej wyłącznie na wniosek, o którym mowa w art. 6 ust. 2a ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych.
+
+### 2.
+
+Udzielenie gwarancji rekapitalizacyjnej następuje po wniesieniu przez bank krajowy na rzecz Funduszu opłaty prowizyjnej naliczonej od kwoty zobowiązania objętego tą gwarancją.
+
+### 3.
+
+Odmowa udzielenia gwarancji rekapitalizacyjnej nie stanowi podstawy roszczeń banku krajowego ani osób trzecich wobec Funduszu i jego organów.
+
+” ;
+
+### 11)
+
+w art. 19 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Realizując zadania Funduszu, o których mowa w art. 4 ust. 2 pkt 1, Fundusz może w szczególności udzielać podmiotom objętym systemem gwarantowania pożyczek, gwarancji lub poręczeń.
+
+” ;
+
+### 12)
+
+art. 36 otrzymuje brzmienie:
+
+„
+
+### Art. 36.
+
+Z tytułu opóźnień w dokonywaniu opłat rocznych, o których mowa w art. 13 ust. 1, opłaty ostrożnościowej, o której mowa w art. 14a, oraz wpłat, o których mowa w art. 26a ust. 2 i art. 26c, Funduszowi przysługują odsetki w wysokości odsetek pobieranych od zaległości podatkowych.
+
+” ;
+
+### 13)
+
+w art. 38 po ust. 4a dodaje się ust. 4b w brzmieniu:
+
+„
+
+### 4b.
+
+Fundusz i Narodowy Bank Polski przekazują sobie informacje, w tym informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych, w zakresie niezbędnym do wykonywania ich ustawowo określonych zadań.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2011 r. Nr 74, poz. 397](https://api.sejm.gov.pl/eli/acts/DU/2011/397/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613 i 888.](#gloss-0:3:)) w art. 16 w ust. 1 w pkt 67 kropkę zastępuje się średnikiem i dodaje się pkt 68 w brzmieniu:
+
+„
+
+### 68)
+
+opłaty ostrożnościowej, o której mowa w art. 14a ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.](#gloss-0:4:)).
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym ([Dz. U. z 2012 r. poz. 1149](https://api.sejm.gov.pl/eli/acts/DU/2012/1149/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70.](#gloss-0:5:)) art. 17a otrzymuje brzmienie:
+
+„
+
+### Art. 17a.
+
+Przewodniczący Komisji może przekazywać Ministrowi Finansów, Narodowemu Bankowi Polskiemu oraz Bankowemu Funduszowi Gwarancyjnemu informacje uzyskane przez Komisję, w tym także informacje chronione na podstawie odrębnych ustaw, niezbędne do realizacji celu działalności i zadań Komitetu Stabilności Finansowej.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej ([Dz. U. Nr 209, poz. 1317](https://api.sejm.gov.pl/eli/acts/DU/2008/1317/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 ust. 2-5 otrzymują brzmienie:
+
+„
+
+### 2.
+
+Procedury, o których mowa w ust. 1 pkt 2, są przekazywane Ministrowi Finansów, Narodowemu Bankowi Polskiemu, Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu w celu wdrożenia.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 1 pkt 3, Przewodniczący Komisji Nadzoru Finansowego przedstawia Komitetowi opinię dotyczącą wypłacalności zagrożonych podmiotów, Prezes Narodowego Banku Polskiego - opinię dotyczącą płynności sektora bankowego, Minister Finansów - opinię w sprawie możliwości wsparcia zagrożonych podmiotów ze środków publicznych, a Prezes Zarządu Bankowego Funduszu Gwarancyjnego - opinię w sprawie możliwych wypłat środków gwarantowanych oraz możliwości wsparcia podmiotów zagrożonych ze środków Bankowego Funduszu Gwarancyjnego.
+
+### 4.
+
+Przewodniczący Komisji Nadzoru Finansowego, Prezes Narodowego Banku Polskiego i Prezes Zarządu Bankowego Funduszu Gwarancyjnego w przypadku, o którym mowa w ust. 1 pkt 3, przedstawiają Komitetowi, w zakresie swoich kompetencji, opinie dotyczące znaczenia systemowego zagrożonych podmiotów.
+
+### 5.
+
+Realizacja zadań, o których mowa w ust. 1, w tym zasady i zakres wymiany informacji, odbywa się zgodnie z przepisami określającymi zadania i kompetencje Ministra Finansów, Narodowego Banku Polskiego, Komisji Nadzoru Finansowego i Bankowego Funduszu Gwarancyjnego.
+
+” ;
+
+### 2)
+
+w art. 4 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+Prezes Zarządu Bankowego Funduszu Gwarancyjnego.
+
+” ;
+
+### 3)
+
+w art. 8 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Komitet może tworzyć grupy robocze, w których skład wchodzą pracownicy urzędu obsługującego Ministra Finansów, Narodowego Banku Polskiego, Urzędu Komisji Nadzoru Finansowego oraz Bankowego Funduszu Gwarancyjnego. Za zgodą Komitetu w skład grup roboczych mogą również wchodzić inne osoby posiadające odpowiednią wiedzę lub doświadczenie z zakresu działań na rzecz utrzymania stabilności krajowego systemu finansowego.
+
+” ;
+
+### 4)
+
+w art. 10 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Minister Finansów, Prezes Narodowego Banku Polskiego, Przewodniczący Komisji Nadzoru Finansowego oraz Prezes Zarządu Bankowego Funduszu Gwarancyjnego mogą upoważnić inne osoby do dostępu do informacji, o których mowa w ust. 1 pkt 1. Do osób tych przepis ust. 1 pkt 2 stosuje się odpowiednio.
+
+” ;
+
+### 5)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+Informacje opublikowane przez Komitet nie stanowią podstawy roszczeń ani zobowiązań osób trzecich wobec Skarbu Państwa, Narodowego Banku Polskiego lub Bankowego Funduszu Gwarancyjnego.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym ([Dz. U. Nr 39, poz. 308](https://api.sejm.gov.pl/eli/acts/DU/2009/308/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166.](#gloss-0:6:)) uchyla się art. 20.
+
+### Art. 6.
+
+W ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych ([Dz. U. Nr 40, poz. 226](https://api.sejm.gov.pl/eli/acts/DU/2010/226/text.html) oraz z [2011 r. Nr 38, poz. 196](https://api.sejm.gov.pl/eli/acts/DU/2011/196/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+udzielaniu przez Skarb Państwa lub Bankowy Fundusz Gwarancyjny gwarancji zwiększania funduszy własnych instytucji finansowych;
+
+” ;
+
+### 2)
+
+tytuł rozdziału 2 otrzymuje brzmienie: „ Udzielanie gwarancji zwiększania funduszy własnych instytucji finansowych ” ;
+
+### 3)
+
+w art. 3 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy w ramach postępowania naprawczego konieczne jest zwiększenie funduszy własnych, instytucja finansowa może uzyskać gwarancję Skarbu Państwa lub Bankowego Funduszu Gwarancyjnego zwiększenia funduszy własnych, na zasadach określonych w ustawie, zwaną dalej „gwarancją”.
+
+” ;
+
+### 4)
+
+w art. 4 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Warunkiem udzielenia gwarancji Skarbu Państwa lub Bankowego Funduszu Gwarancyjnego jest akceptacja programu naprawczego przez Komisję Nadzoru Finansowego.
+
+” ;
+
+### 5)
+
+w art. 6:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Gwarancji może udzielić, w imieniu Skarbu Państwa, minister właściwy do spraw instytucji finansowych, na wniosek instytucji finansowej.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku podjęcia decyzji o udzieleniu gwarancji zwiększenia funduszy własnych minister właściwy do spraw instytucji finansowych, uwzględniając konieczność zapewnienia stabilności krajowego systemu finansowego, o którym mowa art. 2 pkt 1 ustawy z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej ([Dz. U. Nr 209, poz. 1317](https://api.sejm.gov.pl/eli/acts/DU/2008/1317/text.html) oraz z [2013 r. poz. 1012](https://api.sejm.gov.pl/eli/acts/DU/2013/1012/text.html)), oraz zasadność wykorzystania budżetowych i pozabudżetowych źródeł finansowania, może zwrócić się z wnioskiem do Bankowego Funduszu Gwarancyjnego o udzielenie we własnym imieniu gwarancji ze środków funduszu stabilizacyjnego, o którym mowa w art. 18a ust. 1 ustawy z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 2009 r. Nr 84, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/2009/711/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.](#gloss-0:7:)), w zakresie całości lub części kwoty objętej wnioskiem banku krajowego.
+
+” ;
+
+### 6)
+
+w art. 14 uchyla się ust. 2a i 2b.
+
+### Art. 7.
+
+Podmioty objęte obowiązkowym systemem gwarantowania są obowiązane do wniesienia po raz pierwszy opłaty ostrożnościowej za rok wejścia w życie ustawy w wysokości określonej w art. 14a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 60 dni od dnia opublikowania uchwały Rady Bankowego Funduszu Gwarancyjnego o wysokości stawki tej opłaty w dwóch dziennikach o zasięgu ogólnokrajowym.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, ustawę z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej, ustawę z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym oraz ustawę z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji finansowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391, z 2012 r. poz. 362, 596, 769, 1010, 1342, 1448 i 1540 oraz z 2013 r. poz. 21, 613 i 888. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1166 i 1385 oraz z 2013 r. poz. 70. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 3, poz. 12, z 2011 r. Nr 38, poz. 196 i Nr 186, poz. 1101 oraz z 2012 r. poz. 1166. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 144, poz. 1176, z 2010 r. Nr 140, poz. 943 i Nr 257, poz. 1724, z 2011 r. Nr 134, poz. 781, z 2012 r. poz. 596 i 1166 oraz z 2013 r. poz. 613 i 1012.

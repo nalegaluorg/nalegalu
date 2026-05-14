@@ -8,9 +8,9 @@ pos: 462
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# U S T A W A z dnia 19 października 1991 r.
+# Ustawa z dnia 19 października 1991 r. o zmianie ustawy o kolejach i ustawy - Prawo przewozowe
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,42 @@ domain: null
 | Data ogłoszenia | 1991-10-19 |
 | Data wydania | 1991-11-22 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911070462) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/462/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1991/462/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1991/462) |
 
-o zmianie ustawy o kolejach i ustawy - Prawo przewozowe.
+## Treść ustawy
 
-**Art. 1.** W ustawie z dnia 2 grudnia 1960 r. o kolejach (Dz.U. z 1989 r. Nr 52, poz.310 i z 1990 r. Nr 34, poz.198) art.8 otrzymuje brzmienie: "Art. 8. Dyrektor Generalny Przedsiębiorstwa Państwowego "Polskie Koleje Państwowe", po zasięgnięciu opinii właściwego wojewody, może zarządzić likwidację i rozbiórkę nieczynnych linii kolei użytku publicznego lub ich części.".
+### Art. 1.
 
-**Art. 2.** W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe (Dz.U. Nr 53, poz.272) w art.8 w ust.1:
+W ustawie z dnia 2 grudnia 1960 r. o kolejach ([Dz. U. z 1989 r. Nr 52, poz. 310](https://api.sejm.gov.pl/eli/acts/DU/1989/310/text.html) i z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html)) art. 8 otrzymuje brzmienie:
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+„
 
+### Art. 8.
+
+Dyrektor Generalny Przedsiębiorstwa Państwowego „Polskie Koleje Państwowe”, po zasięgnięciu opinii właściwego wojewody, może zarządzić likwidację i rozbiórkę nieczynnych linii kolei użytku publicznego lub ich części.
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe ([Dz. U. Nr 53, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1984/272/text.html)) w art. 8 w ust. 1:
+
+### 1)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przewoźnika - w razie klęski żywiołowej, przerwy w eksploatacji, szczególnych trudności spowodowanych przez klienta, przyczyn ekonomicznych, jak również z uwagi na bezpieczeństwo ruchu, za zgodą i na warunkach ustalonych przez Ministra Transportu i Gospodarki Morskiej. Zgoda nie jest wymagana, jeżeli ograniczenie obowiązku następuje na okres nie dłuższy niż 3 dni.
+
+” ,
+
+### 2)
+
+skreśla się pkt 3.
+
+### Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

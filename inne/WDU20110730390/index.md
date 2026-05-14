@@ -8,11 +8,9 @@ pos: 390
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 4 marca 2011 r. o zmianie ustawy o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych oraz niektórych innych ustaw
-
-*USTAWA dnia 4 marca 2011 o zmianie ustawy o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych oraz niektórych innych ustaw*
+# Ustawa z dnia 4 marca 2011 r. o zmianie ustawy o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy i ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,191 +22,1104 @@ domain: null
 | Data ogłoszenia | 2011-03-04 |
 | Data wydania | 2011-04-06 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110730390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/390/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2011/390/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2011/390) |
 
-**Art. 1.** W ustawie dnia 28 lipca 2005 o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. 167, 1399, 2007 133, 921 oraz 2009 62, 504) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 9.**
+### Art. 1.
 
-1. Do zadań sanatorium uzdrowiskowego należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+W ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych ([Dz. U. Nr 167, poz. 1399](https://api.sejm.gov.pl/eli/acts/DU/2005/1399/text.html), z [2007 r. Nr 133, poz. 921](https://api.sejm.gov.pl/eli/acts/DU/2007/921/text.html) oraz z [2009 r. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html)) wprowadza się następujące zmiany:
 
-- **1)** całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
-- **2)** opieki lekarskiej i całodobowej opieki pielęgniarskiej;
-- **3)** przewidzianych programem leczenia zabiegów;
-- **4)** świadczeń profilaktycznych;
-- **5)** edukacji zdrowotnej.
+### 1)
 
-2. Świadczenia, o których mowa w ust. 1 pkt 1, obejmują związane leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ).
+w art. 2:
 
-**Art. 10.**
+### a)
 
-1. Do zadań szpitala uzdrowiskowego dla dzieci i sanatorium uzdrowiskowego dla dzieci należy zapewnienie dziecku, które skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+pkt 1 otrzymuje brzmienie:
 
-- **1)** całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
-- **2)** całodobowej opieki lekarskiej i pielęgniarskiej;
-- **3)** przewidzianych programem leczenia zabiegów;
-- **4)** świadczeń profilaktycznych;
-- **5)** świadczeń opiekuńczych;
-- **6)** edukacji zdrowotnej.
+„
 
-2. Świadczenia, o których mowa w ust. 1 pkt 1, zapewniane przez sanatorium uzdrowiskowe dla dzieci, obejmują związane leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”;
+### 1)
 
-- **7)** w art. 11 wprowadzenie do wyliczenia otrzymuje brzmienie:
-- **8)** po art. 11 dodaje się art. 11a–11c w brzmieniu: „Art. 11a. Do zadań zakładu przyrodoleczniczego należy udzielanie zabiegów zakresu fizjoterapii.
+lecznictwo uzdrowiskowe - zorganizowaną działalność polegającą na udzielaniu świadczeń opieki zdrowotnej z zakresu leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, prowadzoną w uzdrowisku przez zakłady lecznictwa uzdrowiskowego albo poza uzdrowiskiem w szpitalach i sanatoriach znajdujących się w urządzonych podziemnych wyrobiskach górniczych, przy wykorzystaniu warunków naturalnych, takich jak:
 
-**Art. 11b.** Do zadań szpitala w urządzonym podziemnym wyrobisku górniczym należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+### a)
 
-**Art. 11c.**
+właściwości naturalnych surowców leczniczych,
 
-1. Do zadań sanatorium w urządzonym podziemnym wyrobisku górniczym należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+### b)
 
-- **1)** całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych lub ambulatoryjnych;
-- **2)** opieki lekarskiej i całodobowej opieki pielęgniarskiej;
-- **3)** przewidzianych programem leczenia zabiegów;
-- **4)** świadczeń profilaktycznych;
-- **5)** edukacji zdrowotnej.
+właściwości lecznicze klimatu, w tym talassoterapia i subterraneoterapia, oraz właściwości lecznicze mikroklimatu
 
-2. Świadczenia, o których mowa w ust. 1 pkt 1, obejmują związane leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”;
+- a także towarzyszące zabiegi z zakresu fizjoterapii;
 
-- **9)** art. 12 otrzymuje brzmienie: „Art. 12. Szpital uzdrowiskowy dla dzieci i sanatorium uzdrowiskowe dla dzieci udzielające świadczeń opieki zdrowotnej osobom objętym obowiązkiem szkolnym i obowiązkiem nauki zapewniają warunki do prowadzenia nauczania i wychowania w zakresie i na zasadach określonych w art. 71c ustawy dnia 7 września 1991 o systemie oświaty (Dz. U. 2004 256, 2572, późn. zm. ).”;
-- **10)** w art. 14 pkt 1 otrzymuje brzmienie: „1) skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, albo”;
-- **12)** w art. 16 ust. 2 otrzymuje brzmienie: „2. Osoby inne niż świadczeniobiorcy oraz świadczeniobiorcy, którzy nie uzyskali skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na zasadach określonych w przepisach, o których mowa w ust. 1, mogą korzystać lecznictwa uzdrowiskowego za odpłatnością w wysokości ustalonej przez zakład lecznictwa uzdrowiskowego, po przedstawieniu zaświadczenia o braku przeciwwskazań do korzystania danego rodzaju świadczeń zdrowotnych w danym uzdrowisku.”;
-- **13)** w art. 19:
-    - **a)** w ust. 1: – pkt 1 otrzymuje brzmienie: „1) określanie kierunków działalności uzdrowisk w zakresie lecznictwa uzdrowiskowego;”, – pkt 5 otrzymuje brzmienie: „5) potwierdzenie spełnienia warunków koniecznych do nadania danemu obszarowi statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej albo utrzymania tego statusu na podstawie operatu uzdrowiskowego;”, – uchyla się pkt 8,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób kierowania i kwalifikowania pacjentów do zakładów lecznictwa uzdrowiskowego, w tym przeciwwskazania do leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej stanowiące podstawę kwalifikowania pacjenta, kierując się bezpieczeństwem pacjenta, a także wskazaniem nauki i praktyki.”,
-    - **c)** uchyla się ust. 4;
+” ,
 
-- **14)** w art. 20 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „W przypadku stwierdzenia, na podstawie ust. 1, naruszenia przepisów ustawy minister właściwy do spraw zdrowia powiadamia kierownika zakładu lecznictwa uzdrowiskowego o stwierdzonych nieprawidłowościach oraz:”;
-- **15)** w art. 24:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Wojewoda powołuje i odwołuje naczelnego lekarza uzdrowiska. Wojewoda może powołać naczelnego lekarza uzdrowiska dla więcej niż jednego uzdrowiska na terenie danego województwa.”,
-    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Wojewoda przekazuje ministrowi właściwemu do spraw zdrowia informację o powołaniu albo odwołaniu naczelnego lekarza uzdrowiska.”,
-    - **c)** uchyla się ust. 4;
+### b)
 
-- **16)** po art. 24 dodaje się art. 24a w brzmieniu: uzdrowiska jest uprawniony w szczególności do:
-- **1)** żądania udostępnienia dokumentów związanych działalnością zakładów lecznictwa uzdrowiskowego oraz zapoznawania się ich treścią;
-- **2)** żądania przekazania wszelkich informacji i wyjaśnień dotyczących działalności zakładów lecznictwa uzdrowiskowego;
-- **3)** przeprowadzania kontroli na terenie zakładów lecznictwa uzdrowiskowego i żądania wyjaśnień potrzebnych do oceny ich działalności i jakości udzielanych przez nie świadczeń zdrowotnych oraz funkcjonowania tych zakładów.
+po pkt 1 dodaje się pkt 1a w brzmieniu:
 
-2. Naczelny lekarz uzdrowiska nie może przeprowadzać kontroli, o której mowa w ust. 1 pkt 3, jeżeli jest:
+„
 
-- **1)** właścicielem zakładu lecznictwa uzdrowiskowego;
-- **2)** świadczeniodawcą, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej w rozumieniu przepisów ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
-- **3)** osobą współpracującą zakładem lecznictwa uzdrowiskowego lub świadczeniodawcą, o którym mowa w pkt 2.
+### 1a)
 
-3. W przypadku, o którym mowa w ust. 2, kontrolę przeprowadzają osoby, o których mowa w art. 21 ust. 1.”;
+rehabilitacja uzdrowiskowa - zorganizowaną działalność prowadzoną w uzdrowisku przez zakłady lecznictwa uzdrowiskowego, mającą na celu przywrócenie pacjentowi zdrowia lub możliwej do osiągnięcia dla danego stanu samodzielności ruchowej i społecznej, przy wykorzystaniu naturalnych surowców leczniczych;
 
-- **17)** art. 25 otrzymuje brzmienie: „Art. 25. Naczelnym lekarzem uzdrowiska może być lekarz posiadający:
-- **1)** tytuł specjalisty w zakresie balneologii i medycyny fizykalnej oraz co najmniej 5-letni staż pracy w:
-    - **a)** zakładach lecznictwa uzdrowiskowego lub
-    - **b)** zakładach mających siedzibę w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, wykorzystujących przy udzielaniu świadczeń opieki zdrowotnej właściwości naturalnych surowców leczniczych oraz właściwości lecznicze klimatu lub
+” ,
 
-- **2)** tytuł specjalisty zgodny co najmniej jednym kierunków leczniczych prowadzonych w uzdrowisku i udokumentowane rozpoczęcie specjalizacji w zakresie balneologii i medycyny fizykalnej oraz co najmniej 10-letni staż pracy w zakładach, o których mowa w pkt 1.”;
-- **18)** art. 27 otrzymuje brzmienie: „Art. 27. 1. Naczelny lekarz uzdrowiska prowadzi dokumentację związaną nadzorem nad lecznictwem uzdrowiskowym oraz ewidencję zakładów lecznictwa uzdrowiskowego i urządzeń lecznictwa uzdrowiskowego,
-- **1)** nazwę zakładu lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego;
-- **2)** rodzaj zakładu lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego;
-- **3)** określenie podmiotu, który utworzył zakład lecznictwa uzdrowiskowego;
-- **4)** regulamin określający sposób korzystania urządzenia lecznictwa uzdrowiskowego;
-- **5)** dane dotyczące zakresu i rodzaju udzielanych świadczeń zdrowotnych;
-- **6)** informacje o kwalifikacjach pracowników na poszczególnych rodzajach stanowisk związanych udzielaniem świadczeń zdrowotnych;
-- **7)** datę wpisu do ewidencji.
+### c)
 
-3. Kierownik zakładu lecznictwa uzdrowiskowego zgłasza zakład lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego do ewidencji, o której mowa w ust. 1, po uzyskaniu wpisu tego zakładu do rejestru zakładów opieki zdrowotnej, o którym mowa w art. 12 ustawy dnia 31 sierpnia 1991 o zakładach opieki zdrowotnej.
+pkt 6 otrzymuje brzmienie:
 
-4. Zgłoszenie zawiera informacje, o których mowa w ust. 2 pkt 1–6.
+„
 
-5. Kierownik zakładu lecznictwa uzdrowiskowego jest obowiązany niezwłocznie zgłosić naczelnemu lekarzowi uzdrowiska zmiany danych objętych ewidencją , o której mowa w ust. 1.”;
+### 6)
 
-- **19)** art. 28 otrzymuje brzmienie: „Art. 28. 1. Działalność naczelnego lekarza uzdrowiska jest finansowana ze środków właściwego wojewody.
+strefy ochrony uzdrowiskowej - części obszaru uzdrowiska albo obszaru ochrony uzdrowiskowej, określone w statucie uzdrowiska, wydzielone w celu ochrony czynników leczniczych i naturalnych surowców leczniczych, walorów środowiska i urządzeń uzdrowiskowych;
 
-2. Wynagrodzenie naczelnego lekarza uzdrowiska nie może przekraczać 1,3 kwoty przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy dnia 17 grudnia 1998 o emeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2009 153, 1227, późn. zm. ).”;
+” ,
 
-- **20)** w art. 29:
-    - **a)** uchyla się pkt 3,
-    - **b)** uchyla się pkt 5;
+### d)
 
-- **21)** art. 33 otrzymuje brzmienie: obszaru ochrony uzdrowiskowej, pokrywają się granicami administracyjnymi gmin, miast lub jednostek pomocniczych gmin.
+pkt 8 otrzymuje brzmienie:
 
-2. Granica obszaru, któremu został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, pokrywa się granicą strefy „C” ochrony uzdrowiskowej.
+„
 
-3. W sytuacjach, w których określenie strefy „C” ochrony uzdrowiskowej nie jest możliwe, a nie będzie to miało negatywnego wpływu na właściwości naturalnych surowców leczniczych lub właściwości lecznicze klimatu ani nie będzie stanowiło przeszkody w prowadzeniu lecznictwa uzdrowiskowego granica obszaru, któremu został nadany status uzdrowiska, może częściowo pokrywać się granicą strefy „B” ochrony uzdrowiskowej.
+### 8)
 
-4. Jeżeli odcinek granicy strefy „A” pokrywa się brzegiem morskim, to stanowi on na tym odcinku również granicę strefy „B” i „C” obszaru, któremu został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej.”;
+naturalne surowce lecznicze - gazy lecznicze oraz kopaliny lecznicze, w tym wody lecznicze i peloidy, których właściwości lecznicze zostały potwierdzone na zasadach określonych w ustawie;
 
-- **22)** w art. 35 ust. 3 otrzymuje brzmienie: „3. W przypadku zmiany granic administracyjnych, o których mowa w art. 33 ust. 1, wskutek której gmina uzyska dostęp do dodatkowych naturalnych surowców leczniczych, które będą eksploatowane w celu wykorzystania ich do prowadzenia lecznictwa uzdrowiskowego, stosuje się odpowiednio ust. 1.”;
-- **23)** art. 38 otrzymuje brzmienie: „Art. 38. Na obszarze uzdrowiska lub obszarze ochrony uzdrowiskowej wydziela się trzy rodzaje stref ochrony uzdrowiskowej, oznaczone literami „A”, „B” i „C”:
-- **1)** strefa „A”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 65 %, obejmuje obszar, na którym są zlokalizowane lub planowane zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego, a także inne obiekty służące lecznictwu uzdrowiskowemu lub obsłudze pacjenta lub turysty, w zakresie nieutrudniającym funkcjonowania lecznictwa uzdrowiskowego, w szczególności: pensjonaty, restauracje lub kawiarnie;
-- **2)** strefa „B”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 50 %, obejmuje obszar przyległy do strefy „A” i stanowiący jej otoczenie, który jest przeznaczony dla niemających negatywnego wpływu na właściwości lecznicze uzdrowiska lub obszaru ochrony uzdrowiskowej oraz nieuciążliwych dla pacjentów – obiektów usługowych, turystycznych, w tym hoteli, rekreacyjnych, sportowych i komunalnych, budownictwa mieszkaniowego oraz innych związanych zaspokajaniem potrzeb osób przebywających na tym obszarze lub objęty granicami parku narodowego lub rezerwatu przyrody albo jest lasem, morzem lub jeziorem;
-- **3)** strefa „C”, dla której procentowy udział terenów biologicznie wpływ na zachowanie walorów krajobrazowych, klimatycznych oraz ochronę złóż naturalnych surowców leczniczych.”;
-- **24)** po art. 38 dodaje się art. 38a i art. 38b w brzmieniu: „Art. 38a. 1. W strefie „A” ochrony uzdrowiskowej zabrania się:
-- **1)** budowy w rozumieniu przepisów ustawy dnia 7 lipca 1994 – Prawo budowlane (Dz. U. 2010 243, 1623 oraz 2011 32, 159 i 45, 235):
-    - **a)** zakładów przemysłowych,
-    - **b)** budynków mieszkalnych jednorodzinnych i wielorodzinnych,
-    - **c)** garaży wolno stojących,
-    - **d)** obiektów handlowych o powierzchni użytkowania większej niż 400 m ,
-    - **e)** stacji paliw oraz punktów dystrybucji produktów naftowych,
-    - **f)** autostrad i dróg ekspresowych,
-    - **g)** parkingów naziemnych o liczbie miejsc postojowych większej niż 15 % miejsc noclegowych w szpitalach uzdrowiskowych, sanatoriach uzdrowiskowych i pensjonatach, nie większej jednak niż 30 miejsc postojowych, oraz parkingów naziemnych przed obiektami usługowymi o liczbie miejsc postojowych nie większej niż 10,
-    - **h)** stacji bazowych telefonii ruchomej, stacji nadawczych radiowych i telewizyjnych, stacji radiolokacyjnych i innych emitujących fale elektromagnetyczne, wyłączeniem urządzeń łączności na potrzeby służb bezpieczeństwa publicznego i ratownictwa, zastrzeżeniem że urządzenia te będą oddziaływały na środowisko polami elektromagnetycznymi o poziomie nie wyższym niż określone dla strefy „B”,
-    - **i)** obiektów budowlanych mogących zawsze znacząco oddziaływać na środowisko, w szczególności takich jak: warsztaty samochodowe, wędzarnie, garbarnie, wyjątkiem obiektów budowlanych służących poprawie stanu sanitarnego uzdrowiska, w szczególności takich jak: sieć wodno-kanalizacyjna, sieć gazowa, kotłownie gazowe, wiercenia wykonywane w celu ujmowania wód leczniczych,
-    - **j)** zapór piętrzących wodę na rzekach oraz elektrowni wodnych i wiatrowych;
+” ,
 
-- **2)** uruchamiania składowisk odpadów stałych i płynnych, punktów skupu złomu i punktów skupu produktów rolnych, składów nawozów sztucznych, środków chemicznych i składów opału;
-- **3)** uruchamiania pól biwakowych i campingowych, budowy domków turystycznych i campingowych;
-- **4)** prowadzenia targowisk, wyjątkiem punktów sprzedaży pamiątek, wyrobów ludowych, produktów regionalnych, w formach ustawy dnia 11 marca 2004 o podatku od towarów i usług (Dz. U. 54, 535, późn. zm. );
-- **6)** trzymania zwierząt gospodarskich w rozumieniu przepisów ustawy dnia 29 czerwca 2007 o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. 133, 921, 2008 171, 1056, 2009 223, 1775 oraz 2010 127, 857);
-- **7)** organizacji rajdów samochodowych i motorowych;
-- **8)** organizowania imprez masowych w rozumieniu ustawy dnia 20 marca 2009 o bezpieczeństwie imprez masowych (Dz. U. 62, 504 oraz 2010 127, 857 i 152,
-- **1021)** , zakłócających proces leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, i działalności o charakterze rozrywkowym zakłócającej ciszę nocną w godz. 22 – 6 , wyjątkiem imprez masowych znajdujących się w harmonogramie imprez gminnych;
-- **9)** pozyskiwania surowców mineralnych innych niż naturalne surowce lecznicze;
-- **10)** wyrębu drzew leśnych i parkowych, wyjątkiem cięć pielęgnacyjnych;
-- **11)** prowadzenia robót melioracyjnych i innych działań powodujących niekorzystną zmianę istniejących stosunków wodnych;
-- **12)** prowadzenia działań mających negatywny wpływ na fizjografię uzdrowiska i jego układ urbanistyczny lub właściwości lecznicze klimatu.
+### e)
 
-2. W strefie „B” ochrony uzdrowiskowej zabrania się:
+w pkt 10 kropkę zastępuje się średnikiem i dodaje pkt 11 -14 w brzmieniu:
 
-- **1)** budowy w rozumieniu przepisów ustawy dnia 7 lipca 1994 – Prawo budowlane:
-    - **a)** stacji paliw, bliżej niż 500 m od granicy strefy „A” ochrony uzdrowiskowej,
-    - **b)** urządzeń emitujących fale elektromagnetyczne, będących przedsięwzięciami mogącymi zawsze znacząco oddziaływać na środowisko w rozumieniu przepisów ustawy dnia 3 października 2008 o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. 199, 1227, późn. zm. ), odelektromagnetycznymi o poziomach wyższych niż dopuszczalne poziomy pól elektromagnetycznych – charakteryzowane przez dopuszczalne wartości parametrów fizycznych – dla miejsc dostępnych dla ludności, określone na podstawie art. 122 ustawy dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. U. 2008 25, 150, późn. zm. ),
-    - **c)** parkingów naziemnych o liczbie miejsc postojowych powyżej 50, wyjątkiem podziemnych i naziemnych parkingów wielopoziomowych;
+„
 
-- **2)** wyrębu drzew leśnych i parkowych, wyjątkiem cięć pielęgnacyjnych i wyrębu określonego w planie urządzenia lasu;
-- **3)** budowy lub innych czynności, o których mowa w ust. 1 pkt 1 lit. a, d oraz pkt 2, 9, 11 i 12.
+### 11)
 
-3. W strefie „C” ochrony uzdrowiskowej zabrania się budowy lub innych czynności, o których mowa w ust. 1 pkt 1 lit. a, pkt 9, 11 i 12 oraz w ust. 2 pkt 2.
+tereny zieleni - powierzchnie gruntu pokryte roślinnością trwałą lub sezonową;
 
-**Art. 38b.** Gmina, która na podstawie decyzji ministra właściwego do spraw zdrowia uzyska potwierdzenie możliwości prowadzenia lecznictwa uzdrowiskowego na swoim obszarze, sporządza i uchwala miejscowy plan zagospodarowania przestrzennego dla strefy „A” ochrony uzdrowiskowej, na zasadach określonych w odrębnych przepisach, w terminie do 2 lat od dnia otrzymania tej decyzji.”;
+### 12)
 
-**Art. 2.** W ustawie dnia 13 czerwca 2003 o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. 2009 189, 1472 oraz 2010 81, 531) w art. 73 ust. 1 otrzymuje brzmienie: „1. Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. uzdrowiskowego albo rehabilitacji uzdrowiskowej.”.
+tereny biologicznie czynne - tereny z nawierzchnią ziemną urządzoną w sposób zapewniający naturalną wegetację, w szczególności jako trawniki lub kwietniki, a także stanowiące 50% sumy powierzchni tarasów i stropodachów z taką nawierzchnią, nie mniejszej jednak niż 10 m2, oraz wodę powierzchniową na tych terenach;
 
-**Art. 3.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) art. 33 otrzymuje brzmienie: „Art. 33. 1. Leczenie uzdrowiskowe albo rehabilitacja uzdrowiskowa przysługuje świadczeniobiorcy na podstawie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego. 2. Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddział wojewódzki Funduszu właściwy ze względu na miejsce zamieszkania świadczeniobiorcy, a jeżeli nie można ustalić miejsca jego zamieszkania – oddział wojewódzki Funduszu właściwy dla siedziby świadczeniodawcy, który wystawił skierowanie. 3. Świadczeniobiorca ponosi koszty przejazdu na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową i leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej oraz częściową odpłatność za wyżywienie i zakwaterowanie w sanatorium uzdrowiskowym. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych pokrywa do wysokości określonej w umowie oddziału wojewódzkiego Funduszu sanatorium uzdrowiskowym różnicę kosztów wyżywienia i zakwaterowania ubezpieczonego. 4. Dzieci i młodzież do ukończenia lat 18, a jeżeli kształcą się dalej – do ukończenia lat 26, dzieci niepełnosprawne w znacznym stopniu – bez ograniczenia wieku, a także dzieci uprawnione do renty rodzinnej nie ponoszą odpłatności za koszty wyżywienia i zakwaterowania w szpitalu uzdrowiskowym dla dzieci, sanatorium uzdrowiskowym dla dzieci i sanatorium uzdrowiskowym. 5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
+### 13)
 
-**Art. 4.** W ustawie dnia 13 kwietnia 2007 o Państwowej Inspekcji Pracy (Dz. U. 89, 589, późn. zm. ) art. 52 otrzymuje brzmienie: „Art. 52. Główny Inspektor Pracy może udzielić pracownikowi wykonującemu lub nadzorującemu czynności kontrolne płatnego urlopu zdrowotnego na podstawie skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na okres ustalony w tym skierowaniu, nieprzekraczający 30 dni w roku kalendarzowym.”.
+zakład przemysłowy - zespół budynków i urządzeń wraz z terenem, na którym prowadzi się działalność wytwórczą polegającą na przekształcaniu mechanicznym, fizycznym lub chemicznym materiału, substancji lub ich części składowych w nowy produkt;
 
-**Art. 5.** W ustawie dnia 27 sierpnia 2009 o Służbie Celnej (Dz. U. 168, 1323 i 201, 1540, 2010 182, 1228 oraz 2011 63, 322) art. 139 otrzymuje brzmienie: „Art. 139. Funkcjonariuszowi, po upływie 5 lat służby, przysługuje płatny urlop zdrowotny zachowaniem prawa do uposażenia. Urlopu zdrowotnego udziela kierownik urzędu na podstawie skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na okres ustalony w tym skierowaniu, nieprzekraczający jednak 30 kolejnych dni w każdym roku kalendarzowym.”.
+### 14)
 
-**Art. 6.** Obszary uznane na podstawie dotychczasowych przepisów za uzdrowiska i obszary ochrony uzdrowiskowej oraz zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego stają się uzdrowiskami i obszarami ochrony uzdrowiskowej oraz zakładami lecznictwa uzdrowiskowego i urządzeniami lecznictwa uzdrowiskowego w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+powierzchnia użytkowania - powierzchnię budynku lub jego części, mierzoną po wewnętrznej długości ścian na wszystkich kondygnacjach, oraz powierzchnię pomieszczeń pomocniczych, takich jak: magazyny, biura, ekspozycje wystawowe.
 
-**Art. 7.** Gmina, która w dniu wejścia w życie niniejszej ustawy posiada status uzdrowiska albo status obszaru ochrony uzdrowiskowej, sporządza i uchwala miejscowy plan zagospodarowania przestrzennego dla strefy „A” ochrony uzdrowiskowej w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+” ;
 
-**Art. 8.** Naczelny lekarz uzdrowiska powołany na podstawie dotychczasowych przepisów staje się naczelnym lekarzem uzdrowiska w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 2)
 
-**Art. 9.** Kierownik zakładu lecznictwa uzdrowiskowego zgłosi do ewidencji, o której mowa w art. 27 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zakład lecznictwa uzdrowiskowego lub urządzenie lecznictwa uzdrowiskowego znajdujące się na obszarze uzdrowiska nie później niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, a w przypadku uzdrowiska, w którym do dnia wejścia w życie niniejszej ustawy nie powołano naczelnego lekarza uzdrowiska – nie później niż w terminie 6 miesięcy od dnia powołania tego lekarza.
+w art. 4 ust. 2 otrzymuje brzmienie:
 
-**Art. 10.**
+„
 
-1. Statut uzdrowiska albo statut obszaru ochrony uzdrowiskowej uchwalony na podstawie dotychczasowych przepisów staje się statutem uzdrowiska albo statutem obszaru ochrony uzdrowiskowej w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 2.
 
-2. Gmina dostosuje statut uzdrowiska albo statut obszaru ochrony uzdrowiskowej, uchwalony na podstawie dotychczasowych przepisów, do wymagań określonych w art. 41 ust. 2 i 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie nie dłuższym niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+W uzdrowiskach lecznictwo uzdrowiskowe jest prowadzone w zakładach lecznictwa uzdrowiskowego zlokalizowanych w strefie „A” ochrony uzdrowiskowej.
 
-**Art. 11.**
+” ;
 
-1. Przepisów art. 38a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do zakładów przemysłowych, budynków, obiektów, autostrad i dróg ekspresowych, parkingów, stacji, zapór oraz urządzeń, które istniały przed dniem wejścia w życie niniejszej ustawy.
+### 3)
 
-2. Przepisu art. 38a ust. 1 pkt 1 lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie zakazu budowy budynków mieszkalnych jednorodzinnych, nie stosuje się do budowy takich budynków przez osoby, które uzyskały prawo do nieruchomości przed dniem 2 października 2005
+w art. 5 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Lecznictwo uzdrowiskowe jest prowadzone przy wykorzystaniu urządzeń lecznictwa uzdrowiskowego, takich jak: ” ;
 
-**Art. 12.** Skierowanie na leczenie uzdrowiskowe, wydane w trybie, o którym mowa w art. 33 ustawy dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, przed dniem wejścia w życie niniejszej ustawy, zachowuje ważność i stanowi podstawę do leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, w rozumieniu art. 2 pkt 1 i 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 4)
 
-**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 19 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+w art. 6:
 
-**Art. 14.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+### a)
 
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+szpitale uzdrowiskowe dla dzieci i sanatoria uzdrowiskowe dla dzieci;
+
+” ,
+
+### b)
+
+w pkt 4 kropkę zastępuje się średnikiem i dodaje pkt 5 i 6 w brzmieniu:
+
+„
+
+### 5)
+
+zakłady przyrodolecznicze;
+
+### 6)
+
+szpitale i sanatoria w urządzonych podziemnych wyrobiskach górniczych.
+
+” ;
+
+### 5)
+
+uchyla się art. 7;
+
+### 6)
+
+art. 8-10 otrzymują brzmienie:
+
+„
+
+### Art. 8.
+
+Do zadań szpitala uzdrowiskowego należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+### 1)
+
+całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+
+### 2)
+
+całodobowej opieki lekarskiej i pielęgniarskiej;
+
+### 3)
+
+przewidzianych programem leczenia zabiegów;
+
+### 4)
+
+korzystania z naturalnych surowców leczniczych oraz urządzeń lecznictwa uzdrowiskowego;
+
+### 5)
+
+edukacji zdrowotnej.
+
+### Art. 9.
+
+### 1.
+
+Do zadań sanatorium uzdrowiskowego należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+### 1)
+
+całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+
+### 2)
+
+opieki lekarskiej i całodobowej opieki pielęgniarskiej;
+
+### 3)
+
+przewidzianych programem leczenia zabiegów;
+
+### 4)
+
+świadczeń profilaktycznych;
+
+### 5)
+
+edukacji zdrowotnej.
+
+### 2.
+
+Świadczenia, o których mowa w ust. 1 pkt 1, obejmują związane z leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235.](#gloss-0:2:)).
+
+### Art. 10.
+
+### 1.
+
+Do zadań szpitala uzdrowiskowego dla dzieci i sanatorium uzdrowiskowego dla dzieci należy zapewnienie dziecku, które skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+### 1)
+
+całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+
+### 2)
+
+całodobowej opieki lekarskiej i pielęgniarskiej;
+
+### 3)
+
+przewidzianych programem leczenia zabiegów;
+
+### 4)
+
+świadczeń profilaktycznych;
+
+### 5)
+
+świadczeń opiekuńczych;
+
+### 6)
+
+edukacji zdrowotnej.
+
+### 2.
+
+Świadczenia, o których mowa w ust. 1 pkt 1, zapewniane przez sanatorium uzdrowiskowe dla dzieci, obejmują związane z leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+” ;
+
+### 7)
+
+w art. 11 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Do zadań przychodni uzdrowiskowej należy zapewnienie pacjentowi: ” ;
+
+### 8)
+
+po art. 11 dodaje się art. 11a-11c w brzmieniu:
+
+„
+
+### Art. 11a.
+
+Do zadań zakładu przyrodoleczniczego należy udzielanie zabiegów z zakresu fizjoterapii.
+
+### Art. 11b.
+
+Do zadań szpitala w urządzonym podziemnym wyrobisku górniczym należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+### 1)
+
+całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych;
+
+### 2)
+
+całodobowej opieki lekarskiej i pielęgniarskiej;
+
+### 3)
+
+przewidzianych programem leczenia zabiegów;
+
+### 4)
+
+korzystania z naturalnych surowców leczniczych oraz urządzeń lecznictwa uzdrowiskowego;
+
+### 5)
+
+edukacji zdrowotnej.
+
+### Art. 11c.
+
+### 1.
+
+Do zadań sanatorium w urządzonym podziemnym wyrobisku górniczym należy zapewnienie pacjentowi, którego skierowano na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową:
+
+### 1)
+
+całodobowych świadczeń opieki zdrowotnej w warunkach stacjonarnych lub ambulatoryjnych;
+
+### 2)
+
+opieki lekarskiej i całodobowej opieki pielęgniarskiej;
+
+### 3)
+
+przewidzianych programem leczenia zabiegów;
+
+### 4)
+
+świadczeń profilaktycznych;
+
+### 5)
+
+edukacji zdrowotnej.
+
+### 2.
+
+Świadczenia, o których mowa w ust. 1 pkt 1, obejmują związane z leczeniem uzdrowiskowym albo rehabilitacją uzdrowiskową świadczenia zdrowotne rzeczowe, o których mowa w art. 5 pkt 37 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+” ;
+
+### 9)
+
+art. 12 otrzymuje brzmienie:
+
+„
+
+### Art. 12.
+
+Szpital uzdrowiskowy dla dzieci i sanatorium uzdrowiskowe dla dzieci udzielające świadczeń opieki zdrowotnej osobom objętym obowiązkiem szkolnym i obowiązkiem nauki zapewniają warunki do prowadzenia nauczania i wychowania w zakresie i na zasadach określonych w art. 71c ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2004 r. Nr 256, poz. 2572](https://api.sejm.gov.pl/eli/acts/DU/2004/2572/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705 oraz z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991.](#gloss-0:3:)).
+
+” ;
+
+### 10)
+
+w art. 14 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową, albo
+
+” ;
+
+### 11)
+
+art. 15 otrzymuje brzmienie:
+
+„
+
+### Art. 15.
+
+W sprawach nieuregulowanych w ustawie do zakładów lecznictwa uzdrowiskowego mają zastosowanie przepisy ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej, ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta ([Dz. U. z 2009 r. Nr 52, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/2009/417/text.html) i [Nr 76, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html) oraz z [2010 r. Nr 96, poz. 620](https://api.sejm.gov.pl/eli/acts/DU/2010/620/text.html)), ustawy z dnia 6 listopada 2008 r. o akredytacji w ochronie zdrowia ([Dz. U. z 2009 r. Nr 52, poz. 418](https://api.sejm.gov.pl/eli/acts/DU/2009/418/text.html) i [Nr 76, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html)) oraz ustawy z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia ([Dz. U. z 2009 r. Nr 52, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/2009/419/text.html) i [Nr 76, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/2009/641/text.html) oraz z [2010 r. Nr 107, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2010/679/text.html)).
+
+” ;
+
+### 12)
+
+w art. 16 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Osoby inne niż świadczeniobiorcy oraz świadczeniobiorcy, którzy nie uzyskali skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na zasadach określonych w przepisach, o których mowa w ust. 1, mogą korzystać z lecznictwa uzdrowiskowego za odpłatnością w wysokości ustalonej przez zakład lecznictwa uzdrowiskowego, po przedstawieniu zaświadczenia o braku przeciwwskazań do korzystania z danego rodzaju świadczeń zdrowotnych w danym uzdrowisku.
+
+” ;
+
+### 13)
+
+w art. 19:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) określanie kierunków działalności uzdrowisk w zakresie lecznictwa uzdrowiskowego; ” ,
+
+- - pkt 5 otrzymuje brzmienie: „ 5) potwierdzenie spełnienia warunków koniecznych do nadania danemu obszarowi statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej albo utrzymania tego statusu na podstawie operatu uzdrowiskowego; ” ,
+
+- - uchyla się pkt 8,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób kierowania i kwalifikowania pacjentów do zakładów lecznictwa uzdrowiskowego, w tym przeciwwskazania do leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej stanowiące podstawę kwalifikowania pacjenta, kierując się bezpieczeństwem pacjenta, a także wskazaniem nauki i praktyki.
+
+” ,
+
+### c)
+
+uchyla się ust. 4;
+
+### 14)
+
+w art. 20 w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku stwierdzenia, na podstawie ust. 1, naruszenia przepisów ustawy minister właściwy do spraw zdrowia powiadamia kierownika zakładu lecznictwa uzdrowiskowego o stwierdzonych nieprawidłowościach oraz: ” ;
+
+### 15)
+
+w art. 24:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wojewoda powołuje i odwołuje naczelnego lekarza uzdrowiska. Wojewoda może powołać naczelnego lekarza uzdrowiska dla więcej niż jednego uzdrowiska na terenie danego województwa.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Wojewoda przekazuje ministrowi właściwemu do spraw zdrowia informację o powołaniu albo odwołaniu naczelnego lekarza uzdrowiska.
+
+” ,
+
+### c)
+
+uchyla się ust. 4;
+
+### 16)
+
+po art. 24 dodaje się art. 24a w brzmieniu:
+
+„
+
+### Art. 24a.
+
+### 1.
+
+W ramach nadzoru, o którym mowa w art. 24 ust. 2, naczelny lekarz uzdrowiska jest uprawniony w szczególności do:
+
+### 1)
+
+żądania udostępnienia dokumentów związanych z działalnością zakładów lecznictwa uzdrowiskowego oraz zapoznawania się z ich treścią;
+
+### 2)
+
+żądania przekazania wszelkich informacji i wyjaśnień dotyczących działalności zakładów lecznictwa uzdrowiskowego;
+
+### 3)
+
+przeprowadzania kontroli na terenie zakładów lecznictwa uzdrowiskowego i żądania wyjaśnień potrzebnych do oceny ich działalności i jakości udzielanych przez nie świadczeń zdrowotnych oraz funkcjonowania tych zakładów.
+
+### 2.
+
+Naczelny lekarz uzdrowiska nie może przeprowadzać kontroli, o której mowa w ust. 1 pkt 3, jeżeli jest:
+
+### 1)
+
+właścicielem zakładu lecznictwa uzdrowiskowego;
+
+### 2)
+
+świadczeniodawcą, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej w rozumieniu przepisów ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+
+### 3)
+
+osobą współpracującą z zakładem lecznictwa uzdrowiskowego lub świadczeniodawcą, o którym mowa w pkt 2.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, kontrolę przeprowadzają osoby, o których mowa w art. 21 ust. 1.
+
+” ;
+
+### 17)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+Naczelnym lekarzem uzdrowiska może być lekarz posiadający:
+
+### 1)
+
+tytuł specjalisty w zakresie balneologii i medycyny fizykalnej oraz co najmniej 5-letni staż pracy w:
+
+### a)
+
+zakładach lecznictwa uzdrowiskowego lub
+
+### b)
+
+zakładach mających siedzibę w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej oraz państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, wykorzystujących przy udzielaniu świadczeń opieki zdrowotnej właściwości naturalnych surowców leczniczych oraz właściwości lecznicze klimatu lub
+
+### 2)
+
+tytuł specjalisty zgodny z co najmniej jednym z kierunków leczniczych prowadzonych w uzdrowisku i udokumentowane rozpoczęcie specjalizacji w zakresie balneologii i medycyny fizykalnej oraz co najmniej 10-letni staż pracy w zakładach, o których mowa w pkt 1.
+
+” ;
+
+### 18)
+
+art. 27 otrzymuje brzmienie:
+
+„
+
+### Art. 27.
+
+### 1.
+
+Naczelny lekarz uzdrowiska prowadzi dokumentację związaną z nadzorem nad lecznictwem uzdrowiskowym oraz ewidencję zakładów lecznictwa uzdrowiskowego i urządzeń lecznictwa uzdrowiskowego, znajdujących się na obszarze uzdrowiska.
+
+### 2.
+
+Ewidencja, o której mowa w ust. 1, zawiera:
+
+### 1)
+
+nazwę zakładu lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego;
+
+### 2)
+
+rodzaj zakładu lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego;
+
+### 3)
+
+określenie podmiotu, który utworzył zakład lecznictwa uzdrowiskowego;
+
+### 4)
+
+regulamin określający sposób korzystania z urządzenia lecznictwa uzdrowiskowego;
+
+### 5)
+
+dane dotyczące zakresu i rodzaju udzielanych świadczeń zdrowotnych;
+
+### 6)
+
+informacje o kwalifikacjach pracowników na poszczególnych rodzajach stanowisk związanych z udzielaniem świadczeń zdrowotnych;
+
+### 7)
+
+datę wpisu do ewidencji.
+
+### 3.
+
+Kierownik zakładu lecznictwa uzdrowiskowego zgłasza zakład lecznictwa uzdrowiskowego lub urządzenia lecznictwa uzdrowiskowego do ewidencji, o której mowa w ust. 1, po uzyskaniu wpisu tego zakładu do rejestru zakładów opieki zdrowotnej, o którym mowa w art. 12 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.
+
+### 4.
+
+Zgłoszenie zawiera informacje, o których mowa w ust. 2 pkt 1 -6.
+
+### 5.
+
+Kierownik zakładu lecznictwa uzdrowiskowego jest obowiązany niezwłocznie zgłosić naczelnemu lekarzowi uzdrowiska zmiany danych objętych ewidencją, o której mowa w ust. 1.
+
+” ;
+
+### 19)
+
+art. 28 otrzymuje brzmienie:
+
+„
+
+### Art. 28.
+
+### 1.
+
+Działalność naczelnego lekarza uzdrowiska jest finansowana ze środków właściwego wojewody.
+
+### 2.
+
+Wynagrodzenie naczelnego lekarza uzdrowiska nie może przekraczać 1,3 kwoty przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłaszanej przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” na podstawie art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2009 r. Nr 153, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2009/1227/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726.](#gloss-0:4:)).
+
+” ;
+
+### 20)
+
+w art. 29:
+
+### a)
+
+uchyla się pkt 3,
+
+### b)
+
+uchyla się pkt 5;
+
+### 21)
+
+art. 33 otrzymuje brzmienie:
+
+„
+
+### Art. 33.
+
+### 1.
+
+Granice obszaru, któremu został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, pokrywają się z granicami administracyjnymi gmin, miast lub jednostek pomocniczych gmin.
+
+### 2.
+
+Granica obszaru, któremu został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, pokrywa się z granicą strefy „C” ochrony uzdrowiskowej.
+
+### 3.
+
+W sytuacjach, w których określenie strefy „C” ochrony uzdrowiskowej nie jest możliwe, a nie będzie to miało negatywnego wpływu na właściwości naturalnych surowców leczniczych lub właściwości lecznicze klimatu ani nie będzie stanowiło przeszkody w prowadzeniu lecznictwa uzdrowiskowego granica obszaru, któremu został nadany status uzdrowiska, może częściowo pokrywać się z granicą strefy „B” ochrony uzdrowiskowej.
+
+### 4.
+
+Jeżeli odcinek granicy strefy „A” pokrywa się z brzegiem morskim, to stanowi on na tym odcinku również granicę strefy „B” i „C” obszaru, któremu został nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej.
+
+” ;
+
+### 22)
+
+w art. 35 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku zmiany granic administracyjnych, o których mowa w art. 33 ust. 1, wskutek której gmina uzyska dostęp do dodatkowych naturalnych surowców leczniczych, które będą eksploatowane w celu wykorzystania ich do prowadzenia lecznictwa uzdrowiskowego, stosuje się odpowiednio ust. 1.
+
+” ;
+
+### 23)
+
+art. 38 otrzymuje brzmienie:
+
+„
+
+### Art. 38.
+
+Na obszarze uzdrowiska lub obszarze ochrony uzdrowiskowej wydziela się trzy rodzaje stref ochrony uzdrowiskowej, oznaczone literami „A”, „B” i „C”:
+
+### 1)
+
+strefa „A”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 65%, obejmuje obszar, na którym są zlokalizowane lub planowane zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego, a także inne obiekty służące lecznictwu uzdrowiskowemu lub obsłudze pacjenta lub turysty, w zakresie nieutrudniającym funkcjonowania lecznictwa uzdrowiskowego, w szczególności: pensjonaty, restauracje lub kawiarnie;
+
+### 2)
+
+strefa „B”, dla której procentowy udział terenów zieleni wynosi nie mniej niż 50%, obejmuje obszar przyległy do strefy „A” i stanowiący jej otoczenie, który jest przeznaczony dla niemających negatywnego wpływu na właściwości lecznicze uzdrowiska lub obszaru ochrony uzdrowiskowej oraz nieuciążliwych dla pacjentów - obiektów usługowych, turystycznych, w tym hoteli, rekreacyjnych, sportowych i komunalnych, budownictwa mieszkaniowego oraz innych związanych z zaspokajaniem potrzeb osób przebywających na tym obszarze lub objęty granicami parku narodowego lub rezerwatu przyrody albo jest lasem, morzem lub jeziorem;
+
+### 3)
+
+strefa „C”, dla której procentowy udział terenów biologicznie czynnych wynosi nie mniej niż 45%, obejmuje obszar przyległy do strefy „B” i stanowiący jej otoczenie oraz obszar mający wpływ na zachowanie walorów krajobrazowych, klimatycznych oraz ochronę złóż naturalnych surowców leczniczych.
+
+” ;
+
+### 24)
+
+po art. 38 dodaje się art. 38a i art. 38b w brzmieniu:
+
+„
+
+### Art. 38a.
+
+### 1.
+
+W strefie „A” ochrony uzdrowiskowej zabrania się:
+
+### 1)
+
+budowy w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2010 r. Nr 243, poz. 1623](https://api.sejm.gov.pl/eli/acts/DU/2010/1623/text.html) oraz z [2011 r. Nr 32, poz. 159](https://api.sejm.gov.pl/eli/acts/DU/2011/159/text.html) i [Nr 45, poz. 235](https://api.sejm.gov.pl/eli/acts/DU/2011/235/text.html)):
+
+### a)
+
+zakładów przemysłowych,
+
+### b)
+
+budynków mieszkalnych jednorodzinnych i wielorodzinnych,
+
+### c)
+
+garaży wolno stojących,
+
+### d)
+
+obiektów handlowych o powierzchni użytkowania większej niż 400 m2,
+
+### e)
+
+stacji paliw oraz punktów dystrybucji produktów naftowych,
+
+### f)
+
+autostrad i dróg ekspresowych,
+
+### g)
+
+parkingów naziemnych o liczbie miejsc postojowych większej niż 15% miejsc noclegowych w szpitalach uzdrowiskowych, sanatoriach uzdrowiskowych i pensjonatach, nie większej jednak niż 30 miejsc postojowych, oraz parkingów naziemnych przed obiektami usługowymi o liczbie miejsc postojowych nie większej niż 10,
+
+### h)
+
+stacji bazowych telefonii ruchomej, stacji nadawczych radiowych i telewizyjnych, stacji radiolokacyjnych i innych emitujących fale elektromagnetyczne, z wyłączeniem urządzeń łączności na potrzeby służb bezpieczeństwa publicznego i ratownictwa, z zastrzeżeniem że urządzenia te będą oddziaływały na środowisko polami elektromagnetycznymi o poziomie nie wyższym niż określone dla strefy „B”,
+
+### i)
+
+obiektów budowlanych mogących zawsze znacząco oddziaływać na środowisko, w szczególności takich jak: warsztaty samochodowe, wędzarnie, garbarnie, z wyjątkiem obiektów budowlanych służących poprawie stanu sanitarnego uzdrowiska, w szczególności takich jak: sieć wodno-kanalizacyjna, sieć gazowa, kotłownie gazowe, wiercenia wykonywane w celu ujmowania wód leczniczych,
+
+### j)
+
+zapór piętrzących wodę na rzekach oraz elektrowni wodnych i wiatrowych;
+
+### 2)
+
+uruchamiania składowisk odpadów stałych i płynnych, punktów skupu złomu i punktów skupu produktów rolnych, składów nawozów sztucznych, środków chemicznych i składów opału;
+
+### 3)
+
+uruchamiania pól biwakowych i campingowych, budowy domków turystycznych i campingowych;
+
+### 4)
+
+prowadzenia targowisk, z wyjątkiem punktów sprzedaży pamiątek, wyrobów ludowych, produktów regionalnych, w formach i miejscach wyznaczonych przez gminę;
+
+### 5)
+
+prowadzenia działalności rolniczej w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. Nr 54, poz. 535](https://api.sejm.gov.pl/eli/acts/DU/2004/535/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382, z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320, z 2009 r. Nr 3, poz. 11, Nr 116, poz. 979, Nr 195, poz. 1504, Nr 201, poz. 1540 i Nr 215, poz. 1666, z 2010 r. Nr 57, poz. 357, Nr 75, poz. 473, Nr 107, poz. 679, Nr 226, poz. 1476, Nr 238, poz. 1578, Nr 247, poz. 1652 i Nr 257, poz. 1726 oraz z 2011 r. Nr 64, poz. 432.](#gloss-0:5:));
+
+### 6)
+
+trzymania zwierząt gospodarskich w rozumieniu przepisów ustawy z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich ([Dz. U. Nr 133, poz. 921](https://api.sejm.gov.pl/eli/acts/DU/2007/921/text.html), z [2008 r. Nr 171, poz. 1056](https://api.sejm.gov.pl/eli/acts/DU/2008/1056/text.html), z [2009 r. Nr 223, poz. 1775](https://api.sejm.gov.pl/eli/acts/DU/2009/1775/text.html) oraz z [2010 r. Nr 127, poz. 857](https://api.sejm.gov.pl/eli/acts/DU/2010/857/text.html));
+
+### 7)
+
+organizacji rajdów samochodowych i motorowych;
+
+### 8)
+
+organizowania imprez masowych w rozumieniu ustawy z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych ([Dz. U. Nr 62, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/2009/504/text.html) oraz z [2010 r. Nr 127, poz. 857](https://api.sejm.gov.pl/eli/acts/DU/2010/857/text.html) i [Nr 152, poz. 1021](https://api.sejm.gov.pl/eli/acts/DU/2010/1021/text.html)), zakłócających proces leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, i działalności o charakterze rozrywkowym zakłócającej ciszę nocną w godz. 2200-600, z wyjątkiem imprez masowych znajdujących się w harmonogramie imprez gminnych;
+
+### 9)
+
+pozyskiwania surowców mineralnych innych niż naturalne surowce lecznicze;
+
+### 10)
+
+wyrębu drzew leśnych i parkowych, z wyjątkiem cięć pielęgnacyjnych;
+
+### 11)
+
+prowadzenia robót melioracyjnych i innych działań powodujących niekorzystną zmianę istniejących stosunków wodnych;
+
+### 12)
+
+prowadzenia działań mających negatywny wpływ na fizjografię uzdrowiska i jego układ urbanistyczny lub właściwości lecznicze klimatu.
+
+### 2.
+
+W strefie „B” ochrony uzdrowiskowej zabrania się:
+
+### 1)
+
+budowy w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. - Prawo budowlane:
+
+### a)
+
+stacji paliw, bliżej niż 500 m od granicy strefy „A” ochrony uzdrowiskowej,
+
+### b)
+
+urządzeń emitujących fale elektromagnetyczne, będących przedsięwzięciami mogącymi zawsze znacząco oddziaływać na środowisko w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. Nr 199, poz. 1227](https://api.sejm.gov.pl/eli/acts/DU/2008/1227/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228 oraz z 2011 r. Nr 32, poz. 159.](#gloss-0:6:)), oddziałujących na strefę „A” ochrony uzdrowiskowej polami elektromagnetycznymi o poziomach wyższych niż dopuszczalne poziomy pól elektromagnetycznych - charakteryzowane przez dopuszczalne wartości parametrów fizycznych - dla miejsc dostępnych dla ludności, określone na podstawie art. 122 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2008 r. Nr 25, poz. 150](https://api.sejm.gov.pl/eli/acts/DU/2008/150/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159 i Nr 63, poz. 322.](#gloss-0:7:)),
+
+### c)
+
+parkingów naziemnych o liczbie miejsc postojowych powyżej 50, z wyjątkiem podziemnych i naziemnych parkingów wielopoziomowych;
+
+### 2)
+
+wyrębu drzew leśnych i parkowych, z wyjątkiem cięć pielęgnacyjnych i wyrębu określonego w planie urządzenia lasu;
+
+### 3)
+
+budowy lub innych czynności, o których mowa w ust. 1 pkt 1 lit. a, d oraz pkt 2, 9, 11 i 12.
+
+### 3.
+
+W strefie „C” ochrony uzdrowiskowej zabrania się budowy lub innych czynności, o których mowa w ust. 1 pkt 1 lit. a, pkt 9, 11 i 12 oraz w ust. 2 pkt 2.
+
+### Art. 38b.
+
+Gmina, która na podstawie decyzji ministra właściwego do spraw zdrowia uzyska potwierdzenie możliwości prowadzenia lecznictwa uzdrowiskowego na swoim obszarze, sporządza i uchwala miejscowy plan zagospodarowania przestrzennego dla strefy „A” ochrony uzdrowiskowej, na zasadach określonych w odrębnych przepisach, w terminie do 2 lat od dnia otrzymania tej decyzji.
+
+” ;
+
+### 25)
+
+w art. 39:
+
+### a)
+
+w ust. 4 pkt 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3)
+
+opis zagospodarowania przestrzennego obszaru, o którym mowa w pkt 2, z uwzględnieniem powierzchni i granic stref ochrony uzdrowiskowej, dokładnych danych o lokalizacji i stanie infrastruktury technicznej, w tym komunikacyjnej, oraz prowadzonych robotach budowlanych dotyczących tej infrastruktury, a także terenów przeznaczonych w miejscowym planie zagospodarowania przestrzennego lub studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy pod lecznictwo uzdrowiskowe oraz działalność rekreacyjno-wypoczynkową i działalność gospodarczą;
+
+### 4)
+
+określenie projektowanych stref ochrony uzdrowiskowej wraz z określeniem koniecznych do zachowania terenów zieleni i terenów biologicznie czynnych;
+
+” ,
+
+### b)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Część graficzna operatu uzdrowiskowego obejmuje mapy obszaru, któremu ma zostać nadany status uzdrowiska albo status obszaru ochrony uzdrowiskowej, z zaznaczeniem poszczególnych planowanych stref ochrony uzdrowiskowej oraz graficznym przedstawieniem informacji, o których mowa w ust. 4 pkt 3, 4, 7, 9 i 10.
+
+### 6.
+
+Część graficzną sporządza się w skali nie mniejszej niż 1:5000 dla projektowanej strefy „A” ochrony uzdrowiskowej, 1:10 000 wspólnie dla stref „A” i „B” ochrony uzdrowiskowej oraz 1:25000 wspólnie dla stref „A”, „B” i „C” ochrony uzdrowiskowej.
+
+” ;
+
+### 26)
+
+w art. 40 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+W decyzji, o której mowa w ust. 2, minister właściwy do spraw zdrowia ustala kierunki lecznicze dla danego uzdrowiska na podstawie:
+
+### 1)
+
+świadectwa, o którym mowa w art. 36 ust. 4;
+
+### 2)
+
+opinii krajowego konsultanta do spraw balneologii i medycyny fizykalnej w zakresie skuteczności leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej w danym kierunku leczniczym;
+
+### 3)
+
+informacji o kwalifikacjach pracowników na poszczególnych rodzajach stanowisk związanych z udzielaniem świadczeń zdrowotnych;
+
+### 4)
+
+informacji o rodzajach zakładów lecznictwa uzdrowiskowego w danym uzdrowisku.
+
+” ;
+
+### 27)
+
+w art. 41:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Statut uzdrowiska albo statut obszaru ochrony uzdrowiskowej zawiera w szczególności:
+
+### 1)
+
+nazwę uzdrowiska lub nazwę obszaru ochrony uzdrowiskowej i określenie jego granic;
+
+### 2)
+
+określenie powierzchni obszaru uzdrowiska wraz z opisem stref ochrony uzdrowiskowej, o których mowa w art. 38;
+
+### 3)
+
+przepisy mające na celu ochronę funkcji leczniczej w uzdrowiskach, określające w szczególności:
+
+### a)
+
+formy i miejsca prowadzenia punktów sprzedaży pamiątek, wyrobów ludowych, produktów regionalnych lub towarów o podobnym charakterze,
+
+### b)
+
+formy i miejsca lokalizacji tablic i urządzeń reklamowych;
+
+### 4)
+
+opis właściwości naturalnych surowców leczniczych występujących na terenie uzdrowiska albo obszaru ochrony uzdrowiskowej i właściwości leczniczych klimatu;
+
+### 5)
+
+część graficzną określającą strefy ochrony uzdrowiskowej oraz granice obszaru i terenu górniczego, ustanowionego na podstawie przepisów ustawy z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ([Dz. U. z 2005 r. Nr 228, poz. 1947](https://api.sejm.gov.pl/eli/acts/DU/2005/1947/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556, z 2008 r. Nr 138, poz. 865, Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489.](#gloss-0:8:)), obejmującą mapy strefy „A” ochrony uzdrowiskowej w skali 1:5000 z zaznaczonymi ulicami, terenami zieleni, zakładami lecznictwa uzdrowiskowego i urządzeniami lecznictwa uzdrowiskowego, mapy strefy „B” ochrony uzdrowiskowej w skali 1:10 000 oraz mapy strefy „C” ochrony uzdrowiskowej i obszaru górniczego w skali 1:25 000.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Statut uzdrowiska powinien zawierać także wykaz zakładów lecznictwa uzdrowiskowego i urządzeń lecznictwa uzdrowiskowego oraz kierunków leczniczych ustalonych przez ministra właściwego do spraw zdrowia.
+
+” ;
+
+### 28)
+
+w art. 42:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Jeżeli obszar ochrony uzdrowiskowej spełnia wymaganie, o którym mowa w art. 34 ust. 1 pkt 3, i gmina przekaże uzupełniony operat uzdrowiskowy, o którym mowa w art. 40, minister właściwy do spraw zdrowia występuje do Rady Ministrów z wnioskiem o nadanie obszarowi ochrony uzdrowiskowej statusu uzdrowiska.
+
+” ,
+
+### b)
+
+w ust. 2 na końcu pkt 2 skreśla się przecinek i uchyla pkt 3;
+
+### 29)
+
+w art. 43 po ust. 4 dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+W przypadku wystąpienia istotnych zmian na obszarze gminy, w szczególności zmiany granic stref ochrony uzdrowiskowej, kierunków leczniczych i przeciwwskazań do leczenia w danym uzdrowisku oraz zmiany liczby zakładów lecznictwa uzdrowiskowego na terenie uzdrowiska, gmina sporządza uzupełnienie operatu w tym zakresie i przedstawia je ministrowi właściwemu do spraw zdrowia w celu potwierdzenia, o którym mowa w ust. 1.
+
+” ;
+
+### 30)
+
+w art. 46 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+gospodarki terenami, z uwzględnieniem potrzeb lecznictwa uzdrowiskowego, ochrony złóż naturalnych surowców leczniczych oraz budowy lub innych czynności zabronionych w poszczególnych strefach ochrony uzdrowiskowej;
+
+” ;
+
+### 31)
+
+w art. 47 w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+opiniowanie projektów miejscowych planów zagospodarowania przestrzennego obejmujących tereny wchodzące w skład stref ochrony uzdrowiskowej;
+
+” ;
+
+### 32)
+
+w art. 50 na końcu pkt 4 stawia się przecinek i dodaje pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+wbrew zakazowi prowadzi działalność lub wykonuje czynności, o których mowa w art. 38a
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej ([Dz. U. z 2009 r. Nr 189, poz. 1472](https://api.sejm.gov.pl/eli/acts/DU/2009/1472/text.html) oraz z [2010 r. Nr 81, poz. 531](https://api.sejm.gov.pl/eli/acts/DU/2010/531/text.html)) w art. 73 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Opieka medyczna obejmuje świadczenia opieki zdrowotnej w zakresie, w jakim osobom objętym obowiązkowym lub dobrowolnym ubezpieczeniem zdrowotnym przysługuje prawo do świadczeń na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578, Nr 257 i poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235.](#gloss-0:9:)), z wyłączeniem leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235.](#gloss-0:10:)) art. 33 otrzymuje brzmienie:
+
+„
+
+### Art. 33.
+
+### 1.
+
+Leczenie uzdrowiskowe albo rehabilitacja uzdrowiskowa przysługuje świadczeniobiorcy na podstawie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego.
+
+### 2.
+
+Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddział wojewódzki Funduszu właściwy ze względu na miejsce zamieszkania świadczeniobiorcy, a jeżeli nie można ustalić miejsca jego zamieszkania - oddział wojewódzki Funduszu właściwy dla siedziby świadczeniodawcy, który wystawił skierowanie.
+
+### 3.
+
+Świadczeniobiorca ponosi koszty przejazdu na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową i z leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej oraz częściową odpłatność za wyżywienie i zakwaterowanie w sanatorium uzdrowiskowym. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych pokrywa do wysokości określonej w umowie oddziału wojewódzkiego Funduszu z sanatorium uzdrowiskowym różnicę kosztów wyżywienia i zakwaterowania ubezpieczonego.
+
+### 4.
+
+Dzieci i młodzież do ukończenia lat 18, a jeżeli kształcą się dalej - do ukończenia lat 26, dzieci niepełnosprawne w znacznym stopniu - bez ograniczenia wieku, a także dzieci uprawnione do renty rodzinnej nie ponoszą odpłatności za koszty wyżywienia i zakwaterowania w szpitalu uzdrowiskowym dla dzieci, sanatorium uzdrowiskowym dla dzieci i sanatorium uzdrowiskowym.
+
+### 5.
+
+Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób wystawiania skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową przez lekarza ubezpieczenia zdrowotnego,
+
+### 2)
+
+tryb potwierdzania skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową oraz wzór tego skierowania
+
+- uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy ([Dz. U. Nr 89, poz. 589](https://api.sejm.gov.pl/eli/acts/DU/2007/589/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1656, z 2009 r. Nr 6, poz. 33 i Nr 20, poz. 106 oraz z 2010 r. Nr 109, poz. 708, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 257, poz. 1725.](#gloss-0:11:)) art. 52 otrzymuje brzmienie:
+
+„
+
+### Art. 52.
+
+Główny Inspektor Pracy może udzielić pracownikowi wykonującemu lub nadzorującemu czynności kontrolne płatnego urlopu zdrowotnego na podstawie skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na okres ustalony w tym skierowaniu, nieprzekraczający 30 dni w roku kalendarzowym.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej ([Dz. U. Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html) i [Nr 201, poz. 1540](https://api.sejm.gov.pl/eli/acts/DU/2009/1540/text.html), z [2010 r. Nr 182, poz. 1228](https://api.sejm.gov.pl/eli/acts/DU/2010/1228/text.html) oraz z [2011 r. Nr 63, poz. 322](https://api.sejm.gov.pl/eli/acts/DU/2011/322/text.html)) art. 139 otrzymuje brzmienie:
+
+„
+
+### Art. 139.
+
+Funkcjonariuszowi, po upływie 5 lat służby, przysługuje płatny urlop zdrowotny z zachowaniem prawa do uposażenia. Urlopu zdrowotnego udziela kierownik urzędu na podstawie skierowania na leczenie uzdrowiskowe albo rehabilitację uzdrowiskową na okres ustalony w tym skierowaniu, nieprzekraczający jednak 30 kolejnych dni w każdym roku kalendarzowym.
+
+” .
+
+### Art. 6.
+
+Obszary uznane na podstawie dotychczasowych przepisów za uzdrowiska i obszary ochrony uzdrowiskowej oraz zakłady lecznictwa uzdrowiskowego i urządzenia lecznictwa uzdrowiskowego stają się uzdrowiskami i obszarami ochrony uzdrowiskowej oraz zakładami lecznictwa uzdrowiskowego i urządzeniami lecznictwa uzdrowiskowego w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 7.
+
+Gmina, która w dniu wejścia w życie niniejszej ustawy posiada status uzdrowiska albo status obszaru ochrony uzdrowiskowej, sporządza i uchwala miejscowy plan zagospodarowania przestrzennego dla strefy „A” ochrony uzdrowiskowej w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 8.
+
+Naczelny lekarz uzdrowiska powołany na podstawie dotychczasowych przepisów staje się naczelnym lekarzem uzdrowiska w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 9.
+
+Kierownik zakładu lecznictwa uzdrowiskowego zgłosi do ewidencji, o której mowa w art. 27 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zakład lecznictwa uzdrowiskowego lub urządzenie lecznictwa uzdrowiskowego znajdujące się na obszarze uzdrowiska nie później niż w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy, a w przypadku uzdrowiska, w którym do dnia wejścia w życie niniejszej ustawy nie powołano naczelnego lekarza uzdrowiska - nie później niż w terminie 6 miesięcy od dnia powołania tego lekarza.
+
+### Art. 10.
+
+### 1.
+
+Statut uzdrowiska albo statut obszaru ochrony uzdrowiskowej uchwalony na podstawie dotychczasowych przepisów staje się statutem uzdrowiska albo statutem obszaru ochrony uzdrowiskowej w rozumieniu ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Gmina dostosuje statut uzdrowiska albo statut obszaru ochrony uzdrowiskowej, uchwalony na podstawie dotychczasowych przepisów, do wymagań określonych w art. 41 ust. 2 i 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie nie dłuższym niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+### 1.
+
+Przepisów art. 38a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do zakładów przemysłowych, budynków, obiektów, autostrad i dróg ekspresowych, parkingów, stacji, zapór oraz urządzeń, które istniały przed dniem wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Przepisu art. 38a ust. 1 pkt 1 lit. b ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w zakresie zakazu budowy budynków mieszkalnych jednorodzinnych, nie stosuje się do budowy takich budynków przez osoby, które uzyskały prawo do nieruchomości przed dniem 2 października 2005 r.
+
+### Art. 12.
+
+Skierowanie na leczenie uzdrowiskowe, wydane w trybie, o którym mowa w art. 33 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, przed dniem wejścia w życie niniejszej ustawy, zachowuje ważność i stanowi podstawę do leczenia uzdrowiskowego albo rehabilitacji uzdrowiskowej, w rozumieniu art. 2 pkt 1 i 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 13.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 3 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 19 ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 14.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy i ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781, z 2005 r. Nr 17, poz. 141, Nr 94, poz. 788, Nr 122, poz. 1020, Nr 131, poz. 1091, Nr 167, poz. 1400 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1043, Nr 208, poz. 1532 i Nr 227, poz. 1658, z 2007 r. Nr 42, poz. 273, Nr 80, poz. 542, Nr 115, poz. 791, Nr 120, poz. 818, Nr 180, poz. 1280 i Nr 181, poz. 1292, z 2008 r. Nr 70, poz. 416, Nr 145, poz. 917, Nr 216, poz. 1370 i Nr 235, poz. 1618, z 2009 r. Nr 6, poz. 33, Nr 31, poz. 206, Nr 56, poz. 458, Nr 157, poz. 1241 i Nr 219, poz. 1705 oraz z 2010 r. Nr 44, poz. 250, Nr 54, poz. 320, Nr 127, poz. 857 i Nr 148, poz. 991. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 14, poz. 113, Nr 90, poz. 756, Nr 143, poz. 1199 i Nr 179, poz. 1484, z 2006 r. Nr 143, poz. 1028 i 1029, z 2007 r. Nr 168, poz. 1187 i Nr 192, poz. 1382, z 2008 r. Nr 74, poz. 444, Nr 130, poz. 826, Nr 141, poz. 888 i Nr 209, poz. 1320, z 2009 r. Nr 3, poz. 11, Nr 116, poz. 979, Nr 195, poz. 1504, Nr 201, poz. 1540 i Nr 215, poz. 1666, z 2010 r. Nr 57, poz. 357, Nr 75, poz. 473, Nr 107, poz. 679, Nr 226, poz. 1476, Nr 238, poz. 1578, Nr 247, poz. 1652 i Nr 257, poz. 1726 oraz z 2011 r. Nr 64, poz. 432. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 340, Nr 84, poz. 700 i Nr 157, poz. 1241, z 2010 r. Nr 28, poz. 145, Nr 106, poz. 675, Nr 119, poz. 804, Nr 143, poz. 963 i Nr 182, poz. 1228 oraz z 2011 r. Nr 32, poz. 159. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657 oraz z 2011 r. Nr 32, poz. 159 i Nr 63, poz. 322. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 133, poz. 934, Nr 170, poz. 1217, Nr 190, poz. 1399 i Nr 249, poz. 1834, z 2007 r. Nr 21, poz. 125 i Nr 82, poz. 556, z 2008 r. Nr 138, poz. 865, Nr 154, poz. 958, Nr 199, poz. 1227 i Nr 227, poz. 1505, z 2009 r. Nr 18, poz. 97 oraz z 2010 r. Nr 47, poz. 278 i Nr 76, poz. 489. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578, Nr 257 i poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725 oraz z 2011 r. Nr 45, poz. 235. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 237, poz. 1656, z 2009 r. Nr 6, poz. 33 i Nr 20, poz. 106 oraz z 2010 r. Nr 109, poz. 708, Nr 182, poz. 1228, Nr 238, poz. 1578 i Nr 257, poz. 1725.

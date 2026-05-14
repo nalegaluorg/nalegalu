@@ -8,11 +8,9 @@ pos: 491
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych
-
-*USTAWA z dnia 21 czerwca 1996 r.*
+# Ustawa z dnia 21 czerwca 1996 r. o urzędzie Ministra Spraw Wewnętrznych i Administracji
 
 | Pole | Wartość |
 |---|---|
@@ -24,515 +22,196 @@ domain: null
 | Data ogłoszenia | 1996-06-21 |
 | Data wydania | 1996-08-30 |
 | Ostatnia zmiana | 2025-07-23 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961060491) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/491/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1996/491/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1996/491) |
 
-**Art. 1.** (uchylony)
+## Treść ustawy
 
-**Art. 1a.** Ustawa określa:
+### Art. 1.
 
-**Art. 1b.** Minister właściwy do spraw wewnętrznych sprawuje nadzór nad Policją, Strażą Graniczną, Służbą Ochrony Państwa oraz Państwową Strażą Pożarną zakresie:
+### 1.
 
-**Art. 1c.** W celu sprawowania nadzoru, o którym mowa art. 1b, minister właściwy do spraw wewnętrznych jest uprawniony do:
+Do zadań Ministra Spraw Wewnętrznych i Administracji należy inicjowanie i realizacja polityki oraz zapewnienie koordynacji działań w dziedzinach: ochrony bezpieczeństwa i porządku publicznego, ochrony granicy państwa oraz ochrony przeciwpożarowej, administracji publicznej, stosunków państwa z Kościołem Katolickim oraz innymi kościołami i związkami wyznaniowymi.
 
-**Art. 1d.** Przepisy niniejszej ustawy nie naruszają przepisów innych ustaw regulujących kwestie sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych nad Policją, Strażą Graniczną, Państwową Strażą Pożarną i Służbą Ochrony Państwa.
+### 2.
 
-**Art. 2.** (uchylony)
+Minister Spraw Wewnętrznych i Administracji jest właściwy w sprawach z zakresu państwowego nadzoru budowlanego, geodezji i kartografii, z wyjątkiem spraw zastrzeżonych odrębnymi przepisami do kompetencji innych organów.
 
-**Art. 3.** (uchylony)
+### 3.
 
-**Art. 4.** (uchylony)
+Minister Spraw Wewnętrznych i Administracji wykonuje określone w ustawie i w odrębnych przepisach zadania z dziedziny obronności i ochrony bezpieczeństwa państwa.
 
-**Art. 5.** (uchylony)
+### 4.
 
-**Art. 6.**
+Minister Spraw Wewnętrznych i Administracji wykonuje określone w odrębnych ustawach uprawnienia w stosunku do terenowych organów rządowej administracji ogólnej oraz organów samorządu terytorialnego.
 
-1. (uchylony)
+### Art. 2.
 
-2. W urzędzie obsługującym ministra właściwego do spraw wewnętrznych zatrudnia się pracowników na zasadach określonych przepisach o pracownikach urzędów państwowych lub o służbie cywilnej, chyba że przepisy odrębne stanowią inaczej.
+Minister Spraw Wewnętrznych i Administracji jest ministrem właściwym do spraw administracji, chyba że odrębne przepisy stanowią inaczej.
 
-3. Prezes Rady Ministrów może określić, drodze rozporządzenia, stanowiska urzędzie obsługującym ministra właściwego do spraw wewnętrznych, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Straży Granicznej, Służby Ochrony Państwa lub strażacy Państwowej Straży Pożarnej, mając na względzie potrzebę zapewnienia właściwej organizacji pracy tym urzędzie.
+### Art. 3.
 
-**Art. 7.**
+Do zakresu działania Ministra Spraw Wewnętrznych i Administracji należą w szczególności:
 
-1. Komórki organizacyjne urzędu obsługującego ministra właściwego do spraw wewnętrznych i jednostki organizacyjne Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa oraz związki zawodowe, funkcjonariusze i pracownicy tych jednostek nie mogą uczestniczyć żadnej działalności, tym gospodarczej, jeżeli działalność ta mogłaby prowadzić do wykorzystania autorytetu urzędowego, informacji służbowych lub środków publicznych do celów pozasłużbowych albo sposób sprzeczny z ich przeznaczeniem.
+### 1)
 
-2. Na wniosek ministra właściwego do spraw wewnętrznych, uzgodniony z właściwym ministrem, państwowe jednostki organizacyjne są obowiązane uwzględniać potrzeby Policji, Straży Granicznej, Służby Ochrony Państwa oraz technicznych niezbędnych do wykonywania ich zadań.
+sprawy związane z inicjowaniem polityki rządu w zakresie bezpieczeństwa państwa i porządku publicznego,
 
-**Art. 8.**
+### 2)
 
-1. (uchylony)
+nadzór nad działalnością Policji, Państwowej Straży Pożarnej, Straży Granicznej i Obrony Cywilnej - w zakresie ustalonym odrębnymi ustawami,
 
-2. (uchylony)
+### 3)
 
-**Art. 9.**
+sprawy z zakresu kontroli ruchu granicznego, wjazdu, przejazdu, wyjazdu i pobytu cudzoziemców,
 
-1. Minister właściwy do spraw wewnętrznych może zezwalać:
+### 4)
 
-- **1)** byłym i obecnym pracownikom urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, z wyłączeniem pracowników Policji, Straży Granicznej oraz Służby Ochrony Państwa,
-- **2)** Komendantowi Głównemu Policji, Komendantowi Głównemu Straży Granicznej, Komendantowi Służby Ochrony Państwa, Komendantowi Biura Spraw Wewnętrznych Policji, Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, Inspektorowi Nadzoru Wewnętrznego oraz ich zastępcom,
-- **3)** byłym i obecnym strażakom oraz pracownikom Państwowej Straży Pożarnej,
-- **4)** funkcjonariuszom Policji, Straży Granicznej i Służby Ochrony Państwa oddelegowanym do urzędu obsługującego ministra właściwego do spraw wewnętrznych oraz organów i jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych, z wyłączeniem odpowiednio Policji, Straży Granicznej oraz Służby Ochrony Państwa, zakresie zadań realizowanych okresie oddelegowania,
-- **5)** funkcjonariuszom Biura Spraw Wewnętrznych Policji oraz Biura Spraw Wewnętrznych Straży Granicznej, zakresie wynikającym z art. 11j ust. 1 pkt 1–3,
-- **6)** osobom udzielającym inspektorom Biura pomocy wykonywaniu czynności operacyjno-rozpoznawczych – na udzielenie wiadomości stanowiącej informację niejawną uprawnionemu podmiotowi.
+koordynacja działań porządkowo-ochronnych oraz czynności ratowniczych w razie klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu,
 
-2. Zezwolenie, o którym mowa ust. 1, nie dotyczy sytuacji, o których mowa art. 11n, art. 11o, art. 11v ust. 1 pkt 2 i ust. 2 pkt 2 oraz art. 11w, z wyjątkiem dokumentów i materiałów, które sąd okręgowy lub prokurator Biura Lustracyjnego lub oddziałowego biura lustracyjnego Instytutu Pamięci Narodowej – Komisji z wykonywaniem ich zadań określonych ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944– 1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 1632, 1897 i 1940) oraz ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102).
+### 5)
 
-3. W razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną o klauzuli „tajne” lub „ściśle tajne” pomimo żądania prokuratora lub sądu, zgłoszonego związku z postępowaniem karnym o zbrodnie przeciwko pokojowi, ludzkości i o przestępstwa wojenne lub o zbrodnię godzącą życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka – minister właściwy do spraw wewnętrznych, na wniosek prokuratury lub sądu, przedstawia żądane dokumenty i materiały oraz wyjaśnienia Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, minister właściwy do spraw wewnętrznych jest obowiązany zezwolić na udostępnienie wnioskowanych informacji.
+sprawy z zakresu organizacji i planowania cywilnej ochrony ludności, mienia i środowiska w okresie pokoju i wojny,
 
-4. Przepisy ust. 3 stosuje się odpowiednio razie odmowy zezwolenia na udzielenie wiadomości stanowiącej informację niejawną przez ministra właściwego do spraw wewnętrznych, przypadkach określonych art. 20ba ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145, z późn. zm. ), art. 9da ust. 3 ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2024 r. poz. 915, z późn. zm. ) oraz art. 64 ust. 3–7 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa (Dz. U. z 2025 r. poz. 34, z 2024 r. poz. 1871 oraz z 2025 r. poz. 179).
+### 6)
 
-**Art. 10.** (uchylony)
+ogólna koordynacja działań w zakresie ochrony tajemnicy państwowej i służbowej,
 
-**Art. 11.** (uchylony)
+### 7)
 
-**Art. 11a.**
+sprawowanie zwierzchniego nadzoru nad postępowaniem mandatowym w sprawach o wykroczenia poddane orzecznictwu kolegiów przy sądach rejonowych,
 
-1. Inspektor Nadzoru Wewnętrznego jest organem, przy pomocy którego minister właściwy do spraw wewnętrznych sprawuje nadzór nad służbami jemu podległymi lub przez niego nadzorowanymi, nad funkcjonariuszami Policji, Pożarnej, a także nad pracownikami zatrudnionymi tych służbach, zwanymi dalej „podmiotami nadzorowanymi”.
+### 8)
 
-2. Inspektor Nadzoru Wewnętrznego podlega ministrowi właściwemu do spraw wewnętrznych.
+sprawy związane z zapewnieniem funkcjonowania administracji rządowej, w tym:
 
-3. Do zadań Inspektora Nadzoru Wewnętrznego należy:
+### a)
 
-- **1)** wspieranie ministra właściwego do spraw wewnętrznych czynnościach związanych z egzekwowaniem działania zgodnego z przepisami prawa oraz zasadami etyki Policji, Straży Granicznej, Służby Ochrony Państwa oraz Państwowej Straży Pożarnej, związku z koniecznością zapewnienia przestrzegania praw i wolności człowieka i obywatela oraz ujawnianie nieprawidłowości tym zakresie;
-- **2)** weryfikowanie, na podstawie informacji, tym również oznaczonych klauzulą tajności, będących posiadaniu służb i podmiotów podległych lub nadzorowanych przez Prezesa Rady Ministrów, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych, Ministra Obrony Narodowej i Ministra Sprawiedliwości oraz danych zawartych prowadzonych przez nie zbiorach, rejestrach, ewidencjach i bazach danych, tym również oznaczonych klauzulą tajności: poz. 1443, 1473, 1717, 1871 i 1907), poz. 2053),
-    - **a)** kandydatów na stanowiska komendantów, dowódców jednostek organizacyjnych i ich zastępców, Dyrektora CLKP i jego zastępców, dyrektorów i zastępców dyrektorów komórek organizacyjnych podmiotach nadzorowanych oraz naczelników, a także osób zajmujących te stanowiska,
-    - **b)** funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej związku z planowanym oddelegowaniem lub przedłużeniem oddelegowania do pełnienia służby lub wykonywaniem zadań poza granicami kraju na okres przekraczający 14 dni, z wyłączeniem przypadków oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa kontyngencie policyjnym, o którym mowa art. 145a ust. 1 pkt 2 i 3 ustawy z dnia 6 kwietnia 1990 r. o Policji, oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa ustawy z dnia 12 października 1990 r. o Straży Granicznej, oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa celu realizacji zadań, o których mowa art. 3 pkt 1 lit. f ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa, oraz oddelegowania lub przedłużenia oddelegowania do pełnienia służby poza granicami państwa grupie ratowniczej, o której mowa art. 49b ust. 1 pkt 1 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2024 r.
-    - **c)** kandydatów do mianowania na stopnie generalnego inspektora Policji, nadinspektora Policji, generała brygady Straży Granicznej (kontradmirała Straży Granicznej), generała dywizji Straży Granicznej (wiceadmirała Straży Granicznej), generała brygady i generała dywizji Służbie Ochrony Państwa oraz kandydatów do nadania stopni nadbrygadiera i generała brygadiera Państwowej Straży Pożarnej,
-    - **d)** kandydatów przypadku przedterminowego mianowania korpusie oficerów młodszych Policji i korpusie oficerów starszych Policji, korpusie oficerów Straży Granicznej i korpusie oficerów Służby Ochrony Państwa oraz przedterminowego nadania stopnia korpusie oficerów Państwowej Straży Pożarnej,
-    - **e)** kandydatów do wyróżnienia, na wniosek ministra właściwego do spraw wewnętrznych, orderami i odznaczeniami, o których mowa ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach (Dz. U. z 2023 r.
-    - **f)** kandydatów do oddelegowania do wykonywania zadań Biurze Nadzoru Wewnętrznego, a także funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej trakcie tego oddelegowania – zakresie przebiegu służby lub dawania rękojmi należytego wykonywania zadań;
+wykonywanie nadzoru nad działalnością terenowych organów rządowej administracji ogólnej w zakresie określonym w odrębnych przepisach,
 
-- **3)** ujawnianie i monitorowanie zachowań naruszających zasady etyki zawodowej funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej; z prowadzonymi czynnościami wyjaśniającymi i postępowaniami dyscyplinarnymi Policji, Straży Granicznej, Służbie Ochrony Państwa oraz Państwowej Straży Pożarnej;
-- **5)** analizowanie informacji dotyczących naruszeń prawa przez podmioty nadzorowane;
-- **6)** analizowanie i ocenianie czynności operacyjno-rozpoznawczych prowadzonych Policji, Straży Granicznej i Służbie Ochrony Państwa oraz ujawnianie nieprawidłowości tym obszarze zakresie, jakim nie narusza to kompetencji prokuratury i sądu;
-- **7)** rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych tych służbach umyślnych, ściganych z oskarżenia publicznego przestępstw oraz przestępstw skarbowych;
-- **8)** ocenianie realizacji zadań przez Biuro Spraw Wewnętrznych Policji i Biuro Spraw Wewnętrznych Straży Granicznej;
-- **9)** ocenianie prawidłowości realizacji postępowań sprawdzających oraz kontrolnych postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną, Służbę Ochrony Państwa oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych zakresie, jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego;
-- **10)** ocenianie realizacji obowiązku składania oświadczeń o stanie majątkowym przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa, strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych tych służbach, a także ich analizy przez właściwych przełożonych zakresie, jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego;
-- **11)** analizowanie i ocenianie gromadzenia i przetwarzania danych osobowych przez Policję, Straż Graniczną, Służbę Ochrony Państwa i Państwową Straż Pożarną oraz ujawnianie nieprawidłowości tym zakresie;
-- **12)** ocenianie realizacji uprawnienia zakresie zezwalania przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej oraz Komendanta niejawną uprawnionym podmiotom.
+### b)
 
-**Art. 11b.**
+koordynowanie działalności i funkcjonowania terenowych organów rządowej administracji ogólnej i specjalnej oraz ich współdziałania z administracją samorządową,
 
-1. Inspektora Nadzoru Wewnętrznego powołuje i odwołuje minister właściwy do spraw wewnętrznych.
+### c)
 
-2. Zastępcę Inspektora Nadzoru Wewnętrznego powołuje i odwołuje minister właściwy do spraw wewnętrznych na wniosek Inspektora Nadzoru Wewnętrznego.
+kształcenie i doskonalenie kadr administracji publicznej,
 
-3. Powoływanym Inspektorowi Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego minister właściwy do spraw wewnętrznych ustala wynagrodzenie, a przypadku oddelegowania na te stanowiska funkcjonariusza zalicza, do celów obliczenia uposażenia i innych należności pieniężnych przysługujących trakcie oddelegowania, stanowisko służbowe do odpowiedniej grupy zaszeregowania oraz ustala stopień etatowy, stosownie do zaszeregowania stanowiska służbowego, i ustala wysokość należnych dodatków do uposażenia.
+### d)
 
-4. Regulamin organizacyjny Biura ustala, drodze zarządzenia, minister właściwy do spraw wewnętrznych.
+koordynowanie działań w zakresie rozwoju łączności i informatyki,
 
-**Art. 11c.** Inspektorem Nadzoru Wewnętrznego lub zastępcą Inspektora Nadzoru Wewnętrznego może być osoba, która:
+### 9)
 
-**Art. 11e.**
+inicjowanie oraz doskonalenie organizacji i metod działania administracji publicznej,
 
-1. W przypadku odwołania Inspektora Nadzoru Wewnętrznego lub czasowej niemożności sprawowania przez niego funkcji minister właściwy do spraw wewnętrznych może powierzyć pełnienie obowiązków Inspektora Nadzoru Wewnętrznego, na czas nie dłuższy niż 3 miesiące, zastępcy Inspektora Nadzoru Wewnętrznego lub innej osobie.
+### 10)
 
-2. Wobec innej osoby, o której mowa ust. 1, przepis art. 11c stosuje się odpowiednio.
+sprawy podziału terytorialnego, w tym terytorialnych podziałów do celów specjalnych, oraz ustalania i zmiany urzędowych nazw miejscowości i obiektów fizjograficznych w zakresie określonym w odrębnych przepisach,
 
-**Art. 11f.**
+### 11)
 
-1. Inspektorowi Nadzoru Wewnętrznego przysługują kompetencje dyrektora generalnego urzędu określone art. 25 ust. 4 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2024 r. poz. 409) wyłącznie zakresie prawa pracy wobec osób zatrudnionych Biurze i gospodarowania składnikami rzeczowymi majątku ruchomego użytkowanymi przez Biuro.
+sprawy mniejszości narodowych nie zastrzeżone odrębnymi przepisami do kompetencji innych organów,
 
-2. Inspektor Nadzoru Wewnętrznego gospodaruje:
+### 12)
 
-- **1)** funduszem operacyjnym, o którym mowa art. 11z ust. 5;
-- **2)** składnikami majątkowymi uzyskanymi trybie art. 11s ust. 2 i art. 11z ust. 5.
+sprawy państwowego nadzoru budowlanego oraz regulacji w zakresie techniki budowlanej, w tym specjalistycznego nadzoru budowlanego w zakresie określonym w odrębnych przepisach,
 
-**Art. 11g.**
+### 13)
 
-1. Inspektor Nadzoru Wewnętrznego wykonuje swoje zadania przy pomocy Biura, które jest komórką organizacyjną wyodrębnioną tym celu Biura kieruje Inspektor Nadzoru Wewnętrznego.
+nadzór nad działalnością Głównego Inspektora Nadzoru Budowlanego i Głównego Geodety Kraju na zasadach określonych w odrębnych przepisach,
 
-2. W skład Biura wchodzą funkcjonariusze Policji, Straży Granicznej i Służby Ochrony Państwa oddelegowani do wykonywania zadań Biurze, zwani dalej „inspektorami Biura”.
+### 14)
 
-3. Do Biura mogą zostać oddelegowani, celu wspomagania inspektorów Biura przy wykonywaniu ich zadań, strażacy Państwowej Straży Pożarnej, zwani dalej „ekspertami Biura”.
+sprawy geodezji i kartografii,
 
-4. Decyzje o oddelegowaniu, o którym mowa ust. 2 i 3, i odwołaniu z niego wydaje minister właściwy do spraw wewnętrznych.
+### 15)
 
-5. Oddelegowanie następuje na wniosek Inspektora Nadzoru Wewnętrznego, po wyrażeniu zgody na oddelegowanie przez funkcjonariuszy Policji, Straży Granicznej, Służby Ochrony Państwa i strażaków Państwowej Straży Pożarnej oraz po zaopiniowaniu wniosku odpowiednio przez Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Służby Ochrony Państwa albo Komendanta Głównego Państwowej Straży Pożarnej, który zwalnia oddelegowywanego z zajmowanego stanowiska służbowego, przenosi do dyspozycji, jeżeli jest to wymagane, i pozostawia na zaopatrzeniu wskazanego organu macierzystej formacji.
+wykonywanie zadań w dziedzinie stosunków państwa z Kościołem Katolickim oraz z innymi kościołami i związkami wyznaniowymi,
 
-6. Odwołanie z oddelegowania może nastąpić każdym czasie, na wniosek Inspektora Nadzoru Wewnętrznego, po poinformowaniu o tym wniosku odpowiednio Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej albo Komendanta Służby Ochrony Państwa, lub na wniosek odpowiednio Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego Państwowej Straży Pożarnej albo Komendanta Służby Ochrony Państwa, po zaopiniowaniu wniosku przez Inspektora Nadzoru Wewnętrznego.
+### 16)
 
-7. W decyzji o oddelegowaniu określa się termin oddelegowania, zalicza się, do celów obliczenia uposażenia i innych należności pieniężnych przysługujących trakcie oddelegowania, stanowisko służbowe do odpowiedniej grupy zaszeregowania oraz ustala się stopień etatowy, stosownie do zaszeregowania stanowiska służbowego, i ustala wysokość należnych dodatków do uposażenia. uprawnienia wynikające z przepisów niniejszej ustawy.
+nadzór nad szkołami i jednostkami badawczo-rozwojowymi, których działalność dotyczy dziedzin i spraw określonych w art. 1, oraz nad podporządkowanymi jednostkami organizacyjnymi, chyba że odrębne przepisy stanowią inaczej,
 
-9. Inspektorom Biura oraz ekspertom Biura może zostać przyznany przez ministra właściwego do spraw wewnętrznych, na wniosek Inspektora Nadzoru Wewnętrznego, dodatek specjalny na okres oddelegowania do Biura wysokości do:
+### 17)
 
-- **1)** 75 % kwoty bazowej – dla inspektorów Biura;
-- **2)** 50 % kwoty bazowej – dla ekspertów Biura.
+wspieranie działalności naukowej i społecznej, podejmowanej zwłaszcza na rzecz przeciwdziałania przestępczości i zjawiskom kryminogennym,
 
-10. Przy obliczaniu wysokości dodatku specjalnego, o którym mowa ust. 9, stosuje się kwotę bazową dla funkcjonariuszy, określoną ustawie budżetowej.
+### 18)
 
-11. Inspektor Biura oraz ekspert Biura zachowują prawo do dodatku specjalnego przez okres 3 miesięcy po zakończeniu tego oddelegowania, pod warunkiem że czasie oddelegowania do Biura realizował zadania łącznie przez okres co najmniej 12 miesięcy.
+wykonywanie innych zadań określonych w odrębnych przepisach.
 
-12. Funkcjonariuszom Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażakom Państwowej Straży Pożarnej oddelegowanym do Biura wypłacane są urzędzie obsługującym ministra właściwego do spraw wewnętrznych uposażenie, nagroda roczna za okres oddelegowania i nagrody uznaniowe. Pozostałe należności i świadczenia wypłacane są przez macierzystą formację.
+### Art. 4.
 
-13. Minister właściwy do spraw wewnętrznych może przyznać nagrody uznaniowe inspektorom Biura oraz ekspertom Biura.
+Do trybu powołania Ministra Spraw Wewnętrznych i Administracji stosuje się art. 61 ustawy konstytucyjnej z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym ([Dz. U. Nr 84, poz. 426](https://api.sejm.gov.pl/eli/acts/DU/1992/426/text.html), z [1995 r. Nr 38, poz. 184](https://api.sejm.gov.pl/eli/acts/DU/1995/184/text.html) i [Nr 150, poz. 729](https://api.sejm.gov.pl/eli/acts/DU/1995/729/text.html) oraz z [1996 r. Nr 106, poz. 488](https://api.sejm.gov.pl/eli/acts/DU/1996/488/text.html)).
 
-**Art. 11h.** W Biurze mogą zostać zatrudnieni pracownicy, których wiedza i doświadczenie mogą przyczynić się do realizacji zadań Biura.
+### Art. 5.
 
-**Art. 11i.** W okresie oddelegowania do Biura inspektorzy Biura oraz eksperci Biura podlegają Inspektorowi Nadzoru Wewnętrznego. Art. 11ia. Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045 i 1841), nie stosuje się:
+### 1.
 
-**Art. 11j.**
+Minister Spraw Wewnętrznych i Administracji, w celu realizacji swoich zadań, współdziała, na zasadach i w trybie określonych w odrębnych przepisach, z innymi organami administracji rządowej oraz organami samorządu terytorialnego.
 
-1. Inspektor Nadzoru Wewnętrznego jest uprawniony do:
+### 2.
 
-- **1)** bezpośredniego zlecania wykonania określonych czynności, tym również trybie czynności operacyjno-rozpoznawczych, Komendantowi Biura Spraw Wewnętrznych Policji, zwanemu dalej „Komendantem BSWP”, i Komendantowi Biura Spraw Wewnętrznych Straży Granicznej, zwanemu dalej „Komendantem BSWSG”, oraz żądania od nich informacji na temat wyników tych czynności, uzasadnionych przypadkach z wyłączeniem informowania przełożonych służbowych kierowników tych jednostek organizacyjnych, a także Komendantowi Służby Ochrony Państwa;
-- **2)** bezpośredniego żądania od Komendanta BSWP, Komendanta BSWSG i Komendanta Służby Ochrony Państwa informacji dotyczących wyników czynności operacyjno-rozpoznawczych prowadzonych wobec podmiotów nadzorowanych oraz wobec zachodzących tych podmiotach zjawisk i zdarzeń;
-- **3)** bezpośredniego zlecania Komendantowi BSWP, Komendantowi BSWSG i Komendantowi Służby Ochrony Państwa dokonywania sprawdzeń kandydatów, o których mowa art. 11a ust. 3 pkt 2;
-- **4)** powoływania zespołów zadaniowych złożonych z funkcjonariuszy podmiotów nadzorowanych oraz pracowników zatrudnionych tych podmiotach, za zgodą ich przełożonych, określając ich skład, zadania, organizację i tryb pracy;
-- **5)** zlecania wykonania ekspertyz związanych z realizacją zadań Biura;
-- **6)** przetwarzania informacji, tym danych osobowych, ramach realizowanych kompetencji nadzorczych konkretnych sprawach;
-- **7)** uzyskania dostępu do materiałów uzyskanych wyniku prowadzonych czynności operacyjno-rozpoznawczych Policji, Straży Granicznej i Służby Ochrony Państwa, celu analizy i oceny prowadzonych form czynności operacyjno-rozpoznawczych, z zachowaniem ograniczeń wynikających z przepisów odpowiednio art. 20b ustawy z dnia 6 kwietnia 1990 r. o Policji, art. 9d ustawy z dnia 12 października 1990 r. o Straży Granicznej lub art. 67 ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa; postępowań sprawdzających przeprowadzanych przez Policję, Straż Graniczną, Służbę Ochrony Państwa oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników rozumieniu ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych zakresie, jakim nie narusza to kompetencji Agencji Bezpieczeństwa Wewnętrznego;
-- **9)** uzyskania dostępu do materiałów z prowadzonych przez Agencję Bezpieczeństwa Wewnętrznego kontroli, o których mowa art. 12 ust. 3 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, postępowań sprawdzających oraz kontrolnych postępowań sprawdzających, przeprowadzanych przez Policję, Straż Graniczną, Służbę Ochrony Państwa oraz Państwową Straż Pożarną wobec własnych funkcjonariuszy, strażaków i pracowników;
-- **10)** uzyskania dostępu do oświadczeń o stanie majątkowym składanych przez funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa, strażaków Państwowej Straży Pożarnej oraz pracowników zatrudnionych tych służbach, a także materiałów sporządzonych wyniku ich analizy przez właściwych przełożonych zakresie, jakim nie narusza to kompetencji Centralnego Biura Antykorupcyjnego.
+Prezes Rady Ministrów, na wniosek Ministrów Spraw Wewnętrznych i Administracji, Obrony Narodowej i Szefa Urzędu Ochrony Państwa, ustala, w drodze rozporządzenia, szczegółowy rozdział kompetencji między Policję, Urząd Ochrony Państwa, Państwową Straż Pożarną, Straż Graniczną i Obronę Cywilną oraz wojskowe organy porządkowe i Wojskowe Służby Informacyjne podległe Ministrowi Obrony Narodowej oraz zasady ich współdziałania.
 
-2. Inspektor Nadzoru Wewnętrznego jest obowiązany niezwłocznie przedstawiać ministrowi właściwemu do spraw wewnętrznych informacje i materiały mogące mieć istotne znaczenie dla sprawowania nadzoru, o którym mowa art. 1b.
+### Art. 6.
 
-3. Minister właściwy do spraw wewnętrznych może każdym czasie żądać informacji i materiałów z realizacji zadań przez Inspektora Nadzoru Wewnętrznego.
+### 1.
 
-4. Inspektor Nadzoru Wewnętrznego przedstawia corocznie do dnia 31 marca ministrowi właściwemu do spraw wewnętrznych informację o działalności Biura.
+Minister Spraw Wewnętrznych i Administracji wykonuje zadania przy pomocy Ministerstwa Spraw Wewnętrznych i Administracji.
 
-5. Inspektor Nadzoru Wewnętrznego określa metody i formy wykonywania zadań przez inspektorów Biura i ekspertów Biura zakresie nieobjętym innymi przepisami wydanymi na podstawie ustawy.
+### 2.
 
-6. Do czynności operacyjno-rozpoznawczych zakresie nieobjętym przepisami wydanymi na podstawie niniejszej ustawy stosuje się odpowiednio przepisy wydane na podstawie ustawy z dnia 6 kwietnia 1990 r. o Policji. wkładkę do legitymacji służbowej.
+W Ministerstwie Spraw Wewnętrznych i Administracji zatrudnia się pracowników na zasadach określonych w przepisach o pracownikach urzędów państwowych lub o służbie cywilnej, chyba że przepisy odrębne stanowią inaczej.
 
-2. Do wkładki do legitymacji służbowej wpisuje się imię i nazwisko inspektora Biura oraz numer legitymacji służbowej. Wkładka zawiera także datę, podpis i pieczęć Inspektora Nadzoru Wewnętrznego oraz pouczenie o treści „Okazicielowi niniejszego dokumentu polecam udzielić wszelkiej pomocy przy wykonywaniu czynności służbowych prowadzonych przez inspektora Biura Nadzoru Wewnętrznego”.
+### 3.
 
-3. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, wzór wkładki do legitymacji służbowej inspektora Biura, mając na względzie zapewnienie właściwej identyfikacji inspektorów Biura.
+Prezes Rady Ministrów może określić, w drodze rozporządzenia, stanowiska w Ministerstwie Spraw Wewnętrznych i Administracji, na których mogą być zatrudniani oddelegowani funkcjonariusze Policji, Państwowej Straży Pożarnej lub Straży Granicznej.
 
-**Art. 11l.**
+### Art. 7.
 
-1. W celu realizacji zadań, o których mowa art. 11a ust. 3, inspektorzy Biura mają prawo:
+### 1.
 
-- **1)** legitymowania osób celu ustalenia ich tożsamości;
-- **2)** obserwowania i rejestrowania przy użyciu środków technicznych obrazu zdarzeń miejscach publicznych i dźwięku towarzyszącego tym zdarzeniom;
-- **3)** żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz przedsiębiorców prowadzących działalność zakresie użyteczności publicznej; wymienione instytucje, organy i przedsiębiorcy są obowiązani, zakresie swojego działania, do udzielenia tej pomocy zakresie obowiązujących przepisów prawa;
-- **4)** zwracania się o niezbędną pomoc do innych przedsiębiorców i organizacji społecznych, jak również zwracania się nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy, ramach obowiązujących przepisów prawa;
-- **5)** swobodnego wstępu i poruszania się po terenie podmiotu nadzorowanego bez obowiązku uzyskiwania przepustki;
-- **6)** dostępu do danych oraz wglądu do dokumentów dotyczących działalności podmiotu nadzorowanego, pobierania za pokwitowaniem oraz zabezpieczania dokumentów, z zachowaniem przepisów o tajemnicy prawnie chronionej i przepisów o ochronie informacji niejawnych;
-- **7)** sporządzania, a razie potrzeby żądania sporządzenia niezbędnych kopii, odpisów lub wyciągów z dokumentów oraz zestawień lub obliczeń;
-- **8)** przetwarzania danych osobowych zakresie niezbędnym do realizacji zadań;
-- **9)** żądania złożenia ustnych lub pisemnych wyjaśnień. możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
+Jednostki organizacyjne Ministerstwa Spraw Wewnętrznych i Administracji, Policji, Państwowej Straży Pożarnej, Straży Granicznej i Obrony Cywilnej, związki zawodowe oraz funkcjonariusze i pracownicy tych jednostek nie mogą uczestniczyć w żadnej działalności, w tym gospodarczej, jeśli działalność ta mogłaby prowadzić do wykorzystania autorytetu urzędowego, informacji służbowych lub środków publicznych do celów pozasłużbowych albo w sposób sprzeczny z ich przeznaczeniem.
 
-3. Na sposób prowadzenia czynności, o których mowa ust. 1 pkt 1 i 2, przysługuje zażalenie do miejscowo właściwego prokuratora.
+### 2.
 
-4. Zgromadzone zapisy obrazu i dźwięku, o których mowa ust. 1 pkt 2, niezawierające dowodów pozwalających na wszczęcie postępowania karnego, postępowania sprawach o wykroczenia albo postępowania dyscyplinarnego lub mogących być wykorzystanymi postępowaniu ramach czynności wyjaśniających albo dowodów mających znaczenie dla toczących się takich postępowań, Biuro przechowuje przez okres co najmniej 30 dni, nie dłużej jednak niż 60 dni od dnia zarejestrowania, a następnie komisyjnie je niszczy.
+Na wniosek Ministra Spraw Wewnętrznych i Administracji, uzgodniony z właściwym ministrem, państwowe jednostki organizacyjne są obowiązane uwzględniać potrzeby Policji, Państwowej Straży Pożarnej, Straży Granicznej oraz jednostek wojskowych podległych temu ministrowi - w zakresie produkcji, usług i dostaw środków technicznych niezbędnych do wykonywania ich zadań.
 
-5. Przy wykonywaniu uprawnień, o których mowa ust. 1 pkt 1–4, przepisy określające sposób ich realizacji, wydane na podstawie art. 15 ust. 8 ustawy z dnia 6 kwietnia 1990 r. o Policji, stosuje się odpowiednio.
+### Art. 8.
 
-**Art. 11m.** Zadania, o których mowa art. 11a ust. 3 pkt 7, mogą być realizowane formie czynności operacyjno-rozpoznawczych.
+### 1.
 
-**Art. 11n.**
+Ministrowi Spraw Wewnętrznych i Administracji mogą zostać podporządkowane jednostki wojskowe na zasadach określonych w odrębnych przepisach. Do zadań tych jednostek może należeć ochrona osób zajmujących kierownicze stanowiska państwowe oraz osób, które ze względu na dobro państwa należy objąć ochroną, ochrona delegacji państw obcych przebywających na terenie Polski i przedstawicieli organizacji międzynarodowych w Polsce oraz ochrona i zapewnienie należytego funkcjonowania urządzeń i obiektów służących najwyższym organom państwowym.
 
-1. Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez Biuro stosunku do funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz strażaków Państwowej Straży Pożarnej, a także pracowników zatrudnionych tych służbach, celu zapobieżenia, wykrycia, ustalenia sprawców, a także uzyskania i utrwalenia dowodów, ściganych z oskarżenia publicznego, umyślnych przestępstw określonych art. 228 § 1 i 3–6, art. 229 § 1 i 3– 5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 245, art. 246, art. 258, art. 269 oraz art. 299 § 1, 2, 5 i 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17, 1228, 1907 i 1965), zwanej dalej „Kodeksem karnym”, gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd Okręgowy Warszawie może, drodze postanowienia, zarządzić kontrolę operacyjną, na pisemny wniosek Inspektora Nadzoru Wewnętrznego, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego.
+### 2.
 
-2. Wniosek, o którym mowa ust. 1, przedstawia się wraz z materiałami uzasadniającymi potrzebę zastosowania kontroli operacyjnej. informacji lub zatarcie albo zniszczenie dowodów przestępstwa, Inspektor Nadzoru Wewnętrznego może zarządzić, po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, kontrolę operacyjną, zwracając się jednocześnie do Sądu Okręgowego Warszawie z wnioskiem o wydanie postanowienia tej sprawie. W razie nieudzielenia przez sąd zgody terminie 5 dni od dnia zarządzenia kontroli operacyjnej, Inspektor Nadzoru Wewnętrznego wstrzymuje kontrolę operacyjną oraz dokonuje protokolarnego, komisyjnego zniszczenia materiałów zgromadzonych podczas jej stosowania.
+Rada Ministrów może przyznać, w drodze rozporządzenia, żołnierzom jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji uprawnienia funkcjonariuszy Policji określone w art. 15, w art. 16, w art. 17 i w art. 20a ustawy z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. Nr 30, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/1990/179/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html) i [Nr 107, poz. 461](https://api.sejm.gov.pl/eli/acts/DU/1991/461/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html), z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html) oraz z [1996 r. Nr 59, poz. 269](https://api.sejm.gov.pl/eli/acts/DU/1996/269/text.html)) w zakresie niezbędnym do wykonywania ich zadań.
 
-4. W przypadku potrzeby zarządzenia kontroli operacyjnej wobec osoby podejrzanej lub oskarżonego, we wniosku Inspektora Nadzoru Wewnętrznego o zarządzenie kontroli operacyjnej zamieszcza się informację o toczącym się wobec tej osoby postępowaniu.
+### Art. 9.
 
-5. Kontrola operacyjna prowadzona jest niejawnie i polega na:
+### 1.
 
-- **1)** uzyskiwaniu i utrwalaniu treści rozmów prowadzonych przy użyciu środków technicznych, tym za pomocą sieci telekomunikacyjnych;
-- **2)** uzyskiwaniu i utrwalaniu obrazu lub dźwięku osób z pomieszczeń, środków transportu lub miejsc innych niż miejsca publiczne;
-- **3)** uzyskiwaniu i utrwalaniu treści korespondencji, tym korespondencji prowadzonej za pomocą środków komunikacji elektronicznej;
-- **4)** uzyskiwaniu i utrwalaniu danych zawartych informatycznych nośnikach danych, telekomunikacyjnych urządzeniach końcowych, systemach informatycznych i teleinformatycznych;
-- **5)** uzyskiwaniu dostępu i kontroli zawartości przesyłek.
+Minister Spraw Wewnętrznych i Administracji może zezwalać pracownikom, policjantom, strażakom, funkcjonariuszom Straży Granicznej i żołnierzom resortu spraw wewnętrznych i administracji na udzielenie wiadomości stanowiącej tajemnicę państwową lub służbową określonej osobie lub instytucji. Zezwolenie to nie może jednak dotyczyć sytuacji, o której mowa w art. 21 ustawy wymienionej w art. 8 ust. 2 oraz w art. 9a ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. Nr 78, poz. 462](https://api.sejm.gov.pl/eli/acts/DU/1990/462/text.html), z [1991 r. Nr 94, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1991/422/text.html), z [1992 r. Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html), z [1993 r. Nr 12, poz. 52](https://api.sejm.gov.pl/eli/acts/DU/1993/52/text.html), z [1994 r. Nr 53, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1994/214/text.html) oraz z [1995 r. Nr 4, poz. 17](https://api.sejm.gov.pl/eli/acts/DU/1995/17/text.html), [Nr 34, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1995/163/text.html) i [Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html)).
 
-6. Wniosek Inspektora Nadzoru Wewnętrznego o zarządzenie przez Sąd Okręgowy Warszawie kontroli operacyjnej powinien zawierać szczególności:
+### 2.
 
-- **1)** numer sprawy i jej kryptonim, jeżeli został jej nadany;
-- **2)** opis przestępstwa z podaniem, miarę możliwości, jego kwalifikacji prawnej;
-- **3)** okoliczności uzasadniające potrzebę zastosowania kontroli operacyjnej, tym stwierdzonej bezskuteczności lub nieprzydatności innych środków;
-- **4)** dane osoby lub inne dane, pozwalające na jednoznaczne określenie podmiotu lub przedmiotu, wobec którego stosowana będzie kontrola operacyjna, ze wskazaniem miejsca lub sposobu jej stosowania;
+W razie odmowy zwolnienia pracownika, policjanta, strażaka, funkcjonariusza Straży Granicznej, żołnierza resortu spraw wewnętrznych i administracji lub osoby udzielającej im pomocy w wykonywaniu czynności operacyjno-rozpoznawczych od obowiązku zachowania tajemnicy państwowej albo odmowy zezwolenia na udostępnienie dokumentów lub materiałów objętych tajemnicą państwową, pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym o przestępstwo wymienione w art. 109 Kodeksu karnego lub o zbrodnię godzącą w życie ludzkie albo o występek przeciwko życiu i zdrowiu, gdy jego następstwem była śmierć człowieka - Minister Spraw Wewnętrznych i Administracji przedstawia żądane dokumenty i materiały oraz wyjaśnienia Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do prawidłowości postępowania karnego, Minister Spraw Wewnętrznych i Administracji jest obowiązany zwolnić od zachowania tajemnicy lub udostępnić dokumenty i materiały objęte tajemnicą.
 
-7. Kontrolę operacyjną zarządza się na okres nie dłuższy niż 3 miesiące. Sąd Okręgowy Warszawie może, na pisemny wniosek Inspektora Nadzoru Wewnętrznego, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, na okres nie dłuższy niż kolejne 3 miesiące, wydać postanowienie o jednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny tej kontroli.
+### Art. 10.
 
-8. W uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawią się nowe okoliczności istotne dla zapobieżenia lub wykrycia przestępstwa albo ustalenia sprawców i uzyskania dowodów przestępstwa, Sąd Okręgowy Warszawie, na pisemny wniosek Inspektora Nadzoru Wewnętrznego, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może, również po upływie okresów, o których mowa ust. 7, wydawać kolejne postanowienia o przedłużeniu kontroli operacyjnej na następujące po sobie okresy, których łączna długość nie może przekraczać 12 miesięcy.
+Jeżeli informacje uzyskane przez organy i jednostki organizacyjne nadzorowane, podległe i podporządkowane Ministrowi Spraw Wewnętrznych i Administracji mogą mieć istotne znaczenie dla bezpieczeństwa państwa, Minister Spraw Wewnętrznych i Administracji jest obowiązany niezwłocznie przekazać je do wiadomości Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów.
 
-9. Inspektor Nadzoru Wewnętrznego może upoważnić swojego zastępcę do składania wniosków, o których mowa ust. 1, 3, 7 i 8, lub do zarządzania kontroli operacyjnej trybie ust. 3.
+### Art. 11.
 
-10. Do wniosków, o których mowa ust. 3, 7 i 8, stosuje się odpowiednio ust. 2 i 6. Sąd Okręgowy Warszawie przed wydaniem postanowienia, o którym mowa ust. 1, 3, 7 i 8, zapoznaje się z materiałami uzasadniającymi wniosek, szczególności zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej tej sprawie.
+### 1.
 
-11. Wnioski, o których mowa ust. 1, 3, 4, 7 i 8, sąd rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46 i 304), zwanej dalej „Kodeksem postępowania karnego”. W posiedzeniu sądu może wziąć udział wyłącznie prokurator i przedstawiciel Inspektora Nadzoru Wewnętrznego wnioskującego o zarządzenie kontroli operacyjnej. świadczący usługi drogą elektroniczną są obowiązani do zapewnienia na własny koszt warunków technicznych i organizacyjnych umożliwiających prowadzenie przez Biuro kontroli operacyjnej.
+Organizację Ministerstwa Spraw Wewnętrznych i Administracji, wykaz centralnych organów administracji rządowej oraz innych organów i jednostek organizacyjnych podległych, nadzorowanych i podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministrów.
 
-13. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez Biuro kontroli operacyjnej stosownie do posiadanej infrastruktury.
+### 2.
 
-14. Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóźniej jednak z upływem okresu, na który została wprowadzona.
+Prezes Rady Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres działania Ministra Spraw Wewnętrznych i Administracji.
 
-15. Inspektor Nadzoru Wewnętrznego informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli.
+### Art. 12.
 
-16. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Inspektor Nadzoru Wewnętrznego przekazuje Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej. W postępowaniu przed sądem, odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
-
-17. W przypadku gdy materiały, o których mowa ust. 16:
-
-- **1)** zawierają informacje, o których mowa art. 178 Kodeksu postępowania karnego, Inspektor Nadzoru Wewnętrznego zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie;
-- **2)** mogą zawierać informacje, o których mowa art. 178a i art. 180 § 3 Kodeksu postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa art. 240 § 1 Kodeksu karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa art. 180 § 2 Kodeksu postępowania karnego, Inspektor Nadzoru Prokuratorowi Krajowemu te materiały.
-
-18. W przypadku, o którym mowa ust. 17 pkt 2, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy niezwłocznie po otrzymaniu materiałów kieruje je do Sądu Okręgowego Warszawie wraz z wnioskiem o:
-
-- **1)** stwierdzenie, które z przekazanych materiałów zawierają informacje, o których mowa ust. 17 pkt 2;
-- **2)** dopuszczenie do wykorzystania postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa art. 180 § 2 Kodeksu postępowania karnego, nieobjęte zakazami, określonymi art. 178a i art. 180 § 3 Kodeksu postępowania karnego z wyłączeniem informacji o przestępstwach, o których mowa art. 240 § 1 Kodeksu karnego.
-
-19. Sąd Okręgowy Warszawie, niezwłocznie po złożeniu wniosku przez Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego, wydaje postanowienie o dopuszczeniu do wykorzystania postępowaniu karnym materiałów, o których mowa ust. 18 pkt 2, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości, a okoliczność nie może być ustalona na podstawie innego dowodu, a także zarządza niezwłoczne zniszczenie materiałów, których wykorzystanie postępowaniu karnym jest niedopuszczalne.
-
-20. Na postanowienie Sądu Okręgowego Warszawie przedmiocie dopuszczenia do wykorzystania postępowaniu karnym materiałów, o których mowa ust. 18 pkt 2, Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu przysługuje zażalenie. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
-
-21. Inspektor Nadzoru Wewnętrznego jest obowiązany do wykonania zarządzenia Sądu Okręgowego Warszawie o zniszczeniu materiałów, o którym mowa ust. 19, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie postępowaniu karnym jest niedopuszczalne. Inspektor Nadzoru Wewnętrznego niezwłocznie informuje Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego o zniszczeniu tych materiałów. materiałów zgromadzonych podczas trwania tej kontroli. Przepis nie narusza uprawnień wynikających z art. 321 Kodeksu postępowania karnego.
-
-23. Sąd Okręgowy Warszawie, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy i Inspektor Nadzoru Wewnętrznego prowadzą rejestry postanowień, pisemnych zgód, wniosków i zarządzeń dotyczących kontroli operacyjnej.
-
-24. Rejestry, o których mowa ust. 23, prowadzi się formie elektronicznej, z zachowaniem przepisów o ochronie informacji niejawnych.
-
-25. Zgromadzone podczas stosowania kontroli operacyjnej materiały niezawierające dowodów pozwalających na wszczęcie postępowania karnego lub dowodów mających znaczenie dla toczącego się postępowania karnego podlegają niezwłocznemu, protokolarnemu i komisyjnemu zniszczeniu. Zniszczenie materiałów zarządza Inspektor Nadzoru Wewnętrznego.
-
-26. O wydaniu i wykonaniu zarządzenia dotyczącego zniszczenia materiałów, o których mowa ust. 25, Inspektor Nadzoru Wewnętrznego jest obowiązany do niezwłocznego poinformowania Pierwszego Zastępcę Prokuratora Generalnego Prokuratora Krajowego.
-
-27. Na postanowienia sądu, o których mowa w:
-
-- **1)** ust. 1, 3, 7 i 8 – przysługuje zażalenie Inspektorowi Nadzoru Wewnętrznego;
-- **2)** ust. 3 – przysługuje zażalenie Pierwszemu Zastępcy Prokuratora Generalnego Prokuratorowi Krajowemu. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
-
-28. Minister właściwy do spraw wewnętrznych, porozumieniu z Ministrem Sprawiedliwości, ministrem właściwym do spraw łączności oraz ministrem właściwym do spraw informatyzacji, określi, drodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, a także wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów.
-
-29. Minister właściwy do spraw wewnętrznych przedstawia corocznie Sejmowi i Senatowi informację o działalności określonej ust. 1–28, łącznie z informacjami o Policji, tym informacje i dane, o których mowa art. 11p ust. 1 niniejszej ustawy oraz art. 20 ust. 3 ustawy z dnia 6 kwietnia 1990 r. o Policji. Informacja powinna być przedstawiona Sejmowi i Senatowi do dnia 30 czerwca roku następnego po roku nią objętym.
-
-**Art. 11o.**
-
-1. W sprawach o przestępstwa określone art. 11n ust. 1 czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa mogą polegać na dokonaniu sposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęciu lub wręczeniu korzyści majątkowej.
-
-2. Czynności operacyjno-rozpoznawcze, o których mowa ust. 1, mogą polegać także na złożeniu propozycji nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, a także przyjęcia lub wręczenia korzyści majątkowej.
-
-3. Inspektor Nadzoru Wewnętrznego lub upoważniony przez niego zastępca może zarządzić, na czas określony, czynności, o których mowa ust. 1 i 2, po uzyskaniu pisemnej zgody Prokuratora Okręgowego Warszawie, którego na bieżąco informuje o wynikach przeprowadzonych czynności. Prokurator może zarządzić zaniechanie czynności każdym czasie.
-
-4. Przed wydaniem pisemnej zgody prokurator, o którym mowa ust. 3, zapoznaje się z materiałami uzasadniającymi przeprowadzenie czynności, o których mowa ust. 1 i 2.
-
-5. Czynności, o których mowa ust. 1 i 2, zarządza się na czas nie dłuższy niż 3 miesiące. Inspektor Nadzoru Wewnętrznego może, po uzyskaniu pisemnej zgody prokuratora, o którym mowa ust. 3, jednorazowo przedłużyć stosowanie czynności na czas nie dłuższy niż kolejne 3 miesiące, jeżeli nie ustały przyczyny ich zarządzenia. Przepis ust. 4 stosuje się odpowiednio.
-
-6. W uzasadnionych przypadkach, gdy podczas stosowania czynności, o których mowa ust. 1 i 2, pojawią się nowe okoliczności istotne dla sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców kaniu pisemnej zgody prokuratora, o którym mowa ust. 3, zarządzić kontynuowanie czynności przez czas oznaczony również po upływie okresów, o których mowa ust. 5. Przepis ust. 4 stosuje się odpowiednio.
-
-7. Czynności, o których mowa ust. 1 i 2, mogą być niejawnie rejestrowane za pomocą urządzeń służących do rejestracji obrazu lub dźwięku.
-
-8. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Inspektor Nadzoru Wewnętrznego przekazuje prokuratorowi, o którym mowa ust. 3, wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa ust. 1 i 2. W postępowaniu przed sądem, odniesieniu do tych materiałów, stosuje się odpowiednio art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
-
-9. Zgromadzone podczas stosowania czynności, o których mowa ust. 1 i 2, materiały niezawierające dowodów pozwalających na wszczęcie postępowania karnego lub dowodów mających znaczenie dla toczącego się postępowania karnego podlegają niezwłocznemu, protokolarnemu i komisyjnemu zniszczeniu. Zniszczenie materiałów zarządza Inspektor Nadzoru Wewnętrznego.
-
-10. O wydaniu i wykonaniu zarządzenia dotyczącego zniszczenia materiałów, o których mowa ust. 9, Inspektor Nadzoru Wewnętrznego jest obowiązany do niezwłocznego poinformowania prokuratora, o którym mowa ust. 3.
-
-11. Minister właściwy do spraw wewnętrznych, porozumieniu z Ministrem Sprawiedliwości, określi, drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa ust. 1 i 2, a także przekazywania, przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tych czynności oraz wzory stosowanych druków i rejestrów, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów.
-
-**Art. 11p.**
-
-1. Jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom określonym art. 11n ust. 1 lub ich wykrycia, ustalenia ich sprawców, uzyskania i utrwalenia dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z tych przestępstw albo ich równowartości, Biuro może korzystać z informacji:
-
-- **1)** stanowiących tajemnicę skarbową, przetwarzanych przez organy administracji rządowej i samorządu terytorialnego; 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2024 r. poz. 512 i 879 oraz z 2025 r. poz. 146);
-- **3)** stanowiących tajemnicę bankową, o której mowa ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146 i 222);
-- **4)** stanowiących dane indywidualne, o których mowa art. 79 ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2024 r. poz. 497, 863, 1243 i 1615);
-- **5)** stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2024 r. poz. 910 i 1881);
-- **6)** stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034 i 1863 oraz z 2025 r. poz. 146);
-- **7)** stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146);
-- **8)** stanowiących tajemnicę rozumieniu ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838, 1565 i 1863 oraz z 2025 r. poz. 146);
-- **9)** stanowiących tajemnicę rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2024 r. poz.
-- **1113)** ;
-- **10)** stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 29 lipca 2005 r. o nadzorze nad rynkiem kapitałowym (Dz. U. z 2024 r. poz. 1161 i 1222 oraz z 2025 r. poz. 146);
-- **11)** stanowiących tajemnicę zawodową rozumieniu ustawy z dnia 7 lipca 2022 r. o finansowaniu społecznościowym dla przedsięwzięć gospodarczych i pomocy kredytobiorcom (Dz. U. z 2024 r. poz. 984 i 1863).
-
-2. Informacje i dane, o których mowa ust. 1, oraz informacje związane z przekazywaniem tych informacji i danych podlegają ochronie przewidzianej przepisach o ochronie informacji niejawnych i mogą być udostępniane jedynie inspektorom Biura prowadzącym czynności danej sprawie i ich przełożonym, czynnościami operacyjno-rozpoznawczymi. Akta zawierające te informacje i dane udostępnia się ponadto wyłącznie sądom i prokuratorom, jeżeli następuje to celu ścigania karnego.
-
-3. Informacje i dane, o których mowa ust. 1, udostępnia się nieodpłatnie na podstawie postanowienia wydanego przez Sąd Okręgowy Warszawie na pisemny wniosek Inspektora Nadzoru Wewnętrznego lub upoważnionego przez niego zastępcy.
-
-4. Informacje i dane, o których mowa ust. 1:
-
-- **1)** dotyczące dokumentacji związanej z nadaniem NIP oraz aktualizowaniem danych zawartych zgłoszeniach identyfikacyjnych, określonej art. 13 ust. 1 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2025 r. poz. 237),
-- **2)** zawarte aktach niezawierających informacji, o których mowa art. 182 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz.
-- **111)** ,
-- **3)** dotyczące zawarcia z osobą fizyczną, prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej umowy o wykonywanie czynności, o których mowa art. 5 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, lub czynności, o których mowa art. 3 ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych, umożliwiające weryfikację zawarcia takich umów i czasu ich obowiązywania,
-- **4)** dotyczące objęcia osoby fizycznej ubezpieczeniem społecznym i zwaloryzowanej wysokości składek na ubezpieczenie emerytalne osoby fizycznej, a także dane płatnika składek, o których mowa art. 40, art. 45 i art. 50 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych,
-- **5)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej dokonywała transakcji dotyczących towarów giełdowych, o których mowa ustawie z dnia 26 października 2000 r. o giełdach towarowych,
-- **6)** niezbędne do ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej, jest uczestnikiem funduszu inwestycyjnego, i zarządzaniu alternatywnymi funduszami inwestycyjnymi,
-- **7)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest stroną umowy dotyczącej obrotu instrumentami finansowymi, o której mowa ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi,
-- **8)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest ubezpieczającym, ubezpieczonym lub uprawnionym z umowy ubezpieczenia rozumieniu przepisów ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
-- **9)** dotyczące ustalenia, czy osoba fizyczna lub prawna, a także podmiot nieposiadający osobowości prawnej jest klientem usługi finansowania społecznościowego, o której mowa art. 2 ust. 1 lit. a rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/1503 z dnia 7 października 2020 r. sprawie europejskich dostawców usług finansowania społecznościowego dla przedsięwzięć gospodarczych oraz zmieniającego rozporządzenie (UE) 2017/1129 i dyrektywę (UE) 2019/1937 (Dz. Urz. UE L 347 z 20.10.2020, str. 1) – udostępnia się nieodpłatnie, formie pisemnej lub za pomocą środków komunikacji elektronicznej, na wniosek Inspektora Nadzoru Wewnętrznego lub upoważnionego przez niego zastępcy.
-
-5. Wniosek, o którym mowa ust. 3, powinien zawierać:
-
-- **1)** numer sprawy i jej kryptonim, jeżeli został ustalony;
-- **2)** opis przestępstwa z podaniem, miarę możliwości, jego kwalifikacji prawnej;
-- **3)** okoliczności uzasadniające potrzebę udostępnienia informacji i danych;
-- **4)** wskazanie podmiotu, którego informacje i dane dotyczą;
-- **5)** podmiot zobowiązany do udostępnienia informacji i danych;
-- **6)** rodzaj i zakres informacji i danych.
-
-6. Wniosek, o którym mowa ust. 4, powinien zawierać informacje określone ust. 5 pkt 1, 2 i 4–6.
-
-7. Po rozpatrzeniu wniosku, o którym mowa ust. 3, Sąd Okręgowy Warszawie, drodze postanowienia, wyraża zgodę na udostępnienie informacji i danych wskazanego podmiotu, określając ich rodzaj i zakres, podmiot zobowiązany zwrócenia się o przekazanie informacji i danych albo odmawia udzielenia zgody na udostępnienie informacji i danych. Przepis art. 11n ust. 11 stosuje się odpowiednio.
-
-8. Na postanowienie sądu, o którym mowa ust. 7, przysługuje zażalenie Inspektorowi Nadzoru Wewnętrznego.
-
-9. Uprawniony przez sąd Inspektor Nadzoru Wewnętrznego pisemnie informuje podmiot zobowiązany do udostępnienia informacji i danych o rodzaju i zakresie informacji i danych, które mają być udostępnione, podmiocie, którego informacje i dane dotyczą, oraz o osobie inspektora Biura upoważnionego do ich odbioru.
-
-10. W terminie do 90 dni od dnia przekazania informacji i danych, o których mowa ust. 1, Biuro informuje podmiot, o którym mowa ust. 5 pkt 4, o postanowieniu sądu wyrażającym zgodę na udostępnienie informacji i danych.
-
-11. Sąd Okręgowy Warszawie, na wniosek Inspektora Nadzoru Wewnętrznego, złożony po uzyskaniu pisemnej zgody Pierwszego Zastępcy Prokuratora Generalnego Prokuratora Krajowego, może zawiesić, drodze postanowienia, na czas oznaczony, z możliwością dalszego przedłużania, obowiązek, o którym mowa ust. 10, jeżeli zostanie uprawdopodobnione, że poinformowanie podmiotu, o którym mowa ust. 5 pkt 4, może zaszkodzić wynikom podjętych czynności operacyjno-rozpoznawczych. Przepis art. 11n ust. 11 stosuje się odpowiednio.
-
-12. Jeżeli okresie, o którym mowa ust. 10 lub 11, zostało wszczęte postępowanie przygotowawcze, podmiot wskazany ust. 5 pkt 4 jest powiadamiany o postanowieniu sądu o udostępnieniu informacji i danych przez prokuratora lub, na jego polecenie, przez Biuro przed zamknięciem postępowania przygotowawczego albo niezwłocznie po jego umorzeniu.
-
-13. Jeżeli informacje i dane, o których mowa ust. 1, nie dostarczyły podstaw do wszczęcia postępowania przygotowawczego, Inspektor Nadzoru Wewnętrznego zawiadamia o tym podmiot, który informacje i dane przekazał.
-
-14. Skarb Państwa ponosi odpowiedzialność za szkody wyrządzone naruszeniem przepisów ust. 2 na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
-
-**Art. 11q.** Jeżeli informacje i materiały uzyskane przez Biuro dostatecznie uzasadniają podejrzenie popełnienia przestępstwa lub przestępstwa skarbowego, Inspektor Nadzoru Wewnętrznego zawiadamia organ właściwy dla ścigania sprawcy.
-
-**Art. 11r.**
-
-1. Inspektor Biura, realizując zadania, o których mowa art. 11a ust. 3 pkt 7, może:
-
-- **1)** użyć środków przymusu bezpośredniego, o których mowa art. 12 ust. 1 pkt 1, 2, 13, 18, 19 i 21 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2024 r. poz. 383 i 1248 oraz z 2025 r. poz. 179), przypadkach, o których mowa art. 11 pkt 1–3, 10 i 12–15 tej ustawy, lub wykorzystać te środki;
-- **2)** użyć broni palnej przypadkach, o których mowa art. 45 pkt 1 lit. a–c, pkt 2, 3 i pkt 4 lit. a i b ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, lub ją wykorzystać przypadkach, o których mowa art. 47 pkt 1–6 tej ustawy.
-
-2. Użycie i wykorzystanie przez inspektora Biura środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania następuje na zasadach określonych ustawie, o której mowa ust. 1.
-
-3. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, sposoby ewidencjonowania, wymogi przechowywania Biurze broni, amunicji i środków przymusu bezpośredniego oraz tryb ich pobierania, mając na względzie potrzebę właściwego zabezpieczenia tej broni, amunicji i środków oraz uniemożliwienie dostępu do nich osobom nieuprawnionym.
-
-**Art. 11s.**
-
-1. Uzbrojenie i wyposażenie, tym osobiste i ochronne, wskazane przez Inspektora Nadzoru Wewnętrznego zakresie i na czas niezbędny do wykonywania czynności służbowych przez inspektora Biura zapewnia służba, z której został on oddelegowany do Biura.
-
-2. Organy i jednostki organizacyjne podległe lub nadzorowane przez ministra właściwego do spraw wewnętrznych są obowiązane, na wniosek Inspektora Nadzoru Wewnętrznego, udostępnić lub przekazać nieodpłatnie składniki rzeczowe majątku ruchomego, tym urządzenia i środki techniczne niezbędne do wykonywania zadań, o których mowa art. 11a ust. 3. następuje terminie 7 dni od dnia przekazania wniosku Inspektora Nadzoru Wewnętrznego.
-
-4. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, sposób i tryb przekazywania składników rzeczowych majątku ruchomego, o których mowa ust. 2, mając na względzie zapewnienie sprawnego przekazywania tych składników.
-
-**Art. 11t.**
-
-1. W celu realizacji zadań określonych art. 11a ust. 3 oraz zakresie niezbędnym do realizacji tych zadań Inspektor Nadzoru Wewnętrznego może:
-
-- **1)** uzyskiwać informacje, tym dane osobowe, gromadzić je, sprawdzać oraz przetwarzać, tym również informacje niejawne oraz informacje uzyskane lub przetwarzane przez organy innych państw, przez Międzynarodową Organizację Policji Kryminalnych – Interpol i Agencję Unii Europejskiej ds. Współpracy Organów Ścigania (Europol),
-- **2)** korzystać z danych o osobie, tym również formie zapisu elektronicznego, uzyskanych przez inne organy, służby i instytucje państwowe wyniku wykonywania czynności operacyjno-rozpoznawczych oraz przetwarzać je,
-- **3)** uzyskiwać, gromadzić i przetwarzać informacje, tym dane osobowe, ze zbiorów i rejestrów prowadzonych na podstawie odrębnych przepisów przez organy władzy publicznej, tym również ze zbiorów i rejestrów, których przetwarza się informacje, obejmujące dane osobowe, uzyskane wyniku wykonywania przez te organy czynności operacyjno-rozpoznawczych – bez wiedzy i zgody osób, których dotyczą.
-
-2. (uchylony)
-
-3. Informacje, o których mowa ust. 1, udostępnia się nieodpłatnie inspektorowi Biura wskazanemu imiennym upoważnieniu Inspektora Nadzoru Wewnętrznego, po okazaniu tego upoważnienia oraz legitymacji służbowej. Fakt udostępnienia tych danych podlega ochronie na podstawie ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
-
-4. Upoważnienie, o którym mowa ust. 3, powinno zawierać: imię i nazwisko inspektora Biura, numer legitymacji służbowej, wskazanie podmiotu zobowiązanego do przekazania informacji oraz termin ważności. ust. 1 pkt 3, mogą, drodze decyzji, wyrazić zgodę na udostępnianie za pomocą urządzeń telekomunikacyjnych informacji zgromadzonych zbiorach i rejestrach inspektorom Biura, bez konieczności składania pisemnych wniosków, jeżeli:
-
-- **1)** Biuro posiada urządzenia umożliwiające odnotowanie systemie, kto, kiedy, jakim celu oraz jakie dane uzyskał;
-- **2)** Biuro posiada zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
-- **3)** jest to uzasadnione specyfiką lub zakresem wykonywania zadań.
-
-6. Organ uprawniony nie przekazuje informacji lub ogranicza zakres przekazywanych informacji, jeżeli mogłoby to spowodować ujawnienie danych osoby niebędącej jego funkcjonariuszem, udzielającej pomocy temu organowi, lub uniemożliwić realizację zadań ustawowych organu uprawnionego.
-
-7. Administratorem danych osobowych przetwarzanych przez Biuro jest Inspektor Nadzoru Wewnętrznego.
-
-8. Dane osobowe przetwarzane są przez okres niezbędny do realizacji ustawowych zadań Inspektora Nadzoru Wewnętrznego.
-
-9. (uchylony)
-
-10. Dane osobowe uznane za zbędne można przekształcić sposób uniemożliwiający przyporządkowanie poszczególnych informacji osobistych lub rzeczowych do określonej lub możliwej do zidentyfikowania osoby fizycznej albo taki sposób, iż przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
-
-11. Prezes Rady Ministrów określi, drodze rozporządzenia, sposób i tryb przekazywania Biuru informacji uzyskanych przez podmioty, o których mowa ust. 1, wzór imiennego upoważnienia, o którym mowa ust. 3, z uwzględnieniem danych niezbędnych do zidentyfikowania upoważnionego inspektora Biura oraz terminu ważności tego upoważnienia, mając na względzie zapewnienie bezpieczeństwa przekazywanych danych.
-
-**Art. 11u.**
-
-1. Przy wykonywaniu czynności operacyjno-rozpoznawczych inspektorzy Biura mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych identyfikujących ich oraz środków, którymi posługują się przy wykonywaniu zadań służbowych. Biura mogą posługiwać się środkami identyfikacji elektronicznej zawierającymi dane inne niż dane identyfikujące inspektora Biura.
-
-2. W szczególnie uzasadnionych przypadkach przepisy ust. 1 i 1a mogą mieć zastosowanie do osób, o których mowa art. 11z ust. 1.
-
-3. Nie popełnia przestępstwa:
-
-- **1)** kto poleca sporządzenie lub kieruje sporządzeniem dokumentów lub wydawaniem środków identyfikacji elektronicznej, o których mowa ust. 1, 1a i 2;
-- **2)** kto sporządza dokumenty lub wydaje środki identyfikacji elektronicznej, o których mowa ust. 1, 1a i 2;
-- **3)** kto udziela pomocy sporządzeniu dokumentów lub wydawaniu środków identyfikacji elektronicznej, o których mowa ust. 1, 1a i 2;
-- **4)** inspektor Biura lub osoba wymieniona ust. 2, jeżeli dokumentami lub środkami identyfikacji elektronicznej, o których mowa ust. 1, 1a i 2, posługują się przy wykonywaniu czynności operacyjno-rozpoznawczych;
-- **5)** kto wydaje środki identyfikacji elektronicznej, o których mowa ust. 1a, inspektorowi Biura albo osobom, o których mowa ust. 2, lub dopuszcza do uwierzytelnienia z wykorzystaniem takiego środka identyfikacji elektronicznej swoim systemie identyfikacji elektronicznej.
-
-4. Organy administracji rządowej i organy samorządu terytorialnego są obowiązane do udzielania Biuru, granicach swojej właściwości, niezbędnej pomocy zakresie wydawania i zabezpieczania dokumentów, o których mowa ust. 1 i 2.
-
-**Art. 11v.**
-
-1. Udzielenie informacji o prowadzonych czynnościach operacyjno-rozpoznawczych oraz o stosowanych środkach i metodach ich realizacji może nastąpić:
-
-- **1)** przypadku gdy istnieje uzasadnione podejrzenie popełnienia przestępstwa ściganego z oskarżenia publicznego związku z wykonywaniem tych czynności;
-- **2)** związku z prowadzoną współpracą z innymi organami, służbami lub instytucjami państwowymi uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, tym także związku z prowadzoną współpracą umowach i porozumieniach międzynarodowych.
-
-2. Udzielenie informacji o osobie uzyskanych czasie wykonywania czynności operacyjno-rozpoznawczych może nastąpić:
-
-- **1)** na żądanie sądu lub prokuratora, a wykorzystanie tych informacji może nastąpić tylko celu ścigania karnego;
-- **2)** przypadku gdy ustawa nakłada obowiązek lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także przypadkach, gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.
-
-3. Udzielenie informacji o szczegółowych formach, zasadach i organizacji czynności operacyjno-rozpoznawczych może nastąpić szczególnie uzasadnionych przypadkach.
-
-4. W przypadkach wymienionych ust. 1 pkt 1, ust. 2 pkt 1 i ust. 3 udzielenie informacji następuje trybie określonym art. 9.
-
-**Art. 11w.**
-
-1. W celu zapobiegania lub wykrywania przestępstw Biuro może uzyskiwać dane niestanowiące treści odpowiednio, komunikatu elektronicznego przesyłanego ramach świadczonej publicznie dostępnej usługi telekomunikacyjnej, przesyłki pocztowej albo przekazu ramach usługi świadczonej drogą elektroniczną, określone w:
-
-- **1)** art. 45 ust. 1 i art. 49 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwane dalej „danymi telekomunikacyjnymi”,
-- **2)** art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717), zwane dalej „danymi pocztowymi”,
-- **3)** art. 18 ust. 1–5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513), zwane dalej „danymi internetowymi” – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
-
-2. Przedsiębiorca telekomunikacyjny, operator pocztowy lub usługodawca świadczący usługi drogą elektroniczną przekazuje nieodpłatnie dane, o których mowa ust. 1, Inspektorowi Nadzoru Wewnętrznego albo upoważnionemu inspektorowi Biura, tym za pośrednictwem sieci telekomunikacyjnej. mowa ust. 1, za pośrednictwem sieci telekomunikacyjnej odbywa się bez udziału pracowników przedsiębiorcy telekomunikacyjnego, operatora pocztowego lub usługodawcy świadczącego usługi drogą elektroniczną lub przy niezbędnym ich udziale, jeżeli możliwość taka jest przewidziana porozumieniu zawartym między ministrem właściwym do spraw wewnętrznych a tym podmiotem.
-
-4. Udostępnienie Biuru danych, o których mowa ust. 1, może nastąpić za pośrednictwem sieci telekomunikacyjnej, jeżeli:
-
-- **1)** wykorzystywane sieci telekomunikacyjne zapewniają:
-    - **a)** możliwość ustalenia osoby uzyskującej dane, ich rodzaju oraz czasu, którym zostały uzyskane,
-    - **b)** zabezpieczenie techniczne i organizacyjne uniemożliwiające osobie nieuprawnionej dostęp do danych;
-
-- **2)** jest to uzasadnione specyfiką lub zakresem zadań wykonywanych przez Biuro albo prowadzonych przez nie czynności.
-
-5. Inspektor Nadzoru Wewnętrznego prowadzi rejestry wystąpień o uzyskanie danych telekomunikacyjnych, pocztowych i internetowych zawierające informacje identyfikujące inspektorów Biura uzyskujących te dane, ich rodzaj, cel uzyskania oraz czas, którym zostały uzyskane. Rejestry prowadzi się formie elektronicznej, z zachowaniem przepisów o ochronie informacji niejawnych.
-
-6. Dane, o których mowa ust. 1, które mają znaczenie dla postępowania karnego, Inspektor Nadzoru Wewnętrznego przekazuje prokuratorowi właściwemu miejscowo lub rzeczowo. Prokurator podejmuje decyzję o zakresie i sposobie wykorzystania przekazanych danych.
-
-7. Dane, o których mowa ust. 1, które nie mają znaczenia dla postępowania karnego, podlegają niezwłocznemu, komisyjnemu i protokolarnemu zniszczeniu.
-
-**Art. 11x.**
-
-1. Kontrolę nad uzyskiwaniem przez Biuro danych telekomunikacyjnych, pocztowych lub internetowych sprawuje Sąd Okręgowy Warszawie.
-
-2. Inspektor Nadzoru Wewnętrznego przekazuje, z zachowaniem przepisów o ochronie informacji niejawnych, sądowi, o którym mowa ust. 1, okresach półrocznych, sprawozdanie obejmujące: telekomunikacyjnych, pocztowych lub internetowych oraz rodzaj tych danych;
-
-- **2)** kwalifikacje prawne czynów, związku z zaistnieniem których wystąpiono o dane telekomunikacyjne, pocztowe lub internetowe.
-
-3. W ramach kontroli, o której mowa ust. 1, Sąd Okręgowy Warszawie może zapoznać się z materiałami uzasadniającymi udostępnienie Biuru danych telekomunikacyjnych, pocztowych lub internetowych.
-
-4. Sąd Okręgowy Warszawie informuje Inspektora Nadzoru Wewnętrznego o wyniku kontroli terminie 30 dni od jej zakończenia.
-
-5. Kontroli, o której mowa ust. 1, nie podlega uzyskiwanie danych na podstawie art. 11y ust. 1.
-
-**Art. 11y.**
-
-1. W celu zapobiegania lub wykrywania przestępstw Inspektor Nadzoru Wewnętrznego może uzyskiwać dane:
-
-- **1)** o których mowa art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
-- **2)** o których mowa art. 389 ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej,
-- **3)** przypadku użytkownika, który nie jest osobą fizyczną – numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
-- **4)** przypadku stacjonarnej publicznej sieci telekomunikacyjnej – także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi – oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
-
-2. Do udostępniania i przetwarzania danych, o których mowa ust. 1, art. 11w ust. 2–7 stosuje się.
-
-**Art. 11z.**
-
-1. Biuro przy wykonywaniu swych zadań może korzystać z pomocy osób niebędących inspektorami i ekspertami Biura. Zabronione jest ujawnianie danych o osobie udzielającej pomocy Biuru, zakresie czynności operacyjno-rozpoznawczych.
-
-2. Udostępnienie danych o osobie, o której mowa ust. 1, może nastąpić jedynie przypadkach i trybie określonych art. 9. prokuratora lub sądu, także razie uzasadnionego podejrzenia popełnienia przez tę osobę przestępstwa ściganego z oskarżenia publicznego związku z wykonywaniem czynności operacyjno-rozpoznawczych oraz przypadku ujawnienia przez tę osobę faktu udzielania pomocy Biuru zakresie czynności operacyjno-rozpoznawczych; udostępnienie tych danych następuje trybie określonym art. 9.
-
-4. Za udzielenie pomocy, o której mowa ust. 1, osobom niebędącym inspektorami i ekspertami Biura może być przyznane wynagrodzenie.
-
-5. Koszty podejmowanych przez Biuro czynności operacyjno-rozpoznawczych, zakresie których ze względu na ochronę, o której mowa niniejszej ustawie, nie mogą być stosowane przepisy o finansach publicznych, rachunkowości i zamówień publicznych, a także wynagrodzenia osób wymienionych ust. 1, pokrywane są z tworzonego na ten cel funduszu operacyjnego.
-
-6. Minister właściwy do spraw wewnętrznych, z zachowaniem przepisów o ochronie informacji niejawnych, określi, drodze zarządzenia, sposób tworzenia i gospodarowania funduszem operacyjnym, mając na uwadze zapewnienie efektywnego i celowego wydatkowania środków z tego funduszu.
-
-7. Jeżeli czasie korzystania i związku z korzystaniem przez Biuro z pomocy osób, o których mowa ust. 1, osoby te utraciły życie lub poniosły uszczerbek na zdrowiu albo szkodę mieniu, odszkodowanie przysługuje sposób i trybie określonych przepisach wykonawczych wydanych na podstawie art. 22 ust. 4 ustawy z dnia 6 kwietnia 1990 r. o Policji. Art. 11za. Inspektor Biura i ekspert Biura podczas lub związku z pełnieniem obowiązków służbowych korzysta z ochrony przewidzianej Kodeksie karnym dla funkcjonariuszy publicznych. Art. 11zb. Inspektor Biura i ekspert Biura nie mogą podejmować dodatkowego zajęcia zarobkowego. Art. 11zc. Inspektor Biura i ekspert Biura składają oświadczenie o swoim stanie majątkowym Inspektorowi Nadzoru Wewnętrznego na zasadach określonych ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2023 r. poz. 1090 oraz z 2024 r. poz. 1840). Inspektora Nadzoru Wewnętrznego o podjęciu przez małżonka lub osoby pozostające z nim we wspólnym gospodarstwie domowym zatrudnienia lub innych czynności zarobkowych podmiotach świadczących usługi detektywistyczne lub ochrony osób i mienia oraz o objęciu nich akcji lub udziałów, a także o fakcie bycia wykonawcą rozumieniu ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320) na rzecz organów i jednostek organizacyjnych nadzorowanych i podległych ministrowi właściwemu do spraw wewnętrznych, terminie 14 dni od dnia powzięcia informacji o tym zdarzeniu. Art. 11ze. Przynależność inspektora Biura i eksperta Biura do organizacji lub stowarzyszeń krajowych, zagranicznych albo międzynarodowych wymaga pisemnej zgody Inspektora Nadzoru Wewnętrznego. Art. 11zf. Inspektor Biura i ekspert Biura są obowiązani powiadomić Inspektora Nadzoru Wewnętrznego o planowanym wyjeździe zagranicznym poza obszar Unii Europejskiej. Art. 11zg. 1. Inspektor Biura i ekspert Biura podlegają odpowiedzialności dyscyplinarnej na zasadach określonych dla funkcjonariusza służby, z której inspektor Biura lub ekspert Biura został oddelegowany do Biura, z tym że przełożonym dyscyplinarnym jest Inspektor Nadzoru Wewnętrznego. Przełożonym dyscyplinarnym Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego jest minister właściwy do spraw wewnętrznych.
-
-2. Od orzeczenia dyscyplinarnego wydanego pierwszej instancji odwołanie przysługuje do ministra właściwego do spraw wewnętrznych, a od orzeczeń wydanych pierwszej instancji przez tego ministra służy wniosek o ponowne rozpatrzenie sprawy.
-
-3. Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne przysługuje prawo wniesienia skargi do sądu administracyjnego. Art. 11zh. Minister właściwy do spraw wewnętrznych wyznacza rzecznika dyscyplinarnego stosunku do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego. Inspektor Nadzoru Wewnętrznego wyznacza rzecznika dyscyplinarnego stosunku do oddelegowanych do Biura funkcjonariuszy Policji, Straży Granicznej i Służby Ochrony Państwa oraz komisję dyscyplinarną spośród inspektorów Biura i ekspertów Biura. Art. 11zi. 1. Uprawnienia i obowiązki inspektorów Biura i ekspertów Biura określone art. 11za–11zg stosuje się odpowiednio do Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego.
-
-2. W zakresie rozpatrywania spraw dotyczących uprawnień i obowiązków Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego, o których mowa ust. 1, decyzje podejmuje minister właściwy do spraw wewnętrznych.
-
-3. Oświadczenie o stanie majątkowym, o którym mowa art. 11zc, Inspektor Nadzoru Wewnętrznego i zastępca Inspektora Nadzoru Wewnętrznego składają ministrowi właściwemu do spraw wewnętrznych. Art. 11zj. W sprawach wynikających ze stosunku służbowego Inspektora Nadzoru Wewnętrznego i zastępcy Inspektora Nadzoru Wewnętrznego, jeżeli są oddelegowanymi funkcjonariuszami, uprawnienia przełożonego właściwego sprawach osobowych wynikające z odrębnych przepisów przysługują ministrowi właściwemu do spraw wewnętrznych. Art. 11zk. W zakresie nieuregulowanym niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 6 kwietnia 1990 r. o Policji, ustawy z dnia 12 października 1990 r. o Straży Granicznej, ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej i ustawy z dnia 8 grudnia 2017 r. o Służbie Ochrony Państwa.
-
-**Art. 12.** Ustawa wchodzi życie terminie i na zasadach określonych ustawie – Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej.
-
+Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej.

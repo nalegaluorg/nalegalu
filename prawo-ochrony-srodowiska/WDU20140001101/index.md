@@ -8,11 +8,9 @@ pos: 1101
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Prawo ochrony środowiska oraz niektórych innych ustaw
-
-*USTAWA z dnia 11 lipca 2014 r.*
+# Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,1072 +22,5650 @@ domain: null
 | Data ogłoszenia | 2014-07-11 |
 | Data wydania | 2014-08-21 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1101/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/1101/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/1101) |
 
-**Art. 1.** W ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 14.**
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawę z dnia 14 grudnia 2012 r. o odpadach.](#gloss-0:2:)
 
-1. Polityka ochrony środowiska jest prowadzona na podstawie strategii rozwoju, programów i dokumentów programowych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm. ).
+### Art. 1.
 
-2. Polityka ochrony środowiska jest prowadzona również za pomocą wojewódzkich, powiatowych i gminnych programów ochrony środowiska.”;
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457 i 822.](#gloss-0:3:)) wprowadza się następujące zmiany:
 
-- **7)** uchyla się art. 15 i art. 16;
-- **8)** w art. 17:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organ wykonawczy województwa, powiatu i gminy, w celu realizacji polityki ochrony środowiska, sporządza odpowiednio wojewódzkie, powiatowe i gminne programy ochrony środowiska, uwzględniając cele zawarte w strategiach, programach i dokumentach programowych, o których mowa w art. 14 ust. 1.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Organ, o którym mowa w ust. 1, zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ), w postępowaniu, którego przedmiotem jest sporządzenie programu ochrony środowiska.”;
+### 1)
 
-- **9)** w art. 18 dodaje się ust. 3 w brzmieniu: „3. Po przedstawieniu raportów odpowiednio sejmikowi województwa, radzie powiatu albo radzie gminy, raporty są przekazywane przez organ wykonawczy województwa, powiatu i gminy odpowiednio do ministra właściwego do spraw środowiska, organu wykonawczego województwa i organu wykonawczego powiatu.”;
-- **10)** w art. 76 w ust. 2 w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4;
-- **11)** art. 101 otrzymuje brzmienie: „Art. 101. Ochrona powierzchni ziemi polega na:
-- **1)** racjonalnym gospodarowaniu;
-- **2)** zachowaniu funkcji środowiskowych, gospodarczych, społecznych i kulturowych, w tym między innymi:
-    - **a)** produkcji żywności oraz biomasy,
-    - **b)** magazynowaniu, filtrowaniu i przekształcaniu składników odżywczych, substancji i wody,
-    - **c)** podstaw rozwoju życia i różnorodności biologicznej,
-    - **d)** źródła surowców,
-    - **e)** rezerwuaru pierwiastka węgla,
-    - **f)** zbioru dziedzictwa geologicznego, geomorfologicznego i archeologicznego;
+odnośnik nr 1 do tytułu ustawy otrzymuje brzmienie:
 
-- **3)** zapobieganiu zanieczyszczeniu substancjami powodującymi ryzyko oraz na remediacji;
-- **4)** zachowaniu jak najlepszego stanu gleby poprzez zapobieganie:
-    - **a)** erozji wodnej i wietrznej,
-    - **b)** spadkowi zawartości próchnicy glebowej,
-    - **c)** zagęszczaniu, przez co rozumie się wzrost gęstości objętościowej i zmniejszanie porowatości gleby,
-    - **d)** zasoleniu na skutek gromadzenia się w glebie soli rozpuszczalnych,
-    - **e)** działaniom powodującym zakwaszanie;
+„
 
-- **5)** minimalizacji stopnia i łagodzeniu skutków zasklepienia gleby poprzez:
-    - **a)** ograniczanie do niezbędnego minimum powierzchni gleby objętej zabudową,
-    - **b)** zachowywanie lub tworzenie powierzchni biologicznie czynnych gleby, zdolnych do łagodzenia degradującego działania terenów zabudowanych i zanieczyszczeń środowiska;
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia następujących dyrektyw Unii Europejskiej:
 
-- **6)** zapobieganiu ruchom masowym ziemi i ich skutkom;
-- **7)** przeciwdziałaniu niekorzystnym zmianom naturalnego ukształtowania powierzchni ziemi polegającym na:
-    - **a)** ograniczaniu tworzenia, powstałych w wyniku przemieszczania lub usuwania mas ziemnych i skalnych oraz odpadów wydobywczych, wykopów, wyrobisk, nasypów i zwałowisk,
-    - **b)** zapobieganiu niszczeniu gleby, w tym mieszaniu jej poziomów genetycznych, które nie wynika z uprawy gruntów ornych,
-    - **c)** zapobieganiu i ograniczaniu niszczenia pokrycia terenu roślinnością,
-    - **d)** zapewnieniu racjonalnego wykorzystania przemieszczanych lub usuwanych mas ziemnych i skalnych,
-    - **e)** zapewnieniu racjonalnego wykorzystania warstwy próchnicznej gleb, głównie w kierunku odtworzenia i ulepszania gleb,
-    - **f)** ponownym kształtowaniu funkcji lub przygotowaniu do pełnienia nowych funkcji terenów, na których występuje niekorzystne przekształcenie naturalnego ukształtowania powierzchni ziemi.”;
+### 1)
 
-- **12)** po art. 101 dodaje się art. 101a–101r w brzmieniu: „Art. 101a. 1. Zanieczyszczenie powierzchni ziemi ocenia się na podstawie przekroczenia dopuszczalnych zawartości substancji powodujących ryzyko w glebie lub w ziemi.
+dyrektywy Rady 87/217/EWG z dnia 19 marca 1987 r. w sprawie ograniczania zanieczyszczenia środowiska azbestem i zapobiegania temu zanieczyszczeniu ([Dz. Urz. WE L 85 z 28.03.1987, str. 40](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 8, str. 269](https://api.sejm.gov.pl/eli/acts//text.html));
 
-2. Dopuszczalna zawartość w glebie i w ziemi substancji powodującej ryzyko oznacza zawartość, poniżej której żadna z funkcji pełnionych przez powierzchnię ziemi nie jest znacząco naruszona, z uwzględnieniem wpływu tej substancji na zdrowie ludzi i stan środowiska.
+### 2)
 
-3. Funkcję pełnioną przez powierzchnię ziemi ocenia się na podstawie jej faktycznego zagospodarowania i wykorzystania, chyba że inna funkcja wynika z planu zagospodarowania przestrzennego.
+dyrektywy Rady 91/692/EWG z dnia 23 grudnia 1991 r. normalizującej i racjonalizującej sprawozdania w sprawie wykonywania niektórych dyrektyw odnoszących się do środowiska ([Dz. Urz. WE L 377 z 31.12.1991, str. 48](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 10](https://api.sejm.gov.pl/eli/acts//text.html));
 
-4. Gleby, ziemi lub wód gruntowych nie uznaje się za zanieczyszczone, jeżeli stwierdzone w niej zawartości substancji są pochodzenia naturalnego.
+### 3)
 
-5. Minister właściwy do spraw środowiska, mając na względzie wpływ niektórych rodzajów działalności na stan powierzchni ziemi, w tym stwarzane przez nie zagrożenie dla zdrowia ludzi i stanu środowiska, oraz kierując się potrzebą ujednolicenia zasad i zminimalizowania kosztów badań zanieczyszczenia gleby i ziemi, określi w drodze rozporządzenia sposób prowadzenia oceny zanieczyszczenia powierzchni ziemi, w tym:
+dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory ([Dz. Urz. WE L 206 z 22.07.1992, str. 7](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** substancje powodujące ryzyko szczególnie istotne dla ochrony powierzchni ziemi, ich dopuszczalne zawartości w glebie oraz dopuszczalne zawartości w ziemi, zróżnicowane dla poszczególnych właściwości gleby oraz grup gruntów, wydzielonych w oparciu o sposób ich użytkowania;
-- **2)** szczegółowe wymagania dotyczące ustalania dopuszczalnej zawartości w glebie oraz dopuszczalnej zawartości w ziemi substancji powodującej ryzyko, innej niż wskazana w pkt 1, z uwzględnieniem analizy jej wpływu na zdrowie ludzi i stan środowiska;
-- **3)** etapy identyfikacji terenów zanieczyszczonych, w szczególności:
-    - **a)** sposób ustalenia działalności mogącej być przyczyną zanieczyszczenia na danym terenie obecnie lub w przeszłości,
-    - **b)** sposób ustalenia listy substancji powodujących ryzyko, których wystąpienie w glebie lub ziemi jest spodziewane ze względu na działalność, o której mowa w lit. a,
-    - **c)** źródła informacji istotne dla oceny zagrożenia zanieczyszczeniem gleby lub ziemi,
-    - **d)** warunki uznawania istniejących badań zanieczyszczenia gleby i ziemi za aktualne,
-    - **e)** etapy i sposób prowadzenia badań zanieczyszczenia gleby i ziemi;
+### 4)
 
-- **4)** rodzaje działalności mogących z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi, wraz ze wskazaniem przykładowych dla tych działalności zanieczyszczeń;
-- **5)** referencyjne metodyki wykonywania badań zanieczyszczenia gleby i ziemi;
-- **6)** szczegółowe wymagania dotyczące oceny zanieczyszczenia gleby, ziemi lub wód gruntowych na terenie zakładu, gdzie jest lub była w przeszłości eksploatowana instalacja wymagająca uzyskania pozwolenia zintegrowanego, w celu zapewnienia identyfikacji każdego zanieczyszczenia przed uruchomieniem instalacji, w trakcie jej eksploatacji oraz po zamknięciu, w tym wymagania dotyczące zakresu i sposobu sporządzenia raportu początkowego, o którym mowa w art. 208 ust. 2 pkt 4 lit. a, pomiarów, o których mowa w art. 211 ust. 6 pkt 4, i raportu końcowego, o którym mowa w art. 217b ust. 1.
+dyrektywy Rady 96/59/WE z dnia 16 września 1996 r. w sprawie unieszkodliwiania polichlorowanych bifenyli i polichlorowanych trifenyli (PCB/PCT) ([Dz. Urz. WE L 243 z 24.09.1996, str. 31](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 75](https://api.sejm.gov.pl/eli/acts//text.html));
 
-**Art. 101b.** W ramach państwowego monitoringu środowiska dokonuje się oceny oraz badań i obserwacji stanu gleby i ziemi.
+### 5)
 
-**Art. 101c.**
+dyrektywy Rady 96/82/WE z dnia 9 grudnia 1996 r. w sprawie kontroli niebezpieczeństwa poważnych awarii związanych z substancjami niebezpiecznymi ([Dz. Urz. WE L 10 z 14.01.1997, str. 13](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 410](https://api.sejm.gov.pl/eli/acts//text.html));
 
-1. Generalny Dyrektor Ochrony Środowiska prowadzi rejestr historycznych zanieczyszczeń powierzchni ziemi.
+### 6)
 
-2. W rejestrze gromadzi się informacje:
+dyrektywy 1999/94/WE Parlamentu Europejskiego i Rady z dnia 13 grudnia 1999 r. odnoszącej się do dostępności dla konsumentów informacji o zużyciu paliwa i emisjach CO2 w odniesieniu do obrotu nowymi samochodami osobowymi ([Dz. Urz. WE L 12 z 18.01.2000, str. 16](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 3](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** o potencjalnych historycznych zanieczyszczeniach powierzchni ziemi oraz historycznych zanieczyszczeniach powierzchni ziemi, w tym ich charakterystyce, miejscu, czasie wystąpienia oraz aktualnym statusie terenu, na którym występują;
-- **2)** o przeprowadzonych remediacjach oraz osiągniętych w ich wyniku efektach ekologicznych;
-- **3)** o działalności prowadzonej na terenach, na których wystąpiło potencjalne historyczne zanieczyszczenie powierzchni ziemi lub historyczne zanieczyszczenie powierzchni ziemi, obecnie, a także, o ile takie informacje są dostępne – w przeszłości;
-- **4)** imię i nazwisko albo nazwę władającego powierzchnią ziemi oraz adres jego zamieszkania lub siedziby;
-- **5)** imię i nazwisko albo nazwę obowiązanego do przeprowadzenia remediacji oraz adres jego zamieszkania lub siedziby;
-- **6)** określenie przedmiotu działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), wykonywanej na terenie, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi lub historyczne zanieczyszczenie powierzchni ziemi, przez władającego powierzchnią ziemi;
-- **7)** określenie przedmiotu działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), wykonywanej na terenie, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, przez obowiązanego do przeprowadzenia remediacji;
-- **8)** inne, niż wskazane w pkt 1–7, istotne informacje dotyczące historycznych zanieczyszczeń powierzchni ziemi, w szczególności o prowadzonych postępowaniach administracyjnych i sądowo-administracyjnych w sprawach historycznych zanieczyszczeń powierzchni ziemi.
+### 7)
 
-3. Regionalny dyrektor ochrony środowiska, w drodze decyzji skierowanej do władającego powierzchnią ziemi, dokonuje do rejestru wpisu o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi, nie później niż w terminie 6 miesięcy od dnia otrzymania odpowiednio:
+dyrektywy Parlamentu Europejskiego i Rady 2000/53/WE z dnia 18 września 2000 r. w sprawie pojazdów wycofanych z eksploatacji ([Dz. Urz. WE L 269 z 21.10.2000, str. 34](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 5, str. 224](https://api.sejm.gov.pl/eli/acts//text.html));
 
-- **1)** wykazu, o którym mowa w art. 101d ust. 6;
-- **2)** aktualizacji wykazu, o której mowa w art. 101d ust. 8;
-- **3)** zgłoszenia, o którym mowa w art. 101e ust. 1.
+### 8)
 
-4. Decyzja, o której mowa w ust. 3, zawiera wskazanie miejsca, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi.
+dyrektywy 2002/49/WE Parlamentu Europejskiego i Rady z dnia 25 czerwca 2002 r. odnoszącej się do oceny i zarządzania poziomem hałasu w środowisku ([Dz. Urz. WE L 189 z 18.07.2002, str. 12](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 101](https://api.sejm.gov.pl/eli/acts//text.html));
 
-5. Regionalny dyrektor ochrony środowiska aktualizuje i uzupełnia rejestr na podstawie:
+### 9)
 
-- **1)** aktualizacji wykazu, o której mowa w art. 101d ust. 8,
-- **2)** badań, o których mowa w art. 101f ust. 1 lub art. 101g ust. 1,
-- **3)** planu remediacji, o którym mowa w art. 101l ust. 1,
-- **4)** oceny przeprowadzenia remediacji, o której mowa w art. 101n ust. 1 – nie później niż w terminie 6 miesięcy odpowiednio od dnia ich otrzymania, wykonania, ustalenia lub dokonania.
+dyrektywy 2004/107/WE Parlamentu Europejskiego i Rady z dnia 15 grudnia 2004 r. w sprawie arsenu, kadmu, rtęci, niklu i wielopierścieniowych węglowodorów aromatycznych w otaczającym powietrzu ([Dz. Urz. UE L 23 z 26.01.2005, str. 3](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
 
-6. Regionalny dyrektor ochrony środowiska, dokonując wpisu do rejestru, aktualizując lub uzupełniając rejestr, oznacza aktualny status terenu jako teren, na którym:
+### 10)
 
-- **1)** występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi – jeżeli informacje na temat terenu zawarto w wykazie, o którym mowa w art. 101d ust. 6, lub w zgłoszeniu, o którym mowa w art. 101e ust. 1;
-- **2)** występuje historyczne zanieczyszczenie powierzchni ziemi – jeżeli na terenie przeprowadzono badania, o których mowa w art. 101f ust. 1 lub w art. 101g ust. 1, które potwierdzają historyczne zanieczyszczenie powierzchni ziemi;
-- **3)** występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji – jeżeli dla danego terenu ustalono plan remediacji, o którym mowa w art. 101l ust. 1;
-- **4)** zakończono remediację – jeżeli ocena przeprowadzenia remediacji, o której mowa w art. 101n ust. 1, wykaże, że remediacja została przeprowadzona zgodnie z ustalonym planem remediacji.
+dyrektywy Parlamentu Europejskiego i Rady 2008/50/WE z dnia 21 maja 2008 r. w sprawie jakości powietrza i czystszego powietrza dla Europy ([Dz. Urz. UE L 152 z 11.06.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html));
 
-7. Regionalny dyrektor ochrony środowiska, w drodze decyzji skierowanej do władającego powierzchnią ziemi, dokonuje wykreślenia wpisu do rejestru, jeżeli nie potwierdzono historycznego zanieczyszczenia powierzchni ziemi, w szczególności gdy badania zanieczyszczenia gleby i ziemi, o których mowa w art. 101f ust. 1 lub w art. 101g ust. 1, albo badania wykonywane przy opracowaniu planu remediacji, o którym mowa w art. 101l ust. 1, nie potwierdziły występowania na danym terenie historycznego zanieczyszczenia powierzchni ziemi.
+### 11)
 
-8. Generalny Dyrektor Ochrony Środowiska może dokonywać zmian w rejestrze, jeżeli stwierdzi niezgodność zawartych w nim danych z posiadanymi informacjami, w szczególności wynikającymi z prowadzonych postępowań administracyjnych w zakresie historycznego zanieczyszczenia powierzchni ziemi.
+dyrektywy Parlamentu Europejskiego i Rady 2008/56/WE z dnia 17 czerwca 2008 r. ustanawiającej ramy działań Wspólnoty w dziedzinie polityki środowiska morskiego (dyrektywa ramowa w sprawie strategii morskiej) ([Dz. Urz. UE L 164 z 25.06.2008, str. 19](https://api.sejm.gov.pl/eli/acts//text.html));
 
-9. Rejestr prowadzi się:
+### 12)
 
-- **1)** przy użyciu systemu teleinformatycznego;
-- **2)** w podziale na województwa, w sposób umożliwiający zestawianie danych dla obszaru całego kraju;
-- **3)** w sposób umożliwiający sortowanie danych.
+dyrektywy Parlamentu Europejskiego i Rady 2008/98/WE z dnia 19 listopada 2008 r. w sprawie odpadów oraz uchylającej niektóre dyrektywy ([Dz. Urz. UE L 312 z 22.11.2008, str. 3](https://api.sejm.gov.pl/eli/acts//text.html));
 
-10. Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają za pośrednictwem systemu teleinformatycznego organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska.
+### 13)
 
-11. Brak wpisu do rejestru nie wstrzymuje postępowania w sprawie wydania decyzji, o której mowa w art. 101f ust. 1, art. 101k ust. 2 lub 3, art. 101l ust. 4, art. 101m ust. 1 pkt 2 lub art. 101o ust. 2.
+dyrektywy Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa ([Dz. Urz. UE L 20 z 26.01.2010, str. 7](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.);
 
-12. Minister właściwy do spraw środowiska, biorąc pod uwagę potrzebę zapewnienia dostępu do informacji o środowisku, a także użyteczność i zapewnienie sprawnego funkcjonowania rejestru określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.
+### 14)
 
-**Art. 101d.**
+dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) ([Dz. Urz. UE L 334 z 17.12.2010, str. 17](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-1. Starosta dokonuje identyfikacji potencjalnych historycznych zanieczyszczeń powierzchni ziemi, poprzez:
+Niniejsza ustawa zapewnia również wykonanie przepisów rozporządzenia (WE) nr 166/2006 Parlamentu Europejskiego i Rady z dnia 18 stycznia 2006 r. w sprawie ustanowienia Europejskiego Rejestru Uwalniania i Transferu Zanieczyszczeń i zmieniającego dyrektywę Rady 91/689/EWG i 96/61/WE ([Dz. Urz. UE L 33 z 04.02.2006, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.).
 
-- **1)** ustalenie działalności mogącej z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi, która była prowadzona na danym terenie przed dniem 30 kwietnia 2007 r.;
-- **2)** ustalenie listy substancji powodujących ryzyko, których wystąpienie w glebie lub ziemi jest spodziewane ze względu na działalność, o której mowa w pkt 1;
-- **3)** analizę dostępnych informacji na temat zagrożenia zanieczyszczeniem gleby lub ziemi;
-- **4)** w razie potrzeby – wykonanie pierwszego etapu badań zanieczyszczenia gleby i ziemi przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+” ;
 
-2. Identyfikacji potencjalnych historycznych zanieczyszczeń powierzchni ziemi nie dokonuje się na terenach, na których jest prowadzona działalność, której głównym celem jest obronność i bezpieczeństwo państwa lub bezpieczeństwo międzynarodowe.
+### 2)
 
-3. Starosta lub upoważniona przez niego osoba, są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi.
+w art. 3:
 
-4. W przypadku, o którym mowa w ust. 3, władający powierzchnią ziemi jest obowiązany umożliwić wykonywanie badań na terenie będącym w jego władaniu.
+### a)
 
-5. Władający powierzchnią ziemi, na wniosek starosty, przekazuje wszelkie znajdujące się w jego posiadaniu informacje dotyczące potencjalnego historycznego zanieczyszczenia powierzchni ziemi oraz jego możliwych źródłach.
+po pkt 2 dodaje się pkt 2a i 2b w brzmieniu:
 
-6. Starosta sporządza wykaz potencjalnych historycznych zanieczyszczeń powierzchni ziemi.
+„
 
-7. Wykaz zawiera:
+### 2a)
 
-- **1)** adres, numery działek ewidencyjnych i informacje o ich powierzchni;
-- **2)** informacje o aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania gruntów;
-- **3)** informacje o działalności prowadzonej na terenie;
-- **4)** informacje o działalności prowadzonej na terenie w przeszłości, o ile takie informacje są dostępne;
-- **5)** informacje o właściwościach gleby na terenie;
-- **6)** nazwy substancji powodujących ryzyko oraz informacje o ich zawartości w glebie i w ziemi;
-- **7)** informacje o remediacji prowadzonej obecnie i w przeszłości na terenie;
-- **8)** imię i nazwisko albo nazwę obowiązanego do przeprowadzenia remediacji oraz adres jego zamieszkania lub siedziby;
-- **9)** imię i nazwisko albo nazwę władającego powierzchnią ziemi oraz adres jego zamieszkania lub siedziby.
+badaniach zanieczyszczenia gleby i ziemi - rozumie się przez to pomiary zawartości substancji powodującej ryzyko w glebie i w ziemi, w tym pobieranie próbek oraz związane z tymi pomiarami badania właściwości gleby i ziemi;
 
-8. Starosta dokonuje aktualizacji wykazu raz na 2 lata.
+### 2b)
 
-9. Starosta przekazuje wykaz oraz – raz na 2 lata – jego aktualizację regionalnemu dyrektorowi ochrony środowiska za pośrednictwem środków komunikacji elektronicznej lub na informatycznych nośnikach danych.
+dokumencie referencyjnym BAT - rozumie się przez to dokument, będący wynikiem wymiany informacji zorganizowanej przez Komisję Europejską zgodnie z przepisami dotyczącymi emisji przemysłowych, sporządzony dla określonego rodzaju działalności i opisujący w szczególności stosowane techniki, aktualne wielkości emisji i zużycia, techniki uwzględniane przy okazji ustalania najlepszych dostępnych technik, a także opisujący konkluzje BAT oraz wszelkie nowe techniki;
 
-**Art. 101e.**
+” ,
 
-1. Władający powierzchnią ziemi, który stwierdził historyczne zanieczyszczenie powierzchni ziemi na terenie będącym w jego władaniu, jest obowiązany niezwłocznie zgłosić ten fakt regionalnemu dyrektorowi ochrony środowiska.
+### b)
 
-2. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+po pkt 4 dodaje się pkt 4a w brzmieniu:
 
-- **1)** imię i nazwisko albo nazwę podmiotu zgłaszającego oraz adres jego zamieszkania lub siedziby;
-- **2)** adres i numer działki ewidencyjnej;
-- **3)** informacje na temat czasu wystąpienia zanieczyszczenia powierzchni ziemi, w tym, w miarę możliwości, dokumenty uprawdopodobniające, że zgłoszenie dotyczy historycznego zanieczyszczenia powierzchni ziemi;
-- **4)** dokumentację potwierdzającą wystąpienie zanieczyszczenia powierzchni ziemi, w tym nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+„
 
-3. Każdy, kto stwierdził potencjalne historyczne zanieczyszczenie powierzchni ziemi, może zgłosić ten fakt staroście.
+### 4a)
 
-4. Zgłoszenie, o którym mowa w ust. 3, zawiera:
+granicznych wielkościach emisyjnych - rozumie się przez to najwyższe z określonych w konkluzjach BAT wielkości emisji powiązane z najlepszymi dostępnymi technikami, uzyskiwane w normalnych warunkach eksploatacji z wykorzystaniem najlepszej dostępnej techniki lub kombinacji najlepszych dostępnych technik;
 
-- **1)** imię i nazwisko albo nazwę podmiotu zgłaszającego oraz adres jego zamieszkania lub siedziby;
-- **2)** wskazanie miejsca, w miarę możliwości poprzez podanie adresu lub numeru działki ewidencyjnej;
-- **3)** informacje na temat czasu wystąpienia zanieczyszczenia powierzchni ziemi, w tym, w miarę możliwości, dokumenty uprawdopodobniające, że zgłoszenie dotyczy historycznego zanieczyszczenia powierzchni ziemi;
-- **4)** opis stwierdzonej sytuacji wskazującej na występowanie potencjalnego historycznego zanieczyszczenia powierzchni ziemi, dokumentację, która uprawdopodobni jej wystąpienie, w tym, w miarę możliwości, nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+” ,
 
-5. Do zgłoszenia, o którym mowa w ust. 1 i 3, składanego w postaci elektronicznej dołącza się zeskanowane dokumenty lub dokumentację, o których mowa odpowiednio w ust. 2 pkt 3 i 4 oraz w ust. 4 pkt 3 i 4.
+### c)
 
-**Art. 101f.**
+po pkt 5 dodaje się pkt 5a w brzmieniu:
 
-1. Na terenie, na którym była prowadzona przed dniem 30 kwietnia 2007 r. działalność mogąca z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi oraz istnieją przesłanki wskazujące na występowanie historycznego zanieczyszczenia powierzchni ziemi, takie jak umieszczenie terenu w wykazie, o którym mowa w art. 101d ust. 6, lub zgłoszenie, o którym mowa w art. 101e ust. 1, regionalny dyrektor ochrony środowiska może, w drodze decyzji, nałożyć na władającego powierzchnią ziemi będącego podmiotem korzystającym ze środowiska, obowiązek wykonania badań zanieczyszczenia gleby i ziemi oraz wyznaczyć termin przedłożenia wyników tych badań.
+„
 
-2. Badania zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, wykonuje laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+### 5a)
 
-3. Przepisu ust. 1 nie stosuje się, gdy podmiot korzystający ze środowiska posiada pozwolenie zintegrowane, w którym określono sposób wykonywania badań zanieczyszczenia gleby i ziemi.
+historycznym zanieczyszczeniu powierzchni ziemi - rozumie się przez to zanieczyszczenie powierzchni ziemi, które zaistniało przed dniem 30 kwietnia 2007 r. lub wynika z działalności, która została zakończona przed dniem 30 kwietnia 2007 r.; rozumie się przez to także szkodę w środowisku w powierzchni ziemi w rozumieniu art. 6 pkt 11 lit. c ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. z 2014 r. poz. 210](https://api.sejm.gov.pl/eli/acts/DU/2014/210/text.html) i [1101](https://api.sejm.gov.pl/eli/acts/DU/2014/1101/text.html)), która została spowodowana przez emisję lub zdarzenie, od którego upłynęło więcej niż 30 lat;
 
-4. Podmiot, o którym mowa w ust. 1, jest obowiązany przechowywać wyniki badań przez okres 5 lat od zakończenia roku kalendarzowego, którego dotyczą, oraz przedkładać je regionalnemu dyrektorowi ochrony środowiska oraz wojewódzkiemu inspektorowi ochrony środowiska na ich żądanie.
+” ,
 
-5. Postępowanie w przedmiocie wydania decyzji, o której mowa w ust. 1, wszczyna się z urzędu.
+### d)
 
-**Art. 101g.**
+po pkt 8c dodaje się pkt 8d w brzmieniu:
 
-1. Regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi w celu potwierdzenia występowania historycznego zanieczyszczenia powierzchni ziemi lub w celu opracowania planu remediacji, w przypadku innym niż wskazany w art. 101f ust. 1.
+„
 
-2. Badania zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, wykonuje laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+### 8d)
 
-3. Zamówienie publiczne na wykonywanie badań zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, obejmuje jednorazowe badania lub dokonywanie wszystkich badań we wskazanym okresie.
+konkluzji BAT - rozumie się przez to dokument sporządzony na podstawie dokumentu referencyjnego BAT, przyjmowany przez Komisję Europejską, w drodze decyzji, zgodnie z przepisami dotyczącymi emisji przemysłowych, formułujący wnioski dotyczące najlepszych dostępnych technik, ich opisu, informacji służącej ocenie ich przydatności, wielkości emisji powiązanych z najlepszymi dostępnymi technikami, powiązanego monitoringu, powiązanych poziomów zużycia oraz, w stosownych przypadkach, odpowiednich sposobów przeprowadzenia remediacji;
 
-4. Regionalny dyrektor ochrony środowiska lub upoważniona przez niego osoba, są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi.
+” ,
 
-5. W przypadku, o którym mowa w ust. 4, władający powierzchnią ziemi jest obowiązany umożliwić wykonywanie badań na terenie będącym w jego władaniu.
+### e)
 
-**Art. 101h.**
+pkt 10 otrzymuje brzmienie:
 
-1. Władający powierzchnią ziemi, na której występuje historyczne zanieczyszczenie powierzchni ziemi, jest obowiązany do przeprowadzenia remediacji.
+„
 
-2. Jeżeli władający powierzchnią ziemi wykaże, że historyczne zanieczyszczenie powierzchni ziemi dokonane po dniu objęcia przez niego władania spowodował inny wskazany podmiot, zwany dalej „innym sprawcą”, obowiązek przeprowadzenia remediacji spoczywa na innym sprawcy.
+### 10)
 
-3. Jeżeli zanieczyszczenie zostało spowodowane przez innego sprawcę za zgodą lub wiedzą władającego powierzchnią ziemi, władający powierzchnią ziemi jest obowiązany do przeprowadzenia remediacji solidarnie z innym sprawcą.
+najlepszych dostępnych technikach - rozumie się przez to najbardziej efektywny i zaawansowany poziom rozwoju technologii i metod prowadzenia danej działalności, który wskazuje możliwe wykorzystanie poszczególnych technik jako podstawy przy ustalaniu dopuszczalnych wielkości emisji i innych warunków pozwolenia mających na celu zapobieganie powstawaniu, a jeżeli nie jest to możliwe, ograniczenie emisji i oddziaływania na środowisko jako całość, z tym że:
 
-4. W przypadku, o którym mowa w ust. 3, decyzję, o której mowa w art. 101l ust. 4 i art. 101m ust. 1 pkt 2, kieruje się także do władającego powierzchnią ziemi.
+### a)
 
-**Art. 101i.** Regionalny dyrektor ochrony środowiska, w przypadku historycznego zanieczyszczenia powierzchni ziemi, przeprowadza remediację, jeżeli:
+technika - oznacza zarówno stosowaną technologię, jak i sposób, w jaki dana instalacja jest projektowana, wykonywana, eksploatowana oraz likwidowana,
 
-**Art. 101j.**
+### b)
 
-1. Regionalny dyrektor ochrony środowiska ustala harmonogram swoich zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi oraz co najmniej raz na 5 lat dokonuje jego aktualizacji.
+dostępne techniki - oznaczają techniki o takim stopniu rozwoju, który umożliwia ich praktyczne zastosowanie w danej dziedzinie przemysłu, z uwzględnieniem warunków ekonomicznych i technicznych oraz rachunku kosztów i korzyści, a które to techniki prowadzący daną działalność może uzyskać,
 
-2. Harmonogram obejmuje:
+### c)
 
-- **1)** badania zanieczyszczenia gleby i ziemi na terenach, na których występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi;
-- **2)** opracowywanie planów remediacji dla terenów, dla których potwierdzono historyczne zanieczyszczenie powierzchni ziemi;
-- **3)** przeprowadzanie remediacji historycznych zanieczyszczeń powierzchni ziemi, o których mowa w art. 101i.
+najlepsza technika - oznacza najbardziej efektywną technikę w osiąganiu wysokiego ogólnego poziomu ochrony środowiska jako całości;
 
-3. Ustalając i aktualizując harmonogram uwzględnia się potrzebę przeprowadzenia w pierwszej kolejności remediacji terenów, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska oraz uwzględnia się możliwość finansowania zadań regionalnego dyrektora ochrony środowiska w kolejnych latach.
+” ,
 
-4. W trakcie opracowywania lub aktualizacji harmonogramu regionalny dyrektor ochrony środowiska zasięga opinii Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej w zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
+### f)
 
-5. Regionalny dyrektor ochrony środowiska opracowuje i przekazuje Generalnemu Dyrektorowi Ochrony Środowiska, co 5 lat, sprawozdanie z realizacji zadań objętych harmonogramem.
+w pkt 20 lit. a otrzymuje brzmienie:
 
-**Art. 101k.**
+„
 
-1. Koszty remediacji obejmują koszty:
+### a)
 
-- **1)** badań zanieczyszczenia gleby i ziemi;
-- **2)** opracowania projektu planu remediacji;
-- **3)** przeprowadzenia remediacji.
+przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2013 r. poz. 672](https://api.sejm.gov.pl/eli/acts/DU/2013/672/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822.](#gloss-0:4:)) oraz przedsiębiorcę zagranicznego w rozumieniu art. 5 pkt 3 tej ustawy, a także osoby prowadzące działalność wytwórczą w rolnictwie w zakresie upraw rolnych, chowu lub hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego,
 
-2. W przypadkach, o których mowa w art. 101i pkt 4, regionalny dyrektor ochrony środowiska nakłada, w drodze decyzji, na władającego powierzchnią ziemi obowiązek zwrotu poniesionych kosztów remediacji, określając w niej wysokość, sposób i termin ich uiszczenia.
+” ,
 
-3. Jeżeli władający powierzchnią ziemi wykaże, że historyczne zanieczyszczenie powierzchni ziemi dokonane po dniu objęcia przez niego władania, której remediacja spowodowała poniesienie kosztów, o których mowa w ust. 1, spowodował inny sprawca, regionalny dyrektor ochrony środowiska nakłada, w drodze decyzji, obowiązek zwrotu tych kosztów na innego sprawcę, określając w niej wysokość, sposób i termin ich uiszczenia.
+### g)
 
-4. Regionalny dyrektor ochrony środowiska może odstąpić od żądania zwrotu całości albo części kosztów remediacji, jeżeli:
+pkt 25 otrzymuje brzmienie:
 
-- **1)** władający powierzchnią ziemi lub inny sprawca nie został zidentyfikowany lub nie można wszcząć wobec niego postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna;
-- **2)** koszty postępowania egzekucyjnego są wyższe niż kwota możliwa do odzyskania.
+„
 
-5. Roszczenia względem władającego powierzchnią ziemi lub innego sprawcy o zwrot kosztów remediacji przedawniają się z upływem 5 lat od dnia, w którym odpowiednio decyzja, o której mowa w ust. 2 albo 3, stała się ostateczna.
+### 25)
 
-6. Do należności z tytułu obowiązku zwrotu kosztów remediacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm. ), z tym że uprawnienia organów podatkowych przysługują regionalnemu dyrektorowi ochrony środowiska.
+powierzchni ziemi - rozumie się przez to ukształtowanie terenu, glebę, ziemię oraz wody gruntowe, z tym że:
 
-**Art. 101l.**
+### a)
 
-1. Remediację historycznego zanieczyszczenia powierzchni ziemi przeprowadza się zgodnie z ustalonym planem remediacji.
+gleba - oznacza górną warstwę litosfery, złożoną z części mineralnych, materii organicznej, wody glebowej, powietrza glebowego i organizmów, obejmującą wierzchnią warstwę gleby i podglebie,
 
-2. Władający powierzchnią ziemi lub inny sprawca, obowiązany do przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi, jest obowiązany do przedłożenia regionalnemu dyrektorowi ochrony środowiska wniosku o wydanie decyzji ustalającej plan remediacji, który zawiera projekt planu remediacji; do pisemnego wniosku dołącza się jego zapis w postaci elektronicznej na informatycznych nośnikach danych.
+### b)
 
-3. Projekt planu remediacji zawiera informacje o:
+ziemia - oznacza górną warstwę litosfery, znajdującą się poniżej gleby, do głębokości oddziaływania człowieka,
 
-- **1)** terenie wymagającym przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni;
-- **2)** aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu;
-- **3)** właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie;
-- **4)** nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a;
-- **5)** nazwach substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja;
-- **6)** ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska;
-- **7)** budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w pkt 6 – jeżeli zachodzi taka potrzeba;
-- **8)** planowanym sposobie przeprowadzenia remediacji;
-- **9)** planowanym terminie rozpoczęcia i zakończenia remediacji;
-- **10)** sposobie potwierdzenia przeprowadzenia remediacji oraz terminie przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+### c)
 
-4. Plan remediacji ustala regionalny dyrektor ochrony środowiska w drodze decyzji określającej:
+wody gruntowe - oznaczają wody podziemne w rozumieniu art. 9 ust. 1 pkt 22 ustawy z dnia 18 lipca 2001 r. - Prawo wodne ([Dz. U. z 2012 r. poz. 145](https://api.sejm.gov.pl/eli/acts/DU/2012/145/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822 i 850.](#gloss-0:5:)), które znajdują się w strefie nasycenia i pozostają w bezpośredniej styczności z gruntem lub podglebiem;
 
-- **1)** teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni;
-- **2)** nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja;
-- **3)** sposób przeprowadzenia remediacji;
-- **4)** termin rozpoczęcia i zakończenia remediacji;
-- **5)** sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+” ,
 
-5. Regionalny dyrektor ochrony środowiska wydaje decyzję, o której mowa w ust. 4, po zasięgnięciu opinii dotyczącej projektu planu remediacji:
+### h)
 
-- **1)** państwowego wojewódzkiego inspektora sanitarnego – w odniesieniu do oceny występowania znaczącego zagrożenia dla zdrowia ludzi na danym terenie;
-- **2)** państwowego powiatowego inspektora sanitarnego – w odniesieniu do zanieczyszczenia w ujęciach wody przeznaczonej do spożycia;
-- **3)** dyrektora okręgowego urzędu górniczego – w odniesieniu do zanieczyszczenia spowodowanego ruchem zakładu górniczego;
-- **4)** dyrektora regionalnej dyrekcji Lasów Państwowych – w odniesieniu do zanieczyszczenia na gruntach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;
-- **5)** dyrektora parku narodowego – w odniesieniu do zanieczyszczenia na obszarze parku narodowego i jego otuliny;
-- **6)** dyrektora regionalnego zarządu gospodarki wodnej – w odniesieniu do zanieczyszczenia w strefach ochronnych ujęć wody;
-- **7)** starosty – w odniesieniu do zanieczyszczenia gruntów wykorzystywanych na cele rolne.
+po pkt 31a dodaje się pkt 31b w brzmieniu:
 
-6. Jeżeli zanieczyszczenie wystąpiło na terenie, do którego inny sprawca nie posiada tytułu prawnego, władający powierzchnią ziemi jest obowiązany umożliwić wykonanie badań zanieczyszczenia gleby i ziemi, a także przeprowadzenie remediacji zgodnie z planem remediacji ustalonym w drodze decyzji, o której mowa w ust. 4.
+„
 
-**Art. 101m.**
+### 31b)
 
-1. W przypadku gdy władający powierzchnią ziemi lub inny sprawca nie przeprowadza remediacji, pomimo że zgodnie z art. 101h jest do tego obowiązany, regionalny dyrektor ochrony środowiska:
+remediacji - rozumie się przez to poddanie gleby, ziemi i wód gruntowych działaniom mającym na celu usunięcie lub zmniejszenie ilości substancji powodujących ryzyko, ich kontrolowanie oraz ograniczenie rozprzestrzeniania się, tak aby teren zanieczyszczony przestał stwarzać zagrożenie dla zdrowia ludzi lub stanu środowiska, z uwzględnieniem obecnego i, o ile jest to możliwe, planowanego w przyszłości sposobu użytkowania terenu; remediacja może polegać na samooczyszczaniu, jeżeli przynosi największe korzyści dla środowiska;
 
-- **1)** wzywa go do przedłożenia wniosku, o którym mowa w art. 101l ust. 2, w wyznaczonym terminie;
-- **2)** jeżeli nie przedłożył wniosku zgodnie z wezwaniem – nakłada na władającego powierzchnią ziemi lub innego sprawcę, w drodze decyzji, obowiązek przeprowadzenia remediacji na podstawie ustalonego przez regionalnego dyrektora ochrony środowiska planu remediacji.
+” ,
 
-2. W decyzji, o której mowa w ust. 1 pkt 2, ustala się obowiązek zwrotu kosztów opracowania projektu planu remediacji, ich wysokość, sposób i termin uiszczenia oraz ustala się plan remediacji:
+### i)
 
-- **1)** zawierający informacje o:
-    - **a)** aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
-    - **b)** właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie,
-    - **c)** nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a,
-    - **d)** ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
-    - **e)** budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d – jeżeli zachodzi taka potrzeba;
+po pkt 32c dodaje się pkt 32d w brzmieniu:
 
-- **2)** określający:
-    - **a)** teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
-    - **b)** nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
-    - **c)** sposób przeprowadzenia remediacji,
-    - **d)** termin rozpoczęcia i zakończenia remediacji,
-    - **e)** sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+„
 
-3. Przy wydawaniu decyzji, o której mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 101l ust. 5.
+### 32d)
 
-4. W przypadku, o którym mowa w ust. 1 pkt 2, nie stosuje się przepisów art. 362.
+samooczyszczaniu - rozumie się przez to biologiczne, chemiczne i fizyczne procesy, których skutkiem jest ograniczenie ilości, ładunku, stężenia, toksyczności, dostępności oraz rozprzestrzeniania się zanieczyszczeń w glebie, ziemi i wodach, przebiegające samoistnie, bez ingerencji człowieka, ale których przebieg może być przez człowieka wspomagany;
 
-5. W przypadku, o którym mowa w ust. 1 pkt 2, opracowanie projektu planu remediacji regionalny dyrektor ochrony środowiska może zlecić wykonawcy, który ze względu na posiadane kompetencje, doświadczenie oraz warunki techniczne i organizacyjne będzie gwarantował należyte jego opracowanie.
+” ,
 
-6. Do należności z tytułu obowiązku zwrotu kosztów opracowania projektu planu remediacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują regionalnemu dyrektorowi ochrony środowiska.
+### j)
 
-7. Jeżeli zanieczyszczenie wystąpiło na terenie, do którego inny sprawca nie posiada tytułu prawnego, władający powierzchnią ziemi jest obowiązany umożliwić wykonanie badań zanieczyszczenia gleby i ziemi, a także przeprowadzenie remediacji zgodnie z planem remediacji ustalonym w decyzji, o której mowa w ust. 1 pkt 2.
+po pkt 37 dodaje się pkt 37a w brzmieniu:
 
-**Art. 101n.**
+„
 
-1. Regionalny dyrektor ochrony środowiska dokonuje oceny przeprowadzenia remediacji, która polega na stwierdzeniu zgodności remediacji z ustalonym planem remediacji.
+### 37a)
 
-2. W przypadku gdy stwierdzono niezgodność przeprowadzonej remediacji z ustalonym planem remediacji, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+substancji powodującej ryzyko - rozumie się przez to substancję stwarzającą zagrożenie i mieszaninę stwarzającą zagrożenie, należącą co najmniej do jednej z klas zagrożenia wymienionych w częściach 2-5 załącznika I do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 ([Dz. Urz. UE L 353 z 31.12.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), w szczególności substancje powodujące ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 pkt 1;
 
-**Art. 101o.**
+” ;
 
-1. Jeżeli regionalny dyrektor ochrony środowiska przeprowadza remediację, o której mowa w art. 101i, władający powierzchnią ziemi jest obowiązany umożliwić jej przeprowadzenie z zachowaniem warunków określonych w decyzji, o której mowa w ust. 2, a także umożliwić prowadzenie badań zanieczyszczenia gleby i ziemi.
+### 3)
 
-2. Regionalny dyrektor ochrony środowiska, w celu przeprowadzenia remediacji, określa, w drodze decyzji skierowanej do władającego powierzchnią ziemi, zakres udostępnienia przez niego powierzchni ziemi oraz ustala plan remediacji:
+w art. 4 w ust. 1 w pkt 2 skreśla się wyrazy „(Dz. U. z 2012 r. poz. 145, z późn. zm.)”;
 
-- **1)** zawierający informacje o:
-    - **a)** aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
-    - **b)** właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie,
-    - **c)** nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a,
-    - **d)** ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
-    - **e)** budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d – jeżeli zachodzi taka potrzeba;
+### 4)
 
-- **2)** określający:
-    - **a)** teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
-    - **b)** nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
-    - **c)** sposób przeprowadzenia remediacji,
-    - **d)** termin rozpoczęcia i zakończenia remediacji,
-    - **e)** sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+w art. 7a skreśla się wyrazy „(Dz. U. Nr 75, poz. 493, z późn. zm.)”;
 
-3. Postępowanie w sprawie wydania decyzji, o której mowa w ust. 2, wszczyna się z urzędu.
+### 5)
 
-4. Przy wydawaniu decyzji, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 101l ust. 5.
+w tytule I tytuł działu III otrzymuje brzmienie: „ Polityka ochrony środowiska oraz programy ochrony środowiska ” ;
 
-5. W przypadku, o którym mowa w art. 101i, opracowanie projektu planu remediacji lub przeprowadzenie remediacji regionalny dyrektor ochrony środowiska może zlecić wykonawcy, który ze względu na posiadane kompetencje, doświadczenie oraz warunki techniczne i organizacyjne będzie gwarantował odpowiednio należyte ich opracowanie lub przeprowadzenie.
+### 6)
 
-**Art. 101p.**
+art. 13 i art. 14 otrzymują brzmienie:
 
-1. Dokonując oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, o której mowa w art. 101l ust. 3 pkt 6, art. 101m ust. 2 pkt 1 lit. d oraz art. 101o ust. 2 pkt 1 lit. d, uwzględnia się w szczególności:
+„
 
-- **1)** postać chemiczną, w jakiej występuje zanieczyszczenie i jego biodostępność;
-- **2)** możliwość rozprzestrzeniania się zanieczyszczenia;
-- **3)** potencjalne drogi narażenia, z uwzględnieniem rozprzestrzeniania się zanieczyszczeń w zależności od właściwości gleby, ukształtowania, budowy geologicznej i warunków hydrogeologicznych, a także pokrycia terenu;
-- **4)** środowisko oraz ludzi, którzy mogliby ucierpieć w wyniku zanieczyszczenia;
-- **5)** występowanie na terenie zanieczyszczonym i w jego okolicy zwłaszcza gruntów uprawnych, ogrodów, parków, placów zabaw, terenów sportowych, budynków mieszkalnych i użytkowych, form ochrony przyrody, zasobów wody pitnej i ujęć wody.
+### Art. 13.
 
-2. Jeżeli ocena występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska wykaże, że nie występuje znaczące zagrożenie dla zdrowia ludzi lub stanu środowiska, regionalny dyrektor ochrony środowiska może zwolnić władającego powierzchnią ziemi lub innego sprawcę, w drodze decyzji, z obowiązku przeprowadzenia remediacji albo nie przeprowadzać remediacji, o której mowa w art. 101i.
+Polityka ochrony środowiska to zespół działań mających na celu stworzenie warunków niezbędnych do realizacji ochrony środowiska, zgodnie z zasadą zrównoważonego rozwoju.
 
-3. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw zdrowia, kierując się potrzebą ujednolicenia sposobu wykonywania oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, może określić, w drodze rozporządzenia, sposób wykonywania oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska oraz referencyjne metodyki modelowania rozprzestrzeniania substancji w glebie, ziemi i wodach gruntowych.
+### Art. 14.
 
-**Art. 101q.**
+### 1.
 
-1. Dopuszcza się następujące sposoby przeprowadzenia remediacji:
+Polityka ochrony środowiska jest prowadzona na podstawie strategii rozwoju, programów i dokumentów programowych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju ([Dz. U. z 2009 r. Nr 84, poz. 712](https://api.sejm.gov.pl/eli/acts/DU/2009/712/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379.](#gloss-0:6:)).
 
-- **1)** usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko;
-- **2)** inne, niż wskazany w pkt 1, prowadzące do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska, z uwzględnieniem obecnego i, o ile jest to możliwe, planowanego sposobu użytkowania terenu, takie jak:
-    - **a)** zmniejszenie ilości zanieczyszczeń lub
-    - **b)** ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń i kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie, lub
-    - **c)** przeprowadzenie samooczyszczania powierzchni ziemi, ewentualne działania wspomagające samooczyszczanie, kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie, ewentualne ograniczenie dostępu ludzi do zanieczyszczonego terenu i ewentualna konieczność zmiany sposobu użytkowania zanieczyszczonego terenu.
+### 2.
 
-2. Przy planowaniu lub określaniu sposobu przeprowadzenia remediacji w pierwszej kolejności należy rozważyć usunięcie zanieczyszczenia, o którym mowa w ust. 1 pkt 1.
+Polityka ochrony środowiska jest prowadzona również za pomocą wojewódzkich, powiatowych i gminnych programów ochrony środowiska.
 
-3. Odstąpienie od usunięcia zanieczyszczenia, o którym mowa w ust. 1 pkt 1, i przeprowadzenie remediacji w sposób, o którym mowa w ust. 1 pkt 2, dopuszcza się, jeżeli:
+” ;
 
-- **1)** nie są znane technologie lub sposoby pozwalające na usunięcie zanieczyszczenia lub
-- **2)** negatywne dla środowiska skutki działań prowadzonych w celu usunięcia zanieczyszczenia byłyby niewspółmiernie wysokie do korzyści osiągniętych w środowisku, lub
-- **3)** koszty oczyszczania doprowadzające do usunięcia zanieczyszczenia byłyby nieproporcjonalnie wysokie w stosunku do korzyści osiągniętych w środowisku i zasadne jest przeprowadzenie remediacji w sposób, o którym mowa w ust. 1 pkt 2, co zostało wykazane w analizie kosztów i korzyści przeprowadzonej dla kilku wariantów sposobu przeprowadzenia remediacji, lub
-- **4)** obowiązany do przeprowadzenia remediacji wykaże, że zanieczyszczenie nastąpiło przed dniem 1 września 1980 r.
+### 7)
 
-**Art. 101r.** Zabrania się używania do prac ziemnych gleby lub ziemi, w tym używanych do tych prac osadów pochodzących z dna zbiorników powierzchniowych wód stojących lub wód płynących, jeżeli jest przekroczona w nich dopuszczalna zawartość substancji powodującej ryzyko, określona w przepisach wydanych na podstawie art. 101a ust. 5, dla gruntów występujących w miejscu użycia tej gleby lub ziemi.”;
+uchyla się art. 15 i art. 16;
 
-**Art. 146b.**
+### 8)
 
-1. Dla źródła spalania paliw, w przypadku którego prowadzący instalację złożył organowi właściwemu do wydania pozwolenia, w terminie do dnia 30 czerwca 2015 r., dokumenty potwierdzające spełnianie przez źródło spalania paliw następujących warunków:
+w art. 17:
 
-- **1)** pierwsze pozwolenie na budowę źródła wydano przed dniem 27 listopada 2002 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródło zostało oddane do użytkowania nie później niż w dniu 27 listopada 2003 r.,
-- **2)** całkowita nominalna moc cieplna, ustalona z uwzględnieniem pierwszej i drugiej zasady łączenia, jest nie mniejsza niż 50 MW i nie większa niż 200 MW,
-- **3)** co najmniej 50% produkcji ciepła użytkowego wytwarzanego w tym źródle, stanowi ciepło dostarczone do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody – obowiązują – w okresie od dnia 1 stycznia 2016 r. do czasu spełniania warunków, o których mowa w pkt 2 i 3, jednak nie dłużej niż do dnia 31 grudnia 2022 r. – wielkości dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, wielkości dopuszczalnej emisji pyłu i wielkości dopuszczalnej emisji dwutlenku siarki lub stopnie odsiarczania, które zostały określone w pozwoleniu zintegrowanym jako obowiązujące w dniu 31 grudnia 2015 r.
+### a)
 
-2. Dokumenty potwierdzające spełnianie warunków, o których mowa w ust. 1, zawierają informacje lub dane dotyczące w szczególności:
+ust. 1 otrzymuje brzmienie:
 
-- **1)** całkowitej nominalnej mocy cieplnej źródła spalania paliw;
-- **2)** obowiązujących standardów emisyjnych lub stopni odsiarczania;
-- **3)** określonych w pozwoleniu zintegrowanym wielkości dopuszczalnych emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, pyłu i dwutlenku siarki lub stopni odsiarczania;
-- **4)** rodzaju stosowanego paliwa;
-- **5)** udziału ciepła dostarczonego do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody w produkcji ciepła użytkowego wytwarzanego w źródle spalania paliw, wyrażonego w procentach.
+„
 
-3. Prowadzący instalację, o którym mowa w ust. 1, przekazuje organowi właściwemu do wydania pozwolenia, w terminie do końca lutego każdego roku, dane dotyczące udziału ciepła dostarczonego do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody w produkcji ciepła użytkowego wytwarzanego w źródle spalania paliw, wyrażonego w procentach.
+### 1.
 
-**Art. 146c.**
+Organ wykonawczy województwa, powiatu i gminy, w celu realizacji polityki ochrony środowiska, sporządza odpowiednio wojewódzkie, powiatowe i gminne programy ochrony środowiska, uwzględniając cele zawarte w strategiach, programach i dokumentach programowych, o których mowa w art. 14 ust. 1.
 
-1. Dla źródła spalania paliw, w przypadku którego prowadzący instalację wystąpił w 2012 r. do ministra właściwego do spraw środowiska, z wnioskiem o objęcie Przejściowym Planem Krajowym, które zostało uwzględnione w wykazie, o którym mowa w przepisach wydanych na podstawie art. 146h, i które spełnia następujące warunki:
+” ,
 
-- **1)** pierwsze pozwolenie na budowę źródła wydano przed dniem 27 listopada 2002 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródło zostało oddane do użytkowania nie później niż w dniu 27 listopada 2003 r.,
-- **2)** całkowita nominalna moc cieplna źródła, ustalona z uwzględnieniem pierwszej i drugiej zasady łączenia, jest nie mniejsza niż 50 MW,
-- **3)** źródło ani żadna z jego części, które będą eksploatowane po dniu 31 grudnia 2015 r., nie zostały zgłoszone, do dnia 30 czerwca 2004 r., w pisemnej deklaracji złożonej organowi właściwemu do wydania pozwolenia, jako źródło, które będzie użytkowane nie dłużej niż do dnia 31 grudnia 2015 r., i którego czas użytkowania w okresie od dnia 1 stycznia 2008 r. do dnia 31 grudnia 2015 r. nie przekroczy 20 000 godzin,
-- **4)** nie będą w nim współspalane odpady po dniu 31 grudnia 2015 r.,
-- **5)** źródło nie jest opalane gazami o niskiej wartości opałowej pozyskiwanymi z pozostałości po procesach zgazowania lub rafinacji albo z pozostałości po destylacji i konwersji w procesie rafinacji ropy naftowej – jeżeli jest eksploatowane w rafinerii ropy naftowej – obowiązują – w okresie od dnia 1 stycznia 2016 r. do dnia spełniania warunków, o których mowa w pkt 2–5, jednak nie dłużej niż do dnia 30 czerwca 2020 r. – w odniesieniu do substancji, ze względu na które źródło zostało objęte Przejściowym Planem Krajowym, wielkości dopuszczalnej emisji lub stopnie odsiarczania, które zostały określone w pozwoleniu zintegrowanym jako obowiązujące w dniu 31 grudnia 2015 r.
+### b)
 
-2. W przypadku, o którym mowa w ust. 1, dla źródła spalania paliw o całkowitej nominalnej mocy cieplnej większej niż 500 MW, ustalonej z uwzględnieniem pierwszej i drugiej zasady łączenia, opalanego paliwem stałym, dla którego pierwsze pozwolenie na budowę wydano po dniu 1 lipca 1987 r., wielkość dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, w okresie od dnia 1 stycznia 2016 r. do dnia 30 czerwca 2020 r., nie może być wyższa niż 200 mg/m .
+ust. 4 otrzymuje brzmienie:
 
-**Art. 146d.** Do źródeł spalania paliw określonych w przepisach wydanych na podstawie art. 146h nie stosuje się przepisów art. 146a i art. 146b.
+„
 
-**Art. 146e.** Prowadzący instalację może cofnąć wniosek, o którym mowa w art. 146c ust. 1; o cofnięciu wniosku prowadzący instalację informuje ministra właściwego do spraw środowiska oraz organ właściwy do wydania pozwolenia.
+### 4.
 
-**Art. 146f.**
+Organ, o którym mowa w ust. 1, zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. z 2013 r. poz. 1235](https://api.sejm.gov.pl/eli/acts/DU/2013/1235/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850 i 1101.](#gloss-0:7:)), w postępowaniu, którego przedmiotem jest sporządzenie programu ochrony środowiska.
 
-1. Projekt Przejściowego Planu Krajowego jest opracowywany przez ministra właściwego do spraw środowiska, przyjmowany w drodze uchwały Rady Ministrów i przedkładany do zaakceptowania przez Komisję Europejską.
+” ;
 
-2. Po zaakceptowaniu projektu Przejściowego Planu Krajowego przez Komisję Europejską, Rada Ministrów przyjmuje w drodze uchwały Przejściowy Plan Krajowy.
+### 9)
 
-3. Przejściowy Plan Krajowy obejmuje okres od dnia 1 stycznia 2016 r. do dnia 30 czerwca 2020 r.
+w art. 18 dodaje się ust. 3 w brzmieniu:
 
-4. Przejściowy Plan Krajowy zawiera:
+„
 
-- **1)** wykaz źródeł spalania paliw wraz z danymi dotyczącymi ich parametrów eksploatacyjnych;
-- **2)** maksymalne emisje substancji dla źródła spalania paliw – roczne dla lat 2016–2019 i na pierwsze półrocze 2020 r.;
-- **3)** łączne maksymalne emisje substancji dla wszystkich źródeł spalania paliw – roczne dla lat 2016–2019 i na pierwsze półrocze 2020 r.;
-- **4)** działania, które prowadzący instalację ma zrealizować w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w pkt 2;
-- **5)** sposób monitorowania realizacji Przejściowego Planu Krajowego i sprawozdawania do Komisji Europejskiej.
+### 3.
 
-**Art. 146g.** Prowadzący instalację spalania paliw, której częścią jest źródło spalania paliw, uwzględnione w wykazie, o którym mowa w art. 146h pkt 1, jest obowiązany do:
+Po przedstawieniu raportów odpowiednio sejmikowi województwa, radzie powiatu albo radzie gminy, raporty są przekazywane przez organ wykonawczy województwa, powiatu i gminy odpowiednio do ministra właściwego do spraw środowiska, organu wykonawczego województwa i organu wykonawczego powiatu.
 
-**Art. 146h.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki, mając na uwadze art. 146f ust. 2, przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych oraz cofnięte wnioski prowadzących instalacje, o których mowa w art. 146e, określi, w drodze rozporządzenia:
+” ;
 
-**Art. 146i.** Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki, mając na uwadze art. 146f ust. 2 oraz przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych, może określić, w drodze rozporządzenia, inne wymagania istotne dla realizacji Przejściowego Planu Krajowego.”;
+### 10)
 
-**Art. 215.**
+w art. 76 w ust. 2 w pkt 3 średnik zastępuje się kropką i uchyla się pkt 4;
 
-1. Organ właściwy do wydania pozwolenia dokonuje analizy warunków pozwolenia zintegrowanego niezwłocznie po publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT odnoszących się do głównej działalności danej instalacji, lecz nie później niż w terminie 6 miesięcy od dnia publikacji.
+### 11)
 
-2. Organ właściwy do wydania pozwolenia informuje prowadzącego instalację o rozpoczęciu analizy, a w trakcie jej przeprowadzania:
+art. 101 otrzymuje brzmienie:
 
-- **1)** bierze pod uwagę wszystkie konkluzje BAT, które dla danego rodzaju instalacji zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej od czasu wydania pozwolenia lub ostatniej analizy wydanego pozwolenia;
-- **2)** może zażądać od prowadzącego instalację przedłożenia informacji, w szczególności wyników monitorowania procesów technologicznych, niezbędnych do przeprowadzenia analizy i umożliwiających porównanie ich z najlepszymi dostępnymi technikami opisanymi w odpowiednich konkluzjach BAT oraz określonymi w nich wielkościami emisji;
-- **3)** dokonuje oceny zasadności udzielenia odstępstwa, o którym mowa w art. 204 ust. 2.
+„
 
-3. Organ właściwy do wydania pozwolenia przedkłada niezwłocznie wyniki analizy prowadzącemu instalację oraz, za pomocą środków komunikacji elektronicznej, ministrowi właściwemu do spraw środowiska albo podmiotowi, o którym mowa w art. 213 ust. 1.
+### Art. 101.
 
-4. W przypadku gdy analiza dokonana na podstawie ust. 1 wykazała konieczność zmiany pozwolenia zintegrowanego, organ właściwy do wydania pozwolenia niezwłocznie:
+Ochrona powierzchni ziemi polega na:
 
-- **1)** przekazuje prowadzącemu instalację informację o konieczności dostosowania instalacji, w terminie nie dłuższym niż 4 lata od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT, do wymagań określonych w konkluzjach BAT;
-- **2)** wzywa prowadzącego instalację do wystąpienia z wnioskiem o zmianę pozwolenia w terminie roku od dnia doręczenia wezwania, określając zakres tego wniosku mający związek ze zmianami wynikającymi z dokonanej analizy.
+### 1)
 
-5. W decyzji o zmianie pozwolenia wydanej na wniosek, o którym mowa w ust. 4 pkt 2, organ właściwy do wydania pozwolenia określa termin, nie dłuższy niż 4 lata od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT, dostosowania instalacji do nowych wymagań określonych w tej decyzji.
+racjonalnym gospodarowaniu;
 
-6. Udzielając odstępstwa, o którym mowa w art. 204 ust. 2, organ właściwy do wydania pozwolenia może określić późniejszy termin dostosowania instalacji do nowych wymagań.
+### 2)
 
-7. W decyzji o ograniczeniu wydanej na podstawie art. 195 ust. 1 pkt 5 stosuje się odpowiednio przepis ust. 5.
+zachowaniu funkcji środowiskowych, gospodarczych, społecznych i kulturowych, w tym między innymi:
 
-8. Do wniosku, o którym mowa w ust. 4 pkt 2, nie stosuje się przepisów art.
+### a)
 
-210.
+produkcji żywności oraz biomasy,
 
-**Art. 216.**
+### b)
 
-1. Organ właściwy do wydania pozwolenia dokonuje analizy pozwolenia zintegrowanego także:
+magazynowaniu, filtrowaniu i przekształcaniu składników odżywczych, substancji i wody,
 
-- **1)** co najmniej raz na 5 lat lub
-- **2)** jeżeli oddziaływanie instalacji na środowisko zmieniło się w stopniu wskazującym na konieczność zmiany pozwolenia w części dotyczącej określonych w nim warunków lub wielkości emisji z danej instalacji, lub
-- **3)** jeżeli nastąpiła zmiana w najlepszych dostępnych technikach, pozwalająca na znaczne zmniejszenie wielkości emisji bez powodowania nadmiernych kosztów, lub wynika to z potrzeby dostosowania eksploatacji instalacji do zmian przepisów o ochronie środowiska.
+### c)
 
-2. Do analizy stosuje się odpowiednio przepisy art. 215 ust. 2 i 3.
+podstaw rozwoju życia i różnorodności biologicznej,
 
-3. W przypadku gdy analiza wykazała konieczność zmiany pozwolenia zintegrowanego, organ właściwy do wydania pozwolenia wzywa prowadzącego instalację do wystąpienia z wnioskiem o zmianę pozwolenia w terminie 6 miesięcy od dnia wezwania, określając zakres tego wniosku mający związek ze zmianami wynikającymi z dokonanej analizy.
+### d)
 
-4. Do wniosku, o którym mowa w ust. 3, nie stosuje się przepisów art. 210.
+źródła surowców,
 
-**Art. 217.**
+### e)
 
-1. Organ właściwy do wydania pozwolenia zintegrowanego może, na wniosek prowadzącego instalację lub z urzędu za jego zgodą, wydać nowe pozwolenie zintegrowane w celu ujednolicenia tekstu obowiązującego pozwolenia, z uwzględnieniem wszystkich zmian wprowadzonych do tego pozwolenia od dnia jego wydania.
+rezerwuaru pierwiastka węgla,
 
-2. W pozwoleniu, o którym mowa w ust. 1, organ właściwy do wydania pozwolenia:
+### f)
 
-- **1)** ujednolica tekst pozwolenia;
-- **2)** stwierdza wygaśnięcie dotychczasowego pozwolenia.
+zbioru dziedzictwa geologicznego, geomorfologicznego i archeologicznego;
 
-3. Do pozwolenia, o którym mowa w ust. 1, nie stosuje się przepisów art. 208, art. 210 i art. 218.”;
+### 3)
 
-- **55)** po art. 217 dodaje się art. 217a–217d w brzmieniu: „Art. 217a. 1. Ustalając w pozwoleniu zintegrowanym sposób i częstotliwość wykonywania badań zanieczyszczenia gleby i ziemi substancjami powodującymi ryzyko oraz wykonywania pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek, o których mowa w art. 211 ust. 6 pkt 4, uwzględnia się, że:
-- **1)** badania zanieczyszczenia gleby i ziemi wykonuje się co najmniej raz na 10 lat,
-- **2)** pomiary zawartości substancji w wodach gruntowych, w tym pobieranie próbek, wykonuje się co najmniej raz na 5 lat – o ile takie badania lub pomiary nie opierają się na systematycznej ocenie ryzyka, o której mowa w art. 211 ust. 6 pkt 4.
+zapobieganiu zanieczyszczeniu substancjami powodującymi ryzyko oraz na remediacji;
 
-2. Badania lub pomiary, o których mowa w ust. 1, wykonuje się:
+### 4)
 
-- **1)** przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a;
-- **2)** w sposób umożliwiający ich ilościowe porównanie z wynikami badań i pomiarów zawartymi w raporcie początkowym, jeżeli taki raport dla danej instalacji jest wymagany.
+zachowaniu jak najlepszego stanu gleby poprzez zapobieganie:
 
-3. Prowadzący instalację przekazuje wyniki badań lub pomiarów organowi właściwemu do wydania pozwolenia w terminie miesiąca od dnia ich wykonania.
+### a)
 
-**Art. 217b.**
+erozji wodnej i wietrznej,
 
-1. Przed przystąpieniem do zakończenia eksploatacji instalacji, dla której wymagany był raport początkowy, prowadzący instalację sporządza i przedkłada organowi właściwemu do wydania pozwolenia raport końcowy o stanie końcowym zanieczyszczenia gleby, ziemi i wód gruntowych na terenie zakładu substancjami powodującymi ryzyko, zwany dalej „raportem końcowym”.
+### b)
 
-2. Jeżeli prowadzący instalację nie przedłożył raportu końcowego, to w przypadkach, o których mowa w art. 193 ust. 1 pkt 2, 5, 7 i 8, organ właściwy do wydania decyzji stwierdzającej wygaśnięcie pozwolenia zintegrowanego nakłada na dotychczasowego prowadzącego instalację, dla której wymagany był raport początkowy, obowiązek sporządzenia i przedłożenia raportu końcowego, określając termin wykonania tego obowiązku nie dłuższy niż 12 miesięcy od dnia stwierdzenia wygaśnięcia pozwolenia.
+spadkowi zawartości próchnicy glebowej,
 
-3. Raport końcowy zawiera:
+### c)
 
-- **1)** informacje na temat planowanego sposobu użytkowania terenu, o ile takie informacje są dostępne;
-- **2)** nazwy substancji powodujących ryzyko, które były wykorzystywane, produkowane lub uwalniane przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu;
-- **3)** informacje na temat zanieczyszczenia gleby, ziemi i wód gruntowych na terenie zakładu substancjami powodującymi ryzyko stosowanymi, produkowanymi lub uwalnianymi przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu, w tym wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+zagęszczaniu, przez co rozumie się wzrost gęstości objętościowej i zmniejszanie porowatości gleby,
 
-4. Raport końcowy sporządza się w sposób umożliwiający ilościowe porównanie zawartych w nim wyników badań i pomiarów z wynikami badań i pomiarów zawartymi w raporcie początkowym.
+### d)
 
-**Art. 217c.**
+zasoleniu na skutek gromadzenia się w glebie soli rozpuszczalnych,
 
-1. Sporządzając raport początkowy, wykonując badania lub pomiary, o których mowa w art. 211 ust. 6 pkt 4, oraz sporządzając raport końcowy, w celu przedstawienia informacji na temat zanieczyszczenia substancjami powodującymi ryzyko gleby, ziemi i wód gruntowych na terenie zakładu, ocenę zanieczyszczenia powierzchni ziemi prowadzi się w sposób określony w przepisach wydanych na podstawie art. 101a ust. 5.
+### e)
 
-2. W raporcie początkowym, w dokumentacji badań lub pomiarów oraz w raporcie końcowym, o których mowa w ust. 1, informacje na temat zanieczyszczenia substancjami powodującymi ryzyko gleby, ziemi i wód gruntowych na terenie zakładu przedstawia się w postaci opisu tekstowego, zestawień tabelarycznych oraz map wskazujących zasięg zanieczyszczenia.
+działaniom powodującym zakwaszanie;
 
-**Art. 217d.**
+### 5)
 
-1. Jeżeli organ właściwy do wydania pozwolenia stwierdził zanieczyszczenie substancjami powodującymi ryzyko gleby, ziemi lub wód gruntowych na terenie zakładu, przesyła odpowiednio kopię raportu początkowego, kopię wyników badań lub pomiarów, o których mowa w art. 217a ust. 3, lub kopię raportu końcowego regionalnemu dyrektorowi ochrony środowiska.
+minimalizacji stopnia i łagodzeniu skutków zasklepienia gleby poprzez:
 
-2. Ustalając w planie remediacji, o którym mowa w art. 101l ust. 4 lub art. 101m ust. 2, lub art. 101o ust. 2 ustawy albo w art. 13 ust. 3 pkt 2 lub art. 15 ust. 2 pkt 3, lub art. 17 ust. 2a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, sposób przeprowadzenia remediacji dla terenu zakładu, na którym jest eksploatowana instalacja wymagająca uzyskania pozwolenia zintegrowanego oraz wskutek której eksploatacji nastąpiło zanieczyszczenie, można uwzględnić, że usunięcie zanieczyszczenia zostanie odłożone do czasu zakończenia eksploatacji instalacji, jeżeli prowadzący instalację wykaże, że nie stwarza to znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska.
+### a)
 
-3. W przypadku określonym w ust. 2, jako sposób przeprowadzenia remediacji ustalony w planie remediacji, wskazuje się:
+ograniczanie do niezbędnego minimum powierzchni gleby objętej zabudową,
 
-- **1)** planowane działania w celu zapobieżenia lub zmniejszenia dalszego zanieczyszczenia, w tym działania w celu ograniczenia lub wyeliminowania emisji zanieczyszczenia lub usunięcia pierwotnego źródła zanieczyszczenia;
-- **2)** jeżeli jest taka potrzeba – sposób ograniczenia rozprzestrzeniania się zanieczyszczenia;
-- **3)** sposób kontrolowania zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie.
+### b)
 
-4. Przed przystąpieniem do zakończenia eksploatacji instalacji wymagającej uzyskania pozwolenia zintegrowanego ustala się nowy plan remediacji, na podstawie odpowiednio art. 101l ust. 4 lub art. 101m ust. 1 pkt 2, lub art. 101o ust. 2 ustawy albo art. 13 ust. 3 pkt 2 lub art. 15 ust. 1 pkt 2, lub art. 17 ust. 2a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, którego celem jest doprowadzenie gleby, ziemi i wód gruntowych na terenie zakładu do stanu:
+zachowywanie lub tworzenie powierzchni biologicznie czynnych gleby, zdolnych do łagodzenia degradującego działania terenów zabudowanych i zanieczyszczeń środowiska;
 
-- **1)** określonego w raporcie początkowym – jeżeli w raporcie początkowym nie stwierdzono występowania zanieczyszczenia gleby, ziemi lub wód gruntowych;
-- **2)** niestwarzającego znaczącego zagrożenia dla zdrowia ludzi oraz środowiska – jeżeli w raporcie początkowym stwierdzono występowanie zanieczyszczenia gleby, ziemi lub wód gruntowych.
+### 6)
 
-5. W decyzji ustalającej nowy plan remediacji stwierdza się wygaśnięcie wcześniejszej decyzji lub jej części w zakresie dotyczącym terenu zakładu.”;
+zapobieganiu ruchom masowym ziemi i ich skutkom;
 
-- **56)** art. 218 i art. 219 otrzymują brzmienie: „Art. 218. Organ administracji zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w postępowaniu, którego przedmiotem jest:
-- **1)** wydanie pozwolenia zintegrowanego dla nowej instalacji;
-- **2)** wydanie decyzji dotyczącej istotnej zmiany instalacji;
-- **3)** wydanie pozwolenia z odstępstwem, o którym mowa w art. 204 ust. 2, lub jego zmiana polegająca na udzieleniu takiego odstępstwa;
-- **4)** wydanie decyzji o zmianie pozwolenia zintegrowanego wynikającej z analizy, o której mowa w art. 216 ust. 1 pkt 2.
+### 7)
 
-**Art. 219.**
+przeciwdziałaniu niekorzystnym zmianom naturalnego ukształtowania powierzchni ziemi polegającym na:
 
-1. W razie możliwości wystąpienia znaczącego transgranicznego oddziaływania na środowisko na terytorium innego państwa członkowskiego Unii Europejskiej, w przypadku nowej lub istotnie zmienianej instalacji wymagającej uzyskania pozwolenia zintegrowanego, stosuje się odpowiednio przepisy działu VI ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z tym że przez dokumentację, o której mowa w art. 108 ust. 1 pkt 1 tej ustawy, rozumie się część wniosku o wydanie pozwolenia zintegrowanego, która umożliwi państwu, na którego terytorium może oddziaływać instalacja wymagająca uzyskania takiego pozwolenia, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko.
+### a)
 
-2. Właściwy organ przekazuje państwu, o którym mowa w ust. 1, decyzję udzielającą nowe lub zmienione w wyniku istotnej zmiany instalacji pozwolenie zintegrowane wraz z uzasadnieniem zawierającym w szczególności:
+ograniczaniu tworzenia, powstałych w wyniku przemieszczania lub usuwania mas ziemnych i skalnych oraz odpadów wydobywczych, wykopów, wyrobisk, nasypów i zwałowisk,
 
-- **1)** wyniki konsultacji przeprowadzonych przed podjęciem decyzji oraz wyjaśnienie sposobu ich uwzględnienia w decyzji;
-- **2)** wykaz dokumentów referencyjnych BAT istotnych dla danej instalacji lub działalności;
-- **3)** sposób określenia warunków pozwolenia, w tym dopuszczalnych wielkości emisji, w odniesieniu do najlepszych dostępnych technik oraz wielkości emisji określonych w konkluzjach BAT.”;
-- **57)** w art. 305a ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 stosuje się odpowiednio, jeżeli nie są spełnione warunki prowadzenia pomiarów, o których mowa w art. 147a, w tym pobierania próbek.”;
-- **58)** w tytule V w dziale III dodaje się rozdział 5 w brzmieniu: „Rozdział 5 Przepisy szczególne dotyczące kar za niespełnianie warunków uznawania za dotrzymane maksymalnych emisji substancji ze źródeł spalania paliw, o których mowa w przepisach wydanych na podstawie art. 146h
+### b)
 
-**Art. 315d.** W przypadku niedotrzymywania maksymalnych emisji substancji, o których mowa w art. 146h pkt 2, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w art. 146h pkt 4, prowadzący instalację, o którym mowa w art. 146g, ponosi administracyjną karę pieniężną.
+zapobieganiu niszczeniu gleby, w tym mieszaniu jej poziomów genetycznych, które nie wynika z uprawy gruntów ornych,
 
-**Art. 315e.** Karę, o której mowa w art. 315d, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska, biorąc pod uwagę każdą wprowadzoną do powietrza ilość substancji przekraczającą maksymalne emisje substancji, określone dla źródła spalania paliw w przepisach wydanych na podstawie art. 146h pkt 2, przy czym jednostkowa stawka kary wynosi 15 zł za każdy kilogram substancji.”
+### c)
 
-**Art. 335b.** Kto, będąc do tego obowiązany na podstawie art. 101e ust. 1, nie zgłasza regionalnemu dyrektorowi ochrony środowiska historycznego zanieczyszczenia powierzchni ziemi, podlega karze grzywny.
+zapobieganiu i ograniczaniu niszczenia pokrycia terenu roślinnością,
 
-**Art. 335c.** Kto, będąc do tego obowiązany na podstawie art. 101h ust. 1 i 2, nie przeprowadza remediacji, podlega karze grzywny.
+### d)
 
-**Art. 335d.**
+zapewnieniu racjonalnego wykorzystania przemieszczanych lub usuwanych mas ziemnych i skalnych,
 
-1. Kto, wbrew art. 101l ust. 1, prowadzi remediację niezgodnie z ustalonym planem remediacji lub będąc do tego obowiązany na podstawie art. 101l ust. 2, nie przedkłada regionalnemu dyrektorowi ochrony środowiska projektu planu remediacji, podlega karze grzywny.
+### e)
 
-2. Tej samej karze podlega, kto uniemożliwia przeprowadzenie remediacji lub prowadzenie badań zanieczyszczenia gleby i ziemi, zgodnie z obowiązkami określonymi w art. 101l ust. 6, art. 101m ust. 7 i art. 101o ust. 1.”;
+zapewnieniu racjonalnego wykorzystania warstwy próchnicznej gleb, głównie w kierunku odtworzenia i ulepszania gleb,
 
-- **61)** art. 336 otrzymuje brzmienie: „Art. 336. Kto, wbrew art. 101r, używa do prac ziemnych glebę lub ziemię, jeżeli przekroczona w nich jest dopuszczalna zawartość substancji powodującej ryzyko, podlega karze grzywny.”;
-- **62)** art. 339 otrzymuje brzmienie: „Art. 339. 1. Kto, będąc do tego obowiązany na podstawie art. 145 pkt 1, wprowadzając do środowiska substancje lub energie, w zakresie, w jakim nie wymaga to pozwolenia, nie dotrzymuje standardów emisyjnych, podlega karze grzywny.
+### f)
 
-2. Tej samej karze podlega ten, kto:
+ponownym kształtowaniu funkcji lub przygotowaniu do pełnienia nowych funkcji terenów, na których występuje niekorzystne przekształcenie naturalnego ukształtowania powierzchni ziemi.
 
-- **1)** nie postępuje w sposób, o którym mowa w art. 145 pkt 4;
-- **2)** nie zatrzymuje instalacji i urządzenia do spalania lub współspalania odpadów, zgodnie z art. 145 pkt 5;
-- **3)** nie stosuje paliw, surowców lub materiałów, w tym substancji lub mieszanin, zgodnie z wymaganiami lub ograniczeniami, o których mowa w art. 145 pkt 6;
-- **4)** nie stosuje rozwiązań technicznych, zgodnie z wymaganiami, o których mowa w art. 145 pkt 7;
-- **5)** nie przekazuje informacji lub danych, o których mowa w art. 145 pkt 8.”;
-- **63)** po art. 339 dodaje się art. 339a w brzmieniu: „Art. 339a. Kto, będąc do tego obowiązany na podstawie art. 146g:
-- **1)** nie dotrzymuje maksymalnych emisji substancji, o których mowa w art. 146g pkt 1,
-- **2)** nie realizuje działań zapobiegających, o których mowa w art. 146g pkt 2,
-- **3)** nie przekazuje informacji, zgodnie z art. 146g pkt 3,
-- **4)** nie przestrzega wymagań, o których mowa w art. 146g pkt 4, podlega karze grzywny.”;
-- **64)** w art. 340 w ust. 2 pkt 1 otrzymuje brzmienie: „1) będąc obowiązany do zapewnienia wykonania pomiarów wielkości emisji lub innych warunków korzystania ze środowiska, w tym pobierania próbek, przez laboratorium lub certyfikowane jednostki badawcze, o których mowa w art. 147a ust. 1, nie spełnia tego obowiązku;”;
-- **65)** po art. 351b dodaje się art. 351c w brzmieniu: „Art. 351c. Kto, będąc obowiązany do sporządzenia raportu końcowego, nie spełnia tego obowiązku lub przedłożył raport niezgodny z wymaganiami, o których mowa w art. 217b ust. 3, podlega karze grzywny.”;
-- **66)** w art. 362 uchyla się ust. 6;
-- **67)** art. 363 otrzymuje brzmienie: „Art. 363. 1. Wójt, burmistrz lub prezydent miasta może, w drodze decyzji, nakazać osobie fizycznej, której działanie negatywnie oddziałuje na środowisko, wykonanie w określonym czasie czynności zmierzających do:
-- **1)** ograniczenia negatywnego oddziaływania na środowisko i jego zagrożenia;
-- **2)** przywrócenia środowiska do stanu właściwego.
+” ;
 
-2. Przepisy art. 362 ust. 2–5 stosuje się odpowiednio.”;
+### 12)
 
-- **68)** art. 377a otrzymuje brzmienie: „Art. 377a. Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 95 ust. 1, oraz w art. 378 ust. 2a i 2aa.”;
-- **69)** w art. 378 ust. 4 otrzymuje brzmienie: „4. Zadania samorządu województwa, o których mowa w ust. 2a i 2aa, art. 91 ust. 1, 3, 3a i 5, art. 92 ust. 1, art. 94 ust. 2, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2 oraz art. 162 ust. 3, 6 i 7, są zadaniami z zakresu administracji rządowej.”;
-- **70)** w art. 400a w ust. 1:
-    - **a)** pkt 9 otrzymuje brzmienie: „9) przedsięwzięcia związane z ochroną powierzchni ziemi, z wyłączeniem remediacji polegających na samooczyszczaniu;”,
-    - **b)** po pkt 9 dodaje się pkt 9a w brzmieniu: „9a) przedsięwzięcia związane z niepolegającą na samooczyszczaniu remediacją historycznego zanieczyszczenia powierzchni ziemi, jeżeli obowiązanym do przeprowadzenia remediacji jest regionalny dyrektor ochrony środowiska lub władająca powierzchnią ziemi jednostka samorządu terytorialnego;”,
-    - **c)** pkt 42 otrzymuje brzmienie: „42) inne zadania służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju i zgodne z polityką ochrony środowiska;”;
+po art. 101 dodaje się art. 101a-101r w brzmieniu:
 
-- **71)** w art. 400b ust. 2 otrzymuje brzmienie: „2. Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 1– 9a i 11–42.”;
-- **72)** w art. 400h:
-    - **a)** w ust. 2 pkt 4 otrzymuje brzmienie: „4) uchwalanie, z uwzględnieniem strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, i list przedsięwzięć priorytetowych przedkładanych przez wojewódzkie fundusze, planu działalności i zatwierdzanie list priorytetowych programów Narodowego Funduszu, do dnia 31 stycznia każdego roku; listy programów priorytetowych w części dotyczącej gospodarki wodnej wymagają uzgodnienia z Prezesem Krajowego Zarządu Gospodarki Wodnej;”,
-    - **b)** w ust. 4 pkt 2 otrzymuje brzmienie: „2) uchwalanie planów działalności wojewódzkich funduszy, do dnia 30 listopada każdego roku, na rok następny, z uwzględnieniem strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz strategii działania wojewódzkich funduszy i wojewódzkich programów ochrony środowiska;”;
+„
 
-- **73)** w art. 400k w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „8) wydawanie opinii w zakresie możliwości wspomagania ze środków Narodowego Funduszu i wojewódzkich funduszy zadań regionalnych dyrektorów ochrony środowiska w zakresie historycznych zanieczyszczeń powierzchni ziemi objętych harmonogramami, o których mowa w art. 101j ust. 1, oraz w zakresie bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku objętych harmonogramami, o których mowa w art. 16a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie.”;
-- **74)** w art. 401c ust. 11 otrzymuje brzmienie: „11. Wysokości zobowiązań określonych w ust. 1–9a mogą być zmniejszane za zgodą ministra właściwego do spraw środowiska. Przy udzielaniu zgody minister właściwy do spraw środowiska uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.”;
-- **75)** uchyla się tytuł VIII.
+### Art. 101a.
 
-**Art. 2.** W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska (Dz. U. z 2013 r. poz. 686 i 888) wprowadza się następujące zmiany:
+### 1.
 
-**Art. 3.** W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych (Dz. U. z 2013 r. poz. 1205 oraz z 2014 r. poz. 40) wprowadza się następujące zmiany:
+Zanieczyszczenie powierzchni ziemi ocenia się na podstawie przekroczenia dopuszczalnych zawartości substancji powodujących ryzyko w glebie lub w ziemi.
 
-**Art. 4.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm. ) w art. 23 w ust. 2 po pkt 21 dodaje się pkt 21a w brzmieniu: „21a) wydawanie, na wniosek organu właściwego do wydania pozwolenia zintegrowanego, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, opinii dotyczącej skutków ekonomicznych, w tym wpływu na opłacalność wytwarzania energii, zastosowania do źródeł spalania paliw drugiej zasady łączenia, o której mowa w art. 157a ust. 2 pkt 2 tej ustawy;”.
+### 2.
 
-**Art. 5.** W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2014 r. poz. 148) w art. 3 w ust. 1 po pkt 2c dodaje się pkt 2d w brzmieniu: „2d) przeprowadzanie kontroli, o której mowa w art. 168a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. );”.
+Dopuszczalna zawartość w glebie i w ziemi substancji powodującej ryzyko oznacza zawartość, poniżej której żadna z funkcji pełnionych przez powierzchnię ziemi nie jest znacząco naruszona, z uwzględnieniem wpływu tej substancji na zdrowie ludzi i stan środowiska.
 
-**Art. 6.** W ustawie z dnia 27 lipca 2001 r. o wprowadzeniu ustawy – Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. Nr 100, poz. 1085, z późn. zm. ) uchyla się art. 13.
+### 3.
 
-**Art. 7.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2013 r. poz. 627, z późn. zm. ) wprowadza się następujące zmiany:
+Funkcję pełnioną przez powierzchnię ziemi ocenia się na podstawie jej faktycznego zagospodarowania i wykorzystania, chyba że inna funkcja wynika z planu zagospodarowania przestrzennego.
 
-**Art. 37b.** W decyzji, o której mowa w art. 37 ust. 1, regionalny dyrektor ochrony środowiska, a na obszarach morskich – dyrektor właściwego urzędu morskiego, może nałożyć obowiązek prowadzenia badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej, określając:
+### 4.
 
-**Art. 37c.**
+Gleby, ziemi lub wód gruntowych nie uznaje się za zanieczyszczone, jeżeli stwierdzone w niej zawartości substancji są pochodzenia naturalnego.
 
-1. Jeżeli działania mogące znacząco negatywnie oddziaływać na cele ochrony obszaru Natura 2000 lub obszaru znajdującego się na liście, o której mowa w art. 27 ust. 3 pkt 1, zostały podjęte przez więcej niż jeden podmiot, odpowiedzialność tych podmiotów jest solidarna.
+### 5.
 
-2. Jeżeli działania, o których mowa w ust. 1, zostały podjęte za zgodą lub wiedzą władającego powierzchnią ziemi, jest on obowiązany do prowadzenia działań zapobiegawczych lub działań naprawczych, a także do prowadzenia monitoringu solidarnie z podmiotem, który je podjął. Przez władającego powierzchnią ziemi rozumie się podmiot, o którym mowa w art. 3 pkt 44 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+Minister właściwy do spraw środowiska, mając na względzie wpływ niektórych rodzajów działalności na stan powierzchni ziemi, w tym stwarzane przez nie zagrożenie dla zdrowia ludzi i stanu środowiska, oraz kierując się potrzebą ujednolicenia zasad i zminimalizowania kosztów badań zanieczyszczenia gleby i ziemi, określi w drodze rozporządzenia sposób prowadzenia oceny zanieczyszczenia powierzchni ziemi, w tym:
 
-3. W przypadku, o którym mowa w ust. 2, decyzję, o której mowa w art. 37 ust. 1, kieruje się także do władającego powierzchnią ziemi.
+### 1)
 
-**Art. 37d.** Podmiot obowiązany do przeprowadzenia działań zapobiegawczych lub działań naprawczych informuje regionalnego dyrektora ochrony środowiska, a na obszarach morskich – dyrektora właściwego urzędu morskiego, o ich zakończeniu.”;
+substancje powodujące ryzyko szczególnie istotne dla ochrony powierzchni ziemi, ich dopuszczalne zawartości w glebie oraz dopuszczalne zawartości w ziemi, zróżnicowane dla poszczególnych właściwości gleby oraz grup gruntów, wydzielonych w oparciu o sposób ich użytkowania;
 
-**Art. 8.** W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2012 r. poz. 1282, z późn. zm. ) w załączniku do ustawy w części I uchyla się ust. 12.
+### 2)
 
-**Art. 9.** W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U. z 2014 r. poz. 210) wprowadza się następujące zmiany:
+szczegółowe wymagania dotyczące ustalania dopuszczalnej zawartości w glebie oraz dopuszczalnej zawartości w ziemi substancji powodującej ryzyko, innej niż wskazana w pkt 1, z uwzględnieniem analizy jej wpływu na zdrowie ludzi i stan środowiska;
 
-**Art. 15.**
+### 3)
 
-1. Jeżeli podmiot korzystający ze środowiska lub w przypadku, o którym mowa w art. 12 ust. 2, podmiot korzystający ze środowiska lub władający powierzchnią ziemi nie podejmie działań zapobiegawczych lub nie uzgodni działań naprawczych, organ ochrony środowiska:
+etapy identyfikacji terenów zanieczyszczonych, w szczególności:
 
-- **1)** wzywa do przedłożenia w określonym terminie wniosku o uzgodnienie warunków przeprowadzenia odpowiednio działań zapobiegawczych lub naprawczych;
-- **2)** jeżeli nie przedłożono wniosku zgodnie z wezwaniem – w drodze decyzji, nakłada obowiązek przeprowadzenia działań.
+### a)
 
-2. W decyzji, o której mowa w ust. 1 pkt 2, organ ochrony środowiska określa odpowiednio:
+sposób ustalenia działalności mogącej być przyczyną zanieczyszczenia na danym terenie obecnie lub w przeszłości,
 
-- **1)** zakres i sposób przeprowadzenia działań zapobiegawczych, w tym czynności zmierzające do ograniczenia oddziaływania na środowisko;
-- **2)** stan, do jakiego ma zostać przywrócone środowisko;
-- **3)** zakres i sposób przeprowadzenia działań naprawczych, a w przypadku szkody w środowisku w powierzchni ziemi – ustala plan remediacji, z uwzględnieniem przepisów art. 217d ust. 3–5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska:
-    - **a)** zawierający informacje o: – aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu, – właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowy, – nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, – ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, – budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w tiret czwartym – jeżeli zachodzi taka potrzeba,
-    - **b)** określający: – teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni, – nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja, – sposób przeprowadzenia remediacji, – termin rozpoczęcia i zakończenia remediacji, – sposób potwierdzenia przeprowadzenia remediacji, termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska;
+### b)
 
-- **4)** termin wykonania obowiązku, o którym mowa w ust. 1 pkt 2;
-- **5)** sposób potwierdzenia osiągnięcia założonego efektu ekologicznego.
+sposób ustalenia listy substancji powodujących ryzyko, których wystąpienie w glebie lub ziemi jest spodziewane ze względu na działalność, o której mowa w lit. a,
 
-3. Przy wydawaniu decyzji, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.
+### c)
 
-4. W przypadku, o którym mowa w ust. 1, nie stosuje się przepisów art. 362 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.”;
+źródła informacji istotne dla oceny zagrożenia zanieczyszczeniem gleby lub ziemi,
 
-- **10)** w art. 16 pkt 2 otrzymuje brzmienie: „2) z uwagi na zagrożenie dla zdrowia ludzi lub możliwość zaistnienia nieodwracalnych szkód w środowisku, konieczne jest niezwłoczne podjęcie tych działań.”;
-- **11)** po art. 16 dodaje się art. 16a w brzmieniu: „Art. 16a. 1. Regionalny dyrektor ochrony środowiska ustala harmonogram swoich zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które zostały zgłoszone, na podstawie art. 11 ust. 1 lub art. 24 ust. 1, oraz co najmniej raz na rok dokonuje jego aktualizacji.
+### d)
 
-2. Harmonogram obejmuje:
+warunki uznawania istniejących badań zanieczyszczenia gleby i ziemi za aktualne,
 
-- **1)** gromadzenie danych i badań w celu oceny, czy bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku rzeczywiście występuje oraz oceny zagrożenia dla zdrowia ludzi lub stanu środowiska;
-- **2)** opracowywanie projektu działań zapobiegawczych lub naprawczych;
-- **3)** przeprowadzenie działań zapobiegawczych lub naprawczych.
+### e)
 
-3. Ustalając i aktualizując harmonogram, uwzględnia się potrzebę podjęcia w pierwszej kolejności działań w odniesieniu do bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska, oraz możliwość finansowania zadań w kolejnych latach.
+etapy i sposób prowadzenia badań zanieczyszczenia gleby i ziemi;
 
-4. W trakcie opracowywania lub aktualizacji harmonogramu regionalny dyrektor ochrony środowiska zasięga opinii Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej w zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
+### 4)
 
-5. Regionalny dyrektor ochrony środowiska opracowuje i przekazuje Generalnemu Dyrektorowi Ochrony Środowiska, co 5 lat, sprawozdanie z realizacji zadań ujętych w harmonogramie.”;
+rodzaje działalności mogących z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi, wraz ze wskazaniem przykładowych dla tych działalności zanieczyszczeń;
 
-- **12)** w art. 17:
-    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Jeżeli decyzja, o której mowa w ust. 2, dotyczy szkody w środowisku w powierzchni ziemi, organ ochrony środowiska ustala, z uwzględnieniem przepisów art. 217d ust. 3–5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, w tej decyzji, plan remediacji:
+### 5)
 
-- **1)** zawierający informacje o: 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska,
-    - **a)** aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
-    - **b)** właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowy,
-    - **c)** nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust.
-    - **d)** ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
-    - **e)** budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d – jeżeli zachodzi taka potrzeba;
+referencyjne metodyki wykonywania badań zanieczyszczenia gleby i ziemi;
 
-- **2)** określający:
-    - **a)** teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
-    - **b)** nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
-    - **c)** sposób przeprowadzenia remediacji,
-    - **d)** termin rozpoczęcia i zakończenia remediacji,
-    - **e)** sposób potwierdzenia przeprowadzenia remediacji, termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.”,
-    - **b)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Przy wydawaniu decyzji, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.”;
+### 6)
 
-- **13)** w art. 17a wprowadzenie do wyliczenia otrzymuje brzmienie: „W trakcie realizacji działań naprawczych w odniesieniu do szkody w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub w wodach właściwy organ ochrony środowiska może podjąć decyzję o ich zaniechaniu, jeżeli:”;
-- **14)** po art. 17a dodaje się art. 17b w brzmieniu: „Art. 17b. 1. Dla szkód w środowisku w powierzchni ziemi, dokonując oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, o której mowa w art. 13 ust. 2a pkt 6 lub art. 15 ust. 2 pkt 3 lit. a tiret czwarte, lub art. 17 ust. 2a pkt 1 lit. d, uwzględnia się w szczególności:
-- **1)** postać chemiczną, w jakiej występuje zanieczyszczenie i jego biodostępność;
-- **2)** możliwość rozprzestrzeniania się zanieczyszczenia;
-- **3)** potencjalne drogi narażenia z uwzględnieniem rozprzestrzeniania się zanieczyszczeń w zależności od właściwości gleby, ukształtowania, budowy geologicznej i warunków hydrogeologicznych, a także pokrycia terenu;
-- **4)** środowisko oraz ludzi, którzy mogliby ucierpieć w wyniku zanieczyszczenia;
-- **5)** występowanie na terenie zanieczyszczonym i w jego okolicy zwłaszcza gruntów uprawnych, ogrodów, parków, placów zabaw, terenów sportowych, budynków mieszkalnych i użytkowych, form ochrony przyrody, zasobów wody pitnej i ujęć wody.
+szczegółowe wymagania dotyczące oceny zanieczyszczenia gleby, ziemi lub wód gruntowych na terenie zakładu, gdzie jest lub była w przeszłości eksploatowana instalacja wymagająca uzyskania pozwolenia zintegrowanego, w celu zapewnienia identyfikacji każdego zanieczyszczenia przed uruchomieniem instalacji, w trakcie jej eksploatacji oraz po zamknięciu, w tym wymagania dotyczące zakresu i sposobu sporządzenia raportu początkowego, o którym mowa w art. 208 ust. 2 pkt 4 lit. a, pomiarów, o których mowa w art. 211 ust. 6 pkt 4, i raportu końcowego, o którym mowa w art. 217b ust. 1.
 
-2. Przy dokonywaniu oceny uwzględnia się przepisy, wydawane na podstawie art. 101p ust. 3 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+### Art. 101b.
 
-3. Jeżeli ocena wykaże, że nie występuje znaczące zagrożenie dla zdrowia ludzi lub stanu środowiska, regionalny dyrektor ochrony środowiska może odpowiednio zwolnić, w drodze decyzji, podmiot korzystający ze środowiska z obowiązku przeprowadzenia działań naprawczych albo nie przeprowadzać działań, o których mowa w art. 16.”;
+W ramach państwowego monitoringu środowiska dokonuje się oceny oraz badań i obserwacji stanu gleby i ziemi.
 
-- **15)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Na obszarze, na którym występuje bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku, organ ochrony środowiska może, w drodze decyzji, nałożyć na podmiot korzystający ze środowiska prowadzący działalność stwarzającą ryzyko szkody w środowisku lub inną działalność, o której mowa w art. 2 ust. 1 pkt 2, która jest przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, obowiązek wykonywania badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej.
+### Art. 101c.
 
-2. Podmiot, o którym mowa w ust. 1, jest obowiązany przechowywać wyniki badań, wyniki pomiarów oraz dane z monitoringu przez okres 5 lat od zakończenia roku kalendarzowego, którego dotyczą, oraz przedkładać je organowi ochrony środowiska na jego żądanie.
+### 1.
 
-3. W decyzji, o której mowa w ust. 1, organ ochrony środowiska określa:
+Generalny Dyrektor Ochrony Środowiska prowadzi rejestr historycznych zanieczyszczeń powierzchni ziemi.
 
-- **1)** zakres badań, pomiarów lub monitoringu;
-- **2)** metodykę prowadzenia badań, pomiarów lub monitoringu;
-- **3)** termin i formę przedkładania wyników badań, pomiarów lub monitoringu;
-- **4)** w przypadku gdy bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku zostały spowodowane przez działalność więcej niż jednego podmiotu korzystającego ze środowiska – podział obowiązków między tymi podmiotami.
+### 2.
 
-4. Podmiot korzystający ze środowiska zapewnia wykonanie badań lub pomiarów, o których mowa w ust. 1, przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+W rejestrze gromadzi się informacje:
 
-5. W przypadku innym niż wskazany w ust. 1, w celu potwierdzenia występowania bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi lub pomiary zawartości substancji w wodzie, w tym pobieranie próbek lub monitoring przyrodniczy różnorodności biologicznej i krajobrazowej.
+### 1)
 
-6. Zamówienie publiczne na wykonywanie badań, pomiarów lub monitoringu, o których mowa w ust. 5, obejmuje jednorazowe badania, pomiary lub monitoring lub dokonywanie we wskazanym okresie czasu wszystkich potrzebnych regionalnemu dyrektorowi ochrony środowiska badań, pomiarów lub monitoringu.
+o potencjalnych historycznych zanieczyszczeniach powierzchni ziemi oraz historycznych zanieczyszczeniach powierzchni ziemi, w tym ich charakterystyce, miejscu, czasie wystąpienia oraz aktualnym statusie terenu, na którym występują;
 
-7. Regionalny dyrektor ochrony środowiska lub upoważniona przez niego osoba są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej.
+### 2)
 
-8. Podmiot korzystający ze środowiska lub upoważniona przez niego osoba są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu realizacji decyzji nakładającej obowiązek, o którym mowa w ust. 1.
+o przeprowadzonych remediacjach oraz osiągniętych w ich wyniku efektach ekologicznych;
 
-9. W przypadkach, o których mowa w ust. 7 i 8, władający powierzchnią ziemi jest obowiązany umożliwić prowadzenie badań, pomiarów lub monitoringu na terenie będącym w jego władaniu.”;
+### 3)
 
-- **16)** po art. 20 dodaje się art. 20a w brzmieniu: „Art. 20a. W przypadku wydawania decyzji, o których mowa w art. 13 ust. 3, art. 15 ust. 1, art. 17 ust. 2, art. 17a i art. 20 ust. 1 oraz postanowień, o których mowa w art. 24 ust. 5 i 7, jeżeli liczba stron postępowania przekracza 20 stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
-- **17)** w art. 23 po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. W przypadku gdy decyzja, o której mowa w art. 15 ust. 1 pkt 2, stanie się ostateczna, organ ochrony środowiska żąda od podmiotu korzystającego ze środowiska albo, w przypadku, o którym mowa w art. 12 ust. 2, od podmiotu korzystającego ze środowiska lub władającego powierzchnią ziemi – zwrotu poniesionych przez siebie kosztów, o których mowa w art. 21 pkt 1 i 2.”;
-- **18)** w art. 24:
-    - **a)** uchyla się ust. 2,
-    - **b)** ust. 3 i 4 otrzymują brzmienie: „3. Zgłoszenie, o którym mowa w ust. 1, zawiera:
+o działalności prowadzonej na terenach, na których wystąpiło potencjalne historyczne zanieczyszczenie powierzchni ziemi lub historyczne zanieczyszczenie powierzchni ziemi, obecnie, a także, o ile takie informacje są dostępne - w przeszłości;
 
-- **1)** imię i nazwisko albo nazwę podmiotu zgłaszającego bezpośrednie zagrożenie szkodą w środowisku lub szkodę w środowisku, jego adres zamieszkania albo adres siedziby;
-- **2)** wskazanie miejsca bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w miarę możliwości poprzez podanie adresu lub numeru działki ewidencyjnej, na której stwierdzono ich wystąpienie;
-- **3)** informacje na temat czasu wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w miarę możliwości poprzez wskazanie daty ich wystąpienia;
-- **4)** opis stwierdzonej sytuacji wskazującej na występowanie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w tym w miarę możliwości, określenie ich rodzaju.
+### 4)
 
-4. Zgłoszenie powinno, w miarę możliwości, zawierać dokumentację potwierdzającą wystąpienie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku i wskazanie odpowiedzialnego podmiotu korzystającego ze środowiska, a w przypadku zgłoszenia dotyczącego szkody w powierzchni ziemi – nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.”,
+imię i nazwisko albo nazwę władającego powierzchnią ziemi oraz adres jego zamieszkania lub siedziby;
 
-- **c)** po ust. 4 dodaje się ust. 4a w brzmieniu: „4a. Do zgłoszenia w formie elektronicznej dołącza się zeskanowaną dokumentację, o której mowa w ust. 4.”,
-- **d)** ust. 5 i 6 otrzymują brzmienie: „5. Organ ochrony środowiska, uznając za uzasadnione zgłoszenie, o którym mowa w ust. 1, postanawia o wszczęciu postępowania w sprawie wydania decyzji, o której mowa w art. 15 ust. 1 pkt 2, albo w przypadkach, o których mowa w art. 16, podejmuje działania zapobiegawcze lub naprawcze. Przepisy art. 17 stosuje się odpowiednio.
+### 5)
 
-6. Organizacja ekologiczna dokonująca zgłoszenia, na podstawie którego wszczęto postępowanie, ma prawo uczestniczyć w tym postępowaniu na prawach strony.”;
+imię i nazwisko albo nazwę obowiązanego do przeprowadzenia remediacji oraz adres jego zamieszkania lub siedziby;
 
-- **19)** po art. 24 dodaje się art. 24a w brzmieniu: „Art. 24a. 1. Organ ochrony środowiska zawiesza postępowanie wszczęte na podstawie art. 24 ust. 5 do czasu usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania.
+### 6)
 
-2. Organ ochrony środowiska podejmuje postępowanie z urzędu w terminie 2 miesięcy od dnia powzięcia informacji o usunięciu odpadów, o którym mowa w ust. 1.”;
+określenie przedmiotu działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), wykonywanej na terenie, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi lub historyczne zanieczyszczenie powierzchni ziemi, przez władającego powierzchnią ziemi;
 
-- **20)** w art. 25 ust. 1 otrzymuje brzmienie: „1. Organ ochrony środowiska wprowadza niezwłocznie do rejestru, o którym mowa w art. 26a ust. 1, dane ze zgłoszenia, o którym mowa w art. 11 ust. 1, oraz uzasadnionego zgłoszenia, o którym mowa w art. 24 ust. 1.”;
-- **21)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Po otrzymaniu od podmiotu korzystającego ze środowiska informacji o zakończeniu działań zapobiegawczych lub naprawczych, o której mowa w art. 19, albo po zakończeniu prowadzonych przez organ ochrony środowiska działań zapobiegawczych lub naprawczych organ ochrony środowiska wprowadza do rejestru, o którym mowa w art. 26a ust. 1, następujące dane:
-- **1)** określenie rodzaju, opis, wskazanie miejsca i datę wystąpienia lub wykrycia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
-- **2)** imię i nazwisko albo nazwę, adres zamieszkania albo adres siedziby oraz określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, jeżeli został on zidentyfikowany;
-- **3)** datę wszczęcia postępowania w sprawie;
-- **4)** zeskanowane decyzje wydane w sprawie;
-- **5)** informacje o odwołaniach od decyzji, o których mowa w pkt 4, wskazanie podmiotu odwołującego się od decyzji, organu, do którego wniesiono odwołanie, przyczyn odwołania, treści i daty wydania decyzji przez organ odwoławczy;
-- **6)** datę zakończenia działań zapobiegawczych lub naprawczych;
-- **7)** opis przeprowadzonych działań zapobiegawczych lub naprawczych oraz osiągniętego efektu ekologicznego.
+### 7)
 
-2. Organ ochrony środowiska, wprowadza również do rejestru, o którym mowa w art. 26a ust. 1, następujące dane, o ile je posiada:
+określenie przedmiotu działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), wykonywanej na terenie, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, przez obowiązanego do przeprowadzenia remediacji;
 
-- **1)** wskazanie źródła finansowania kosztów działań zapobiegawczych lub naprawczych;
-- **2)** informację o bezpośrednim pokryciu kosztów przez obowiązanego do ich ponoszenia;
-- **3)** informację o pełnym albo częściowym odzyskaniu kosztów od obowiązanego do ich ponoszenia w wyniku postępowania egzekucyjnego;
-- **4)** informację o pełnym albo częściowym odzyskaniu kosztów ze środków zabezpieczenia finansowego podmiotu korzystającego ze środowiska;
-- **5)** informację o przyczynie nieodzyskania całości albo części kosztów.
+### 8)
 
-3. W przypadku gdy w chwili zakończenia działań zapobiegawczych lub naprawczych trwa postępowanie egzekucyjne w celu odzyskania kosztów od obowiązanego do ich ponoszenia, informację o wynikach tego postępowania przekazuje się Generalnemu Dyrektorowi Ochrony Środowiska po jego zakończeniu.”;
+inne, niż wskazane w pkt 1-7, istotne informacje dotyczące historycznych zanieczyszczeń powierzchni ziemi, w szczególności o prowadzonych postępowaniach administracyjnych i sądowo-administracyjnych w sprawach historycznych zanieczyszczeń powierzchni ziemi.
 
-- **22)** po art. 26 dodaje się art. 26a w brzmieniu: „Art. 26a. 1. Generalny Dyrektor Ochrony Środowiska prowadzi, przy użyciu systemu teleinformatycznego, rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które wystąpiły na terenie kraju.
+### 3.
 
-2. W rejestrze gromadzi się:
+Regionalny dyrektor ochrony środowiska, w drodze decyzji skierowanej do władającego powierzchnią ziemi, dokonuje do rejestru wpisu o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi, nie później niż w terminie 6 miesięcy od dnia otrzymania odpowiednio:
 
-- **1)** informacje o zgłoszonych bezpośrednich zagrożeniach szkodą w środowisku oraz szkodach w środowisku, w tym rodzaju, charakterystyce, miejscu i czasie wystąpienia bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku;
-- **2)** informacje o podejmowanych w związku z wystąpieniem bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku działaniach zapobiegawczych i naprawczych oraz osiągniętych w ich wyniku efektach ekologicznych;
-- **3)** imię i nazwisko albo nazwę i określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, oraz adres jego zamieszkania albo adres siedziby;
-- **4)** inne istotne informacje o bezpośrednich zagrożeniach szkodą w środowisku oraz szkodach w środowisku, w szczególności o postępowaniach administracyjnych i sądowo-administracyjnych w sprawach bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku.
+### 1)
 
-3. Organ ochrony środowiska wprowadza i aktualizuje informacje w rejestrze, o którym mowa w ust. 1, na każdym etapie postępowania administracyjnego i sądowo-administracyjnego.
+wykazu, o którym mowa w art. 101d ust. 6;
 
-4. Generalny Dyrektor Ochrony Środowiska może dokonywać zmian w rejestrze, jeżeli stwierdzi niezgodność zawartych w nim danych z posiadanymi informacjami, w szczególności wynikającymi z prowadzonych postępowań administracyjnych i sądowo-administracyjnych w zakresie bezpośrednich zagrożeń szkodą w środowisku oraz szkód w środowisku.
+### 2)
 
-5. Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają, za pośrednictwem systemu teleinformatycznego, organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska.
+aktualizacji wykazu, o której mowa w art. 101d ust. 8;
 
-6. Generalny Dyrektor Ochrony Środowiska przygotowuje i przekazuje ministrowi właściwemu do spraw środowiska, w terminie do końca lutego każdego roku, zbiorczą informację na temat zawartości rejestru, o którym mowa w ust. 1, za rok poprzedni.
+### 3)
 
-7. Minister właściwy do spraw środowiska, biorąc pod uwagę zakres informacji wymagany do sporządzenia raportów dla Komisji Europejskiej dotyczących doświadczeń nabytych podczas stosowania przepisów w zakresie odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku, użyteczność i zapewnienie sprawnego funkcjonowania rejestru oraz potrzebę zapewnienia dostępu do informacji o środowisku, określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.”;
+zgłoszenia, o którym mowa w art. 101e ust. 1.
 
-- **23)** w rozdziale 5 po art. 26a dodaje się art. 26b–26d w brzmieniu: „Art. 26b. W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego terytorium skutki te mogą wystąpić.
+### 4.
 
-**Art. 26c.** Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na terytorium Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
+Decyzja, o której mowa w ust. 3, zawiera wskazanie miejsca, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi.
 
-**Art. 26d.** Przepisów art. 26b i art. 26c nie stosuje się do poważnych awarii przemysłowych w rozumieniu ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.”;
+### 5.
 
-**Art. 10.** W ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. z 2013 r. poz. 1136) w art. 3 pkt 4 otrzymuje brzmienie: „4) niezanieczyszczona gleba – glebę, która została usunięta z górnej warstwy powierzchni ziemi w trakcie działalności wydobywczej i która nie przekracza dopuszczalnych zawartości w glebie oraz dopuszczalnych zawartości w ziemi substancji powodujących ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm. ), dla gruntów występujących w miejscu użycia tej gleby lub ziemi;”.
+Regionalny dyrektor ochrony środowiska aktualizuje i uzupełnia rejestr na podstawie:
 
-**Art. 11.** W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2013 r. poz. 1235, z późn. zm. ) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 12.** W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2013 r. poz. 1107) art. 11 otrzymuje brzmienie: „Art. 11. Krajowy ośrodek przygotowuje i przekazuje ministrowi właściwemu do spraw środowiska, na 30 dni przed terminami wynikającymi z przepisów prawa Unii Europejskiej lub umów międzynarodowych z zakresu ochrony środowiska:
+aktualizacji wykazu, o której mowa w art. 101d ust. 8,
 
-**Art. 13.** W ustawie z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2013 r. poz. 21, z późn. zm. ) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 14.**
+badań, o których mowa w art. 101f ust. 1 lub art. 101g ust. 1,
 
-1. Programy ochrony środowiska uchwalone w celu realizacji Polityki ekologicznej państwa na lata 2009–2012 z perspektywą do roku 2016, przed dniem wejścia w życie niniejszej ustawy zachowują ważność na czas, na jaki zostały uchwalone, jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+### 3)
 
-2. Jeżeli program ochrony środowiska, o którym mowa w ust. 1, wymaga aktualizacji, odpowiednio sejmik województwa, rada powiatu albo rada gminy uchwala nowy program ochrony środowiska uwzględniający cele zawarte w strategiach, programach i dokumentach programowych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2009 r. Nr 84, poz. 712, z późn. zm. ).
+planu remediacji, o którym mowa w art. 101l ust. 1,
 
-**Art. 15.** Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1, za dopuszczalne zawartości w glebie i w ziemi substancji powodujących ryzyko, o których mowa w art. 101a ust. 2 ustawy zmienianej w art. 1, uważa się standardy jakości gleby oraz standardy jakości ziemi określone w przepisach dotychczasowych.
+### 4)
 
-**Art. 16.** W terminie 2 lat od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1, dopuszcza się wykonywanie badań zanieczyszczenia gleby i ziemi przez laboratorium posiadające akredytację w zakresie wykonywania w glebie i w ziemi pomiarów zawartości substancji, o których mowa w przepisach wykonawczych wydanych na podstawie art. 105 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+oceny przeprowadzenia remediacji, o której mowa w art. 101n ust. 1
 
-**Art. 17.** Starosta przekaże regionalnemu dyrektorowi ochrony środowiska wykaz potencjalnych historycznych zanieczyszczeń powierzchni ziemi w 25 miesiącu od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1.
+- nie później niż w terminie 6 miesięcy odpowiednio od dnia ich otrzymania, wykonania, ustalenia lub dokonania.
 
-**Art. 18.** Generalny Dyrektor Ochrony Środowiska uruchomi system teleinformatyczny do prowadzenia rejestru historycznych zanieczyszczeń powierzchni ziemi, nie później jednak niż w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+### 6.
 
-**Art. 19.**
+Regionalny dyrektor ochrony środowiska, dokonując wpisu do rejestru, aktualizując lub uzupełniając rejestr, oznacza aktualny status terenu jako teren, na którym:
 
-1. W stosunku do podmiotu posiadającego decyzję w sprawie rekultywacji zanieczyszczonej gleby lub ziemi, wydaną przed dniem wejścia w życie niniejszej ustawy, nie wydaje się decyzji w sprawie remediacji, o której mowa w ustawie zmienianej w art. 1.
+### 1)
 
-2. Przepisu ust. 1 nie stosuje się w przypadku, o którym mowa w art. 20 ust. 1.
+występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi - jeżeli informacje na temat terenu zawarto w wykazie, o którym mowa w art. 101d ust. 6, lub w zgłoszeniu, o którym mowa w art. 101e ust. 1;
 
-**Art. 20.**
+### 2)
 
-1. Na wniosek obowiązanego do przeprowadzenia rekultywacji lub na wniosek obowiązanego do przeprowadzenia działań naprawczych dotyczących szkody w środowisku w powierzchni ziemi, złożony do regionalnego dyrektora ochrony środowiska, uchyla się decyzje wydane na podstawie:
+występuje historyczne zanieczyszczenie powierzchni ziemi - jeżeli na terenie przeprowadzono badania, o których mowa w art. 101f ust. 1 lub w art. 101g ust. 1, które potwierdzają historyczne zanieczyszczenie powierzchni ziemi;
 
-- **1)** art. 106 ust. 2 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r. w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **2)** art. 362 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
-- **3)** art. 13 ust. 3 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **4)** art. 15 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym – i wydaje odpowiednio, dla historycznego zanieczyszczenia powierzchni ziemi – decyzję ustalającą plan remediacji na podstawie art. 101l ust. 4 ustawy zmienianej w art. 1, a dla szkody w środowisku w powierzchni ziemi – decyzję o uzgodnieniu warunków przeprowadzenia działań naprawczych, która ustala plan remediacji na podstawie art. 13 ust. 3 pkt 2 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
+### 3)
 
-2. Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 101l ust. 2 ustawy zmienianej w art. 1 i art. 13 ust. 2a ustawy zmienianej w art. 9.
+występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji - jeżeli dla danego terenu ustalono plan remediacji, o którym mowa w art. 101l ust. 1;
 
-**Art. 21.**
+### 4)
 
-1. Postępowania wszczęte i niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, w sprawach:
+zakończono remediację - jeżeli ocena przeprowadzenia remediacji, o której mowa w art. 101n ust. 1, wykaże, że remediacja została przeprowadzona zgodnie z ustalonym planem remediacji.
 
-- **1)** nałożenia obowiązku poniesienia kosztów rekultywacji, o których mowa w art. 102 ust. 8 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **2)** uzgodnienia warunków rekultywacji, o których mowa w art. 106 ust. 2 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **3)** nałożenia obowiązku prowadzenia pomiarów zawartości substancji w glebie lub ziemi, o których mowa w art. 107 ust. 1 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **4)** rekultywacji dokonywanej przez organ, o których mowa w art. 108 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **5)** nałożenia obowiązku rekultywacji, o których mowa w art. 362 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
-- **6)** uzgodnienia warunków prowadzenia działań naprawczych, o których mowa w art. 13 ust. 3 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **7)** nałożenia obowiązku przeprowadzenia działań zapobiegawczych lub naprawczych, o których mowa w art. 15 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **8)** zakresu udostępniania powierzchni ziemi przez władającego powierzchnią ziemi oraz zakresu i sposobu przeprowadzenia działań zapobiegawczych lub naprawczych, o których mowa w art. 17 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **9)** nałożenia obowiązku prowadzenia pomiarów zawartości substancji w glebie lub ziemi lub wodzie lub monitoringu przyrodniczego różnorodności biologicznej krajobrazowej, o których mowa w art. 20 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
-- **10)** nałożenia obowiązku poniesienia kosztów działań zapobiegawczych lub naprawczych, o których mowa w art. 23 ust. 4 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym – stają się postępowaniami, wszczętymi odpowiednio z urzędu lub na wniosek, na podstawie przepisów ustawy zmienianej w art. 1 oraz w art. 9, w brzmieniu nadanym niniejszą ustawą.
+### 7.
 
-2. W sprawach o uzgodnienie:
+Regionalny dyrektor ochrony środowiska, w drodze decyzji skierowanej do władającego powierzchnią ziemi, dokonuje wykreślenia wpisu do rejestru, jeżeli nie potwierdzono historycznego zanieczyszczenia powierzchni ziemi, w szczególności gdy badania zanieczyszczenia gleby i ziemi, o których mowa w art. 101f ust. 1 lub w art. 101g ust. 1, albo badania wykonywane przy opracowaniu planu remediacji, o którym mowa w art. 101l ust. 1, nie potwierdziły występowania na danym terenie historycznego zanieczyszczenia powierzchni ziemi.
 
-- **1)** warunków przeprowadzenia rekultywacji, o których mowa w ust. 1 pkt 2,
-- **2)** warunków prowadzenia działań naprawczych w odniesieniu do szkody w środowisku w powierzchni ziemi, o których mowa w ust. 1 pkt 6 – organ wzywa do przedłożenia odpowiednio wniosku, o którym mowa w art. 101l ust. 2 ustawy zmienianej w art. 1, albo wniosku o uzgodnienie przeprowadzenia działań naprawczych, o którym mowa w art. 13 ust. 2a ustawy zmienianej w art. 9, i wyznacza termin jego przedłożenia, nie krótszy niż 3 miesiące.
+### 8.
 
-3. Jeżeli nie przedłożono wniosku zgodnie z wezwaniem, o którym mowa w ust. 2, organ stosuje odpowiednio przepis art. 101m ust. 1 pkt 2 ustawy zmienianej w art. 1 albo przepis art. 15 ust. 1 pkt 2 ustawy zmienianej w art. 9.
+Generalny Dyrektor Ochrony Środowiska może dokonywać zmian w rejestrze, jeżeli stwierdzi niezgodność zawartych w nim danych z posiadanymi informacjami, w szczególności wynikającymi z prowadzonych postępowań administracyjnych w zakresie historycznego zanieczyszczenia powierzchni ziemi.
 
-**Art. 22.** Dotychczasowe akty prawa miejscowego wydane na podstawie art. 135 ust. 2 albo ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych aktów prawa miejscowego wydanych na podstawie art. 135 ust. 2 albo ust. 3 ustawy zmienianej w art. 1 i mogą być zmieniane.
+### 9.
 
-**Art. 23.**
+Rejestr prowadzi się:
 
-1. Do źródeł spalania paliw, dla których pozwolenie na budowę wydano przed dniem 7 stycznia 2013 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródła zostały oddane do użytkowania nie później niż w dniu 7 stycznia 2014 r., przepisy:
+### 1)
 
-- **1)** art. 157a ust. 1 pkt 3 ustawy zmienianej w art. 1, w zakresie decyzji wykonawczej Komisji z dnia 7 maja 2012 r. dotyczącej określenia okresów rozruchu i wyłączania do celów dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych,
-- **2)** art. 157a ust. 2 ustawy zmienianej w art. 1 – stosuje się od dnia 1 stycznia 2016 r.
+przy użyciu systemu teleinformatycznego;
 
-2. Do dnia 31 grudnia 2015 r. standardy emisyjne dla źródeł spalania paliw, o których mowa w ust. 1, dla których pierwsze pozwolenie na budowę wydano po dniu 30 czerwca 1987 r., o łącznej nominalnej mocy cieplnej nie mniejszej niż 50 MW, z których gazy odlotowe są odprowadzane do powietrza przez wspólny komin, stanowią standardy emisyjne odpowiadające łącznej nominalnej mocy cieplnej tych źródeł.
+### 2)
 
-3. Do źródeł spalania paliw lub ich części wymienionych w Akcie dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii, Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej, w Załączniku XII, w Rozdziale 13, w Sekcji D, w punkcie 2 literze b lub literze c (Dz. U. z 2004 r. Nr 90, poz. 864) przepisów art. 157a ust. 2 ustawy zmienianej w art. 1 nie stosuje się przy określaniu odpowiednio dopuszczalnych wielkości emisji tlenków azotu i dopuszczalnych wielkości emisji pyłu obowiązujących do terminów tam określonych.
+w podziale na województwa, w sposób umożliwiający zestawianie danych dla obszaru całego kraju;
 
-**Art. 24.** Dane, o których mowa w art. 146b ust. 3 ustawy zmienianej w art. 1, są przekazywane po raz pierwszy do końca lutego 2017 r., przy czym:
+### 3)
 
-**Art. 25.** Projekt Przejściowego Planu Krajowego przyjęty przed dniem wejścia w życie niniejszej ustawy może być zmieniany na podstawie art. 146f ust. 1 ustawy zmienianej w art. 1.
+w sposób umożliwiający sortowanie danych.
 
-**Art. 26.** Do zgłoszeń, o których mowa w art. 152 ust. 4 ustawy zmienianej w art. 1, dokonanych przed dniem wejścia w życie niniejszej ustawy, przy wnoszeniu sprzeciwu, stosuje się przepisy dotychczasowe.
+### 10.
 
-**Art. 27.** Z dniem wejścia w życie niniejszej ustawy wygasają decyzje wydane dotychczas na podstawie art. 189 i art. 190 ust. 3 ustawy zmienianej w art. 1, które nie wywołały skutków prawnych w związku z nieuzyskaniem tytułu prawnego do instalacji lub jej oznaczonej części.
+Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają za pośrednictwem systemu teleinformatycznego organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska.
 
-**Art. 28.**
+### 11.
 
-1. Pozwolenia zintegrowane wydane dla instalacji, które były eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1, oraz nie będą objęte obowiązkiem uzyskania pozwolenia zintegrowanego od dnia wejścia w życie tych przepisów, pozostają w mocy na czas, na jaki zostały wydane, w zakresie, w jakim wymagają one uzyskania pozwolenia, o którym mowa w art. 181 ust. 1 pkt 2–4 ustawy zmienianej w art. 1, oraz pozwolenia wodnoprawnego na pobór wód.
+Brak wpisu do rejestru nie wstrzymuje postępowania w sprawie wydania decyzji, o której mowa w art. 101f ust. 1, art. 101k ust. 2 lub 3, art. 101l ust. 4, art. 101m ust. 1 pkt 2 lub art. 101o ust. 2.
 
-2. Pozwolenia zintegrowane wydane dla instalacji, które były eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1, oraz będą objęte obowiązkiem uzyskania pozwolenia zintegrowanego – organ właściwy do ich wydania:
+### 12.
 
-- **1)** zmienia z urzędu, w zakresie czasu, na jaki zostały wydane, zgodnie z art. 188 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą oraz
-- **2)** analizuje, i jeżeli to konieczne, zmienia z urzędu, w celu dostosowania do wymagań wynikających z przepisów art. 211 ust. 5 i ust. 6 pkt 3 i 12 ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą – w terminie 3 miesięcy od dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1.
+Minister właściwy do spraw środowiska, biorąc pod uwagę potrzebę zapewnienia dostępu do informacji o środowisku, a także użyteczność i zapewnienie sprawnego funkcjonowania rejestru określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.
 
-3. Obowiązek uzyskania pozwolenia zintegrowanego dla instalacji, które:
+### Art. 101d.
 
-- **1)** są eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1 oraz
-- **2)** nie były objęte obowiązkiem uzyskania pozwolenia zintegrowanego ze względu na rodzaj prowadzonej w niej działalności przed dniem wejścia w życie tych przepisów, a od dnia ich wejścia w życie będą objęte tym obowiązkiem – powstaje z dniem 1 lipca 2015 r.
+### 1.
 
-4. Przepisy ust. 2 stosuje się odpowiednio do pozwoleń zintegrowanych wydanych dla instalacji, których eksploatacja nie rozpoczęła się w dniu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1.
+Starosta dokonuje identyfikacji potencjalnych historycznych zanieczyszczeń powierzchni ziemi, poprzez:
 
-5. Na wniosek prowadzących instalację, o których mowa w ust. 3, pozwolenie zintegrowane może zostać wydane przed dniem 1 lipca 2015 r.
+### 1)
 
-**Art. 29.**
+ustalenie działalności mogącej z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi, która była prowadzona na danym terenie przed dniem 30 kwietnia 2007 r.;
 
-1. Przy pierwszym postępowaniu w przedmiocie zmiany pozwolenia zintegrowanego wszczętym po zakończeniu postępowania w sprawie zmiany pozwolenia zintegrowanego, o którym mowa w art. 28 ust. 2, prowadzący instalację:
+### 2)
 
-- **1)** wymagającą uzyskania pozwolenia zintegrowanego oraz
-- **2)** gdy jej eksploatacja obejmuje wykorzystywanie, produkcję lub uwalnianie substancji powodujących ryzyko oraz występuje możliwość zanieczyszczenia gleby, ziemi lub wód gruntowych na terenie zakładu – opracowuje i przedkłada organowi właściwemu do wydania pozwolenia raport początkowy, o którym mowa w art. 208 ust. 2 pkt 4 lit. a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+ustalenie listy substancji powodujących ryzyko, których wystąpienie w glebie lub ziemi jest spodziewane ze względu na działalność, o której mowa w pkt 1;
 
-2. W pozwoleniu zintegrowanym zmienionym w wyniku postępowania, o którym mowa w ust. 1, określa się także sposób prowadzenia systematycznej oceny ryzyka zanieczyszczenia gleby, ziemi i wód gruntowych substancjami powodującymi ryzyko, które mogą znajdować się na terenie zakładu w związku z eksploatacją instalacji, albo sposób i częstotliwość wykonywania badań zanieczyszczenia gleby i ziemi tymi substancjami oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek.
+### 3)
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio w sprawie ograniczenia bez odszkodowania pozwolenia zintegrowanego dla instalacji, o której mowa w ust. 1, w postępowaniu prowadzonym w trybie art. 195 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+analizę dostępnych informacji na temat zagrożenia zanieczyszczeniem gleby lub ziemi;
 
-**Art. 30.**
+### 4)
 
-1. W terminie nie dłuższym niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy prowadzący instalację spalania paliw, której częścią są źródła spalania paliw, do których może mieć zastosowanie druga zasada łączenia, o której mowa w art. 157a ust. 2 pkt 2 ustawy zmienianej w art. 1, przedkłada organowi właściwemu do wydania pozwolenia analizę dotyczącą możliwości technicznych odprowadzania gazów odlotowych ze źródeł jednym kominem oraz skutków ekonomicznych zastosowania tej zasady.
+w razie potrzeby - wykonanie pierwszego etapu badań zanieczyszczenia gleby i ziemi przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
 
-2. Organ właściwy do wydania pozwolenia może wystąpić do Prezesa Urzędu Regulacji Energetyki o opinię, o której mowa w art. 23 ust. 2 pkt 21a ustawy zmienianej w art. 4.
+### 2.
 
-**Art. 31.** W przypadku konkluzji BAT opublikowanych w Dzienniku Urzędowym Unii Europejskiej przed dniem wejścia w życie niniejszej ustawy:
+Identyfikacji potencjalnych historycznych zanieczyszczeń powierzchni ziemi nie dokonuje się na terenach, na których jest prowadzona działalność, której głównym celem jest obronność i bezpieczeństwo państwa lub bezpieczeństwo międzynarodowe.
 
-**Art. 32.** Główny Inspektor Ochrony Środowiska przekaże, w formie elektronicznej bazy danych oraz wydruku, Generalnemu Dyrektorowi Ochrony Środowiska, niezwłocznie po dniu wejścia w życie niniejszej ustawy rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, prowadzony na podstawie art. 28a ust. 1 ustawy zmienianej w art. 2.
+### 3.
 
-**Art. 33.** Główny Inspektor Ochrony Środowiska przekaże, na podstawie spisu zdawczo-odbiorczego, Generalnemu Dyrektorowi Ochrony Środowiska niezwłocznie po dniu wejścia w życie niniejszej ustawy otrzymane zgodnie z:
+Starosta lub upoważniona przez niego osoba, są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi.
 
-**Art. 34.**
+### 4.
 
-1. Generalny Dyrektor Ochrony Środowiska uruchomi system teleinformatyczny do prowadzenia rejestru bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o którym mowa w art. 26a ust. 1 ustawy zmienianej w art. 9, nie później niż w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+W przypadku, o którym mowa w ust. 3, władający powierzchnią ziemi jest obowiązany umożliwić wykonywanie badań na terenie będącym w jego władaniu.
 
-2. Generalny Dyrektor Ochrony Środowiska wprowadzi do rejestru, o którym mowa w art. 26a ust. 1 ustawy zmienianej w art. 9, dane z rejestru, ze zgłoszeń i informacji otrzymanych na podstawie art. 32 i art. 33, w terminie 6 miesięcy od dnia uruchomienia systemu teleinformatycznego.
+### 5.
 
-3. Regionalny dyrektor ochrony środowiska wprowadzi do rejestru dane z otrzymanych, przed uruchomieniem systemu teleinformatycznego:
+Władający powierzchnią ziemi, na wniosek starosty, przekazuje wszelkie znajdujące się w jego posiadaniu informacje dotyczące potencjalnego historycznego zanieczyszczenia powierzchni ziemi oraz jego możliwych źródłach.
 
-- **1)** zgłoszeń, o których mowa w art. 11 ust. 1 ustawy zmienianej w art. 9,
-- **2)** uzasadnionych zgłoszeń, o których mowa w art. 24 ust. 1 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą,
-- **3)** informacji, o których mowa w art. 26 ust. 1 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą – w terminie 6 miesięcy od dnia jego uruchomienia.
+### 6.
 
-4. Regionalny dyrektor ochrony środowiska wprowadza do rejestru dane o zakończeniu prowadzonych przez siebie, przed uruchomieniem systemu teleinformatycznego, działań zapobiegawczych lub naprawczych oraz dane, o których mowa w art. 26 ust. 2 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia jego uruchomienia.
+Starosta sporządza wykaz potencjalnych historycznych zanieczyszczeń powierzchni ziemi.
 
-**Art. 35.** Regionalny dyrektor ochrony środowiska ustali pierwszy harmonogram zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi oraz pierwszy harmonogram zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, nie później niż w terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 7.
 
-**Art. 36.**
+Wykaz zawiera:
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
+### 1)
 
-- **1)** art. 105, art. 201 ust. 2 i art. 210 ust. 4 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5, art. 201 ust. 2 i art. 210 ust. 4 ustawy zmienianej w art. 1,
-- **2)** art. 145 ust. 1 pkt 1 i art. 146 ust. 2 i 4 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 146 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
-- **3)** art. 148 ust. 1 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 148 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą – jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+adres, numery działek ewidencyjnych i informacje o ich powierzchni;
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 153 ust. 1 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 153 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 2)
 
-3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1:
+informacje o aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania gruntów;
 
-- **1)** w zakresie szczegółowych wymagań dotyczących ograniczenia emisji lotnych związków organicznych powstających w wyniku wykorzystywania rozpuszczalników organicznych w niektórych farbach i lakierach oraz w preparatach do odnawiania pojazdów – zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych w tym zakresie na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy;
-- **2)** w zakresie szczegółowych wymagań dla niektórych produktów ze względu na ich negatywne oddziaływanie na środowisko – zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych w tym zakresie na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1, i mogą być zmieniane na podstawie tych przepisów.
+### 3)
 
-**Art. 37.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 28a ust. 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 26a ust. 7 ustawy zmienianej w art. 9, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+informacje o działalności prowadzonej na terenie;
 
-**Art. 38.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+### 4)
 
-**Art. 39.**
+informacje o działalności prowadzonej na terenie w przeszłości, o ile takie informacje są dostępne;
 
-1. W latach 2014–2023 maksymalny limit wydatków Inspekcji Ochrony Środowiska będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+### 5)
 
-- **1)** 2014 r. – 0 zł;
-- **2)** 2015 r. – 40 tys. zł;
-- **3)** 2016 r. – 40 tys. zł;
-- **4)** 2017 r. – 40 tys. zł;
-- **5)** 2018 r. – 40 tys. zł;
-- **6)** 2019 r. – 40 tys. zł;
-- **7)** 2020 r. – 40 tys. zł;
-- **8)** 2021 r. – 40 tys. zł;
-- **9)** 2022 r. – 40 tys. zł.
-- **10)** 2023 r. – 40 tys. zł.
+informacje o właściwościach gleby na terenie;
 
-2. W latach 2014–2023 maksymalny limit wydatków Inspekcji Handlowej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+### 6)
 
-- **1)** 2014 r. – 0 zł;
-- **2)** 2015 r. – 40 tys. zł;
-- **3)** 2016 r. – 40 tys. zł;
-- **4)** 2017 r. – 40 tys. zł;
-- **5)** 2018 r. – 40 tys. zł;
-- **6)** 2019 r. – 40 tys. zł;
-- **7)** 2020 r. – 40 tys. zł;
-- **8)** 2021 r. – 40 tys. zł;
-- **9)** 2022 r. – 40 tys. zł.
-- **10)** 2023 r. – 40 tys. zł.
+nazwy substancji powodujących ryzyko oraz informacje o ich zawartości w glebie i w ziemi;
 
-3. W latach 2014–2023 maksymalny limit wydatków nadzoru budowlanego będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+### 7)
 
-- **1)** 2014 r. – 0 zł;
-- **2)** 2015 r. – 40 tys. zł;
-- **3)** 2016 r. – 40 tys. zł;
-- **4)** 2017 r. – 40 tys. zł;
-- **5)** 2018 r. – 40 tys. zł;
-- **6)** 2019 r. – 40 tys. zł;
-- **7)** 2020 r. – 40 tys. zł;
-- **8)** 2021 r. – 40 tys. zł;
-- **9)** 2022 r. – 40 tys. zł.
-- **10)** 2023 r. – 40 tys. zł.
+informacje o remediacji prowadzonej obecnie i w przeszłości na terenie;
 
-4. W latach 2014–2023 maksymalny limit wydatków Urzędu Regulacji Energetyki będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+### 8)
 
-- **1)** 2014 r. – 0 zł;
-- **2)** 2015 r. – 40 tys. zł;
-- **3)** 2016 r. – 40 tys. zł;
-- **4)** 2017 r. – 40 tys. zł;
-- **5)** 2018 r. – 40 tys. zł;
-- **6)** 2019 r. – 40 tys. zł;
-- **7)** 2020 r. – 40 tys. zł;
-- **8)** 2021 r. – 40 tys. zł;
-- **9)** 2022 r. – 40 tys. zł.
-- **10)** 2023 r. – 40 tys. zł.
+imię i nazwisko albo nazwę obowiązanego do przeprowadzenia remediacji oraz adres jego zamieszkania lub siedziby;
 
-5. Organem monitorującym wykorzystanie limitu wydatków, określonego w ust. 1–4, jest odpowiednio minister właściwy do spraw środowiska, Prezes Urzędu Ochrony Konkurencji i Konsumentów, minister właściwy do spraw budownictwa oraz minister właściwy do spraw finansów publicznych.
+### 9)
 
-6. W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, określonego w ust. 1–4, stosuje się mechanizm korygujący polegający na racjonalizacji wydatków. <Art. 39a. 1. W latach 2024–2033 maksymalny limit wydatków Inspekcji Ochrony Środowiska będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 0,4 mln zł, w tym w:
+imię i nazwisko albo nazwę władającego powierzchnią ziemi oraz adres jego zamieszkania lub siedziby.
 
-- **1)** 2024 r. – 0,040 mln zł;
-- **2)** 2025 r. – 0,040 mln zł;
-- **3)** 2026 r. – 0,040 mln zł;
-- **4)** 2027 r. – 0,040 mln zł;
-- **5)** 2028 r. – 0,040 mln zł;
-- **6)** 2029 r. – 0,040 mln zł;
-- **7)** 2030 r. – 0,040 mln zł;
-- **8)** 2031 r. – 0,040 mln zł;
-- **9)** 2032 r. – 0,040 mln zł;
-- **10)** 2033 r. – 0,040 mln zł.
+### 8.
 
-2. W latach 2024–2033 maksymalny limit wydatków Inspekcji Handlowej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 0,4 mln zł, w tym w:
+Starosta dokonuje aktualizacji wykazu raz na 2 lata.
 
-- **1)** 2024 r. – 0,040 mln zł;
-- **2)** 2025 r. – 0,040 mln zł;
-- **3)** 2026 r. – 0,040 mln zł;
-- **4)** 2027 r. – 0,040 mln zł;
-- **5)** 2028 r. – 0,040 mln zł;
-- **6)** 2029 r. – 0,040 mln zł;
-- **7)** 2030 r. – 0,040 mln zł;
-- **8)** 2031 r. – 0,040 mln zł;
-- **9)** 2032 r. – 0,040 mln zł;
-- **10)** 2033 r. – 0,040 mln zł.
+### 9.
 
-3. W latach 2024–2033 maksymalny limit wydatków nadzoru budowlanego będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi 0,4 mln zł, w tym w:
+Starosta przekazuje wykaz oraz - raz na 2 lata - jego aktualizację regionalnemu dyrektorowi ochrony środowiska za pośrednictwem środków komunikacji elektronicznej lub na informatycznych nośnikach danych.
 
-- **1)** 2024 r. – 0,040 mln zł;
-- **2)** 2025 r. – 0,040 mln zł;
-- **3)** 2026 r. – 0,040 mln zł;
-- **4)** 2027 r. – 0,040 mln zł;
-- **5)** 2028 r. – 0,040 mln zł;
-- **6)** 2029 r. – 0,040 mln zł;
-- **7)** 2030 r. – 0,040 mln zł;
-- **8)** 2031 r. – 0,040 mln zł;
-- **9)** 2032 r. – 0,040 mln zł;
-- **10)** 2033 r. – 0,040 mln zł.
+### Art. 101e.
 
-4. Organem monitorującym wykorzystanie limitu wydatków, określonego w ust. 1–3, oraz wdrażającym mechanizm korygujący, o którym mowa w ust. 5, jest odpowiednio minister właściwy do spraw klimatu, Prezes Urzędu Ochrony Konkurencji i Konsumentów oraz minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
+### 1.
 
-5. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, obniża się wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.>
+Władający powierzchnią ziemi, który stwierdził historyczne zanieczyszczenie powierzchni ziemi na terenie będącym w jego władaniu, jest obowiązany niezwłocznie zgłosić ten fakt regionalnemu dyrektorowi ochrony środowiska.
 
-**Art. 40.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### 2.
 
+Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko albo nazwę podmiotu zgłaszającego oraz adres jego zamieszkania lub siedziby;
+
+### 2)
+
+adres i numer działki ewidencyjnej;
+
+### 3)
+
+informacje na temat czasu wystąpienia zanieczyszczenia powierzchni ziemi, w tym, w miarę możliwości, dokumenty uprawdopodobniające, że zgłoszenie dotyczy historycznego zanieczyszczenia powierzchni ziemi;
+
+### 4)
+
+dokumentację potwierdzającą wystąpienie zanieczyszczenia powierzchni ziemi, w tym nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 3.
+
+Każdy, kto stwierdził potencjalne historyczne zanieczyszczenie powierzchni ziemi, może zgłosić ten fakt staroście.
+
+### 4.
+
+Zgłoszenie, o którym mowa w ust. 3, zawiera:
+
+### 1)
+
+imię i nazwisko albo nazwę podmiotu zgłaszającego oraz adres jego zamieszkania lub siedziby;
+
+### 2)
+
+wskazanie miejsca, w miarę możliwości poprzez podanie adresu lub numeru działki ewidencyjnej;
+
+### 3)
+
+informacje na temat czasu wystąpienia zanieczyszczenia powierzchni ziemi, w tym, w miarę możliwości, dokumenty uprawdopodobniające, że zgłoszenie dotyczy historycznego zanieczyszczenia powierzchni ziemi;
+
+### 4)
+
+opis stwierdzonej sytuacji wskazującej na występowanie potencjalnego historycznego zanieczyszczenia powierzchni ziemi, dokumentację, która uprawdopodobni jej wystąpienie, w tym, w miarę możliwości, nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 5.
+
+Do zgłoszenia, o którym mowa w ust. 1 i 3, składanego w postaci elektronicznej dołącza się zeskanowane dokumenty lub dokumentację, o których mowa odpowiednio w ust. 2 pkt 3 i 4 oraz w ust. 4 pkt 3 i 4.
+
+### Art. 101f.
+
+### 1.
+
+Na terenie, na którym była prowadzona przed dniem 30 kwietnia 2007 r. działalność mogąca z dużym prawdopodobieństwem powodować historyczne zanieczyszczenie powierzchni ziemi oraz istnieją przesłanki wskazujące na występowanie historycznego zanieczyszczenia powierzchni ziemi, takie jak umieszczenie terenu w wykazie, o którym mowa w art. 101d ust. 6, lub zgłoszenie, o którym mowa w art. 101e ust. 1, regionalny dyrektor ochrony środowiska może, w drodze decyzji, nałożyć na władającego powierzchnią ziemi będącego podmiotem korzystającym ze środowiska, obowiązek wykonania badań zanieczyszczenia gleby i ziemi oraz wyznaczyć termin przedłożenia wyników tych badań.
+
+### 2.
+
+Badania zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, wykonuje laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się, gdy podmiot korzystający ze środowiska posiada pozwolenie zintegrowane, w którym określono sposób wykonywania badań zanieczyszczenia gleby i ziemi.
+
+### 4.
+
+Podmiot, o którym mowa w ust. 1, jest obowiązany przechowywać wyniki badań przez okres 5 lat od zakończenia roku kalendarzowego, którego dotyczą, oraz przedkładać je regionalnemu dyrektorowi ochrony środowiska oraz wojewódzkiemu inspektorowi ochrony środowiska na ich żądanie.
+
+### 5.
+
+Postępowanie w przedmiocie wydania decyzji, o której mowa w ust. 1, wszczyna się z urzędu.
+
+### Art. 101g.
+
+### 1.
+
+Regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi w celu potwierdzenia występowania historycznego zanieczyszczenia powierzchni ziemi lub w celu opracowania planu remediacji, w przypadku innym niż wskazany w art. 101f ust. 1.
+
+### 2.
+
+Badania zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, wykonuje laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 3.
+
+Zamówienie publiczne na wykonywanie badań zanieczyszczenia gleby i ziemi, o których mowa w ust. 1, obejmuje jednorazowe badania lub dokonywanie wszystkich badań we wskazanym okresie.
+
+### 4.
+
+Regionalny dyrektor ochrony środowiska lub upoważniona przez niego osoba, są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 4, władający powierzchnią ziemi jest obowiązany umożliwić wykonywanie badań na terenie będącym w jego władaniu.
+
+### Art. 101h.
+
+### 1.
+
+Władający powierzchnią ziemi, na której występuje historyczne zanieczyszczenie powierzchni ziemi, jest obowiązany do przeprowadzenia remediacji.
+
+### 2.
+
+Jeżeli władający powierzchnią ziemi wykaże, że historyczne zanieczyszczenie powierzchni ziemi dokonane po dniu objęcia przez niego władania spowodował inny wskazany podmiot, zwany dalej „innym sprawcą”, obowiązek przeprowadzenia remediacji spoczywa na innym sprawcy.
+
+### 3.
+
+Jeżeli zanieczyszczenie zostało spowodowane przez innego sprawcę za zgodą lub wiedzą władającego powierzchnią ziemi, władający powierzchnią ziemi jest obowiązany do przeprowadzenia remediacji solidarnie z innym sprawcą.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 3, decyzję, o której mowa w art. 101l ust. 4 i art. 101m ust. 1 pkt 2, kieruje się także do władającego powierzchnią ziemi.
+
+### Art. 101i.
+
+Regionalny dyrektor ochrony środowiska, w przypadku historycznego zanieczyszczenia powierzchni ziemi, przeprowadza remediację, jeżeli:
+
+### 1)
+
+nie można wszcząć wobec władającego powierzchnią ziemi postępowania egzekucyjnego dotyczącego obowiązku przeprowadzenia remediacji albo egzekucja okazała się bezskuteczna;
+
+### 2)
+
+władający powierzchnią ziemi wykaże, że zanieczyszczenie, dokonane po dniu objęcia przez niego władania, spowodował inny sprawca, wobec którego nie można wszcząć postępowania egzekucyjnego dotyczącego obowiązku przeprowadzenia remediacji, lub egzekucja okazała się bezskuteczna;
+
+### 3)
+
+władający powierzchnią ziemi dokonał zgłoszenia na podstawie art. 12 ustawy z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw ([Dz. U. Nr 100, poz. 1085](https://api.sejm.gov.pl/eli/acts/DU/2001/1085/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 143, poz. 1196, z 2003 r. Nr 7, poz. 78 i Nr 190, poz. 1865, z 2004 r. Nr 49, poz. 464, z 2005 r. Nr 113, poz. 954, z 2006 r. Nr 50, poz. 360 i Nr 133, poz. 935 oraz z 2014 r. poz. 1101.](#gloss-0:8:)) oraz starosta uwzględnił zgłoszenie w rejestrze zawierającym informacje o terenach, na których stwierdzono przekroczenie standardów jakości gleby lub ziemi, z wyszczególnieniem terenów, na których obowiązek rekultywacji obciążał starostę;
+
+### 4)
+
+z uwagi na zagrożenie dla zdrowia ludzi lub możliwość zaistnienia nieodwracalnych szkód w środowisku jest konieczne niezwłoczne jej przeprowadzenie.
+
+### Art. 101j.
+
+### 1.
+
+Regionalny dyrektor ochrony środowiska ustala harmonogram swoich zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi oraz co najmniej raz na 5 lat dokonuje jego aktualizacji.
+
+### 2.
+
+Harmonogram obejmuje:
+
+### 1)
+
+badania zanieczyszczenia gleby i ziemi na terenach, na których występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi;
+
+### 2)
+
+opracowywanie planów remediacji dla terenów, dla których potwierdzono historyczne zanieczyszczenie powierzchni ziemi;
+
+### 3)
+
+przeprowadzanie remediacji historycznych zanieczyszczeń powierzchni ziemi, o których mowa w art. 101i.
+
+### 3.
+
+Ustalając i aktualizując harmonogram uwzględnia się potrzebę przeprowadzenia w pierwszej kolejności remediacji terenów, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska oraz uwzględnia się możliwość finansowania zadań regionalnego dyrektora ochrony środowiska w kolejnych latach.
+
+### 4.
+
+W trakcie opracowywania lub aktualizacji harmonogramu regionalny dyrektor ochrony środowiska zasięga opinii Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej w zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
+
+### 5.
+
+Regionalny dyrektor ochrony środowiska opracowuje i przekazuje Generalnemu Dyrektorowi Ochrony Środowiska, co 5 lat, sprawozdanie z realizacji zadań objętych harmonogramem.
+
+### Art. 101k.
+
+### 1.
+
+Koszty remediacji obejmują koszty:
+
+### 1)
+
+badań zanieczyszczenia gleby i ziemi;
+
+### 2)
+
+opracowania projektu planu remediacji;
+
+### 3)
+
+przeprowadzenia remediacji.
+
+### 2.
+
+W przypadkach, o których mowa w art. 101i pkt 4, regionalny dyrektor ochrony środowiska nakłada, w drodze decyzji, na władającego powierzchnią ziemi obowiązek zwrotu poniesionych kosztów remediacji, określając w niej wysokość, sposób i termin ich uiszczenia.
+
+### 3.
+
+Jeżeli władający powierzchnią ziemi wykaże, że historyczne zanieczyszczenie powierzchni ziemi dokonane po dniu objęcia przez niego władania, której remediacja spowodowała poniesienie kosztów, o których mowa w ust. 1, spowodował inny sprawca, regionalny dyrektor ochrony środowiska nakłada, w drodze decyzji, obowiązek zwrotu tych kosztów na innego sprawcę, określając w niej wysokość, sposób i termin ich uiszczenia.
+
+### 4.
+
+Regionalny dyrektor ochrony środowiska może odstąpić od żądania zwrotu całości albo części kosztów remediacji, jeżeli:
+
+### 1)
+
+władający powierzchnią ziemi lub inny sprawca nie został zidentyfikowany lub nie można wszcząć wobec niego postępowania egzekucyjnego, lub egzekucja okazała się bezskuteczna;
+
+### 2)
+
+koszty postępowania egzekucyjnego są wyższe niż kwota możliwa do odzyskania.
+
+### 5.
+
+Roszczenia względem władającego powierzchnią ziemi lub innego sprawcy o zwrot kosztów remediacji przedawniają się z upływem 5 lat od dnia, w którym odpowiednio decyzja, o której mowa w ust. 2 albo 3, stała się ostateczna.
+
+### 6.
+
+Do należności z tytułu obowiązku zwrotu kosztów remediacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2012 r. poz. 749](https://api.sejm.gov.pl/eli/acts/DU/2012/749/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915.](#gloss-0:9:)), z tym że uprawnienia organów podatkowych przysługują regionalnemu dyrektorowi ochrony środowiska.
+
+### Art. 101l.
+
+### 1.
+
+Remediację historycznego zanieczyszczenia powierzchni ziemi przeprowadza się zgodnie z ustalonym planem remediacji.
+
+### 2.
+
+Władający powierzchnią ziemi lub inny sprawca, obowiązany do przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi, jest obowiązany do przedłożenia regionalnemu dyrektorowi ochrony środowiska wniosku o wydanie decyzji ustalającej plan remediacji, który zawiera projekt planu remediacji; do pisemnego wniosku dołącza się jego zapis w postaci elektronicznej na informatycznych nośnikach danych.
+
+### 3.
+
+Projekt planu remediacji zawiera informacje o:
+
+### 1)
+
+terenie wymagającym przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni;
+
+### 2)
+
+aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu;
+
+### 3)
+
+właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie;
+
+### 4)
+
+nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a;
+
+### 5)
+
+nazwach substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja;
+
+### 6)
+
+ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska;
+
+### 7)
+
+budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w pkt 6 - jeżeli zachodzi taka potrzeba;
+
+### 8)
+
+planowanym sposobie przeprowadzenia remediacji;
+
+### 9)
+
+planowanym terminie rozpoczęcia i zakończenia remediacji;
+
+### 10)
+
+sposobie potwierdzenia przeprowadzenia remediacji oraz terminie przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 4.
+
+Plan remediacji ustala regionalny dyrektor ochrony środowiska w drodze decyzji określającej:
+
+### 1)
+
+teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni;
+
+### 2)
+
+nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja;
+
+### 3)
+
+sposób przeprowadzenia remediacji;
+
+### 4)
+
+termin rozpoczęcia i zakończenia remediacji;
+
+### 5)
+
+sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 5.
+
+Regionalny dyrektor ochrony środowiska wydaje decyzję, o której mowa w ust. 4, po zasięgnięciu opinii dotyczącej projektu planu remediacji:
+
+### 1)
+
+państwowego wojewódzkiego inspektora sanitarnego - w odniesieniu do oceny występowania znaczącego zagrożenia dla zdrowia ludzi na danym terenie;
+
+### 2)
+
+państwowego powiatowego inspektora sanitarnego - w odniesieniu do zanieczyszczenia w ujęciach wody przeznaczonej do spożycia;
+
+### 3)
+
+dyrektora okręgowego urzędu górniczego - w odniesieniu do zanieczyszczenia spowodowanego ruchem zakładu górniczego;
+
+### 4)
+
+dyrektora regionalnej dyrekcji Lasów Państwowych - w odniesieniu do zanieczyszczenia na gruntach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;
+
+### 5)
+
+dyrektora parku narodowego - w odniesieniu do zanieczyszczenia na obszarze parku narodowego i jego otuliny;
+
+### 6)
+
+dyrektora regionalnego zarządu gospodarki wodnej - w odniesieniu do zanieczyszczenia w strefach ochronnych ujęć wody;
+
+### 7)
+
+starosty - w odniesieniu do zanieczyszczenia gruntów wykorzystywanych na cele rolne.
+
+### 6.
+
+Jeżeli zanieczyszczenie wystąpiło na terenie, do którego inny sprawca nie posiada tytułu prawnego, władający powierzchnią ziemi jest obowiązany umożliwić wykonanie badań zanieczyszczenia gleby i ziemi, a także przeprowadzenie remediacji zgodnie z planem remediacji ustalonym w drodze decyzji, o której mowa w ust. 4.
+
+### Art. 101m.
+
+### 1.
+
+W przypadku gdy władający powierzchnią ziemi lub inny sprawca nie przeprowadza remediacji, pomimo że zgodnie z art. 101h jest do tego obowiązany, regionalny dyrektor ochrony środowiska:
+
+### 1)
+
+wzywa go do przedłożenia wniosku, o którym mowa w art. 101l ust. 2, w wyznaczonym terminie;
+
+### 2)
+
+jeżeli nie przedłożył wniosku zgodnie z wezwaniem - nakłada na władającego powierzchnią ziemi lub innego sprawcę, w drodze decyzji, obowiązek przeprowadzenia remediacji na podstawie ustalonego przez regionalnego dyrektora ochrony środowiska planu remediacji.
+
+### 2.
+
+W decyzji, o której mowa w ust. 1 pkt 2, ustala się obowiązek zwrotu kosztów opracowania projektu planu remediacji, ich wysokość, sposób i termin uiszczenia oraz ustala się plan remediacji:
+
+### 1)
+
+zawierający informacje o:
+
+### a)
+
+aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
+
+### b)
+
+właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie,
+
+### c)
+
+nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a,
+
+### d)
+
+ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
+
+### e)
+
+budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d - jeżeli zachodzi taka potrzeba;
+
+### 2)
+
+określający:
+
+### a)
+
+teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
+
+### b)
+
+nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
+
+### c)
+
+sposób przeprowadzenia remediacji,
+
+### d)
+
+termin rozpoczęcia i zakończenia remediacji,
+
+### e)
+
+sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 3.
+
+Przy wydawaniu decyzji, o której mowa w ust. 1 pkt 2, stosuje się odpowiednio przepisy art. 101l ust. 5.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 1 pkt 2, nie stosuje się przepisów art. 362.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 1 pkt 2, opracowanie projektu planu remediacji regionalny dyrektor ochrony środowiska może zlecić wykonawcy, który ze względu na posiadane kompetencje, doświadczenie oraz warunki techniczne i organizacyjne będzie gwarantował należyte jego opracowanie.
+
+### 6.
+
+Do należności z tytułu obowiązku zwrotu kosztów opracowania projektu planu remediacji stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują regionalnemu dyrektorowi ochrony środowiska.
+
+### 7.
+
+Jeżeli zanieczyszczenie wystąpiło na terenie, do którego inny sprawca nie posiada tytułu prawnego, władający powierzchnią ziemi jest obowiązany umożliwić wykonanie badań zanieczyszczenia gleby i ziemi, a także przeprowadzenie remediacji zgodnie z planem remediacji ustalonym w decyzji, o której mowa w ust. 1 pkt 2.
+
+### Art. 101n.
+
+### 1.
+
+Regionalny dyrektor ochrony środowiska dokonuje oceny przeprowadzenia remediacji, która polega na stwierdzeniu zgodności remediacji z ustalonym planem remediacji.
+
+### 2.
+
+W przypadku gdy stwierdzono niezgodność przeprowadzonej remediacji z ustalonym planem remediacji, stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+### Art. 101o.
+
+### 1.
+
+Jeżeli regionalny dyrektor ochrony środowiska przeprowadza remediację, o której mowa w art. 101i, władający powierzchnią ziemi jest obowiązany umożliwić jej przeprowadzenie z zachowaniem warunków określonych w decyzji, o której mowa w ust. 2, a także umożliwić prowadzenie badań zanieczyszczenia gleby i ziemi.
+
+### 2.
+
+Regionalny dyrektor ochrony środowiska, w celu przeprowadzenia remediacji, określa, w drodze decyzji skierowanej do władającego powierzchnią ziemi, zakres udostępnienia przez niego powierzchni ziemi oraz ustala plan remediacji:
+
+### 1)
+
+zawierający informacje o:
+
+### a)
+
+aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
+
+### b)
+
+właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowie,
+
+### c)
+
+nazwach substancji powodujących ryzyko, wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a,
+
+### d)
+
+ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
+
+### e)
+
+budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d - jeżeli zachodzi taka potrzeba;
+
+### 2)
+
+określający:
+
+### a)
+
+teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
+
+### b)
+
+nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
+
+### c)
+
+sposób przeprowadzenia remediacji,
+
+### d)
+
+termin rozpoczęcia i zakończenia remediacji,
+
+### e)
+
+sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 3.
+
+Postępowanie w sprawie wydania decyzji, o której mowa w ust. 2, wszczyna się z urzędu.
+
+### 4.
+
+Przy wydawaniu decyzji, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 101l ust. 5.
+
+### 5.
+
+W przypadku, o którym mowa w art. 101i, opracowanie projektu planu remediacji lub przeprowadzenie remediacji regionalny dyrektor ochrony środowiska może zlecić wykonawcy, który ze względu na posiadane kompetencje, doświadczenie oraz warunki techniczne i organizacyjne będzie gwarantował odpowiednio należyte ich opracowanie lub przeprowadzenie.
+
+### Art. 101p.
+
+### 1.
+
+Dokonując oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, o której mowa w art. 101l ust. 3 pkt 6, art. 101m ust. 2 pkt 1 lit. d oraz art. 101o ust. 2 pkt 1 lit. d, uwzględnia się w szczególności:
+
+### 1)
+
+postać chemiczną, w jakiej występuje zanieczyszczenie i jego biodostępność;
+
+### 2)
+
+możliwość rozprzestrzeniania się zanieczyszczenia;
+
+### 3)
+
+potencjalne drogi narażenia, z uwzględnieniem rozprzestrzeniania się zanieczyszczeń w zależności od właściwości gleby, ukształtowania, budowy geologicznej i warunków hydrogeologicznych, a także pokrycia terenu;
+
+### 4)
+
+środowisko oraz ludzi, którzy mogliby ucierpieć w wyniku zanieczyszczenia;
+
+### 5)
+
+występowanie na terenie zanieczyszczonym i w jego okolicy zwłaszcza gruntów uprawnych, ogrodów, parków, placów zabaw, terenów sportowych, budynków mieszkalnych i użytkowych, form ochrony przyrody, zasobów wody pitnej i ujęć wody.
+
+### 2.
+
+Jeżeli ocena występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska wykaże, że nie występuje znaczące zagrożenie dla zdrowia ludzi lub stanu środowiska, regionalny dyrektor ochrony środowiska może zwolnić władającego powierzchnią ziemi lub innego sprawcę, w drodze decyzji, z obowiązku przeprowadzenia remediacji albo nie przeprowadzać remediacji, o której mowa w art. 101i.
+
+### 3.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw zdrowia, kierując się potrzebą ujednolicenia sposobu wykonywania oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, może określić, w drodze rozporządzenia, sposób wykonywania oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska oraz referencyjne metodyki modelowania rozprzestrzeniania substancji w glebie, ziemi i wodach gruntowych.
+
+### Art. 101q.
+
+### 1.
+
+Dopuszcza się następujące sposoby przeprowadzenia remediacji:
+
+### 1)
+
+usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko;
+
+### 2)
+
+inne, niż wskazany w pkt 1, prowadzące do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska, z uwzględnieniem obecnego i, o ile jest to możliwe, planowanego sposobu użytkowania terenu, takie jak:
+
+### a)
+
+zmniejszenie ilości zanieczyszczeń lub
+
+### b)
+
+ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń i kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie, lub
+
+### c)
+
+przeprowadzenie samooczyszczania powierzchni ziemi, ewentualne działania wspomagające samooczyszczanie, kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie, ewentualne ograniczenie dostępu ludzi do zanieczyszczonego terenu i ewentualna konieczność zmiany sposobu użytkowania zanieczyszczonego terenu.
+
+### 2.
+
+Przy planowaniu lub określaniu sposobu przeprowadzenia remediacji w pierwszej kolejności należy rozważyć usunięcie zanieczyszczenia, o którym mowa w ust. 1 pkt 1.
+
+### 3.
+
+Odstąpienie od usunięcia zanieczyszczenia, o którym mowa w ust. 1 pkt 1, i przeprowadzenie remediacji w sposób, o którym mowa w ust. 1 pkt 2, dopuszcza się, jeżeli:
+
+### 1)
+
+nie są znane technologie lub sposoby pozwalające na usunięcie zanieczyszczenia lub
+
+### 2)
+
+negatywne dla środowiska skutki działań prowadzonych w celu usunięcia zanieczyszczenia byłyby niewspółmiernie wysokie do korzyści osiągniętych w środowisku, lub
+
+### 3)
+
+koszty oczyszczania doprowadzające do usunięcia zanieczyszczenia byłyby nieproporcjonalnie wysokie w stosunku do korzyści osiągniętych w środowisku i zasadne jest przeprowadzenie remediacji w sposób, o którym mowa w ust. 1 pkt 2, co zostało wykazane w analizie kosztów i korzyści przeprowadzonej dla kilku wariantów sposobu przeprowadzenia remediacji, lub
+
+### 4)
+
+obowiązany do przeprowadzenia remediacji wykaże, że zanieczyszczenie nastąpiło przed dniem 1 września 1980 r.
+
+### Art. 101r.
+
+Zabrania się używania do prac ziemnych gleby lub ziemi, w tym używanych do tych prac osadów pochodzących z dna zbiorników powierzchniowych wód stojących lub wód płynących, jeżeli jest przekroczona w nich dopuszczalna zawartość substancji powodującej ryzyko, określona w przepisach wydanych na podstawie art. 101a ust. 5, dla gruntów występujących w miejscu użycia tej gleby lub ziemi.
+
+” ;
+
+### 13)
+
+uchyla się art. 103-105;
+
+### 14)
+
+uchyla się art. 109;
+
+### 15)
+
+art. 118c otrzymuje brzmienie:
+
+„
+
+### Art. 118c.
+
+Wielkość emisji hałasu wyznacza się i ocenia na podstawie pomiarów poziomu hałasu w środowisku.
+
+” ;
+
+### 16)
+
+w art. 135:
+
+### a)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Jeżeli obowiązek utworzenia obszaru ograniczonego użytkowania wynika z postępowania w sprawie oceny oddziaływania na środowisko, dla przedsięwzięcia polegającego na budowie drogi krajowej, o której mowa w ustawie z dnia 21 marca 1985 r. o drogach publicznych ([Dz. U. z 2013 r. poz. 260](https://api.sejm.gov.pl/eli/acts/DU/2013/260/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659.](#gloss-0:10:)) obszar ograniczonego użytkowania wyznacza się na podstawie analizy porealizacyjnej. W decyzji o zezwoleniu na realizację inwestycji drogowej nakłada się obowiązek sporządzenia analizy porealizacyjnej po upływie roku od dnia oddania obiektu do użytkowania i jej przedstawienia w terminie 18 miesięcy od dnia oddania obiektu do użytkowania.
+
+” ,
+
+### b)
+
+uchyla się ust. 5a i 5b;
+
+### 17)
+
+w art. 144 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Zastosowanie technologii spełniającej wymagania, o których mowa w art. 143, a także dotrzymanie standardów emisyjnych określonych w przepisach wydanych na podstawie art. 146 ust. 3 oraz w przepisach odrębnych, nie zwalnia z obowiązku zachowania standardów jakości środowiska.
+
+” ;
+
+### 18)
+
+art. 145 otrzymuje brzmienie:
+
+„
+
+### Art. 145.
+
+Prowadzący instalację oraz użytkownik urządzenia są obowiązani do:
+
+### 1)
+
+dotrzymywania standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 3 i 4, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. a, oraz stałych lub przejściowych odstępstw od standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. c;
+
+### 2)
+
+dotrzymywania standardów emisyjnych, o których mowa w przepisach wydanych na podstawie art. 169 ust. 3 pkt 3 lit. a;
+
+### 3)
+
+zapewnienia ich prawidłowej eksploatacji, polegającej w szczególności na:
+
+### a)
+
+stosowaniu paliw, surowców lub materiałów zapewniających ograniczanie ich negatywnego oddziaływania na środowisko,
+
+### b)
+
+podejmowaniu odpowiednich działań w przypadku powstania zakłóceń w procesach technologicznych i operacjach technicznych lub w pracy urządzeń ochronnych ograniczających emisję, w celu ograniczenia ich skutków dla środowiska;
+
+### 4)
+
+postępowania w sposób, o którym mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. e, w przypadku zakłóceń w pracy urządzeń ochronnych ograniczających emisję;
+
+### 5)
+
+wstrzymania podawania odpadów do spalania lub współspalania lub zatrzymania instalacji i urządzenia spalania lub współspalania odpadów, w przypadkach, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. f;
+
+### 6)
+
+stosowania paliw, surowców lub materiałów, w tym substancji lub mieszanin, zgodnie z wymaganiami lub ograniczeniami, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. g;
+
+### 7)
+
+stosowania rozwiązań technicznych, zgodnie z wymaganiami, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. h;
+
+### 8)
+
+przekazywania organowi właściwemu do wydania pozwolenia, wojewódzkiemu inspektorowi ochrony środowiska lub ministrowi właściwemu do spraw środowiska:
+
+### a)
+
+informacji o niedotrzymaniu standardów emisyjnych oraz o odstępstwach od standardów emisyjnych,
+
+### b)
+
+informacji lub danych dotyczących warunków lub wielkości emisji, a także działań zmierzających do ograniczenia emisji, w tym realizacji planu obniżenia emisji
+
+- w przypadkach, o których mowa w przepisach wydanych na podstawie art. 146 ust. 3 pkt 5 lit. i.
+
+” ;
+
+### 19)
+
+po art. 145 dodaje się art. 145a w brzmieniu:
+
+„
+
+### Art. 145a.
+
+### 1.
+
+Organ właściwy do wydania pozwolenia, który otrzymał informacje lub dane zgodnie z przepisami wydanymi na podstawie art. 146 ust. 3 pkt 5 lit. i, albo deklaracje, dokumenty lub dane, o których mowa w art. 146a ust. 1 lub 146b ust. 1 i 3, przekazuje niezwłocznie te informacje, dane, deklaracje lub dokumenty wojewódzkiemu inspektorowi ochrony środowiska oraz ministrowi właściwemu do spraw środowiska.
+
+### 2.
+
+Wojewódzki inspektor ochrony środowiska, który otrzymał od użytkownika urządzenia informacje lub dane w trybie art. 146 ust. 3 pkt 5 lit. i, przekazuje niezwłocznie te informacje lub dane ministrowi właściwemu do spraw środowiska.
+
+” ;
+
+### 20)
+
+art. 146 otrzymuje brzmienie:
+
+„
+
+### Art. 146.
+
+### 1.
+
+Standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza ustala się dla niektórych rodzajów instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów, odpowiednio jako:
+
+### 1)
+
+stężenie gazów lub pyłów w gazach odlotowych lub
+
+### 2)
+
+masa gazów lub pyłów wprowadzana w określonym czasie, lub
+
+### 3)
+
+stosunek masy gazów lub pyłów do jednostki wykorzystywanego surowca, materiału, paliwa lub powstającego produktu.
+
+### 2.
+
+Standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza mogą zostać zróżnicowane w zależności od:
+
+### 1)
+
+rodzaju lub skali działalności, procesu technologicznego lub operacji technicznej, terminu wydania pozwolenia na budowę lub pozwolenia na użytkowanie, terminu złożenia wniosku o wydanie pozwolenia na budowę lub pozwolenia na użytkowanie, terminu oddania do użytkowania lub zakończenia użytkowania, terminu dalszego łącznego czasu użytkowania - w przypadku instalacji i źródeł spalania paliw;
+
+### 2)
+
+skali działalności lub roku produkcji - w przypadku urządzeń spalania lub współspalania odpadów.
+
+### 3.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki, mając na uwadze potrzebę ograniczenia negatywnego oddziaływania na środowisko niektórych rodzajów instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów, w związku z wprowadzaniem gazów lub pyłów do powietrza, oraz mając na uwadze przepisy prawa Unii Europejskiej określające dopuszczalne wielkości emisji substancji do powietrza ze źródeł spalania paliw, instalacji i urządzeń spalania lub współspalania odpadów, instalacji przetwarzania azbestu lub produktów zawierających azbest, instalacji do produkcji dwutlenku tytanu, instalacji, w których używane są rozpuszczalniki organiczne i z urządzeń spalania lub współspalania odpadów, określi, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje instalacji, dla których określa się standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza;
+
+### 2)
+
+rodzaje źródeł spalania paliw, dla których określa się standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza;
+
+### 3)
+
+standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza dla instalacji i źródeł spalania paliw, o których mowa w pkt 1 i 2;
+
+### 4)
+
+standardy emisyjne w zakresie wprowadzania gazów lub pyłów do powietrza dla urządzeń spalania lub współspalania odpadów;
+
+### 5)
+
+dla niektórych z rodzajów instalacji i źródeł spalania paliw oraz dla urządzeń spalania lub współspalania odpadów:
+
+### a)
+
+warunki uznawania standardów emisyjnych za dotrzymane, w tym stopień odsiarczania, lub
+
+### b)
+
+sposób sprawdzania dotrzymywania standardów emisyjnych, lub
+
+### c)
+
+stałe lub przejściowe odstępstwa od standardów emisyjnych, lub
+
+### d)
+
+warunki odstępstw, granice odstępstw lub warunki zastosowania planu obniżenia emisji, lub
+
+### e)
+
+sposoby postępowania w przypadku zakłóceń w pracy urządzeń ochronnych ograniczających emisję, lub
+
+### f)
+
+przypadki, w których jest wymagane wstrzymanie podawania odpadów do spalania lub współspalania lub zatrzymanie instalacji i urządzenia spalania lub współspalania odpadów, lub
+
+### g)
+
+wymagania lub ograniczenia w zakresie stosowania paliw, surowców lub materiałów, w tym substancji lub mieszanin, o określonych właściwościach, cechach lub parametrach, lub
+
+### h)
+
+wymagania w zakresie stosowania określonych rozwiązań technicznych zapewniających ograniczanie emisji, lub
+
+### i)
+
+przypadki, w których prowadzący instalacje lub użytkownik urządzenia spalania lub współspalania odpadów przekazuje organowi właściwemu do wydania pozwolenia, wojewódzkiemu inspektorowi ochrony środowiska lub ministrowi właściwemu do spraw środowiska:
+
+- - informacje o niedotrzymaniu standardów emisyjnych oraz o odstępstwach od standardów emisyjnych,
+
+- - informacje lub dane dotyczące warunków lub wielkości emisji, a także działań zmierzających do ograniczenia emisji, w tym realizacji planu obniżenia emisji, lub
+
+### j)
+
+termin i formę przekazania informacji lub danych, o których mowa w lit. i.
+
+” ;
+
+### 21)
+
+po art. 146 dodaje się art. 146a-146i w brzmieniu:
+
+„
+
+### Art. 146a.
+
+### 1.
+
+Dla źródła spalania paliw, w przypadku którego prowadzący instalację złożył organowi właściwemu do wydania pozwolenia, w terminie do dnia 1 stycznia 2014 r., pisemną deklarację, że źródło będzie użytkowane nie dłużej niż do dnia 31 grudnia 2023 r., a czas użytkowania źródła, w okresie od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2023 r., nie przekroczy 17 500 godzin, jeżeli spełnia ono następujące warunki:
+
+### 1)
+
+pozwolenie na budowę źródła wydano przed dniem 7 stycznia 2013 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródło zostało oddane do użytkowania nie później niż w dniu 7 stycznia 2014 r.,
+
+### 2)
+
+całkowita nominalna moc cieplna źródła, ustalona z uwzględnieniem pierwszej i drugiej zasady łączenia, jest nie mniejsza niż 50 MW,
+
+### 3)
+
+źródło ani żadna z jego części, które będą eksploatowane po dniu 31 grudnia 2015 r., nie zostały zgłoszone, do dnia 30 czerwca 2004 r., w pisemnej deklaracji złożonej organowi właściwemu do wydania pozwolenia, jako źródło, które będzie użytkowane nie dłużej niż do dnia 31 grudnia 2015 r., i którego czas użytkowania w okresie od dnia 1 stycznia 2008 r. do dnia 31 grudnia 2015 r. nie przekroczy 20 000 godzin
+
+- obowiązują - w okresie od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2023 r. lub w okresie krótszym, jeżeli limit czasu użytkowania źródła wynoszący 17 500 godzin zostanie wykorzystany przed dniem 31 grudnia 2023 r. - wielkości dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, wielkości dopuszczalnej emisji pyłu i wielkości dopuszczalnej emisji dwutlenku siarki lub stopnie odsiarczania, które zostały określone w pozwoleniu zintegrowanym jako obowiązujące w dniu 31 grudnia 2015 r.
+
+### 2.
+
+Czas użytkowania 17 500 godzin, o którym mowa w ust. 1, wynosi 32 000 godzin, w przypadku źródła spalania paliw o całkowitej nominalnej mocy cieplnej większej niż 1500 MW, ustalonej z uwzględnieniem pierwszej zasady łączenia, którego użytkowanie rozpoczęto przed dniem 31 grudnia 1986 r. i które jest opalane lokalnymi paliwami stałymi o wartości opałowej poniżej 5800 kJ/kg, zawartości wilgoci powyżej 45% wagowo, połączonej zawartości wilgoci i popiołu powyżej 60% wagowo i zawartości tlenku wapnia w popiele powyżej 10%.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 1, dla źródła spalania paliw o całkowitej nominalnej mocy cieplnej większej niż 500 MW, ustalonej z uwzględnieniem pierwszej i drugiej zasady łączenia, opalanego paliwem stałym, dla którego pierwsze pozwolenie na budowę wydano po dniu 1 lipca 1987 r., wielkość dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu w okresie od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2023 r. nie może być wyższa niż 200 mg/m3u.
+
+### 4.
+
+Jeżeli źródło spalania paliw, o którym mowa w ust. 1 i 2, lub część tego źródła, będą eksploatowane po dniu 31 grudnia 2023 r. lub po dniu, w którym wykorzystany zostanie limit czasu użytkowania odpowiednio 17 500 albo 32 000 godzin, to przy określaniu wielkości dopuszczalnej emisji na okres po tych dniach źródło to uznaje się za źródło oddane do użytkowania po dniu 7 stycznia 2014 r.
+
+### Art. 146b.
+
+### 1.
+
+Dla źródła spalania paliw, w przypadku którego prowadzący instalację złożył organowi właściwemu do wydania pozwolenia, w terminie do dnia 30 czerwca 2015 r., dokumenty potwierdzające spełnianie przez źródło spalania paliw następujących warunków:
+
+### 1)
+
+pierwsze pozwolenie na budowę źródła wydano przed dniem 27 listopada 2002 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródło zostało oddane do użytkowania nie później niż w dniu 27 listopada 2003 r.,
+
+### 2)
+
+całkowita nominalna moc cieplna, ustalona z uwzględnieniem pierwszej i drugiej zasady łączenia, jest nie mniejsza niż 50 MW i nie większa niż 200 MW,
+
+### 3)
+
+co najmniej 50% produkcji ciepła użytkowego wytwarzanego w tym źródle, stanowi ciepło dostarczone do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody
+
+- obowiązują - w okresie od dnia 1 stycznia 2016 r. do czasu spełniania warunków, o których mowa w pkt 2 i 3, jednak nie dłużej niż do dnia 31 grudnia 2022 r. - wielkości dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, wielkości dopuszczalnej emisji pyłu i wielkości dopuszczalnej emisji dwutlenku siarki lub stopnie odsiarczania, które zostały określone w pozwoleniu zintegrowanym jako obowiązujące w dniu 31 grudnia 2015 r.
+
+### 2.
+
+Dokumenty potwierdzające spełnianie warunków, o których mowa w ust. 1, zawierają informacje lub dane dotyczące w szczególności:
+
+### 1)
+
+całkowitej nominalnej mocy cieplnej źródła spalania paliw;
+
+### 2)
+
+obowiązujących standardów emisyjnych lub stopni odsiarczania;
+
+### 3)
+
+określonych w pozwoleniu zintegrowanym wielkości dopuszczalnych emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, pyłu i dwutlenku siarki lub stopni odsiarczania;
+
+### 4)
+
+rodzaju stosowanego paliwa;
+
+### 5)
+
+udziału ciepła dostarczonego do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody w produkcji ciepła użytkowego wytwarzanego w źródle spalania paliw, wyrażonego w procentach.
+
+### 3.
+
+Prowadzący instalację, o którym mowa w ust. 1, przekazuje organowi właściwemu do wydania pozwolenia, w terminie do końca lutego każdego roku, dane dotyczące udziału ciepła dostarczonego do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody w produkcji ciepła użytkowego wytwarzanego w źródle spalania paliw, wyrażonego w procentach.
+
+### Art. 146c.
+
+### 1.
+
+Dla źródła spalania paliw, w przypadku którego prowadzący instalację wystąpił w 2012 r. do ministra właściwego do spraw środowiska, z wnioskiem o objęcie Przejściowym Planem Krajowym, które zostało uwzględnione w wykazie, o którym mowa w przepisach wydanych na podstawie art. 146h, i które spełnia następujące warunki:
+
+### 1)
+
+pierwsze pozwolenie na budowę źródła wydano przed dniem 27 listopada 2002 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródło zostało oddane do użytkowania nie później niż w dniu 27 listopada 2003 r.,
+
+### 2)
+
+całkowita nominalna moc cieplna źródła, ustalona z uwzględnieniem pierwszej i drugiej zasady łączenia, jest nie mniejsza niż 50 MW,
+
+### 3)
+
+źródło ani żadna z jego części, które będą eksploatowane po dniu 31 grudnia 2015 r., nie zostały zgłoszone, do dnia 30 czerwca 2004 r., w pisemnej deklaracji złożonej organowi właściwemu do wydania pozwolenia, jako źródło, które będzie użytkowane nie dłużej niż do dnia 31 grudnia 2015 r., i którego czas użytkowania w okresie od dnia 1 stycznia 2008 r. do dnia 31 grudnia 2015 r. nie przekroczy 20 000 godzin,
+
+### 4)
+
+nie będą w nim współspalane odpady po dniu 31 grudnia 2015 r.,
+
+### 5)
+
+źródło nie jest opalane gazami o niskiej wartości opałowej pozyskiwanymi z pozostałości po procesach zgazowania lub rafinacji albo z pozostałości po destylacji i konwersji w procesie rafinacji ropy naftowej - jeżeli jest eksploatowane w rafinerii ropy naftowej
+
+- obowiązują - w okresie od dnia 1 stycznia 2016 r. do dnia spełniania warunków, o których mowa w pkt 2-5, jednak nie dłużej niż do dnia 30 czerwca 2020 r. - w odniesieniu do substancji, ze względu na które źródło zostało objęte Przejściowym Planem Krajowym, wielkości dopuszczalnej emisji lub stopnie odsiarczania, które zostały określone w pozwoleniu zintegrowanym jako obowiązujące w dniu 31 grudnia 2015 r.
+
+### 2.
+
+W przypadku, o którym mowa w ust. 1, dla źródła spalania paliw o całkowitej nominalnej mocy cieplnej większej niż 500 MW, ustalonej z uwzględnieniem pierwszej i drugiej zasady łączenia, opalanego paliwem stałym, dla którego pierwsze pozwolenie na budowę wydano po dniu 1 lipca 1987 r., wielkość dopuszczalnej emisji tlenku azotu i dwutlenku azotu w przeliczeniu na dwutlenek azotu, w okresie od dnia 1 stycznia 2016 r. do dnia 30 czerwca 2020 r., nie może być wyższa niż 200 mg/m3u.
+
+### Art. 146d.
+
+Do źródeł spalania paliw określonych w przepisach wydanych na podstawie art. 146h nie stosuje się przepisów art. 146a i art. 146b.
+
+### Art. 146e.
+
+Prowadzący instalację może cofnąć wniosek, o którym mowa w art. 146c ust. 1; o cofnięciu wniosku prowadzący instalację informuje ministra właściwego do spraw środowiska oraz organ właściwy do wydania pozwolenia.
+
+### Art. 146f.
+
+### 1.
+
+Projekt Przejściowego Planu Krajowego jest opracowywany przez ministra właściwego do spraw środowiska, przyjmowany w drodze uchwały Rady Ministrów i przedkładany do zaakceptowania przez Komisję Europejską.
+
+### 2.
+
+Po zaakceptowaniu projektu Przejściowego Planu Krajowego przez Komisję Europejską, Rada Ministrów przyjmuje w drodze uchwały Przejściowy Plan Krajowy.
+
+### 3.
+
+Przejściowy Plan Krajowy obejmuje okres od dnia 1 stycznia 2016 r. do dnia 30 czerwca 2020 r.
+
+### 4.
+
+Przejściowy Plan Krajowy zawiera:
+
+### 1)
+
+wykaz źródeł spalania paliw wraz z danymi dotyczącymi ich parametrów eksploatacyjnych;
+
+### 2)
+
+maksymalne emisje substancji dla źródła spalania paliw - roczne dla lat 2016-2019 i na pierwsze półrocze 2020 r.;
+
+### 3)
+
+łączne maksymalne emisje substancji dla wszystkich źródeł spalania paliw - roczne dla lat 2016-2019 i na pierwsze półrocze 2020 r.;
+
+### 4)
+
+działania, które prowadzący instalację ma zrealizować w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w pkt 2;
+
+### 5)
+
+sposób monitorowania realizacji Przejściowego Planu Krajowego i sprawozdawania do Komisji Europejskiej.
+
+### Art. 146g.
+
+Prowadzący instalację spalania paliw, której częścią jest źródło spalania paliw, uwzględnione w wykazie, o którym mowa w art. 146h pkt 1, jest obowiązany do:
+
+### 1)
+
+dotrzymywania maksymalnych emisji substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 2, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w przepisach wydanych na podstawie art. 146h pkt 4;
+
+### 2)
+
+realizacji działań w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 5;
+
+### 3)
+
+przekazywania organowi właściwemu do wydania pozwolenia i ministrowi właściwemu do spraw środowiska:
+
+### a)
+
+w terminie do końca miesiąca po upływie każdego kwartału - aktualizowanej co kwartał informacji o wielkości emisji substancji, dla których dla danego źródła spalania paliw są określone maksymalne emisje substancji, o których mowa w przepisach wydanych na podstawie art. 146h pkt 2,
+
+### b)
+
+w terminie dwóch miesięcy po upływie każdego roku - informacji o realizacji działań, o których mowa w pkt 2,
+
+### c)
+
+informacji o każdej planowanej zmianie dotyczącej źródła spalania paliw, o którym mowa w przepisach wydanych na podstawie art. 146h, która może mieć wpływ na zmianę wielkości emisji substancji z tego źródła, w szczególności o planowanym wyłączeniu źródła spalania paliw z eksploatacji oraz o rozpoczęciu współspalania odpadów w źródle spalania paliw;
+
+### 4)
+
+przestrzegania wymagań, o których mowa w art. 146i.
+
+### Art. 146h.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki, mając na uwadze art. 146f ust. 2, przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych oraz cofnięte wnioski prowadzących instalacje, o których mowa w art. 146e, określi, w drodze rozporządzenia:
+
+### 1)
+
+wykaz źródeł spalania paliw wraz z danymi dotyczącymi ich parametrów eksploatacyjnych;
+
+### 2)
+
+maksymalne emisje substancji dla źródła spalania paliw na okres, o którym mowa w art. 146f ust. 3 - roczne dla lat 2016-2019 i na pierwsze półrocze 2020 r.;
+
+### 3)
+
+łączne maksymalne emisje substancji dla wszystkich źródeł spalania paliw na okres, o którym mowa w art. 146f ust. 3 - roczne dla lat 2016-2019 i na pierwsze półrocze 2020 r.;
+
+### 4)
+
+warunki uznawania za dotrzymane maksymalnych emisji substancji, o których mowa w pkt 2;
+
+### 5)
+
+działania, które prowadzący instalację ma zrealizować w celu nieprzekraczania maksymalnych emisji substancji, o których mowa w pkt 2.
+
+### Art. 146i.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki, mając na uwadze art. 146f ust. 2 oraz przepisy prawa Unii Europejskiej w sprawie emisji przemysłowych, może określić, w drodze rozporządzenia, inne wymagania istotne dla realizacji Przejściowego Planu Krajowego.
+
+” ;
+
+### 22)
+
+w art. 147a:
+
+### a)
+
+w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Prowadzący instalację oraz użytkownik urządzenia są obowiązani zapewnić wykonanie pomiarów wielkości emisji lub innych warunków korzystania ze środowiska, w tym pobieranie próbek przez: ” ,
+
+### b)
+
+ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Prowadzący instalację oraz użytkownik urządzenia, posiadający certyfikat systemu zarządzania jakością, mogą wykonywać pomiary wielkości emisji lub innych warunków korzystania ze środowiska, do których wykonania są obowiązani, w tym pobieranie próbek, we własnym laboratorium, pod warunkiem że laboratorium to jest również objęte systemem zarządzania jakością lub jest zapewniony automatyczny pobór prób przy użyciu próbobierni objętej nadzorem metrologicznym.
+
+” ;
+
+### 23)
+
+w art. 148 ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wymagania w zakresie prowadzenia pomiarów wielkości emisji, o których mowa w art. 147 ust. 1 i 2, oraz pomiarów ilości pobieranej wody, o których mowa w art. 147 ust. 1, mając na uwadze potrzebę zapewnienia systematycznej kontroli wielkości emisji z niektórych instalacji, źródeł spalania paliw oraz urządzeń spalania lub współspalania odpadów i kontroli ilości pobieranej wody.
+
+### 2.
+
+W rozporządzeniu, o którym mowa w ust. 1, zostaną ustalone:
+
+### 1)
+
+przypadki, w których są wymagane ciągłe pomiary emisji z instalacji, źródła spalania paliw albo z urządzenia spalania lub współspalania odpadów;
+
+### 2)
+
+przypadki, w których są wymagane okresowe pomiary emisji z instalacji, źródła spalania paliw albo z urządzenia spalania lub współspalania odpadów, oraz częstotliwości prowadzenia tych pomiarów;
+
+### 3)
+
+zakres wykonywania niektórych pomiarów;
+
+### 4)
+
+referencyjne metodyki wykonywania pomiarów;
+
+### 5)
+
+sposób ewidencjonowania przeprowadzonych pomiarów.
+
+” ;
+
+### 24)
+
+w art. 150 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ ochrony środowiska może, w drodze decyzji, nałożyć na prowadzącego instalację lub użytkownika urządzenia obowiązek prowadzenia w określonym czasie pomiarów wielkości emisji wykraczających poza obowiązki, o których mowa w art. 147 ust. 1, 2 i 4, jeżeli z przeprowadzonej kontroli wynika, że nastąpiło przekroczenie standardów emisyjnych; do wyników przeprowadzonych pomiarów stosuje się odpowiednio przepis art. 147 ust. 6.
+
+” ;
+
+### 25)
+
+w art. 152 ust. 6-7a otrzymują brzmienie:
+
+„
+
+### 6.
+
+Prowadzący instalację, o której mowa w ust. 1, jest obowiązany:
+
+### 1)
+
+przedłożyć organowi właściwemu do przyjęcia zgłoszenia informacje o:
+
+### a)
+
+rezygnacji z rozpoczęcia eksploatacji instalacji,
+
+### b)
+
+zakończeniu eksploatacji instalacji,
+
+### c)
+
+zmianie w zakresie danych lub informacji, o których mowa w ust. 2;
+
+### 2)
+
+dokonać ponownego zgłoszenia instalacji, jeżeli zmiana wprowadzona w instalacji ma charakter istotnej zmiany.
+
+### 7.
+
+Informacje, o których mowa w ust. 6 pkt 1, należy przedłożyć w terminie 14 dni odpowiednio od dnia:
+
+### 1)
+
+rezygnacji z rozpoczęcia eksploatacji instalacji;
+
+### 2)
+
+zakończenia eksploatacji instalacji;
+
+### 3)
+
+zmiany w zakresie danych lub informacji, o których mowa w ust. 2.
+
+### 7a.
+
+Informacje zawarte w zgłoszeniu, o którym mowa w ust. 1 i w ust. 6 pkt 2, oraz informacje, o których mowa w ust. 6 pkt 1, prowadzący instalację, objętą obowiązkiem zgłoszenia z uwagi na wytwarzanie pól elektromagnetycznych, przedkłada także państwowemu wojewódzkiemu inspektorowi sanitarnemu.
+
+” ;
+
+### 26)
+
+w art. 153 w ust. 2 uchyla się pkt 3;
+
+### 27)
+
+w tytule III w dziale II w rozdziale 1 po art. 157 dodaje się art. 157a w brzmieniu:
+
+„
+
+### Art. 157a.
+
+### 1.
+
+Ilekroć w niniejszym rozdziale jest mowa o:
+
+### 1)
+
+cieple użytkowym - rozumie się przez to ilość ciepła wytwarzanego w źródle spalania paliw obejmującą ciepło zużywane w zakładzie, w którym jest zlokalizowane źródło spalania paliw, na cele grzewcze lub przemysłowe niezwiązane z produkcją energii elektrycznej i ciepła oraz ciepło przeznaczone dla odbiorców zewnętrznych na cele grzewcze lub przemysłowe;
+
+### 2)
+
+cieple dostarczanym do publicznej sieci ciepłowniczej - rozumie się przez to tę część ciepła użytkowego, która jest przekazywana poza teren zakładu, w którym jest zlokalizowane źródło spalania paliw, z wyjątkiem ciepła, które jest dostarczane do innych zakładów mających bezpośrednie połączenie ze źródłem spalania paliw;
+
+### 3)
+
+czasie użytkowania źródła spalania paliw - rozumie się przez to wyrażony w godzinach czas, w którym pracuje źródło spalania paliw lub część źródła spalania paliw, odprowadzając substancje do powietrza, z wyłączeniem okresów rozruchu i wyłączania, które są ustalane z uwzględnieniem specyficznych procesów oraz parametrów operacyjnych pozwalających na określenie momentu zakończenia rozruchu i rozpoczęcia wyłączania źródła spalania paliw oraz decyzji wykonawczej Komisji z dnia 7 maja 2012 r. dotyczącej określenia okresów rozruchu i wyłączania do celów dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych ([Dz. Urz. UE L 123 z 09.05.2012, str. 44](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 4)
+
+lokalnych paliwach stałych - rozumie się przez to naturalnie występujące paliwa stałe wydobywane lokalnie i spalane w źródle spalania paliw specjalnie zaprojektowanym dla tego rodzaju paliw;
+
+### 5)
+
+nominalnej mocy cieplnej - rozumie się przez to ilość energii wprowadzanej w paliwie do źródła spalania paliw w jednostce czasu przy jego nominalnym obciążeniu;
+
+### 6)
+
+stopniu odsiarczania - rozumie się przez to wyrażony w procentach stosunek różnicy między masą siarki zawartej w paliwie wprowadzonym do źródła spalania paliw w określonym czasie a masą siarki zawartej w gazach odlotowych odprowadzonych do powietrza w tym czasie do masy siarki zawartej w paliwie wprowadzonym do źródła spalania paliw w tym czasie;
+
+### 7)
+
+źródle spalania paliw - rozumie się przez to część instalacji spalania paliw będącą stacjonarnym urządzeniem technicznym, w którym następuje utlenianie paliw w celu wytworzenia energii.
+
+### 2.
+
+Źródłem spalania paliw jest także zespół dwóch lub większej liczby źródeł spalania paliw, o których mowa w ust. 1 pkt 7, w przypadkach gdy:
+
+### 1)
+
+gazy odlotowe z tych źródeł spalania paliw są odprowadzane do powietrza przez wspólny komin i całkowita nominalna moc cieplna jest nie mniejsza niż 50 MW; w takim przypadku zespół źródeł spalania paliw uważa się za jedno źródło spalania paliw złożone z dwóch lub większej liczby części, którego całkowita nominalna moc cieplna stanowi sumę nominalnych mocy cieplnych tych części źródła spalania paliw, których nominalna moc cieplna jest nie mniejsza niż 15 MW (pierwsza zasada łączenia);
+
+### 2)
+
+dwa lub więcej źródeł spalania paliw, dla których pierwsze pozwolenie na budowę wydano po dniu 30 czerwca 1987 r., lub dla których wniosek o wydanie takiego pozwolenia został złożony po tym dniu, i dla których całkowita nominalna moc cieplna jest nie mniejsza niż 50 MW, zostały zainstalowane w taki sposób, że uwzględniając parametry techniczne i czynniki ekonomiczne, ich gazy odlotowe mogłyby być, w ocenie organu właściwego do wydania pozwolenia, odprowadzane przez wspólny komin; w takim przypadku zespół źródeł spalania paliw uważa się za jedno źródło spalania paliw złożone z dwóch lub większej liczby części, którego całkowita nominalna moc cieplna stanowi sumę nominalnych mocy cieplnych tych części źródła spalania paliw, których nominalna moc cieplna jest nie mniejsza niż 15 MW (druga zasada łączenia).
+
+” ;
+
+### 28)
+
+po art. 168 dodaje się art. 168a w brzmieniu:
+
+„
+
+### Art. 168a.
+
+### 1.
+
+Kontrolę spełniania przez zawierające lotne związki organiczne - farby i lakiery przeznaczone do malowania budynków i ich elementów wykończeniowych, wyposażeniowych oraz związanych z budynkami i tymi elementami konstrukcji oraz mieszaniny do odnawiania pojazdów, o których mowa w przepisach wydanych na podstawie art. 169 ust. 1 pkt 3, wymagań określonych w tych przepisach, prowadzą:
+
+### 1)
+
+właściwe organy Inspekcji Ochrony Środowiska - u producentów i użytkowników tych produktów;
+
+### 2)
+
+właściwe organy Inspekcji Handlowej - u importerów oraz sprzedawców hurtowych i detalicznych tych produktów;
+
+### 3)
+
+właściwe organy nadzoru budowlanego - w zakresie produktów, które są wyrobami budowlanymi.
+
+### 2.
+
+Kontrola jest realizowana w ramach Programu Kontroli.
+
+### 3.
+
+Organy, o których mowa w ust. 1, przekazują informacje i dane o wynikach kontroli odpowiednio do Głównego Inspektora Ochrony Środowiska, Prezesa Urzędu Ochrony Konkurencji i Konsumentów i Głównego Inspektora Nadzoru Budowlanego, niezwłocznie po zakończeniu kontroli.
+
+### 4.
+
+Główny Inspektor Ochrony Środowiska, Prezes Urzędu Ochrony Konkurencji i Konsumentów i Główny Inspektor Nadzoru Budowlanego przekazują informacje i dane otrzymane od organów, o których mowa w ust. 1, do ministra właściwego do spraw środowiska, w terminie do końca marca roku następującego po roku, którego te informacje i dane dotyczą.
+
+” ;
+
+### 29)
+
+w art. 169:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw środowiska, mając na uwadze osiągnięcie celów, o których mowa w art. 166, określi, w drodze rozporządzenia:
+
+### 1)
+
+oznaczenie numeryczne lub cechy produktów pozwalające na identyfikację produktu lub grupy produktów lub ich nazwy;
+
+### 2)
+
+szczegółowe wymagania dla poszczególnych produktów lub grup produktów;
+
+### 3)
+
+dla zawierających lotne związki organiczne - niektórych farb i lakierów przeznaczonych do malowania budynków i ich elementów wykończeniowych, wyposażeniowych oraz związanych z budynkami i tymi elementami konstrukcji oraz mieszanin do odnawiania pojazdów:
+
+### a)
+
+dopuszczalne wartości maksymalnej zawartości lotnych związków organicznych w tych produktach, które warunkują dopuszczenie wprowadzania ich do obrotu,
+
+### b)
+
+zakres informacji zamieszczanych na etykietach tych produktów,
+
+### c)
+
+metody badań, zgodnie z którymi należy określać maksymalną zawartość lotnych związków organicznych w produktach,
+
+### d)
+
+Program Kontroli, o którym mowa w art. 168a ust. 2 zawierający:
+
+- - sposób i częstotliwość sprawdzania przestrzegania wymagań, o których mowa w lit. a i b,
+
+- - kryteria wyboru podmiotów objętych kontrolą w danym roku,
+
+- - sposób przekazywania informacji i danych o wynikach kontroli, o której mowa w art. 168a ust. 3, oraz informacji i danych, o których mowa w art. 168a ust. 4.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Przepisu ust. 3 pkt 3 lit. a nie stosuje się do urządzeń spalania lub współspalania odpadów, dla których standardy emisyjne są określone w przepisach wydanych na podstawie art. 146 ust. 3.
+
+” ;
+
+### 30)
+
+w art. 175 ust. 5a otrzymuje brzmienie:
+
+„
+
+### 5a.
+
+Do pomiarów, o których mowa w ust. 1-3, w tym pobierania próbek, stosuje się odpowiednio przepisy art. 147a.
+
+” ;
+
+### 31)
+
+w art. 178 ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Do pomiarów, o których mowa w ust. 1-3, w tym pobierania próbek, stosuje się odpowiednio przepisy art. 147a.
+
+” ;
+
+### 32)
+
+w art. 181 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Do pozwoleń wodnoprawnych na wprowadzanie ścieków do wód lub do ziemi stosuje się odpowiednio przepisy art. 187, art. 188 ust. 3 pkt 2 i ust. 4, art. 189, art. 193 ust. 2 i art. 198.
+
+” ;
+
+### 33)
+
+w art. 183 dodaje się ust. 3 w brzmieniu:
+
+„
+
+### 3.
+
+Ostateczne decyzje, o których mowa w ust. 1 i 2, organ ochrony środowiska przekazuje niezwłocznie wojewódzkiemu inspektorowi ochrony środowiska.
+
+” ;
+
+### 34)
+
+w tytule III w dziale IV w rozdziale 1 po art. 183a dodaje się art. 183b w brzmieniu:
+
+„
+
+### Art. 183b.
+
+### 1.
+
+Na wniosek prowadzących oznaczone części instalacji, oznaczone części instalacji można objąć jednym pozwoleniem.
+
+### 2.
+
+Prowadzący oznaczone części instalacji, o których mowa w ust. 1, występują ze wspólnym wnioskiem o udzielenie pozwolenia, wskazując jeden z tych podmiotów jako głównego prowadzącego lub określając szczegółowo zakres odpowiedzialności poszczególnych podmiotów za eksploatację instalacji zgodnie z przepisami ochrony środowiska.
+
+” ;
+
+### 35)
+
+w art. 184:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Pozwolenie wydaje się, z zastrzeżeniem art. 183b, art. 189, art. 191a i art. 217, na wniosek prowadzącego instalację.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) oznaczenie głównego prowadzącego instalację lub określenie zakresu odpowiedzialności poszczególnych prowadzących oznaczone części instalacji za eksploatację instalacji zgodnie z przepisami ochrony środowiska, w przypadku określonym w art. 183b; ” ,
+
+- - po pkt 10 dodaje się pkt 10a w brzmieniu: „ 10a) warunki lub parametry charakteryzujące pracę instalacji, określające moment zakończenia rozruchu i moment rozpoczęcia wyłączania instalacji; ” ,
+
+### c)
+
+w ust. 4 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+kopię wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, wraz z kopią załączników, o ile taka decyzja była wymagana, albo kopię takiej decyzji, jeżeli została wydana, w przypadku, o którym mowa w ust. 3.
+
+” ;
+
+### 36)
+
+w art. 185 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+W postępowaniu o wydanie pozwolenia zintegrowanego dla nowo zbudowanej instalacji, o wydanie pozwolenia zintegrowanego z odstępstwem, o którym mowa w art. 204 ust. 2 lub w postępowaniu dotyczącym jego zmiany polegającej na udzieleniu takiego odstępstwa oraz w postępowaniu o wydanie decyzji o wydaniu lub zmianie pozwolenia zintegrowanego dotyczącej istotnej zmiany instalacji stosuje się przepisy art. 44 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+” ;
+
+### 37)
+
+w art. 187:
+
+### a)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+Ustanawiając zabezpieczenie roszczeń, organ ochrony środowiska, o którym mowa w art. 376 pkt 2 i 2b, właściwy do wydania pozwolenia, o którym mowa w art. 181 ust. 1 pkt 1-4, uzgadnia wysokość tego zabezpieczenia z regionalnym dyrektorem ochrony środowiska.
+
+### 1b.
+
+Uzgodnienie, o którym mowa w ust. 1a, następuje w formie postanowienia, na które służy zażalenie.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister właściwy do spraw środowiska, biorąc pod uwagę prawdopodobieństwo wystąpienia i rozmiary potencjalnych szkód w środowisku oraz kierując się potrzebą zapewnienia pokrycia kosztów działań naprawczych w przypadku wystąpienia szkody w środowisku, może określić, w drodze rozporządzenia, sposoby określania wysokości zabezpieczenia roszczeń, w zależności od rodzaju prowadzonej przez podmiot korzystający ze środowiska działalności, wielkości produkcji i parametrów technicznych instalacji.
+
+” ;
+
+### 38)
+
+w art. 188:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Pozwolenie jest wydawane na czas oznaczony, nie dłuższy niż 10 lat, z wyjątkiem pozwolenia zintegrowanego, które jest wydawane na czas nieoznaczony. Na wniosek prowadzącego instalację pozwolenie zintegrowane może być wydane na czas oznaczony.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 3 otrzymuje brzmienie: „ 3) maksymalny dopuszczalny czas utrzymywania się uzasadnionych technologicznie warunków eksploatacyjnych odbiegających od normalnych, w szczególności w przypadku rozruchu i wyłączania instalacji, a także warunki lub parametry charakteryzujące pracę instalacji, określające moment zakończenia rozruchu i moment rozpoczęcia wyłączania instalacji oraz warunki wprowadzania do środowiska substancji lub energii w takich przypadkach; ” ,
+
+- - po pkt 6 dodaje się pkt 6a w brzmieniu: „ 6a) oznaczenie głównego prowadzącego instalację lub określenie zakresu odpowiedzialności poszczególnych prowadzących oznaczone części instalacji za eksploatację instalacji zgodnie z przepisami ochrony środowiska, w przypadku, o którym mowa w art. 183b; ” ;
+
+### 39)
+
+art. 189 otrzymuje brzmienie:
+
+„
+
+### Art. 189.
+
+### 1.
+
+Podmiot, który staje się prowadzącym instalację lub jej oznaczoną część, przejmuje prawa i obowiązki wynikające z pozwoleń dotyczących tej instalacji lub jej oznaczonej części.
+
+### 2.
+
+Podmiot, o którym mowa w ust. 1, występuje niezwłocznie z wnioskiem o zmianę pozwoleń w zakresie oznaczenia prowadzącego instalację.
+
+” ;
+
+### 40)
+
+uchyla się art. 190 i art. 191;
+
+### 41)
+
+w art. 193:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+jeżeli podmiot przestał być prowadzącym instalację w rozumieniu ustawy, lub z innych powodów pozwolenie stało się bezprzedmiotowe;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Organ właściwy do wydania pozwolenia stwierdza, w drodze decyzji, wygaśnięcie pozwolenia, jeżeli zachodzą okoliczności, o których mowa w ust. 1 pkt 2-8.
+
+” ,
+
+### c)
+
+uchyla się ust. 4,
+
+### d)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Pozwolenie nie wygasa, jeżeli nastąpiło przejęcie praw i obowiązków, o którym mowa w art. 189, albo przejęcie na podstawie innych przepisów, praw i obowiązków wynikających z decyzji, w tym w szczególności przepisów tytułu IV ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. z 2013 r. poz. 1030](https://api.sejm.gov.pl/eli/acts/DU/2013/1030/text.html) oraz [z 2014 r. poz. 265](https://api.sejm.gov.pl/eli/acts/DU/2014/265/text.html)), w przypadku łączenia, podziału lub przekształcania spółek handlowych, albo przepisów ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ([Dz. U. z 2013 r. poz. 216](https://api.sejm.gov.pl/eli/acts/DU/2013/216/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612.](#gloss-0:11:)).
+
+” ;
+
+### 42)
+
+w art. 195 w ust. 1:
+
+### a)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przepisy dotyczące ochrony środowiska zmieniły się w stopniu uniemożliwiającym emisję lub korzystanie ze środowiska na warunkach określonych w pozwoleniu;
+
+” ,
+
+### b)
+
+w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+prowadzący instalację nie wystąpił z wnioskiem, o którym mowa w art. 215 ust. 4 pkt 2 lub art. 216 ust. 3.
+
+” ;
+
+### 43)
+
+art. 199 otrzymuje brzmienie:
+
+„
+
+### Art. 199.
+
+Postępowanie w przedmiocie wygaśnięcia, cofnięcia lub ograniczenia pozwolenia wszczyna się z urzędu albo na wniosek prowadzącego instalację.
+
+” ;
+
+### 44)
+
+w art. 201 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Pozwolenia zintegrowanego wymaga prowadzenie instalacji, której funkcjonowanie, ze względu na rodzaj i skalę prowadzonej w niej działalności, może powodować znaczne zanieczyszczenie poszczególnych elementów przyrodniczych albo środowiska jako całości, z wyłączeniem instalacji lub ich części stosowanych wyłącznie do badania, rozwoju lub testowania nowych produktów lub procesów technologicznych.
+
+” ;
+
+### 45)
+
+w art. 202:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Jeżeli ustawa nie stanowi inaczej, w pozwoleniu zintegrowanym ustala się warunki emisji na zasadach określonych dla pozwoleń, o których mowa w art. 181 ust. 1 pkt 2-4, oraz pozwolenia wodnoprawnego na pobór wód, bez zalecania jakiejkolwiek techniki czy technologii.
+
+### 2.
+
+Do instalacji wymagających uzyskania pozwolenia zintegrowanego nie stosuje się przepisów art. 224 ust. 3 i 4; dla tych instalacji ustala się w szczególności dopuszczalną wielkość emisji gazów lub pyłów wprowadzanych do powietrza:
+
+### 1)
+
+wymienionych w konkluzjach BAT, a jeżeli nie zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej - w dokumentach referencyjnych BAT;
+
+### 2)
+
+objętych standardami emisyjnymi.
+
+” ,
+
+### b)
+
+w ust. 2a:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) w sposób niezorganizowany lub za pośrednictwem wentylacji grawitacyjnej z instalacji, dla których poziom tej emisji nie został określony w przepisach w sprawie standardów emisyjnych w zakresie wprowadzania gazów lub pyłów do powietrza, oraz jeżeli nie został on określony w konkluzjach BAT; ” ,
+
+- - w pkt 2 średnik zastępuje się kropką i uchyla się pkt 3,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W pozwoleniu zintegrowanym określa się warunki wytwarzania i sposoby postępowania z odpadami na zasadach określonych w przepisach ustawy z dnia 14 grudnia 2012 r. o odpadach, niezależnie od tego, czy dla instalacji wymagane byłoby uzyskanie pozwolenia na wytwarzanie odpadów.
+
+” ;
+
+### 46)
+
+art. 204 otrzymuje brzmienie:
+
+„
+
+### Art. 204.
+
+### 1.
+
+Instalacje wymagające pozwolenia zintegrowanego spełniają wymagania ochrony środowiska wynikające z najlepszych dostępnych technik, a w szczególności nie mogą powodować przekroczenia granicznych wielkości emisyjnych.
+
+### 2.
+
+W szczególnych przypadkach organ właściwy do wydania pozwolenia zintegrowanego może w pozwoleniu zintegrowanym zezwolić na odstępstwo od granicznych wielkości emisyjnych, jeżeli w jego ocenie ich osiągnięcie prowadziłoby do nieproporcjonalnie wysokich kosztów w stosunku do korzyści dla środowiska oraz pod warunkiem że nie zostaną przekroczone standardy emisyjne, o ile mają one zastosowanie.
+
+### 3.
+
+Przy dokonywaniu oceny, o której mowa w ust. 2, organ właściwy bierze pod uwagę położenie geograficzne, lokalne warunki środowiskowe, charakterystykę techniczną instalacji lub inne czynniki mające wpływ na funkcjonowanie instalacji i środowisko jako całość.
+
+### 4.
+
+Jeżeli konkluzje BAT nie zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej, dopuszczalną wielkość emisji z instalacji ustala się, uwzględniając potrzebę przestrzegania standardów emisyjnych i standardów jakości środowiska.
+
+” ;
+
+### 47)
+
+art. 206 otrzymuje brzmienie:
+
+„
+
+### Art. 206.
+
+Minister właściwy do spraw środowiska gromadzi informacje o najlepszych dostępnych technikach, konkluzjach BAT i dokumentach referencyjnych BAT oraz rozpowszechnia je na potrzeby organów właściwych do wydawania pozwoleń i zainteresowanych podmiotów korzystających ze środowiska.
+
+” ;
+
+### 48)
+
+w art. 207:
+
+### a)
+
+w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+dokumenty referencyjne BAT oraz konkluzje BAT, o ile zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej.
+
+” ,
+
+### b)
+
+uchyla się ust. 2 i 3;
+
+### 49)
+
+art. 208 otrzymuje brzmienie:
+
+„
+
+### Art. 208.
+
+### 1.
+
+Wniosek o wydanie pozwolenia zintegrowanego spełnia wymagania określone dla wniosków o wydanie pozwoleń, o których mowa w art. 181 ust. 1 pkt 2-4, oraz, jeżeli wody powierzchniowe lub podziemne są pobierane wyłącznie na potrzeby instalacji - wniosku o wydanie pozwolenia wodnoprawnego na pobór wód.
+
+### 2.
+
+Wniosek o wydanie pozwolenia zintegrowanego zawiera także:
+
+### 1)
+
+informacje dotyczące instalacji wymagającej pozwolenia zintegrowanego o:
+
+### a)
+
+oddziaływaniu emisji na środowisko jako całość,
+
+### b)
+
+istniejącym lub możliwym oddziaływaniu transgranicznym na środowisko,
+
+### c)
+
+prognozowanej wielkości emisji hałasu wyznaczonej przez poziomy hałasu powodowanego poza zakładem na terenach sąsiednich oraz o akustycznym oddziaływaniu na rodzaje terenów, o których mowa w art. 113 ust. 2 pkt 1, a także o rozkładzie czasu pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami,
+
+### d)
+
+prognozowanej ilości, stanie i składzie ścieków przemysłowych, o ile ścieki nie będą wprowadzane do wód lub do ziemi,
+
+### e)
+
+prognozowanej ilości wykorzystywanej wody, o ile nie zachodzą warunki, o których mowa w art. 202 ust. 6,
+
+### f)
+
+proponowanych sposobach zapobiegania występowaniu i ograniczania skutków awarii, jeżeli nie dotyczy zakładów, o których mowa w art. 248 ust. 1,
+
+### g)
+
+spełnianiu wymagań, o których mowa w art. 207 ust. 1 i 1a;
+
+### 2)
+
+uzasadnienie dla proponowanej wielkości emisji w przypadku, o którym mowa w art. 204 ust. 2;
+
+### 3)
+
+opis wariantów środków zapobiegających powstawaniu zanieczyszczeń, o ile takie warianty istnieją;
+
+### 4)
+
+w przypadku gdy eksploatacja instalacji obejmuje wykorzystywanie, produkcję lub uwalnianie substancji powodującej ryzyko oraz występuje możliwość zanieczyszczenia gleby, ziemi lub wód gruntowych na terenie zakładu:
+
+### a)
+
+raport początkowy o stanie zanieczyszczenia gleby, ziemi i wód gruntowych tymi substancjami, zwany dalej „raportem początkowym”,
+
+### b)
+
+opis stosowanych sposobów zapobiegania emisjom do gleby, ziemi i wód gruntowych,
+
+### c)
+
+propozycje dotyczące sposobu prowadzenia systematycznej oceny ryzyka zanieczyszczenia gleby, ziemi i wód gruntowych substancjami powodującymi ryzyko, które mogą znajdować się na terenie zakładu, w związku z eksploatacją instalacji albo sposobu i częstotliwości wykonywania badań zanieczyszczenia gleby i ziemi tymi substancjami oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek.
+
+### 3.
+
+W informacji, o której mowa w ust. 2 pkt 1 lit. c, prognozowane poziomy hałasu poza zakładem mają być wyrażone wskaźnikami hałasu LAeq D i LAeq N w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1.
+
+### 4.
+
+Raport początkowy zawiera:
+
+### 1)
+
+informacje na temat działalności prowadzonej na terenie zakładu;
+
+### 2)
+
+informacje na temat działalności prowadzonych na terenie zakładu w przeszłości, o ile takie informacje są dostępne;
+
+### 3)
+
+nazwy substancji powodujących ryzyko, wykorzystywanych, produkowanych lub uwalnianych przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu;
+
+### 4)
+
+informacje na temat stanu zanieczyszczenia gleby, ziemi i wód gruntowych na terenie zakładu substancjami powodującymi ryzyko stosowanymi, produkowanymi lub uwalnianymi przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu, w tym wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 5.
+
+Wniosek o wydanie pozwolenia zintegrowanego składa się w postaci papierowej w dwóch egzemplarzach.
+
+### 6.
+
+Do wniosku o wydanie pozwolenia zintegrowanego dołącza się:
+
+### 1)
+
+dowód uiszczenia opłaty rejestracyjnej;
+
+### 2)
+
+zapis wniosku w postaci elektronicznej na informatycznych nośnikach danych;
+
+### 3)
+
+kopię programu zapobiegania awariom, o którym mowa w art. 251, lub kopię raportu o bezpieczeństwie, o którym mowa w art. 253, jeżeli były opracowane.
+
+### 7.
+
+W przypadku, o którym mowa w art. 135 ust. 6, jeżeli prowadzący instalację ubiega się o uzyskanie pozwolenia zintegrowanego pomimo niedotrzymywania dopuszczalnych poziomów hałasu poza terenem zakładu, wniosek o wydanie pozwolenia zintegrowanego zawiera dodatkowo informacje, że konieczne jest utworzenie obszaru ograniczonego użytkowania i określenie granic takiego obszaru, ograniczeń w zakresie przeznaczenia terenu, wymagań technicznych dotyczących budynków oraz sposobów korzystania z terenów; w tym przypadku nie jest wymagane sporządzenie przeglądu ekologicznego.
+
+### 8.
+
+Do wniosku, o którym mowa w ust. 7, dołącza się także poświadczoną przez właściwy organ kopię mapy ewidencyjnej z zaznaczonym przebiegiem granic obszaru, na którym jest konieczne utworzenie obszaru ograniczonego użytkowania.
+
+” ;
+
+### 50)
+
+w art. 209 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ właściwy do wydania pozwolenia przedstawia ministrowi właściwemu do spraw środowiska albo podmiotowi, o którym mowa w art. 213 ust. 1, zapis wniosku w postaci elektronicznej, za pomocą środków komunikacji elektronicznej, w terminie 14 dni od dnia jego otrzymania.
+
+” ;
+
+### 51)
+
+w art. 210 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Wysokość opłaty rejestracyjnej nie może być wyższa niż 12 000 zł.
+
+” ;
+
+### 52)
+
+art. 211 otrzymuje brzmienie:
+
+„
+
+### Art. 211.
+
+### 1.
+
+Pozwolenie zintegrowane spełnia wymagania określone dla pozwoleń, o których mowa w art. 181 ust. 1 pkt 2-4, oraz pozwolenia wodnoprawnego na pobór wód.
+
+### 2.
+
+Prowadzący instalację wymagającą uzyskania pozwolenia zintegrowanego informuje niezwłocznie organ właściwy do wydania pozwolenia oraz wojewódzkiego inspektora ochrony środowiska o naruszeniu warunków tego pozwolenia.
+
+### 3.
+
+Wielkości dopuszczalnej emisji określone w pozwoleniu zintegrowanym dla instalacji wymagającej pozwolenia zintegrowanego określa się dla takich samych lub krótszych okresów i tych samych warunków odniesienia, co graniczne wielkości emisyjne, jeżeli zostały one ustalone.
+
+### 4.
+
+Jeżeli konkluzje BAT nie określają granicznych wielkości emisyjnych, określone w pozwoleniu zintegrowanym warunki odpowiadają poziomowi ochrony środowiska określonemu w konkluzjach BAT.
+
+### 5.
+
+W pozwoleniu zintegrowanym określa się - dla instalacji wymagających uzyskania pozwolenia zintegrowanego - zakres i sposób monitorowania wielkości emisji zgodny z wymaganiami dotyczącymi monitorowania określonymi w konkluzjach BAT, jeżeli zostały one określone. W przypadku braku konkluzji BAT - można uwzględnić dokumenty referencyjne BAT, w zakresie, w jakim wykraczają one poza wymagania, o których mowa w art. 147, oraz wymagania określone w przepisach wydanych na podstawie art. 148 ust. 1.
+
+### 6.
+
+Pozwolenie zintegrowane określa także, w odniesieniu do instalacji wymagającej pozwolenia zintegrowanego:
+
+### 1)
+
+rodzaj prowadzonej działalności;
+
+### 2)
+
+sposoby osiągania wysokiego poziomu ochrony środowiska jako całości;
+
+### 3)
+
+wymagania zapewniające ochronę gleby, ziemi i wód gruntowych, w tym środki mające na celu zapobieganie emisjom do gleby, ziemi i wód gruntowych oraz sposób ich systematycznego nadzorowania, o ile są konieczne;
+
+### 4)
+
+w przypadku instalacji, które wymagają raportu początkowego - sposób prowadzenia systematycznej oceny ryzyka zanieczyszczenia gleby, ziemi i wód gruntowych substancjami powodującymi ryzyko, które mogą znajdować się na terenie zakładu w związku z eksploatacją instalacji, albo sposób i częstotliwość wykonywania badań zanieczyszczenia gleby i ziemi tymi substancjami oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek;
+
+### 5)
+
+sposoby ograniczania oddziaływań transgranicznych na środowisko;
+
+### 6)
+
+wielkość emisji hałasu wyznaczoną dopuszczalnymi poziomami hałasu poza zakładem, wyrażonymi wskaźnikami hałasu LAeq D i LAeq N, w odniesieniu do rodzajów terenów, o których mowa w art. 113 ust. 2 pkt 1, oraz rozkład czasu pracy źródeł hałasu dla doby, wraz z przewidywanymi wariantami;
+
+### 7)
+
+ilość, stan i skład ścieków przemysłowych, o ile ścieki nie będą wprowadzane do wód lub do ziemi;
+
+### 8)
+
+ilość wykorzystywanej wody, o ile nie zachodzą warunki, o których mowa w art. 202 ust. 6;
+
+### 9)
+
+sposoby zapobiegania występowaniu i ograniczania skutków awarii oraz wymóg informowania o wystąpieniu awarii, jeżeli nie dotyczy to zakładów, o których mowa w art. 248 ust. 1;
+
+### 10)
+
+sposoby postępowania w przypadku zakończenia eksploatacji instalacji, w tym sposoby usunięcia negatywnych skutków powstałych w środowisku w wyniku prowadzonej eksploatacji, gdy są one przewidywane;
+
+### 11)
+
+sposoby zapewnienia efektywnego wykorzystania energii;
+
+### 12)
+
+zakres, sposób i termin przekazywania organowi właściwemu do wydania pozwolenia i wojewódzkiemu inspektorowi ochrony środowiska corocznej informacji pozwalającej na przeprowadzenie oceny zgodności z warunkami określonymi w pozwoleniu, w zakresie nieobjętym przepisami art. 149.
+
+### 7.
+
+W pozwoleniu zintegrowanym obejmującym źródło spalania paliw, o którym mowa w przepisach wydanych na podstawie art. 146h, określa się, dla tego źródła, maksymalne emisje substancji na okres, o którym mowa w art. 146f ust. 3, wraz z warunkami uznawania ich za dotrzymane, o których mowa w przepisach wydanych na podstawie art. 146h pkt 4.
+
+### 8.
+
+W pozwoleniu zintegrowanym można określić dodatkowe wymagania związane z eksploatacją instalacji, jeżeli jest to konieczne do osiągnięcia wysokiego poziomu ochrony środowiska jako całości.
+
+### 9.
+
+W przypadku, o którym mowa w art. 135 ust. 6, w pozwoleniu zintegrowanym stwierdza się konieczność utworzenia obszaru ograniczonego użytkowania.
+
+### 10.
+
+Pozwolenie zintegrowane, o którym mowa w ust. 9, wywołuje skutki prawne od dnia wejścia w życie uchwały rady powiatu albo uchwały sejmiku województwa o utworzeniu obszaru ograniczonego użytkowania.
+
+### 11.
+
+Uzasadnienie pozwolenia zintegrowanego zawiera ocenę, o której mowa w art. 204 ust. 2.
+
+### 12.
+
+Organ właściwy do wydania pozwolenia przedkłada ministrowi właściwemu do spraw środowiska albo podmiotowi, o którym mowa w art. 213 ust. 1, elektroniczną kopię pozwolenia zintegrowanego oraz decyzji zmieniającej pozwolenie zintegrowane, za pomocą środków komunikacji elektronicznej, w terminie 14 dni od dnia ich wydania.
+
+” ;
+
+### 53)
+
+po art. 211 dodaje się art. 211a w brzmieniu:
+
+„
+
+### Art. 211a.
+
+### 1.
+
+W celu prowadzenia badań nad nową techniką, organ właściwy do wydania pozwolenia może, na wniosek prowadzącego instalację, zmienić pozwolenie zintegrowane, określając wariant funkcjonowania instalacji zawierający dopuszczalne wielkości emisji przekraczające graniczne wielkości emisyjne oraz zezwalając na odstąpienie od wymagań ochrony środowiska wynikających z najlepszych dostępnych technik, na czas nie dłuższy niż 9 miesięcy.
+
+### 2.
+
+Przez nową technikę, o której mowa w ust. 1, rozumie się nową technikę w działalności przemysłowej, której zastosowanie mogłoby zapewnić wyższy lub co najmniej ten sam poziom ochrony środowiska i większą oszczędność kosztów niż obecnie istniejące najlepsze dostępne techniki, o ile będzie ona mogła mieć zastosowanie na skalę przemysłową.
+
+### 3.
+
+Prowadzący instalację przedkłada organowi właściwemu do wydania pozwolenia sprawozdanie zawierające informacje dotyczące efektów prowadzonych badań nad nową techniką, w terminie 30 dni po upływie czasu, o którym mowa w ust. 1.
+
+### 4.
+
+Do wniosku, o którym mowa w ust. 1, nie stosuje się przepisów art. 210.
+
+” ;
+
+### 54)
+
+art. 214-217 otrzymują brzmienie:
+
+„
+
+### Art. 214.
+
+### 1.
+
+Przed dokonaniem zmiany w instalacji objętej pozwoleniem zintegrowanym, polegającej na zmianie sposobu funkcjonowania instalacji lub jej rozbudowie, która może mieć wpływ na środowisko, prowadzący instalację jest obowiązany poinformować o planowanych zmianach organ właściwy do wydania pozwolenia lub złożyć wniosek o zmianę pozwolenia zintegrowanego.
+
+### 2.
+
+Jeżeli organ, o którym mowa w ust. 1, stwierdzi, że planowana zmiana w instalacji wymaga zmiany niektórych warunków wydanego pozwolenia zintegrowanego, informuje, w terminie 30 dni od dnia otrzymania informacji, prowadzącego instalację o konieczności złożenia wniosku o zmianę pozwolenia zintegrowanego. W takim przypadku organ stwierdza, czy planowana zmiana ma charakter istotnej zmiany.
+
+### 3.
+
+Zmianę w instalacji uważa się za istotną w szczególności, gdy zwiększana skala działalności wynikająca z tej zmiany, sama w sobie, kwalifikowałaby ją jako instalację, o której mowa w przepisach wydanych na podstawie art. 201 ust. 2.
+
+### 4.
+
+Wniosek o zmianę pozwolenia zintegrowanego zawiera dane, o których mowa w art. 184 i art. 208, mające związek z planowanymi zmianami.
+
+### 5.
+
+Decyzja o zmianie pozwolenia zintegrowanego określa wymagania, o których mowa w art. 188 i art. 211, mające związek z planowanymi zmianami.
+
+### Art. 215.
+
+### 1.
+
+Organ właściwy do wydania pozwolenia dokonuje analizy warunków pozwolenia zintegrowanego niezwłocznie po publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT odnoszących się do głównej działalności danej instalacji, lecz nie później niż w terminie 6 miesięcy od dnia publikacji.
+
+### 2.
+
+Organ właściwy do wydania pozwolenia informuje prowadzącego instalację o rozpoczęciu analizy, a w trakcie jej przeprowadzania:
+
+### 1)
+
+bierze pod uwagę wszystkie konkluzje BAT, które dla danego rodzaju instalacji zostały opublikowane w Dzienniku Urzędowym Unii Europejskiej od czasu wydania pozwolenia lub ostatniej analizy wydanego pozwolenia;
+
+### 2)
+
+może zażądać od prowadzącego instalację przedłożenia informacji, w szczególności wyników monitorowania procesów technologicznych, niezbędnych do przeprowadzenia analizy i umożliwiających porównanie ich z najlepszymi dostępnymi technikami opisanymi w odpowiednich konkluzjach BAT oraz określonymi w nich wielkościami emisji;
+
+### 3)
+
+dokonuje oceny zasadności udzielenia odstępstwa, o którym mowa w art. 204 ust. 2.
+
+### 3.
+
+Organ właściwy do wydania pozwolenia przedkłada niezwłocznie wyniki analizy prowadzącemu instalację oraz, za pomocą środków komunikacji elektronicznej, ministrowi właściwemu do spraw środowiska albo podmiotowi, o którym mowa w art. 213 ust. 1.
+
+### 4.
+
+W przypadku gdy analiza dokonana na podstawie ust. 1 wykazała konieczność zmiany pozwolenia zintegrowanego, organ właściwy do wydania pozwolenia niezwłocznie:
+
+### 1)
+
+przekazuje prowadzącemu instalację informację o konieczności dostosowania instalacji, w terminie nie dłuższym niż 4 lata od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT, do wymagań określonych w konkluzjach BAT;
+
+### 2)
+
+wzywa prowadzącego instalację do wystąpienia z wnioskiem o zmianę pozwolenia w terminie roku od dnia doręczenia wezwania, określając zakres tego wniosku mający związek ze zmianami wynikającymi z dokonanej analizy.
+
+### 5.
+
+W decyzji o zmianie pozwolenia wydanej na wniosek, o którym mowa w ust. 4 pkt 2, organ właściwy do wydania pozwolenia określa termin, nie dłuższy niż 4 lata od dnia publikacji w Dzienniku Urzędowym Unii Europejskiej konkluzji BAT, dostosowania instalacji do nowych wymagań określonych w tej decyzji.
+
+### 6.
+
+Udzielając odstępstwa, o którym mowa w art. 204 ust. 2, organ właściwy do wydania pozwolenia może określić późniejszy termin dostosowania instalacji do nowych wymagań.
+
+### 7.
+
+W decyzji o ograniczeniu wydanej na podstawie art. 195 ust. 1 pkt 5 stosuje się odpowiednio przepis ust. 5.
+
+### 8.
+
+Do wniosku, o którym mowa w ust. 4 pkt 2, nie stosuje się przepisów art. 210.
+
+### Art. 216.
+
+### 1.
+
+Organ właściwy do wydania pozwolenia dokonuje analizy pozwolenia zintegrowanego także:
+
+### 1)
+
+co najmniej raz na 5 lat lub
+
+### 2)
+
+jeżeli oddziaływanie instalacji na środowisko zmieniło się w stopniu wskazującym na konieczność zmiany pozwolenia w części dotyczącej określonych w nim warunków lub wielkości emisji z danej instalacji, lub
+
+### 3)
+
+jeżeli nastąpiła zmiana w najlepszych dostępnych technikach, pozwalająca na znaczne zmniejszenie wielkości emisji bez powodowania nadmiernych kosztów, lub wynika to z potrzeby dostosowania eksploatacji instalacji do zmian przepisów o ochronie środowiska.
+
+### 2.
+
+Do analizy stosuje się odpowiednio przepisy art. 215 ust. 2 i 3.
+
+### 3.
+
+W przypadku gdy analiza wykazała konieczność zmiany pozwolenia zintegrowanego, organ właściwy do wydania pozwolenia wzywa prowadzącego instalację do wystąpienia z wnioskiem o zmianę pozwolenia w terminie 6 miesięcy od dnia wezwania, określając zakres tego wniosku mający związek ze zmianami wynikającymi z dokonanej analizy.
+
+### 4.
+
+Do wniosku, o którym mowa w ust. 3, nie stosuje się przepisów art. 210.
+
+### Art. 217.
+
+### 1.
+
+Organ właściwy do wydania pozwolenia zintegrowanego może, na wniosek prowadzącego instalację lub z urzędu za jego zgodą, wydać nowe pozwolenie zintegrowane w celu ujednolicenia tekstu obowiązującego pozwolenia, z uwzględnieniem wszystkich zmian wprowadzonych do tego pozwolenia od dnia jego wydania.
+
+### 2.
+
+W pozwoleniu, o którym mowa w ust. 1, organ właściwy do wydania pozwolenia:
+
+### 1)
+
+ujednolica tekst pozwolenia;
+
+### 2)
+
+stwierdza wygaśnięcie dotychczasowego pozwolenia.
+
+### 3.
+
+Do pozwolenia, o którym mowa w ust. 1, nie stosuje się przepisów art. 208, art. 210 i art. 218.
+
+” ;
+
+### 55)
+
+po art. 217 dodaje się art. 217a-217d w brzmieniu:
+
+„
+
+### Art. 217a.
+
+### 1.
+
+Ustalając w pozwoleniu zintegrowanym sposób i częstotliwość wykonywania badań zanieczyszczenia gleby i ziemi substancjami powodującymi ryzyko oraz wykonywania pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek, o których mowa w art. 211 ust. 6 pkt 4, uwzględnia się, że:
+
+### 1)
+
+badania zanieczyszczenia gleby i ziemi wykonuje się co najmniej raz na 10 lat,
+
+### 2)
+
+pomiary zawartości substancji w wodach gruntowych, w tym pobieranie próbek, wykonuje się co najmniej raz na 5 lat
+
+- o ile takie badania lub pomiary nie opierają się na systematycznej ocenie ryzyka, o której mowa w art. 211 ust. 6 pkt 4.
+
+### 2.
+
+Badania lub pomiary, o których mowa w ust. 1, wykonuje się:
+
+### 1)
+
+przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a;
+
+### 2)
+
+w sposób umożliwiający ich ilościowe porównanie z wynikami badań i pomiarów zawartymi w raporcie początkowym, jeżeli taki raport dla danej instalacji jest wymagany.
+
+### 3.
+
+Prowadzący instalację przekazuje wyniki badań lub pomiarów organowi właściwemu do wydania pozwolenia w terminie miesiąca od dnia ich wykonania.
+
+### Art. 217b.
+
+### 1.
+
+Przed przystąpieniem do zakończenia eksploatacji instalacji, dla której wymagany był raport początkowy, prowadzący instalację sporządza i przedkłada organowi właściwemu do wydania pozwolenia raport końcowy o stanie końcowym zanieczyszczenia gleby, ziemi i wód gruntowych na terenie zakładu substancjami powodującymi ryzyko, zwany dalej „raportem końcowym”.
+
+### 2.
+
+Jeżeli prowadzący instalację nie przedłożył raportu końcowego, to w przypadkach, o których mowa w art. 193 ust. 1 pkt 2, 5, 7 i 8, organ właściwy do wydania decyzji stwierdzającej wygaśnięcie pozwolenia zintegrowanego nakłada na dotychczasowego prowadzącego instalację, dla której wymagany był raport początkowy, obowiązek sporządzenia i przedłożenia raportu końcowego, określając termin wykonania tego obowiązku nie dłuższy niż 12 miesięcy od dnia stwierdzenia wygaśnięcia pozwolenia.
+
+### 3.
+
+Raport końcowy zawiera:
+
+### 1)
+
+informacje na temat planowanego sposobu użytkowania terenu, o ile takie informacje są dostępne;
+
+### 2)
+
+nazwy substancji powodujących ryzyko, które były wykorzystywane, produkowane lub uwalniane przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu;
+
+### 3)
+
+informacje na temat zanieczyszczenia gleby, ziemi i wód gruntowych na terenie zakładu substancjami powodującymi ryzyko stosowanymi, produkowanymi lub uwalnianymi przez wymagające pozwolenia zintegrowanego instalacje, położone na terenie zakładu, w tym wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a.
+
+### 4.
+
+Raport końcowy sporządza się w sposób umożliwiający ilościowe porównanie zawartych w nim wyników badań i pomiarów z wynikami badań i pomiarów zawartymi w raporcie początkowym.
+
+### Art. 217c.
+
+### 1.
+
+Sporządzając raport początkowy, wykonując badania lub pomiary, o których mowa w art. 211 ust. 6 pkt 4, oraz sporządzając raport końcowy, w celu przedstawienia informacji na temat zanieczyszczenia substancjami powodującymi ryzyko gleby, ziemi i wód gruntowych na terenie zakładu, ocenę zanieczyszczenia powierzchni ziemi prowadzi się w sposób określony w przepisach wydanych na podstawie art. 101a ust. 5.
+
+### 2.
+
+W raporcie początkowym, w dokumentacji badań lub pomiarów oraz w raporcie końcowym, o których mowa w ust. 1, informacje na temat zanieczyszczenia substancjami powodującymi ryzyko gleby, ziemi i wód gruntowych na terenie zakładu przedstawia się w postaci opisu tekstowego, zestawień tabelarycznych oraz map wskazujących zasięg zanieczyszczenia.
+
+### Art. 217d.
+
+### 1.
+
+Jeżeli organ właściwy do wydania pozwolenia stwierdził zanieczyszczenie substancjami powodującymi ryzyko gleby, ziemi lub wód gruntowych na terenie zakładu, przesyła odpowiednio kopię raportu początkowego, kopię wyników badań lub pomiarów, o których mowa w art. 217a ust. 3, lub kopię raportu końcowego regionalnemu dyrektorowi ochrony środowiska.
+
+### 2.
+
+Ustalając w planie remediacji, o którym mowa w art. 101l ust. 4 lub art. 101m ust. 2, lub art. 101o ust. 2 ustawy albo w art. 13 ust. 3 pkt 2 lub art. 15 ust. 2 pkt 3, lub art. 17 ust. 2a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, sposób przeprowadzenia remediacji dla terenu zakładu, na którym jest eksploatowana instalacja wymagająca uzyskania pozwolenia zintegrowanego oraz wskutek której eksploatacji nastąpiło zanieczyszczenie, można uwzględnić, że usunięcie zanieczyszczenia zostanie odłożone do czasu zakończenia eksploatacji instalacji, jeżeli prowadzący instalację wykaże, że nie stwarza to znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska.
+
+### 3.
+
+W przypadku określonym w ust. 2, jako sposób przeprowadzenia remediacji ustalony w planie remediacji, wskazuje się:
+
+### 1)
+
+planowane działania w celu zapobieżenia lub zmniejszenia dalszego zanieczyszczenia, w tym działania w celu ograniczenia lub wyeliminowania emisji zanieczyszczenia lub usunięcia pierwotnego źródła zanieczyszczenia;
+
+### 2)
+
+jeżeli jest taka potrzeba - sposób ograniczenia rozprzestrzeniania się zanieczyszczenia;
+
+### 3)
+
+sposób kontrolowania zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie.
+
+### 4.
+
+Przed przystąpieniem do zakończenia eksploatacji instalacji wymagającej uzyskania pozwolenia zintegrowanego ustala się nowy plan remediacji, na podstawie odpowiednio art. 101l ust. 4 lub art. 101m ust. 1 pkt 2, lub art. 101o ust. 2 ustawy albo art. 13 ust. 3 pkt 2 lub art. 15 ust. 1 pkt 2, lub art. 17 ust. 2a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, którego celem jest doprowadzenie gleby, ziemi i wód gruntowych na terenie zakładu do stanu:
+
+### 1)
+
+określonego w raporcie początkowym - jeżeli w raporcie początkowym nie stwierdzono występowania zanieczyszczenia gleby, ziemi lub wód gruntowych;
+
+### 2)
+
+niestwarzającego znaczącego zagrożenia dla zdrowia ludzi oraz środowiska - jeżeli w raporcie początkowym stwierdzono występowanie zanieczyszczenia gleby, ziemi lub wód gruntowych.
+
+### 5.
+
+W decyzji ustalającej nowy plan remediacji stwierdza się wygaśnięcie wcześniejszej decyzji lub jej części w zakresie dotyczącym terenu zakładu.
+
+” ;
+
+### 56)
+
+art. 218 i art. 219 otrzymują brzmienie:
+
+„
+
+### Art. 218.
+
+Organ administracji zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w postępowaniu, którego przedmiotem jest:
+
+### 1)
+
+wydanie pozwolenia zintegrowanego dla nowej instalacji;
+
+### 2)
+
+wydanie decyzji dotyczącej istotnej zmiany instalacji;
+
+### 3)
+
+wydanie pozwolenia z odstępstwem, o którym mowa w art. 204 ust. 2, lub jego zmiana polegająca na udzieleniu takiego odstępstwa;
+
+### 4)
+
+wydanie decyzji o zmianie pozwolenia zintegrowanego wynikającej z analizy, o której mowa w art. 216 ust. 1 pkt 2.
+
+### Art. 219.
+
+### 1.
+
+W razie możliwości wystąpienia znaczącego transgranicznego oddziaływania na środowisko na terytorium innego państwa członkowskiego Unii Europejskiej, w przypadku nowej lub istotnie zmienianej instalacji wymagającej uzyskania pozwolenia zintegrowanego, stosuje się odpowiednio przepisy działu VI ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, z tym że przez dokumentację, o której mowa w art. 108 ust. 1 pkt 1 tej ustawy, rozumie się część wniosku o wydanie pozwolenia zintegrowanego, która umożliwi państwu, na którego terytorium może oddziaływać instalacja wymagająca uzyskania takiego pozwolenia, ocenę możliwego znaczącego transgranicznego oddziaływania na środowisko.
+
+### 2.
+
+Właściwy organ przekazuje państwu, o którym mowa w ust. 1, decyzję udzielającą nowe lub zmienione w wyniku istotnej zmiany instalacji pozwolenie zintegrowane wraz z uzasadnieniem zawierającym w szczególności:
+
+### 1)
+
+wyniki konsultacji przeprowadzonych przed podjęciem decyzji oraz wyjaśnienie sposobu ich uwzględnienia w decyzji;
+
+### 2)
+
+wykaz dokumentów referencyjnych BAT istotnych dla danej instalacji lub działalności;
+
+### 3)
+
+sposób określenia warunków pozwolenia, w tym dopuszczalnych wielkości emisji, w odniesieniu do najlepszych dostępnych technik oraz wielkości emisji określonych w konkluzjach BAT.
+
+” ;
+
+### 57)
+
+w art. 305a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio, jeżeli nie są spełnione warunki prowadzenia pomiarów, o których mowa w art. 147a, w tym pobierania próbek.
+
+” ;
+
+### 58)
+
+w tytule V w dziale III dodaje się rozdział 5 w brzmieniu:
+
+„
+
+### Rozdział 5 Przepisy szczególne dotyczące kar za niespełnianie warunków uznawania za dotrzymane maksymalnych emisji substancji ze źródeł spalania paliw, o których mowa w przepisach wydanych na podstawie art. 146h
+
+### Art. 315d.
+
+W przypadku niedotrzymywania maksymalnych emisji substancji, o których mowa w art. 146h pkt 2, z uwzględnieniem warunków uznawania ich za dotrzymane, o których mowa w art. 146h pkt 4, prowadzący instalację, o którym mowa w art. 146g, ponosi administracyjną karę pieniężną.
+
+### Art. 315e.
+
+Karę, o której mowa w art. 315d, wymierza, w drodze decyzji, wojewódzki inspektor ochrony środowiska, biorąc pod uwagę każdą wprowadzoną do powietrza ilość substancji przekraczającą maksymalne emisje substancji, określone dla źródła spalania paliw w przepisach wydanych na podstawie art. 146h pkt 2, przy czym jednostkowa stawka kary wynosi 15 zł za każdy kilogram substancji.
+
+” ;
+
+### 59)
+
+w art. 319 dodaje się ust. 5-7 w brzmieniu:
+
+„
+
+### 5.
+
+Przepisy ust. 1-3 stosuje się odpowiednio w sytuacji, gdy przedsięwzięcie, którego wykonanie zapewniło usunięcie przyczyn wymierzenia kar, zostało zrealizowane przed wydaniem przez wojewódzkiego inspektora ochrony środowiska, decyzji wymierzającej administracyjną karę pieniężną.
+
+### 6.
+
+Wydanie przez wojewódzkiego inspektora ochrony środowiska decyzji orzekającej o zmniejszeniu lub umorzeniu kary, w sytuacji, o której mowa w ust. 5, wymaga złożenia wniosku do wojewódzkiego inspektora ochrony środowiska, przed upływem terminu, w którym ma być ona uiszczona.
+
+### 7.
+
+Przepisy ust. 5 i 6 stosuje się odpowiednio do odraczania terminu opłaty za korzystanie ze środowiska.
+
+” ;
+
+### 60)
+
+po art. 335 dodaje się art. 335a-335d w brzmieniu:
+
+„
+
+### Art. 335a.
+
+### 1.
+
+Kto nie prowadzi badań zanieczyszczenia gleby i ziemi, będąc do tego obowiązany decyzją wydaną na podstawie art. 101f ust. 1 lub nie przechowuje wyników badań w wymaganym okresie wbrew art. 101f ust. 4, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto nie zapewnia wykonania badań przez laboratorium zgodnie z art. 101f ust. 2.
+
+### Art. 335b.
+
+Kto, będąc do tego obowiązany na podstawie art. 101e ust. 1, nie zgłasza regionalnemu dyrektorowi ochrony środowiska historycznego zanieczyszczenia powierzchni ziemi, podlega karze grzywny.
+
+### Art. 335c.
+
+Kto, będąc do tego obowiązany na podstawie art. 101h ust. 1 i 2, nie przeprowadza remediacji, podlega karze grzywny.
+
+### Art. 335d.
+
+### 1.
+
+Kto, wbrew art. 101l ust. 1, prowadzi remediację niezgodnie z ustalonym planem remediacji lub będąc do tego obowiązany na podstawie art. 101l ust. 2, nie przedkłada regionalnemu dyrektorowi ochrony środowiska projektu planu remediacji, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega, kto uniemożliwia przeprowadzenie remediacji lub prowadzenie badań zanieczyszczenia gleby i ziemi, zgodnie z obowiązkami określonymi w art. 101l ust. 6, art. 101m ust. 7 i art. 101o ust. 1.
+
+” ;
+
+### 61)
+
+art. 336 otrzymuje brzmienie:
+
+„
+
+### Art. 336.
+
+Kto, wbrew art. 101r, używa do prac ziemnych glebę lub ziemię, jeżeli przekroczona w nich jest dopuszczalna zawartość substancji powodującej ryzyko, podlega karze grzywny.
+
+” ;
+
+### 62)
+
+art. 339 otrzymuje brzmienie:
+
+„
+
+### Art. 339.
+
+### 1.
+
+Kto, będąc do tego obowiązany na podstawie art. 145 pkt 1, wprowadzając do środowiska substancje lub energie, w zakresie, w jakim nie wymaga to pozwolenia, nie dotrzymuje standardów emisyjnych, podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega ten, kto:
+
+### 1)
+
+nie postępuje w sposób, o którym mowa w art. 145 pkt 4;
+
+### 2)
+
+nie zatrzymuje instalacji i urządzenia do spalania lub współspalania odpadów, zgodnie z art. 145 pkt 5;
+
+### 3)
+
+nie stosuje paliw, surowców lub materiałów, w tym substancji lub mieszanin, zgodnie z wymaganiami lub ograniczeniami, o których mowa w art. 145 pkt 6;
+
+### 4)
+
+nie stosuje rozwiązań technicznych, zgodnie z wymaganiami, o których mowa w art. 145 pkt 7;
+
+### 5)
+
+nie przekazuje informacji lub danych, o których mowa w art. 145 pkt 8.
+
+” ;
+
+### 63)
+
+po art. 339 dodaje się art. 339a w brzmieniu:
+
+„
+
+### Art. 339a.
+
+Kto, będąc do tego obowiązany na podstawie art. 146g:
+
+### 1)
+
+nie dotrzymuje maksymalnych emisji substancji, o których mowa w art. 146g pkt 1,
+
+### 2)
+
+nie realizuje działań zapobiegających, o których mowa w art. 146g pkt 2,
+
+### 3)
+
+nie przekazuje informacji, zgodnie z art. 146g pkt 3,
+
+### 4)
+
+nie przestrzega wymagań, o których mowa w art. 146g pkt 4,
+
+podlega karze grzywny.
+
+” ;
+
+### 64)
+
+w art. 340 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+będąc obowiązany do zapewnienia wykonania pomiarów wielkości emisji lub innych warunków korzystania ze środowiska, w tym pobierania próbek, przez laboratorium lub certyfikowane jednostki badawcze, o których mowa w art. 147a ust. 1, nie spełnia tego obowiązku;
+
+” ;
+
+### 65)
+
+po art. 351b dodaje się art. 351c w brzmieniu:
+
+„
+
+### Art. 351c.
+
+Kto, będąc obowiązany do sporządzenia raportu końcowego, nie spełnia tego obowiązku lub przedłożył raport niezgodny z wymaganiami, o których mowa w art. 217b ust. 3, podlega karze grzywny.
+
+” ;
+
+### 66)
+
+w art. 362 uchyla się ust. 6;
+
+### 67)
+
+art. 363 otrzymuje brzmienie:
+
+„
+
+### Art. 363.
+
+### 1.
+
+Wójt, burmistrz lub prezydent miasta może, w drodze decyzji, nakazać osobie fizycznej, której działanie negatywnie oddziałuje na środowisko, wykonanie w określonym czasie czynności zmierzających do:
+
+### 1)
+
+ograniczenia negatywnego oddziaływania na środowisko i jego zagrożenia;
+
+### 2)
+
+przywrócenia środowiska do stanu właściwego.
+
+### 2.
+
+Przepisy art. 362 ust. 2-5 stosuje się odpowiednio.
+
+” ;
+
+### 68)
+
+art. 377a otrzymuje brzmienie:
+
+„
+
+### Art. 377a.
+
+Minister właściwy do spraw środowiska jest organem wyższego stopnia w stosunku do marszałka województwa w sprawach, o których mowa w art. 95 ust. 1, oraz w art. 378 ust. 2a i 2aa.
+
+” ;
+
+### 69)
+
+w art. 378 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Zadania samorządu województwa, o których mowa w ust. 2a i 2aa, art. 91 ust. 1, 3, 3a i 5, art. 92 ust. 1, art. 94 ust. 2, art. 95 ust. 1, art. 96, art. 119 ust. 2, art. 135 ust. 2 oraz art. 162 ust. 3, 6 i 7, są zadaniami z zakresu administracji rządowej.
+
+” ;
+
+### 70)
+
+w art. 400a w ust. 1:
+
+### a)
+
+pkt 9 otrzymuje brzmienie:
+
+„
+
+### 9)
+
+przedsięwzięcia związane z ochroną powierzchni ziemi, z wyłączeniem remediacji polegających na samooczyszczaniu;
+
+” ,
+
+### b)
+
+po pkt 9 dodaje się pkt 9a w brzmieniu:
+
+„
+
+### 9a)
+
+przedsięwzięcia związane z niepolegającą na samooczyszczaniu remediacją historycznego zanieczyszczenia powierzchni ziemi, jeżeli obowiązanym do przeprowadzenia remediacji jest regionalny dyrektor ochrony środowiska lub władająca powierzchnią ziemi jednostka samorządu terytorialnego;
+
+” ,
+
+### c)
+
+pkt 42 otrzymuje brzmienie:
+
+„
+
+### 42)
+
+inne zadania służące ochronie środowiska i gospodarce wodnej, wynikające z zasady zrównoważonego rozwoju i zgodne z polityką ochrony środowiska.
+
+” ;
+
+### 71)
+
+w art. 400b ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 1-9a i 11-42.
+
+” ;
+
+### 72)
+
+w art. 400h:
+
+### a)
+
+w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+uchwalanie, z uwzględnieniem strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, i list przedsięwzięć priorytetowych przedkładanych przez wojewódzkie fundusze, planu działalności i zatwierdzanie list priorytetowych programów Narodowego Funduszu, do dnia 31 stycznia każdego roku; listy programów priorytetowych w części dotyczącej gospodarki wodnej wymagają uzgodnienia z Prezesem Krajowego Zarządu Gospodarki Wodnej;
+
+” ,
+
+### b)
+
+w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+uchwalanie planów działalności wojewódzkich funduszy, do dnia 30 listopada każdego roku, na rok następny, z uwzględnieniem strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz strategii działania wojewódzkich funduszy i wojewódzkich programów ochrony środowiska;
+
+” ;
+
+### 73)
+
+w art. 400k w ust. 1 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu:
+
+„
+
+### 8)
+
+wydawanie opinii w zakresie możliwości wspomagania ze środków Narodowego Funduszu i wojewódzkich funduszy zadań regionalnych dyrektorów ochrony środowiska w zakresie historycznych zanieczyszczeń powierzchni ziemi objętych harmonogramami, o których mowa w art. 101j ust. 1, oraz w zakresie bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku objętych harmonogramami, o których mowa w art. 16a ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie.
+
+” ;
+
+### 74)
+
+w art. 401c ust. 11 otrzymuje brzmienie:
+
+„
+
+### 11.
+
+Wysokości zobowiązań określonych w ust. 1-9a mogą być zmniejszane za zgodą ministra właściwego do spraw środowiska. Przy udzielaniu zgody minister właściwy do spraw środowiska uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.
+
+” ;
+
+### 75)
+
+uchyla się tytuł VIII.
+
+### Art. 2.
+
+W ustawie z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. z 2013 r. poz. 686](https://api.sejm.gov.pl/eli/acts/DU/2013/686/text.html) i [888](https://api.sejm.gov.pl/eli/acts/DU/2013/888/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 po pkt 13 dodaje się pkt 13a w brzmieniu:
+
+„
+
+### 13a)
+
+przeprowadzanie kontroli, o której mowa w art. 168a ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ;
+
+### 2)
+
+w art. 5 w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ustala, w porozumieniu z wojewodą, kierunki działania oraz roczne plany pracy Inspekcji Ochrony Środowiska w województwie, których elementem są roczne plany działalności kontrolnej;
+
+” ;
+
+### 3)
+
+po art. 5 dodaje się art. 5a w brzmieniu:
+
+„
+
+### Art. 5a.
+
+### 1.
+
+Roczny plan działalności kontrolnej obejmuje:
+
+### 1)
+
+ogólną ocenę znaczących zagadnień dotyczących środowiska;
+
+### 2)
+
+obszar objęty planem kontroli;
+
+### 3)
+
+wykaz zakładów objętych planem, w tym wykaz instalacji wymagających uzyskania pozwolenia zintegrowanego;
+
+### 4)
+
+procedury opracowywania programów kontroli planowych;
+
+### 5)
+
+procedury kontroli nieplanowych.
+
+### 2.
+
+W odniesieniu do instalacji wymagających uzyskania pozwolenia zintegrowanego wojewódzki inspektor ochrony środowiska na podstawie rocznego planu kontroli sporządza programy kontroli planowych, obejmujące częstotliwość kontroli w terenie dla różnych rodzajów instalacji.
+
+### 3.
+
+Częstotliwość kontroli, o której mowa w ust. 2, jest ustalana z uwzględnieniem systematycznej oceny zagrożeń dla środowiska stwarzanych przez daną instalację, oraz przepisów dotyczących częstotliwości prowadzenia kontroli.
+
+### 4.
+
+Okres pomiędzy kontrolami nie przekracza:
+
+### 1)
+
+roku dla instalacji stwarzających największe zagrożenie;
+
+### 2)
+
+3 lat dla instalacji, której prowadzącym instalację jest organizacja zarejestrowana w systemie ekozarządzania i audytu (EMAS) lub dla instalacji stwarzających najmniejsze zagrożenie.
+
+### 5.
+
+Systematyczna ocena zagrożeń dla środowiska, o której mowa w ust. 3, uwzględnia co najmniej jedno z następujących kryteriów:
+
+### 1)
+
+potencjalne i rzeczywiste oddziaływanie danych instalacji na zdrowie ludzi i środowisko, z uwzględnieniem poziomu i rodzajów emisji, wrażliwości środowiska lokalnego i ryzyka wystąpienia poważnej awarii przemysłowej;
+
+### 2)
+
+historię zgodności z warunkami pozwolenia;
+
+### 3)
+
+rejestrację organizacji lub prowadzącego instalację w systemie ekozarządzania i audytu (EMAS).
+
+### 6.
+
+Jeżeli kontrola instalacji wymagających pozwolenia zintegrowanego wykaże istotne naruszenie wymogów określonych w tym pozwoleniu, w terminie 6 miesięcy od dnia zakończenia tej kontroli przeprowadza się powtórną kontrolę, o której mowa w art. 83 ust. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2013 r. poz. 672](https://api.sejm.gov.pl/eli/acts/DU/2013/672/text.html), z późn. zm.[12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822.](#gloss-0:12:)).
+
+### 7.
+
+Pozaplanowe kontrole przeprowadza się w szczególności w celu jak najszybszego zbadania skarg i wniosków o interwencje, wystąpienia poważnych awarii, stwierdzenia naruszeń wymogów określonych w pozwoleniach zintegrowanych oraz, w stosownych przypadkach, przed udzieleniem lub zmianą pozwolenia zintegrowanego.
+
+” ;
+
+### 4)
+
+w art. 9:
+
+### a)
+
+w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przeprowadzania niezbędnych pomiarów lub badań, w tym pobierania próbek, lub wykonywania innych czynności kontrolnych w celu ustalenia na terenie kontrolowanej nieruchomości, w obiekcie lub jego części, stanu środowiska oraz oceny tego stanu w świetle przepisów o ochronie środowiska, a także indywidualnie określonych w decyzjach administracyjnych warunków wykonywania działalności wpływającej na środowisko;
+
+” ,
+
+### b)
+
+ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Jeżeli przeprowadzenie niezbędnych pomiarów, w tym pobranie próbek, lub wykonanie innych czynności kontrolnych wymaga specjalistycznej wiedzy lub umiejętności, wojewódzki inspektor ochrony środowiska może upoważnić do udziału w kontroli osobę niebędącą inspektorem, posiadającą taką wiedzę lub takie umiejętności.
+
+” ;
+
+### 5)
+
+w art. 18 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Koszty analiz i wykonywania pomiarów, w tym pobierania próbek, na podstawie których stwierdzono naruszenie wymagań ochrony środowiska, ponoszą jednostki organizacyjne lub osoby fizyczne, których działalność jest źródłem naruszania tych wymagań.
+
+” ;
+
+### 6)
+
+uchyla się rozdział 4a;
+
+### 7)
+
+w art. 28f ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Pomiary, badania i pobieranie próbek w związku z realizacją zadań, o których mowa w art. 2 ust. 1 pkt 1, wykonują laboratoria, o których mowa w ust. 1, posiadające akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności ([Dz. U. z 2010 r. Nr 138, poz. 935](https://api.sejm.gov.pl/eli/acts/DU/2010/935/text.html), z późn. zm.[13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529, z 2013 r. poz. 898 oraz z 2014 r. poz. 822.](#gloss-0:13:)).
+
+### 4.
+
+W zakresie, w jakim laboratoria, o których mowa w ust. 3, nie posiadają akredytacji, wojewódzki inspektor ochrony środowiska może zawrzeć umowę o wykonanie badań i pomiarów, pobranie próbek i analiz z inną jednostką posiadającą akredytację w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych ([Dz. U. z 2013 r. poz. 1205](https://api.sejm.gov.pl/eli/acts/DU/2013/1205/text.html) oraz [z 2014 r. poz. 40](https://api.sejm.gov.pl/eli/acts/DU/2014/40/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się art. 5b;
+
+### 2)
+
+po art. 10 dodaje się art. 10a w brzmieniu:
+
+„
+
+### Art. 10a.
+
+Przepisów rozdziału 2 nie stosuje się do gruntów rolnych położonych w granicach administracyjnych miast.
+
+” ;
+
+### 3)
+
+art. 22a otrzymuje brzmienie:
+
+„
+
+### Art. 22a.
+
+### 1.
+
+Przepisów art. 20 i art. 22 nie stosuje się do rekultywacji gruntów, które zostały zanieczyszczone substancjami, preparatami, organizmami lub mikroorganizmami.
+
+### 2.
+
+Do rekultywacji gruntów, o których mowa w ust. 1, stosuje się odpowiednio do gruntów zanieczyszczonych:
+
+### 1)
+
+po dniu 30 kwietnia 2007 r. - przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. z 2014 r. poz. 210](https://api.sejm.gov.pl/eli/acts/DU/2014/210/text.html));
+
+### 2)
+
+przed dniem 30 kwietnia 2007 r. - przepisy ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2012 r. poz. 1059](https://api.sejm.gov.pl/eli/acts/DU/2012/1059/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 900 i 942.](#gloss-0:14:)) w art. 23 w ust. 2 po pkt 21 dodaje się pkt 21a w brzmieniu:
+
+„
+
+### 21a)
+
+wydawanie, na wniosek organu właściwego do wydania pozwolenia zintegrowanego, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, opinii dotyczącej skutków ekonomicznych, w tym wpływu na opłacalność wytwarzania energii, zastosowania do źródeł spalania paliw drugiej zasady łączenia, o której mowa w art. 157a ust. 2 pkt 2 tej ustawy;
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 15 grudnia 2000 r. o Inspekcji Handlowej ([Dz. U. z 2014 r. poz. 148](https://api.sejm.gov.pl/eli/acts/DU/2014/148/text.html)) w art. 3 w ust. 1 po pkt 2c dodaje się pkt 2d w brzmieniu:
+
+„
+
+### 2d)
+
+przeprowadzanie kontroli, o której mowa w art. 168a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101.](#gloss-0:15:));
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw ([Dz. U. Nr 100, poz. 1085](https://api.sejm.gov.pl/eli/acts/DU/2001/1085/text.html), z późn. zm.[16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 143, poz. 1196, z 2003 r. Nr 7, poz. 78 i Nr 190, poz. 1865, z 2004 r. Nr 49, poz. 464, z 2005 r. Nr 113, poz. 954 oraz z 2006 r. Nr 50, poz. 360 i Nr 133, poz. 935.](#gloss-0:16:)) uchyla się art. 13.
+
+### Art. 7.
+
+W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2013 r. poz. 627](https://api.sejm.gov.pl/eli/acts/DU/2013/627/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926 i 1002.](#gloss-0:17:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+uwzględnianie wymagań ochrony przyrody w strategiach, programach i dokumentach programowych, o których mowa w art. 14 ust. 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101.](#gloss-0:18:)), programach ochrony środowiska przyjmowanych przez organy jednostek samorządu terytorialnego, koncepcji przestrzennego zagospodarowania kraju, strategiach rozwoju województw, planach zagospodarowania przestrzennego województw, strategiach rozwoju gmin, studiach uwarunkowań i kierunków zagospodarowania przestrzennego gmin, miejscowych planach zagospodarowania przestrzennego i planach zagospodarowania przestrzennego morskich wód wewnętrznych, morza terytorialnego i wyłącznej strefy ekonomicznej oraz w działalności gospodarczej i inwestycyjnej;
+
+” ;
+
+### 2)
+
+art. 37 otrzymuje brzmienie:
+
+„
+
+### Art. 37.
+
+### 1.
+
+Jeżeli działania mogące znacząco negatywnie oddziaływać na cele ochrony obszaru Natura 2000 lub obszaru znajdującego się na liście, o której mowa w art. 27 ust. 3 pkt 1, zostały podjęte bez uzyskania zezwolenia, o którym mowa w art. 34, lub uzgodnienia lub decyzji, o których mowa w art. 35a, regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, wydaje decyzję, w której nakazuje, w zależności od potrzeb, ich natychmiastowe wstrzymanie lub podjęcie niezbędnych działań zapobiegawczych lub działań naprawczych.
+
+### 2.
+
+Jeżeli działania na obszarze Natura 2000 zostały podjęte sprzecznie z ustaleniami planu zadań ochronnych lub planu ochrony, regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, wydaje decyzję, o której mowa w ust. 1, chyba że podjęte działania realizowane są w ramach inwestycji celu publicznego.
+
+### 3.
+
+Jeżeli w stosunku do działań, o których mowa w ust. 1 i 2, jest prowadzone postępowanie, o którym mowa w art. 48, art. 49b albo art. 50 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2013 r. poz. 1409](https://api.sejm.gov.pl/eli/acts/DU/2013/1409/text.html), z późn. zm.[19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768 i 822.](#gloss-0:19:)), regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, zawiesza postępowanie w sprawie wydania decyzji, o której mowa w ust. 1, do czasu zakończenia przez właściwy organ postępowania prowadzonego na podstawie ustawy z dnia 7 lipca 1994 r. - Prawo budowlane.
+
+### 4.
+
+W przypadku działań, o których mowa w ust. 1 i 2, do których mają jednocześnie zastosowanie przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. z 2014 r. poz. 210](https://api.sejm.gov.pl/eli/acts/DU/2014/210/text.html)), nie prowadzi się postępowania w sprawie wydania decyzji, o której mowa w ust. 1.
+
+” ;
+
+### 3)
+
+po art. 37 dodaje się art. 37a-37d w brzmieniu:
+
+„
+
+### Art. 37a.
+
+### 1.
+
+Jeżeli w decyzji, o której mowa w art. 37 ust. 1, nakazuje się podjęcie niezbędnych działań zapobiegawczych lub działań naprawczych, w decyzji tej określa się:
+
+### 1)
+
+stan, do jakiego ma zostać przywrócone środowisko;
+
+### 2)
+
+zakres i sposób przeprowadzenia działań zapobiegawczych lub działań naprawczych, w tym czynności zmierzających do ograniczenia oddziaływania na obszar Natura 2000 lub obszar znajdujący się na liście, o której mowa w art. 27 ust. 3 pkt 1;
+
+### 3)
+
+termin rozpoczęcia i zakończenia działań zapobiegawczych lub działań naprawczych.
+
+### 2.
+
+Przez działania zapobiegawcze i działania naprawcze rozumie się odpowiednio działania zapobiegawcze i działania naprawcze, o których mowa w ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie.
+
+### 3.
+
+Ustalając kolejność, zakres i sposób podejmowania działań naprawczych, regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, kieruje się charakterem, zasięgiem i rozmiarem negatywnego oddziaływania, a także możliwością naturalnej naprawy elementów przyrodniczych na obszarze, na którym negatywne oddziaływanie wystąpiło.
+
+### 4.
+
+Regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, wydaje decyzję, o której mowa w art. 37 ust. 1, po zasięgnięciu opinii dyrektora parku narodowego - w odniesieniu do negatywnego oddziaływania na obszarze parku narodowego.
+
+### Art. 37b.
+
+W decyzji, o której mowa w art. 37 ust. 1, regionalny dyrektor ochrony środowiska, a na obszarach morskich - dyrektor właściwego urzędu morskiego, może nałożyć obowiązek prowadzenia badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej, określając:
+
+### 1)
+
+zakres badań, pomiarów lub monitoringu;
+
+### 2)
+
+metodykę prowadzenia badań, pomiarów lub monitoringu;
+
+### 3)
+
+termin i formę przedkładania wyników badań, pomiarów lub monitoringu regionalnemu dyrektorowi ochrony środowiska, a na obszarach morskich - dyrektorowi właściwego urzędu morskiego.
+
+### Art. 37c.
+
+### 1.
+
+Jeżeli działania mogące znacząco negatywnie oddziaływać na cele ochrony obszaru Natura 2000 lub obszaru znajdującego się na liście, o której mowa w art. 27 ust. 3 pkt 1, zostały podjęte przez więcej niż jeden podmiot, odpowiedzialność tych podmiotów jest solidarna.
+
+### 2.
+
+Jeżeli działania, o których mowa w ust. 1, zostały podjęte za zgodą lub wiedzą władającego powierzchnią ziemi, jest on obowiązany do prowadzenia działań zapobiegawczych lub działań naprawczych, a także do prowadzenia monitoringu solidarnie z podmiotem, który je podjął. Przez władającego powierzchnią ziemi rozumie się podmiot, o którym mowa w art. 3 pkt 44 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, decyzję, o której mowa w art. 37 ust. 1, kieruje się także do władającego powierzchnią ziemi.
+
+### Art. 37d.
+
+Podmiot obowiązany do przeprowadzenia działań zapobiegawczych lub działań naprawczych informuje regionalnego dyrektora ochrony środowiska, a na obszarach morskich - dyrektora właściwego urzędu morskiego, o ich zakończeniu.
+
+” ;
+
+### 4)
+
+w art. 118 w ust. 2 skreśla się wyrazy „(Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.)”.
+
+### Art. 8.
+
+W ustawie z dnia 16 listopada 2006 r. o opłacie skarbowej ([Dz. U. z 2012 r. poz. 1282](https://api.sejm.gov.pl/eli/acts/DU/2012/1282/text.html), z późn. zm.[20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 i 1512, z 2013 r. poz. 21, 455 i 1650 oraz z 2014 r. poz. 312.](#gloss-0:20:)) w załączniku do ustawy w części I uchyla się ust. 12.
+
+### Art. 9.
+
+W ustawie z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie ([Dz. U. z 2014 r. poz. 210](https://api.sejm.gov.pl/eli/acts/DU/2014/210/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+spowodowanych również przez inną działalność niż ta, o której mowa w pkt 1, podmiotu korzystającego ze środowiska, jeżeli dotyczą gatunków chronionych lub chronionych siedlisk przyrodniczych oraz wystąpiły z winy podmiotu korzystającego ze środowiska.
+
+” ;
+
+### 2)
+
+w art. 4:
+
+### a)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+do bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, która zaistniała przed dniem 30 kwietnia 2007 r. lub wynika z działalności, która została zakończona przed dniem 30 kwietnia 2007 r., a także jeżeli od emisji lub zdarzenia, które spowodowały bezpośrednie zagrożenie szkodą lub szkodę w środowisku, upłynęło więcej niż 30 lat, w tym do historycznego zanieczyszczenia powierzchni ziemi;
+
+” ,
+
+### b)
+
+w pkt 2 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+działalność, której głównym celem jest obronność i bezpieczeństwo państwa, bezpieczeństwo międzynarodowe lub której jedynym celem jest ochrona przed klęską żywiołową.
+
+” ;
+
+### 3)
+
+art. 5 otrzymuje brzmienie:
+
+„
+
+### Art. 5.
+
+Przepisów ustawy nie stosuje się do szkód jądrowych w zakresie uregulowanym w ustawie z dnia 29 listopada 2000 r. - Prawo atomowe ([Dz. U. z 2012 r. poz. 264](https://api.sejm.gov.pl/eli/acts/DU/2012/264/text.html) i [908](https://api.sejm.gov.pl/eli/acts/DU/2012/908/text.html) oraz [z 2014 r. poz. 587](https://api.sejm.gov.pl/eli/acts/DU/2014/587/text.html)).
+
+” ;
+
+### 4)
+
+w art. 6:
+
+### a)
+
+po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+badaniach zanieczyszczenia gleby i ziemi - rozumie się przez to badania zanieczyszczenia gleby i ziemi w rozumieniu art. 3 pkt 2a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### b)
+
+w pkt 2:
+
+- - uchyla się lit. a,
+
+- - lit. d otrzymuje brzmienie: „ d) miejsca tokowania, lęgu, pierzenia i zimowania ptaków wędrownych oraz miejsca ich zatrzymywania się i żerowania wzdłuż tras wędrówek; ” ,
+
+### c)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+działaniach naprawczych - rozumie się przez to wszelkie działania, w tym działania ograniczające lub tymczasowe, podejmowane w celu naprawy lub zastąpienia w równoważny sposób elementów przyrodniczych lub ich funkcji, które uległy szkodzie, a także działania kompensacyjne; do działań naprawczych zalicza się w szczególności przeprowadzenie remediacji, przywracanie naturalnego ukształtowania terenu, zalesianie, zadrzewianie lub tworzenie skupień roślinności, reintrodukcję zniszczonych gatunków, prowadzące do usunięcia zagrożenia dla zdrowia ludzi oraz przywracania równowagi przyrodniczej na danym terenie;
+
+” ,
+
+### d)
+
+pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+gatunkach chronionych - rozumie się przez to gatunki objęte ochroną na podstawie przepisów wydanych na podstawie art. 26, art. 48 i art. 49 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
+
+” ,
+
+### e)
+
+po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+historycznym zanieczyszczeniu powierzchni ziemi - rozumie się przez to historyczne zanieczyszczenie powierzchni ziemi w rozumieniu art. 3 pkt 5a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### f)
+
+w pkt 8 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+w odniesieniu do powierzchni ziemi - usunięcie zagrożenia dla zdrowia ludzi i stanu środowiska;
+
+” ,
+
+### g)
+
+po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+naturalnej regeneracji - rozumie się przez to:
+
+### a)
+
+w odniesieniu do:
+
+- - gatunków chronionych - proces odtwarzania się populacji gatunku na danym terenie do stanu początkowego lub do osiągnięcia właściwego stanu ochrony gatunku,
+
+- - chronionych siedlisk przyrodniczych - proces odtwarzania się siedliska przyrodniczego na danym terenie do stanu początkowego lub do osiągnięcia właściwego stanu ochrony siedliska przyrodniczego
+
+- - przebiegający samoistnie, bez ingerencji człowieka, ale którego przebieg może być przez człowieka wspomagany,
+
+### b)
+
+w odniesieniu do wód i powierzchni ziemi - samooczyszczanie w rozumieniu art. 3 pkt 32d ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### h)
+
+po pkt 9 dodaje się pkt 9a i 9b w brzmieniu:
+
+„
+
+### 9a)
+
+pomiarach - rozumie się przez to również obserwacje, analizy oraz pobieranie próbek;
+
+### 9b)
+
+remediacji - rozumie się przez to remediację w rozumieniu art. 3 pkt 31b ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### i)
+
+pkt 10 otrzymuje brzmienie:
+
+„
+
+### 10)
+
+stanie początkowym - rozumie się przez to stan i funkcje środowiska oraz poszczególnych elementów przyrodniczych przed wystąpieniem szkody w środowisku, oszacowane na podstawie dostępnych informacji; w przypadku szkody w środowisku w powierzchni ziemi rozumie się przez to w szczególności stan określony w raporcie początkowym, o którym mowa w ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska albo, jeżeli nie ma dostępnych informacji na temat stanu początkowego lub w raporcie początkowym stwierdzono przekroczenie dopuszczalnych zawartości substancji powodujących ryzyko - stan zgodny z dopuszczalnymi zawartościami substancji powodujących ryzyko;
+
+” ,
+
+### j)
+
+po pkt 10 dodaje się pkt 10a w brzmieniu:
+
+„
+
+### 10a)
+
+substancji powodującej ryzyko - rozumie się przez to substancję w rozumieniu art. 3 pkt 37a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### k)
+
+w pkt 11 lit. a i b otrzymują brzmienie:
+
+„
+
+### a)
+
+w gatunkach chronionych lub chronionych siedliskach przyrodniczych, mającą znaczący negatywny wpływ na osiągnięcie lub utrzymanie właściwego stanu ochrony tych gatunków lub siedlisk przyrodniczych, z tym że szkoda w gatunkach chronionych lub chronionych siedliskach przyrodniczych nie obejmuje uprzednio zidentyfikowanego negatywnego wpływu, wynikającego z działania podmiotu korzystającego ze środowiska zgodnie z:
+
+- - decyzją, o której mowa w art. 34 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody lub
+
+- - decyzją, o której mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub
+
+- - zatwierdzonym planem urządzenia lasu, dla którego przeprowadzono strategiczną ocenę oddziaływania na środowisko, o której mowa w art. 46 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. z 2013 r. poz. 1235](https://api.sejm.gov.pl/eli/acts/DU/2013/1235/text.html), z późn. zm.[21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850 i 1101.](#gloss-0:21:)), lub
+
+- - decyzją o środowiskowych uwarunkowaniach, o której mowa w art. 71 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, lub
+
+- - postanowieniami, o których mowa w art. 90 ust. 1 i art. 98 ust. 1 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko,
+
+### b)
+
+w wodach, mającą znaczący negatywny wpływ na potencjał ekologiczny, stan ekologiczny, chemiczny lub ilościowy wód,
+
+” ;
+
+### 5)
+
+w art. 7 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Regionalny dyrektor ochrony środowiska, o którym mowa w ust. 2, podejmuje działania w porozumieniu z regionalnym dyrektorem ochrony środowiska, na którego obszarze działania wystąpiło bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku.
+
+” ;
+
+### 6)
+
+w art. 9 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+podjęcia działań w celu ograniczenia szkody w środowisku, zapobieżenia kolejnym szkodom i negatywnym skutkom dla zdrowia ludzi lub dalszemu osłabieniu funkcji elementów przyrodniczych, w tym natychmiastowego opanowania, powstrzymania, usunięcia lub ograniczenia w inny sposób zanieczyszczenia lub innych szkodliwych czynników;
+
+” ;
+
+### 7)
+
+w art. 12 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+W przypadku, o którym mowa w ust. 2, decyzję, o której mowa w art. 13 i art. 15, kieruje się także do władającego powierzchnią ziemi.
+
+” ;
+
+### 8)
+
+w art. 13:
+
+### a)
+
+w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wniosek o uzgodnienie warunków przeprowadzenia działań naprawczych w odniesieniu do szkody w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub w wodach zawiera informacje dotyczące: ” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Wniosek o uzgodnienie warunków przeprowadzenia działań naprawczych w odniesieniu do szkody w środowisku w powierzchni ziemi zawiera projekt planu remediacji obejmujący informacje o:
+
+### 1)
+
+terenie wymagającym przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni;
+
+### 2)
+
+aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu;
+
+### 3)
+
+właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowy;
+
+### 4)
+
+o nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 5)
+
+nazwach substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja;
+
+### 6)
+
+ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska;
+
+### 7)
+
+budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w pkt 6 - jeżeli zachodzi taka potrzeba;
+
+### 8)
+
+planowanym sposobie przeprowadzenia remediacji;
+
+### 9)
+
+planowanym terminie rozpoczęcia i zakończenia remediacji;
+
+### 10)
+
+sposobie potwierdzenia przeprowadzenia remediacji, oraz terminie przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ,
+
+### c)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Uzgodnienie warunków przeprowadzenia działań naprawczych następuje w drodze decyzji:
+
+### 1)
+
+dla szkody w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub w wodach, określającej:
+
+### a)
+
+stan, do jakiego ma zostać przywrócone środowisko,
+
+### b)
+
+zakres i sposób przeprowadzenia działań naprawczych,
+
+### c)
+
+termin rozpoczęcia i zakończenia działań naprawczych,
+
+### d)
+
+sposób potwierdzenia osiągnięcia założonego efektu ekologicznego;
+
+### 2)
+
+dla szkody w środowisku w powierzchni ziemi ustalającej plan remediacji, z uwzględnieniem art. 217d ust. 3-5 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, określającej:
+
+### a)
+
+teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
+
+### b)
+
+nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
+
+### c)
+
+sposób przeprowadzenia remediacji,
+
+### d)
+
+termin rozpoczęcia i zakończenia remediacji,
+
+### e)
+
+sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ,
+
+### d)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+W przypadku wystąpienia więcej niż jednej szkody w środowisku, w tym szkody w środowisku w powierzchni ziemi, wniosek o uzgodnienie warunków prowadzenia działań naprawczych zawiera informacje, o których mowa w ust. 2 i 2a.
+
+” ,
+
+### e)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Organ ochrony środowiska wydaje decyzję, o której mowa w ust. 3, po zasięgnięciu opinii w zakresie warunków przeprowadzenia działań naprawczych zawartych w projekcie tej decyzji:
+
+### 1)
+
+dyrektora regionalnego zarządu gospodarki wodnej - w odniesieniu do szkody w środowisku w wodach lub szkody w środowisku w powierzchni ziemi, jeżeli dotyczy ona zanieczyszczenia w strefach ochronnych ujęć wody;
+
+### 2)
+
+dyrektora urzędu morskiego - w odniesieniu do szkody w środowisku na obszarach morskich;
+
+### 3)
+
+dyrektora okręgowego urzędu górniczego - w odniesieniu do szkody w środowisku spowodowanej ruchem zakładu górniczego;
+
+### 4)
+
+dyrektora regionalnej dyrekcji Lasów Państwowych - w odniesieniu do szkody w środowisku na gruntach będących w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe;
+
+### 5)
+
+dyrektora parku narodowego - w odniesieniu do szkody w środowisku na obszarze parku narodowego i jego otuliny;
+
+### 6)
+
+państwowego wojewódzkiego inspektora sanitarnego - w odniesieniu do oceny występowania znaczącego zagrożenia dla zdrowia ludzi na danym terenie;
+
+### 7)
+
+państwowego powiatowego inspektora sanitarnego - w odniesieniu do szkody w środowisku w ujęciach wody przeznaczonej do spożycia oraz wody w kąpieliskach;
+
+### 8)
+
+starosty - w odniesieniu do szkody w środowisku w powierzchni ziemi na gruntach wykorzystywanych na cele rolne.
+
+” ,
+
+### f)
+
+po ust. 6 dodaje się ust. 6a i 6b w brzmieniu:
+
+„
+
+### 6a.
+
+Organ ochrony środowiska, występując o opinię, o której mowa w ust. 6, przedkłada projekt decyzji.
+
+### 6b.
+
+Niewydanie opinii w terminie określonym w art. 106 § 3 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2013 r. poz. 267](https://api.sejm.gov.pl/eli/acts/DU/2013/267/text.html) oraz [z 2014 r. poz. 183](https://api.sejm.gov.pl/eli/acts/DU/2014/183/text.html)) uważa się za akceptację warunków zawartych w projekcie decyzji.
+
+” ;
+
+### 9)
+
+art. 14 i art. 15 otrzymują brzmienie:
+
+„
+
+### Art. 14.
+
+Minister właściwy do spraw środowiska, uwzględniając wpływ podejmowanych działań na zdrowie i bezpieczeństwo ludzi, potrzebę minimalizacji kosztów tych działań, możliwość osiągnięcia celów naprawy i przeciwdziałanie przyszłym szkodom w środowisku lub pogłębianiu istniejących szkód w środowisku oraz wpływ działań naprawczych na stan elementów przyrodniczych lub ich funkcje, określi w drodze rozporządzenia:
+
+### 1)
+
+rodzaje działań naprawczych oraz warunki i sposoby ich prowadzenia dla szkód w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub wodach;
+
+### 2)
+
+warunki i sposoby przeprowadzania remediacji - dla szkód w środowisku w powierzchni ziemi.
+
+### Art. 15.
+
+### 1.
+
+Jeżeli podmiot korzystający ze środowiska lub w przypadku, o którym mowa w art. 12 ust. 2, podmiot korzystający ze środowiska lub władający powierzchnią ziemi nie podejmie działań zapobiegawczych lub nie uzgodni działań naprawczych, organ ochrony środowiska:
+
+### 1)
+
+wzywa do przedłożenia w określonym terminie wniosku o uzgodnienie warunków przeprowadzenia odpowiednio działań zapobiegawczych lub naprawczych;
+
+### 2)
+
+jeżeli nie przedłożono wniosku zgodnie z wezwaniem - w drodze decyzji, nakłada obowiązek przeprowadzenia działań.
+
+### 2.
+
+W decyzji, o której mowa w ust. 1 pkt 2, organ ochrony środowiska określa odpowiednio:
+
+### 1)
+
+zakres i sposób przeprowadzenia działań zapobiegawczych, w tym czynności zmierzające do ograniczenia oddziaływania na środowisko;
+
+### 2)
+
+stan, do jakiego ma zostać przywrócone środowisko;
+
+### 3)
+
+zakres i sposób przeprowadzenia działań naprawczych, a w przypadku szkody w środowisku w powierzchni ziemi - ustala plan remediacji, z uwzględnieniem przepisów art. 217d ust. 3-5 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska:
+
+### a)
+
+zawierający informacje o:
+
+- - aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
+
+- - właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowy,
+
+- - nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska,
+
+- - ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
+
+- - budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w tiret czwartym - jeżeli zachodzi taka potrzeba,
+
+### b)
+
+określający:
+
+- - teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
+
+- - nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
+
+- - sposób przeprowadzenia remediacji,
+
+- - termin rozpoczęcia i zakończenia remediacji,
+
+- - sposób potwierdzenia przeprowadzenia remediacji, termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+### 4)
+
+termin wykonania obowiązku, o którym mowa w ust. 1 pkt 2;
+
+### 5)
+
+sposób potwierdzenia osiągnięcia założonego efektu ekologicznego.
+
+### 3.
+
+Przy wydawaniu decyzji, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 1, nie stosuje się przepisów art. 362 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ;
+
+### 10)
+
+w art. 16 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+z uwagi na zagrożenie dla zdrowia ludzi lub możliwość zaistnienia nieodwracalnych szkód w środowisku, konieczne jest niezwłoczne podjęcie tych działań.
+
+” ;
+
+### 11)
+
+po art. 16 dodaje się art. 16a w brzmieniu:
+
+„
+
+### Art. 16a.
+
+### 1.
+
+Regionalny dyrektor ochrony środowiska ustala harmonogram swoich zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które zostały zgłoszone, na podstawie art. 11 ust. 1 lub art. 24 ust. 1, oraz co najmniej raz na rok dokonuje jego aktualizacji.
+
+### 2.
+
+Harmonogram obejmuje:
+
+### 1)
+
+gromadzenie danych i badań w celu oceny, czy bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku rzeczywiście występuje oraz oceny zagrożenia dla zdrowia ludzi lub stanu środowiska;
+
+### 2)
+
+opracowywanie projektu działań zapobiegawczych lub naprawczych;
+
+### 3)
+
+przeprowadzenie działań zapobiegawczych lub naprawczych.
+
+### 3.
+
+Ustalając i aktualizując harmonogram, uwzględnia się potrzebę podjęcia w pierwszej kolejności działań w odniesieniu do bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które stanowią największe zagrożenie dla zdrowia ludzi lub stanu środowiska, oraz możliwość finansowania zadań w kolejnych latach.
+
+### 4.
+
+W trakcie opracowywania lub aktualizacji harmonogramu regionalny dyrektor ochrony środowiska zasięga opinii Zarządu Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz zarządu właściwego wojewódzkiego funduszu ochrony środowiska i gospodarki wodnej w zakresie możliwości wspomagania ze środków tych funduszy zadań objętych harmonogramem.
+
+### 5.
+
+Regionalny dyrektor ochrony środowiska opracowuje i przekazuje Generalnemu Dyrektorowi Ochrony Środowiska, co 5 lat, sprawozdanie z realizacji zadań ujętych w harmonogramie.
+
+” ;
+
+### 12)
+
+w art. 17:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Jeżeli decyzja, o której mowa w ust. 2, dotyczy szkody w środowisku w powierzchni ziemi, organ ochrony środowiska ustala, z uwzględnieniem przepisów art. 217d ust. 3-5 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, w tej decyzji, plan remediacji:
+
+### 1)
+
+zawierający informacje o:
+
+### a)
+
+aktualnym i, o ile jest to możliwe, planowanym sposobie użytkowania zanieczyszczonego terenu,
+
+### b)
+
+właściwościach gleby oraz rodzaju pokrycia terenu, w tym roślinności i zabudowy,
+
+### c)
+
+nazwach substancji powodujących ryzyko wraz z wynikami badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska,
+
+### d)
+
+ocenie występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska,
+
+### e)
+
+budowie geologicznej i warunkach hydrogeologicznych niezbędnych do dokonania oceny, o której mowa w lit. d - jeżeli zachodzi taka potrzeba;
+
+### 2)
+
+określający:
+
+### a)
+
+teren wymagający przeprowadzenia remediacji, poprzez wskazanie adresu i numerów działek ewidencyjnych oraz jego powierzchni,
+
+### b)
+
+nazwy substancji powodujących ryzyko oraz ich zawartości w glebie i w ziemi, do jakich doprowadzi remediacja,
+
+### c)
+
+sposób przeprowadzenia remediacji,
+
+### d)
+
+termin rozpoczęcia i zakończenia remediacji,
+
+### e)
+
+sposób potwierdzenia przeprowadzenia remediacji, termin przedłożenia dokumentacji z jej przeprowadzenia, w tym wyników badań zanieczyszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ,
+
+### b)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Przy wydawaniu decyzji, o której mowa w ust. 2, stosuje się odpowiednio przepisy art. 13 ust. 4, 5 i 6.
+
+” ;
+
+### 13)
+
+w art. 17a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W trakcie realizacji działań naprawczych w odniesieniu do szkody w środowisku w gatunkach chronionych lub chronionych siedliskach przyrodniczych lub w wodach właściwy organ ochrony środowiska może podjąć decyzję o ich zaniechaniu, jeżeli: ” ;
+
+### 14)
+
+po art. 17a dodaje się art. 17b w brzmieniu:
+
+„
+
+### Art. 17b.
+
+### 1.
+
+Dla szkód w środowisku w powierzchni ziemi, dokonując oceny występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska, o której mowa w art. 13 ust. 2a pkt 6 lub art. 15 ust. 2 pkt 3 lit. a tiret czwarte, lub art. 17 ust. 2a pkt 1 lit. d, uwzględnia się w szczególności:
+
+### 1)
+
+postać chemiczną, w jakiej występuje zanieczyszczenie i jego biodostępność;
+
+### 2)
+
+możliwość rozprzestrzeniania się zanieczyszczenia;
+
+### 3)
+
+potencjalne drogi narażenia z uwzględnieniem rozprzestrzeniania się zanieczyszczeń w zależności od właściwości gleby, ukształtowania, budowy geologicznej i warunków hydrogeologicznych, a także pokrycia terenu;
+
+### 4)
+
+środowisko oraz ludzi, którzy mogliby ucierpieć w wyniku zanieczyszczenia;
+
+### 5)
+
+występowanie na terenie zanieczyszczonym i w jego okolicy zwłaszcza gruntów uprawnych, ogrodów, parków, placów zabaw, terenów sportowych, budynków mieszkalnych i użytkowych, form ochrony przyrody, zasobów wody pitnej i ujęć wody.
+
+### 2.
+
+Przy dokonywaniu oceny uwzględnia się przepisy, wydawane na podstawie art. 101p ust. 3 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+### 3.
+
+Jeżeli ocena wykaże, że nie występuje znaczące zagrożenie dla zdrowia ludzi lub stanu środowiska, regionalny dyrektor ochrony środowiska może odpowiednio zwolnić, w drodze decyzji, podmiot korzystający ze środowiska z obowiązku przeprowadzenia działań naprawczych albo nie przeprowadzać działań, o których mowa w art. 16.
+
+” ;
+
+### 15)
+
+art. 20 otrzymuje brzmienie:
+
+„
+
+### Art. 20.
+
+### 1.
+
+Na obszarze, na którym występuje bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku, organ ochrony środowiska może, w drodze decyzji, nałożyć na podmiot korzystający ze środowiska prowadzący działalność stwarzającą ryzyko szkody w środowisku lub inną działalność, o której mowa w art. 2 ust. 1 pkt 2, która jest przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, obowiązek wykonywania badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej.
+
+### 2.
+
+Podmiot, o którym mowa w ust. 1, jest obowiązany przechowywać wyniki badań, wyniki pomiarów oraz dane z monitoringu przez okres 5 lat od zakończenia roku kalendarzowego, którego dotyczą, oraz przedkładać je organowi ochrony środowiska na jego żądanie.
+
+### 3.
+
+W decyzji, o której mowa w ust. 1, organ ochrony środowiska określa:
+
+### 1)
+
+zakres badań, pomiarów lub monitoringu;
+
+### 2)
+
+metodykę prowadzenia badań, pomiarów lub monitoringu;
+
+### 3)
+
+termin i formę przedkładania wyników badań, pomiarów lub monitoringu;
+
+### 4)
+
+w przypadku gdy bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku zostały spowodowane przez działalność więcej niż jednego podmiotu korzystającego ze środowiska - podział obowiązków między tymi podmiotami.
+
+### 4.
+
+Podmiot korzystający ze środowiska zapewnia wykonanie badań lub pomiarów, o których mowa w ust. 1, przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+### 5.
+
+W przypadku innym niż wskazany w ust. 1, w celu potwierdzenia występowania bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku regionalny dyrektor ochrony środowiska może wykonywać badania zanieczyszczenia gleby i ziemi lub pomiary zawartości substancji w wodzie, w tym pobieranie próbek lub monitoring przyrodniczy różnorodności biologicznej i krajobrazowej.
+
+### 6.
+
+Zamówienie publiczne na wykonywanie badań, pomiarów lub monitoringu, o których mowa w ust. 5, obejmuje jednorazowe badania, pomiary lub monitoring lub dokonywanie we wskazanym okresie czasu wszystkich potrzebnych regionalnemu dyrektorowi ochrony środowiska badań, pomiarów lub monitoringu.
+
+### 7.
+
+Regionalny dyrektor ochrony środowiska lub upoważniona przez niego osoba są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu wykonywania badań zanieczyszczenia gleby i ziemi lub pomiarów zawartości substancji w wodzie, w tym pobierania próbek, lub monitoringu przyrodniczego różnorodności biologicznej i krajobrazowej.
+
+### 8.
+
+Podmiot korzystający ze środowiska lub upoważniona przez niego osoba są uprawnieni do wstępu na teren władającego powierzchnią ziemi w celu realizacji decyzji nakładającej obowiązek, o którym mowa w ust. 1.
+
+### 9.
+
+W przypadkach, o których mowa w ust. 7 i 8, władający powierzchnią ziemi jest obowiązany umożliwić prowadzenie badań, pomiarów lub monitoringu na terenie będącym w jego władaniu.
+
+” ;
+
+### 16)
+
+po art. 20 dodaje się art. 20a w brzmieniu:
+
+„
+
+### Art. 20a.
+
+W przypadku wydawania decyzji, o których mowa w art. 13 ust. 3, art. 15 ust. 1, art. 17 ust. 2, art. 17a i art. 20 ust. 1 oraz postanowień, o których mowa w art. 24 ust. 5 i 7, jeżeli liczba stron postępowania przekracza 20 stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+” ;
+
+### 17)
+
+w art. 23 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku gdy decyzja, o której mowa w art. 15 ust. 1 pkt 2, stanie się ostateczna, organ ochrony środowiska żąda od podmiotu korzystającego ze środowiska albo, w przypadku, o którym mowa w art. 12 ust. 2, od podmiotu korzystającego ze środowiska lub władającego powierzchnią ziemi - zwrotu poniesionych przez siebie kosztów, o których mowa w art. 21 pkt 1 i 2.
+
+” ;
+
+### 18)
+
+w art. 24:
+
+### a)
+
+uchyla się ust. 2,
+
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Zgłoszenie, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko albo nazwę podmiotu zgłaszającego bezpośrednie zagrożenie szkodą w środowisku lub szkodę w środowisku, jego adres zamieszkania albo adres siedziby;
+
+### 2)
+
+wskazanie miejsca bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w miarę możliwości poprzez podanie adresu lub numeru działki ewidencyjnej, na której stwierdzono ich wystąpienie;
+
+### 3)
+
+informacje na temat czasu wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w miarę możliwości poprzez wskazanie daty ich wystąpienia;
+
+### 4)
+
+opis stwierdzonej sytuacji wskazującej na występowanie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, w tym w miarę możliwości, określenie ich rodzaju.
+
+### 4.
+
+Zgłoszenie powinno, w miarę możliwości, zawierać dokumentację potwierdzającą wystąpienie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku i wskazanie odpowiedzialnego podmiotu korzystającego ze środowiska, a w przypadku zgłoszenia dotyczącego szkody w powierzchni ziemi - nazwy substancji powodujących ryzyko oraz wyniki badań zanieczyszczenia gleby i ziemi tymi substancjami, wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ,
+
+### c)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Do zgłoszenia w formie elektronicznej dołącza się zeskanowaną dokumentację, o której mowa w ust. 4.
+
+” ,
+
+### d)
+
+ust. 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5.
+
+Organ ochrony środowiska, uznając za uzasadnione zgłoszenie, o którym mowa w ust. 1, postanawia o wszczęciu postępowania w sprawie wydania decyzji, o której mowa w art. 15 ust. 1 pkt 2, albo w przypadkach, o których mowa w art. 16, podejmuje działania zapobiegawcze lub naprawcze. Przepisy art. 17 stosuje się odpowiednio.
+
+### 6.
+
+Organizacja ekologiczna dokonująca zgłoszenia, na podstawie którego wszczęto postępowanie, ma prawo uczestniczyć w tym postępowaniu na prawach strony.
+
+” ;
+
+### 19)
+
+po art. 24 dodaje się art. 24a w brzmieniu:
+
+„
+
+### Art. 24a.
+
+### 1.
+
+Organ ochrony środowiska zawiesza postępowanie wszczęte na podstawie art. 24 ust. 5 do czasu usunięcia odpadów z miejsc nieprzeznaczonych do ich składowania lub magazynowania.
+
+### 2.
+
+Organ ochrony środowiska podejmuje postępowanie z urzędu w terminie 2 miesięcy od dnia powzięcia informacji o usunięciu odpadów, o którym mowa w ust. 1.
+
+” ;
+
+### 20)
+
+w art. 25 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ ochrony środowiska wprowadza niezwłocznie do rejestru, o którym mowa w art. 26a ust. 1, dane ze zgłoszenia, o którym mowa w art. 11 ust. 1, oraz uzasadnionego zgłoszenia, o którym mowa w art. 24 ust. 1.
+
+” ;
+
+### 21)
+
+art. 26 otrzymuje brzmienie:
+
+„
+
+### Art. 26.
+
+### 1.
+
+Po otrzymaniu od podmiotu korzystającego ze środowiska informacji o zakończeniu działań zapobiegawczych lub naprawczych, o której mowa w art. 19, albo po zakończeniu prowadzonych przez organ ochrony środowiska działań zapobiegawczych lub naprawczych organ ochrony środowiska wprowadza do rejestru, o którym mowa w art. 26a ust. 1, następujące dane:
+
+### 1)
+
+określenie rodzaju, opis, wskazanie miejsca i datę wystąpienia lub wykrycia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku;
+
+### 2)
+
+imię i nazwisko albo nazwę, adres zamieszkania albo adres siedziby oraz określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, jeżeli został on zidentyfikowany;
+
+### 3)
+
+datę wszczęcia postępowania w sprawie;
+
+### 4)
+
+zeskanowane decyzje wydane w sprawie;
+
+### 5)
+
+informacje o odwołaniach od decyzji, o których mowa w pkt 4, wskazanie podmiotu odwołującego się od decyzji, organu, do którego wniesiono odwołanie, przyczyn odwołania, treści i daty wydania decyzji przez organ odwoławczy;
+
+### 6)
+
+datę zakończenia działań zapobiegawczych lub naprawczych;
+
+### 7)
+
+opis przeprowadzonych działań zapobiegawczych lub naprawczych oraz osiągniętego efektu ekologicznego.
+
+### 2.
+
+Organ ochrony środowiska, wprowadza również do rejestru, o którym mowa w art. 26a ust. 1, następujące dane, o ile je posiada:
+
+### 1)
+
+wskazanie źródła finansowania kosztów działań zapobiegawczych lub naprawczych;
+
+### 2)
+
+informację o bezpośrednim pokryciu kosztów przez obowiązanego do ich ponoszenia;
+
+### 3)
+
+informację o pełnym albo częściowym odzyskaniu kosztów od obowiązanego do ich ponoszenia w wyniku postępowania egzekucyjnego;
+
+### 4)
+
+informację o pełnym albo częściowym odzyskaniu kosztów ze środków zabezpieczenia finansowego podmiotu korzystającego ze środowiska;
+
+### 5)
+
+informację o przyczynie nieodzyskania całości albo części kosztów.
+
+### 3.
+
+W przypadku gdy w chwili zakończenia działań zapobiegawczych lub naprawczych trwa postępowanie egzekucyjne w celu odzyskania kosztów od obowiązanego do ich ponoszenia, informację o wynikach tego postępowania przekazuje się Generalnemu Dyrektorowi Ochrony Środowiska po jego zakończeniu.
+
+” ;
+
+### 22)
+
+po art. 26 dodaje się art. 26a w brzmieniu:
+
+„
+
+### Art. 26a.
+
+### 1.
+
+Generalny Dyrektor Ochrony Środowiska prowadzi, przy użyciu systemu teleinformatycznego, rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, które wystąpiły na terenie kraju.
+
+### 2.
+
+W rejestrze gromadzi się:
+
+### 1)
+
+informacje o zgłoszonych bezpośrednich zagrożeniach szkodą w środowisku oraz szkodach w środowisku, w tym rodzaju, charakterystyce, miejscu i czasie wystąpienia bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku;
+
+### 2)
+
+informacje o podejmowanych w związku z wystąpieniem bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku działaniach zapobiegawczych i naprawczych oraz osiągniętych w ich wyniku efektach ekologicznych;
+
+### 3)
+
+imię i nazwisko albo nazwę i określenie przedmiotu wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD), podmiotu korzystającego ze środowiska, którego działalność była przyczyną bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku, oraz adres jego zamieszkania albo adres siedziby;
+
+### 4)
+
+inne istotne informacje o bezpośrednich zagrożeniach szkodą w środowisku oraz szkodach w środowisku, w szczególności o postępowaniach administracyjnych i sądowo-administracyjnych w sprawach bezpośrednich zagrożeń szkodą w środowisku lub szkód w środowisku.
+
+### 3.
+
+Organ ochrony środowiska wprowadza i aktualizuje informacje w rejestrze, o którym mowa w ust. 1, na każdym etapie postępowania administracyjnego i sądowo-administracyjnego.
+
+### 4.
+
+Generalny Dyrektor Ochrony Środowiska może dokonywać zmian w rejestrze, jeżeli stwierdzi niezgodność zawartych w nim danych z posiadanymi informacjami, w szczególności wynikającymi z prowadzonych postępowań administracyjnych i sądowo-administracyjnych w zakresie bezpośrednich zagrożeń szkodą w środowisku oraz szkód w środowisku.
+
+### 5.
+
+Bezpośredni dostęp do wszystkich danych zawartych w rejestrze posiadają, za pośrednictwem systemu teleinformatycznego, organy ochrony środowiska oraz organy Inspekcji Ochrony Środowiska.
+
+### 6.
+
+Generalny Dyrektor Ochrony Środowiska przygotowuje i przekazuje ministrowi właściwemu do spraw środowiska, w terminie do końca lutego każdego roku, zbiorczą informację na temat zawartości rejestru, o którym mowa w ust. 1, za rok poprzedni.
+
+### 7.
+
+Minister właściwy do spraw środowiska, biorąc pod uwagę zakres informacji wymagany do sporządzenia raportów dla Komisji Europejskiej dotyczących doświadczeń nabytych podczas stosowania przepisów w zakresie odpowiedzialności za zapobieganie szkodom w środowisku i naprawę szkód w środowisku, użyteczność i zapewnienie sprawnego funkcjonowania rejestru oraz potrzebę zapewnienia dostępu do informacji o środowisku, określi, w drodze rozporządzenia, szczegółowy zakres informacji, które są gromadzone w rejestrze.
+
+” ;
+
+### 23)
+
+w rozdziale 5 po art. 26a dodaje się art. 26b-26d w brzmieniu:
+
+„
+
+### Art. 26b.
+
+W przypadku stwierdzenia, że zgłoszone przez organ ochrony środowiska bezpośrednie zagrożenie szkodą w środowisku lub szkoda w środowisku mogą mieć skutki na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Generalny Dyrektor Ochrony Środowiska niezwłocznie zawiadamia o tym właściwy organ państwa, na którego terytorium skutki te mogą wystąpić.
+
+### Art. 26c.
+
+Generalny Dyrektor Ochrony Środowiska po uzyskaniu informacji o bezpośrednim zagrożeniu szkodą w środowisku lub o szkodzie w środowisku, które zostały spowodowane na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, a których skutki mogą oddziaływać na terytorium Rzeczypospolitej Polskiej, niezwłocznie zawiadamia o tym właściwy organ ochrony środowiska.
+
+### Art. 26d.
+
+Przepisów art. 26b i art. 26c nie stosuje się do poważnych awarii przemysłowych w rozumieniu ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” ;
+
+### 24)
+
+w art. 29 dodaje się ust. 3 i 4 w brzmieniu:
+
+„
+
+### 3.
+
+Karze, o której mowa w ust. 1, podlega, kto będąc obowiązany na podstawie art. 19, nie informuje o zakończeniu działań zapobiegawczych lub naprawczych.
+
+### 4.
+
+Karze, o której mowa w ust. 1, podlega, kto nie prowadzi badań, pomiarów lub monitoringu, będąc do tego obowiązany decyzją wydaną na podstawie art. 20 ust. 1 lub nie zapewnia wykonania badań i pomiarów zgodnie z art. 20 ust. 4, lub nie przechowuje wyników badań w wymaganym okresie wbrew art. 20 ust. 2.
+
+” ;
+
+### 25)
+
+po art. 29 dodaje się art. 29a w brzmieniu:
+
+„
+
+### Art. 29a.
+
+Orzekanie w sprawach o czyny określone w art. 28 i art. 29 następuje na podstawie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2013 r. poz. 395](https://api.sejm.gov.pl/eli/acts/DU/2013/395/text.html), z późn. zm.[22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969.](#gloss-0:22:)).
+
+” ;
+
+### 26)
+
+uchyla się art. 35.
+
+### Art. 10.
+
+W ustawie z dnia 10 lipca 2008 r. o odpadach wydobywczych ([Dz. U. z 2013 r. poz. 1136](https://api.sejm.gov.pl/eli/acts/DU/2013/1136/text.html)) w art. 3 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+niezanieczyszczona gleba - glebę, która została usunięta z górnej warstwy powierzchni ziemi w trakcie działalności wydobywczej i która nie przekracza dopuszczalnych zawartości w glebie oraz dopuszczalnych zawartości w ziemi substancji powodujących ryzyko, o których mowa w przepisach wydanych na podstawie art. 101a ust. 5 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101.](#gloss-0:23:)), dla gruntów występujących w miejscu użycia tej gleby lub ziemi;
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. z 2013 r. poz. 1235](https://api.sejm.gov.pl/eli/acts/DU/2013/1235/text.html), z późn. zm.[24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822 i 850.](#gloss-0:24:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 21 w ust. 2:
+
+### a)
+
+w pkt 23:
+
+- - w lit. a uchyla się tiret pierwsze,
+
+- - uchyla się lit. b,
+
+- - po lit. e dodaje się lit. ea i eb w brzmieniu: „ ea) harmonogramach zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi, eb) rejestrze historycznych zanieczyszczeń powierzchni ziemi, ” ,
+
+- - lit. f otrzymuje brzmienie: „ f) wnioskach o wydanie decyzji i o decyzjach ustalających plan remediacji historycznego zanieczyszczenia powierzchni ziemi, ” ,
+
+### b)
+
+pkt 29 otrzymuje brzmienie:
+
+„
+
+### 29)
+
+z zakresu ustawy z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska ([Dz. U. z 2013 r. poz. 686](https://api.sejm.gov.pl/eli/acts/DU/2013/686/text.html) i [888](https://api.sejm.gov.pl/eli/acts/DU/2013/888/text.html) oraz [z 2014 r. poz. 1101](https://api.sejm.gov.pl/eli/acts/DU/2014/1101/text.html)) - o rejestrach poważnych awarii;
+
+” ,
+
+### c)
+
+w pkt 35 w lit. b średnik zastępuje się przecinkiem i dodaje się lit. c i d w brzmieniu:
+
+„
+
+### c)
+
+harmonogramach zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o których mowa w art. 16a tej ustawy,
+
+### d)
+
+rejestrze bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o którym mowa w art. 26a ust. 1 tej ustawy;
+
+” ;
+
+### 2)
+
+w art. 24 w ust. 1 w pkt 1 uchyla się lit. e;
+
+### 3)
+
+w art. 25 w ust. 1:
+
+### a)
+
+w pkt 1 uchyla się lit. a,
+
+### b)
+
+w pkt 4 w lit. a dodaje się tiret siódme w brzmieniu:
+
+„
+
+- - decyzje udzielające lub zmieniające pozwolenia zintegrowane, o których mowa w art. 181 ust. 1 pkt 1 tej ustawy,
+
+” ,
+
+### c)
+
+po pkt 5 dodaje się pkt 5a w brzmieniu:
+
+„
+
+### 5a)
+
+przez regionalnego dyrektora ochrony środowiska - decyzje udzielające lub zmieniające pozwolenia zintegrowane, o których mowa w art. 181 ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska;
+
+” ,
+
+### d)
+
+w pkt 7 w lit. a dodaje się tiret czwarte w brzmieniu:
+
+„
+
+- - decyzje udzielające lub zmieniające pozwolenia zintegrowane, o których mowa w art. 181 ust. 1 pkt 1 tej ustawy,
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji ([Dz. U. z 2013 r. poz. 1107](https://api.sejm.gov.pl/eli/acts/DU/2013/1107/text.html)) art. 11 otrzymuje brzmienie:
+
+„
+
+### Art. 11.
+
+Krajowy ośrodek przygotowuje i przekazuje ministrowi właściwemu do spraw środowiska, na 30 dni przed terminami wynikającymi z przepisów prawa Unii Europejskiej lub umów międzynarodowych z zakresu ochrony środowiska:
+
+### 1)
+
+roczne inwentaryzacje emisji:
+
+### a)
+
+gazów cieplarnianych, zgodnie z wytycznymi do Konwencji Klimatycznej,
+
+### b)
+
+substancji określonych w Konwencji w sprawie transgranicznego zanieczyszczania powietrza na dalekie odległości, sporządzonej w Genewie dnia 13 listopada 1979 r. ([Dz. U. z 1985 r. Nr 60, poz. 311](https://api.sejm.gov.pl/eli/acts/DU/1985/311/text.html) oraz z [1988 r. Nr 40, poz. 313](https://api.sejm.gov.pl/eli/acts/DU/1988/313/text.html)),
+
+### c)
+
+substancji, dla których poziomy emisji lub stężeń zostały określone w przepisach prawa Unii Europejskiej;
+
+### 2)
+
+informacje i dane, które mają być przekazane Komisji Europejskiej, dotyczące źródeł spalania paliw, o których mowa w art. 157a ust. 1 pkt 7 i ust. 2 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 14 grudnia 2012 r. o odpadach ([Dz. U. z 2013 r. poz. 21](https://api.sejm.gov.pl/eli/acts/DU/2013/21/text.html), z późn. zm.[25) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695.](#gloss-0:25:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 pkt 26 otrzymuje brzmienie:
+
+„
+
+### 26)
+
+spalarni odpadów - rozumie się przez to zakład lub jego część przeznaczone do termicznego przekształcania odpadów z odzyskiem lub bez odzysku wytwarzanej energii cieplnej, obejmujące instalacje i urządzenia służące do prowadzenia procesu termicznego przekształcania odpadów wraz z oczyszczaniem gazów odlotowych i wprowadzaniem ich do powietrza, kontrolą, sterowaniem i monitorowaniem procesów oraz instalacjami związanymi z przyjmowaniem, wstępnym przetwarzaniem i magazynowaniem odpadów dostarczonych do termicznego przekształcania oraz instalacjami związanymi z magazynowaniem i przetwarzaniem substancji otrzymanych w wyniku spalania i oczyszczania gazów odlotowych; jeżeli współspalanie odpadów odbywa się w taki sposób, że głównym celem tej instalacji nie jest wytwarzanie energii ani wytwarzanie produktów materialnych, tylko termiczne przekształcenie odpadów, wówczas instalacja ta uważana jest za spalarnię odpadów;
+
+” ;
+
+### 2)
+
+w art. 34:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dla osiągnięcia celów założonych w polityce ochrony środowiska, oddzielenia tendencji wzrostu ilości wytwarzanych odpadów i ich wpływu na środowisko od tendencji wzrostu gospodarczego kraju, wdrażania hierarchii sposobów postępowania z odpadami oraz zasady samowystarczalności i bliskości, a także utworzenia i utrzymania w kraju zintegrowanej i wystarczającej sieci instalacji gospodarowania odpadami, spełniających wymagania ochrony środowiska, opracowuje się plany gospodarki odpadami.
+
+” ,
+
+### b)
+
+uchyla się ust. 2;
+
+### 3)
+
+w art. 42 dodaje się ust. 7 w brzmieniu:
+
+„
+
+### 7.
+
+Organ administracji zapewnia możliwość udziału społeczeństwa, na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, w postępowaniu, którego przedmiotem jest wydanie zezwolenia dotyczącego instalacji do termicznego przekształcania odpadów lub decyzji o zmianie tego zezwolenia.
+
+” ;
+
+### 4)
+
+art. 157 otrzymuje brzmienie:
+
+„
+
+### Art. 157.
+
+### 1.
+
+Spalarnie odpadów oraz współspalarnie odpadów są projektowane, budowane, wyposażane i użytkowane w sposób zapewniający osiągnięcie poziomu termicznego przekształcania odpadów, przy którym ilość i szkodliwość dla życia, zdrowia ludzi lub dla środowiska, odpadów i innych emisji powstających wskutek termicznego przekształcania odpadów będzie jak najmniejsza.
+
+### 2.
+
+Jeżeli do termicznego przekształcania odpadów stosuje się procesy inne niż utlenianie, takie jak piroliza, zgazowanie lub proces plazmowy, wówczas spalarnia odpadów lub współspalarnia odpadów obejmuje zarówno te procesy, jak i następujący po nich proces spalania substancji powstających podczas tych procesów termicznego przekształcania odpadów.
+
+” ;
+
+### 5)
+
+w art. 163:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Przepisów art. 155-162 nie stosuje się również do instalacji do zgazowania lub pirolizy odpadów, jeżeli gazy powstałe w wyniku procesów zgazowania lub pirolizy są oczyszczone w takim stopniu, że przed spaleniem nie stanowią już odpadów i nie mogą spowodować emisji większych niż w wyniku spalania gazu ziemnego.
+
+” ,
+
+### b)
+
+w ust. 3:
+
+- - w pkt 1 uchyla się lit. c,
+
+- - uchyla się pkt 2.
+
+### Art. 14.
+
+### 1.
+
+Programy ochrony środowiska uchwalone w celu realizacji Polityki ekologicznej państwa na lata 2009-2012 z perspektywą do roku 2016, przed dniem wejścia w życie niniejszej ustawy zachowują ważność na czas, na jaki zostały uchwalone, jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+
+### 2.
+
+Jeżeli program ochrony środowiska, o którym mowa w ust. 1, wymaga aktualizacji, odpowiednio sejmik województwa, rada powiatu albo rada gminy uchwala nowy program ochrony środowiska uwzględniający cele zawarte w strategiach, programach i dokumentach programowych, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju ([Dz. U. z 2009 r. Nr 84, poz. 712](https://api.sejm.gov.pl/eli/acts/DU/2009/712/text.html), z późn. zm.[26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379.](#gloss-0:26:)).
+
+### Art. 15.
+
+Do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1, za dopuszczalne zawartości w glebie i w ziemi substancji powodujących ryzyko, o których mowa w art. 101a ust. 2 ustawy zmienianej w art. 1, uważa się standardy jakości gleby oraz standardy jakości ziemi określone w przepisach dotychczasowych.
+
+### Art. 16.
+
+W terminie 2 lat od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1, dopuszcza się wykonywanie badań zanieczyszczenia gleby i ziemi przez laboratorium posiadające akredytację w zakresie wykonywania w glebie i w ziemi pomiarów zawartości substancji, o których mowa w przepisach wykonawczych wydanych na podstawie art. 105 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### Art. 17.
+
+Starosta przekaże regionalnemu dyrektorowi ochrony środowiska wykaz potencjalnych historycznych zanieczyszczeń powierzchni ziemi w 25 miesiącu od dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5 ustawy zmienianej w art. 1.
+
+### Art. 18.
+
+Generalny Dyrektor Ochrony Środowiska uruchomi system teleinformatyczny do prowadzenia rejestru historycznych zanieczyszczeń powierzchni ziemi, nie później jednak niż w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 19.
+
+### 1.
+
+W stosunku do podmiotu posiadającego decyzję w sprawie rekultywacji zanieczyszczonej gleby lub ziemi, wydaną przed dniem wejścia w życie niniejszej ustawy, nie wydaje się decyzji w sprawie remediacji, o której mowa w ustawie zmienianej w art. 1.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się w przypadku, o którym mowa w art. 20 ust. 1.
+
+### Art. 20.
+
+### 1.
+
+Na wniosek obowiązanego do przeprowadzenia rekultywacji lub na wniosek obowiązanego do przeprowadzenia działań naprawczych dotyczących szkody w środowisku w powierzchni ziemi, złożony do regionalnego dyrektora ochrony środowiska, uchyla się decyzje wydane na podstawie:
+
+### 1)
+
+art. 106 ust. 2 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r. w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 2)
+
+art. 362 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
+
+### 3)
+
+art. 13 ust. 3 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 4)
+
+art. 15 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym
+
+- i wydaje odpowiednio, dla historycznego zanieczyszczenia powierzchni ziemi - decyzję ustalającą plan remediacji na podstawie art. 101l ust. 4 ustawy zmienianej w art. 1, a dla szkody w środowisku w powierzchni ziemi - decyzję o uzgodnieniu warunków przeprowadzenia działań naprawczych, która ustala plan remediacji na podstawie art. 13 ust. 3 pkt 2 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do wniosku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 101l ust. 2 ustawy zmienianej w art. 1 i art. 13 ust. 2a ustawy zmienianej w art. 9.
+
+### Art. 21.
+
+### 1.
+
+Postępowania wszczęte i niezakończone decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, w sprawach:
+
+### 1)
+
+nałożenia obowiązku poniesienia kosztów rekultywacji, o których mowa w art. 102 ust. 8 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 2)
+
+uzgodnienia warunków rekultywacji, o których mowa w art. 106 ust. 2 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 3)
+
+nałożenia obowiązku prowadzenia pomiarów zawartości substancji w glebie lub ziemi, o których mowa w art. 107 ust. 1 ustawy zmienianej w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 4)
+
+rekultywacji dokonywanej przez organ, o których mowa w art. 108 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu ustalonym na dzień 29 kwietnia 2007 r., w związku z art. 35 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 5)
+
+nałożenia obowiązku rekultywacji, o których mowa w art. 362 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym,
+
+### 6)
+
+uzgodnienia warunków prowadzenia działań naprawczych, o których mowa w art. 13 ust. 3 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 7)
+
+nałożenia obowiązku przeprowadzenia działań zapobiegawczych lub naprawczych, o których mowa w art. 15 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 8)
+
+zakresu udostępniania powierzchni ziemi przez władającego powierzchnią ziemi oraz zakresu i sposobu przeprowadzenia działań zapobiegawczych lub naprawczych, o których mowa w art. 17 ust. 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 9)
+
+nałożenia obowiązku prowadzenia pomiarów zawartości substancji w glebie lub ziemi lub wodzie lub monitoringu przyrodniczego różnorodności biologicznej krajobrazowej, o których mowa w art. 20 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym,
+
+### 10)
+
+nałożenia obowiązku poniesienia kosztów działań zapobiegawczych lub naprawczych, o których mowa w art. 23 ust. 4 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym
+
+- stają się postępowaniami, wszczętymi odpowiednio z urzędu lub na wniosek, na podstawie przepisów ustawy zmienianej w art. 1 oraz w art. 9, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+W sprawach o uzgodnienie:
+
+### 1)
+
+warunków przeprowadzenia rekultywacji, o których mowa w ust. 1 pkt 2,
+
+### 2)
+
+warunków prowadzenia działań naprawczych w odniesieniu do szkody w środowisku w powierzchni ziemi, o których mowa w ust. 1 pkt 6
+
+- organ wzywa do przedłożenia odpowiednio wniosku, o którym mowa w art. 101l ust. 2 ustawy zmienianej w art. 1, albo wniosku o uzgodnienie przeprowadzenia działań naprawczych, o którym mowa w art. 13 ust. 2a ustawy zmienianej w art. 9, i wyznacza termin jego przedłożenia, nie krótszy niż 3 miesiące.
+
+### 3.
+
+Jeżeli nie przedłożono wniosku zgodnie z wezwaniem, o którym mowa w ust. 2, organ stosuje odpowiednio przepis art. 101m ust. 1 pkt 2 ustawy zmienianej w art. 1 albo przepis art. 15 ust. 1 pkt 2 ustawy zmienianej w art. 9.
+
+### Art. 22.
+
+Dotychczasowe akty prawa miejscowego wydane na podstawie art. 135 ust. 2 albo ust. 3 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych aktów prawa miejscowego wydanych na podstawie art. 135 ust. 2 albo ust. 3 ustawy zmienianej w art. 1 i mogą być zmieniane.
+
+### Art. 23.
+
+### 1.
+
+Do źródeł spalania paliw, dla których pozwolenie na budowę wydano przed dniem 7 stycznia 2013 r. lub wniosek o wydanie takiego pozwolenia został złożony przed tym dniem, i źródła zostały oddane do użytkowania nie później niż w dniu 7 stycznia 2014 r., przepisy:
+
+### 1)
+
+art. 157a ust. 1 pkt 3 ustawy zmienianej w art. 1, w zakresie decyzji wykonawczej Komisji z dnia 7 maja 2012 r. dotyczącej określenia okresów rozruchu i wyłączania do celów dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE w sprawie emisji przemysłowych,
+
+### 2)
+
+art. 157a ust. 2 ustawy zmienianej w art. 1
+
+- stosuje się od dnia 1 stycznia 2016 r.
+
+### 2.
+
+Do dnia 31 grudnia 2015 r. standardy emisyjne dla źródeł spalania paliw, o których mowa w ust. 1, dla których pierwsze pozwolenie na budowę wydano po dniu 30 czerwca 1987 r., o łącznej nominalnej mocy cieplnej nie mniejszej niż 50 MW, z których gazy odlotowe są odprowadzane do powietrza przez wspólny komin, stanowią standardy emisyjne odpowiadające łącznej nominalnej mocy cieplnej tych źródeł.
+
+### 3.
+
+Do źródeł spalania paliw lub ich części wymienionych w Akcie dotyczącym warunków przystąpienia Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii, Republiki Słowackiej oraz dostosowań w Traktatach stanowiących podstawę Unii Europejskiej, w Załączniku XII, w Rozdziale 13, w Sekcji D, w punkcie 2 literze b lub literze c (Dz. U. z 2004 r. Nr 90, poz. 864) przepisów art. 157a ust. 2 ustawy zmienianej w art. 1 nie stosuje się przy określaniu odpowiednio dopuszczalnych wielkości emisji tlenków azotu i dopuszczalnych wielkości emisji pyłu obowiązujących do terminów tam określonych.
+
+### Art. 24.
+
+Dane, o których mowa w art. 146b ust. 3 ustawy zmienianej w art. 1, są przekazywane po raz pierwszy do końca lutego 2017 r., przy czym:
+
+### 1)
+
+w roku 2017 są to dane o udziale ciepła dostarczonego do publicznej sieci ciepłowniczej w postaci pary lub gorącej wody w produkcji ciepła użytkowego wytwarzanego w źródle spalania paliw osiągniętym 2016 r.;
+
+### 2)
+
+w roku 2018 - dane, o których mowa w pkt 1, obliczone jako średnia arytmetyczna z roku 2016 i 2017;
+
+### 3)
+
+w roku 2019 - dane, o których mowa w pkt 1, obliczone jako średnia arytmetyczna z roku 2016, 2017 i 2018;
+
+### 4)
+
+w roku 2020 - dane, o których mowa w pkt 1, obliczone jako średnia arytmetyczna z roku 2016, 2017, 2018 i 2019;
+
+### 5)
+
+od roku 2021 - dane, o których mowa w pkt 1, obliczone dla każdego roku jako średnia arytmetyczna z pięciu poprzedzających go lat.
+
+### Art. 25.
+
+Projekt Przejściowego Planu Krajowego przyjęty przed dniem wejścia w życie niniejszej ustawy może być zmieniany na podstawie art. 146f ust. 1 ustawy zmienianej w art. 1.
+
+### Art. 26.
+
+Do zgłoszeń, o których mowa w art. 152 ust. 4 ustawy zmienianej w art. 1, dokonanych przed dniem wejścia w życie niniejszej ustawy, przy wnoszeniu sprzeciwu, stosuje się przepisy dotychczasowe.
+
+### Art. 27.
+
+Z dniem wejścia w życie niniejszej ustawy wygasają decyzje wydane dotychczas na podstawie art. 189 i art. 190 ust. 3 ustawy zmienianej w art. 1, które nie wywołały skutków prawnych w związku z nieuzyskaniem tytułu prawnego do instalacji lub jej oznaczonej części.
+
+### Art. 28.
+
+### 1.
+
+Pozwolenia zintegrowane wydane dla instalacji, które były eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1, oraz nie będą objęte obowiązkiem uzyskania pozwolenia zintegrowanego od dnia wejścia w życie tych przepisów, pozostają w mocy na czas, na jaki zostały wydane, w zakresie, w jakim wymagają one uzyskania pozwolenia, o którym mowa w art. 181 ust. 1 pkt 2-4 ustawy zmienianej w art. 1, oraz pozwolenia wodnoprawnego na pobór wód.
+
+### 2.
+
+Pozwolenia zintegrowane wydane dla instalacji, które były eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1, oraz będą objęte obowiązkiem uzyskania pozwolenia zintegrowanego - organ właściwy do ich wydania:
+
+### 1)
+
+zmienia z urzędu, w zakresie czasu, na jaki zostały wydane, zgodnie z art. 188 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą oraz
+
+### 2)
+
+analizuje, i jeżeli to konieczne, zmienia z urzędu, w celu dostosowania do wymagań wynikających z przepisów art. 211 ust. 5 i ust. 6 pkt 3 i 12 ustawy, o której mowa w art. 1 w brzmieniu nadanym niniejszą ustawą
+
+- w terminie 3 miesięcy od dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1.
+
+### 3.
+
+Obowiązek uzyskania pozwolenia zintegrowanego dla instalacji, które:
+
+### 1)
+
+są eksploatowane w dniu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1 oraz
+
+### 2)
+
+nie były objęte obowiązkiem uzyskania pozwolenia zintegrowanego ze względu na rodzaj prowadzonej w niej działalności przed dniem wejścia w życie tych przepisów, a od dnia ich wejścia w życie będą objęte tym obowiązkiem
+
+- powstaje z dniem 1 lipca 2015 r.
+
+### 4.
+
+Przepisy ust. 2 stosuje się odpowiednio do pozwoleń zintegrowanych wydanych dla instalacji, których eksploatacja nie rozpoczęła się w dniu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 201 ust. 2 ustawy zmienianej w art. 1.
+
+### 5.
+
+Na wniosek prowadzących instalację, o których mowa w ust. 3, pozwolenie zintegrowane może zostać wydane przed dniem 1 lipca 2015 r.
+
+### Art. 29.
+
+### 1.
+
+Przy pierwszym postępowaniu w przedmiocie zmiany pozwolenia zintegrowanego wszczętym po zakończeniu postępowania w sprawie zmiany pozwolenia zintegrowanego, o którym mowa w art. 28 ust. 2, prowadzący instalację:
+
+### 1)
+
+wymagającą uzyskania pozwolenia zintegrowanego oraz
+
+### 2)
+
+gdy jej eksploatacja obejmuje wykorzystywanie, produkcję lub uwalnianie substancji powodujących ryzyko oraz występuje możliwość zanieczyszczenia gleby, ziemi lub wód gruntowych na terenie zakładu
+
+- opracowuje i przedkłada organowi właściwemu do wydania pozwolenia raport początkowy, o którym mowa w art. 208 ust. 2 pkt 4 lit. a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+W pozwoleniu zintegrowanym zmienionym w wyniku postępowania, o którym mowa w ust. 1, określa się także sposób prowadzenia systematycznej oceny ryzyka zanieczyszczenia gleby, ziemi i wód gruntowych substancjami powodującymi ryzyko, które mogą znajdować się na terenie zakładu w związku z eksploatacją instalacji, albo sposób i częstotliwość wykonywania badań zanieczyszczenia gleby i ziemi tymi substancjami oraz pomiarów zawartości tych substancji w wodach gruntowych, w tym pobierania próbek.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio w sprawie ograniczenia bez odszkodowania pozwolenia zintegrowanego dla instalacji, o której mowa w ust. 1, w postępowaniu prowadzonym w trybie art. 195 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 30.
+
+### 1.
+
+W terminie nie dłuższym niż 12 miesięcy od dnia wejścia w życie niniejszej ustawy prowadzący instalację spalania paliw, której częścią są źródła spalania paliw, do których może mieć zastosowanie druga zasada łączenia, o której mowa w art. 157a ust. 2 pkt 2 ustawy zmienianej w art. 1, przedkłada organowi właściwemu do wydania pozwolenia analizę dotyczącą możliwości technicznych odprowadzania gazów odlotowych ze źródeł jednym kominem oraz skutków ekonomicznych zastosowania tej zasady.
+
+### 2.
+
+Organ właściwy do wydania pozwolenia może wystąpić do Prezesa Urzędu Regulacji Energetyki o opinię, o której mowa w art. 23 ust. 2 pkt 21a ustawy zmienianej w art. 4.
+
+### Art. 31.
+
+W przypadku konkluzji BAT opublikowanych w Dzienniku Urzędowym Unii Europejskiej przed dniem wejścia w życie niniejszej ustawy:
+
+### 1)
+
+analizy, o której mowa w art. 215 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, dokonuje się nie później niż w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy;
+
+### 2)
+
+w informacji, o której mowa w art. 215 ust. 4 pkt 1 ustawy zmienianej w art. 1, wskazuje się termin nie dłuższy niż 4 lata od dnia wejścia w życie niniejszej ustawy;
+
+### 3)
+
+w decyzji, o której mowa w art. 215 ust. 5 ustawy zmienianej w art. 1, określa się termin nie dłuższy niż 4 lata od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 32.
+
+Główny Inspektor Ochrony Środowiska przekaże, w formie elektronicznej bazy danych oraz wydruku, Generalnemu Dyrektorowi Ochrony Środowiska, niezwłocznie po dniu wejścia w życie niniejszej ustawy rejestr bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, prowadzony na podstawie art. 28a ust. 1 ustawy zmienianej w art. 2.
+
+### Art. 33.
+
+Główny Inspektor Ochrony Środowiska przekaże, na podstawie spisu zdawczo-odbiorczego, Generalnemu Dyrektorowi Ochrony Środowiska niezwłocznie po dniu wejścia w życie niniejszej ustawy otrzymane zgodnie z:
+
+### 1)
+
+art. 25 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym - kopie zgłoszeń, o których mowa w art. 11 ust. 1 i art. 24 ust. 1 i 2 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym;
+
+### 2)
+
+art. 26 ust. 1 ustawy zmienianej w art. 9, w brzmieniu dotychczasowym - informacje i zgłoszenia o zakończeniu działań zapobiegawczych lub naprawczych.
+
+### Art. 34.
+
+### 1.
+
+Generalny Dyrektor Ochrony Środowiska uruchomi system teleinformatyczny do prowadzenia rejestru bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, o którym mowa w art. 26a ust. 1 ustawy zmienianej w art. 9, nie później niż w terminie 2 lat od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Generalny Dyrektor Ochrony Środowiska wprowadzi do rejestru, o którym mowa w art. 26a ust. 1 ustawy zmienianej w art. 9, dane z rejestru, ze zgłoszeń i informacji otrzymanych na podstawie art. 32 i art. 33, w terminie 6 miesięcy od dnia uruchomienia systemu teleinformatycznego.
+
+### 3.
+
+Regionalny dyrektor ochrony środowiska wprowadzi do rejestru dane z otrzymanych, przed uruchomieniem systemu teleinformatycznego:
+
+### 1)
+
+zgłoszeń, o których mowa w art. 11 ust. 1 ustawy zmienianej w art. 9,
+
+### 2)
+
+uzasadnionych zgłoszeń, o których mowa w art. 24 ust. 1 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą,
+
+### 3)
+
+informacji, o których mowa w art. 26 ust. 1 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą
+
+- w terminie 6 miesięcy od dnia jego uruchomienia.
+
+### 4.
+
+Regionalny dyrektor ochrony środowiska wprowadza do rejestru dane o zakończeniu prowadzonych przez siebie, przed uruchomieniem systemu teleinformatycznego, działań zapobiegawczych lub naprawczych oraz dane, o których mowa w art. 26 ust. 2 ustawy zmienianej w art. 9 w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia jego uruchomienia.
+
+### Art. 35.
+
+Regionalny dyrektor ochrony środowiska ustali pierwszy harmonogram zadań w zakresie historycznych zanieczyszczeń powierzchni ziemi oraz pierwszy harmonogram zadań w zakresie bezpośrednich zagrożeń szkodą w środowisku i szkód w środowisku, nie później niż w terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 36.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 105, art. 201 ust. 2 i art. 210 ust. 4 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 101a ust. 5, art. 201 ust. 2 i art. 210 ust. 4 ustawy zmienianej w art. 1,
+
+### 2)
+
+art. 145 ust. 1 pkt 1 i art. 146 ust. 2 i 4 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 146 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą,
+
+### 3)
+
+art. 148 ust. 1 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 148 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą
+
+- jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 153 ust. 1 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 153 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 3.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1:
+
+### 1)
+
+w zakresie szczegółowych wymagań dotyczących ograniczenia emisji lotnych związków organicznych powstających w wyniku wykorzystywania rozpuszczalników organicznych w niektórych farbach i lakierach oraz w preparatach do odnawiania pojazdów - zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych w tym zakresie na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy;
+
+### 2)
+
+w zakresie szczegółowych wymagań dla niektórych produktów ze względu na ich negatywne oddziaływanie na środowisko - zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych w tym zakresie na podstawie art. 169 ust. 1 ustawy zmienianej w art. 1, i mogą być zmieniane na podstawie tych przepisów.
+
+### Art. 37.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 28a ust. 3 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 26a ust. 7 ustawy zmienianej w art. 9, jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 38.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 10 ustawy zmienianej w art. 9, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 10 ustawy zmienianej w art. 9,
+
+### 2)
+
+art. 14 ustawy zmienianej w art. 9, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 14 ustawy zmienianej w art. 9, w brzmieniu nadanym niniejszą ustawą
+
+- jednak nie dłużej niż przez okres 24 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 39.
+
+### 1.
+
+W latach 2014-2023 maksymalny limit wydatków Inspekcji Ochrony Środowiska będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+
+### 1)
+
+2014 r. - 0 zł;
+
+### 2)
+
+2015 r. - 40 tys. zł;
+
+### 3)
+
+2016 r. - 40 tys. zł;
+
+### 4)
+
+2017 r. - 40 tys. zł;
+
+### 5)
+
+2018 r. - 40 tys. zł;
+
+### 6)
+
+2019 r. - 40 tys. zł;
+
+### 7)
+
+2020 r. - 40 tys. zł;
+
+### 8)
+
+2021 r. - 40 tys. zł;
+
+### 9)
+
+2022 r. - 40 tys. zł;
+
+### 10)
+
+2023 r. - 40 tys. zł.
+
+### 2.
+
+W latach 2014-2023 maksymalny limit wydatków Inspekcji Handlowej będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+
+### 1)
+
+2014 r. - 0 zł;
+
+### 2)
+
+2015 r. - 40 tys. zł;
+
+### 3)
+
+2016 r. - 40 tys. zł;
+
+### 4)
+
+2017 r. - 40 tys. zł;
+
+### 5)
+
+2018 r. - 40 tys. zł;
+
+### 6)
+
+2019 r. - 40 tys. zł;
+
+### 7)
+
+2020 r. - 40 tys. zł;
+
+### 8)
+
+2021 r. - 40 tys. zł;
+
+### 9)
+
+2022 r. - 40 tys. zł;
+
+### 10)
+
+2023 r. - 40 tys. zł.
+
+### 3.
+
+W latach 2014-2023 maksymalny limit wydatków nadzoru budowlanego będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+
+### 1)
+
+2014 r. - 0 zł;
+
+### 2)
+
+2015 r. - 40 tys. zł;
+
+### 3)
+
+2016 r. - 40 tys. zł;
+
+### 4)
+
+2017 r. - 40 tys. zł;
+
+### 5)
+
+2018 r. - 40 tys. zł;
+
+### 6)
+
+2019 r. - 40 tys. zł;
+
+### 7)
+
+2020 r. - 40 tys. zł;
+
+### 8)
+
+2021 r. - 40 tys. zł;
+
+### 9)
+
+2022 r. - 40 tys. zł;
+
+### 10)
+
+2023 r. - 40 tys. zł.
+
+### 4.
+
+W latach 2014-2023 maksymalny limit wydatków Urzędu Regulacji Energetyki będący skutkiem finansowym wejścia w życie niniejszej ustawy wynosi w:
+
+### 1)
+
+2014 r. - 0 zł;
+
+### 2)
+
+2015 r. - 40 tys. zł;
+
+### 3)
+
+2016 r. - 40 tys. zł;
+
+### 4)
+
+2017 r. - 40 tys. zł;
+
+### 5)
+
+2018 r. - 40 tys. zł;
+
+### 6)
+
+2019 r. - 40 tys. zł;
+
+### 7)
+
+2020 r. - 40 tys. zł;
+
+### 8)
+
+2021 r. - 40 tys. zł;
+
+### 9)
+
+2022 r. - 40 tys. zł;
+
+### 10)
+
+2023 r. - 40 tys. zł.
+
+### 5.
+
+Organem monitorującym wykorzystanie limitu wydatków, określonego w ust. 1-4, jest odpowiednio minister właściwy do spraw środowiska, Prezes Urzędu Ochrony Konkurencji i Konsumentów, minister właściwy do spraw budownictwa oraz minister właściwy do spraw finansów publicznych.
+
+### 6.
+
+W przypadku przekroczenia lub zagrożenia przekroczenia przyjętego na dany rok budżetowy limitu wydatków, określonego w ust. 1-4, stosuje się mechanizm korygujący polegający na racjonalizacji wydatków.
+
+### Art. 40.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/75/UE z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola) (Dz. Urz. UE L 334 z 17.12.2010, str. 17, z późn. zm.). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska, ustawę z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 15 grudnia 2000 r. o Inspekcji Handlowej, ustawę z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw, ustawę z dnia 16 kwietnia 2004 r. o ochronie przyrody, ustawę z dnia 16 listopada 2006 r. o opłacie skarbowej, ustawę z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ustawę z dnia 10 lipca 2008 r. o odpadach wydobywczych, ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz ustawę z dnia 14 grudnia 2012 r. o odpadach. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457 i 822. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1513, z 2013 r. poz. 21 i 165 oraz z 2014 r. poz. 659, 822 i 850. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850 i 1101. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 143, poz. 1196, z 2003 r. Nr 7, poz. 78 i Nr 190, poz. 1865, z 2004 r. Nr 49, poz. 464, z 2005 r. Nr 113, poz. 954, z 2006 r. Nr 50, poz. 360 i Nr 133, poz. 935 oraz z 2014 r. poz. 1101. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1101, 1342 i 1529, z 2013 r. poz. 35, 985, 1027, 1036, 1145, 1149 i 1289 oraz z 2014 r. poz. 183, 567 i 915. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 843, 1446 i 1543 oraz z 2014 r. poz. 659. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1643 oraz z 2014 r. poz. 598 i 612. 12) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367, z 2012 r. poz. 1529, z 2013 r. poz. 898 oraz z 2014 r. poz. 822. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238 oraz z 2014 r. poz. 457, 490, 900 i 942. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 143, poz. 1196, z 2003 r. Nr 7, poz. 78 i Nr 190, poz. 1865, z 2004 r. Nr 49, poz. 464, z 2005 r. Nr 113, poz. 954 oraz z 2006 r. Nr 50, poz. 360 i Nr 133, poz. 935. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 628 i 842 oraz z 2014 r. poz. 805, 850, 926 i 1002. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101. 19) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 40, 768 i 822. 20) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448 i 1512, z 2013 r. poz. 21, 455 i 1650 oraz z 2014 r. poz. 312. 21) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822, 850 i 1101. 22) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 765 i 1247 oraz z 2014 r. poz. 486, 579, 786 i 969. 23) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457, 822 i 1101. 24) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 587, 822 i 850. 25) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 888 i 1238 oraz z 2014 r. poz. 695. 26) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2011 r. Nr 279, poz. 1644, z 2012 r. poz. 1237, z 2013 r. poz. 714 oraz z 2014 r. poz. 379.

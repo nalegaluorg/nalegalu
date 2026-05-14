@@ -8,11 +8,9 @@ pos: 877
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
-
-*USTAWA z dnia 10 czerwca 2014 r.*
+# Ustawa z dnia 10 czerwca 2014 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,32 @@ domain: null
 | Data ogłoszenia | 2014-06-10 |
 | Data wydania | 2014-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/877/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/877/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/877) |
 
-**Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) w art. 15:
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+### Art. 1.
 
+W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych ([Dz. U. z 2011 r. Nr 127, poz. 721](https://api.sejm.gov.pl/eli/acts/DU/2011/721/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598.](#gloss-0:1:)) w art. 15:
+
+### 1)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Czas pracy osoby niepełnosprawnej zaliczonej do znacznego lub umiarkowanego stopnia niepełnosprawności nie może przekraczać 7 godzin na dobę i 35 godzin tygodniowo.
+
+” ;
+
+### 2)
+
+uchyla się ust. 2a i 4.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 171, poz. 1016, Nr 209, poz. 1243 i 1244 i Nr 291, poz. 1707, z 2012 r. poz. 986 i 1456, z 2013 r. poz. 73, 675, 791, 1446 i 1645 oraz z 2014 r. poz. 598.

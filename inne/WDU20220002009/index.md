@@ -1,0 +1,269 @@
+---
+title: "Obwieszczenie Prezesa Rady Ministrów z dnia 7 września 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustanowienia Odznaki Honorowej Zasłużony dla Przemysłu Naftowego i Gazowniczego, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia"
+address: WDU20220002009
+eli: DU/2022/2009
+publisher: DU
+year: 2022
+pos: 2009
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Prezesa Rady Ministrówz dnia 7 września 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie ustanowienia Odznaki Honorowej Zasłużony dla Przemysłu Naftowego i Gazowniczego, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2009 |
+| ISAP | WDU20220002009 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-09-07 |
+| Data wydania | 2022-09-28 |
+| Ostatnia zmiana | 2025-11-25 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/2009/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/2009) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity rozporządzenia Rady Ministrów z dnia 17 listopada 2011 r. w sprawie ustanowienia Odznaki Honorowej Zasłużony dla Przemysłu Naftowego i Gazowniczego, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia](#part_2)
+
+- [Załącznik nr 1 - Wniosek o nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego osobie fizycznej (wzór)](#part_3)
+
+- [Załącznik nr 2 - Wniosek o nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego organizacji, instytucji, przedsiębiorstwu energetycznemu lub innemu podmiotowi prowadzącemu działalność gospodarczą (wzór)](#part_4)
+
+- [Załącznik nr 3 - Odznaka honorowej zasłużony dla przemysłu naftowego i gazowniczego (wzór)](#part_5)
+
+- [Załącznik nr 4 - Dyplom stwierdzający nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego (wzór)](#part_6)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 17 listopada 2011 r. w sprawie ustanowienia odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia ([Dz. U. z 2018 r. poz. 463](https://api.sejm.gov.pl/eli/acts/DU/2018/463/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 2 lipca 2021 r. zmieniającym rozporządzenie w sprawie ustanowienia odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia ([Dz. U. poz. 1416](https://api.sejm.gov.pl/eli/acts/DU/2021/1416/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Rady Ministrów z dnia 2 lipca 2021 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia ([Dz. U. poz. 1416](https://api.sejm.gov.pl/eli/acts/DU/2021/1416/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Wnioski o nadanie odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego” złożone na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu dotychczasowym i nierozpatrzone przed dniem wejścia w życie niniejszego rozporządzenia stanowią podstawę do rozstrzygnięcia w sprawie nadania tej odznaki na podstawie przepisów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Tekst jednolity rozporządzenia Rady Ministrów z dnia 17 listopada 2011 r. w sprawie ustanowienia Odznaki Honorowej Zasłużony dla Przemysłu Naftowego i Gazowniczego, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia[1) Określenie przedmiotu rozporządzenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 2 lipca 2021 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia (Dz. U. poz. 1416), które weszło w życie z dniem 19 sierpnia 2021 r.](#gloss-0:1:)
+
+Na podstawie art. 4 ust. 2 i art. 6 ust. 1 ustawy z dnia 21 grudnia 1978 r. o odznakach i mundurach ([Dz. U. z 2016 r. poz. 38](https://api.sejm.gov.pl/eli/acts/DU/2016/38/text.html) oraz [z 2022 r. poz. 655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html)) zarządza się, co następuje:
+
+### § 1[2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:2:).
+
+Ustanawia się Odznakę Honorową Zasłużony dla Przemysłu Naftowego i Gazowniczego, zwaną dalej „odznaką”.
+
+### § 2[2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:2:).
+
+### 1.
+
+Odznaka jest zaszczytnym honorowym wyróżnieniem za zasługi dla rozwoju przemysłu naftowego i gazowniczego, zwłaszcza w zakresie prowadzonych prac badawczych oraz we wdrażaniu najnowszych osiągnięć techniki, i może być nadawana:
+
+### 1)
+
+pracownikom przemysłu naftowego i gazowniczego;
+
+### 2)
+
+członkom organizacji zawodowych i społecznych;
+
+### 3)
+
+innym niż wymienione w pkt 1 i 2 osobom fizycznym, w tym cudzoziemcom;
+
+### 4)
+
+organizacjom lub instytucjom mającym siedzibę na terytorium Rzeczypospolitej Polskiej lub za granicą;
+
+### 5)
+
+przedsiębiorstwom energetycznym w rozumieniu ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2022 r. poz. 1385](https://api.sejm.gov.pl/eli/acts/DU/2022/1385/text.html) i [1723](https://api.sejm.gov.pl/eli/acts/DU/2022/1723/text.html)), zwanym dalej „przedsiębiorstwami energetycznymi”;
+
+### 6)
+
+innym niż wymienione w pkt 5 podmiotom prowadzącym działalność gospodarczą w rozumieniu ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ([Dz. U. z 2021 r. poz. 162](https://api.sejm.gov.pl/eli/acts/DU/2021/162/text.html) i [2105](https://api.sejm.gov.pl/eli/acts/DU/2021/2105/text.html) oraz [z 2022 r. poz. 24](https://api.sejm.gov.pl/eli/acts/DU/2022/24/text.html), [974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html) i [1570](https://api.sejm.gov.pl/eli/acts/DU/2022/1570/text.html)).
+
+### 2.
+
+Odznaka może być nadana tej samej osobie, organizacji, instytucji, temu samemu przedsiębiorstwu energetycznemu lub innemu podmiotowi prowadzącemu działalność gospodarczą tylko raz.
+
+### § 3.
+
+Minister właściwy do spraw energii nadaje odznakę z własnej inicjatywy lub na wniosek:
+
+### 1)
+
+ministra lub kierownika urzędu centralnego;
+
+### 2)
+
+kierownika jednostki organizacyjnej podległej lub nadzorowanej przez ministra właściwego do spraw energii;
+
+### 3)
+
+terenowego organu administracji rządowej albo organu samorządu terytorialnego;
+
+### 4)
+
+organu statutowego organizacji zawodowej lub społecznej działającej na rzecz przemysłu naftowego i gazowniczego - w odniesieniu do pracowników i działaczy tej organizacji;
+
+### 5[3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:3:))
+
+jednostki naukowej, której statutową działalnością jest działalność na rzecz przemysłu naftowego i gazowniczego;
+
+### 6[3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:3:))
+
+stowarzyszenia, fundacji lub innej organizacji pozarządowej, których statutowym zadaniem jest działalność na rzecz przemysłu naftowego i gazowniczego;
+
+### 7[3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:3:))
+
+przedsiębiorstwa energetycznego lub innego podmiotu prowadzącego działalność gospodarczą, którego działalność dotyczy przemysłu naftowego i gazowniczego.
+
+### § 4.
+
+### 1[4) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:4:).
+
+Wniosek o nadanie odznaki zawiera:
+
+### 1)
+
+dane wnioskodawcy - nazwę i adres siedziby;
+
+### 2)
+
+dane podmiotu przedstawionego do wyróżnienia:
+
+### a)
+
+w przypadku osoby fizycznej - imię i nazwisko, datę urodzenia oraz adres zamieszkania,
+
+### b)
+
+w przypadku organizacji, instytucji, przedsiębiorstwa energetycznego lub innego podmiotu prowadzącego działalność gospodarczą - nazwę i adres siedziby;
+
+### 3)
+
+opis osiągnięć uzasadniających nadanie odznaki;
+
+### 4)
+
+datę złożenia wniosku oraz podpis wnioskodawcy.
+
+### 2.
+
+Wzór wniosku o nadanie odznaki:
+
+### 1)
+
+osobie fizycznej określa załącznik nr 1 do rozporządzenia;
+
+### 2[5) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:5:))
+
+organizacji, instytucji, przedsiębiorstwu energetycznemu lub innemu podmiotowi prowadzącemu działalność gospodarczą określa załącznik nr 2 do rozporządzenia.
+
+### 3.
+
+Wniosek o nadanie odznaki przedstawia się ministrowi właściwemu do spraw energii nie później niż na dwa miesiące przed przewidywanym przez wnioskodawcę terminem jej wręczenia.
+
+### 4[6) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:6:).
+
+Wniosek o nadanie odznaki może być wniesiony w postaci elektronicznej, przy użyciu środków komunikacji elektronicznej za pomocą elektronicznej skrzynki podawczej ePUAP ministra właściwego do spraw energii.
+
+### 5[6) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:6:).
+
+Wniosek o nadanie odznaki wniesiony w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### § 5.
+
+### 1.
+
+Odznakę stanowi okrągły, metalowy, srebrzony i patynowany medal o średnicy 40 mm, z uszkiem i kółkiem do zawieszenia. Na stronie licowej, okolonej wypukłym, majuskułowym napisem „ZASŁUŻONY DLA PRZEMYSŁU NAFTOWEGO I GAZOWNICZEGO”, widnieje pośrodku symboliczny, wklęsły zarys spękanego górotworu z przechodzącym przez niego pionowo przewodem wiertniczym zakończonym świdrem wiertniczym. Z lewej strony przewodu umieszczony jest wypukły wizerunek popiersia Ignacego Łukasiewicza. Z prawej strony przewodu wiertniczego umieszczony jest wizerunek lampy naftowej. Na stronie odwrotnej widnieje pośrodku wypukły monogram z liter „RP”, poniżej którego umieszczany jest numer kolejny nadanej odznaki.
+
+### 2.
+
+Medal, o którym mowa w ust. 1, zawieszony jest na wstążce z rypsu jedwabnego o szerokości 38 mm w kolorze zielonym, z dwoma czarnymi paskami o szerokości 6 mm w odległości 8 mm od krawędzi, rozdzielonymi paskiem o szerokości 10 mm w kolorze żółtym. Wstążka górą przeciągnięta jest przez podłużny otwór w metalowej listewce srebrzonej i patynowanej o wysokości 12 mm i szerokości 40 mm, z wypukłym przedstawieniem dwóch, połączonych pośrodku stylizowanych gałązek wawrzynu; na odwrocie listewki zamocowane jest zapięcie.
+
+### 3.
+
+Wzór odznaki określa załącznik nr 3 do rozporządzenia.
+
+### § 6.
+
+### 1.
+
+Odznakę wręcza minister właściwy do spraw energii lub osoba przez niego upoważniona.
+
+### 2.
+
+Osoba fizyczna wyróżniona odznaką otrzymuje nieodpłatnie nadaną jej odznakę wraz z dyplomem stwierdzającym jej nadanie.
+
+### 3.
+
+Odznakę nosi się na lewej stronie piersi, po orderach i odznaczeniach państwowych.
+
+### 4[7) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:7:).
+
+Organizacja, instytucja, przedsiębiorstwo energetyczne lub inny podmiot prowadzący działalność gospodarczą wyróżnieni odznaką otrzymują nieodpłatnie nadaną im odznakę wraz z dyplomem stwierdzającym jej nadanie.
+
+### 5.
+
+Wzór dyplomu, o którym mowa w ust. 2 i 4, określa załącznik nr 4 do rozporządzenia.
+
+### 6.
+
+W razie zgubienia albo zniszczenia odznaki lub dyplomu stwierdzającego jej nadanie wydaje się wtórny egzemplarz za zwrotem kosztów.
+
+### § 7[8) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:8:).
+
+Ewidencję osób i podmiotów wyróżnionych odznaką prowadzi minister właściwy do spraw energii.
+
+### § 8.
+
+Koszty związane z nadawaniem odznaki są pokrywane z budżetu państwa w części, której dysponentem jest minister właściwy do spraw energii.
+
+### § 9.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[9) Rozporządzenie zostało ogłoszone w dniu 23 listopada 2011 r.](#gloss-0:9:).
+
+1) Określenie przedmiotu rozporządzenia w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Rady Ministrów z dnia 2 lipca 2021 r. zmieniającego rozporządzenie w sprawie ustanowienia odznaki honorowej „Zasłużony dla Przemysłu Naftowego i Gazowniczego”, ustalenia jej wzoru oraz zasad i trybu jej nadawania i noszenia (Dz. U. poz. 1416), które weszło w życie z dniem 19 sierpnia 2021 r. 2) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 1. 3) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 1. 4) W brzmieniu ustalonym przez § 1 pkt 4 lit. a rozporządzenia, o którym mowa w odnośniku 1. 5) W brzmieniu ustalonym przez § 1 pkt 4 lit. b rozporządzenia, o którym mowa w odnośniku 1. 6) Dodany przez § 1 pkt 4 lit. c rozporządzenia, o którym mowa w odnośniku 1. 7) W brzmieniu ustalonym przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 1. 8) W brzmieniu ustalonym przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 1. 9) Rozporządzenie zostało ogłoszone w dniu 23 listopada 2011 r.
+
+## Załącznik nr 1 - Wniosek o nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego osobie fizycznej (wzór)[10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:10:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2009/text.pdf)
+
+10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załącznik nr 2 - Wniosek o nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego organizacji, instytucji, przedsiębiorstwu energetycznemu lub innemu podmiotowi prowadzącemu działalność gospodarczą (wzór)[10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:10:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2009/text.pdf)
+
+10) W brzmieniu ustalonym przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załącznik nr 3 - Odznaka honorowej zasłużony dla przemysłu naftowego i gazowniczego (wzór)[11) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:11:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2009/text.pdf)
+
+11) Ze zmianą wprowadzoną przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 1.
+
+## Załącznik nr 4 - Dyplom stwierdzający nadanie odznaki honorowej zasłużony dla przemysłu naftowego i gazowniczego (wzór)[12) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 1.](#gloss-0:12:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/2009/text.pdf)
+
+12) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 1.

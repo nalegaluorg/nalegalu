@@ -1,0 +1,670 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 października 2023 r. w sprawie szczegółowego trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetów 1-4 objętych programem Fundusze Europejskie dla Rybactwa na lata 2021-2027"
+address: WDU20230002289
+eli: DU/2023/2289
+publisher: DU
+year: 2023
+pos: 2289
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 października 2023 r. w sprawie szczegółowego trybu przyznawania i wypłaty pomocy finansowej na realizację operacji w ramach Priorytetów 1-4 objętych programem Fundusze Europejskie dla Rybactwa na lata 2021-2027 [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 716).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2289 |
+| ISAP | WDU20230002289 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-10-16 |
+| Data wydania | 2023-10-24 |
+| Wejście w życie | 2023-10-25 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2289/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2289) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 26 ust. 1 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027 ([Dz. U. poz. 1273](https://api.sejm.gov.pl/eli/acts/DU/2023/1273/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa szczegółowy tryb przyznawania i wypłaty pomocy finansowej na realizację operacji w przypadku działań w ramach priorytetów, o których mowa w art. 3 ust. 1 ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027, z wyłączeniem działań, o których mowa w art. 3 ust. 1 pkt 2 lit. h oraz pkt 5 tej ustawy, objętych programem Fundusze Europejskie dla Rybactwa na lata 2021-2027, zwanej dalej „pomocą”, w tym:
+
+### 1)
+
+szczegółowy tryb składania wniosków o dofinansowanie;
+
+### 2)
+
+szczegółowy tryb oceny i terminy rozpatrywania wniosków o dofinansowanie;
+
+### 3)
+
+tryb i terminy zawierania umów o dofinansowanie;
+
+### 4)
+
+tryb składania wniosków o płatność;
+
+### 5)
+
+szczegółowy tryb oceny i terminy rozpatrywania wniosków o płatność.
+
+### § 2.
+
+### 1.
+
+Ogłoszenie o naborze wniosków o dofinansowanie w ramach działań, o których mowa w art. 3 ust. 1:
+
+### 1)
+
+pkt 1 i pkt 2 lit. a-g ustawy z dnia 26 maja 2023 r. o wspieraniu zrównoważonego rozwoju sektora rybackiego z udziałem Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury na lata 2021-2027, zwanej dalej „ustawą”,
+
+### 2)
+
+pkt 3 lit. a ustawy, w zakresie operacji realizowanych przez rybackie lokalne grupy działania, o których mowa w art. 31 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej ([Dz. Urz. UE L 231 z 30.06.2021, str. 159](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1 oraz Dz. Urz. UE L 130 z 16.05.2023, str. 1.](#gloss-0:2:), zwane dalej „RLGD”, będące stronami umów o warunkach i sposobie realizacji strategii rozwoju lokalnego kierowanego przez społeczność, o których mowa w art. 32 tego rozporządzenia, w ramach Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, zwanych dalej „LSR”,
+
+### 3)
+
+pkt 3 lit. b i c oraz pkt 4 ustawy
+
+- Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”, zamieszcza na stronie internetowej, o której mowa w art. 49 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej, dotyczącej programu Fundusze Europejskie dla Rybactwa na lata 2021-2027, zwanej dalej „stroną programu”, nie później niż 30 dni przed dniem rozpoczęcia terminu składania wniosków o dofinansowanie.
+
+### 2.
+
+Ogłoszenie o naborze wniosków o dofinansowanie w ramach działania, o którym mowa w art. 3 ust. 1 pkt 3 lit. a ustawy, w zakresie operacji realizowanych przez podmioty inne niż RLGD lub grantobiorców, RLGD zamieszcza na stronie internetowej RLGD, a także na stronie programu, nie później niż 30 dni przed dniem rozpoczęcia terminu składania wniosków o dofinansowanie.
+
+### 3.
+
+W ogłoszeniu, o którym mowa w ust. 1 i 2, wskazuje się co najmniej:
+
+### 1)
+
+dzień rozpoczęcia oraz dzień zakończenia terminu składania wniosków o dofinansowanie;
+
+### 2)
+
+działanie lub typ operacji, których dotyczy nabór wniosków o dofinansowanie;
+
+### 3)
+
+wysokość limitu środków finansowych, do którego może zostać przyznana pomoc w ramach danego naboru wniosków o dofinansowanie;
+
+### 4)
+
+sposób dostępu do formularza wniosku o dofinansowanie w systemie teleinformatycznym;
+
+### 5)
+
+warunki i kryteria wyboru operacji.
+
+### 4.
+
+Termin składania wniosków o dofinansowanie nie może być krótszy niż 14 dni.
+
+### § 3.
+
+### 1.
+
+W przypadku wniosków o dofinansowanie składanych w ramach działań, o których mowa w art. 3 ust. 1 pkt 1, pkt 2 lit. a-g, pkt 3 lit. b i pkt 4 ustawy, jeżeli termin składania tych wniosków wynosi nie więcej niż 30 dni, wnioskodawca może złożyć jeden wniosek o dofinansowanie w ramach jednego naboru wniosków o dofinansowanie.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się w przypadku wniosków o dofinansowanie składanych w ramach działania, o którym mowa w art. 3 ust. 1:
+
+### 1)
+
+pkt 1 lit. i ustawy - jeżeli wnioskodawcą jest minister właściwy do spraw rybołówstwa lub Główny Inspektor Rybołówstwa Morskiego;
+
+### 2)
+
+pkt 2 lit. b lub c ustawy - jeżeli wnioskodawca składa wnioski o dofinansowanie dotyczące odrębnych obiektów chowu lub hodowli ryb, stanowiących integralny terytorialnie system urządzeń wodnych lub urządzeń służących do prowadzenia działalności polegającej na wylęganiu, chowie lub hodowli organizmów wodnych wraz z budynkami lub budowlami, lub infrastrukturą techniczną niezbędną do prowadzenia działalności w zakresie chowu lub hodowli ryb, w których wykorzystuje się techniki zwiększające produkcję organizmów wodnych ponad naturalne możliwości środowiska, a organizmy te przez cały okres chowu lub hodowli oraz w czasie odłowu pozostają własnością beneficjenta, będących zakładem, któremu został albo zostanie nadany w związku z realizacją operacji jeden weterynaryjny numer identyfikacyjny, o którym mowa w art. 21 ust. 4 ustawy z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego ([Dz. U. z 2023 r. poz. 872](https://api.sejm.gov.pl/eli/acts/DU/2023/872/text.html)).
+
+### 3.
+
+Jeżeli wnioskodawca w ramach jednego naboru wniosków o dofinansowanie składanych w ramach działań, o których mowa w art. 3 ust. 1 pkt 1, pkt 2 lit. a-g, pkt 3 lit. b i pkt 4 ustawy, złoży więcej niż jeden wniosek o dofinansowanie, to jest rozpatrywany ten z wniosków o dofinansowanie, który został złożony jako pierwszy, a na operacje objęte pozostałymi wnioskami o dofinansowanie Agencja odmawia przyznania pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### § 4.
+
+Wniosek o dofinansowanie pozostawia się bez rozpatrzenia, jeżeli:
+
+### 1)
+
+został złożony w sposób inny niż za pomocą systemu teleinformatycznego lub
+
+### 2)
+
+dołączona do niego opinia ministra właściwego do spraw rybołówstwa wymagana zgodnie z przepisami wydanymi na podstawie art. 26 ust. 3 ustawy jest negatywna albo nie została dołączona do wniosku o dofinansowanie, lub
+
+### 3)
+
+nie dołączono do wniosku o dofinansowanie analizy naukowej operacji wymaganej zgodnie z przepisami wydanymi na podstawie art. 26 ust. 3 ustawy.
+
+### § 5.
+
+### 1.
+
+RLGD sporządza listę wniosków o dofinansowanie złożonych w naborze, o którym mowa w § 2 ust. 2, które są zgodne z jej LSR, która zawiera:
+
+### 1)
+
+wskazanie, które z operacji objętych tymi wnioskami mieszczą się w limicie środków finansowych określonym w ogłoszeniu o naborze wniosków o dofinansowanie;
+
+### 2)
+
+ustaloną przez RLGD kwotę pomocy dla każdej z operacji wybranych do realizacji.
+
+### 2.
+
+Listę, o której mowa w ust. 1, RLGD udostępnia Agencji w terminie 14 dni od dnia rozstrzygnięcia protestów, o których mowa w art. 17 ust. 1 ustawy, a także zamieszcza ją na stronie internetowej RLGD oraz na stronie programu.
+
+### 3.
+
+Jeżeli wniosek o dofinansowanie złożony w naborze, o którym mowa w § 2 ust. 2, nie został umieszczony na liście, o której mowa w ust. 1, Agencja odmawia przyznania pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### § 6.
+
+### 1.
+
+W celu ustalenia kolejności rozpatrywania wniosków o dofinansowanie składanych w ramach działań, o których mowa w art. 3 ust. 1 pkt 1, pkt 2 lit. a-g oraz pkt 4 ustawy, Agencja dokonuje oceny wniosków o dofinansowanie w zakresie kryteriów wyboru operacji, przyznając planowanej operacji punkty według szczegółowych kryteriów wyboru operacji określonych w przepisach wydanych na podstawie art. 26 ust. 3 ustawy, zwanych dalej „kryteriami wyboru operacji”.
+
+### 2.
+
+O kolejności rozpatrywania wniosków o dofinansowanie decyduje suma punktów uzyskanych na podstawie kryteriów wyboru operacji i ustala się ją od operacji, która uzyskała największą liczbę punktów, do operacji, która uzyskała najmniejszą liczbę punktów.
+
+### 3.
+
+W przypadku gdy dla operacji objętej wnioskiem o dofinansowanie nie określono punktacji albo nie stosuje się punktacji według kryteriów wyboru operacji, o kolejności rozpatrywania wniosków o dofinansowanie decyduje czas złożenia wniosków o dofinansowanie w systemie teleinformatycznym i kolejność tę ustala się od operacji, dla której wniosek o dofinansowanie został złożony najwcześniej, do operacji, dla której wniosek o dofinansowanie został złożony najpóźniej.
+
+### 4.
+
+W przypadku gdy zgodnie z przepisami wydanymi na podstawie art. 26 ust. 3 ustawy do wniosku o dofinansowanie dołącza się analizę naukową operacji, której ocena stanowi kryterium wyboru operacji, Agencja, za pośrednictwem ministra właściwego do spraw rybołówstwa, przekazuje tę analizę organowi opiniodawczo-doradczemu, o którym mowa w art. 4 ust. 1 pkt 3 ustawy, w celu dokonania przez ten organ, sporządzonej w formie pisemnej, oceny tej analizy.
+
+### 5.
+
+W przypadku operacji, które uzyskały taką samą liczbę punktów, o kolejności rozpatrywania wniosków o dofinansowanie decydują następujące kryteria:
+
+### 1)
+
+pierwszeństwo uzyskuje wniosek o dofinansowanie wnioskodawcy, któremu nie wypłacono pomocy finansowej w ramach Programu Operacyjnego „Rybactwo i Morze” na lata 2014-2020;
+
+### 2)
+
+w przypadku gdy o kolejności rozpatrywania wniosków o dofinansowanie nie rozstrzygnięto zgodnie z pkt 1, pierwszeństwo uzyskuje wniosek o dofinansowanie z niższą kwotą wnioskowanej pomocy;
+
+### 3)
+
+w przypadku gdy o kolejności rozpatrywania wniosków o dofinansowanie nie rozstrzygnięto zgodnie z pkt 1 i 2, pierwszeństwo uzyskuje wniosek o dofinansowanie, który został złożony wcześniej.
+
+### 6.
+
+Agencja w terminie 3 dni roboczych od dnia dokonania oceny, o której mowa w ust. 1, albo ustalenia kolejności rozpatrywania wniosków o dofinansowanie w przypadku, o którym mowa w ust. 3, sporządza i zamieszcza na stronie programu listę wniosków o dofinansowanie:
+
+### 1)
+
+obejmujących operacje, które uzyskały minimalną liczbę punktów niezbędną do wyboru operacji, określoną w przepisach wydanych na podstawie art. 26 ust. 3 ustawy, w kolejności ustalonej w sposób określony w ust. 2, albo
+
+### 2)
+
+obejmujących operacje, które zostały ocenione według kryteriów wyboru operacji, w kolejności ustalonej w sposób określony w ust. 2 - jeżeli minimalna liczba punktów nie jest określona w przepisach wydanych na podstawie art. 26 ust. 3 ustawy, albo
+
+### 3)
+
+którą ustala od operacji, dla której wniosek o dofinansowanie został złożony najwcześniej, do operacji, dla której wniosek o dofinansowanie został złożony najpóźniej - w przypadku, o którym mowa w ust. 3
+
+- ze wskazaniem, które z operacji mieszczą się w limicie środków finansowych określonym w ogłoszeniu o naborze wniosków o dofinansowanie.
+
+### 7.
+
+Lista, o której mowa w ust. 6, zawiera imię i nazwisko albo nazwę wnioskodawcy, nazwę i numer operacji objętej wnioskiem o dofinansowanie, kwotę wnioskowanej pomocy, sumę punktów przyznanych danej operacji na podstawie kryteriów wyboru operacji, jeżeli te punkty zostały przyznane, wskazanie, czy operacja mieści się w limicie środków finansowych określonym w ogłoszeniu o naborze wniosków o dofinansowanie, oraz oznaczenie czasu złożenia wniosku o dofinansowanie w systemie teleinformatycznym.
+
+### § 7.
+
+W przypadku gdy termin składania wniosków o dofinansowanie wynosi więcej niż 30 dni, wnioski te są rozpatrywane zgodnie z kolejnością ich złożenia w systemie teleinformatycznym.
+
+### § 8.
+
+Jeżeli suma punktów przyznanych danej operacji w ramach oceny kryteriów wyboru operacji jest mniejsza niż minimalna liczba punktów niezbędna do wyboru operacji, określona w przepisach wydanych na podstawie art. 26 ust. 3 ustawy, albo operacja ta nie uzyskała za określone kryterium wyboru operacji minimalnej liczby punktów określonych dla tego kryterium w przepisach wydanych na podstawie art. 26 ust. 3 ustawy, Agencja odmawia przyznania pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### § 9.
+
+### 1.
+
+Agencja, dokonując oceny operacji objętej wnioskiem o dofinansowanie, w pierwszej kolejności ustala, czy:
+
+### 1)
+
+operacja objęta wnioskiem o dofinansowanie oraz wnioskodawca spełniają warunki przyznania pomocy określone w art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060 z dnia 24 czerwca 2021 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego Plus, Funduszu Spójności, Funduszu na rzecz Sprawiedliwej Transformacji i Europejskiego Funduszu Morskiego, Rybackiego i Akwakultury, a także przepisy finansowe na potrzeby tych funduszy oraz na potrzeby Funduszu Azylu, Migracji i Integracji, Funduszu Bezpieczeństwa Wewnętrznego i Instrumentu Wsparcia Finansowego na rzecz Zarządzania Granicami i Polityki Wizowej;
+
+### 2)
+
+wnioskodawca nie jest wykluczony z możliwości przyznania pomocy.
+
+### 2.
+
+W przypadku negatywnej oceny operacji objętej wnioskiem o dofinansowanie lub wnioskodawcy w zakresie określonym w ust. 1 Agencja odmawia przyznania pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### 3.
+
+W przypadku pozytywnej oceny operacji objętej wnioskiem o dofinansowanie oraz wnioskodawcy w zakresie określonym w ust. 1 dalszej oceny operacji oraz wnioskodawcy Agencja dokonuje w zakresie określonym w art. 10 pkt 2 ustawy.
+
+### § 10.
+
+### 1.
+
+Wnioskodawca może dokonać dwukrotnie zmiany wniosku o dofinansowanie od dnia zamieszczenia na stronie programu listy, o której mowa w § 6 ust. 6, do dnia umieszczenia w systemie teleinformatycznym informacji o zakończeniu rozpatrywania wniosku o dofinansowanie przez Agencję.
+
+### 2.
+
+Wnioskodawca może dokonać zmiany wniosku o dofinansowanie w terminie 7 dni od dnia udostępnienia mu przez Agencję tego wniosku w systemie teleinformatycznym na koncie wnioskodawcy w tym systemie. O udostępnieniu wniosku o dofinansowanie Agencja informuje wnioskodawcę za pomocą systemu teleinformatycznego.
+
+### 3.
+
+Zmiana wniosku o dofinansowanie nie może zmieniać celu operacji oraz powodować zwiększenia kwoty wnioskowanej pomocy lub zmiany w zakresie kryteriów wyboru operacji, na podstawie których dokonano oceny planowanej operacji według kryteriów wyboru operacji.
+
+### 4.
+
+W przypadku wniosków o dofinansowanie znajdujących się na liście, o której mowa w § 5 ust. 1, zmiany wniosku o dofinansowanie dokonuje się po potwierdzeniu na piśmie przez RLGD, że zmiana ta nie spowoduje niezgodności z LSR oraz nie wpłynie na kolejność i wysokość ustalonej przez RLGD kwoty pomocy dla danej operacji wskazanej na liście, o której mowa w § 5 ust. 1.
+
+### 5.
+
+W przypadku wystąpienia we wniosku o dofinansowanie oczywistych omyłek pisarskich lub rachunkowych Agencja może dokonać ich poprawy z urzędu, informując o tym wnioskodawcę za pomocą systemu teleinformatycznego.
+
+### § 11.
+
+### 1.
+
+W przypadku zwiększenia wysokości limitu środków finansowych określonego w ogłoszeniu o naborze wniosków o dofinansowanie informację o zwiększeniu tego limitu Agencja niezwłocznie zamieszcza na stronie programu.
+
+### 2.
+
+Wysokość limitu środków finansowych określonego w ogłoszeniu o naborze wniosków o dofinansowanie uważa się za wyczerpaną, jeżeli różnica między wysokością limitu środków finansowych określonego:
+
+### 1)
+
+na dany nabór a łączną kwotą pomocy wynikającą z zawartych umów o dofinansowanie w tym naborze jest niewystarczająca na przyznanie pomocy na następną operację znajdującą się na liście, o której mowa w § 5 ust. 1 albo § 6 ust. 6, lub
+
+### 2)
+
+dla danego priorytetu, celu szczegółowego, o którym mowa w art. 14 ust. 1 lit. a-d oraz f, art. 26 ust. 1, art. 29 albo art. 31 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1139 z dnia 7 lipca 2021 r. ustanawiającego Europejski Fundusz Morski, Rybacki i Akwakultury oraz zmieniającego rozporządzenie (UE) 2017/1004 (Dz. Urz. UE L 247 z 13.07.2021, str. 1), zwanego dalej „rozporządzeniem EFMRA”, lub rodzaju interwencji, o której mowa w załączniku IV do rozporządzenia EFMRA, a łączną kwotą pomocy wynikającą z zawartych umów o dofinansowanie w ramach danego priorytetu, celu szczegółowego lub rodzaju interwencji jest niewystarczająca na przyznanie pomocy na następną operację znajdującą się na liście, o której mowa w § 6 ust. 6, w wysokości pełnej wnioskowanej kwoty pomocy.
+
+### 3.
+
+Wysokość limitu środków finansowych, do którego może zostać przyznana pomoc w ramach realizacji działania, o którym mowa w art. 3 ust. 1 pkt 3 lit. a ustawy, uważa się za wyczerpaną, jeżeli różnica między wysokością limitu środków finansowych wskazanych w umowie o warunkach i sposobie realizacji LSR a łączną kwotą pomocy wynikającą z zawartych umów o dofinansowanie w danym naborze wniosków o dofinansowanie jest niewystarczająca na przyznanie pomocy w wysokości pełnej wnioskowanej kwoty pomocy na następną operację znajdującą się na liście, o której mowa w § 5 ust. 1 albo § 6 ust. 6.
+
+### 4.
+
+W przypadku gdy w wyniku przeprowadzonej oceny złożonych w danym naborze wniosków o dofinansowanie mieszczących się w limicie środków finansowych określonym w ogłoszeniu o naborze wniosków o dofinansowanie pozostaną środki finansowe, wnioskodawca kolejny na liście, o której mowa w § 5 ust. 1 albo § 6 ust. 6, który złożył wniosek o dofinansowanie obejmujący operację, która nie mieściła się w limicie środków finansowych określonym w ogłoszeniu o naborze wniosków o dofinansowanie, może uzyskać pomoc, jeżeli pozostałe środki finansowe pokryją w pełnej wysokości kwotę wnioskowanej pomocy.
+
+### § 12.
+
+### 1.
+
+Jeżeli od dnia zamieszczenia na stronie programu listy, o której mowa w § 6 ust. 6, albo od dnia złożenia wniosku o dofinansowanie, jeżeli lista taka nie została sporządzona, jest konieczne uzyskanie wyjaśnień, przedstawienie dokumentów lub wykonanie określonych czynności w trakcie rozpatrywania wniosku o dofinasowanie, Agencja wzywa wnioskodawcę za pomocą systemu teleinformatycznego do złożenia w tym systemie wyjaśnień, przedstawienia dokumentów lub wykonania określonych czynności w terminie 14 dni od dnia przekazania wezwania za pomocą systemu teleinformatycznego na konto wnioskodawcy w tym systemie, chyba że zachodzą niebudzące wątpliwości przesłanki odmowy przyznania pomocy.
+
+### 2.
+
+W przypadku gdy wnioskodawca mimo wezwania, o którym mowa w ust. 1, nie złożył wyjaśnień, nie przedstawił dokumentów lub nie wykonał określonych czynności w wyznaczonym terminie, Agencja ponownie wzywa wnioskodawcę za pomocą systemu teleinformatycznego do złożenia tych wyjaśnień, przedstawienia tych dokumentów lub dokonania tych czynności w tym systemie w terminie 14 dni od dnia przekazania wezwania za pomocą systemu teleinformatycznego na konto wnioskodawcy w tym systemie.
+
+### 3.
+
+W przypadku gdy wnioskodawca mimo ponownego wezwania, o którym mowa w ust. 2, nie złożył wyjaśnień, nie przedstawił dokumentów lub nie wykonał określonych czynności w wyznaczonym terminie, Agencja informuje wnioskodawcę o odmowie przyznania pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### 4.
+
+Terminy, o których mowa w ust. 1 i 2, liczy się od dnia następującego po dniu przekazania wnioskodawcy wezwania za pomocą systemu teleinformatycznego na jego konto w tym systemie. Informację o przekazaniu wezwania za pomocą systemu teleinformatycznego Agencja przesyła wnioskodawcy drogą elektroniczną.
+
+### § 13.
+
+### 1.
+
+W przypadku pozytywnego rozpatrzenia wniosku o dofinansowanie Agencja w terminie 7 dni od dnia rozpatrzenia tego wniosku informuje wnioskodawcę za pomocą systemu teleinformatycznego o wysokości przyznanej pomocy i umieszcza w tym systemie na koncie wnioskodawcy umowę o dofinansowanie oraz wezwanie do jej zawarcia w terminie 14 dni od dnia przekazania wezwania za pomocą systemu teleinformatycznego na konto wnioskodawcy w tym systemie.
+
+### 2.
+
+Termin do zawarcia umowy o dofinansowanie liczy się od dnia następującego po dniu przekazania wnioskodawcy wezwania za pomocą systemu teleinformatycznego na jego konto w tym systemie. Informację o przekazaniu wezwania za pomocą systemu teleinformatycznego Agencja przesyła wnioskodawcy drogą elektroniczną.
+
+### 3.
+
+W przypadku zawierania umowy o dofinansowanie w sposób wskazany w ust. 6 pkt 2 w informacji, o której mowa w ust. 1, Agencja wskazuje adres siedziby Agencji albo jednostki organizacyjnej Agencji, pod którym wnioskodawca dokona podpisania umowy o dofinansowanie.
+
+### 4.
+
+W przypadku błędów w zakresie danych wnioskodawcy w umieszczonej przez Agencję umowie o dofinansowanie wnioskodawca może w terminie 7 dni od dnia przekazania wezwania, o którym mowa w ust. 1, zgłosić Agencji za pomocą systemu teleinformatycznego konieczność zmiany umowy o dofinansowanie.
+
+### 5.
+
+W przypadku dokonania przez Agencję zmian w umowie o dofinansowanie w wyniku zgłoszenia, o którym mowa w ust. 4, Agencja ponownie przekazuje wezwanie do zawarcia umowy o dofinansowanie za pomocą systemu teleinformatycznego na konto wnioskodawcy w tym systemie w terminie 14 dni od dnia przekazania tego wezwania oraz umieszcza w tym systemie na koncie wnioskodawcy umowę o dofinansowanie. Informację o przekazaniu wezwania za pomocą systemu teleinformatycznego Agencja przesyła wnioskodawcy drogą elektroniczną.
+
+### 6.
+
+Umowę o dofinansowanie zawiera się przez podpisanie przez Agencję podpisanej przez wnioskodawcę umowy o dofinansowanie:
+
+### 1)
+
+za pomocą systemu teleinformatycznego na piśmie utrwalonym w postaci elektronicznej, przez jego opatrzenie kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym;
+
+### 2)
+
+w siedzibie Agencji albo jednostce organizacyjnej Agencji pod adresem wskazanym w informacji, o której mowa w ust. 1, przez podpisanie na piśmie utrwalonym w postaci papierowej.
+
+### 7.
+
+Informację o dacie zawarcia umowy o dofinansowanie w sposób określony w ust. 6 pkt 2 Agencja zamieszcza w systemie teleinformatycznym, dołączając elektroniczną kopię zawartej umowy o dofinansowanie.
+
+### 8.
+
+W przypadku gdy wnioskodawca nie zawarł umowy o dofinansowanie w wyznaczonym przez Agencję terminie, Agencja odmawia przyznania pomocy, chyba że wnioskodawca zawarł umowę o dofinansowanie w innym terminie uzgodnionym z Agencją, nie dłuższym niż 21 dni od dnia, na który został wyznaczony poprzedni termin zawarcia tej umowy.
+
+### § 14.
+
+### 1.
+
+Zabezpieczeniem należytego wykonania zobowiązań określonych w umowie o dofinansowanie jest weksel niezupełny (in blanco) składany wraz z deklaracją wekslową na formularzu udostępnionym przez Agencję nie później niż w dniu złożenia wniosku o płatność.
+
+### 2.
+
+Weksel wraz z deklaracją wekslową, o których mowa w ust. 1, podpisane przez beneficjenta są składane w Agencji albo w jednostce organizacyjnej Agencji albo przesyłane przesyłką rejestrowaną nadaną w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2023 r. poz. 1640](https://api.sejm.gov.pl/eli/acts/DU/2023/1640/text.html)), zwanej dalej „ustawą - Prawo pocztowe”, lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
+
+### § 15.
+
+### 1.
+
+Wykonanie zakresu rzeczowego operacji określonego w umowie o dofinansowanie, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji, następuje nie później niż w terminie:
+
+### 1)
+
+60 miesięcy od dnia zawarcia umowy o dofinansowanie - w przypadku operacji realizowanej w kilku etapach;
+
+### 2)
+
+24 miesięcy od dnia zawarcia umowy o dofinansowanie - w przypadku operacji realizowanej w jednym etapie.
+
+### 2.
+
+W przypadku gdy operacja jest realizowana w kilku etapach, pierwszy wniosek o płatność składa się nie później niż w terminie 24 miesięcy od dnia zawarcia umowy o dofinansowanie.
+
+### 3.
+
+Terminy, o których mowa w ust. 1 i 2, mogą zostać wydłużone w przypadku wystąpienia okoliczności niezależnych od beneficjenta, których nie można było przewidzieć na etapie zawierania umowy o dofinansowanie.
+
+### 4.
+
+Wykonanie zakresu rzeczowego operacji określonego w umowie o dofinansowanie, w tym poniesienie przez beneficjenta kosztów kwalifikowalnych operacji, następuje nie później niż do dnia 31 grudnia 2029 r., a złożenie wniosku o płatność końcową - w terminie określonym w umowie o dofinansowanie.
+
+### § 16.
+
+### 1.
+
+Agencja dokonuje wypłaty pomocy w terminie 80 dni od dnia złożenia wniosku o płatność.
+
+### 2.
+
+Jeżeli wniosek o płatność nie został złożony w terminie określonym w umowie o dofinansowanie, Agencja wzywa beneficjenta za pomocą systemu teleinformatycznego do złożenia wniosku o płatność w terminie wskazanym w wezwaniu, nie dłuższym niż 14 dni od dnia przekazania tego wezwania za pomocą systemu teleinformatycznego na konto beneficjenta w tym systemie.
+
+### 3.
+
+Jeżeli beneficjent mimo wezwania, o którym mowa w ust. 2, nie złożył wniosku o płatność we wskazanym w tym wezwaniu terminie, pomocy nie wypłaca się w ramach wniosku o płatność, którego dotyczyło to wezwanie.
+
+### 4.
+
+Jeżeli wniosek o płatność zawiera braki lub wymaga złożenia wyjaśnień, Agencja za pomocą systemu teleinformatycznego wzywa beneficjenta do uzupełnienia wniosku o płatność lub złożenia wyjaśnień, w terminie wskazanym w wezwaniu, nie dłuższym niż 21 dni od dnia przekazania tego wezwania za pomocą systemu teleinformatycznego na konto beneficjenta w tym systemie.
+
+### 5.
+
+Jeżeli beneficjent mimo wezwania, o którym mowa w ust. 4, nie uzupełnił wniosku o płatność lub nie złożył wyjaśnień, Agencja za pomocą systemu teleinformatycznego ponownie wzywa go do uzupełnienia wniosku o płatność lub złożenia wyjaśnień, w terminie 14 dni od dnia przekazania tego wezwania za pomocą systemu teleinformatycznego na konto beneficjenta w tym systemie.
+
+### 6.
+
+Terminy, o których mowa w ust. 2, 4 i 5, liczy się od dnia następującego po dniu przekazania wezwania za pomocą systemu teleinformatycznego na konto beneficjenta w tym systemie. Informację o przekazaniu wezwania za pomocą systemu teleinformatycznego Agencja przesyła wnioskodawcy drogą elektroniczną.
+
+### 7.
+
+Jeżeli beneficjent mimo wezwań, o których mowa w ust. 4 i 5, nie złożył wyjaśnień lub nie uzupełnił wniosku o płatność, Agencja:
+
+### 1)
+
+rozpatruje wniosek o płatność w zakresie, w jakim został prawidłowo wypełniony i udokumentowany, albo
+
+### 2)
+
+nie wypłaca pomocy, jeżeli wniosek o płatność nie może zostać rozpatrzony w zakresie poniesionych kosztów.
+
+### 8.
+
+W przypadku wystąpienia we wniosku o płatność oczywistych omyłek pisarskich lub rachunkowych Agencja dokonuje ich poprawy z urzędu, informując o tym beneficjenta za pomocą systemu teleinformatycznego.
+
+### 9.
+
+Do terminu, o którym mowa w ust. 1, nie wlicza się terminów ustalonych przez Agencję do dokonania określonych czynności przez beneficjenta.
+
+### 10.
+
+Beneficjent może dokonać za pomocą systemu teleinformatycznego zmiany wniosku o płatność do czasu zatwierdzenia tego wniosku przez Agencję.
+
+### 11.
+
+Jeżeli beneficjent nie złożył wniosku o płatność w terminie wskazanym w wezwaniu, o którym mowa w ust. 2, lub nie złożył wyjaśnień lub nie uzupełnił wniosku o płatność w terminie, o którym mowa w ust. 4 albo 5, Agencja na jego wniosek przywraca termin wykonania tych czynności, jeżeli beneficjent:
+
+### 1)
+
+wniósł za pomocą systemu teleinformatycznego wniosek o przywrócenie terminu w terminie 14 dni od dnia ustania przyczyny uchybienia terminu;
+
+### 2)
+
+jednocześnie z wniesieniem wniosku o przywrócenie terminu dopełnił czynności, dla której był określony termin;
+
+### 3)
+
+uprawdopodobnił, że uchybienie nastąpiło bez jego winy.
+
+### § 17.
+
+### 1.
+
+Agencja, ustalając wysokość kwoty pomocy do wypłaty beneficjentowi:
+
+### 1)
+
+uwzględnia:
+
+### a)
+
+wysokość pomocy określoną w umowie o dofinansowanie,
+
+### b)
+
+kwotę wydatków kwalifikowalnych objętych wnioskiem o płatność,
+
+### c)
+
+wyniki kontroli, o których mowa w art. 44 ustawy, realizowanej operacji oraz usunięte nieprawidłowości stwierdzone w wyniku tych kontroli;
+
+### 2)
+
+dokonuje pomniejszenia o:
+
+### a)
+
+kwoty wydatkowane z naruszeniem przepisów lub wytycznych dotyczących konkurencyjnego wyboru wykonawców, zamówień publicznych lub z naruszeniem innych obowiązków określonych w umowie o dofinansowanie,
+
+### b)
+
+kwoty wydatków niestanowiące kosztów kwalifikowalnych zgodnie z przepisami wydanymi na podstawie art. 26 ust. 3 ustawy,
+
+### c)
+
+kwotę pomocy wypłaconą beneficjentowi na podstawie wcześniej zrealizowanych wniosków o płatność - w przypadku wyrażenia przez beneficjenta zgody na pomniejszenie kolejnych płatności, o której mowa w art. 207 ust. 8 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2023 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2023/1270/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.](#gloss-0:3:)).
+
+### 2.
+
+Niezwłocznie po ustaleniu kwoty pomocy do wypłaty Agencja przekazuje beneficjentowi informację o wysokości tej kwoty za pomocą systemu teleinformatycznego na konto beneficjenta w tym systemie, dołączając uzasadnienie w przypadku rozbieżności między ustaloną przez Agencję wysokością kwoty do wypłaty a wysokością kwoty wskazaną przez beneficjenta we wniosku o płatność.
+
+### 3.
+
+Kwota pomocy, o której mowa w ust. 1, jest wypłacana przez Agencję na rachunek bankowy albo na rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, wskazany przez beneficjenta, a w przypadku gdy beneficjentem pomocy jest państwowa jednostka budżetowa, kwota pomocy jest wypłacana w sposób określony w art. 188 ust. 1-5 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz w przepisach wydanych na podstawie art. 188 ust. 6 tej ustawy.
+
+### 4.
+
+Jeżeli wystąpią okoliczności uniemożliwiające wypłatę pomocy w terminie, o którym mowa w § 16 ust. 1, Agencja informuje beneficjenta za pomocą systemu teleinformatycznego o przyczynie opóźnienia i nowym terminie wypłaty pomocy.
+
+### § 18.
+
+### 1.
+
+Następca prawny wnioskodawcy w terminie 30 dni od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne, może złożyć do Agencji wniosek o wstąpienie do toczącego się postępowania w sprawie przyznania pomocy na piśmie utrwalonym w postaci papierowej lub elektronicznej, jeżeli spełnia warunki przyznania pomocy, o których mowa w ustawie oraz w przepisach wydanych na podstawie art. 26 ust. 3 ustawy.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+dane następcy prawnego wnioskodawcy niezbędne do przyznania pomocy:
+
+### a)
+
+imię i nazwisko albo nazwę,
+
+### b)
+
+miejsce zamieszkania i adres albo siedzibę i adres,
+
+### c)
+
+numer identyfikacji podatkowej (NIP), o ile został nadany,
+
+### d)
+
+numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osób fizycznych nieposiadających numeru PESEL - numer paszportu albo innego dokumentu stwierdzającego tożsamość;
+
+### 2)
+
+informacje lub oświadczenia wymagane do przyznania pomocy zgodnie z przepisami wydanymi na podstawie art. 26 ust. 3 ustawy.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, następca prawny wnioskodawcy dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, a w przypadku następstwa prawnego będącego wynikiem śmierci wnioskodawcy - odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo wypis albo odpis aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
+
+### 4.
+
+W przypadku następstwa prawnego będącego wynikiem śmierci wnioskodawcy, jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku, o którym mowa w ust. 1:
+
+### 1)
+
+zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+
+### 2)
+
+kopię wniosku o stwierdzenie nabycia spadku:
+
+### a)
+
+potwierdzoną za zgodność z oryginałem przez sąd albo
+
+### b)
+
+poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy - Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
+### 5.
+
+Spadkobierca przekazuje Agencji odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia albo wypis albo odpis aktu poświadczenia dziedziczenia sporządzony przez notariusza w terminie 14 dni od dnia wpisu tego aktu do rejestru aktów poświadczenia dziedziczenia.
+
+### 6.
+
+Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo z wypisu albo odpisu aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca lub zapisobierca windykacyjny, wstępujący do postępowania w sprawie spadkobierca albo zapisobierca windykacyjny wnioskodawcy, który złożył wniosek o dofinansowanie, dołącza do wniosku, o którym mowa w ust. 1, albo składa wraz z odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku - oświadczenia pozostałych spadkobierców lub zapisobierców windykacyjnych, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy albo zapisobiercy windykacyjnemu.
+
+### 7.
+
+Zgoda, o której mowa w ust. 6, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 1, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
+
+### 8.
+
+W przypadku złożenia wniosku, o którym mowa w ust. 1, po upływie terminu, o którym mowa w tym przepisie, lub niedołączenia dokumentów, o których mowa w ust. 3, 4 lub 6, mimo wezwania, o którym mowa w ust. 9, Agencja nie przyznaje pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### 9.
+
+W przypadku gdy w toku prowadzonego postępowania, o którym mowa w ust. 1, jest niezbędne uzyskanie wyjaśnień lub uzupełnienie braków, następca prawny wnioskodawcy jest wzywany do złożenia wyjaśnień lub uzupełnienia braków na piśmie utrwalonym w postaci papierowej lub elektronicznej w terminie 21 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki odmowy przyznania pomocy.
+
+### 10.
+
+Wniosek, o którym mowa w ust. 1, rozpatruje się w terminie 60 dni od dnia jego złożenia.
+
+### 11.
+
+W przypadku nierozpatrzenia wniosku, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 10, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż miesiąc.
+
+### 12.
+
+Do postępowania w sprawie następstwa prawnego wnioskodawcy przepisy § 9 i § 12 stosuje się odpowiednio.
+
+### § 19.
+
+### 1.
+
+Następca prawny beneficjenta może złożyć do Agencji wniosek o przejęcie praw w związku z realizowaną albo zrealizowaną umową o dofinansowanie na piśmie utrwalonym w postaci papierowej lub elektronicznej w terminie 2 miesięcy od dnia wystąpienia zdarzenia prawnego, w wyniku którego zaistniało następstwo prawne.
+
+### 2.
+
+Do wniosku, o którym mowa w ust. 1, następca prawny beneficjenta dołącza dokument potwierdzający fakt zaistnienia następstwa prawnego albo kopię tego dokumentu poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, a w przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta - odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku albo wypis albo odpis aktu poświadczenia dziedziczenia sporządzony przez notariusza.
+
+### 3.
+
+W przypadku następstwa prawnego będącego wynikiem śmierci beneficjenta, jeżeli nie zostało zakończone postępowanie sądowe o stwierdzenie nabycia spadku, spadkobierca dołącza do wniosku, o którym mowa w ust. 1:
+
+### 1)
+
+zaświadczenie sądu o zarejestrowaniu wniosku o stwierdzenie nabycia spadku albo
+
+### 2)
+
+kopię wniosku o stwierdzenie nabycia spadku:
+
+### a)
+
+potwierdzoną za zgodność z oryginałem przez sąd albo
+
+### b)
+
+poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji, wraz z potwierdzeniem nadania tego wniosku w polskiej placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy - Prawo pocztowe lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo kopią tego potwierdzenia poświadczoną za zgodność z oryginałem przez notariusza albo potwierdzoną za zgodność z oryginałem przez upoważnionego pracownika Agencji.
+
+### 4.
+
+Spadkobierca przekazuje Agencji odpis prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku w terminie 14 dni od dnia uprawomocnienia się tego postanowienia albo wypis albo odpis aktu poświadczenia dziedziczenia sporządzony przez notariusza w terminie 14 dni od dnia wpisu tego aktu do rejestru aktów poświadczenia dziedziczenia.
+
+### 5.
+
+Jeżeli z postanowienia sądu o stwierdzeniu nabycia spadku albo wypisu albo odpisu aktu poświadczenia dziedziczenia sporządzonego przez notariusza wynika, że uprawnionych do nabycia spadku jest więcej niż jeden spadkobierca lub zapisobierca windykacyjny, wstępujący do postępowania w sprawie spadkobierca albo zapisobierca windykacyjny beneficjenta, który złożył wniosek o dofinansowanie, dołącza do wniosku, o którym mowa w ust. 1, albo składa wraz z odpisem prawomocnego postanowienia sądu o stwierdzeniu nabycia spadku - oświadczenia pozostałych spadkobierców lub zapisobierców windykacyjnych, że wyrażają zgodę na przyznanie pomocy temu spadkobiercy albo zapisobiercy windykacyjnemu.
+
+### 6.
+
+Zgoda, o której mowa w ust. 5, nie jest wymagana, jeżeli miałaby być wyrażona przez małoletniego, a wniosek, o którym mowa w ust. 1, został złożony przez spadkobiercę będącego przedstawicielem ustawowym tego małoletniego.
+
+### 7.
+
+W przypadku złożenia wniosku, o którym mowa w ust. 1, po upływie terminu, o którym mowa w tym przepisie, lub niedołączenia dokumentów, o których mowa w ust. 2, 3 lub 5, mimo wezwania, o którym mowa w ust. 8, Agencja nie przyznaje pomocy. Przepisy art. 20 ustawy stosuje się odpowiednio.
+
+### 8.
+
+W przypadku gdy w toku prowadzonego postępowania, o którym mowa w ust. 1, jest niezbędne uzyskanie wyjaśnień lub uzupełnienie braków, następca prawny beneficjenta jest wzywany do złożenia wyjaśnień lub uzupełnienia braków na piśmie utrwalonym w postaci papierowej lub elektronicznej w terminie 21 dni od dnia doręczenia wezwania, chyba że zachodzą niebudzące wątpliwości przesłanki odmowy przyznania pomocy.
+
+### 9.
+
+Wniosek, o którym mowa w ust. 1, rozpatruje się w terminie 60 dni od dnia jego złożenia.
+
+### 10.
+
+W przypadku nierozpatrzenia wniosku, o którym mowa w ust. 1, w terminie, o którym mowa w ust. 9, Agencja zawiadamia wnioskodawcę o przyczynach zwłoki, wskazując nowy termin rozpatrzenia wniosku, nie dłuższy niż miesiąc.
+
+### 11.
+
+Do postępowania w sprawie następstwa prawnego beneficjenta przepisy § 9, § 10 ust. 1-4, § 12-15 i § 18 ust. 2 stosuje się odpowiednio.
+
+### § 20.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rybołówstwo, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 716). 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 261 z 22.07.2021, str. 58, Dz. Urz. UE L 241 z 19.09.2022, str. 16, Dz. Urz. UE L 275 z 25.10.2022, str. 23, Dz. Urz. UE L 63 z 28.02.2023, str. 1 oraz Dz. Urz. UE L 130 z 16.05.2023, str. 1. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872.

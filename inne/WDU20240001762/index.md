@@ -8,11 +8,9 @@ pos: 1762
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
-
-*USTAWA z dnia 8 listopada 2024 r.*
+# Ustawa z dnia 8 listopada 2024 r. zmieniająca ustawę o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,48 @@ domain: null
 | Data ogłoszenia | 2024-11-08 |
 | Data wydania | 2024-12-02 |
 | Ostatnia zmiana | 2024-12-09 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001762) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1762/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1762/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1762) |
 
-**Art. 1.** W ustawie z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa (Dz. U. z 2021 r. poz. 11 oraz z 2022 r. poz. 807 i 2666) w art. 46:
+## Treść ustawy
 
-**Art. 2.**
+### Art. 1.
 
-1. W 2024 r. minister właściwy do spraw rozwoju regionalnego może dokonać przeniesienia wydatków między działami, rozdziałami i paragrafami klasyfikacji wydatków w części 34 – Rozwój regionalny celem zwiększenia środków na dotację podmiotową dla Krajowego Zasobu Nieruchomości do kwoty, o której mowa w art. 46 ust. 1 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+W ustawie z dnia 10 grudnia 2020 r. o zmianie niektórych ustaw wspierających rozwój mieszkalnictwa ([Dz. U. z 2021 r. poz. 11](https://api.sejm.gov.pl/eli/acts/DU/2021/11/text.html) oraz [z 2022 r. poz. 807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html) i [2666](https://api.sejm.gov.pl/eli/acts/DU/2022/2666/text.html)) w art. 46:
 
-2. Do zmian w planie części 34 – Rozwój regionalny, o których mowa w ust. 1, nie stosuje się art. 171 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717 i 1756).
+### 1)
 
-**Art. 3.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+w ust. 1 pkt 4 otrzymuje brzmienie:
 
+„
+
+### 4)
+
+w 2024 r. - 20,5 mln zł;
+
+” ;
+
+### 2)
+
+w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+w 2024 r. - 34,5 mln zł;
+
+” .
+
+### Art. 2.
+
+### 1.
+
+W 2024 r. minister właściwy do spraw rozwoju regionalnego może dokonać przeniesienia wydatków między działami, rozdziałami i paragrafami klasyfikacji wydatków w części 34 - Rozwój regionalny celem zwiększenia środków na dotację podmiotową dla Krajowego Zasobu Nieruchomości do kwoty, o której mowa w art. 46 ust. 1 pkt 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do zmian w planie części 34 - Rozwój regionalny, o których mowa w ust. 1, nie stosuje się art. 171 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2024 r. poz. 1530](https://api.sejm.gov.pl/eli/acts/DU/2024/1530/text.html), [1572](https://api.sejm.gov.pl/eli/acts/DU/2024/1572/text.html), [1717](https://api.sejm.gov.pl/eli/acts/DU/2024/1717/text.html) i [1756](https://api.sejm.gov.pl/eli/acts/DU/2024/1756/text.html)).
+
+### Art. 3.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.

@@ -8,9 +8,9 @@ pos: 319
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o likwidacji Rządowego Centrum Studiów Strategicznych
+# Ustawa z dnia 17 lutego 2006 r. o likwidacji Rządowego Centrum Studiów Strategicznych [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 18 grudnia 1998 r. o służbie cywilnej, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 30 czerwca 2005 r. o finansach publicznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,29 +22,250 @@ domain: null
 | Data ogłoszenia | 2006-02-17 |
 | Data wydania | 2006-03-17 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060450319) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/319/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/319/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/319) |
 
-**Art. 1.** Z dniem 31 marca 2006 likwiduje Rządowe Centrum Studiów Strategicznych działające przy Prezesie Rady Ministrów, zwane dalej „Centrum”.
+## Treść ustawy
 
-**Art. 2.** Z dniem 1 kwietnia 2006 wykonywane dotychczas przez Centrum zadania kompetencje zakresu:
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 16 września 1982 o pracownikach urzędów państwowych 2001 86, 953, późn. zm. ) wprowadza następujące zmiany:
+Z dniem 31 marca 2006 r. likwiduje się Rządowe Centrum Studiów Strategicznych działające przy Prezesie Rady Ministrów, zwane dalej „Centrum”.
 
-**Art. 5.** W ustawie dnia 4 września 1997 o działach administracji rządowej 2003 159, 1548, późn. zm. ) wprowadza następujące zmiany:
+### Art. 2.
 
-**Art. 6.** W ustawie dnia 18 grudnia 1998 o służbie cywilnej 1999 49, 483, późn. zm. ) wprowadza następujące zmiany:
+Z dniem 1 kwietnia 2006 r. wykonywane dotychczas przez Centrum zadania i kompetencje z zakresu:
 
-**Art. 8.** W ustawie dnia 30 czerwca o finansach publicznych 249,
+### 1)
 
-**Art. 9.**
+sporządzania ocen skutków społeczno-gospodarczych projektowanych regulacji,
 
-1. Należności zobowiązania Centrum stają dniem 1 kwietnia 2006 należnościami zobowiązaniami urzędu obsługującego ministra właściwego do spraw regionalnego, wyjątkiem należności zobowiązań związanych zakresem zadań określonych art. 2, które stają należnościami zobowiązaniami Kancelarii Prezesa Rady Ministrów.
+### 2)
 
-2. Prawa obowiązki wynikające umów porozumień zawartych przez Centrum przejmuje dniem 1 kwietnia 2006 urząd obsługujący ministra właściwego do spraw regionalnego, wyjątkiem praw obowiązków wynikających umów porozumień związanych zakresem zadań określonych art. 2, które przejmuje Kancelaria Prezesa Rady Ministrów.
+opracowywania ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej,
 
-**Art. 10.** Prezes Rady Ministrów ustali, drodze zarządzenia, przeznaczenie mienia będącego posiadaniu Centrum, zastrzeżeniem przepisów o gospodarce nieruchomościami przepisów o finansach publicznych. zmianach, jakie mają nastąpić zakresie ich stosunków pracy. Przepisy art. 23 § 4 ustawy dnia 26 czerwca 1974 – Kodeks pracy 1998 21, 94, późn. zm. ) stosuje odpowiednio. 3. Stosunki pracy pracownikami, o których mowa ust. 1, wygasają po upływie trzech miesięcy od dnia przejścia do nowego pracodawcy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy płacy na dalszy okres albo razie nieprzyjęcia nowych warunków pracy lub płacy. 4. Wcześniejsze rozwiązanie stosunku pracy pracownikiem może nastąpić za wypowiedzeniem. 5. W przypadku wygaśnięcia stosunków pracy, o których mowa ust. 3, lub wypowiedzenia, o którym mowa ust. 4, pracownikom przysługują świadczenia przewidziane dla pracowników, którymi stosunki pracy rozwiązuje powodu likwidacji pracodawcy. 6. Przepisów ust. 2 zdanie drugie ust. 3 4 nie stosuje do urzędników służby cywilnej, do których stosuje przepisy ustawy dnia 18 grudnia 1998 o służbie cywilnej.
+### 3)
 
-**Art. 12.** Sprawy wszczęte niezakończone przez Centrum realizowane ramach zadań:
+opracowywania ocen funkcjonalności struktur państwa i sprawności ich działania,
 
-**Art. 13.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 11 ust. 2, który wchodzi życie dniem ogłoszenia.
+### 4)
 
+przygotowywania innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów
+
+- stają się zadaniami, które realizuje, z upoważnienia Prezesa Rady Ministrów, Kancelaria Prezesa Rady Ministrów.
+
+### Art. 3.
+
+W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2001 r. Nr 86, poz. 953](https://api.sejm.gov.pl/eli/acts/DU/2001/953/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 w ust. 2 uchyla się pkt 4;
+
+### 2)
+
+w art. 21 w ust. 4 w zdaniu drugim wyrazy „jednostek, o których mowa w art. 1 ust. 2 pkt 4 i 4a,” zastępuje się wyrazami „jednostki, o której mowa w art. 1 ust. 2 pkt 4a,”.
+
+### Art. 4.
+
+W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów ([Dz. U. z 2003 r. Nr 24, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/2003/199/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+uchyla się art. 14j-14o;
+
+### 2)
+
+w art. 29 po pkt 1 dodaje się pkt 1a-1d w brzmieniu:
+
+„
+
+### 1a)
+
+dokonywanie ocen skutków (kosztów i korzyści) społeczno-gospodarczych projektowanych regulacji oraz sporządzanie ocen tych skutków, w tym projektów powodujących istotne długookresowe następstwa w rozwoju społecznym i gospodarczym;
+
+### 1b)
+
+opracowywanie ocen międzynarodowych uwarunkowań sytuacji kraju oraz długofalowych koncepcji polityki zagranicznej;
+
+### 1c)
+
+opracowywanie ocen funkcjonalności struktur państwa i sprawności ich działania;
+
+### 1d)
+
+przygotowywanie innych analiz, prognoz, koncepcji, programów i ocen, zleconych przez Prezesa Rady Ministrów;
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2003 r. Nr 159, poz. 1548](https://api.sejm.gov.pl/eli/acts/DU/2003/1548/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 162, poz. 1568 i Nr 190, poz. 1864, z 2004 r. Nr 19, poz. 177, Nr 69, poz. 624, Nr 91, poz. 873, Nr 96, poz. 959, Nr 116, poz. 1206, Nr 238, poz. 2390 i Nr 273, poz. 2702 oraz z 2005 r. Nr 17, poz. 141, Nr 33, poz. 288, Nr 155, poz. 1298, Nr 169, poz. 1414 i 1417 i Nr 267, poz. 2258.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 23a otrzymuje brzmienie:
+
+„
+
+### Art. 23a.
+
+Dział rozwój regionalny obejmuje sprawy:
+
+### 1)
+
+opracowywania projektów strategii rozwoju kraju;
+
+### 2)
+
+opracowywania dokumentów programowych z zakresu społeczno-gospodarczego rozwoju kraju, w szczególności będących podstawą do pozyskiwania środków rozwojowych z Unii Europejskiej i z innych źródeł zagranicznych;
+
+### 3)
+
+przygotowywania prognoz oraz średnio- i długookresowych strategicznych programów rozwoju kraju;
+
+### 4)
+
+przygotowywania koncepcji przestrzennego zagospodarowania kraju wraz z prognozą oddziaływania na środowisko;
+
+### 5)
+
+analizowania zgodności rządowych programów krótko- i średniookresowych z programami strategicznymi;
+
+### 6)
+
+analizowania zgodności strategii rozwoju województw ze strategią rozwoju kraju;
+
+### 7)
+
+opracowywania sektorowych programów operacyjnych, z wyjątkiem programów dotyczących rozwoju obszarów wiejskich i rybołówstwa, realizujących cele strategii, o której mowa w pkt 1, oraz dokumentów, o których mowa w pkt 2, z wykorzystaniem w szczególności środków budżetu państwa oraz środków rozwojowych pochodzących z Unii Europejskiej i z innych źródeł zagranicznych;
+
+### 8)
+
+zarządzania Funduszem Spójności oraz sektorowymi programami operacyjnymi, z wyjątkiem programów dotyczących rozwoju obszarów wiejskich i rybołówstwa;
+
+### 9)
+
+koordynacji opracowywania przez samorządy województw regionalnych programów operacyjnych, zawierania regionalnych porozumień programowych, a także monitorowania i oceny przebiegu ich wykonania;
+
+### 10)
+
+współpracy z jednostkami samorządu terytorialnego oraz organizacjami je zrzeszającymi, a także z partnerami społeczno-gospodarczymi, w zakresie dotyczącym rozwoju społeczno-gospodarczego kraju, w tym rozwoju regionalnego;
+
+### 11)
+
+nadzorowania wykonania i rozliczenia zawartych kontraktów wojewódzkich.
+
+” ;
+
+### 2)
+
+w art. 38 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W celu realizacji swoich zadań minister kierujący określonym działem współdziała, na zasadach i w trybie określonych w odrębnych przepisach oraz w zakresie wynikającym z potrzeb danego działu, z innymi członkami Rady Ministrów oraz innymi organami administracji rządowej i państwowymi jednostkami organizacyjnymi, organami samorządu terytorialnego, jak również z organami samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców oraz innych organizacji społecznych i przedstawicielstw środowisk zawodowych i twórczych.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej ([Dz. U. z 1999 r. Nr 49, poz. 483](https://api.sejm.gov.pl/eli/acts/DU/1999/483/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800, z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 i 2257, z 2004 r. Nr 33, poz. 287, Nr 179, poz. 1845 i Nr 273, poz. 2703 oraz z 2005 r. Nr 10, poz. 71, Nr 132, poz. 1110 i Nr 249, poz. 2104.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1 uchyla się pkt 4;
+
+### 2)
+
+w art. 41 w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+osoby kierującej departamentem (komórką równorzędną) i jej zastępcy w urzędach, o których mowa w art. 2 ust. 1 pkt 1 i 2, oraz osoby kierującej wydziałem (komórką równorzędną) i jej zastępcy w urzędach wojewódzkich,
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ([Dz. U. Nr 80, poz. 717](https://api.sejm.gov.pl/eli/acts/DU/2003/717/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492 oraz z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087.](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 46 otrzymuje brzmienie:
+
+„
+
+### Art. 46.
+
+Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej koordynuje zgodność planów zagospodarowania przestrzennego województw z koncepcją przestrzennego zagospodarowania kraju oraz w porozumieniu z ministrem właściwym do spraw rozwoju regionalnego prowadzi współpracę transgraniczną i przygraniczną w zakresie zagospodarowania przestrzennego, a także przygotowuje okresowe raporty o stanie zagospodarowania przestrzennego kraju.
+
+” ;
+
+### 2)
+
+w art. 47 w ust. 1 we wprowadzeniu do wyliczenia wyrazy „Rządowe Centrum Studiów Strategicznych” zastępuje się wyrazami „Minister właściwy do spraw rozwoju regionalnego”.
+
+### Art. 8.
+
+W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych ([Dz. U. Nr 249, poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2005/2104/text.html) i [Nr 169, poz. 1420](https://api.sejm.gov.pl/eli/acts/DU/2005/1420/text.html)) w art. 49 w ust. 1 uchyla się pkt 5.
+
+### Art. 9.
+
+### 1.
+
+Należności i zobowiązania Centrum stają się z dniem 1 kwietnia 2006 r. należnościami i zobowiązaniami urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego, z wyjątkiem należności i zobowiązań związanych z zakresem zadań określonych w art. 2, które stają się należnościami i zobowiązaniami Kancelarii Prezesa Rady Ministrów.
+
+### 2.
+
+Prawa i obowiązki wynikające z umów i porozumień zawartych przez Centrum przejmuje z dniem 1 kwietnia 2006 r. urząd obsługujący ministra właściwego do spraw rozwoju regionalnego, z wyjątkiem praw i obowiązków wynikających z umów i porozumień związanych z zakresem zadań określonych w art. 2, które przejmuje Kancelaria Prezesa Rady Ministrów.
+
+### Art. 10.
+
+Prezes Rady Ministrów ustali, w drodze zarządzenia, przeznaczenie mienia będącego w posiadaniu Centrum, z zastrzeżeniem przepisów o gospodarce nieruchomościami oraz przepisów o finansach publicznych.
+
+### Art. 11.
+
+### 1.
+
+Pracownicy Centrum stają się z dniem 1 kwietnia 2006 r. pracownikami Kancelarii Prezesa Rady Ministrów, z wyjątkiem pracowników Centrum wykonujących dotychczas inne zadania niż wymienione w art. 2, którzy stają się z tym dniem pracownikami urzędu obsługującego ministra właściwego do spraw rozwoju regionalnego.
+
+### 2.
+
+Dyrektor generalny Centrum, w terminie 7 dni od dnia ogłoszenia ustawy, jest obowiązany zawiadomić na piśmie pracowników, o których mowa w ust. 1, o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepisy art. 231 § 4 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398.](#gloss-0:7:)) stosuje się odpowiednio.
+
+### 3.
+
+Stosunki pracy z pracownikami, o których mowa w ust. 1, wygasają po upływie trzech miesięcy od dnia przejścia do nowego pracodawcy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy na dalszy okres albo w razie nieprzyjęcia nowych warunków pracy lub płacy.
+
+### 4.
+
+Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem.
+
+### 5.
+
+W przypadku wygaśnięcia stosunków pracy, o których mowa w ust. 3, lub wypowiedzenia, o którym mowa w ust. 4, pracownikom przysługują świadczenia przewidziane dla pracowników, z którymi stosunki pracy rozwiązuje się z powodu likwidacji pracodawcy.
+
+### 6.
+
+Przepisów ust. 2 zdanie drugie oraz ust. 3 i 4 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 18 grudnia 1998 r. o służbie cywilnej.
+
+### Art. 12.
+
+Sprawy wszczęte i niezakończone przez Centrum realizowane w ramach zadań:
+
+### 1)
+
+wymienionych w art. 2 - są prowadzone przez Kancelarię Prezesa Rady Ministrów;
+
+### 2)
+
+innych niż wymienione w art. 2 - są prowadzone przez urząd obsługujący ministra właściwego do spraw rozwoju regionalnego.
+
+### Art. 13.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 11 ust. 2, który wchodzi w życie z dniem ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 września 1982 r. o pracownikach urzędów państwowych, ustawę z dnia 8 sierpnia 1996 r. o Radzie Ministrów, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 18 grudnia 1998 r. o służbie cywilnej, ustawę z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym oraz ustawę z dnia 30 czerwca 2005 r. o finansach publicznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703 oraz z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 162, poz. 1568 i Nr 190, poz. 1864, z 2004 r. Nr 19, poz. 177, Nr 69, poz. 624, Nr 91, poz. 873, Nr 96, poz. 959, Nr 116, poz. 1206, Nr 238, poz. 2390 i Nr 273, poz. 2702 oraz z 2005 r. Nr 17, poz. 141, Nr 33, poz. 288, Nr 155, poz. 1298, Nr 169, poz. 1414 i 1417 i Nr 267, poz. 2258. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800, z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256 i 2257, z 2004 r. Nr 33, poz. 287, Nr 179, poz. 1845 i Nr 273, poz. 2703 oraz z 2005 r. Nr 10, poz. 71, Nr 132, poz. 1110 i Nr 249, poz. 2104. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 6, poz. 41 i Nr 141, poz. 1492 oraz z 2005 r. Nr 113, poz. 954 i Nr 130, poz. 1087. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398.

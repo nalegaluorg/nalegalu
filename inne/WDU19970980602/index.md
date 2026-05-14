@@ -8,11 +8,9 @@ pos: 602
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# Prawo o ruchu drogowym
-
-*USTAWA z dnia 20 czerwca 1997 r.*
+# Ustawa z dnia 20 czerwca 1997 r.Prawo o ruchu drogowym
 
 | Pole | Wartość |
 |---|---|
@@ -24,5229 +22,4948 @@ domain: null
 | Data ogłoszenia | 1997-06-20 |
 | Data wydania | 1997-08-19 |
 | Ostatnia zmiana | 2026-04-22 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/602/text.pdf) |
-
-2. Zezwolenie, o którym mowa w ust. 1, wydaje, w drodze decyzji, organ zarządzający ruchem na drodze, na której planuje się przeprowadzenie prac badawczych, na pisemny wniosek organizatora prac badawczych.
-3. Wniosek, o którym mowa w ust. 2, zawiera w szczególności:
-1) imię, nazwisko lub firmę (nazwę) oraz adres zamieszkania lub siedziby organizatora prac badawczych;
-2) informację o miejscu i dacie rozpoczęcia oraz zakończenia prac badawczych;
-3) planowany przebieg trasy, po której będzie poruszał się pojazd autonomiczny;
-4) wykaz osób odpowiedzialnych za zabezpieczenie trasy pojazdu autonomicznego;
-5) podpis organizatora prac badawczych lub jego przedstawiciela.
-4. Do wniosku, o którym mowa w ust. 2, dołącza się:
-1) dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej organizatora prac badawczych za szkody powstałe w związku z prowadzeniem prac badawczych związanych z prowadzeniem pojazdów autonomicznych, która wchodzi w życie w przypadku uzyskania pozwolenia na prowadzenie prac badawczych;
-2) dowód opłacenia składki za to ubezpieczenie;
-3) kopię decyzji o profesjonalnej rejestracji pojazdów wydanej na podstawie art.
-80t ust. 2.
-5. Organ, o którym mowa w ust. 2, konsultuje z mieszkańcami gminy, na terenie której prowadzone będą prace badawcze, wniosek o przeprowadzenie prac badawczych, zamieszczając ten wniosek na swojej stronie internetowej i wyznaczając termin na zgłaszanie uwag. Termin ten nie może być krótszy niż 7 dni. W toku konsultacji właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, może zgłosić sprzeciw.
-6. Organ, o którym mowa w ust. 2, wydaje zezwolenie, o którym mowa w ust. 1, po:
-1) uzyskaniu zgody właściwego zarządcy drogi, na której planuje się przeprowadzenie prac badawczych, oraz
-2) zasięgnięciu opinii właściwego ze względu na miejsce prowadzenia prac badawczych komendanta wojewódzkiego Policji dotyczącej wpływu badań na płynność ruchu po planowanej trasie, po której będzie poruszał się pojazd autonomiczny.] <Art. 65l. 1. Prowadzenie prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi w ruchu drogowym na drogach publicznych, zwanych dalej „pracami badawczymi”, jest możliwe pod warunkiem stosowania zasad ruchu drogowego, zapewnienia bezpieczeństwa ruchu drogowego oraz uzyskania zezwolenia na prowadzenie prac badawczych.
-2. Ustala się sześć poziomów automatyzacji, określonych w załączniku nr 3 do ustawy, w tym poziom „0” jako najniższy poziom automatyzacji i poziom „5” jako najwyższy poziom automatyzacji.
-3. Zezwolenia, o którym mowa w ust. 1, nie wymaga się w przypadku prowadzenia prac badawczych nad pojazdami zautomatyzowanymi o poziomie automatyzacji niższym niż poziom „3”, o którym mowa w załączniku nr 3 do ustawy.
-4. Pojazdy zautomatyzowane lub pojazdy w pełni zautomatyzowane stanowią pojazdy badawcze, wykorzystywane wyłącznie do prowadzenia działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r.
-poz. 278, z późn. zm. ) i nie podlegają dalszej odsprzedaży.
-5. Zezwolenie, o którym mowa w ust. 1, wydaje za opłatą Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, na pisemny wniosek organizatora prac badawczych.
-6. Zezwolenie, o którym mowa w ust. 1, określa warunki prowadzenia prac badawczych na obszarach położonych na terenie nie więcej niż pięciu województw.
-7. Zezwolenie, o którym mowa w ust. 1, wydaje się na okres nie dłuższy niż 3 lata. Okres ten może zostać skrócony w trakcie obowiązywania zezwolenia, jeżeli ulegną zmianie warunki określone w zezwoleniu, cel i zakres prac badawczych oraz analiza zagrożeń i ocena ryzyka, o których mowa w ust. 11 pkt 6 i ust. 13 pkt 4. W przypadku, o którym mowa w zdaniu drugim, Krajowy Koordynator Prac Badawczych stwierdza, w drodze decyzji administracyjnej, wygaśnięcie zezwolenia.
-8. Zezwolenie, o którym mowa w ust. 1, podlega zmianie za opłatą, na pisemny wniosek organizatora prac badawczych, w drodze decyzji administracyjnej, w zakresie danych i informacji, o których mowa w ust. 11 pkt 4, 5 i 7, oraz dokumentów, o których mowa w ust. 13 pkt 1–3, przy czym zmiana danych, o których mowa w ust. 11 pkt 7, może dotyczyć także zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze. W przypadku zastąpienia pojazdów lub zgłoszenia dodatkowych pojazdów, w liczbie nie większej niż 7, w okresie ważności zezwolenia, organizator prac badawczych przekazuje Krajowemu Koordynatorowi Prac Badawczych, najpóźniej 7 dni przed rozpoczęciem prac badawczych z udziałem tych pojazdów, informację o liczbie nowych pojazdów oraz ich dane, o których mowa w ust. 11 pkt 7, oraz dokumenty, o których mowa w ust. 14 pkt 1–9, bez potrzeby składania wniosku o zmianę zezwolenia oraz uiszczania opłaty.
-W takim przypadku nie wydaje się decyzji administracyjnej o zmianie zezwolenia.
-9. Krajowy Koordynator Prac Badawczych prowadzi kontrolę prac badawczych w zakresie zgodności prowadzonych prac badawczych z wydanym zezwoleniem.
-10. Do obowiązków Krajowego Koordynatora Prac Badawczych należy:
-1) wydawanie zezwoleń, o których mowa w ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia;
-2) prowadzenie rejestru zezwoleń, o których mowa w ust. 1, w formie elektronicznej, zawierającego:
-a) imię i nazwisko albo firmę (nazwę) organizatora prac badawczych,
-b) okres, na jaki zostało wydane zezwolenie,
-c) obszar prac badawczych,
-d) cel i zakres prac badawczych;
-3) podawanie do publicznej wiadomości, przez opublikowanie na stronie internetowej Krajowego Koordynatora Prac Badawczych, informacji o wydanych zezwoleniach i o okresach prowadzonych prac badawczych oraz o obszarze, lokalizacji i drogach, na których będą prowadzone prace badawcze;
-4) monitorowanie prac badawczych w zakresie zgodności z warunkami określonymi w zezwoleniu;
-5) prowadzenie rejestru sprawozdań składanych przez organizatorów prac badawczych;
-6) prowadzenie rejestru zdarzeń, o których mowa w art. 65n ust. 1 pkt 4;
-7) badanie zgodności ze stanem faktycznym oświadczenia o przeprowadzeniu wewnętrznych testów symulacyjnych i prób fizycznych na zamkniętych drogach lub torach testowych;
-8) ocena przeprowadzonej analizy zagrożeń i ocena ryzyka, o których mowa w ust. 13 pkt 4 oraz ust. 14 pkt 4, w tym w zakresie ich kompletności i adekwatności do zakresu planowanych prac badawczych;
-9) współpraca w zakresie nadzoru nad prowadzeniem prac badawczych z podmiotami zagranicznymi, odpowiedzialnymi za nadzór nad pracami badawczymi w innych krajach;
-10) sporządzanie i przekazywanie do dnia 31 stycznia kolejnego roku do ministra właściwego do spraw transportu rocznego zestawienia prac badawczych, za poprzedni rok, w tym prac badawczych transgranicznych, zawierającego nazwę organizatora prac badawczych, okresy realizacji prac badawczych oraz obszar, lokalizację i drogi, na których prowadzone były prace badawcze, na które zostały wydane zezwolenia;
-11) administrowanie danymi zgromadzonymi w związku z wydawaniem zezwoleń, o których mowa w ust. 1, oraz pełnienie funkcji administratora danych osobowych przetwarzanych w związku z wydawaniem tych zezwoleń;
-12) przetwarzanie danych osobowych organizatora prac badawczych, o których mowa w pkt 2 lit. a, osoby reprezentującej organizatora prac badawczych, o których mowa w ust. 11 pkt 1 lub ust. 12 pkt 2, oraz właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, o których mowa w ust. 11 pkt 2 lub ust. 12 pkt 3, oraz usuwanie tych danych po upływie 5 lat od dnia utraty ważności zezwolenia, o którym mowa w ust. 1, lub od dnia wydania decyzji administracyjnej o stwierdzeniu wygaśnięcia zezwolenia lub decyzji administracyjnej o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia, z wyłączeniem spraw wszczętych i niezakończonych prawomocnym rozstrzygnięciem.
-11. Wniosek, o którym mowa w ust. 5, zawiera:
-1) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
-2) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
-3) informację o okresie, na jaki ma zostać wydane zezwolenie na prowadzenie prac badawczych;
-4) informację o planowanym obszarze prowadzenia prac badawczych, ich lokalizację oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
-5) opis sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora lub opis planowanej zmiany zezwolenia w tych zakresach;
-6) cel i zakres prac badawczych;
-7) dane pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, a w przypadku wniosku o zmianę zezwolenia – dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze:
-a) numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
-b) numer i datę decyzji o profesjonalnej rejestracji pojazdu,
-c) numer VIN pojazdu,
-d) informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
-e) deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
-8) podpis organizatora prac badawczych lub osoby jego reprezentującej.
-12. Wniosek o zmianę zezwolenia, o którym mowa w ust. 8, zawiera:
-1) numer i datę zezwolenia na prowadzenie prac badawczych, którego dotyczy wniosek o zmianę tego zezwolenia;
-2) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału organizatora prac badawczych oraz imię i nazwisko oraz adres zamieszkania lub adres do doręczeń elektronicznych osoby reprezentującej organizatora prac badawczych;
-3) imię i nazwisko albo firmę (nazwę), numer identyfikacyjny REGON albo numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument oraz adres zamieszkania lub adres do doręczeń elektronicznych albo adres siedziby lub oddziału właściciela pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze;
-4) informację o planowanej zmianie zezwolenia w zakresie tego obszaru, ich lokalizacji oraz drogi, po których będzie poruszał się pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, z zastrzeżeniem że obszar prowadzenia prac badawczych może obejmować maksymalnie pięć województw;
-5) opis planowanej zmiany sposobu zarządzania pracami badawczymi i odpowiedzialności organizatora;
-6) dane zastępującego lub dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze:
-a) numer rejestracyjny, z wyłączeniem profesjonalnego numeru rejestracyjnego,
-b) numer i datę decyzji o profesjonalnej rejestracji pojazdu,
-c) numer VIN pojazdu,
-d) informację o spełnieniu warunków określonych w art. 66 ust. 1 i ust. 4 pkt 1–4,
-e) deklarowany poziom automatyzacji pojazdu, zgodny z poziomami określonymi w załączniku nr 3 do ustawy;
-7) informację o zakresie zmian wynikających z dokumentów, o których mowa w ust. 13 pkt 1–3, o ile wniosek dotyczy tych zmian.
-13. Do wniosku, o którym mowa w ust. 5, dołącza się:
-1) dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu;
-2) oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1;
-3) w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego;
-4) analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych;
-5) deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego;
-6) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi;
-7) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7;
-8) oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3;
-9) kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile zastępujący lub dodatkowy pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym planowane jest prowadzenie prac badawczych, został uprzednio dopuszczony do ruchu na jego podstawie;
-10) dowód wniesienia opłaty, o której mowa w ust. 5.
-14. Do wniosku, o którym mowa w ust. 8, dołącza się:
-1) dokument potwierdzający zawarcie umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, dotyczącej pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym prowadzone są prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu – o ile wniosek dotyczy zmiany zakresu danych zawartych w tych dokumentach lub zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-2) oświadczenie o dokonaniu opłacenia składki za ubezpieczenie, o którym mowa w pkt 1 – o ile wniosek dotyczy zmiany w tym zakresie;
-3) w przypadku pojazdów zarejestrowanych w innym państwie członkowskim Unii Europejskiej – kopię dowodu rejestracyjnego – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-4) analizę zagrożeń oraz ocenę ryzyka związanego z zagrożeniami, sporządzone zgodnie z międzynarodową normą ISO 26262, dotyczącą bezpieczeństwa funkcjonalnego systemów elektrycznych lub elektronicznych montowanych w pojazdach drogowych – w zakresie objętym wnioskowaną zmianą;
-5) deklarację organizatora prac badawczych potwierdzającą, że prace badawcze nie będą powodować zagrożenia bezpieczeństwa w ruchu drogowym lub poważnego zakłócenia ruchu drogowego – w zakresie objętym wnioskowaną zmianą;
-6) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, oraz że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych, albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, lub służby technicznej, potwierdzającą, że dany pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4, wraz z oświadczeniem, że wnioskujący posiada udokumentowane prawo do dysponowania nimi – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym planowane jest prowadzenie prac badawczych;
-7) oświadczenie wnioskodawcy złożone pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne, o których mowa w ust. 10 pkt 7 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-8) oświadczenie o wyposażeniu pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym będą prowadzone prace badawcze, w rejestrator spełniający minimalne wymagania techniczne określone w przepisach wydanych na podstawie ust. 25 pkt 3 – o ile wniosek dotyczy zastąpienia lub zgłoszenia dodatkowego pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi planowane jest prowadzenie prac badawczych;
-9) kopię decyzji o udzieleniu zezwolenia na odstępstwo od warunków technicznych, o której mowa w art. 67 ust. 1, o ile pojazd zautomatyzowany lub pojazd w pełni zautomatyzowany, nad którym będą prowadzone prace badawcze, został uprzednio dopuszczony do ruchu na jego podstawie;
-10) dowód wniesienia opłaty, o której mowa w ust. 8.
-15. Składający oświadczenie, o którym mowa w ust. 13 pkt 6 lub ust. 14 pkt 6, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że każdy z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze, spełnia warunki określone w art. 66 ust. 1 i ust. 4 pkt 1–4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym oraz że posiadam udokumentowane prawo do dysponowania tymi pojazdami.”.
-Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-16. Składający oświadczenie, o którym mowa w ust. 13 pkt 7 lub ust. 14 pkt 7, jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zostały przeprowadzone wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych każdego z pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-17. Krajowy Koordynator Prac Badawczych niezwłocznie informuje o wydaniu zezwolenia, o którym mowa w ust. 1, oraz o zgłoszeniu przez organizatora prac badawczych zastąpienia pojazdów lub zgłoszenia nowych pojazdów, w okresie ważności zezwolenia, o którym mowa w ust. 1:
-1) komendanta wojewódzkiego Policji, właściwego dla obszaru planowanych prac badawczych;
-2) komendanta wojewódzkiego Państwowej Straży Pożarnej, właściwego dla obszaru planowanych prac badawczych;
-3) organ zarządzający ruchem na drodze w zakresie prowadzenia prac badawczych i organizacji ruchu na drogach, na których planowane są prace badawcze.
-18. Zadania Krajowego Koordynatora Prac Badawczych realizuje Dyrektor Instytutu Transportu Samochodowego.
-19. Minister właściwy do spraw transportu sprawuje nadzór nad działalnością Krajowego Koordynatora Prac Badawczych.
-20. Opłatę za wydanie zezwolenia, o którym mowa w ust. 1, lub opłatę za zmianę tego zezwolenia uiszcza się na wyodrębniony rachunek bankowy Instytutu Transportu Samochodowego, z zastrzeżeniem że prowizja stanowiąca:
-1) 10 % tych opłat jest przekazywana do budżetu województwa – właściwego ze względu na najdłuższy łączny odcinek dróg wojewódzkich,
-2) 10 % tych opłat jest przekazywana do budżetu powiatu – właściwego ze względu na najdłuższy łączny odcinek dróg powiatowych,
-3) 10 % tych opłat jest przekazywana do budżetu gminy – właściwej ze względu na najdłuższy łączny odcinek dróg gminnych – na których są prowadzone prace badawcze określone w tym zezwoleniu.
-21. Opłaty, o których mowa w ust. 20, stanowią przychód Instytutu Transportu Samochodowego, a prowizja, o której mowa w ust. 20, stanowi dochód właściwej jednostki samorządu terytorialnego.
-22. Jeżeli zezwolenie, o którym mowa w ust. 1, nie obejmuje dróg danej kategorii drogi, o których mowa w ust. 20, prowizja właściwa dla danej kategorii drogi podlega podziałowi w równych częściach na pozostałe kategorie dróg.
-23. Maksymalna wysokość stawki opłaty za:
-1) wydanie zezwolenia, o którym mowa w ust. 1, wynosi:
-a) 20 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie jednego województwa,
-b) 40 000 zł – w przypadku wniosku o wydanie tego zezwolenia obejmującego obszary położone na terenie od dwóch do pięciu województw;
-2) zmianę zezwolenia, o którym mowa w ust. 1, wynosi 5000 zł.
-24. W przypadku odmowy wydania zezwolenia, o którym mowa w ust. 1, lub zmiany tego zezwolenia Krajowy Koordynator Prac Badawczych z urzędu, w terminie 30 dni od dnia, w którym decyzja o odmowie stała się ostateczna, zwraca 70 % opłaty za wydanie zezwolenia lub zmianę zezwolenia.
-25. Minister właściwy do spraw transportu, kierując się potrzebą uzyskania jednolitych informacji niezbędnych do wydania zezwolenia, o którym mowa w ust. 1, oraz potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania pojazdów zautomatyzowanych i pojazdów w pełni zautomatyzowanych, sposobie poruszania się tych pojazdów po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego, określi, w drodze rozporządzenia:
-1) wzory wniosków, o których mowa w ust. 5 i 8;
-2) wzór sprawozdania, o którym mowa w art. 65n ust. 1 pkt 5;
-3) minimalne wymagania techniczne dotyczące elektronicznego rejestratora, o którym mowa w art. 65n ust. 1 pkt 1, oraz sposób i format udostępniania danych na potrzeby rejestracji obrazu z przodu, z tyłu i z wnętrza pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi będą prowadzone prace badawcze, oraz dźwięku z wnętrza tych pojazdów.
-26. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za:
-1) wydanie zezwolenia, o którym mowa w ust. 1, dla poszczególnych obszarów, o których mowa w ust. 23 pkt 1, z uwzględnieniem wielkości obszaru oraz okresu, na jaki zezwolenie będzie wydane, i liczby pojazdów zautomatyzowanych lub pojazdów w pełni zautomatyzowanych, nad którymi będą prowadzone prace badawcze i wskazanych w zezwoleniu, mając na uwadze poziom automatyzacji tych pojazdów oraz nakład pracy i koszty wydania zezwolenia;
-2) zmianę zezwolenia, o którym mowa w ust. 1, mając na uwadze nakład pracy w ramach rozpatrywania wniosku o tę zmianę i koszty zmiany tego zezwolenia.> [Art. 65m. 1. Organ wydający zezwolenie, o którym mowa w art. 65l ust. 1, odmawia jego wydania, jeżeli:
-1) organizator prac badawczych:
-a) nie podał we wniosku, o którym mowa w art. 65l ust. 2, informacji określonych w art. 65l ust. 3,
-b) nie dołączył do wniosku, o którym mowa w art. 65l ust. 2, dokumentów wskazanych w art. 65l ust. 4,
-c) nie uzyskał zgody i opinii, o których mowa w art. 65l ust. 6;
-2) pomimo spełnienia wymogów określonych w art. 65l ust. 3 i 4 istnieje niebezpieczeństwo, że prowadzenie prac badawczych będzie stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
-3) właściciel nieruchomości położonej wzdłuż planowanej trasy, po której będzie poruszał się pojazd autonomiczny, zgłosił sprzeciw.
-2. Organ wydający zezwolenie może:
-1) cofnąć zezwolenie, jeżeli:
-a) organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 2, nieprawdziwe informacje,
-b) prace badawcze prowadzone są niezgodnie z informacjami podanymi we wniosku, o którym mowa w art. 65l ust. 2,
-c) dalsze prowadzenie prac badawczych stanowi zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości;
-2) zawiesić zezwolenie, jeżeli dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości – do czasu ustania tego zagrożenia.] <Art. 65m. 1. Krajowy Koordynator Prac Badawczych, w drodze decyzji administracyjnej, odmawia wydania lub zmiany zezwolenia, o którym mowa w art. 65l ust. 1, jeżeli:
-1) organizator prac badawczych:
-a) nie podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, danych i informacji, o których mowa w art. 65l ust. 11 lub 12,
-b) nie dołączył do wniosku, o którym mowa w art. 65l ust. 5 lub 8, dokumentów, o których mowa w art. 65l ust. 13 lub 14;
-2) mimo złożenia deklaracji, o której mowa w art. 65l ust. 13 pkt 5 lub ust. 14 pkt 5, stwierdzi, że prace badawcze będą stanowić zagrożenie bezpieczeństwa w ruchu drogowym lub poważne zakłócenie ruchu drogowego.
-2. Krajowy Koordynator Prac Badawczych na każdym etapie prac badawczych:
-1) cofa, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, jeżeli:
-a) organizator prac badawczych podał we wniosku, o którym mowa w art. 65l ust. 5 lub 8, nieprawdziwe informacje,
-b) prace badawcze są prowadzone niezgodnie z warunkami tego zezwolenia lub niezgodnie z analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4,
-c) w wyniku prowadzonych prac badawczych ujawniono incydent lub zdarzenie drogowe, stanowiące zagrożenie dla życia lub zdrowia ludzkiego albo mienia wielkiej wartości, do którego doszło wskutek okoliczności, na które organizator prac badawczych miał wpływ lub godził się na ich powstanie;
-2) zawiesza, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, a okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia, w przypadku gdy:
-a) w wyniku rażących zaniedbań organizatora prac badawczych doszło do incydentu lub zdarzenia drogowego, a dalsze prowadzenie prac badawczych może stanowić zagrożenie dla życia lub zdrowia ludzkiego albo mienia – do czasu ustania tego zagrożenia,
-b) organizator prac badawczych nie zgłosił zmiany danych i informacji, o których mowa w art. 65l ust. 11 i 12, oraz nie aktualizował dokumentów, o których mowa w art. 65l ust. 13 i 14, w terminie 14 dni od dnia zaistnienia tych zmian – do czasu wypełnienia tego obowiązku,
-c) po zakończeniu obowiązującej umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o której mowa w art. 65n ust. 4, organizator prac badawczych nie przedstawił polisy ubezpieczenia na kolejny okres ubezpieczenia pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którymi są prowadzone prace badawcze, za szkody powstałe w związku z ruchem tego pojazdu, do czasu przedłożenia nowej umowy ubezpieczenia.
-3. Krajowy Koordynator Prac Badawczych:
-1) przeprowadza kontrolę prowadzonych prac badawczych, przynajmniej raz w okresie ważności zezwolenia, o którym mowa w art. 65l ust. 1, w zakresie zgodności z warunkami określonymi w zezwoleniu i analizą zagrożeń oraz oceną ryzyka, o których mowa w art. 65l ust. 13 pkt 4 lub ust. 14 pkt 4;
-2) może wyznaczyć obserwatora do monitorowania prowadzonych prac badawczych, z zachowaniem obowiązku poinformowania o takim zamiarze organizatora prac badawczych z wyprzedzeniem co najmniej 3 dni przed planowanym dniem uczestnictwa w tych pracach wraz z podaniem imienia i nazwiska tego obserwatora oraz z zapewnieniem jego niezależności, bezstronności i braku konfliktu interesów.
-4. Obserwator, o którym mowa w ust. 3 pkt 2, jest obowiązany wykonywać czynności związane z monitorowaniem prowadzonych prac badawczych w sposób niezakłócający przebiegu prac badawczych, jak również uwzględniający potrzebę ochrony własności intelektualnej i tajemnicy przedsiębiorstwa organizatora prac badawczych lub innych podmiotów.
-5. Organizator prac badawczych jest obowiązany umożliwić uczestnictwo w prowadzonych pracach badawczych obserwatorowi, o którym mowa w ust. 3 pkt 2.
-6. Krajowy Koordynator Prac Badawczych może zawiesić, w drodze decyzji administracyjnej, zezwolenie, o którym mowa w art. 65l ust. 1, w przypadku uniemożliwienia przez organizatora prac badawczych uczestnictwa w pracach badawczych obserwatora, o którym mowa w ust. 3 pkt 2, lub niepoddania się kontroli, o której mowa w ust. 3 pkt 1, do czasu umożliwienia uczestnictwa obserwatora lub poddania się kontroli, z wyjątkiem uzasadnionej przerwy w prowadzeniu prac badawczych. Okres obowiązywania zezwolenia ulega wydłużeniu o czas zawieszenia zezwolenia.
-7. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w sprawach, o których mowa w ust. 1, 2 i 6 oraz art. 65l ust. 1, 5, 7, 8 i ust. 10 pkt 1, jest minister właściwy do spraw transportu.
-8. Krajowy Koordynator Prac Badawczych i osoby wyznaczone do prowadzenia spraw z zakresu wydawania zezwoleń, o których mowa w art. 65l ust. 1, i decyzji administracyjnych o stwierdzeniu wygaśnięcia tego zezwolenia oraz decyzji administracyjnych o odmowie wydania, zmianie, cofnięciu lub zawieszeniu tego zezwolenia oraz realizacji innych obowiązków Krajowego Koordynatora Prac Badawczych, o których mowa w art. 65l ust. 10 pkt 2–12, oraz prowadzenia spraw z zakresu kontroli prowadzonych prac badawczych, o której mowa w ust. 3 pkt 1, i występowania w roli obserwatora, o którym mowa w ust. 3 pkt 2, są obowiązani do:
-1) zachowania poufności danych udostępnianych im w toku prowadzenia postępowań administracyjnych, realizacji zadań i obowiązków Krajowego Koordynatora Prac Badawczych, prowadzenia spraw z zakresu kontroli prac badawczych i monitorowania tych prac, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu;
-2) powstrzymania się od:
-a) występowania w roli członków organów spółek handlowych lub pełnomocników przedsiębiorców, którzy są organizatorem prac badawczych,
-b) prowadzenia prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu niniejszej ustawy, w zakresie wydawanych zezwoleń na prowadzenie prac badawczych,
-c) bycia wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność, o której mowa w lit. a,
-d) bezpośredniego posiadania akcji lub udziałów w spółkach handlowych organizatora prac badawczych,
-e) wykonywania zajęcia zarobkowego na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w lit. a, c i d.
-9. Krajowy Koordynator Prac Badawczych i osoby, o których mowa w ust. 8, składają oświadczenie dotyczące obowiązków określonych w ust. 8, zwane dalej „oświadczeniem o zachowaniu poufności i braku konfliktu interesów”.
-10. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń na podstawie art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. Składający oświadczenie o zachowaniu poufności i braku konfliktu interesów jest obowiązany do zawarcia w nim klauzuli następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia, wynikającej z art. 233 § 6 Kodeksu karnego, oświadczam, że zachowam w poufności wszystkie dane i informacje pozyskane w ramach realizacji zadań i obowiązków, o których mowa w art. 65l ust. 10 oraz art. 65m ust. 3 pkt 1 i 2 ustawy – Prawo o ruchu drogowym, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, oraz nie wykorzystam tych danych i informacji w celach innych niż określone w powyższych przepisach ustawy, a także nie posiadam konfliktu interesów w tym zakresie, a w szczególności nie prowadzę prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi na drogach publicznych w Polsce w rozumieniu ustawy – Prawo o ruchu drogowym, nie jestem członkiem organów spółek handlowych lub pełnomocnikiem przedsiębiorców, którzy są organizatorem prac badawczych, nie jestem wspólnikiem lub partnerem spółki handlowej lub stroną umowy spółki cywilnej prowadzącej działalność w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie posiadam bezpośrednio akcji lub udziałów w spółkach handlowych prowadzących działalność, w ramach prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi, nie wykonuję zajęć zarobkowych na podstawie umowy o pracę, umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze zawartej z podmiotami, o których mowa w art. 65m ust. 8 pkt 2 lit. a, c i d ustawy – Prawo o ruchu drogowym.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
-11. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składają:
-1) ministrowi właściwemu do spraw transportu – Krajowy Koordynator Prac Badawczych;
-2) Krajowemu Koordynatorowi Prac Badawczych – osoby obowiązane do złożenia oświadczenia, o których mowa w ust. 8.
-12. Oświadczenie o zachowaniu poufności i braku konfliktu interesów składa się:
-1) przed zawarciem umowy o pracę, zmianą stanowiska pracy lub zawarciem umowy cywilnoprawnej;
-2) corocznie do dnia 15 stycznia według stanu na dzień 31 grudnia roku poprzedniego;
-3) w terminie 14 dni od dnia powzięcia informacji o okolicznościach, o których mowa w ust. 8.
-13. Naruszenie obowiązków, o których mowa w ust. 8–12, stanowi podstawę do odmowy nawiązania stosunku pracy, rozwiązania stosunku pracy bez wypowiedzenia z winy pracownika, odmowy zawarcia lub wypowiedzenia umowy zlecenia, umowy o dzieło lub innej umowy o podobnym charakterze, odwołania ze stanowiska Krajowego Koordynatora Prac Badawczych.
-14. Oświadczenia o zachowaniu poufności i braku konfliktu interesów podlegają ocenie właściwego organu, o którym mowa w ust. 11 pkt 1 lub 2, pod względem możliwości wystąpienia w trakcie prowadzonego postępowania administracyjnego lub planowanej kontroli lub monitorowania prac badawczych. W przypadku stwierdzenia konfliktu interesów lub naruszenia obowiązku zachowania poufności osoba, o której mowa w ust. 8, podlega wyłączeniu z postępowania administracyjnego, nie uczestniczy w przeprowadzaniu kontroli lub monitorowaniu prac badawczych.
-15. Dyrektor Instytut Transportu Samochodowego w ramach prowadzonych działań zapewnia zachowanie w poufności danych i informacji pozyskanych w ramach realizacji zadań i obowiązków, o których mowa w ust. 3 pkt 1 i 2 oraz art. 65l ust. 10, jak również pozyskanych w związku z tymi działaniami oraz po ich zakończeniu, a także niewykorzystywanie tych danych i informacji przez Instytut Transportu Samochodowego w zakresie prowadzonych działań oraz w celach, innych niż określone w ustawie.
-16. W przypadku gdy Instytut Transportu Samochodowego poniósł szkodę wskutek naruszenia obowiązków, o których mowa w ust. 8, może dochodzić od osób, które naruszyły te obowiązki, wyrównania tej szkody na zasadach określonych w przepisach działu piątego rozdziału I ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661).> [Art. 65n. 1. Organizator prac badawczych jest obowiązany:
-1) umożliwić Policji wykonywanie czynności niezbędnych do zapewnienia bezpieczeństwa ruchu drogowego oraz ochrony życia i zdrowia ludzi oraz mienia w trakcie prowadzenia prac badawczych;
-2) zapewnić, aby w trakcie prowadzenia prac badawczych w pojeździe autonomicznym, w miejscu przeznaczonym dla kierującego, znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, która w każdej chwili może przejąć kontrolę nad tym pojazdem, w szczególności w razie wystąpienia zagrożenia dla bezpieczeństwa w ruchu drogowym;
-3) przekazywać do wiadomości publicznej informacje o planowanych pracach badawczych i przebiegu trasy, po której będzie poruszał się pojazd autonomiczny;
-4) przekazać Dyrektorowi Transportowego Dozoru Technicznego sprawozdanie z przeprowadzonych prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, zgodnie z wzorem określonym w przepisach wydanych na podstawie ust. 2, w terminie 3 miesięcy od dnia zakończenia testów.
-2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wzór sprawozdania składanego przez organizatorów prac badawczych związanych z testowaniem pojazdów autonomicznych oraz ich wyposażenia, kierując się potrzebą zapewnienia dostępu do jednolitych informacji o niezawodności funkcjonowania tych pojazdów, sposobie poruszania się po drogach, sposobie sterowania tymi pojazdami i bezpieczeństwie ruchu drogowego.] < Art. 65n. 1. Organizator prac badawczych jest obowiązany:
-1) wyposażyć pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany, nad którym są prowadzone prace badawcze, w elektroniczny rejestrator, który rejestruje i przechowuje obraz z przodu, z tyłu i z wnętrza pojazdu oraz dźwięk z wnętrza pojazdu;
-2) prowadzić wewnętrzne testy symulacyjne i próby fizyczne na zamkniętych drogach lub torach testowych;
-3) rejestrować obecność kierowcy mającego kontrolę lub mogącego w każdej chwili przejąć kontrolę nad pojazdem zautomatyzowanym albo pojazdem w pełni zautomatyzowanym, nad którymi są prowadzone prace badawcze;
-4) rejestrować zdarzenia, w których doszło do wypadku z udziałem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, przechowywać zapisy tej rejestracji przez okres 12 miesięcy od daty zdarzenia, a także przekazywać te zapisy Krajowemu Koordynatorowi Prac Badawczych, wraz z opisem okoliczności i wskazaniem czasu oraz miejsca zdarzenia;
-5) przekazać Krajowemu Koordynatorowi Prac Badawczych sprawozdanie z przeprowadzonych prac badawczych, zgodnie z wzorem określonym w przepisach wydanych na podstawie art. 65l ust. 25 pkt 2, w terminie 30 dni od dnia zakończenia prac badawczych lub utraty ważności zezwolenia, o którym mowa w art. 65l ust. 1, przy uwzględnieniu, że organizator prac badawczych nie jest obowiązany do ujawniania w treści sprawozdania informacji stanowiących jego tajemnicę przedsiębiorstwa lub innych podmiotów;
-6) zapewnić, aby:
-a) w trakcie prowadzenia prac badawczych w pojeździe zautomatyzowanym albo w pojeździe w pełni zautomatyzowanym znajdowała się osoba posiadająca uprawnienia do kierowania pojazdem, odpowiednie do kategorii pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, która ma kontrolę lub może w każdej chwili przejąć kontrolę nad tym pojazdem i którą uważa się za kierującego,
-b) pojazd zautomatyzowany albo pojazd w pełni zautomatyzowany i ich systemy podlegające pracom badawczym posiadały odpowiedni poziom cyberbezpieczeństwa,
-c) pojazd zautomatyzowany i pojazd w pełni zautomatyzowany oraz wszystkie systemy i prototypy pojazdu, a także inne systemy lub prototypy, nad którymi są prowadzone prace badawcze, były chronione przed nieuprawnionym dostępem, w szczególności dostępem przez Internet;
-7) uwzględnić cyberzagrożenia w zarządzaniu ryzykiem;
-8) zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych informacje o rozpoczęciu i zakończeniu prac badawczych, odpowiednio nie później niż w terminie 7 dni przed rozpoczęciem lub zakończeniem prac badawczych;
-9) zgłaszać w formie pisemnej, w postaci papierowej lub elektronicznej, Krajowemu Koordynatorowi Prac Badawczych, który udzielił zezwolenia, o którym mowa w art. 65l ust. 1, zmiany danych i informacji, wskazanych we wniosku, o których mowa w art. 65l ust. 11, oraz aktualizować dokumenty do wniosku, o których mowa w art. 65l ust. 13;
-10) wystąpić do Krajowego Koordynatora Prac Badawczych z wnioskiem o zmianę zezwolenia, o którym mowa w art. 65l ust. 1, wraz z wymaganymi dokumentami, w zależności od zakresu zmiany, jeżeli zmiany, o których mowa w pkt 9, obejmują dane i informacje, o których mowa w art. 65l ust. 11 pkt 4, 5 i 7, lub wymagać będą aktualizacji dokumentów do wniosku, o których mowa w art. 65l ust. 13 pkt 1–3, z zastrzeżeniem art. 65l ust. 8 zdanie drugie.
-2. Sprawozdanie, o którym mowa w ust. 1 pkt 5, zawiera w szczególności:
-1) imię i nazwisko albo firmę (nazwę) organizatora prac badawczych;
-2) terminy rozpoczęcia i zakończenia prac badawczych;
-3) opis zautomatyzowanych i w pełni zautomatyzowanych systemów i funkcji w pojeździe zautomatyzowanym lub pojeździe w pełni zautomatyzowanym, nad którym były prowadzone prace badawcze, z uwzględnieniem ochrony informacji stanowiących tajemnicę przedsiębiorstwa organizatora prac badawczych lub innych podmiotów;
-4) cel i zakres prac badawczych;
-5) wykaz dokumentacji wykorzystanej lub sporządzonej podczas prac badawczych;
-6) opis przebiegu prac badawczych;
-7) opis wyników prac badawczych;
-8) podsumowanie wyników prac badawczych;
-9) informację o wystąpieniu i liczbie incydentów i zdarzeń z udziałem pojazdu zautomatyzowanego lub pojazdu w pełni zautomatyzowanego, nad którym były prowadzone prace badawcze.
-3. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego ponosi odpowiedzialność za szkody na osobie lub mieniu wyrządzone komukolwiek przez ruch takiego pojazdu, na zasadzie określonej w art. 436 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U.
-z 2025 r. poz. 1071, 1172 i 1508). Do odpowiedzialności posiadacza, o której mowa w zdaniu pierwszym, nie stosuje się art. 436 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, o ile nie można przypisać winy żadnemu z posiadaczy pojazdów lub kierujących pojazdami, które się zderzyły.
-4. Posiadacz pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego jest obowiązany zawrzeć umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem pojazdu zautomatyzowanego albo pojazdu w pełni zautomatyzowanego, o którym mowa w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2025 r. poz. 367, z późn. zm. ). Umowę obowiązkowego ubezpieczenia, o której mowa w zdaniu pierwszym, może zawrzeć również organizator prac badawczych.>
-Art. 140aa. 1. Za przejazd po drogach publicznych pojazdów nienormatywnych bez zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, lub niezgodnie z warunkami określonymi dla tego zezwolenia nakłada się karę pieniężną, w drodze decyzji administracyjnej.
-1a. W przypadku braku:
-1) wymaganej liczby pojazdów wykonujących pilotowanie,
-2) wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie,
-3) wymaganego szkolenia, o którym mowa w art. 6 ust. 3a, przez pilota – nakłada się karę pieniężną, w drodze decyzji administracyjnej.
-2. Decyzję administracyjną o nałożeniu kary pieniężnej, o której mowa w ust. 1 i 1a, wydaje właściwy ze względu na miejsce przeprowadzanej kontroli organ Policji, Inspekcji Transportu Drogowego, Straży Granicznej, naczelnik urzędu celnoskarbowego lub zarządca drogi.
-3. Karę pieniężną, o której mowa w ust. 1, nakłada się na:
-1) podmiot wykonujący przejazd;
-2) podmiot wykonujący czynności ładunkowe, jeżeli wykonał te czynności w sposób powodujący przekroczenie któregokolwiek z wymiarów, nacisków osi lub masy całkowitej pojazdu lub zespołu pojazdów, w stosunku do wartości dopuszczalnych lub wartości określonych w zezwoleniu, o którym mowa w art.
-64 ust. 1 pkt 1, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1;
-3) podmiot wykonujący inne niż wymienione w pkt 2 czynności związane z przejazdem pojazdu nienormatywnego, w szczególności na organizatora transportu, nadawcę, odbiorcę lub spedytora, jeżeli okoliczności lub dowody wskazują, że podmiot ten miał wpływ lub godził się na powstanie naruszenia określonego w ust. 1.
-3a. Karę pieniężną, o której mowa w ust. 1a, nakłada się na:
-1) podmiot wykonujący przejazd – w przypadku, o którym mowa w ust. 1a pkt 1;
-2) podmiot wykonujący pilotowanie – w przypadku, o którym mowa w ust. 1a pkt 2 i 3.
-3b. Kary, o której mowa w ust. 1, za przejazd pojazdu nienormatywnego bez zezwolenia kategorii V albo z przekroczonymi parametrami technicznymi pojazdu wskazanymi w tym zezwoleniu, w zakresie dopuszczalnego nacisku pojedynczej osi napędowej nie nakłada się, w przypadku gdy kontrolujący stwierdził jednoczesne naruszenie zakazu, o którym mowa w art. 41 ust. 2 albo art. 41a ust. 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych, albo przekroczenie dopuszczalnego nacisku pojedynczej osi napędowej, o którym mowa w art. 41b ust. 1 albo 3 tej ustawy.
-4. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1 i ust. 1a pkt 1, wobec podmiotu wykonującego przejazd, a postępowanie wszczęte w tej sprawie umarza się, jeżeli:
-1) okoliczności sprawy i dowody wskazują, że ten podmiot:
-a) dochował należytej staranności w realizacji czynności związanych z przejazdem,
-b) nie miał wpływu na powstanie naruszenia, lub
-2) rzeczywista masa całkowita pojazdu nienormatywnego nie przekracza dopuszczalnej wielkości lub wielkości określonej w zezwoleniu, o którym mowa w art. 64 ust. 1 pkt 1, a przekroczenie dotyczy wyłącznie nacisku osi pojazdu w przypadku przewozu ładunków sypkich oraz drewna.
-5. Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1, wobec podmiotu wykonującego przejazd oraz inne czynności związane z przejazdem drogowym pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
-6. W przypadku stwierdzenia przejazdu po drogach publicznych pojazdów nienormatywnych należących do Sił Zbrojnych Rzeczypospolitej Polskiej bez zezwolenia lub niezgodnie z warunkami określonymi dla tego zezwolenia organ kontroli, o którym mowa w ust. 2, powiadamia właściwy terytorialnie ze względu na miejsce przeprowadzenia kontroli organ Żandarmerii Wojskowej.
-7. Organ Żandarmerii Wojskowej, o którym mowa w ust. 6, występuje do dowódcy jednostki wojskowej organizującej przejazd drogowy lub do jego przełożonego z wnioskiem o wszczęcie postępowania dyscyplinarnego, na zasadach określonych w ustawie z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r.
-poz. 248 i 834).
-Art. 140ab. 1. Karę pieniężną, o której mowa w art. 140aa ust. 1, ustala się w wysokości:
-1) 1500 zł – za brak zezwolenia kategorii I;
-2) 5000 zł – za brak zezwolenia kategorii II–IV;
-3) za brak zezwolenia kategorii V:
-a) 6000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości nie więcej niż o 10 %,
-b) 10 000 zł – gdy nacisk jednej lub wielu osi, rzeczywista masa całkowita lub wymiary pojazdu przekraczają dopuszczalne wartości o więcej niż 10 % i nie więcej niż 20 %,
-c) 15 000 zł – w pozostałych przypadkach;
-4) 5000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt bez potwierdzonego zawiadomienia zarządcy drogi, o którym mowa w art. 64c ust.
-9;
-5) 3000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt niezgodnie z warunkami określonymi przez zarządcę drogi, o którym mowa w art. 64c ust. 9;
-6) 6000 zł – za przejazd pojazdu nienormatywnego przez most lub wiadukt przy zgłoszonym przez zarządcę drogi sprzeciwie, o którym mowa w art. 64c ust. 10;
-7) 2000 zł – za niedotrzymanie warunków przejazdu określonych dla zezwolenia kategorii V lub podanych w tym dokumencie, innych niż parametry techniczne pojazdu lub zespołu pojazdów.
-2. W przypadku naruszeń zakazu, o którym mowa w art. 64 ust. 2, za przejazd pojazdem nienormatywnym nakłada się karę jak za przejazd bez zezwolenia.
-3. Karę pieniężną, o której mowa w art. 140aa ust. 1a, ustala się w wysokości:
-1) 3000 zł – za brak wymaganej liczby pojazdów wykonujących pilotowanie;
-2) 2000 zł – za brak wymaganego wyposażenia lub oznakowania pojazdu wykonującego pilotowanie;
-3) 2000 zł – za brak wymaganego szkolenia, o którym mowa w art. 6 ust. 3a.
-Art. 140ac. 1. Od decyzji o wymierzeniu kary pieniężnej, o której mowa w art.
-140aa ust. 1 i 1a, przysługuje odwołanie do organu nadrzędnego w stosunku do organu, który tę karę wymierzył, w terminie 14 dni od dnia doręczenia decyzji.
-2. Decyzja ostateczna podlega wykonaniu po upływie 30 dni od jej doręczenia, chyba że wstrzymano jej wykonanie. Organ kontroli, który wydał decyzję ostateczną, z urzędu wstrzymuje jej wykonanie, w drodze postanowienia, na które nie przysługuje zażalenie, w razie wniesienia skargi do sądu administracyjnego.
-3. Karę pieniężną uiszcza się w formie przekazu na wskazany w decyzji rachunek bankowy. Koszty związane z jej przekazaniem pokrywa obowiązany podmiot.
-4. Kara pieniężna, o której mowa w ust. 2, podlega przymusowemu ściągnięciu w trybie określonym w przepisach ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
-5. Obowiązek uiszczenia kary pieniężnej, o której mowa w ust. 2, przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, w którym kara powinna zostać uiszczona.
-Art. 140ad. 1. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1, przez zagraniczny podmiot mający siedzibę w państwie, z którym Rzeczpospolita Polska nie jest związana umową o wzajemnej egzekucji kar pieniężnych, osoba przeprowadzająca kontrolę pobiera kaucję w wysokości odpowiadającej przewidywanej karze pieniężnej.
-2. Kaucję pobiera się:
-1) podczas kontroli na drodze – w formie gotówkowej, za pokwitowaniem na druku ścisłego zarachowania, lub za pomocą karty płatniczej;
-2) w terminie późniejszym – w formie przelewu na wyodrębniony rachunek bankowy organu prowadzącego postępowanie administracyjne w sprawie o nałożenie kary, a w przypadku poboru kaucji przez naczelnika urzędu celno-skarbowego – na wyodrębniony rachunek bankowy urzędu skarbowego określony w przepisach odrębnych, przy czym koszty przelewów ponosi obowiązany podmiot.
-3. Kaucja przechowywana jest na nieoprocentowanym rachunku bankowym, o którym mowa w ust. 2 pkt 2. Koszty związane z uiszczeniem kaucji w formie przelewu na rachunek bankowy lub za pomocą karty płatniczej – związane z autoryzacją transakcji i przekazem środków na właściwy rachunek bankowy – pokrywa obowiązany podmiot.
-4. Kaucję przekazuje się:
-1) na rachunek bankowy określony w decyzji o nałożeniu kary, w terminie, o którym mowa w art. 140ac ust. 2, albo
-2) na rachunek bankowy podmiotu, który ją wpłacił, w terminie 7 dni od dnia uprawomocnienia się decyzji lub orzeczenia uchylającego decyzję o nałożeniu kary pieniężnej.
-5. W przypadku gdy wysokość nałożonej kary jest mniejsza od wysokości pobranej kaucji, do powstałej różnicy stosuje się odpowiednio przepis ust. 4 pkt 2.
-6. Odpowiedzialność za szkody spowodowane ruchem pojazdów nienormatywnych ponosi wykonujący przejazd pojazdem nienormatywnym.
-7. W przypadku gdy podczas kontroli zostanie stwierdzone naruszenie, o którym mowa w art. 140aa ust. 1 lub 1a, przez podmiot, o którym mowa w ust. 1, osoba przeprowadzająca kontrolę na drodze zatrzymuje, za pokwitowaniem, dokumenty dotyczące przejazdu pojazdu nienormatywnego oraz dowód rejestracyjny (pozwolenie czasowe) pojazdu i usuwa pojazd, na koszt podmiotu wykonującego przejazd pojazdem nienormatywnym, na parking strzeżony, o którym mowa w art. 130a ust. 5c, a jeżeli ze względu na wymiary lub masę pojazdu umieszczenie pojazdu na tym parkingu jest niemożliwe – na inny, w miarę możliwości najbliższy parking strzeżony, jeżeli:
-1) nie pobrano kaucji lub
-2) nie usunięto stwierdzonego naruszenia.
-Art. 140ae. 1. Kary pieniężne, o których mowa w art. 140aa ust. 1 i 1a, są przekazywane odpowiednio do budżetów jednostek samorządu terytorialnego lub na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad.
-2. Środki z tytułu kar gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie pierwszych 2 dni roboczych po upływie tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
-3. Urzędy celno-skarbowe otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary.
-4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
-4a. Wojewódzkie inspektoraty transportu drogowego otrzymują prowizję od pobranych kar pieniężnych w wysokości 12 % nałożonej kary. Prowizja stanowi wpływ Funduszu rozwoju przewozów autobusowych, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej (Dz. U. z 2024 r. poz. 402).
-5. Od kar pieniężnych urzędy celno-skarbowe i wojewódzkie inspektoraty transportu drogowego odliczają prowizję, a pozostałą część kary, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1.
-Art. 140af. 1. Grzywny, o których mowa w art. 96 § 3 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na właściciela lub posiadacza pojazdu, o których mowa w art.
-78 ust. 4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
-2. Kary porządkowe, o których mowa w art. 49 § 1 i 2 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia, pobierane przez organy Inspekcji Transportu Drogowego, nakładane na osoby, o których mowa w art. 78 ust.
-4 i 5 ustawy, stanowią wpływy Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej.
-Art. 140ag. 1. Grzywny, o których mowa w art. 86, art. 86b, art. 87, art. 90, art.
-92, art. 92a § 2, art. 92b, art. 94 § 1–2, art. 96 § 1 pkt 2 i 3 oraz art. 97a ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, stanowią wpływy Krajowego Funduszu Drogowego.
-2. Właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego przekazują kwoty z grzywien, o których mowa w ust. 1, w terminie pierwszych dwóch dni roboczych po zakończeniu tygodnia, w którym wpłynęły, na rachunek Krajowego Funduszu Drogowego z przeznaczeniem na finansowanie:
-1) zadań inwestycyjnych związanych z poprawą bezpieczeństwa ruchu drogowego na drogach krajowych;
-2) budowy lub przebudowy dróg krajowych.
-Art. 141–143. (pominięte)
-
-### DZIAŁ I Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa określa:
-
-- **1)** zasady ruchu na drogach publicznych, w strefach zamieszkania oraz w strefach ruchu;
-- **2)** zasady i warunki dopuszczenia pojazdów do tego ruchu, a także działalność właściwych organów i podmiotów w tym zakresie;
-- **3)** wymagania w stosunku do innych uczestników ruchu niż kierujący pojazdami;
-- **4)** zasady i warunki kontroli ruchu drogowego.
-
-2. Przepisy ustawy stosuje się również do ruchu odbywającego się poza miejscami wymienionymi w ust. 1 pkt 1, w zakresie:
-
-- **1)** koniecznym dla uniknięcia zagrożenia bezpieczeństwa osób;
-- **2)** wynikającym ze znaków i sygnałów drogowych.
-
-3. Zadania samorządu województwa, o których mowa w art. 75aa–75ac, art. 140g ust. 2, art. 140i i art. 140k, stanowią zadania z zakresu administracji rządowej.
-
-**Art. 2.** Użyte w ustawie określenia oznaczają:
-
-### DZIAŁ II Ruch drogowy
-
-#### Rozdział 1 Zasady ogólne
-
-**Art. 3.**
-
-1. Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani zachować ostrożność albo gdy ustawa tego wymaga – szczególną ostrożność, unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę. Przez działanie rozumie się również zaniechanie.
-
-2. Przepis ust. 1 stosuje się odpowiednio do osoby znajdującej się w pobliżu drogi, jeżeli jej zachowanie mogłoby pociągnąć za sobą skutki, o których mowa w tym przepisie.
-
-3. Jeżeli uczestnik ruchu lub inna osoba spowodowała jednak zagrożenie bezpieczeństwa ruchu drogowego, jest obowiązana przedsięwziąć niezbędne środki w celu niezwłocznego usunięcia zagrożenia, a gdyby nie mogła tego uczynić, powinna o zagrożeniu uprzedzić innych uczestników ruchu.
-
-**Art. 4.** Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania.
-
-**Art. 5.**
-
-1. Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani stosować się do poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli, sygnałów świetlnych oraz znaków drogowych, nawet wówczas, gdy z przepisów ustawy wynika inny sposób zachowania niż nakazany przez te osoby, sygnały świetlne lub znaki drogowe.
-
-2. Polecenia i sygnały dawane przez osoby kierujące ruchem lub uprawnione do jego kontroli mają pierwszeństwo przed sygnałami świetlnymi i znakami drogowymi.
-
-3. Sygnały świetlne mają pierwszeństwo przed znakami drogowymi regulującymi pierwszeństwo przejazdu.
-
-**Art. 6.**
-
-1. Polecenia lub sygnały może dawać uczestnikowi ruchu lub innej osobie znajdującej się na drodze:
-
-- **1)** policjant;
-- **2)** żołnierz Żandarmerii Wojskowej lub wojskowego organu porządkowego, zabezpieczający przemarsz lub przejazd kolumny wojskowej albo w razie akcji związanej z ratowaniem życia lub mienia;
-- **3)** funkcjonariusz Straży Granicznej;
-- **3a)** inspektor Inspekcji Transportu Drogowego;
-- **3b)** umundurowany funkcjonariusz Służby Celno-Skarbowej;
-- **3c)** strażnik gminny (miejski);
-- **4)** pracownik kolejowy na przejeździe kolejowym;
-- **5)** osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi;
-- **6)** osoba nadzorująca bezpieczne przejście dzieci przez jezdnię, w wyznaczonym miejscu;
-- **7)** kierujący autobusem szkolnym w miejscach postoju związanych z wsiadaniem lub wysiadaniem dzieci;
-- **7a)** ratownik górski podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej; <7b) ratownik wodny podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;>
-- **8)** strażnik leśny lub funkcjonariusz Straży Parku – na terenie odpowiednio lasu lub parku narodowego; [9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;] <9) strażak Państwowej Straży Pożarnej, jeżeli wykonuje zadania określone w art. 1 ust. 2 ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2025 r. poz. 1312 i 1366);> <9a) strażak ratownik ochotniczej straży pożarnej, jeżeli wykonuje zadania ochotniczych straży pożarnych określone w art. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2025 r. poz. 244 i 900);> [10) członek ochotniczej straży pożarnej podczas wykonywania czynności związanych z prowadzeniem akcji ratowniczej;] <10) strażak ochotniczej straży pożarnej, jeżeli wykonuje zadania ochotniczych straży pożarnych określone w art. 3 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych;>
-- **11)** funkcjonariusz Służby Ochrony Państwa podczas wykonywania czynności związanych z zapewnieniem bezpieczeństwa ochranianych osób, obiektów i urządzeń;
-- **12)** pilot podczas wykonywania czynności związanych z pilotowaniem przejazdu pojazdu nienormatywnego.
-
-2. Osoby, o których mowa w ust. 1 i ust. 4 pkt 2, powinny być łatwo rozpoznawalne i widoczne z dostatecznej odległości, zarówno w dzień, jak i w nocy.
-
-3. Przepis ust. 2 w zakresie łatwej rozpoznawalności:
-
-- **1)** dotyczy osoby wymienionej [w ust. 1 pkt 1] <w ust. 1 pkt 1 i 3> tylko poza obszarem zabudowanym;
-- **2)** nie dotyczy kierującego autobusem szkolnym, jeżeli sygnał do zatrzymania innych pojazdów dawany jest przez tę osobę bez wychodzenia z odpowiednio oznaczonego pojazdu.
-
-3a. [Osoby, o których mowa w ust. 1 pkt 4–8 i 12 oraz ust. 4 pkt 2, mogą dawać polecenia lub sygnały uczestnikowi ruchu lub innej osobie znajdującej się na drodze pod warunkiem ukończenia szkolenia organizowanego przez wojewódzki ośrodek ruchu drogowego.]<Osoby, o których mowa w ust. 1 pkt 4–8, 10 i 12 oraz ust. 4 pkt 2, mogą dawać polecenia lub sygnały uczestnikowi ruchu lub innej osobie znajdującej się na drodze pod warunkiem ukończenia szkolenia organizowanego przez wojewódzki ośrodek ruchu drogowego lub szkolenia, o którym mowa w art. 8 pkt 5 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych.> Pilot zabezpieczający przejazd pojazdu nienormatywnego będący osobą, o której mowa w ust. 1 pkt 1–3c i 9, nie podlega szkoleniu.
-
-3b. Szkolenie, o którym mowa w ust. 3a, może być przeprowadzone odpłatnie. Opłatę ponosi podmiot kierujący na szkolenie, a w pozostałych przypadkach – osoba odbywająca szkolenie. Wysokość maksymalnej opłaty za szkolenie jednej osoby nie może przekraczać 30 % minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę.
-
-4. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, uwzględniając potrzebę zapewnienia bezpieczeństwa i porządku w trakcie kierowania ruchem drogowym oraz sprawnego wykonywania czynności w tym zakresie, w drodze rozporządzenia:
-
-- **1)** określi organizację i sposób wykonywania czynności, o których mowa w ust. 1, program i tryb prowadzenia szkolenia w tym zakresie, wzór zaświadczenia o ukończeniu szkolenia, wysokość stawek za szkolenie oraz tryb ich pobierania i zwrotu, biorąc pod uwagę w szczególności średnie realne koszty organizacji i przeprowadzania szkolenia;
-- **2)** może upoważnić inne osoby do wykonywania czynności, o których mowa w ust. 1, oraz określić okoliczności, szczegółowe warunki, sposób wykonywania czynności w tym zakresie, jak również warunki, które te osoby muszą spełniać;
-- **3)** określi wzór ubioru osób, o których mowa w ust. 1 pkt 4–6.
-
-**Art. 7.**
-
-1. Znaki i sygnały drogowe wyrażają ostrzeżenia, zakazy, nakazy lub informacje.
-
-2. (uchylony)
-
-3. (uchylony) 3a. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych i Ministrem Obrony Narodowej określi, w drodze rozporządzenia:
-
-- **1)** wzory, znaczenia i zakresy obowiązywania znaków i sygnałów drogowych w ruchu drogowym,
-- **2)** wzory lub rodzaje i zakresy stosowania urządzeń bezpieczeństwa ruchu drogowego,
-- **3)** warunki, jakim powinny odpowiadać znaki i sygnalizatory drogowe oraz urządzenia bezpieczeństwa ruchu drogowego,
-- **4)** podstawowe warunki sytuowania znaków i sygnalizatorów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego w pasie drogowym – uwzględniając postanowienia umów międzynarodowych oraz czytelność i zrozumiałość znaków i sygnałów drogowych dla uczestników ruchu drogowego, a także konieczność zapewnienia bezpieczeństwa ruchu drogowego.
-
-3b. Minister właściwy do spraw transportu może wydawać, rozpowszechniać lub rekomendować wzorce i standardy dotyczące szczegółowych warunków sytuowania znaków i sygnalizatorów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego w pasie drogowym, w formie opracowań, na zasadach określonych w art. 17 ust. 3 i 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
-
-**Art. 8.**
-
-1. Osoba niepełnosprawna legitymująca się kartą parkingową kierująca pojazdem samochodowym oznaczonym tą kartą, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami o których mowa w art. 7 ust. 3a.
-
-2. Przepis ust. 1 stosuje się również do:
-
-- **1)** kierującego pojazdem, który przewozi osobę niepełnosprawną legitymującą się kartą parkingową;
-- **2)** kierującego pojazdem należącym do placówki, o której mowa w ust. 3a pkt 3, przewożącego osobę mającą znacznie ograniczone możliwości samodzielnego poruszania się, pozostającą pod opieką takiej placówki.
-
-3. Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby – w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności.
-
-3a. Kartę parkingową wydaje się:
-
-- **1)** osobie niepełnosprawnej zaliczonej do znacznego albo umiarkowanego stopnia niepełnosprawności mającej znacznie ograniczone możliwości samodzielnego poruszania się;
-- **2)** osobie niepełnosprawnej, która nie ukończyła 16 roku życia mającej znacznie ograniczone możliwości samodzielnego poruszania się;
-- **3)** placówce zajmującej się opieką, rehabilitacją lub edukacją osób niepełnosprawnych mających znacznie ograniczone możliwości samodzielnego poruszania się.
-
-4. Kartę parkingową osobie, o której mowa w ust. 3a pkt 1 i 2, wydaje za opłatą przewodniczący powiatowego zespołu do spraw orzekania o niepełnosprawności, o którym mowa w art. 6 ust. 1 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44 i 858), na podstawie wydanego przez zespół do spraw orzekania o niepełnosprawności:
-
-- **1)** orzeczenia o niepełnosprawności,
-- **2)** orzeczenia o stopniu niepełnosprawności,
-- **3)** orzeczenia o wskazaniach do ulg i uprawnień – wraz ze wskazaniem, o którym mowa w art. 6b ust. 3 pkt 9 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych.
-
-5. Kartę parkingową placówce, o której mowa w ust. 3a pkt 3, wydaje za opłatą przewodniczący powiatowego zespołu do spraw orzekania o niepełnosprawności, na podstawie dokumentów przedstawionych przez wnioskodawcę, przy czym na jeden pojazd wykorzystywany do przewozu osób niepełnosprawnych wydaje się jedną kartę.
-
-5a. (uchylony) 5b. (uchylony) 5c. Kartę parkingową wydaje się osobie, o której mowa w ust. 3a pkt 1 i 2, na okres ważności orzeczenia, o którym mowa w ust. 4, jednakże nie dłużej niż na okres 5 lat, a placówce, o której mowa w ust. 3a pkt 3 na okres 3 lat.
-
-5d. W przypadku zaprzestania wykorzystywania pojazdu do przewozu osób niepełnosprawnych, mających znacznie ograniczone możliwości samodzielnego poruszania się, podmiot zarządzający placówką, o której mowa w art. 8 ust. 3a pkt 3 jest zobowiązany do niezwłocznego zwrotu karty parkingowej organowi, który ją wydał.
-
-5e. Karta parkingowa traci ważność:
-
-- **1)** po upływie terminu ważności karty;
-- **2)** w przypadku zgłoszenia utraty karty przez osobę lub placówkę, której wydano kartę;
-- **3)** w przypadku zwrotu karty organowi, który ją wydał;
-- **4)** w razie likwidacji placówki, której wydano kartę;
-- **5)** w razie śmierci osoby, której wydano kartę.
-
-5f. Minister właściwy do spraw zabezpieczenia społecznego dokonuje, z zachowaniem przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), wyboru producenta blankietów kart parkingowych.
-
-6. Przepis ust. 1 stosuje się odpowiednio w stosunku do kierujących pojazdami zaopatrzonymi w kartę parkingową wydaną za granicą.
-
-6a. Opłata za wydanie karty parkingowej nie może przekroczyć 1 % przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w poprzednim roku, ogłaszanego do celów emerytalnych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” przez Prezesa Głównego Urzędu Statystycznego.
-
-6b. Opłata za wydanie karty parkingowej stanowi dochód budżetu państwa.
-
-7. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia:
-
-- **1)** wzór oraz tryb wydawania kart parkingowych osobom, o których mowa w ust. 3a pkt 1 i 2 oraz placówkom, o których mowa w ust. 3a pkt 3, uwzględniając w szczególności zapewnienie jednolitej procedury wydawania kart parkingowych oraz konieczność technicznego zabezpieczenia karty w sposób gwarantujący jej autentyczność oraz ujednolicenia wzoru karty parkingowej z rozwiązaniami przyjętymi w krajach europejskich, w celu umożliwienia korzystania osobom niepełnosprawnym z ulg i przywilejów w ruchu drogowym, określonych w przepisach prawa krajowego;
-- **2)** zasady nadawania numerów wydawanym kartom parkingowym, uwzględniając w szczególności konieczność stworzenia sprawnego systemu wydawania, ewidencjonowania i kontroli prawidłowości wykorzystywania kart oraz fakt, że w przypadku kart, o których mowa w ust. 3a pkt 3 częścią składową numeru karty jest numer rejestracyjny pojazdu;
-- **3)** tryb postępowania w sprawie zwrotu karty parkingowej, mając na względzie zapewnienie jednolitej procedury zwrotu kart parkingowych;
-- **4)** wzór wniosku o wydanie karty parkingowej, mając na uwadze zapewnienie jednolitej formy składanych wniosków.
-
-8. Minister właściwy do spraw zabezpieczenia społecznego, w porozumieniu z ministrem właściwym do spraw transportu i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, rodzaj placówek zajmujących się opieką, rehabilitacją lub edukacją osób niepełnosprawnych mających znacznie ograniczone możliwości poruszania się, uprawnionych do uzyskania karty parkingowej, mając na względzie zapewnienie wydawania karty właściwym placówkom.
-
-9. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia:
-
-- **1)** wysokość opłaty za wydanie karty parkingowej, uwzględniając koszty związane z jej produkcją i dystrybucją;
-- **2)** warunki dystrybucji blankietów kart parkingowych, mając na uwadze zapewnienie sprawności i bezpieczeństwa procesu przekazywania tych kart do powiatowych zespołów do spraw orzekania o niepełnosprawności.
-
-**Art. 8a.** (uchylony)
-
-**Art. 8b.**
-
-1. Członek Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej legitymujący się kartą kombatanta kierujący pojazdem samochodowym oznaczonym tą kartą może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, na zasadach określonych dla osoby niepełnosprawnej legitymującej się kartą parkingową kierującej pojazdem samochodowym oznaczonym kartą, o której mowa w art. 8 ust. 1.
-
-2. Przepis ust. 1 stosuje się również do kierującego pojazdem, który przewozi członka Korpusu Weteranów Walk o Niepodległość Rzeczypospolitej Polskiej legitymującego się kartą kombatanta.
-
-**Art. 9.**
-
-1. Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się.
-
-2. W warunkach zwiększonego natężenia ruchu pojazdów utrudniającego swobodny przejazd pojazdu uprzywilejowanego w celu umożliwienia swobodnego przejazdu tego pojazdu:
-
-- **1)** na jezdni z dwoma pasami ruchu w tym samym kierunku kierujący pojazdem poruszający się lewym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej lewej krawędzi pasa ruchu, a kierujący pojazdem poruszający się prawym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej prawej krawędzi pasa ruchu;
-- **2)** na jezdni z więcej niż dwoma pasami ruchu w tym samym kierunku kierujący pojazdem poruszający się skrajnym lewym pasem ruchu jest obowiązany usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej lewej krawędzi pasa ruchu, a kierujący pojazdami poruszający się pozostałymi pasami ruchu są obowiązani usunąć się z drogi przejazdu pojazdu uprzywilejowanego przez zjechanie jak najbliżej prawej krawędzi pasów ruchu.
-
-3. Kierującemu pojazdem innym niż uprzywilejowany zabrania się korzystania z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób, o którym mowa w ust. 2. Kierujący pojazdem może kontynuować jazdę po uprzednio zajmowanym pasie ruchu po przejeździe pojazdu uprzywilejowanego.
-
-4. Przepisu ust. 3 nie stosuje się do pojazdów zarządców dróg lub pomocy drogowej biorących udział w akcji ratowniczej.
-
-**Art. 10.**
-
-1. Minister właściwy do spraw transportu sprawuje nadzór nad zarządzaniem ruchem na drogach krajowych.
-
-2. Wojewoda sprawuje nadzór nad zarządzaniem ruchem na drogach:
-
-- **1)** wojewódzkich;
-- **2)** powiatowych;
-- **3)** gminnych;
-- **4)** publicznych położonych w miastach na prawach powiatu i w mieście stołecznym Warszawie;
-- **5)** wewnętrznych położonych w strefach ruchu lub strefach zamieszkania.
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/602/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/602) |
 
-3. Generalny Dyrektor Dróg Krajowych i Autostrad zarządza ruchem na drogach krajowych, z zastrzeżeniem ust. 6.
+## Spis treści
 
-4. Marszałek województwa zarządza ruchem na drogach wojewódzkich, z zastrzeżeniem ust. 6.
+- [Treść ustawy](#part_1) [Dział I - Przepisy ogólne](#bran_I) [Dział II - Ruch drogowy](#bran_II) [Rozdział 1 - Zasady ogólne](#bran_II-chpt_1) [Rozdział 2 - Ruch pieszych](#bran_II-chpt_2) [Rozdział 3 - Ruch pojazdów](#bran_II-chpt_3) [Rozdział 4 - Ruch zwierząt](#bran_II-chpt_4) [Rozdział 5 - Porządek i bezpieczeństwo ruchu na drogach](#bran_II-chpt_5) [Dział III - Pojazdy](#bran_III) [Rozdział 1 - Warunki techniczne pojazdów](#bran_III-chpt_1) [Rozdział 2 - Warunki dopuszczenia pojazdów do ruchu](#bran_III-chpt_2) [Rozdział 3 - Badania techniczne pojazdów](#bran_III-chpt_3) [Dział IV - Kierujący](#bran_IV) [Rozdział 1 - Uprawnienia do kierowania](#bran_IV-chpt_1) [Rozdział 2 - Szkolenie i egzaminowanie](#bran_IV-chpt_2) [Rozdział 3 - Wojewódzki ośrodek ruchu drogowego](#bran_IV-chpt_3) [Rozdział 4 - Sprawdzanie stanu zdrowia i predyspozycji psychicznych do kierowania pojazdami](#bran_IV-chpt_4) [Dział V - Kontrola ruchu drogowego](#bran_V) [Rozdział 1 - Uprawnienia Policji](#bran_V-chpt_1) [Rozdział 2 - Zatrzymywanie i zwracanie dowodów rejestracyjnych](#bran_V-chpt_2) [Rozdział 3 - Zatrzymywanie praw jazdy i pozwoleń oraz cofanie i przywracanie uprawnień do kierowania pojazdami](#bran_V-chpt_3) [Dział VI - Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe](#bran_VI)
 
-5. Starosta zarządza ruchem na drogach powiatowych i gminnych, z zastrzeżeniem ust. 6.
+TOC
 
-6. Prezydent miasta zarządza ruchem na drogach publicznych położonych w miastach na prawach powiatu, z wyjątkiem autostrad i dróg ekspresowych.
+## Treść ustawy
 
-7. Zarządzanie ruchem na drogach wewnętrznych, w tym w strefie ruchu i strefie zamieszkania, należy do podmiotu zarządzającego tymi drogami.
+### Dział I Przepisy ogólne
 
-8. Generalny Dyrektor Dróg Krajowych i Autostrad może powierzyć zadania w zakresie zarządzania ruchem na drogach krajowych marszałkowi województwa.
+### Art. 1.
 
-9. Drogami krajowymi, wojewódzkimi, powiatowymi i gminnymi są drogi publiczne określone zgodnie z przepisami o drogach publicznych.
+### 1.
 
-10. Organy sprawujące nadzór nad zarządzaniem ruchem na drogach mogą nakazać zmianę organizacji ruchu ze względu na ważny interes ogólnospołeczny lub konieczność zapewnienia ruchu tranzytowego.
+Ustawa reguluje zasady ruchu na drogach publicznych oraz w strefach zamieszkania, warunki dopuszczenia pojazdów do tego ruchu, wymagania w stosunku do osób kierujących pojazdami i innych uczestników ruchu oraz zasady kontroli ruchu drogowego.
 
-10a. Podmioty zarządzające drogami, o których mowa w ust. 7, ustalając organizację ruchu na tych drogach stosują znaki i sygnały drogowe oraz zasady ich umieszczania wynikające z ustawy i jej przepisów wykonawczych. Koszt oznakowania drogi wewnętrznej ponosi podmiot zarządzający drogą.
+### 2.
 
-10b. Ruch na drodze odbywa się na podstawie zatwierdzonej organizacji ruchu, przez którą rozumie się:
+Przepisy ustawy stosuje się również do ruchu odbywającego się poza drogami publicznymi, jeżeli jest to konieczne dla uniknięcia zagrożenia bezpieczeństwa uczestników tego ruchu.
 
-- **1)** geometrię drogi i zakres dostępu do drogi;
-- **2)** sposób umieszczania znaków pionowych, poziomych, sygnalizatorów i urządzeń bezpieczeństwa ruchu drogowego;
-- **3)** zasady i sposób działania sygnalizacji, znaków świetlnych, znaków o zmiennej treści i innych zmiennych elementów.
+### Art. 2.
 
-10c. W przypadku wykonywania robót budowlanych dotyczących drogi, wymagających uzyskania decyzji o pozwoleniu na budowę lub decyzji o zezwoleniu na realizację inwestycji drogowej albo zgłoszenia wykonywania robót budowlanych, projekt organizacji ruchu sporządza się przed wszczęciem postępowania w sprawie wydania tych decyzji albo przed dokonaniem zgłoszenia.
+Użyte w ustawie określenia oznaczają:
 
-11. Minister właściwy do spraw transportu, mając na uwadze konieczność ochrony dróg przed zniszczeniem oraz zapewnienie bezpieczeństwa ruchu w okresie zwiększonego natężenia ruchu pojazdów osobowych, może wprowadzić, w drodze rozporządzenia, okresowe ograniczenia ruchu pojazdów na drogach lub zakaz ruchu niektórych rodzajów pojazdów.
+### 1)
 
-12. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw wewnętrznych i Ministrem Obrony Narodowej, uwzględniając w szczególności:
+droga - wydzielony pas terenu składający się z jezdni, pobocza, chodnika, drogi (ścieżki) dla pieszych lub drogi (ścieżki) dla rowerów, łącznie z torowiskiem pojazdów szynowych znajdującym się w obrębie tego pasa, przeznaczony do ruchu lub postoju pojazdów, ruchu pieszych, jazdy wierzchem lub pędzenia zwierząt,
 
-- **1)** konieczność zapewnienia bezpieczeństwa wszystkim uczestnikom ruchu drogowego,
-- **2)** potrzebę efektywnego wykorzystania dróg publicznych,
-- **3)** potrzeby społeczności lokalnej, określi, w drodze rozporządzenia, szczegółowe warunki zarządzania ruchem na drogach oraz wykonywania nadzoru nad tym zarządzaniem.
+### 2)
 
-#### Rozdział 2 Ruch pieszych oraz osób poruszających się przy użyciu urządzenia wspomagającego ruch
+droga twarda - drogę z jezdnią o nawierzchni bitumicznej, betonowej, kostkowej, klinkierowej, brukowcowej, tłuczniowej lub żwirowej oraz z płyt betonowych lub kamienno-betonowych, jeżeli długość nawierzchni przekracza 20 m; inne drogi są drogami gruntowymi,
 
-**Art. 11.**
+### 3)
 
-1. Pieszy jest obowiązany korzystać z drogi dla pieszych lub drogi dla pieszych i rowerów, a w razie ich braku – z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania miejsca nadjeżdżającemu pojazdowi.
+autostrada - drogę dwujezdniową, oznaczoną odpowiednimi znakami drogowymi, na której nie dopuszcza się ruchu poprzecznego, przeznaczoną tylko do ruchu pojazdów samochodowych, które na równej, poziomej jezdni mogą rozwinąć prędkość co najmniej 40 km/h, w tym również w razie ciągnięcia przyczep,
 
-2. Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi.
+### 4)
 
-3. Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym ruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie.
+droga ekspresowa - drogę dwu- lub jednojezdniową, oznaczoną odpowiednimi znakami drogowymi, na której skrzyżowania występują wyjątkowo, przeznaczoną tylko do ruchu pojazdów samochodowych,
 
-4. Korzystanie przez pieszego z drogi dla rowerów jest dozwolone tylko w razie braku drogi dla pieszych, drogi dla pieszych i rowerów lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem osoby niepełnosprawnej, korzystając z tej drogi, jest obowiązany ustąpić miejsca osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego.
+### 5)
 
-4a. Pieszy poruszający się po drodze po zmierzchu poza obszarem zabudowanym jest obowiązany używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu, chyba że porusza się po drodze dla pieszych, drodze dla pieszych i rowerów lub drodze dla rowerów.
+droga (ścieżka) dla rowerów - drogę przeznaczoną do ruchu rowerów, oznaczoną odpowiednimi znakami drogowymi,
 
-5. Przepisów ust. 1–4a nie stosuje się w strefie zamieszkania. W strefie tej pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem oraz osobą poruszającą się przy użyciu urządzenia wspomagającego ruch.
+### 6)
 
-**Art. 12.**
+jezdnia - część drogi przeznaczoną do ruchu pojazdów,
 
-1. Kolumna pieszych, z wyjątkiem pieszych w wieku do 10 lat, może się poruszać tylko prawą stroną jezdni.
+### 7)
 
-2. Do kolumny pieszych w wieku do 10 lat stosuje się odpowiednio przepisy art. 11 ust. 1 i 2.
+pas ruchu - każdy z podłużnych pasów jezdni wystarczający do ruchu jednego rzędu pojazdów wielośladowych, oznaczony lub nie oznaczony znakami drogowymi,
 
-3. Liczba pieszych idących jezdnią w kolumnie obok siebie nie może przekraczać 4, a w kolumnie wojskowej – 6, pod warunkiem że kolumna nie zajmuje więcej niż połowy szerokości jezdni.
+### 8)
 
-4. Piesi w wieku do 10 lat mogą iść w kolumnie tylko dwójkami pod nadzorem co najmniej jednej osoby pełnoletniej.
+pobocze - część drogi przyległą do jezdni, która może być przeznaczona do ruchu pieszych lub niektórych pojazdów, postoju pojazdów, jazdy wierzchem lub pędzenia zwierząt,
 
-5. Długość kolumny pieszych nie może przekraczać 50 m. Odległość między kolumnami nie może być mniejsza niż 100 m.
+### 9)
 
-6. Jeżeli przemarsz kolumny pieszych odbywa się w warunkach niedostatecznej widoczności:
+chodnik - część drogi przeznaczoną do ruchu pieszych,
 
-- **1)** pierwszy i ostatni z idących z lewej strony są obowiązani nieść latarki:
-    - **a)** pierwszy – ze światłem białym, skierowanym do przodu,
-    - **b)** ostatni – ze światłem czerwonym, skierowanym do tyłu;
+### 10)
 
-- **2)** w kolumnie o długości przekraczającej 20 m idący po lewej stronie z przodu i z tyłu są obowiązani używać elementów odblaskowych odpowiadających właściwym warunkom technicznym, a ponadto idący po lewej stronie są obowiązani nieść dodatkowe latarki ze światłem białym, rozmieszczone w taki sposób, aby odległość między nimi nie przekraczała 10 m;
-- **3)** światło latarek powinno być widoczne z odległości co najmniej 150 m.
+skrzyżowanie - przecięcie się w jednym poziomie dróg mających jezdnię, ich połączenie lub rozwidlenie, łącznie z powierzchniami utworzonymi przez takie przecięcia, połączenia lub rozwidlenia; określenie to nie dotyczy przecięcia, połączenia lub rozwidlenia drogi twardej z drogą gruntową lub stanowiącą dojazd do obiektu znajdującego się przy drodze,
 
-7. Zabrania się:
+### 11)
 
-- **1)** ruchu po jezdni kolumny pieszych w czasie mgły; zakaz ten nie dotyczy kolumny wojskowej lub policyjnej;
-- **2)** ruchu po jezdni kolumny pieszych w wieku do 10 lat w warunkach niedostatecznej widoczności;
-- **3)** prowadzenia po jezdni kolumny pieszych przez osobę w wieku poniżej 18 lat.
+przejście dla pieszych - powierzchnię jezdni lub torowiska przeznaczoną do przechodzenia przez pieszych, oznaczoną odpowiednimi znakami drogowymi,
 
-**Art. 13.**
+### 12)
 
-1. Pieszy wchodzący na jezdnię, drogę dla rowerów lub torowisko albo przechodzący przez te części drogi jest obowiązany zachować szczególną ostrożność oraz korzystać z przejścia dla pieszych.
+przejazd dla rowerzystów - powierzchnię jezdni lub torowiska przeznaczoną do przejeżdżania przez rowerzystów, oznaczoną odpowiednimi znakami drogowymi,
 
-1a. Pieszy znajdujący się na przejściu dla pieszych ma pierwszeństwo przed pojazdem. Pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed pojazdem, z wyłączeniem tramwaju.
+### 13)
 
-2. Przechodzenie przez jezdnię lub drogę dla rowerów poza przejściem dla pieszych jest dozwolone na przejściu sugerowanym albo poza przejściem sugerowanym jeżeli odległość od przejścia dla pieszych przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się w odległości mniejszej niż 100 m od wyznaczonego przejścia dla pieszych, przechodzenie jest dozwolone również na tym skrzyżowaniu.
+przystanek - miejsce zatrzymywania się pojazdów transportu publicznego, oznaczone odpowiednimi znakami drogowymi,
 
-3. Przechodzenie przez jezdnię lub drogę dla rowerów poza przejściem dla pieszych, o którym mowa w ust. 2, jest dozwolone tylko pod warunkiem, że nie spowoduje zagrożenia bezpieczeństwa ruchu lub utrudnienia ruchu pojazdów. Pieszy jest obowiązany ustąpić pierwszeństwa pojazdom i do przeciwległej krawędzi jezdni lub drogi dla rowerów iść drogą najkrótszą, prostopadle do osi jezdni lub drogi dla rowerów.
+### 14)
 
-4. Jeżeli na drodze znajduje się tunel lub wiadukt dla pieszych albo pieszych i rowerów, pieszy jest obowiązany korzystać z niego.
+tunel - budowlę na drodze, oznaczoną odpowiednimi znakami drogowymi,
 
-5. Na obszarze zabudowanym na drodze dwujezdniowej pieszy, przechodząc przez jezdnię, jest obowiązany korzystać tylko z przejścia dla pieszych.
+### 15)
 
-6. Przechodzenie przez torowisko wyodrębnione z jezdni jest dozwolone na przejściu dla pieszych albo przejściu sugerowanym. Przepisy ust. 3 stosuje się odpowiednio.
+obszar zabudowany - obszar oznaczony odpowiednimi znakami drogowymi,
 
-7. Jeżeli wysepka dla pasażerów na przystanku komunikacji publicznej łączy się z przejściem dla pieszych, przechodzenie do i z przystanku jest dozwolone tylko po tym przejściu.
+### 16)
 
-8. Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni.
+strefa zamieszkania - obszar obejmujący drogi publiczne lub inne drogi, na którym obowiązują szczególne zasady ruchu drogowego, a wjazdy i wyjazdy oznaczone są odpowiednimi znakami drogowymi,
 
-**Art. 14.** Zabrania się:
+### 17)
 
-**Art. 15.** Przepisów art. 11–14 nie stosuje się w razie zamknięcia ruchu pojazdów na drodze.
+uczestnik ruchu - pieszego, kierującego, a także inne osoby przebywające w pojeździe lub na pojeździe znajdującym się na drodze,
 
-**Art. 15a.**
+### 18)
 
-1. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana korzystać z drogi dla pieszych, drogi dla pieszych i rowerów lub drogi dla rowerów. Osobę poruszającą się przy użyciu urządzenia wspomagającego ruch na drodze dla rowerów obowiązuje ruch prawostronny.
+pieszy - osobę znajdującą się poza pojazdem na drodze i nie wykonującą na niej robót lub czynności przewidzianych odrębnymi przepisami; za pieszego uważa się również osobę prowadzącą, ciągnącą lub pchającą rower, motorower, motocykl, wózek dziecięcy, podręczny lub inwalidzki, osobę poruszającą się w wózku inwalidzkim, a także osobę w wieku do 10 lat kierującą rowerem pod opieką osoby dorosłej,
 
-2. Przepisów ust. 1 nie stosuje się w strefie zamieszkania. W strefie tej osoba poruszająca się przy użyciu urządzenia wspomagającego ruch korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem.
+### 19)
 
-3. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, korzystając z drogi dla pieszych lub drogi dla pieszych i rowerów, jest obowiązana poruszać się z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
+kolumna pieszych - zorganizowaną grupę pieszych prowadzoną przez kierownika lub dowódcę,
 
-4. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch, przekraczając jezdnię, drogę dla rowerów lub torowisko, jest obowiązana zachować szczególną ostrożność oraz korzystać z przejazdu dla rowerów, a w przypadku jego braku – z przejścia dla pieszych albo przejścia sugerowanego, na zasadach określonych dla ruchu pieszych w przepisach art. 13.
+### 20)
 
-5. (uchylony)
+kierujący - osobę, która kieruje pojazdem lub zespołem pojazdów, a także osobę, która prowadzi kolumnę pieszych, jedzie wierzchem albo pędzi zwierzęta pojedynczo lub w stadzie,
 
-6. Osoba poruszająca się przy użyciu urządzenia wspomagającego ruch jest obowiązana:
+### 21)
 
-- **1)** poruszać się z prędkością zapewniającą panowanie nad tym urządzeniem, z uwzględnieniem warunków, w jakich ruch się odbywa;
-- **2)** przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu;
-- **3)** przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody;
-- **4)** przed wyprzedzaniem upewnić się, czy ma dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu;
-- **5)** zbliżając się do przejścia dla pieszych, zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu.
+kierowca - osobę uprawnioną do kierowania pojazdem silnikowym,
 
-7. Osobie poruszającej się przy użyciu urządzenia wspomagającego ruch zabrania się:
+### 22)
 
-- **1)** poruszania się w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku;
-- **3)** ciągnięcia pojazdu lub ładunku;
-- **4)** czepiania się pojazdów;
-- **5)** poruszania się tyłem.
+szczególna ostrożność - ostrożność polegającą na zwiększeniu uwagi i dostosowaniu zachowania uczestnika ruchu do warunków i sytuacji zmieniających się na drodze, w stopniu umożliwiającym odpowiednio szybkie reagowanie,
 
-#### Rozdział 3 Ruch pojazdów
+### 23)
 
-##### Oddział 1 Zasady ogólne
+ustąpienie pierwszeństwa przez kierującego pojazdem lub pieszego - powstrzymanie się od ruchu, jeżeli ruch mógłby zmusić kierującego innym pojazdem do zmiany kierunku lub pasa ruchu albo istotnej zmiany prędkości jazdy, a pieszego - do zatrzymania się, zwolnienia lub przyspieszenia kroku,
 
-**Art. 16.**
+### 24)
 
-1. Kierującego pojazdem obowiązuje ruch prawostronny.
+ruch kierowany - ruch otwierany i zamykany za pomocą sygnalizacji świetlnej albo przez uprawnioną osobę,
 
-2. Kierujący pojazdem, korzystając z drogi dwujezdniowej, jest obowiązany jechać po prawej jezdni; do jezdni tych nie wlicza się jezdni przeznaczonej do dojazdu do nieruchomości położonej przy drodze.
+### 25)
 
-2a. Kierujący pojazdem kategorii N lub N , o których mowa odpowiednio w art. 4 ust. 1 lit. b rozporządzenia 2018/858 albo w załączniku nr 2 do ustawy, lub zespołem pojazdów o długości ponad 7 m na autostradzie lub drodze ekspresowej o trzech lub więcej wyznaczonych pasach ruchu na jezdni w jednym kierunku jest obowiązany korzystać wyłącznie z dwóch pasów ruchu przeznaczonych dla danego kierunku, znajdujących się najbliżej prawej krawędzi jezdni.
+niedostateczna widoczność - widoczność występującą od zmierzchu do świtu, a także w warunkach zmniejszonej przejrzystości powietrza od świtu do zmierzchu,
 
-3. Kierujący pojazdem, korzystając z jezdni dwukierunkowej co najmniej o czterech pasach ruchu, jest obowiązany zajmować pas ruchu znajdujący się na prawej połowie jezdni.
+### 26)
 
-4. Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni. Jeżeli pasy ruchu na jezdni są wyznaczone, nie może zajmować więcej niż jednego pasa.
+wymijanie - przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku,
 
-5. Kierujący pojazdem zaprzęgowym, rowerem, wózkiem rowerowym, motorowerem, wózkiem ręcznym oraz osoba prowadząca pojazd napędzany silnikiem są obowiązani poruszać się po poboczu, chyba że nie nadaje się ono do jazdy lub ruch pojazdu utrudniałby ruch pieszych.
+### 27)
 
-6. Kierujący pojazdem znajdującym się na części jezdni, po której jeżdżą pojazdy szynowe, jest obowiązany ustąpić miejsca nadjeżdżającemu pojazdowi szynowemu.
+omijanie - przejeżdżanie (przechodzenie) obok nie poruszającego się pojazdu, uczestnika ruchu lub przeszkody,
 
-7. Na skrzyżowaniu i bezpośrednio przed nim kierujący rowerem, motorowerem lub motocyklem może poruszać się środkiem pasa ruchu, jeśli pas ten umożliwia opuszczenie skrzyżowania w więcej niż jednym kierunku, z zastrzeżeniem art. 33 ust.
+### 28)
 
-1.
+wyprzedzanie - przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w tym samym kierunku,
 
-##### Oddział 2 Włączanie się do ruchu
+### 29)
 
-**Art. 17.**
+zatrzymanie pojazdu - unieruchomienie pojazdu nie wynikające z warunków lub przepisów ruchu drogowego, trwające nie dłużej niż 1 minutę, oraz każde unieruchomienie pojazdu wynikające z tych warunków lub przepisów,
 
-1. Włączanie się do ruchu następuje przy rozpoczynaniu jazdy po postoju lub zatrzymaniu się niewynikającym z warunków lub przepisów ruchu drogowego oraz przy wjeżdżaniu:
+### 30)
 
-- **1)** na drogę z nieruchomości, z obiektu przydrożnego lub dojazdu do takiego obiektu, z drogi niebędącej drogą publiczną oraz ze strefy zamieszkania;
-- **2)** na drogę z pola lub na drogę o nawierzchni twardej z drogi o nawierzchni gruntowej;
-- **3)** na jezdnię z pobocza, z drogi dla pieszych lub z pasa ruchu dla pojazdów powolnych;
-- **3a)** na jezdnię lub pobocze z drogi dla rowerów lub drogi dla pieszych i rowerów, z wyjątkiem wjazdu na przejazd dla rowerów lub pas ruchu dla rowerów;
-- **4)** pojazdem szynowym – na drogę z zajezdni lub na jezdnię z pętli.
+postój pojazdu - unieruchomienie pojazdu nie wynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę,
 
-2. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu.
+### 31)
 
-**Art. 18.**
+pojazd - środek transportu przeznaczony do poruszania się po drodze oraz maszynę lub urządzenie do tego przystosowane,
 
-1. Kierujący pojazdem, zbliżając się do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnię.
+### 32)
 
-2. Kierujący autobusem (trolejbusem), o którym mowa w ust. 1, może wjechać na sąsiedni pas ruchu lub na jezdnię dopiero po upewnieniu się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu drogowego.
+pojazd silnikowy - pojazd wyposażony w silnik, z wyjątkiem motoroweru i pojazdu szynowego,
 
-**Art. 18a.**
+### 33)
 
-1. Kierujący pojazdem, zbliżając się do miejsca postoju autobusu szkolnego, jest obowiązany:
+pojazd samochodowy - pojazd silnikowy, którego konstrukcja umożliwia jazdę z prędkością przekraczającą 25 km/h; określenie to nie obejmuje ciągnika rolniczego,
 
-- **1)** zatrzymać się, o ile kierujący tym autobusem podał sygnał zatrzymania;
-- **2)** zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu tym autobusem wjazd na jezdnię lub sąsiedni pas ruchu, o ile sygnalizuje on zamiar wykonania takiego manewru.
+### 34)
 
-2. Kierujący autobusem szkolnym w sytuacji, o której mowa w ust. 1, może wjechać na sąsiedni pas ruchu lub jezdnię dopiero po upewnieniu się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu drogowego.
+pojazd wolnobieżny - pojazd silnikowy, którego konstrukcja ogranicza prędkość jazdy do 25 km/h, z wyłączeniem ciągnika rolniczego,
 
-##### Oddział 3 Prędkość i hamowanie
+### 35)
 
-**Art. 19.**
+pojazd członowy - zespół pojazdów składający się z pojazdu silnikowego złączonego z naczepą,
 
-1. Kierujący pojazdem jest obowiązany jechać z prędkością zapewniającą panowanie nad pojazdem, z uwzględnieniem warunków, w jakich ruch się odbywa, a w szczególności: rzeźby terenu, stanu i widoczności drogi, stanu i ładunku pojazdu, warunków atmosferycznych i natężenia ruchu.
+### 36)
 
-2. Kierujący pojazdem jest obowiązany:
+pojazd specjalny - pojazd samochodowy lub przyczepę, konstrukcyjnie nie przeznaczone do przewozu osób lub ładunków,
 
-- **1)** jechać z prędkością nieutrudniającą jazdy innym kierującym;
-- **2)** hamować w sposób niepowodujący zagrożenia bezpieczeństwa ruchu lub jego utrudnienia;
-- **3)** utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu.
+### 37)
 
-3. Poza obszarem zabudowanym, na jezdniach dwukierunkowych o dwóch pasach ruchu, kierujący pojazdem objętym indywidualnym ograniczeniem prędkości albo pojazdem lub zespołem pojazdów o długości przekraczającej 7 m jest obowiązany utrzymywać taki odstęp od pojazdu silnikowego znajdującego się przed nim, aby inne wyprzedzające pojazdy mogły bezpiecznie wjechać w lukę utrzymywaną między tymi pojazdami. Przepisu tego nie stosuje się, jeżeli kierujący pojazdem przystępuje do wyprzedzania lub gdy wyprzedzanie jest zabronione.
+pojazd używany do celów specjalnych - pojazd samochodowy przystosowany w sposób szczególny do przewozu osób lub ładunków, używany przez Siły Zbrojne, Policję, Urząd Ochrony Państwa, Straż Graniczną, straż pożarną i Służbę Więzienną,
 
-3a. Kierujący pojazdem podczas przejazdu autostradą i drogą ekspresową jest obowiązany zachować minimalny odstęp między pojazdem, którym kieruje, a pojazdem jadącym przed nim na tym samym pasie ruchu. Odstęp ten wyrażony w metrach określa się jako nie mniejszy niż połowa liczby określającej prędkość pojazdu, którym porusza się kierujący, wyrażonej w kilometrach na godzinę. Przepisu tego nie stosuje się podczas manewru wyprzedzania.
+### 38)
 
-4. Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż:
+pojazd uprzywilejowany - pojazd wysyłający sygnały świetlne w postaci niebieskich świateł błyskowych i jednocześnie sygnały dźwiękowe o zmiennym tonie, jadący z włączonymi światłami mijania lub drogowymi; określenie to obejmuje również pojazdy jadące w kolumnie, na której początku i na końcu znajdują się pojazdy uprzywilejowane wysyłające dodatkowo sygnały świetlne w postaci czerwonego światła błyskowego,
 
-- **1)** 50 m – jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobusem;
-- **2)** 80 m – jeżeli kieruje zespołem pojazdów lub pojazdem niewymienionym w pkt
+### 39)
 
-1.
+pojazd zabytkowy - pojazd, który na podstawie odrębnych przepisów został wpisany do rejestru zabytków lub ujęty w centralnej ewidencji dóbr kultury,
 
-5. Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć za pomocą znaków drogowych dopuszczalny odstęp, o którym mowa w ust. 4, w zależności od obowiązującej w tunelu dopuszczalnej prędkości.
+### 40)
 
-**Art. 20.**
+samochód osobowy - pojazd samochodowy przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu,
 
-1. Prędkość dopuszczalna pojazdu lub zespołu pojazdów na obszarze zabudowanym wynosi 50 km/h, z zastrzeżeniem ust. 2.
+### 41)
 
-1a. (uchylony)
+autobus - pojazd samochodowy przeznaczony konstrukcyjnie do przewozu więcej niż 9 osób łącznie z kierowcą,
 
-2. Prędkość dopuszczalna pojazdu lub zespołu pojazdów w strefie zamieszkania wynosi 20 km/h.
+### 42)
 
-3. Prędkość dopuszczalna poza obszarem zabudowanym, z zastrzeżeniem ust. 4, wynosi w przypadku:
+samochód ciężarowy - pojazd samochodowy przeznaczony konstrukcyjnie do przewozu ładunków; określenie to obejmuje również samochód ciężarowo-osobowy przeznaczony konstrukcyjnie do przewozu ładunków i osób w liczbie od 4 do 9 łącznie z kierowcą,
 
-- **1)** samochodu osobowego, motocykla lub samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t:
-    - **a)** na autostradzie – 140 km/h,
-    - **b)** na drodze ekspresowej dwujezdniowej – 120 km/h,
-    - **c)** na drodze ekspresowej jednojezdniowej oraz na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu – 100 km/h,
-    - **d)** na pozostałych drogach – 90 km/h;
+### 43)
 
-- **2)** zespołu pojazdów lub pojazdu niewymienionego w pkt 1:
-    - **a)** na autostradzie, drodze ekspresowej lub drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu – 80 km/h,
-    - **b)** na pozostałych drogach – 70 km/h.
+taksówka - pojazd samochodowy odpowiednio wyposażony i oznaczony, przeznaczony do przewozu za ustaloną na podstawie taksometru opłatą:
 
-4. Dopuszczalna prędkość autobusu spełniającego dodatkowe warunki techniczne określone w przepisach, o których mowa w art. 66 ust. 5, na autostradzie i drodze ekspresowej wynosi 100 km/h.
+### a)
 
-5. (uchylony) 5a. Rada Ministrów na wniosek ministra właściwego do spraw gospodarki surowcami energetycznymi może, w drodze rozporządzenia, w przypadkach, o których mowa w art. 32 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2023 r. poz. 1650 i 1681 oraz z 2024 r. poz. 834 i 859), wprowadzić ograniczenia w dopuszczalnej prędkości pojazdów samochodowych.
+osób w liczbie nie większej niż 9 łącznie z kierowcą oraz ich bagażu podręcznego (taksówka osobowa),
 
-6. Prędkość dopuszczalna niektórych pojazdów, z zastrzeżeniem ust. 2, wynosi:
+### b)
 
-- **1)** ciągnika rolniczego (również z przyczepą) – [30 km/h] <40 km/h>;
-- **2)** pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego – 30 km/h na obszarze zabudowanym i 60 km/h poza obszarem zabudowanym;
-- **3)** motocykla (również z przyczepą), czterokołowca i motoroweru, którymi przewozi się dziecko w wieku do 7 lat – 40 km/h;
-- **4)** hulajnogi elektrycznej i urządzenia transportu osobistego – 20 km/h.
+ładunków o masie nie przekraczającej 2,5 t (taksówka bagażowa),
 
-**Art. 21.**
+### 44)
 
-1. Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć, za pomocą znaków drogowych, prędkość dopuszczalną pojazdów obowiązującą na obszarze zabudowanym.
+ciągnik rolniczy - pojazd silnikowy skonstruowany do używania łącznie ze sprzętem do prac rolnych, leśnych lub ogrodniczych; ciągnik taki może być również przystosowany do ciągnięcia przyczep oraz do prac ziemnych,
 
-2. Prędkość dopuszczalna, o której mowa w ust. 1, może być:
+### 45)
 
-- **1)** zmniejszona – jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za tym przemawiają;
-- **2)** zwiększona – jeżeli warunki ruchu na drodze lub jej odcinku zapewniają zachowanie bezpieczeństwa ruchu.
+motocykl - pojazd samochodowy jednośladowy lub z bocznym wózkiem - wielośladowy,
 
-3. Organ zarządzający ruchem na drogach może zmniejszyć, za pomocą znaków drogowych, prędkość dopuszczalną pojazdów obowiązującą poza obszarem zabudowanym, jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za tym przemawiają.
+### 46)
 
-4. Organ rejestrujący pojazd może ustalić dla indywidualnego pojazdu dopuszczalną prędkość niższą niż określona w art. 20, jeżeli jest to uzasadnione konstrukcją lub stanem technicznym pojazdu. Ograniczenie prędkości należy uwidocznić na znaku umieszczonym z tyłu pojazdu.
+motorower - pojazd jednośladowy lub dwuśladowy zaopatrzony w silnik spalinowy o pojemności skokowej nie przekraczającej 50 cm3, którego konstrukcja ogranicza prędkość jazdy do 45 km/h,
 
-##### Oddział 4 Zmiana kierunku jazdy lub pasa ruchu
+### 47)
 
-**Art. 22.**
+rower - pojazd jednośladowy lub wielośladowy poruszany siłą mięśni osoby jadącej tym pojazdem,
 
-1. Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności.
+### 48)
 
-2. Kierujący pojazdem jest obowiązany zbliżyć się:
+wózek inwalidzki - pojazd konstrukcyjnie przeznaczony do poruszania się osoby niepełnosprawnej, napędzany siłą mięśni lub za pomocą silnika, którego konstrukcja ogranicza prędkość jazdy do prędkości pieszego,
 
-- **1)** do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo;
-- **2)** do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo.
+### 49)
 
-3. Przepisu ust. 2 nie stosuje się, jeżeli wymiary pojazdu uniemożliwiają skręcenie zgodnie z zasadą określoną w tym przepisie lub dopuszczalna jest jazda wyłącznie w jednym kierunku.
+zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy to pojazdów złączonych w celu holowania,
 
-4. Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, z wyjątkiem ust. 4a i 4b, oraz pojazdowi wjeżdżającemu na ten pas ruchu z prawej strony.
+### 50)
 
-4a. W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż jednym pasem ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje możliwość kontynuacji jazdy pasem ruchu z powodu wystąpienia przeszkody na tym pasie ruchu lub jego zanikania, kierujący pojazdem poruszający się sąsiednim pasem ruchu jest obowiązany bezpośrednio przed miejscem wystąpienia przeszkody lub miejscem zanikania pasa ruchu umożliwić jednemu pojazdowi lub jednemu zespołowi pojazdów, znajdującym się na takim pasie ruchu, zmianę tego pasa ruchu na sąsiedni, którym istnieje możliwość kontynuacji jazdy.
+przyczepa - pojazd bez silnika, przystosowany do łączenia go z innym pojazdem,
 
-4b. W warunkach znacznego zmniejszenia prędkości na jezdni z więcej niż dwoma pasami ruchu w tym samym kierunku jazdy, w przypadku gdy nie istnieje możliwość kontynuacji jazdy dwoma pasami ruchu z powodu przeszkód na tych pasach ruchu lub ich zanikania, jeżeli pomiędzy tymi pasami ruchu znajduje się jeden pas ruchu, którym istnieje możliwość kontynuacji jazdy, kierujący pojazdem poruszający się tym pasem ruchu jest obowiązany bezpośrednio przed miejscem wystąpienia przeszkody lub miejscem zanikania pasów ruchu umożliwić zmianę pasa ruchu jednemu pojazdowi lub jednemu zespołowi pojazdów z prawej strony, a następnie jednemu pojazdowi lub jednemu zespołowi pojazdów z lewej strony.
+### 51)
 
-5. Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować kierunkowskazem zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.
+przyczepa lekka - przyczepę, której dopuszczalna masa całkowita nie przekracza 750 kg,
 
-5a. W przypadku gdy pojazd nie jest wyposażony w kierunkowskazy, kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu przez wyciągnięcie ręki w stronę zamierzonej zmiany kierunku jazdy lub pasa ruchu.
+### 52)
 
-6. Zabrania się zawracania:
+naczepa - przyczepę, której część spoczywa na pojeździe silnikowym i obciąża ten pojazd,
 
-- **1)** w tunelu, na moście, wiadukcie lub drodze jednokierunkowej;
-- **2)** na autostradzie;
-- **3)** na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego;
-- **4)** w warunkach, w których mogłoby to zagrozić bezpieczeństwu ruchu na drodze lub ruch ten utrudnić.
+### 53)
 
-##### Oddział 5 Wymijanie, omijanie i cofanie
+masa własna - masę pojazdu z jego normalnym wyposażeniem, paliwem, olejami, smarami i cieczami w ilościach nominalnych, bez kierującego,
 
-**Art. 23.**
+### 54)
 
-1. Kierujący pojazdem jest obowiązany:
+dopuszczalna masa całkowita - sumę masy własnej i dopuszczalnej ładowności,
 
-- **1)** przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu, a w razie potrzeby zjechać na prawo i zmniejszyć prędkość lub zatrzymać się;
-- **2)** przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody, a w razie potrzeby zmniejszyć prędkość; omijanie pojazdu sygnalizującego zamiar skręcenia w lewo może odbywać się tylko z jego prawej strony;
-- **3)** przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności:
-    - **a)** sprawdzić, czy wykonywany manewr nie spowoduje zagrożenia bezpieczeństwa ruchu lub jego utrudnienia,
-    - **b)** upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby.
+### 55)
 
-2. Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie lub drodze ekspresowej.
+rzeczywista masa całkowita - masę pojazdu łącznie z masą znajdujących się na nim rzeczy i osób,
 
-##### Oddział 6 Wyprzedzanie
+### 56)
 
-**Art. 24.**
+dopuszczalna ładowność - największą masę ładunku i osób, jaką może przewozić pojazd po drodze,
 
-1. Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy:
+### 57)
 
-- **1)** ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu;
-- **2)** kierujący, jadący za nim, nie rozpoczął wyprzedzania;
-- **3)** kierujący, jadący przed nim na tym samym pasie ruchu, nie zasygnalizował zamiaru wyprzedzania innego pojazdu, zmiany kierunku jazdy lub zmiany pasa ruchu.
+nacisk osi - sumę nacisków, jaką na drogę wywierają koła znajdujące się na jednej osi.
 
-2. Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla, hulajnogi elektrycznej, urządzenia transportu osobistego, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m.
+### Dział II Ruch drogowy
 
-3. Kierujący pojazdem jest obowiązany przy wyprzedzaniu przejeżdżać z lewej strony wyprzedzanego pojazdu, z zastrzeżeniem ust. 4, 5, 10 i 12.
+### Rozdział 1 Zasady ogólne
 
-4. Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej.
+### Art. 3.
 
-5. Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar skręcenia w lewo, może odbywać się tylko z jego prawej strony.
+### 1.
 
-6. Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości. Kierujący pojazdem wolnobieżnym, ciągnikiem rolniczym lub pojazdem bez silnika jest obowiązany zjechać jak najbardziej na prawo w celu ułatwienia wyprzedzania. Przepisu nie stosuje się w przypadku, o którym mowa w ust. 12.
+Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani zachować ostrożność albo gdy ustawa tego wymaga - szczególną ostrożność, unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę. Przez działanie rozumie się również zaniechanie.
 
-7. Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni:
+### 2.
 
-- **1)** przy dojeżdżaniu do wierzchołka wzniesienia;
-- **2)** na zakręcie oznaczonym znakami ostrzegawczymi;
-- **3)** na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany.
+Przepis ust. 1 stosuje się odpowiednio do osoby znajdującej się w pobliżu drogi, jeżeli jej zachowanie mogłoby pociągnąć za sobą skutki, o których mowa w tym przepisie.
 
-8. Dopuszcza się wyprzedzanie w miejscach, o których mowa w ust. 7 pkt 1 i 2, na jezdni:
+### 3.
 
-- **1)** jednokierunkowej;
-- **2)** dwukierunkowej na odcinku z wyznaczonymi pasami ruchu, pod warunkiem że kierujący nie wjeżdża na część jezdni przeznaczoną do ruchu w kierunku przeciwnym – w miejscu, gdzie jest to zabronione znakami na jezdni.
+Jeżeli uczestnik ruchu lub inna osoba spowodowała jednak zagrożenie bezpieczeństwa ruchu drogowego, jest obowiązana przedsięwziąć niezbędne środki w celu niezwłocznego usunięcia zagrożenia, a gdyby nie mogła tego uczynić, powinna o zagrożeniu uprzedzić innych uczestników ruchu.
 
-9. Dopuszcza się wyprzedzanie w miejscu, o którym mowa w ust. 7 pkt 3, pojazdu sygnalizującego zamiar skręcenia, pod warunkiem że kierujący nie wjeżdża na część jezdni przeznaczoną do ruchu w kierunku przeciwnym.
+### Art. 4.
 
-10. Dopuszcza się wyprzedzanie z prawej strony na odcinku drogi z wyznaczonymi pasami ruchu, przy zachowaniu warunków określonych w ust. 1 i 7:
+Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania.
 
-- **1)** na jezdni jednokierunkowej;
-- **2)** na jezdni dwukierunkowej, jeżeli co najmniej dwa pasy ruchu na obszarze zabudowanym lub trzy pasy ruchu poza obszarem zabudowanym przeznaczone są do jazdy w tym samym kierunku.
+### Art. 5.
 
-11. Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym.
+### 1.
 
-12. Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony.
+Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani stosować się do poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli, sygnałów świetlnych oraz znaków drogowych, nawet wówczas, gdy z przepisów ustawy wynika inny sposób zachowania niż nakazany przez te osoby, sygnały świetlne lub znaki drogowe.
 
-13. Kierującemu pojazdem kategorii N lub N , o których mowa odpowiednio w art. 4 ust. 1 lit. b rozporządzenia 2018/858 albo w załączniku nr 2 do ustawy, zabrania się wyprzedzania pojazdu samochodowego na autostradzie i drodze ekspresowej o wyłącznie dwóch pasach ruchu przeznaczonych dla danego kierunku ruchu, chyba że pojazd ten porusza się z prędkością znacznie mniejszą od dopuszczalnej dla pojazdów kategorii N lub N obowiązującej na danej drodze.
+### 2.
 
-14. Zakazu, o którym mowa w ust. 13, nie stosuje się do wyprzedzania pojazdów wykonujących na drodze prace porządkowe, remontowe lub modernizacyjne wysyłających żółte sygnały błyskowe.
+Polecenia i sygnały dawane przez osoby kierujące ruchem lub uprawnione do jego kontroli mają pierwszeństwo przed sygnałami świetlnymi i znakami drogowymi.
 
-##### Oddział 7 Przecinanie się kierunków ruchu
+### 3.
 
-**Art. 25.**
+Sygnały świetlne mają pierwszeństwo przed znakami drogowymi regulującymi pierwszeństwo przejazdu.
 
-1. Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony, a jeżeli skręca w lewo – także jadącemu z kierunku przeciwnego na wprost lub skręcającemu w prawo.
+### Art. 6.
 
-2. Przepisu ust. 1 nie stosuje się do pojazdu szynowego, który ma pierwszeństwo w stosunku do innych pojazdów, bez względu na to, z której strony nadjeżdża.
+### 1.
 
-3. Przepisy ust. 1 i 2 stosuje się również w razie przecinania się kierunków ruchu poza skrzyżowaniem.
+Polecenia lub sygnały może dawać uczestnikowi ruchu lub innej osobie znajdującej się na drodze:
 
-4. Kierującemu pojazdem zabrania się:
+### 1)
 
-- **1)** wjeżdżania na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy;
-- **2)** rozdzielania kolumny pieszych.
+policjant,
 
-**Art. 26.**
+### 2)
 
-1. Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a.
+żołnierz wojskowego organu porządkowego, zabezpieczający przemarsz lub przejazd kolumny wojskowej albo w razie akcji związanej z ratowaniem życia lub mienia,
 
-1a. Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu.
+### 3)
 
-2. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża.
+żołnierz Straży Granicznej w strefie nadgranicznej,
 
-3. Kierującemu pojazdem zabrania się:
+### 4)
 
-- **1)** wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany;
-- **2)** omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu;
-- **3)** jazdy wzdłuż po drodze dla pieszych lub przejściu dla pieszych, z zastrzeżeniem art. 33 ust. 6, art. 33a ust. 2 oraz art. 33b ust. 2.
+pracownik kolejowy na przejeździe kolejowym,
 
-4. Kierujący pojazdem, przejeżdżając przez drogę dla pieszych lub drogę dla pieszych i rowerów, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu.
+### 5)
 
-5. Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym, ze względu na brak wyodrębnienia jezdni i dróg dla pieszych lub dróg dla pieszych i rowerów, ruch pieszych i pojazdów odbywa się po tej samej powierzchni.
+pracownik zarządu drogi lub inna osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządu drogi,
 
-6. Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy drodze dla pieszych lub drodze dla pieszych i rowerów. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na drogę dla pieszych lub drogę dla pieszych i rowerów. Przepisy te stosuje się odpowiednio przy ruchu innych pojazdów komunikacji publicznej.
+### 6)
 
-7. W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia.
+osoba nadzorująca bezpieczne przejście dzieci przez jezdnię, w wyznaczonym miejscu.
 
-**Art. 27.**
+### 2.
 
-1. Kierujący pojazdem, zbliżając się do przejazdu dla rowerów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, znajdującym się na przejeździe.
+Osoby, o których mowa w ust. 1 i ust. 4 pkt 2, powinny być łatwo rozpoznawalne i widoczne z dostatecznej odległości, zarówno w dzień, jak i w nocy.
 
-1a. Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch, jadącym na wprost po jezdni, pasie ruchu dla rowerów, drodze dla pieszych i rowerów, drodze dla rowerów lub innej części drogi, którą zamierza opuścić.
+### 3.
 
-2. (uchylony)
+Przepis ust. 2, w zakresie wymogu łatwej rozpoznawalności, dotyczy osoby wymienionej w ust. 1 pkt 1 tylko poza obszarem zabudowanym.
 
-3. Kierujący pojazdem, przejeżdżając przez drogę dla pieszych i rowerów lub drogę dla rowerów, jest obowiązany ustąpić pierwszeństwa kierującemu rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego oraz osobie poruszającej się przy użyciu urządzenia wspomagającego ruch.
+### 4.
 
-4. Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe dla rowerów i bezpośrednio przed nim, z wyjątkiem przejazdu, na którym ruch jest kierowany.
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej:
 
-**Art. 28.**
+### 1)
 
-1. Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona.
+określi, w drodze rozporządzenia, organizację i sposób kierowania ruchem drogowym,
 
-2. Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd.
+### 2)
 
-3. Kierującemu pojazdem zabrania się:
+może upoważnić, w drodze rozporządzenia, inne osoby do wykonywania czynności, o których mowa w ust. 1, oraz określić okoliczności, szczegółowe warunki i sposób wykonywania tych czynności.
 
-- **1)** objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone;
-- **2)** wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy;
-- **3)** wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim;
-- **4)** omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu.
+### Art. 7.
 
-4. W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie.
+### 1.
 
-5. Kierujący pojazdem lub zespołem pojazdów o długości przekraczającej 10 m, który nie może rozwinąć prędkości większej niż 6 km/h, przed wjazdem na przejazd kolejowy jest obowiązany upewnić się, czy w czasie potrzebnym na przejechanie przez ten przejazd nie nadjedzie pojazd szynowy, lub uzgodnić czas tego przejazdu z dróżnikiem kolejowym.
+Znaki i sygnały drogowe wyrażają ostrzeżenia, zakazy, nakazy lub informacje.
 
-6. Przepisy ust. 1–4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany.
+### 2.
 
-##### Oddział 8 Ostrzeganie oraz jazda w warunkach zmniejszonej przejrzystości powietrza
+Ministrowie Transportu i Gospodarki Morskiej oraz Spraw Wewnętrznych i Administracji, w porozumieniu z Ministrem Obrony Narodowej, określą, w drodze rozporządzenia, znaki i sygnały obowiązujące w ruchu drogowym, ich znaczenie i zakres obowiązywania.
 
-**Art. 29.**
+### 3.
 
-1. Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie.
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji określi, w drodze zarządzenia, szczegółowe warunki techniczne dla znaków i sygnałów drogowych oraz urządzeń bezpieczeństwa ruchu drogowego, a także warunki ich umieszczania na drogach.
 
-2. Zabrania się:
+### Art. 8.
 
-- **1)** nadużywania sygnału dźwiękowego lub świetlnego;
-- **2)** używania sygnału dźwiękowego na obszarze zabudowanym, chyba że jest to konieczne w związku z bezpośrednim niebezpieczeństwem;
-- **3)** ostrzegania światłami drogowymi w warunkach, w których może to spowodować oślepienie innych kierujących.
+Osoba niepełnosprawna, posiadająca wymagane uprawnienie do kierowania pojazdem, może nie stosować się do niektórych znaków drogowych dotyczących zakazu ruchu lub postoju, w zakresie określonym przepisami, o których mowa w art. 7 ust. 2. Przepis ten stosuje się również do kierowcy przewożącego osobę niepełnosprawną mającą trudności w poruszaniu się.
 
-**Art. 30.**
+### Art. 9.
 
-1. Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami, a ponadto:
+Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się.
 
-- **1)** kierujący pojazdem silnikowym jest obowiązany:
-    - **a)** włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie,
-    - **b)** poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania;
+### Art. 10.
 
-- **2)** kierujący innym pojazdem niż pojazd, o którym mowa w pkt 1, jest obowiązany:
-    - **a)** włączyć światła, w które pojazd jest wyposażony,
-    - **b)** korzystać z pobocza drogi, a jeżeli nie jest to możliwe, jechać jak najbliżej krawędzi jezdni i nie wyprzedzać innego pojazdu.
+### 1.
 
-2. Obowiązek używania świateł, o którym mowa w ust. 1, dotyczy kierującego pojazdem także podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego.
+Minister Transportu i Gospodarki Morskiej sprawuje nadzór nad zarządzaniem ruchem na drogach publicznych oraz zarządza ruchem na autostradach i drogach ekspresowych.
 
-3. Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła.
+### 2.
 
-##### Oddział 9 Holowanie
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji może przekazać, w drodze rozporządzenia, kompetencje w zakresie zarządzania ruchem na autostradach i drogach ekspresowych wojewodzie lub państwowej jednostce organizacyjnej.
 
-**Art. 31.**
+### 3.
 
-1. Kierujący może holować pojazd silnikowy tylko pod warunkiem, że:
+Wojewoda zarządza ruchem na drogach publicznych innych niż określone w ust. 1.
 
-- **1)** prędkość pojazdu holującego nie przekracza 30 km/h na obszarze zabudowanym i 60 km/h poza tym obszarem;
-- **2)** pojazd holujący ma włączone światła mijania również w okresie dostatecznej widoczności;
-- **3)** w pojeździe holowanym znajduje się kierujący mający uprawnienie do kierowania tym pojazdem, chyba że pojazd jest holowany w sposób wykluczający potrzebę kierowania nim;
-- **4)** pojazd holowany jest połączony z pojazdem holującym w sposób wykluczający odczepienie się w czasie jazdy; nie dotyczy to holowania motocykla, który powinien być połączony z pojazdem holującym połączeniem giętkim w sposób umożliwiający łatwe odczepienie;
-- **5)** pojazd holowany, z wyjątkiem motocykla, jest oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym, a w okresie niedostatecznej widoczności ma ponadto włączone światła pozycyjne; zamiast oznaczenia trójkątem odblaskowym pojazd holowany może wysyłać żółte sygnały błyskowe w sposób widoczny dla innych uczestników ruchu;
-- **6)** w pojeździe holowanym na połączeniu sztywnym jest sprawny co najmniej jeden układ hamulców, a w pojeździe holowanym na połączeniu giętkim – dwa układy;
-- **7)** odległość między pojazdami wynosi nie więcej niż 3 m przy połączeniu sztywnym, a od 4 m do 6 m przy połączeniu giętkim, przy czym połączenie jest oznakowane na przemian pasami białymi i czerwonymi albo zaopatrzone w chorągiewkę barwy żółtej lub czerwonej; przepisu tego nie stosuje się w razie holowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+### 4.
 
-2. Zabrania się holowania:
+Zarządzanie ruchem na drogach w strefie zamieszkania, z wyjątkiem dróg publicznych, należy do podmiotów zarządzających tymi drogami.
 
-- **1)** pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia;
-- **2)** pojazdu za pomocą połączenia giętkiego, jeżeli w pojeździe tym działanie układu hamulcowego uzależnione jest od pracy silnika, a silnik jest unieruchomiony;
-- **3)** więcej niż jednego pojazdu, z wyjątkiem pojazdu członowego;
-- **4)** pojazdem z przyczepą (naczepą);
-- **5)** na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych.
+### 5.
 
-3. W razie holowania pojazdu w sposób wykluczający potrzebę kierowania nim lub użycia hamulców, rzeczywista masa całkowita pojazdu holowanego nie może przekraczać rzeczywistej masy całkowitej pojazdu holującego.
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji może w uzasadnionych przypadkach wprowadzić, w drodze rozporządzenia, okresowe ograniczenia ruchu pojazdów na drogach lub zakazy ruchu niektórych ich rodzajów.
 
-##### Oddział 10 Ruch pojazdów w kolumnie
+### 6.
 
-**Art. 32.**
+Minister Transportu i Gospodarki Morskiej, w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej, określi, w drodze rozporządzenia, szczegółowe warunki zarządzania ruchem na drogach.
 
-1. Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać:
+### Rozdział 2 Ruch pieszych
 
-- **1)** samochodów osobowych, motorowerów lub motocykli – 10;
-- **2)** rowerów, wózków rowerowych lub hulajnóg elektrycznych – 15;
-- **3)** pozostałych pojazdów – 5.
+### Art. 11.
 
-2. Odległość między jadącymi kolumnami nie może być mniejsza niż 500 m dla kolumn pojazdów samochodowych oraz 200 m dla kolumn pozostałych pojazdów.
+### 1.
 
-3. (uchylony)
+Pieszy jest obowiązany korzystać z chodnika lub drogi (ścieżki) dla pieszych, a w razie ich braku - z pobocza. Jeżeli nie ma pobocza lub czasowo nie można z niego korzystać, pieszy może korzystać z jezdni, pod warunkiem zajmowania miejsca jak najbliżej jej krawędzi i ustępowania pierwszeństwa nadjeżdżającemu pojazdowi.
 
-4. Jazda w kolumnie nie zwalnia kierującego pojazdem od przestrzegania obowiązujących przepisów ruchu drogowego.
+### 2.
 
-5. Przepisów ust. 1 i 2 nie stosuje się do pojazdów uprzywilejowanych oraz pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+Pieszy idący po poboczu lub jezdni jest obowiązany iść lewą stroną drogi.
 
-6. Zabrania się wjeżdżania między jadące w kolumnie rowery, wózki rowerowe lub hulajnogi elektryczne oraz pojazdy, o których mowa w ust. 5.
+### 3.
 
-6a. Przejazd kolumny pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, w skład której wchodzi więcej niż 10 pojazdów, jest dozwolony pod warunkiem uzyskania zezwolenia wojskowego na przejazd drogowy, wydawanego przez właściwy organ wojskowy.
+Piesi idący jezdnią są obowiązani iść jeden za drugim. Na drodze o małym ruchu, w warunkach dobrej widoczności, dwóch pieszych może iść obok siebie.
 
-7. (uchylony)
+### 4.
 
-##### Oddział 11 Przepisy dodatkowe o ruchu rowerów, hulajnóg elektrycznych, urządzeń transportu osobistego, motorowerów oraz pojazdów zaprzęgowych
+Korzystanie przez pieszego z drogi (ścieżki) dla rowerów jest dozwolone tylko w razie braku chodnika lub pobocza albo niemożności korzystania z nich. Pieszy, z wyjątkiem osoby niepełnosprawnej, korzystając z tej drogi jest obowiązany ustąpić pierwszeństwa rowerowi.
 
-**Art. 33.**
+### 5.
 
-1. Kierujący rowerem lub hulajnogą elektryczną jest obowiązany korzystać z drogi dla rowerów, drogi dla pieszych i rowerów lub pasa ruchu dla rowerów, jeżeli są one wyznaczone dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący rowerem lub hulajnogą elektryczną, korzystając z drogi dla pieszych i rowerów, jest obowiązany zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu.
+Przepisów ust. 1-4 nie stosuje się w strefie zamieszkania. W strefie tej pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem.
 
-1a. Kierujący rowerem lub hulajnogą elektryczną może zatrzymać się w śluzie dla rowerów obok innych kierujących tymi pojazdami. Jest obowiązany opuścić ją, kiedy zaistnieje możliwość kontynuowania jazdy w zamierzonym kierunku i zająć miejsce na jezdni zgodnie z odpowiednio art. 33 ust. 1 lub art. 16 ust. 4 i 5. <1b. Kierujący rowerem, rowerem z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia 168/2013, hulajnogą elektryczną lub urządzeniem transportu osobistego, który nie ukończył 16 roku życia, jest obowiązany używać w czasie jazdy kasku ochronnego odpowiadającego właściwym warunkom technicznym.> [2. Dziecko w wieku do 7 lat może być przewożone na rowerze, pod warunkiem że jest ono umieszczone na dodatkowym siodełku zapewniającym bezpieczną jazdę.] <2. Dziecko w wieku do 7 lat może być przewożone na rowerze albo na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia 168/2013, pod warunkiem, że używa w czasie jazdy kasku ochronnego odpowiadającego właściwym warunkom technicznym oraz jest ono umieszczone na dodatkowym siodełku zapewniającym bezpieczną jazdę lub w foteliku rowerowym odpowiadającym właściwym warunkom technicznym albo jest przewożone w sposób, o którym mowa w art. 63 ust. 3 pkt 4.> <2a. Obowiązek używania kasku ochronnego, o którym mowa w ust. 2, nie dotyczy przypadku, w którym dziecko jest przewożone:
+### Art. 12.
 
-- **1)** rowerem w foteliku bezpieczeństwa, o którym mowa w art. 39 ust. 3, lub rowerem przeznaczonym do przewozu osób wyposażonym fabrycznie w pasy bezpieczeństwa, którego konstrukcja uniemożliwia użycie kasku;
-- **2)** w sposób, o którym mowa w art. 63 ust. 3 pkt 4, i korzysta z pasów bezpieczeństwa, w które fabrycznie jest wyposażona przyczepa konstrukcyjnie przystosowana do przewozu osób, ciągnięta przez rower.
+### 1.
 
-2b. Przewożenie dziecka w wieku do 7 lat wózkiem rowerowym jest dozwolone pod warunkiem, że używa ono w czasie jazdy kasku ochronnego odpowiadającego właściwym warunkom technicznym. Obowiązek ten nie dotyczy przypadku, w którym dziecko jest przewożone:
+Kolumna pieszych, z wyjątkiem pieszych w wieku do 10 lat, może się poruszać tylko prawą stroną jezdni.
 
-- **1)** wózkiem rowerowym w foteliku bezpieczeństwa, o którym mowa w art. 39 ust. 3;
-- **2)** korzysta z pasów bezpieczeństwa, w które fabrycznie jest wyposażony wózek rowerowy, jeżeli konstrukcja wózka uniemożliwia użycie kasku.
+### 2.
 
-2c. Przewożenie dziecka w wieku do 7 lat wózkiem rowerowym w sposób, o którym mowa w art. 63 ust. 3 pkt 4, nie wymaga stosowania kasku ochronnego w przypadku, kiedy dziecko korzysta z pasów bezpieczeństwa, w które fabrycznie jest wyposażona przyczepa konstrukcyjnie przystosowana do przewozu osób, ciągnięta przez wózek rowerowy.
+Do kolumny pieszych w wieku do 10 lat stosuje się odpowiednio przepisy art. 11 ust. 1 i 2.
 
-2d. Zabrania się przewożenia dziecka w sposób, o którym mowa w art. 63 ust. 3 pkt 4, na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia 168/2013, oraz wózkiem rowerowym, jeżeli rower ten lub wózek rowerowy są wyposażone w silnik spalinowy.>
+### 3.
 
-3. Kierującemu rowerem, hulajnogą elektryczną lub motorowerem zabrania się:
+Liczba pieszych idących jezdnią w kolumnie obok siebie nie może przekraczać 4, a w kolumnie wojskowej - 6, pod warunkiem że kolumna nie zajmuje więcej niż połowy szerokości jezdni.
 
-- **1)** jazdy po jezdni obok innego uczestnika ruchu, z zastrzeżeniem ust. 3a;
-- **2)** jazdy bez trzymania co najmniej jednej ręki na kierownicy oraz nóg na pedałach lub podnóżkach;
-- **3)** czepiania się pojazdów.
+### 4.
 
-3a. Dopuszcza się wyjątkowo jazdę po jezdni kierującego rowerem obok innego roweru lub motoroweru, jeżeli nie utrudnia to poruszania się innym uczestnikom ruchu albo w inny sposób nie zagraża bezpieczeństwu ruchu drogowego.
+Piesi w wieku do lat 10 mogą iść w kolumnie tylko dwójkami pod nadzorem co najmniej jednej osoby pełnoletniej.
 
-4. (uchylony)
+### 5.
 
-5. Korzystanie z drogi dla pieszych przez kierującego rowerem jest dozwolone wyjątkowo, gdy:
+Długość kolumny pieszych nie może przekraczać 50 m. Odległość między kolumnami nie może być mniejsza niż 100 m.
 
-- **1)** opiekuje się on osobą w wieku do lat 10 kierującą rowerem;
-- **2)** szerokość chodnika wzdłuż drogi, po której ruch pojazdów jest dozwolony z prędkością większą niż 50 km/h, wynosi co najmniej 2 m i brakuje drogi dla rowerów, drogi dla pieszych i rowerów lub pasa ruchu dla rowerów;
-- **3)** warunki pogodowe zagrażają bezpieczeństwu rowerzysty na jezdni (śnieg, silny wiatr, ulewa, gołoledź, gęsta mgła), z zastrzeżeniem ust. 6.
+### 6.
 
-6. Kierujący rowerem, korzystając z drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu.
+Jeżeli przemarsz kolumny pieszych odbywa się w warunkach niedostatecznej widoczności:
 
-7. Kierujący rowerem może jechać lewą stroną jezdni na zasadach określonych dla ruchu pieszych w przepisach art. 11 ust. 1–3, jeżeli opiekuje się on osobą kierującą rowerem w wieku do lat 10.
+### 1)
 
-**Art. 33a.**
+pierwszy i ostatni z idących z lewej strony są obowiązani nieść latarki:
 
-1. Kierujący hulajnogą elektryczną jest obowiązany korzystać z jezdni, po której ruch pojazdów jest dozwolony z prędkością nie większą niż 30 km/h, w przypadku gdy brakuje drogi dla rowerów, drogi dla pieszych i rowerów oraz pasa ruchu dla rowerów.
+### a)
 
-2. Korzystanie z drogi dla pieszych przez kierującego hulajnogą elektryczną jest dozwolone wyjątkowo, gdy droga dla pieszych jest usytuowana wzdłuż jezdni, po której ruch pojazdów jest dozwolony z prędkością większą niż 30 km/h, i brakuje drogi dla rowerów, drogi dla pieszych i rowerów oraz pasa ruchu dla rowerów.
+pierwszy - ze światłem białym, skierowanym do przodu,
 
-3. Kierującemu hulajnogą elektryczną zabrania się:
+### b)
 
-- **1)** ciągnięcia lub holowania innego pojazdu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku;
-- **3)** jazdy po jezdni, z wyjątkiem korzystania z:
-    - **a)** pasa ruchu dla rowerów,
-    - **b)** przejazdu dla rowerów,
-    - **c)** jezdni, po której ruch pojazdów jest dozwolony z prędkością nie większą niż 30 km/h, w przypadku gdy brakuje drogi dla rowerów, drogi dla pieszych i rowerów oraz pasa ruchu dla rowerów.
+ostatni - ze światłem czerwonym, skierowanym do tyłu,
 
-**Art. 33b.**
+### 2)
 
-1. Kierujący urządzeniem transportu osobistego jest obowiązany korzystać z drogi dla rowerów lub drogi dla pieszych i rowerów, jeżeli jest ona wyznaczona dla kierunku, w którym się porusza lub zamierza skręcić. Kierujący urządzeniem transportu osobistego, korzystając z drogi dla pieszych i rowerów, jest obowiązany zachować szczególną ostrożność i ustępować pierwszeństwa pieszemu.
+w kolumnie o długości przekraczającej 20 m idący po lewej stronie z przodu i z tyłu są obowiązani używać elementów odblaskowych odpowiadających właściwym warunkom technicznym, a ponadto idący po lewej stronie są obowiązani nieść dodatkowe latarki ze światłem białym, rozmieszczone w taki sposób, aby odległość między nimi nie przekraczała 10 m,
 
-2. Korzystanie z drogi dla pieszych przez kierującego urządzeniem transportu osobistego jest dozwolone wyjątkowo, gdy brakuje drogi dla rowerów oraz drogi dla pieszych i rowerów.
+### 3)
 
-3. Kierującemu urządzeniem transportu osobistego zabrania się:
+światło latarek powinno być widoczne z odległości co najmniej 150 m.
 
-- **1)** ciągnięcia lub holowania innego pojazdu;
-- **2)** przewożenia innej osoby, zwierzęcia lub ładunku;
-- **3)** czepiania się pojazdów;
-- **4)** jazdy po jezdni, z wyjątkiem korzystania z przejazdu dla rowerów.
+### 7.
 
-**Art. 33c.** Kierujący hulajnogą elektryczną lub urządzeniem transportu osobistego, korzystając z drogi dla pieszych, jest obowiązany jechać z prędkością zbliżoną do prędkości pieszego, zachować szczególną ostrożność, ustępować pierwszeństwa pieszemu oraz nie utrudniać jego ruchu. [Art. 33d. 1. Zabrania się dopuszczania dziecka w wieku do 10 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze. 2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 10 lat wyłącznie pod opieką osoby dorosłej.] <Art. 33d. 1. Zabrania się dopuszczania dziecka w wieku do 13 lat do kierowania hulajnogą elektryczną lub urządzeniem transportu osobistego na drodze. 2. W strefie zamieszkania dopuszcza się kierowanie hulajnogą elektryczną lub urządzeniem transportu osobistego przez dziecko w wieku do 13 lat wyłącznie pod opieką osoby dorosłej.>
+Zabrania się:
 
-**Art. 34.**
+### 1)
 
-1. Do zaprzęgu może być używane tylko zwierzę niepłochliwe, odpowiednio sprawne fizycznie i dające sobą kierować.
+ruchu po jezdni kolumny pieszych w czasie mgły; zakaz ten nie dotyczy kolumny wojskowej lub policyjnej,
 
-2. Kierujący pojazdem zaprzęgowym jest obowiązany utrzymywać pojazd i zaprzęg w takim stanie, aby mógł nad nimi panować.
+### 2)
 
-3. Bezpośrednio jeden za drugim może jechać nie więcej niż 5 pojazdów zaprzęgowych. Odległość między piątym pojazdem a następnym nie może być mniejsza niż 200 m.
+ruchu po jezdni kolumny pieszych w wieku do 10 lat w warunkach niedostatecznej widoczności,
 
-4. Kierujący pojazdem zaprzęgowym przy wjeżdżaniu na drogę o nawierzchni twardej w miejscu, gdzie nie ma dostatecznej widoczności drogi, jest obowiązany prowadzić zwierzę za uzdę.
+### 3)
 
-5. Kierującemu pojazdem zaprzęgowym zabrania się:
+prowadzenia po jezdni kolumny pieszych przez osobę w wieku poniżej 18 lat.
 
-- **1)** przeciążania zwierzęcia;
-- **2)** jazdy obok innego uczestnika ruchu na jezdni;
-- **3)** pozostawiania pojazdu niezabezpieczonego przed ruszeniem;
-- **4)** jazdy pojazdem na płozach bez dzwonków lub grzechotek.
+### Art. 13.
 
-#### Rozdział 4 Ruch zwierząt
+### 1.
 
-**Art. 35.**
+Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem.
 
-1. Jazda wierzchem i pędzenie zwierząt powinny się odbywać po drodze przeznaczonej do pędzenia zwierząt. W razie braku takiej drogi jazda wierzchem i pędzenie zwierząt mogą odbywać się po poboczu, a jeżeli brak jest pobocza – po jezdni.
+### 2.
 
-2. Do jazdy wierzchem i pędzenia zwierząt stosuje się odpowiednio przepisy art. 34 ust. 1 i 2 oraz przepisy o ruchu pojazdów.
+Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone, gdy odległość od przejścia przekracza 100 m. Jeżeli jednak skrzyżowanie znajduje się w odległości mniejszej niż 100 m od wyznaczonego przejścia, przechodzenie jest dozwolone również na tym skrzyżowaniu.
 
-**Art. 36.**
+### 3.
 
-1. Zabrania się jazdy wierzchem:
+Przechodzenie przez jezdnię poza przejściem dla pieszych, o którym mowa w ust. 2, jest dozwolone tylko pod warunkiem, że nie spowoduje zagrożenia bezpieczeństwa ruchu lub utrudnienia ruchu pojazdów. Pieszy jest obowiązany ustąpić pierwszeństwa pojazdom i do przeciwległej krawędzi jezdni iść drogą najkrótszą, prostopadle do osi jezdni.
 
-- **1)** bez uzdy;
-- **2)** obok innego uczestnika ruchu na jezdni;
-- **3)** po drodze oznaczonej znakami z numerem drogi międzynarodowej oraz po drodze, na której obowiązuje zakaz ruchu pojazdów zaprzęgowych;
-- **4)** po drodze o nawierzchni twardej w okresie niedostatecznej widoczności;
-- **5)** po drodze o nawierzchni twardej osobie w wieku poniżej 17 lat.
+### 4.
 
-2. Jeździec może prowadzić luzem tylko jedno zwierzę po swojej prawej stronie.
+Jeżeli na drodze znajduje się przejście nadziemne lub podziemne dla pieszych, pieszy jest obowiązany korzystać z niego, z zastrzeżeniem ust. 2 i 3.
 
-**Art. 37.**
+### 5.
 
-1. Zwierzęta w stadzie mogą być pędzone po drodze tylko pod odpowiednim nadzorem. Zwierzę pojedyncze może być prowadzone tylko na uwięzi.
+Na obszarze zabudowanym, na drodze dwujezdniowej lub po której kursują tramwaje po torowisku wyodrębnionym z jezdni, pieszy przechodząc przez jezdnię lub torowisko jest obowiązany korzystać tylko z przejścia dla pieszych.
 
-2. Poganiacz zwierząt jest obowiązany:
+### 6.
 
-- **1)** iść po lewej stronie pędzonych zwierząt;
-- **2)** w okresie niedostatecznej widoczności nieść latarkę z widocznym z odległości co najmniej 150 m światłem białym.
+Przechodzenie przez torowisko wyodrębnione z jezdni jest dozwolone tylko w miejscu do tego przeznaczonym.
 
-3. Zwierzęta mogą być prowadzone luzem przy pojeździe zaprzęgowym z jego prawej strony, w liczbie nie większej niż 2 sztuki.
+### 7.
 
-4. Zabrania się:
+Jeżeli wysepka dla pasażerów na przystanku komunikacji publicznej łączy się z przejściem dla pieszych, przechodzenie do i z przystanku jest dozwolone tylko po tym przejściu.
 
-- **1)** pędzenia zwierząt po drodze oznaczonej znakami z numerem drogi międzynarodowej, a po innej drodze o nawierzchni twardej – w okresie od zmierzchu do świtu;
-- **2)** pędzenia zwierząt po drodze o nawierzchni twardej osobie w wieku poniżej 13 lat;
-- **3)** pędzenia zwierząt w poprzek drogi w miejscu niewidocznym na dostateczną odległość;
-- **4)** zatrzymywania zwierząt na jezdni;
-- **5)** zajmowania przez zwierzęta więcej niż prawej połowy jezdni albo drogi dla pieszych, drogi dla pieszych i rowerów lub drogi dla rowerów.
+### 8.
 
-5. Rada powiatu może wprowadzić zakaz pędzenia zwierząt na określonych drogach lub obszarach oraz w określonym czasie.
+Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni.
 
-#### Rozdział 5 Porządek i bezpieczeństwo ruchu na drogach
+### Art. 14.
 
-##### Oddział 1 Przepisy porządkowe
+Zabrania się:
 
-**Art. 38.**
+### 1)
 
-1. Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego:
+wchodzenia na jezdnię:
 
-- **1)** dokument stwierdzający uprawnienie do kierowania pojazdem inny niż wydane w kraju prawo jazdy, pozwolenie na kierowanie tramwajem albo tymczasowe elektroniczne prawo jazdy, o którym mowa w art. 4 ust. 1a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, jeżeli kierujący nie posiada wydanego w kraju prawa jazdy, pozwolenia na kierowanie tramwajem albo tymczasowego elektronicznego prawa jazdy;
-- **2)** (uchylony)
-- **3)** (uchylony) 3a) zaświadczenie o przeprowadzonym badaniu technicznym z wynikiem pozytywnym w zakresie wyposażenia pojazdu w blokadę alkoholową w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **3b)** protokół z ostatniej drogowej kontroli technicznej, jeżeli taka była przeprowadzona – w przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy;
-- **4)** zezwolenie, o którym mowa w art. 106 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **4a)** dokument potwierdzający kalibrację blokady alkoholowej, wystawiony przez producenta urządzenia lub jego upoważnionego przedstawiciela;
-- **4b)** pokwitowanie zatrzymania:
-    - **a)** prawa jazdy albo pozwolenia na kierowanie tramwajem,
-    - **b)** dowodu rejestracyjnego albo pozwolenia czasowego,
-    - **c)** profesjonalnego dowodu rejestracyjnego – w okresie, w którym upoważnia ono do kierowania pojazdem albo jego używania;
+### a)
 
-- **4c)** kartę kwalifikacji kierowcy, o ile jest wymagana;
-- **4d)** wydruk z systemu teleinformatycznego właściwego polskiego związku sportowego w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048) zawierający informację o posiadaniu licencji sportu samochodowego wydanej przez ten związek, w przypadku kierowania samochodem osobowym przeznaczonym do zawodów sportowych;
-- **4e)** książkę samochodu sportowego wydaną przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie, w przypadku samochodu osobowego przeznaczonego do zawodów sportowych;
-- **5)** inne dokumenty, jeżeli obowiązek taki wynika z odrębnej ustawy.
+bezpośrednio przed jadący pojazd, w tym również na przejściu dla pieszych,
 
-2. Kierujący pojazdem zarejestrowanym za granicą uczestniczącym w ruchu na terytorium Rzeczypospolitej Polskiej jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu dokumenty, o których mowa w ust. 1 pkt 1 i 3a–5, oraz dokument stwierdzający dopuszczenie pojazdu do ruchu i dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowód opłacenia składki za to ubezpieczenie.
+### b)
 
-2a. W przypadku, o którym mowa w ust. 2, w odniesieniu do pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu również dokument potwierdzający przeprowadzenie badania technicznego, zawierający co najmniej:
+spoza pojazdu lub innej przeszkody ograniczającej widoczność drogi,
 
-- **1)** numer VIN albo numer nadwozia, podwozia lub ramy pojazdu;
-- **2)** numer rejestracyjny i kraj rejestracji pojazdu;
-- **3)** miejsce i datę przeprowadzonego badania technicznego;
-- **4)** stwierdzone usterki i ich kategorie;
-- **5)** wynik badania technicznego;
-- **6)** aktualny termin ważności badania technicznego;
-- **7)** nazwę organu kontrolnego lub stacji kontroli pojazdów oraz podpis lub numer ewidencyjny diagnosty, który przeprowadził badanie techniczne.
+### 2)
 
-2b. Obowiązek, o którym mowa w ust. 2a, nie dotyczy kierującego nowym pojazdem w okresie od dnia jego pierwszej rejestracji za granicą do dnia terminu pierwszego okresowego badania technicznego.
+przechodzenia przez jezdnię w miejscu o ograniczonej widoczności drogi,
 
-2c. Kierujący pojazdem, o którym mowa w art. 73 ust. 3, jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu dokumenty, o których mowa w ust. 1 pkt 1, 4 i 5, oraz dokument stwierdzający dopuszczenie pojazdu do ruchu.
+### 3)
 
-3. W przypadku wykonywania pojazdem jazdy testowej z wykorzystaniem profesjonalnego dowodu rejestracyjnego i profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony, o którym mowa w art. 80s ust. 2, albo jego pracownik, z uwzględnieniem art. 80w ust. 3, jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu dokument stwierdzający dopuszczenie pojazdu do ruchu.
+zwalniania kroku lub zatrzymywania się bez uzasadnionej potrzeby podczas przechodzenia przez jezdnię lub torowisko,
 
-**Art. 39.**
+### 4)
 
-1. Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3, 3b i 3c.
+przebiegania przez jezdnię,
 
-2. Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy:
+### 5)
 
-- **1)** osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa;
-- **2)** kobiety o widocznej ciąży;
-- **3)** kierującego taksówką podczas przewożenia pasażera;
-- **4)** instruktora lub egzaminatora podczas szkolenia lub egzaminowania;
-- **5)** policjanta, funkcjonariusza Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej i Służby Więziennej, żołnierza Sił Zbrojnych Rzeczypospolitej Polskiej – podczas przewożenia osoby (osób) zatrzymanej;
-- **6)** funkcjonariusza Służby Ochrony Państwa podczas wykonywania czynności służbowych;
-- **6a)** żołnierza Żandarmerii Wojskowej podczas wykonywania czynności ochronnych;
-- **7)** zespołu medycznego w czasie udzielania pomocy medycznej;
-- **8)** konwojenta podczas przewożenia wartości pieniężnych;
-- **9)** osoby chorej lub niepełnosprawnej przewożonej na noszach lub w wózku inwalidzkim;
-- **10)** dziecka w wieku poniżej 3 lat przewożonego pojazdem kategorii M i M ;
-- **11)** dziecka przewożonego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. z 2024 r. poz. 380).
+chodzenia po torowisku,
 
-2a. Kierujący pojazdem kategorii M i M , o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa jest obowiązany do poinformowania osób przewożonych pojazdem o obowiązku korzystania z tych pasów podczas jazdy, chyba że zostały one o tym obowiązku poinformowane:
+### 6)
 
-- **1)** przez znajdującą się w pojeździe osobę kierującą przewożoną grupą lub
-- **2)** za pomocą urządzenia audiowizualnego, lub
-- **3)** za pomocą znaku umieszczonego w widoczny sposób przy każdym miejscu siedzącym, zgodnego ze wzorem określonym w załączniku do dyrektywy Rady z dnia 16 grudnia 1991 r. odnoszącej się do obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach (91/671/EWG) (Dz. Urz. WE L 373 z 31.12.1991, str. 26, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 1, str. 353, z późn. zm.), zwanej dalej „dyrektywą nr 91/671/EWG”.
+wchodzenia na torowisko, gdy zapory lub półzapory są opuszczone lub opuszczanie ich rozpoczęto,
 
-3. W pojeździe kategorii M , N , N i N , o których mowa w załączniku nr 2 do ustawy, wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone, z wyjątkiem przypadku, o którym mowa w ust. 3b, w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci, zgodnym z:
+### 7)
 
-- **1)** masą i wzrostem dziecka oraz
-- **2)** właściwymi warunkami technicznymi określonymi w przepisach Unii Europejskiej lub w regulaminach EKG ONZ dotyczących urządzeń przytrzymujących dla dzieci w pojeździe.
+przechodzenia przez jezdnię w miejscu, w którym urządzenie zabezpieczające lub przeszkoda oddzielają drogę (ścieżkę) dla pieszych albo chodnik od jezdni, bez względu na to, po której stronie jezdni one się znajdują.
 
-3a. Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.
+### Art. 15.
 
-3b. Zezwala się na przewożenie w pojeździe kategorii M , N , N i N , o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci zgodnego z warunkami, o których mowa w ust. 3.
+Przepisów art. 11-14 nie stosuje się w razie zamknięcia ruchu pojazdów na drodze.
 
-3c. Zezwala się na przewożenie w pojeździe kategorii M i N , o których mowa w załączniku nr 2 do ustawy, na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci.
+### Rozdział 3 Ruch pojazdów
 
-4. Przepis ust. 3 nie dotyczy przewozu dziecka:
+### Oddział 1 Zasady ogólne
 
-- **1)** taksówką;
-- **2)** specjalistycznym środkiem transportu sanitarnego, o którym mowa w art. 36 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r. poz. 652);
-- **3)** pojazdem Policji, Straży Granicznej lub straży gminnej (miejskiej);
-- **4)** mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci.
+### Art. 16.
 
-5. Zaświadczenia lekarskie, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, zawierają:
+### 1.
 
-- **1)** imię i nazwisko;
-- **2)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **3)** okres ważności;
-- **4)** znak graficzny zgodny ze wzorem określonym w art. 5 dyrektywy nr 91/671/EWG.
+Kierującego pojazdem obowiązuje ruch prawostronny.
 
-6. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzory zaświadczeń lekarskich, o których mowa w ust. 2 pkt 1 i ust. 4 pkt 4, kierując się przepisami Unii Europejskiej dotyczącymi obowiązkowego stosowania pasów bezpieczeństwa i urządzeń przytrzymujących dla dzieci w pojazdach oraz mając na uwadze potrzebę ujednolicenia stosowanych dokumentów.
+### 2.
 
-**Art. 40.**
+Kierujący pojazdem, korzystając z drogi dwujezdniowej, jest obowiązany jechać po prawej jezdni; do jezdni tych nie wlicza się jezdni przeznaczonej do dojazdu do nieruchomości położonej przy drodze.
 
-1. Kierujący motocyklem, czterokołowcem lub motorowerem oraz osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy kasków ochronnych odpowiadających właściwym warunkom technicznym.
+### 3.
 
-2. Przepisu ust. 1 nie stosuje się do motocykli fabrycznie wyposażonych w pasy bezpieczeństwa.
+Kierujący pojazdem, korzystając z jezdni dwukierunkowej co najmniej o czterech pasach ruchu, jest obowiązany zajmować pas ruchu znajdujący się na prawej połowie jezdni.
 
-3. Przepisu ust. 1 nie stosuje się do czterokołowców fabrycznie wyposażonych w nadwozie zamknięte i pasy bezpieczeństwa.
+### 4.
 
-**Art. 41.** Osoba wykonująca roboty lub inne czynności na drodze jest obowiązana używać w sposób widoczny dla innych uczestników ruchu elementów odblaskowych odpowiadających właściwym warunkom technicznym.
+Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni. Jeżeli pasy ruchu na jezdni są wyznaczone, nie może zajmować więcej niż jednego pasa.
 
-**Art. 42.** Niewidomy podczas samodzielnego poruszania się po drodze jest obowiązany nieść białą laskę w sposób widoczny dla innych uczestników ruchu.
+### 5.
 
-**Art. 43.**
+Kierujący pojazdem zaprzęgowym, rowerem, wózkiem ręcznym oraz osoba prowadząca pojazd napędzany silnikiem, idąca obok takiego pojazdu, są obowiązani poruszać się po poboczu, chyba że nie nadaje się ono do jazdy lub ruch pojazdu utrudniałby ruch pieszych.
 
-1. Dziecko w wieku do 7 lat może korzystać z drogi tylko pod opieką osoby, która osiągnęła wiek co najmniej 10 lat. Nie dotyczy to strefy zamieszkania.
+### 6.
 
-2. (uchylony)
+Jeżeli tory pojazdów szynowych znajdują się w jezdni, kierujący pojazdem znajdującym się na części jezdni, po której jeżdżą pojazdy szynowe, jest obowiązany ustąpić pierwszeństwa nadjeżdżającemu pojazdowi szynowemu.
 
-3. Przepis ust. 1 nie dotyczy drogi dla pieszych.
+### Oddział 2 Włączanie się do ruchu
 
-**Art. 44.**
+### Art. 17.
 
-1. Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany:
+### 1.
 
-- **1)** zatrzymać pojazd, nie powodując przy tym zagrożenia bezpieczeństwa ruchu drogowego;
-- **2)** przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu w miejscu wypadku;
-- **3)** niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu, jeżeli nie ma zabitego lub rannego;
-- **4)** podać swoje dane personalne, dane personalne właściciela lub posiadacza pojazdu oraz dane dotyczące zakładu ubezpieczeń, z którym zawarta jest umowa obowiązkowego ubezpieczenia odpowiedzialności cywilnej, na żądanie osoby uczestniczącej w wypadku.
+Włączanie się do ruchu następuje przy rozpoczynaniu jazdy po postoju lub zatrzymaniu się nie wynikającym z warunków lub przepisów ruchu drogowego oraz przy wjeżdżaniu:
 
-2. Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto:
+### 1)
 
-- **1)** udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję;
-- **2)** nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku;
-- **2a)** do czasu przybycia na miejsce wypadku Policji i poddania go badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu powstrzymać się od spożywania alkoholu i środków działających podobnie do alkoholu;
-- **3)** pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce.
+na drogę z nieruchomości, z obiektu przydrożnego lub dojazdu do takiego obiektu, z drogi nie będącej drogą publiczną oraz ze strefy zamieszkania,
 
-3. Przepisy ust. 1 i 2 stosuje się odpowiednio do innych osób uczestniczących w wypadku.
+### 2)
 
-**Art. 45.**
+na drogę z pola lub na drogę twardą z drogi gruntowej,
 
-1. Zabrania się:
+### 3)
 
-- **1)** kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu;
-- **2)** holowania pojazdu kierowanego przez osobę, o której mowa w pkt 1;
-- **3)** otwierania drzwi pojazdu, pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia;
-- **4)** wykorzystywania drogi lub poszczególnych jej części w sposób niezgodny z przeznaczeniem, chyba że przepisy szczegółowe stanowią inaczej;
-- **5)** wjeżdżania na pas między jezdniami;
-- **6)** pozostawiania na drodze przedmiotów, które mogłyby zagrozić bezpieczeństwu ruchu; jeżeli jednak usunięcie ich nie jest możliwe, należy je oznaczyć w sposób widoczny w dzień i w nocy;
-- **7)** umieszczania na drodze lub w jej pobliżu urządzeń wysyłających lub odbijających światło w sposób powodujący oślepienie albo wprowadzających w błąd uczestników ruchu;
-- **8)** samowolnego umieszczania lub włączania albo usuwania lub wyłączania znaków i sygnałów drogowych oraz urządzeń ostrzegawczo-zabezpieczających lub kontrolnych na drodze, jak również zmiany ich położenia lub ich zasłaniania;
-- **9)** zaśmiecania lub zanieczyszczania drogi;
-- **10)** samowolnego umieszczania na drodze jakichkolwiek znaków, napisów lub symboli.
+na jezdnię z pobocza lub innej części drogi, z pasa ruchu dla pojazdów powolnych lub z drogi (ścieżki) dla rowerów,
 
-2. Kierującemu pojazdem zabrania się:
+### 4)
 
-- **1)** korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku;
-- **2)** przewożenia osoby, o której mowa w ust. 1 pkt 1, na rowerze lub motorowerze albo motocyklu, chyba że jest przewożona w bocznym wózku;
-- **3)** przewożenia pasażera w sposób niezgodny z art. 39, 40 lub 63 ust. 1;
-- **4)** przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci dziecka siedzącego tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego wyposażonego w poduszkę powietrzną dla pasażera, która jest aktywna podczas przewożenia dziecka;
-- **5)** przewożenia dziecka w wieku poniżej 3 lat w pojeździe kategorii M , N , N i N , o których mowa w załączniku nr 2 do ustawy, niewyposażonym w pasy bezpieczeństwa i fotelik bezpieczeństwa dla dziecka lub w pasy bezpieczeństwa i inne urządzenie przytrzymujące dla dzieci;
-- **6)** przewożenia na przednim siedzeniu pojazdu samochodowego, poza fotelikiem bezpieczeństwa dla dziecka lub innym urządzeniem przytrzymującym dla dzieci, dziecka mającego mniej niż 150 cm wzrostu.
+pojazdem szynowym - na drogę z zajezdni lub na jezdnię z pętli.
 
-##### Oddział 2 Zatrzymanie i postój
+### 2.
 
-**Art. 46.**
+Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu.
 
-1. Zatrzymanie i postój pojazdu są dozwolone tylko w miejscu i w warunkach, w których jest on z dostatecznej odległości widoczny dla innych kierujących i nie powoduje zagrożenia bezpieczeństwa ruchu drogowego lub jego utrudnienia.
+### Art. 18.
 
-2. Kierujący pojazdem, zatrzymując pojazd na jezdni, jest obowiązany ustawić go jak najbliżej jej krawędzi oraz równolegle do niej.
+### 1.
 
-3. W czasie postoju na drodze poza obszarem zabudowanym pojazd powinien znajdować się, jeżeli to tylko możliwe, poza jezdnią.
+Kierujący pojazdem, zbliżając się do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnię.
 
-4. Kierujący pojazdem jest obowiązany stosować sposób zatrzymania lub postoju wskazany znakami drogowymi.
+### 2.
 
-5. Kierujący pojazdem jest obowiązany w czasie postoju zabezpieczyć pojazd przed możliwością jego uruchomienia przez osobę niepowołaną oraz zachować inne środki ostrożności niezbędne do uniknięcia wypadku.
+Kierujący autobusem (trolejbusem), o którym mowa w ust. 1, może wjechać na sąsiedni pas ruchu lub na jezdnię dopiero po upewnieniu się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu drogowego.
 
-**Art. 47.**
+### Oddział 3 Prędkość i hamowanie
 
-1. Dopuszcza się zatrzymanie lub postój na drodze dla pieszych kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem że:
+### Art. 19.
 
-- **1)** na danym odcinku jezdni nie obowiązuje zakaz zatrzymania lub postoju;
-- **2)** szerokość chodnika jest nie mniejsza niż 1,5 m i nie utrudni ruchu pieszych;
-- **3)** pojazd umieszczony przednią osią na drodze dla pieszych nie tamuje ruchu pojazdów na jezdni.
+### 1.
 
-2. Dopuszcza się, przy zachowaniu warunków określonych w ust. 1 pkt 1 i 2, zatrzymanie lub postój na drodze dla pieszych przy krawędzi jezdni całego samochodu osobowego, motocykla, motoroweru lub wózka rowerowego. Inny pojazd o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t może być w całości umieszczony na drodze dla pieszych tylko w miejscu wyznaczonym odpowiednimi znakami drogowymi.
+Kierujący pojazdem jest obowiązany jechać z prędkością zapewniającą panowanie nad pojazdem, z uwzględnieniem warunków, w jakich ruch się odbywa, a w szczególności: rzeźby terenu, stanu i widoczności drogi, stanu i ładunku pojazdu, warunków atmosferycznych i natężenia ruchu.
 
-3. Dopuszcza się postój roweru, hulajnogi elektrycznej lub urządzenia transportu osobistego na drodze dla pieszych w miejscu do tego przeznaczonym, a w razie braku takiego miejsca – jak najbliżej zewnętrznej krawędzi drogi dla pieszych najbardziej oddalonej od jezdni oraz równolegle do tej krawędzi, przy zachowaniu warunków określonych w ust. 1 pkt 2.
+### 2.
 
-**Art. 47a.** Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5 m.
+Kierujący pojazdem jest obowiązany:
 
-**Art. 48.** (uchylony)
+### 1)
 
-**Art. 49.**
+jechać z prędkością nie utrudniającą jazdy innym kierującym,
 
-1. Zabrania się zatrzymania pojazdu:
+### 2)
 
-- **1)** na przejeździe kolejowym, na przejeździe tramwajowym, na skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania;
-- **2)** na przejściu dla pieszych, na przejeździe dla rowerów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem; na drodze dwukierunkowej o dwóch pasach ruchu zakaz ten obowiązuje także za tym przejściem lub przejazdem;
-- **3)** w tunelu, na moście lub na wiadukcie;
-- **4)** na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych, jeżeli zmusiłoby to innych kierujących pojazdami wielośladowymi do najeżdżania na tę linię;
-- **5)** na jezdni obok linii przerywanej wyznaczającej krawędź jezdni oraz na jezdni i na poboczu obok linii ciągłej wyznaczającej krawędź jezdni;
-- **6)** w odległości mniejszej niż 10 m od przedniej strony znaku lub sygnału drogowego, jeżeli zostałyby one zasłonięte przez pojazd;
-- **7)** na jezdni przy jej lewej krawędzi, z wyjątkiem zatrzymania lub postoju pojazdu na obszarze zabudowanym na drodze jednokierunkowej lub na jezdni dwukierunkowej o małym ruchu;
-- **8)** na pasie między jezdniami;
-- **9)** w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką – na całej jej długości;
-- **10)** w odległości mniejszej niż 15 m od punktów krańcowych wysepki, jeżeli jezdnia z prawej jej strony ma tylko jeden pas ruchu;
-- **11)** na drodze dla pieszych i rowerów, drodze dla rowerów, pasie ruchu dla rowerów oraz w śluzie dla rowerów, z wyjątkiem roweru.
+hamować w sposób nie powodujący zagrożenia bezpieczeństwa ruchu lub jego utrudnienia,
 
-2. Zabrania się postoju:
+### 3)
 
-- **1)** w miejscu utrudniającym wjazd lub wyjazd, w szczególności do i z bramy, garażu, parkingu lub wnęki postojowej;
-- **2)** w miejscu utrudniającym dostęp do innego prawidłowo zaparkowanego pojazdu lub wyjazd tego pojazdu;
-- **3)** przed i za przejazdem kolejowym, po obu stronach drogi, na odcinku od przejazdu kolejowego do słupka wskaźnikowego z jedną kreską;
-- **4)** w strefie zamieszkania w innym miejscu niż wyznaczone w tym celu;
-- **5)** na obszarze zabudowanym, pojazdu lub zespołu pojazdów o dopuszczalnej masie całkowitej przekraczającej 16 t lub o długości przekraczającej 12 m, poza wyznaczonymi w tym celu parkingami.
+utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu.
 
-3. Zabrania się zatrzymania lub postoju pojazdu na autostradzie lub drodze ekspresowej w innym miejscu niż wyznaczone w tym celu. Jeżeli unieruchomienie pojazdu nastąpiło z przyczyn technicznych, kierujący pojazdem jest obowiązany usunąć pojazd z jezdni oraz ostrzec innych uczestników ruchu.
+### 3.
 
-4. Zakaz zatrzymania lub postoju pojazdu nie dotyczy unieruchomienia pojazdu wynikającego z warunków lub przepisów ruchu drogowego.
+Poza obszarem zabudowanym, na jezdniach dwukierunkowych o dwóch pasach ruchu, kierujący pojazdem objętym indywidualnym ograniczeniem prędkości albo pojazdem lub zespołem pojazdów o długości przekraczającej 7 m jest obowiązany utrzymywać taki odstęp od pojazdu silnikowego znajdującego się przed nim, aby inne wyprzedzające pojazdy mogły bezpiecznie wjechać w lukę utrzymywaną między tymi pojazdami. Przepisu tego nie stosuje się, jeżeli kierujący pojazdem przystępuje do wyprzedzania lub gdy wyprzedzanie jest zabronione.
 
-**Art. 50.**
+### Art. 20.
 
-1. Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku:
+### 1.
 
-- **1)** na autostradzie lub drodze ekspresowej – w każdym przypadku;
-- **2)** na pozostałych drogach o nawierzchni twardej:
-    - **a)** poza obszarem zabudowanym – w razie postoju na jezdni w miejscu, w którym jest to zabronione, a na poboczu, jeżeli pojazd nie jest widoczny z dostatecznej odległości,
-    - **b)** na obszarze zabudowanym – w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione.
+Prędkość dopuszczalna pojazdu lub zespołu pojazdów na obszarze zabudowanym wynosi 60 km/h, z zastrzeżeniem ust. 2.
 
-2. Postój pojazdu, o którym mowa w ust. 1, należy sygnalizować w sposób następujący:
+### 2.
 
-- **1)** na autostradzie lub drodze ekspresowej – przez:
-    - **a)** włączenie świateł awaryjnych pojazdu, a jeżeli pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne,
-    - **b)** umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem; trójkąt ten umieszcza się na jezdni lub poboczu, odpowiednio do miejsca unieruchomienia pojazdu;
+Prędkość dopuszczalna pojazdu lub zespołu pojazdów w strefie zamieszkania wynosi 20 km/h.
 
-- **2)** na pozostałych drogach:
-    - **a)** poza obszarem zabudowanym – przez umieszczenie w odległości 30–50 m za pojazdem ostrzegawczego trójkąta odblaskowego i włączenie świateł awaryjnych; w razie gdy pojazd nie jest wyposażony w światła awaryjne, należy włączyć światła pozycyjne,
-    - **b)** na obszarze zabudowanym – przez włączenie świateł awaryjnych, a jeżeli pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne i umieścić ostrzegawczy trójkąt odblaskowy za pojazdem lub na nim, na wysokości nie większej niż 1 m.
+### 3.
 
-3. Sygnalizowanie, o którym mowa w ust. 1 i 2, obowiązuje przez cały czas postoju pojazdu.
+Prędkość dopuszczalna poza obszarem zabudowanym, z zastrzeżeniem ust. 4 i 5, wynosi w przypadku:
 
-**Art. 50a.**
+### 1)
 
-1. Pojazd pozostawiony bez tablic rejestracyjnych lub pojazd, którego stan wskazuje na to, że nie jest używany, może zostać usunięty z drogi przez straż gminną lub Policję na koszt właściciela lub posiadacza.
+samochodu osobowego, motocykla lub samochodu ciężarowego o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t:
 
-2. Pojazd usunięty w trybie określonym w ust. 1, nieodebrany na wezwanie gminy przez uprawnioną osobę w terminie 6 miesięcy od dnia usunięcia, uznaje się za porzucony z zamiarem wyzbycia się. Pojazd ten przechodzi na własność gminy z mocy ustawy.
+### a)
 
-3. Przepisu ust. 2 nie stosuje się, gdy nieodebranie pojazdu nastąpiło z przyczyn niezależnych od osoby zobowiązanej.
+na autostradzie - 130 km/h,
 
-4. Przepis ust. 2 stosuje się odpowiednio, gdy w terminie 6 miesięcy od dnia usunięcia pojazdu nie została ustalona osoba uprawniona do jego odbioru.
+### b)
 
-5. Minister właściwy do spraw wewnętrznych, kierując się zasadą poszanowania prawa własności oraz potrzebą zapewnienia porządku na drogach publicznych, określi, w drodze rozporządzenia:
+na drodze ekspresowej dwujezdniowej - 110 km/h,
 
-- **1)** szczegółowy tryb oraz jednostki i warunki ich współdziałania w zakresie usuwania pojazdów bez tablic rejestracyjnych lub których stan wskazuje na to, że nie są używane;
-- **2)** tryb postępowania w zakresie przejęcia pojazdu na własność gminy.
+### c)
 
-##### Oddział 3 Używanie świateł zewnętrznych
+na drodze ekspresowej jednojezdniowej oraz na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu - 100 km/h,
 
-**Art. 51.**
+### d)
 
-1. Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza.
+na pozostałych drogach - 90 km/h,
 
-2. W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej.
+### 2)
 
-3. W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się:
+zespołu pojazdów lub pojazdu nie wymienionego w pkt 1:
 
-- **1)** pojazdu nadjeżdżającego z przeciwka, przy czym jeżeli jeden z kierujących wyłączył światła drogowe – drugi jest obowiązany uczynić to samo;
-- **2)** do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony;
-- **3)** pojazdu szynowego lub komunikacji wodnej, jeżeli poruszają się w takiej odległości, że istnieje możliwość oślepienia kierujących tymi pojazdami.
+### a)
 
-4. (uchylony)
+na autostradzie, drodze ekspresowej lub drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu - 80 km/h,
 
-5. Na drodze krętej, oznaczonej odpowiednimi znakami drogowymi, kierujący pojazdem może używać przednich świateł przeciwmgłowych od zmierzchu do świtu, również w warunkach normalnej przejrzystości powietrza.
+### b)
 
-6. Przepisów ust. 1–3 nie stosuje się do kierującego pojazdem, który nie jest wyposażony w światła mijania, drogowe lub światła do jazdy dziennej. Kierujący takim pojazdem w czasie od zmierzchu do świtu lub w tunelu jest obowiązany używać świateł stanowiących obowiązkowe wyposażenie pojazdu.
+na pozostałych drogach - 70 km/h.
 
-7. Przepisy ust. 1–5 stosuje się odpowiednio podczas zatrzymania pojazdu, wynikającego z warunków lub przepisów ruchu drogowego. Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy.
+### 4.
 
-**Art. 52.**
+Dopuszczalna prędkość autobusu spełniającego dodatkowe warunki techniczne określone w przepisach, o których mowa w art. 66 ust. 5, na autostradzie i drodze ekspresowej wynosi 100 km/h.
 
-1. Kierujący pojazdem silnikowym lub szynowym, w warunkach niedostatecznej widoczności, podczas zatrzymania niewynikającego z warunków ruchu lub przepisów ruchu drogowego oraz podczas postoju, jest obowiązany używać świateł pozycyjnych przednich i tylnych lub świateł postojowych. W pojeździe niezłączonym z przyczepą oraz w zespole pojazdów o długości nieprzekraczającej 6 m dopuszcza się włączenie świateł postojowych jedynie od strony środka jezdni.
+### 5.
 
-2. Podczas zatrzymania lub postoju, w miejscu oświetlonym w stopniu zapewniającym widoczność pojazdu lub znajdującym się poza jezdnią i poboczem, wszystkie światła pojazdu mogą być wyłączone. Przepis ten nie dotyczy pojazdu szynowego oraz pojazdu, na którym znajduje się urządzenie lub ładunek, wystające poza pojazd i wymagające oznaczenia odrębnymi światłami.
+Prędkość dopuszczalna pojazdu przewożącego materiały niebezpieczne, oznakowanego odpowiednimi tablicami, poza obszarem zabudowanym wynosi:
 
-3. Światło oświetlające przedmioty przydrożne (szperacz) może być włączone tylko podczas zatrzymania lub postoju, pod warunkiem że nie oślepi innych uczestników ruchu. Ograniczenie to nie dotyczy pojazdu uprzywilejowanego.
+### 1)
 
-##### Oddział 4 Warunki używania pojazdów w ruchu drogowym
+na autostradzie, drodze ekspresowej lub drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu - 80 km/h,
 
-**Art. 53.**
+### 2)
 
-1. Pojazdem uprzywilejowanym w ruchu drogowym może być pojazd samochodowy <, lub ciągnik rolniczy>:
+na pozostałych drogach - 70 km/h.
 
-- **1)** jednostek ochrony przeciwpożarowej;
-- **2)** zespołu ratownictwa medycznego;
-- **3)** Policji;
-- **4)** jednostki ratownictwa chemicznego;
-- **5)** Straży Granicznej;
-- **5a)** Biura Nadzoru Wewnętrznego;
-- **6)** Agencji Bezpieczeństwa Wewnętrznego;
-- **7)** Agencji Wywiadu;
-- **7a)** Centralnego Biura Antykorupcyjnego;
-- **7b)** Służby Kontrwywiadu Wojskowego;
-- **7c)** Służby Wywiadu Wojskowego;
-- **8)** Sił Zbrojnych Rzeczypospolitej Polskiej;
-- **9)** Służby Więziennej;
-- **10)** Służby Ochrony Państwa;
-- **10a)** (uchylony) 10b) (uchylony) 10c) straży gminnych (miejskich);
-- **10d)** podmiotów uprawnionych do wykonywania [zadań z zakresu] ratownictwa górskiego;
-- **10e)** Służby Parku Narodowego;
-- **10f)** podmiotów uprawnionych do wykonywania [zadań z zakresu] ratownictwa wodnego;
-- **10g)** Krajowej Administracji Skarbowej wykorzystywany przez Służbę Celno-Skarbową;
-- **11)** Inspekcji Transportu Drogowego;
-- **12)** jednostki niewymienionej w pkt 1–11, jeżeli jest używany w związku z ratowaniem życia lub zdrowia ludzkiego – na podstawie zezwolenia ministra właściwego do spraw wewnętrznych.
+### 6.
 
-1a. Minister właściwy do spraw wewnętrznych stwierdza wygaśnięcie zezwolenia, o którym mowa w ust. 1 pkt 12, gdy ustaną okoliczności uzasadniające wykorzystanie pojazdu jako uprzywilejowanego.
+Prędkość dopuszczalna niektórych pojazdów, z zastrzeżeniem ust. 2, wynosi:
 
-2. Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów, zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy:
+### 1)
 
-- **1)** uczestniczy:
-    - **a)** w akcji związanej z ratowaniem życia, zdrowia ludzkiego lub mienia albo koniecznością zapewnienia bezpieczeństwa lub porządku publicznego albo
-    - **b)** w przejeździe kolumny pojazdów uprzywilejowanych,
-    - **c)** w wykonywaniu zadań związanych bezpośrednio z zapewnieniem bezpieczeństwa osób zajmujących kierownicze stanowiska państwowe, którym na mocy odrębnych przepisów przysługuje ochrona;
+ciągnika rolniczego (również z przyczepą) - 30 km/h,
 
-- **2)** pojazd wysyła jednocześnie sygnały świetlny i dźwiękowy; po zatrzymaniu pojazdu nie wymaga się używania sygnału dźwiękowego;
-- **3)** w pojeździe włączone są światła drogowe lub mijania.
+### 2)
 
-3. Kierujący pojazdem uprzywilejowanym jest obowiązany stosować się do poleceń i sygnałów dawanych przez osoby kierujące ruchem lub upoważnione do jego kontroli.
+pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego - 30 km/h na obszarze zabudowanym i 60 km/h poza obszarem zabudowanym,
 
-4. Minister właściwy do spraw wewnętrznych, uwzględniając w szczególności konieczność zapewnienia porządku, sprawności i bezpieczeństwa ruchu drogowego, określi, w drodze rozporządzenia, okoliczności, w jakich używane są pojazdy uprzywilejowane w kolumnach.
+### 3)
 
-**Art. 53a.** Dopuszcza się poruszanie się pojazdu zespołu ratownictwa medycznego po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów.>
+motocykla (również z przyczepą) i motoroweru, którymi przewozi się dziecko w wieku do 7 lat - 40 km/h.
 
-**Art. 54.**
+### Art. 21.
 
-1. Pojazd wykonujący na drodze prace porządkowe, remontowe lub modernizacyjne powinien wysyłać żółte sygnały błyskowe.
+### 1.
 
-2. Kierujący pojazdem, o którym mowa w ust. 1, może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o obowiązku jazdy na jezdni lub przy jej prawej krawędzi oraz o zatrzymaniu i postoju, z tym że:
+Organ zarządzający ruchem na drogach może zmniejszyć lub zwiększyć, za pomocą znaków drogowych, prędkość dopuszczalną pojazdów obowiązującą na obszarze zabudowanym.
 
-- **1)** na jezdni jednokierunkowej oraz poza obszarem zabudowanym, podczas oczyszczania drogi ze śniegu, dopuszcza się również jazdę przy lewej krawędzi jezdni;
-- **2)** jazdę po drodze dla pieszych dopuszcza się tylko przy zachowaniu bezpieczeństwa pieszych.
+### 2.
 
-2a. Kierujący pojazdem, o którym mowa w ust. 1, może korzystać z autostrady lub drogi ekspresowej nawet wtedy, gdy pojazd ten nie jest pojazdem samochodowym lub jego konstrukcja uniemożliwia rozwinięcie prędkości co najmniej 40 km/h.
+Prędkość dopuszczalna, o której mowa w ust. 1, może być:
 
-3. Pojazd, który ze względu na konstrukcję, ładunek lub nietypowe zachowanie na drodze może zagrażać bezpieczeństwu w ruchu drogowym, powinien wysyłać żółte sygnały błyskowe.
+### 1)
 
-4. Zabrania się, z zastrzeżeniem art. 31 ust. 1 pkt 5, używania żółtych sygnałów błyskowych do innych celów niż określone w ust. 1 i 3.
+zmniejszona - jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za tym przemawiają,
 
-**Art. 55.**
+### 2)
 
-1. Pojazd do nauki jazdy lub przeprowadzania egzaminu państwowego oznacza się tablicą kwadratową barwy niebieskiej z białą literą „L”, umieszczoną na pojeździe. W warunkach niedostatecznej widoczności tablica umieszczona na pojeździe, z wyłączeniem tablicy na motocyklu, powinna być oświetlona. Tablica, którą oznaczony jest motocykl, powinna być wykonana z materiału odblaskowego.
+zwiększona - jeżeli warunki ruchu na drodze lub jej odcinku zapewniają zachowanie bezpieczeństwa ruchu.
 
-2. Podczas kierowania pojazdem do nauki jazdy przez osobę inną niż osoba ubiegająca się o uprawnienie do kierowania pojazdem tablica, o której mowa w ust. 1, powinna być zasłonięta lub złożona.
+### 3.
 
-3. Kierujący pojazdem, przejeżdżając obok pojazdu, o którym mowa w ust. 1, lub jadąc za nim, jest obowiązany zachować szczególną ostrożność.
+Organ zarządzający ruchem na drogach może zmniejszyć, za pomocą znaków drogowych, prędkość dopuszczalną pojazdów obowiązującą poza obszarem zabudowanym, jeżeli warunki bezpieczeństwa ruchu na drodze lub jej odcinku za tym przemawiają.
 
-**Art. 56.** (uchylony)
+### 4.
 
-**Art. 57.**
+Organ rejestrujący pojazd może ustalić dla indywidualnego pojazdu dopuszczalną prędkość niższą niż określona w art. 20, jeżeli jest to uzasadnione konstrukcją lub stanem technicznym pojazdu. Ograniczenie prędkości należy uwidocznić na znaku umieszczonym z tyłu pojazdu.
 
-1. Pojazd przewożący zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat oznacza się z przodu i z tyłu kwadratowymi tablicami barwy żółtej z symbolem dzieci barwy czarnej. W warunkach niedostatecznej widoczności tablice powinny być oświetlone, chyba że są wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania dzieci lub młodzieży.
+### Oddział 4 Zmiana kierunku jazdy lub pasa ruchu
 
-2. Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania dzieci lub młodzieży zachować szczególną ostrożność i w razie potrzeby zatrzymać się.
+### Art. 22.
 
-3. Zabrania się oznaczania pojazdu tablicami, o których mowa w ust. 1, w czasie, gdy dzieci lub młodzież nie są przewożone.
+### 1.
 
-**Art. 57a.**
+Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności.
 
-1. Kierujący autobusem szkolnym podczas wsiadania lub wysiadania dzieci jest obowiązany włączyć światła awaryjne.
+### 2.
 
-2. Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność.
+Kierujący pojazdem jest obowiązany zbliżyć się:
 
-3. Jeżeli autobus szkolny przewozi inne osoby lub nie przewozi żadnych osób, tablice z napisem „autobus szkolny” powinny być zdjęte, zasłonięte lub złożone.
+### 1)
 
-**Art. 58.**
+do prawej krawędzi jezdni - jeżeli zamierza skręcić w prawo,
 
-1. Pojazd przeznaczony konstrukcyjnie do przewozu osób niepełnosprawnych oznacza się z przodu i z tyłu tablicami barwy niebieskiej z międzynarodowym symbolem wózka inwalidzkiego barwy białej. Tablice te powinny być wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania osoby niepełnosprawnej.
+### 2)
 
-2. Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się.
+do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi - jeżeli zamierza skręcić w lewo.
 
-**Art. 59.**
+### 3.
 
-1. Pojazd zarejestrowany w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, powinien być oznaczony znakiem z literami „PL”.
+Przepisu ust. 2 nie stosuje się, jeżeli wymiary pojazdu uniemożliwiają skręcenie zgodnie z zasadą określoną w tym przepisie lub dopuszczalna jest jazda wyłącznie w jednym kierunku.
 
-2. Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany.
+### 4.
 
-3. Obowiązek, o którym mowa w ust. 1 i 2, uważa się za spełniony, jeżeli na tablicy rejestracyjnej jest umieszczony znak określający państwo, w którym pojazd został zarejestrowany.
+Kierujący pojazdem, zmieniając poza skrzyżowaniem zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, oraz wjeżdżającemu na ten pas z prawej strony.
 
-**Art. 60.**
+### 5.
 
-1. Zabrania się:
+Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.
 
-- **1)** używania pojazdu w sposób zagrażający bezpieczeństwu osoby znajdującej się w pojeździe lub poza nim;
-- **2)** zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne;
-- **3)** ozdabiania tablic rejestracyjnych oraz umieszczania z przodu lub z tyłu pojazdu znaków, napisów lub przedmiotów, które ograniczają czytelność tych tablic;
-- **3a)** umieszczania na pojeździe tablic (tablicy) rejestracyjnych w innym miejscu niż konstrukcyjnie do tego przeznaczone;
-- **3b)** umieszczania na pojeździe jednorzędowych zmniejszonych tablic rejestracyjnych, jeżeli pojazd nie posiada zmniejszonych wymiarów miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej;
-- **4)** umieszczania na pojeździe znaku określającego inne państwo niż to, w którym pojazd został zarejestrowany.
+### 6.
 
-1a. Utrzymywanie tablic (tablicy) rejestracyjnych i innych wymaganych oznaczeń pojazdu w należytym stanie oraz zapewnienie ich czytelności jest obowiązkiem kierującego pojazdem.
+Zabrania się zawracania:
 
-2. Zabrania się kierującemu:
+### 1)
 
-- **1)** oddalania się od pojazdu, gdy silnik jest w ruchu;
-- **2)** używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem;
-- **3)** pozostawiania pracującego silnika podczas postoju na obszarze zabudowanym; nie dotyczy to pojazdu wykonującego czynności na drodze;
-- **4)** ciągnięcia za pojazdem kierującego hulajnogą elektryczną lub urządzeniem transportu osobistego, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch, osoby na sankach lub innym podobnym urządzeniu, zwierzęcia lub ładunku;
-- **5)** używania opon z umieszczonymi w nich na trwałe elementami przeciwślizgowymi.
+w tunelu, na moście, wiadukcie lub drodze jednokierunkowej,
 
-3. Używanie łańcuchów przeciwślizgowych na oponach jest dozwolone tylko na drodze pokrytej śniegiem.
+### 2)
 
-4. Zakazu, o którym mowa w ust. 2 pkt 5, nie stosuje się do:
+na autostradzie,
 
-- **1)** pojazdów samochodowych biorących udział w rajdach zimowych i wyścigach zimowych za zgodą zarządcy drogi, wyrażoną w trybie określonym w art. 65a ust. 3 pkt 7a;
-- **2)** rowerów. <5. Zabrania się kierowania pojazdem silnikowym lub motorowerem w sposób:
-- **1)** powodujący celowy poślizg kół (drift);
-- **2)** powodujący celową utratę styczności z nawierzchnią chociażby jednego z kół pojazdu; nie dotyczy to kół na osiach podnoszonych w pojazdach kategorii N2, N3 i M3.>
+### 3)
 
-**Art. 61.**
+na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego,
 
-1. Ładunek nie może powodować przekroczenia dopuszczalnej masy całkowitej lub dopuszczalnej ładowności pojazdu.
+### 4)
 
-2. Ładunek na pojeździe umieszcza się w taki sposób, aby:
+w warunkach, w których mogłoby to zagrozić bezpieczeństwu ruchu na drodze lub ruch ten utrudnić.
 
-- **1)** nie powodował przekroczenia dopuszczalnych nacisków osi pojazdu na drogę;
-- **2)** nie naruszał stateczności pojazdu;
-- **3)** nie utrudniał kierowania pojazdem;
-- **4)** nie ograniczał widoczności drogi lub nie zasłaniał świateł, urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych tablic albo znaków, w które pojazd jest wyposażony.
+### Oddział 5 Wymijanie, omijanie i cofanie
 
-3. Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia lub wywoływaniem nadmiernego hałasu. Nie może on mieć odrażającego wyglądu lub wydzielać odrażającej woni.
+### Art. 23.
 
-4. Urządzenia służące do mocowania ładunku powinny być zabezpieczone przed rozluźnieniem się, swobodnym zwisaniem lub spadnięciem podczas jazdy.
+### 1.
 
-5. Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej, zabezpieczonej dodatkowo odpowiednimi zasłonami uniemożliwiającymi wysypywanie się ładunku na drogę.
+Kierujący pojazdem jest obowiązany:
 
-6. Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim umieszczony tylko przy zachowaniu następujących warunków:
+### 1)
 
-- **1)** ładunek wystający poza boczne płaszczyzny obrysu pojazdu może być umieszczony tylko w taki sposób, aby całkowita szerokość pojazdu z ładunkiem nie przekraczała 2,55 m, a przy szerokości pojazdu 2,55 m nie przekraczała 3 m, jednak pod warunkiem umieszczenia ładunku tak, aby z jednej strony nie wystawał na odległość większą niż 23 cm;
-- **2)** ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów; w przypadku przyczepy kłonicowej odległość tę liczy się od osi przyczepy;
-- **3)** ładunek nie może wystawać z przodu pojazdu na odległość większą niż 0,5 m od przedniej płaszczyzny obrysu i większą niż 1,5 m od siedzenia dla kierującego.
+przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu, a w razie potrzeby zjechać na prawo i zmniejszyć prędkość lub zatrzymać się,
 
-7. Przy przewozie drewna długiego dopuszcza się wystawanie ładunku z tyłu za przyczepę kłonicową na odległość nie większą niż 5 m.
+### 2)
 
-8. Ładunek wystający poza przednią lub boczne płaszczyzny obrysu pojazdu powinien być oznaczony. Dotyczy to również ładunku wystającego poza tylną płaszczyznę obrysu pojazdu na odległość większą niż 0,5 m.
+przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody, a w razie potrzeby zmniejszyć prędkość; omijanie pojazdu sygnalizującego zamiar skręcenia w lewo może odbywać się tylko z jego prawej strony,
 
-9. Ustala się następujące oznakowanie ładunku:
+### 3)
 
-- **1)** ładunek wystający z przodu pojazdu oznacza się chorągiewką barwy pomarańczowej lub dwoma białymi i dwoma czerwonymi pasami, tak aby były widoczne z boków i z przodu pojazdu, a w okresie niedostatecznej widoczności ponadto światłem białym umieszczonym na najbardziej wystającej do przodu części ładunku;
-- **2)** ładunek wystający z boku pojazdu oznacza się chorągiewką barwy pomarańczowej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku, a ponadto w okresie niedostatecznej widoczności białym światłem odblaskowym skierowanym do przodu oraz czerwonym światłem i czerwonym światłem odblaskowym skierowanym do tyłu; światła te nie powinny znajdować się w odległości większej niż 40 cm od najbardziej wystającej krawędzi ładunku; jeżeli długość wystającego z boku ładunku, mierzona wzdłuż pojazdu, przekracza 3 m, to chorągiewkę i światła umieszcza się odpowiednio przy przedniej i tylnej części ładunku;
-- **3)** ładunek wystający z tyłu pojazdu oznacza się pasami białymi i czerwonymi umieszczonymi bezpośrednio na ładunku lub na tarczy na jego tylnej płaszczyźnie albo na zawieszonej na końcu ładunku bryle geometrycznej (np. stożku, ostrosłupie); widoczna od tyłu łączna powierzchnia pasów powinna wynosić co najmniej 1000 cm , przy czym nie może być mniej niż po dwa pasy każdej barwy; ponadto w okresie niedostatecznej widoczności na najbardziej wystającej do tyłu krawędzi ładunku umieszcza się czerwone światło i czerwone światło odblaskowe; przy przewozie drewna długiego zamiast oznakowania pasami białymi i czerwonymi dopuszcza się oznakowanie końca ładunku chorągiewką lub tarczą barwy pomarańczowej;
-- **4)** ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku.
+przy cofaniu ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność, a w szczególności:
 
-10. Wysokość pojazdu z ładunkiem nie może przekraczać 4 m.
+### a)
 
-11. (uchylony)
+sprawdzić, czy wykonywany manewr nie spowoduje zagrożenia bezpieczeństwa ruchu lub jego utrudnienia,
 
-12. (uchylony)
+### b)
 
-13. (uchylony)
+upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby.
 
-14. (uchylony)
+### 2.
 
-15. Przy przewozie drewna jego rzeczywistą masę ustala się jako iloczyn objętości ładunku i normatywnej gęstości ustalonej dla danego gatunku drewna.
+Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie lub drodze ekspresowej.
 
-16. Minister właściwy do spraw środowiska i minister właściwy do spraw gospodarki w porozumieniu z ministrem właściwym do spraw transportu określą, w drodze rozporządzenia, gęstość drewna, uwzględniając w szczególności gatunki drewna mające zastosowanie w przemyśle i budownictwie, jego rodzaj i postać, w jakiej jest ono przewożone, mając na uwadze potrzebę ustalenia masy przewożonego drewna w celu uniknięcia przekroczenia nacisków osi pojazdów i ograniczenia negatywnego wpływu na stan techniczny dróg.
+### Oddział 6 Wyprzedzanie
 
-17. Minister właściwy do spraw transportu może określić, w drodze rozporządzenia, sposób przewozu ładunku, mając na względzie sposób jego rozmieszczenia i wpływ mocowania ładunku na pojeździe oraz zapewnienie bezpieczeństwa ruchu drogowego i ochronę środowiska.
+### Art. 24.
 
-**Art. 62.**
+### 1.
 
-1. Rzeczywista masa całkowita przyczepy ciągniętej przez:
+Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy:
 
-- **1)** samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego;
-- **2)** samochód ciężarowy o dopuszczalnej masie całkowitej przekraczającej 3,5 t – nie może przekraczać rzeczywistej masy całkowitej tego samochodu powiększonej o 40 %;
-- **3)** motocykl lub motorower – nie może przekraczać masy własnej motocykla lub motoroweru, jednak nie może przekraczać 100 kg.
+### 1)
 
-2. Przepis ust. 1 nie dotyczy naczep.
+ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu,
 
-3. Przepisy ust. 1 i 2 nie dotyczą pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej oraz jednostek ochrony przeciwpożarowej.
+### 2)
 
-4. Zespół pojazdów może składać się najwyżej z 3 pojazdów, a zespół ciągnięty przez pojazd silnikowy inny niż ciągnik rolniczy lub pojazd wolnobieżny – z 2 pojazdów.
+kierujący, jadący za nim, nie rozpoczął wyprzedzania,
 
-4a. Długość zespołu 2 pojazdów nie może przekraczać 18,75 m, a 3 pojazdów – 22 m, z wyjątkiem zespołu pojazdów złożonego z:
+### 3)
 
-- **1)** pojazdu samochodowego i naczepy, których długość nie może przekraczać 16,5 m;
-- **2)** motocykla i przyczepy, motoroweru i przyczepy, roweru i przyczepy, wózka rowerowego i przyczepy, którego długość nie może przekraczać 4 m.
+kierujący, jadący przed nim na tym samym pasie ruchu, nie zasygnalizował zamiaru wyprzedzania innego pojazdu, zmiany kierunku jazdy lub zmiany pasa ruchu.
 
-4b. Przejazd zespołu pojazdów:
+### 2.
 
-- **1)** złożonego z liczby pojazdów większej niż określona w ust. 4 wymaga zezwolenia, o którym mowa w art. 64d;
-- **2)** o długości większej niż określona w ust. 4a wymaga zezwolenia, o którym mowa odpowiednio w art. 64c albo art. 64d.
+Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania pojazdu jednośladowego lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m.
 
-5. Długości zespołów pojazdów określone w ust. 4a nie dotyczą tramwajów.
+### 3.
 
-**Art. 63.**
+Kierujący pojazdem jest obowiązany przy wyprzedzaniu przejeżdżać z lewej strony wyprzedzanego pojazdu, z zastrzeżeniem ust. 4, 5 i 10.
 
-1. Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe niepodlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu.
+### 4.
 
-2. Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że:
+Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej.
 
-- **1)** pojazd odpowiada wymaganym warunkom technicznym do przewozu osób;
-- **2)** osoby nie znajdują się między ładunkiem a kabiną kierowcy;
-- **3)** osoby przewożone są na miejscach siedzących;
-- **4)** pojazd nie przekracza prędkości 50 km/h.
+### 5.
 
-3. Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz:
+Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar skręcenia w lewo, może odbywać się tylko z jego prawej strony.
 
-- **1)** dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy;
-- **2)** konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że:
-    - **a)** liczba przewożonych osób nie przekracza 5,
-    - **b)** osoby stojące trzymają się uchwytów,
-    - **c)** osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy,
-    - **d)** prędkość zespołu pojazdów nie przekracza 20 km/h;
+### 6.
 
-- **3)** osób w przyczepie (przyczepach) kolejki turystycznej pod warunkiem, że osoby te przewożone są wyłącznie na miejscach siedzących;
-- **4)** dzieci w przyczepie przystosowanej konstrukcyjnie do przewozu osób, ciągniętej przez rower lub wózek rowerowy.
+Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości. Kierujący pojazdem wolnobieżnym, ciągnikiem rolniczym lub pojazdem bez silnika jest obowiązany zjechać jak najbardziej na prawo i - w razie potrzeby - zatrzymać się w celu ułatwienia wyprzedzania.
 
-4. Przepisów ust. 1–3 nie stosuje się do przewozu pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej.
+### 7.
 
-5. Kierującemu pojazdem silnikowym, który przewozi osobę, zabrania się palenia tytoniu lub spożywania pokarmów w czasie jazdy. Nie dotyczy to kierującego samochodem ciężarowym, który przewozi osobę w kabinie kierowcy, i kierującego samochodem osobowym, z wyjątkiem taksówki.
+Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni:
 
-6. Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki przewozu osób pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej, mając na uwadze bezpieczeństwo przewożonych osób.
+### 1)
 
-7. Minister właściwy do spraw wewnętrznych i Minister Sprawiedliwości określą, w drodze rozporządzenia, warunki przewozu osób pojazdami Policji, Straży Granicznej, Służby Więziennej oraz jednostek ochrony przeciwpożarowej, mając na uwadze bezpieczeństwo przewożonych osób.
+przy dojeżdżaniu do wierzchołka wzniesienia,
 
-**Art. 64.**
+### 2)
 
-1. Ruch pojazdu nienormatywnego jest dozwolony pod warunkiem:
+na zakręcie oznaczonym znakami ostrzegawczymi,
 
-- **1)** uzyskania zezwolenia na przejazd pojazdu nienormatywnego odpowiedniej kategorii, wydawanego, w drodze decyzji administracyjnej, przez właściwy organ, a w przypadku pojazdu nienormatywnego należącego do Sił Zbrojnych Rzeczypospolitej Polskiej pod warunkiem uzyskania zezwolenia wojskowego na przejazd drogowy, wydawanego przez właściwy organ wojskowy;
-- **2)** przestrzegania warunków przejazdu określonych w zezwoleniu, o którym mowa w pkt 1;
-- **3)** pilotowania przejazdu pojazdu nienormatywnego na warunkach i w sposób określonych w przepisach wydanych na podstawie art. 64i ust. 2, w tym przez wymaganą liczbę pojazdów wyposażonych i oznakowanych zgodnie z tymi przepisami;
-- **4)** zachowania szczególnej ostrożności przez kierującego pojazdem nienormatywnym.
+### 3)
 
-2. Zabrania się przewozu pojazdem nienormatywnym ładunków innych niż ładunek niepodzielny, z wyłączeniem pojazdów nienormatywnych uprawnionych do poruszania się na podstawie zezwolenia kategorii I.
+na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany.
 
-3. Wymiary, masa, naciski osi pojazdów nienormatywnych uprawnionych do poruszania się na podstawie zezwoleń kategorii I–V oraz drogi, po których pojazdy te mogą się poruszać, są określone w tabeli stanowiącej załącznik nr 1 do ustawy.
+### 8.
 
-4. Kierujący pojazdem nienormatywnym jest obowiązany mieć przy sobie i okazywać uprawnionym osobom zezwolenie, o którym mowa w ust. 1 pkt 1.
+Dopuszcza się wyprzedzanie w miejscach, o których mowa w ust. 7 pkt 1 i 2, na jezdni:
 
-5. Organ wydający zezwolenie na przejazd pojazdu nienormatywnego prowadzi rejestr wydanych zezwoleń. W rejestrze umieszcza się następujące dane:
+### 1)
 
-- **1)** numer zezwolenia;
-- **2)** datę wydania zezwolenia;
-- **3)** kategorię zezwolenia;
-- **4)** podmiotu, na który zezwolenie zostało wydane;
-- **5)** pojazdu lub zespołu pojazdów, jeżeli zostały określone w zezwoleniu.
+jednokierunkowej,
 
-**Art. 64a.** (uchylony)
+### 2)
 
-**Art. 64b.**
+dwukierunkowej na odcinku z wyznaczonymi pasami ruchu, pod warunkiem że kierujący nie wjeżdża na część jezdni przeznaczoną do ruchu w kierunku przeciwnym - w miejscu, gdzie jest to zabronione znakami na jezdni.
 
-1. Zezwolenie kategorii I jest wydawane na przejazd nienormatywnego pojazdu wolnobieżnego, ciągnika rolniczego albo zespołu pojazdów składającego się z pojazdu wolnobieżnego lub ciągnika rolniczego i przyczepy specjalnej.
+### 9.
 
-2. Zezwolenie wydaje się na wniosek podmiotu wykonującego przejazd. Do wniosku dołącza się dowód wniesienia opłaty za wydanie zezwolenia.
+Dopuszcza się wyprzedzanie w miejscu, o którym mowa w ust. 7 pkt 3, pojazdu sygnalizującego zamiar skręcenia, pod warunkiem że kierujący nie wjeżdża na część jezdni przeznaczoną do ruchu w kierunku przeciwnym.
 
-3. Zezwolenie wydaje starosta właściwy ze względu na siedzibę wnioskodawcy albo miejsce rozpoczęcia przejazdu. Zezwolenie wydaje się po uiszczeniu opłaty, w terminie 3 dni roboczych od dnia złożenia wniosku o jego wydanie.
+### 10.
 
-4. Zezwolenie wydaje się na okres 12 miesięcy, wskazując w nim:
+Dopuszcza się wyprzedzanie z prawej strony na odcinku drogi z wyznaczonymi pasami ruchu, przy zachowaniu warunków określonych w ust. 1 i 7:
 
-- **1)** podmiot wykonujący przejazd;
-- **2)** pojazd, którym będzie wykonywany przejazd.
+### 1)
 
-5. Do ruchu pojazdu nienormatywnego, o którym mowa w ust. 1, nie stosuje się przepisu art. 64 ust. 1 pkt 3.
+na jezdni jednokierunkowej,
 
-**Art. 64c.**
+### 2)
 
-1. Zezwolenia kategorii II–IV na przejazd pojazdu nienormatywnego są wydawane na wskazany we wniosku okres: miesiąca, 6 miesięcy, 12 miesięcy lub 24 miesięcy.
+na jezdni dwukierunkowej, jeżeli co najmniej dwa pasy ruchu na obszarze zabudowanym lub trzy pasy ruchu poza obszarem zabudowanym przeznaczone są do jazdy w tym samym kierunku.
 
-2. Zezwolenie wydaje się na wniosek zainteresowanego podmiotu. Do wniosku dołącza się dowód wniesienia opłaty za wydanie zezwolenia.
+### 11.
 
-3. Zezwolenie wydaje:
+Zabrania się wyprzedzania pojazdu uprzywilejowanego na obszarze zabudowanym.
 
-- **1)** właściwy ze względu na siedzibę wnioskodawcy albo miejsce rozpoczęcia przejazdu starosta – w zakresie zezwoleń kategorii II;
-- **2)** Generalny Dyrektor Dróg Krajowych i Autostrad – w zakresie zezwoleń kategorii III i IV.
+### Oddział 7 Przecinanie się kierunków ruchu
 
-4. Zezwolenia kategorii II i III przy wjeździe na terytorium Rzeczypospolitej Polskiej wydaje także naczelnik urzędu celno-skarbowego.
+### Art. 25.
 
-5. Zezwolenie kategorii III uprawnia do poruszania się pojazdami i drogami, określonymi dla zezwolenia kategorii II.
+### 1.
 
-6. (uchylony)
+Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony, a jeżeli skręca w lewo - także jadącemu z kierunku przeciwnego na wprost lub skręcającemu w prawo.
 
-7. Zezwolenie wydaje się po uiszczeniu opłaty, w terminie 3 dni roboczych od dnia złożenia wniosku o jego wydanie. W przypadku niewydania zezwolenia zwraca się wniesioną opłatę.
+### 2.
 
-8. Zezwolenie wydaje się dla podmiotu wykonującego przejazd, bez wskazania pojazdu, którym przejazd będzie wykonywany.
+Przepisu ust. 1 nie stosuje się do pojazdu szynowego, który ma pierwszeństwo w stosunku do innych pojazdów, bez względu na to, z której strony nadjeżdża.
 
-9. Podmiot posiadający zezwolenie kategorii IV, planujący wykonanie przejazdu przez most lub wiadukt po drogach innych niż krajowe pojazdem, którego rzeczywista masa całkowita jest większa od dopuszczalnej, jest obowiązany zawiadomić pisemnie właściwego dla tego mostu lub wiaduktu zarządcę drogi o terminie i trasie planowanego przejazdu, w terminie 7 dni roboczych przed datą planowanego przejazdu, przy czym 7. dzień terminu jest ostatecznym dniem wpływu zawiadomienia do organu.
+### 3.
 
-10. Zarządca drogi w przypadku, o którym mowa w ust. 9, najpóźniej 3 dni przed datą planowanego przejazdu potwierdza przyjęcie zawiadomienia i może określić warunki przejazdu przez most lub wiadukt albo zgłosić uzasadniony sprzeciw.
+Przepisy ust. 1 i 2 stosuje się również w razie przecinania się kierunków ruchu poza skrzyżowaniem.
 
-11. Warunki przejazdu pojazdu nienormatywnego przez most lub wiadukt określa zarządca drogi, ustalając, zależnie od potrzeb, ograniczenia w zakresie ruchu, sposób przejazdu oraz przystosowanie obiektu do przejazdu.
+### 4.
 
-12. Zarządca drogi może zgłosić sprzeciw, o którym mowa w ust. 10, jeżeli stan technicznej sprawności mostu lub wiaduktu, po którym planowany jest przejazd pojazdu nienormatywnego, określony na podstawie przepisów Prawa budowlanego, uniemożliwia wykonanie tego przejazdu.
+Kierującemu pojazdem zabrania się:
 
-13. Zabrania się wykonywania przejazdu przez most lub wiadukt w przypadku zgłoszenia sprzeciwu albo niezgodnie z warunkami przejazdu przez ten obiekt.
+### 1)
 
-**Art. 64d.**
+wjeżdżania na skrzyżowanie, jeżeli na skrzyżowaniu lub za nim nie ma miejsca do kontynuowania jazdy,
 
-1. Zezwolenie kategorii V na przejazd pojazdu nienormatywnego jest wydawane na jednokrotny lub wielokrotny przejazd po drogach publicznych w wyznaczonym czasie, na trasie wyznaczonej w zezwoleniu. Zezwolenie wydaje się dla pojazdu, którego ruch, ze względu na jego wymiary, masę lub naciski osi, nie jest możliwy na podstawie zezwoleń kategorii I–IV.
+### 2)
 
-2. Zezwolenie może być wydane, pod warunkiem że:
+rozdzielania kolumny pieszych.
 
-- **1)** ładunek jest niepodzielny;
-- **2)** uzyskano na przejazd zgodę zarządcy drogi, właściwego dla trasy przejazdu;
-- **3)** istnieją możliwości wyznaczenia trasy przejazdu zapewniającej bezpieczeństwo oraz efektywność ruchu drogowego, a w szczególności:
-    - **a)** natężenie ruchu umożliwia bezpieczny przejazd pojazdu nienormatywnego,
-    - **b)** stan technicznej sprawności budowli usytuowanych w ciągu rozpatrywanej trasy przejazdu, określony na podstawie przepisów Prawa budowlanego, umożliwia przejazd,
-    - **c)** przejazd nie stwarza zagrożenia stanu technicznego obiektów budowlanych położonych w pobliżu trasy przejazdu.
+### Art. 26.
 
-3. Zezwolenie wydaje się na wniosek zainteresowanego podmiotu. Do wniosku dołącza się dowód wniesienia opłaty za wydanie zezwolenia. W przypadku niewydania zezwolenia zwraca się wniesioną opłatę.
+### 1.
 
-4. Zezwolenie wydaje, po uzgodnieniu z innymi zarządcami dróg i po uiszczeniu opłaty, Generalny Dyrektor Dróg Krajowych i Autostrad, w terminie 14 dni roboczych od dnia złożenia wniosku, z zastrzeżeniem ust. 5. Jeżeli trasa przejazdu pojazdu nienormatywnego przebiega w granicach administracyjnych miasta na prawach powiatu i nie przebiega autostradą lub drogą ekspresową, zezwolenie wydaje prezydent miasta.
+Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu.
 
-5. Zarządca drogi właściwy ze względu na kategorię drogi, po której jest planowany przejazd, uzgadnia trasę przejazdu w terminie 7 dni roboczych od dnia otrzymania pisemnego zapytania organu wydającego zezwolenie, uwzględniając warunki przejazdu i stan techniczny drogi. W przypadku braku odpowiedzi na zapytanie uznaje się trasę za uzgodnioną.
+### 2.
 
-6. Jeżeli przejazd pojazdu nienormatywnego wymaga określenia zakresu przystosowania infrastruktury drogowej położonej na trasie przejazdu, termin wydania zezwolenia może ulec przedłużeniu do 30 dni, z tym że organ wydający zezwolenie jest obowiązany powiadomić o tym podmiot składający wniosek w terminie 7 dni od dnia złożenia wniosku.
+Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża.
 
-7. Koszty związane z przystosowaniem odcinków dróg do przejazdu pojazdu nienormatywnego ponosi podmiot wykonujący ten przejazd.
+### 3.
 
-8. Do kosztów, o których mowa w ust. 7, zalicza się koszty dostosowania infrastruktury drogowej na trasie przejazdu pojazdu nienormatywnego, dostaw, usług lub robót, wskazanych w zezwoleniu na przejazd pojazdu nienormatywnego, w tym koszty:
+Kierującemu pojazdem zabrania się:
 
-- **1)** wykonania niezbędnych ekspertyz i badań odcinków dróg i drogowych obiektów inżynierskich;
-- **2)** przygotowania niezbędnej dokumentacji projektowej i kosztorysowej;
-- **3)** czasowego usunięcia ograniczeń skrajni drogowej;
-- **4)** wykonania wzmocnienia odcinków dróg i drogowych obiektów inżynierskich;
-- **5)** wykonania robót zabezpieczających na trasie przejazdu pojazdu;
-- **6)** dokonania geometrycznych korekt trasy przejazdu lub występujących w jej ciągu skrzyżowań;
-- **7)** budowy lub dostosowania lokalnych objazdów występujących na trasie przejazdu pojazdu;
-- **8)** wykonania prac związanych z przywróceniem odcinków dróg do stanu poprzedniego lub stanu uzgodnionego z właściwym zarządcą drogi;
-- **9)** dokonania zmian w organizacji ruchu lub przywrócenia jej stanu poprzedniego lub stanu uzgodnionego z właściwym zarządcą drogi.
+### 1)
 
-9. Zezwolenie wydaje się dla podmiotu wykonującego przejazd pojazdem nienormatywnym, wskazując w nim:
+wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany,
 
-- **1)** okres ważności zezwolenia;
-- **2)** trasę przejazdu;
-- **3)** liczbę przejazdów;
-- **4)** pojazd, którym będzie wykonywany przejazd;
-- **5)** warunki przejazdu, w tym zakres dostosowania infrastruktury drogowej na trasie przejazdu;
-- **6)** sposób pilotowania, o ile jest ono wymagane.
+### 2)
 
-10. Zezwolenie jest ważne przez okres:
+omijania pojazdu, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu,
 
-- **1)** 14 dni – w przypadku zezwolenia na jednokrotny przejazd,
-- **2)** 30 dni – w przypadku zezwolenia na wielokrotny przejazd – liczonych od dnia wskazanego we wniosku o wydanie zezwolenia.
+### 3)
 
-11. Opłatę za wydanie zezwolenia ustala się zgodnie z wzorem: O = p + (n – 1) × 0,7 × p , w którym poszczególne symbole oznaczają: – O – wysokość opłaty za wydanie zezwolenia, – n – liczbę przejazdów pojazdu nienormatywnego, – p – stawkę opłaty za wydanie zezwolenia na jednokrotny przejazd pojazdu nienormatywnego.
+jazdy wzdłuż po chodniku lub przejściu dla pieszych.
 
-**Art. 64e.**
+### 4.
 
-1. Przepisy art. 64 ust. 1 pkt 1 i 2 oraz ust. 2 i 3 i art. 64b–64d nie dotyczą:
+Kierujący pojazdem, przejeżdżając przez chodnik lub drogę (ścieżkę) dla pieszych, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu.
 
-- **1)** autobusu – w zakresie nacisków osi;
-- **2)** pojazdu, którego szerokość i długość bez ładunku nie są większe od dopuszczalnych, przewożącego ładunek na zasadach określonych w art. 61 ust. 6, 8 i 9;
-- **3)** pojazdu biorącego udział w akcjach ratowniczych oraz przy bezpośredniej likwidacji skutków klęsk żywiołowych;
-- **3a)** pojazdu dostarczającego do szpitali wyposażenie i zaopatrzenie niezbędne do zwalczania zakażeń i chorób zakaźnych w okresie obowiązywania stanu zagrożenia epidemicznego lub stanu epidemii ogłoszonego na podstawie ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2023 r. poz. 1284, 909 i 1938);
-- **4)** pojazdu zarządu drogi;
-- **5)** pojazdu Policji, Inspekcji Transportu Drogowego, Służby Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Krajowej Administracji Skarbowej wykorzystywanego przez Służbę Celno-Skarbową oraz jednostek ochrony przeciwpożarowej, wykonującego zadania tych służb.
+### 5.
 
-1a. W przypadku przejazdu pojazdu, o którym mowa w ust. 1 pkt 3a, podmiot wykonujący przejazd informuje o nim zarządców dróg właściwych dla trasy przejazdu.
+Przepis ust. 4 stosuje się odpowiednio podczas jazdy po placu, na którym ze względu na brak wyodrębnienia jezdni i chodników ruch pieszych i pojazdów odbywa się po tej samej powierzchni.
 
-2. Minister właściwy do spraw transportu może zwolnić, w drodze decyzji administracyjnej, z obowiązku uzyskania zezwolenia na przejazd pojazdu nienormatywnego pojazd wykonujący przejazd w ramach pomocy humanitarnej lub medycznej, pod warunkiem uzyskania na przejazd zgody zarządców dróg właściwych dla trasy przejazdu.
+### 6.
 
-3. Zwolnienie, o którym mowa w ust. 2, wydaje się na wniosek zainteresowanego podmiotu wykonującego przejazd i właściwego organu państwowego, samorządowego lub organizacji humanitarnej. Art. 64ea. W przypadku wykonywania przejazdu pojazdem nienormatywnym na podstawie zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1, kategorii innej niż wymagana albo na podstawie zezwolenia kategorii V z przekroczonymi parametrami technicznymi pojazdu lub zespołu pojazdów wskazanymi w tym zezwoleniu, przejazd pojazdu nienormatywnego uznaje się za wykonywany bez zezwolenia.
+Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nie znajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik. Przepisy te stosuje się odpowiednio przy ruchu innych pojazdów komunikacji publicznej.
 
-**Art. 64f.**
+### 7.
 
-1. Ustala się maksymalną wysokość stawek opłat za wydanie zezwolenia na przejazd pojazdu nienormatywnego w:
+W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia.
 
-- **1)** kategorii I – 120 zł;
-- **2)** kategorii II – 2400 zł;
-- **3)** kategorii III – 3600 zł;
-- **4)** kategorii IV – 5800 zł;
-- **5)** kategorii V na jednokrotny przejazd:
-    - **a)** pojazdu, którego wymiary przekraczają wielkości ustalone dla kategorii II i III i którego naciski osi i masa nie są większe od dopuszczalnych – 600 zł,
-    - **b)** w pozostałych przypadkach – 2000 zł.
+### Art. 27.
 
-2. Maksymalne stawki opłat za wydanie zezwolenia ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym średniorocznemu wskaźnikowi cen towarów i usług konsumpcyjnych ogółem, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+### 1.
 
-3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłat za wydanie zezwolenia na przejazd pojazdu nienormatywnego w poszczególnych kategoriach zezwoleń, z uwzględnieniem okresu, na jaki będą wydawane, kosztów wydania zezwolenia i stopnia oddziaływania przejazdu pojazdu nienormatywnego na infrastrukturę drogową.
+Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe.
 
-**Art. 64g.**
+### 2.
 
-1. Opłaty za wydanie zezwolenia na przejazd pojazdu nienormatywnego są przekazywane przez:
+Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa rowerowi jadącemu po drodze (ścieżce) dla rowerów, przebiegającej przez jezdnię drogi, na którą wjeżdża.
 
-- **1)** starostę – do budżetów właściwych jednostek samorządu terytorialnego, za zezwolenia kategorii I i II;
-- **2)** naczelnika urzędu celno-skarbowego – do budżetu powiatu właściwego ze względu na siedzibę naczelnika urzędu celno-skarbowego, za zezwolenia kategorii II;
-- **3)** naczelnika urzędu celno-skarbowego i Generalnego Dyrektora Dróg Krajowych i Autostrad – na wyodrębniony rachunek bankowy Generalnej Dyrekcji Dróg Krajowych i Autostrad, za zezwolenia kategorii III–V;
-- **4)** prezydenta miasta na prawach powiatu – do budżetu miasta, za zezwolenia kategorii V.
+### 3.
 
-2. Środki z opłat gromadzone na wyodrębnionym rachunku bankowym Generalnej Dyrekcji Dróg Krajowych i Autostrad są przekazywane w terminie pierwszych 2 dni roboczych następujących po tygodniu, w którym wydano zezwolenie, na rachunek Krajowego Funduszu Drogowego, z przeznaczeniem na budowę lub przebudowę dróg krajowych, drogowych obiektów inżynierskich i przepraw promowych oraz na zakup urządzeń do ważenia pojazdów.
+Kierujący pojazdem, przejeżdżając przez drogę (ścieżkę) dla rowerów poza jezdnią, jest obowiązany ustąpić pierwszeństwa rowerowi.
 
-3. Urzędy celno-skarbowe otrzymują prowizję od pobranych opłat za wydanie zezwolenia w wysokości 12 % pobranej opłaty.
+### 4.
 
-4. Prowizja, o której mowa w ust. 3, stanowi dochód budżetu państwa.
+Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejeździe dla rowerzystów i bezpośrednio przed nim, z wyjątkiem przejazdu, na którym ruch jest kierowany.
 
-5. Od opłat za wydanie zezwolenia urzędy celno-skarbowe odliczają prowizję, a pozostałą część opłaty, w terminie 4 dni po upływie każdych kolejnych 10 dni miesiąca, przekazują odpowiednio do podmiotów wymienionych w ust. 1 pkt 2 i 3.
+### Art. 28.
 
-**Art. 64h.** Minister właściwy do spraw transportu dokona wyboru producenta blankietów zezwoleń na przejazd pojazdu nienormatywnego.
+### 1.
 
-**Art. 64i.**
+Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy, oraz przedsięwziąć odpowiednie środki ostrożności, zwłaszcza jeżeli wskutek mgły lub z innych powodów przejrzystość powietrza jest zmniejszona.
 
-1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+### 2.
 
-- **1)** warunki dystrybucji blankietów zezwoleń na przejazd pojazdu nienormatywnego,
-- **2)** sposób i tryb wydawania zezwoleń na przejazd pojazdu nienormatywnego,
-- **3)** warunki wyznaczania trasy przejazdu oraz kryteria ustalania warunków przejazdu pojazdu nienormatywnego, w tym przejazdu przez most lub wiadukt,
-- **4)** wzory zezwoleń na przejazd pojazdu nienormatywnego oraz wzory dokumentów związanych z wydawaniem tych zezwoleń – mając na uwadze potrzebę ujednolicenia zezwoleń i ułatwienie ich identyfikacji oraz sprawność dystrybucji blankietów zezwoleń, a także konieczność zapewnienia sprawności i przejrzystości procedury administracyjnej wydawania zezwoleń oraz bezpieczeństwa infrastruktury drogowej i bezpieczeństwa przejazdu pojazdu nienormatywnego.
+Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy lub gdy urządzenie zabezpieczające albo dawany sygnał zabrania wjazdu na przejazd.
 
-2. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe warunki i sposób pilotowania pojazdów nienormatywnych oraz wyposażenie i oznakowanie pojazdów wykonujących pilotowanie, mając na uwadze potrzebę zapewnienia rozpoznawalności przejazdu pojazdu nienormatywnego oraz bezpieczeństwa ruchu drogowego podczas takiego przejazdu.
+### 3.
 
-3. Minister właściwy do spraw wewnętrznych i Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw transportu określą, w drodze rozporządzenia, warunki poruszania się po drogach pojazdów nienormatywnych, o których mowa w art. 64e ust. 1 pkt 5, mając na uwadze konieczność zapewnienia porządku, sprawności i bezpieczeństwa ruchu drogowego.
+Kierującemu pojazdem zabrania się:
 
-4. Minister Obrony Narodowej określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** organy wojskowe właściwe do wydawania zezwoleń wojskowych na przejazdy drogowe,
-- **2)** sposób i tryb wydawania zezwoleń wojskowych na przejazdy drogowe,
-- **3)** wzory zezwoleń wojskowych na przejazdy drogowe oraz wzory dokumentów związanych z ich wydaniem,
-- **4)** sposób organizacji i oznakowania kolumn pojazdów,
-- **5)** warunki i sposób pilotowania pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz oznakowanie i wyposażenie pojazdu pilotującego – mając na uwadze potrzebę ujednolicenia procedury wydawania zezwoleń wojskowych na przejazdy drogowe, sprawności wydawania zezwoleń wojskowych na przejazd drogowy oraz zapewnienia bezpieczeństwa ruchu drogowego podczas przejazdu pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej.
+objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone,
 
-##### Oddział 5 Wykorzystanie dróg w sposób szczególny
+### 2)
 
-**Art. 65.** Zawody sportowe, rajdy, wyścigi, przewóz osób kolejką turystyczną i inne imprezy, które powodują utrudnienia w ruchu lub wymagają korzystania z drogi w sposób szczególny, mogą się odbywać pod warunkiem zapewnienia bezpieczeństwa porządku podczas trwania imprezy oraz uzyskania zezwolenia na jej przeprowadzenie.
+wjeżdżania na przejazd, jeżeli po drugiej stronie przejazdu nie ma miejsca do kontynuowania jazdy,
 
-**Art. 65a.**
+### 3)
 
-1. Organizator imprezy jest obowiązany zapewnić bezpieczeństwo osobom obecnym na imprezie oraz porządek podczas trwania imprezy.
+wyprzedzania pojazdu na przejeździe kolejowym i bezpośrednio przed nim,
 
-2. Organizator imprezy jest obowiązany zapewnić:
+### 4)
 
-- **1)** spełnienie wymagań określonych w szczególności w przepisach prawa budowlanego, przepisach sanitarnych, przepisach dotyczących ochrony przeciwpożarowej oraz ochrony środowiska;
-- **2)** wyróżniającą się elementami ubioru służbę porządkową i informacyjną;
-- **3)** pomoc medyczną i przedmedyczną, dostosowaną do liczby uczestników imprezy, a także odpowiednie zaplecze higieniczno-sanitarne;
-- **4)** drogi ewakuacyjne oraz drogi umożliwiające dojazd służb ratowniczych i Policji, Straży Granicznej oraz Żandarmerii Wojskowej;
-- **5)** warunki zorganizowania łączności między podmiotami biorącymi udział w zabezpieczeniu imprezy;
-- **6)** sprzęt ratowniczy i gaśniczy oraz środki gaśnicze niezbędne do zabezpieczenia działań ratowniczo-gaśniczych;
-- **7)** w razie potrzeby pomieszczenie dla służb kierujących zabezpieczeniem imprezy;
-- **8)** środki techniczne niezbędne do zabezpieczenia imprezy, a w szczególności:
-    - **a)** znaki lub tablice ostrzegawcze i informacyjne,
-    - **b)** liny, taśmy lub wstęgi służące do oznaczenia trasy lub miejsca imprezy,
-    - **c)** bariery, płotki lub przegrody służące do odgradzania miejsca imprezy.
+omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu.
 
-3. Organizator imprezy jest obowiązany:
+### 4.
 
-- **1)** uzgodnić z organami zarządzającymi ruchem na drogach przebieg trasy, na której ma się odbyć impreza;
-- **2)** współdziałać z Policją oraz, jeżeli impreza odbywa się w strefie nadgranicznej albo na drogach przebiegających przez tereny lub przyległych do terenów będących w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej lub na drogach przyległych do tych terenów, odpowiednio ze Strażą Graniczną lub Żandarmerią Wojskową:
-    - **a)** uzgadniając przebieg trasy lub miejsce imprezy,
-    - **b)** stosując polecenia dotyczące prawidłowego zabezpieczenia imprezy,
-    - **c)** dokonując wspólnego objazdu trasy lub miejsca imprezy;
+W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie.
 
-- **3)** sporządzić plan określający sposoby zapewnienia bezpieczeństwa i porządku publicznego podczas imprezy na terenie poszczególnych województw, obejmujący:
-    - **a)** listę osób wchodzących w skład służby porządkowej, ich rozmieszczenie oraz elementy ubioru wyróżniające te osoby,
-    - **b)** pisemną instrukcję określającą zadania służb porządkowych, opracowaną w uzgodnieniu z Policją,
-    - **c)** rodzaj i ilość środków technicznych, o których mowa w ust. 2 pkt 8, oraz miejsce ich rozlokowania,
-    - **d)** rodzaje, zakres i sposób zabezpieczenia ratowniczego imprezy, w uzgodnieniu z właściwym komendantem powiatowym Państwowej Straży Pożarnej oraz innymi służbami ratowniczymi, w tym z właściwym dysponentem jednostki w rozumieniu przepisów ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym,
-    - **e)** sposób oznaczenia miejsc niebezpiecznych dla uczestników imprezy,
-    - **f)** oznakowanie pojazdów uczestniczących w imprezie i towarzyszących tej imprezie,
-    - **g)** rodzaje zezwoleń umożliwiających poruszanie się osób lub pojazdów w miejscach wyłączonych z ruchu publicznego,
-    - **h)** organizację łączności bezprzewodowej między organizatorem imprezy a Policją w trakcie trwania imprezy,
-    - **i)** sposób informowania o ograniczeniach w ruchu drogowym wynikających z przebiegu imprezy – przed imprezą i w trakcie jej trwania,
-    - **j)** przebieg trasy imprezy oraz dróg umożliwiających dojazd do poszczególnych etapów imprezy, po których będą poruszać się samochody osobowe przeznaczone do zawodów sportowych biorące udział w imprezie;
+### 5.
 
-- **4)** opracować regulamin oraz program imprezy;
-- **5)** ustalić z Policją oraz, jeżeli impreza odbywa się w strefie nadgranicznej albo na drogach przebiegających przez tereny lub przyległych do terenów będących w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, odpowiednio ze Strażą Graniczną lub Żandarmerią Wojskową terminy wspólnych spotkań organizowanych w celu uzgodnienia spraw związanych z zabezpieczeniem imprezy;
-- **6)** zapewnić realizację planu, o którym mowa w pkt 3;
-- **7)** uzgodnić z zarządcą drogi obszar wykorzystania pasa drogowego oraz sposób i termin przywrócenia go do stanu poprzedniego;
-- **7a)** uzyskać zgodę zarządcy drogi na udział w imprezie pojazdów samochodowych wyposażonych w opony z umieszczonymi w nich na trwałe elementami przeciwślizgowymi;
-- **8)** powiadomić przedsiębiorstwa komunikacji publicznej o przewidywanym czasie występowania utrudnień w ruchu drogowym;
-- **9)** na polecenie organu zarządzającego ruchem na drodze opracować projekt organizacji ruchu w uzgodnieniu z Policją;
-- **10)** udzielić dokładnych informacji dotyczących imprezy, na żądanie Policji lub innych podmiotów wymienionych w pkt 1, 2, 7 i 8, a także wojewody właściwego ze względu na miejsce odbywania się imprezy, jeżeli są one niezbędne do realizacji ich zadań w celu zapewnienia bezpieczeństwa i porządku publicznego;
-- **11)** przekazywać do wiadomości publicznej informacje o utrudnieniach w ruchu wynikających z planowanej imprezy.
+Kierujący pojazdem lub zespołem pojazdów o długości przekraczającej 10 m, który nie może rozwinąć prędkości większej niż 6 km/h, przed wjazdem na przejazd kolejowy jest obowiązany upewnić się, czy w czasie potrzebnym na przejechanie przez ten przejazd nie nadjedzie pojazd szynowy, lub uzgodnić czas tego przejazdu z dróżnikiem kolejowym.
 
-4. Bezpieczeństwo i porządek podczas imprez zapewnia Policja, z tym że jeżeli impreza odbywa się w strefie nadgranicznej albo jest przeprowadzana na drogach przebiegających lub przyległych do terenów będących w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, odpowiednio we współdziałaniu ze Strażą Graniczną, Żandarmerią Wojskową lub z wojskowymi organami porządkowymi:
+### 6.
 
-- **1)** w czasie przygotowywania imprezy – opracowując własny plan zabezpieczenia imprezy;
-- **2)** w czasie trwania imprezy:
-    - **a)** wystawiając posterunki kierowania ruchem i blokady ruchu,
-    - **b)** pilotując, w razie potrzeby, przejazd lub przejście uczestników imprezy,
-    - **c)** organizując objazdy wynikające z przeprowadzonej imprezy na drodze;
+Przepisy ust. 1-4 stosuje się odpowiednio przy przejeżdżaniu przez tory tramwajowe; przepis ust. 3 pkt 3 nie dotyczy skrzyżowania lub przejazdu tramwajowego, na którym ruch jest kierowany.
 
-- **3)** po zakończeniu imprezy – przywracając płynność ruchu na drodze.
+### Oddział 8 Ostrzeganie oraz jazda w warunkach zmniejszonej przejrzystości powietrza
 
-**Art. 65b.**
+### Art. 29.
 
-1. Zezwolenie, o którym mowa w art. 65, wydaje w drodze decyzji administracyjnej, na pisemny wniosek organizatora imprezy, zwany dalej „wnioskiem”, złożony co najmniej na 30 dni przed planowym terminem jej rozpoczęcia, organ zarządzający ruchem na drodze, na której odbywa się impreza, z tym że jeżeli impreza odbywa się na drogach podległych kilku organom – organem właściwym jest:
+### 1.
 
-- **1)** w przypadku dróg różnych kategorii – organ zarządzający ruchem na drodze wyższej kategorii;
-- **2)** w przypadku dróg tej samej kategorii – organ właściwy ze względu na miejsce rozpoczęcia imprezy.
+Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie.
 
-2. Organizator imprezy przesyła w terminie określonym w ust. 1 kopię wniosku wraz z wymaganymi dokumentami do:
+### 2.
 
-- **1)** właściwego ze względu na miejsce rozpoczęcia imprezy komendanta wojewódzkiego Policji, a także
-- **2)** komendanta oddziału Straży Granicznej – jeżeli impreza odbywa się w strefie nadgranicznej, lub
-- **3)** komendanta jednostki Żandarmerii Wojskowej – jeżeli impreza jest przeprowadzana na drogach przebiegających lub przyległych do terenów będących w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej.
+Zabrania się:
 
-3. Wniosek powinien zawierać w szczególności:
+### 1)
 
-- **1)** imię, nazwisko lub nazwę oraz adres zamieszkania lub siedzibę organizatora imprezy;
-- **2)** rodzaj i nazwę imprezy;
-- **3)** informację o miejscu i dacie rozpoczęcia, przebiegu oraz zakończenia imprezy;
-- **4)** informację o przewidywanej liczbie uczestników imprezy;
-- **5)** wykaz osób reprezentujących organizatora w sprawach zabezpieczenia trasy lub miejsca imprezy na terenie poszczególnych województw;
-- **6)** podpis organizatora lub jego przedstawiciela.
+nadużywania sygnału dźwiękowego lub świetlnego,
 
-4. Do wniosku należy dołączyć:
+### 2)
 
-- **1)** szczegółowy regulamin imprezy, określający w szczególności zasady zachowania uczestników imprezy istotne dla bezpieczeństwa ruchu drogowego;
-- **2)** wykaz osób odpowiedzialnych za prawidłowy przebieg i zabezpieczenie imprezy na terenie poszczególnych województw oraz w miejscach rozpoczęcia i zakończenia każdego odcinka, a także w miejscach wymagających szczególnego zabezpieczenia;
-- **3)** program imprezy ze szczegółowym opisem trasy i podaniem odległości między poszczególnymi jej odcinkami oraz określony w minutach i kilometrach program przejazdu lub przejścia uczestników przez poszczególne miejscowości i granice województw;
-- **4)** plan zabezpieczenia trasy lub miejsca określony w art. 65a ust. 3 pkt 3;
-- **5)** zobowiązanie organizatora do przywrócenia do poprzedniego stanu pasa drogowego na trasie przejazdu, przejścia lub miejsca pobytu uczestników imprezy, a w przypadku uszkodzenia pasa drogowego lub urządzeń drogowych będącego następstwem imprezy – do ich bezzwłocznego naprawienia lub pokrycia kosztów tych napraw;
-- **6)** pisemną zgodę właściciela lasu na przeprowadzenie imprezy w razie przeprowadzania jej na terenach leśnych.
+używania sygnału dźwiękowego na obszarze zabudowanym, chyba że jest to konieczne w związku z bezpośrednim niebezpieczeństwem,
 
-5. Organ, o którym mowa w ust. 1, wydaje zezwolenie po:
+### 3)
 
-- **1)** zasięgnięciu opinii właściwego ze względu na miejsce imprezy komendanta wojewódzkiego Policji, a w przypadku imprezy odbywającej się na drogach w strefie nadgranicznej albo na drogach przebiegających lub przyległych do terenów będących w zarządzie jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej – odpowiednio właściwego komendanta oddziału Straży Granicznej lub komendanta jednostki Żandarmerii Wojskowej; opinię doręcza się organowi, który o nią wystąpił, w terminie 14 dni od dnia wystąpienia;
-- **2)** uzgodnieniu zakresu ograniczenia ruchu i wynikających stąd warunków przeprowadzenia imprezy z organami zarządzającymi ruchem na drogach, na których ma się odbyć impreza.
+ostrzegania światłami drogowymi w warunkach, w których może to spowodować oślepienie innych kierujących.
 
-**Art. 65c.** Organ wydający zezwolenie odmawia jego wydania:
+### Art. 30.
 
-**Art. 65d.**
+### 1.
 
-1. Organ wydający zezwolenie cofa wydane zezwolenie, gdy istnieje niebezpieczeństwo zagrożenia życia lub zdrowia albo mienia wielkiej wartości.
+Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami, a ponadto:
 
-2. Organ, o którym mowa w ust. 1, może cofnąć zezwolenie, gdy impreza zagraża bezpieczeństwu ruchu drogowego.
+### 1)
 
-3. Decyzji, o której mowa w ust. 1 i 2, nadaje się rygor natychmiastowej wykonalności.
+kierujący pojazdem silnikowym jest obowiązany:
 
-**Art. 65e.** Decyzję o wydaniu lub odmowie wydania zezwolenia na odbycie imprezy wydaje się co najmniej na 7 dni przed planowanym terminem rozpoczęcia imprezy.
+### a)
 
-**Art. 65f.** Organ kontroli ruchu drogowego przerywa imprezę, jeżeli odbywa się ona bez zezwolenia.
+włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie,
 
-**Art. 65g.** Organ kontroli ruchu drogowego może przerwać imprezę, jeżeli:
+### b)
 
-**Art. 65h.**
+poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania,
 
-1. Przepisy art. 65–65g nie dotyczą procesji, pielgrzymek i innych imprez o charakterze religijnym, które odbywają się na drogach na zasadach określonych w:
+### 2)
 
-- **1)** ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1966);
-- **2)** ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz. U. z 2023 r. poz. 544);
-- **3)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentystów Dnia Siódmego w Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 2616);
-- **4)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptystów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 1874);
-- **5)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Ewangelicko-Metodystycznego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 85);
-- **6)** ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 51);
-- **7)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz.
-- **47)** ;
-- **8)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. z 2023 r. poz. 8);
-- **9)** ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz. U. z 2015 r. poz. 13).
+kierujący innym pojazdem niż pojazd, o którym mowa w pkt 1, jest obowiązany:
 
-2. Przepisy art. 65–65g nie dotyczą także konduktów pogrzebowych, które poruszają się po drogach stosownie do miejscowego zwyczaju.
+### a)
 
-3. Do imprez, o których mowa w art. 65, nie stosuje się przepisów o bezpieczeństwie imprez masowych, z wyłączeniem przepisów regulujących organizację oraz uprawnienia służb porządkowych.
+włączyć światła, w które pojazd jest wyposażony,
 
-**Art. 65i.** W sprawach nieuregulowanych w art. 65–65h stosuje się przepisy Kodeksu postępowania administracyjnego.
+### b)
 
-**Art. 65j.** Do przewozu osób kolejką turystyczną stosuje się przepisy Oddziału 5 z wyłączeniem przepisów art. 65a ust. 2 pkt 2–5, 7–8, ust. 3 pkt 3, 6–11, ust. 4, art. 65b ust. 4 pkt 4 oraz art. 65h. Art. 65ja. Spotkanie właścicieli, posiadaczy lub użytkowników pojazdów samochodowych na otwartej lub ogólnodostępnej przestrzeni, którego celem jest prezentacja pojazdów samochodowych w liczbie większej niż 10, w szczególności wprowadzonych w nich modyfikacji, wymaga wcześniejszego zawiadomienia organu gminy. Do zawiadomienia stosuje się odpowiednio przepisy rozdziału 2 ustawy z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389).
+korzystać z pobocza drogi, a jeżeli nie jest to możliwe, jechać jak najbliżej krawędzi jezdni i nie wyprzedzać innego pojazdu.
 
-##### Oddział 6 [Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami autonomicznymi] <Wykorzystanie dróg na potrzeby prac badawczych nad pojazdami zautomatyzowanymi lub pojazdami w pełni zautomatyzowanymi> [Art. 65k. Ilekroć w niniejszym oddziale jest mowa o pojeździe autonomicznym, należy przez to rozumieć pojazd samochodowy, wyposażony w systemy sprawujące kontrolę nad ruchem tego pojazdu i umożliwiające jego ruch bez ingerencji kierującego, który w każdej chwili może przejąć kontrolę nad tym pojazdem.] [Art. 65l. 1. Prowadzenie prac badawczych związanych z testowaniem pojazdów autonomicznych w ruchu drogowym na drogach publicznych, w szczególności na potrzeby zastosowania pojazdów autonomicznych w transporcie zbiorowym i realizacji innych zadań publicznych, jest możliwe pod warunkiem spełnienia wymagań bezpieczeństwa i uzyskania zezwolenia na przeprowadzenie tych prac.
+### 2.
 
-##### Oddział 7 Dopuszczenie do ruchu samochodów osobowych przeznaczonych do zawodów sportowych
+Obowiązek używania świateł, o którym mowa w ust. 1, dotyczy kierującego pojazdem także podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego.
 
-**Art. 65o.** Przepisy niniejszego oddziału stosuje się do samochodów osobowych przeznaczonych do zawodów sportowych, które na podstawie odrębnych przepisów zostały wpisane do rejestru prowadzonego przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie.
+### 3.
 
-**Art. 65p.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego na czas trwania imprez organizowanych przez właściwy polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie oraz inne właściwe związki sportowe organizujące imprezy na podstawie regulaminów obowiązujących we właściwym polskim związku sportowym, na wyznaczonych drogach umożliwiających dojazd, o których mowa w art. 65a ust. 3 pkt 3 lit. j.
+Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła.
 
-**Art. 65q.** Samochód osobowy przeznaczony do zawodów sportowych dopuszcza się do ruchu drogowego w zakresie, o którym mowa w art. 65p, jeżeli:
+### Oddział 9 Holowanie
 
-### DZIAŁ III Pojazdy
+### Art. 31.
 
-#### Rozdział 1 Warunki techniczne pojazdów
+### 1.
 
-**Art. 66.**
+Kierujący może holować pojazd silnikowy tylko pod warunkiem, że:
 
-1. Pojazd uczestniczący w ruchu ma być tak zbudowany, wyposażony i utrzymany, aby korzystanie z niego:
+### 1)
 
-- **1)** nie zagrażało bezpieczeństwu osób nim jadących lub innych uczestników ruchu, nie naruszało porządku ruchu na drodze i nie narażało kogokolwiek na szkodę;
-- **2)** nie zakłócało spokoju publicznego przez powodowanie hałasu przekraczającego poziom określony w przepisach szczegółowych;
-- **3)** nie powodowało wydzielania szkodliwych substancji w stopniu przekraczającym wielkości określone w przepisach szczegółowych;
-- **4)** nie powodowało niszczenia drogi; [5) zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu;] <5) zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu, z wyłączeniem pojazdu w pełni zautomatyzowanego;>
-- **6)** nie powodowało zakłóceń radioelektrycznych w stopniu przekraczającym wielkości określone w przepisach szczegółowych.
+prędkość pojazdu holującego nie przekracza 30 km/h na obszarze zabudowanym i 60 km/h poza tym obszarem,
 
-1a. Pojazdy kategorii M oraz M powinny być wyposażone w homologowany ogranicznik prędkości ograniczający maksymalną prędkość tych pojazdów do 100 km/h, pojazdy kategorii N oraz N powinny być wyposażone w homologowany ogranicznik prędkości ograniczający maksymalną prędkość tych pojazdów do 90 km/h. Ogranicznik prędkości powinien być montowany przez producenta lub jednostkę przez niego upoważnioną.
+### 2)
 
-1b. Przepis ust. 1a nie dotyczy pojazdu:
+pojazd holujący ma włączone światła mijania również w okresie dostatecznej widoczności,
 
-- **1)** specjalnego lub używanego do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Krajowej Administracji Skarbowej wykorzystywanego przez Służbę Celno-Skarbową, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Więziennej, Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa i jednostek ochrony przeciwpożarowej;
-- **2)** zabytkowego;
-- **3)** nierozwijającego, ze względów konstrukcyjnych, prędkości większej niż odpowiednio określone w ust. 1a;
-- **4)** używanego do prowadzenia badań naukowych na drogach;
-- **5)** przeznaczonego wyłącznie do robót publicznych na obszarach miejskich;
-- **6)** kategorii N oraz M o maksymalnej masie całkowitej przekraczającej 10 t, zarejestrowanego przed dniem 1 stycznia 1988 r.;
-- **7)** kategorii N , M oraz M o maksymalnej masie całkowitej nieprzekraczającej 10 t, zarejestrowanego przed dniem 1 października 2001 r.
+### 3)
 
-1c. Minister właściwy do spraw transportu, mając na uwadze szczególne zagrożenia występujące podczas przewozu towarów niebezpiecznych, może określić w drodze rozporządzenia niższe niż ustalone w ust. 1a wartości ustawień urządzeń ograniczających maksymalną prędkość pojazdów przewożących niektóre towary niebezpieczne.
+w pojeździe holowanym znajduje się kierujący mający uprawnienie do kierowania tym pojazdem, chyba że pojazd jest holowany w sposób wykluczający potrzebę kierowania nim,
 
-1d. Pojazd silnikowy i pojazd szynowy może być wyposażony w blokadę alkoholową montowaną przez producenta urządzenia lub jego upoważnionego przedstawiciela.
+### 4)
 
-1e. Kalibrację blokady alkoholowej wykonuje się co 12 miesięcy. Pierwszą kalibrację blokady alkoholowej wykonuje się przed montażem urządzenia w pojeździe.
+pojazd holowany jest połączony z pojazdem holującym w sposób wykluczający odczepienie się w czasie jazdy; nie dotyczy to holowania motocykla, który powinien być połączony z pojazdem holującym połączeniem giętkim w sposób umożliwiający łatwe odczepienie,
 
-1f. Producent urządzenia lub jego upoważniony przedstawiciel przeprowadza kalibrację blokady alkoholowej i wystawia dokument potwierdzający jej kalibrację.
+### 5)
 
-1g. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wymagania funkcjonalne i wymogi techniczne blokady alkoholowej oraz wzór dokumentu potwierdzającego kalibrację blokady alkoholowej, uwzględniając dostępność rynkową takich urządzeń oraz konieczność zapewnienia bezpieczeństwa uczestników ruchu drogowego.
+pojazd holowany, z wyjątkiem motocykla, jest oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym, a w okresie niedostatecznej widoczności ma ponadto włączone światła pozycyjne; zamiast oznaczenia trójkątem odblaskowym pojazd holowany może wysyłać żółte sygnały błyskowe w sposób widoczny dla innych uczestników ruchu,
 
-2. Urządzenia i wyposażenie pojazdu, w szczególności zapewniające bezpieczeństwo ruchu i ochronę środowiska przed ujemnymi skutkami używania pojazdu, powinny być utrzymane w należytym stanie oraz działać sprawnie i skutecznie.
+### 6)
 
-3. Urządzenia służące do łączenia pojazdu ciągnącego z przyczepą powinny zapewnić bezpieczne ciągnięcie przyczepy o dopuszczalnej masie całkowitej przewidzianej do ciągnięcia przez ten pojazd, uniemożliwić samoczynne odłączenie się przyczepy oraz zapewnić prawidłowe działanie świateł i hamulców, o ile przyczepa jest w nie wyposażona.
+w pojeździe holowanym na połączeniu sztywnym jest sprawny co najmniej jeden układ hamulców, a w pojeździe holowanym na połączeniu giętkim - dwa układy,
 
-3a. Pojazd uczestniczący w ruchu powinien posiadać nadane przez producenta, z zastrzeżeniem art. 66a, cechy identyfikacyjne:
+### 7)
 
-- **1)** numer VIN albo numer nadwozia, podwozia lub ramy.
-- **2)** (uchylony)
+odległość między pojazdami wynosi nie więcej niż 3 m przy połączeniu sztywnym, a od 4 do 6 m przy połączeniu giętkim, przy czym połączenie jest oznakowane na przemian pasami białymi i czerwonymi albo zaopatrzone w chorągiewkę barwy żółtej lub czerwonej; przepisu tego nie stosuje się w razie holowania pojazdów jednostek wojskowych podporządkowanych Ministrom Obrony Narodowej oraz Spraw Wewnętrznych i Administracji.
 
-4. Zabrania się:
+### 2.
 
-- **1)** umieszczania wewnątrz i zewnątrz pojazdu wystających spiczastych albo ostrych części lub przedmiotów, które mogą spowodować uszkodzenie ciała osób jadących w pojeździe lub innych uczestników ruchu;
-- **1a)** stosowania w pojeździe przedmiotów wyposażenia i części wymontowanych z pojazdów, których ponowne użycie zagraża bezpieczeństwu ruchu drogowego lub negatywnie wpływa na środowisko;
-- **2)** stosowania w pojeździe przedmiotów wyposażenia i części nieodpowiadających warunkom określonym w przepisach szczegółowych;
-- **3)** umieszczania w pojeździe lub na nim urządzeń stanowiących obowiązkowe wyposażenie pojazdu uprzywilejowanego, wysyłających sygnały świetlne w postaci niebieskich lub czerwonych świateł błyskowych albo sygnał dźwiękowy o zmiennym tonie;
-- **4)** wyposażania pojazdu w urządzenie informujące o działaniu sprzętu kontrolno-pomiarowego używanego przez organy kontroli ruchu drogowego lub działanie to zakłócające albo przewożenia w pojeździe takiego urządzenia w stanie wskazującym na gotowość jego użycia; nie dotyczy to pojazdów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową, Służby Ochrony Państwa oraz Biura Nadzoru Wewnętrznego;
-- **5)** wymiany nadwozia pojazdu posiadającego cechy identyfikacyjne, o których mowa w ust. 3a pkt 1;
-- **6)** dokonywania zmian konstrukcyjnych zmieniających rodzaj pojazdu, z wyjątkiem:
-    - **a)** pojazdu, na którego typ zostały wydane: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznanie świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – dopuszczenie jednostkowe pojazdu, – uznanie dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwo dopuszczenia indywidualnego WE pojazdu, – dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, w tym: – – świadectwo homologacji typu UE pojazdu, – – świadectwo homologacji typu ONZ wydane dla pojazdu, – – świadectwo krajowej homologacji typu pojazdu, – – świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach, – – zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji, – – uznanie świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznanie świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – – świadectwo krajowej homologacji typu tramwaju, – – świadectwo krajowej homologacji typu trolejbusu,
-    - **b)** pojazdu, w którym zmian konstrukcyjnych dokonał przedsiębiorca prowadzący działalność gospodarczą w tym zakresie.
+Zabrania się holowania:
 
-4a. Przepis ust. 4 nie dotyczy pojazdu zabytkowego – w zakresie pkt 1–3, z zastrzeżeniem, że w przypadku pkt 3 obowiązuje zakaz korzystania z tych urządzeń podczas jazdy i postoju.
+### 1)
 
-4b. Potwierdzenia spełnienia odpowiednich warunków lub wymagań technicznych w odniesieniu do pojazdów, w których dokonano zmian konstrukcyjnych, o których mowa w przepisach wydanych na podstawie ust. 5, dokonuje służba techniczna wyznaczona przez Dyrektora Transportowego Dozoru Technicznego albo Dyrektor Transportowego Dozoru Technicznego.
+pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia,
 
-5. Minister właściwy do spraw transportu w porozumieniu z ministrami właściwym do spraw wewnętrznych oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki techniczne pojazdów oraz zakres ich niezbędnego wyposażenia.
+### 2)
 
-5a. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, warunki techniczne pojazdów wchodzących w skład kolejki turystycznej oraz zakres ich niezbędnego wyposażenia.
+pojazdu za pomocą połączenia giętkiego, jeżeli w pojeździe tym działanie układu hamulcowego uzależnione jest od pracy silnika, a silnik jest unieruchomiony,
 
-6. Ministrowie Obrony Narodowej oraz właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Sił Zbrojnych Rzeczypospolitej Polskiej.
+### 3)
 
-7. Minister właściwy do spraw wewnętrznych, Minister Obrony Narodowej, minister właściwy do spraw finansów publicznych oraz Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw transportu, określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Krajowej Administracji Skarbowej, Służby Więziennej [i straży pożarnej]< , jednostek ochrony przeciwpożarowej, podmiotów uprawnionych do wykonywania ratownictwa wodnego, podmiotów uprawnionych do wykonywania ratownictwa górskiego i Morskiej Służby Poszukiwania i Ratownictwa>.
+więcej niż jednego pojazdu, z wyjątkiem pojazdu członowego,
 
-8. W rozporządzeniach, o których mowa w ust. 5–7, należy uwzględnić w szczególności:
+### 4)
 
-- **1)** konieczność zapewnienia bezpiecznego korzystania z pojazdów;
-- **2)** zapewnienie możliwie najmniejszego negatywnego wpływu pojazdów na środowisko;
-- **3)** przepisy i porozumienia międzynarodowe dotyczące pojazdów, ich wyposażenia i części;
-- **4)** przeznaczenie pojazdów oraz sposób ich wykorzystania.
+pojazdem z przyczepą (naczepą),
 
-9. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw gospodarki oraz ministrem właściwym do spraw klimatu, kierując się względami technicznymi, zasadami bezpieczeństwa ruchu drogowego i wymogami ochrony środowiska oraz mając na celu zapobieganie nieprawidłowościom w obrocie przedmiotami wyposażenia i częściami wymontowanymi z pojazdów, określi, w drodze rozporządzenia, wykaz przedmiotów wyposażenia i części wymontowanych z pojazdów, których ponowne użycie zagraża bezpieczeństwu ruchu drogowego lub negatywnie wpływa na środowisko.
+### 5)
 
-**Art. 66a.**
+na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych.
 
-1. Cechy identyfikacyjne, o których mowa w art. 66 ust. 3a, nadaje i umieszcza producent.
+### 3.
 
-2. Starosta właściwy w sprawach rejestracji pojazdu wydaje decyzję o nadaniu cech identyfikacyjnych w przypadku pojazdu:
+W razie holowania pojazdu w sposób wykluczający potrzebę kierowania nim lub użycia hamulców, rzeczywista masa całkowita pojazdu holowanego nie może przekraczać rzeczywistej masy całkowitej pojazdu holującego.
 
-- **1)** zbudowanego przy wykorzystaniu nadwozia, podwozia lub ramy konstrukcji własnej, którego markę określa się jako „SAM”;
-- **2)** w którym dokonano wymiany ramy lub podwozia na odpowiednio ramę lub podwozie bez numeru fabrycznego;
-- **3)** odzyskanego po kradzieży, w którym cecha identyfikacyjna uległa zatarciu lub sfałszowaniu;
-- **4)** nabytego na licytacji publicznej lub od podmiotu wykonującego orzeczenie o przepadku pojazdu na rzecz Skarbu Państwa, w którym cecha identyfikacyjna uległa zatarciu lub sfałszowaniu;
-- **5)** w którym cecha identyfikacyjna uległa zatarciu lub sfałszowaniu, a prawomocnym orzeczeniem sądu zostało ustalone prawo własności pojazdu;
-- **6)** w którym cecha identyfikacyjna uległa skorodowaniu lub została zniszczona podczas wypadku drogowego albo podczas naprawy;
-- **7)** zabytkowego, w którym cecha identyfikacyjna nie została umieszczona.
+### Oddział 10 Ruch pojazdów w kolumnie
 
-3. Okoliczności, o których mowa w ust. 2 pkt 6 i 7, powinny być potwierdzone pisemną opinią rzeczoznawcy samochodowego, o którym mowa w art. 79a; opinia powinna wskazywać pierwotną cechę identyfikacyjną lub jednoznacznie wykluczać ingerencję w pole numerowe w celu umyślnego jej zniszczenia lub zafałszowania albo wskazywać na brak oryginalnie umieszczonej cechy identyfikacyjnej.
+### Art. 32.
 
-4. Umieszczone cechy identyfikacyjne starosta wpisuje w dowodzie rejestracyjnym i w karcie pojazdu, jeżeli była wydana.
+### 1.
 
-5. Minister właściwy do spraw transportu, uwzględniając znaczenie cech identyfikacyjnych dla zapewnienia pewności i bezpieczeństwa obrotu pojazdami, określi, w drodze rozporządzenia, szczegółowy sposób oraz tryb ich nadawania i umieszczania w przypadkach, o których mowa w ust. 2.
+Liczba pojazdów jadących w zorganizowanej kolumnie nie może przekraczać:
 
-**Art. 67.**
+### 1)
 
-1. Dyrektor Transportowego Dozoru Technicznego może, w drodze decyzji administracyjnej, w indywidualnym uzasadnionym przypadku, zezwolić na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, mając na uwadze:
+samochodów osobowych, motorowerów lub motocykli - 10,
 
-- **1)** konieczność zapewnienia bezpiecznego korzystania z pojazdu oraz bezpieczeństwa pieszych;
-- **2)** zapewnienie możliwie najmniejszego negatywnego wpływu pojazdu na środowisko i infrastrukturę drogową;
-- **3)** przeznaczenie pojazdu oraz sposób jego wykorzystania.
+### 2)
 
-1a. Nie wymaga się zezwolenia na odstępstwo, o którym mowa w ust. 1, w przypadku wykonywania przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, zajmujący się produkcją pojazdów, jazdy testowej dla niekompletnego samochodu ciężarowego albo niekompletnej przyczepy, jeśli przed kompletacją pojazdy te nie spełniają warunków technicznych w zakresie:
+rowerów jednośladowych - 15,
 
-- **1)** przedniego i tylnego zderzaka lub urządzenia ochronnego zabezpieczającego przed wjechaniem pod pojazd innego pojazdu;
-- **2)** osłon bocznych;
-- **3)** błotników;
-- **4)** świateł zewnętrznych pojazdu: kierunkowskazów bocznych i świateł odblaskowych bocznych, pozycyjnych bocznych oraz obrysowych przednich i tylnych.
+### 3)
 
-2. Rada powiatu może wprowadzić obowiązek wyposażenia pojazdów zaprzęgowych w hamulec uruchamiany z miejsca zajmowanego przez kierującego.
+pozostałych pojazdów - 5.
 
-3. Zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, jest wydawane na wniosek właściciela lub posiadacza pojazdu, po uiszczeniu opłaty. Maksymalna wysokość opłaty nie może przekroczyć 600 zł.
+### 2.
 
-4. Wniosek o wydanie zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, powinien zawierać:
+Odległość między jadącymi kolumnami nie może być mniejsza niż 500 m dla kolumn pojazdów samochodowych oraz 200 m dla kolumn pozostałych pojazdów.
 
-- **1)** dane pojazdu:
-    - **a)** rodzaj, markę, typ, model,
-    - **b)** numer VIN albo numer nadwozia, podwozia lub ramy;
+### 3.
 
-- **2)** dane dotyczące właściciela lub posiadacza pojazdu:
-    - **a)** imię i nazwisko (nazwę lub firmę),
-    - **b)** adres zamieszkania (siedziby);
+Odległość między rowerami poruszającymi się w kolumnie rowerów jednośladowych nie może przekroczyć 5 m.
 
-- **3)** zakres wnioskowanego odstępstwa od warunków technicznych, jakim powinien odpowiadać pojazd;
-- **4)** uzasadnienie wniosku;
-- **5)** nazwę i adres organu, który będzie dokonywał rejestracji pojazdu.
+### 4.
 
-5. Do wniosku, o którym mowa w ust. 3, należy dołączyć:
+Jazda w kolumnie nie zwalnia kierującego pojazdem od przestrzegania obowiązujących przepisów ruchu drogowego.
 
-- **1)** dowód własności pojazdu lub dokument potwierdzający powierzenie pojazdu, o którym mowa w art. 73 ust. 5;
-- **2)** zaświadczenie o przeprowadzonym badaniu technicznym pojazdu wskazujące, których warunków technicznych pojazd nie spełnia – jeżeli jest wymagane;
-- **3)** świadectwo zgodności WE albo świadectwo zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu – jeżeli są wymagane;
-- **4)** sprawozdanie z badań potwierdzające spełnienie odpowiednich warunków lub wymagań technicznych w celu indywidualnego dopuszczenia pojazdu w przypadku pojazdu, o którym mowa w art. 59 ust. 3 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia – jeżeli jest wymagane;
-- **5)** dokument sporządzony przez jednostkę uprawnioną wskazujący warunki lub wymagania techniczne obowiązujące na terytorium Rzeczypospolitej Polskiej, a niespełnione przez pojazd objęty dopuszczeniem jednostkowym udzielonym na dany pojazd przez właściwy organ państwa członkowskiego Unii Europejskiej, w przypadku pojazdu objętego procedurą uznania dopuszczenia jednostkowego przez Dyrektora Transportowego Dozoru Technicznego – jeżeli jest wymagany;
-- **6)** oświadczenie producenta pojazdu, opinię jednostki uprawnionej albo opinię rzeczoznawcy samochodowego, o którym mowa w art. 79a, dotyczące danych technicznych pojazdu w zakresie objętym wnioskiem – jeżeli jest wymagane;
-- **7)** dowód rejestracyjny kraju poprzedniej rejestracji pojazdu – jeżeli jest wymagany;
-- **8)** dowód uiszczenia opłaty, o której mowa w ust. 3;
-- **9)** wyraźne zdjęcia pojazdu przedstawiające: całą bryłę pojazdu z dwóch przekątnych z przodu i z tyłu, numer VIN albo numer nadwozia, podwozia lub ramy, umieszczony w sposób trwały na nadwoziu, ramie lub innym podobnym podstawowym elemencie konstrukcyjnym, tabliczkę znamionową pojazdu, umiejscowienie kolumny kierowniczej – jeżeli są wymagane.
+### 5.
 
-6. Zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, w przypadku pojazdów, o których mowa w art. 73 ust. 2a i 4, jest wydawane na wniosek, który powinien być złożony za pośrednictwem odpowiednio Ministra Obrony Narodowej albo ministra właściwego do spraw zagranicznych i zawierać:
+Przepisów ust. 1 i 2 nie stosuje się do pojazdów uprzywilejowanych oraz do pojazdów jednostek podporządkowanych Ministrom Spraw Wewnętrznych i Administracji oraz Obrony Narodowej.
 
-- **1)** dane pojazdu:
-    - **a)** rodzaj, markę, typ, model,
-    - **b)** numer VIN albo numer nadwozia, podwozia lub ramy;
+### 6.
 
-- **2)** dane dotyczące właściciela lub posiadacza pojazdu oraz okres jego pobytu na terytorium Rzeczypospolitej Polskiej;
-- **3)** zakres wnioskowanego odstępstwa od warunków technicznych, jakim powinien odpowiadać pojazd.
+Zabrania się wjeżdżania między jadące w kolumnie rowery jednośladowe oraz pojazdy, o których mowa w ust. 5.
 
-7. W przypadku pojazdów, o których mowa w art. 73 ust. 2a i 4, przepisów ust. 3 i 5 nie stosuje się.
+### 7.
 
-8. Właściciel lub posiadacz pojazdu w przypadku uzyskania zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, w przypadku pojazdów, o których mowa w art. 73 ust. 2a i 4, przekazuje zaświadczenie o przeprowadzonym badaniu technicznym pojazdu do Dyrektora Transportowego Dozoru Technicznego, za pośrednictwem odpowiednio Ministra Obrony Narodowej albo ministra właściwego do spraw zagranicznych, w terminie 30 dni od dnia wydania tego zezwolenia.
+Ministrowie Spraw Wewnętrznych i Administracji oraz Obrony Narodowej, w porozumieniu z Ministrem Transportu i Gospodarki Morskiej, określą, w drodze zarządzenia, sposób organizacji i oznakowania kolumn pojazdów jednostek podporządkowanych Ministrom Spraw Wewnętrznych i Administracji oraz Obrony Narodowej.
 
-9. Zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd w zakresie mas, nacisków osi lub wymiarów pojazdu, nie zwalnia z obowiązku uzyskania zezwolenia na przejazd pojazdu nienormatywnego, o którym mowa w art. 64 ust. 1 pkt 1.
+### Oddział 11 Przepisy dodatkowe o ruchu rowerów, motorowerów oraz pojazdów zaprzęgowych
 
-10. Opłata, o której mowa w ust. 3, stanowi przychód Transportowego Dozoru Technicznego.
+### Art. 33.
 
-11. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłaty za wydanie zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, mając na uwadze ponoszone koszty związane z jego wydaniem oraz usprawnienie procedur w tym zakresie.
+### 1.
 
-**Art. 68.** (uchylony)
+Kierujący rowerem, korzystając z drogi (ścieżki) dla rowerów i pieszych, jest obowiązany zachować szczególną ostrożność wobec pieszego idącego taką drogą i ustępować mu pierwszeństwa.
 
-**Art. 68a.** (uchylony)
+### 2.
 
-**Art. 69.** (uchylony)
+Dziecko w wieku do lat 7 może być przewożone na rowerze, pod warunkiem że jest ono umieszczone na dodatkowym siodełku zapewniającym bezpieczną jazdę.
 
-**Art. 70.** (uchylony)
+### 3.
 
-#### Rozdział 1a (uchylony)
+Kierującemu rowerem lub motorowerem zabrania się:
 
-#### Rozdział 1b (uchylony)
+### 1)
 
-#### Rozdział 1c (uchylony)
+jazdy po jezdni obok innego uczestnika ruchu,
 
-#### Rozdział 2 Warunki dopuszczenia pojazdów do ruchu
+### 2)
 
-**Art. 71.**
+jazdy bez trzymania co najmniej jednej ręki na kierownicy oraz nóg na pedałach lub podnóżkach,
 
-1. Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest dowód rejestracyjny albo pozwolenie czasowe. Przepis ten nie dotyczy pojazdów, o których mowa w ust. 3.
+### 3)
 
-2. Pojazdy określone w ust. 1 są dopuszczone do ruchu, jeżeli odpowiadają warunkom określonym w art. 66 oraz są zarejestrowane i zaopatrzone w zalegalizowane tablice (tablicę) rejestracyjne.
+czepiania się pojazdów.
 
-2a. Pojazd elektryczny i pojazd napędzany wodorem posiadają tablice rejestracyjne wskazujące na rodzaj paliwa wykorzystywanego do ich napędu.
+### 4.
 
-3. Pojazd niewymieniony w ust. 1, przyczepa motocyklowa oraz przyczepa specjalna przeznaczona do ciągnięcia przez ciągnik rolniczy lub pojazd wolnobieżny jest dopuszczony do ruchu, jeżeli odpowiada warunkom określonym w art. 66.
+Na przejeździe dla rowerzystów, kierującemu rowerem zabrania się:
 
-4. [Zespół pojazdów składający się z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t i przyczepy albo autobusu i przyczepy może być dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym pojazdu silnikowego, dokonanej na podstawie przeprowadzonego badania technicznego.] <Zespół pojazdów składający się z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t i przyczepy albo autobusu i przyczepy może być dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym pojazdu silnikowego, dokonanej na podstawie informacji zawartej w jednym z dokumentów, o którym mowa w art. 72 ust. 1 pkt 3, albo na podstawie przeprowadzonego badania technicznego.> Przepis ten nie dotyczy motocykla.
+### 1)
 
-4a. Przepis ust. 4 dotyczy także ciągnika rolniczego i pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej. W przypadku ciągnika rolniczego może być on dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym o ograniczeniu prędkości konstrukcyjnej do 25 km/h.
+wjeżdżania bezpośrednio przed jadący pojazd,
 
-5. Pojazd zarejestrowany za granicą dopuszcza się do ruchu, jeżeli odpowiada wymaganym warunkom technicznym i jest zaopatrzony w tablice rejestracyjne z numerem rejestracyjnym składającym się z liter alfabetu łacińskiego i cyfr arabskich, z zastrzeżeniem art. 59 ust. 2 i 3, a kierujący pojazdem ma przy sobie dokument stwierdzający dokonanie rejestracji.
+### 2)
 
-5a. (uchylony)
+zwalniania lub zatrzymywania się bez uzasadnionej przyczyny.
 
-6. Pojazd sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej, po dokonaniu zwolnienia pojazdu przez naczelnika urzędu celno-skarbowego do procedury dopuszczenia do obrotu, dopuszcza się do ruchu na okres 30 dni.
+### 5.
 
-7. (uchylony)
+Korzystanie z chodnika przez kierującego rowerem jest dozwolone jedynie w razie braku drogi (ścieżki) dla rowerów i niemożności korzystania z jezdni, jeżeli dozwolony jest na niej ruch pojazdów samochodowych z prędkością większą niż określona w art. 20 ust. 1. Kierujący rowerem, korzystając z chodnika, jest obowiązany zachować szczególną ostrożność oraz ustępować pierwszeństwa pieszemu.
 
-**Art. 72.**
+### Art. 34.
 
-1. Rejestracji dokonuje się na podstawie:
+### 1.
 
-- **1)** dowodu własności pojazdu lub dokumentu potwierdzającego powierzenie pojazdu, o którym mowa w art. 73 ust. 5;
-- **2)** (uchylony)
-- **3)** jednego z dokumentów:
-    - **a)** świadectwa zgodności WE wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu,
-    - **b)** świadectwa zgodności wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu,
-    - **c)** świadectwa zgodności, o którym mowa w art. 27 ust. 1 pkt 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu,
-    - **d)** dopuszczenia jednostkowego pojazdu wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu,
-    - **e)** świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu,
-    - **f)** uznania dopuszczenia jednostkowego pojazdu,
-    - **g)** uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia,
-    - **h)** świadectwa dopuszczenia indywidualnego WE pojazdu,
-    - **i)** świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, wraz z oświadczeniem zawierającym dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu – jeżeli są wymagane; świadectwa zgodności WE, świadectwa zgodności oraz oświadczenia zawierające dane i informacje o pojeździe niezbędne do rejestracji i ewidencji pojazdu mogą być podpisane podpisem odbitym sposobem mechanicznym;
+Do zaprzęgu może być używane tylko zwierzę niepłochliwe, odpowiednio sprawne fizycznie i dające sobą kierować.
 
-- **4)** zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli jest wymagane albo dowodu rejestracyjnego pojazdu lub innego dokumentu wydanego przez właściwy organ państwa członkowskiego, potwierdzającego wykonanie oraz termin ważności badania technicznego;
-- **5)** dowodu rejestracyjnego, jeżeli pojazd był zarejestrowany;
-- **6)** dowodu odprawy celnej przywozowej, jeżeli pojazd został sprowadzony z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej i jest rejestrowany po raz pierwszy;
-- **6a)** dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju albo dokumentu potwierdzającego brak obowiązku zapłaty akcyzy na terytorium kraju albo zaświadczenia stwierdzającego zwolnienie od akcyzy, w rozumieniu przepisów o podatku akcyzowym, jeżeli samochód osobowy, pojazd rodzaju „samochodowy inny”, podrodzaj „czterokołowiec” (kategoria homologacyjna L7e) lub podrodzaj „czterokołowiec lekki” (kategoria homologacyjna L6e), samochód ciężarowy (kategoria homologacyjna N1), podrodzaj „furgon”, „furgon/podest”, „ciężarowo-osobowy”, „terenowy”, „wielozadaniowy” lub „van” lub samochód specjalny (kategoria homologacyjna M1 i N1), został sprowadzony z terytorium państwa członkowskiego Unii Europejskiej i jest rejestrowany po raz pierwszy.
-- **7)** (uchylony)
-- **8)** (uchylony)
-- **9)** (uchylony) 1a. (uchylony) 1b. W przypadku nabycia od wyspecjalizowanego salonu sprzedaży, w rozumieniu przepisów o podatku akcyzowym, samochodu osobowego lub pojazdu, o którym mowa w ust. 1 pkt 6a, dokument potwierdzający zapłatę akcyzy na terytorium kraju, dokument potwierdzający brak obowiązku zapłaty akcyzy na terytorium kraju albo zaświadczenie stwierdzające zwolnienie od akcyzy samochodu osobowego może być zastąpione oświadczeniem wyspecjalizowanego salonu sprzedaży, że posiada odpowiednio oryginał lub kopię dokumentu potwierdzającego zapłatę akcyzy na terytorium kraju, oryginał lub kopię dokumentu potwierdzającego brak obowiązku zapłaty akcyzy na terytorium kraju od tego samochodu osobowego lub pojazdu albo oryginał lub kopię zaświadczenia stwierdzającego zwolnienie od akcyzy samochodu osobowego.
+### 2.
 
-2. Wymagania ust. 1 nie dotyczą:
+Kierujący pojazdem zaprzęgowym jest obowiązany utrzymywać pojazd i zaprzęg w takim stanie, aby mógł nad nimi panować.
 
-- **1)** pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 3;
-- **1a)** pojazdu, który był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i od ostatniej rejestracji nie nastąpiła zmiana właściciela tego pojazdu, w przypadku gdy przerejestrowanie pojazdu jest dokonywane na wniosek właściciela tego pojazdu w związku ze zmianą jego miejsca zamieszkania (siedziby) – w zakresie dowodu własności pojazdu, o którym mowa w ust. 1 pkt 1;
-- **2)** pojazdu zakupionego po przepadku na rzecz Skarbu Państwa lub na rzecz jednostki samorządu terytorialnego – w zakresie ust. 1 pkt 5; <2a) pojazdu, którego własność przeszła na gminę na podstawie art. 50a ust. 2 zdanie drugie – w zakresie ust. 1 pkt 5;
-- **2b)** pojazdu, wobec którego sąd orzekł przepadek na rzecz powiatu w związku z wnioskiem, o którym mowa w art. 130a ust. 10 zdanie pierwsze – w zakresie ust. 1 pkt 5;>
-- **3)** pojazdu zakupionego od Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej lub Sił Zbrojnych Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 5;
-- **4)** (uchylony)
-- **5)** pojazdu wycofanego czasowo z ruchu – w zakresie ust. 1 pkt 5; w tym przypadku zamiast dowodu rejestracyjnego wymaga się przedstawienia decyzji o czasowym wycofaniu pojazdu z ruchu;
-- **6)** (uchylony)
-- **7)** pojazdu wyrejestrowanego, o którym mowa w art. 79 ust. 4 pkt 3 – w przypadku powtórnej rejestracji – w zakresie ust. 1 pkt 5;
-- **8)** pojazdu, o którym mowa w art. 81 ust. 4 pkt 1 – w zakresie ust. 1 pkt 4; <9) pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej – w zakresie ust. 1 pkt 4, jeżeli informacja o aktualnym pozytywnym wyniku badania technicznego pojazdu jest zamieszczona w centralnej ewidencji pojazdów.> 2a. W przypadku pojazdu sprowadzanego z terytorium państwa niebędącego państwem członkowskim zamiast dowodu rejestracyjnego, o którym mowa w ust. 1 pkt 5, dopuszcza się przedstawienie innego dokumentu stwierdzającego rejestrację pojazdu, wydanego przez organ właściwy do rejestracji pojazdów w tym państwie.
+### 3.
 
-2b. W przypadku pojazdu zabytkowego, zamiast dowodu rejestracyjnego, dopuszcza się przedstawienie oświadczenia właściciela pojazdu, złożonego pod rygorem odpowiedzialności karnej za fałszywe zeznania, że nie posiada dowodu rejestracyjnego.
+Bezpośrednio jeden za drugim może jechać nie więcej niż 5 pojazdów zaprzęgowych. Odległość między piątym pojazdem a następnym nie może być mniejsza niż 200 m.
 
-3. Dodatkowo wymaga się dokumentu potwierdzającego spełnienie wymagań, o których mowa w art. 2 pkt 39 – w stosunku do pojazdów zabytkowych.
+### 4.
 
-3a. (uchylony) <3b. Rejestracji można dokonać również na podstawie danych z dokumentów wymienionych w ust. 1 i 1b–3, zgromadzonych w centralnej ewidencji pojazdów, jeżeli dane te są dostępne w tej ewidencji.>
+Kierujący pojazdem zaprzęgowym przy wjeżdżaniu na drogę twardą w miejscu, gdzie nie ma dostatecznej widoczności drogi, jest obowiązany prowadzić zwierzę za uzdę.
 
-4. W przypadku utraty dowodu rejestracyjnego albo pozwolenia czasowego pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej organ rejestrujący dokonuje weryfikacji danych zawartych w utraconym dokumencie w centralnej ewidencji pojazdów i pobiera z tej ewidencji dane niezbędne do rejestracji pojazdu.
+### 5.
 
-5. W przypadku utraty dowodu rejestracyjnego pojazdu zarejestrowanego za granicą zamiast tego dokumentu należy przedstawić jego wtórnik albo dokument wystawiony przez organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu, potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu. Jeżeli organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu za granicą odmówił wydania wtórnika dowodu rejestracyjnego albo dokumentu potwierdzającego dane zawarte w utraconym dokumencie, starosta może wystąpić do tego organu o potwierdzenie tych danych. Uzyskane potwierdzenie tych danych, w postaci papierowej albo elektronicznej, zastępuje dokument potwierdzający dane zawarte w utraconym dokumencie niezbędne do rejestracji pojazdu.
+Kierującemu pojazdem zaprzęgowym zabrania się:
 
-6. W przypadku utraty dowodu rejestracyjnego pojazdu wywiezionego z kraju, uprzednio zarejestrowanego na terytorium Rzeczypospolitej Polskiej, organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej, na wniosek właściciela pojazdu, wydaje zaświadczenie potwierdzające dane zawarte w utraconym dowodzie rejestracyjnym. <Art. 72a. 1. W przypadku gdy pojazd wcześniej zarejestrowany w innym państwie członkowskim jest rejestrowany po raz pierwszy na terytorium Rzeczypospolitej Polskiej, organ rejestrujący za pośrednictwem Krajowego Punktu Kontaktowego, o którym mowa w art. 80k ust. 1, pobiera dane pojazdu z bazy danych państwa członkowskiego, w którym pojazd był wcześniej zarejestrowany, jeżeli dane te są dostępne.
+### 1)
 
-2. Dane, o których mowa w ust. 1, organ rejestrujący porównuje z odpowiednimi danymi zamieszczonymi w dokumentach, o których mowa w art. 72 ust. 1 i 1b–3.
+przeciążania zwierzęcia,
 
-3. Przepisy ust. 1 i 2 stosuje się wyłącznie w zakresie danych udostępnianych przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l.>
+### 2)
 
-**Art. 73.**
+jazdy obok innego uczestnika ruchu na jezdni,
 
-1. Rejestracji pojazdu dokonuje, na wniosek właściciela pojazdu, starosta właściwy ze względu na miejsce jego stałego zamieszkania (siedzibę) lub czasowego zamieszkania, wydając decyzję o rejestracji pojazdu, dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne. [1a. Składający wniosek o rejestrację pojazdu może wnioskować o zachowanie dotychczasowego numeru rejestracyjnego, w tym tablic (tablicy) rejestracyjnych, jeżeli pojazd był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i posiada tablice (tablicę) rejestracyjne zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a oraz utrzymane w należytym stanie i czytelne. W takim przypadku starosta, dokonując rejestracji pojazdu, wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny oraz dokonuje legalizacji dotychczasowych tablic (tablicy) rejestracyjnych. Jeżeli tablice (tablica) rejestracyjne nie są zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a albo nie są utrzymane w należytym stanie, albo nie są czytelne, stosuje się przepis ust. 1.] <1a. Składający wniosek o rejestrację pojazdu może wnioskować o zachowanie dotychczasowego numeru rejestracyjnego, w tym tablic (tablicy) rejestracyjnych, jeżeli pojazd był już zarejestrowany na terytorium Rzeczypospolitej Polskiej i posiada tablice (tablicę) rejestracyjne zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a. Do wniosku o rejestrację pojazdu właściciel pojazdu załącza oświadczenie, że posiada tablice (tablicę) rejestracyjne utrzymane w należytym stanie i czytelne, a umieszczony na nich znak legalizacyjny nie jest uszkodzony. Starosta, dokonując rejestracji pojazdu, wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny. Jeżeli do wniosku o rejestrację pojazdu nie dołączono oświadczenia albo posiadane tablice (tablica) rejestracyjne nie są zgodne z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a, stosuje się przepis ust. 1.> <1aa. Oświadczenie, o którym mowa w ust. 1a zdanie drugie, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.> <1ab. Wniosek, o którym mowa w ust. 1, składa się:
+### 3)
 
-- **1)** za pomocą usługi udostępnionej przez ministra właściwego do spraw informatyzacji umożliwiającej złożenie wniosku o rejestrację pojazdu, za pośrednictwem tego ministra, za pomocą środków komunikacji elektronicznej, po uwierzytelnieniu na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703) lub
-- **2)** w formie dokumentu utrwalonego w postaci elektronicznej, przy użyciu formularza utrwalonego w postaci elektronicznej wypełnianego przez starostę na podstawie danych podanych przez wnioskodawcę, dokumentów, o których mowa w art. 72 ust. 1 i 1b–3, lub danych udostępnionych w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów, podpisanego przez wnioskodawcę. 1ac. Podpisanie wniosku, o którym mowa w ust. 1ab pkt 2, odbywa się za pomocą urządzenia umożliwiającego złożenie podpisu odwzorowującego elektronicznie podpis własnoręczny. 1ad. Złożenie podpisu pod wnioskiem o rejestrację pojazdu za pomocą urządzenia, o którym mowa w ust. 1ac, jest równoznaczne ze złożeniem podpisu własnoręcznego. 1ae. Urządzenie, o którym mowa w ust. 1ac, zapewnia integralność danych stanowiących odwzorowanie podpisu własnoręcznego wnioskodawcy z dokumentem utrwalonym w postaci elektronicznej stanowiącym wniosek o rejestrację pojazdu. 1af. W przypadku braku możliwości złożenia podpisu w sposób, o którym mowa w ust. 1ac, na wydruku dokumentu utrwalonego w postaci elektronicznej, o którym mowa w ust. 1ab pkt 2, składa się podpis własnoręczny. 1ag. Minister właściwy do spraw informatyzacji może udostępnić usługę, o której mowa w ust. 1ab pkt 1, umożliwiającą złożenie wniosku o rejestrację pojazdu przy użyciu:
-- **1)** aplikacji mObywatel w rozumieniu art. 2 pkt 1 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019) albo,
-- **2)** usługi sieciowej. 1ah. Imię i nazwisko składającego wniosek o rejestrację pojazdu, jego numer PESEL oraz numer telefonu komórkowego, adres poczty elektronicznej lub adres do doręczeń elektronicznych za jego zgodą mogą być przekazane do rejestru danych kontaktowych osób fizycznych, o którym mowa w rozdziale 3a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. 1ai. W przypadku, o którym mowa w:
-- **1)** ust. 1ab pkt 1, dane dotyczące wniosku oraz dane zamieszczone we wniosku są zapisywane w centralnej ewidencji pojazdów,
-- **2)** ust. 1ab pkt 2, starosta wprowadza dane do centralnej ewidencji pojazdów – w zakresie i na zasadach określonych w art. 80b–80bb. 1aj. W przypadku, o którym mowa w ust. 1ab pkt 1, administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1ak. W przypadku, o którym mowa w ust. 1ab pkt 1, jeżeli starosta stwierdzi brak właściwości w zakresie rejestracji pojazdu, powiadamia o tym administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów, wskazując organ właściwy. Administrator danych i informacji zgromadzonych w centralnej ewidencji pojazdów przekazuje właściwemu staroście informację o złożonym wniosku o rejestrację pojazdu przez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący tę ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. 1al. W przypadku zachowania dotychczasowego numeru rejestracyjnego, o którym mowa w ust. 1a zdanie pierwsze, złożenie wniosku o rejestrację pojazdu za pomocą usługi udostępnionej przez ministra właściwego do spraw informatyzacji, o której mowa w ust. 1ab pkt 1, stanowi potwierdzenie zgodności kopii dokumentów dołączonych do wniosku o rejestrację pojazdu z ich oryginałami.> 1b. Właściciel albo podmiot, o którym mowa w ust. 2 i 5, będący posiadaczami pojazdu samochodowego zarejestrowanego na terytorium Rzeczypospolitej Polskiej, z wyłączeniem motocykla, mogą wnioskować do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną. Dodatkowa tablica rejestracyjna posiada ten sam numer rejestracyjny co numer rejestracyjny pojazdu samochodowego. W przypadku gdy pojazd samochodowy nie posiada tablic rejestracyjnych zgodnych z przepisami wydanymi na podstawie art. 76 ust. 1 pkt 1 lit. a, organ rejestrujący wydaje nową decyzję o rejestracji pojazdu wraz z kompletem zalegalizowanych tablic rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu samochodowego i nowym dowodem rejestracyjnym oraz dodatkową zalegalizowaną tablicę rejestracyjną.
+pozostawiania pojazdu nie zabezpieczonego przed ruszeniem,
 
-1c. Dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w ust. 1b, organ rejestrujący wydaje po:
+### 4)
 
-- **1)** dokonaniu czasowej rejestracji pojazdu z urzędu lub przy wydaniu dowodu rejestracyjnego, jeżeli pojazd samochodowy jest rejestrowany przez ten organ, albo
-- **2)** zarejestrowaniu pojazdu samochodowego przez ten organ.
+jazdy pojazdem na płozach bez dzwonków lub grzechotek.
 
-1d. Numer rejestracyjny na tablicach (tablicy) rejestracyjnych stanowią litery i cyfry (cyfra). Numer ten składa się odpowiednio z wyróżnika województwa lub powiatu i wyróżnika pojazdu albo wyróżnika indywidualnego pojazdu, określonych w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1 lit. a i c.
+### Rozdział 4 Ruch zwierząt
 
-1e. Organ rejestrujący wydaje decyzję o odmowie rejestracji pojazdu:
+### Art. 35.
 
-- **1)** w przypadku braku pozytywnej weryfikacji dokumentów, o których mowa w art. 72 ust. 1, z uwzględnieniem przy tej weryfikacji art. 72 ust. 1b–3, 4 i 5 <oraz art. 72a> ;
-- **2)** jeżeli na podstawie przepisów ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2023 r. poz. 1355) uzyskał informację, że zgłoszony do rejestracji pojazd został skradziony, przywłaszczony, utracony lub jest poszukiwany jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
-- **3)** jeżeli w odpowiedzi na jego pytanie skierowane do organu rejestrującego właściwego ze względu na miejsce ostatniej rejestracji pojazdu za granicą lub punktu kontaktowego wyznaczonego przez państwo członkowskie Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, uzyskał potwierdzenie, że status prawny pojazdu uprzednio zarejestrowanego w tym państwie powoduje przeszkodę do rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej.
+### 1.
 
-2. Rejestracji pojazdu, którego właścicielem jest przedsiębiorstwo wielozakładowe lub inny podmiot, w skład którego wchodzą wydzielone jednostki organizacyjne, może dokonać starosta właściwy ze względu na siedzibę zakładu lub jednostki, na wniosek kierownika zakładu lub wydzielonej jednostki organizacyjnej upoważnionego przez właściciela.
+Jazda wierzchem i pędzenie zwierząt powinny się odbywać po drodze przeznaczonej do pędzenia zwierząt. W razie braku takiej drogi jazda wierzchem i pędzenie zwierząt mogą odbywać się po poboczu, a jeżeli brak jest pobocza - po jezdni.
 
-2a. Rejestracji pojazdów należących do członków obcych sił zbrojnych, personelu cywilnego i członków rodzin, oraz pojazdów ich wykonawców kontraktowych, przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, na wniosek władz wojskowych tych sił zbrojnych, dokonuje starosta właściwy ze względu na miejsce pobytu tych osób na terytorium Rzeczypospolitej Polskiej.
+### 2.
 
-2b. Rejestracji pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, dokonuje właściwy organ Sił Zbrojnych Rzeczypospolitej Polskiej. Organ ten wydaje dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne, chyba że dla danego pojazdu tablice (tablica) rejestracyjne nie są wymagane, a numer rejestracyjny umieszcza się bezpośrednio na pojeździe.
+Do jazdy wierzchem i pędzenia zwierząt stosuje się odpowiednio przepisy art. 34 ust. 1 i 2 oraz przepisy o ruchu pojazdów.
 
-3. Rejestracji pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową dokonują właściwe organy tych jednostek. Organy te wydają dowód rejestracyjny i zalegalizowane tablice (tablicę) rejestracyjne, chyba że dla danego pojazdu tablice (tablica) rejestracyjne nie są wymagane, a numer rejestracyjny umieszcza się bezpośrednio na pojeździe.
+### Art. 36.
 
-3a. Wytwórca blankietów dowodów rejestracyjnych, pozwoleń czasowych i innych dokumentów wymaganych do rejestracji pojazdów, a także starostowie przekazują odpłatnie wojewodzie mazowieckiemu odpowiednio: blankiety dowodów rejestracyjnych, pozwoleń czasowych i innych dokumentów wymaganych do rejestracji pojazdów, a także zalegalizowane tablice rejestracyjne niezbędne do rejestracji, o której mowa w art. 76 ust. 4. Informacje dotyczące przekazanych blankietów dowodów rejestracyjnych, pozwoleń czasowych i innych dokumentów wymaganych do rejestracji oraz tablic rejestracyjnych podlegają ochronie zgodnie z przepisami o ochronie informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”.
+### 1.
 
-4. Rejestracji pojazdu należącego do przedstawicielstwa dyplomatycznego, urzędu konsularnego i misji specjalnej państw obcych lub organizacji międzynarodowej, a także ich personelu korzystającego z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, dokonuje wojewoda mazowiecki na wniosek ministra właściwego do spraw zagranicznych.
+Zabrania się jazdy wierzchem:
 
-5. W razie powierzenia pojazdu przez zagraniczną osobę fizyczną lub prawną podmiotowi polskiemu, pojazd ten jest rejestrowany przez określony w ust. 1 organ właściwy ze względu na miejsce zamieszkania (siedzibę) podmiotu polskiego.
+### 1)
 
-**Art. 73a.**
+bez uzdy,
 
-1. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na prawach powiatu:
+### 2)
 
-- **1)** prowadzi ewidencję tablic rejestracyjnych indywidualnych wydanych na terenie województwa;
-- **2)** wyznacza w ramach województwa dla każdego organu rejestrującego pojemność rejestracyjną dla tablic rejestracyjnych:
-    - **a)** tymczasowych oraz
-    - **b)** samochodowych jednorzędowych zmniejszonych i tymczasowych, dla pojazdu posiadającego zmniejszone wymiary miejsca konstrukcyjnie przeznaczonego do umieszczenia tablicy rejestracyjnej.
+obok innego uczestnika ruchu na jezdni,
 
-2. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w postaci elektronicznej lub papierowej.
+### 3)
 
-3. Wyznaczone w ramach województwa dla każdego organu rejestrującego pojemności rejestracyjne dla tablic rejestracyjnych, o których mowa w ust. 1 pkt 2, a także numery rejestracyjne tablic rejestracyjnych indywidualnych wpisane do ewidencji tych tablic zawierają informację o wyróżniku województwa i wyróżnikach pojazdów albo wyróżnikach indywidualnych pojazdów.
+po drodze oznaczonej znakami z numerem drogi międzynarodowej oraz po drodze, na której obowiązuje zakaz ruchu pojazdów zaprzęgowych,
 
-4. Wpisanie wyróżnika indywidualnego pojazdu do ewidencji tablic rejestracyjnych indywidualnych następuje na wniosek organu rejestrującego, o ile identyczny wyróżnik indywidualny pojazdu nie został nadany na terenie województwa dla innego pojazdu.
+### 4)
 
-5. Właściwy miejscowo dla siedziby sejmiku województwa prezydent miasta na prawach powiatu udostępnia organom rejestrującym informacje z ewidencji tablic rejestracyjnych indywidualnych oraz pojemności rejestracyjne, o których mowa w ust. 1 pkt 2.
+po drodze twardej w okresie niedostatecznej widoczności,
 
-6. Ewidencję tablic rejestracyjnych indywidualnych prowadzi się w sposób zabezpieczający przed zniszczeniem oraz dostępem osób nieuprawnionych. Wyznaczenia i udostępnienia pojemności rejestracyjnych, o których mowa w ust. 1 pkt 2, dokonuje się w sposób zabezpieczający przed dostępem osób nieuprawnionych. Art. 73aa. 1. Właściciel pojazdu jest obowiązany złożyć wniosek o jego rejestrację w terminie 30 dni od dnia:
+### 5)
 
-- **1)** nabycia pojazdu na terytorium Rzeczypospolitej Polskiej;
-- **2)** dopuszczenia do obrotu przez organ Krajowej Administracji Skarbowej pojazdu sprowadzonego z terytorium państwa niebędącego państwem członkowskim Unii Europejskiej;
-- **3)** sprowadzenia pojazdu na terytorium Rzeczypospolitej Polskiej z terytorium państwa członkowskiego Unii Europejskiej.
+po drodze twardej osobie w wieku poniżej 17 lat.
 
-2. W przypadku nabycia pojazdu, o którym mowa w ust. 1 pkt 1, w drodze spadku termin na złożenie wniosku o rejestrację pojazdu, o którym mowa w ust. 1, wynosi 60 dni od dnia prawomocnego orzeczenia sądu o stwierdzeniu nabycia spadku albo sporządzenia aktu poświadczenia dziedziczenia.
+### 2.
 
-2a. W przypadku nabycia pojazdu, o którym mowa w ust. 1 pkt 1, wycofanego czasowo z ruchu termin, o którym mowa w ust. 1, biegnie od dnia, w którym upłynął okres czasowego wycofania pojazdu z ruchu określony w decyzji o czasowym wycofaniu pojazdu z ruchu.
+Jeździec może prowadzić luzem tylko jedno zwierzę po swojej prawej stronie.
 
-3. W przypadku gdy właścicielem pojazdu, o którym mowa w ust. 1, jest przedsiębiorca prowadzący na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w zakresie obrotu pojazdami, obowiązany jest do złożenia wniosku o rejestrację pojazdu, o którym mowa w ust. 1, w terminie 90 dni.
+### Art. 37.
 
-4. Przepisu ust. 1 nie stosuje się do podmiotu uprawnionego, o którym mowa w art. 80s ust. 2, w odniesieniu do pojazdów, dla których ten podmiot uprawniony posiada ważną decyzję o profesjonalnej rejestracji pojazdów.
+### 1.
 
-5. Przepisów ust. 1, 2 i 3 nie stosuje się w przypadku, gdy właścicielem nowego pojazdu jest przedsiębiorca prowadzący na terytorium Rzeczypospolitej Polskiej działalność gospodarczą w zakresie obrotu pojazdami lub produkcji pojazdów.
+Zwierzęta w stadzie mogą być pędzone po drodze tylko pod odpowiednim nadzorem. Zwierzę pojedyncze może być prowadzone tylko na uwięzi.
 
-5a. Przepisów ust. 1 nie stosuje się, w przypadku gdy właścicielem pojazdu:
+### 2.
 
-- **1)** przejętego na podstawie art. 50a ust. 2 zdanie drugie jest gmina;
-- **2)** przejętego na podstawie orzeczenia sądu wydanego w związku z wnioskiem, o którym mowa w art. 130a ust. 10 zdanie pierwsze, jest powiat;
-- **3)** nabytego w drodze spadku jest gmina albo Skarb Państwa;
-- **4)** przejętego po likwidacji przedsiębiorstwa jest gmina albo Skarb Państwa;
-- **5)** przejętego na podstawie art. 44b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383) jest Skarb Państwa.
+Poganiacz zwierząt jest obowiązany:
 
-6. Przepisu ust. 1 pkt 1 nie stosuje się, w przypadku gdy przed upływem terminów, o których mowa w ust. 1, 2 albo 3, właścicielowi pojazdu zostały wydane:
+### 1)
 
-- **1)** zaświadczenie o demontażu pojazdu, o którym mowa w:
-    - **a)** art. 79 ust. 2,
-    - **b)** art. 24 ust. 1 pkt 2 albo art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz.
+iść po lewej stronie pędzonych zwierząt,
 
-- **2056)** ;
-- **2)** zaświadczenie o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 albo art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji;
-- **3)** zaświadczenie potwierdzające zgłoszenie kradzieży pojazdu;
-- **4)** postanowienie o umorzeniu postępowania przygotowawczego w sprawie kradzieży pojazdu.
+### 2)
 
-6a. Przepisu ust. 1 pkt 1 nie stosuje się, w przypadku gdy przed upływem terminów, o których mowa w ust. 1, 2 albo 3, nastąpiła udokumentowana trwała i zupełna utrata posiadania pojazdu bez zmiany w zakresie prawa własności, o której mowa w art. 79 ust. 1 pkt 5.
+w okresie niedostatecznej widoczności nieść latarkę z widocznym z odległości co najmniej 150 m światłem białym.
 
-7. Przepisu ust. 1 nie stosuje się, w przypadku gdy właściciel pojazdu dokona zbycia tego pojazdu przed upływem terminów, o których mowa w ust. 1, 2 albo 3.
+### 3.
 
-**Art. 73b.**
+Zwierzęta mogą być prowadzone luzem przy pojeździe zaprzęgowym z jego prawej strony, w liczbie nie większej niż 2 sztuki.
 
-1. Minister właściwy do spraw informatyzacji oraz minister właściwy do spraw transportu wyznaczają i prowadzą punkty kontaktowe umożliwiające wymianę informacji o pojazdach zarejestrowanych z państwami członkowskimi Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronami umowy o Europejskim Obszarze Gospodarczym.
+### 4.
 
-2. Urząd obsługujący ministra właściwego do spraw informatyzacji oraz urząd obsługujący ministra właściwego do spraw transportu informują o wyznaczonych punktach kontaktowych, o których mowa w ust. 1, administracje państw członkowskich, o których mowa w ust. 1, właściwe w sprawach rejestracji lub ewidencji pojazdów, podając:
+Zabrania się:
 
-- **1)** nazwę urzędu obsługującego ministra prowadzącego punkt kontaktowy i adres siedziby tego urzędu;
-- **2)** zakres zadań wykonywanych przez punkt kontaktowy;
-- **3)** dane osoby obsługującej punkt kontaktowy: imię, nazwisko i zajmowane przez nią stanowisko oraz adres poczty elektronicznej tej osoby;
-- **4)** adres poczty elektronicznej punktu kontaktowego.
+### 1)
 
-3. Punkt kontaktowy prowadzony przez ministra właściwego do spraw informatyzacji informuje właściwy organ w sprawach rejestracji lub ewidencji pojazdów państwa członkowskiego, o którym mowa w ust. 1, albo właściwy wyznaczony punkt kontaktowy tego państwa o rejestracji na terytorium Rzeczypospolitej Polskiej pojazdu sprowadzonego z państwa członkowskiego, o którym mowa w ust. 1, podając następujące dane pojazdu:
+pędzenia zwierząt po drodze oznaczonej znakami z numerem drogi międzynarodowej, a po innej drodze twardej - w okresie od zmierzchu do świtu,
 
-- **1)** cechę identyfikacyjną;
-- **2)** numer rejestracyjny nadany na terytorium Rzeczypospolitej Polskiej;
-- **3)** uprzedni numer rejestracyjny z państwa członkowskiego, o którym mowa w ust. 1, z którego pochodzi pojazd;
-- **4)** datę rejestracji na terytorium Rzeczypospolitej Polskiej;
-- **5)** inne dane, jeżeli konieczność ich przekazania została uzgodniona z właściwymi organami w sprawach rejestracji lub ewidencji pojazdów państw członkowskich, o których mowa w ust. 1.
+### 2)
 
-4. Dane, o których mowa w ust. 3, przekazuje się nie później niż do 20. dnia miesiąca następującego po miesiącu, którego dane dotyczą.
+pędzenia zwierząt po drodze twardej osobie w wieku poniżej 13 lat,
 
-5. Punkt kontaktowy prowadzony przez ministra właściwego do spraw transportu jest wyznaczony do otrzymywania od właściwych organów w sprawach rejestracji lub ewidencji pojazdów państw członkowskich, o których mowa w ust. 1, albo wyznaczonych punktów kontaktowych tych państw informacji o zarejestrowaniu za granicą pojazdu pochodzącego z terytorium Rzeczypospolitej Polskiej. Punkt kontaktowy prowadzony przez ministra właściwego do spraw transportu przekazuje otrzymaną informację punktowi kontaktowemu prowadzonemu przez ministra właściwego do spraw informatyzacji, który na podstawie danych zgromadzonych w centralnej ewidencji pojazdów ustala krajowy organ rejestrujący, który uprzednio zarejestrował pojazd wskazany w tej informacji, i przekazuje ją temu organowi.
+### 3)
 
-6. Czynności, o których mowa w ust. 3 i 5, mogą być wykonywane za pomocą środków komunikacji elektronicznej lub systemu teleinformatycznego obsługującego centralną ewidencję pojazdów.
+pędzenia zwierząt w poprzek drogi w miejscu niewidocznym na dostateczną odległość,
 
-7. Organ rejestrujący, wykonując czynności związane z rejestracją pojazdu, współpracuje z właściwymi organami w sprawach rejestracji państw członkowskich, o których mowa w ust. 1, lub z właściwymi wyznaczonymi punktami kontaktowymi tych państw, w celu sprawdzenia, w uzasadnionych przypadkach, statusu prawnego pojazdu przed jego rejestracją na terytorium Rzeczypospolitej Polskiej, jeżeli pojazd był uprzednio zarejestrowany na terytorium państwa członkowskiego Unii Europejskiej lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+### 4)
 
-8. Jeżeli w związku z zarejestrowaniem pojazdu na terytorium Rzeczypospolitej Polskiej państwo członkowskie, o którym mowa w ust. 1, wymaga zwrotu wydanego przez siebie dowodu rejestracyjnego, zwrotu dokonuje organ rejestrujący. Dowód rejestracyjny zwraca się właściwemu organowi w sprawach rejestracji państwa członkowskiego, o którym mowa w ust. 1, lub właściwemu wyznaczonemu punktowi kontaktowemu tego państwa.
+zatrzymywania zwierząt na jezdni,
 
-**Art. 73c.**
+### 5)
 
-1. Właściciel nowego pojazdu samochodowego, przyczepy lub motoroweru nabytego w salonie sprzedaży pojazdów samochodowych, przyczep lub motorowerów może upoważnić ten salon lub uprawnionego przedstawiciela tego salonu do:
+zajmowania przez zwierzęta więcej niż prawej połowy jezdni albo drogi (ścieżki) dla pieszych lub rowerów.
 
-- **1)** złożenia wniosku o rejestrację pojazdu lub
-- **2)** odbioru decyzji o czasowej rejestracji pojazdu, pozwolenia czasowego i zalegalizowanych tablic (tablicy) rejestracyjnych.
+### 5.
 
-2. Upoważnienie, o którym mowa w ust. 1, opatruje się odpowiednio podpisem własnoręcznym, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+Wojewoda może wprowadzić zakaz pędzenia zwierząt na określonych drogach lub obszarach oraz w określonym czasie.
 
-3. Salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub uprawniony przedstawiciel tego salonu niezwłocznie składają wniosek o rejestrację pojazdu przy użyciu formularza elektronicznego udostępnionego w systemie teleinformatycznym wskazanym na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji.
+### Rozdział 5 Porządek i bezpieczeństwo ruchu na drogach
 
-4. Wniosek o rejestrację pojazdu zawiera:
+### Oddział 1 Przepisy porządkowe
 
-- **1)** imię i nazwisko lub nazwę właściciela pojazdu;
-- **2)** adres miejsca zamieszkania lub siedziby właściciela pojazdu;
-- **3)** adres do doręczeń;
-- **4)** numer PESEL lub numer identyfikacyjny REGON właściciela pojazdu, a w przypadku cudzoziemca, który nie ma nadanego numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego jego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **5)** datę i miejsce urodzenia właściciela pojazdu;
-- **6)** rodzaj pojazdu i jego przeznaczenie;
-- **7)** markę, typ, model pojazdu;
-- **8)** rok produkcji pojazdu;
-- **9)** numer VIN albo numer nadwozia, podwozia lub ramy pojazdu;
-- **10)** informację o sposobie odbioru przez właściciela pojazdu decyzji o rejestracji pojazdu i dowodu rejestracyjnego – w urzędzie obsługującym organ rejestrujący albo za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467) na koszt odbiorcy oraz informację o sposobie odbioru decyzji o czasowej rejestracji pojazdu, pozwolenia czasowego i zalegalizowanych tablic (tablicy) rejestracyjnych – w urzędzie obsługującym organ rejestrujący przez salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub jego uprawnionego przedstawiciela albo przez właściciela pojazdu, albo za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy, po przesłaniu ich przez organ rejestrujący na adres salonu sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub jego uprawnionego przedstawiciela albo na adres do doręczeń, wskazane we wniosku o rejestrację pojazdu;
-- **11)** adres poczty elektronicznej, numer telefonu oraz adres salonu sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub uprawnionego przedstawiciela tego salonu.
+### Art. 38.
 
-5. Wniosek o rejestrację pojazdu może zawierać wskazanie, że właściciel pojazdu wnosi o wydanie:
+Kierujący pojazdem jest obowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu wymagane dla danego rodzaju pojazdu lub kierującego:
 
-- **1)** indywidualnych tablic rejestracyjnych;
-- **2)** tablic samochodowych zmniejszonych;
-- **3)** dodatkowej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną.
+### 1)
 
-6. Do wniosku o rejestrację pojazdu dołącza się w postaci elektronicznej oryginał lub kopię:
+dokument stwierdzający uprawnienie do kierowania pojazdem,
 
-- **1)** upoważnienia, o którym mowa w ust. 1;
-- **2)** dowodu nabycia pojazdu;
-- **3)** dokumentów, o których mowa w art. 72 ust. 1 pkt 3, 6 lub 6a lub ust. 1b;
-- **4)** potwierdzenia dokonania opłat za wydanie pozwolenia czasowego, zalegalizowanych tablic (tablicy) rejestracyjnych i dowodu rejestracyjnego;
-- **5)** (uchylony)
-- **6)** potwierdzenia dokonania opłaty skarbowej za udzielone pełnomocnictwo.
+### 2)
 
-7. Złożenie formularza elektronicznego, o którym mowa w ust. 3, stanowi potwierdzenie zgodności kopii dokumentów dołączonych do wniosku o rejestrację pojazdu z ich oryginałami.
+dokument stwierdzający dopuszczenie pojazdu do ruchu,
 
-8. Opłaty, o których mowa w ust. 6 pkt 4 i 6, stanowią koszt właściciela pojazdu.
+### 3)
 
-9. Decyzję o czasowej rejestracji pojazdu, pozwolenie czasowe i zalegalizowane tablice (tablicę) rejestracyjne organ rejestrujący:
+dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzający opłacenie składki tego ubezpieczenia,
 
-- **1)** przekazuje salonowi sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub jego uprawnionemu przedstawicielowi albo
-- **2)** przesyła na adres salonu sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub jego uprawnionego przedstawiciela, wskazane we wniosku o rejestrację pojazdu, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy, albo
-- **3)** przekazuje właścicielowi pojazdu, albo
-- **4)** przesyła właścicielowi pojazdu na adres do doręczeń wskazany we wniosku o rejestrację pojazdu za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy.
+### 4)
 
-10. Decyzję o rejestracji pojazdu i dowód rejestracyjny właściciel pojazdu odbiera w urzędzie obsługującym organ rejestrujący albo organ rejestrujący przesyła te dokumenty na adres do doręczeń wskazany we wniosku o rejestrację pojazdu za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy.
+świadectwo kwalifikacji,
 
-11. Minister właściwy do spraw informatyzacji, po zasięgnięciu opinii ministra właściwego do spraw transportu, określi wzór wniosku o rejestrację pojazdu w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne [(Dz. U. z 2024 r. poz. 307)].
+### 5)
 
-**Art. 73d.**
+inne dokumenty, jeżeli obowiązek taki wynika z odrębnej ustawy.
 
-1. Przedstawiciel producenta pojazdów na terytorium Rzeczypospolitej Polskiej przekazuje dane swojego punktu kontaktowego do Dyrektora Transportowego Dozoru Technicznego, podając: nazwę i adres przedstawiciela producenta pojazdów oraz adres jego poczty elektronicznej i jego numer telefonu, a także imię i nazwisko osoby reprezentującej przedstawiciela producenta. Dane te przekazuje się niezwłocznie po powołaniu przedstawiciela producenta, jednak nie później niż w terminie 30 dni od dnia tego powołania.
+### Art. 39.
 
-2. Dyrektor Transportowego Dozoru Technicznego prowadzi bazę punktów kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej Polskiej. W bazie tej zamieszcza się dane punktu kontaktowego przedstawiciela producenta pojazdów, o których mowa w ust. 1, oraz datę wprowadzenia danych do tej bazy.
+### 1.
 
-3. Przedstawiciel producenta pojazdów na terytorium Rzeczypospolitej Polskiej jest obowiązany zawiadomić Dyrektora Transportowego Dozoru Technicznego o zmianie danych swojego punktu kontaktowego, o których mowa w ust. 1, oraz o zaprzestaniu działalności przez przedstawiciela producenta pojazdów, niezwłocznie, jednak nie później niż w terminie 30 dni od dnia zaistnienia tych okoliczności. Na podstawie tego zawiadomienia Dyrektor Transportowego Dozoru Technicznego aktualizuje bazę punktów kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej Polskiej.
+Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy, z zastrzeżeniem ust. 3.
 
-4. W celu ułatwienia prowadzenia przez organy rejestrujące postępowań w sprawach rejestracji pojazdów Dyrektor Transportowego Dozoru Technicznego udostępnia organom rejestrującym:
+### 2.
 
-- **1)** bazę punktów kontaktowych przedstawicieli producentów pojazdów na terytorium Rzeczypospolitej Polskiej,
-- **2)** wzory wymaganych podpisów na wydawanych dokumentach, o których mowa w art. 72 ust. 1 pkt 3 – za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 75e ust. 1.] <– za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję pojazdów, o którym mowa w art. 75e ust. 1.>
+Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy:
 
-**Art. 74.**
+### 1)
 
-1. Czasowej rejestracji pojazdu dokonuje, w przypadkach określonych w ust. 2, organ rejestrujący właściwy ze względu na miejsce stałego zamieszkania (siedzibę) lub czasowego zamieszkania właściciela pojazdu, wydając decyzję o czasowej rejestracji pojazdu, pozwolenie czasowe i zalegalizowane tablice (tablicę) rejestracyjne.
+osoby mającej zaświadczenie lekarskie o przeciwwskazaniu do używania pasów bezpieczeństwa,
 
-1a. W przypadku, o którym mowa w ust. 2 pkt 2 lit. b, czasowej rejestracji może dokonać również organ rejestrujący właściwy ze względu na miejsce zakupu pojazdu lub jego odbioru na terytorium Rzeczypospolitej Polskiej. <1b. W przypadku, o którym mowa w ust. 2 pkt 2 lit. a albo c, gdy właściciel pojazdu nie ma miejsca stałego zamieszkania (siedziby) lub czasowego zamieszkania na terytorium Rzeczypospolitej Polskiej, czasowej rejestracji dokonuje organ rejestrujący właściwy ze względu na miejsce zakupu pojazdu lub jego odbioru na terytorium Rzeczypospolitej Polskiej.>
+### 2)
 
-2. Czasowej rejestracji dokonuje się:
+kobiety o widocznej ciąży,
 
-- **1)** z urzędu – po złożeniu wniosku o rejestrację pojazdu;
-- **2)** na wniosek właściciela pojazdu – w celu umożliwienia:
-    - **a)** wywozu pojazdu za granicę,
-    - **b)** przejazdu pojazdu z miejsca jego zakupu lub odbioru na terytorium Rzeczypospolitej Polskiej,
-    - **c)** przejazdu pojazdu związanego z koniecznością dokonania jego badania technicznego lub naprawy.
+### 3)
 
-- **3)** (uchylony) 2a. Czasowej rejestracji, o której mowa w ust. 2 pkt 1, można dokonać pomimo braku dołączonych do wniosku o rejestrację dokumentów, o których mowa w art. 72 ust. 1 pkt 6 i 6a. Dokumenty te powinny zostać złożone przed wydaniem dowodu rejestracyjnego.
+kierującego taksówką osobową podczas przewożenia pasażera,
 
-2b. Czasowej rejestracji pojazdu dokonuje się warunkowo, jeżeli właściciel pojazdu złoży oświadczenie, że w okresie od tej rejestracji do wydania dowodu rejestracyjnego nie nastąpi zmiana w zakresie własności pojazdu.
+### 4)
 
-2c. Przepisów ust. 2a i 2b nie stosuje się w przypadku wniosku o rejestrację pojazdu złożonego przez salon sprzedaży pojazdów samochodowych, przyczep lub motorowerów lub uprawnionego przedstawiciela tego salonu, o którym mowa w art. 73c ust. 1 pkt 1. 2ca. Czasowej rejestracji samochodu osobowego przeznaczonego do zawodów sportowych dokonuje się na wniosek właściciela pojazdu, w celu dopuszczenia do ruchu drogowego na czas trwania imprez organizowanych przez polski związek sportowy w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie, na wyznaczonych drogach umożliwiających dojazd, o których mowa w art. 65a ust. 3 pkt 3 lit. j.
+instruktora lub egzaminatora podczas szkolenia lub egzaminowania,
 
-2d. [Organ rejestrujący nie dokonuje czasowej rejestracji, o której mowa w ust. 2 pkt 1, w przypadku gdy są spełnione jednocześnie następujące warunki:] <Organ rejestrujący, z uwzględnieniem ust. 2g, nie dokonuje czasowej rejestracji, o której mowa w ust. 2 pkt 1, w przypadku gdy są spełnione jednocześnie następujące warunki:>
+### 5)
 
-- **1)** pojazd był ostatnio zarejestrowany na terytorium Rzeczypospolitej Polskiej, a właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, składając wniosek o rejestrację pojazdu, wnioskują o zachowanie dotychczasowego numeru rejestracyjnego;
-- **2)** organ rejestrujący pozytywnie zweryfikował w dniu złożenia wniosku o rejestrację pojazdu dane zawarte w dotychczasowym dowodzie rejestracyjnym w centralnej ewidencji pojazdów;
-- **3)** w dotychczasowym dowodzie rejestracyjnym jest miejsce na dokonanie przez organ rejestrujący adnotacji o treści: „W dniu ... złożono wniosek o rejestrację pojazdu w ...” oraz wpisanie daty i nazwy urzędu obsługującego organ dokonujący adnotacji. <2da. Przepisu ust. 2d pkt 3 nie stosuje się w przypadku, gdy właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, złożył wniosek o rejestrację pojazdu za pomocą usługi udostępnionej przez ministra właściwego do spraw informatyzacji, o której mowa w art. 73 ust. 1ab pkt 1, wnioskując o zachowanie dotychczasowego numeru rejestracyjnego.> 2e. W przypadku, o którym mowa w ust. 2d, organ rejestrujący: [1) dokonuje legalizacji dotychczasowych tablic (tablicy) rejestracyjnych;]
-- **2)** wydaje decyzję o rejestracji pojazdu i dowód rejestracyjny.
+policjanta, funkcjonariusza Urzędu Ochrony Państwa, Straży Granicznej i Służby Więziennej, żołnierza Sił Zbrojnych oraz żołnierza jednostki wojskowej podporządkowanej Ministrowi Spraw Wewnętrznych i Administracji - podczas przewożenia osób zatrzymanych,
 
-2f. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani odebrać decyzję o rejestracji pojazdu i dowód rejestracyjny w terminie 30 dni od dnia złożenia wniosku o rejestrację pojazdu. <2g. Organ rejestrujący w przypadku spełnienia warunków, o których mowa w ust. 2d, na wniosek właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5, wydaje decyzję o czasowej rejestracji pojazdu i pozwolenie czasowe.>
+### 6)
 
-3. Czasowej rejestracji dokonuje się na okres nieprzekraczający 30 dni. Termin ten może być jednorazowo przedłużony o 14 dni w celu wyjaśnienia spraw związanych z rejestracją pojazdu.
+funkcjonariusza Biura Ochrony Rządu podczas wykonywania czynności służbowych,
 
-3a. Czasowej rejestracji, o której mowa w ust. 2ca, dokonuje się na okres wynikający z terminu badania technicznego, o którym mowa w art. 81 ust. 11b.
+### 7)
 
-4. (uchylony)
+zespołu medycznego w czasie udzielania pomocy medycznej,
 
-5. Po upływie terminu czasowej rejestracji tablice rejestracyjne zwraca się do organu, który je wydał <, albo organu, który dokonuje rejestracji pojazdu> , z wyjątkiem przypadku, o którym mowa w ust. 2 pkt 2 lit. a.
+### 8)
 
-6. W przypadku gdy właściciel pojazdu zamierza skorzystać z wyrejestrowania pojazdu z urzędu, o którym mowa w art. 79 ust. 3b, składając wniosek o czasową rejestrację pojazdu, o którym mowa w ust. 2 pkt 2 lit. a, składa oświadczenie, że pojazd zostanie wywieziony za granicę. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+konwojenta podczas przewożenia wartości pieniężnych,
 
-**Art. 74a.**
+### 9)
 
-1. Organ rejestrujący na wniosek właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5, wydaje wtórnik dowodu rejestracyjnego, nowy dowód rejestracyjny, wtórnik pozwolenia czasowego, wtórnik tablic (tablicy) rejestracyjnych lub nowe tablice (tablicę) rejestracyjne, po pozytywnej weryfikacji, w dniu złożenia wniosku, w centralnej ewidencji pojazdów danych zawartych odpowiednio w dotychczasowym dowodzie rejestracyjnym albo w dotychczasowym pozwoleniu czasowym.
+osoby chorej lub niepełnosprawnej przewożonej na noszach lub w wózku inwalidzkim.
 
-2. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani niezwłocznie, jednak nie później niż w terminie 30 dni od dnia stwierdzenia utraty dowodu rejestracyjnego albo jego zniszczenia w stopniu powodującym jego nieczytelność, złożyć do organu rejestrującego wniosek o wydanie wtórnika dowodu rejestracyjnego oraz:
+### 3.
 
-- **1)** złożyć oświadczenie o utracie dowodu rejestracyjnego – w przypadku jego utraty;
-- **2)** oddać dotychczasowy dowód rejestracyjny – w przypadku jego zniszczenia w stopniu powodującym jego nieczytelność.
+Dziecko przewozi się w pojeździe samochodowym wyposażonym w pasy bezpieczeństwa w foteliku ochronnym lub innym urządzeniu do przewożenia dzieci odpowiadającym właściwym warunkom technicznym, jeżeli ze względu na wagę lub wzrost dziecka nie jest możliwe bezpośrednie wykorzystanie tych pasów.
 
-3. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, mogą złożyć do organu rejestrującego wniosek o wydanie wtórnika pozwolenia czasowego w przypadku jego utraty albo zniszczenia w stopniu powodującym jego nieczytelność, przy czym składając ten wniosek właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani:
+### 4.
 
-- **1)** złożyć oświadczenie o utracie pozwolenia czasowego – w przypadku jego utraty;
-- **2)** oddać dotychczasowe pozwolenie czasowe – w przypadku jego zniszczenia w stopniu powodującym jego nieczytelność.
+Przepis ust. 3 nie dotyczy przewozu dziecka taksówką osobową, pojazdem pogotowia ratunkowego lub Policji.
 
-4. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani złożyć do organu rejestrującego wniosek o wydanie nowego dowodu rejestracyjnego w przypadku:
+### Art. 40.
 
-- **1)** dokonania w pojeździe zmian konstrukcyjnych lub wymiany elementów powodujących zmianę stanu faktycznego w zakresie danych zawartych w dotychczasowym w dowodzie rejestracyjnym, albo
-- **2)** zmiany stanu faktycznego w zakresie danych obecnego właściciela lub posiadacza pojazdu zawartych w dotychczasowym dowodzie rejestracyjnym – w terminie 30 dni od dnia, w którym nastąpiła zmiana tego stanu.
+Kierujący motocyklem lub motorowerem oraz osoba przewożona takimi pojazdami są obowiązani używać w czasie jazdy hełmów ochronnych odpowiadających właściwym warunkom technicznym.
 
-5. Organ rejestrujący wydaje nowy dowód rejestracyjny również w przypadku wniosku właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5:
+### Art. 41.
 
-- **1)** o wydanie tablic (tablicy) rejestracyjnych albo ich wtórników z nowym numerem rejestracyjnym dla pojazdu;
-- **2)** jeżeli w dotychczasowym dowodzie rejestracyjnym brakuje miejsca na dokonanie adnotacji, o której mowa w art. 75 ust. 1;
-- **3)** gdy właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, wyrazili wolę wymiany dowodu rejestracyjnego, jeżeli diagnosta wypełnił wszystkie rubryki w dowodzie rejestracyjnym przeznaczone do wpisania terminu następnego badania technicznego pojazdu.
+Osoba wykonująca roboty lub inne czynności na drodze jest obowiązana używać w sposób widoczny dla innych uczestników ruchu elementów odblaskowych odpowiadających właściwym warunkom technicznym.
 
-6. W przypadku wniosku, o którym mowa w ust. 4 i 5, organ rejestrujący, w dniu złożenia wniosku, dokonuje w dotychczasowym dowodzie rejestracyjnym adnotacji, jeżeli jest miejsce na jej dokonanie, o treści: „W dniu ... złożono wniosek o nowy dowód rejestracyjny w ...” oraz wpisuje datę i nazwę urzędu obsługującego organ dokonujący adnotacji. Dotychczasowy dowód rejestracyjny jest ważny do czasu wydania nowego dowodu rejestracyjnego.
+### Art. 42.
 
-7. Organ rejestrujący, po wyprodukowaniu wtórnika dowodu rejestracyjnego albo nowego dowodu rejestracyjnego, wydaje, a właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani odebrać wtórnik dowodu rejestracyjnego albo nowy dowód rejestracyjny w terminie 30 dni od dnia złożenia wniosku o ich wydanie. Na wniosek właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5, organ rejestrujący przesyła wtórnik dowodu rejestracyjnego albo nowy dowód rejestracyjny za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na koszt odbiorcy.
+Niewidomy podczas samodzielnego poruszania się po drodze jest obowiązany nieść białą laskę w sposób widoczny dla innych uczestników ruchu.
 
-8. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, są obowiązani niezwłocznie, jednak nie później niż w terminie 30 dni od dnia stwierdzenia utraty albo zniszczenia tablic (tablicy) rejestracyjnych, złożyć do organu rejestrującego wniosek o wydanie wtórnika tablic (tablicy) rejestracyjnych oraz:
+### Art. 43.
 
-- **1)** złożyć oświadczenie o utracie tablic (tablicy) rejestracyjnych – w przypadku ich utraty;
-- **2)** oddać zniszczone tablice (tablicę) rejestracyjne – w przypadku ich zniszczenia.
+### 1.
 
-9. W przypadku wniosku, o którym mowa w ust. 2, 4, 5 i 8, organ rejestrujący, w dniu złożenia tego wniosku, wydaje, na wniosek właściciela pojazdu albo podmiotu, o którym mowa w art. 73 ust. 2 i 5, pozwolenie czasowe oraz zalegalizowane tablice (tablicę) rejestracyjne. Pozwolenie czasowe oraz zalegalizowane tablice (tablica) rejestracyjne są ważne do czasu wydania odpowiednio wtórnika dowodu rejestracyjnego, nowego dowodu rejestracyjnego, wtórnika tablic (tablicy) rejestracyjnych lub nowych tablic (tablicy) rejestracyjnych.
+Dziecko w wieku do 7 lat może korzystać z drogi tylko pod opieką osoby, która osiągnęła wiek co najmniej 10 lat. Nie dotyczy to strefy zamieszkania.
 
-10. Oświadczenia, o których mowa w ust. 2 pkt 1, ust. 3 pkt 1 i ust. 8 pkt 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+### 2.
 
-11. W przypadkach, o których mowa w ust. 8, właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, mogą złożyć do organu rejestrującego wniosek o wydanie zalegalizowanych tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu. W takim przypadku organ rejestrujący wydaje nową decyzję o rejestracji pojazdu, zalegalizowane tablice (tablicę) rejestracyjne z nowym numerem rejestracyjnym dla pojazdu i nowy dowód rejestracyjny.
+Dziecko w wieku do 15 lat, poruszające się po drodze po zmierzchu poza obszarem zabudowanym, jest obowiązane używać elementów odblaskowych w sposób widoczny dla innych uczestników ruchu.
 
-12. Do wniosku o wydanie wtórnika dodatkowej zalegalizowanej tablicy rejestracyjnej, o której mowa w art. 73 ust. 1b, stosuje się przepis ust. 8.
+### 3.
 
-13. Właściciel pojazdu albo podmiot, o którym mowa w art. 73 ust. 2 i 5, mogą zwrócić organowi rejestrującemu dodatkową zalegalizowaną tablicę rejestracyjną, o której mowa w art. 73 ust. 1b, albo jej wtórnik po przedstawieniu dowodu rejestracyjnego.
+Przepisy ust. 1 i 2 nie dotyczą drogi przeznaczonej wyłącznie dla pieszych.
 
-**Art. 74b.**
+### Art. 44.
 
-1. Tablice rejestracyjne przekazane organowi rejestrującemu w wyniku ich wymiany albo zwrotu oraz wyrejestrowania albo przerejestrowania pojazdu, będące wycofanymi z użytku, organ rejestrujący przekazuje przedsiębiorcy, o którym mowa w art. 75a ust. 2, produkującemu tablice rejestracyjne na zamówienie tego organu rejestrującego.
+### 1.
 
-2. Tablice rejestracyjne będące wycofanymi z użytku, o których mowa w ust. 1, przedsiębiorca, o którym mowa w art. 75a ust. 2, odbiera na własny koszt w siedzibie urzędu obsługującego organ rejestrujący, dokonuje ich zniszczenia i zagospodarowuje je zgodnie z przepisami o odpadach.
+Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany:
 
-**Art. 75.**
+### 1)
 
-1. Jeżeli używanie pojazdu uzależnione jest od szczególnych warunków określonych przepisami, organ rejestrujący wpisuje w dowodzie rejestracyjnym lub pozwoleniu czasowym odpowiednie zastrzeżenie.
+zatrzymać pojazd, nie powodując przy tym zagrożenia bezpieczeństwa ruchu drogowego,
 
-2. Dowód rejestracyjny, pozwolenie czasowe, zalegalizowane tablice (tablica) rejestracyjne oraz ich wtórniki są wydawane za opłatą. Opłatę pobiera organ dokonujący rejestracji.
+### 2)
 
-3. Zabrania się rejestracji pojazdu złożonego poza wytwórnią, z wyjątkiem pojazdu marki „SAM” oraz pojazdu zabytkowego.
+przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu w miejscu wypadku,
 
-**Art. 75a.**
+### 3)
 
-1. Produkcja tablic rejestracyjnych, w tym profesjonalnych tablic rejestracyjnych, oraz wtórników tablic rejestracyjnych jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236) i wymaga wpisu do rejestru przedsiębiorców produkujących tablice rejestracyjne, zwanego dalej „rejestrem”. Ilekroć w przepisie niniejszym oraz w art. 75aa–75c jest mowa o tablicach rejestracyjnych, należy przez to rozumieć także ich wtórniki, z tym że nie dotyczy to profesjonalnych tablic rejestracyjnych.
+niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu, jeżeli nie ma zabitego lub rannego,
 
-2. Działalność, o której mowa w ust. 1, może wykonywać przedsiębiorca, który spełnia następujące warunki:
+### 4)
 
-- **1)** posiada możliwości techniczne gwarantujące wykonywanie tablic rejestracyjnych lub materiałów służących do ich produkcji zgodnie z warunkami technicznymi; warunek ten nie dotyczy przedsiębiorców sprowadzających z zagranicy materiały służące do wyrobu tablic rejestracyjnych;
-- **2)** posiada certyfikat na zgodność tablic rejestracyjnych lub materiałów służących do ich produkcji z warunkami technicznymi;
-- **3)** nie jest podmiotem, w stosunku do którego wszczęto postępowanie upadłościowe lub likwidacyjne;
-- **4)** nie zalega z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne;
-- **5)** nie został prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko dokumentom – dotyczy osoby fizycznej lub członków organów osoby prawnej.
+podać swoje dane personalne, dane personalne właściciela lub posiadacza pojazdu oraz dane dotyczące zakładu ubezpieczeń, z którym zawarta jest umowa obowiązkowego ubezpieczenia odpowiedzialności cywilnej, na żądanie osoby uczestniczącej w wypadku.
 
-3. Za przedsiębiorcę produkującego tablice rejestracyjne, o którym mowa w ust. 2, uważa się jednostkę:
+### 2.
 
-- **1)** produkującą tablice rejestracyjne z wytłoczonymi numerami rejestracyjnymi;
-- **2)** produkującą tablice rejestracyjne bez wytłoczonych numerów rejestracyjnych;
-- **3)** tłoczącą numery rejestracyjne;
-- **4)** produkującą lub sprowadzającą z zagranicy materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych;
-- **5)** przetwarzającą materiały mające szczególne znaczenie do produkcji tablic rejestracyjnych.
+Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto:
 
-4. Tablice rejestracyjne są produkowane wyłącznie na zamówienie:
+### 1)
 
-- **1)** organu właściwego w sprawach rejestracji pojazdów – z wytłoczonymi numerami rejestracyjnymi;
-- **2)** przedsiębiorcy, o którym mowa w ust. 3 pkt 3 – bez wytłoczonych numerów rejestracyjnych.
+udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać pogotowie ratunkowe i Policję,
 
-5. Materiały, o których mowa w ust. 3 pkt 4 i 5, są przetwarzane, produkowane lub sprowadzane z zagranicy na zamówienie przedsiębiorcy, o którym mowa w ust. 2.
+### 2)
 
-6. Przedsiębiorca, o którym mowa w ust. 2, prowadzi ewidencje:
+nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku,
 
-- **1)** materiałów do produkcji tablic rejestracyjnych, o których mowa w ust. 3 pkt 4 i 5;
-- **2)** wyprodukowanych tablic rejestracyjnych;
-- **3)** sprzedanych tablic rejestracyjnych. Art. 75aa. 1. Organem właściwym do prowadzenia rejestru jest marszałek województwa właściwy ze względu na siedzibę przedsiębiorcy.
+### 3)
 
-2. Rejestr może być prowadzony w systemie teleinformatycznym.
+pozostać na miejscu wypadku, a jeżeli wezwanie pogotowia lub Policji wymaga oddalenia się - niezwłocznie powrócić na to miejsce.
 
-3. Właściwy marszałek województwa prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+### 3.
 
-4. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych. Art. 75ab. 1. Wpisu do rejestru dokonuje się na podstawie wniosku przedsiębiorcy, zawierającego następujące dane:
+Przepisy ust. 1 i 2 stosuje się odpowiednio do innych osób uczestniczących w wypadku.
 
-- **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada;
-- **3)** numer identyfikacji podatkowej (NIP);
-- **4)** adres siedziby oraz adresy jednostek, w których będzie wykonywana działalność, o której mowa w art. 75a ust. 1;
-- **5)** podpis przedsiębiorcy oraz oznaczenie daty i miejsca złożenia wniosku.
+### Art. 45.
 
-2. Wraz z wnioskiem przedsiębiorca składa:
+### 1.
 
-- **1)** oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację;
-- **2)** zaświadczenie albo oświadczenie o niekaralności za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko dokumentom:
-    - **a)** przedsiębiorcy, jeżeli jest on osobą fizyczną,
-    - **b)** osób – członków władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej oraz
+Zabrania się:
 
-- **3)** oświadczenie następującej treści: „Oświadczam, że:
-- **1)** dane zawarte we wniosku o wpis do rejestru są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam szczególne warunki wykonywania działalności, o której mowa w art. 75a ust. 1 i 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym;
-- **3)** posiadam aktualny dokument określający status jednostki będącej osobą prawną lub nieposiadającą osobowości prawnej jednostką organizacyjną albo dokument stwierdzający tożsamość w przypadku osoby fizycznej.”.
+### 1)
 
-3. Oświadczenie, o którym mowa w ust. 2 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt osobie w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu,
 
-4. Oświadczenie, o którym mowa w ust. 2 pkt 3, powinno również zawierać:
+### 2)
 
-- **1)** firmę przedsiębiorcy oraz jego siedzibę i adres albo adres zamieszkania;
-- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
-- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+holowania pojazdu kierowanego przez osobę, o której mowa w pkt 1,
 
-5. Minister właściwy do spraw transportu określi wzór wniosku, o którym mowa w ust. 1, zawierającego oświadczenie o posiadaniu certyfikatu, o którym mowa w art. 75a ust. 2 pkt 2, wraz z danymi umożliwiającymi jego identyfikację, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Art. 75ac. 1. Wpisowi do rejestru podlegają dane określone w art. 75ab ust. 1 pkt 1–4 oraz informacje o certyfikacie, o którym mowa w art. 75a ust. 2 pkt 2.
+### 3)
 
-2. Wpisem do rejestru jest również wykreślenie albo zmiana wpisu.
+otwierania drzwi pojazdu, pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia,
 
-3. Wydając z urzędu zaświadczenie o dokonaniu wpisu do rejestru, właściwy marszałek województwa określa w nim zakres prowadzonej przez przedsiębiorcę działalności w zakresie produkcji tablic rejestracyjnych, zgodnie z art. 75a ust. 3. Art. 75ad. Rażącym naruszeniem warunków wykonywania działalności w zakresie produkcji tablic rejestracyjnych jest naruszenie warunków, o których mowa w art. 75a ust. 2 pkt 2, 3 i 5 oraz ust. 4 i 5, oraz określonych w przepisach dotyczących warunków oraz sposobu produkcji i dystrybucji tablic rejestracyjnych. Art. 75ae. 1. Właściwy marszałek województwa jest obowiązany dokonać wpisu przedsiębiorcy do rejestru w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z dokumentami, o których mowa w art. 75ab ust. 2.
+### 4)
 
-2. Jeżeli właściwy marszałek województwa nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy marszałek województwa wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis. Art. 75af. 1. Właściwy marszałek województwa wydaje decyzję o zakazie wykonywania przez przedsiębiorcę działalności objętej wpisem, w przypadku gdy:
+wykorzystywania drogi lub poszczególnych jej części w sposób niezgodny z przeznaczeniem, chyba że przepisy szczegółowe stanowią inaczej,
 
-- **1)** przedsiębiorca złożył oświadczenie, o którym mowa w art. 75ab ust. 2 pkt 3, niezgodne ze stanem faktycznym;
-- **2)** przedsiębiorca nie usunął naruszeń warunków wymaganych prawem do wykonywania działalności regulowanej w wyznaczonym przez marszałka terminie;
-- **3)** stwierdzi rażące naruszenie warunków wymaganych prawem do wykonywania działalności regulowanej przez przedsiębiorcę.
+### 5)
 
-2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
+wjeżdżania na pas między jezdniami,
 
-3. Przed wydaniem decyzji na podstawie ust. 1 pkt 2 marszałek województwa wyznacza termin usunięcia stwierdzonych naruszeń.
+### 6)
 
-4. W przypadku wydania decyzji, o której mowa w ust. 1, marszałek województwa z urzędu wykreśla przedsiębiorcę z rejestru.
+pozostawiania na drodze przedmiotów, które mogłyby zagrozić bezpieczeństwu ruchu; jeżeli jednak usunięcie ich nie jest możliwe, należy je oznaczyć w sposób widoczny w dzień i w nocy,
 
-5. W przypadku wydania decyzji, o której mowa w ust. 1, jeżeli przedsiębiorca wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do innych rejestrów działalności regulowanej w tym samym zakresie działalności gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów działalności regulowanej. Art. 75ag. 1. Przedsiębiorca, którego wykreślono z rejestru, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 75af ust.
+### 7)
 
-1.
+umieszczania na drodze lub w jej pobliżu urządzeń wysyłających lub odbijających światło w sposób powodujący oślepienie albo wprowadzających w błąd uczestników ruchu,
 
-2. Przepis ust. 1 stosuje się do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 75ae ust.
+### 8)
 
-2. Art. 75ah. Właściwy marszałek województwa wykreśla przedsiębiorcę z rejestru na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+samowolnego umieszczania lub włączania albo usuwania lub wyłączania znaków i sygnałów drogowych oraz urządzeń ostrzegawczo-zabezpieczających lub kontrolnych na drodze, jak również zmiany ich położenia lub ich zasłaniania,
 
-**Art. 75b.** Organ właściwy w sprawach rejestracji legalizuje tablice rejestracyjne, w tym profesjonalne tablice rejestracyjne, umieszczając na nich znak legalizacyjny. Art. 75ba. Warunki techniczne oraz wzór znaku legalizacyjnego służącego do legalizacji profesjonalnych tablic (tablicy) rejestracyjnych są zgodne z warunkami technicznymi i wzorem nalepki legalizacyjnej określonymi w przepisach wydanych na podstawie art. 75c pkt 2.
+### 9)
 
-**Art. 75c.** Minister właściwy do spraw transportu, uwzględniając konieczność prawidłowego zabezpieczenia obrotu tablicami rejestracyjnymi oraz materiałami mającymi szczególne znaczenie do produkcji tablic rejestracyjnych, określi, w drodze rozporządzenia:
+zaśmiecania lub zanieczyszczania drogi,
 
-**Art. 75d.** (uchylony)
+### 10)
 
-**Art. 75e.** [1. Wytwórca dowodów rejestracyjnych zapewnia system teleinformatyczny umożliwiający realizację zadań organów rejestrujących w zakresie rejestracji, czasowej rejestracji, czasowego wycofania z ruchu, wyrejestrowania i profesjonalnej rejestracji pojazdów, w tym w zakresie procesu wytwarzania, personalizacji i dystrybucji dokumentów związanych z realizacją tych zadań.] <1. Wytwórca dowodów rejestracyjnych zapewnia system teleinformatyczny obsługujący proces wytwarzania, personalizacji i dystrybucji dokumentów i oznaczeń pojazdów zintegrowany z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów, w którym organ rejestrujący realizuje zadania związane z rejestracją pojazdów, czasową rejestracją, czasowym wycofaniem z ruchu, wyrejestrowaniem i profesjonalną rejestracją pojazdów oraz prowadzeniem rejestru przedsiębiorców prowadzących stacje kontroli pojazdów.> [2. System teleinformatyczny, o którym mowa w ust. 1, zapewnia integralność powiązania procesu wytwarzania dokumentów związanych z realizacją zadań, o których mowa w ust. 1, z danymi gromadzonymi w centralnej ewidencji pojazdów, z uwzględnieniem referencyjności tych danych przy realizacji tych zadań.] <2. System teleinformatyczny, zapewniany przez wytwórcę dowodów rejestracyjnych, pobiera dane niezbędne do procesu wytwarzania, personalizacji i dystrybucji dokumentów i oznaczeń pojazdów z centralnej ewidencji pojazdów.> [3. System teleinformatyczny, o którym mowa w ust. 1, zapewnia co najmniej funkcjonalności spójne z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów.] 3. (uchylony) [4. Minister właściwy do spraw informatyzacji nadzoruje interoperacyjność systemu teleinformatycznego, o którym mowa w ust. 1, z systemem teleinformatycznym obsługującym centralną ewidencję pojazdów.] 4. (uchylony) [5. Minister właściwy do spraw informatyzacji zawiera z wytwórcą dowodów rejestracyjnych umowę regulującą:
+samowolnego umieszczania na drodze jakichkolwiek znaków, napisów lub symboli.
 
-**Art. 76.**
+### 2.
 
-1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+Kierującemu pojazdem zabrania się:
 
-- **1)** w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej:
-    - **a)** warunki i tryb rejestracji, czasowej rejestracji i wyrejestrowania pojazdów, z zastrzeżeniem ust. 2–3, oraz wzory: – dowodu rejestracyjnego i pozwolenia czasowego oraz ich opis, – tablic rejestracyjnych oraz innych tablic, cech identyfikacyjnych i oznaczeń, w które zaopatruje się pojazd, a także ich opis oraz sposób ich umieszczania,
-    - **b)** warunki dystrybucji blankietów dowodów rejestracyjnych, pozwoleń czasowych,
-    - **c)** szczegółowe wymagania techniczne dla tablic rejestracyjnych oraz zakres i sposób ich badania,
-    - **d)** wzory innych dokumentów związanych z rejestracją pojazdów: – wniosku o rejestrację, czasową rejestrację, wyrejestrowanie pojazdu lub zawiadomienia o zbyciu pojazdu, – decyzji o rejestracji, czasowej rejestracji albo wyrejestrowaniu pojazdu, – wniosku o wydanie wtórnika dowodu rejestracyjnego, wtórnika pozwolenia czasowego, wtórnika tablic (tablicy) rejestracyjnych, nowego dowodu rejestracyjnego lub tablic (tablicy) rejestracyjnych z nowym numerem rejestracyjnym dla pojazdu, – zaświadczenia potwierdzającego dane zawarte w utraconym dowodzie rejestracyjnym, – wniosku o wydanie dodatkowej zalegalizowanej tablicy rejestracyjnej do oznaczenia bagażnika zakrywającego tylną tablicę rejestracyjną dla pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej;
+### 1)
 
-- **2)** wysokość opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego i zalegalizowanych tablic (tablicy) rejestracyjnych oraz ich wtórników;
-- **3)** w porozumieniu z ministrem właściwym do spraw informatyzacji, szczegółowe czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzory dokumentów w tych sprawach.
+korzystania podczas jazdy z telefonu komórkowego, chyba że korzysta z urządzenia głośno mówiącego,
 
-2. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej, na podstawie umów międzynarodowych, o których mowa w art. 73 ust. 2b, a także jednostki organizacyjne właściwe w tych sprawach.
+### 2)
 
-2a. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw informatyzacji, ministrem właściwym do spraw transportu oraz ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Kontrwywiadu Wojskowego i Służby Wywiadu Wojskowego, a także jednostki organizacyjne właściwe w tych sprawach.
+przewożenia osoby, o której mowa w ust. 1 pkt 1, na rowerze lub motorowerze albo motocyklu, chyba że jest przewożona w bocznym wózku,
 
-3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, ministrem właściwym do spraw finansów publicznych, ministrem właściwym do spraw informatyzacji oraz Ministrem Obrony Narodowej oraz po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową, a także jednostki organizacyjne właściwe w tych sprawach.
+### 3)
 
-4. Prezes Rady Ministrów, uwzględniając wymagania wynikające z obowiązku ochrony informacji niejawnych określi, w drodze zarządzenia niepodlegającego ogłoszeniu:
+przewożenia pasażera w sposób niezgodny z art. 39, 40 lub 63 ust. 1,
 
-- **1)** warunki i tryb rejestracji pojazdów resortu spraw wewnętrznych, obrony narodowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego i Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową, wykorzystywanych do prowadzenia czynności operacyjno-rozpoznawczych;
-- **2)** szczególny tryb i warunki przekazywania blankietów dowodów rejestracyjnych, pozwoleń czasowych i innych dokumentów wymaganych do rejestracji oraz tablic rejestracyjnych, o których mowa w art. 73 ust. 3a;
-- **3)** szczególne wymagania w zakresie personalizacji tych blankietów.
+### 4)
 
-5. W rozporządzeniach, o których mowa w ust. 1–3, należy uwzględnić w szczególności:
+przewożenia w foteliku ochronnym dziecka siedzącego tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego wyposażonego w poduszkę powietrzną dla pasażera,
 
-- **1)** konieczność przeciwdziałania dopuszczeniu do ruchu pojazdów pochodzących z kradzieży;
-- **2)** prawidłowe zabezpieczenie dokumentów związanych z rejestracją, tablicami rejestracyjnymi i innymi oznaczeniami;
-- **2a)** potrzebę ujednolicenia dokumentów związanych z rejestracją pojazdów oraz sposobu oznaczania pojazdów;
-- **3)** koszty działania administracji publicznej w sprawach rejestracji pojazdów;
-- **4)** sposób wykorzystania pojazdów, o których mowa w ust. 2–3, przy wykonywaniu zadań określonych w przepisach dotyczących Służby Ochrony Państwa, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej i Krajowej Administracji Skarbowej.
+### 5)
 
-**Art. 77.** (uchylony)
+przewożenia poza specjalnym fotelikiem ochronnym dziecka w wieku do 10 lat na przednim siedzeniu pojazdu samochodowego.
 
-**Art. 78.**
+### Oddział 2 Zatrzymanie i postój
 
-1. W razie przeniesienia na inną osobę własności pojazdu zarejestrowanego, dotychczasowy właściciel przekazuje nowemu właścicielowi dowód rejestracyjny oraz zaświadczenie o przeprowadzonym badaniu technicznym pojazdu, jeżeli w dowodzie rejestracyjnym nie jest określony aktualny termin ważności badania technicznego.
+### Art. 46.
 
-1a. W razie przeniesienia na inną osobę własności pojazdu czasowo wycofanego z ruchu dotychczasowy właściciel przekazuje nowemu właścicielowi decyzję o czasowym wycofaniu pojazdu.
+### 1.
 
-2. Właściciel pojazdu zarejestrowanego na terytorium Rzeczypospolitej Polskiej jest obowiązany zawiadomić w terminie nieprzekraczającym 30 dni starostę o:
+Zatrzymanie i postój pojazdu są dozwolone tylko w miejscu i w warunkach, w których jest on z dostatecznej odległości widoczny dla innych kierujących i nie powoduje zagrożenia bezpieczeństwa ruchu drogowego lub jego utrudnienia.
 
-- **1)** zbyciu pojazdu;
-- **2)** zmianie stanu faktycznego wymagającej zmiany danych zamieszczonych w dowodzie rejestracyjnym.
+### 2.
 
-2a. Zawiadomienia, o którym mowa w ust. 2 pkt 1, właściciel pojazdu dokonuje u starosty właściwego ze względu na miejsce zamieszkania (siedzibę) lub czasowego zamieszkania, a jeżeli właścicielem jest przedsiębiorstwo wielozakładowe lub inny podmiot, w skład którego wchodzą wydzielone jednostki organizacyjne – u starosty właściwego ze względu na miejsce rejestracji pojazdu.
+Kierujący pojazdem, zatrzymując pojazd na jezdni, jest obowiązany ustawić go jak najbliżej jej krawędzi oraz równolegle do niej.
 
-2b. W przypadku współwłasności pojazdu dla skuteczności zawiadomienia o zbyciu pojazdu wystarczającym jest zawiadomienie przez jednego ze współwłaścicieli pojazdu.
+### 3.
 
-3. (uchylony)
+W czasie postoju na drodze poza obszarem zabudowanym pojazd powinien znajdować się, jeżeli to tylko możliwe, poza jezdnią.
 
-4. Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec.
+### 4.
 
-5. W przypadku, gdy właścicielem lub posiadaczem pojazdu jest:
+Kierujący pojazdem jest obowiązany stosować sposób zatrzymania lub postoju wskazany znakami drogowymi.
 
-- **1)** osoba prawna,
-- **2)** jednostka organizacyjna niemająca osobowości prawnej, której odrębne przepisy przyznają zdolność prawną,
-- **3)** jednostka samorządu terytorialnego,
-- **4)** spółka kapitałowa w organizacji,
-- **5)** podmiot w stanie likwidacji,
-- **6)** przedsiębiorca niebędący osobą fizyczną,
-- **7)** zagraniczna jednostka organizacyjna – do udzielenia informacji, o której mowa w ust. 4, obowiązana jest osoba wyznaczona przez organ uprawniony do reprezentowania tego podmiotu na zewnątrz, a w przypadku niewyznaczenia takiej osoby – osoby wchodzące w skład tego organu zgodnie z żądaniem organu, o którym mowa w ust. 4, oraz sposobem reprezentacji podmiotu.
+### 5.
 
-**Art. 78a.**
+Kierujący pojazdem jest obowiązany w czasie postoju zabezpieczyć pojazd przed możliwością jego uruchomienia przez osobę niepowołaną oraz zachować inne środki ostrożności niezbędne do uniknięcia wypadku.
 
-1. Czasowego wycofania pojazdu z ruchu dokonuje, na wniosek właściciela pojazdu lub podmiotu, o którym mowa w art. 73 ust. 2 i 5, organ rejestrujący właściwy ze względu na miejsce ostatniej rejestracji pojazdu, wydając decyzję o czasowym wycofaniu pojazdu z ruchu.
+### Art. 47.
 
-2. Wycofaniu czasowemu, na wniosek podmiotów, o których mowa w ust. 1, podlegają zarejestrowane:
+### 1.
 
-- **1)** samochody ciężarowe i przyczepy o dopuszczalnej masie całkowitej od 3,5 t;
-- **2)** ciągniki samochodowe;
-- **3)** pojazdy specjalne;
-- **4)** autobusy;
-- **5)** samochody osobowe w związku z koniecznością wykonania naprawy pojazdu wynikającej z uszkodzenia zasadniczych elementów nośnych konstrukcji:
-    - **a)** w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz pkt 6,
-    - **b)** w przypadku wystąpienia szkody istotnej.
+Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nie przekraczającej 2,5 t, pod warunkiem, że:
 
-3. Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje za opłatą organ, o którym mowa w ust. 1, po złożeniu przez właściciela pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, do depozytu w tym organie dowodu rejestracyjnego i tablic rejestracyjnych.
+### 1)
 
-4. Pojazd, o którym mowa w ust. 2 pkt 1–4, może być czasowo wycofany z ruchu na okres od 2 do 24 miesięcy. Okres ten może być przedłużony, jednak łączny okres wycofania pojazdu z ruchu nie może przekraczać 48 miesięcy, licząc od dnia wydania decyzji o jego czasowym wycofaniu z ruchu.
+na danym odcinku jezdni nie obowiązuje zakaz zatrzymania lub postoju,
 
-4a. Samochód osobowy może być czasowo wycofany z ruchu na okres od 3 do 12 miesięcy bez możliwości przedłużenia tego okresu i nie wcześniej niż po upływie 3 lat od dnia, w którym upłynął okres czasowego wycofania określony w ostatniej decyzji o jego czasowym wycofaniu z ruchu.
+### 2)
 
-4b. W przypadku samochodu osobowego właściciel pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, składając wniosek o czasowe wycofanie pojazdu z ruchu, składają oświadczenie, że pojazd ten wymaga wykonania naprawy w związku z uszkodzeniem zasadniczych elementów nośnych konstrukcji w przypadkach, o których mowa w art. 81 ust. 11 pkt 1 lit. b oraz pkt 6, lub w przypadku wystąpienia szkody istotnej. Oświadczenie to składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m,
 
-4c. Warunkiem dopuszczenia samochodu osobowego do ruchu po jego czasowym wycofaniu jest wykonanie dodatkowego badania technicznego pojazdu potwierdzone w centralnej ewidencji pojazdów. W przypadku braku w centralnej ewidencji pojazdów informacji o dodatkowym badaniu technicznym dopuszczenie do ruchu następuje na podstawie przedłożonego zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu.
+### 3)
 
-5. Właściciel pojazdu lub podmiot, o którym mowa w art. 73 ust. 2 i 5, jest obowiązany zapewnić wycofanemu z ruchu pojazdowi postój poza drogą publiczną, strefą zamieszkania i strefą ruchu. Przepis art. 46 ust. 5 stosuje się odpowiednio.
+pojazd umieszczony przednią osią na chodniku nie tamuje ruchu pojazdów na jezdni.
 
-6. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb i warunki czasowego wycofania pojazdów z ruchu, wysokość opłat w zależności od okresu wycofania z ruchu, w wysokości nie wyższej niż 150 zł, oraz wzory dokumentów stosowanych w tym zakresie, mając na względzie konieczność przeciwdziałania używaniu pojazdów czasowo wycofanych z ruchu oraz koszty ponoszone przez organy administracji publicznej.
+### 2.
 
-**Art. 78b.** Opłata za wydanie:
+Dopuszcza się, przy zachowaniu warunków określonych w ust. 1 pkt 2, zatrzymanie lub postój na chodniku przy krawędzi jezdni całego samochodu osobowego, motocykla, motoroweru lub roweru. Inny pojazd o dopuszczalnej masie całkowitej nie przekraczającej 2,5 t może być w całości umieszczony na chodniku tylko w miejscu wyznaczonym odpowiednimi znakami drogowymi.
 
-**Art. 79.**
+### Art. 48.
 
-1. Pojazd podlega wyrejestrowaniu przez organ właściwy ze względu na miejsce ostatniej rejestracji pojazdu, na wniosek jego właściciela, w przypadku:
+### 1.
 
-- **1)** przekazania pojazdu do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, na podstawie zaświadczenia o demontażu pojazdu, o którym mowa w ust. 2 bądź w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, albo równoważnego dokumentu wydanego w innym państwie;
-- **2)** kradzieży pojazdu, jeżeli jego właściciel złożył stosowne oświadczenie pod odpowiedzialnością karną za fałszywe zeznania;
-- **3)** wywozu pojazdu z kraju, jeżeli pojazd został zarejestrowany za granicą lub zbyty za granicę;
-- **4)** zniszczenia (kasacji) pojazdu za granicą;
-- **5)** udokumentowanej trwałej i zupełnej utraty posiadania pojazdu bez zmiany w zakresie prawa własności;
-- **6)** przekazania niekompletnego pojazdu do przedsiębiorcy prowadzącego stację demontażu lub przedsiębiorcy prowadzącego punkt zbierania pojazdów, na podstawie zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, albo równoważnego dokumentu wydanego w innym państwie;
-- **7)** wycofania pojazdu z obrotu, o którym mowa odpowiednio w art. 41 rozporządzenia 167/2013, art. 46 rozporządzenia 168/2013 albo art. 51 rozporządzenia 2018/858.
+Pojazd może być usunięty z drogi na koszt właściciela, jeżeli pozostawiono go w miejscu, gdzie jest to zabronione i utrudnia ruch lub zagraża jego bezpieczeństwu.
 
-1a. W przypadku, o którym mowa w ust. 1 pkt 3, pojazd podlega wyrejestrowaniu na wniosek właściciela pojazdu będącego zbywcą albo nabywcą pojazdu wywożonego za granicę.
+### 2.
 
-2. W przypadku przekazania przedsiębiorcy prowadzącemu stację demontażu lub przedsiębiorcy prowadzącemu punkt zbierania pojazdów pojazdu innego niż określony w art. 3 pkt 4 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, w celu jego wyrejestrowania, przedsiębiorca wydaje zaświadczenie o demontażu tego pojazdu, odpowiadające wymogom określonym dla zaświadczenia, o którym mowa w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 tej ustawy. [3. W przypadku nieprzedłożenia przez właściciela pojazdu zaświadczenia o demontażu pojazdu, o którym mowa w ust. 2 bądź w art. 24 ust. 1 pkt 2 lub art. 33 ust. 3 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji, lub zaświadczenia o przyjęciu niekompletnego pojazdu, o którym mowa w art. 25 ust. 1 lub art. 33 ust. 3 tej ustawy, albo równoważnego dokumentu wydanego w innym państwie, organ rejestrujący, po upływie 30 dni od dnia otrzymania informacji od administratora danych i informacji zgromadzonych w ewidencji o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, dokonuje wyrejestrowania pojazdu z urzędu.] <3. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu na podstawie informacji otrzymanej od administratora danych i informacji zgromadzonych w centralnej ewidencji pojazdów o przekazaniu przez stację demontażu lub punkt zbierania pojazdów danych, o których mowa w art. 80b ust. 1 pkt 16, niezwłocznie po dniu otrzymania tej informacji, jeżeli do tego dnia właściciel pojazdu nie złożył wniosku o wyrejestrowanie pojazdu na podstawie ust. 1 pkt 1 albo 6.> 3a. W przypadku otrzymania informacji od organu właściwego do rejestracji pojazdów państwa członkowskiego, innego niż Rzeczpospolita Polska, o zarejestrowaniu pojazdu, organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu.
+Pojazd może być unieruchomiony na koszt właściciela przez zastosowanie urządzenia technicznego do blokady kół, jeżeli pozostawiono go w miejscu, gdzie jest to zabronione, lecz nie utrudnia ruchu lub nie zagraża jego bezpieczeństwu.
 
-3b. Organ rejestrujący dokonuje wyrejestrowania pojazdu z urzędu w przypadku gdy wydane zostało pozwolenie czasowe na podstawie art. 74 ust. 2 pkt 2 lit. a i właściciel pojazdu złożył oświadczenie, o którym mowa w art. 74 ust. 6.
+### Art. 49.
 
-4. Pojazd wyrejestrowany nie podlega powtórnej rejestracji, z wyjątkiem pojazdu:
+### 1.
 
-- **1)** odzyskanego po kradzieży;
-- **2)** zabytkowego;
-- **3)** mającego co najmniej 25 lat uznanego przez rzeczoznawcę samochodowego za unikatowy lub mający szczególne znaczenie dla udokumentowania historii motoryzacji;
-- **4)** ciągnika i przyczepy rolniczej;
-- **5)** wywiezionego z kraju lub zbytego za granicą, o którym mowa w ust. 1 pkt 3.
+Zabrania się zatrzymania pojazdu:
 
-5. W przypadku, o którym mowa w ust. 1 pkt 5, warunkiem wyrejestrowania pojazdu jest wniesienie przez właściciela pojazdu opłaty na rzecz gminy na realizację zadań związanych z utrzymaniem czystości i porządku w gminach. Przepisu nie stosuje się do pojazdów Policji i jednostek ochrony przeciwpożarowej.
+### 1)
 
-6. Minister właściwy do spraw administracji publicznej, uwzględniając w szczególności koszty ponoszone przez gminy związane z usuwaniem negatywnych skutków utraty pojazdu oraz kosztów związanych z usuwaniem wraków, określi, w drodze rozporządzenia, wysokość opłaty, o której mowa w ust. 5.
+na przejeździe kolejowym, na przejeździe tramwajowym, na skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania,
 
-**Art. 79a.**
+### 2)
 
-1. Rzeczoznawcą samochodowym jest osoba, która:
+na przejściu dla pieszych, na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem; na drodze dwukierunkowej o dwóch pasach ruchu zakaz ten obowiązuje także za tym przejściem lub przejazdem,
 
-- **1)** (uchylony)
-- **2)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
-- **3)** posiada 2-letnią praktykę zawodową w dziedzinie związanej z motoryzacją;
-- **4)** posiada prawo jazdy kategorii A, B oraz C1 lub C;
-- **5)** nie była karana wyrokiem sądu za przestępstwo umyślne;
-- **6)** posiada certyfikat w zakresie rzeczoznawstwa samochodowego wydany przez jednostkę akredytowaną w polskim systemie akredytacji;
-- **7)** została wpisana na listę rzeczoznawców samochodowych.
+### 3)
 
-1a. Wymogu, o którym mowa w ust. 1 pkt 3, nie stosuje się do osób, które posiadają dyplom ukończenia studiów wyższych na kierunku studiów w obszarze nauk technicznych o specjalności samochodowej.
+w tunelu, na moście lub na wiadukcie,
 
-2. Minister właściwy do spraw transportu wpisuje na listę rzeczoznawców samochodowych osobę, która spełnia wymagania określone w ust. 1 pkt 2–6, i potwierdza wpis, wydając zaświadczenie.
+### 4)
 
-3. Wpis dokonywany jest za opłatą, na okres wynikający z terminu ważności certyfikatu, o którym mowa w ust. 1 pkt 6.
+na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych, jeżeli zmusiłoby to innych kierujących pojazdami wielośladowymi do najeżdżania na tę linię,
 
-4. Na liście rzeczoznawców samochodowych umieszcza się imię i nazwisko rzeczoznawcy oraz jego numer identyfikacyjny.
+### 5)
 
-5. Lista rzeczoznawców jest ogólnie dostępna.
+na jezdni obok linii przerywanej wyznaczającej krawędź jezdni oraz na jezdni i na poboczu obok linii ciągłej wyznaczającej krawędź jezdni,
 
-6. Minister właściwy do spraw transportu prowadzi ewidencję i listę rzeczoznawców samochodowych.
+### 6)
 
-7. Minister właściwy do spraw transportu skreśla rzeczoznawcę z listy rzeczoznawców samochodowych:
+w odległości mniejszej niż 10 m od przedniej strony znaku lub sygnału drogowego, jeżeli zostałyby one zasłonięte przez pojazd,
 
-- **1)** po upływie terminu, o którym mowa w ust. 3;
-- **2)** niespełniającego wymagań, o których mowa w ust. 1 pkt 2–6;
-- **3)** w razie śmierci rzeczoznawcy.
+### 7)
 
-8. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, wysokość opłaty za wpis na listę rzeczoznawców samochodowych oraz wzory dokumentów z tym związanych, w szczególności zaświadczenia potwierdzającego wpis.
+na jezdni przy jej lewej krawędzi, z wyjątkiem zatrzymania lub postoju pojazdu na obszarze zabudowanym na drodze jednokierunkowej lub na jezdni dwukierunkowej o małym ruchu,
 
-**Art. 79b.** W przypadku gdy zmiana stanu faktycznego w zakresie adresu właściciela lub posiadacza pojazdu, wymagająca wydania nowego dowodu rejestracyjnego pojazdu albo nowych blankietów profesjonalnych dowodów rejestracyjnych, spowodowana została zmianami administracyjnymi, rada powiatu może, w drodze uchwały, zmniejszyć opłatę lub zwolnić od jej uiszczenia osoby obowiązane do ubiegania się o wydanie tych dokumentów.
+### 8)
 
-**Art. 79c.** W przypadku utworzenia, połączenia, podzielenia lub zniesienia powiatów lub zmiany nazwy powiatu albo miejscowości, dowody rejestracyjne, blankiety profesjonalnych dowodów rejestracyjnych, pozwolenia czasowe, tablice rejestracyjne, profesjonalne tablice rejestracyjne i znaki legalizacyjne wydane przed dniem wejścia w życie przepisów tworzących, łączących, dzielących lub znoszących powiaty lub zmieniających nazwę powiatu albo miejscowości, zachowują ważność.
+na pasie między jezdniami,
 
-**Art. 80.** Zadania i kompetencje określone w art. 73 ust. 1 i 2, art. 74 ust. 1, art. 74a ust. 1, art. 75, art. 78a ust. 1, art. 79 ust. 1 i art. 80t ust. 2 nie mogą być powierzone w drodze porozumienia gminie. Przepis ten nie dotyczy miasta stołecznego Warszawy.
+### 9)
 
-#### Rozdział 2a Centralna ewidencja pojazdów
+w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką - na całej jej długości,
 
-**Art. 80a.**
+### 10)
 
-1. Tworzy się centralną ewidencję pojazdów, zwaną dalej „ewidencją”.
+w odległości mniejszej niż 15 m od punktów krańcowych wysepki, jeżeli jezdnia z prawej jej strony ma tylko jeden pas ruchu,
 
-2. W ewidencji gromadzi się dane o pojazdach:
+### 11)
 
-- **1)** zarejestrowanych na podstawie art. 73 albo art. 74 oraz o ich właścicielach lub niektórych kategoriach posiadaczy;
-- **2)** w stosunku do których wydano ostateczną decyzję uchylającą decyzję wydaną na podstawie art. 73 albo art. 74 albo decyzję o stwierdzeniu nieważności decyzji wydanej na podstawie art. 73 albo art. 74, albo wydano decyzję odmowną na podstawie art. 74, albo decyzję umarzającą postępowanie po wydaniu decyzji w trybie art. 74, oraz o ich właścicielach lub niektórych kategoriach posiadaczy;
-- **3)** wymienionych w art. 71 ust. 1, które nie zostały zarejestrowane, w stosunku do których:
-    - **a)** przeprowadzono badania techniczne,
-    - **b)** zawarto umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów,
-    - **c)** dokonano wymiany licznika przebiegu pojazdu (drogomierza) i odczytu wskazania wymienionego drogomierza lub dokonano odczytu wskazania drogomierza w czasie kontroli, <d) wydano zezwolenie na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd,> <e) złożono wniosek o rejestrację pojazdu.> <2a. W ewidencji gromadzi się również dane dotyczące wniosków o rejestrację pojazdów oraz dane zamieszczone w tych wnioskach.>
+na drodze (ścieżce) dla rowerów.
 
-3. W ewidencji wyodrębnia się zbiór danych i informacji o pojazdach, o których mowa w art. 73 ust. 3, poprzez jego umieszczenie w odrębnym środowisku informatycznym, spełniającym wymogi w zakresie bezpieczeństwa teleinformatycznego, o których mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2024 r. poz. 632).
+### 2.
 
-4. Ewidencję prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym. W rozumieniu niniejszej ustawy minister ten jest administratorem danych i informacji zgromadzonych w ewidencji.
+Zabrania się postoju:
 
-**Art. 80b.**
+### 1)
 
-1. W ewidencji gromadzi się następujące dane:
+w miejscu utrudniającym wjazd lub wyjazd, w szczególności do i z bramy, garażu, parkingu lub wnęki postojowej,
 
-- **1)** identyfikujące pojazd:
-    - **a)** numer VIN albo numer nadwozia, podwozia lub ramy pojazdu,
-    - **b)** numer rejestracyjny pojazdu;
+### 2)
 
-- **2)** o właścicielu pojazdu:
-    - **a)** imię i nazwisko (nazwę lub firmę),
-    - **b)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
-    - **c)** datę i miejsce urodzenia,
-    - **d)** numer identyfikacyjny REGON,
-    - **e)** adres zamieszkania (siedziby),
-    - **f)** datę zgonu;
+w miejscu utrudniającym dostęp do innego prawidłowo zaparkowanego pojazdu lub wyjazd tego pojazdu,
 
-- **3)** o posiadaczu pojazdu, o którym mowa w art. 73 ust. 5:
-    - **a)** imię i nazwisko (nazwę lub firmę),
-    - **b)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
-    - **c)** datę i miejsce urodzenia,
-    - **d)** numer identyfikacyjny REGON,
-    - **e)** adres zamieszkania (siedziby),
-    - **f)** datę zgonu;
+### 3)
 
-- **4)** o użytkowniku pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu):
-    - **a)** imię i nazwisko (nazwę lub firmę),
-    - **b)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument,
-    - **c)** datę i miejsce urodzenia,
-    - **d)** numer identyfikacyjny REGON,
-    - **e)** adres zamieszkania (siedziby),
-    - **f)** datę zgonu;
+przed i za przejazdem kolejowym, po obu stronach drogi, na odcinku od przejazdu kolejowego do słupka wskaźnikowego z jedną kreską,
 
-- **5)** o zbyciu pojazdu:
-    - **a)** datę zgłoszenia zbycia pojazdu,
-    - **b)** datę zbycia pojazdu,
-    - **c)** dane nabywcy: – imię i nazwisko (nazwę lub firmę), – numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument, – datę i miejsce urodzenia, – numer identyfikacyjny REGON, – adres zamieszkania (siedziby), – datę zgonu;
+### 4)
 
-- **6)** o obowiązkowym ubezpieczeniu odpowiedzialności cywilnej posiadacza pojazdu:
-    - **a)** (uchylona)
-    - **b)** (uchylona)
-    - **c)** (uchylona)
-    - **d)** (uchylona)
-    - **e)** dane zakładu ubezpieczeń, który zawarł umowę,
-    - **f)** dane o umowie;
+w strefie zamieszkania w innym miejscu niż wyznaczone w tym celu,
 
-- **7)** o zastawach rejestrowych ustanowionych na pojeździe:
-    - **a)** dane o pojeździe, na którym ustanowiono zastaw rejestrowy,
-    - **c)** numer pozycji w rejestrze zastawów,
-    - **d)** datę dokonania wpisu w rejestrze zastawów,
-    - **e)** imię i nazwisko (nazwę lub firmę) zastawnika,
-    - **f)** numer PESEL zastawnika,
-    - **g)** numer identyfikacyjny REGON zastawnika,
-    - **h)** datę wykreślenia zastawu z rejestru zastawów,
-    - **i)** nazwę (oznaczenie) sądu, który dokonał wpisu;
+### 5)
 
-- **8)** o dokumentach pojazdu:
-    - **a)** dane o dowodzie rejestracyjnym,
-    - **b)** dane o pozwoleniu czasowym
-    - **c)** (uchylona) – oraz o ich wtórnikach;
+na obszarze zabudowanym, pojazdu lub zespołu pojazdów o dopuszczalnej masie całkowitej przekraczającej 16 t lub o długości przekraczającej 12 m, poza wyznaczonymi w tym celu parkingami.
 
-- **8a)** o profesjonalnej rejestracji pojazdów, w tym wynikające z decyzji o profesjonalnej rejestracji pojazdów i dotyczące blankietów profesjonalnych dowodów rejestracyjnych;
-- **8b)** zamieszczone w wykazie pojazdów używanych w ruchu drogowym prowadzonym przez podmiot uprawniony, o którym mowa w art. 80s ust. 2: <8c) dotyczące wniosków o rejestrację pojazdów oraz zamieszczone w tych wnioskach;>
-    - **a)** o pojazdach używanych przez podmiot uprawniony w ruchu drogowym z wykorzystaniem profesjonalnych dowodów rejestracyjnych,
-    - **b)** o profesjonalnych dowodach rejestracyjnych;
+### 3.
 
-- **9)** o tablicach rejestracyjnych pojazdu i ich legalizacji oraz o ich wtórnikach;
-- **9a)** o profesjonalnych tablicach rejestracyjnych oraz ich legalizacji;
-- **10)** o badaniach technicznych pojazdu;
-- **11)** o szkodach istotnych;
-- **12)** o nadaniu i wybiciu nowego numeru nadwozia (podwozia);
-- **13)** techniczne o pojeździe;
-- **14)** o kradzieży i odnalezieniu pojazdu;
-- **15)** o zatrzymaniu dowodu rejestracyjnego albo pozwolenia czasowego;
-- **15a)** o zatrzymaniu profesjonalnego dowodu rejestracyjnego lub blankietu profesjonalnego dowodu rejestracyjnego;
-- **16)** o demontażu pojazdu lub przyjęciu niekompletnego pojazdu;
-- **16a)** o stacjach demontażu lub punktach zbierania pojazdów;
-- **17)** o czasowym wycofaniu i ponownym dopuszczeniu do ruchu pojazdu oraz o jego wyrejestrowaniu;
-- **18)** o homologacji pojazdu, dopuszczeniu jednostkowym pojazdu, krajowym indywidualnym dopuszczeniu pojazdu, unijnym indywidualnym dopuszczeniu pojazdu, dopuszczeniu indywidualnym WE pojazdu, dopuszczeniu do ruchu drogowego pojazdu z końcowej partii produkcji;
-- **19)** identyfikator osoby lub podmiotu dokonujących w ewidencji wprowadzenia lub zmiany danych;
-- **20)** o zabezpieczeniach ustanowionych na pojeździe, w tym o zajęciu pojazdu przez organ egzekucyjny, oraz o ich zniesieniu;
-- **21)** o wymianie drogomierza; <21a) o wydanych zezwoleniach na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd;>
-- **22)** o odczycie wskazania drogomierza w czasie kontroli; <23) o przekroczeniach terminów, o których mowa w art. 78 ust. 2 pkt 1.> [2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–22, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .] <2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–23, przekazywanych przez podmioty, o których mowa w art. 80ba ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także obowiązek monitorowania i sprawozdawczości w odniesieniu do emisji CO .>
+Zabrania się zatrzymania lub postoju pojazdu na autostradzie lub drodze ekspresowej w innym miejscu niż wyznaczone w tym celu. Jeżeli unieruchomienie pojazdu nastąpiło z przyczyn technicznych, kierujący pojazdem jest obowiązany usunąć pojazd z jezdni oraz ostrzec innych uczestników ruchu.
 
-3. Danych zgromadzonych w ewidencji nie usuwa się.
+### 4.
 
-4. (uchylony)
+Zakaz zatrzymania lub postoju pojazdu nie dotyczy unieruchomienia pojazdu wynikającego z warunków lub przepisów ruchu drogowego.
 
-5. Administrator danych i informacji zgromadzonych w ewidencji przekazuje staroście informację o zatrzymaniu profesjonalnego dowodu rejestracyjnego oraz o niezwróceniu przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych w terminie określonym w art. 80y ust. 1 poprzez jej automatyczne udostępnienie przez system teleinformatyczny obsługujący ewidencję do pobrania za pomocą systemu teleinformatycznego, z wykorzystaniem którego starosta wykonuje zadania związane z rejestracją pojazdów. Art. 80ba. 1. Dane, o których mowa w art. 80b ust. 1, są przekazywane do ewidencji: [1) przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, 8a, 9 i 9a, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18 i 20;] <1) przez organ właściwy w sprawach rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1, pkt 2–5 z wyłączeniem daty zgonu, pkt 8, [8a, 9 i 9a] <8a i 8c–9a>, pkt 10 w zakresie terminu okresowego badania technicznego pojazdu w przypadku rejestracji pojazdu wcześniej niezarejestrowanego na terytorium Rzeczypospolitej Polskiej, pkt 12, 13, 17, 18, 20 i 23;>
+### Art. 50.
 
-- **2)** przez zakłady ubezpieczeń – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 6 i 11, oraz w przypadku zawierania umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów dla pojazdu niezarejestrowanego także pkt 1 i 13;
-- **2a)** przez podmiot uprawniony, o którym mowa w art. 80s ust. 2, któremu wydano decyzję o profesjonalnej rejestracji pojazdów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 8b;
-- **3)** przez właściwą jednostkę organizacyjną Policji – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 14;
-- **4)** przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Krajowej Administracji Skarbowej, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 15 i 15a;
-- **5)** przez centralną informację o zastawach rejestrowych, za pośrednictwem systemu teleinformatycznego Ministra Sprawiedliwości, niezwłocznie po dokonaniu przez sąd wpisu zastawu rejestrowego do rejestru zastawów – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 7;
-- **6)** przez stacje kontroli pojazdów – z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3 – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 10, 15 i 21, oraz w przypadku przeprowadzania badania technicznego lub dokonania odczytu drogomierza pojazdu niezarejestrowanego – także pkt 1 i 13;
-- **6a)** przez właściwą jednostkę organizacyjną Policji, Straży Granicznej, Inspekcji Transportu Drogowego, Żandarmerii Wojskowej lub Służby Celno-Skarbowej – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 22, a w przypadku odczytu drogomierza pojazdu niezarejestrowanego – także pkt 1 i 13;
-- **7)** przez Ubezpieczeniowy Fundusz Gwarancyjny – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 11.
-- **8)** przez marszałka województwa – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16a;
-- **9)** przez stację demontażu lub punkty zbierania pojazdów – z wyłączeniem pojazdów, o których mowa w art. 73 ust. 3 – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 16;
-- **10)** przez Dyrektora Transportowego Dozoru Technicznego – w zakresie danych, o których mowa w art. 80b ust. 1 pkt 21a, oraz w przypadku wydania zezwolenia na odstępstwo od warunków technicznych, jakim powinien odpowiadać pojazd, dla pojazdu niezarejestrowanego – także w zakresie danych, o których mowa w art. 80b ust. 1 pkt 1 lit. a i pkt 13. [1a. Dane, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8– 18 i 20–22, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.] <1a. Dane, o których mowa w art. 80b ust. 1 pkt 6 lit. e i f, pkt 7 lit. a, pkt 8–18 i 20–23, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.>
+### 1.
 
-2. Dane, o których mowa w art. 80b ust. 1 pkt 19, są uzupełniane w sposób automatyczny przez system teleinformatyczny obsługujący ewidencję.
+Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku:
 
-3. Podmioty wymienione w ust. 1 wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty.
+### 1)
 
-4. Podmioty wymienione w ust. 1 pkt 2 wprowadzają dane do ewidencji za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych (Dz. U. z 2023 r. poz. 2500).
+na autostradzie lub drodze ekspresowej - w każdym przypadku,
 
-4a. Podmiot wymieniony w ust. 1 pkt 8 może wprowadzać dane za pośrednictwem systemu teleinformatycznego obsługującego bazę danych, o której mowa w art. 79 ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, 1597, 1688, 1852 i 2029).
+### 2)
 
-5. Dane gromadzone w ewidencji są do niej przekazywane z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), krajowego rejestru urzędowego podziału terytorialnego kraju (TERYT), centralnej ewidencji kierowców, centralnej ewidencji posiadaczy kart parkingowych, rejestru zastawów oraz Ubezpieczeniowego Funduszu Gwarancyjnego, o ile są w nich gromadzone.
+na pozostałych drogach twardych:
 
-6. Minister właściwy do spraw informatyzacji:
+### a)
 
-- **1)** może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON, TERYT, centralną ewidencją kierowców i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych;
-- **3)** w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym oraz warunki, sposób i tryb współdziałania ewidencji i funduszu w zakresie przekazywania danych przez zakłady ubezpieczeń, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a Ubezpieczeniowym Funduszem Gwarancyjnym, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 80bb. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 80ba ust. 1, zapewnia się dostęp do danych zgromadzonych w ewidencji.
+poza obszarem zabudowanym - w razie postoju na jezdni w miejscu, w którym jest to zabronione, a na poboczu, jeżeli pojazd nie jest widoczny z dostatecznej odległości,
 
-2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub w REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
+### b)
 
-2a. W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji kierowców oraz centralnej ewidencji posiadaczy kart parkingowych, o ile są w nich gromadzone.
+na obszarze zabudowanym - w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione.
 
-2b. Obowiązek weryfikacji danych, o którym mowa w ust. 2, nie dotyczy danych, o których mowa w art. 80b ust. 1 pkt 8b.
+### 2.
 
-3. System teleinformatyczny obsługujący ewidencję generuje komunikat o:
+Postój pojazdu, o którym mowa w ust. 1, należy sygnalizować w sposób następujący:
 
-- **1)** wprowadzeniu danych do ewidencji – w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji;
-- **2)** niewprowadzeniu danych do ewidencji – w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji.
+### 1)
 
-4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+na autostradzie lub drodze ekspresowej - przez:
 
-- **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 80ba ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości danych przekazywanych do ewidencji i jej referencyjny charakter. Art. 80bc. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 80bd. 33) 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 80bb.
+### a)
 
-2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
+włączenie świateł awaryjnych pojazdu, a jeżeli pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne,
 
-3. W celu wyjaśnienia niezgodności administrator danych i informacji zgromadzonych w ewidencji niezwłocznie powiadamia, za pomocą systemu teleinformatycznego obsługującego ewidencję, o niezgodności podmiot, który wprowadził dane, których niezgodność dotyczy, w przypadku:
+### b)
 
-- **1)** stwierdzenia niezgodności przez administratora danych i informacji zgromadzonych w ewidencji;
-- **2)** o którym mowa w ust. 2.
+umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem; trójkąt ten umieszcza się na jezdni lub poboczu, odpowiednio do miejsca unieruchomienia pojazdu,
 
-3a. Przepisów ust. 1–3 nie stosuje się do danych, o których mowa w art. 80b ust. 1 pkt 8b.
+### 2)
 
-4. Podmiot, o którym mowa w ust. 1 i 3, wyjaśnia tę niezgodność, w szczególności w oparciu o posiadane dokumenty lub dane.
+na pozostałych drogach:
 
-5. Podmiot, o którym mowa w ust. 1 i 3, niezwłocznie informuje, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratora danych i informacji zgromadzonych w ewidencji o wyjaśnieniu tej niezgodności w przypadku:
+### a)
 
-- **1)** wprowadzenia poprawnych danych do ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane;
-- **2)** stwierdzenia, że wprowadzone do ewidencji dane są poprawne;
-- **3)** stwierdzenia braku możliwości usunięcia niezgodności, z podaniem uzasadnienia.
+poza obszarem zabudowanym - przez umieszczenie w odległości 30-50 m za pojazdem ostrzegawczego trójkąta odblaskowego i włączenie świateł awaryjnych; w razie gdy pojazd nie jest wyposażony w światła awaryjne, należy włączyć światła pozycyjne,
 
-6. Wprowadzenie do ewidencji danych, w stosunku do których stwierdzono niezgodność, o której mowa w ust. 2, wymaga uprzedniego wyjaśnienia tej niezgodności.
+### b)
 
-7. Administrator danych i informacji zgromadzonych w ewidencji umożliwi wprowadzenie do ewidencji danych bez uprzedniego wyjaśnienia niezgodności, jeżeli jest to niezbędne do realizacji zadań wynikających z przepisów odrębnych realizowanych przez podmioty obowiązane do wprowadzania danych do ewidencji w terminach wynikających z przepisów ustawowych.
+na obszarze zabudowanym - przez włączenie świateł awaryjnych, a jeżeli pojazd nie jest w nie wyposażony, należy włączyć światła pozycyjne i umieścić ostrzegawczy trójkąt odblaskowy za pojazdem lub na nim, na wysokości nie większej niż 1 metr.
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji pojazdów przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo. Art. 80be. 34) 1. Organy właściwe do prowadzenia rejestru przedsiębiorców prowadzących stacje kontroli pojazdów przekazują administratorowi danych i informacji zgromadzonych w ewidencji oraz aktualizują następujące dane o przedsiębiorcach prowadzących stacje kontroli pojazdów:
+### 3.
 
-- **1)** firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;
-- **2)** adres stacji kontroli pojazdów;
-- **3)** numer identyfikacyjny REGON;
-- **4)** kod rozpoznawczy stacji kontroli pojazdów;
-- **5)** zakres badań;
-- **6)** datę wpisu do rejestru;
-- **7)** datę wykreślenia z rejestru;
-- **8)** imiona i nazwiska zatrudnionych diagnostów wraz z numerami ich uprawnień.
+Sygnalizowanie, o którym mowa w ust. 1 i 2, obowiązuje przez cały czas postoju pojazdu.
 
-2. Przekazanie danych, o których mowa w ust. 1, następuje niezwłocznie nie później niż w terminie 2 dni roboczych, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty. Art. 80bg. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812) minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji. Art. 80bh. 1. Tworzy się elektroniczny katalog marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej, zwany dalej „katalogiem”.
+### Oddział 3 Używanie świateł zewnętrznych
 
-2. Katalog jest katalogiem referencyjnym służącym do wprowadzenia danych pojazdów do ewidencji na podstawie danych określonych w dokumentach przedstawionych do rejestracji pojazdu.
+### Art. 51.
 
-3. W katalogu prowadzonym w systemie teleinformatycznym podmiotu odpowiedzialnego za prowadzenie katalogu gromadzi się dane o typach pojazdów lub pojazdach, które mają być dopuszczone do ruchu na terytorium Rzeczypospolitej Polskiej, takie jak dane o:
+### 1.
 
-- **1)** typie pojazdu, na który zostało wydane:
-    - **a)** świadectwo homologacji typu WE pojazdu,
-    - **b)** świadectwo homologacji typu pojazdu,
-    - **c)** świadectwo homologacji typu WE pojazdu w odniesieniu do pojazdów produkowanych w małych seriach,
-    - **d)** świadectwo homologacji typu pojazdu w odniesieniu do pojazdów produkowanych w małych seriach,
-    - **e)** dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, w tym: – świadectwo homologacji typu UE pojazdu, – świadectwo homologacji typu ONZ wydane dla pojazdu, – świadectwo krajowej homologacji typu pojazdu, – świadectwo krajowej homologacji typu pojazdów produkowanych w małych seriach, – świadectwo krajowej homologacji typu tramwaju, – świadectwo krajowej homologacji typu trolejbusu;
+Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza:
 
-- **2)** typie pojazdu, na który zostało wydane zezwolenie na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji;
-- **3)** typie pojazdu, na który zostało wydane przez Dyrektora Transportowego Dozoru Technicznego:
-    - **a)** uznanie świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **b)** uznanie świadectwa homologacji typu pojazdu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej albo
-    - **c)** dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – uznanie świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznanie świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;
+### 1)
 
-- **4)** pojeździe, na który udzielono:
-    - **a)** dopuszczenia jednostkowego pojazdu albo
-    - **b)** świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia;
+w czasie od zmierzchu do świtu,
 
-- **5)** pojeździe, na który udzielono:
-    - **a)** świadectwa dopuszczenia indywidualnego WE pojazdu albo
-    - **b)** świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia;
+### 2)
 
-- **6)** pojeździe, dla którego zostało wydane przez Dyrektora Transportowego Dozoru Technicznego uznanie:
-    - **a)** dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **b)** świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia;
+w okresie od 1 października do ostatniego dnia lutego - przez całą dobę,
 
-- **7)** typach pojazdów albo pojazdach, dopuszczonych do ruchu drogowego, innych niż wymienione w pkt 1–6.
+### 3)
 
-4. Dane, o których mowa w ust. 2 i 3, przekazuje do katalogu:
+w tunelu.
 
-- **1)** Dyrektor Transportowego Dozoru Technicznego na podstawie:
-    - **a)** wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ wydanego dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu tramwaju, – – świadectwa krajowej homologacji typu trolejbusu,
-    - **b)** udzielonego zezwolenia na dopuszczenie do ruchu drogowego pojazdu z końcowej partii produkcji,
-    - **c)** wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania świadectwa homologacji typu pojazdu wydanego zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa homologacji typu pojazdu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – uznania świadectwa krajowej homologacji typu pojazdu wydanego zgodnie z procedurą krajowej homologacji typu przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – – uznania świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach wydanego na dany typ pojazdu zgodnie z procedurą krajowej homologacji typu pojazdów produkowanych w małych seriach przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej,
-    - **d)** posiadanych informacji o wygaśnięciu albo cofnięciu dokumentów, o których mowa w lit. a, informacji o upływie terminu ważności zezwolenia, o którym mowa w lit. b, albo w przypadku uchylenia uznań, o których mowa w lit. c,
-    - **e)** udzielonego dopuszczenia jednostkowego pojazdu albo świadectwa krajowego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 33 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia,
-    - **f)** świadectwa dopuszczenia indywidualnego WE pojazdu albo świadectwa unijnego indywidualnego dopuszczenia pojazdu, o którym mowa w art. 2 ust. 1 pkt 32 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia,
-    - **g)** wydanego przez Dyrektora Transportowego Dozoru Technicznego: – uznania dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – uznania świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia;
+### 2.
 
-- **2)** organ właściwy w sprawach rejestracji pojazdów – na podstawie dokumentów załączonych do wniosku o rejestrację pojazdu, w przypadkach innych niż określone w pkt 1;
-- **3)** producent lub importer nowego pojazdu samochodowego, ciągnika rolniczego, motoroweru, trolejbusu lub przyczepy na podstawie:
-    - **a)** wydanego: – świadectwa homologacji typu WE pojazdu, – świadectwa homologacji typu pojazdu, – świadectwa homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach, – świadectwa homologacji typu pojazdu dla pojazdów produkowanych w małych seriach, – dokumentu, o którym mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – – świadectwa homologacji typu UE pojazdu, – – świadectwa homologacji typu ONZ dla pojazdu, – – świadectwa krajowej homologacji typu pojazdu, – – świadectwa krajowej homologacji typu pojazdów produkowanych w małych seriach, – – świadectwa krajowej homologacji typu trolejbusu,
-    - **b)** wydanego przez Dyrektora Transportowego Dozoru Technicznego uznania: – dopuszczenia jednostkowego pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, – świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, o którym mowa w art. 64 ust. 1 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia.
+W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej.
 
-5. Katalog opracowuje podmiot odpowiedzialny za jego prowadzenie, który gromadzi w nim dane oraz dokonuje ich weryfikacji na podstawie danych pochodzących z dokumentów, o których mowa w ust. 4.
+### 3.
 
-6. Podmiot odpowiedzialny za prowadzenie katalogu udostępnia bezpłatnie, za pośrednictwem systemu teleinformatycznego, dane gromadzone w tym katalogu:
+W czasie od zmierzchu do świtu, na nie oświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie. Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się:
 
-- **1)** Dyrektorowi Transportowego Dozoru Technicznego;
-- **2)** organowi właściwemu w sprawach rejestracji pojazdów;
-- **3)** administratorowi danych i informacji zgromadzonych w ewidencji – na potrzeby przetwarzania i udostępniania danych zgromadzonych w ewidencji;
-- **4)** podmiotowi obowiązanemu do przekazywania danych do centralnej ewidencji pojazdów – na potrzeby przekazywania tych danych.
+### 1)
 
-7. Zadania związane z utworzeniem, rozwojem i funkcjonowaniem katalogu są finansowane z przychodów funduszu, o którym mowa w art. 80d ust. 2.
+pojazdu nadjeżdżającego z przeciwka, przy czym jeżeli jeden z kierujących wyłączył światła drogowe - drugi jest obowiązany uczynić to samo,
 
-8. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, podmiot odpowiedzialny za prowadzenie katalogu, w tym gromadzenie danych w katalogu oraz ich weryfikację, mając na względzie konieczność zapewnienia przejrzystego, obiektywnego i konkurencyjnego sposobu wyboru tego podmiotu, a także prawidłowego i sprawnego funkcjonowania procesu gromadzenia i weryfikacji danych w katalogu, jednolity system ich przekazywania i udostępniania oraz możliwości techniczne realizacji tych zadań.
+### 2)
 
-9. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, zakres, sposób i tryb przekazywania danych do katalogu oraz ich udostępniania, a także gromadzenia danych w katalogu oraz ich weryfikacji, mając na względzie konieczność zapewnienia prawidłowego i sprawnego funkcjonowania procesu gromadzenia i weryfikacji danych w katalogu, jednolity system ich przekazywania i udostępniania oraz możliwości techniczne realizacji tych zadań.
+do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony,
 
-**Art. 80c.**
+### 3)
 
-1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
+pojazdu szynowego lub komunikacji wodnej, jeżeli poruszają się w takiej odległości, że istnieje możliwość oślepienia kierujących tymi pojazdami.
 
-- **1)** Policji;
-- **2)** Żandarmerii Wojskowej;
-- **3)** Straży Granicznej;
-- **4)** Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-- **5)** Centralnemu Biuru Antykorupcyjnemu;
-- **6)** Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
-- **7)** Komendantowi Służby Ochrony Państwa;
-- **7a)** Inspektorowi Nadzoru Wewnętrznego;
-- **7b)** (uchylony)
-- **8)** sądom;
-- **9)** prokuraturze;
-- **10)** organom Krajowej Administracji Skarbowej;
-- **11)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu;
-- **12)** Polskiemu Biuru Ubezpieczycieli Komunikacyjnych;
-- **13)** Zakładowi Ubezpieczeń Społecznych – w celu umożliwienia zabezpieczenia ustawowym prawem zastawu należności z tytułu składek, do których poboru Zakład Ubezpieczeń Społecznych jest obowiązany;
-- **14)** organom właściwym w sprawach rejestracji pojazdów;
-- **14a)** organom właściwym w sprawach realizacji zadań związanych z prowadzeniem strefy czystego transportu;
-- **15)** strażom gminnym (miejskim);
-- **16)** Inspekcji Transportu Drogowego;
-- **17)** Szefowi Krajowego Centrum Informacji Kryminalnych;
-- **18)** komornikom sądowym;
-- **19)** administracyjnym organom egzekucyjnym oraz organom podatkowym;
-- **20)** szefom wojskowych centrów rekrutacji;
-- **20a)** ministrowi właściwemu do spraw klimatu;
-- **21)** ministrowi właściwemu do spraw środowiska;
-- **22)** ministrowi właściwemu do spraw transportu;
-- **23)** (uchylony)
-- **24)** Prezesowi Głównego Urzędu Statystycznego;
-- **25)** zakładom ubezpieczeń;
-- **26)** stacjom kontroli pojazdów;
-- **27)** Dyrektorowi Transportowego Dozoru Technicznego; < 27a) Krajowemu Koordynatorowi Prac Badawczych;>
-- **28)** organom właściwym w sprawach realizacji zadań związanych z funkcjonowaniem stref płatnego parkowania;
-- **29)** ministrowi właściwemu do spraw zabezpieczenia społecznego, kierownikowi ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektorowi centrum usług społecznych lub pracownikowi socjalnemu;
-- **30)** organowi prowadzącemu Rejestr Zastawów Skarbowych;
-- **31)** organom Inspekcji Ochrony Środowiska;
-- **31a)** organom nadzoru górniczego;
-- **32)** organom administracji miar;
-- **33)** Krajowemu ośrodkowi bilansowania i zarządzania emisjami;
-- **34)** Straży Leśnej i Straży Parku;
-- **35)** podmiotowi odpowiedzialnemu za prowadzenie katalogu, o którym mowa w art. 80bh ust. 8.
+### 4.
 
-2. Dane o pojazdach, o których mowa w art. 73 ust. 3, udostępnia się wyłącznie podmiotom określonym w ust. 1 pkt 1–10 i 16 oraz w ust. 2a.
+Kierujący motocyklem, motorowerem lub pojazdem szynowym jest obowiązany używać podczas jazdy świateł mijania, z zastrzeżeniem ust. 3.
 
-2a. Dane lub informacje zgromadzone w ewidencji udostępnia się także ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw finansów publicznych, w celu realizacji jego ustawowych zadań, za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku.
+### 5.
 
-3. Zgromadzone w ewidencji dane mogą być udostępniane sądom za pośrednictwem systemu teleinformatycznego, którego administratorem jest Minister Sprawiedliwości, na wniosek tego ministra.
+Na drodze krętej, oznaczonej odpowiednimi znakami drogowymi, kierujący pojazdem może używać przednich świateł przeciwmgłowych od zmierzchu do świtu, również w warunkach normalnej przejrzystości powietrza.
 
-3a. Zgromadzone w ewidencji dane udostępnia się zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
+### 6.
 
-4. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej za pomocą środków komunikacji elektronicznej na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Udostępnienie danych w innej postaci może nastąpić wyłącznie w przypadku, gdy nie będzie możliwe udostępnienie w postaci elektronicznej.
+Przepisów ust. 1-4 nie stosuje się do kierujących pojazdami, które nie są wyposażone w światła mijania, drogowe lub światła do jazdy dziennej. W przypadkach określonych w ust. 1 pkt 1 i 3 zamiast tych świateł należy używać świateł stanowiących obowiązkowe wyposażenie pojazdów.
 
-5. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+### 7.
 
-6. Minister właściwy do spraw informatyzacji może wyrazić zgodę na udostępnianie danych zgromadzonych w ewidencji podmiotom, o których mowa w ust. 1, z uwzględnieniem ust. 6a, albo ich jednostkom organizacyjnym, za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku, jeżeli spełniają łącznie następujące warunki:
+Przepisy ust. 1-5 stosuje się odpowiednio podczas zatrzymania pojazdu, wynikającego z warunków lub przepisów ruchu drogowego. Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy.
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne, zapewniające poufność, integralność, dostępność i autentyczność przetwarzanych danych;
-- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
+### Art. 52.
 
-6a. Podmiotowi, o którym mowa w ust. 1 pkt 18, dane zgromadzone w ewidencji udostępnia się wyłącznie za pomocą urządzeń teletransmisji danych, po spełnieniu warunków, o których mowa w ust. 6.
+### 1.
 
-6b. Wyrażenie zgody, o której mowa w ust. 6, stanowi czynność materialno-techniczną.
+Kierujący pojazdem silnikowym lub szynowym jest obowiązany, podczas zatrzymania lub postoju w warunkach niedostatecznej widoczności, używać świateł pozycyjnych przednich i tylnych lub świateł postojowych. Dopuszcza się włączenie świateł postojowych jedynie od strony środka jezdni w pojeździe nie złączonym z przyczepą oraz w zespole pojazdów o długości nie przekraczającej 6 m.
 
-7. (uchylony)
+### 2.
 
-8. Minister właściwy do spraw informatyzacji, w drodze decyzji:
+Podczas zatrzymania lub postoju, w miejscu oświetlonym w stopniu zapewniającym widoczność pojazdu lub znajdującym się poza jezdnią i poboczem, wszystkie światła pojazdu mogą być wyłączone. Przepis ten nie dotyczy pojazdu szynowego oraz pojazdu, na którym znajduje się urządzenie lub ładunek, wystające poza pojazd i wymagające oznaczenia odrębnymi światłami.
 
-- **1)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, nie spełniają warunków, o których mowa w ust. 6;
-- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 6. Art. 80ca. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej. <Art. 80caa. Dane zgromadzone w ewidencji dotyczące pojazdów, z wyłączeniem danych właściciela, posiadacza lub użytkownika pojazdu, udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy zastosowaniu urządzeń, oprogramowania i procedur określonych w art. 80l w celu umożliwienia weryfikacji danych przed rejestracją pojazdu w danym państwie członkowskim.> Art. 80cb. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego. <Raport z systemu teleinformatycznego potwierdza dane zgromadzone w ewidencji i nie wymaga podpisu ani pieczęci.>
+### 3.
 
-2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+Światło oświetlające przedmioty przydrożne (szperacz) może być włączone tylko podczas zatrzymania lub postoju, pod warunkiem że nie oślepi innych uczestników ruchu. Ograniczenie to nie dotyczy pojazdu uprzywilejowanego.
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### Oddział 4 Warunki używania pojazdów w ruchu drogowym
 
-- **1)** dane, których podanie jest wymagane do udostępnienia poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 80cba. Każdemu zainteresowanemu, po podaniu numeru rejestracyjnego pojazdu, udostępnia się, za pośrednictwem usługi sieciowej, następujące dane pojazdu:
-- **1)** markę, typ i model (nazwę handlową);
-- **2)** poziom emisji zanieczyszczeń (normy EURO);
-- **3)** rodzaj paliwa, rodzaj pierwszego paliwa alternatywnego, rodzaj drugiego paliwa alternatywnego;
-- **4)** rok produkcji. Art. 80cc. 1. Dane zgromadzone w ewidencji udostępnia się także na wniosek właściciela pojazdu, posiadacza pojazdu wymienionego w art. 73 ust. 5 oraz użytkownika pojazdu użytkowanego na podstawie umowy leasingu, o rejestrację którego wnioskował leasingodawca (właściciel pojazdu), których one dotyczą.
+### Art. 53.
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80cd. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 80c–80cc, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+### 1.
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 80ce. 1. Dane lub informacje zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób lub pojazdów, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), jeżeli przepisy ustawy nie stanowią inaczej.
+Pojazdem uprzywilejowanym w ruchu drogowym może być pojazd samochodowy:
 
-2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+### 1)
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 80cf. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 80c ust. 5, art. 80cc ust. 2, art. 80cd ust. 2 oraz art. 80ce ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+straży pożarnej,
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 80c i art. 80cc–80ce, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 80cg. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+### 2)
 
-- **1)** nieodpłatnie, w przypadku danych: 2 organom administracji publicznej, niewymienionym w art. 80c ust. 1, w celach niekomercyjnych, 3, w celach komercyjnych i niekomercyjnych;
-    - **a)** udostępnianych na podstawie art. 80c–80cc,
-    - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust.
-    - **c)** udostępnianych na podstawie art. 80ce w sposób określony w art. 80ce ust.
+pogotowia ratunkowego,
 
-- **2)** odpłatnie, w przypadku danych: 2, w celach komercyjnych i niekomercyjnych. Art. 80ch. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednego pojazdu lub jednej osoby nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2023 r. poz. 1251, 1429 i 1672 oraz z 2024 r. poz. 834 i 858).
-    - **a)** udostępnianych na podstawie art. 80cd,
-    - **b)** przekazywanych na podstawie art. 80ce w sposób określony w art. 80ce ust.
+### 3)
 
-2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
+Policji,
 
-- **a)** 1,0 – do celów niekomercyjnych,
-- **b)** 1,5 – do celów komercyjnych, A – opłata za prace informatyczne, gdzie A = 0,5H1 × Z + 0,5H2 × Z + 0,75H3 × Z + 10H4 × Z + H5 × Z B – opłata za prace eksploatacyjne, gdzie B = 1,5H6 × 10Z + H7 × 10Z + 1,5H8 × 10Z + 0,6H9 × 10Z + 0,5H10 × 10Z M – koszt materiałów eksploatacyjnych doliczany, w przypadku gdy przekroczy 5 % wartości usługi, a poszczególne symbole oznaczają: H – ilość godzin przeznaczonych na realizację zadania: H1 – czas trwania prac programowo-projektowych, H2 – czas opracowania dokumentacji programowej, H3 – czas trwania prac analitycznych i projektowych, H4 – czas opracowania nowego programu, H5 – czas opracowania programu z gotowych modułów, H6 – czas wyboru podzbioru z bazy danych, H7 – czas przetwarzania wybranych danych, H8 – czas wykonania tablicy statystycznej, H9 – czas drukowania wykazów z wybranego podzbioru zawierającego do 300 danych jednostkowych, H10 – czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych, Z – opłatę za udostępnienie danych jednostkowych z ewidencji.
+### 4)
 
-3. Maksymalna wysokość opłaty, o której mowa w ust. 2, wynosi 23 000 zł.
+jednostki ratownictwa chemicznego,
 
-4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 5)
 
-- **1)** wysokość opłaty za udostępnienie danych jednostkowych z ewidencji,
-- **2)** warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji,
-- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych.
+Straży Granicznej,
 
-**Art. 80d.**
+### 6)
 
-1. (uchylony)
+Urzędu Ochrony Państwa,
 
-2. Tworzy się Fundusz – Centralna Ewidencja Pojazdów i Kierowców, zwany dalej „Funduszem”, którego dysponentem jest minister właściwy do spraw informatyzacji.
+### 7)
 
-3. Fundusz jest państwowym funduszem celowym.
+Żandarmerii Wojskowej i Wojskowych Służb Informacyjnych,
 
-3a. Zakład ubezpieczeń obowiązany do uiszczenia opłaty ewidencyjnej, o której mowa w art. 30 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych:
+### 8)
 
-- **1)** uiszcza opłatę ewidencyjną na rachunek bankowy Funduszu nie rzadziej niż raz na kwartał;
-- **2)** sporządza sprawozdanie z uiszczonych opłat ewidencyjnych zawierające informację o liczbie zawartych przez zakład ubezpieczeń umów ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów, wysokość jednostkowej opłaty ewidencyjnej, informację o wartości uiszczonych opłat ewidencyjnych, informację dotyczącą uiszczonych odsetek za zwłokę od tych opłat, informacje dotyczące zapłaty należności, dane identyfikacyjne zakładu ubezpieczeń składającego sprawozdanie oraz w przypadku nadpłaty lub niedopłaty informację o korekcie sprawozdania;
-- **3)** przekazuje sprawozdanie z uiszczonych opłat ewidencyjnych ministrowi właściwemu do spraw informatyzacji. 3aa. Sprawozdanie, o którym mowa w ust. 3a pkt 3, zakład ubezpieczeń przekazuje w postaci elektronicznej za pomocą środków komunikacji elektronicznej nie rzadziej niż raz na kwartał.
+Służby Więziennej,
 
-3b. Od nieterminowo uiszczonych opłat pobiera się odsetki za zwłokę, w wysokości odsetek należnych za nieterminowe regulowanie zobowiązań podatkowych.
+### 9)
 
-3c. Do należności z tytułu opłaty ewidencyjnej oraz odsetek za zwłokę stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879), z wyłączeniem art. 75 § 4a w zakresie określenia w decyzji stwierdzającej nadpłatę wysokości zobowiązania podatkowego oraz art. 75 § 4b, z tym że uprawnienia organów podatkowych przysługują ministrowi właściwemu do spraw informatyzacji.
+jednostki nie wymienionej w pkt 1-8, jeżeli jest używany w związku z ratowaniem życia lub zdrowia ludzkiego - na podstawie zezwolenia Ministra Spraw Wewnętrznych i Administracji.
 
-4. Przychodami Funduszu są:
+### 2.
 
-- **1)** opłaty pobrane za udostępnienie danych lub informacji z centralnej ewidencji pojazdów i centralnej ewidencji kierowców;
-- **2)** (uchylony) 2a) (uchylony)
-- **3)** opłata ewidencyjna, o której mowa w art. 30 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych;
-- **4)** (uchylony) 4a) (uchylony)
-- **5)** odsetki za zwłokę pobierane z tytułu nieterminowo uiszczanych opłat ewidencyjnych;
-- **6)** odsetki od wolnych środków przekazanych w zarządzanie zgodnie z przepisami o finansach publicznych;
-- **7)** inne przychody.
+Kierujący pojazdem uprzywilejowanym może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o ruchu pojazdów, zatrzymaniu i postoju oraz do znaków i sygnałów drogowych tylko w razie, gdy:
 
-4a. Ściągnięcie należności z tytułu należnej opłaty ewidencyjnej i odsetek, o których mowa w ust. 3b, następuje na podstawie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858 i 859) – w zakresie egzekucji obowiązków o charakterze pieniężnym.
+### 1)
 
-5. Wydatki Funduszu są przeznaczone na finansowanie wydatków związanych z utworzeniem, rozwojem i funkcjonowaniem centralnej ewidencji pojazdów i centralnej ewidencji kierowców, w tym Krajowego Punktu Kontaktowego, centralnej ewidencji posiadaczy kart parkingowych oraz elektronicznego katalogu marek i typów pojazdów homologowanych oraz dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej.
+uczestniczy:
 
-5a. Ze środków Funduszu może być dokonana wpłata na rachunek budżetu państwa.
+### a)
 
-5b. Wydatki Funduszu mogą być przeznaczone na finansowanie wydatków związanych z realizacją zadań, o których mowa w art. 19 ust. 1 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel [(Dz. U. poz. 1234 oraz z 2024 r. poz. 854)] .
+w akcji związanej z ratowaniem życia, zdrowia ludzkiego lub mienia albo koniecznością zapewnienia bezpieczeństwa lub porządku publicznego albo
 
-5c. Wydatki Funduszu mogą być przeznaczone na finansowanie wydatków na zakup urządzeń, o których mowa w art. 73 ust. 1ac.
+### b)
 
-6. (uchylony) 6a. Wysokość opłaty ewidencyjnej, o której mowa w art. 30 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, nie może być wyższa niż 0,1 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
+w przejeździe kolumny pojazdów uprzywilejowanych,
 
-7. Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** wysokość opłaty ewidencyjnej, o której mowa w art. 30 ust. 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych,
-- **2)** termin uiszczania opłaty ewidencyjnej przez zakłady ubezpieczeń zobowiązane do uiszczania tej opłaty,
-- **3)** termin, sposób i częstotliwość przekazywania sprawozdania z uiszczonych opłat ewidencyjnych,
-- **4)** wzór sprawozdania z uiszczonych opłat ewidencyjnych ‒ biorąc pod uwagę koszty związane z funkcjonowaniem centralnej ewidencji pojazdów i centralnej ewidencji kierowców, prawidłowość uiszczania opłat ewidencyjnych, aktualność informacji zawartych w przekazywanych sprawozdaniach oraz potrzebę zapewnienia ujednolicenia i przejrzystości przekazywanych informacji.
+pojazd wysyła jednocześnie sygnały świetlny i dźwiękowy; po zatrzymaniu pojazdu nie wymaga się używania sygnału dźwiękowego,
 
-8. (uchylony)
+### 3)
 
-**Art. 80e.**
+w pojeździe włączone są światła drogowe lub mijania.
 
-1. (uchylony)
+### 3.
 
-2. (uchylony)
+Kierujący pojazdem uprzywilejowanym jest obowiązany stosować się do poleceń i sygnałów dawanych przez osoby kierujące ruchem lub upoważnione do jego kontroli.
 
-#### Rozdział 2b (uchylony)
+### 4.
 
-#### Rozdział 2c Krajowy Punkt Kontaktowy
+Minister Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, okoliczności, w jakich używane są pojazdy uprzywilejowane w kolumnach.
 
-**Art. 80k.**
+### Art. 54.
 
-1. Tworzy się Krajowy Punkt Kontaktowy przy centralnej ewidencji pojazdów.
+### 1.
 
-2. Krajowy Punkt Kontaktowy prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym, o którym mowa w art. 80a ust. 4.
+Pojazd wykonujący na drodze prace porządkowe, remontowe lub modernizacyjne powinien wysyłać żółte sygnały błyskowe.
 
-3. Krajowy Punkt Kontaktowy umożliwia wymianę informacji z właściwymi krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej oraz z krajowymi podmiotami uprawnionymi – w zakresie danych dotyczących pojazdów oraz ich właścicieli lub posiadaczy.
+### 2.
 
-4. Krajowymi podmiotami uprawnionymi są, w zakresie niezbędnym do realizacji ich ustawowych zadań:
+Kierujący pojazdem, o którym mowa w ust. 1, może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przepisów o obowiązku jazdy na jezdni lub przy jej prawej krawędzi oraz o zatrzymaniu i postoju, z tym że:
 
-- **1)** Policja;
-- **2)** Inspekcja Transportu Drogowego;
-- **3)** straże gminne (miejskie);
-- **4)** organy celne;
-- **5)** Straż Graniczna.
+### 1)
 
-5. Wymiana informacji, o której mowa w ust. 3, następuje w związku z popełnieniem naruszeń, o których mowa w ust. 6, w szczególności w celu ułatwienia identyfikacji osób podejrzanych o popełnienie naruszenia podczas kierowania pojazdem zarejestrowanym w innym państwie członkowskim Unii Europejskiej na terytorium Rzeczypospolitej Polskiej lub podczas kierowania pojazdem zarejestrowanym w Rzeczypospolitej Polskiej na terytorium innego państwa członkowskiego Unii Europejskiej.
+na jezdni jednokierunkowej oraz poza obszarem zabudowanym, podczas oczyszczania drogi ze śniegu, dopuszcza się również jazdę przy lewej krawędzi jezdni,
 
-6. Wymiana informacji, o której mowa w ust. 3, następuje w związku z popełnieniem następujących naruszeń przepisów ruchu drogowego:
+### 2)
 
-- **1)** niestosowaniem się do ograniczenia prędkości;
-- **2)** niedopełnieniem obowiązku korzystania z pasów bezpieczeństwa lub przewożenia dziecka w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci;
-- **3)** niestosowaniem się do sygnałów świetlnych lub znaków nakazujących zatrzymanie pojazdu;
-- **4)** prowadzeniem pojazdu po użyciu alkoholu albo w stanie nietrzeźwości;
-- **5)** prowadzeniem pojazdu po użyciu lub pod wpływem środka odurzającego;
-- **6)** niedopełnieniem obowiązku używania w czasie jazdy kasków ochronnych;
-- **7)** wykorzystywaniem drogi lub poszczególnych jej części w sposób niezgodny z przeznaczeniem;
-- **8)** korzystaniem podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku.
+jazdę po chodniku dopuszcza się tylko przy zachowaniu bezpieczeństwa pieszych.
 
-**Art. 80l.**
+### 3.
 
-1. Wymianę informacji, o której mowa w art. 80k ust. 3, Krajowy Punkt Kontaktowy realizuje przy użyciu urządzeń teletransmisji danych oraz z wykorzystaniem oprogramowania, o którym mowa w art. 15 ust. 1 decyzji Rady 2008/616/WSiSW z dnia 23 czerwca 2008 r. w sprawie wdrożenia decyzji 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 z
+Pojazd, który ze względu na konstrukcję, ładunek lub nietypowe zachowanie na drodze może zagrażać bezpieczeństwu w ruchu drogowym, powinien wysyłać żółte sygnały błyskowe.
 
-06. 08.2008, str. 12), przez:
+### 4.
 
-- **1)** udostępnianie danych na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej;
-- **2)** przekazywanie zapytań krajowych podmiotów uprawnionych do krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej;
-- **3)** przekazywanie krajowym podmiotom uprawnionym odpowiedzi na złożone przez nie zapytania, o których mowa w pkt 2, udzielonych przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej.
+Zabrania się, z zastrzeżeniem art. 31 ust. 1 pkt 5, używania żółtych sygnałów błyskowych do innych celów niż określone w ust. 1 i 3.
 
-2. Krajowy Punkt Kontaktowy realizuje wymianę informacji z krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej zgodnie z procedurami określonymi w rozdziale 3 pkt 2 i 3 załącznika do decyzji, o której mowa w ust. 1.
+### Art. 55.
 
-**Art. 80m.** Krajowe podmioty uprawnione:
+### 1.
 
-**Art. 80n.** Krajowe podmioty uprawnione przetwarzają dane uzyskane za pośrednictwem Krajowego Punktu Kontaktowego wyłącznie w związku z popełnieniem naruszeń, o których mowa w art. 80k ust. 6.
+Pojazd do nauki jazdy lub przeprowadzania egzaminu państwowego oznacza się tablicą kwadratową barwy niebieskiej z białą literą „L”, umieszczoną na pojeździe. W warunkach niedostatecznej widoczności tablica umieszczona na pojeździe, z wyłączeniem tablicy na motocyklu, powinna być oświetlona. Tablica, którą oznaczony jest motocykl, powinna być wykonana z materiału odblaskowego.
 
-**Art. 80o.**
+### 2.
 
-1. Krajowy Punkt Kontaktowy, na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej, udostępnia tym punktom dane o:
+Podczas kierowania pojazdem do nauki jazdy przez osobę inną niż osoba ubiegająca się o uprawnienie do kierowania pojazdem tablica, o której mowa w ust. 1, powinna być zasłonięta lub złożona.
 
-- **1)** pojeździe:
-    - **a)** numer rejestracyjny,
-    - **b)** numer VIN albo numer nadwozia, podwozia lub ramy pojazdu,
-    - **c)** kraj rejestracji,
-    - **d)** marka,
-    - **e)** model,
-    - **f)** kategoria;
+### 3.
 
-- **2)** właścicielu pojazdu oraz o posiadaczu, o którym mowa w art. 73 ust. 5:
-    - **a)** imię i nazwisko (nazwa lub firma),
-    - **b)** adres zamieszkania (siedziba),
-    - **c)** numer PESEL,
-    - **d)** numer identyfikacyjny REGON,
-    - **e)** datę i miejsce urodzenia.
+Kierujący pojazdem, przejeżdżając obok pojazdu, o którym mowa w ust. 1, lub jadąc za nim, jest obowiązany zachować szczególną ostrożność.
 
-2. Krajowe podmioty uprawnione w zapytaniach o udzielenie informacji podają:
+### Art. 56.
 
-- **1)** kraj rejestracji pojazdu;
-- **2)** numer rejestracyjny pojazdu;
-- **3)** państwo popełnienia naruszenia;
-- **4)** datę popełnienia naruszenia;
-- **5)** godzinę popełnienia naruszenia;
-- **6)** rodzaj naruszenia, o którym mowa w art. 80k ust. 6.
+### 1.
 
-**Art. 80p.**
+Przewóz materiałów niebezpiecznych może odbywać się tylko pojazdem do tego przystosowanym i oznaczonym, stosownie do potrzeb wynikających z właściwości chemicznych, fizycznych lub biologicznych przewożonego materiału.
 
-1. Minister właściwy do spraw informatyzacji sporządza sprawozdanie zawierające:
+### 2.
 
-- **1)** liczbę zapytań o udzielenie informacji kierowanych za pośrednictwem Krajowego Punktu Kontaktowego do krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej w związku z popełnieniem naruszeń, o których mowa w art. 80k ust. 6, wraz z podaniem rodzaju naruszeń, których dotyczyły zapytania i liczby zapytań, które nie skutkowały przekazaniem przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej informacji, o których mowa w art. 80k ust. 3;
-- **2)** liczbę naruszeń, o których mowa w art. 80k ust. 6, w związku z którymi kierowano zapytania za pośrednictwem Krajowego Punktu Kontaktowego, w tym liczbę naruszeń:
-    - **a)** ujawnionych przy pomocy urządzeń rejestrujących,
-    - **b)** w związku z którymi wysłano zawiadomienie o popełnieniu naruszenia;
+Pojazd przewożący materiały niebezpieczne określone w przepisach, o których mowa w ust. 4 pkt 1, oznacza się z przodu i z tyłu tablicami ostrzegawczymi barwy pomarańczowej. Pojazd Sił Zbrojnych lub jednostki wojskowej podporządkowanej Ministrowi Spraw Wewnętrznych i Administracji może być oznaczony tarczami okrągłymi barwy żółtej i czerwonej, umieszczonymi odpowiednio z przodu i z tyłu pojazdu. W tarczę powinien być wpisany trójkąt o barwie czarnej.
 
-- **3)** liczbę wypadków śmiertelnych z udziałem pojazdów zarejestrowanych w innych państwach członkowskich Unii Europejskiej.
+### 3.
 
-2. Minister właściwy do spraw informatyzacji przekazuje Komisji Europejskiej sprawozdanie, o którym mowa w ust. 1, co dwa lata, w terminie do dnia 6 maja za okres dwóch poprzednich lat kalendarzowych.
+Kierujący pojazdem, przejeżdżając obok pojazdu, o którym mowa w ust. 2, lub jadąc za nim albo zatrzymując się w jego pobliżu, jest obowiązany zachować szczególną ostrożność w celu uniknięcia niebezpieczeństwa, a zwłaszcza pożaru, wybuchu lub skażenia środowiska. Obowiązek ten dotyczy również pieszego przechodzącego obok tego pojazdu.
 
-3. Sprawozdanie, o którym mowa w ust. 1, jest sporządzane:
+### 4.
 
-- **1)** w zakresie, o którym mowa w ust. 1 pkt 1 – w oparciu o informacje uzyskane z Krajowego Punktu Kontaktowego;
-- **2)** w zakresie, o którym mowa w ust. 1 pkt 2 i 3 – w oparciu o informacje uzyskane od krajowych podmiotów uprawnionych.
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Obrony Narodowej, Spraw Wewnętrznych i Administracji oraz Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa określi, w drodze rozporządzenia:
 
-4. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw informatyzacji informacje, o których mowa w ust. 1 pkt 2 i 3, na formularzu w postaci elektronicznej, przy użyciu urządzeń teletransmisji danych.
+### 1)
 
-5. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw informatyzacji informacje, o których mowa w ust. 1 pkt 2 i 3, co dwa lata, w terminie do dnia 15 marca za okres dwóch poprzednich lat kalendarzowych.
+materiały niebezpieczne dopuszczone do przewozu drogowego oraz zasady ich klasyfikacji,
 
-**Art. 80q.**
+### 2)
 
-1. Do danych osobowych przetwarzanych na podstawie przepisów niniejszego rozdziału przez Krajowy Punkt Kontaktowy oraz krajowe podmioty uprawnione stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 783).
+warunki i sposób przewozu drogowego materiałów niebezpiecznych,
 
-2. Dane osobowe, o których mowa w ust. 1, mogą być wykorzystywane wyłącznie do celów określonych w art. 80k ust. 5 oraz w związku z popełnieniem naruszeń, o których mowa w art. 80k ust. 6.
+### 3)
 
-3. Każda zainteresowana osoba ma prawo do uzyskania informacji na temat własnych danych osobowych, które zostały przekazane innemu państwu członkowskiemu Unii Europejskiej, w tym informacji o dacie złożenia wniosku oraz o właściwym organie innego państwa członkowskiego Unii Europejskiej, który te dane osobowe uzyskał.
+dodatkowe wymagania dotyczące pojazdu przewożącego określone materiały niebezpieczne, jego wyposażenia i ładunku,
 
-**Art. 80r.** Minister właściwy do spraw informatyzacji w porozumieniu z ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, wzór formularza do przekazywania informacji, o którym mowa w art. 80p ust. 4, kierując się zakresem informacji określonym w art. 80p ust. 1 oraz koniecznością ujednolicenia formy przekazywanych danych. Art. 80ra. Krajowy Punkt Kontaktowy umożliwia ponadto wymianę informacji dotyczących naruszeń obowiązku uiszczenia opłaty elektronicznej na zasadach określonych w przepisach art. 13ma–13mc i art. 13me ustawy z dnia 21 marca 1985 r. o drogach publicznych. <Art. 80rb. Krajowy Punkt Kontaktowy umożliwia również transgraniczną wymianę informacji między organami właściwymi do rejestracji pojazdów innych państw członkowskich i krajowymi organami właściwymi do rejestracji pojazdów, zgodnie z art. 72a i art. 80caa, w celu umożliwienia weryfikacji danych pojazdu przed jego rejestracją.>
+### 4)
 
-#### Rozdział 2d Profesjonalna rejestracja pojazdów
+wymagania odnoszące się do urządzeń technicznych służących do tego przewozu,
 
-**Art. 80s.** [1. Dokumentem stwierdzającym dopuszczenie do ruchu niezarejestrowanego wcześniej na terytorium Rzeczypospolitej Polskiej lub za granicą pojazdu samochodowego, motoroweru, ciągnika rolniczego lub przyczepy w celu wykonywania jazd testowych tymi pojazdami w ramach działalności prowadzonej przez podmiot uprawniony jest profesjonalny dowód rejestracyjny wraz z profesjonalnymi tablicami (tablicą) rejestracyjnymi.] <1. Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, motoroweru, ciągnika rolniczego lub przyczepy w celu wykonywania jazd testowych tymi pojazdami w ramach działalności prowadzonej przez podmiot uprawniony jest profesjonalny dowód rejestracyjny wraz z profesjonalnymi tablicami (tablicą) rejestracyjnymi.> [2. Podmiotami uprawnionymi w ramach prowadzonej działalności do posługiwania się profesjonalnym dowodem rejestracyjnym i profesjonalnymi tablicami (tablicą) rejestracyjnymi są:
+### 5)
 
-**Art. 80t.** [1. O decyzję o profesjonalnej rejestracji pojazdów może ubiegać się podmiot uprawniony, który:
+dokumenty wymagane przy przewozie materiałów niebezpiecznych, ich wzory oraz tryb ich wydawania,
 
-**Art. 80u.**
+### 6)
 
-1. Decyzję o profesjonalnej rejestracji pojazdów starosta wydaje na okres 1 roku, licząc od dnia jej wydania.
+szczegółowy sposób oznakowania pojazdu przewożącego materiały niebezpieczne.
 
-2. W decyzji o profesjonalnej rejestracji pojazdów starosta nadaje jeden albo, na wniosek podmiotu uprawnionego, więcej niż jeden numer rejestracyjny.
+### 5.
 
-3. Do decyzji o profesjonalnej rejestracji pojazdów starosta wydaje:
+Materiały, o których mowa w ust. 4 pkt 1, uważa się za materiały niebezpieczne w rozumieniu ustawy.
 
-- **1)** wypełnione przez siebie blankiety profesjonalnych dowodów rejestracyjnych w liczbie:
-    - **a)** wnioskowanej przez podmiot uprawniony, ale nieprzekraczającej 100 sztuk,
-    - **b)** wnioskowanej – w przypadku podmiotu uprawnionego zajmującego się produkcją pojazdów;
+### Art. 57.
 
-- **2)** zalegalizowane profesjonalne tablice (tablicę) rejestracyjne odpowiadające numerowi rejestracyjnemu albo numerom rejestracyjnym nadanym w decyzji o profesjonalnej rejestracji pojazdów.
+### 1.
 
-4. W okresie ważności decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony, po wykorzystaniu blankietów profesjonalnych dowodów rejestracyjnych, może złożyć staroście wniosek o wydanie dodatkowych blankietów w liczbie określonej w ust. 3 pkt 1, przy czym do wniosku dołącza się profesjonalne dowody rejestracyjne. W takim przypadku starosta wydaje dodatkowy załącznik do decyzji o profesjonalnej rejestracji pojazdów.
+Pojazd przewożący zorganizowaną grupę dzieci lub młodzieży w wieku do 18 lat oznacza się z przodu i z tyłu kwadratowymi tablicami barwy żółtej z symbolem dzieci barwy czarnej. W warunkach niedostatecznej widoczności tablice powinny być oświetlone, chyba że są wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania dzieci lub młodzieży.
 
-**Art. 80v.**
+### 2.
 
-1. Jeżeli nie później niż 60 dni przed upływem daty ważności decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony złoży staroście wniosek o wydanie kolejnej decyzji o profesjonalnej rejestracji pojazdów, starosta wydaje kolejną decyzję o profesjonalnej rejestracji pojazdów, która będzie obowiązywać od dnia następującego po ostatnim dniu terminu ważności poprzedniej decyzji o profesjonalnej rejestracji pojazdów. Przepisy art. 80t i art. 80u stosuje się.
+Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania dzieci lub młodzieży zachować szczególną ostrożność i w razie potrzeby zatrzymać się.
 
-2. Podmiot uprawniony, składając wniosek, o którym mowa w ust. 1, jest obowiązany zwrócić profesjonalne dowody rejestracyjne.
+### 3.
 
-3. Niewykorzystane blankiety profesjonalnych dowodów rejestracyjnych oraz dotychczasowe profesjonalne numery rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne starosta ujmuje, nieodpłatnie, na wniosek podmiotu uprawnionego, w kolejnej decyzji o profesjonalnej rejestracji pojazdów, bez konieczności ich zwrotu przy zwracaniu się z wnioskiem, o którym mowa w ust. 1.
+Zabrania się oznaczania pojazdu tablicami, o których mowa w ust. 1, w czasie, gdy dzieci lub młodzież nie są przewożone.
 
-**Art. 80w.**
+### Art. 58.
 
-1. W celu wykonania jazdy testowej danym pojazdem wypełnia się blankiet profesjonalnego dowodu rejestracyjnego.
+### 1.
 
-2. Jazda testowa może być wykonywana przez podmiot uprawniony albo przez jego pracownika. [3. W przypadku podmiotu uprawnionego zajmującego się produkcją pojazdów jazda testowa może być wykonywana także na podstawie umowy cywilnoprawnej.] <3. W przypadku podmiotu uprawnionego zajmującego się produkcją pojazdów lub badaniem pojazdów w ramach prowadzonej działalności badawczo-rozwojowej w rozumieniu art. 4a pkt 26 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jazda testowa może być wykonywana także na podstawie umowy cywilnoprawnej.>
+Pojazd przeznaczony konstrukcyjnie do przewozu osób niepełnosprawnych oznacza się z przodu i z tyłu kwadratowymi tablicami barwy niebieskiej z międzynarodowym symbolem wózka inwalidzkiego barwy białej. Tablice te powinny być wykonane z materiału odblaskowego. Kierujący tym pojazdem jest obowiązany włączyć światła awaryjne podczas wsiadania lub wysiadania osoby niepełnosprawnej.
 
-4. Dopuszcza się wykonywanie jazdy testowej przez osobę zainteresowaną zakupem pojazdu, pod warunkiem jej wykonywania w obecności podmiotu uprawnionego zajmującego się dystrybucją pojazdów albo jego pracownika.
+### 2.
 
-5. Podmiot uprawniony, który uzyskał decyzję o profesjonalnej rejestracji pojazdów, nie może przekazywać blankietu profesjonalnego dowodu rejestracyjnego, profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych osobie, która nabyła pojazd od tego podmiotu, ani innemu podmiotowi.
+Kierujący pojazdem, omijając pojazd, o którym mowa w ust. 1, jest obowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się.
 
-6. Na podstawie profesjonalnego dowodu rejestracyjnego starosta nie może dokonać rejestracji pojazdu, o której mowa w art. 73 i art. 74.
+### Art. 59.
 
-**Art. 80x.**
+### 1.
 
-1. Podmiot uprawniony, który uzyskał decyzję o profesjonalnej rejestracji pojazdów, jest obowiązany prowadzić wykaz pojazdów używanych przez siebie w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych w systemie teleinformatycznym obsługującym centralną ewidencję pojazdów.
+Pojazd zarejestrowany w Rzeczypospolitej Polskiej, który ma być używany w ruchu międzynarodowym, powinien być oznaczony znakiem z literami „PL”.
 
-2. Podmiot uprawniony zamieszcza w wykazie pojazdów, o którym mowa w ust. 1, dane, o których mowa w art. 80b ust. 1 pkt 8b, wypełniając blankiet profesjonalnego dowodu rejestracyjnego, przed zawarciem przez ten podmiot umowy ubezpieczenia odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych, o którym mowa w art. 4 pkt 1 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.
+### 2.
 
-3. Podmiot uprawniony może zamieścić w wykazie pojazdów, o którym mowa w ust. 1, dane, o których mowa w art. 80b ust. 1 pkt 8b lit. a, przed wypełnieniem przez ten podmiot blankietu profesjonalnego dowodu rejestracyjnego.
+Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany.
 
-**Art. 80y.**
+### Art. 60.
 
-1. W ciągu 30 dni od dnia wygaśnięcia albo uchylenia decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony jest obowiązany zwrócić staroście blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne oraz profesjonalne tablice (tablicę) rejestracyjne, z wykorzystaniem dokumentu zwrotu.
+### 1.
 
-2. Jeżeli w ciągu 30 dni od dnia wygaśnięcia decyzji o profesjonalnej rejestracji pojazdów podmiot uprawniony złoży staroście wniosek o wydanie kolejnej decyzji o profesjonalnej rejestracji pojazdów, starosta, wydając tę decyzję, wydaje temu podmiotowi, nieodpłatnie, niewykorzystane blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne tablice (tablicę) rejestracyjne. Po tym okresie zwrócone profesjonalne tablice (tablicę) rejestracyjne starosta może wydać odpłatnie innemu podmiotowi uprawnionemu, który złożył wniosek o wydanie decyzji o profesjonalnej rejestracji pojazdów, za zgodą tego podmiotu.
+Zabrania się:
 
-3. Podmiot uprawniony zawiadamia niezwłocznie starostę o:
+### 1)
 
-- **1)** zaprzestaniu działalności w zakresie produkcji, dystrybucji, badań pojazdów albo badań przedmiotów wyposażenia lub części;
-- **2)** zmianie nazwy lub adresu siedziby albo oddziału lub numeru identyfikacyjnego REGON.
+używania pojazdu w sposób zagrażający bezpieczeństwu osoby znajdującej się w pojeździe lub poza nim,
 
-4. W przypadku zmiany danych podmiotu uprawnionego, o których mowa w ust. 3 pkt 2, podmiot uprawniony, składając zawiadomienie, o którym mowa w ust. 3, zwraca staroście blankiety profesjonalnych dowodów rejestracyjnych i profesjonalne dowody rejestracyjne. Przepisy art. 80t stosuje się odpowiednio.
+### 2)
 
-**Art. 80z.**
+zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne,
 
-1. W przypadku gdy doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych, podmiot uprawniony jest obowiązany niezwłocznie złożyć staroście oświadczenie, że doszło do utraty lub zniszczenia blankietów profesjonalnych dowodów rejestracyjnych lub profesjonalnych dowodów rejestracyjnych, ze wskazaniem ich serii i numerów, lub że doszło do utraty lub zniszczenia profesjonalnych tablic (tablicy) rejestracyjnych, ze wskazaniem ich numeru rejestracyjnego i numeru znaku legalizacyjnego.
+### 3)
 
-2. Oświadczenie, o którym mowa w ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń. Art. 80za. W przypadku gdy w okresie ważności decyzji o profesjonalnej rejestracji pojazdów doszło do utraty lub zniszczenia:
+ozdabiania tablic rejestracyjnych oraz umieszczania z przodu lub z tyłu pojazdu znaków, napisów lub przedmiotów, które ograniczają czytelność tych tablic,
 
-- **1)** blankietów profesjonalnych dowodów rejestracyjnych lub
-- **2)** profesjonalnych tablic (tablicy) rejestracyjnych – podmiot uprawniony może złożyć staroście wniosek o wydanie za opłatą nowych blankietów w liczbie odpowiadającej liczbie blankietów utraconych lub zniszczonych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych. Art. 80zb. 1. Starosta, w drodze decyzji, uchyla decyzję o profesjonalnej rejestracji pojazdów, w przypadku gdy:
-- **1)** przedsiębiorca zaprzestał prowadzenia działalności w zakresie produkcji, dystrybucji lub badania pojazdów;
-- **2)** służba techniczna, o której mowa w art. 4 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, albo jednostka badawcza producenta pojazdu, przedmiotu wyposażenia lub części przeprowadzająca badania pojazdu, przedmiotu wyposażenia lub części zaprzestała przeprowadzania odpowiednich badań pojazdu, przedmiotu wyposażenia lub części;
-- **3)** ujawnione zostało, że po dniu wydania decyzji o profesjonalnej rejestracji pojazdów:
-    - **a)** przedsiębiorca, jeżeli jest on osobą fizyczną, albo członek władz organów osoby prawnej lub nieposiadającej osobowości prawnej jednostki organizacyjnej został prawomocnie skazany za przestępstwo przeciwko mieniu, przestępstwo przeciwko obrotowi gospodarczemu lub przestępstwo przeciwko wiarygodności dokumentów,
-    - **b)** podmiot uprawniony używał w ruchu drogowym z wykorzystaniem profesjonalnego dowodu rejestracyjnego pojazdy, dla których nie posiadał udokumentowanego prawa do dysponowania nimi;
+### 4)
 
-- **4)** podmiot uprawniony złożył niezgodne z prawdą oświadczenie, o którym mowa w art. 80t ust. 3 pkt 3 lit. a;
-- **5)** podmiot uprawniony złożył niezgodne z prawdą oświadczenie o utracie lub zniszczeniu blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych;
-- **6)** podmiot uprawniony złożył staroście wniosek o wydanie dodatkowych albo nowych blankietów profesjonalnych dowodów rejestracyjnych w okresie ważności decyzji o profesjonalnej rejestracji pojazdów, a nie zwrócił profesjonalnych dowodów rejestracyjnych albo nie złożył oświadczenia o ich utracie lub zniszczeniu, o którym mowa w art. 80z ust. 1;
-- **7)** podmiot uprawniony przekazał blankiet profesjonalnego dowodu rejestracyjnego, profesjonalny dowód rejestracyjny lub profesjonalne tablice (tablicę) rejestracyjne innemu podmiotowi;
-- **8)** podmiot uprawniony wykonywał jazdę testową, korzystając z niewypełnionego blankietu profesjonalnego dowodu rejestracyjnego;
-- **9)** podmiot uprawniony nie dopełnił obowiązku prowadzenia wykazu pojazdów, o którym mowa w art. 80x ust. 1.
+umieszczania na pojeździe znaku określającego inne państwo niż to, w którym pojazd został zarejestrowany.
 
-2. Decyzja o uchyleniu decyzji o profesjonalnej rejestracji pojazdów podlega natychmiastowemu wykonaniu.
+### 2.
 
-3. Podmiot uprawniony może ponownie wnioskować o wydanie decyzji o profesjonalnej rejestracji pojazdów nie wcześniej niż po upływie 2 lat od dnia, w którym:
+Zabrania się kierującemu:
 
-- **1)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 3–9;
-- **2)** nastąpiło uchylenie decyzji o profesjonalnej rejestracji pojazdów z przyczyn, o których mowa w ust. 1 pkt 1 i 2, a podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1;
-- **3)** upłynął termin ważności decyzji o profesjonalnej rejestracji pojazdów, a w ciągu 30 dni od upływu tego terminu podmiot uprawniony nie zwrócił staroście blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych albo nie złożył oświadczenia, o którym mowa w art. 80z ust. 1. Art. 80zc. 1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
-- **1)** czynności starosty w sprawach związanych z profesjonalną rejestracją pojazdów;
-- **2)** wzór:
-    - **a)** wniosku o wydanie decyzji o profesjonalnej rejestracji pojazdów,
-    - **b)** decyzji o profesjonalnej rejestracji pojazdów,
-    - **c)** oświadczeń, o których mowa w art. 80t ust. 3 pkt 3,
-    - **d)** wniosku o wydanie dodatkowych albo nowych blankietów profesjonalnych dowodów rejestracyjnych lub nowych profesjonalnych tablic (tablicy) rejestracyjnych,
-    - **e)** dokumentu zwrotu blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych oraz profesjonalnych tablic (tablicy) rejestracyjnych;
+### 1)
 
-- **3)** wzór i opis blankietu profesjonalnego dowodu rejestracyjnego;
-- **4)** zakres wypełniania blankietu profesjonalnego dowodu rejestracyjnego przez starostę i podmiot uprawniony;
-- **5)** wzór i opis profesjonalnych tablic rejestracyjnych, warunki techniczne, jakie muszą spełniać te tablice, oraz zakres i sposób ich badania;
-- **6)** warunki i sposób dystrybucji blankietów profesjonalnych dowodów rejestracyjnych;
-- **7)** wysokość opłaty za wydanie:
-    - **a)** decyzji o profesjonalnej rejestracji pojazdów,
-    - **b)** blankietu profesjonalnego dowodu rejestracyjnego,
-    - **c)** profesjonalnych tablic rejestracyjnych, w tym: – kompletu profesjonalnych tablic samochodowych, – profesjonalnej tablicy motocyklowej, – profesjonalnej tablicy motorowerowej,
-    - **d)** znaku legalizacyjnego.
+oddalania się od pojazdu, gdy silnik jest w ruchu,
 
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględnia:
+### 2)
 
-- **1)** konieczność ujednolicenia wzorów dokumentów i tablic wydawanych w ramach profesjonalnej rejestracji pojazdów oraz potrzebę zapewnienia ich funkcjonalności;
-- **2)** konieczność prawidłowego zabezpieczenia blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic rejestracyjnych;
-- **3)** koszt wyprodukowania blankietów profesjonalnych dowodów rejestracyjnych i profesjonalnych tablic (tablicy) rejestracyjnych;
-- **4)** koszty czynności administracyjnych związanych z wydawaniem decyzji o profesjonalnej rejestracji pojazdów, blankietów profesjonalnych dowodów rejestracyjnych i zalegalizowanych profesjonalnych tablic (tablicy) rejestracyjnych;
-- **5)** potrzebę minimalizowania obciążeń administracyjnych dla podmiotów uprawnionych. Art. 80zd. 1. Stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, podlegają co 6 lat waloryzacji w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych ogółem za okres 6 poprzednich lat obliczonemu na podstawie średniorocznych wskaźników cen towarów i usług konsumpcyjnych ogłaszanych w komunikatach Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem,
 
-2. W przypadku gdy wskaźnik, o którym mowa w ust. 1, ma wartość ujemną, stawki opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, nie ulegają zmianie.
+### 3)
 
-3. Minister właściwy do spraw transportu, co 6 lat, nie później niż do dnia 31 października, ogłasza, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokość stawek opłat, o których mowa w art. 80t ust. 6 i art. 80zc ust. 1 pkt 7 lit. b i d, obowiązujących od dnia 1 stycznia roku następnego, zaokrąglając je w górę do 0,5 złotego albo do złotego. Art. 80ze. 1. Podmiot uprawniony przechowuje:
+pozostawiania pracującego silnika podczas postoju na obszarze zabudowanym; nie dotyczy to pojazdu wykonującego czynności na drodze,
 
-- **1)** decyzję o profesjonalnej rejestracji pojazdów,
-- **2)** blankiety profesjonalnych dowodów rejestracyjnych oraz profesjonalne dowody rejestracyjne,
-- **3)** profesjonalne tablice (tablicę) rejestracyjne – w swojej siedzibie albo oddziale, w sposób zabezpieczający je przed kradzieżą lub zniszczeniem oraz dostępem osób nieuprawnionych.
+### 4)
 
-2. Podmiot uprawniony przechowuje:
+ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu,
 
-- **1)** decyzję o profesjonalnej rejestracji pojazdów przez okres 5 lat od dnia, w którym upłynął termin ważności tej decyzji, lub od dnia uchylenia tej decyzji;
-- **2)** blankiety profesjonalnych dowodów rejestracyjnych, profesjonalne dowody rejestracyjne i profesjonalne tablice (tablicę) rejestracyjne do czasu ich zwrotu staroście.
+### 5)
 
-3. W przypadku kradzieży blankietów profesjonalnych dowodów rejestracyjnych, profesjonalnych dowodów rejestracyjnych lub profesjonalnych tablic (tablicy) rejestracyjnych podmiot uprawniony zawiadamia o tym fakcie właściwy organ Policji oraz starostę, który wydał decyzję o profesjonalnej rejestracji pojazdów. Art. 80zf. 1. Zabrania się:
+używania opon z umieszczonymi w nich na trwałe elementami przeciwślizgowymi.
 
-- **1)** korzystania z profesjonalnego dowodu rejestracyjnego lub profesjonalnych tablic (tablicy) rejestracyjnych przez osobę do tego nieuprawnioną;
-- **2)** wykonywania jazdy testowej bez wypełnionego profesjonalnego dowodu rejestracyjnego.
+### 3.
 
-2. W przypadku trzykrotnego zatrzymania profesjonalnego dowodu rejestracyjnego w ciągu danego roku kalendarzowego podmiot uprawniony podlega karze pieniężnej, o której mowa w art. 140ma ust. 2.
+Używanie łańcuchów przeciwślizgowych na oponach jest dozwolone tylko na drodze pokrytej śniegiem.
 
-3. Starosta po otrzymaniu od administratora centralnej ewidencji pojazdów informacji o pierwszym zatrzymaniu profesjonalnego dowodu rejestracyjnego podmiotowi uprawnionemu informuje ten podmiot, że w przypadku zatrzymania po raz trzeci profesjonalnego dowodu rejestracyjnego w ciągu danego roku kalendarzowego nałoży na niego karę pieniężną, o której mowa w art. 140ma ust. 2.
+### Art. 61.
 
-#### Rozdział 3 Badania techniczne pojazdów
+### 1.
 
-**Art. 81.**
+Ładunek nie może powodować przekroczenia dopuszczalnej masy całkowitej lub dopuszczalnej ładowności pojazdu.
 
-1. Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru, przyczepy lub samochodu osobowego przeznaczonego do zawodów sportowych jest obowiązany przedstawiać go do badania technicznego.
+### 2.
 
-2. Badania techniczne dzieli się na badania okresowe, badania dodatkowe oraz badania co do zgodności z warunkami technicznymi.
+Ładunek na pojeździe umieszcza się w taki sposób, aby:
 
-3. Okresowe badanie techniczne po raz pierwszy jest przeprowadzane przed pierwszą rejestracją pojazdu na terytorium Rzeczypospolitej Polskiej.
+### 1)
 
-4. Badaniu, o którym mowa w ust. 3, nie podlega:
+nie powodował przekroczenia dopuszczalnych nacisków osi pojazdu na drogę,
 
-- **1)** nowy pojazd, dla którego wydano:
-    - **a)** świadectwo zgodności WE dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu WE pojazdu, – świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach,
-    - **b)** świadectwo zgodności dla każdego pojazdu, na którego typ wydano odpowiednio: – świadectwo homologacji typu pojazdu, – świadectwo homologacji typu pojazdu dla pojazdów produkowanych w małych seriach,
-    - **c)** dopuszczenie jednostkowe pojazdu,
-    - **d)** decyzję o uznaniu dopuszczenia jednostkowego pojazdu,
-    - **e)** świadectwo dopuszczenia indywidualnego WE pojazdu,
-    - **f)** dokumenty, o których mowa w ustawie z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia: – świadectwo zgodności, – deklarację zgodności, o której mowa w art. 27 ust. 2 ustawy z dnia 14 kwietnia 2023 r. o systemach homologacji pojazdów oraz ich wyposażenia, – świadectwo krajowego indywidualnego dopuszczenia pojazdu, – świadectwo unijnego indywidualnego dopuszczenia pojazdu, – uznanie świadectwa krajowego indywidualnego dopuszczenia pojazdu wydanego przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej;
+### 2)
 
-- **2)** zarejestrowany pojazd:
-    - **a)** na którego typ wydano świadectwo homologacji typu WE pojazdu, świadectwo homologacji typu WE pojazdu dla pojazdów produkowanych w małych seriach lub świadectwo homologacji typu UE pojazdu – w okresie od dnia pierwszej rejestracji za granicą do dnia terminu okresowego badania technicznego, ustalonego na podstawie ust. 5, lub
-    - **b)** w którego dowodzie rejestracyjnym lub innym dokumencie wydanym przez właściwy organ państwa członkowskiego przedstawionym do rejestracji, zawarta jest informacja o wykonanym badaniu technicznym i jego terminie ważności – z wyjątkiem taksówki, pojazdu uprzywilejowanego lub pojazdu odpowiednio przystosowanego lub wyposażonego zgodnie z przepisami o przewozie towarów niebezpiecznych, pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu oraz pojazdu przystosowanego konstrukcyjnie do ruchu lewostronnego.
+nie naruszał stateczności pojazdu,
 
-5. Okresowe badanie techniczne pojazdu przeprowadza się corocznie, z zastrzeżeniem ust. 6–10.
+### 3)
 
-6. Okresowe badanie techniczne samochodu osobowego, samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, motocykla lub przyczepy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t przeprowadza się przed upływem 3 lat od dnia pierwszej rejestracji, następnie przed upływem 5 lat od dnia pierwszej rejestracji i nie później niż 2 lata od dnia przeprowadzenia poprzedniego badania technicznego, a następnie przed upływem kolejnego roku od dnia przeprowadzenia badania. Nie dotyczy to pojazdu przewożącego towary niebezpieczne, taksówki, pojazdu samochodowego konstrukcyjnie przeznaczonego do przewozu osób w liczbie od 5 do 9, wykorzystywanego do zarobkowego transportu drogowego osób, pojazdu marki „SAM”, pojazdu zasilanego gazem, pojazdu uprzywilejowanego oraz pojazdu używanego do nauki jazdy lub egzaminu państwowego, które podlegają corocznym badaniom technicznym.
+nie utrudniał kierowania pojazdem,
 
-7. Okresowe badanie techniczne ciągnika rolniczego, przyczepy rolniczej oraz motoroweru przeprowadza się przed upływem 3 lat od dnia pierwszej rejestracji, a następnie przed upływem każdych kolejnych 2 lat od dnia przeprowadzenia badania.
+### 4)
 
-8. Przepisy ust. 6 i 7 dotyczą również pojazdów, o których mowa w ust. 6 i 7, zarejestrowanych po raz pierwszy za granicą. W tym przypadku za dzień pierwszej rejestracji, o której mowa w ust. 6 i 7, przyjmuje się dzień pierwszej rejestracji za granicą.
+nie ograniczał widoczności drogi lub nie zasłaniał świateł, urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych tablic albo znaków, w które pojazd jest wyposażony.
 
-9. Okresowe badanie techniczne autobusu przeprowadza się przed upływem roku od dnia pierwszej rejestracji i następnie co 6 miesięcy.
+### 3.
 
-10. Przyczepa lekka, pojazd zabytkowy oraz samochód osobowy przeznaczony do zawodów sportowych nie podlegają okresowym badaniom technicznym. W przypadku pojazdu zabytkowego, wykorzystywanego do zarobkowego transportu drogowego podlega on corocznym badaniom technicznym.
+Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia lub wywoływaniem nadmiernego hałasu. Nie może on mieć odrażającego wyglądu lub wydzielać odrażającej woni.
 
-11. Niezależnie od badań, o których mowa w ust. 3–5, dodatkowemu badaniu technicznemu podlega pojazd:
+### 4.
 
-- **1)** skierowany przez organ kontroli ruchu drogowego:
-    - **a)** w razie uzasadnionego przypuszczenia, że zagraża bezpieczeństwu ruchu lub narusza wymagania ochrony środowiska,
-    - **b)** który uczestniczył w wypadku drogowym, w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji nadwozia, podwozia lub ramy, z zastrzeżeniem pkt 5, lub noszący ślady uszkodzeń albo którego stan techniczny wskazuje na naruszenie elementów nośnych konstrukcji pojazdu, mogące stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego;
+Urządzenia służące do mocowania ładunku powinny być zabezpieczone przed rozluźnieniem się, swobodnym zwisaniem lub spadnięciem podczas jazdy.
 
-- **2)** skierowany przez starostę albo na wniosek posiadacza pojazdu:
-    - **a)** w celu identyfikacji lub ustalenia danych niezbędnych do jego rejestracji,
-    - **b)** jeżeli z dokumentów wymaganych do jego rejestracji wynika, że uczestniczył on w wypadku drogowym, lub narusza wymagania ochrony środowiska;
+### 5.
 
-- **2a)** skierowany przez starostę po otrzymaniu:
-    - **a)** informacji, o której mowa w art. 54f ustawy z dnia 6 września 2001 r. o transporcie drogowym,
-    - **b)** wniosku organu kontroli ruchu drogowego o konieczności przeprowadzenia dodatkowego badania technicznego pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy;
+Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej, zabezpieczonej dodatkowo odpowiednimi zasłonami uniemożliwiającymi wysypywanie się ładunku na drogę.
 
-- **3)** w którym dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym, z zastrzeżeniem art. 66 ust. 4 pkt 5 i 6, z wyłączeniem montażu instalacji do zasilania gazem;
-- **4)** który ma być używany jako taksówka, pojazd uprzywilejowany, pojazd do nauki jazdy, pojazd do przeprowadzania egzaminu państwowego lub pojazd odpowiednio przystosowany lub wyposażony zgodnie z przepisami o przewozie drogowym towarów niebezpiecznych;
-- **5)** w którym została dokonana naprawa wynikająca ze szkody istotnej;
-- **6)** w którym w czasie badania technicznego stwierdzono ślady uszkodzeń lub naruszenie elementów nośnych konstrukcji pojazdu, mogących stwarzać zagrożenie dla bezpieczeństwa ruchu drogowego;
-- **7)** dla którego określono wymagania techniczne w przepisach o podatku od towarów i usług, w przepisach o podatku dochodowym od osób fizycznych lub w przepisach o podatku dochodowym od osób prawnych;
-- **8)** autobus, którego dopuszczalna prędkość na autostradzie i drodze ekspresowej wynosi 100 km/h, co do zgodności z dodatkowymi warunkami technicznymi;
-- **9)** dla którego określono dodatkowe wymagania techniczne w międzynarodowych porozumieniach dotyczących międzynarodowego transportu drogowego;
-- **10)** wyposażony w blokadę alkoholową.
+### 6.
 
-11a. Badaniu co do zgodności z warunkami technicznymi podlega pojazd zabytkowy przed pierwszą rejestracją na terytorium Rzeczypospolitej Polskiej.
+Ładunek wystający poza płaszczyzny obrysu pojazdu może być na nim umieszczony tylko przy zachowaniu następujących warunków:
 
-11b. Samochód osobowy przeznaczony do zawodów sportowych podlega corocznie badaniu co do zgodności z warunkami technicznymi.
+### 1)
 
-12. Badanie techniczne pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu może być przeprowadzone po przedstawieniu dokumentu wydanego przez właściwy organ dozoru technicznego, stwierdzającego sprawność urządzenia technicznego.
+ładunek wystający poza boczne płaszczyzny obrysu pojazdu może być umieszczony tylko w taki sposób, aby całkowita szerokość pojazdu z ładunkiem nie przekraczała 2,55 m, a przy szerokości pojazdu 2,55 m nie przekraczała 3 m, jednak pod warunkiem umieszczenia ładunku tak, aby z jednej strony nie wystawał na odległość większą niż 23 cm,
 
-12a. Badanie techniczne pojazdu wyposażonego w blokadę alkoholową przeprowadza się po przedstawieniu dokumentu potwierdzającego kalibrację blokady alkoholowej, wystawionego przez producenta urządzenia lub jego upoważnionego przedstawiciela, ważnego przez okres 12 miesięcy od dnia wystawienia.
+### 2)
 
-12b. Badanie techniczne ciągnika rolniczego oraz ciągnika gąsienicowego o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, a także przyczepy przeznaczonej do łączenia z tymi pojazdami może być przeprowadzane w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów, jeżeli:
+ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów; w przypadku przyczepy kłonicowej odległość tę liczy się od osi przyczepy,
 
-- **1)** infrastruktura ta spełnia wymagania określone w przepisach wydanych na podstawie art. 84b;
-- **2)** przedsiębiorca lub podmiot niebędący przedsiębiorcą prowadzący stację kontroli pojazdów posiada wyposażenie kontrolno-pomiarowe określone w tych przepisach.
+### 3)
 
-12c. Przepis ust. 12b nie dotyczy badania technicznego, o którym mowa w ust. 3 i 11.
+ładunek nie może wystawać z przodu pojazdu na odległość większą niż 0,5 m od przedniej płaszczyzny obrysu i większą niż 1,5 m od siedzenia dla kierującego.
 
-12d. Badanie techniczne pojazdów, o których mowa w ust. 12b, przeprowadza się na wniosek właściciela lub posiadacza pojazdu. Właściciel lub posiadacz pojazdu składa wniosek do przedsiębiorcy lub podmiotu niebędącego przedsiębiorcą prowadzącego stację kontroli pojazdów w formie pisemnej, w postaci papierowej albo elektronicznej. Właściciel lub posiadacz pojazdu we wniosku potwierdza, że dysponuje infrastrukturą spełniającą wymagania określone w przepisach wydanych na podstawie art. 84b, w której istnieje możliwość przeprowadzenia badania technicznego.
+### 7.
 
-12e. Koszt dojazdu uprawnionego diagnosty do infrastruktury, o której mowa w ust. 12b, pokrywa właściciel lub posiadacz pojazdu wraz ze złożeniem wniosku, o którym mowa w ust. 12d.
+Przy przewozie drewna długiego dopuszcza się wystawanie ładunku z tyłu za przyczepę kłonicową na odległość nie większą niż 5 m.
 
-12f. Przed przystąpieniem do przeprowadzenia badania technicznego uprawniony diagnosta dokonuje weryfikacji, czy infrastruktura, o której mowa w ust. 12b, spełnia wymagania określone w przepisach wydanych na podstawie art. 84b.
+### 8.
 
-12g. W przypadku gdy w ocenie uprawnionego diagnosty infrastruktura, o której mowa w ust. 12b, nie spełnia wymagań określonych w przepisach wydanych na podstawie art. 84b, uprawniony diagnosta odmawia przeprowadzenia badania technicznego.
+Ładunek wystający poza przednią lub boczne płaszczyzny obrysu pojazdu powinien być oznaczony. Dotyczy to również ładunku wystającego poza tylną płaszczyznę obrysu pojazdu na odległość większą niż 0,5 m.
 
-13. W razie powstania trudności w ustaleniu parametrów pojazdu, badanie techniczne może być przeprowadzone po przedstawieniu opinii rzeczoznawcy samochodowego, o którym mowa w art. 79a.
+### 9.
 
-14. Termin ważności badania technicznego pojazdu, o którym mowa w ust. 4 pkt 2 lit. b, uznaje się, o ile nie jest dłuższy niż termin ważności badania technicznego ustalany na podstawie ust. 5–10.
+Ustala się następujące oznakowanie ładunku:
 
-15. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres i sposób przeprowadzenia badań technicznych oraz wzory dokumentów stosowanych przy tych badaniach, uwzględniając w szczególności zakres warunków technicznych pojazdów podlegających badaniu.
+### 1)
 
-16. Minister właściwy do spraw transportu, uwzględniając konieczność zapewnienia bezpiecznego korzystania z pojazdów zabytkowych oraz zakres warunków technicznych tych pojazdów podlegających badaniu, określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań zgodności tych pojazdów z warunkami technicznymi, wzory dokumentów związanych z tymi badaniami.
+ładunek wystający z przodu pojazdu oznacza się chorągiewką barwy pomarańczowej lub dwoma białymi i dwoma czerwonymi pasami, tak aby były widoczne z boków i z przodu pojazdu, a w okresie niedostatecznej widoczności ponadto światłem białym umieszczonym na najbardziej wystającej do przodu części ładunku,
 
-17. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań co do zgodności samochodów osobowych przeznaczonych do zawodów sportowych z warunkami technicznymi oraz wzory dokumentów związane z tymi badaniami, uwzględniając konieczność zapewnienia bezpiecznego korzystania z samochodów osobowych przeznaczonych do zawodów sportowych oraz zakres warunków technicznych co do zgodności, z którymi te samochody podlegają badaniu.
+### 2)
 
-**Art. 81a.** Wymiana drogomierza jest dopuszczalna, gdy drogomierz nie odmierza przebiegu pojazdu w sytuacji, w której ze względu na przeznaczenie drogomierza powinien ten przebieg odmierzać lub gdy jest konieczna wymiana elementu pojazdu, z którym drogomierz jest nierozerwalnie związany. Wymiana drogomierza może nastąpić tylko na drogomierz sprawny i właściwy dla danego typu pojazdu.
+ładunek wystający z boku pojazdu oznacza się chorągiewką barwy pomarańczowej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku, a ponadto w okresie niedostatecznej widoczności białym światłem odblaskowym skierowanym do przodu oraz czerwonym światłem i czerwonym światłem odblaskowym skierowanym do tyłu; światła te nie powinny znajdować się w odległości większej niż 40 cm od najbardziej wystającej krawędzi ładunku; jeżeli długość wystającego z boku ładunku, mierzona wzdłuż pojazdu, przekracza 3 m, to chorągiewkę i światła umieszcza się odpowiednio przy przedniej i tylnej części ładunku,
 
-**Art. 81b.**
+### 3)
 
-1. Właściciel lub posiadacz pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej lub motoroweru, także niezarejestrowanego, który dokonał wymiany drogomierza, jest obowiązany w terminie 14 dni od dnia wymiany tego drogomierza przedstawić pojazd w stacji kontroli pojazdów w celu dokonania odczytu wskazania drogomierza, o którym mowa w art. 81a zdanie drugie, wraz z jednostką miary. Przepis art. 81 ust. 13 stosuje się odpowiednio.
+ładunek wystający z tyłu pojazdu oznacza się pasami białymi i czerwonymi umieszczonymi bezpośrednio na ładunku lub na tarczy na jego tylnej płaszczyźnie albo na zawieszonej na końcu ładunku bryle geometrycznej (np. stożku, ostrosłupie); widoczna od tyłu łączna powierzchnia pasów powinna wynosić co najmniej 1000 cm2, przy czym nie może być mniej niż po dwa pasy każdej barwy; ponadto w okresie niedostatecznej widoczności na najbardziej wystającej do tyłu krawędzi ładunku umieszcza się czerwone światło i czerwone światło odblaskowe; przy przewozie drewna długiego zamiast oznakowania pasami białymi i czerwonymi dopuszcza się oznakowanie końca ładunku chorągiewką lub tarczą barwy pomarańczowej,
 
-2. Niedotrzymanie terminu, o którym mowa w ust. 1, nie stanowi podstawy odmowy przez stację kontroli pojazdów dokonania odczytu wskazania drogomierza wraz z jednostką miary.
+### 4)
 
-2a. Przepisu ust. 1 nie stosuje się do pojazdów, o których mowa w art. 73 ust. 2b i 3.
+ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm, umieszczoną przy najbardziej wystającej krawędzi ładunku.
 
-3. Warunkiem dokonania odczytu, o którym mowa w ust. 1, jest uiszczenie przez właściciela lub posiadacza pojazdu opłaty za dokonanie odczytu wskazania drogomierza wraz z jednostką miary.
+### 10.
 
-4. Maksymalna wysokość opłaty za dokonanie odczytu wskazania drogomierza wraz z jednostką miary nie może przekroczyć 100 zł. Opłata stanowi przychód przedsiębiorcy prowadzącego stację kontroli pojazdów.
+Wysokość pojazdu z ładunkiem nie może przekraczać 4 m.
 
-5. Czynność, o której mowa w ust. 1, przeprowadza się po złożeniu diagnoście przez właściciela lub posiadacza pojazdu pisemnego oświadczenia o wymianie drogomierza, sporządzonego na urzędowym formularzu. Oświadczenie zawiera:
+### 11.
 
-- **1)** imię i nazwisko składającego oświadczenie;
-- **2)** numer PESEL składającego oświadczenie, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **3)** adres zamieszkania składającego oświadczenie;
-- **4)** dane identyfikujące pojazd;
-- **5)** datę i przyczynę wymiany drogomierza;
-- **6)** oznaczenie miejsca i datę złożenia oświadczenia;
-- **7)** klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”;
-- **8)** czytelny podpis składającego oświadczenie.
+Jeżeli masa, naciski osi lub wymiary pojazdu wraz z ładunkiem lub bez ładunku są większe od dopuszczalnych, przewidzianych dla danej drogi w przepisach określających warunki techniczne pojazdów oraz określonych w ust. 6, 8 i 10, przejazd pojazdu jest dozwolony tylko pod warunkiem uzyskania zezwolenia.
 
-6. Oświadczenie, o którym mowa w ust. 5, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Klauzula, o której mowa w ust. 5 pkt 7, zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+### 12.
 
-7. Datę i przyczynę wymiany drogomierza stwierdza, na podstawie oświadczenia, o którym mowa w ust. 5, uprawniony diagnosta zatrudniony w stacji kontroli pojazdów.
+Zezwolenie, o którym mowa w ust. 11, wydaje na przejazd:
 
-8. Minister Sprawiedliwości określi, w drodze rozporządzenia:
+### 1)
 
-- **1)** wzór urzędowego formularza oświadczenia właściciela lub posiadacza pojazdu o wymianie drogomierza, mając na uwadze rzetelne dokumentowanie czynności związanych z wymianą drogomierza;
-- **2)** organ zobowiązany do przechowywania oświadczenia, o którym mowa w ust. 5, oraz sposób przekazywania tego oświadczenia, mając na uwadze znaczenie tego dokumentu dla gromadzonych informacji o pojeździe.
+w granicach państwa - naczelny dyrektor okręgu dróg publicznych właściwy ze względu na miejsce rozpoczęcia przejazdu,
 
-9. Minister właściwy do spraw transportu określi, w drodze rozporządzenia szczegółowe czynności uprawnionych diagnostów związane z dokonaniem odczytu wskazania drogomierza wraz z jednostką miary oraz wysokość opłaty za dokonanie odczytu wskazania drogomierza wraz z jednostką miary, mając na uwadze konieczność zapewnienia jednolitej procedury w zakresie dokonywania odczytu wskazania drogomierza wraz z jednostką miary, rzetelnego dokumentowania czynności związanych z wymianą drogomierza oraz koszty tych czynności, w tym niezbędny nakład pracy, a także zasady proporcjonalności opłat.
+### 2)
 
-**Art. 82.**
+w granicach miasta lub sąsiadujących ze sobą miast - organ zarządzający drogą właściwy ze względu na miejsce rozpoczęcia przejazdu,
 
-1. Organ dokonujący rejestracji pojazdu wpisuje do dowodu rejestracyjnego termin badania technicznego pojazdu.
+### 3)
 
-2. Uprawniony diagnosta po wykonaniu badania technicznego pojazdu:
+którego trasa przekracza granice państwa - Generalny Dyrektor Dróg Publicznych lub upoważniona przez niego państwowa jednostka organizacyjna.
 
-- **1)** wydaje zaświadczenie o przeprowadzonym badaniu technicznym pojazdu;
-- **2)** wpisuje kolejny termin badania technicznego do dowodu rejestracyjnego, jeżeli jest wolne miejsce w odpowiedniej rubryce tego dowodu – po stwierdzeniu pozytywnego wyniku badania technicznego pojazdu.
+### 13.
 
-**Art. 83.**
+Przepis ust. 11 nie dotyczy pojazdów specjalnych Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji, Straży Granicznej oraz straży pożarnej biorących udział w akcjach ratowniczych.
 
-1. Badanie techniczne przeprowadza się po uiszczeniu przez właściciela lub posiadacza pojazdu opłaty za przeprowadzenie badania technicznego w:
+### 14.
 
-- **1)** podstawowej stacji kontroli pojazdów – w zakresie:
-    - **a)** okresowego badania technicznego pojazdów o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t, z wyjątkiem lit. b, d i e,
-    - **b)** okresowego badania technicznego ciągników rolniczych oraz ciągników gąsienicowych o maksymalnej prędkości konstrukcyjnej nieprzekraczającej 40 km/h, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie wymiarów stanowiska zewnętrznego,
-    - **c)** dodatkowych badań technicznych w odniesieniu do pojazdów, o których mowa w lit. a, z wyjątkiem ust. 1a,
-    - **d)** badań technicznych przyczep przeznaczonych do łączenia z pojazdami określonymi w lit. a, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie długości stanowiska kontrolnego,
-    - **e)** okresowych badań technicznych przyczep przeznaczonych do łączenia z pojazdami określonymi w lit. b, o ile stacja spełnia wymagania, o których mowa w przepisach wydanych na podstawie art. 84a ust. 1 pkt 1 w zakresie wymiarów stanowiska zewnętrznego;
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, warunki i tryb wydawania zezwoleń, o których mowa w ust. 11.
 
-- **2)** okręgowej stacji kontroli pojazdów – w zakresie:
-    - **a)** okresowego badania technicznego wszystkich pojazdów,
-    - **b)** dodatkowych badań technicznych w odniesieniu do pojazdów, o których mowa w lit. a,
-    - **c)** badań co do zgodności z warunkami technicznymi pojazdów zabytkowych.
+### Art. 62.
 
-1a. Badanie techniczne w zakresie badań co do zgodności z warunkami technicznymi autobusu, którego dopuszczalna prędkość na autostradzie i drodze ekspresowej wynosi 100 km/h, pojazdu przeznaczonego do przewozu towarów niebezpiecznych, pojazdu zabytkowego, pojazdu marki „SAM”, pojazdu, w którym dokonano zmian konstrukcyjnych lub wymiany elementów powodujących zmianę danych w dowodzie rejestracyjnym oraz pojazdu, dla którego określono wymagania techniczne w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361 i 852), ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226, 232, 854, 858, 859 i 863) lub ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232 i 854), a także dla którego określono dodatkowe wymagania w międzynarodowych porozumieniach dotyczących międzynarodowego transportu drogowego jest przeprowadzane wyłącznie w okręgowej stacji kontroli pojazdów.
+### 1.
 
-1b. W przypadku dokonywania opłaty, o której mowa w ust. 1, w obrocie bezgotówkowym za jej uiszczenie uważa się złożenie przez właściciela lub posiadacza pojazdu dyspozycji obciążenia rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, rachunku płatniczego w instytucji płatniczej lub instytucji pieniądza elektronicznego na podstawie polecenia przelewu albo zapłaty za pomocą innego niż polecenie przelewu instrumentu płatniczego.
+Rzeczywista masa całkowita przyczepy ciągniętej przez:
 
-1c. Opłata, o której mowa w ust. 1, może być uiszczona po przeprowadzeniu badania technicznego, jeżeli przewiduje to umowa zawarta między przedsiębiorcą prowadzącym stację kontroli pojazdów a właścicielem lub posiadaczem pojazdu.
+### 1)
 
-1d. (uchylony)
+samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobus - nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego,
 
-2. Działalność gospodarcza w zakresie prowadzenia stacji kontroli pojazdów jest działalnością regulowaną w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców i wymaga uzyskania wpisu do rejestru przedsiębiorców prowadzących stację kontroli pojazdów.
+### 2)
 
-2a. Stację kontroli pojazdów mogą prowadzić następujące podmioty niebędące przedsiębiorcami:
+samochód ciężarowy o dopuszczalnej masie całkowitej przekraczającej 3,5 t - nie może przekraczać rzeczywistej masy całkowitej tego samochodu powiększonej o 40%,
 
-- **1)** szkoła lub centrum kształcenia, kształcące w zawodach związanych z naprawą i eksploatacją pojazdów;
-- **2)** jednostka:
-    - **a)** organizacyjna służb podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych,
-    - **b)** organizacyjna podległa lub nadzorowana przez Ministra Obrony Narodowej, ministra właściwego do spraw zdrowia, ministra właściwego do spraw szkolnictwa wyższego i nauki lub ministra właściwego do spraw transportu,
-    - **c)** ochrony przeciwpożarowej,
-    - **d)** systemu Państwowego Ratownictwa Medycznego.
+### 3)
 
-2b. W stosunku do podmiotów, o których mowa w ust. 2a, stosuje się odpowiednio przepisy odnoszące się do przedsiębiorców określone w niniejszym rozdziale.
+motocykl lub motorower - nie może przekraczać masy własnej motocykla lub motoroweru, jednak nie może przekraczać 100 kg.
 
-2c. Środki publiczne przekazywane na działalność podstawową podmiotów, o których mowa w ust. 2a, nie mogą być wykorzystane w związku z prowadzeniem działalności gospodarczej, o której mowa w ust. 2.
+### 2.
 
-3. Stację kontroli pojazdów może prowadzić przedsiębiorca, który:
+Przepis ust. 1 nie dotyczy naczep.
 
-- **1)** posiada siedzibę lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej;
-- **2)** nie jest przedsiębiorcą, w stosunku do którego otwarto likwidację lub ogłoszono upadłość;
-- **3)** nie był prawomocnie skazany za przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub przestępstwo przeciwko dokumentom – dotyczy osoby fizycznej lub członków organów osoby prawnej;
-- **4)** posiada wyposażenie kontrolno-pomiarowe oraz warunki lokalowe gwarantujące wykonywanie odpowiedniego zakresu badań technicznych pojazdów zgodnie ze szczegółowymi warunkami przeprowadzania tych badań;
-- **5)** posiada poświadczenie zgodności wyposażenia i warunków lokalowych z wymaganiami odpowiednio do zakresu przeprowadzanych badań wpisanego do rejestru przedsiębiorców prowadzących stację kontroli pojazdów;
-- **6)** zatrudnia uprawnionych diagnostów.
+### 3.
 
-4. Poświadczenie, o którym mowa w ust. 3 pkt 5, wydaje za opłatą, w drodze decyzji, Dyrektor Transportowego Dozoru Technicznego, po dokonaniu sprawdzenia stacji kontroli pojazdów. Poświadczenie zachowuje ważność do czasu zmiany stanu faktycznego, dla którego zostało wydane, nie dłużej niż przez 5 lat od daty jego wydania.
+Przepisy ust. 1 i 2 nie dotyczą pojazdów Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji, Straży Granicznej oraz straży pożarnej.
 
-**Art. 83a.**
+### 4.
 
-1. Organem właściwym do prowadzenia rejestru przedsiębiorców prowadzących stację kontroli pojazdów jest starosta właściwy ze względu na miejsce wykonywania działalności objętej wpisem.
+Zespół pojazdów może składać się najwyżej z 3 pojazdów, a zespół ciągnięty przez pojazd silnikowy inny niż ciągnik rolniczy lub pojazd wolnobieżny - z 2 pojazdów. Długość zespołu 2 pojazdów nie może przekraczać 18,75 m, a 3 pojazdów - 22 m. Długość zespołu złożonego z motocykla, motoroweru lub roweru i przyczepy nie może przekraczać 4 m. Przejazd zespołu pojazdów o długości większej niż określona w tym przepisie wymaga zezwolenia, o którym mowa w art. 61 ust. 11.
 
-2. W przypadku gdy przedsiębiorca wykonuje działalność gospodarczą, o której mowa w art. 83 ust. 2, w jednostkach organizacyjnych położonych na obszarze różnych powiatów, jest on obowiązany uzyskać wpis w odrębnych właściwych rejestrach na każdą z tych jednostek.
+### 5.
 
-3. Wpis do rejestru przedsiębiorców prowadzących stację kontroli pojazdów jest dokonywany na wniosek przedsiębiorcy zawierający następujące dane:
+Długości zespołów pojazdów określone w ust. 4 nie dotyczą tramwajów.
 
-- **1)** firmę przedsiębiorcy oraz jego adres i siedzibę albo miejsce zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, o ile przedsiębiorca taki numer posiada, oraz numer identyfikacyjny REGON, o ile przedsiębiorca taki numer posiada;
-- **3)** numer identyfikacji podatkowej (NIP) – jeżeli podmiot jest obowiązany posługiwać się tym numerem na podstawie przepisów o zasadach ewidencji i identyfikacji podatników i płatników;
-- **4)** adres stacji kontroli pojazdów przedsiębiorcy;
-- **5)** zakres badań, jakie przedsiębiorca zamierza przeprowadzać;
-- **6)** imiona i nazwiska zatrudnionych diagnostów wraz numerami ich uprawnień.
+### Art. 63.
 
-4. Wraz z wnioskiem przedsiębiorca składa oświadczenie następującej treści: „Oświadczam, że:
+### 1.
 
-- **1)** dane zawarte we wniosku o wpis do rejestru przedsiębiorców prowadzących stację kontroli pojazdów są kompletne i zgodne z prawdą;
-- **2)** znane mi są i spełniam warunki wykonywania działalności gospodarczej w zakresie prowadzenia stacji kontroli pojazdów, określone w ustawie z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.”.
+Przewóz osób może odbywać się tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym, z zastrzeżeniem ust. 4. W pojeździe nie podlegającym rejestracji liczba przewożonych osób wynika z konstrukcyjnego przeznaczenia pojazdu.
 
-5. Oświadczenie powinno również zawierać:
+### 2.
 
-- **1)** firmę przedsiębiorcy oraz jego miejsce zamieszkania albo siedzibę i adres;
-- **2)** oznaczenie miejsca i datę złożenia oświadczenia;
-- **3)** podpis osoby uprawnionej do reprezentowania przedsiębiorcy, ze wskazaniem imienia i nazwiska oraz pełnionej funkcji.
+Dopuszcza się przewóz osób samochodem ciężarowym poza kabiną kierowcy, pod warunkiem że:
 
-5a. Minister właściwy do spraw transportu określi wzór wniosku o zmianę danych zawartych w rejestrze przedsiębiorców prowadzących stację kontroli pojazdów oraz wzór wniosku o wykreślenie z rejestru przedsiębiorców prowadzących stację kontroli pojazdów, w formie dokumentów elektronicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 1)
 
-6. W rejestrze przedsiębiorców prowadzących stację kontroli pojazdów umieszcza się dane przedsiębiorcy, o których mowa w ust. 3, z wyjątkiem adresu zamieszkania, jeżeli jest on inny niż adres siedziby.
+pojazd odpowiada wymaganym warunkom technicznym do przewozu osób,
 
-7. Starosta może wyrazić zgodę na umieszczanie nadanych cech identyfikacyjnych pojazdu przez stację kontroli pojazdów. Art. 83aa. Właściwy starosta wydaje z urzędu zaświadczenie o dokonaniu wpisu do rejestru przedsiębiorców prowadzących stację kontroli pojazdów. Art. 83ab. 1. Właściwy starosta prostuje z urzędu wpis do rejestru zawierający oczywiste błędy lub niezgodności ze stanem faktycznym.
+### 2)
 
-2. W przypadku zmiany danych wpisanych do rejestru przedsiębiorca jest obowiązany złożyć wniosek o zmianę wpisu w rejestrze w terminie 14 dni od dnia, w którym nastąpiła zmiana tych danych. Art. 83ac. 1. Właściwy starosta jest obowiązany dokonać wpisu przedsiębiorcy do rejestru przedsiębiorców prowadzących stację kontroli pojazdów w terminie 7 dni od dnia wpływu do niego wniosku o wpis wraz z oświadczeniem, o którym mowa w art. 83a ust. 4.
+osoby nie znajdują się między ładunkiem a kabiną kierowcy,
 
-2. Jeżeli właściwy starosta nie dokona wpisu w terminie, o którym mowa w ust. 1, a od dnia wpływu wniosku do niego upłynęło 14 dni, przedsiębiorca może rozpocząć działalność. Nie dotyczy to przypadku, gdy starosta wezwał przedsiębiorcę do uzupełnienia wniosku o wpis nie później niż przed upływem 7 dni od dnia jego otrzymania. W takiej sytuacji termin, o którym mowa w zdaniu pierwszym, biegnie odpowiednio od dnia wpływu uzupełnienia wniosku o wpis.
+### 3)
 
-**Art. 83b.**
+osoby przewożone są na miejscach siedzących,
 
-1. Nadzór nad stacjami kontroli pojazdów sprawuje starosta.
+### 4)
 
-2. W ramach wykonywanego nadzoru starosta:
+pojazd nie przekracza prędkości 50 km/h.
 
-- **1)** co najmniej raz w roku przeprowadza kontrolę stacji kontroli pojazdów w zakresie:
-    - **a)** zgodności stacji z wymaganiami, o których mowa w art. 83 ust. 3,
-    - **b)** prawidłowości wykonywania badań technicznych pojazdów,
-    - **c)** prawidłowości prowadzenia wymaganej dokumentacji;
+### 3.
 
-- **2)** wydaje zalecenia pokontrolne i wyznacza termin usunięcia naruszeń warunków wykonywania działalności gospodarczej w zakresie prowadzenia stacji kontroli pojazdów;
-- **3)** wydaje decyzję o zakazie prowadzenia przez przedsiębiorcę stacji kontroli pojazdów, skreślając przedsiębiorcę z rejestru działalności regulowanej, jeżeli przedsiębiorca:
-    - **a)** złożył oświadczenie, o którym mowa w art. 83a ust. 4, niezgodne ze stanem faktycznym,
-    - **b)** nie usunął naruszeń warunków wykonywania działalności gospodarczej w zakresie prowadzenia stacji kontroli pojazdów w wyznaczonym przez starostę terminie,
-    - **c)** rażąco naruszył warunki wykonywania działalności gospodarczej w zakresie prowadzenia stacji kontroli pojazdów.
+Zabrania się przewozu osób w przyczepie, z tym że dopuszcza się przewóz:
 
-2a. Decyzja, o której mowa w ust. 2 pkt 3, podlega natychmiastowemu wykonaniu.
+### 1)
 
-2b. W przypadku wydania decyzji, o której mowa w ust. 2 pkt 3, jeżeli przedsiębiorca wykonuje działalność gospodarczą objętą wpisem także na podstawie wpisów do innych rejestrów działalności regulowanej w tym samym zakresie działalności gospodarczej, z urzędu wykreśla się przedsiębiorcę także z tych rejestrów działalności regulowanej.
+dzieci do szkół lub przedszkoli i z powrotem w przyczepie dostosowanej do przewozu osób, ciągniętej przez ciągnik rolniczy,
 
-3. Starosta może powierzyć, w drodze porozumienia, czynności kontrolne Dyrektorowi Transportowego Dozoru Technicznego.
+### 2)
 
-4. (uchylony) Art. 83ba. 1. Przedsiębiorca, którego wykreślono z rejestru przedsiębiorców prowadzących stację kontroli pojazdów, może uzyskać ponowny wpis do rejestru w tym samym zakresie działalności gospodarczej nie wcześniej niż po upływie 3 lat od dnia wydania decyzji, o której mowa w art. 83b ust. 2 pkt 3.
+konwojentów, drużyn roboczych i osób wykonujących czynności ładunkowe w przyczepie ciągniętej przez ciągnik rolniczy pod warunkiem, że:
 
-2. Przepis ust. 1 stosuje się odpowiednio do przedsiębiorcy, który wykonywał działalność gospodarczą bez wpisu do rejestru. Nie dotyczy to sytuacji określonej w art. 83ac ust. 2. Art. 83bb. Właściwy starosta wykreśla przedsiębiorcę z rejestru przedsiębiorców prowadzących stację kontroli pojazdów na jego wniosek, a także po uzyskaniu informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub Krajowego Rejestru Sądowego o wykreśleniu przedsiębiorcy.
+### a)
 
-**Art. 83c.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+liczba przewożonych osób nie przekracza 5,
 
-**Art. 84.**
+### b)
 
-1. Badanie techniczne pojazdów wykonuje zatrudniony w stacji kontroli pojazdów uprawniony diagnosta.
+osoby stojące trzymają się uchwytów,
 
-2. Starosta wydaje uprawnienie do wykonywania badań technicznych, jeżeli osoba ubiegająca się o jego wydanie posiada wymagane wykształcenie techniczne i praktykę, odbyła wymagane szkolenie oraz zdała egzamin kwalifikacyjny.
+### c)
 
-2a. Egzamin, o którym mowa w ust. 2, przeprowadza za opłatą komisja powołana przez Dyrektora Transportowego Dozoru Technicznego.
+osoby nie znajdują się pomiędzy ładunkiem a przednią ścianą przyczepy,
 
-2b. Przez wymagane wykształcenie techniczne i praktykę, o których mowa w ust. 2, rozumie się:
+### d)
 
-- **1)** wyższe wykształcenie w obszarze nauk technicznych o specjalności samochodowej i udokumentowane 6 miesięcy praktyki w stacji kontroli pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku kontroli lub naprawy pojazdów albo
-- **2)** średnie wykształcenie techniczne lub wykształcenie średnie branżowe, o specjalności samochodowej i udokumentowany rok praktyki w stacji kontroli pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku kontroli lub naprawy pojazdów, albo
-- **3)** wyższe wykształcenie w obszarze nauk technicznych o specjalności innej niż samochodowa i udokumentowany rok praktyki w stacji kontroli pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku kontroli lub naprawy pojazdów, albo
-- **4)** średnie wykształcenie techniczne lub wykształcenie średnie branżowe, o specjalności innej niż samochodowa i udokumentowane 2 lata praktyki w stacji kontroli pojazdów lub w zakładzie (warsztacie) naprawy pojazdów na stanowisku kontroli lub naprawy pojazdów.
+prędkość zespołu pojazdów nie przekracza 20 km/h.
 
-2c. Z obowiązku odbycia szkolenia, o którym mowa w ust. 2, jest zwolniona osoba ubiegająca się o wydanie uprawnienia do wykonywania badań technicznych, która ukończyła studia wyższe na kierunku studiów w obszarze nauk technicznych obejmującym wiedzę i umiejętności w zakresie diagnostyki samochodowej.
+### 4.
 
-2d. Zwolnienie, o którym mowa w ust. 2c, następuje na podstawie dołączonych do wniosku dokumentów poświadczających ukończenie studiów wyższych.
+Przepisów ust. 1-3 nie stosuje się do przewozu pojazdami Sił Zbrojnych, Policji, Straży Granicznej, Służby Więziennej oraz straży pożarnej.
 
-2e. Do okresu praktyki, o którym mowa w ust. 2b pkt 1 i 3, wlicza się praktykę objętą programem studiów, pod warunkiem że praktyka jest odbywana na podstawie umowy zawartej między uczelnią a stacją kontroli pojazdów lub podmiotem, o którym mowa w art. 86 ust. 1.
+### 5.
 
-3. Starosta cofa diagnoście uprawnienie do wykonywania badań technicznych, jeżeli w wyniku przeprowadzonej kontroli, o której mowa w art. 83b ust. 2 pkt 1, stwierdzono:
+Kierującemu pojazdem silnikowym, który przewozi osobę, zabrania się palenia tytoniu lub spożywania pokarmów w czasie jazdy. Nie dotyczy to kierującego samochodem ciężarowym, który przewozi osobę w kabinie kierowcy, i kierującego samochodem osobowym, z wyjątkiem taksówki.
 
-- **1)** przeprowadzenie przez diagnostę badania technicznego niezgodnie z określonym zakresem i sposobem wykonania;
-- **2)** wydanie przez diagnostę zaświadczenia albo dokonanie wpisu do dowodu rejestracyjnego pojazdu niezgodnie ze stanem faktycznym lub przepisami.
+### Art. 64.
 
-4. W przypadku cofnięcia diagnoście uprawnienia do wykonywania badań technicznych, ponowne uprawnienie nie może być wydane wcześniej niż po upływie 5 lat od dnia, w którym decyzja o cofnięciu stała się ostateczna.
+Ministrowie Obrony Narodowej, Spraw Wewnętrznych i Administracji oraz Sprawiedliwości określą, w drodze rozporządzenia:
 
-**Art. 84a.**
+### 1)
 
-1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+warunki poruszania się po drogach pojazdów, o których mowa w art. 61 ust. 13,
 
-- **1)** szczegółowe wymagania w stosunku do stacji kontroli pojazdów przeprowadzających badania techniczne w określonym zakresie;
-- **1a)** wzór wniosku o wpis do rejestru przedsiębiorców prowadzących stację kontroli pojazdów oraz wzór zaświadczenia potwierdzającego wpis przedsiębiorcy do tego rejestru;
-- **2)** program szkolenia diagnostów, sposób przeprowadzania egzaminu kwalifikacyjnego, o którym mowa w art. 84 ust. 2, i wysokość opłaty za egzamin oraz wzory dokumentów związanych z uzyskaniem uprawnień do wykonywania badań technicznych;
-- **3)** wysokość opłat za:
-    - **a)** wydanie poświadczenia, o którym mowa w art. 83 ust. 3 pkt 5,
-    - **b)** przeprowadzenie badań technicznych.
+### 2)
 
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględni w szczególności warunki techniczne pojazdów podlegających badaniu, konieczność zapewnienia odpowiednich kwalifikacji diagnostów wykonujących badanie oraz koszty wykonywania badań.
+warunki przewozu osób, o których mowa w art. 63 ust. 4.
 
-**Art. 84b.**
+### Oddział 5 Wykorzystanie dróg w sposób szczególny
 
-1. Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+### Art. 65.
 
-- **1)** minimalne wymagania dla infrastruktury innej niż stanowisko kontrolne w stacji kontroli pojazdów;
-- **2)** wyposażenie kontrolno-pomiarowe stosowane do przeprowadzania badań technicznych pojazdów w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów;
-- **3)** wzór wniosku o przeprowadzenie badania technicznego pojazdu w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów.
+### 1.
 
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw transportu uwzględnia:
+Zawody sportowe, rajdy, wyścigi, zgromadzenia i inne imprezy, które powodują utrudnienie ruchu lub wymagają korzystania z drogi w sposób szczególny, mogą odbywać się pod warunkiem uzyskania zezwolenia. Zezwolenie wydaje:
 
-- **1)** warunki i wymagania gwarantujące przeprowadzenie badań technicznych pojazdów, o których mowa w art. 81 ust. 12b, zgodnie z zakresem i sposobem przeprowadzania tych badań;
-- **2)** warunki techniczne pojazdów podlegających badaniu technicznemu w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów;
-- **3)** konieczność ujednolicenia stosowanego wniosku oraz potrzebę zwiększenia dostępności przeprowadzania badań technicznych pojazdów w infrastrukturze innej niż stanowisko kontrolne w stacji kontroli pojazdów.
+### 1)
 
-**Art. 85.**
+Minister Transportu i Gospodarki Morskiej, jeżeli impreza ma odbyć się na autostradzie lub drodze ekspresowej,
 
-1. Tramwaj i trolejbus podlegają odrębnym badaniom technicznym.
+### 2)
 
-2. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, zakres, warunki, terminy i sposób przeprowadzania badań technicznych tramwajów i trolejbusów oraz jednostki wykonujące te badania, uwzględniając w szczególności:
+wojewoda właściwy ze względu na miejsce, w którym rozpoczyna się impreza, jeżeli ma ona odbyć się na drodze innej niż określona w pkt 1.
 
-- **1)** warunki techniczne pojazdów podlegających badaniu;
-- **2)** proces zużywania podstawowych części i elementów wyposażenia tych pojazdów mających bezpośredni wpływ na bezpieczeństwo ruchu;
-- **3)** odpowiednie wyposażenie jednostek wykonujących te badania.
+### 2.
 
-**Art. 86.**
+Zezwolenie, o którym mowa w ust. 1 pkt 1, wydaje się po zasięgnięciu opinii Komendanta Głównego Policji, a zezwolenie, o którym mowa w ust. 1 pkt 2, po zasięgnięciu opinii wojewodów właściwych ze względu na miejsce odbywania się imprezy.
 
-1. Do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Ochrony Państwa, Straży Granicznej i Krajowej Administracji Skarbowej wykorzystywanych przez Służbę Celno-Skarbową, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3 oraz w art. 76 ust. 4 pkt 1, oraz pojazdów należących do obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej na podstawie umów międzynarodowych, o których mowa w art. 73 ust. 2b, a także do pojazdów Państwowej Straży Pożarnej mają zastosowanie przepisy art. 83 ust. 1, z wyłączeniem wymogu posiadania zezwolenia starosty, o którym mowa w art. 83 ust. 1 pkt 1 lit. b.
+### 3.
 
-2. Badania techniczne pojazdów służb, o których mowa w ust. 1, są przeprowadzane:
+W zakresie określonym w ust. 1 pkt 2 i ust. 2 wojewoda działa po zasięgnięciu opinii komendanta wojewódzkiego Policji.
 
-- **1)** przez upoważnione komórki organizacyjne lub stacje kontroli pojazdów prowadzone przez służby, o których mowa w ust. 1, z wyłączeniem obcych sił zbrojnych przebywających na terytorium Rzeczypospolitej Polskiej;
-- **2)** w stacjach kontroli pojazdów prowadzących działalność, o której mowa w art. 83 ust. 2.
+### 4.
 
-3. Upoważnione do przeprowadzania badań technicznych komórki organizacyjne lub stacje kontroli, o których mowa w ust. 2 pkt 1, posiadają uprawnienia stacji kontroli pojazdów wyłącznie w odniesieniu do pojazdów służb, o których mowa w ust.
+Organ wydający zezwolenie może:
 
-1.
+### 1)
 
-4. Minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych oraz Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw transportu oraz po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Komendanta Służby Ochrony Państwa i Szefa Centralnego Biura Antykorupcyjnego, a także Szefa Służby Kontrwywiadu Wojskowego i Szefa Służby Wywiadu Wojskowego, uwzględniając specyfikę wynikającą z przeznaczenia pojazdów służb, o których mowa w ust. 1, określą, w drodze rozporządzenia:
+odmówić wydania zezwolenia:
 
-- **1)** jednostki organizacyjne sprawujące nadzór nad komórkami organizacyjnymi i stacjami kontroli pojazdów przeprowadzającymi badania techniczne pojazdów oraz wydające upoważnienia do przeprowadzania badań technicznych, wzory dokumentów związanych z uzyskaniem upoważnień do wykonywania badań oraz wzór upoważnienia do ich przeprowadzania;
-- **2)** wymagania w stosunku do komórek organizacyjnych i stacji kontroli pojazdów upoważnionych do przeprowadzania badań technicznych pojazdów;
-- **3)** wzory dokumentów stosowanych przy badaniach technicznych pojazdów;
-- **4)** warunki i terminy przeprowadzania badań technicznych pojazdów;
-- **5)** okoliczności dopuszczające przeprowadzanie badań technicznych pojazdów, w stacjach kontroli pojazdów prowadzących działalność, o której mowa w art. 83 ust. 2, nieposiadających upoważnienia do badań technicznych pojazdów służb;
-- **6)** zasady i warunki współpracy przy wykonywaniu badań technicznych pojazdów innej służby niż właściwa dla komórki organizacyjnej przeprowadzającej badanie.
+### a)
 
-**Art. 86a.** (uchylony)
+w razie uzyskania negatywnej opinii organów, o których mowa w ust. 2 i 3,
 
-### DZIAŁ IV Bezpieczeństwo ruchu drogowego
+### b)
 
-#### Rozdział 1 (uchylony)
+jeżeli impreza zagraża bezpieczeństwu ruchu,
 
-#### Rozdział 1a Centralna ewidencja kierowców
+### c)
 
-**Art. 100a.**
+jeżeli impreza utrudni ruch drogowy na znacznym obszarze,
 
-1. Tworzy się centralną ewidencję kierowców, zwaną dalej „ewidencją”.
+### 2)
 
-2. (uchylony)
+cofnąć wydane zezwolenie, jeżeli:
 
-3. (uchylony)
+### a)
 
-4. Ewidencję prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym. W rozumieniu niniejszej ustawy minister ten jest administratorem danych i informacji zgromadzonych w ewidencji.
+impreza zagraża bezpieczeństwu ruchu drogowego,
 
-5. Minister właściwy do spraw informatyzacji może zlecić, z wyłączeniem stosowania przepisów dotyczących zamówień publicznych, zadania związane z budową, rozwojem, wdrożeniem i utrzymaniem systemu teleinformatycznego obsługującego:
+### b)
 
-- **1)** centralną ewidencję kierowców,
-- **2)** centralną ewidencję pojazdów – wytwórcy dokumentów publicznych w rozumieniu ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 564) lub instytucji gospodarki budżetowej, wobec której minister właściwy do spraw informatyzacji pełni funkcję organu założycielskiego. Art. 100aa. 1. W ewidencji gromadzi się dane o:
-- **1)** osobach posiadających lub którym cofnięto uprawnienia do kierowania pojazdami silnikowymi, tramwajami lub motorowerami, zwane dalej „uprawnieniami”;
-- **1a)** osobach posiadających lub którym unieważniono kartę kwalifikacji kierowcy;
-- **2)** osobach nieposiadających uprawnień, które kierując pojazdem popełniły naruszenie określone w przepisach wydanych na podstawie art. 105 ust. 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **3)** osobach nieposiadających uprawnień, w stosunku do których orzeczono zakaz prowadzenia pojazdów;
-- **4)** osobach ubiegających się o uzyskanie uprawnień;
-- **4a)** osobach ubiegających się o wydanie karty kwalifikacji kierowcy;
-- **5)** wykładowcach prowadzących szkolenie;
-- **6)** egzaminatorach;
-- **7)** lekarzach uprawnionych do przeprowadzania badań lekarskich w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami, w tym również posiadających prawo do wykonywania badań lekarskich, o których mowa w ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878);
-- **8)** psychologach uprawnionych do wykonywania badań psychologicznych w zakresie psychologii transportu;
-- **9)** instruktorach techniki jazdy;
-- **10)** instruktorach prowadzących szkolenie;
-- **11)** ośrodkach szkolenia kierowców i innych jednostkach prowadzących szkolenie;
-- **12)** pracowniach psychologicznych wykonujących badania psychologiczne w zakresie psychologii transportu;
-- **13)** ośrodkach doskonalenia techniki jazdy;
-- **14)** ośrodkach egzaminacyjnych i ich oddziałach terenowych;
-- **15)** ośrodkach szkolenia w zakresie świadectw kwalifikacji zawodowej.
+warunki ruchu, przy uwzględnieniu których zezwolenie zostało wydane, uległy zmianie.
 
-2. W ewidencji gromadzi się również identyfikator osoby lub podmiotu dokonujących w ewidencji zamieszczenia lub zmiany danych.
+### 5.
 
-3. W ewidencji gromadzi się także dane zgromadzone do dnia 3 czerwca 2018 r. przez organy właściwe w sprawach wydawania uprawnień do kierowania pojazdami w związku z tworzeniem profilu kandydata na kierowcę.
+Organ kontroli ruchu drogowego może przerwać imprezę, jeżeli:
 
-3a. W ewidencji gromadzi się także dane zgromadzone do dnia określonego w komunikacie, o którym mowa w art. 13 ust. 2 ustawy z dnia 9 maja 2018 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 957, z późn. zm. ), przez organy właściwe w sprawach wydawania dokumentów stwierdzających posiadanie uprawnienia do kierowania pojazdami w związku z tworzeniem profilu kandydata na kierowcę.
+### 1)
 
-4. W stosunku do osób, o których mowa w ust. 1 pkt 1–3, gromadzi się następujące dane:
+jest prowadzona bez zezwolenia,
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** obywatelstwo;
-- **5)** adres zamieszkania;
-- **6)** datę zgonu;
-- **7)** o uprawnieniach; [8) o okresie próbnym i jego przedłużeniu;] <8) o okresie próbnym, jego przedłużeniu i nałożeniu uzupełniającego okresu próbnego;> 8a) o ukończeniu praktycznego szkolenia w zakresie zagrożeń w ruchu drogowym, o którym mowa w art. 91 ust. 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **9)** o skierowaniu na kurs reedukacyjny;
-- **10)** o dokumentach stwierdzających uprawnienia;
-- **11)** o zastosowaniu zakazu prowadzenia pojazdów; [12) o wykroczeniach lub przestępstwach stanowiących naruszenia przepisów ruchu drogowego i przypisanych im punktach;] <12) o wykroczeniach lub przestępstwach stanowiących naruszenia przepisów ruchu drogowego i przypisanych im punktach oraz wysokości grzywien nałożonych w drodze mandatu karnego;> 12a) o uiszczeniu grzywien, o których mowa w pkt 12;
-- **13)** o kierowaniu pojazdem w stanie nietrzeźwości, w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu;
-- **14)** o zaświadczeniach ADR, o których mowa w przepisach o przewozie towarów niebezpiecznych;
-- **15)** o wydanych i cofniętych świadectwach kwalifikacji zawodowej potwierdzających uzyskanie odpowiednich kwalifikacji lub ukończenie szkolenia okresowego oraz o zaświadczeniach potwierdzających ukończenie modułów szkolenia okresowego, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym;
-- **16)** o zezwoleniach na kierowanie pojazdami uprzywilejowanymi lub pojazdami, przewożącymi wartości pieniężne albo inne przedmioty wartościowe lub niebezpieczne, o których mowa w ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995);
-- **17)** o instruktorze, wykładowcy, instruktorze techniki jazdy, którzy prowadzili szkolenie, a także o ośrodku szkolenia kierowców i innej jednostce, ośrodku doskonalenia techniki jazdy oraz ośrodku szkolenia w zakresie świadectw kwalifikacji zawodowej, w których było prowadzone szkolenie;
-- **18)** o egzaminatorze i wojewódzkim ośrodku ruchu drogowego, którzy przeprowadzili egzamin państwowy;
-- **19)** o psychologu, który wykonywał badania psychologiczne w zakresie psychologii transportu oraz lekarzu, który przeprowadzał badania lekarskie w celu ustalenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami;
-- **20)** o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań zdrowotnych do kierowania pojazdami;
-- **20a)** o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań zdrowotnych do pracy na stanowisku kierowcy;
-- **21)** o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań psychologicznych do kierowania pojazdami;
-- **22)** o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań psychologicznych do pracy na stanowisku kierowcy;
-- **23)** o wydanych i unieważnionych kartach kwalifikacji kierowcy;
-- **24)** o skierowaniach na badania lekarskie stwierdzające istnienie lub brak przeciwwskazań zdrowotnych do kierowania pojazdami;
-- **25)** o skierowaniach na badania psychologiczne stwierdzające istnienie lub brak przeciwwskazań psychologicznych do kierowania pojazdami;
-- **26)** o obowiązku ukończenia odpowiedniego kursu reedukacyjnego i jego ukończeniu oraz obowiązku odbycia badań lekarskich i psychologicznych i ich przeprowadzeniu.
+### 2)
 
-5. W stosunku do osób, o których mowa w ust. 1 pkt 4 i 4a, gromadzi się następujące dane:
+miejsce, trasa lub czas jej trwania wykraczają poza warunki określone w zezwoleniu,
 
-- **1)** identyfikator jednostki podziału terytorialnego kraju;
-- **2)** datę utworzenia profilu kandydata na kierowcę lub profilu kierowcy zawodowego;
-- **3)** unikalny numer identyfikujący profil kandydata na kierowcę oraz profil kierowcy zawodowego;
-- **4)** imię i nazwisko;
-- **5)** datę i miejsce urodzenia;
-- **6)** datę zgonu;
-- **7)** fotografię;
-- **8)** wzór podpisu;
-- **9)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **10)** obywatelstwo;
-- **11)** adres zamieszkania;
-- **12)** telefon, adres poczty elektronicznej – o ile został podany we wniosku;
-- **13)** o posiadanych uprawnieniach;
-- **14)** o dokumentach stwierdzających uprawnienia;
-- **15)** wskazanie, jakiej kategorii prawa jazdy dotyczy profil kandydata na kierowcę;
-- **15a)** wskazanie, czy profil kierowcy zawodowego dotyczy:
-    - **a)** prawa jazdy kategorii w zakresie bloku programowego: – C1, C1+E, C i C+E czy – D1, D1+E, D i D+E,
-    - **b)** kwalifikacji wstępnej,
-    - **c)** kwalifikacji wstępnej przyśpieszonej,
-    - **d)** kwalifikacji wstępnej uzupełniającej,
-    - **e)** kwalifikacji wstępnej uzupełniającej przyśpieszonej,
-    - **f)** szkolenia okresowego;
+### 3)
 
-- **16)** o orzeczeniach stwierdzających istnienie lub brak przeciwskazań zdrowotnych do kierowania pojazdami i o orzeczeniach stwierdzających istnienie lub brak przeciwskazań psychologicznych do kierowania pojazdami;
-- **16a)** o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań zdrowotnych do wykonywania pracy na stanowisku kierowcy i o orzeczeniach stwierdzających istnienie lub brak przeciwwskazań psychologicznych do wykonywania pracy na stanowisku kierowcy;
-- **17)** wskazanie, czy wniosek dotyczy:
-    - **a)** wydania prawa jazdy lub pozwolenia na kierowanie tramwajem,
-    - **b)** przywrócenia cofniętego uprawnienia do kierowania pojazdami,
-    - **c)** wymiany wydanego za granicą prawa jazdy nieokreślonego w konwencjach o ruchu drogowym,
-    - **d)** zwrotu zatrzymanego prawa jazdy,
-    - **e)** skierowania na kontrolne sprawdzenie kwalifikacji,
-    - **f)** wydania karty kwalifikacji kierowcy;
+jej przebieg w bezpośredni sposób zagraża bezpieczeństwu.
 
-- **18)** dotyczące obowiązywania zakazu prowadzenia pojazdów;
-- **19)** dotyczące obowiązywania decyzji o cofnięciu uprawnienia do kierowania pojazdami lub zatrzymaniu prawa jazdy;
-- **20)** dotyczące rozpoczęcia szkolenia w ramach kwalifikacji wstępnej;
-- **20a)** dotyczące kursu kwalifikacyjnego, szkolenia okresowego oraz modułów szkolenia okresowego, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym;
-- **21)** dotyczące ukończonego szkolenia dla osób ubiegających się o uprawnienia do kierowania pojazdami – w przypadku jeżeli informacja o ukończonym szkoleniu widnieje w dokumentach kierowcy;
-- **22)** dotyczące zgód, o których mowa w art. 11 ust. 2 i art. 21 ust. 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami – jeżeli są wymagane;
-- **23)** o egzaminach państwowych;
-- **24)** o wydanych i cofniętych świadectwach kwalifikacji zawodowej potwierdzających uzyskanie odpowiednich kwalifikacji lub ukończenie szkolenia okresowego oraz o zaświadczeniach potwierdzających ukończenie modułów szkolenia okresowego, o których mowa w ustawie z dnia 6 września 2001 r. o transporcie drogowym. [6. W odniesieniu do osób, o których mowa w ust. 1 pkt 5–10, gromadzi się następujące dane:
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny odpowiednio, wykładowcy, egzaminatora, lekarza, psychologa, instruktora techniki jazdy lub instruktora;
-- **5)** dotyczące uprawnień oraz dokumentów je stwierdzających;
-- **6)** datę i przyczynę skreślenia z ewidencji;
-- **7)** datę, do której nie może być dokonany kolejny wpis do ewidencji.] <6. W stosunku do osób, o których mowa w ust. 1 pkt 5, gromadzi się następujące dane:
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** wynikające z zakresu złożonego przez wykładowcę egzaminu poszczególne rodzaje uprawnień, w zakresie których może prowadzić szkolenie, oraz daty ich uzyskania;
-- **7)** numer ewidencyjny ośrodka szkolenia kierowców lub numer ewidencyjny innego podmiotu, w których prowadzi szkolenie;
-- **8)** datę wydania zaświadczenia o wpisie do ewidencji;
-- **9)** o wpisach i skreśleniach.> 6a. W stosunku do osób, o których mowa w ust. 1 pkt 6, gromadzi się następujące dane:
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu tożsamości oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** o uprawnieniach do egzaminowania oraz dokumentach je stwierdzających;
-- **7)** nazwę i adres wojewódzkiego ośrodka ruchu drogowego, w którym jest zatrudniony;
-- **8)** o wpisach i skreśleniach.
+### 6.
 
-6b. W stosunku do osób, o których mowa w ust. 1 pkt 7, gromadzi się następujące dane:
+Przepisy określone w ust. 1-5 nie dotyczą procesji, pielgrzymek i konduktów pogrzebowych, które poruszają się po drogach na zasadach określonych w odrębnych przepisach.
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** numer prawa wykonywania zawodu;
-- **7)** adres jednostki organizacyjnej, w której przeprowadza badania;
-- **8)** o posiadaniu prawa do wykonywania badań lekarskich, o których mowa w ustawie z dnia 26 czerwca 1974 r. ‒ Kodeks pracy;
-- **9)** o uprawnieniach do orzekania;
-- **10)** o wpisach i skreśleniach.
+### 7.
 
-6c. W stosunku do osób, o których mowa w ust. 1 pkt 8, gromadzi się następujące dane:
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, sposób zapewnienia bezpieczeństwa i porządku publicznego podczas trwania imprez na drogach, warunki ich odbywania oraz tryb postępowania w tych sprawach.
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** oznaczenie pracowni psychologicznej, w której wykonuje badania;
-- **7)** datę wydania zaświadczenia o wpisie do ewidencji;
-- **8)** o uprawnieniach do orzekania;
-- **9)** o wpisach i skreśleniach.
+### Dział III Pojazdy
 
-6d. W stosunku do osób, o których mowa w ust. 1 pkt 9, gromadzi się następujące dane:
+### Rozdział 1 Warunki techniczne pojazdów
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę kraju, który wydał ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** terminy ważności badań lekarskich i psychologicznych;
-- **7)** o uprawnieniach do szkolenia oraz dokumentach je stwierdzających;
-- **8)** oznaczenie ośrodka doskonalenia techniki jazdy, w którym prowadzi szkolenie;
-- **9)** datę wydania zaświadczenia o wpisie do ewidencji;
-- **10)** o wpisach i skreśleniach.
+### Art. 66.
 
-6e. W stosunku do osób, o których mowa w ust. 1 pkt 10, gromadzi się następujące dane:
+### 1.
 
-- **1)** imię i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **4)** numer ewidencyjny;
-- **5)** adres zamieszkania;
-- **6)** o uprawnieniach do szkolenia oraz dokumentach je stwierdzających;
-- **7)** numer ewidencyjny ośrodka szkolenia kierowców lub numer ewidencyjny innego podmiotu, w którym prowadzi szkolenie;
-- **8)** o wpisach i skreśleniach. [7. W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 11–13, gromadzi się następujące dane:
-- **1)** nazwę;
-- **2)** numer ewidencyjny albo numer w rejestrze;
-- **3)** numer identyfikacyjny REGON;
-- **4)** dotyczące prowadzonej działalności objętej wpisem;
-- **5)** o wpisach i skreśleniach.] <7. W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 11, gromadzi się następujące dane:
-- **1)** firmę przedsiębiorcy oraz oznaczenie jego adresu i siedziby albo miejsca zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile posiada;
-- **3)** numer identyfikacji podatkowej (NIP) – o ile posiada;
-- **4)** numer identyfikacyjny (REGON) – o ile posiada;
-- **5)** numer ewidencyjny podmiotu prowadzącego szkolenie;
-- **6)** poszczególne rodzaje uprawnień, w zakresie których podmiot może prowadzić szkolenie, oraz daty ich uzyskania;
-- **7)** adresy pomieszczeń biurowych, sal wykładowych i placów manewrowych wraz z datami określającymi okres, na jaki podmiot posiada tytuł prawny do tych obiektów;
-- **8)** imiona, nazwiska i numery ewidencyjne instruktorów i wykładowców prowadzących szkolenie na rzecz podmiotu;
-- **9)** o wpisach i skreśleniach.> 7 . W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 12, gromadzi się następujące dane:
-- **1)** firmę przedsiębiorcy oraz oznaczenie jego adresu i siedziby albo miejsca zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile posiada;
-- **3)** numer identyfikacji podatkowej (NIP) – o ile posiada;
-- **4)** numer identyfikacyjny (REGON) – o ile posiada;
-- **5)** oznaczenie i adres pracowni psychologicznej;
-- **6)** imię i nazwisko psychologa uprawnionego do wykonywania badań psychologicznych w zakresie psychologii transportu wraz z jego numerem ewidencyjnym;
-- **7)** numer ewidencyjny przedsiębiorcy w rejestrze przedsiębiorców prowadzących pracownię psychologiczną;
-- **8)** numer ewidencyjny pracowni psychologicznej;
-- **9)** o wpisach i skreśleniach.
+Pojazd uczestniczący w ruchu ma być tak zbudowany, wyposażony i utrzymany, aby korzystanie z niego:
 
-7. W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 13, gromadzi się następujące dane:
+### 1)
 
-- **1)** firmę przedsiębiorcy oraz oznaczenie jego adresu i siedziby albo miejsca zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile posiada;
-- **3)** numer identyfikacji podatkowej (NIP) – o ile posiada;
-- **4)** numer identyfikacyjny (REGON) – o ile posiada;
-- **5)** adres ośrodka doskonalenia techniki jazdy;
-- **6)** zakres prowadzonego szkolenia, o którym mowa w art. 112 ust. 1 pkt 1 lub 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **7)** imiona i nazwiska instruktorów techniki jazdy wraz z ich numerami ewidencyjnymi;
-- **8)** numer ewidencyjny;
-- **9)** o wpisach i skreśleniach.
+nie zagrażało bezpieczeństwu osób nim jadących lub innych uczestników ruchu, nie naruszało porządku ruchu na drodze i nie narażało kogokolwiek na szkodę,
 
-7a. W odniesieniu do podmiotu, o którym mowa w ust. 1 pkt 14, gromadzi się następujące dane:
+### 2)
 
-- **1)** nazwę;
-- **2)** adres siedziby albo oddziału terenowego;
-- **3)** numer identyfikacyjny REGON;
-- **4)** numer rozpoznawczy;
-- **5)** dotyczące prowadzonej działalności objętej wpisem. [7b. W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 15, gromadzi się następujące dane:
-- **1)** nazwę;
-- **2)** numer ewidencyjny albo numer w rejestrze;
-- **3)** numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny REGON, o ile taki posiada;
-- **4)** dotyczące prowadzonej działalności objętej wpisem;
-- **5)** o wpisach i skreśleniach.] <7b. W odniesieniu do podmiotów, o których mowa w ust. 1 pkt 15, gromadzi się następujące dane:
-- **1)** firmę przedsiębiorcy oraz oznaczenie jego adresu i siedziby albo miejsca zamieszkania;
-- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym – o ile posiada;
-- **3)** numer identyfikacji podatkowej (NIP) ‒ o ile posiada;
-- **4)** numer identyfikacyjny (REGON) ‒ o ile posiada;
-- **5)** wskazanie miejsca prowadzenia ośrodka szkolenia;
-- **6)** numer ewidencyjny;
-- **7)** o wpisach i skreśleniach.>
+nie zakłócało spokoju publicznego przez powodowanie hałasu przekraczającego poziom określony w przepisach szczegółowych,
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, szczegółowy katalog gromadzonych w ewidencji danych, o których mowa w:
+### 3)
 
-- **1)** ust. 4:
-    - **a)** pkt 7‒10 i 12b,
-    - **b)** pkt 11–12a,
-    - **c)** pkt 14,
-    - **d)** pkt 15,
-    - **e)** pkt 16,
-    - **f)** pkt 17–19,
-    - **g)** pkt 20–22,
-    - **h)** pkt 23,
-    - **i)** pkt 24 i 25,
-    - **j)** pkt 26,
+nie powodowało wydzielania szkodliwych substancji w stopniu przekraczającym wielkości określone w przepisach szczegółowych,
 
-- **2)** ust. 5:
-    - **a)** pkt 13 i 14,
-    - **b)** pkt 16 i 16a,
-    - **c)** pkt 18 i 19,
-    - **d)** pkt 20 i 20a,
-    - **e)** pkt 21–23,
-    - **f)** pkt 24,
+### 4)
 
-- **3)** ust. 7 pkt 9,
-- **4)** ust. 7 pkt 9,
-- **5)** ust. 7 pkt 9,
-- **6)** ust. 7a pkt 5,
-- **7)** ust. 7b pkt 7 – przekazywanych przez podmioty, o których mowa w art. 100ac ust. 1, oraz uzupełnianych automatycznie przez system teleinformatyczny obsługujący ewidencję, mając na względzie użyteczność oraz proporcjonalność zakresu i rodzaju przetwarzanych danych, a także konieczność zapewnienia prawidłowego funkcjonowania ewidencji oraz bezpieczeństwo gromadzonych w niej danych. Art. 100ab. 1. Danych zgromadzonych w ewidencji nie usuwa się, z wyłączeniem danych, o których mowa w:
-- **1)** art. 100aa ust. 4 pkt 11 oraz ust. 5 pkt 18, które podlegają usunięciu z ewidencji:
-    - **a)** jeżeli dane o zakazie prowadzenia pojazdów podlegają usunięciu z Krajowego Rejestru Karnego,
-    - **b)** po 5 latach od daty uprawomocnienia się orzeczenia o zastosowaniu zakazu prowadzenia pojazdów, jeżeli dane o tym zakazie nie podlegają gromadzeniu w Krajowym Rejestrze Karnym;
+nie powodowało niszczenia drogi,
 
-- **2)** art. 100aa ust. 4 pkt 12–13, które podlegają usunięciu z ewidencji na zasadach określonych w art. 98 ust. 5 i 6 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+### 5)
 
-1a. W przypadku, o którym mowa w ust. 1 pkt 1 lit. b, dane, o których mowa w art. 100aa ust. 4 pkt 11 i ust. 5 pkt 18, są usuwane automatycznie.
+zapewniało dostateczne pole widzenia kierowcy oraz łatwe, wygodne i pewne posługiwanie się urządzeniami do kierowania, hamowania, sygnalizacji i oświetlenia drogi przy równoczesnym jej obserwowaniu,
 
-2. (uchylony) Art. 100ac. 1. Dane, o których mowa w art. 100aa ust. 2–7b, przekazują do ewidencji:
+### 6)
 
-- **1)** organ właściwy w sprawach wydawania dokumentów stwierdzających uprawnienie do kierowania pojazdami w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 1–5, [pkt 7–10 i pkt 23–26] <7, 8, 9, 10 i 23–26> oraz ust. 5 pkt 1–5, pkt 7–15a, pkt 17, 19, 21 i 22;
-- **2)** sąd, niezwłocznie po uprawomocnieniu się orzeczenia – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 11 i 13 oraz ust. 5 pkt 18; [3) odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator, sąd lub organ orzekający w sprawach o naruszenia w postępowaniu dyscyplinarnym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12;] <3) odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator, sąd lub organ orzekający w sprawach o naruszenia w postępowaniu dyscyplinarnym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12 i 12a;> 3a) właściwy naczelnik urzędu skarbowego oraz Główny Inspektor Transportu Drogowego – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12a;
-- **4)** odpowiednio do swoich kompetencji: organy kontroli ruchu drogowego, prokurator lub sąd – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 10;
-- **5)** marszałek województwa lub Szef Inspektoratu Wsparcia Sił Zbrojnych – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 14;
-- **6)** wojewoda i dyrektor okręgowej komisji egzaminacyjnej – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 15 i ust. 5 pkt 24;
-- **7)** kierownik ośrodka szkolenia w zakresie uzyskiwania kwalifikacji zawodowej, o którym mowa w art. 39e ustawy z dnia 6 września 2001 r. o transporcie drogowym – w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 15 oraz ust. 5 pkt 20, 20a i 24; <7a) kierownik ośrodka doskonalenia techniki jazdy w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 8a;> [8) starosta – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 16–19 i 21 oraz ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 5 i 10,
-    - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 11;] <8) starosta – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 16–19 i 21 oraz ust. 6 i 6e,
-    - **b)** art. 100aa ust. 7;> [9) wojewoda – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 17 w zakresie danych o instruktorze techniki jazdy i ośrodku doskonalenia techniki jazdy oraz w ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 9,
-    - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 13,
-    - **c)** art. 100aa ust. 7b w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 15;] <9) wojewoda – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 4 pkt 17 w zakresie danych o instruktorze techniki jazdy i ośrodku doskonalenia techniki jazdy oraz w ust. 6d,
-    - **b)** art. 100aa ust. 7 i ust. 7b;> [10) marszałek województwa – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 6 w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 6–8,
-    - **b)** art. 100aa ust. 7 w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 12,
-    - **c)** art. 100aa ust. 7a w stosunku do podmiotów, o których mowa w art. 100aa ust. 1 pkt 14;] <10) marszałek województwa – w zakresie danych, o których mowa w:
-    - **a)** art. 100aa ust. 6a‒6c,
-    - **b)** art. 100aa ust. 7 i ust. 7a;>
+nie powodowało zakłóceń radioelektrycznych w stopniu przekraczającym wielkości określone w przepisach szczegółowych.
 
-- **11)** Biuro Informacyjne Krajowego Rejestru Karnego – w zakresie usunięcia danych o zakazie prowadzenia pojazdów, o którym mowa w art. 100aa ust. 4 pkt 11 i ust. 5 pkt 18, z Krajowego Rejestru Karnego;
-- **12)** kierownik ośrodka szkolenia kierowców – w zakresie danych, o których mowa w art. 100aa ust. 5 pkt 21;
-- **13)** dyrektor wojewódzkiego ośrodka ruchu drogowego – w zakresie danych, o których mowa w: 100aa ust. 1 pkt 4 i 4a;
-    - **a)** art. 100aa ust. 4 pkt 15 – w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 1–3,
-    - **b)** art. 100aa ust. 5 pkt 23 i 24 – w stosunku do osób, o których mowa w art.
+### 2.
 
-- **14)** lekarz uprawniony, o którym mowa w art. 100aa ust. 1 pkt 7 – w zakresie danych, o których mowa w: 100aa ust. 1 pkt 1–3,
-    - **a)** art. 100aa ust. 4 pkt 20 i 20a – w stosunku do osób, o których mowa w art.
-    - **b)** art. 100aa ust. 5 pkt 16 i 16a w zakresie orzeczeń lekarskich – w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 4 i 4a;
+Urządzenia i wyposażenie pojazdu, w szczególności zapewniające bezpieczeństwo ruchu i ochronę środowiska przed ujemnymi skutkami używania pojazdu, powinny być utrzymane w należytym stanie oraz działać sprawnie i skutecznie.
 
-- **15)** psycholog uprawniony, o którym mowa w art. 100aa ust. 1 pkt 8 – w zakresie danych, o których mowa w: 100aa ust. 1 pkt 1–3,
-    - **a)** art. 100aa ust. 4 pkt 21 i 22 – w stosunku do osób, o których mowa w art.
-    - **b)** art. 100aa ust. 5 pkt 16 i 16a w zakresie orzeczeń psychologicznych – w stosunku do osób, o których mowa w art. 100aa ust. 1 pkt 4 i 4a.
+### 3.
 
-2. Dane, o których mowa w art. 100aa ust. 2 oraz ust. 7a pkt 4, są uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję. [2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12 i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.] <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 5, ust. 7 pkt 4 i 5 oraz ust. 7a pkt 5, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.> <2a. Dane, o których mowa w art. 100aa ust. 4 pkt 7–12a i 14–22, ust. 5 pkt 13, 14, 16 i 18–24, ust. 6 pkt 9, ust. 6a pkt 6 i 8, ust. 6b pkt 9 i 10, ust. 6c pkt 8 i 9, ust. 6d pkt 7 i 10, ust. 6e pkt 6 i 8, ust. 7 pkt 8, ust. 7 pkt 9, ust. 7 pkt 9, ust. 7a pkt 5 oraz ust. 7b pkt 7, mogą zawierać dodatkowo dane uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję.>
+Urządzenia służące do łączenia pojazdu ciągnącego z przyczepą powinny zapewnić bezpieczne ciągnięcie przyczepy o dopuszczalnej masie całkowitej przewidzianej do ciągnięcia przez ten pojazd, uniemożliwić samoczynne odłączenie się przyczepy oraz zapewnić prawidłowe działanie świateł i hamulców, o ile przyczepa jest w nie wyposażona.
 
-3. Podmioty wymienione w ust. 1, wprowadzają dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemów teleinformatycznych obsługujących zadania realizowane przez te podmioty.
+### 4.
 
-3a. Podmioty, o których mowa w ust. 1 pkt 14 i 15, wprowadzają dane do ewidencji za pośrednictwem Elektronicznej Platformy Gromadzenia, Analizy i Udostępnienia Zasobów Cyfrowych o Zdarzeniach Medycznych, o której mowa w art. 7 ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2023 r. poz. 2465).
+Zabrania się:
 
-4. Dane gromadzone w ewidencji są do niej przekazywane z rejestrów PESEL, REGON, TERYT, centralnej ewidencji pojazdów i centralnej ewidencji posiadaczy kart parkingowych, o ile są gromadzone w tych rejestrach.
+### 1)
 
-5. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją posiadaczy kart parkingowych, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych. Art. 100ad. 1. W celu umożliwienia wprowadzenia danych do ewidencji, podmiotom wymienionym w art. 100ac ust. 1 zapewnia się dostęp do danych zgromadzonych w ewidencji.
+umieszczania wewnątrz i zewnątrz pojazdu wystających spiczastych albo ostrych części lub przedmiotów, które mogą spowodować uszkodzenie ciała osób jadących w pojeździe lub innych uczestników ruchu,
 
-2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
+### 2)
 
-2a. W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji pojazdów oraz centralnej ewidencji posiadaczy kart parkingowych, o ile są w nich gromadzone.
+stosowania w pojeździe przedmiotów wyposażenia i części nie odpowiadających warunkom określonym w przepisach szczegółowych,
 
-3. System teleinformatyczny obsługujący ewidencję generuje komunikat o:
+### 3)
 
-- **1)** wprowadzeniu danych do ewidencji – w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji;
-- **2)** niewprowadzeniu danych do ewidencji – w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji.
+umieszczania w pojeździe lub na nim urządzeń stanowiących obowiązkowe wyposażenie pojazdu uprzywilejowanego, wysyłających sygnały świetlne w postaci niebieskich lub czerwonych świateł błyskowych albo sygnał dźwiękowy o zmiennym tonie,
 
-4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 4)
 
-- **1)** zakres danych, do których zapewnia się dostęp podmiotom wymienionym w art. 100ac ust. 1, mając na względzie prawidłowość wykonywania przez poszczególne podmioty zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz tryb i sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter. Art. 100ae. W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 3 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia. Art. 100af. 58) 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100ad.
+wyposażania pojazdu w urządzenie informujące o działaniu sprzętu kontrolno-pomiarowego używanego przez organy kontroli ruchu drogowego lub działanie to zakłócające albo przewożenia w pojeździe takiego urządzenia w stanie wskazującym na gotowość jego użycia; nie dotyczy to pojazdów specjalnych Sił Zbrojnych, Policji, Urzędu Ochrony Państwa i Straży Granicznej.
 
-2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
+### 5.
 
-3. W celu wyjaśnienia niezgodności administrator danych i informacji zgromadzonych w ewidencji niezwłocznie powiadamia, za pomocą systemu teleinformatycznego obsługującego ewidencję, o niezgodności podmiot, który wprowadził dane, których niezgodność dotyczy, w przypadku:
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki techniczne pojazdów oraz zakres ich niezbędnego wyposażenia.
 
-- **1)** stwierdzenia niezgodności przez administratora danych i informacji zgromadzonych w ewidencji;
-- **2)** o którym mowa w ust. 2.
+### 6.
 
-4. Podmiot, o którym mowa w ust. 1 i 3, wyjaśnia tę niezgodność, w szczególności w oparciu o posiadane dokumenty lub dane.
+Ministrowie Obrony Narodowej oraz Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Sił Zbrojnych i jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji.
 
-5. Podmiot, o którym mowa w ust. 1 i 3, niezwłocznie informuje, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratora danych i informacji zgromadzonych w ewidencji o wyjaśnieniu tej niezgodności, w przypadku:
+### 7.
 
-- **1)** wprowadzenia poprawnych danych do ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane;
-- **2)** stwierdzenia, że wprowadzone do ewidencji dane są poprawne;
-- **3)** stwierdzenia braku możliwości usunięcia niezgodności, z podaniem uzasadnienia.
+Ministrowie Spraw Wewnętrznych i Administracji, Obrony Narodowej oraz Sprawiedliwości w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określą, w drodze rozporządzenia, warunki techniczne pojazdów specjalnych i używanych do celów specjalnych Policji, Urzędu Ochrony Państwa, Straży Granicznej, Służby Więziennej i straży pożarnej.
 
-6. Wprowadzenie do ewidencji danych, w stosunku do których stwierdzono niezgodność, o której mowa w ust. 2, wymaga uprzedniego wyjaśnienia tej niezgodności.
+### Art. 67.
 
-7. Administrator danych i informacji zgromadzonych w ewidencji umożliwi wprowadzenie do ewidencji danych bez uprzedniego wyjaśnienia niezgodności, jeżeli jest to niezbędne do realizacji zadań wynikających z przepisów odrębnych realizowanych przez podmioty obowiązane do wprowadzania danych do ewidencji w terminach wynikających z przepisów ustawowych.
+### 1.
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji kierowców przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
+Minister Transportu i Gospodarki Morskiej może w indywidualnych, uzasadnionych przypadkach zezwolić na odstępstwo od warunków technicznych, jakim powinny odpowiadać pojazdy.
 
-9. Przepisów ust. 1–8 nie stosuje się do usunięcia z ewidencji danych dotyczących zakazu prowadzenia pojazdu. Art. 100ah. 1. Dane zgromadzone w ewidencji udostępnia się, o ile są one niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
+### 2.
 
-- **1)** Policji;
-- **2)** Inspekcji Transportu Drogowego;
-- **3)** Żandarmerii Wojskowej;
-- **4)** Szefowi Inspektoratu Wsparcia Sił Zbrojnych;
-- **5)** Straży Granicznej;
-- **6)** Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
-- **7)** Centralnemu Biuru Antykorupcyjnemu;
-- **8)** Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego;
-- **9)** Komendantowi Służby Ochrony Państwa;
-- **9a)** (uchylony)
-- **10)** sądom;
-- **11)** prokuraturze;
-- **12)** starostom;
-- **13)** strażom gminnym (miejskim);
-- **13a)** organom Inspekcji Ochrony Środowiska;
-- **14)** Szefowi Krajowego Centrum Informacji Kryminalnych;
-- **15)** organom Krajowej Administracji Skarbowej;
-- **16)** szefom wojskowych centrów rekrutacji;
-- **17)** podmiotowi wydającemu karty, o którym mowa w ustawie z dnia 29 lipca 2005 r. o systemie tachografów cyfrowych (Dz. U. z 2017 r. poz. 891 oraz z 2018 r. poz. 650 i 1480);
-- **18)** ministrowi właściwemu do spraw transportu w celu umożliwienia organom i służbom uprawnionym do korzystania z systemu Tachonet wymianę danych z organami i uprawnionymi służbami w innych państwach, w których funkcjonuje system tachografu cyfrowego;
-- **19)** marszałkowi województwa;
-- **20)** wojewódzkiemu ośrodkowi ruchu drogowego;
-- **21)** zakładom ubezpieczeń: 43 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych,
-    - **a)** w zakresie niezbędnym do wykonywania uprawnień, o których mowa w art.
-    - **b)** w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 7,
-    - **c)** w zakresie danych, o których mowa w art. 100aa ust. 4 pkt 12, 12a lub 13, do oceny ryzyka ubezpieczeniowego i ustalania wysokości składki ubezpieczeniowej w związku z czynnościami zmierzającymi do zawarcia umowy ubezpieczenia, o której mowa w dziale II w grupach 3 i 10 załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+Wojewoda może wprowadzić, w drodze rozporządzenia, obowiązek wyposażenia pojazdów zaprzęgowych w hamulec uruchamiany z miejsca zajmowanego przez kierującego.
 
-- **22)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu;
-- **23)** ministrowi właściwemu do spraw rodziny;
-- **24)** ministrowi właściwemu do spraw zabezpieczenia społecznego;
-- **25)** organowi właściwemu dłużnika, o którym mowa w art. 2 pkt 9 ustawy z dnia 7 września 2007 r. o pomocy osobom uprawnionym do alimentów (Dz. U. z 2023 r. poz. 1993);
-- **26)** wojewodzie.
+### Art. 68.
 
-1a. Dane zgromadzone w ewidencji udostępnia się także ministrowi właściwemu do spraw wewnętrznych, w celu realizacji jego ustawowych zadań, za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku.
+### 1.
 
-2. Dane zgromadzone w ewidencji mogą być udostępniane sądom za pośrednictwem systemu teleinformatycznego, którego administratorem jest Minister Sprawiedliwości, na wniosek tego ministra. [2a. Zgromadzone w ewidencji dane mogą być udostępniane zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego, obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych.] <2a. Zgromadzone w ewidencji dane udostępnia się zakładom ubezpieczeń za pośrednictwem systemu teleinformatycznego, obsługującego Ubezpieczeniowy Fundusz Gwarancyjny, o którym mowa w ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych. >
+Producent lub importer nowego typu pojazdu samochodowego, ciągnika rolniczego, motoroweru, tramwaju lub przyczepy oraz przedmiotów ich wyposażenia lub części jest obowiązany uzyskać na nie świadectwo homologacji typu, wydane przez Ministra Transportu i Gospodarki Morskiej.
 
-3. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się w postaci elektronicznej za pomocą środków komunikacji elektronicznej na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. Udostępnienie danych w innej postaci, może nastąpić wyłącznie w przypadku, gdy nie będzie możliwe udostępnienie w postaci elektronicznej.
+### 2.
 
-4. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej może stanowić wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci.
+Za producenta, o którym mowa w ust. 1, uważa się również podmiot dokonujący montażu lub zabudowy pojazdów.
 
-5. Minister właściwy do spraw informatyzacji może wyrazić zgodę na udostępnianie danych zgromadzonych w ewidencji podmiotom, o których mowa w ust. 1, albo ich jednostkom organizacyjnym, za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku, jeżeli spełniają łącznie następujące warunki:
+### 3.
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne, zapewniające poufność, integralność, dostępność i autentyczność przetwarzanych danych;
-- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
+Przepis ust. 1 dotyczy również instalacji przystosowującej dany typ pojazdu do zasilania gazem oraz sposobu jej montażu przez różne podmioty.
 
-5a. Wyrażenie zgody, o której mowa w ust. 5, stanowi czynność materialno-techniczną.
+### 4.
 
-6. (uchylony)
+Świadectwo homologacji wydaje się na podstawie wyników badań homologacyjnych polegających na sprawdzeniu, czy dany typ pojazdu, przedmiot jego wyposażenia lub część odpowiadają warunkom określonym w:
 
-7. Minister właściwy do spraw informatyzacji, w drodze decyzji:
+### 1)
 
-- **1)** odmawia udostępniania danych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, nie spełniają warunków, o których mowa w ust. 5;
-- **2)** cofa dostęp do danych udostępnianych za pomocą urządzeń teletransmisji danych, jeżeli podmioty, o których mowa w ust. 1, przestaną spełniać warunki, o których mowa w ust. 5. Art. 100ai. 1. Dane zgromadzone w ewidencji mogą być udostępniane podmiotom zagranicznym w celu wypełnienia postanowień ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a także wykonania aktu prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem. Tryb i sposób udostępniania danych określają ratyfikowane przez Rzeczpospolitą Polską umowy międzynarodowe, akty prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem lub porozumienia zawarte pomiędzy właściwymi ministrami państw członkowskich Unii Europejskiej.
+przepisach art. 66,
 
-2. (uchylony) Art. 100aj. 1. Każdemu zainteresowanemu, po podaniu danych określonych w przepisach wydanych na podstawie ust. 3, dane zgromadzone w ewidencji, udostępnia się w postaci elektronicznej przy użyciu systemu teleinformatycznego.
+### 2)
 
-2. Dane osobowe zgromadzone w ewidencji mogą być udostępniane po uwierzytelnieniu zainteresowanego na zasadach określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+regulaminach stanowiących załączniki do Porozumienia dotyczącego przyjęcia jednolitych warunków homologacji i wzajemnego uznawania homologacji wyposażenia i części pojazdów samochodowych, sporządzonego w Genewie dnia 20 marca 1958 r. ([Dz. U. z 1979 r. Nr 16, poz. 98](https://api.sejm.gov.pl/eli/acts/DU/1979/98/text.html)), przyjętych do stosowania przez Rzeczpospolitą Polską wraz ze zmianami obowiązującymi od daty wejścia ich w życie,
 
-3. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 3)
 
-- **1)** dane wymagane do uzyskania dostępu do poszczególnych danych,
-- **2)** szczegółowy zakres udostępnianych danych – mając na uwadze konieczność zapewnienia bezpieczeństwa danych. Art. 100ak. 1. Dane zgromadzone w ewidencji udostępnia się także osobie, której one dotyczą.
+polskich normach przyjętych do obowiązkowego stosowania.
 
-2. Dane zgromadzone w ewidencji udostępnia się na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100al. 1. Minister właściwy do spraw informatyzacji może udostępnić dane zgromadzone w ewidencji innym podmiotom niż wymienione w art. 100ag–100ak, w tym osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nieposiadającym osobowości prawnej, jeżeli wykażą swój interes prawny.
+### 5.
 
-2. Podmiotom, o których mowa w ust. 1, dane zgromadzone w ewidencji udostępnia się na uzasadniony wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Odpowiedź w postaci papierowej stanowi wydruk z systemu teleinformatycznego obsługującego ewidencję. Wydruk ten nie wymaga podpisu ani pieczęci. Art. 100am. 1. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania, w sposób wykluczający możliwość identyfikacji osób, z zachowaniem przepisów ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego, jeżeli przepisy ustawy nie stanowią inaczej.
+Minister Transportu i Gospodarki Morskiej lub jednostka przez niego upoważniona może przeprowadzać kontrolę produkcji pojazdów, przedmiotów ich wyposażenia lub części objętych homologacją typu co do ich zgodności z warunkami określonymi w świadectwie homologacji.
 
-2. Dane zgromadzone w ewidencji są przekazywane do ponownego wykorzystywania na wniosek złożony w postaci papierowej albo w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+### 6.
 
-3. Dane zgromadzone w ewidencji mogą być udostępniane do ponownego wykorzystywania także za pośrednictwem usług sieciowych. Art. 100an. 1. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, wzór wniosku, o którym mowa w art. 100ah ust. 4, art. 100ak ust. 2, art. 100al ust. 2 oraz art. 100am ust. 2, kierując się potrzebami usprawnienia procesu udostępniania i przekazywania danych z ewidencji.
+Badania homologacyjne i kontrola zgodności produkcji są przeprowadzane na koszt producenta, importera lub podmiotu dokonującego montażu instalacji gazowej.
 
-2. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, rodzaj i zakres danych udostępnianych na podstawie art. 100ah i art. 100ak–100am, uwzględniając konieczność zapewnienia bezpieczeństwa danych przetwarzanych w ewidencji i ich ochrony przed nieuprawnionym ujawnieniem i dostępem. Art. 100ao. Udostępnienie i przekazywanie danych zgromadzonych w ewidencji następuje:
+### 7.
 
-- **1)** nieodpłatnie, w przypadku danych: 1, w celach niekomercyjnych,
-    - **a)** udostępnianych na podstawie art. 100ah–100ak,
-    - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2 organom administracji publicznej, niewymienionym w art. 100ah ust.
-    - **c)** udostępnianych na podstawie art. 100am w sposób określony w art. 100am ust. 3, w celach komercyjnych i niekomercyjnych;
+W przypadku produkcji danego typu pojazdu przez różne podmioty, badania homologacyjne przeprowadza się odrębnie dla każdej wersji typu pojazdu.
 
-- **2)** odpłatnie, w przypadku danych: Art. 100ap. 1. Wysokość opłaty za udostępnienie danych jednostkowych dotyczących jednej osoby lub jednego podmiotu nie może być wyższa niż 2 % przeciętnego wynagrodzenia w gospodarce narodowej, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
-    - **a)** udostępnianych na podstawie art. 100al,
-    - **b)** przekazywanych na podstawie art. 100am w sposób określony w art. 100am ust. 2, w celach komercyjnych i niekomercyjnych.
+### 8.
 
-2. Wysokość opłaty za udostępnianie danych z ewidencji do celów komercyjnych i niekomercyjnych określa się według wzoru: O = K × (A + B) + M gdzie: O – łączna kwota opłaty za udostępnienie danych do celów komercyjnych i niekomercyjnych, K – współczynnik wynoszący:
+W razie zmiany warunków stanowiących podstawę wydania świadectwa homologacji, producent lub importer jest obowiązany uzyskać nowe świadectwo homologacji na dany typ pojazdu, przedmiot wyposażenia lub część.
 
-- **a)** 1,0 – do celów niekomercyjnych,
-- **b)** 1,5 – do celów komercyjnych, A – opłata za prace informatyczne, gdzie A = 0,5H1 × Z + 0,5H2 × Z + 0,75H3 × Z + 10H4 × Z + H5 × Z B – opłata za prace eksploatacyjne, gdzie B = 1,5H6 × 10Z + H7 × 10Z + 1,5H8 × 10Z + 0,6H9 × 10Z + 0,5H10 × 10Z M – koszt materiałów eksploatacyjnych doliczany, w przypadku gdy przekroczy 5 % wartości usługi, a poszczególne symbole oznaczają: H – ilość godzin przeznaczonych na realizację zadania: H1 – czas trwania prac programowo-projektowych, H2 – czas opracowania dokumentacji programowej, H3 – czas trwania prac analitycznych i projektowych, H4 – czas opracowania nowego programu, H5 – czas opracowania programu z gotowych modułów, H6 – czas wyboru podzbioru z bazy danych, H7 – czas przetwarzania wybranych danych, H8 – czas wykonania tablicy statystycznej, H9 – czas drukowania wykazów z wybranego podzbioru zawierającego do 300 danych jednostkowych, H10 – czas drukowania wykazów z wybranego podzbioru zawierającego powyżej 300 danych jednostkowych, Z – opłatę za udostępnienie danych jednostkowych z ewidencji.
+### 9.
 
-3. Maksymalna wysokość opłaty, o której mowa w ust. 2, wynosi 23 000 zł.
+W razie wprowadzenia zmian w typie pojazdu, przedmiocie wyposażenia lub części wpływających na zmianę warunków stanowiących podstawę wydania świadectwa homologacji, producent lub importer jest obowiązany uzyskać nowe świadectwo homologacji na dany typ pojazdu, przedmiot wyposażenia lub część.
 
-4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 10.
 
-- **1)** wysokość opłaty za udostępnienie danych jednostkowych z ewidencji,
-- **2)** warunki i sposób wnoszenia opłaty za udostępnienie danych z ewidencji,
-- **3)** sposób dokumentowania wniesienia opłaty za udostępnienie danych z ewidencji – mając na względzie zróżnicowaną postać składania wniosku o udostępnienie danych oraz tryb ich udostępniania do celów komercyjnych i niekomercyjnych. Art. 100aq. W celu zapewnienia możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, minister właściwy do spraw informatyzacji zapewnia Agencji Bezpieczeństwa Wewnętrznego dostęp do ewidencji. Art. 100ar. 1. Każdemu zainteresowanemu, który zostanie uwierzytelniony w systemie teleinformatycznym obsługującym ewidencję, po podaniu imienia i nazwiska oraz numeru blankietu wydanego w kraju prawa jazdy lub pozwolenia na kierowanie tramwajem, są udostępniane następujące dane:
-- **1)** rodzaj oraz zakres uzyskanego uprawnienia;
-- **2)** data ważności uprawnienia;
-- **3)** data ważności dokumentu;
-- **4)** seria i numer blankietu;
-- **5)** informacja o zatrzymaniu dokumentu, jeżeli dokument pozostaje zatrzymany.
+Minister Transportu i Gospodarki Morskiej cofa świadectwo homologacji w razie stwierdzenia, że pojazd, przedmiot wyposażenia lub część nie odpowiadają warunkom określonym w świadectwie homologacji.
 
-2. Przepis ust. 1 stosuje się odpowiednio do tymczasowego elektronicznego prawa jazdy. Art. 100as. Dane zgromadzone w ewidencji dotyczące praw jazdy lub kart kwalifikacji kierowcy, lub świadectw kwalifikacji zawodowych udostępnia się właściwym organom państw członkowskich Unii Europejskiej przy użyciu elektronicznej sieci. Art. 100at. 1. W ewidencji gromadzi się następujące dane w celu automatycznego wygenerowania na ich podstawie tymczasowego elektronicznego prawa jazdy:
+### 11.
 
-- **1)** imię (imiona) i nazwisko;
-- **2)** datę i miejsce urodzenia;
-- **3)** numer PESEL;
-- **4)** adres zamieszkania;
-- **5)** numer tymczasowego elektronicznego prawa jazdy;
-- **6)** datę wydania tymczasowego elektronicznego prawa jazdy;
-- **7)** datę ważności tymczasowego elektronicznego prawa jazdy;
-- **8)** organ właściwy dla profilu kandydata na kierowcę;
-- **9)** numer identyfikujący tymczasowe elektroniczne prawo jazdy;
-- **10)** kategorie uprawnień wraz z datami ich uzyskania i ważności;
-- **11)** wymagania lub ograniczenia, o których mowa w art. 13 ust. 4 i 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **12)** datę uzyskania pozytywnego wyniku egzaminu państwowego, o którym mowa w art. 49 ust. 1 pkt 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **13)** numer profilu kandydata na kierowcę;
-- **14)** identyfikator osoby;
-- **15)** status tymczasowego elektronicznego prawa jazdy;
-- **16)** datę i przyczynę zatrzymania tymczasowego elektronicznego prawa jazdy oraz nazwę podmiotu rejestrującego zatrzymanie;
-- **17)** datę i przyczynę unieważnienia tymczasowego elektronicznego prawa jazdy.
+Przepisy ust. 1-10 nie dotyczą pojazdu:
 
-2. Dane, o których mowa w ust. 1:
+### 1)
 
-- **1)** pkt 1–5, 8 i 10–14, są przekazywane i aktualizowane za pomocą systemu teleinformatycznego umożliwiającego realizację zadań organów właściwych do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, o którym mowa w art. 16a ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;
-- **2)** pkt 6, 7, 9, 15 i 17, są uzupełniane automatycznie przez system teleinformatyczny obsługujący ewidencję;
-- **3)** pkt 16, są przekazywane przez właściwą jednostkę organizacyjną Policji, Inspekcji Transportu Drogowego lub Żandarmerii Wojskowej.
+zabytkowego,
 
-**Art. 100b.** (uchylony)
+### 2)
 
-**Art. 100c.** (uchylony)
+zbudowanego przy wykorzystaniu nadwozia, podwozia lub ramy konstrukcji własnej, którego markę określa się jako „SAM”,
 
-**Art. 100d.** (uchylony)
+### 3)
 
-**Art. 100e.** (uchylony)
+specjalnego lub używanego do celów specjalnych Sił Zbrojnych, jednostki wojskowej podporządkowanej Ministrowi Spraw Wewnętrznych i Administracji, Policji, Straży Granicznej, Służby Więziennej oraz straży pożarnej.
 
-#### Rozdział 1b Centralna ewidencja posiadaczy kart parkingowych
+### 12.
 
-**Art. 100f.**
+Pojazdy, o których mowa w ust. 11 pkt 1 i 2, podlegają badaniu co do zgodności z warunkami technicznymi, które przeprowadza się na koszt wnioskodawcy.
 
-- **63)** 1. Tworzy się centralną ewidencję posiadaczy kart parkingowych, o których mowa w art. 8, zwaną dalej „ewidencją”.
+### 13.
 
-2. Ewidencję prowadzi minister właściwy do spraw informatyzacji w systemie teleinformatycznym. W rozumieniu niniejszej ustawy minister ten jest administratorem danych i informacji zgromadzonych w ewidencji.
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb wydawania lub cofania świadectw homologacji, zakres i sposób przeprowadzania badań homologacyjnych, kontroli zgodności produkcji lub montażu z warunkami homologacji, wzory dokumentów związanych z homologacją oraz jednostki upoważnione do przeprowadzania badań homologacyjnych, kontroli zgodności produkcji lub montażu z warunkami homologacji.
 
-**Art. 100g.**
+### 14.
 
-- **63)** 1. W ewidencji gromadzi się następujące dane:
-- **1)** numer karty;
-- **2)** datę wydania karty;
-- **3)** datę ważności karty;
-- **4)** oznaczenie zespołu, którego przewodniczący wydał kartę;
-- **5)** imię i nazwisko, numer PESEL osoby niepełnosprawnej, której wydano kartę, a w przypadku osoby nieposiadającej numeru PESEL – serię, numer i nazwę dokumentu potwierdzającego tożsamość oraz nazwę państwa, które wydało ten dokument;
-- **6)** datę zgonu;
-- **7)** nazwę i adres oraz numer identyfikacyjny REGON placówki, której wydano kartę, markę, model oraz numer rejestracyjny pojazdu, którego kierujący jest uprawniony do posługiwania się kartą – w przypadku kart wydanych placówce, o której mowa w art. 8 ust. 3a pkt 3;
-- **8)** datę i przyczynę utraty ważności karty;
-- **9)** status karty;
-- **10)** identyfikator osoby lub podmiotu dokonującej w ewidencji zamieszczenia lub zmiany danych.
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań co do zgodności pojazdów z warunkami technicznymi, o których mowa w ust. 12, wzory dokumentów związanych z tymi badaniami oraz jednostki upoważnione do przeprowadzania tych badań.
 
-2. Dane, o których mowa w ust. 1 pkt 1–5, 7 i 8, oraz informację o zaistnieniu okoliczności, o których mowa w art. 8 ust. 5e pkt 2 i 3, przekazuje do ewidencji powiatowy zespół do spraw orzekania o niepełnosprawności, którego przewodniczący wydał kartę.
+### Art. 69.
 
-3. Dane, o których mowa w ust. 1 pkt 9 i 10, są uzupełniane w sposób automatyczny przez system teleinformatyczny obsługujący ewidencję.
+### 1.
 
-4. Powiatowy zespół do spraw orzekania o niepełnosprawności wprowadza dane do ewidencji w czasie wykonania czynności skutkującej koniecznością przekazania danych do ewidencji za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
+Producent i importer nowych pojazdów są obowiązani wydać wyciąg ze świadectwa homologacji do każdego pojazdu, na którego typ wydano świadectwo homologacji lub odpis decyzji zwalniającej pojazd z homologacji.
 
-5. Dane gromadzone w ewidencji są do niej przekazywane z rejestrów PESEL, REGON, TERYT, centralnej ewidencji pojazdów i centralnej ewidencji kierowców, o ile są w tych rejestrach gromadzone.
+### 2.
 
-6. Minister właściwy do spraw informatyzacji może określić, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy ewidencją a rejestrami PESEL, REGON i TERYT, centralną ewidencją pojazdów i centralną ewidencją kierowców, uwzględniając potrzebę zapewnienia płynności przepływu danych pomiędzy ewidencją a innymi rejestrami i ewidencjami, poprawności i aktualności gromadzonych danych oraz konieczność zapewnienia ochrony danych osobowych.
+Wyciąg ze świadectwa homologacji lub odpis decyzji zwalniającej pojazd z homologacji przekazuje się właścicielowi pojazdu.
 
-7. (uchylony)
+### Art. 70.
 
-8. Dane, o których mowa w ust. 1, usuwa się z ewidencji po upływie 3 lat od dnia utraty ważności karty.
+Minister Transportu i Gospodarki Morskiej może zwolnić producenta lub importera określonego typu pojazdu, przedmiotu wyposażenia lub części z obowiązku, o którym mowa w art. 68 ust. 1.
 
-**Art. 100h.**
+### Rozdział 2 Warunki dopuszczenia pojazdów do ruchu
 
-- **63)** 1. W celu wprowadzenia danych do ewidencji, powiatowym zespołom do spraw orzekania o niepełnosprawności zapewnia się dostęp do danych zgromadzonych w ewidencji.
+### Art. 71.
 
-2. Wprowadzenie danych do ewidencji następuje przez pobranie danych zgromadzonych w ewidencji, ich weryfikację, w szczególności w oparciu o posiadane dokumenty lub dane, oraz wpisanie do ewidencji nowych danych. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
+### 1.
 
-2a. W przypadku wprowadzenia do ewidencji danych dotyczących nowego podmiotu, dane te są pobierane z rejestru PESEL, REGON, centralnej ewidencji pojazdów oraz centralnej ewidencji kierowców, o ile są w nich gromadzone. W przypadku rozbieżności między danymi a danymi zawartymi w rejestrze PESEL lub REGON, rozstrzygające są dane zgromadzone w tych rejestrach.
+Dokumentem stwierdzającym dopuszczenie do ruchu pojazdu samochodowego, ciągnika rolniczego, motoroweru lub przyczepy jest dowód rejestracyjny albo pozwolenie czasowe. Przepis ten nie dotyczy pojazdów, o których mowa w ust. 3.
 
-3. System teleinformatyczny obsługujący ewidencję generuje komunikat o:
+### 2.
 
-- **1)** wprowadzeniu danych do ewidencji – w przypadku poprawnego wprowadzenia nowych danych do ewidencji, który jest równoznaczny z wypełnieniem obowiązku wprowadzenia danych do ewidencji;
-- **2)** niewprowadzeniu danych do ewidencji – w przypadku gdy nowe dane nie zostały wprowadzone do ewidencji i konieczne jest ponowne ich wprowadzenie w celu wypełnienia obowiązku wprowadzenia danych do ewidencji.
+Pojazdy określone w ust. 1 są dopuszczone do ruchu, jeżeli odpowiadają warunkom określonym w art. 66 i są zarejestrowane.
 
-4. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+### 3.
 
-- **1)** zakres danych, do których zapewnia się dostęp powiatowym zespołom do spraw orzekania o niepełnosprawności, mając na względzie prawidłowość wykonywania przez nie zadań wynikających z niniejszej ustawy;
-- **2)** wymagania techniczne i jakościowe w zakresie danych wprowadzanych do ewidencji oraz sposób ich wprowadzania, mając na względzie zapewnienie wysokiej jakości przekazywanych danych do ewidencji i jej referencyjny charakter.
+Pojazd nie wymieniony w ust. 1, przyczepa motocyklowa oraz przyczepa specjalna przeznaczona do ciągnięcia przez ciągnik rolniczy lub pojazd wolnobieżny jest dopuszczony do ruchu, jeżeli odpowiada warunkom określonym w art. 66.
 
-**Art. 100i.**
+### 4.
 
-- **64)** 1. Podmiot, który stwierdzi niezgodność danych zgromadzonych w ewidencji, wyjaśnia tę niezgodność w zakresie danych, do których przekazania jest obowiązany na podstawie ustawy, i wprowadza dane do ewidencji na zasadach określonych w art. 100h.
+Zespół pojazdów składający się z pojazdu samochodowego o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t i przyczepy albo autobusu i przyczepy może być dopuszczony do ruchu po uzyskaniu odpowiedniej adnotacji w dowodzie rejestracyjnym pojazdu silnikowego, dokonanej na podstawie przeprowadzonego badania technicznego. Przepis ten nie dotyczy motocykla.
 
-2. W przypadku gdy nie jest możliwe wyjaśnienie niezgodności, podmiot, o którym mowa w ust. 1, niezwłocznie powiadamia o niezgodności administratora danych i informacji zgromadzonych w ewidencji, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot.
+### 5.
 
-3. W celu wyjaśnienia niezgodności, administrator danych i informacji zgromadzonych w ewidencji niezwłocznie powiadamia, za pomocą systemu teleinformatycznego obsługującego ewidencję, o niezgodności podmiot, który wprowadził dane, których niezgodność dotyczy, w przypadku:
+Pojazd zarejestrowany za granicą dopuszcza się do ruchu, jeżeli odpowiada wymaganym warunkom technicznym i jest zaopatrzony w tablice rejestracyjne z numerem rejestracyjnym składającym się z liter alfabetu łacińskiego i cyfr arabskich oraz w znak wyróżniający państwo, w którym dokonano rejestracji, a kierujący pojazdem ma przy sobie dokument stwierdzający dokonanie rejestracji. Pojazd taki, po dokonaniu ostatecznej odprawy celnej przywozowej, dopuszcza się do ruchu na okres nie przekraczający 30 dni.
 
-- **1)** stwierdzenia niezgodności przez administratora danych i informacji zgromadzonych w ewidencji;
-- **2)** o którym mowa w ust. 2.
+### Art. 72.
 
-4. Podmiot, o którym mowa w ust. 1 i 3, wyjaśnia tę niezgodność, w szczególności w oparciu o posiadane dokumenty lub dane.
+### 1.
 
-5. Podmiot, o którym mowa w ust. 1 i 3, niezwłocznie informuje, za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratora danych i informacji zgromadzonych w ewidencji o wyjaśnieniu tej niezgodności, w przypadku:
+Rejestracji dokonuje się na podstawie:
 
-- **1)** wprowadzenia poprawnych danych do ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję lub za pomocą systemu teleinformatycznego obsługującego zadania realizowane przez podmiot wprowadzający dane;
-- **2)** stwierdzenia, że wprowadzone do ewidencji dane są poprawne;
-- **3)** stwierdzenia braku możliwości usunięcia niezgodności, z podaniem uzasadnienia.
+### 1)
 
-6. Wprowadzenie do ewidencji danych, w stosunku do których stwierdzono niezgodność, o której mowa w ust. 2, wymaga uprzedniego wyjaśnienia tej niezgodności.
+dowodu własności pojazdu,
 
-7. Administrator danych i informacji zgromadzonych w ewidencji umożliwi wprowadzenie do ewidencji danych bez uprzedniego wyjaśnienia niezgodności, jeżeli jest to niezbędne do realizacji zadań wynikających z przepisów odrębnych realizowanych przez podmioty obowiązane do wprowadzania danych do ewidencji w terminach wynikających z przepisów ustawowych.
+### 2)
 
-8. Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia, sposób i tryb wyjaśniania niezgodności danych zgromadzonych w centralnej ewidencji posiadaczy kart parkingowych przez podmioty, które je przekazują, mając na uwadze konieczność zapewnienia kompletności i poprawności danych w ewidencji, zapewnienie terminowej obsługi procesów administracyjnych powiązanych z ewidencją i ich bezpieczeństwo.
+karty pojazdu, jeżeli była wydana,
 
-**Art. 100j.**
+### 3)
 
-- **63)** W przypadku braku możliwości wprowadzenia danych do ewidencji, spowodowanego przyczynami niezależnymi od podmiotu, wprowadzenia danych dokonuje się niezwłocznie, nie później niż w terminie 2 dni roboczych od dnia, w którym powstał obowiązek ich wprowadzenia.
+wyciągu ze świadectwa homologacji albo odpisu decyzji zwalniającej pojazd z homologacji lub zaświadczenia o pozytywnym wyniku badania technicznego pojazdu, jeżeli są wymagane,
 
-**Art. 100k.**
+### 4)
 
-- **63)** 1. Dane zgromadzone w ewidencji udostępnia się, o ile jest to niezbędne do realizacji ich ustawowych zadań, następującym podmiotom:
-- **1)** Policji;
-- **2)** Inspekcji Transportu Drogowego;
-- **3)** Żandarmerii Wojskowej;
-- **4)** Straży Granicznej;
-- **5)** starostom;
-- **6)** strażom gminnym (miejskim);
-- **7)** powiatowym zespołom do spraw orzekania o niepełnosprawności.
+dowodu rejestracyjnego, jeżeli pojazd był zarejestrowany,
 
-2. Dane zgromadzone w ewidencji udostępnia się na umotywowany wniosek zainteresowanego podmiotu, złożony w postaci papierowej lub w postaci elektronicznej, uwierzytelniony przy użyciu mechanizmów określonych w art. 20a ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+### 5)
 
-3. Minister właściwy do spraw informatyzacji może wyrazić zgodę, w drodze decyzji, na udostępnienie danych zgromadzonych w ewidencji podmiotom, o których mowa w ust. 1, albo ich jednostkom organizacyjnym, za pomocą urządzeń teletransmisji danych, bez konieczności składania pisemnego wniosku, jeżeli spełniają łącznie następujące warunki:
+dowodu odprawy celnej przywozowej, jeżeli pojazd został sprowadzony z zagranicy i jest rejestrowany po raz pierwszy.
 
-- **1)** posiadają urządzenia umożliwiające odnotowanie w systemie, kto, kiedy, w jakim celu oraz jakie dane uzyskał;
-- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie z celem ich uzyskania;
-- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
+### 2.
 
-**Art. 100l.**
+Przepis ust. 1 pkt 3 nie dotyczy pojazdu zabytkowego lub pojazdu marki „SAM”. Rejestracja tych pojazdów dokonywana jest na podstawie zaświadczenia potwierdzającego pozytywny wynik badania, o którym mowa w art. 68 ust. 12.
 
-- **63)** Dane zgromadzone w ewidencji udostępnia się także na wniosek osoby, której one dotyczą. Dane te mogą być udostępniane z wykorzystaniem urządzeń teletransmisji danych.
+### 3.
 
-**Art. 100m.**
+Minister Transportu i Gospodarki Morskiej może określić, w drodze rozporządzenia, dodatkowe dokumenty, na podstawie których rejestruje się pojazd, lub może zwolnić z obowiązku przedstawienia niektórych dokumentów określonych w ust. 1.
 
-- **63)** Udostępnianie danych, o którym mowa w art. 100k i art. 100l, jest nieodpłatne.
+### Art. 73.
 
-#### Rozdział 2 (uchylony)
+### 1.
 
-**Art. 114.**
+Rejestracji pojazdu dokonuje na wniosek właściciela kierownik rejonowego urzędu rządowej administracji ogólnej właściwy ze względu na miejsce jego zamieszkania (siedzibę), wydając dowód rejestracyjny oraz tablice (tablicę) rejestracyjne, z zastrzeżeniem ust. 2-5.
 
-1. (uchylony)
+### 2.
 
-2. (uchylony)
+Rejestracji pojazdu, którego właścicielem jest przedsiębiorstwo wielozakładowe lub inny podmiot, w skład którego wchodzą wydzielone jednostki organizacyjne, może dokonać kierownik rejonowego urzędu rządowej administracji ogólnej właściwy ze względu na siedzibę zakładu lub jednostki, na wniosek kierownika zakładu lub wydzielonej jednostki organizacyjnej upoważnionego przez właściciela.
 
-3. (uchylony)
+### 3.
 
-4. (uchylony)
+Rejestracji pojazdów Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji, Urzędu Ochrony Państwa i Straży Granicznej dokonują właściwe organy tych jednostek. Organy te wydają dowody rejestracyjne i tablice (tablicę) rejestracyjne, chyba że tablice takie nie są dla danego pojazdu wymagane, a numer rejestracyjny umieszcza się bezpośrednio na pojeździe.
 
-#### Rozdział 2a (uchylony)
+### 4.
 
-#### Rozdział 2b (uchylony)
+Rejestracji pojazdu należącego do przedstawicielstwa dyplomatycznego, urzędu konsularnego i misji specjalnej państw obcych lub organizacji międzynarodowej, a także ich personelu korzystającego z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, dokonuje Wojewoda Warszawski na wniosek Ministra Spraw Zagranicznych.
 
-#### Rozdział 3 Wojewódzki ośrodek ruchu drogowego
+### 5.
 
-**Art. 116.**
+W razie powierzenia pojazdu przez zagraniczną osobę fizyczną lub prawną podmiotowi polskiemu, pojazd ten jest rejestrowany przez określony w ust. 1 organ właściwy ze względu na miejsce zamieszkania (siedzibę) podmiotu polskiego.
 
-1. Sejmik województwa tworzy, po uzgodnieniu z ministrem właściwym do spraw transportu, wojewódzkie ośrodki ruchu drogowego na obszarze województwa.
+### Art. 74.
 
-2. Ośrodek jest samorządową wojewódzką osobą prawną.
+### 1.
 
-3. Zarząd województwa sprawuje nadzór nad ośrodkiem.
+Czasowej rejestracji pojazdu dokonuje, w przypadkach określonych w ust. 2, kierownik rejonowego urzędu rządowej administracji ogólnej właściwy ze względu na miejsce zamieszkania (siedzibę) właściciela pojazdu, wydając pozwolenie czasowe i tymczasowe tablice (tablicę) rejestracyjne.
 
-**Art. 117.**
+### 2.
 
-1. Do zadań ośrodka należy:
+Czasowej rejestracji dokonuje się:
 
-- **1)** współpraca z wojewódzką radą bezpieczeństwa ruchu drogowego;
-- **2)** współpraca ze starostami przy sprawowaniu nadzoru nad szkoleniem;
-- **3)** organizowanie egzaminów państwowych sprawdzających kwalifikacje osób ubiegających się o uprawnienia do kierowania pojazdami oraz kierujących pojazdami;
-- **3a)** organizowanie egzaminów sprawdzających kwalifikacje osób ubiegających się o uprawnienia do kierowania pojazdami w zakresie określonym umową międzynarodową, której stroną jest Rzeczpospolita Polska;
-- **3b)** organizowanie testów kwalifikacyjnych;
-- **4)** (uchylony) 4a) prowadzenie szkoleń okresowych;
-- **5)** prowadzenie 3-dniowych warsztatów doskonalenia zawodowego dla egzaminatorów;
-- **6)** prowadzenie kursów:
-    - **a)** doskonalących dla nauczycieli prowadzących zajęcia szkolne dla uczniów ubiegających się o kartę rowerową,
-    - **b)** dokształcających w zakresie bezpieczeństwa ruchu drogowego,
-    - **c)** reedukacyjnych w zakresie bezpieczeństwa ruchu drogowego,
-    - **d)** reedukacyjnych w zakresie problematyki przeciwalkoholowej i przeciwdziałania narkomanii;
+### 1)
 
-- **7)** organizowanie zajęć dla uczniów ubiegających się o kartę rowerową;
-- **8)** przekazywanie marszałkowi województwa oraz starostom informacji w zakresie statystyki zdawalności dla poszczególnych ośrodków szkolenia i instruktorów;
-- **9)** inna niż wymieniona w pkt 4a i 5–8 działalność oświatowa w zakresie ruchu i transportu drogowego.
+z urzędu - w razie konieczności sprawdzenia lub uzupełnienia dokumentów wymaganych do rejestracji pojazdu,
 
-2. Ośrodek może wykonywać inne zadania z zakresu bezpieczeństwa ruchu drogowego.
+### 2)
 
-3. Ośrodek może wykonywać działalność gospodarczą, której wyniki będą przeznaczane na działalność, o której mowa w ust. 1 i 2.
+na wniosek właściciela pojazdu - w celu umożliwienia:
 
-**Art. 118.**
+### a)
 
-1. Działalnością ośrodka kieruje dyrektor.
+wywozu pojazdu za granicę,
 
-2. Dyrektor jest powoływany i odwoływany przez zarząd województwa.
+### b)
 
-3. Zarząd województwa ustala wynagrodzenie dyrektora.
+przejazdu z miejsca zakupu lub odbioru pojazdu na terytorium Rzeczypospolitej Polskiej,
 
-**Art. 119.**
+### c)
 
-1. Ośrodek prowadzi samodzielną gospodarkę finansową na zasadach określonych w niniejszej ustawie.
+przejazdu związanego z koniecznością dokonania badania homologacyjnego, badania technicznego lub naprawy.
 
-2. Przychodami ośrodka są:
+### 3.
 
-- **1)** wpływy z wykonywania zadań, o których mowa w art. 117 ust. 1;
-- **2)** wpływy z wykonywania innych zadań z zakresu bezpieczeństwa ruchu drogowego;
-- **3)** wpływy z działalności, o której mowa w art. 117 ust. 3.
+Czasowej rejestracji dokonuje się na okres nie przekraczający 30 dni. Osoba ubiegająca się o rejestrację pojazdu może ubiegać się o jednorazowe przedłużenie terminu czasowej rejestracji pojazdu o 14 dni w celu wyjaśnienia spraw związanych z rejestracją pojazdu.
 
-2a. Przychodem ośrodka może być dotacja podmiotowa albo celowa, udzielana z budżetu województwa, na finansowanie lub dofinansowanie kosztów realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą.
+### 4.
 
-2b. Dotacje, o których mowa w ust. 2a, dla ośrodka nie mogą przekroczyć 50 % kosztów jego działalności na realizację zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą.
+Po upływie terminu czasowej rejestracji pozwolenie czasowe i tymczasowe tablice rejestracyjne zwraca się do organu, który je wydał, z wyjątkiem przypadku, o którym mowa w ust. 2 pkt 2 lit. a).
 
-2c. Zasady udzielania dotacji, o których mowa w ust. 2a, tryb postępowania w sprawie ich udzielania i sposób ich rozliczania określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, mając na względzie konieczność zapewnienia realizacji zadań, o których mowa w art. 117 ust. 1 i 2, niebędących działalnością gospodarczą oraz mając na względzie dostępność środków na ten cel w budżecie województwa.
+### Art. 75.
 
-2d. Udzielenie dotacji, o których mowa w ust. 2a, następuje na podstawie umowy zawartej przez marszałka województwa z dyrektorem ośrodka.
+### 1.
 
-3. Ośrodek ponosi koszty z tytułu:
+Jeżeli używanie pojazdu uzależnione jest od szczególnych warunków określonych przepisami, kierownik rejonowego urzędu rządowej administracji ogólnej wpisuje w dowodzie rejestracyjnym lub pozwoleniu czasowym odpowiednie zastrzeżenie.
 
-- **1)** bieżącego utrzymania ośrodka;
-- **2)** wykonywania zadań, o których mowa w art. 117 ust. 1;
-- **3)** inwestycji związanych z działalnością ośrodka, o której mowa w art. 117;
-- **4)** działań na rzecz poprawy bezpieczeństwa ruchu drogowego na obszarze województwa, w szczególności na popularyzację zasad ruchu drogowego i podnoszenie kultury jazdy kierowców, na które ośrodek przeznacza pozostałe wolne środki, niewykorzystane z tytułów, o których mowa w pkt 1–3.
+### 2.
 
-4. (uchylony)
+Dowód rejestracyjny, pozwolenie czasowe i tablice (tablica) rejestracyjne wydawane są za opłatą. Opłatę pobiera organ dokonujący rejestracji.
 
-5. Ośrodek może zaciągać kredyty, za zgodą zarządu województwa, na zasadach ogólnych.
+### 3.
 
-6. Składniki majątkowe nabyte w ramach pierwszego wyposażenia ośrodka tworzą jego fundusz założycielski.
+Zabrania się rejestracji pojazdu złożonego poza wytwórnią, z wyjątkiem pojazdu marki „SAM” oraz pojazdu zabytkowego.
 
-7. Ośrodek prowadzi odrębnie ewidencję przychodów i kosztów związanych z prowadzeniem szkolenia lub egzaminowaniem jako działalnością oświatową i odrębnie dla każdej innej działalności.
+### Art. 76.
 
-**Art. 120.**
+### 1.
 
-1. Sejmik województwa nadaje ośrodkowi statut.
+Minister Transportu i Gospodarki Morskiej:
 
-2. Statut ośrodka określa w szczególności jego organizację i warunki tworzenia oddziałów terenowych.
+### 1)
 
-**Art. 121.** Minister właściwy do spraw transportu określi, w drodze rozporządzenia:
+w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb rejestracji pojazdów oraz wzory dowodu rejestracyjnego, pozwolenia czasowego, tablic rejestracyjnych oraz innych tablic i oznaczeń, w które zaopatruje się pojazd, a także ich opis,
 
-**Art. 121a.**
+### 2)
 
-1. Warunki wynagradzania egzaminatorów określa sejmik województwa, w drodze uchwały będącej aktem prawa miejscowego, kierując się charakterem pracy wykonywanej przez egzaminatorów i potrzebą zapewnienia odpowiedniego poziomu wykonywania przez nich zadań.
+określi, w drodze rozporządzenia, wysokość opłat za wydanie dowodu rejestracyjnego, pozwolenia czasowego i tablic (tablicy) rejestracyjnych,
 
-2. Warunki wynagradzania egzaminatorów określone każdorazowo w uchwale sejmiku województwa, o której mowa w ust. 1, nie mogą być mniej korzystne niż warunki wynagradzania egzaminatorów określone w poprzedniej uchwale.
+### 3)
 
-#### Rozdział 4 (uchylony)
+określi, w drodze zarządzenia, szczegółowe czynności organów w sprawach związanych z dopuszczeniem pojazdu do ruchu oraz wzory dokumentów w tych sprawach.
 
-### DZIAŁ V Kontrola ruchu drogowego
+### 2.
 
-#### Rozdział 1 Uprawnienia Policji i innych organów
+Minister Obrony Narodowej w porozumieniu z Ministrami Transportu i Gospodarki Morskiej oraz Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów Sił Zbrojnych, a także jednostki organizacyjne właściwe w tych sprawach.
 
-**Art. 129.**
+### 3.
 
-1. Czuwanie nad bezpieczeństwem i porządkiem ruchu na drogach, kierowanie ruchem i jego kontrolowanie należą do zadań Policji.
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrami Transportu i Gospodarki Morskiej, Obrony Narodowej oraz Szefem Urzędu Ochrony Państwa określi, w drodze rozporządzenia, warunki i tryb rejestracji oraz wzory dowodu rejestracyjnego i tablic rejestracyjnych pojazdów jednostek wojskowych podległych Ministrowi Spraw Wewnętrznych i Administracji, Policji, Urzędu Ochrony Państwa i Straży Granicznej, a także jednostki organizacyjne właściwe w tych sprawach.
 
-2. Policjant, w związku z wykonywaniem czynności określonych w ust. 1, jest uprawniony do:
+### 4.
 
-- **1)** legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch;
-- **1a)** ustalenia tożsamości kierującego pojazdem na podstawie danych z Rejestru Dowodów Osobistych;
-- **2)** sprawdzania wymaganych dokumentów, o których mowa w art. 38, oraz zezwolenia, o którym mowa w art. 106 ust. 1 pkt 5 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami; 2 ) weryfikacji danych o pojeździe, w tym danych o dokumentach pojazdu w centralnej ewidencji pojazdów; 2 ) weryfikacji danych o kierującym pojazdem w centralnej ewidencji kierowców; 2 ) weryfikacji danych o kierującym pojazdem, którego prawo jazdy lub karta kwalifikacji kierowcy zostały wydane przez inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej, Konfederację Szwajcarską, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym lub Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej, w drodze teletransmisji przy użyciu elektronicznej sieci, w zakresie danych aktualnie dostępnych w elektronicznej sieci;
-- **2a)** (uchylony) 2b) sprawdzania zezwolenia, o którym mowa w art. 64 ust. 1 pkt 1;
-- **3)** żądania poddania się przez kierującego pojazdem lub przez inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu; <3a) żądania poddania się przez pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu;>
-- **4)** sprawdzania stanu technicznego, wyposażenia, ładunku, wymiarów, masy lub nacisku osi pojazdu znajdującego się na drodze;
-- **4a)** odczytu w czasie kontroli wskazania drogomierza pojazdu, drogomierza pojazdu holowanego oraz drogomierza pojazdu przewożonego wraz z jednostką miary;
-- **5)** sprawdzania zapisów tachografu;
-- **6)** zatrzymania, w przypadkach przewidzianych w ustawie, dokumentów stwierdzających uprawnienie do kierowania pojazdem lub jego używania oraz karty kierowcy w przypadkach przewidzianych w: UE L 60 z 28.02.2014, str. 1),
-    - **a)** art. 26 ust. 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 165/2014 z dnia 4 lutego 2014 r. w sprawie tachografów stosowanych w transporcie drogowym i uchylającego rozporządzenie Rady (EWG) nr 3821/85 w sprawie urządzeń rejestrujących stosowanych w transporcie drogowym oraz zmieniającego rozporządzenie (WE) nr 561/2006 Parlamentu Europejskiego i Rady w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego (Dz. Urz.
-    - **b)** art. 11 ust. 4 lit. c załącznika do Umowy europejskiej dotyczącej pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzonej w Genewie dnia 1 lipca 1970 r. (Dz. U. z 2014 r. poz. 409);
+Ministrowie Spraw Wewnętrznych i Administracji oraz Obrony Narodowej w porozumieniu z Ministrem Transportu i Gospodarki Morskiej oraz Szefem Urzędu Ochrony Państwa mogą określić, w drodze zarządzenia, odrębny tryb rejestracji niektórych pojazdów resortu spraw wewnętrznych i administracji, obrony narodowej oraz Urzędu Ochrony Państwa.
 
-- **7)** wydawania poleceń:
-    - **a)** osobie, która spowodowała przeszkodę utrudniającą ruch drogowy lub zagrażającą jego bezpieczeństwu, albo osobie odpowiedzialnej za utrzymanie drogi,
-    - **b)** kontrolowanemu uczestnikowi ruchu – co do sposobu jego zachowania;
+### Art. 77.
 
-- **8)** uniemożliwienia:
-    - **a)** kierowania pojazdem lub poruszania się przy użyciu urządzenia wspomagającego ruch osobie znajdującej się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
-    - **b)** korzystania z pojazdu, którego stan techniczny, ładunek, masa lub nacisk osi zagrażają bezpieczeństwu lub porządkowi ruchu, powodują uszkodzenie drogi albo naruszają wymagania ochrony środowiska,
-    - **c)** korzystania z pojazdu zarejestrowanego w kraju niebędącym państwem członkowskim, jeżeli kierujący nim nie okazał dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie,
-    - **d)** kierowania pojazdem przez osobę nieposiadającą wymaganych dokumentów uprawniających do kierowania lub używania pojazdu;
+### 1.
 
-- **9)** używania przyrządów kontrolno-pomiarowych, a w szczególności do badania pojazdu, określania jego masy, nacisku osi lub prędkości, stwierdzania naruszenia wymagań ochrony środowiska oraz do stwierdzania stanu trzeźwości kierującego;
-- **9a)** używania urządzeń rejestrujących;
-- **10)** usuwania lub przemieszczania pojazdu w przypadkach, o których mowa w art. 130a ust. 1–3;
-- **11)** kontroli przewozu drogowego towarów niebezpiecznych oraz wymagań związanych z tym przewozem;
-- **11a)** kontroli transportu odpadów w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach oraz wymagań związanych z tym transportem;
-- **11b)** zrywania plomb celem fizycznej kontroli przewożonych odpadów;
-- **12)** używania urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych, służących do wydawania wiążących poleceń uczestnikowi ruchu; [13) występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem;] <13) występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem lub pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami;> 13a) występowania do starosty z wnioskiem o skierowanie kierowcy lub osoby posiadającej pozwolenie na kierowanie tramwajem na egzamin sprawdzający kwalifikacje, jeżeli istnieją uzasadnione i poważne zastrzeżenia co do kwalifikacji tej osoby;
-- **14)** pilotowania pojazdów, z wyłączeniem pojazdów nienormatywnych pilotowanych zgodnie z art. 64 ust. 1 pkt 3.
+Producent lub importer nowych pojazdów jest obowiązany wydać kartę pojazdu dla każdego pojazdu samochodowego wprowadzonego do obrotu handlowego na terytorium Rzeczypospolitej Polskiej.
 
-3. Przepisów ust. 2 pkt 3, 4 i 6 nie stosuje się do szefów i cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, oraz do innych osób korzystających z tych przywilejów i immunitetów.
+### 2.
 
-4. Kontrola ruchu drogowego w stosunku do kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej oraz w stosunku do żołnierzy pełniących czynną służbę wojskową kierujących innymi pojazdami, pilotowanie pojazdów, a także kierowanie ruchem drogowym w związku z pilotowaniem pojazdów wojskowych należy do Żandarmerii Wojskowej i wojskowych organów porządkowych. W tym zakresie Żandarmerii Wojskowej i wojskowym organom porządkowym przysługują uprawnienia policjantów określone w ust. 2.
+Karta pojazdu jest przekazywana właścicielowi pojazdu.
 
-4a. Kontrolę ruchu drogowego mogą przeprowadzać także funkcjonariusze Straży Granicznej lub funkcjonariusze Służby Celno-Skarbowej, którym przysługują uprawnienia, o których mowa w ust. 2 pkt 1–5 i 7–12 oraz w art. 130a ust. 4 pkt 1. Funkcjonariuszom Straży Granicznej i funkcjonariuszom Służby Celno-Skarbowej przysługuje także uprawnienie, o którym mowa w ust. 2 pkt 6, w zakresie dotyczącym dokumentów stwierdzających uprawnienie do używania pojazdu. 4aa. Kontrolę ruchu drogowego mogą przeprowadzać także inspektorzy Inspekcji Ochrony Środowiska, którym przysługują uprawnienia, o których mowa w ust. 2 pkt 1, 2–2 , pkt 7 lit. b, pkt 8 lit. b i pkt 11a.
+### 3.
 
-4b. Dodatkowo funkcjonariusze odmawiają prawa wjazdu na terytorium Rzeczypospolitej Polskiej pojazdu, jeżeli:
+Kartę pojazdu dla pojazdu sprowadzonego z zagranicy i tam zarejestrowanego wydaje właściwy w sprawach rejestracji kierownik rejonowego urzędu rządowej administracji ogólnej przy pierwszej rejestracji pojazdu na terytorium Rzeczypospolitej Polskiej.
 
-- **1)** pojazd kierowany jest przez osobę znajdującą się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu, jeżeli nie ma możliwości zabezpieczenia pojazdu w inny sposób;
-- **2)** pojazd kierowany jest przez osobę nieposiadającą przy sobie wymaganych dokumentów uprawniających do kierowania pojazdem lub używania pojazdu, dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia;
-- **3)** stan techniczny pojazdu zagraża bezpieczeństwu ruchu drogowego, powoduje uszkodzenie drogi przez pojazd albo narusza wymagania ochrony środowiska;
-- **4)** kierujący pojazdem nienormatywnym nie posiada wymaganego zezwolenia;
-- **5)** stwierdzono naruszenie przepisów o międzynarodowym przemieszczaniu odpadów.
+### 4.
 
-5. (uchylony)
+Minister Transportu i Gospodarki Morskiej:
 
-**Art. 129a.**
+### 1)
 
-1. Kontrola ruchu drogowego w odniesieniu do kierującego pojazdem:
+w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb wydawania kart pojazdów oraz wzór karty pojazdu, a także jej opis,
 
-- **1)** który wykonuje przewóz drogowy w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym,
-- **2)** w zakresie badania w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu,
-- **3)** który naruszył przepisy ruchu drogowego, w przypadku zarejestrowania tego naruszenia przy użyciu:
-    - **a)** przyrządów kontrolno-pomiarowych,
-    - **b)** przenośnych albo zainstalowanych w pojeździe albo na statku powietrznym urządzeń rejestrujących,
+### 2)
 
-- **4)** który rażąco naruszył przepisy ruchu drogowego lub spowodował zagrożenie jego bezpieczeństwa,
-- **5)** który wykonuje przewóz drogowy w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych,
-- **6)** który wykonuje transport odpadów w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach – należy również do Inspekcji Transportu Drogowego.
+określi, w drodze rozporządzenia, wysokość opłat za kartę pojazdu,
 
-2. W ramach wykonywania kontroli ruchu drogowego w zakresie, o którym mowa w ust. 1, inspektorom Inspekcji Transportu Drogowego przysługują uprawnienia określone w art. 129 ust. 1 i 2, w tym również wobec właściciela lub posiadacza pojazdu.
+### 3)
 
-**Art. 129b.**
+określi, w drodze rozporządzenia, dokumenty stanowiące podstawę wpisu danych do karty pojazdu oraz czynności jednostek zajmujących się dystrybucją, przechowywaniem i wydawaniem kart pojazdów.
 
-1. Kontrola ruchu drogowego w gminach lub miastach, które utworzyły straż gminną (miejską) może być wykonywana przez strażników gminnych (miejskich).
+### Art. 78.
 
-2. Strażnicy gminni (miejscy) są uprawnieni do wykonywania kontroli ruchu drogowego wobec:
+### 1.
 
-- **1)** kierującego pojazdem niestosującego się do zakazu ruchu w obu kierunkach, określonego odpowiednim znakiem drogowym;
-- **2)** uczestnika ruchu naruszającego przepisy o: 875, 1394, 1506 i 1681 oraz z 2024 r. poz. 834),
-    - **a)** zatrzymaniu lub postoju pojazdów,
-    - **b)** ruchu motorowerów, rowerów, wózków rowerowych, hulajnóg elektrycznych, urządzeń transportu osobistego, pojazdów zaprzęgowych oraz o jeździe wierzchem lub pędzeniu zwierząt,
-    - **c)** ruchu pieszych oraz osób poruszających się przy użyciu urządzeń wspomagających ruch,
-    - **d)** ograniczeniu ruchu w strefie czystego transportu, określonej w uchwale rady gminy, wydanej na podstawie art. 40 ust. 1 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych (Dz. U. z 2023 r. poz.
-    - **e)** nacisku osi.
+W razie przeniesienia na inną osobę własności pojazdu zarejestrowanego, dotychczasowy właściciel przekazuje nowemu właścicielowi dowód rejestracyjny i kartę pojazdu, jeżeli była wydana.
 
-3. W ramach wykonywania kontroli ruchu drogowego w zakresie, o którym mowa w ust. 2, strażnicy gminni (miejscy) są upoważnieni do:
+### 2.
 
-- **1)** zatrzymania pojazdu, osoby poruszającej się przy użyciu urządzenia wspomagającego ruch lub jadącego wierzchem;
-- **2)** sprawdzania dokumentów, o których mowa w art. 38, oraz weryfikacji danych o:
-    - **a)** pojeździe, w tym danych o dokumentach pojazdu, w centralnej ewidencji pojazdów,
-    - **b)** kierującym pojazdem w centralnej ewidencji kierowców;
+Właściciel pojazdu zarejestrowanego jest obowiązany zawiadomić w terminie nie przekraczającym 30 dni kierownika rejonowego urzędu rządowej administracji ogólnej o:
 
-- **3)** (uchylony)
-- **4)** legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi, używania pojazdu lub urządzenia wspomagającego ruch;
-- **5)** wydawania poleceń:
-    - **a)** osobie, która spowodowała przeszkodę utrudniającą ruch drogowy lub zagrażającą jego bezpieczeństwu,
-    - **b)** kontrolowanemu uczestnikowi ruchu – co do sposobu jego zachowania;
+### 1)
 
-- **6)** sprawdzenia wykonania obowiązków określonych w art. 78 ust. 2;
-- **7)** żądania od właściciela lub posiadacza pojazdu wskazania komu powierzył pojazd do kierowania lub używania w oznaczonym czasie;
-- **8)** ustalenia tożsamości kierującego pojazdem na podstawie danych z Rejestru Dowodów Osobistych;
-- **9)** sprawdzenia nacisku osi pojazdu znajdującego się na drodze;
-- **10)** używania przyrządów kontrolnych lub pomiarowych służących do określania nacisku osi pojazdu;
-- **11)** uniemożliwiania jazdy pojazdem przekraczającym dopuszczalny nacisk osi.
+nabyciu lub zbyciu pojazdu,
 
-3a. W celu dokonania sprawdzenia nacisku osi pojazdu strażnicy gminni (miejscy), mający prawo jazdy odpowiedniej kategorii, mogą kierować tym pojazdem.
+### 2)
 
-4. (uchylony)
+zmianie stanu faktycznego wymagającej zmiany danych zamieszczonych w dowodzie rejestracyjnym.
 
-**Art. 129c.**
+### 3.
 
-1. Kontrola ruchu drogowego na terenach lasów lub parków narodowych może być wykonywana przez strażników leśnych lub funkcjonariuszy Straży Parku.
+Zdarzenia, o których mowa w ust. 2, są dokumentowane w karcie pojazdu; odpowiednich wpisów dokonuje kierownik rejonowego urzędu rządowej administracji ogólnej.
 
-2. Strażnicy leśni i funkcjonariusze Straży Parku są uprawnieni do kontroli kierujących pojazdami niestosujących się do przepisów lub znaków drogowych obowiązujących na terenach lasów lub parków narodowych, dotyczących zakazu wjazdu, zatrzymywania się lub postoju pojazdów.
+### 4.
 
-3. W ramach wykonywania kontroli ruchu drogowego w zakresie, o którym mowa w ust. 2, strażnicy leśni i funkcjonariusze Straży Parku są upoważnieni do:
+Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec.
 
-- **1)** zatrzymania pojazdu;
-- **2)** legitymowania uczestnika ruchu drogowego;
-- **2a)** weryfikacji danych o pojeździe, w tym danych o dokumentach pojazdu, w centralnej ewidencji pojazdów;
-- **3)** wydawania poleceń, co do sposobu zachowania się na drodze.
+### Art. 79.
 
-**Art. 129d.**
+### 1.
 
-1. Osoby działające w imieniu zarządcy drogi mogą wykonywać, w obecności funkcjonariusza Policji lub inspektora Inspekcji Transportu Drogowego, kontrolę ruchu drogowego w stosunku do pojazdów:
+Pojazd podlega wyrejestrowaniu, na wniosek jego właściciela, w przypadku:
 
-- **1)** w zakresie przestrzegania przepisów o wymiarach, masie lub nacisku osi;
-- **2)** powodujących uszkadzanie lub niszczenie drogi;
-- **3)** zanieczyszczających lub zaśmiecających drogę.
+### 1)
 
-1a. Osoby działające w imieniu zarządcy drogi mogą także wykonywać, w obecności strażnika gminnego (miejskiego), kontrolę ruchu drogowego w stosunku do pojazdów w zakresie przestrzegania przepisów o nacisku osi.
+zniszczenia (kasacji) pojazdu, jeżeli jego właściciel przedstawił zaświadczenie o przekazaniu pojazdu do składnicy złomu wyznaczonej przez wojewodę,
 
-2. W ramach wykonywania kontroli ruchu drogowego w zakresie, o którym mowa w ust. 1 i 1a, osoby działające w imieniu zarządcy drogi są upoważnione do:
+### 2)
 
-- **1)** zatrzymania pojazdu;
-- **2)** legitymowania uczestnika ruchu drogowego i wydawania mu poleceń, co do sposobu korzystania z drogi lub pojazdu;
-- **3)** sprawdzenia dokumentów wymaganych w związku z używaniem pojazdu;
-- **4)** sprawdzenia stanu technicznego, wyposażenia, ładunku, wymiarów oraz masy lub nacisku osi pojazdu znajdującego się na drodze;
-- **5)** używania przyrządów kontrolnych lub pomiarowych służących w szczególności do badania pojazdu, określania jego wymiarów, masy lub nacisku osi oraz stwierdzania naruszenia wymagań ochrony środowiska;
-- **6)** uniemożliwiania jazdy pojazdem przekraczającym dopuszczalną masę lub nacisk osi albo uszkadzającym lub niszczącym drogę.
+kradzieży pojazdu, jeżeli jego właściciel złożył stosowne oświadczenie pod odpowiedzialnością karną za fałszywe zeznania,
 
-3. W celu dokonania sprawdzenia masy lub nacisku osi pojazdu osoby działające w imieniu zarządcy drogi, mające prawo jazdy odpowiedniej kategorii, mogą kierować tym pojazdem.
+### 3)
 
-4. Przepisów ust. 1–3 nie stosuje się do osób działających w imieniu Generalnego Dyrektora Dróg Krajowych i Autostrad.
+wywozu pojazdu z kraju, jeżeli pojazd został zarejestrowany lub zbyty za granicą.
 
-**Art. 129e.**
+### 2.
 
-1. Kontrola ruchu drogowego wykonywana przez strażników gminnych (miejskich), strażników leśnych, funkcjonariuszy Straży Parku oraz pracowników zarządów dróg odbywa się na podstawie upoważnienia do wykonywania kontroli ruchu drogowego wydanego przez właściwego komendanta powiatowego (miejskiego) Policji.
+Pojazd wyrejestrowany z powodu zniszczenia (kasacji) nie podlega powtórnej rejestracji.
 
-2. Art. 129 ust. 3 stosuje się odpowiednio do kontroli ruchu drogowego wykonywanej przez osoby, o których mowa w ust. 1.
+### Art. 80.
 
-**Art. 129f.** Strażnicy straży gminnych (miejskich), strażnicy leśni oraz funkcjonariusze Straży Parku w związku z wykonywaniem czynności z zakresu kontroli ruchu drogowego są obowiązani do czasu przybycia Policji uniemożliwić kierowanie pojazdem osobie, co do której istnieje uzasadnione podejrzenie, że znajduje się ona w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu. Art. 129fa. 1. Pojazd wytypowany przez kontrolującego do sprawdzenia stanu technicznego w ramach kontroli ruchu drogowego podlega wstępnej drogowej kontroli technicznej, która jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1. 2. Główny Inspektor Transportu Drogowego w porozumieniu z Komendantem Głównym Policji planują i organizują wstępne drogowe kontrole techniczne pojazdów kategorii M , M , N i N i przyczep kategorii O i O w taki sposób, aby łączna liczba tych kontroli obejmowała w każdym roku kalendarzowym co najmniej 5 % łącznej liczby takich pojazdów zarejestrowanych na terytorium Rzeczypospolitej Polskiej. Art. 129fb. 1. W przypadku pojazdu kategorii M , M , N i N , przyczepy kategorii O i O i ciągnika kołowego kategorii T , T , T , T , T , T i T użytkowanego na drodze publicznej do wykonywania zarobkowego przewozu rzeczy kontrolujący, na podstawie wyników wstępnej drogowej kontroli technicznej, może skierować ten pojazd na szczegółową drogową kontrolę techniczną. Kierując pojazd na szczegółową drogową kontrolę techniczną, uwzględnia się w szczególności potrzebę ustalenia, czy pojazd ten zagraża bezpieczeństwu ruchu drogowego lub narusza wymagania ochrony środowiska. 2. Zakres szczegółowej drogowej kontroli technicznej, która ma być przeprowadzona, określa się w protokole drogowej kontroli technicznej. 3. Szczegółowa drogowa kontrola techniczna jest przeprowadzana zgodnie z przepisami wydanymi na podstawie art. 131 ust. 1 w:
+### 1.
 
-**Art. 129g.**
+Tworzy się centralną ewidencję pojazdów oraz właścicieli i posiadaczy pojazdów. Ewidencję prowadzi jednostka podległa Ministrowi Spraw Wewnętrznych i Administracji.
 
-1. Ujawnianie za pomocą stacjonarnych urządzeń rejestrujących zainstalowanych w pasie drogowym dróg publicznych następujących naruszeń przepisów ruchu drogowego:
+### 2.
 
-- **a)** przekraczania dopuszczalnej prędkości,
-- **b)** niestosowania się do sygnałów świetlnych – należy do Inspekcji Transportu Drogowego.
+W ewidencji, o której mowa w ust. 1:
 
-2. Wykonując zadania, o których mowa w ust. 1, Inspekcja Transportu Drogowego:
+### 1)
 
-- **1)** rejestruje obrazy naruszeń przepisów ruchu drogowego i przetwarza do celów określonych w niniejszej ustawie obraz pojazdu, którym naruszono przepisy ruchu drogowego, oraz wizerunek kierującego pojazdem, jeżeli został on zarejestrowany oraz dane obejmujące:
-    - **a)** numer rejestracyjny pojazdu, którym naruszono przepisy,
-    - **b)** datę, czas oraz określenie miejsca popełnienia naruszenia,
-    - **c)** rodzaj naruszenia,
-    - **d)** dane właściciela lub posiadacza pojazdu lub kierującego pojazdem,
-    - **e)** numer identyfikacyjny urządzenia rejestrującego;
+wpisuje się dane o pojeździe podlegającym rejestracji, jego kolejnych właścicielach i posiadaczach,
 
-- **2)** w postępowaniach w sprawach o wykroczenia, o których mowa w ust. 1, prowadzi czynności wyjaśniające, kieruje do sądu wnioski o ukaranie, oskarża przed sądem oraz wnosi środki odwoławcze – w trybie i zakresie określonych w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963);
-- **3)** wnioskuje do zarządców dróg publicznych, z wyłączeniem dróg zarządzanych przez Generalnego Dyrektora Dróg Krajowych i Autostrad, o instalację lub usunięcie urządzenia rejestrującego albo obudowy na to urządzenie, z zastrzeżeniem iż w sprawach dotyczących urządzeń rejestrujących naruszenia przepisów ruchu drogowego o dopuszczalnej prędkości wniosek wymaga uprzedniego zasięgnięcia opinii właściwego komendanta wojewódzkiego Policji;
-- **4)** dokonuje zakupu i naprawy oraz wykonuje czynności wynikające z bieżącej eksploatacji i obsługi urządzeń rejestrujących oraz obudów na te urządzenia, w tym czynności obejmujące import danych zarejestrowanych przez te urządzenia oraz montaż urządzeń w zainstalowanych obudowach w przypadku urządzeń zainstalowanych przez Inspekcję Transportu Drogowego lub zarządcę drogi działającego na wniosek, o którym mowa w pkt 3, a także w przypadku obudów urządzeń rejestrujących należących do Policji.
+### 2)
 
-3. Zadania Inspekcji Transportu Drogowego, o których mowa w ust. 1, wykonuje Główny Inspektor Transportu Drogowego przy pomocy Głównego Inspektoratu Transportu Drogowego oraz jego delegatur terenowych.
+mogą być wpisywane dane o zawartych przez te osoby umowach obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu mechanicznego za szkody powstałe w związku z ruchem tego pojazdu.
 
-4. (utracił moc)
+### 3.
 
-5. Minister właściwy do spraw transportu, w porozumieniu z ministrem właściwym do spraw wewnętrznych i Ministrem Sprawiedliwości, uwzględniając zakres niezbędnych danych oraz konieczność zapewnienia jednolitości dokumentów, określi, w drodze rozporządzenia, wzory dokumentów stosowanych przez Głównego Inspektora Transportu Drogowego w postępowaniu, o którym mowa w ust. 2 pkt 2.
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrami Transportu i Gospodarki Morskiej oraz Finansów określi, w drodze rozporządzenia:
 
-**Art. 129h.**
+### 1)
 
-1. W zakresie, o którym mowa w art. 129g ust. 1, rejestracji podlegają w szczególności:
+zakres, warunki i sposób prowadzenia ewidencji, o której mowa w ust. 1, oraz warunki współdziałania państwowych jednostek organizacyjnych w tym zakresie,
 
-- **1)** obraz naruszenia, w tym obraz pojazdu, którym kierujący naruszył przepisy ruchu drogowego, wraz z numerem rejestracyjnym pojazdu;
-- **2)** data oraz czas popełnienia naruszenia;
-- **3)** numer identyfikacyjny urządzenia rejestrującego; – a w przypadku przekroczenia przez kierującego pojazdem dopuszczalnej prędkości rejestrowane są również:
-- **4)** prędkość, z jaką poruszał się pojazd;
-- **5)** prędkość dopuszczalna w miejscu i czasie popełnienia naruszenia.
+### 2)
 
-2. W szczególnie uzasadnionych bezpieczeństwem ruchu drogowego przypadkach Inspekcja Transportu Drogowego może ujawniać naruszenia przepisów ruchu drogowego w zakresie, o którym mowa w art. 129g ust. 1 lit. a, również za pomocą urządzeń rejestrujących, które ujawniają naruszenia przepisów ruchu drogowego na określonym odcinku drogi. W takim przypadku urządzenia te rejestrują w szczególności:
+warunki i sposób korzystania z informacji zawartych w ewidencji,
 
-- **1)** obraz pojazdu, którym kierujący naruszył przepisy ruchu drogowego, wraz z numerem rejestracyjnym pojazdu;
-- **2)** datę, czas oraz określenie odcinka drogi, na którym popełnione zostało naruszenie;
-- **3)** średnią prędkość, z jaką poruszał się pojazd na odcinku drogi, na którym popełnione zostało naruszenie;
-- **4)** prędkość dopuszczalną na odcinku drogi, na którym popełnione zostało naruszenie, w czasie jego popełnienia;
-- **5)** numer identyfikacyjny urządzenia rejestrującego.
+### 3)
 
-3. Główny Inspektor Transportu Drogowego ustala wpisanego do dowodu rejestracyjnego właściciela lub posiadacza pojazdu, którym dokonano naruszenia przepisów ruchu drogowego, na podstawie danych i informacji:
+warunki odpłatności za korzystanie z informacji zawartych w ewidencji oraz podmioty zwolnione od opłat.
 
-- **1)** określonych w ust. 1 i 2;
-- **2)** z centralnej ewidencji pojazdów i centralnej ewidencji kierowców udostępnianych za pomocą systemu teleinformatycznego;
-- **3)** uzyskanych w związku z prowadzonym postępowaniem, w szczególności od polskich i zagranicznych organów rejestrujących pojazd.
+### Rozdział 3 Badania techniczne pojazdów
 
-4. Do przetwarzania danych osobowych przez Głównego Inspektora Transportu Drogowego, w zakresie, o którym mowa w ust. 3, stosuje się przepis art. 26 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206).
+### Art. 81.
 
-5. Minister właściwy do spraw transportu, mając na względzie przyczyny i lokalizację wypadków drogowych, przeciwdziałanie tym wypadkom oraz wdrażanie kierujących pojazdami do przestrzegania przepisów ruchu drogowego, określi, w drodze rozporządzenia:
+### 1.
 
-- **1)** warunki lokalizacji w pasie drogowym dróg publicznych stacjonarnych urządzeń rejestrujących oraz obudów na te urządzenia, z uwzględnieniem zasady, że instalowana i używana jest obudowa wraz z urządzeniem rejestrującym;
-- **2)** sposób oznakowania stacjonarnych urządzeń rejestrujących oraz obudów na te urządzenia, z uwzględnieniem oddziaływania prewencyjnego poprzez zapewnienie odpowiedniej widoczności;
-- **3)** sposób dokonywania pomiarów przez urządzenia rejestrujące, z uwzględnieniem progów prędkości dostosowanych do obowiązującego na drodze ograniczenia prędkości, oraz przetwarzania przez te urządzenia zarejestrowanych danych, a także biorąc pod uwagę możliwość błędu kierowcy do 10 km/h włącznie w utrzymaniu dopuszczalnej prędkości.
-- **4)** (uchylony)
+Właściciel pojazdu samochodowego, ciągnika rolniczego, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego.
 
-**Art. 129i.**
+### 2.
 
-1. Badanie w celu ustalenia zawartości w organizmie alkoholu przeprowadza się przy użyciu urządzeń elektronicznych dokonujących pomiaru stężenia alkoholu w wydychanym powietrzu.
+Pierwsze badanie techniczne jest przeprowadzane przed pierwszą rejestracją. Badaniu temu nie podlega nowy pojazd, na którego typ zostało wydane świadectwo homologacji lub decyzja zwalniająca z obowiązku homologacji, z wyjątkiem pojazdu przeznaczonego do przewozu materiałów niebezpiecznych, taksówki osobowej lub pojazdu uprzywilejowanego.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli stan osoby podlegającej badaniu uniemożliwia jego przeprowadzenie urządzeniem elektronicznym lub osoba ta odmawia poddania się takiemu badaniu. W takim przypadku ustalenie zawartości w organizmie alkoholu następuje na podstawie badania krwi.
+### 3.
 
-3. Badanie w celu ustalenia zawartości w organizmie alkoholu może być przeprowadzone również w razie braku zgody osoby podlegającej badaniu, o czym należy ją uprzedzić.
+Okresowe badanie techniczne pojazdu jest przeprowadzane corocznie, z zastrzeżeniem ust. 4-6.
 
-4. Warunki oraz sposób przeprowadzania badań, o których mowa w ust. 1 i 2, określają przepisy wydane na podstawie art. 47 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151).
+### 4.
 
-**Art. 129j.**
+Okresowe badanie techniczne samochodu osobowego, samochodu ciężarowego o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t, ciągnika rolniczego, motocykla lub przyczepy przeprowadza się przed upływem 3 lat od dnia pierwszej rejestracji, a następnie przed upływem 2 lat od dnia przeprowadzenia badania i następnie corocznie. Nie dotyczy to pojazdu używanego do przewozu materiałów niebezpiecznych, taksówki osobowej, pojazdu samochodowego marki „SAM”, pojazdu zasilanego gazem lub pojazdu uprzywilejowanego, które podlegają corocznym badaniom technicznym.
 
-1. Badanie w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu przeprowadza się przy użyciu metod niewymagających badania laboratoryjnego.
+### 5.
 
-2. Przepisu ust. 1 nie stosuje się, jeżeli stan osoby podlegającej badaniu uniemożliwia jego przeprowadzenie metodą niewymagającą badania laboratoryjnego albo osoba ta odmawia poddania się takiemu badaniu. W takim przypadku ustalenie w organizmie obecności środka działającego podobnie do alkoholu następuje na podstawie badania krwi lub moczu.
+Przepis ust. 4 dotyczy również samochodu osobowego, samochodu ciężarowego o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t, ciągnika rolniczego, motocykla lub przyczepy, zarejestrowanych po raz pierwszy za granicą. W tym przypadku za dzień pierwszej rejestracji, o której mowa w ust. 4, przyjmuje się dzień pierwszej rejestracji za granicą.
 
-3. Dopuszcza się badanie krwi lub moczu jako następstwo badania przeprowadzonego metodą, o której mowa w ust. 1, albo jeżeli nie ma możliwości wykorzystania tej metody.
+### 6.
 
-4. Badanie w celu ustalenia obecności w organizmie środka działającego podobnie do alkoholu może być przeprowadzone również w razie braku zgody osoby podlegającej badaniu, o czym należy ją uprzedzić.
+Okresowe badanie techniczne autobusu o liczbie miejsc powyżej 15 łącznie z miejscem kierowcy oraz pojazdu używanego do nauki jazdy lub egzaminu państwowego przeprowadza się przed upływem 1 roku od dnia pierwszej rejestracji i następnie co 6 miesięcy.
 
-5. Minister właściwy do spraw zdrowia, uwzględniając skutki oddziaływania na organizm kierowcy środków działających podobnie do alkoholu, określi, w drodze rozporządzenia:
+### 7.
 
-- **1)** wykaz tych środków;
-- **2)** warunki i sposób przeprowadzania badań na ich obecność w organizmie. [Art. 129ja. W toku kontroli ruchu drogowego uprawniony organ kontroli może poddać kierującego pojazdem lub inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu.] <Art. 129ja. W toku kontroli ruchu drogowego uprawniony organ kontroli może poddać badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu:
-- **1)** kierującego pojazdem lub inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem;
-- **2)** pasażera, o którym mowa w art. 8a ust. 1 pkt 2 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.>
+Motorower i przyczepa lekka nie podlegają okresowym badaniom technicznym.
 
-**Art. 129k.**
+### 8.
 
-1. W razie uczestniczenia w wypadku drogowym, w którym jest zabity lub ranny, kierujący pojazdem jest poddawany badaniu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu.
+Niezależnie od badań, o których mowa w ust. 2 i 3, dodatkowemu badaniu technicznemu podlega również pojazd:
 
-2. Badaniu, o którym mowa w ust. 1, można poddać także inną osobę, jeżeli zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem uczestniczącym w wypadku drogowym, w którym jest zabity lub ranny.
+### 1)
 
-3. Osoby, o których mowa w ust. 1 i 2, mają prawo żądać od organu kontroli ruchu drogowego przeprowadzenia badania krwi lub moczu w celu ustalenia w organizmie zawartości alkoholu lub obecności środka działającego podobnie do alkoholu.
+skierowany przez organ kontroli ruchu drogowego lub kierownika rejonowego urzędu rządowej administracji ogólnej w razie uzasadnionego przypuszczenia, że zagraża bezpieczeństwu ruchu lub narusza wymagania ochrony środowiska,
 
-**Art. 129l.**
+### 2)
 
-1. W toku kontroli ruchu drogowego uprawniony organ kontroli może dokonać odczytu wskazania drogomierza pojazdu, drogomierza pojazdu holowanego oraz drogomierza pojazdu przewożonego wraz z jednostką miary.
+w którym dokonano montażu instalacji do zasilania gazem,
 
-2. Kierujący pojazdem jest obowiązany umożliwić uprawnionemu organowi kontroli dokonanie czynności, o których mowa w ust. 1, w zakresie pojazdu kierowanego, holowanego lub przewożonego.
+### 3)
 
-**Art. 130.** (uchylony)
+który ma być używany jako taksówka osobowa lub bagażowa, pojazd uprzywilejowany lub pojazd przewożący materiały niebezpieczne.
 
-**Art. 130a.**
+### 9.
 
-1. Pojazd jest usuwany z drogi na koszt właściciela w przypadku:
+Badanie techniczne pojazdu z zamontowanym urządzeniem technicznym podlegającym dozorowi technicznemu może być przeprowadzone po przedstawieniu dokumentu wydanego przez organ dozoru technicznego, stwierdzającego sprawność urządzenia technicznego.
 
-- **1)** pozostawienia pojazdu w miejscu, gdzie jest to zabronione i utrudnia ruch lub w inny sposób zagraża bezpieczeństwu;
-- **2)** nieokazania przez kierującego dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie, jeżeli pojazd ten jest zarejestrowany w kraju, o którym mowa w art. 129 ust. 2 pkt 8 lit. c;
-- **3)** przekroczenia wymiarów, dopuszczalnej masy całkowitej lub nacisku osi określonych w przepisach ruchu drogowego, chyba że istnieje możliwość skierowania pojazdu na pobliską drogę, na której dopuszczalny jest ruch takiego pojazdu;
-- **4)** pozostawienia pojazdu nieoznakowanego kartą parkingową, w miejscu przeznaczonym dla pojazdu kierowanego przez osoby wymienione w art. 8 ust. 1 i 2;
-- **5)** pozostawienia pojazdu w miejscu obowiązywania znaku wskazującego, że zaparkowany pojazd zostanie usunięty na koszt właściciela;
-- **6)** kierowania nim przez osobę nieposiadającą uprawnienia do kierowania pojazdami albo której zatrzymano prawo jazdy i nie ma możliwości zabezpieczenia pojazdu przez przekazanie go osobie znajdującej się w nim i posiadającej uprawnienie do kierowania tym pojazdem; przepisu nie stosuje się, jeżeli kierujący posiada pokwitowanie, o którym mowa w art. 135 ust. 4 lub 5 albo w art. 135a ust. 5 lub 6, upoważniające do kierowania pojazdem;
-- **7)** poruszania się po drodze innej niż wyznaczona zgodnie z art. 65a ust. 3 pkt 3 lit. j, jeżeli jest dopuszczony do ruchu na podstawie art. 65p.
+### 10.
 
-1a. Pojazd jest usuwany z drogi na koszt wykonującego przejazd drogowy w przypadku, o którym mowa w art. 140ad ust. 7.
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, zakres i sposób przeprowadzania badań technicznych oraz wzory dokumentów przy tym stosowanych.
 
-2. Pojazd może być usunięty z drogi na koszt właściciela, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy:
+### Art. 82.
 
-- **1)** kierowała nim osoba:
-    - **a)** znajdująca się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
-    - **b)** nieposiadająca przy sobie wymaganych dokumentów uprawniających do kierowania lub używania pojazdu;
+### 1.
 
-- **2)** jego stan techniczny zagraża bezpieczeństwu ruchu drogowego, powoduje uszkodzenie drogi albo narusza wymagania ochrony środowiska.
+Organ dokonujący rejestracji pojazdu wpisuje do dowodu rejestracyjnego termin badania technicznego pojazdu.
 
-2a. Od usunięcia pojazdu odstępuje się, jeżeli przed wydaniem dyspozycji usunięcia pojazdu lub w trakcie usuwania pojazdu ustaną przyczyny jego usunięcia. Jeżeli wydanie dyspozycji usunięcia pojazdu w przypadkach, o których mowa w ust. 1–2, spowodowało powstanie kosztów, do ich pokrycia jest obowiązany właściciel pojazdu. Przepis ust. 10i stosuje się odpowiednio.
+### 2.
 
-3. Pojazd może być przemieszczony lub usunięty z drogi, jeżeli utrudnia prowadzenie akcji ratowniczej.
+Jeżeli pojazd jest zarejestrowany, kolejny termin badania technicznego wpisuje do dowodu rejestracyjnego uprawniony diagnosta po stwierdzeniu pozytywnego wyniku badania.
 
-4. Dyspozycję przemieszczenia lub usunięcia pojazdu z drogi wydaje:
+### Art. 83.
 
-- **1)** policjant – w sytuacjach, o których mowa w ust. 1–3;
-- **2)** strażnik gminny (miejski) – w sytuacjach, o których mowa w ust. 1 pkt 1, 4 i 5;
-- **3)** osoba dowodząca akcją ratowniczą – w sytuacji, o której mowa w ust. 3.
+### 1.
 
-5. (utracił moc) 5a. (uchylony) 5b. (uchylony) 5c. Pojazd usunięty z drogi w przypadkach określonych w ust. 1–2 oraz art. 140ad ust. 7 umieszcza się na wyznaczonym przez starostę parkingu strzeżonym do czasu uiszczenia opłaty za jego usunięcie i parkowanie, z uwzględnieniem ust. 7.
+Badanie techniczne przeprowadza się na koszt właściciela pojazdu w upoważnionej przez wojewodę stacji kontroli pojazdów, położonej na terenie województwa, w którym pojazd jest zarejestrowany, z zastrzeżeniem ust. 2.
 
-5d. (uchylony) 5e. (uchylony) 5f. Usuwanie pojazdów oraz prowadzenie parkingu strzeżonego dla pojazdów usuniętych w przypadkach, o których mowa w ust. 1–2, należy do zadań własnych powiatu. Starosta realizuje te zadania przy pomocy powiatowych jednostek organizacyjnych lub powierza ich wykonywanie zgodnie z przepisami ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych.
+### 2.
 
-6. Rada powiatu, biorąc pod uwagę konieczność sprawnej realizacji zadań, o których mowa w ust. 1–2, oraz koszty usuwania i przechowywania pojazdów na obszarze danego powiatu, ustala corocznie, w drodze uchwały, wysokość opłat, o których mowa w ust. 5c, oraz wysokość kosztów, o których mowa w ust. 2a. Wysokość kosztów, o których mowa w ust. 2a, nie może być wyższa niż maksymalna kwota opłat za usunięcie pojazdu, o których mowa w ust. 6a.
+Badanie techniczne pojazdu może być przeprowadzone również w stacji kontroli pojazdów położonej na terenie województwa, w którym:
 
-6a. Ustala się maksymalną wysokość stawek kwotowych opłat, o których mowa w ust. 5c: za każdą dobę przechowywania – 33 zł,
+### 1)
 
-- **a)** rower lub motorower – za usunięcie – 100 zł; za każdą dobę przechowywania – 15 zł
-- **b)** motocykl – za usunięcie – 200 zł; za każdą dobę przechowywania – 22 zł,
-- **c)** pojazd o dopuszczalnej masie całkowitej do 3,5 t – za usunięcie – 440 zł;
-- **d)** pojazd o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t – za usunięcie – 550 zł; za każdą dobę przechowywania – 45 zł,
-- **e)** pojazd o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t – za usunięcie – 780 zł; za każdą dobę przechowywania – 65 zł,
-- **f)** pojazd o dopuszczalnej masie całkowitej powyżej 16 t – za usunięcie – 1150 zł; za każdą dobę przechowywania – 120 zł,
-- **g)** pojazd przewożący materiały niebezpieczne – za usunięcie – 1400 zł; za każdą dobę przechowywania – 180 zł,
-- **h)** hulajnoga elektryczna lub urządzenie transportu osobistego – za usunięcie – 123 zł; za każdą dobę przechowywania – 23 zł.
+pojazd został skierowany na badania techniczne przez organ kontroli ruchu drogowego,
 
-6b. Maksymalne stawki opłat określone w ust. 6a, obowiązujące w danym roku kalendarzowym ulegają corocznie zmianie na następny rok kalendarzowy w stopniu odpowiadającym wskaźnikowi cen towarów i usług konsumpcyjnych w okresie pierwszego półrocza roku, w którym stawki ulegają zmianie, w stosunku do analogicznego okresu roku poprzedniego.
+### 2)
 
-6c. Na każdy rok kalendarzowy minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” maksymalne stawki opłat, o których mowa w ust. 6a, z uwzględnieniem zasady określonej w ust. 6b, zaokrąglając je w górę do pełnych złotych.
+właściciel pojazdu mieszka czasowo przez okres co najmniej 1 roku,
 
-6d. Wskaźnik cen, o którym mowa w ust. 6b, ustala się na podstawie komunikatu Prezesa Głównego Urzędu Statystycznego ogłoszonego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie 20 dni od dnia jego ogłoszenia.
+### 3)
 
-6e. Opłaty, o których mowa w ust. 6, stanowią dochód własny powiatu.
+podmiot używający pojazdu na podstawie umowy, zawartej na okres co najmniej 1 roku, ma miejsce zamieszkania lub siedzibę.
 
-7. Wydanie pojazdu następuje po okazaniu:
+### Art. 84.
 
-- **1)** (utracił moc)
-- **2)** w przypadku, o którym mowa w art. 140ad ust. 7 – dowodu uiszczenia opłaty, o której mowa w ust. 5c, oraz dowodu uiszczenia kaucji, a także po usunięciu przyczyny umieszczenia pojazdu na parkingu.
+### 1.
 
-8. Pojazd może być unieruchomiony przez zastosowanie urządzenia do blokowania kół w przypadku pozostawienia go w miejscu, gdzie jest to zabronione, lecz nieutrudniającego ruchu lub niezagrażającego bezpieczeństwu.
+Nadzór nad stacjami kontroli pojazdów sprawuje wojewoda.
 
-9. Pojazd unieruchamia Policja lub straż gminna (miejska).
+### 2.
 
-10. Starosta w stosunku do pojazdu usuniętego z drogi, w przypadkach określonych w ust. 1 lub 2, występuje do sądu z wnioskiem o orzeczenie jego przepadku na rzecz powiatu, jeżeli prawidłowo powiadomiony właściciel lub osoba uprawniona nie odebrała pojazdu w terminie 3 miesięcy od dnia jego usunięcia. Powiadomienie zawiera pouczenie o skutkach nieodebrania pojazdu.
+Wojewoda wydaje upoważnienie do przeprowadzania badań technicznych, jeżeli stacja kontroli pojazdów posiada wymagane warunki lokalowe, wyposażenie kontrolno-pomiarowe i techniczne oraz zatrudnia uprawnionego diagnostę.
 
-10a. Starosta występuje z wnioskiem, o którym mowa w ust. 10, nie wcześniej niż przed upływem 30 dni od dnia powiadomienia.
+### 3.
 
-10b. Jeżeli pojazd usunięty w przypadkach określonych w ust. 1 lub 2 nie jest zarejestrowany w żadnym z państw członkowskich Unii Europejskiej, przekazuje się go właściwemu miejscowo naczelnikowi urzędu celno-skarbowego w celu uregulowania jego sytuacji zgodnie z przepisami prawa celnego.
+Wojewoda przeprowadza, co najmniej raz w roku, kontrolę stacji kontroli pojazdów w zakresie zgodności z wymaganiami, o których mowa w ust. 2, oraz prawidłowości wykonywania badań technicznych pojazdów.
 
-10c. Przepisu ust. 10 nie stosuje się, gdy okoliczności wskazują, że nieodebranie pojazdu nastąpiło z przyczyn niezależnych od właściciela lub osoby uprawnionej.
+### 4.
 
-10d. Przepis ust. 10 stosuje się odpowiednio, gdy w terminie 4 miesięcy od dnia usunięcia pojazdu nie został ustalony jego właściciel lub osoba uprawniona do jego odbioru, mimo że w jej poszukiwaniu dołożono należytej staranności.
+W razie stwierdzenia, że stacja kontroli pojazdów przestała spełniać wymagane warunki lub badania techniczne są przeprowadzane niezgodnie z przepisami, wojewoda może:
 
-10e. W sprawach o przepadek pojazdu sąd stwierdza, czy zostały spełnione wszystkie przesłanki niezbędne do orzeczenia przepadku, w szczególności, czy usunięcie pojazdu było zasadne i czy w poszukiwaniu osoby uprawnionej do jego odbioru, dołożono należytej staranności oraz czy orzeczenie przepadku nie będzie sprzeczne z zasadami współżycia społecznego.
+### 1)
 
-10f. Do wykonania orzeczenia sądu o przepadku pojazdu jest obowiązany starosta. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, z uwzględnieniem przepisów niniejszej ustawy.
+zażądać usunięcia nieprawidłowości w wyznaczonym terminie,
 
-10g. Jednostka prowadząca parking strzeżony, w przypadku nieodebrania pojazdu z parkingu w terminie określonym w ust. 10, powiadamia o tym fakcie właściwego miejscowo starostę oraz podmiot, który wydał dyspozycję usunięcia pojazdu nie później niż trzeciego dnia od dnia upływu tego terminu.
+### 2)
 
-10h. Koszty związane z usuwaniem, przechowywaniem, oszacowaniem, sprzedażą lub zniszczeniem pojazdu powstałe od momentu wydania dyspozycji jego usunięcia do zakończenia postępowania ponosi osoba będąca właścicielem tego pojazdu w dniu wydania dyspozycji usunięcia pojazdu, z zastrzeżeniem ust. 10d i 10i. Decyzję o zapłacie tych kosztów wydaje starosta.
+ograniczyć zakres badań technicznych,
 
-10i. Jeżeli w chwili usunięcia pojazd znajdował się we władaniu osoby dysponującej nim na podstawie innego niż własność tytułu prawnego, osoba ta jest zobowiązana solidarnie do pokrycia kosztów, o których mowa w ust. 10h.
+### 3)
 
-10j. Termin płatności należności ustalonych decyzją, o której mowa w ust. 10h, wynosi 30 dni od dnia, w którym decyzja ta stała się ostateczna. Odsetki ustawowe za opóźnienie nalicza się od dnia następującego po upływie terminu płatności. Należności te wraz z odsetkami podlegają egzekucji w trybie i na zasadach określonych w ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
+cofnąć wydane upoważnienie.
 
-10k. Decyzji, o której mowa w ust. 10h, nie wydaje się, jeżeli od uprawomocnienia się orzeczenia sądu o przepadku pojazdu upłynęło 5 lat.
+### 5.
 
-10l. Egzekucji, o której mowa w ust. 10j, nie wszczyna się, a wszczętą umarza, jeżeli od dnia doręczenia ostatecznej decyzji, o której mowa w ust. 10h, upłynęło 5 lat.
+Badanie techniczne przeprowadza uprawniony diagnosta.
 
-10m. Jeżeli w przypadku, o którym mowa w art. 140ad ust. 7, pojazd nie zostanie odebrany z parkingu w ciągu 30 dni od dnia nałożenia kary pieniężnej, stosuje się odpowiednio przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji, dotyczące egzekucji należności pieniężnych z ruchomości.
+### 6.
 
-11. Minister właściwy do spraw wewnętrznych, kierując się zasadą zagwarantowania ochrony prawa własności oraz potrzebą zapewnienia porządku na drogach publicznych i bezpieczeństwa ruchu drogowego, określi, w drodze rozporządzenia:
+Wojewoda wydaje uprawnienie diagnosty do wykonywania badań technicznych, jeżeli osoba ubiegająca się o jego wydanie posiada wymagane wykształcenie techniczne i praktykę oraz odbyła szkolenie zakończone egzaminem z pozytywnym wynikiem, w jednostce wyznaczonej przez Ministra Transportu i Gospodarki Morskiej.
 
-- **1)** tryb oraz warunki współdziałania z Policją i innymi podmiotami uprawnionymi do podejmowania decyzji o usunięciu pojazdu jednostek usuwających pojazdy lub prowadzących strzeżone parkingi;
-- **2)** tryb i warunki wydawania pojazdu z parkingu.
-- **3)** (utracił moc)
+### 7.
 
-**Art. 130b.**
+Wojewoda cofa diagnoście uprawnienie do wykonywania badań technicznych, jeżeli stwierdzono:
 
-1. Z każdego wypadku drogowego, w którym jest zabity, mającego miejsce na drodze, o której mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych, Policja jest obowiązana sporządzić sprawozdanie.
+### 1)
 
-2. Sprawozdanie, o którym mowa w ust. 1, zawiera:
+przeprowadzenie przez niego badania technicznego niezgodnie z określonym zakresem i sposobem wykonania,
 
-- **1)** możliwie dokładne określenie miejsca wypadku, w tym jego współrzędne geograficzne pozyskiwane za pośrednictwem Globalnego Systemu Nawigacji Satelitarnej (GNSS);
-- **2)** zdjęcia lub schemat miejsca wypadku;
-- **3)** datę i godzinę wypadku;
-- **4)** szczegółowy opis miejsca i okoliczności wypadku: rodzaj terenu, rodzaj drogi, rodzaj skrzyżowania, w tym informacje dotyczące sygnalizacji, liczby pasów ruchu, oznakowania poziomego drogi, oświetlenia, warunków pogodowych, ograniczenia prędkości, przeszkód na poboczu drogi;
-- **5)** informację o skutkach wypadku, w szczególności liczbę zabitych i rannych;
-- **6)** charakterystykę uczestników wypadku: wiek, płeć, obywatelstwo, poziom alkoholu lub środka odurzającego w organizmie, stosowanie lub niestosowanie wyposażenia ochronnego;
-- **7)** dane dotyczące pojazdów uczestniczących w wypadku: rodzaj, wiek, wyposażenie ochronne oraz datę ostatniego badania technicznego;
-- **8)** informacje dotyczące rodzaju i przebiegu wypadku, z uwzględnieniem manewrów pojazdu i kierującego;
-- **9)** o ile jest to możliwe informacje dotyczące czasu przybycia służb ratowniczych oraz przyjęcia zgłoszenia.
+### 2)
 
-3. Sprawozdania, o których mowa w ust. 1, Policja przekazuje do Sekretariatu Krajowej Rady, o którym mowa w art. 140f, w terminie do 31 marca każdego roku, za rok poprzedni.
+wydanie przez niego zaświadczenia albo dokonanie wpisu do dowodu rejestracyjnego pojazdu niezgodnie ze stanem faktycznym lub przepisami.
 
-**Art. 131.**
+### 8.
 
-1. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw transportu, uwzględniając potrzebę zapewnienia bezpieczeństwa i porządku podczas wykonywania kontroli ruchu drogowego oraz sprawnego jej przebiegu, a także konieczność należytej ochrony sposobu realizacji zadań związanych z bezpieczeństwem państwa i ujednolicenia sporządzanych dokumentów, określi, w drodze rozporządzenia:
+W przypadku cofnięcia diagnoście uprawnienia do wykonywania badań technicznych, ponowne uprawnienie nie może być wydane wcześniej niż po upływie 2 lat od dnia, w którym decyzja o cofnięciu stała się ostateczna.
 
-- **1)** organizację, szczegółowe warunki i sposób wykonywania kontroli ruchu drogowego;
-- **2)** wymagany sposób zachowania się kontrolowanego uczestnika ruchu;
-- **3)** szczegółowe warunki wykonywania kontroli ruchu drogowego przez osoby, o których mowa w art. 129e;
-- **3a)** szczególne warunki wykonywania kontroli ruchu drogowego pojazdów, o których mowa w art. 73 ust. 3, z wyłączeniem pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej;
-- **4)** szczegółowe warunki udzielania upoważnień do wykonywania kontroli ruchu drogowego;
-- **5)** wzory dokumentów stosowanych przy wykonywaniu kontroli ruchu drogowego.
+### 9.
 
-2. Minister Obrony Narodowej, uwzględniając potrzebę zapewnienia bezpieczeństwa i porządku w czasie wykonywania kontroli drogowej oraz sprawne wykonywanie czynności w tym zakresie, w porozumieniu z ministrami właściwymi do spraw transportu oraz spraw wewnętrznych, określi, w drodze rozporządzenia:
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia:
 
-- **1)** organizację, warunki i sposób wykonywania czynności, o których mowa w art. 129 ust. 4;
-- **2)** warunki i tryb współdziałania Żandarmerii Wojskowej z Policją w sprawach, o których mowa w art. 130 ust. 1.
+### 1)
 
-#### Rozdział 2 Zatrzymywanie i zwracanie dowodów rejestracyjnych
+szczegółowe wymagania w stosunku do stacji kontroli pojazdów przeprowadzających badania techniczne w określonym zakresie, wzory dokumentów związanych z uzyskaniem upoważnień do ich przeprowadzania oraz wzór upoważnienia,
 
-**Art. 132.**
+### 2)
 
-1. Policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie:
+szczegółowe wymagania w stosunku do diagnostów, program szkolenia i wzory dokumentów związanych z uzyskaniem uprawnień do wykonywania badań technicznych,
 
-- **1)** stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
-    - **a)** zagraża bezpieczeństwu w szczególności po wypadku drogowym, w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji nadwozia, podwozia lub ramy,
-    - **b)** zagraża porządkowi ruchu,
-    - **c)** narusza wymagania ochrony środowiska;
+### 3)
 
-- **2)** stwierdzenia, że pojazd nie został poddany badaniu technicznemu w wyznaczonym terminie lub termin badania nie został wyznaczony prawidłowo;
-- **3)** stwierdzenia, że badanie techniczne zostało dokonane przez jednostkę do tego nieupoważnioną;
-- **4)** uzasadnionego przypuszczenia, że dane dotyczące dowodu rejestracyjnego (pozwolenia czasowego) zawarte w centralnej ewidencji pojazdów nie odpowiadają stanowi faktycznemu.
+wysokość opłat za przeprowadzenie badań technicznych.
 
-1a. W stosunku do kierującego pojazdem zarejestrowanym za granicą uczestniczącym w ruchu na terytorium Rzeczypospolitej Polskiej policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie:
+### Art. 85.
 
-- **1)** stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
-    - **a)** zagraża bezpieczeństwu w szczególności po wypadku drogowym, w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji nadwozia, podwozia lub ramy,
-    - **b)** zagraża porządkowi ruchu,
-    - **c)** narusza wymagania ochrony środowiska;
+### 1.
 
-- **2)** stwierdzenia, że pojazd nie został poddany badaniu technicznemu w wyznaczonym terminie lub termin badania nie został wyznaczony prawidłowo;
-- **3)** stwierdzenia zniszczenia dowodu rejestracyjnego (pozwolenia czasowego) w stopniu powodującym jego nieczytelność;
-- **4)** uzasadnionego podejrzenia podrobienia lub przerobienia dowodu rejestracyjnego (pozwolenia czasowego);
-- **5)** stwierdzenia, że badanie techniczne zostało dokonane przez jednostkę do tego nieupoważnioną;
-- **6)** nieokazania przez kierującego dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie, jeżeli pojazd ten jest zarejestrowany w kraju, o którym mowa w art. 129 ust. 2 pkt 8 lit. c;
-- **7)** uzasadnionego przypuszczenia, że dane w nim zawarte nie odpowiadają stanowi faktycznemu. 1aa. W stosunku do kierującego pojazdem, o którym mowa w art. 73 ust. 3, policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w przypadkach, o których mowa w ust. 1a pkt 1–5 i 7.
+Tramwaj i trolejbus podlegają odrębnym badaniom technicznym.
 
-1b. Zatrzymanie, o którym mowa w ust. 1, następuje przez wprowadzenie informacji o zatrzymaniu dowodu rejestracyjnego (pozwolenia czasowego) do centralnej ewidencji pojazdów.
+### 2.
 
-1c. Zatrzymanie, o którym mowa w ust. 1a i 1aa, następuje przez zatrzymanie okazanego dokumentu.
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, zakres, warunki, terminy i sposób przeprowadzania badań technicznych tramwajów i trolejbusów oraz jednostki wykonujące te badania.
 
-2. W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego) policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby CelnoSkarbowej wydaje kierowcy pokwitowanie. Może on zezwolić na używanie pojazdu przez czas nieprzekraczający 7 dni, określając warunki tego używania w pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa w ust. 1 pkt 1 lit. a i c, a także w ust. 1a pkt 1 lit. a i c oraz pkt 6.
+### Art. 86.
 
-3. (uchylony) 3a. Odpowiednie organy Policji, Straży Granicznej albo Krajowej Administracji Skarbowej zawiadomią właściwego dyrektora izby administracji skarbowej o fakcie zatrzymania dowodu rejestracyjnego w przypadku powzięcia uzasadnionego przypuszczenia, o którym mowa w ust. 1 pkt 4, w sytuacji gdy dotyczy to spełnienia przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług.
+### 1.
 
-4. W przypadku określonym w ust. 1 pkt 1 dowód rejestracyjny (pozwolenie czasowe) zatrzyma również jednostka upoważniona do przeprowadzania badań technicznych. Przepisy ust. 1b i 2 stosuje się odpowiednio.
+Do pojazdów Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji, Urzędu Ochrony Państwa i Straży Granicznej, których dotyczą warunki i tryb rejestracji określone w art. 73 ust. 3, a także do pojazdów Państwowej Straży Pożarnej, mają zastosowanie przepisy art. 81 ust. 1-9 i art. 84 ust. 5-7 i 9 pkt 2, z zastrzeżeniem ust. 2.
 
-5. Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem przypadków określonych w ust. 1a pkt 4 i 6, pozostawia się w jednostce Policji, Straży Granicznej albo Krajowej Administracji Skarbowej przez okres 7 dni. Po upływie tego terminu dokument przekazywany jest przedstawicielstwu państwa, w którym pojazd jest zarejestrowany.
+### 2.
 
-5a. Zatrzymany dokument pojazdu, o którym mowa w art. 73 ust. 3, jest przesyłany niezwłocznie organowi, który go wydał. Zwrot zatrzymanego dokumentu następuje niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie.
+Ministrowie Spraw Wewnętrznych i Administracji oraz Obrony Narodowej w porozumieniu z Ministrem Transportu i Gospodarki Morskiej oraz Szefem Urzędu Ochrony Państwa określą, w drodze rozporządzenia:
 
-6. Po ustaniu przyczyny uzasadniającej zatrzymanie dowodu rejestracyjnego (pozwolenia czasowego) i przekazaniu informacji o ustaniu tej przyczyny oraz okazaniu pokwitowania, o którym mowa w art. 38 ust. 1 pkt 4b lit. b, przez posiadacza zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego) organowi, który zatrzymał dowód rejestracyjny (pozwolenie czasowe), lub organowi, który go wydał, organ ten przekazuje do centralnej ewidencji pojazdów informację o zwrocie zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego).
+### 1)
 
-6a. Zwrotu zatrzymanego dowodu rejestracyjnego (pozwolenia czasowego) w przypadkach, o których mowa w ust. 1 pkt 1 i 2 oraz ust. 4, może dokonać również jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania, a w przypadku nieprawidłowo wyznaczonego terminu badania technicznego – po jego ponownym ustaleniu, przez przekazanie do centralnej ewidencji pojazdów informacji o zwrocie.
+jednostki organizacyjne sprawujące nadzór nad stacjami kontroli pojazdów oraz wydające upoważnienia do przeprowadzania badań technicznych, wzory dokumentów związanych z uzyskaniem upoważnień do wykonywania badań oraz wzór upoważnienia do ich przeprowadzania,
 
-7. W przypadku pojazdu zarejestrowanego za granicą uczestniczącego w ruchu na terytorium Rzeczypospolitej Polskiej, zwrot zatrzymanego dokumentu następuje niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie, z zastrzeżeniem art. 133.
+### 2)
 
-8. (uchylony)
+wymagania w stosunku do stacji kontroli pojazdów upoważnionych do przeprowadzania badań technicznych pojazdów,
 
-**Art. 132a.**
+### 3)
 
-1. Przepisy art. 132 ust. 1a pkt 1, 3, 4 i 7 stosuje się odpowiednio do profesjonalnego dowodu rejestracyjnego, o którym mowa w art. 80s ust. 1.
+wzory dokumentów stosowanych przy badaniach technicznych pojazdów,
 
-2. Policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby CelnoSkarbowej zatrzymuje również:
+### 4)
 
-- **1)** profesjonalny dowód rejestracyjny – w przypadku korzystania z profesjonalnego dowodu rejestracyjnego przez osobę do tego nieuprawnioną;
-- **2)** blankiet profesjonalnego dowodu rejestracyjnego – w przypadku wykonywania jazdy testowej z niewypełnionym blankietem profesjonalnego dowodu rejestracyjnego.
+warunki i terminy przeprowadzania badań technicznych pojazdów specjalnych Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji i innych pojazdów użytkowanych w sposób szczególny,
 
-3. W przypadku zatrzymania profesjonalnego dowodu rejestracyjnego policjant, funkcjonariusz Straży Granicznej albo funkcjonariusz Służby Celno-Skarbowej wydaje pokwitowanie. Może on zezwolić na dalsze używanie pojazdu przez okres 24 godzin, określając warunki tego używania w pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa w ust. 2, a także w art. 132 ust. 1 pkt 1 lit. a i c.
+### 5)
 
-4. Odpowiedni organ Policji, Straży Granicznej albo Krajowej Administracji Skarbowej przesyła niezwłocznie zatrzymany profesjonalny dowód rejestracyjny lub zatrzymany blankiet profesjonalnego dowodu rejestracyjnego staroście, który je wydał.
+warunki przeprowadzania badań technicznych niektórych pojazdów w stacjach kontroli pojazdów wymienionych w art. 83,
 
-**Art. 133.**
+### 6)
 
-1. W przypadku określonym w art. 132 ust. 1a pkt 6 odpowiedni organ Policji, Straży Granicznej albo Krajowej Administracji Skarbowej zwraca zatrzymany dokument po przedstawieniu dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie.
+jednostki organizacyjne prowadzące szkolenie diagnostów,
 
-2. Jeżeli z przedstawionego dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu wynika, że przed zatrzymaniem dowodu rejestracyjnego umowa ta nie była zawarta, warunkiem zwrotu zatrzymanego dokumentu jest dodatkowo wniesienie opłaty za niespełnienie obowiązku zawarcia umowy ubezpieczenia określonej w odrębnych przepisach.
+### 7)
 
-**Art. 134.** W stosunku do pojazdów Sił Zbrojnych Rzeczypospolitej Polskiej oraz innych pojazdów kierowanych przez żołnierzy pełniących czynną służbę wojskową uprawnienia i obowiązki policjantów określone w art. 132 ust. 1–2 i 5–7, art. 132a oraz w art. 133 wykonują również żołnierze Żandarmerii Wojskowej.
+warunki współdziałania jednostek organizacyjnych sprawujących nadzór nad stacjami kontroli pojazdów z wojewodami.
 
-**Art. 134a.** W stosunku do pojazdów wykonujących przewóz drogowy w rozumieniu ustawy z dnia 6 września 2001 r. o transporcie drogowym, a także w przypadku kontroli, o której mowa w art. 129a ust. 1 pkt 2–4, uprawnienia i obowiązki policjantów oraz organów Policji określone w art. 132 ust. 1–2 i 5–7, art. 132a oraz w art. 133 wykonują również odpowiednio inspektorzy Inspekcji Transportu Drogowego oraz organy tej inspekcji.
+### Dział IV Kierujący
 
-#### Rozdział 3 Zatrzymywanie praw jazdy i pozwoleń oraz cofanie i przywracanie uprawnień do kierowania pojazdami
+### Rozdział 1 Uprawnienia do kierowania
 
-**Art. 135.**
+### Art. 87.
 
-1. Policjant:
+### 1.
 
-- **1)** zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku: o kierujących pojazdami, zgodnie z art. 98a ust. 5 lub 7 tej ustawy,> [d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on przestępstwo przeciwko bezpieczeństwu w komunikacji lub trzy wykroczenia określone w art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2023 r. poz. 2119),] <d) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie próbnym, o którym mowa w art. 91 ust. 1 albo art. 92 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, popełnił on: – przestępstwo przeciwko bezpieczeństwu w komunikacji lub – trzy wykroczenia określone w: – – art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734), – – art. 90, art. 92 § 1 lub 2 lub art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w związku z niestosowaniem się odpowiednio do art. 25 ust. 1–3 lub znaków drogowych regulujących pierwszeństwo przejazdu, sygnałów świetlnych zakazujących wjazdu za sygnalizator lub poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli,>
-    - **a)** uzasadnionego podejrzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
-    - **b)** gdy upłynął termin ważności prawa jazdy, [c) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny, o którym mowa w art. 99 ust. 1 pkt 4 lit. a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,] <c) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od dnia wysłania informacji o obowiązku ukończenia kursu reedukacyjnego, o którym mowa w art. 98a ust. 3 ustawy z dnia 5 stycznia 2011 r.
-    - **e)** stwierdzenia braku dokumentu, o którym mowa w art. 38 ust. 1 pkt 3a lub 4a, lub prowadzenia pojazdu niewyposażonego w blokadę alkoholową w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, [f) popełnienia w okresie próbnym, o którym mowa w art. 91 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, trzech wykroczeń przeciwko bezpieczeństwu w komunikacji lub jednego przestępstwa przeciwko bezpieczeństwu w komunikacji;] <f) uzasadnionego podejrzenia, że kierujący pojazdem znajdujący się w okresie próbnym, o którym mowa w art. 91 ust. 1 albo art. 92 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, narusza zakaz, o którym mowa w art. 91 ust. 3 pkt 1 tej ustawy;>
+Kierującym może być osoba, która osiągnęła wymagany wiek i jest sprawna pod względem fizycznym i psychicznym oraz spełnia jeden z warunków określonych w pkt 1-3:
 
-- **2)** zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: [a) kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym lub] <a) kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym lub na drodze jednojezdniowej dwukierunkowej poza obszarem zabudowanym lub > przepis nie dotyczy przewozu osób autobusem w publicznym transporcie zbiorowym w gminnych, powiatowych i wojewódzkich przewozach pasażerskich w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2023 r. poz. 2778), o ile w pojeździe przewidziane są miejsca stojące, <c) kierowaniu pojazdem w sposób określony w art. 60 ust. 5;> 2a) zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku ujawnienia podczas kontroli drogowej, że kierowca wykonujący przewóz drogowy, do którego mają zastosowanie przepisy rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 (Dz. Urz. UE L 102 z 11.04.2006, str. 1, z późn. zm. ) lub umowy europejskiej dotyczącej pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzonej w Genewie dnia 1 lipca 1970 r., podczas bieżącego dziennego czasu prowadzenia pojazdu wykonywał ten przewóz pojazdem wyposażonym w tachograf:
-    - **b)** przewożeniu osób w liczbie przekraczającej liczbę miejsc określoną w dowodzie rejestracyjnym (pozwoleniu czasowym) lub wynikającą z konstrukcyjnego przeznaczenia pojazdu niepodlegającego rejestracji;
-    - **a)** wbrew obowiązkowi nie rejestrując za pomocą tachografu na wykresówce lub karcie kierowcy wskazań w zakresie prędkości pojazdu, aktywności kierowcy lub przebytej drogi,
-    - **b)** używając cudzej karty kierowcy, używając co najmniej dwóch własnych kart kierowcy, używając cudzej wykresówki, używając jednocześnie kilku wykresówek,
-    - **c)** korzystając z niedozwolonego urządzenia, przedmiotu lub zmienionego oprogramowania umożliwiającego lub powodującego podrabianie lub przerabianie danych rejestrowanych przez tachograf,
-    - **d)** jeżeli tachograf został odłączony;
+### 1)
 
-- **3)** może zatrzymać wydane w kraju prawo jazdy za pokwitowaniem w przypadku uzasadnionego podejrzenia, że kierowca popełnił przestępstwo lub wykroczenie, za które może być orzeczony zakaz prowadzenia pojazdów.
+posiada wymagane umiejętności do kierowania w sposób nie zagrażający bezpieczeństwu ruchu drogowego i nie narażający kogokolwiek na szkodę oraz wymagany dokument stwierdzający uprawnienie do kierowania pojazdem,
 
-2. Przepisu ust. 1 pkt 2 lit. b nie stosuje się, jeżeli liczba przewożonych osób w sposób, o którym mowa w tym przepisie, nie przekracza:
+### 2)
 
-- **1)** 5 – w przypadku przewożenia ich autobusem;
-- **2)** 2 – w przypadku przewożenia ich samochodem osobowym, samochodem ciężarowym lub w przyczepie ciągniętej przez ciągnik rolniczy lub pojazd wolnobieżny.
+odbywa, w ramach szkolenia, naukę jazdy odpowiednio przystosowanym pojazdem pod nadzorem instruktora,
 
-3. Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli kierujący pojazdem dopuścił się naruszenia, o którym mowa w tym przepisie, działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, jeżeli niebezpieczeństwa tego nie można było uniknąć inaczej, a poświęcone dobro w postaci bezpieczeństwa na drodze przedstawiało wartość niższą od dobra ratowanego.
+### 3)
 
-4. Pokwitowanie zatrzymania prawa jazdy z przyczyn, o których mowa w ust. 1 pkt 1 lit. b oraz pkt 3, uprawnia do kierowania pojazdem w ciągu 7 dni.
+zdaje egzamin państwowy odpowiednio przystosowanym pojazdem pod nadzorem egzaminatora.
 
-5. Pokwitowanie zatrzymania prawa jazdy z przyczyn, o których mowa w ust. 1 pkt 1 lit. c oraz f oraz pkt 2 i 2a, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania.
+### 2.
 
-6. W przypadku, o którym mowa w ust. 1 pkt 1 lit. e, w zakresie braku dokumentu, o którym mowa w art. 38 ust. 1 pkt 3a lub 4a, starosta wydaje zatrzymane prawo jazdy przez wprowadzenie do centralnej ewidencji kierowców informacji o zwrocie, po przedstawieniu brakującego dokumentu.
+Osoba niepełnosprawna pod względem fizycznym może być kierującym, jeżeli w wyniku badania lekarskiego nie stwierdzono przeciwwskazań zdrowotnych do kierowania pojazdem.
 
-**Art. 135a.**
+### 3.
 
-1. Policjant:
+Nie wymaga się uprawnienia do:
 
-- **1)** zatrzyma prawo jazdy wydane przez państwo inne niż Rzeczpospolita Polska za pokwitowaniem w przypadku: o kierujących pojazdami, zgodnie z art. 98a ust. 5 lub 7 tej ustawy,> [h) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on przestępstwo przeciwko bezpieczeństwu w komunikacji lub trzy wykroczenia określone w art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń,] <h) przekroczenia przez kierującego pojazdem w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy liczby 20 punktów za naruszenie przepisów ruchu drogowego lub stwierdzenia, na podstawie prawomocnych rozstrzygnięć, że w okresie 2 lat od dnia wydania po raz pierwszy prawa jazdy popełnił on: – przestępstwo przeciwko bezpieczeństwu w komunikacji lub – trzy wykroczenia określone w: – – art. 86 § 1, 1a lub 2, art. 86b § 1, art. 87 § 1, art. 92a § 2, art. 92b, art. 97a lub art. 98 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, – – art. 90, art. 92 § 1 lub 2 lub art. 97 ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń, w związku z niestosowaniem się odpowiednio do art. 25 ust. 1–3 lub znaków drogowych regulujących pierwszeństwo przejazdu, sygnałów świetlnych zakazujących wjazdu za sygnalizator lub poleceń i sygnałów dawanych przez osoby kierujące ruchem lub uprawnione do jego kontroli,>
-    - **a)** uzasadnionego podejrzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
-    - **b)** stwierdzenia zniszczenia prawa jazdy w stopniu powodującym jego nieczytelność,
-    - **c)** podejrzenia podrobienia lub przerobienia prawa jazdy,
-    - **d)** gdy upłynął termin ważności prawa jazdy,
-    - **e)** gdy wobec kierującego pojazdem wydane zostało postanowienie lub decyzja o zatrzymaniu prawa jazdy,
-    - **f)** gdy wobec kierującego pojazdem orzeczono zakaz prowadzenia pojazdów lub wydano decyzję o cofnięciu uprawnienia do kierowania pojazdami, [g) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny, o którym mowa w art. 99 ust. 1 pkt 4 lit. a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,] <g) przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od dnia wysłania informacji o obowiązku ukończenia kursu reedukacyjnego, o którym mowa w art. 98a ust. 3 ustawy z dnia 5 stycznia 2011 r.
-    - **i)** stwierdzenia braku dokumentu, o którym mowa w art. 38 ust. 1 pkt 3a lub 4a, lub prowadzenia pojazdu niewyposażonego w blokadę alkoholową w przypadku, o którym mowa w art. 13 ust. 5 pkt 7 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, [j) popełnienia w okresie próbnym, o którym mowa w art. 91 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami, trzech wykroczeń przeciwko bezpieczeństwu w komunikacji lub jednego przestępstwa przeciwko bezpieczeństwu w komunikacji;]
+### 1)
 
-- **2)** zatrzyma prawo jazdy wydane przez państwo inne niż Rzeczpospolita Polska za pokwitowaniem w przypadku ujawnienia czynu polegającego na: [a) kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym lub] <a) kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km/h na obszarze zabudowanym lub na drodze jednojezdniowej dwukierunkowej poza obszarem zabudowanym lub> przepis nie dotyczy przewozu osób autobusem w publicznym transporcie zbiorowym w gminnych, powiatowych i wojewódzkich przewozach pasażerskich w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym, o ile w pojeździe przewidziane są miejsca stojące, <c) kierowaniu pojazdem w sposób określony w art. 60 ust. 5;> 2a) zatrzyma prawo jazdy wydane przez państwo inne niż Rzeczpospolita Polska za pokwitowaniem w przypadku ujawnienia podczas kontroli drogowej, że kierowca wykonujący przewóz drogowy, do którego mają zastosowanie przepisy rozporządzenia (WE) nr 561/2006 Parlamentu Europejskiego i Rady z dnia 15 marca 2006 r. w sprawie harmonizacji niektórych przepisów socjalnych odnoszących się do transportu drogowego oraz zmieniającego rozporządzenia Rady (EWG) nr 3821/85 i (WE) 2135/98, jak również uchylającego rozporządzenie Rady (EWG) nr 3820/85 lub umowy europejskiej dotyczącej pracy załóg pojazdów wykonujących międzynarodowe przewozy drogowe (AETR), sporządzonej w Genewie dnia 1 lipca 1970 r., podczas bieżącego dziennego czasu prowadzenia pojazdu wykonywał ten przewóz pojazdem wyposażonym w tachograf:
-    - **b)** przewożeniu osób w liczbie przekraczającej liczbę miejsc określoną w dowodzie rejestracyjnym (pozwoleniu czasowym) lub wynikającą z konstrukcyjnego przeznaczenia pojazdu niepodlegającego rejestracji;
-    - **a)** wbrew obowiązkowi nie rejestrując za pomocą tachografu na wykresówce lub karcie kierowcy wskazań w zakresie prędkości pojazdu, aktywności kierowcy lub przebytej drogi,
-    - **b)** używając cudzej karty kierowcy, używając co najmniej dwóch własnych kart kierowcy, używając cudzej wykresówki, używając jednocześnie kilku wykresówek,
-    - **c)** korzystając z niedozwolonego urządzenia, przedmiotu lub zmienionego oprogramowania umożliwiającego lub powodującego podrabianie lub przerabianie danych rejestrowanych przez tachograf,
-    - **d)** jeżeli tachograf został odłączony;
+kierowania rowerem, motorowerem lub pojazdem zaprzęgowym od osoby, która ukończyła 18 lat,
 
-- **3)** może zatrzymać prawo jazdy wydane przez państwo inne niż Rzeczpospolita Polska za pokwitowaniem w przypadku uzasadnionego podejrzenia, że kierowca popełnił przestępstwo lub wykroczenie, za które może być orzeczony zakaz prowadzenia pojazdów.
+### 2)
 
-2. Przepisu ust. 1 pkt 2 lit. b nie stosuje się, jeżeli liczba przewożonych osób w sposób, o którym mowa w tym przepisie, nie przekracza:
+prowadzenia kolumny pieszych, jazdy wierzchem lub pędzenia zwierząt.
 
-- **1)** 5 – w przypadku przewożenia ich autobusem;
-- **2)** 2 – w przypadku przewożenia ich samochodem osobowym, samochodem ciężarowym lub w przyczepie ciągniętej przez ciągnik rolniczy lub pojazd wolnobieżny.
+### Art. 88.
 
-3. Przepisu ust. 1 pkt 2 nie stosuje się, jeżeli kierujący pojazdem dopuścił się naruszenia, o którym mowa w tym przepisie, działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, jeżeli niebezpieczeństwa tego nie można było uniknąć inaczej, a poświęcone dobro w postaci bezpieczeństwa na drodze przedstawiało wartość niższą od dobra ratowanego.
+### 1.
 
-4. Kierujący, o którym mowa w art. 136 ust. 3, jest obowiązany podać organowi kontroli ruchu drogowego adres do doręczeń. W przypadku niewskazania adresu do doręczeń stosuje się przepisy art. 40 § 4 i 5 Kodeksu postępowania administracyjnego, o czym poucza się kierującego.
+Dokumentem stwierdzającym uprawnienie do kierowania pojazdem silnikowym jest prawo jazdy określonej kategorii.
 
-5. Pokwitowanie zatrzymania prawa jazdy z przyczyn, o których mowa w ust. 1 pkt 1 lit. b–d oraz pkt 3, uprawnia do kierowania pojazdem w ciągu 7 dni.
+### 2.
 
-6. Pokwitowanie zatrzymania prawa jazdy z przyczyn, o których mowa w ust. 1 pkt 1 lit. g [oraz j] , a także pkt 2 i 2a, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania, a w przypadku, o którym mowa w art. 136 ust. 3 – w okresie 72 godzin.
+Prawo jazdy uprawnia do kierowania:
 
-7. W przypadku, o którym mowa w ust. 1 pkt 1 lit. i, w zakresie braku dokumentu, o którym mowa w art. 38 ust. 1 pkt 3a lub 4a, starosta wydaje zatrzymane prawo jazdy po przedstawieniu dokumentu.
+### 1)
 
-**Art. 135b.**
+kategorii A - motocyklem,
 
-1. Zatrzymanie wydanego w kraju prawa jazdy albo tymczasowego elektronicznego prawa jazdy następuje przez wprowadzenie informacji o zatrzymaniu do centralnej ewidencji kierowców niezwłocznie po stwierdzeniu wystąpienia przesłanek określonych w art. 135 ust. 1.
+### 2)
 
-2. Zatrzymanie prawa jazdy wydanego przez państwo inne niż Rzeczpospolita Polska następuje przez zatrzymanie okazanego dokumentu niezwłocznie po stwierdzeniu wystąpienia przesłanek określonych w art. 135a ust. 1.
+kategorii A1 - motocyklem o pojemności skokowej silnika nie przekraczającej 125 cm3 i mocy nie przekraczającej 11 kW,
 
-3. W przypadku gdy, zgodnie z danymi zgromadzonymi w centralnej ewidencji kierowców, osoba posiada ważne prawo jazdy oraz ważne tymczasowe elektroniczne prawo jazdy, informację o zatrzymaniu tego prawa jazdy przekazuje organ właściwy w zakresie prawa jazdy. Przekazanie do centralnej ewidencji kierowców danych o zatrzymaniu prawa jazdy skutkuje jednoczesnym automatycznym zatrzymaniem tymczasowego elektronicznego prawa jazdy.
+### 3)
 
-**Art. 135c.** Policjant zatrzyma kartę kwalifikacji kierowcy za pokwitowaniem w razie jej unieważnienia.
+kategorii B:
 
-**Art. 136.**
+### a)
 
-1. W przypadku, o którym mowa w art. 135b ust. 1, Policja przekazuje informację o zatrzymaniu prawa jazdy albo tymczasowego elektronicznego prawa jazdy do centralnej ewidencji kierowców oraz według właściwości:
+pojazdem samochodowym o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t, z wyjątkiem autobusu lub motocykla,
 
-- **1)** sądowi uprawnionemu do rozpoznania sprawy o wykroczenie lub prokuratorowi ‒ niezwłocznie, jednak nie później niż w terminie 7 dni od dnia zatrzymania prawa jazdy albo tymczasowego elektronicznego prawa jazdy – na piśmie utrwalonym w postaci papierowej albo elektronicznej;
-- **2)** staroście – niezwłocznie, jednak nie później niż w dniu zatrzymania prawa jazdy albo tymczasowego elektronicznego prawa jazdy.
+### b)
 
-1a. Informację, o której mowa w ust. 1 pkt 2, przekazuje się staroście za pośrednictwem systemu teleinformatycznego obsługującego centralną ewidencję kierowców przez jej automatyczne udostępnienie do pobrania za pomocą systemu teleinformatycznego umożliwiającego realizację zadań organów właściwych do wydawania dokumentów stwierdzających uprawnienia do kierowania pojazdami, o którym mowa w art. 16a ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami.
+pojazdem, o którym mowa w lit. a), z przyczepą o dopuszczalnej masie całkowitej nie przekraczającej masy własnej pojazdu ciągnącego, o ile łączna dopuszczalna masa całkowita zespołu tych pojazdów nie przekracza 3,5 t,
 
-2. W przypadku, o którym mowa w art. 135b ust. 2, zatrzymany dokument, z wyjątkiem przypadku określonego w art. 135a ust. 1 pkt 1 lit. c, Policja przekazuje niezwłocznie, jednak nie później niż w ciągu 7 dni od dnia zatrzymania dokumentu, według właściwości, sądowi uprawnionemu do rozpoznania sprawy o wykroczenie, prokuratorowi lub staroście.
+### c)
 
-3. Jeżeli prawo jazdy zostało wydane przez państwo inne niż Rzeczpospolita Polska i kierujący pojazdem nie ma miejsca zamieszkania na jej terytorium, prawo jazdy przekazuje się niezwłocznie staroście właściwemu ze względu na miejsce naruszenia przepisów prawa o ruchu drogowym. Starosta niezwłocznie przekazuje zatrzymane prawo jazdy do właściwego organu państwa, w którym zostało ono wydane.
+ciągnikiem rolniczym lub pojazdem wolnobieżnym,
 
-4. W przypadku przeprowadzenia badania krwi lub moczu dla oceny trzeźwości lub zawartości środka działającego podobnie do alkoholu:
+### 4)
 
-- **1)** w przypadku, o którym mowa w art. 135b ust. 1, informację o zatrzymaniu prawa jazdy przekazuje się wraz z wynikiem tego badania; jeżeli jednak wynik tego badania nie został uzyskany w ciągu 30 dni od dnia zatrzymania prawa jazdy, niezwłocznie wprowadza się do centralnej ewidencji kierowców informację o jego zwrocie;
-- **2)** w przypadku, o którym mowa w art. 135b ust. 2, prawo jazdy przekazuje się wraz z wynikiem tego badania; jeżeli jednak wynik tego badania nie został uzyskany w ciągu 30 dni od dnia zatrzymania prawa jazdy, niezwłocznie zwraca się je właścicielowi.
+kategorii B1 - trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nie przekraczającej 550 kg, z wyjątkiem motocykla,
 
-5. W przypadku, o którym mowa w art. 135c, zatrzymaną kartę kwalifikacji kierowcy Policja przekazuje niezwłocznie, nie później niż w ciągu 7 dni od dnia zatrzymania tej karty, staroście, który ją wydał.
+### 5)
 
-**Art. 137.**
+kategorii C - pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t, z wyjątkiem autobusu, a także ciągnikiem rolniczym lub pojazdem wolnobieżnym,
 
-1. Postanowienie o zatrzymaniu prawa jazdy, w przypadkach określonych w art. 135 ust. 1 pkt 1 lit. a oraz pkt 3 i w art. 135a ust. 1 pkt 1 lit. a oraz pkt 3, wydaje w terminie 14 dni odpowiednio od dnia otrzymania informacji o zatrzymaniu prawa jazdy albo od dnia otrzymania prawa jazdy:
+### 6)
 
-- **1)** prokurator – w toku postępowania przygotowawczego, a sąd – po przekazaniu sprawy do sądu;
-- **2)** w sprawie o wykroczenie – sąd właściwy do rozpoznania sprawy.
+kategorii C1 - pojazdem samochodowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t i nie przekraczającej 7,5 t, z wyjątkiem autobusu, a także ciągnikiem rolniczym lub pojazdem wolnobieżnym,
 
-2. O wydaniu postanowienia o zatrzymaniu prawa jazdy zawiadamia się właściwego starostę.
+### 7)
 
-3. Na postanowienie o zatrzymaniu prawa jazdy służy zażalenie.
+kategorii D - autobusem, ciągnikiem rolniczym lub pojazdem wolnobieżnym,
 
-4. W przypadku gdy nie wydano postanowienia o zatrzymaniu prawa jazdy, postanowienie o zwrocie zatrzymanego prawa jazdy wydaje odpowiednio:
+### 8)
 
-- **1)** prokurator, zawiadamiając o tym organ, który zatrzymał prawo jazdy;
-- **2)** sąd, przy czym w przypadku prawa jazdy wydanego w kraju o wydaniu postanowienia sąd zawiadamia organ, który wydał prawo jazdy. <4a. W przypadku gdy w następstwie rozpatrzenia zażalenia wydano postanowienie o zwrocie zatrzymanego prawa jazdy, ust. 4 stosuje się odpowiednio.>
+kategorii D1 - autobusem przeznaczonym konstrukcyjnie do przewozu nie więcej niż 17 osób łącznie z kierowcą, a także ciągnikiem rolniczym lub pojazdem wolnobieżnym,
 
-5. Postanowienie o zwrocie zatrzymanego prawa jazdy doręcza się jego właścicielowi.
+### 9)
 
-6. Zwrot zatrzymanego prawa jazdy wydanego w kraju następuje przez wprowadzenie informacji o zwrocie do centralnej ewidencji kierowców:
+kategorii T - ciągnikiem rolniczym z przyczepą (przyczepami) lub pojazdem wolnobieżnym,
 
-- **1)** przez organ, który je zatrzymał – po otrzymaniu zawiadomienia o wydaniu przez prokuratora postanowienia o zwrocie zatrzymanego prawa jazdy lub po okazaniu tego postanowienia;
-- **2)** przez organ, który je wydał – po otrzymaniu zawiadomienia o wydaniu przez sąd postanowienia o zwrocie zatrzymanego prawa jazdy lub po okazaniu tego postanowienia.
+### 10)
 
-**Art. 138.** (uchylony)
+kategorii B+E, C+E lub D+E - pojazdem określonym odpowiednio w kategorii B, C lub D, łącznie z przyczepą,
 
-**Art. 139.**
+### 11)
 
-1. Przepisy art. 135 i art. 135b–137 dotyczące wydanego w kraju prawa jazdy stosuje się odpowiednio do pozwolenia na kierowanie tramwajem.
+kategorii C1+E - zespołem pojazdów o dopuszczalnej masie całkowitej nie przekraczającej 12 t, składającym się z pojazdu ciągnącego określonego w kategorii C1 i przyczepy o dopuszczalnej masie całkowitej nie przekraczającej masy własnej pojazdu ciągnącego,
 
-2. Przepisu art. 135–135b nie stosuje się do szefów i cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych państw obcych oraz misji specjalnych i organizacji międzynarodowych korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, a także do innych osób korzystających z tych przywilejów i immunitetów.
+### 12)
 
-3. W stosunku do żołnierzy pełniących czynną służbę wojskową oraz innych osób kierujących pojazdami Sił Zbrojnych Rzeczypospolitej Polskiej uprawnienia i obowiązki policjantów określone w art. 135 ust. 1, art. 135a ust. 1, art. 135b, art. 136 ust. 1 i 2 oraz art. 137 ust. 6 pkt 1 wykonują również żołnierze Żandarmerii Wojskowej.
+kategorii D1+E - zespołem pojazdów o dopuszczalnej masie całkowitej nie przekraczającej 12 t, składającym się z pojazdu ciągnącego określonego w kategorii D1 i przyczepy o dopuszczalnej masie całkowitej nie przekraczającej masy własnej pojazdu ciągnącego.
 
-4. W przypadku kontroli, o której mowa w art. 129a ust. 1, uprawnienia i obowiązki policjantów określone w art. 135 ust. 1, art. 135a ust. 1, art. 135b, art. 135c, art. 136 ust. 1, 2 i 5 oraz art. 137 ust. 6 pkt 1 wykonują w stosunku do kierujących pojazdami również inspektorzy Inspekcji Transportu Drogowego.
+### 3.
 
-5. Przepisy art. 130a ust. 1 pkt 6, art. 135 ust. 1 pkt 1 lit. a i d, pkt 2, 2a i 3, ust. 4 i 5, art. 136 ust. 4 pkt 1 i art. 137 dotyczące wydanego w kraju prawa jazdy stosuje się odpowiednio do tymczasowego elektronicznego prawa jazdy.
+Prawo jazdy:
 
-**Art. 140.** (uchylony)
+### 1)
 
-**Art. 140a.** (uchylony)
+kategorii B i C+E lub B i D+E - uprawnia do kierowania zespołem pojazdów określonych w kategorii B+E,
 
-#### Rozdział 4 Kary pieniężne za przejazd pojazdów nienormatywnych bez zezwolenia lub niezgodnie z warunkami określonymi w zezwoleniu
+### 2)
 
-### DZIAŁ Va Działania na rzecz bezpieczeństwa ruchu drogowego
+kategorii C+E i D - uprawnia do kierowania zespołem pojazdów określonych w kategorii D+E,
 
-**Art. 140b.**
+### 3)
 
-1. Tworzy się Krajową Radę Bezpieczeństwa Ruchu Drogowego, zwaną dalej „Krajową Radą”.
+kategorii A, B, B1, C, C1, D lub D1 - uprawnia do kierowania pojazdem w nich wymienionym z przyczepą lekką,
 
-2. Krajowa Rada działa przy ministrze właściwym do spraw transportu jako międzyresortowy organ pomocniczy Rady Ministrów w sprawach bezpieczeństwa ruchu drogowego.
+### 4)
 
-**Art. 140c.**
+kategorii B+E, C+E, C1+E, D+E lub D1+E - uprawnia do kierowania ciągnikiem rolniczym z przyczepą (przyczepami).
 
-1. Krajowa Rada określa kierunki i koordynuje działania administracji rządowej w sprawach bezpieczeństwa ruchu drogowego.
+### 4.
 
-2. Do zadań Krajowej Rady w zakresie poprawy bezpieczeństwa ruchu drogowego należy w szczególności:
+Warunkiem uzyskania prawa jazdy kategorii C, C1, D lub D1 jest posiadanie prawa jazdy kategorii B.
 
-- **1)** proponowanie kierunków polityki państwa;
-- **2)** opracowywanie programów poprawy bezpieczeństwa ruchu drogowego w oparciu o propozycje przedstawiane przez właściwych ministrów i ocena ich realizacji;
-- **3)** inicjowanie badań naukowych;
-- **4)** inicjowanie i opiniowanie projektów aktów prawnych oraz umów międzynarodowych;
-- **5)** inicjowanie kształcenia kadr administracji publicznej;
-- **6)** inicjowanie współpracy zagranicznej;
-- **7)** współpraca z właściwymi organizacjami społecznymi i instytucjami pozarządowymi;
-- **8)** inicjowanie działalności edukacyjno-informacyjnej;
-- **9)** analizowanie i ocena podejmowanych działań;
-- **10)** ustalanie, co najmniej raz na trzy lata, średniego kosztu społeczno-ekonomicznego wypadku drogowego, w którym jest zabity, oraz średniego kosztu społeczno-ekonomicznego wypadku drogowego, w którym osoba doznała obrażeń ciała w rozumieniu art. 156 § 1 albo art. 157 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, powstałego na drogach, o których mowa w art. 24ga ust. 1 pkt 1 i 2 ustawy z dnia 21 marca 1985 r. o drogach publicznych.
+### 5.
 
-3. Przy ustalaniu średniego kosztu społeczno-ekonomicznego wypadków drogowych, o których mowa w ust. 2 pkt 10, uwzględnia się:
+Warunkiem uzyskania prawa jazdy kategorii B+E, C+E, C1+E, D+E lub D1+E jest posiadanie odpowiednio prawa jazdy kategorii B, C, C1, D lub D1.
 
-- **1)** utratę produktywności zabitych i rannych w wypadkach drogowych;
-- **2)** koszty leczenia i rehabilitacji poszkodowanych w wypadkach drogowych;
-- **3)** koszty administracyjne wypadków drogowych;
-- **4)** straty materialne powstałe w wyniku wypadków drogowych.
+### 6.
 
-**Art. 140d.** W skład Krajowej Rady wchodzą:
+Ministrowie Obrony Narodowej oraz Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej mogą określić, w drodze rozporządzenia, w sposób odmienny od przepisów ust. 2 i 3, wymagane uprawnienia do kierowania przez żołnierzy zasadniczej służby wojskowej pojazdami specjalnymi Sił Zbrojnych lub jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji.
 
-**Art. 140e.**
+### Art. 89.
 
-1. Przewodniczący Krajowej Rady kieruje jej pracami i reprezentuje ją na zewnątrz.
+### 1.
 
-2. Przewodniczący Krajowej Rady otrzymuje od ministrów i innych organów, których przedstawiciele są członkami Krajowej Rady:
+Do kierowania:
 
-- **1)** sprawozdania i informacje dotyczące realizacji zadań określonych w programach bezpieczeństwa ruchu drogowego;
-- **2)** informacje dotyczące stanu bezpieczeństwa ruchu drogowego, w szczególności informacje umożliwiające ustalanie średniego kosztu społeczno-ekonomicznego wypadków, o których mowa w art. 140c ust. 2 pkt 10.
+### 1)
 
-3. Przewodniczący Krajowej Rady składa Radzie Ministrów corocznie, do końca marca, sprawozdanie dotyczące stanu bezpieczeństwa ruchu drogowego oraz działań realizowanych w tym zakresie.
+samochodem ciężarowym lub zespołem pojazdów o dopuszczalnej masie całkowitej przekraczającej 24 t, pojazdem uprzywilejowanym oraz taksówką osobową - jest uprawniona osoba posiadająca prawo jazdy odpowiedniej kategorii przez okres co najmniej 3 lat; kierujący taksówką osobową powinien również znać topografię miejscowości, w której prowadzi lub zamierza prowadzić działalność,
 
-4. Prezes Rady Ministrów składa Sejmowi, Senatowi i Prezydentowi corocznie, do końca kwietnia, sprawozdanie dotyczące stanu bezpieczeństwa ruchu drogowego oraz działań realizowanych w tym zakresie.
+### 2)
 
-**Art. 140f.**
+ciągnikiem rolniczym przewożącym dzieci w ciągniętej przyczepie - jest uprawniona osoba posiadająca prawo jazdy odpowiedniej kategorii przez okres co najmniej 2 lat,
 
-1. Krajowa Rada wykonuje swoje zadania przy pomocy Sekretariatu Krajowej Rady.
+### 3)
 
-2. Sekretariat Krajowej Rady działa jako wewnętrzna jednostka organizacyjna ministra właściwego do spraw transportu.
+pojazdem lub zespołem pojazdów przewożącym materiały niebezpieczne - jest uprawniona osoba posiadająca prawo jazdy odpowiedniej kategorii przez okres co najmniej 3 lat oraz ukończony kurs dokształcający kierowców pojazdów przewożących materiały niebezpieczne.
 
-3. Szczegółową organizację i tryb prac Krajowej Rady określa regulamin przyjęty w drodze uchwały na pierwszym posiedzeniu Krajowej Rady.
+### 2.
 
-**Art. 140g.**
+Znajomość topografii sprawdza komisja powołana przez kierownika rejonowego urzędu rządowej administracji ogólnej.
 
-1. Tworzy się Wojewódzką Radę Bezpieczeństwa Ruchu Drogowego, zwaną dalej „Wojewódzką Radą”.
+### 3.
 
-2. Wojewódzka Rada działa przy marszałku województwa jako wojewódzki zespół koordynacyjny w sprawach bezpieczeństwa ruchu drogowego.
+Osoby, o których mowa w ust. 1 oraz w art. 106 ust. 2, art. 111 ust. 2, art. 122 ust. 2 i art. 124 ust. 1 pkt 1 i 2, są obowiązane uzyskać świadectwo kwalifikacji potwierdzające spełnienie dodatkowych wymagań określonych w tych przepisach. Świadectwo kwalifikacji wydaje za opłatą kierownik rejonowego urzędu rządowej administracji ogólnej na okres wynikający z art. 122 ust. 2.
 
-**Art. 140h.**
+### 4.
 
-1. Wojewódzka Rada koordynuje i określa kierunki działań administracji publicznej w sprawach bezpieczeństwa ruchu drogowego.
+W odniesieniu do kierujących pojazdami Sił Zbrojnych, jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych i Administracji, Policji i Straży Granicznej, wymagane jest posiadanie prawa jazdy, o którym mowa w ust. 1 pkt 1 i 3, przez okres co najmniej 1 roku.
 
-2. Do zadań Wojewódzkiej Rady w zakresie, o którym mowa w ust. 1, należy w szczególności:
+### 5.
 
-- **1)** opracowywanie regionalnych programów poprawy bezpieczeństwa ruchu drogowego;
-- **2)** opiniowanie projektów aktów prawa miejscowego w zakresie bezpieczeństwa ruchu drogowego;
-- **3)** zatwierdzanie planu wydatków wojewódzkich ośrodków ruchu drogowego w części przeznaczonej na poprawę bezpieczeństwa ruchu drogowego;
-- **4)** inicjowanie kształcenia kadr administracji publicznej i szkolenie w zakresie bezpieczeństwa ruchu drogowego;
-- **5)** inicjowanie współpracy międzywojewódzkiej;
-- **6)** współpraca z właściwymi organizacjami społecznymi i instytucjami pozarządowymi;
-- **7)** inicjowanie działalności edukacyjno-informacyjnej;
-- **8)** analizowanie i ocena podejmowanych działań.
+Kurs dokształcający, o którym mowa w ust. 1 pkt 3, jest prowadzony w jednostce upoważnionej przez wojewodę.
 
-3. Szczegółową organizację i tryb pracy Wojewódzkiej Rady określa regulamin przyjęty przez radę w drodze uchwały.
+### 6.
 
-**Art. 140i.** W skład Wojewódzkiej Rady wchodzą:
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia:
 
-**Art. 140j.**
+### 1)
 
-1. Przewodniczący Wojewódzkiej Rady kieruje jej pracami i reprezentuje ją na zewnątrz.
+warunki udzielania i cofania upoważnień do prowadzenia kursów dokształcających kierowców pojazdów przewożących materiały niebezpieczne,
 
-2. Przewodniczący Wojewódzkiej Rady otrzymuje od organów, których przedstawiciele są członkami Wojewódzkiej Rady:
+### 2)
 
-- **1)** sprawozdania i informacje dotyczące realizacji zadań określonych w programach bezpieczeństwa ruchu drogowego;
-- **2)** informacje dotyczące stanu bezpieczeństwa ruchu drogowego.
+zakres i warunki prowadzenia kursów dokształcających,
 
-3. Przewodniczący Wojewódzkiej Rady składa Przewodniczącemu Krajowej Rady corocznie, do końca stycznia, sprawozdanie dotyczące stanu bezpieczeństwa ruchu drogowego na terenie województwa oraz działań realizowanych w tym zakresie.
+### 3)
 
-**Art. 140k.** Obsługę Wojewódzkiej Rady zapewnia wyznaczony przez marszałka województwa wojewódzki ośrodek ruchu drogowego.
+ramowy program kursu dokształcającego,
 
-**Art. 140l.** W pracach Krajowej Rady i Wojewódzkiej Rady mogą brać udział z głosem doradczym:
+### 4)
 
-### DZIAŁ Vb Kary pieniężne
+wzory dokumentów stosowanych w związku z dokształcaniem kierowców przewożących materiały niebezpieczne.
 
-**Art. 140m.** (uchylony) Art. 140ma. 1. Podmiot uprawniony, który:
+### Art. 90.
 
-**Art. 140n.**
+### 1.
 
-1. Kary pieniężne, w sprawach określonych w art. 140ma i art. 140mb, są nakładane w drodze decyzji administracyjnej.
+Prawo jazdy otrzymuje osoba, jeżeli:
 
-2. Kary pieniężne, o których mowa w art. 140ma i art. 140mb, nakłada starosta.
+### 1)
 
-2a. (uchylony)
+osiągnęła wymagany dla danej kategorii wiek,
 
-3. Kary pieniężne, o których mowa w art. 140ma i art. 140mb, stanowią dochód powiatu.
+### 2)
 
-3a. (uchylony)
+uzyskała orzeczenie lekarskie o braku przeciwwskazań zdrowotnych do kierowania pojazdem,
 
-4. (uchylony)
+### 3)
 
-5. Kary pieniężne są wnoszone na odrębny rachunek bankowy starostwa, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary pieniężnej stała się ostateczna.
+odbyła wymagane szkolenie,
 
-6. Do kar pieniężnych, o których mowa w art. 140ma i art. 140mb, przepisów art. 189d‒189f ustawy z dnia 14 czerwca 1960 r. ‒ Kodeks postępowania administracyjnego nie stosuje się.
+### 4)
 
-7. Jeżeli czyn będący naruszeniem, o którym mowa w art. 140mb, wyczerpuje jednocześnie znamiona wykroczenia, w stosunku do podmiotu będącego osobą fizyczną stosuje się wyłącznie przepisy o odpowiedzialności administracyjnej.
+zdała z wynikiem pozytywnym egzamin państwowy.
 
-### DZIAŁ Vc Przetwarzanie danych osobowych
+### 2.
 
-**Art. 140o.** Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), nie wpływa na przebieg i wynik kontroli, o których mowa w art. 129 ust. 1, 4 i 4a, art. 129a ust. 1, art. 129b ust. 1, art. 129c ust. 1 oraz art. 129d ust. 1, ani na uprawnienie właściwego organu do nałożenia kary.
+Wymagany dla danej kategorii wiek wynosi:
 
-### DZIAŁ VI Zmiany w przepisach obowiązujących, przepisy epizodyczne, przejściowe i końcowe
+### 1)
 
-**Art. 144.** (uchylony) Art. 145–148. (pominięte) [Art. 148a. 1. Do dnia 31 grudnia 2027 r. dopuszcza się poruszanie się pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych wodorem, o których mowa w art. 2 pkt 15 tej ustawy, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów. 2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.] < Art. 148a. 1. Do dnia 1 stycznia 2028 r. dopuszcza się poruszanie się pojazdów elektrycznych, o których mowa w art. 2 pkt 12 ustawy z dnia 11 stycznia 2018 r. o elektromobilności i paliwach alternatywnych, oraz pojazdów napędzanych wodorem, o których mowa w art. 2 pkt 15 tej ustawy, oraz motocykli, o których mowa w art. 2 pkt 45, po wyznaczonych przez zarządcę drogi pasach ruchu dla autobusów. 2. Zarządca drogi może uzależnić poruszanie się pojazdów elektrycznych oraz motocykli po wyznaczonych pasach ruchu dla autobusów od liczby osób poruszających się tymi pojazdami.>
+16 lat - dla kategorii A1, B1 lub T,
 
-**Art. 148b.**
+### 2)
 
-1. Od dnia 1 lipca 2018 r. do dnia 31 grudnia 2019 r. pojazdy elektryczne i pojazdy napędzane wodorem oznacza się nalepką wskazującą na rodzaj paliwa wykorzystywanego do ich napędu umieszczaną na przedniej szybie pojazdu według wzoru określonego w przepisach wydanych na podstawie art. 76 ust. 1 pkt 1.
+17 lat - dla kategorii A lub B,
 
-2. Nalepkę, o której mowa w ust. 1, wydaje wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce zamieszkania albo siedziby właściciela pojazdu.
+### 3)
 
-**Art. 149.** Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw wewnętrznych oraz Ministrem Sprawiedliwości, kierując się potrzebą zapewnienia stabilnego obrotu pojazdami samochodowymi, może określić, w drodze rozporządzenia:
+18 lat - dla kategorii B+E, C, C+E, C1 lub C1+E,
 
-**Art. 150.**
+### 4)
 
-1. Prawa jazdy i inne dokumenty uprawniające do kierowania pojazdami lub potwierdzające dodatkowe kwalifikacje i wymagania w stosunku do kierujących pojazdami, wydane na podstawie dotychczasowych przepisów, zachowują ważność do czasu ich wymiany dokonywanej na koszt osoby uprawnionej w zakresie, na jaki zostały wydane.
+21 lat - dla kategorii D, D+E, D1 lub D1+E, z zastrzeżeniem ust. 4.
 
-2. Minister właściwy do spraw transportu, uwzględniając wszystkie wydawane przed dniem wejścia w życie ustawy dokumenty uprawniające do kierowania pojazdem oraz koszty związane z ich wymianą, określi, w drodze rozporządzenia, warunki i terminy wymiany praw jazdy i innych dokumentów uprawniających do kierowania pojazdami lub potwierdzających dodatkowe kwalifikacje kierujących pojazdami oraz wysokość opłat za ich wymianę.
+### 3.
 
-**Art. 151.**
+Osoba, która nie ukończyła 18 lat, może uzyskać prawo jazdy kategorii A, A1, B, B1 lub T za zgodą rodziców lub opiekuna.
 
-1. Traci moc ustawa z dnia 1 lutego 1983 r. – Prawo o ruchu drogowym (Dz. U. z 1992 r. poz. 41 i 114 oraz z 1995 r. poz. 515), z wyjątkiem art. 60, 69–70 i 72–82, które tracą moc z dniem 30 czerwca 1999 r.
+### 4.
 
-2. (pominięty)
+Wymagany wiek do uzyskania prawa jazdy kategorii D lub D1 przez żołnierza zasadniczej służby wojskowej posiadającego prawo jazdy kategorii B wynosi 19 lat.
 
-**Art. 152.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem:
+### Art. 91.
 
+Prawo jazdy nie może być wydane osobie:
+
+### 1)
+
+u której w wyniku badania lekarskiego stwierdzono aktywną formę uzależnienia od alkoholu lub środka działającego podobnie do alkoholu,
+
+### 2)
+
+w stosunku do której orzeczony został - prawomocnym wyrokiem sądu, orzeczeniem kolegium do spraw wykroczeń lub orzeczeniem innego organu uprawnionego do orzekania w sprawach o wykroczenia w trybie dyscyplinarnym - zakaz prowadzenia pojazdów mechanicznych - w okresie obowiązywania tego zakazu.
+
+### Art. 92.
+
+Prawo jazdy może zawierać ograniczenie wynikające ze stanu zdrowia kierowcy lub możliwości prowadzenia określonego pojazdu.
+
+### Art. 93.
+
+### 1.
+
+Prawo jazdy, z wyjątkiem prawa jazdy kategorii T, uprawnia do kierowania określonym w nim pojazdem w ruchu międzynarodowym, chyba że władze danego państwa wymagają, aby kierowca posiadał międzynarodowe prawo jazdy.
+
+### 2.
+
+Międzynarodowe prawo jazdy jest wydawane za opłatą przez każdego kierownika rejonowego urzędu rządowej administracji ogólnej. Międzynarodowe prawo jazdy jest wydawane na podstawie krajowego prawa jazdy na okres 3 lat. Okres jego ważności nie może jednak przekraczać terminu ważności krajowego prawa jazdy.
+
+### Art. 94.
+
+### 1.
+
+Osoba posiadająca krajowe prawo jazdy wydane za granicą, określone w konwencjach o ruchu drogowym, może kierować odpowiednim pojazdem silnikowym na terytorium Rzeczypospolitej Polskiej w okresie 6 miesięcy od daty rozpoczęcia stałego lub czasowego pobytu.
+
+### 2.
+
+Osoba posiadająca krajowe prawo jazdy wydane za granicą może otrzymać prawo jazdy odpowiedniej kategorii po oddaniu zagranicznego dokumentu organowi wydającemu prawo jazdy, z zastrzeżeniem ust. 4. Jeżeli prawo jazdy wydane za granicą nie jest określone w konwencjach o ruchu drogowym, dodatkowym warunkiem otrzymania polskiego prawa jazdy jest zdanie części teoretycznej egzaminu państwowego i przedstawienie uwierzytelnionego tłumaczenia zagranicznego dokumentu.
+
+### 3.
+
+Jeżeli prawo jazdy wydane za granicą zawiera ograniczenie terminu ważności, ograniczenie ze względu na stan zdrowia lub inne, należy to ograniczenie uwzględnić w wydanym prawie jazdy.
+
+### 4.
+
+Minister Transportu i Gospodarki Morskiej może określić, w drodze rozporządzenia, w stosunku do obywateli niektórych państw, ze względu na zasadę wzajemności, warunki wydawania praw jazdy odmienne niż te, które przewiduje ust. 2.
+
+### Art. 95.
+
+### 1.
+
+Dokumentem stwierdzającym uprawnienie do kierowania tramwajem jest pozwolenie.
+
+### 2.
+
+Pozwolenie może uzyskać osoba, która ukończyła 20 lat, u której w wyniku badania lekarskiego nie stwierdzono przeciwwskazań zdrowotnych do kierowania pojazdem, odbyła wymagane szkolenie i zdała egzamin państwowy z wynikiem pozytywnym.
+
+### 3.
+
+Przepis art. 91 stosuje się odpowiednio do osoby ubiegającej się o pozwolenie.
+
+### Art. 96.
+
+### 1.
+
+Dokumentem stwierdzającym uprawnienie do kierowania przez osobę, która nie ukończyła 18 lat:
+
+### 1)
+
+rowerem - jest karta rowerowa, motorowerowa lub prawo jazdy,
+
+### 2)
+
+motorowerem - jest karta motorowerowa lub prawo jazdy,
+
+### 3)
+
+pojazdem zaprzęgowym - jest prawo jazdy, karta motorowerowa lub rowerowa, jeżeli osoba uprawniona ukończyła 15 lat.
+
+### 2.
+
+Kartę rowerową lub motorowerową może uzyskać osoba, która wykazała się niezbędnymi kwalifikacjami i osiągnęła wymagany wiek: 10 lat w przypadku karty rowerowej i 13 lat w przypadku karty motorowerowej.
+
+### 3.
+
+Kierować rowerem wieloosobowym oraz przewozić na rowerze inną osobę może osoba, która ukończyła 17 lat, a kierować po jezdni wózkiem inwalidzkim poruszanym siłą mięśni kierującego - osoba, która ukończyła 13 lat.
+
+### Art. 97.
+
+### 1.
+
+Dokument stwierdzający uprawnienie do kierowania pojazdem wydaje, za opłatą, kierownik rejonowego urzędu rządowej administracji ogólnej właściwy ze względu na miejsce zamieszkania osoby ubiegającej się, a w uzasadnionych przypadkach - właściwy ze względu na miejsce czasowego pobytu, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Kartę rowerową lub motorowerową wydaje nieodpłatnie dyrektor szkoły podstawowej lub ponadpodstawowej.
+
+### 3.
+
+Szefom i cudzoziemskiemu personelowi przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, oraz innym osobom korzystającym z tych przywilejów i immunitetów uprawnienie do kierowania pojazdem wydaje Wojewoda Warszawski na wniosek Ministra Spraw Zagranicznych.
+
+### 4.
+
+Kierujący może posiadać tylko jedno ważne krajowe prawo jazdy lub pozwolenie do kierowania tramwajem.
+
+### Art. 98.
+
+### 1.
+
+Kierujący pojazdem jest obowiązany zawiadomić kierownika rejonowego urzędu rządowej administracji ogólnej w terminie nie przekraczającym 30 dni o zmianie stanu faktycznego wymagającego zmiany danych zawartych w dokumencie uprawniającym do kierowania pojazdem lub o jego utracie.
+
+### 2.
+
+W razie utraty dokumentu stwierdzającego uprawnienie do kierowania pojazdem, jego wtórnik może być wydany, jeżeli posiadacz złoży oświadczenie o utracie tego dokumentu pod rygorem odpowiedzialności karnej za fałszywe zeznania.
+
+### 3.
+
+W razie odzyskania utraconego dokumentu, o którym mowa w ust. 2, wtórnik zwraca się do organu, który go wydał.
+
+### Art. 99.
+
+### 1.
+
+Tworzy się centralną ewidencję osób posiadających uprawnienia do kierowania pojazdami. Ewidencję prowadzi jednostka podległa Ministrowi Spraw Wewnętrznych i Administracji
+
+### 2.
+
+W centralnej ewidencji osób posiadających uprawnienia do kierowania pojazdami wpisuje się informację o uprawnieniu uzyskanym przez osobę.
+
+### 3.
+
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i sposób prowadzenia centralnej ewidencji osób posiadających uprawnienia do kierowania pojazdami oraz warunki współdziałania państwowych jednostek organizacyjnych w tym zakresie,
+
+### 2)
+
+warunki i sposób korzystania z informacji zawartych w centralnej ewidencji osób posiadających uprawnienia do kierowania pojazdami,
+
+### 3)
+
+warunki odpłatności za korzystanie z informacji zawartych w centralnej ewidencji osób posiadających uprawnienia do kierowania pojazdami oraz podmioty zwolnione od opłat.
+
+### Art. 100.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrem Spraw Wewnętrznych i Administracji określi:
+
+### 1)
+
+w drodze rozporządzenia, wzory dokumentów stwierdzających uprawnienia do kierowania pojazdami oraz ich opis,
+
+### 2)
+
+w drodze zarządzenia, szczegółowe czynności organów w sprawach związanych z wydawaniem uprawnień do kierowania oraz wzory dokumentów w tych sprawach.
+
+### Rozdział 2 Szkolenie i egzaminowanie
+
+### Art. 101.
+
+Osoba ubiegająca się o uprawnienie do kierowania pojazdem silnikowym albo tramwajem może rozpocząć szkolenie najwcześniej 3 miesiące przed osiągnięciem wieku wymaganego do uzyskania prawa jazdy albo pozwolenia, a jeżeli osobą tą jest uczeń szkoły, której program nauczania obejmuje szkolenie osób ubiegających się o prawo jazdy, okres ten wynosi 12 miesięcy.
+
+### Art. 102.
+
+Szkolenie osoby ubiegającej się o uprawnienie do kierowania pojazdem silnikowym albo tramwajem jest prowadzone w jednostce albo szkole posiadającej zezwolenie wydane przez kierownika rejonowego urzędu rządowej administracji ogólnej.
+
+### Art. 103.
+
+### 1.
+
+Kierownik rejonowego urzędu rządowej administracji ogólnej wydaje zezwolenie na prowadzenie szkolenia, jeżeli jednostka lub szkoła:
+
+### 1)
+
+posiada wymagane warunki lokalowe, wyposażenie dydaktyczne, plac do wykonywania manewrów oraz co najmniej jeden pojazd przystosowany do nauki jazdy,
+
+### 2)
+
+zatrudnia co najmniej jednego instruktora, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Jeżeli jednostką szkolącą jest osoba fizyczna, warunek określony w ust. 1 pkt 2 uważa się za spełniony, gdy osoba ta jest równocześnie instruktorem.
+
+### Art. 104.
+
+### 1.
+
+Kierownik rejonowego urzędu rządowej administracji ogólnej cofa jednostce lub szkole zezwolenie na prowadzenie szkolenia, jeżeli:
+
+### 1)
+
+nie spełnia wymaganych warunków, o których mowa w art. 103,
+
+### 2)
+
+prowadzi szkolenie w sposób niezgodny z przepisami,
+
+### 3)
+
+wydała niezgodnie ze stanem faktycznym zaświadczenie o ukończeniu szkolenia.
+
+### 2.
+
+W przypadku cofnięcia zezwolenia na prowadzenie szkolenia z przyczyn określonych w ust. 1 pkt 2 i 3, ponowne zezwolenie nie może być wydane wcześniej niż po upływie 2 lat od dnia, w którym decyzja o cofnięciu stała się ostateczna.
+
+### Art. 105.
+
+### 1.
+
+Szkolenie osoby ubiegającej się o uprawnienie do kierowania pojazdem silnikowym albo tramwajem jest prowadzone przez instruktora, z zastrzeżeniem ust. 3.
+
+### 2.
+
+Instruktorem jest osoba, która:
+
+### 1)
+
+ma co najmniej wykształcenie średnie,
+
+### 2)
+
+posiada, przez okres co najmniej 3 lat, uprawnienie do kierowania pojazdami rodzaju objętego szkoleniem,
+
+### 3)
+
+potwierdziła wymagany stan zdrowia i predyspozycje psychiczne odpowiednim orzeczeniem,
+
+### 4)
+
+ukończyła kurs kwalifikacyjny w jednostce upoważnionej przez wojewodę,
+
+### 5)
+
+zdała egzamin przed komisją powołaną przez wojewodę,
+
+### 6)
+
+nie była karana wyrokiem sądu lub orzeczeniem kolegium do spraw wykroczeń za przestępstwo lub wykroczenie przeciwko bezpieczeństwu w ruchu drogowym,
+
+### 7)
+
+została wpisana do ewidencji instruktorów.
+
+### 3.
+
+Szkolenie w zakresie udzielania pomocy przedlekarskiej jest prowadzone przez osobę, która spełnia co najmniej jeden z warunków określonych w pkt 1-3:
+
+### 1)
+
+wykonuje zawód lekarza lub pielęgniarki,
+
+### 2)
+
+posiada kwalifikacje instruktora Polskiego Czerwonego Krzyża,
+
+### 3)
+
+posiada kwalifikacje ratownika medycznego.
+
+### Art. 106.
+
+### 1.
+
+Kierownik rejonowego urzędu rządowej administracji ogólnej dokonuje wpisu osoby do ewidencji instruktorów, jeżeli spełnia ona warunki określone w art. 105 ust. 2 pkt 1-6 i wydaje jej legitymację instruktora.
+
+### 2.
+
+Instruktor podlega kontrolnym badaniom lekarskim w terminach, o których mowa w art. 122 ust. 2, odpowiednio do rodzaju uprawnień do szkolenia.
+
+### 3.
+
+Instruktor jest obowiązany posiadać w czasie szkolenia legitymację instruktora i świadectwo kwalifikacji, o którym mowa w art. 89 ust. 3, oraz okazywać je na żądanie uprawnionych organów.
+
+### Art. 107.
+
+### 1.
+
+Kierownik rejonowego urzędu rządowej administracji ogólnej skreśla instruktora z ewidencji, jeżeli instruktor:
+
+### 1)
+
+nie spełnia warunków określonych w art. 105 ust. 2 pkt 1-6,
+
+### 2)
+
+nie przedstawił orzeczenia lekarskiego z badań kontrolnych o braku przeciwwskazań zdrowotnych do wykonywania czynności instruktora,
+
+### 3)
+
+nie zdał egzaminu, o którym mowa w art. 108 ust. 2 pkt 2, w wyznaczonym terminie,
+
+### 4)
+
+dopuścił się rażącego naruszenia przepisów w zakresie szkolenia.
+
+### 2.
+
+W przypadku skreślenia instruktora z ewidencji z przyczyny określonej w ust. 1 pkt 4, ponowny wpis do ewidencji nie może być dokonany wcześniej niż po upływie 2 lat od dnia, w którym decyzja o skreśleniu stała się ostateczna.
+
+### Art. 108.
+
+### 1.
+
+Kierownik rejonowego urzędu rządowej administracji ogólnej sprawuje nadzór nad szkoleniem.
+
+### 2.
+
+Organ sprawujący nadzór może w szczególności:
+
+### 1)
+
+kontrolować dokumentację i działalność związaną ze szkoleniem,
+
+### 2)
+
+w uzasadnionych przypadkach skierować instruktora na egzamin, o którym mowa w art. 105 ust. 2 pkt 5.
+
+### Art. 109.
+
+### 1.
+
+Egzamin państwowy sprawdzający kwalifikacje osoby ubiegającej się o uprawnienie do kierowania pojazdem oraz osoby, o której mowa w art. 114, przeprowadza egzaminator zatrudniony przez dyrektora wojewódzkiego ośrodka ruchu drogowego:
+
+### 1)
+
+na podstawie umowy o pracę - w zakresie wszystkich kategorii prawa jazdy, z wyjątkiem kategorii T,
+
+### 2)
+
+na podstawie umowy zlecenia - w zakresie pozwolenia do kierowania tramwajem oraz prawa jazdy kategorii T.
+
+### 2.
+
+Egzamin państwowy jest organizowany w:
+
+### 1)
+
+wojewódzkim ośrodku ruchu drogowego - w zakresie wszystkich kategorii prawa jazdy, z wyjątkiem kategorii T,
+
+### 2)
+
+przedsiębiorstwie komunikacji publicznej upoważnionym przez wojewodę - w zakresie pozwolenia do kierowania tramwajem,
+
+### 3)
+
+miejscu określonym przez kierownika rejonowego urzędu rządowej administracji ogólnej - w zakresie prawa jazdy kategorii T.
+
+### 3.
+
+Egzamin państwowy w zakresie wszystkich kategorii prawa jazdy, z wyjątkiem kategorii T, jest przeprowadzany w mieście wojewódzkim lub w zależności od potrzeb w mieście powyżej 100 tysięcy mieszkańców.
+
+### 4.
+
+Sprawdzenia kwalifikacji osoby ubiegającej się o kartę rowerową lub motorowerową dokonują:
+
+### 1)
+
+nauczyciel wychowania komunikacyjnego uprawniony przez dyrektora szkoły,
+
+### 2)
+
+policjant posiadający specjalistyczne przeszkolenie z zakresu ruchu drogowego.
+
+### Art. 110.
+
+### 1.
+
+Egzaminatorem może być osoba, która:
+
+### 1)
+
+jest obywatelem polskim,
+
+### 2)
+
+posiada wykształcenie wyższe,
+
+### 3)
+
+posiada prawo jazdy kategorii B przez okres co najmniej 6 lat oraz uprawnienie do kierowania pojazdami rodzaju objętego egzaminowaniem przez okres co najmniej 1 roku,
+
+### 4)
+
+potwierdziła wymagany stan zdrowia i predyspozycje psychiczne odpowiednim orzeczeniem,
+
+### 5)
+
+nie była karana wyrokiem sądu lub orzeczeniem kolegium do spraw wykroczeń za przestępstwo lub wykroczenie przeciwko bezpieczeństwu w ruchu drogowym,
+
+### 6)
+
+ukończyła kurs kwalifikacyjny w jednostce upoważnionej przez Ministra Transportu i Gospodarki Morskiej,
+
+### 7)
+
+uczestniczyła w 7 egzaminach państwowych w charakterze obserwatora oraz przeprowadziła co najmniej 3 takie egzaminy pod kierunkiem egzaminatora wyznaczonego przez dyrektora wojewódzkiego ośrodka ruchu drogowego i uzyskała pozytywną opinię,
+
+### 8)
+
+zdała egzamin przed komisją weryfikacyjną powołaną przez:
+
+### a)
+
+Ministra Transportu i Gospodarki Morskiej - w zakresie sprawdzania kwalifikacji na wszystkie kategorie prawa jazdy, z wyjątkiem kategorii T,
+
+### b)
+
+wojewodę - w zakresie sprawdzania kwalifikacji na prawo jazdy kategorii T lub pozwolenie do kierowania tramwajem,
+
+### 9)
+
+daje rękojmię należytego wykonywania swoich obowiązków,
+
+### 10)
+
+została wpisana do ewidencji egzaminatorów prowadzonej przez wojewodę.
+
+### 2.
+
+Wymagań, o których mowa w ust. 1 pkt 2, 6 i 7, nie stosuje się do egzaminatora osoby ubiegającej się o prawo jazdy kategorii T lub o pozwolenie do kierowania tramwajem.
+
+### Art. 111.
+
+### 1.
+
+Wojewoda dokonuje wpisu osoby do ewidencji egzaminatorów, jeżeli spełnia ona warunki określone w art. 110 ust. 1 pkt 1-9, i wydaje jej legitymację egzaminatora.
+
+### 2.
+
+Egzaminator podlega kontrolnym badaniom lekarskim w terminach, o których mowa w art. 122 ust. 2, odpowiednio do rodzaju uprawnień do egzaminowania.
+
+### 3.
+
+Egzaminator podlega corocznie szkoleniu organizowanemu przez dyrektora wojewódzkiego ośrodka ruchu drogowego.
+
+### 4.
+
+Egzaminator jest obowiązany posiadać w czasie prowadzenia egzaminów legitymację egzaminatora i świadectwo kwalifikacji, o którym mowa w art. 89 ust. 3, oraz okazywać je na żądanie uprawnionych organów.
+
+### Art. 112.
+
+### 1.
+
+Nadzór nad przeprowadzaniem egzaminów państwowych sprawuje wojewoda.
+
+### 2.
+
+Organ sprawujący nadzór może w szczególności:
+
+### 1)
+
+kontrolować dokumentację i działalność związaną z egzaminowaniem,
+
+### 2)
+
+przerwać lub unieważnić egzamin państwowy prowadzony niezgodnie z przepisami,
+
+### 3)
+
+w razie stwierdzenia rażących uchybień zawiesić działalność odpowiedniej jednostki w zakresie prowadzenia egzaminów państwowych - do czasu usunięcia uchybień,
+
+### 4)
+
+w uzasadnionych przypadkach skierować egzaminatora na egzamin, o którym mowa w art. 110 ust. 1 pkt 8.
+
+### Art. 113.
+
+### 1.
+
+Wojewoda skreśla egzaminatora z ewidencji, jeżeli:
+
+### 1)
+
+nie spełnia warunków określonych w art. 110 ust. 1 pkt 1-9,
+
+### 2)
+
+nie odbył okresowego szkolenia,
+
+### 3)
+
+nie przedstawił orzeczenia lekarskiego z badań kontrolnych o braku przeciwwskazań zdrowotnych do wykonywania czynności egzaminatora,
+
+### 4)
+
+nie zdał egzaminu, o którym mowa w art. 110 ust. 1 pkt 8, w wyznaczonym terminie,
+
+### 5)
+
+naruszył zasady egzaminowania.
+
+### 2.
+
+W przypadku skreślenia egzaminatora z ewidencji z przyczyny określonej w ust. 1 pkt 5, ponowny wpis do ewidencji nie może być dokonany wcześniej niż po upływie 2 lat od dnia, w którym decyzja o skreśleniu stała się ostateczna.
+
+### Art. 114.
+
+Kontrolnemu sprawdzeniu kwalifikacji podlega:
+
+### 1)
+
+osoba posiadająca uprawnienie do kierowania pojazdem, skierowana decyzją kierownika rejonowego urzędu rządowej administracji ogólnej:
+
+### a)
+
+w razie uzasadnionych zastrzeżeń co do jej kwalifikacji,
+
+### b)
+
+na wniosek komendanta wojewódzkiego Policji, w razie przekroczenia 24 punktów otrzymanych na podstawie art. 130 ust. 1,
+
+### 2)
+
+osoba ubiegająca się o:
+
+### a)
+
+przywrócenie uprawnienia do kierowania pojazdem cofniętego na okres przekraczający 1 rok lub w związku z utratą kwalifikacji,
+
+### b)
+
+zwrot zatrzymanego prawa jazdy lub pozwolenia do kierowania tramwajem, którego była pozbawiona na okres przekraczający 1 rok.
+
+### Art. 115.
+
+### 1.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+wymagania w stosunku do jednostek lub szkół prowadzących szkolenie w zakresie wyposażenia dydaktycznego, warunków lokalowych, placu manewrowego i pojazdów przeznaczonych do szkolenia,
+
+### 2)
+
+wymagania w stosunku do jednostek prowadzących egzaminy państwowe w zakresie wyposażenia, warunków lokalowych, placu manewrowego i pojazdów przeznaczonych do egzaminowania,
+
+### 3)
+
+program szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami silnikowymi, tramwajami oraz kandydatów na instruktorów i egzaminatorów,
+
+### 4)
+
+warunki i tryb:
+
+### a)
+
+uzyskiwania uprawnień do kierowania pojazdami, szkolenia i egzaminowania osób ubiegających się o uprawnienia do kierowania pojazdami lub podlegających sprawdzeniu kwalifikacji oraz wzory dokumentów z tym związanych,
+
+### b)
+
+szkolenia i egzaminowania kandydatów na instruktorów i egzaminatorów, pracy komisji egzaminacyjnych oraz wzory dokumentów z tym związanych.
+
+### 2.
+
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia:
+
+### 1)
+
+wysokość opłat za sprawdzenie kwalifikacji kandydatów na instruktorów i instruktorów oraz wysokość wynagrodzenia członków komisji sprawdzających ich kwalifikacje,
+
+### 2)
+
+wysokość opłat za sprawdzenie kwalifikacji kandydatów na egzaminatorów i egzaminatorów oraz wysokość wynagrodzenia członków komisji sprawdzających ich kwalifikacje,
+
+### 3)
+
+wysokość opłat za sprawdzenie kwalifikacji osób ubiegających się o uprawnienie do kierowania pojazdami lub podlegających sprawdzeniu kwalifikacji,
+
+### 4)
+
+wysokość stawek wynagrodzenia dla egzaminatorów zatrudnionych na podstawie umowy zlecenia,
+
+### 5)
+
+wysokość opłat za wydanie prawa jazdy, pozwolenia do kierowania tramwajem, świadectwa kwalifikacji, legitymacji instruktora i egzaminatora.
+
+### Rozdział 3 Wojewódzki ośrodek ruchu drogowego
+
+### Art. 116.
+
+### 1.
+
+Wojewoda tworzy wojewódzki ośrodek ruchu drogowego działający na obszarze województwa.
+
+### 2.
+
+Ośrodek jest państwową osobą prawną.
+
+### 3.
+
+Wojewoda sprawuje nadzór nad ośrodkiem.
+
+### Art. 117.
+
+### 1.
+
+Do zadań ośrodka należy organizowanie egzaminów państwowych sprawdzających kwalifikacje osób ubiegających się o uprawnienia do kierowania pojazdami oraz kierujących pojazdami.
+
+### 2.
+
+Ośrodek może wykonywać inne zadania z zakresu bezpieczeństwa ruchu drogowego.
+
+### Art. 118.
+
+### 1.
+
+Działalnością ośrodka kieruje dyrektor.
+
+### 2.
+
+Dyrektor jest powoływany i odwoływany przez wojewodę.
+
+### 3.
+
+Wojewoda ustala wynagrodzenie dyrektora.
+
+### Art. 119.
+
+### 1.
+
+Ośrodek prowadzi samodzielną gospodarkę finansową na zasadach określonych w niniejszej ustawie.
+
+### 2.
+
+Przychodami ośrodka są:
+
+### 1)
+
+wpływy z opłat za przeprowadzanie egzaminów osób ubiegających się o uprawnienia do kierowania pojazdami,
+
+### 2)
+
+wpływy za wykonanie innych zadań z zakresu bezpieczeństwa ruchu drogowego.
+
+### 3.
+
+Rozchodami ośrodka są wydatki na:
+
+### 1)
+
+bieżące utrzymanie ośrodka,
+
+### 2)
+
+prowadzenie egzaminów państwowych w zakresie prawa jazdy poszczególnych kategorii i pozwolenia do kierowania tramwajem.
+
+### 4.
+
+Osiągnięty przez ośrodek zysk, po opłaceniu należnych podatków, jest przeznaczany na:
+
+### 1)
+
+inwestycje związane z działalnością ośrodka, o której mowa w art. 117 ust. 1,
+
+### 2)
+
+poprawę bezpieczeństwa ruchu drogowego w województwie.
+
+### 5.
+
+Ośrodek może zaciągać kredyty, za zgodą wojewody, na zasadach ogólnych.
+
+### 6.
+
+Składniki majątkowe nabyte na cele ośrodka tworzą jego fundusz statutowy.
+
+### 7.
+
+Ośrodek prowadzi odrębnie ewidencję przychodów i kosztów związanych z egzaminowaniem i odrębnie dla każdej innej działalności.
+
+### Art. 120.
+
+### 1.
+
+Wojewoda nadaje ośrodkowi statut.
+
+### 2.
+
+Statut ośrodka określa w szczególności jego organizację i warunki tworzenia oddziałów terenowych.
+
+### Art. 121.
+
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia:
+
+### 1)
+
+w porozumieniu z Ministrem Finansów - szczegółowe warunki gospodarki finansowej ośrodka oraz szczegółowe warunki ewidencji przychodów i kosztów, o których mowa w art. 119 ust. 7,
+
+### 2)
+
+w porozumieniu z Ministrem Pracy i Polityki Socjalnej - warunki wynagradzania egzaminatorów.
+
+### Rozdział 4 Sprawdzanie stanu zdrowia i predyspozycji psychicznych do kierowania pojazdami
+
+### Art. 122.
+
+### 1.
+
+Badaniu lekarskiemu przeprowadzanemu w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdem podlegają:
+
+### 1)
+
+osoba ubiegająca się o prawo jazdy,
+
+### 2)
+
+osoba ubiegająca się o przywrócenie uprawnienia do kierowania pojazdem silnikowym, cofniętego ze względu na stan zdrowia,
+
+### 3)
+
+kierujący pojazdem skierowany przez organ kontroli ruchu drogowego, jeżeli uczestniczy w wypadku drogowym, w którym jest zabity lub ranny,
+
+### 4)
+
+kierujący pojazdem skierowany decyzją kierownika rejonowego urzędu rządowej administracji ogólnej w przypadkach nasuwających zastrzeżenia co do stanu zdrowia,
+
+### 5)
+
+kandydat na instruktora lub egzaminatora osób ubiegających się o uprawnienia do kierowania pojazdami.
+
+### 2.
+
+Kierowca pojazdu silnikowego o dopuszczalnej masie całkowitej przekraczającej 7,5 t, pojazdu przewożącego materiały niebezpieczne, pojazdu uprzywilejowanego, autobusu lub kierowca zarobkowo przewożący osoby na własny lub cudzy rachunek podlega ponadto kontrolnym badaniom lekarskim przeprowadzanym w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdem w następujących okresach:
+
+### 1)
+
+jeżeli kieruje pojazdem, w stosunku do którego wymagane jest posiadanie prawa jazdy kategorii A, B, B+E, B1 lub T:
+
+### a)
+
+w wieku do 55 lat - co 5 lat,
+
+### b)
+
+w wieku od 56 do 65 lat - co 3 lata,
+
+### c)
+
+w wieku powyżej 65 lat - corocznie,
+
+### 2)
+
+jeżeli kieruje pojazdem, w stosunku do którego wymagane jest posiadanie prawa jazdy kategorii C, C+E, C1, C1+E, D, D+E, D1 lub D1+E:
+
+### a)
+
+w wieku do 55 lat - co 3 lata,
+
+### b)
+
+w wieku powyżej 55 lat - corocznie.
+
+### 3.
+
+Badanie lekarskie przeprowadza uprawniony lekarz.
+
+### 4.
+
+Przepisy ust. 1 pkt 1-4, ust. 2 pkt 2 i ust. 3 stosuje się odpowiednio do kierującego tramwajem.
+
+### 5.
+
+Badanie lekarskie wykonywane jest na koszt osoby badanej, chyba że przepisy odrębne stanowią inaczej.
+
+### 6.
+
+Wojewoda kontroluje wykonywanie badań lekarskich i wydawanie orzeczeń.
+
+### Art. 123.
+
+### 1.
+
+Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrami Transportu i Gospodarki Morskiej, Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i tryb:
+
+### a)
+
+przeprowadzania badań lekarskich w celu stwierdzenia istnienia lub braku przeciwwskazań zdrowotnych do kierowania pojazdami u osób ubiegających się o uprawnienia do kierowania pojazdami silnikowymi lub tramwajami oraz osób kierujących tymi pojazdami,
+
+### b)
+
+wydawania orzeczeń lekarskich stwierdzających brak lub istnienie przeciwwskazań zdrowotnych do kierowania pojazdami,
+
+### c)
+
+odwoływania się od orzeczeń lekarskich,
+
+### d)
+
+uzyskiwania uprawnień przez lekarzy przeprowadzających badania lekarskie,
+
+### e)
+
+kontroli wykonywania i dokumentowania badań lekarskich oraz wydawanych orzeczeń lekarskich,
+
+### 2)
+
+dodatkowe kwalifikacje lekarzy przeprowadzających badania lekarskie,
+
+### 3)
+
+sposób postępowania z dokumentacją związaną z badaniami lekarskimi oraz wzory stosowanych dokumentów,
+
+### 4)
+
+maksymalne stawki opłat za badania lekarskie.
+
+### 2.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Zdrowia i Opieki Społecznej, Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia, warunki i tryb kierowania na badania lekarskie.
+
+### Art. 124.
+
+### 1.
+
+Badaniu psychologicznemu przeprowadzanemu w celu orzeczenia o predyspozycjach psychicznych do kierowania pojazdem podlega osoba:
+
+### 1)
+
+o której mowa w art. 122 ust. 2, przy ubieganiu się po raz pierwszy o wydanie świadectwa kwalifikacji,
+
+### 2)
+
+kandydat na instruktora lub egzaminatora osób ubiegających się o uprawnienia do kierowania pojazdami,
+
+### 3)
+
+inna, jeżeli lekarz w wyniku badania uzna za wskazane przeprowadzenie badania psychologicznego,
+
+### 4)
+
+przewidziana do szkolenia na kierowcę na potrzeby wojska,
+
+### 5)
+
+kierujący będący sprawcą wypadku drogowego, w którym jest zabity lub ranny.
+
+### 2.
+
+Badanie psychologiczne wykonuje uprawniony psycholog w jednostce upoważnionej przez Ministra Transportu i Gospodarki Morskiej.
+
+### 3.
+
+Badanie psychologiczne jest wykonywane na koszt osoby badanej, chyba że przepisy odrębne stanowią inaczej.
+
+### 4.
+
+Przepisy ust. 1-3 stosuje się odpowiednio do kierującego tramwajem.
+
+### 5.
+
+Nadzór nad wykonywaniem badań psychologicznych sprawuje Minister Transportu i Gospodarki Morskiej lub jednostka przez niego upoważniona.
+
+### Art. 125.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Zdrowia i Opieki Społecznej, Spraw Wewnętrznych i Administracji oraz Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i tryb:
+
+### a)
+
+kierowania osób na badania psychologiczne,
+
+### b)
+
+uzyskiwania i cofania uprawnień do przeprowadzania badań psychologicznych oraz uzyskiwania i cofania zezwoleń jednostkom przeprowadzającym te badania,
+
+### c)
+
+odwoływania się od orzeczeń psychologicznych,
+
+### d)
+
+kontroli przeprowadzania badań psychologicznych oraz wydawanych orzeczeń psychologicznych,
+
+### 2)
+
+warunki i sposób przeprowadzania badań psychologicznych,
+
+### 3)
+
+sposób postępowania z dokumentacją związaną z przeprowadzanymi badaniami psychologicznymi oraz wzory stosowanych dokumentów,
+
+### 4)
+
+maksymalne stawki opłat za badania psychologiczne.
+
+### Art. 126.
+
+### 1.
+
+Badanie w celu ustalenia zawartości w organizmie alkoholu przeprowadza się przy użyciu urządzeń elektronicznych dokonujących pomiaru stężenia alkoholu w wydychanym powietrzu.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli stan osoby podlegającej badaniu uniemożliwia jego przeprowadzenie urządzeniem elektronicznym. W takim przypadku ustalenie zawartości w organizmie alkoholu następuje na podstawie badania krwi lub moczu.
+
+### 3.
+
+Badanie w celu ustalenia zawartości w organizmie alkoholu może być przeprowadzone również w razie braku zgody kierującego, o czym należy go uprzedzić.
+
+### 4.
+
+Warunki oraz sposób przeprowadzania badań, o których mowa w ust. 1 i 2, określają odrębne przepisy.
+
+### Art. 127.
+
+### 1.
+
+Badanie w celu ustalenia w organizmie obecności środka działającego podobnie do alkoholu przeprowadza się przy użyciu metod nie wymagających badania laboratoryjnego.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli stan osoby podlegającej badaniu uniemożliwia jego przeprowadzenie metodą nie wymagającą badania laboratoryjnego. W takim przypadku ustalenie w organizmie obecności środka działającego podobnie do alkoholu następuje na podstawie badania krwi lub moczu.
+
+### 3.
+
+Badanie w celu ustalenia obecności w organizmie środka działającego podobnie do alkoholu może być przeprowadzone również w razie braku zgody kierującego, o czym należy go uprzedzić.
+
+### 4.
+
+Minister Zdrowia i Opieki Społecznej określi, w drodze rozporządzenia, warunki i sposób przeprowadzania badań na obecność w organizmie środków działających podobnie do alkoholu.
+
+### Art. 128.
+
+### 1.
+
+W razie uczestniczenia w wypadku drogowym, w którym jest zabity lub ranny, kierujący pojazdem jest poddawany badaniu na zawartość w organizmie alkoholu lub środka działającego podobnie do alkoholu.
+
+### 2.
+
+Badaniu, o którym mowa w ust. 1, można poddać także inną osobę, jeżeli zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem uczestniczącym w wypadku drogowym, w którym jest zabity lub ranny.
+
+### 3.
+
+Osoby, o których mowa w ust. 1 i 2, mają prawo żądać od organu kontroli ruchu drogowego przeprowadzenia badania krwi lub moczu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu.
+
+### Dział V Kontrola ruchu drogowego
+
+### Rozdział 1 Uprawnienia Policji
+
+### Art. 129.
+
+### 1.
+
+Czuwanie nad bezpieczeństwem i porządkiem ruchu na drogach, kierowanie ruchem i jego kontrolowanie należą do zadań Policji.
+
+### 2.
+
+Policjant, w związku z wykonywaniem czynności określonych w ust. 1, jest uprawniony do:
+
+### 1)
+
+legitymowania uczestnika ruchu i wydawania mu wiążących poleceń co do sposobu korzystania z drogi lub używania pojazdu,
+
+### 2)
+
+sprawdzania dokumentów wymaganych w związku z kierowaniem pojazdem i jego używaniem, świadectwa kwalifikacji, a także dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia,
+
+### 3)
+
+żądania poddania się przez kierującego pojazdem lub przez inną osobę, w stosunku do której zachodzi uzasadnione podejrzenie, że mogła kierować pojazdem, badaniu w celu ustalenia zawartości w organizmie alkoholu lub środka działającego podobnie do alkoholu,
+
+### 4)
+
+sprawdzania stanu technicznego, wyposażenia, ładunku, masy lub nacisku osi pojazdu znajdującego się na drodze,
+
+### 5)
+
+sprawdzania zapisów urządzenia rejestrującego samoczynnie prędkość jazdy, czas jazdy oraz postoju,
+
+### 6)
+
+zatrzymania, w przypadkach przewidzianych w ustawie, dokumentów stwierdzających uprawnienie do kierowania pojazdem lub jego używania,
+
+### 7)
+
+wydawania poleceń:
+
+### a)
+
+osobie, która spowodowała przeszkodę utrudniającą ruch drogowy lub zagrażającą jego bezpieczeństwu, albo osobie odpowiedzialnej za utrzymanie drogi,
+
+### b)
+
+kontrolowanemu uczestnikowi ruchu - co do sposobu jego zachowania,
+
+### 8)
+
+uniemożliwienia:
+
+### a)
+
+kierowania pojazdem osobie znajdującej się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
+
+### b)
+
+korzystania z pojazdu, którego stan techniczny, ładunek, masa lub nacisk osi zagrażają bezpieczeństwu lub porządkowi ruchu, powodują uszkodzenie drogi albo naruszają wymagania ochrony środowiska,
+
+### c)
+
+korzystania z pojazdu, jeżeli kierujący nim nie okazał dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia,
+
+### d)
+
+kierowania pojazdem przez osobę nie posiadającą uprawnień,
+
+### 9)
+
+używania przyrządów kontrolno-pomiarowych, a w szczególności do badania pojazdu, określania jego masy, nacisku osi lub prędkości, stwierdzania naruszenia wymagań ochrony środowiska oraz do stwierdzania stanu trzeźwości kierującego,
+
+### 10)
+
+usuwania lub przemieszczania pojazdu:
+
+### a)
+
+pozostawionego w miejscu, gdzie jest to zabronione i utrudnia ruch lub zagraża jego bezpieczeństwu,
+
+### b)
+
+kierowanego przez osobę znajdującą się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu, jeżeli nie ma możliwości zabezpieczenia pojazdu w inny sposób,
+
+### c)
+
+kierowanego przez osobę nie posiadającą przy sobie wymaganych dokumentów uprawniających do kierowania i używania pojazdu, jeżeli nie ma możliwości zabezpieczenia pojazdu w inny sposób,
+
+### d)
+
+jeżeli kierujący nie okazał dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia,
+
+### e)
+
+którego stan techniczny zagraża bezpieczeństwu lub porządkowi ruchu drogowego, powoduje uszkodzenie drogi albo narusza wymagania ochrony środowiska, jeżeli nie ma możliwości zabezpieczenia pojazdu w inny sposób,
+
+### f)
+
+przekraczającego dopuszczalną masę całkowitą lub nacisk osi,
+
+### g)
+
+utrudniającego prowadzenie akcji ratowniczej,
+
+### 11)
+
+kontroli warunków i sposobu przewozu materiałów niebezpiecznych oraz wymagań związanych z tym przewozem,
+
+### 12)
+
+używania urządzeń nagłaśniających, sygnalizacyjnych lub świetlnych, służących do wydawania wiążących poleceń uczestnikowi ruchu,
+
+### 13)
+
+występowania w uzasadnionym przypadku z wnioskiem o ocenę stanu zdrowia kierującego pojazdem,
+
+### 14)
+
+blokowania kół pojazdu pozostawionego w miejscu, gdzie jest to zabronione, lecz nie utrudnia to ruchu lub nie zagraża bezpieczeństwu.
+
+### 3.
+
+Przepisów ust. 2 pkt 3, 4 i 6 nie stosuje się do szefów i cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych, korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, oraz do innych osób korzystających z tych przywilejów i immunitetów.
+
+### 4.
+
+Kontrola ruchu drogowego w stosunku do kierujących pojazdami Sił Zbrojnych oraz w stosunku do żołnierzy pełniących czynną służbę wojskową kierujących innymi pojazdami, a także kierowanie ruchem drogowym w związku z pilotowaniem kolumn wojskowych należy również do wojskowych organów porządkowych. W tym zakresie wojskowym organom porządkowym przysługują uprawnienia policjantów określone w ust. 2.
+
+### 5.
+
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, tryb oraz jednostki i warunki ich współdziałania w zakresie:
+
+### 1)
+
+zapewnienia sprawności ruchu, w szczególności przez nadzór nad parkowaniem pojazdów i usuwaniem na koszt właściciela pojazdów:
+
+### a)
+
+pozostawionych w miejscu, gdzie jest to zabronione i utrudnia ruch lub zagraża bezpieczeństwu,
+
+### b)
+
+kierowanych przez osoby znajdujące się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu, jeżeli nie ma możliwości zabezpieczenia pojazdów w inny sposób,
+
+### c)
+
+kierowanych przez osoby nie posiadające przy sobie wymaganych dokumentów uprawniających do kierowania i używania pojazdu, jeżeli nie ma możliwości zabezpieczenia pojazdów w inny sposób,
+
+### d)
+
+zarejestrowanych lub czasowo dopuszczonych do ruchu na terytorium Rzeczypospolitej Polskiej albo zarejestrowanych za granicą, jeżeli kierujący nie okazał dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia,
+
+### e)
+
+których stan techniczny zagraża bezpieczeństwu lub porządkowi ruchu drogowego, powoduje uszkodzenie drogi albo narusza wymagania ochrony środowiska, jeżeli nie ma możliwości zabezpieczenia pojazdów w inny sposób,
+
+### f)
+
+przekraczających dopuszczalną masę całkowitą lub nacisk osi określone w przepisach ruchu drogowego,
+
+### g)
+
+których stan wskazuje na to, że nie są używane,
+
+### h)
+
+bez tablic rejestracyjnych,
+
+### 2)
+
+blokowania kół pojazdów w razie pozostawienia ich w miejscu, gdzie jest to zabronione, lecz nie utrudnia to ruchu lub nie zagraża bezpieczeństwu,
+
+### 3)
+
+pilotowania pojazdów, których wymiary, masa lub nacisk osi przekraczają określone wielkości,
+
+### 4)
+
+usuwania pojazdów utrudniających prowadzenie akcji ratowniczych.
+
+### Art. 130.
+
+### 1.
+
+Policja prowadzi ewidencję kierowców naruszających przepisy ruchu drogowego. Określonemu naruszeniu przypisuje się odpowiednią liczbę punktów w skali od 1 do 10 i wpisuje się do tej ewidencji.
+
+### 2.
+
+Punkty za naruszenie przepisów ruchu drogowego wpisane do ewidencji usuwa się po upływie 1 roku od dnia naruszenia.
+
+### 3.
+
+Kierowca wpisany do ewidencji, o której mowa w ust. 1, może na własny koszt uczestniczyć w szkoleniu, którego odbycie spowoduje zmniejszenie liczby punktów za naruszenie przepisów ruchu drogowego. Nie dotyczy to kierowcy w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy.
+
+### 4.
+
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrami Transportu i Gospodarki Morskiej oraz Sprawiedliwości określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób punktowania i liczbę punktów odpowiadających naruszeniu przepisów ruchu drogowego,
+
+### 2)
+
+warunki i sposób prowadzenia ewidencji, o której mowa w ust. 1, oraz tryb występowania z wnioskami o kontrolne sprawdzenie kwalifikacji,
+
+### 3)
+
+program szkolenia i jednostki upoważnione do prowadzenia szkolenia, o którym mowa w ust. 3,
+
+### 4)
+
+liczbę punktów odejmowanych z tytułu odbytego szkolenia,
+
+### 5)
+
+podmioty uprawnione do uzyskiwania informacji zawartych w ewidencji, o której mowa w ust. 1.
+
+### Art. 131.
+
+### 1.
+
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrami Transportu i Gospodarki Morskiej oraz Obrony Narodowej określi, w drodze rozporządzenia:
+
+### 1)
+
+organizację, warunki i sposób wykonywania kontroli ruchu drogowego,
+
+### 2)
+
+warunki i tryb udzielania upoważnień do zatrzymywania pojazdów lub wykonywania niektórych czynności z zakresu kontroli ruchu drogowego przez funkcjonariuszy innych organów,
+
+### 3)
+
+wymagany sposób zachowania się kontrolowanego uczestnika ruchu.
+
+### 2.
+
+Minister Obrony Narodowej w porozumieniu z Ministrami Transportu i Gospodarki Morskiej oraz Spraw Wewnętrznych i Administracji określi, w drodze rozporządzenia:
+
+### 1)
+
+organizację, warunki i sposób wykonywania czynności, o których mowa w art. 129 ust. 4,
+
+### 2)
+
+warunki i tryb współdziałania Żandarmerii Wojskowej z Policją w sprawach, o których mowa w art. 130 ust. 1.
+
+### Rozdział 2 Zatrzymywanie i zwracanie dowodów rejestracyjnych
+
+### Art. 132.
+
+### 1.
+
+Policjant zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie:
+
+### 1)
+
+stwierdzenia lub uzasadnionego przypuszczenia, że pojazd:
+
+### a)
+
+zagraża bezpieczeństwu,
+
+### b)
+
+zagraża porządkowi ruchu,
+
+### c)
+
+narusza wymagania ochrony środowiska,
+
+### 2)
+
+stwierdzenia, że pojazd nie został poddany badaniu technicznemu w wyznaczonym terminie lub termin badania nie został wyznaczony prawidłowo,
+
+### 3)
+
+stwierdzenia zniszczenia dowodu rejestracyjnego (pozwolenia czasowego) w stopniu powodującym jego nieczytelność,
+
+### 4)
+
+uzasadnionego podejrzenia podrobienia lub przerobienia dowodu rejestracyjnego (pozwolenia czasowego),
+
+### 5)
+
+stwierdzenia, że badanie techniczne zostało dokonane przez jednostkę do tego nie upoważnioną,
+
+### 6)
+
+nieokazania przez kierującego dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub nieokazania dokumentu stwierdzającego opłacenie składki tego ubezpieczenia,
+
+### 7)
+
+uzasadnionego przypuszczenia, że dane w nim zawarte nie odpowiadają stanowi faktycznemu.
+
+### 2.
+
+W razie zatrzymania dowodu rejestracyjnego (pozwolenia czasowego), policjant wydaje kierowcy pokwitowanie. Może on zezwolić na używanie pojazdu przez czas nie przekraczający 7 dni, określając warunki tego używania w pokwitowaniu. Zezwolenie nie może być wydane w przypadkach, o których mowa w ust. 1 pkt 1 lit. a) i c) oraz w pkt 6.
+
+### 3.
+
+Zatrzymany dokument, z wyjątkiem przypadków określonych w ust. 1 pkt 4, 6 i 7, odpowiedni organ Policji przesyła niezwłocznie organowi, który go wydał, z zastrzeżeniem ust. 5.
+
+### 4.
+
+W przypadkach określonych w ust. 1 pkt 1, 3 i 4 dowód rejestracyjny (pozwolenie czasowe) zatrzyma również jednostka upoważniona do przeprowadzania badań technicznych. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+### 5.
+
+Zatrzymany dokument pojazdu zarejestrowanego za granicą, z wyjątkiem przypadków określonych w ust. 1 pkt 4 i 6, pozostawia się w jednostce Policji przez okres 7 dni. Po upływie tego terminu dokument przekazywany jest przedstawicielstwu państwa, w którym pojazd jest zarejestrowany.
+
+### 6.
+
+Zwrot zatrzymanego dokumentu następuje niezwłocznie po ustaniu przyczyny uzasadniającej jego zatrzymanie, z zastrzeżeniem art. 133.
+
+### Art. 133.
+
+### 1.
+
+W przypadku określonym w art. 132 ust. 1 pkt 6 odpowiedni organ Policji zwraca zatrzymany dokument po przedstawieniu dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub stwierdzającego opłacenie składki tego ubezpieczenia.
+
+### 2.
+
+W przypadku pojazdu zarejestrowanego za granicą, jeżeli z przedstawionego dokumentu stwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu wynika, że przed zatrzymaniem dowodu rejestracyjnego umowa ta nie była zawarta, warunkiem zwrotu zatrzymanego dokumentu jest dodatkowo wniesienie opłaty za niespełnienie obowiązku zawarcia umowy ubezpieczenia określonej w odrębnych przepisach.
+
+### Art. 134.
+
+W stosunku do pojazdów Sił Zbrojnych oraz innych pojazdów kierowanych przez żołnierzy pełniących czynną służbę wojskową uprawnienia i obowiązki policjantów określone w art. 132 ust. 1-3 i art. 133 ust. 1 wykonują również żołnierze Żandarmerii Wojskowej.
+
+### Rozdział 3 Zatrzymywanie praw jazdy i pozwoleń oraz cofanie i przywracanie uprawnień do kierowania pojazdami
+
+### Art. 135.
+
+### 1.
+
+Policjant:
+
+### 1)
+
+zatrzyma prawo jazdy za pokwitowaniem w razie:
+
+### a)
+
+stwierdzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu,
+
+### b)
+
+stwierdzenia zniszczenia prawa jazdy w stopniu powodującym jego nieczytelność,
+
+### c)
+
+podejrzenia podrobienia lub przerobienia prawa jazdy,
+
+### d)
+
+gdy upłynął termin ważności prawa jazdy,
+
+### e)
+
+gdy wobec kierującego pojazdem wydane zostało postanowienie lub decyzja o zatrzymaniu prawa jazdy,
+
+### f)
+
+gdy wobec kierującego pojazdem orzeczono zakaz prowadzenia pojazdów lub wydano decyzję o cofnięciu prawa jazdy,
+
+### g)
+
+przekroczenia przez kierującego pojazdem liczby 24 punktów za naruszenie przepisów ruchu drogowego,
+
+### h)
+
+przekroczenia przez kierującego pojazdem, w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy, liczby 20 punktów za naruszenie przepisów ruchu drogowego,
+
+### 2)
+
+może zatrzymać prawo jazdy za pokwitowaniem w razie uzasadnionego podejrzenia, że kierowca popełnił przestępstwo lub wykroczenie, za które może być orzeczony zakaz prowadzenia pojazdów.
+
+### 2.
+
+Pokwitowanie zatrzymania prawa jazdy z przyczyn, o których mowa w ust. 1 pkt 1 lit. b)-d) oraz w pkt 2, uprawnia do kierowania pojazdem w ciągu 7 dni.
+
+### Art. 136.
+
+### 1.
+
+Zatrzymane prawo jazdy, z wyjątkiem przypadku określonego w art. 135 ust. 1 pkt 1 lit. c), Policja przekazuje niezwłocznie, nie później niż w ciągu 7 dni, według właściwości, kolegium do spraw wykroczeń albo innemu organowi uprawnionemu do orzekania w sprawach o wykroczenia w trybie dyscyplinarnym, prokuratorowi lub kierownikowi rejonowego urzędu rządowej administracji ogólnej.
+
+### 2.
+
+W razie przeprowadzenia badania krwi lub moczu dla oceny trzeźwości lub zawartości środka działającego podobnie do alkoholu, prawo jazdy przekazuje się wraz z wynikiem tego badania. Jeżeli jednak wynik tego badania nie został uzyskany w ciągu 30 dni od dnia zatrzymania prawa jazdy, należy niezwłocznie zwrócić je właścicielowi.
+
+### Art. 137.
+
+### 1.
+
+Postanowienie o zatrzymaniu prawa jazdy, w przypadkach określonych w art. 135 ust. 1 pkt 1 lit. a) oraz pkt 2, wydaje w terminie 14 dni od dnia otrzymania prawa jazdy:
+
+### 1)
+
+prokurator - w toku postępowania przygotowawczego, a sąd - po przekazaniu sprawy do sądu,
+
+### 2)
+
+przewodniczący kolegium do spraw wykroczeń, a wobec osoby nie podlegającej orzecznictwu kolegium do spraw wykroczeń - właściwy przełożony.
+
+### 2.
+
+O wydaniu postanowienia o zatrzymaniu prawa jazdy zawiadamia się właściwego kierownika rejonowego urzędu rządowej administracji ogólnej.
+
+### 3.
+
+Na postanowienie o zatrzymaniu prawa jazdy służy zażalenie.
+
+### Art. 138.
+
+### 1.
+
+Decyzję o zatrzymaniu prawa jazdy, w przypadkach określonych w art. 135 ust. 1 pkt 1 lit. d) i g), wydaje kierownik rejonowego urzędu rządowej administracji ogólnej.
+
+### 2.
+
+Zwrot zatrzymanego prawa jazdy następuje po ustaniu przyczyny zatrzymania.
+
+### Art. 139.
+
+### 1.
+
+Przepisy art. 135-138 stosuje się odpowiednio do pozwolenia do kierowania tramwajem.
+
+### 2.
+
+Przepisu art. 135 nie stosuje się do szefów i cudzoziemskiego personelu przedstawicielstw dyplomatycznych, urzędów konsularnych państw obcych oraz misji specjalnych i organizacji międzynarodowych korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności, a także do innych osób korzystających z tych przywilejów i immunitetów.
+
+### 3.
+
+W stosunku do żołnierzy pełniących czynną służbę wojskową oraz innych osób kierujących pojazdami Sił Zbrojnych uprawnienia i obowiązki policjantów określone w art. 135 ust. 1 i art. 136 ust. 1 wykonują również żołnierze Żandarmerii Wojskowej.
+
+### Art. 140.
+
+### 1.
+
+Decyzję o cofnięciu uprawnienia do kierowania pojazdem silnikowym wydaje kierownik rejonowego urzędu rządowej administracji ogólnej w razie:
+
+### 1)
+
+stwierdzenia na podstawie orzeczenia lekarskiego istnienia przeciwwskazań zdrowotnych do kierowania pojazdem,
+
+### 2)
+
+utraty przez kierowcę kwalifikacji, co stwierdza się na podstawie wyniku egzaminu państwowego,
+
+### 3)
+
+przekroczenia, w okresie 1 roku od dnia wydania po raz pierwszy prawa jazdy, liczby 20 punktów za naruszenie przepisów ruchu drogowego; decyzja o cofnięciu uprawnienia wydawana jest na wniosek komendanta wojewódzkiego Policji,
+
+### 4)
+
+niepoddania się sprawdzeniu kwalifikacji w trybie określonym w art. 114 pkt 1.
+
+### 2.
+
+Decyzję o przywróceniu kierowcy uprawnienia do kierowania pojazdem silnikowym, z wyjątkiem przypadku określonego w ust. 1 pkt 3, wydaje kierownik rejonowego urzędu rządowej administracji ogólnej po ustaniu przyczyn, które spowodowały jego cofnięcie.
+
+### 3.
+
+Przepisy ust. 1-2 stosuje się odpowiednio do pozwolenia do kierowania tramwajem.
+
+### 4.
+
+Decyzję o cofnięciu lub przywróceniu uprawnienia do kierowania pojazdem silnikowym szefom i cudzoziemskiemu personelowi przedstawicielstw dyplomatycznych, urzędów konsularnych i misji specjalnych państw obcych oraz organizacji międzynarodowych korzystających z przywilejów i immunitetów dyplomatycznych lub konsularnych na mocy ustaw, umów bądź powszechnie uznanych zwyczajów międzynarodowych lub na zasadzie wzajemności oraz innym osobom korzystającym z tych przywilejów i immunitetów wydaje Wojewoda Warszawski.
+
+### 5.
+
+Minister Spraw Wewnętrznych i Administracji w porozumieniu z Ministrem Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, warunki i tryb wnioskowania o cofnięcie uprawnień do kierowania pojazdami silnikowymi osobom, o których mowa w ust. 1 pkt 3.
+
+### Dział VI Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
+
+### Art. 141.
+
+W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ([Dz. U. Nr 12, poz. 114](https://api.sejm.gov.pl/eli/acts/DU/1971/114/text.html), z [1981 r. Nr 24, poz. 124](https://api.sejm.gov.pl/eli/acts/DU/1981/124/text.html), z [1982 r. Nr 16, poz. 125](https://api.sejm.gov.pl/eli/acts/DU/1982/125/text.html), z [1983 r. Nr 6, poz. 35](https://api.sejm.gov.pl/eli/acts/DU/1983/35/text.html) i [Nr 44, poz. 203](https://api.sejm.gov.pl/eli/acts/DU/1983/203/text.html), z [1984 r. Nr 54, poz. 275](https://api.sejm.gov.pl/eli/acts/DU/1984/275/text.html), z [1985 r. Nr 14, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.html) i [Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html), z [1986 r. Nr 39, poz. 193](https://api.sejm.gov.pl/eli/acts/DU/1986/193/text.html), z [1988 r. Nr 20, poz. 135](https://api.sejm.gov.pl/eli/acts/DU/1988/135/text.html) i [Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 34, poz. 180](https://api.sejm.gov.pl/eli/acts/DU/1989/180/text.html), z [1990 r. Nr 51, poz. 297](https://api.sejm.gov.pl/eli/acts/DU/1990/297/text.html), [Nr 72, poz. 422](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.html) i [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html), z [1991 r. Nr 75, poz. 332](https://api.sejm.gov.pl/eli/acts/DU/1991/332/text.html) i [Nr 91, poz. 408](https://api.sejm.gov.pl/eli/acts/DU/1991/408/text.html), z [1992 r. Nr 24, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/1992/101/text.html), z [1994 r. Nr 123, poz. 600](https://api.sejm.gov.pl/eli/acts/DU/1994/600/text.html), z [1995 r. Nr 6, poz. 29](https://api.sejm.gov.pl/eli/acts/DU/1995/29/text.html) i [Nr 60, poz. 310](https://api.sejm.gov.pl/eli/acts/DU/1995/310/text.html) oraz z [1997 r. Nr 54, poz. 349](https://api.sejm.gov.pl/eli/acts/DU/1997/349/text.html) i [Nr 60, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1997/369/text.html) i [Nr 85, poz. 539](https://api.sejm.gov.pl/eli/acts/DU/1997/539/text.html)) dodaje się art. 96a w brzmieniu:
+
+„
+
+### Art. 96a.
+
+### § 1.
+
+Kto, nie będąc uprawnionym, posiada w pojeździe urządzenia stanowiące obowiązkowe wyposażenie pojazdu uprzywilejowanego w ruchu, wysyłające sygnały świetlne w postaci niebieskich lub czerwonych świateł błyskowych albo sygnał dźwiękowy o zmiennym tonie, a także elementy oznakowania w postaci napisów, podlega karze grzywny.
+
+### § 2.
+
+Kto, nie będąc do tego uprawnionym, używa w pojeździe sygnałów świetlnych w postaci niebieskich lub czerwonych świateł błyskowych albo sygnału dźwiękowego o zmiennym tonie, podlega karze aresztu do dwóch tygodni albo grzywny.
+
+### § 3.
+
+Urządzenia lub elementy oznakowania, o których mowa w § 1 i 2, podlegają przepadkowi, choćby nie stanowiły własności sprawcy.
+
+”
+
+### Art. 142.
+
+W ustawie z dnia 20 maja 1971 r. - Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia ([Dz. U. Nr 12, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1971/117/text.html), z [1985 r. Nr 23, poz. 100](https://api.sejm.gov.pl/eli/acts/DU/1985/100/text.html) i z [1991 r. Nr 73, poz. 321](https://api.sejm.gov.pl/eli/acts/DU/1991/321/text.html)) skreśla się art. XIV.
+
+### Art. 143.
+
+W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej ([Dz. U. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1990 r. Nr 26, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1990/149/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html), z [1991 r. Nr 31, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1991/128/text.html), [Nr 41, poz. 179](https://api.sejm.gov.pl/eli/acts/DU/1991/179/text.html), [Nr 73, poz. 321](https://api.sejm.gov.pl/eli/acts/DU/1991/321/text.html), [Nr 105, poz. 452](https://api.sejm.gov.pl/eli/acts/DU/1991/452/text.html), [Nr 106, poz. 457](https://api.sejm.gov.pl/eli/acts/DU/1991/457/text.html) i [Nr 107, poz. 460](https://api.sejm.gov.pl/eli/acts/DU/1991/460/text.html), z [1993 r. Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html), [Nr 47, poz. 212](https://api.sejm.gov.pl/eli/acts/DU/1993/212/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 27, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/1994/96/text.html) i [Nr 127, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/1994/627/text.html), z [1995 r. Nr 60, poz. 310](https://api.sejm.gov.pl/eli/acts/DU/1995/310/text.html), [Nr 85, poz. 426](https://api.sejm.gov.pl/eli/acts/DU/1995/426/text.html), [Nr 90, poz. 446](https://api.sejm.gov.pl/eli/acts/DU/1995/446/text.html), [Nr 141, poz. 700](https://api.sejm.gov.pl/eli/acts/DU/1995/700/text.html) i [Nr 147, poz. 713](https://api.sejm.gov.pl/eli/acts/DU/1995/713/text.html), z [1996 r. Nr 41, poz. 177](https://api.sejm.gov.pl/eli/acts/DU/1996/177/text.html) i [Nr 45, poz. 199](https://api.sejm.gov.pl/eli/acts/DU/1996/199/text.html) oraz z [1997 r. Nr 9, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/1997/44/text.html), [Nr 23, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1997/117/text.html), [Nr 43, poz. 272](https://api.sejm.gov.pl/eli/acts/DU/1997/272/text.html), [Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 60, poz. 369](https://api.sejm.gov.pl/eli/acts/DU/1997/369/text.html), [Nr 79, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html) i [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)) w art. 11:
+
+### 1)
+
+w ust. 1 w pkt 17 kropkę zastępuje się przecinkiem i dodaje się pkt 18 w brzmieniu:
+
+„
+
+### 18)
+
+produkcji i dystrybucji tablic rejestracyjnych pojazdów.
+
+” ,
+
+### 2)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, liczbę koncesji, o których mowa w ust. 1 pkt 18, warunki wymagane do ich uzyskania, sposób wyboru koncesjonariuszy oraz obszary dystrybucji tablic rejestracyjnych.
+
+”
+
+### Art. 144.
+
+### 1.
+
+Zadania własne kierownika rejonowego urzędu rządowej administracji ogólnej, o których mowa w art. 73 ust. 1 i 2, art. 74 ust. 1, art. 75, art. 77 ust. 3, art. 78 ust. 3, art. 89 ust. 2 i 3, art. 93 ust. 2, art. 97 ust. 1, art. 103, art. 104, art. 106 ust. 1, art. 107, art. 108, art. 109 ust. 2 pkt 3, art. 114 pkt 1, art. 122 ust. 1 pkt 4, art. 138 ust. 1 i art. 140 ust. 1 i 3 niniejszej ustawy, nie mogą być powierzone w drodze porozumienia organom samorządu terytorialnego.
+
+### 2.
+
+Porozumienia zawarte przed dniem wejścia w życie niniejszej ustawy w zakresie, o którym mowa w ust. 1, tracą moc z dniem 1 lipca 1998 r.
+
+### 3.
+
+Do właściwości organów gmin, o których mowa w art. 1 ustawy z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych ([Dz. U. z 1997 r. Nr 36, poz. 224](https://api.sejm.gov.pl/eli/acts/DU/1997/224/text.html)), przechodzą jako zlecone zadania, o których mowa w art. 73 ust. 1 i 2, art. 74 ust. 1, art. 75, art. 77 ust. 3, art. 78 ust. 3, art. 89 ust. 2 i 3, art. 93 ust. 2, art. 97 ust. 1, art. 114 pkt 1, art. 122 ust. 1 pkt 4, art. 138 ust. 1 i art. 140 ust. 1 i 3 niniejszej ustawy.
+
+### 4.
+
+Finansowanie zadań, o których mowa w ust. 3, odbywa się w trybie określonym w art. 13 ustawy, o której mowa w ust. 3.
+
+### Art. 145.
+
+### 1.
+
+Ośrodki szkolenia lub szkoły prowadzące szkolenie osób ubiegających się o uprawnienia do kierowania pojazdami w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów uważa się za spełniające wymagania określone w ustawie przez okres 1 roku od dnia wejścia jej w życie.
+
+### 2.
+
+Osoby wykonujące czynności instruktora lub wykładowcy w ośrodkach szkolenia lub w szkołach w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów mogą prowadzić szkolenie osób ubiegających się o uprawnienia do kierowania pojazdami w zakresie dotychczas posiadanym, jeżeli spełniają wymagania, o których mowa w art. 105 ust. 2 pkt 1, 2, 6 i 7, oraz pod warunkiem zdania w okresie 6 miesięcy od dnia wejścia w życie ustawy egzaminu, o którym mowa w art. 105 ust. 2 pkt 5.
+
+### 3.
+
+Ośrodki egzaminowania, w których odbywa się sprawdzanie kwalifikacji osób ubiegających się o uprawnienia do kierowania pojazdami i kierujących pojazdami w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów, uważa się za spełniające wymagania określone ustawą przez okres 6 miesięcy od dnia wejścia w życie ustawy.
+
+### 4.
+
+Osoby wykonujące czynności egzaminatora w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów uważa się za spełniające wymagania określone ustawą. Osoby te mogą wykonywać swoje czynności przez okres 10 miesięcy od dnia wejścia w życie ustawy na podstawie umowy zlecenia.
+
+### 5.
+
+Stacje kontroli pojazdów działające w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów uważa się za spełniające wymagania określone ustawą w terminach określonych w wydanych im upoważnieniach.
+
+### 6.
+
+Osoby wykonujące czynności diagnosty w dniu wejścia w życie ustawy na podstawie dotychczasowych przepisów uważa się za spełniające wymagania określone ustawą.
+
+### Art. 146.
+
+### 1.
+
+Wojewoda utworzy wojewódzki ośrodek ruchu drogowego w okresie 6 miesięcy od dnia wejścia w życie ustawy.
+
+### 2.
+
+Z chwilą utworzenia ośrodka, o którym mowa w ust. 1, opłaty za egzaminy państwowe na prawo jazdy i pozwolenia do kierowania tramwajem wpływają na jego rachunek.
+
+### 3.
+
+Do czasu rozpoczęcia przez ośrodek samodzielnego prowadzania egzaminów państwowych sprawdzających kwalifikacje osób ubiegających się o uprawnienie do kierowania pojazdami oraz kierujących pojazdami, z wpływów z opłat, o których mowa w ust. 2, są finansowane koszty przeprowadzania egzaminów w ośrodkach, o których mowa w art. 145 ust. 3.
+
+### 4.
+
+Upoważnia się wojewodę do udzielenia wojewódzkiemu ośrodkowi ruchu drogowego jednorazowej pożyczki na cele inwestycyjne na okres nie przekraczający 2 lat.
+
+### Art. 147.
+
+### 1.
+
+Osoby w wieku od 17 do 18 lat, ubiegające się o prawo jazdy kategorii B+E, które ukończyły wymagane szkolenie lub w nim uczestniczą w dniu 1 lipca 1998 r., uważa się za spełniające wymagania określone w art. 90 ust. 2 pkt 3.
+
+### 2.
+
+Osoby ubiegające się o prawo jazdy kategorii C lub D, które ukończyły wymagane szkolenie lub uczestniczą w nim w dniu 1 lipca 1998 r., uważa się za spełniające wymagania, o których mowa w art. 88 ust. 4.
+
+### Art. 148.
+
+### 1.
+
+Zezwolenia na wykorzystanie pojazdów jako uprzywilejowanych, wydane przed dniem wejścia w życie ustawy, zachowują ważność do dnia 15 stycznia 1998 r.
+
+### 2.
+
+Zezwolenia na wykonywanie badań instalacji przystosowującej pojazdy do zasilania gazem i sposób jej montażu, wydane przed dniem wejścia w życie ustawy, zachowują ważność do dnia 31 marca 1998 r.
+
+### 3.
+
+Zezwolenia na odstępstwo od stosowania się do niektórych znaków drogowych, wydane przed dniem wejścia w życie ustawy, zachowują ważność do dnia 31 marca 1998 r.
+
+### Art. 149.
+
+Minister Transportu i Gospodarki Morskiej w porozumieniu z Ministrami Obrony Narodowej, Spraw Wewnętrznych i Administracji oraz Sprawiedliwości może określić, w drodze rozporządzenia:
+
+### 1)
+
+obowiązek uzyskania karty pojazdu przez właścicieli pojazdów zarejestrowanych przed dniem, o którym mowa w art. 152 pkt 1,
+
+### 2)
+
+warunki, terminy i tryb uzyskiwania karty pojazdu przez osoby, o których mowa w pkt 1, organy właściwe do ich wydania, wzory dokumentów stosowanych w tych sprawach oraz wysokość opłaty za kartę pojazdu.
+
+### Art. 150.
+
+### 1.
+
+Prawa jazdy i inne dokumenty uprawniające do kierowania pojazdami lub potwierdzające dodatkowe kwalifikacje i wymagania w stosunku do kierujących pojazdami, wydane na podstawie dotychczasowych przepisów, zachowują ważność do czasu ich wymiany w zakresie na jaki zostały wydane.
+
+### 2.
+
+Minister Transportu i Gospodarki Morskiej określi, w drodze rozporządzenia, warunki i terminy wymiany praw jazdy i innych dokumentów uprawniających do kierowania pojazdami lub potwierdzających dodatkowe kwalifikacje kierujących pojazdami.
+
+### Art. 151.
+
+### 1.
+
+Traci moc ustawa z dnia 1 lutego 1983 r. - Prawo o ruchu drogowym ([Dz. U. z 1992 r. Nr 11, poz. 41](https://api.sejm.gov.pl/eli/acts/DU/1992/41/text.html) i [Nr 26, poz. 114](https://api.sejm.gov.pl/eli/acts/DU/1992/114/text.html) oraz z [1995 r. Nr 104, poz. 515](https://api.sejm.gov.pl/eli/acts/DU/1995/515/text.html)), z wyjątkiem art. 69-81, które tracą moc z dniem 30 czerwca 1998 r.
+
+### 2.
+
+Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, nie dłużej jednak niż przez okres 1 roku od dnia wejścia jej w życie, zachowują moc przepisy wydane na podstawie ustawy, o której mowa w ust. 1, jeżeli nie są sprzeczne z niniejszą ustawą.
+
+### Art. 152.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1998 r., z wyjątkiem:
+
+### 1)
+
+art. 49 ust. 2 pkt 5, art. 77, 80, 87-100, 109 ust. 4 i art. 143, które wchodzą w życie z dniem 1 lipca 1998 r.,
+
+### 2)
+
+art. 39 ust. 3 i art. 85, które wchodzą w życie z dniem 1 stycznia 1999 r.

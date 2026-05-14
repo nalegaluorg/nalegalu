@@ -8,11 +8,9 @@ pos: 689
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o Polskiej Organizacji Turystycznej
-
-*USTAWA z dnia 25 czerwca 1999 r.*
+# Ustawa z dnia 25 czerwca 1999 r. o Polskiej Organizacji Turystycznej
 
 | Pole | Wartość |
 |---|---|
@@ -23,335 +21,577 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1999-06-25 |
 | Data wydania | 1999-07-23 |
-| Ostatnia zmiana | 2025-02-04 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990620689) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/689/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1999/689/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1999/689) |
 
-Art. 21–23. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Organy Polskiej Organizacji Turystycznej](#chpt_2) [Rozdział 3 - Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej](#chpt_3) [Rozdział 4 - Działalność gospodarcza Polskiej Organizacji Turystycznej](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących](#chpt_5) [Rozdział 6 - Przepisy przejściowe i końcowe](#chpt_6)
 
-**Art. 1.**
+TOC
 
-1. W celu wzmocnienia promocji Polski w dziedzinie turystyki w kraju i za granicą tworzy się Polską Organizację Turystyczną z siedzibą w Warszawie.
+## Treść ustawy
 
-2. Polska Organizacja Turystyczna tworzy warunki współpracy organów administracji rządowej, samorządu terytorialnego i organizacji zrzeszających przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, oraz stowarzyszeń działających w tej dziedzinie.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 2.**
+### Art. 1.
 
-1. Polska Organizacja Turystyczna jest państwową osobą prawną.
+### 1.
 
-2. Nadzór nad Polską Organizacją Turystyczną sprawuje minister właściwy do spraw turystyki, zwany dalej „właściwym ministrem”.
+W celu wzmocnienia promocji Polski w dziedzinie turystyki w kraju i za granicą tworzy się Polską Organizację Turystyczną z siedzibą w Warszawie.
 
-**Art. 3.**
+### 2.
 
-1. Do zadań Polskiej Organizacji Turystycznej należy:
+Polska Organizacja Turystyczna tworzy warunki współpracy organów administracji rządowej, samorządu terytorialnego i organizacji zrzeszających przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, oraz stowarzyszeń działających w tej dziedzinie.
 
-- **1)** promocja Polski jako kraju atrakcyjnego turystycznie;
-- **2)** zapewnianie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie;
-- **3)** inicjowanie, opiniowanie i wspomaganie planów rozwoju i modernizacji infrastruktury turystycznej;
-- **4)** wykonywanie innych zadań powierzonych przez organy i jednostki, o których mowa w ust. 2 pkt 1, 1c i 2, na zasadach określonych w umowie zawieranej pomiędzy tymi organami i jednostkami a Polską Organizacją Turystyczną;
-- **5)** inspirowanie tworzenia regionalnych organizacji turystycznych, obejmujących swoim zakresem działania obszar jednego lub więcej województw, oraz lokalnych organizacji turystycznych, obejmujących swoim zakresem działania obszar jednej lub więcej jednostek samorządu lokalnego, a także z nimi współdziałanie.
+### Art. 2.
 
-2. Polska Organizacja Turystyczna, wykonując swoje zadania, współpracuje w szczególności z:
+### 1.
 
-- **1)** jednostkami samorządu terytorialnego;
-- **1a)** regionalnymi i lokalnymi organizacjami turystycznymi;
-- **1b)** związkami metropolitalnymi;
-- **1c)** ministrem właściwym do spraw kultury fizycznej – w zakresie promocji Polski przez polskich sportowców lub kluby sportowe w sportach drużynowych uczestniczące we współzawodnictwie sportowym organizowanym przez polskie związki sportowe oraz biorące udział w międzynarodowych rozgrywkach sportowych;
-- **2)** organizacjami zrzeszającymi przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, oraz stowarzyszeniami działającymi w tej dziedzinie;
-- **3)** polskimi przedstawicielstwami zagranicznymi – w zakresie zadań wykonywanych za granicą.
+Polska Organizacja Turystyczna jest państwową osobą prawną.
 
-3. W sprawach określonych w art. 27a ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370) Polska Organizacja Turystyczna wspomaga właściwego ministra.
+### 2.
 
-4. Do zamówień na usługi lub dostawy, udzielanych przez Polską Organizację Turystyczną w ramach realizacji zadań powierzonych jej w umowie, o której mowa w ust. 1 pkt 4, przez ministra właściwego do spraw kultury fizycznej, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+Nadzór nad Polską Organizacją Turystyczną sprawuje minister właściwy do spraw kultury fizycznej i turystyki, zwany dalej „właściwym ministrem”.
 
-5. Udzielając zamówień, o których mowa w ust. 4, Polska Organizacja Turystyczna:
+### Art. 3.
 
-- **1)** zamieszcza ogłoszenie o udzielanym zamówieniu w Biuletynie Informacji Publicznej Polskiej Organizacji Turystycznej;
-- **2)** zapewnia przejrzystość postępowania o udzielenie zamówienia i równe traktowanie podmiotów zainteresowanych realizacją zamówienia oraz uwzględnia okoliczności mogące mieć wpływ na jego udzielenie;
-- **3)** w odniesieniu do zamawianych dostaw lub usług może kierować się, oprócz kryterium ceny, również innymi kryteriami, w szczególności odnoszącymi się do aspektów środowiskowych lub społecznych;
-- **4)** nie udostępnia informacji związanych z zamówieniem stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233), jeżeli nie później niż w terminie składania ofert podmiot zainteresowany realizacją zamówienia zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, z wyjątkiem nazwy (firmy) albo imienia i nazwiska oraz adresu podmiotu zainteresowanego realizacją zamówienia, a także informacji dotyczących ceny, terminu realizacji zamówienia, okresu gwarancji i warunków płatności zawartych w ofercie, które nie mogą zostać zastrzeżone;
-- **5)** niezwłocznie zamieszcza w Biuletynie Informacji Publicznej Polskiej Organizacji Turystycznej informację o udzieleniu zamówienia, podając nazwę (firmę) albo imię i nazwisko podmiotu, z którym zawarła umowę o realizację zamówienia, albo informację o nieudzieleniu zamówienia.
+### 1.
 
-6. Osoby wykonujące czynności w postępowaniu o udzielenie zamówienia, o którym mowa w ust. 4, podlegają wyłączeniu z tego postępowania, jeżeli:
+Do zadań Polskiej Organizacji Turystycznej należy:
 
-- **1)** ubiegają się o udzielenie tego zamówienia;
-- **2)** pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia lub są związane z tytułu przysposobienia, opieki lub kurateli z podmiotem zainteresowanym realizacją zamówienia, jego zastępcą prawnym lub członkiem jego organu zarządzającego lub nadzorczego;
-- **3)** przed upływem 3 lat od dnia wszczęcia postępowania o udzielenie zamówienia pozostawały lub pozostają w stosunku pracy lub zlecenia z podmiotem zainteresowanym realizacją zamówienia lub były członkami jego organu zarządzającego lub nadzorczego;
-- **4)** pozostają z podmiotem zainteresowanym realizacją zamówienia w takim stosunku prawnym lub faktycznym, że może to budzić uzasadnione wątpliwości co do bezstronności tych osób;
-- **5)** zostały prawomocnie skazane za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia publicznego, o którym mowa w art. 228–230a, art. 270, art. 276, art. 286, art. 287, art. 296, art. 296a, art. 297, art. 303 lub art. 305 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2024 r. poz. 17 i 1228), o ile nie nastąpiło zatarcie skazania.
+### 1)
 
-7. Osoby wykonujące czynności w postępowaniu o udzielenie zamówienia, o którym mowa w ust. 4, składają, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, w formie pisemnej, oświadczenie o braku istnienia lub istnieniu okoliczności, o których mowa w ust. 6. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+promocja Polski jako kraju atrakcyjnego turystycznie,
 
-**Art. 4.**
+### 2)
 
-1. W celu wykonania zadania, o którym mowa w art. 3 ust. 1 pkt 5, mogą być tworzone regionalne i lokalne organizacje turystyczne.
+zapewnianie funkcjonowania i rozwijania polskiego systemu informacji turystycznej w kraju i na świecie,
 
-2. Do tworzenia i działania regionalnych i lokalnych organizacji turystycznych stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), z tym że:
+### 3)
 
-- **1)** członkiem tych organizacji mogą być osoby fizyczne i osoby prawne, w szczególności podmioty, o których mowa w art. 3 ust. 2 pkt 1, 1b i 2;
-- **2)** nadzór nad tymi organizacjami sprawuje minister właściwy do spraw turystyki;
-- **3)** organizacje te mogą prowadzić działalność gospodarczą w rozmiarach służących realizacji ich celów i w przedmiocie określonym w ich statutach.
+inicjowanie, opiniowanie i wspomaganie planów rozwoju i modernizacji infrastruktury turystycznej,
 
-3. Do zadań regionalnych i lokalnych organizacji turystycznych należy:
+### 4)
 
-- **1)** promocja turystyczna obszaru ich działania;
-- **2)** wspomaganie funkcjonowania i rozwoju informacji turystycznej;
-- **3)** inicjowanie, opiniowanie i wspieranie planów rozwoju i modernizacji infrastruktury turystycznej;
-- **4)** współpraca z Polską Organizacją Turystyczną.
+wykonywanie innych zadań powierzonych przez organy i jednostki, o których mowa w ust. 2 pkt 1 i 2, na zasadach określonych w umowie zawieranej pomiędzy tymi organami i jednostkami a Polską Organizacją Turystyczną.
 
-4. Minister właściwy do spraw turystyki może, w drodze rozporządzenia, przekazać nadzór nad regionalnymi organizacjami turystycznymi lub lokalnymi organizacjami turystycznymi właściwym wojewodom.
+### 2.
 
-**Art. 4a.**
+Polska Organizacja Turystyczna, wykonując swoje zadania, współpracuje w szczególności z:
 
-1. Polskiej Organizacji Turystycznej przysługuje wyłączne prawo używania znaku ustalonego dla celów promocji Polski w dziedzinie turystyki.
+### 1)
 
-2. Minister właściwy do spraw turystyki określi, w drodze rozporządzenia, wzór znaku, o którym mowa w ust. 1.
+jednostkami samorządu terytorialnego,
 
-#### Rozdział 2 Organy Polskiej Organizacji Turystycznej
+### 2)
 
-**Art. 5.** Organami Polskiej Organizacji Turystycznej są:
+organizacjami zrzeszającymi przedsiębiorców z dziedziny turystyki, w tym samorządu gospodarczego i zawodowego, oraz stowarzyszeniami działającymi w tej dziedzinie,
 
-**Art. 6.**
+### 3)
 
-1. Rada Polskiej Organizacji Turystycznej wykonuje kompetencje stanowiące i opiniodawcze określone w ustawie.
+polskimi przedstawicielstwami zagranicznymi - w zakresie zadań wykonywanych za granicą.
 
-2. Do kompetencji Rady Polskiej Organizacji Turystycznej należy w szczególności:
+### 3.
 
-- **1)** przyjmowanie przedstawionych przez Prezesa Polskiej Organizacji Turystycznej projektów rocznych planów finansowych;
-- **2)** przyjmowanie rocznych i wieloletnich programów działania Polskiej Organizacji Turystycznej;
-- **3)** zatwierdzanie rocznych sprawozdań z działalności Polskiej Organizacji Turystycznej;
-- **4)** przyjmowanie rocznych sprawozdań finansowych Polskiej Organizacji Turystycznej;
-- **5)** opiniowanie kandydatów na stanowisko Prezesa i wiceprezesów Polskiej Organizacji Turystycznej;
-- **6)** określanie zasad wynagradzania pracowników Polskiej Organizacji Turystycznej i wymagań kwalifikacyjnych wobec tych pracowników.
+W sprawach określonych w art. 15 ust. 1 pkt 3 i 4 ustawy z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html), z [1998 r. Nr 162, poz. 1122](https://api.sejm.gov.pl/eli/acts/DU/1998/1122/text.html) i z [1999 r. Nr 41, poz. 412](https://api.sejm.gov.pl/eli/acts/DU/1999/412/text.html)) Polska Organizacja Turystyczna wspomaga właściwego ministra.
 
-3. Rada Polskiej Organizacji Turystycznej jest uprawniona do przedstawiania opinii lub wniosków we wszystkich sprawach dotyczących działalności Polskiej Organizacji Turystycznej.
+### Art. 4.
 
-**Art. 7.**
+Dla zapewnienia współpracy, o której mowa w art. 1 ust. 2, Polska Organizacja Turystyczna może inspirować tworzenie regionalnych organizacji turystycznych obejmujących swoim zakresem działania obszar jednego lub więcej województw oraz lokalnych organizacji turystycznych obejmujących swoim zakresem działania obszar jednej lub więcej jednostek samorządu terytorialnego i z nimi współdziałać.
 
-1. W skład Rady Polskiej Organizacji Turystycznej wchodzi 12– 18 członków powoływanych przez właściwego ministra spośród kandydatów przedstawionych przez:
+### Rozdział 2 Organy Polskiej Organizacji Turystycznej
 
-- **1)** administrację rządową;
-- **2)** jednostki lub ogólnopolskie reprezentacje samorządu terytorialnego;
-- **3)** samorząd gospodarczy i samorząd zawodowy oraz stowarzyszenia działające w dziedzinie turystyki, a także przewoźników. Podmioty wymienione w pkt 1–3 są reprezentowane w Radzie Polskiej Organizacji Turystycznej w równych proporcjach.
+### Art. 5.
 
-2. Kadencja Rady Polskiej Organizacji Turystycznej trwa 3 lata.
+Organami Polskiej Organizacji Turystycznej są:
 
-3. Rada powołuje ze swojego składu i odwołuje Przewodniczącego i zastępcę Przewodniczącego Rady Polskiej Organizacji Turystycznej.
+### 1)
 
-4. W razie uzyskania równej liczby głosów w Radzie Polskiej Organizacji Turystycznej, rozstrzyga głos jej Przewodniczącego.
+Rada Polskiej Organizacji Turystycznej,
 
-5. Ustanie członkostwa w Radzie Polskiej Organizacji Turystycznej może nastąpić z powodu:
+### 2)
 
-- **1)** odwołania na umotywowany wniosek podmiotu, który przedstawił kandydaturę;
-- **2)** pisemnej rezygnacji;
-- **3)** ograniczenia albo utraty zdolności do czynności prawnych;
-- **4)** śmierci.
+Prezes Polskiej Organizacji Turystycznej.
 
-6. Właściwy minister:
+### Art. 6.
 
-- **1)** odwołuje członka Rady Polskiej Organizacji Turystycznej w wypadku, o którym mowa w ust. 5 pkt 1;
-- **2)** stwierdza ustanie członkostwa w wypadkach, o których mowa w ust. 5 pkt 2–
+### 1.
 
-4.
+Rada Polskiej Organizacji Turystycznej wykonuje kompetencje stanowiące i opiniodawcze określone w ustawie.
 
-**Art. 8.** Prezes Polskiej Organizacji Turystycznej kieruje Polską Organizacją Turystyczną i reprezentuje ją na zewnątrz.
+### 2.
 
-**Art. 9.**
+Do kompetencji Rady Polskiej Organizacji Turystycznej należy w szczególności:
 
-1. Prezesa Polskiej Organizacji Turystycznej powołuje minister właściwy do spraw turystyki, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej. Minister właściwy do spraw turystyki odwołuje Prezesa Polskiej Organizacji Turystycznej.
+### 1)
 
-2. Prezesem Polskiej Organizacji Turystycznej może być także osoba zajmująca kierownicze stanowisko państwowe w rozumieniu przepisów o wynagradzaniu osób zajmujących kierownicze stanowiska państwowe.
+przyjmowanie przedstawionych przez Prezesa Polskiej Organizacji Turystycznej rocznych planów finansowych oraz przedstawianie ich właściwemu ministrowi,
 
-3. Stanowisko Prezesa Polskiej Organizacji Turystycznej może zajmować osoba, która:
+### 2)
 
-- **1)** posiada tytuł zawodowy magistra lub równorzędny;
-- **2)** jest obywatelem polskim;
-- **3)** korzysta z pełni praw publicznych;
-- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** posiada kompetencje kierownicze;
-- **6)** posiada co najmniej 6-letni staż pracy, w tym co najmniej 3-letni staż pracy na stanowisku kierowniczym;
-- **7)** posiada wykształcenie i wiedzę z zakresu spraw należących do właściwości Polskiej Organizacji Turystycznej.
+przyjmowanie rocznych i wieloletnich programów działania Polskiej Organizacji Turystycznej,
 
-4. Informację o naborze na stanowisko Prezesa Polskiej Organizacji Turystycznej ogłasza się przez umieszczenie ogłoszenia w miejscu powszechnie dostępnym w siedzibie Polskiej Organizacji Turystycznej oraz w Biuletynie Informacji Publicznej Polskiej Organizacji Turystycznej i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Ogłoszenie powinno zawierać:
+### 3)
 
-- **1)** nazwę i adres Polskiej Organizacji Turystycznej;
-- **2)** określenie stanowiska;
-- **3)** wymagania związane ze stanowiskiem wynikające z przepisów prawa;
-- **4)** zakres zadań wykonywanych na stanowisku;
-- **5)** wskazanie wymaganych dokumentów;
-- **6)** termin i miejsce składania dokumentów;
-- **7)** informację o metodach i technikach naboru.
+zatwierdzanie rocznych sprawozdań z działalności Polskiej Organizacji Turystycznej,
 
-5. Termin, o którym mowa w ust. 4 pkt 6, nie może być krótszy niż 10 dni od dnia opublikowania ogłoszenia w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów.
+### 4)
 
-6. Nabór na stanowisko Prezesa Polskiej Organizacji Turystycznej przeprowadza zespół, powołany przez ministra właściwego do spraw turystyki, liczący co najmniej 3 osoby, których wiedza i doświadczenie dają rękojmię wyłonienia najlepszych kandydatów. W toku naboru ocenia się doświadczenie zawodowe kandydata, wiedzę niezbędną do wykonywania zadań na stanowisku, na które jest przeprowadzany nabór, oraz kompetencje kierownicze.
+przyjmowanie rocznych sprawozdań finansowych Polskiej Organizacji Turystycznej,
 
-7. Ocena wiedzy i kompetencji kierowniczych, o których mowa w ust. 6, może być dokonana na zlecenie zespołu przez osobę niebędącą członkiem zespołu, która posiada odpowiednie kwalifikacje do dokonania tej oceny.
+### 5)
 
-8. Członek zespołu oraz osoba, o której mowa w ust. 7, mają obowiązek zachowania w tajemnicy informacji dotyczących osób ubiegających się o stanowisko, uzyskanych w trakcie naboru.
+opiniowanie kandydatów na stanowisko Prezesa i wiceprezesów Polskiej Organizacji Turystycznej,
 
-9. W toku naboru zespół wyłania nie więcej niż 3 kandydatów, których przedstawia ministrowi właściwemu do spraw turystyki.
+### 6)
 
-10. Z przeprowadzonego naboru zespół sporządza protokół zawierający:
+określanie zasad wynagradzania pracowników Polskiej Organizacji Turystycznej i wymagań kwalifikacyjnych wobec tych pracowników.
 
-- **1)** nazwę i adres Polskiej Organizacji Turystycznej;
-- **2)** określenie stanowiska, na które był prowadzony nabór, oraz liczbę kandydatów;
-- **3)** imiona, nazwiska i adresy nie więcej niż 3 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych w ogłoszeniu o naborze;
-- **4)** informację o zastosowanych metodach i technikach naboru;
-- **5)** uzasadnienie dokonanego wyboru albo powody niewyłonienia kandydata;
-- **6)** skład zespołu.
+### 3.
 
-11. Wynik naboru ogłasza się niezwłocznie przez umieszczenie informacji w Biuletynie Informacji Publicznej Polskiej Organizacji Turystycznej i Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów. Informacja o wyniku naboru zawiera:
+Rada Polskiej Organizacji Turystycznej jest uprawniona do przedstawiania opinii lub wniosków we wszystkich sprawach dotyczących działalności Polskiej Organizacji Turystycznej.
 
-- **1)** nazwę i adres Polskiej Organizacji Turystycznej;
-- **2)** określenie stanowiska, na które był prowadzony nabór;
-- **3)** imiona, nazwiska wybranych kandydatów oraz ich miejsca zamieszkania w rozumieniu przepisów Kodeksu cywilnego albo informację o niewyłonieniu kandydata.
+### Art. 7.
 
-12. Umieszczenie w Biuletynie Informacji Publicznej Kancelarii Prezesa Rady Ministrów ogłoszenia o naborze oraz o wyniku tego naboru jest bezpłatne.
+### 1.
 
-**Art. 10.**
+W skład Rady Polskiej Organizacji Turystycznej wchodzi 12-18 członków powoływanych przez właściwego ministra spośród kandydatów przedstawionych przez:
 
-1. Wiceprezesów Polskiej Organizacji Turystycznej w liczbie od 1 do 3 powołuje Prezes Polskiej Organizacji Turystycznej, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej. Prezes Polskiej Organizacji Turystycznej odwołuje wiceprezesów Polskiej Organizacji Turystycznej, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
+### 1)
 
-2. Prezesa Polskiej Organizacji Turystycznej w razie potrzeby zastępuje wyznaczony przez niego jeden z wiceprezesów.
+administrację rządową,
 
-3. Zespół przeprowadzający nabór na stanowiska, o których mowa w ust. 1, powołuje Prezes Polskiej Organizacji Turystycznej.
+### 2)
 
-4. Do sposobu przeprowadzania naboru na stanowiska, o których mowa w ust. 1, stosuje się odpowiednio przepisy art. 9 ust. 3–12.
+jednostki lub ogólnopolskie reprezentacje samorządu terytorialnego,
 
-**Art. 11.**
+### 3)
 
-1. Do obowiązków Prezesa Polskiej Organizacji Turystycznej należy realizowanie zadań Polskiej Organizacji Turystycznej, określonych w art. 3, a w szczególności:
+samorząd gospodarczy i samorząd zawodowy oraz stowarzyszenia działające w dziedzinie turystyki, a także przewoźników.
 
-- **1)** opracowywanie projektu rocznego planu finansowego Polskiej Organizacji Turystycznej, a także występowanie z wnioskami do właściwego ministra w sprawie wysokości dotacji budżetowej na realizację tych zadań;
-- **2)** opracowywanie projektów rocznych i wieloletnich programów działania Polskiej Organizacji Turystycznej;
-- **3)** przedstawianie Radzie Polskiej Organizacji Turystycznej i właściwemu ministrowi rocznych sprawozdań z działalności Polskiej Organizacji Turystycznej;
-- **4)** tworzenie jednostek organizacyjnych Polskiej Organizacji Turystycznej, w tym jednostek wykonujących zadania za granicą, a zwłaszcza ośrodków informacji turystycznej.
+Podmioty wymienione w pkt 1-3 są reprezentowane w Radzie Polskiej Organizacji Turystycznej w równych proporcjach.
 
-2. Prezes Polskiej Organizacji Turystycznej wykonuje swoje zadania przy pomocy Biura Prezesa Polskiej Organizacji Turystycznej. Zadania i organizację Biura określa statut, o którym mowa w art. 12.
+### 2.
 
-**Art. 12.** Szczegółowy zakres działania Polskiej Organizacji Turystycznej z uwzględnieniem jednostek organizacyjnych wykonujących zadania za granicą, jej strukturę organizacyjną, tryb działania oraz inne sprawy wymienione w ustawie określa statut Polskiej Organizacji Turystycznej, nadany, w drodze rozporządzenia, przez właściwego ministra po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
+Kadencja Rady Polskiej Organizacji Turystycznej trwa 3 lata.
 
-#### Rozdział 3 Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej
+### 3.
 
-**Art. 13.**
+Rada powołuje ze swojego składu i odwołuje Przewodniczącego i zastępcę Przewodniczącego Rady Polskiej Organizacji Turystycznej.
 
-1. Skarb Państwa przekaże Polskiej Organizacji Turystycznej:
+### 4.
 
-- **1)** mienie przedsiębiorstwa państwowego Polska Agencja Promocji Turystyki z siedzibą w Warszawie;
-- **2)** inne składniki majątkowe niezbędne do podjęcia działalności Polskiej Organizacji Turystycznej, które właściwy minister przekaże jej w porozumieniu z ministrem właściwym do spraw Skarbu Państwa;
-- **3)** składniki majątkowe należące do polskich ośrodków informacji turystycznej za granicą.
+W razie uzyskania równej liczby głosów w Radzie Polskiej Organizacji Turystycznej, rozstrzyga głos jej Przewodniczącego.
 
-2. Skarb Państwa, w celu podwyższenia funduszu statutowego Polskiej Organizacji Turystycznej, przekaże jej nieodpłatnie akcje Polskiej Agencji Rozwoju Turystyki S.A. z siedzibą w Warszawie.
+### 5.
 
-3. Nabycie mienia, o którym mowa w ust. 1 pkt 1 i 3, następuje nieodpłatnie, przy czym do jego trybu i skutków stosuje się odpowiednio przepisy o komercjalizacji i prywatyzacji dotyczące prywatyzacji bezpośredniej poprzez sprzedaż przedsiębiorstwa, z wyłączeniem przepisów dotyczących zarządzenia o prywatyzacji bezpośredniej.
+Ustanie członkostwa w Radzie Polskiej Organizacji Turystycznej może nastąpić z powodu:
 
-4. Polska Organizacja Turystyczna, z chwilą nabycia składników mienia, o których mowa w ust. 1 i 2, wstępuje w prawa i obowiązki z nimi związane w stosunku do Skarbu Państwa oraz osób trzecich.
+### 1)
 
-**Art. 14.**
+odwołania na umotywowany wniosek podmiotu, który przedstawił kandydaturę,
 
-1. Przychodami Polskiej Organizacji Turystycznej są:
+### 2)
 
-- **1)** dotacje budżetowe:
-    - **a)** podmiotowe,
-    - **b)** celowe;
+pisemnej rezygnacji,
 
-- **2)** bezzwrotna pomoc zagraniczna;
-- **3)** dochody z działalności gospodarczej;
-- **4)** wpłaty jednostek samorządu terytorialnego;
-- **5)** przychody ze sprzedaży rzeczowych składników mienia;
-- **6)** przychody z tytułu przekazania do odpłatnego używania rzeczowych składników mienia;
-- **7)** wpłaty organizacji zrzeszających przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji;
-- **8)** wpłaty przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji;
-- **9)** darowizny i zapisy;
-- **10)** inne przychody.
+### 3)
 
-2. Wpłaty, o których mowa w ust. 1 pkt 4, 7 i 8, mają charakter dobrowolny.
+ograniczenia albo utraty zdolności do czynności prawnych,
 
-3. Kwoty dotacji, o których mowa w ust. 1 pkt 1 lit. a, ustala ustawa budżetowa.
+### 4)
 
-4. Polska Organizacja Turystyczna prowadzi rachunkowość według zasad określonych w przepisach o rachunkowości.
+śmierci.
 
-5. Rokiem obrotowym i podatkowym Polskiej Organizacji Turystycznej jest rok kalendarzowy.
+### 6.
 
-6. Nadwyżki środków finansowych w danym roku kalendarzowym przechodzą na rok następny, z wyjątkiem przychodów, o których mowa w ust. 1 pkt 1.
+Właściwy minister:
 
-**Art. 15.**
+### 1)
 
-1. Polska Organizacja Turystyczna prowadzi gospodarkę finansową na podstawie rocznego planu finansowego.
+odwołuje członka Rady Polskiej Organizacji Turystycznej w wypadku, o którym mowa w ust. 5 pkt 1,
 
-2. Projekt rocznego planu finansowego Polskiej Organizacji Turystycznej, po przyjęciu przez Radę Polskiej Organizacji Turystycznej i zatwierdzeniu przez właściwego ministra, jest przekazywany ministrowi właściwemu do spraw finansów publicznych w trybie określonym w przepisach dotyczących prac nad projektem ustawy budżetowej.
+### 2)
 
-3. Roczny plan finansowy Polskiej Organizacji Turystycznej obejmuje w szczególności:
+stwierdza ustanie członkostwa w wypadkach, o których mowa w ust. 5 pkt 2-4.
 
-- **1)** planowane przychody, w tym dotacje na realizację zadań, o których mowa w art. 3;
-- **2)** planowane koszty operacyjne;
-- **3)** planowane wydatki inwestycyjne;
-- **4)** stan środków obrotowych na dzień 31 grudnia roku poprzedzającego rok obrotowy;
-- **5)** planowany przyrost lub spadek środków obrotowych na ostatni dzień roku obrotowego;
-- **6)** sposób pokrycia planowanego niedoboru przychodów w stosunku do kosztów.
+### Art. 8.
 
-**Art. 16.** W razie gdy działalność Polskiej Organizacji Turystycznej w roku obrotowym zakończy się nadwyżką przychodów w stosunku do kosztów, nadwyżka podlega wpłacie na fundusz rezerwowy, o którym mowa w art. 17 ust. 1 pkt 2.
+Prezes Polskiej Organizacji Turystycznej kieruje Polską Organizacją Turystyczną i reprezentuje ją na zewnątrz.
 
-**Art. 17.**
+### Art. 9.
 
-1. Tworzy się następujące fundusze własne Polskiej Organizacji Turystycznej:
+### 1.
 
-- **1)** fundusz statutowy;
-- **2)** fundusz rezerwowy.
+Prezesa Polskiej Organizacji Turystycznej powołuje właściwy minister, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
 
-2. Na fundusz statutowy Polskiej Organizacji Turystycznej składa się w szczególności:
+### 2.
 
-- **1)** wartość mienia Polskiej Organizacji Turystycznej;
-- **2)** inwestycje realizowane z dotacji budżetowej;
-- **3)** wartość netto środków trwałych;
-- **4)** wartości niematerialne i prawne;
-- **5)** wartość środków obrotowych przekazanych Polskiej Organizacji Turystycznej.
+Kadencja Prezesa Polskiej Organizacji Turystycznej trwa 4 lata.
 
-3. Fundusz statutowy ulega zmniejszeniu o wartość umorzenia składników majątkowych zaliczanych do majątku trwałego dokonywanego zgodnie z obowiązującymi przepisami oraz ulega zwiększeniu o wartość nabytych bądź wytworzonych składników mienia Polskiej Organizacji Turystycznej.
+### 3.
 
-4. Dysponentem funduszu rezerwowego jest Prezes Polskiej Organizacji Turystycznej.
+Prezesem Polskiej Organizacji Turystycznej może być także osoba zajmująca kierownicze stanowisko państwowe w rozumieniu przepisów o wynagradzaniu osób zajmujących kierownicze stanowiska państwowe.
 
-5. Fundusz rezerwowy przeznacza się w pierwszej kolejności na finansowanie niedoborów wynikających z działalności prowadzonej przez Polską Organizację Turystyczną; pozostała nadwyżka może być przeznaczona na finansowanie wieloletnich zadań inwestycyjnych i wieloletnich programów promocyjnych ujętych w wieloletnich programach działania Polskiej Organizacji Turystycznej.
+### 4.
 
-**Art. 18.**
+Prezes Polskiej Organizacji Turystycznej może być odwołany z ważnych przyczyn przez właściwego ministra, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
 
-1. Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej podlega badaniu przez firmę audytorską; badanie dokonywane jest za każdy rok obrotowy.
+### 5.
 
-2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej dokonuje Rada Polskiej Organizacji Turystycznej.
+Ta sama osoba może być Prezesem Polskiej Organizacji Turystycznej nie dłużej niż przez 2 kolejne kadencje.
 
-3. Prezes Polskiej Organizacji Turystycznej przedstawia Radzie Polskiej Organizacji Turystycznej oraz właściwemu ministrowi roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej wraz ze sprawozdaniem z badania.
+### Art. 10.
 
-4. Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej zatwierdza właściwy minister.
+### 1.
 
-**Art. 19.** Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań, o których mowa w art. 3.
+Wiceprezesów Polskiej Organizacji Turystycznej w liczbie od 1 do 3 powołuje i odwołuje Prezes Polskiej Organizacji Turystycznej, po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
 
-**Art. 19a.**
+### 2.
 
-1. Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań wynikających z odrębnych przepisów.
+Prezesa Polskiej Organizacji Turystycznej w razie potrzeby zastępuje wyznaczony przez niego jeden z wiceprezesów.
 
-2. (uchylony)
+### Art. 11.
 
-#### Rozdział 4 Działalność gospodarcza Polskiej Organizacji Turystycznej
+### 1.
 
-**Art. 20.**
+Do obowiązków Prezesa Polskiej Organizacji Turystycznej należy realizowanie zadań Polskiej Organizacji Turystycznej, określonych w art. 3, a w szczególności:
 
-1. Polska Organizacja Turystyczna może prowadzić działalność gospodarczą na podstawie przepisów o działalności gospodarczej w zakresie i w sposób określony w statucie.
+### 1)
 
-2. Dochód z działalności gospodarczej służy wyłącznie realizacji zadań Polskiej Organizacji Turystycznej określonych w art. 3 ust. 1.
+opracowywanie projektu rocznego planu finansowego Polskiej Organizacji Turystycznej, a także występowanie z wnioskami do właściwego ministra w sprawie wysokości dotacji budżetowej na realizację tych zadań,
 
-#### Rozdział 5 Zmiany w przepisach obowiązujących
+### 2)
 
-#### Rozdział 6 Przepisy przejściowe i końcowe
+opracowywanie projektów rocznych i wieloletnich programów działania Polskiej Organizacji Turystycznej,
 
-**Art. 24.** Do czasu powołania ministra właściwego do spraw kultury fizycznej i turystyki jego kompetencje określone w art. 7, art. 9 i art. 11 wykonuje Prezes Urzędu Kultury Fizycznej i Turystyki, a określone w art. 12 – Prezes Rady Ministrów.
+### 3)
 
-**Art. 25.**
+przedstawianie Radzie Polskiej Organizacji Turystycznej i właściwemu ministrowi rocznych sprawozdań z działalności Polskiej Organizacji Turystycznej,
 
-1. Polska Organizacja Turystyczna staje się pracodawcą w stosunku do pracowników polskich ośrodków informacji turystycznej za granicą. Przepisy art. 23 § 1, 2 i 5 Kodeksu pracy, z zastrzeżeniem przepisów o pracownikach urzędów państwowych oraz o służbie cywilnej, stosuje się odpowiednio.
+### 4)
 
-2. Przepis ust. 1 stosuje się odpowiednio do pracowników przedsiębiorstwa państwowego Polska Agencja Promocji Turystyki.
+tworzenie jednostek organizacyjnych Polskiej Organizacji Turystycznej, w tym jednostek wykonujących zadania za granicą, a zwłaszcza ośrodków informacji turystycznej.
 
-**Art. 26.** Ustawa wchodzi w życie z dniem 1 stycznia 2000 r., z wyjątkiem przepisów rozdziału 2 i art. 24, które wchodzą w życie z dniem ogłoszenia .
+### 2.
 
+Prezes Polskiej Organizacji Turystycznej wykonuje swoje zadania przy pomocy Biura Prezesa Polskiej Organizacji Turystycznej. Zadania i organizację Biura określa statut, o którym mowa w art. 12.
+
+### Art. 12.
+
+Szczegółowy zakres działania Polskiej Organizacji Turystycznej z uwzględnieniem jednostek organizacyjnych wykonujących zadania za granicą, jej strukturę organizacyjną, tryb działania oraz inne sprawy wymienione w ustawie określa statut Polskiej Organizacji Turystycznej, nadany, w drodze rozporządzenia, przez właściwego ministra po zasięgnięciu opinii Rady Polskiej Organizacji Turystycznej.
+
+### Rozdział 3 Mienie i zasady gospodarki finansowej Polskiej Organizacji Turystycznej
+
+### Art. 13.
+
+### 1.
+
+Skarb Państwa przekaże Polskiej Organizacji Turystycznej:
+
+### 1)
+
+mienie przedsiębiorstwa państwowego Polska Agencja Promocji Turystyki z siedzibą w Warszawie,
+
+### 2)
+
+inne składniki majątkowe niezbędne do podjęcia działalności Polskiej Organizacji Turystycznej, które Prezes Urzędu Kultury Fizycznej i Turystyki przekaże jej w porozumieniu z ministrem właściwym do spraw Skarbu Państwa,
+
+### 3)
+
+składniki majątkowe należące do polskich ośrodków informacji turystycznej za granicą.
+
+### 2.
+
+Skarb Państwa, w celu podwyższenia funduszu statutowego Polskiej Organizacji Turystycznej, przekaże jej nieodpłatnie akcje Polskiej Agencji Rozwoju Turystyki S.A. z siedzibą w Warszawie.
+
+### 3.
+
+Nabycie mienia, o którym mowa w ust. 1 pkt 1 i 3, następuje nieodpłatnie, przy czym do jego trybu i skutków stosuje się odpowiednio przepisy o komercjalizacji i prywatyzacji dotyczące prywatyzacji bezpośredniej poprzez sprzedaż przedsiębiorstwa, z wyłączeniem przepisów dotyczących zarządzenia o prywatyzacji bezpośredniej.
+
+### 4.
+
+Polska Organizacja Turystyczna, z chwilą nabycia składników mienia, o których mowa w ust. 1 i 2, wstępuje w prawa i obowiązki z nimi związane w stosunku do Skarbu Państwa oraz osób trzecich.
+
+### Art. 14.
+
+### 1.
+
+Przychodami Polskiej Organizacji Turystycznej są:
+
+### 1)
+
+dotacje budżetowe,
+
+### 2)
+
+bezzwrotna pomoc zagraniczna,
+
+### 3)
+
+dochody z działalności gospodarczej,
+
+### 4)
+
+wpłaty jednostek samorządu terytorialnego,
+
+### 5)
+
+przychody ze sprzedaży rzeczowych składników mienia,
+
+### 6)
+
+przychody z tytułu przekazania do odpłatnego używania rzeczowych składników mienia,
+
+### 7)
+
+wpłaty organizacji zrzeszających przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji,
+
+### 8)
+
+wpłaty przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji,
+
+### 9)
+
+darowizny i zapisy,
+
+### 10)
+
+inne przychody.
+
+### 2.
+
+Wpłaty, o których mowa w ust. 1 pkt 4, 7 i 8, mają charakter dobrowolny.
+
+### 3.
+
+Kwoty dotacji, o których mowa w ust. 1 pkt 1, ustala ustawa budżetowa.
+
+### 4.
+
+Polska Organizacja Turystyczna prowadzi rachunkowość według zasad określonych w przepisach o rachunkowości.
+
+### 5.
+
+Rokiem obrotowym i podatkowym Polskiej Organizacji Turystycznej jest rok kalendarzowy.
+
+### 6.
+
+Nadwyżki środków finansowych w danym roku kalendarzowym przechodzą na rok następny, z wyjątkiem przychodów, o których mowa w ust. 1 pkt 1.
+
+### Art. 15.
+
+### 1.
+
+Polska Organizacja Turystyczna działa na podstawie rocznego planu finansowego.
+
+### 2.
+
+Roczny plan finansowy Polskiej Organizacji Turystycznej po przyjęciu przez Radę Polskiej Organizacji Turystycznej zatwierdza właściwy minister.
+
+### 3.
+
+Roczny plan finansowy Polskiej Organizacji Turystycznej obejmuje w szczególności:
+
+### 1)
+
+planowane przychody, w tym dotacje na realizację zadań, o których mowa w art. 3,
+
+### 2)
+
+planowane koszty operacyjne,
+
+### 3)
+
+planowane wydatki inwestycyjne,
+
+### 4)
+
+stan środków obrotowych na dzień 31 grudnia roku poprzedzającego rok obrotowy,
+
+### 5)
+
+planowany przyrost lub spadek środków obrotowych na ostatni dzień roku obrotowego,
+
+### 6)
+
+sposób pokrycia planowanego niedoboru przychodów w stosunku do kosztów.
+
+### Art. 16.
+
+W razie gdy działalność Polskiej Organizacji Turystycznej w roku obrotowym zakończy się nadwyżką przychodów w stosunku do kosztów, nadwyżka podlega wpłacie na fundusz rezerwowy, o którym mowa w art. 17 ust. 1 pkt 2.
+
+### Art. 17.
+
+### 1.
+
+Tworzy się następujące fundusze własne Polskiej Organizacji Turystycznej:
+
+### 1)
+
+fundusz statutowy,
+
+### 2)
+
+fundusz rezerwowy.
+
+### 2.
+
+Na fundusz statutowy Polskiej Organizacji Turystycznej składa się w szczególności:
+
+### 1)
+
+wartość mienia Polskiej Organizacji Turystycznej,
+
+### 2)
+
+inwestycje realizowane z dotacji budżetowej,
+
+### 3)
+
+wartość netto środków trwałych,
+
+### 4)
+
+wartości niematerialne i prawne,
+
+### 5)
+
+wartość środków obrotowych przekazanych Polskiej Organizacji Turystycznej.
+
+### 3.
+
+Fundusz statutowy ulega zmniejszeniu o wartość umorzenia składników majątkowych zaliczanych do majątku trwałego dokonywanego zgodnie z obowiązującymi przepisami oraz ulega zwiększeniu o wartość nabytych bądź wytworzonych składników mienia Polskiej Organizacji Turystycznej.
+
+### 4.
+
+Dysponentem funduszu rezerwowego jest Prezes Polskiej Organizacji Turystycznej.
+
+### 5.
+
+Fundusz rezerwowy przeznacza się w pierwszej kolejności na finansowanie niedoborów wynikających z działalności prowadzonej przez Polską Organizację Turystyczną; pozostała nadwyżka może być przeznaczona na finansowanie wieloletnich zadań inwestycyjnych i wieloletnich programów promocyjnych ujętych w wieloletnich programach działania Polskiej Organizacji Turystycznej.
+
+### Art. 18.
+
+### 1.
+
+Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej podlega badaniu przez podmiot uprawniony do badania sprawozdań finansowych; badanie dokonywane jest za każdy rok obrotowy.
+
+### 2.
+
+Wyboru podmiotu uprawnionego do badania rocznego sprawozdania finansowego Polskiej Organizacji Turystycznej dokonuje Rada Polskiej Organizacji Turystycznej.
+
+### 3.
+
+Prezes Polskiej Organizacji Turystycznej przedstawia Radzie Polskiej Organizacji Turystycznej oraz właściwemu ministrowi roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej wraz z raportem podmiotu, który dokonał badania sprawozdania finansowego.
+
+### 4.
+
+Roczne sprawozdanie finansowe Polskiej Organizacji Turystycznej zatwierdza właściwy minister w porozumieniu z ministrem właściwym do spraw budżetu.
+
+### Art. 19.
+
+Polska Organizacja Turystyczna może otrzymywać z budżetu państwa dotacje celowe na finansowanie zadań przewidzianych w jej planie finansowym. Kwoty tych dotacji ustala ustawa budżetowa.
+
+### Rozdział 4 Działalność gospodarcza Polskiej Organizacji Turystycznej
+
+### Art. 20.
+
+### 1.
+
+Polska Organizacja Turystyczna może prowadzić działalność gospodarczą na podstawie przepisów o działalności gospodarczej w zakresie i w sposób określony w statucie.
+
+### 2.
+
+Dochód z działalności gospodarczej służy wyłącznie realizacji zadań Polskiej Organizacji Turystycznej określonych w art. 3 ust. 1.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących
+
+### Art. 21.
+
+W ustawie z dnia 25 stycznia 1991 r. o utworzeniu Urzędu Kultury Fizycznej i Turystyki ([Dz. U. Nr 16, poz. 74](https://api.sejm.gov.pl/eli/acts/DU/1991/74/text.html) i z [1997 r. Nr 141, poz. 943](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 dodaje się na końcu wyrazy „, z zastrzeżeniem przepisów o Polskiej Organizacji Turystycznej.”;
+
+### 2)
+
+w art. 3 skreśla się pkt 8.
+
+### Art. 22.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 1993 r. Nr 90, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/1993/416/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html), [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html), [Nr 123, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1994/602/text.html) i [Nr 126, poz. 626](https://api.sejm.gov.pl/eli/acts/DU/1994/626/text.html), z [1995 r. Nr 5, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/1995/25/text.html) i [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html), z [1996 r. Nr 25, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1996/113/text.html), [Nr 87, poz. 395](https://api.sejm.gov.pl/eli/acts/DU/1996/395/text.html), [Nr 137, poz. 638](https://api.sejm.gov.pl/eli/acts/DU/1996/638/text.html), [Nr 147, poz. 686](https://api.sejm.gov.pl/eli/acts/DU/1996/686/text.html) i [Nr 156, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1996/776/text.html), z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 30, poz. 164](https://api.sejm.gov.pl/eli/acts/DU/1997/164/text.html), [Nr 71, poz. 449](https://api.sejm.gov.pl/eli/acts/DU/1997/449/text.html), [Nr 85, poz. 538](https://api.sejm.gov.pl/eli/acts/DU/1997/538/text.html), [Nr 96, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/1997/592/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 123, poz. 776](https://api.sejm.gov.pl/eli/acts/DU/1997/776/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), [Nr 139, poz. 932, 933](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)[i 934](https://api.sejm.gov.pl/eli/acts/DU/1997/933/text.html) i [Nr 141, poz. 943 i 945](https://api.sejm.gov.pl/eli/acts/DU/1997/943/text.html) oraz z [1998 r. Nr 66, poz. 430](https://api.sejm.gov.pl/eli/acts/DU/1998/430/text.html), [Nr 74, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1998/471/text.html), [Nr 108, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1998/685/text.html), [Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html), [Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html), [Nr 144, poz. 930](https://api.sejm.gov.pl/eli/acts/DU/1998/930/text.html) i [Nr 162, poz. 1121](https://api.sejm.gov.pl/eli/acts/DU/1998/1121/text.html)) w art. 23 wprowadza się następujące zmiany:
+
+### 1)
+
+w ust. 1 w pkt 30 po wyrazach „w drodze rozporządzenia,” dodaje się wyrazy „a także wpłat przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji, na rzecz Polskiej Organizacji Turystycznej,”;
+
+### 2)
+
+dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, maksymalną wysokość wpłat dokonywanych przez przedsiębiorców, prowadzących działalność gospodarczą w dziedzinie turystyki, wypoczynku, sportu i rekreacji, na rzecz Polskiej Organizacji Turystycznej, uznawaną za koszt uzyskania przychodów.
+
+”
+
+### Art. 23.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 1993 r. Nr 106, poz. 482](https://api.sejm.gov.pl/eli/acts/DU/1993/482/text.html) i [Nr 134, poz. 646](https://api.sejm.gov.pl/eli/acts/DU/1993/646/text.html), z [1994 r. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1994/2/text.html), [Nr 43, poz. 163](https://api.sejm.gov.pl/eli/acts/DU/1994/163/text.html), [Nr 80, poz. 368](https://api.sejm.gov.pl/eli/acts/DU/1994/368/text.html), [Nr 87, poz. 406](https://api.sejm.gov.pl/eli/acts/DU/1994/406/text.html), [Nr 90, poz. 419](https://api.sejm.gov.pl/eli/acts/DU/1994/419/text.html), [Nr 113, poz. 547](https://api.sejm.gov.pl/eli/acts/DU/1994/547/text.html), [Nr 123, poz. 602](https://api.sejm.gov.pl/eli/acts/DU/1994/602/text.html) i [Nr 127, poz. 627](https://api.sejm.gov.pl/eli/acts/DU/1994/627/text.html), z [1995 r. Nr 5, poz. 25](https://api.sejm.gov.pl/eli/acts/DU/1995/25/text.html), [Nr 86, poz. 433](https://api.sejm.gov.pl/eli/acts/DU/1995/433/text.html), [Nr 96, poz. 478](https://api.sejm.gov.pl/eli/acts/DU/1995/478/text.html), [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html) i [Nr 142, poz. 704](https://api.sejm.gov.pl/eli/acts/DU/1995/704/text.html), z [1996 r. Nr 25, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1996/113/text.html), [Nr 34, poz. 146](https://api.sejm.gov.pl/eli/acts/DU/1996/146/text.html), [Nr 90, poz. 405](https://api.sejm.gov.pl/eli/acts/DU/1996/405/text.html), [Nr 137, poz. 639](https://api.sejm.gov.pl/eli/acts/DU/1996/639/text.html) i [Nr 147, poz. 686](https://api.sejm.gov.pl/eli/acts/DU/1996/686/text.html), z [1997 r. Nr 9, poz. 44](https://api.sejm.gov.pl/eli/acts/DU/1997/44/text.html), [Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 96, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/1997/592/text.html), [Nr 107, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1997/685/text.html), [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 123, poz. 776 i 777](https://api.sejm.gov.pl/eli/acts/DU/1997/776/text.html), [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html), [Nr 139, poz. 932, 933](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)[i 934](https://api.sejm.gov.pl/eli/acts/DU/1997/933/text.html), [Nr 140, poz. 939](https://api.sejm.gov.pl/eli/acts/DU/1997/939/text.html) i [Nr 141, poz. 945](https://api.sejm.gov.pl/eli/acts/DU/1997/945/text.html), z [1998 r. Nr 60, poz. 383](https://api.sejm.gov.pl/eli/acts/DU/1998/383/text.html), [Nr 108, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1998/685/text.html), [Nr 117, poz. 756](https://api.sejm.gov.pl/eli/acts/DU/1998/756/text.html), [Nr 137, poz. 887](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.html), [Nr 144, poz. 931](https://api.sejm.gov.pl/eli/acts/DU/1998/931/text.html) i [Nr 162, poz. 1112 i 1121](https://api.sejm.gov.pl/eli/acts/DU/1998/1112/text.html) oraz z [1999 r. Nr 49, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1999/484/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6 w ust. 1 w pkt 13 kropkę zastępuje się przecinkiem oraz dodaje się pkt 14 w brzmieniu:
+
+„
+
+### 14)
+
+Polską Organizację Turystyczną.
+
+” ;
+
+### 2)
+
+w art. 16:
+
+### a)
+
+w ust. 1 w pkt 14 po wyrazach „podatkową grupę kapitałową,” dodaje się wyrazy „a także wpłat na rzecz Polskiej Organizacji Turystycznej,”
+
+### b)
+
+dodaje się ust. 8 w brzmieniu:
+
+„
+
+### 8.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, maksymalną wysokość wpłat na rzecz Polskiej Organizacji Turystycznej, uznawaną za koszt uzyskania przychodów.
+
+”
+
+### Rozdział 6 Przepisy przejściowe i końcowe
+
+### Art. 24.
+
+Do czasu powołania ministra właściwego do spraw kultury fizycznej i turystyki jego kompetencje określone w art. 7, art. 9 i art. 11 wykonuje Prezes Urzędu Kultury Fizycznej i Turystyki, a określone w art. 12 - Prezes Rady Ministrów.
+
+### Art. 25.
+
+### 1.
+
+Polska Organizacja Turystyczna staje się pracodawcą w stosunku do pracowników polskich ośrodków informacji turystycznej za granicą. Przepisy art. 231 § 1, 2 i 5 Kodeksu pracy, z zastrzeżeniem przepisów o pracownikach urzędów państwowych oraz o służbie cywilnej, stosuje się odpowiednio.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do pracowników przedsiębiorstwa państwowego Polska Agencja Promocji Turystyki.
+
+### Art. 26.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2000 r., z wyjątkiem przepisów rozdziału 2 i art. 24, które wchodzą w życie z dniem ogłoszenia.

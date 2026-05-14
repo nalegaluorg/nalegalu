@@ -8,9 +8,9 @@ pos: 2314
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# świadczeniu wyrównawczym dla osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki
+# Ustawa z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki [1) Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,63 +22,308 @@ domain: null
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-12-15 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2314/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/2314/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/2314) |
 
-1. 1. Ustawa określa warunki nabywania prawa, tryb przyznawania oraz zasady wypłacania finansowania świadczenia wyrównawczego dla osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki, zwanego dalej „świadczeniem wyrównawczym”.
-2. Celem świadczenia wyrównawczego jest dodatkowe wsparcie dochodowe osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki, zwanych dalej „osobami uprawnionymi”.
-3. Świadczenie wyrównawcze przysługuje osobom zamieszkującym na terytorium Rzeczypospolitej Polskiej, jeżeli są:
-1) obywatelami Rzeczypospolitej Polskiej lub
-2) posiadającymi prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) – strony umowy Europejskim Obszarze Gospodarczym lub Zjednoczonego Królestwa Wielkiej Brytanii Irlandii Północnej, lub Konfederacji Szwajcarskiej, lub
-3) cudzoziemcami legalnie przebywającymi na terytorium Rzeczypospolitej Polskiej.
-2. 1. Świadczenie wyrównawcze przysługuje osobie uprawnionej emerytury na podstawie przepisów rozporządzenia Rady Ministrów 15 maja 1989 sprawie uprawnień emerytury pracowników opiekujących się dziećmi wymagającymi stałej opieki (Dz. 149), zwanej dalej „wcześniejszą emeryturą”, kwocie niższej niż wysokość świadczenia pielęgnacyjnego, 17 1 ustawy 28 listopada 2003 świadczeniach rodzinnych (Dz. 2020 111 oraz 2021 1162, 2105 2270), pod warunkiem że dalszym ciągu sprawuje opiekę nad dzieckiem, tytułu opieki nad nabyła prawo emerytury.
-2. Świadczenie wyrównawcze przysługuje miesięcznie kwocie stanowiącej różnicę pomiędzy kwotą świadczenia pielęgnacyjnego, 17 1 ustawy 28 listopada 2003 świadczeniach rodzinnych, a kwotą pobieranego świadczenia emerytalno-rentowego.
-3. Przez kwotę pobieranego świadczenia emerytalno-rentowego rozumie się wysokość pobieranej emerytury lub renty brutto, wraz kwotą przyznaną przez zagraniczne instytucje właściwe spraw emerytalno-rentowych oraz kwotą innych dodatków świadczeń, wypłacanych wraz tymi świadczeniami na podstawie odrębnych przepisów, wyłączeniem dodatku pielęgnacyjnego, przed dokonaniem odliczeń, potrąceń zmniejszeń.
-3. 1. Świadczenie wyrównawcze jest przyznawane na wniosek osoby uprawnionej, składany Zakładu Ubezpieczeń Społecznych lub innego organu emerytalno-rentowego, który wypłaca emerytalno-rentowe.
-2. Wniosek, 1, zawiera:
-1) dane osoby uprawnionej:
-a) imię nazwisko,
-b) datę urodzenia,
-c) numer PESEL albo, jeżeli nie nadano numeru, serię numer dowodu osobistego lub numer paszportu,
-d) adres miejsca zamieszkania,
-e) adres miejsca pobytu lub ostatniego miejsca zamieszkania – przypadku osoby nieposiadającej adresu miejsca zamieszkania,
-f) adres korespondencji, jeżeli jest inny niż adres zamieszkania;
-nabyła prawo emerytury;
-4) inne informacje, niezbędne ustalenia prawa świadczenia wyrównawczego.
-3. Do wniosku, 1, dołącza się:
-1) decyzję przyznającą prawo emerytury, jeżeli organem właściwym przyznania świadczenia wyrównawczego jest inny niż Zakład Ubezpieczeń Społecznych;
-2) dokument potwierdzający prawo wysokość świadczeń przyznanych przez zagraniczne instytucje właściwe spraw emerytalno-rentowych, wystawiony przez zagraniczną instytucję właściwą spraw emerytalno-rentowych, albo oświadczenie, że nie ma przyznanego świadczenia przez zagraniczną instytucję właściwą spraw emerytalno-rentowych.
-Oświadczenia, których 2 pkt 3 3 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniach jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
-1. W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, których 2 3, wyrównawcze podlega ponownemu obliczeniu urzędu, taki sposób, aby łączna kwota świadczeń, których 2 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty świadczenia pielęgnacyjnego, 17 1 ustawy 28 listopada 2003 świadczeniach rodzinnych, wyłączeniem dodatku pielęgnacyjnego.
-2. W przypadku zmiany wysokości miesięcznej kwoty świadczenia pielęgnacyjnego, 17 1 ustawy 28 listopada 2003 świadczeniach rodzinnych, oraz zmiany wysokości świadczeń, których 2 3, wyniku rocznej waloryzacji świadczeń, Zakład Ubezpieczeń Społecznych lub inny emerytalno-rentowy dokonuje łącznie ponownego obliczenia świadczenia wyrównawczego marcu każdego roku wypłaca należne wyrównanie.
-3. W przypadku ponownego obliczenia, 2, różnicę pomiędzy wypłaconym świadczeniem a należnym wypłaca się wraz ze świadczeniem emerytalno-rentowym.
-Świadczenie wyrównawcze nie przysługuje osobie uprawnionej, która jest tymczasowo aresztowana lub odbywa karę pozbawienia wolności, wyjątkiem osoby uprawnionej, która odbywa karę pozbawienia wolności systemie dozoru elektronicznego.
-5. Jeżeli ustaną okoliczności będące podstawą przyznania świadczenia prawo świadczenia ustaje od miesiąca, nastąpiło zdarzenie będące podstawą utraty prawa świadczenia wyrównawczego.
-6. Osoba uprawniona obowiązana jest poinformować właściwy emerytalno-rentowy przyznaniu, ustaniu, ponownym obliczeniu świadczeń przyznanych przez zagraniczne instytucje właściwe spraw emerytalno-rentowych oraz okolicznościach, których 5.
-5. 1. Decyzje sprawie świadczenia wyrównawczego wydaje to wypłaca Zakład Ubezpieczeń Społecznych lub inne organy emerytalno-rentowe, które wypłacają emerytalno-rentowe.
-2. W razie zbiegu prawa świadczeń, których 2 3, które są wypłacane przez Zakład Ubezpieczeń Społecznych oraz przez inny emerytalno-rentowy, decyzje sprawie świadczenia wyrównawczego wydaje świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
-3. Decyzje sprawie świadczenia sporządzone wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej ich wydania.
-Od decyzji, których 1, przysługują środki odwoławcze przewidziane przepisach, których
-9.
-6. Wypłata świadczenia wyrównawczego następuje wraz wypłatą świadczenia emerytalno-rentowego.
-9. W sprawach nieuregulowanych niniejszej ustawie świadczenia wyrównawczego stosuje się odpowiednio przepisy:
-1) ustawy 20 grudnia 1990 ubezpieczeniu społecznym rolników (Dz. 2021 266, 1535 1621);
-2) ustawy 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. 2020 586 2320), wyjątkiem 46 tej ustawy;
-3) ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej oraz ich rodzin (Dz. 2020 723 2320), wyjątkiem 47 tej ustawy;
-4) ustawy 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2021 291, późn. zm. ), wyjątkiem 136 tej ustawy.
-10. 1. Zakład Ubezpieczeń Społecznych oraz inne organy emerytalno-rentowe są uprawnione pozyskiwania przetwarzania danych osobowych zakresie niezbędnym przyznawania, ponownego obliczenia, ustania prawa świadczenia wyrównawczego wypłacania świadczenia.
-2. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na:
-1) dopuszczeniu przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
-2) pisemnym zobowiązaniu osób upoważnionych przetwarzania danych osobowych zachowania ich poufności.
-3. Na wniosek organu, 5 1, właściwe organy wypłacające emerytalno-rentowe są obowiązane przekazać, terminie 7 dni od otrzymania wniosku, dane niezbędne przyznania, ponownego obliczenia lub ustania prawa świadczenia wyrównawczego.
-Organ, 5 1, zawiadamia wypłacający emerytalno-rentowe przyznaniu świadczenia wyrównawczego.
-5. Zawiadomienie określa szczególności: organ, 5 1, osobę uprawnioną świadczenia termin płatności świadczenia, datę, od której przyznano to świadczenie, oraz jego wysokość.
-6. Organ wypłacający emerytalno-rentowe, którego organ, 5 1, przekazał zawiadomienie, powiadamia ten każdej zmianie prawie lub wysokości świadczenia terminie 7 dni od powstania tej zmiany.
-11. 1. Świadczenie wyrównawcze wraz kosztami jego obsługi oraz odsetkami za opóźnienie jest finansowane ze środków budżetu państwa.
-2. Koszty obsługi, których 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę świadczenia wyrównawczego.
-5) rodzicielskie uzupełniające, ustawie 31 stycznia 2019 rodzicielskim świadczeniu uzupełniającym – przysługuje pielęgnacyjne, jeśli jest korzystniejsze, przy czym 17 5 pkt 1 lit. a ustawy 28 listopada 2003 świadczeniach rodzinnych nie stosuje się.
-13. W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz.
-2021 291, późn. zm. ) 139 1 po pkt 6a dodaje się pkt 6b brzmieniu: „6b) kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów ustawy 29 2021 świadczeniu wyrównawczym dla osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki (Dz. 2314);”.
-14. 1. Wniosek, 3 1, złożony 28 lutego 2022 podlega rozpatrzeniu 31 marca 2022
-2. W przypadku złożenia wniosku terminie, 1, wyrównawcze przysługuje od 1 stycznia 2022 jest wypłacane po dokonaniu rocznej waloryzacji wraz ze świadczeniem emerytalno-rentowym.
-15. Ustawa wchodzi życie dniem 1 stycznia 2022 Prezydent Rzeczypospolitej Polskiej: A. Duda
+## Treść ustawy
 
+### Art. 1.
+
+### 1.
+
+Ustawa określa warunki nabywania prawa, tryb przyznawania oraz zasady wypłacania i finansowania świadczenia wyrównawczego dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki, zwanego dalej „świadczeniem wyrównawczym”.
+
+### 2.
+
+Celem świadczenia wyrównawczego jest dodatkowe wsparcie dochodowe osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki, zwanych dalej „osobami uprawnionymi”.
+
+### 3.
+
+Świadczenie wyrównawcze przysługuje osobom zamieszkującym na terytorium Rzeczypospolitej Polskiej, jeżeli są:
+
+### 1)
+
+obywatelami Rzeczypospolitej Polskiej lub
+
+### 2)
+
+posiadającymi prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej obywatelami państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, lub Konfederacji Szwajcarskiej, lub
+
+### 3)
+
+cudzoziemcami legalnie przebywającymi na terytorium Rzeczypospolitej Polskiej.
+
+### Art. 2.
+
+### 1.
+
+Świadczenie wyrównawcze przysługuje osobie uprawnionej do wcześniejszej emerytury na podstawie przepisów rozporządzenia Rady Ministrów z dnia 15 maja 1989 r. w sprawie uprawnień do wcześniejszej emerytury pracowników opiekujących się dziećmi wymagającymi stałej opieki ([Dz. U. poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1989/149/text.html)), zwanej dalej „wcześniejszą emeryturą”, w kwocie niższej niż wysokość świadczenia pielęgnacyjnego, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. z 2020 r. poz. 111](https://api.sejm.gov.pl/eli/acts/DU/2020/111/text.html) oraz [z 2021 r. poz. 1162](https://api.sejm.gov.pl/eli/acts/DU/2021/1162/text.html), [1981](https://api.sejm.gov.pl/eli/acts/DU/2021/1981/text.html), [2105](https://api.sejm.gov.pl/eli/acts/DU/2021/2105/text.html) i [2270](https://api.sejm.gov.pl/eli/acts/DU/2021/2270/text.html)), pod warunkiem że w dalszym ciągu sprawuje opiekę nad dzieckiem, z tytułu opieki nad którym nabyła prawo do wcześniejszej emerytury.
+
+### 2.
+
+Świadczenie wyrównawcze przysługuje miesięcznie w kwocie stanowiącej różnicę pomiędzy kwotą świadczenia pielęgnacyjnego, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, a kwotą pobieranego świadczenia emerytalno-rentowego.
+
+### 3.
+
+Przez kwotę pobieranego świadczenia emerytalno-rentowego rozumie się wysokość pobieranej emerytury lub renty brutto, wraz z kwotą przyznaną przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych oraz kwotą innych dodatków i świadczeń, wypłacanych wraz z tymi świadczeniami na podstawie odrębnych przepisów, z wyłączeniem dodatku pielęgnacyjnego, przed dokonaniem odliczeń, potrąceń i zmniejszeń.
+
+### Art. 3.
+
+### 1.
+
+Świadczenie wyrównawcze jest przyznawane na wniosek osoby uprawnionej, składany do Zakładu Ubezpieczeń Społecznych lub innego organu emerytalno-rentowego, który wypłaca świadczenie emerytalno-rentowe.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+dane osoby uprawnionej:
+
+### a)
+
+imię i nazwisko,
+
+### b)
+
+datę urodzenia,
+
+### c)
+
+numer PESEL albo, jeżeli nie nadano tego numeru, serię i numer dowodu osobistego lub numer paszportu,
+
+### d)
+
+adres miejsca zamieszkania,
+
+### e)
+
+adres miejsca pobytu lub ostatniego miejsca zamieszkania - w przypadku osoby nieposiadającej adresu miejsca zamieszkania,
+
+### f)
+
+adres do korespondencji, jeżeli jest inny niż adres zamieszkania;
+
+### 2)
+
+dane dziecka, o którym mowa w art. 2 ust. 1:
+
+### a)
+
+imię i nazwisko,
+
+### b)
+
+datę urodzenia,
+
+### c)
+
+numer PESEL albo, jeżeli nie nadano tego numeru, serię i numer dowodu osobistego lub numer paszportu,
+
+### d)
+
+adres miejsca zamieszkania;
+
+### 3)
+
+oświadczenie osoby uprawnionej o sprawowaniu, na dzień złożenia wniosku, opieki nad dzieckiem, z tytułu której nabyła prawo do wcześniejszej emerytury;
+
+### 4)
+
+inne informacje, niezbędne do ustalenia prawa do świadczenia wyrównawczego.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, dołącza się:
+
+### 1)
+
+decyzję przyznającą prawo do wcześniejszej emerytury, jeżeli organem właściwym do przyznania świadczenia wyrównawczego jest inny organ niż Zakład Ubezpieczeń Społecznych;
+
+### 2)
+
+dokument potwierdzający prawo i wysokość świadczeń przyznanych przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych, wystawiony przez zagraniczną instytucję właściwą do spraw emerytalno-rentowych, albo oświadczenie, że nie ma przyznanego świadczenia przez zagraniczną instytucję właściwą do spraw emerytalno-rentowych.
+
+### 4.
+
+Oświadczenia, o których mowa w ust. 2 pkt 3 i ust. 3 pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniach jest zawarta klauzula następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### Art. 4.
+
+### 1.
+
+W razie przyznania, ustania lub ponownego obliczenia wysokości świadczeń, o których mowa w art. 2 ust. 3, świadczenie wyrównawcze podlega ponownemu obliczeniu z urzędu, w taki sposób, aby łączna kwota świadczeń, o których mowa w art. 2 ust. 3, wraz ze świadczeniem wyrównawczym, nie przekroczyła miesięcznie kwoty świadczenia pielęgnacyjnego, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, z wyłączeniem dodatku pielęgnacyjnego.
+
+### 2.
+
+W przypadku zmiany wysokości miesięcznej kwoty świadczenia pielęgnacyjnego, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, oraz zmiany wysokości świadczeń, o których mowa w art. 2 ust. 3, w wyniku rocznej waloryzacji świadczeń, Zakład Ubezpieczeń Społecznych lub inny organ emerytalno-rentowy dokonuje łącznie ponownego obliczenia świadczenia wyrównawczego w marcu każdego roku i wypłaca należne wyrównanie.
+
+### 3.
+
+W przypadku ponownego obliczenia, o którym mowa w ust. 2, różnicę pomiędzy wypłaconym świadczeniem a należnym wypłaca się wraz ze świadczeniem emerytalno-rentowym.
+
+### 4.
+
+Świadczenie wyrównawcze nie przysługuje osobie uprawnionej, która jest tymczasowo aresztowana lub odbywa karę pozbawienia wolności, z wyjątkiem osoby uprawnionej, która odbywa karę pozbawienia wolności w systemie dozoru elektronicznego.
+
+### 5.
+
+Jeżeli ustaną okoliczności będące podstawą przyznania świadczenia wyrównawczego, prawo do tego świadczenia ustaje od miesiąca, w którym nastąpiło zdarzenie będące podstawą utraty prawa do świadczenia wyrównawczego.
+
+### 6.
+
+Osoba uprawniona obowiązana jest poinformować właściwy organ emerytalno-rentowy o przyznaniu, ustaniu, ponownym obliczeniu świadczeń przyznanych przez zagraniczne instytucje właściwe do spraw emerytalno-rentowych oraz o okolicznościach, o których mowa w ust. 5.
+
+### Art. 5.
+
+### 1.
+
+Decyzje w sprawie świadczenia wyrównawczego wydaje i świadczenie to wypłaca Zakład Ubezpieczeń Społecznych lub inne organy emerytalno-rentowe, które wypłacają świadczenie emerytalno-rentowe.
+
+### 2.
+
+W razie zbiegu prawa do świadczeń, o których mowa w art. 2 ust. 3, które są wypłacane przez Zakład Ubezpieczeń Społecznych oraz przez inny organ emerytalno-rentowy, decyzje w sprawie świadczenia wyrównawczego wydaje i świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
+
+### 3.
+
+Decyzje w sprawie świadczenia wyrównawczego, sporządzone z wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
+
+### 4.
+
+Od decyzji, o których mowa w ust. 1, przysługują środki odwoławcze przewidziane w przepisach, o których mowa w art. 9.
+
+### Art. 6.
+
+Wypłata świadczenia wyrównawczego następuje wraz z wypłatą świadczenia emerytalno-rentowego.
+
+### Art. 7.
+
+### 1.
+
+Dla celów podatku dochodowego od osób fizycznych świadczenie wyrównawcze stanowi świadczenie, o którym mowa w art. 12 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2021 r. poz. 1128](https://api.sejm.gov.pl/eli/acts/DU/2021/1128/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270.](#gloss-0:2:)).
+
+### 2.
+
+Do kwoty świadczenia wyrównawczego stosuje się odpowiednio art. 66 ust. 1 pkt 16, art. 81 ust. 8 pkt 2 i art. 85 ust. 9-11 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2021 r. poz. 1285](https://api.sejm.gov.pl/eli/acts/DU/2021/1285/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232 i 2270.](#gloss-0:3:)).
+
+### Art. 8.
+
+Do świadczenia wyrównawczego stosuje się odpowiednio art. 84 i art. 85 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ([Dz. U. z 2021 r. poz. 423](https://api.sejm.gov.pl/eli/acts/DU/2021/423/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105.](#gloss-0:4:)).
+
+### Art. 9.
+
+W sprawach nieuregulowanych w niniejszej ustawie do świadczenia wyrównawczego stosuje się odpowiednio przepisy:
+
+### 1)
+
+ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2021 r. poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2021/266/text.html), [1535](https://api.sejm.gov.pl/eli/acts/DU/2021/1535/text.html) i [1621](https://api.sejm.gov.pl/eli/acts/DU/2021/1621/text.html));
+
+### 2)
+
+ustawy z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ([Dz. U. z 2020 r. poz. 586](https://api.sejm.gov.pl/eli/acts/DU/2020/586/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html)), z wyjątkiem art. 46 tej ustawy;
+
+### 3)
+
+ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin ([Dz. U. z 2020 r. poz. 723](https://api.sejm.gov.pl/eli/acts/DU/2020/723/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html)), z wyjątkiem art. 47 tej ustawy;
+
+### 4)
+
+ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2021 r. poz. 291](https://api.sejm.gov.pl/eli/acts/DU/2021/291/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.](#gloss-0:5:)), z wyjątkiem art. 136 tej ustawy.
+
+### Art. 10.
+
+### 1.
+
+Zakład Ubezpieczeń Społecznych oraz inne organy emerytalno-rentowe są uprawnione do pozyskiwania i przetwarzania danych osobowych w zakresie niezbędnym do przyznawania, ponownego obliczenia, ustania prawa do świadczenia wyrównawczego i wypłacania tego świadczenia.
+
+### 2.
+
+Zabezpieczenie przetwarzania danych osobowych polega co najmniej na:
+
+### 1)
+
+dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych;
+
+### 2)
+
+pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich poufności.
+
+### 3.
+
+Na wniosek organu, o którym mowa w art. 5 ust. 1, właściwe organy wypłacające świadczenie emerytalno-rentowe są obowiązane przekazać, w terminie 7 dni od dnia otrzymania wniosku, dane niezbędne do przyznania, ponownego obliczenia lub ustania prawa do świadczenia wyrównawczego.
+
+### 4.
+
+Organ, o którym mowa w art. 5 ust. 1, zawiadamia organ wypłacający świadczenie emerytalno-rentowe o przyznaniu świadczenia wyrównawczego.
+
+### 5.
+
+Zawiadomienie określa w szczególności: organ, o którym mowa w art. 5 ust. 1, osobę uprawnioną do świadczenia wyrównawczego, termin płatności tego świadczenia, datę, od której przyznano to świadczenie, oraz jego wysokość.
+
+### 6.
+
+Organ wypłacający świadczenie emerytalno-rentowe, do którego organ, o którym mowa w art. 5 ust. 1, przekazał zawiadomienie, powiadamia ten organ o każdej zmianie w prawie lub wysokości tego świadczenia w terminie 7 dni od dnia powstania tej zmiany.
+
+### Art. 11.
+
+### 1.
+
+Świadczenie wyrównawcze wraz z kosztami jego obsługi oraz z odsetkami za opóźnienie jest finansowane ze środków budżetu państwa.
+
+### 2.
+
+Koszty obsługi, o których mowa w ust. 1, wynoszą 0,5% kwoty przeznaczonej na wypłatę świadczenia wyrównawczego.
+
+### Art. 12.
+
+Osobie pobierającej świadczenie pielęgnacyjne, o którym mowa w art. 17 ust. 1 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych, która po dniu 1 stycznia 2022 r. złożyła wniosek o:
+
+### 1)
+
+emeryturę lub
+
+### 2)
+
+rentę, lub
+
+### 3)
+
+rentę rodzinną z tytułu śmierci małżonka przyznaną w przypadku zbiegu prawa do renty rodzinnej i innego świadczenia emerytalno-rentowego, lub
+
+### 4)
+
+nauczycielskie świadczenie kompensacyjne, lub
+
+### 5)
+
+rodzicielskie świadczenie uzupełniające, o którym mowa w ustawie z dnia 31 stycznia 2019 r. o rodzicielskim świadczeniu uzupełniającym
+
+- przysługuje świadczenie pielęgnacyjne, jeśli jest korzystniejsze, przy czym art. 17 ust. 5 pkt 1 lit. a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych nie stosuje się.
+
+### Art. 13.
+
+W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ([Dz. U. z 2021 r. poz. 291](https://api.sejm.gov.pl/eli/acts/DU/2021/291/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.](#gloss-0:6:)) w art. 139 w ust. 1 po pkt 6a dodaje się pkt 6b w brzmieniu:
+
+„
+
+### 6b)
+
+kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów ustawy z dnia 29 października 2021 r. o świadczeniu wyrównawczym dla osób uprawnionych do wcześniejszej emerytury z tytułu opieki nad dziećmi wymagającymi stałej opieki ([Dz. U. poz. 2314](https://api.sejm.gov.pl/eli/acts/DU/2021/2314/text.html));
+
+” .
+
+### Art. 14.
+
+### 1.
+
+Wniosek, o którym mowa w art. 3 ust. 1, złożony do dnia 28 lutego 2022 r. podlega rozpatrzeniu do dnia 31 marca 2022 r.
+
+### 2.
+
+W przypadku złożenia wniosku w terminie, o którym mowa w ust. 1, świadczenie wyrównawcze przysługuje od dnia 1 stycznia 2022 r. i jest wypłacane po dokonaniu rocznej waloryzacji wraz ze świadczeniem emerytalno-rentowym.
+
+### Art. 15.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269 i 2270. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1292, 1559, 1773, 1834, 1981, 2105, 2120, 2232 i 2270. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 432, 619, 1621, 1834, 1981 i 2105. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 353, 794, 1621, 1981, 2105 i 2270.

@@ -8,11 +8,9 @@ pos: 1112
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 5 września 2008 r. o zmianie niektórych ustaw w związku z wejściem w życie Protokołu do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób
-
-*USTAWA dnia 5 września 2008 o zmianie niektórych ustaw w związku wejściem w życie Protokołu do Umowy między Wspólnotą Europejską jej Państwami Członkowskimi, jednej strony, a Konfederacją Szwajcarską, drugiej strony, w sprawie swobodnego przepływu osób*
+# Ustawa z dnia 5 września 2008 r. o zmianie niektórych ustaw w związku z wejściem w życie Protokołu do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 13 czerwca 2003 r. o cudzoziemcach, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych i ustawę z dnia 30 czerwca 2005 r. o kinematografii.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,35 +22,382 @@ domain: null
 | Data ogłoszenia | 2008-09-05 |
 | Data wydania | 2008-10-10 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801112) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1112/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/1112/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/1112) |
 
-**Art. 1.** W ustawie dnia 24 marca 1920 o nabywaniu nieruchomości przez cudzoziemców (Dz. U. 2004 167, 1758 oraz 2005 94, 788 183,
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 20 grudnia 1990 o ubezpieczeniu społecznym rolników (Dz. U. 2008 50, 291, 67, 411 70, 416) w art. 1 w ust. 1 pkt 3 otrzymuje brzmienie: „3) są obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym.”.
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 5 lipca 1996 o doradztwie podatkowym (Dz. U. 2008 73, 443 130, 829) w art. 21 ust. 4a otrzymuje brzmienie: „4a. Krajowa Rada Doradców Podatkowych może zwolnić obywatela polskiego, obywatela państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym wymogu określonego w art. 6 ust. 1 pkt 6, jeżeli wykonywali oni
+W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców ([Dz. U. z 2004 r. Nr 167, poz. 1758](https://api.sejm.gov.pl/eli/acts/DU/2004/1758/text.html) oraz z [2005 r. Nr 94, poz. 788](https://api.sejm.gov.pl/eli/acts/DU/2005/788/text.html) i [Nr 183, poz. 1538](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.html)) w art. 8 ust. 2-2b otrzymują brzmienie:
 
-**Art. 4.** W ustawie dnia 10 kwietnia 1997 – Prawo energetyczne (Dz. U. 2006 89, 625, późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 5.** W ustawie dnia 22 sierpnia 1997 o ochronie osób mienia (Dz. U. 2005 145, 1221, 2006 104, 708 oraz 2008 171, 1055) w art. 26 w ust. 2 pkt 1 otrzymuje brzmienie: „1) posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym;”.
+### 2.
 
-**Art. 6.** W ustawie dnia 29 sierpnia 1997 o usługach turystycznych (Dz. U. 2004 223, 2268 273, 2703, 2005 175, 1462 oraz 2006 220, poz.1600) wprowadza się następujące zmiany:
+Nie jest wymagane uzyskanie zezwolenia przez cudzoziemców, będących obywatelami lub przedsiębiorcami państw - stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej, z wyjątkiem nabycia:
 
-**Art. 7.** W ustawie dnia 22 czerwca 2001 o wykonywaniu działalności gospodarczej w zakresie wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. 67, 679, późn. zm. ) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 8.** W ustawie dnia 6 lipca 2001 o usługach detektywistycznych (Dz. U. 2002 12, 110, późn. zm. ) w art. 29 w ust. 1:
+nieruchomości rolnych i leśnych, przez okres 12 lat od dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej;
 
-**Art. 9.** W ustawie dnia 5 lipca 2002 o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej (Dz. U. 126, 1069, późn. zm. ) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 10.** W ustawie dnia 11 kwietnia 2003 o kształtowaniu ustroju rolnego (Dz. U. 64,
+drugiego domu, przez okres 5 lat od dnia przystąpienia Rzeczypospolitej Polskiej do Unii Europejskiej.
 
-**Art. 11.** W ustawie dnia 13 czerwca 2003 o cudzoziemcach (Dz. U. 2006 234, 1694, 2007 120, 818 165, 1170 oraz 2008 70, 416) wprowadza się następujące zmiany:
+### 2a.
 
-**Art. 12.** W ustawie dnia 17 października 2003 o wykonywaniu prac podwodnych (Dz. U. 199, 1936, 2004 273, 2703, 2005 155, 1298 oraz 2007 64, 428) wprowadza się następujące zmiany:
+Nie jest wymagane uzyskanie zezwolenia przez cudzoziemców, będących obywatelami państw - stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej w okresach określonych w ust. 2, w przypadku:
 
-**Art. 13.** W ustawie dnia 30 czerwca 2005 o finansach publicznych (Dz. U. 249, 2104, późn. zm. ) w art. 45 w ust. 2 pkt 1 otrzymuje brzmienie: „1) ma obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, chyba że przepisy odrębne uzależniają zatrudnienie w jednostce sektora finansów publicznych od posiadania obywatelstwa polskiego;”.
+### 1)
 
-**Art. 14.** W ustawie dnia 30 czerwca 2005 o kinematografii (Dz. U. 132, 1111, 2006 249, 1832 oraz 2007 50, 331) w art. 22 ust. 1 otrzymuje brzmienie: „1. Z wnioskiem o dofinansowanie przedsięwzięcia zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów rozpowszechniania filmów, promocji polskiej twórczości filmowej upowszechniania kultury filmowej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot prowadzący działalność w zakresie kinematografii, zarówno polski, jak innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, bez względu na formę organizacyjno-prawną oraz strukturę własności, zastrzeżeniem ust. 2.”.
+nabycia nieruchomości rolnych położonych:
 
-**Art. 15.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### a)
 
+w województwach: dolnośląskim, kujawsko-pomorskim, lubuskim, opolskim, pomorskim, warmińsko-mazurskim, wielkopolskim, zachodniopomorskim - po upływie 7 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej,
+
+### b)
+
+w województwach: lubelskim, łódzkim, małopolskim, mazowieckim, podkarpackim, podlaskim, śląskim, świętokrzyskim - po upływie 3 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+nabycia drugiego domu:
+
+### a)
+
+jeżeli nabywca legalnie, nieprzerwanie zamieszkuje co najmniej 4 lata na terytorium Rzeczypospolitej Polskiej lub
+
+### b)
+
+w celu wykonywania działalności gospodarczej polegającej na świadczeniu usług turystycznych, przy czym zwolnienie to nie obejmuje obywateli Konfederacji Szwajcarskiej.
+
+### 2b.
+
+Obywatele państw - stron umowy o Europejskim Obszarze Gospodarczym albo Konfederacji Szwajcarskiej, będący w dniu uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej udziałowcami lub akcjonariuszami spółek handlowych z siedzibą na terytorium Rzeczypospolitej Polskiej, mogą do okresów dzierżawy, o których mowa w ust. 2a pkt 1, zaliczyć okres dzierżawy nieruchomości rolnej przez spółkę, jeżeli przez ten okres, będąc udziałowcami lub akcjonariuszami spółki, osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2008 r. Nr 50, poz. 291](https://api.sejm.gov.pl/eli/acts/DU/2008/291/text.html), [Nr 67, poz. 411](https://api.sejm.gov.pl/eli/acts/DU/2008/411/text.html) i [Nr 70, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/2008/416/text.html)) w art. 1 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+są obywatelami państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym ([Dz. U. z 2008 r. Nr 73, poz. 443](https://api.sejm.gov.pl/eli/acts/DU/2008/443/text.html) i [Nr 130, poz. 829](https://api.sejm.gov.pl/eli/acts/DU/2008/829/text.html)) w art. 21 ust. 4a otrzymuje brzmienie:
+
+„
+
+### 4a.
+
+Krajowa Rada Doradców Podatkowych może zwolnić obywatela polskiego, obywatela państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym z wymogu określonego w art. 6 ust. 1 pkt 6, jeżeli wykonywali oni czynności doradztwa podatkowego co najmniej przez 2 lata w jednym z tych państw.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2006 r. Nr 89, poz. 625](https://api.sejm.gov.pl/eli/acts/DU/2006/625/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217 oraz z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905.](#gloss-0:2:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 33 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ma siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym;
+
+” ;
+
+### 2)
+
+w art. 54 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Przepisów ust. 1-2 nie stosuje się do osób będących obywatelami państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, które nabyły w tych państwach wymagane kwalifikacje w zakresie eksploatacji urządzeń, instalacji i sieci i uzyskały ich potwierdzenie zgodnie z przepisami o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ([Dz. U. z 2005 r. Nr 145, poz. 1221](https://api.sejm.gov.pl/eli/acts/DU/2005/1221/text.html), z [2006 r. Nr 104, poz. 708](https://api.sejm.gov.pl/eli/acts/DU/2006/708/text.html) oraz z [2008 r. Nr 171, poz. 1055](https://api.sejm.gov.pl/eli/acts/DU/2008/1055/text.html)) w art. 26 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym;
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych ([Dz. U. z 2004 r. Nr 223, poz. 2268](https://api.sejm.gov.pl/eli/acts/DU/2004/2268/text.html) i [Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html), z [2005 r. Nr 175, poz. 1462](https://api.sejm.gov.pl/eli/acts/DU/2005/1462/text.html) oraz z [2006 r. Nr 220, poz. 1600](https://api.sejm.gov.pl/eli/acts/DU/2006/1600/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 24 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Szkolenie, o którym mowa w art. 22 pkt 5, mogą prowadzić jednostki organizacyjne lub osoby upoważnione na podstawie decyzji administracyjnej marszałka województwa właściwego ze względu na ich siedzibę lub miejsce zamieszkania, a w wypadku jednostek organizacyjnych lub osób mających siedzibę lub miejsce zamieszkania na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym - wybranego przez nich marszałka województwa, zwane dalej „organizatorami szkolenia”, które:
+
+### 1)
+
+do prowadzenia zajęć teoretycznych dysponują kadrą wykładowców posiadających wykształcenie wyższe;
+
+### 2)
+
+do prowadzenia zajęć praktycznych dysponują kadrą instruktorów posiadających udokumentowaną praktykę w zakresie wykonywania zadań odpowiednio przewodnika turystycznego lub pilota wycieczek w wymiarze co najmniej 50 dni w okresie 5 lat poprzedzających dzień złożenia wniosku o udzielenie upoważnienia;
+
+### 3)
+
+zapewnią warunki umożliwiające realizację zajęć, w tym także praktycznych, oraz odpowiednią obsługę biurową wraz z przechowywaniem i udostępnianiem dokumentacji szkolenia.
+
+” ;
+
+### 2)
+
+w art. 28 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Uprawnienia przewodnika turystycznego lub pilota wycieczek obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, nieposiadającym miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, którzy nabyli kwalifikacje do wykonywania zawodu przewodnika turystycznego lub pilota wycieczek w tych państwach, nadaje, zawiesza, przywraca oraz cofa marszałek województwa wybrany przez osobę ubiegającą się o te uprawnienia. Podstawę do nadania uprawnień stanowi decyzja ministra właściwego do spraw turystyki o uznaniu kwalifikacji do wykonywania zawodu przewodnika turystycznego lub pilota wycieczek na terytorium Rzeczypospolitej Polskiej, wydana na podstawie odrębnych przepisów.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym ([Dz. U. Nr 67, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2001/679/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 8 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+posiada obywatelstwo:
+
+- - polskie,
+
+- - innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym,
+
+- - innego państwa, jeżeli otrzymała na terytorium Rzeczypospolitej Polskiej zezwolenie na osiedlenie się lub zezwolenie na pobyt rezydenta długoterminowego Wspólnot Europejskich albo na zasadzie wzajemności, o ile umowy międzynarodowe ratyfikowane przez Rzeczpospolitą Polską nie stanowią inaczej,
+
+” ;
+
+### 2)
+
+w art. 12 w ust. 1 w pkt 7 lit. d otrzymuje brzmienie:
+
+„
+
+### d)
+
+numer PESEL, a w przypadku osoby posiadającej obywatelstwo innego państwa, serię i numer paszportu lub w stosunku do obywateli innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, serię i numer innego dokumentu potwierdzającego obywatelstwo i tożsamość,
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 6 lipca 2001 r. o usługach detektywistycznych ([Dz. U. z 2002 r. Nr 12, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/2002/110/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2021, z 2003 r. Nr 124, poz. 1152 oraz z 2004 r. Nr 121, poz. 1265 i Nr 173, poz. 1808.](#gloss-0:4:)) w art. 29 w ust. 1:
+
+### 1)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+posiada obywatelstwo polskie lub obywatelstwo innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym,
+
+” ;
+
+### 2)
+
+pkt 7 i 8 otrzymują brzmienie:
+
+„
+
+### 7)
+
+nie została zwolniona dyscyplinarnie z Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Biura Ochrony Rządu, wojska, prokuratury, sądu lub z innego urzędu administracji publicznej w Rzeczypospolitej Polskiej lub innym państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym, w ciągu ostatnich 5 lat,
+
+### 8)
+
+posiada pozytywną opinię wynikającą z wywiadu środowiskowego, przeprowadzonego przez komendanta powiatowego (miejskiego) Policji właściwego ze względu na jej miejsce zamieszkania albo - w przypadku obywatela innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym - przez organ odpowiedniego szczebla i kompetencji tych państw, właściwy ze względu na miejsce zamieszkania,
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej ([Dz. U. Nr 126, poz. 1069](https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361 oraz z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 2a otrzymuje brzmienie:
+
+„
+
+### Art. 2a.
+
+Przepisy ustawy dotyczące prawników z Unii Europejskiej stosuje się odpowiednio także do osób, które:
+
+### 1)
+
+są obywatelami państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, uprawnionymi do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w tych państwach, określonych w wykazie stanowiącym załącznik nr 2 do ustawy albo przy użyciu jednego z tytułów zawodowych uzyskanych w państwach członkowskich Unii Europejskiej, określonych w wykazie stanowiącym załącznik nr 1 do ustawy;
+
+### 2)
+
+są obywatelami państw członkowskich Unii Europejskiej, uprawnionymi do wykonywania zawodu przy użyciu jednego z tytułów zawodowych uzyskanych w państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, określonych w wykazie stanowiącym załącznik nr 2 do ustawy.
+
+” ;
+
+### 2)
+
+w art. 34a pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+obywateli państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, posiadających kwalifikacje zawodowe wymagane do wykonywania zawodu przy użyciu jednego z tytułów określonych w wykazach stanowiących załączniki nr 1 i 2 do ustawy;
+
+” ;
+
+### 3)
+
+tytuł załącznika nr 2 otrzymuje brzmienie: „ WYKAZ TYTUŁÓW ZAWODOWYCH UZYSKANYCH W PAŃSTWACH CZŁONKOWSKICH EUROPEJSKIEGO POROZUMIENIA O WOLNYM HANDLU (EFTA) - STRONACH UMOWY O EUROPEJSKIM OBSZARZE GOSPODARCZYM LUB W KONFEDERACJI SZWAJCARSKIEJ, ODPOWIADAJĄCYCH ZAWODOWI ADWOKATA LUB RADCY PRAWNEGO ” ;
+
+### 4)
+
+w załączniku nr 2 po wyrazach „- w Królestwie Norwegii - Advokat” kropkę zastępuje się przecinkiem i dodaje się wyrazy:
+
+„
+
+- - w Konfederacji Szwajcarskiej - Avocat/Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech Avvocato.
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego ([Dz. U. Nr 64, poz. 592](https://api.sejm.gov.pl/eli/acts/DU/2003/592/text.html)) w art. 7 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Jako dowód, o którym mowa w ust. 2, dopuszcza się również odpowiednie dokumenty wydane przez właściwe organy lub instytucje państw członkowskich Europejskiego Obszaru Gospodarczego oraz Konfederacji Szwajcarskiej.
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach ([Dz. U. z 2006 r. Nr 234, poz. 1694](https://api.sejm.gov.pl/eli/acts/DU/2006/1694/text.html), z [2007 r. Nr 120, poz. 818](https://api.sejm.gov.pl/eli/acts/DU/2007/818/text.html) i [Nr 165, poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2007/1170/text.html) oraz z [2008 r. Nr 70, poz. 416](https://api.sejm.gov.pl/eli/acts/DU/2008/416/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 53b po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Przepisu ust. 1 pkt 1 i 2 nie stosuje się do cudzoziemca ubiegającego się o udzielenie zezwolenia na zamieszkanie na czas oznaczony na podstawie art. 53 ust. 1 pkt 1, oddelegowanego na terytorium Rzeczypospolitej Polskiej w celu świadczenia usług - pracownika przedsiębiorcy z Konfederacji Szwajcarskiej, który świadczy usługi, działającego na podstawie prawa Konfederacji Szwajcarskiej, posiadającego na tym terytorium siedzibę, siedzibę zarządu głównego lub główne miejsce wykonywania usług pod warunkiem, że cudzoziemiec ten był zatrudniony na terytorium Konfederacji Szwajcarskiej.
+
+” ;
+
+### 2)
+
+w art. 60 po ust. 5b dodaje się ust. 5c i 5d w brzmieniu:
+
+„
+
+### 5c.
+
+Cudzoziemiec, o którym mowa w art. 53b ust. 4a, dołącza do wniosku dokumenty potwierdzające spełnianie warunków wymienionych w tym przepisie oraz okoliczności uzasadniające ubieganie się o udzielenie zezwolenia na zamieszkanie na czas oznaczony.
+
+### 5d.
+
+Do cudzoziemca, o którym mowa w art. 53b ust. 4a, nie stosuje się przepisów ust. 5 pkt 2, ust. 5a pkt 1 i ust. 5b.
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 17 października 2003 r. o wykonywaniu prac podwodnych ([Dz. U. Nr 199, poz. 1936](https://api.sejm.gov.pl/eli/acts/DU/2003/1936/text.html), z [2004 r. Nr 273, poz. 2703](https://api.sejm.gov.pl/eli/acts/DU/2004/2703/text.html), z [2005 r. Nr 155, poz. 1298](https://api.sejm.gov.pl/eli/acts/DU/2005/1298/text.html) oraz z [2007 r. Nr 64, poz. 428](https://api.sejm.gov.pl/eli/acts/DU/2007/428/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Obywatelom państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, którzy nabyli w tych państwach, poza granicami Rzeczypospolitej Polskiej, kwalifikacje do wykonywania zawodów, o których mowa w art. 19, uznaje się te kwalifikacje na zasadach określonych w przepisach o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej.
+
+” ;
+
+### 2)
+
+w załączniku do ustawy pkt 2.5 otrzymuje brzmienie:
+
+###
+
+### 2.5.
+
+Uznanie kwalifikacji uzyskanych w państwie członkowskim Unii Europejskiej, Konfederacji Szwajcarskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym 200 j.t.
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 30 czerwca 2005 r. o finansach publicznych ([Dz. U. Nr 249, poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2005/2104/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.](#gloss-0:6:)) w art. 45 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ma obywatelstwo państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, chyba że przepisy odrębne uzależniają zatrudnienie w jednostce sektora finansów publicznych od posiadania obywatelstwa polskiego;
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 30 czerwca 2005 r. o kinematografii ([Dz. U. Nr 132, poz. 1111](https://api.sejm.gov.pl/eli/acts/DU/2005/1111/text.html), z [2006 r. Nr 249, poz. 1832](https://api.sejm.gov.pl/eli/acts/DU/2006/1832/text.html) oraz z [2007 r. Nr 50, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.html)) w art. 22 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Z wnioskiem o dofinansowanie przedsięwzięcia z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, zwanego dalej „dofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot prowadzący działalność w zakresie kinematografii, zarówno polski, jak i z innego państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, bez względu na formę organizacyjno-prawną oraz strukturę własności, z zastrzeżeniem ust. 2.
+
+” .
+
+### Art. 15.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+Niniejsza ustawa dokonuje w zakresie swojej regulacji dostosowania przepisów wymienionych ustaw do Umowy między Wspólnotą Europejską i jej Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób (Dz. Urz. WE L 114 z 30.04.2002, str. 6, z późn. zm.) oraz Protokołu do Umowy między Wspólnotą Europejską i Państwami Członkowskimi, z jednej strony, a Konfederacją Szwajcarską, z drugiej strony, w sprawie swobodnego przepływu osób, w związku z udziałem w charakterze Umawiających się Stron Republiki Czeskiej, Republiki Estońskiej, Republiki Cypryjskiej, Republiki Łotewskiej, Republiki Litewskiej, Republiki Węgierskiej, Republiki Malty, Rzeczypospolitej Polskiej, Republiki Słowenii i Republiki Słowackiej, w następstwie przystąpienia tych Państw do Unii Europejskiej (Dz. Urz. UE L 89 z 28.03.2006, str. 30).
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców, ustawę z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników, ustawę z dnia 5 lipca 1996 r. o doradztwie podatkowym, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 22 sierpnia 1997 r. o ochronie osób i mienia, ustawę z dnia 29 sierpnia 1997 r. o usługach turystycznych, ustawę z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym, ustawę z dnia 6 lipca 2001 r. o usługach detektywistycznych, ustawę z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej, ustawę z dnia 11 kwietnia 2003 r. o kształtowaniu ustroju rolnego, ustawę z dnia 13 czerwca 2003 r. o cudzoziemcach, ustawę z dnia 17 października 2003 r. o wykonywaniu prac podwodnych, ustawę z dnia 30 czerwca 2005 r. o finansach publicznych i ustawę z dnia 30 czerwca 2005 r. o kinematografii. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217 oraz z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 238, poz. 2021, z 2003 r. Nr 124, poz. 1152 oraz z 2004 r. Nr 121, poz. 1265 i Nr 173, poz. 1808. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361 oraz z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832 oraz z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984.

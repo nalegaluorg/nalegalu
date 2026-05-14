@@ -8,11 +8,9 @@ pos: 101
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym
-
-*USTAWA dnia 11 stycznia 2008 o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym*
+# Ustawa z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym [1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2002/22/WE z dnia 7 marca 2002 r. w sprawie usługi powszechnej i praw użytkowników odnoszących się do sieci i usług łączności elektronicznej (Dz. Urz. WE L 108 z 24.04.2002).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,23 +22,146 @@ domain: null
 | Data ogłoszenia | 2008-01-11 |
 | Data wydania | 2008-01-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080170101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/101/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/101/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/101) |
 
-**Art. 1.** W ustawie dnia 16 lipca 2004 – Prawo telekomunikacyjne (Dz. 171, 1800, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 8 września 2006 o Państwowym Ratownictwie Medycznym (Dz. 191, 1410 oraz 89, 590 166, 1172) art. 28 otrzymuje brzmienie: „Art. 28. Centrum powiadamiania ratunkowego dyspozytor medyczny mają prawo uzyskać za pośrednictwem systemu, o którym mowa w art. 78 ust. 4 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne (Dz. 171, 1800, późn. zm. ), informacje dotyczące lokalizacji zakończenia sieci, którego zostało wykonane połączenie numeru alarmowego „112” albo innego numeru alarmowego oraz dane dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej, o których mowa w art. 169 ust. 1 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne.”.
+### Art. 1.
 
-**Art. 3.**
+W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834 oraz z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-1. Przedsiębiorcy telekomunikacyjni obowiązani są dostosowania swoich systemów informatycznych systemu, o którym mowa w art. 78 ust. 4 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne w brzmieniu nadanym niniejszą ustawą, oraz przekazania informacji danych tego systemu w terminie 2 miesięcy od dnia jego uruchomienia przez Prezesa Urzędu Komunikacji Elektronicznej. Prezes Urzędu Komunikacji Elektronicznej zamieszcza informację o uruchomieniu systemu na stronie Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+### 1)
 
-2. Do dnia przekazania, o którym mowa w ust. 1, przedsiębiorcy telekomunikacyjni realizują obowiązki, zawarte w art. 77 ust. 2, art. 78 art. 169 ust. 5 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne (w brzmieniu dnia 3 września 2004 r., Dz.U. 171, 1800).
+w art. 77 ust. 2 otrzymuje brzmienie:
 
-3. (uchylony).
+„
 
-4. (uchylony).
+### 2.
 
-5. (uchylony).
+Dostawca publicznie dostępnych usług telekomunikacyjnych jest obowiązany zapewnić kierowanie połączeń do numeru alarmowego „112” do centrum powiadamiania ratunkowego oraz połączeń do innych numerów alarmowych do właściwych terytorialnie jednostek służb ustawowo powołanych do niesienia pomocy.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+” ;
 
+### 2)
+
+art. 78 otrzymuje brzmienie:
+
+„
+
+### Art. 78.
+
+### 1.
+
+Operator publicznej sieci telefonicznej jest obowiązany udostępniać Prezesowi UKE informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego „112” albo innego numeru alarmowego:
+
+### 1)
+
+w czasie rzeczywistym - w przypadku operatora ruchomej publicznej sieci telefonicznej,
+
+### 2)
+
+w trybie wsadowym - w przypadku operatora stacjonarnej publicznej sieci telefonicznej
+
+- w celu udostępnienia tych danych, za pośrednictwem systemu, o którym mowa w ust. 4, odpowiednio centrum powiadamiania ratunkowego albo właściwym terytorialnie jednostkom służb ustawowo powołanych do niesienia pomocy.
+
+### 2.
+
+Dostawca publicznie dostępnych usług telekomunikacyjnych jest obowiązany nieodpłatnie przekazywać Prezesowi UKE dane, o których mowa w art. 161 ust. 2 pkt 4-6 i art. 169 ust. 1 pkt 1-3, dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej dla zapewnienia funkcjonalności systemu, o którym mowa w ust. 4.
+
+### 3.
+
+Informacje dotyczące lokalizacji zakończenia sieci są to dla:
+
+### 1)
+
+stacjonarnej publicznej sieci telefonicznej - dokładny adres zainstalowania zakończenia sieci;
+
+### 2)
+
+ruchomej publicznej sieci telefonicznej - geograficzne położenie urządzenia końcowego użytkownika publicznie dostępnych usług telekomunikacyjnych.
+
+### 4.
+
+Informacje i dane, o których mowa w ust. 1 i 2, powinny być przekazywane do systemu, w którym są gromadzone i nieodpłatnie udostępniane:
+
+### 1)
+
+centralnemu punktowi systemu centrów powiadamiania ratunkowego - w przypadku połączeń do numeru alarmowego „112” oraz do numerów alarmowych ustalonych dla Policji, Państwowej Straży Pożarnej i pogotowia ratunkowego, chyba że służba ustawowo powołana do niesienia pomocy, wykorzystująca dany numer alarmowy, posiada własny punkt centralny mogący współpracować z systemem albo
+
+### 2)
+
+innym niż wymienione w pkt 1 służbom ustawowo powołanym do niesienia pomocy - w przypadku połączeń do innych numerów alarmowych.
+
+### 5.
+
+Dostawca publicznie dostępnych usług telekomunikacyjnych przekazuje, dla zapewnienia funkcjonalności systemu, o którym mowa w ust. 4, aktualne dane, o których mowa w ust. 2, niezwłocznie, jednak nie później niż w ciągu 24 godzin od dnia zaistnienia ich zmiany, a jeżeli zmiany takie nie nastąpiły nie rzadziej niż raz w miesiącu.
+
+### 6.
+
+Prezes UKE zarządza systemem, o którym mowa w ust. 4, oraz jest uprawniony do przetwarzania zgromadzonych w nim informacji i danych w celach związanych z zapewnieniem funkcjonalności systemu.
+
+### 7.
+
+Rada Ministrów określi, w drodze rozporządzenia, organizację i funkcjonowanie systemu, o którym mowa w ust. 4, oraz warunki gromadzenia i przekazywania do tego systemu informacji i danych od przedsiębiorcy telekomunikacyjnego i ich udostępniania centrom powiadamiania ratunkowego oraz jednostkom terytorialnym służb ustawowo powołanych do niesienia pomocy, biorąc pod uwagę sprawność działania systemu, a także efektywność niesienia pomocy przez te służby i zapewnienie ciągłości świadczenia przez przedsiębiorcę telekomunikacyjnego usług telekomunikacyjnych, dostarczanie sieci telekomunikacyjnych lub udogodnień towarzyszących.
+
+### 8.
+
+Przekazywanie danych, o którym mowa w ust. 2, nie wymaga zgody abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej.
+
+” ;
+
+### 3)
+
+w art. 169 uchyla się ust. 5;
+
+### 4)
+
+w art. 209 w ust. 1 po pkt 18 dodaje się pkt 18a w brzmieniu:
+
+„
+
+### 18a)
+
+nie wypełnia obowiązku, o którym mowa w art. 78 ust. 1, 2 i 5
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ([Dz. U. Nr 191, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text.html) oraz z [2007 r. Nr 89, poz. 590](https://api.sejm.gov.pl/eli/acts/DU/2007/590/text.html) i [Nr 166, poz. 1172](https://api.sejm.gov.pl/eli/acts/DU/2007/1172/text.html)) art. 28 otrzymuje brzmienie:
+
+„
+
+### Art. 28.
+
+Centrum powiadamiania ratunkowego i dyspozytor medyczny mają prawo uzyskać za pośrednictwem systemu, o którym mowa w art. 78 ust. 4 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101.](#gloss-0:3:)), informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego „112” albo innego numeru alarmowego oraz dane dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej, o których mowa w art. 169 ust. 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
+
+” .
+
+### Art. 3.
+
+### 1.
+
+Przedsiębiorcy telekomunikacyjni obowiązani są do dostosowania swoich systemów informatycznych do systemu, o którym mowa w art. 78 ust. 4 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne w brzmieniu nadanym niniejszą ustawą, oraz do przekazania informacji i danych do tego systemu w terminie 2 miesięcy od dnia jego uruchomienia przez Prezesa Urzędu Komunikacji Elektronicznej. Prezes Urzędu Komunikacji Elektronicznej zamieszcza informację o uruchomieniu systemu na stronie Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+
+### 2.
+
+Do dnia przekazania, o którym mowa w ust. 1, przedsiębiorcy telekomunikacyjni realizują obowiązki, zawarte w art. 77 ust. 2, art. 78 i art. 169 ust. 5 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (w brzmieniu z dnia 3 września 2004 r., [Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html)).
+
+### 3.
+
+Do dnia przekazania, o którym mowa w ust. 1, centrum powiadamiania ratunkowego i dyspozytor medyczny mają prawo uzyskać od przedsiębiorcy telekomunikacyjnego informacje i dane, o których mowa w art. 28 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (w brzmieniu z dnia 1 stycznia 2007 r., [Dz. U. Nr 191, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2007/1410/text.html)).
+
+### 4.
+
+Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2010 r., informacje i dane, o których mowa w art. 78 ust. 1-3 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne w brzmieniu nadanym niniejszą ustawą, uzyskują również inne podmioty, którym właściwy miejscowo wojewoda, zgodnie z art. 61 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+
+### 5.
+
+Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2010 r., dostawca publicznie dostępnych usług telekomunikacyjnych jest obowiązany zapewnić kierowanie połączeń, o których mowa w art. 77 ust. 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, do podmiotów, którym właściwy miejscowo wojewoda, zgodnie z art. 61 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 2002/22/WE z dnia 7 marca 2002 r. w sprawie usługi powszechnej i praw użytkowników odnoszących się do sieci i usług łączności elektronicznej (Dz. Urz. WE L 108 z 24.04.2002). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834 oraz z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101.

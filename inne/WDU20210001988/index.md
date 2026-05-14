@@ -8,9 +8,9 @@ pos: 1988
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 14 października 2021 sprawie ogłoszenia jednolitego tekstu ustawy o zmianie
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 14 października 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o zmianie imienia i nazwiska
 
 | Pole | Wartość |
 |---|---|
@@ -22,68 +22,342 @@ domain: null
 | Data ogłoszenia | 2021-10-14 |
 | Data wydania | 2021-11-02 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001988) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1988/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1988/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1988) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy 17 października 2008 o zmianie (Dz. U. 2020 poz. 707), uwzględnieniem zmiany wprowadzonej ustawą 18 listopada 2020 o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz 2021 poz. 1135) oraz zmian wynikających przepisów ogłoszonych przed dniem 7 października 2021 Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 166 ustawy 18 listopada 2020 o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz 2021 poz.
-1135), które stanowią: „ Niniejsza ustawa została notyfikowana Komisji Europejskiej dniu 29 października 2019 pod numerem 2019/533/PL, zgodnie § 4 rozporządzenia Rady Ministrów 23 grudnia 2002 sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm aktów prawnych (Dz. U. poz. 2039 oraz 2004 poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego Rady 9 września 2015 ustanawiającą procedurę udzielania informacji dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241
-17.09.2015, str. 1).” „Art. 166. Ustawa wchodzi życie dniem 5 października 2021 r., wyjątkiem: art. 145 art. 146, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) art. 80, art. 115, art. 144 art. 161, które wchodzą życie po upływie 7 dni od ogłoszenia;
-3) art. 96 pkt 18, art. 130, art. 134, art. 149 ust. 1 oraz art. 150, które wchodzą życie po upływie 14 dni od ogłoszenia;
-4) art. 38 ust. 6, art. 50, art. 52 ust. 5–7, art. 54 ust. 1–5 oraz art. 57 ust. 4, które wchodzą życie po upływie 30 dni od ogłoszenia;
-5) art. 9 ust. 1 pkt 1–8, art. 11 pkt 2, art. 16 ust. 1, art. 18 ust. 2, art. 28 pkt 2 lit. b c, art. 31, art. 83 oraz art. 141, które wchodzą życie dniem 5 lipca 2022 r.;
-6) art. 122, który wchodzi życie dniem 1 stycznia 2022 r., wyjątkiem pkt 5, który wchodzi życie dniem 1 stycznia 2026 r.;
-7) art. 58 ust. 1 pkt 4 art. 63, które wchodzą życie dniem 1 października 2022 r.;
-8) art. 126 pkt 8, który wchodzi życie dniem 1 stycznia 2023 r.;
-9) art. 9 ust. 1 pkt 9, który wchodzi życie dniem 1 października 2026 r.;
-10) art. 82 pkt 2, zakresie dodawanego art. 100b, art. 159, które wchodzą życie dniem 1 października 2028 r.;
-11) art. 82 pkt 1, 2, zakresie dodawanego art. 100a, pkt 3–21, art. 93, art. 96 pkt 1–17 19, art. 105 oraz art. 162, które wchodzą życie dniem 1 października 2029 r.”.
-Marszałek Sejmu: E. Witek o zmianie
-1. Ustawa określa zasady zmiany na inne imię nazwisko oraz właściwość organów administracji publicznej tryb postępowania sprawach zmiany nazwiska.
-Ustawę stosuje się do: obywateli polskich;
-2) cudzoziemców niemających obywatelstwa żadnego państwa, jeżeli mają Rzeczypospolitej Polskiej miejsce zamieszkania;
-3) cudzoziemców, którzy uzyskali Rzeczypospolitej Polskiej status uchodźcy, zastrzeżeniem art. 4 ust.
-3. W rozumieniu ustawy: zmiana oznacza zastąpienie wybranego innym imieniem, zastąpienie dwóch imion jednym imieniem odwrotnie, dodanie drugiego imienia, pisowni imion kolejności imion;
-2) zmiana oznacza na inne nazwisko, pisowni ze względu na formę właściwą dla rodzaju żeńskiego męskiego;
-3) członkiem rodziny jest małżonek wstępny osoby ubiegającej się o nazwiska.
-4. 1. Zmiany można dokonać wyłącznie ważnych powodów, szczególności gdy dotyczą zmiany: ośmieszającego albo nielicującego godnością człowieka;
-2) na imię nazwisko używane;
-3) na imię nazwisko, które zostało bezprawnie zmienione;
-4) na imię nazwisko noszone zgodnie przepisami prawa państwa, którego obywatelstwo również się posiada.
-Zmiany cudzoziemca, który uzyskał Rzeczypospolitej Polskiej status uchodźcy, można dokonać wyłącznie ze szczególnie ważnych powodów związanych zagrożeniem jego prawa do życia, zdrowia, wolności bezpieczeństwa osobistego.
-5. Zmiany nie dokonuje się przypadku ubiegania się o na nazwisko historyczne, wsławione dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o posiada członków rodziny o tym nazwisku.
-6. 1. Po zmianie nazwiska, zastrzeżeniem art. 4 ust. 1 pkt 4, nazwisko nie może składać się więcej niż dwóch członów.
-Po zmianie można mieć najwyżej dwa imiona.
-7. 1. Zmiana może dotyczyć noszonego aktualnie rodowego.
-Zmiana noszonego po zawarciu małżeństwa, gdy jest ono tożsame nazwiskiem rodowym, rozciąga się na nazwisko rodowe wyłącznie na wyraźne żądanie osoby ubiegającej się o nazwiska.
-8. 1. Zmiana obojga rodziców rozciąga się na małoletnie dzieci na dzieci, które zrodzą się tego małżeństwa.
-4. Zgodę na dziecko wyraża osobiście do protokołu przed kierownikiem cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza. Dzieci zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
-5. Rodzic wyraża zgodę na dziecka osobiście do protokołu przed kierownikiem cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza na piśmie utrwalonym postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
-9. 1. Zmiana następuje na wniosek osoby ubiegającej się o zmianę, zwanej dalej „wnioskodawcą”.
-Zmiana małoletniego dziecka następuje na wniosek przedstawiciela ustawowego dziecka. Przepisy art. 8 ust. 25 stosuje się odpowiednio.
-10. 1. Wniosek o składa się do wybranego kierownika cywilnego.
-Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej wniosek o nazwiska, wskazując kierownika cywilnego, któremu wniosek ma zostać przekazany.
-11. 1. Wniosek o zawiera: dane osoby, której zmiana dotyczy: imię (imiona) nazwisko oraz nazwisko rodowe, wskazanie kierownika cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana będzie dotyczyła tego aktu,
-c) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany dalej „numerem PESEL”, jeżeli został nadany;
-2) imię nazwisko, na jakie ma nastąpić zmiana;
-3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana będzie dotyczyła tych aktów;
-4) adres do korespondencji wnioskodawcy;
-5) uzasadnienie;
-6) oświadczenie wnioskodawcy, że tej samej sprawie nie złożył wcześniej wniosku do innego kierownika cywilnego nie została wydana już decyzja odmowna.
-Jeżeli wnioskodawca jego małoletnie dzieci nie posiadają aktów cywilnego sporządzonych na terytorium Rzeczypospolitej Polskiej, wraz wnioskiem o wnioskodawca składa wniosek o transkrypcję zagranicznych dokumentów cywilnego.
-12. 1. Decyzję o zmianie bądź decyzję o odmowie zmiany wydaje kierownik cywilnego, do którego został złożony wniosek, albo jego zastępca.
-Decyzja o zmianie podlega natychmiastowemu wykonaniu.
-13. 1. Kierownik cywilnego albo jego zastępca, który wydał decyzję o zmianie nazwiska, przesyła ją, za pośrednictwem systemu teleinformatycznego, którym jest prowadzony rejestr cywilnego, do kierownika cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci również do kierownika cywilnego, który sporządził akty urodzenia dzieci.
-W przypadku zmiany małoletniego dziecka następującej na wniosek przedstawiciela ustawowego dziecka decyzję o zmianie przekazuje się kierownikowi cywilnego, który sporządził akt urodzenia dziecka.
-14. 1. Określone ustawie zadania kompetencje kierownika cywilnego są zadaniami zakresu administracji rządowej.
-Wojewodowie sprawują nadzór nad realizacją przez kierowników urzędów cywilnego zadań, o których mowa art. 12 art. 13.
-3. Wojewoda jest organem wyższego stopnia sprawach prowadzonych na podstawie ustawy.
-4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody zakresie zadań, o których mowa art. 12 art. 13.
-5. Sprawowanie nadzoru, o którym mowa ust. 4, polega szczególności na: przeprowadzaniu kontroli, tym na badaniu: prawidłowości prowadzonych przez wojewodę postępowań administracyjnych, terminowości załatwiania spraw zakresu zmiany imion nazwisk;
-2) kształtowaniu jednolitej polityki zakresie zmiany imion nazwisk oraz kontroli wykonywania ustalonych sposobów postępowania.
-6. Kontrola, o której mowa ust. 5 pkt 1, jest wykonywana na zasadach określonych ustawie 15 lipca 2011 o kontroli administracji rządowej (Dz. U. 2020 poz. 224).
-14a. (uchylony)
-15. (pominięty)
-16. (pominięty)
-17. Traci moc ustawa 15 listopada 1956 o zmianie imion nazwisk (Dz. U. 2005 poz. 1992 oraz 2007 poz. 125).
-18. Ustawa wchodzi życie po upływie 6 miesięcy od ogłoszenia .
+## Spis treści
 
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity ustawy z dnia 17 października 2008 r. o zmianie imienia i nazwiska](#part_2)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 października 2008 r. o zmianie imienia i nazwiska ([Dz. U. z 2020 r. poz. 707](https://api.sejm.gov.pl/eli/acts/DU/2020/707/text.html)), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 18 listopada 2020 r. o doręczeniach elektronicznych ([Dz. U. poz. 2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html) oraz [z 2021 r. poz. 1135](https://api.sejm.gov.pl/eli/acts/DU/2021/1135/text.html)) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 października 2021 r.
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje odnośnika nr 1 oraz art. 166 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych ([Dz. U. poz. 2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html) oraz [z 2021 r. poz. 1135](https://api.sejm.gov.pl/eli/acts/DU/2021/1135/text.html)), które stanowią: „ 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 29 października 2019 r. pod numerem 2019/533/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych ([Dz. U. poz. 2039](https://api.sejm.gov.pl/eli/acts/DU/2002/2039/text.html) oraz [z 2004 r. poz. 597](https://api.sejm.gov.pl/eli/acts/DU/2004/597/text.html)), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego ([Dz. Urz. UE L 241 z 17.09.2015, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)). ”
+
+„
+
+### Art. 166.
+
+Ustawa wchodzi w życie z dniem 5 października 2021 r., z wyjątkiem:
+
+### 1)
+
+art. 145 i art. 146, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 80, art. 115, art. 144 i art. 161, które wchodzą w życie po upływie 7 dni od dnia ogłoszenia;
+
+### 3)
+
+art. 96 pkt 18, art. 130, art. 134, art. 149 ust. 1 oraz art. 150, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+### 4)
+
+art. 38 ust. 6, art. 50, art. 52 ust. 5-7, art. 54 ust. 1-5 oraz art. 57 ust. 4, które wchodzą w życie po upływie 30 dni od dnia ogłoszenia;
+
+### 5)
+
+art. 9 ust. 1 pkt 1-8, art. 11 pkt 2, art. 16 ust. 1, art. 18 ust. 2, art. 28 pkt 2 lit. b i c, art. 31, art. 83 oraz art. 141, które wchodzą w życie z dniem 5 lipca 2022 r.;
+
+### 6)
+
+art. 122, który wchodzi w życie z dniem 1 stycznia 2022 r., z wyjątkiem pkt 5, który wchodzi w życie z dniem 1 stycznia 2026 r.;
+
+### 7)
+
+art. 58 ust. 1 pkt 4 i art. 63, które wchodzą w życie z dniem 1 października 2022 r.;
+
+### 8)
+
+art. 126 pkt 8, który wchodzi w życie z dniem 1 stycznia 2023 r.;
+
+### 9)
+
+art. 9 ust. 1 pkt 9, który wchodzi w życie z dniem 1 października 2026 r.;
+
+### 10)
+
+art. 82 pkt 2, w zakresie dodawanego art. 100b, i art. 159, które wchodzą w życie z dniem 1 października 2028 r.;
+
+### 11)
+
+art. 82 pkt 1, 2, w zakresie dodawanego art. 100a, i pkt 3-21, art. 93, art. 96 pkt 1-17 i 19, art. 105 oraz art. 162, które wchodzą w życie z dniem 1 października 2029 r.
+
+” .
+
+## Załącznik - Tekst jednolity ustawy z dnia 17 października 2008 r. o zmianie imienia i nazwiska
+
+### Art. 1.
+
+Ustawa określa zasady zmiany imienia lub nazwiska na inne imię lub nazwisko oraz właściwość organów administracji publicznej i tryb postępowania w sprawach zmiany imienia lub nazwiska.
+
+### Art. 2.
+
+Ustawę stosuje się do:
+
+### 1)
+
+obywateli polskich;
+
+### 2)
+
+cudzoziemców niemających obywatelstwa żadnego państwa, jeżeli mają w Rzeczypospolitej Polskiej miejsce zamieszkania;
+
+### 3)
+
+cudzoziemców, którzy uzyskali w Rzeczypospolitej Polskiej status uchodźcy, z zastrzeżeniem art. 4 ust. 2.
+
+### Art. 3.
+
+W rozumieniu ustawy:
+
+### 1)
+
+zmiana imienia oznacza zastąpienie wybranego imienia innym imieniem, zastąpienie dwóch imion jednym imieniem lub odwrotnie, dodanie drugiego imienia, zmianę pisowni imienia lub imion lub zmianę kolejności imion;
+
+### 2)
+
+zmiana nazwiska oznacza zmianę na inne nazwisko, zmianę pisowni nazwiska lub zmianę nazwiska ze względu na formę właściwą dla rodzaju żeńskiego lub męskiego;
+
+### 3)
+
+członkiem rodziny jest małżonek i wstępny osoby ubiegającej się o zmianę imienia lub nazwiska.
+
+### Art. 4.
+
+### 1.
+
+Zmiany imienia lub nazwiska można dokonać wyłącznie z ważnych powodów, w szczególności gdy dotyczą zmiany:
+
+### 1)
+
+imienia lub nazwiska ośmieszającego albo nielicującego z godnością człowieka;
+
+### 2)
+
+na imię lub nazwisko używane;
+
+### 3)
+
+na imię lub nazwisko, które zostało bezprawnie zmienione;
+
+### 4)
+
+na imię lub nazwisko noszone zgodnie z przepisami prawa państwa, którego obywatelstwo również się posiada.
+
+### 2.
+
+Zmiany imienia lub nazwiska cudzoziemca, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy, można dokonać wyłącznie ze szczególnie ważnych powodów związanych z zagrożeniem jego prawa do życia, zdrowia, wolności lub bezpieczeństwa osobistego.
+
+### Art. 5.
+
+Zmiany nazwiska nie dokonuje się w przypadku ubiegania się o zmianę na nazwisko historyczne, wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę nazwiska posiada członków rodziny o tym nazwisku.
+
+### Art. 6.
+
+### 1.
+
+Po zmianie nazwiska, z zastrzeżeniem art. 4 ust. 1 pkt 4, nazwisko nie może składać się z więcej niż dwóch członów.
+
+### 2.
+
+Po zmianie imienia można mieć najwyżej dwa imiona.
+
+### Art. 7.
+
+### 1.
+
+Zmiana nazwiska może dotyczyć nazwiska noszonego aktualnie lub nazwiska rodowego.
+
+### 2.
+
+Zmiana nazwiska noszonego po zawarciu małżeństwa, gdy jest ono tożsame z nazwiskiem rodowym, rozciąga się na nazwisko rodowe wyłącznie na wyraźne żądanie osoby ubiegającej się o zmianę nazwiska.
+
+### Art. 8.
+
+### 1.
+
+Zmiana nazwiska obojga rodziców rozciąga się na małoletnie dzieci i na dzieci, które zrodzą się z tego małżeństwa.
+
+### 2.
+
+Zmiana nazwiska lub nazwiska rodowego jednego z rodziców rozciąga się na małoletnie dzieci i na dzieci, które pochodzą od tych samych rodziców, pod warunkiem że drugi z rodziców wyraził na to zgodę, chyba że nie ma on pełnej zdolności do czynności prawnych lub jest pozbawiony władzy rodzicielskiej albo nie żyje. Jeżeli w chwili zmiany nazwiska dziecko ukończyło 13 lat, do zmiany nazwiska dziecka jest potrzebne także wyrażenie zgody przez dziecko.
+
+### 3.
+
+W przypadku braku porozumienia między rodzicami dziecka każde z nich może zwrócić się do sądu opiekuńczego o wyrażenie zgody na zmianę nazwiska dziecka.
+
+### 4[1) W brzmieniu ustalonym przez art. 112 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 1135), która weszła w życie z dniem 5 października 2021 r.](#gloss-0:1:).
+
+Zgodę na zmianę nazwiska dziecko wyraża osobiście do protokołu przed kierownikiem urzędu stanu cywilnego albo jego zastępcą lub na piśmie utrwalonym w postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza. Dzieci zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+
+### 5[1) W brzmieniu ustalonym przez art. 112 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 1135), która weszła w życie z dniem 5 października 2021 r.](#gloss-0:1:).
+
+Rodzic wyraża zgodę na zmianę nazwiska dziecka osobiście do protokołu przed kierownikiem urzędu stanu cywilnego albo jego zastępcą lub na piśmie utrwalonym w postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza lub na piśmie utrwalonym w postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+
+### Art. 9.
+
+### 1.
+
+Zmiana imienia lub nazwiska następuje na wniosek osoby ubiegającej się o zmianę, zwanej dalej „wnioskodawcą”.
+
+### 2.
+
+Zmiana imienia lub nazwiska małoletniego dziecka następuje na wniosek przedstawiciela ustawowego dziecka. Przepisy art. 8 ust. 2−5 stosuje się odpowiednio.
+
+### Art. 10.
+
+### 1.
+
+Wniosek o zmianę imienia lub nazwiska składa się do wybranego kierownika urzędu stanu cywilnego.
+
+### 2.
+
+Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej wniosek o zmianę imienia lub nazwiska, wskazując kierownika urzędu stanu cywilnego, któremu wniosek ma zostać przekazany.
+
+### Art. 11.
+
+### 1.
+
+Wniosek o zmianę imienia lub nazwiska zawiera:
+
+### 1)
+
+dane osoby, której zmiana dotyczy:
+
+### a)
+
+imię (imiona) i nazwisko oraz nazwisko rodowe,
+
+### b)
+
+wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu,
+
+### c)
+
+numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany dalej „numerem PESEL”, jeżeli został nadany;
+
+### 2)
+
+imię lub nazwisko, na jakie ma nastąpić zmiana;
+
+### 3)
+
+wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
+
+### 4)
+
+adres do korespondencji wnioskodawcy;
+
+### 5)
+
+uzasadnienie;
+
+### 6)
+
+oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego lub nie została wydana już decyzja odmowna.
+
+### 2.
+
+Jeżeli wnioskodawca i jego małoletnie dzieci nie posiadają aktów stanu cywilnego sporządzonych na terytorium Rzeczypospolitej Polskiej, wraz z wnioskiem o zmianę imienia lub nazwiska wnioskodawca składa wniosek o transkrypcję zagranicznych dokumentów stanu cywilnego.
+
+### 3.
+
+W przypadku gdy wniosek o zmianę imienia lub nazwiska jest składany osobiście, wnioskodawca przedstawia do wglądu dokument stwierdzający tożsamość.
+
+### Art. 11a.
+
+Postępowanie administracyjne w sprawie zmiany imienia i nazwiska jest prowadzone z wykorzystaniem danych zawartych w rejestrze stanu cywilnego, o którym mowa w art. 2 ust. 2 ustawy z dnia 28 listopada 2014 r. - Prawo o aktach stanu cywilnego ([Dz. U. z 2021 r. poz. 709](https://api.sejm.gov.pl/eli/acts/DU/2021/709/text.html)), oraz w rejestrze PESEL, o którym mowa w art. 6 ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności ([Dz. U. z 2021 r. poz. 510](https://api.sejm.gov.pl/eli/acts/DU/2021/510/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2021/1000/text.html) i [1641](https://api.sejm.gov.pl/eli/acts/DU/2021/1641/text.html)), w zakresie niezbędnym dla wydania rozstrzygnięcia w sprawie.
+
+### Art. 12.
+
+### 1.
+
+Decyzję o zmianie imienia lub nazwiska bądź decyzję o odmowie zmiany imienia lub nazwiska wydaje kierownik urzędu stanu cywilnego, do którego został złożony wniosek, albo jego zastępca.
+
+### 2.
+
+Decyzja o zmianie imienia lub nazwiska podlega natychmiastowemu wykonaniu.
+
+### Art. 13.
+
+### 1.
+
+Kierownik urzędu stanu cywilnego albo jego zastępca, który wydał decyzję o zmianie imienia lub nazwiska, przesyła ją, za pośrednictwem systemu teleinformatycznego, w którym jest prowadzony rejestr stanu cywilnego, do kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci - również do kierownika urzędu stanu cywilnego, który sporządził akty urodzenia dzieci.
+
+### 2.
+
+W przypadku zmiany imienia lub nazwiska małoletniego dziecka następującej na wniosek przedstawiciela ustawowego dziecka decyzję o zmianie imienia lub nazwiska przekazuje się kierownikowi urzędu stanu cywilnego, który sporządził akt urodzenia dziecka.
+
+### Art. 14.
+
+### 1.
+
+Określone w ustawie zadania i kompetencje kierownika urzędu stanu cywilnego są zadaniami z zakresu administracji rządowej.
+
+### 2.
+
+Wojewodowie sprawują nadzór nad realizacją przez kierowników urzędów stanu cywilnego zadań, o których mowa w art. 12 i art. 13.
+
+### 3.
+
+Wojewoda jest organem wyższego stopnia w sprawach prowadzonych na podstawie ustawy.
+
+### 4.
+
+Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody w zakresie zadań, o których mowa w art. 12 i art. 13.
+
+### 5.
+
+Sprawowanie nadzoru, o którym mowa w ust. 4, polega w szczególności na:
+
+### 1)
+
+przeprowadzaniu kontroli, w tym na badaniu:
+
+### a)
+
+prawidłowości prowadzonych przez wojewodę postępowań administracyjnych,
+
+### b)
+
+terminowości załatwiania spraw z zakresu zmiany imion i nazwisk;
+
+### 2)
+
+kształtowaniu jednolitej polityki w zakresie zmiany imion i nazwisk oraz kontroli wykonywania ustalonych sposobów postępowania.
+
+### 6.
+
+Kontrola, o której mowa w ust. 5 pkt 1, jest wykonywana na zasadach określonych w ustawie z dnia 15 lipca 2011 r. o kontroli w administracji rządowej ([Dz. U. z 2020 r. poz. 224](https://api.sejm.gov.pl/eli/acts/DU/2020/224/text.html)).
+
+### Art. 14a.
+
+(uchylony)
+
+### Art. 15.
+
+(pominięty)
+
+### Art. 16.
+
+(pominięty)
+
+### Art. 17.
+
+Traci moc ustawa z dnia 15 listopada 1956 r. o zmianie imion i nazwisk ([Dz. U. z 2005 r. poz. 1992](https://api.sejm.gov.pl/eli/acts/DU/2005/1992/text.html) oraz [z 2007 r. poz. 125](https://api.sejm.gov.pl/eli/acts/DU/2007/125/text.html)).
+
+### Art. 18.
+
+Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia[2) Ustawa została ogłoszona w dniu 12 grudnia 2008 r.](#gloss-0:2:).
+
+1) W brzmieniu ustalonym przez art. 112 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320 oraz z 2021 r. poz. 1135), która weszła w życie z dniem 5 października 2021 r. 2) Ustawa została ogłoszona w dniu 12 grudnia 2008 r.

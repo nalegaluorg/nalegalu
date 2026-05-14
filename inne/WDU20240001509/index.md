@@ -8,11 +8,9 @@ pos: 1509
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
-
-*USTAWA z dnia 15 września 2022 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 26 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
 
 | Pole | Wartość |
 |---|---|
@@ -24,1311 +22,3290 @@ domain: null
 | Data ogłoszenia | 2024-09-26 |
 | Data wydania | 2024-10-14 |
 | Ostatnia zmiana | 2025-06-26 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1509/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/1509/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/1509) |
 
-Art. 38–50. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.** Ustawa reguluje zasady i tryb:
+- [Załącznik - Tekst jednolity ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zasady ustalania średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła](#chpt_2) [Rozdział 3 - Dodatek dla gospodarstw domowych oraz dodatek dla podmiotów wrażliwych](#chpt_3) [Rozdział 4 - Finansowanie](#chpt_4) [Rozdział 5 - Przepisy karne i przepisy o karach pieniężnych](#chpt_5) [Rozdział 6 - Przepisy zmieniające](#chpt_6) [Rozdział 7 - Przepisy przejściowe i przepis końcowy](#chpt_7)
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+TOC
 
-#### Rozdział 2 Zasady ustalania średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła
+## Treść obwieszczenia
 
-**Art. 3.**
+### 1.
 
-1. Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie wytwarzania ciepła, które jest dostarczane do odbiorców ciepła, o których mowa w art. 4 ust. 1, dla:
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw ([Dz. U. z 2023 r. poz. 1772](https://api.sejm.gov.pl/eli/acts/DU/2023/1772/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-- **1)** każdego źródła ciepła lub
-- **2)** grupy źródeł ciepła stosujących ten sam rodzaj paliwa, z których żadne nie przekracza 5 MW zainstalowanej mocy cieplnej – ustala na podstawie taryfy dla ciepła zatwierdzonej na podstawie art. 47 ust. 2 ustawy – Prawo energetyczne cenę ciepła, cenę za zamówioną moc cieplną i cenę nośnika ciepła lub stawkę opłaty miesięcznej za zamówioną moc cieplną i stawkę opłaty za ciepło z rekompensatą wynikające ze średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w ust. 3, uwzględniając planowane wielkości uwzględnione w zatwierdzonej taryfie, i wprowadza ustalone ceny z rekompensatą do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r.
+### 1)
 
-2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania ciepła, które jest dostarczane do odbiorców ciepła, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej „Prezesem URE”, dla każdego źródła ciepła lub grupy źródeł ciepła stosujących ten sam rodzaj paliwa, z których żadne nie przekracza 5 MW zainstalowanej mocy cieplnej, kalkuluje ceny lub stawki opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy – Prawo energetyczne oraz ustala składniki średniej ceny wytwarzania ciepła wynikające ze średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w ust. 3, i wprowadza je do stosowania w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1.
+ustawą z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw ([Dz. U. poz. 1693](https://api.sejm.gov.pl/eli/acts/DU/2023/1693/text.html)),
 
-3. Średnia cena wytwarzania ciepła z rekompensatą przyjmuje wartość:
+### 2)
 
-- **1)** do dnia 30 czerwca 2024 r.:
-    - **a)** 150,95 zł/GJ netto dla ciepła wytwarzanego w źródłach ciepła opalanych gazem ziemnym lub olejem opałowym,
-    - **b)** 103,82 zł/GJ netto dla ciepła wytwarzanego w pozostałych źródłach ciepła;
+ustawą z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła ([Dz. U. poz. 2760](https://api.sejm.gov.pl/eli/acts/DU/2023/2760/text.html)),
 
-- **2)** po dniu 30 czerwca 2024 r.: – dla wszystkich źródeł ciepła.
-    - **a)** 119,39 zł/GJ netto – w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
-    - **b)** 134,97 zł/GJ netto – w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
+### 3)
 
-4. Dla źródła ciepła wykorzystującego różne paliwa, o których mowa w ust. 3, średnią cenę wytwarzania ciepła oraz średnią cenę wytwarzania ciepła z rekompensatą dla tego źródła określa się proporcjonalnie do procentowego udziału ciepła wytworzonego z tych paliw w ogólnej ilości wytworzonego ciepła w tym źródle.
+ustawą z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego ([Dz. U. poz. 859](https://api.sejm.gov.pl/eli/acts/DU/2024/859/text.html))
 
-5. W przypadku gdy w systemie ciepłowniczym występują źródła ciepła stosujące taryfę skalkulowaną na podstawie kosztów uzasadnionych w rozumieniu art. 3 pkt 21 ustawy – Prawo energetyczne oraz źródła ciepła stosujące taryfę skalkulowaną na podstawie art. 47 ust. 2f ustawy – Prawo energetyczne, sprzedawca ciepła stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średnią cenę wytwarzania ciepła z rekompensatą w wysokości określonej w ust. 3 proporcjonalnie do procentowego udziału ciepła dostarczanego tym odbiorcom w ogólnej ilości ciepła dostarczanego przez tego sprzedawcę, zgodnie z algorytmem zawartym w taryfie dystrybutora ciepła.
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 września 2024 r.
 
-6. Jeżeli średnia cena wytwarzania ciepła dla danego źródła ciepła jest wyższa od średniej ceny wytwarzania ciepła z rekompensatą dla tego źródła, od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. są stosowane ceny lub stawki opłat w wysokości odpowiadającej średniej cenie wytwarzanego ciepła z rekompensatą.
+### 2.
 
-7. Jeżeli średnia cena wytwarzania ciepła dla danego źródła ciepła jest niższa od średniej ceny wytwarzania ciepła z rekompensatą dla tego źródła, przedsiębiorstwo energetyczne, o którym mowa w ust. 1 lub 2, w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, stosuje tę cenę. Z tytułu stosowania średniej ceny wytwarzania ciepła niższej niż określona w ust. 3 rekompensata nie przysługuje.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 
-**Art. 3a.**
+### 1)
 
-1. Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki dla przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, dla każdej grupy taryfowej w danym systemie ciepłowniczym, wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, stosowanych w dniu 30 września 2022 r. w tym systemie, powiększone o 40 %, w terminie 10 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw (Dz. U. poz.
+art. 10 i art. 15 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw ([Dz. U. poz. 1693](https://api.sejm.gov.pl/eli/acts/DU/2023/1693/text.html)), które stanowią:
 
-- **295)** .
+„
 
-2. Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom ciepła, o których mowa w art. 4 ust. 1:
+### Art. 10.
 
-- **1)** oblicza maksymalne ceny dostawy ciepła dla danego systemu ciepłowniczego, przyjmując wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, opublikowane przez Prezesa URE;
-- **2)** w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. przyjmuje i wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w każdej grupie taryfowej stosowanej taryfy dla ciepła ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, nie wyższe niż opublikowane przez Prezesa URE.
+Przepisy:
 
-3. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE, na podstawie skalkulowanych na dzień 30 września 2022 r. cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy – Prawo energetyczne:
+### 1)
 
-- **1)** ustala dla każdej grupy taryfowej maksymalne wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, uwzględniając 40 % wzrostu w stosunku do tych cen i stawek opłat stosowanych w danym systemie ciepłowniczym w dniu 30 września 2022 r.;
-- **2)** oblicza maksymalną cenę dostawy ciepła dla danego systemu ciepłowniczego, przyjmując ustalone zgodnie z pkt 1 ceny i stawki opłat, dla wszystkich grup taryfowych w tym systemie ciepłowniczym;
-- **3)** w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, ceny i stawki opłat w każdej grupie taryfowej stosowanej taryfy dla ciepła i przyjmuje wartości tych cen i stawek opłat nie wyższe niż ustalone zgodnie z pkt 1.
+art. 30a ust. 1 pkt 2 i ust. 2 pkt 1 ustawy zmienianej w art. 2,
 
-4. W przypadku gdy w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. maksymalna cena dostawy ciepła, o której mowa w ust. 2 pkt 1 albo ust. 3 pkt 2, jest w danym miesięcznym okresie rozliczeniowym wyższa od:
+### 2)
 
-- **1)** średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3, obliczonej dla danego systemu ciepłowniczego, powiększonej o średnią stawkę opłat za usługi przesyłowe w tym systemie ciepłowniczym albo
-- **2)** ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła w danym systemie ciepłowniczym – przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 3, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym, cenę najniższą z określonych w pkt 1 i 2.
+art. 62b ust. 1 pkt 2 lit. d tiret 13 ustawy zmienianej w art. 3,
 
-**Art. 3b.**
+### 3)
 
-1. Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom ciepła, o których mowa w art. 4 ust. 1:
+art. 1 pkt 1 lit. b, art. 2 pkt 4 i pkt 5 lit. b, art. 6 ust. 1 i 2 oraz ust. 3 pkt 1-3, art. 15 ust. 2 oraz art. 21 ust. 1 pkt 1, ust. 6 pkt 1 i ust. 10 pkt 1-3 ustawy zmienianej w art. 4,
 
-- **1)** oblicza maksymalne ceny dostawy ciepła dla danego systemu ciepłowniczego w kolejnych okresach, o których mowa w art. 3 ust. 3 pkt 2;
-- **2)** w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przyjmuje i wprowadza do stosowania w rozliczeniach z odbiorcami ciepła, o których mowa w art. 4 ust. 1, w każdej grupie taryfowej stosowanej taryfy dla ciepła ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło nie wyższe niż ceny i stawki opłat w każdej grupie taryfowej, powiększone w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
-    - **a)** 46 % – w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
-    - **b)** 52 % – w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
+### 4)
 
-2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE, na podstawie skalkulowanych na dzień 30 września 2022 r. cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 ustawy – Prawo energetyczne:
+art. 52 ust. 2 pkt 1 ustawy zmienianej w art. 6,
 
-- **1)** oblicza maksymalną cenę dostawy ciepła dla danego systemu ciepłowniczego w kolejnych okresach, o których mowa w art. 3 ust. 3 pkt 2;
-- **2)** w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, ceny i stawki opłat stosowanego cennika w każdej grupie taryfowej i przyjmuje wartości tych cen i stawek opłat nie wyższe niż ceny i stawki opłat w każdej grupie taryfowej, powiększone w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
-    - **a)** 46 % – w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
-    - **b)** 52 % – w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
+### 5)
 
-3. W przypadku gdy w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. maksymalna cena dostawy ciepła, o której mowa w ust. 1 pkt 1 albo ust. 2 pkt 1, jest w danym miesięcznym okresie rozliczeniowym wyższa od:
+art. 4 ust. 1 pkt 4 lit. m ustawy zmienianej w art. 7,
 
-- **1)** średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3 pkt 2, obliczonej dla danego systemu ciepłowniczego, powiększonej o średnią stawkę opłat za usługi przesyłowe w tym systemie ciepłowniczym, albo
-- **2)** ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła lub cennika w danym systemie ciepłowniczym – przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 2, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym cenę najniższą z określonych w pkt 1 i 2.
+### 6)
 
-4. W przypadku gdy różnica między ceną najniższą, o której mowa w ust. 3, a ceną dostawy ciepła jest niższa niż 1 zł/GJ, przepisów ust. 1 pkt 2, ust. 2 pkt 2 oraz ust. 3 nie stosuje się.
+art. 2 pkt 2 lit. e tiret 18 ustawy zmienianej w art. 8
 
-**Art. 4.**
+- w brzmieniu nadanym niniejszą ustawą stosuje się również do prowadzonych w dniu wejścia w życie niniejszej ustawy mieszkań chronionych do dnia ich przekształcenia w mieszkania treningowe lub mieszkania wspomagane, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-1. Średnią cenę wytwarzania ciepła z rekompensatą lub maksymalną cenę dostawy ciepła ustala się dla:
+”
 
-- **1)** gospodarstw domowych;
-- **2)** wspólnot mieszkaniowych, o których mowa w art. 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), albo spółdzielni mieszkaniowych, o których mowa w art. 1 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2024 r. poz. 558), które są uprawnione lub zobowiązane do zapewnienia ciepła w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe albo w lokalach podmiotów, o których mowa w pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach;
-- **3)** podmiotów innych niż podmioty, o których mowa w pkt 2, które na mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia dostaw ciepła do lokali mieszkalnych na potrzeby zużycia przez gospodarstwa domowe albo w lokalach podmiotów, o których mowa w pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach;
-- **4)** o ile złożą oświadczenie, o którym mowa w art. 6 ust. 1 – podmiotów będących:
-    - **a)** podmiotem udzielającym świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, w jakim zużywa ciepło na potrzeby udzielania tych świadczeń,
-    - **b)** jednostką organizacyjną pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz.
+„
 
-- **1283)** , w zakresie, w jakim zużywa ciepło na potrzeby świadczenia pomocy społecznej,
-    - **c)** noclegownią albo ogrzewalnią, o których mowa w art. 48a ust. 3 albo 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
-    - **d)** jednostką organizacyjną wspierania rodziny i systemu pieczy zastępczej w rozumieniu art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2024 r. poz. 177, 742, 743 i
+### Art. 15.
 
-- **858)** , w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o opiece nad dziećmi w wieku do lat 3 (Dz. U. z 2024 r. poz. 338, 743 i 858), w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
-    - **e)** podmiotem systemu oświaty, o którym mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **f)** podmiotem tworzącym system szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **g)** podmiotem prowadzącym żłobek lub klub dziecięcy, a także dziennym opiekunem, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r.
-    - **h)** kościołem lub innym związkiem wyznaniowym, o których mowa w art. 2 pkt 1 ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2023 r. poz. 265), w zakresie, w jakim zużywa ciepło na potrzeby działalności niegospodarczej,
-    - **i)** podmiotem prowadzącym działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2024 r. poz. 87), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
-    - **j)** podmiotem prowadzącym działalność archiwalną, o której mowa w art. 22 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
-    - **k)** ochotniczą strażą pożarną w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych (Dz. U. z 2024 r. poz.
+Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 10, pkt 14 w zakresie dodawanego art. 55c, pkt 17 lit. b oraz pkt 20, które wchodzą w życie z dniem 1 stycznia 2024 r.
 
-- **233)** , w zakresie, w jakim zużywa ciepło na potrzeby realizacji zadań określonych w tej ustawie, o spółdzielniach socjalnych (Dz. U. z 2023 r. poz. 802), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, o związkach zawodowych (Dz. U. z 2022 r. poz. 854), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności, 3 pkt 2–4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 281 i 1229), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **l)** placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **m)** rodzinnym domem pomocy, o którym mowa w art. 52 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo mieszkaniem treningowym lub wspomaganym, o którym mowa w art. 53 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
-    - **n)** centrum integracji społecznej, o którym mowa w art. 3 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2022 r. poz. 2241), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **o)** klubem integracji społecznej, o którym mowa w art. 18 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
-    - **p)** warsztatem terapii zajęciowej w rozumieniu art. 10a ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2024 r. poz. 44, 858, 1089 i 1165) albo zakładem aktywności zawodowej, o którym mowa w art. 29 ust. 1 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
-    - **q)** organizacją pozarządową w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2023 r. poz. 571 oraz z 2024 r. poz. 834) albo podmiotem, o którym mowa w art. 3 ust. 3 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby działalności pożytku publicznego,
-    - **r)** spółdzielnią socjalną w rozumieniu art. 2 ustawy z dnia 27 kwietnia 2006 r.
-    - **s)** związkiem zawodowym, o którym mowa w ustawie z dnia 23 maja 1991 r.
-    - **t)** jednostką organizacyjną publicznej służby krwi, o której mowa w art. 4 ust.
-    - **u)** podmiotem realizującym na rzecz jednostki samorządu terytorialnego zadania i usługi, w tym usługi świadczone w ogólnym interesie gospodarczym, z zakresu kultury fizycznej w rozumieniu art. 2 ust. 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2023 r. poz. 2048 oraz z 2024 r. poz. 1166), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności.
+” ;
 
-2. Średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła nie stosuje się do odbiorców w zakresie, w jakim korzystają ze wsparcia na cele ogrzewania na podstawie przepisów:
+### 2)
 
-- **1)** ustawy z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu (Dz. U. poz. 202, z późn. zm. );
-- **2)** ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym (Dz. U. z 2024 r. poz.
-- **1207)** ;
-- **2a)** ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303, 834 i 859);
-- **3)** art. 24 lub art. 26.
+art. 15 i art. 17 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła ([Dz. U. poz. 2760](https://api.sejm.gov.pl/eli/acts/DU/2023/2760/text.html)), które stanowią:
 
-**Art. 5.**
+„
 
-1. Odbiorcy ciepła, o których mowa w art. 4 ust. 1 pkt 2 i 3, składają sprzedawcy ciepła oświadczenie, które zawiera:
+### Art. 15.
 
-- **1)** oświadczenie o spełnieniu warunków pozwalających na uznanie ich za odbiorców, o których mowa w art. 4 ust. 1 pkt 2 i 3;
-- **2)** wskazanie danych służących określeniu szacowanej ilości ciepła, która będzie zużywana na potrzeby:
-    - **a)** gospodarstw domowych w lokalach mieszkalnych i na potrzeby części wspólnych budynków wielolokalowych, o których mowa w art. 4 ust. 1 pkt 2 i 3,
-    - **b)** podmiotów, o których mowa w art. 4 ust. 1 pkt 4, prowadzących działalność w lokalach odbiorców, o których mowa w art. 4 ust. 1 pkt 2 i 3, oraz
-    - **c)** inne niż określone w lit. a i b;
+### 1.
 
-- **3)** określenie szacowanej ilości ciepła, która będzie zużywana na potrzeby, o których mowa w pkt 2.
+Sprawy dotyczące rozliczenia wyrównania, wszczęte na podstawie wniosków, o których mowa w art. 12b ust. 1 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, i niezakończone przed dniem wejścia w życie niniejszej ustawy pozostawia się bez rozpatrzenia.
 
-2. Określenie szacowanej ilości ciepła w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a ustawy – Prawo energetyczne lub z uwzględnieniem powierzchni lokali mieszkalnych i użytkowych, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
+### 2.
 
-3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 2 i 3, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec mieszkańców lokali, o których mowa w art. 4 ust. 1 pkt 2 lub 3, do kwoty stanowiącej iloczyn różnicy:
+Sprawy dotyczące rozliczenia wyrównania, o którym mowa w art. 12c ustawy zmienianej w art. 4, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy pozostawia się bez rozpatrzenia.
 
-- **1)** średniej ceny wytwarzania ciepła i średniej ceny wytwarzania ciepła z rekompensatą,
-- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła – oraz ilości ciepła dostarczonego na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3.
+”
 
-4. Oświadczenie, o którym mowa w ust. 1, odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, składa w terminie 21 dni od dnia nabycia uprawnienia do stosowania wobec niego średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła.
+„
 
-5. Wprowadzenie do stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła nie powoduje konieczności zmiany umowy sprzedaży ciepła lub umowy kompleksowej.
+### Art. 17.
 
-6. Odbiorca ciepła składa oświadczenie, o którym mowa w ust. 1, przy każdej zmianie danych, o których mowa w tym przepisie.
+Ustawa wchodzi w życie z dniem 31 grudnia 2023 r.
 
-**Art. 6.**
+” ;
 
-1. Odbiorcy ciepła, o których mowa w art. 4 ust. 1 pkt 4, w celu umożliwienia stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła, składają sprzedawcy ciepła oświadczenie, które zawiera:
+### 3)
 
-- **1)** oświadczenie o spełnieniu warunków pozwalających na uznanie ich za odbiorców, o których mowa w art. 4 ust. 1 pkt 4;
-- **2)** wskazanie danych służących określeniu szacunkowej ilości ciepła, które będzie zużywane na potrzeby:
-    - **a)** podmiotów, o których mowa w art. 4 ust. 1 pkt 4,
-    - **b)** gospodarstw domowych w lokalach mieszkalnych i na potrzeby części wspólnych budynków wielolokalowych oraz
-    - **c)** inne niż określone w lit. a i b;
+art. 29, art. 34, art. 41 i art. 43 ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego ([Dz. U. poz. 859](https://api.sejm.gov.pl/eli/acts/DU/2024/859/text.html)), które stanowią:
 
-- **3)** określenie szacowanej ilości ciepła, która będzie zużywana na potrzeby, o których mowa w pkt 2.
+„
 
-2. Określenie szacunkowej ilości ciepła w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a ustawy – Prawo energetyczne lub z uwzględnieniem powierzchni lokali, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
+### Art. 29.
 
-3. Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 4, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w ust. 1 pkt 2, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec podmiotu określonego w art. 4 ust. 1 pkt 4 do kwoty stanowiącej iloczyn różnicy:
+### 1.
 
-- **1)** średniej ceny wytwarzania ciepła wytwórcy i średniej ceny wytwarzania ciepła z rekompensatą,
-- **2)** ceny dostawy ciepła i maksymalnej ceny dostawy ciepła – oraz ilości ciepła zużytego na potrzeby, o których mowa w ust. 1 pkt 2.
+Do spraw dotyczących rozliczenia wyrównania, o którym mowa w art. 12a ust. 1 ustawy zmienianej w art. 21, wszczętych na podstawie wniosków, o których mowa w art. 12b ust. 1 pkt 1 ustawy zmienianej w art. 21, i niezakończonych przed dniem wejścia w życie art. 21, stosuje się przepisy dotychczasowe.
 
-4. Niezłożenie przez odbiorcę, o którym mowa w art. 4 ust. 1 pkt 4, oświadczenia, o którym mowa w ust. 1, w terminie 21 dni od dnia nabycia uprawnienia do stosowania wobec niego średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła, uprawnia sprzedawcę ciepła do niestosowania wobec tego odbiorcy średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła.
+### 2.
 
-5. Złożenie przez odbiorcę, o którym mowa w art. 4 ust. 1 pkt 4, oświadczenia, o którym mowa w ust. 1, po upływie terminu określonego w ust. 4, zobowiązuje sprzedawcę ciepła do stosowania wobec tego odbiorcy średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła ze skutkiem od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
+Wniosek o wypłatę wyrównania, o którym mowa w art. 12aa ust. 1 ustawy zmienianej w art. 21, za lipiec 2024 r. składa się w terminie do dnia 25 września 2024 r.
 
-6. Wprowadzenie do stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła nie powoduje konieczności zmiany umowy sprzedaży ciepła lub umowy kompleksowej.
+### 3.
 
-7. Odbiorca ciepła składa oświadczenie, o którym mowa w ust. 1, przy każdej zmianie danych, o których mowa w tym przepisie.
+Do wniosku, o którym mowa w art. 12a ust. 9 ustawy zmienianej w art. 21, stosuje się przepisy dotychczasowe.
 
-**Art. 7.**
+”
 
-1. Oświadczenia, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+„
 
-2. Oświadczenia, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, składają osoby uprawnione do reprezentowania podmiotów, o których mowa w art. 4 ust. 1 pkt 2–4, podpisując je własnoręcznie, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+### Art. 34.
 
-**Art. 8.**
+### 1.
 
-1. Sprzedawca ciepła dokonuje rozliczeń z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2–4, na podstawie oświadczeń, o których mowa w art. 5 ust. 1 oraz art. 6 ust. 1.
+Bank Gospodarstwa Krajowego, w celu dostosowania planu finansowego Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy zmienianej w art. 17, do przepisów:
 
-2. Nadanie oświadczeń, o których mowa w art. 5 ust. 1 oraz art. 6 ust. 1, w formie przesyłki poleconej w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467 i 1222) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej jest równoznaczne ze złożeniem go sprzedawcy ciepła.
+### 1)
 
-**Art. 9.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
+art. 5 ustawy zmienianej w art. 20 w brzmieniu nadanym niniejszą ustawą,
 
-**Art. 10.**
+### 2)
 
-1. Sprzedawca ciepła w systemie ciepłowniczym przekazuje w terminie 30 dni od dnia wejścia w życie ustawy wytwórcy ciepła w tym systemie informację o szacowanej ilości ciepła, która będzie zużywana przez odbiorców, o których mowa w art. 4 ust. 1, na podstawie oświadczeń, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, a w przypadku kilku wytwórców ciepła lub kilku źródeł ciepła jednego wytwórcy ciepła zasilających ten system ciepłowniczy – o szacowanej ilości ciepła dla każdego źródła ciepła uwzględniającą algorytm dotyczący ceny ciepła, ceny za zamówioną moc cieplną oraz ceny nośnika ciepła umieszczonego w taryfie dystrybutora ciepła wykonującego działalność gospodarczą w tym systemie. W przypadku gdy odbiorca ciepła złożył oświadczenie po terminie, o którym mowa w art. 5 ust. 4 i art. 6 ust. 4, lub po zmianie danych, o których mowa w art. 5 ust. 6 i art. 6 ust. 7, sprzedawca ciepła przekazuje informację o szacowanej ilości ciepła w terminie do 10. dnia każdego miesiąca następującego po miesiącu, w którym złożono oświadczenie, do wytwórcy ciepła w tym systemie.
+art. 30 ustawy zmienianej w art. 21 w brzmieniu nadanym niniejszą ustawą,
 
-2. Sprzedawca ciepła w systemie ciepłowniczym przekazuje w terminie do dnia 31 lipca 2023 r. wytwórcy ciepła w tym systemie informację o rzeczywistej ilości ciepła sprzedanego w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. do odbiorców, o których mowa w art. 4 ust. 1, którzy złożyli oświadczenia na podstawie art. 5 ust. 1 i art. 6 ust. 1, a w przypadku kilku wytwórców ciepła lub kilku źródeł ciepła jednego wytwórcy ciepła zasilających ten system ciepłowniczy – o ilości ciepła dla każdego źródła ciepła wyznaczonej na podstawie algorytmu dotyczącego ceny ciepła, ceny za zamówioną moc cieplną oraz ceny nośnika ciepła umieszczonego w taryfie dystrybutora ciepła wykonującego działalność gospodarczą w tym systemie.
+### 3)
 
-3. W przypadku gdy odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 i 3, nie złożył oświadczenia, o którym mowa w art. 5 ust. 1, sprzedawca ciepła w systemie ciepłowniczym określa:
+art. 36 ustawy zmienianej w art. 22 w brzmieniu nadanym niniejszą ustawą,
 
-- **1)** szacowaną ilość ciepła, która miesięcznie będzie zużywana przez tego odbiorcę, określoną na podstawie danych historycznych, o której informację przekazuje w terminie 30 dni od dnia wejścia w życie ustawy wytwórcy ciepła w tym systemie,
-- **2)** rzeczywistą ilość ciepła sprzedaną do tego odbiorcy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., o której informację przekazuje wytwórcy ciepła w tym systemie w terminie do dnia 31 lipca 2023 r. – jako całość sprzedanego ciepła do tego odbiorcy.
+### 4)
 
-**Art. 11.**
+art. 23 ustawy zmienianej w art. 24 w brzmieniu nadanym niniejszą ustawą
 
-1. Średnią cenę wytwarzania ciepła z rekompensatą stosuje się w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r.
+- opracowuje projekt zmiany planu finansowego tego Funduszu i przedstawia go do uzgodnienia ministrowi właściwemu do spraw finansów publicznych oraz do zatwierdzenia Prezesowi Rady Ministrów.
 
-2. Przedsiębiorstwa energetyczne, stosujące średnią cenę wytwarzania ciepła z rekompensatą, zaliczają wypłaconą rekompensatę, o której mowa w art. 12 ust. 1, oraz dodatkową rekompensatę, o której mowa w art. 31 ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła.
+### 2.
 
-3. Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 lub 3, oraz sprzedawca ciepła, stosujący ceny i stawki opłat, o których mowa w art. 3a ust. 2 pkt 2, ust. 3 pkt 3 lub ust. 4, zaliczają wypłacone wyrównanie, o którym mowa w art. 12a ust. 1 oraz art. 12c ust. 1, lub świadczenie wyrównawcze, o którym mowa w art. 15a ust. 1, oraz dodatkowe wyrównanie, o którym mowa w art. 31a ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła lub do przychodów za świadczenie usług przesyłowych.
+Prezes Rady Ministrów zatwierdza zmianę planu finansowego w terminie 14 dni od dnia przedstawienia projektu tej zmiany.
 
-4. Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 lub 2, zalicza wypłacone wyrównanie, o którym mowa w art. 12aa ust. 1, oraz dodatkowe wyrównanie, o którym mowa w art. 31a ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła lub do przychodów za świadczenie usług przesyłowych.
+”
 
-**Art. 12.**
+„
 
-1. Przedsiębiorstwom energetycznym, o których mowa w art. 3 ust. 1 i 2, stosującym średnią cenę wytwarzania ciepła z rekompensatą wobec odbiorców, o których mowa w art. 4 ust. 1, zwanym dalej „podmiotami uprawnionymi”, przysługuje z tego tytułu rekompensata określona zgodnie z ust. 3, zwana dalej „rekompensatą”.
+### Art. 41.
 
-2. Rekompensata przysługuje za okres od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. i jest wypłacana podmiotowi uprawnionemu za każdy miesiąc kalendarzowy stosowania średniej ceny wytwarzania ciepła z rekompensatą.
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12d ustawy zmienianej w art. 21 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 12d ustawy zmienianej w art. 21 i mogą być zmieniane.
 
-3. Rekompensata dla danego źródła ciepła lub grupy źródeł ciepła przysługuje podmiotowi uprawnionemu w kwocie stanowiącej iloczyn różnicy średniej ceny wytwarzania ciepła i średniej ceny wytwarzania ciepła z rekompensatą oraz ilości sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym, powiększoną o podatek od towarów i usług.
+”
 
-4. Wysokość rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła za dany miesiąc ustala się zgodnie ze wzorem: R = (CT−CR) x W x (1+T), gdzie poszczególne symbole oznaczają: R – kwotę rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła za dany miesiąc [zł], CT – średnią cenę wytwarzania ciepła dla danego źródła ciepła lub grupy źródeł ciepła obliczoną przez wnioskodawcę na podstawie wielkości z zatwierdzonej taryfy lub wyznaczoną na podstawie kalkulacji cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy – Prawo energetyczne [zł/GJ], zgodnie ze wzorem: CT = (CC x PSC+CM x PMZ+CN x PSN) ∶ PSC, a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną: CT = (SC x PSC+SM x PMZ) ∶ PSC, CR – średnią cenę wytwarzania ciepła z rekompensatą dla danego źródła ciepła lub grupy źródeł ciepła, o której mowa w art. 3 ust. 3, z uwzględnieniem art. 3 ust. 4 i 5 [zł/GJ], obliczaną przez wnioskodawcę zgodnie ze wzorem: CR = (CCR x PSC+CMR x PMZ+CNR x PSN) ∶ PSC, a w przypadkach stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną: CR = (SCR x PSC+SMR x PMZ) ∶ PSC, W – ilość sprzedanego ciepła z danego źródła ciepła lub z grupy źródeł ciepła, w miesięcznym okresie rozliczeniowym, dla odbiorców, o których mowa w art. 4 ust. 1 [GJ], T – stawkę podatku od towarów i usług dla dostaw ciepła [%], CC – cenę ciepła [zł/GJ], CM – cenę za zamówioną moc cieplną [zł/MW], CN – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SC – stawkę opłaty za ciepło [zł/GJ], SM – dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną [zł/MW], SCR – stawkę opłaty za ciepło obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/GJ], SMR – dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/MW], PSC – planowaną roczną sprzedaż ciepła we wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [GJ], PMZ – planowaną wielkość zamówionej mocy cieplnej uwzględnioną w ostatnim wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [MW], PSN – planowaną roczną ilość nośnika ciepła dostarczanego do sieci ciepłowniczych w celu napełniania i uzupełniania ubytków tego nośnika w tych sieciach oraz sprzedaży tego nośnika odbiorcom, uwzględnioną w ostatnim wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [w metrach sześciennych lub w tonach], CCR – cenę ciepła obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/GJ], CMR – cenę za zamówioną moc cieplną obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/MW], CNR – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę – wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem symbolu PMZ, który wyraża się z dokładnością do trzech miejsc po przecinku.
+„
 
-5. Wysokość rekompensaty w danym okresie rozliczeniowym oblicza podmiot uprawniony.
+### Art. 43.
 
-6. Podmiot uprawniony we wniosku o wypłatę rekompensaty określa średnią cenę wytwarzania ciepła dla danego źródła ciepła lub grupy źródeł ciepła obliczoną przez wnioskodawcę na podstawie wielkości z zatwierdzonej taryfy lub wyznaczoną na podstawie kalkulacji cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy – Prawo energetyczne oraz średnią cenę wytwarzania ciepła z rekompensatą dla danego źródła ciepła lub grupy źródeł ciepła, o której mowa w art. 3 ust. 3, z uwzględnieniem art. 3 ust. 4 i 5.
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
 
-7. Prezes URE na wniosek Zarządcy Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311), zwanego dalej „zarządcą rozliczeń”, przekazuje dane niezbędne do obliczenia średniej ceny wytwarzania ciepła oraz ceny dostawy ciepła w terminie 5 dni roboczych, z zastrzeżeniem poufności przekazywanych danych.
+### 1)
 
-**Art. 12a.**
+art. 11, art. 21, art. 23 pkt 1 lit. b tiret drugie oraz pkt 6, art. 24 pkt 10, art. 29, art. 34, art. 35 i art. 39-41, które wchodzą w życie z dniem 1 lipca 2024 r.;
 
-1. Za okres od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. przedsiębiorstwu energetycznemu:
+### 2)
 
-- **1)** o którym mowa w art. 3a ust. 2, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy tego przedsiębiorstwa i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, ustaloną zgodnie z art. 3a ust. 2 pkt 2 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług;
-- **2)** o którym mowa w art. 3a ust. 3, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, ustaloną zgodnie z art. 3a ust. 3 pkt 3 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
+art. 23 pkt 1 lit. a, w zakresie w jakim dotyczy wyłączenia odbiorców, którzy zawarli umowę z ceną dynamiczną energii elektrycznej, o której mowa w art. 3 pkt 6d ustawy zmienianej w art. 11, oraz art. 26 pkt 1, które wchodzą w życie z dniem 24 sierpnia 2024 r.
 
-2. W przypadku, o którym mowa w art. 3a ust. 4, wyrównanie oblicza się jako iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 2 i 3, i najniższą ceną, o której mowa w art. 3a ust. 4, oraz ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
+” .
 
-3. Wyrównanie jest wypłacane za każdy miesiąc kalendarzowy stosowania maksymalnej ceny dostawy ciepła albo najniższej ceny, o której mowa w art. 3a ust. 4, na wniosek przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 2 i 3.
+## Załącznik - Tekst jednolity ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw
 
-4. Wysokość wyrównania w danym okresie rozliczeniowym oblicza przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3.
+### Rozdział 1 Przepisy ogólne
 
-5. Wniosek o wypłatę wyrównania zawiera:
+### Art. 1.
 
-- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
-- **2)** oznaczenie przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania i jego siedziby;
-- **3)** numer identyfikacji podatkowej (NIP) przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania;
-- **4)** adres poczty elektronicznej przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania;
-- **5)** ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym [GJ];
-- **6)** dane niezbędne do wykonania obliczenia wyrównania;
-- **7)** wnioskowaną wysokość wyrównania;
-- **8)** oświadczenie, że przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie skorzystało ze wsparcia, o którym mowa w art. 4 ust. 2;
-- **9)** oświadczenie przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, oraz o zgodności z prawdą danych zawartych we wniosku;
-- **10)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone wyrównanie;
-- **11)** inne informacje niezbędne do wypłacenia wyrównania.
+Ustawa reguluje zasady i tryb:
 
-6. Oświadczenia, o których mowa w ust. 5 pkt 8 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+### 1)
 
-7. Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, zaprzestało wykonywania działalności gospodarczej w zakresie sprzedaży ciepła przed rozliczeniem wyrównania za dany okres, kwotę wyrównania uznaje się za pobraną nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do jej zwrotu w całości wraz z odsetkami. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia ich otrzymania.
+ustalania przez wytwórcę ciepła określonego poziomu średnich cen wytwarzania ciepła dla odbiorców na potrzeby gospodarstw domowych i potrzeby użyteczności publicznej, zwanych dalej „średnimi cenami wytwarzania ciepła z rekompensatą”, ustalania limitu średniej ceny wytwarzania ciepła, od której może być przyznawana rekompensata, przyznawania, ustalania wysokości i wypłacania rekompensat dla przedsiębiorstw energetycznych oraz właściwość podmiotów w tych sprawach;
 
-8. Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, jest obowiązane do przechowywania dokumentacji związanej z wnioskowanym wyrównaniem przez okres 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie wyrównania.
+### 1a)
 
-9. Wniosek o wypłatę wyrównania za czerwiec 2024 r. składa się w terminie do dnia 25 lipca 2024 r.
+ustalania maksymalnej ceny dostawy ciepła dla odbiorców na potrzeby gospodarstw domowych i podmiotów użyteczności publicznej, przyznawania, ustalania wysokości i wypłacania wyrównań oraz właściwość podmiotów w tych sprawach;
 
-10. Wniosek o wypłatę wyrównania składa się do:
+### 2)
 
-- **1)** zarządcy rozliczeń – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 1;
-- **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 3.
+przyznawania, wypłacania oraz wysokość dodatku dla gospodarstw domowych z tytułu wykorzystywania niektórych źródeł ciepła, zwanego dalej „dodatkiem dla gospodarstw domowych”, oraz właściwość organów w tych sprawach;
 
-11. Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 13 ust. 3, art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20. Art. 12aa. 1. Za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przedsiębiorstwu energetycznemu:
+### 3)
 
-- **1)** o którym mowa w art. 3b ust. 1, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy tego przedsiębiorstwa i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 1 pkt 2 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług;
-- **2)** o którym mowa w art. 3b ust. 2, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 2 pkt 1 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
+przyznawania, wypłacania oraz określania wysokości dodatku dla niektórych podmiotów niebędących gospodarstwami domowymi z tytułu wykorzystywania niektórych źródeł ciepła, zwanego dalej „dodatkiem dla podmiotów wrażliwych”, oraz właściwość organów w tych sprawach.
 
-2. W przypadku, o którym mowa w art. 3b ust. 3, wyrównanie oblicza się jako iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy lub cennika przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1 i 2, i najniższą ceną, o której mowa w art. 3b ust. 3, oraz ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
+### Art. 2.
 
-3. Wyrównanie jest wypłacane za każdy miesiąc kalendarzowy stosowania maksymalnej ceny dostawy ciepła albo najniższej ceny, o której mowa w art. 3b ust. 3, na wniosek przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1 i 2.
+Użyte w ustawie określenia oznaczają:
 
-4. Wysokość wyrównania w danym okresie rozliczeniowym oblicza przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2.
+### 1)
 
-5. Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2, zaprzestało wykonywania działalności gospodarczej w zakresie sprzedaży ciepła przed rozliczeniem wyrównania za dany okres, kwotę wyrównania uznaje się za pobraną nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do jej zwrotu w całości wraz z odsetkami.
+ciepło - ciepło w rozumieniu art. 3 pkt 2 ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2024 r. poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2024/266/text.html), [834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html) i [859](https://api.sejm.gov.pl/eli/acts/DU/2024/859/text.html)), zwanej dalej „ustawą - Prawo energetyczne”;
 
-6. W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie dokona zwrotu kwoty wyrównania zgodnie z ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+### 2)
 
-7. Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2, jest obowiązane do przechowywania dokumentacji związanej z wnioskowanym wyrównaniem przez 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie wyrównania.
+dystrybutor ciepła - przedsiębiorstwo energetyczne zajmujące się przesyłaniem i dystrybucją ciepła;
 
-8. Wniosek o wypłatę wyrównania składa się do:
+### 2a)
 
-- **1)** zarządcy rozliczeń – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1;
-- **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 2.
+podmiot wypłacający - odpowiednio:
 
-9. Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 12a ust. 5, art. 13 ust. 3, art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
+### a[1) Ze zmianą wprowadzoną przez art. 21 pkt 1 lit. a ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859); weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:1:))
 
-10. Oświadczenia, o których mowa w art. 12a ust. 5 pkt 8 i 9, zawarte we wniosku o wypłatę wyrównania w związku z ust. 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+podmiot, o którym mowa w art. 12a ust. 10 - w przypadku wyrównania, o którym mowa w art. 12a ust. 1 i art. 12aa ust. 1,
 
-**Art. 12b.**
+### b)
 
-1. Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12a ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby podmiotów, o których mowa w art. 4 ust. 1, za okres:
+podmiot, o którym mowa w art. 12c ust. 10 - w przypadku wyrównania, o którym mowa w art. 12c ust. 1,
 
-- **1)** od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. – w terminie od dnia 1 kwietnia 2024 r. do dnia 15 maja 2024 r.;
-- **2)** od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. – w terminie od dnia 1 września 2024 r. do dnia 15 października 2024 r.
+### c)
 
-1. Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12aa ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby odbiorców ciepła, o których mowa w art. 4 ust. 1, za okres:
+podmiot, o którym mowa w art. 13 ust. 4 - w przypadku rekompensaty, o której mowa w art. 12 ust. 1,
 
-- **1)** od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. – w terminie od dnia 1 kwietnia 2025 r. do dnia 15 maja 2025 r.;
-- **2)** od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. – w terminie od dnia 1 września 2025 r. do dnia 15 października 2025 r.
+### d[2) Dodana przez art. 4 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r.](#gloss-0:2:))
 
-1a. W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania złożyło wniosek o rozliczenie wyrównania, dotychczas nierozpoznane wnioski złożone zgodnie z art. 12a ust. 3 pozostawia się bez rozpatrzenia.
+podmiot, o którym mowa w art. 15a ust. 4 - w przypadku świadczenia wyrównawczego, o którym mowa w art. 15a ust. 1;
 
-1b. Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania we wniosku o rozliczenie wyrównania za poszczególne okresy wskazuje kwotę podlegającą rozliczeniu stanowiącą różnicę między sumą miesięcznych obniżek udzielonych odbiorcom uprawnionym, dla poszczególnych miesięcy w każdej grupie taryfowej, a sumą wyrównań wypłaconych na rzecz tego przedsiębiorstwa dla danego okresu zgodnie z:
+### 3)
 
-- **1)** art. 12a, za okres:
-    - **a)** od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r.,
-    - **b)** od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.;
+przedsiębiorstwo energetyczne - podmiot, o którym mowa w art. 3 pkt 12 lit. a ustawy - Prawo energetyczne;
 
-- **2)** art. 12aa – za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r.
+### 4)
 
-1c. Kwotę miesięcznej obniżki, o której mowa w ust. 1b, dla danej grupy taryfowej, ustala się:
+sprzedawca ciepła - przedsiębiorstwo energetyczne zajmujące się bezpośrednią sprzedażą wytworzonego ciepła lub przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu ciepłem, lub dystrybutor ciepła, który zawarł umowę o świadczenie usług przesyłania lub dystrybucji ciepła z odbiorcą, który zawarł umowę sprzedaży ciepła z innym przedsiębiorstwem energetycznym;
 
-- **1)** zgodnie ze wzorem:
-- **2)** a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną – zgodnie ze wzorem: KMOG = [(SC – SCW)× Wcw + (SM – SMW)× Wmw SSOP SSOPW + (SZOP -SZOPW)× Wupc + ( – )× Wupm] 12 12 × (1+T), – gdzie poszczególne symbole oznaczają: KMOG – kwotę miesięcznej obniżki w danej grupie taryfowej wynikającą ze stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, cen sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz stałych i zmiennych stawek opłat za usługi przesyłowe, ustalonych zgodnie z art. 3a albo art. 3b [zł], CC – cenę ciepła ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], CCW – cenę ciepła przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], Wcw – miesięczną ilość sprzedanego ciepła w danej grupie taryfowej odbiorcom, o których mowa w art. 4 ust. 1 [GJ], CM – cenę za zamówioną moc cieplną za rok ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], CMW – cenę za zamówioną moc cieplną za rok przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW], Wmw – miesięczną wielkość zamówionej mocy cieplnej w danej grupie taryfowej przez odbiorców, o których mowa w art. 4 ust. 1 [MW], CN – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ze stosowanej w danym miesiącu taryfy dla ciepła ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, CNW – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, Wnw – miesięczną ilość dostarczonego nośnika w danej grupie taryfowej do odbiorców, o których mowa w art. 4 ust. 1 [m lub t], SZOP – stawkę opłat zmiennych za usługi przesyłowe ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], SZOPW – stawkę opłat zmiennych za usługi przesyłowe przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], Wupc – miesięczną ilość ciepła dostarczonego do odbiorców usług przesyłowych w danej grupie taryfowej, o których mowa w art. 4 ust. 1 [GJ], SSOP – roczną stawkę opłat stałych za usługi przesyłowe ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], SSOPW – roczną stawkę opłat stałych za usługi przesyłowe przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW], Wupm – miesięczną wielkość zamówionej mocy cieplnej przez odbiorców usług przesyłowych w danej grupie taryfowej, o których mowa w art. 4 ust. 1 [MW], T – stawkę podatku od towarów i usług dla dostaw ciepła [%], SC – stawkę opłaty za ciepło ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], SCW – stawkę opłaty za ciepło przyjętą i wprowadzoną do stosowania z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], SM – stawkę opłaty miesięcznej za zamówioną moc cieplną ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], SMW – stawkę opłaty miesięcznej za zamówioną moc cieplną przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW] – wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem wartości dotyczącej wielkości zamówionej mocy cieplnej, którą wyraża się liczbowo z dokładnością do trzech miejsc po przecinku.
+### 5)
 
-2. Podmiot wypłacający dokonuje weryfikacji wyrównania należnego przedsiębiorstwu energetycznemu uprawnionemu do otrzymania wyrównania na podstawie wniosku o rozliczenie wyrównania i niezwłocznie informuje o jej wynikach:
+średnia cena wytwarzania ciepła - iloraz sumy planowanych przychodów wytwórcy ciepła ze sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz planowanej ilości sprzedanego ciepła dla danego źródła w zatwierdzonej taryfie dla ciepła, a w przypadku wytwarzania ciepła w lokalnym źródle ciepła lub źródle ciepła, w którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze, iloraz sumy planowanych przychodów wytwórcy ciepła ze sprzedaży mocy cieplnej i sprzedaży ciepła oraz planowanej ilości sprzedanego ciepła skalkulowanych na podstawie aktualnie stosowanych cen lub stawek opłat;
 
-- **1)** Prezesa URE – w przypadku zarządcy rozliczeń;
-- **2)** właściwego miejscowo wojewodę – w przypadku wójta, burmistrza albo prezydenta miasta.
+### 5a)
 
-3. W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 pkt 1, wypłacone wyrównanie za okres od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 maja 2024 r. Zarządca rozliczeń w uzasadnionych przypadkach przywraca termin na złożenie wniosku o rozliczenie wyrównania za okres od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. Termin przywraca się na wniosek podmiotu uprawnionego.
+cena dostawy ciepła - sumę ilorazu sumy planowanych przychodów sprzedawcy ciepła ze sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz planowanej ilości sprzedanego ciepła dla danego systemu ciepłowniczego w stosowanej taryfie dla ciepła i średniej stawki opłat za usługi przesyłowe dla systemu ciepłowniczego, a w przypadku wytwarzania ciepła w lokalnym źródle ciepła lub źródle ciepła, w którym zainstalowana moc cieplna nie przekracza 5 MW, bezpośrednio zasilającym zewnętrzne instalacje odbiorcze - iloraz sumy planowanych przychodów sprzedawcy ciepła ze sprzedaży mocy cieplnej i sprzedaży ciepła oraz planowanej ilości sprzedanego ciepła skalkulowanych na podstawie aktualnie stosowanych cen lub stawek opłat;
 
-3a. W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 pkt 2, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 października 2024 r.
+### 5b)
 
-3b. W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 :
+średnia stawka opłat za usługi przesyłowe - iloraz sumy planowanych przychodów sprzedawcy ciepła ze stałych oraz zmiennych opłat za usługi przesyłowe oraz planowanej dla danego systemu ciepłowniczego ilości ciepła dostarczanego z tego systemu do odbiorców usług przesyłowych obliczony zgodnie ze stosowaną taryfą dla ciepła;
 
-- **1)** pkt 1, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 30 maja 2025 r.;
-- **2)** pkt 2, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 października 2025 r.
+### 5c[3) W brzmieniu ustalonym przez art. 21 pkt 1 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:3:))
 
-4. Jeżeli z wniosku o rozliczenie wyrównania wynika zwrot kwoty nadpłaconego wyrównania, uznaje się je za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania zwraca ją w terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
+maksymalna cena dostawy ciepła - cenę dostawy ciepła obliczoną przez przedsiębiorstwo energetyczne dla danego systemu ciepłowniczego z uwzględnieniem cen i stawek opłat w każdej grupie taryfowej, powiększonych w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
 
-5. W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie zwróciło nienależnie otrzymanego wyrównania, podmiot wypłacający wzywa ten podmiot do jego zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+### a)
 
-6. W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie dokona zwrotu wyrównania w terminie, o którym mowa w ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty wyrównania podlegającego zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia jego otrzymania.
+40% - w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r.,
 
-7. W przypadku gdy kwota wyrównania wypłacona zgodnie z art. 12a albo art. 12aa jest niższa niż kwota wyrównania wynikająca z rozliczenia, podmiot wypłacający dokonuje wypłaty tej różnicy na rzecz przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania w terminie 45 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający, biorąc pod uwagę posiadane środki na rachunku rekompensaty ciepłowniczej oraz limity, o których mowa w art. 62.
+### b)
 
-8. Przepisy art. 12a ust. 5 i 6, art. 14, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20 stosuje się odpowiednio do wniosków o rozliczenie wyrównania.
+46% - w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
 
-**Art. 12c.**
+### c)
 
-1. Wyrównanie przysługuje również sprzedawcom ciepła, którzy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., w danym systemie ciepłowniczym, w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, stosowali cenę dostawy ciepła wyższą od maksymalnej ceny dostawy ciepła:
+52% - w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.;
 
-- **1)** wynikającej z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 – w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
-- **2)** wynikającej z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 – w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+### 6)
 
-2. Jeżeli w przypadku, o którym mowa w ust. 1, cena dostawy ciepła była wyższa od maksymalnej ceny dostawy ciepła, ale niższa od średniej ceny wytwarzania ciepła z rekompensatą powiększonej o średnią stawkę opłaty za usługi przesyłowe dla systemu ciepłowniczego, wyrównanie przysługuje w kwocie stanowiącej powiększony o podatek od towarów i usług iloczyn ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, oraz różnicy między ceną dostawy ciepła i ceną:
+wytwórca ciepła - przedsiębiorstwo energetyczne zajmujące się wytwarzaniem ciepła.
 
-- **1)** wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 pkt 2 – w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
-- **2)** wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 pkt 3 – w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+### Rozdział 2 Zasady ustalania średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła
 
-3. Jeżeli w przypadku, o którym mowa w ust. 1, cena dostawy ciepła była wyższa od maksymalnej ceny dostawy ciepła i nie mniejsza niż średnia cena wytwarzania ciepła z rekompensatą powiększona o średnią stawkę opłaty za usługi przesyłowe dla systemu ciepłowniczego, wyrównanie przysługuje w kwocie stanowiącej powiększony o podatek od towarów i usług iloczyn ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, oraz różnicy między średnią ceną wytwarzania ciepła z rekompensatą powiększoną o średnią stawkę opłaty za usługi przesyłowe i ceną:
+### Art. 3.
 
-- **1)** wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 pkt 2 – w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
-- **2)** wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 pkt 3 – w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+### 1.
 
-4. W przypadku, o którym mowa w ust. 3, w cenie dostawy ciepła uwzględnia się średnią cenę wytwarzania ciepła z rekompensatą w danym systemie ciepłowniczym.
+Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie wytwarzania ciepła, które jest dostarczane do odbiorców ciepła, o których mowa w art. 4 ust. 1, dla:
 
-5. W przypadku, o którym mowa w ust. 1–3, wyrównanie wypłaca się na wniosek sprzedawcy ciepła złożony nie wcześniej niż w terminie 15 dni i nie później niż w terminie 60 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpatrzenia.
+### 1)
 
-6. Wysokość wyrównania, w danym okresie rozliczeniowym, oblicza sprzedawca ciepła.
+każdego źródła ciepła lub
 
-7. Wniosek, o którym mowa w ust. 5, zawiera:
+### 2)
 
-- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
-- **2)** oznaczenie sprzedawcy ciepła uprawnionego do otrzymania wyrównania i jego siedziby;
-- **3)** numer identyfikacji podatkowej (NIP) sprzedawcy ciepła uprawnionego do otrzymania wyrównania;
-- **4)** adres poczty elektronicznej sprzedawcy ciepła uprawnionego do otrzymania wyrównania;
-- **5)** ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. [GJ];
-- **6)** dane niezbędne do wykonania obliczenia wyrównania;
-- **7)** wnioskowaną wysokość wyrównania;
-- **8)** oświadczenie, że sprzedawca ciepła uprawniony do otrzymania wyrównania nie skorzystał ze wsparcia, o którym mowa w art. 4 ust. 2;
-- **9)** oświadczenie sprzedawcy ciepła uprawnionego do otrzymania wyrównania o zgodności z prawdą danych zawartych we wniosku;
-- **10)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone wyrównanie;
-- **11)** inne informacje niezbędne do wypłacenia wyrównania.
+grupy źródeł ciepła stosujących ten sam rodzaj paliwa, z których żadne nie przekracza 5 MW zainstalowanej mocy cieplnej
 
-8. Oświadczenia, o których mowa w ust. 7 pkt 8 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+- ustala na podstawie taryfy dla ciepła zatwierdzonej na podstawie art. 47 ust. 2 ustawy - Prawo energetyczne cenę ciepła, cenę za zamówioną moc cieplną i cenę nośnika ciepła lub stawkę opłaty miesięcznej za zamówioną moc cieplną i stawkę opłaty za ciepło z rekompensatą wynikające ze średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w ust. 3, uwzględniając planowane wielkości uwzględnione w zatwierdzonej taryfie, i wprowadza ustalone ceny z rekompensatą do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r.
 
-9. W przypadku, o którym mowa w ust. 1–3, wyrównanie wypłaca się jednorazowo.
+### 2.
 
-10. Wniosek o wypłatę wyrównania składa się do:
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie wytwarzania ciepła, które jest dostarczane do odbiorców ciepła, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej „Prezesem URE”, dla każdego źródła ciepła lub grupy źródeł ciepła stosujących ten sam rodzaj paliwa, z których żadne nie przekracza 5 MW zainstalowanej mocy cieplnej, kalkuluje ceny lub stawki opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy - Prawo energetyczne oraz ustala składniki średniej ceny wytwarzania ciepła wynikające ze średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w ust. 3, i wprowadza je do stosowania w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1.
 
-- **1)** zarządcy rozliczeń – w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
-- **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby sprzedawcy ciepła – w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+### 3[4) W brzmieniu ustalonym przez art. 21 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:4:).
 
-11. Do wniosku, o którym mowa w ust. 5, oraz do wypłaty wyrównania, w przypadku, o którym mowa w ust. 1–3, stosuje się odpowiednio przepisy ust. 7, 8 i 10, art. 12a ust. 7 i 8, art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 oraz art. 20.
+Średnia cena wytwarzania ciepła z rekompensatą przyjmuje wartość:
 
-**Art. 12d.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory wniosków o wypłatę wyrównania i rozliczenie wyrównania, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosków, zapewnienie przejrzystości i komunikatywności tych wniosków oraz potrzebę ujednolicenia ich formy.
+### 1)
 
-**Art. 12e.**
+do dnia 30 czerwca 2024 r.:
 
-1. Sprzedawca ciepła, któremu przysługuje wyrównanie, o którym mowa w art. 12c ust. 1, jest obowiązany do uwzględnienia wyrównania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, i korekty tych rozliczeń, w terminie 7 dni od dnia otrzymania wyrównania.
+### a)
 
-2. W przypadku gdy sprzedawca ciepła, który otrzymał wyrównanie, o którym mowa w art. 12c ust. 1, nie uwzględnił tego wyrównania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, i nie dokonał korekty tych rozliczeń, w terminie 7 dni od dnia otrzymania wyrównania, kwotę wyrównania uznaje się za pobraną nienależnie i sprzedawca ciepła jest obowiązany do jej zwrotu w całości w dniu roboczym następującym po dniu w którym upłynął termin dokonania korekty, wraz z odsetkami za opóźnienie liczone od dnia ich otrzymania.
+150,95 zł/GJ netto dla ciepła wytwarzanego w źródłach ciepła opalanych gazem ziemnym lub olejem opałowym,
 
-3. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania nalicza się odsetki za opóźnienie od dnia ich otrzymania.
+### b)
 
-**Art. 13.**
+103,82 zł/GJ netto dla ciepła wytwarzanego w pozostałych źródłach ciepła;
 
-1. Rekompensata jest wypłacana za każdy miesiąc na wniosek podmiotu uprawnionego.
+### 2)
 
-2. Wraz z wnioskiem o wypłatę rekompensaty podmiot uprawniony składa oświadczenie o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że ceny lub stawki opłat, za okres objęty wnioskiem o wypłatę rekompensaty, stosowane względem odbiorców, o których mowa w art. 4 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, zostały zastosowane zgodnie z art. 3 ust. 3 tej ustawy.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+po dniu 30 czerwca 2024 r.:
 
-3. Wniosek o wypłatę rekompensaty składa się do 25. dnia każdego miesiąca następującego po danym miesięcznym okresie rozliczeniowym. Termin przypadający w dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpatrzenia.
+### a)
 
-4. Wniosek o wypłatę rekompensaty składa się do:
+119,39 zł/GJ netto - w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
 
-- **1)** zarządcy rozliczeń – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3 ust. 1;
-- **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby podmiotu uprawnionego – w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3 ust. 2.
+### b)
 
-5. Wniosek o wypłatę rekompensaty zawiera:
+134,97 zł/GJ netto - w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
 
-- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
-- **2)** oznaczenie podmiotu uprawnionego i jego siedziby;
-- **3)** numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
-- **4)** adres poczty elektronicznej;
-- **5)** elementy składowe wzorów, o których mowa w art. 12 ust. 4;
-- **6)** ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym dla danego źródła ciepła lub grupy źródeł ciepła [GJ];
-- **7)** wnioskowaną wysokość rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła;
-- **8)** wnioskowaną wysokość łącznej rekompensaty dla wszystkich źródeł ciepła;
-- **9)** oświadczenie, że podmiot uprawniony nie skorzystał ze wsparcia, o którym mowa w art. 4 ust. 2;
-- **10)** oświadczenie, o którym mowa w ust. 2;
-- **11)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacona rekompensata;
-- **12)** inne informacje niezbędne do obliczenia i wypłaty rekompensaty.
+- dla wszystkich źródeł ciepła.
 
-**Art. 14.**
+### 4.
 
-1. Podmiot wypłacający weryfikuje wniosek o wypłatę rekompensaty pod względem jej wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów i prawidłowego reprezentowania na podstawie podanych we wniosku danych i dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania.
+Dla źródła ciepła wykorzystującego różne paliwa, o których mowa w ust. 3, średnią cenę wytwarzania ciepła oraz średnią cenę wytwarzania ciepła z rekompensatą dla tego źródła określa się proporcjonalnie do procentowego udziału ciepła wytworzonego z tych paliw w ogólnej ilości wytworzonego ciepła w tym źródle.
 
-2. W przypadku pozytywnej weryfikacji wniosku o wypłatę rekompensaty podmiot wypłacający zatwierdza wniosek i dokonuje wypłaty rekompensaty w terminie 14 dni od dnia otrzymania prawidłowo sporządzonego wniosku, z uwzględnieniem art. 19 ust. 1. Zatwierdzenie wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+### 5.
 
-3. W przypadku gdy wniosek o wypłatę rekompensaty zawiera braki formalne lub błędy obliczeniowe lub budzi uzasadnione wątpliwości podmiotu wypłacającego co do zgodności ze stanem rzeczywistym, podmiot wypłacający, w terminie 7 dni od dnia otrzymania wniosku, wzywa podmiot uprawniony do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości podmiotu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia. W zakresie, w jakim kwota rekompensaty nie budzi wątpliwości, kwota ta jest przez podmiot wypłacający wypłacana zgodnie z ust. 2.
+W przypadku gdy w systemie ciepłowniczym występują źródła ciepła stosujące taryfę skalkulowaną na podstawie kosztów uzasadnionych w rozumieniu art. 3 pkt 21 ustawy - Prawo energetyczne oraz źródła ciepła stosujące taryfę skalkulowaną na podstawie art. 47 ust. 2f ustawy - Prawo energetyczne, sprzedawca ciepła stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średnią cenę wytwarzania ciepła z rekompensatą w wysokości określonej w ust. 3 proporcjonalnie do procentowego udziału ciepła dostarczanego tym odbiorcom w ogólnej ilości ciepła dostarczanego przez tego sprzedawcę, zgodnie z algorytmem zawartym w taryfie dystrybutora ciepła.
 
-4. W przypadku negatywnej weryfikacji wniosku o wypłatę rekompensaty podmiot wypłacający odmawia zatwierdzenia tego wniosku, informując wnioskodawcę o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+### 6.
 
-5. W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku o wypłatę rekompensaty lub wątpliwości podmiotu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia podmiot wypłacający odmawia zatwierdzenia wniosku o wypłatę rekompensaty w zakresie, w jakim kwota rekompensaty budzi wątpliwości lub nie przysługuje, informując podmiot uprawniony o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+Jeżeli średnia cena wytwarzania ciepła dla danego źródła ciepła jest wyższa od średniej ceny wytwarzania ciepła z rekompensatą dla tego źródła, od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. są stosowane ceny lub stawki opłat w wysokości odpowiadającej średniej cenie wytwarzanego ciepła z rekompensatą.
 
-6. Odmowy, o których mowa w ust. 4 i 5, nie pozbawiają podmiotu uprawnionego możliwości ponownego złożenia wniosku o wypłatę rekompensaty, z wyjątkiem gdy rekompensata nie przysługuje. Przepisy ust. 1–5 stosuje się odpowiednio.
+### 7.
 
-7. Jeżeli podmiot uprawniony zaprzestał wykonywania działalności gospodarczej w zakresie wytwarzania ciepła przed rozliczeniem rekompensaty, o którym mowa w art. 15, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+Jeżeli średnia cena wytwarzania ciepła dla danego źródła ciepła jest niższa od średniej ceny wytwarzania ciepła z rekompensatą dla tego źródła, przedsiębiorstwo energetyczne, o którym mowa w ust. 1 lub 2, w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, stosuje tę cenę. Z tytułu stosowania średniej ceny wytwarzania ciepła niższej niż określona w ust. 3 rekompensata nie przysługuje.
 
-8. Podmiot uprawniony jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez okres 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie rekompensaty, o którym mowa w art. 15 ust. 1.
+### Art. 3a.
 
-**Art. 15.**
+### 1.
 
-1. Do dnia 31 sierpnia 2023 r. podmiot uprawniony składa do podmiotu wypłacającego wniosek o rozliczenie rekompensaty, który uwzględnia rzeczywiste dane, o których mowa w art. 12 ust. 4.
+Prezes URE publikuje w Biuletynie Informacji Publicznej Urzędu Regulacji Energetyki dla przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, dla każdej grupy taryfowej w danym systemie ciepłowniczym, wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, stosowanych w dniu 30 września 2022 r. w tym systemie, powiększone o 40%, w terminie 10 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw ([Dz. U. poz. 295](https://api.sejm.gov.pl/eli/acts/DU/2023/295/text.html)).
 
-2. Podmiot wypłacający dokonuje weryfikacji rekompensat należnych podmiotowi uprawnionemu na podstawie wniosku o rozliczenie rekompensaty i niezwłocznie informuje o jej wynikach:
+### 2.
 
-- **1)** Prezesa URE – w przypadku zarządcy rozliczeń;
-- **2)** właściwego miejscowo wojewodę – w przypadku wójta, burmistrza albo prezydenta miasta.
+Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom ciepła, o których mowa w art. 4 ust. 1:
 
-3. W przypadku niezłożenia wniosku o rozliczenie rekompensaty w terminie, o którym mowa w ust. 1, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot uprawniony jest obowiązany do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 15 września 2023 r.
+### 1)
 
-4. Jeżeli z wniosku o rozliczenie rekompensaty wynika zwrot kwoty nadpłaconej rekompensaty, uznaje się ją za otrzymaną nienależnie i podmiot uprawniony zwraca ją w terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
+oblicza maksymalne ceny dostawy ciepła dla danego systemu ciepłowniczego, przyjmując wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, opublikowane przez Prezesa URE;
 
-5. W przypadku gdy podmiot uprawniony nie zwrócił nienależnie otrzymanej rekompensaty, podmiot wypłacający wzywa ten podmiot do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+### 2[5) Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:5:))
 
-6. W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. przyjmuje i wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w każdej grupie taryfowej stosowanej taryfy dla ciepła ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, nie wyższe niż opublikowane przez Prezesa URE.
 
-7. Przepisy art. 13 ust. 4 i 5 oraz art. 14 stosuje się odpowiednio do wniosków o rozliczenie rekompensaty.
+### 3.
 
-8. W przypadku gdy suma wypłaconych i rozliczonych rekompensat jest wyższa niż suma obniżek udzielonych odbiorcom, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. w związku ze stosowaniem w rozliczeniach z tymi odbiorcami średniej ceny wytwarzania ciepła z rekompensatą oraz kwoty rekompensat przekazane sprzedawcom ciepła w związku ze stosowaniem przez tych sprzedawców w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą, podmiot uprawniony zwraca tak obliczoną różnicę na rachunek podmiotu wypłacającego w terminie do dnia 30 kwietnia 2024 r.
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE, na podstawie skalkulowanych na dzień 30 września 2022 r. cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy - Prawo energetyczne:
 
-**Art. 15a.**
+### 1)
 
-1. Sprzedawcom ciepła, którzy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. stosowali w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, obniżoną cenę ciepła, cenę za zamówioną moc cieplną oraz cenę nośnika ciepła lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło ustalone z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą, przysługuje świadczenie wyrównawcze wypłacane na ich wniosek.
+ustala dla każdej grupy taryfowej maksymalne wartości ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło, uwzględniając 40% wzrostu w stosunku do tych cen i stawek opłat stosowanych w danym systemie ciepłowniczym w dniu 30 września 2022 r.;
 
-2. Świadczenie wyrównawcze, o którym mowa w ust. 1, przysługuje sprzedawcy ciepła za poszczególne miesiące w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., w kwocie ustalonej:
+### 2)
 
-- **1)** zgodnie ze wzorem: CM CMR KSW = [(CC – CCR)× Wc + ( – ) × Wm + (CN – CNR)× Wn] 12 12 × (1+T)−WR,
-- **2)** a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną – zgodnie ze wzorem: KSW = [(SC – SCR)× Wc + (SM – SMR)× Wm] × (1+T)−WR, – gdzie poszczególne symbole oznaczają: KSW – kwotę miesięcznego świadczenia wyrównawczego dla danego sprzedawcy ciepła, wynikającą ze stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, cen sprzedaży ciepła, mocy cieplnej i nośnika ciepła, ustalonych zgodnie z art. 3 [zł], CC – cenę ciepła ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], CM – cenę za zamówioną moc cieplną [zł/MW], CN – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SC – stawkę opłaty za ciepło [zł/GJ], SM – stawkę opłaty miesięcznej za zamówioną moc cieplną [zł/MW], CCR – cenę ciepła stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1–5 [zł/GJ], CMR – cenę za zamówioną moc cieplną stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1– 5 [zł/MW], CNR – cenę nośnika ciepła – wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1–5 ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SCR – stawkę opłaty za ciepło stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1–5 [zł/GJ], SMR – stawkę opłaty miesięcznej za zamówioną moc cieplną stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1–5 [zł/MW], Wc – ilość ciepła dostarczonego do odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [GJ], Wm – wielkość zamówionej mocy cieplnej przez odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [MW], Wn – ilość dostarczonego nośnika do odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [w metrach sześciennych lub w tonach], T – stawkę podatku od towarów i usług dla dostaw ciepła [%], WR – sumę kwot otrzymanych tytułem stosowania w danym miesięcznym okresie rozliczeniowym w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą, ustalonych jako suma:
-- **1)** rekompensat uzyskanych w odniesieniu do danego okresu miesięcznego bezpośrednio od podmiotu wypłacającego przypadających na odbiorców ciepła obsługiwanych przez danego sprzedawcę, oraz
-- **2)** kwot (obniżek) otrzymanych w odniesieniu do danego okresu miesięcznego od wytwórców ciepła w związku ze stosowaniem w danym miesięcznym okresie rozliczeniowym w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą – wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem wartości dotyczącej wielkości zamówionej mocy cieplnej, którą wyraża się liczbowo z dokładnością do trzech miejsc po przecinku.
+oblicza maksymalną cenę dostawy ciepła dla danego systemu ciepłowniczego, przyjmując ustalone zgodnie z pkt 1 ceny i stawki opłat, dla wszystkich grup taryfowych w tym systemie ciepłowniczym;
 
-3. Wniosek o wypłatę świadczenia wyrównawczego składa się do:
+### 3[5) Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:5:))
 
-- **1)** zarządcy rozliczeń – w przypadku przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1;
-- **2)** wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego – w przypadku przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji lub zwolnionego z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE.
+w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, ceny i stawki opłat w każdej grupie taryfowej stosowanej taryfy dla ciepła i przyjmuje wartości tych cen i stawek opłat nie wyższe niż ustalone zgodnie z pkt 1.
 
-4. Wniosek o wypłatę świadczenia wyrównawczego składa się w terminie od dnia 1 kwietnia 2024 r. do dnia 31 maja 2024 r. Termin przypadający w sobotę lub dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku o wypłatę świadczenia wyrównawczego z niedochowaniem terminu wniosek ten pozostawia się bez rozpatrzenia. Zarządca rozliczeń w uzasadnionych przypadkach przywraca termin na złożenie wniosku o wypłatę świadczenia wyrównawczego, o którym mowa w zdaniu pierwszym. Termin przywraca się na wniosek podmiotu uprawnionego.
+### 4.
 
-5. Wniosek o wypłatę świadczenia wyrównawczego zawiera:
+W przypadku gdy w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. maksymalna cena dostawy ciepła, o której mowa w ust. 2 pkt 1 albo ust. 3 pkt 2, jest w danym miesięcznym okresie rozliczeniowym wyższa od:[6) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:6:)
 
-- **1)** oznaczenie podmiotu, do którego jest kierowany wniosek;
-- **2)** oznaczenie podmiotu uprawnionego i jego siedziby;
-- **3)** numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
-- **4)** adres poczty elektronicznej;
-- **5)** elementy składowe wzorów, o których mowa w ust. 2;
-- **6)** ilość sprzedanego ciepła, zamówionej mocy i nośnika ogółem oraz ilość sprzedanego ciepła, zamówionej mocy i nośnika dla odbiorców, o których mowa w art. 4 ust. 1, w podziale na poszczególne miesięczne okresy rozliczeniowe dla danego systemu ciepłowniczego;
-- **7)** wnioskowaną wysokość świadczenia wyrównawczego dla danego systemu ciepłowniczego;
-- **8)** wnioskowaną łączną wysokość świadczenia wyrównawczego;
-- **9)** oświadczenie, o którym mowa w ust. 6;
-- **10)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone świadczenie wyrównawcze;
-- **11)** inne informacje niezbędne do obliczenia i wypłaty świadczenia wyrównawczego.
+### 1)
 
-6. Wraz z wnioskiem o wypłatę świadczenia wyrównawczego sprzedawca ciepła składa oświadczenie o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, zawierające klauzulę o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że ceny lub stawki opłat, za okres objęty wnioskiem o wypłatę świadczenia wyrównawczego, stosowane względem odbiorców, o których mowa w art. 4 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, zostały zastosowane zgodnie z art. 3 tej ustawy”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3, obliczonej dla danego systemu ciepłowniczego, powiększonej o średnią stawkę opłat za usługi przesyłowe w tym systemie ciepłowniczym albo
 
-7. Do wniosku o wypłatę świadczenia wyrównawczego oraz do wypłaty świadczenia wyrównawczego stosuje się odpowiednio przepisy art. 14 ust. 1–6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
+### 2)
 
-**Art. 16.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę rekompensaty i wzór wniosku o rozliczenie rekompensaty, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, zapewnienie przejrzystości i komunikatywności tego wniosku oraz potrzebę ujednolicenia jego formy.
+ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła w danym systemie ciepłowniczym
 
-**Art. 16a.** Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę świadczenia wyrównawczego, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, zapewnienie przejrzystości i komunikatywności tego wniosku oraz potrzebę ujednolicenia jego formy.
+- przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 3, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym, cenę najniższą z określonych w pkt 1 i 2.
 
-**Art. 17.**
+### Art. 3b[7) Dodany przez art. 21 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:7:).
 
-1. Wnioski o wypłatę rekompensaty oraz wniosek o rozliczenie rekompensaty składa się do wójta, burmistrza albo prezydenta miasta na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344 oraz z 2024 r. poz. 1222), a do zarządcy rozliczeń – wyłącznie za pomocą środków komunikacji elektronicznej w sposób wskazany w art. 18 ust. 2.
+### 1.
 
-2. W przypadku złożenia wniosku o wypłatę rekompensaty lub wniosku o rozliczenie rekompensaty za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+Przedsiębiorstwo energetyczne posiadające koncesję i wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom ciepła, o których mowa w art. 4 ust. 1:
 
-**Art. 18.**
+### 1)
 
-1. Składanie, weryfikacja i rozpatrywanie wniosków o wypłatę rekompensaty oraz wniosków o rozliczenie rekompensaty, w przypadku, o którym mowa w art. 13 ust. 4 pkt 1, a także korespondencja z zarządcą rozliczeń odbywa się wyłącznie w formie elektronicznej.
+oblicza maksymalne ceny dostawy ciepła dla danego systemu ciepłowniczego w kolejnych okresach, o których mowa w art. 3 ust. 3 pkt 2;
 
-2. Wnioski o wypłatę rekompensaty oraz wnioski o rozliczenie rekompensaty składa się do zarządcy rozliczeń za pomocą formularza elektronicznego umożliwiającego złożenie wniosku udostępnionego na stronie internetowej administrowanej przez zarządcę rozliczeń i opatruje się kwalifikowanym podpisem elektronicznym albo podpisem zaufanym osób uprawnionych do reprezentowania podmiotów wymienionych w art. 3 ust. 1.
+### 2)
 
-3. Zarządca rozliczeń na swojej stronie internetowej udostępnia instrukcję składania wniosku o wypłatę rekompensaty oraz instrukcję składania wniosku o rozliczenie rekompensaty.
+w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przyjmuje i wprowadza do stosowania w rozliczeniach z odbiorcami ciepła, o których mowa w art. 4 ust. 1, w każdej grupie taryfowej stosowanej taryfy dla ciepła ceny za zamówioną moc cieplną, ceny ciepła, ceny nośnika ciepła oraz stawki opłat stałych za usługi przesyłowe i stawki opłat zmiennych za usługi przesyłowe lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło nie wyższe niż ceny i stawki opłat w każdej grupie taryfowej, powiększone w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
 
-4. Zarządca rozliczeń na swojej stronie internetowej udostępnia instrukcję składania wniosków o wypłatę wyrównania i rozliczenie wyrównania.
+### a)
 
-**Art. 19.**
+46% - w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
 
-1. W przypadku braku środków na wypłatę rekompensat podmiot wypłacający wstrzymuje wypłatę do czasu zapewnienia środków na ten cel. Za okres wstrzymania wypłaty nie nalicza się odsetek za opóźnienie.
+### b)
 
-2. O wypłaconych podmiotowi uprawnionemu kwotach rekompensat, w terminie 7 dni od dnia dokonania wypłaty:
+52% - w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
 
-- **1)** zarządca rozliczeń informuje Prezesa URE;
-- **2)** wójt, burmistrz albo prezydent miasta informuje właściwego wojewodę.
+### 2.
 
-**Art. 20.**
+Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji, lub zwolnione z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE, na podstawie skalkulowanych na dzień 30 września 2022 r. cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 ustawy - Prawo energetyczne:
 
-1. Podmiot wypłacający może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty do dnia 31 grudnia 2028 r.
+### 1)
 
-2. Jeżeli podmiot uprawniony nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji wynika, że część wysokości kwoty rekompensaty została wypłacona nienależnie, podmiot wypłacający wzywa tego przedsiębiorcę do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+oblicza maksymalną cenę dostawy ciepła dla danego systemu ciepłowniczego w kolejnych okresach, o których mowa w art. 3 ust. 3 pkt 2;
 
-3. W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 2, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+### 2)
 
-**Art. 21.** Zarządca rozliczeń może zlecić dokonanie określonych czynności związanych z realizacją jego zadań wynikających z ustawy podmiotowi zewnętrznemu, udzielając mu w tym zakresie pełnomocnictw oraz udostępniając w tym celu niezbędne dane.
+w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. wprowadza do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, ceny i stawki opłat stosowanego cennika w każdej grupie taryfowej i przyjmuje wartości tych cen i stawek opłat nie wyższe niż ceny i stawki opłat w każdej grupie taryfowej, powiększone w stosunku do cen i stawek opłat stosowanych na dzień 30 września 2022 r. o:
 
-**Art. 22.** W sprawach decyzji administracyjnych wydawanych przez zarządcę rozliczeń, o których mowa w art. 12a ust. 7, art. 12aa ust. 6 zdanie pierwsze, art. 12b ust. 6, art. 14 ust. 7, art. 15 ust. 6 oraz art. 20 ust. 3, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) w stosunku do zarządcy rozliczeń jest minister właściwy do spraw energii.
+### a)
 
-**Art. 23.**
+46% - w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
 
-1. Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 lub 3, jest obowiązane do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2 lub 3, maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, to odbiorcy ci są obowiązani do:
+### b)
 
-- **1)** uwzględnienia w terminie do dnia 31 marca 2023 r. za rok 2023 oraz do dnia 31 stycznia 2024 r. za rok 2024 w zaliczkach na poczet rozliczenia kosztów zakupu ciepła na potrzeby ogrzewania i przygotowania ciepłej wody użytkowej dostarczonego do lokali mieszkalnych gospodarstw domowych lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
-- **2)** niezwłocznego zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o obniżonej zaliczce na poczet rozliczenia kosztów zakupu ciepła wraz z informacją o wysokości zmniejszenia tej zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
-- **3)** niezwłocznego zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o każdej zmianie cen i stawek opłat dla ciepła stosowanych przez przedsiębiorstwo energetyczne wraz z informacją o wysokości zmniejszenia zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
-- **4)** zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy – Prawo energetyczne;
-- **5)** zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o uwzględnieniu obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy – Prawo energetyczne, wraz z informacją o wysokości zmniejszenia rachunku za ciepło w wyniku zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
-- **6)** rozliczenia kosztów zakupu ciepła obejmującego okres od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., osobom zamieszkującym lokale mieszkalne niebędącym odbiorcami ciepła oraz osobom reprezentującym podmioty, o których mowa w art. 4 ust. 1 pkt 4, w terminie 14 dni od dnia uwzględnienia wyrównania, o którym mowa w art. 12c ust. 1, przez sprzedawcę ciepła w rozliczeniach z tymi odbiorcami ciepła, w związku z uwzględnieniem obniżonej opłaty za ciepło wynikającej z art. 12e;
-- **7)** niezwłocznego zawiadomienia osób zamieszkujących lub użytkujących lokale niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1, rozliczeniu kosztów zakupu ciepła z uwzględnieniem obniżonej opłaty za ciepło przez sprzedawcę ciepła na podstawie art. 12e wraz z informacją o wysokości zmniejszenia rachunku w wyniku zastosowania obniżonej opłaty za ciepło.
+52% - w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
 
-2. Odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, wykonuje obowiązek, o którym mowa w ust. 1 pkt 2, 3, 5 i 7, przez każdorazowe dołączenie zawiadomień i informacji, o których mowa w ust. 1 pkt 2, 3, 5 i 7, do faktury, rachunku lub innego dokumentu dostarczanego indywidualnie do każdego lokalu lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w sposób zwyczajowo przyjęty.
+### 3.
 
-3. Minister właściwy do spraw energii udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór zawiadomienia, o którym mowa w ust. 1 pkt 2.
+W przypadku gdy w okresie od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. maksymalna cena dostawy ciepła, o której mowa w ust. 1 pkt 1 albo ust. 2 pkt 1, jest w danym miesięcznym okresie rozliczeniowym wyższa od:
 
-**Art. 23a.**
+### 1)
 
-1. Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 lub 2, jest obowiązane do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2 lub 3, maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, to odbiorcy ci są obowiązani do:
+średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3 pkt 2, obliczonej dla danego systemu ciepłowniczego, powiększonej o średnią stawkę opłat za usługi przesyłowe w tym systemie ciepłowniczym, albo
 
-- **1)** uwzględnienia w terminie:
-    - **a)** do dnia 31 lipca 2024 r., za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
-    - **b)** do dnia 31 stycznia 2025 r., za rok 2025 – w zaliczkach na poczet rozliczenia kosztów zakupu ciepła na potrzeby ogrzewania i przygotowania ciepłej wody użytkowej dostarczonego do lokali mieszkalnych gospodarstw domowych lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
+### 2)
 
-- **2)** informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o obniżonej zaliczce na poczet rozliczenia kosztów zakupu ciepła wraz z informacją o wysokości zmniejszenia tej zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
-- **3)** informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o każdej zmianie cen i stawek opłat dla ciepła stosowanych przez przedsiębiorstwo energetyczne wraz z informacją o wysokości zmniejszenia zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
-- **4)** zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy – Prawo energetyczne;
-- **5)** informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o uwzględnieniu obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy – Prawo energetyczne, wraz z informacją o wysokości zmniejszenia rachunku za ciepło w wyniku zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3.
+ceny dostawy ciepła obliczonej na podstawie stosowanej taryfy dla ciepła lub cennika w danym systemie ciepłowniczym
 
-2. Odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, wykonuje obowiązki, o których mowa w ust. 1 pkt 2, 3 i 5, przez każdorazowe dołączenie informacji, o których mowa w ust. 1 pkt 2, 3 i 5, do faktury, rachunku lub innego dokumentu dostarczanego indywidualnie do każdego lokalu lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w sposób zwyczajowo przyjęty.
+- przedsiębiorstwo energetyczne, o którym mowa w ust. 1 i 2, stosuje w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, w tym okresie rozliczeniowym cenę najniższą z określonych w pkt 1 i 2.
 
-#### Rozdział 3 Dodatek dla gospodarstw domowych oraz dodatek dla podmiotów wrażliwych
+### 4.
 
-**Art. 24.**
+W przypadku gdy różnica między ceną najniższą, o której mowa w ust. 3, a ceną dostawy ciepła jest niższa niż 1 zł/GJ, przepisów ust. 1 pkt 2, ust. 2 pkt 2 oraz ust. 3 nie stosuje się.
 
-1. Dodatek dla gospodarstw domowych przysługuje osobie w gospodarstwie domowym, w przypadku gdy głównym źródłem ciepła gospodarstwa domowego jest:
+### Art. 4.
 
-- **1)** kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy na paliwo stałe, zasilane peletem drzewnym, drewnem kawałkowym lub innym rodzajem biomasy, albo
-- **2)** kocioł gazowy zasilany skroplonym gazem LPG, albo
-- **3)** kocioł olejowy – zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2023 r. poz. 2496 oraz z 2024 r. poz. 1089), do dnia 11 sierpnia 2022 r., albo po tym dniu – w przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa w art. 27g ust. 1 tej ustawy.
+### 1.
 
-2. Przez gospodarstwo domowe, o którym mowa w ust. 1, rozumie się:
+Średnią cenę wytwarzania ciepła z rekompensatą lub maksymalną cenę dostawy ciepła ustala się dla:
 
-- **1)** osobę fizyczną samotnie zamieszkującą i gospodarującą (gospodarstwo domowe jednoosobowe) albo
-- **2)** osobę fizyczną oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe).
+### 1)
 
-3. Dodatek dla gospodarstw domowych wypłaca się na wniosek osoby, o której mowa w ust. 2.
+gospodarstw domowych;
 
-4. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek dla gospodarstw domowych przysługuje dla wszystkich gospodarstw domowych zamieszkujących pod tym adresem.
+### 2)
 
-5. W przypadku gdy wniosek o wypłatę dodatku dla gospodarstw domowych złożono dla więcej niż jednego gospodarstwa domowego mających ten sam adres miejsca zamieszkania, to dodatek ten jest przyznawany wnioskodawcy, który złożył wniosek jako pierwszy. Pozostałe wnioski pozostawia się bez rozpoznania.
+wspólnot mieszkaniowych, o których mowa w art. 6 ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2021 r. poz. 1048](https://api.sejm.gov.pl/eli/acts/DU/2021/1048/text.html) oraz [z 2023 r. poz. 1688](https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text.html)), albo spółdzielni mieszkaniowych, o których mowa w art. 1 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych ([Dz. U. z 2024 r. poz. 558](https://api.sejm.gov.pl/eli/acts/DU/2024/558/text.html)), które są uprawnione lub zobowiązane do zapewnienia ciepła w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe albo w lokalach podmiotów, o których mowa w pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach;
 
-5a. W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, i w terminie do dnia 30 listopada 2022 r. nie jest możliwe ustalenie odrębnego adresu miejsca zamieszkania dla poszczególnych gospodarstw domowych zamieszkujących pod tym adresem w odrębnych lokalach, nie stosuje się ust. 4 i 5 do gospodarstwa domowego, którego źródłem ogrzewania jest oddzielne lub współdzielone źródło ciepła zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków zgodnie z ust. 1.
+### 3)
 
-5b. W przypadku, o którym mowa w ust. 5a, gospodarstwu domowemu, dla którego nie było możliwe ustalenie odrębnego adresu, wójt, burmistrz albo prezydent przyznaje dodatek dla gospodarstw domowych w drodze decyzji administracyjnej, jeżeli w wyniku przeprowadzenia wywiadu środowiskowego organ ten ustalił zamieszkiwanie pod jednym adresem w odrębnych lokalach kilku gospodarstw domowych oraz wykorzystywanie przez te gospodarstwa oddzielnego lub współdzielonego źródła ciepła wpisanego lub zgłoszonego do centralnej ewidencji emisyjności budynków zgodnie z ust. 1.
+podmiotów innych niż podmioty, o których mowa w pkt 2, które na mocy ustawy, umowy lub innego tytułu prawnego są uprawnione lub zobowiązane do zapewnienia dostaw ciepła do lokali mieszkalnych na potrzeby zużycia przez gospodarstwa domowe albo w lokalach podmiotów, o których mowa w pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach;
 
-5c. W przypadku gdy w lokalu, o którym mowa w ust. 5b, zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek dla gospodarstw domowych przysługuje dla wszystkich gospodarstw domowych zamieszkujących w tym lokalu.
+### 4)
 
-6. W przypadku gdy wniosek o wypłatę dodatku dla gospodarstw domowych złożyła więcej niż jedna osoba z danego gospodarstwa domowego wieloosobowego, dodatek ten jest przyznawany wnioskodawcy, który złożył taki wniosek jako pierwszy. Pozostałe wnioski pozostawia się bez rozpoznania.
+o ile złożą oświadczenie, o którym mowa w art. 6 ust. 1 - podmiotów będących:
 
-7. Dodatek dla gospodarstw domowych nie przysługuje gospodarstwom domowym objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku węglowego, o których mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym.
+### a)
 
-8. Dodatek dla gospodarstw domowych nie przysługuje osobie w gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie i od przedsiębiorcy, o których mowa w art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw (Dz. U. poz. 1477 i 1692).
+podmiotem udzielającym świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w zakresie, w jakim zużywa ciepło na potrzeby udzielania tych świadczeń,
 
-9. Na potrzeby składania wniosków o wypłatę dodatku dla gospodarstw domowych przyjmuje się, że:
+### b)
 
-- **1)** jedna osoba może wchodzić w skład tylko jednego gospodarstwa domowego;
-- **2)** gospodarstwo domowe może otrzymać dodatek z tytułu wykorzystania wyłącznie jednego źródła ciepła.
+jednostką organizacyjną pomocy społecznej w rozumieniu art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ([Dz. U. z 2024 r. poz. 1283](https://api.sejm.gov.pl/eli/acts/DU/2024/1283/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby świadczenia pomocy społecznej,
 
-10. Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek dla gospodarstw domowych przysługuje:
+### c)
 
-- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
-- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej:
-    - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2024 r. poz. 769 i 1222), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
-    - **b)** w związku z uzyskaniem w Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
+noclegownią albo ogrzewalnią, o których mowa w art. 48a ust. 3 albo 4 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
 
-- **3)** mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+### d)
 
-11. Dodatek dla gospodarstwa domowego wynosi:
+jednostką organizacyjną wspierania rodziny i systemu pieczy zastępczej w rozumieniu art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej ([Dz. U. z 2024 r. poz. 177](https://api.sejm.gov.pl/eli/acts/DU/2024/177/text.html), [742](https://api.sejm.gov.pl/eli/acts/DU/2024/742/text.html), [743](https://api.sejm.gov.pl/eli/acts/DU/2024/743/text.html) i [858](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-- **1)** 3000 złotych – w przypadku gdy głównym źródłem ciepła jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy, zasilane peletem drzewnym lub innym rodzajem biomasy, z wyłączeniem drewna kawałkowego;
-- **2)** 1000 złotych – w przypadku gdy głównym źródłem ciepła jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy, zasilane drewnem kawałkowym;
-- **3)** 500 złotych – w przypadku gdy głównym źródłem ciepła jest kocioł gazowy zasilany skroplonym gazem LPG;
-- **4)** 2000 złotych – w przypadku gdy głównym źródłem ciepła jest kocioł olejowy.
+### e)
 
-12. Wniosek o wypłatę dodatku dla gospodarstw domowych składa się w terminie do dnia 30 listopada 2022 r.
+podmiotem systemu oświaty, o którym mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2024 r. poz. 737](https://api.sejm.gov.pl/eli/acts/DU/2024/737/text.html) i [854](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-13. Wnioski o wypłatę dodatku dla gospodarstw domowych złożone po dniu 30 listopada 2022 r. pozostawia się bez rozpoznania.
+### f)
 
-14. Dodatek dla gospodarstw domowych wypłaca się w terminie miesiąca od dnia złożenia wniosku o jego wypłatę.
+podmiotem tworzącym system szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 pkt 1-7 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2023 r. poz. 742](https://api.sejm.gov.pl/eli/acts/DU/2023/742/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089.](#gloss-0:8:)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-15. Wniosek o wypłatę dodatku dla gospodarstw domowych składa się w gminie właściwej ze względu na miejsce zamieszkania osoby składającej ten wniosek.
+### g)
 
-16. Wniosek o wypłatę dodatku dla gospodarstw domowych składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+podmiotem prowadzącym żłobek lub klub dziecięcy, a także dziennym opiekunem, o których mowa w art. 2 ust. 1 ustawy z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3 ([Dz. U. z 2024 r. poz. 338](https://api.sejm.gov.pl/eli/acts/DU/2024/338/text.html), [743](https://api.sejm.gov.pl/eli/acts/DU/2024/743/text.html) i [858](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.html)), w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
 
-17. W przypadku złożenia wniosku o wypłatę dodatku dla gospodarstw domowych za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+### h)
 
-18. Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275).
+kościołem lub innym związkiem wyznaniowym, o których mowa w art. 2 pkt 1 ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania ([Dz. U. z 2023 r. poz. 265](https://api.sejm.gov.pl/eli/acts/DU/2023/265/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby działalności niegospodarczej,
 
-19. Wniosek złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
+### i)
 
-20. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych, w szczególności w zakresie zgłoszenia lub wpisania głównego źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
+podmiotem prowadzącym działalność kulturalną w rozumieniu art. 1 ust. 1 ustawy z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej ([Dz. U. z 2024 r. poz. 87](https://api.sejm.gov.pl/eli/acts/DU/2024/87/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
 
-21. Dokonując weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych, wójt, burmistrz albo prezydent miasta bierze pod uwagę w szczególności:
+### j)
 
-- **1)** informacje wynikające z deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi, o której mowa w art. 6m ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach (Dz. U. z 2024 r. poz. 399);
-- **2)** informacje uzyskane w związku z postępowaniem o przyznanie: o świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323 i 858), z 2024 r. poz. 421 i 858),
-    - **a)** świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, o których mowa odpowiednio w art. 2 i art. 8 ustawy z dnia 28 listopada 2003 r.
-    - **b)** świadczenia wychowawczego, o którym mowa w art. 4 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci (Dz. U.
-    - **c)** dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym (Dz. U. z 2024 r. poz. 953),
-    - **d)** dodatku mieszkaniowego, o którym mowa w art. 2 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych (Dz. U. z 2023 r. poz.
+podmiotem prowadzącym działalność archiwalną, o której mowa w art. 22 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ([Dz. U. z 2020 r. poz. 164](https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności,
 
-- **1335)** ;
-- **3)** dane zgromadzone w rejestrze PESEL oraz rejestrze mieszkańców, o których mowa odpowiednio w art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854).
+### k)
 
-22. Jeżeli podczas weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych wystąpią wątpliwości dotyczące gospodarstwa domowego wnioskodawcy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy, który ma na celu ustalenie faktycznego stanu danego gospodarstwa domowego zgodnie z ust. 2 odpowiednio pkt 1 i 2, odnośnie samotnego zamieszkiwania w przypadku jednoosobowych gospodarstw domowych oraz wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą w przypadku gospodarstw domowych wieloosobowych. Przepis art. 25 ust. 2 stosuje się.
+ochotniczą strażą pożarną w rozumieniu art. 1 ust. 1 ustawy z dnia 17 grudnia 2021 r. o ochotniczych strażach pożarnych ([Dz. U. z 2024 r. poz. 233](https://api.sejm.gov.pl/eli/acts/DU/2024/233/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby realizacji zadań określonych w tej ustawie,
 
-23. Wywiad środowiskowy przeprowadza się w miejscu zamieszkania wnioskodawcy.
+### l)
 
-24. W toku wywiadu środowiskowego ustala się, czy stan faktyczny danego gospodarstwa domowego jest zgodny z informacjami podanymi we wniosku o wypłatę dodatku dla gospodarstw domowych.
+placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku, o której mowa w art. 67 i art. 69 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-25. Niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, o którym mowa w ust. 22, stanowi podstawę do odmowy przyznania dodatku dla gospodarstw domowych.
+### m[9) Ze zmianą wprowadzoną przez art. 7 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw (Dz. U. poz. 1693), która weszła w życie z dniem 1 listopada 2023 r.](#gloss-0:9:))
 
-25a. W przypadku posiadania informacji wskazujących, że osoba, która nie złożyła wniosku o wypłatę dodatku dla gospodarstw domowych, spełnia warunki jego przyznania wynikające z ustawy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy w celu ustalenia prawa do dodatku dla gospodarstw domowych. W takim przypadku organ ten przyznaje dodatek w drodze decyzji administracyjnej z urzędu, bez konieczności składania wniosku oraz bez składania odpowiedniej deklaracji dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji. Przepis art. 25 ust. 2 stosuje się.
+rodzinnym domem pomocy, o którym mowa w art. 52 ust. 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, albo mieszkaniem treningowym lub wspomaganym, o którym mowa w art. 53 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
 
-25b. Dodatek dla gospodarstw domowych przysługuje osobie w gospodarstwie domowym także w przypadku, gdy główne źródło ogrzewania gospodarstwa domowego, o którym mowa w ust. 1, nie zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, do dnia 11 sierpnia 2022 r., a w wyniku przeprowadzenia wywiadu środowiskowego ustalono, że źródłem ogrzewania tego gospodarstwa jest źródło, o którym mowa w ust. 1. Wpis do centralnej ewidencji emisyjności budynków dokonywany jest z urzędu bez konieczności składania odpowiedniej deklaracji.
+### n)
 
-26. Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku dla gospodarstw domowych nie wymaga wydania decyzji administracyjnej. Odmowa przyznania dodatku dla gospodarstw domowych, uchylenie oraz rozstrzygnięcie w sprawie nienależnie pobranego dodatku wymagają wydania decyzji administracyjnej.
+centrum integracji społecznej, o którym mowa w art. 3 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym ([Dz. U. z 2022 r. poz. 2241](https://api.sejm.gov.pl/eli/acts/DU/2022/2241/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-27. Wójt, burmistrz albo prezydent miasta przesyła wnioskodawcy informację o przyznaniu dodatku dla gospodarstw domowych na wskazany przez niego adres poczty elektronicznej, o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę dodatku. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę dodatku, wójt, burmistrz albo prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości bezpośredniego odebrania od tego organu informacji o przyznaniu dodatku.
+### o)
 
-28. Nieodebranie informacji o przyznaniu dodatku dla gospodarstw domowych nie wstrzymuje wypłaty tego dodatku.
+klubem integracji społecznej, o którym mowa w art. 18 ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym, w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-29. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę dodatku dla gospodarstw domowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tego wniosku.
+### p)
 
-**Art. 25.**
+warsztatem terapii zajęciowej w rozumieniu art. 10a ust. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych ([Dz. U. z 2024 r. poz. 44](https://api.sejm.gov.pl/eli/acts/DU/2024/44/text.html), [858](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.html), [1089](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.html) i [1165](https://api.sejm.gov.pl/eli/acts/DU/2024/1165/text.html)) albo zakładem aktywności zawodowej, o którym mowa w art. 29 ust. 1 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby podstawowej działalności,
 
-1. Do postępowania w sprawie wypłaty dodatku dla gospodarstw domowych przepisy art. 23 ust. 3, 12 i 13, art. 24a ust. 1 i 2, art. 25 ust. 3 i 4 oraz art. 29–30a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o rodzinie, rozumie się przez to gospodarstwo domowe, o którym mowa w art. 24 ust. 2.
+### q)
 
-2. Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych (Dz. U. poz. 1818) – dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących wypłaty dodatku dla gospodarstw domowych.
+organizacją pozarządową w rozumieniu art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2023 r. poz. 571](https://api.sejm.gov.pl/eli/acts/DU/2023/571/text.html) oraz [z 2024 r. poz. 834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html)) albo podmiotem, o którym mowa w art. 3 ust. 3 tej ustawy, w zakresie, w jakim zużywają ciepło na potrzeby działalności pożytku publicznego,
 
-**Art. 26.**
+### r)
 
-1. Dodatek dla podmiotów wrażliwych przysługuje podmiotom, o których mowa w art. 4 ust. 1 pkt 4:
+spółdzielnią socjalną w rozumieniu art. 2 ustawy z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych ([Dz. U. z 2023 r. poz. 802](https://api.sejm.gov.pl/eli/acts/DU/2023/802/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-- **1)** które ponoszą koszty zakupu węgla kamiennego, brykietu lub peletu zawierających co najmniej 85 % węgla kamiennego, peletu drzewnego albo innego rodzaju biomasy, gazu skroplonego LPG albo oleju opałowego, wykorzystywanych na cele ogrzewania, w związku z wykonywaniem przez te podmioty ich podstawowej działalności;
-- **2)** których główne źródło ciepła: 54, 834, 1089 i 1222), które wymaga uzyskania pozwolenia, o którym mowa w art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa w art. 152 ust. 1 tej ustawy.
-    - **a)** jest wpisane lub zgłoszone do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, albo
-    - **b)** jest źródłem spalania paliw w rozumieniu art. 157a ust. 1 pkt 7 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz.
+### s)
 
-1a. Dodatek dla podmiotów wrażliwych przysługuje także podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, wytwarzającym ciepło na potrzeby podmiotów, o których mowa w art. 4 ust. 1, wprowadzane do sieci ciepłowniczej ze źródeł o mocy wyższej niż określona w art. 2 pkt 7 lit. b ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, które ponoszą koszty zakupu węgla kamiennego, brykietu lub peletu zawierających co najmniej 85 % węgla kamiennego, peletu drzewnego albo innego rodzaju biomasy, gazu skroplonego LPG albo oleju opałowego, wykorzystywanych na cele ogrzewania.
+związkiem zawodowym, o którym mowa w ustawie z dnia 23 maja 1991 r. o związkach zawodowych ([Dz. U. z 2022 r. poz. 854](https://api.sejm.gov.pl/eli/acts/DU/2022/854/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-1b. Dodatek dla podmiotów wrażliwych przysługujący podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, dotyczy wyłącznie ciepła zapewnianego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe i lokalach podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach.
+### t)
 
-1c. Podmiot, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, który otrzymał dodatek dla podmiotów wrażliwych, uwzględnia ten dodatek w całości w rozliczeniu kosztów wytworzenia ciepła na poszczególne lokale, o których mowa w ust. 1b.
+jednostką organizacyjną publicznej służby krwi, o której mowa w art. 4 ust. 3 pkt 2-4 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi ([Dz. U. z 2024 r. poz. 281](https://api.sejm.gov.pl/eli/acts/DU/2024/281/text.html) i [1229](https://api.sejm.gov.pl/eli/acts/DU/2024/1229/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby podstawowej działalności,
 
-1d. Przepis ust. 1 pkt 1 stosuje się także w przypadku, gdy koszty zakupu paliwa wymienionego w tym przepisie zostały poniesione przez organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu.
+### u[10) Dodana przez art. 4 pkt 3 ustawy, o której mowa w odnośniku 2.](#gloss-0:10:))
 
-2. Podmioty, którym przysługuje dodatek dla podmiotów wrażliwych, posiadają siedzibę oraz miejsce prowadzenia swojej działalności na terytorium Rzeczypospolitej Polskiej.
+podmiotem realizującym na rzecz jednostki samorządu terytorialnego zadania i usługi, w tym usługi świadczone w ogólnym interesie gospodarczym, z zakresu kultury fizycznej w rozumieniu art. 2 ust. 2 ustawy z dnia 25 czerwca 2010 r. o sporcie ([Dz. U. z 2023 r. poz. 2048](https://api.sejm.gov.pl/eli/acts/DU/2023/2048/text.html) oraz [z 2024 r. poz. 1166](https://api.sejm.gov.pl/eli/acts/DU/2024/1166/text.html)), w zakresie, w jakim zużywa ciepło na potrzeby tej działalności.
 
-3. Dodatek dla podmiotów wrażliwych wypłaca się na wniosek osoby albo osób uprawnionych do reprezentowania podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych.
+### 2.
 
-4. W przypadku gdy wniosek o wypłatę dodatku dla podmiotów wrażliwych złożyła więcej niż jedna osoba uprawniona do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych, dodatek ten jest przyznawany na podstawie wniosku, który został złożony jako pierwszy.
+Średniej ceny wytwarzania ciepła z rekompensatą i maksymalnej ceny dostawy ciepła nie stosuje się do odbiorców w zakresie, w jakim korzystają ze wsparcia na cele ogrzewania na podstawie przepisów:
 
-5. Dodatek dla podmiotów wrażliwych ustala się zgodnie ze wzorem: D = (Zk − Skp) x 0,4, gdzie poszczególne symbole oznaczają: D – wysokość dodatku dla podmiotów wrażliwych, wyrażoną w złotych, Zk – zakładany średni roczny koszt zakupu paliwa wykorzystywanego na potrzeby ogrzewania, stanowiący iloczyn jego średniej ceny zakupu obliczonej na podstawie dokumentów sprzedaży dotyczących roku dostaw 2022 oraz średniej rocznej ilości tego paliwa przyjętej do obliczenia Skp, wyrażony w kwocie brutto w złotych, przy czym dokumenty sprzedaży powinny obejmować co najmniej 50 % średniej rocznej ilości paliwa przyjętej do obliczenia Skp, Skp – średni roczny koszt zakupu paliwa wykorzystywanego na potrzeby ogrzewania, obliczony z dwóch wybranych lat z okresu trzech lat poprzedzających złożenie wniosku o wypłatę dodatku dla podmiotów wrażliwych, stanowiący sumę iloczynów wykazanych na dokumentach sprzedaży cen zakupu tego paliwa oraz jego ilości, podzieloną przez dwa, wyrażony w kwocie brutto w złotych; w przypadku gdy dane główne źródło ciepła było wykorzystywane w okresie krótszym niż dwa lata poprzedzające złożenie wniosku o wypłatę dodatku dla podmiotów wrażliwych, obliczenia średniego rocznego kosztu są wykonywane dla tego okresu.
+### 1)
 
-6. Wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera obliczenia wykonane na podstawie wzoru, o którym mowa w ust. 5. Do wniosku załącza się oryginały lub kopie poświadczone urzędowo lub notarialnie za zgodność z oryginałem dokumentów:
+ustawy z dnia 26 stycznia 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych w związku z sytuacją na rynku gazu ([Dz. U. poz. 202](https://api.sejm.gov.pl/eli/acts/DU/2022/202/text.html), z późn. zm.[11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1477, 1692, 1723, 2127 i 2687 oraz z 2023 r. poz. 2760.](#gloss-0:11:));
 
-- **1)** potwierdzających uprawnienie do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych;
-- **2)** sprzedaży będących podstawą do wykonania obliczeń, o których mowa w ust. 5, potwierdzających datę nabycia, ilość oraz koszt zakupionego i dostarczonego paliwa.
+### 2)
 
-6a. Dokumentami sprzedaży będącymi podstawą do wykonania obliczeń, o których mowa w ust. 5, mogą być także dokumenty wystawione na organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu.
+ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym ([Dz. U. z 2024 r. poz. 1207](https://api.sejm.gov.pl/eli/acts/DU/2024/1207/text.html));
 
-7. Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się w terminie do dnia 30 listopada 2022 r.
+### 2a)
 
-8. Wnioski o wypłatę dodatku dla podmiotów wrażliwych złożone po dniu 30 listopada 2022 r. pozostawia się bez rozpoznania.
+ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. w związku z sytuacją na rynku gazu [12) Obecnie ogólne określenie przedmiotu ustawy brzmi: o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, na podstawie art. 3 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r.](#gloss-0:12:) ([Dz. U. z 2024 r. poz. 303](https://api.sejm.gov.pl/eli/acts/DU/2024/303/text.html), [834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html) i [859](https://api.sejm.gov.pl/eli/acts/DU/2024/859/text.html));
 
-9. Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się w gminie właściwej ze względu na miejsce siedziby podmiotu, któremu przysługuje ten dodatek.
+### 3)
 
-10. Wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera:
+art. 24 lub art. 26.
 
-- **1)** oznaczenie organu, do którego jest kierowany wniosek;
-- **2)** oznaczenie podmiotu wrażliwego składającego wniosek i jego siedziby;
-- **3)** numer identyfikacji podatkowej (NIP) lub inny numer rejestrowy właściwy dla podmiotu wrażliwego składającego wniosek;
-- **4)** adres poczty elektronicznej;
-- **5)** wskazanie, jakim podmiotem spośród podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych, jest wnioskodawca;
-- **6)** oznaczenie rodzaju głównego źródła ciepła oraz rodzaju wykorzystywanego paliwa, zgodnie z informacją przekazaną przez podmiot wrażliwy składający wniosek do ewidencji, o której mowa w ust. 1 pkt 2;
-- **7)** elementy składowe wzoru, o którym mowa w ust. 5;
-- **8)** wnioskowaną wysokość dodatku dla podmiotów wrażliwych;
-- **9)** oświadczenie, że podmiot uprawniony nie skorzystał ze wsparcia w ramach ustawy wymienionej w art. 24 ust. 8;
-- **10)** oświadczenie, o którym mowa w art. 27 ust. 2;
-- **11)** numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacony dodatek dla podmiotów wrażliwych;
-- **12)** inne informacje niezbędne do obliczenia i wypłaty dodatku dla podmiotów wrażliwych.
+### Art. 5.
 
-11. Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+### 1.
 
-12. W przypadku złożenia wniosku o wypłatę dodatku dla podmiotów wrażliwych za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+Odbiorcy ciepła, o których mowa w art. 4 ust. 1 pkt 2 i 3, składają sprzedawcy ciepła oświadczenie, które zawiera:
 
-13. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych, złożonego przez podmiot, o którym mowa w ust. 1, w szczególności w zakresie zgłoszenia lub wpisania głównego źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, a także pod względem jego wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania na podstawie podanych we wniosku danych i dołączonych dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania. W przypadku gdy główne źródło ogrzewania zostało uruchomione do dnia 30 czerwca 2022 r., przy przyznawaniu dodatku bierze się pod uwagę deklarację złożoną przed dniem wejścia w życie ustawy.
+### 1)
 
-13a. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych złożonego przez podmiot, o którym mowa w ust. 1a, pod względem jego wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania na podstawie podanych we wniosku danych i dołączonych dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania.
+oświadczenie o spełnieniu warunków pozwalających na uznanie ich za odbiorców, o których mowa w art. 4 ust. 1 pkt 2 i 3;
 
-14. W przypadku pozytywnej weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych organ wypłacający zatwierdza wniosek i dokonuje wypłaty dodatku dla podmiotów wrażliwych w terminie miesiąca od dnia otrzymania prawidłowo sporządzonego wniosku.
+### 2)
 
-15. Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku dla podmiotów wrażliwych nie wymaga wydania decyzji administracyjnej.
+wskazanie danych służących określeniu szacowanej ilości ciepła, która będzie zużywana na potrzeby:
 
-16. Wójt, burmistrz albo prezydent miasta przesyła wnioskodawcy informację o przyznaniu dodatku dla podmiotów wrażliwych na wskazany przez niego adres poczty elektronicznej, o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę tego dodatku. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę dodatku dla podmiotów wrażliwych, wójt, burmistrz albo prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości bezpośredniego odebrania od tego organu informacji o przyznaniu tego dodatku.
+### a)
 
-17. Nieodebranie informacji o przyznaniu dodatku dla podmiotów wrażliwych nie wstrzymuje wypłaty tego dodatku.
+gospodarstw domowych w lokalach mieszkalnych i na potrzeby części wspólnych budynków wielolokalowych, o których mowa w art. 4 ust. 1 pkt 2 i 3,
 
-18. W przypadku gdy wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera braki formalne lub błędy obliczeniowe lub budzi inne uzasadnione wątpliwości organu wypłacającego co do zgodności ze stanem rzeczywistym, organ wypłacający, w terminie 7 dni od dnia otrzymania wniosku, wzywa wnioskodawcę do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości organu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia.
+### b)
 
-19. W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku o wypłatę dodatku dla podmiotów wrażliwych lub wątpliwości organu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia organ wypłacający odmawia zatwierdzenia wniosku w zakresie, w jakim kwota dodatku dla podmiotów wrażliwych budzi wątpliwości lub nie przysługuje, informując wnioskodawcę o przyczynie tej odmowy.
+podmiotów, o których mowa w art. 4 ust. 1 pkt 4, prowadzących działalność w lokalach odbiorców, o których mowa w art. 4 ust. 1 pkt 2 i 3, oraz
 
-20. Odmowa przyznania dodatku dla podmiotów wrażliwych, uchylenie oraz rozstrzygnięcie w sprawie nienależnie pobranego dodatku wymagają wydania decyzji administracyjnej.
+### c)
 
-21. W przypadku uznania przez organ wypłacający dodatku dla podmiotów wrażliwych za otrzymany nienależnie wnioskodawca jest obowiązany do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych.
+inne niż określone w lit. a i b;
 
-22. W przypadku gdy wnioskodawca nie zwrócił nienależnie otrzymanego dodatku dla podmiotów wrażliwych, organ wypłacający wzywa ten podmiot do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+### 3)
 
-23. W przypadku gdy wnioskodawca nie dokona zwrotu dodatku dla podmiotów wrażliwych zgodnie z ust. 21, organ wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty dodatku dla podmiotów wrażliwych podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty dodatku dla podmiotów wrażliwych są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+określenie szacowanej ilości ciepła, która będzie zużywana na potrzeby, o których mowa w pkt 2.
 
-24. Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę dodatku dla podmiotów wrażliwych, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, a także zapewnienie przejrzystości i komunikatywności tego wniosku.
+### 2.
 
-**Art. 27.**
+Określenie szacowanej ilości ciepła w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a ustawy - Prawo energetyczne lub z uwzględnieniem powierzchni lokali mieszkalnych i użytkowych, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
 
-1. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+### 3.
 
-2. Informacje przedstawione we wniosku o wypłatę dodatku dla gospodarstw domowych albo dodatku dla podmiotów wrażliwych składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający wniosek jest obowiązany do zawarcia w nim oświadczenia o zgodności z prawdą danych zawartych we wniosku oraz o niekorzystaniu z dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, i zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 2 i 3, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec mieszkańców lokali, o których mowa w art. 4 ust. 1 pkt 2 lub 3, do kwoty stanowiącej iloczyn różnicy:
 
-#### Rozdział 4 Finansowanie
+### 1)
 
-**Art. 28.** Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, dodatki dla gospodarstw domowych, świadczenia wyrównawcze oraz dodatki dla podmiotów wrażliwych są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), zwanego dalej „Funduszem”.
+średniej ceny wytwarzania ciepła i średniej ceny wytwarzania ciepła z rekompensatą,
 
-**Art. 29.**
+### 2)
 
-1. Wypłata rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłata wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłata świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłata dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych jest zadaniem zleconym gminie.
+ceny dostawy ciepła i maksymalnej ceny dostawy ciepła
 
-2. Wojewodowie przekazują gminom środki w ramach limitu określonego na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłatę świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych w planie finansowym Funduszu na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych z Funduszu.
+- oraz ilości ciepła dostarczonego na potrzeby, o których mowa w art. 4 ust. 1 pkt 2 lub 3.
 
-3. Gmina składa wojewodzie wniosek o przyznanie środków w terminie:
+### 4.
 
-- **1)** w przypadku środków na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2:
-    - **a)** 15 dni od dnia wejścia w życie ustawy dla czwartego kwartału 2022 r.,
-    - **b)** do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów – przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
+Oświadczenie, o którym mowa w ust. 1, odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, składa w terminie 21 dni od dnia nabycia uprawnienia do stosowania wobec niego średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła.
 
-- **1a)** w przypadku środków na wypłatę wyrównań za 2023 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2: – przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
-    - **a)** 15 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw dla pierwszego kwartału 2023 r.,
-    - **b)** do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2023 r.
+### 5.
 
-- **1b)** w przypadku środków na wypłatę wyrównań za pierwsze półrocze 2024 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3: – przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę; 1ba) w przypadku środków na wypłatę wyrównań za drugie półrocze 2024 r. i za 2025 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2 – do 15. dnia miesiąca poprzedzającego dany kwartał drugiego półrocza 2024 r. i 2025 r., przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
-    - **a)** 15 dni od dnia wejścia w życie ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760) dla pierwszego kwartału 2024 r.,
-    - **b)** do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2024 r.
+Wprowadzenie do stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła nie powoduje konieczności zmiany umowy sprzedaży ciepła lub umowy kompleksowej.
 
-- **1c)** w przypadku środków na wypłatę świadczenia wyrównawczego dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2 – do dnia 31 kwietnia 2024 r., przy czym do dnia 30 czerwca 2024 r. gmina może złożyć jego korektę;
-- **2)** w przypadku środków na wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych – do dnia 30 listopada 2022 r., przy czym do dnia 15 grudnia 2022 r. gmina może złożyć jego korektę.
+### 6.
 
-4. Środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych są przekazywane w kwartalnych ratach. Nadpłata środków może być zaliczana na poczet kwoty należnej w miesiącu następnym, z wyjątkiem nadpłaty za grudzień 2022 r., która podlega przekazaniu na rachunek właściwego urzędu wojewódzkiego w terminie do dnia 20 stycznia 2023 r.
+Odbiorca ciepła składa oświadczenie, o którym mowa w ust. 1, przy każdej zmianie danych, o których mowa w tym przepisie.
 
-4a. Środki na realizację wypłaty wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, są przekazywane w kwartalnych ratach. Nadpłata środków może być zaliczana na poczet kwoty należnej w miesiącu następnym.
+### Art. 6.
 
-5. Gmina przeznacza całość odsetek od otrzymanych środków na przedsięwzięcia służące zwiększeniu efektywności energetycznej.
+### 1.
 
-6. Jeżeli w wyniku połączenia lub podziału gmin nastąpiły zmiany w podstawie obliczania kwoty środków, wojewoda uwzględnia te zmiany od pierwszego dnia następnego miesiąca po ich wejściu w życie.
+Odbiorcy ciepła, o których mowa w art. 4 ust. 1 pkt 4, w celu umożliwienia stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła, składają sprzedawcy ciepła oświadczenie, które zawiera:
 
-**Art. 30.**
+### 1)
 
-1. Gminy otrzymują środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych za pośrednictwem wojewodów w granicach kwot określonych na ten cel w planie finansowym Funduszu.
+oświadczenie o spełnieniu warunków pozwalających na uznanie ich za odbiorców, o których mowa w art. 4 ust. 1 pkt 4;
 
-2. Przy ustalaniu wysokości środków na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych uwzględnia się koszty wypłacania odbiorcom tych rekompensat, wyrównań, świadczeń wyrównawczych oraz tych dodatków, w wysokości 2 % łącznej kwoty środków wypłacanych przez gminę.
+### 2)
 
-3. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie w terminie do:
+wskazanie danych służących określeniu szacunkowej ilości ciepła, które będzie zużywane na potrzeby:
 
-- **1)** dnia 15 stycznia 2023 r. rozliczenie ze środków na realizację wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych z wyodrębnieniem liczby i kwoty wypłaconych dodatków;
-- **2)** 15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia udzielania rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych rekompensat, sporządzone narastająco za okres od dnia 1 października 2022 r. do dnia kończącego dany kwartał wypłaty rekompensat, z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
-- **3)** 15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za 2023 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 marca 2023 r. do dnia kończącego dany kwartał wypłaty wyrównań za 2023 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
-- **4)** 15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za pierwsze półrocze 2024 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 stycznia 2024 r. do dnia kończącego dany kwartał wypłaty wyrównań za pierwsze półrocze 2024 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
-- **5)** 15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za drugie półrocze 2024 r. i za 2025 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 lipca 2024 r. do dnia kończącego dany kwartał wypłaty wyrównań za 2025 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału.
+### a)
 
-4. Wniosek o przekazanie gminom środków na wypłaty rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, oraz wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych właściwy wojewoda składa co kwartał do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie:
+podmiotów, o których mowa w art. 4 ust. 1 pkt 4,
 
-- **1)** na wypłaty za czwarty kwartał 2022 r. – do dnia 31 października 2022 r.;
-- **2)** na wypłaty za pierwszy kwartał 2023 r. – do dnia 31 stycznia 2023 r.
-- **3)** (uchylony) 4a. Wniosek o przekazanie gminom środków na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, właściwy wojewoda składa co kwartał do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego.
+### b)
 
-4b. Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, w terminie:
+gospodarstw domowych w lokalach mieszkalnych i na potrzeby części wspólnych budynków wielolokalowych oraz
 
-- **1)** na wypłaty za pierwszy kwartał 2023 r. – do dnia 31 marca 2023 r.;
-- **2)** na wypłaty za drugi kwartał 2023 r. – do dnia 30 kwietnia 2023 r.;
-- **3)** na wypłaty za trzeci kwartał 2023 r. – do dnia 31 lipca 2023 r.;
-- **4)** na wypłaty za czwarty kwartał 2023 r. – do dnia 31 października 2023 r.;
-- **5)** na wypłaty za pierwszy kwartał 2024 r. – do dnia 15 lutego 2024 r.;
-- **6)** na wypłaty za drugi kwartał 2024 r. – do dnia 30 kwietnia 2024 r. 4ba. Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, w terminie:
-- **1)** na wypłaty za trzeci kwartał 2024 r. – do dnia 31 sierpnia 2024 r.;
-- **2)** na wypłaty za czwarty kwartał 2024 r. – do dnia 31 października 2024 r.;
-- **3)** na wypłaty za pierwszy kwartał 2025 r. – do dnia 15 lutego 2025 r.;
-- **4)** na wypłaty za drugi kwartał 2025 r. – do dnia 30 kwietnia 2025 r.
+### c)
 
-4c. Wojewoda może nie częściej niż raz w miesiącu złożyć korektę wniosku, o którym mowa w art. 4a. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie do 30 dni od dnia otrzymania korekty wniosku.
+inne niż określone w lit. a i b;
 
-4d. Wniosek o przekazanie gminom środków na wypłaty świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2, właściwy wojewoda składa jednorazowo do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego, na który ma być ona przekazana.
+### 3)
 
-4e. Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2, w terminie 30 dni od dnia złożenia wniosku.
+określenie szacowanej ilości ciepła, która będzie zużywana na potrzeby, o których mowa w pkt 2.
 
-4f. Wojewoda może złożyć korektę wniosku w terminie do dnia 31 sierpnia 2024 r.
+### 2.
 
-4g. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie do 30 dni od dnia otrzymania korekty wniosku.
+Określenie szacunkowej ilości ciepła w oświadczeniu, o którym mowa w ust. 1, jest dokonywane przez odbiorcę zgodnie z zasadami określonymi w art. 45a ustawy - Prawo energetyczne lub z uwzględnieniem powierzchni lokali, charakteru prowadzonej w nich działalności oraz posiadanych danych historycznych.
 
-5. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazują niewykorzystane środki do Funduszu w terminie do dnia:
+### 3.
 
-- **1)** 31 stycznia 2023 r. – w przypadku środków na wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych;
-- **2)** 31 grudnia 2023 r. – w przypadku środków na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2;
-- **3)** 30 września 2024 r. – w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w 12c ust. 10 pkt 2;
-- **4)** 31 marca 2025 r. – w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.;
-- **5)** 31 marca 2025 r. – w przypadku środków na wypłatę świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2;
-- **6)** 30 września 2025 r. – w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.;
-- **7)** 31 grudnia 2025 r. – w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, za okres od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
+Osoba działająca w imieniu i na rzecz odbiorcy, o którym mowa w art. 4 ust. 1 pkt 4, która mimo ciążącego na niej obowiązku nie złożyła oświadczenia, o którym mowa w ust. 1, albo w oświadczeniu tym określiła szacowaną ilość ciepła, która będzie zużywana na potrzeby, o których mowa w ust. 1 pkt 2, w sposób rażąco sprzeczny z ust. 2, ponosi na zasadzie winy odpowiedzialność wobec podmiotu określonego w art. 4 ust. 1 pkt 4 do kwoty stanowiącej iloczyn różnicy:
 
-6. Wojewoda całość odsetek od otrzymanych środków przekazuje na rachunek Funduszu.
+### 1)
 
-7. Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie informację o liczbie toczących się postępowań w sprawie wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz łącznej wysokości dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych będącej przedmiotem tych postępowań, w terminie do dnia 15 czerwca w latach 2023–2025.
+średniej ceny wytwarzania ciepła wytwórcy i średniej ceny wytwarzania ciepła z rekompensatą,
 
-8. Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz łącznej wysokości dodatków dla gospodarstw domowych i dodatków dla podmiotów będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca w latach 2023–2025.
+### 2)
 
-9. Jeżeli dodatek dla gospodarstw domowych lub dodatek dla podmiotów wrażliwych został przyznany na skutek prawomocnego rozstrzygnięcia organu administracji publicznej lub sądu administracyjnego w postępowaniu w sprawie wypłaty dodatku dla gospodarstw domowych lub dodatku dla podmiotów wrażliwych, wójt, burmistrz albo prezydent miasta może zwrócić się do wojewody z wnioskiem o przyznanie środków na ten cel po terminie, o którym mowa w ust. 5 pkt 1.
+ceny dostawy ciepła i maksymalnej ceny dostawy ciepła
 
-10. Wojewoda składa wniosek o przyznanie środków na pokrycie dodatku dla gospodarstw domowych lub dodatku dla podmiotów wrażliwych, o których mowa w ust. 9, w terminie:
+- oraz ilości ciepła zużytego na potrzeby, o których mowa w ust. 1 pkt 2.
 
-- **1)** do dnia 30 listopada 2024 r. – do ministra właściwego do spraw energii;
-- **2)** od dnia 1 stycznia 2025 r. – do ministra właściwego do spraw finansów publicznych – z rezerwy celowej budżetu państwa na zobowiązania wymagalne Skarbu Państwa.
+### 4.
 
-11. Wojewoda w terminie do dnia 31 grudnia 2024 r. składa korektę zbiorczego rozliczenia środków, o którym mowa w ust. 5 pkt 1.
+Niezłożenie przez odbiorcę, o którym mowa w art. 4 ust. 1 pkt 4, oświadczenia, o którym mowa w ust. 1, w terminie 21 dni od dnia nabycia uprawnienia do stosowania wobec niego średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła, uprawnia sprzedawcę ciepła do niestosowania wobec tego odbiorcy średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła.
 
-12. Wypłata dodatków, o których mowa w ust. 9, od dnia 1 stycznia 2025 r. jest zadaniem zleconym gminie, finansowanym ze środków budżetu państwa.
+### 5.
 
-**Art. 31.**
+Złożenie przez odbiorcę, o którym mowa w art. 4 ust. 1 pkt 4, oświadczenia, o którym mowa w ust. 1, po upływie terminu określonego w ust. 4, zobowiązuje sprzedawcę ciepła do stosowania wobec tego odbiorcy średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła ze skutkiem od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
 
-1. W celu dalszego ograniczenia kosztów zakupu ciepła ponoszonych przez odbiorców, o których mowa w art. 4 ust. 1, gmina, na której obszarze ciepło wytwarzane przez dane przedsiębiorstwo energetyczne, o którym mowa w art. 3 ust. 1 i 2, jest dostarczane do odbiorców ciepła zamieszkujących lub mających siedzibę na jej obszarze, może udzielić takiemu przedsiębiorstwu energetycznemu dodatkowej rekompensaty z budżetu gminy.
+### 6.
 
-2. Dodatkowa rekompensata, o której mowa w ust. 1, jest udzielana i wypłacana na podstawie uchwały rady gminy, określającej w szczególności warunki i tryb jej ustalenia i przekazania oraz procent wartości rekompensaty ustalanej na podstawie art. 12 ust. 4. Dodatkowa rekompensata pomniejsza średnią cenę wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3, i nie stanowi podstawy do wyliczenia rekompensaty.
+Wprowadzenie do stosowania średniej ceny wytwarzania ciepła z rekompensatą lub maksymalnej ceny dostawy ciepła nie powoduje konieczności zmiany umowy sprzedaży ciepła lub umowy kompleksowej.
 
-3. Do naliczania, przekazywania, rozliczania i zwrotu nienależnie pobranej dodatkowej rekompensaty stosuje się odpowiednio przepisy art. 11, art. 13–15, art. 19 i art. 20.
+### 7.
 
-4. Jeżeli wartość dodatkowej rekompensaty, o której mowa w ust. 1, określonej w uchwale rady gminy wynosi więcej niż 10 % rekompensaty, o której mowa w art. 12 ust. 3, gmina może zostać, w całości lub w części, zwolniona z konieczności zapewnienia wkładu własnego do inwestycji realizowanych ze środków Rządowego Funduszu Polski Ład: Programu Inwestycji Strategicznych, określonego w uchwale, o której mowa w art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, w ramach edycji, w których nabory wniosków o dofinansowanie zostaną ogłoszone po wejściu w życie ustawy.
+Odbiorca ciepła składa oświadczenie, o którym mowa w ust. 1, przy każdej zmianie danych, o których mowa w tym przepisie.
 
-5. Zakres zwolnienia, o którym mowa w ust. 4, określi Rada Ministrów, w drodze uchwały.
+### Art. 7.
 
-**Art. 31a.**
+### 1.
 
-1. W celu dalszego ograniczenia kosztów zakupu ciepła ponoszonych przez odbiorców, o których mowa w art. 4 ust. 1, gmina, na której obszarze ciepło wytwarzane przez dane przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, jest dostarczane do odbiorców ciepła zamieszkujących lub mających siedzibę na jej obszarze, może udzielić takiemu przedsiębiorstwu energetycznemu dodatkowego wyrównania z budżetu gminy.
+Oświadczenia, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2. Dodatkowe wyrównanie, o którym mowa w ust. 1, jest udzielane i wypłacane na podstawie uchwały rady gminy określającej w szczególności warunki i tryb jego ustalenia i przekazania oraz procent wartości wyrównania ustalanego na podstawie art. 12a ust. 1. Dodatkowe wyrównanie pomniejsza wysokość maksymalnej ceny dostawy ciepła, o której mowa w art. 3a ust. 2 pkt 1 albo ust. 3 pkt 2, i nie stanowi podstawy do wyliczenia rekompensaty lub wyrównania.
+### 2.
 
-3. Do naliczania, przekazywania, rozliczania i zwrotu nienależnie pobranej dodatkowej rekompensaty lub dodatkowego wyrównania stosuje się odpowiednio przepisy art. 12a ust. 1–9 i ust. 10 pkt 2, art. 12b ust. 1–6, art. 13 ust. 3, art. 14, art. 17, art. 19 i art. 20.
+Oświadczenia, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, składają osoby uprawnione do reprezentowania podmiotów, o których mowa w art. 4 ust. 1 pkt 2-4, podpisując je własnoręcznie, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
-4. Jeżeli wartość dodatkowego wyrównania, o którym mowa w ust. 1, określonego w uchwale rady gminy wynosi więcej niż 10 % wyrównania, o którym mowa w art. 12a ust. 1, gmina może zostać w całości lub w części zwolniona z konieczności zapewnienia wkładu własnego do inwestycji realizowanych ze środków Rządowego Funduszu Polski Ład: Programu Inwestycji Strategicznych, określonego w uchwale, o której mowa w art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, w ramach edycji, w których nabory wniosków o dofinansowanie zostaną ogłoszone po wejściu w życie ustawy.
+### Art. 8.
 
-5. Zakres zwolnienia, o którym mowa w ust. 4, określi Rada Ministrów, w drodze uchwały.
+### 1.
 
-**Art. 32.**
+Sprzedawca ciepła dokonuje rozliczeń z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2-4, na podstawie oświadczeń, o których mowa w art. 5 ust. 1 oraz art. 6 ust. 1.
 
-1. Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, świadczenia wyrównawcze dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, są wypłacane przez zarządcę rozliczeń.
+### 2.
 
-2. Zarządca rozliczeń otrzymuje środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, z Funduszu w ramach limitu określonego na ten cel w planie finansowym Funduszu na rachunek bankowy wyodrębniony dla każdego roku kalendarzowego, za który jest wypłacana rekompensata, zwany dalej „rachunkiem rekompensaty ciepłowniczej”.
+Nadanie oświadczeń, o których mowa w art. 5 ust. 1 oraz art. 6 ust. 1, w formie przesyłki poleconej w polskiej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2023 r. poz. 1640](https://api.sejm.gov.pl/eli/acts/DU/2023/1640/text.html) oraz [z 2024 r. poz. 467](https://api.sejm.gov.pl/eli/acts/DU/2024/467/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)) lub w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej jest równoznaczne ze złożeniem go sprzedawcy ciepła.
 
-3. Wniosek o przekazanie środków na wypłaty rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, wypłaty świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, zarządca rozliczeń składa nie częściej niż raz na miesiąc do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty środków i numer rachunku rekompensaty ciepłowniczej.
+### Art. 9.
 
-4. Minister właściwy do spraw energii przekazuje środki zarządcy rozliczeń w terminie:
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, mając na względzie zapewnienie przejrzystości i komunikatywności tych oświadczeń oraz potrzebę ujednolicenia ich formy.
 
-- **1)** dla czwartego kwartału 2022 r. – do dnia 31 października 2022 r.;
-- **2)** dla pierwszego kwartału 2023 r. – do dnia 31 stycznia 2023 r.
-- **3)** (uchylony) 4a. Minister właściwy do spraw energii przekazuje środki zarządcy rozliczeń w terminie do 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+### Art. 10.
 
-5. Zarządca rozliczeń przedstawia ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazuje niewykorzystane środki do Funduszu w terminie do dnia 31 grudnia 2025 r.
+### 1.
 
-6. Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty ciepłowniczej nie stanowią przychodu zarządcy rozliczeń w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232, 854 i 1222).
+Sprzedawca ciepła w systemie ciepłowniczym przekazuje w terminie 30 dni od dnia wejścia w życie ustawy wytwórcy ciepła w tym systemie informację o szacowanej ilości ciepła, która będzie zużywana przez odbiorców, o których mowa w art. 4 ust. 1, na podstawie oświadczeń, o których mowa w art. 5 ust. 1 i art. 6 ust. 1, a w przypadku kilku wytwórców ciepła lub kilku źródeł ciepła jednego wytwórcy ciepła zasilających ten system ciepłowniczy - o szacowanej ilości ciepła dla każdego źródła ciepła uwzględniającą algorytm dotyczący ceny ciepła, ceny za zamówioną moc cieplną oraz ceny nośnika ciepła umieszczonego w taryfie dystrybutora ciepła wykonującego działalność gospodarczą w tym systemie. W przypadku gdy odbiorca ciepła złożył oświadczenie po terminie, o którym mowa w art. 5 ust. 4 i art. 6 ust. 4, lub po zmianie danych, o których mowa w art. 5 ust. 6 i art. 6 ust. 7, sprzedawca ciepła przekazuje informację o szacowanej ilości ciepła w terminie do 10. dnia każdego miesiąca następującego po miesiącu, w którym złożono oświadczenie, do wytwórcy ciepła w tym systemie.
 
-7. Zarządca rozliczeń przeznacza całość odsetek od środków zgromadzonych na rachunku rekompensaty ciepłowniczej na wypłatę rekompensat i na wypłatę wyrównań oraz na wypłatę świadczeń wyrównawczych. Niewydatkowane środki podlegają zwrotowi do Funduszu w terminie, o którym mowa w ust. 5.
+### 2.
 
-8. Środki przekazane przez zarządcę rozliczeń na rzecz podmiotów uprawnionych oraz wydatki i koszty finansowane ze środków, o których mowa w ust. 6, nie stanowią u zarządcy rozliczeń kosztów uzyskania przychodu w rozumieniu ustawy wymienionej w ust. 6.
+Sprzedawca ciepła w systemie ciepłowniczym przekazuje w terminie do dnia 31 lipca 2023 r. wytwórcy ciepła w tym systemie informację o rzeczywistej ilości ciepła sprzedanego w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. do odbiorców, o których mowa w art. 4 ust. 1, którzy złożyli oświadczenia na podstawie art. 5 ust. 1 i art. 6 ust. 1, a w przypadku kilku wytwórców ciepła lub kilku źródeł ciepła jednego wytwórcy ciepła zasilających ten system ciepłowniczy - o ilości ciepła dla każdego źródła ciepła wyznaczonej na podstawie algorytmu dotyczącego ceny ciepła, ceny za zamówioną moc cieplną oraz ceny nośnika ciepła umieszczonego w taryfie dystrybutora ciepła wykonującego działalność gospodarczą w tym systemie.
 
-9. Szczegółowe zasady współpracy ministra właściwego do spraw energii oraz zarządcy rozliczeń w zakresie przekazywania środków na rachunek rekompensaty ciepłowniczej oraz wymiany dokumentów i informacji określa umowa.
+### 3.
 
-10. Zarządca rozliczeń nie pobiera wynagrodzenia za realizację zadań wynikających z ustawy, a koszty z tym związane pokrywa w ramach kosztów działalności, o której mowa w art. 49 ust. 1 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.
+W przypadku gdy odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 i 3, nie złożył oświadczenia, o którym mowa w art. 5 ust. 1, sprzedawca ciepła w systemie ciepłowniczym określa:
 
-**Art. 33.**
+### 1)
 
-1. W roku 2023 Rada Ministrów może, w drodze uchwały, na wniosek Prezesa Rady Ministrów, upoważnić ministra właściwego do spraw finansów publicznych do udzielenia Rządowej Agencji Rezerw Strategicznych, o której mowa w ustawie z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2023 r. poz. 294 oraz z 2024 r. poz. 834), zwanej dalej „Agencją”, pożyczki ze środków budżetu państwa do kwoty 8 600 000 000 zł na finansowanie zadań związanych z przeciwdziałaniem sytuacjom kryzysowym na rynku surowców energetycznych.
+szacowaną ilość ciepła, która miesięcznie będzie zużywana przez tego odbiorcę, określoną na podstawie danych historycznych, o której informację przekazuje w terminie 30 dni od dnia wejścia w życie ustawy wytwórcy ciepła w tym systemie,
 
-2. Pożyczka, o której mowa w ust. 1, jest nieoprocentowana.
+### 2)
 
-3. Umowa pożyczki, o której mowa w ust. 1, określa w szczególności:
+rzeczywistą ilość ciepła sprzedaną do tego odbiorcy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., o której informację przekazuje wytwórcy ciepła w tym systemie w terminie do dnia 31 lipca 2023 r.
 
-- **1)** opis zadania, na które jest udzielana pożyczka;
-- **2)** sposób ustalania transz pożyczki – w przypadku wypłaty pożyczki w transzach;
-- **3)** warunki przekazywania środków;
-- **4)** tryb i termin rozliczenia pożyczki;
-- **5)** harmonogram i sposób zwrotu pożyczki.
+- jako całość sprzedanego ciepła do tego odbiorcy.
 
-4. Umowa pożyczki, o której mowa w ust. 1, podlega uzgodnieniu z Prezesem Rady Ministrów.
+### Art. 11.
 
-5. Środki z tytułu pożyczki, o której mowa w ust. 1:
+### 1.
 
-- **1)** wykorzystane niezgodnie z przeznaczeniem,
-- **2)** pobrane nienależnie lub w nadmiernej wysokości – podlegają zwrotowi do budżetu państwa wraz z odsetkami liczonymi jak dla zaległości podatkowych, w terminie 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub 2.
+Średnią cenę wytwarzania ciepła z rekompensatą stosuje się w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r.
 
-6. Do środków podlegających zwrotowi do budżetu państwa, o których mowa w ust. 5, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) o dotacjach celowych z budżetu państwa oraz o niepodatkowych należnościach budżetowych o charakterze publicznoprawnym.
+### 2.
 
-7. Ograniczenie, o którym mowa w art. 21 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, nie dotyczy zwiększenia planu finansowego Agencji z tytułu uzyskania pożyczki z budżetu państwa, o której mowa w ust. 1.
+Przedsiębiorstwa energetyczne, stosujące średnią cenę wytwarzania ciepła z rekompensatą, zaliczają wypłaconą rekompensatę, o której mowa w art. 12 ust. 1, oraz dodatkową rekompensatę, o której mowa w art. 31 ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła.
 
-8. Ograniczeń, o których mowa w art. 21 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w 2022 r. nie stosuje się do zobowiązań zaciąganych wobec Banku Gospodarstwa Krajowego na finansowanie zadań, o których mowa w ust. 1.
+### 3[13) W brzmieniu ustalonym przez art. 4 pkt 4 ustawy, o której mowa w odnośniku 2.](#gloss-0:13:).
 
-9. Środki z tytułu pożyczki, o której mowa w ust. 1, mogą być przeznaczone na spłatę kredytu, o którym mowa w art. 35 ust. 1.
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 lub 3, oraz sprzedawca ciepła, stosujący ceny i stawki opłat, o których mowa w art. 3a ust. 2 pkt 2, ust. 3 pkt 3 lub ust. 4, zaliczają wypłacone wyrównanie, o którym mowa w art. 12a ust. 1 oraz art. 12c ust. 1, lub świadczenie wyrównawcze, o którym mowa w art. 15a ust. 1, oraz dodatkowe wyrównanie, o którym mowa w art. 31a ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła lub do przychodów za świadczenie usług przesyłowych.
 
-**Art. 34.**
+### 4[14) Dodany przez art. 21 pkt 4 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:14:).
 
-1. Podmioty, o których mowa w art. 7a ust. 1 pkt 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2023 r. poz. 122 oraz z 2024 r. poz. 834 i 1222), którym w drodze decyzji administracyjnej wydano polecenie zakupu węgla energetycznego i sprowadzenie go do Polski, lub spółki dominujące w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) wobec tych podmiotów mogą, jeżeli prawidłowa realizacja polecenia tego wymaga:
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 lub 2, zalicza wypłacone wyrównanie, o którym mowa w art. 12aa ust. 1, oraz dodatkowe wyrównanie, o którym mowa w art. 31a ust. 1, pomniejszone o kwotę podatku od towarów i usług dla dostaw ciepła, do przychodów ze sprzedaży ciepła lub do przychodów za świadczenie usług przesyłowych.
 
-- **1)** zaciągać kredyty na rynku krajowym lub zagranicznym,
-- **2)** pozyskiwać limity na gwarancje bankowe lub limity na akredytywy bankowe,
-- **3)** pozyskiwać limity kredytowe na transakcje skarbowe zabezpieczające ryzyko zmienności kursu walutowego lub ryzyko zmienności cen węgla – w okresie od dnia wejścia w życie niniejszej ustawy do dnia 30 kwietnia 2023 r., których termin spłaty lub wygaśnięcia przypada przed dniem 1 stycznia 2026 r.
+### Art. 12.
 
-2. Zobowiązania, o których mowa w ust. 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+### 1.
 
-3. Zobowiązania z tytułu kredytów, o których mowa w ust. 1, są objęte gwarancją, o której mowa w ust. 2, również w przypadku, gdy środki pozyskane z tych kredytów są przeznaczone na spłatę zobowiązań z tytułu innych kredytów zaciągniętych w celu prawidłowej realizacji polecenia, o którym mowa w ust. 1, przez podmioty lub spółki dominujące, o których mowa w ust. 1.
+Przedsiębiorstwom energetycznym, o których mowa w art. 3 ust. 1 i 2, stosującym średnią cenę wytwarzania ciepła z rekompensatą wobec odbiorców, o których mowa w art. 4 ust. 1, zwanym dalej „podmiotami uprawnionymi”, przysługuje z tego tytułu rekompensata określona zgodnie z ust. 3, zwana dalej „rekompensatą”.
 
-4. Do gwarancji, o której mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2024 r. poz. 291), z wyjątkiem przepisów art. 2b ust. 1, art. 44, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
+### 2.
 
-5. Gwarancje, o których mowa w ust. 2, są udzielane do wysokości:
+Rekompensata przysługuje za okres od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. i jest wypłacana podmiotowi uprawnionemu za każdy miesiąc kalendarzowy stosowania średniej ceny wytwarzania ciepła z rekompensatą.
 
-- **1)** 100 % pozostających do spłaty świadczeń pieniężnych wynikających z kredytu objętego gwarancją, wraz ze 100 % należnych odsetek od tego kredytu i innych kosztów bezpośrednio związanych z tym kredytem;
-- **2)** 100 % wartości limitu na gwarancje bankowe lub akredytywy bankowe;
-- **3)** 100 % wartości limitu kredytowego na transakcje skarbowe zabezpieczające ryzyko zmienności kursu walutowego lub ryzyko zmienności cen węgla.
+### 3.
 
-6. Łączna kwota gwarancji, o której mowa w ust. 2, udzielonej za zobowiązania podmiotów lub spółek dominujących, o których mowa w ust. 1, nie może przekroczyć 21 000 000 000 zł.
+Rekompensata dla danego źródła ciepła lub grupy źródeł ciepła przysługuje podmiotowi uprawnionemu w kwocie stanowiącej iloczyn różnicy średniej ceny wytwarzania ciepła i średniej ceny wytwarzania ciepła z rekompensatą oraz ilości sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym, powiększoną o podatek od towarów i usług.
 
-7. Podmioty lub spółki dominujące, o których mowa w ust. 1, są zwolnione z obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa z tytułu gwarancji, o których mowa w ust. 2, i wniesienia opłaty prowizyjnej od tej gwarancji.
+### 4.
 
-8. Gwarancje, o których mowa w ust. 2, są skuteczne pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, w imieniu Skarbu Państwa, oświadczenia o objęciu gwarancją zobowiązań, o których mowa w ust. 1. Oświadczenie może obejmować łącznie zobowiązania, o których mowa w ust. 1 pkt 1, 2 lub 3.
+Wysokość rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła za dany miesiąc ustala się zgodnie ze wzorem: R = (CT − CR) x W x (1 + T), gdzie poszczególne symbole oznaczają: R - kwotę rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła za dany miesiąc [zł], CT - średnią cenę wytwarzania ciepła dla danego źródła ciepła lub grupy źródeł ciepła obliczoną przez wnioskodawcę na podstawie wielkości z zatwierdzonej taryfy lub wyznaczoną na podstawie kalkulacji cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy - Prawo energetyczne [zł/GJ], zgodnie ze wzorem: CT = (CC x PSC + CM x PMZ + CN x PSN) ∶ PSC, a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną: CT = (SC x PSC + SM x PMZ) ∶ PSC, CR - średnią cenę wytwarzania ciepła z rekompensatą dla danego źródła ciepła lub grupy źródeł ciepła, o której mowa w art. 3 ust. 3, z uwzględnieniem art. 3 ust. 4 i 5 [zł/GJ], obliczaną przez wnioskodawcę zgodnie ze wzorem: CR = (CCR x PSC + CMR x PMZ + CNR x PSN) ∶ PSC, a w przypadkach stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną: CR = (SCR x PSC + SMR x PMZ) ∶ PSC, W - ilość sprzedanego ciepła z danego źródła ciepła lub z grupy źródeł ciepła, w miesięcznym okresie rozliczeniowym, dla odbiorców, o których mowa w art. 4 ust. 1 [GJ], T - stawkę podatku od towarów i usług dla dostaw ciepła [%], CC - cenę ciepła [zł/GJ], CM - cenę za zamówioną moc cieplną [zł/MW], CN - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SC - stawkę opłaty za ciepło [zł/GJ], SM - dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną [zł/MW], SCR - stawkę opłaty za ciepło obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/GJ], SMR - dwunastokrotność stawki opłaty miesięcznej za zamówioną moc cieplną obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/MW], PSC - planowaną roczną sprzedaż ciepła we wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [GJ], PMZ - planowaną wielkość zamówionej mocy cieplnej uwzględnioną w ostatnim wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [MW], PSN - planowaną roczną ilość nośnika ciepła dostarczanego do sieci ciepłowniczych w celu napełniania i uzupełniania ubytków tego nośnika w tych sieciach oraz sprzedaży tego nośnika odbiorcom, uwzględnioną w ostatnim wniosku o zatwierdzenie obowiązującej taryfy dla ciepła lub w ostatniej kalkulacji dokonanej przez przedsiębiorstwa energetyczne, o których mowa w art. 3 ust. 2 [w metrach sześciennych lub w tonach], CCR - cenę ciepła obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/GJ], CMR - cenę za zamówioną moc cieplną obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą [zł/MW], CNR - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin obliczoną na podstawie średniej ceny wytwarzania ciepła z rekompensatą ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę
 
-9. Przeniesienie praw wynikających z gwarancji, o której mowa w ust. 2, może nastąpić tylko za zgodą ministra właściwego do spraw finansów publicznych, działającego w imieniu Skarbu Państwa.
+- - wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem symbolu PMZ, który wyraża się z dokładnością do trzech miejsc po przecinku.
 
-10. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania gwarancji, o której mowa w ust. 2.
+### 5.
 
-11. Bank w rozumieniu art. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879), na rzecz którego udzielona została gwarancja, o której mowa w ust. 2, jest obowiązany do przekazywania do ministra właściwego do spraw finansów publicznych informacji o udzielonych:
+Wysokość rekompensaty w danym okresie rozliczeniowym oblicza podmiot uprawniony.
 
-- **1)** kredytach,
-- **2)** limitach na gwarancje bankowe oraz poszczególnych gwarancjach bankowych,
-- **3)** limitach na akredytywy bankowe oraz poszczególnych akredytywach bankowych,
-- **4)** limitach kredytowych na transakcje skarbowe – na warunkach i w terminach wynikających z oświadczenia, o którym mowa w ust. 8.
+### 6.
 
-12. Rada Ministrów może umorzyć w całości lub części wierzytelności Skarbu Państwa powstałe z tytułu udzielonej gwarancji, o której mowa w ust. 2, na wniosek ministra właściwego do spraw finansów publicznych.
+Podmiot uprawniony we wniosku o wypłatę rekompensaty określa średnią cenę wytwarzania ciepła dla danego źródła ciepła lub grupy źródeł ciepła obliczoną przez wnioskodawcę na podstawie wielkości z zatwierdzonej taryfy lub wyznaczoną na podstawie kalkulacji cen lub stawek opłat zgodnie z przepisami wydanymi na podstawie art. 46 ust. 5 i 6 ustawy - Prawo energetyczne oraz średnią cenę wytwarzania ciepła z rekompensatą dla danego źródła ciepła lub grupy źródeł ciepła, o której mowa w art. 3 ust. 3, z uwzględnieniem art. 3 ust. 4 i 5.
 
-13. Podmioty oraz spółki dominujące, o których mowa w ust. 1, są obowiązane na każde żądanie ministra właściwego do spraw finansów publicznych niezwłocznie przekazywać dokumenty i informacje niezbędne do oszacowania ryzyka dokonania zapłaty oraz prowadzenia ewidencji należności i zobowiązań z tytułu udzielonej gwarancji, o której mowa w ust. 2.
+### 7.
 
-14. Do obliczania terminu spłaty zobowiązań, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
+Prezes URE na wniosek Zarządcy Rozliczeń S.A., o którym mowa w rozdziale 7 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej ([Dz. U. z 2022 r. poz. 311](https://api.sejm.gov.pl/eli/acts/DU/2022/311/text.html)), zwanego dalej „zarządcą rozliczeń”, przekazuje dane niezbędne do obliczenia średniej ceny wytwarzania ciepła oraz ceny dostawy ciepła w terminie 5 dni roboczych, z zastrzeżeniem poufności przekazywanych danych.
 
-**Art. 35.**
+### Art. 12a.
 
-1. W przypadku podjęcia przez Prezesa Rady Ministrów decyzji o zakupie przez Agencję węgla energetycznego od podmiotów, o których mowa w art. 7a ust. 1 pkt 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, którym w drodze decyzji administracyjnej wydano polecenie zakupu węgla energetycznego i sprowadzenie go do Polski, Agencja może, w okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2022 r., zaciągnąć w Banku Gospodarstwa Krajowego kredyt w celu realizacji tej decyzji administracyjnej.
+### 1.
 
-2. Zobowiązania z tytułu kredytu, o którym mowa w ust. 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+Za okres od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r. przedsiębiorstwu energetycznemu:[15) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 5 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:15:)
 
-3. Do gwarancji, o której mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyjątkiem przepisów art. 2b ust. 1, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
+### 1)
 
-4. Gwarancja, o której mowa w ust. 2, jest udzielana do wysokości 100 % pozostających do spłaty świadczeń pieniężnych wynikających z kredytu objętego gwarancją wraz ze 100 % należnych odsetek od tego kredytu i innych kosztów bezpośrednio związanych z tym kredytem.
+o którym mowa w art. 3a ust. 2, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy tego przedsiębiorstwa i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, ustaloną zgodnie z art. 3a ust. 2 pkt 2 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług;
 
-5. Łączna kwota gwarancji, o której mowa w ust. 2, nie może przekroczyć 8 600 000 000 zł.
+### 2)
 
-6. Agencja jest zwolniona z obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa z tytułu gwarancji, o której mowa w ust. 2, i wniesienia opłaty prowizyjnej od tej gwarancji.
+o którym mowa w art. 3a ust. 3, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, ustaloną zgodnie z art. 3a ust. 3 pkt 3 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
 
-7. Gwarancja, o której mowa w ust. 2, jest skuteczna pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, w imieniu Skarbu Państwa, oświadczenia o objęciu gwarancją zobowiązania z tytułu kredytu, o którym mowa w ust. 1.
+### 2.
 
-8. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania gwarancji, o której mowa w ust. 2.
+W przypadku, o którym mowa w art. 3a ust. 4, wyrównanie oblicza się jako iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 2 i 3, i najniższą ceną, o której mowa w art. 3a ust. 4, oraz ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
 
-9. Rada Ministrów może umorzyć w całości lub części wierzytelności Skarbu Państwa powstałe z tytułu udzielonej gwarancji, o której mowa w ust. 2, na wniosek ministra właściwego do spraw finansów publicznych.
+### 3.
 
-10. Agencja jest obowiązana na każde żądanie ministra właściwego do spraw finansów publicznych niezwłocznie przekazywać dokumenty i informacje niezbędne do oszacowania ryzyka dokonania zapłaty oraz prowadzenia ewidencji należności i zobowiązań z tytułu udzielonej gwarancji, o której mowa w ust. 2.
+Wyrównanie jest wypłacane za każdy miesiąc kalendarzowy stosowania maksymalnej ceny dostawy ciepła albo najniższej ceny, o której mowa w art. 3a ust. 4, na wniosek przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 2 i 3.
 
-#### Rozdział 5 Przepisy karne i przepisy o karach pieniężnych
+### 4.
 
-**Art. 36.**
+Wysokość wyrównania w danym okresie rozliczeniowym oblicza przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3.
 
-1. Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w art. 5 ust. 1, w imieniu i na rzecz podmiotów określonych w art. 4 ust. 1 pkt 2 i 3, podlega karze grzywny od 500 do 50 000 złotych.
+### 5.
 
-1a. Kto nie dopełnia obowiązku, o którym mowa w art. 23 ust. 1 pkt 1, 4 lub 6 oraz art. 23a ust. 1 pkt 1 i 4, podlega karze grzywny od 500 do 50 000 złotych.
+Wniosek o wypłatę wyrównania zawiera:
 
-1b. Kto nie dopełnia obowiązku, o którym mowa w art. 23 ust. 1 pkt 2, 3, 5 i 7 oraz art. 23a ust. 1 pkt 2, 3 i 5 w związku z ust. 2, podlega karze grzywny.
+### 1)
 
-2. W przypadku ukarania za czyn określony w ust. 1 osoby, która nie dopełniła obowiązku złożenia oświadczenia w imieniu i na rzecz podmiotów, o których mowa w art. 4 ust. 1 pkt 2, sąd może orzec zakaz zajmowania stanowiska członka zarządu wspólnoty mieszkaniowej lub członka zarządu spółdzielni mieszkaniowej.
+oznaczenie podmiotu, do którego jest kierowany wniosek;
 
-3. Orzekanie w sprawach określonych w ust. 1–1b następuje w trybie przewidzianym przepisami ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2024 r. poz. 977).
+### 2)
 
-**Art. 37.**
+oznaczenie przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania i jego siedziby;
 
-1. Przedsiębiorstwo energetyczne, o którym mowa w art. 3 ust. 1 lub 2, które nie stosuje się do obowiązku określonego w art. 3 ust. 1 lub 2, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15 % przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15 % przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+### 3)
 
-1a. Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 1 albo 3, które nie stosuje się do obowiązku określonego w art. 3a ust. 2 albo 3, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15 % przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15 % przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym. 1aa. Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 albo 2, które nie stosuje się do obowiązku określonego w art. 3b ust. 1 albo 2, podlega karze pieniężnej w wysokości nie niższej niż 10 000 zł i nie wyższej niż 15 % przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15 % przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+numer identyfikacji podatkowej (NIP) przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania;
 
-1b. Sprzedawca ciepła, który w terminie nie stosuje się do obowiązku, o którym mowa w art. 12e ust. 1 lub 2, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15 % przychodu ukaranego sprzedawcy osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15 % przychodu ukaranego sprzedawcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+### 4)
 
-2. Niezależnie od kary pieniężnej określonej w ust. 1–1b, Prezes URE może nałożyć karę pieniężną na kierownika przedsiębiorstwa energetycznego, o którym mowa w ust. 1–1aa, oraz kierownika sprzedawcy ciepła, o którym mowa w ust. 1b. Kara nałożona na kierownika może być wymierzona w kwocie nie większej niż 300 % jego miesięcznego wynagrodzenia.
+adres poczty elektronicznej przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania;
 
-3. Kto w terminie nie realizuje obowiązku, o którym mowa w art. 10, podlega karze pieniężnej w wysokości 10 000 zł.
+### 5)
 
-4. Kary pieniężne, o których mowa w ust. 1–3, wymierza Prezes URE.
+ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym [GJ];
 
-5. Do kar pieniężnych, o których mowa w ust. 1–3, stosuje się przepisy art. 56 ust. 4 i 6–7a ustawy – Prawo energetyczne.
+### 6)
 
-6. Kary pieniężne, o których mowa w ust. 1–3, stanowią dochód budżetu państwa.
+dane niezbędne do wykonania obliczenia wyrównania;
 
-#### Rozdział 6 Przepisy zmieniające
+### 7)
 
-#### Rozdział 7 Przepisy przejściowe i przepis końcowy
+wnioskowaną wysokość wyrównania;
 
-**Art. 51.**
+### 8)
 
-1. Środki podlegające przekazaniu na podstawie art. 49 ust. 2e ustawy zmienianej w art. 46, które w 2022 r. na podstawie art. 49 ust. 2 ustawy zmienianej w art. 46 zostały przekazane na rachunek dochodów budżetu państwa przed dniem wejścia w życie niniejszej ustawy, minister właściwy do spraw klimatu przekazuje na rachunek Funduszu w terminach określonych w ust. 2.
+oświadczenie, że przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie skorzystało ze wsparcia, o którym mowa w art. 4 ust. 2;
 
-2. Środki, o których mowa w art. 49 ust. 2 ustawy zmienianej w art. 46 , uzyskane z aukcji przeprowadzonych:
+### 9)
 
-- **1)** w pierwszym kwartale 2022 r. – podlegają przekazaniu do dnia 20 października 2022 r.;
-- **2)** w drugim kwartale 2022 r. – podlegają przekazaniu do dnia 21 listopada 2022 r.;
-- **3)** w trzecim kwartale 2022 r. – podlegają przekazaniu do dnia 20 grudnia 2022 r.
+oświadczenie przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, oraz o zgodności z prawdą danych zawartych we wniosku;
 
-3. Kwoty przekazane na podstawie ust. 1 pomniejszają dochody budżetu państwa.
+### 10)
 
-**Art. 52.** Do postępowań w sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy prowadzonych na podstawie ustawy zmienianej w art. 50 stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone wyrównanie;
 
-**Art. 53.**
+### 11)
 
-1. Odbiorcy, o których mowa w art. 4 ust. 1 pkt 2 i 3, składają po raz pierwszy oświadczenie, o którym mowa w art. 5 ust. 1, sprzedawcy ciepła, który w dniu wejścia w życie ustawy, na mocy umowy sprzedaży ciepła lub umowy kompleksowej, dostarcza ciepło tym odbiorcom, w terminie 21 dni od dnia wejścia w życie ustawy.
+inne informacje niezbędne do wypłacenia wyrównania.
 
-2. Odbiorcy, o których mowa w art. 4 ust. 1 pkt 4, składają po raz pierwszy oświadczenia, o których mowa w art. 6 ust. 1, sprzedawcy ciepła, który w dniu wejścia w życie ustawy, na mocy umowy sprzedaży ciepła, dostarcza ciepło tym odbiorcom, w terminie 21 dni od dnia wejścia w życie ustawy.
+### 6.
 
-3. Niezłożenie przez odbiorców, o których mowa w art. 4 ust. 1 pkt 4, oświadczeń, o których mowa w art. 6 ust. 1, w terminie określonym w ust. 2 uprawnia sprzedawcę ciepła do niestosowania wobec tych odbiorców średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3.
+Oświadczenia, o których mowa w ust. 5 pkt 8 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń
 
-4. Złożenie przez odbiorców, o których mowa w art. 4 ust. 1 pkt 4, oświadczeń, o których mowa w art. 6 ust. 1, po upływie terminu określonego w ust. 2, zobowiązuje sprzedawcę ciepła do stosowania wobec tych odbiorców średniej ceny wytwarzania ciepła z rekompensatą ze skutkiem od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
+### 7.
 
-**Art. 54.** Przedsiębiorca wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw stałych może pobierać dane z deklaracji o źródłach ciepła lub źródłach spalania paliw, o której mowa w art. 27g ustawy zmienianej w art. 44 , z centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy zmienianej w art. 44 , celem potwierdzenia złożenia przez klienta indywidualnego deklaracji o źródłach ciepła lub źródłach spalania paliw.
+Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, zaprzestało wykonywania działalności gospodarczej w zakresie sprzedaży ciepła przed rozliczeniem wyrównania za dany okres, kwotę wyrównania uznaje się za pobraną nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do jej zwrotu w całości wraz z odsetkami.[16) Zdanie pierwsze ze zmianą wprowadzoną przez art. 4 pkt 5 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:16:) W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia ich otrzymania.
 
-**Art. 55.**
+### 8.
 
-1. Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie systemu teleinformatycznego umożliwiającego prezentowanie informacji o:
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, jest obowiązane do przechowywania dokumentacji związanej z wnioskowanym wyrównaniem przez okres 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie wyrównania.
 
-- **1)** cenach paliw stałych;
-- **2)** cenach lub stawkach opłat za ciepło, w tym:
-    - **a)** średnich cenach wytwarzania ciepła,
-    - **b)** średnich cenach wytwarzania ciepła z rekompensatą,
-    - **c)** cenach dostawy ciepła,
-    - **d)** maksymalnych cenach dostawy ciepła.
+### 9[17) W brzmieniu ustalonym przez art. 4 pkt 5 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:17:).
 
-2. Zapewniając funkcjonowanie systemu teleinformatycznego, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji:
+Wniosek o wypłatę wyrównania za czerwiec 2024 r. składa się w terminie do dnia 25 lipca 2024 r.
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem do systemu teleinformatycznego;
-- **2)** zapewnia integralność danych w systemie teleinformatycznym;
-- **3)** zapewnia dostępność systemu teleinformatycznego dla podmiotów przetwarzających dane w tym systemie;
-- **4)** przeciwdziała uszkodzeniom systemu teleinformatycznego;
-- **5)** określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
-- **6)** określa zasady zgłoszenia naruszenia ochrony danych osobowych;
-- **7)** zapewnia rozliczalność działań dokonywanych na danych w systemie teleinformatycznym.
+### 10.
 
-3. Do wprowadzania i bieżącej aktualizacji informacji, o których mowa w ust. 1:
+Wniosek o wypłatę wyrównania składa się do:
 
-- **1)** pkt 1 – obowiązane są pośredniczące podmioty węglowe, o których mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45 , oraz gminy w zakresie, o którym mowa w art. 5 ust. 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych (Dz. U. z 2024 r. poz.
-- **114)** ;
-- **2)** pkt 2 – obowiązane są podmioty, o których mowa w art. 3 ust. 2.
+### 1)
 
-4. Korzystanie z systemu teleinformatycznego, o którym mowa w ust. 1, w celu wprowadzania informacji, o których mowa w ust. 1 pkt 1 i 2, wymaga utworzenia w tym systemie konta stanowiącego wydzieloną część tego systemu, zawierającą zbiór danych identyfikujących użytkownika z przyporządkowanymi zasobami tego systemu.
+zarządcy rozliczeń - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 1;
 
-5. W celu założenia konta, o którym mowa w ust. 4, przedstawiciel podmiotu, o którym mowa w ust. 3, zamieszcza w systemie teleinformatycznym, o którym mowa w ust. 1, następujące dane:
+### 2)
 
-- **1)** nazwa podmiotu, w imieniu którego przedstawiciel podmiotu występuje;
-- **2)** adres miejsca wykonywania działalności gospodarczej lub adres siedziby podmiotu;
-- **3)** numer identyfikacji podatkowej (NIP) podmiotu;
-- **4)** identyfikator podmiotu nadany w Platformie Usług Elektronicznych Skarbowo-Celnych, o której w art. 35a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
-- **5)** identyfikator przedstawiciela podmiotu nadany w Platformie Usług Elektronicznych Skarbowo-Celnych, o której w art. 35a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
-- **6)** imię i nazwisko przedstawiciela podmiotu;
-- **7)** numer PESEL przedstawiciela podmiotu;
-- **8)** adres poczty elektronicznej podmiotu lub przedstawiciela podmiotu;
-- **9)** numer telefonu podmiotu lub przedstawiciela podmiotu.
+wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3a ust. 3.
 
-6. Uwierzytelnienie przedstawiciela podmiotu następuje w sposób, o którym mowa w art. 20a ust. 1 lub 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222).
+### 11.
 
-7. Założenie konta podmiotu, o którym w ust. 3 pkt 1, jest możliwe po pozytywnej weryfikacji danych wskazanych w ust. 5 pkt 1–7 z danymi zawartymi w Centralnym Rejestrze Podmiotów Akcyzowych, o którym mowa w art. 18 ust. 1 ustawy zmienianej w art. 45 .
+Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 13 ust. 3, art. 14 ust. 1-6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
 
-8. Założenie konta, o którym w ust. 7, umożliwia przedstawicielowi podmiotu dodawanie w systemie teleinformatycznym, o którym mowa w ust. 1, informacji o adresach punktów sprzedaży tego podmiotu oraz przedstawicieli tych punktów sprzedaży, uprawnionych do zamieszczania informacji, o których mowa w ust. 1 pkt 1.
+### Art. 12aa[18) Dodany przez art. 21 pkt 5 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:18:).
 
-9. Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie teleinformatycznym, o którym mowa w ust. 1.
+### 1.
 
-**Art. 56.**
+Za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r. przedsiębiorstwu energetycznemu:
 
-1. Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie systemu teleinformatycznego służącego zapewnieniu interoperacyjności systemów sprzedażowych podmiotów, o których mowa w art. 54, w celu umożliwienia kontroli limitów nabywania paliw stałych przez odbiorców indywidualnych.
+### 1)
 
-2. W celu nabycia przez odbiorcę indywidualnego paliw stałych do wysokości limitu wyznaczonego przez podmiot, o którym mowa w art. 54, odbiorca ten jest obowiązany zarejestrować się w systemie sprzedażowym tego podmiotu.
+o którym mowa w art. 3b ust. 1, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy tego przedsiębiorstwa i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 1 pkt 2 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług;
 
-3. Podczas dokonywania rejestracji, o której mowa w ust. 2, odbiorca indywidualny podaje numer PESEL oraz numer deklaracji o źródłach ciepła lub źródłach spalania paliw, o której mowa w art. 27g ustawy zmienianej w art. 44 .
+### 2)
 
-4. Podmiot, o którym mowa w art. 54, jest obowiązany dokonać weryfikacji:
+o którym mowa w art. 3b ust. 2, stosującemu maksymalną cenę dostawy ciepła dla odbiorców, o których mowa w art. 4 ust. 1, przysługuje wyrównanie w kwocie stanowiącej iloczyn różnicy między ceną dostawy ciepła i ceną wynikającą ze stosowania cen i stawek opłat wobec tych odbiorców, obliczoną zgodnie z art. 3b ust. 2 pkt 1 oraz ilości sprzedanego ciepła tym odbiorcom, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
 
-- **1)** numeru deklaracji zgodnie z art. 54;
-- **2)** czy dla danego numeru PESEL w systemie sprzedażowym innego podmiotu zostały nabyte paliwa stałe do wysokości wyznaczonego limitu.
+### 2.
 
-5. System teleinformatyczny, o którym mowa w ust. 1, umożliwia podmiotowi, o którym mowa w art. 54, realizację obowiązku, o którym mowa w ust. 4 pkt 2.
+W przypadku, o którym mowa w art. 3b ust. 3, wyrównanie oblicza się jako iloczyn różnicy między ceną dostawy ciepła wynikającą ze stosowanej taryfy lub cennika przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1 i 2, i najniższą ceną, o której mowa w art. 3b ust. 3, oraz ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, w danym miesięcznym okresie rozliczeniowym, powiększony o podatek od towarów i usług.
 
-6. Podmiot, o którym mowa w art. 54, po uzyskaniu, z wykorzystaniem systemu teleinformatycznego, o którym mowa w ust. 1, informacji, że odbiorca indywidualny wykorzystał limit zakupu paliw stałych, nie może dokonać sprzedaży paliw stałych na rzecz tego odbiorcy.
+### 3.
 
-7. Podmioty, o których mowa w art. 54, wykonują obowiązki administratora danych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ) w zakresie danych wprowadzonych do systemów, o których mowa w ust. 1.
+Wyrównanie jest wypłacane za każdy miesiąc kalendarzowy stosowania maksymalnej ceny dostawy ciepła albo najniższej ceny, o której mowa w art. 3b ust. 3, na wniosek przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1 i 2.
 
-8. Zapewniając funkcjonowanie systemu teleinformatycznego, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji:
+### 4.
 
-- **1)** zapewnia ochronę przed nieuprawnionym dostępem do systemu teleinformatycznego;
-- **2)** zapewnia dostępność systemu teleinformatycznego dla podmiotów przetwarzających dane w tym systemie;
-- **3)** przeciwdziała uszkodzeniom systemu teleinformatycznego;
-- **4)** zapewnia rozliczalność działań dokonywanych w systemie teleinformatycznym.
+Wysokość wyrównania w danym okresie rozliczeniowym oblicza przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2.
 
-9. Minister właściwy do spraw informatyzacji przetwarza w systemie teleinformatycznym, o którym mowa w ust. 1, dane w celu realizacji zadań, o których mowa w ust. 8.
+### 5.
 
-**Art. 56a.**
+Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2, zaprzestało wykonywania działalności gospodarczej w zakresie sprzedaży ciepła przed rozliczeniem wyrównania za dany okres, kwotę wyrównania uznaje się za pobraną nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do jej zwrotu w całości wraz z odsetkami.
 
-1. Obowiązany pośredniczący podmiot węglowy, o którym mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45 , lub obowiązany podmiot, o którym mowa w art. 3 ust. 2, który:
+### 6.
 
-- **1)** nie dopełnia obowiązku wprowadzania i bieżącej aktualizacji informacji, o których mowa w art. 55 ust. 1,
-- **2)** nie tworzy konta, o którym mowa w art. 55 ust. 4 – podlega karze pieniężnej.
+W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie dokona zwrotu kwoty wyrównania zgodnie z ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia jej otrzymania.
 
-2. Karę pieniężną, o której mowa w ust. 1, w wysokości do 1500 zł, nakłada w drodze decyzji administracyjnej, naczelnik urzędu celno-skarbowego właściwy ze względu na siedzibę podmiotu, o którym mowa w ust. 1.
+### 7.
 
-3. W przypadku stwierdzenia, że po wymierzeniu kary w wysokości, o której mowa w ust. 2, obowiązany podmiot, ponownie nie dopełnia obowiązku, o którym mowa w ust. 1 pkt 1 lub 2, kara, o której mowa w ust. 1, może zostać nałożona w wysokości do 15 000 zł.
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 i 2, jest obowiązane do przechowywania dokumentacji związanej z wnioskowanym wyrównaniem przez 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie wyrównania.
 
-4. Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+### 8.
 
-**Art. 57.** Minister właściwy do spraw informatyzacji ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających stosowanie przepisów art. 55 i art. 56.
+Wniosek o wypłatę wyrównania składa się do:
 
-**Art. 58.**
+### 1)
 
-1. Wniosek o wypłatę rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 12 ust. 1, za październik 2022 r. składa się w terminie od dnia 30 października 2022 r. do dnia 2 grudnia 2022 r.
+zarządcy rozliczeń - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 1;
 
-2. (uchylony)
+### 2)
 
-**Art. 59.**
+wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3b ust. 2.
 
-1. Jeżeli wytwórca ciepła w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. stosuje średnią cenę wytwarzania ciepła z rekompensatą, w rozliczeniach z odbiorcami podaje cenę ciepła, cenę za zamówioną moc cieplną oraz cenę nośnika ciepła lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą oraz zamieszcza je na swojej stronie internetowej.
+### 9.
 
-2. Sprzedawca ciepła na rachunku przekazywanym odbiorcy, o którym mowa w art. 4 ust. 1, informuje o kwocie pomniejszenia kosztów zakupu ciepła w wyniku zastosowanej rekompensaty.
+Do wniosku o wypłatę wyrównania i wypłaty wyrównania stosuje się odpowiednio art. 12a ust. 5, art. 13 ust. 3, art. 14 ust. 1-6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
 
-**Art. 59a.**
+### 10.
 
-1. Jeżeli sprzedawca ciepła, w okresie od dnia 1 października 2022 r. do dnia 30 czerwca 2025 r., stosuje maksymalną cenę dostawy ciepła, zamieszcza o tym informację na swojej stronie internetowej wraz z podaniem tej ceny, jednostkowej wysokości wyrównania i ceny dostawy ciepła bez wyrównania.
+Oświadczenia, o których mowa w art. 12a ust. 5 pkt 8 i 9, zawarte we wniosku o wypłatę wyrównania w związku z ust. 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-2. Sprzedawca ciepła na rachunku przekazywanym odbiorcy, o którym mowa w art. 4 ust. 1, informuje o kwocie pomniejszenia kosztów zakupu ciepła w wyniku zastosowanego wyrównania wraz z podaniem maksymalnej ceny dostawy ciepła, jednostkowej wysokości wyrównania i ceny dostawy ciepła bez wyrównania.
+### Art. 12b.
 
-**Art. 59b.**
+### 1[19) W brzmieniu ustalonym przez art. 4 pkt 6 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:19:).
 
-1. Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 30 września 2024 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r., w terminie 7 dni od dnia złożenia tego wniosku.
+Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12a ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby podmiotów, o których mowa w art. 4 ust. 1, za okres:
 
-1a. Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 31 marca 2025 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r., w terminie 7 dni od dnia złożenia tego wniosku.
+### 1)
 
-1b. Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 30 września 2025 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r., w terminie 7 dni od dnia złożenia tego wniosku.
+od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. - w terminie od dnia 1 kwietnia 2024 r. do dnia 15 maja 2024 r.;
 
-2. Wytwórca ciepła, który nie stosuje się do obowiązków, o których mowa w ust. 1–1b, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 10 % przychodu ukaranego wytwórcy osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary pieniężnej nie może być niższa niż 100 000 zł i nie wyższa niż 10 % przychodu ukaranego wytwórcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+### 2)
 
-3. Karę pieniężną, o której mowa w ust. 2, wymierza w drodze decyzji administracyjnej Prezes URE.
+od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. - w terminie od dnia 1 września 2024 r. do dnia 15 października 2024 r.
 
-4. Do kary pieniężnej, o której mowa w ust. 2, stosuje się przepisy art. 56 ust. 4 i 6–7a ustawy – Prawo energetyczne.
+### 11[20) Dodany przez art. 21 pkt 6 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:20:).
 
-**Art. 60.**
+Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania, o którym mowa w art. 12aa ust. 1, składa do podmiotu wypłacającego wniosek o rozliczenie wyrównania, który uwzględnia rzeczywiste dane w każdej grupie taryfowej dotyczące ilości ciepła sprzedanego na potrzeby odbiorców ciepła, o których mowa w art. 4 ust. 1, za okres:
 
-1. Bank Gospodarstwa Krajowego w terminie 14 dni od dnia wejścia w życie ustawy opracowuje projekt zmiany planu finansowego Funduszu i przedstawia go do:
+### 1)
 
-- **1)** uzgodnienia – ministrowi właściwemu do spraw finansów publicznych;
-- **2)** zatwierdzenia – Prezesowi Rady Ministrów.
+od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. - w terminie od dnia 1 kwietnia 2025 r. do dnia 15 maja 2025 r.;
 
-2. Prezes Rady Ministrów zatwierdza zmianę planu finansowego w terminie 14 dni od dnia przedstawienia projektu tej zmiany.
+### 2)
 
-**Art. 61.**
+od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. - w terminie od dnia 1 września 2025 r. do dnia 15 października 2025 r.
 
-1. W przypadku wystąpienia w okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r. zagrożenia bezpieczeństwa dostaw ciepła spowodowanego w szczególności:
+### 1a[21) Dodany przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:21:).
 
-- **1)** ograniczeniem dostaw gazu ziemnego lub biomasy,
-- **2)** zakłóceniem na rynku węgla polegającym na braku dostępności węgla o małej zawartości siarki,
-- **3)** ograniczeniem w dostawach substancji niezbędnych do funkcjonowania urządzeń ochrony środowiska służących redukcji emisji tlenków azotu do powietrza,
-- **4)** zakłóceniem inwestycji modernizacyjnych i odtworzeniowych, związanym z konfliktem zbrojnym na terytorium Ukrainy – skutkującego możliwym zmniejszeniem lub przerwaniem dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej, w rozumieniu art. 157a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2022 r. poz. 2556, z późn. zm. ), w ramach której funkcjonuje instalacja w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, o mocy nie mniejszej niż 1 MW, objęta pozwoleniem na wprowadzenie gazów lub pyłów do powietrza, pozwoleniem zintegrowanym albo zgłoszeniem, o których mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, i prowadzonej przez wytwórcę ciepła, wytwórca ten może złożyć do organu ochrony środowiska właściwego do wydania tego pozwolenia albo przyjęcia tego zgłoszenia, zwanego dalej „organem właściwym”, wniosek o wydanie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, zwany dalej „wnioskiem”.
+W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania złożyło wniosek o rozliczenie wyrównania, dotychczas nierozpoznane wnioski złożone zgodnie z art. 12a ust. 3 pozostawia się bez rozpatrzenia.
 
-2. Wniosek zawiera:
+### 1b[22) Dodany przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 6 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:22:).
 
-- **1)** oznaczenie wytwórcy ciepła, w tym jego siedziby, oraz adres instalacji;
-- **2)** informację o tytule prawnym do instalacji;
-- **3)** wskazanie przyczyn wystąpienia zagrożenia bezpieczeństwa dostaw ciepła, wraz z dowodami potwierdzającymi, w szczególności:
-    - **a)** negatywnymi odpowiedziami na zapytania ofertowe wysłane do co najmniej 2 dostawców: – substancji niezbędnych do funkcjonowania urządzeń ochrony środowiska służących redukcji emisji tlenków azotu do powietrza lub – węgla o małej zawartości siarki, lub – biomasy,
-    - **b)** ogłoszenia stanu kryzysowego, o którym mowa w art. 11 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 (Dz. Urz. UE L 280 z 28.10.2017, str. 1),
-    - **c)** potwierdzeniem inwestora o zakłóceniach inwestycji modernizacyjnych i odtworzeniowych, związanych z konfliktem zbrojnym na terytorium Ukrainy;
+Przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania we wniosku o rozliczenie wyrównania za poszczególne okresy wskazuje kwotę podlegającą rozliczeniu stanowiącą różnicę między sumą miesięcznych obniżek udzielonych odbiorcom uprawnionym, dla poszczególnych miesięcy w każdej grupie taryfowej, a sumą wyrównań wypłaconych na rzecz tego przedsiębiorstwa dla danego okresu zgodnie z:
 
-- **4)** charakterystykę i oznaczenie źródeł spalania paliw, o których mowa w ustawie z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska, objętych wnioskiem;
-- **5)** informacje o stosowanych urządzeniach ograniczających emisję zanieczyszczeń do powietrza oraz sposobie ich pracy w okresie trwania przesłanek, o których mowa w ust. 1;
-- **6)** wielkości emisji gazów lub pyłów wprowadzanych do powietrza, objętych zakresem wniosku, wyrażone jako średnia dobowa lub średnia z okresu pobierania próbek, wynikające z możliwości technicznych instalacji.
+### 1)
 
-3. Wytwórca ciepła dołącza do wniosku dokument stanowiący potwierdzenie dystrybutora ciepła o braku możliwości wytworzenia niezbędnego wolumenu ciepła w oparciu o inne źródła w sieci ciepłowniczej, dla których nie występują przesłanki wymienione w ust. 1.
+art. 12a, za okres:
 
-4. Dystrybutor ciepła na wniosek wytwórcy ciepła wydaje dokument stanowiący potwierdzenie, o którym mowa w ust. 3, bądź odmawia jego wydania, wraz z uzasadnieniem, w terminie 5 dni od dnia otrzymania tego wniosku.
+### a)
 
-5. W przypadku podmiotu jednocześnie prowadzącego działalność gospodarczą w obszarze wytwarzania ciepła oraz jego dystrybucji dokument stanowiący potwierdzenie, o którym mowa w ust. 3, nie jest wymagany.
+od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r.,
 
-6. Organ właściwy wydaje decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, na czas określony, niezbędny do usunięcia zagrożenia bezpieczeństwa dostaw ciepła polegającego na zmniejszeniu lub przerwaniu dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej, nie dłuższy niż 120 dni.
+### b)
 
-7. W przypadku gdy przed upływem okresu wskazanego w decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, zagrożenie dostaw ciepła polegające na możliwym zmniejszeniu lub przerwaniu dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej nie ustanie, wytwórca ciepła może złożyć do właściwego organu wniosek o przedłużenie terminu obowiązywania tej decyzji o nie dłużej niż 120 dni. Przedłużenie terminu następuje w drodze zmiany tej decyzji. Do wniosku stosuje się przepisy ust. 1–5.
+od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.;
 
-8. Okresy, o których mowa w ust. 6 lub 7, określone w decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła upływają nie później niż w dniu 31 grudnia 2023 r.
+### 2)
 
-9. Organ właściwy wydaje decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła nie później niż w terminie 10 dni od dnia wpływu wniosku, o którym mowa w ust. 1, i nadaje tej decyzji rygor natychmiastowej wykonalności.
+art. 12aa - za okres od dnia 1 lipca 2024 r. do dnia 30 czerwca 2025 r.
 
-10. W stosunku do marszałka województwa wydającego decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła organem wyższego stopnia jest minister właściwy do spraw klimatu.
+### 1c[21) Dodany przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:21:).
 
-11. W postępowaniach o wydanie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego oraz art. 44 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2024 r. poz. 1112).
+Kwotę miesięcznej obniżki, o której mowa w ust. 1b, dla danej grupy taryfowej, ustala się:
 
-12. W przypadku gdy wniosek nie spełnia wymagań, o których mowa w ust. 2 i 3, organ właściwy, w terminie nie dłuższym niż 2 dni od dnia otrzymania wniosku, wzywa wytwórcę ciepła do uzupełnienia wniosku. Wytwórca jest zobowiązany do uzupełnienia wniosku w terminie nie dłuższym niż 2 dni od dnia otrzymania wezwania do uzupełnienia. Jeżeli wytwórca nie uzupełni wniosku we wskazanym terminie, organ pozostawia wniosek bez rozpoznania.
+### 1)
 
-13. Decyzja pozwalająca na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła zawiera:
+zgodnie ze wzorem: \( KMOG = \left[ {\left( {CC - CCW} \right) \times Wcw + \left( {{{CM} \over {12}} - {{CMW} \over {12}}} \right) \times Wmw + \left( {CN - CNW} \right) \times Wnw + \left( {SZOP - SZOPW} \right) \times Wupc + \left( {{{SSOP} \over {12}} - {{SSOPW} \over {12}}} \right) \times Wupm} \right] \times \left( {1 + T} \right) \)
 
-- **1)** oznaczenie prowadzącego instalację oraz wskazanie źródeł spalania paliw objętych decyzją;
-- **2)** rodzaj i parametry źródeł spalania paliw istotne z punktu widzenia przeciwdziałania zanieczyszczeniom, w szczególności obowiązek eksploatacji urządzeń ograniczających emisje z maksymalną możliwą do uzyskania wydajnością;
-- **3)** wielkości dopuszczalnej emisji gazów lub pyłów wprowadzanych do powietrza wyrażone jako średnia dobowa lub średnia z okresu pobierania próbek, wynikające z możliwości technicznych instalacji;
-- **4)** czas obowiązywania decyzji.
+### 2)
 
-14. Decyzja pozwalająca na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła stanowi integralną część pozwolenia na wprowadzenie gazów lub pyłów do powietrza, pozwolenia zintegrowanego albo zgłoszenia, wydanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska.
+a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną - zgodnie ze wzorem: \( KMOG = \left[ {\left( {SC - SCW} \right) \times Wcw + (SM - SMW) \times Wmw + \left( {SZOP - SZOPW} \right) \times Wupc + \left( {{{SSOP} \over {12}} - {{SSOPW} \over {12}}} \right) \times Wupm} \right] \times \left( {1 + T} \right) \)
 
-15. Organ właściwy stwierdza, w drodze decyzji, wygaśnięcie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, w terminie 3 dni od dnia powzięcia informacji o ustaniu przesłanek, na podstawie których wydano tę decyzję.
+- - gdzie poszczególne symbole oznaczają: KMOG - kwotę miesięcznej obniżki w danej grupie taryfowej wynikającą ze stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, cen sprzedaży ciepła, mocy cieplnej i nośnika ciepła oraz stałych i zmiennych stawek opłat za usługi przesyłowe, ustalonych zgodnie z art. 3a albo art. 3b [zł],[23) Opis symbolu ze zmianą wprowadzoną przez art. 21 pkt 6 lit. c tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:23:) CC - cenę ciepła ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], CCW - cenę ciepła przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], Wcw - miesięczną ilość sprzedanego ciepła w danej grupie taryfowej odbiorcom, o których mowa w art. 4 ust. 1 [GJ], CM - cenę za zamówioną moc cieplną za rok ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], CMW - cenę za zamówioną moc cieplną za rok przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW], Wmw - miesięczną wielkość zamówionej mocy cieplnej w danej grupie taryfowej przez odbiorców, o których mowa w art. 4 ust. 1 [MW], CN - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ze stosowanej w danym miesiącu taryfy dla ciepła ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, CNW - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę,[24) Opis symbolu ze zmianą wprowadzoną przez art. 21 pkt 6 lit. c tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:24:) Wnw - miesięczną ilość dostarczonego nośnika w danej grupie taryfowej do odbiorców, o których mowa w art. 4 ust. 1 [m3 lub t], SZOP - stawkę opłat zmiennych za usługi przesyłowe ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], SZOPW - stawkę opłat zmiennych za usługi przesyłowe przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], Wupc - miesięczną ilość ciepła dostarczonego do odbiorców usług przesyłowych w danej grupie taryfowej, o których mowa w art. 4 ust. 1 [GJ], SSOP - roczną stawkę opłat stałych za usługi przesyłowe ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], SSOPW - roczną stawkę opłat stałych za usługi przesyłowe przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW], Wupm - miesięczną wielkość zamówionej mocy cieplnej przez odbiorców usług przesyłowych w danej grupie taryfowej, o których mowa w art. 4 ust. 1 [MW], T - stawkę podatku od towarów i usług dla dostaw ciepła [%], SC - stawkę opłaty za ciepło ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], SCW - stawkę opłaty za ciepło przyjętą i wprowadzoną do stosowania z odbiorcami, o których mowa w art. 4 ust. 1 [zł/GJ], SM - stawkę opłaty miesięcznej za zamówioną moc cieplną ze stosowanej w danym miesiącu taryfy dla ciepła [zł/MW], SMW - stawkę opłaty miesięcznej za zamówioną moc cieplną przyjętą i wprowadzoną do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 [zł/MW]
 
-16. Decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła organ właściwy przekazuje do ministra właściwego do spraw energii, ministra właściwego do spraw klimatu oraz właściwego wojewódzkiego inspektora ochrony środowiska.
+- - wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem wartości dotyczącej wielkości zamówionej mocy cieplnej, którą wyraża się liczbowo z dokładnością do trzech miejsc po przecinku.
 
-**Art. 62.**
+### 2.
 
-1. Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, o których mowa w art. 12a ust. 1 i art. 12c, dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych wynosi w latach 2022– 2023 14 500 000 000,00 zł.
+Podmiot wypłacający dokonuje weryfikacji wyrównania należnego przedsiębiorstwu energetycznemu uprawnionemu do otrzymania wyrównania na podstawie wniosku o rozliczenie wyrównania i niezwłocznie informuje o jej wynikach:
 
-1. Maksymalny limit wydatków z Funduszu przeznaczonych na dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych:
+### 1)
 
-- **1)** w roku 2024 wynosi 1 000 000,00 zł;
-- **2)** w latach 2025–2035 wynosi 500 000,00 zł.
+Prezesa URE - w przypadku zarządcy rozliczeń;
 
-1a. Maksymalny limit wydatków z Funduszu przeznaczonych na wyrównania, o których mowa w art. 12a ust. 1 i art. 12aa ust. 1, oraz świadczenia wyrównawcze, o których mowa w art. 15a, w roku 2024 wynosi 3 500 000 000,00 zł.
+### 2)
 
-1b. Maksymalny limit wydatków z Funduszu przeznaczonych na wyrównania, o których mowa w art. 12aa ust. 1, w roku 2025 wynosi 1 600 000 000,00 zł.
+właściwego miejscowo wojewodę - w przypadku wójta, burmistrza albo prezydenta miasta.
 
-2. Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1–1b. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80 % środków, o których mowa w ust. 1–1b, minister właściwy do spraw energii informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
+### 3[25) W brzmieniu ustalonym przez art. 4 pkt 6 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:25:).
 
-3. (uchylony)
+W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 pkt 1, wypłacone wyrównanie za okres od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 maja 2024 r. Zarządca rozliczeń w uzasadnionych przypadkach przywraca termin na złożenie wniosku o rozliczenie wyrównania za okres od dnia 1 marca 2023 r. do dnia 31 grudnia 2023 r. Termin przywraca się na wniosek podmiotu uprawnionego.
 
-4. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80 % środków, o których mowa w ust. 1b, minister właściwy do spraw energii informuje o tym fakcie w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, a wysokość wypłacanych wyrównań podlega proporcjonalnemu obniżeniu tak, aby łączna wysokość wypłacanych wyrównań była równa maksymalnemu limitowi środków finansowych przeznaczonych na ich wypłatę.
+### 3a[26) Dodany przez art. 4 pkt 6 lit. d ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 6 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:26:).
 
-5. Podmiot wypłacający wstrzymuje wypłaty wyrównań wynikające z wniosków o wypłatę wyrównania złożonych i rozpatrzonych po dniu ogłoszenia obwieszczenia, o którym mowa w ust. 4.
+W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 1 pkt 2, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 października 2024 r.
 
-6. Po rozpatrzeniu wszystkich wniosków o wypłatę wyrównań złożonych po dniu ogłoszenia obwieszczenia, o którym mowa w ust. 4, podmiot wypłacający dokonuje proporcjonalnego obniżenia każdej kwoty wynikającej z każdego takiego wniosku, a następnie dokonuje wypłat wyrównań w obniżonej wysokości.
+### 3b[27) Dodany przez art. 21 pkt 6 lit. e ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:27:).
 
-**Art. 63.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6a ustawy zmienianej w art. 43 zachowują moc przez okres, na który zostały wydane.
+W przypadku niezłożenia wniosku o rozliczenie wyrównania w terminie, o którym mowa w ust. 11:
 
-**Art. 63a.** Środki wypłacone z tytułu rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, świadczenia wyrównawcze dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 i 3 oraz art. 3b ust. 1 i 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2024 r. poz. 794 i 1222).
+### 1)
 
-**Art. 64.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia .
+pkt 1, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 30 maja 2025 r.;
 
+### 2)
+
+pkt 2, lub w przypadku niezłożenia kolejnego wniosku w terminie 14 dni od dnia otrzymania odmowy zatwierdzenia wniosku, wypłacone wyrównanie za okres od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r. uznaje się za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania jest obowiązane do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 31 października 2025 r.
+
+### 4.
+
+Jeżeli z wniosku o rozliczenie wyrównania wynika zwrot kwoty nadpłaconego wyrównania, uznaje się je za otrzymane nienależnie i przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania zwraca ją w terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
+
+### 5.
+
+W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie zwróciło nienależnie otrzymanego wyrównania, podmiot wypłacający wzywa ten podmiot do jego zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+
+### 6.
+
+W przypadku gdy przedsiębiorstwo energetyczne uprawnione do otrzymania wyrównania nie dokona zwrotu wyrównania w terminie, o którym mowa w ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty wyrównania podlegającego zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania są naliczane odsetki za opóźnienie od dnia jego otrzymania.
+
+### 7[28) Ze zmianą wprowadzoną przez art. 21 pkt 6 lit. f ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:28:).
+
+W przypadku gdy kwota wyrównania wypłacona zgodnie z art. 12a albo art. 12aa jest niższa niż kwota wyrównania wynikająca z rozliczenia, podmiot wypłacający dokonuje wypłaty tej różnicy na rzecz przedsiębiorstwa energetycznego uprawnionego do otrzymania wyrównania w terminie 45 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający, biorąc pod uwagę posiadane środki na rachunku rekompensaty ciepłowniczej oraz limity, o których mowa w art. 62.
+
+### 8.
+
+Przepisy art. 12a ust. 5 i 6, art. 14, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20 stosuje się odpowiednio do wniosków o rozliczenie wyrównania.
+
+### Art. 12c.
+
+### 1.
+
+Wyrównanie przysługuje również sprzedawcom ciepła, którzy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., w danym systemie ciepłowniczym, w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, stosowali cenę dostawy ciepła wyższą od maksymalnej ceny dostawy ciepła:
+
+### 1)
+
+wynikającej z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 - w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
+
+### 2)
+
+wynikającej z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 - w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+
+### 2.
+
+Jeżeli w przypadku, o którym mowa w ust. 1, cena dostawy ciepła była wyższa od maksymalnej ceny dostawy ciepła, ale niższa od średniej ceny wytwarzania ciepła z rekompensatą powiększonej o średnią stawkę opłaty za usługi przesyłowe dla systemu ciepłowniczego, wyrównanie przysługuje w kwocie stanowiącej powiększony o podatek od towarów i usług iloczyn ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, oraz różnicy między ceną dostawy ciepła i ceną:
+
+### 1)
+
+wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 pkt 2 - w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
+
+### 2)
+
+wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 pkt 3 - w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+
+### 3.
+
+Jeżeli w przypadku, o którym mowa w ust. 1, cena dostawy ciepła była wyższa od maksymalnej ceny dostawy ciepła i nie mniejsza niż średnia cena wytwarzania ciepła z rekompensatą powiększona o średnią stawkę opłaty za usługi przesyłowe dla systemu ciepłowniczego, wyrównanie przysługuje w kwocie stanowiącej powiększony o podatek od towarów i usług iloczyn ilości sprzedanego ciepła odbiorcom, o których mowa w art. 4 ust. 1, oraz różnicy między średnią ceną wytwarzania ciepła z rekompensatą powiększoną o średnią stawkę opłaty za usługi przesyłowe i ceną:
+
+### 1)
+
+wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 2 pkt 2 - w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
+
+### 2)
+
+wynikającą z cen i stawek opłat ustalonych zgodnie z art. 3a ust. 3 pkt 3 - w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+
+### 4.
+
+W przypadku, o którym mowa w ust. 3, w cenie dostawy ciepła uwzględnia się średnią cenę wytwarzania ciepła z rekompensatą w danym systemie ciepłowniczym.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 1-3, wyrównanie wypłaca się na wniosek sprzedawcy ciepła złożony nie wcześniej niż w terminie 15 dni i nie później niż w terminie 60 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpatrzenia.
+
+### 6.
+
+Wysokość wyrównania, w danym okresie rozliczeniowym, oblicza sprzedawca ciepła.
+
+### 7.
+
+Wniosek, o którym mowa w ust. 5, zawiera:
+
+### 1)
+
+oznaczenie podmiotu, do którego jest kierowany wniosek;
+
+### 2)
+
+oznaczenie sprzedawcy ciepła uprawnionego do otrzymania wyrównania i jego siedziby;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) sprzedawcy ciepła uprawnionego do otrzymania wyrównania;
+
+### 4)
+
+adres poczty elektronicznej sprzedawcy ciepła uprawnionego do otrzymania wyrównania;
+
+### 5)
+
+ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. [GJ];
+
+### 6)
+
+dane niezbędne do wykonania obliczenia wyrównania;
+
+### 7)
+
+wnioskowaną wysokość wyrównania;
+
+### 8)
+
+oświadczenie, że sprzedawca ciepła uprawniony do otrzymania wyrównania nie skorzystał ze wsparcia, o którym mowa w art. 4 ust. 2;
+
+### 9)
+
+oświadczenie sprzedawcy ciepła uprawnionego do otrzymania wyrównania o zgodności z prawdą danych zawartych we wniosku;
+
+### 10)
+
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone wyrównanie;
+
+### 11)
+
+inne informacje niezbędne do wypłacenia wyrównania.
+
+### 8.
+
+Oświadczenia, o których mowa w ust. 7 pkt 8 i 9, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „ Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń
+
+### 9.
+
+W przypadku, o którym mowa w ust. 1-3, wyrównanie wypłaca się jednorazowo.
+
+### 10.
+
+Wniosek o wypłatę wyrównania składa się do:
+
+### 1)
+
+zarządcy rozliczeń - w przypadku sprzedawcy ciepła prowadzącego działalność gospodarczą na podstawie koncesji;
+
+### 2)
+
+wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby sprzedawcy ciepła - w przypadku sprzedawcy ciepła innego niż wskazany w pkt 1.
+
+### 11[29) W brzmieniu ustalonym przez art. 4 pkt 7 ustawy, o której mowa w odnośniku 2.](#gloss-0:29:).
+
+Do wniosku, o którym mowa w ust. 5, oraz do wypłaty wyrównania, w przypadku, o którym mowa w ust. 1-3, stosuje się odpowiednio przepisy ust. 7, 8 i 10, art. 12a ust. 7 i 8, art. 14 ust. 1-6, art. 17, art. 18 ust. 1 i 2, art. 19 oraz art. 20.
+
+### Art. 12d.
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzory wniosków o wypłatę wyrównania i rozliczenie wyrównania, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosków, zapewnienie przejrzystości i komunikatywności tych wniosków oraz potrzebę ujednolicenia ich formy.
+
+### Art. 12e.
+
+### 1.
+
+Sprzedawca ciepła, któremu przysługuje wyrównanie, o którym mowa w art. 12c ust. 1, jest obowiązany do uwzględnienia wyrównania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, i korekty tych rozliczeń, w terminie 7 dni od dnia otrzymania wyrównania.
+
+### 2.
+
+W przypadku gdy sprzedawca ciepła, który otrzymał wyrównanie, o którym mowa w art. 12c ust. 1, nie uwzględnił tego wyrównania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, i nie dokonał korekty tych rozliczeń, w terminie 7 dni od dnia otrzymania wyrównania, kwotę wyrównania uznaje się za pobraną nienależnie i sprzedawca ciepła jest obowiązany do jej zwrotu w całości w dniu roboczym następującym po dniu w którym upłynął termin dokonania korekty, wraz z odsetkami za opóźnienie liczone od dnia ich otrzymania.
+
+### 3.
+
+W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty wyrównania nalicza się odsetki za opóźnienie od dnia ich otrzymania.
+
+### Art. 13.
+
+### 1.
+
+Rekompensata jest wypłacana za każdy miesiąc na wniosek podmiotu uprawnionego.
+
+### 2.
+
+Wraz z wnioskiem o wypłatę rekompensaty podmiot uprawniony składa oświadczenie o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny oświadczam, że ceny lub stawki opłat, za okres objęty wnioskiem o wypłatę rekompensaty, stosowane względem odbiorców, o których mowa w art. 4 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, zostały zastosowane zgodnie z art. 3 ust. 3 tej ustawy.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### 3.
+
+Wniosek o wypłatę rekompensaty składa się do 25. dnia każdego miesiąca następującego po danym miesięcznym okresie rozliczeniowym. Termin przypadający w dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku z niedochowaniem terminu wniosek pozostawia się bez rozpatrzenia.
+
+### 4.
+
+Wniosek o wypłatę rekompensaty składa się do:
+
+### 1)
+
+zarządcy rozliczeń - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3 ust. 1;
+
+### 2)
+
+wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby podmiotu uprawnionego - w przypadku przedsiębiorstwa energetycznego, o którym mowa w art. 3 ust. 2.
+
+### 5.
+
+Wniosek o wypłatę rekompensaty zawiera:
+
+### 1)
+
+oznaczenie podmiotu, do którego jest kierowany wniosek;
+
+### 2)
+
+oznaczenie podmiotu uprawnionego i jego siedziby;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
+
+### 4)
+
+adres poczty elektronicznej;
+
+### 5)
+
+elementy składowe wzorów, o których mowa w art. 12 ust. 4;
+
+### 6)
+
+ilość sprzedanego ciepła ogółem oraz ilość sprzedanego ciepła dla odbiorców, o których mowa w art. 4 ust. 1, w miesięcznym okresie rozliczeniowym dla danego źródła ciepła lub grupy źródeł ciepła [GJ];
+
+### 7)
+
+wnioskowaną wysokość rekompensaty dla danego źródła ciepła lub grupy źródeł ciepła;
+
+### 8)
+
+wnioskowaną wysokość łącznej rekompensaty dla wszystkich źródeł ciepła;
+
+### 9)
+
+oświadczenie, że podmiot uprawniony nie skorzystał ze wsparcia, o którym mowa w art. 4 ust. 2;
+
+### 10)
+
+oświadczenie, o którym mowa w ust. 2;
+
+### 11)
+
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacona rekompensata;
+
+### 12)
+
+inne informacje niezbędne do obliczenia i wypłaty rekompensaty.
+
+### Art. 14.
+
+### 1.
+
+Podmiot wypłacający weryfikuje wniosek o wypłatę rekompensaty pod względem jej wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów i prawidłowego reprezentowania na podstawie podanych we wniosku danych i dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania.
+
+### 2.
+
+W przypadku pozytywnej weryfikacji wniosku o wypłatę rekompensaty podmiot wypłacający zatwierdza wniosek i dokonuje wypłaty rekompensaty w terminie 14 dni od dnia otrzymania prawidłowo sporządzonego wniosku, z uwzględnieniem art. 19 ust. 1. Zatwierdzenie wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+
+### 3.
+
+W przypadku gdy wniosek o wypłatę rekompensaty zawiera braki formalne lub błędy obliczeniowe lub budzi uzasadnione wątpliwości podmiotu wypłacającego co do zgodności ze stanem rzeczywistym, podmiot wypłacający, w terminie 7 dni od dnia otrzymania wniosku, wzywa podmiot uprawniony do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości podmiotu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia. W zakresie, w jakim kwota rekompensaty nie budzi wątpliwości, kwota ta jest przez podmiot wypłacający wypłacana zgodnie z ust. 2.
+
+### 4.
+
+W przypadku negatywnej weryfikacji wniosku o wypłatę rekompensaty podmiot wypłacający odmawia zatwierdzenia tego wniosku, informując wnioskodawcę o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+
+### 5.
+
+W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku o wypłatę rekompensaty lub wątpliwości podmiotu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia podmiot wypłacający odmawia zatwierdzenia wniosku o wypłatę rekompensaty w zakresie, w jakim kwota rekompensaty budzi wątpliwości lub nie przysługuje, informując podmiot uprawniony o przyczynie tej odmowy. Odmowa zatwierdzenia wniosku o wypłatę rekompensaty nie wymaga wydania decyzji administracyjnej.
+
+### 6.
+
+Odmowy, o których mowa w ust. 4 i 5, nie pozbawiają podmiotu uprawnionego możliwości ponownego złożenia wniosku o wypłatę rekompensaty, z wyjątkiem gdy rekompensata nie przysługuje. Przepisy ust. 1-5 stosuje się odpowiednio.
+
+### 7.
+
+Jeżeli podmiot uprawniony zaprzestał wykonywania działalności gospodarczej w zakresie wytwarzania ciepła przed rozliczeniem rekompensaty, o którym mowa w art. 15, kwotę rekompensaty uznaje się za pobraną nienależnie i podmiot uprawniony jest obowiązany do jej zwrotu w całości wraz z odsetkami. W przypadku gdy nie zostanie dokonany zwrot, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+
+### 8.
+
+Podmiot uprawniony jest obowiązany do przechowywania dokumentacji związanej z wnioskowaną rekompensatą przez okres 5 lat kalendarzowych począwszy od dnia, w którym została wypłacona lub zwrócona kwota wynikająca z wniosku o rozliczenie rekompensaty, o którym mowa w art. 15 ust. 1.
+
+### Art. 15.
+
+### 1.
+
+Do dnia 31 sierpnia 2023 r. podmiot uprawniony składa do podmiotu wypłacającego wniosek o rozliczenie rekompensaty, który uwzględnia rzeczywiste dane, o których mowa w art. 12 ust. 4.
+
+### 2.
+
+Podmiot wypłacający dokonuje weryfikacji rekompensat należnych podmiotowi uprawnionemu na podstawie wniosku o rozliczenie rekompensaty i niezwłocznie informuje o jej wynikach:
+
+### 1)
+
+Prezesa URE - w przypadku zarządcy rozliczeń;
+
+### 2)
+
+właściwego miejscowo wojewodę - w przypadku wójta, burmistrza albo prezydenta miasta.
+
+### 3.
+
+W przypadku niezłożenia wniosku o rozliczenie rekompensaty w terminie, o którym mowa w ust. 1, wypłaconą rekompensatę uznaje się za otrzymaną nienależnie i podmiot uprawniony jest obowiązany do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych w terminie do dnia 15 września 2023 r.
+
+### 4.
+
+Jeżeli z wniosku o rozliczenie rekompensaty wynika zwrot kwoty nadpłaconej rekompensaty, uznaje się ją za otrzymaną nienależnie i podmiot uprawniony zwraca ją w terminie 14 dni od dnia zatwierdzenia wniosku przez podmiot wypłacający.
+
+### 5.
+
+W przypadku gdy podmiot uprawniony nie zwrócił nienależnie otrzymanej rekompensaty, podmiot wypłacający wzywa ten podmiot do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+
+### 6.
+
+W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 5, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+
+### 7.
+
+Przepisy art. 13 ust. 4 i 5 oraz art. 14 stosuje się odpowiednio do wniosków o rozliczenie rekompensaty.
+
+### 8[30) Dodany przez art. 4 pkt 8 ustawy, o której mowa w odnośniku 2.](#gloss-0:30:).
+
+W przypadku gdy suma wypłaconych i rozliczonych rekompensat jest wyższa niż suma obniżek udzielonych odbiorcom, o których mowa w art. 4 ust. 1, w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. w związku ze stosowaniem w rozliczeniach z tymi odbiorcami średniej ceny wytwarzania ciepła z rekompensatą oraz kwoty rekompensat przekazane sprzedawcom ciepła w związku ze stosowaniem przez tych sprzedawców w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą, podmiot uprawniony zwraca tak obliczoną różnicę na rachunek podmiotu wypłacającego w terminie do dnia 30 kwietnia 2024 r.
+
+### Art. 15a[31) Dodany przez art. 4 pkt 9 ustawy, o której mowa w odnośniku 2.](#gloss-0:31:).
+
+### 1.
+
+Sprzedawcom ciepła, którzy w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. stosowali w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, obniżoną cenę ciepła, cenę za zamówioną moc cieplną oraz cenę nośnika ciepła lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło ustalone z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą, przysługuje świadczenie wyrównawcze wypłacane na ich wniosek.
+
+### 2.
+
+Świadczenie wyrównawcze, o którym mowa w ust. 1, przysługuje sprzedawcy ciepła za poszczególne miesiące w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., w kwocie ustalonej:
+
+### 1)
+
+zgodnie ze wzorem: \( KSW = \left[ {\left( {CC - CCR} \right) \times Wc + \left( {{{CM} \over {12}} - {{CMR} \over {12}}} \right) \times Wm + \left( {CN - CNR} \right) \times Wn} \right] \times (1 + T) - WR, \)
+
+### 2)
+
+a w przypadku stosowania stawki opłaty za ciepło i stawki opłaty miesięcznej za zamówioną moc cieplną - zgodnie ze wzorem: KSW = [(SC - SCR)× Wc + (SM - SMR)× Wm] × (1 + T) −WR,
+
+- - gdzie poszczególne symbole oznaczają: KSW - kwotę miesięcznego świadczenia wyrównawczego dla danego sprzedawcy ciepła, wynikającą ze stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, cen sprzedaży ciepła, mocy cieplnej i nośnika ciepła, ustalonych zgodnie z art. 3 [zł], CC - cenę ciepła ze stosowanej w danym miesiącu taryfy dla ciepła [zł/GJ], CM - cenę za zamówioną moc cieplną [zł/MW], CN - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SC - stawkę opłaty za ciepło [zł/GJ], SM - stawkę opłaty miesięcznej za zamówioną moc cieplną [zł/MW], CCR - cenę ciepła stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1-5 [zł/GJ], CMR - cenę za zamówioną moc cieplną stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1-5 [zł/MW], CNR - cenę nośnika ciepła - wody dostarczonej do napełniania sieci ciepłowniczych i instalacji odbiorczych oraz do uzupełnienia ubytków wody poza źródłem ciepła lub niezwróconych skroplin stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1-5 ‒ wyrażoną odpowiednio w złotych za metr sześcienny lub za tonę, SCR - stawkę opłaty za ciepło stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1-5 [zł/GJ], SMR - stawkę opłaty miesięcznej za zamówioną moc cieplną stosowaną w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, zgodnie z art. 3 ust. 1-5 [zł/MW], Wc - ilość ciepła dostarczonego do odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [GJ], Wm - wielkość zamówionej mocy cieplnej przez odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [MW], Wn - ilość dostarczonego nośnika do odbiorców, o których mowa w art. 4 ust. 1, która w danym miesiącu rozliczona została z uwzględnieniem średniej ceny wytwarzania ciepła z rekompensatą [w metrach sześciennych lub w tonach], T - stawkę podatku od towarów i usług dla dostaw ciepła [%], WR - sumę kwot otrzymanych tytułem stosowania w danym miesięcznym okresie rozliczeniowym w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą, ustalonych jako suma: 1) rekompensat uzyskanych w odniesieniu do danego okresu miesięcznego bezpośrednio od podmiotu wypłacającego przypadających na odbiorców ciepła obsługiwanych przez danego sprzedawcę, oraz 2) kwot (obniżek) otrzymanych w odniesieniu do danego okresu miesięcznego od wytwórców ciepła w związku ze stosowaniem w danym miesięcznym okresie rozliczeniowym w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1, średniej ceny wytwarzania ciepła z rekompensatą
+
+- - wartości symboli użytych w tych wzorach wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem wartości dotyczącej wielkości zamówionej mocy cieplnej, którą wyraża się liczbowo z dokładnością do trzech miejsc po przecinku.
+
+### 3.
+
+Wniosek o wypłatę świadczenia wyrównawczego składa się do:
+
+### 1)
+
+zarządcy rozliczeń - w przypadku przedsiębiorstwa energetycznego posiadającego koncesję i wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1;
+
+### 2)
+
+wójta, burmistrza albo prezydenta miasta, właściwego ze względu na miejsce siedziby przedsiębiorstwa energetycznego - w przypadku przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie sprzedaży ciepła odbiorcom, o których mowa w art. 4 ust. 1, która nie wymaga uzyskania koncesji lub zwolnionego z obowiązku przedkładania taryf dla ciepła do zatwierdzania Prezesowi URE.
+
+### 4.
+
+Wniosek o wypłatę świadczenia wyrównawczego składa się w terminie od dnia 1 kwietnia 2024 r. do dnia 31 maja 2024 r. Termin przypadający w sobotę lub dzień wolny od pracy przypada w pierwszy dzień roboczy po tym terminie. W przypadku złożenia wniosku o wypłatę świadczenia wyrównawczego z niedochowaniem terminu wniosek ten pozostawia się bez rozpatrzenia. Zarządca rozliczeń w uzasadnionych przypadkach przywraca termin na złożenie wniosku o wypłatę świadczenia wyrównawczego, o którym mowa w zdaniu pierwszym. Termin przywraca się na wniosek podmiotu uprawnionego.
+
+### 5.
+
+Wniosek o wypłatę świadczenia wyrównawczego zawiera:
+
+### 1)
+
+oznaczenie podmiotu, do którego jest kierowany wniosek;
+
+### 2)
+
+oznaczenie podmiotu uprawnionego i jego siedziby;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) podmiotu uprawnionego;
+
+### 4)
+
+adres poczty elektronicznej;
+
+### 5)
+
+elementy składowe wzorów, o których mowa w ust. 2;
+
+### 6)
+
+ilość sprzedanego ciepła, zamówionej mocy i nośnika ogółem oraz ilość sprzedanego ciepła, zamówionej mocy i nośnika dla odbiorców, o których mowa w art. 4 ust. 1, w podziale na poszczególne miesięczne okresy rozliczeniowe dla danego systemu ciepłowniczego;
+
+### 7)
+
+wnioskowaną wysokość świadczenia wyrównawczego dla danego systemu ciepłowniczego;
+
+### 8)
+
+wnioskowaną łączną wysokość świadczenia wyrównawczego;
+
+### 9)
+
+oświadczenie, o którym mowa w ust. 6;
+
+### 10)
+
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacone świadczenie wyrównawcze;
+
+### 11)
+
+inne informacje niezbędne do obliczenia i wypłaty świadczenia wyrównawczego.
+
+### 6.
+
+Wraz z wnioskiem o wypłatę świadczenia wyrównawczego sprzedawca ciepła składa oświadczenie o dokonaniu rozliczeń z odbiorcami ciepła, o których mowa w art. 4 ust. 1, zawierające klauzulę o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny oświadczam, że ceny lub stawki opłat, za okres objęty wnioskiem o wypłatę świadczenia wyrównawczego, stosowane względem odbiorców, o których mowa w art. 4 ust. 1 ustawy z dnia 15 września 2022 r. o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw, zostały zastosowane zgodnie z art. 3 tej ustawy”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### 7.
+
+Do wniosku o wypłatę świadczenia wyrównawczego oraz do wypłaty świadczenia wyrównawczego stosuje się odpowiednio przepisy art. 14 ust. 1-6, art. 17, art. 18 ust. 1 i 2, art. 19 i art. 20.
+
+### Art. 16.
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę rekompensaty i wzór wniosku o rozliczenie rekompensaty, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, zapewnienie przejrzystości i komunikatywności tego wniosku oraz potrzebę ujednolicenia jego formy.
+
+### Art. 16a[32) Dodany przez art. 4 pkt 10 ustawy, o której mowa w odnośniku 2.](#gloss-0:32:).
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę świadczenia wyrównawczego, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, zapewnienie przejrzystości i komunikatywności tego wniosku oraz potrzebę ujednolicenia jego formy.
+
+### Art. 17.
+
+### 1.
+
+Wnioski o wypłatę rekompensaty oraz wniosek o rozliczenie rekompensaty składa się do wójta, burmistrza albo prezydenta miasta na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną ([Dz. U. z 2020 r. poz. 344](https://api.sejm.gov.pl/eli/acts/DU/2020/344/text.html) oraz [z 2024 r. poz. 1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), a do zarządcy rozliczeń - wyłącznie za pomocą środków komunikacji elektronicznej w sposób wskazany w art. 18 ust. 2.
+
+### 2.
+
+W przypadku złożenia wniosku o wypłatę rekompensaty lub wniosku o rozliczenie rekompensaty za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### Art. 18.
+
+### 1.
+
+Składanie, weryfikacja i rozpatrywanie wniosków o wypłatę rekompensaty oraz wniosków o rozliczenie rekompensaty, w przypadku, o którym mowa w art. 13 ust. 4 pkt 1, a także korespondencja z zarządcą rozliczeń odbywa się wyłącznie w formie elektronicznej.
+
+### 2.
+
+Wnioski o wypłatę rekompensaty oraz wnioski o rozliczenie rekompensaty składa się do zarządcy rozliczeń za pomocą formularza elektronicznego umożliwiającego złożenie wniosku udostępnionego na stronie internetowej administrowanej przez zarządcę rozliczeń i opatruje się kwalifikowanym podpisem elektronicznym albo podpisem zaufanym osób uprawnionych do reprezentowania podmiotów wymienionych w art. 3 ust. 1.
+
+### 3.
+
+Zarządca rozliczeń na swojej stronie internetowej udostępnia instrukcję składania wniosku o wypłatę rekompensaty oraz instrukcję składania wniosku o rozliczenie rekompensaty.
+
+### 4.
+
+Zarządca rozliczeń na swojej stronie internetowej udostępnia instrukcję składania wniosków o wypłatę wyrównania i rozliczenie wyrównania.
+
+### Art. 19.
+
+### 1.
+
+W przypadku braku środków na wypłatę rekompensat podmiot wypłacający wstrzymuje wypłatę do czasu zapewnienia środków na ten cel. Za okres wstrzymania wypłaty nie nalicza się odsetek za opóźnienie.
+
+### 2.
+
+O wypłaconych podmiotowi uprawnionemu kwotach rekompensat, w terminie 7 dni od dnia dokonania wypłaty:
+
+### 1)
+
+zarządca rozliczeń informuje Prezesa URE;
+
+### 2)
+
+wójt, burmistrz albo prezydent miasta informuje właściwego wojewodę.
+
+### Art. 20.
+
+### 1[33) Ze zmianą wprowadzoną przez art. 4 pkt 11 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 7 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:33:).
+
+Podmiot wypłacający może żądać od podmiotu uprawnionego przedłożenia dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty do dnia 31 grudnia 2028 r.
+
+### 2.
+
+Jeżeli podmiot uprawniony nie przedłożył dokumentów lub informacji uzasadniających wysokość wypłaconej rekompensaty lub z dokumentów i informacji wynika, że część wysokości kwoty rekompensaty została wypłacona nienależnie, podmiot wypłacający wzywa tego przedsiębiorcę do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+
+### 3.
+
+W przypadku gdy podmiot uprawniony nie dokona zwrotu rekompensaty zgodnie z ust. 2, podmiot wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty rekompensaty podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty rekompensaty są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+
+### Art. 21.
+
+Zarządca rozliczeń może zlecić dokonanie określonych czynności związanych z realizacją jego zadań wynikających z ustawy podmiotowi zewnętrznemu, udzielając mu w tym zakresie pełnomocnictw oraz udostępniając w tym celu niezbędne dane.
+
+### Art. 22[34) Ze zmianą wprowadzoną przez art. 21 pkt 8 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:34:).
+
+W sprawach decyzji administracyjnych wydawanych przez zarządcę rozliczeń, o których mowa w art. 12a ust. 7, art. 12aa ust. 6 zdanie pierwsze, art. 12b ust. 6, art. 14 ust. 7, art. 15 ust. 6 oraz art. 20 ust. 3, organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2024 r. poz. 572](https://api.sejm.gov.pl/eli/acts/DU/2024/572/text.html)) w stosunku do zarządcy rozliczeń jest minister właściwy do spraw energii.
+
+### Art. 23.
+
+### 1.
+
+Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 lub 3, jest obowiązane do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2 lub 3, maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, to odbiorcy ci są obowiązani do:
+
+### 1[35) Ze zmianą wprowadzoną przez art. 4 pkt 12 ustawy, o której mowa w odnośniku 2.](#gloss-0:35:))
+
+uwzględnienia w terminie do dnia 31 marca 2023 r. za rok 2023 oraz do dnia 31 stycznia 2024 r. za rok 2024 w zaliczkach na poczet rozliczenia kosztów zakupu ciepła na potrzeby ogrzewania i przygotowania ciepłej wody użytkowej dostarczonego do lokali mieszkalnych gospodarstw domowych lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
+
+### 2)
+
+niezwłocznego zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o obniżonej zaliczce na poczet rozliczenia kosztów zakupu ciepła wraz z informacją o wysokości zmniejszenia tej zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
+
+### 3)
+
+niezwłocznego zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o każdej zmianie cen i stawek opłat dla ciepła stosowanych przez przedsiębiorstwo energetyczne wraz z informacją o wysokości zmniejszenia zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
+
+### 4)
+
+zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy - Prawo energetyczne;
+
+### 5)
+
+zawiadomienia osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o uwzględnieniu obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy - Prawo energetyczne, wraz z informacją o wysokości zmniejszenia rachunku za ciepło w wyniku zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3a ust. 4;
+
+### 6)
+
+rozliczenia kosztów zakupu ciepła obejmującego okres od dnia 1 października 2022 r. do dnia 28 lutego 2023 r., osobom zamieszkującym lokale mieszkalne niebędącym odbiorcami ciepła oraz osobom reprezentującym podmioty, o których mowa w art. 4 ust. 1 pkt 4, w terminie 14 dni od dnia uwzględnienia wyrównania, o którym mowa w art. 12c ust. 1, przez sprzedawcę ciepła w rozliczeniach z tymi odbiorcami ciepła, w związku z uwzględnieniem obniżonej opłaty za ciepło wynikającej z art. 12e;
+
+### 7)
+
+niezwłocznego zawiadomienia osób zamieszkujących lub użytkujących lokale niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1, rozliczeniu kosztów zakupu ciepła z uwzględnieniem obniżonej opłaty za ciepło przez sprzedawcę ciepła na podstawie art. 12e wraz z informacją o wysokości zmniejszenia rachunku w wyniku zastosowania obniżonej opłaty za ciepło.
+
+### 2.
+
+Odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, wykonuje obowiązek, o którym mowa w ust. 1 pkt 2, 3, 5 i 7, przez każdorazowe dołączenie zawiadomień i informacji, o których mowa w ust. 1 pkt 2, 3, 5 i 7, do faktury, rachunku lub innego dokumentu dostarczanego indywidualnie do każdego lokalu lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w sposób zwyczajowo przyjęty.
+
+### 3.
+
+Minister właściwy do spraw energii udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego go urzędu wzór zawiadomienia, o którym mowa w ust. 1 pkt 2.
+
+### Art. 23a[36) Dodany przez art. 21 pkt 9 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:36:).
+
+### 1.
+
+Jeżeli przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 lub 2, jest obowiązane do stosowania w rozliczeniach z odbiorcami, o których mowa w art. 4 ust. 1 pkt 2 lub 3, maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, to odbiorcy ci są obowiązani do:
+
+### 1)
+
+uwzględnienia w terminie:
+
+### a)
+
+do dnia 31 lipca 2024 r., za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.,
+
+### b)
+
+do dnia 31 stycznia 2025 r., za rok 2025
+
+- w zaliczkach na poczet rozliczenia kosztów zakupu ciepła na potrzeby ogrzewania i przygotowania ciepłej wody użytkowej dostarczonego do lokali mieszkalnych gospodarstw domowych lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
+
+### 2)
+
+informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o obniżonej zaliczce na poczet rozliczenia kosztów zakupu ciepła wraz z informacją o wysokości zmniejszenia tej zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
+
+### 3)
+
+informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o każdej zmianie cen i stawek opłat dla ciepła stosowanych przez przedsiębiorstwo energetyczne wraz z informacją o wysokości zmniejszenia zaliczki w wyniku uwzględnienia obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3;
+
+### 4)
+
+zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy - Prawo energetyczne;
+
+### 5)
+
+informowania osób zamieszkujących lokale mieszkalne niebędących odbiorcami ciepła oraz osób reprezentujących podmioty, o których mowa w art. 4 ust. 1 pkt 4, o uwzględnieniu obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3, w ramach rozliczeń kosztów zakupu ciepła, o których mowa w art. 45a ust. 8 ustawy - Prawo energetyczne, wraz z informacją o wysokości zmniejszenia rachunku za ciepło w wyniku zastosowania obniżonej opłaty za ciepło wynikającej z maksymalnej ceny dostawy ciepła albo najniższej ceny ciepła, o której mowa w art. 3b ust. 3.
+
+### 2.
+
+Odbiorca ciepła, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, wykonuje obowiązki, o których mowa w ust. 1 pkt 2, 3 i 5, przez każdorazowe dołączenie informacji, o których mowa w ust. 1 pkt 2, 3 i 5, do faktury, rachunku lub innego dokumentu dostarczanego indywidualnie do każdego lokalu lub podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w sposób zwyczajowo przyjęty.
+
+### Rozdział 3 Dodatek dla gospodarstw domowych oraz dodatek dla podmiotów wrażliwych
+
+### Art. 24.
+
+### 1.
+
+Dodatek dla gospodarstw domowych przysługuje osobie w gospodarstwie domowym, w przypadku gdy głównym źródłem ciepła gospodarstwa domowego jest:
+
+### 1)
+
+kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy na paliwo stałe, zasilane peletem drzewnym, drewnem kawałkowym lub innym rodzajem biomasy, albo
+
+### 2)
+
+kocioł gazowy zasilany skroplonym gazem LPG, albo
+
+### 3)
+
+kocioł olejowy
+
+- zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków ([Dz. U. z 2023 r. poz. 2496](https://api.sejm.gov.pl/eli/acts/DU/2023/2496/text.html) oraz [z 2024 r. poz. 1089](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.html)), do dnia 11 sierpnia 2022 r., albo po tym dniu - w przypadku głównych źródeł ogrzewania zgłoszonych lub wpisanych po raz pierwszy do centralnej ewidencji emisyjności budynków, o których mowa w art. 27g ust. 1 tej ustawy.
+
+### 2.
+
+Przez gospodarstwo domowe, o którym mowa w ust. 1, rozumie się:
+
+### 1)
+
+osobę fizyczną samotnie zamieszkującą i gospodarującą (gospodarstwo domowe jednoosobowe) albo
+
+### 2)
+
+osobę fizyczną oraz osoby z nią spokrewnione lub niespokrewnione pozostające w faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe).
+
+### 3.
+
+Dodatek dla gospodarstw domowych wypłaca się na wniosek osoby, o której mowa w ust. 2.
+
+### 4.
+
+W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek dla gospodarstw domowych przysługuje dla wszystkich gospodarstw domowych zamieszkujących pod tym adresem.
+
+### 5.
+
+W przypadku gdy wniosek o wypłatę dodatku dla gospodarstw domowych złożono dla więcej niż jednego gospodarstwa domowego mających ten sam adres miejsca zamieszkania, to dodatek ten jest przyznawany wnioskodawcy, który złożył wniosek jako pierwszy. Pozostałe wnioski pozostawia się bez rozpoznania.
+
+### 5a.
+
+W przypadku gdy pod jednym adresem miejsca zamieszkania zamieszkuje więcej niż jedno gospodarstwo domowe, i w terminie do dnia 30 listopada 2022 r. nie jest możliwe ustalenie odrębnego adresu miejsca zamieszkania dla poszczególnych gospodarstw domowych zamieszkujących pod tym adresem w odrębnych lokalach, nie stosuje się ust. 4 i 5 do gospodarstwa domowego, którego źródłem ogrzewania jest oddzielne lub współdzielone źródło ciepła zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków zgodnie z ust. 1.
+
+### 5b.
+
+W przypadku, o którym mowa w ust. 5a, gospodarstwu domowemu, dla którego nie było możliwe ustalenie odrębnego adresu, wójt, burmistrz albo prezydent przyznaje dodatek dla gospodarstw domowych w drodze decyzji administracyjnej, jeżeli w wyniku przeprowadzenia wywiadu środowiskowego organ ten ustalił zamieszkiwanie pod jednym adresem w odrębnych lokalach kilku gospodarstw domowych oraz wykorzystywanie przez te gospodarstwa oddzielnego lub współdzielonego źródła ciepła wpisanego lub zgłoszonego do centralnej ewidencji emisyjności budynków zgodnie z ust. 1.
+
+### 5c.
+
+W przypadku gdy w lokalu, o którym mowa w ust. 5b, zamieszkuje więcej niż jedno gospodarstwo domowe, jeden dodatek dla gospodarstw domowych przysługuje dla wszystkich gospodarstw domowych zamieszkujących w tym lokalu.
+
+### 6.
+
+W przypadku gdy wniosek o wypłatę dodatku dla gospodarstw domowych złożyła więcej niż jedna osoba z danego gospodarstwa domowego wieloosobowego, dodatek ten jest przyznawany wnioskodawcy, który złożył taki wniosek jako pierwszy. Pozostałe wnioski pozostawia się bez rozpoznania.
+
+### 7.
+
+Dodatek dla gospodarstw domowych nie przysługuje gospodarstwom domowym objętym pozytywnie rozpatrzonym wnioskiem o wypłatę dodatku węglowego, o których mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym.
+
+### 8.
+
+Dodatek dla gospodarstw domowych nie przysługuje osobie w gospodarstwie domowym, na potrzeby którego zostało zakupione paliwo stałe, po cenie i od przedsiębiorcy, o których mowa w art. 2 ust. 1 ustawy z dnia 23 czerwca 2022 r. o szczególnych rozwiązaniach służących ochronie odbiorców niektórych paliw stałych w związku z sytuacją na rynku tych paliw ([Dz. U. poz. 1477](https://api.sejm.gov.pl/eli/acts/DU/2022/1477/text.html) i [1692](https://api.sejm.gov.pl/eli/acts/DU/2022/1692/text.html)).
+
+### 9.
+
+Na potrzeby składania wniosków o wypłatę dodatku dla gospodarstw domowych przyjmuje się, że:
+
+### 1)
+
+jedna osoba może wchodzić w skład tylko jednego gospodarstwa domowego;
+
+### 2)
+
+gospodarstwo domowe może otrzymać dodatek z tytułu wykorzystania wyłącznie jednego źródła ciepła.
+
+### 10.
+
+Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek dla gospodarstw domowych przysługuje:
+
+### 1)
+
+osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej:
+
+### a)
+
+na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego w związku z okolicznością, o której mowa w art. 159 ust. 1 pkt 1 lit. c lub d lub art. 186 ust. 1 pkt 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach ([Dz. U. z 2024 r. poz. 769](https://api.sejm.gov.pl/eli/acts/DU/2024/769/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), lub w związku z uzyskaniem w Rzeczypospolitej Polskiej statusu uchodźcy lub ochrony uzupełniającej,
+
+### b)
+
+w związku z uzyskaniem w Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych lub zgody na pobyt tolerowany;
+
+### 3)
+
+mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej oraz członkom ich rodzin w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin ([Dz. U. z 2024 r. poz. 633](https://api.sejm.gov.pl/eli/acts/DU/2024/633/text.html)), posiadającym prawo pobytu lub prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+
+### 11.
+
+Dodatek dla gospodarstwa domowego wynosi:
+
+### 1)
+
+3000 złotych - w przypadku gdy głównym źródłem ciepła jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy, zasilane peletem drzewnym lub innym rodzajem biomasy, z wyłączeniem drewna kawałkowego;
+
+### 2)
+
+1000 złotych - w przypadku gdy głównym źródłem ciepła jest kocioł na paliwo stałe, kominek, koza, ogrzewacz powietrza, trzon kuchenny, piecokuchnia albo piec kaflowy, zasilane drewnem kawałkowym;
+
+### 3)
+
+500 złotych - w przypadku gdy głównym źródłem ciepła jest kocioł gazowy zasilany skroplonym gazem LPG;
+
+### 4)
+
+2000 złotych - w przypadku gdy głównym źródłem ciepła jest kocioł olejowy.
+
+### 12.
+
+Wniosek o wypłatę dodatku dla gospodarstw domowych składa się w terminie do dnia 30 listopada 2022 r.
+
+### 13.
+
+Wnioski o wypłatę dodatku dla gospodarstw domowych złożone po dniu 30 listopada 2022 r. pozostawia się bez rozpoznania.
+
+### 14.
+
+Dodatek dla gospodarstw domowych wypłaca się w terminie miesiąca od dnia złożenia wniosku o jego wypłatę.
+
+### 15.
+
+Wniosek o wypłatę dodatku dla gospodarstw domowych składa się w gminie właściwej ze względu na miejsce zamieszkania osoby składającej ten wniosek.
+
+### 16.
+
+Wniosek o wypłatę dodatku dla gospodarstw domowych składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+
+### 17.
+
+W przypadku złożenia wniosku o wypłatę dodatku dla gospodarstw domowych za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 18.
+
+Minister właściwy do spraw informatyzacji może udostępnić usługę umożliwiającą złożenie wniosku za jego pośrednictwem za pomocą środków komunikacji elektronicznej, w tym przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel ([Dz. U. z 2024 r. poz. 1275](https://api.sejm.gov.pl/eli/acts/DU/2024/1275/text.html)).
+
+### 19.
+
+Wniosek złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu wnioskodawcy z wykorzystaniem certyfikatu podstawowego, o którym mowa w art. 2 pkt 2 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel.
+
+### 20.
+
+Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych, w szczególności w zakresie zgłoszenia lub wpisania głównego źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.
+
+### 21.
+
+Dokonując weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych, wójt, burmistrz albo prezydent miasta bierze pod uwagę w szczególności:
+
+### 1)
+
+informacje wynikające z deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi, o której mowa w art. 6m ustawy z dnia 13 września 1996 r. o utrzymaniu czystości i porządku w gminach ([Dz. U. z 2024 r. poz. 399](https://api.sejm.gov.pl/eli/acts/DU/2024/399/text.html));
+
+### 2)
+
+informacje uzyskane w związku z postępowaniem o przyznanie:
+
+### a)
+
+świadczeń rodzinnych oraz dodatków do zasiłku rodzinnego, o których mowa odpowiednio w art. 2 i art. 8 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. z 2024 r. poz. 323](https://api.sejm.gov.pl/eli/acts/DU/2024/323/text.html) i [858](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.html)),
+
+### b)
+
+świadczenia wychowawczego, o którym mowa w art. 4 ustawy z dnia 11 lutego 2016 r. o pomocy państwa w wychowywaniu dzieci ([Dz. U. z 2024 r. poz. 421](https://api.sejm.gov.pl/eli/acts/DU/2024/421/text.html) i [858](https://api.sejm.gov.pl/eli/acts/DU/2024/858/text.html)),
+
+### c)
+
+dodatku osłonowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 17 grudnia 2021 r. o dodatku osłonowym ([Dz. U. z 2024 r. poz. 953](https://api.sejm.gov.pl/eli/acts/DU/2024/953/text.html)),
+
+### d)
+
+dodatku mieszkaniowego, o którym mowa w art. 2 ustawy z dnia 21 czerwca 2001 r. o dodatkach mieszkaniowych ([Dz. U. z 2023 r. poz. 1335](https://api.sejm.gov.pl/eli/acts/DU/2023/1335/text.html));
+
+### 3)
+
+dane zgromadzone w rejestrze PESEL oraz rejestrze mieszkańców, o których mowa odpowiednio w art. 6 ust. 1 i art. 6a ust. 1 ustawy z dnia 24 września 2010 r. o ewidencji ludności ([Dz. U. z 2024 r. poz. 736](https://api.sejm.gov.pl/eli/acts/DU/2024/736/text.html) i [854](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.html)).
+
+### 22.
+
+Jeżeli podczas weryfikacji wniosku o wypłatę dodatku dla gospodarstw domowych wystąpią wątpliwości dotyczące gospodarstwa domowego wnioskodawcy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy, który ma na celu ustalenie faktycznego stanu danego gospodarstwa domowego zgodnie z ust. 2 odpowiednio pkt 1 i 2, odnośnie samotnego zamieszkiwania w przypadku jednoosobowych gospodarstw domowych oraz wspólnie stale zamieszkujących i gospodarujących z wnioskodawcą w przypadku gospodarstw domowych wieloosobowych. Przepis art. 25 ust. 2 stosuje się.
+
+### 23.
+
+Wywiad środowiskowy przeprowadza się w miejscu zamieszkania wnioskodawcy.
+
+### 24.
+
+W toku wywiadu środowiskowego ustala się, czy stan faktyczny danego gospodarstwa domowego jest zgodny z informacjami podanymi we wniosku o wypłatę dodatku dla gospodarstw domowych.
+
+### 25.
+
+Niewyrażenie zgody na przeprowadzenie wywiadu środowiskowego, o którym mowa w ust. 22, stanowi podstawę do odmowy przyznania dodatku dla gospodarstw domowych.
+
+### 25a.
+
+W przypadku posiadania informacji wskazujących, że osoba, która nie złożyła wniosku o wypłatę dodatku dla gospodarstw domowych, spełnia warunki jego przyznania wynikające z ustawy, wójt, burmistrz albo prezydent miasta może przeprowadzić wywiad środowiskowy w celu ustalenia prawa do dodatku dla gospodarstw domowych. W takim przypadku organ ten przyznaje dodatek w drodze decyzji administracyjnej z urzędu, bez konieczności składania wniosku oraz bez składania odpowiedniej deklaracji dokonuje wpisu źródła ciepła do centralnej ewidencji emisyjności budynków, jeżeli źródło nie było wcześniej zgłoszone do tej ewidencji. Przepis art. 25 ust. 2 stosuje się.
+
+### 25b.
+
+Dodatek dla gospodarstw domowych przysługuje osobie w gospodarstwie domowym także w przypadku, gdy główne źródło ogrzewania gospodarstwa domowego, o którym mowa w ust. 1, nie zostało zgłoszone lub wpisane do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, do dnia 11 sierpnia 2022 r., a w wyniku przeprowadzenia wywiadu środowiskowego ustalono, że źródłem ogrzewania tego gospodarstwa jest źródło, o którym mowa w ust. 1. Wpis do centralnej ewidencji emisyjności budynków dokonywany jest z urzędu bez konieczności składania odpowiedniej deklaracji.
+
+### 26.
+
+Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku dla gospodarstw domowych nie wymaga wydania decyzji administracyjnej. Odmowa przyznania dodatku dla gospodarstw domowych, uchylenie oraz rozstrzygnięcie w sprawie nienależnie pobranego dodatku wymagają wydania decyzji administracyjnej.
+
+### 27.
+
+Wójt, burmistrz albo prezydent miasta przesyła wnioskodawcy informację o przyznaniu dodatku dla gospodarstw domowych na wskazany przez niego adres poczty elektronicznej, o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę dodatku. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę dodatku, wójt, burmistrz albo prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości bezpośredniego odebrania od tego organu informacji o przyznaniu dodatku.
+
+### 28.
+
+Nieodebranie informacji o przyznaniu dodatku dla gospodarstw domowych nie wstrzymuje wypłaty tego dodatku.
+
+### 29.
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę dodatku dla gospodarstw domowych, mając na uwadze zapewnienie przejrzystości i komunikatywności tego wniosku.
+
+### Art. 25.
+
+### 1.
+
+Do postępowania w sprawie wypłaty dodatku dla gospodarstw domowych przepisy art. 23 ust. 3, 12 i 13, art. 24a ust. 1 i 2, art. 25 ust. 3 i 4 oraz art. 29-30a ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych stosuje się odpowiednio, przy czym ilekroć w tych przepisach jest mowa o rodzinie, rozumie się przez to gospodarstwo domowe, o którym mowa w art. 24 ust. 2.
+
+### 2.
+
+Wójt, burmistrz albo prezydent miasta może, na piśmie utrwalonym w postaci papierowej lub elektronicznej, upoważnić swojego zastępcę, pracownika urzędu gminy albo kierownika ośrodka pomocy społecznej, a w przypadku przekształcenia ośrodka pomocy społecznej w centrum usług społecznych na podstawie przepisów ustawy z dnia 19 lipca 2019 r. o realizowaniu usług społecznych przez centrum usług społecznych ([Dz. U. poz. 1818](https://api.sejm.gov.pl/eli/acts/DU/2019/1818/text.html)) - dyrektora centrum usług społecznych, lub kierownika innej jednostki organizacyjnej gminy, a także inną osobę na wniosek kierownika ośrodka pomocy społecznej, dyrektora centrum usług społecznych lub innej jednostki organizacyjnej gminy do prowadzenia postępowań w sprawach dotyczących wypłaty dodatku dla gospodarstw domowych.
+
+### Art. 26.
+
+### 1.
+
+Dodatek dla podmiotów wrażliwych przysługuje podmiotom, o których mowa w art. 4 ust. 1 pkt 4:
+
+### 1)
+
+które ponoszą koszty zakupu węgla kamiennego, brykietu lub peletu zawierających co najmniej 85% węgla kamiennego, peletu drzewnego albo innego rodzaju biomasy, gazu skroplonego LPG albo oleju opałowego, wykorzystywanych na cele ogrzewania, w związku z wykonywaniem przez te podmioty ich podstawowej działalności;
+
+### 2)
+
+których główne źródło ciepła:
+
+### a)
+
+jest wpisane lub zgłoszone do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, albo
+
+### b)
+
+jest źródłem spalania paliw w rozumieniu art. 157a ust. 1 pkt 7 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2024 r. poz. 54](https://api.sejm.gov.pl/eli/acts/DU/2024/54/text.html), [834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html), [1089](https://api.sejm.gov.pl/eli/acts/DU/2024/1089/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), które wymaga uzyskania pozwolenia, o którym mowa w art. 181 ust. 1 pkt 1 i 2 tej ustawy, albo zgłoszenia, o którym mowa w art. 152 ust. 1 tej ustawy.
+
+### 1a.
+
+Dodatek dla podmiotów wrażliwych przysługuje także podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, wytwarzającym ciepło na potrzeby podmiotów, o których mowa w art. 4 ust. 1, wprowadzane do sieci ciepłowniczej ze źródeł o mocy wyższej niż określona w art. 2 pkt 7 lit. b ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, które ponoszą koszty zakupu węgla kamiennego, brykietu lub peletu zawierających co najmniej 85% węgla kamiennego, peletu drzewnego albo innego rodzaju biomasy, gazu skroplonego LPG albo oleju opałowego, wykorzystywanych na cele ogrzewania.
+
+### 1b.
+
+Dodatek dla podmiotów wrażliwych przysługujący podmiotom, o których mowa w art. 4 ust. 1 pkt 2 lub 3, dotyczy wyłącznie ciepła zapewnianego w lokalach mieszkalnych na potrzeby zużycia przez gospodarstwa domowe i lokalach podmiotów, o których mowa w art. 4 ust. 1 pkt 4, w zakresie, w jakim zużywają ciepło na potrzeby określone w tych przepisach.
+
+### 1c.
+
+Podmiot, o którym mowa w art. 4 ust. 1 pkt 2 lub 3, który otrzymał dodatek dla podmiotów wrażliwych, uwzględnia ten dodatek w całości w rozliczeniu kosztów wytworzenia ciepła na poszczególne lokale, o których mowa w ust. 1b.
+
+### 1d.
+
+Przepis ust. 1 pkt 1 stosuje się także w przypadku, gdy koszty zakupu paliwa wymienionego w tym przepisie zostały poniesione przez organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu.
+
+### 2.
+
+Podmioty, którym przysługuje dodatek dla podmiotów wrażliwych, posiadają siedzibę oraz miejsce prowadzenia swojej działalności na terytorium Rzeczypospolitej Polskiej.
+
+### 3.
+
+Dodatek dla podmiotów wrażliwych wypłaca się na wniosek osoby albo osób uprawnionych do reprezentowania podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych.
+
+### 4.
+
+W przypadku gdy wniosek o wypłatę dodatku dla podmiotów wrażliwych złożyła więcej niż jedna osoba uprawniona do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych, dodatek ten jest przyznawany na podstawie wniosku, który został złożony jako pierwszy.
+
+### 5.
+
+Dodatek dla podmiotów wrażliwych ustala się zgodnie ze wzorem: D = (Zk − Skp) x 0,4, gdzie poszczególne symbole oznaczają: D - wysokość dodatku dla podmiotów wrażliwych, wyrażoną w złotych, Zk - zakładany średni roczny koszt zakupu paliwa wykorzystywanego na potrzeby ogrzewania, stanowiący iloczyn jego średniej ceny zakupu obliczonej na podstawie dokumentów sprzedaży dotyczących roku dostaw 2022 oraz średniej rocznej ilości tego paliwa przyjętej do obliczenia Skp, wyrażony w kwocie brutto w złotych, przy czym dokumenty sprzedaży powinny obejmować co najmniej 50% średniej rocznej ilości paliwa przyjętej do obliczenia Skp, Skp - średni roczny koszt zakupu paliwa wykorzystywanego na potrzeby ogrzewania, obliczony z dwóch wybranych lat z okresu trzech lat poprzedzających złożenie wniosku o wypłatę dodatku dla podmiotów wrażliwych, stanowiący sumę iloczynów wykazanych na dokumentach sprzedaży cen zakupu tego paliwa oraz jego ilości, podzieloną przez dwa, wyrażony w kwocie brutto w złotych; w przypadku gdy dane główne źródło ciepła było wykorzystywane w okresie krótszym niż dwa lata poprzedzające złożenie wniosku o wypłatę dodatku dla podmiotów wrażliwych, obliczenia średniego rocznego kosztu są wykonywane dla tego okresu.
+
+### 6.
+
+Wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera obliczenia wykonane na podstawie wzoru, o którym mowa w ust. 5. Do wniosku załącza się oryginały lub kopie poświadczone urzędowo lub notarialnie za zgodność z oryginałem dokumentów:
+
+### 1)
+
+potwierdzających uprawnienie do reprezentowania podmiotu, któremu przysługuje dodatek dla podmiotów wrażliwych;
+
+### 2)
+
+sprzedaży będących podstawą do wykonania obliczeń, o których mowa w ust. 5, potwierdzających datę nabycia, ilość oraz koszt zakupionego i dostarczonego paliwa.
+
+### 6a.
+
+Dokumentami sprzedaży będącymi podstawą do wykonania obliczeń, o których mowa w ust. 5, mogą być także dokumenty wystawione na organ prowadzący podmiot, o którym mowa w art. 4 ust. 1 pkt 4, i finansujący podstawową działalność tego podmiotu.
+
+### 7.
+
+Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się w terminie do dnia 30 listopada 2022 r.
+
+### 8.
+
+Wnioski o wypłatę dodatku dla podmiotów wrażliwych złożone po dniu 30 listopada 2022 r. pozostawia się bez rozpoznania.
+
+### 9.
+
+Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się w gminie właściwej ze względu na miejsce siedziby podmiotu, któremu przysługuje ten dodatek.
+
+### 10.
+
+Wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera:
+
+### 1)
+
+oznaczenie organu, do którego jest kierowany wniosek;
+
+### 2)
+
+oznaczenie podmiotu wrażliwego składającego wniosek i jego siedziby;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) lub inny numer rejestrowy właściwy dla podmiotu wrażliwego składającego wniosek;
+
+### 4)
+
+adres poczty elektronicznej;
+
+### 5)
+
+wskazanie, jakim podmiotem spośród podmiotów, którym przysługuje dodatek dla podmiotów wrażliwych, jest wnioskodawca;
+
+### 6)
+
+oznaczenie rodzaju głównego źródła ciepła oraz rodzaju wykorzystywanego paliwa, zgodnie z informacją przekazaną przez podmiot wrażliwy składający wniosek do ewidencji, o której mowa w ust. 1 pkt 2;
+
+### 7)
+
+elementy składowe wzoru, o którym mowa w ust. 5;
+
+### 8)
+
+wnioskowaną wysokość dodatku dla podmiotów wrażliwych;
+
+### 9)
+
+oświadczenie, że podmiot uprawniony nie skorzystał ze wsparcia w ramach ustawy wymienionej w art. 24 ust. 8;
+
+### 10)
+
+oświadczenie, o którym mowa w art. 27 ust. 2;
+
+### 11)
+
+numer rachunku bankowego albo rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, na który ma zostać wypłacony dodatek dla podmiotów wrażliwych;
+
+### 12)
+
+inne informacje niezbędne do obliczenia i wypłaty dodatku dla podmiotów wrażliwych.
+
+### 11.
+
+Wniosek o wypłatę dodatku dla podmiotów wrażliwych składa się na piśmie lub za pomocą środków komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
+
+### 12.
+
+W przypadku złożenia wniosku o wypłatę dodatku dla podmiotów wrażliwych za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+### 13.
+
+Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych, złożonego przez podmiot, o którym mowa w ust. 1, w szczególności w zakresie zgłoszenia lub wpisania głównego źródła ciepła do centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, a także pod względem jego wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania na podstawie podanych we wniosku danych i dołączonych dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania. W przypadku gdy główne źródło ogrzewania zostało uruchomione do dnia 30 czerwca 2022 r., przy przyznawaniu dodatku bierze się pod uwagę deklarację złożoną przed dniem wejścia w życie ustawy.
+
+### 13a.
+
+Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych złożonego przez podmiot, o którym mowa w ust. 1a, pod względem jego wysokości, prawidłowości dokonanych obliczeń i kompletności wymaganych dokumentów oraz prawidłowego reprezentowania na podstawie podanych we wniosku danych i dołączonych dokumentów, w tym dowodów potwierdzających uprawnienie do reprezentowania.
+
+### 14.
+
+W przypadku pozytywnej weryfikacji wniosku o wypłatę dodatku dla podmiotów wrażliwych organ wypłacający zatwierdza wniosek i dokonuje wypłaty dodatku dla podmiotów wrażliwych w terminie miesiąca od dnia otrzymania prawidłowo sporządzonego wniosku.
+
+### 15.
+
+Przyznanie przez wójta, burmistrza albo prezydenta miasta dodatku dla podmiotów wrażliwych nie wymaga wydania decyzji administracyjnej.
+
+### 16.
+
+Wójt, burmistrz albo prezydent miasta przesyła wnioskodawcy informację o przyznaniu dodatku dla podmiotów wrażliwych na wskazany przez niego adres poczty elektronicznej, o ile wnioskodawca wskazał adres poczty elektronicznej we wniosku o wypłatę tego dodatku. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku o wypłatę dodatku dla podmiotów wrażliwych, wójt, burmistrz albo prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go o możliwości bezpośredniego odebrania od tego organu informacji o przyznaniu tego dodatku.
+
+### 17.
+
+Nieodebranie informacji o przyznaniu dodatku dla podmiotów wrażliwych nie wstrzymuje wypłaty tego dodatku.
+
+### 18.
+
+W przypadku gdy wniosek o wypłatę dodatku dla podmiotów wrażliwych zawiera braki formalne lub błędy obliczeniowe lub budzi inne uzasadnione wątpliwości organu wypłacającego co do zgodności ze stanem rzeczywistym, organ wypłacający, w terminie 7 dni od dnia otrzymania wniosku, wzywa wnioskodawcę do usunięcia braków formalnych lub błędów obliczeniowych lub usunięcia wątpliwości organu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia.
+
+### 19.
+
+W przypadku nieusunięcia braków formalnych lub błędów obliczeniowych zawartych we wniosku o wypłatę dodatku dla podmiotów wrażliwych lub wątpliwości organu wypłacającego w terminie 7 dni od dnia otrzymania wezwania do ich usunięcia organ wypłacający odmawia zatwierdzenia wniosku w zakresie, w jakim kwota dodatku dla podmiotów wrażliwych budzi wątpliwości lub nie przysługuje, informując wnioskodawcę o przyczynie tej odmowy.
+
+### 20.
+
+Odmowa przyznania dodatku dla podmiotów wrażliwych, uchylenie oraz rozstrzygnięcie w sprawie nienależnie pobranego dodatku wymagają wydania decyzji administracyjnej.
+
+### 21.
+
+W przypadku uznania przez organ wypłacający dodatku dla podmiotów wrażliwych za otrzymany nienależnie wnioskodawca jest obowiązany do zwrotu otrzymanych środków w całości wraz z odsetkami liczonymi jak dla zaległości podatkowych.
+
+### 22.
+
+W przypadku gdy wnioskodawca nie zwrócił nienależnie otrzymanego dodatku dla podmiotów wrażliwych, organ wypłacający wzywa ten podmiot do jej zwrotu w terminie 14 dni od dnia otrzymania wezwania.
+
+### 23.
+
+W przypadku gdy wnioskodawca nie dokona zwrotu dodatku dla podmiotów wrażliwych zgodnie z ust. 21, organ wypłacający wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty dodatku dla podmiotów wrażliwych podlegającej zwrotowi oraz termin dokonania tego zwrotu. Od nienależnie pobranej kwoty dodatku dla podmiotów wrażliwych są naliczane odsetki za opóźnienie od dnia jej otrzymania.
+
+### 24.
+
+Minister właściwy do spraw energii określi, w drodze rozporządzenia, wzór wniosku o wypłatę dodatku dla podmiotów wrażliwych, mając na uwadze zakres danych i informacji niezbędnych do zweryfikowania prawidłowości wniosku, a także zapewnienie przejrzystości i komunikatywności tego wniosku.
+
+### Art. 27.
+
+### 1.
+
+W sprawach nieuregulowanych w niniejszym rozdziale stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+### 2.
+
+Informacje przedstawione we wniosku o wypłatę dodatku dla gospodarstw domowych albo dodatku dla podmiotów wrażliwych składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający wniosek jest obowiązany do zawarcia w nim oświadczenia o zgodności z prawdą danych zawartych we wniosku oraz o niekorzystaniu z dodatku węglowego, o którym mowa w art. 2 ust. 1 ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym, i zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+### Rozdział 4 Finansowanie
+
+### Art. 28[37) W brzmieniu ustalonym przez art. 4 pkt 13 ustawy, o której mowa w odnośniku 2.](#gloss-0:37:).
+
+Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, dodatki dla gospodarstw domowych, świadczenia wyrównawcze oraz dodatki dla podmiotów wrażliwych są finansowane z Funduszu Przeciwdziałania COVID-19, o którym mowa w art. 65 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw ([Dz. U. poz. 568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), z późn. zm.[38) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859 i 1089.](#gloss-0:38:)), zwanego dalej „Funduszem”.
+
+### Art. 29.
+
+### 1[39) W brzmieniu ustalonym przez art. 21 pkt 10 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:39:).
+
+Wypłata rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłata wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłata świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłata dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych jest zadaniem zleconym gminie.
+
+### 2[39) W brzmieniu ustalonym przez art. 21 pkt 10 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:39:).
+
+Wojewodowie przekazują gminom środki w ramach limitu określonego na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłatę świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych w planie finansowym Funduszu na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych z Funduszu.
+
+### 3.
+
+Gmina składa wojewodzie wniosek o przyznanie środków w terminie:
+
+### 1)
+
+w przypadku środków na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2:
+
+### a)
+
+15 dni od dnia wejścia w życie ustawy dla czwartego kwartału 2022 r.,
+
+### b)
+
+do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów
+
+- przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
+
+### 1a)
+
+w przypadku środków na wypłatę wyrównań za 2023 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2:[40) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 14 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:40:)
+
+### a)
+
+15 dni od dnia wejścia w życie ustawy z dnia 8 lutego 2023 r. o zmianie ustawy o szczególnych rozwiązaniach w zakresie niektórych źródeł ciepła w związku z sytuacją na rynku paliw oraz niektórych innych ustaw dla pierwszego kwartału 2023 r.,
+
+### b)
+
+do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2023 r.
+
+- przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
+
+### 1b[41) Dodany przez art. 4 pkt 14 lit. b tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:41:))
+
+w przypadku środków na wypłatę wyrównań za pierwsze półrocze 2024 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3:[42) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 21 pkt 10 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:42:)
+
+### a)
+
+15 dni od dnia wejścia w życie ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła ([Dz. U. poz. 2760](https://api.sejm.gov.pl/eli/acts/DU/2023/2760/text.html)) dla pierwszego kwartału 2024 r.,
+
+### b)
+
+do 15. dnia miesiąca poprzedzającego dany kwartał dla pozostałych kwartałów 2024 r.
+
+- przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
+
+### 1ba[43) Dodany przez art. 21 pkt 10 lit. b tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:43:))
+
+w przypadku środków na wypłatę wyrównań za drugie półrocze 2024 r. i za 2025 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2 - do 15. dnia miesiąca poprzedzającego dany kwartał drugiego półrocza 2024 r. i 2025 r., przy czym w terminie 50 dni od dnia złożenia tego wniosku gmina może złożyć jego korektę;
+
+### 1c[41) Dodany przez art. 4 pkt 14 lit. b tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:41:))
+
+w przypadku środków na wypłatę świadczenia wyrównawczego dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2 - do dnia 31 kwietnia 2024 r., przy czym do dnia 30 czerwca 2024 r. gmina może złożyć jego korektę;
+
+### 2)
+
+w przypadku środków na wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych - do dnia 30 listopada 2022 r., przy czym do dnia 15 grudnia 2022 r. gmina może złożyć jego korektę.
+
+### 4.
+
+Środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych są przekazywane w kwartalnych ratach. Nadpłata środków może być zaliczana na poczet kwoty należnej w miesiącu następnym, z wyjątkiem nadpłaty za grudzień 2022 r., która podlega przekazaniu na rachunek właściwego urzędu wojewódzkiego w terminie do dnia 20 stycznia 2023 r.
+
+### 4a.
+
+Środki na realizację wypłaty wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, są przekazywane w kwartalnych ratach.[44) Zdanie pierwsze ze zmianą wprowadzoną przez art. 21 pkt 10 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:44:) Nadpłata środków może być zaliczana na poczet kwoty należnej w miesiącu następnym.
+
+### 5.
+
+Gmina przeznacza całość odsetek od otrzymanych środków na przedsięwzięcia służące zwiększeniu efektywności energetycznej.
+
+### 6.
+
+Jeżeli w wyniku połączenia lub podziału gmin nastąpiły zmiany w podstawie obliczania kwoty środków, wojewoda uwzględnia te zmiany od pierwszego dnia następnego miesiąca po ich wejściu w życie.
+
+### Art. 30.
+
+### 1[45) W brzmieniu ustalonym przez art. 21 pkt 11 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:45:).
+
+Gminy otrzymują środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych za pośrednictwem wojewodów w granicach kwot określonych na ten cel w planie finansowym Funduszu.
+
+### 2[45) W brzmieniu ustalonym przez art. 21 pkt 11 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:45:).
+
+Przy ustalaniu wysokości środków na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, wypłat wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych uwzględnia się koszty wypłacania odbiorcom tych rekompensat, wyrównań, świadczeń wyrównawczych oraz tych dodatków, w wysokości 2% łącznej kwoty środków wypłacanych przez gminę.
+
+### 3.
+
+Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie w terminie do:
+
+### 1)
+
+dnia 15 stycznia 2023 r. rozliczenie ze środków na realizację wypłat dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych z wyodrębnieniem liczby i kwoty wypłaconych dodatków;
+
+### 2)
+
+15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia udzielania rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych rekompensat, sporządzone narastająco za okres od dnia 1 października 2022 r. do dnia kończącego dany kwartał wypłaty rekompensat, z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
+
+### 3[46) Ze zmianą wprowadzoną przez art. 4 pkt 15 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:46:))
+
+15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za 2023 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 marca 2023 r. do dnia kończącego dany kwartał wypłaty wyrównań za 2023 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
+
+### 4[47) Dodany przez art. 4 pkt 15 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 11 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:47:))
+
+15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za pierwsze półrocze 2024 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 stycznia 2024 r. do dnia kończącego dany kwartał wypłaty wyrównań za pierwsze półrocze 2024 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału;
+
+### 5[48) Dodany przez art. 21 pkt 11 lit. b tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r.](#gloss-0:48:))
+
+15. dnia miesiąca następującego po pierwszych trzech miesiącach od rozpoczęcia wypłaty wyrównań za drugie półrocze 2024 r. i za 2025 r. dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, rozliczenie środków z wyodrębnieniem liczby i kwoty wypłaconych wyrównań, sporządzone narastająco za okres od dnia 1 lipca 2024 r. do dnia kończącego dany kwartał wypłaty wyrównań za 2025 r., z tym że zapotrzebowanie na środki ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału.
+
+### 4.
+
+Wniosek o przekazanie gminom środków na wypłaty rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2, oraz wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych właściwy wojewoda składa co kwartał do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie:
+
+### 1)
+
+na wypłaty za czwarty kwartał 2022 r. - do dnia 31 października 2022 r.;
+
+### 2)
+
+na wypłaty za pierwszy kwartał 2023 r. - do dnia 31 stycznia 2023 r.
+
+### 3)
+
+(uchylony)
+
+### 4a[49) Ze zmianą wprowadzoną przez art. 21 pkt 11 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:49:).
+
+Wniosek o przekazanie gminom środków na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3 oraz art. 3b ust. 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, właściwy wojewoda składa co kwartał do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego.
+
+### 4b.
+
+Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 2, w terminie:
+
+### 1)
+
+na wypłaty za pierwszy kwartał 2023 r. - do dnia 31 marca 2023 r.;
+
+### 2)
+
+na wypłaty za drugi kwartał 2023 r. - do dnia 30 kwietnia 2023 r.;
+
+### 3)
+
+na wypłaty za trzeci kwartał 2023 r. - do dnia 31 lipca 2023 r.;
+
+### 4)
+
+na wypłaty za czwarty kwartał 2023 r. - do dnia 31 października 2023 r.;
+
+### 5[50) Dodany przez art. 4 pkt 15 lit. d ustawy, o której mowa w odnośniku 2.](#gloss-0:50:))
+
+na wypłaty za pierwszy kwartał 2024 r. - do dnia 15 lutego 2024 r.;
+
+### 6[50) Dodany przez art. 4 pkt 15 lit. d ustawy, o której mowa w odnośniku 2.](#gloss-0:50:))
+
+na wypłaty za drugi kwartał 2024 r. - do dnia 30 kwietnia 2024 r.
+
+### 4ba[51) Dodany przez art. 21 pkt 11 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:51:).
+
+Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, w terminie:
+
+### 1)
+
+na wypłaty za trzeci kwartał 2024 r. - do dnia 31 sierpnia 2024 r.;
+
+### 2)
+
+na wypłaty za czwarty kwartał 2024 r. - do dnia 31 października 2024 r.;
+
+### 3)
+
+na wypłaty za pierwszy kwartał 2025 r. - do dnia 15 lutego 2025 r.;
+
+### 4)
+
+na wypłaty za drugi kwartał 2025 r. - do dnia 30 kwietnia 2025 r.
+
+### 4c.
+
+Wojewoda może nie częściej niż raz w miesiącu złożyć korektę wniosku, o którym mowa w art. 4a. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie do 30 dni od dnia otrzymania korekty wniosku.
+
+### 4d[52) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2](#gloss-0:52:).
+
+Wniosek o przekazanie gminom środków na wypłaty świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2, właściwy wojewoda składa jednorazowo do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty i numer rachunku bankowego, na który ma być ona przekazana.
+
+### 4e[52) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2](#gloss-0:52:).
+
+Minister właściwy do spraw energii przekazuje wojewodzie środki na wypłaty świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2, w terminie 30 dni od dnia złożenia wniosku.
+
+### 4f[53) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 11 lit. e ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:53:).
+
+Wojewoda może złożyć korektę wniosku w terminie do dnia 31 sierpnia 2024 r.
+
+### 4g[52) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2](#gloss-0:52:).
+
+Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie do 30 dni od dnia otrzymania korekty wniosku.
+
+### 5.
+
+Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazują niewykorzystane środki do Funduszu w terminie do dnia:
+
+### 1)
+
+31 stycznia 2023 r. - w przypadku środków na wypłatę dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych;
+
+### 2)
+
+31 grudnia 2023 r. - w przypadku środków na wypłatę rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 2;
+
+### 3)
+
+30 września 2024 r. - w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, i sprzedawców ciepła, o których mowa w 12c ust. 10 pkt 2;
+
+### 4[54) Dodany przez art. 4 pkt 15 lit. f ustawy, o której mowa w odnośniku 2.](#gloss-0:54:))
+
+31 marca 2025 r. - w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 3, za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.;
+
+### 5[54) Dodany przez art. 4 pkt 15 lit. f ustawy, o której mowa w odnośniku 2.](#gloss-0:54:))
+
+31 marca 2025 r. - w przypadku środków na wypłatę świadczeń wyrównawczych dla przedsiębiorstw energetycznych, o których mowa w art. 15a ust. 4 pkt 2;
+
+### 6[55) Dodany przez art. 21 pkt 11 lit. f ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:55:))
+
+30 września 2025 r. - w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, za okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r.;
+
+### 7[55) Dodany przez art. 21 pkt 11 lit. f ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:55:))
+
+31 grudnia 2025 r. - w przypadku środków na wypłatę wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3b ust. 2, za okres od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r.
+
+### 6.
+
+Wojewoda całość odsetek od otrzymanych środków przekazuje na rachunek Funduszu.
+
+### 7.
+
+Wójt, burmistrz albo prezydent miasta przedstawia wojewodzie informację o liczbie toczących się postępowań w sprawie wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz łącznej wysokości dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych będącej przedmiotem tych postępowań, w terminie do dnia 15 czerwca w latach 2023-2025.
+
+### 8.
+
+Wojewodowie przedstawiają ministrowi właściwemu do spraw energii zbiorczą informację o liczbie toczących się postępowań w sprawie wypłaty dodatków dla gospodarstw domowych i dodatków dla podmiotów wrażliwych, w których w związku z wniesieniem odwołania nie zapadło prawomocne rozstrzygnięcie organu administracji publicznej lub sądu administracyjnego, którego skutkiem jest przyznanie dodatku, oraz łącznej wysokości dodatków dla gospodarstw domowych i dodatków dla podmiotów będącej przedmiotem tych postępowań, w terminie do dnia 30 czerwca w latach 2023-2025.
+
+### 9[56) Dodany przez art. 21 pkt 11 lit. g ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:56:).
+
+Jeżeli dodatek dla gospodarstw domowych lub dodatek dla podmiotów wrażliwych został przyznany na skutek prawomocnego rozstrzygnięcia organu administracji publicznej lub sądu administracyjnego w postępowaniu w sprawie wypłaty dodatku dla gospodarstw domowych lub dodatku dla podmiotów wrażliwych, wójt, burmistrz albo prezydent miasta może zwrócić się do wojewody z wnioskiem o przyznanie środków na ten cel po terminie, o którym mowa w ust. 5 pkt 1.
+
+### 10[56) Dodany przez art. 21 pkt 11 lit. g ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:56:).
+
+Wojewoda składa wniosek o przyznanie środków na pokrycie dodatku dla gospodarstw domowych lub dodatku dla podmiotów wrażliwych, o których mowa w ust. 9, w terminie:
+
+### 1)
+
+do dnia 30 listopada 2024 r. - do ministra właściwego do spraw energii;
+
+### 2)
+
+od dnia 1 stycznia 2025 r. - do ministra właściwego do spraw finansów publicznych - z rezerwy celowej budżetu państwa na zobowiązania wymagalne Skarbu Państwa.
+
+### 11[56) Dodany przez art. 21 pkt 11 lit. g ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:56:).
+
+Wojewoda w terminie do dnia 31 grudnia 2024 r. składa korektę zbiorczego rozliczenia środków, o którym mowa w ust. 5 pkt 1.
+
+### 12[56) Dodany przez art. 21 pkt 11 lit. g ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:56:).
+
+Wypłata dodatków, o których mowa w ust. 9, od dnia 1 stycznia 2025 r. jest zadaniem zleconym gminie, finansowanym ze środków budżetu państwa.
+
+### Art. 31.
+
+### 1.
+
+W celu dalszego ograniczenia kosztów zakupu ciepła ponoszonych przez odbiorców, o których mowa w art. 4 ust. 1, gmina, na której obszarze ciepło wytwarzane przez dane przedsiębiorstwo energetyczne, o którym mowa w art. 3 ust. 1 i 2, jest dostarczane do odbiorców ciepła zamieszkujących lub mających siedzibę na jej obszarze, może udzielić takiemu przedsiębiorstwu energetycznemu dodatkowej rekompensaty z budżetu gminy.
+
+### 2.
+
+Dodatkowa rekompensata, o której mowa w ust. 1, jest udzielana i wypłacana na podstawie uchwały rady gminy, określającej w szczególności warunki i tryb jej ustalenia i przekazania oraz procent wartości rekompensaty ustalanej na podstawie art. 12 ust. 4. Dodatkowa rekompensata pomniejsza średnią cenę wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3, i nie stanowi podstawy do wyliczenia rekompensaty.
+
+### 3.
+
+Do naliczania, przekazywania, rozliczania i zwrotu nienależnie pobranej dodatkowej rekompensaty stosuje się odpowiednio przepisy art. 11, art. 13-15, art. 19 i art. 20.
+
+### 4.
+
+Jeżeli wartość dodatkowej rekompensaty, o której mowa w ust. 1, określonej w uchwale rady gminy wynosi więcej niż 10% rekompensaty, o której mowa w art. 12 ust. 3, gmina może zostać, w całości lub w części, zwolniona z konieczności zapewnienia wkładu własnego do inwestycji realizowanych ze środków Rządowego Funduszu Polski Ład: Programu Inwestycji Strategicznych, określonego w uchwale, o której mowa w art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, w ramach edycji, w których nabory wniosków o dofinansowanie zostaną ogłoszone po wejściu w życie ustawy.
+
+### 5.
+
+Zakres zwolnienia, o którym mowa w ust. 4, określi Rada Ministrów, w drodze uchwały.
+
+### Art. 31a.
+
+### 1.
+
+W celu dalszego ograniczenia kosztów zakupu ciepła ponoszonych przez odbiorców, o których mowa w art. 4 ust. 1, gmina, na której obszarze ciepło wytwarzane przez dane przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 2 i 3, jest dostarczane do odbiorców ciepła zamieszkujących lub mających siedzibę na jej obszarze, może udzielić takiemu przedsiębiorstwu energetycznemu dodatkowego wyrównania z budżetu gminy.
+
+### 2.
+
+Dodatkowe wyrównanie, o którym mowa w ust. 1, jest udzielane i wypłacane na podstawie uchwały rady gminy określającej w szczególności warunki i tryb jego ustalenia i przekazania oraz procent wartości wyrównania ustalanego na podstawie art. 12a ust. 1. Dodatkowe wyrównanie pomniejsza wysokość maksymalnej ceny dostawy ciepła, o której mowa w art. 3a ust. 2 pkt 1 albo ust. 3 pkt 2, i nie stanowi podstawy do wyliczenia rekompensaty lub wyrównania.
+
+### 3.
+
+Do naliczania, przekazywania, rozliczania i zwrotu nienależnie pobranej dodatkowej rekompensaty lub dodatkowego wyrównania stosuje się odpowiednio przepisy art. 12a ust. 1-9 i ust. 10 pkt 2, art. 12b ust. 1-6, art. 13 ust. 3, art. 14, art. 17, art. 19 i art. 20.
+
+### 4.
+
+Jeżeli wartość dodatkowego wyrównania, o którym mowa w ust. 1, określonego w uchwale rady gminy wynosi więcej niż 10% wyrównania, o którym mowa w art. 12a ust. 1, gmina może zostać w całości lub w części zwolniona z konieczności zapewnienia wkładu własnego do inwestycji realizowanych ze środków Rządowego Funduszu Polski Ład: Programu Inwestycji Strategicznych, określonego w uchwale, o której mowa w art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw, w ramach edycji, w których nabory wniosków o dofinansowanie zostaną ogłoszone po wejściu w życie ustawy.
+
+### 5.
+
+Zakres zwolnienia, o którym mowa w ust. 4, określi Rada Ministrów, w drodze uchwały.
+
+### Art. 32.
+
+### 1[57) W brzmieniu ustalonym przez art. 21 pkt 12 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:57:).
+
+Rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, świadczenia wyrównawcze dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, są wypłacane przez zarządcę rozliczeń.
+
+### 2[57) W brzmieniu ustalonym przez art. 21 pkt 12 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:57:).
+
+Zarządca rozliczeń otrzymuje środki na realizację wypłat rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, wypłat świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, z Funduszu w ramach limitu określonego na ten cel w planie finansowym Funduszu na rachunek bankowy wyodrębniony dla każdego roku kalendarzowego, za który jest wypłacana rekompensata, zwany dalej „rachunkiem rekompensaty ciepłowniczej”.
+
+### 3[57) W brzmieniu ustalonym przez art. 21 pkt 12 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:57:).
+
+Wniosek o przekazanie środków na wypłaty rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1, wypłaty świadczeń wyrównawczych dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównań dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 oraz art. 3b ust. 1, i sprzedawców ciepła, o których mowa w art. 12c ust. 10 pkt 1, zarządca rozliczeń składa nie częściej niż raz na miesiąc do ministra właściwego do spraw energii, określając łączną wysokość wnioskowanej kwoty środków i numer rachunku rekompensaty ciepłowniczej.
+
+### 4.
+
+Minister właściwy do spraw energii przekazuje środki zarządcy rozliczeń w terminie:
+
+### 1)
+
+dla czwartego kwartału 2022 r. - do dnia 31 października 2022 r.;
+
+### 2)
+
+dla pierwszego kwartału 2023 r. - do dnia 31 stycznia 2023 r.
+
+### 3)
+
+(uchylony)
+
+### 4a.
+
+Minister właściwy do spraw energii przekazuje środki zarządcy rozliczeń w terminie do 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 3.
+
+### 5[58) Ze zmianą wprowadzoną przez art. 21 pkt 12 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:58:).
+
+Zarządca rozliczeń przedstawia ministrowi właściwemu do spraw energii zbiorcze rozliczenie środków oraz przekazuje niewykorzystane środki do Funduszu w terminie do dnia 31 grudnia 2025 r.
+
+### 6.
+
+Środki uzyskane z Funduszu oraz odsetki od środków zgromadzonych na rachunku rekompensaty ciepłowniczej nie stanowią przychodu zarządcy rozliczeń w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2023 r. poz. 2805](https://api.sejm.gov.pl/eli/acts/DU/2023/2805/text.html) oraz [z 2024 r. poz. 232](https://api.sejm.gov.pl/eli/acts/DU/2024/232/text.html), [854](https://api.sejm.gov.pl/eli/acts/DU/2024/854/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)).
+
+### 7.
+
+Zarządca rozliczeń przeznacza całość odsetek od środków zgromadzonych na rachunku rekompensaty ciepłowniczej na wypłatę rekompensat i na wypłatę wyrównań oraz na wypłatę świadczeń wyrównawczych.[59) Zdanie pierwsze ze zmianą wprowadzoną przez art. 4 pkt 16 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:59:) Niewydatkowane środki podlegają zwrotowi do Funduszu w terminie, o którym mowa w ust. 5.
+
+### 8.
+
+Środki przekazane przez zarządcę rozliczeń na rzecz podmiotów uprawnionych oraz wydatki i koszty finansowane ze środków, o których mowa w ust. 6, nie stanowią u zarządcy rozliczeń kosztów uzyskania przychodu w rozumieniu ustawy wymienionej w ust. 6.
+
+### 9.
+
+Szczegółowe zasady współpracy ministra właściwego do spraw energii oraz zarządcy rozliczeń w zakresie przekazywania środków na rachunek rekompensaty ciepłowniczej oraz wymiany dokumentów i informacji określa umowa.
+
+### 10.
+
+Zarządca rozliczeń nie pobiera wynagrodzenia za realizację zadań wynikających z ustawy, a koszty z tym związane pokrywa w ramach kosztów działalności, o której mowa w art. 49 ust. 1 ustawy z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej.
+
+### Art. 33.
+
+### 1.
+
+W roku 2023 Rada Ministrów może, w drodze uchwały, na wniosek Prezesa Rady Ministrów, upoważnić ministra właściwego do spraw finansów publicznych do udzielenia Rządowej Agencji Rezerw Strategicznych, o której mowa w ustawie z dnia 17 grudnia 2020 r. o rezerwach strategicznych ([Dz. U. z 2023 r. poz. 294](https://api.sejm.gov.pl/eli/acts/DU/2023/294/text.html) oraz [z 2024 r. poz. 834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html)), zwanej dalej „Agencją”, pożyczki ze środków budżetu państwa do kwoty 8 600 000 000 zł na finansowanie zadań związanych z przeciwdziałaniem sytuacjom kryzysowym na rynku surowców energetycznych.
+
+### 2.
+
+Pożyczka, o której mowa w ust. 1, jest nieoprocentowana.
+
+### 3.
+
+Umowa pożyczki, o której mowa w ust. 1, określa w szczególności:
+
+### 1)
+
+opis zadania, na które jest udzielana pożyczka;
+
+### 2)
+
+sposób ustalania transz pożyczki - w przypadku wypłaty pożyczki w transzach;
+
+### 3)
+
+warunki przekazywania środków;
+
+### 4)
+
+tryb i termin rozliczenia pożyczki;
+
+### 5)
+
+harmonogram i sposób zwrotu pożyczki.
+
+### 4.
+
+Umowa pożyczki, o której mowa w ust. 1, podlega uzgodnieniu z Prezesem Rady Ministrów.
+
+### 5.
+
+Środki z tytułu pożyczki, o której mowa w ust. 1:
+
+### 1)
+
+wykorzystane niezgodnie z przeznaczeniem,
+
+### 2)
+
+pobrane nienależnie lub w nadmiernej wysokości
+
+- podlegają zwrotowi do budżetu państwa wraz z odsetkami liczonymi jak dla zaległości podatkowych, w terminie 15 dni od dnia stwierdzenia okoliczności, o których mowa w pkt 1 lub 2.
+
+### 6.
+
+Do środków podlegających zwrotowi do budżetu państwa, o których mowa w ust. 5, stosuje się odpowiednio przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2023 r. poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2023/1270/text.html), z późn. zm.[60) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089.](#gloss-0:60:)) o dotacjach celowych z budżetu państwa oraz o niepodatkowych należnościach budżetowych o charakterze publicznoprawnym.
+
+### 7.
+
+Ograniczenie, o którym mowa w art. 21 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, nie dotyczy zwiększenia planu finansowego Agencji z tytułu uzyskania pożyczki z budżetu państwa, o której mowa w ust. 1.
+
+### 8.
+
+Ograniczeń, o których mowa w art. 21 ust. 6 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, w 2022 r. nie stosuje się do zobowiązań zaciąganych wobec Banku Gospodarstwa Krajowego na finansowanie zadań, o których mowa w ust. 1.
+
+### 9.
+
+Środki z tytułu pożyczki, o której mowa w ust. 1, mogą być przeznaczone na spłatę kredytu, o którym mowa w art. 35 ust. 1.
+
+### Art. 34.
+
+### 1.
+
+Podmioty, o których mowa w art. 7a ust. 1 pkt 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym ([Dz. U. z 2023 r. poz. 122](https://api.sejm.gov.pl/eli/acts/DU/2023/122/text.html) oraz [z 2024 r. poz. 834](https://api.sejm.gov.pl/eli/acts/DU/2024/834/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)), którym w drodze decyzji administracyjnej wydano polecenie zakupu węgla energetycznego i sprowadzenie go do Polski, lub spółki dominujące w rozumieniu art. 4 § 1 pkt 4 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. z 2024 r. poz. 18](https://api.sejm.gov.pl/eli/acts/DU/2024/18/text.html) i [96](https://api.sejm.gov.pl/eli/acts/DU/2024/96/text.html)) wobec tych podmiotów mogą, jeżeli prawidłowa realizacja polecenia tego wymaga:
+
+### 1)
+
+zaciągać kredyty na rynku krajowym lub zagranicznym,
+
+### 2)
+
+pozyskiwać limity na gwarancje bankowe lub limity na akredytywy bankowe,
+
+### 3)
+
+pozyskiwać limity kredytowe na transakcje skarbowe zabezpieczające ryzyko zmienności kursu walutowego lub ryzyko zmienności cen węgla
+
+- w okresie od dnia wejścia w życie niniejszej ustawy do dnia 30 kwietnia 2023 r., których termin spłaty lub wygaśnięcia przypada przed dniem 1 stycznia 2026 r.
+
+### 2.
+
+Zobowiązania, o których mowa w ust. 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+
+### 3.
+
+Zobowiązania z tytułu kredytów, o których mowa w ust. 1, są objęte gwarancją, o której mowa w ust. 2, również w przypadku, gdy środki pozyskane z tych kredytów są przeznaczone na spłatę zobowiązań z tytułu innych kredytów zaciągniętych w celu prawidłowej realizacji polecenia, o którym mowa w ust. 1, przez podmioty lub spółki dominujące, o których mowa w ust. 1.
+
+### 4.
+
+Do gwarancji, o której mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ([Dz. U. z 2024 r. poz. 291](https://api.sejm.gov.pl/eli/acts/DU/2024/291/text.html)), z wyjątkiem przepisów art. 2b ust. 1, art. 44, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
+
+### 5.
+
+Gwarancje, o których mowa w ust. 2, są udzielane do wysokości:
+
+### 1)
+
+100% pozostających do spłaty świadczeń pieniężnych wynikających z kredytu objętego gwarancją, wraz ze 100% należnych odsetek od tego kredytu i innych kosztów bezpośrednio związanych z tym kredytem;
+
+### 2)
+
+100% wartości limitu na gwarancje bankowe lub akredytywy bankowe;
+
+### 3)
+
+100% wartości limitu kredytowego na transakcje skarbowe zabezpieczające ryzyko zmienności kursu walutowego lub ryzyko zmienności cen węgla.
+
+### 6.
+
+Łączna kwota gwarancji, o której mowa w ust. 2, udzielonej za zobowiązania podmiotów lub spółek dominujących, o których mowa w ust. 1, nie może przekroczyć 21 000 000 000 zł.
+
+### 7.
+
+Podmioty lub spółki dominujące, o których mowa w ust. 1, są zwolnione z obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa z tytułu gwarancji, o których mowa w ust. 2, i wniesienia opłaty prowizyjnej od tej gwarancji.
+
+### 8.
+
+Gwarancje, o których mowa w ust. 2, są skuteczne pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, w imieniu Skarbu Państwa, oświadczenia o objęciu gwarancją zobowiązań, o których mowa w ust. 1. Oświadczenie może obejmować łącznie zobowiązania, o których mowa w ust. 1 pkt 1, 2 lub 3.
+
+### 9.
+
+Przeniesienie praw wynikających z gwarancji, o której mowa w ust. 2, może nastąpić tylko za zgodą ministra właściwego do spraw finansów publicznych, działającego w imieniu Skarbu Państwa.
+
+### 10.
+
+Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania gwarancji, o której mowa w ust. 2.
+
+### 11.
+
+Bank w rozumieniu art. 2 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2023 r. poz. 2488](https://api.sejm.gov.pl/eli/acts/DU/2023/2488/text.html) oraz [z 2024 r. poz. 879](https://api.sejm.gov.pl/eli/acts/DU/2024/879/text.html)), na rzecz którego udzielona została gwarancja, o której mowa w ust. 2, jest obowiązany do przekazywania do ministra właściwego do spraw finansów publicznych informacji o udzielonych:
+
+### 1)
+
+kredytach,
+
+### 2)
+
+limitach na gwarancje bankowe oraz poszczególnych gwarancjach bankowych,
+
+### 3)
+
+limitach na akredytywy bankowe oraz poszczególnych akredytywach bankowych,
+
+### 4)
+
+limitach kredytowych na transakcje skarbowe
+
+- na warunkach i w terminach wynikających z oświadczenia, o którym mowa w ust. 8.
+
+### 12.
+
+Rada Ministrów może umorzyć w całości lub części wierzytelności Skarbu Państwa powstałe z tytułu udzielonej gwarancji, o której mowa w ust. 2, na wniosek ministra właściwego do spraw finansów publicznych.
+
+### 13.
+
+Podmioty oraz spółki dominujące, o których mowa w ust. 1, są obowiązane na każde żądanie ministra właściwego do spraw finansów publicznych niezwłocznie przekazywać dokumenty i informacje niezbędne do oszacowania ryzyka dokonania zapłaty oraz prowadzenia ewidencji należności i zobowiązań z tytułu udzielonej gwarancji, o której mowa w ust. 2.
+
+### 14.
+
+Do obliczania terminu spłaty zobowiązań, o którym mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2024 r. poz. 1061](https://api.sejm.gov.pl/eli/acts/DU/2024/1061/text.html) i [1237](https://api.sejm.gov.pl/eli/acts/DU/2024/1237/text.html)).
+
+### Art. 35.
+
+### 1.
+
+W przypadku podjęcia przez Prezesa Rady Ministrów decyzji o zakupie przez Agencję węgla energetycznego od podmiotów, o których mowa w art. 7a ust. 1 pkt 4 ustawy z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, którym w drodze decyzji administracyjnej wydano polecenie zakupu węgla energetycznego i sprowadzenie go do Polski, Agencja może, w okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2022 r., zaciągnąć w Banku Gospodarstwa Krajowego kredyt w celu realizacji tej decyzji administracyjnej.
+
+### 2.
+
+Zobowiązania z tytułu kredytu, o którym mowa w ust. 1, są objęte gwarancją Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw finansów publicznych.
+
+### 3.
+
+Do gwarancji, o której mowa w ust. 2, nie stosuje się przepisów ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne, z wyjątkiem przepisów art. 2b ust. 1, art. 45 i art. 46 tej ustawy, które stosuje się odpowiednio.
+
+### 4.
+
+Gwarancja, o której mowa w ust. 2, jest udzielana do wysokości 100% pozostających do spłaty świadczeń pieniężnych wynikających z kredytu objętego gwarancją wraz ze 100% należnych odsetek od tego kredytu i innych kosztów bezpośrednio związanych z tym kredytem.
+
+### 5.
+
+Łączna kwota gwarancji, o której mowa w ust. 2, nie może przekroczyć 8 600 000 000 zł.
+
+### 6.
+
+Agencja jest zwolniona z obowiązku ustanowienia zabezpieczenia na rzecz Skarbu Państwa z tytułu gwarancji, o której mowa w ust. 2, i wniesienia opłaty prowizyjnej od tej gwarancji.
+
+### 7.
+
+Gwarancja, o której mowa w ust. 2, jest skuteczna pod warunkiem złożenia przez ministra właściwego do spraw finansów publicznych, w imieniu Skarbu Państwa, oświadczenia o objęciu gwarancją zobowiązania z tytułu kredytu, o którym mowa w ust. 1.
+
+### 8.
+
+Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania gwarancji, o której mowa w ust. 2.
+
+### 9.
+
+Rada Ministrów może umorzyć w całości lub części wierzytelności Skarbu Państwa powstałe z tytułu udzielonej gwarancji, o której mowa w ust. 2, na wniosek ministra właściwego do spraw finansów publicznych.
+
+### 10.
+
+Agencja jest obowiązana na każde żądanie ministra właściwego do spraw finansów publicznych niezwłocznie przekazywać dokumenty i informacje niezbędne do oszacowania ryzyka dokonania zapłaty oraz prowadzenia ewidencji należności i zobowiązań z tytułu udzielonej gwarancji, o której mowa w ust. 2.
+
+### Rozdział 5 Przepisy karne i przepisy o karach pieniężnych
+
+### Art. 36.
+
+### 1.
+
+Kto nie dopełnia obowiązku złożenia oświadczenia, o którym mowa w art. 5 ust. 1, w imieniu i na rzecz podmiotów określonych w art. 4 ust. 1 pkt 2 i 3, podlega karze grzywny od 500 do 50 000 złotych.
+
+### 1a[61) Ze zmianą wprowadzoną przez art. 21 pkt 13 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:61:).
+
+Kto nie dopełnia obowiązku, o którym mowa w art. 23 ust. 1 pkt 1, 4 lub 6 oraz art. 23a ust. 1 pkt 1 i 4, podlega karze grzywny od 500 do 50 000 złotych.
+
+### 1b[62) Ze zmianą wprowadzoną przez art. 21 pkt 13 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:62:).
+
+Kto nie dopełnia obowiązku, o którym mowa w art. 23 ust. 1 pkt 2, 3, 5 i 7 oraz art. 23a ust. 1 pkt 2, 3 i 5 w związku z ust. 2, podlega karze grzywny.
+
+### 2.
+
+W przypadku ukarania za czyn określony w ust. 1 osoby, która nie dopełniła obowiązku złożenia oświadczenia w imieniu i na rzecz podmiotów, o których mowa w art. 4 ust. 1 pkt 2, sąd może orzec zakaz zajmowania stanowiska członka zarządu wspólnoty mieszkaniowej lub członka zarządu spółdzielni mieszkaniowej.
+
+### 3.
+
+Orzekanie w sprawach określonych w ust. 1-1b następuje w trybie przewidzianym przepisami ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2024 r. poz. 977](https://api.sejm.gov.pl/eli/acts/DU/2024/977/text.html)).
+
+### Art. 37.
+
+### 1[63) Ze zmianą wprowadzoną przez art. 4 pkt 17 ustawy, o której mowa w odnośniku 2.](#gloss-0:63:).
+
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3 ust. 1 lub 2, które nie stosuje się do obowiązku określonego w art. 3 ust. 1 lub 2, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15% przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15% przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+### 1a[63) Ze zmianą wprowadzoną przez art. 4 pkt 17 ustawy, o której mowa w odnośniku 2.](#gloss-0:63:).
+
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3a ust. 1 albo 3, które nie stosuje się do obowiązku określonego w art. 3a ust. 2 albo 3, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15% przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15% przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+### 1aa[64) Dodany przez art. 21 pkt 14 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:64:).
+
+Przedsiębiorstwo energetyczne, o którym mowa w art. 3b ust. 1 albo 2, które nie stosuje się do obowiązku określonego w art. 3b ust. 1 albo 2, podlega karze pieniężnej w wysokości nie niższej niż 10 000 zł i nie wyższej niż 15% przychodu ukaranego przedsiębiorstwa osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15% przychodu ukaranego przedsiębiorstwa, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+### 1b[63) Ze zmianą wprowadzoną przez art. 4 pkt 17 ustawy, o której mowa w odnośniku 2.](#gloss-0:63:).
+
+Sprzedawca ciepła, który w terminie nie stosuje się do obowiązku, o którym mowa w art. 12e ust. 1 lub 2, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 15% przychodu ukaranego sprzedawcy osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary nie może być niższa niż 100 000 zł i nie wyższa niż 15% przychodu ukaranego sprzedawcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+### 2.
+
+Niezależnie od kary pieniężnej określonej w ust. 1-1b, Prezes URE może nałożyć karę pieniężną na kierownika przedsiębiorstwa energetycznego, o którym mowa w ust. 1-1aa, oraz kierownika sprzedawcy ciepła, o którym mowa w ust. 1b.[65) Zdanie pierwsze ze zmianą wprowadzoną przez art. 21 pkt 14 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:65:) Kara nałożona na kierownika może być wymierzona w kwocie nie większej niż 300% jego miesięcznego wynagrodzenia.
+
+### 3.
+
+Kto w terminie nie realizuje obowiązku, o którym mowa w art. 10, podlega karze pieniężnej w wysokości 10 000 zł.
+
+### 4.
+
+Kary pieniężne, o których mowa w ust. 1-3, wymierza Prezes URE.
+
+### 5.
+
+Do kar pieniężnych, o których mowa w ust. 1-3, stosuje się przepisy art. 56 ust. 4 i 6-7a ustawy - Prawo energetyczne.
+
+### 6.
+
+Kary pieniężne, o których mowa w ust. 1-3, stanowią dochód budżetu państwa.
+
+### Rozdział 6 Przepisy zmieniające
+
+### Art. 38-50.
+
+(pominięte)
+
+### Rozdział 7 Przepisy przejściowe i przepis końcowy
+
+### Art. 51.
+
+### 1.
+
+Środki podlegające przekazaniu na podstawie art. 49 ust. 2e ustawy zmienianej w art. 46, które w 2022 r. na podstawie art. 49 ust. 2 ustawy zmienianej w art. 46[66) Artykuł 46 zawiera zmiany do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych.](#gloss-0:66:) zostały przekazane na rachunek dochodów budżetu państwa przed dniem wejścia w życie niniejszej ustawy, minister właściwy do spraw klimatu przekazuje na rachunek Funduszu w terminach określonych w ust. 2.
+
+### 2.
+
+Środki, o których mowa w art. 49 ust. 2 ustawy zmienianej w art. 46[66) Artykuł 46 zawiera zmiany do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych.](#gloss-0:66:), uzyskane z aukcji przeprowadzonych:
+
+### 1)
+
+w pierwszym kwartale 2022 r. - podlegają przekazaniu do dnia 20 października 2022 r.;
+
+### 2)
+
+w drugim kwartale 2022 r. - podlegają przekazaniu do dnia 21 listopada 2022 r.;
+
+### 3)
+
+w trzecim kwartale 2022 r. - podlegają przekazaniu do dnia 20 grudnia 2022 r.
+
+### 3.
+
+Kwoty przekazane na podstawie ust. 1 pomniejszają dochody budżetu państwa.
+
+### Art. 52.
+
+Do postępowań w sprawie wypłaty dodatku węglowego wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy prowadzonych na podstawie ustawy zmienianej w art. 50[67) Artykuł 50 zawiera zmiany do ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym.](#gloss-0:67:) stosuje się przepisy w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 53.
+
+### 1.
+
+Odbiorcy, o których mowa w art. 4 ust. 1 pkt 2 i 3, składają po raz pierwszy oświadczenie, o którym mowa w art. 5 ust. 1, sprzedawcy ciepła, który w dniu wejścia w życie ustawy, na mocy umowy sprzedaży ciepła lub umowy kompleksowej, dostarcza ciepło tym odbiorcom, w terminie 21 dni od dnia wejścia w życie ustawy.
+
+### 2.
+
+Odbiorcy, o których mowa w art. 4 ust. 1 pkt 4, składają po raz pierwszy oświadczenia, o których mowa w art. 6 ust. 1, sprzedawcy ciepła, który w dniu wejścia w życie ustawy, na mocy umowy sprzedaży ciepła, dostarcza ciepło tym odbiorcom, w terminie 21 dni od dnia wejścia w życie ustawy.
+
+### 3.
+
+Niezłożenie przez odbiorców, o których mowa w art. 4 ust. 1 pkt 4, oświadczeń, o których mowa w art. 6 ust. 1, w terminie określonym w ust. 2 uprawnia sprzedawcę ciepła do niestosowania wobec tych odbiorców średniej ceny wytwarzania ciepła z rekompensatą, o której mowa w art. 3 ust. 3.
+
+### 4.
+
+Złożenie przez odbiorców, o których mowa w art. 4 ust. 1 pkt 4, oświadczeń, o których mowa w art. 6 ust. 1, po upływie terminu określonego w ust. 2, zobowiązuje sprzedawcę ciepła do stosowania wobec tych odbiorców średniej ceny wytwarzania ciepła z rekompensatą ze skutkiem od miesiąca następującego po miesiącu, w którym złożono oświadczenie.
+
+### Art. 54.
+
+Przedsiębiorca wykonujący działalność gospodarczą w zakresie wprowadzania do obrotu paliw stałych może pobierać dane z deklaracji o źródłach ciepła lub źródłach spalania paliw, o której mowa w art. 27g ustawy zmienianej w art. 44[68) Artykuł 44 zawiera zmiany do ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.](#gloss-0:68:), z centralnej ewidencji emisyjności budynków, o której mowa w art. 27a ust. 1 ustawy zmienianej w art. 44[68) Artykuł 44 zawiera zmiany do ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.](#gloss-0:68:), celem potwierdzenia złożenia przez klienta indywidualnego deklaracji o źródłach ciepła lub źródłach spalania paliw.
+
+### Art. 55.
+
+### 1.
+
+Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie systemu teleinformatycznego umożliwiającego prezentowanie informacji o:
+
+### 1)
+
+cenach paliw stałych;
+
+### 2)
+
+cenach lub stawkach opłat za ciepło, w tym:
+
+### a)
+
+średnich cenach wytwarzania ciepła,
+
+### b)
+
+średnich cenach wytwarzania ciepła z rekompensatą,
+
+### c)
+
+cenach dostawy ciepła,
+
+### d)
+
+maksymalnych cenach dostawy ciepła.
+
+### 2.
+
+Zapewniając funkcjonowanie systemu teleinformatycznego, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji:
+
+### 1)
+
+zapewnia ochronę przed nieuprawnionym dostępem do systemu teleinformatycznego;
+
+### 2)
+
+zapewnia integralność danych w systemie teleinformatycznym;
+
+### 3)
+
+zapewnia dostępność systemu teleinformatycznego dla podmiotów przetwarzających dane w tym systemie;
+
+### 4)
+
+przeciwdziała uszkodzeniom systemu teleinformatycznego;
+
+### 5)
+
+określa zasady bezpieczeństwa przetwarzanych danych, w tym danych osobowych;
+
+### 6)
+
+określa zasady zgłoszenia naruszenia ochrony danych osobowych;
+
+### 7)
+
+zapewnia rozliczalność działań dokonywanych na danych w systemie teleinformatycznym.
+
+### 3.
+
+Do wprowadzania i bieżącej aktualizacji informacji, o których mowa w ust. 1:
+
+### 1)
+
+pkt 1 - obowiązane są pośredniczące podmioty węglowe, o których mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45[69) Artykuł 45 zawiera zmiany do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.](#gloss-0:69:), oraz gminy w zakresie, o którym mowa w art. 5 ust. 4 ustawy z dnia 27 października 2022 r. o zakupie preferencyjnym paliwa stałego dla gospodarstw domowych ([Dz. U. z 2024 r. poz. 114](https://api.sejm.gov.pl/eli/acts/DU/2024/114/text.html));
+
+### 2)
+
+pkt 2 - obowiązane są podmioty, o których mowa w art. 3 ust. 2.
+
+### 4.
+
+Korzystanie z systemu teleinformatycznego, o którym mowa w ust. 1, w celu wprowadzania informacji, o których mowa w ust. 1 pkt 1 i 2, wymaga utworzenia w tym systemie konta stanowiącego wydzieloną część tego systemu, zawierającą zbiór danych identyfikujących użytkownika z przyporządkowanymi zasobami tego systemu.
+
+### 5.
+
+W celu założenia konta, o którym mowa w ust. 4, przedstawiciel podmiotu, o którym mowa w ust. 3, zamieszcza w systemie teleinformatycznym, o którym mowa w ust. 1, następujące dane:
+
+### 1)
+
+nazwa podmiotu, w imieniu którego przedstawiciel podmiotu występuje;
+
+### 2)
+
+adres miejsca wykonywania działalności gospodarczej lub adres siedziby podmiotu;
+
+### 3)
+
+numer identyfikacji podatkowej (NIP) podmiotu;
+
+### 4)
+
+identyfikator podmiotu nadany w Platformie Usług Elektronicznych Skarbowo-Celnych, o której w art. 35a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2023 r. poz. 615](https://api.sejm.gov.pl/eli/acts/DU/2023/615/text.html), z późn. zm.[70) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222.](#gloss-0:70:));
+
+### 5)
+
+identyfikator przedstawiciela podmiotu nadany w Platformie Usług Elektronicznych Skarbowo-Celnych, o której w art. 35a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+
+### 6)
+
+imię i nazwisko przedstawiciela podmiotu;
+
+### 7)
+
+numer PESEL przedstawiciela podmiotu;
+
+### 8)
+
+adres poczty elektronicznej podmiotu lub przedstawiciela podmiotu;
+
+### 9)
+
+numer telefonu podmiotu lub przedstawiciela podmiotu.
+
+### 6.
+
+Uwierzytelnienie przedstawiciela podmiotu następuje w sposób, o którym mowa w art. 20a ust. 1 lub 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2024 r. poz. 307](https://api.sejm.gov.pl/eli/acts/DU/2024/307/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)).
+
+### 7.
+
+Założenie konta podmiotu, o którym w ust. 3 pkt 1, jest możliwe po pozytywnej weryfikacji danych wskazanych w ust. 5 pkt 1-7 z danymi zawartymi w Centralnym Rejestrze Podmiotów Akcyzowych, o którym mowa w art. 18 ust. 1 ustawy zmienianej w art. 45[69) Artykuł 45 zawiera zmiany do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.](#gloss-0:69:).
+
+### 8.
+
+Założenie konta, o którym w ust. 7, umożliwia przedstawicielowi podmiotu dodawanie w systemie teleinformatycznym, o którym mowa w ust. 1, informacji o adresach punktów sprzedaży tego podmiotu oraz przedstawicieli tych punktów sprzedaży, uprawnionych do zamieszczania informacji, o których mowa w ust. 1 pkt 1.
+
+### 9.
+
+Minister właściwy do spraw informatyzacji jest administratorem danych przetwarzanych w systemie teleinformatycznym, o którym mowa w ust. 1.
+
+### Art. 56.
+
+### 1.
+
+Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie systemu teleinformatycznego służącego zapewnieniu interoperacyjności systemów sprzedażowych podmiotów, o których mowa w art. 54, w celu umożliwienia kontroli limitów nabywania paliw stałych przez odbiorców indywidualnych.
+
+### 2.
+
+W celu nabycia przez odbiorcę indywidualnego paliw stałych do wysokości limitu wyznaczonego przez podmiot, o którym mowa w art. 54, odbiorca ten jest obowiązany zarejestrować się w systemie sprzedażowym tego podmiotu.
+
+### 3.
+
+Podczas dokonywania rejestracji, o której mowa w ust. 2, odbiorca indywidualny podaje numer PESEL oraz numer deklaracji o źródłach ciepła lub źródłach spalania paliw, o której mowa w art. 27g ustawy zmienianej w art. 44[68) Artykuł 44 zawiera zmiany do ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków.](#gloss-0:68:).
+
+### 4.
+
+Podmiot, o którym mowa w art. 54, jest obowiązany dokonać weryfikacji:
+
+### 1)
+
+numeru deklaracji zgodnie z art. 54;
+
+### 2)
+
+czy dla danego numeru PESEL w systemie sprzedażowym innego podmiotu zostały nabyte paliwa stałe do wysokości wyznaczonego limitu.
+
+### 5.
+
+System teleinformatyczny, o którym mowa w ust. 1, umożliwia podmiotowi, o którym mowa w art. 54, realizację obowiązku, o którym mowa w ust. 4 pkt 2.
+
+### 6.
+
+Podmiot, o którym mowa w art. 54, po uzyskaniu, z wykorzystaniem systemu teleinformatycznego, o którym mowa w ust. 1, informacji, że odbiorca indywidualny wykorzystał limit zakupu paliw stałych, nie może dokonać sprzedaży paliw stałych na rzecz tego odbiorcy.
+
+### 7.
+
+Podmioty, o których mowa w art. 54, wykonują obowiązki administratora danych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) ([Dz. Urz. UE L 119 z 04.05.2016, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[71) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35.](#gloss-0:71:)) w zakresie danych wprowadzonych do systemów, o których mowa w ust. 1.
+
+### 8.
+
+Zapewniając funkcjonowanie systemu teleinformatycznego, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji:
+
+### 1)
+
+zapewnia ochronę przed nieuprawnionym dostępem do systemu teleinformatycznego;
+
+### 2)
+
+zapewnia dostępność systemu teleinformatycznego dla podmiotów przetwarzających dane w tym systemie;
+
+### 3)
+
+przeciwdziała uszkodzeniom systemu teleinformatycznego;
+
+### 4)
+
+zapewnia rozliczalność działań dokonywanych w systemie teleinformatycznym.
+
+### 9.
+
+Minister właściwy do spraw informatyzacji przetwarza w systemie teleinformatycznym, o którym mowa w ust. 1, dane w celu realizacji zadań, o których mowa w ust. 8.
+
+### Art. 56a.
+
+### 1.
+
+Obowiązany pośredniczący podmiot węglowy, o którym mowa w art. 2 ust. 1 pkt 23a ustawy zmienianej w art. 45[69) Artykuł 45 zawiera zmiany do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.](#gloss-0:69:), lub obowiązany podmiot, o którym mowa w art. 3 ust. 2, który:
+
+### 1)
+
+nie dopełnia obowiązku wprowadzania i bieżącej aktualizacji informacji, o których mowa w art. 55 ust. 1,
+
+### 2)
+
+nie tworzy konta, o którym mowa w art. 55 ust. 4
+
+- podlega karze pieniężnej.
+
+### 2.
+
+Karę pieniężną, o której mowa w ust. 1, w wysokości do 1500 zł, nakłada w drodze decyzji administracyjnej, naczelnik urzędu celno-skarbowego właściwy ze względu na siedzibę podmiotu, o którym mowa w ust. 1.
+
+### 3.
+
+W przypadku stwierdzenia, że po wymierzeniu kary w wysokości, o której mowa w ust. 2, obowiązany podmiot, ponownie nie dopełnia obowiązku, o którym mowa w ust. 1 pkt 1 lub 2, kara, o której mowa w ust. 1, może zostać nałożona w wysokości do 15 000 zł.
+
+### 4.
+
+Wpływy z kar pieniężnych, o których mowa w ust. 1, stanowią dochód budżetu państwa.
+
+### Art. 57.
+
+Minister właściwy do spraw informatyzacji ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających stosowanie przepisów art. 55 i art. 56.
+
+### Art. 58.
+
+### 1.
+
+Wniosek o wypłatę rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 12 ust. 1, za październik 2022 r. składa się w terminie od dnia 30 października 2022 r. do dnia 2 grudnia 2022 r.
+
+### 2.
+
+(uchylony)
+
+### Art. 59.
+
+### 1.
+
+Jeżeli wytwórca ciepła w okresie od dnia 1 października 2022 r. do dnia 28 lutego 2023 r. stosuje średnią cenę wytwarzania ciepła z rekompensatą, w rozliczeniach z odbiorcami podaje cenę ciepła, cenę za zamówioną moc cieplną oraz cenę nośnika ciepła lub stawki opłaty miesięcznej za zamówioną moc cieplną i stawki opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą oraz zamieszcza je na swojej stronie internetowej.
+
+### 2.
+
+Sprzedawca ciepła na rachunku przekazywanym odbiorcy, o którym mowa w art. 4 ust. 1, informuje o kwocie pomniejszenia kosztów zakupu ciepła w wyniku zastosowanej rekompensaty.
+
+### Art. 59a.
+
+### 1[72) Ze zmianą wprowadzoną przez art. 4 pkt 18 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 15 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:72:).
+
+Jeżeli sprzedawca ciepła, w okresie od dnia 1 października 2022 r. do dnia 30 czerwca 2025 r., stosuje maksymalną cenę dostawy ciepła, zamieszcza o tym informację na swojej stronie internetowej wraz z podaniem tej ceny, jednostkowej wysokości wyrównania i ceny dostawy ciepła bez wyrównania.
+
+### 2.
+
+Sprzedawca ciepła na rachunku przekazywanym odbiorcy, o którym mowa w art. 4 ust. 1, informuje o kwocie pomniejszenia kosztów zakupu ciepła w wyniku zastosowanego wyrównania wraz z podaniem maksymalnej ceny dostawy ciepła, jednostkowej wysokości wyrównania i ceny dostawy ciepła bez wyrównania.
+
+### Art. 59b[73) Dodany przez art. 4 pkt 19 ustawy, o której mowa w odnośniku 2.](#gloss-0:73:).
+
+### 1.
+
+Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 30 września 2024 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 marca 2023 r. do dnia 30 czerwca 2024 r., w terminie 7 dni od dnia złożenia tego wniosku.
+
+### 1a[74) Dodany przez art. 21 pkt 16 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:74:).
+
+Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 31 marca 2025 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r., w terminie 7 dni od dnia złożenia tego wniosku.
+
+### 1b[74) Dodany przez art. 21 pkt 16 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:74:).
+
+Wytwórca ciepła, na wniosek sprzedawcy ciepła w danym systemie ciepłowniczym złożony nie później niż do dnia 30 września 2025 r., jest obowiązany przekazać temu sprzedawcy ciepła informację o cenie ciepła, cenie za zamówioną moc cieplną oraz cenie nośnika ciepła lub stawce opłaty miesięcznej za zamówioną moc cieplną i stawce opłaty za ciepło w wysokości odpowiadającej średniej cenie wytwarzania ciepła z rekompensatą, za każdy miesiąc wskazany w tym wniosku przypadający w okresie od dnia 1 stycznia 2025 r. do dnia 30 czerwca 2025 r., w terminie 7 dni od dnia złożenia tego wniosku.
+
+### 2[75) Ze zmianą wprowadzoną przez art. 21 pkt 16 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:75:).
+
+Wytwórca ciepła, który nie stosuje się do obowiązków, o których mowa w ust. 1-1b, podlega karze pieniężnej w wysokości nie niższej niż 100 000 zł i nie wyższej niż 10% przychodu ukaranego wytwórcy osiągniętego w poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością wykonywaną na podstawie koncesji, to wysokość tej kary pieniężnej nie może być niższa niż 100 000 zł i nie wyższa niż 10% przychodu ukaranego wytwórcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
+
+### 3.
+
+Karę pieniężną, o której mowa w ust. 2, wymierza w drodze decyzji administracyjnej Prezes URE.
+
+### 4.
+
+Do kary pieniężnej, o której mowa w ust. 2, stosuje się przepisy art. 56 ust. 4 i 6-7a ustawy - Prawo energetyczne.
+
+### Art. 60.
+
+### 1.
+
+Bank Gospodarstwa Krajowego w terminie 14 dni od dnia wejścia w życie ustawy opracowuje projekt zmiany planu finansowego Funduszu i przedstawia go do:
+
+### 1)
+
+uzgodnienia - ministrowi właściwemu do spraw finansów publicznych;
+
+### 2)
+
+zatwierdzenia - Prezesowi Rady Ministrów.
+
+### 2.
+
+Prezes Rady Ministrów zatwierdza zmianę planu finansowego w terminie 14 dni od dnia przedstawienia projektu tej zmiany.
+
+### Art. 61.
+
+### 1.
+
+W przypadku wystąpienia w okresie od dnia wejścia w życie niniejszej ustawy do dnia 31 grudnia 2023 r. zagrożenia bezpieczeństwa dostaw ciepła spowodowanego w szczególności:
+
+### 1)
+
+ograniczeniem dostaw gazu ziemnego lub biomasy,
+
+### 2)
+
+zakłóceniem na rynku węgla polegającym na braku dostępności węgla o małej zawartości siarki,
+
+### 3)
+
+ograniczeniem w dostawach substancji niezbędnych do funkcjonowania urządzeń ochrony środowiska służących redukcji emisji tlenków azotu do powietrza,
+
+### 4)
+
+zakłóceniem inwestycji modernizacyjnych i odtworzeniowych, związanym z konfliktem zbrojnym na terytorium Ukrainy
+
+- skutkującego możliwym zmniejszeniem lub przerwaniem dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej, w rozumieniu art. 157a ust. 1 pkt 2 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2022 r. poz. 2556](https://api.sejm.gov.pl/eli/acts/DU/2022/2556/text.html), z późn. zm.[76) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 oraz z 2023 r. poz. 877, 1506, 1688, 1719, 1762, 1890, 1963 i 2029.](#gloss-0:76:)), w ramach której funkcjonuje instalacja w rozumieniu art. 3 pkt 6 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, o mocy nie mniejszej niż 1 MW, objęta pozwoleniem na wprowadzenie gazów lub pyłów do powietrza, pozwoleniem zintegrowanym albo zgłoszeniem, o których mowa w ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, i prowadzonej przez wytwórcę ciepła, wytwórca ten może złożyć do organu ochrony środowiska właściwego do wydania tego pozwolenia albo przyjęcia tego zgłoszenia, zwanego dalej „organem właściwym”, wniosek o wydanie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, zwany dalej „wnioskiem”.
+
+### 2.
+
+Wniosek zawiera:
+
+### 1)
+
+oznaczenie wytwórcy ciepła, w tym jego siedziby, oraz adres instalacji;
+
+### 2)
+
+informację o tytule prawnym do instalacji;
+
+### 3)
+
+wskazanie przyczyn wystąpienia zagrożenia bezpieczeństwa dostaw ciepła, wraz z dowodami potwierdzającymi, w szczególności:
+
+### a)
+
+negatywnymi odpowiedziami na zapytania ofertowe wysłane do co najmniej 2 dostawców:
+
+- - substancji niezbędnych do funkcjonowania urządzeń ochrony środowiska służących redukcji emisji tlenków azotu do powietrza lub
+
+- - węgla o małej zawartości siarki, lub
+
+- - biomasy,
+
+### b)
+
+ogłoszenia stanu kryzysowego, o którym mowa w art. 11 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1938 z dnia 25 października 2017 r. dotyczącego środków zapewniających bezpieczeństwo dostaw gazu ziemnego i uchylającego rozporządzenie (UE) nr 994/2010 ([Dz. Urz. UE L 280 z 28.10.2017, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)),
+
+### c)
+
+potwierdzeniem inwestora o zakłóceniach inwestycji modernizacyjnych i odtworzeniowych, związanych z konfliktem zbrojnym na terytorium Ukrainy;
+
+### 4)
+
+charakterystykę i oznaczenie źródeł spalania paliw, o których mowa w ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, objętych wnioskiem;
+
+### 5)
+
+informacje o stosowanych urządzeniach ograniczających emisję zanieczyszczeń do powietrza oraz sposobie ich pracy w okresie trwania przesłanek, o których mowa w ust. 1;
+
+### 6)
+
+wielkości emisji gazów lub pyłów wprowadzanych do powietrza, objętych zakresem wniosku, wyrażone jako średnia dobowa lub średnia z okresu pobierania próbek, wynikające z możliwości technicznych instalacji.
+
+### 3.
+
+Wytwórca ciepła dołącza do wniosku dokument stanowiący potwierdzenie dystrybutora ciepła o braku możliwości wytworzenia niezbędnego wolumenu ciepła w oparciu o inne źródła w sieci ciepłowniczej, dla których nie występują przesłanki wymienione w ust. 1.
+
+### 4.
+
+Dystrybutor ciepła na wniosek wytwórcy ciepła wydaje dokument stanowiący potwierdzenie, o którym mowa w ust. 3, bądź odmawia jego wydania, wraz z uzasadnieniem, w terminie 5 dni od dnia otrzymania tego wniosku.
+
+### 5.
+
+W przypadku podmiotu jednocześnie prowadzącego działalność gospodarczą w obszarze wytwarzania ciepła oraz jego dystrybucji dokument stanowiący potwierdzenie, o którym mowa w ust. 3, nie jest wymagany.
+
+### 6.
+
+Organ właściwy wydaje decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, na czas określony, niezbędny do usunięcia zagrożenia bezpieczeństwa dostaw ciepła polegającego na zmniejszeniu lub przerwaniu dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej, nie dłuższy niż 120 dni.
+
+### 7.
+
+W przypadku gdy przed upływem okresu wskazanego w decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, zagrożenie dostaw ciepła polegające na możliwym zmniejszeniu lub przerwaniu dostaw ciepła dostarczanego do publicznej sieci ciepłowniczej nie ustanie, wytwórca ciepła może złożyć do właściwego organu wniosek o przedłużenie terminu obowiązywania tej decyzji o nie dłużej niż 120 dni. Przedłużenie terminu następuje w drodze zmiany tej decyzji. Do wniosku stosuje się przepisy ust. 1-5.
+
+### 8.
+
+Okresy, o których mowa w ust. 6 lub 7, określone w decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła upływają nie później niż w dniu 31 grudnia 2023 r.
+
+### 9.
+
+Organ właściwy wydaje decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła nie później niż w terminie 10 dni od dnia wpływu wniosku, o którym mowa w ust. 1, i nadaje tej decyzji rygor natychmiastowej wykonalności.
+
+### 10.
+
+W stosunku do marszałka województwa wydającego decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła organem wyższego stopnia jest minister właściwy do spraw klimatu.
+
+### 11.
+
+W postępowaniach o wydanie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego oraz art. 44 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ([Dz. U. z 2024 r. poz. 1112](https://api.sejm.gov.pl/eli/acts/DU/2024/1112/text.html)).
+
+### 12.
+
+W przypadku gdy wniosek nie spełnia wymagań, o których mowa w ust. 2 i 3, organ właściwy, w terminie nie dłuższym niż 2 dni od dnia otrzymania wniosku, wzywa wytwórcę ciepła do uzupełnienia wniosku. Wytwórca jest zobowiązany do uzupełnienia wniosku w terminie nie dłuższym niż 2 dni od dnia otrzymania wezwania do uzupełnienia. Jeżeli wytwórca nie uzupełni wniosku we wskazanym terminie, organ pozostawia wniosek bez rozpoznania.
+
+### 13.
+
+Decyzja pozwalająca na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła zawiera:
+
+### 1)
+
+oznaczenie prowadzącego instalację oraz wskazanie źródeł spalania paliw objętych decyzją;
+
+### 2)
+
+rodzaj i parametry źródeł spalania paliw istotne z punktu widzenia przeciwdziałania zanieczyszczeniom, w szczególności obowiązek eksploatacji urządzeń ograniczających emisje z maksymalną możliwą do uzyskania wydajnością;
+
+### 3)
+
+wielkości dopuszczalnej emisji gazów lub pyłów wprowadzanych do powietrza wyrażone jako średnia dobowa lub średnia z okresu pobierania próbek, wynikające z możliwości technicznych instalacji;
+
+### 4)
+
+czas obowiązywania decyzji.
+
+### 14.
+
+Decyzja pozwalająca na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła stanowi integralną część pozwolenia na wprowadzenie gazów lub pyłów do powietrza, pozwolenia zintegrowanego albo zgłoszenia, wydanych na podstawie przepisów ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
+
+### 15.
+
+Organ właściwy stwierdza, w drodze decyzji, wygaśnięcie decyzji pozwalającej na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła, w terminie 3 dni od dnia powzięcia informacji o ustaniu przesłanek, na podstawie których wydano tę decyzję.
+
+### 16.
+
+Decyzję pozwalającą na eksploatację instalacji w warunkach zagrożenia bezpieczeństwa dostaw ciepła organ właściwy przekazuje do ministra właściwego do spraw energii, ministra właściwego do spraw klimatu oraz właściwego wojewódzkiego inspektora ochrony środowiska.
+
+### Art. 62.
+
+### 1.
+
+Maksymalny limit wydatków z Funduszu przeznaczonych na rekompensaty dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, wyrównania, o których mowa w art. 12a ust. 1 i art. 12c, dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych wynosi w latach 2022-2023 14 500 000 000,00 zł.
+
+### 11[77) Dodany przez art. 21 pkt 17 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:77:).
+
+Maksymalny limit wydatków z Funduszu przeznaczonych na dodatki dla gospodarstw domowych oraz dodatki dla podmiotów wrażliwych:
+
+### 1)
+
+w roku 2024 wynosi 1 000 000,00 zł;
+
+### 2)
+
+w latach 2025-2035 wynosi 500 000,00 zł.
+
+### 1a[78) Dodany przez art. 4 pkt 20 lit. a ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 17 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:78:).
+
+Maksymalny limit wydatków z Funduszu przeznaczonych na wyrównania, o których mowa w art. 12a ust. 1 i art. 12aa ust. 1, oraz świadczenia wyrównawcze, o których mowa w art. 15a, w roku 2024 wynosi 3 500 000 000,00 zł.
+
+### 1b[79) Dodany przez art. 21 pkt 17 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:79:).
+
+Maksymalny limit wydatków z Funduszu przeznaczonych na wyrównania, o których mowa w art. 12aa ust. 1, w roku 2025 wynosi 350 000 000,00 zł.
+
+### 2[80) Ze zmianą wprowadzoną przez art. 4 pkt 20 lit. b ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 17 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r.](#gloss-0:80:).
+
+Minister właściwy do spraw energii monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1-1b. W przypadku gdy wykorzystanie środków wyniesie więcej niż 80% środków, o których mowa w ust. 1-1b, minister właściwy do spraw energii informuje o tym fakcie ministra właściwego do spraw finansów publicznych oraz Prezesa Rady Ministrów.
+
+### 3.
+
+(uchylony)
+
+### Art. 63.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6a ustawy zmienianej w art. 43[81) Artykuł 43 zawiera zmiany do ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw.](#gloss-0:81:) zachowują moc przez okres, na który zostały wydane.
+
+### Art. 63a[82) W brzmieniu ustalonym przez art. 21 pkt 18 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r.](#gloss-0:82:).
+
+Środki wypłacone z tytułu rekompensat dla przedsiębiorstw energetycznych, o których mowa w art. 3 ust. 1 i 2, świadczenia wyrównawcze dla sprzedawców ciepła, o których mowa w art. 15a ust. 1, oraz wyrównania dla przedsiębiorstw energetycznych, o których mowa w art. 3a ust. 1 i 3 oraz art. 3b ust. 1 i 2, i sprzedawców ciepła, o których mowa w art. 12c ust. 10, zalicza się do kategorii drugiej należności podlegających zaspokojeniu z funduszów masy upadłości, o której mowa w art. 342 ust. 1 pkt 2 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe ([Dz. U. z 2024 r. poz. 794](https://api.sejm.gov.pl/eli/acts/DU/2024/794/text.html) i [1222](https://api.sejm.gov.pl/eli/acts/DU/2024/1222/text.html)).
+
+### Art. 64.
+
+Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia[83) Ustawa została ogłoszona w dniu 19 września 2022 r.](#gloss-0:83:).
+
+1) Ze zmianą wprowadzoną przez art. 21 pkt 1 lit. a ustawy z dnia 23 maja 2024 r. o bonie energetycznym oraz o zmianie niektórych ustaw w celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859); weszła w życie z dniem 1 lipca 2024 r. 2) Dodana przez art. 4 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r. 3) W brzmieniu ustalonym przez art. 21 pkt 1 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 4) W brzmieniu ustalonym przez art. 21 pkt 2 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 5) Ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2. 6) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 2 ustawy, o której mowa w odnośniku 2. 7) Dodany przez art. 21 pkt 3 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1088, 1234, 1672, 1872 i 2005 oraz z 2024 r. poz. 124, 227 i 1089. 9) Ze zmianą wprowadzoną przez art. 7 ustawy z dnia 28 lipca 2023 r. o zmianie ustawy o pomocy społecznej oraz niektórych innych ustaw (Dz. U. poz. 1693), która weszła w życie z dniem 1 listopada 2023 r. 10) Dodana przez art. 4 pkt 3 ustawy, o której mowa w odnośniku 2. 11) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1477, 1692, 1723, 2127 i 2687 oraz z 2023 r. poz. 2760. 12) Obecnie ogólne określenie przedmiotu ustawy brzmi: o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu, na podstawie art. 3 pkt 1 ustawy z dnia 7 grudnia 2023 r. o zmianie ustaw w celu wsparcia odbiorców energii elektrycznej, paliw gazowych i ciepła (Dz. U. poz. 2760), która weszła w życie z dniem 31 grudnia 2023 r. 13) W brzmieniu ustalonym przez art. 4 pkt 4 ustawy, o której mowa w odnośniku 2. 14) Dodany przez art. 21 pkt 4 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 15) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 5 lit. a ustawy, o której mowa w odnośniku 2. 16) Zdanie pierwsze ze zmianą wprowadzoną przez art. 4 pkt 5 lit. b ustawy, o której mowa w odnośniku 2. 17) W brzmieniu ustalonym przez art. 4 pkt 5 lit. c ustawy, o której mowa w odnośniku 2. 18) Dodany przez art. 21 pkt 5 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 19) W brzmieniu ustalonym przez art. 4 pkt 6 lit. a ustawy, o której mowa w odnośniku 2. 20) Dodany przez art. 21 pkt 6 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 21) Dodany przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 2. 22) Dodany przez art. 4 pkt 6 lit. b ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 6 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 23) Opis symbolu ze zmianą wprowadzoną przez art. 21 pkt 6 lit. c tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 24) Opis symbolu ze zmianą wprowadzoną przez art. 21 pkt 6 lit. c tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 25) W brzmieniu ustalonym przez art. 4 pkt 6 lit. c ustawy, o której mowa w odnośniku 2. 26) Dodany przez art. 4 pkt 6 lit. d ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 6 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 27) Dodany przez art. 21 pkt 6 lit. e ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 28) Ze zmianą wprowadzoną przez art. 21 pkt 6 lit. f ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 29) W brzmieniu ustalonym przez art. 4 pkt 7 ustawy, o której mowa w odnośniku 2. 30) Dodany przez art. 4 pkt 8 ustawy, o której mowa w odnośniku 2. 31) Dodany przez art. 4 pkt 9 ustawy, o której mowa w odnośniku 2. 32) Dodany przez art. 4 pkt 10 ustawy, o której mowa w odnośniku 2. 33) Ze zmianą wprowadzoną przez art. 4 pkt 11 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 7 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 34) Ze zmianą wprowadzoną przez art. 21 pkt 8 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 35) Ze zmianą wprowadzoną przez art. 4 pkt 12 ustawy, o której mowa w odnośniku 2. 36) Dodany przez art. 21 pkt 9 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 37) W brzmieniu ustalonym przez art. 4 pkt 13 ustawy, o której mowa w odnośniku 2. 38) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747, 2157 i 2255, z 2021 r. poz. 1535 i 2368, z 2022 r. poz. 64, 202, 1561, 1692, 1730, 1967, 2127, 2236 i 2687, z 2023 r. poz. 295, 556, 803, 1641, 1785 i 2760 oraz z 2024 r. poz. 834, 859 i 1089. 39) W brzmieniu ustalonym przez art. 21 pkt 10 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 40) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 4 pkt 14 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2. 41) Dodany przez art. 4 pkt 14 lit. b tiret drugie ustawy, o której mowa w odnośniku 2. 42) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 21 pkt 10 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 43) Dodany przez art. 21 pkt 10 lit. b tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 44) Zdanie pierwsze ze zmianą wprowadzoną przez art. 21 pkt 10 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 45) W brzmieniu ustalonym przez art. 21 pkt 11 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 46) Ze zmianą wprowadzoną przez art. 4 pkt 15 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2. 47) Dodany przez art. 4 pkt 15 lit. b tiret drugie ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 11 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 48) Dodany przez art. 21 pkt 11 lit. b tiret drugie ustawy, o której mowa w odnośniku 1; weszło w życie z dniem 1 lipca 2024 r. 49) Ze zmianą wprowadzoną przez art. 21 pkt 11 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 50) Dodany przez art. 4 pkt 15 lit. d ustawy, o której mowa w odnośniku 2. 51) Dodany przez art. 21 pkt 11 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 52) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2 53) Dodany przez art. 4 pkt 15 lit. e ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 11 lit. e ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 54) Dodany przez art. 4 pkt 15 lit. f ustawy, o której mowa w odnośniku 2. 55) Dodany przez art. 21 pkt 11 lit. f ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 56) Dodany przez art. 21 pkt 11 lit. g ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 57) W brzmieniu ustalonym przez art. 21 pkt 12 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 58) Ze zmianą wprowadzoną przez art. 21 pkt 12 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 59) Zdanie pierwsze ze zmianą wprowadzoną przez art. 4 pkt 16 lit. b ustawy, o której mowa w odnośniku 2. 60) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872 oraz z 2024 r. poz. 858 i 1089. 61) Ze zmianą wprowadzoną przez art. 21 pkt 13 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 62) Ze zmianą wprowadzoną przez art. 21 pkt 13 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 63) Ze zmianą wprowadzoną przez art. 4 pkt 17 ustawy, o której mowa w odnośniku 2. 64) Dodany przez art. 21 pkt 14 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 65) Zdanie pierwsze ze zmianą wprowadzoną przez art. 21 pkt 14 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 66) Artykuł 46 zawiera zmiany do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych. 67) Artykuł 50 zawiera zmiany do ustawy z dnia 5 sierpnia 2022 r. o dodatku węglowym. 68) Artykuł 44 zawiera zmiany do ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków. 69) Artykuł 45 zawiera zmiany do ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym. 70) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 556, 588, 641, 658, 760, 996, 1059, 1193, 1195, 1234, 1598, 1723 i 1860 oraz z 2024 r. poz. 850, 863, 879 i 1222. 71) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35. 72) Ze zmianą wprowadzoną przez art. 4 pkt 18 ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 15 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 73) Dodany przez art. 4 pkt 19 ustawy, o której mowa w odnośniku 2. 74) Dodany przez art. 21 pkt 16 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 75) Ze zmianą wprowadzoną przez art. 21 pkt 16 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 76) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2687 oraz z 2023 r. poz. 877, 1506, 1688, 1719, 1762, 1890, 1963 i 2029. 77) Dodany przez art. 21 pkt 17 lit. a ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 78) Dodany przez art. 4 pkt 20 lit. a ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 21 pkt 17 lit. b ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 79) Dodany przez art. 21 pkt 17 lit. c ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 80) Ze zmianą wprowadzoną przez art. 4 pkt 20 lit. b ustawy, o której mowa w odnośniku 2; ze zmianą wprowadzoną przez art. 21 pkt 17 lit. d ustawy, o której mowa w odnośniku 1; weszła w życie z dniem 1 lipca 2024 r. 81) Artykuł 43 zawiera zmiany do ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw. 82) W brzmieniu ustalonym przez art. 21 pkt 18 ustawy, o której mowa w odnośniku 1; wszedł w życie z dniem 1 lipca 2024 r. 83) Ustawa została ogłoszona w dniu 19 września 2022 r.

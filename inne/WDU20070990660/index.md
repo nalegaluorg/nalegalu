@@ -8,11 +8,9 @@ pos: 660
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o ochronie konkurencji i konsumentów i ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych
-
-*USTAWA z dnia 13 kwietnia 2007 r.*
+# Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy o ochronie konkurencji i konsumentów i ustawy o państwowym zasobie kadrowym i wysokich stanowiskach państwowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +22,34 @@ domain: null
 | Data ogłoszenia | 2007-04-13 |
 | Data wydania | 2007-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990660) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/660/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2007/660/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2007/660) |
 
-**Art. 1.** W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. Nr 50, poz. 331) w art. 29:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych (Dz. U. Nr 170, poz. 1217 i Nr 249, poz. 1832 oraz z 2007 r. Nr 17, poz. 96 i Nr 50, poz. 331) uchyla się art. 4a.
+### Art. 1.
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+W ustawie z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów ([Dz. U. Nr 50, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.html)) w art. 29:
 
+### 1)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prezes Rady Ministrów powołuje Prezesa Urzędu spośród osób należących do państwowego zasobu kadrowego.
+
+” ;
+
+### 2)
+
+uchyla się ust. 5, 7 i 8.
+
+### Art. 2.
+
+W ustawie z dnia 24 sierpnia 2006 r. o państwowym zasobie kadrowym i wysokich stanowiskach państwowych ([Dz. U. Nr 170, poz. 1217](https://api.sejm.gov.pl/eli/acts/DU/2006/1217/text.html) i [Nr 249, poz. 1832](https://api.sejm.gov.pl/eli/acts/DU/2006/1832/text.html) oraz z [2007 r. Nr 17, poz. 96](https://api.sejm.gov.pl/eli/acts/DU/2007/96/text.html) i [Nr 50, poz. 331](https://api.sejm.gov.pl/eli/acts/DU/2007/331/text.html)) uchyla się art. 4a.
+
+### Art. 3.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

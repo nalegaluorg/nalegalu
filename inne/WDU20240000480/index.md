@@ -1,0 +1,804 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 27 marca 2024 r. w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa
+address: WDU20240000480
+eli: DU/2024/480
+publisher: DU
+year: 2024
+pos: 480
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 27 marca 2024 r. w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 480 |
+| ISAP | WDU20240000480 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2024-03-27 |
+| Data wydania | 2024-03-29 |
+| Wejście w życie | 2024-03-30 |
+| Ostatnia zmiana | 2025-10-31 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/480/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/480) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wykaz stawek równoważnika pieniężnego na wynajem lokalu mieszkalnego oraz wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 203 ust. 8 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny ([Dz. U. z 2024 r. poz. 248](https://api.sejm.gov.pl/eli/acts/DU/2024/248/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+przypadki, w których następuje wyznaczenie, a w których skierowanie do pełnienia zawodowej służby wojskowej poza granicami państwa;
+
+### 2)
+
+tryb postępowania przy wyznaczaniu lub kierowaniu żołnierzy zawodowych do pełnienia zawodowej służby wojskowej poza granicami państwa, a także odwoływania do kraju z tej służby;
+
+### 3)
+
+sposób i tryb współdziałania organu, któremu żołnierz podlega podczas służby poza granicami państwa, z organami właściwymi w zakresie przyznania i wypłaty świadczeń, o których mowa w art. 203 ust. 5-7 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, zwanej dalej „ustawą”;
+
+### 4)
+
+wysokość, sposób i tryb przyznawania świadczeń żołnierzom zawodowym wyznaczonym albo skierowanym do pełnienia służby poza granicami państwa oraz świadczeń przysługujących żołnierzom zawodowym w związku z wyznaczeniem lub skierowaniem do pełnienia zawodowej służby wojskowej poza granicami państwa.
+
+### § 2.
+
+### 1.
+
+Wyznaczenie żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa następuje w przypadkach pełnienia tej służby na stanowiskach służbowych:
+
+### 1)
+
+w polskich przedstawicielstwach wojskowych przy:
+
+### a)
+
+organizacjach międzynarodowych,
+
+### b)
+
+międzynarodowych strukturach wojskowych;
+
+### 2)
+
+bezpośrednio w strukturach organizacji międzynarodowych i w międzynarodowych strukturach wojskowych;
+
+### 3)
+
+przy Siłach Zbrojnych Rzeczypospolitej Polskiej albo przy innych strukturach obronnych państw obcych;
+
+### 4)
+
+w ataszatach obrony przy przedstawicielstwach dyplomatycznych i w stałych przedstawicielstwach przy organizacjach międzynarodowych, podległych ministrowi właściwemu do spraw zagranicznych, mających siedzibę poza granicami państwa.
+
+### 2.
+
+Stanowiska służbowe, o których mowa w ust. 1, ujmuje się w wykazach stanowisk służbowych przeznaczonych dla żołnierzy zawodowych wyznaczonych do pełnienia służby poza granicami państwa.
+
+### 3.
+
+Żołnierzowi zawodowemu, który pełni zawodową służbę wojskową poza granicami państwa w stałych przedstawicielstwach przy organizacjach międzynarodowych podległych ministrowi właściwemu do spraw zagranicznych, mających siedzibę poza granicami państwa, przysługują:
+
+### 1)
+
+nieodpłatne korzystanie z lokalu mieszkalnego, a w przypadku braku lokalu mieszkalnego - ryczałt na wynajem lokalu mieszkalnego w państwie przyjmującym,
+
+### 2)
+
+zwrot kosztów eksploatacji zajmowanego lokalu mieszkalnego,
+
+### 3)
+
+pokrycie kosztów podróży przesiedleniowej oraz ryczałt na pokrycie kosztów przewozu mienia przesiedleniowego,
+
+### 4)
+
+pokrycie kosztów przejazdu do kraju wraz z członkami rodziny, w tym zwrot kosztów podróży do kraju w przypadku zgonu małżonka lub zgonu rodziców tego żołnierza, rodzeństwa lub dziecka,
+
+### 5)
+
+zwrot uzasadnionych i udokumentowanych kosztów leczenia tego żołnierza i przebywających z nim na stałe członków rodziny albo ubezpieczenie zdrowotne w państwie przyjmującym lub innym państwie, które przyjmuje przesiedlonych członków rodziny,
+
+### 6)
+
+pokrycie opłat za naukę dzieci w szkole podstawowej lub ponadpodstawowej oraz opłat z tytułu obowiązkowego przygotowania przedszkolnego wymaganego przepisami obowiązującymi w państwie przyjmującym
+
+- w wysokości, w trybie i na warunkach określonych w art. 53 ust. 1 oraz w przepisach wykonawczych wydanych na podstawie art. 54 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej ([Dz. U. z 2024 r. poz. 85](https://api.sejm.gov.pl/eli/acts/DU/2024/85/text.html)), dotyczących członków służby zagranicznej wykonujących obowiązki służbowe w placówce zagranicznej; do tego żołnierza nie stosuje się przepisów § 11-22.
+
+### § 3.
+
+### 1.
+
+Skierowanie żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa następuje w przypadkach:
+
+### 1)
+
+pełnienia tej służby:
+
+### a)
+
+w składzie jednostki wojskowej określonej w przepisach ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa ([Dz. U. z 2023 r. poz. 755](https://api.sejm.gov.pl/eli/acts/DU/2023/755/text.html)),
+
+### b)
+
+w kwaterach głównych, dowództwach i sztabach misji organizacji międzynarodowych i sił wielonarodowych,
+
+### c)
+
+jako obserwator wojskowy lub osoba posiadająca status obserwatora wojskowego w misjach pokojowych organizacji międzynarodowych i sił wielonarodowych;
+
+### 2)
+
+konieczności:
+
+### a)
+
+zabezpieczenia funkcjonowania jednostki wojskowej, o której mowa w pkt 1 lit. a, w rejonie jej działania,
+
+### b)
+
+zapewnienia organizacji, funkcjonowania i sprawowania działalności kontrolnej jednostki wojskowej, o której mowa w pkt 1 lit. a, w rejonie jej działania,
+
+### c)
+
+udziału w przedsięwzięciach szkoleniowych i ćwiczeniach,
+
+### d)
+
+udziału w akcjach ratowniczych, poszukiwawczych lub humanitarnych,
+
+### e)
+
+udziału w przedsięwzięciach reprezentacyjnych.
+
+### 2.
+
+Stanowiska służbowe, o których mowa w ust. 1 pkt 1 lit. a i b, ujmuje się w etatach lub wykazach stanowisk służbowych przeznaczonych dla żołnierzy zawodowych skierowanych do pełnienia służby poza granicami państwa.
+
+### § 4.
+
+### 1.
+
+Wyznaczenie żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa, zwanego dalej „żołnierzem wyznaczonym”, następuje w drodze decyzji.
+
+### 2.
+
+Wyznaczenie, o którym mowa w ust. 1, poprzedza się procesem kwalifikowania lub, w zależności od potrzeb, procesem rekrutacji kandydatów na stanowiska służbowe poza granicami państwa.
+
+### 3.
+
+Kwalifikowanie przeprowadza organ właściwy do wyznaczenia żołnierza zawodowego na stanowisko służbowe poza granicami państwa z urzędu lub na wniosek tego żołnierza albo dowódcy jednostki wojskowej. Zakwalifikowany kandydat jest przygotowywany do służby poza granicami państwa.
+
+### 4.
+
+Kwalifikowanie może być poprzedzone rekrutacją, która ma na celu dobór kandydatów na stanowiska służbowe poza granicami państwa.
+
+### § 5.
+
+### 1.
+
+Skierowanie żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa, zwanego dalej „żołnierzem skierowanym”, następuje w drodze indywidualnego lub zbiorowego rozkazu, z pozostawieniem tego żołnierza na ostatnio zajmowanym stanowisku służbowym albo w dyspozycji.
+
+### 2.
+
+Skierowanie, o którym mowa w ust. 1, następuje z urzędu lub na wniosek dowódcy jednostki wojskowej albo żołnierza zawodowego.
+
+### § 6.
+
+Wyznaczenie lub skierowanie żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa następuje po uzyskaniu orzeczenia lekarskiego stwierdzającego brak przeciwwskazań zdrowotnych do pełnienia tej służby, jeżeli jest ono wymagane.
+
+### § 7.
+
+### 1.
+
+W przypadku gdy pełnienie zawodowej służby wojskowej poza granicami państwa będzie się wiązać z dostępem do informacji uznanych za niejawne przez państwo, na którego terenie żołnierz zawodowy ma pełnić służbę, lub przez organizację międzynarodową, przy której działa polskie przedstawicielstwo, lub w strukturze, w której ten żołnierz ma pełnić służbę, a z tym państwem lub z tą organizacją została zawarta umowa o wzajemnej ochronie informacji niejawnych, wyznaczenia lub skierowania do służby poza granicami państwa można dokonać wobec żołnierza zawodowego posiadającego poświadczenie bezpieczeństwa zgodnie z przepisami o ochronie informacji niejawnych.
+
+### 2.
+
+Wyznaczenie żołnierza zawodowego do pełnienia służby w stałych przedstawicielstwach przy organizacjach międzynarodowych, mających siedzibę poza granicami państwa, następuje po uzgodnieniu z ministrem właściwym do spraw zagranicznych.
+
+### § 8.
+
+### 1.
+
+Organ, o którym mowa w art. 203 ust. 2 lub 3 ustawy, uchyla decyzję o wyznaczeniu żołnierza zawodowego do pełnienia zawodowej służby wojskowej poza granicami państwa albo rozkaz o skierowaniu żołnierza zawodowego do pełnienia tej służby przed dniem wyjazdu z kraju w razie braku zgody na przyjęcie tego żołnierza przez państwo lub organizację międzynarodową, a także w razie zmiany orzeczenia, o którym mowa w § 6, w zakresie stwierdzenia przeciwwskazań zdrowotnych do pełnienia zawodowej służby wojskowej poza granicami państwa lub cofnięcia poświadczenia bezpieczeństwa, o którym mowa w § 7 ust. 1.
+
+### 2.
+
+Decyzja, o której mowa w § 4 ust. 1, oraz rozkaz, o którym mowa w § 5 ust. 1, mogą być uchylone przez organ, który wydał tę decyzję lub ten rozkaz, przed dniem wyjazdu z kraju:
+
+### 1)
+
+w przypadku prawomocnego ukarania żołnierza zawodowego za przewinienie dyscyplinarne, wszczęcia postępowania karnego przeciwko żołnierzowi zawodowemu o przestępstwo lub postępowania w sprawie o wykroczenie lub zawieszenia żołnierza zawodowego w czynnościach służbowych;
+
+### 2)
+
+na wniosek żołnierza zawodowego;
+
+### 3)
+
+ze względu na uzasadnione potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+### § 9.
+
+### 1.
+
+Organ, o którym mowa w art. 203 ust. 2 lub 3 ustawy, wydaje decyzję - w przypadku żołnierza wyznaczonego, lub rozkaz - w przypadku żołnierza skierowanego, o odwołaniu żołnierza ze służby poza granicami państwa do kraju:
+
+### 1)
+
+na wniosek organu państwa, przy którego siłach zbrojnych albo innych strukturach obronnych żołnierz zawodowy pełni służbę wojskową albo, w którym działa misja organizacji międzynarodowej, albo na którego terytorium ma siedzibę polskie przedstawicielstwo wojskowe, albo na wniosek organizacji międzynarodowej albo międzynarodowej struktury wojskowej, przy której działa przedstawicielstwo, albo na wniosek organu państwa, na którego terytorium mają swoją siedzibę, a także na wniosek dowódcy sił międzynarodowych;
+
+### 2)
+
+na wniosek ministra właściwego do spraw zagranicznych - w stosunku do żołnierza wyznaczonego do pełnienia służby w stałym przedstawicielstwie przy organizacjach międzynarodowych;
+
+### 3)
+
+na wniosek organu określonego przez Ministra Obrony Narodowej, któremu żołnierz zawodowy podlega - w razie stwierdzenia przeciwwskazań zdrowotnych do pełnienia zawodowej służby wojskowej poza granicami państwa.
+
+### 2.
+
+Organ, o którym mowa w art. 203 ust. 2 lub 3 ustawy, może w każdym czasie wydać decyzję - w przypadku żołnierza wyznaczonego, lub rozkaz - w przypadku żołnierza skierowanego, o odwołaniu żołnierza ze służby pełnionej poza granicami państwa do kraju:
+
+### 1)
+
+z własnej inicjatywy albo na wniosek dowódcy jednostki wojskowej, w której żołnierz zawodowy pełni służbę poza granicami państwa, lub przełożonego, o którym mowa w § 10 ust. 1 i 2, w przypadku powzięcia informacji lub pozyskania dokumentów, wskazujących, że:
+
+### a)
+
+żołnierz zawodowy nie wywiązuje się z zadań służbowych lub wykonuje je nienależycie,
+
+### b)
+
+żołnierz zawodowy został prawomocnie ukarany w postępowaniu dyscyplinarnym, wszczęto przeciwko niemu postępowanie karne o przestępstwo lub postępowanie w sprawie o wykroczenie, zawieszono go w czynnościach służbowych lub uprawdopodobniono podejrzenie popełnienia czynu, który jest zabroniony pod groźbą kary według prawa państwa pobytu, lub wszczęto w stosunku do niego postępowanie dyscyplinarne,
+
+### c)
+
+za odwołaniem żołnierza zawodowego przemawiają uzasadnione potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej,
+
+### d)
+
+żołnierz zawodowy nie wykonywał zadań służbowych przez okres dłuższy niż 15 dni,
+
+### e)
+
+żołnierz zawodowy utracił dostęp do informacji niejawnych wymaganych na zajmowanym stanowisku służbowym;
+
+### 2)
+
+na umotywowany wniosek żołnierza zawodowego.
+
+### 3.
+
+Decyzją o odwołaniu żołnierza wyznaczonego do kraju zwalnia się go z zajmowanego stanowiska służbowego poza granicami państwa i wyznacza na stanowisko służbowe albo przenosi do dyspozycji.
+
+### 4.
+
+Rozkazem o odwołaniu żołnierza skierowanego do kraju kieruje się go do jednostki wojskowej, na której ewidencji wojskowej żołnierz ten pozostaje, w celu dalszego pełnienia służby.
+
+### § 10.
+
+### 1.
+
+Organ, któremu podlega żołnierz zawodowy w czasie pełnienia zawodowej służby wojskowej na stanowisku służbowym poza granicami państwa, ustala się na podstawie przepisów określających podporządkowanie jednostek organizacyjnych Ministrowi Obrony Narodowej.
+
+### 2.
+
+Żołnierz skierowany do pełnienia zawodowej służby wojskowej w kraju i poza granicami państwa, który uprzednio został wyznaczony do pełnienia zawodowej służby wojskowej na stanowisku służbowym poza granicami państwa albo wyznaczony na stanowisko służbowe w organizacjach międzynarodowych, w międzynarodowych strukturach wojskowych lub przy siłach zbrojnych państw obcych stacjonujących na terytorium Rzeczypospolitej Polskiej, w okresie skierowania podlega organowi kierującemu go do tej służby.
+
+### 3.
+
+Organy, o których mowa w ust. 1 i 2, realizują w stosunku do żołnierza zawodowego zadania dowódcy jednostki wojskowej.
+
+### 4.
+
+Zakres i wysokość świadczeń, o których mowa w art. 203 ust. 5-7 ustawy, ustalają z urzędu lub na wniosek żołnierza zawodowego:
+
+### 1)
+
+w przypadku żołnierzy wyznaczonych - kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej w sprawie zabezpieczenia finansowego żołnierzy zawodowych pełniących służbę poza granicami państwa,
+
+### 2)
+
+w przypadku żołnierzy skierowanych, o których mowa w § 3 ust. 1:
+
+### a)
+
+pkt 1 lit. a - Dowódca Operacyjny Rodzajów Sił Zbrojnych, a w przypadku żołnierzy zawodowych wydzielonego komponentu Wojsk Specjalnych - Dowódca Komponentu Wojsk Specjalnych,
+
+### b)
+
+pkt 1 lit. b oraz pkt 2 lit. a i b - Dowódca Operacyjny Rodzajów Sił Zbrojnych,
+
+### c)
+
+pkt 1 lit. c - kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zagranicznych,
+
+### d)
+
+pkt 2 lit. c-e - Dowódca Generalny Rodzajów Sił Zbrojnych, a w przypadku żołnierzy zawodowych pełniących służbę w Dowództwie Operacyjnym Rodzajów Sił Zbrojnych i jednostkach podległych - Dowódca Operacyjny Rodzajów Sił Zbrojnych
+
+- zwani dalej „organem administrującym”.
+
+### 5.
+
+Ustalenie zakresu i wysokości świadczeń, o których mowa w art. 203 ust. 5 i 6 ustawy, następuje przez wydanie dokumentu do celów ewidencyjnych - w przypadku gdy zakres i wysokość świadczenia wynikają wprost z przepisów prawa lub gdy przyznaje się świadczenie zgodnie z wnioskiem żołnierza zawodowego. W innych przypadkach organ administrujący wydaje decyzję.
+
+### 6.
+
+Przed wydaniem rozstrzygnięcia, o którym mowa w ust. 5, kierownik komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej w sprawie zabezpieczenia finansowego żołnierzy zawodowych pełniących służbę poza granicami państwa współdziała w razie potrzeby, w sprawach żołnierzy zawodowych, o których mowa w § 2 ust. 1:
+
+### 1)
+
+pkt 1-3 - z szefem komórki organizacyjnej Sztabu Generalnego Wojska Polskiego właściwej do spraw zarządzania zasobami osobowymi;
+
+### 2)
+
+pkt 4 - z kierownikiem komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej do spraw zagranicznych.
+
+### § 11.
+
+### 1.
+
+Normatywna powierzchnia użytkowa lokalu mieszkalnego, określona w celu nieodpłatnego zakwaterowania żołnierza wyznaczonego w lokalu mieszkalnym oraz w celu ustalenia wysokości równoważnika pieniężnego na wynajęcie lokalu mieszkalnego, wynosi dla:
+
+### 1)
+
+żołnierza wyznaczonego - do 75 m2;
+
+### 2)
+
+żołnierza wyznaczonego z 1 członkiem rodziny lub 2 z członkami rodziny - do 90 m2;
+
+### 3)
+
+żołnierza wyznaczonego z więcej niż 2 członkami rodziny - dodatkowo do 20 m2dla każdego następnego członka rodziny.
+
+### 2.
+
+Do normatywnej powierzchni użytkowej lokalu mieszkalnego nie wlicza się dodatkowej powierzchni na cele reprezentacyjne, określonej w ust. 5 i 6.
+
+### 3.
+
+W przypadku gdy żołnierzowi wyznaczonemu został zapewniony, na jego wniosek, lokal mieszkalny o powierzchni większej niż powierzchnia, o której mowa w ust. 1, żołnierz ten zwraca organowi administrującemu różnicę między odpłatnością za powierzchnię zajmowanego lokalu a odpłatnością za powierzchnię, o której mowa w ust. 1.
+
+### 4.
+
+W przypadku gdy organ administrujący dysponuje wolnym lokalem mieszkalnym o powierzchni przekraczającej normatywną powierzchnię użytkową lokalu mieszkalnego określoną w ust. 1 i jest to uzasadnione ekonomicznie, żołnierzowi wyznaczonemu przydziela się nieodpłatnie ten lokal niezależnie od ograniczeń, o których mowa w ust. 1.
+
+### 5.
+
+Normatywną powierzchnię użytkową lokalu mieszkalnego, o której mowa w ust. 1, zwiększa się dodatkowo do 50 m2 żołnierzowi wyznaczonemu na stanowisko służbowe attaché obrony na cele reprezentacyjne.
+
+### 6.
+
+W przypadkach uzasadnionych ważnym interesem państwa, zwyczajem międzynarodowym lub zakresem wykonywanych zadań Minister Obrony Narodowej może, na uzasadniony wniosek organu administrującego, przyznać dodatkową powierzchnię na cele reprezentacyjne o łącznej powierzchni do 100 m2 żołnierzowi wyznaczonemu, innemu niż wskazany w ust. 5.
+
+### 7.
+
+Wysokość normatywnej powierzchni użytkowej lokalu określonej w ust. 1 ustala się na dzień objęcia obowiązków przez żołnierza wyznaczonego i podlega ona zmianie na jego udokumentowany wniosek. Żołnierz wyznaczony powiadamia w terminie 7 dni roboczych organ administrujący o wszelkich zmianach trwających powyżej 30 dni, mających wpływ na zakres uprawnień, o których mowa w ust. 1 oraz w § 14 ust. 1. Przepis ust. 3 stosuje się.
+
+### § 12.
+
+### 1.
+
+Przyjęcie przydzielonego lokalu mieszkalnego wraz z umeblowaniem i wyposażeniem przez żołnierza wyznaczonego następuje na podstawie protokołu przekazania oraz umowy o indywidualnej odpowiedzialności majątkowej za powierzone mienie.
+
+### 2.
+
+Zwrot przydzielonego lokalu mieszkalnego następuje na podstawie protokołu zwrotu.
+
+### § 13.
+
+### 1.
+
+Wysokość równoważnika pieniężnego na wynajem lokalu mieszkalnego oraz wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego ustala się dla poszczególnych miejsc pełnienia służby przez żołnierza wyznaczonego w zależności od państwa, miejscowości oraz instytucji, w których żołnierz wyznaczony pełni służbę poza granicami państwa.
+
+### 2.
+
+Wysokość stawek równoważnika pieniężnego na wynajem lokalu mieszkalnego oraz wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego są określone w załączniku do rozporządzenia.
+
+### 3.
+
+Żołnierzowi wyznaczonemu, któremu wypłaca się równoważnik pieniężny na wynajęcie lokalu mieszkalnego, przydziela się nieodpłatnie niezbędne umeblowanie i wyposażenie albo wypłaca się ryczałt w wysokości 15 % równoważnika. Na wniosek żołnierza wyznaczonego ryczałt może być wypłacony jednorazowo z góry za okres do 12 kolejnych miesięcy.
+
+### 4.
+
+Wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego zwiększa się za pierwszy miesiąc wynajmu lokalu mieszkalnego o wydatki niezbędne do zawarcia umowy najmu lokalu mieszkalnego, w tym koszty ekspertyzy technicznej lokalu oraz usługi pośrednictwa agencji mieszkaniowej, po przedstawieniu przez żołnierza wyznaczonego dokumentu potwierdzającego poniesienie tych wydatków.
+
+### 5.
+
+Wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego zwiększa się za ostatni miesiąc wynajmu lokalu mieszkalnego o wydatki związane z wypowiedzeniem umowy najmu lokalu mieszkalnego, obejmujące koszt ekspertyzy technicznej lokalu mieszkalnego oraz czynsz najmu do końca trwania umowy zapłacony przez żołnierza wyznaczonego, w przypadku odwołania tego żołnierza ze służby pełnionej poza granicami państwa do kraju z przyczyn, o których mowa w § 9 ust. 1 i ust. 2 pkt 1 lit. c-e oraz pkt 2 albo w przypadku wydania decyzji o jego ewakuacji - po przedstawieniu przez żołnierza wyznaczonego dokumentu potwierdzającego poniesienie tych wydatków.
+
+### § 14.
+
+### 1.
+
+Ryczałt na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego obejmuje koszty następujących świadczeń:
+
+### 1)
+
+energii i ogrzewania lokalu mieszkalnego;
+
+### 2)
+
+zaopatrzenia w zimną i ciepłą wodę;
+
+### 3)
+
+oświetlenia korytarzy, klatek schodowych oraz utrzymania urządzeń, pomieszczeń i otoczenia budynków, przeznaczonych do wspólnego użytkowania lokatorów, zbiorczych anten telewizyjnych i abonamentu telewizji kablowej znajdującej się w budynku mieszkalnym, korzystania z wind, wywozu śmieci, a także innych świadczeń i opłat wynikających z miejscowych warunków i zwyczajów - jeżeli żołnierz wyznaczony jest zobowiązany do ich ponoszenia;
+
+### 4)
+
+ubezpieczenia lokalu mieszkalnego w zakresie wynikającym z zawartej umowy najmu;
+
+### 5)
+
+instalacji telefonu w lokalu mieszkalnym lub zakupu telefonu komórkowego; kwotę ryczałtu zwiększa się do 250 zł miesięcznie na pokrycie kosztów związanych z ich utrzymaniem, a także dostępem do Internetu, chyba że żołnierzowi wyznaczonemu przydzielono telefon komórkowy lub telefon w lokalu mieszkalnym wraz dostępem do bezpłatnego Internetu - w przypadku przedstawienia przez żołnierza wyznaczonego dokumentu potwierdzającego poniesienie kosztów instalacji.
+
+### 2.
+
+Żołnierz wyznaczony niezwłocznie zawiadamia organ administrujący, którzy członkowie rodziny i od kiedy będą stale z nim przebywali w miejscu pełnienia służby, nie później niż na miesiąc przed planowanym przyjazdem członków rodziny.
+
+### 3.
+
+Przybycie członków rodziny żołnierz wyznaczony potwierdza przez złożenie oświadczenia do organu administrującego. Przepis § 11 ust. 3 i ust. 7 zdanie drugie stosuje się.
+
+### 4.
+
+Oświadczenie, o którym mowa w ust. 3, zawiera imiona, nazwiska oraz daty urodzenia przesiedlonych członków rodziny, termin przesiedlenia oraz wskazanie wykorzystanego środka transportu i miejsca stałego zamieszkania w kraju, z którego nastąpiło przesiedlenie.
+
+### 5.
+
+Żołnierzowi wyznaczonemu wypłaca się na jego wniosek równoważnik pieniężny na wynajęcie lokalu mieszkalnego oraz ryczałt, o którym mowa w ust. 1, jednorazowo z góry za okres do 4 kolejnych miesięcy.
+
+### § 15.
+
+### 1.
+
+Żołnierzowi wyznaczonemu w ramach zwrotu opłat związanych z nauką przesiedlonych dzieci w szkole podstawowej i ponadpodstawowej pokrywa się, w tym również w formie wypłaty bezpośrednio z budżetu organu administrującego:
+
+### 1)
+
+opłaty z tytułu obowiązkowego przygotowania szkolnego wymaganego przepisami w kraju pobytu żołnierza wyznaczonego, z wyjątkiem wydatków na podręczniki i przybory szkolne, składki ubezpieczeniowe, odzież szkolną, wyżywienie i indywidualne dojazdy do szkoły, depozyty, a także opłat za zajęcia ponadobowiązkowe i wycieczki oraz opłat za ponadobowiązkowe językowe kursy dokształcające lub wyjazdy edukacyjne,
+
+### 2)
+
+koszty egzaminów śródrocznych, kwalifikacyjnych i maturalnych wymaganych przepisami w kraju pobytu żołnierza wyznaczonego,
+
+### 3)
+
+koszty zorganizowanych dojazdów dzieci do szkoły
+
+- w szkole wskazanej przez organ administrujący, przy uwzględnieniu potrzeby zapewnienia warunków nauczania porównywalnych z warunkami nauczania w kraju, wieku rozpoczęcia obowiązku szkolnego w kraju pobytu żołnierza wyznaczonego, wysokości opłat za naukę, kwestii zapewnienia bezpieczeństwa oraz dobra dziecka, w tym jego możliwości adaptacji do systemu nauczania w kraju pobytu żołnierza wyznaczonego.
+
+### 2.
+
+Żołnierzowi wyznaczonemu zwraca się koszty przejazdu:
+
+### 1)
+
+dziecka pozostającego na jego utrzymaniu do kraju i z powrotem w celu złożenia egzaminu klasyfikacyjnego, poprawkowego, ósmoklasisty lub maturalnego;
+
+### 2)
+
+opiekuna prawnego dziecka, które nie ukończyło:
+
+### a)
+
+18. roku życia albo
+
+### b)
+
+25. roku życia, jeśli uczęszcza do szkoły lub odbywa studia, a które stało się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji.
+
+### 3.
+
+W przypadku odmowy przyjęcia dziecka do szkoły wskazanej przez organ administrujący żołnierzowi wyznaczonemu zwraca się lub dokonuje wypłaty bezpośrednio z budżetu organu administrującego opłaty, o których mowa w ust. 1, za naukę dziecka na podstawie faktury zawierającej imię, nazwisko i wiek dziecka oraz po przedstawieniu zaświadczenia o braku możliwości przyjęcia dziecka do szkoły - do wysokości kosztów nauki w szkole, o której mowa w ust. 1.
+
+### 4.
+
+Żołnierzowi wyznaczonemu zwraca się udokumentowane koszty nauki języka będącego podstawowym językiem nauczania w bezpłatnej szkole publicznej lub innej szkole, do której uczęszcza dziecko, jeżeli organ administrujący nie ponosi kosztów tej nauki, do wysokości 5000 euro na każde dziecko. Zwrot kosztów przysługuje do czasu ukończenia przez dziecko nauki na podstawie przedstawionego przez żołnierza wyznaczonego dokumentu potwierdzającego fakt uczęszczania dziecka do szkoły.
+
+### 5.
+
+Żołnierzowi wyznaczonemu zwraca się koszty przejazdu, o których mowa w ust. 2, na warunkach określonych dla zagranicznych podróży służbowych żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy.
+
+### 6.
+
+Żołnierzowi wyznaczonemu pokrywa się koszty zorganizowanych dojazdów dzieci do szkoły, o której mowa w ust. 1 i 3, lub do szkoły polskiej, o której mowa w art. 4 pkt 29d ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2023 r. poz. 900](https://api.sejm.gov.pl/eli/acts/DU/2023/900/text.html), [1672](https://api.sejm.gov.pl/eli/acts/DU/2023/1672/text.html), [1718](https://api.sejm.gov.pl/eli/acts/DU/2023/1718/text.html) i [2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)), jeżeli odległość z miejsca pełnienia służby przez żołnierza do szkoły przekracza 20 km. W szczególnie uzasadnionych przypadkach żołnierzowi wyznaczonemu można pokryć koszty dowozu dziecka do szkoły, gdy odległość do tej szkoły nie przekracza 20 km.
+
+### 7.
+
+Żołnierz wyznaczony powiadamia organ administrujący w terminie 7 dni roboczych o wszelkich zmianach, mających wpływ na zakres uprawnień, o których mowa w ust. 1, 3, 4 i 6.
+
+### 8.
+
+Zwrot opłat i kosztów, o których mowa w ust. 1, 2-4 i 6, następuje w pełnej wysokości na podstawie dokumentów potwierdzających poniesienie wydatków.
+
+### § 16.
+
+### 1.
+
+Żołnierzowi wyznaczonemu zwrot kosztów jego leczenia oraz kosztów leczenia przesiedlonych z nim członków rodziny w państwie, w którym żołnierz ten pełni służbę, przysługuje w pełnej wysokości, nieprzekraczającej równowartości 5000 euro na żołnierza wyznaczonego lub uprawnionego członka rodziny w ciągu miesiąca kalendarzowego, w przypadku:
+
+### 1)
+
+porodów i leczenia w szpitalu;
+
+### 2)
+
+badań albo zabiegów diagnostycznych zleconych przez lekarza w szpitalu;
+
+### 3)
+
+zabiegów leczniczych zleconych przez lekarza w szpitalu;
+
+### 4)
+
+rehabilitacji, w tym fizykoterapii, fizjoterapii, kinezyterapii zleconej przez lekarza w szpitalu.
+
+### 2.
+
+Zwrot kosztów leczenia, o których mowa w ust. 1, przysługuje, jeżeli żołnierz wyznaczony i uprawnieni członkowie rodziny:
+
+### 1)
+
+nie są uprawnieni do bezpłatnego leczenia w państwie, w którym żołnierz ten pełni służbę, w tym również z tytułu wykupu dodatkowego ubezpieczenia zdrowotnego;
+
+### 2)
+
+nie korzystają bez uzasadnionej przyczyny z usług lekarzy i zakładów leczniczych innych niż te, które stosownie do zawartego porozumienia są zobowiązane do leczenia tego żołnierza i członków jego rodziny;
+
+### 3)
+
+nie korzystają bez uzasadnienia z drogich procedur medycznych mimo dostępu do tańszych procedur medycznych.
+
+### 3.
+
+Zwrotowi w wysokości nieprzekraczającej równowartości 1000 euro na żołnierza wyznaczonego lub uprawnionego członka rodziny w ciągu miesiąca kalendarzowego podlegają udokumentowane koszty:
+
+### 1)
+
+wizyt i konsultacji lekarskich - w 100 %;
+
+### 2)
+
+dodatkowych badań zleconych przez lekarza, w tym analiz laboratoryjnych, badań rentgenowskich, USG, tomografii komputerowej i rezonansu magnetycznego - w 100 %;
+
+### 3)
+
+rehabilitacji zaleconej przez lekarza, w tym fizykoterapii, fizjoterapii i kinezyterapii związanej z zabiegami leczniczymi - w 50 %;
+
+### 4)
+
+terapii logopedycznej i psychologicznej dzieci - w 50 %;
+
+### 5)
+
+gimnastyki korekcyjnej dla dzieci i młodzieży do 18. roku życia - w 50 %;
+
+### 6)
+
+leczenia cukrzycy - w 100 %;
+
+### 7)
+
+wizyt i leczenia stomatologicznego, zachowawczego i profilaktycznego - w 50 %;
+
+### 8)
+
+chirurgii stomatologicznej, ekstrakcji zębów, badania rentgenowskiego zębów - w 70 %;
+
+### 9)
+
+porad z zakresu protetyki, protez dentystycznych z wyłączeniem implantów, nie częściej niż jeden raz na 5 lat - w 50 %;
+
+### 10)
+
+aparatów ortodontycznych dla dzieci i młodzieży do 18. roku życia oraz konsultacji ortodontycznych i wizyt kontrolnych - w 50 %;
+
+### 11)
+
+zakupu leków na zlecenie lekarza - w 50 %;
+
+### 12)
+
+zakupu strzykawek i igieł jednorazowych oraz materiałów opatrunkowych - w 100 %;
+
+### 13)
+
+zakupu szkieł okularowych (korekcyjnych, szkieł dwuogniskowych, cylindrycznych, standardowych soczewek kontaktowych) zleconych przez lekarza okulistę lub przez optyka, nie częściej jednak niż raz na 2 lata i tylko w przypadku zmiany ich mocy - w 50 %;
+
+### 14)
+
+zakupu szkieł okularowych (korekcyjnych, szkieł dwuogniskowych, cylindrycznych) w przypadku dzieci do 18. roku życia, nie częściej niż raz na 2 lata, a w razie pogorszenia się wady wzroku zwrot kosztów szkieł może nastąpić częściej, w zależności od wniosków lekarza - w 50 %;
+
+### 15)
+
+obowiązkowych szczepień ochronnych dzieci do ukończenia 18. roku życia, które w Polsce są szczepieniami bezpłatnymi, pod warunkiem że nie są one bezpłatne w kraju pełnienia służby - w 100 %;
+
+### 16)
+
+zalecanych szczepień ochronnych przesiedlonych członków rodziny, w zakresie zapobiegania rozprzestrzeniania się epidemii lub pandemii, które w Polsce są szczepieniami bezpłatnymi, pod warunkiem że nie są one bezpłatne w kraju pełnienia służby - w 100 %;
+
+### 17)
+
+obowiązkowych składek z tytułu ubezpieczenia zdrowotnego, pobieranych przez instytucję lub zakład leczniczy w kraju pełnienia służby - w 100 %;
+
+### 18)
+
+obligatoryjnych, nakazanych testów medycznych dla żołnierza wyznaczonego, pod warunkiem że nie są one bezpłatne w kraju pełnienia służby, a ich wykonanie jest niezbędne do realizacji zadań służbowych - w 100 %;
+
+### 19)
+
+obowiązkowych szczepień ochronnych i badań obowiązkowych zleconych przez Światową Organizację Zdrowia (WHO) albo miejscową lub krajową służbę zdrowia - w 100 %.
+
+### 4.
+
+W szczególnie uzasadnionych przypadkach żołnierzowi wyznaczonemu i uprawnionym członkom rodziny przesiedlonym z nim do kraju pełnienia służby poniesione koszty świadczeń, przekraczające w ciągu miesiąca kalendarzowego równowartość kwot, o których mowa odpowiednio w ust. 1 i 3, mogą zostać zwrócone za zgodą Ministra Obrony Narodowej na udokumentowany i uzasadniony wniosek tego żołnierza.
+
+### 5.
+
+Przepisy ust. 1-4 nie mają zastosowania w przypadku świadczeń zdrowotnych z zakresu lecznictwa uzdrowiskowego albo rehabilitacji uzdrowiskowej udzielanych przez zakłady lecznictwa uzdrowiskowego albo poza uzdrowiskiem w szpitalach i sanatoriach ani w przypadku porad i zabiegów z zakresu kosmetyki albo zabiegów medycyny estetycznej.
+
+### 6.
+
+Zwrot kosztów leczenia następuje w walucie bazowej określonej dla państwa, w którym żołnierz wyznaczony pełni służbę. Na wniosek żołnierza wyznaczonego zwrotu kosztów leczenia dokonuje się w złotych polskich, przeliczonych na podstawie tabeli średnich kursów walut publikowanych przez Narodowy Bank Polski z dnia wystawienia faktury lub rachunku, potwierdzających wysokość wydatkowanych środków.
+
+### 7.
+
+Do wniosku o zwrot kosztów zleconych badań i zabiegów oraz zakupów produktów leczniczych i wyrobów medycznych wymienionych w ust. 3 pkt 2-19 dołącza się potwierdzenie ich opłacenia.
+
+### 8.
+
+Żołnierzowi wyznaczonemu oraz uprawnionym członkom rodziny przesiedlonym z nim do kraju pełnienia służby, którzy są uprawnieni do świadczeń opieki zdrowotnej przysługujących ubezpieczonemu, zgodnie z przepisami o koordynacji systemów zabezpieczenia społecznego w Unii Europejskiej na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, Wielkiej Brytanii lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej wypłaca się różnicę między kosztami leczenia poniesionymi przez tego żołnierza, w zakresie i do wysokości określonych w ust. 1-7, a kwotą podlegającą zwrotowi, wyliczoną zgodnie z przepisami o koordynacji systemów zabezpieczenia społecznego w Unii Europejskiej.
+
+### § 17.
+
+### 1.
+
+Zwrot kosztów leczenia następuje na podstawie faktur i rachunków potwierdzających wysokość wydatkowanych środków, a w przypadkach wymienionych w § 16 ust. 1 i ust. 3 pkt 2-6, 10-16, 18 i 19 - dodatkowo na podstawie zleceń lekarskich lub dokumentów wystawionych przez instytucję właściwą w kraju pełnienia służby.
+
+### 2.
+
+Na wniosek żołnierza wyznaczonego organ administrujący wypłaca zaliczkę na pokrycie kosztów wymienionych w § 16 ust. 1-4.
+
+### § 18.
+
+Żołnierzowi wyznaczonemu i uprawnionym członkom rodziny pokrywa się koszty przejazdu do kraju w celu leczenia szpitalnego - w wysokości i na warunkach określonych dla zagranicznych podróży służbowych odbywanych przez żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy.
+
+### § 19.
+
+### 1.
+
+Żołnierzowi wyznaczonemu przysługuje zwrot kosztów przejazdu z zagranicy do kraju i z powrotem wraz z uprawnionymi członkami rodziny przesiedlonymi z nim do kraju pełnienia służby w razie śmierci małżonka, rodziców, rodzeństwa, rodziców małżonka tego żołnierza, dziecka tego żołnierza, dziecka przysposobionego, pasierba oraz dziecka przyjętego na utrzymanie i wychowanie na podstawie orzeczenia sądu - w wysokości i na warunkach określonych dla zagranicznych podróży służbowych odbywanych przez żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy.
+
+### 2.
+
+W przypadku odbycia przejazdu samochodem prywatnym, motocyklem lub motorowerem przysługuje zwrot kosztów w wysokości stanowiącej iloczyn przejechanych kilometrów oraz maksymalnej stawki za 1 km przebiegu pojazdu, zgodnie z przepisami wydanymi na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym ([Dz. U. z 2022 r. poz. 2201](https://api.sejm.gov.pl/eli/acts/DU/2022/2201/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 760, 919, 1123, 1193, 1195, 1523 i 1720.](#gloss-0:1:)).
+
+### § 20.
+
+Żołnierz wyznaczony udający się poza granicę państwa w celu objęcia stanowiska służbowego i w związku z tym zmieniający państwo pobytu lub miejscowość w państwie pobytu albo powracający do kraju po zakończeniu tej służby otrzymuje zwrot udokumentowanych kosztów:
+
+### 1)
+
+podróży przesiedleniowej tego żołnierza i każdego uprawnionego przesiedlającego się z nim członka rodziny - w wysokości i na warunkach określonych dla zagranicznych podróży służbowych żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy; w przypadku odbycia podróży przesiedleniowej samochodem prywatnym, motocyklem lub motorowerem stosuje się przepis § 19 ust. 2;
+
+### 2)
+
+przewozu rzeczy osobistego użytku i przedmiotów gospodarstwa domowego - w wysokości faktycznie poniesionych kosztów, nie więcej jednak niż 200 % dla żołnierza wyznaczonego oraz 150 % dla każdego uprawnionego przesiedlonego członka rodziny stawki brutto najniższego uposażenia zasadniczego żołnierza zawodowego; koszty przewozu mienia w walucie obcej przelicza się według kursu walut średnich Narodowego Banku Polskiego z dnia wystawienia faktury lub rachunku, potwierdzających wysokość wydatkowanych środków.
+
+### § 21.
+
+### 1.
+
+Żołnierzowi wyznaczonemu i członkom jego rodziny przesiedlonym z nim zwraca się koszty przejazdu z miejsca pełnienia służby do miejsca stałego zamieszkania w kraju na urlop wypoczynkowy i z powrotem - na pisemny, udokumentowany wniosek tego żołnierza składany raz na 2 lata służby, nie wcześniej niż po upływie 12 miesięcy służby poza granicami państwa. Wniosek składa się ponownie po każdych następnych 2 latach służby poza granicami państwa, jednak nie w roku, w którym następuje powrót żołnierza wyznaczonego do kraju.
+
+### 2.
+
+Zwrot kosztów przejazdu nieprzesiedlonych członków rodziny z miejscowości zamieszkania w kraju do miejsca pełnienia służby i z powrotem żołnierzowi wyznaczonemu następuje na jego udokumentowany wniosek składany raz na 2 lata. Kolejny wniosek składa się nie wcześniej niż po upływie 2 lat, licząc od dnia skorzystania przez tego żołnierza ze świadczenia, o którym mowa w zdaniu pierwszym.
+
+### 3.
+
+Zwrot kosztów przejazdów, o których mowa w ust. 1 i 2, następuje w wysokości i na warunkach określonych dla zagranicznych podróży służbowych żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy, z tym że środek transportu jest określony przez organ administrujący.
+
+### § 22.
+
+### 1.
+
+Żołnierzowi wyznaczonemu pokrywa się na jego wniosek, ze środków organu administrującego, koszt przejazdu i noclegu małżonka towarzyszącego w podróży służbowej, w przypadkach uzasadnionych zwyczajem międzynarodowym.
+
+### 2.
+
+Pokrycie kosztów, o których mowa w ust. 1, następuje w wysokości i na warunkach określonych dla zagranicznych podróży służbowych żołnierzy zawodowych w art. 445 ust. 7-14 ustawy oraz w przepisach wydanych na podstawie art. 445 ust. 15 ustawy.
+
+### § 23.
+
+### 1.
+
+Żołnierzowi skierowanemu przysługuje bezpłatne zakwaterowanie i wyżywienie:
+
+### 1)
+
+przed wyjazdem, w czasie pobytu w jednostce wojskowej przygotowującej do służby poza granicami państwa, od dnia rozpoczęcia przygotowania poza rejonem stacjonowania jednostki wojskowej, w której żołnierz skierowany pełni służbę, do dnia przekroczenia granicy Rzeczypospolitej Polskiej - w jednostce wojskowej przygotowującej;
+
+### 2)
+
+po powrocie do kraju, od dnia przekroczenia granicy Rzeczypospolitej Polskiej w drodze powrotnej do dnia skierowania na urlop aklimatyzacyjny, o którym mowa w art. 281 ust. 12 ustawy - w jednostce wojskowej, w której w tym czasie żołnierz skierowany przebywał.
+
+### 2.
+
+Organ administrujący, podejmując rozstrzygnięcie o przyznaniu żołnierzowi skierowanemu, o którym mowa w § 3 ust. 1 pkt 1 lit. c, bezpłatnego wyżywienia i zakwaterowania w okresie od dnia przekroczenia granicy państwa do dnia przekroczenia tej granicy w drodze powrotnej, ustala, czy żołnierz ten nie otrzymał ich od misji organizacji międzynarodowej lub sił wielonarodowych w naturze albo w postaci środków pieniężnych przeznaczonych na te świadczenia.
+
+### 3.
+
+Na realizację uprawnień, o których mowa w ust. 1 pkt 2, żołnierzowi skierowanemu, o którym mowa w § 3 ust. 1 pkt 1 lit. b, może być przed wyjazdem do miejsca pełnienia służby wypłacona na jego wniosek zaliczka w wysokości stanowiącej równowartość przewidywanych kosztów zakwaterowania i wyżywienia w pierwszym miesiącu pełnienia służby.
+
+### § 24.
+
+Żołnierzowi skierowanemu świadczenia zdrowotne oraz zaopatrzenie w produkty lecznicze i wyroby medyczne oraz wyposażenie wyrobów medycznych ustala się za czas wykonywania zadań w obszarze działania jednostki wojskowej poza granicami państwa oraz w czasie przewozu tam i z powrotem, od dnia przekroczenia granicy do dnia przekroczenia tej granicy w drodze powrotnej.
+
+### § 25.
+
+### 1.
+
+Żołnierzowi skierowanemu, o którym mowa w § 3 ust. 1 pkt 1 lit. c, świadczenia zdrowotne oraz zaopatrzenie w produkty lecznicze i wyroby medyczne oraz wyposażenie wyrobów medycznych przysługują:
+
+### 1)
+
+przed wyjazdem, w czasie pobytu w jednostce wojskowej przygotowującej go do służby poza granicami państwa, od dnia rozpoczęcia przygotowania poza rejonem stacjonowania jednostki wojskowej, w której pełni służbę, do dnia przekroczenia granicy państwa;
+
+### 2)
+
+po powrocie do kraju, od dnia przekroczenia tej granicy w drodze powrotnej do dnia skierowania na urlop aklimatyzacyjny, o którym mowa w art. 281 ust. 12 ustawy.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, przepis § 23 ust. 2 stosuje się.
+
+### § 26.
+
+W sprawach świadczeń żołnierzy zawodowych wynikających z przepisów rozporządzenia korespondencja, w tym dokumenty i rozstrzygnięcia, między żołnierzem zawodowym a organem administrującym może odbywać się również w formie elektronicznej na ustalone przez nich adresy poczty elektronicznej.
+
+### § 27.
+
+### 1.
+
+Do spraw wszczętych i niezakończonych do dnia wejścia w życie niniejszego rozporządzenia stosuje się przepisy niniejszego rozporządzenia.
+
+### 2.
+
+Do dnia wejścia w życie przepisów wydanych na podstawie art. 54 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej, o których mowa w § 2 ust. 3, do ustalania wysokości świadczeń przysługujących żołnierzom wyznaczonym w stałych przedstawicielstwach przy organizacjach międzynarodowych podległych ministrowi właściwemu do spraw zagranicznych, mających siedzibę poza granicami państwa, stosuje się przepisy, o których mowa w art. 85a pkt 2 ustawy z dnia 21 stycznia 2021 r. o służbie zagranicznej.
+
+### § 28.
+
+Przepisy rozporządzenia mają zastosowanie do ustalania świadczeń żołnierzy zawodowych od dnia 30 marca 2024 r.
+
+### § 29.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.[2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 marca 2015 r. w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa (Dz. U. poz. 479), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 3 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).](#gloss-0:2:)
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 760, 919, 1123, 1193, 1195, 1523 i 1720. 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Rady Ministrów z dnia 10 marca 2015 r. w sprawie pełnienia zawodowej służby wojskowej poza granicami państwa (Dz. U. poz. 479), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 12 ust. 3 pkt 2 ustawy z dnia 17 sierpnia 2023 r. o zmianie ustawy o Agencji Mienia Wojskowego oraz niektórych innych ustaw (Dz. U. poz. 1872).
+
+## Załącznik - Wykaz stawek równoważnika pieniężnego na wynajem lokalu mieszkalnego oraz wysokość ryczałtu na pokrycie niektórych świadczeń związanych z użytkowaniem lokalu mieszkalnego
+
+Lp. Państwo Miejsce pełnienia służby Wysokość równoważnika za 1 m2 Wysokość ryczałtu za media za 1 m2 Waluta 1 Afganistan Kabul 24,93 7,71 EUR 2 Albania Tirana 16,75 2,50 EUR 3 Algieria Algier 28,80 5,23 EUR 4 Arabia Saudyjska Rijad 47,00 4,00 EUR 5 Armenia Erywań 19,02 3,10 EUR 6 Austria Wiedeń 18,00 5,00 EUR 7 Azerbejdżan Baku 21,51 2,80 EUR 8 Belgia Bruksela 18,45 6,70 EUR 9 Belgia Braine L’Alleud 18,45 6,70 EUR 10 Belgia Mons 18,45 6,70 EUR 11 Belgia Ostenda 14,35 5,00 EUR 12 Białoruś Mińsk 15,81 2,04 EUR 13 Brazylia Brasilia 28,30 2,55 EUR 14 Bułgaria Sofia 16,50 4,20 EUR 15 Chiny Pekin 45,00 4,15 EUR 16 Chorwacja Zagrzeb 23,00 2,75 EUR 17 Czechy Praga 19,50 5,73 EUR 18 Czechy Vyskov 11,89 5,00 EUR 19 Dania Kopenhaga 200,00 22,00 DKK 20 Dania Slagelse 120,00 16,40 DKK 21 Egipt Kair 30,00 5,15 USD 22 Estonia Tallin (AO) 18,62 4,50 EUR 23 Estonia Tallin (NFIU, CCD, COE) 15,63 3,96 EUR 24 Estonia Tartu 12,00 3,50 EUR 25 Etiopia Addis Abeba 32,00 9,00 USD 26 Finlandia Helsinki 22,00 3,14 EUR 27 Francja Paryż (AO) 46,00 6,12 EUR 28 Francja Paryż 42,50 5,43 EUR 29 Francja Strasbourg 16,50 5,30 EUR 30 Francja Tuluza 27,14 5,20 EUR 31 Grecja Ateny 20,39 4,00 EUR 32 Grecja Chania 10,50 4,00 EUR 33 Grecja Saloniki 15,71 4,00 EUR 34 Gruzja Tbilisi 17,94 4,00 EUR 35 Hiszpania Madryt 20,16 3,20 EUR 36 Hiszpania Walencja 16,19 3,20 EUR 37 Indie New Delhi 32,56 8,52 EUR 38 Indonezja Dżakarta 25,85 4,05 EUR 39 Irak Bagdad 29,13 3,51 USD 40 Iran Teheran 41,00 0,50 EUR 41 Izrael Tel Awiw 45,00 11,00 EUR 42 Japonia Tokio 7 600,00 640,00 JPY 43 Jordania Amman 20,00 11,80 EUR 44 Kanada Ottawa 31,61 7,04 CAD 45 Kazachstan Astana 27,00 0,50 EUR 46 Korea Południowa Seul 39,14 3,00 EUR 47 Kuwejt Kuwejt 42,76 1,45 EUR 48 Liban Bejrut 22,60 7,46 USD 49 Litwa Wilno 17,31 3,71 EUR 50 Litwa Kowno 16,58 3,71 EUR 51 Luksemburg Capellen 24,33 4,83 EUR 52 Luksemburg Luksemburg 19,89 4,83 EUR 53 Łotwa Ryga (AO) 17,40 4,85 EUR 54 Łotwa Ryga (NFIU STRATCOM COE) 14,93 4,85 EUR 55 Łotwa Ādazi 13,10 3,95 EUR 56 Malezja Kuala Lumpur 23,27 2,20 EUR 57 Meksyk Meksyk 31,99 3,70 USD 58 Mołdawia Kiszyniów 25,00 4,51 EUR 59 Holandia Haga (AO) 26,33 5,38 EUR 60 Holandia Haga (NATEX, CMIX, HQ NCIA) 21,34 5,18 EUR 61 Holandia Brunssum 14,00 4,61 EUR 62 Holandia Eindhoven 17,04 4,61 EUR 63 Holandia Enschede 13,92 4,61 EUR 64 Holandia Maastricht 14,47 4,61 EUR 65 Holandia Nieuw Milligen 13,92 4,61 EUR 66 Niemcy Berlin 32,00 5,52 EUR 67 Niemcy Euskirchen 12,10 5,52 EUR 68 Niemcy Garmisch-Partenkirchen 14,00 5,52 EUR 69 Niemcy Geilenkirchen 12,10 5,52 EUR 70 Niemcy Ingolstadt 14,70 5,52 EUR 71 Niemcy Kaiserslautern 18,50 5,52 EUR 72 Niemcy Kalkar 11,50 5,52 EUR 73 Niemcy Kilonia 12,00 5,52 EUR 74 Niemcy Lipsk 12,75 5,52 EUR 75 Niemcy Neubrandenburg 11,55 5,52 EUR 76 Niemcy Oberammergau 12,55 5,52 EUR 77 Niemcy Oldenburg 12,33 5,52 EUR 78 Niemcy Ramstein 18,50 5,52 EUR 79 Niemcy Strausberg 12,45 5,52 EUR 80 Niemcy Stuttgart 17,10 5,52 EUR 81 Niemcy Uedem 12,52 5,52 EUR 82 Niemcy Ulm 15,50 5,52 EUR 83 Niemcy Wiesbaden 14,35 5,52 EUR 84 Nigeria Abudża 41,00 0,50 EUR 85 Nigeria Lagos 22,13 3,76 EUR 86 Norwegia Oslo 290,00 21,00 NOK 87 Norwegia Stavanger 265,00 21,00 NOK 88 Pakistan Islamabad 35,00 7,70 EUR 89 Portugalia Lizbona 21,50 3,47 EUR 90 Republika Południowej Afryki Pretoria/ Johannesburg 19,04 3,69 USD 91 Rosja Moskwa 56,65 0,50 EUR 92 Rumunia Bukareszt 22,00 5,23 EUR 93 Rumunia Craiova 18,50 4,79 EUR 94 Rumunia Oradea 14,00 4,00 EUR 95 Rumunia Sibiu 18,00 4,30 EUR 96 Serbia Belgrad 18,50 4,21 EUR 97 Słowacja Bratysława (AO) 18,00 4,00 EUR 98 Słowacja Bratysława (NFIU) 17,32 4,00 EUR 99 Słowacja Trencin 10,60 3,15 EUR 100 Słowenia Poljce 16,00 3,30 EUR 101 Szwajcaria Berno 35,00 12,00 CHF 102 Szwecja Sztokholm 311,74 41,54 SEK 103 Turcja Ankara 39,00 9,15 USD 104 Turcja Izmir 39,00 9,15 USD 105 Turcja Stambuł 49,00 12,15 USD 106 Ukraina Kijów 27,00 5,00 EUR 107 Stany Zjednoczone Ameryki (USA) Waszyngton (DC) (AO) 47,34 5,20 USD 108 Stany Zjednoczone Ameryki (USA) Waszyngton (DC) 47,34 5,20 USD 109 Stany Zjednoczone Ameryki (USA) Nowy Jork 59,58 5,42 USD 110 Stany Zjednoczone Ameryki (USA) Charleston (Karolina Południowa) 24,17 3,91 USD 111 Stany Zjednoczone Ameryki (USA) Charlottesville (Virginia) 23,85 4,00 USD 112 Stany Zjednoczone Ameryki (USA) Dyess (Teksas) 18,00 3,29 USD 113 Stany Zjednoczone Ameryki (USA) Fort Hood (Teksas) 17,50 3,55 USD 114 Stany Zjednoczone Ameryki (USA) Fort Knox (Kentucky) 22,09 3,86 USD 115 Stany Zjednoczone Ameryki (USA) Fort Sill (Oklahoma) 15,00 3,20 USD 116 Stany Zjednoczone Ameryki (USA) Hill (Utah) 21,50 4,41 USD 117 Stany Zjednoczone Ameryki (USA) Holloman (Nowy Meksyk) 20,26 3,58 USD 118 Stany Zjednoczone Ameryki (USA) Luke (Arizona) 20,26 3,82 USD 119 Stany Zjednoczone Ameryki (USA) New Cumberland (Pensylwania) 27,27 4,00 USD 120 Stany Zjednoczone Ameryki (USA) Norfolk (Wirginia) 26,00 5,45 USD 121 Stany Zjednoczone Ameryki (USA) Pope (Karolina Północna) 20,89 3,82 USD 122 Stany Zjednoczone Ameryki (USA) Redstone Arsenal (Alabama) 26,52 3,93 USD 123 Stany Zjednoczone Ameryki (USA) Tampa (Floryda) 32,00 4,26 USD 124 Stany Zjednoczone Ameryki (USA) Tinker (Oklahoma) 20,00 4,00 USD 125 Stany Zjednoczone Ameryki (USA) Tucson (Nowy Meksyk) 19,86 4,33 USD 126 Stany Zjednoczone Ameryki (USA) Tyndal (Floryda) 29,45 3,00 USD 127 Stany Zjednoczone Ameryki (USA) Warren (Detroit/Michigan) 29,00 4,10 USD 128 Stany Zjednoczone Ameryki (USA) Wright Patterson (Ohio) 22,49 3,82 USD 129 Uzbekistan Taszkent 21,50 4,60 EUR 130 Węgry Budapeszt 27,39 6,27 EUR 131 Węgry Papa 11,50 3,76 EUR 132 Węgry Szekesfehervar 21,00 5,50 EUR 133 Wielka Brytania Londyn (AO) 55,72 3,96 GBP 134 Wielka Brytania Londyn 50,65 3,96 GBP 135 Wielka Brytania Innsworth 19,00 4,41 GBP 136 Wielka Brytania Molesworth 16,95 4,17 GBP 137 Wielka Brytania Northwood 30,00 3,90 GBP 138 Wielka Brytania Northwood (SFA) 7,34 3,68 GBP 139 Wielka Brytania Yeovilton 16,44 3,87 GBP 140 Wietnam Hanoi 21,50 7,00 USD 141 Włochy Rzym (AO) 34,66 5,00 EUR 142 Włochy Rzym (NDC) 31,80 5,00 EUR 143 Włochy Neapol 19,04 5,54 EUR 144 Włochy Poggio Renatico 14,83 5,00 EUR 145 Włochy Sigonella 18,70 5,34 EUR 146 Włochy Solbiate Olona 16,01 5,00 EUR 147 Włochy Venegono 14,61 5,00 EUR 148 Włochy Vicenza 16,50 5,00 EUR 149 Zjednoczone Emiraty Arabskie Abu Zabi 42,45 1,45 EUR

@@ -8,11 +8,9 @@ pos: 847
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o utworzeniu Politechniki Morskiej w Szczecinie
-
-*USTAWA dnia 7 kwietnia 2022 r.*
+# Ustawa z dnia 7 kwietnia 2022 r. o utworzeniu Politechniki Morskiej w Szczecinie
 
 | Pole | Wartość |
 |---|---|
@@ -24,70 +22,130 @@ domain: null
 | Data ogłoszenia | 2022-04-07 |
 | Data wydania | 2022-04-20 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/847/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/847/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/847) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Tworzy dniem 1 września 2022 r. Politechnikę Morską w Szczecinie, zwaną dalej „Politechniką”.
+### Art. 1.
 
-2. Politechnika jest uczelnią publiczną siedzibą w Szczecinie.
+### 1.
 
-**Art. 2.**
+Tworzy się z dniem 1 września 2022 r. Politechnikę Morską w Szczecinie, zwaną dalej „Politechniką”.
 
-1. Politechnikę tworzy Akademii Morskiej w Szczecinie, zwanej dalej „Akademią”.
+### 2.
 
-2. Z dniem utworzenia Politechniki znosi Akademię.
+Politechnika jest uczelnią publiczną z siedzibą w Szczecinie.
 
-**Art. 3.** Nadzór nad Politechniką sprawuje minister właściwy do spraw gospodarki morskiej.
+### Art. 2.
 
-**Art. 4.**
+### 1.
 
-1. Mienie obejmujące własność i inne prawa majątkowe Akademii staje mieniem Politechniki dniem jej utworzenia.
+Politechnikę tworzy się z Akademii Morskiej w Szczecinie, zwanej dalej „Akademią”.
 
-2. Politechnika przejmuje dniem utworzenia prawa i obowiązki Akademii, w tym prawa i obowiązki wynikające decyzji administracyjnych.
+### 2.
 
-3. Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporządzonym przez Akademię na dzień poprzedzający dzień jej zniesienia. Bilans zamknięcia Akademii staje bilansem otwarcia Politechniki.
+Z dniem utworzenia Politechniki znosi się Akademię.
 
-**Art. 5.**
+### Art. 3.
 
-1. Z dniem utworzenia Politechniki:
+Nadzór nad Politechniką sprawuje minister właściwy do spraw gospodarki morskiej.
 
-- **1)** pracownicy zatrudnieni w Akademii stają pracownikami Politechniki; przepis art. 23 ustawy dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. 2020 r. poz. 1320, 2021 r. poz. 1162 oraz 2022 r. poz. 655) stosuje odpowiednio;
-- **2)** studenci i doktoranci Akademii stają odpowiednio studentami i doktorantami Politechniki;
-- **3)** uczestnicy studiów podyplomowych oraz innych form kształcenia Akademii stają uczestnikami odpowiednio studiów podyplomowych oraz innych form kształcenia Politechniki;
-- **4)** szkoła doktorska działająca w Akademii staje szkołą doktorską Politechniki.
+### Art. 4.
 
-2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2022/2023 do Akademii dniem utworzenia Politechniki stają osobami przyjętymi na pierwszy rok studiów do Politechniki.
+### 1.
 
-**Art. 6.**
+Mienie obejmujące własność i inne prawa majątkowe Akademii staje się mieniem Politechniki z dniem jej utworzenia.
 
-1. W terminie do zakończenia drugiej, po utworzeniu Politechniki, ewaluacji jakości działalności naukowej Politechnika dostosuje do wymogów określonych w art. 16 ust. 2 ustawy dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. 2022 r. poz. 574, 583, 655, 682 i 807).
+### 2.
 
-2. Jeżeli Politechnika nie spełni wymogu, o którym mowa w ust. 1, traci prawo do posługiwania nazwą Politechnika.
+Politechnika przejmuje z dniem utworzenia prawa i obowiązki Akademii, w tym prawa i obowiązki wynikające z decyzji administracyjnych.
 
-3. W przypadku, o którym mowa w ust. 2, nową nazwę Politechniki określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu ministrem właściwym do spraw gospodarki morskiej.
+### 3.
 
-**Art. 7.**
+Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporządzonym przez Akademię na dzień poprzedzający dzień jej zniesienia. Bilans zamknięcia Akademii staje się bilansem otwarcia Politechniki.
 
-1. Członkowie senatu Akademii wybrani na kadencję rozpoczętą dniem 1 września 2020 r. stają dniem utworzenia Politechniki członkami senatu pierwszej kadencji Politechniki.
+### Art. 5.
 
-2. Pierwszego rektora Politechniki powołuje minister właściwy do spraw gospodarki morskiej na okres do końca kadencji rozpoczętej dniem 1 września 2020 r.
+### 1.
 
-3. Rada Akademii wybrana na kadencję rozpoczętą w dniu 1 stycznia 2021 r. staje dniem utworzenia Politechniki radą Politechniki.
+Z dniem utworzenia Politechniki:
 
-4. Pierwszej kadencji rektora Politechniki, senatu Politechniki i rady Politechniki nie wlicza do liczby kadencji, o których mowa w art. 26 ust. 2 zdanie pierwsze, art. 30 ust. 2 oraz art. 21 ust. 2 zdanie pierwsze ustawy dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+### 1)
 
-5. Pierwszy statut Politechniki nadaje minister właściwy do spraw gospodarki morskiej.
+pracownicy zatrudnieni w Akademii stają się pracownikami Politechniki; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2020 r. poz. 1320](https://api.sejm.gov.pl/eli/acts/DU/2020/1320/text.html), [z 2021 r. poz. 1162](https://api.sejm.gov.pl/eli/acts/DU/2021/1162/text.html) oraz [z 2022 r. poz. 655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html)) stosuje się odpowiednio;
 
-6. Kolegium Elektorów, Uczelniana Komisja Wyborcza, Uczelniana Komisja Dyscyplinarna dla Nauczycieli Akademickich, Komisja Dyscyplinarna ds. Studentów, Odwoławcza Komisja Dyscyplinarna ds. Studentów, Komisja Dyscyplinarna ds. Doktorantów, Odwoławcza Komisja Dyscyplinarna ds. Doktorantów, Rzecznik Dyscyplinarny ds. Nauczycieli Akademickich, Rzecznik Dyscyplinarny ds. Studentów, Rzecznik Dyscyplinarny ds. Doktorantów Akademii stają dniem utworzenia Politechniki odpowiednio Kolegium Elektorów, Uczelnianą Komisją Wyborczą, Uczelnianą Komisją Dyscyplinarną dla Nauczycieli Akademickich, Komisją Dyscyplinarną ds. Studentów, Odwoławczą Komisją Dyscyplinarną ds. Studentów, Komisją Dyscyplinarną ds. Doktorantów, Odwoławczą Komisją Dyscyplinarną ds. Doktorantów, Rzecznikiem Dyscyplinarnym ds. Nauczycieli Akademickich, Rzecznikiem Dyscyplinarnym ds. Studentów, Rzecznikiem Dyscyplinarnym ds. Doktorantów Politechniki.
+### 2)
 
-7. Organy samorządu studenckiego i samorządu doktorantów Akademii stają dniem utworzenia Politechniki organami samorządu odpowiednio studenckiego i doktorantów Politechniki.
+studenci i doktoranci Akademii stają się odpowiednio studentami i doktorantami Politechniki;
 
-8. Pierwsze kadencje senatu Politechniki, rady Politechniki oraz Kolegium Elektorów Politechniki kończą upływem kadencji senatu, rady i Kolegium Elektorów trwających w dniu utworzenia Politechniki.
+### 3)
 
-9. Przepisy wewnętrzne, wyłączeniem statutu, Akademii stają dniem utworzenia Politechniki przepisami wewnętrznymi Politechniki do czasu wydania nowych przepisów.
+uczestnicy studiów podyplomowych oraz innych form kształcenia Akademii stają się uczestnikami odpowiednio studiów podyplomowych oraz innych form kształcenia Politechniki;
 
-**Art. 8.** W ustawie dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. 2021 r. poz. 1893, 2368 i 2469 oraz 2022 r. poz. 350 i 807) w art. 10 w ust. 4 wyrazy „Akademią Morską w Szczecinie” zastępuje wyrazami „Politechniką Morską w Szczecinie”.
+### 4)
 
-**Art. 9.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 8, który wchodzi w życie dniem 1 września 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+szkoła doktorska działająca w Akademii staje się szkołą doktorską Politechniki.
 
+### 2.
+
+Osoby przyjęte na pierwszy rok studiów na rok akademicki 2022/2023 do Akademii z dniem utworzenia Politechniki stają się osobami przyjętymi na pierwszy rok studiów do Politechniki.
+
+### Art. 6.
+
+### 1.
+
+W terminie do zakończenia drugiej, po utworzeniu Politechniki, ewaluacji jakości działalności naukowej Politechnika dostosuje się do wymogów określonych w art. 16 ust. 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), [583](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.html), [655](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.html), [682](https://api.sejm.gov.pl/eli/acts/DU/2022/682/text.html) i [807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html)).
+
+### 2.
+
+Jeżeli Politechnika nie spełni wymogu, o którym mowa w ust. 1, traci prawo do posługiwania się nazwą Politechnika.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, nową nazwę Politechniki określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego i nauki w porozumieniu z ministrem właściwym do spraw gospodarki morskiej.
+
+### Art. 7.
+
+### 1.
+
+Członkowie senatu Akademii wybrani na kadencję rozpoczętą z dniem 1 września 2020 r. stają się z dniem utworzenia Politechniki członkami senatu pierwszej kadencji Politechniki.
+
+### 2.
+
+Pierwszego rektora Politechniki powołuje minister właściwy do spraw gospodarki morskiej na okres do końca kadencji rozpoczętej z dniem 1 września 2020 r.
+
+### 3.
+
+Rada Akademii wybrana na kadencję rozpoczętą w dniu 1 stycznia 2021 r. staje się z dniem utworzenia Politechniki radą Politechniki.
+
+### 4.
+
+Pierwszej kadencji rektora Politechniki, senatu Politechniki i rady Politechniki nie wlicza się do liczby kadencji, o których mowa w art. 26 ust. 2 zdanie pierwsze, art. 30 ust. 2 oraz art. 21 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
+
+### 5.
+
+Pierwszy statut Politechniki nadaje minister właściwy do spraw gospodarki morskiej.
+
+### 6.
+
+Kolegium Elektorów, Uczelniana Komisja Wyborcza, Uczelniana Komisja Dyscyplinarna dla Nauczycieli Akademickich, Komisja Dyscyplinarna ds. Studentów, Odwoławcza Komisja Dyscyplinarna ds. Studentów, Komisja Dyscyplinarna ds. Doktorantów, Odwoławcza Komisja Dyscyplinarna ds. Doktorantów, Rzecznik Dyscyplinarny ds. Nauczycieli Akademickich, Rzecznik Dyscyplinarny ds. Studentów, Rzecznik Dyscyplinarny ds. Doktorantów Akademii stają się z dniem utworzenia Politechniki odpowiednio Kolegium Elektorów, Uczelnianą Komisją Wyborczą, Uczelnianą Komisją Dyscyplinarną dla Nauczycieli Akademickich, Komisją Dyscyplinarną ds. Studentów, Odwoławczą Komisją Dyscyplinarną ds. Studentów, Komisją Dyscyplinarną ds. Doktorantów, Odwoławczą Komisją Dyscyplinarną ds. Doktorantów, Rzecznikiem Dyscyplinarnym ds. Nauczycieli Akademickich, Rzecznikiem Dyscyplinarnym ds. Studentów, Rzecznikiem Dyscyplinarnym ds. Doktorantów Politechniki.
+
+### 7.
+
+Organy samorządu studenckiego i samorządu doktorantów Akademii stają się z dniem utworzenia Politechniki organami samorządu odpowiednio studenckiego i doktorantów Politechniki.
+
+### 8.
+
+Pierwsze kadencje senatu Politechniki, rady Politechniki oraz Kolegium Elektorów Politechniki kończą się z upływem kadencji senatu, rady i Kolegium Elektorów trwających w dniu utworzenia Politechniki.
+
+### 9.
+
+Przepisy wewnętrzne, z wyłączeniem statutu, Akademii stają się z dniem utworzenia Politechniki przepisami wewnętrznymi Politechniki do czasu wydania nowych przepisów.
+
+### Art. 8.
+
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2021 r. poz. 1893](https://api.sejm.gov.pl/eli/acts/DU/2021/1893/text.html), [2368](https://api.sejm.gov.pl/eli/acts/DU/2021/2368/text.html) i [2469](https://api.sejm.gov.pl/eli/acts/DU/2021/2469/text.html) oraz [z 2022 r. poz. 350](https://api.sejm.gov.pl/eli/acts/DU/2022/350/text.html) i [807](https://api.sejm.gov.pl/eli/acts/DU/2022/807/text.html)) w art. 10 w ust. 4 wyrazy „Akademią Morską w Szczecinie” zastępuje się wyrazami „Politechniką Morską w Szczecinie”.
+
+### Art. 9.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi w życie z dniem 1 września 2022 r.

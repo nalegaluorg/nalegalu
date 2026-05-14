@@ -1,0 +1,689 @@
+---
+title: Obwieszczenie Ministra Finansów z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zabezpieczeń akcyzowych
+address: WDU20240000601
+eli: DU/2024/601
+publisher: DU
+year: 2024
+pos: 601
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Finansówz dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie zabezpieczeń akcyzowych [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 601 |
+| ISAP | WDU20240000601 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-03-21 |
+| Data wydania | 2024-04-19 |
+| Ostatnia zmiana | 2024-04-22 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/601/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/601) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie zabezpieczeń akcyzowych](#part_2)
+
+- [Załącznik nr 1 - Wniosek o wyrażenie zgody na złożenie zabezpieczenia ryczałtowego/przedłużenie zgody na złożenie zabezpieczenia ryczałtowego (wzór)](#part_3)
+
+- [Załącznik nr 2 - Potwierdzenie złożenia zabezpieczenia akcyzowego (wzór)](#part_4)
+
+- [Załącznik nr 3 - Pokwitowanie złożenia zabezpieczenia akcyzowego (wzór)](#part_5)
+
+- [Załącznik nr 4 - Karta do saldowania zabezpieczenia generalnego (wzór)](#part_6)
+
+- [Załącznik nr 5 - E-karta (wzór)](#part_7)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie zabezpieczeń akcyzowych ([Dz. U. z 2021 r. poz. 115](https://api.sejm.gov.pl/eli/acts/DU/2021/115/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów z dnia 9 stycznia 2023 r. zmieniającym rozporządzenie w sprawie zabezpieczeń akcyzowych ([Dz. U. poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2023/97/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów z dnia 9 stycznia 2023 r. zmieniającego rozporządzenie w sprawie zabezpieczeń akcyzowych ([Dz. U. poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2023/97/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Potwierdzenia złożenia zabezpieczenia akcyzowego i pokwitowania złożenia zabezpieczenia akcyzowego, wydane przed dniem wejścia w życie niniejszego rozporządzenia zgodnie z wzorem określonym odpowiednio w załączniku nr 2 i 3 do rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, nie wymagają zmiany, jeżeli złożone zabezpieczenie akcyzowe zapewnia pokrycie w należnej wysokości lub w terminie obecnych i przyszłych kwot zobowiązania podatkowego lub kwot zobowiązania podatkowego oraz opłaty paliwowej.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 16 stycznia 2023 r., z wyjątkiem § 1 pkt 3, który wchodzi w życie z dniem 13 lutego 2023 r.
+
+” .
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).
+
+## Załącznik - Rozporządzenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie zabezpieczeń akcyzowych[1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710).](#gloss-0:1:)
+
+Na podstawie art. 66 ust. 1, art. 67 ust. 3 i art. 74 ust. 5 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym ([Dz. U. z 2023 r. poz. 1542](https://api.sejm.gov.pl/eli/acts/DU/2023/1542/text.html), [1598](https://api.sejm.gov.pl/eli/acts/DU/2023/1598/text.html) i [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+wzór wniosku o wyrażenie zgody na złożenie zabezpieczenia ryczałtowego i wniosku o przedłużenie zgody na złożenie zabezpieczenia ryczałtowego;
+
+### 2)
+
+szczegółowy sposób ustalania wysokości zabezpieczenia generalnego i ryczałtowego;
+
+### 3)
+
+sposób i miejsce składania zabezpieczenia akcyzowego;
+
+### 4)
+
+sposób dokonania potwierdzenia przyjęcia zabezpieczenia akcyzowego;
+
+### 5)
+
+wzory druków służących do potwierdzenia przyjęcia zabezpieczenia akcyzowego;
+
+### 6)
+
+rodzaje innych dokumentów mających wartość płatniczą, które mogą być przyjmowane jako zabezpieczenie akcyzowe;
+
+### 7)
+
+szczegółowy sposób objęcia zabezpieczeniem akcyzowym wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, o którym mowa w art. 32 ust. 5 pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, zwanej dalej „ustawą”;
+
+### 8)
+
+szczegółowy sposób stosowania zabezpieczenia generalnego i ryczałtowego, w tym sposób:
+
+### a)
+
+ustalania stanu wykorzystania zabezpieczenia generalnego oraz odnotowywania jego obciążenia i zwolnienia z obciążenia kwotą powstałego lub mogącego powstać zobowiązania podatkowego oraz opłaty paliwowej, o której mowa w art. 37h ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ([Dz. U. z 2024 r. poz. 321](https://api.sejm.gov.pl/eli/acts/DU/2024/321/text.html)), zwanej dalej „opłatą paliwową”, której obowiązek zapłaty powstał lub może powstać,
+
+### b)
+
+stosowania zabezpieczenia generalnego i ryczałtowego przy wykorzystaniu Systemu, o którym mowa w art. 2 ust. 1 pkt 26 ustawy, zwanego dalej „Systemem”;
+
+### 9)
+
+sposób i częstotliwość aktualizacji zabezpieczenia generalnego, o której mowa w art. 65 ust. 6 ustawy;
+
+### 10)
+
+szczegółowe warunki i tryb zwrotu zabezpieczenia akcyzowego.
+
+### § 2.
+
+Wzór wniosku o wyrażenie zgody na złożenie zabezpieczenia ryczałtowego i wniosku o przedłużenie zgody na złożenie zabezpieczenia ryczałtowego określa załącznik nr 1 do rozporządzenia.
+
+### § 3.
+
+W przypadku określonym w art. 65 ust. 2 pkt 1 ustawy właściwy naczelnik urzędu skarbowego ustala wysokość zabezpieczenia generalnego składanego:
+
+### 1)
+
+przez podmiot prowadzący skład podatkowy, w tym gdy wydano mu zezwolenie na wysyłanie importowanych wyrobów akcyzowych z miejsca importu z zastosowaniem procedury zawieszenia poboru akcyzy, który nie uzyskał zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego na podstawie art. 64 ust. 1 ustawy, jako równowartość największej dziennej kwoty akcyzy oraz opłaty paliwowej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, stanowiącej sumę kwoty akcyzy oraz kwoty opłaty paliwowej:
+
+### a)
+
+od wszystkich wyrobów akcyzowych znajdujących się w danym dniu w składzie podatkowym albo składach podatkowych prowadzonych przez ten podmiot, łącznie z wyrobami objętymi zwolnieniem od akcyzy ze względu na ich przeznaczenie oraz
+
+### b)
+
+od wyrobów akcyzowych, które w tym dniu znajdowały się w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które w tym dniu znajdowały się w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, oraz
+
+### c)
+
+przypadającej do zapłaty od wyrobów akcyzowych wyprowadzonych ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot poza procedurą zawieszenia poboru akcyzy w okresie rozliczeniowym właściwym dla tego dnia;
+
+### 2)
+
+przez podmiot prowadzący skład podatkowy, w tym gdy wydano mu zezwolenie na wysyłanie importowanych wyrobów akcyzowych z miejsca importu z zastosowaniem procedury zawieszenia poboru akcyzy, który uzyskał zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego na podstawie art. 64 ust. 1 ustawy, jako równowartość największej dziennej kwoty akcyzy oraz opłaty paliwowej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, stanowiącej sumę kwot akcyzy oraz kwot opłaty paliwowej od wyrobów akcyzowych:
+
+### a)
+
+znajdujących się w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy lub wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie znajdujących się w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot oraz
+
+### b)
+
+objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie znajdujących się w tym dniu w składzie podatkowym albo w składach podatkowych;
+
+### 3)
+
+przez zarejestrowanego odbiorcę, z wyłączeniem zarejestrowanego odbiorcy posiadającego zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, jako równowartość największej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, kwoty akcyzy oraz opłaty paliwowej stanowiącej sumę kwot:
+
+### a)
+
+akcyzy obliczonej za miesięczny okres rozliczeniowy i wykazanej w deklaracji podatkowej, przed jej pomniejszeniem o kwotę przysługujących zwolnień oraz
+
+### b)
+
+opłaty paliwowej obliczonej za miesięczny okres rozliczeniowy i wykazanej w informacji o opłacie paliwowej, o której mowa w art. 37o ust. 1 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym, zwanej dalej „informacją o opłacie paliwowej”, oraz
+
+### c)
+
+akcyzy oraz opłaty paliwowej odpowiadających największej w tym okresie rozliczeniowym dziennej kwocie akcyzy oraz kwocie opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie znajdujących się u zarejestrowanego odbiorcy lub dostarczanych w tym dniu do podmiotu zużywającego;
+
+### 4)
+
+przez zarejestrowanego wysyłającego, innego niż podmiot prowadzący skład podatkowy, jako równowartość największej dziennej kwoty akcyzy oraz opłaty paliwowej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, od importowanych wyrobów akcyzowych znajdujących się w danym dniu w trakcie przemieszczania z zastosowaniem procedury zawieszenia poboru akcyzy, wysłanych z miejsc importu z zastosowaniem tej procedury przez tego zarejestrowanego wysyłającego;
+
+### 5)
+
+przez podmiot pośredniczący, jako równowartość sumy kwot, o których mowa w art. 65 ust. 3 ustawy, odpowiadających największej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, ilości wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie dostarczonych ze składu podatkowego lub importowanych przez podmiot pośredniczący;
+
+### 6)
+
+przez pośredniczący podmiot tytoniowy, w kwocie, o której mowa w art. 65 ust. 3b ustawy, odpowiadającej największej, w okresie ostatnich 12 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, ilości nabytego suszu tytoniowego posiadanego przez pośredniczący podmiot tytoniowy;
+
+### 7)
+
+przez podmiot reprezentujący przedsiębiorcę zagranicznego, w kwocie, o której mowa w art. 65 ust. 3b ustawy, odpowiadającej największej, w okresie ostatnich 12 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, ilości nabytego suszu tytoniowego przez tego przedsiębiorcę zagranicznego;
+
+### 8)
+
+przez podatnika, o którym mowa w art. 13 ust. 3 ustawy, jako równowartość największej, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, kwoty stanowiącej sumę kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych wyprowadzonych ze składu podatkowego, obliczonych za miesięczny okres rozliczeniowy i wykazanych odpowiednio w deklaracji podatkowej lub informacji o opłacie paliwowej.
+
+### § 4.
+
+W przypadku określonym w art. 65 ust. 2 pkt 2 ustawy właściwy naczelnik urzędu skarbowego ustala wysokość zabezpieczenia generalnego składanego:
+
+### 1)
+
+przez podmiot prowadzący skład podatkowy, w tym gdy wydano mu zezwolenie na wysyłanie importowanych wyrobów akcyzowych z miejsca importu z zastosowaniem procedury zawieszenia poboru akcyzy, który nie uzyskał zwolnienia z obowiązku złożenia zabezpieczenia akcyzowego na podstawie art. 64 ust. 1 ustawy, jako równowartość przewidywanej największej dziennej kwoty akcyzy oraz opłaty paliwowej stanowiącej sumę kwoty akcyzy oraz kwoty opłaty paliwowej:
+
+### a)
+
+od wszystkich wyrobów akcyzowych, które mogą się znajdować w danym dniu w składzie podatkowym albo składach podatkowych prowadzonych przez ten podmiot, łącznie z wyrobami objętymi zwolnieniem od akcyzy ze względu na ich przeznaczenie oraz
+
+### b)
+
+od wyrobów akcyzowych, które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub od wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz
+
+### c)
+
+mogącej przypadać do zapłaty od wyrobów akcyzowych, które mogą zostać wyprowadzone ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot poza procedurą zawieszenia poboru akcyzy w okresie rozliczeniowym właściwym dla tego dnia;
+
+### 2)
+
+przez podmiot prowadzący skład podatkowy, w tym gdy wydano mu zezwolenie na wysyłanie importowanych wyrobów akcyzowych z miejsca importu z zastosowaniem procedury zawieszenia poboru akcyzy, który uzyskał zwolnienie z obowiązku złożenia zabezpieczenia akcyzowego na podstawie art. 64 ust. 1 ustawy, jako równowartość przewidywanej największej dziennej kwoty akcyzy oraz opłaty paliwowej stanowiącej sumę kwot akcyzy oraz kwot opłaty paliwowej od wyrobów akcyzowych:
+
+### a)
+
+które mogą się znajdować w tym dniu w trakcie przemieszczania przez ten podmiot z zastosowaniem procedury zawieszenia poboru akcyzy, lub wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w trakcie dostarczania ze składu podatkowego albo składów podatkowych prowadzonych przez ten podmiot, lub wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy, przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego, oraz
+
+### b)
+
+objętych zwolnieniem od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować w tym dniu w składzie podatkowym albo w składach podatkowych prowadzonych przez ten podmiot;
+
+### 3)
+
+przez zarejestrowanego odbiorcę, z wyłączeniem zarejestrowanego odbiorcy posiadającego zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, jako równowartość kwoty akcyzy oraz opłaty paliwowej stanowiącej sumę:
+
+### a)
+
+przewidywanej największej kwoty akcyzy za miesięczny okres rozliczeniowy podlegającej wykazaniu w deklaracji podatkowej, przed jej pomniejszeniem o kwotę przysługujących zwolnień oraz
+
+### b)
+
+przewidywanej największej kwoty opłaty paliwowej za miesięczny okres rozliczeniowy podlegającej wykazaniu w informacji o opłacie paliwowej, oraz
+
+### c)
+
+kwoty akcyzy oraz kwoty opłaty paliwowej odpowiadających przewidywanej największej w tym okresie rozliczeniowym kwocie akcyzy oraz kwocie opłaty paliwowej od wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą się znajdować u zarejestrowanego odbiorcy lub być dostarczane w tym dniu do podmiotu zużywającego;
+
+### 4)
+
+przez zarejestrowanego wysyłającego, innego niż podmiot prowadzący skład podatkowy, jako równowartość przewidywanej największej dziennej kwoty akcyzy oraz opłaty paliwowej od importowanych wyrobów akcyzowych, które mogą się znajdować w tym dniu w trakcie przemieszczania z zastosowaniem procedury zawieszenia poboru akcyzy i które mogą zostać wysłane z miejsc importu z zastosowaniem tej procedury przez tego zarejestrowanego wysyłającego;
+
+### 5)
+
+przez podmiot pośredniczący, jako równowartość sumy kwot, o których mowa w art. 65 ust. 3 ustawy, odpowiadających przewidywanej największej ilości wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, które mogą zostać dostarczone ze składu podatkowego lub importowane przez podmiot pośredniczący;
+
+### 6)
+
+przez pośredniczący podmiot tytoniowy, w kwocie, o której mowa w art. 65 ust. 3b ustawy, odpowiadającej przewidywanej największej, w okresie 12 miesięcy, miesięcznej ilości suszu tytoniowego, który może być nabyty przez pośredniczący podmiot tytoniowy;
+
+### 7)
+
+przez podmiot reprezentujący przedsiębiorcę zagranicznego, w kwocie, o której mowa w art. 65 ust. 3b ustawy, odpowiadającej przewidywanej największej, w okresie 12 miesięcy, miesięcznej ilości suszu tytoniowego, który może być nabyty przez tego przedsiębiorcę zagranicznego;
+
+### 8)
+
+przez podatnika, o którym mowa w art. 13 ust. 3 ustawy, jako równowartość przewidywanej największej kwoty stanowiącej sumę kwoty akcyzy oraz kwoty opłaty paliwowej od wyrobów akcyzowych, które mogą zostać wyprowadzone ze składu podatkowego, za miesięczny okres rozliczeniowy i które podlegałyby wykazaniu odpowiednio w deklaracji podatkowej, przed pomniejszeniem o kwotę przysługujących zwolnień, lub informacji o opłacie paliwowej;
+
+### 9[2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 9 stycznia 2023 r. zmieniającego rozporządzenie w sprawie zabezpieczeń akcyzowych (Dz. U. poz. 97), które weszło w życie z dniem 16 stycznia 2023 r.](#gloss-0:2:))
+
+w przypadkach, o których mowa w art. 65 ust. 1 pkt 8 i 9 i ust. 1a ustawy, jako równowartość kwoty wskazanej przez podmiot we wniosku o złożenie zabezpieczenia generalnego, oszacowanej przez ten podmiot na poziomie pozwalającym na pokrycie w każdym czasie zobowiązań podatkowych oraz opłat paliwowych, które mają być objęte tym zabezpieczeniem.
+
+### § 5.
+
+### 1.
+
+W przypadku sprzedaży przez podmiot prowadzący skład podatkowy suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy, wysokość zabezpieczenia generalnego, o którym mowa w § 3 pkt 1 oraz § 4 pkt 1, zwiększa się o kwotę akcyzy od suszu tytoniowego sprzedanego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego.
+
+### 2.
+
+W przypadku pośredniczącego podmiotu tytoniowego będącego jednocześnie podmiotem reprezentującym przedsiębiorcę zagranicznego wysokość zabezpieczenia generalnego składanego przez ten podmiot ustala się jako sumę kwoty zabezpieczenia generalnego, której wysokość została ustalona zgodnie z § 3 pkt 6 i 7, oraz kwoty zabezpieczenia generalnego, której wysokość została ustalona zgodnie z § 4 pkt 6 i 7.
+
+### 3.
+
+W przypadkach, o których mowa w § 4, naczelnik urzędu skarbowego może ustalić wysokość zabezpieczenia generalnego w oparciu o oświadczenie podmiotu składającego zabezpieczenie akcyzowe określające dane stanowiące podstawę do ustalenia wysokości tego zabezpieczenia.
+
+### 4.
+
+W przypadku ustalania wysokości zabezpieczenia generalnego, o którym mowa w § 3 oraz § 4, do jego kwoty:
+
+### 1)
+
+nie wlicza się kwot akcyzy oraz opłaty paliwowej od wyrobów akcyzowych, dla których została określona zerowa stawka akcyzy ze względu na przeznaczenie;
+
+### 2)
+
+wlicza się największą, w okresie ostatnich 6 miesięcy przed dniem ustalenia wysokości zabezpieczenia generalnego, kwotę powstałego zobowiązania podatkowego i opłaty paliwowej, której obowiązek zapłaty powstał, za miesięczny okres rozliczeniowy, w stosunku do wyrobów akcyzowych, dla których została określona zerowa stawka akcyzy ze względu na przeznaczenie, jeżeli te wyroby zostały opodatkowane stawką akcyzy inną niż zero.
+
+### 5.
+
+Na wniosek podmiotu składającego zabezpieczenie generalne, który stosował to zabezpieczenie przez 6 miesięcy i dokonywał w tym okresie zapłaty podatku akcyzowego w terminie, naczelnik urzędu skarbowego może ustalić ponownie wysokość zabezpieczenia generalnego w sposób uproszczony, na poziomie kwoty złożonego zabezpieczenia generalnego pomniejszonej o najmniejszą w tym okresie kwotę wolną tego zabezpieczenia.
+
+### § 6.
+
+### 1.
+
+Wysokość zabezpieczenia generalnego ustalona zgodnie z § 3-5 stanowi odpowiednio podstawę do ustalenia wysokości zabezpieczenia ryczałtowego, o którym mowa w art. 65 ust. 8 ustawy.
+
+### 2.
+
+W przypadku gdy jest składane zabezpieczenie ryczałtowe, którego wysokość jest ustalona jednocześnie na poziomie określonym w art. 65 ust. 9 ustawy oraz na poziomie określonym przez ministra właściwego do spraw finansów publicznych na podstawie art. 66 ust. 2 pkt 3 ustawy, dla każdego z tych poziomów ustala się oddzielnie wysokość zabezpieczenia generalnego stanowiącą podstawę do ustalenia wysokości zabezpieczenia ryczałtowego.
+
+### 3.
+
+W przypadku prowadzenia przez podmiot wielu składów podatkowych wysokość zabezpieczenia generalnego oraz zabezpieczenia ryczałtowego ustala się i przyjmuje to zabezpieczenie łącznie dla wszystkich składów podatkowych albo dla każdego składu oddzielnie, zgodnie ze wskazaniem podmiotu, stosując odpowiednio przepisy § 3 pkt 1 i 2, § 4 pkt 1 i 2 oraz § 5. W przypadku niewskazania przez podmiot sposobu ustalenia wysokości zabezpieczenia generalnego lub zabezpieczenia ryczałtowego zabezpieczenie przyjmuje się w wysokości ustalonej łącznie dla wszystkich składów podatkowych.
+
+### 4.
+
+W przypadku zabezpieczenia akcyzowego obejmującego opłatę paliwową właściwy naczelnik urzędu skarbowego ustala oddzielnie wysokość części zabezpieczenia, o których mowa w art. 73 ust. 1b ustawy, stanowiących łącznie wysokość zabezpieczenia akcyzowego ustaloną zgodnie z § 3, § 4 oraz § 5.
+
+### 5[3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:3:).
+
+W przypadku, o którym mowa w art. 63 ust. 1b ustawy, do ustalenia wysokości zabezpieczenia generalnego oraz zabezpieczenia ryczałtowego przepisy § 3 pkt 1-5 lub § 4 pkt 1-5 i 9 stosuje się odpowiednio.
+
+### § 7.
+
+Zabezpieczenie akcyzowe składa się, w przypadku zabezpieczenia akcyzowego składanego w formie określonej w:
+
+### 1)
+
+art. 67 ust. 1 pkt 1 ustawy - przez:
+
+### a)
+
+wpłacenie kwoty zabezpieczenia akcyzowego w banku krajowym lub oddziale instytucji kredytowej w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2023 r. poz. 2488](https://api.sejm.gov.pl/eli/acts/DU/2023/2488/text.html)), w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ([Dz. U. z 2023 r. poz. 1640](https://api.sejm.gov.pl/eli/acts/DU/2023/1640/text.html) oraz [z 2024 r. poz. 467](https://api.sejm.gov.pl/eli/acts/DU/2024/467/text.html)), w spółdzielczej kasie oszczędnościowo-kredytowej, w biurze usług płatniczych, w instytucji płatniczej lub w instytucji pieniądza elektronicznego w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych ([Dz. U. z 2024 r. poz. 30](https://api.sejm.gov.pl/eli/acts/DU/2024/30/text.html)), na właściwy bankowy rachunek urzędu skarbowego, na który dokonuje się wpłaty kwot z tytułu zapłaty akcyzy albo
+
+### b)
+
+dokonanie, na podstawie dyspozycji udzielonej przez podmiot składający zabezpieczenie akcyzowe, przelewu kwoty zabezpieczenia akcyzowego na właściwy bankowy rachunek urzędu skarbowego, na który dokonuje się wpłaty kwot z tytułu zapłaty akcyzy, przez prowadzące rachunek tego podmiotu: bank krajowy, spółdzielczą kasę oszczędnościowo-kredytową, instytucję kredytową lub jej oddział, biuro usług płatniczych, instytucję płatniczą lub instytucję pieniądza elektronicznego w rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, albo
+
+### c)
+
+wpłacenie kwoty zabezpieczenia akcyzowego gotówką w kasie urzędu skarbowego;
+
+### 2)
+
+art. 67 ust. 1 pkt 2 ustawy - przez złożenie w urzędzie skarbowym oryginału dokumentu gwarancji bankowej lub ubezpieczeniowej, wystawionej przez gwaranta, o którym mowa w art. 69 ust. 3 ustawy, na kwotę wymaganego zabezpieczenia akcyzowego;
+
+### 3)
+
+art. 67 ust. 1 pkt 3 ustawy - przez złożenie w urzędzie skarbowym czeku gotówkowego lub rozrachunkowego, wystawionego przez podmiot składający zabezpieczenie akcyzowe na kwotę zabezpieczenia akcyzowego, potwierdzonego do wysokości tej kwoty przez osobę prawną mającą siedzibę na terytorium Unii Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym lub przez oddział banku zagranicznego, którzy prowadzą na terytorium kraju działalność bankową w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe;
+
+### 4)
+
+art. 67 ust. 1 pkt 4 lub 5 ustawy - przez złożenie w urzędzie skarbowym weksla własnego lub innych dokumentów mających wartość płatniczą, o których mowa w § 8 ust. 1, na kwotę równą wysokości wymaganego zabezpieczenia akcyzowego określoną według wartości nominalnej tych dokumentów;
+
+### 5)
+
+art. 67 ust. 1 pkt 6 ustawy - przez złożenie w urzędzie skarbowym odpisu księgi wieczystej potwierdzającego ustanowienie hipoteki na rzecz Skarbu Państwa reprezentowanego przez naczelnika urzędu skarbowego właściwego w sprawie złożenia zabezpieczenia akcyzowego na nieruchomości spełniającej przesłanki określone w art. 69a ust. 9 ustawy.
+
+### § 8.
+
+### 1.
+
+Dokumentami mającymi wartość płatniczą, które mogą być przyjmowane przez właściwego naczelnika urzędu skarbowego jako zabezpieczenie akcyzowe, są papiery wartościowe na okaziciela o określonym terminie wykupu, wyemitowane przez Skarb Państwa albo Narodowy Bank Polski.
+
+### 2.
+
+W przypadku papierów wartościowych, o których mowa w ust. 1, występujących w formie zdematerializowanej, właściwy naczelnik urzędu skarbowego przyjmuje świadectwo depozytowe albo inny dokument - wydane osobie uprawnionej do wykonywania praw z oznaczonych w treści świadectwa albo innego dokumentu papierów wartościowych wraz z oświadczeniem podmiotu prowadzącego rachunek tych papierów wartościowych o ustanowieniu na określony okres blokady odpowiedniej liczby papierów wartościowych na tym rachunku na rzecz właściwego naczelnika urzędu skarbowego.
+
+### § 9.
+
+### 1.
+
+Właściwy naczelnik urzędu skarbowego przyjmujący zabezpieczenie akcyzowe złożone w sposób, o którym mowa w § 7 pkt 1 lit. a i b oraz pkt 2 i 5, wydaje podmiotowi składającemu zabezpieczenie akcyzowe potwierdzenie złożenia zabezpieczenia akcyzowego, zwane dalej „potwierdzeniem”. Wzór potwierdzenia określa załącznik nr 2 do rozporządzenia.
+
+### 2.
+
+Właściwy naczelnik urzędu skarbowego przyjmujący zabezpieczenie akcyzowe złożone w sposób, o którym mowa w § 7 pkt 1 lit. c oraz pkt 3 i 4, wydaje podmiotowi składającemu zabezpieczenie akcyzowe pokwitowanie złożenia tego zabezpieczenia, będące drukiem ścisłego zarachowania, zwane dalej „pokwitowaniem”. Wzór pokwitowania określa załącznik nr 3 do rozporządzenia.
+
+### 3.
+
+W przypadku, o którym mowa w § 7 pkt 1 lit. a i b, potwierdzenie wydaje się po uzyskaniu potwierdzenia wpływu kwoty zabezpieczenia akcyzowego na właściwy rachunek bankowy właściwego urzędu skarbowego.
+
+### 4.
+
+Potwierdzenie wydaje się w dwóch egzemplarzach, z których jeden jest wydawany podmiotowi składającemu zabezpieczenie akcyzowe, a drugi jest zatrzymywany przez naczelnika urzędu skarbowego, który je wydał.
+
+### 5.
+
+Pokwitowanie wydaje się w trzech egzemplarzach, z których jeden jest wydawany podmiotowi składającemu zabezpieczenie akcyzowe, a pozostałe są zatrzymywane przez naczelnika urzędu skarbowego, który je wydał.
+
+### 6.
+
+W przypadku złożenia zabezpieczenia generalnego właściwy naczelnik urzędu skarbowego, wydając potwierdzenie lub pokwitowanie, wydaje podmiotowi, który będzie stosował zabezpieczenie generalne, również kartę do saldowania zabezpieczenia generalnego, zwaną dalej „kartą do saldowania”. Wzór karty do saldowania określa załącznik nr 4 do rozporządzenia.
+
+### 7.
+
+Kartę do saldowania wydaje się na okres o miesiąc krótszy niż okres ważności złożonego zabezpieczenia akcyzowego, a w przypadku gdy forma złożonego zabezpieczenia akcyzowego zapewnia co najmniej przez miesiąc po upływie ważności tego zabezpieczenia pokrycie objętego nim zobowiązania podatkowego albo zobowiązania podatkowego i opłaty paliwowej - na okres jego ważności.
+
+### 8.
+
+W przypadku złożenia przez podmiot nowego zabezpieczenia akcyzowego zgodnie z art. 72 ust. 2 ustawy, kartę do saldowania wydaną na okres o miesiąc krótszy niż okres ważności złożonego zabezpieczenia akcyzowego zastępuje się nową kartą do saldowania, której termin ważności określa się do końca okresu ważności tego zabezpieczenia.
+
+### 9.
+
+Właściwy naczelnik urzędu skarbowego może wydać podmiotowi uprawnionemu do stosowania zabezpieczenia generalnego, na jego uzasadniony wniosek, większą liczbę kart do saldowania, określając w każdej z nich cząstkową kwotę zabezpieczenia generalnego, do wysokości której karta może być stosowana.
+
+### 10.
+
+Na wniosek podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego właściwy naczelnik urzędu skarbowego może zwiększyć liczbę stron karty do saldowania, pod warunkiem ich trwałego złączenia, ponumerowania, opieczętowania i dokonania adnotacji na pierwszej stronie karty o łącznej liczbie stron.
+
+### 11.
+
+Dla zabezpieczenia pokrycia zobowiązań podatkowych albo zobowiązań podatkowych i opłat paliwowych dotyczących wyrobów akcyzowych, które będą przemieszczane przy wykorzystaniu Systemu, właściwy naczelnik urzędu skarbowego wydaje podmiotowi, który będzie stosował zabezpieczenie generalne, dokument „e-kartę” albo dokumenty „e-karty”, określając w nich odpowiednio cząstkową kwotę albo cząstkowe kwoty zabezpieczenia generalnego, do wysokości których zabezpieczenie to może być saldowane automatycznie. Przepisy ust. 7 i 8 stosuje się odpowiednio. Wzór e-karty określa załącznik nr 5 do rozporządzenia.
+
+### 12.
+
+Suma cząstkowych kwot zabezpieczenia generalnego określonych w kartach do saldowania i e-kartach nie może przekroczyć kwoty złożonego zabezpieczenia generalnego.
+
+### 13.
+
+Po wyczerpaniu miejsca na adnotacje w karcie do saldowania albo na uzasadniony wniosek podmiotu uprawnionego do stosowania zabezpieczenia generalnego właściwy naczelnik urzędu skarbowego, który ją wydał, wydaje nowy egzemplarz karty, na którym zamieszcza informację o aktualnym stanie wykorzystania zabezpieczenia generalnego, w szczególności przez odnotowanie wszystkich zobowiązań podatkowych lub opłat paliwowych, którymi jest obciążone to zabezpieczenie.
+
+### § 10.
+
+### 1.
+
+Właściwy naczelnik urzędu skarbowego odnotowuje każdorazowo na karcie do saldowania obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego albo kwotą zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać, z uwzględnieniem ust. 2, zwane dalej „obciążeniem zabezpieczenia generalnego”, oraz zwolnienie zabezpieczenia generalnego z obciążenia kwotą zobowiązania podatkowego, które wygasło lub nie może już powstać, lub opłaty paliwowej, której obowiązek zapłaty wygasł lub nie może już powstać, zwane dalej „zwolnieniem zabezpieczenia generalnego”, w sposób umożliwiający obliczenie w każdym czasie kwoty wolnej zabezpieczenia stanowiącej kwotę złożonego zabezpieczenia pomniejszoną o kwoty zobowiązań podatkowych oraz opłat paliwowych, którymi zabezpieczenie jest obciążone.
+
+### 2.
+
+W przypadku wyrobów akcyzowych, dla których została określona zerowa stawka akcyzy ze względu na przeznaczenie, obciążenie zabezpieczenia generalnego kwotą powstałego zobowiązania podatkowego oraz opłaty paliwowej, której obowiązek zapłaty powstał, w stosunku do tych wyrobów, odnotowuje się w przypadku opodatkowania tych wyrobów stawką akcyzy inną niż zero.
+
+### 3.
+
+Obciążenie zabezpieczenia generalnego odnotowuje się po stwierdzeniu, że zobowiązanie podatkowe powstało lub powstał obowiązek zapłaty opłaty paliwowej, lub mogą one powstać, z uwzględnieniem ust. 2, po przedłożeniu przez podmiot obowiązany do złożenia zabezpieczenia akcyzowego:
+
+### 1)
+
+oryginału karty do saldowania, na podstawie której dokonuje się ustalenia stanu wykorzystania tego zabezpieczenia;
+
+### 2)
+
+dokumentów określających rodzaj i ilość wyrobów akcyzowych objętych tym zabezpieczeniem, w sposób umożliwiający obliczenie lub oszacowanie powstałego lub mogącego powstać zobowiązania podatkowego lub opłaty paliwowej, której obowiązek zapłaty powstał lub może powstać.
+
+### 4.
+
+W przypadku podmiotu prowadzącego skład podatkowy przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, powinno nastąpić z chwilą powstania obowiązku podatkowego z tytułu wyprodukowania wyrobu akcyzowego w składzie podatkowym, nie później jednak niż następnego dnia roboczego po wyprodukowaniu tego wyrobu.
+
+### 4a.
+
+W przypadku podmiotu prowadzącego skład podatkowy, do którego wprowadzane są wyroby akcyzowe, o których mowa w art. 40 ust. 6 ustawy, przemieszczane na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, następuje najpóźniej wraz z dokonaniem do właściwego naczelnika urzędu skarbowego zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym.
+
+### 5[4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 13 lutego 2023 r.](#gloss-0:4:).
+
+W przypadku, o którym mowa w art. 65 ust. 1a pkt 2 ustawy, objęcie zobowiązania podatkowego lub opłaty paliwowej podmiotu, o którym mowa w art. 2 ust. 1 pkt 31 lit. a lub pkt 32 lit. f ustawy, zabezpieczeniem generalnym przewoźnika lub spedytora może być dokonane po przedłożeniu przez ten podmiot właściwemu naczelnikowi urzędu skarbowego, przed wyprowadzeniem ze składu podatkowego wyrobów akcyzowych przemieszczanych odpowiednio z zastosowaniem procedury zawieszenia poboru akcyzy lub przed wyprowadzeniem wyrobów akcyzowych z miejsca wysyłki na terytorium państwa członkowskiego poza procedurą zawieszenia poboru akcyzy na podstawie art. 46pa ustawy, pisemnego oświadczenia przewoźnika lub spedytora o wyrażeniu zgody na objęcie ich zabezpieczeniem generalnym:
+
+### 1)
+
+określonego zobowiązania podatkowego tego podmiotu albo
+
+### 2)
+
+określonych zobowiązań podatkowych tego podmiotu, albo
+
+### 3)
+
+określonego zobowiązania podatkowego oraz określonej opłaty paliwowej tego podmiotu, albo
+
+### 4)
+
+określonych zobowiązań podatkowych oraz opłat paliwowych tego podmiotu.
+
+### 6.
+
+W przypadku, o którym mowa w art. 63 ust. 4 ustawy, objęcie zobowiązania podatkowego albo zobowiązania podatkowego oraz opłaty paliwowej podmiotu prowadzącego skład podatkowy, będącego podmiotem wysyłającym, o którym mowa w art. 2 ust. 1 pkt 31 lit. a lub b ustawy, zabezpieczeniem akcyzowym podmiotu prowadzącego skład podatkowy lub podmiotu pośredniczącego, będących podmiotem odbierającym, o którym mowa w art. 2 ust. 1 pkt 32 lit. a lub b ustawy, może być dokonane po przedłożeniu:
+
+### 1)
+
+przez podmiot prowadzący skład podatkowy, będący podmiotem wysyłającym, o którym mowa w art. 2 ust. 1 pkt 31 lit. a ustawy, właściwemu naczelnikowi urzędu skarbowego, przed wyprowadzeniem ze składu podatkowego wyrobów akcyzowych przemieszczanych z zastosowaniem procedury zawieszenia poboru akcyzy do składu podatkowego podmiotu odbierającego, o którym mowa w art. 2 ust. 1 pkt 32 lit. a ustawy, pisemnego oświadczenia podmiotu odbierającego o wyrażeniu zgody na objęcie jego zabezpieczeniem akcyzowym:
+
+### a)
+
+określonego zobowiązania podatkowego tego podmiotu wysyłającego albo
+
+### b)
+
+określonych zobowiązań podatkowych tego podmiotu wysyłającego, albo
+
+### c)
+
+określonego zobowiązania podatkowego oraz opłaty paliwowej tego podmiotu wysyłającego, albo
+
+### d)
+
+określonych zobowiązań podatkowych oraz opłat paliwowych tego podmiotu wysyłającego;
+
+### 2)
+
+przez podmiot prowadzący skład podatkowy, będący podmiotem wysyłającym, o którym mowa w art. 2 ust. 1 pkt 31 lit. b ustawy, właściwemu naczelnikowi urzędu skarbowego, przed wyprowadzeniem ze składu podatkowego wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie, pisemnego oświadczenia podmiotu pośredniczącego, będącego podmiotem odbierającym, o którym mowa w art. 2 ust. 1 pkt 32 lit. b ustawy, o wyrażeniu zgody na objęcie jego zabezpieczeniem akcyzowym:
+
+### a)
+
+określonego zobowiązania podatkowego tego podmiotu wysyłającego albo
+
+### b)
+
+określonych zobowiązań podatkowych tego podmiotu wysyłającego, albo
+
+### c)
+
+określonego zobowiązania podatkowego oraz opłaty paliwowej tego podmiotu wysyłającego, albo
+
+### d)
+
+określonych zobowiązań podatkowych oraz opłat paliwowych tego podmiotu wysyłającego.
+
+### 7[5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 13 lutego 2023 r.](#gloss-0:5:).
+
+W przypadku podatnika, o którym mowa w art. 78 ust. 3 ustawy, przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, następuje najpóźniej z chwilą złożenia właściwemu naczelnikowi urzędu skarbowego zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym.
+
+### 8.
+
+W przypadku podatnika, o którym mowa w art. 13 ust. 3 ustawy, przedłożenie dokumentów, o których mowa w ust. 3, w celu odnotowania obciążenia zabezpieczenia generalnego, następuje przed wyprowadzeniem ze składu podatkowego poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych niebędących własnością podmiotu prowadzącego skład podatkowy.
+
+### 9.
+
+Właściwy naczelnik urzędu skarbowego odnotowuje zwolnienie zabezpieczenia generalnego, odpowiednio w całości lub części, na wniosek podmiotu obowiązanego do złożenia zabezpieczenia akcyzowego po stwierdzeniu, że zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej, w całości lub części, wygasły lub nie mogą już powstać, i po przedłożeniu przez ten podmiot oryginału karty do saldowania, na której dokonano obciążenia tego zabezpieczenia generalnego.
+
+### § 11.
+
+### 1.
+
+W przypadku przemieszczania przez podmiot wysyłający wyrobów akcyzowych przy wykorzystaniu Systemu ustalanie stanu wykorzystania zabezpieczenia generalnego odbywa się w sposób automatyczny.
+
+### 2.
+
+Odnotowanie obciążenia zabezpieczenia generalnego lub odnotowanie objęcia wyrobów akcyzowych, z wyłączeniem wyrobów określonych w załączniku nr 2 do ustawy i opodatkowanych zerową stawką akcyzy ze względu na ich przeznaczenie, zabezpieczeniem ryczałtowym podmiotu wysyłającego lub podmiotu odbierającego na terytorium kraju następuje automatycznie po ustaleniu w Systemie, że:
+
+### 1)
+
+podmiot wysyłający lub podmiot odbierający jest uprawniony do zastosowania tego zabezpieczenia akcyzowego;
+
+### 2)
+
+nie upłynął termin ważności tego zabezpieczenia akcyzowego;
+
+### 3)
+
+kwota zobowiązania podatkowego albo kwota zobowiązania podatkowego oraz opłaty paliwowej, którą ma zostać obciążone zabezpieczenie generalne, nie jest większa od kwoty wolnej tego zabezpieczenia;
+
+### 4)
+
+forma i rodzaj zabezpieczenia akcyzowego są właściwe do objęcia nim zobowiązania podatkowego albo zobowiązania podatkowego oraz opłaty paliwowej;
+
+### 5)
+
+przemieszczane wyroby akcyzowe i sposób ich przemieszczania są właściwe dla zastosowania tego zabezpieczenia akcyzowego.
+
+### 3.
+
+Właściwy naczelnik urzędu skarbowego odnotowuje w Systemie zwolnienie zabezpieczenia generalnego z obciążenia lub zwolnienie wyrobów akcyzowych z objęcia zabezpieczeniem ryczałtowym, które zostały złożone przez podmiot prowadzący skład podatkowy, podmiot pośredniczący lub zarejestrowanego odbiorcę, innego niż zarejestrowany odbiorca posiadający zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, w przypadku gdy przemieszczone do tych podmiotów z wykorzystaniem Systemu wyroby akcyzowe zwolnione od akcyzy ze względu na ich przeznaczenie zostaną przez te podmioty zużyte na cele uprawniające do zastosowania zwolnienia lub gdy zobowiązanie podatkowe lub obowiązek zapłaty opłaty paliwowej dotyczące tych wyrobów, w całości lub w części, wygasły lub nie mogą już powstać.
+
+### 4.
+
+Właściwy naczelnik urzędu skarbowego odnotowuje w Systemie zwolnienia, o których mowa w ust. 3, po przedstawieniu przez podmiot prowadzący skład podatkowy, podmiot pośredniczący lub zarejestrowanego odbiorcę, innego niż zarejestrowany odbiorca posiadający zezwolenie na jednorazowe nabycie wyrobów akcyzowych jako zarejestrowany odbiorca, dokumentacji wynikającej z prowadzonej ewidencji, potwierdzającej zużycie wyrobów akcyzowych zwolnionych od akcyzy ze względu na ich przeznaczenie na cele uprawniające do ich zwolnienia lub zaistnienie stanu faktycznego dających podstawę do zwolnienia zabezpieczenia generalnego lub zwolnienia wyrobów akcyzowych z objęcia ich zabezpieczeniem ryczałtowym.
+
+### § 12.
+
+Podmiot pośredniczący powinien aktualizować wysokość zabezpieczenia generalnego przynajmniej raz w miesiącu.
+
+### § 13.
+
+### 1.
+
+Pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego, z chwilą nabycia suszu tytoniowego lub objęcia suszu tytoniowego importowanego przez pośredniczący podmiot tytoniowy procedurą dopuszczenia do obrotu w rozumieniu przepisów prawa celnego, odnotowują każdorazowo na karcie do saldowania obciążenie zabezpieczenia generalnego kwotą powstałego lub mogącego powstać zobowiązania podatkowego, którą stanowi kwota akcyzy przypadająca do zapłaty w przypadku:
+
+### 1)
+
+sprzedaży nabytego suszu tytoniowego na terytorium kraju innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy;
+
+### 2)
+
+zużycia suszu tytoniowego na terytorium kraju przez pośredniczący podmiot tytoniowy.
+
+### 2.
+
+Pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego odnotowują na karcie do saldowania zwolnienie zabezpieczenia generalnego z obciążenia kwotą zobowiązania podatkowego, o którym mowa w ust. 1, jeżeli zobowiązanie podatkowe wygasło albo nie może już powstać. Zwolnienie zabezpieczenia generalnego może nastąpić najwcześniej po:
+
+### 1)
+
+potwierdzeniu odbioru suszu tytoniowego sprzedanego podmiotowi prowadzącemu skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczącemu podmiotowi tytoniowemu na terytorium kraju;
+
+### 2)
+
+potwierdzeniu odbioru suszu tytoniowego będącego przedmiotem dostawy wewnątrzwspólnotowej przez podmiot odbierający na dokumencie handlowym;
+
+### 3)
+
+potwierdzeniu eksportu suszu tytoniowego przez właściwy urząd skarbowy;
+
+### 4)
+
+dokonaniu zapłaty kwoty powstałego zobowiązania podatkowego - w przypadku sprzedaży nabytego suszu tytoniowego innemu podmiotowi niż podmiot prowadzący skład podatkowy, który zużywa susz tytoniowy do produkcji wyrobów tytoniowych, lub pośredniczący podmiot tytoniowy, lub zużycia nabytego suszu tytoniowego przez pośredniczący podmiot tytoniowy.
+
+### 3.
+
+Pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego powinien aktualizować wysokość zabezpieczenia generalnego przynajmniej raz w miesiącu.
+
+### 4.
+
+W celu prawidłowej aktualizacji wysokości złożonego zabezpieczenia generalnego pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego ustalają na bieżąco stan jego wykorzystania, obliczając każdorazowo wysokość kwoty wolnej zabezpieczenia, najpóźniej na dzień przed nabyciem suszu tytoniowego na terytorium kraju lub objęciem suszu tytoniowego, importowanego przez pośredniczący podmiot tytoniowy, procedurą dopuszczenia do obrotu w rozumieniu przepisów prawa celnego.
+
+### 5.
+
+W przypadku ustalenia, że kwota wolna zabezpieczenia generalnego, o której mowa w ust. 4, jest niewystarczająca do objęcia tym zabezpieczeniem akcyzy od kolejnej ilości nabytego suszu tytoniowego, pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego dokonują zwiększenia kwoty złożonego zabezpieczenia najpóźniej na dzień przed odpowiednio nabyciem tego suszu lub jego objęciem procedurą dopuszczenia do obrotu w rozumieniu przepisów prawa celnego.
+
+### 6.
+
+Pośredniczący podmiot tytoniowy oraz podmiot reprezentujący przedsiębiorcę zagranicznego przedkładają kartę do saldowania do wglądu właściwemu naczelnikowi urzędu skarbowego, a na żądanie tego naczelnika, również dokumenty, na podstawie których dokonano obciążenia zabezpieczenia generalnego lub zwolnienia go z tego obciążenia, przynajmniej raz w miesiącu w terminie do 15. dnia każdego miesiąca kalendarzowego.
+
+### § 14.
+
+### 1.
+
+Zabezpieczenia akcyzowe złożone w sposób określony w § 7 pkt 1 lit. c oraz pkt 3 i 4 mogą zostać zwrócone osobie uprawnionej do ich odbioru po zwrocie oryginału pokwitowania.
+
+### 2.
+
+W przypadku stosowania procedury zawieszenia poboru akcyzy zabezpieczenie akcyzowe podlega zwrotowi po zakończeniu i rozliczeniu tej procedury.
+
+### 3.
+
+Zabezpieczenie akcyzowe złożone w sposób, o którym mowa w § 7:
+
+### 1)
+
+pkt 1 lit. a i b - zwraca w kwocie nominalnej urząd skarbowy, na którego rachunek bankowy została wpłacona lub przelana kwota zabezpieczenia akcyzowego, przelewem na rachunek podmiotu zobowiązanego do złożenia zabezpieczenia akcyzowego w banku krajowym, instytucji kredytowej lub jej oddziale, spółdzielczej kasie oszczędnościowo-kredytowej, instytucji płatniczej lub instytucji pieniądza elektronicznego - po uzyskaniu przez ten urząd z banku prowadzącego jego rachunek wyciągu bankowego potwierdzającego uznanie tego rachunku kwotą zabezpieczenia;
+
+### 2)
+
+pkt 1 lit. c - może zostać zwrócone w kwocie nominalnej w każdym urzędzie skarbowym;
+
+### 3)
+
+pkt 2 i 4 - zwraca się w tym urzędzie skarbowym, w którym zostało złożone;
+
+### 4)
+
+pkt 3:
+
+### a)
+
+zwraca się w urzędzie skarbowym, w którym zostało złożone,
+
+### b)
+
+w przypadku realizacji przez urząd skarbowy czeku, o którym mowa w art. 67 ust. 1 pkt 3 ustawy - zwraca się w kwocie nominalnej w urzędzie skarbowym, na którego rachunek bankowy została wpłacona kwota pochodząca z realizacji czeku, po uzyskaniu przez ten urząd wyciągu bankowego potwierdzającego uznanie tego rachunku tą kwotą.
+
+### 4.
+
+W przypadku zagubienia oryginału pokwitowania zabezpieczenie akcyzowe może zostać zwrócone osobie uprawnionej do jego odbioru po złożeniu przez nią pisemnego oświadczenia o zagubieniu oryginału pokwitowania. Zabezpieczenie akcyzowe, o którym mowa w § 7 pkt 1 lit. c, może zostać zwrócone osobie uprawnionej do jego odbioru w urzędzie skarbowym, w którym zostało złożone, po uzyskaniu przez ten urząd potwierdzenia, że kwota zabezpieczenia nie została zwrócona w innym urzędzie skarbowym, nie później jednak niż przed upływem dwóch miesięcy od dnia złożenia w tym urzędzie oświadczenia o zagubieniu oryginału pokwitowania.
+
+### § 15.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2019 r.[6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie zabezpieczeń akcyzowych (Dz. U. poz. 429 oraz z 2018 r. poz. 1017), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne (Dz. U. poz. 1697 i 2511).](#gloss-0:6:)
+
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej - finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 2710). 2) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 9 stycznia 2023 r. zmieniającego rozporządzenie w sprawie zabezpieczeń akcyzowych (Dz. U. poz. 97), które weszło w życie z dniem 16 stycznia 2023 r. 3) Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 3 lit. a rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 13 lutego 2023 r. 5) W brzmieniu ustalonym przez § 1 pkt 3 lit. b rozporządzenia, o którym mowa w odnośniku 2; wszedł w życie z dniem 13 lutego 2023 r. 6) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 24 lutego 2017 r. w sprawie zabezpieczeń akcyzowych (Dz. U. poz. 429 oraz z 2018 r. poz. 1017), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia w związku z wejściem w życie ustawy z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne (Dz. U. poz. 1697 i 2511).
+
+## Załącznik nr 1 - Wniosek o wyrażenie zgody na złożenie zabezpieczenia ryczałtowego/przedłużenie zgody na złożenie zabezpieczenia ryczałtowego (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 2 - Potwierdzenie złożenia zabezpieczenia akcyzowego (wzór)[7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:7:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
+
+## Załącznik nr 3 - Pokwitowanie złożenia zabezpieczenia akcyzowego (wzór)[7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:7:)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+7) W brzmieniu ustalonym przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 2.
+
+## Załącznik nr 4 - Karta do saldowania zabezpieczenia generalnego (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 5 - E-karta (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

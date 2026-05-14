@@ -8,11 +8,9 @@ pos: 269
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie ustawy - Kodeks celny oraz ustawy - Kodeks postępowania cywilnego
-
-*USTAWA dnia 2 marca 2000 r.*
+# Ustawa z dnia 2 marca 2000 r. o zmianie ustawy - Kodeks celny oraz ustawy - Kodeks postępowania cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -24,55 +22,248 @@ domain: null
 | Data ogłoszenia | 2000-03-02 |
 | Data wydania | 2000-03-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000220269) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/269/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2000/269/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2000/269) |
 
-1.
-ustawie dnia 9 stycznia 1997 r. - Kodeks celny (Dz.U. Nr 23, poz. 117, Nr 64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 i Nr 160, poz. 1084, 1998 r. Nr 106, poz. 668 i Nr 160, poz. 1063 oraz 1999 r. Nr 40, poz. 402 i Nr 72, poz. 802) wprowadza następujące zmiany:
-1) 58:
-a) skreśla zdanie drugie,
-b) 1a i 1b brzmieniu: „§1a. Jeżeli cofnięcie towaru, którym mowa 1, jest niemożliwe niedopuszczalne, organ celny może nakazać zniszczenie towaru.
-§1b. Jeżeli:
-1) umowy międzynarodowe przepisy odrębne, których mowa 1, przewidują przepadek towaru
-2) nakaz zniszczenia, którym mowa 1a, nie może być wydany powodu braku osoby zobowiązanej rozumieniu 36,
-3) zniszczenie towaru jest nieuzasadnione - sąd, na wniosek organu celnego, orzeka przepadku towaru na rzecz Skarbu Państwa.”;
-2) 59 otrzymuje brzmienie: „Art. 59. §1. Jeżeli umowy międzynarodowe przepisy odrębne uzależniają posiadanie, obrót rozpowszechnianie towarów od spełnienia określonych wymogów, to przywóz wywóz tych towarów może być dokonany pod warunkiem ich spełnienia. wypadku niespełnienia tych wymogów organ celny cofa towar za granicę na polski obszar celny, chyba że umowy międzynarodowe przepisy odrębne przewidują jego przepadek albo inny sposób postępowania.
-§2. Jeżeli cofnięcie towaru, którym mowa 1, jest niemożliwe niedopuszczalne, organ celny może:
-1) dokonać sprzedaży towaru osobie, która zapewnia spełnienie wymogów określonych terminie wyznaczonym
-2) nakazać zniszczenie towaru, wypadku gdy dokonanie sprzedaży towaru będzie niemożliwe znacznie utrudnione.
-§3. Jeżeli:
-1) umowy międzynarodowe przepisy odrębne, których mowa 1, przewidują przepadek towaru
-2) dokonanie sprzedaży towaru jest niemożliwe znacznie utrudnione,
-3) nakaz zniszczenia, którym mowa 2 pkt 2, nie może być wydany powodu braku osoby zobowiązanej rozumieniu 36,
-4) zniszczenie towaru jest nieuzasadnione - sąd, na wniosek organu celnego, orzeka przepadku towaru na rzecz Skarbu Państwa.
-§4. wypadkach, których mowa 1-3, stosuje przepis 58 2.
-§5. Przepisów 1-3 nie stosuje do towarów niebezpiecznych, szkodliwych dla zdrowia środowiska naturalnego oraz łatwo psujących się. takich wypadkach przepisy 58 stosuje odpowiednio.”;
-3) 77 otrzymuje brzmienie: „Art.77. §1. Organ celny podejmuje, zastrzeżeniem 59, niezbędne działania, włącznie ze sprzedażą towarów, celu uregulowania sytuacji towarów, które:
-1) nie mogły zostać zwolnione ze względu na to, że:
-a) ich kontrola nie mogła zostać podjęta prowadzona terminach ustalonych przez organ celny przyczyn zależnych od zgłaszającego,
-b) nie przedstawiono dokumentów, od których jest uzależnione objęcie towarów procedurą celną,
-c) należności celne przywozowe celne wywozowe nie zostały uiszczone albo zabezpieczone wymaganych terminach,
-d) są przedmiotem zakazów i ograniczeń wynikających ze środków polityki handlowej,
-2) nie zostały podjęte terminie 30 dni od dnia ich zwolnienia przez organ celny.
-§2. Jeżeli postępowanie, którym mowa 1, nie doprowadziło do uregulowania sytuacji towarów, sąd, na wniosek organu celnego, orzeka przepadku towarów na rzecz Skarbu Państwa.”;
-5) 268 otrzymuje brzmienie: „Art. 268. §1. Osoby zamieszkałe przebywające za granicą, nie mające adresu Polsce, jeżeli nie ustanowiły pełnomocnika Polsce, mają obowiązek wskazania Polsce pełnomocnika do doręczeń, przy pierwszej czynności dokonanej przed organem celnym. Ustanowienie pełnomocnika wskazanie pełnomocnika do doręczeń jest skuteczne także postępowaniu, którym mowa 274 .
-§2. razie zaniedbania obowiązku, którym mowa 1, stosuje odpowiednio 267.
-§3. wypadku zatrzymania towaru organ celny poucza osobę, której towar zatrzymano, obowiązku wskazania Polsce pełnomocnika do doręczeń oraz skutkach niedopełnienia tego obowiązku, co potwierdza pisemnym protokołem.”;
-6) 274 274 i 274 brzmieniu: „Art. 274 §1. wypadkach, których mowa 38, 53 1, 59 2 pkt i 77 1, sprzedaż towaru następuje trybie i na zasadach określonych przepisach postępowaniu egzekucyjnym administracji.
-§2. Sprzedaż towaru, zastrzeżeniem 3, jest równoznaczna dopuszczeniem towaru do obrotu, chyba że towar został sprzedany pod warunkiem dokonania powrotnego wywozu.
-§3. Jeżeli sprzedaż jest dokonywana pod warunkiem nadania przeznaczenia celnego określonego przez organ celny, to obowiązki związane nadaniem przeznaczenia celnego, wynikające przepisów prawa celnego, powstają chwilą wydania towarów nabywcy.
-274 . Do postępowania sprawie przepadku towaru stosuje przepisy Kodeksu postępowania cywilnego.”.
-2.
-ustawie dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz.U. Nr 43, poz. 296, 1965 r. Nr 15, poz. 113, 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, 1975 r. Nr 45, poz. 234, 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, 1983 r. Nr 5, poz. 33, 1984 r. Nr 45, poz. 241 i 242, 1985 r. Nr 20, poz. 86, 1987 r. Nr 21, poz. 123, 1988 r. Nr 41, poz. 324, 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, 1993 r. Nr 12, poz. 53, 1994 r. Nr 105, poz. 509, 1995 r. Nr 83, poz. 417, 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, 1997 r. Nr 43, poz. 270, Nr 54, poz.
-348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, 1998 r.
-Nr 106, poz. 668 i Nr 117, poz. 757 oraz 1999 r. Nr 52, poz. 532) części pierw"Rozdział 2a Przepadek rzeczy 610 . §1. Przepisy niniejszego rozdziału stosuje sprawach przepadek rzeczy będących towarami, które na podstawie przepisów prawa celnego podlegają przepadkowi.
-§2. sprawach, których mowa 1, właściwy jest sąd miejsca zajęcia zatrzymania rzeczy będących towarami przez organ celny.
-610 . §1. Postępowanie wszczyna na wniosek organu celnego. Do wniosku dołącza protokół pouczenia obowiązku wskazania Polsce pełnomocnika do doręczeń oraz skutkach niedopełnienia tego obowiązku, jeżeli protokół taki został sporządzony.
-§2. Organ celny może domagać jednym wniosku orzeczenia przepadku rzeczy będących towarami zajętymi zatrzymanymi tych samych okolicznościach faktycznych, jeżeli ponadto sąd jest właściwy dla każdej sprawy.
-610 . Uczestnikowi zamieszkałemu za granicą, który postępowaniu sprawach celnych nie ustanowił pełnomocnika do prowadzenia sprawy zamieszkałego Polsce, ani nie wskazał Polsce pełnomocnika do doręczeń, przeznaczone dla niego pisma sądowe pozostawia aktach sprawy ze skutkiem doręczenia. razie ustanowienia pełnomocnika do prowadzenia sprawy zamieszkałego Polsce, który nie może być pełnomocnikiem procesowym, jego ustanowienie uważa za wskazanie pełnomocnika do doręczeń.
-610 . Wyznaczenie rozprawy zależy od uznania sądu.
-610 . Do wykonania orzeczenia przepadku towaru jest obowiązany organ celny, który złożył wniosek orzeczenie przepadku. Wykonanie orzeczenia następuje trybie i na zasadach określonych przepisach postępowaniu egzekucyjnym administracji.”.
-3.
-sprawach dotyczących przepadku towarów, wszczętych i nie zakończonych decyzją ostateczną, stosuje przepisy niniejszej ustawy.
-4.
-Ustawa wchodzi życie upływie 2 miesięcy od dnia ogłoszenia, wyjątkiem pkt 4, który wchodzi życie upływie 14 dni od dnia ogłoszenia.
+## Treść ustawy
 
+### Art. 1.
+
+W ustawie z dnia 9 stycznia 1997 r. - Kodeks celny ([Dz. U. Nr 23, poz. 117](https://api.sejm.gov.pl/eli/acts/DU/1997/117/text.html), [Nr 64, poz. 407](https://api.sejm.gov.pl/eli/acts/DU/1997/407/text.html), [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html), [Nr 157, poz. 1026](https://api.sejm.gov.pl/eli/acts/DU/1997/1026/text.html) i [Nr 160, poz. 1084](https://api.sejm.gov.pl/eli/acts/DU/1997/1084/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 160, poz. 1063](https://api.sejm.gov.pl/eli/acts/DU/1998/1063/text.html) oraz z [1999 r. Nr 40, poz. 402](https://api.sejm.gov.pl/eli/acts/DU/1999/402/text.html) i [Nr 72, poz. 802](https://api.sejm.gov.pl/eli/acts/DU/1999/802/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 58:
+
+### a)
+
+w § 1 skreśla się zdanie drugie,
+
+### b)
+
+po § 1 dodaje się § 1a i 1b w brzmieniu:
+
+„
+
+### § 1a.
+
+Jeżeli cofnięcie towaru, o którym mowa w § 1, jest niemożliwe lub niedopuszczalne, organ celny może nakazać zniszczenie towaru.
+
+### § 1b.
+
+Jeżeli:
+
+### 1)
+
+umowy międzynarodowe lub przepisy odrębne, o których mowa w § 1, przewidują przepadek towaru lub
+
+### 2)
+
+nakaz zniszczenia, o którym mowa w § 1a, nie może być wydany z powodu braku osoby zobowiązanej w rozumieniu art. 36, lub
+
+### 3)
+
+zniszczenie towaru jest nieuzasadnione
+
+- sąd, na wniosek organu celnego, orzeka o przepadku towaru na rzecz Skarbu Państwa.
+
+” ;
+
+### 2)
+
+art. 59 otrzymuje brzmienie:
+
+„
+
+### Art. 59.
+
+### § 1.
+
+Jeżeli umowy międzynarodowe lub przepisy odrębne uzależniają posiadanie, obrót lub rozpowszechnianie towarów od spełnienia określonych wymogów, to przywóz lub wywóz tych towarów może być dokonany pod warunkiem ich spełnienia. W wypadku niespełnienia tych wymogów organ celny cofa towar za granicę lub na polski obszar celny, chyba że umowy międzynarodowe lub przepisy odrębne przewidują jego przepadek albo inny sposób postępowania.
+
+### § 2.
+
+Jeżeli cofnięcie towaru, o którym mowa w § 1, jest niemożliwe lub niedopuszczalne, organ celny może:
+
+### 1)
+
+dokonać sprzedaży towaru osobie, która zapewnia spełnienie wymogów określonych w § 1 w terminie wyznaczonym przez organ celny albo gdy osoba ta zobowiąże się do dokonania powrotnego wywozu towaru, albo
+
+### 2)
+
+nakazać zniszczenie towaru, w wypadku gdy dokonanie sprzedaży towaru będzie niemożliwe lub znacznie utrudnione.
+
+### § 3.
+
+Jeżeli:
+
+### 1)
+
+umowy międzynarodowe lub przepisy odrębne, o których mowa w § 1, przewidują przepadek towaru lub
+
+### 2)
+
+dokonanie sprzedaży towaru jest niemożliwe lub znacznie utrudnione, lub
+
+### 3)
+
+nakaz zniszczenia, o którym mowa w § 2 pkt 2, nie może być wydany z powodu braku osoby zobowiązanej w rozumieniu art. 36, lub
+
+### 4)
+
+zniszczenie towaru jest nieuzasadnione
+
+- sąd, na wniosek organu celnego, orzeka o przepadku towaru na rzecz Skarbu Państwa.
+
+### § 4.
+
+W wypadkach, o których mowa w § 1-3, stosuje się przepis art. 58 § 2.
+
+### § 5.
+
+Przepisów § 1-3 nie stosuje się do towarów niebezpiecznych, szkodliwych dla zdrowia lub środowiska naturalnego oraz łatwo psujących się. W takich wypadkach przepisy art. 58 stosuje się odpowiednio.
+
+” ;
+
+### 3)
+
+art. 77 otrzymuje brzmienie:
+
+„
+
+### Art. 77.
+
+### § 1.
+
+Organ celny podejmuje, z zastrzeżeniem art. 59, niezbędne działania, włącznie ze sprzedażą towarów, w celu uregulowania sytuacji towarów, które:
+
+### 1)
+
+nie mogły zostać zwolnione ze względu na to, że:
+
+### a)
+
+ich kontrola nie mogła zostać podjęta lub prowadzona w terminach ustalonych przez organ celny z przyczyn zależnych od zgłaszającego,
+
+### b)
+
+nie przedstawiono dokumentów, od których jest uzależnione objęcie towarów procedurą celną,
+
+### c)
+
+należności celne przywozowe lub celne wywozowe nie zostały uiszczone albo zabezpieczone w wymaganych terminach,
+
+### d)
+
+są przedmiotem zakazów i ograniczeń wynikających ze środków polityki handlowej,
+
+### 2)
+
+nie zostały podjęte w terminie 30 dni od dnia ich zwolnienia przez organ celny.
+
+### § 2.
+
+Jeżeli postępowanie, o którym mowa w § 1, nie doprowadziło do uregulowania sytuacji towarów, sąd, na wniosek organu celnego, orzeka o przepadku towarów na rzecz Skarbu Państwa.
+
+” ;
+
+### 4)
+
+w art. 190 w § 5 w pkt 1 po wyrazach „pkt 16” dodaje się przecinek oraz wyrazy „pkt 18”;
+
+### 5)
+
+art. 268 otrzymuje brzmienie:
+
+„
+
+### Art. 268.
+
+### § 1.
+
+Osoby zamieszkałe lub przebywające za granicą, nie mające adresu w Polsce, jeżeli nie ustanowiły pełnomocnika w Polsce, mają obowiązek wskazania w Polsce pełnomocnika do doręczeń, przy pierwszej czynności dokonanej przed organem celnym. Ustanowienie pełnomocnika lub wskazanie pełnomocnika do doręczeń jest skuteczne także w postępowaniu, o którym mowa w art. 2742.
+
+### § 2.
+
+W razie zaniedbania obowiązku, o którym mowa w § 1, stosuje się odpowiednio art. 267.
+
+### § 3.
+
+W wypadku zatrzymania towaru organ celny poucza osobę, której towar zatrzymano, o obowiązku wskazania w Polsce pełnomocnika do doręczeń oraz o skutkach niedopełnienia tego obowiązku, co potwierdza się pisemnym protokołem.
+
+” ;
+
+### 6)
+
+po art. 274 dodaje się art. 2741 i 2742 w brzmieniu:
+
+„
+
+### Art. 2741.
+
+### § 1.
+
+W wypadkach, o których mowa w art. 38, art. 53 § 1, art. 59 § 2 pkt 1 i art. 77 § 1, sprzedaż towaru następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.
+
+### § 2.
+
+Sprzedaż towaru, z zastrzeżeniem § 3, jest równoznaczna z dopuszczeniem towaru do obrotu, chyba że towar został sprzedany pod warunkiem dokonania powrotnego wywozu.
+
+### § 3.
+
+Jeżeli sprzedaż jest dokonywana pod warunkiem nadania przeznaczenia celnego określonego przez organ celny, to obowiązki związane z nadaniem przeznaczenia celnego, wynikające z przepisów prawa celnego, powstają z chwilą wydania towarów nabywcy.
+
+### Art. 2742.
+
+Do postępowania w sprawie przepadku towaru stosuje się przepisy Kodeksu postępowania cywilnego.
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z [1965 r. Nr 15, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1965/113/text.html), z [1974 r. Nr 27, poz. 157](https://api.sejm.gov.pl/eli/acts/DU/1974/157/text.html) i [Nr 39, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1974/231/text.html), z [1975 r. Nr 45, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html), z [1982 r. Nr 11, poz. 82](https://api.sejm.gov.pl/eli/acts/DU/1982/82/text.html) i [Nr 30, poz. 210](https://api.sejm.gov.pl/eli/acts/DU/1982/210/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1984 r. Nr 45, poz. 241 i 242](https://api.sejm.gov.pl/eli/acts/DU/1984/241/text.html), z [1985 r. Nr 20, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 4, poz. 21](https://api.sejm.gov.pl/eli/acts/DU/1989/21/text.html) i [Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z [1990 r. Nr 14, poz. 88](https://api.sejm.gov.pl/eli/acts/DU/1990/88/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), [Nr 53, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html), [Nr 55, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.html) i [Nr 79, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1990/464/text.html), z [1991 r. Nr 7, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1991/24/text.html), [Nr 22, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1993 r. Nr 12, poz. 53](https://api.sejm.gov.pl/eli/acts/DU/1993/53/text.html), z [1994 r. Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 83, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1995/417/text.html), z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 73, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html), z [1997 r. Nr 43, poz. 270](https://api.sejm.gov.pl/eli/acts/DU/1997/270/text.html), [Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), [Nr 117, poz. 752](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html), [Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html), [Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html), [Nr 140, poz. 940](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.html) i [Nr 141, poz. 944](https://api.sejm.gov.pl/eli/acts/DU/1997/944/text.html), z [1998 r. Nr 106, poz. 668](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.html) i [Nr 117, poz. 757](https://api.sejm.gov.pl/eli/acts/DU/1998/757/text.html) oraz z [1999 r. Nr 52, poz. 532](https://api.sejm.gov.pl/eli/acts/DU/1999/532/text.html)) w części pierwszej w księdze drugiej w tytule II w dziale III po art. 610 dodaje się rozdział 2a w brzmieniu:
+
+„
+
+### Rozdział 2a Przepadek rzeczy
+
+### Art. 6101.
+
+### § 1.
+
+Przepisy niniejszego rozdziału stosuje się w sprawach o przepadek rzeczy będących towarami, które na podstawie przepisów prawa celnego podlegają przepadkowi.
+
+### § 2.
+
+W sprawach, o których mowa w § 1, właściwy jest sąd miejsca zajęcia lub zatrzymania rzeczy będących towarami przez organ celny.
+
+### Art. 6102.
+
+### § 1.
+
+Postępowanie wszczyna się na wniosek organu celnego. Do wniosku dołącza się protokół z pouczenia o obowiązku wskazania w Polsce pełnomocnika do doręczeń oraz o skutkach niedopełnienia tego obowiązku, jeżeli protokół taki został sporządzony.
+
+### § 2.
+
+Organ celny może domagać się w jednym wniosku orzeczenia przepadku rzeczy będących towarami zajętymi lub zatrzymanymi w tych samych okolicznościach faktycznych, jeżeli ponadto sąd jest właściwy dla każdej sprawy.
+
+### Art. 6103.
+
+Uczestnikowi zamieszkałemu za granicą, który w postępowaniu w sprawach celnych nie ustanowił pełnomocnika do prowadzenia sprawy zamieszkałego w Polsce, ani nie wskazał w Polsce pełnomocnika do doręczeń, przeznaczone dla niego pisma sądowe pozostawia się w aktach sprawy ze skutkiem doręczenia. W razie ustanowienia pełnomocnika do prowadzenia sprawy zamieszkałego w Polsce, który nie może być pełnomocnikiem procesowym, jego ustanowienie uważa się za wskazanie pełnomocnika do doręczeń.
+
+### Art. 6104.
+
+Wyznaczenie rozprawy zależy od uznania sądu.
+
+### Art. 6105.
+
+Do wykonania orzeczenia o przepadku towaru jest obowiązany organ celny, który złożył wniosek o orzeczenie przepadku. Wykonanie orzeczenia następuje w trybie i na zasadach określonych w przepisach o postępowaniu egzekucyjnym w administracji.
+
+”
+
+### Art. 3.
+
+W sprawach dotyczących przepadku towarów, wszczętych i nie zakończonych decyzją ostateczną, stosuje się przepisy niniejszej ustawy.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 4, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

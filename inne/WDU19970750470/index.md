@@ -8,11 +8,9 @@ pos: 470
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe
-
-*USTAWA z dnia 9 maja 1997 r.*
+# Ustawa z dnia 9 maja 1997 r. o zmianie ustawy o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,26 @@ domain: null
 | Data ogłoszenia | 1997-05-09 |
 | Data wydania | 1997-07-14 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970750470) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/470/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/470/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/470) |
 
-**Art. 1.** W ustawie z dnia 1 marca 1996 r. o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe (Dz.U. Nr 44, poz. 190 i Nr 106, poz. 496) wprowadza następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+W ustawie z dnia 1 marca 1996 r. o udzielaniu dotacji z budżetu państwa na przygotowanie gruntów przeznaczonych pod budownictwo mieszkaniowe ([Dz. U. Nr 44, poz. 190](https://api.sejm.gov.pl/eli/acts/DU/1996/190/text.html) i [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 skreśla się wyrazy „do dnia 31 grudnia 1995 r.”;
+
+### 2)
+
+w art. 2 w ust. 1 wyrazy „31 grudnia 1995 r.” zastępuje się wyrazami „31 sierpnia 1997 r.”;
+
+### 3)
+
+w art. 3 w ust. 2 wyrazy „30 września 1996 r.” zastępuje się wyrazami „30 września 1997 r.”
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -1,0 +1,82 @@
+---
+title: "Rozporządzenie Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra - Członka Rady Ministrów Michała Dworczyka"
+address: WDU20190001057
+eli: DU/2019/1057
+publisher: DU
+year: 2019
+pos: 1057
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Prezesa Rady Ministrówz dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra - Członka Rady Ministrów Michała Dworczyka
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1057 |
+| ISAP | WDU20190001057 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-06-06 |
+| Data wydania | 2019-06-06 |
+| Wejście w życie | 2019-06-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1057/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1057) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 33 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ([Dz. U. z 2012 r. poz. 392](https://api.sejm.gov.pl/eli/acts/DU/2012/392/text.html), [z 2015 r. poz. 1064](https://api.sejm.gov.pl/eli/acts/DU/2015/1064/text.html), [z 2018 r. poz. 1669](https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text.html) oraz [z 2019 r. poz. 271](https://api.sejm.gov.pl/eli/acts/DU/2019/271/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Minister - Członek Rady Ministrów, zwany dalej „ministrem”, wykonuje zadania wyznaczone przez Prezesa Rady Ministrów.
+
+### § 2.
+
+Do zakresu działania ministra należy w szczególności:
+
+### 1)
+
+nadzór nad zapewnieniem przez Kancelarię Prezesa Rady Ministrów obsługi Rady Ministrów i Prezesa Rady Ministrów, ministrów wykonujących zadania wyznaczone przez Prezesa Rady Ministrów, pełnomocników Rządu, komisji wspólnych oraz organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów;
+
+### 2)
+
+kierowanie działalnością i nadzór nad realizacją zadań Kancelarii Prezesa Rady Ministrów określonych w art. 29 pkt 3, 4, 8 i 9 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów;
+
+### 3)
+
+wykonywanie innych zadań zleconych przez Radę Ministrów lub Prezesa Rady Ministrów.
+
+### § 3.
+
+Minister, w zakresie realizacji zadań określonych w § 2, może, z upoważnienia Prezesa Rady Ministrów lub Rady Ministrów:
+
+### 1)
+
+żądać informacji, dokumentów i sprawozdań okresowych lub dotyczących poszczególnej sprawy albo rodzaju spraw od organów administracji rządowej;
+
+### 2)
+
+przekazać, z urzędu lub na wniosek właściwego organu albo na wniosek strony, sprawę należącą do właściwości więcej niż jednego organu administracji rządowej do załatwienia wskazanemu przez siebie ministrowi, zawiadamiając o tym wszystkie inne właściwe organy oraz strony.
+
+### § 4.
+
+Obsługę ministra zapewnia Kancelaria Prezesa Rady Ministrów.
+
+### § 5.
+
+W zakresie niezbędnym do realizacji jego zadań minister może:
+
+### 1)
+
+powoływać zespoły do opracowywania określonych zagadnień;
+
+### 2)
+
+zlecać sporządzanie ekspertyz oraz innych opracowań.
+
+### § 6.
+
+Rozporządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 4 czerwca 2019 r.

@@ -1,0 +1,247 @@
+---
+title: Obwieszczenie Prezesa Rady Ministrów z dnia 21 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych
+address: WDU20220000722
+eli: DU/2022/722
+publisher: DU
+year: 2022
+pos: 722
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Prezesa Rady Ministrówz dnia 21 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 722 |
+| ISAP | WDU20220000722 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-03-21 |
+| Data wydania | 2022-04-04 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/722/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/722) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Rady Ministrów z dnia 20 lutego 2007 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych](#part_2)
+
+- [Załącznik nr 1 - Znak ostrzegawczy do oznakowania granic terenu kontrolowanego (wzór)](#part_3)
+
+- [Załącznik nr 2 - Znak ostrzegawczy do oznakowania granic terenu nadzorowanego (wzór)](#part_4)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Rady Ministrów z dnia 20 lutego 2007 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych ([Dz. U. poz. 910](https://api.sejm.gov.pl/eli/acts/DU/2007/910/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Rady Ministrów z dnia 30 listopada 2020 r. zmieniającym rozporządzenie w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych ([Dz. U. poz. 2303](https://api.sejm.gov.pl/eli/acts/DU/2020/2303/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 1 oraz § 2 i § 3 rozporządzenia Rady Ministrów z dnia 30 listopada 2020 r. zmieniającego rozporządzenie w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych ([Dz. U. poz. 2303](https://api.sejm.gov.pl/eli/acts/DU/2020/2303/text.html)), które stanowią: „ 1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającą podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającą dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1, Dz. Urz. UE L 72 z 17.03.2016, str. 69, Dz. Urz. UE L 152 z 11.06.2019, str. 128 oraz Dz. Urz. UE L 324 z 13.12.2019, str. 80). ”
+
+„
+
+### § 2.
+
+Jednostki organizacyjne, które w dniu wejścia w życie rozporządzenia wykonują działalność związaną z narażeniem, w których występuje konieczność wyznaczenia terenów kontrolowanych lub nadzorowanych, dostosują działalność do wymogów rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+## Załącznik - Rozporządzenie Rady Ministrów z dnia 20 lutego 2007 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych[1) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 96/29/Euratom z dnia 13 maja 1996 r. ustanawiającej podstawowe normy bezpieczeństwa w zakresie ochrony zdrowia pracowników i ogółu społeczeństwa przed zagrożeniami wynikającymi z promieniowania jonizującego (Dz. Urz. WE L 159 z 29.06.1996, str. 1 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 291).](#gloss-0:1:)
+
+Na podstawie art. 25 pkt 2 ustawy z dnia 29 listopada 2000 r. - Prawo atomowe ([Dz. U. z 2021 r. poz. 1941](https://api.sejm.gov.pl/eli/acts/DU/2021/1941/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa podstawowe wymagania dotyczące terenów kontrolowanych i nadzorowanych, w tym w szczególności:
+
+### 1)
+
+sposób oznakowania tych terenów, z uwzględnieniem wzorów znaków ostrzegawczych dla oznakowania granic terenu kontrolowanego i nadzorowanego;
+
+### 2)
+
+warunki dostępu i opuszczania tych terenów dla pracowników i innych osób;
+
+### 3)
+
+warunki, jakie muszą być spełnione dla wykonywania pomiarów dozymetrycznych w środowisku pracy na tych terenach, w szczególności odnośnie do zakresu programu pomiarów i wymagań, jakie muszą spełniać osoby wykonujące pomiary.
+
+### § 2.
+
+### 1.
+
+Określa się następujące podstawowe wymagania dotyczące terenów kontrolowanych:
+
+### 1[2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Rady Ministrów z dnia 30 listopada 2020 r. zmieniającego rozporządzenie w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych (Dz. U. poz. 2303), które weszło w życie z dniem 5 stycznia 2021 r.](#gloss-0:2:))
+
+granice terenu kontrolowanego oznacza się znakami ostrzegawczymi, których wzór zawiera załącznik nr 1 do rozporządzenia, oraz tablicami informacyjnymi podającymi rodzaj źródła promieniowania jonizującego, w tym rodzaj substancji promieniotwórczej, oraz związane z nimi zagrożenie;
+
+### 2)
+
+znaki ostrzegawcze i tablice informacyjne, o których mowa w pkt 1, umieszcza się przy wejściu na teren kontrolowany; w przypadku wytyczenia tego terenu poza pomieszczeniem zamkniętym umieszcza się je w odstępach nie większych niż 10 m;
+
+### 3)
+
+dostęp do terenu kontrolowanego, ograniczony przez zastosowanie środków technicznych, w szczególności drzwi, bram lub widocznych blokad, mają:
+
+### a)
+
+pracownicy zatrudnieni na tym terenie,
+
+### b[3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:3:))
+
+pacjenci poddawani zabiegom diagnostycznym lub terapeutycznym oraz ich opiekunowie,
+
+### c)
+
+za zgodą kierownika jednostki organizacyjnej lub upoważnionej przez niego osoby - inne przeszkolone osoby wyposażone w dawkomierze osobiste umożliwiające bezpośrednie określenie dawki od narażenia zewnętrznego otrzymanej w czasie przebywania na tym terenie,
+
+### d)
+
+pracownicy organu, który wydał zezwolenie w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej na wykonywanie działalności związanej z narażeniem na tym terenie, upoważnieni do prowadzenia kontroli;
+
+### 4)
+
+osoby, o których mowa w pkt 3 lit. a i lit. c, mają dostęp do terenu kontrolowanego i jego opuszczania na podstawie przepustek, kart wstępu lub identyfikatorów;
+
+### 4a[4) Dodany przez § 1 pkt 1 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:4:))
+
+osoby, o których mowa w pkt 3 lit. a i c, oraz opiekunowie pacjentów, o których mowa w pkt 3 lit. b, mają dostęp do terenu kontrolowanego, jeżeli udzielono im informacji o zasadach zachowania się na tym terenie;
+
+### 5[5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:))
+
+prace na terenie kontrolowanym prowadzi się zgodnie z instrukcjami pracy odpowiednimi do zagrożenia związanego z występującymi źródłami promieniowania jonizującego oraz wykonywanymi czynnościami, a pracowników wykonujących te prace wyposaża się w środki ochrony indywidualnej odpowiednie do występującego zagrożenia.
+
+### 2.
+
+Jeżeli na terenie kontrolowanym występuje możliwość rozprzestrzeniania się skażeń promieniotwórczych, poza wymaganiami, o których mowa w ust. 1, zapewnia się:
+
+### 1[6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:))
+
+przy wejściu - możliwość zmiany odzieży osobistej na odzież roboczą oraz pomiar skażeń osobistych, wnoszonego sprzętu i innych przedmiotów;
+
+### 2[6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:))
+
+przy wyjściu - pojemniki na skażoną odzież, pomiar skażeń osobistych, wynoszonego sprzętu i innych przedmiotów oraz środki i urządzenia do usuwania tych skażeń, zależne od prowadzonych prac, a także zmianę odzieży skażonej na nieskażoną;
+
+### 3[7) Dodany przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:7:))
+
+na obszarze przylegającym do terenu kontrolowanego - kontrolę dozymetryczną obejmującą obszar określony na podstawie wyników pomiarów, o których mowa w § 4 ust. 2 pkt 2, chyba że wyniki tych pomiarów wskazują na brak możliwości rozprzestrzeniania się skażeń promieniotwórczych poza teren kontrolowany.
+
+### § 3.
+
+### 1.
+
+Określa się następujące podstawowe wymagania dotyczące terenów nadzorowanych:
+
+### 1)
+
+granice terenu nadzorowanego oznacza się znakami ostrzegawczymi, których wzór zawiera załącznik nr 2 do rozporządzenia;
+
+### 2[8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:8:))
+
+granice terenu nadzorowanego można oznaczyć tablicami informacyjnymi podającymi rodzaj źródła promieniowania jonizującego, w tym rodzaj substancji promieniotwórczej, oraz związane z nimi zagrożenie;
+
+### 3[8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:8:))
+
+znaki ostrzegawcze, o których mowa w pkt 1, a w przypadku skorzystania z możliwości, o której mowa w pkt 2, także tablice informacyjne, umieszcza się przy wejściu na teren nadzorowany; w przypadku wytyczenia tego terenu poza pomieszczeniem zamkniętym umieszcza się je w odstępach nie większych niż 10 m;
+
+### 4)
+
+dostęp do terenu nadzorowanego i jego opuszczanie przez osoby inne niż pracownicy zatrudnieni na tym terenie podlega rejestracji.
+
+### 2.
+
+Jeżeli jest to uzasadnione rodzajem czynności wykonywanych na terenie nadzorowanym, poza wymaganiami, o których mowa w ust. 1, opracowuje się instrukcje pracy odpowiednie do zagrożenia związanego z występującymi źródłami i wykonywanymi czynnościami.
+
+### § 4.
+
+### 1.
+
+Określa się następujące warunki wykonywania pomiarów dozymetrycznych w środowisku pracy na terenach kontrolowanych i nadzorowanych:
+
+### 1)
+
+ustalenie miejsca, czasu i częstotliwości przeprowadzania pomiarów;
+
+### 2)
+
+ustalenie rodzajów wykonywanych pomiarów;
+
+### 3)
+
+wskazanie metod, przyrządów oraz procedur pomiarowych.
+
+### 2.
+
+Zakres programu pomiarów dozymetrycznych w środowisku pracy, o których mowa w ust. 1, obejmuje:
+
+### 1[9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:9:))
+
+pomiar mocy dawki oraz określenie rodzaju i energii promieniowania;
+
+### 2[9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:9:))
+
+pomiar i identyfikację skażeń promieniotwórczych powierzchni i powietrza, wskazując na ich rodzaj oraz stan fizyczny i chemiczny - w przypadku możliwości rozprzestrzeniania się skażeń promieniotwórczych.
+
+### 3.
+
+Pomiary, o których mowa w ust. 1, umożliwiają:
+
+### 1)
+
+ciągłą ocenę warunków pracy, w tym ocenę narażenia pracowników i innych osób znajdujących się na terenach kontrolowanych albo nadzorowanych;
+
+### 2)
+
+kontrolę przestrzegania limitów użytkowych dawek określonych w zezwoleniu na prowadzenie działalności na tych terenach;
+
+### 3)
+
+weryfikację granic terenu kontrolowanego i nadzorowanego;
+
+### 4)
+
+ocenę narażenia osób znajdujących się poza tymi terenami, spowodowanego prowadzoną działalnością, w tym w wyniku usuwania substancji promieniotwórczych z tych terenów.
+
+### § 5.
+
+Pomiary dozymetryczne w środowisku pracy mogą wykonywać osoby:
+
+### 1)
+
+posiadające uprawnienia inspektora ochrony radiologicznej;
+
+### 2)
+
+przeszkolone przez inspektora ochrony radiologicznej w zakresie wykonywania pomiarów.
+
+### § 6.
+
+Traci moc rozporządzenie Rady Ministrów z dnia 6 sierpnia 2002 r. w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych ([Dz. U. poz. 1161](https://api.sejm.gov.pl/eli/acts/DU/2002/1161/text.html)).
+
+### § 7.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia[10) Rozporządzenie zostało ogłoszone w dniu 23 lipca 2007 r.](#gloss-0:10:).
+
+1) Przepisy niniejszego rozporządzenia wdrażają postanowienia dyrektywy Rady 96/29/Euratom z dnia 13 maja 1996 r. ustanawiającej podstawowe normy bezpieczeństwa w zakresie ochrony zdrowia pracowników i ogółu społeczeństwa przed zagrożeniami wynikającymi z promieniowania jonizującego (Dz. Urz. WE L 159 z 29.06.1996, str. 1 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 5, t. 2, str. 291). 2) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Rady Ministrów z dnia 30 listopada 2020 r. zmieniającego rozporządzenie w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych (Dz. U. poz. 2303), które weszło w życie z dniem 5 stycznia 2021 r. 3) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 4) Dodany przez § 1 pkt 1 lit. a tiret trzecie rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 1 lit. a tiret czwarte rozporządzenia, o którym mowa w odnośniku 2. 6) W brzmieniu ustalonym przez § 1 pkt 1 lit. b tiret pierwsze rozporządzenia, o którym mowa w odnośniku 2. 7) Dodany przez § 1 pkt 1 lit. b tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 8) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 9) W brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 10) Rozporządzenie zostało ogłoszone w dniu 23 lipca 2007 r.
+
+## Załącznik nr 1 - Znak ostrzegawczy do oznakowania granic terenu kontrolowanego (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 2 - Znak ostrzegawczy do oznakowania granic terenu nadzorowanego (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)

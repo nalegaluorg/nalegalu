@@ -8,11 +8,9 @@ pos: 653
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
-
-*USTAWA z dnia 20 marca 2024 r.*
+# Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,30 @@ domain: null
 | Data ogłoszenia | 2024-03-20 |
 | Data wydania | 2024-04-29 |
 | Ostatnia zmiana | 2024-05-06 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000653) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/653/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/653/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/653) |
 
-**Art. 1.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028, 1285, 1394 i 1723) w art. 2 uchyla się ust. 2.
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej (Dz. U. poz. 1285) w art. 2 uchyla się ust. 1.
+W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. z 2023 r. poz. 1610](https://api.sejm.gov.pl/eli/acts/DU/2023/1610/text.html), [1615](https://api.sejm.gov.pl/eli/acts/DU/2023/1615/text.html), [1890](https://api.sejm.gov.pl/eli/acts/DU/2023/1890/text.html) i [1933](https://api.sejm.gov.pl/eli/acts/DU/2023/1933/text.html)) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 1)
 
+w art. 3855 uchyla się § 2;
+
+### 2)
+
+uchyla się art. 7206.
+
+### Art. 2.
+
+W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim ([Dz. U. z 2023 r. poz. 1028](https://api.sejm.gov.pl/eli/acts/DU/2023/1028/text.html), [1285](https://api.sejm.gov.pl/eli/acts/DU/2023/1285/text.html), [1394](https://api.sejm.gov.pl/eli/acts/DU/2023/1394/text.html) i [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html)) w art. 2 uchyla się ust. 2.
+
+### Art. 3.
+
+W ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej ([Dz. U. poz. 1285](https://api.sejm.gov.pl/eli/acts/DU/2023/1285/text.html)) w art. 2 uchyla się ust. 1.
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

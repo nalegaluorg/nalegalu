@@ -1,0 +1,298 @@
+---
+title: Rozporządzenie Prezesa Rady Ministrów z dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie
+address: WDU20200002452
+eli: DU/2020/2452
+publisher: DU
+year: 2020
+pos: 2452
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Prezesa Rady Ministrówz dnia 30 grudnia 2020 r. w sprawie sposobu sporządzania i przekazywania informacji oraz wymagań technicznych dla dokumentów elektronicznych oraz środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego lub konkursie [1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.); 3) dyrektywę Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającą dyrektywy 2004/17/WE i 2004/18/WE (Dz. Urz. UE L 216 z 20.08.2009, str. 76, z późn. zm.).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 2452 |
+| ISAP | WDU20200002452 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-12-30 |
+| Data wydania | 2020-12-31 |
+| Wejście w życie | 2021-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/2452/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/2452) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 70 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych ([Dz. U. poz. 2019](https://api.sejm.gov.pl/eli/acts/DU/2019/2019/text.html) oraz [z 2020 r. poz. 288](https://api.sejm.gov.pl/eli/acts/DU/2020/288/text.html), [1492](https://api.sejm.gov.pl/eli/acts/DU/2020/1492/text.html), [1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html), [2275](https://api.sejm.gov.pl/eli/acts/DU/2020/2275/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+sposób sporządzania oraz sposób przekazywania wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, wniosków, o których mowa w art. 371 ust. 3 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych, zwanej dalej „ustawą”, ofert, prac konkursowych, oświadczeń, o których mowa w art. 125 ust. 1 ustawy, podmiotowych środków dowodowych, przedmiotowych środków dowodowych, oraz innych informacji, oświadczeń lub dokumentów, przekazywanych w postępowaniu o udzielenie zamówienia publicznego, zwanym dalej „postępowaniem”, lub w konkursie;
+
+### 2)
+
+wymagania techniczne dla dokumentów elektronicznych, o których mowa w art. 3 pkt 35 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE ([Dz. Urz. UE L 257 z 28.08.2014, str. 73](https://api.sejm.gov.pl/eli/acts//text.html)), zwanych dalej „dokumentami elektronicznymi”, zawierających wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3 ustawy, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, oraz inne informacje, oświadczenia lub dokumenty, przekazywane w postępowaniu lub w konkursie;
+
+### 3)
+
+wymagania techniczne i organizacyjne użycia środków komunikacji elektronicznej służących do odbioru dokumentów elektronicznych, o których mowa w pkt 2.
+
+### § 2.
+
+### 1.
+
+Wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3 ustawy, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, o którym mowa w art. 118 ust. 3 ustawy, zwane dalej „zobowiązaniem podmiotu udostępniającego zasoby”, przedmiotowe środki dowodowe, pełnomocnictwo, dokumenty, o których mowa w art. 94 ust. 2 ustawy, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2020 r. poz. 346](https://api.sejm.gov.pl/eli/acts/DU/2020/346/text.html), [568](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.html), [695](https://api.sejm.gov.pl/eli/acts/DU/2020/695/text.html), [1517](https://api.sejm.gov.pl/eli/acts/DU/2020/1517/text.html) i [2320](https://api.sejm.gov.pl/eli/acts/DU/2020/2320/text.html)), z zastrzeżeniem formatów, o których mowa w art. 66 ust. 1 ustawy, z uwzględnieniem rodzaju przekazywanych danych.
+
+### 2.
+
+Informacje, oświadczenia lub dokumenty, inne niż określone w ust. 1, przekazywane w postępowaniu lub w konkursie, sporządza się w postaci elektronicznej, w formatach danych określonych w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne lub jako tekst wpisany bezpośrednio do wiadomości przekazywanej przy użyciu środków komunikacji elektronicznej, o których mowa w § 3 ust. 1.
+
+### 3.
+
+W przypadku gdy zamawiający, na podstawie art. 65 ust. 1 lub art. 401 ust. 1 ustawy, w całości lub w części odstąpił od wymagania lub nie dopuścił użycia środków komunikacji elektronicznej, wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3 ustawy, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, oraz inne informacje, oświadczenia lub dokumenty mogą być sporządzone w postaci innej niż elektroniczna, w szczególności w postaci papierowej jako model fizyczny, model w skali lub próbki, w sposób i w zakresie określonym przez zamawiającego.
+
+### § 3.
+
+### 1.
+
+Dokumenty elektroniczne przekazuje się w postępowaniu lub konkursie przy użyciu środków komunikacji elektronicznej wskazanych przez zamawiającego zgodnie z art. 67 ustawy.
+
+### 2.
+
+W przypadku gdy zamawiający, na podstawie art. 65 ust. 1 lub art. 401 ust. 1 ustawy, w całości lub w części odstąpił od wymagania lub nie dopuścił użycia środków komunikacji elektronicznej, wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3 ustawy, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, oraz inne informacje, oświadczenia lub dokumenty, przekazuje się zgodnie z art. 65 ust. 2 ustawy, na adres wskazany przez zamawiającego, zgodnie z wyborem zamawiającego, na informatycznym nośniku danych, o którym mowa w art. 3 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, zwanym dalej „informatycznym nośnikiem danych”, lub w postaci innej niż elektroniczna.
+
+### § 4.
+
+### 1.
+
+W przypadku gdy dokumenty elektroniczne w postępowaniu lub konkursie, przekazywane przy użyciu środków komunikacji elektronicznej, zawierają informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji ([Dz. U. z 2020 r. poz. 1913](https://api.sejm.gov.pl/eli/acts/DU/2020/1913/text.html)), wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je w wydzielonym i odpowiednio oznaczonym pliku.
+
+### 2.
+
+W przypadku gdy zamawiający, na podstawie art. 65 ust. 1 lub art. 401 ust. 1 ustawy, w całości lub w części odstąpił od wymagania lub nie dopuścił użycia środków komunikacji elektronicznej, informacje stanowiące tajemnicę przedsiębiorstwa w rozumieniu przepisów ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, wykonawca, w celu utrzymania w poufności tych informacji, przekazuje je wydzielone i odpowiednio oznaczone, zgodnie z wyborem zamawiającego, w pliku lub w postaci papierowej.
+
+### § 5.
+
+Podmiotowe środki dowodowe, przedmiotowe środki dowodowe oraz inne dokumenty lub oświadczenia, sporządzone w języku obcym przekazuje się wraz z tłumaczeniem na język polski. Tłumaczenie nie jest wymagane, jeżeli zamawiający wyraził zgodę, w przypadkach, o których mowa w art. 20 ust. 3 ustawy.
+
+### § 6.
+
+### 1.
+
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, w tym dokumenty, o których mowa w art. 94 ust. 2 ustawy, lub dokumenty potwierdzające umocowanie do reprezentowania odpowiednio wykonawcy, wykonawców wspólnie ubiegających się o udzielenie zamówienia publicznego, podmiotu udostępniającego zasoby na zasadach określonych w art. 118 ustawy lub podwykonawcy niebędącego podmiotem udostępniającym zasoby na takich zasadach, zwane dalej „dokumentami potwierdzającymi umocowanie do reprezentowania”, zostały wystawione przez upoważnione podmioty inne niż wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, zwane dalej „upoważnionymi podmiotami”, jako dokument elektroniczny, przekazuje się ten dokument.
+
+### 2.
+
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe, inne dokumenty, w tym dokumenty, o których mowa w art. 94 ust. 2 ustawy, lub dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione przez upoważnione podmioty jako dokument w postaci papierowej, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, a w przypadku postępowań lub konkursów o wartości mniejszej niż progi unijne, kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, poświadczające zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+
+### 3.
+
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 2, dokonuje w przypadku:
+
+### 1)
+
+podmiotowych środków dowodowych oraz dokumentów potwierdzających umocowanie do reprezentowania - odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środków dowodowych lub dokumentów potwierdzających umocowanie do reprezentowania, które każdego z nich dotyczą;
+
+### 2)
+
+przedmiotowych środków dowodowych - odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+
+### 3)
+
+innych dokumentów, w tym dokumentów, o których mowa w art. 94 ust. 2 ustawy - odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia, w zakresie dokumentów, które każdego z nich dotyczą.
+
+### 4.
+
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 2, może dokonać również notariusz.
+
+### 5.
+
+Przez cyfrowe odwzorowanie, o którym mowa w ust. 2-4 oraz § 7 ust. 2-4, należy rozumieć dokument elektroniczny będący kopią elektroniczną treści zapisanej w postaci papierowej, umożliwiający zapoznanie się z tą treścią i jej zrozumienie, bez konieczności bezpośredniego dostępu do oryginału.
+
+### § 7.
+
+### 1.
+
+Podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, dokumenty, o których mowa w art. 94 ust. 2 ustawy, niewystawione przez upoważnione podmioty, oraz pełnomocnictwo przekazuje się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, a w przypadku postępowań lub konkursów o wartości mniejszej niż progi unijne, kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
+
+### 2.
+
+W przypadku gdy podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, dokumenty, o których mowa w art. 94 ust. 2 ustawy, niewystawione przez upoważnione podmioty lub pełnomocnictwo, zostały sporządzone jako dokument w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się cyfrowe odwzorowanie tego dokumentu opatrzone kwalifikowanym podpisem elektronicznym, a w przypadku postępowań lub konkursów, o wartości mniejszej niż progi unijne, kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, poświadczającym zgodność cyfrowego odwzorowania z dokumentem w postaci papierowej.
+
+### 3.
+
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 2, dokonuje w przypadku:
+
+### 1)
+
+podmiotowych środków dowodowych - odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca, w zakresie podmiotowych środków dowodowych, które każdego z nich dotyczą;
+
+### 2)
+
+przedmiotowego środka dowodowego, dokumentu, o którym mowa w art. 94 ust. 2 ustawy, oświadczenia, o którym mowa w art. 117 ust. 4 ustawy, lub zobowiązania podmiotu udostępniającego zasoby - odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+
+### 3)
+
+pełnomocnictwa - mocodawca.
+
+### 4.
+
+Poświadczenia zgodności cyfrowego odwzorowania z dokumentem w postaci papierowej, o którym mowa w ust. 2, może dokonać również notariusz.
+
+### § 8.
+
+W przypadku przekazywania w postępowaniu lub konkursie dokumentu elektronicznego w formacie poddającym dane kompresji, opatrzenie pliku zawierającego skompresowane dokumenty kwalifikowanym podpisem elektronicznym, a w przypadku postępowań lub konkursów o wartości mniejszej niż progi unijne, kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym, jest równoznaczne z opatrzeniem wszystkich dokumentów zawartych w tym pliku odpowiednio kwalifikowanym podpisem elektronicznym, podpisem zaufanym lub podpisem osobistym.
+
+### § 9.
+
+### 1.
+
+W przypadku gdy zamawiający, na podstawie art. 65 ust. 1 lub art. 401 ust. 1 ustawy, w całości lub w części odstąpił od wymagania lub nie dopuścił użycia środków komunikacji elektronicznej i nie przewidział możliwości przekazywania w postaci dokumentu elektronicznego wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, wniosków, o których mowa w art. 371 ust. 3 ustawy, ofert, prac konkursowych, oświadczeń, o których mowa w art. 125 ust. 1 ustawy, podmiotowych środków dowodowych, przedmiotowych środków dowodowych, oraz innych informacji, oświadczeń lub dokumentów przekazywanych w postępowaniu lub w konkursie:
+
+### 1)
+
+wniosek o dopuszczenie do udziału w postępowaniu lub konkursie, wniosek, o którym mowa w art. 371 ust. 3 ustawy, ofertę, pracę konkursową, oświadczenie, o którym mowa w art. 125 ust. 1 ustawy, sporządzone w postaci papierowej i opatrzone własnoręcznym podpisem, a także model fizyczny, model w skali lub próbki, o których mowa w art. 65 ust. 1 pkt 4 ustawy, przekazuje się w oryginale;
+
+### 2)
+
+oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, zobowiązanie podmiotu udostępniającego zasoby, pełnomocnictwo, sporządzone w postaci papierowej i opatrzone własnoręcznym podpisem, przekazuje się w oryginale lub jako kopię poświadczoną za zgodność z oryginałem;
+
+### 3)
+
+podmiotowe środki dowodowe, przedmiotowe środki dowodowe, dokumenty, o których mowa w art. 94 ust. 2 ustawy, oraz informacje, oświadczenia lub dokumenty, inne niż wymienione w pkt 1 i 2, sporządzone w postaci papierowej, przekazuje się w oryginale lub jako kopię poświadczoną za zgodność z oryginałem.
+
+### 2.
+
+Poświadczenia za zgodność z oryginałem, o których mowa w ust. 1 pkt 2 i 3, dokonuje:
+
+### 1)
+
+w przypadku podmiotowych środków dowodowych - odpowiednio wykonawca, wykonawca wspólnie ubiegający się o udzielenie zamówienia, podmiot udostępniający zasoby lub podwykonawca albo uczestnik konkursu, w zakresie podmiotowych środków dowodowych, które każdego z nich dotyczą;
+
+### 2)
+
+w przypadku przedmiotowego środka dowodowego, dokumentu, o którym mowa w art. 94 ust. 2 ustawy, oświadczenia, o którym mowa w art. 117 ust. 4 ustawy, lub zobowiązania podmiotu udostępniającego zasoby - odpowiednio wykonawca lub wykonawca wspólnie ubiegający się o udzielenie zamówienia;
+
+### 3)
+
+w przypadku pełnomocnictwa - mocodawca.
+
+### 3.
+
+Poświadczenie za zgodność z oryginałem, o którym mowa w ust. 2, następuje przez opatrzenie kopii, sporządzonej w postaci papierowej, własnoręcznym podpisem.
+
+### 4.
+
+Poświadczenia za zgodność z oryginałem, o którym mowa w ust. 1 pkt 2 i 3, może dokonać również notariusz.
+
+### 5.
+
+W przypadku gdy podmiotowe środki dowodowe, przedmiotowe środki dowodowe lub inne dokumenty, w tym dokumenty, o których mowa w art. 94 ust. 2 ustawy, dokumenty potwierdzające umocowanie do reprezentowania, zostały wystawione przez upoważnione podmioty jako dokument elektroniczny, przekazuje się uwierzytelniony wydruk wizualizacji treści tego dokumentu.
+
+### 6.
+
+Uwierzytelniony wydruk, o którym mowa w ust. 5, zawiera w szczególności identyfikator dokumentu lub datę wydruku, a także własnoręczny podpis odpowiednio wykonawcy, wykonawcy wspólnie ubiegającego się o udzielenie zamówienia, podmiotu udostępniającego zasoby lub podwykonawcy albo uczestnika konkursu, potwierdzający zgodność wydruku z treścią dokumentu elektronicznego.
+
+### 7.
+
+Zamawiający może żądać przedstawienia oryginału lub notarialnie poświadczonej kopii, wyłącznie wtedy, gdy złożona kopia jest nieczytelna lub budzi wątpliwości co do jej prawdziwości.
+
+### § 10.
+
+Dokumenty elektroniczne w postępowaniu lub w konkursie spełniają łącznie następujące wymagania:
+
+### 1)
+
+są utrwalone w sposób umożliwiający ich wielokrotne odczytanie, zapisanie i powielenie, a także przekazanie przy użyciu środków komunikacji elektronicznej lub na informatycznym nośniku danych;
+
+### 2)
+
+umożliwiają prezentację treści w postaci elektronicznej, w szczególności przez wyświetlenie tej treści na monitorze ekranowym;
+
+### 3)
+
+umożliwiają prezentację treści w postaci papierowej, w szczególności za pomocą wydruku;
+
+### 4)
+
+zawierają dane w układzie niepozostawiającym wątpliwości co do treści i kontekstu zapisanych informacji.
+
+### § 11.
+
+### 1.
+
+Środki komunikacji elektronicznej w postępowaniu lub konkursie służące do odbioru dokumentów elektronicznych zawierających wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3 ustawy, oferty oraz prace konkursowe, spełniają wymagania, o których mowa w art. 68 ustawy, oraz dodatkowo:
+
+### 1)
+
+spełniają wymagania przewidziane dla systemu teleinformatycznego w rozumieniu art. 3 pkt 3 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne odpowiadające minimalnym wymaganiom określonym w przepisach wydanych na podstawie art. 18 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
+
+### 2)
+
+zapewniają zachowanie poufności i integralności danych w ramach wymiany i przechowywania tych dokumentów;
+
+### 3)
+
+zapewniają autentyczność źródła danych i niezmienność danych po ich kompresji do pliku, o którym mowa w § 8;
+
+### 4)
+
+zapewniają identyfikację podmiotów przekazujących te dokumenty oraz ustalenie dokładnego czasu i daty odbioru tych dokumentów;
+
+### 5)
+
+zapewniają ochronę przed nieautoryzowanym dostępem do treści tych dokumentów przed upływem wyznaczonych terminów ich otwarcia albo składania;
+
+### 6)
+
+umożliwiają ustalanie oraz zmiany ustalonych terminów pierwszego zapoznania się z treścią tych dokumentów wyłącznie przez osoby uprawnione przez zamawiającego;
+
+### 7)
+
+umożliwiają podczas poszczególnych etapów postępowania lub konkursu dostęp do całości lub części treści tych dokumentów wyłącznie osobom uprawnionym przez zamawiającego oraz zapewniają rozliczalność tych działań;
+
+### 8)
+
+umożliwiają, po określonej dacie, udostępnianie osobom trzecim całości lub części treści tych dokumentów wyłącznie przez osoby uprawnione przez zamawiającego oraz zapewniają rozliczalność tych działań;
+
+### 9)
+
+zapewniają ochronę informacji zawierających dane osobowe oraz innych informacji podlegających prawnej ochronie;
+
+### 10)
+
+umożliwiają usunięcie oferty albo wniosku o dopuszczenie do udziału w postępowaniu lub konkursie w sposób uniemożliwiający ich odzyskanie i zapoznanie się przez użytkowników z ich treścią;
+
+### 11)
+
+posiadają wbudowane funkcje umożliwiające okresowe automatyczne wykonywanie kopii bezpieczeństwa;
+
+### 12)
+
+zapewniają możliwość praktycznego zagwarantowania jednoznacznego wykrycia ewentualnego naruszenia lub próby naruszenia wymagań, o których mowa w pkt 4 i 5-10.
+
+### 2.
+
+Użycie środków komunikacji elektronicznej służących do odbioru dokumentów elektronicznych, o których mowa w ust. 1, wymaga udostępnienia przez zamawiającego zainteresowanym wykonawcom informacji na temat specyfikacji połączenia, formatu przesyłanych danych oraz szyfrowania i oznaczania czasu przekazania i odbioru danych.
+
+### 3.
+
+Użycie środków komunikacji elektronicznej służących do odbioru dokumentów elektronicznych, o których mowa w ust. 1, jest uzależnione od podania danych umożliwiających jednoznaczną identyfikację użytkownika, a także akceptacji zasad korzystania ze środków komunikacji elektronicznej udostępnianych przez zamawiającego, o ile zostały one określone.
+
+### § 12.
+
+Środki komunikacji elektronicznej w postępowaniu lub konkursie służące do odbioru dokumentów elektronicznych zawierających oświadczenia, o których mowa w art. 125 ust. 1 ustawy, podmiotowe środki dowodowe, w tym oświadczenie, o którym mowa w art. 117 ust. 4 ustawy, oraz zobowiązanie podmiotu udostępniającego zasoby, przedmiotowe środki dowodowe, pełnomocnictwo, dokumenty, o których mowa w art. 94 ust. 2 ustawy, oraz informacje, oświadczenia lub dokumenty, inne niż określone w § 11 ust. 1, umożliwiają identyfikację podmiotów przekazujących te dokumenty elektroniczne oraz ustalenie dokładnego czasu i daty ich odbioru.
+
+### § 13.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2021 r.[2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 27 czerwca 2017 r. w sprawie użycia środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego oraz udostępniania i przechowywania dokumentów elektronicznych (Dz. U. z 2020 r. poz. 1261), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. - Przepisy wprowadzające ustawę - Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia.](#gloss-0:2:)
+
+1) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża: 1) dyrektywę Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych, uchylającą dyrektywę 2004/18/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 65, z późn. zm.); 2) dyrektywę Parlamentu Europejskiego i Rady 2014/25/UE z dnia 26 lutego 2014 r. w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych, uchylającą dyrektywę 2004/17/WE (Dz. Urz. UE L 94 z 28.03.2014, str. 243, z późn. zm.); 3) dyrektywę Parlamentu Europejskiego i Rady 2009/81/WE z dnia 13 lipca 2009 r. w sprawie koordynacji procedur udzielania niektórych zamówień na roboty budowlane, dostawy i usługi przez instytucje lub podmioty zamawiające w dziedzinach obronności i bezpieczeństwa i zmieniającą dyrektywy 2004/17/WE i 2004/18/WE (Dz. Urz. UE L 216 z 20.08.2009, str. 76, z późn. zm.). 2) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Prezesa Rady Ministrów z dnia 27 czerwca 2017 r. w sprawie użycia środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia publicznego oraz udostępniania i przechowywania dokumentów elektronicznych (Dz. U. z 2020 r. poz. 1261), które na podstawie art. 97 ustawy z dnia 11 września 2019 r. - Przepisy wprowadzające ustawę - Prawo zamówień publicznych (Dz. U. poz. 2020 oraz z 2020 r. poz. 1086 i 2275) traci moc z dniem wejścia w życie niniejszego rozporządzenia.

@@ -1,0 +1,64 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 2 września 2022 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej
+address: WDU20220001875
+eli: DU/2022/1875
+publisher: DU
+year: 2022
+pos: 1875
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Finansówz dnia 2 września 2022 r. zmieniające rozporządzenie w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1875 |
+| ISAP | WDU20220001875 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-09-02 |
+| Data wydania | 2022-09-06 |
+| Wejście w życie | 2022-09-07 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1875/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1875) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 4 ust. 1 ustawy z dnia 27 maja 2015 r. o finansowaniu wspólnej polityki rolnej ([Dz. U. z 2018 r. poz. 719](https://api.sejm.gov.pl/eli/acts/DU/2018/719/text.html) oraz [z 2022 r. poz. 88](https://api.sejm.gov.pl/eli/acts/DU/2022/88/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Finansów z dnia 9 września 2016 r. w sprawie przyznania Agencji Restrukturyzacji i Modernizacji Rolnictwa akredytacji jako agencji płatniczej ([Dz. U. z 2021 r. poz. 1026](https://api.sejm.gov.pl/eli/acts/DU/2021/1026/text.html) i [2040](https://api.sejm.gov.pl/eli/acts/DU/2021/2040/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 2 w pkt 19 kropkę zastępuje się średnikiem i dodaje się pkt 20 w brzmieniu:
+
+„
+
+### 20)
+
+Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 w zakresie działania „Zarządzanie ryzykiem”.
+
+” ;
+
+### 2)
+
+w § 3 dodaje się ust. 13 w brzmieniu:
+
+„
+
+### 13.
+
+Akredytacji w odniesieniu do obsługi pomocy, o której mowa w § 2 pkt 20, udziela się od dnia 29 sierpnia 2022 r.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 29 sierpnia 2022 r.
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).

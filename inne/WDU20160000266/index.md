@@ -8,11 +8,9 @@ pos: 266
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw
-
-*USTAWA dnia 11 lutego 2016 o zmianie o działach administracji rządowej oraz niektórych innych ustaw*
+# Ustawa z dnia 11 lutego 2016 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, ustawę z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki, ustawę z dnia 29 listopada 2000 r. - Prawo atomowe, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, ustawę z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych, ustawę z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw Skarbu Państwa oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 29 października 2010 r. o rezerwach strategicznych, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, ustawę z dnia 16 września 2011 r. o współpracy rozwojowej, ustawę z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych, ustawę z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów, ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych oraz ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,85 +22,744 @@ domain: null
 | Data ogłoszenia | 2016-02-11 |
 | Data wydania | 2016-03-02 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/266/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/266/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/266) |
 
-**Art. 1.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. 2015 812, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 3.** W ustawie dnia 10 kwietnia 1997 – Prawo energetyczne (Dz. 2012 1059, późn. zm. ) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 4.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. 2012 1137, późn. zm. ) 20 5a wyrazy „ministra właściwego spraw gospodarki” zastępuje się wyrazami „ministra właściwego spraw energii”.
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2015 r. poz. 812](https://api.sejm.gov.pl/eli/acts/DU/2015/812/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1255, 1269, 1960, 2184 i 2281 oraz z 2016 r. poz. 34, 64 i 65.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 14 lipca 2000 o restrukturyzacji finansowej górnictwa siarki (Dz. 856 oraz 2003 1693) 7 1 wyrazy „Minister właściwy spraw gospodarki” zastępuje się wyrazami „Minister właściwy spraw gospodarki złożami kopalin”.
+### 1)
 
-**Art. 6.** W ustawie dnia 29 listopada 2000 – Prawo atomowe (Dz. 2014 1512 oraz 2015 1505
+w art. 7a dodaje się ust. 4 w brzmieniu:
 
-**Art. 7.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. 2013 1232, późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 8.** W ustawie dnia 14 lutego 2003 o stopniach górniczych, honorowych szpadach górniczych mundurach górniczych (Dz. 449) wprowadza się następujące zmiany:
+### 4.
 
-**Art. 10.** W ustawie dnia 25 sierpnia 2006 o systemie monitorowania kontrolowania jakości paliw (Dz. 2014 1728 oraz 2015 1361) 3 2 we wprowadzeniu wyliczenia, 3a 2, 4 2, 5 2 we wprowadzeniu wyliczenia, 6, 8 3, 9b 4, 19 we wprowadzeniu wyliczenia, 19a we wprowadzeniu wyliczenia, 19b, 26 we wprowadzeniu wyliczenia, 26a we wprowadzeniu wyliczenia, 26b, 30 we wprowadzeniu wyliczenia, 30g 4, 30h we wprowadzeniu wyliczenia oraz 30i 3 użyte różnych przypadkach wyrazy „minister właściwy spraw gospodarki” zastępuje się użytymi odpowiednich przypadkach wyrazami „minister właściwy spraw energii”.
+Minister właściwy do spraw energii sprawuje nadzór nad Prezesem Wyższego Urzędu Górniczego.
 
-**Art. 11.** W ustawie dnia 25 sierpnia 2006 o biokomponentach biopaliwach ciekłych (Dz. 2015 775) wprowadza się następujące zmiany:
+” ;
 
-**Art. 12.** W ustawie dnia 16 lutego 2007 o zapasach ropy naftowej, produktów naftowych gazu ziemnego oraz zasadach postępowania sytuacjach zagrożenia bezpieczeństwa paliwowego państwa zakłóceń na rynku naftowym (Dz. 2014 1695) 3 5 we wprowadzeniu wyliczenia, 4 we wprowadzeniu wyliczenia, 5 6a, 11a 8 9 we wprowadzeniu wyliczenia, 13 5 we wprowadzeniu wyliczenia, 17 2, 21b 9, 10 we wprowadzeniu wyliczenia, 11 we wprowadzeniu wyliczenia 14, 21e 1, 2, 4, 6 8, 22 2, 22a, 23, 24 5, 5c pkt 1, pkt 2 we wprowadzeniu wyliczenia, 26 1, 2 4, 27 1 we wprowadzeniu wyliczenia 2, 28d 3 4, 28e we wprowadzeniu wyliczenia, 28f, 29b 2, 31 2 pkt 3 4, 4 we wprowadzeniu wyliczenia, 5 6 we wprowadzeniu wyliczenia, 33 1 we wprowadzeniu wyliczenia, 34 we wprowadzeniu wyliczenia, 35 1 4, 36, 37 we wprowadzeniu wyliczenia, 38 2, 39 1, 40 1 we wprowadzeniu wyliczenia, 41 1 we wprowadzeniu wyliczenia, 44 2, 44a, 46 we wprowadzeniu wyliczenia, 47 1 3, 48 1, 48a 1–3, 52 7, 53, 55 3, 56, 61 1 3 we wprowadzeniu wyliczenia, 64 1 pkt 7 2 użyte różnych przypadkach wyrazy „minister właściwy spraw gospodarki” zastępuje się użytymi odpowiednich przypadkach wyrazami „minister właściwy spraw energii”.
+### 2)
 
-**Art. 13.** W ustawie dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. 2013 1166 oraz 2015
+w art. 11a:
 
-**Art. 14.** W ustawie dnia 29 czerwca 2007 o zasadach pokrywania kosztów powstałych u wytwórców związku przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy energii elektrycznej (Dz. 905, 2008 357, 2009 817 oraz 2011 551 1381) 21 2–4, 29 1 3, 49 1 pkt 4 lit. b, 55 1 pkt 2 oraz 57 użyte różnych przypadkach wyrazy „minister właściwy odpowiednich przypadkach wyrazami „minister właściwy spraw gospodarki złożami kopalin”.
+### a)
 
-**Art. 16.** W ustawie dnia 7 września 2007 o funkcjonowaniu górnictwa węgla kamiennego (Dz. 2015 410, 1960 2300) 20a otrzymuje brzmienie: „Art. 20a. Kompetencje ministra właściwego spraw Skarbu Państwa określone 2 pkt 5 6, 5a oraz 18 1 dnia 8 sierpnia 1996 o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. 2016 154) odniesieniu do:
+ust. 1 otrzymuje brzmienie:
 
-**Art. 17.** W ustawie dnia 24 kwietnia 2009 o inwestycjach zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. 2014 1501 oraz 2015 1045 1777) wprowadza się następujące zmiany:
+„
 
-**Art. 18.** W ustawie dnia 17 lipca 2009 o systemie zarządzania emisjami gazów cieplarnianych innych substancji (Dz. 2015 2273 2278) wprowadza się następujące zmiany:
+### 1.
 
-**Art. 19.** W ustawie dnia 18 marca 2010 o szczególnych uprawnieniach ministra właściwego spraw Skarbu Państwa oraz ich wykonywaniu niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych (Dz. Nr 65, 404) 1 3 otrzymuje brzmienie: „3. Wykonywanie przez ministra właściwego spraw Skarbu Państwa uprawnień, o których mowa ustawie, nie narusza kompetencji ministra właściwego spraw energii.”.
+Dział gospodarka złożami kopalin obejmuje sprawy:
 
-**Art. 20.** W ustawie dnia 29 października 2010 o rezerwach strategicznych (Dz. 2015 1229 1926) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 21.** W ustawie dnia 15 kwietnia 2011 o efektywności energetycznej (Dz. 2015 2167 2359) wprowadza się następujące zmiany:
+prowadzenia, w porozumieniu z ministrem właściwym do spraw środowiska, racjonalnej gospodarki złożami węglowodorów, węgla brunatnego, węgla kamiennego, siarki rodzimej, soli kamiennej, soli potasowej, soli potasowo-magnezowej, w obszarze objętym wydobyciem;
 
-**Art. 22.** W ustawie dnia 9 czerwca 2011 – Prawo geologiczne górnicze (Dz. 2015 196, 1272 1505) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 23.** W ustawie dnia 29 czerwca 2011 o przygotowaniu realizacji inwestycji zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących (Dz. 789, późn. zm. ) 5 1 pkt 12 lit. b, 22 2, 52 1 oraz 58 2 4 użyte różnych przypadkach wyrazy „minister właściwy spraw gospodarki” zastępuje się użytymi odpowiednich przypadkach wyrazami „minister właściwy spraw energii”.
+uzgadniania koncesji na wydobywanie udzielanych przez ministra właściwego do spraw środowiska, w zakresie kopalin objętych własnością górniczą Skarbu Państwa;
 
-**Art. 24.** W ustawie dnia 16 września 2011 o współpracy rozwojowej (Dz. 2015 2012) 17:
+### 3)
 
-**Art. 25.** W ustawie dnia 14 września 2012 o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych (Dz. 1203 oraz 2015 1069) 2 2 oraz 8 użyte różnych przypadkach wyrazy „minister właściwy spraw gospodarki” zastępuje się użytymi odpowiednich przypadkach wyrazami „minister właściwy spraw energii”.
+współpracy w nadzorze nad wydobywaniem kopalin, o których mowa w pkt 1;
 
-**Art. 26.** W ustawie dnia 30 sierpnia 2013 o dotacji przeznaczonej dla niektórych podmiotów (Dz. 1160) wprowadza się następujące zmiany:
+### 4)
 
-**Art. 27.** W ustawie dnia 12 czerwca 2015 o systemie handlu uprawnieniami emisji gazów cieplarnianych (Dz. 1223) wprowadza się następujące zmiany:
+kwalifikacji w zakresie górnictwa.
 
-**Art. 28.** W ustawie dnia 24 lipca 2015 o przygotowaniu realizacji strategicznych inwestycji zakresie sieci przesyłowych (Dz. 1265 1753) 4 2 pkt 2 otrzymuje brzmienie: „2) ministra właściwego spraw gospodarki morskiej, ministra właściwego spraw energii, ministra właściwego spraw kultury dziedzictwa narodowego, ministra właściwego spraw rybołówstwa, ministra właściwego spraw wewnętrznych oraz Ministra Obrony Narodowej – odniesieniu wznoszenia wykorzystywania sztucznych wysp, konstrukcji urządzeń polskich obszarach morskich, zgodnie przepisami dnia 21 marca 1991 o obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. 2013 934 1014, 2015 1642 oraz 2016 266);”.
+” ,
 
-**Art. 29.** W ustawie dnia 24 lipca 2015 o kontroli niektórych inwestycji (Dz. 1272 2281 oraz 2016
+### b)
 
-**Art. 30.** Dotychczasowe przepisy wykonawcze wydane na podstawie 39n 9 ustawy, o której mowa 6, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie 39n 9 ustawy, o której mowa 6, brzmieniu nadanym niniejszą ustawą.
+uchyla się ust. 2.
 
-**Art. 31.** Dotychczasowe przepisy wykonawcze wydane na podstawie 146 3, 146h 146i ustawy, o której mowa 7, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie 146 3, 146h 146i ustawy, o której mowa 7, brzmieniu nadanym niniejszą ustawą.
+### Art. 2.
 
-**Art. 32.** Dotychczasowe przepisy wykonawcze wydane na podstawie 3 2, 4 2, 5 2, 8 3, 9b 4, 19, 26 oraz 30 ustawy, o której mowa 10, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie 3 2, 4 2, 5 2, 8 3, 9b 4, 19, 26 oraz 30 ustawy, o której mowa 10, brzmieniu nadanym niniejszą ustawą.
+W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. z 2013 r. poz. 934](https://api.sejm.gov.pl/eli/acts/DU/2013/934/text.html) i [1014](https://api.sejm.gov.pl/eli/acts/DU/2013/1014/text.html) oraz [z 2015 r. poz. 1642](https://api.sejm.gov.pl/eli/acts/DU/2015/1642/text.html)) wprowadza się następujące zmiany:
 
-**Art. 33.** Dotychczasowe przepisy wykonawcze wydane na podstawie 22 4, 5 6, 23 3, 25 3, 28h 2, 30 2d oraz 37a 3 ustawy, o której mowa 11, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie 22 4, 5 6, 23 3, 25 3, 28h 2, 30 2d oraz 37a 3 ustawy, o której mowa 11, brzmieniu nadanym niniejszą ustawą.
+### 1)
 
-**Art. 34.** Dotychczasowe przepisy wykonawcze wydane na podstawie 3 5, 5 6a, 13 5, 21b 9, 37 oraz 46 ustawy, o której mowa 12, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie 3 5, 5 6a, 13 5, 21b 9, 37 oraz 46 ustawy, o której mowa 12, brzmieniu nadanym niniejszą ustawą.
+w art. 23 ust. 2 otrzymuje brzmienie:
 
-**Art. 35.** Dotychczasowe przepisy wykonawcze wydane na podstawie 120 1 2 oraz 124 ustawy, o której mowa 22, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie 120 1 2 oraz 124 ustawy, o której mowa 22, brzmieniu nadanym niniejszą ustawą.
+„
 
-**Art. 36.** Dotychczasowe przepisy wykonawcze wydane na podstawie 36 6 ustawy, o której mowa 27, brzmieniu dotychczasowym, zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie 36 6 ustawy, o której mowa 27, brzmieniu nadanym niniejszą ustawą.
+### 2.
 
-**Art. 37.** Zachowują moc czynności ministra właściwego spraw gospodarki związane udzielaniem dotacji, o których mowa 33 1 119 1 1a ustawy, o której mowa 6, dokonane przed dniem wejścia życie niniejszej ustawy.
+Pozwolenie, o którym mowa w ust. 1, jest wydawane po zaopiniowaniu wniosku o wydanie tego pozwolenia przez ministrów właściwych do spraw: energii, gospodarki, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych oraz Ministra Obrony Narodowej.
 
-**Art. 38.** Zachowuje moc zarządzenie wydane na podstawie 121 3 ustawy, o której mowa 6, brzmieniu dotychczasowym, zarządzenie wydane na podstawie 28 2 ustawy, o której mowa 20, brzmieniu dotychczasowym, oraz zarządzenie wydane na podstawie 166 4 ustawy, o której mowa 22, brzmieniu dotychczasowym.
+” ;
 
-**Art. 39.** Przedstawiciele ministra właściwego spraw gospodarki powołani na podstawie 55 1 pkt 2 ustawy, o której mowa 14, brzmieniu dotychczasowym, stają się przedstawicielami ministra właściwego spraw energii.
+### 2)
 
-**Art. 40.**
+w art. 27 ust. 1 otrzymuje brzmienie:
 
-1. Organem kontroli rozumieniu przepisów ustawy, o której mowa 29, stosunku podmiotów, o których mowa 12b pkt 1 ustawy, o której mowa 3, brzmieniu nadanym niniejszą ustawą, dnia 31 marca 2016 jest minister właściwy spraw Skarbu Państwa.
+„
 
-2. Organem kontroli rozumieniu przepisów ustawy, o której mowa 29, stosunku podmiotów, o których mowa 12b pkt 2 ustawy, o której mowa 3, brzmieniu nadanym niniejszą ustawą, dnia 30 czerwca 2016 jest minister właściwy spraw Skarbu Państwa.
+### 1.
 
-**Art. 41.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
+Układanie i utrzymywanie kabli lub rurociągów w wyłącznej strefie ekonomicznej jest dozwolone, jeśli nie utrudnia to wykonywania praw Rzeczypospolitej Polskiej i pod warunkiem uzgodnienia ich lokalizacji oraz sposobów utrzymywania z ministrem właściwym do spraw gospodarki morskiej. Minister właściwy do spraw gospodarki morskiej wydaje decyzję w tym zakresie po zasięgnięciu opinii ministrów właściwych do spraw: energii, gospodarki, kultury i ochrony dziedzictwa narodowego, rybołówstwa, środowiska, gospodarki wodnej, wewnętrznych oraz Ministra Obrony Narodowej.
 
+” .
+
+### Art. 3.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2012 r. poz. 1059](https://api.sejm.gov.pl/eli/acts/DU/2012/1059/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 12a ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 lit. a, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ([Dz. U. z 2016 r. poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2016/154/text.html)) w stosunku do operatora systemu przesyłowego elektroenergetycznego i operatora systemu przesyłowego gazowego oraz Przedsiębiorstwa Eksploatacji Rurociągów Naftowych „Przyjaźń S.A.”.
+
+” ;
+
+### 2)
+
+art. 12b otrzymuje brzmienie:
+
+„
+
+### Art. 12b.
+
+Minister właściwy do spraw energii wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa w stosunku do spółek:
+
+### 1)
+
+Enea S.A., Energa S.A., Zespół Elektrowni Wodnych Niedzica S.A., PGE Polska Grupa Energetyczna S.A. oraz TAURON Polska Energia S.A.,
+
+### 2)
+
+Grupa LOTOS S.A., Polski Koncern Naftowy ORLEN S.A., Polskie Górnictwo Naftowe i Gazownictwo S.A., Przedsiębiorstwo Przeładunku Paliw Płynnych „NAFTOPORT” Sp. z o.o. oraz SIARKOPOL Gdańsk S.A.,
+
+### 3)
+
+Towarzystwo Finansowe Silesia Sp. z o.o.
+
+- oraz spółek zależnych od tych spółek lub spółek powstałych w wyniku łączenia, podziału lub przekształcenia tych spółek, w których Skarbowi Państwa przysługują prawa z akcji lub udziałów.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ([Dz. U. z 2012 r. poz. 1137](https://api.sejm.gov.pl/eli/acts/DU/2012/1137/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281.](#gloss-0:4:)) w art. 20 w ust. 5a wyrazy „ministra właściwego do spraw gospodarki” zastępuje się wyrazami „ministra właściwego do spraw energii”.
+
+### Art. 5.
+
+W ustawie z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki ([Dz. U. poz. 856 oraz z 2003 r. poz. 1693](https://api.sejm.gov.pl/eli/acts/DU/2000/856/text.html)) w art. 7 w ust. 1 wyrazy „Minister właściwy do spraw gospodarki” zastępuje się wyrazami „Minister właściwy do spraw gospodarki złożami kopalin”.
+
+### Art. 6.
+
+W ustawie z dnia 29 listopada 2000 r. - Prawo atomowe ([Dz. U. z 2014 r. poz. 1512](https://api.sejm.gov.pl/eli/acts/DU/2014/1512/text.html) oraz [z 2015 r. poz. 1505](https://api.sejm.gov.pl/eli/acts/DU/2015/1505/text.html) i [1893](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 33 w ust. 1, 6, 8, 10 i w ust. 21 w pkt 2, w art. 39n w ust. 9, w art. 57b w ust. 2 i 3, w art. 57c w ust. 1, w art. 57d w ust. 1, w art. 57e, w art. 57f, w art. 57g, w art. 103 w ust. 10 we wprowadzeniu do wyliczenia, w art. 108a we wprowadzeniu do wyliczenia, w art. 108b w ust. 2, w art. 108d w ust. 1 i 3, w art. 108e, w art. 116, w art. 117 w ust. 2, w art. 119 w ust. 3 oraz w art. 121 w ust. 3 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 2)
+
+w art. 73 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Stacje i placówki, o których mowa w art. 72 ust. 2 pkt 1, działają w Państwowej Agencji Atomistyki, w jednostkach Polskiej Akademii Nauk i w jednostkach ministrów właściwych do spraw wewnętrznych, środowiska, energii, szkolnictwa wyższego, rolnictwa, zdrowia oraz Ministra Obrony Narodowej.
+
+” ;
+
+### 3)
+
+w art. 74 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+współdziała z ministrami właściwymi do spraw wewnętrznych, środowiska, energii, szkolnictwa wyższego, rolnictwa, zdrowia i Ministrem Obrony Narodowej oraz z Prezesem Polskiej Akademii Nauk;
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ([Dz. U. z 2013 r. poz. 1232](https://api.sejm.gov.pl/eli/acts/DU/2013/1232/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688, 1936 i 2278.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 146 w ust. 3 we wprowadzeniu do wyliczenia, w art. 146h we wprowadzeniu do wyliczenia oraz w art. 146i wyrazy „ministrem właściwym do spraw gospodarki” zastępuje się wyrazami „ministrem właściwym do spraw energii”;
+
+### 2)
+
+w art. 400d w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+przedstawiciela ministra właściwego do spraw energii;
+
+” ;
+
+### 3)
+
+w art. 400k w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw energii co do zawartych w nich ustaleń;
+
+” ;
+
+### 4)
+
+w art. 401c w ust. 5 w pkt 5 w lit. b kropkę zastępuje się średnikiem i dodaje się pkt 6-8 w brzmieniu:
+
+„
+
+### 6)
+
+realizacji zadań ministra właściwego do spraw energii służących zapewnieniu bezpieczeństwa energetycznego kraju i kształtowaniu warunków prawidłowego funkcjonowania i rozwoju sektora energetycznego, wynikających z zasady zrównoważonego rozwoju i zgodnych z polityką energetyczną państwa;
+
+### 7)
+
+projektów w zakresie bezpieczeństwa energetycznego kraju, w tym bezpieczeństwa dostaw energii, surowców energetycznych i paliw;
+
+### 8)
+
+przedsięwzięć związanych z rozwojem infrastruktury energetycznej, w tym z funkcjonowaniem systemów energetycznych, z uwzględnieniem zasad racjonalnej gospodarki i potrzeb bezpieczeństwa energetycznego kraju.
+
+” ;
+
+### 5)
+
+w art. 411 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Przeznaczenie środków na finansowanie potrzeb geologii wymaga zasięgnięcia opinii ministra właściwego do spraw środowiska, a na finansowanie potrzeb górnictwa - opinii ministra właściwego do spraw energii oraz Prezesa Wyższego Urzędu Górniczego.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych ([Dz. U. poz. 449](https://api.sejm.gov.pl/eli/acts/DU/2003/449/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 6 otrzymuje brzmienie:
+
+„
+
+### Art. 6.
+
+### 1.
+
+Stopień generalnego dyrektora górnictwa przysługuje:
+
+### 1)
+
+ministrowi właściwemu do spraw energii;
+
+### 2)
+
+sekretarzowi stanu w urzędzie obsługującym ministra właściwego do spraw energii odpowiedzialnemu za sprawy górnictwa;
+
+### 3)
+
+Prezesowi Wyższego Urzędu Górniczego;
+
+### 4)
+
+Głównemu Geologowi Kraju;
+
+### 5)
+
+podsekretarzom stanu w urzędach obsługujących organy administracji rządowej odpowiedzialnym za sprawy górnictwa.
+
+### 2.
+
+Stopień generalnego dyrektora górnictwa jest nadawany przez Prezesa Rady Ministrów.
+
+### 3.
+
+W przypadku osób, o których mowa w ust. 1 pkt 3-5, Prezes Rady Ministrów stopień generalnego dyrektora górnictwa nadaje na wniosek ministra właściwego do spraw energii.
+
+” ;
+
+### 2)
+
+w art. 7 w ust. 1 we wprowadzeniu do wyliczenia oraz w art. 15 we wprowadzeniu do wyliczenia użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 9.
+
+W ustawie z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego ([Dz. U. z 2014 r. poz. 510](https://api.sejm.gov.pl/eli/acts/DU/2014/510/text.html) i [1146](https://api.sejm.gov.pl/eli/acts/DU/2014/1146/text.html) oraz [z 2015 r. poz. 1513](https://api.sejm.gov.pl/eli/acts/DU/2015/1513/text.html)) w art. 8 w ust. 4 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+przedstawiciel ministra właściwego do spraw energii;
+
+” .
+
+### Art. 10.
+
+W ustawie z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw ([Dz. U. z 2014 r. poz. 1728](https://api.sejm.gov.pl/eli/acts/DU/2014/1728/text.html) oraz [z 2015 r. poz. 1361](https://api.sejm.gov.pl/eli/acts/DU/2015/1361/text.html)) w art. 3 w ust. 2 we wprowadzeniu do wyliczenia, w art. 3a w ust. 2, w art. 4 w ust. 2, w art. 5 w ust. 2 we wprowadzeniu do wyliczenia, w art. 6, w art. 8 w ust. 3, w art. 9b w ust. 4, w art. 19 we wprowadzeniu do wyliczenia, w art. 19a we wprowadzeniu do wyliczenia, w art. 19b, w art. 26 we wprowadzeniu do wyliczenia, w art. 26a we wprowadzeniu do wyliczenia, w art. 26b, w art. 30 we wprowadzeniu do wyliczenia, w art. 30g w ust. 4, w art. 30h we wprowadzeniu do wyliczenia oraz w art. 30i w ust. 3 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 11.
+
+W ustawie z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych ([Dz. U. z 2015 r. poz. 775](https://api.sejm.gov.pl/eli/acts/DU/2015/775/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 22 w ust. 4-6, w art. 23 w ust. 3 i 4c, w art. 25 w ust. 3, w art. 28h w ust. 2, w art. 30 w ust. 2d oraz w art. 37a w ust. 1 i 3 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 2)
+
+w art. 30 ust. 4 i 4a otrzymują brzmienie:
+
+„
+
+### 4.
+
+Prezes Urzędu Regulacji Energetyki, na podstawie sprawozdań kwartalnych, o których mowa w ust. 2 i 3, sporządza zbiorczy raport kwartalny dotyczący rynku paliw ciekłych i biopaliw ciekłych i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych, środowiska oraz Prezesowi Agencji Rynku Rolnego, w terminie do 75 dni po zakończeniu kwartału.
+
+### 4a.
+
+Prezes Agencji Rynku Rolnego, na podstawie sprawozdań kwartalnych, o których mowa w ust. 1, 1b i 2b, sporządza zbiorczy raport kwartalny dotyczący rynku biokomponentów i przekazuje go ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, w terminie do 75 dni po zakończeniu kwartału.
+
+” ;
+
+### 3)
+
+w art. 31 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Zbiorczy raport roczny, o którym mowa w ust. 2, Prezes Agencji Rynku Rolnego przekazuje ministrom właściwym do spraw: finansów publicznych, energii, rynków rolnych oraz środowiska, do dnia 15 marca następnego roku.
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym ([Dz. U. z 2014 r. poz. 1695](https://api.sejm.gov.pl/eli/acts/DU/2014/1695/text.html)) w art. 3 w ust. 5 we wprowadzeniu do wyliczenia, w art. 4 we wprowadzeniu do wyliczenia, w art. 5 w ust. 6a, w art. 11a w ust. 8 i w ust. 9 we wprowadzeniu do wyliczenia, w art. 13 w ust. 5 we wprowadzeniu do wyliczenia, w art. 17 w ust. 2, w art. 21b w ust. 9, w ust. 10 we wprowadzeniu do wyliczenia, w ust. 11 we wprowadzeniu do wyliczenia i w ust. 14, w art. 21e w ust. 1, 2, 4, 6 i 8, w art. 22 w ust. 2, w art. 22a, w art. 23, w art. 24 w ust. 5, w ust. 5c w pkt 1, w pkt 2 we wprowadzeniu do wyliczenia, w art. 26 w ust. 1, 2 i 4, w art. 27 w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 28d w ust. 3 i 4, w art. 28e we wprowadzeniu do wyliczenia, w art. 28f, w art. 29b w ust. 2, w art. 31 w ust. 2 w pkt 3 i 4, w ust. 4 we wprowadzeniu do wyliczenia, w ust. 5 i w ust. 6 we wprowadzeniu do wyliczenia, w art. 33 w ust. 1 we wprowadzeniu do wyliczenia, w art. 34 we wprowadzeniu do wyliczenia, w art. 35 w ust. 1 i 4, w art. 36, w art. 37 we wprowadzeniu do wyliczenia, w art. 38 w ust. 2, w art. 39 w ust. 1, w art. 40 w ust. 1 we wprowadzeniu do wyliczenia, w art. 41 w ust. 1 we wprowadzeniu do wyliczenia, w art. 44 w ust. 2, w art. 44a, w art. 46 we wprowadzeniu do wyliczenia, w art. 47 w ust. 1 i 3, w art. 48 w ust. 1, w art. 48a w ust. 1-3, w art. 52 w ust. 7, w art. 53, w art. 55 w ust. 3, w art. 56, w art. 61 w ust. 1 i w ust. 3 we wprowadzeniu do wyliczenia, w art. 64 w ust. 1 w pkt 7 i w ust. 2 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 13.
+
+W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym ([Dz. U. z 2013 r. poz. 1166](https://api.sejm.gov.pl/eli/acts/DU/2013/1166/text.html) oraz [z 2015 r. poz. 1485](https://api.sejm.gov.pl/eli/acts/DU/2015/1485/text.html)) w art. 8 w ust. 3 w pkt 1 w lit. s średnik zastępuje się przecinkiem i dodaje się lit. t i u w brzmieniu:
+
+„
+
+### t)
+
+energia,
+
+### u)
+
+gospodarka złożami kopalin;
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej ([Dz. U. poz. 905](https://api.sejm.gov.pl/eli/acts/DU/2007/905/text.html), [z 2008 r. poz. 357](https://api.sejm.gov.pl/eli/acts/DU/2008/357/text.html), [z 2009 r. poz. 817](https://api.sejm.gov.pl/eli/acts/DU/2009/817/text.html) oraz [z 2011 r. poz. 551](https://api.sejm.gov.pl/eli/acts/DU/2011/551/text.html) i [1381](https://api.sejm.gov.pl/eli/acts/DU/2011/1381/text.html)) w art. 21 w ust. 2-4, w art. 29 w ust. 1 i 3, w art. 49 w ust. 1 w pkt 4 w lit. b, w art. 55 w ust. 1 w pkt 2 oraz w art. 57 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 15.
+
+W ustawie z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych ([Dz. U. z 2015 r. poz. 1797](https://api.sejm.gov.pl/eli/acts/DU/2015/1797/text.html)) w art. 5 w ust. 3, w art. 11 w ust. 3 i 4 oraz w art. 12 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki złożami kopalin”.
+
+### Art. 16.
+
+W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego ([Dz. U. z 2015 r. poz. 410](https://api.sejm.gov.pl/eli/acts/DU/2015/410/text.html), [1960](https://api.sejm.gov.pl/eli/acts/DU/2015/1960/text.html) i [2300](https://api.sejm.gov.pl/eli/acts/DU/2015/2300/text.html)) art. 20a otrzymuje brzmienie:
+
+„
+
+### Art. 20a.
+
+Kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ([Dz. U. z 2016 r. poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2016/154/text.html)) w odniesieniu do:
+
+### 1)
+
+przedsiębiorstw górniczych, z wyjątkiem Lubelskiego Węgla „Bogdanka” S.A., oraz spółek zależnych od tych przedsiębiorstw,
+
+### 2)
+
+CZW „Węglozbyt” S.A. w Katowicach, „Węglokoks” S.A. w Katowicach, Centralnej Stacji Ratownictwa Górniczego S.A. oraz spółek zależnych od tych spółek
+
+- w których Skarbowi Państwa przysługują uprawnienia z akcji lub udziałów, wykonuje minister właściwy do spraw energii.
+
+” .
+
+### Art. 17.
+
+W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu ([Dz. U. z 2014 r. poz. 1501](https://api.sejm.gov.pl/eli/acts/DU/2014/1501/text.html) oraz [z 2015 r. poz. 1045](https://api.sejm.gov.pl/eli/acts/DU/2015/1045/text.html) i [1777](https://api.sejm.gov.pl/eli/acts/DU/2015/1777/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 4 i 7 oraz w art. 3 użyte w różnych przypadkach wyrazy „minister właściwy do spraw Skarbu Państwa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej”;
+
+### 2)
+
+w art. 6 w ust. 3 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ministrów właściwych do spraw gospodarki morskiej, energii, kultury i dziedzictwa narodowego, rybołówstwa, spraw wewnętrznych oraz Ministra Obrony Narodowej - w odniesieniu do wznoszenia i wykorzystywania sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. z 2013 r. poz. 934](https://api.sejm.gov.pl/eli/acts/DU/2013/934/text.html) i [1014](https://api.sejm.gov.pl/eli/acts/DU/2013/1014/text.html), [z 2015 r. poz. 1642](https://api.sejm.gov.pl/eli/acts/DU/2015/1642/text.html) oraz [z 2016 r. poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2016/266/text.html)).
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji ([Dz. U. z 2015 r. poz. 2273](https://api.sejm.gov.pl/eli/acts/DU/2015/2273/text.html) i [2278](https://api.sejm.gov.pl/eli/acts/DU/2015/2278/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 16 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy Rada Ministrów przyjmie Krajowy plan redukcji emisji, minister właściwy do spraw środowiska w porozumieniu z ministrami właściwymi do spraw: energii, gospodarki, transportu, rolnictwa, budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa oraz gospodarki morskiej, z każdym w zakresie jego właściwości, określi, w drodze rozporządzenia, sektorowe plany redukcji emisji, kierując się ustaleniami Krajowego planu redukcji emisji oraz potrzebą zapewnienia ograniczania emisji, a także nieprzekraczania w przyszłości krajowych pułapów emisji dla poszczególnych sektorów gospodarki.
+
+” ;
+
+### 2)
+
+w art. 24 w ust. 4 po pkt 2 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+ministra właściwego do spraw energii;
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw Skarbu Państwa oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych ([Dz. U. Nr 65, poz. 404](https://api.sejm.gov.pl/eli/acts/DU/2010/404/text.html)) w art. 1 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Wykonywanie przez ministra właściwego do spraw Skarbu Państwa uprawnień, o których mowa w ustawie, nie narusza kompetencji ministra właściwego do spraw energii.
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 29 października 2010 r. o rezerwach strategicznych ([Dz. U. z 2015 r. poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2015/1229/text.html) i [1926](https://api.sejm.gov.pl/eli/acts/DU/2015/1926/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7, w art. 8 w ust. 2 we wprowadzeniu do wyliczenia, w ust. 3 we wprowadzeniu do wyliczenia i w ust. 4 we wprowadzeniu do wyliczenia, w art. 9 w ust. 3, w art. 10, w art. 12 w ust. 1 we wprowadzeniu do wyliczenia, w art. 13 w ust. 1, w art. 14 we wprowadzeniu do wyliczenia, w art. 18 w ust. 1, w ust. 2 we wprowadzeniu do wyliczenia oraz w ust. 5-7, w art. 20 w ust. 1, w art. 21, w art. 22 w ust. 1 i 2, w art. 24, w art. 25 w ust. 1 we wprowadzeniu do wyliczenia, w art. 26 w ust. 5, w art. 27 w pkt 2 we wprowadzeniu do wyliczenia, w art. 28 w ust. 2, w art. 29 w ust. 2 i 5, w art. 30 w ust. 4 i 7, w art. 37 w ust. 6, w art. 38 w ust. 2 i 5, w art. 39 w ust. 1 oraz w art. 42 w ust. 1 w pkt 2 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 2)
+
+w art. 8 w ust. 2 po pkt 7 dodaje się pkt 7a w brzmieniu:
+
+„
+
+### 7a)
+
+ministrem właściwym do spraw gospodarki;
+
+” ;
+
+### 3)
+
+w art. 38 w ust. 6 zdanie drugie otrzymuje brzmienie: „ Agencja dokonuje wpłaty nadwyżki tych środków na rachunek bieżący dochodów urzędu obsługującego ministra właściwego do spraw energii, nie później niż do dnia 30 czerwca za rok poprzedni. ” .
+
+### Art. 21.
+
+W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej ([Dz. U. z 2015 r. poz. 2167](https://api.sejm.gov.pl/eli/acts/DU/2015/2167/text.html) i [2359](https://api.sejm.gov.pl/eli/acts/DU/2015/2359/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6 w ust. 1 i 3, w art. 7 w ust. 2, w art. 8, w art. 9, w art. 11, w art. 15, w art. 17 w ust. 2, w art. 19 w ust. 4 we wprowadzeniu do wyliczenia, w art. 20 w ust. 1 i 4 oraz w art. 28 w ust. 6 we wprowadzeniu do wyliczenia użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 2)
+
+w art. 11 w ust. 2 w pkt 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ zamieszcza w Biuletynie Informacji Publicznej urzędu obsługującego ministra właściwego do spraw energii: ” .
+
+### Art. 22.
+
+W ustawie z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze ([Dz. U. z 2015 r. poz. 196](https://api.sejm.gov.pl/eli/acts/DU/2015/196/text.html), [1272](https://api.sejm.gov.pl/eli/acts/DU/2015/1272/text.html) i [1505](https://api.sejm.gov.pl/eli/acts/DU/2015/1505/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 23 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wydobywanie kopalin, o których mowa w art. 10 ust. 1, ze złóż, podziemne bezzbiornikowe magazynowanie substancji oraz podziemne składowanie dwutlenku węgla wymaga uzgodnienia z ministrem właściwym do spraw gospodarki złożami kopalin;
+
+” ;
+
+### 2)
+
+w art. 120 w ust. 1 i 2 oraz w art. 124 we wprowadzeniu do wyliczenia użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 3)
+
+w art. 165 w ust. 1, 2, 6, 9 i 13, w art. 166 w ust. 4 oraz w art. 167 w ust. 7 użyte w różnych przypadkach wyrazy „minister właściwy do spraw środowiska” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 23.
+
+W ustawie z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących ([Dz. U. poz. 789](https://api.sejm.gov.pl/eli/acts/DU/2011/789/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2014 r. poz. 40 oraz z 2015 r. poz. 1045, 1777, 1893 i 1936.](#gloss-0:6:)) w art. 5 w ust. 1 w pkt 12 w lit. b, w art. 22 w ust. 2, w art. 52 w ust. 1 oraz w art. 58 w ust. 2 i 4 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 24.
+
+W ustawie z dnia 16 września 2011 r. o współpracy rozwojowej ([Dz. U. z 2015 r. poz. 2012](https://api.sejm.gov.pl/eli/acts/DU/2015/2012/text.html)) w art. 17:
+
+### 1)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Rada składa się z 23 członków.
+
+” ;
+
+### 2)
+
+w ust. 2 po pkt 2 dodaje się pkt 2a i 2b w brzmieniu:
+
+„
+
+### 2a)
+
+przedstawiciel ministra właściwego do spraw energii;
+
+### 2b)
+
+przedstawiciel ministra właściwego do spraw gospodarki złożami kopalin;
+
+” .
+
+### Art. 25.
+
+W ustawie z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych ([Dz. U. poz. 1203](https://api.sejm.gov.pl/eli/acts/DU/2012/1203/text.html) oraz [z 2015 r. poz. 1069](https://api.sejm.gov.pl/eli/acts/DU/2015/1069/text.html)) w art. 2 w ust. 2 oraz w art. 8 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”.
+
+### Art. 26.
+
+W ustawie z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów ([Dz. U. poz. 1160](https://api.sejm.gov.pl/eli/acts/DU/2013/1160/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 w ust. 1 w pkt 2 we wprowadzeniu do wyliczenia, w ust. 2 i 3, w art. 6 w ust. 1, w art. 9 w ust. 1, w art. 10 w ust. 1, w ust. 3 we wprowadzeniu do wyliczenia, w ust. 4, w art. 11 oraz w art. 12 użyte w różnych przypadkach wyrazy „minister właściwy do spraw gospodarki” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw energii”;
+
+### 2)
+
+po art. 12 dodaje się art. 12a w brzmieniu:
+
+„
+
+### Art. 12a.
+
+Minister właściwy do spraw energii wykonuje uprawnienia Skarbu Państwa określone w art. 2 pkt 5 i 6, art. 5a oraz art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ([Dz. U. z 2016 r. poz. 154](https://api.sejm.gov.pl/eli/acts/DU/2016/154/text.html)) w odniesieniu do spółki Przedsiębiorstwo Państwowe Kopalnia Soli „Bochnia” z siedzibą w Bochni oraz Kopalnia Soli „Wieliczka” Spółka Akcyjna w Wieliczce.
+
+” .
+
+### Art. 27.
+
+W ustawie z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych ([Dz. U. poz. 1223](https://api.sejm.gov.pl/eli/acts/DU/2015/1223/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 29 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wykaz, o którym mowa w ust. 1, zawiera listę instalacji wytwarzających energię elektryczną, które kwalifikują się do przydziału uprawnień do emisji, wraz z liczbą uprawnień do emisji planowanych do przydzielenia danej instalacji na każdy rok okresu rozliczeniowego 2013-2020, ustaloną przez ministra właściwego do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii, zgodnie z decyzją Komisji nr K (2011) 1983 z dnia 29 marca 2011 r. w sprawie metodologii przejściowego przydziału instalacjom wytwarzającym energię elektryczną bezpłatnych uprawnień do emisji na mocy art. 10c ust. 3 dyrektywy 2003/87/WE oraz z uwzględnieniem wytycznych zawartych w Komunikacie Komisji - Wytyczne w zakresie nieobowiązkowego stosowania art. 10c dyrektywy 2003/87/WE (2011/C 99/03) (Dz. Urz. UE C 99 z 31.03.2011, str. 9), zwanym dalej „Komunikatem Komisji nr 2011/C 99/03”, na podstawie:
+
+### 1)
+
+zweryfikowanych emisji w latach 2005-2007 lub
+
+### 2)
+
+wskaźnika wydajności ex ante.
+
+” ;
+
+### 2)
+
+w art. 30 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Minister właściwy do spraw środowiska ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” krajowy plan inwestycyjny sporządzony przez ministra właściwego do spraw energii na podstawie informacji przekazanych przez podmioty realizujące zadania inwestycyjne z uwzględnieniem potrzeby modernizacji i poprawy infrastruktury, wspierania czystych technologii, a także dywersyfikacji struktury energetycznej i źródeł dostaw, zatwierdzony przez Komisję Europejską w decyzjach, o których mowa w art. 29 ust. 1, niezwłocznie po jego zatwierdzeniu przez Komisję Europejską, uwzględniając poufność informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu aaaustawy z aaadnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r. poz. 1503, z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.](#gloss-0:7:)).
+
+” ;
+
+### 3)
+
+w art. 36 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii określi, w drodze rozporządzenia, wzór: ” ;
+
+### 4)
+
+w art. 42 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw energii zatwierdza raport z realizacji zadań inwestycyjnych ujętych w krajowym planie inwestycyjnym.
+
+” .
+
+### Art. 28.
+
+W ustawie z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych ([Dz. U. poz. 1265](https://api.sejm.gov.pl/eli/acts/DU/2015/1265/text.html) i [1753](https://api.sejm.gov.pl/eli/acts/DU/2015/1753/text.html)) w art. 4 w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ministra właściwego do spraw gospodarki morskiej, ministra właściwego do spraw energii, ministra właściwego do spraw kultury i dziedzictwa narodowego, ministra właściwego do spraw rybołówstwa, ministra właściwego do spraw wewnętrznych oraz Ministra Obrony Narodowej - w odniesieniu do wznoszenia i wykorzystywania sztucznych wysp, konstrukcji i urządzeń w polskich obszarach morskich, zgodnie z przepisami ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej ([Dz. U. z 2013 r. poz. 934](https://api.sejm.gov.pl/eli/acts/DU/2013/934/text.html) i [1014](https://api.sejm.gov.pl/eli/acts/DU/2013/1014/text.html), [z 2015 r. poz. 1642](https://api.sejm.gov.pl/eli/acts/DU/2015/1642/text.html) oraz [z 2016 r. poz. 266](https://api.sejm.gov.pl/eli/acts/DU/2016/266/text.html));
+
+” .
+
+### Art. 29.
+
+W ustawie z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji ([Dz. U. poz. 1272](https://api.sejm.gov.pl/eli/acts/DU/2015/1272/text.html) i [2281](https://api.sejm.gov.pl/eli/acts/DU/2015/2281/text.html) oraz [z 2016 r. poz. 149](https://api.sejm.gov.pl/eli/acts/DU/2016/149/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 1 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+organie kontroli - rozumie się przez to:
+
+### a)
+
+ministra właściwego do spraw energii - w zakresie określonym w art. 4 ust. 1 pkt 1-5, 8-10 oraz 12,
+
+### b)
+
+ministra właściwego do spraw Skarbu Państwa - w zakresie określonym w art. 4 ust. 1 pkt 6, 7, 11, 13 i 14.
+
+” ;
+
+### 2)
+
+w art. 13 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Członków Komitetu Konsultacyjnego powołuje i odwołuje minister właściwy do spraw Skarbu Państwa, wskazując jednocześnie Przewodniczącego Komitetu Konsultacyjnego.
+
+” ;
+
+### 3)
+
+w art. 14 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Obsługę organizacyjną Komitetu Konsultacyjnego zapewnia minister właściwy do spraw Skarbu Państwa.
+
+” .
+
+### Art. 30.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39n ust. 9 ustawy, o której mowa w art. 6, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 39n ust. 9 ustawy, o której mowa w art. 6, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 31.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 146 ust. 3, art. 146h i art. 146i ustawy, o której mowa w art. 7, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 146 ust. 3, art. 146h i art. 146i ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 32.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 2, art. 4 ust. 2, art. 5 ust. 2, art. 8 ust. 3, art. 9b ust. 4, art. 19, art. 26 oraz art. 30 ustawy, o której mowa w art. 10, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 3 ust. 2, art. 4 ust. 2, art. 5 ust. 2, art. 8 ust. 3, art. 9b ust. 4, art. 19, art. 26 oraz art. 30 ustawy, o której mowa w art. 10, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 33.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 4, 5 i 6, art. 23 ust. 3, art. 25 ust. 3, art. 28h ust. 2, art. 30 ust. 2d oraz art. 37a ust. 3 ustawy, o której mowa w art. 11, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 22 ust. 4, 5 i 6, art. 23 ust. 3, art. 25 ust. 3, art. 28h ust. 2, art. 30 ust. 2d oraz art. 37a ust. 3 ustawy, o której mowa w art. 11, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 34.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 3 ust. 5, art. 5 ust. 6a, art. 13 ust. 5, art. 21b ust. 9, art. 37 oraz art. 46 ustawy, o której mowa w art. 12, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 3 ust. 5, art. 5 ust. 6a, art. 13 ust. 5, art. 21b ust. 9, art. 37 oraz art. 46 ustawy, o której mowa w art. 12, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 35.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 120 ust. 1 i 2 oraz art. 124 ustawy, o której mowa w art. 22, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 120 ust. 1 i 2 oraz art. 124 ustawy, o której mowa w art. 22, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 36.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 36 ust. 6 ustawy, o której mowa w art. 27, w brzmieniu dotychczasowym, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 36 ust. 6 ustawy, o której mowa w art. 27, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 37.
+
+Zachowują moc czynności ministra właściwego do spraw gospodarki związane z udzielaniem dotacji, o których mowa w art. 33 ust. 1 i art. 119 ust. 1 i 1a ustawy, o której mowa w art. 6, dokonane przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 38.
+
+Zachowuje moc zarządzenie wydane na podstawie art. 121 ust. 3 ustawy, o której mowa w art. 6, w brzmieniu dotychczasowym, zarządzenie wydane na podstawie art. 28 ust. 2 ustawy, o której mowa w art. 20, w brzmieniu dotychczasowym, oraz zarządzenie wydane na podstawie art. 166 ust. 4 ustawy, o której mowa w art. 22, w brzmieniu dotychczasowym.
+
+### Art. 39.
+
+Przedstawiciele ministra właściwego do spraw gospodarki powołani na podstawie art. 55 ust. 1 pkt 2 ustawy, o której mowa w art. 14, w brzmieniu dotychczasowym, stają się przedstawicielami ministra właściwego do spraw energii.
+
+### Art. 40.
+
+### 1.
+
+Organem kontroli w rozumieniu przepisów ustawy, o której mowa w art. 29, w stosunku do podmiotów, o których mowa w art. 12b pkt 1 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, do dnia 31 marca 2016 r. jest minister właściwy do spraw Skarbu Państwa.
+
+### 2.
+
+Organem kontroli w rozumieniu przepisów ustawy, o której mowa w art. 29, w stosunku do podmiotów, o których mowa w art. 12b pkt 2 ustawy, o której mowa w art. 3, w brzmieniu nadanym niniejszą ustawą, do dnia 30 czerwca 2016 r. jest minister właściwy do spraw Skarbu Państwa.
+
+### Art. 41.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 15 i art. 26, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 3 pkt 2, w zakresie art. 12b pkt 1, który wchodzi w życie z dniem 1 kwietnia 2016 r.;
+
+### 3)
+
+art. 3 pkt 2, w zakresie art. 12b pkt 2, który wchodzi w życie z dniem 1 lipca 2016 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej, ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym, ustawę z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki, ustawę z dnia 29 listopada 2000 r. - Prawo atomowe, ustawę z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, ustawę z dnia 14 lutego 2003 r. o stopniach górniczych, honorowych szpadach górniczych i mundurach górniczych, ustawę z dnia 14 marca 2003 r. o Banku Gospodarstwa Krajowego, ustawę z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, ustawę z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych, ustawę z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym, ustawę z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej, ustawę z dnia 6 lipca 2007 r. o ekwiwalencie pieniężnym z tytułu prawa do bezpłatnego węgla dla osób uprawnionych z przedsiębiorstw robót górniczych, ustawę z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego, ustawę z dnia 24 kwietnia 2009 r. o inwestycjach w zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu, ustawę z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, ustawę z dnia 18 marca 2010 r. o szczególnych uprawnieniach ministra właściwego do spraw Skarbu Państwa oraz ich wykonywaniu w niektórych spółkach kapitałowych lub grupach kapitałowych prowadzących działalność w sektorach energii elektrycznej, ropy naftowej oraz paliw gazowych, ustawę z dnia 29 października 2010 r. o rezerwach strategicznych, ustawę z dnia 15 kwietnia 2011 r. o efektywności energetycznej, ustawę z dnia 9 czerwca 2011 r. - Prawo geologiczne i górnicze, ustawę z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, ustawę z dnia 16 września 2011 r. o współpracy rozwojowej, ustawę z dnia 14 września 2012 r. o informowaniu o zużyciu energii przez produkty wykorzystujące energię oraz o kontroli realizacji programu znakowania urządzeń biurowych, ustawę z dnia 30 sierpnia 2013 r. o dotacji przeznaczonej dla niektórych podmiotów, ustawę z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, ustawę z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji w zakresie sieci przesyłowych oraz ustawę z dnia 24 lipca 2015 r. o kontroli niektórych inwestycji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1255, 1269, 1960, 2184 i 2281 oraz z 2016 r. poz. 34, 64 i 65. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662 oraz z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 1448, z 2013 r. poz. 700, 991, 1446 i 1611, z 2014 r. poz. 312, 486, 529, 768, 822 i 970 oraz z 2015 r. poz. 211, 541, 591, 933, 1038, 1045, 1273, 1326, 1335, 1830, 1844, 1893, 2183 i 2281. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238, z 2014 r. poz. 40, 47, 457, 822, 1101, 1146, 1322 i 1662 oraz z 2015 r. poz. 122, 151, 277, 478, 774, 881, 933, 1045, 1223, 1434, 1593, 1688, 1936 i 2278. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, z 2014 r. poz. 40 oraz z 2015 r. poz. 1045, 1777, 1893 i 1936. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, Nr 162, poz. 1693 i Nr 172, poz. 1804, z 2005 r. Nr 10, poz. 68, z 2007 r. Nr 171, poz. 1206 oraz z 2009 r. Nr 201, poz. 1540.

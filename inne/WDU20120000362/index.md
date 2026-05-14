@@ -8,9 +8,9 @@ pos: 362
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# z dnia 2 marca 2012 r.
+# Ustawa z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -22,313 +22,658 @@ domain: null
 | Data ogłoszenia | 2012-03-02 |
 | Data wydania | 2012-04-03 |
 | Ostatnia zmiana | 2026-04-13 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/362/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/362/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/362) |
 
-o podatku od wydobycia niektórych kopalin
+## Spis treści
 
-### DZIAŁ I Przepisy ogólne
+- [Treść ustawy](#part_1) [Dział I - Przepisy ogólne](#bran_I) [Dział II - Przedmiot opodatkowania, podatnik oraz obowiązek podatkowy](#bran_II) [Dział III - Podstawa opodatkowania oraz stawka podatku](#bran_III) [Dział IV - Właściwość organów podatkowych oraz rejestr podatników](#bran_IV) [Rozdział 1 - Właściwość organów podatkowych](#bran_IV-chpt_1) [Rozdział 2 - Rejestr podatników](#bran_IV-chpt_2) [Dział V - Deklaracja podatkowa oraz termin płatności podatku](#bran_V) [Dział VI - Pomiary oraz ewidencje pomiarów](#bran_VI) [Dział VII - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#bran_VII) [Rozdział 1 - Zmiany w przepisach obowiązujących](#bran_VII-chpt_1) [Rozdział 2 - Przepisy przejściowe i końcowe](#bran_VII-chpt_2)
 
-**Art. 1.**
+TOC
 
-1. Ustawa reguluje opodatkowanie podatkiem od wydobycia niektórych kopalin, zwanym dalej „podatkiem”, wydobycia:
+## Treść ustawy
 
-- **1)** miedzi;
-- **2)** srebra;
-- **3)** gazu ziemnego;
-- **4)** ropy naftowej.
+### Dział I Przepisy ogólne
 
-2. Podatek stanowi dochód budżetu państwa.
+### Art. 1.
 
-**Art. 2.** Ilekroć ustawie jest mowa o:
+### 1.
 
-### DZIAŁ II Przedmiot opodatkowania, podatnik oraz obowiązek podatkowy
+Ustawa reguluje opodatkowanie podatkiem od wydobycia niektórych kopalin, zwanym dalej „podatkiem”, wydobycia:
 
-**Art. 3.**
+### 1)
 
-1. Przedmiotem opodatkowania podatkiem jest wydobycie na terytorium Rzeczypospolitej Polskiej lub terytorium wyłącznej strefy ekonomicznej:
+miedzi;
 
-- **1)** miedzi;
-- **2)** srebra;
-- **3)** gazu ziemnego;
-- **4)** ropy naftowej.
+### 2)
 
-2. Opodatkowaniu podatkiem nie podlegają:
+srebra.
 
-- **1)** urobek rudy miedzi lub przetworzony urobek rudy miedzi niebędący koncentratem, przeliczony na masę urobku rudy miedzi, ilości nieprzekraczającej 1 tony miesięcznie,
-- **2)** wydobyty gaz ziemny ilości nieprzekraczającej równowartości 11 MWh miesięcznie,
-- **3)** wydobyta ropa naftowa ilości nieprzekraczającej 1 tony miesięcznie – jeżeli zostały wykorzystane na cele badawcze.
+### 2.
 
-3. Opodatkowaniu podatkiem nie podlega również wydobyty metan występujący złożach węgla kamiennego oraz wydobyty metan występujący jako kopalina towarzysząca.
+Podatek stanowi dochód budżetu państwa.
 
-**Art. 4.**
+### Art. 2.
 
-1. Podatnikiem podatku jest dokonująca zakresie prowadzonej działalności gospodarczej wydobycia miedzi, srebra, gazu ziemnego lub ropy naftowej:
+Ilekroć w ustawie jest mowa o:
 
-2. Jeżeli wydobycie gazu ziemnego lub ropy naftowej odbywa się ramach umowy o współpracy, o której mowa przepisach ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze, podatnikiem jest każda strona tej umowy, a jeżeli stroną umowy o współpracy jest spółka cywilna – ta spółka.
+### 1)
 
-**Art. 5.**
+urobku rudy miedzi - rozumie się przez to kopalinę wydobytą ze złóż położonych na terytorium Rzeczypospolitej Polskiej, zawierającą miedź lub srebro w ilościach nadających się do przemysłowego wykorzystania;
 
-1. W zakresie wydobycia miedzi oraz srebra obowiązek podatkowy powstaje dniu wyprodukowania koncentratu z wydobytego przez podatnika urobku rudy miedzi.
+### 2)
 
-2. W przypadku gdy podatnik nie produkuje koncentratu z wydobytego urobku rudy miedzi, obowiązek podatkowy powstaje dniu wydobycia tego urobku.
+wydobyciu miedzi oraz srebra - rozumie się przez to:
 
-2a. W zakresie wydobycia gazu ziemnego lub ropy naftowej obowiązek podatkowy powstaje z chwilą wprowadzenia gazu ziemnego lub ropy naftowej do sieci przesyłowej lub bezpośrednio do sieci dystrybucyjnej albo z chwilą załadunku gazu ziemnego lub ropy naftowej na inny środek transportu.
+### a)
 
-3. Jeżeli nie można określić dnia, którym powstał obowiązek podatkowy związku z wyprodukowaniem koncentratu, wydobyciem urobku rudy miedzi, wydobyciem gazu ziemnego lub wydobyciem ropy naftowej, za dzień jego powstania uznaje się dzień, którym organ podatkowy stwierdził dokonanie czynności podlegającej opodatkowaniu.
+wydobycie urobku rudy miedzi albo
 
-### DZIAŁ III Podstawa opodatkowania, stawka podatku, zwolnienia oraz odliczenia od podatku
+### b)
 
-**Art. 6.**
+wydobycie urobku rudy miedzi i produkcję koncentratu;
 
-1. Podstawę opodatkowania podatkiem zakresie wydobycia miedzi oraz srebra stanowi ilość miedzi oraz srebra zawarta wyprodukowanym koncentracie.
+### 3)
 
-2. W przypadku gdy podatnik nie produkuje koncentratu z wydobytego urobku rudy miedzi, podstawę opodatkowania podatkiem zakresie wydobycia miedzi oraz srebra stanowi ilość miedzi oraz srebra zawarta urobku rudy miedzi.
+koncentracie - rozumie się przez to produkt wzbogacania urobku rudy miedzi w postaci nadającej się do dalszego przetwarzania w procesach hutniczych.
 
-- **1)** ilości miedzi, wyrażonej tonach, oraz stawki podatku określonej ust. 2 albo 3, oraz
-- **2)** ilości srebra, wyrażonej kilogramach, oraz stawki podatku określonej ust. 4 albo 5.
+### Dział II Przedmiot opodatkowania, podatnik oraz obowiązek podatkowy
 
-2. Jeżeli średnia cena miedzi przekracza 15 000 zł za tonę, stawkę podatku za tonę wydobytej miedzi oblicza się według następującego wzoru: – przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
+### Art. 3.
 
-3. Jeżeli średnia cena miedzi nie przekracza 15 000 zł za tonę, stawkę podatku za tonę wydobytej miedzi oblicza się według następującego wzoru: – przy czym minimalna stawka podatku wynosi 0,5 % średniej ceny miedzi.
+### 1.
 
-4. Jeżeli średnia cena srebra przekracza 1200 zł za kilogram, stawkę podatku za kilogram wydobytego srebra oblicza się według następującego wzoru: – przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.
+Przedmiotem opodatkowania podatkiem jest wydobycie miedzi oraz srebra.
 
-5. Jeżeli średnia cena srebra nie przekracza 1200 zł za kilogram, stawkę podatku za kilogram wydobytego srebra oblicza się według następującego wzoru: – przy czym minimalna stawka podatku wynosi 0,5 % średniej ceny srebra.
+### 2.
 
-6. Stawka podatku, o której mowa ust. 2–5, jest zaokrąglana górę z dokładnością do jednego grosza.
+Opodatkowaniu podatkiem nie podlega urobek rudy miedzi w ilości nieprzekraczającej 1 tony miesięcznie, jeżeli został wykorzystany na cele badawcze.
 
-**Art. 7a.**
+### Art. 4.
 
-1. W zakresie wydobycia gazu ziemnego lub ropy naftowej wysokość podatku za dany miesiąc stanowi suma iloczynów:
+Podatnikiem podatku jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, dokonująca w zakresie prowadzonej działalności gospodarczej wydobycia miedzi oraz srebra.
 
-- **1)** wartości wydobytego gazu ziemnego wyrażonej złotych oraz stawki podatku określonej ust. 6 oraz naftowej wyrażonej tonach oraz średniej ceny ropy naftowej.
+### Art. 5.
 
-4. (uchylony)
+### 1.
 
-5. Ilość wydobytego gazu ziemnego oraz wydobytej ropy naftowej określa się na podstawie pomiarów punktach wprowadzenia gazu ziemnego lub ropy naftowej do sieci przesyłowej lub bezpośrednio do sieci dystrybucyjnej albo z chwilą załadunku gazu ziemnego lub ropy naftowej na inny środek transportu.
+Obowiązek podatkowy powstaje w dniu wyprodukowania koncentratu z wydobytego przez podatnika urobku rudy miedzi.
 
-6. Stawka podatku zakresie wydobycia gazu ziemnego wynosi:
+### 2.
 
-- **1)** 1,5 % – przypadku wydobycia gazu ziemnego ze złoża, którego średnia przepuszczalność nie przekracza 0,1 milidarcy oraz średnia efektywna porowatość nie przekracza 10 %;
-- **2)** 3 % – przypadku wydobycia gazu ziemnego ze złoża innego niż określone pkt 1.
+W przypadku gdy podatnik nie produkuje koncentratu z wydobytego urobku rudy miedzi, obowiązek podatkowy powstaje w dniu wydobycia tego urobku.
 
-7. Stawka podatku zakresie wydobycia ropy naftowej wynosi:
+### 3.
 
-- **1)** 3 % – przypadku wydobycia ropy naftowej ze złoża, którego średnia przepuszczalność nie przekracza 0,1 milidarcy oraz średnia efektywna porowatość nie przekracza 10 %;
-- **2)** 6 % – przypadku wydobycia ropy naftowej ze złoża innego niż określone pkt 1.
+Jeżeli nie można określić dnia, w którym powstał obowiązek podatkowy w związku z wyprodukowaniem koncentratu albo wydobyciem urobku rudy miedzi, za dzień jego powstania uznaje się dzień, w którym organ podatkowy lub organ kontroli skarbowej stwierdził dokonanie czynności podlegającej opodatkowaniu.
 
-8. Dla wydobycia gazu ziemnego lub ropy naftowej z dna morskiego stosuje się odpowiednio stawki podatkowe określone ust. 6 pkt 1 oraz ust. 7 pkt 1.
+### Dział III Podstawa opodatkowania oraz stawka podatku
 
-9. Właściwości złoża, o których mowa ust. 6 i 7, określa się na podstawie dokumentacji geologicznej lub geologiczno-inwestycyjnej złoża węglowodorów, sporządzonej na podstawie przepisów prawa geologicznego i górniczego.
+### Art. 6.
 
-10. Wartość wydobytego gazu ziemnego lub ropy naftowej wyraża się złotych, zaokrąglając górę z dokładnością do jednego złotego.
+### 1.
 
-**Art. 7b.**
+Podstawę opodatkowania podatkiem stanowi ilość miedzi oraz srebra zawarta w wyprodukowanym koncentracie.
 
-1. Zwalnia się od podatku wydobycie gazu ziemnego z odwiertu rozpoznawczego lub wydobywczego, z którego miesięczne wydobycie gazu ziemnego nie przekracza równowartości 1100 MWh. właściwego do spraw finansów publicznych:
+### 2.
 
-- **1)** średnią cenę tony miedzi za poprzedni miesiąc, wyrażoną złotych, zaokrągloną górę z dokładnością do jednego złotego, na podstawie średniej arytmetycznej średnich kursów dolara amerykańskiego do złotego ogłoszonych przez Narodowy Bank Polski poprzednim miesiącu oraz średniej arytmetycznej dziennych notowań miedzi (LME Daily Official and Settlement Price) ustalonych na London Metal Exchange (LME) poprzednim miesiącu, wyrażonej dolarach amerykańskich za tonę, zaokrąglonej górę z dokładnością do jednego centa amerykańskiego;
-- **2)** średnią cenę kilograma srebra za poprzedni miesiąc, wyrażoną złotych, zaokrągloną górę z dokładnością do jednego złotego, na podstawie średniej arytmetycznej średnich kursów dolara amerykańskiego do złotego ogłoszonych przez Narodowy Bank Polski poprzednim miesiącu oraz średniej arytmetycznej dziennych notowań srebra (LBMA Silver Price) ustalonych na London Bullion Market Association (LBMA) poprzednim miesiącu, wyrażonej dolarach amerykańskich za uncję, zaokrąglonej górę z dokładnością do jednego centa amerykańskiego, przy czym przyjmuje się, że kilogram zawiera 32,15 uncji;
-- **3)** średnią cenę megawatogodziny gazu ziemnego za poprzedni miesiąc, wyrażoną złotych, zaokrągloną górę z dokładnością do jednego złotego, na podstawie średniej arytmetycznej dziennych notowań gazu ziemnego (Rynek Dnia Następnego) ustalonych na Towarowej Giełdzie Energii S.A. poprzednim miesiącu;
-- **4)** średnią cenę tony ropy naftowej za poprzedni miesiąc, wyrażoną złotych, zaokrągloną górę z dokładnością do jednego złotego, na podstawie średniej arytmetycznej średnich kursów dolara amerykańskiego do złotego ogłoszonych przez Narodowy Bank Polski poprzednim miesiącu oraz średniej arytmetycznej dziennych notowań ropy naftowej (OPEC daily basket price) o których mowa ust. 1, nie zostały ustalone, do obliczenia wysokości podatku przyjmuje się odpowiednio średnią cenę tony miedzi, średnią cenę kilograma srebra, średnią cenę megawatogodziny gazu ziemnego lub średnią cenę tony ropy naftowej ogłoszone ostatnim obwieszczeniu.
+W przypadku gdy podatnik nie produkuje koncentratu z wydobytego urobku rudy miedzi, podstawę opodatkowania podatkiem stanowi ilość miedzi oraz srebra zawarta w urobku rudy miedzi.
 
-**Art. 8a.** (uchylony)
+### Art. 7.
 
-**Art. 9.**
+### 1.
 
-1. Kwoty, o których mowa art. 7 ust. 2–5, z wyjątkiem maksymalnych stawek podatku, podlegają każdym roku kalendarzowym podwyższeniu stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych roku kalendarzowym poprzedzającym rok waloryzacji stosunku do roku poprzedniego, a jeżeli wskaźnik ten ma wartość ujemną, kwoty nie ulegają zmianie.
+Wysokość podatku za dany miesiąc stanowi suma iloczynów:
 
-2. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, ogłasza, drodze obwieszczenia, dzienniku urzędowym ministra właściwego do spraw finansów publicznych do dnia
+### 1)
 
-15. lutego danego roku, kwoty, o których mowa art. 7 ust. 2–5, z wyjątkiem maksymalnych stawek podatku, wyrażone złotych, zaokrąglone górę z dokładnością do jednego złotego.
+ilości miedzi, wyrażonej w tonach, oraz stawki podatku określonej w ust. 2 albo 3, oraz
 
-**Art. 10.**
+### 2)
 
-1. W przypadku gdy:
+ilości srebra, wyrażonej w kilogramach, oraz stawki podatku określonej w ust. 4 albo 5.
 
-- **1)** podmiot, o którym mowa art. 8 ust. 1: dziennych notowań srebra stanowią notowania srebra ustalone na giełdzie Nowym Jorku (Comex Silver Futures-Settlement Price).
-    - **a)** zmieni nazwę lub zostanie przekształcony, kontynuując notowania miedzi, srebra, gazu ziemnego lub ropy naftowej – podstawę obliczenia średniej arytmetycznej dziennych notowań miedzi, srebra, gazu ziemnego lub ropy naftowej stanowią notowania prowadzone przez podmiot pod zmienioną nazwą lub przez podmiot nowej formie prawnej,
-    - **b)** zostanie przejęty, kontynuując notowania miedzi, srebra, gazu ziemnego lub ropy naftowej – podstawę obliczenia średniej arytmetycznej dziennych notowań miedzi, srebra, gazu ziemnego lub ropy naftowej stanowią notowania prowadzone przez następcę prawnego;
+### 2.
 
-2. Minister właściwy do spraw finansów publicznych przypadkach, o których mowa ust. 1, ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, aktualną nazwę podmiotu lub nazwę notowania.
+Jeżeli średnia cena miedzi przekracza 15 000 zł za tonę, stawkę podatku za tonę wydobytej miedzi oblicza się według następującego wzoru: stawka podatku = 0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi)2,5
 
-**Art. 10a.**
+- - przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
 
-1. Podatnik jest uprawniony do odliczenia od podatku skumulowanej straty podatkowej (straty), za którą uznaje się sumę strat podatku dochodowym od osób prawnych lub sumę strat podatku dochodowym od osób fizycznych, obliczonych zgodnie z ust. 2 lub 3, które z uwagi na upływ 5-letniego okresu nie zostały odliczone od podatku dochodowego od osób prawnych lub podatku dochodowego od osób fizycznych – wysokości 19 % tej straty.
+### 3.
 
-2. Podatnik dokonujący wydobycia gazu ziemnego lub ropy naftowej oblicza stratę, o której mowa ust. 1, na podstawie prowadzonych ksiąg rachunkowych. Jeżeli określenie wysokości straty ten sposób nie jest możliwe, podatnik określa stratę części dotyczącej wydobycia gazu ziemnego lub ropy naftowej takiej proporcji, jakiej pozostają przychody uzyskane roku podatkowym z tytułu wydobycia gazu ziemnego lub ropy naftowej do ogólnej kwoty przychodów tego podatnika, określonych na podstawie przepisów o podatku dochodowym, uzyskanych tym roku podatkowym.
+Jeżeli średnia cena miedzi nie przekracza 15 000 zł za tonę, stawkę podatku za tonę wydobytej miedzi oblicza się według następującego wzoru: stawka podatku = (średnia cena miedzi - 12 000 zł) × 0,44
 
-3. Podatnik dokonujący wydobycia miedzi oraz srebra może odliczyć stratę, o której mowa ust. 1, pod warunkiem prowadzenia ksiąg rachunkowych sposób zapewniający określenie wysokości straty dotyczącej działalności zakresie wydobycia miedzi i srebra. W takim przypadku stratę określa się na podstawie prowadzonych ksiąg rachunkowych, a jeżeli określenie wysokości straty ten sposób nie jest możliwe, podatnik określa stratę części dotyczącej wydobycia miedzi oraz srebra takiej proporcji, jakiej pozostają przychody uzyskane roku podatkowym z tytułu wydobycia miedzi oraz srebra do ogólnej kwoty przychodów danego
+- - przy czym minimalna stawka podatku wynosi 0,5% średniej ceny miedzi.
 
-4. W przypadku prowadzenia działalności zakresie wydobycia miedzi, srebra, gazu ziemnego lub ropy naftowej formie spółki cywilnej, spółki jawnej lub spółki komandytowej za skumulowaną stratę, o której mowa ust. 1, uznaje się sumę strat podatku dochodowym od osób fizycznych, które z uwagi na upływ 5-letniego okresu nie zostały odliczone przez wspólników spółki. W takim przypadku każdy ze wspólników jest obowiązany do prowadzenia ksiąg rachunkowych sposób zapewniający określenie wysokości straty dotyczącej działalności wydobywczej. Przepis ust. 2 lub 3 stosuje się odpowiednio.
+### 4.
 
-**Art. 10b.**
+Jeżeli średnia cena srebra przekracza 1200 zł za kilogram, stawkę podatku za kilogram wydobytego srebra oblicza się według następującego wzoru: stawka podatku = 0,125 × średnia cena srebra + (0,001 × średnia cena srebra)4
 
-1. Podatnik dokonujący wydobycia miedzi oraz srebra jest uprawniony do odliczenia od podatku 40 % kwalifikowanych nakładów inwestycyjnych.
+- - przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.
 
-2. Przez kwalifikowane nakłady inwestycyjne rozumie się bezpośrednio związane z przedsięwzięciami inwestycyjnymi nakłady wynikające z otrzymanej faktury, otrzymanego rachunku albo innego dowodu księgowego przypadku braku faktury albo rachunku, poniesione na:
+### 5.
 
-- **1)** nabycie, wytworzenie lub ulepszenie środka trwałego rozumieniu przepisów o podatku dochodowym,
-- **2)** nabycie lub wytworzenie wartości niematerialnych i prawnych rozumieniu przepisów o podatku dochodowym,
-- **3)** utrzymanie środka trwałego rozumieniu przepisów o podatku dochodowym, które nie mogą być rozpoznane jako nakłady poniesione na jego ulepszenie – z wyjątkiem rezerw, biernych rozliczeń międzyokresowych kosztów, odsetek oraz kar umownych.
+Jeżeli średnia cena srebra nie przekracza 1200 zł za kilogram, stawkę podatku za kilogram wydobytego srebra oblicza się według następującego wzoru: stawka podatku = (średnia cena srebra - 1000 zł) × 0,75
 
-3. Przez przedsięwzięcia inwestycyjne rozumie się przedsięwzięcia zakresie:
+- - przy czym minimalna stawka podatku wynosi 0,5% średniej ceny srebra.
 
-- **1)** poszukiwania lub rozpoznawania złóż zawierających miedź oraz srebro,
-- **2)** wydobywania miedzi oraz srebra,
-- **3)** składowania odpadów wydobywczych powstałych związku z poszukiwaniem lub rozpoznawaniem złóż zawierających miedź oraz srebro lub wydobywaniem – których wykaz rodzajów jest określony załączniku do ustawy.
+### Art. 8.
 
-4. Kwalifikowane nakłady inwestycyjne odlicza się zgodnie z porządkiem chronologicznym ich poniesienia. Podatnik może dokonać odliczenia za dany miesięczny okres rozliczeniowy odniesieniu do kwalifikowanych nakładów inwestycyjnych poniesionych do końca tego okresu rozliczeniowego. Za dzień poniesienia kwalifikowanego nakładu inwestycyjnego uznaje się dzień, na który ujęto księgach rachunkowych ten nakład inwestycyjny.
+### 1.
 
-5. Nierozliczone ramach przysługującego odliczenia, o którym mowa ust. 1, kwalifikowane nakłady inwestycyjne poniesione okresach rozliczeniowych poprzedzających okres rozliczeniowy, o którym mowa ust. 4, lub tym okresie rozliczeniowym mogą być rozliczone za kolejne miesięczne okresy rozliczeniowe, jednak niedłużej niż ciągu 15 lat, licząc od końca roku kalendarzowego, którym te nakłady zostały poniesione.
+Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, do 10. dnia każdego miesiąca, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, średnią cenę tony miedzi oraz średnią cenę kilograma srebra za poprzedni miesiąc, wyrażoną w złotych, z pominięciem groszy, na podstawie średniej arytmetycznej średnich kursów dolara amerykańskiego do złotego ogłoszonych przez Narodowy Bank Polski w poprzednim miesiącu oraz odpowiednio:
 
-6. Wysokość odliczenia, o którym mowa ust. 1, nie może przekroczyć 30 % podatku obliczonego za dany miesięczny okres rozliczeniowy zgodnie z art. 7 ust. 1.
+### 1)
 
-7. W przypadku gdy za dany miesięczny okres rozliczeniowy podatnik dokonuje odliczenia, o którym mowa art. 10a ust. 1, limit odliczenia, o którym mowa ust. 6, jest obliczany od podatku przed pomniejszeniem go o odliczenie, o którym mowa art. 10a ust. 1.
+średniej arytmetycznej dziennych notowań miedzi (LME Daily Official and Settlement Price) ustalonych na London Metal Exchange (LME) w poprzednim miesiącu, wyrażonej w dolarach amerykańskich za tonę, zaokrąglonej w górę z dokładnością do jednego centa amerykańskiego;
 
-8. W przypadku gdy okresie 10 lat, licząc od końca roku kalendarzowego, którym poniesione kwalifikowane nakłady inwestycyjne zostały odliczone od podatku, zobowiązanie z tytułu kwalifikowanych nakładów inwestycyjnych zostało:
+### 2)
 
-- **1)** umorzone albo odpisane jako przedawnione lub
-- **2)** pokryte ze środków pochodzących z bezzwrotnego wsparcia lub zwrócone jakiejkolwiek innej formie, tym drodze odszkodowania otrzymanego z tytułu szkody związanej z przedmiotem nakładu zbycia środka trwałego lub wartości niematerialnej i prawnej, których dotyczą te nakłady, lub odda je do używania innemu podmiotowi, podatnik traci prawo do odliczenia tych kwalifikowanych nakładów inwestycyjnych. W takim przypadku utrata prawa do odliczenia następuje miesiącu wystąpienia tego zdarzenia, a uprzednio dokonane odliczenie zwiększa podatek do zapłaty za miesięczny okres rozliczeniowy, którym wystąpiły zdarzenia skutkujące utratą prawa do tego odliczenia.
+średniej arytmetycznej dziennych notowań srebra (London Silver Fixing) ustalonych na London Bullion Market Association (LBMA) w poprzednim miesiącu, wyrażonej w dolarach amerykańskich za uncję, zaokrąglonej w górę z dokładnością do jednego centa amerykańskiego, przy czym przyjmuje się, że kilogram zawiera 32,15 uncji.
 
-10. Podatnik jest obowiązany prowadzić księgi rachunkowe zgodnie z odrębnymi przepisami, taki sposób, aby możliwe było ustalenie kwalifikowanych nakładów inwestycyjnych, przysługujących odliczeń oraz dokonanych odliczeń z tego tytułu, a także odliczeń zwiększających podatek, o których mowa ust. 8 i 9.
+### 2.
 
-11. W księgach rachunkowych podatnik jest obowiązany wyodrębnić szczególności:
+W przypadku gdy notowania miedzi lub srebra, o których mowa w ust. 1, nie zostały ustalone, do obliczenia wysokości podatku przyjmuje się średnią cenę tony miedzi lub średnią cenę kilograma srebra, ogłoszoną w ostatnim obwieszczeniu.
 
-- **1)** rodzaj przedsięwzięcia inwestycyjnego zgodnie z wykazem określonym załączniku do ustawy oraz poszczególne kwalifikowane nakłady inwestycyjne;
-- **2)** łączną wysokość kwalifikowanych nakładów inwestycyjnych poniesionych danym miesięcznym okresie rozliczeniowym oraz wysokość przysługującego z tego tytułu odliczenia;
-- **3)** wysokość odliczenia z tytułu kwalifikowanych nakładów inwestycyjnych dokonanego za miesięczny okres rozliczeniowy;
-- **4)** określoną narastająco na koniec każdego kolejnego miesięcznego okresu rozliczeniowego sumę kwalifikowanych nakładów inwestycyjnych, sumę przysługujących odliczeń oraz sumę dokonanych odliczeń z tego tytułu, a także sumę uprzednio dokonanych odliczeń zwiększających podatek, o których mowa ust. 8 i 9. dnia poprzedzającego dzień, którym po raz pierwszy powstał obowiązek podatkowy z tytułu czynności, o której mowa art. 5 ust. 1 lub 2, przysługuje również podmiotowi niebędącemu podatnikiem, któremu zostały udzielone koncesje na poszukiwanie lub rozpoznawanie złóż zawierających miedź oraz srebro lub koncesje na wydobycie miedzi oraz srebra, ale który związku z tymi koncesjami jeszcze nie wydobywa miedzi oraz srebra.
+### Art. 9.
 
-2. W przypadku podmiotu, o którym mowa ust. 1, wysokość przysługującego odliczenia, o którym mowa art. 10b ust. 1, jest sumowana narastająco do dnia poprzedzającego dzień powstania obowiązku podatkowego z tytułu czynności, o której mowa art. 5 ust. 1 lub 2, a następnie rozliczana za miesięczne okresy rozliczeniowe zgodnie z ust. 3–5.
+### 1.
 
-3. Kwalifikowane nakłady inwestycyjne poniesione do dnia poprzedzającego dzień powstania obowiązku podatkowego z tytułu czynności, o której mowa art. 5 ust. 1 lub 2, mogą być rozliczone ramach przysługującego odliczenia, o którym mowa art. 10b ust. 1, za miesięczny okres rozliczeniowy, którym podmiot, o którym mowa ust. 1, stał się podatnikiem z tytułu czynności, o której mowa art. 5 ust. 1 lub 2.
+Kwoty, o których mowa w art. 7 ust. 2-5, z wyjątkiem maksymalnych stawek podatku, podlegają w każdym roku kalendarzowym podwyższeniu w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w roku kalendarzowym poprzedzającym rok waloryzacji w stosunku do roku poprzedniego, a jeżeli wskaźnik ten ma wartość ujemną, kwoty nie ulegają zmianie.
 
-4. Nierozliczone rozliczeniu za miesięczny okres rozliczeniowy, o którym mowa ust. 3, kwalifikowane nakłady inwestycyjne poniesione przez podmiot, o którym mowa ust. 1, mogą być rozliczone za kolejne miesięczne okresy rozliczeniowe, jednak niedłużej niż ciągu 15 lat, licząc od końca roku kalendarzowego, którym podmiot ten stał się podatnikiem z tytułu czynności, o której mowa art. 5 ust. 1 lub 2.
+### 2.
 
-5. W przypadku gdy po upływie 10 lat, licząc od końca roku kalendarzowego, którym zostały poniesione kwalifikowane nakłady inwestycyjne, podmiot, o którym mowa ust. 1, dokona zbycia środka trwałego lub wartości niematerialnej i prawnej, których dotyczą te nakłady, lub odda je do używania innemu podmiotowi, podmiot, o którym mowa ust. 1, zachowuje prawo do odliczenia tych kwalifikowanych czynności, o której mowa art. 5 ust. 1 lub 2. Po tym dniu do przechowywania tych dokumentacji ma zastosowanie termin określony art. 10b ust. 12.
+Minister właściwy do spraw finansów publicznych, w porozumieniu z Prezesem Głównego Urzędu Statystycznego, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, do dnia 20 stycznia danego roku, kwoty, o których mowa w art. 7 ust. 2-5, z wyjątkiem maksymalnych stawek podatku, wyrażone w złotych, z pominięciem groszy.
 
-7. W przypadku całkowitej rezygnacji z prowadzenia przedsięwzięć inwestycyjnych przed dniem powstania obowiązku podatkowego z tytułu czynności, o której mowa art. 5 ust. 1 lub 2, ustaje obowiązek przechowywania ksiąg rachunkowych zakresie, o którym mowa art. 10b ust. 10 i 11, i związanych z ich prowadzeniem dokumentów przez podmiot, o którym mowa ust. 1.
+### Art. 10.
 
-8. W przypadku rezygnacji, o której mowa ust. 7, podmiot, o którym mowa ust. 1, składa właściwemu naczelnikowi urzędu skarbowego oświadczenie o tej rezygnacji, które powinno zawierać:
+### 1.
 
-- **1)** nazwę albo imię i nazwisko oraz adres siedziby albo zamieszkania, a także numer identyfikacji podatkowej (NIP) podmiotu;
-- **2)** wskazanie łącznej wysokości poniesionych kwalifikowanych nakładów inwestycyjnych i łącznej wysokości kwalifikowanych nakładów inwestycyjnych, które przysługiwałyby do odliczenia zgodnie z art. 10b ust. 1, gdyby podmiot nie podjął decyzji o całkowitej rezygnacji z prowadzenia przedsięwzięć inwestycyjnych;
-- **3)** wskazanie daty i miejsca złożenia oświadczenia;
-- **4)** czytelny podpis składającego oświadczenie.
+W przypadku gdy:
 
-9. Podmiot, o którym mowa ust. 1, jest obowiązany, bez wezwania, składać właściwemu naczelnikowi urzędu skarbowego informację o wysokości kwalifikowanych nakładów inwestycyjnych za rok kalendarzowy terminie do 25 stycznia roku następującego po tym roku kalendarzowym. W przypadku gdy ciągu roku kalendarzowego podmiot, o którym mowa ust. 1, stał się podatnikiem z tytułu czynności, o której mowa art. 5 ust. 1 lub 2, informację o wysokości kwalifikowanych nakładów inwestycyjnych za okres od początku tego roku do dnia poprzedzającego dzień, którym stał się podatnikiem, podmiot ten składa terminie do 25. dnia miesiąca następującego po miesiącu, którym stał się podatnikiem.
+### 1)
 
-12. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) obejmuje również upoważnienie do podpisywania informacji, o której mowa ust. 9.
+podmiot, o którym mowa w art. 8 ust. 1 pkt 1 lub 2:
 
-13. Do korekty informacji, o której mowa ust. 9, stosuje się odpowiednio przepisy działu III rozdziału 10 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+### a)
 
-14. W zakresie nieuregulowanym ust. 1–13 stosuje się odpowiednio przepisy art. 10b ust. 2, 3, 6 i 8–11.
+zmieni nazwę lub zostanie przekształcony, kontynuując notowania miedzi lub srebra - podstawę obliczenia średniej arytmetycznej dziennych notowań miedzi lub srebra stanowią notowania prowadzone przez podmiot pod zmienioną nazwą lub przez podmiot w nowej formie prawnej,
 
-15. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia:
+### b)
 
-- **1)** szczegółowy zakres danych, jakie powinna zawierać informacja, o której mowa ust. 9, wraz z niezbędnymi pouczeniami,
-- **2)** sposób przesyłania informacji, o której mowa ust. 9, za pomocą środków komunikacji elektronicznej,
-- **3)** rodzaje podpisu elektronicznego, którymi powinna być opatrzona informacja, o której mowa ust. 9 – uwzględniając możliwość monitorowania poniesionych przez podmiot kwalifikowanych nakładów inwestycyjnych i przysługujących z tego tytułu odliczeń, potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych informacji oraz potrzebę ich ochrony przed nieuprawnionym dostępem, a także wymagania dla poszczególnych rodzajów podpisu elektronicznego. urzędu skarbowego oraz dyrektor izby administracji skarbowej, właściwi ze względu na adres siedziby podatnika – przypadku osób prawnych albo jednostek organizacyjnych niemających osobowości prawnej, albo miejsce zamieszkania podatnika – przypadku osób fizycznych.
+zostanie przejęty, kontynuując notowania miedzi lub srebra - podstawę obliczenia średniej arytmetycznej dziennych notowań miedzi lub srebra stanowią notowania prowadzone przez następcę prawnego;
 
-1a. Organami podatkowymi właściwymi dla podmiotów, o których mowa art. 10c ust. 1, są naczelnik urzędu skarbowego oraz dyrektor izby administracji skarbowej, właściwi ze względu na:
+### 2)
 
-- **1)** adres siedziby podmiotu – przypadku osób prawnych oraz jednostek organizacyjnych niemających osobowości prawnej albo
-- **2)** miejsce zamieszkania podmiotu – przypadku osób fizycznych.
+zmianie ulegnie nazwa notowania, o którym mowa w art. 8 ust. 1 pkt 1 lub 2 - podstawę obliczenia średniej arytmetycznej dziennych notowań miedzi lub srebra stanowią notowania pod zmienioną nazwą.
 
-2. (uchylony)
+### 2.
 
-3. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia:
+Minister właściwy do spraw finansów publicznych w przypadkach, o których mowa w ust. 1, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, aktualną nazwę podmiotu lub nazwę notowania.
 
-- **1)** urzędy skarbowe lub urząd skarbowy i izby administracji skarbowej lub izbę administracji skarbowej, których odpowiednio naczelnicy i dyrektorzy są właściwi sprawie podatku i właściwi dla podmiotów, o których mowa art. 10c ust. 1, a także terytorialny zasięg ich działania, 1a) właściwość organów podatkowych, jeżeli nie można ustalić właściwości miejscowej sposób określony ust. 1 i 1a,
-- **2)** właściwy urząd skarbowy lub właściwe urzędy skarbowe, na których rachunek bankowy dokonuje się zapłaty podatku, oraz określi terytorialny zasięg ich działania tym zakresie – uwzględniając gospodarcze potrzeby podatników i podmiotów, o których mowa art. 10c ust. 1, oraz potrzebę zapewnienia sprawnego poboru podatku.
+### Dział IV Właściwość organów podatkowych oraz rejestr podatników
 
-#### Rozdział 2 Rejestr podatników
+### Rozdział 1 Właściwość organów podatkowych
 
-**Art. 12.** Organ udzielający koncesji na wydobycie miedzi, srebra, gazu ziemnego lub ropy naftowej oraz koncesji na poszukiwanie lub rozpoznawanie złóż lub ropę naftową oraz o ich treści,
+### Art. 11.
 
-**Art. 13.**
+### 1.
 
-1. Właściwy naczelnik urzędu skarbowego prowadzi rejestr podatników.
+Organami podatkowymi właściwymi w zakresie podatku są naczelnik urzędu celnego oraz dyrektor izby celnej, właściwi ze względu na adres siedziby podatnika - w przypadku osób prawnych albo jednostek organizacyjnych niemających osobowości prawnej, albo miejsce zamieszkania podatnika - w przypadku osób fizycznych.
 
-2. Rejestr zawiera dane zawarte informacjach, o których mowa art. 12.
+### 2.
 
-### DZIAŁ V Deklaracja podatkowa oraz termin płatności podatku
+Jeżeli nie można ustalić właściwości miejscowej w sposób określony w ust. 1, właściwymi organami podatkowymi w sprawach podatku są Naczelnik Urzędu Celnego w Legnicy oraz Dyrektor Izby Celnej we Wrocławiu.
 
-**Art. 14.**
+### 3.
 
-1. Podatnik jest obowiązany, bez wezwania:
+Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, urzędy celne i izby celne, których odpowiednio naczelnicy i dyrektorzy są właściwi w zakresie podatku, a także terytorialny zasięg ich działania, uwzględniając gospodarcze potrzeby podatników.
 
-- **1)** składać właściwemu naczelnikowi urzędu skarbowego deklarację podatkową,
-- **2)** obliczać i wpłacać podatek na rachunek właściwego urzędu skarbowego – za miesięczne okresy rozliczeniowe, terminie do 25. dnia miesiąca następującego po miesiącu, którym powstał obowiązek podatkowy.
+### Rozdział 2 Rejestr podatników
 
-1a. Deklaracje, o których mowa ust. 1 pkt 1, są składane wyłącznie za pomocą środków komunikacji elektronicznej.
+### Art. 12.
 
-2. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia, wzór deklaracji podatkowej, wraz z objaśnieniami co do sposobu ich wypełniania, terminu i miejsca jej składania oraz pouczeniem podatnika, mając na względzie zapewnienie prawidłowości obliczania wysokości podatku i wykonania obowiązków tym zakresie, a także uwzględniając specyfikę wydobycia miedzi, srebra, gazu ziemnego lub ropy naftowej. z zastosowaniem przyrządów pomiarowych podlegających prawnej kontroli metrologicznej, z zastrzeżeniem ust. 5;
+Organ wydający koncesje na wydobycie miedzi oraz srebra informuje ministra właściwego do spraw finansów publicznych o wydaniu, zmianie treści, wygaśnięciu oraz cofnięciu koncesji na wydobycie miedzi oraz srebra, oraz o ich treści, w terminie 7 dni od dnia wydania, zmiany treści, wygaśnięcia oraz cofnięcia koncesji.
 
-- **2)** pomiaru każdego dnia, którym wydobyto urobek, zawartości miedzi urobku rudy miedzi;
-- **3)** pobierania każdego dnia, którym wydobyto urobek, próbek na zawartość srebra urobku rudy miedzi oraz pomiaru zawartości srebra urobku rudy miedzi za każdy miesiąc na podstawie pobranych próbek dziennych.
+### Art. 13.
 
-2. Podatnik produkujący koncentrat z urobku rudy miedzi jest obowiązany do:
+### 1.
 
-- **1)** pomiaru każdego dnia, którym wyprodukowano koncentrat, ilości wyprodukowanego koncentratu z zastosowaniem przyrządów pomiarowych podlegających prawnej kontroli metrologicznej;
-- **2)** pomiaru każdego dnia, którym wyprodukowano koncentrat, zawartości miedzi koncentracie;
-- **3)** pobierania każdego dnia, którym wyprodukowano koncentrat, próbek na zawartość srebra koncentracie oraz pomiaru zawartości srebra koncentracie za każdy miesiąc na podstawie pobranych próbek dziennych.
+Właściwy naczelnik urzędu celnego prowadzi rejestr podatników.
 
-3. Pomiarów, o których mowa ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, dokonuje się zgodnie z metodykami badawczymi zatwierdzonymi przez krajową jednostkę akredytującą, o której mowa ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568).
+### 2.
 
-4. Na podstawie pomiarów przeprowadzonych zgodnie z ust. 1–3 podatnik określa ilość miedzi oraz srebra urobku rudy miedzi lub koncentracie.
+Rejestr zawiera dane zawarte w informacjach, o których mowa w art. 12.
 
-5. Podatnik przekazujący urobek rudy miedzi na cele badawcze jest obowiązany do pomiaru z zastosowaniem przyrządów pomiarowych:
+### Dział V Deklaracja podatkowa oraz termin płatności podatku
 
-- **1)** ilości urobku rudy miedzi, tym także poddanego przeróbce przed przekazaniem na cele badawcze,
-- **2)** ilości miedzi urobku rudy miedzi,
-- **3)** ilości srebra urobku rudy miedzi sieci dystrybucyjnej albo gazu ziemnego załadowanego na inny środek transportu;
-- **2)** pomiaru, z zastosowaniem przyrządów pomiarowych, ilości ropy naftowej wprowadzonej danym miesiącu do sieci przesyłowej lub bezpośrednio do sieci dystrybucyjnej albo ropy naftowej załadowanej na inny środek transportu;
-- **3)** pomiaru, tym również metodami pośrednimi, ilości wydobytego gazu ziemnego, wykorzystanego na cele badawcze danym miesiącu;
-- **4)** pomiaru, tym również metodami pośrednimi, ilości wydobytej ropy naftowej, wykorzystanej na cele badawcze danym miesiącu;
-- **5)** przypadku zwolnienia, o którym mowa art. 7b ust. 1 – pomiaru, tym również metodami pośrednimi, ilości wydobytego gazu ziemnego – odniesieniu do odwiertu rozpoznawczego lub wydobywczego;
-- **6)** przypadku zwolnienia, o którym mowa art. 7b ust. 2 – pomiaru, tym również metodami pośrednimi, ilości wydobytej ropy naftowej – odniesieniu do odwiertu rozpoznawczego lub wydobywczego.
+### Art. 14.
 
-2. Pomiarów, o których mowa ust. 1 pkt 1 i 2, dokonuje się chwili wprowadzania odpowiednio gazu ziemnego lub ropy naftowej do sieci albo chwili ich załadunku na inny środek transportu.
+### 1.
 
-**Art. 16.**
+Podatnik jest obowiązany, bez wezwania:
 
-1. Podatnik jest obowiązany do dokumentowania i ewidencjonowania wyników pomiarów, o których mowa art. 15 ust. 1, 2 i 5 oraz art. 15a ust. 1, a także ilości miedzi oraz srebra zawartych urobku rudy miedzi lub koncentracie.
+### 1)
 
-2. Ewidencja może być prowadzona postaci elektronicznej.
+składać właściwemu naczelnikowi urzędu celnego deklarację podatkową,
 
-3. Podatnik jest obowiązany przechowywać ewidencję i dokumenty związane z jej prowadzeniem do czasu upływu okresu przedawnienia zobowiązania podatkowego.
+### 2)
 
-4. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia, zakres danych, jakie powinna zawierać ewidencja, uwzględniając potrzebę prawidłowego ustalenia podstawy opodatkowania. Art. 17–22. (pominięte)
+obliczać i wpłacać podatek na rachunek właściwej izby celnej
 
-#### Rozdział 1a Przepisy epizodyczne
+- za miesięczne okresy rozliczeniowe, w terminie do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy.
 
-**Art. 22a.**
+### 2.
 
-1. W okresie od dnia 1 stycznia 2022 r. do dnia 30 listopada 2022 r. przy ustalaniu stawki podatku za tonę wydobytej miedzi, o której mowa art. 7 ust. 2, stosuje się następujący wzór: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,6.
+Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, wzór deklaracji podatkowej, wraz z objaśnieniami co do sposobu, terminu i miejsca jej składania oraz pouczenia podatnika, uwzględniając specyfikę wydobycia miedzi oraz srebra, a także zapewnienie prawidłowości obliczenia wysokości podatku.
 
-2. W okresie od dnia 1 stycznia 2022 r. do dnia 30 listopada 2022 r. przy ustalaniu stawki podatku za kilogram wydobytego srebra, o której mowa art. 7 ust. 4, stosuje się następujący wzór: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,6.
+### Dział VI Pomiary oraz ewidencje pomiarów
 
-**Art. 22b.**
+### Art. 15.
 
-1. W okresie od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 ust. 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,74 – przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
+### 1.
 
-2. W okresie od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2028 r. stawkę podatku za tonę wydobytej miedzi, o której mowa art. 7 ust. 2, oblicza się według następującego wzoru: stawka podatku = [0,033 × średnia cena miedzi + (0,001 × średnia cena miedzi) ] × 0,68 – przy czym maksymalna stawka podatku wynosi 16 000 zł za tonę.
+Podatnik nieprodukujący koncentratu z urobku rudy miedzi jest obowiązany do:
 
-3. W okresie od dnia 1 stycznia 2026 r. do dnia 31 grudnia 2026 r. stawkę podatku za kilogram wydobytego srebra, o której mowa art. 7 ust. 4, oblicza się według następującego wzoru: według następującego wzoru: stawka podatku = [0,125 × średnia cena srebra + (0,001 × średnia cena srebra) ] × 0,68 – przy czym maksymalna stawka podatku wynosi 2100 zł za kilogram.
+### 1)
 
-#### Rozdział 2 Przepisy przejściowe i końcowe
+pomiaru każdego dnia, w którym wydobyto urobek, ilości urobku rudy miedzi z zastosowaniem przyrządów pomiarowych podlegających prawnej kontroli metrologicznej;
 
-**Art. 23.**
+### 2)
 
-1. W podmiotach, które dniu wejścia życie ustawy dokonują wydobycia miedzi oraz srebra, przeprowadza się urzędowe sprawdzenie, o którym mowa art. 64 ustawy wymienionej art. 22 , brzmieniu nadanym niniejszą ustawą, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
+pomiaru każdego dnia, w którym wydobyto urobek, zawartości miedzi w urobku rudy miedzi;
 
-2. W celu dokonania urzędowego sprawdzenia podmioty, o których mowa ust. 1, przesyłają właściwemu naczelnikowi urzędu celnego, terminie 30 dni od dnia wejścia życie niniejszej ustawy, zgłoszenie oraz dokumentację, o których mowa art. 64 ust. 3 ustawy wymienionej art. 22 , brzmieniu nadanym niniejszą ustawą.
+### 3)
 
-**Art. 24.** Organ wydający koncesję na wydobywanie kopalin ze złóż informuje ministra właściwego do spraw finansów publicznych o wydanych koncesjach na wydobycie rudy miedzi oraz srebra oraz o ich treści terminie 7 dni od dnia wejścia życie niniejszej ustawy.
+pobierania każdego dnia, w którym wydobyto urobek, próbek na zawartość srebra w urobku rudy miedzi oraz pomiaru zawartości srebra w urobku rudy miedzi za każdy miesiąc na podstawie pobranych próbek dziennych.
 
-**Art. 25.** Rada Ministrów dokona analizy wpływu niniejszej ustawy na sektor wydobywczy miedzi i srebra oraz sektor finansów publicznych oraz przedłoży Sejmowi odpowiednią informację tym zakresie, niepóźniej niż okresie 2 lat od dnia wejścia życie niniejszej ustawy.
+### 2.
 
-**Art. 26.** Przepisy ustawy nie mają zastosowania do miedzi oraz srebra zawartych koncentracie wyprodukowanym, od dnia wejścia życie niniejszej ustawy, z urobku rudy miedzi wydobytego przed dniem jej wejścia życie.
+Podatnik produkujący koncentrat z urobku rudy miedzi jest obowiązany do:
 
+### 1)
+
+pomiaru każdego dnia, w którym wyprodukowano koncentrat, ilości wyprodukowanego koncentratu z zastosowaniem przyrządów pomiarowych podlegających prawnej kontroli metrologicznej;
+
+### 2)
+
+pomiaru każdego dnia, w którym wyprodukowano koncentrat, zawartości miedzi w koncentracie;
+
+### 3)
+
+pobierania każdego dnia, w którym wyprodukowano koncentrat, próbek na zawartość srebra w koncentracie oraz pomiaru zawartości srebra w koncentracie za każdy miesiąc na podstawie pobranych próbek dziennych.
+
+### 3.
+
+Pomiarów, o których mowa w ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, dokonuje się zgodnie z metodykami badawczymi zatwierdzonymi przez krajową jednostkę akredytującą, o której mowa w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności ([Dz. U. z 2010 r. Nr 138, poz. 935](https://api.sejm.gov.pl/eli/acts/DU/2010/935/text.html) oraz z [2011 r. Nr 102, poz. 586](https://api.sejm.gov.pl/eli/acts/DU/2011/586/text.html) i [Nr 227, poz. 1367](https://api.sejm.gov.pl/eli/acts/DU/2011/1367/text.html)).
+
+### 4.
+
+Na podstawie pomiarów przeprowadzonych zgodnie z ust. 1-3 podatnik określa ilość miedzi oraz srebra w urobku rudy miedzi lub koncentracie.
+
+### Art. 16.
+
+### 1.
+
+Podatnik jest obowiązany do dokumentowania i ewidencjonowania wyników pomiarów, o których mowa w art. 15 ust. 1 i 2, a także ilości miedzi oraz srebra zawartych w urobku rudy miedzi lub koncentracie.
+
+### 2.
+
+Ewidencja może być prowadzona w formie elektronicznej.
+
+### 3.
+
+Podatnik jest obowiązany przechowywać ewidencję i dokumenty związane z jej prowadzeniem do czasu upływu okresu przedawnienia zobowiązania podatkowego.
+
+### 4.
+
+Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, zakres danych, jakie powinna zawierać ewidencja, uwzględniając potrzebę prawidłowego ustalenia podstawy opodatkowania.
+
+### Dział VII Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Rozdział 1 Zmiany w przepisach obowiązujących
+
+### Art. 17.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2012 r. poz. 361](https://api.sejm.gov.pl/eli/acts/DU/2012/361/text.html)) w art. 23 w ust. 1 w pkt 61 kropkę zastępuje się średnikiem i dodaje się pkt 62 w brzmieniu:
+
+„
+
+### 62)
+
+podatku od wydobycia niektórych kopalin.
+
+” .
+
+### Art. 18.
+
+W ustawie z dnia 28 września 1991 r. o kontroli skarbowej ([Dz. U. z 2011 r. Nr 41, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/2011/214/text.html), [Nr 53, poz. 273](https://api.sejm.gov.pl/eli/acts/DU/2011/273/text.html) i [Nr 230, poz. 1371](https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text.html)) w art. 24 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+ustalenia dotyczą podatków, których określanie lub ustalanie należy do właściwości naczelników urzędów skarbowych, podatku akcyzowego oraz podatku od wydobycia niektórych kopalin, z zastrzeżeniem ust. 2,
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ([Dz. U. z 2011 r. Nr 74, poz. 397](https://api.sejm.gov.pl/eli/acts/DU/2011/397/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391.](#gloss-0:2:)) w art. 16 w ust. 1 w pkt 66 kropkę zastępuje się średnikiem i dodaje się pkt 67 w brzmieniu:
+
+„
+
+### 67)
+
+podatku od wydobycia niektórych kopalin.
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 282c w § 1 w pkt 1 w lit. g średnik zastępuje się przecinkiem i dodaje się lit. h w brzmieniu:
+
+„
+
+### h)
+
+dotyczy podatku od wydobycia niektórych kopalin;
+
+” ;
+
+### 2)
+
+w art. 298 po pkt 6b dodaje się pkt 6c w brzmieniu:
+
+„
+
+### 6c)
+
+organom nadzoru górniczego - w celu weryfikacji pomiaru ilości urobku rudy miedzi w rozumieniu przepisów ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin ([Dz. U. poz. 362](https://api.sejm.gov.pl/eli/acts/DU/2012/362/text.html));
+
+” .
+
+### Art. 21.
+
+W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2007 r. Nr 111, poz. 765](https://api.sejm.gov.pl/eli/acts/DU/2007/765/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 88, poz. 583, Nr 127, poz. 858 i Nr 151, poz. 1013 oraz z 2011 r. Nr 48, poz. 245, Nr 129, poz. 733, Nr 171, poz. 1016 i Nr 240, poz. 1431.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 53 po § 30d dodaje się § 30e w brzmieniu:
+
+„
+
+### § 30e.
+
+Użyte w rozdziale 6 kodeksu określenia: „koncentrat”, „urobek rudy miedzi” oraz „wydobycie miedzi oraz srebra” mają znaczenia nadane im w ustawie z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin ([Dz. U. poz. 362](https://api.sejm.gov.pl/eli/acts/DU/2012/362/text.html)).
+
+” ;
+
+### 2)
+
+po art. 75 dodaje się art. 75a-75c w brzmieniu:
+
+„
+
+### Art. 75a.
+
+### § 1.
+
+Podatnik podatku od wydobycia niektórych kopalin, który wbrew obowiązkowi nie dokonuje pomiaru zawartości miedzi oraz srebra w urobku rudy miedzi lub koncentracie, lub dokonuje pomiaru z naruszeniem zasad określonych w art. 15 ust. 1 pkt 2 i 3, ust. 2 pkt 2 i 3 oraz ust. 3 ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin, przez co naraża podatek od wydobycia niektórych kopalin na uszczuplenie, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+### § 2.
+
+Tej samej karze podlega podatnik podatku od wydobycia niektórych kopalin, który wbrew obowiązkowi nie dokonuje pomiaru ilości urobku rudy miedzi lub koncentratu, lub dokonuje pomiaru z naruszeniem zasad określonych w art. 15 ust. 1 pkt 1 i ust. 2 pkt 1 ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin, przez co naraża podatek od wydobycia niektórych kopalin na uszczuplenie.
+
+### Art. 75b.
+
+### § 1.
+
+Podatnik podatku od wydobycia niektórych kopalin, który wbrew obowiązkowi nie prowadzi ewidencji pomiarów zawartości miedzi oraz srebra w urobku rudy miedzi lub koncentracie, lub pomiaru ilości urobku rudy miedzi lub wyprodukowanego koncentratu, o której mowa w art. 16 ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin, podlega karze grzywny do 720 stawek dziennych.
+
+### § 2.
+
+Podatnik podatku od wydobycia niektórych kopalin, który nierzetelnie prowadzi ewidencję pomiarów zawartości miedzi oraz srebra w urobku rudy miedzi lub koncentracie, lub pomiaru ilości urobku rudy miedzi i wyprodukowanego koncentratu, o której mowa w art. 16 ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin, podlega karze grzywny do 360 stawek dziennych.
+
+### § 3.
+
+W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 lub 2 podlega karze grzywny za wykroczenie skarbowe.
+
+### § 4.
+
+Karze określonej w § 3 podlega podatnik podatku od wydobycia niektórych kopalin, który wadliwie prowadzi ewidencję pomiarów zawartości miedzi oraz srebra w urobku rudy miedzi lub koncentracie, lub pomiaru ilości urobku rudy miedzi i wyprodukowanego koncentratu, o której mowa w art. 16 ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin.
+
+### Art. 75c.
+
+Podatnik podatku od wydobycia niektórych kopalin, który bez przeprowadzenia urzędowego sprawdzenia prowadzi działalność w zakresie wydobycia miedzi oraz srebra, podlega karze grzywny do 720 stawek dziennych.
+
+” ;
+
+### 3)
+
+w art. 133 w § 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+urząd celny - w sprawach o przestępstwa skarbowe i wykroczenia skarbowe określone w art. 63-75c, art. 85-96 § 1, art. 106h i art. 107-111 § 1 oraz w sprawach ujawnionych w zakresie swojego działania przez urzędy celne z art. 106e, art. 106f i art. 106k, a także w sprawach w zakresie swojego działania z art. 54, art. 56, art. 57 § 1, art. 60, art. 61, art. 76, art. 80, art. 83 oraz art. 84 § 1;
+
+” .
+
+### Art. 22.
+
+W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej ([Dz. U. Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 w ust. 1:
+
+### a)
+
+w pkt 2 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f w brzmieniu:
+
+„
+
+### f)
+
+podatku od wydobycia niektórych kopalin;
+
+” ,
+
+### b)
+
+w pkt 7 lit. b otrzymuje brzmienie:
+
+„
+
+### b)
+
+wywiązywania się podmiotów z obowiązków w zakresie podatku od gier oraz dopłat, o których mowa w pkt 2 lit. d, podatku akcyzowego, podatku od wydobycia niektórych kopalin oraz opłaty paliwowej;
+
+” ;
+
+### 2)
+
+w art. 9 po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, wyznaczyć organ Służby Celnej do wykonywania niektórych zadań Służby Celnej oraz określić terytorialny zasięg jego działania, uwzględniając potrzebę sprawnego wykonywania zadań organów Służby Celnej oraz gospodarcze potrzeby przedsiębiorców.
+
+” ;
+
+### 3)
+
+w art. 20 w ust. 1:
+
+### a)
+
+pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+wymiar, pobór i kontrola podatku od gier oraz dopłat, o których mowa w art. 2 ust. 1 pkt 2 lit. d;
+
+” ,
+
+### b)
+
+po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+wymiar, pobór i kontrola podatku od wydobycia niektórych kopalin;
+
+” ,
+
+### c)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+wykonywanie kontroli, o której mowa w art. 30 ust. 2 i ust. 3 pkt 1, 1a i 2 oraz pkt 7-10;
+
+” ;
+
+### 4)
+
+w art. 30:
+
+### a)
+
+w ust. 2 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+prawa podatkowego w zakresie wydobycia urobku rudy miedzi lub produkcji koncentratu, o których mowa w ustawie z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin ([Dz. U. poz. 362](https://api.sejm.gov.pl/eli/acts/DU/2012/362/text.html)).
+
+” ,
+
+### b)
+
+w ust. 3 po pkt 1 dodaje się pkt 1a w brzmieniu:
+
+„
+
+### 1a)
+
+prawidłowość i terminowość wpłat podatku od wydobycia niektórych kopalin;
+
+” ;
+
+### 5)
+
+w art. 34 w ust. 1 w pkt 3 kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu:
+
+„
+
+### 4)
+
+wykonujące czynności, o których mowa w art. 30 ust. 2 pkt 4, są obowiązane zapewnić warunki i środki do sprawnego przeprowadzania kontroli, w tym:
+
+### a)
+
+oznaczyć urządzenia i miejsca służące do tej działalności,
+
+### b)
+
+przechowywać osobno, w miejscu wydobywania urobku rudy miedzi oraz miejscu produkcji koncentratu, urobek rudy miedzi i koncentrat pochodzące z różnych źródeł,
+
+### c)
+
+prowadzić dokumentację związaną z działalnością podlegającą kontroli,
+
+### d)
+
+dokonać, na żądanie funkcjonariusza, zamknięcia prowadzonej w tym zakresie dokumentacji w celu umożliwienia porównania rzeczywistego stanu ze stanem ewidencyjnym.
+
+” ;
+
+### 6)
+
+po art. 51 dodaje się art. 51a w brzmieniu:
+
+„
+
+### Art. 51a.
+
+Minister właściwy do spraw finansów publicznych, uwzględniając potrzebę zapewnienia skuteczności i sprawności wykonywania kontroli, określi, w drodze rozporządzenia:
+
+### 1)
+
+formę i sposób wykonywania kontroli, o której mowa w art. 30 ust. 2 pkt 4 i ust. 3 pkt 1a;
+
+### 2)
+
+rodzaje prowadzonej dokumentacji, o której mowa w art. 34 ust. 1 pkt 4 lit. c, jej wzory, a także sposób jej prowadzenia.
+
+” ;
+
+### 7)
+
+w art. 64 w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+przed rozpoczęciem działalności, o której mowa w art. 30 ust. 2 pkt 2-4, oraz po przerwie w jej prowadzeniu, trwającej dłużej niż 3 miesiące, z zastrzeżeniem pkt 2;
+
+” ;
+
+### 8)
+
+w art. 235 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+szczególnym nadzorze podatkowym - rozumie się przez to kontrolę, o której mowa w art. 30 ust. 2 pkt 2-4 i ust. 3 pkt 1 i 1a;
+
+” .
+
+### Rozdział 2 Przepisy przejściowe i końcowe
+
+### Art. 23.
+
+### 1.
+
+W podmiotach, które w dniu wejścia w życie ustawy dokonują wydobycia miedzi oraz srebra, przeprowadza się urzędowe sprawdzenie, o którym mowa w art. 64 ustawy wymienionej w art. 22, w brzmieniu nadanym niniejszą ustawą, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+W celu dokonania urzędowego sprawdzenia podmioty, o których mowa w ust. 1, przesyłają właściwemu naczelnikowi urzędu celnego, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, zgłoszenie oraz dokumentację, o których mowa w art. 64 ust. 3 ustawy wymienionej w art. 22, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 24.
+
+Organ wydający koncesję na wydobywanie kopalin ze złóż informuje ministra właściwego do spraw finansów publicznych o wydanych koncesjach na wydobycie rudy miedzi oraz srebra oraz o ich treści w terminie 7 dni od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 25.
+
+Rada Ministrów dokona analizy wpływu niniejszej ustawy na sektor wydobywczy miedzi i srebra oraz sektor finansów publicznych oraz przedłoży Sejmowi odpowiednią informację w tym zakresie, nie później niż w okresie 2 lat od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 26.
+
+Przepisy ustawy nie mają zastosowania do miedzi oraz srebra zawartych w koncentracie wyprodukowanym, od dnia wejścia w życie niniejszej ustawy, z urobku rudy miedzi wydobytego przed dniem jej wejścia w życie.
+
+### Art. 27.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 28 września 1991 r. o kontroli skarbowej, ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 102, poz. 585, Nr 106, poz. 622, Nr 134, poz. 781, Nr 178, poz. 1059, Nr 205, poz. 1202 i Nr 234, poz. 1389 i 1391. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320, z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362, Nr 57, poz. 466, Nr 131, poz. 1075, Nr 157, poz. 1241, Nr 166, poz. 1317, Nr 168, poz. 1323, Nr 213, poz. 1652 i Nr 216, poz. 1676, z 2010 r. Nr 40, poz. 230, Nr 57, poz. 355, Nr 127, poz. 858, Nr 167, poz. 1131, Nr 182, poz. 1228 i Nr 197, poz. 1306 oraz z 2011 r. Nr 34, poz. 173, Nr 75, poz. 398, Nr 106, poz. 622, Nr 134, poz. 781, Nr 171, poz. 1016, Nr 186, poz. 1100, Nr 199, poz. 1175, Nr 232, poz. 1378, Nr 234, poz. 1391 i Nr 291, poz. 1707. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 112, poz. 766, z 2008 r. Nr 66, poz. 410, Nr 215, poz. 1355 i Nr 237, poz. 1651, z 2009 r. Nr 3, poz. 11, Nr 8, poz. 39, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 201, poz. 1540 i Nr 206, poz. 1589, z 2010 r. Nr 88, poz. 583, Nr 127, poz. 858 i Nr 151, poz. 1013 oraz z 2011 r. Nr 48, poz. 245, Nr 129, poz. 733, Nr 171, poz. 1016 i Nr 240, poz. 1431. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016.

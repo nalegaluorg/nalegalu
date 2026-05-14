@@ -8,11 +8,9 @@ pos: 1520
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw
-
-*USTAWA z dnia 4 lipca 2019 r.*
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne oraz ustawę z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,106 +22,1932 @@ domain: null
 | Data ogłoszenia | 2019-07-04 |
 | Data wydania | 2019-08-13 |
 | Ostatnia zmiana | 2024-04-25 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001520) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1520/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2019/1520/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2019/1520) |
 
-**Art. 1.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2018 r. poz. 2174, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2019 r. poz. 755, 730, 1435, 1495 i 1517) wprowadza się następujące zmiany:
+### Art. 1.
 
-**Art. 3.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2019 r. poz. 900, 924, 1018 i 1495) wprowadza się następujące zmiany:
+W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2018 r. poz. 2174](https://api.sejm.gov.pl/eli/acts/DU/2018/2174/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018 i 1495.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm. ) w art. 106d w ust. 1:
+### 1)
 
-**Art. 5.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. z 2018 r. poz. 1958, 2192, 2193, 2227 i 2354 oraz z 2019 r. poz. 694) wprowadza się następujące zmiany:
+w art. 2 w pkt 14 wprowadzenie do wyliczenia otrzymuje brzmienie: „ pierwszym zasiedleniu − rozumie się przez to oddanie do użytkowania pierwszemu nabywcy lub użytkownikowi lub rozpoczęcie użytkowania na potrzeby własne budynków, budowli lub ich części, po ich: ” ;
 
-**Art. 6.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, 1123, 1495 i 1501) wprowadza się następujące zmiany:
+### 2)
 
-**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2019 r. poz. 768 i 730) wprowadza się następujące zmiany:
+w art. 5 dodaje się ust. 6 w brzmieniu:
 
-**Art. 8.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115) wprowadza się następujące zmiany:
+„
 
-**Art. 9.** W ustawie z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy – Prawo celne (Dz. U. z 2019 r. poz. 1169) uchyla się art. 3.
+### 6.
 
-**Art. 10.** W ustawie z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1018) w art. 1 w pkt 1, w art. 96b w ust. 2 w zdaniu pierwszym po wyrazach „w sposób umożliwiający sprawdzenie,” dodaje się wyrazy „w tym automatycznie,”.
+W przypadku umów zawartych między Rzecząpospolitą Polską a państwem trzecim w sprawie budowy lub utrzymania mostów transgranicznych lub wspólnych odcinków dróg opodatkowaniu nie podlega import towarów wykorzystywanych do budowy lub utrzymania mostów transgranicznych lub wspólnych odcinków dróg z tego państwa trzeciego na terytorium kraju, jeżeli w odniesieniu do tej umowy została wydana decyzja Rady upoważniająca do stosowania środków stanowiących odstępstwo od art. 2 ust. 1 lit. d dyrektywy 2006/112/WE.
 
-**Art. 11.** (uchylony)
+” ;
 
-**Art. 12.** Przepisów art. 33a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do importu towarów dokonanego przed dniem 1 października 2020 r.
+### 3)
 
-**Art. 13.** Przepisów art. 43 ust. 21, art. 82a i art. 113 ust. 10a ustawy zmienianej w art. 1 nie stosuje się do dostaw, o których mowa w art. 18 tej ustawy, dokonanych przed dniem wejścia w życie niniejszej ustawy.
+w art. 14:
 
-**Art. 14.** Przepisów art. 96 ust. 9a pkt 2 i 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do okresów rozliczeniowych przypadających przed dniem wejścia w życie niniejszej ustawy.
+### a)
 
-**Art. 15.** Przepisów art. 106b ust. 5 i 6 oraz art. 109a ustawy zmienianej w art. 1 nie stosuje się w przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej przed dniem 1 stycznia 2020 r.
+w ust. 5 zdanie drugie otrzymuje brzmienie: „ Podatnicy są obowiązani złożyć informację o dokonanym spisie z natury, o ustalonej na jego podstawie wartości towarów i o kwocie podatku należnego, nie później niż w dniu złożenia deklaracji podatkowej składanej za okres obejmujący dzień rozwiązania spółki, zaprzestania wykonywania czynności podlegających opodatkowaniu albo wystąpienia przypadków, o których mowa w ust. 1 pkt 3. ” ,
 
-**Art. 16.**
+### b)
 
-1. Podmioty prowadzące przed dniem 1 września 2019 r. działalność polegającą na wytwarzaniu, magazynowaniu, przeładunku, przesyłaniu lub dystrybucji paliw ciekłych w rozumieniu ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, lub obrocie tymi paliwami, w tym obrocie z zagranicą, które w związku ze zmianą definicji paliwa ciekłego w art. 3 pkt 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, są obowiązane do uzyskania koncesji lub zmiany zakresu posiadanej koncesji, składają wniosek o udzielenie lub zmianę koncesji w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia wydanego na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+ust. 9b otrzymuje brzmienie:
 
-2. Podmioty, które złożyły wniosek zgodnie z ust. 1, spełniający warunki wymagane ustawą zmienianą w art. 2, a w przypadku braków – uzupełniły wniosek złożony zgodnie z ust. 1, w wyznaczonym przez Prezesa Urzędu Regulacji Energetyki terminie, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia warunki wymagane ustawą zmienianą w art. 2, w zakresie wskazanym w wezwaniu Prezesa Urzędu Regulacji Energetyki, do dnia doręczenia decyzji Prezesa Urzędu Regulacji Energetyki mogą prowadzić działalność na zasadach dotychczasowych.
+„
 
-**Art. 17.**
+### 9b.
 
-1. Podmioty dokonujące przed dniem 1 września 2019 r. przywozu paliw ciekłych w rozumieniu ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, które na jej podstawie są obowiązane do uzyskania wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a ustawy zmienianej w art. 2, lub zmiany zakresu posiadanego wpisu, w związku ze zmianą definicji paliwa ciekłego w art. 3 pkt 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, składają wniosek o wpis do tego rejestru lub zmianę wpisu w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia wydanego na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+W przypadku byłych wspólników zwrotu różnicy podatku dokonuje się na podstawie złożonej deklaracji podatkowej oraz złożonych nie później niż w dniu złożenia tej deklaracji:
 
-2. Podmioty, które złożyły wniosek zgodnie z ust. 1, spełniający warunki wymagane ustawą zmienianą w art. 2, a w przypadku braków – uzupełniły wniosek złożony zgodnie z ust. 1, w wyznaczonym przez Prezesa Urzędu Regulacji Energetyki terminie, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia warunki wymagane ustawą zmienianą w art. 2, w zakresie wskazanym w wezwaniu Prezesa Urzędu Regulacji Energetyki, do dnia doręczenia decyzji Prezesa Urzędu Regulacji Energetyki w przedmiocie wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a ustawy zmienianej w art. 2, lub jego zmiany, mogą prowadzić działalność na zasadach dotychczasowych.
+### 1)
 
-**Art. 18.** Prezes Urzędu Regulacji Energetyki wszczyna z urzędu postępowanie w sprawie dostosowania brzmienia:
+umowy spółki, aktualnej na dzień rozwiązania spółki;
 
-**Art. 19.**
+### 2)
 
-1. Warunkiem zastosowania po dniu 31 października 2019 r. zerowej stawki podatku akcyzowego do preparatów smarowych objętych pozycją CN 3403, w stosunku do których obowiązek podatkowy, zgodnie z przepisami ustawy zmienianej w art. 6, powstał przed dniem 1 listopada 2019 r. i które przed tym dniem nie znajdowały się w sprzedaży hurtowej lub detalicznej, jest przekazanie do dnia 10 listopada 2019 r. właściwemu naczelnikowi urzędu skarbowego przez podmioty, które posiadają te wyroby, informacji o tych wyrobach.
+wykazu rachunków bankowych byłych wspólników w banku mającym siedzibę na terytorium kraju lub ich rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której są członkami, na które ma być dokonany zwrot różnicy podatku.
 
-2. Informacja, o której mowa w ust. 1, powinna zawierać: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu, jego numer identyfikacji podatkowej oraz wskazanie ilości posiadanych preparatów smarowych w litrach.
+” ,
 
-**Art. 20.** Podmiot prowadzący działalność w zakresie preparatów smarowych objętych pozycją CN 3403, zarejestrowany przed dniem 1 listopada 2019 r. na podstawie art. 16 ust. 1 ustawy zmienianej w art. 6, jest obowiązany dokonać zmiany zgłoszenia rejestracyjnego na podstawie art. 16 ust. 4 tej ustawy w terminie do dnia 30 listopada 2019 r.
+### c)
 
-**Art. 21.**
+w ust. 9c w pkt 1 wyrazy „z załączonej” zastępuje się wyrazami „ze złożonej”,
 
-1. Do przemieszczeń wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy zmienianej w art. 6, oraz preparatów smarowych objętych pozycją CN 3403, rozpoczętych przed dniem 1 listopada 2019 r. i do tego dnia niezakończonych, stosuje się przepisy ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 listopada 2019 r.
+### d)
 
-2. Do przemieszczeń olejów smarowych klasyfikowanych do kodu CN 2710 20 90, rozpoczętych przed dniem 1 września 2019 r. i do tego dnia niezakończonych, stosuje się przepisy ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
+ust. 9ca otrzymuje brzmienie:
 
-3. Podmiot, który posiada zezwolenie w zakresie olejów smarowych klasyfikowanych do kodów CN od 2710 19 71 do 2710 19 99, wydane na podstawie ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 września 2019 r., może po dniu 31 sierpnia 2019 r. prowadzić na podstawie tego zezwolenia działalność również w zakresie olejów smarowych o kodzie CN 2710 20 90, jednak nie dłużej niż do dnia 1 listopada 2019 r.
+„
 
-**Art. 22.** Do informacji, o których mowa w art. 48 ust. 10 i art. 59 ust. 9 ustawy zmienianej w art. 6, składanych za okresy poprzedzające dzień wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+### 9ca.
 
-**Art. 23.** Stawki określone w art. 89 ust. 1 pkt 12 lit. aa i b ustawy zmienianej w art. 6 stosuje się do wyrobów akcyzowych, w odniesieniu do których obowiązek podatkowy w podatku akcyzowym powstał z dniem, o którym mowa w art. 28 pkt 1, lub po tym dniu.
+W przypadku osób, o których mowa w ust. 7a, zwrotu różnicy podatku dokonuje się na podstawie złożonej deklaracji podatkowej oraz złożonych nie później niż w dniu złożenia tej deklaracji:
 
-**Art. 24.**
+### 1)
 
-1. Do ewidencjonowania wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy zmienianej w art. 1 stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 138s ustawy zmienianej w art. 6, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
+dokumentów potwierdzających ich udział w przedsiębiorstwie w spadku;
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 138s ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 138s ustawy zmienianej w art. 6, jednak nie dłużej niż do dnia 31 grudnia 2019 r., i mogą być w tym okresie zmieniane.
+### 2)
 
-**Art. 25.**
+wykazu rachunków bankowych tych osób w banku mającym siedzibę na terytorium kraju lub ich rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, której są członkami, na które ma być dokonany zwrot różnicy podatku.
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 33b ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33b ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+” ,
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
+### e)
 
-3. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119zze ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 119zma ustawy zmienianej w art. 3, jednak nie dłużej niż przez 12 miesięcy od dnia, o którym mowa w art. 28 pkt 2, i mogą być w tym okresie zmieniane.
+w ust. 9cb w pkt 1 wyrazy „z załączonych” zastępuje się wyrazami „ze złożonych”;
 
-**Art. 26.**
+### 4)
 
-1. W latach 2020–2029 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 3 000 000 zł, w tym w:
+w art. 18c w ust. 1 pkt 1 otrzymuje brzmienie:
 
-- **1)** 2020 r. – 300 000 zł;
-- **2)** 2021 r. – 300 000 zł;
-- **3)** 2022 r. – 300 000 zł;
-- **4)** 2023 r. – 300 000 zł;
-- **5)** 2024 r. – 300 000 zł;
-- **6)** 2025 r. – 300 000 zł;
-- **7)** 2026 r. – 300 000 zł;
-- **8)** 2027 r. – 300 000 zł;
-- **9)** 2028 r. – 300 000 zł;
-- **10)** 2029 r. – 300 000 zł.
+„
 
-2. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na obniżeniu wydatków związanych z realizacją zadań wynikających z regulacji wprowadzanych niniejszą ustawą.
+### 1)
 
-3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
+obowiązki tego podatnika w zakresie rozliczania podatku, w tym w zakresie sporządzania deklaracji podatkowych oraz informacji podsumowujących, o których mowa w art. 100 ust. 1, a także w zakresie prowadzenia i przechowywania dokumentacji, w tym ewidencji, na potrzeby podatku;
 
-**Art. 27.** Przepis art. 89 ust. 1 pkt 11 lit. c ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 listopada 2019 r.
+” ;
 
-**Art. 28.** Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem:
+### 5)
 
+w art. 30a ust. 2a i 2b otrzymują brzmienie:
+
+„
+
+### 2a.
+
+Do ustalenia podstawy opodatkowania - w celu obliczenia i wpłacenia kwot podatku - w przypadku wewnątrzwspólnotowego nabycia towarów, o których mowa w art. 103 ust. 5aa, do określenia kwoty zapłaty, ceny nabycia lub kosztu wytworzenia można przyjąć ceny towarów udostępnione zgodnie z ust. 2b, jeżeli zostaną udostępnione. W takim przypadku stosuje się odpowiednio tylko przepis art. 29a ust. 1 albo 2.
+
+### 2b.
+
+Ceny towarów, o których mowa w ust. 2a, mogą być udostępniane przez ministra właściwego do spraw finansów publicznych, w formie komunikatu, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego, na okres miesiąca, ostatniego dnia roboczego poprzedzającego ten miesiąc. Przy określaniu cen tych towarów uwzględnia się ich ceny hurtowe w Rzeczypospolitej Polskiej.
+
+” ;
+
+### 6)
+
+w art. 33:
+
+### a)
+
+ust. 1-3 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Podatnicy, o których mowa w art. 17 ust. 1 pkt 1 i 2 oraz ust. 1b, są obowiązani do obliczenia i wykazania w:
+
+### 1)
+
+zgłoszeniu celnym albo
+
+### 2)
+
+rozliczeniu zamknięcia, o którym mowa w art. 175 rozporządzenia delegowanego Komisji (UE) 2015/2446 z dnia 28 lipca 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 952/2013 w odniesieniu do szczegółowych zasad dotyczących niektórych przepisów unijnego kodeksu celnego ([Dz. Urz. UE L 343 z 29.12.2015, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str. 164, Dz. Urz. UE L 146 z 09.06.2017, str. 10 i 13, Dz. Urz. UE L 67 z 09.03.2018, str. 24, Dz. Urz. UE L 192 z 30.07.2018, str. 1 i 62, Dz. Urz. UE L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1.](#gloss-0:3:)), zwanego dalej „rozporządzeniem 2015/2446”, w przypadkach, o których mowa w art. 324 lub art. 325 rozporządzenia 2015/2447
+
+- kwoty podatku, z uwzględnieniem obowiązujących stawek, z zastrzeżeniem art. 33b.
+
+### 2.
+
+Jeżeli organ celny stwierdzi, że w zgłoszeniu celnym lub w rozliczeniu zamknięcia kwota podatku została wykazana nieprawidłowo, naczelnik urzędu celno-skarbowego wydaje decyzję określającą podatek w prawidłowej wysokości.
+
+### 3.
+
+Po przyjęciu zgłoszenia celnego lub po przedstawieniu rozliczenia zamknięcia podatnik może wystąpić z wnioskiem do naczelnika urzędu celno-skarbowego o wydanie decyzji określającej podatek w prawidłowej wysokości.
+
+” ,
+
+### b)
+
+w ust. 7a pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 115 ust. 1 lit. a i ust. 2 lit. a rozporządzenia 2015/2446
+
+” ;
+
+### 7)
+
+w art. 33a:
+
+### a)
+
+uchyla się ust. 6,
+
+### b)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Podatnik, który wybrał rozliczenie podatku należnego z tytułu importu towarów na zasadach określonych w ust. 1 i nie rozliczył tego podatku w całości lub w części na tych zasadach, traci prawo do rozliczania podatku w deklaracji podatkowej w odniesieniu do kwoty podatku należnej z tytułu importu towarów, której nie rozliczył w deklaracji podatkowej. Podatnik jest obowiązany do zapłaty kwoty podatku wraz z odsetkami naczelnikowi urzędu skarbowego właściwemu do poboru kwoty należności celnych przywozowych wynikających z długu celnego.
+
+” ,
+
+### c)
+
+uchyla się ust. 9-11,
+
+### d)
+
+w ust. 12 zdanie drugie otrzymuje brzmienie: „ Przepisy ust. 2-4 i 7 stosuje się odpowiednio. ” ;
+
+### 8)
+
+w art. 33b w ust. 5 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+specyfikę odprawy scentralizowanej;
+
+” ;
+
+### 9)
+
+w art. 37 w ust. 1aa:
+
+### a)
+
+w pkt 1 lit. a i b otrzymują brzmienie:
+
+„
+
+### a)
+
+złoży wniosek, o którym mowa w art. 33 ust. 3, nie później niż w terminie 6 miesięcy od dnia przyjęcia zgłoszenia celnego lub przedstawienia rozliczenia zamknięcia, oraz
+
+### b)
+
+uiści w terminie 10 dni od dnia powiadomienia niepobraną na podstawie zgłoszenia celnego lub rozliczenia zamknięcia kwotę podatku wraz z odsetkami;
+
+” ,
+
+### b)
+
+w pkt 2 po wyrazach „zgłoszenia celnego” dodaje się wyrazy „lub rozliczenia zamknięcia”;
+
+### 10)
+
+w art. 43:
+
+### a)
+
+w ust. 1 pkt 15 otrzymuje brzmienie:
+
+„
+
+### 15)
+
+działalność w zakresie gier hazardowych podlegającą przepisom o grach hazardowych;
+
+” ,
+
+### b)
+
+uchyla się ust. 7a,
+
+### c)
+
+dodaje się ust. 21 w brzmieniu:
+
+„
+
+### 21.
+
+Jeżeli udokumentowane działania organów egzekucyjnych lub komorników sądowych, o których mowa w art. 18, nie doprowadziły, na skutek braku możliwości uzyskania niezbędnych informacji od dłużnika, do potwierdzenia spełnienia warunków zastosowania do dostawy towarów, o której mowa w art. 18, zwolnień od podatku, o których mowa w ust. 1 pkt 2, 3 i 9-10a, przyjmuje się, że warunki zastosowania zwolnień od podatku nie są spełnione.
+
+” ;
+
+### 11)
+
+po art. 82 dodaje się art. 82a w brzmieniu:
+
+„
+
+### Art. 82a.
+
+Jeżeli udokumentowane działania organów egzekucyjnych lub komorników sądowych, o których mowa w art. 18, nie doprowadziły, na skutek braku możliwości uzyskania niezbędnych informacji od dłużnika, do potwierdzenia spełnienia warunków zastosowania do dostawy towarów, o której mowa w art. 18, zwolnień od podatku wprowadzonych na podstawie przepisów wydanych na podstawie art. 82 ust. 2 i 3, przyjmuje się, że warunki zastosowania zwolnień od podatku nie są spełnione.
+
+” ;
+
+### 12)
+
+w art. 87:
+
+### a)
+
+w ust. 6 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+podatnik złoży w urzędzie skarbowym, nie później niż w dniu złożenia deklaracji, potwierdzenie zapłaty należności, o których mowa w pkt 1 lit. a,
+
+” ,
+
+### b)
+
+w ust. 6a wyrazy „złożony wraz z deklaracją podatkową” zastępuje się wyrazami „zawarty w złożonej deklaracji podatkowej”;
+
+### 13)
+
+w art. 89a:
+
+### a)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Wierzyciel informuje o korekcie, o której mowa w ust. 1, właściwego dla niego naczelnika urzędu skarbowego w deklaracji podatkowej, w której dokonuje tej korekty.
+
+” ,
+
+### b)
+
+uchyla się ust. 8;
+
+### 14)
+
+w art. 91 po ust. 7d dodaje się ust. 7e w brzmieniu:
+
+„
+
+### 7e.
+
+Podatnik, który ponownie skorzysta ze zwolnień, o których mowa w art. 43 ust. 1 pkt 3 albo art. 113 ust. 1, może dokonać korekty podatku naliczonego za pozostający okres korekty w deklaracji podatkowej składanej za ostatni okres rozliczeniowy, w którym podatnik był podatnikiem VAT czynnym.
+
+” ;
+
+### 15)
+
+w art. 96:
+
+### a)
+
+w ust. 9a pkt 2 i 3 otrzymują brzmienie:
+
+„
+
+### 2)
+
+będąc obowiązanym do złożenia deklaracji, o której mowa w art. 99 ust. 1, 2 lub 3, nie złożył takich deklaracji za 3 kolejne miesiące lub takiej deklaracji za kwartał, lub
+
+### 3)
+
+składał przez 6 kolejnych miesięcy lub 2 kolejne kwartały deklaracje, o których mowa w art. 99 ust. 1, 2 lub 3, w których nie wykazał sprzedaży, nabycia towarów lub usług ani importu towarów z kwotami podatku do odliczenia, lub
+
+” ,
+
+### b)
+
+ust. 9e otrzymuje brzmienie:
+
+„
+
+### 9e.
+
+Przepis ust. 9a pkt 3 nie ma zastosowania, w przypadku gdy niewykazanie sprzedaży, nabycia towarów lub usług ani importu towarów z kwotami podatku do odliczenia wynikało, zgodnie z wyjaśnieniami podatnika, ze specyfiki prowadzonej działalności gospodarczej.
+
+” ,
+
+### c)
+
+ust. 9h otrzymuje brzmienie:
+
+„
+
+### 9h.
+
+Naczelnik urzędu skarbowego, na wniosek podmiotu, o którym mowa w ust. 9 pkt 1-4 i ust. 9a pkt 2, złożony w terminie 2 miesięcy od dnia wykreślenia z rejestru jako podatnika VAT, przywraca zarejestrowanie podmiotu jako podatnika VAT czynnego bez konieczności składania zgłoszenia rejestracyjnego, jeżeli podatnik udowodni, że prowadzi opodatkowaną działalność gospodarczą, a w przypadku nieskładania deklaracji pomimo takiego obowiązku - jeżeli najpóźniej wraz ze złożeniem wniosku o przywrócenie zarejestrowania złoży brakujące deklaracje.
+
+” ,
+
+### d)
+
+po ust. 9h dodaje się ust. 9ha w brzmieniu:
+
+„
+
+### 9ha.
+
+Przepis ust. 9h stosuje się odpowiednio w przypadku, w którym w złożonych deklaracjach nie została wykazana sprzedaż, nabycie towarów lub usług ani import towarów z kwotami podatku do odliczenia, i okoliczność ta wynika, zgodnie z wyjaśnieniami podatnika, ze specyfiki prowadzonej działalności gospodarczej.
+
+” ;
+
+### 16)
+
+w art. 97 ust. 15 otrzymuje brzmienie:
+
+„
+
+### 15.
+
+W przypadku gdy podmiot, o którym mowa w ust. 1−3, złoży za 3 kolejne miesiące lub kwartał deklaracje, o których mowa w art. 99 ust. 1, 2 lub 3, w których nie wykazał sprzedaży, nabycia towarów lub usług ani importu towarów z kwotami podatku do odliczenia, naczelnik urzędu skarbowego wykreśla z urzędu ten podmiot z rejestru jako podatnika VAT UE i powiadamia go o wykreśleniu.
+
+” ;
+
+### 17)
+
+w art. 99:
+
+### a)
+
+po ust. 7b dodaje się ust. 7c w brzmieniu:
+
+„
+
+### 7c.
+
+Deklaracje podatkowe, o których mowa w ust. 1-3, zawierają dane niezbędne do rozliczenia podatku, obliczenia jego wysokości, w tym wysokości podstawy opodatkowania, podatku należnego i podatku naliczonego, a także dane dotyczące podatnika.
+
+” ,
+
+### b)
+
+po ust. 11b dodaje się ust. 11c w brzmieniu:
+
+„
+
+### 11c.
+
+Deklaracje podatkowe, o których mowa w ust. 1-3, są składane zgodnie z wzorem dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ([Dz. U. z 2019 r. poz. 700](https://api.sejm.gov.pl/eli/acts/DU/2019/700/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [848](https://api.sejm.gov.pl/eli/acts/DU/2019/848/text.html)), który obejmuje deklarację i ewidencję, o której mowa w art. 109 ust. 3. Dokument elektroniczny, o którym mowa w zdaniu pierwszym, jest przesyłany w sposób określony w przepisach wydanych na podstawie art. 193a § 3 Ordynacji podatkowej i zgodnie z wymaganiami określonymi w tych przepisach.
+
+” ,
+
+### c)
+
+po ust. 13 dodaje się ust. 13a i 13b w brzmieniu:
+
+„
+
+### 13a.
+
+Minister właściwy do spraw finansów publicznych określi i udostępni na elektronicznej platformie usług administracji publicznej wzór dokumentu, o którym mowa w ust. 11c.
+
+### 13b.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych, o których mowa w ust. 7c, wraz z objaśnieniami co do sposobu wypełniania i miejsca składania deklaracji podatkowych, o których mowa w ust. 1-3, oraz niezbędnymi pouczeniami, uwzględniając konieczność prawidłowego rozliczenia podatku oraz kontroli tego obowiązku przez organ podatkowy.
+
+” ,
+
+### d)
+
+w ust. 14 wyrazy „ust. 1-3, 8 i 9” zastępuje się wyrazami „ust. 8 i 9”;
+
+### 18)
+
+uchyla się art. 101a;
+
+### 19)
+
+w art. 102 uchyla się ust. 3;
+
+### 20)
+
+w art. 103:
+
+### a)
+
+w ust. 5a wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadku wewnątrzwspólnotowego nabycia towarów, o których mowa w ust. 5aa, podatnik jest obowiązany, bez wezwania naczelnika urzędu skarbowego, do obliczania i wpłacania kwot podatku na rachunek urzędu skarbowego właściwego w zakresie wpłat podatku akcyzowego: ” ,
+
+### b)
+
+po ust. 5a dodaje się ust. 5aa i 5ab w brzmieniu:
+
+„
+
+### 5aa.
+
+Przepis ust. 5a stosuje się do następujących towarów:
+
+### 1)
+
+benzyn lotniczych (CN 2710 12 31);
+
+### 2)
+
+benzyn silnikowych (CN 2710 12 25 - z wyłączeniem benzyn lakowych i przemysłowych, CN 2710 12 41, CN 2710 12 45, CN 2710 12 49, CN 2710 12 51, CN 2710 12 59, CN 2710 12 90, CN 2207 20 00);
+
+### 3)
+
+gazu płynnego (LPG) - (CN 2711 12, CN 2711 13, CN 2711 14 00, CN 2711 19 00);
+
+### 4)
+
+olejów napędowych (CN 2710 19 43, CN 2710 20 11);
+
+### 5)
+
+olejów opałowych (CN 2710 19 62, CN 2710 19 64, CN 2710 19 68, CN 2710 20 31, CN 2710 20 35, CN 2710 20 39, CN 2710 20 90);
+
+### 6)
+
+paliw typu benzyny do silników odrzutowych (CN 2710 12 70);
+
+### 7)
+
+paliw typu nafty do silników odrzutowych (CN 2710 19 21);
+
+### 8)
+
+pozostałych olejów napędowych (CN 2710 19 46, CN 2710 19 47, CN 2710 19 48, CN 2710 20 15, CN 2710 20 17, CN 2710 20 19);
+
+### 9)
+
+paliw ciekłych w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw ([Dz. U. z 2019 r. poz. 660](https://api.sejm.gov.pl/eli/acts/DU/2019/660/text.html)), które nie zostały ujęte w pkt 1-4 i 6-8;
+
+### 10)
+
+biopaliw ciekłych w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych ([Dz. U. z 2019 r. poz. 1155](https://api.sejm.gov.pl/eli/acts/DU/2019/1155/text.html), [1123](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.html) i [1210](https://api.sejm.gov.pl/eli/acts/DU/2019/1210/text.html));
+
+### 11)
+
+pozostałych towarów, o których mowa w art. 86 ust. 2 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym, wymienionych w załączniku nr 1 do tej ustawy, bez względu na kod CN.
+
+### 5ab.
+
+Do towarów, o których mowa w ust. 5aa, stosuje się klasyfikację w układzie odpowiadającym Nomenklaturze Scalonej (CN) zgodną z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. w sprawie nomenklatury taryfowej i statystycznej oraz w sprawie Wspólnej Taryfy Celnej ([Dz. Urz. WE L 256 z 07.09.1987, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm. - [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 2, t. 2, str. 382](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.). Zmiany w Nomenklaturze Scalonej (CN) nie powodują zmian opodatkowania podatkiem towarów wymienionych w ust. 5aa, jeżeli nie zostały określone w ustawie.
+
+” ;
+
+### 21)
+
+w art. 106b dodaje się ust. 5-7 w brzmieniu:
+
+„
+
+### 5.
+
+W przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej potwierdzonej paragonem fiskalnym fakturę na rzecz podatnika podatku lub podatku od wartości dodanej wystawia się wyłącznie, jeżeli paragon potwierdzający dokonanie tej sprzedaży zawiera numer, za pomocą którego nabywca towarów lub usług jest zidentyfikowany na potrzeby podatku lub podatku od wartości dodanej.
+
+### 6.
+
+W przypadku stwierdzenia, że podatnik wystawił fakturę z naruszeniem ust. 5, organ podatkowy ustala temu podatnikowi dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 100% kwoty podatku wykazanego na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+
+### 7.
+
+Przepisów ust. 5 i 6 nie stosuje się do podatników świadczących usługi taksówek osobowych, z wyłączeniem wynajmu samochodów osobowych z kierowcą (PKWiU 49.32.11.0).
+
+” ;
+
+### 22)
+
+w art. 106h:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy faktura dotyczy sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej, do egzemplarza faktury pozostającego u podatnika dołącza się paragon dokumentujący tę sprzedaż.
+
+” ,
+
+### b)
+
+w ust. 2 wyraz „zarejestrowane” zastępuje się wyrazem „zaewidencjonowane”,
+
+### c)
+
+w ust. 3 wyraz „zarejestrowanej” zastępuje się wyrazem „zaewidencjonowanej”;
+
+### 23)
+
+w art. 109:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Podatnicy, z wyjątkiem podatników wykonujących wyłącznie czynności zwolnione od podatku na podstawie art. 43 ust. 1 lub przepisów wydanych na podstawie art. 82 ust. 3 oraz podatników, u których sprzedaż jest zwolniona od podatku na podstawie art. 113 ust. 1 lub 9, są obowiązani prowadzić ewidencję zawierającą dane pozwalające na prawidłowe rozliczenie podatku i sporządzenie informacji podsumowującej, w szczególności dane dotyczące:
+
+### 1)
+
+rodzaju sprzedaży i podstawy opodatkowania, wysokości kwoty podatku należnego, w tym korekty podatku należnego, z podziałem na stawki podatku;
+
+### 2)
+
+kwoty podatku naliczonego obniżającego kwotę podatku należnego, w tym korekty podatku naliczonego;
+
+### 3)
+
+kontrahentów;
+
+### 4)
+
+dowodów sprzedaży i zakupów.
+
+” ,
+
+### b)
+
+po ust. 3a dodaje się ust. 3b-3k w brzmieniu:
+
+„
+
+### 3b.
+
+Podatnicy, o których mowa w art. 99 ust. 1, są obowiązani przesyłać, na zasadach określonych w art. 99 ust. 11c, za każdy miesiąc do urzędu skarbowego, za pomocą środków komunikacji elektronicznej, ewidencję, o której mowa w ust. 3, łącznie z deklaracją podatkową, w terminie do złożenia tej deklaracji.
+
+### 3c.
+
+Podatnicy, o których mowa w art. 99 ust. 2 i 3, są obowiązani przesyłać do urzędu skarbowego, za pomocą środków komunikacji elektronicznej, ewidencję, o której mowa w ust. 3, na zasadach określonych w art. 99 ust. 11c:
+
+### 1)
+
+za pierwszy i drugi miesiąc danego kwartału - w terminie do 25. dnia miesiąca następującego odpowiednio po każdym z tych miesięcy;
+
+### 2)
+
+za ostatni miesiąc danego kwartału, łącznie z deklaracją - w terminie do złożenia tej deklaracji.
+
+### 3d.
+
+Faktury, o których mowa w art. 106h ust. 1-3, ujmuje się w ewidencji, o której mowa w ust. 3, w okresie rozliczeniowym, w którym zostały wystawione. Faktury te nie zwiększają wartości sprzedaży oraz podatku należnego za okres, w którym zostały ujęte w tej ewidencji.
+
+### 3e.
+
+W terminie 14 dni od dnia:
+
+### 1)
+
+stwierdzenia przez podatnika, że przesłana ewidencja zawiera błędy lub dane niezgodne ze stanem faktycznym, lub
+
+### 2)
+
+zmiany danych zawartych w przesłanej ewidencji
+
+- podatnik jest obowiązany przesłać korektę ewidencji na zasadach określonych w art. 99 ust. 11c.
+
+### 3f.
+
+W przypadku stwierdzenia przez naczelnika urzędu skarbowego w przesłanej ewidencji błędów, które uniemożliwiają przeprowadzenie weryfikacji prawidłowości transakcji, naczelnik urzędu skarbowego wzywa podatnika do ich skorygowania, wskazując te błędy.
+
+### 3g.
+
+Podatnik w terminie 14 dni od dnia doręczenia wezwania, o którym mowa w ust. 3f, przesyła, na zasadach określonych w art. 99 ust. 11c, do naczelnika urzędu skarbowego ewidencję skorygowaną w zakresie błędów wskazanych w wezwaniu lub składa wyjaśnienia wskazujące, że ewidencja nie zawiera błędów, o których mowa w wezwaniu.
+
+### 3h.
+
+Jeżeli podatnik, wbrew obowiązkowi określonemu w ust. 3g:
+
+### 1)
+
+nie prześle ewidencji skorygowanej w zakresie błędów wskazanych w wezwaniu lub nie złoży wyjaśnień, albo zrobi to po terminie,
+
+### 2)
+
+w złożonych wyjaśnieniach nie wykaże, że ewidencja nie zawiera błędów, o których mowa w wezwaniu
+
+- naczelnik urzędu skarbowego nakłada, w drodze decyzji, na tego podatnika karę pieniężną w wysokości 500 zł za każdy błąd, o którym mowa w ust. 3f.
+
+### 3i.
+
+Przepisu ust. 3h nie stosuje się do podatnika będącego osobą fizyczną prowadzącą działalność gospodarczą, który za ten sam czyn ponosi odpowiedzialność za wykroczenie skarbowe lub przestępstwo skarbowe.
+
+### 3j.
+
+Wpływy z kar pieniężnych, o których mowa w ust. 3h, stanowią dochód budżetu państwa.
+
+### 3k.
+
+Karę pieniężną, o której mowa w ust. 3h, uiszcza się bez wezwania naczelnika urzędu skarbowego w terminie 14 dni od dnia doręczenia decyzji, o której mowa w ust. 3h.
+
+” ,
+
+### c)
+
+dodaje się ust. 14 w brzmieniu:
+
+„
+
+### 14.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych, o których mowa w ust. 3, oraz sposób wykazywania danych w ewidencji przesyłanej zgodnie z ust. 3b i 3c, uwzględniając konieczność zapewnienia prawidłowości rozliczeń podatników oraz kontroli obowiązków podatników przez organ podatkowy, identyfikowania obszarów, w których występują nadużycia w podatku lub narażonych na te nadużycia, oraz możliwości techniczno-organizacyjne prowadzenia przez podatników ewidencji.
+
+” ;
+
+### 24)
+
+po art. 109 dodaje się art. 109a w brzmieniu:
+
+„
+
+### Art. 109a.
+
+W przypadku ujęcia w ewidencji przez podatnika, o którym mowa w art. 109 ust. 3, wystawionej dla niego faktury dotyczącej sprzedaży potwierdzonej paragonem, który nie zawiera numeru, za pomocą którego jest on zidentyfikowany na potrzeby podatku, organ podatkowy ustala temu podatnikowi dodatkowe zobowiązanie podatkowe w wysokości odpowiadającej 100% kwoty podatku wykazanego na tej fakturze. W stosunku do osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe, dodatkowego zobowiązania podatkowego nie ustala się.
+
+” ;
+
+### 25)
+
+w art. 112b:
+
+### a)
+
+w ust. 2:
+
+- - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Jeżeli po zakończeniu kontroli podatkowej lub kontroli celno-skarbowej w przypadkach, o których mowa w: ” ,
+
+- - pkt 1 i 2 otrzymują brzmienie: „ 1) ust. 1 pkt 1, podatnik złożył korektę deklaracji uwzględniającą stwierdzone nieprawidłowości i najpóźniej w dniu złożenia tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, 2) ust. 1 pkt 2, podatnik złożył deklarację podatkową i najpóźniej w dniu złożenia tej deklaracji wpłacił kwotę zobowiązania podatkowego ” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Jeżeli w przypadku, o którym mowa w ust. 1 pkt 1, podatnik skorygował deklarację zgodnie z art. 62 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2019 r. poz. 768](https://api.sejm.gov.pl/eli/acts/DU/2019/768/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) i najpóźniej w dniu złożenia tej korekty deklaracji wpłacił kwotę zobowiązania podatkowego lub zwrócił nienależną kwotę zwrotu, wysokość dodatkowego zobowiązania podatkowego wynosi 15% kwoty zaniżenia zobowiązania podatkowego albo kwoty zawyżenia zwrotu różnicy podatku, zwrotu podatku naliczonego lub różnicy podatku do obniżenia podatku należnego za następne okresy rozliczeniowe.
+
+” ,
+
+### c)
+
+w ust. 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Przepisów ust. 1-2a nie stosuje się: ” ;
+
+### 26)
+
+w art. 112c we wprowadzeniu do wyliczenia wyrazy „w art. 112b ust. 1 pkt 1 oraz ust. 2 pkt 1” zastępuje się wyrazami „w art. 112b ust. 1 pkt 1, ust. 2 pkt 1 oraz ust. 2a”;
+
+### 27)
+
+w art. 113:
+
+### a)
+
+po ust. 10 dodaje się ust. 10a w brzmieniu:
+
+„
+
+### 10a.
+
+Jeżeli udokumentowane działania organów egzekucyjnych lub komorników sądowych, o których mowa w art. 18, nie doprowadziły, na skutek braku możliwości uzyskania niezbędnych informacji od dłużnika, do potwierdzenia spełnienia warunków zastosowania do dostawy towarów, o której mowa w art. 18, zwolnień, o których mowa w ust. 1 i 9, przyjmuje się, że warunki zastosowania zwolnień od podatku nie są spełnione.
+
+” ,
+
+### b)
+
+w ust. 13:
+
+- - w pkt 1 w lit. e średnik zastępuje się przecinkiem i dodaje się lit. f i g w brzmieniu: „ f) następujących towarów, w związku z zawarciem umowy w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy włącznie: - preparatów kosmetycznych i toaletowych (PKWiU 20.42.1), - komputerów, wyrobów elektronicznych i optycznych (PKWiU 26), - urządzeń elektrycznych i nieelektrycznego sprzętu gospodarstwa domowego (PKWiU 27), - maszyn i urządzeń, gdzie indziej niesklasyfikowanych (PKWiU 28), g) hurtowych i detalicznych części do: - pojazdów samochodowych (PKWiU 45.3), - motocykli (PKWiU 45.4); ” ,
+
+- - w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) ściągania długów, w tym factoringu; ” ;
+
+### 28)
+
+w art. 116:
+
+### a)
+
+w ust. 2 uchyla się pkt 3,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Faktura VAT RR może być, za zgodą dostawcy, wystawiana, podpisywana i przesyłana w formie elektronicznej. W tym przypadku zamiast czytelnymi podpisami lub podpisami osób uprawnionych do wystawienia i otrzymania faktury VAT RR w formie elektronicznej, określonymi w ust. 2 pkt 13, faktura powinna być opatrzona, odpowiednio przez dostawcę i nabywcę, kwalifikowanym podpisem elektronicznym. Przez przekazanie dostawcy oryginału faktury VAT RR rozumie się jej przesłanie w formie elektronicznej.
+
+” ,
+
+### c)
+
+w ust. 4 zdanie trzecie otrzymuje brzmienie: „ Dokument ten powinien zawierać elementy, o których mowa w ust. 2 pkt 1 i 2, oraz datę zawarcia i określenie przedmiotu umowy, datę sporządzenia tego dokumentu oraz czytelny podpis składającego oświadczenie. ” ,
+
+### d)
+
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+
+„
+
+### 4a.
+
+Oświadczenie określone w ust. 4 może być wystawiane, podpisywane i przesyłane w formie elektronicznej. W tym przypadku zamiast czytelnym podpisem składającego oświadczenie w formie elektronicznej, określonym w ust. 4, dokument powinien być opatrzony przez składającego oświadczenie kwalifikowanym podpisem elektronicznym. Przez przekazanie nabywcy oryginału oświadczenia rozumie się jego przesłanie w formie elektronicznej.
+
+” ,
+
+### e)
+
+w ust. 6 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zapłata należności za produkty rolne, obejmująca również kwotę zryczałtowanego zwrotu podatku, nastąpiła na rachunek bankowy rolnika ryczałtowego lub na jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem;
+
+” ,
+
+### f)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Za datę dokonania zapłaty uważa się datę wydania dyspozycji przekazania środków finansowych na rachunek bankowy rolnika ryczałtowego lub na jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem, jeżeli dyspozycja ta została zrealizowana.
+
+” ,
+
+### g)
+
+w ust. 9 w pkt 1 po wyrazach „rachunek bankowy rolnika ryczałtowego” dodaje się wyrazy „lub na jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem”,
+
+### h)
+
+w ust. 9b po wyrazach „rachunek bankowy rolnika ryczałtowego” dodaje się wyrazy „lub na jego rachunek w spółdzielczej kasie oszczędnościowo-kredytowej, której jest członkiem”,
+
+### i)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Rolnik ryczałtowy jest obowiązany przechowywać oryginały faktur VAT RR oraz kopie oświadczeń, o których mowa w ust. 4, przez okres 5 lat, licząc od końca roku, w którym wystawiono fakturę. Obowiązek ten obejmuje również faktury VAT RR i oświadczenia wystawione w formie elektronicznej.
+
+” ;
+
+### 29)
+
+art. 118 otrzymuje brzmienie:
+
+„
+
+### Art. 118.
+
+Przepisy art. 115, art. 116 ust. 1-3a i 5-10 oraz art. 117 stosuje się odpowiednio w przypadku wykonywania przez rolnika ryczałtowego usług rolniczych na rzecz podatników podatku, którzy rozliczają ten podatek.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ([Dz. U. z 2019 r. poz. 755](https://api.sejm.gov.pl/eli/acts/DU/2019/755/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html), [1435](https://api.sejm.gov.pl/eli/acts/DU/2019/1435/text.html), [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html) i [1517](https://api.sejm.gov.pl/eli/acts/DU/2019/1517/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 pkt 3b otrzymuje brzmienie:
+
+„
+
+### 3b)
+
+paliwa ciekłe - ciekłe nośniki energii, w tym zawierające dodatki:
+
+### a)
+
+półprodukty rafineryjne,
+
+### b)
+
+gaz płynny LPG,
+
+### c)
+
+benzyny ciężkie,
+
+### d)
+
+benzyny silnikowe,
+
+### e)
+
+benzyny lotnicze,
+
+### f)
+
+paliwa typu benzynowego do silników odrzutowych,
+
+### g)
+
+paliwa typu nafty do silników odrzutowych,
+
+### h)
+
+inne rodzaje nafty,
+
+### i)
+
+oleje napędowe, w tym lekkie oleje opałowe,
+
+### j)
+
+ciężkie oleje opałowe,
+
+### k)
+
+benzyny lakowe i przemysłowe,
+
+### l)
+
+biopaliwa ciekłe,
+
+### m)
+
+smary
+
+- określone w załączniku A rozdział 3 do rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1099/2008 z dnia 22 października 2008 r. w sprawie statystyki energii ([Dz. Urz. UE L 304 z 14.11.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1 oraz Dz. Urz. UE L 292 z 10.11.2017, str. 3.](#gloss-0:4:)), niezależnie od ich przeznaczenia, których szczegółowy wykaz ustanawiają przepisy wydane na podstawie art. 32 ust. 6;
+
+” ;
+
+### 2)
+
+w art. 32:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a-2d w brzmieniu:
+
+„
+
+### 2a.
+
+W przypadku zmiany wykazu paliw ciekłych określonego w przepisach wydanych na podstawie ust. 6, której skutkiem jest powstanie obowiązku uzyskania koncesji lub zmiany zakresu posiadanej koncesji, o której mowa w ust. I pkt 1-4, przez podmioty wykonujące działalność polegającą na wytwarzaniu, magazynowaniu, przeładunku, przesyłaniu lub dystrybucji paliw ciekłych, lub obrocie tymi paliwami, w tym obrocie z zagranicą, podmioty te składają wniosek o udzielenie lub zmianę koncesji w terminie 30 dni od dnia wejścia w życie przepisów wprowadzających taką zmianę. Niezłożenie wniosku w tym terminie przez podmiot obowiązany oznacza prowadzenie przez ten podmiot działalności bez wymaganej koncesji w zakresie wynikającym ze zmiany wykazu określonego w przepisach wydanych na podstawie ust. 6.
+
+### 2b.
+
+Podmioty, które złożyły wniosek, o którym mowa w ust. 2a, który spełnia warunki określone w art. 35, a w przypadku braków - uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
+
+### 2c.
+
+W przypadku zmiany wykazu paliw ciekłych określonego w przepisach wydanych na podstawie ust. 6, której skutkiem jest powstanie obowiązku wpisu lub zmiany zakresu posiadanego wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a, podmioty wykonujące działalność polegającą na przywozie paliw ciekłych składają wniosek o wpis lub zmianę zakresu wpisu do rejestru podmiotów przywożących w terminie 30 dni od dnia wejścia w życie przepisów wprowadzających taką zmianę. Niezłożenie wniosku w tym terminie przez podmiot obowiązany oznacza prowadzenie przez ten podmiot działalności bez wymaganego wpisu do rejestru podmiotów przywożących w zakresie wynikającym ze zmiany wykazu określonego w przepisach wydanych na podstawie ust. 6.
+
+### 2d.
+
+Podmioty, które złożyły wniosek, o którym mowa w ust. 2c, który spełnia warunki określone w art. 32a ust. 4, a w przypadku braków - uzupełniły go w terminie wyznaczonym przez Prezesa URE w wezwaniu, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia wymagane warunki, do dnia doręczenia decyzji Prezesa URE mogą prowadzić działalność na zasadach dotychczasowych, w zakresie wskazanym we wniosku.
+
+” ,
+
+### b)
+
+w ust. 6 dodaje się zdanie drugie w brzmieniu: „ W rozporządzeniu można określić przeznaczenie paliwa ciekłego, jeżeli będzie to służyć osiągnięciu celów tego rozporządzenia, o których mowa w ust. 7. ” .
+
+### Art. 3.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2019 r. poz. 900](https://api.sejm.gov.pl/eli/acts/DU/2019/900/text.html), [924](https://api.sejm.gov.pl/eli/acts/DU/2019/924/text.html), [1018](https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 61a dodaje się art. 61b w brzmieniu:
+
+„
+
+### Art. 61b.
+
+### § 1.
+
+Wpłata podatku dochodowego od osób fizycznych, podatku dochodowego od osób prawnych, podatku od towarów i usług oraz niepodatkowych należności budżetowych jest dokonywana na rachunek urzędu skarbowego przy użyciu indywidualnego rachunku podatkowego identyfikującego podatnika lub płatnika (indywidualny rachunek podatkowy).
+
+### § 2.
+
+Struktura numeru indywidualnego rachunku podatkowego jest zgodna z formatem Numeru Rachunku Bankowego i zawiera:
+
+### 1)
+
+sumę kontrolną;
+
+### 2)
+
+numer rozliczeniowy jednostki organizacyjnej banku;
+
+### 3)
+
+identyfikator podatkowy.
+
+### § 3.
+
+Numer indywidualnego rachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych lub w urzędzie skarbowym.
+
+” ;
+
+### 2)
+
+w art. 62 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Jeżeli na podatniku ciążą zobowiązania podatkowe z różnych tytułów, dokonaną wpłatę zalicza się na poczet podatku zgodnie ze wskazaniem podatnika, a w przypadku braku takiego wskazania - na poczet zobowiązania podatkowego o najwcześniejszym terminie płatności spośród wszystkich zobowiązań podatkowych podatnika. W przypadku gdy na podatniku ciążą zobowiązania podatkowe, których termin płatności upłynął, dokonaną wpłatę zalicza się na poczet zaległości podatkowej o najwcześniejszym terminie płatności we wskazanym przez podatnika podatku, a w przypadku braku takiego wskazania lub braku zaległości podatkowej we wskazanym podatku - na poczet zaległości podatkowej o najwcześniejszym terminie płatności spośród wszystkich zaległości podatkowych podatnika.
+
+” ;
+
+### 3)
+
+w art. 82:
+
+### a)
+
+uchyla się § 1b,
+
+### b)
+
+uchyla się § 2d;
+
+### 4)
+
+po art. 119zm dodaje się art. 119zma w brzmieniu:
+
+„
+
+### Art. 119zma.
+
+Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić inny organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej, o których mowa w art. 119zm, art. 119zn § 1, art. 119zs i rozdziale 3, określając szczegółowy zakres upoważnienia oraz upoważnione organy, mając na względzie zapewnienie sprawnego i skutecznego wykonywania tych zadań.
+
+” ;
+
+### 5)
+
+w art. 119zq:
+
+### a)
+
+uchyla się pkt 2,
+
+### b)
+
+w pkt 3 skreśla się wyrazy „w zakresie transakcji innych niż wskazane w pkt 2”;
+
+### 6)
+
+w art. 119zt:
+
+### a)
+
+w pkt 3 wyrazy „Biura Ochrony Rządu” zastępuje się wyrazami „Służby Ochrony Państwa”,
+
+### b)
+
+pkt 5 i 6 otrzymują brzmienie:
+
+„
+
+### 5)
+
+Szefa Centralnego Biura Antykorupcyjnego - w zakresie niezbędnym do realizacji ustawowych zadań - za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym ([Dz. U. z 2018 r. poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2018/2104/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html) oraz [z 2019 r. poz. 53](https://api.sejm.gov.pl/eli/acts/DU/2019/53/text.html), [125](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.html) i [1091](https://api.sejm.gov.pl/eli/acts/DU/2019/1091/text.html));
+
+### 6)
+
+Szefa Agencji Bezpieczeństwa Wewnętrznego - w zakresie niezbędnym do realizacji ustawowych zadań - za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu ([Dz. U. z 2018 r. poz. 2387](https://api.sejm.gov.pl/eli/acts/DU/2018/2387/text.html), [2245](https://api.sejm.gov.pl/eli/acts/DU/2018/2245/text.html) i [2399](https://api.sejm.gov.pl/eli/acts/DU/2018/2399/text.html) oraz [z 2019 r. poz. 53](https://api.sejm.gov.pl/eli/acts/DU/2019/53/text.html), [125](https://api.sejm.gov.pl/eli/acts/DU/2019/125/text.html) i [1091](https://api.sejm.gov.pl/eli/acts/DU/2019/1091/text.html));
+
+” ,
+
+### c)
+
+dodaje się pkt 7 i 8 w brzmieniu:
+
+„
+
+### 7)
+
+Generalnego Inspektora Informacji Finansowej - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+
+### 8)
+
+Przewodniczącego Komisji Nadzoru Finansowego - w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym ([Dz. U. z 2019 r. poz. 298](https://api.sejm.gov.pl/eli/acts/DU/2019/298/text.html), [326](https://api.sejm.gov.pl/eli/acts/DU/2019/326/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [875](https://api.sejm.gov.pl/eli/acts/DU/2019/875/text.html)).
+
+” ;
+
+### 7)
+
+w art. 119zu:
+
+### a)
+
+uchyla się § 2,
+
+### b)
+
+po § 2 dodaje się § 2a w brzmieniu:
+
+„
+
+### § 2a.
+
+Dane, o których mowa w § 1, izba rozliczeniowa przetwarza przy wykorzystaniu STIR również w celu:
+
+### 1)
+
+stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa wart. 48 ust. 1 tej ustawy, zawartej z bankiem lub spółdzielczą kasą oszczędnościowo-kredytową;
+
+### 2)
+
+wykonywania przez izbę rozliczeniową na rzecz banków lub spółdzielczych kas oszczędnościowo-kredytowych czynności niezbędnych do zastosowania przez banki lub spółdzielcze kasy oszczędnościowo-kredytowe środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+” ;
+
+### 8)
+
+w art. 119zv w § 9 wyrazy „art. 119zze” zastępuje się wyrazami „art. 119zma”;
+
+### 9)
+
+uchyla się art. 119zze;
+
+### 10)
+
+w art. 297 w § 1:
+
+### a)
+
+pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+Centralnemu Biuru Antykorupcyjnemu - w zakresie niezbędnym do realizacji zadań określonych w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
+
+” ,
+
+### b)
+
+po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+Agencji Bezpieczeństwa Wewnętrznego - w zakresie niezbędnym do realizacji zadań określonych w art. 5 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
+
+” ;
+
+### 11)
+
+po art. 297d dodaje się art. 297e w brzmieniu:
+
+„
+
+### Art. 297e.
+
+### § 1.
+
+Szef Krajowej Administracji Skarbowej udostępnia Centralnemu Biuru Antykorupcyjnemu i Agencji Bezpieczeństwa Wewnętrznego, w zakresie niezbędnym do realizacji zadań określonych odpowiednio w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym i art. 5 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, dane niezawarte w aktach spraw podatkowych inne niż określone w art. 297c, jeżeli znajdują się w Centralnym Rejestrze Danych Podatkowych.
+
+### § 2.
+
+Dane, o których mowa w § 1, mogą być udostępniane za pośrednictwem systemu teleinformatycznego.
+
+” ;
+
+### 12)
+
+w art. 299 w § 3 w pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 w brzmieniu:
+
+„
+
+### 16)
+
+Prezesowi Urzędu Regulacji Energetyki w celu realizacji jego zadań ustawowych.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2018 r. poz. 2187](https://api.sejm.gov.pl/eli/acts/DU/2018/2187/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495 i 1501.](#gloss-0:5:)) w art. 106d w ust. 1:
+
+### 1)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ Banki, inne instytucje ustawowo upoważnione do udzielania kredytów, izby rozliczeniowe utworzone na podstawie art. 67, instytucje utworzone na mocy art. 105 ust. 4, instytucje pożyczkowe, podmioty, których podstawowa działalność polega na udostępnianiu składników majątkowych na podstawie umowy leasingu, oraz podmioty, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, mogą przetwarzać i wzajemnie udostępniać informacje, w tym informacje objęte tajemnicą bankową, w przypadkach: ” ;
+
+### 2)
+
+w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+wykonywania obowiązków w zakresie określonym w przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 10 września 1999 r. - Kodeks karny skarbowy ([Dz. U. z 2018 r. poz. 1958](https://api.sejm.gov.pl/eli/acts/DU/2018/1958/text.html), [2192](https://api.sejm.gov.pl/eli/acts/DU/2018/2192/text.html), [2193](https://api.sejm.gov.pl/eli/acts/DU/2018/2193/text.html), [2227](https://api.sejm.gov.pl/eli/acts/DU/2018/2227/text.html) i [2354](https://api.sejm.gov.pl/eli/acts/DU/2018/2354/text.html) oraz [z 2019 r. poz. 694](https://api.sejm.gov.pl/eli/acts/DU/2019/694/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 56 § 4 otrzymuje brzmienie:
+
+„
+
+### § 4.
+
+Karze określonej w § 3 podlega także ten podatnik, który mimo ujawnienia przedmiotu lub podstawy opodatkowania nie składa w terminie organowi podatkowemu lub płatnikowi deklaracji lub oświadczenia lub wbrew obowiązkowi nie składa ich za pomocą środków komunikacji elektronicznej lub składa je niezgodnie z wzorem dokumentu elektronicznego.
+
+” ;
+
+### 2)
+
+po art. 61 dodaje się art. 61a w brzmieniu:
+
+„
+
+### Art. 61a.
+
+### § 1.
+
+Kto wbrew obowiązkowi nie przesyła księgi właściwemu organowi podatkowemu albo przesyła ją nierzetelną, podlega karze grzywny do 240 stawek dziennych.
+
+### § 2.
+
+W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w § 1 podlega karze grzywny za wykroczenie skarbowe.
+
+### § 3.
+
+Karze określonej w § 2 podlega także ten, kto księgę przesyła po terminie lub wadliwą.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ([Dz. U. z 2019 r. poz. 864](https://api.sejm.gov.pl/eli/acts/DU/2019/864/text.html), [1123](https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text.html), [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html) i [1501](https://api.sejm.gov.pl/eli/acts/DU/2019/1501/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 32 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+używane do statków powietrznych: benzyny lotnicze o kodzie CN 2710 12 31, paliwo typu benzyny do silników odrzutowych o kodzie CN 2710 12 70 oraz paliwo do silników odrzutowych o kodzie CN 2710 19 21, oleje smarowe do silników lotniczych oraz preparaty smarowe do silników lotniczych - w przypadkach, o których mowa w ust. 3, jeżeli są spełnione warunki, o których mowa w ust. 5-6b, 12 i 13;
+
+” ;
+
+### 2)
+
+w art. 41:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Jeżeli procedura zawieszenia poboru akcyzy dotyczy wyrobów akcyzowych, o których mowa w art. 40 ust. 6, warunkiem zastosowania tej procedury jest w przypadku wyrobów:
+
+### 1)
+
+przemieszczanych wyłącznie na terytorium kraju - spełnienie warunków, o których mowa w ust. 1;
+
+### 2)
+
+przemieszczanych na terytorium kraju w ramach nabycia wewnątrzwspólnotowego, w celu wprowadzenia ich do składu podatkowego:
+
+### a)
+
+dokonanie przez podatnika do właściwego naczelnika urzędu skarbowego zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym obejmującego w szczególności dane dotyczące ilości nabywanych wyrobów akcyzowych i kwotę akcyzy podlegającej zawieszeniu, oraz złożenie zabezpieczenia akcyzowego, przed wprowadzeniem wyrobów na terytorium kraju, oraz
+
+### b)
+
+dołączenie do przemieszczanych wyrobów dokumentów handlowych;
+
+### 3)
+
+przemieszczanych na terytorium kraju w ramach dostawy wewnątrzwspólnotowej:
+
+### a)
+
+złożenie we właściwym urzędzie skarbowym zabezpieczenia akcyzowego przed rozpoczęciem przemieszczania oraz
+
+### b)
+
+dołączenie do przemieszczanych wyrobów dokumentów handlowych.
+
+” ,
+
+### b)
+
+dodaje się ust. 16 w brzmieniu:
+
+„
+
+### 16.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór zgłoszenia o planowanym nabyciu wewnątrzwspólnotowym, o którym mowa w ust. 4 pkt 2 lit. a, uwzględniając konieczność ujednolicenia formy dokonywanych zgłoszeń.
+
+” ;
+
+### 3)
+
+w art. 48:
+
+### a)
+
+w ust. 3 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+olejów smarowych lub preparatów smarowych - minimalna wysokość akcyzy, która byłaby należna od wyrobów, gdyby wyroby te nie zostały objęte procedurą zawieszenia poboru akcyzy, w składzie podatkowym, w którym prowadzona będzie działalność na podstawie wydanego zezwolenia, wynosząca w roku kalendarzowym 600 tys. zł;
+
+” ,
+
+### b)
+
+w ust. 4a pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+olejów smarowych lub preparatów smarowych - 10 mln zł;
+
+” ,
+
+### c)
+
+ust. 9-11 otrzymują brzmienie:
+
+„
+
+### 9.
+
+Podmiot prowadzący skład podatkowy może dokonać nabycia wewnątrzwspólnotowego wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2018 r. poz. 2174](https://api.sejm.gov.pl/eli/acts/DU/2018/2174/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.](#gloss-0:6:)), na rzecz innego podmiotu, pod warunkiem że podmiot, na rzecz którego nabywane są te wyroby, łącznie spełnia następujące warunki:
+
+### 1)
+
+posiada koncesję na obrót paliwami ciekłymi z zagranicą, o której mowa w ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne, jeżeli koncesja ta jest wymagana;
+
+### 2)
+
+jest właścicielem nabywanych wyrobów akcyzowych;
+
+### 3)
+
+posiada:
+
+### a)
+
+siedzibę lub miejsce zamieszkania na terytorium kraju i nabywa te wyroby akcyzowe na potrzeby prowadzenia działalności gospodarczej na terytorium kraju albo
+
+### b)
+
+oddział z siedzibą na terytorium kraju utworzony na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej i nabywa te wyroby akcyzowe na potrzeby prowadzenia działalności gospodarczej na terytorium kraju przez ten oddział;
+
+### 4)
+
+przekaże podmiotowi prowadzącemu skład podatkowy numer identyfikacji podatkowej poprzedzony kodem PL użyty na potrzeby podatku od towarów i usług przy przemieszczaniu na terytorium kraju wyrobów akcyzowych.
+
+### 9a.
+
+Warunki, o których mowa w ust. 9, nie dotyczą podmiotów zużywających wyroby akcyzowe, o których mowa w ust. 9, zwolnione od akcyzy w przypadkach, o których mowa w art. 32 ust. 1 pkt 1 i 2.
+
+### 10.
+
+Podmiot prowadzący skład podatkowy, w terminie 3 dni po upływie miesiąca, informuje Prezesa Agencji Rezerw Materiałowych oraz ministra właściwego do spraw finansów publicznych o podmiotach, na rzecz których dokonał w tym miesiącu nabyć wewnątrzwspólnotowych wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz o tych nabytych wyrobach.
+
+### 11.
+
+Informacja, o której mowa w ust. 10, powinna zawierać określenie rodzaju, kodu CN i ilości nabytych wyrobów akcyzowych oraz:
+
+### 1)
+
+w przypadku gdy podmiot, na rzecz którego nabyte zostały wyroby akcyzowe, posiada siedzibę lub miejsce zamieszkania na terytorium kraju: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu i jego numer identyfikacji podatkowej poprzedzony kodem PL;
+
+### 2)
+
+w przypadku gdy podmiot, na rzecz którego nabyte zostały wyroby akcyzowe, jest przedsiębiorcą zagranicznym prowadzącym działalność w ramach oddziału z siedzibą na terytorium kraju, utworzonego na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu, nazwę oddziału z siedzibą na terytorium kraju, w ramach którego przedsiębiorca zagraniczny prowadzi działalność gospodarczą na terytorium kraju, adres siedziby tego oddziału, numer identyfikacji podatkowej poprzedzony kodem PL użyty na potrzeby podatku od towarów i usług przy przemieszczeniu na terytorium kraju wyrobów akcyzowych oraz numer w Krajowym Rejestrze Sądowym.
+
+” ;
+
+### 4)
+
+w art. 52 w ust. 2 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+w okresie trzech pierwszych miesięcy po uzyskaniu zezwolenia podmiot, który złożył oświadczenie, o którym mowa w art. 48 ust. 4 lub 4d, nie osiągnął zadeklarowanych minimalnych poziomów określonych odpowiednio w art. 48 ust. 3 pkt 1, 1a, 2 i 4 lub ust. 4a.
+
+” ;
+
+### 5)
+
+w art. 59 ust. 8-10 otrzymują brzmienie:
+
+„
+
+### 8.
+
+Zarejestrowany odbiorca może dokonać nabycia wewnątrzwspólnotowego wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, na rzecz innego podmiotu, pod warunkiem że podmiot, na rzecz którego nabywane są te wyroby, łącznie spełnia następujące warunki:
+
+### 1)
+
+posiada koncesję na obrót paliwami ciekłymi z zagranicą, o której mowa w ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne, jeżeli koncesja ta jest wymagana;
+
+### 2)
+
+jest właścicielem nabywanych wyrobów akcyzowych;
+
+### 3)
+
+posiada:
+
+### a)
+
+siedzibę lub miejsce zamieszkania na terytorium kraju i nabywa te wyroby akcyzowe na potrzeby prowadzenia działalności gospodarczej na terytorium kraju albo
+
+### b)
+
+oddział z siedzibą na terytorium kraju utworzony na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej i nabywa te wyroby akcyzowe na potrzeby prowadzenia działalności gospodarczej na terytorium kraju przez ten oddział;
+
+### 4)
+
+przekaże zarejestrowanemu odbiorcy numer identyfikacji podatkowej poprzedzony kodem PL użyty na potrzeby podatku od towarów i usług przy przemieszczaniu na terytorium kraju wyrobów akcyzowych.
+
+### 8a.
+
+Warunki, o których mowa w ust. 8, nie dotyczą podmiotów zużywających wyroby akcyzowe, o których mowa w ust. 8, zwolnione od akcyzy w przypadkach, o których mowa w art. 32 ust. 1 pkt 1 i 2.
+
+### 9.
+
+Zarejestrowany odbiorca, w terminie 3 dni po upływie miesiąca, informuje Prezesa Agencji Rezerw Materiałowych oraz ministra właściwego do spraw finansów publicznych o podmiotach, na rzecz których dokonał w tym miesiącu nabyć wewnątrzwspólnotowych wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz o tych nabytych wyrobach.
+
+### 10.
+
+Informacja, o której mowa w ust. 9, powinna zawierać określenie rodzaju, kodu CN i ilości nabytych wyrobów akcyzowych oraz:
+
+### 1)
+
+w przypadku gdy podmiot, na rzecz którego nabyte zostały wyroby akcyzowe, posiada siedzibę lub miejsce zamieszkania na terytorium kraju: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu i jego numer identyfikacji podatkowej poprzedzony kodem PL;
+
+### 2)
+
+w przypadku gdy podmiot, na rzecz którego nabyte zostały wyroby akcyzowe, jest przedsiębiorcą zagranicznym prowadzącym działalność w ramach oddziału z siedzibą na terytorium kraju, utworzonego na zasadach określonych w ustawie z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu, nazwę oddziału z siedzibą na terytorium kraju, w ramach którego przedsiębiorca zagraniczny prowadzi działalność gospodarczą na terytorium kraju, adres siedziby tego oddziału, numer identyfikacji podatkowej poprzedzony kodem PL użyty na potrzeby podatku od towarów i usług przy przemieszczeniu na terytorium kraju wyrobów akcyzowych oraz numer w Krajowym Rejestrze Sądowym.
+
+” ;
+
+### 6)
+
+w art. 78 w ust. 7a:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ W przypadkach, o których mowa w ust. 1 i 3, warunkiem dokonania przez podatnika nabycia wewnątrzwspólnotowego wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług jest posiadanie: ” ,
+
+### b)
+
+pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+koncesji na obrót paliwami ciekłymi z zagranicą, o której mowa w ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne, lub
+
+” ;
+
+### 7)
+
+art. 78a otrzymuje brzmienie:
+
+„
+
+### Art. 78a.
+
+W przypadkach, o których mowa w art. 78 ust. 1 i 3, podatnik nie może dokonywać nabycia wewnątrzwspólnotowego odpowiednio paliw opałowych określonych w art. 89 ust. 1 pkt 9, 10 i pkt 15 lit. a lub wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, na rzecz innego podmiotu.
+
+” ;
+
+### 8)
+
+w art. 86 w ust. 1 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+oznaczone kodami CN: 3824 99 86, 3824 99 92, 3824 99 93, 3824 99 96, 3826 00 10 oraz 3826 00 90, jeżeli są przeznaczone do celów opałowych lub napędowych;
+
+” ;
+
+### 9)
+
+w art. 89 w ust. 1 pkt 11 otrzymuje brzmienie:
+
+„
+
+### 11)
+
+olejów i preparatów smarowych:
+
+### a)
+
+olejów smarowych, pozostałych olejów o kodach CN od 2710 19 71 do 2710 19 99, z wyłączeniem wyrobów o kodzie CN 2710 19 85 (oleje białe, parafina ciekła) oraz smarów plastycznych zaliczanych do kodu CN 2710 19 99,
+
+### b)
+
+olejów smarowych o kodzie CN 2710 20 90,
+
+### c)
+
+preparatów smarowych objętych pozycją CN 3403, z wyłączeniem smarów plastycznych objętych tą pozycją
+
+- 1180,00 zł/1000 litrów;
+
+” ;
+
+### 10)
+
+po art. 163a dodaje się art. 163b w brzmieniu:
+
+„
+
+### Art. 163b.
+
+### 1.
+
+W okresie stosowania rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu ([Dz. Urz. UE L 187 z 26.06.2014, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28.](#gloss-0:7:)) do stawek określonych w art. 89 ust. 1 pkt 12 lit. aa i b stosuje się przepis art. 44 tego rozporządzenia.
+
+### 2.
+
+Stawek określonych w art. 89 ust. 1 pkt 12 lit. aa i b nie stosuje się w przypadku podmiotu:
+
+### 1)
+
+na którym ciąży obowiązek zwrotu pomocy wynikający z wcześniejszej decyzji Komisji Europejskiej uznającej pomoc za niezgodną z prawem i z rynkiem wewnętrznym;
+
+### 2)
+
+znajdującego się w trudnej sytuacji, o której mowa w art. 2 pkt 18 rozporządzenia, o którym mowa w ust. 1.
+
+### 3.
+
+W przypadkach, o których mowa w ust. 2, stosuje się stawkę określoną odpowiednio w art. 89 ust. 1 pkt 12 lit. a albo c.
+
+” ;
+
+### 11)
+
+w art. 164 uchyla się ust. 2;
+
+### 12)
+
+w załączniku nr 1 do ustawy po poz. 39 dodaje się poz. 39a w brzmieniu: „ 39a ex 3824 99 86ex 3824 99 92ex 3824 99 93ex 3824 99 96 Pozostałe produkty chemiczne i preparaty przemysłu chemicznego lub przemysłów pokrewnych (włączając te składające się z mieszanin produktów naturalnych), gdzie indziej niewymienione ani niewłączone - jeżeli są przeznaczone do celów opałowych lub napędowych ”;
+
+### 13)
+
+w załączniku nr 2 do ustawy po poz. 24a dodaje się poz. 24b w brzmieniu: „ 24b ex 3824 99 86ex 3824 99 92ex 3824 99 93ex 3824 99 96 Pozostałe produkty chemiczne i preparaty przemysłu chemicznego lub przemysłów pokrewnych (włączając te składające się z mieszanin produktów naturalnych), gdzie indziej niewymienione ani niewłączone (wyłączając preparaty przeciwrdzewne zawierające aminy jako składniki aktywne i złożone rozpuszczalniki nieorganiczne i rozcieńczalniki do lakierów i produktów podobnych) - jeżeli są przeznaczone do celów opałowych lub napędowych ”.
+
+### Art. 7.
+
+W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2019 r. poz. 768](https://api.sejm.gov.pl/eli/acts/DU/2019/768/text.html) i [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 35 w ust. 3 w pkt 1:
+
+### a)
+
+wprowadzenie do wyliczenia otrzymuje brzmienie: „ gromadzenia, analizy oraz przetwarzania danych wynikających z: ” ,
+
+### b)
+
+w lit. d średnik zastępuje się przecinkiem i dodaje się lit. e w brzmieniu:
+
+„
+
+### e)
+
+ewidencji, o której mowa w art. 109 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług ([Dz. U. z 2018 r. poz. 2174](https://api.sejm.gov.pl/eli/acts/DU/2018/2174/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.](#gloss-0:8:));
+
+” ;
+
+### 2)
+
+w art. 145a ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Przetwarzanie danych osobowych, o których mowa w ust. 1, może być dokonywane na podstawie pisemnego upoważnienia do przetwarzania takich danych wydanego przez administratora. Osoby upoważnione do przetwarzania takich danych są obowiązane do zachowania ich w tajemnicy.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu ([Dz. U. z 2019 r. poz. 1115](https://api.sejm.gov.pl/eli/acts/DU/2019/1115/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+### 1.
+
+W celu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu izby rozliczeniowe utworzone na podstawie art. 67 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe oraz instytucje utworzone na podstawie art. 105 ust. 4 tej ustawy przekazują Generalnemu Inspektorowi, na jego żądanie, informacje oraz dokumenty objęte tym żądaniem.
+
+### 2.
+
+Żądania, informacje oraz dokumenty, o których mowa w ust. 1, mogą być przekazywane przy wykorzystaniu systemu teleinformatycznego.
+
+” ;
+
+### 2)
+
+w art. 73 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Informacje, o których mowa w art. 72, mogą być przekazywane, w tym przy wykorzystaniu systemu teleinformatycznego, do Generalnego Inspektora za pośrednictwem: ” .
+
+### Art. 9.
+
+W ustawie z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne ([Dz. U. z 2019 r. poz. 1169](https://api.sejm.gov.pl/eli/acts/DU/2019/1169/text.html)) uchyla się art. 3.
+
+### Art. 10.
+
+W ustawie z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw ([Dz. U. poz. 1018](https://api.sejm.gov.pl/eli/acts/DU/2019/1018/text.html)) w art. 1 w pkt 1, w art. 96b w ust. 2 w zdaniu pierwszym po wyrazach „w sposób umożliwiający sprawdzenie,” dodaje się wyrazy „w tym automatycznie,”.
+
+### Art. 11.
+
+### 1.
+
+W przypadku:
+
+### 1)
+
+mikroprzedsiębiorców, małych i średnich przedsiębiorców w rozumieniu ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców ([Dz. U. z 2019 r. poz. 1292](https://api.sejm.gov.pl/eli/acts/DU/2019/1292/text.html) i [1495](https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html)),
+
+### 2)
+
+organów władzy publicznej, w tym organów administracji rządowej, organów kontroli państwowej i ochrony prawa, sądów i trybunałów oraz urzędów obsługujących te organy, w zakresie, w jakim są uznane za podatników podatku od towarów i usług na podstawie art. 15 ust. 1 i 6 ustawy zmienianej w art. 1,
+
+### 3)
+
+innych niż wymienione w pkt 2 państwowych jednostek budżetowych,
+
+### 4)
+
+jednostek samorządu terytorialnego oraz ich związków,
+
+### 5)
+
+związków metropolitalnych,
+
+### 6)
+
+samorządowych jednostek budżetowych i samorządowych zakładów budżetowych, utworzonych przez jednostkę samorządu terytorialnego oraz urzędów obsługujących jednostkę samorządu terytorialnego działających w formie samorządowej jednostki budżetowej, jeżeli rozliczają się jako podatnicy podatku od towarów i usług odrębni od jednostki samorządu terytorialnego,
+
+### 7)
+
+agencji wykonawczych w rozumieniu przepisów o finansach publicznych,
+
+### 8)
+
+instytucji gospodarki budżetowej,
+
+### 9)
+
+Zakładu Ubezpieczeń Społecznych oraz Kasy Rolniczego Ubezpieczenia Społecznego,
+
+### 10)
+
+Narodowego Funduszu Zdrowia,
+
+### 11)
+
+podmiotów leczniczych w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ([Dz. U. z 2018 r. poz. 2190](https://api.sejm.gov.pl/eli/acts/DU/2018/2190/text.html) i [2219](https://api.sejm.gov.pl/eli/acts/DU/2018/2219/text.html) oraz [z 2019 r. poz. 492](https://api.sejm.gov.pl/eli/acts/DU/2019/492/text.html), [730](https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html) i [959](https://api.sejm.gov.pl/eli/acts/DU/2019/959/text.html)),
+
+### 12)
+
+szkół i placówek niepublicznych, utworzonych na podstawie ustawy z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2019 r. poz. 1481](https://api.sejm.gov.pl/eli/acts/DU/2019/1481/text.html)) lub na podstawie ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe ([Dz. U. z 2019 r. poz. 1148](https://api.sejm.gov.pl/eli/acts/DU/2019/1148/text.html), [1078](https://api.sejm.gov.pl/eli/acts/DU/2019/1078/text.html) i [1287](https://api.sejm.gov.pl/eli/acts/DU/2019/1287/text.html)),
+
+### 13)
+
+Polskiej Akademii Nauk i utworzonych przez nią jednostek organizacyjnych,
+
+### 14)
+
+instytutów badawczych w rozumieniu ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych ([Dz. U. z 2019 r. poz. 1350](https://api.sejm.gov.pl/eli/acts/DU/2019/1350/text.html)),
+
+### 15)
+
+państwowych i samorządowych instytucji kultury,
+
+### 16)
+
+jednostek publicznej radiofonii i telewizji,
+
+### 17)
+
+parków narodowych,
+
+### 18)
+
+Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz wojewódzkich funduszy ochrony środowiska i gospodarki wodnej,
+
+### 19)
+
+Narodowego Banku Polskiego,
+
+### 20)
+
+Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych
+
+- przepisy art. 18c ust. 1 pkt 1, art. 33a ust. 7 i 12, art. 87 ust. 6a, art. 89a ust. 5, art. 99 ust. 7c, 11c i 13a, art. 109 ust. 3, 3b-3k ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz przepisy art. 56 § 4 i art. 61a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, a także przepisy wykonawcze wydane na podstawie art. 99 ust. 13b i 14 oraz art. 109 ust. 14 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 lipca 2020 r.
+
+### 2.
+
+W okresie od dnia 1 kwietnia 2020 r. do dnia 30 czerwca 2020 r. do podatników, o których mowa w ust. 1, stosuje się przepisy art. 18c ust. 1 pkt 1, art. 87 ust. 6a, art. 89a ust. 5 i 8, art. 101a, art. 102 ust. 3, art. 109 ust. 3 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, art. 82 § 1b i 2d ustawy zmienianej w art. 3, w brzmieniu dotychczasowym, oraz art. 56 § 4 ustawy zmienianej w art. 5, w brzmieniu dotychczasowym, a także przepisy wykonawcze wydane na podstawie art. 99 ust. 14 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, z zastrzeżeniem ust. 4.
+
+### 3.
+
+Do importu towarów dokonanego przed dniem 1 lipca 2020 r. przez podatników, o których mowa w ust. 1, stosuje się przepisy art. 33a ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+### 4.
+
+Za okres od dnia 1 kwietnia 2020 r. do dnia 30 czerwca 2020 r. podatnicy, o których mowa w ust. 1, mogą przesyłać do właściwego urzędu skarbowego za pomocą środków komunikacji elektronicznej ewidencję, o której mowa w art. 109 ust. 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, na zasadach określonych w art. 99 ust. 11c tej ustawy:
+
+### 1)
+
+łącznie z deklaracją za każdy miesiąc, w terminie do złożenia tej deklaracji - jeżeli są podatnikami, o których mowa w art. 99 ust. 1 ustawy zmienianej w art. 1;
+
+### 2)
+
+za pierwszy i drugi miesiąc danego kwartału w terminie do 25. dnia miesiąca następującego odpowiednio po każdym z tych miesięcy, a za ostatni miesiąc danego kwartału, łącznie z deklaracją, w terminie do złożenia tej deklaracji - jeżeli są podatnikami, o których mowa w art. 99 ust. 2 i 3 ustawy zmienianej w art. 1.
+
+### 5.
+
+W przypadku, o którym mowa w ust. 4, przepisy art. 18c ust. 1 pkt 1, art. 33a ust. 7 i 12, art. 87 ust. 6a, art. 89a ust. 5, art. 99 ust. 7c, 11c, 13a, art. 109 ust. 3, 3b-3k ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz przepisy art. 56 § 4 i art. 61a ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, a także przepisy wykonawcze wydane na podstawie art. 99 ust. 13b i 14 oraz art. 109 ust. 14 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się. Przepis ust. 3 stosuje się odpowiednio.
+
+### 6.
+
+Podatnicy, o których mowa w ust. 1, którzy skorzystali z uprawnienia, o którym mowa w ust. 4, nie mogą ponownie rozpocząć rozliczania podatku na dotychczasowych zasadach.
+
+### Art. 12.
+
+Przepisów art. 33a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do importu towarów dokonanego przed dniem 1 kwietnia 2020 r.
+
+### Art. 13.
+
+Przepisów art. 43 ust. 21, art. 82a i art. 113 ust. 10a ustawy zmienianej w art. 1 nie stosuje się do dostaw, o których mowa w art. 18 tej ustawy, dokonanych przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 14.
+
+Przepisów art. 96 ust. 9a pkt 2 i 3 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do okresów rozliczeniowych przypadających przed dniem wejścia w życie niniejszej ustawy.
+
+### Art. 15.
+
+Przepisów art. 106b ust. 5 i 6 oraz art. 109a ustawy zmienianej w art. 1 nie stosuje się w przypadku sprzedaży zaewidencjonowanej przy zastosowaniu kasy rejestrującej przed dniem 1 stycznia 2020 r.
+
+### Art. 16.
+
+### 1.
+
+Podmioty prowadzące przed dniem 1 września 2019 r. działalność polegającą na wytwarzaniu, magazynowaniu, przeładunku, przesyłaniu lub dystrybucji paliw ciekłych w rozumieniu ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, lub obrocie tymi paliwami, w tym obrocie z zagranicą, które w związku ze zmianą definicji paliwa ciekłego w art. 3 pkt 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, są obowiązane do uzyskania koncesji lub zmiany zakresu posiadanej koncesji, składają wniosek o udzielenie lub zmianę koncesji w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia wydanego na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Podmioty, które złożyły wniosek zgodnie z ust. 1, spełniający warunki wymagane ustawą zmienianą w art. 2, a w przypadku braków - uzupełniły wniosek złożony zgodnie z ust. 1, w wyznaczonym przez Prezesa Urzędu Regulacji Energetyki terminie, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia warunki wymagane ustawą zmienianą w art. 2, w zakresie wskazanym w wezwaniu Prezesa Urzędu Regulacji Energetyki, do dnia doręczenia decyzji Prezesa Urzędu Regulacji Energetyki mogą prowadzić działalność na zasadach dotychczasowych.
+
+### Art. 17.
+
+### 1.
+
+Podmioty dokonujące przed dniem 1 września 2019 r. przywozu paliw ciekłych w rozumieniu ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, które na jej podstawie są obowiązane do uzyskania wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a ustawy zmienianej w art. 2, lub zmiany zakresu posiadanego wpisu, w związku ze zmianą definicji paliwa ciekłego w art. 3 pkt 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, składają wniosek o wpis do tego rejestru lub zmianę wpisu w terminie 3 miesięcy od dnia wejścia w życie rozporządzenia wydanego na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Podmioty, które złożyły wniosek zgodnie z ust. 1, spełniający warunki wymagane ustawą zmienianą w art. 2, a w przypadku braków - uzupełniły wniosek złożony zgodnie z ust. 1, w wyznaczonym przez Prezesa Urzędu Regulacji Energetyki terminie, nie krótszym niż 14 dni, w ten sposób, że wniosek spełnia warunki wymagane ustawą zmienianą w art. 2, w zakresie wskazanym w wezwaniu Prezesa Urzędu Regulacji Energetyki, do dnia doręczenia decyzji Prezesa Urzędu Regulacji Energetyki w przedmiocie wpisu do rejestru podmiotów przywożących, o którym mowa w art. 32a ustawy zmienianej w art. 2, lub jego zmiany, mogą prowadzić działalność na zasadach dotychczasowych.
+
+### Art. 18.
+
+Prezes Urzędu Regulacji Energetyki wszczyna z urzędu postępowanie w sprawie dostosowania brzmienia:
+
+### 1)
+
+udzielonej koncesji,
+
+### 2)
+
+wpisu do rejestru, o którym mowa w art. 32a ustawy zmienianej w art. 2
+
+- do art. 3 pkt 3b ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, w okresie 3 lat od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 19.
+
+### 1.
+
+Warunkiem zastosowania po dniu 31 października 2019 r. zerowej stawki podatku akcyzowego do preparatów smarowych objętych pozycją CN 3403, w stosunku do których obowiązek podatkowy, zgodnie z przepisami ustawy zmienianej w art. 6, powstał przed dniem 1 listopada 2019 r. i które przed tym dniem nie znajdowały się w sprzedaży hurtowej lub detalicznej, jest przekazanie do dnia 10 listopada 2019 r. właściwemu naczelnikowi urzędu skarbowego przez podmioty, które posiadają te wyroby, informacji o tych wyrobach.
+
+### 2.
+
+Informacja, o której mowa w ust. 1, powinna zawierać: imię i nazwisko lub nazwę podmiotu, adres miejsca zamieszkania lub siedziby podmiotu, jego numer identyfikacji podatkowej oraz wskazanie ilości posiadanych preparatów smarowych w litrach.
+
+### Art. 20.
+
+Podmiot prowadzący działalność w zakresie preparatów smarowych objętych pozycją CN 3403, zarejestrowany przed dniem 1 listopada 2019 r. na podstawie art. 16 ust. 1 ustawy zmienianej w art. 6, jest obowiązany dokonać zmiany zgłoszenia rejestracyjnego na podstawie art. 16 ust. 4 tej ustawy w terminie do dnia 30 listopada 2019 r.
+
+### Art. 21.
+
+### 1.
+
+Do przemieszczeń wyrobów akcyzowych, o których mowa w art. 40 ust. 6 ustawy zmienianej w art. 6, oraz preparatów smarowych objętych pozycją CN 3403, rozpoczętych przed dniem 1 listopada 2019 r. i do tego dnia niezakończonych, stosuje się przepisy ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 listopada 2019 r.
+
+### 2.
+
+Do przemieszczeń olejów smarowych klasyfikowanych do kodu CN 2710 20 90, rozpoczętych przed dniem 1 września 2019 r. i do tego dnia niezakończonych, stosuje się przepisy ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 września 2019 r.
+
+### 3.
+
+Podmiot, który posiada zezwolenie w zakresie olejów smarowych klasyfikowanych do kodów CN od 2710 19 71 do 2710 19 99, wydane na podstawie ustawy zmienianej w art. 6, w brzmieniu obowiązującym przed dniem 1 września 2019 r., może po dniu 31 sierpnia 2019 r. prowadzić na podstawie tego zezwolenia działalność również w zakresie olejów smarowych o kodzie CN 2710 20 90, jednak nie dłużej niż do dnia 1 listopada 2019 r.
+
+### Art. 22.
+
+Do informacji, o których mowa w art. 48 ust. 10 i art. 59 ust. 9 ustawy zmienianej w art. 6, składanych za okresy poprzedzające dzień wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### Art. 23.
+
+Stawki określone w art. 89 ust. 1 pkt 12 lit. aa i b ustawy zmienianej w art. 6 stosuje się do wyrobów akcyzowych, w odniesieniu do których obowiązek podatkowy w podatku akcyzowym powstał z dniem, o którym mowa w art. 28 pkt 1, lub po tym dniu.
+
+### Art. 24.
+
+### 1.
+
+Do ewidencjonowania wyrobów akcyzowych wymienionych w art. 103 ust. 5aa ustawy zmienianej w art. 1 stosuje się odpowiednio przepisy wykonawcze wydane na podstawie art. 138s ustawy zmienianej w art. 6, jednak nie dłużej niż do dnia 31 grudnia 2019 r.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 138s ustawy zmienianej w art. 6 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 138s ustawy zmienianej w art. 6, jednak nie dłużej niż do dnia 31 grudnia 2019 r., i mogą być w tym okresie zmieniane.
+
+### Art. 25.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 33b ust. 5 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 33b ust. 5 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 32 ust. 6 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 119zze ustawy zmienianej w art. 3 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 119zma ustawy zmienianej w art. 3, jednak nie dłużej niż przez 12 miesięcy od dnia, o którym mowa w art. 28 pkt 2, i mogą być w tym okresie zmieniane.
+
+### Art. 26.
+
+### 1.
+
+W latach 2020-2029 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym ustawy wynosi 3 000 000 zł, w tym w:
+
+### 1)
+
+2020 r. - 300 000 zł;
+
+### 2)
+
+2021 r. - 300 000 zł;
+
+### 3)
+
+2022 r. - 300 000 zł;
+
+### 4)
+
+2023 r. - 300 000 zł;
+
+### 5)
+
+2024 r. - 300 000 zł;
+
+### 6)
+
+2025 r. - 300 000 zł;
+
+### 7)
+
+2026 r. - 300 000 zł;
+
+### 8)
+
+2027 r. - 300 000 zł;
+
+### 9)
+
+2028 r. - 300 000 zł;
+
+### 10)
+
+2029 r. - 300 000 zł.
+
+### 2.
+
+W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków, o którym mowa w ust. 1, zostanie zastosowany mechanizm korygujący polegający na obniżeniu wydatków związanych z realizacją zadań wynikających z regulacji wprowadzanych niniejszą ustawą.
+
+### 3.
+
+Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, oraz wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest minister właściwy do spraw finansów publicznych.
+
+### Art. 27.
+
+Przepis art. 89 ust. 1 pkt 11 lit. c ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, stosuje się od dnia 1 listopada 2019 r.
+
+### Art. 28.
+
+Ustawa wchodzi w życie z dniem 1 września 2019 r., z wyjątkiem:
+
+### 1)
+
+art. 6 pkt 10 i 11, art. 7 pkt 2, art. 9 i art. 23, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+### 2)
+
+art. 3 pkt 4, 6-11, art. 4, art. 8 i art. 25 ust. 3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+### 3)
+
+art. 3 pkt 5, który wchodzi w życie po upływie 30 dni od dnia ogłoszenia;
+
+### 4)
+
+art. 6 pkt 1, 2, pkt 3 lit. a i b i pkt 4 oraz art. 19, art. 20 i art. 21 ust. 1, które wchodzą w życie z dniem 1 listopada 2019 r.;
+
+### 5)
+
+art. 1 pkt 21 i 24, art. 3 pkt 1 i 2 oraz art. 15, które wchodzą w życie z dniem 1 stycznia 2020 r.;
+
+### 6)
+
+art. 1 pkt 4, 7, pkt 12 lit. b, pkt 13, 17-19 i 23, art. 3 pkt 3, art. 5, art. 7 pkt 1, art. 11 i art. 12, które wchodzą w życie z dniem 1 kwietnia 2020 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 10 kwietnia 1997 r. - Prawo energetyczne, ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 10 września 1999 r. - Kodeks karny skarbowy, ustawę z dnia 6 grudnia 2008 r. o podatku akcyzowym, ustawę z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej, ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, ustawę z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne oraz ustawę z dnia 12 kwietnia 2019 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018 i 1495. 3) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 69 z 15.03.2016, str. 1, Dz. Urz. UE L 111 z 27.04.2016, str. 1, Dz. Urz. UE L 222 z 17.08.2016, str. 4, Dz. Urz. UE L 101 z 13.04.2017, str. 164, Dz. Urz. UE L 146 z 09.06.2017, str. 10 i 13, Dz. Urz. UE L 67 z 09.03.2018, str. 24, Dz. Urz. UE L 192 z 30.07.2018, str. 1 i 62, Dz. Urz. UE L 204 z 13.08.2018, str. 11, Dz. Urz. UE L 60 z 28.02.2019, str. 1, Dz. Urz. UE L 98 z 09.04.2019, str. 13 oraz Dz. Urz. UE L 108 z 23.04.2019, str. 1. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 258 z 30.09.2010, str. 1, Dz. Urz. UE L 50 z 22.02.2013, str. 1, Dz. Urz. UE L 131 z 01.05.2014, str. 1 oraz Dz. Urz. UE L 292 z 10.11.2017, str. 3. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2243 i 2354 oraz z 2019 r. poz. 326, 730, 875, 1074, 1358, 1495 i 1501. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520. 7) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 329 z 15.12.2015, str. 28, Dz. Urz. UE L 149 z 07.06.2016, str. 10, Dz. Urz. UE L 156 z 20.06.2017, str. 1 oraz Dz. Urz. UE L 236 z 14.09.2017, str. 28. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2193, 2215, 2244, 2354, 2392 i 2433 oraz z 2019 r. poz. 675, 1018, 1495 i 1520.

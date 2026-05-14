@@ -8,9 +8,9 @@ pos: 602
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# U S T A W A dnia 10 grudnia 1993 r.
+# Ustawa z dnia 10 grudnia 1993 r. o zmianie niektórych ustaw dotyczących zaopatrzenia emerytalnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,19 +22,200 @@ domain: null
 | Data ogłoszenia | 1993-12-10 |
 | Data wydania | 1993-12-24 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931290602) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/602/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1993/602/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1993/602) |
 
-(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:2)(cid:7)(cid:5)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:2)(cid:16)(cid:17)(cid:10)(cid:6)(cid:18)(cid:2)(cid:19)(cid:1)(cid:10)(cid:13)(cid:14)(cid:3)(cid:20)(cid:14)(cid:13)(cid:14)(cid:15)(cid:2)(cid:3)(cid:6)(cid:1)(cid:21)(cid:6)(cid:10)(cid:12)(cid:3)(cid:8)(cid:7)(cid:5)(cid:6)(cid:2)(cid:8)(cid:4)(cid:8)(cid:12)(cid:13)(cid:10)(cid:6)(cid:22)(cid:7)(cid:8)(cid:23)(cid:1)
+## Treść ustawy
 
-**Art. 1.** W ustawie dnia 29 maja 1974 r. zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin (Dz.U. 1983 r. Nr 13, poz. 68, 1990 r. Nr 34, poz. 198 Nr 36, poz. 206, 1991 r. Nr 104, poz. 450 1992 r. Nr 21, poz. 84) w art. 11 wpro(cid:1)(cid:2)(cid:3)(cid:4)(cid:2)(cid:5)(cid:6)(cid:7)(cid:8)(cid:5)(cid:9)(cid:2)(cid:6)(cid:10)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16)(cid:5)(cid:4)(cid:17)(cid:7)(cid:2)(cid:9)(cid:18)(cid:19)
+### Art. 1.
 
-**Art. 2.** W ustawie dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 19, Nr 25, poz. 187 Nr 31, poz. 214, 1983 r. Nr 5, poz. 33, 1988 r. Nr 19, poz. 132, 1989 r. Nr 4, poz. 24 Nr 35, poz. 192, 1990 r. Nr 34, poz. 197, Nr 36, poz. 206 Nr 72, poz. 423, 1991 r. Nr 95, poz. 425 Nr 104, poz. 450 oraz 1992 r. Nr 53, poz. 252, Nr 54, poz. 254 Nr 90, poz. 451) w art. 90 ust. 1 otrzymuje brzmienie: "1. Nauczycielom, którzy w czasie okupacji prowadzili tajne nauczanie, (cid:11)(cid:25)(cid:4)(cid:18)(cid:6)&(cid:12)’(cid:12)(cid:13)(cid:16)(cid:5)(cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:16)(cid:27)(cid:5)(cid:3)(cid:24)(cid:5)(cid:16)(cid:17)(cid:16)(cid:25)(cid:18)(cid:10)(cid:12)(cid:25)(cid:18)(cid:5)(cid:26)(cid:12)((cid:5)(cid:25)(cid:16)(cid:9)(cid:10)(cid:18)(cid:5)(cid:1)(cid:5)(cid:1)(cid:18)(cid:6)(cid:24)(cid:27)(cid:24)"(cid:15)(cid:7)(cid:5)#$)(cid:5)(cid:11)(cid:25)(cid:4) e(cid:15)(cid:7)(cid:8)(cid:10)(cid:9)(cid:16)’(cid:24)(cid:5)(cid:1)(cid:18)(cid:9)(cid:2)’(cid:25)(cid:24)(cid:3)(cid:4)(cid:16)(cid:9)(cid:7)(cid:2)(cid:5)(cid:1)(cid:5)(cid:27)(cid:1)(cid:2)(cid:25)(cid:10)(cid:2)(cid:26)(cid:16)(cid:5)(cid:27)(cid:2)(cid:26)(cid:16)(cid:9)(cid:3)(cid:2)(cid:25)(cid:4)(cid:24)(cid:1)(cid:18)(cid:17)(cid:5)(cid:11)(cid:24)(cid:11)(cid:25)(cid:4)(cid:16)(cid:3)(cid:4)(cid:2)(cid:13)(cid:14)(cid:15)(cid:18)(cid:17) (cid:10)(cid:16)(cid:25)(cid:17)(cid:7)(cid:9)(cid:5)(cid:1)(cid:2)(cid:26)(cid:24)(cid:25)(cid:18)(cid:4)(cid:2)(cid:15)(cid:13)(cid:7)(cid:31)(cid:5)(cid:13)(cid:16)(cid:30)(cid:16)(cid:26)(cid:7)(cid:5)(cid:9)(cid:7)(cid:16)(cid:5)(cid:11)(cid:24)((cid:7)(cid:16)(cid:25)(cid:2)(cid:13)(cid:14)(cid:5)(cid:10)(cid:2)(cid:27)(cid:7)(cid:16)’(cid:24)(cid:5)(cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:27)(cid:12)(cid:5)(cid:4)(cid:5)(cid:7)(cid:9)(cid:9)(cid:16)’(cid:24)(cid:5)(cid:10) y(cid:10)(cid:12)&(cid:12)(cid:22)(cid:5)*(cid:17)(cid:7)(cid:2)(cid:9)(cid:2)(cid:5)(cid:1)(cid:18)(cid:6)(cid:24)(cid:27)(cid:24)"(cid:15)(cid:7)(cid:5)(cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:27)(cid:12)(cid:5)(cid:9)(cid:2)(cid:6)(cid:10)(cid:8)(cid:11)(cid:12)(cid:13)(cid:16)(cid:5)(cid:24)(cid:3)(cid:5)(cid:17)(cid:7)(cid:16)(cid:6)(cid:7)(cid:14)(cid:15)(cid:2)(cid:31)(cid:5)(cid:1)(cid:5)(cid:27)(cid:10)(cid:28)(cid:25)(cid:18)(cid:17)(cid:5)(cid:13)(cid:16)(cid:6)(cid:10) przeprowadzana waloryzacja.".
+W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin ([Dz. U. z 1983 r. Nr 13, poz. 68](https://api.sejm.gov.pl/eli/acts/DU/1983/68/text.html), z [1990 r. Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 36, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/1990/206/text.html), z [1991 r. Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html) i z [1992 r. Nr 21, poz. 84](https://api.sejm.gov.pl/eli/acts/DU/1992/84/text.html)) w art. 11 wprowadza się następujące zmiany:
 
-**Art. 3.** +(cid:5)(cid:12)(cid:6)(cid:10)(cid:2)(cid:1)(cid:7)(cid:16)(cid:5)(cid:4)(cid:5)(cid:3)(cid:9)(cid:7)(cid:2)(cid:5)(cid:21),(cid:5)(cid:6)(cid:10)(cid:18)(cid:15)(cid:4)(cid:9)(cid:7)(cid:2)(cid:5)#--#(cid:5)(cid:25)(cid:22)(cid:5)(cid:24)(cid:5)(cid:27)(cid:24)(cid:17)((cid:2)(cid:10)(cid:2)(cid:9)(cid:10)(cid:2)(cid:15)(cid:29)(cid:5)(cid:24)(cid:25)(cid:2)(cid:4)(cid:5)(cid:9)(cid:7)(cid:16)(cid:27)(cid:10)(cid:28)(cid:25)(cid:18)(cid:15)(cid:29)(cid:5)(cid:24)(cid:6)(cid:24)((cid:2)(cid:15)(cid:29)(cid:5)((cid:8)(cid:3)(cid:14) cych ofiarami represji wojennych okresu powojennego (Dz.U. Nr 17, poz. 75 Nr (cid:26)(cid:12)((cid:5)(cid:25)(cid:16)(cid:9)(cid:10)(cid:8)(cid:31)(cid:5)(cid:11)(cid:25)(cid:4)(cid:18)(cid:6)&(cid:12)’(cid:12)(cid:13)(cid:16)(cid:5)(cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:16)(cid:27)(cid:31)(cid:5)(cid:4)(cid:1)(cid:2)(cid:9)(cid:18)(cid:5)(cid:3)(cid:2)(cid:26)(cid:16)(cid:13)(cid:5)(cid:20)(cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:27)(cid:7)(cid:16)(cid:17)(cid:5)(cid:27)(cid:24)(cid:17)((cid:2)(cid:10)(cid:2)(cid:9)c(cid:27)(cid:7)(cid:17)(cid:20)(cid:31)(cid:5)(cid:1)(cid:5)(cid:1)(cid:18)(cid:6)(cid:24)(cid:27)(cid:24)"(cid:15)(cid:7)(cid:5)#$(cid:5))(cid:5)(cid:11)(cid:25)(cid:4)(cid:16)(cid:15)(cid:7)(cid:8)(cid:10)(cid:9)(cid:16)’(cid:24)(cid:5)(cid:1)(cid:18)(cid:9)(cid:2)’(cid:25)(cid:24)(cid:3)(cid:4)(cid:16)(cid:9)(cid:7)(cid:2)(cid:5)(cid:1)(cid:5)(cid:27)(cid:1)(cid:2)(cid:25)(cid:10)(cid:2)(cid:26)(cid:16)(cid:5)(cid:27)a(cid:26)(cid:16)(cid:9)(cid:3)(cid:2)(cid:25)(cid:4)(cid:24)(cid:1)(cid:18)(cid:17)(cid:5)(cid:11)(cid:24)(cid:11)(cid:25)(cid:4)(cid:16)(cid:3)(cid:4)(cid:2)(cid:13)(cid:14)(cid:15)(cid:18)(cid:17)(cid:5)(cid:10)(cid:16)(cid:25)(cid:17)(cid:7)(cid:9)(cid:5)(cid:1)(cid:2)(cid:26)(cid:24)(cid:25)(cid:18)(cid:4)(cid:2)(cid:15)(cid:13)(cid:7)(cid:22)(cid:5)*(cid:17)(cid:7)(cid:2)(cid:9)(cid:2)(cid:5)(cid:1)(cid:18)(cid:6)(cid:24)(cid:27)(cid:24)"(cid:15)(cid:7) (cid:3)(cid:24)(cid:3)(cid:2)(cid:10)(cid:27)(cid:12)(cid:5)(cid:9)(cid:2)(cid:6)(cid:10)(cid:8)(cid:11)(cid:12)(cid:13)(cid:16)(cid:5)(cid:24)(cid:3)(cid:5)(cid:17)(cid:7)(cid:16)(cid:6)(cid:7)(cid:14)(cid:15)(cid:2)(cid:31)(cid:5)(cid:1)(cid:5)(cid:27)(cid:10)(cid:28)(cid:25)(cid:18)(cid:17)(cid:5)(cid:13)(cid:16)(cid:6)(cid:10)(cid:5)(cid:11)(cid:25)(cid:4)(cid:16)(cid:11)(cid:25)(cid:24)(cid:1)(cid:2)(cid:3)(cid:4)(cid:2)(cid:9)(cid:2)(cid:5)(cid:1)(cid:2)(cid:26)oryzacja.".
+### 1)
 
-**Art. 4.** +(cid:5)(cid:12)(cid:6)(cid:10)(cid:2)(cid:1)(cid:7)(cid:16)(cid:5)(cid:4)(cid:5)(cid:3)(cid:9)(cid:7)(cid:2)(cid:5)#/(cid:5)(cid:11)(cid:2)0(cid:3)(cid:4)(cid:7)(cid:16)(cid:25)(cid:9)(cid:7)(cid:27)(cid:2)(cid:5)#--#(cid:5)(cid:25)(cid:22)(cid:5)(cid:24)(cid:5)(cid:25)(cid:16)(cid:1)(cid:2)(cid:26)(cid:24)(cid:25)(cid:18)(cid:4)(cid:2)(cid:15)(cid:13)(cid:7)(cid:5)(cid:16)(cid:17)(cid:16)(cid:25)(cid:18)(cid:10)(cid:12)(cid:25)(cid:5)(cid:7)(cid:5)(cid:25)(cid:16)(cid:9)(cid:10)(cid:31)(cid:5)(cid:24)(cid:5)(cid:4)(cid:2)(cid:6)(cid:2)(cid:3)(cid:2)(cid:15)(cid:29) ustalania emerytur rent oraz zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450, #--(cid:21)(cid:5)(cid:25)(cid:22)(cid:5)1(cid:25)(cid:5)(cid:21)#(cid:31)(cid:5)(cid:11)(cid:24)(cid:4)(cid:22)(cid:5)2,(cid:5)(cid:7)(cid:5)(cid:4)(cid:5)#--3(cid:5)(cid:25)(cid:22)(cid:5)1(cid:25)(cid:5)#(cid:21)/(cid:31)(cid:5)(cid:11)(cid:24)(cid:4)(cid:22)(cid:5) 234(cid:5)(cid:1)(cid:11)(cid:25)(cid:24)(cid:1)(cid:2)(cid:3)(cid:4)(cid:2)(cid:5)(cid:6)(cid:7)(cid:8)(cid:5)(cid:9)(cid:2)(cid:6)(cid:10)(cid:8)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16) zmiany: #4(cid:5)(cid:1)(cid:5)(cid:2)(cid:25)(cid:10)(cid:22)(cid:5)/(cid:5)(cid:1)(cid:5)(cid:12)(cid:6)(cid:10)(cid:22)(cid:5) (cid:5)(cid:1)(cid:5)(cid:11)(cid:27)(cid:10)(cid:5),(cid:5)(cid:6)(cid:27)(cid:25)(cid:16)"(cid:26)(cid:2)(cid:5)(cid:6)(cid:7)(cid:8)(cid:5)(cid:1)(cid:18)(cid:25)(cid:2)(cid:4)(cid:18)(cid:5)(cid:20)(cid:11)(cid:25)(cid:4)(cid:16)(cid:15)(cid:7)(cid:8)(cid:10)(cid:9)(cid:16)’(cid:24)(cid:5)(cid:1)(cid:18)(cid:9)(cid:2)’(cid:25)(cid:24)(cid:3)(cid:4)(cid:16)(cid:9)(cid:7)(cid:2)(cid:20)5
+ust. 2 otrzymuje brzmienie:
 
-**Art. 5.**
+„
 
-**Art. 6.** !(cid:6)(cid:10)(cid:2)(cid:1)(cid:2)(cid:5)(cid:5)(cid:1)(cid:15)(cid:29)(cid:24)(cid:3)(cid:4)(cid:7)(cid:5)(cid:1)(cid:5)(cid:30)(cid:18)(cid:15)(cid:7)(cid:16)(cid:5)(cid:4)(cid:5)(cid:3)(cid:9)(cid:7)(cid:16)(cid:17)(cid:5)#(cid:5)(cid:6)(cid:10)(cid:18)(cid:15)(cid:4)(cid:9)(cid:7)(cid:2)(cid:5)#--,(cid:5)(cid:25)(cid:22)
+### 2.
 
+Podstawę wymiaru renty inwalidzkiej ustala się od kwoty stanowiącej podstawę waloryzacji na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. Podwyższenie kwot podstawy wymiaru renty inwalidzkiej następuje od miesiąca, w którym jest przeprowadzana waloryzacja.
+
+” ,
+
+### 2)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Ustalenie wysokości renty następuje przez pomnożenie podwyższonej w myśl ust. 2 podstawy wymiaru przez stawkę wymiaru świadczenia określoną w art. 10. Realizacja podwyżki renty następuje od miesiąca, w którym jest przeprowadzana waloryzacja.
+
+”
+
+### Art. 2.
+
+W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela ([Dz. U. Nr 3, poz. 19](https://api.sejm.gov.pl/eli/acts/DU/1982/19/text.html), [Nr 25, poz. 187](https://api.sejm.gov.pl/eli/acts/DU/1982/187/text.html) i [Nr 31, poz. 214](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1988 r. Nr 19, poz. 132](https://api.sejm.gov.pl/eli/acts/DU/1988/132/text.html), z [1989 r. Nr 4, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1989/24/text.html) i [Nr 35, poz. 192](https://api.sejm.gov.pl/eli/acts/DU/1989/192/text.html), z [1990 r. Nr 34, poz. 197](https://api.sejm.gov.pl/eli/acts/DU/1990/197/text.html), [Nr 36, poz. 206](https://api.sejm.gov.pl/eli/acts/DU/1990/206/text.html) i [Nr 72, poz. 423](https://api.sejm.gov.pl/eli/acts/DU/1990/423/text.html), z [1991 r. Nr 95, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/1991/425/text.html) i [Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html) oraz z [1992 r. Nr 53, poz. 252](https://api.sejm.gov.pl/eli/acts/DU/1992/252/text.html), [Nr 54, poz. 254](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.html) i [Nr 90, poz. 451](https://api.sejm.gov.pl/eli/acts/DU/1992/451/text.html)) w art. 90 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Nauczycielom, którzy w czasie okupacji prowadzili tajne nauczanie, przysługuje dodatek do emerytury lub renty w wysokości 10% przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji, jeżeli nie pobierają takiego dodatku z innego tytułu. Zmiana wysokości dodatku następuje od miesiąca, w którym jest przeprowadzana waloryzacja.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ([Dz. U. Nr 17, poz. 75](https://api.sejm.gov.pl/eli/acts/DU/1991/75/text.html) i [Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), z [1992 r. Nr 21, poz. 85](https://api.sejm.gov.pl/eli/acts/DU/1992/85/text.html) i z [1993 r. Nr 29, poz. 133](https://api.sejm.gov.pl/eli/acts/DU/1993/133/text.html)) w art. 15 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kombatantom i innym osobom uprawnionym, pobierającym emeryturę lub rentę, przysługuje dodatek, zwany dalej „dodatkiem kombatanckim”, w wysokości 10% przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji. Zmiana wysokości dodatku następuje od miesiąca, w którym jest przeprowadzana waloryzacja.
+
+”
+
+### Art. 4.
+
+W ustawie z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw ([Dz. U. Nr 104, poz. 450](https://api.sejm.gov.pl/eli/acts/DU/1991/450/text.html), z [1992 r. Nr 21, poz. 84](https://api.sejm.gov.pl/eli/acts/DU/1992/84/text.html) i z [1993 r. Nr 127, poz. 583](https://api.sejm.gov.pl/eli/acts/DU/1993/583/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 w ust. 5 w pkt 4 skreśla się wyrazy „przeciętnego wynagrodzenia”;
+
+### 2)
+
+w art. 15:
+
+### a)
+
+ust. 3a otrzymuje brzmienie:
+
+„
+
+### 3a.
+
+W razie zbiegu okresów opłacania składek na Fundusz Emerytalny Rolników i Fundusz Ubezpieczenia Społecznego Rolników, przypadających od dnia 1 lipca 1977 r., z okresami:
+
+### 1)
+
+innego ubezpieczenia społecznego, nawet jeżeli okresy składkowe i nieskładkowe, ustalone w myśl art. 2-4, nie wymagałyby uzupełnienia w celu nabycia prawa do świadczenia,
+
+### 2)
+
+pobierania emerytury lub renty z ubezpieczenia społecznego
+
+- świadczenie ulega zwiększeniu, o którym mowa w ust. 3, za okres opłacania tych składek.
+
+” ,
+
+### b)
+
+po ust. 3a dodaje się ust. 3b i 3c w brzmieniu:
+
+„
+
+### 3b.
+
+Zwiększeniu, o którym mowa w ust. 3, za okres opłacania składek na Fundusz Emerytalny Rolników, Fundusz Ubezpieczenia Społecznego Rolników i ubezpieczenie emerytalno-rentowe rolników ulega również świadczenie, nawet jeżeli okresy składkowe i nieskładkowe nie wymagałyby uzupełnienia w celu nabycia tego świadczenia.
+
+### 3c.
+
+Zwiększenie, o którym mowa w ust. 3a i 3b, przyznaje się na wniosek zainteresowanego.
+
+” ,
+
+### c)
+
+w ust. 5 wyrazy „ust. 1-3a” zastępuje się wyrazami „ust. 1-3b”;
+
+### 3)
+
+w art. 16 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Kwoty najniższych emerytur i rent - bez uwzględnienia dodatków, o których mowa w art. 21 - wynoszą:
+
+### 1)
+
+39% przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji - w przypadku emerytury, renty rodzinnej i renty inwalidzkiej dla inwalidy I lub II grupy,
+
+### 2)
+
+30% przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji - w przypadku renty inwalidzkiej dla inwalidy III grupy.
+
+” ;
+
+### 4)
+
+w art. 17:
+
+### a)
+
+w ust. 1 skreśla się wyrazy „zwany dalej wskaźnikiem waloryzacji”,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Ustalenie wysokości zwaloryzowanej emerytury i renty następuje przez jej obliczenie od kwoty wynoszącej od dnia 1 stycznia 1994 r. 91% przeciętnego wynagrodzenia, a od terminu drugiej waloryzacji w 1994 r. - co najmniej 93% tego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji przy zastosowaniu wskaźnika wysokości świadczenia.
+
+” ;
+
+### 5)
+
+w art. 18 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Prezes Zakładu Ubezpieczeń Społecznych ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do 14 roboczego dnia drugiego miesiąca każdego kwartału, kwotę najniższej emerytury i renty, jeżeli został spełniony warunek do waloryzacji, o którym mowa w art. 17 ust. 1.
+
+” ;
+
+### 6)
+
+w art. 21 w ust. 4 po wyrazach „ust. 1” dodaje się wyrazy „oraz w art. 15 ust. 3-3b”;
+
+### 7)
+
+w art. 22 w ust. 1 i 2 oraz w art. 34 wyrazy „przeciętnego wynagrodzenia stanowiącego podstawę ostatnio przeprowadzonej waloryzacji” zastępuje się wyrazami „przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji”;
+
+### 8)
+
+w art. 24:
+
+### a)
+
+w ust. 3 i 7 wyrazy „kwoty bazowej” zastępuje się wyrazami „przeciętnego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego,”
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W razie osiągania wynagrodzenia lub dochodu z tytułów, o których mowa w ust. 1 i 2, w kwocie przekraczającej 60% kwoty przeciętnego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, nie wyższej jednak niż 120% tej kwoty, emerytura i renta inwalidzka dla inwalidów I i II grupy ulega zmniejszeniu o kwotę przekroczenia, nie większą niż określona w art. 10 ust. 1 pkt 1, a renta inwalidzka dla inwalidów III grupy - o kwotę przekroczenia, lecz nie więcej niż 75% kwoty określonej w art. 10 ust. 1 pkt 1.
+
+”
+
+### Art. 5.
+
+W okresie od dnia 1 stycznia 1994 r. do czasu przeprowadzenia pierwszej waloryzacji w 1994 r. najniższe emerytury i renty ustala się od kwoty przeciętnego wynagrodzenia w trzecim kwartale 1993 r.
+
+### Art. 6.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1994 r.

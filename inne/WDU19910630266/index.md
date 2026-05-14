@@ -8,11 +8,9 @@ pos: 266
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o Krajowej Szkole Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego
-
-*USTAWA z dnia 14 czerwca 1991 r.*
+# Ustawa z dnia 14 czerwca 1991 r. o Krajowej Szkole Administracji Publicznej
 
 | Pole | Wartość |
 |---|---|
@@ -23,162 +21,123 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1991-06-14 |
 | Data wydania | 1991-07-15 |
-| Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910630266) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/266/text.pdf) |
+| Ostatnia zmiana | 2026-05-12 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1991/266/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1991/266) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Krajowa Szkoła Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwana dalej „Szkołą”, jest państwową jednostką organizacyjną, posiadającą osobowość prawną, z siedzibą Warszawie.
+### Art. 1.
 
-2. Zadaniem Szkoły jest szczególności:
+### 1.
 
-- **1)** kształcenie i profesjonalizacja kadr administracji publicznej, przygotowywanie wykwalifikowanych kadr dla administracji publicznej, tym do pełnienia funkcji kierowniczych, szczególności przez kształcenie stacjonarne i kształcenie dualne;
-- **2)** zaspokajanie potrzeb administracji publicznej zakresie doskonalenia zawodowego, szczególności przez organizację szkoleń i innych form kształcenia;
-- **3)** wspieranie profesjonalizacji administracji publicznej, szczególności przez weryfikację kompetencji wykorzystywanych administracji publicznej;
-- **4)** prowadzenie działalności badawczej, analitycznej, rozwojowej i wydawniczej oraz współpracy międzynarodowej zakresie zadań, o których mowa pkt 1– 3;
-- **5)** wykorzystywanie funduszy pozyskanych na finansowanie zadań, o których mowa pkt 1–4;
-- **6)** współdziałanie z podmiotami, o których mowa art. 7 ust. 1 pkt 1, 2 i 4– 8 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce działalności Szkoły.
+Krajową Szkołę Administracji Publicznej, utworzoną na podstawie przepisów o jednostkach badawczo-rozwojowych, przekształca się w państwową jednostkę organizacyjną pod nazwą „Krajowa Szkoła Administracji Publicznej”, z siedzibą w Warszawie.
 
-3. Szkoła ma prawo używania pieczęci urzędowej, o której mowa art. 16c ust. 1 ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2019 r. poz. 1509).
+### 2.
 
-**Art. 2.**
+Zadaniem Krajowej Szkoły Administracji Publicznej, zwanej dalej „Szkołą”, jest kształcenie i przygotowywanie do służby publicznej kadr wyższych urzędników administracji Rzeczypospolitej Polskiej.
 
-1. Prezes Rady Ministrów, drodze rozporządzenia, nadaje Szkole statut określający jej ustrój i organizację, zakres działania, zasady kształcenia, prawa i obowiązki słuchaczy oraz inne sprawy dotyczące jej działania, nieuregulowane ustawie, uwzględniając rolę szkoły systemie administracji państwa.
+### 3.
 
-2. Szkołą kieruje i reprezentuje ją na zewnątrz dyrektor Szkoły, powoływany i odwoływany przez Prezesa Rady Ministrów.
+Szkoła ma osobowość prawną.
 
-3. Prezes Rady Ministrów sprawuje nadzór nad Szkołą zakresie zgodności jej działania z przepisami ustawowymi i statutem.
+### Art. 2.
 
-**Art. 3.** Do mienia i finansów Szkoły stosuje się odpowiednio przepisy dotyczące uczelni publicznych. Uprawnienia ministra właściwego rozumieniu tych przepisów odniesieniu do Szkoły wykonuje Prezes Rady Ministrów.
+### 1.
 
-**Art. 3a.**
+Ustrój i organizację Szkoły, zakres działania, zasady kształcenia, prawa i obowiązki słuchaczy oraz inne sprawy dotyczące jej działania, nie uregulowane w ustawie, określa statut. Statut nadaje Szkole Prezes Rady Ministrów.
 
-1. Dysponent części budżetowej może zlecić Szkole realizację szkolenia dla pracowników urzędu obsługującego dysponenta lub jednostek podległych temu dysponentowi lub nadzorowanych przez niego.
+### 2.
 
-2. Szef Służby Cywilnej może zlecić Szkole realizację szkoleń centralnych, o których mowa art. 106 ust. 2 pkt 1 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2022 r. poz. 1691 oraz z 2023 r. poz. 1195).
+Szkołą kieruje i reprezentuje ją na zewnątrz dyrektor Szkoły, powoływany i odwoływany przez Prezesa Rady Ministrów.
 
-3. Zlecenie szkolenia, o którym mowa ust. 2, następuje po wcześniejszym zawarciu porozumienia między dyrektorem Szkoły a Szefem Służby Cywilnej, określającego zakres, warunki i tryb realizacji szkolenia.
+### 3.
 
-4. Na realizację szkoleń, o których mowa ust. 1 i 2, Szkoła może otrzymać dotację celową ze środków, o których mowa art. 111 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, lub ze środków pochodzących z części budżetowej będącej dyspozycji właściwego dysponenta części budżetowej.
+Prezes Rady Ministrów sprawuje nadzór nad Szkołą w zakresie zgodności jej działania z przepisami ustawowymi i statutem.
 
-**Art. 3b.**
+### Art. 3.
 
-1. Szkoła tworzy fundusz rezerwowy na finansowanie lub dofinansowanie kosztów realizacji inwestycji.
+Do mienia i finansów Szkoły stosuje się odpowiednio przepisy dotyczące państwowych szkół wyższych. Ministrem właściwym w rozumieniu tych przepisów w odniesieniu do Szkoły jest Minister - Szef Urzędu Rady Ministrów.
 
-2. Fundusz rezerwowy tworzy się z przychodów własnych Szkoły. kosztów operacyjnych.
+### Art. 4.
 
-4. Utworzenie odpisu nie może powodować, że dany rok obrotowy Szkoła zakończy stratą netto.
+### 1.
 
-5. Wysokość odpisu danym roku obrotowym nie może przekroczyć poziomu 5% przyznanej dotacji podmiotowej.
+Słuchacze Szkoły są wyłaniani w drodze postępowania rekrutacyjnego spośród osób posiadających ukończone studia wyższe.
 
-**Art. 4.**
+### 2.
 
-1. Szkoła prowadzi kształcenie trybie stacjonarnym lub trybie dualnym.
+Zasady i tryb przeprowadzania postępowania rekrutacyjnego oraz powoływania komisji rekrutacyjnej określa statut Szkoły; decyzje komisji rekrutacyjnej są ostateczne.
 
-2. Tryb stacjonarny polega na prowadzeniu kształcenia sposób ciągły.
+### Art. 5.
 
-3. Tryb dualny polega na prowadzeniu kształcenia i świadczeniu pracy sposób naprzemienny.
+### 1.
 
-4. Uczestnicy kształcenia stacjonarnego oraz kształcenia dualnego, zwani dalej „słuchaczami”, są wyłaniani drodze postępowania rekrutacyjnego. Warunki, jakie muszą spełniać kandydaci na słuchaczy, oraz zasady i tryb postępowania rekrutacyjnego określa statut Szkoły.
+Słuchacze Szkoły składają zobowiązanie do podjęcia i wykonywania, przez okres nie krótszy niż pięć lat od. daty jej ukończenia, pracy w urzędach administracji na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów.
 
-5. Prezes Rady Ministrów, na wniosek dyrektora Szkoły, rozstrzyga do końca czerwca każdego roku, którym trybie słuchacze rozpoczną kształcenie kolejnym roku, uwzględniając aktualne potrzeby administracji publicznej.
+### 2.
 
-6. Uczestnicy szkoleń oraz innych form kształcenia organizowanych przez Szkołę są wyłaniani drodze naboru, którego zasady określa każdorazowo dyrektor Szkoły.
+Słuchacze Szkoły odbywający w urzędzie administracji praktykę wykonują zadania przewidziane dla urzędników tego urzędu.
 
-**Art. 5.**
+### Art. 6.
 
-1. Słuchacze Szkoły składają zobowiązanie do wykonywania pracy urzędach administracji publicznej:
+### 1.
 
-- **1)** przez okres pięciu lat od daty ukończenia kształcenia – przypadku kształcenia stacjonarnego;
-- **2)** przez okres trzech lat od daty ukończenia kształcenia – przypadku kształcenia dualnego.
+W okresie kształcenia słuchacze Szkoły otrzymują stypendium.
 
-2. Słuchacze Szkoły odbywający praktykę urzędzie administracji publicznej wykonują zadania przewidziane dla urzędników tego urzędu.
+### 2.
 
-3. Absolwenci kształcenia stacjonarnego podejmują zatrudnienie na stanowiskach postawionych im do dyspozycji przez Prezesa Rady Ministrów. Szkoła jest uprawniona do żądania od absolwentów i ich pracodawców dokumentów i informacji potwierdzających zatrudnienie.
+Urzędnicy na okres kształcenia w Szkole otrzymują urlop bezpłatny w urzędzie.
 
-**Art. 6.**
+### 3.
 
-1. Słuchacz Szkoły otrzymuje stypendium:
+Słuchacze Szkoły oraz ich niepracujący współmałżonkowie i dzieci są uprawnieni do korzystania ze świadczeń zakładów społecznej służby zdrowia na zasadach ustalonych dla pracowników i ich rodzin.
 
-- **1)** miesięczne – przypadku kształcenia stacjonarnego;
-- **2)** proporcjonalne do liczby dni zajęć organizowanych przez Szkołę danym miesiącu – przypadku kształcenia dualnego.
+### 4.
 
-1a. Stypendium nie przysługuje:
+Okres kształcenia w Szkole traktuje się jako okres równorzędny z okresem zatrudnienia, w rozumieniu przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin.
 
-- **1)** za dni nieusprawiedliwionej nieobecności słuchacza na zajęciach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć okresie miesiąca kalendarzowego;
-- **2)** za dni usprawiedliwionej nieobecności słuchacza na zajęciach z przyczyn innych niż wynikające ze stanu zdrowia, jeżeli okres tej nieobecności przekracza:
-    - **a)** przypadku kształcenia stacjonarnego – 7 dni zajęć okresie miesiąca kalendarzowego,
-    - **b)** przypadku kształcenia dualnego – 2 dni zajęć okresie miesiąca kalendarzowego.
+### 5.
 
-2. Słuchacze kształcenia dualnego otrzymują u pracodawcy urlop bezpłatny na dni zajęć organizowanych przez Szkołę.
+Absolwentom Szkoły okres kształcenia w tej Szkole zalicza się w zakresie wszelkich uprawnień pracowniczych, z wyjątkiem przypadków, gdy absolwent został zobowiązany do zwrotu stypendium i innych kosztów kształcenia.
 
-3. Słuchacze Szkoły oraz ich niepracujący współmałżonkowie i dzieci są uprawnieni do korzystania ze świadczeń zakładów społecznej służby zdrowia na zasadach ustalonych dla pracowników i ich rodzin.
+### Art. 7.
 
-4. (uchylony)
+W razie skreślenia z listy słuchaczy decyzją dyrektora Szkoły albo niepodjęcia pracy w urzędach administracji, a także w razie rezygnacji z niej w okresie, o którym mowa w art. 5 ust. 1, stypendium oraz inne koszty kształcenia podlegają w całości lub w części zwrotowi, z zastrzeżeniem art. 8 pkt 2. Decyzję w tych sprawach podejmuje Minister - Szef Urzędu Rady Ministrów.
 
-5. Absolwentom Szkoły okres kształcenia tej Szkole zalicza się zakresie wszelkich uprawnień pracowniczych, z wyjątkiem przypadków, gdy absolwent został zobowiązany do zwrotu stypendium i innych kosztów kształcenia.
+### Art. 8.
 
-**Art. 6a.**
+Minister-Szef Urzędu Rady Ministrów, w drodze rozporządzenia, określa:
 
-1. Słuchacz przebywający poza granicami kraju związku z odbywaniem zajęć wynikających z toku kształcenia otrzymuje:
+### 1)
 
-- **1)** 25% kwoty stypendium za dni odbywania zajęć; na wyłącznym utrzymaniu słuchacza;
-- **3)** środki na pokrycie kosztów utrzymania za granicą.
+zasady wynagradzania pracowników Szkoły i przyznawania im innych świadczeń oraz wymagane kwalifikacje,
 
-2. Świadczenia określone ust. 1 nie przysługują albo ulegają obniżeniu, jeżeli koszty związane z odbywaniem zajęć wynikających z toku kształcenia pokrywa, całości lub części inny podmiot.
+### 2)
 
-**Art. 6b.** Za członków rodziny słuchacza uważa się małżonka, dzieci własne, dzieci przysposobione oraz inne osoby pozostające ze słuchaczem we wspólnym gospodarstwie domowym, a także osoby, na rzecz których słuchacz został zobowiązany orzeczeniem sądowym lub ugodą zawartą przed sądem do świadczeń alimentacyjnych.
+wysokość, szczegółowe zasady i tryb ustalania, wypłacania oraz zwrotu stypendium i innych kosztów kształcenia, a także przypadki, w których stypendium i inne koszty nie podlegają zwrotowi lub podlegają zwrotowi w części.
 
-**Art. 7.**
+### Art. 9.
 
-1. W przypadku skreślenia słuchacza z listy słuchaczy z przyczyn leżących po stronie słuchacza wypłacone stypendium oraz wypłacone koszty utrzymania za granicą podlegają zwrotowi całości.
+### 1.
 
-2. W przypadku rozwiązania stosunku pracy, o której mowa art. 5 ust. 1, koszty kształcenia liczone jako stypendium podwójnej wysokości oraz koszty utrzymania za granicą:
+Z dniem wejścia w życie ustawy:
 
-- **1)** podlegają zwrotowi części proporcjonalnej do liczby dni nieprzepracowanych – jeżeli rozwiązanie stosunku pracy nastąpiło z przyczyn leżących po stronie absolwenta lub drodze porozumienia stron;
-- **2)** nie podlegają zwrotowi – jeżeli rozwiązanie stosunku pracy nastąpiło z przyczyn leżących po stronie pracodawcy.
+### 1)
 
-**Art. 7a.** Koszty, o których mowa art. 7, nie podlegają zwrotowi przypadku:
+mienie Krajowej Szkoły Administracji Publicznej, utworzonej uchwałą nr 74 Rady Ministrów z dnia 30 maja 1990 r. w sprawie utworzenia Krajowej Szkoły Administracji Publicznej ([Monitor Polski Nr 21, poz. 167](https://api.sejm.gov.pl/eli/acts//text.html)), staje się mieniem Szkoły,
 
-**Art. 7b.**
+### 2)
 
-1. Zwrot stypendium albo kosztów kształcenia następuje na podstawie decyzji dyrektora Szkoły. W decyzji dyrektor określa wysokość i termin zwrotu nie krótszy niż 30 dni od dnia doręczenia decyzji.
+pracownicy Krajowej Szkoły Administracji Publicznej, o której mowa w pkt 1, stają się pracownikami Szkoły,
 
-2. Środki z tytułu zwrotu stypendium albo zwrotu kosztów kształcenia, o których mowa ust. 1, stanowią przychód Szkoły.
+### 3)
 
-3. W szczególnych przypadkach, uzasadnionych względami ekonomicznymi lub społecznymi, dyrektor Szkoły może umorzyć całości lub części słuchaczowi albo absolwentowi Szkoły należność z tytułu zwrotu stypendium albo kosztów kształcenia.
+słuchacze wyłonieni w 1991 r. w drodze postępowania rekrutacyjnego do Krajowej Szkoły Administracji Publicznej, o której mowa w pkt 1, stają się słuchaczami Szkoły.
 
-4. Od decyzji dyrektora Szkoły, o których mowa ust. 1 i 3, służy odwołanie do Prezesa Rady Ministrów.
+### 2.
 
-5. W sprawach egzekucji należności, o których mowa ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2022 r. poz. 479, z późn. zm. ).
+W 1991 r. finansowanie działalności Szkoły jest realizowane w ramach przyznanych na ten rok środków.
 
-**Art. 8.** (uchylony)
+### Art. 10.
 
-**Art. 8a.** Prezes Rady Ministrów określi, drodze rozporządzenia:
-
-**Art. 8b.**
-
-1. Pracownikowi Szkoły przysługuje miesięczne wynagrodzenie zasadnicze za pracę stosownie do zajmowanego stanowiska i posiadanych kwalifikacji zawodowych oraz dodatek funkcyjny z tytułu zajmowanego stanowiska lub pełnionej funkcji.
-
-2. Pracownikowi Szkoły przysługuje również dodatek za wieloletnią pracę, nagroda jubileuszowa oraz dodatkowe wynagrodzenie roczne na zasadach określonych odpowiednio art. 90 ust. 1 i 2, art. 91 ust. 1 i 2 oraz art. 92 ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
-
-3. Pracownikowi Szkoły przysługuje jednorazowa odprawa związku z przejściem na emeryturę lub rentę z tytułu niezdolności do pracy wysokości trzykrotnego ostatnio pobieranego miesięcznego wynagrodzenia zasadniczego, nie mniejszej jednak niż wysokości jednomiesięcznego wynagrodzenia pracownika, obliczonego jak ekwiwalent pieniężny za urlop wypoczynkowy.
-
-**Art. 8c.** Pracownikowi Szkoły może zostać przyznany, na czas określony, dodatek służbowy. Wysokość dodatku służbowego uzależnia się od charakteru i złożoności powierzonych obowiązków.
-
-**Art. 8d.**
-
-1. W ramach posiadanych przez Szkołę środków na wynagrodzenia może być tworzony fundusz premiowy, z przeznaczeniem na premie dla pracowników Szkoły. premii określa zakładowy regulamin premiowania.
-
-**Art. 8e.**
-
-1. Pracownikowi Szkoły, za szczególne osiągnięcia pracy zawodowej może zostać przyznana nagroda.
-
-2. Tworzy się fundusz nagród wysokości 1% planowanych rocznych wynagrodzeń osobowych.
-
-**Art. 8f.** Prezes Rady Ministrów określi, drodze rozporządzenia:
-
-**Art. 9.** (pominięty)
-
-**Art. 10.** Ustawa wchodzi życie z dniem ogłoszenia .
-
+Ustawa wchodzi w życie z dniem ogłoszenia.

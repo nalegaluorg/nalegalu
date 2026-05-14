@@ -8,11 +8,9 @@ pos: 1843
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o skardze na naruszenie prawa strony do rozpoznania sprawy postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki
-
-*USTAWA z dnia 17 czerwca 2004 r.*
+# Ustawa z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu sądowym bez nieuzasadnionej zwłoki
 
 | Pole | Wartość |
 |---|---|
@@ -24,155 +22,234 @@ domain: null
 | Data ogłoszenia | 2004-06-17 |
 | Data wydania | 2004-08-16 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041791843) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1843/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/1843/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/1843) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustawa reguluje zasady i tryb wnoszenia oraz rozpoznawania skargi strony, której prawo do rozpoznania sprawy bez nieuzasadnionej zwłoki zostało naruszone na skutek działania lub bezczynności sądu lub prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze.
+### Art. 1.
 
-2. Przepisy ustawy stosuje się odpowiednio, gdy na skutek działania lub bezczynności sądu albo komornika sądowego doszło do naruszenia prawa strony do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego.
+### 1.
 
-3. Przepisy ustawy stosuje się zgodnie ze standardami wynikającymi z Konwencji o ochronie praw człowieka i podstawowych wolności, sporządzonej Rzymie dnia 4 listopada 1950 r. (Dz. U. z 1993 r. poz. 284, z późn. zm. ).
+Ustawa reguluje zasady i tryb wnoszenia oraz rozpoznawania skargi strony, której prawo do rozpoznania sprawy bez nieuzasadnionej zwłoki zostało naruszone na skutek działania lub bezczynności sądu.
 
-**Art. 2.**
+### 2.
 
-1. Strona może wnieść skargę o stwierdzenie, że postępowaniu, którego skarga dotyczy, nastąpiło naruszenie jej prawa do rozpoznania sprawy bez nieuzasadnionej zwłoki, jeżeli postępowanie zmierzające do wydania rozstrzygnięcia kończącego postępowanie sprawie trwa dłużej niż to konieczne dla wyjaśnienia istotnych okoliczności faktycznych i prawnych albo dłużej niż to konieczne do załatwienia sprawy egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego (przewlekłość postępowania).
+Przepisy ustawy stosuje się odpowiednio, gdy na skutek działania lub bezczynności sądu albo komornika sądowego doszło do naruszenia prawa strony do przeprowadzenia i zakończenia bez nieuzasadnionej zwłoki sprawy egzekucyjnej lub innej sprawy dotyczącej wykonania orzeczenia sądowego.
 
-1a. Przepis ust. 1 stosuje się odpowiednio do postępowania przygotowawczego.
+### Art. 2.
 
-1b. Przepisu ust. 1 nie stosuje się sprawach, o których mowa art. 1 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818), chyba że dotyczą one obowiązku naprawienia szkody, zadośćuczynienia za doznaną krzywdę lub nawiązki orzeczonej na rzecz pokrzywdzonego.
+### 1.
 
-2. Dla stwierdzenia, czy sprawie doszło do przewlekłości postępowania, należy szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd celu wydania rozstrzygnięcia kończącego postępowanie sprawie albo czynności podjętych przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze celu zakończenia postępowania przygotowawczego lub czynności podjętych przez sąd lub komornika sądowego celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego. Dokonując tej oceny, uwzględnia się łączny dotychczasowy czas postępowania od jego wszczęcia do chwili rozpoznania skargi, niezależnie od tego, na jakim etapie skarga została wniesiona, a także charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych niej zagadnień oraz zachowanie się stron, a szczególności strony, która zarzuciła przewlekłość postępowania.
+Strona może wnieść skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiło naruszenie jej prawa do rozpoznania sprawy bez nieuzasadnionej zwłoki, jeżeli postępowanie w tej sprawie trwa dłużej, niż to konieczne dla wyjaśnienia tych okoliczności faktycznych i prawnych, które są istotne dla rozstrzygnięcia sprawy, albo dłużej niż to konieczne do załatwienia sprawy egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego (przewlekłość postępowania).
 
-**Art. 3.** Uprawnionym do wniesienia skargi jest:
+### 2.
 
-**Art. 4.**
+Dla stwierdzenia, czy w sprawie doszło do przewlekłości postępowania, należy w szczególności ocenić terminowość i prawidłowość czynności podjętych przez sąd w celu wydania w sprawie rozstrzygnięcia co do istoty lub czynności podjętych przez sąd lub komornika sądowego w celu przeprowadzenia i zakończenia sprawy egzekucyjnej albo innej sprawy dotyczącej wykonania orzeczenia sądowego, uwzględniając charakter sprawy, stopień faktycznej i prawnej jej zawiłości, znaczenie dla strony, która wniosła skargę, rozstrzygniętych w niej zagadnień oraz zachowanie się stron, a w szczególności strony, która zarzuciła przewlekłość postępowania.
 
-1. Sądem właściwym do rozpoznania skargi jest sąd przełożony nad sądem, przed którym toczy się postępowanie.
+### Art. 3.
 
-1a. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem rejonowym i sądem okręgowym – właściwy do jej rozpoznania całości jest sąd apelacyjny.
+Uprawnionym do wniesienia skargi jest:
 
-1b. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem okręgowym i sądem apelacyjnym – właściwy do jej rozpoznania całości jest sąd apelacyjny.
+### 1)
 
-2. Jeżeli skarga dotyczy przewlekłości postępowania przed sądem apelacyjnym lub Sądem Najwyższym – właściwy do jej rozpoznania jest Sąd Najwyższy.
+w postępowaniu w sprawach o przestępstwa skarbowe i wykroczenia skarbowe - strona;
 
-3. Jeżeli skarga dotyczy przewlekłości postępowania przed wojewódzkim sądem administracyjnym lub Naczelnym Sądem Administracyjnym – właściwy do jej rozpoznania jest Naczelny Sąd Administracyjny.
+### 2)
 
-4. Sądem właściwym do rozpoznania skargi dotyczącej przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego jest sąd okręgowy, którego okręgu prowadzona jest egzekucja lub wykonywane są inne czynności, a gdy egzekucja lub inne postępowanie dotyczące wykonania orzeczenia sądowego prowadzone jest dwu lub więcej okręgach – sąd, okręgu którego dokonano pierwszej czynności.
+w postępowaniu w sprawach o wykroczenia - strona;
 
-5. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, właściwy do jej rozpoznania jest sąd przełożony nad sądem, który byłby właściwy rzeczowo do rozpoznania sprawy.
+### 3)
 
-6. Jeżeli skarga dotyczy przewlekłości postępowania sprawach o przestępstwa skarbowe i wykroczenia skarbowe lub postępowania karnego, które toczy się przed sądem – sąd właściwy według przepisów ust. 1–2 jest właściwy do rozpoznania skargi także zakresie przewlekłości postępowania przygotowawczego.
+w postępowaniu w przedmiocie odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary - strona lub wnioskodawca;
 
-**Art. 5.**
+### 4)
 
-1. Skargę o stwierdzenie, że postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania, wnosi się toku postępowania sprawie.
+w postępowaniu karnym - strona oraz pokrzywdzony, nawet jeśli nie jest stroną;
 
-2. Skargę składa się do sądu, przed którym toczy się postępowanie.
+### 5)
 
-3. Skargę dotyczącą przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego wnosi się do sądu, o którym mowa art. 4 ust. 4.
+w postępowaniu cywilnym - strona, interwenient uboczny i uczestnik postępowania;
 
-4. Skargę dotyczącą przewlekłości postępowania przygotowawczego wnosi się do prokuratora prowadzącego lub nadzorującego to postępowanie.
+### 6)
 
-**Art. 6.**
+w postępowaniu sądowo-administracyjnym - skarżący oraz uczestnik postępowania na prawach strony;
 
-1. Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego.
+### 7)
 
-2. Skarga powinna ponadto zawierać:
+w postępowaniu egzekucyjnym oraz w innym postępowaniu dotyczącym wykonania orzeczenia sądowego - strona oraz inna osoba realizująca swoje uprawnienia w tym postępowaniu.
 
-- **1)** żądanie stwierdzenia przewlekłości postępowania sprawie, której skarga dotyczy;
-- **2)** przytoczenie okoliczności uzasadniających żądanie.
+### Art. 4.
 
-3. Skarga może zawierać żądanie wydania sądowi rozpoznającemu sprawę albo prokuratorowi prowadzącemu lub nadzorującemu postępowanie przygotowawcze zalecenia podjęcia wyznaczonym terminie odpowiednich czynności oraz zasądzenia odpowiedniej sumy pieniężnej, o której mowa art. 12 ust. 4.
+### 1.
 
-4. W prowadzonym przed Sądem Najwyższym postępowaniu ze skargi dotyczącej przewlekłości postępowania przed sądem apelacyjnym zastępstwo strony przez adwokata lub radcę prawnego nie jest wymagane.
+Sądem właściwym do rozpoznania skargi jest sąd przełożony nad sądem, przed którym toczy się postępowanie.
 
-**Art. 7.** Sąd lub prokurator, do którego wniesiono skargę, przedstawia ją niezwłocznie sądowi właściwemu wraz z aktami sprawy, której toczy się postępowanie.
+### 2.
 
-**Art. 8.**
+Jeżeli skarga dotyczy przewlekłości postępowania przed sądem apelacyjnym lub Sądem Najwyższym - właściwy do jej rozpoznania jest Sąd Najwyższy.
 
-1. Sąd rozpoznaje skargę składzie trzech sędziów.
+### 3.
 
-2. W sprawach nieuregulowanych ustawie do postępowania toczącego się na skutek skargi sąd stosuje odpowiednio przepisy o postępowaniu zażaleniowym obowiązujące postępowaniu, którego skarga dotyczy.
+Jeżeli skarga dotyczy przewlekłości postępowania przed wojewódzkim sądem administracyjnym lub Naczelnym Sądem Administracyjnym - właściwy do jej rozpoznania jest Naczelny Sąd Administracyjny.
 
-**Art. 9.**
+### 4.
 
-1. Skargę niespełniającą wymagań przewidzianych art. 6 ust. 2 sąd właściwy do jej rozpoznania odrzuca bez wzywania do uzupełnienia braków.
+Sądem właściwym do rozpoznania skargi dotyczącej przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego jest sąd okręgowy, w którego okręgu prowadzona jest egzekucja lub wykonywane są inne czynności, a gdy egzekucja lub inne postępowanie dotyczące wykonania orzeczenia sądowego prowadzone jest w dwu lub więcej okręgach - sąd, w okręgu którego dokonano pierwszej czynności.
 
-2. Sąd odrzuca skargę wniesioną przez nieuprawnionego albo niedopuszczalną na podstawie art. 14 ust. 1.
+### Art. 5.
 
-**Art. 10.**
+### 1.
 
-1. Sąd właściwy do rozpoznania skargi zawiadamia o toczącym się postępowaniu Skarb Państwa – prezesa tego sądu, którego działanie lub bezczynność według twierdzeń skarżącego spowodowało przewlekłość postępowania, doręczając mu odpis skargi.
+Skargę o stwierdzenie, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania, wnosi się w toku postępowania w sprawie.
 
-2. Jeżeli skarga dotyczy przewlekłości postępowania prowadzonego przez komornika sądowego, sąd zawiadamia komornika oraz Skarb Państwa – prezesa tego sądu rejonowego, przy którym działa komornik, doręczając im odpis skargi.
+### 2.
 
-2a. Jeżeli skarga dotyczy przewlekłości postępowania przygotowawczego, sąd właściwy zawiadamia Skarb Państwa – prokuratora przełożonego nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze, doręczając mu odpis skargi.
+Skargę składa się do sądu, przed którym toczy się postępowanie.
 
-3. Skarbowi Państwa oraz komornikowi, razie zgłoszenia udziału sprawie, przysługują prawa strony zakresie rozpoznania skargi.
+### 3.
 
-**Art. 11.** Sąd wydaje orzeczenie terminie dwóch miesięcy, licząc od daty złożenia skargi.
+Skargę dotyczącą przewlekłości postępowania egzekucyjnego lub innego postępowania dotyczącego wykonania orzeczenia sądowego wnosi się do sądu, o którym mowa w art. 4 ust. 4.
 
-**Art. 12.**
+### Art. 6.
 
-1. Skargę niezasadną sąd oddala.
+### 1.
 
-2. Uwzględniając skargę, sąd stwierdza, że postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania.
+Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego.
 
-3. Na żądanie skarżącego lub z urzędu sąd zaleca podjęcie przez sąd rozpoznający sprawę co do istoty albo przez prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze odpowiednich czynności wyznaczonym terminie, chyba że wydanie zaleceń jest oczywiście zbędne. Zalecenia nie mogą wkraczać zakres oceny faktycznej i prawnej sprawy.
+### 2.
 
-4. Uwzględniając skargę, sąd na żądanie skarżącego przyznaje od Skarbu Państwa, a przypadku skargi na przewlekłość postępowania prowadzonego przez komornika sądowego – od komornika sądowego, sumę pieniężną wysokości od 2000 do 20 000 złotych. Wysokość sumy pieniężnej, granicach wskazanych zdaniu pierwszym, wynosi nie mniej niż 500 złotych za każdy rok dotychczasowego trwania postępowania, niezależnie od tego, ilu etapów postępowania dotyczy stwierdzona przewlekłość postępowania. Sąd może przyznać sumę pieniężną wyższą niż 500 złotych za każdy rok dotychczasowego trwania postępowania, jeżeli sprawa ma szczególne znaczenie dla skarżącego, który swoją postawą nie przyczynił się sposób zawiniony do wydłużenia czasu trwania postępowania. Na poczet tej sumy zalicza się kwoty przyznane już skarżącemu tytułem sumy pieniężnej tej samej sprawie. Przyznając skarżącemu sumę pieniężną, sąd wskazuje, jakiego okresu przewlekłości postępowania ona dotyczy. Sumy pieniężnej nie przyznaje się razie uwzględnienia skargi wniesionej przez Skarb Państwa albo państwowe jednostki sektora finansów publicznych.
+Skarga powinna ponadto zawierać:
 
-5. W przypadku przyznania sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje:
+### 1)
 
-- **1)** sąd prowadzący postępowanie, którym nastąpiła przewlekłość postępowania – ze środków własnych tego sądu;
-- **2)** jednostka organizacyjna prokuratury, której trakcie prowadzenia postępowania przygotowawczego nastąpiła przewlekłość postępowania, a odniesieniu do postępowania przygotowawczego prowadzonego prokuraturze rejonowej – właściwa prokuratura okręgowa – ze środków własnych tej jednostki.
+żądanie stwierdzenia przewlekłości postępowania w sprawie, której skarga dotyczy;
 
-6. W sytuacji przyznania sumy pieniężnej przypadku, o którym mowa art. 4 ust. 1a, wypłaty dokonuje sąd okręgowy, a przypadku, o którym mowa art. 4 ust. 1b, wypłaty dokonuje sąd apelacyjny – ze środków własnych tego sądu.
+### 2)
 
-7. Jeżeli do przewlekłości postępowania doszło postępowaniu przed więcej niż jednym organem, przyznając sumę pieniężną, sąd wskazuje, jakiej części wypłaty dokonuje dany organ.
+przytoczenie okoliczności uzasadniających żądanie.
 
-**Art. 13.**
+### 3.
 
-1. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania sądowego sąd doręcza prezesowi właściwego sądu. Prezes sądu, któremu doręczono orzeczenie, jest obowiązany do podjęcia czynności nadzoru przewidzianych ustawie z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z 2022 r. poz. 2642 oraz z 2023 r. poz. 289, 614, 1030 i 1429).
+Skarga może zawierać żądanie wydania sądowi rozpoznającemu sprawę zalecenia podjęcia w wyznaczonym terminie odpowiednich czynności oraz zasądzenia odpowiedniej sumy pieniężnej, o której mowa w art. 12 ust. 4.
 
-2. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania prowadzonego przez komornika sąd doręcza Ministrowi Sprawiedliwości.
+### Art. 7.
 
-3. Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania przygotowawczego sąd doręcza prokuratorowi przełożonemu nad prokuratorem prowadzącym lub nadzorującym postępowanie przygotowawcze. Prokurator, któremu doręczono odpis orzeczenia, jest obowiązany do podjęcia czynności nadzoru przewidzianych przepisach ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2023 r. poz. 1360 i 1429).
+Sąd, do którego wniesiono skargę, przedstawia ją niezwłocznie sądowi właściwemu wraz z aktami sprawy, w której toczy się postępowanie.
 
-**Art. 14.**
+### Art. 8.
 
-1. Skarżący może wystąpić z nową skargą tej samej sprawie po upływie 12 miesięcy, a postępowaniu przygotowawczym, którym stosowane jest tymczasowe aresztowanie, oraz sprawie egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego – po upływie 6 miesięcy, od daty wydania przez sąd orzeczenia, o którym mowa art. 12.
+### 1.
 
-2. W przypadku odrzucenia skargi na podstawie art. 9 ust. 1 skarżący może wystąpić z nową skargą tej samej sprawie.
+Sąd rozpoznaje skargę w składzie trzech sędziów.
 
-3. W razie odrzucenia skargi na podstawie art. 9 dalsze skargi tej samej strony dotyczące tego samego postępowania, które podlegałyby odrzuceniu na podstawie art. 9, pozostawia się aktach sprawy bez żadnych dalszych czynności. O pozostawieniu skargi i pism związanych z jej wniesieniem aktach sprawy zawiadamia się skarżącego tylko raz – przy odrzuceniu skargi.
+### 2.
 
-**Art. 15.**
+W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek skargi sąd stosuje odpowiednio przepisy o postępowaniu zażaleniowym obowiązujące w postępowaniu, którego skarga dotyczy.
 
-1. Strona, której skargę uwzględniono, może odrębnym postępowaniu dochodzić naprawienia szkody wynikłej ze stwierdzonej przewlekłości od Skarbu Państwa albo solidarnie od Skarbu Państwa i komornika.
+### Art. 9.
 
-2. Postanowienie uwzględniające skargę wiąże sąd postępowaniu cywilnym o odszkodowanie lub zadośćuczynienie, co do stwierdzenia przewlekłości postępowania.
+### 1.
 
-3. W razie wystąpienia przez stronę z pozwem o roszczenie, o którym mowa ust. 1, należne odszkodowanie lub zadośćuczynienie pomniejsza się o wysokość sum przyznanych na podstawie art. 12 ust. 4 za ten sam okres.
+Skargę niespełniającą wymagań przewidzianych w art. 6 ust. 2 sąd właściwy do jej rozpoznania odrzuca bez wzywania do uzupełnienia braków.
 
-**Art. 16.** Strona, która nie wniosła skargi na przewlekłość postępowania zgodnie z art. 5 ust. 1, może dochodzić – na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2022 r. poz. 1360, 2337 i 2339 oraz z 2023 r. poz. 326 i 1285) – naprawienia szkody wynikłej z przewlekłości, po prawomocnym zakończeniu postępowania co do istoty sprawy.
+### 2.
 
-**Art. 17.**
+Sąd odrzuca skargę wniesioną przez nieuprawnionego albo niedopuszczalną na podstawie art. 14.
 
-1. Skarga podlega stałej opłacie wysokości 200 złotych.
+### Art. 10.
 
-2. Jeśli skargę wniosło kilka osób, każda z nich uiszcza opłatę oddzielnie; jeżeli została uiszczona jedna opłata bez odpowiedniego wskazania, uznaje się, że wniosła ją osoba wymieniona jako pierwsza skardze.
+### 1.
 
-3. Uwzględniając lub odrzucając skargę, sąd z urzędu zwraca uiszczoną od niej opłatę.
+Sąd właściwy do rozpoznania skargi zawiadamia o toczącym się postępowaniu Skarb Państwa - prezesa tego sądu, którego działanie lub bezczynność według twierdzeń skarżącego spowodowało przewlekłość postępowania, doręczając mu odpis skargi.
 
-**Art. 18.**
+### 2.
 
-1. W okresie 6 miesięcy od dnia wejścia życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka (zwanego dalej „Trybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy rozsądnym terminie, o którym mowa art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności, mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona toku postępowania, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia przedmiocie dopuszczalności skargi.
+Jeżeli skarga dotyczy przewlekłości postępowania prowadzonego przez komornika sądowego, sąd zawiadamia komornika oraz Skarb Państwa - prezesa tego sądu rejonowego, przy którym działa komornik, doręczając im odpis skargi.
 
-2. Skarga wniesiona trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału.
+### 3.
 
-3. Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych trybie, o którym mowa ust. 1.
+Skarbowi Państwa oraz komornikowi, w razie zgłoszenia udziału w sprawie, przysługują prawa strony w zakresie rozpoznania skargi.
 
-**Art. 19.** Ustawa wchodzi życie po upływie miesiąca od dnia ogłoszenia .
+### Art. 11.
 
+Sąd wydaje orzeczenie w terminie dwóch miesięcy, licząc od daty złożenia skargi.
+
+### Art. 12.
+
+### 1.
+
+Skargę niezasadną sąd oddala.
+
+### 2.
+
+Uwzględniając skargę, sąd stwierdza, że w postępowaniu, którego skarga dotyczy, nastąpiła przewlekłość postępowania.
+
+### 3.
+
+Na żądanie skarżącego sąd może zalecić podjęcie przez sąd rozpoznający sprawę co do istoty, odpowiednich czynności w wyznaczonym terminie. Zalecenia nie mogą wkraczać w zakres oceny faktycznej i prawnej sprawy.
+
+### 4.
+
+Uwzględniając skargę, sąd może, na żądanie skarżącego, przyznać od Skarbu Państwa, a w przypadku skargi na przewlekłość postępowania prowadzonego przez komornika - od komornika, odpowiednią sumę pieniężną w wysokości nieprzekraczającej 10 000 złotych. W wypadku przyznania odpowiedniej sumy pieniężnej od Skarbu Państwa, wypłaty dokonuje sąd prowadzący postępowanie, w którym nastąpiła przewlekłość postępowania, ze środków własnych tego sądu.
+
+### Art. 13.
+
+### 1.
+
+Odpis orzeczenia uwzględniającego skargę sąd doręcza prezesowi właściwego sądu.
+
+### 2.
+
+Odpis orzeczenia uwzględniającego skargę dotyczącą przewlekłości postępowania prowadzonego przez komornika sąd doręcza Ministrowi Sprawiedliwości.
+
+### Art. 14.
+
+Skarżący może wystąpić z nową skargą w tej samej sprawie po upływie 12 miesięcy, a w sprawie egzekucyjnej lub innej dotyczącej wykonania orzeczenia sądowego po upływie 6 miesięcy, od daty wydania przez sąd orzeczenia, o którym mowa w art. 12.
+
+### Art. 15.
+
+### 1.
+
+Strona, której skargę uwzględniono, może w odrębnym postępowaniu dochodzić naprawienia szkody wynikłej ze stwierdzonej przewlekłości od Skarbu Państwa albo solidarnie od Skarbu Państwa i komornika.
+
+### 2.
+
+Postanowienie uwzględniające skargę wiąże sąd w postępowaniu cywilnym o odszkodowanie lub zadośćuczynienie, co do stwierdzenia przewlekłości postępowania.
+
+### Art. 16.
+
+Strona, która nie wniosła skargi na przewlekłość postępowania zgodnie z art. 5 ust. 1, może dochodzić - na podstawie art. 417 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny ([Dz. U. Nr 16, poz. 93](https://api.sejm.gov.pl/eli/acts/DU/1964/93/text.html), z późn. zm.[1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804.](#gloss-0:1:)) - naprawienia szkody wynikłej z przewlekłości, po prawomocnym zakończeniu postępowania co do istoty sprawy.
+
+### Art. 17.
+
+### 1.
+
+Skarga podlega stałej opłacie w wysokości 100 złotych.
+
+### 2.
+
+Jeśli skargę wniosło kilka osób, każda z nich uiszcza opłatę oddzielnie; jeżeli została uiszczona jedna opłata bez odpowiedniego wskazania, uznaje się, że wniosła ją osoba wymieniona jako pierwsza w skardze.
+
+### 3.
+
+Uwzględniając skargę, sąd z urzędu zwraca uiszczoną od niej opłatę.
+
+### Art. 18.
+
+### 1.
+
+W okresie 6 miesięcy od dnia wejścia w życie niniejszej ustawy osoby, które przed tym dniem złożyły skargę do Europejskiego Trybunału Praw Człowieka (zwanego dalej „Trybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy w rozsądnym terminie, o którym mowa w art. 6 ust. 1 Konwencji o ochronie praw człowieka i podstawowych wolności ([Dz. U. z 1993 r. Nr 61, poz. 284](https://api.sejm.gov.pl/eli/acts/DU/1993/284/text.html), z [1995 r. Nr 36, poz. 175, 176](https://api.sejm.gov.pl/eli/acts/DU/1995/175/text.html)[i 177](https://api.sejm.gov.pl/eli/acts/DU/1995/176/text.html), z [1998 r. Nr 147, poz. 962](https://api.sejm.gov.pl/eli/acts/DU/1998/962/text.html) oraz z [2003 r. Nr 42, poz. 364](https://api.sejm.gov.pl/eli/acts/DU/2003/364/text.html)), mogą wnieść skargę o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Trybunału została wniesiona w toku postępowania, którego ona dotyczy, i o ile Trybunał nie wydał postanowienia w przedmiocie dopuszczalności skargi.
+
+### 2.
+
+Skarga wniesiona w trybie ust. 1 powinna wskazywać datę wniesienia skargi do Trybunału.
+
+### 3.
+
+Właściwy sąd niezwłocznie zawiadamia ministra właściwego do spraw zagranicznych o skargach wniesionych w trybie, o którym mowa w ust. 1.
+
+### Art. 19.
+
+Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
+
+1) Zmiany ustawy zostały ogłoszone w Dz. U. z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 758, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 271, Nr 74, poz. 855 i 857, Nr 88, poz. 983 i Nr 114, poz. 1191, z 2001 r. Nr 11, poz. 91, Nr 71, poz. 733, Nr 130, poz. 1450 i Nr 145, poz. 1638, z 2002 r. Nr 113, poz. 984 i Nr 141, poz. 1176, z 2003 r. Nr 49, poz. 408, Nr 60, poz. 535, Nr 64, poz. 592 i Nr 124, poz. 1151 oraz z 2004 r. Nr 91, poz. 870, Nr 96, poz. 959, Nr 162, poz. 1692 i Nr 172, poz. 1804.

@@ -8,11 +8,9 @@ pos: 940
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o listach zastawnych i bankach hipotecznych
-
-*USTAWA z dnia 29 sierpnia 1997 r.*
+# Ustawa z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych
 
 | Pole | Wartość |
 |---|---|
@@ -24,555 +22,654 @@ domain: null
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-21 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400940) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/940/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1997/940/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1997/940) |
 
-Art. 38–41. (pominięte)
+## Spis treści
 
-### DZIAŁ I Przepisy ogólne
+- [Treść ustawy](#part_1) [Dział I - Przepisy ogólne](#bran_I) [Dział II - Listy zastawne](#bran_II) [Dział III - Bank hipoteczny](#bran_III) [Rozdział 1 - Przepisy ogólne](#bran_III-chpt_1) [Rozdział 2 - Czynności banku hipotecznego](#bran_III-chpt_2) [Rozdział 3 - Wierzytelności zabezpieczające emisję listów zastawnych](#bran_III-chpt_3) [Dział IV - Kontrola i nadzór nad bankami hipotecznymi](#bran_IV) [Dział V - Upadłość banku hipotecznego](#bran_V) [Dział VI - Przepisy karne](#bran_VI) [Dział VII - Zmiany w przepisach obowiązujących i przepisy końcowe](#bran_VII)
 
-**Art. 1.** Ustawa określa:
+TOC
 
-**Art. 2.** Ilekroć w ustawie jest mowa o:
+## Treść ustawy
 
-### DZIAŁ II Listy zastawne
+### Dział I Przepisy ogólne
 
-**Art. 2a.** List zastawny jest dłużnym papierem wartościowym wyemitowanym przez bank hipoteczny zgodnie z przepisami ustawy, który jest zabezpieczony aktywami stanowiącymi zabezpieczenie listów zastawnych, względem których posiadaczom listów zastawnych przysługuje bezpośrednio roszczenie zarówno do osobnej masy upadłości wyodrębnionej zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520), jak i do banku hipotecznego.
+### Art. 1.
 
-**Art. 2b.** Bank hipoteczny może emitować hipoteczne listy zastawne i publiczne listy zastawne.
+Ustawa określa:
 
-**Art. 3.**
+### 1)
 
-1. Hipoteczny list zastawny jest papierem wartościowym imiennym lub na okaziciela, którego podstawę emisji stanowią wierzytelności banku hipotecznego zabezpieczone hipotekami, w którym to liście bank hipoteczny zobowiązuje się wobec uprawnionego do spełnienia określonych świadczeń pieniężnych.
+zasady emisji, zbywania, nabywania, wykupu i zabezpieczenia listów zastawnych oraz
 
-2. Publiczny list zastawny jest papierem wartościowym imiennym lub na okaziciela, którego podstawę emisji stanowią wierzytelności banku hipotecznego z tytułu:
+### 2)
 
-- **1)** kredytów w części zabezpieczonej wraz z należnymi odsetkami, gwarancją lub poręczeniem Narodowego Banku Polskiego, Europejskiego Banku Centralnego, rządów lub banków centralnych państw członkowskich Unii Europejskiej, Organizacji Współpracy Gospodarczej i Rozwoju, z wyłączeniem państw, które restrukturyzują lub restrukturyzowały swoje zadłużenie zagraniczne w ciągu ostatnich 5 lat, oraz gwarancją lub poręczeniem Skarbu Państwa zgodnie z przepisami odrębnych ustaw, albo
-- **2)** kredytów udzielonych podmiotom wymienionym w pkt 1, albo
-- **3)** kredytów w części zabezpieczonej wraz z należnymi odsetkami, gwarancją lub poręczeniem jednostek samorządu terytorialnego oraz kredytów udzielonych jednostkom samorządu terytorialnego, albo
-- **4)** nabytych przez bank hipoteczny papierów wartościowych emitowanych przez:
-    - **a)** Skarb Państwa,
-    - **b)** jednostki samorządu terytorialnego,
-    - **c)** Bank Gospodarstwa Krajowego, które zostały zabezpieczone w całości gwarancją lub poręczeniem Skarbu Państwa.
+zasady tworzenia, organizacji, działalności i nadzorowania banków hipotecznych.
 
-2a. Papiery wartościowe, o których mowa w ust. 2 pkt 4, mogą stanowić podstawę emisji publicznych listów zastawnych, jeżeli są wolne od wszelkich obciążeń w rozumieniu art. 7 ust. 2 rozporządzenia delegowanego Komisji (UE) 2015/61 z dnia 10 października 2014 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych (Dz. Urz. UE L 11 z 17.01.2015, str. 1, z późn. zm. ).
+### Art. 2.
 
-2b. Papiery wartościowe, o których mowa w ust. 2 pkt 4 lit. b i c, mogą stanowić podstawę emisji publicznych listów zastawnych, pod warunkiem że emitent nie ograniczył swojej odpowiedzialności za zobowiązania wynikające z tych papierów wartościowych.
+Ilekroć w ustawie jest mowa o:
 
-3. Do publicznych listów zastawnych stosuje się odpowiednio przepisy dotyczące hipotecznych listów zastawnych, z wyłączeniem przepisów ustawy w zakresie zabezpieczenia hipoteką.
+### 1)
 
-4. Bank hipoteczny, udzielając kredytu jednostce samorządu terytorialnego, jak również nabywając papiery wartościowe emitowane przez jednostkę samorządu terytorialnego, jest obowiązany uzyskać, na dzień przyznania kredytu lub nabycia papierów wartościowych, opinię regionalnej izby obrachunkowej o możliwości spłaty kredytu lub wykupu papierów wartościowych, o której mowa w art. 91 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ).
+bankowo-hipotecznej wartości nieruchomości - należy przez to rozumieć wycenioną zgodnie z przepisami ustawy wartość nieruchomości, na której została ustanowiona hipoteka zabezpieczająca kredyty refinansowane ze środków uzyskanych w wyniku emisji listów zastawnych,
 
-**Art. 4.** Świadczenia pieniężne, o których mowa w art. 3, polegają na wypłacie odsetek i wykupie hipotecznych listów zastawnych w sposób i w terminach określonych w warunkach emisji, z uwzględnieniem przepisów niniejszej ustawy.
+### 2)
 
-**Art. 5.** Hipoteczny list zastawny może być nominowany w złotych albo w walucie obcej w rozumieniu przepisów Prawa dewizowego.
+zabezpieczeniu hipoteką - należy przez to rozumieć hipotekę na rzecz banku hipotecznego ustanowioną na prawie użytkowania wieczystego lub prawie własności nieruchomości położonej na obszarze kraju.
 
-**Art. 5a.**
+### Dział II Listy zastawne
 
-1. List zastawny nie może mieć formy dokumentu, z zastrzeżeniem ust. 2.
+### Art. 3.
 
-2. List zastawny o jednostkowej wartości nominalnej równej kwocie stanowiącej równowartość 100 000 euro lub przekraczającej tę kwotę, ustaloną przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu podjęcia przez emitenta decyzji o emisji, może mieć formę dokumentu.
+### 1.
 
-3. List zastawny podlega zarejestrowaniu w depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi.
+Hipoteczny list zastawny jest papierem wartościowym imiennym lub na okaziciela, którego podstawę emisji stanowią wierzytelności banku hipotecznego zabezpieczone hipotekami, w którym to liście bank hipoteczny zobowiązuje się wobec uprawnionego do spełnienia określonych świadczeń pieniężnych.
 
-4. List zastawny, o którym mowa w ust. 2, podlega zarejestrowaniu w depozycie papierów wartościowych prowadzonym zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, a w przypadku, o którym mowa w art. 5 ust. 1a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi – w innym systemie rejestracji, w terminie 6 miesięcy od dnia emisji.
+### 2.
 
-**Art. 6.** Hipoteczny list zastawny, o którym mowa w art. 5a ust. 2, zawiera w szczególności:
+Publiczny list zastawny jest papierem wartościowym imiennym lub na okaziciela, którego podstawę emisji stanowią:
 
-**Art. 7.** (uchylony)
+### 1)
 
-**Art. 7a.** Warunki emisji listów zastawnych zawierają w szczególności informacje o:
+kredyt zabezpieczony do pełnej wysokości i wraz z należnymi odsetkami gwarancją lub poręczeniem Skarbu Państwa, Narodowego Banku Polskiego, Wspólnot Europejskich lub ich państw członkowskich, Europejskiego Banku Odbudowy i Rozwoju, Europejskiego Banku Inwestycyjnego lub Międzynarodowego Banku Odbudowy i Rozwoju (Banku Światowego) albo
 
-**Art. 7b.** Przedłużenie terminu wykupu emitowanych listów zastawnych jest dopuszczalne wyłącznie w przypadku ogłoszenia upadłości banku hipotecznego zgodnie z przepisami ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe.
+### 2)
 
-**Art. 7c.**
+wierzytelności banku hipotecznego z tytułu kredytów udzielonych podmiotom wymienionym w pkt 1.
 
-1. W przypadku wszczęcia przymusowej restrukturyzacji banku hipotecznego Komisja Nadzoru Finansowego współpracuje z Bankowym Funduszem Gwarancyjnym w celu zabezpieczenia praw i interesów posiadaczy listów zastawnych polegającego w szczególności na zapewnieniu nieprzerwanego i należytego zarządzania programem emisji listów zastawnych.
+Do publicznych listów zastawnych stosuje się odpowiednio przepisy dotyczące hipotecznych listów zastawnych, z wyłączeniem przepisów ustawy w zakresie zabezpieczenia hipoteką.
 
-2. Komisja Nadzoru Finansowego oraz kurator, o którym mowa w art. 443 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe, mogą dokonywać wzajemnej wymiany informacji dotyczących programu emisji listów zastawnych w zakresie, w jakim jest to niezbędne do prowadzenia postępowania upadłościowego.
+### Art. 4.
 
-**Art. 7d.**
+Świadczenia pieniężne, o których mowa w art. 3, polegają na wypłacie odsetek i wykupie hipotecznych listów zastawnych w sposób i w terminach określonych w warunkach emisji, z uwzględnieniem przepisów niniejszej ustawy.
 
-1. List zastawny może być oznaczony jako „europejski list zastawny” lub „europejska obligacja zabezpieczona” wraz z tłumaczeniem tego oznaczenia na wszystkie języki urzędowe Unii Europejskiej.
+### Art. 5.
 
-2. List zastawny spełniający wymogi określone w art. 129 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. w sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem (UE) nr 575/2013”, może być oznaczony jako „europejski list zastawny (premium)” lub „europejska obligacja zabezpieczona (premium)” wraz z tłumaczeniem tego oznaczenia na wszystkie języki urzędowe Unii Europejskiej.
+Hipoteczny list zastawny może być nominowany w złotych albo w walucie obcej w rozumieniu przepisów ustawy z dnia 2 grudnia 1994 r. - Prawo dewizowe ([Dz. U. Nr 136, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1994/703/text.html), z [1995 r. Nr 132, poz. 641](https://api.sejm.gov.pl/eli/acts/DU/1995/641/text.html), z [1996 r. Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i z [1997 r. Nr 71, poz. 449](https://api.sejm.gov.pl/eli/acts/DU/1997/449/text.html)).
 
-**Art. 8.**
+### Art. 6.
 
-1. W zakresie nieuregulowanym niniejszą ustawą do zasad emisji, obrotu i wykupu hipotecznych listów zastawnych mają zastosowanie przepisy:
+Hipoteczny list zastawny zawiera w szczególności:
 
-- **1)** ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2021 r. poz. 1983 i 2140 oraz z 2022 r. poz. 872 i 1488);
-- **1a)** rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/1129 z dnia 14 czerwca 2017 r. w sprawie prospektu, który ma być publikowany w związku z ofertą publiczną papierów wartościowych lub dopuszczeniem ich do obrotu na rynku regulowanym oraz uchylenia dyrektywy 2003/71/WE (Dz. Urz. UE L 168 z 30.06.2017, str. 12);
-- **2)** ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **3)** ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244), z wyjątkiem przepisów art. 14, art. 31 ust. 1–3 i 6, art. 32, art. 74 ust. 2 i 3, art. 78–87 i art. 90.
+### 1)
 
-2. Rada Ministrów może określić, w drodze rozporządzenia, szczególny tryb i warunki wprowadzania listów zastawnych do publicznego obrotu. Rozporządzenie powinno w szczególności określać zakres obowiązków informacyjnych tak, aby umożliwić inwestorom rzetelną ocenę sytuacji finansowej i gospodarczej emitenta.
+nazwę „hipoteczny list zastawny”,
 
-### DZIAŁ III Bank hipoteczny
+### 2)
 
-#### Rozdział 1 Przepisy ogólne
+wskazanie podstawy prawnej emisji,
 
-**Art. 9.**
+### 3)
 
-1. Bank hipoteczny jest tworzony wyłącznie w formie spółki akcyjnej.
+nazwę (firmę) banku hipotecznego będącego emitentem oraz jego siedzibę,
 
-2. Statut banku hipotecznego określa jego nazwę, która zawiera dodatkowo wyrazy „bank hipoteczny”.
+### 4)
 
-**Art. 10.** Do zasad tworzenia, organizacji i działania banków hipotecznych nieuregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy Prawa bankowego oraz przepisy o Narodowym Banku Polskim.
+serię i numer hipotecznego listu zastawnego,
 
-**Art. 11.** Komisja Nadzoru Finansowego może określić, w drodze uchwały, szczegółowe zasady dotyczące wyposażenia banków hipotecznych w kapitał założycielski.
+### 5)
 
-#### Rozdział 2 Czynności banku hipotecznego
+oznaczenie wartości nominalnej oraz datę, od której nalicza się oprocentowanie, i wysokość oprocentowania, a także terminy wypłaty odsetek, termin wykupu hipotecznego listu zastawnego, miejsce płatności oraz warunki wykupu,
 
-**Art. 11a.** Bank hipoteczny może wykonywać wyłącznie czynności określone w niniejszej ustawie.
+### 6)
 
-**Art. 12.** Do podstawowych czynności banku hipotecznego należy:
+w przypadku gdy termin wykupu jest dłuższy niż 5 lat - informację, że po upływie 5 lat od dnia emisji bank hipoteczny może dokonać jego umorzenia przed terminem wykupu, oraz informację o warunkach wykupu,
 
-**Art. 12a.**
+### 7)
 
-1. Emitowanie listów zastawnych jest dokonywane w ramach programu emisji listów zastawnych po uzyskaniu:
+informację, że uprawnionemu z hipotecznego listu zastawnego nie przysługuje prawo wcześniejszego niż w określonym terminie przedstawienia go do wykupu,
 
-- **1)** zezwolenia na utworzenie banku hipotecznego, o którym mowa w art. 34 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324 i 2339), oraz zezwolenia na rozpoczęcie działalności przez bank hipoteczny, o którym mowa w art. 36 ust. 1 tej ustawy – w przypadku, o którym mowa w ust. 2 pkt 1;
-- **2)** zezwolenia, o którym mowa w art. 34 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe – w przypadku, o którym mowa w ust. 2 pkt 2.
+### 8)
 
-2. Komisja Nadzoru Finansowego dokonuje oceny przygotowania banku hipotecznego do emitowania listów zastawnych w ramach programu emisji listów zastawnych:
+miejsce i datę wystawienia hipotecznego listu zastawnego,
 
-- **1)** w przypadku utworzenia banku hipotecznego i rozpoczęcia przez ten bank działalności – w toku postępowania o wydanie zezwolenia na utworzenie banku hipotecznego, o którym mowa w art. 34 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, oraz w toku postępowania o wydanie zezwolenia na rozpoczęcie działalności przez bank hipoteczny, o którym mowa w art. 36 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe;
-- **2)** w przypadku rozszerzenia przedmiotu działalności banku hipotecznego o emitowanie hipotecznych listów zastawnych lub publicznych listów zastawnych – w toku postępowania o wydanie zezwolenia, o którym mowa w art. 34 ust. 2 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+### 9)
 
-3. Elementami programu emisji listów zastawnych są co najmniej:
+podpisy osób uprawnionych do zaciągania zobowiązań w imieniu banku hipotecznego oraz podpis powiernika; podpisy te mogą być odtwarzane sposobem mechanicznym.
 
-- **1)** program działalności banku hipotecznego obejmujący emisje listów zastawnych;
-- **2)** regulacje wewnętrzne banku hipotecznego dotyczące jego działalności i emisji listów zastawnych, w tym:
-    - **a)** regulamin ustalania bankowo-hipotecznej wartości nieruchomości, o którym mowa w art. 22 ust. 5, oraz regulacje wewnętrzne dotyczące weryfikacji bankowo-hipotecznej wartości nieruchomości,
-    - **b)** regulacje wewnętrzne dotyczące ograniczania ryzyka walutowego i ryzyka stopy procentowej związanych z emisją listów zastawnych,
-    - **c)** regulacje wewnętrzne dotyczące udzielania kredytów lub nabywania wierzytelności z tytułu udzielonych kredytów zaliczonych do puli aktywów stanowiących zabezpieczenie, w tym podejmowania decyzji o ich udzieleniu, nabyciu, zmianie, odnowieniu i refinansowaniu,
-    - **d)** regulacje wewnętrzne dotyczące sposobu prowadzenia rejestru zabezpieczenia listów zastawnych, rachunku zabezpieczenia listów zastawnych oraz przeprowadzania testu równowagi pokrycia i testu płynności;
+### Art. 7.
 
-- **3)** regulacje wewnętrzne dotyczące posiadania odpowiednich kwalifikacji oraz odpowiedniej wiedzy w zakresie emisji listów zastawnych oraz administrowania programem emisji listów zastawnych przez osoby pełniące funkcje kierownicze w banku hipotecznym oraz pracowników banku hipotecznego, wyznaczonych do wykonywania czynności związanych z programem emisji listów zastawnych;
-- **4)** regulacje wewnętrzne dotyczące wyłonienia kandydatów do pełnienia funkcji powiernika i jego zastępcy, którzy posiadają odpowiednie kwalifikacje oraz odpowiednią wiedzę do pełnienia tych funkcji.
+### 1.
 
-**Art. 13.**
+Hipoteczny list zastawny może być emitowany w formie dokumentu lub w formie zdematerializowanej (zapis komputerowy).
 
-1. (uchylony)
+### 2.
 
-2. Wysokość pojedynczego kredytu zabezpieczonego hipoteką w dniu:
+Jeżeli hipoteczny list zastawny występuje w formie zdematerializowanej, wówczas wszystkie dane, o których mowa w art. 6, powinny być zamieszczone w treści świadectwa depozytowego albo innego dokumentu wydanego przez bank hipoteczny osobie uprawnionej.
 
-- **1)** jego udzielenia – w przypadku udzielania kredytów zabezpieczonych hipoteką,
-- **2)** nabycia wierzytelności z tytułu takiego kredytu – w przypadku nabywania wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką – nie może przekroczyć bankowo-hipotecznej wartości nieruchomości.
+### 3.
 
-3. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komitetu Stabilności Finansowej, może określić, w drodze rozporządzenia, niższą niż określona zgodnie z ust. 2, wyrażoną w procentach, maksymalną wysokość stosunku pojedynczego kredytu zabezpieczonego hipoteką do bankowo-hipotecznej wartości nieruchomości w dniu:
+Hipoteczny list zastawny może być emitowany w odcinkach zbiorowych.
 
-- **1)** jego udzielenia – w przypadku udzielania kredytów zabezpieczonych hipoteką,
-- **2)** nabycia wierzytelności z tytułu takiego kredytu – w przypadku nabywania wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką – uwzględniając wysokość obowiązującego wskaźnika bufora antycyklicznego w rozumieniu przepisów o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym oraz konieczność zapewnienia prawidłowego funkcjonowania rynku finansowego i jego stabilności.
+### Art. 8.
 
-**Art. 14.** Ze środków uzyskanych z emisji listów zastawnych bank hipoteczny może refinansować kredyty zabezpieczone hipoteką oraz nabyte wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką; refinansowanie w odniesieniu do pojedynczego kredytu lub pojedynczej wierzytelności nie może jednak przekroczyć kwoty odpowiadającej 60% bankowohipotecznej wartości nieruchomości, a w przypadku nieruchomości mieszkalnych w rozumieniu art. 4 ust. 1 pkt 75 rozporządzenia (UE) nr 575/2013 – 80% bankowohipotecznej wartości nieruchomości.
+### 1.
 
-**Art. 15.**
+W zakresie nie uregulowanym niniejszą ustawą do zasad emisji, obrotu i wykupu hipotecznych listów zastawnych mają zastosowanie przepisy:
 
-1. Poza czynnościami, o których mowa w art. 12, banki hipoteczne mogą wykonywać następujące czynności:
+### 1)
 
-- **1)** (uchylony)
-- **2)** zaciąganie kredytów i pożyczek;
-- **3)** emitowanie obligacji;
-- **4)** przechowywanie papierów wartościowych;
-- **5)** nabywanie i obejmowanie akcji lub udziałów innych podmiotów, których forma prawna zapewnia ograniczenie odpowiedzialności banku hipotecznego do wysokości zainwestowanych środków, o ile służy to wykonywaniu czynności banku hipotecznego, przy czym ogólna wartość nabytych i objętych akcji i udziałów nie może przekroczyć 10% wysokości funduszy własnych banku hipotecznego;
-- **6)** (uchylony)
-- **7)** świadczenie usług konsultacyjno-doradczych związanych z rynkiem nieruchomości, w tym także w zakresie ustalania bankowo-hipotecznej wartości nieruchomości;
-- **8)** zarządzanie wierzytelnościami banku hipotecznego oraz innych banków, z tytułu kredytów, o których mowa w art. 12, jak również udzielanie tych kredytów w imieniu innych banków na podstawie zawartych z nimi umów.
+Prawa o publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz
 
-2. Łączna wysokość zobowiązań wynikających z czynności, o których mowa w ust. 1 pkt 2 i 3, nie może przekroczyć:
+### 2)
 
-- **1)** w przypadku banków hipotecznych stosujących określony w art. 428b ust. 2 rozporządzenia (UE) nr 575/2013 wymóg stabilnego finansowania netto na zasadzie indywidualnej, o której mowa w tym rozporządzeniu, począwszy od 19. miesiąca od dnia rozpoczęcia działalności operacyjnej – dziesięciokrotnej wysokości funduszy własnych banku hipotecznego;
-- **2)** w przypadku banków hipotecznych niestosujących określonego w art. 428b ust. 2 rozporządzenia (UE) nr 575/2013 wymogu stabilnego finansowania netto na zasadzie indywidualnej, o której mowa w tym rozporządzeniu:
-    - **a)** w okresie od 19. miesiąca do pięciu lat od dnia rozpoczęcia działalności operacyjnej – dziesięciokrotnej wysokości funduszy własnych banku hipotecznego,
-    - **b)** po upływie okresu, o którym mowa w lit. a – sześciokrotnej wysokości funduszy własnych banku hipotecznego.
+ustawy z dnia 29 czerwca 1995 r. o obligacjach ([Dz. U. Nr 83, poz. 420](https://api.sejm.gov.pl/eli/acts/DU/1995/420/text.html) i [Nr 118, poz. 574](https://api.sejm.gov.pl/eli/acts/DU/1995/574/text.html) oraz z [1997 r. Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html) i [Nr 118, poz. 754](https://api.sejm.gov.pl/eli/acts/DU/1997/754/text.html)), z wyjątkiem przepisów art. 6, 7, 13 i 27-37 o zabezpieczeniu obligacji.
 
-2a. Limitów, o których mowa w ust. 2, nie stosuje się od dnia rozpoczęcia działalności operacyjnej przez bank hipoteczny do upływu 18. miesiąca działalności tego banku.
+### 2.
 
-3. Środki uzyskane z wykonywania czynności, o których mowa w ust. 1 pkt 2 i 3, mogą być przeznaczone wyłącznie na refinansowanie czynności, o których mowa w art. 12.
+Przewodniczący Komisji Papierów Wartościowych i Giełd może określić, w drodze zarządzenia, tryb i warunki wprowadzania listów zastawnych do publicznego obrotu.
 
-**Art. 15a.** Banki hipoteczne mogą podejmować działania służące wykonywaniu czynności, o których mowa w art. 12 i art. 15 ust. 1 pkt 2, 3 i 5, a w szczególności:
+### Dział III Bank hipoteczny
 
-**Art. 16.**
+### Rozdział 1 Przepisy ogólne
 
-1. Wolne środki pieniężne bank hipoteczny może przeznaczyć na:
+### Art. 9.
 
-- **1)** lokaty w bankach posiadających fundusze własne w wysokości nie mniejszej niż równowartość w złotych kwoty 10 000 000 euro przeliczonej według kursu średniego ogłaszanego przez Narodowy Bank Polski;
-- **2)** nabycie wyemitowanych przez siebie listów zastawnych w celu ich zdeponowania pod nadzorem powiernika, o ile jest to związane z wypełnieniem przez bank hipoteczny wymogu, o którym mowa w art. 18 ustawy, lub w celu umorzenia;
-- **3)** nabycie papierów wartościowych emitowanych lub gwarantowanych przez podmioty, o których mowa w art. 3 ust. 2 pkt 1;
-- **4)** nabycie papierów wartościowych emitowanych przez jednostki samorządu terytorialnego;
-- **5)** nabycie listów zastawnych emitowanych przez inne banki hipoteczne.
+### 1.
 
-2. Bank hipoteczny może nabywać nieruchomości jedynie w celu uniknięcia strat z tytułu udzielonych kredytów zabezpieczonych hipoteką oraz gdy jest to niezbędne ze względu na potrzeby związane z działalnością banku.
+Bank hipoteczny jest tworzony wyłącznie w formie spółki akcyjnej.
 
-**Art. 17.**
+### 2.
 
-1. Łączna kwota nominalnych wartości znajdujących się w obrocie listów zastawnych banku hipotecznego nie może przekroczyć 40-krotności jego funduszy własnych, z zastrzeżeniem ust. 2.
+Statut banku hipotecznego określa jego nazwę, która zawiera dodatkowo wyrazy „bank hipoteczny”.
 
-2. Na potrzeby ustalenia limitu, o którym mowa w ust. 1, do funduszy własnych dolicza się kwotę rezerwy na ryzyko ogólne, o której mowa w art. 130 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe.
+### Art. 10.
 
-3. (uchylony)
+Do zasad tworzenia, organizacji i działania banków hipotecznych nie uregulowanych w niniejszej ustawie stosuje się odpowiednio przepisy Prawa bankowego oraz przepisy o Narodowym Banku Polskim.
 
-**Art. 18.**
+### Art. 11.
 
-1. Suma nominalnych kwot wierzytelności banku hipotecznego zabezpieczonych hipoteką oraz praw i środków, o których mowa w ust. 3 i 4, wpisanych do rejestru zabezpieczenia listów zastawnych, stanowiących podstawę emisji hipotecznych listów zastawnych, nie może być niższa niż 105% łącznej kwoty nominalnych wartości znajdujących się w obrocie hipotecznych listów zastawnych, przy czym suma nominalnych kwot wierzytelności banku hipotecznego zabezpieczonych hipoteką, stanowiących podstawę emisji hipotecznych listów zastawnych, nie może być niższa niż 85% łącznej kwoty nominalnych wartości znajdujących się w obrocie hipotecznych listów zastawnych.
+Komisja Nadzoru Bankowego może określić, w drodze uchwały, szczegółowe zasady dotyczące wyposażenia banków hipotecznych w kapitał założycielski.
 
-1a. Suma nominalnych kwot wierzytelności banku hipotecznego, o których mowa w art. 3 ust. 2, oraz praw i środków, o których mowa w ust. 3 i 4, wpisanych do rejestru zabezpieczenia listów zastawnych, stanowiących podstawę emisji publicznych listów zastawnych, nie może być niższa niż 105% łącznej kwoty nominalnych wartości znajdujących się w obrocie publicznych listów zastawnych, przy czym suma nominalnych kwot wierzytelności banku hipotecznego, o których mowa w art. 3 ust. 2, stanowiących podstawę emisji publicznych listów zastawnych, nie może być niższa niż 85% łącznej kwoty nominalnych wartości znajdujących się w obrocie publicznych listów zastawnych. W kwocie wierzytelności banku hipotecznego mogą zostać uwzględnione wierzytelności z tytułu nabytych przez bank hipoteczny papierów wartościowych, o których mowa w art. 3 ust. 2 pkt 4, w przypadku gdy nie stanowią one aktywów zastępczych, o których mowa w ust. 3 pkt 1.
+### Rozdział 2 Czynności banku hipotecznego
 
-2. Ustalany odrębnie dla hipotecznych listów zastawnych oraz publicznych listów zastawnych dochód banku hipotecznego z tytułu odsetek od:
+### Art. 12.
 
-- **1)** wierzytelności zabezpieczonych hipoteką albo wierzytelności, o których mowa w art. 3 ust. 2, oraz
-- **2)** praw i środków, o których mowa w ust. 3 i 4 – stanowiących podstawę emisji odpowiednio hipotecznych listów zastawnych albo publicznych listów zastawnych, nie może być niższy od kosztów z tytułu odsetek od znajdujących się w obrocie odpowiednio hipotecznych listów zastawnych albo publicznych listów zastawnych.
+Do podstawowych czynności banku hipotecznego należy:
 
-2a. Przy spełnianiu wymogów, o których mowa w ust. 1–2, nie uwzględnia się aktywów stanowiących zabezpieczenie listów zastawnych, w przypadku których nastąpiło niewykonanie zobowiązania w rozumieniu art. 178 rozporządzenia (UE) nr 575/2013.
+### 1)
 
-3. Podstawą emisji listów zastawnych mogą być również środki banku hipotecznego:
+udzielanie kredytów zabezpieczonych hipoteką,
 
-- **1)** ulokowane w papierach wartościowych, o których mowa w art. 16 ust. 1 pkt 3, o ile nie stanowią aktywów podstawowych;
-- **2)** ulokowane w Narodowym Banku Polskim;
-- **3)** ulokowane w bankach krajowych w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe lub instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, spełniające wymogi określone w art. 129 ust. 1 lit. c rozporządzenia (UE) nr 575/2013.
+### 2)
 
-3a. Bank hipoteczny jest obowiązany utrzymywać, odrębnie dla hipotecznych listów zastawnych oraz publicznych listów zastawnych, nadwyżkę utworzoną z aktywów spełniających warunki określone w ust. 3c, w wysokości nie niższej niż maksymalny skumulowany wypływ płynności netto w okresie kolejnych 180 dni. Wypływ płynności netto stanowią wypływy płatności wymagalne w danym dniu płatności, w tym płatności kwoty wartości nominalnej listów zastawnych i odsetek z tytułu tych listów oraz płatności z tytułu instrumentów pochodnych w ramach programu emisji listów zastawnych, po odliczeniu wpływów płatności wymagalnych w tym samym dniu z tytułu aktywów stanowiących zabezpieczenie listów zastawnych. 3aa. Do wyliczania płatności kwoty wartości nominalnej listów zastawnych, o której mowa w ust. 3a, stosuje się przedłużony o 12 miesięcy termin wymagalności listów zastawnych.
+udzielanie kredytów nie zabezpieczonych hipoteką, jeżeli kredytobiorcą, gwarantem lub poręczycielem spłaty kredytu do pełnej wysokości wraz z należnymi odsetkami są podmioty, o których mowa w art. 3 ust. 2 pkt 1,
 
-3b. Środki przeznaczone na nadwyżkę, o której mowa w ust. 3a, nie mogą stanowić podstawy emisji listów zastawnych.
+### 3)
 
-3c. Nadwyżka, o której mowa w ust. 3a, jest tworzona wyłącznie z aktywów kwalifikujących się jako aktywa poziomu 1, 2A lub 2B zgodnie z rozporządzeniem delegowanym Komisji (UE) 2015/61 z dnia 10 października 2014 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 w odniesieniu do wymogu pokrycia wypływów netto dla instytucji kredytowych, które zostały wycenione zgodnie z tym rozporządzeniem i nie zostały wyemitowane przez podmioty, o których mowa w art. 7 ust. 3 tego rozporządzenia.
+nabywanie wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką oraz wierzytelności z tytułu kredytów nie zabezpieczonych hipoteką, o których mowa w pkt 2,
 
-3d. W nadwyżce, o której mowa w ust. 3a, nie uwzględnia się aktywów, w przypadku których nastąpiło niewykonanie zobowiązania w rozumieniu art. 178 rozporządzenia (UE) nr 575/2013.
+### 4)
 
-4. Przy określaniu kwot, o których mowa w ust. 1–2, uwzględnia się wartość nabytych instrumentów pochodnych, uwzględnionych w puli aktywów stanowiących zabezpieczenie, oraz zmiany ich wartości.
+emitowanie hipotecznych listów zastawnych, których podstawę stanowią wierzytelności banku hipotecznego z tytułu:
 
-**Art. 18a.**
+### a)
 
-1. Instrument pochodny może być uwzględniony w puli aktywów stanowiących zabezpieczenie, jeżeli łącznie są spełnione następujące warunki:
+udzielonych kredytów zabezpieczonych hipoteką oraz
 
-- **1)** umowa o instrument pochodny została zawarta w celu ograniczenia ryzyka walutowego lub ryzyka stopy procentowej związanego z wyemitowanymi listami zastawnymi, przy czym wolumen instrumentów pochodnych zabezpieczających dane ryzyko zmniejsza się odpowiednio w razie zmniejszania tego ryzyka, a w przypadku gdy zabezpieczane ryzyko przestaje istnieć, instrumenty te usuwa się z rejestru zabezpieczenia listów zastawnych;
-- **2)** stroną umowy o instrument pochodny jest bank krajowy w rozumieniu art. 4 ust. 1 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, instytucja kredytowa w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, dom maklerski w rozumieniu art. 110a ust. 1 pkt 4 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi lub zagraniczna firma inwestycyjna w rozumieniu art. 3 pkt 32 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-- **3)** strona umowy o instrument pochodny, o której mowa w pkt 2, spełnia łącznie następujące warunki:
-    - **a)** posiada ocenę 1 lub 2 stopnia jakości kredytowej, przypisaną przez zewnętrzną instytucję oceny wiarygodności kredytowej, o której mowa w art. 4 ust. 1 pkt 98 rozporządzenia (UE) nr 575/2013,
-    - **b)** nie toczy się wobec niej postępowanie restrukturyzacyjne,
-    - **c)** nie znajduje się w likwidacji lub upadłości lub nie oddalono w stosunku do niej wniosku o ogłoszenie upadłości na podstawie art. 13 ust. 1 lub 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe,
-    - **d)** nie jest podmiotem w restrukturyzacji w rozumieniu art. 2 pkt 44 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+### b)
 
-- **4)** umowa o instrument pochodny wyłącza uprawnienie do jej rozwiązania z chwilą wszczęcia przymusowej restrukturyzacji lub postępowania upadłościowego wobec banku hipotecznego albo oddalenia wniosku o ogłoszenie upadłości banku hipotecznego na podstawie art. 13 ust. 1 lub 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe;
-- **5)** zabezpieczenie instrumentu pochodnego, o ile zostało ustanowione, stanowią aktywa określone w art. 129 ust. 1 lit. c rozporządzenia (UE) nr 575/2013;
-- **6)** wycena instrumentów pochodnych została dokonana zgodnie z przyjętymi przez bank hipoteczny zasadami (polityką) rachunkowości.
+nabytych wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką,
 
-2. Bank hipoteczny jest obowiązany gromadzić dokumentację dotyczącą instrumentów pochodnych zaliczonych do puli aktywów stanowiących zabezpieczenie.
+### 5)
 
-3. Dokumentacja, o której mowa w ust. 2, umożliwia identyfikację rodzaju zabezpieczanego ryzyka, a także zawiera dane dotyczące instrumentu pochodnego, w tym termin jego zapadalności.
+emitowanie publicznych listów zastawnych, których podstawę stanowią wierzytelności banku hipotecznego z tytułu kredytów, o których mowa w pkt 2.
 
-**Art. 19.**
+### Art. 13.
 
-1. W rozumieniu niniejszej ustawy listy zastawne wyemitowane przez bank hipoteczny i przekazane do depozytu pod nadzór powiernika nie są listami zastawnymi w obrocie.
+### 1.
 
-2. W przypadku emitowania hipotecznych listów zastawnych w walucie innej niż:
+Ogólna kwota wierzytelności z tytułu czynności, o których mowa w art. 12 pkt 1 i 3, w części przekraczającej 60% bankowo-hipotecznej wartości nieruchomości nie może przekroczyć 10% ogólnej kwoty wierzytelności banku hipotecznego zabezpieczonych hipoteką.
 
-- **1)** waluta, w której wyrażone są wierzytelności banku hipotecznego zabezpieczające te listy, lub
-- **2)** waluta, w której wyrażone są środki, o których mowa w art. 18 ust. 3, bank hipoteczny obowiązany jest do dokonania czynności ograniczających ryzyko walutowe.
+### 2.
 
-**Art. 20.**
+Wysokość pojedynczego kredytu zabezpieczonego hipoteką nie może przekroczyć 80% bankowo-hipotecznej wartości nieruchomości.
 
-1. Wierzytelność banku hipotecznego, która ma być wpisana do rejestru zabezpieczenia hipotecznych listów zastawnych, może być zabezpieczona wyłącznie hipoteką wpisaną w księdze wieczystej na pierwszym miejscu.
+### Art. 14.
 
-2. Jeżeli wierzytelność banku hipotecznego została wyrażona w walucie obcej, wpisu hipoteki zabezpieczającej tę wierzytelność dokonuje się w księdze wieczystej w tej samej walucie.
+Ze środków uzyskanych z emisji listów zastawnych bank hipoteczny może refinansować kredyty zabezpieczone hipoteką oraz nabyte wierzytelności innych banków z tytułu udzielonych przez nie kredytów zabezpieczonych hipoteką; refinansowanie nie może jednak przekroczyć kwoty odpowiadającej 60% bankowo-hipotecznej wartości nieruchomości.
 
-3. Wniosek o wpis hipoteki zabezpieczającej wierzytelność hipoteczną, która ma być wpisana do rejestru zabezpieczenia hipotecznych listów zastawnych, sąd prowadzący księgę wieczystą rozpoznaje w ciągu miesiąca od dnia złożenia wniosku.
+### Art. 15.
 
-4. Bank hipoteczny przed zabezpieczeniem hipoteką wierzytelności z tytułu udzielonego kredytu może oddać do dyspozycji kredytobiorcy określoną w umowie kredytowej kwotę środków pieniężnych, jeżeli do sądu został złożony wniosek o wpis hipoteki zabezpieczającej tę wierzytelność i ustanowione zostało, do czasu powstania hipoteki, dodatkowe zabezpieczenie udzielonego kredytu, w szczególności:
+### 1.
 
-- **1)** gwarancja lub poręczenie podmiotów, o których mowa w art. 3 ust. 2 pkt 1;
-- **2)** gwarancja lub poręczenie banków spełniających warunek, o którym mowa w art. 16 ust. 1 pkt 1;
-- **3)** ubezpieczenie kredytu.
+Poza czynnościami, o których mowa w art. 12, banki hipoteczne mogą wykonywać wyłącznie następujące czynności:
 
-5. Bank hipoteczny może również oddać do dyspozycji kredytobiorcy określoną w umowie kredytowej kwotę środków pieniężnych przed zabezpieczeniem hipoteką wierzytelności z tytułu udzielonego kredytu, pod warunkiem ustanowienia zabezpieczenia, o którym mowa w ust. 4, jeżeli w księdze wieczystej prowadzonej dla nieruchomości, na której realizowane jest przedsięwzięcie budowlane, ujawnione zostało roszczenie banku hipotecznego o ustanowienie na jego rzecz hipoteki, dla zabezpieczenia spłaty kredytu, na nieruchomości lokalowej jednocześnie z wyodrębnieniem lokalu. Wykreślenie roszczenia z księgi wieczystej wymaga zgody banku hipotecznego, na rzecz którego ma być ustanowiona hipoteka.
+### 1)
 
-6. Wniosek o wpis roszczenia, o którym mowa w ust. 5, może być złożony przez właściciela nieruchomości, na której realizowane jest przedsięwzięcie budowlane, bank hipoteczny albo nabywcę nieruchomości lokalowej, o których mowa w ust. 5. Wpis roszczenia do księgi wieczystej nie wymaga zgody właściciela nieruchomości, na której realizowane jest przedsięwzięcie budowlane.
+przyjmowanie lokat terminowych,
 
-**Art. 20a.** Bank hipoteczny jest obowiązany opracować i wdrożyć procedury monitorowania utrzymywania ciągłości ubezpieczenia od zdarzeń losowych nieruchomości stanowiących zabezpieczenie wierzytelności banku hipotecznego, przez cały okres, w którym wierzytelności te są wpisane do rejestru zabezpieczenia listów zastawnych.
+### 2)
 
-**Art. 21.**
+zaciąganie kredytów i pożyczek,
 
-1. W przypadku gdy termin wykupu listu zastawnego jest dłuższy niż 5 lat od dnia emisji, bank hipoteczny, dla zapewnienia zgodności działania z przepisami art. 18, może dokonać umorzenia listów zastawnych przed terminem wykupu, jednak nie wcześniej niż po upływie 5 lat od dnia emisji, o ile w warunkach emisji wyraźnie zastrzeżono taką możliwość.
+### 3)
 
-2. Jeżeli zabezpieczona hipoteką wierzytelność banku wpisana do rejestru zabezpieczenia listów zastawnych powstała w wyniku umowy o udzielenie kredytu o stałym oprocentowaniu, możliwość wcześniejszego jednostronnego wypowiedzenia umowy kredytowej przez kredytobiorcę może być wyłączona, jednak na okres nie dłuższy niż 5 lat.
+emitowanie obligacji,
 
-**Art. 21a.** Bank hipoteczny posiada rozwiązania zapewniające ustalanie przez ten bank terminu wykupu wyemitowanych listów zastawnych według stanu na każdy kolejny dzień oddzielnie, w szczególności w ramach funkcjonującego w banku hipotecznym systemu informatycznego.
+### 4)
 
-**Art. 22.**
+przechowywanie papierów wartościowych,
 
-1. Ustalanie bankowo-hipotecznej wartości nieruchomości jest dokonywane z zachowaniem należytej staranności i ostrożności, w szczególności z uwzględnieniem jedynie tych cech nieruchomości oraz związanych z nią dochodów, które przy założeniu racjonalnej eksploatacji mogą mieć trwały charakter i które może uzyskać każdy posiadacz nieruchomości.
+### 5)
 
-2. Bankowo-hipoteczną wartość nieruchomości ustala bank hipoteczny na podstawie ekspertyzy.
+nabywanie akcji lub udziałów innych podmiotów, których forma prawna zapewnia ograniczenie odpowiedzialności banku hipotecznego do wysokości zainwestowanych środków, o ile służy to wykonywaniu czynności banku hipotecznego, przy czym ogólna wartość nabytych akcji i udziałów nie może przekroczyć 10% wysokości funduszy własnych banku hipotecznego.
 
-3. Ekspertyzę bankowo-hipotecznej wartości nieruchomości, o której mowa w ust. 2, wykonują zgodnie z przepisami ustawy oraz regulaminem banku hipotecznego:
+### 2.
 
-- **1)** bank hipoteczny albo
-- **2)** inne podmioty, na zlecenie banku hipotecznego, po uzgodnieniu z kredytobiorcą, w szczególności podmioty, o których mowa w art. 174 ust. 2 i 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2021 r. poz. 1899 oraz z 2022 r. poz. 1846 i 2185).
+Wysokość zobowiązań wynikających z czynności, o których mowa w ust. 1 pkt 1-3, nie może przekroczyć łącznie podwójnej wysokości funduszy własnych banku hipotecznego, uzyskane zaś środki mogą być przeznaczone tylko na refinansowanie czynności, o których mowa w art. 12.
 
-4. Ekspertyza, o której mowa w ust. 2, sporządzana jest na piśmie i opatrzona podpisem osoby ją sporządzającej. Ekspertyza ta powinna umożliwiać należytą kontrolę, przez Komisję Nadzoru Finansowego i powiernika, podejmowanego przez bank hipoteczny ryzyka związanego z nieruchomością jako przedmiotem zabezpieczenia kredytów udzielanych przez bank hipoteczny.
+### Art. 16.
 
-5. Szczegółowe zasady ustalania bankowo-hipotecznej wartości nieruchomości określa regulamin wydawany przez bank hipoteczny. Regulamin, a także każda jego zmiana, wymagają zatwierdzenia przez Komisję Nadzoru Finansowego.
+### 1.
 
-**Art. 23.**
+Wolne środki pieniężne bank hipoteczny może przeznaczyć na:
 
-1. Wierzytelności zabezpieczone hipotekami ustanowionymi w trakcie realizacji inwestycji budowlanych nie mogą w sumie przekraczać 10% ogólnej wartości wierzytelności zabezpieczonych hipotecznie, stanowiących podstawę emisji hipotecznych listów zastawnych. W ramach tego limitu wierzytelności zabezpieczone hipotekami, ustanowionymi na nieruchomościach przeznaczonych pod zabudowę zgodnie z planem zagospodarowania przestrzennego, nie mogą przekraczać 10%.
+### 1)
 
-2. Nie mogą stanowić podstawy emisji hipotecznych listów zastawnych wierzytelności zabezpieczone hipotekami ustanowionymi na nieruchomościach, których eksploatacja zgodnie z przeznaczeniem nie posiada trwałego charakteru, a w szczególności na nieruchomościach, których częścią składową są złoża kopalin.
+lokaty w bankach posiadających kapitał własny w wysokości nie mniejszej niż równowartość 10 000 000 ECU w walucie polskiej,
 
-#### Rozdział 3 Wierzytelności zabezpieczające emisję listów zastawnych
+### 2)
 
-**Art. 24.**
+nabycie wyemitowanych przez siebie listów zastawnych w celu ich zdeponowania pod nadzorem powiernika, o ile jest to związane z wypełnieniem przez bank hipoteczny wymogu, o którym mowa w art. 18 ustawy, lub w celu umorzenia,
 
-1. Bank hipoteczny prowadzi i przechowuje rejestr zabezpieczenia listów zastawnych, do którego wpisywane są w odrębnych pozycjach wierzytelności banku hipotecznego oraz prawa i środki, o których mowa w art. 18 ust. 3 i 4, stanowiące podstawę emisji listów zastawnych, a także środki tworzące nadwyżkę, o której mowa w art. 18 ust. 3a. Rejestr zabezpieczenia listów zastawnych prowadzony jest odrębnie dla hipotecznych listów zastawnych i dla publicznych listów zastawnych.
+### 3)
 
-2. (uchylony) 2a. Czynność polegająca na ustanowieniu zabezpieczenia zobowiązania banku hipotecznego, której przedmiotem są wierzytelności banku hipotecznego lub prawa lub środki, o których mowa w art. 18 ust. 3, 3a i 4, wpisane do rejestru zabezpieczenia listów zastawnych, jest nieważna, chyba że została dokonana w celu zabezpieczenia jego zobowiązań na potrzeby:
+nabycie papierów wartościowych emitowanych lub gwarantowanych przez podmioty, o których mowa w art. 3 ust. 2 pkt 1.
 
-- **1)** instrumentów pochodnych, w przypadku których zostały spełnione warunki określone w art. 18a ust. 1, wpisanych do rejestru zabezpieczenia listów zastawnych;
-- **2)** systemu płatności i systemu rozrachunku papierów wartościowych, których uczestnikiem jest bank hipoteczny, oraz rozliczeń zabezpieczeń finansowych ustanowionych zgodnie z przepisami ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2022 r. poz. 133).
+### 2.
 
-3. Czynność rozporządzająca banku hipotecznego, której przedmiotem jest wierzytelność hipoteczna wpisana do rejestru zabezpieczenia listów zastawnych, wymaga uprzedniej pisemnej zgody powiernika.
+Bank hipoteczny może nabywać nieruchomości jedynie w celu uniknięcia strat z tytułu udzielonych kredytów zabezpieczonych hipoteką oraz gdy jest to niezbędne ze względu na potrzeby związane z działalnością banku.
 
-4. Wpisy, o których mowa w ust. 1, dokonywane są do pełnej wysokości kredytu udzielonego na podstawie umowy kredytowej zawartej z bankiem hipotecznym lub umowy kredytowej, z której wynika wierzytelność hipoteczna nabyta przez bank hipoteczny.
+### Art. 17.
 
-5. (uchylony)
+### 1.
 
-6. Komisja Nadzoru Finansowego, w drodze uchwały, określi wzór rejestru zabezpieczenia listów zastawnych.
+Łączna kwota nominalnych wartości znajdujących się w obrocie listów zastawnych banku hipotecznego nie może przekroczyć 40-krotności jego funduszy własnych.
 
-**Art. 25.**
+### 2.
 
-1. Bank hipoteczny przeprowadza rachunek zabezpieczenia listów zastawnych w celu monitorowania wypełniania w perspektywie długookresowej wymogów, o których mowa w art. 18 ust. 1, 1a i 2. Rachunek jest przeprowadzany w każdym dniu roboczym.
+Do funduszy własnych, stanowiących podstawę wyliczenia kwoty, o której mowa w ust. 1, wlicza się rezerwę, którą bank hipoteczny może utworzyć w celu zabezpieczenia listów zastawnych.
 
-2. Bank hipoteczny ustala, czy – na dzień dokonania ustalenia – wierzytelności banku hipotecznego oraz prawa i środki, o których mowa w art. 18 ust. 3, 3a i 4, wpisane do rejestru zabezpieczenia listów zastawnych, wystarczają na:
+### 3.
 
-- **1)** pełne zaspokojenie posiadaczy listów zastawnych (test równowagi pokrycia) oraz
-- **2)** pełne zaspokojenie posiadaczy listów zastawnych w przedłużonych terminach wymagalności, o których mowa w art. 446 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (test płynności).
+Komisja Nadzoru Bankowego określi, w drodze uchwały, sposób wykorzystania rezerwy, o której mowa w ust. 2.
 
-3. Przeprowadzając test równowagi pokrycia i test płynności, bank hipoteczny uwzględnia:
+### Art. 18.
 
-- **1)** instrumenty pochodne uwzględnione w puli aktywów stanowiących zabezpieczenie, przy czym:
-    - **a)** w teście równowagi pokrycia – uwzględnia wartość nabytych instrumentów pochodnych oraz zmiany wartości tych instrumentów,
-    - **b)** w teście płynności – uwzględnia płatności z tytułu instrumentów pochodnych;
+### 1.
 
-- **2)** szacowane koszty utrzymania programu emisji listów zastawnych i szacowane koszty administrowania tym programem w przypadku jego likwidacji;
-- **3)** koszty likwidacji osobnej masy upadłości oraz różnice walutowe i oprocentowania, jeżeli takie różnice między składnikami osobnej masy upadłości a zobowiązaniami z listów zastawnych nie będą zabezpieczone przez odpowiednie transakcje zabezpieczające przed ryzykiem zmiany stopy procentowej lub ryzykiem walutowym.
+Łączna kwota nominalnych wartości znajdujących się w obrocie hipotecznych listów zastawnych nie może przekraczać sumy nominalnych kwot wierzytelności banku zabezpieczonych hipoteką, stanowiących podstawę emisji hipotecznych listów zastawnych, z zastrzeżeniem ust. 3.
 
-4. Test równowagi pokrycia jest przeprowadzany nie rzadziej niż co 6 miesięcy, a test płynności – nie rzadziej niż co 3 miesiące.
+### 2.
 
-5. Wyniki testu równowagi pokrycia i testu płynności uznaje się za pozytywne, jeżeli po ich przeprowadzeniu ustalono, że – na dzień dokonania ustalenia – wierzytelności banku hipotecznego oraz prawa i środki, o których mowa w art. 18 ust. 3, 3a i 4, wpisane do rejestru zabezpieczenia listów zastawnych, wystarczają na pełne zaspokojenie posiadaczy listów zastawnych.
+Dochód banku hipotecznego z tytułu odsetek od wierzytelności zabezpieczonych hipoteką, o których mowa w ust. 1, nie może być niższy od sumy zobowiązań banku z tytułu odsetek od znajdujących się w obrocie hipotecznych listów zastawnych.
 
-6. Rachunek zabezpieczenia listów zastawnych oraz test równowagi pokrycia i test płynności są przeprowadzane odrębnie dla hipotecznych listów zastawnych i dla publicznych listów zastawnych.
+### 3.
 
-7. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, szczegółowe warunki oraz sposób przeprowadzania:
+Podstawą emisji hipotecznych listów zastawnych, do wysokości 10% kwoty zabezpieczonych hipoteką wierzytelności banku, o których mowa w ust. 1, mogą być także środki banku hipotecznego:
 
-- **1)** rachunku zabezpieczenia listów zastawnych, o którym mowa w ust. 1, w tym terminy, dla których jest on przeprowadzany,
-- **2)** testu równowagi pokrycia i testu płynności – mając na względzie konieczność zapewnienia bezpieczeństwa wyemitowanych listów zastawnych.
+### 1)
 
-**Art. 26.** Bank hipoteczny ogłasza w Monitorze Sądowym i Gospodarczym, nie później niż przed upływem trzech miesięcy od zakończenia roku obrotowego:
+ulokowane w papierach wartościowych, o których mowa w art. 16 ust. 1 pkt 3,
 
-### DZIAŁ IV Kontrola i nadzór nad bankami hipotecznymi
+### 2)
 
-**Art. 27.**
+ulokowane w Narodowym Banku Polskim,
 
-1. Przy każdym banku hipotecznym powołuje się powiernika oraz co najmniej jednego zastępcę powiernika, przy czym liczbę zastępców powiernika dostosowuje się do skali działalności banku hipotecznego. Powiernik i jego zastępca nie mogą być pracownikami banku hipotecznego.
+### 3)
 
-2. Powiernika i jego zastępcę powołuje na okres 6 lat, na wniosek rady nadzorczej banku hipotecznego, Komisja Nadzoru Finansowego. Ta sama osoba może być ponownie powołana na powiernika lub jego zastępcę tylko raz.
+posiadane w gotówce.
 
-3. Powiernik i jego zastępca powinni posiadać obywatelstwo jednego z państw-członków Unii Europejskiej, wykształcenie wyższe i dawać rękojmię rzetelnego wykonywania nałożonych na nich obowiązków.
+### Art. 19.
 
-**Art. 28.**
+### 1.
 
-1. Powiernik i jego zastępca mogą być odwołani przez Komisję Nadzoru Finansowego w razie:
+W rozumieniu niniejszej ustawy listy zastawne wyemitowane przez bank hipoteczny i przekazane do depozytu pod nadzór powiernika nie są listami zastawnymi w obrocie.
 
-- **1)** zrzeczenia się wykonywania obowiązków;
-- **2)** utraty zdolności do pełnienia powierzonych im obowiązków na skutek długotrwałej choroby, trwającej co najmniej 3 miesiące w ciągu roku kalendarzowego;
-- **3)** skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa;
-- **4)** upadłości banku hipotecznego;
-- **5)** niewypełnienia czynności, do których są zobowiązani zgodnie z niniejszą ustawą.
+### 2.
 
-2. Od decyzji Komisji Nadzoru Finansowego odwołującej powiernika lub jego zastępcę służy skarga do sądu administracyjnego.
+W przypadku emitowania hipotecznych listów zastawnych w walucie obcej innej niż:
 
-**Art. 29.**
+### 1)
 
-1. Powiernik i jego zastępca są niezależni i nie podlegają poleceniom organu, który ich powołał, oraz są niezależni od firmy audytorskiej, o której mowa w art. 46 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2022 r. poz. 1302), badającej sprawozdanie finansowe banku hipotecznego.
+waluta, w której wyrażone są wierzytelności banku hipotecznego zabezpieczające te listy, lub
 
-2. Spory między powiernikiem a bankiem hipotecznym rozstrzyga Komisja Nadzoru Finansowego.
+### 2)
 
-**Art. 30.**
+waluta, w której wyrażone są środki, o których mowa w art. 18 ust. 3,
 
-1. Do zadań powiernika należy sprawdzanie, czy:
+bank hipoteczny obowiązany jest do dokonania czynności ograniczających ryzyko walutowe.
 
-- **1)** zobowiązania wynikające ze znajdujących się w obrocie listów zastawnych zabezpieczone są przez bank hipoteczny zgodnie z przepisami niniejszej ustawy;
-- **2)** przyjęta przez bank hipoteczny bankowo-hipoteczna wartość nieruchomości ustalona została zgodnie z regulaminem, o którym mowa w art. 22 ust. 2; do zadań powiernika nie należy sprawdzanie, czy bankowo-hipoteczna wartość nieruchomości odpowiada jej wartości rzeczywistej;
-- **3)** bank hipoteczny przestrzega wymogów, o których mowa w art. 18;
-- **3a)** wyniki testu równowagi pokrycia i testu płynności potwierdzają, że wierzytelności banku hipotecznego oraz prawa i środki, o których mowa w art. 18 ust. 3, 3a i 4, wpisane do rejestru zabezpieczenia listów zastawnych, wystarczają na pełne zaspokojenie posiadaczy listów zastawnych;
-- **4)** sposób prowadzenia przez bank hipoteczny rejestru zabezpieczenia listów zastawnych odpowiada warunkom niniejszej ustawy;
-- **5)** bank hipoteczny zapewnia zgodnie z przepisami niniejszej ustawy zabezpieczenie dla planowanej emisji listów zastawnych oraz kontrolę, czy dokonane zostały odpowiednie wpisy do rejestru zabezpieczenia listów zastawnych.
+### Art. 20.
 
-2. Powiernik corocznie, nie później niż do dnia 31 marca, przedstawia Komisji Nadzoru Finansowego sprawozdanie dotyczące działalności banku hipotecznego w zakresie zadań powiernika, o których mowa w ust. 1, za rok poprzedni.
+### 1.
 
-**Art. 30a.** W przypadku:
+Wierzytelność banku hipotecznego, która ma być wpisana do rejestru zabezpieczenia hipotecznych listów zastawnych, może być zabezpieczona wyłącznie hipoteką wpisaną w księdze wieczystej na pierwszym miejscu.
 
-**Art. 31.**
+### 2.
 
-1. Powiernik prowadzi bieżącą kontrolę prawidłowości prowadzenia rejestru zabezpieczenia listów zastawnych.
+Jeżeli wierzytelność banku hipotecznego została wyrażona w walucie obcej, wpisu hipoteki zabezpieczającej tę wierzytelność dokonuje się w księdze wieczystej w tej samej walucie.
 
-2. Do 7 dnia każdego miesiąca powiernik przekazuje Komisji Nadzoru Finansowego zatwierdzony przez siebie, aktualny odpis wpisów w rejestrze zabezpieczenia listów zastawnych za miesiąc poprzedni. Komisja Nadzoru Finansowego przechowuje odpisy co najmniej przez 10 lat.
+### 3.
 
-3. Wykreślenie wpisów w rejestrze zabezpieczenia listów zastawnych może nastąpić jedynie za pisemną zgodą powiernika; złożenie przez powiernika czytelnego podpisu przy adnotacji o wykreśleniu wpisu z rejestru jest równoznaczne z wyrażeniem zgody na piśmie.
+Wniosek o wpis hipoteki zabezpieczającej wierzytelność hipoteczną, która ma być wpisana do rejestru zabezpieczenia hipotecznych listów zastawnych, sąd prowadzący księgę wieczystą rozpoznaje w ciągu miesiąca od dnia złożenia wniosku.
 
-**Art. 32.**
+### Art. 21.
 
-1. W celu wykonania zadań, o których mowa w art. 30 ust. 1, powiernik ma prawo badać w dowolnym czasie księgi rachunkowe, rejestry, plany i inne dokumenty banku.
+### 1.
 
-1a. Powiernikowi i jego zastępcy, w związku z wykonywaniem ich zadań, bank hipoteczny, w zakresie określonym w ust. 1, udziela informacji stanowiących tajemnicę bankową.
+W przypadku gdy termin wykupu listu zastawnego jest dłuższy niż 5 lat od dnia emisji, bank hipoteczny, dla zapewnienia zgodności działania z przepisami art. 18, może dokonać umorzenia listów zastawnych przed terminem wykupu, jednak nie wcześniej niż po upływie 5 lat od dnia emisji.
 
-1b. Powiernik i jego zastępca są obowiązani do nieujawniania informacji, które uzyskali w czasie pełnienia przez nich funkcji.
+### 2.
 
-2. W przypadku niewykonania przez bank hipoteczny zaleceń powiernika podjętych w związku z czynnościami, do których zobowiązany jest na podstawie niniejszej ustawy, powiernik niezwłocznie zawiadamia o tym Komisję Nadzoru Finansowego.
+Jeżeli zabezpieczona hipoteką wierzytelność banku wpisana do rejestru zabezpieczenia listów zastawnych powstała w wyniku umowy o udzielenie kredytu o stałym oprocentowaniu, możliwość wcześniejszego jednostronnego wypowiedzenia umowy kredytowej przez kredytobiorcę może być wyłączona, jednak na okres nie dłuższy niż 5 lat.
 
-3. W celu usunięcia stwierdzonych nieprawidłowości Komisja Nadzoru Finansowego może skorzystać z uprawnień nadzorczych, określonych przepisami Prawa bankowego oraz przepisami o Narodowym Banku Polskim.
+### Art. 22.
 
-**Art. 33.**
+### 1.
 
-1. Powiernik i jego zastępca otrzymują wynagrodzenie, którego wysokość ustala Komisja Nadzoru Finansowego w akcie powołania. Koszty związane z wykonywaniem funkcji powiernika i jego zastępcy, w tym wynagrodzenie, stanowią koszt działalności banku.
+Wycena nieruchomości, w celu określenia jej bankowo-hipotecznej wartości, dokonywana jest z zachowaniem należytej staranności, w szczególności z uwzględnieniem jedynie tych cech nieruchomości oraz związanych z nią dochodów, które przy założeniu racjonalnej eksploatacji mogą mieć trwały charakter i które może uzyskać każdy posiadacz tej nieruchomości.
 
-2. Bank hipoteczny zapewnia powiernikowi i jego zastępcy warunki pracy odpowiednie do wykonywanych przez nich zadań.
+### 2.
 
-3. Powiernikowi i jego zastępcy przysługuje prawo do urlopu wypoczynkowego na zasadach określonych w Kodeksie pracy, w terminie uzgodnionym z bankiem hipotecznym.
+Szczegółowe zasady wyceny wartości nieruchomości, na których mają być ustanowione hipoteki zabezpieczające wierzytelności wpisywane do rejestru zabezpieczenia listów zastawnych, określa regulamin wyceny nieruchomości, wydawany przez bank hipoteczny. Regulamin, a także każda jego zmiana, wymagają zatwierdzenia przez Komisję Nadzoru Bankowego.
 
-4. Okres pełnienia funkcji powiernika i jego zastępcy zalicza się do okresów pracy oraz innych okresów, od których zależy nabycie uprawnień pracowniczych. Do osób pełniących funkcję powiernika i jego zastępcy mają zastosowanie przepisy o ubezpieczeniu społecznym i zdrowotnym, o ile osoby te nie są objęte tymi ubezpieczeniami z innych tytułów.
+### Art. 23.
 
-**Art. 33a.**
+### 1.
 
-1. Komisja Nadzoru Finansowego sprawuje, w ramach nadzoru sprawowanego na podstawie przepisów niniejszej ustawy oraz ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe, nadzór nad działalnością banku hipotecznego w zakresie emitowania listów zastawnych.
+Wierzytelności zabezpieczone hipotekami ustanowionymi w trakcie realizacji inwestycji budowlanych nie mogą w sumie przekraczać 10% ogólnej wartości wierzytelności zabezpieczonych hipotecznie, stanowiących podstawę emisji hipotecznych listów zastawnych. W ramach tego limitu wierzytelności zabezpieczone hipotekami, ustanowionymi na nieruchomościach przeznaczonych pod zabudowę zgodnie z planem zagospodarowania przestrzennego, nie mogą przekraczać 10%.
 
-2. Komisja Nadzoru Finansowego dokonuje oceny, nie rzadziej niż co 12 miesięcy, czy emitowanie listów zastawnych przez bank hipoteczny jest zgodne z przepisami niniejszej ustawy oraz wydanymi na jej podstawie aktami wykonawczymi.
+### 2.
 
-3. W celu dokonania oceny, o której mowa w ust. 2, Komisja Nadzoru Finansowego może żądać przedstawienia przez bank hipoteczny informacji, o których mowa w art. 33c ust. 1, według stanu na dzień wskazany w takim żądaniu.
+Nie mogą stanowić podstawy emisji hipotecznych listów zastawnych wierzytelności zabezpieczone hipotekami ustanowionymi na nieruchomościach, których eksploatacja zgodnie z przeznaczeniem nie posiada trwałego charakteru, a w szczególności na nieruchomościach, których częścią składową są złoża kopalin.
 
-4. Komisja Nadzoru Finansowego może, w drodze decyzji administracyjnej, nakazać bankowi hipotecznemu dostosowanie emitowania listów zastawnych w ramach programu emisji listów zastawnych do obowiązujących przepisów prawa, a także może określić termin na wykonanie tego nakazu.
+### Rozdział 3 Wierzytelności zabezpieczające emisję listów zastawnych
 
-**Art. 33b.**
+### Art. 24.
 
-1. Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej wykaz banków hipotecznych.
+### 1.
 
-2. Komisja Nadzoru Finansowego corocznie, nie później niż do dnia 31 stycznia, przekazuje Europejskiemu Urzędowi Nadzoru Bankowego wykaz, o którym mowa w ust. 1, według stanu na ostatni dzień roku poprzedniego.
+Bank hipoteczny prowadzi i przechowuje rejestr zabezpieczenia listów zastawnych, do którego wpisywane są w odrębnych pozycjach wierzytelności banku hipotecznego oraz środki, o których mowa w art. 18 ust. 3, stanowiące podstawę emisji listów zastawnych. Rejestr zabezpieczenia listów zastawnych prowadzony jest odrębnie dla hipotecznych listów zastawnych i dla publicznych listów zastawnych.
 
-3. Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej obowiązujące oraz projektowane przepisy prawa powszechnie obowiązującego w zakresie emisji listów zastawnych, a także wytyczne i stanowiska Komisji Nadzoru Finansowego oraz wytyczne europejskich urzędów nadzoru z tego zakresu.
+### 2.
 
-4. Komisja Nadzoru Finansowego udostępnia na swojej stronie internetowej wykaz emisji listów zastawnych, w ramach których wyemitowano listy zastawne oznaczone zgodnie z art. 7d.
+W przypadku ustanowienia hipoteki zabezpieczającej wierzytelność banku hipotecznego wpisaną do rejestru zabezpieczenia hipotecznych listów zastawnych, należy uczynić o tym wpis w księdze wieczystej.
 
-5. Komisja Nadzoru Finansowego na bieżąco aktualizuje wykazy, o których mowa odpowiednio w ust. 1 i 4, a także zapewnia aktualność informacji, o których mowa w ust. 3.
+### 3.
 
-**Art. 33c.**
+Czynność rozporządzająca banku hipotecznego, której przedmiotem jest wierzytelność hipoteczna wpisana do rejestru zabezpieczenia listów zastawnych, wymaga uprzedniej pisemnej zgody powiernika.
 
-1. Bank hipoteczny przekazuje Komisji Nadzoru Finansowego corocznie, nie później niż do dnia 31 marca, według stanu na ostatni dzień roku poprzedniego, informacje o:
+### 4.
 
-- **1)** wartości aktywów stanowiących zabezpieczenie listów zastawnych;
-- **2)** wartości aktywów podstawowych;
-- **3)** wartości aktywów zastępczych;
-- **4)** czynnościach na instrumentach pochodnych uwzględnionych w puli aktywów stanowiących zabezpieczenie dokonanych w okresie od daty przekazania przez bank hipoteczny poprzedniej informacji;
-- **5)** spełnianiu wymogów, o których mowa w art. 18 ust. 3a–3d;
-- **6)** spełnianiu wymogów dotyczących limitów określonych w art. 15 ust. 2, art. 17 ust. 1, art. 18 ust. 1 i 1a oraz art. 23 ust. 1;
-- **7)** rachunku zabezpieczenia listów zastawnych, o którym mowa w art. 25 ust. 1;
-- **8)** wynikach testu równowagi pokrycia i testu płynności, o których mowa w art. 25 ust. 2, przeprowadzonych w okresie od daty przekazania przez bank hipoteczny poprzedniej informacji;
-- **9)** wartości zobowiązań z tytułu wyemitowanych listów zastawnych, w odniesieniu odpowiednio do hipotecznych i publicznych listów zastawnych.
+Wpisy, o których mowa w ust. 1, dokonywane są do pełnej wysokości kredytu udzielonego na podstawie umowy kredytowej zawartej z bankiem hipotecznym lub umowy kredytowej, z której wynika wierzytelność hipoteczna nabyta przez bank hipoteczny.
 
-2. Bank hipoteczny przekazuje Komisji Nadzoru Finansowego informacje, o których mowa w ust. 1, także w przypadku ogłoszenia jego upadłości lub oddalenia w stosunku do niego wniosku o ogłoszenie upadłości na podstawie art. 13 ust. 1 lub 2 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe albo wszczęcia wobec niego przymusowej restrukturyzacji lub uporządkowanej likwidacji.
+### 5.
 
-3. Banki hipoteczne przekazują informacje, o których mowa w ust. 1, za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
+Do nieruchomości będących przedmiotem zabezpieczenia hipoteką wierzytelności banku hipotecznego, wpisanych do rejestru zabezpieczenia listów zastawnych, nie stosuje się przepisów dotyczących hipoteki ustawowej z tytułu zobowiązań podatkowych.
 
-4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może określić, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1, mając na względzie zapewnienie bezpieczeństwa wyemitowanych listów zastawnych.
+### 6.
 
-**Art. 33d.**
+Komisja Nadzoru Bankowego, w drodze uchwały, określi wzór rejestru zabezpieczenia listów zastawnych.
 
-1. Bank hipoteczny, nie później niż do końca każdego kwartału, według stanu na ostatni dzień kwartału poprzedniego, udostępnia na swojej stronie internetowej informacje o emisjach listów zastawnych zawierające co najmniej:
+### Art. 25.
 
-- **1)** wartość puli aktywów stanowiących zabezpieczenie oraz łączną kwotę nominalnych wartości listów zastawnych znajdujących się w obrocie;
-- **2)** numery serii znajdujących się w obrocie listów zastawnych (kody ISIN);
-- **3)** rozkład geograficzny aktywów stanowiących zabezpieczenie udzielonych kredytów, rodzaj takich aktywów, informacje na temat kwoty związanych z nimi kredytów oraz metody wyceny takich aktywów;
-- **4)** opis i ocenę różnych kategorii ryzyka związanego z daną emisją listów zastawnych, w tym ryzyka stopy procentowej i ryzyka walutowego oraz ryzyka kredytowego i ryzyka płynności;
-- **5)** strukturę terminów zapadalności aktywów wpisanych do rejestru zabezpieczenia listów zastawnych oraz terminy zapadalności listów zastawnych, a także wskazanie zdarzeń, których wystąpienie powoduje przedłużenie terminu zapadalności listów zastawnych;
-- **6)** poziom dostępnego, wymaganego oraz ustanowionego nadzabezpieczenia;
-- **7)** udział kredytów, w przypadku których nastąpiło niewykonanie zobowiązania w rozumieniu art. 178 rozporządzenia (UE) nr 575/2013, oraz kredytów, w przypadku których nastąpiło opóźnienie w spłacie wynoszące więcej niż 90 dni, we wszystkich kredytach uwzględnionych w puli aktywów stanowiących zabezpieczenie.
+Bank hipoteczny prowadzi rachunek zabezpieczenia listów zastawnych, w celu wykazania zgodności wpisów w rejestrze, o którym mowa w art. 24 ust. 1, z zasadami ich dokonywania, o których mowa w art. 18 ustawy.
 
-2. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji Nadzoru Finansowego, może określić, w drodze rozporządzenia, szczegółowy zakres informacji, o których mowa w ust. 1, oraz sposób ich prezentacji, mając na względzie, aby informacje te umożliwiały inwestorom przeprowadzenie oceny ryzyka związanego z emisją listów zastawnych.
+### Art. 26.
 
-**Art. 33e.**
+Bank hipoteczny ogłasza w Monitorze Sądowym i Gospodarczym, nie później niż do dnia 31 marca każdego roku kalendarzowego:
 
-1. Komisja Nadzoru Finansowego, w drodze decyzji administracyjnej, ogranicza działalność banku hipotecznego w zakresie dotyczącym emitowania listów zastawnych w razie stwierdzenia, że bank hipoteczny:
+### 1)
 
-- **1)** uzyskał zezwolenie na emitowanie listów zastawnych w ramach programu emisji listów zastawnych na podstawie nieprawdziwych informacji lub dokumentów poświadczających nieprawdę lub
-- **2)** emituje listy zastawne w ramach programu emisji listów zastawnych, rażąco i uporczywie naruszając przepisy prawa.
+łączną kwotę nominalnych wartości wyemitowanych przez ten bank listów zastawnych, jakie znajdowały się w obrocie na ostatni dzień roku obrotowego,
 
-2. Komisja Nadzoru Finansowego może, w drodze decyzji administracyjnej, ograniczyć działalność banku hipotecznego w zakresie dotyczącym emitowania listów zastawnych w razie stwierdzenia, że bank hipoteczny:
+### 2)
 
-- **1)** przestał spełniać warunki prowadzenia działalności w zakresie emitowania listów zastawnych lub
-- **2)** uwzględnił w puli aktywów stanowiących zabezpieczenie instrumenty pochodne, w przypadku których nie zostały spełnione warunki określone w art. 18a ust. 1, lub
-- **3)** emituje listy zastawne przewidujące przedłużenie terminu ich zapadalności w przypadku innym niż określony w art. 7b, lub
-- **4)** stosuje oznaczenia listów zastawnych, o których mowa w art. 7d, niezgodnie z określonymi w ustawie warunkami ich stosowania lub w inny sposób istotnie narusza interesy inwestorów nabywających listy zastawne, lub
-- **5)** nie przekazuje informacji, o których mowa w art. 33c ust. 1, lub przekazuje je niezgodnie z tym przepisem, lub
-- **6)** nie udostępnia informacji, o których mowa w art. 33d ust. 1, lub udostępnia je niezgodnie z tym przepisem, lub
-- **7)** narusza przepisy art. 24 ust. 1, 3 i 4 lub przepisy dotyczące utrzymywania nadwyżki, o której mowa w art. 18 ust. 3a.
+łączną kwotę wierzytelności banku hipotecznego i środków wpisanych do rejestru zabezpieczenia listów zastawnych według stanu na ostatni dzień roku obrotowego.
 
-**Art. 33f.**
+### Dział IV Kontrola i nadzór nad bankami hipotecznymi
 
-1. Jeżeli uzasadnia to charakter naruszeń, o których mowa w art. 33e ust. 1 pkt 1 i ust. 2, Komisja Nadzoru Finansowego może, zamiast ograniczenia działalności banku hipotecznego w zakresie dotyczącym emitowania listów zastawnych, nałożyć, w drodze decyzji administracyjnej, karę pieniężną na bank hipoteczny lub członka zarządu banku hipotecznego odpowiedzialnego za naruszenie.
+### Art. 27.
 
-2. Komisja Nadzoru Finansowego może jednocześnie z nałożeniem kary pieniężnej nakazać, w drodze decyzji administracyjnej, bankowi hipotecznemu lub członkowi zarządu banku hipotecznego odpowiedzialnemu za naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań w przyszłości.
+### 1.
 
-3. Kara pieniężna, o której mowa w ust. 1, wynosi:
+Przy każdym banku hipotecznym powołuje się powiernika i jego zastępcę. Powiernik i jego zastępca nie mogą być pracownikami banku hipotecznego.
 
-- **1)** w przypadku jej nałożenia na bank hipoteczny – do 10% przychodu wykazanego w ostatnim zbadanym sprawozdaniu finansowym banku hipotecznego, a w przypadku braku takiego sprawozdania – do 10% prognozowanego przychodu określonego na podstawie sytuacji ekonomiczno-finansowej banku hipotecznego;
-- **2)** w przypadku jej nałożenia na członka zarządu banku hipotecznego odpowiedzialnego za naruszenie – do kwoty 20 000 000 zł.
+### 2.
 
-**Art. 33g.** Komisja Nadzoru Finansowego, ustalając wysokość kary pieniężnej, o której mowa w art. 33f ust. 1, uwzględnia:
+Powiernika i jego zastępcę powołuje Komisja Nadzoru Bankowego po zasięgnięciu opinii zarządu banku hipotecznego.
 
-**Art. 33h.**
+### 3.
 
-1. Komisja Nadzoru Finansowego niezwłocznie przekazuje do publicznej wiadomości informacje o:
+Powiernikiem i jego zastępcą może być wyłącznie obywatel polski posiadający wykształcenie wyższe i dający rękojmię rzetelnego wykonywania nałożonych na niego obowiązków.
 
-- **1)** nałożeniu na podstawie niniejszej ustawy sankcji administracyjnej;
-- **2)** rodzaju i charakterze stwierdzonych naruszeń;
-- **3)** firmie (nazwie) banku hipotecznego lub imieniu i nazwisku członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie;
-- **4)** złożeniu wniosku o ponowne rozpatrzenie sprawy albo skargi do sądu administracyjnego oraz wyniku tego postępowania;
-- **5)** prawomocnym orzeczeniu sądu administracyjnego uchylającym wydaną przez Komisję Nadzoru Finansowego decyzję administracyjną o nałożeniu sankcji administracyjnej na podstawie niniejszej ustawy.
+### Art. 28.
 
-2. Informacje, o których mowa w ust. 1, są udostępniane na stronie internetowej Komisji Nadzoru Finansowego przez okres 5 lat, licząc od dnia udostępnienia tej informacji, przy czym wskazanie imienia i nazwiska członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, po poinformowaniu tego członka zarządu, jest udostępniane przez okres nie dłuższy niż rok.
+### 1.
 
-3. W informacji, o której mowa w ust. 1, Komisja Nadzoru Finansowego nie podaje firmy (nazwy) banku hipotecznego ani imienia i nazwiska członka zarządu banku hipotecznego odpowiedzialnego za dane naruszenie, jeżeli udostępnienie tych danych:
+Powiernik i jego zastępca mogą być odwołani przez Komisję Nadzoru Bankowego w razie:
 
-- **1)** byłoby środkiem niewspółmiernym do wagi dokonanego naruszenia;
-- **2)** stanowiłoby zagrożenie dla stabilności rynku finansowego;
-- **3)** zagroziłoby prowadzonemu postępowaniu karnemu lub postępowaniu w sprawach o przestępstwa skarbowe;
-- **4)** wyrządziłoby niewspółmierną szkodę bankowi hipotecznemu lub członkowi zarządu.
+### 1)
 
-**Art. 33i.** Komisja Nadzoru Finansowego informuje Europejski Urząd Nadzoru Bankowego o:
+zrzeczenia się wykonywania obowiązków,
 
-**Art. 34.**
+### 2)
 
-1. W zakresie nieuregulowanym niniejszą ustawą nadzór nad bankami hipotecznymi wykonywany jest zgodnie z przepisami Prawa bankowego oraz przepisami o Narodowym Banku Polskim.
+utraty zdolności do pełnienia powierzonych im obowiązków na skutek długotrwałej choroby, trwającej co najmniej 3 miesiące w ciągu roku kalendarzowego,
 
-2. (uchylony)
+### 3)
 
-3. Sprawdzanie prawidłowości dokonywanych przez bank hipoteczny wpisów do rejestru zabezpieczenia listów zastawnych, w tym również zgodność ustalania bankowo-hipotecznej wartości nieruchomości z zasadami, o których mowa w regulaminie wydanym na podstawie art. 22 ust. 5, Komisja Nadzoru Finansowego może zlecić niezależnemu biegłemu na koszt kontrolowanego banku.
+skazania prawomocnym wyrokiem sądu za popełnienie przestępstwa,
 
-4. Komisja Nadzoru Finansowego może określić szczególne normy płynności oraz inne normy dopuszczalnego ryzyka w działalności banku hipotecznego.
+### 4)
 
-### DZIAŁ V (uchylony)
+upadłości banku hipotecznego,
 
-### DZIAŁ VI Przepisy karne
+### 5)
 
-**Art. 37.**
+niewypełnienia czynności, do których są zobowiązani zgodnie z niniejszą ustawą.
 
-1. Kto dokonuje emisji listów zastawnych nie będąc do tego uprawnionym lub przy emisji narusza obowiązki określone w art. 17, art. 19, art. 22 ust. 1–4 i art. 23, lub nie będąc uprawnionym do emitowania listów zastawnych emitowane papiery wartościowe określa nazwą „list zastawny” lub inną nazwą, która zawiera te wyrazy, lub nazwą „europejski list zastawny”, „europejska obligacja zabezpieczona”, „europejski list zastawny (premium)”, „europejska obligacja zabezpieczona (premium)”, lub używa tych oznaczeń w języku urzędowym Unii Europejskiej, podlega grzywnie do 50 000 zł i karze pozbawienia wolności od 6 miesięcy do lat 5.
+### 2.
 
-2. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu osoby prawnej.
+Od decyzji Komisji Nadzoru Bankowego odwołującej powiernika lub jego zastępcę służy skarga do Naczelnego Sądu Administracyjnego.
 
-3. Jeżeli sprawca nieumyślnie dopuszcza się czynu określonego w ust. 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+### Art. 29.
 
-### DZIAŁ VII Zmiany w przepisach obowiązujących i przepisy końcowe
+### 1.
 
-**Art. 42.** Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.
+Powiernik i jego zastępca są niezależni i nie podlegają poleceniom organu, który ich powołał.
 
+### 2.
+
+Spory między powiernikiem a bankiem hipotecznym rozstrzyga Komisja Nadzoru Bankowego.
+
+### Art. 30.
+
+Do zadań powiernika należy sprawdzanie, czy:
+
+### 1)
+
+zobowiązania wynikające ze znajdujących się w obrocie listów zastawnych w każdym czasie zabezpieczone są przez bank hipoteczny zgodnie z przepisami niniejszej ustawy,
+
+### 2)
+
+przyjęta przez bank hipoteczny bankowo-hipoteczna wartość nieruchomości wyceniona została zgodnie z regulaminem, o którym mowa w art. 22 ust. 2; do zadań powiernika nie należy sprawdzanie, czy bankowo-hipoteczna wartość nieruchomości odpowiada jej wartości rzeczywistej,
+
+### 3)
+
+suma wartości nominalnych listów zastawnych, znajdujących się w obrocie, nie przekroczyła limitu określonego w art. 18; w przypadku stwierdzenia, że limit ten został przekroczony, powiernik niezwłocznie zawiadamia o tym Komisję Nadzoru Bankowego,
+
+### 4)
+
+sposób prowadzenia przez bank hipoteczny rejestru zabezpieczenia listów zastawnych odpowiada warunkom niniejszej ustawy,
+
+### 5)
+
+bank hipoteczny zapewnia zgodnie z przepisami niniejszej ustawy zabezpieczenie dla planowanej emisji listów zastawnych oraz kontrolę, czy dokonane zostały odpowiednie wpisy do rejestru zabezpieczenia listów zastawnych.
+
+### Art. 31.
+
+### 1.
+
+Powiernik prowadzi bieżącą kontrolę prawidłowości prowadzenia rejestru zabezpieczenia listów zastawnych.
+
+### 2.
+
+Do 7 dnia każdego miesiąca powiernik przekazuje Komisji Nadzoru Bankowego zatwierdzony przez siebie, aktualny odpis wpisów w rejestrze zabezpieczenia listów zastawnych za miesiąc poprzedni. Odpis przechowywany jest w Komisji Nadzoru Bankowego co najmniej przez 10 lat.
+
+### 3.
+
+Wykreślenie wpisów w rejestrze zabezpieczenia listów zastawnych może nastąpić jedynie za pisemną zgodą powiernika; złożenie przez powiernika czytelnego podpisu przy adnotacji o wykreśleniu wpisu z rejestru jest równoznaczne z wyrażeniem zgody na piśmie.
+
+### Art. 32.
+
+### 1.
+
+W celu wykonania zadań, o których mowa w art. 30, powiernik ma prawo badać w dowolnym czasie księgi rachunkowe, rejestry, plany i inne dokumenty banku.
+
+### 2.
+
+W przypadku niewykonania przez bank hipoteczny zaleceń powiernika podjętych w związku z czynnościami, do których zobowiązany jest na podstawie niniejszej ustawy, powiernik niezwłocznie zawiadamia o tym Komisję Nadzoru Bankowego.
+
+### 3.
+
+W celu usunięcia stwierdzonych nieprawidłowości Komisja Nadzoru Bankowego może skorzystać z uprawnień nadzorczych, określonych przepisami Prawa bankowego oraz przepisami o Narodowym Banku Polskim.
+
+### Art. 33.
+
+### 1.
+
+Powiernik i jego zastępca otrzymują wynagrodzenie, którego wysokość określa Komisja Nadzoru Bankowego w akcie powołania; wynagrodzenie wypłaca Komisja Nadzoru Bankowego ze środków przekazanych na ten cel przez bank hipoteczny.
+
+### 2.
+
+Bank hipoteczny zapewnia powiernikowi i jego zastępcy warunki pracy odpowiednie do wykonywanych przez nich zadań.
+
+### Art. 34.
+
+### 1.
+
+W zakresie nie uregulowanym niniejszą ustawą nadzór nad bankami hipotecznymi wykonywany jest zgodnie z przepisami Prawa bankowego oraz przepisami o Narodowym Banku Polskim.
+
+### 2.
+
+Banki hipoteczne podlegają szczególnemu nadzorowi Narodowego Banku Polskiego co do zgodności ich działalności z przepisami niniejszej ustawy.
+
+### 3.
+
+Sprawdzanie prawidłowości dokonywanych przez bank hipoteczny wpisów do rejestru zabezpieczenia listów zastawnych, w tym również zgodność wyceny nieruchomości z zasadami wyceny, o których mowa w regulaminie wydanym na podstawie art. 22 ust. 2, Narodowy Bank Polski może zlecić niezależnemu biegłemu na koszt kontrolowanego banku.
+
+### 4.
+
+Komisja Nadzoru Bankowego może określić szczególne normy płynności oraz inne normy dopuszczalnego ryzyka w działalności banku hipotecznego.
+
+### Dział V Upadłość banku hipotecznego
+
+### Art. 35.
+
+### 1.
+
+W razie ogłoszenia upadłości banku hipotecznego, wierzytelności wpisane do rejestru zabezpieczenia listów zastawnych oraz rezerwa, o której mowa w art. 17 ust. 2, tworzą odrębną masę, która służy wyłącznie zaspokojeniu roszczeń wierzycieli z listów zastawnych; po zaspokojeniu roszczeń wierzycieli z listów zastawnych nadwyżkę środków z odrębnej masy zalicza się do masy upadłości banku.
+
+### 2.
+
+Ogłoszenie upadłości banku hipotecznego nie narusza terminów wymagalności jego zobowiązań wobec wierzycieli z listów zastawnych.
+
+### 3.
+
+Wyodrębnienie masy, o której mowa w ust. 1, następuje w chwilą ogłoszenia upadłości banku, przed zaspokojeniem jakichkolwiek należności.
+
+### Art. 36.
+
+Środki uzyskane w wyniku wyegzekwowania wierzytelności wpisanych do rejestru zabezpieczenia listów zastawnych mogą być wykorzystane wyłącznie dla zaspokojenia roszczeń wynikających z listów zastawnych.
+
+### Dział VI Przepisy karne
+
+### Art. 37.
+
+### 1.
+
+Kto dokonuje emisji listów zastawnych nie będąc do tego uprawniony lub przy emisji narusza obowiązki określone w art. 17-19 i 22-24, lub nie będąc uprawniony do emitowania listów zastawnych emitowane papiery wartościowe określa nazwą „list zastawny” lub inną nazwą, która zawiera te wyrazy, podlega grzywnie do 50 000 zł i karze pozbawienia wolności od 6 miesięcy do lat 5.
+
+### 2.
+
+Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu osoby prawnej.
+
+### 3.
+
+Jeżeli sprawca nieumyślnie dopuszcza się czynu określonego w ust. 1 lub 2, podlega grzywnie, karze ograniczenia wolności albo karze pozbawienia wolności do lat 2.
+
+### Dział VII Zmiany w przepisach obowiązujących i przepisy końcowe
+
+### Art. 38.
+
+W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ([Dz. U. z 1991 r. Nr 118, poz. 512](https://api.sejm.gov.pl/eli/acts/DU/1991/512/text.html), z [1994 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1994/1/text.html), z [1995 r. Nr 85, poz. 426](https://api.sejm.gov.pl/eli/acts/DU/1995/426/text.html), z [1996 r. Nr 6, poz. 43](https://api.sejm.gov.pl/eli/acts/DU/1996/43/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 106, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1996/496/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 28, poz. 153](https://api.sejm.gov.pl/eli/acts/DU/1997/153/text.html), [Nr 54, poz. 349](https://api.sejm.gov.pl/eli/acts/DU/1997/349/text.html), [Nr 117, poz. 751](https://api.sejm.gov.pl/eli/acts/DU/1997/751/text.html) i [Nr 121, poz. 770](https://api.sejm.gov.pl/eli/acts/DU/1997/770/text.html)) w art. 227 wprowadza się następujące zmiany:
+
+### 1)
+
+w § 1 wyrazy „Ministra Finansów” oraz „Minister” zastępuje się wyrazami „Komisji Nadzoru Bankowego” oraz „Komisja Nadzoru Bankowego”;
+
+### 2)
+
+w § 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+ogólną kwotę nominalną nie umorzonych do dnia ogłoszenia upadłości listów zastawnych oraz ogólną kwotę nie zapłaconych odsetek od listów zastawnych, których termin płatności przypada przed tym dniem,
+
+” ;
+
+### 3)
+
+w § 7 skreśla się pkt 3.
+
+### Art. 39.
+
+### 1.
+
+W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece ([Dz. U. Nr 19, poz. 147](https://api.sejm.gov.pl/eli/acts/DU/1982/147/text.html), z [1991 r. Nr 22, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1994 r. Nr 85, poz. 388](https://api.sejm.gov.pl/eli/acts/DU/1994/388/text.html), z [1996 r. Nr 107, poz. 499](https://api.sejm.gov.pl/eli/acts/DU/1996/499/text.html) oraz z [1997 r. Nr 117, poz. 752](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html) i [Nr 137, poz. 926](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.html)) w art. 16 w ust. 2 dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+wierzytelności banku hipotecznego zabezpieczone hipoteką oraz informacje, że zostały one wpisane do rejestru zabezpieczenia listów zastawnych, o którym mowa w ustawie z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. Nr 140, poz. 940)
+
+” .
+
+### 2.
+
+Minister Sprawiedliwości dostosuje do niniejszej ustawy przepisy rozporządzenia z dnia 18 marca 1992 r. w sprawie wykonania przepisów ustawy o księgach wieczystych i hipotece ([Dz. U. Nr 29, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1992/128/text.html) i z [1994 r. Nr 136, poz. 711](https://api.sejm.gov.pl/eli/acts/DU/1994/711/text.html)).
+
+### Art. 40.
+
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z [1965 r. Nr 15, poz. 113](https://api.sejm.gov.pl/eli/acts/DU/1965/113/text.html), z [1974 r. Nr 27, poz. 157](https://api.sejm.gov.pl/eli/acts/DU/1974/157/text.html) i [Nr 39, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1974/231/text.html), z [1975 r. Nr 45, poz. 234](https://api.sejm.gov.pl/eli/acts/DU/1975/234/text.html), z [1982 r. Nr 11, poz. 82](https://api.sejm.gov.pl/eli/acts/DU/1982/82/text.html) i [Nr 30, poz. 210](https://api.sejm.gov.pl/eli/acts/DU/1982/210/text.html), z [1983 r. Nr 5, poz. 33](https://api.sejm.gov.pl/eli/acts/DU/1983/33/text.html), z [1984 r. Nr 45, poz. 241 i 242](https://api.sejm.gov.pl/eli/acts/DU/1984/241/text.html), z [1985 r. Nr 20, poz. 86](https://api.sejm.gov.pl/eli/acts/DU/1985/86/text.html), z [1987 r. Nr 21, poz. 123](https://api.sejm.gov.pl/eli/acts/DU/1987/123/text.html), z [1988 r. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1989 r. Nr 4, poz. 21](https://api.sejm.gov.pl/eli/acts/DU/1989/21/text.html) i [Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z [1990 r. Nr 14, poz. 88](https://api.sejm.gov.pl/eli/acts/DU/1990/88/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html), [Nr 53, poz. 306](https://api.sejm.gov.pl/eli/acts/DU/1990/306/text.html), [Nr 55, poz. 318](https://api.sejm.gov.pl/eli/acts/DU/1990/318/text.html) i [Nr 79, poz. 464](https://api.sejm.gov.pl/eli/acts/DU/1990/464/text.html), z [1991 r. Nr 7, poz. 24](https://api.sejm.gov.pl/eli/acts/DU/1991/24/text.html), [Nr 22, poz. 92](https://api.sejm.gov.pl/eli/acts/DU/1991/92/text.html) i [Nr 115, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/1991/496/text.html), z [1993 r. Nr 12, poz. 53](https://api.sejm.gov.pl/eli/acts/DU/1993/53/text.html), z [1994 r. Nr 105, poz. 509](https://api.sejm.gov.pl/eli/acts/DU/1994/509/text.html), z [1995 r. Nr 83, poz. 417](https://api.sejm.gov.pl/eli/acts/DU/1995/417/text.html), z [1996 r. Nr 24, poz. 110](https://api.sejm.gov.pl/eli/acts/DU/1996/110/text.html), [Nr 43, poz. 189](https://api.sejm.gov.pl/eli/acts/DU/1996/189/text.html), [Nr 73, poz. 350](https://api.sejm.gov.pl/eli/acts/DU/1996/350/text.html) i [Nr 149, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1996/703/text.html) oraz z [1997 r. Nr 43, poz. 270](https://api.sejm.gov.pl/eli/acts/DU/1997/270/text.html), [Nr 54, poz. 348](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.html), [Nr 75, poz. 471](https://api.sejm.gov.pl/eli/acts/DU/1997/471/text.html), [Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), [Nr 117, poz. 752](https://api.sejm.gov.pl/eli/acts/DU/1997/752/text.html), [Nr 121, poz. 769 i 770](https://api.sejm.gov.pl/eli/acts/DU/1997/769/text.html), [Nr 133, poz. 882](https://api.sejm.gov.pl/eli/acts/DU/1997/882/text.html) i [Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html)) w art. 1025 w § 1 dodaje się pkt 2a w brzmieniu:
+
+„
+
+### 2a)
+
+należności zabezpieczone hipotecznie, wynikające z wierzytelności banku hipotecznego wpisanych do rejestru zabezpieczenia listów zastawnych, prowadzonego zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. Nr 140, poz. 940).
+
+”
+
+### Art. 41.
+
+W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ([Dz. U. z 1995 r. Nr 4, poz. 18](https://api.sejm.gov.pl/eli/acts/DU/1995/18/text.html) i [Nr 133, poz. 654](https://api.sejm.gov.pl/eli/acts/DU/1995/654/text.html) oraz z [1997 r. Nr 24, poz. 119](https://api.sejm.gov.pl/eli/acts/DU/1997/119/text.html), [Nr 79, poz. 484](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.html), [Nr 85, poz. 538](https://api.sejm.gov.pl/eli/acts/DU/1997/538/text.html), [Nr 88, poz. 554](https://api.sejm.gov.pl/eli/acts/DU/1997/554/text.html)) w art. 14 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Od aktywów pochodzących z emisji hipotecznych listów zastawnych i publicznych listów zastawnych nie nalicza się obowiązkowej opłaty rocznej i nie tworzy się funduszu ochrony środków gwarantowanych.
+
+”
+
+### Art. 42.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1998 r.

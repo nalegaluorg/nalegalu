@@ -8,11 +8,9 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o utworzeniu Akademii Zamojskiej
-
-*USTAWA z dnia 8 lipca 2021 r.*
+# Ustawa z dnia 8 lipca 2021 r. o utworzeniu Akademii Zamojskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,63 +22,114 @@ domain: null
 | Data ogłoszenia | 2021-08-08 |
 | Data wydania | 2021-08-17 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1494/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1494/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1494) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Tworzy się z dniem 1 września 2021 r. Akademię Zamojską, zwaną dalej „Akademią”.
+### Art. 1.
 
-2. Siedzibą Akademii jest miasto Zamość.
+### 1.
 
-3. Akademia jest uczelnią publiczną.
+Tworzy się z dniem 1 września 2021 r. Akademię Zamojską, zwaną dalej „Akademią”.
 
-**Art. 2.**
+### 2.
 
-1. Akademię tworzy się z Uczelni Państwowej im. Szymona Szymonowica w Zamościu, zwanej dalej „Uczelnią”.
+Siedzibą Akademii jest miasto Zamość.
 
-2. Z dniem utworzenia Akademii znosi się Uczelnię.
+### 3.
 
-**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
+Akademia jest uczelnią publiczną.
 
-**Art. 4.**
+### Art. 2.
 
-1. Mienie obejmujące własność i inne prawa majątkowe Uczelni staje się mieniem Akademii z dniem jej utworzenia.
+### 1.
 
-2. Akademia wstępuje z dniem utworzenia w prawa i obowiązki Uczelni, w tym w prawa i obowiązki wynikające z decyzji administracyjnych.
+Akademię tworzy się z Uczelni Państwowej im. Szymona Szymonowica w Zamościu, zwanej dalej „Uczelnią”.
 
-3. Stan gospodarki finansowej Uczelni zostanie wykazany w bilansie sporządzonym przez Uczelnię na dzień poprzedzający dzień jej zniesienia. Bilans zamknięcia Uczelni staje się bilansem otwarcia Akademii.
+### 2.
 
-**Art. 5.**
+Z dniem utworzenia Akademii znosi się Uczelnię.
 
-1. Z dniem utworzenia Akademii:
+### Art. 3.
 
-- **1)** pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) stosuje się odpowiednio;
-- **2)** studenci Uczelni stają się studentami Akademii;
-- **3)** uczestnicy studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Uczelni stają się uczestnikami odpowiednio studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Akademii.
+Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
-2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2021/2022 do Uczelni z dniem utworzenia Akademii stają się osobami przyjętymi na pierwszy rok studiów do Akademii.
+### Art. 4.
 
-3. Stosunki pracy z pracownikami, o których mowa w ust. 1 pkt 1, wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
+### 1.
 
-**Art. 6.**
+Mienie obejmujące własność i inne prawa majątkowe Uczelni staje się mieniem Akademii z dniem jej utworzenia.
 
-1. W terminie do zakończenia drugiej, po utworzeniu Akademii, ewaluacji jakości działalności naukowej, Akademia dostosuje się do wymogów określonych w art. 16 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619).
+### 2.
 
-2. Jeżeli Akademia nie spełni wymogu, o którym mowa w ust. 1, traci prawo do posługiwania się nazwą Akademia.
+Akademia wstępuje z dniem utworzenia w prawa i obowiązki Uczelni, w tym w prawa i obowiązki wynikające z decyzji administracyjnych.
 
-3. W przypadku, o którym mowa w ust. 2, nową nazwę Akademii określi minister właściwy do spraw szkolnictwa wyższego i nauki w drodze rozporządzenia.
+### 3.
 
-**Art. 7.**
+Stan gospodarki finansowej Uczelni zostanie wykazany w bilansie sporządzonym przez Uczelnię na dzień poprzedzający dzień jej zniesienia. Bilans zamknięcia Uczelni staje się bilansem otwarcia Akademii.
 
-1. Członkowie senatu Uczelni, wybrani na kadencję rozpoczętą z dniem 1 września 2020 r., stają się z dniem utworzenia Akademii członkami senatu pierwszej kadencji Akademii.
+### Art. 5.
 
-2. Pierwszego rektora Akademii powołuje minister właściwy do spraw szkolnictwa wyższego i nauki na okres do końca kadencji rozpoczętej z dniem 1 września 2020 r.
+### 1.
 
-3. Rada Uczelni wybrana na kadencję rozpoczętą w dniu 1 stycznia 2021 r. staje się radą Akademii.
+Z dniem utworzenia Akademii:
 
-4. Kadencji rektora, o której mowa w ust. 2, nie wlicza się do liczby kadencji, o której mowa w art. 26 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+### 1)
 
-5. Pierwszy statut Akademii nadaje minister właściwy do spraw szkolnictwa wyższego i nauki.
+pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 231 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2020 r. poz. 1320](https://api.sejm.gov.pl/eli/acts/DU/2020/1320/text.html) oraz [z 2021 r. poz. 1162](https://api.sejm.gov.pl/eli/acts/DU/2021/1162/text.html)) stosuje się odpowiednio;
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 2)
 
+studenci Uczelni stają się studentami Akademii;
+
+### 3)
+
+uczestnicy studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Uczelni stają się uczestnikami odpowiednio studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Akademii.
+
+### 2.
+
+Osoby przyjęte na pierwszy rok studiów na rok akademicki 2021/2022 do Uczelni z dniem utworzenia Akademii stają się osobami przyjętymi na pierwszy rok studiów do Akademii.
+
+### 3.
+
+Stosunki pracy z pracownikami, o których mowa w ust. 1 pkt 1, wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
+
+### Art. 6.
+
+### 1.
+
+W terminie do zakończenia drugiej, po utworzeniu Akademii, ewaluacji jakości działalności naukowej, Akademia dostosuje się do wymogów określonych w art. 16 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2021 r. poz. 478](https://api.sejm.gov.pl/eli/acts/DU/2021/478/text.html) i [619](https://api.sejm.gov.pl/eli/acts/DU/2021/619/text.html)).
+
+### 2.
+
+Jeżeli Akademia nie spełni wymogu, o którym mowa w ust. 1, traci prawo do posługiwania się nazwą Akademia.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, nową nazwę Akademii określi minister właściwy do spraw szkolnictwa wyższego i nauki w drodze rozporządzenia.
+
+### Art. 7.
+
+### 1.
+
+Członkowie senatu Uczelni, wybrani na kadencję rozpoczętą z dniem 1 września 2020 r., stają się z dniem utworzenia Akademii członkami senatu pierwszej kadencji Akademii.
+
+### 2.
+
+Pierwszego rektora Akademii powołuje minister właściwy do spraw szkolnictwa wyższego i nauki na okres do końca kadencji rozpoczętej z dniem 1 września 2020 r.
+
+### 3.
+
+Rada Uczelni wybrana na kadencję rozpoczętą w dniu 1 stycznia 2021 r. staje się radą Akademii.
+
+### 4.
+
+Kadencji rektora, o której mowa w ust. 2, nie wlicza się do liczby kadencji, o której mowa w art. 26 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
+
+### 5.
+
+Pierwszy statut Akademii nadaje minister właściwy do spraw szkolnictwa wyższego i nauki.
+
+### Art. 8.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

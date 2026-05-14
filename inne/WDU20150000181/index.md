@@ -1,0 +1,182 @@
+---
+title: Rozporządzenie Ministra Spraw Wewnętrznych z dnia 26 stycznia 2015 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej
+address: WDU20150000181
+eli: DU/2015/181
+publisher: DU
+year: 2015
+pos: 181
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Spraw Wewnętrznychz dnia 26 stycznia 2015 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 181 |
+| ISAP | WDU20150000181 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2015-01-26 |
+| Data wydania | 2015-02-04 |
+| Wejście w życie | 2015-02-19 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/181/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/181) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 8a ust. 11 ustawy z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2014 r. poz. 1402](https://api.sejm.gov.pl/eli/acts/DU/2014/1402/text.html) i [1822](https://api.sejm.gov.pl/eli/acts/DU/2014/1822/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+szczegółowe zasady gospodarki finansowej Funduszu Wsparcia Straży Granicznej, zwanego dalej „Funduszem”;
+
+### 2)
+
+tryb i terminy sporządzania łącznego planu finansowego Funduszu;
+
+### 3)
+
+tryb i terminy sporządzania łącznego sprawozdania z wykonania planu finansowego Funduszu.
+
+### § 2.
+
+Użyte w rozporządzeniu określenia oznaczają:
+
+### 1)
+
+fundusz centralny - wyodrębnioną część Funduszu, której dysponentem jest Komendant Główny Straży Granicznej;
+
+### 2)
+
+fundusz oddziału - wyodrębnioną część Funduszu, której dysponentem jest komendant oddziału Straży Granicznej;
+
+### 3)
+
+fundusz ośrodka - wyodrębnioną część Funduszu, której dysponentem jest komendant ośrodka Straży Granicznej;
+
+### 4)
+
+fundusz ośrodka szkolenia - wyodrębnioną część Funduszu, której dysponentem jest komendant ośrodka szkolenia Straży Granicznej;
+
+### 5)
+
+roczny plan finansowy funduszu - sporządzony na rok budżetowy przez właściwego dysponenta plan finansowy funduszu centralnego, funduszu oddziału, funduszu ośrodka lub funduszu ośrodka szkolenia;
+
+### 6)
+
+sprawozdanie z wykonania planu finansowego funduszu - sporządzane przez właściwego dysponenta sprawozdanie z wykonania planu finansowego funduszu centralnego, funduszu oddziału, funduszu ośrodka lub funduszu ośrodka szkolenia;
+
+### 7)
+
+ustawa o Straży Granicznej - ustawę z dnia 12 października 1990 r. o Straży Granicznej;
+
+### 8)
+
+ustawa o finansach publicznych - ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2013 r. poz. 885](https://api.sejm.gov.pl/eli/acts/DU/2013/885/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.](#gloss-0:2:)).
+
+### § 3.
+
+### 1.
+
+Środki finansowe funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia gromadzone są na wyodrębnionych rachunkach bankowych.
+
+### 2.
+
+Środki finansowe funduszu Centrum Szkolenia Straży Granicznej w Kętrzynie są gromadzone na wyodrębnionym rachunku bankowym, którego dysponentem jest Komendant Warmińsko-Mazurskiego Oddziału Straży Granicznej z siedzibą w Kętrzynie.
+
+### 3.
+
+Komendant Centrum Szkolenia w Kętrzynie dysponuje środkami zgromadzonymi na rachunku bankowym, o którym mowa w ust. 2, za pośrednictwem Komendanta Warmińsko-Mazurskiego Oddziału Straży Granicznej z siedzibą w Kętrzynie.
+
+### § 4.
+
+### 1.
+
+Wolne środki finansowe funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia dysponenci przekazują Ministrowi Finansów w zarządzanie.
+
+### 2.
+
+Odsetki od środków przekazanych Ministrowi Finansów w zarządzanie, o których mowa w ust. 1, stanowią przychody danego funduszu.
+
+### 3.
+
+Koszty obsługi funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia obciążają dany fundusz.
+
+### § 5.
+
+### 1.
+
+Podstawą gospodarki finansowej funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia jest roczny plan finansowy funduszu.
+
+### 2.
+
+Roczny plan finansowy funduszu zawiera:
+
+### 1)
+
+stan danego funduszu na początek roku obejmujący środki finansowe, należności i zobowiązania;
+
+### 2)
+
+planowane przychody danego funduszu;
+
+### 3)
+
+planowane koszty realizacji zadań danego funduszu;
+
+### 4)
+
+planowany stan danego funduszu na koniec roku, obejmujący środki finansowe, należności i zobowiązania.
+
+### § 6.
+
+### 1.
+
+Projekt rocznego planu finansowego funduszu właściwy dysponent przekazuje Komendantowi Głównemu Straży Granicznej najpóźniej do dnia 15 lipca roku poprzedzającego rok budżetowy celem sporządzenia projektu łącznego planu finansowego Funduszu.
+
+### 2.
+
+Komendant Główny Straży Granicznej sporządza projekt łącznego planu finansowego Funduszu w oparciu o projekty rocznych planów finansowych funduszy.
+
+### 3.
+
+Projekt łącznego planu finansowego Funduszu sporządza się w trybie i terminach określonych w przepisach wydanych na podstawie art. 138 ust. 6 ustawy o finansach publicznych.
+
+### § 7.
+
+Projekt rocznego planu, o którym mowa w § 6 ust. 1, stanowi podstawę gospodarki finansowej odpowiednio funduszu centralnego, funduszu oddziału, funduszu ośrodka, funduszu ośrodka szkolenia w okresie od dnia 1 stycznia roku budżetowego do dnia opracowania przez właściwego dysponenta rocznego planu finansowego na podstawie łącznego planu finansowego Funduszu ujętego w uchwalonej ustawie budżetowej, nie później niż 21 dni od dnia ogłoszenia ustawy budżetowej.
+
+### § 8.
+
+### 1.
+
+Komendant Główny Straży Granicznej sporządza łączne sprawozdanie z wykonania planu finansowego Funduszu, które jest zestawieniem sprawozdań z wykonania planów finansowych funduszy.
+
+### 2.
+
+Łączne sprawozdanie z wykonania planu finansowego Funduszu sporządza się w trybie i w terminach określonych w przepisach wydanych na podstawie art. 41 ust. 2 ustawy o finansach publicznych.
+
+### 3.
+
+Sprawozdanie z wykonania planu finansowego funduszu właściwy dysponent przekazuje Komendantowi Głównemu Straży Granicznej na 15 dni przez upływem terminu sporządzenia łącznego sprawozdania z wykonania planu finansowego Funduszu.
+
+### 4.
+
+Komendant Główny Straży Granicznej przekazuje łączne sprawozdanie z wykonania planu finansowego Funduszu Ministrowi Spraw Wewnętrznych w terminie określonym dla przekazania sprawozdania Ministrowi Finansów.
+
+### § 9.
+
+Traci moc rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 28 października 2008 r. w sprawie szczegółowych zasad gospodarki finansowej Funduszu Wsparcia Straży Granicznej ([Dz. U. Nr 203, poz. 1272](https://api.sejm.gov.pl/eli/acts/DU/2008/1272/text.html) oraz z [2010 r. Nr 164, poz. 1114](https://api.sejm.gov.pl/eli/acts/DU/2010/1114/text.html)).
+
+### § 10.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646 oraz z 2014 r. poz. 379, 911, 1146, 1626 i 1877.

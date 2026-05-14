@@ -1,0 +1,52 @@
+---
+title: Rozporządzenie Ministra Środowiska z dnia 3 grudnia 2018 r. w sprawie wzorów formularzy sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu za rok 2018
+address: WDU20180002326
+eli: DU/2018/2326
+publisher: DU
+year: 2018
+pos: 2326
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Środowiskaz dnia 3 grudnia 2018 r. w sprawie wzorów formularzy sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu za rok 2018 [1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 2326 |
+| ISAP | WDU20180002326 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-12-03 |
+| Data wydania | 2018-12-13 |
+| Wejście w życie | 2018-12-28 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/2326/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/2326) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Wzory formularzy sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu za rok 2018](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 237e ust. 2 ustawy z dnia 14 grudnia 2012 r. o odpadach ([Dz. U. z 2018 r. poz. 992](https://api.sejm.gov.pl/eli/acts/DU/2018/992/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html), [1479](https://api.sejm.gov.pl/eli/acts/DU/2018/1479/text.html), [1544](https://api.sejm.gov.pl/eli/acts/DU/2018/1544/text.html), [1564](https://api.sejm.gov.pl/eli/acts/DU/2018/1564/text.html) i [1592](https://api.sejm.gov.pl/eli/acts/DU/2018/1592/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Wzory formularzy sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu za rok 2018 określa załącznik do rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Minister Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 96).
+
+## Załącznik - Wzory formularzy sprawozdań w zakresie sprzętu elektrycznego i elektronicznego oraz zużytego sprzętu za rok 2018
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2018/2326/text.pdf)

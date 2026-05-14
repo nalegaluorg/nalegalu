@@ -8,11 +8,9 @@ pos: 964
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o pomocy państwa spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę
-
-*USTAWA z dnia 19 czerwca 2009 r.*
+# Ustawa z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę [1) Niniejszą ustawą zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,162 +22,488 @@ domain: null
 | Data ogłoszenia | 2009-06-19 |
 | Data wydania | 2009-07-21 |
 | Ostatnia zmiana | 2025-11-26 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091150964) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/964/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/964/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/964) |
 
-**Art. 1.**
+## Treść ustawy
 
-1. Ustawa określa zasady przyznawania okresowej zwrotnej pomocy państwa osobom fizycznym zobowiązanym do spłaty kredytu mieszkaniowego, które utraciły pracę, zwanej dalej „pomocą”, oraz warunki korzystania z pomocy i jej zwrotu.
+### Art. 1.
 
-2. Pomoc jest realizowana za pośrednictwem Banku Gospodarstwa Krajowego. Źródłem finansowania pomocy oraz kosztów jej realizacji jest Fundusz Pracy.
+### 1.
 
-**Art. 2.**
+Ustawa określa zasady przyznawania okresowej zwrotnej pomocy państwa osobom fizycznym zobowiązanym do spłaty kredytu mieszkaniowego, które utraciły pracę, zwanej dalej „pomocą”, oraz warunki korzystania z pomocy i jej zwrotu.
 
-1. Użyte ustawie określenia oznaczają:
+### 2.
 
-- **1)** lokal mieszkalny – samodzielny lokal mieszkalny rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048 oraz z 2023 r. poz. 1688), położony na terytorium Rzeczypospolitej Polskiej, oraz taki lokal mieszkalny wraz z pomieszczeniami przynależnymi rozumieniu art. 2 ust. 4 tej ustawy;
-- **2)** dom jednorodzinny – budynek mieszkalny rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2025 r. poz. 418 i 1080), położony na terytorium Rzeczypospolitej Polskiej, którym nie znajduje się będący własnością kredytobiorcy lokal użytkowy;
-- **3)** instytucja kredytująca – bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa art. 4 ust. 1 pkt 1, 18 i 20 ustawy z dnia właściwy organ nie zgłosił terminie sprzeciwu związku z zawiadomieniem o zakończeniu budowy albo została wydana ostateczna decyzja o pozwoleniu na użytkowanie obiektu budowlanego,
-- **2)** nabycie:
-    - **a)** prawa własności domu jednorodzinnego lub prawa odrębnej własności lokalu mieszkalnego budynku wielorodzinnym,
-    - **b)** spółdzielczego własnościowego prawa do lokalu mieszkalnego,
-    - **c)** prawa odrębnej własności lokalu mieszkalnego spółdzielni mieszkaniowej – którego spłatę zabezpieczono hipoteką ustanowioną na przedmiocie kredytowania.
+Pomoc jest realizowana za pośrednictwem Banku Gospodarstwa Krajowego. Źródłem finansowania pomocy oraz kosztów jej realizacji jest Fundusz Pracy.
 
-3. Kredytem mieszkaniowym rozumieniu ustawy jest również:
+### Art. 2.
 
-- **1)** kredyt udzielony na spłatę kredytu mieszkaniowego, o którym mowa ust. 2, jeżeli kredyt ten został zabezpieczony hipoteką na przedmiocie kredytowania;
-- **2)** ta część kredytu udzielonego na spłatę różnych zobowiązań kredytowych, która jest przeznaczona na spłatę kredytu mieszkaniowego, o którym mowa ust. 2, jeżeli kredyt ten został zabezpieczony sposób, o którym mowa pkt 1.
+### 1.
 
-**Art. 3.**
+Użyte w ustawie określenia oznaczają:
 
-1. Pomoc może być przyznana kredytobiorcy zobowiązanemu do spłaty kredytu mieszkaniowego, który po dniu 1 lipca 2008 r. utracił pracę rozumianą jako:
+### 1)
 
-- **1)** zatrudnienie lub inną pracę zarobkową lub
-- **2)** prowadzenie działalności gospodarczej, podlegającej wpisowi do ewidencji działalności gospodarczej, jako przedsiębiorca niezatrudniający pracowników – oraz zarejestrował się jako bezrobotny i któremu przyznano prawo do zasiłku dla bezrobotnych, a dniu złożenia wniosku o pomoc posiada status bezrobotnego, zwanemu dalej „uprawnionym”. z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423).
+lokal mieszkalny - samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie pierwsze ustawy z dnia 24 czerwca 1994 r. o własności lokali ([Dz. U. z 2000 r. Nr 80, poz. 903](https://api.sejm.gov.pl/eli/acts/DU/2000/903/text.html) oraz z [2004 r. Nr 141, poz. 1492](https://api.sejm.gov.pl/eli/acts/DU/2004/1492/text.html)), położony na terytorium Rzeczypospolitej Polskiej, oraz taki lokal mieszkalny wraz z pomieszczeniami przynależnymi w rozumieniu art. 2 ust. 4 tej ustawy;
 
-4. W przypadku gdy kredytobiorcą jest jeden z małżonków, między którymi istnieje wspólność majątkowa, a kredytobiorca nie utracił pracy, pomoc może być przyznana, jeżeli małżonek niebędący kredytobiorcą spełnia warunki, o których mowa ust. 1, i nie utracił zatrudnienia sposób określony ust. 3.
+### 2)
 
-5. Pomoc nie może być przyznana na spłatę kredytu mieszkaniowego, jeżeli jeden z kredytobiorców uzyskał pomoc na zasadach określonych ustawie, chyba że pomoc nie jest już udzielana, a okres udzielonej pomocy nie przekroczył 11 miesięcy. W takim przypadku łączny okres pomocy przyznanej kredytobiorcom na spłatę kredytu mieszkaniowego, zabezpieczonego hipoteką ustanowioną na tym samym przedmiocie kredytowania, nie może przekroczyć 12 miesięcy.
+dom jednorodzinny - budynek mieszkalny w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. - Prawo budowlane ([Dz. U. z 2006 r. Nr 156, poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2006/1118/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206.](#gloss-0:2:)), położony na terytorium Rzeczypospolitej Polskiej, w którym nie znajduje się będący własnością kredytobiorcy lokal użytkowy;
 
-6. Pomoc nie może być przyznana, jeżeli umowa kredytu mieszkaniowego została wypowiedziana.
+### 3)
 
-**Art. 4.** Pomoc nie może być przyznana, jeżeli dniu złożenia wniosku o pomoc uprawniony lub jego małżonek:
+instytucja kredytująca - bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, o których mowa w art. 4 ust. 1 pkt 1, 18 i 20 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ([Dz. U. z 2002 r. Nr 72, poz. 665](https://api.sejm.gov.pl/eli/acts/DU/2002/665/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545 i Nr 71, poz. 609.](#gloss-0:3:)) albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego.
 
-**Art. 5.**
+### 2.
 
-1. Pomoc polega na przekazywaniu przez Bank Gospodarstwa Krajowego instytucji kredytującej kwoty środków pieniężnych określonej decyzji, o której mowa art. 6 ust. 1, z przeznaczeniem na spłatę zobowiązań uprawnionego z tytułu kredytu mieszkaniowego, przez okres nie dłuższy niż 12 miesięcy. na wskazany przez instytucję kredytującą rachunek przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego, przy czym liczba rat nie może być większa niż 12.
+Kredytem mieszkaniowym w rozumieniu ustawy jest kredyt udzielony na:
 
-4. Wysokość pomocy i terminy jej przekazywania są określane decyzji, o której mowa art. 6 ust. 1, na podstawie informacji zawartych oświadczeniu instytucji kredytującej, o którym mowa art. 6 ust. 4.
+### 1)
 
-5. W przypadku gdy kredyt mieszkaniowy jest spłacany walucie obcej, Bank Gospodarstwa Krajowego przekazuje pomoc walucie spłaty kredytu, dokonując przeliczenia wysokości raty pomocy wynikającej z decyzji, o której mowa art. 6 ust. 1, na walutę spłaty kredytu według kursu sprzedaży ogłoszonego przez Narodowy Bank Polski, obowiązującego dniu poprzedzającym dzień przekazania środków pieniężnych z tytułu pomocy.
+budowę domu jednorodzinnego, jeżeli przed złożeniem wniosku o pomoc właściwy organ nie zgłosił w terminie sprzeciwu w związku z zawiadomieniem o zakończeniu budowy albo została wydana ostateczna decyzja o pozwoleniu na użytkowanie obiektu budowlanego,
 
-6. W przypadku gdy uprawniony zawarł umowę, o której mowa art. 6 ust. 2 pkt 2 lit. b, przekazywanie rat pomocy rozpoczyna się po upływie okresu wypłaty świadczenia z tytułu tej umowy.
+### 2)
 
-7. Pomocy przyznanej na podstawie ustawy nie uwzględnia się przy ocenie zdolności uprawnionego do pokrywania całości lub części świadczeń wynikających z umowy kredytu mieszkaniowego.
+nabycie:
 
-**Art. 6.**
+### a)
 
-1. Pomoc jest przyznawana na podstawie decyzji właściwego starosty, zwanej dalej „decyzją”, na wniosek uprawnionego złożony według ustalonego wzoru, terminie do dnia 31 grudnia 2010 r., powiatowym urzędzie pracy, którym został on zarejestrowany jako bezrobotny.
+prawa własności domu jednorodzinnego lub prawa odrębnej własności lokalu mieszkalnego w budynku wielorodzinnym,
 
-2. We wniosku, o którym mowa ust. 1, uprawniony:
+### b)
 
-- **1)** podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, oraz numer dowodu osobistego lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
-- **2)** składa, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, oświadczenie o: zawarł umowę ubezpieczenia spłaty kredytu, gwarantującego wypłatę świadczenia na wypadek utraty pracy.
+spółdzielczego własnościowego prawa do lokalu mieszkalnego,
 
-3. Do wniosku, o którym mowa ust. 1, uprawniony dołącza oświadczenie instytucji kredytującej, o którym mowa ust. 4.
+### c)
 
-4. Instytucja kredytująca wydaje na wniosek kredytobiorcy, terminie 3 dni roboczych od dnia złożenia wniosku, oświadczenie według ustalonego wzoru zawierające następujące informacje:
+prawa odrębnej własności lokalu mieszkalnego w spółdzielni mieszkaniowej
 
-- **1)** nazwę i adres instytucji kredytującej;
-- **2)** dane kredytobiorcy zakresie określonym ust. 2 pkt 1;
-- **3)** numer umowy kredytu mieszkaniowego;
-- **4)** numer rachunku wskazany przez instytucję kredytującą przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego;
-- **5)** walutę spłaty kredytu mieszkaniowego;
-- **6)** terminy płatności oraz wysokość złotych kolejnych 12 niewymagalnych miesięcznych rat kapitałowych i odsetkowych, a przypadku zawarcia umowy, o której mowa ust. 2 pkt 2 lit. b – terminy płatności tych rat rozpoczynające się od miesiąca następującego po upływie okresu wypłaty świadczenia z tytułu tej umowy; przypadku kredytów indeksowanych i walutowych przy przeliczeniu na złote stosuje się kurs średni ogłoszony przez Narodowy Bank Polski dniu wymagalności ostatniej raty kredytu mieszkaniowego.
+- którego spłatę zabezpieczono hipoteką ustanowioną na przedmiocie kredytowania.
 
-5. W przypadku gdy kredytobiorca zawarł umowę, o której mowa ust. 2 pkt 2 lit. b, jest obowiązany podać we wniosku, o którym mowa ust. 4, informację o warunkach wszystkich umów ubezpieczenia, na podstawie których przysługuje mu świadczenie z tytułu utraty pracy, tym o terminie, którym upływa okres wypłaty świadczeń z tytułu tych umów, chyba że instytucja kredytująca jest posiadaniu tych informacji.
+### 3.
 
-6. Minister właściwy do spraw pracy porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, drodze rozporządzenia: – kierując się potrzebą rzetelnego udokumentowania danych niezbędnych do przyznania pomocy.
+Kredytem mieszkaniowym w rozumieniu ustawy jest również:
 
-**Art. 7.**
+### 1)
 
-1. Decyzja, o której mowa art. 6 ust. 1, zawiera:
+kredyt udzielony na spłatę kredytu mieszkaniowego, o którym mowa w ust. 2, jeżeli kredyt ten został zabezpieczony hipoteką na przedmiocie kredytowania;
 
-- **1)** określenie uprawnionego ze wskazaniem informacji, o których mowa art. 6 ust. 2 pkt 1;
-- **2)** nazwę i adres instytucji kredytującej;
-- **3)** numer rachunku wskazany przez instytucję kredytującą przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego;
-- **4)** walutę spłaty kredytu mieszkaniowego;
-- **5)** terminy płatności i wysokość złotych 12 kolejnych rat pomocy według stanu na dzień wydania decyzji.
+### 2)
 
-2. W decyzji zamieszcza się również pouczenie o jej wygaśnięciu przypadkach, o których mowa art. 10.
+ta część kredytu udzielonego na spłatę różnych zobowiązań kredytowych, która jest przeznaczona na spłatę kredytu mieszkaniowego, o którym mowa w ust. 2, jeżeli kredyt ten został zabezpieczony w sposób, o którym mowa w pkt 1.
 
-3. Decyzja podlega natychmiastowemu wykonaniu.
+### Art. 3.
 
-4. Decyzję doręcza się uprawnionemu, a kopię decyzji przekazuje Bankowi Gospodarstwa Krajowego oraz instytucji kredytującej.
+### 1.
 
-5. Jeżeli decyzja zawiera oczywiste omyłki uniemożliwiające realizację przez Bank Gospodarstwa Krajowego decyzji albo nie zawiera danych umożliwiających jej realizację, Bank informuje niezwłocznie o tym fakcie starostę i uprawnionego. W takim przypadku Bank nie przekazuje rat pomocy wynikających z decyzji do czasu otrzymania od starosty kopii postanowienia o sprostowaniu błędów wydanej decyzji albo informacji o braku podstaw do wydania postanowienia.
+Pomoc może być przyznana kredytobiorcy zobowiązanemu do spłaty kredytu mieszkaniowego, który po dniu 1 lipca 2008 r. utracił pracę rozumianą jako:
 
-**Art. 8.**
+### 1)
 
-1. Bank Gospodarstwa Krajowego przekazuje pomoc na podstawie decyzji.
+zatrudnienie lub inną pracę zarobkową lub
 
-2. W przypadku otrzymania przez Bank Gospodarstwa Krajowego kopii decyzji terminie późniejszym niż 3 dni robocze przed terminem najbliższej płatności raty podstaw do wydania postanowienia.
+### 2)
 
-**Art. 9.**
+prowadzenie działalności gospodarczej, podlegającej wpisowi do ewidencji działalności gospodarczej, jako przedsiębiorca niezatrudniający pracowników
 
-1. Bank Gospodarstwa Krajowego jest niezwłocznie powiadamiany przez:
+- oraz zarejestrował się jako bezrobotny i któremu przyznano prawo do zasiłku dla bezrobotnych, a w dniu złożenia wniosku o pomoc posiada status bezrobotnego, zwanemu dalej „uprawnionym”.
 
-- **1)** powiatowy urząd pracy – o utracie statusu bezrobotnego przez uprawnionego;
-- **2)** instytucję kredytującą – o zbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo dokonaniu jego spłaty;
-- **3)** uprawnionego – o zbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo podjęciu czynności egzekucyjnych z przedmiotu kredytowania.
+### 2.
 
-2. Bank Gospodarstwa Krajowego zaprzestaje przekazywania rat pomocy z dniem otrzymania informacji, o których mowa ust. 1, z zastrzeżeniem art. 10 pkt 1. O zaprzestaniu przekazywania rat pomocy Bank zawiadamia starostę i uprawnionego.
+W przypadku określonym w ust. 1 pkt 2 przez utratę pracy należy rozumieć zakończenie prowadzenia działalności, o której mowa w tym przepisie.
 
-**Art. 10.** Decyzja wygasa razie:
+### 3.
 
-**Art. 11.**
+Pomoc nie może być przyznana, jeżeli utrata zatrudnienia nastąpiła w wyniku rozwiązania umowy o pracę za wypowiedzeniem przez uprawnionego lub rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika w trybie art. 52 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 1998 r. Nr 21, poz. 94](https://api.sejm.gov.pl/eli/acts/DU/1998/94/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825 i Nr 115, poz. 958.](#gloss-0:4:)).
 
-1. Środki Funduszu Pracy, z których jest finansowana pomoc oraz koszty jej realizacji przez Bank Gospodarstwa Krajowego są przekazywane na wyodrębniony rachunek Banku przez ministra właściwego do spraw pracy z utworzonej na ten cel rezerwy. złożenia zapotrzebowania na te środki.
+### 4.
 
-4. Bank Gospodarstwa Krajowego dokonuje rozliczenia otrzymanych środków terminie 20 dni po upływie miesiąca, którym przekazano środki na realizację pomocy.
+W przypadku gdy kredytobiorcą jest jeden z małżonków, między którymi istnieje wspólność majątkowa, a kredytobiorca nie utracił pracy, pomoc może być przyznana, jeżeli małżonek niebędący kredytobiorcą spełnia warunki, o których mowa w ust. 1, i nie utracił zatrudnienia w sposób określony w ust. 3.
 
-5. Bankowi Gospodarstwa Krajowego przysługuje prowizja z tytułu realizacji zadań wynikających z przepisów ustawy wysokości określonej umowie, o której mowa ust. 2, nie wyższej jednak niż 1,5 % kwoty środków przekazanych przez Bank z tytułu pomocy.
+### 5.
 
-6. Jeżeli wysokość środków, o których mowa ust. 1, nie pozwala na dokonanie płatności rat pomocy wysokości wynikającej z decyzji, Bank Gospodarstwa Krajowego dokona płatności z własnych środków, a dysponent Funduszu Pracy zwróci Bankowi wypłaconą kwotę wraz z odsetkami określonymi umowie, o której mowa ust. 2.
+Pomoc nie może być przyznana na spłatę kredytu mieszkaniowego, jeżeli jeden z kredytobiorców uzyskał pomoc na zasadach określonych w ustawie, chyba że pomoc nie jest już udzielana, a okres udzielonej pomocy nie przekroczył 11 miesięcy. W takim przypadku łączny okres pomocy przyznanej kredytobiorcom na spłatę kredytu mieszkaniowego, zabezpieczonego hipoteką ustanowioną na tym samym przedmiocie kredytowania, nie może przekroczyć 12 miesięcy.
 
-**Art. 12.** Bank Gospodarstwa Krajowego informuje właściwego starostę o wysokości środków przekazanych z tytułu dokonywanych płatności rat pomocy oraz terminach ich przekazania na rachunek instytucji kredytującej.
+### 6.
 
-**Art. 13.**
+Pomoc nie może być przyznana, jeżeli umowa kredytu mieszkaniowego została wypowiedziana.
 
-1. Zwrot pomocy przyznanej na podstawie ustawy rozpoczyna się miesiącu następującym po miesiącu, którym upłynęły dwa lata od zaprzestania płatności rat pomocy i jest dokonywany przez 8 kolejnych lat równych nieoprocentowanych miesięcznych ratach, płatnych do 15 dnia każdego miesiąca, na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy.
+### Art. 4.
 
-2. Właściwy starosta informuje uprawnionego, co najmniej 30 dni przed terminem wpłaty pierwszej raty zwracanej pomocy, o wysokości miesięcznej raty, a także wskazuje numer rachunku bankowego Funduszu Pracy powiatowego urzędu pracy, na który dokonuje się wpłat.
+Pomoc nie może być przyznana, jeżeli w dniu złożenia wniosku o pomoc uprawniony lub jego małżonek:
 
-3. Powiatowy urząd pracy przekazuje środki wpłacone z tytułu zwrotu pomocy na rachunek dysponenta Funduszu Pracy.
+### 1)
 
-2. W przypadku niedokonania płatności terminie określonym wezwaniu, starosta wydaje decyzję sprawie zwrotu pomocy.
+jest właścicielem innego lokalu mieszkalnego lub domu jednorodzinnego;
 
-**Art. 16.**
+### 2)
 
-1. Osoba, która otrzymała pomoc nienależną na podstawie przepisów ustawy, dokonuje zwrotu środków równych kwocie przyznanej pomocy wraz z odsetkami ustawowymi naliczonymi od dnia przekazania przez Bank Gospodarstwa Krajowego na rachunek instytucji kredytującej środków z tytułu pomocy. Zwrot środków następuje na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy terminie 30 dni od dnia doręczenia decyzji sprawie pomocy nienależnej.
+posiada inne spółdzielcze lokatorskie prawo do lokalu mieszkalnego, spółdzielcze własnościowe prawo do lokalu mieszkalnego, prawo do domu jednorodzinnego w spółdzielni mieszkaniowej lub prawo do domu jednorodzinnego lub lokalu mieszkalnego budowanych w celu przeniesienia ich własności na rzecz członków;
 
-2. Za pomoc nienależną uważa się pomoc wypłaconą:
+### 3)
 
-- **1)** pomimo zaistnienia okoliczności stanowiących podstawę zaprzestania płatności rat pomocy;
-- **2)** na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd starosty przez osobę, której pomoc przyznano.
+jest najemcą innego lokalu mieszkalnego lub domu jednorodzinnego.
 
-3. Decyzję sprawie pomocy nienależnej wydaje starosta, który pomoc przyznał. Decyzję doręcza się osobie, której pomoc przyznano.
+### Art. 5.
 
-**Art. 17.**
+### 1.
 
-1. W zakresie nieuregulowanym ustawą do należności z tytułu zwrotów pomocy, o których mowa art. 13, art. 14 i art. 16, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), z tym że zamiast odsetek za zwłokę nalicza się odsetki ustawowe za opóźnienie.
+Pomoc polega na przekazywaniu przez Bank Gospodarstwa Krajowego instytucji kredytującej kwoty środków pieniężnych określonej w decyzji, o której mowa w art. 6 ust. 1, z przeznaczeniem na spłatę zobowiązań uprawnionego z tytułu kredytu mieszkaniowego, przez okres nie dłuższy niż 12 miesięcy.
 
-2. Egzekucję należności z tytułu zwrotów pomocy, o których mowa art. 13, 14 i 16, prowadzi starosta trybie przepisów o postępowaniu egzekucyjnym administracji. określonych ustawą jest wojewoda.
+### 2.
 
-**Art. 19.** Bank Gospodarstwa Krajowego sporządza kwartalne informacje o wysokości i przebiegu wypłaty pomocy przyznanej na podstawie ustawy i przekazuje je dysponentowi Funduszu Pracy do 20 dnia miesiąca następującego po upływie kwartału.
+Wysokość pomocy określa się w złotych jako równowartość 12 miesięcznych rat kapitałowych i odsetkowych kredytu mieszkaniowego, z tym że jeżeli wysokość miesięcznej raty kapitałowej i odsetkowej jest wyższa niż 1 200 zł, do określenia wysokości pomocy przyjmuje się kwotę 1 200 zł.
 
-**Art. 20.** (pominięty)
+### 3.
 
-**Art. 21.** (pominięty)
+Pomoc jest przekazywana w ratach miesięcznych, nie wyższych niż 1 200 zł, na wskazany przez instytucję kredytującą rachunek przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego, przy czym liczba rat nie może być większa niż 12.
 
-**Art. 22.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+### 4.
 
+Wysokość pomocy i terminy jej przekazywania są określane w decyzji, o której mowa w art. 6 ust. 1, na podstawie informacji zawartych w oświadczeniu instytucji kredytującej, o którym mowa w art. 6 ust. 4.
+
+### 5.
+
+W przypadku gdy kredyt mieszkaniowy jest spłacany w walucie obcej, Bank Gospodarstwa Krajowego przekazuje pomoc w walucie spłaty kredytu, dokonując przeliczenia wysokości raty pomocy wynikającej z decyzji, o której mowa w art. 6 ust. 1, na walutę spłaty kredytu według kursu sprzedaży ogłoszonego przez Narodowy Bank Polski, obowiązującego w dniu poprzedzającym dzień przekazania środków pieniężnych z tytułu pomocy.
+
+### 6.
+
+W przypadku gdy uprawniony zawarł umowę, o której mowa w art. 6 ust. 2 pkt 2 lit. b, przekazywanie rat pomocy rozpoczyna się po upływie okresu wypłaty świadczenia z tytułu tej umowy.
+
+### 7.
+
+Pomocy przyznanej na podstawie ustawy nie uwzględnia się przy ocenie zdolności uprawnionego do pokrywania w całości lub części świadczeń wynikających z umowy kredytu mieszkaniowego.
+
+### Art. 6.
+
+### 1.
+
+Pomoc jest przyznawana na podstawie decyzji właściwego starosty, zwanej dalej „decyzją”, na wniosek uprawnionego złożony według ustalonego wzoru, w terminie do dnia 31 grudnia 2010 r., w powiatowym urzędzie pracy, w którym został on zarejestrowany jako bezrobotny.
+
+### 2.
+
+We wniosku, o którym mowa w ust. 1, uprawniony:
+
+### 1)
+
+podaje imię i nazwisko, adres miejsca zamieszkania, numer PESEL, o ile został nadany, oraz numer dowodu osobistego lub rodzaj i numer innego dokumentu potwierdzającego tożsamość;
+
+### 2)
+
+składa, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, oświadczenie o:
+
+### a)
+
+istnieniu okoliczności stanowiących podstawę przyznania pomocy,
+
+### b)
+
+warunkach wszystkich umów ubezpieczenia, na podstawie których przysługuje mu świadczenie z tytułu utraty pracy, w tym o terminie, w którym upływa okres wypłaty świadczeń z tytułu tych umów - w przypadku gdy zawarł umowę ubezpieczenia spłaty kredytu, gwarantującego wypłatę świadczenia na wypadek utraty pracy.
+
+### 3.
+
+Do wniosku, o którym mowa w ust. 1, uprawniony dołącza oświadczenie instytucji kredytującej, o którym mowa w ust. 4.
+
+### 4.
+
+Instytucja kredytująca wydaje na wniosek kredytobiorcy, w terminie 3 dni roboczych od dnia złożenia wniosku, oświadczenie według ustalonego wzoru zawierające następujące informacje:
+
+### 1)
+
+nazwę i adres instytucji kredytującej;
+
+### 2)
+
+dane kredytobiorcy w zakresie określonym w ust. 2 pkt 1;
+
+### 3)
+
+numer umowy kredytu mieszkaniowego;
+
+### 4)
+
+numer rachunku wskazany przez instytucję kredytującą przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego;
+
+### 5)
+
+walutę spłaty kredytu mieszkaniowego;
+
+### 6)
+
+terminy płatności oraz wysokość w złotych kolejnych 12 niewymagalnych miesięcznych rat kapitałowych i odsetkowych, a w przypadku zawarcia umowy, o której mowa w ust. 2 pkt 2 lit. b - terminy płatności tych rat rozpoczynające się od miesiąca następującego po upływie okresu wypłaty świadczenia z tytułu tej umowy; w przypadku kredytów indeksowanych i walutowych przy przeliczeniu na złote stosuje się kurs średni ogłoszony przez Narodowy Bank Polski w dniu wymagalności ostatniej raty kredytu mieszkaniowego.
+
+### 5.
+
+W przypadku gdy kredytobiorca zawarł umowę, o której mowa w ust. 2 pkt 2 lit. b, jest obowiązany podać we wniosku, o którym mowa w ust. 4, informację o warunkach wszystkich umów ubezpieczenia, na podstawie których przysługuje mu świadczenie z tytułu utraty pracy, w tym o terminie, w którym upływa okres wypłaty świadczeń z tytułu tych umów, chyba że instytucja kredytująca jest w posiadaniu tych informacji.
+
+### 6.
+
+Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw instytucji finansowych określi, w drodze rozporządzenia:
+
+### 1)
+
+wzór wniosku, o którym mowa w ust. 1, z uwzględnieniem treści oświadczenia, o którym mowa w ust. 2 pkt 2, oraz konieczności pouczenia wnioskodawcy o odpowiedzialności karnej za składanie fałszywych oświadczeń, a także skutkach otrzymania pomocy nienależnej,
+
+### 2)
+
+wzór oświadczenia instytucji kredytującej, o którym mowa w ust. 4 - kierując się potrzebą rzetelnego udokumentowania danych niezbędnych do przyznania pomocy.
+
+### Art. 7.
+
+### 1.
+
+Decyzja, o której mowa w art. 6 ust. 1, zawiera:
+
+### 1)
+
+określenie uprawnionego ze wskazaniem informacji, o których mowa w art. 6 ust. 2 pkt 1;
+
+### 2)
+
+nazwę i adres instytucji kredytującej;
+
+### 3)
+
+numer rachunku wskazany przez instytucję kredytującą przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego;
+
+### 4)
+
+walutę spłaty kredytu mieszkaniowego;
+
+### 5)
+
+terminy płatności i wysokość w złotych 12 kolejnych rat pomocy według stanu na dzień wydania decyzji.
+
+### 2.
+
+W decyzji zamieszcza się również pouczenie o jej wygaśnięciu w przypadkach, o których mowa w art. 10.
+
+### 3.
+
+Decyzja podlega natychmiastowemu wykonaniu.
+
+### 4.
+
+Decyzję doręcza się uprawnionemu, a kopię decyzji przekazuje Bankowi Gospodarstwa Krajowego oraz instytucji kredytującej.
+
+### 5.
+
+Jeżeli decyzja zawiera oczywiste omyłki uniemożliwiające realizację przez Bank Gospodarstwa Krajowego decyzji albo nie zawiera danych umożliwiających jej realizację, Bank informuje niezwłocznie o tym fakcie starostę i uprawnionego. W takim przypadku Bank nie przekazuje rat pomocy wynikających z decyzji do czasu otrzymania od starosty kopii postanowienia o sprostowaniu błędów w wydanej decyzji albo informacji o braku podstaw do wydania postanowienia.
+
+### Art. 8.
+
+### 1.
+
+Bank Gospodarstwa Krajowego przekazuje pomoc na podstawie decyzji.
+
+### 2.
+
+W przypadku otrzymania przez Bank Gospodarstwa Krajowego kopii decyzji w terminie późniejszym niż 3 dni robocze przed terminem najbliższej płatności raty pomocy wynikającej z decyzji, Bank dokona pierwszej płatności raty pomocy w terminie 3 dni roboczych od dnia otrzymania kopii tej decyzji.
+
+### 3.
+
+W przypadku, o którym mowa w art. 7 ust. 5, Bank Gospodarstwa Krajowego dokona pierwszej płatności raty w terminie 3 dni roboczych od dnia otrzymania kopii postanowienia o sprostowaniu błędów w wydanej decyzji albo informacji o braku podstaw do wydania postanowienia.
+
+### Art. 9.
+
+### 1.
+
+Bank Gospodarstwa Krajowego jest niezwłocznie powiadamiany przez:
+
+### 1)
+
+powiatowy urząd pracy - o utracie statusu bezrobotnego przez uprawnionego;
+
+### 2)
+
+instytucję kredytującą - o zbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo dokonaniu jego spłaty;
+
+### 3)
+
+uprawnionego - o zbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo podjęciu czynności egzekucyjnych z przedmiotu kredytowania.
+
+### 2.
+
+Bank Gospodarstwa Krajowego zaprzestaje przekazywania rat pomocy z dniem otrzymania informacji, o których mowa w ust. 1, z zastrzeżeniem art. 10 pkt 1. O zaprzestaniu przekazywania rat pomocy Bank zawiadamia starostę i uprawnionego.
+
+### Art. 10.
+
+Decyzja wygasa w razie:
+
+### 1)
+
+utraty statusu bezrobotnego, z upływem miesiąca następującego po miesiącu, w którym utrata tego statusu nastąpiła;
+
+### 2)
+
+zbycia przedmiotu kredytowania, z dniem zbycia;
+
+### 3)
+
+wypowiedzenia umowy kredytu mieszkaniowego, z dniem upływu okresu wypowiedzenia;
+
+### 4)
+
+podjęcia czynności egzekucyjnych z przedmiotu kredytowania, z dniem podjęcia pierwszej czynności egzekucyjnej;
+
+### 5)
+
+spłaty kredytu, z dniem dokonania spłaty ostatniej raty.
+
+### Art. 11.
+
+### 1.
+
+Środki Funduszu Pracy, z których jest finansowana pomoc oraz koszty jej realizacji przez Bank Gospodarstwa Krajowego są przekazywane na wyodrębniony rachunek w Banku przez ministra właściwego do spraw pracy z utworzonej na ten cel rezerwy.
+
+### 2.
+
+Sposób przekazywania i rozliczania środków, o których mowa w ust. 1, z uwzględnieniem przypadku określonego w ust. 6, określa umowa zawarta między Bankiem Gospodarstwa Krajowego a dysponentem Funduszu Pracy.
+
+### 3.
+
+Dysponent Funduszu Pracy przekazuje środki, o których mowa w ust. 1, na wyodrębniony rachunek w Banku Gospodarstwa Krajowego w terminie 7 dni od dnia złożenia zapotrzebowania na te środki.
+
+### 4.
+
+Bank Gospodarstwa Krajowego dokonuje rozliczenia otrzymanych środków w terminie 20 dni po upływie miesiąca, w którym przekazano środki na realizację pomocy.
+
+### 5.
+
+Bankowi Gospodarstwa Krajowego przysługuje prowizja z tytułu realizacji zadań wynikających z przepisów ustawy w wysokości określonej w umowie, o której mowa w ust. 2, nie wyższej jednak niż 1,5% kwoty środków przekazanych przez Bank z tytułu pomocy.
+
+### 6.
+
+Jeżeli wysokość środków, o których mowa w ust. 1, nie pozwala na dokonanie płatności rat pomocy w wysokości wynikającej z decyzji, Bank Gospodarstwa Krajowego dokona płatności z własnych środków, a dysponent Funduszu Pracy zwróci Bankowi wypłaconą kwotę wraz z odsetkami określonymi w umowie, o której mowa w ust. 2.
+
+### Art. 12.
+
+Bank Gospodarstwa Krajowego informuje właściwego starostę o wysokości środków przekazanych z tytułu dokonywanych płatności rat pomocy oraz terminach ich przekazania na rachunek instytucji kredytującej.
+
+### Art. 13.
+
+### 1.
+
+Zwrot pomocy przyznanej na podstawie ustawy rozpoczyna się w miesiącu następującym po miesiącu, w którym upłynęły dwa lata od zaprzestania płatności rat pomocy i jest dokonywany przez 8 kolejnych lat w równych nieoprocentowanych miesięcznych ratach, płatnych do 15 dnia każdego miesiąca, na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy.
+
+### 2.
+
+Właściwy starosta informuje uprawnionego, co najmniej 30 dni przed terminem wpłaty pierwszej raty zwracanej pomocy, o wysokości miesięcznej raty, a także wskazuje numer rachunku bankowego Funduszu Pracy powiatowego urzędu pracy, na który dokonuje się wpłat.
+
+### 3.
+
+Powiatowy urząd pracy przekazuje środki wpłacone z tytułu zwrotu pomocy na rachunek dysponenta Funduszu Pracy.
+
+### Art. 14.
+
+W przypadku zbycia przez kredytobiorcę przedmiotu kredytowania objętego pomocą zwrot pomocy jest dokonywany w terminie 30 dni od dnia zbycia.
+
+### Art. 15.
+
+### 1.
+
+W przypadku uchybienia terminowi, o którym mowa w art. 13 ust. 1 lub art. 14, właściwy starosta wzywa uprawnionego do dokonania płatności, wyznaczając termin jej dokonania nie dłuższy niż 30 dni.
+
+### 2.
+
+W przypadku niedokonania płatności w terminie określonym w wezwaniu, starosta wydaje decyzję w sprawie zwrotu pomocy.
+
+### Art. 16.
+
+### 1.
+
+Osoba, która otrzymała pomoc nienależną na podstawie przepisów ustawy, dokonuje zwrotu środków równych kwocie przyznanej pomocy wraz z odsetkami ustawowymi naliczonymi od dnia przekazania przez Bank Gospodarstwa Krajowego na rachunek instytucji kredytującej środków z tytułu pomocy. Zwrot środków następuje na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy w terminie 30 dni od dnia doręczenia decyzji w sprawie pomocy nienależnej.
+
+### 2.
+
+Za pomoc nienależną uważa się pomoc wypłaconą:
+
+### 1)
+
+pomimo zaistnienia okoliczności stanowiących podstawę zaprzestania płatności rat pomocy;
+
+### 2)
+
+na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo w innych przypadkach świadomego wprowadzenia w błąd starosty przez osobę, której pomoc przyznano.
+
+### 3.
+
+Decyzję w sprawie pomocy nienależnej wydaje starosta, który pomoc przyznał. Decyzję doręcza się osobie, której pomoc przyznano.
+
+### Art. 17.
+
+### 1.
+
+W zakresie nieuregulowanym ustawą do należności z tytułu zwrotów pomocy, o których mowa w art. 13, 14 i 16, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2005 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/2005/60/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362 i Nr 57, poz. 466.](#gloss-0:5:)), z tym że zamiast odsetek za zwłokę nalicza się odsetki ustawowe.
+
+### 2.
+
+Egzekucję należności z tytułu zwrotów pomocy, o których mowa w art. 13, 14 i 16, prowadzi starosta w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 3.
+
+Starosta może odroczyć termin płatności, rozłożyć na raty lub umorzyć w całości albo w części należności, o których mowa w art. 13, 14 i 16. Przepisy art. 76 ust. 7 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2008 r. Nr 69, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/2008/415/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742 i Nr 97, poz. 800.](#gloss-0:6:)) stosuje się odpowiednio.
+
+### Art. 18.
+
+Organem wyższego stopnia w stosunku do starosty w sprawach określonych ustawą jest wojewoda.
+
+### Art. 19.
+
+Bank Gospodarstwa Krajowego sporządza kwartalne informacje o wysokości i przebiegu wypłaty pomocy przyznanej na podstawie ustawy i przekazuje je dysponentowi Funduszu Pracy do 20 dnia miesiąca następującego po upływie kwartału.
+
+### Art. 20.
+
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2000 r. Nr 14, poz. 176](https://api.sejm.gov.pl/eli/acts/DU/2000/176/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824, z 2007 r. Nr 35, poz. 219, Nr 99, poz. 658, Nr 115, poz. 791 i 793, Nr 176, poz. 1243, Nr 181, poz. 1288, Nr 191, poz. 1361 i 1367, Nr 192, poz. 1378 i Nr 211, poz. 1549, z 2008 r. Nr 97, poz. 623, Nr 141, poz. 888, Nr 143, poz. 894, Nr 209, poz. 1316, Nr 220, poz. 1431 i 1432, Nr 223, poz. 1459 i Nr 228, poz. 1507 oraz z 2009 r. Nr 3, poz. 11, Nr 6, poz. 33, Nr 19, poz. 100, Nr 69, poz. 587, Nr 79, poz. 666, Nr 91, poz. 741 i Nr 97, poz. 800.](#gloss-0:7:)) w art. 21 w ust. 1 dodaje się pkt 134 w brzmieniu:
+
+„
+
+### 134)
+
+kwoty należności umorzonych na podstawie ustawy z dnia 19 czerwca 2009 r. o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę ([Dz. U. Nr 115, poz. 964](https://api.sejm.gov.pl/eli/acts/DU/2009/964/text.html)).
+
+” .
+
+### Art. 21.
+
+W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy ([Dz. U. z 2008 r. Nr 69, poz. 415](https://api.sejm.gov.pl/eli/acts/DU/2008/415/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742 i Nr 97, poz. 800.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 108 w ust. 1 dodaje się pkt 42a i 42b w brzmieniu:
+
+„
+
+### 42a)
+
+kosztów pomocy oraz kosztów jej realizacji przez Bank Gospodarstwa Krajowego w zakresie i na zasadach określonych w przepisach o pomocy państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę;
+
+### 42b)
+
+kosztów związanych z realizacją zadań samorządu powiatu określonych w przepisach, o których mowa w pkt 42a;
+
+” ;
+
+### 2)
+
+po art. 109c dodaje się art. 109d w brzmieniu:
+
+„
+
+### Art. 109d.
+
+### 1.
+
+Minister właściwy do spraw pracy przekazuje środki Funduszu Pracy z przeznaczeniem na pomoc państwa w spłacie niektórych kredytów mieszkaniowych udzielonych osobom, które utraciły pracę, na zasadach określonych w odrębnych przepisach.
+
+### 2.
+
+Minister właściwy do spraw pracy przekazuje środki Funduszu Pracy na wyodrębniony rachunek bankowy powiatowego urzędu pracy z przeznaczeniem na pokrycie kosztów realizacji zadań samorządu powiatu określonych w przepisach, o których mowa w art. 108 ust. 1 pkt 42a, w wysokości 1% kwoty przyznanej na podstawie tych przepisów pomocy.
+
+” .
+
+### Art. 22.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 88, poz. 587, Nr 99, poz. 665, Nr 191, poz. 1373 i Nr 247, poz. 1844, z 2008 r. Nr 145, poz. 914, Nr 199, poz. 1227, Nr 206, poz. 1287, Nr 210, poz. 1321 i Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97 i Nr 31, poz. 206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808, z 2005 r. Nr 83, poz. 719, Nr 85, poz. 727, Nr 167, poz. 1398 i Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708, Nr 157, poz. 1119, Nr 190, poz. 1401 i Nr 245, poz. 1775, z 2007 r. Nr 42, poz. 272 i Nr 112, poz. 769, z 2008 r. Nr 171, poz. 1056, Nr 192, poz. 1179, Nr 209, poz. 1315 i Nr 231, poz. 1546 oraz z 2009 r. Nr 18, poz. 97, Nr 42, poz. 341, Nr 65, poz. 545 i Nr 71, poz. 609. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407, z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610, Nr 86, poz. 732 i Nr 167, poz. 1398, z 2006 r. Nr 104, poz. 708 i 711, Nr 133, poz. 935, Nr 217, poz. 1587 i Nr 221, poz. 1615, z 2007 r. Nr 64, poz. 426, Nr 89, poz. 589, Nr 176, poz. 1239, Nr 181, poz. 1288 i Nr 225, poz. 1672, z 2008 r. Nr 93, poz. 586, Nr 116, poz. 740, Nr 223, poz. 1460 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 56, poz. 458, Nr 58, poz. 485, Nr 98, poz. 817, Nr 99, poz. 825 i Nr 115, poz. 958. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 85, poz. 727, Nr 86, poz. 732 i Nr 143, poz. 1199, z 2006 r. Nr 66, poz. 470, Nr 104, poz. 708, Nr 143, poz. 1031, Nr 217, poz. 1590 i Nr 225, poz. 1635, z 2007 r. Nr 112, poz. 769, Nr 120, poz. 818, Nr 192, poz. 1378 i Nr 225, poz. 1671, z 2008 r. Nr 118, poz. 745, Nr 141, poz. 888, Nr 180, poz. 1109 i Nr 209, poz. 1316, 1318 i 1320 oraz z 2009 r. Nr 18, poz. 97, Nr 44, poz. 362 i Nr 57, poz. 466. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742 i Nr 97, poz. 800. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 19, poz. 199, Nr 25, poz. 253, Nr 74, poz. 676, Nr 78, poz. 715, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058, z 2003 r. Nr 7, poz. 79, Nr 45, poz. 391, Nr 65, poz. 595, Nr 84, poz. 774, Nr 90, poz. 844, Nr 96, poz. 874, Nr 122, poz. 1143, Nr 135, poz. 1268, Nr 137, poz. 1302, Nr 166, poz. 1608, Nr 202, poz. 1956, Nr 222, poz. 2201, Nr 223, poz. 2217 i Nr 228, poz. 2255, z 2004 r. Nr 29, poz. 257, Nr 54, poz. 535, Nr 93, poz. 894, Nr 99, poz. 1001, Nr 109, poz. 1163, Nr 116, poz. 1203, 1205 i 1207, Nr 120, poz. 1252, Nr 123, poz. 1291, Nr 162, poz. 1691, Nr 210, poz. 2135, Nr 263, poz. 2619 i Nr 281, poz. 2779 i 2781, z 2005 r. Nr 25, poz. 202, Nr 30, poz. 262, Nr 85, poz. 725, Nr 86, poz. 732, Nr 90, poz. 757, Nr 102, poz. 852, Nr 143, poz. 1199 i 1202, Nr 155, poz. 1298, Nr 164, poz. 1365 i 1366, Nr 169, poz. 1418 i 1420, Nr 177, poz. 1468, Nr 179, poz. 1484, Nr 180, poz. 1495 i Nr 183, poz. 1538, z 2006 r. Nr 46, poz. 328, Nr 104, poz. 708 i 711, Nr 107, poz. 723, Nr 136, poz. 970, Nr 157, poz. 1119, Nr 183, poz. 1353 i 1354, Nr 217, poz. 1588, Nr 226, poz. 1657 i Nr 249, poz. 1824, z 2007 r. Nr 35, poz. 219, Nr 99, poz. 658, Nr 115, poz. 791 i 793, Nr 176, poz. 1243, Nr 181, poz. 1288, Nr 191, poz. 1361 i 1367, Nr 192, poz. 1378 i Nr 211, poz. 1549, z 2008 r. Nr 97, poz. 623, Nr 141, poz. 888, Nr 143, poz. 894, Nr 209, poz. 1316, Nr 220, poz. 1431 i 1432, Nr 223, poz. 1459 i Nr 228, poz. 1507 oraz z 2009 r. Nr 3, poz. 11, Nr 6, poz. 33, Nr 19, poz. 100, Nr 69, poz. 587, Nr 79, poz. 666, Nr 91, poz. 741 i Nr 97, poz. 800. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 70, poz. 416, Nr 134, poz. 850, Nr 171, poz. 1056, Nr 216, poz. 1367 i Nr 237, poz. 1654 oraz z 2009 r. Nr 6, poz. 33, Nr 69, poz. 595, Nr 91, poz. 742 i Nr 97, poz. 800.

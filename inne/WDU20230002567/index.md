@@ -1,0 +1,300 @@
+---
+title: "Rozporządzenie Ministra Cyfryzacji z dnia 11 listopada 2023 r. zmieniające rozporządzenie w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego"
+address: WDU20230002567
+eli: DU/2023/2567
+publisher: DU
+year: 2023
+pos: 2567
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Cyfryzacjiz dnia 11 listopada 2023 r. zmieniające rozporządzenie w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego [1) Minister Cyfryzacji kieruje działem administracji rządowej - informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 792).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2567 |
+| ISAP | WDU20230002567 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-11 |
+| Data wydania | 2023-11-27 |
+| Wejście w życie | 2023-12-12 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2567/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2567) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Warunki używania urządzeń bliskiego zasięgu szerokopasmowych systemów transmisji danych](#part_2)
+
+- [Załącznik nr 2 - Urządzenia bliskiego zasięgu do radiolokacji](#part_3)
+
+- [Załącznik nr 3 - Urządzenia bliskiego zasięgu do sterowania modelami](#part_4)
+
+- [Załącznik nr 4 - Urządzenia bliskiego zasięgu na potrzeby mikrofonów bezprzewodowych, urządzeń wspomagających słuch i urządzeń bezprzewodowych do transmisji sygnałów akustycznych](#part_5)
+
+- [Załącznik nr 5 - Rodzaje urządzeń ziemskich stacji satelitarnych](#part_6)
+
+- [Załącznik nr 6 - Warunki używania urządzeń stacji bazowych wykorzystywanych do świadczenia usług mca, umiejscowionych na pokładach statków powietrznych](#part_7)
+
+TOC
+
+## Treść rozporządzenia
+
+[2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 31 lipca 2023 r. pod numerem 2023/0473/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).](#gloss-0:2:) Na podstawie art. 144 ust. 3 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. z 2022 r. poz. 1648](https://api.sejm.gov.pl/eli/acts/DU/2022/1648/text.html), [1933](https://api.sejm.gov.pl/eli/acts/DU/2022/1933/text.html) i [2581](https://api.sejm.gov.pl/eli/acts/DU/2022/2581/text.html) oraz [z 2023 r. poz. 1394](https://api.sejm.gov.pl/eli/acts/DU/2023/1394/text.html), [1703](https://api.sejm.gov.pl/eli/acts/DU/2023/1703/text.html) i [2005](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Cyfryzacji z dnia 9 lutego 2022 r. w sprawie urządzeń radiowych nadawczych lub nadawczo-odbiorczych, które mogą być używane bez pozwolenia radiowego ([Dz. U. poz. 567](https://api.sejm.gov.pl/eli/acts/DU/2022/567/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 2:
+
+### a)
+
+po pkt 14 dodaje się pkt 14a w brzmieniu:
+
+„
+
+### 14a)
+
+ECTRA (European Committee for Telecommunications Regulatory Affairs) - Europejski Komitet do Spraw Regulacji Telekomunikacyjnych;
+
+” ,
+
+### b)
+
+po pkt 23 dodaje się pkt 23a w brzmieniu:
+
+„
+
+### 23a)
+
+FES (Fixed Earth Station) - stałą ziemską stację pracującą w służbie radiokomunikacyjnej stałej satelitarnej;
+
+” ,
+
+### c)
+
+po pkt 28 dodaje się pkt 28a w brzmieniu:
+
+„
+
+### 28a)
+
+HD-GBSAR (High Definition Ground Based Synthetic Aperture Radar) - naziemny radar wysokiej rozdzielczości z syntetyczną aperturą;
+
+” ,
+
+### d)
+
+po pkt 34 dodaje się pkt 34a w brzmieniu:
+
+„
+
+### 34a)
+
+ITU (International Telecommunication Union) - Międzynarodowy Związek Telekomunikacyjny;
+
+” ,
+
+### e)
+
+po pkt 38 dodaje się pkt 38a w brzmieniu:
+
+„
+
+### 38a)
+
+MES (Mobile Earth Station) - ruchomą ziemską stację pracującą w służbie radiokomunikacyjnej ruchomej satelitarnej;
+
+” ,
+
+### f)
+
+uchyla się pkt 41,
+
+### g)
+
+po pkt 46 dodaje się pkt 46a w brzmieniu:
+
+„
+
+### 46a)
+
+RAS (Radio Astronomy Service) - służbę radioastronomiczną;
+
+” ,
+
+### h)
+
+po pkt 48 dodaje się pkt 48a w brzmieniu:
+
+„
+
+### 48a)
+
+S-PCS (Satellite Personal Communication Systems) - osobiste systemy komunikacji satelitarnej;
+
+” ;
+
+### 2)
+
+w § 3:
+
+### a)
+
+w ust. 1:
+
+- - pkt 4 otrzymuje brzmienie: „ 4) stacji bazowych małej mocy pracujących w zakresach częstotliwości: a) 703-733 MHz (odbiór) i 758-788 MHz (nadawanie) z mocą nieprzekraczającą 23 dBm e.r.p., b) 791-821 MHz (nadawanie) i 832-862 MHz (odbiór) z mocą nieprzekraczającą 21 dBm e.r.p., c) 876-915 MHz (odbiór) i 921-960 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p., d) 1710-1785 MHz (odbiór) i 1805-1880 MHz (nadawanie) z mocą nieprzekraczającą 20 dBm e.r.p., e) 1920-1980 MHz (odbiór) i 2110-2170 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p., f) 2500-2570 MHz (odbiór) i 2620-2690 MHz (nadawanie) z mocą nieprzekraczającą 21 dBm e.r.p., g) 2570-2620 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 21 dBm e.r.p., h) 3400-3800 MHz (nadawanie i odbiór) z mocą nieprzekraczającą 24 dBm e.r.p. dla każdego sygnału o szerokości 20 MHz - wykorzystywanych do świadczenia usług przez przedsiębiorcę telekomunikacyjnego posiadającego rezerwację częstotliwości; ” ,
+
+- - w pkt 6: - - lit. b otrzymuje brzmienie: „ b) szerokopasmowych systemów transmisji danych, obejmujących urządzenia wykorzystujące szerokopasmowe techniki modulacji w celu dostępu do widma, dla których warunki używania określa załącznik nr 2 do rozporządzenia, wykorzystywanych w szczególności w bezprzewodowych systemach dostępu, takich jak lokalne sieci radiowe (WAS/RLAN), lub w urządzeniach do szerokopasmowej transmisji danych w sieciach danych, ” , - - lit. f otrzymuje brzmienie: „ f) na potrzeby mikrofonów bezprzewodowych, urządzeń wspomagających słuch i urządzeń bezprzewodowych do transmisji sygnałów akustycznych, w szczególności głośników bezprzewodowych, słuchawek bezprzewodowych, słuchawek bezprzewodowych do urządzeń przenośnych, zestawów głośnomówiących, dousznych monitorów odsłuchowych wykorzystywanych do przekazywania dźwięku na koncertach i widowiskach scenicznych, określonych w załączniku nr 6 do rozporządzenia, ” , - - lit. h otrzymuje brzmienie: „ h) bezprzewodowych do stosowania w ochronie zdrowia, stanowiących element radiowy aktywnych wyrobów medycznych do implantacji w rozumieniu ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych ([Dz. U. poz. 974](https://api.sejm.gov.pl/eli/acts/DU/2022/974/text.html) oraz [z 2023 r. poz. 1938](https://api.sejm.gov.pl/eli/acts/DU/2023/1938/text.html)), określonych w załączniku nr 8 do rozporządzenia, ” , - w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „ 14) umieszczonych w celach badawczych wewnątrz struktury ekranującej, w szczególności w komorze bezodbiciowej lub w komorze ekranowanej, o skuteczności ekranowania nie mniejszej niż 70 dB. ” ,
+
+### b)
+
+w ust. 2 w zdaniu drugim wyrazy „o których mowa w ust. 1 pkt 5-13” zastępuje się wyrazami „o których mowa w ust. 1 pkt 5-14”,
+
+### c)
+
+w ust. 3 w zdaniu pierwszym wyrazy „o których mowa w ust. 1 pkt 1-7, 9-13” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1-7, 9-14”,
+
+### d)
+
+w ust. 4 w zdaniu pierwszym wyrazy „o których mowa w ust. 1 pkt 1-9, 12 i 13” zastępuje się wyrazami „o których mowa w ust. 1 pkt 1-9, 12-14”;
+
+### 3)
+
+załącznik nr 2 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 1 do niniejszego rozporządzenia;
+
+### 4)
+
+załącznik nr 4 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 2 do niniejszego rozporządzenia;
+
+### 5)
+
+załącznik nr 5 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 3 do niniejszego rozporządzenia;
+
+### 6)
+
+załącznik nr 6 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 4 do niniejszego rozporządzenia;
+
+### 7)
+
+załącznik nr 12 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 5 do niniejszego rozporządzenia;
+
+### 8)
+
+w załączniku nr 13 do rozporządzenia wyrazy: „Dz. Urz. UE L 26 z 03.02.2017, str. 63” zastępuje się wyrazami: „Dz. Urz. UE L 29 z 03.02.2017, str. 63”;
+
+### 9)
+
+załącznik nr 14 do rozporządzenia otrzymuje brzmienie określone w załączniku nr 6 do niniejszego rozporządzenia.
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Minister Cyfryzacji kieruje działem administracji rządowej - informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 792). 2) Niniejsze rozporządzenie zostało notyfikowane Komisji Europejskiej w dniu 31 lipca 2023 r. pod numerem 2023/0473/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. UE L 241 z 17.09.2015, str. 1).
+
+## Załącznik nr 1 - Warunki używania urządzeń bliskiego zasięgu szerokopasmowych systemów transmisji danych
+
+Warunki używania urządzeń bliskiego zasięgu szerokopasmowych systemów transmisji danych, w szczególności zakresy wykorzystywanych przez nie częstotliwości, maksymalna moc promieniowana lub maksymalna gęstość mocy promieniowanej dla emisji wewnątrz pasma i dla emisji pozapasmowych oraz obszar ich używania, są zgodne z warunkami używania urządzeń radiowych określonymi w decyzjach wykonawczych Komisji Europejskiej:
+
+### 1)
+
+(UE) 2021/1067 z dnia 17 czerwca 2021 r. w sprawie zharmonizowanego wykorzystania widma radiowego w paśmie częstotliwości 5945-6425 MHz celem wdrożenia systemów dostępu bezprzewodowego, w tym lokalnych sieci radiowych (WAS/RLANs) (Dz. Urz. UE L 232 z 30.06.2021, str. 1);
+
+### 2)
+
+(UE) 2022/2307 z dnia 23 listopada 2022 r. zmieniającej decyzję wykonawczą (UE) 2022/179 w odniesieniu do wyznaczania i udostępniania zakresów częstotliwości 5150-5250 MHz, 5250-5350 MHz i 5470-5725 MHz zgodnie z warunkami technicznymi określonymi w załączniku (Dz. Urz. UE L 305 z 25.11.2022, str. 63).
+
+## Załącznik nr 2 - Urządzenia bliskiego zasięgu do radiolokacji
+
+Poz. Zakres częstotliwości Maksymalna moc promieniowana lub maksymalne natężenie pola magnetycznego Odstęp sąsiednio-kanałowy Aktywność nadajnika Uwagi 1 100 Hz-148 kHz 46 dBμA/m [-] [-] Dotyczy natężenia pola magnetycznego mierzonego w odległości 10 m od urządzenia NMR dla częstotliwości 100 Hz.Powyżej 100 Hz natężenie pola magnetycznego maleje o 10 dB na dekadę. 2 148-5000 kHz -15 dBμA/m w odległości 10 m na zewnątrz urządzenia NMR [-] [-] Dotyczy zastosowań NMR z systemem zamkniętym. 3 5000-30000 kHz -5 dBμA/m w odległości 10 m na zewnątrz urządzenia NMR [-] [-] Dotyczy zastosowań NMR z systemem zamkniętym. 4 30-130 MHz -36 dBm e.r.p. na zewnątrz urządzenia NMR [-] [-] Dotyczy zastosowań NMR z systemem zamkniętym. 5 30-12400 MHz patrz decyzja ECC/DEC/(06) 08 patrz decyzja ECC/DEC / (06)08 patrz decyzja ECC/DEC/ (06)08 Dotyczy wyłącznie radarów do sondowania gruntu i ścian.Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 302 066. 6 6000-8500 MHz 7 dBm/50 MHz mocy szczytowej e.i.r.p.oraz-33 dBm/1 MHz mocy średniej e.i.r.p. [-] [-] Dotyczy gęstości mocy. Warunki wykorzystania dotyczą wyłącznie radaru sondującego poziom napełnienia. Nie należy naruszać stref zamkniętych ustanowionych wokół obiektów radioastronomicznych. Należy stosować automatyczne sterowanie mocą i wymogi dotyczące anteny, a także wymogi dotyczące techniki dostępu do widma oraz osłabiania szkodliwych zakłóceń, zapewniające odpowiednią skuteczność działania w celu spełnienia zasadniczych wymagań dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE (Dz. Urz. UE L 153 z 22.05.2014, str. 62, Dz. Urz. UE L 212 z 22.08.2018, str. 1, Dz. Urz. UE L 315 z 07.12.2022, str. 30 i Dz. Urz. UE L 223 z 11.09.2023, str. 1).Jeżeli stosowne ograniczenia są określone w normach zharmonizowanych (lub ich częściach), do których odniesienia opublikowano w Dzienniku Urzędowym Unii Europejskiej na podstawie dyrektywy 2014/53/UE, zapewnia się skuteczność działania co najmniej równoważną tym ograniczeniom. 7 9200-9500 MHz 25 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 440. 8 9500-9975 MHz 25 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 440. 9 10,5-10,6 GHz 500 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 440. 10 13,4-14,0 GHz 25 mW e.i.r.p. [-] [-] Dotyczy urządzeńspełniającychwymagania określone w normie PN-ETSI EN 300 440. 11 24,05- 4,25 GHz 100 mW e.i.r.p. [-] [-] Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 440. 12 24,05-26,5 GHz 26 dBm/50 MH z mocy szczytowej e.i.r.p. oraz -14 dBm/1 MHz mocy średniej e.i.r.p. [-] [-] Dotyczy gęstości mocy. Warunki wykorzystania dotyczą wyłącznie radaru sondującego poziom napełnienia. Nie należy naruszać stref zamkniętych ustanowionych wokół obiektów radioastronomicznych. Należy stosować automatyczne sterowanie mocą i wymogi dotyczące anteny, a także wymogi dotyczące techniki dostępu do widma oraz osłabiania szkodliwych zakłóceń, zapewniające odpowiednią skuteczność działania w celu spełnienia zasadniczych wymagań dyrektywy Parlamentu Europejskiego i Rady 2014/53/UE z dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE.Jeżeli stosowne ograniczenia są określone w normach zharmonizowanych (lub ich częściach), do których odniesienia opublikowano w Dzienniku Urzędowym Unii Europejskiej na podstawie dyrektywy 2014/53/UE, zapewnia się skuteczność działania co najmniej równoważną tym ograniczeniom. 13 75-85 GHz 34 dBm/50 MH z mocy szczytowej e.i.r.p. oraz -3 dBm/1 MHz mocy średniej e.i.r.p. [-] [-] Dotyczy gęstości mocy. Warunki wykorzystania dotyczą wyłącznie radaru sondującego poziom napełnienia. Nie należy naruszać stref zamkniętych ustanowionych wokół obiektów radioastronomicznych. Należy stosować automatyczne sterowanie mocą i wymogi dotyczące anteny, a także wymogi dotyczące technik dostępu do widma oraz osłabiania zakłóceń, zapewniające odpowiednią skuteczność działania w celu spełnienia zasadniczych wymagań dyrektywy Parlamentu Europejskiego i Rady2014/53/UEz dnia 16 kwietnia 2014 r. w sprawie harmonizacji ustawodawstw państw członkowskich dotyczących udostępniania na rynku urządzeń radiowych i uchylającej dyrektywę 1999/5/WE. Jeżeli stosowne ograniczenia są określone w normach zharmonizowanych (lub ich częściach), do których odniesienia opublikowano w Dzienniku Urzędowym Unii Europejskiej na podstawie dyrektywy 2014/53/UE, zapewnia się skuteczność działania co najmniej równoważną tym ograniczeniom. 14 76-77 GHz patrz decyzja ECC/DEC/(21) 02 patrz decyzja ECC/DEC /(21)02 patrz decyzja ECC/DEC/ (21)02 Strefy wykluczenia wokół obserwatoriów radioastronomicznych oraz stosowanie systemu DAA (Detect and Avoid) są wymagane tylko w przypadku stosowania HD--GBSAR na zewnątrz budynków.
+
+## Załącznik nr 3 - Urządzenia bliskiego zasięgu do sterowania modelami
+
+Poz. Zakres częstotliwości lub częstotliwość Maksymalna moc promieniowana lub maksymalne natężenie pola magnetycznego Odstęp sąsiednio-kanałowy Aktywność nadajnika Uwagi 1 34,995-35,225 MHz 100 mWe.r.p. 10 kHz [-] Dotyczy sterowania modelami latającymi. Dotyczy urządzeń z antenami dedykowanymi. Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 220. 2 40,665 MHz;40,675 MHz;40,685 MHz;40,695 MHz 100 mW e.r.p. 10 kHz [-] Dotyczy urządzeń z antenami dedykowanymi. Dotyczy urządzeń spełniających wymagania określone w normie PN-ETSI EN 300 220. Częstotliwości są przeznaczone również dla urządzeń ISM. Urządzenia pracujące na tych częstotliwościach muszą akceptować szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM.
+
+## Załącznik nr 4 - Urządzenia bliskiego zasięgu na potrzeby mikrofonów bezprzewodowych, urządzeń wspomagających słuch i urządzeń bezprzewodowych do transmisji sygnałów akustycznych
+
+Poz. Zakres częstotliwości Maksymalna moc promieniowana lub maksymalne natężenie pola magnetycznego Odstęp sąsiednio- kanałowy Aktywność nadajnika Uwagi 1 100 Hz-9 kHz 120 dBμA/m w odległości 10 m od urządzenia [-] [-] Dotyczy systemów pętli indukcyjnych stosowanych w systemach pomocy osobom niedosłyszącym. Maksymalny rozmiar anteny nie może przekraczać 1/20 λ Rozmiar anteny jest określany poprzez maksymalną odległość pomiędzy dwoma dowolnymi punktami umieszczonymi na antenie (np. dla anteny w kształcie prostokąta jest to przekątna, a dla anteny w kształcie koła jest to średnica). 2 29,7-47,0 MHz 10 mW e.r.p. ≤ 50 kHz [-] Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy.Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422. Podzakres 40,66-40,70 MHz przeznaczony jest również dla urządzeń ISM. Urządzenia pracujące w tym podzakresie muszą akceptować szkodliwe zakłócenia, jakich mogą doznać podczas pracy urządzeń ISM. 3 169,4-172,0 MHz 10 mW e.r.p. ≤ 50 kHz [-] Dotyczy urządzeń wspomagających słuch. Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422. 4 174-216 MHz 50 mW e.r.p. [-] [-] Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy.Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422. 5 470-694 MHz 50 mW e.r.p. [-] [-] Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy.Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422. 6 694-698 MHz 50 mW e.r.p. [-] [-] Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy.Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422. 7 736-738 MHz 50 mW e.r.p. [-] [-] Dotyczy mikrofonów bezprzewodowych z dostrajaniem zakresu pracy.Dotyczy urządzeń spełniających wymagania określone w normie PN--ETSI EN 300 422.
+
+## Załącznik nr 5 - Rodzaje urządzeń ziemskich stacji satelitarnych
+
+### 1.
+
+Określa się następujące rodzaje ziemskich stacji satelitarnych, których używanie nie wymaga uzyskania pozwolenia:
+
+### 1)
+
+typu HEST, pracujących zgodnie z decyzją ECC/DEC/(06)03 „On Exemption from Individual Licensing of High e.i.r.p. Satellite Terminals (HEST) with e.i.r.p, above 34 dBW operating within the frequency bands 10,70-12,75 GHz or 19,70-20,20 GHz space-to-Earth and 14,00-14,25 GHz or 29,50-30,00 GHz Earth-to-space” (Approved 24 March 2006, latest amended on 18 November 2022), których ogólne warunki używania określa wykaz nr 1,
+
+### 2)
+
+typu AES, pracujących zgodnie z decyzją ECC/DEC/(05)11 „The free circulation and use of Aircraft Earth Stations (AES) in the frequency bands 14,0-14,5 GHz (Earth-to-space), 10,7-11,7 GHz (space-to-Earth) and 12,5-12,75 GHz (space-to-Earth)” (Approved 24 June 2005, latest updated 18 November 2022), których ogólne warunki używania określa wykaz nr 2,
+
+### 3)
+
+typu ESV, pracujących zgodnie z decyzją ECC/DEC/(05)10 „The free circulation and use of Earth Stations on board Vessels operating in fixed satellite service networks in the frequency bands 14-14,5 GHz” (Approved 24 June 2005, amended 8 March 2019)”, których ogólne warunki używania określa wykaz nr 3,
+
+### 4)
+
+typu HDAFSS, pracujących zgodnie z decyzją ECC/DEC/(05)08 „The availability of frequency bands for high density applications in the Fixed-Satellite Service (space-to--Earth and Earth-to-space)” (Approved 24 June 2005, latest amended on 18 November 2022), których ogólne warunki używania określa wykaz nr 4,
+
+### 5)
+
+typu UESFSS, pracujących zgodnie z decyzją ECC/DEC/(05)01 „The use of the band 27,5-29,5 GHz by the Fixed Service and uncoordinated Earth stations of the Fixed--Satellite Service (Earth-to-space)” (Approved 18 March 2005, amended 8 March 2019), których ogólne warunki używania określa wykaz nr 5,
+
+### 6)
+
+typu FES NGSO FSS, pracujących zgodnie z decyzją ECC/DEC/(17)04 „The harmonised use and exemption from individual licensing of fixed earth stations operating with NGSO FSS satellite systems in the frequency bands 10,7-12,75 GHz and 14,0-14,5 GHz” (Approved 30 June 2017, latest updated 18 November 2022), których ogólne warunki używania określa wykaz nr 6,
+
+### 7)
+
+typu ESOMP, pracujących zgodnie z decyzją ECC/DEC/(13)01 „The harmonised use, free circulation and exemption from individual licensing of Earth Stations On Mobile Platforms (ESOMPs) within the frequency bands 17,3-20,2 GHz and 27,5-30,0 GHz” (Approved 8 March 2013, latest amended 2 July 2021), których ogólne warunki używania określa wykaz nr 7,
+
+### 8)
+
+typu NGSO ESOMP, pracujących zgodnie z decyzją ECC/DEC/(15)04 „The harmonised use, free circulation and exemption from individual licensing of Land, Maritime and Aeronautical Earth Stations On Mobile Platforms (ESOMPs) operating with NGSO FSS satellite systems in the frequency ranges 17,3-20,2 GHz, 27,5-29,1 GHz and 29,5-30,0 GHz” (Approved 3 July 2015, amended 20 November 2020), których ogólne warunki używania określa wykaz nr 8[5) Wykaz uwzględnia także decyzję ECC/DEC/(05)01 „The use of the band 27.5‒29.5 GHz by the Fixed Service and uncoordinated Earth stations of the Fixed-Satellite Service (Earth-to-space)” (Approved 18 March 2005, amended 8 March 2019).](#gloss-0:5:),
+
+### 9)
+
+typu GSO ESIM, pracujących zgodnie z decyzją ECC/DEC(18)04 „The harmonised use, exemption from individual licensing and free circulation and use of land based Earth Stations In-Motion (ESIM) operating with GSO FSS satellite systems in the frequency bands 10,7-12,75 GHz and 14,0-14,5 GHz” (Approved 06 July 2018, latest updated on 18 November 2022), których ogólne warunki używania określa wykaz nr 9,
+
+### 10)
+
+typu NGSO ESIM, pracujących zgodnie z decyzją ECC/DEC(18)05 „The harmonised use, exemption from individual licensing and free circulation and use of Earth Stations In-Motion (ESIM) operating with NGSO FSS satellite systems in the frequency bands 10,7-12,75 GHz and 14,0-14,5 GHz” (Approved 06 July 2018, latest updated 18 November 2022), których ogólne warunki używania określa wykaz nr 10,
+
+### 11)
+
+typu VSAT, pracujących zgodnie z decyzją ECC/DEC/(03)04 „Exemption from Individual Licensing of Very Smali Aperture Terminals (VSAT) operating in the freąquency bands 14,25-14,50 GHz Earth-to-space and 10,70-11,70 GHz space-to-Earth” (Approved 17 October 2003, amended 8 March 2019), których ogólne warunki używania określa wykaz nr 11,
+
+### 12)
+
+typu MES, pracujących zgodnie z decyzją ECC/DEC/(09)04 „On exemption from individual licensing and the free circulation and use of transmit-only mobile satellite terminals operating in the Mobile-Satellite Service allocations in the 1613.8-1626.5 MHz band” (Approved 30 October 2009), których ogólne warunki używania określa wykaz nr 12,
+
+### 13)
+
+typu MES, pracujących pod kontrolą sieci satelitarnej zgodnie z decyzją ECC/DEC/( 12)01 „Exemption from individual licensing and free circulation and use of satellite mobile terminals operating under the control of networks in the range 1 to 3 GHz” (Approved 1 June 2009, latest amended 4 March 2022), których ogólne warunki używania określa wykaz nr 13,
+
+### 14)
+
+typu S-PCS, pracujących zgodnie z decyzjami: ERC/DEC/(99)06 „On the harmonised introduction of satellite personal communication systems operating in the bands below 1 GHz (S-PCS<1GHz)” (Approved 10 March 1999, latest updated 10 March 2023), ERC/DEC/(99)05 „On free Circulation, Use and Exemption from Individual Licensing of Mobile Earth Stations of S-PCS<1GHz systems” (Approved 10 March 1999) oraz ECTRA/DEC(99)02 „On harmonisation of authorisation conditions in the field of Satellite Personal Communications Services (S-PCS) in Europe, operating in the bands below 1 GHz (S-PCS<1 GHz)” (Approved 3 March 1999), których ogólne warunki używania określa wykaz nr 14
+
+- z tym że moce określone w powyższych wykazach są mocami szczytowymi.
+
+### 2.
+
+Jeżeli antena jest sprzężona z więcej niż jednym nadajnikiem lub nadajnik wytwarza więcej niż jedną falę nośną, e.i.r.p, określona w wykazach nr 1-13 jest sumą mocy wszystkich emisji promieniowanych przez wiązkę główną anteny. Wykaz nr 1 Urządzenia typu HEST Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,00-14,25 GHz29,5-30,0 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,70-12,75 GHz*)19,7-20,2 GHz 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 60 dBW 4 Dodatkowe ograniczenia Urządzenia typu HEST mogą być używane, jeżeli zapewniają zgodność z kryteriami ochrony HIRF statku powietrznego, przy zastosowaniu maksymalnego natężenia pola HIRF wynoszącego 190 V/m w zakresie 14,00-14,25 GHz i 150 V/m w zakresie 29,5-30,0 GHz.Urządzenia typu HEST działające z maksymalną mocą e.i.r.p. w sieciach TDMA są dopuszczone do użytkowania po uwzględnieniu cyklu pracy**). *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. **) Cykl pracy określono w pkt. 3.3 i 3.4 Sprawozdania ECC 272 „Earth Stations operating in the frequency bands 4-8 GHz, 12-18 GHz and 18-40 GHz in the vicinity of aircraft” (Approved 26 January 2018). Wykaz nr 2 Urządzenia typu AES Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,0-14,5 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,7-11,7 GHz*)12,50-12,75 GHz 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 50 dBW 4 Dodatkowe ograniczenia Stacje AES mogą być używane, jeżeli spełniają następujące warunki:1) są autoryzowane przez administrację kraju, w którym statek powietrzny jest zarejestrowany;2) są zgodne z wymaganiami określonymi w normie PN-ETSI EN 302 186;3) są zgodne z zaleceniem ITU-R M.1643, w tym zasadniczymi wymaganiami odnoszącymi się odpowiednio do ochrony służby stałej (FS) oraz wspólnego wykorzystania zakresów przez służbę radioastronomiczną (RAS) i stacje AES, z uwzględnieniem wymagań zawartych w załącznikach decyzji ECC/DEC/(05)11;4) działają pod kontrolą systemu sterującego siecią. *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. Wykaz nr 3 Urządzenia typu ESY Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,0-14,5 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,7-11,7 GHz*)12,50-12,75 GHz 3 Dopuszczalna e.i.r.p. [-] 4 Dodatkowe ograniczenia Stacje ESV pracujące w ramach służby stałej satelitarnej mogą być używane, jeżeli spełniają następujące warunki:1) są zgodne z Uchwałą 902 (WRC-03);2) są zgodne z wymaganiami określonymi w normie PN--ETSI EN 302 340;3) posiadają antenę o rozmiarze 0,6 m lub większym;4) działają pod kontrolą systemu sterującego siecią;5) operator sieci ESV sprawujący kontrolę nad transmisjami stacji ESV powiadomił właściwy urząd i dostarczył wymagane dane kontaktowe i techniczne. *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. Wykaz nr 4 Urządzenia typu HDAFSS Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 29,5-30,0 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 17,3-17,7 GHz19,7-20,2 GHz 3 Dopuszczalna e.i.r.p. [-] 4 Dodatkowe ograniczenia Urządzenia HDAFSS pracujące w ramach służby stałej satelitarnej mogą być używane, jeżeli spełniają następujące warunki:1) wykorzystanie zakresów częstotliwości określonych w poz. 1 i 2 przez inne zastosowania w ramach służby FSS lub inne służby, dla których te zakresy są przeznaczone, nie ustanawia priorytetu wobec użytkowników tych samych służb;2) pracują w zakresie częstotliwości 17,3-17,7 GHz, który pozostaje dostępny dla łączy dosyłowych pracujących w ramach służby BSS;3) uwzględniają dodatkowe wymogi określone decyzją ECC/DEC/(06) 03 dla zakresów częstotliwości 19,7-20,2 GHz i 29,5-30,0 GHz. Wykaz nr 5 Urządzenia typu UESFSS Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 27,5000-27,8285 GHz28,4445-28,9485 GHz29,4525-29,5000 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) [-] 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 60 dBW 4 Dodatkowe ograniczenia Niekoordynowane stacje ziemskie służby stałej satelitarnej nadające w zakresie 27,5-29,5 GHz spełniają następujące wymagania:1) poziom pozaosiowej gęstości widmowej mocy e.i.r.p. wypromieniowanej przez dowolną stację ziemską UESFSS w zakresach częstotliwości przeznaczonych dla służby stałej (27,8285-28,4445 GHz, 28,8365-28,9485 GHz i 28,9485-29,4525 GHz) jest ograniczony do -35 dBW/MHz. Limit ten jest przestrzegany w każdym przypadku przez UESFSS promieniujące pod kątem 3 stopni lub mniejszym w odniesieniu do płaszczyzny lokalnego horyzontu;2) kąt elewacji anteny jest większy niż 3 stopnie;3) systemy służby FSS wykorzystujące niekoordynowane stacje UESFSS w zakresach częstotliwości: 27,5000-27,8285 GHz, 28,4445-28,9485 GHz i 29,4525-29,5000 GHz wdrażają mechanizmy automatycznej kontroli mocy lub automatycznej kontroli wzmocnienia satelitarnego na tych stacjach;4) stacje UESFSS nie używają częstotliwości bliższych niż 10 MHz od skraju pasma używanego przez służbę stałą;5) dla zapewnienia zgodności z kryteriami ochrony HIRF dla statku powietrznego stosuje się maksymalne natężenie pola HIRF wynoszące 150 V/m;6) urządzenia typu UESFSS działające z maksymalną mocą e.i.r.p. w sieciach TDMA są dopuszczone do użytkowania po uwzględnieniu cyklu pracy*). *) Cykl pracy określono w pkt. 3.3 i 3.4 Sprawozdania ECC 272 „Earth Stations operating in the frequency bands 4-8 GHz, 12-18 GHz and 18-40 GHz in the vicinity of aircraft” (Approved 26 January 2018). Wykaz nr 6 Urządzenia typu FES NGSO FSS Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,0-14,5 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,70-12,75 GHz*) 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 60 dBW 4 Dodatkowe ograniczenia Dla zapewnienia zgodności z kryteriami ochrony HIRF dla statku powietrznego stosuje się maksymalne natężenie pola HIRF wynoszące 190V/m w zakresie 14,0-14,5 GHz.Stacje ziemskie działające z maksymalną mocą e.i.r.p. w sieciach TDMA są dopuszczone do użytkowania po uwzględnieniu cyklu pracy**). *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. **) Cykl pracy określono w pkt. 3.3 i 3.4 Sprawozdania ECC 272 „Earth Stations operating in the frequency bands 4-8 GHz, 12-18 GHz and 18-40 GHz in the vicinity of aircraft” (Approved 26 January 2018). Wykaz nr 7 Urządzenia typu ESOMP Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne oraz obszar używania urządzeń 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 27,5000-27,8285 GHz28,4445-28,9485 GHz29,4525-30,0000 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 17,3-20,2 GHz 3 Dopuszczalna e.i.r.p. 1) maksymalna moc e.i.r.p. urządzeń ESOMP zainstalowanych na statkach powietrznych operujących w granicach lotniska, w tym na ziemi, wynosi 58,4 dBW;2) maksymalna moc e.i.r.p. lądowych urządzeń ESOMP działających w granicach lotniska jest ograniczona do 52,4 dBW;3) maksymalna moc e.i.r.p. urządzeń ESOMP nieobjęta pkt 1 i 2, poza granicą lotniska lub na statkach, jest ograniczona do 70 dBW. 4 Dodatkowe ograniczenia Urządzenia ESOMP działające w zakresach częstotliwości 17,3-19,7 GHz i 27,5-29,5 GHz dodatkowo spełniają następujące wymagania:1) na terytorium danego państwa poziom pozaosiowej gęstości widmowej mocy e.i.r.p. wypromieniowanej przez dowolną stację ESOMP w zakresach częstotliwości przeznaczonych dla służby stałej (27,8285-28,4445 GHz, 28,8365-28,9485 GHz i 28,9485-29,4525 GHz) jest ograniczony do -35 dBW/MHz. Limit ten jest przestrzegany w każdym przypadku przez urządzenia pracujące na platformach ESOMP na lądzie, na wodach terytorialnych lub na wodach wewnętrznych, promieniujące pod kątem 3 stopni lub mniejszym w odniesieniu do płaszczyzny lokalnego horyzontu;2) stacje ESOMP, z wyjątkiem stacji zainstalowanych na statkach lub statkach powietrznych, nie wykorzystują częstotliwości leżących bliżej niż 10 MHz od skraju pasma wykorzystywanego przez służbę stałą;3) kąt elewacji anteny jest większy niż 3 stopnie;4) w przypadku terminali ESOMP zainstalowanych na statku powietrznym wartości PFD (dB (W/m2) w referencyjnej szerokości 14 MHz) na ziemi są następujące:-124,7 dla 0ş ≤ δ ≤ 0,01ş-120,9 + 1,9 1g (δ) dla 0,01ş < 0,3ş -116,2 + 11,0 1g (δ) dla 0,3ş ≤ δ ≤ 1,0ş-116,2 + 18,0 1g (δ) dla 1,0ş ≤ δ ≤ 2,0ş-117,9 + 23,7 1g (δ) dla 2,0ş ≤ δ ≤ 8,0ş-96,5 dla 8,0ş < δ ≤ 90,0şgdzie (δ) jest kątem padania na powierzchnię Ziemi (stopnie).Powyższe wartości PFD nie są zdefiniowane dla warunków „w wolnej przestrzeni”. Dlatego przy ocenie zgodności terminala ESOMP z maską PFD należy uwzględnić pochłanianie atmosferyczne i wszelkie tłumienie spowodowane konstrukcją statku powietrznego;5) w przypadku terminali ESOMP zainstalowanych na statkach wartość progowa PFD wynosi -109 dB (W/m2) przy referencyjnej szerokości pasma 14 MHz na wysokości 20 metrów nad średnim poziomem morza podczas największego odpływu;6) w celu zapewnienia zgodności z wymaganiami dotyczącymi PFD określonymi w pkt 4 i 5 terminale ESOMP posiadają funkcje samokontroli i automatyczne mechanizmy (lokalnie lub pod kontrolą NCF) w celu zmniejszenia swojego e.i.r.p. lub zaprzestania transmisji. gdzie „1g” oznacza logarytm o podstawie 10. Wykaz nr 8 Urządzenia typu NGSO ESOMP Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne oraz obszar używania urządzeń 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 27,5000-27,8285 GHz28,4445-28,8365 GHz29,5-30,0 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 17,30-20,20 GHz 3 Dopuszczalna e.i.r.p. 1) maksymalna moc e.i.r.p. dla stacji ESOMP pracujących na statkach powietrznych w granicach lotnisk jest ograniczona do 58,4 dBW;2) maksymalna moc e.i.r.p. dla stacji ESOMP pracujących na lądzie w granicach lotnisk jest ograniczona do 52,4 dBW;3) maksymalna moc e.i.r.p. dla stacji ESOMP pracujących na lądzie poza granicami lotnisk jest ograniczona do 70 dBW;4) maksymalna moc e.i.r.p. dla stacji ESOMP na statkach jest ograniczona do 70 dBW. 4 Dodatkowe ograniczenia 1) poziom gęstości e.i.r.p. poza kierunkiem maksymalnego promieniowania dla każdej stacji ESOMP w zakresach częstotliwości służby stałej (27,8285-28,4445 GHz i 28,9485-29,1000 GHz) jest ograniczony do -35 dBW/MHz. Limit ten jest przestrzegany w każdym przypadku przez urządzenia ESOMP na lądzie, na wodach terytorialnych lub na wodach wewnętrznych, promieniującego pod kątem 3 stopni lub mniejszym w odniesieniu do płaszczyzny lokalnego horyzontu;2) stacje ESOMP nie wykorzystują częstotliwości leżących bliżej niż 10 MHz od skraju pasma wykorzystywanego przez służbę stałą;3) kąt elewacji anteny jest większy niż 3 stopnie;4) dla stacji ESOMP zamontowanych na pokładach statków morskich wartość progowa PFD wynosi -109 dB(W/m2) przy referencyjnej szerokości pasma 14 MHz na wysokości 20 metrów nad średnim poziomem morza podczas największego odpływu;5) dla stacji ESOMP zamontowanych na pokładach statków powietrznych wartości PFD przy referencyjnej szerokości pasma 14 MHz na powierzchni Ziemi są następujące: -124,7 dla 0ş ≤ δ ≤ 0,01ş-120,9 + 1,9 1g (δ) dla 0,01ş ≤ δ ≤ 0,3ş-116,2 + 11,0 1g (δ) dla 0,3ş ≤ δ ≤ 1,0ş-116,2 + 18,0 1g (δ) dla 1,0ş ≤ δ ≤ 2,0ş -117,9 + 23,7 1g (δ) dla 2,0ş < δ ≤ 8,0ş-96,5 dla 8,0ş < δ ≤ 90,0şgdzie (δ) jest kątem padania na powierzchnię Ziemi (stopnie); 6) w celu zapewnienia zgodności z wymaganiami dotyczącymi PFD określonymi w pkt 4 terminale ESOMP posiadają funkcje samokontroli i automatyczne mechanizmy (lokalnie lub pod kontrolą NCF) w celu zmniejszenia swojego e.i.r.p. lub zaprzestania transmisji. gdzie „1g” oznacza logarytm o podstawie 10. Wykaz nr 9 Urządzenia typu GSO ESIM Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,0-14,5 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,70-12,75 GHz*) 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 54,5 dBW *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. Wykaz nr 10 Urządzenia typu NGSO ESIM Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,0-14,5 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,70-12,75 GHz*) 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 54,5 dBW. 4 Dodatkowe ograniczenia 1) dla zakresu częstotliwości 14,25-14,5 GHz, w celu ochrony systemów służby stałej, stosuje się wartości progowe PFD określone w pkt 2-4;2) dla ESIM zamontowanych na statkach powietrznych wartości progowe PFD na powierzchni Ziemi są następujące: -122 dB(W/(m2 • MHz)) dla θ ≤ 5ş-127 + 6 dB(W/(m2 • MHz)) dla 5ş < θ ≤ 40ş-87 dB(W/(m2 • MHz)) dla 40ş < θ ≤ 90şgdzie θ jest kątem nadejścia fali radiowej (stopnie powyżejpłaszczyzny horyzontalnej);3) dla terminali ESIM zainstalowanych na pokładach statków morskich wartość progowa PFD wynosi -116 dBW/m2/MHz na wysokości 80 metrów nad średnim poziomem morza podczas największego odpływu;4) dla terminali ESIM na lądzie wartość progowa PFD wynosi -116 dBW/m2/MHz na wysokości 30 metrów nad poziomem terenu;5) dla zakresu częstotliwości 14,47-14,50 GHz terminale ESIM zamontowane na statkach powietrznych są zdolne do zaprzestania emisji, gdy znajdą się w bezpośredniej widoczności stacji RAS prowadzącej obserwacje w tym zakresie częstotliwości;6) dla zakresu częstotliwości 14,47-14,50 GHz nie zostają przekroczone wartości progowe PFD określone w pkt 7 oraz 8;7) dla terminali ESIM zainstalowanych na pokładach statków morskich wartość progowa PFD wynosząca -169 dBW/m2/(150 kHz) nie jest przekraczana przez więcej niż 2% czasu;8) dla terminali ESIM na lądzie wartość progowa PFD wynosząca -169 dBW/m2/(150 kHz) nie jest przekraczana przez więcej niż 2% czasu; 9) terminale ESIM posiadają funkcje samokontroli i automatyczne mechanizmy (lokalnie lub pod kontrolą NCF) w celu zmniejszenia swojego e.i.r.p. lub zaprzestania transmisji. *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. Wykaz nr 11 Urządzenia typu VSAT Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 14,25-14,50 GHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 10,7-11,7 GHz*) 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 50 dBW 4 Dodatkowe ograniczenia 1) dla zapewnienia zgodności z kryteriami ochrony HIRF dla statku powietrznego stosuje się maksymalne natężenie pola HIRF wynoszące 190 V/m w zakresie 14,25-14,50 GHz;2) stacje ziemskie działające z maksymalną mocą e.i.r.p. w sieciach TDMA są dopuszczone do użytkowania po uwzględnieniu cyklu pracy**);3) urządzenia VSAT spełniają wymagania określone w normie PN-ETSI EN 301 428. *) Wykorzystywanie zakresu częstotliwości 10,70-11,70 GHz do odbioru związane jest z ryzykiem występowania szkodliwych zakłóceń ze strony urządzeń w służbie stałej typu punkt-punkt (linii radiowych) pracujących na podstawie wydanych pozwoleń radiowych. **) Cykl pracy określono w pkt. 3.3 i 3.4 Sprawozdania ECC 272 „Earth Stations operating in the frequency bands 4-8 GHz, 12-18 GHz and 18-40 GHz in the vicinity of aircraft” (Approved 26 January 2018). Wykaz nr 12 Urządzenia typu MES Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne oraz inne warunki używania urządzeń 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 1613,8-1626,5 MHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 1613,8-1626,5 MHz 3 Dopuszczalna e.i.r.p. Mniejsza lub równa 30 dBm 4 Dodatkowe ograniczenia Urządzenia typu MES wykorzystywane wyłącznie do transmisji Ziemia-kosmos, z wyłączeniem transmisji głosowej, pracujące w ramach służby ruchomej satelitarnej mogą być używane, jeżeli spełniają następujące warunki:1) są identyfikowane przez systemy satelitarne wykorzystywane przez operatora satelity i zaprojektowane w sposób zapewniający ochronę innych użytkowników widma przed niedopuszczalnymi zakłóceniami;2) działają zgodnie z uwagą 5.364 do Regulaminu Radiokomunikacyjnego oraz z zaleceniem ITU-R M.1343;3) nie przekraczają maksymalnego cyklu pracy równego 1%, będącego stosunkiem procentowym maksymalnego czasu pracy nadajnika na jednej częstotliwości nośnej do okresu jednej godziny. Wykaz nr 13 Urządzenia typu MES pracujące pod kontrolą sieci satelitarnej Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne oraz inne warunki używania urządzeń A 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 1613,5-1626,5 MHz 2 Zakresy częstotliwości odbiorczych (kosmos-Ziemia) 1613,8-1626,5 MHz2483,5-2500 MHz 3 Dopuszczalna e.i.r.p. (gęstość widmowa) Wartość szczytowa -15 dB (W/4 kHz) 4 Dodatkowe ograniczenia Urządzenia typu MES pracujące pod kontrolą sieci satelitarnej w ramach służby ruchomej satelitarnej spełniają następujące wymagania:1) są identyfikowane przez systemy satelitarne wykorzystywane przez operatora satelity i zaprojektowane w sposób zapewniający ochronę innych użytkowników widma przed niedopuszczalnymi zakłóceniami;2) działają zgodnie z uwagami 5.364 i 5.372 do Regulaminu Radiokomunikacyjnego oraz z Zaleceniem ITU-R M.1343;3) w celu ochrony służby radioastronomicznej w zakresie częstotliwości 1610,6-1613,8 MHz, ruchome stacje naziemne mogą być wykorzystywane wyłącznie po spełnieniu warunków określonych w decyzji ECC/DEC(09)02. B 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 1646,5-1656,5 MHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 1545-1555 MHz 3 Dopuszczalna e.i.r.p. zgodnie z postanowieniami art. 21 Regulaminu Radiokomunikacyjnego oraz Zaleceniem ITU-R M. 1184-3 4 Dodatkowe ograniczenia Urządzenia typu MES pracujące pod kontrolą sieci satelitarnej w ramach służby ruchomej satelitarnej spełniają następujące wymagania: 1) są identyfikowane przez systemy satelitarne wykorzystywane przez operatora satelity i zaprojektowane w sposób zapewniający ochronę innych użytkowników widma przed niedopuszczalnymi zakłóceniami;2) działają zgodnie z art. 44 Regulaminu Radiokomunikacyjnego oraz Uchwałą 222 (REV.WRC-12) ITU-R;3) działają na warunkach określonych w normach PN-ETSI EN 301 444 oraz PN-ETSI EN 301 681. C 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 1670-1675 MHz 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 1518-1525 MHz 3 Dopuszczalna e.i.r.p. (gęstość widmowa) zgodnie z postanowieniami art. 21 Regulaminu Radiokomunikacyjnego oraz Zaleceniem ITU-R M. 1184-3 4 Dodatkowe ograniczenia Urządzenia typu MES pracujące pod kontrolą sieci satelitarnej w ramach służby ruchomej satelitarnej spełniają następujące wymagania:1) są identyfikowane przez systemy satelitarne wykorzystywane przez operatora satelity i zaprojektowane w sposób zapewniający ochronę innych użytkowników widma przed niedopuszczalnymi zakłóceniami;2) działają zgodnie z uwagami 5.348, 5.379B, 5.379E i 5.380A do Regulaminu Radiokomunikacyjnego;3) są zgodne z Uchwałą 744 (Rev. WRC-07) ITU-R;4) działają zgodnie z warunkami określonymi w decyzji ECC/DEC/(04)09. Wykaz nr 14 Urządzenia typu S-PCS Poz. Wyszczególnienie Zakresy częstotliwości, parametry techniczne oraz inne warunki używania urządzeń 1 Zakres częstotliwości nadawczych (Ziemia-kosmos) 148,00-150,05 MHz*)312-315 MHz*)399,90-400,05 MHz*) 2 Zakres częstotliwości odbiorczych (kosmos-Ziemia) 137-138 MHz*)387-390 MHz*)400,15-401,00 MHz*) 3 Dopuszczalna e.i.r.p. Dopuszczalne moce dla urządzeń S-PCS określono w załączniku nr 2 do decyzji ERC/DEC(99)06 4 Dodatkowe ograniczenia Dodatkowe ograniczenia dla urządzeń S-PCS określono w załączniku nr 2 do decyzji ERC/DEC(99)06.Ponadto urządzenia typu S-PCS wykorzystywane w niegeostacjonarnych systemach satelitarnych, z wyłączeniem transmisji głosowej, pracujące w ramach służby ruchomej satelitarnej mogą być używane, jeżeli spełniają wymagania określone w załączniku nr 3 do decyzji ERC/DEC(99)06. *) Niniejsze zakresy częstotliwości dla poszczególnych urządzeń S-PCS wyszczególnione zostały w załączniku nr 1 do decyzji ERC/DEC(99)06.
+
+5) Wykaz uwzględnia także decyzję ECC/DEC/(05)01 „The use of the band 27.5‒29.5 GHz by the Fixed Service and uncoordinated Earth stations of the Fixed-Satellite Service (Earth-to-space)” (Approved 18 March 2005, amended 8 March 2019).
+
+## Załącznik nr 6 - Warunki używania urządzeń stacji bazowych wykorzystywanych do świadczenia usług mca, umiejscowionych na pokładach statków powietrznych
+
+Warunki używania urządzeń systemów GSM, UMTS, LTE i 5G NR na pokładach statków powietrznych, w szczególności zakresy wykorzystywanych przez nie częstotliwości, maksymalna moc promieniowana lub gęstość mocy promieniowanej oraz minimalna wysokość pracującego systemu MCA nad ziemią, są zgodne z warunkami używania urządzeń radiowych określonymi w decyzji wykonawczej Komisji (UE) 2022/2324 z dnia 23 listopada 2022 r. zmieniającej decyzję 2008/294/WE w celu uwzględnienia dodatkowych technologii dostępu i środków na potrzeby wykonywania usług łączności ruchomej na pokładach statków powietrznych (usługi MCA) w Unii (Dz. Urz. UE L 307 z 28.11.2022, str. 262).

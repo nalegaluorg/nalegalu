@@ -8,11 +8,9 @@ pos: 325
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych”
-
-*USTAWA z dnia 7 lutego 2008 r.*
+# Ustawa z dnia 7 lutego 2008 r. o zmianie ustawy o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2008-02-07 |
 | Data wydania | 2008-03-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080540325) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/325/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2008/325/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2008/325) |
 
-**Art. 1.** W ustawie z dnia 1 lipca 2005 r. o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych” (Dz. U. Nr 143, poz. 1200) w art. 7 ust. 3 otrzymuje brzmienie: „3. Planowane nakłady na realizację działań z zakresu wczesnego wykrywania chorób nowotworowych muszą stanowić rocznie nie mniej niż 10% nakładów na Program.”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+W ustawie z dnia 1 lipca 2005 r. o ustanowieniu programu wieloletniego „Narodowy program zwalczania chorób nowotworowych” ([Dz. U. Nr 143, poz. 1200](https://api.sejm.gov.pl/eli/acts/DU/2005/1200/text.html)) w art. 7 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Planowane nakłady na realizację działań z zakresu wczesnego wykrywania chorób nowotworowych muszą stanowić rocznie nie mniej niż 10% nakładów na Program.
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

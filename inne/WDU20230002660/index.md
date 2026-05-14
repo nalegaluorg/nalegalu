@@ -1,0 +1,1832 @@
+---
+title: Rozporządzenie Ministra Klimatu i Środowiska z dnia 21 listopada 2023 r. w sprawie ustanowienia planu ochrony dla Parku Narodowego Gór Stołowych
+address: WDU20230002660
+eli: DU/2023/2660
+publisher: DU
+year: 2023
+pos: 2660
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Klimatu i Środowiskaz dnia 21 listopada 2023 r. w sprawie ustanowienia planu ochrony dla Parku Narodowego Gór Stołowych [1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu Środowiska (Dz. U. poz. 1949).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 2660 |
+| ISAP | WDU20230002660 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-21 |
+| Data wydania | 2023-12-08 |
+| Wejście w życie | 2024-01-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/2660/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/2660) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Plan ochrony dla Parku Narodowego Gór Stołowych, obszaru specjalnej ochrony ptaków Góry Stołowe (PLB020006) oraz specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH020004), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych](#part_2) [Rozdział 1 - CELE OCHRONY PRZYRODY ORAZ WSKAZANIE PRZYRODNICZYCH I SPOŁECZNYCH UWARUNKOWAŃ ICH REALIZACJI](#chpt_1) [Rozdział 2 - OBSZARY OCHRONY ŚCISŁEJ, CZYNNEJ I KRAJOBRAZOWEJ](#chpt_2) [Rozdział 3 - OPIS GRANIC I MAPA OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_3) [Rozdział 4 - IDENTYFIKACJA ORAZ OKREŚLENIE SPOSOBÓW ELIMINACJI LUB OGRANICZANIA ISTNIEJĄCYCH I POTENCJALNYCH ZAGROŻEŃ WEWNĘTRZNYCH I ZEWNĘTRZNYCH ORAZ ICH SKUTKÓW DLA OBSZARU PARKU, W TYM IDENTYFIKACJA ISTNIEJĄCYCH I POTENCJALNYCH ZAGROŻEŃ DLA ZACHOWANIA WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH, ORAZ GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_4) [Rozdział 5 - OKREŚLENIE WARUNKÓW UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY PRZEDMIOTÓW OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU, ZACHOWANIA INTEGRALNOŚCI TYCH OBSZARÓW ORAZ SPÓJNOŚCI SIECI OBSZARÓW NATURA 2000](#chpt_5) [Rozdział 6 - WSKAŹNIKI WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH LUB GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_6) [Rozdział 7 - OKREŚLENIE DZIAŁAŃ OCHRONNYCH NA OBSZARACH OCHRONY ŚCISŁEJ, CZYNNEJ I KRAJOBRAZOWEJ, Z PODANIEM RODZAJU, ZAKRESU I LOKALIZACJI TYCH DZIAŁAŃ, ORAZ OKREŚLENIE DZIAŁAŃ OCHRONNYCH DLA UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY PRZEDMIOTÓW OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU, ZE WSKAZANIEM PODMIOTÓW ODPOWIEDZIALNYCH ZA ICH REALIZACJĘ](#chpt_7) [Rozdział 8 - OKREŚLENIE SPOSOBÓW MONITORINGU REALIZACJI ZADAŃ OCHRONNYCH ORAZ ICH SKUTKÓW NA OBSZARZE NATURA 2000 PLH GÓRY STOŁOWE ORAZ NA OBSZARZE NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_8) [Rozdział 9 - OKREŚLENIE SPOSOBÓW MONITORINGU STANU OCHRONY SIEDLISK PRZYRODNICZYCH LUB GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_9) [Rozdział 10 - WSKAZANIE OBSZARÓW I MIEJSC UDOSTĘPNIANYCH DLA CELÓW NAUKOWYCH, EDUKACYJNYCH, TURYSTYCZNYCH, REKREACYJNYCH I SPORTOWYCH ORAZ OKREŚLENIE SPOSOBÓW ICH UDOSTĘPNIANIA](#chpt_10) [Rozdział 11 - WSKAZANIE MIEJSC, W KTÓRYCH MOŻE BYĆ PROWADZONA DZIAŁALNOŚĆ WYTWÓRCZA, HANDLOWA I ROLNICZA](#chpt_11) [Rozdział 12 - USTALENIA DO PLANÓW OGÓLNYCH GMIN, MIEJSCOWYCH PLANÓW ZAGOSPODAROWANIA PRZESTRZENNEGO, PLANU ZAGOSPODAROWANIA PRZESTRZENNEGO WOJEWÓDZTWA DOLNOŚLĄSKIEGO, DOTYCZĄCE ELIMINACJI LUB OGRANICZANIA ZAGROŻEŃ WEWNĘTRZNYCH LUB ZEWNĘTRZNYCH NA OBSZARZE PARKU ORAZ NIEZBĘDNYCH DLA UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH ORAZ GATUNKÓW ROŚLIN I ZWIERZĄT NA OBSZARZE NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARZE NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU](#chpt_12)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 19 ust. 5 w związku z art. 20 ust. 5 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2023 r. poz. 1336](https://api.sejm.gov.pl/eli/acts/DU/2023/1336/text.html), [1688](https://api.sejm.gov.pl/eli/acts/DU/2023/1688/text.html) i [1890](https://api.sejm.gov.pl/eli/acts/DU/2023/1890/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Ustanawia się plan ochrony dla Parku Narodowego Gór Stołowych, który staje się planem ochrony dla obszaru specjalnej ochrony ptaków Góry Stołowe (PLB020006[2) Kod obszaru został określony zgodnie z rozporządzeniem Ministra Środowiska z dnia 12 stycznia 2011 r. w sprawie obszarów specjalnej ochrony ptaków (Dz. U. poz. 133 i 358, z 2012 r. poz. 358, z 2017 r. poz. 1416, z 2018 r. poz. 1789, z 2022 r. poz. 96 oraz z 2023 r. poz. 1281).](#gloss-0:2:)) oraz dla specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH020004[3) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2023/244 z dnia 26 stycznia 2023 r. w sprawie przyjęcia szesnastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2023) 607) (Dz. Urz. UE L 36 z 07.02.2023, str. 384).](#gloss-0:3:)), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych, stanowiący załącznik do rozporządzenia.
+
+### § 2.
+
+### 1.
+
+Do:
+
+### 1)
+
+projektów:
+
+### a)
+
+studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin,
+
+### b)
+
+miejscowych planów zagospodarowania przestrzennego,
+
+### 2)
+
+projektu planu zagospodarowania przestrzennego województwa dolnośląskiego
+
+- uzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia nie stosuje się ustaleń do planów ogólnych gmin, miejscowych planów zagospodarowania przestrzennego, planu zagospodarowania przestrzennego województwa dolnośląskiego, dotyczących eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujętych w rozdziale 12 załącznika do rozporządzenia.
+
+### 2.
+
+Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gmin nieuzgodnionych z Dyrektorem Parku Narodowego Gór Stołowych przed dniem wejścia w życie rozporządzenia stosuje się ustalenia do planów ogólnych gmin dotyczące eliminacji lub ograniczenia zagrożeń wewnętrznych lub zewnętrznych ujęte w rozdziale 12 załącznika do rozporządzenia.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2024 r.
+
+1) Minister Klimatu i Środowiska kieruje działem administracji rządowej - środowisko, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu Środowiska (Dz. U. poz. 1949). 2) Kod obszaru został określony zgodnie z rozporządzeniem Ministra Środowiska z dnia 12 stycznia 2011 r. w sprawie obszarów specjalnej ochrony ptaków (Dz. U. poz. 133 i 358, z 2012 r. poz. 358, z 2017 r. poz. 1416, z 2018 r. poz. 1789, z 2022 r. poz. 96 oraz z 2023 r. poz. 1281). 3) Kod obszaru został określony zgodnie z decyzją wykonawczą Komisji (UE) 2023/244 z dnia 26 stycznia 2023 r. w sprawie przyjęcia szesnastego zaktualizowanego wykazu terenów mających znaczenie dla Wspólnoty składających się na kontynentalny region biogeograficzny (notyfikowaną jako dokument nr C(2023) 607) (Dz. Urz. UE L 36 z 07.02.2023, str. 384).
+
+## Załącznik - Plan ochrony dla Parku Narodowego Gór Stołowych, obszaru specjalnej ochrony ptaków Góry Stołowe (PLB020006) oraz specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH020004), w częściach pokrywających się z obszarem Parku Narodowego Gór Stołowych
+
+### Rozdział 1 CELE OCHRONY PRZYRODY ORAZ WSKAZANIE PRZYRODNICZYCH I SPOŁECZNYCH UWARUNKOWAŃ ICH REALIZACJI
+
+### 1.
+
+Celem ochrony przyrody Parku Narodowego Gór Stołowych, zwanego dalej „Parkiem”, jest:
+
+### 1)
+
+utrzymanie oraz zapewnienie niezakłóconego przebiegu procesów ekologicznych;
+
+### 2)
+
+utrzymanie trwałości ekosystemów i minimalizacja ingerencji w funkcjonowanie ekosystemów, z wyjątkiem ekosystemów półnaturalnych;
+
+### 3)
+
+zachowanie różnorodności biologicznej oraz dziedzictwa geologicznego i geomorfologicznego;
+
+### 4)
+
+zapewnienie ciągłości istnienia gatunków roślin, zwierząt i grzybów, wraz z ich siedliskami, przez ich utrzymanie lub przywracanie do właściwego stanu ochrony;
+
+### 5)
+
+utrzymanie walorów krajobrazowych, w tym terenów niezalesionych i osadniczych;
+
+### 6)
+
+utrzymanie lub przywrócenie do właściwego stanu ochrony siedlisk przyrodniczych oraz gatunków roślin i zwierząt, i ich siedlisk;
+
+### 7)
+
+kształtowanie właściwych postaw człowieka wobec przyrody przez edukację, informowanie i promocję w dziedzinie ochrony przyrody.
+
+###
+
+### 1.1.
+
+Celem ochrony przyrody nieożywionej jest:
+
+### 1)
+
+zachowanie naturalnych procesów i struktur geologicznych, geomorfologicznych, hydrologicznych i glebowych oraz utworów geologicznych, w szczególności odsłonięć skalnych oraz form rzeźby terenu, w tym skałek i ich zespołów, odsłonięć antropogenicznych, ścian skalnych progów morfologicznych, rumowisk, osuwisk skalnych, nisz źródliskowych, wąwozów, koryt rzecznych i ich dolin;
+
+### 2)
+
+eliminacja lub ograniczanie zagrożeń związanych z erozją, zanieczyszczeniami powierzchni ziemi i gleb oraz oddziaływaniami antropogenicznymi na te elementy;
+
+### 3)
+
+zachowanie w dobrym stanie ilościowym i jakościowym wód podziemnych;
+
+### 4)
+
+doprowadzenie wód powierzchniowych do stanu umożliwiającego niezakłócone funkcjonowanie populacji roślin i zwierząt oraz ekosystemów, gwarantującego byt gatunków i ekosystemów zależnych od tych wód;
+
+### 5)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego, które zmierzałyby do pogorszenia fizykochemicznych właściwości wód, oraz zmianom mogącym wywołać zaburzenia w naturalnym spływie wód powierzchniowych;
+
+### 6)
+
+zachowanie warunków do niezakłóconego przebiegu procesów przyrodniczych oraz dobrego stanu atmosfery, w tym ograniczenie lub eliminacja czynników wpływających na zanieczyszczenie powietrza.
+
+### 1.2.
+
+Celem ochrony ekosystemów leśnych jest:
+
+### 1)
+
+doprowadzenie wszystkich drzewostanów do stanu zbliżonego do stanu naturalnego i umożliwienie im nieskrępowanego trwania i zmiany bez bezpośredniej ingerencji człowieka;
+
+### 2)
+
+zapewnienie warunków do naturalnego rozwoju ekosystemów leśnych;
+
+### 3)
+
+odtworzenie kluczowych dla różnorodności biologicznej i dla stanu ekosystemu elementów struktury ekosystemów leśnych, w tym zróżnicowanej struktury pionowej i poziomej oraz zasobów rozkładającego się drewna;
+
+### 4)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego;
+
+### 5)
+
+zachowanie lub odtworzenie różnorodności biologicznej oraz trwałości zbiorowisk i zespołów leśnych;
+
+### 6)
+
+zachowanie lub odtworzenie właściwego stanu ochrony siedlisk przyrodniczych oraz siedlisk gatunków roślin, zwierząt i grzybów, w ekosystemach leśnych.
+
+### 1.3.
+
+Celem ochrony lądowych ekosystemów nieleśnych jest:
+
+### 1)
+
+zachowanie trwałości i zapewnienie możliwości rozwoju naturalnych lub półnaturalnych zbiorowisk i zespołów roślinnych oraz znajdujących się tam roślin;
+
+### 2)
+
+zapobieganie wtórnej sukcesji lasu na obszarach zajętych przez naturalne lub półnaturalne zbiorowiska roślinności nieleśnej;
+
+### 3)
+
+zachowanie lub odtworzenie właściwego stanu ochrony siedlisk przyrodniczych oraz siedlisk roślin, zwierząt i grzybów, w lądowych ekosystemach nieleśnych;
+
+### 4)
+
+zapewnienie pełnego cyklu życiowego (kwitnienie, owocowanie, wysiew nasion lub zarodników) dla cennych taksonów (gatunków, podgatunków, odmian botanicznych) roślin występujących w zbiorowiskach półnaturalnych;
+
+### 5)
+
+podjęcie działań zmierzających do zwiększenia liczby stanowisk oraz liczebności populacji cennych taksonów roślin (gatunków, podgatunków, odmian botanicznych) występujących w zbiorowiskach półnaturalnych lub naturalnych;
+
+### 6)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego.
+
+### 1.4.
+
+Celem ochrony ekosystemów torfowiskowych i innych ekosystemów zależnych od wód jest:
+
+### 1)
+
+zachowanie istniejących siedlisk torfowiskowych będących miejscem występowania charakterystycznych gatunków roślin, zwierząt i grzybów;
+
+### 2)
+
+odtworzenie siedlisk torfowiskowych i innych ekosystemów zależnych od wód, które zostały odwodnione, i przywrócenie ich do stanu zbliżonego do naturalnego;
+
+### 3)
+
+zapewnienie pełnego cyklu życiowego (kwitnienie, owocowanie, wysiew nasion lub zarodników) dla cennych taksonów (gatunków, podgatunków, odmian botanicznych) roślin występujących w ekosystemach torfowiskowych lub innych ekosystemach zależnych od wód;
+
+### 4)
+
+podjęcie działań zmierzających do zwiększenia liczby stanowisk oraz liczebności populacji cennych taksonów roślin (gatunków, podgatunków, odmian botanicznych) występujących w ekosystemach torfowiskowych lub innych ekosystemach zależnych od wód;
+
+### 5)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego.
+
+### 1.5.
+
+Celem ochrony ekosystemów wodnych jest:
+
+### 1)
+
+zachowanie mało przekształconych ekosystemów wodnych występujących w naturalnej sieci potoków, z charakterystyczną dla nich fauną wodną;
+
+### 2)
+
+utrzymanie dobrego stanu ekologicznego wód, w tym kontrola jakości wody odprowadzanej do Parku z enklawy w Karłowie;
+
+### 3)
+
+utrzymanie stabilności zasobów wodnych oraz ochrona naturalnej retencji Parku.
+
+### 1.6.
+
+Celem ochrony gatunków roślin i grzybów i ich siedlisk jest:
+
+### 1)
+
+zachowanie lub przywrócenie różnorodności biologicznej mikrosiedlisk lasów naturalnych, torfowisk, ekotonów i łąk;
+
+### 2)
+
+utrzymanie różnorodności gatunkowej zbiorowisk roślin i grzybów;
+
+### 3)
+
+zachowanie siedlisk, w tym mikrosiedlisk półnaturalnych zbiorowisk nieleśnych i związanych z nimi zespołów roślinnych, z rzadkimi gatunkami roślin i grzybów;
+
+### 4)
+
+zachowanie taksonów (gatunków, podgatunków, odmian botanicznych) unikatowych w skali kraju lub regionu oraz objętych ochroną w ramach sieci Natura 2000;
+
+### 5)
+
+eliminacja lub powstrzymanie ekspansji gatunków obcych, w szczególności gatunków inwazyjnych;
+
+### 6)
+
+zachowanie korytarzy ekologicznych;
+
+### 7)
+
+podjęcie działań zmierzających do zwiększenia liczby stanowisk oraz liczebności populacji cennych taksonów roślin (gatunków, podgatunków, odmian botanicznych) występujących w zbiorowiskach półnaturalnych lub naturalnych;
+
+### 8)
+
+zapewnienie pełnego cyklu życiowego (kwitnienie, owocowanie, wysiew nasion lub zarodników) dla cennych taksonów (gatunków, podgatunków, odmian botanicznych) roślin i grzybów występujących w zbiorowiskach półnaturalnych;
+
+### 9)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego, zmierzającym do ubożenia składu gatunkowego naturalnych i półnaturalnych zbiorowisk roślin i grzybów.
+
+### 1.7.
+
+Celem ochrony gatunków zwierząt i ich siedlisk jest:
+
+### 1)
+
+zachowanie różnorodności biologicznej gatunków zwierząt i ich siedlisk;
+
+### 2)
+
+zachowanie unikatowego w skali kraju zespołu rzadkich gatunków zwierząt zamieszkujących w dziuplach, w szczególności dzięcioła czarnego (Dyrocopus maritus), dzięcioła zielonosiwego (Picus canus), siniaka (Columba oenas), sóweczki (Glaucidium passerinum), włochatki (Aegolius funereus), orzesznicy (Muscardinus avellanarius), popielicy (Glis glis) i nietoperzy (Chiroptera);
+
+### 3)
+
+zachowanie populacji puchacza (Bubo bubo);
+
+### 4)
+
+zachowanie stanowisk lęgowych sokoła wędrownego (Falco peregrinus) oraz bociana czarnego (Ciconia nigra);
+
+### 5)
+
+zachowanie populacji nietoperzy (Chiroptera) i jej bogactwa gatunkowego;
+
+### 6)
+
+zachowanie półnaturalnych zbiorowisk nieleśnych i związanych z nimi gatunków zwierząt, w szczególności populacji derkacza (Crex crex);
+
+### 7)
+
+zachowanie lub przywrócenie fauny siedlisk mokradłowych, w szczególności płazów (Amphibia);
+
+### 8)
+
+eliminacja gatunków obcych, w szczególności gatunków inwazyjnych.
+
+### 1.8.
+
+Celem ochrony siedlisk przyrodniczych jest:
+
+### 1)
+
+zachowanie lub odtworzenie naturalnych lub półnaturalnych siedlisk przyrodniczych oraz zachowanie lub odtworzenie ich właściwego stanu ochrony;
+
+### 2)
+
+zapewnienie warunków życia gatunkom roślin i zwierząt związanym z naturalnymi lub półnaturalnymi siedliskami przyrodniczymi;
+
+### 3)
+
+przeciwdziałanie przekształceniom i zaburzeniom pochodzenia antropogenicznego, zmierzającym do zaburzenia naturalnych procesów zachodzących w biocenozie siedlisk przyrodniczych.
+
+### 1.9.
+
+Celem ochrony krajobrazu jest:
+
+### 1)
+
+zachowanie istniejących lub przywrócenie utraconych w wyniku działalności człowieka walorów przyrodniczo-krajobrazowych, przez:
+
+### a)
+
+zachowanie istniejących systemów przyrodniczych,
+
+### b)
+
+ochronę krajobrazów o charakterze naturalnym lub przekształconych w niewielkim stopniu,
+
+### c)
+
+zachowanie lub kształtowanie mozaiki krajobrazów we wnętrzach widokowych,
+
+### d)
+
+kształtowanie różnorodnej struktury ekologicznej krajobrazu zapewniającej pożądaną zmienność widoków,
+
+### e)
+
+zachowanie charakterystycznych dla regionu krajobrazów kulturowych,
+
+### f)
+
+przywrócenie walorów krajobrazowych obszarom zdegradowanym,
+
+### g)
+
+tworzenie stref buforowych,
+
+### h)
+
+ochronę atrakcyjnych panoram i przedpól ich ekspozycji;
+
+### 2)
+
+udostępnianie wartości wizualnych krajobrazu.
+
+### 1.10.
+
+Celem ochrony wartości kulturowych jest zachowanie i uwidocznienie elementów dziedzictwa kulturowego wraz z ich otoczeniem, w szczególności:
+
+### 1)
+
+zachowanie istniejących walorów kulturowych, w tym obiektów zabytkowych i starych elementów zagospodarowania terenu;
+
+### 2)
+
+tworzenie podstaw dla kontynuacji tradycji regionu, w tym podtrzymanie tradycji i zwyczajów ludowych.
+
+### 1.11.
+
+Celem ochrony obszaru specjalnej ochrony ptaków Góry Stołowe (PLB020006), zwanego dalej „obszarem Natura 2000 PLB Góry Stołowe”, oraz specjalnego obszaru ochrony siedlisk Góry Stołowe (PLH020004), zwanego dalej „obszarem Natura 2000 PLH Góry Stołowe”, w częściach pokrywających się z obszarem Parku, jest zachowanie integralności tych obszarów, spójności sieci obszarów Natura 2000 oraz utrzymanie lub przywracanie właściwego stanu ochrony siedlisk przyrodniczych oraz gatunków roślin i zwierząt, będących przedmiotami ochrony tych obszarów.
+
+### 2.
+
+Przyrodnicze uwarunkowania realizacji celów ochrony Parku
+
+### 2.1.
+
+Najcenniejsze przyrodnicze obiekty geologiczne i geomorfologiczne występujące na obszarze Parku Lp. Nazwa obiektu Charakterystyka obiektu 1 Szczeliniec Wielki i Szczeliniec Mały Stoliwa skalne, silnie rozczłonkowane na oddzielne formy skalne o różnych kształtach oraz labirynty o zróżnicowanych przebiegach, osuwisko skalne na wschodnich stokach Szczelińca Wielkiego 2 Błędne Skały Stoliwa skalne, silnie rozczłonkowane na oddzielne formy skalne o różnych kształtach oraz labirynty o zróżnicowanych przebiegach 3 Białe Skały Stoliwa skalne, silnie rozczłonkowane na oddzielne formy skalne o różnych kształtach oraz labirynty o zróżnicowanych przebiegach 4 Skałki przy Radkowskim Urwisku Płaskowyże i grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych 5 Skałki przy Słonecznym Urwisku Płaskowyże i grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych 6 Skalne Grzyby Płaskowyże i grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych, w tym grzybów skalnych 7 Skałki Góry Zbój Płaskowyże i lokalne grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych, w tym grzybów skalnych 8 Skałki Góry Dzik Płaskowyże i lokalne grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych, w tym grzybów skalnych 9 Skałki Fortu Karola i Samotnika Płaskowyże i grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych 10 Skałki Łężyckie Płaskowyże i grzbiety wododziałowe z grupami ostańców skalnych, często o zróżnicowanej budowie geologicznej i zmiennej odporności na wietrzenie, co prowadzi do erozji powodującej powstawanie różnych form skalnych 11 Ściany Szczelińca Wielkiego Ściany skalne głównego progu morfologicznego, w szczególności Piekiełko na Szczelińcu Wielkim 12 Ściany Szczelińca Małego Ściany skalne głównego progu morfologicznego 13 Ściany Błędnych Skał Ściany skalne drugorzędnych progów morfologicznych 14 Ściany Skalniaka Ściany skalne głównego progu morfologicznego 15 Ściany Białych Skał Ściany skalne głównego progu morfologicznego 16 Ściany Narożnika - Puchacza Ściany skalne głównego progu morfologicznego 17 Ściany Batorowskie Ściany skalne głównego progu morfologicznego 18 Ściany Radkowskie Ściany skalne głównego progu morfologicznego 19 Ściany Słonecznych Skał Ściany skalne głównego progu morfologicznego 20 Ścianki - Skalne Wrota Pośny Ściany skalne drugorzędnych progów morfologicznych 21 Pasterska Góra Ściany skalne drugorzędnych progów morfologicznych 22 Pasterka Ściany skalne drugorzędnych progów morfologicznych 23 Nad Dańczówką Ściany skalne drugorzędnych progów morfologicznych 24 Pod Górą Wyniosłą Ściany skalne drugorzędnych progów morfologicznych 25 Krucze Skały Ściany skalne drugorzędnych progów morfologicznych 26 Bastion Ściany skalne drugorzędnych progów morfologicznych 27 Przy Słonecznych Skałach Ściany skalne drugorzędnych progów morfologicznych 28 Przy dolinie Czerwonej Wody Ściany skalne drugorzędnych progów morfologicznych 29 Dziczy Grzbiet Ściany skalne drugorzędnych progów morfologicznych 30 Batorówek Ściany skalne drugorzędnych progów morfologicznych 31 Góra Dzik Ściany skalne drugorzędnych progów morfologicznych 32 Stok Progu Radkowskiego Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 33 Stok Słonecznych Skał i Skalnych Grzybów Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 34 Stok Narożnika - Puchacza Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 35 Stok Urwiska Batorowskiego Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 36 Południowy stok Skalniaka Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 37 Północny stok Skalniaka Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 38 Stoki Szczelińca Wielkiego i Szczelińca Małego Stoki ograniczające główne jednostki strukturalne masywu Gór Stołowych 39 Stoki Białych Skał Stoki ograniczające główne jednostki strukturalne masywu Gór Stołowych 40 Północny stok Płaskowyżu Batorowskiego Stok ograniczający główne jednostki strukturalne masywu Gór Stołowych 41 Blokowisko Szczelińca Wielkiego Widoczne stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 42 Blokowisko Szczelińca Małego Widoczne stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 43 Blokowiska Skalniaka - S Stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 44 Blokowisko Skalniaka - N Stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 45 Blokowiska Urwiska Batorowskiego Stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 46 Blokowiska urwiska Narożnika Stoki z dużym nagromadzeniem bloków skalnych oberwanych ze ścian i stoczonych na różne odległości aż do załamania stoku 47 Rumowisko Szczelińca Wielkiego Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 48 Rumowisko Szczelińca Małego Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 49 Rumowisko Skalniaka - S Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 50 Rumowisko Skalniaka - N Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 51 Rumowisko Białych Skał Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 52 Rumowisko Narożnika Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 53 Rumowisko Batorowskie Górne części stoków z rumowiskami głazów i kamieni osypujących się ze ścian skalnych na skutek ich wietrzenia i rozpadu bloków 54 Rogowa Kopa Pole morfologii wykrotowej 55 Wąwóz za Pasterską Górą Głęboka dolina wciosowa ze ścianami skalnymi o charakterze przekształconego wąwozu z pogłębionym dnem erozją wgłębną 56 Wąwóz i dolina Piekła Dolina wciosowa częściowo ze ścianami dawnego wąwozu, głęboka w odcinku przełomowym 57 Sieć dolinek w Ostrej Górze Doliny wciosowe, głębokie w odcinkach stromych stoków 58 Dolina Złotnowskiego Potoku Głęboka dolina wciosowa 59 Dolina Kamiennego Potoku z przełomem Dolina wciosowa, głęboka w odcinku przełomowym na progu Narożnika - Puchacza 60 Przełomowa dolina Czerwonej Wody z dopływami Doliny wciosowe, głębokie w odcinkach przełomowych 61 Dolina Bobrówki z odcinkami przełomowymi Dolina wciosowa częściowo ze ścianami dawnego wąwozu, głęboka w odcinku przełomowym Urwiska Batorowskiego 62 Dolina Mostowej Wody z dopływami i odcinkiem przełomowym Doliny wciosowe, głębokie w odcinku przełomowym Urwiska Batorowskiego 63 Dolinki przy Filarach Skalnych i Stroczym Zakręcie Doliny wciosowe częściowo ze ścianami dawnych wąwozów, głębokie w odcinkach przełomowych 64 Dolina Czarny Piotruś Dolina wciosowa częściowo ze ścianami dawnego wąwozu 65 Dolinki nad Kopalnią Piaskowca Radków Doliny wciosowe częściowo ze ścianami dawnych wąwozów lub bez ciągów ścian skalnych, głębokie w odcinkach przełomowych 66 Dolina Dańczówki Złożona dolina wciosowa; szeroka dawna dolina erozyjna oraz współczesna erozyjno-akumulacyjna 67 Sieć dolinek Pośny Poprzeczne wciosowe doliny rzeczne rozcinające długie stoki stoliw i płaskowyżów, tworzące gęstą sieć 68 Sieć dolinek łężyckich, dopływów Dańczówki Poprzeczne wciosowe doliny rzeczne rozcinające długie stoki stoliw i płaskowyżów, głębokie w odcinkach przełomowych 69 Sieć dolinek Radkowskich Ścian Poprzeczne wciosowe doliny rzeczne rozcinające długie stoki stoliw i płaskowyżów, tworzące gęstą sieć 70 Sieć dolinek Cedronu Poprzeczne wciosowe doliny rzeczne rozcinające długie stoki stoliw i płaskowyżów, tworzące gęstą sieć 71 Sieć dolinek Czerwonej Wody na płaskowyżu Płaskodenna dolina z wciosowymi dolinami bocznych dopływów 72 Dolinki koło Czartowskiego Kamienia Sieć dolinna masywu granitoidu kudowskiego 73 Sieć dolinek Kudowskiego Potoku Sieć dolinna masywu granitoidu kudowskiego
+
+### 2.2.
+
+Na obszarze Parku występują następujące ekosystemy:
+
+### 1)
+
+leśne;
+
+### 2)
+
+lądowe ekosystemy nieleśne;
+
+### 3)
+
+torfowiskowe i inne ekosystemy zależne od wód;
+
+### 4)
+
+wodne.
+
+### 2.2.1.
+
+Ekosystemy leśne - obejmują około 91% powierzchni Parku i zostały zaliczone do III kategorii zagrożenia pożarowego. Istotnymi przyrodniczymi uwarunkowaniami ochrony ekosystemów leśnych są:
+
+### 1)
+
+znaczny stopień przekształcenia drzewostanów wyrażający się dużym udziałem (około 85% powierzchni ekosystemów leśnych) zbiorowisk zastępczych z dominującym świerkiem pospolitym (Picea abies);
+
+### 2)
+
+potencjalna niestabilność znacznej części drzewostanów w wyniku niezgodności ich składu gatunkowego z roślinnością potencjalną oraz uproszczenia struktury drzewostanów;
+
+### 3)
+
+zróżnicowanie zbiorowisk leśnych, wśród których występują zarówno zbiorowiska typowo niżowe, jak i górskie;
+
+### 4)
+
+specyficzne warunki mikroklimatyczne, obecność głębokich jarów i urwisk skalnych, torfowisk oraz ścian skalnych, powodujące wykształcanie się zbiorowisk roślinnych wywodzących się z wyższych pięter roślinnych, w tym regla górnego oraz piętra subalpejskiego; w tej grupie na szczególna uwagę zasługuje zespół buczyny ziołoroślowej (Athyrio distentifolii-Fagetum sylvaticae) oraz jaworzyny (Arunco dioici-aceretum pseudoplatani i Mercuriali perennis-Fraxinietum excelsioris);
+
+### 5)
+
+niski udział dolnoreglowych lasów liściastych pochodzących z naturalnych odnowień; zachowały się na niewielkich fragmentach w trudnodostępnym terenie i są reprezentowane głównie przez buczyny;
+
+### 6)
+
+nieliczne i małe fragmenty zajmowane przez słabo wykształcone zbiorowiska łęgowe;
+
+### 7)
+
+naturalne zbiorowisko leśne porastające przede wszystkim wierzchowinę Szczelińca Wielkiego i Szczelińca Małego - reliktowe laski naskalne z udziałem sosny zwyczajnej (Pinus sylvestris) oraz brzozy karpackiej (Betula pubescens var. glabrata).
+
+Potencjalne leśne zbiorowiska roślinne na obszarze Parku Lp. Leśne zbiorowisko roślinne Powierzchnia1) (ha) Udział (%) 1 Bór górski bagienny - sosnowy (Vaccinio uliginosi-Pinetum) 0,71 0,01 2 Bór górski trzęślicowy (Molinio-Pinetum) 8,07 0,14 3 Dolnoreglowy bór świerkowo-jodłowy - postać podmokła (Abieti-Piceetum montanum) 154 2,70 4 Dolnoreglowy bór świerkowo-jodłowy - postać torfowcowa (Abieti-Piceetum montanum sphagnetosum) 9,69 0,17 5 Dolnoreglowy bór świerkowo-jodłowy - postać typowa (Abieti-Piceetum montanum) 59,31 1,04 6 Dolnoreglowy świerkowy bór na torfie (Bazzanio-Piceetum) 60,51 1,06 7 Kwaśna buczyna górska - podzespół paprociowy (Luzulo luzuloides-Fagetum dryopteridosum) 171,59 3,00 8 Kwaśna buczyna górska - podzespół typowy (Luzulo luzuloides-Fagetum) 4065,9 71,10 9 Kwaśna buczyna górska - podzespół ubogi (Luzulo luzuloides-Fagetum) 5,19 0,09 10 Las zboczowy jaworowy z miesięcznicą trwałą (Lunario-Aceretum) 2,67 0,05 11 Naskalny bór górski sosnowo-świerkowo-brzozowy (zb. Betula pubescens-Pinus sylvestris-Picea abies) 57,5 1,01 12 Torfowisko wysokie leśne (Pinomugo-Sphagnetum) 7,00 0,12 13 Podgórski łęg jesionowy - odmiana sudecka (Carici remotae-Fraxinetum) 19,47 0,34 14 Zboczowy podgórski las lipowo-klonowy (Aceri platanoidis-Tilietum platyphylli) 11,34 0,20 15 Żyzna buczyna sudecka - podzespół kopytnikowy (Dentario enneaphyllidis-Fagetum asaretosum) 197,63 3,46 16 Żyzna buczyna sudecka - podzespół typowy (Dentario enneaphyllidis-Fagetum) 887,68 15,51 Razem 5711,26 100
+
+### 2.2.2.
+
+Lądowe ekosystemy nieleśne - obejmują około 9,81% powierzchni Parku, w tym:
+
+### 1)
+
+zbiorowiska łąkowe stanowiące około 5,5% powierzchni Parku, w znacznej mierze decydujące o jego różnorodności biologicznej - znajduje się w nich blisko 40% gatunków lokalnej flory naczyniowej; na obszarze Parku występuje szerokie spektrum tych zbiorowisk od uboższych w gatunki stanowisk na gruntach porolnych do najbogatszych łąk storczykowych;
+
+### 2)
+
+zbiorowiska roślinności naskalnej reprezentowane w szczególności przez wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis oraz ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacetalia vandelii;
+
+### 3)
+
+wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) porastające wierzchowinę Szczelińca Wielkiego i Szczelińca Małego;
+
+### 4)
+
+płaty zbiorowisk ziołoroślowych (Petasitetum albii) z dominującym lepiężnikiem białym (Petasites albus) spotykane w szczególności w dolinach potoków i w miejscach wysięku wód (źródliskach);
+
+### 5)
+
+na obszarze Parku łącznie zidentyfikowano 31 nieleśnych zbiorowisk i zespołów roślinnych:
+
+### a)
+
+zbiorowisko rzęsy drobnej (Lemna minor),
+
+### b)
+
+zespół zanokcicy murowej i zanokcicy skalnej (Asplenietum rutae-murariae-trichomanis),
+
+### c)
+
+zespół paprotnicy kruchej (Cystopteridetum fragilis),
+
+### d)
+
+zespół paprotki zwyczajnej i rokietu cyprysowatego (Hypno-Polypodietum),
+
+### e)
+
+zespół naparstnicy purpurowej i wierzbownicy kiprzycy (Digitali purpureae-Epilobietum),
+
+### f)
+
+zespół starca Fuchsa (Senecionetum fuchsii),
+
+### g)
+
+zespół maliny zwyczajnej (Rubetum idaei),
+
+### h)
+
+zbiorowisko rzeżuchy gorzkiej (Cardamine amara) i śledziennicy skrętolistnej (Chrysosplenium alternifolium),
+
+### i)
+
+zespół głowienki pospolitej i babki pospolitej (Prunello-Plantaginetum),
+
+### j)
+
+zespół życicy trwałej (Lolio-Polygonetum arenastri),
+
+### k)
+
+zbiorowisko jaskra rozłogowego (Ranunculus repens),
+
+### l)
+
+zbiorowisko łubinu trwałego (Lupinus polyphyllus),
+
+### m)
+
+zespół świerząbka korzennego (Chaerophylletum aromatici),
+
+### n)
+
+zespół bodziszka żałobnego i pokrzywy zwyczajnej (Geranio phaei-Urticetum dioicae),
+
+### o)
+
+zespół podagrycznika pospolitego (Urtico-Aegopodietum podagrariae),
+
+### p)
+
+zespół szczawiu alpejskiego (Rumicetum alpini),
+
+### q)
+
+zespół wiązówki błotnej i bodziszka błotnego (Filipendulo-Geranietum palustris),
+
+### r)
+
+zbiorowisko trzęślicy modrej (Molinia caerulea),
+
+### s)
+
+zespół ostrożenia warzywnego (Angelico-Cirsietum oleracei),
+
+### t)
+
+zespół ostrożenia łąkowego (Cirsietum rivularis),
+
+### u)
+
+zespół sitowia leśnego (Scirpetum sylvatici),
+
+### v)
+
+zbiorowisko śmiałka darniowego (Deschampsia caespitosa),
+
+### w)
+
+zespół wyczyńca łąkowego (Alopecuretum pratensis),
+
+### x)
+
+zespół rajgrasu wyniosłego (Arrhenatheretum elatioris),
+
+### y)
+
+zbiorowisko mietlicy pospolitej (Agrostis capillaris) i kostrzewy czerwonej (Festuca rubra),
+
+### z)
+
+zespół bliźniczki psiej trawki i jastrzębca Lachenala - psiara reglowa (Hieracio vulgati-Nardetum),
+
+### za)
+
+zespół bliźniczki psiej trawki - psiara krzyżownicowa (Polygalo-Nardetum),
+
+### zb)
+
+zespół lepiężnika białego (Petasitetum albi),
+
+### zc)
+
+ziołorośla z modrzykiem górskim (Cicerbita alpina),
+
+### zd)
+
+zbiorowisko z ciemiężycą zieloną (Veratrum lobelianum),
+
+### ze)
+
+zespół bażyny i borówki bagiennej (Empetro-Vaccinietum).
+
+### 2.2.3.
+
+Ekosystemy torfowiskowe i inne ekosystemy zależne od wód stanowią około 2% powierzchni Parku. Istotnymi przyrodniczymi uwarunkowaniami ochrony ekosystemów torfowiskowych i innych ekosystemów zależnych od wód są:
+
+### 1)
+
+degradacja ekosystemów torfowiskowych i innych zależnych od wód, w związku z intensywną ich melioracją i osuszaniem na potrzeby gospodarki leśnej i łąkowo-hodowlanej, przed utworzeniem Parku;
+
+### 2)
+
+obecność wierzchowinowych i podstokowych spłaszczeń, jak również uwarunkowania litologiczno-strukturalne (obecność trudno przepuszczalnych warstw skalnych i ich płaskie lub prawie płaskie zaleganie), co sprzyja rozwojowi obszarów podmokłych, w tym torfowisk;
+
+### 3)
+
+przewaga torfowisk o charakterze torfowisk wysokich lub przejściowych, w różnym stopniu zdegradowanych na skutek wieloletniej presji antropogenicznej, w tym melioracji, systemów dróg z odwadnianiem oraz nasadzeń świerka pospolitego (Picea abies).
+
+### 2.2.4.
+
+Ekosystemy wodne - Góry Stołowe charakteryzują się słabo rozwiniętą siecią hydrograficzną, co jest spowodowane budową geologiczną i warunkami geomorfologicznymi; gęstość sieci rzecznej na obszarze Parku wynosi 2,7 km/km2. Istotnymi przyrodniczymi uwarunkowaniami ochrony ekosystemów wodnych są:
+
+### 1)
+
+długość cieków na obszarze Parku wynosząca 175 km, z czego około 110 km stanowią cieki stałe;
+
+### 2)
+
+układ sieci rzecznej Parku mającej charakter decentryczny, co oznacza, że obszar ten jest odwadniany we wszystkich kierunkach;
+
+### 3)
+
+znaczne przekształcenie sieci rzecznej przez człowieka, w szczególności przez budowę sztucznego systemu drenażu;
+
+### 4)
+
+brak istotnych przeobrażeń antropogenicznych w obrębie koryt rzecznych;
+
+### 5)
+
+brak naturalnych zbiorników wód stojących;
+
+### 6)
+
+brak zasiedlenia wszystkich cieków przez ichtiofaunę; z obszaru Parku wypływa około 25 cieków, z których tylko jedenaście jest zasiedlonych na stałe przez ryby (Pisces);
+
+### 7)
+
+mała różnorodność gatunkowa ichtiofauny złożona zaledwie z 3 rodzimych gatunków ryb: pstrąga potokowego (Salmo trutta), głowacza białopłetwego (Cottus gobio) i głowacza pregopłetwego (Cottus poecilopus) oraz jednego przedstawiciela smoczkoustych - minoga strumieniowego (Lampetra planeri);
+
+### 8)
+
+znaczne spadki jednostkowe cieków przez co na ich życie biologiczne istotnie oddziałują czynniki abiotyczne, w szczególności szybki prąd, niska koncentracja jonów, niska temperatura i pH wody.
+
+### 2.3.
+
+Na obszarze Parku stwierdzono występowanie następujących grup ekologicznych grzybów (Fungi):
+
+### 1)
+
+grzyby wielkoowocnikowe (Macromycetes) - 56 gatunków, w tym 10 gatunków objętych ochroną gatunkową;
+
+### 2)
+
+porosty (Lichenes) - 288 gatunków, w tym 118 gatunków objętych ochroną gatunkową.
+
+### 2.4.
+
+Na obszarze Parku stwierdzono występowanie 86 gatunków śluzowców (Myxomycetes).
+
+### 2.5.
+
+Na obszarze Parku stwierdzono występowanie następujących grup systematycznych roślin:
+
+### 1)
+
+mchy (Bryophyta) - 270 gatunków, w tym 55 gatunków objętych ochroną gatunkową;
+
+### 2)
+
+wątrobowce (Marchantiophyta) - 120 gatunków;
+
+### 3)
+
+rośliny naczyniowe (Lycopodiophyta, Monilophyta i Spermatophyta) - 819 gatunków, w tym 50 gatunków objętych ochroną gatunkową.
+
+### 2.6.
+
+Gatunki roślin i grzybów o szczególnym znaczeniu dla Parku, występujące na jego obszarze:
+
+### 1)
+
+rośliny naczyniowe 64 gatunki: arnika górska (Arnica montana), bagno zwyczajne (Ledum palustre), barwinek pospolity (Vinca minor), bażyna czarna (Empetrum nigrum), bluszcz pospolity (Hedera helix), ciemiężyca zielona (Veratrum lobelianum), cis pospolity (Taxus baccata), dzwonek szerokolistny (Campanula latifolia), gnidosz rozesłany (Pedicularis sylvatica), gnieźnik leśny (Neotia nidus-avis), goryczuszka czeska (Gentianella bohemica), goryczuszka orzęsiona (Gentianella ciliata), gółka długoostrogowa (Gymnadenia conopsea), gruszyczka mniejsza (Pyrola minor), gruszycznik jednokwiatowy (Moneses uniflora), gruszynka jednostronna (Orthilia secunda), irga zwyczajna (Cotoneaster integerrimus), jałowiec pospolity (Juniperus communis), jastrzębiec rurkokwiatowy (Hieracium sudetotubulosum), kosodrzewina (Pinus mugo), kruszczyk szerokolistny (Epipactis helleborine), kukułka Fuchsa (Dactylorhiza fuchsii), kukułka szerokolistna (Dactylorhiza majalis), liczydło górskie (Streptopus amplexifolius), lilia bulwkowata (Lilium bulbiferum), lilia złotogłów (Lilium martagon), listera jajowata (Listera ovata), mieczyk dachówkowaty (Gladiolus imbricatus), mietlica skalna (Agrostis rupestris), modrzewnica zwyczajna (Andromeda polifolia), modrzyk górski (Cicerbita alpina), nasięźrzał pospolity (Ophoglossum vulgatum), orlik pospolity (Aquilegia vulgaris), paprotka zwyczajna (Polypodium vulgare), paprotnik kolczysty (Polystichum aculeatum), pełnik europejski (Trollius europaeus), podkolan biały (Platanthera bifolia), podkolan zielonawy (Platanthera chlorantha), podrzeń żebrowiec (Blechnum spicant), przylaszczka pospolita (Hepatica nobilis), przytulia hercyńska (Galium saxatile), przytulia okrągłolistna (Galium rotundifolium), rojownik pospolity (Jovibarba sobolifera), rzeżusznik piaskowy Borbása (Cardaminopsis arenosa ssp. borbasi), siedmiopalecznik błotny (Comarum palustre), skalnica zwodnicza (Saxifraga decipiens), sosna drzewokosa (Pinus x rhaetica), storczyk męski (Orchis mascula), storczyka kulista (Traunsteinera globosa), strzęplica piramidalna (Koeleria pyramidata), śnieżyca wiosenna (Leucojum vernum), świetlik błękitny (Euphrasia coerulea), turzyca Davalla (Carex davalliana), turzyca skąpokwiatowa (Carex pauciflora), turzyca zwisła (Carex pendula), wawrzynek wilczełyko (Daphne mezereum), widłak goździsty (Lycopodium clavatum), widłak jałowcowaty (Lycopodium annotinum), wroniec widlasty (Huperzia selago), zanokcica północna (Asplenium septentrionale), zanokcica skalna (Asplenium trichomanes), zanokcica zielona (Asplenium viride), zaproć górska (Oreopteris limbosperma), zerwa kulista (Phyteuma orbiculare);
+
+### 2)
+
+mchy (Bryophyta) - 3 gatunki: widłoząb sudecki (Dicranumsendtneri), świetlanka długoszowata (Schistostega pennata) i płaskodziur trójkątny (Plagiopus oederiana);
+
+### 3)
+
+krasnorost - hildenbrandia rzeczna (Hildenbrandia rivularis);
+
+### 4)
+
+grzyby wielkoowocnikowe (Macromycetes) - 10 gatunków: chełmówka błotna (Galerina paludosa), lakownica żółtawa (Ganoderma lucidum), klejówka świerkowa (Gomphidius glutinosus), soplówka jodłowa (Hericium flagellum), purchawica olbrzymia (Langermannia gigantea), żagiew ciemnonoga (Polyporus melanopus), grzybiec purpurowo zarodnikowy (Porphyrellus porphyrosporus), sarniak dachówkowaty (Sarcodon imbricatus), czarka szkarłatna (Sarcoscypha coccinea) i siedzuń sosnowy (Sparassis crispa).
+
+### 2.7.
+
+Na obszarze Parku stwierdzono występowanie 2292 gatunków zwierząt:
+
+### 1)
+
+kręgowce (Vertebrata) - 174 gatunki, w tym 142 gatunki objęte ochroną gatunkową:
+
+### a)
+
+ssaki (Mammalia) - 57 gatunków, w tym 37 gatunków objętych ochroną gatunkową,
+
+### b)
+
+ptaki (Aves) - 95 gatunków, w tym 89 gatunków objętych ochroną gatunkową,
+
+### c)
+
+gady (Reptilia) - 5 gatunków, wszystkie objęte ochroną gatunkową,
+
+### d)
+
+płazy (Amphibia) - 8 gatunków, wszystkie objęte ochroną gatunkową,
+
+### e)
+
+ryby (Pisces) i smoczkouste (Cyclostomata) - 8 gatunków, w tym 3 gatunki objęte ochroną gatunkową;
+
+### 2)
+
+bezkręgowce (Invertebrata) - 2118 gatunków, w tym 27 gatunków objętych ochroną gatunkową:
+
+### a)
+
+pajęczaki (Arachnida) - 200 gatunków,
+
+### b)
+
+skorupiaki (Crustacea) - 10 gatunków,
+
+### c)
+
+dwuparce (Diplopoda) - 14 gatunków,
+
+### d)
+
+owady (Insecta) - 1800 gatunków, w tym 23 gatunki objęte ochroną gatunkową,
+
+### e)
+
+mięczaki (Mollusca) - 94 gatunki, w tym 4 gatunki objęte ochroną gatunkową.
+
+### 2.8.
+
+Gatunki zwierząt o szczególnym znaczeniu dla Parku, występujące na jego obszarze:
+
+### 1)
+
+kręgowce - 39 gatunków:
+
+### a)
+
+ssaki (Mammalia): koszatka (Dryomys nitedula), nietoperze (Chiroptera) - 19 gatunków, orzesznica (Muscardinus avellanarius), popielica (Glis glis), ryś (Lynx lynx), wilk (Canis lupus) i wydra (Lutra lutra),
+
+### b)
+
+ptaki (Aves): bocian czarny (Ciconia nigra), derkacz (Crex crex), dzięcioł czarny (Dryocopus martius), dzięcioł zielonosiwy (Picus canus), jarząbek (Tetrastes bonasia), puchacz (Bubo bubo), sokół wędrowny (Falco peregrinus), sóweczka (Glaucidium passerinum), trzmielojad (Pernis apivorus) i włochatka (Aegolius funereus),
+
+### c)
+
+płazy (Amphibia): salamandra plamista (Salamandra salamandra) i traszka grzebieniasta (Triturus cristatus (Triturus cristatus cristatus)),
+
+### d)
+
+ryby (Pisces) i smoczkouste (Cyclostomata): głowacz białopłetwy (Cottus gobio) i minóg strumieniowy (Lampetra planeri);
+
+### 2)
+
+bezkręgowce - 7 gatunków: miedziopierś górska (Somatochlora alpestris), miedziopierś północna (Somatochlora arctica), modraszek nausitous (Maculinea (Phengaris) nausitous), modraszek telejus (Maculinea (Phengaris) teleius), poczwarówka zwężona (Vertigo angustior), ślimak ostrokrawędzisty (Helicigona lapicida) i świdrzyk kasztanowaty (Macrogastra badia).
+
+### 2.9.
+
+Siedliska przyrodnicze występujące na obszarze Parku, wymagające ochrony w ramach obszaru Natura 2000 PLH Góry Stołowe Lp. Nazwa siedliska przyrodniczego Kod siedliska przyrodniczego2) Powierzchnia (ha) 1 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) 4060 4,60 2 Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) 62303) 22,50 3 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) 6430 6,78 4 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) 6510 16,16 5 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) 6520 180,57 6 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 71103) 0,87 7 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) 7140 19,18 8 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk 7230 0,23 9 Piargi i gołoborza krzemianowe 8110 1,29 10 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis 8210 2,94 11 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii 8220 7,84 12 Kwaśne buczyny (Luzulo-Fagetum) 9110 497,76 13 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) 9130 92,00 14 Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) 91803) 16,14 15 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 91D03) 77,39 16 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 91E03) 75,01 17 Górskie bory świerkowe (Piceion abietis, część - zbiorowiska górskie) 9410 41,99
+
+### 2.10.
+
+Gatunki roślin i zwierząt występujące na obszarze Parku, wymagające ochrony wynikającej z wyznaczenia obszaru Natura 2000 PLH Góry Stołowe Lp. Nazwa gatunkowa Kod2) Występowanie na obszarze Parku 1 Goryczuszka czeska (Gentianella bohemica) 40943) 2 potwierdzone stanowiska 2 Modraszek telejus (Maculinea (Phengaris) teleius) 6177 2 potwierdzone stanowiska przy granicy Parku 3 Modraszek nausitous (Maculinea (Phengaris) nausithous) 6179 1 potwierdzone stanowisko 4 Podkowiec mały (Rhinolophus hipposideros) 1303 Na obszarze Parku znajdują się jedynie żerowiska gatunku, kolonie rozrodcze znajdują się w otulinie Parku 5 Mopek (Barbastella barbastellus) 1308 3 potwierdzone kolonie na obszarze Parku 6 Nocek Bechsteina (Myotis bechsteinii) 1323 Na obszarze Parku znajdują się jedynie żerowiska gatunku, kolonie niezlokalizowane 7 Nocek duży (Myotis myotis) 1324 Na obszarze Parku znajdują się jedynie żerowiska gatunku, kolonie rozrodcze znajdują się w otulinie Parku 8 Wilk (Canis lupus) 13523) Obszar Parku jest częścią terytorium grupy rodzinnej
+
+### 2.11.
+
+Gatunki ptaków występujące na obszarze Parku, wymagające ochrony wynikającej z wyznaczenia obszaru Natura 2000 PLB Góry Stołowe Lp. Nazwa gatunkowa Kod4) Występowanie na obszarze Parku 1 Bocian czarny (Ciconia nigrci) A030 3-6 par lęgowych 2 Sokół wędrowny (Falco peregrinus) A103 3 lub 4 pary lęgowe 3 Derkacz (Crex crex) A122 5-15 odzywających się samców 4 Puchacz (Bubo bubo) A215 4 lub 5 par lęgowych 5 Sóweczka (Glaucidium passerinum) A217 40-45 par lęgowych 6 Włochatka (Aegolius funereus) A223 20-25 par lęgowych 7 Dzięcioł zielonosiwy (Picuscanus) A234 20-25 par lęgowych
+
+### 2.12.
+
+Stan ochrony siedlisk przyrodniczych będących przedmiotami ochrony na obszarze Natura 2000 PLH Góry Stołowe, w części pokrywającej się z obszarem Parku (w nawiasach podano docelowy, prognozowany stan ochrony) Lp. Nazwa siedliska przyrodniczego Kod siedliska przyrodniczego2) Parametry stanu ochrony5) Łączna ocena5) powierzchnia struktura i funkcja perspektywy ochrony 1 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) 4060 FV (FV) FV (FV) FV (FV) FV (FV) 2 Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) 62303) U1 (FV) U1 (U1) FV (U1) U1 (U1) 3 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) 6430 FV (FV) FV (FV) FV (FV) FV (FV) 4 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) 6510 FV (FV) U1 (U1) FV (FV) U1 (U1) 5 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) 6520 FV (FV) U1 (U1) FV (FV) U1 (U1) 6 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 71103) U1 (FV) U1 (U1) FV (FV) U1 (U1) 7 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) 7140 FV (FV) U1 (U1) FV (FV) U1 (U1) 8 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk 7230 U1 (FV) U2 (U1) U1 (U1) U2 (U1) 9 Piargi i gołoborza krzemianowe 8110 FV (FV) XX (XX) FV (FV) FV (FV) 10 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis 8210 U1 (FV) U1 (U1) U1 (FV) U1 (U1) 11 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii 8220 U1 (FV) U1 (FV) FV (FV) U1 (FV) 12 Kwaśne buczyny (Luzulo-Fagetum) 9110 U1 (FV) U1 (FV) FV (FV) U1 (FV) 13 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) 9130 U1 (FV) FV (FV) FV (FV) U1 (FV) 14 Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) 91803) U1 (FV) FV (FV) FV (FV) U1 (FV) 15 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 91D03) U1 (FV) U1 (U1) FV (FV) U1 (U1) 16 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 91E03) U1 (FV) U1 (U1) FV (FV) U1 (U1) 17 Górskie bory świerkowe (Piceion abietis, część -zbiorowiska górskie) 9410 FV (FV) U1 (FV) FV (FV) U1 (FV)
+
+### 2.13.
+
+Stan ochrony gatunków roślin i zwierząt będących przedmiotami ochrony na obszarze Natura 2000 PLH Góry Stołowe i obszarze Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku (w nawiasach podano docelowy, prognozowany stan ochrony) Lp Nazwa gatunkowa Kod2), 4) Parametry stanu ochrony5) Łączna ocena5) populacja siedlisko szanse zachowania 1 Goryczuszka czeska (Gentianella bohemica) 40943) U2 (U1) U1 (FV) U1 (U1) U2 (U1) 2 Modraszek telejus (Maculinea (Phengaris) teleius) 6177 XX (FV) U1 (FV) U1 (FV) U1 (FV) 3 Modraszek nausitous (Maculinea (Phengaris) nausithous) 6179 XX (FV) U1 (FV) U1 (FV) U1 (FV) 4 Podkowiec mały (Rhinolophushipposideros) 1303 FV (FV) FV (FV) FV (FV) FV (FV) 5 Mopek (Barbastella barbasiellus) 1308 FV (FV) FV (FV) FV (FV) FV (FV) 6 Nocek Bechsteina (Myotis bechsteinii) 1323 FV (FV) U1 (U1) FV (FV) U1 (U1) 7 Nocek duży (Myotis myotis) 1324 FV (FV) FV (FV) FV (FV) FV (FV) 8 Wilk (Canis lupus) 1352 FV (FV) FV (FV) FV (FV) FV (FV) 9 Bocian czarny (Ciconia nigra) A030 FV (FV) FV (FV) FV (FV) FV (FV) 10 Sokół wędrowny (Falcoperegrinus) A103 FV (FV) U1 (U1) U1 (U1) U1 (U1) 11 Derkacz (Crex crex) A122 U1 (U1) U1 (U1) U1 (U1) U1 (U1) 12 Puchacz (Bubo bubo) A215 FV (FV) FV (FV) FV (FV) FV (FV) 13 Sóweczka (Glaucidium passerinum) A217 FV (FV) FV (FV) FV (FV) FV (FV) 14 Włochatka (Aegolius funereus) A223 FV (FV) FV (FV) FV (FV) FV (FV) 15 Dzięcioł zielonosiwy (Picuscanus) A234 FV (FV) U1 (U1) FV (FV) FV (FV)
+
+### 3.
+
+Społeczne uwarunkowania realizacji celów ochrony przyrody
+
+### 3.1.
+
+Park został utworzony rozporządzeniem Rady Ministrów z dnia 16 września 1993 r. w sprawie utworzenia Parku Narodowego Gór Stołowych (Dz. U. poz. 407 oraz z 1997 r. poz. 25). Powierzchnia Parku wynosi 6340,37 ha, z czego w wieczystym użytkowaniu Parku znajduje się 6189,07 ha.
+
+### 3.2.
+
+Park jest położony na terenie województwa dolnośląskiego, powiatu kłodzkiego, a administracyjnie stanowi część gmin:
+
+### 1)
+
+Kudowa-Zdrój, w której obszar Parku zajmuje 31,9% ogólnej powierzchni gminy;
+
+### 2)
+
+Lewin Kłodzki, w której obszar Parku zajmuje 11,5% ogólnej powierzchni gminy;
+
+### 3)
+
+Radków, w której obszar Parku zajmuje 20,8% ogólnej powierzchni gminy;
+
+### 4)
+
+Szczytna, w której obszar Parku zajmuje 13,3% ogólnej powierzchni gminy.
+
+### 3.3.
+
+W bezpośrednim sąsiedztwie Parku są położone gminy miejskie: Duszniki-Zdrój i Polanica-Zdrój.
+
+### 3.4.
+
+Obszar sześciu wymienionych gmin liczy 38 117 mieszkańców, co stanowi 24,7% populacji całego powiatu kłodzkiego. Średnia gęstość zaludnienia na obszarze tych gmin wynosi 95,8 mieszkańców/km˛. Na obszarze Parku mieszka 75 osób.
+
+### 3.5.
+
+Głównym kierunkiem rozwoju we wszystkich gminach tworzących przestrzeń społeczno-gospodarczą Parku jest turystyka. Kierunek ten jest realizowany przede wszystkim przez dążenie do przyciągnięcia jak największej liczby turystów, w szczególności przez nowe segmenty turystyki, wydłużanie sezonu turystycznego oraz przeznaczanie nowych terenów pod zabudowę turystyczną i rekreacyjną. Działania te wiążą się z rozbudową infrastruktury turystycznej, rozprzestrzenianiem się zabudowy na tereny dotychczas niezabudowane oraz zwiększeniem urbanizacji terenu w otoczeniu Parku. Zwiększenie liczby turystów ma wpływ nie tylko na otoczenie Parku (zagrożenie zewnętrzne), ale także na jego obszar (zagrożenie wewnętrzne). Pewną przeciwwagą dla tych zagrożeń jest w szczególności poprawa estetyki miast, budowa ścieżek spacerowych, wyeksponowanie walorów, rozwój funkcji kulturalnych i sportu oraz współpraca przygraniczna, co przyczynia się do wydłużenia pobytu turystów w miejscowościach. Drugim istotnym kierunkiem rozwoju gmin jest zwiększanie urbanizacji terenów w otoczeniu Parku, głównie w związku z planowanym w gminach rozwojem przedsiębiorczości. W dokumentach związanych z planowaniem przestrzennym gmin przeznacza się nowe tereny pod działalność produkcyjną oraz eksploatację surowców naturalnych, których realizacja powoduje zagrożenia dla przyrody Parku, w szczególności przez zniekształcanie krajobrazu oraz wpływ na poziom wód gruntowych.
+
+### 3.6.
+
+Obszar Parku pokrywa się w części z obszarem Natura 2000 PLH Góry Stołowe i obszarem Natura 2000 PLB Góry Stołowe.
+
+### 3.7.
+
+Otulina Parku ma powierzchnię 10 515 ha i jest położona na terenie gmin: Duszniki-Zdrój, Kudowa-Zdrój, Lewin Kłodzki, Polanica-Zdrój, Radków i Szczytna.
+
+### Rozdział 2 OBSZARY OCHRONY ŚCISŁEJ, CZYNNEJ I KRAJOBRAZOWEJ
+
+Lp. Rodzaj ochrony Lokalizacja6) 1 Ochrona ścisła li, 1j, 1m, 2a-2h, 2j, 21, 2m, 71-7o, 7r, 14i, 15a, 15d, 15f, 16a-16c, 16f-16i, 16k, 161, 17a, 17b, 17j, 171, 17p, 17t, 18g, 19b, 20fx, 20gx, 23a-23c, 23m-23o, 23z, 23ax, 23cx, 25f-25j, 26g-26i, 27a-27d, 28d, 33b-33f, 33h, 34a-34h, 34j, 35a-35d, 35g-35w, 37a-37k, 38d, 38f, 42h, 42i, 44j, 44n, 44t, 45d, 46c, 47d, 47f, 57b, 57c, 73a-73g, 74a-74j, 75a-751, 76a-76n, 83a-83d, 83g, 83bx, 86k, 861, 87b, 87c, 87w, 87x, 87z, 87bx, 88c, 88g-88k, 88m-88o, 91a-91k, 92a-92h, 93a-93f, 94a-94c, 95a-95n, 96a-96o, 97a-97p, 101a, 103a-103c, 103g, 103h, 104a-104f, 105a-1051, 106a-106k, 111a, 111b, 112a, 114a-114d, 115a-115d, 116a, 117i-117m, 117o, 118a, 118b, 120a-120h, 132d-132h, 132k, 132m, 132n, 133j, 134d, 134g, 134i-134n, 135a-1351, 136b, 137a-137c, 137g, 138d, 138g, 139a, 139b, 139f, 139k, 1391 i 140a-140c 2 Ochrona czynna 1. 1c-1h, lk, 1l, 2i, 2k, 3a-3h, 4a-4p, 5c, 6a-6i, 6k, 61, 7a-7k, 7p, 7s-7w, 7y, 8a, 8h-81, 8n, 9b-9i, 10a-10i, 11a-11j, 12a-12o, 13a-13p, 14b-14h, 15b, 15c, 16j, 16m, 17f-17h, 17r, 17w, 17x, 17ax, 17dx, 17gx, 17hx, 18a-18f, 18h, 18j-18m, 19a, 19c, 19f-19r, 20a-20c, 20f, 20j, 20k, 20r, 20cx, 20jx, 21b-211, 21n, 21o, 22a-22g, 22i-22k, 23d-23i, 231, 23p-23t, 23x, 23y, 24a-24c, 25b-25d, 25k, 251, 26b-26f, 28a-28c, 28f, 29a-29j, 30a-30f, 30h-30m, 30o, 31a, 31b, 31d-31h, 32a-32f, 32h-321, 34i, 36a-36f, 371-37n, 38a-38c, 38g, 39a-39i, 40a-40d, 40g-40i, 41a-411, 41n-41w, 42a, 42c, 42f, 42g, 42j, 42k, 43a-43m, 43o-43t, 43y, 43z, 44a, 44c, 44f, 44k, 44m, 45a-45c, 45f, 45g, 46a, 46b, 46d-46h, 47a-47c, 47g-47m, 48a-48h, 49a-49c, 49f-49h, 50a, 50b, 50d, 50g-50j, 51b-51f, 51h, 52b-52h, 53a-53h, 54a-54g, 55a-55f, 56a-56f, 57a, 57d-57g, 58a-58f, 59a-59f, 60a-60g, 61a-61f, 62a-62k, 63a-63m, 64a-64g, 65a-651, 66a-66n, 67a-67i, 67k-67n, 67p, 68a-68g, 69a-69j, 70c-70k, 71a-71c, 72a-72g, 72j-721, 72n-72x, 77a-77j, 78a, 78c-78h, 78p-78fx, 79a-79h, 80a, 80c, 80d, 80h, 80i, 80k, 80m-80s, 81b-81k, 81m, 81n, 81p, 82a-82h, 83h, 83j, 831-83o, 83r-83w, 83x, 83ax, 83cx, 83fx, 83gx, 83y, 84a, 84b, 84d-84k, 85a-851, 86a, 86c-86j, 87a, 87d-87p, 87s, 88a, 88b, 88d, 881, 89a-89r, 90a-90h, 98a-98d, 99a-99n, 100a-100ax, 101b-101d, 102a-102g, 103d, 103f, 107a-107c, 107f-107h, 107k, 1071, 107n, 108a, 108b, 108d-108h, 109a-109d, 109g, 110a-110h, 110j-110t, 111c-111h, 112b-112k, 113a-113d, 113i-113o, 113r-113t, 116c-116i, 116k-116o, 117a, 117c, 117d, 117g-117h, 117n, 117p-117dx, 117gx-117ix, 118c-118r, 119a-119t, 121a-121d, 121g-121o, 122a-122p, 123a-123d, 124a-124k, 125a-125i, 126a-126n, 127a-1271, 128a-128t, 129a-129j, 130a-130n, 130s, 132a, 132c, 1321, 133a-133f, 133h, 133i, 134a, 134c, 134f, 136a, 136c, 137h-137j, 138a, 138c, 138f, 139c, 139d, 139h, 139i, 139m, 140d-140p, 141ab-141ax, 141dx, 142a-142d, 143a, 143b, 143c, 143f, 143g, 144a-144g, 145a-145r, 146a-146i, 146k-146p, 146s-146z, 147a-147g, 148a, 148b, 148d-148j, 149a-149n, 150a-150h, 151a-1511, 152a-1521, 152n-152p i 153a-153j. 2. Działka o numerze 24/2, obręb ewidencyjny Bukowina, gmina Kudowa-Zdrój 3 Ochrona krajobrazowa 1. la, 1b, 1n, 5a, 5b, 5d, 5f, 5Aa-5Ac, 6j, 7x, 7z, 8b-8g, 8m, 8Aa, 8Ab, 9a, 9Aa, 9Ab, 14a, 15g, 16d, 17c, 17d, 17i, 17k, 17m-17o, 17s, 17y, 17z, 17bx, 17cx, 17fx, 17Aa-17Ag, 18i, 18n, 19d, 20d, 201, 20m-20p, 20s-20bx, 20dx, 20hx, 20ix, 20kx, 201x, 20Aa-20Azx, 20Aay-20Azy, 20Ba-20Bzx, 20Bay-20Bky, 20Ca-20Cpx, 20Da-20Dh, 21a, 21m, 21p, 21Aa-21Ac, 22h, 22Aa-22Ar, 23j, 23k, 23w, 23bx, 23dx, 23Aa-23Am, 23Ba-23Bs, 25a, 26a, 30g, 30n, 31c, 32g, 33a, 33g, 34k, 341, 35f, 40f, 41m, 41x-41z, 41Aa, 42b, 42d, 43n, 43w, 43x, 43ax, 43Aa, 44b, 44d, 44g-44i, 441, 44o, 44Aa-44Ah, 44 p, 44r, 44s, 49d, 50c, 50f, 51a, 51g, 51i, 52a, 52i, 61g-61k, 621, 62m, 67j, 67o, 68h, 70a, 70b, 72h, 72i, 72m, 78b, 78h-78o, 78Aa, 79i, 79j, 80b, 80f, 80g, 80j, 801, 81a, 811, 81o, 81r, 83f, 83i, 83k, 83p, 83z, 83dx, 83hx, 83Aa-83Ag, 84c, 851, 85m, 86b, 87r, 88f, 89Aa, 99o, 100bx, 100cx, 103i, 1061, 107d, 107i, 107j, 107m, 107o-107s, 108c, 108i, 109f, 110i, 1121, 112Aa, 112Ab, 113f-113h, 113p, 113Aa-113Ahx, 116b, 116j, 117b, 117f, 117fx, 121f, 121p-121w, 121x, 128w-128z, 128ax, 130o-130r, 131a-131c, 131Aa-131Am, 132b, 132i, 132j, 133g, 134b, 134h, 135Aa-135An, 136d, 137d, 137f, 137k, 138b, 138h, 139g, 139j, 139Aa, 141bx-141hx, 143d, 146j, 146r, 148c, 151m-151dx, 152m, 154Aa-154Ad, 155Aa, 156Aa, 157Aa-157Ad, 158Aa, 159Aa-159Ag, 160Aa, 160Ab, 161Aa-161Ac, 162Aa i 162Ab. 2. Działki o numerach: 1) 110/2, 110/3, 111 i 158/3, obręb ewidencyjny Dańczów, gmina Lewin Kłodzki; 2) 100 i 101, obręb ewidencyjny Jakubowice, gmina Kudowa-Zdrój; 3) 32/2-32/5, 34/1 i 34/2, obręb ewidencyjny Bukowina, gmina Kudowa-Zdrój; 4) 98, 100 i 102, obręb ewidencyjny Karłów, gmina Radków
+
+### Rozdział 3 OPIS GRANIC I MAPA OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+### 1.
+
+Opis granic obszaru Natura 2000 PLH Góry Stołowe w części pokrywającej się z obszarem Parku Numer punktu załamania granicy Współrzędne punktów załamania granicy (PL-1992)7) X Y 1 2 3 1 310050,8843 296832,3524 2 310064,0068 296825,5050 3 310065,9022 296825,6453 4 310067,5887 296823,3013 5 310073,1071 296822,2281 6 310084,6199 296817,7164 7 310106,9482 296803,3824 8 310120,5541 296797,9952 9 310127,2798 296792,0621 10 310135,0264 296780,7059 11 310138,9053 296771,0518 12 310150,9382 296756,9707 13 310154,8838 296754,8561 14 310168,1373 296742,7074 15 310176,6387 296729,8870 16 310192,3867 296712,1185 17 310202,7065 296702,1017 18 310209,7937 296695,2275 19 310223,2214 296676,8109 20 310247,1083 296642,3217 21 310256,4348 296635,0880 22 310258,9611 296632,0581 23 310262,3730 296626,3287 24 310277,8047 296600,0468 25 310294,5103 296590,1805 26 310319,5183 296581,8555 27 310340,7521 296578,5695 28 310352,1174 296573,8416 29 310372,7223 296549,8289 30 310386,3999 296533,6558 31 310394,5336 296526,6689 32 310421,2692 296509,6460 33 310435,9830 296511,8661 34 310444,3624 296511,7534 35 310468,3414 296503,1794 36 310477,1530 296501,8534 37 310486,1733 296502,7115 38 310494,0336 296502,3347 39 310511,0913 296497,9294 40 310529,6943 296487,3033 41 310539,0363 296478,9680 42 310545,1495 296470,7146 43 310557,2020 296457,9125 44 310563,3256 296451,8792 45 310574,4247 296438,0715 46 310574,7831 296437,6261 47 310583,4441 296434,0533 48 310629,2948 296415,1113 49 310673,1168 296403,5463 50 310754,7368 296377,7815 51 310777,3396 296364,8699 52 310784,8179 296361,2941 53 310829,2778 296340,0358 54 310850,4675 296339,4716 55 310904,2817 296336,1855 56 310934,1456 296304,1559 57 310956,9297 296279,7191 58 310968,4425 296267,2550 59 311003,2719 296213,5472 60 311022,4135 296154,0293 61 311015,4308 296078,0228 62 311009,6605 296015,1841 63 310974,4585 295977,1742 64 311014,0187 295914,8157 65 311062,6013 295904,1907 66 311102,5446 295911,5430 67 311177,4225 295906,8971 68 311228,4996 295918,4008 69 311267,2898 295888,9771 70 311289,7256 295896,2772 71 311283,8713 295854,9414 72 311281,2489 295836,4233 73 311319,7217 295771,2980 74 311402,0431 295713,7020 75 311404,0715 295692,2319 76 311450,0604 295656,2803 77 311475,0040 295636,7946 78 311483,9425 295629,8109 79 311534,9039 295650,4220 80 311578,7772 295636,3440 81 311656,8470 295561,1763 82 311634,1213 295522,2755 83 311665,0247 295470,8462 84 311675,2892 295453,7648 85 311734,8409 295458,0011 86 311803,0179 295462,9685 87 311834,4956 295487,4902 88 311849,4839 295502,9260 89 311872,7708 295492,6932 90 311904,1051 295503,3643 91 311959,1195 295522,0994 92 311968,6345 295554,4117 93 311974,6884 295574,8978 94 311979,8237 295592,2731 95 311981,2195 295633,6427 96 311958,4723 295702,5763 97 311985,4260 295745,5454 98 312013,1775 295829,9036 99 312051,5509 295812,6963 100 312056,3094 295763,4316 101 312084,3055 295718,3408 102 312104,8910 295740,0035 103 312130,6661 295722,9908 104 312172,4801 295702,2139 105 312235,5176 295670,8917 106 312247,5209 295683,6498 107 312257,7916 295694,1110 108 312273,7128 295712,8389 109 312311,0857 295741,2876 110 312323,1361 295747,5514 111 312334,6326 295757,6522 112 312338,8024 295761,3160 113 312354,4552 295776,8900 114 312381,4161 295801,5634 115 312393,5966 295817,7272 116 312422,5236 295839,6685 117 312450,8556 295856,6863 118 312453,3101 295858,4005 119 312487,5803 295882,3344 120 312515,9728 295898,4204 121 312550,8932 295911,1508 122 312577,5510 295937,6448 123 312593,4220 295944,1993 124 312604,3900 295942,4626 125 312626,9753 295938,8868 126 312663,1851 295964,3610 127 312708,7449 295964,5145 128 312737,6309 295969,1368 129 312754,5883 295971,8505 130 312778,1823 295967,5701 131 312822,9618 295983,0725 132 312867,5693 296010,0046 133 312902,9219 296056,3314 134 312926,2968 296083,7184 135 312962,8248 296122,5464 136 312963,1393 296122,6764 137 312981,6399 296137,1917 138 313009,5889 296169,1168 139 313033,9642 296203,5437 140 313060,1356 296233,9637 141 313086,3838 296265,8921 142 313123,7946 296309,9138 143 313154,6057 296335,4872 144 313170,5146 296356,7731 145 313189,3418 296381,9635 146 313204,4366 296401,2075 147 313215,0360 296414,7191 148 313226,0994 296431,3274 149 313231,6310 296438,3469 150 313238,9249 296432,9464 151 313347,7117 296352,2747 152 313364,8821 296342,2036 153 313359,6085 296330,3252 154 313353,9376 296317,5836 155 313332,3629 296269,1095 156 313328,5516 296265,2878 157 313326,7032 296263,4335 158 313297,1332 296233,7733 159 313259,5421 296196,0665 160 313238,3033 296176,5460 161 313235,3584 296173,8375 162 313216,8188 296156,8022 163 313211,6844 296151,9515 164 313220,7428 296142,5247 165 313228,0859 296134,8824 166 313237,1534 296125,4556 167 313245,2512 296117,0199 168 313253,3501 296108,5934 169 313261,5942 296100,0225 170 313273,6458 296087,4805 171 313276,1350 296084,8918 172 313245,4089 296053,4141 173 313204,4121 296014,1201 174 313194,9175 296005,0199 175 313306,4055 295975,1190 176 313227,1479 295896,8466 177 313220,1796 295889,8158 178 313107,3932 295776,0258 179 313117,1600 295759,2343 180 313119,0596 295755,6932 181 313151,8533 295703,0719 182 313167,1333 295682,8182 183 313173,3879 295671,3986 184 313180,6737 295658,0865 185 313188,5176 295643,7567 186 313196,9850 295628,2667 187 313252,6537 295546,2463 188 313273,5648 295515,4312 189 313275,6016 295511,8062 190 313276,7095 295509,8114 191 313283,5089 295497,5746 192 313287,2413 295490,9360 193 313341,3403 295394,5551 194 313360,1266 295393,2864 195 313368,7804 295392,6853 196 313410,3497 295380,1310 197 313421,0342 295376,9044 198 313457,9135 295364,6851 199 313473,3154 295359,4718 200 313510,5840 295342,7478 201 313549,5308 295314,1292 202 313612,8734 295254,1964 203 313623,0397 295235,4316 204 313624,8685 295231,8834 205 313634,4111 295213,3480 206 313652,3855 295189,3281 207 313660,4382 295178,4818 208 313662,3654 295168,7990 209 313686,7581 295145,0391 210 313693,2974 295149,0848 211 313721,1378 295118,2051 212 313726,6132 295112,5824 213 313806,4011 295025,7789 214 313833,1133 294997,5042 215 313850,9830 294976,5890 216 313866,1659 294959,3182 217 313882,3185 294942,9384 218 313893,6818 294931,4183 219 313902,1063 294922,8719 220 313936,3088 294886,9102 221 313962,9933 294863,5189 222 314021,1063 294810,0835 223 314049,3882 294771,2371 224 314072,4968 294744,4749 225 314093,4694 294714,0293 226 314102,8073 294700,4408 227 314103,0929 294700,0240 228 314115,3225 294687,7371 229 314125,1652 294677,8555 230 316933,2568 293260,0220 231 316965,2036 293245,2087 232 317006,5784 293226,1091 233 317027,6072 293210,5761 234 317086,5660 293159,3218 235 317051,5278 293130,4255 236 317024,7379 293108,3307 237 317021,3905 293105,5741 238 317059,8099 293068,5104 239 317099,0015 293030,8815 240 317090,7972 293022,9445 241 317050,2786 292983,7457 242 316998,4641 292933,6199 243 316972,5027 292961,2607 244 316935,0754 292996,1720 245 316898,2401 292870,9183 246 316877,8718 292883,2791 247 316858,0952 292851,2954 248 316851,7506 292841,0349 249 316823,0386 292789,2185 250 316787,9646 292742,7935 251 316754,9048 292687,9019 252 316751,7262 292682,5658 253 316746,5858 292673,9386 254 316770,6641 292656,6975 255 316795,6907 292633,7015 256 316845,1735 292620,0885 257 316847,9976 292617,5972 258 316851,8745 292619,5345 259 316865,1711 292620,3824 260 316870,2501 292621,0839 261 316874,9237 292629,7489 262 316876,5958 292634,7328 263 316878,0612 292638,6915 264 316882,7266 292642,0308 265 316886,9106 292643,0005 266 316891,6230 292644,9912 267 316895,1948 292648,1522 268 316901,8231 292644,7250 269 316909,7765 292649,1107 270 316915,4996 292645,1826 271 316920,4999 292644,7311 272 316921,0037 292640,3586 273 316944,9264 292648,8414 274 316949,9799 292644,4321 275 316971,4664 292650,2053 276 316972,1893 292670,5399 277 316974,6377 292676,0266 278 316987,8115 292676,9882 279 316994,7819 292654,9332 280 316997,8693 292649,6945 281 317008,6877 292618,8854 282 317014,2522 292603,0378 283 317017,1287 292565,5575 284 317018,0594 292553,4343 285 317042,4972 292527,5917 286 317046,5410 292522,9038 287 317086,5046 292476,6599 288 317088,1932 292474,7062 289 317110,0618 292439,0310 290 317170,6887 292462,6301 291 317196,5006 292486,0592 292 317226,3831 292489,3646 293 317278,9858 292492,7992 294 317303,8762 292524,1694 295 317318,7089 292556,6456 296 317323,7040 292560,6105 297 317380,8237 292605,9666 298 317407,9884 292599,8041 299 317413,2701 292598,8385 300 317417,7286 292596,8386 301 317534,3049 292587,0850 302 317541,7494 292553,3709 303 317541,0807 292540,6476 304 317545,4000 292536,1410 305 317553,8828 292527,2886 306 317631,8850 292445,8856 307 317633,6831 292443,8029 308 317681,0155 292388,9810 309 317740,6777 292309,6691 310 317743,5020 292305,9141 311 317772,9635 292266,7512 312 317780,7889 292256,3484 313 317784,1875 292253,4208 314 317793,6360 292248,7073 315 317798,7345 292246,1637 316 317836,1617 292227,2258 317 317814,7130 292199,6699 318 317841,8766 292179,1234 319 317830,6106 292164,0419 320 318037,1842 291822,5870 321 318045,6157 291811,5883 322 318170,7926 291648,2952 323 318113,5634 291610,1859 324 318079,7201 291597,9419 325 318051,7966 291581,4822 326 318034,9662 291577,4476 327 318004,0220 291571,8351 328 317994,7445 291565,9542 329 317906,1285 291503,6510 330 317893,3695 291492,2866 331 317856,0713 291433,5981 332 317857,7343 291361,5260 333 317832,6873 291273,0759 334 317845,3132 291264,2080 335 317882,4373 291264,9658 336 317909,4290 291260,6097 337 317949,9731 291243,4854 338 317982,0828 291200,7078 339 317986,2821 291196,2278 340 317995,8853 291185,9817 341 318018,7982 291164,1582 342 318029,8032 291153,6775 343 318042,3523 291141,7253 344 318087,4370 291119,4175 345 318104,0626 291102,8625 346 318114,8925 291084,5585 347 318127,1589 291044,0931 348 318138,4578 291023,5332 349 318151,6694 290994,0923 350 318181,4913 290950,1155 351 318190,5261 290942,5308 352 318226,2452 290921,1271 353 318253,6322 290898,1127 354 318284,2313 290861,0746 355 318281,4532 290817,4103 356 318257,6831 290775,4825 357 318268,4423 290721,0703 358 318286,9060 290679,4918 359 318283,5299 290651,2191 360 318267,5565 290610,0676 361 318237,0986 290566,6593 362 318220,1443 290536,0017 363 318205,1836 290516,6450 364 318194,9702 290496,0217 365 318193,0861 290492,2175 366 318173,5800 290463,1503 367 318156,6921 290446,7540 368 318143,1722 290407,9270 369 318181,6665 290374,4821 370 318065,6882 290175,6694 371 318017,5049 290190,0413 372 317979,3159 290212,4331 373 317893,6890 290282,9426 374 317869,7314 290300,4777 375 317845,8488 290313,0482 376 317781,0490 290329,6012 377 317765,0695 290346,0364 378 317752,7150 290385,6140 379 317746,4583 290388,0010 380 317719,9663 290398,0925 381 317684,6978 290416,6617 382 317629,9855 290391,8379 383 317603,6625 290382,7100 384 317602,2606 290314,3457 385 317590,2102 290301,3296 386 317575,0703 290294,4514 387 317557,3879 290283,3820 388 317543,7236 290266,4358 389 317545,5669 290258,5356 390 317534,2415 290240,5664 391 317518,0714 290229,8698 392 317495,6582 290224,2009 393 317456,8291 290224,8881 394 317442,7009 290220,9292 395 317425,7323 290203,5673 396 317415,1708 290183,4550 397 317405,5800 290135,5665 398 317396,7684 290117,8011 399 317393,4312 290111,0735 400 317370,8090 290077,0225 401 317296,1901 290004,5242 402 317292,4668 289991,6566 403 317344,8844 289969,5802 404 317381,3889 289943,5593 405 317403,3179 289921,3365 406 317420,7577 289895,9536 407 317253,9727 289673,6473 408 317190,1017 289566,1652 409 317109,7412 289405,4945 410 317093,8201 289373,6532 411 317088,3776 289376,4845 412 317060,1151 289329,0652 413 317071,6074 289305,3995 414 317076,6998 289286,8948 415 317073,1609 289289,1650 416 317059,0082 289298,2428 417 317042,7133 289308,6947 418 317022,6274 289285,0465 419 317011,8776 289272,3796 420 317005,2052 289263,4155 421 316972,1167 289300,8018 422 316957,8063 289292,9374 423 316981,5968 289242,2781 424 316974,9777 289238,2046 425 316963,5479 289230,9598 426 316938,0266 289210,3630 427 316930,2300 289202,3287 428 316907,1725 289178,5688 429 316868,7858 289145,4896 430 316844,0111 289124,1403 431 316864,8618 289089,4778 432 316898,5914 289071,2875 433 316890,4587 289050,8065 434 316919,7012 289010,3892 435 316922,0051 289000,2751 436 316934,8400 288987,1997 437 316953,6929 288964,1228 438 316964,1663 288953,2725 439 316967,1871 288951,0565 440 316989,9967 288930,7076 441 316992,6539 288929,6437 442 316992,8527 288929,5781 443 316993,1394 288929,4686 444 317030,4949 288915,2863 445 317049,9427 288904,1543 446 317038,4944 288889,9381 447 317038,5282 288889,9033 448 317038,8538 288890,0057 449 317041,2172 288887,5675 450 317064,5491 288863,4974 451 317079,1727 288848,4139 452 317093,7853 288833,3417 453 317106,7542 288819,9662 454 317111,5240 288815,0479 455 317120,4646 288798,1519 456 317122,4470 288794,4041 457 317130,7537 288778,8700 458 317142,5481 288774,1094 459 317151,1650 288765,6378 460 317181,7561 288716,5267 461 317186,8514 288714,0865 462 317213,1765 288694,8579 463 317219,0154 288690,5930 464 317237,7996 288694,0767 465 317240,5972 288632,3223 466 317241,6652 288597,7489 467 317246,7401 288549,9260 468 317265,0216 288535,7703 469 317265,3943 288522,1152 470 317303,0570 288500,7803 471 317355,7183 288470,9440 472 317380,2544 288457,8326 473 317408,4441 288442,2463 474 317447,7339 288435,8054 475 317521,3574 288392,1594 476 317589,5415 288361,3268 477 317632,0078 288346,1234 478 317683,6410 288319,9203 479 317696,9990 288313,9811 480 317776,1881 288204,9528 481 317787,5770 288185,3207 482 317841,7343 288131,3917 483 317850,9708 288099,2432 484 317869,4509 288111,2168 485 317873,1199 288113,5946 486 317877,8324 288116,6481 487 317883,0803 288120,3529 488 317912,3851 288141,0428 489 317917,7244 288144,8071 490 317927,2476 288151,5306 491 317933,9659 288155,8918 492 317993,1696 288145,5864 493 317936,5792 288192,0677 494 317924,9159 288201,6483 495 317887,4917 288219,4434 496 317837,7970 288249,0872 497 317848,2295 288260,5836 498 317853,6824 288266,0743 499 317883,5442 288287,6060 500 317913,9550 288258,9268 501 317947,0630 288235,2345 502 318001,6432 288220,4019 503 318011,6743 288211,4153 504 318033,6605 288187,9667 505 318082,6160 288135,7550 506 318091,8381 288123,9226 507 318092,5405 288123,3605 508 318096,3038 288112,5706 509 318105,8936 288049,5618 510 309364,6537 290306,8817 511 309368,0923 290303,6234 512 309363,9399 290290,4589 513 309356,2159 290264,8732 514 309336,9156 290265,0463 515 309329,3933 290251,9482 516 309313,3124 290242,8182 517 309297,8439 290224,8265 518 309295,8737 290214,5856 519 309290,7567 290209,7205 520 309289,1614 290208,2030 521 309288,5869 290207,1104 522 309285,4043 290197,7827 523 309282,2207 290188,4541 524 309281,4189 290185,1886 525 309280,8055 290174,5441 526 309278,7217 290171,5887 527 309275,0148 290170,7645 528 309263,5603 290133,0116 529 309262,0366 290101,6199 530 309264,9591 290091,1157 531 309265,1229 290084,1884 532 309260,0173 290073,8347 533 309256,9227 290050,7354 534 309254,6351 290028,1499 535 309256,8102 290009,1158 536 309252,0895 289999,2107 537 309252,4858 289993,3667 538 309250,9569 289982,8513 539 309251,3102 289968,5869 540 309243,4695 289965,1310 541 309229,9076 289972,2273 542 309213,8011 289992,9674 543 309200,4810 290000,7559 544 309162,3831 290009,5398 545 309156,1100 290012,9978 546 309143,8865 290029,9553 547 309140,6434 290037,2482 548 309112,7979 290053,6639 549 309104,0344 290076,3046 550 309086,1421 290084,7465 551 309075,1218 290099,2156 552 309070,2046 290094,5482 553 309067,6998 290092,1725 554 309060,7500 290085,5811 555 309057,8306 290082,7517 556 308854,8062 289890,1066 557 308812,8058 289811,3241 558 308737,6084 289670,2732 559 308762,3369 289662,9587 560 308906,4598 289616,4692 561 308966,4990 289597,1023 562 308907,6711 289462,8528 563 308789,7484 289330,2059 564 308785,7158 289325,3695 565 308674,8094 289216,4324 566 318123,5136 287933,7863 567 318124,4280 287927,7795 568 318125,1683 287916,4346 569 318125,8472 287906,0287 570 318125,3956 287901,3389 571 318124,4095 287891,0999 572 318116,1653 287834,1470 573 318107,9210 287777,1942 574 318110,7709 287770,7839 575 318094,0847 287764,6646 576 318083,9114 287762,6810 577 318030,2476 287752,2178 578 317987,8827 287769,6360 579 317975,6755 287774,6547 580 317949,5349 287785,4026 581 317918,6746 287681,1901 582 317913,2095 287671,9342 583 317910,4867 287667,3241 584 317895,0887 287641,2469 585 317846,9464 287605,1837 586 317842,7440 287608,9663 587 317802,6626 287645,0500 588 317789,0444 287672,5895 589 317776,6140 287697,7288 590 317809,4332 287727,7565 591 317857,7076 287771,9226 592 317871,8788 287841,1583 593 317820,5304 287906,8428 594 317738,2581 287932,7244 595 317711,1272 287879,2480 596 317633,2715 287900,5299 597 317630,8323 287901,1965 598 317623,3131 287854,3290 599 317611,3568 287829,3055 600 317593,1040 287820,7449 601 317549,8564 287800,4677 602 317517,5646 287785,3278 603 317473,3872 287812,2007 604 317423,5194 287842,5366 605 317426,7828 287855,7380 606 317423,5584 287882,4460 607 317417,9489 287884,9753 608 317349,8539 287915,6676 609 317335,6049 287922,0891 610 317422,8098 288084,9677 611 317453,7540 288142,7653 612 317443,8192 288159,9602 613 317419,7787 288177,3877 614 317410,0170 288184,4646 615 317388,9348 288197,6782 616 317305,6313 288229,9537 617 317264,5771 288254,1458 618 317241,5208 288251,2662 619 317234,8934 288250,4430 620 317148,5958 288239,6613 621 317116,7075 288235,6779 622 316995,7803 288231,4006 623 316952,3104 288211,9846 624 316924,7607 288206,6260 625 316867,7915 288195,5453 626 316862,4319 288192,1016 627 316849,2837 288121,6637 628 316840,8204 288066,3831 629 316840,3258 288062,1929 630 316838,5737 288047,3479 631 316831,6136 288048,3555 632 316790,4744 288078,7714 633 316764,4894 288091,9390 634 316683,9098 288119,1876 635 316676,8135 288103,3955 636 316667,5043 288075,7086 637 316647,0222 287993,4271 638 316642,1613 287980,0997 639 316629,3940 287945,0953 640 316616,3074 287923,2985 641 316563,1034 287952,4108 642 316517,9839 288030,7653 643 316534,9095 288141,3071 644 316546,8730 288204,8800 645 316517,9962 288234,3119 646 316480,6539 288246,3735 647 316468,3302 288252,0056 648 316457,7410 288256,8450 649 316415,9413 288275,9478 650 316379,3743 288306,7004 651 316329,7440 288306,4834 652 316299,2483 288277,2092 653 316284,3665 288274,3840 654 316290,5555 288223,8262 655 316285,5277 288195,5054 656 316165,8959 288221,7372 657 316143,1466 288233,1783 658 316101,7279 288254,0106 659 316084,9670 288262,4412 660 316019,5325 288238,5922 661 316015,3309 288237,6327 662 316009,5146 288236,5043 663 315958,8113 288230,1595 664 315862,8021 288222,8820 665 315824,8383 288220,0045 666 315821,1467 288219,7240 667 315784,2327 288217,0585 668 315723,2053 288295,9700 669 315610,2448 288275,9293 670 315549,0361 288223,1697 671 315488,6632 288214,6931 672 315416,5039 288204,5605 673 315347,3901 288191,2343 674 315291,2719 288180,4126 675 315273,6089 288179,1746 676 315127,5087 288168,9427 677 315117,3536 288168,2322 678 315075,5192 288172,5923 679 315008,2393 288182,1514 680 314940,8119 288191,8138 681 314930,4111 288195,9784 682 314844,7178 288230,2825 683 314856,4999 288209,7881 684 314868,0106 288201,0677 685 314928,2106 288155,4587 686 314946,7450 288106,8546 687 314954,7434 288076,1550 688 314965,0961 288036,4198 689 314970,6144 288001,8075 690 314981,0839 287965,8898 691 314991,1886 287931,1935 692 314997,1893 287911,5901 693 314991,2900 287920,9371 694 314981,3317 287928,1031 695 314920,0729 287972,1812 696 314914,0415 287963,8776 697 314851,4424 287975,7007 698 314825,3887 287972,1720 699 314822,2480 287971,7469 700 314820,2063 287971,4706 701 314800,3407 287968,7794 702 314755,7455 287949,5610 703 314744,5439 287947,3563 704 314735,3136 287945,5398 705 314714,7046 287946,7358 706 314650,5756 287963,3892 707 314610,4788 287984,6401 708 314566,2429 288018,4025 709 314527,2368 288035,1152 710 314515,3871 288047,3766 711 314503,3633 288059,8181 712 314498,0569 288058,5177 713 314450,2422 288046,7960 714 314389,2979 288031,8558 715 314338,1726 288192,8706 716 314379,5339 288193,1492 717 314384,3888 288193,1819 718 314387,8939 288193,2064 719 314389,4708 288198,2139 720 314401,1373 288235,3062 721 314424,7682 288257,4318 722 314451,4004 288288,5552 723 314477,3823 288314,4583 724 314479,6361 288319,2567 725 314498,3477 288359,0934 726 314507,0435 288376,5547 727 314513,9351 288390,3950 728 314517,9521 288398,4591 729 314537,3088 288427,5509 730 314540,6359 288432,5439 731 314513,4906 288477,6777 732 314503,5005 288484,1300 733 314509,3403 288512,4436 734 314506,1689 288517,5349 735 314490,9718 288541,9031 736 314480,9673 288558,4631 737 314475,1633 288563,9805 738 314460,8007 288577,6499 739 314456,4805 288587,8857 740 314436,6537 288610,0165 741 314430,0746 288617,3729 742 314426,6564 288621,1985 743 314404,6240 288645,7981 744 314381,8492 288656,1016 745 314362,9298 288664,6744 746 314352,5505 288669,0234 747 314315,5073 288672,5010 748 314252,2600 288666,2043 749 314216,7722 288663,4436 750 314211,6942 288686,4755 751 314207,2194 288688,2255 752 314114,7900 288724,3501 753 314108,3256 288745,4117 754 314106,6892 288750,8215 755 314036,5605 288764,3804 756 314049,9094 288838,6736 757 314050,8075 288843,6974 758 314062,4482 288908,4919 759 313968,8116 288956,7460 760 313903,1323 289001,8040 761 313902,3192 289023,4359 762 314130,8904 294657,8311 763 314150,4304 294638,4734 764 314156,3132 294633,0769 765 314176,4031 294614,6429 766 314238,7278 294569,4077 767 314314,3994 294512,0206 768 314320,3468 294507,7332 769 314326,7662 294502,8815 770 314375,4902 294486,6327 771 314412,8406 294474,1777 772 314434,9518 294467,6139 773 314492,9409 294453,4950 774 314511,8051 294448,3514 775 314513,5428 294447,8783 776 314523,1008 294444,8084 777 314600,7395 294419,8197 778 314656,7841 294409,6812 779 314711,0417 294394,4962 780 314712,4742 294393,9166 781 314713,9069 294393,3361 782 314749,2717 294384,5563 783 314795,0497 294372,8990 784 314834,8647 294362,6252 785 314852,6322 294358,0408 786 314872,4353 294388,2294 787 314890,4865 294419,0016 788 314904,8051 294442,7389 789 314934,2849 294485,4766 790 314998,8134 294573,5569 791 315025,5121 294633,7281 792 315050,3871 294665,4415 793 315138,3303 294611,8115 794 315155,8428 294594,2079 795 315167,7355 294572,4899 796 315169,3452 294562,9063 797 315147,1346 294484,9082 798 315200,4257 294473,9176 799 315209,1224 294472,1246 800 315235,5314 294460,0343 801 315242,6718 294442,4164 802 315236,3158 294409,4353 803 315269,0356 294401,7584 804 315317,8630 294390,3070 805 315435,3496 294464,7733 806 315439,1466 294467,1848 807 315438,7145 294459,7670 808 315437,1744 294433,2771 809 315457,8418 294354,9258 810 315590,2655 294353,7809 811 315661,8247 294352,9320 812 315664,8352 294345,5664 813 315713,3483 294239,6848 814 315719,8998 294240,6403 815 315721,7634 294236,9579 816 315773,9004 294133,9169 817 315788,4290 294102,4524 818 315798,0300 294092,5094 819 315826,3805 294077,8774 820 315851,8739 294058,2935 821 315830,1580 294120,7922 822 315807,5276 294192,4825 823 315785,8669 294245,9568 824 315814,1570 294254,3044 825 315845,2640 294263,4928 826 315878,3607 294273,2699 827 315906,8945 294192,5449 828 315932,9103 294117,2850 829 315941,1995 294104,7810 830 315999,4200 294046,8707 831 316006,4724 294047,5096 832 316064,4399 293988,9318 833 316082,1859 293969,7020 834 316103,9346 293945,0769 835 316112,0068 293953,6570 836 316149,2067 293925,7459 837 316174,2415 293910,4064 838 316164,1807 293884,3916 839 316171,2534 293878,4073 840 316206,7924 293852,3342 841 316229,6450 293903,1748 842 316285,7725 293941,7162 843 316299,9108 293951,1647 844 316384,5096 293835,6195 845 316392,1844 293835,0389 846 316380,1893 293817,7589 847 316390,8092 293798,5508 848 316541,5247 293763,2002 849 316569,2463 293755,9072 850 316600,0083 293747,8146 851 316641,6637 293722,9570 852 316666,2478 293708,2872 853 316637,6311 293626,0282 854 316637,2512 293624,7502 855 316634,9595 293617,0795 856 316646,1876 293613,0081 857 316726,3679 293583,9377 858 316735,0780 293580,4602 859 316796,4115 293555,9764 860 316858,4496 293534,9086 861 316855,5946 293526,9839 862 316838,6649 293480,0017 863 316786,0907 293446,8579 864 316766,1042 293411,0835 865 316763,5750 293406,6516 866 316742,5308 293370,6498 867 316740,2943 293367,2686 868 316751,8184 293361,8567 869 316774,3976 293361,9500 870 316826,3768 293342,2584 871 316855,6172 293325,6686 872 316880,7421 293313,7297 873 316922,8909 293268,5785 874 310542,3264 289406,5901 875 310534,3812 289405,5375 876 310524,5856 289408,0248 877 310532,4397 289496,5977 878 310523,8944 289550,4141 879 310517,1299 289593,0155 880 310509,4181 289641,5776 881 310484,1663 289706,6549 882 310474,2478 289763,0415 883 310483,0656 289777,9202 884 310483,6718 289804,3190 885 310505,6560 289793,0283 886 310605,6659 289836,4633 887 310604,8130 289838,2902 888 310557,7386 289962,6386 889 310496,3468 290124,2574 890 310499,5334 290158,6085 891 310503,5680 290175,0376 892 310508,8058 290192,4794 893 310509,7212 290195,5310 894 310520,8419 290212,6881 895 310518,6843 290229,7111 896 310508,0244 290216,1000 897 310479,0985 290190,3075 898 310466,9282 290183,7252 899 310412,9379 290154,5259 900 310395,5411 290145,1973 901 310383,8368 290137,6862 902 306814,1318 292856,0714 903 306822,9833 292863,7073 904 306831,0761 292878,0587 905 306920,2950 292895,9429 906 306928,1963 292899,4972 907 306934,6218 292902,3868 908 306938,9226 292917,6978 909 306936,5060 292928,4067 910 306924,4464 292941,9686 911 306866,0476 292974,9076 912 306822,5850 293002,1266 913 306806,7786 293013,9148 914 306774,5861 293056,6770 915 306776,1394 293062,5303 916 306784,0293 293061,1724 917 306794,6605 293044,7946 918 306806,2911 293034,1470 919 306838,1775 293021,5447 920 306894,3141 293018,5679 921 306914,6344 293021,9031 922 306975,7693 293043,1173 923 306990,1257 293042,5172 924 307022,3213 293029,3669 925 307049,8822 293018,1091 926 307071,0596 293015,5656 927 307074,0405 293020,9845 928 307062,4755 293035,0308 929 307039,0544 293064,9642 930 313853,9517 289032,5916 931 313846,5031 289034,0057 932 313844,1263 289034,4501 933 313790,3910 289036,0414 934 313773,9813 289128,8926 935 313752,0831 289226,5863 936 313750,4498 289233,8495 937 313742,4340 289231,8395 938 313657,3518 289201,2433 939 313525,3593 289232,4354 940 313476,4376 289233,1768 941 313427,3337 289231,2732 942 313384,4261 289233,0457 943 313381,8262 289232,4180 944 313347,3153 289224,0929 945 313314,5688 289215,5752 946 313308,4567 289213,9860 947 313277,7837 289199,7913 948 313261,4652 289233,8608 949 313233,6206 289272,6735 950 313199,1456 289303,0863 951 313194,2858 289307,3738 952 313163,5626 289291,9205 953 313117,2512 289290,7195 954 313096,4404 289284,5089 955 313078,8840 289279,3766 956 312982,3096 289261,3142 957 312917,9316 289254,6563 958 312841,7953 289270,5128 959 312810,6124 289271,9792 960 312658,1255 289355,3523 961 312624,1901 289402,7932 962 312609,7753 289422,9445 963 312572,0010 289453,8447 964 312554,4178 289474,0728 965 312549,4944 289479,7366 966 312508,5867 289553,3632 967 312482,6334 289600,0759 968 312467,6788 289626,9897 969 312442,1281 289638,0233 970 312406,5378 289653,3905 971 312376,6801 289725,6563 972 312358,6209 289745,0181 973 312348,6154 289755,7455 974 312307,3553 289799,9884 975 312294,6874 289804,0066 976 312277,8856 289803,5366 977 312264,9628 289803,1761 978 312259,9564 289803,0430 979 312260,7705 289820,4224 980 312246,6188 289841,8926 981 312220,6809 289840,9341 982 312214,1304 289832,0365 983 312205,0270 289824,9894 984 312194,6436 289819,2520 985 312187,6405 289815,3801 986 312197,9061 289784,4584 987 312230,9424 289691,5857 988 312238,6162 289676,1346 989 312265,9673 289621,0680 990 312274,8710 289594,2822 991 312277,0715 289577,0073 992 312232,6483 289570,5161 993 312225,7139 289569,5024 994 312183,5710 289604,9523 995 312119,3151 289658,9857 996 312108,9768 289718,9193 997 312095,6249 289746,4598 998 312087,6377 289762,9330 999 312086,9352 289763,9631 1000 312062,7914 289799,3945 1001 312056,3975 289822,3229 1002 312036,3312 289870,5502 1003 312028,0880 289890,3462 1004 311969,1005 289952,9484 1005 311952,9755 289974,3684 1006 311926,4498 290004,1750 1007 311924,2502 290002,2837 1008 311896,3995 289978,2494 1009 311894,4867 290011,3962 1010 311890,0128 290027,6185 1011 311881,7573 290041,6002 1012 311871,4672 290051,3036 1013 311845,1667 290070,3910 1014 311813,9061 290091,4639 1015 311773,9762 290118,1012 1016 311748,7274 290136,9366 1017 311735,2977 290149,8810 1018 311714,5371 290174,3782 1019 311690,5325 290202,2893 1020 311681,1066 290215,2982 1021 311676,9635 290221,0101 1022 311666,0415 290240,2593 1023 311644,6061 290279,0238 1024 311625,6047 290315,3615 1025 311606,2942 290350,3772 1026 311590,3546 290380,8463 1027 311579,2903 290398,3792 1028 311556,1376 290431,9879 1029 311547,4347 290449,5680 1030 311535,4170 290481,3550 1031 311522,2842 290512,8839 1032 311519,2000 290520,2894 1033 311505,7087 290548,8457 1034 311499,7900 290561,3734 1035 311483,1244 290600,6263 1036 311472,4502 290628,6615 1037 311467,6190 290652,5923 1038 311465,5023 290667,3840 1039 311452,5969 290670,8411 1040 311446,6055 290659,0875 1041 311444,2196 290654,4078 1042 311440,3160 290628,1975 1043 311435,0056 290580,7936 1044 311420,8119 290519,4785 1045 311398,7366 290437,3270 1046 311386,9196 290374,2559 1047 311328,4082 290297,4098 1048 311278,8722 290253,2538 1049 311241,0344 290225,2178 1050 311206,9464 290209,9581 1051 311141,3132 290156,7745 1052 311057,1445 290068,7997 1053 311042,5422 290039,7775 1054 311025,0605 290005,3936 1055 311006,8353 289975,3341 1056 310989,8278 289960,9019 1057 310927,2112 289887,7893 1058 310870,4846 289845,6312 1059 310865,0758 289835,8171 1060 310862,7749 289833,8889 1061 310768,6304 289713,5127 1062 310736,7943 289660,8770 1063 310720,3590 289611,9431 1064 310706,9016 289512,3571 1065 310675,8274 289434,2863 1066 310641,8418 289423,9214 1067 310630,7908 289422,4355 1068 310619,0271 289420,8422 1069 310564,7131 289409,4420 1070 310341,8560 290110,7459 1071 310296,1578 290112,8757 1072 310292,0864 290104,2404 1073 310262,1897 290093,7822 1074 310150,3423 290052,7987 1075 310146,8997 290051,4757 1076 310061,8502 290022,8691 1077 310037,8170 290014,7867 1078 310021,9081 290013,3839 1079 310002,2872 290009,0759 1080 309958,7406 289986,9412 1081 309946,9329 289973,0762 1082 309946,3472 289963,2816 1083 309953,8931 289938,1486 1084 309919,2235 289966,6619 1085 309902,3029 289976,4032 1086 309885,3833 289986,1455 1087 309842,0978 289995,3727 1088 309825,1649 289992,5916 1089 309808,0120 289986,8961 1090 309748,1980 289962,4501 1091 309642,7352 289897,9391 1092 309633,8378 289893,6168 1093 309626,6697 289891,8505 1094 309616,1543 289890,5090 1095 309542,3546 289895,7396 1096 309497,7604 289900,5463 1097 309422,7340 289910,0562 1098 309412,5104 289922,1997 1099 309391,3955 289935,9940 1100 309381,5261 289956,5591 1101 309390,9111 290017,0129 1102 309400,3452 290030,8021 1103 309419,3845 290034,1075 1104 309449,1880 290058,1829 1105 309457,4456 290074,9489 1106 309454,1176 290141,8529 1107 309448,1639 290142,7601 1108 309442,3702 290143,6510 1109 309483,8381 290201,3114 1110 309491,6840 290223,1523 1111 309462,5112 290270,0198 1112 309461,7494 290271,2434 1113 309448,2183 290293,0731 1114 309445,2148 290297,7988 1115 309393,1803 290279,9711 1116 309401,5627 290300,3947 1117 309416,4292 290363,7198 1118 309424,9407 290402,9954 1119 309415,2260 290393,9965 1120 309406,5854 290392,1359 1121 309401,7153 290386,7671 1122 309388,8160 290372,5458 1123 309372,7330 290372,9390 1124 309364,1765 290357,1622 1125 309354,0891 290328,5885 1126 308630,4314 289172,8417 1127 308444,1924 288991,4615 1128 308435,1290 288982,6357 1129 308413,2421 288944,9064 1130 308416,4410 288925,6705 1131 308409,0856 288923,0093 1132 308419,1116 288891,7660 1133 308416,3928 288888,6407 1134 308376,8757 288843,7404 1135 308354,7593 288792,5004 1136 308352,9213 288788,2416 1137 308356,6025 288783,1144 1138 308366,8169 288768,4712 1139 308356,7029 288757,2533 1140 308343,6079 288732,6149 1141 308327,9971 288703,6438 1142 308312,4343 288668,2390 1143 308295,7719 288631,2480 1144 308278,3586 288609,6058 1145 308266,7137 288566,0858 1146 308261,8794 288522,8434 1147 308219,9108 288467,3579 1148 308206,0223 288473,3042 1149 308186,7219 288444,1079 1150 308183,8578 288439,1855 1151 308145,4342 288436,9061 1152 308131,6881 288422,4821 1153 308112,5916 288429,4904 1154 308089,2310 288433,2423 1155 308054,6997 288432,5911 1156 308044,4012 288452,5795 1157 308044,5006 288455,6260 1158 308045,5594 288487,9945 1159 307992,4988 288487,0033 1160 307991,4902 288486,9839 1161 307965,8350 288486,4463 1162 307941,7279 288486,4493 1163 307938,4808 288462,6239 1164 307888,2239 288455,5726 1165 307887,9924 288444,6558 1166 307885,4171 288435,8843 1167 307861,4780 288434,5417 1168 307843,4382 288427,7137 1169 307829,8887 288414,7438 1170 307814,2512 288405,4192 1171 307803,0793 288384,0422 1172 307800,6084 288373,4857 1173 307779,3911 288355,5637 1174 307761,4108 288336,8900 1175 307756,8529 288351,7268 1176 307748,5759 288364,0393 1177 307743,6986 288386,5592 1178 307747,4219 288418,6022 1179 307757,9568 288462,1171 1180 307753,4327 288513,1737 1181 307732,1438 288515,2258 1182 307715,1750 288516,8611 1183 307691,7183 288519,1252 1184 307685,1360 288519,7611 1185 307655,6541 288520,6326 1186 307637,9696 288521,3063 1187 307626,7301 288522,4174 1188 307609,2157 288525,9666 1189 307610,1117 288509,5333 1190 307589,9552 288491,9574 1191 307560,2705 288478,3721 1192 307556,1744 288425,1844 1193 307555,4996 288416,4241 1194 307553,7671 288393,9391 1195 307567,3771 288373,6373 1196 307576,0554 288345,0564 1197 307569,2919 288297,0431 1198 307568,3652 288291,1008 1199 307565,5861 288276,4525 1200 307543,3724 288250,6692 1201 307533,0085 288214,8425 1202 307512,7323 288183,2061 1203 307501,0444 288166,4268 1204 307474,9385 288135,5236 1205 307465,7727 288099,6190 1206 307455,0392 288086,4904 1207 307438,4697 288075,1956 1208 307423,7539 288079,0059 1209 307421,5338 288102,0326 1210 307421,2820 288107,1024 1211 307419,2175 288119,7600 1212 307399,2864 288123,7844 1213 307367,0980 288130,8828 1214 307335,6193 288137,6289 1215 307317,1217 288141,7290 1216 307314,4224 288142,7540 1217 307306,3789 288147,5269 1218 307293,2533 288154,1890 1219 307273,4092 288159,0509 1220 307243,3015 288173,5262 1221 307222,4232 288186,5730 1222 307205,8938 288209,4666 1223 307174,7191 288265,5991 1224 307138,6251 288323,7357 1225 307111,8926 288340,8867 1226 307108,6466 288357,9937 1227 307111,2506 288376,2976 1228 307108,5461 288384,8143 1229 307106,3978 288384,2614 1230 307103,0330 288395,6708 1231 307124,5328 288440,5127 1232 307104,3489 288451,1561 1233 307031,5260 288484,4238 1234 307014,9158 288468,9481 1235 307005,3464 288463,3110 1236 306987,5831 288452,8478 1237 306947,8837 288535,1447 1238 306910,9449 288590,2573 1239 306950,2634 288639,6438 1240 306978,6549 288663,6730 1241 307017,8054 288680,2444 1242 307008,4460 288738,2151 1243 306996,0454 288749,8263 1244 306981,8600 288758,4421 1245 306952,0012 288771,5996 1246 306904,2551 288798,4612 1247 306905,3427 288803,4788 1248 306911,5481 288832,0339 1249 306910,5455 288836,2611 1250 306904,8583 288860,2319 1251 306900,3004 288881,6826 1252 306898,6937 288889,2428 1253 306880,3979 288946,8029 1254 306863,3719 288980,6758 1255 306909,3250 288998,3490 1256 306912,2465 288999,4734 1257 306917,4729 288995,1582 1258 306922,3000 288991,1759 1259 306963,0082 288953,5920 1260 306997,4995 288928,3258 1261 307031,0120 288904,3909 1262 307034,8376 288907,5591 1263 307055,1855 288924,4111 1264 307112,5941 288971,0502 1265 307100,8284 289010,3103 1266 307109,0704 289058,8777 1267 307106,5371 289094,2979 1268 307104,8240 289099,6892 1269 307100,2355 289114,1215 1270 307071,3423 289111,7836 1271 307050,0082 289108,0399 1272 307026,6969 289108,8888 1273 307009,7107 289118,4427 1274 307006,8180 289121,2740 1275 306994,7982 289132,6128 1276 306991,0105 289148,6998 1277 306983,8496 289179,1096 1278 306950,1241 289238,7729 1279 306921,9622 289289,1987 1280 306906,8960 289328,4814 1281 306892,0050 289353,2244 1282 306892,4381 289355,8817 1283 306894,8446 289370,7716 1284 306865,9452 289399,2429 1285 306787,7588 289422,2430 1286 306787,0717 289434,8085 1287 306786,8361 289439,1176 1288 306718,4697 289442,8745 1289 306705,8971 289523,4807 1290 306678,8225 289539,6211 1291 306664,8849 289562,8444 1292 306668,2927 289565,9379 1293 306679,9152 289576,0980 1294 306653,5216 289605,3107 1295 306646,0289 289601,7727 1296 306641,3329 289599,7299 1297 306636,1064 289597,3429 1298 306632,4722 289595,6564 1299 306624,0682 289591,8594 1300 306619,3261 289587,7368 1301 306616,7917 289585,4052 1302 306615,7861 289584,2665 1303 306612,6537 289580,4233 1304 306605,4274 289570,6871 1305 306603,0773 289565,2887 1306 306598,9730 289569,6581 1307 306595,6389 289572,7537 1308 306589,2809 289552,0852 1309 306588,9164 289542,4995 1310 306587,9917 289518,2307 1311 306585,5751 289508,1116 1312 306581,9246 289504,0054 1313 306571,9056 289490,7261 1314 306521,7881 289445,7111 1315 306464,2976 289451,3727 1316 306422,4048 289455,4984 1317 306412,9614 289478,4821 1318 306405,4985 289479,0955 1319 306402,7357 289473,2997 1320 306398,3735 289466,5740 1321 306395,1582 289460,6737 1322 306394,6309 289454,6976 1323 306395,2308 289444,4658 1324 306395,5677 289438,6229 1325 306395,6088 289425,5680 1326 306391,7175 289422,0485 1327 306390,2778 289416,9714 1328 306390,1600 289410,0328 1329 306389,5917 289398,6071 1330 306388,0598 289395,3435 1331 306368,6079 289353,6586 1332 306355,9471 289365,2493 1333 306344,9248 289384,7513 1334 306336,2751 289395,7255 1335 306318,3173 289410,9626 1336 306286,6223 289428,6901 1337 306260,6772 289437,4259 1338 306242,4562 289444,6184 1339 306221,6199 289460,6154 1340 306196,8954 289481,8254 1341 306182,9342 289498,5382 1342 306175,3607 289517,3511 1343 306169,6447 289539,8566 1344 306168,5562 289544,1420 1345 306162,1777 289570,1199 1346 306154,2314 289605,4694 1347 306145,4342 289640,1655 1348 306127,2542 289673,8951 1349 306132,4070 289676,7950 1350 306169,3784 289694,0239 1351 306191,2203 289711,1257 1352 306210,5350 289731,1981 1353 306213,3644 289734,2251 1354 306222,7903 289744,3085 1355 306256,9366 289765,5779 1356 306265,5146 289768,8435 1357 306275,7271 289772,7316 1358 306276,0906 289772,8821 1359 306279,9530 289774,4703 1360 306316,6420 289788,7469 1361 306284,7556 289849,9146 1362 306312,7477 292153,9003 1363 306311,1820 292160,1517 1364 306312,4026 292166,5466 1365 306312,8511 292168,9070 1366 306313,5413 292172,5421 1367 306314,0850 292175,3960 1368 306314,6298 292178,2499 1369 306336,2782 292194,5161 1370 306337,8326 292202,3201 1371 306339,5048 292210,6708 1372 306331,3661 292240,4467 1373 306378,8540 292276,6665 1374 306383,2418 292283,9216 1375 306376,1312 292322,9851 1376 306374,9648 292326,9337 1377 306388,6824 292326,4043 1378 306397,2440 292317,7526 1379 306400,3130 292314,4655 1380 306399,6279 292346,5986 1381 306404,3127 292380,5729 1382 306404,2011 292405,7848 1383 306406,4426 292410,9058 1384 306411,8914 292429,6716 1385 306413,7377 292442,9580 1386 306415,1241 292456,9294 1387 306413,8462 292482,2981 1388 306406,2737 292501,5134 1389 306396,3450 292515,7317 1390 306391,6254 292530,1752 1391 306394,2786 292534,3931 1392 306393,8833 292538,3763 1393 306393,2771 292544,5972 1394 306407,1656 292548,8734 1395 306417,8593 292550,4780 1396 306424,8153 292545,1583 1397 306435,2560 292553,7333 1398 306451,0317 292569,4138 1399 306466,1306 292576,8839 1400 306478,8969 292582,0653 1401 306488,6719 292608,3575 1402 306494,6736 292620,8032 1403 306511,7672 292644,3757 1404 306530,5413 292652,6405 1405 306516,6210 292674,5028 1406 306504,4866 292697,8306 1407 306503,9100 292707,5411 1408 306510,1083 292726,9235 1409 306505,9109 292739,5187 1410 306492,7024 292745,7743 1411 306478,9368 292745,1046 1412 306484,2421 292758,9736 1413 306480,4430 292764,1541 1414 306455,9019 292747,7660 1415 306390,0177 292721,5291 1416 306368,4635 292706,6370 1417 306370,2053 292728,3704 1418 306383,8696 292743,0688 1419 306412,0439 292753,4205 1420 306422,6946 292766,7714 1421 306418,7460 292787,6426 1422 306396,3317 292797,6378 1423 306373,8539 292801,4829 1424 306361,8413 292814,3024 1425 306359,2168 292823,1375 1426 306356,6179 292855,8287 1427 306354,9713 292857,2316 1428 306354,5115 292880,2828 1429 306358,3474 292887,1354 1430 309311,9259 295852,5995 1431 309253,3490 295933,8539 1432 309258,1003 296003,4961 1433 309258,1649 296004,0020 1434 309262,5026 296037,6987 1435 309272,0514 296067,9088 1436 309263,2562 296103,2952 1437 309295,6392 296118,3859 1438 309323,4449 296175,7340 1439 309360,6140 296263,7980 1440 309363,6902 296272,3463 1441 309364,0291 296273,2894 1442 309373,1058 296298,5177 1443 309366,6260 296350,3373 1444 309366,6741 296406,1534 1445 309359,8297 296452,6830 1446 309342,3920 296505,9453 1447 309338,3010 296550,9880 1448 309337,9253 296574,1078 1449 309345,2592 296591,0837 1450 309397,7924 296642,6554 1451 309420,4392 296672,6566 1452 309429,2681 296679,8820 1453 309444,5431 296685,3060 1454 309502,2384 296697,3032 1455 309522,2279 296704,2336 1456 309540,8698 296710,6982 1457 309650,9436 296726,8866 1458 309687,4042 296737,6980 1459 309718,3239 296739,2914 1460 309750,5409 296779,7035 1461 309760,6406 296792,3734 1462 309827,5652 296826,3180 1463 309869,2430 296836,9973 1464 309907,3584 296845,0460 1465 309963,4100 296853,1632 1466 309992,9351 296846,9270 1467 310043,2892 296836,3174 1468 310050,8843 296832,3524 1469 313889,6708 294193,2341 1470 313862,6771 294123,4874 1471 313847,8230 294138,1971 1472 313821,9404 294166,1462 1473 313807,2408 294163,4153 1474 313698,3313 294140,5780 1475 313687,7217 294136,5291 1476 313682,6302 294115,7828 1477 313681,0123 294109,1709 1478 313701,1821 294041,6196 1479 313696,7605 293991,4170 1480 313692,1156 293938,6820 1481 313697,9218 293889,3550 1482 313733,9594 293850,5884 1483 313780,0209 293801,0380 1484 313861,8794 293828,9133 1485 313879,5465 293826,7086 1486 313893,1268 293825,0139 1487 313899,5432 293824,2131 1488 313887,4539 293877,9579 1489 314011,0568 293863,7539 1490 314075,4623 293870,0291 1491 314106,4312 293892,9871 1492 314158,6624 293961,1517 1493 314160,3314 293971,3026 1494 314170,5233 294006,7043 1495 314155,6641 294039,4396 1496 314131,3185 294076,1930 1497 314125,4202 294122,2811 1498 314124,4382 294131,7747 1499 314075,0803 294115,4255 1500 314070,9690 294117,6445 1501 314061,8810 294117,1888 1502 314050,9016 294109,9808 1503 313996,5139 294095,2588 1504 314014,8845 294157,6522 1505 314009,1859 294237,5447 1506 313990,6925 294219,7485 1507 313967,3125 294212,9686 1508 313943,4851 294221,5876 1509 313924,4192 294238,5093 1510 313889,6708 294193,2341 1511 311230,3490 293736,9919 1512 311208,6145 293598,4836 1513 311233,9841 293579,3840 1514 311249,7681 293556,3727 1515 311259,5657 293531,6083 1516 311282,7275 293472,0258 1517 311251,1648 293432,6714 1518 311206,4283 293455,5885 1519 311176,4180 293456,5081 1520 311168,4379 293438,1539 1521 311144,6278 293383,3904 1522 311131,7859 293355,6738 1523 311118,2424 293332,3706 1524 311095,9397 293294,5062 1525 311083,3281 293266,1619 1526 311067,8002 293273,8173 1527 311058,6713 293278,3177 1528 311037,1488 293294,0730 1529 311029,5958 293299,6016 1530 311024,9591 293284,9747 1531 310993,0277 293188,4843 1532 310949,0326 293195,4629 1533 310914,1479 293227,9247 1534 310906,0564 293213,5938 1535 310894,2271 293185,9458 1536 310873,6672 293136,3237 1537 310888,7753 293130,6754 1538 310889,3784 293130,4501 1539 310898,1060 293133,8079 1540 310902,1426 293133,6133 1541 310909,3126 293133,2671 1542 310920,2255 293127,8031 1543 310926,1421 293130,2095 1544 310931,3993 293136,4661 1545 310938,0543 293141,0925 1546 310946,5750 293147,0154 1547 310947,8898 293144,2833 1548 310972,9225 293092,3634 1549 311090,3047 293107,8750 1550 311101,9250 293001,4087 1551 311144,4855 293002,2965 1552 311164,6154 293003,3390 1553 311164,3081 293023,8834 1554 311170,9088 293015,2440 1555 311219,1730 292955,7496 1556 311236,1704 292934,7975 1557 311239,2352 292931,7203 1558 311240,2101 292930,6913 1559 311315,5447 292851,1490 1560 311325,7130 292851,9508 1561 311329,5991 292852,0992 1562 311356,5652 292854,2753 1563 311366,2480 292855,0566 1564 311373,1929 292855,6167 1565 311392,0775 292857,1865 1566 311402,5796 292836,1023 1567 311411,2089 292830,8799 1568 311410,1951 292825,0104 1569 311418,7476 292817,3303 1570 311420,4719 292811,0952 1571 311424,0447 292807,0023 1572 311428,0096 292797,5457 1573 311443,5673 292776,8732 1574 311480,0544 292760,1573 1575 311486,0889 292757,3926 1576 311533,9762 292735,4534 1577 311491,6031 292700,0250 1578 311490,4111 292699,0277 1579 311472,4779 292686,6649 1580 311465,2003 292681,6483 1581 311460,3650 292678,3142 1582 311422,5548 292652,2483 1583 311379,2201 292633,5510 1584 311374,8896 292631,6832 1585 311353,4419 292622,4293 1586 311360,1819 292614,9050 1587 311365,4453 292609,0304 1588 311390,5978 292581,1581 1589 311403,1971 292567,6311 1590 311413,3132 292555,9226 1591 311431,7554 292535,4314 1592 311449,6959 292514,2550 1593 311462,1017 292499,6129 1594 311480,0533 292468,5007 1595 311552,3396 292502,2732 1596 311547,3998 292509,0706 1597 311541,5599 292518,7177 1598 311537,9657 292530,4220 1599 311538,0149 292530,4220 1600 311540,9415 292530,2601 1601 311554,9825 292529,5198 1602 311558,2286 292529,3478 1603 311558,3085 292529,3457 1604 311592,0176 292527,2968 1605 311615,3176 292526,0546 1606 311618,6036 292525,8805 1607 311638,6967 292520,6182 1608 311643,9692 292519,3423 1609 311676,6133 292526,4192 1610 311719,2947 292538,7235 1611 311728,0068 292541,2507 1612 311792,3438 292559,9100 1613 311799,4604 292561,9775 1614 311801,4194 292562,5459 1615 311858,7460 292536,9121 1616 311882,7455 292527,0878 1617 311897,2474 292520,2618 1618 311901,3936 292511,1687 1619 311915,3005 292478,9834 1620 311987,8109 292442,4614 1621 312012,1464 292429,2958 1622 312021,3408 292417,2146 1623 312040,6525 292444,8585 1624 312042,9462 292448,1375 1625 312059,2872 292450,2561 1626 312062,4913 292450,6656 1627 312066,9713 292451,2462 1628 312088,4609 292427,0758 1629 312089,4451 292425,9043 1630 312095,5665 292418,5613 1631 312111,9935 292398,1805 1632 312116,0424 292395,8724 1633 312144,6233 292379,6237 1634 312160,3120 292376,5516 1635 312196,3721 292369,5004 1636 312227,0338 292440,7913 1637 312294,3577 292410,5249 1638 312323,9728 292490,8925 1639 312331,9098 292508,2688 1640 312333,4663 292511,6818 1641 312335,0894 292515,2513 1642 312339,1146 292518,2661 1643 312370,4603 292541,7628 1644 312401,8418 292551,4130 1645 312415,6720 292560,5430 1646 312425,0098 292569,3135 1647 312434,8320 292578,5387 1648 312450,1367 292651,3717 1649 312455,5670 292723,1930 1650 312456,1671 292784,8030 1651 312460,7986 292839,1252 1652 312464,4861 292872,2096 1653 312380,2784 292830,0023 1654 312377,9816 292828,8545 1655 312375,6949 292827,7056 1656 312369,4978 292824,9786 1657 312297,5802 292788,7587 1658 312294,9987 292787,4592 1659 312199,9940 292766,2174 1660 312197,0828 292765,5682 1661 312196,0148 292765,3317 1662 312147,3829 292781,7290 1663 312129,4528 292789,8831 1664 312125,8768 292791,3556 1665 312125,8390 292791,3668 1666 312124,1924 292791,8481 1667 312113,7261 292827,8182 1668 312106,7803 292851,6918 1669 312106,0399 292854,1063 1670 312104,9832 292857,5500 1671 312069,7515 292942,5399 1672 312067,7761 292947,1827 1673 312041,2474 293014,5753 1674 312006,3229 293100,1366 1675 312003,2478 293107,6753 1676 311968,4686 293159,2419 1677 311954,1746 293178,4666 1678 311950,0275 293182,7375 1679 311940,8370 293193,0493 1680 311935,3647 293205,9241 1681 311931,2094 293215,7002 1682 311933,8903 293297,4318 1683 311959,0970 293375,5814 1684 311971,8386 293445,7213 1685 311973,0807 293452,6025 1686 311965,0966 293537,4675 1687 311910,1139 293514,6846 1688 311897,9561 293509,3793 1689 311812,7120 293482,3026 1690 311731,2231 293475,8218 1691 311642,6195 293476,4392 1692 311574,5082 293505,3693 1693 311511,6008 293501,3879 1694 311458,5688 293512,0898 1695 311530,9524 293595,5243 1696 311436,6163 293721,7354 1697 311364,5503 293756,4520 1698 311338,6830 293764,4536 1699 311331,0051 293766,8252 1700 311285,4218 293780,9257 1701 311263,6975 293780,3655 1702 306281,5085 289869,2323 1703 306215,8363 289993,1639 1704 306211,2437 290004,6062 1705 306203,0026 290025,1445 1706 306193,3217 290064,4877 1707 306191,8030 290070,6603 1708 306193,3523 290106,1132 1709 306224,5137 290136,8496 1710 306251,8258 290155,4720 1711 306263,2485 290164,5027 1712 306267,5391 290167,8953 1713 306271,0985 290176,1364 1714 306270,7145 290188,8125 1715 306271,0105 290217,7631 1716 306272,8865 290226,5469 1717 306275,6758 290230,9716 1718 306275,8293 290233,6616 1719 306276,2502 290241,0365 1720 306277,7853 290243,0989 1721 306305,2622 290265,0667 1722 306328,2008 290275,9631 1723 306336,6324 290280,0806 1724 306352,8331 290280,9049 1725 306373,8037 290280,6991 1726 306397,4591 290276,1372 1727 306413,6055 290271,0509 1728 306448,9622 290253,2610 1729 306451,9185 290251,7742 1730 306482,3763 290236,4490 1731 306501,8262 290218,6857 1732 306522,3789 290168,9971 1733 306527,3750 290133,0188 1734 306530,2494 290095,4370 1735 306531,9348 290074,1971 1736 306539,4480 290052,8048 1737 306545,7527 290038,4934 1738 306550,0228 290034,1537 1739 306554,2939 290029,8130 1740 306563,5918 290029,0122 1741 306578,4860 290033,4675 1742 306589,8625 290046,3362 1743 306588,5529 290076,4070 1744 306586,7783 290111,9583 1745 306586,7762 290111,9940 1746 306586,6892 290112,5347 1747 306580,1704 290152,7738 1748 306571,6118 290184,5619 1749 306561,2939 290213,1837 1750 306554,3246 290225,7256 1751 306522,3983 290279,5511 1752 306520,6289 290290,1598 1753 306525,3024 290300,1069 1754 306553,1450 290331,2366 1755 306563,9768 290338,4537 1756 306567,3561 290340,7054 1757 306584,7477 290343,4426 1758 306598,3740 290339,9753 1759 306614,6342 290341,7069 1760 306622,3776 290352,2889 1761 306625,9883 290363,7793 1762 306631,7155 290379,6052 1763 306658,6743 290409,6422 1764 306683,6497 290445,0326 1765 306674,2013 290455,0812 1766 306658,2821 290476,0649 1767 306679,3130 290497,9243 1768 306696,8091 290510,0709 1769 306715,2432 290518,6276 1770 306739,0789 290527,8159 1771 306778,0389 290550,0940 1772 306798,2230 290581,3331 1773 306817,2080 290597,9045 1774 306843,5554 290622,1591 1775 306860,2651 290648,4851 1776 306876,7566 290664,3243 1777 306892,5610 290673,2526 1778 306903,3519 290676,0460 1779 306949,5242 290681,0544 1780 306953,8567 290680,4021 1781 306993,9801 290674,3625 1782 306989,3208 290699,0656 1783 306981,9430 290730,5269 1784 306975,6238 290728,3837 1785 306961,6134 290714,1266 1786 306943,7733 290689,0764 1787 306918,5154 290683,3348 1788 306912,6058 290682,7594 1789 306901,7842 290690,1700 1790 306886,4242 290693,6731 1791 306877,1315 290695,7928 1792 306865,1301 290689,4962 1793 306849,2950 290694,1974 1794 306706,2135 290736,6791 1795 306728,0831 290769,0354 1796 306715,8084 290837,0710 1797 306712,5951 290855,2081 1798 306711,9080 290859,1403 1799 306709,2548 290874,1082 1800 306707,7239 290914,0186 1801 306705,7865 290964,3062 1802 306648,9432 290967,7037 1803 306604,7883 290980,4976 1804 306574,4144 290992,2101 1805 306570,9963 290993,5270 1806 306541,0853 291005,0552 1807 306537,3590 291006,5021 1808 306528,4460 291009,9468 1809 306524,6880 291011,3999 1810 306510,5446 291016,8629 1811 306495,7159 291060,8508 1812 306486,3556 291085,5426 1813 306484,1356 291099,5970 1814 306475,1254 291142,4852 1815 306461,1294 291141,5206 1816 306457,8567 291153,2771 1817 306468,6875 291159,5420 1818 306471,0591 291171,3927 1819 306494,7821 291180,1151 1820 306512,0815 291166,1990 1821 306559,0063 291124,3563 1822 306557,2748 291132,3138 1823 306555,5647 291139,0292 1824 306552,8490 291151,3285 1825 306552,7528 291180,8422 1826 306554,6851 291204,2303 1827 306611,1157 291188,3204 1828 306615,9817 291186,5879 1829 306629,8630 291181,6420 1830 306645,5968 291176,4789 1831 306667,8043 291139,4020 1832 306691,1228 291158,2896 1833 306776,0759 291182,3915 1834 306769,2151 291209,5858 1835 306761,4255 291236,8386 1836 306768,1399 291236,2784 1837 306798,0417 291233,7727 1838 306800,9182 291232,9719 1839 306835,5570 291223,2961 1840 306861,4591 291216,0637 1841 306889,3877 291199,7544 1842 306889,3436 291242,1296 1843 306903,7462 291240,4390 1844 306940,8816 291236,0859 1845 306974,8231 291235,4347 1846 306981,3070 291194,9078 1847 307015,4595 291191,4396 1848 307026,9263 291192,9509 1849 307040,8527 291194,7860 1850 307061,3961 291192,4431 1851 307082,3964 291191,5962 1852 307103,6207 291192,1522 1853 307112,5347 291194,6211 1854 307126,1437 291198,3905 1855 307140,4520 291211,9072 1856 307144,9248 291216,1190 1857 307164,5314 291234,6514 1858 307168,1594 291238,0786 1859 307182,9541 291247,6500 1860 307191,0079 291261,7321 1861 307201,7230 291280,6331 1862 307207,0735 291309,0153 1863 307219,8223 291338,5669 1864 307233,2694 291371,8868 1865 307196,3174 291385,9474 1866 307174,9485 291419,7465 1867 307155,0757 291466,2034 1868 307143,7728 291466,8873 1869 307167,9320 291487,9982 1870 307170,9457 291490,6248 1871 307160,5029 291518,1406 1872 307175,3202 291533,2220 1873 307204,5708 291561,3667 1874 307203,3235 291562,1163 1875 307201,4363 291563,8253 1876 307173,0132 291586,0820 1877 307172,2195 291587,1613 1878 307146,0042 291622,7986 1879 307148,0951 291667,8484 1880 307191,0161 291679,5896 1881 307197,9916 291651,8719 1882 307267,0573 291649,4409 1883 307283,4945 291648,8573 1884 307274,0646 291666,5275 1885 307266,3119 291677,0439 1886 307240,6719 291711,8374 1887 307202,1132 291755,7280 1888 307199,1774 291758,4509 1889 307179,2504 291776,9597 1890 307162,3246 291793,8947 1891 307138,5586 291776,0729 1892 307109,3306 291757,8907 1893 307100,6399 291756,0516 1894 307082,4680 291755,5406 1895 307045,7720 291754,7778 1896 307016,8746 291756,7633 1897 306994,0200 291764,5201 1898 306971,3958 291731,0569 1899 306965,3838 291722,4521 1900 306889,7911 291614,2011 1901 306862,3234 291626,3845 1902 306834,6088 291638,6859 1903 306802,3948 291627,7004 1904 306780,5662 291628,6149 1905 306741,3501 291638,0951 1906 306739,3071 291633,5372 1907 306704,1830 291555,1726 1908 306663,7432 291542,8262 1909 306660,5093 291531,2550 1910 306631,2957 291540,6849 1911 306617,7942 291553,5505 1912 306607,6617 291593,4773 1913 306602,7905 291596,0302 1914 306600,5071 291597,2220 1915 306564,9978 291615,8292 1916 306558,6479 291621,9701 1917 306542,1810 291637,9210 1918 306561,4087 291669,9189 1919 306575,9003 291695,3827 1920 306605,4745 291716,6030 1921 306616,4733 291745,8475 1922 306628,5176 291809,7615 1923 306657,0657 291859,5647 1924 306659,4270 291863,4119 1925 306673,9954 291887,1533 1926 306692,2493 291929,5767 1927 306667,0691 291943,2593 1928 306623,3054 291948,3895 1929 306601,1399 291947,7833 1930 306596,6250 291947,6646 1931 306573,6864 291958,7965 1932 306570,6482 291962,0098 1933 306553,4594 291980,1960 1934 306536,0360 291998,1273 1935 306519,0273 292012,4142 1936 306503,3110 292025,1301 1937 306500,0302 292035,6764 1938 306496,6488 292057,4189 1939 306488,5244 292115,5023 1940 306454,3505 292123,3840 1941 306426,1741 292132,4187 1942 306407,6499 292130,5366 1943 306385,5182 292117,9343 1944 306376,4497 292106,5238 1945 306373,5702 292103,6925 1946 306370,0189 292100,1925 1947 306376,2019 292079,0796 1948 306375,1666 292026,2023 1949 306378,7219 291999,2004 1950 306396,0092 291963,7947 1951 306400,2495 291901,4730 1952 306388,5596 291893,3916 1953 306375,6674 291884,4777 1954 306358,8358 291885,5549 1955 306341,7576 291888,6802 1956 306338,3262 291889,3375 1957 306321,6309 291892,5509 1958 306298,1024 291895,0975 1959 306255,7826 291926,2209 1960 306214,8687 291977,3186 1961 306190,5374 292006,9009 1962 306196,9180 292013,2435 1963 306193,0492 292025,7886 1964 306216,1814 292039,3699 1965 306234,0062 292055,9177 1966 306245,0490 292070,9276 1967 306270,3439 292080,0483 1968 306295,2301 292067,5350 1969 306299,7654 292082,3585 1970 306311,8486 292106,9191 1971 306298,9216 292130,5028 1972 306302,1318 292138,1552 1973 306307,6041 292147,4377 1974 306372,1172 292898,1885 1975 306384,5148 292901,8011 1976 306438,9618 292921,8940 1977 306453,4473 292928,9331 1978 306463,1671 292919,2358 1979 306475,5043 292905,5449 1980 306497,9718 292879,0028 1981 306519,5619 292861,5118 1982 306527,3167 292852,2959 1983 306550,5399 292830,4314 1984 306565,2650 292833,6222 1985 306601,0303 292834,6729 1986 306620,9297 292833,1501 1987 306648,5081 292834,7271 1988 306690,0630 292861,6061 1989 306716,7813 292872,1134 1990 306733,3730 292855,7089 1991 306742,4888 292850,0319 1992 306771,1351 292836,5201 1993 306802,2800 292851,0210 1994 307015,1923 293106,3851 1995 307003,8853 293116,1622 1996 306988,0470 293115,7578 1997 306955,7122 293112,1277 1998 306940,1371 293115,3461 1999 306937,9795 293116,7142 2000 306932,7449 293121,4000 2001 306932,0956 293125,2820 2002 306938,9779 293139,9907 2003 306972,7013 293170,0758 2004 306979,4557 293178,1378 2005 306985,8966 293193,1210 2006 306985,9559 293207,1538 2007 306984,6730 293211,5458 2008 306960,5925 293248,5316 2009 306942,6204 293287,9884 2010 306935,1185 293299,1971 2011 306969,1399 293310,0352 2012 306967,1666 293314,9984 2013 306953,4860 293349,3987 2014 306947,9318 293346,7732 2015 306923,2791 293335,1201 2016 306896,8209 293385,0052 2017 306889,5474 293395,2063 2018 306865,3851 293428,6133 2019 306858,1342 293444,0164 2020 306854,6864 293462,0203 2021 306852,6670 293480,5895 2022 306851,0696 293482,8525 2023 306833,6719 293507,4941 2024 306828,6768 293523,3763 2025 306820,8544 293552,7805 2026 306861,6710 293559,4078 2027 306864,2813 293559,8318 2028 306840,6852 293597,6030 2029 306839,4636 293599,7719 2030 306838,0065 293601,8188 2031 306816,0038 293638,7095 2032 306815,1200 293640,5076 2033 306815,1620 293640,5782 2034 306816,1338 293642,2258 2035 306826,6482 293659,7721 2036 306880,2864 293679,8680 2037 306873,8628 293693,5804 2038 306861,9281 293719,0546 2039 306865,5837 293764,2140 2040 306886,0770 293814,8784 2041 306895,2399 293823,8466 2042 306896,6140 293825,1912 2043 306898,0507 293826,5356 2044 306902,3649 293830,5732 2045 306915,0941 293842,5684 2046 306919,6981 293847,0863 2047 306955,9323 293882,6232 2048 306951,9838 293908,5652 2049 306948,8882 293915,0963 2050 306946,7194 293919,6725 2051 306944,4175 293924,0962 2052 306935,2280 293943,0494 2053 306927,9740 293958,0111 2054 306924,2507 293959,7007 2055 306921,2944 293961,0431 2056 306889,2811 293975,5758 2057 306867,9247 293982,2769 2058 306832,1830 293949,2559 2059 306830,7258 293947,9093 2060 306820,0363 293938,7814 2061 306812,6256 293931,4813 2062 306826,3236 293890,4209 2063 306843,0107 293897,4803 2064 306857,9038 293864,5547 2065 306810,8202 293841,3212 2066 306772,0311 293856,7908 2067 306764,0582 293859,9702 2068 306706,3569 293868,5288 2069 306707,4874 293878,7361 2070 306713,6652 293934,8000 2071 306714,7998 293945,1282 2072 306718,0090 293975,0761 2073 306722,3661 294015,7411 2074 306725,3735 294043,0656 2075 306727,2056 294066,7158 2076 306728,1578 294079,3929 2077 306728,9360 294089,7498 2078 306730,2837 294106,6129 2079 306753,8295 294091,2109 2080 306812,6154 294067,5259 2081 306872,9259 294044,2513 2082 306931,1536 294039,7089 2083 306969,2341 294029,4443 2084 307019,5708 293997,4996 2085 307050,5520 293990,8282 2086 307124,8093 293982,9230 2087 307165,8584 293951,4790 2088 307193,8689 293932,6466 2089 307208,7631 293939,6528 2090 307257,3979 293965,1699 2091 307289,4932 293925,3936 2092 307290,5131 293896,0120 2093 307309,1110 293871,4830 2094 307323,2534 293845,8933 2095 307348,2021 293829,6281 2096 307376,0416 293822,3250 2097 307393,1168 293829,0127 2098 307440,0549 293810,2673 2099 307447,6008 293825,6765 2100 307465,7748 293854,6260 2101 307524,8022 293900,1930 2102 307554,2095 293910,0049 2103 307610,0226 293928,6345 2104 307640,1588 293939,7142 2105 307671,1165 293931,9534 2106 307693,9445 293936,4200 2107 307731,3020 293921,8864 2108 307783,6284 293913,8665 2109 307841,4547 293898,4316 2110 307888,0314 293870,9946 2111 307930,5807 293844,9747 2112 307982,6552 293824,7488 2113 308040,5787 293768,3580 2114 308081,2111 293730,9340 2115 308127,1067 293785,8859 2116 308159,1221 293853,1063 2117 308194,1500 293904,7273 2118 308211,5253 293939,1848 2119 308221,4550 293958,8907 2120 308248,1107 294014,6752 2121 308270,8087 294062,2799 2122 308303,0607 294114,6882 2123 308318,2148 294141,8231 2124 308346,8120 294186,1429 2125 308391,5178 294230,5590 2126 308422,8307 294259,3887 2127 308449,6677 294296,0304 2128 308463,3781 294314,7379 2129 308478,5599 294339,5709 2130 308498,8873 294370,5018 2131 308508,7064 294385,4430 2132 308530,7040 294455,3771 2133 308537,2802 294486,4822 2134 308540,8242 294522,9825 2135 308573,0997 294598,4985 2136 308584,1086 294643,3682 2137 308617,3569 294705,2484 2138 308647,5957 294773,2246 2139 308647,9357 294806,4248 2140 308658,6313 294841,3011 2141 308660,5461 294844,9425 2142 308657,4384 294851,4326 2143 308658,4265 294860,3148 2144 308659,9922 294863,9767 2145 308656,5137 294872,6786 2146 308653,5809 294876,7910 2147 308657,8961 294887,4498 2148 308650,3226 294905,2930 2149 308649,4839 294907,2396 2150 308646,7888 294913,4962 2151 308648,2397 294918,3019 2152 308630,6946 294930,4752 2153 308620,9666 294943,4042 2154 308615,9530 294963,7777 2155 308608,5352 294965,2103 2156 308602,7660 294987,6379 2157 308605,4059 294997,8492 2158 308595,8765 295001,1384 2159 308584,9514 295015,1652 2160 308588,4628 295024,1179 2161 308592,8597 295031,9434 2162 308604,4535 295037,3624 2163 308595,2242 295049,3053 2164 308588,7157 295064,1235 2165 308584,4794 295079,9014 2166 308589,1816 295079,9536 2167 308616,6534 295056,3862 2168 308643,7690 295040,6331 2169 308669,4141 295025,8250 2170 308731,1080 295024,9945 2171 308736,1051 295024,8379 2172 308753,4097 295024,7969 2173 308808,3729 295019,8745 2174 308808,1886 295017,1793 2175 308852,3752 295013,0956 2176 308877,3158 295017,3165 2177 308886,3577 295024,9362 2178 308907,2319 295030,2845 2179 308918,2051 295034,4030 2180 308929,7559 295043,5842 2181 308962,7737 295066,1583 2182 308974,5886 295082,0323 2183 308978,9918 295087,9480 2184 309002,7107 295102,0208 2185 309017,0702 295105,6929 2186 309028,0321 295116,4735 2187 309041,7998 295120,4037 2188 309049,6355 295122,4291 2189 309075,6062 295126,6479 2190 309085,3660 295128,7831 2191 309099,1818 295128,8107 2192 309100,4054 295129,2756 2193 309126,3740 295139,1234 2194 309132,9082 295142,1196 2195 309152,5986 295151,1472 2196 309154,2791 295147,2928 2197 309184,0160 295151,3643 2198 309214,3551 295150,4683 2199 309240,6831 295149,6901 2200 309295,4866 295165,1812 2201 309322,3994 295194,0487 2202 309362,8433 295236,4976 2203 309367,7749 295243,7506 2204 309391,6812 295278,9106 2205 309407,5358 295302,8231 2206 309442,3773 295342,0464 2207 309452,8088 295374,8329 2208 309454,9644 295411,6804 2209 309456,0293 295432,8557 2210 309440,9847 295501,6572 2211 309430,8236 295544,3960 2212 309427,6000 295597,8212 2213 309431,6622 295644,4121 2214 309431,6417 295682,1229 2215 309398,3372 295743,1748 2216 309372,3429 295769,2920 2217 309340,8877 295812,6840 2218 311237,0480 293779,6794 2219 311230,3490 293736,9919
+
+### 2.
+
+Opis granic obszaru Natura 2000 PLB Góry Stołowe w części pokrywającej się z obszarem Parku Numer punktu załamania granicy Współrzędne punktów załamania granicy (PL-1992)7) X Y 1 2 3 1 306120,5193 287561,0431 2 306108,6357 287559,1447 3 306107,2063 287566,8411 4 306109,7151 287578,2863 5 306117,1934 287616,9033 6 306136,3104 287715,6190 7 306142,6818 287715,1531 8 306174,7462 287712,8071 9 306194,4727 287706,0979 10 306243,2600 287690,4675 11 306267,6732 287683,8729 12 306288,5884 287666,5530 13 306303,6781 287665,4318 14 306324,6240 287660,5852 15 306366,7289 287638,2220 16 306360,0708 287637,2195 17 306348,5774 287635,4879 18 306320,0559 287627,4373 19 306237,0699 287604,5734 20 306224,8833 287601,3242 21 306209,9452 287595,1986 22 306196,6854 287587,7203 23 306179,5222 287575,0730 24 306161,4323 287568,3064 25 306149,0265 287565,4033 26 306120,5193 287561,0431 27 304073,0262 288938,3047 28 304072,1455 288937,9524 29 304069,9225 288940,4418 30 304076,4648 288944,9095 31 304078,3448 288942,0198 32 304073,0262 288938,3047 33 304897,3319 289168,8594 34 304922,2335 289153,7482 35 304925,7130 289151,7585 36 304930,9314 289148,7838 37 304987,2493 289116,6384 38 304988,8417 289115,7291 39 305026,4419 289088,8727 40 304998,4590 289066,6724 41 304996,3475 289064,9971 42 304989,2277 289059,3486 43 304959,0309 289088,2234 44 304961,2284 289095,4764 45 304959,8143 289096,7994 46 304950,4785 289105,5270 47 304934,7201 289116,9537 48 304922,3297 289124,7946 49 304916,7684 289128,3192 50 304911,9618 289131,3605 51 304898,1418 289140,1055 52 304874,2601 289148,8842 53 304859,4357 289158,1504 54 304832,9397 289161,7405 55 304817,0564 289166,5984 56 304804,3998 289165,2334 57 304810,9431 289171,4316 58 304836,4991 289195,6390 59 304841,1215 289198,8553 60 304843,9907 289207,1589 61 304855,6653 289198,8113 62 304875,9457 289183,5322 63 304897,3319 289168,8594 64 305014,7786 289138,0349 65 304996,6455 289120,5869 66 304929,9832 289162,5884 67 304884,0670 289187,3292 68 304892,9799 289192,1328 69 304926,2823 289210,0569 70 304950,1958 289190,7729 71 304974,4279 289171,0784 72 305014,7786 289138,0349 73 302495,6249 289387,1659 74 302488,2705 289366,0081 75 302483,5129 289352,7227 76 302492,6276 289339,3430 77 302494,2926 289329,8875 78 302493,8042 289319,3792 79 302489,5126 289292,4746 80 302487,3582 289275,0656 81 302506,9779 289265,5792 82 302494,4944 289231,9674 83 302474,0604 289240,0693 84 302470,1477 289242,2729 85 302465,3114 289245,0050 86 302447,4662 289254,2855 87 302424,7374 289266,1107 88 302402,7286 289277,5529 89 302392,0872 289251,7460 90 302389,4556 289252,6583 91 302382,9305 289254,1934 92 302376,1998 289254,8835 93 302370,3896 289256,5363 94 302371,6788 289260,3169 95 302378,8018 289281,1317 96 302384,4840 289297,7502 97 302414,9490 289386,7982 98 302440,3555 289374,2993 99 302453,8231 289406,3597 100 302464,2853 289429,0710 101 302466,8525 289434,6426 102 302491,8944 289480,1666 103 302497,4701 289487,3152 104 302506,9144 289497,9136 105 302519,3848 289510,8887 106 302553,9160 289547,0112 107 302587,8289 289583,5035 108 302609,3032 289609,9197 109 302621,5083 289627,2242 110 302646,2450 289580,2257 111 302618,1904 289551,5947 112 302570,7496 289503,1830 113 302536,2469 289462,5149 114 302530,8300 289455,3110 115 302515,1055 289426,7312 116 302514,8054 289426,1864 117 302511,1221 289419,4935 118 302495,6249 289387,1659 119 302790,1836 289600,7252 120 302749,0515 289569,8075 121 302741,2855 289579,3246 122 302758,7856 289592,5188 123 302773,3101 289602,0656 124 302818,1510 289634,3268 125 302830,4442 289634,6022 126 302807,2546 289613,3931 127 302790,1836 289600,7252 128 304640,0918 289736,4390 129 304649,6631 289717,8954 130 304642,8176 289711,0868 131 304631,6510 289703,6146 132 304626,4583 289710,9178 133 304614,6986 289703,9935 134 304611,8407 289708,8636 135 304611,5355 289709,3235 136 304607,5726 289715,9487 137 304605,5328 289719,4324 138 304614,9536 289725,7904 139 304622,3612 289730,7804 140 304624,2484 289727,8210 141 304625,8234 289725,0911 142 304634,4034 289731,1050 143 304640,0918 289736,4390 144 305078,1150 289740,6558 145 305069,5553 289722,5566 146 305042,5299 289735,4149 147 305051,1183 289753,5029 148 305055,6228 289751,3617 149 305078,1150 289740,6558 150 305389,8175 289964,1263 151 305388,3256 289964,0927 152 305387,4009 289964,5923 153 305361,5684 289969,5505 154 305365,4729 289991,7058 155 305391,3361 289986,7363 156 305393,7128 289986,2816 157 305389,8175 289964,1263 158 310050,8843 296832,3524 159 310064,0068 296825,5050 160 310065,9022 296825,6453 161 310067,5887 296823,3013 162 310073,1071 296822,2281 163 310084,6199 296817,7164 164 310106,9482 296803,3824 165 310120,5541 296797,9952 166 310127,2798 296792,0621 167 310135,0264 296780,7059 168 310138,9053 296771,0518 169 310150,9382 296756,9707 170 310154,8838 296754,8561 171 310168,1373 296742,7074 172 310176,6387 296729,8870 173 310192,3867 296712,1185 174 310202,7065 296702,1017 175 310209,7937 296695,2275 176 310223,2214 296676,8109 177 310247,1083 296642,3217 178 310256,4348 296635,0880 179 310258,9611 296632,0581 180 310262,3730 296626,3287 181 310277,8047 296600,0468 182 310294,5103 296590,1805 183 310319,5183 296581,8555 184 310340,7521 296578,5695 185 310352,1174 296573,8416 186 310372,7223 296549,8289 187 310386,3999 296533,6558 188 310394,5336 296526,6689 189 310421,2692 296509,6460 190 310435,9830 296511,8661 191 310444,3624 296511,7534 192 310468,3414 296503,1794 193 310477,1530 296501,8534 194 310486,1733 296502,7115 195 310494,0336 296502,3347 196 310511,0913 296497,9294 197 310529,6943 296487,3033 198 310539,0363 296478,9680 199 310545,1495 296470,7146 200 310557,2020 296457,9125 201 310563,3256 296451,8792 202 310574,4247 296438,0715 203 310574,7831 296437,6261 204 310583,4441 296434,0533 205 310629,2948 296415,1113 206 310673,1168 296403,5463 207 310754,7368 296377,7815 208 310777,3396 296364,8699 209 310784,8179 296361,2941 210 310829,2778 296340,0358 211 310850,4675 296339,4716 212 310904,2817 296336,1855 213 310934,1456 296304,1559 214 310956,9297 296279,7191 215 310968,4425 296267,2550 216 311003,2719 296213,5472 217 311022,4135 296154,0293 218 311015,4308 296078,0228 219 311009,6605 296015,1841 220 310974,4585 295977,1742 221 311014,0187 295914,8157 222 311062,6013 295904,1907 223 311102,5446 295911,5430 224 311177,4225 295906,8971 225 311228,4996 295918,4008 226 311267,2898 295888,9771 227 311289,7256 295896,2772 228 311283,8713 295854,9414 229 311281,2489 295836,4233 230 311319,7217 295771,2980 231 311402,0431 295713,7020 232 311404,0715 295692,2319 233 311450,0604 295656,2803 234 311475,0040 295636,7946 235 311483,9425 295629,8109 236 311534,9039 295650,4220 237 311578,7772 295636,3440 238 311656,8470 295561,1763 239 311634,1213 295522,2755 240 311665,0247 295470,8462 241 311675,2892 295453,7648 242 311734,8409 295458,0011 243 311803,0179 295462,9685 244 311834,4956 295487,4902 245 311849,4839 295502,9260 246 311872,7708 295492,6932 247 311904,1051 295503,3643 248 311959,1195 295522,0994 249 311968,6345 295554,4117 250 311974,6884 295574,8978 251 311979,8237 295592,2731 252 311981,2195 295633,6427 253 311958,4723 295702,5763 254 311985,4260 295745,5454 255 312013,1775 295829,9036 256 312051,5509 295812,6963 257 312056,3094 295763,4316 258 312084,3055 295718,3408 259 312104,8910 295740,0035 260 312130,6661 295722,9908 261 312172,4801 295702,2139 262 312235,5176 295670,8917 263 312247,5209 295683,6498 264 312257,7916 295694,1110 265 312273,7128 295712,8389 266 312311,0857 295741,2876 267 312323,1361 295747,5514 268 312334,6326 295757,6522 269 312338,8024 295761,3160 270 312354,4552 295776,8900 271 312381,4161 295801,5634 272 312393,5966 295817,7272 273 312422,5236 295839,6685 274 312450,8556 295856,6863 275 312453,3101 295858,4005 276 312487,5803 295882,3344 277 312515,9728 295898,4204 278 312550,8932 295911,1508 279 312577,5510 295937,6448 280 312593,4220 295944,1993 281 312604,3900 295942,4626 282 312626,9753 295938,8868 283 312663,1851 295964,3610 284 312708,7449 295964,5145 285 312737,6309 295969,1368 286 312754,5883 295971,8505 287 312778,1823 295967,5701 288 312822,9618 295983,0725 289 312867,5693 296010,0046 290 312902,9219 296056,3314 291 312926,2968 296083,7184 292 312962,8248 296122,5464 293 312963,1393 296122,6764 294 312981,6399 296137,1917 295 313009,5889 296169,1168 296 313033,9642 296203,5437 297 313060,1356 296233,9637 298 313086,3838 296265,8921 299 313123,7946 296309,9138 300 313154,6057 296335,4872 301 313170,5146 296356,7731 302 313189,3418 296381,9635 303 313204,4366 296401,2075 304 313215,0360 296414,7191 305 313226,0994 296431,3274 306 313231,6310 296438,3469 307 313238,9249 296432,9464 308 313347,7117 296352,2747 309 313364,8821 296342,2036 310 313359,6085 296330,3252 311 313353,9376 296317,5836 312 313332,3629 296269,1095 313 313328,5516 296265,2878 314 313326,7032 296263,4335 315 313297,1332 296233,7733 316 313259,5421 296196,0665 317 313238,3033 296176,5460 318 313235,3584 296173,8375 319 313216,8188 296156,8022 320 313211,6844 296151,9515 321 313220,7428 296142,5247 322 313228,0859 296134,8824 323 313237,1534 296125,4556 324 313245,2512 296117,0199 325 313253,3501 296108,5934 326 313261,5942 296100,0225 327 313273,6458 296087,4805 328 313276,1350 296084,8918 329 313245,4089 296053,4141 330 313204,4121 296014,1201 331 313194,9175 296005,0199 332 313306,4055 295975,1190 333 313227,1479 295896,8466 334 313220,1796 295889,8158 335 313107,3932 295776,0258 336 313117,1600 295759,2343 337 313119,0596 295755,6932 338 313151,8533 295703,0719 339 313167,1333 295682,8182 340 313173,3879 295671,3986 341 313180,6737 295658,0865 342 313188,5176 295643,7567 343 313196,9850 295628,2667 344 313252,6537 295546,2463 345 313273,5648 295515,4312 346 313275,6016 295511,8062 347 313276,7095 295509,8114 348 313283,5089 295497,5746 349 313287,2413 295490,9360 350 313341,3403 295394,5551 351 313360,1266 295393,2864 352 313368,7804 295392,6853 353 313410,3497 295380,1310 354 313421,0342 295376,9044 355 313457,9135 295364,6851 356 313473,3154 295359,4718 357 313510,5840 295342,7478 358 313549,5308 295314,1292 359 313612,8734 295254,1964 360 313623,0397 295235,4316 361 313624,8685 295231,8834 362 313634,4111 295213,3480 363 313652,3855 295189,3281 364 313660,4382 295178,4818 365 313662,3654 295168,7990 366 313686,7581 295145,0391 367 313693,2974 295149,0848 368 313721,1378 295118,2051 369 313726,6132 295112,5824 370 313806,4011 295025,7789 371 313833,1133 294997,5042 372 313850,9830 294976,5890 373 313866,1659 294959,3182 374 313882,3185 294942,9384 375 313893,6818 294931,4183 376 313902,1063 294922,8719 377 313936,3088 294886,9102 378 313962,9933 294863,5189 379 314021,1063 294810,0835 380 314049,3882 294771,2371 381 314072,4968 294744,4749 382 314093,4694 294714,0293 383 314102,8073 294700,4408 384 314103,0929 294700,0240 385 314115,3225 294687,7371 386 314125,1652 294677,8555 387 316933,2568 293260,0220 388 316965,2036 293245,2087 389 317006,5784 293226,1091 390 317027,6072 293210,5761 391 317086,5660 293159,3218 392 317051,5278 293130,4255 393 317024,7379 293108,3307 394 317021,3905 293105,5741 395 317059,8099 293068,5104 396 317099,0015 293030,8815 397 317090,7972 293022,9445 398 317050,2786 292983,7457 399 316998,4641 292933,6199 400 316972,5027 292961,2607 401 316935,0754 292996,1720 402 316898,2401 292870,9183 403 316877,8718 292883,2791 404 316858,0952 292851,2954 405 316851,7506 292841,0349 406 316823,0386 292789,2185 407 316787,9646 292742,7935 408 316754,9048 292687,9019 409 316751,7262 292682,5658 410 316746,5858 292673,9386 411 316770,6641 292656,6975 412 316795,6907 292633,7015 413 316845,1735 292620,0885 414 316847,9976 292617,5972 415 316851,8745 292619,5345 416 316865,1711 292620,3824 417 316870,2501 292621,0839 418 316874,9237 292629,7489 419 316876,5958 292634,7328 420 316878,0612 292638,6915 421 316882,7266 292642,0308 422 316886,9106 292643,0005 423 316891,6230 292644,9912 424 316895,1948 292648,1522 425 316901,8231 292644,7250 426 316909,7765 292649,1107 427 316915,4996 292645,1826 428 316920,4999 292644,7311 429 316921,0037 292640,3586 430 316944,9264 292648,8414 431 316949,9799 292644,4321 432 316971,4664 292650,2053 433 316972,1893 292670,5399 434 316974,6377 292676,0266 435 316987,8115 292676,9882 436 316994,7819 292654,9332 437 316997,8693 292649,6945 438 317008,6877 292618,8854 439 317014,2522 292603,0378 440 317017,1287 292565,5575 441 317018,0594 292553,4343 442 317042,4972 292527,5917 443 317046,5410 292522,9038 444 317086,5046 292476,6599 445 317088,1932 292474,7062 446 317110,0618 292439,0310 447 317170,6887 292462,6301 448 317196,5006 292486,0592 449 317226,3831 292489,3646 450 317278,9858 292492,7992 451 317303,8762 292524,1694 452 317318,7089 292556,6456 453 317323,7040 292560,6105 454 317380,8237 292605,9666 455 317407,9884 292599,8041 456 317413,2701 292598,8385 457 317417,7286 292596,8386 458 317534,3049 292587,0850 459 317541,7494 292553,3709 460 317541,0807 292540,6476 461 317545,4000 292536,1410 462 317553,8828 292527,2886 463 317631,8850 292445,8856 464 317633,6831 292443,8029 465 317681,0155 292388,9810 466 317740,6777 292309,6691 467 317743,5020 292305,9141 468 317772,9635 292266,7512 469 317780,7889 292256,3484 470 317784,1875 292253,4208 471 317793,6360 292248,7073 472 317798,7345 292246,1637 473 317836,1617 292227,2258 474 317814,7130 292199,6699 475 317841,8766 292179,1234 476 317830,6106 292164,0419 477 318037,1842 291822,5870 478 318045,6157 291811,5883 479 318170,7926 291648,2952 480 318113,5634 291610,1859 481 318079,7201 291597,9419 482 318051,7966 291581,4822 483 318034,9662 291577,4476 484 318004,0220 291571,8351 485 317994,7445 291565,9542 486 317906,1285 291503,6510 487 317893,3695 291492,2866 488 317856,0713 291433,5981 489 317857,7343 291361,5260 490 317832,6873 291273,0759 491 317845,3132 291264,2080 492 317882,4373 291264,9658 493 317909,4290 291260,6097 494 317949,9731 291243,4854 495 317982,0828 291200,7078 496 317986,2821 291196,2278 497 317995,8853 291185,9817 498 318018,7982 291164,1582 499 318029,8032 291153,6775 500 318042,3523 291141,7253 501 318087,4370 291119,4175 502 318104,0626 291102,8625 503 318114,8925 291084,5585 504 318127,1589 291044,0931 505 318138,4578 291023,5332 506 318151,6694 290994,0923 507 318181,4913 290950,1155 508 318190,5261 290942,5308 509 318226,2452 290921,1271 510 318253,6322 290898,1127 511 318284,2313 290861,0746 512 318281,4532 290817,4103 513 318257,6831 290775,4825 514 318268,4423 290721,0703 515 318286,9060 290679,4918 516 318283,5299 290651,2191 517 318267,5565 290610,0676 518 318237,0986 290566,6593 519 318220,1443 290536,0017 520 318205,1836 290516,6450 521 318194,9702 290496,0217 522 318193,0861 290492,2175 523 318173,5800 290463,1503 524 318156,6921 290446,7540 525 318143,1722 290407,9270 526 318181,6665 290374,4821 527 318065,6882 290175,6694 528 318017,5049 290190,0413 529 317979,3159 290212,4331 530 317893,6890 290282,9426 531 317869,7314 290300,4777 532 317845,8488 290313,0482 533 317781,0490 290329,6012 534 317765,0695 290346,0364 535 317752,7150 290385,6140 536 317746,4583 290388,0010 537 317719,9663 290398,0925 538 317684,6978 290416,6617 539 317629,9855 290391,8379 540 317603,6625 290382,7100 541 317602,2606 290314,3457 542 317590,2102 290301,3296 543 317575,0703 290294,4514 544 317557,3879 290283,3820 545 317543,7236 290266,4358 546 317545,5669 290258,5356 547 317534,2415 290240,5664 548 317518,0714 290229,8698 549 317495,6582 290224,2009 550 317456,8291 290224,8881 551 317442,7009 290220,9292 552 317425,7323 290203,5673 553 317415,1708 290183,4550 554 317405,5800 290135,5665 555 317396,7684 290117,8011 556 317393,4312 290111,0735 557 317370,8090 290077,0225 558 317296,1901 290004,5242 559 317292,4668 289991,6566 560 317344,8844 289969,5802 561 317381,3889 289943,5593 562 317403,3179 289921,3365 563 317420,7577 289895,9536 564 317253,9727 289673,6473 565 317190,1017 289566,1652 566 317109,7412 289405,4945 567 317093,8201 289373,6532 568 317088,3776 289376,4845 569 317060,1151 289329,0652 570 317071,6074 289305,3995 571 317076,6998 289286,8948 572 317073,1609 289289,1650 573 317059,0082 289298,2428 574 317042,7133 289308,6947 575 317022,6274 289285,0465 576 317011,8776 289272,3796 577 317005,2052 289263,4155 578 316972,1167 289300,8018 579 316957,8063 289292,9374 580 316981,5968 289242,2781 581 316974,9777 289238,2046 582 316963,5479 289230,9598 583 316938,0266 289210,3630 584 316930,2300 289202,3287 585 316907,1725 289178,5688 586 316868,7858 289145,4896 587 316844,0111 289124,1403 588 316864,8618 289089,4778 589 316898,5914 289071,2875 590 316890,4587 289050,8065 591 316919,7012 289010,3892 592 316922,0051 289000,2751 593 316934,8400 288987,1997 594 316953,6929 288964,1228 595 316964,1663 288953,2725 596 316967,1871 288951,0565 597 316989,9967 288930,7076 598 316992,6539 288929,6437 599 316992,8527 288929,5781 600 316993,1394 288929,4686 601 317030,4949 288915,2863 602 317049,9427 288904,1543 603 317038,4944 288889,9381 604 317038,5282 288889,9033 605 317038,8538 288890,0057 606 317041,2172 288887,5675 607 317064,5491 288863,4974 608 317079,1727 288848,4139 609 317093,7853 288833,3417 610 317106,7542 288819,9662 611 317111,5240 288815,0479 612 317120,4646 288798,1519 613 317122,4470 288794,4041 614 317130,7537 288778,8700 615 317142,5481 288774,1094 616 317151,1650 288765,6378 617 317181,7561 288716,5267 618 317186,8514 288714,0865 619 317213,1765 288694,8579 620 317219,0154 288690,5930 621 317237,7996 288694,0767 622 317240,5972 288632,3223 623 317241,6652 288597,7489 624 317246,7401 288549,9260 625 317265,0216 288535,7703 626 317265,3943 288522,1152 627 317303,0570 288500,7803 628 317355,7183 288470,9440 629 317380,2544 288457,8326 630 317408,4441 288442,2463 631 317447,7339 288435,8054 632 317521,3574 288392,1594 633 317589,5415 288361,3268 634 317632,0078 288346,1234 635 317683,6410 288319,9203 636 317696,9990 288313,9811 637 317776,1881 288204,9528 638 317787,5770 288185,3207 639 317841,7343 288131,3917 640 317850,9708 288099,2432 641 317869,4509 288111,2168 642 317873,1199 288113,5946 643 317877,8324 288116,6481 644 317883,0803 288120,3529 645 317912,3851 288141,0428 646 317917,7244 288144,8071 647 317927,2476 288151,5306 648 317933,9659 288155,8918 649 317993,1696 288145,5864 650 317936,5792 288192,0677 651 317924,9159 288201,6483 652 317887,4917 288219,4434 653 317837,7970 288249,0872 654 317848,2295 288260,5836 655 317853,6824 288266,0743 656 317883,5442 288287,6060 657 317913,9550 288258,9268 658 317947,0630 288235,2345 659 318001,6432 288220,4019 660 318011,6743 288211,4153 661 318033,6605 288187,9667 662 318082,6160 288135,7550 663 318091,8381 288123,9226 664 318092,5405 288123,3605 665 318096,3038 288112,5706 666 318105,8936 288049,5618 667 309364,6537 290306,8817 668 309368,0923 290303,6234 669 309363,9399 290290,4589 670 309356,2159 290264,8732 671 309336,9156 290265,0463 672 309329,3933 290251,9482 673 309313,3124 290242,8182 674 309297,8439 290224,8265 675 309295,8737 290214,5856 676 309290,7567 290209,7205 677 309289,1614 290208,2030 678 309288,5869 290207,1104 679 309285,4043 290197,7827 680 309282,2207 290188,4541 681 309281,4189 290185,1886 682 309280,8055 290174,5441 683 309278,7217 290171,5887 684 309275,0148 290170,7645 685 309263,5603 290133,0116 686 309262,0366 290101,6199 687 309264,9591 290091,1157 688 309265,1229 290084,1884 689 309260,0173 290073,8347 690 309256,9227 290050,7354 691 309254,6351 290028,1499 692 309256,8102 290009,1158 693 309252,0895 289999,2107 694 309252,4858 289993,3667 695 309250,9569 289982,8513 696 309251,3102 289968,5869 697 309243,4695 289965,1310 698 309229,9076 289972,2273 699 309213,8011 289992,9674 700 309200,4810 290000,7559 701 309162,3831 290009,5398 702 309156,1100 290012,9978 703 309143,8865 290029,9553 704 309140,6434 290037,2482 705 309112,7979 290053,6639 706 309104,0344 290076,3046 707 309086,1421 290084,7465 708 309075,1218 290099,2156 709 309070,2046 290094,5482 710 309067,6998 290092,1725 711 309060,7500 290085,5811 712 309057,8306 290082,7517 713 308854,8062 289890,1066 714 308812,8058 289811,3241 715 308737,6084 289670,2732 716 308762,3369 289662,9587 717 308906,4598 289616,4692 718 308966,4990 289597,1023 719 308907,6711 289462,8528 720 308789,7484 289330,2059 721 308785,7158 289325,3695 722 308674,8094 289216,4324 723 318123,5136 287933,7863 724 318124,4280 287927,7795 725 318125,1683 287916,4346 726 318125,8472 287906,0287 727 318125,3956 287901,3389 728 318124,4095 287891,0999 729 318116,1653 287834,1470 730 318107,9210 287777,1942 731 318110,7709 287770,7839 732 318094,0847 287764,6646 733 318083,9114 287762,6810 734 318030,2476 287752,2178 735 317987,8827 287769,6360 736 317975,6755 287774,6547 737 317949,5349 287785,4026 738 317918,6746 287681,1901 739 317913,2095 287671,9342 740 317910,4867 287667,3241 741 317895,0887 287641,2469 742 317846,9464 287605,1837 743 317842,7440 287608,9663 744 317802,6626 287645,0500 745 317789,0444 287672,5895 746 317776,6140 287697,7288 747 317809,4332 287727,7565 748 317857,7076 287771,9226 749 317871,8788 287841,1583 750 317820,5304 287906,8428 751 317738,2581 287932,7244 752 317711,1272 287879,2480 753 317633,2715 287900,5299 754 317630,8323 287901,1965 755 317623,3131 287854,3290 756 317611,3568 287829,3055 757 317593,1040 287820,7449 758 317549,8564 287800,4677 759 317517,5646 287785,3278 760 317473,3872 287812,2007 761 317423,5194 287842,5366 762 317426,7828 287855,7380 763 317423,5584 287882,4460 764 317417,9489 287884,9753 765 317349,8539 287915,6676 766 317335,6049 287922,0891 767 317422,8098 288084,9677 768 317453,7540 288142,7653 769 317443,8192 288159,9602 770 317419,7787 288177,3877 771 317410,0170 288184,4646 772 317388,9348 288197,6782 773 317305,6313 288229,9537 774 317264,5771 288254,1458 775 317241,5208 288251,2662 776 317234,8934 288250,4430 777 317148,5958 288239,6613 778 317116,7075 288235,6779 779 316995,7803 288231,4006 780 316952,3104 288211,9846 781 316924,7607 288206,6260 782 316867,7915 288195,5453 783 316862,4319 288192,1016 784 316849,2837 288121,6637 785 316840,8204 288066,3831 786 316840,3258 288062,1929 787 316838,5737 288047,3479 788 316831,6136 288048,3555 789 316790,4744 288078,7714 790 316764,4894 288091,9390 791 316683,9098 288119,1876 792 316676,8135 288103,3955 793 316667,5043 288075,7086 794 316647,0222 287993,4271 795 316642,1613 287980,0997 796 316629,3940 287945,0953 797 316616,3074 287923,2985 798 316563,1034 287952,4108 799 316517,9839 288030,7653 800 316534,9095 288141,3071 801 316546,8730 288204,8800 802 316517,9962 288234,3119 803 316480,6539 288246,3735 804 316468,3302 288252,0056 805 316457,7410 288256,8450 806 316415,9413 288275,9478 807 316379,3743 288306,7004 808 316329,7440 288306,4834 809 316299,2483 288277,2092 810 316284,3665 288274,3840 811 316290,5555 288223,8262 812 316285,5277 288195,5054 813 316165,8959 288221,7372 814 316143,1466 288233,1783 815 316101,7279 288254,0106 816 316084,9670 288262,4412 817 316019,5325 288238,5922 818 316015,3309 288237,6327 819 316009,5146 288236,5043 820 315958,8113 288230,1595 821 315862,8021 288222,8820 822 315824,8383 288220,0045 823 315821,1467 288219,7240 824 315784,2327 288217,0585 825 315723,2053 288295,9700 826 315610,2448 288275,9293 827 315549,0361 288223,1697 828 315488,6632 288214,6931 829 315416,5039 288204,5605 830 315347,3901 288191,2343 831 315291,2719 288180,4126 832 315273,6089 288179,1746 833 315127,5087 288168,9427 834 315117,3536 288168,2322 835 315075,5192 288172,5923 836 315008,2393 288182,1514 837 314940,8119 288191,8138 838 314930,4111 288195,9784 839 314844,7178 288230,2825 840 314856,4999 288209,7881 841 314868,0106 288201,0677 842 314928,2106 288155,4587 843 314946,7450 288106,8546 844 314954,7434 288076,1550 845 314965,0961 288036,4198 846 314970,6144 288001,8075 847 314981,0839 287965,8898 848 314991,1886 287931,1935 849 314997,1893 287911,5901 850 314991,2900 287920,9371 851 314981,3317 287928,1031 852 314920,0729 287972,1812 853 314914,0415 287963,8776 854 314851,4424 287975,7007 855 314825,3887 287972,1720 856 314822,2480 287971,7469 857 314820,2063 287971,4706 858 314800,3407 287968,7794 859 314755,7455 287949,5610 860 314744,5439 287947,3563 861 314735,3136 287945,5398 862 314714,7046 287946,7358 863 314650,5756 287963,3892 864 314610,4788 287984,6401 865 314566,2429 288018,4025 866 314527,2368 288035,1152 867 314515,3871 288047,3766 868 314503,3633 288059,8181 869 314498,0569 288058,5177 870 314450,2422 288046,7960 871 314389,2979 288031,8558 872 314338,1726 288192,8706 873 314379,5339 288193,1492 874 314384,3888 288193,1819 875 314387,8939 288193,2064 876 314389,4708 288198,2139 877 314401,1373 288235,3062 878 314424,7682 288257,4318 879 314451,4004 288288,5552 880 314477,3823 288314,4583 881 314479,6361 288319,2567 882 314498,3477 288359,0934 883 314507,0435 288376,5547 884 314513,9351 288390,3950 885 314517,9521 288398,4591 886 314537,3088 288427,5509 887 314540,6359 288432,5439 888 314513,4906 288477,6777 889 314503,5005 288484,1300 890 314509,3403 288512,4436 891 314506,1689 288517,5349 892 314490,9718 288541,9031 893 314480,9673 288558,4631 894 314475,1633 288563,9805 895 314460,8007 288577,6499 896 314456,4805 288587,8857 897 314436,6537 288610,0165 898 314430,0746 288617,3729 899 314426,6564 288621,1985 900 314404,6240 288645,7981 901 314381,8492 288656,1016 902 314362,9298 288664,6744 903 314352,5505 288669,0234 904 314315,5073 288672,5010 905 314252,2600 288666,2043 906 314216,7722 288663,4436 907 314211,6942 288686,4755 908 314207,2194 288688,2255 909 314114,7900 288724,3501 910 314108,3256 288745,4117 911 314106,6892 288750,8215 912 314036,5605 288764,3804 913 314049,9094 288838,6736 914 314050,8075 288843,6974 915 314062,4482 288908,4919 916 313968,8116 288956,7460 917 313903,1323 289001,8040 918 313902,3192 289023,4359 919 314130,8904 294657,8311 920 314150,4304 294638,4734 921 314156,3132 294633,0769 922 314176,4031 294614,6429 923 314238,7278 294569,4077 924 314314,3994 294512,0206 925 314320,3468 294507,7332 926 314326,7662 294502,8815 927 314375,4902 294486,6327 928 314412,8406 294474,1777 929 314434,9518 294467,6139 930 314492,9409 294453,4950 931 314511,8051 294448,3514 932 314513,5428 294447,8783 933 314523,1008 294444,8084 934 314600,7395 294419,8197 935 314656,7841 294409,6812 936 314711,0417 294394,4962 937 314712,4742 294393,9166 938 314713,9069 294393,3361 939 314749,2717 294384,5563 940 314795,0497 294372,8990 941 314834,8647 294362,6252 942 314852,6322 294358,0408 943 314872,4353 294388,2294 944 314890,4865 294419,0016 945 314904,8051 294442,7389 946 314934,2849 294485,4766 947 314998,8134 294573,5569 948 315025,5121 294633,7281 949 315050,3871 294665,4415 950 315138,3303 294611,8115 951 315155,8428 294594,2079 952 315167,7355 294572,4899 953 315169,3452 294562,9063 954 315147,1346 294484,9082 955 315200,4257 294473,9176 956 315209,1224 294472,1246 957 315235,5314 294460,0343 958 315242,6718 294442,4164 959 315236,3158 294409,4353 960 315269,0356 294401,7584 961 315317,8630 294390,3070 962 315435,3496 294464,7733 963 315439,1466 294467,1848 964 315438,7145 294459,7670 965 315437,1744 294433,2771 966 315457,8418 294354,9258 967 315590,2655 294353,7809 968 315661,8247 294352,9320 969 315664,8352 294345,5664 970 315713,3483 294239,6848 971 315719,8998 294240,6403 972 315721,7634 294236,9579 973 315773,9004 294133,9169 974 315788,4290 294102,4524 975 315798,0300 294092,5094 976 315826,3805 294077,8774 977 315851,8739 294058,2935 978 315830,1580 294120,7922 979 315807,5276 294192,4825 980 315785,8669 294245,9568 981 315814,1570 294254,3044 982 315845,2640 294263,4928 983 315878,3607 294273,2699 984 315906,8945 294192,5449 985 315932,9103 294117,2850 986 315941,1995 294104,7810 987 315999,4200 294046,8707 988 316006,4724 294047,5096 989 316064,4399 293988,9318 990 316082,1859 293969,7020 991 316103,9346 293945,0769 992 316112,0068 293953,6570 993 316149,2067 293925,7459 994 316174,2415 293910,4064 995 316164,1807 293884,3916 996 316171,2534 293878,4073 997 316206,7924 293852,3342 998 316229,6450 293903,1748 999 316285,7725 293941,7162 1000 316299,9108 293951,1647 1001 316384,5096 293835,6195 1002 316392,1844 293835,0389 1003 316380,1893 293817,7589 1004 316390,8092 293798,5508 1005 316541,5247 293763,2002 1006 316569,2463 293755,9072 1007 316600,0083 293747,8146 1008 316641,6637 293722,9570 1009 316666,2478 293708,2872 1010 316637,6311 293626,0282 1011 316637,2512 293624,7502 1012 316634,9595 293617,0795 1013 316646,1876 293613,0081 1014 316726,3679 293583,9377 1015 316735,0780 293580,4602 1016 316796,4115 293555,9764 1017 316858,4496 293534,9086 1018 316855,5946 293526,9839 1019 316838,6649 293480,0017 1020 316786,0907 293446,8579 1021 316766,1042 293411,0835 1022 316763,5750 293406,6516 1023 316742,5308 293370,6498 1024 316740,2943 293367,2686 1025 316751,8184 293361,8567 1026 316774,3976 293361,9500 1027 316826,3768 293342,2584 1028 316855,6172 293325,6686 1029 316880,7421 293313,7297 1030 316922,8909 293268,5785 1031 310542,3264 289406,5901 1032 310534,3812 289405,5375 1033 310524,5856 289408,0248 1034 310532,4397 289496,5977 1035 310523,8944 289550,4141 1036 310517,1299 289593,0155 1037 310509,4181 289641,5776 1038 310484,1663 289706,6549 1039 310474,2478 289763,0415 1040 310483,0656 289777,9202 1041 310483,6718 289804,3190 1042 310505,6560 289793,0283 1043 310605,6659 289836,4633 1044 310604,8130 289838,2902 1045 310557,7386 289962,6386 1046 310496,3468 290124,2574 1047 310499,5334 290158,6085 1048 310503,5680 290175,0376 1049 310508,8058 290192,4794 1050 310509,7212 290195,5310 1051 310520,8419 290212,6881 1052 310518,6843 290229,7111 1053 310508,0244 290216,1000 1054 310479,0985 290190,3075 1055 310466,9282 290183,7252 1056 310412,9379 290154,5259 1057 310395,5411 290145,1973 1058 310383,8368 290137,6862 1059 306814,1318 292856,0714 1060 306822,9833 292863,7073 1061 306831,0761 292878,0587 1062 306920,2950 292895,9429 1063 306928,1963 292899,4972 1064 306934,6218 292902,3868 1065 306938,9226 292917,6978 1066 306936,5060 292928,4067 1067 306924,4464 292941,9686 1068 306866,0476 292974,9076 1069 306822,5850 293002,1266 1070 306806,7786 293013,9148 1071 306774,5861 293056,6770 1072 306776,1394 293062,5303 1073 306784,0293 293061,1724 1074 306794,6605 293044,7946 1075 306806,2911 293034,1470 1076 306838,1775 293021,5447 1077 306894,3141 293018,5679 1078 306914,6344 293021,9031 1079 306975,7693 293043,1173 1080 306990,1257 293042,5172 1081 307022,3213 293029,3669 1082 307049,8822 293018,1091 1083 307071,0596 293015,5656 1084 307074,0405 293020,9845 1085 307062,4755 293035,0308 1086 307039,0544 293064,9642 1087 313853,9517 289032,5916 1088 313846,5031 289034,0057 1089 313844,1263 289034,4501 1090 313790,3910 289036,0414 1091 313773,9813 289128,8926 1092 313752,0831 289226,5863 1093 313750,4498 289233,8495 1094 313742,4340 289231,8395 1095 313657,3518 289201,2433 1096 313525,3593 289232,4354 1097 313476,4376 289233,1768 1098 313427,3337 289231,2732 1099 313384,4261 289233,0457 1100 313381,8262 289232,4180 1101 313347,3153 289224,0929 1102 313314,5688 289215,5752 1103 313308,4567 289213,9860 1104 313277,7837 289199,7913 1105 313261,4652 289233,8608 1106 313233,6206 289272,6735 1107 313199,1456 289303,0863 1108 313194,2858 289307,3738 1109 313163,5626 289291,9205 1110 313117,2512 289290,7195 1111 313096,4404 289284,5089 1112 313078,8840 289279,3766 1113 312982,3096 289261,3142 1114 312917,9316 289254,6563 1115 312841,7953 289270,5128 1116 312810,6124 289271,9792 1117 312658,1255 289355,3523 1118 312624,1901 289402,7932 1119 312609,7753 289422,9445 1120 312572,0010 289453,8447 1121 312554,4178 289474,0728 1122 312549,4944 289479,7366 1123 312508,5867 289553,3632 1124 312482,6334 289600,0759 1125 312467,6788 289626,9897 1126 312442,1281 289638,0233 1127 312406,5378 289653,3905 1128 312376,6801 289725,6563 1129 312358,6209 289745,0181 1130 312348,6154 289755,7455 1131 312307,3553 289799,9884 1132 312294,6874 289804,0066 1133 312277,8856 289803,5366 1134 312264,9628 289803,1761 1135 312259,9564 289803,0430 1136 312260,7705 289820,4224 1137 312246,6188 289841,8926 1138 312220,6809 289840,9341 1139 312214,1304 289832,0365 1140 312205,0270 289824,9894 1141 312194,6436 289819,2520 1142 312187,6405 289815,3801 1143 312197,9061 289784,4584 1144 312230,9424 289691,5857 1145 312238,6162 289676,1346 1146 312265,9673 289621,0680 1147 312274,8710 289594,2822 1148 312277,0715 289577,0073 1149 312232,6483 289570,5161 1150 312225,7139 289569,5024 1151 312183,5710 289604,9523 1152 312119,3151 289658,9857 1153 312108,9768 289718,9193 1154 312095,6249 289746,4598 1155 312087,6377 289762,9330 1156 312086,9352 289763,9631 1157 312062,7914 289799,3945 1158 312056,3975 289822,3229 1159 312036,3312 289870,5502 1160 312028,0880 289890,3462 1161 311969,1005 289952,9484 1162 311952,9755 289974,3684 1163 311926,4498 290004,1750 1164 311924,2502 290002,2837 1165 311896,3995 289978,2494 1166 311894,4867 290011,3962 1167 311890,0128 290027,6185 1168 311881,7573 290041,6002 1169 311871,4672 290051,3036 1170 311845,1667 290070,3910 1171 311813,9061 290091,4639 1172 311773,9762 290118,1012 1173 311748,7274 290136,9366 1174 311735,2977 290149,8810 1175 311714,5371 290174,3782 1176 311690,5325 290202,2893 1177 311681,1066 290215,2982 1178 311676,9635 290221,0101 1179 311666,0415 290240,2593 1180 311644,6061 290279,0238 1181 311625,6047 290315,3615 1182 311606,2942 290350,3772 1183 311590,3546 290380,8463 1184 311579,2903 290398,3792 1185 311556,1376 290431,9879 1186 311547,4347 290449,5680 1187 311535,4170 290481,3550 1188 311522,2842 290512,8839 1189 311519,2000 290520,2894 1190 311505,7087 290548,8457 1191 311499,7900 290561,3734 1192 311483,1244 290600,6263 1193 311472,4502 290628,6615 1194 311467,6190 290652,5923 1195 311465,5023 290667,3840 1196 311452,5969 290670,8411 1197 311446,6055 290659,0875 1198 311444,2196 290654,4078 1199 311440,3160 290628,1975 1200 311435,0056 290580,7936 1201 311420,8119 290519,4785 1202 311398,7366 290437,3270 1203 311386,9196 290374,2559 1204 311328,4082 290297,4098 1205 311278,8722 290253,2538 1206 311241,0344 290225,2178 1207 311206,9464 290209,9581 1208 311141,3132 290156,7745 1209 311057,1445 290068,7997 1210 311042,5422 290039,7775 1211 311025,0605 290005,3936 1212 311006,8353 289975,3341 1213 310989,8278 289960,9019 1214 310927,2112 289887,7893 1215 310870,4846 289845,6312 1216 310865,0758 289835,8171 1217 310862,7749 289833,8889 1218 310768,6304 289713,5127 1219 310736,7943 289660,8770 1220 310720,3590 289611,9431 1221 310706,9016 289512,3571 1222 310675,8274 289434,2863 1223 310641,8418 289423,9214 1224 310630,7908 289422,4355 1225 310619,0271 289420,8422 1226 310564,7131 289409,4420 1227 310341,8560 290110,7459 1228 310296,1578 290112,8757 1229 310292,0864 290104,2404 1230 310262,1897 290093,7822 1231 310150,3423 290052,7987 1232 310146,8997 290051,4757 1233 310061,8502 290022,8691 1234 310037,8170 290014,7867 1235 310021,9081 290013,3839 1236 310002,2872 290009,0759 1237 309958,7406 289986,9412 1238 309946,9329 289973,0762 1239 309946,3472 289963,2816 1240 309953,8931 289938,1486 1241 309919,2235 289966,6619 1242 309902,3029 289976,4032 1243 309885,3833 289986,1455 1244 309842,0978 289995,3727 1245 309825,1649 289992,5916 1246 309808,0120 289986,8961 1247 309748,1980 289962,4501 1248 309642,7352 289897,9391 1249 309633,8378 289893,6168 1250 309626,6697 289891,8505 1251 309616,1543 289890,5090 1252 309542,3546 289895,7396 1253 309497,7604 289900,5463 1254 309422,7340 289910,0562 1255 309412,5104 289922,1997 1256 309391,3955 289935,9940 1257 309381,5261 289956,5591 1258 309390,9111 290017,0129 1259 309400,3452 290030,8021 1260 309419,3845 290034,1075 1261 309449,1880 290058,1829 1262 309457,4456 290074,9489 1263 309454,1176 290141,8529 1264 309448,1639 290142,7601 1265 309442,3702 290143,6510 1266 309483,8381 290201,3114 1267 309491,6840 290223,1523 1268 309462,5112 290270,0198 1269 309461,7494 290271,2434 1270 309448,2183 290293,0731 1271 309445,2148 290297,7988 1272 309393,1803 290279,9711 1273 309401,5627 290300,3947 1274 309416,4292 290363,7198 1275 309424,9407 290402,9954 1276 309415,2260 290393,9965 1277 309406,5854 290392,1359 1278 309401,7153 290386,7671 1279 309388,8160 290372,5458 1280 309372,7330 290372,9390 1281 309364,1765 290357,1622 1282 309354,0891 290328,5885 1283 308630,4314 289172,8417 1284 308444,1924 288991,4615 1285 308435,1290 288982,6357 1286 308413,2421 288944,9064 1287 308416,4410 288925,6705 1288 308409,0856 288923,0093 1289 308419,1116 288891,7660 1290 308416,3928 288888,6407 1291 308376,8757 288843,7404 1292 308354,7593 288792,5004 1293 308352,9213 288788,2416 1294 308356,6025 288783,1144 1295 308366,8169 288768,4712 1296 308356,7029 288757,2533 1297 308343,6079 288732,6149 1298 308327,9971 288703,6438 1299 308312,4343 288668,2390 1300 308295,7719 288631,2480 1301 308278,3586 288609,6058 1302 308266,7137 288566,0858 1303 308261,8794 288522,8434 1304 308219,9108 288467,3579 1305 308206,0223 288473,3042 1306 308186,7219 288444,1079 1307 308183,8578 288439,1855 1308 308145,4342 288436,9061 1309 308131,6881 288422,4821 1310 308112,5916 288429,4904 1311 308089,2310 288433,2423 1312 308054,6997 288432,5911 1313 308044,4012 288452,5795 1314 308044,5006 288455,6260 1315 308045,5594 288487,9945 1316 307992,4988 288487,0033 1317 307991,4902 288486,9839 1318 307965,8350 288486,4463 1319 307941,7279 288486,4493 1320 307938,4808 288462,6239 1321 307888,2239 288455,5726 1322 307887,9924 288444,6558 1323 307885,4171 288435,8843 1324 307861,4780 288434,5417 1325 307843,4382 288427,7137 1326 307829,8887 288414,7438 1327 307814,2512 288405,4192 1328 307803,0793 288384,0422 1329 307800,6084 288373,4857 1330 307779,3911 288355,5637 1331 307761,4108 288336,8900 1332 307756,8529 288351,7268 1333 307748,5759 288364,0393 1334 307743,6986 288386,5592 1335 307747,4219 288418,6022 1336 307757,9568 288462,1171 1337 307753,4327 288513,1737 1338 307732,1438 288515,2258 1339 307715,1750 288516,8611 1340 307691,7183 288519,1252 1341 307685,1360 288519,7611 1342 307655,6541 288520,6326 1343 307637,9696 288521,3063 1344 307626,7301 288522,4174 1345 307609,2157 288525,9666 1346 307610,1117 288509,5333 1347 307589,9552 288491,9574 1348 307560,2705 288478,3721 1349 307556,1744 288425,1844 1350 307555,4996 288416,4241 1351 307553,7671 288393,9391 1352 307567,3771 288373,6373 1353 307576,0554 288345,0564 1354 307569,2919 288297,0431 1355 307568,3652 288291,1008 1356 307565,5861 288276,4525 1357 307543,3724 288250,6692 1358 307533,0085 288214,8425 1359 307512,7323 288183,2061 1360 307501,0444 288166,4268 1361 307474,9385 288135,5236 1362 307465,7727 288099,6190 1363 307455,0392 288086,4904 1364 307438,4697 288075,1956 1365 307423,7539 288079,0059 1366 307421,5338 288102,0326 1367 307421,2820 288107,1024 1368 307419,2175 288119,7600 1369 307399,2864 288123,7844 1370 307367,0980 288130,8828 1371 307335,6193 288137,6289 1372 307317,1217 288141,7290 1373 307314,4224 288142,7540 1374 307306,3789 288147,5269 1375 307293,2533 288154,1890 1376 307273,4092 288159,0509 1377 307243,3015 288173,5262 1378 307222,4232 288186,5730 1379 307205,8938 288209,4666 1380 307174,7191 288265,5991 1381 307138,6251 288323,7357 1382 307111,8926 288340,8867 1383 307108,6466 288357,9937 1384 307111,2506 288376,2976 1385 307108,5461 288384,8143 1386 307106,3978 288384,2614 1387 307103,0330 288395,6708 1388 307124,5328 288440,5127 1389 307104,3489 288451,1561 1390 307031,5260 288484,4238 1391 307014,9158 288468,9481 1392 307005,3464 288463,3110 1393 306987,5831 288452,8478 1394 306947,8837 288535,1447 1395 306910,9449 288590,2573 1396 306950,2634 288639,6438 1397 306978,6549 288663,6730 1398 307017,8054 288680,2444 1399 307008,4460 288738,2151 1400 306996,0454 288749,8263 1401 306981,8600 288758,4421 1402 306952,0012 288771,5996 1403 306904,2551 288798,4612 1404 306905,3427 288803,4788 1405 306911,5481 288832,0339 1406 306910,5455 288836,2611 1407 306904,8583 288860,2319 1408 306900,3004 288881,6826 1409 306898,6937 288889,2428 1410 306880,3979 288946,8029 1411 306863,3719 288980,6758 1412 306909,3250 288998,3490 1413 306912,2465 288999,4734 1414 306917,4729 288995,1582 1415 306922,3000 288991,1759 1416 306963,0082 288953,5920 1417 306997,4995 288928,3258 1418 307031,0120 288904,3909 1419 307034,8376 288907,5591 1420 307055,1855 288924,4111 1421 307112,5941 288971,0502 1422 307100,8284 289010,3103 1423 307109,0704 289058,8777 1424 307106,5371 289094,2979 1425 307104,8240 289099,6892 1426 307100,2355 289114,1215 1427 307071,3423 289111,7836 1428 307050,0082 289108,0399 1429 307026,6969 289108,8888 1430 307009,7107 289118,4427 1431 307006,8180 289121,2740 1432 306994,7982 289132,6128 1433 306991,0105 289148,6998 1434 306983,8496 289179,1096 1435 306950,1241 289238,7729 1436 306921,9622 289289,1987 1437 306906,8960 289328,4814 1438 306892,0050 289353,2244 1439 306892,4381 289355,8817 1440 306894,8446 289370,7716 1441 306865,9452 289399,2429 1442 306787,7588 289422,2430 1443 306787,0717 289434,8085 1444 306786,8361 289439,1176 1445 306718,4697 289442,8745 1446 306705,8971 289523,4807 1447 306678,8225 289539,6211 1448 306664,8849 289562,8444 1449 306668,2927 289565,9379 1450 306679,9152 289576,0980 1451 306653,5216 289605,3107 1452 306646,0289 289601,7727 1453 306641,3329 289599,7299 1454 306636,1064 289597,3429 1455 306632,4722 289595,6564 1456 306624,0682 289591,8594 1457 306619,3261 289587,7368 1458 306616,7917 289585,4052 1459 306615,7861 289584,2665 1460 306612,6537 289580,4233 1461 306605,4274 289570,6871 1462 306603,0773 289565,2887 1463 306598,9730 289569,6581 1464 306595,6389 289572,7537 1465 306589,2809 289552,0852 1466 306588,9164 289542,4995 1467 306587,9917 289518,2307 1468 306585,5751 289508,1116 1469 306581,9246 289504,0054 1470 306571,9056 289490,7261 1471 306521,7881 289445,7111 1472 306464,2976 289451,3727 1473 306422,4048 289455,4984 1474 306412,9614 289478,4821 1475 306405,4985 289479,0955 1476 306402,7357 289473,2997 1477 306398,3735 289466,5740 1478 306395,1582 289460,6737 1479 306394,6309 289454,6976 1480 306395,2308 289444,4658 1481 306395,5677 289438,6229 1482 306395,6088 289425,5680 1483 306391,7175 289422,0485 1484 306390,2778 289416,9714 1485 306390,1600 289410,0328 1486 306389,5917 289398,6071 1487 306388,0598 289395,3435 1488 306368,6079 289353,6586 1489 306355,9471 289365,2493 1490 306344,9248 289384,7513 1491 306336,2751 289395,7255 1492 306318,3173 289410,9626 1493 306286,6223 289428,6901 1494 306260,6772 289437,4259 1495 306242,4562 289444,6184 1496 306221,6199 289460,6154 1497 306196,8954 289481,8254 1498 306182,9342 289498,5382 1499 306175,3607 289517,3511 1500 306169,6447 289539,8566 1501 306168,5562 289544,1420 1502 306162,1777 289570,1199 1503 306154,2314 289605,4694 1504 306145,4342 289640,1655 1505 306127,2542 289673,8951 1506 306132,4070 289676,7950 1507 306169,3784 289694,0239 1508 306191,2203 289711,1257 1509 306210,5350 289731,1981 1510 306213,3644 289734,2251 1511 306222,7903 289744,3085 1512 306256,9366 289765,5779 1513 306265,5146 289768,8435 1514 306275,7271 289772,7316 1515 306276,0906 289772,8821 1516 306279,9530 289774,4703 1517 306316,6420 289788,7469 1518 306284,7556 289849,9146 1519 306312,7477 292153,9003 1520 306311,1820 292160,1517 1521 306312,4026 292166,5466 1522 306312,8511 292168,9070 1523 306313,5413 292172,5421 1524 306314,0850 292175,3960 1525 306314,6298 292178,2499 1526 306336,2782 292194,5161 1527 306337,8326 292202,3201 1528 306339,5048 292210,6708 1529 306331,3661 292240,4467 1530 306378,8540 292276,6665 1531 306383,2418 292283,9216 1532 306376,1312 292322,9851 1533 306374,9648 292326,9337 1534 306388,6824 292326,4043 1535 306397,2440 292317,7526 1536 306400,3130 292314,4655 1537 306399,6279 292346,5986 1538 306404,3127 292380,5729 1539 306404,2011 292405,7848 1540 306406,4426 292410,9058 1541 306411,8914 292429,6716 1542 306413,7377 292442,9580 1543 306415,1241 292456,9294 1544 306413,8462 292482,2981 1545 306406,2737 292501,5134 1546 306396,3450 292515,7317 1547 306391,6254 292530,1752 1548 306394,2786 292534,3931 1549 306393,8833 292538,3763 1550 306393,2771 292544,5972 1551 306407,1656 292548,8734 1552 306417,8593 292550,4780 1553 306424,8153 292545,1583 1554 306435,2560 292553,7333 1555 306451,0317 292569,4138 1556 306466,1306 292576,8839 1557 306478,8969 292582,0653 1558 306488,6719 292608,3575 1559 306494,6736 292620,8032 1560 306511,7672 292644,3757 1561 306530,5413 292652,6405 1562 306516,6210 292674,5028 1563 306504,4866 292697,8306 1564 306503,9100 292707,5411 1565 306510,1083 292726,9235 1566 306505,9109 292739,5187 1567 306492,7024 292745,7743 1568 306478,9368 292745,1046 1569 306484,2421 292758,9736 1570 306480,4430 292764,1541 1571 306455,9019 292747,7660 1572 306390,0177 292721,5291 1573 306368,4635 292706,6370 1574 306370,2053 292728,3704 1575 306383,8696 292743,0688 1576 306412,0439 292753,4205 1577 306422,6946 292766,7714 1578 306418,7460 292787,6426 1579 306396,3317 292797,6378 1580 306373,8539 292801,4829 1581 306361,8413 292814,3024 1582 306359,2168 292823,1375 1583 306356,6179 292855,8287 1584 306354,9713 292857,2316 1585 306354,5115 292880,2828 1586 306358,3474 292887,1354 1587 309311,9259 295852,5995 1588 309253,3490 295933,8539 1589 309258,1003 296003,4961 1590 309258,1649 296004,0020 1591 309262,5026 296037,6987 1592 309272,0514 296067,9088 1593 309263,2562 296103,2952 1594 309295,6392 296118,3859 1595 309323,4449 296175,7340 1596 309360,6140 296263,7980 1597 309363,6902 296272,3463 1598 309364,0291 296273,2894 1599 309373,1058 296298,5177 1600 309366,6260 296350,3373 1601 309366,6741 296406,1534 1602 309359,8297 296452,6830 1603 309342,3920 296505,9453 1604 309338,3010 296550,9880 1605 309337,9253 296574,1078 1606 309345,2592 296591,0837 1607 309397,7924 296642,6554 1608 309420,4392 296672,6566 1609 309429,2681 296679,8820 1610 309444,5431 296685,3060 1611 309502,2384 296697,3032 1612 309522,2279 296704,2336 1613 309540,8698 296710,6982 1614 309650,9436 296726,8866 1615 309687,4042 296737,6980 1616 309718,3239 296739,2914 1617 309750,5409 296779,7035 1618 309760,6406 296792,3734 1619 309827,5652 296826,3180 1620 309869,2430 296836,9973 1621 309907,3584 296845,0460 1622 309963,4100 296853,1632 1623 309992,9351 296846,9270 1624 310043,2892 296836,3174 1625 310050,8843 296832,3524 1626 313889,6708 294193,2341 1627 313862,6771 294123,4874 1628 313847,8230 294138,1971 1629 313821,9404 294166,1462 1630 313807,2408 294163,4153 1631 313698,3313 294140,5780 1632 313687,7217 294136,5291 1633 313682,6302 294115,7828 1634 313681,0123 294109,1709 1635 313701,1821 294041,6196 1636 313696,7605 293991,4170 1637 313692,1156 293938,6820 1638 313697,9218 293889,3550 1639 313733,9594 293850,5884 1640 313780,0209 293801,0380 1641 313861,8794 293828,9133 1642 313879,5465 293826,7086 1643 313893,1268 293825,0139 1644 313899,5432 293824,2131 1645 313887,4539 293877,9579 1646 314011,0568 293863,7539 1647 314075,4623 293870,0291 1648 314106,4312 293892,9871 1649 314158,6624 293961,1517 1650 314160,3314 293971,3026 1651 314170,5233 294006,7043 1652 314155,6641 294039,4396 1653 314131,3185 294076,1930 1654 314125,4202 294122,2811 1655 314124,4382 294131,7747 1656 314075,0803 294115,4255 1657 314070,9690 294117,6445 1658 314061,8810 294117,1888 1659 314050,9016 294109,9808 1660 313996,5139 294095,2588 1661 314014,8845 294157,6522 1662 314009,1859 294237,5447 1663 313990,6925 294219,7485 1664 313967,3125 294212,9686 1665 313943,4851 294221,5876 1666 313924,4192 294238,5093 1667 313889,6708 294193,2341 1668 311230,3490 293736,9919 1669 311208,6145 293598,4836 1670 311233,9841 293579,3840 1671 311249,7681 293556,3727 1672 311259,5657 293531,6083 1673 311282,7275 293472,0258 1674 311251,1648 293432,6714 1675 311206,4283 293455,5885 1676 311176,4180 293456,5081 1677 311168,4379 293438,1539 1678 311144,6278 293383,3904 1679 311131,7859 293355,6738 1680 311118,2424 293332,3706 1681 311095,9397 293294,5062 1682 311083,3281 293266,1619 1683 311067,8002 293273,8173 1684 311058,6713 293278,3177 1685 311037,1488 293294,0730 1686 311029,5958 293299,6016 1687 311024,9591 293284,9747 1688 310993,0277 293188,4843 1689 310949,0326 293195,4629 1690 310914,1479 293227,9247 1691 310906,0564 293213,5938 1692 310894,2271 293185,9458 1693 310873,6672 293136,3237 1694 310888,7753 293130,6754 1695 310889,3784 293130,4501 1696 310898,1060 293133,8079 1697 310902,1426 293133,6133 1698 310909,3126 293133,2671 1699 310920,2255 293127,8031 1700 310926,1421 293130,2095 1701 310931,3993 293136,4661 1702 310938,0543 293141,0925 1703 310946,5750 293147,0154 1704 310947,8898 293144,2833 1705 310972,9225 293092,3634 1706 311090,3047 293107,8750 1707 311101,9250 293001,4087 1708 311144,4855 293002,2965 1709 311164,6154 293003,3390 1710 311164,3081 293023,8834 1711 311170,9088 293015,2440 1712 311219,1730 292955,7496 1713 311236,1704 292934,7975 1714 311239,2352 292931,7203 1715 311240,2101 292930,6913 1716 311315,5447 292851,1490 1717 311325,7130 292851,9508 1718 311329,5991 292852,0992 1719 311356,5652 292854,2753 1720 311366,2480 292855,0566 1721 311373,1929 292855,6167 1722 311392,0775 292857,1865 1723 311402,5796 292836,1023 1724 311411,2089 292830,8799 1725 311410,1951 292825,0104 1726 311418,7476 292817,3303 1727 311420,4719 292811,0952 1728 311424,0447 292807,0023 1729 311428,0096 292797,5457 1730 311443,5673 292776,8732 1731 311480,0544 292760,1573 1732 311486,0889 292757,3926 1733 311533,9762 292735,4534 1734 311491,6031 292700,0250 1735 311490,4111 292699,0277 1736 311472,4779 292686,6649 1737 311465,2003 292681,6483 1738 311460,3650 292678,3142 1739 311422,5548 292652,2483 1740 311379,2201 292633,5510 1741 311374,8896 292631,6832 1742 311353,4419 292622,4293 1743 311360,1819 292614,9050 1744 311365,4453 292609,0304 1745 311390,5978 292581,1581 1746 311403,1971 292567,6311 1747 311413,3132 292555,9226 1748 311431,7554 292535,4314 1749 311449,6959 292514,2550 1750 311462,1017 292499,6129 1751 311480,0533 292468,5007 1752 311552,3396 292502,2732 1753 311547,3998 292509,0706 1754 311541,5599 292518,7177 1755 311537,9657 292530,4220 1756 311538,0149 292530,4220 1757 311540,9415 292530,2601 1758 311554,9825 292529,5198 1759 311558,2286 292529,3478 1760 311558,3085 292529,3457 1761 311592,0176 292527,2968 1762 311615,3176 292526,0546 1763 311618,6036 292525,8805 1764 311638,6967 292520,6182 1765 311643,9692 292519,3423 1766 311676,6133 292526,4192 1767 311719,2947 292538,7235 1768 311728,0068 292541,2507 1769 311792,3438 292559,9100 1770 311799,4604 292561,9775 1771 311801,4194 292562,5459 1772 311858,7460 292536,9121 1773 311882,7455 292527,0878 1774 311897,2474 292520,2618 1775 311901,3936 292511,1687 1776 311915,3005 292478,9834 1777 311987,8109 292442,4614 1778 312012,1464 292429,2958 1779 312021,3408 292417,2146 1780 312040,6525 292444,8585 1781 312042,9462 292448,1375 1782 312059,2872 292450,2561 1783 312062,4913 292450,6656 1784 312066,9713 292451,2462 1785 312088,4609 292427,0758 1786 312089,4451 292425,9043 1787 312095,5665 292418,5613 1788 312111,9935 292398,1805 1789 312116,0424 292395,8724 1790 312144,6233 292379,6237 1791 312160,3120 292376,5516 1792 312196,3721 292369,5004 1793 312227,0338 292440,7913 1794 312294,3577 292410,5249 1795 312323,9728 292490,8925 1796 312331,9098 292508,2688 1797 312333,4663 292511,6818 1798 312335,0894 292515,2513 1799 312339,1146 292518,2661 1800 312370,4603 292541,7628 1801 312401,8418 292551,4130 1802 312415,6720 292560,5430 1803 312425,0098 292569,3135 1804 312434,8320 292578,5387 1805 312450,1367 292651,3717 1806 312455,5670 292723,1930 1807 312456,1671 292784,8030 1808 312460,7986 292839,1252 1809 312464,4861 292872,2096 1810 312380,2784 292830,0023 1811 312377,9816 292828,8545 1812 312375,6949 292827,7056 1813 312369,4978 292824,9786 1814 312297,5802 292788,7587 1815 312294,9987 292787,4592 1816 312199,9940 292766,2174 1817 312197,0828 292765,5682 1818 312196,0148 292765,3317 1819 312147,3829 292781,7290 1820 312129,4528 292789,8831 1821 312125,8768 292791,3556 1822 312125,8390 292791,3668 1823 312124,1924 292791,8481 1824 312113,7261 292827,8182 1825 312106,7803 292851,6918 1826 312106,0399 292854,1063 1827 312104,9832 292857,5500 1828 312069,7515 292942,5399 1829 312067,7761 292947,1827 1830 312041,2474 293014,5753 1831 312006,3229 293100,1366 1832 312003,2478 293107,6753 1833 311968,4686 293159,2419 1834 311954,1746 293178,4666 1835 311950,0275 293182,7375 1836 311940,8370 293193,0493 1837 311935,3647 293205,9241 1838 311931,2094 293215,7002 1839 311933,8903 293297,4318 1840 311959,0970 293375,5814 1841 311971,8386 293445,7213 1842 311973,0807 293452,6025 1843 311965,0966 293537,4675 1844 311910,1139 293514,6846 1845 311897,9561 293509,3793 1846 311812,7120 293482,3026 1847 311731,2231 293475,8218 1848 311642,6195 293476,4392 1849 311574,5082 293505,3693 1850 311511,6008 293501,3879 1851 311458,5688 293512,0898 1852 311530,9524 293595,5243 1853 311436,6163 293721,7354 1854 311364,5503 293756,4520 1855 311338,6830 293764,4536 1856 311331,0051 293766,8252 1857 311285,4218 293780,9257 1858 311263,6975 293780,3655 1859 306281,5085 289869,2323 1860 306215,8363 289993,1639 1861 306211,2437 290004,6062 1862 306203,0026 290025,1445 1863 306193,3217 290064,4877 1864 306191,8030 290070,6603 1865 306193,3523 290106,1132 1866 306224,5137 290136,8496 1867 306251,8258 290155,4720 1868 306263,2485 290164,5027 1869 306267,5391 290167,8953 1870 306271,0985 290176,1364 1871 306270,7145 290188,8125 1872 306271,0105 290217,7631 1873 306272,8865 290226,5469 1874 306275,6758 290230,9716 1875 306275,8293 290233,6616 1876 306276,2502 290241,0365 1877 306277,7853 290243,0989 1878 306305,2622 290265,0667 1879 306328,2008 290275,9631 1880 306336,6324 290280,0806 1881 306352,8331 290280,9049 1882 306373,8037 290280,6991 1883 306397,4591 290276,1372 1884 306413,6055 290271,0509 1885 306448,9622 290253,2610 1886 306451,9185 290251,7742 1887 306482,3763 290236,4490 1888 306501,8262 290218,6857 1889 306522,3789 290168,9971 1890 306527,3750 290133,0188 1891 306530,2494 290095,4370 1892 306531,9348 290074,1971 1893 306539,4480 290052,8048 1894 306545,7527 290038,4934 1895 306550,0228 290034,1537 1896 306554,2939 290029,8130 1897 306563,5918 290029,0122 1898 306578,4860 290033,4675 1899 306589,8625 290046,3362 1900 306588,5529 290076,4070 1901 306586,7783 290111,9583 1902 306586,7762 290111,9940 1903 306586,6892 290112,5347 1904 306580,1704 290152,7738 1905 306571,6118 290184,5619 1906 306561,2939 290213,1837 1907 306554,3246 290225,7256 1908 306522,3983 290279,5511 1909 306520,6289 290290,1598 1910 306525,3024 290300,1069 1911 306553,1450 290331,2366 1912 306563,9768 290338,4537 1913 306567,3561 290340,7054 1914 306584,7477 290343,4426 1915 306598,3740 290339,9753 1916 306614,6342 290341,7069 1917 306622,3776 290352,2889 1918 306625,9883 290363,7793 1919 306631,7155 290379,6052 1920 306658,6743 290409,6422 1921 306683,6497 290445,0326 1922 306674,2013 290455,0812 1923 306658,2821 290476,0649 1924 306679,3130 290497,9243 1925 306696,8091 290510,0709 1926 306715,2432 290518,6276 1927 306739,0789 290527,8159 1928 306778,0389 290550,0940 1929 306798,2230 290581,3331 1930 306817,2080 290597,9045 1931 306843,5554 290622,1591 1932 306860,2651 290648,4851 1933 306876,7566 290664,3243 1934 306892,5610 290673,2526 1935 306903,3519 290676,0460 1936 306949,5242 290681,0544 1937 306953,8567 290680,4021 1938 306993,9801 290674,3625 1939 306989,3208 290699,0656 1940 306981,9430 290730,5269 1941 306975,6238 290728,3837 1942 306961,6134 290714,1266 1943 306943,7733 290689,0764 1944 306918,5154 290683,3348 1945 306912,6058 290682,7594 1946 306901,7842 290690,1700 1947 306886,4242 290693,6731 1948 306877,1315 290695,7928 1949 306865,1301 290689,4962 1950 306849,2950 290694,1974 1951 306706,2135 290736,6791 1952 306728,0831 290769,0354 1953 306715,8084 290837,0710 1954 306712,5951 290855,2081 1955 306711,9080 290859,1403 1956 306709,2548 290874,1082 1957 306707,7239 290914,0186 1958 306705,7865 290964,3062 1959 306648,9432 290967,7037 1960 306604,7883 290980,4976 1961 306574,4144 290992,2101 1962 306570,9963 290993,5270 1963 306541,0853 291005,0552 1964 306537,3590 291006,5021 1965 306528,4460 291009,9468 1966 306524,6880 291011,3999 1967 306510,5446 291016,8629 1968 306495,7159 291060,8508 1969 306486,3556 291085,5426 1970 306484,1356 291099,5970 1971 306475,1254 291142,4852 1972 306461,1294 291141,5206 1973 306457,8567 291153,2771 1974 306468,6875 291159,5420 1975 306471,0591 291171,3927 1976 306494,7821 291180,1151 1977 306512,0815 291166,1990 1978 306559,0063 291124,3563 1979 306557,2748 291132,3138 1980 306555,5647 291139,0292 1981 306552,8490 291151,3285 1982 306552,7528 291180,8422 1983 306554,6851 291204,2303 1984 306611,1157 291188,3204 1985 306615,9817 291186,5879 1986 306629,8630 291181,6420 1987 306645,5968 291176,4789 1988 306667,8043 291139,4020 1989 306691,1228 291158,2896 1990 306776,0759 291182,3915 1991 306769,2151 291209,5858 1992 306761,4255 291236,8386 1993 306768,1399 291236,2784 1994 306798,0417 291233,7727 1995 306800,9182 291232,9719 1996 306835,5570 291223,2961 1997 306861,4591 291216,0637 1998 306889,3877 291199,7544 1999 306889,3436 291242,1296 2000 306903,7462 291240,4390 2001 306940,8816 291236,0859 2002 306974,8231 291235,4347 2003 306981,3070 291194,9078 2004 307015,4595 291191,4396 2005 307026,9263 291192,9509 2006 307040,8527 291194,7860 2007 307061,3961 291192,4431 2008 307082,3964 291191,5962 2009 307103,6207 291192,1522 2010 307112,5347 291194,6211 2011 307126,1437 291198,3905 2012 307140,4520 291211,9072 2013 307144,9248 291216,1190 2014 307164,5314 291234,6514 2015 307168,1594 291238,0786 2016 307182,9541 291247,6500 2017 307191,0079 291261,7321 2018 307201,7230 291280,6331 2019 307207,0735 291309,0153 2020 307219,8223 291338,5669 2021 307233,2694 291371,8868 2022 307196,3174 291385,9474 2023 307174,9485 291419,7465 2024 307155,0757 291466,2034 2025 307143,7728 291466,8873 2026 307167,9320 291487,9982 2027 307170,9457 291490,6248 2028 307160,5029 291518,1406 2029 307175,3202 291533,2220 2030 307204,5708 291561,3667 2031 307203,3235 291562,1163 2032 307201,4363 291563,8253 2033 307173,0132 291586,0820 2034 307172,2195 291587,1613 2035 307146,0042 291622,7986 2036 307148,0951 291667,8484 2037 307191,0161 291679,5896 2038 307197,9916 291651,8719 2039 307267,0573 291649,4409 2040 307283,4945 291648,8573 2041 307274,0646 291666,5275 2042 307266,3119 291677,0439 2043 307240,6719 291711,8374 2044 307202,1132 291755,7280 2045 307199,1774 291758,4509 2046 307179,2504 291776,9597 2047 307162,3246 291793,8947 2048 307138,5586 291776,0729 2049 307109,3306 291757,8907 2050 307100,6399 291756,0516 2051 307082,4680 291755,5406 2052 307045,7720 291754,7778 2053 307016,8746 291756,7633 2054 306994,0200 291764,5201 2055 306971,3958 291731,0569 2056 306965,3838 291722,4521 2057 306889,7911 291614,2011 2058 306862,3234 291626,3845 2059 306834,6088 291638,6859 2060 306802,3948 291627,7004 2061 306780,5662 291628,6149 2062 306741,3501 291638,0951 2063 306739,3071 291633,5372 2064 306704,1830 291555,1726 2065 306663,7432 291542,8262 2066 306660,5093 291531,2550 2067 306631,2957 291540,6849 2068 306617,7942 291553,5505 2069 306607,6617 291593,4773 2070 306602,7905 291596,0302 2071 306600,5071 291597,2220 2072 306564,9978 291615,8292 2073 306558,6479 291621,9701 2074 306542,1810 291637,9210 2075 306561,4087 291669,9189 2076 306575,9003 291695,3827 2077 306605,4745 291716,6030 2078 306616,4733 291745,8475 2079 306628,5176 291809,7615 2080 306657,0657 291859,5647 2081 306659,4270 291863,4119 2082 306673,9954 291887,1533 2083 306692,2493 291929,5767 2084 306667,0691 291943,2593 2085 306623,3054 291948,3895 2086 306601,1399 291947,7833 2087 306596,6250 291947,6646 2088 306573,6864 291958,7965 2089 306570,6482 291962,0098 2090 306553,4594 291980,1960 2091 306536,0360 291998,1273 2092 306519,0273 292012,4142 2093 306503,3110 292025,1301 2094 306500,0302 292035,6764 2095 306496,6488 292057,4189 2096 306488,5244 292115,5023 2097 306454,3505 292123,3840 2098 306426,1741 292132,4187 2099 306407,6499 292130,5366 2100 306385,5182 292117,9343 2101 306376,4497 292106,5238 2102 306373,5702 292103,6925 2103 306370,0189 292100,1925 2104 306376,2019 292079,0796 2105 306375,1666 292026,2023 2106 306378,7219 291999,2004 2107 306396,0092 291963,7947 2108 306400,2495 291901,4730 2109 306388,5596 291893,3916 2110 306375,6674 291884,4777 2111 306358,8358 291885,5549 2112 306341,7576 291888,6802 2113 306338,3262 291889,3375 2114 306321,6309 291892,5509 2115 306298,1024 291895,0975 2116 306255,7826 291926,2209 2117 306214,8687 291977,3186 2118 306190,5374 292006,9009 2119 306196,9180 292013,2435 2120 306193,0492 292025,7886 2121 306216,1814 292039,3699 2122 306234,0062 292055,9177 2123 306245,0490 292070,9276 2124 306270,3439 292080,0483 2125 306295,2301 292067,5350 2126 306299,7654 292082,3585 2127 306311,8486 292106,9191 2128 306298,9216 292130,5028 2129 306302,1318 292138,1552 2130 306307,6041 292147,4377 2131 306372,1172 292898,1885 2132 306384,5148 292901,8011 2133 306438,9618 292921,8940 2134 306453,4473 292928,9331 2135 306463,1671 292919,2358 2136 306475,5043 292905,5449 2137 306497,9718 292879,0028 2138 306519,5619 292861,5118 2139 306527,3167 292852,2959 2140 306550,5399 292830,4314 2141 306565,2650 292833,6222 2142 306601,0303 292834,6729 2143 306620,9297 292833,1501 2144 306648,5081 292834,7271 2145 306690,0630 292861,6061 2146 306716,7813 292872,1134 2147 306733,3730 292855,7089 2148 306742,4888 292850,0319 2149 306771,1351 292836,5201 2150 306802,2800 292851,0210 2151 307015,1923 293106,3851 2152 307003,8853 293116,1622 2153 306988,0470 293115,7578 2154 306955,7122 293112,1277 2155 306940,1371 293115,3461 2156 306937,9795 293116,7142 2157 306932,7449 293121,4000 2158 306932,0956 293125,2820 2159 306938,9779 293139,9907 2160 306972,7013 293170,0758 2161 306979,4557 293178,1378 2162 306985,8966 293193,1210 2163 306985,9559 293207,1538 2164 306984,6730 293211,5458 2165 306960,5925 293248,5316 2166 306942,6204 293287,9884 2167 306935,1185 293299,1971 2168 306969,1399 293310,0352 2169 306967,1666 293314,9984 2170 306953,4860 293349,3987 2171 306947,9318 293346,7732 2172 306923,2791 293335,1201 2173 306896,8209 293385,0052 2174 306889,5474 293395,2063 2175 306865,3851 293428,6133 2176 306858,1342 293444,0164 2177 306854,6864 293462,0203 2178 306852,6670 293480,5895 2179 306851,0696 293482,8525 2180 306833,6719 293507,4941 2181 306828,6768 293523,3763 2182 306820,8544 293552,7805 2183 306861,6710 293559,4078 2184 306864,2813 293559,8318 2185 306840,6852 293597,6030 2186 306839,4636 293599,7719 2187 306838,0065 293601,8188 2188 306816,0038 293638,7095 2189 306815,1200 293640,5076 2190 306815,1620 293640,5782 2191 306816,1338 293642,2258 2192 306826,6482 293659,7721 2193 306880,2864 293679,8680 2194 306873,8628 293693,5804 2195 306861,9281 293719,0546 2196 306865,5837 293764,2140 2197 306886,0770 293814,8784 2198 306895,2399 293823,8466 2199 306896,6140 293825,1912 2200 306898,0507 293826,5356 2201 306902,3649 293830,5732 2202 306915,0941 293842,5684 2203 306919,6981 293847,0863 2204 306955,9323 293882,6232 2205 306951,9838 293908,5652 2206 306948,8882 293915,0963 2207 306946,7194 293919,6725 2208 306944,4175 293924,0962 2209 306935,2280 293943,0494 2210 306927,9740 293958,0111 2211 306924,2507 293959,7007 2212 306921,2944 293961,0431 2213 306889,2811 293975,5758 2214 306867,9247 293982,2769 2215 306832,1830 293949,2559 2216 306830,7258 293947,9093 2217 306820,0363 293938,7814 2218 306812,6256 293931,4813 2219 306826,3236 293890,4209 2220 306843,0107 293897,4803 2221 306857,9038 293864,5547 2222 306810,8202 293841,3212 2223 306772,0311 293856,7908 2224 306764,0582 293859,9702 2225 306706,3569 293868,5288 2226 306707,4874 293878,7361 2227 306713,6652 293934,8000 2228 306714,7998 293945,1282 2229 306718,0090 293975,0761 2230 306722,3661 294015,7411 2231 306725,3735 294043,0656 2232 306727,2056 294066,7158 2233 306728,1578 294079,3929 2234 306728,9360 294089,7498 2235 306730,2837 294106,6129 2236 306753,8295 294091,2109 2237 306812,6154 294067,5259 2238 306872,9259 294044,2513 2239 306931,1536 294039,7089 2240 306969,2341 294029,4443 2241 307019,5708 293997,4996 2242 307050,5520 293990,8282 2243 307124,8093 293982,9230 2244 307165,8584 293951,4790 2245 307193,8689 293932,6466 2246 307208,7631 293939,6528 2247 307257,3979 293965,1699 2248 307289,4932 293925,3936 2249 307290,5131 293896,0120 2250 307309,1110 293871,4830 2251 307323,2534 293845,8933 2252 307348,2021 293829,6281 2253 307376,0416 293822,3250 2254 307393,1168 293829,0127 2255 307440,0549 293810,2673 2256 307447,6008 293825,6765 2257 307465,7748 293854,6260 2258 307524,8022 293900,1930 2259 307554,2095 293910,0049 2260 307610,0226 293928,6345 2261 307640,1588 293939,7142 2262 307671,1165 293931,9534 2263 307693,9445 293936,4200 2264 307731,3020 293921,8864 2265 307783,6284 293913,8665 2266 307841,4547 293898,4316 2267 307888,0314 293870,9946 2268 307930,5807 293844,9747 2269 307982,6552 293824,7488 2270 308040,5787 293768,3580 2271 308081,2111 293730,9340 2272 308127,1067 293785,8859 2273 308159,1221 293853,1063 2274 308194,1500 293904,7273 2275 308211,5253 293939,1848 2276 308221,4550 293958,8907 2277 308248,1107 294014,6752 2278 308270,8087 294062,2799 2279 308303,0607 294114,6882 2280 308318,2148 294141,8231 2281 308346,8120 294186,1429 2282 308391,5178 294230,5590 2283 308422,8307 294259,3887 2284 308449,6677 294296,0304 2285 308463,3781 294314,7379 2286 308478,5599 294339,5709 2287 308498,8873 294370,5018 2288 308508,7064 294385,4430 2289 308530,7040 294455,3771 2290 308537,2802 294486,4822 2291 308540,8242 294522,9825 2292 308573,0997 294598,4985 2293 308584,1086 294643,3682 2294 308617,3569 294705,2484 2295 308647,5957 294773,2246 2296 308647,9357 294806,4248 2297 308658,6313 294841,3011 2298 308660,5461 294844,9425 2299 308657,4384 294851,4326 2300 308658,4265 294860,3148 2301 308659,9922 294863,9767 2302 308656,5137 294872,6786 2303 308653,5809 294876,7910 2304 308657,8961 294887,4498 2305 308650,3226 294905,2930 2306 308649,4839 294907,2396 2307 308646,7888 294913,4962 2308 308648,2397 294918,3019 2309 308630,6946 294930,4752 2310 308620,9666 294943,4042 2311 308615,9530 294963,7777 2312 308608,5352 294965,2103 2313 308602,7660 294987,6379 2314 308605,4059 294997,8492 2315 308595,8765 295001,1384 2316 308584,9514 295015,1652 2317 308588,4628 295024,1179 2318 308592,8597 295031,9434 2319 308604,4535 295037,3624 2320 308595,2242 295049,3053 2321 308588,7157 295064,1235 2322 308584,4794 295079,9014 2323 308589,1816 295079,9536 2324 308616,6534 295056,3862 2325 308643,7690 295040,6331 2326 308669,4141 295025,8250 2327 308731,1080 295024,9945 2328 308736,1051 295024,8379 2329 308753,4097 295024,7969 2330 308808,3729 295019,8745 2331 308808,1886 295017,1793 2332 308852,3752 295013,0956 2333 308877,3158 295017,3165 2334 308886,3577 295024,9362 2335 308907,2319 295030,2845 2336 308918,2051 295034,4030 2337 308929,7559 295043,5842 2338 308962,7737 295066,1583 2339 308974,5886 295082,0323 2340 308978,9918 295087,9480 2341 309002,7107 295102,0208 2342 309017,0702 295105,6929 2343 309028,0321 295116,4735 2344 309041,7998 295120,4037 2345 309049,6355 295122,4291 2346 309075,6062 295126,6479 2347 309085,3660 295128,7831 2348 309099,1818 295128,8107 2349 309100,4054 295129,2756 2350 309126,3740 295139,1234 2351 309132,9082 295142,1196 2352 309152,5986 295151,1472 2353 309154,2791 295147,2928 2354 309184,0160 295151,3643 2355 309214,3551 295150,4683 2356 309240,6831 295149,6901 2357 309295,4866 295165,1812 2358 309322,3994 295194,0487 2359 309362,8433 295236,4976 2360 309367,7749 295243,7506 2361 309391,6812 295278,9106 2362 309407,5358 295302,8231 2363 309442,3773 295342,0464 2364 309452,8088 295374,8329 2365 309454,9644 295411,6804 2366 309456,0293 295432,8557 2367 309440,9847 295501,6572 2368 309430,8236 295544,3960 2369 309427,6000 295597,8212 2370 309431,6622 295644,4121 2371 309431,6417 295682,1229 2372 309398,3372 295743,1748 2373 309372,3429 295769,2920 2374 309340,8877 295812,6840 2375 311237,0480 293779,6794 2376 311230,3490 293736,9919
+
+### 3.
+
+Mapa obszaru Natura 2000 PLH Góry Stołowe oraz obszaru Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku
+
+### Rozdział 4 IDENTYFIKACJA ORAZ OKREŚLENIE SPOSOBÓW ELIMINACJI LUB OGRANICZANIA ISTNIEJĄCYCH I POTENCJALNYCH ZAGROŻEŃ WEWNĘTRZNYCH I ZEWNĘTRZNYCH ORAZ ICH SKUTKÓW DLA OBSZARU PARKU, W TYM IDENTYFIKACJA ISTNIEJĄCYCH I POTENCJALNYCH ZAGROŻEŃ DLA ZACHOWANIA WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH, ORAZ GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+### 1.
+
+Istniejące zagrożenia wewnętrzne Lp. Identyfikacja zagrożenia Nazwa lub kod siedliska przyrodniczego lub gatunku, będących przedmiotami ochrony2),4) Sposób eliminacji lub ograniczania zagrożenia oraz jego skutków 1 Zamieranie monokultur świerkowych niedostosowanych do siedliska leśnego 1. Zachowanie właściwego stanu zdrowotnego drzewostanów przez usuwanie oraz korowanie drzew opanowanych przez grzyby, w szczególności z rodzaju opieńka (Armillaria spp.), i owady, w szczególności kornika drukarza (Ips typhographus), zagrażające trwałości drzewostanów, z pozostawieniem części drzew martwych i dziuplastych.2. Monitoring zagrożenia drzewostanów ze strony foliofagów przez jesienne poszukiwania larw zasnui świerkowej (Cephalcia abietis).3. Monitoring zagrożenia drzewostanów ze strony owadów przez wystawianie pułapek na brudnicę mniszkę (Lymantriamonacha) i kornika drukarza (Ips typhographus) 2 Niezgodność składu gatunkowego z siedliskiem leśnym oraz niewłaściwa struktura przestrzenna i wiekowa drzewostanów 1. Regulowanie składu gatunkowego drzewostanów z uwzględnieniem fazy rozwojowej drzewostanu, typu siedliskowego lasu oraz typu zbiorowiska roślinnego i możliwych wariantów składu gatunkowego z jednoczesną ochroną spontanicznych procesów odnowienia w miejscach o naturalnych procesach sukcesyjnych zgodnych z siedliskiem leśnym.2. Wykonywanie działań ochronnych z uwzględnieniem wymogów ochrony siedlisk przyrodniczych i gatunków roślin i zwierząt określonych w załącznikach do dyrektywy Parlamentu Europejskiego i Rady 2009/147/WE z dnia 30 listopada 2009 r. w sprawie ochrony dzikiego ptactwa (Dz. Urz. UE L 20 z 26.01.2010, str. 7, z późn. zm.), zwanej dalej „dyrektywą ptasią”, oraz dyrektywy Rady 92/43/EWG z dnia 21 maja 1992 r. w sprawie ochrony siedlisk przyrodniczych oraz dzikiej fauny i flory (Dz. Urz. WE L 206 z 22.07.1992, str. 7, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 102), zwanej dalej „dyrektywą siedliskową”. 3. Prowadzenie zabiegów pielęgnacyjno-hodowlanych w drzewostanach objętych programem przebudowy i renaturalizacji polegających na:1) stosowaniu różnych rodzajów cięć, w tym o charakterze pielęgnacyjnym i przekształceniowym, dla potrzeb przebudowy składu gatunkowego drzewostanów;2) odnawianiu drzewostanu pod osłoną, w lukach, na gniazdach oraz w poprawkach i uzupełnieniach;3) składaniu gałęzi na powierzchniach odnowieniowych;4) niszczeniu konkurencyjnej roślinności i pielęgnacji gleby;5) pracach szkółkarskich;6) zbiorze nasion, szyszek i innego materiału rozmnożeniowego, wysiewie nasion i hodowli sadzonek w szkółkach 3 Uszkadzanie odnowień i młodników przez jeleniowate (Cervidae) 1. Zabezpieczanie odnowień grodzeniami, indywidualnymi środkami mechanicznymi lub repelentami.2. Ochrona ostoi drapieżników dokonujących naturalnej redukcji jeleniowatych (Cervidae).3. Monitoring dynamiki drzewostanów, przeżywalności jodły pospolitej (Abies alba), buka zwyczajnego (Fagus silvatica) i jawora (Acer pseudoplatanus) i uszkodzeń gatunków lasotwórczych, których dokonały jeleniowate (Cervidae).4. Monitoring liczebności populacji jeleniowatych (Cervidae) i drapieżników.5. Regulacja populacji jelenia (Cervus elaphus) uwzględniająca wyniki monitoringu przeżywalności odnowień i młodników oraz liczebności jeleniowatych (Cervidae) oraz drapieżników dokonujących naturalnej redukcji jeleniowatych (Cervidae) 4 Zmiana stosunków wodnych i szaty roślinnej oraz zubożenie siedlisk wilgotnych spowodowane nadmiernym odpływem wody z obszaru Parku oraz zmniejszonymi opadami Siedliska przyrodnicze:1) 7140 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea);2) 71103) Torfowiska wysokie z roślinnością torfotwórczą (żywe);3) 7230 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk;4) 91D03) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne;5) 91E03) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 1. Zachowanie lub odtwarzanie zagrożonych siedlisk hydrogenicznych, w wyniku utrzymania poziomu wód gruntowych wokół mokradeł, przez konserwację istniejących i wykonywanie nowych zastawek.2. Przywracanie naturalnych reżimów wód w potokach, w tym kontrola odpływu ze zlewni cieków, w których funkcjonują największe systemy ujęć wody 5 Sukcesja drzew i krzewów na siedliskach wilgotnych, powodująca ich stopniową degenerację Siedliska przyrodnicze:1) 7140 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea);2) 7230 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk Usuwanie młodego pokolenia drzew i krzewów pochodzących z sukcesji naturalnej 6 Mała ilość martwego drewna 1. Siedliska przyrodnicze:1) 91D03) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne;2) 91E03) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe.2. Gatunki zwierząt:1) A217 Sóweczka (Glaucidium passerinum);2) A223 Włochatka (Aegoliusfunereus) Pozostawianie do całkowitego rozkładu (mineralizacji) drzew zamierających i martwych, z wyjątkiem:1) drzew pułapkowych związanych ze zwalczaniem gradacji owadów;2) nieokorowanych drzew zasiedlonych przez owady, w sytuacji ich gradacji i podjętego zwalczania;3) leżących martwych drzew, które w dużym nagromadzeniu stwarzają realne zagrożenie dla bezpieczeństwa pożarowego;4) stojących drzew zamierających i martwych zlokalizowanych wzdłuż dróg i szlaków turystycznych, zagrażających bezpieczeństwu osób odwiedzających Park i mieniu;5) martwych drzew leżących, których ilość uniemożliwia wykonanie odnowienia z sadzeń, jeżeli konieczne jest jego szybkie przeprowadzenie 7 Zmniejszanie się różnorodności gatunkowej i biocenotycznej zbiorowisk nieleśnych, na skutek sukcesji wtórnej 1. Siedliska przyrodnicze:1) 62303) Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie);2) 6510 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris);3) 6520 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion);4) 7140 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea);5) 7230 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk.2. Gatunki roślin: 4094 goryczuszka czeska (Gentianella bohemica).3. Gatunki zwierząt:1) 6177 modraszek telejus (Maculinea (Phengaris) teleius);2) 6179 modraszek nausitous (Maculinea (Phengaris) nausithous);3) A122 derkacz (Crex crex) 1. Koszenie wraz z usuwaniem biomasy lub ekstensywny wypas zwierząt.2. Usuwanie naturalnego odnowienia drzew i krzewów.3. Usuwanie wywrotów drzew z przylegających do ekosystemów trawiastych zbiorowisk leśnych, które leżąc na łąkach, uniemożliwiają ich koszenie mechaniczne.4. Monitoring skuteczności prowadzonych działań ochronnych 8 Nieprzestrzeganie przez odwiedzających Park zasad ochrony przyrody, w szczególności:1) poruszanie się poza szlakami turystycznymi i przebywanie turystów lub odwiedzających Park w miejscach nieudostępnionych;2) niszczenie infrastruktury turystycznej i edukacyjnej;3) zaśmiecanie i zanieczyszczanie obszaru Parku;4) chwytanie i płoszenie zwierząt;5) niszczenie siedlisk, w tym siedlisk przyrodniczych;6) uszkadzanie lub niszczenie roślin oraz grzybów;7) nocowanie na obszarze Parku poza miejscami wyznaczonymi Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Ukierunkowanie ruchu turystycznego przez budowę i konserwację infrastruktury turystycznej, w tym odnawianie oznaczeń szlaków i drogowskazów na węzłach komunikacyjnych.2. Ustawianie tablic informacyjnych z regulaminem Parku oraz prezentujących informacje na temat obowiązujących w Parku zakazów, w tym w postaci piktogramów.3. Konserwacja oznakowania granic Parku.4. Usprawnianie ruchu turystycznego i ograniczanie liczby turystów na Szczelińcu Wielkim i Błędnych Skałach, w szczególności przez utworzenie tras turystycznych i wprowadzenie limitów wejść na trasy turystyczne.5. Kontrola przestrzegania zasad korzystania z obszaru Parku przez Służbę Parku Narodowego, ze szczególnym uwzględnieniem obowiązujących zakazów i ograniczeń.6. Edukacja społeczeństwa 9 Nieuprawnione korzystanie z zasobów Parku, w tym:1) nielegalny zbiór roślin, zwierząt i grzybów;2) ruch pojazdów mechanicznych, w szczególności motocykli, quadów i skuterów;3) eksploracja nieudostępnionych wychodni skalnych;4) używanie statków powietrznych, w tym bezzałogowych statków powietrznych (dronów), bez wymaganych zezwoleń Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Patrolowanie obszaru Parku przez Służbę Parku Narodowego i kontrola przestrzegania zasad korzystania z jego obszaru, ze szczególnym uwzględnieniem obowiązujących zakazów i ograniczeń.2. Kontrola zbioru jagód i grzybów w miejscach udostępnionych, ze szczególnym uwzględnieniem sposobu jego dokonywania.3. Instalowanie barier (szlabanów) na wjazdach na newralgiczne odcinki dróg.4. Stosowanie naturalnych przeszkód uniemożliwiających nielegalne wjazdy pojazdami mechanicznymi.5. Zastosowanie monitoringu wizyjnego w miejscach newralgicznych.6. Konserwacja oznakowania granic Parku 10 Niszczenie ekosystemów naskalnych w wyniku wzmożonej presji turystycznej lub nieuprawnionego wstępu na obszar Parku 1. Siedliska przyrodnicze:1) 4060 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum);2) 8220 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii. 2. Gatunki zwierząt:1) A103 sokół wędrowny (Falco peregrinus);2) A215 puchacz (Bubo bubo) 1. Ograniczenie antropopresji przez ograniczenie dostępu do wybranych obszarów Parku, w szczególności miejsc występowania siedlisk przyrodniczych oraz stanowisk gatunków o szczególnym znaczeniu dla Parku, w tym mietlicy skalnej (Agrostis rupestris), jastrzębca rurkokwiatowego (Hieraciumsudetotubulosum) i sokoła wędrownego (Falco peregrinus).2. Udostępnianie niektórych obszarów Parku do wspinaczki - zgodnie z zarządzeniem Dyrektora Parku w sprawie zasad udostępniania Parku.3. Ukierunkowanie ruchu turystycznego przez uzupełnienie infrastruktury turystycznej, w szczególności barier i ogrodzeń, w miejscach rozdeptywanego otoczenia szlaków.4. Kontrola przestrzegania zasad korzystania z zasobów Parku przez Służbę Parku Narodowego 11 Degradacja szaty roślinnej i erozja pokrywy glebowej na szlakach i w ich najbliższym otoczeniu w wyniku intensywnego ruchu turystycznego Siedliska przyrodnicze:1) 9110 Kwaśne buczyny (Luzulo-Fagetum);2) 9130 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion);3) 91803) Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani);4) 91D03) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne;5) 9410 Górskie bory świerkowe (Piceion abietis, część - zbiorowiska górskie) 1. Monitoring natężenia ruchu turystycznego na szlakach i ścieżkach edukacyjnych oraz występowania erozji glebowej.2. Bieżąca konserwacja oraz remonty nawierzchni szlaków turystycznych i ścieżek edukacyjnych.3. Uzupełnianie, konserwacja lub remonty infrastruktury turystycznej.4. Stosowanie zabezpieczeń przeciwerozyjnych 12 Deficyt potencjalnych miejsc lęgowych dla gniazdujących w dziuplach sów (Strigiformes), popielicowatych (Gliridae) i nietoperzy (Chiroptera) Gatunki zwierząt:1) A217 sóweczka (Glaucidium passerinum);2) A223 włochatka (Aegoliusfunereus);3) 1308 mopek (Barbastella barbastellus);4) 1323 nocek Bechsteina (Myotis bechsteinii);5) 1324 nocek duży (Myotismyotis) 1. Zwiększanie liczby potencjalnych miejsc lęgowych przez wywieszanie budek lęgowych dla sów (Strigiformes), popielicowatych (Gliridae) i nietoperzy (Chiroptera).2. Wyznaczanie stref ochronnych wokół stanowisk lęgowych sóweczki (Glaucidium passerinum) i włochatki (Aegolius funereus).3. Ograniczenie lub rezygnacja z realizacji działań ochronnych w miejscach gniazdowania sów (Strigiformes), popielicowatych (Gliridae) i nietoperzy (Chiroptera), w sezonie lęgowym lub rozrodczym.4. Monitoring populacji sóweczki (Glaucidium passerinum), włochatki (Aegolius funereus), popielicowatych (Gliridae) i nietoperzy (Chiroptera).5. Pozostawianie do naturalnego rozkładu stojących drzew zamierających i martwych 13 Śmiertelność ptaków (Aves) powodowana zderzeniami z napowietrznymi liniami energetycznymi Gatunki zwierząt: A215 puchacz (Bubo bubo) Podejmowanie działań na rzecz stopniowej likwidacji napowietrznych linii energetycznych i zastępowania ich liniami podziemnymi 14 Zanikanie starych odmian drzew owocowych oraz spadek liczebności i różnorodności populacji owadów zapylających 1. Pielęgnacja i rozwój sadu kolekcyjnego starych drzew owocowych.2. Pielęgnacja starych sadów oraz drzew przydomowych.3. Pozyskiwanie materiału genetycznego z wybranych drzew owocowych pochodzących z obszaru Parku i jego otuliny.4. Hodowla materiału sadzeniowego.5. Podejmowanie działań zmierzających do odtworzenia zespołu owadów zapylających zbliżonego do naturalnego 15 Zamieranie gatunków roślin o szczególnym znaczeniu dla Parku oraz problemy z naturalną odbudową ich populacji Gatunki roślin: 4094 goryczuszka czeska (Gentianella bohemica) 1. Zbiór oraz deponowanie części zebranych nasion roślin o szczególnym znaczeniu dla Parku w banku nasion.2. Hodowla sadzonek.3. Wprowadzanie wyhodowanych sadzonek na wybrane stanowiska.4. Monitoring populacji gatunków roślin o szczególnym znaczeniu dla Parku.5. Czynna lub bierna ochrona stanowisk zgodnie z potrzebami gatunków 16 Zanieczyszczanie powierzchni ziemi, gleb i wód Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Zbiórka, segregacja i wywóz odpadów stałych.2. Popularyzacja mechanizmów finansowych i rozwiązań prawnych umożliwiających uporządkowanie gospodarki wodno-ściekowej w celu wyeliminowania zagrożeń dla gleb i wód.3. Działania na rzecz wdrażania programu monitoringu hydrologicznego i hydrochemicznego 17 Rozprzestrzenianie się na obszarze Parku obcych gatunków roślin, zwierząt i grzybów, w tym gatunków inwazyjnych Siedliska przyrodnicze:1) 6430 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium);2) 6510 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion el atioris);3) 6520 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion);4) 9110 Kwaśne buczyny (Luzulo-Fagetum);5) 9130 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion);6) 91803) Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani);7) 91E03) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 1. Eliminacja lub ograniczanie liczebności gatunków inwazyjnych.2. Monitoring występowania obcych gatunków roślin, zwierząt i grzybów, wraz z oceną skuteczności prowadzonych działań ochronnych 18 Śmiertelność zwierząt na drogach publicznych przebiegających przez Park Gatunki zwierząt: 13523) wilk (Canis lupus) 1. Identyfikacja, w porozumieniu z zarządcą drogi, odcinków dróg zagrożonych zwiększoną śmiertelnością zwierząt.2. Działania na rzecz ustawiania znaków ostrzegawczych przy drogach publicznych.3. Działalność edukacyjna i propagowanie możliwych zabezpieczeń w stosunku do różnych grup systematycznych zwierząt, w szczególności przejść dla płazów (Amphibia) 19 Zanikanie śladów kultury materialnej, w tym niszczenie obiektów kulturowych na obszarze Parku 1. Remonty i zabezpieczanie obiektów kulturowych, w szczególności obiektów zabytkowych.2. Bieżąca konserwacja lub odtwarzanie elementów małej architektury sakralnej i świeckiej, w szczególności kapliczek, krzyży, pomników, tablic pamiątkowych, kamieni milowych, kamiennych drogowskazów przy drogach, napisów na skałach oraz technicznych elementów urządzenia dróg, mostów i szlaków turystycznych.3. Inwentaryzacja wszystkich obiektów i śladów dawnej kultury materialnej 20 Utrata walorów krajobrazowych, w tym krajobrazu naturalnego, w związku z zabudową, w tym tworzeniem infrastruktury turystycznej 1. Dbałość o estetykę elementów infrastruktury turystycznej.2. Wykorzystywanie przy budowie lub remontach infrastruktury turystycznej materiałów naturalnych, w szczególności drewna.3. Rezygnacja z budowy lub utrzymywania elementów infrastruktury turystycznej zniekształcającej krajobraz w miejscach mało uczęszczanych przez turystów 21 Nadmierna presja turystyczna Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Zarządzanie ruchem turystycznym, w szczególności przez jego kanalizowanie i regulowanie.2. Usprawnianie ruchu turystycznego i ograniczanie ilości turystów na Szczelińcu Wielkim i Błędnych Skałach przez wprowadzenie limitów wejść na trasy turystyczne.3. Wprowadzanie okresowych ograniczeń w udostępnianiu niektórych obszarów Parku.4. Edukacja społeczności lokalnych i turystów w zakresie ochrony przyrody 22 Istnienie na obszarze Parku obiektów niesłużących jego celom 1. Likwidacja zbędnych Parkowi obiektów niesłużących jego celom, będących jego własnością.2. Dążenie do likwidacji nieużytkowanych ujęć wody znajdujących się na obszarze Parku 23 Niekorzystna struktura własności utrudniająca zarządzanie Parkiem 1. Dążenie do przejęcia gruntów Skarbu Państwa pozostających we władaniu innych podmiotów.2. Nabywanie znajdujących się w granicach Parku gruntów niebędących w użytkowaniu wieczystym Parku lub niebędących jego własnością 24 Presja zabudowy prywatnych nieruchomości na obszarze Parku powodująca w szczególności zanieczyszczenie powietrza, zrzuty ścieków do wód, przekształcanie powierzchni ziemi Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt Nabywanie na rzecz Skarbu Państwa lub na rzecz Parku nieruchomości, w tym przez realizację prawa pierwokupu 25 Organizacja imprez masowych skutkujących okresowym nasileniem negatywnych oddziaływań, w szczególności hałasu, na walory przyrodnicze Parku Gatunki zwierząt:1) 13523) wilk (Canis lupus);2) A215 puchacz (Bubo bubo);3) A122 derkacz (Crex crex) Ograniczanie organizacji imprez masowych charakteryzujących się w szczególności negatywnym oddziaływaniem na warunki bytowania dzikich zwierząt oraz formy rozwojowe roślin 26 Ograniczenia w migracji zwierząt spowodowane fragmentacją siedlisk, narastającym ruchem samochodowym i tworzeniem nowych szlaków turystycznych Gatunki zwierząt: 13523) wilk (Canis lupus) 1. Waloryzacja liniowych i punktowych barier antropogenicznych na obszarze Parku, w tym ciągów komunikacyjnych i ogrodzeń, wraz z oceną ich wpływu na drożność korytarzy ekologicznych.2. Poprawa organizacji ruchu samochodowego i miejsc parkingowych na terenach zarządzanych przez Park.3. Minimalizacja znaczenia barier liniowych dla gatunków wrażliwych przez ograniczenie rozbudowy istniejących ciągów komunikacyjnych.4. Ograniczenie tworzenia nowych szlaków turystycznych.5. Działania edukacyjne
+
+### 2.
+
+Potencjalne zagrożenia wewnętrzne Lp. Identyfikacja zagrożenia Nazwa lub kod siedliska przyrodniczego lub gatunku, będących przedmiotami ochrony2),4) Sposób eliminacji lub ograniczania zagrożenia oraz jego skutków 1 Wystąpienie ruchów masowych związanych z wietrzeniem fizycznym i fizykochemicznym skał budujących stoliwa 1. Siedliska przyrodnicze:1) 4060 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum);2) 8220 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii. 2. Gatunki zwierząt: A103 sokół wędrowny (Falco peregrinus) 1. Monitoring powierzchniowych ruchów masowych przez zainstalowanie i odczyty z punktów reperowych oraz szczelinomierzy w zagrożonych rejonach, w szczególności w rejonie ścian Progu Radkowskiego.2. Ograniczenie udostępniania niektórych obszarów Parku.3. Kontrola przestrzegania zasad udostępniania obszaru Parku.4. Zabezpieczenie szlaków przed erozją 2 Występowanie pożarów Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Opracowanie i wdrożenie planu ochrony przeciwpożarowej Parku oraz instrukcji postępowania w przypadku powstania pożaru.2. Wykonywanie zabiegów profilaktycznych i ochronnych zapobiegających powstaniu i rozprzestrzenianiu się pożarów.3. Zapewnienie i utrzymywanie dróg lub dojazdów pożarowych, które umożliwiają dotarcie pojazdów gaśniczych oraz dróg dojścia dla patroli interwencyjnych.4. Zapewnienie i utrzymywanie zaopatrzenia w wodę przeznaczoną do celów przeciwpożarowych, w tym utrzymywanie i monitoring źródeł wody gromadzonej w tym celu, stanowisk czerpania wody wraz z dojazdami oraz punktów poboru wody.5. Zapewnienie baz sprzętu do gaszenia pożarów lasów i regularne kontrole jego sprawności. 3 6. Organizowanie obserwacji i patrolowania lasów w celu wykrycia pożarów oraz alarmowania o ich powstaniu.7. Bieżąca współpraca z jednostkami Państwowej Straży Pożarnej.8. Edukacja społeczeństwa w zakresie ochrony przeciwpożarowej Nieskuteczność działań ochronnych prowadzonych w stosunku do gatunków roślin, zwierząt i grzybów, oraz ich siedlisk Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Prowadzenie monitoringu elementów przyrodniczych oraz procesów przyrodniczych.2. Dostosowywanie działań ochronnych do wyników prowadzonego monitoringu
+
+### 3.
+
+Istniejące zagrożenia zewnętrzne Lp. Identyfikacja zagrożenia Nazwa lub kod siedliska przyrodniczego lub gatunku, będących przedmiotami ochrony2),4) Sposób eliminacji lub ograniczania zagrożenia oraz jego skutków 1 Działalność Kopalni Piaskowca Radków (złoże „Radków”) Gatunki zwierząt:1) A103 sokół wędrowny (Falco peregrinus);2) A215 puchacz (Bubo bubo) 1. Dążenie do ograniczenia, w okresie lęgów ptaków, prac strzałowych związanych z eksploatacją piaskowca pozyskiwanego ze złoża „Radków”.2. Dążenie do zaniechania eksploatacji i wykorzystania obiektu do celów turystycznych i edukacyjnych 2 Niedostateczny poziom wiedzy turystów i społeczności lokalnych na temat roli, jaką odgrywa Park, oraz zasad i przepisów obowiązujących w Parku 1. Organizacja kampanii i zajęć edukacyjnych promujących przyrodę i działalność Parku.2. Monitoring postaw turystów i społeczności lokalnych wobec ochrony przyrody i jakości zagospodarowania turystycznego i edukacyjnego w Parku.3. Dostosowywanie oferty edukacyjnej do wyników badań monitoringowych 3 Brak akceptacji społeczności lokalnej dla działalności Parku Budowanie akceptacji dla działalności Parku w społecznościach lokalnych, w szczególności przez:1) podejmowanie działań służących ochronie przyrody w Parku i przynoszących korzyści społeczności lokalnej, w tym w zakresie obsługi ruchu turystycznego;2) prowadzenie działań edukacyjnych skierowanych do społeczności lokalnych, szczególnie w zakresie turystyki zrównoważonej;3) popularyzację mechanizmów finansowych i rozwiązań prawnych umożliwiających ograniczanie zanieczyszczania powietrza oraz uporządkowanie gospodarki wodno-ściekowej, w celu wyeliminowania zagrożeń dla gleb i wód;4) monitoring postaw społeczności lokalnych i dostosowanie działań edukacyjnych i informacyjnych do potrzeb wynikających z monitoringu 4 Niska wrażliwość ekologiczna społeczeństwa na problematykę dotyczącą ochrony przyrody i roli Parku w systemie ochrony przyrody 1. Realizacja programów edukacyjnych, w szczególności skierowanych do dzieci i młodzieży szkolnej.2. Przygotowywanie i publikacja wydawnictw dotyczących środowiska przyrodniczego i kulturowego Parku oraz problemów ochrony przyrody.3. Współpraca ze społecznościami lokalnymi, w tym z jednostkami samorządu terytorialnego, na obszarze których położony jest Park i jego otulina 5 Przerwanie powiązań ekologicznych obszaru Parku z otoczeniem Gatunki zwierząt: 13523) wilk (Canis lupus) 1. Zachowanie ciągłości korytarzy ekologicznych łączących Park z innymi obszarami chronionymi, w tym przez współpracę z jednostkami samorządu terytorialnego przy opracowywaniu planów ogólnych gmin oraz miejscowych planów zagospodarowania przestrzennego.2. Współdziałanie z organami samorządowymi województwa dolnośląskiego na rzecz wypracowania zasad ochrony krajobrazu w audycie krajobrazowym, ze szczególnym uwzględnieniem zagadnień związanych z fragmentacją naturalnych i półnaturalnych ekosystemów, fragmentacją przestrzeni przyrodniczej oraz zagęszczeniem barier ekologicznych w krajobrazie.3. Prowadzenie badań naukowych i monitoringu przyrodniczego w zakresie wykorzystania przestrzeni przyrodniczej w otulinie Parku, w tym waloryzacja cech fizycznych krajobrazu, siedlisk gatunków i ostoi zwierząt wykorzystywanych przez populacje zwierząt migrujących, w szczególności zwierząt kopytnych oraz dużych drapieżników, w celu wyznaczania korytarzy ekologicznych o znaczeniu lokalnym, ponadlokalnym i transgranicznym, w porozumieniu z właścicielami lub władającymi nieruchomościami 6 Zanieczyszczenie powietrza, gleb, wód i hałas wzdłuż szlaków komunikacyjnych przecinających Park Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Propagowanie rozwiązań mających na celu ograniczenie ruchu kołowego na obszarze Parku.2. Wspieranie rozwoju transportu zbiorowego i alternatywnego na obszarze Parku.3. Dążenie do ograniczenia ruchu samochodowego na drodze Polana YMCA-Błędne Skały przez wprowadzenie transportu alternatywnego lub zbiorowego 7 Zanieczyszczenie powietrza, gleb i wód na skutek funkcjonowania na obszarze Parku i w jego bezpośrednim sąsiedztwie zabudowy mieszkaniowej i zagrodowej oraz ośrodków wypoczynkowych Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Propagowanie idei modernizacji i przebudowy systemów ogrzewania oraz urządzeń związanych z gospodarką wodno-ściekową.2. Współpraca z jednostkami samorządu terytorialnego na rzecz eliminacji lub ograniczania zanieczyszczenia powietrza, gleb i wód.3. Dążenie do wprowadzania w planach ogólnych gmin i miejscowych planach zagospodarowania przestrzennego postanowień zmierzających do ograniczenia zanieczyszczenia powietrza, gleb i wód, w tym przez budowę systemów kanalizacji.4. Dążenie do likwidacji nielegalnych składowisk odpadów w sąsiedztwie Parku.5. Edukacja ekologiczna społeczeństwa.6. Propagowanie rolnictwa ekologicznego 8 Obniżanie poziomu zlokalizowanych na obszarze Parku wód gruntowych w wyniku zmniejszonych opadów atmosferycznych oraz zwiększonej eksploatacji ujęć wód powierzchniowych i podziemnych Wszystkie siedliska przyrodnicze 1. Ograniczenie lokalizacji nowych ujęć wody na obszarze Parku; lokalizacja możliwa po przeprowadzeniu szczegółowych badań hydrogeologicznych określających obszary perspektywiczne do ujmowania wód podziemnych oraz po stwierdzeniu, że nie spowodowują one pogorszenia warunków siedliskowych, w szczególności ekosystemów hydrogenicznych.2. Monitoring odpływu wód ze zlewni cieków, w których funkcjonują największe systemy ujęć wody.3. Monitoring ilości pobieranej wody z ujęć znajdujących się na obszarze Parku.4. Monitoring wód podziemnych.5. Monitoring ilości opadów atmosferycznych.6. Ograniczenie nadmiernego odpływu wód z obszaru Parku, w tym przez konserwację lub budowę zastawek oraz zasypywanie rowów melioracyjnych.7. Odtwarzanie lub zachowanie siedlisk hydrogenicznych.8. Przywracanie naturalnych reżimów wodnych w ciekach na obszarze Parku 9 Zanik walorów krajobrazowych otoczenia Parku, w szczególności zanik walorów krajobrazu kulturowego 1. Propagowanie regionalnych wzorów architektury sudeckiej.2. Dążenie do wprowadzania w planach ogólnych gmin i miejscowych planach zagospodarowania przestrzennego postanowień dotyczących kształtowania nowej i przekształceń dawnej architektury, zgodnie ze wzorem architektury sudeckiej.3. Współdziałanie z organami samorządowymi województwa dolnośląskiego na rzecz wypracowania zasad ochrony krajobrazu w audycie krajobrazowym.4. Prowadzenie działań edukacyjnych promujących tradycyjne budownictwo.5. Propagowanie wśród mieszkańców i organów jednostek samorządu terytorialnego korzyści z przyjęcia uchwały o zasadach i warunkach sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytach, standardach jakościowych oraz rodzajach materiałów budowlanych, z jakich mogą być wykonane, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, 1506, 1597, 1688, 1890 i 2029).6. Współpraca z organami jednostek samorządu terytorialnego w zakresie wprowadzenia w uchwałach o zasadach i warunkach sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytach, standardach jakościowych oraz rodzajach materiałów budowlanych, z jakich mogą być wykonane, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, regulacji dotyczących kształtowania przedmiotu uchwały w sposób zgodny ze wzorem architektury sudeckiej i z uwzględnieniem wartości krajobrazowych, w tym widokowych Parku 10 Obniżenie walorów krajobrazowych na skutek funkcjonowania infrastruktury energetycznej 1. Ograniczenie, do minimum wymaganego przepisami prawa, szerokości wyciętego pasa drzew wzdłuż przebiegu linii energetycznej.2. Dążenie do skablowania linii energetycznych na terenach otwartych, w szczególności Łąk Pasterskich i Łąk Łężyckich 11 Przenikanie na obszar Parku gatunków obcych, w tym inwazyjnych Wszystkie siedliska przyrodnicze oraz gatunki roślin i zwierząt 1. Regulacja liczebności gatunków obcych, w szczególności gatunków inwazyjnych.2. Współpraca z lokalnymi społecznościami dla podniesienia świadomości zagrożeń wynikających z obecności i rozprzestrzeniania się inwazyjnych gatunków obcych.3. Inicjowanie programów eliminacji gatunków obcych.4. Wnioskowanie do właścicieli i zarządzających nieruchomościami o usuwanie na swoim terenie inwazyjnych gatunków obcych.5. Współpraca z jednostkami samorządu terytorialnego na rzecz eliminacji gatunków obcych, w tym inwazyjnych 12 Naruszanie granic Parku 1. Patrolowanie granic przez Straż Parku.2. Regulacja stanu granic Parku.3. Konserwacja oznakowania granic Parku 13 Działalność kamieniołomu w miejscowości Božanov na terenie Republiki Czeskiej Wszystkie gatunki ptaków Dążenie do ograniczenia w okresie lęgów ptaków prac strzałowych związanych z eksploatacją kamieniołomu Božanov
+
+### 4.
+
+Potencjalne zagrożenia zewnętrzne Lp. Identyfikacja zagrożenia Nazwa lub kod siedliska przyrodniczego lub gatunku, będących przedmiotami ochrony2),4) Sposób eliminacji lub ograniczania zagrożenia oraz jego skutków 1 Zmniejszanie się wartości krajobrazu kulturowego na skutek wprowadzania zabudowy kubaturowej niezharmonizowanej z kulturowym i przyrodniczym otoczeniem oraz reklam 1. Podejmowanie, we współpracy z jednostkami samorządu terytorialnego, działań związanych z kształtowaniem stylu budownictwa lokalnego i lokalizacji przedsięwzięć infrastruktury niedysharmonizujących walorów krajobrazowych, w tym propagowanie korzyści z przyjęcia uchwały o zasadach i warunkach sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytach, standardach jakościowych oraz rodzajach materiałów budowlanych, z jakich mogą być wykonane, o której mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.2. Zapobieganie wprowadzaniu nowych elementów dysharmonizujących walory krajobrazu przez współpracę z organami jednostek samorządu terytorialnego w zakresie sporządzania planów ogólnych gmin, miejscowych planów zagospodarowania przestrzennego oraz uchwał o zasadach i warunkach sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabarytach, standardach jakościowych oraz rodzajach materiałów budowlanych, z jakich mogą być wykonane, o których mowa w art. 37a ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym.3. Prowadzenie działań edukacyjnych promujących miejscowe tradycje oraz kształtujących walory estetyczne dotyczące krajobrazu 2 Zanikanie lokalnych tradycji Prowadzenie działań edukacyjnych promujących w szczególności tradycyjne budownictwo, sadownictwo, pasterstwo oraz zwyczaje i język
+
+### Rozdział 5 OKREŚLENIE WARUNKÓW UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY PRZEDMIOTÓW OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU, ZACHOWANIA INTEGRALNOŚCI TYCH OBSZARÓW ORAZ SPÓJNOŚCI SIECI OBSZARÓW NATURA 2000
+
+### 1.
+
+Warunki utrzymania lub odtworzenia właściwego stanu ochrony przedmiotów ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku:
+
+### 1)
+
+dla siedlisk przyrodniczych:
+
+### a)
+
+40602) Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### b)
+
+62302),3) Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez wykaszanie lub wypas,
+
+### c)
+
+64302) Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### d)
+
+65102) Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez wykaszanie lub wypas,
+
+### e)
+
+65202) Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez wykaszanie lub wypas,
+
+### f)
+
+71102),3) Torfowiska wysokie z roślinnością torfotwórczą (żywe) - utrzymanie integralności powierzchni i składu gatunkowego płatów siedliska przez zapewnienie właściwych warunków hydrologicznych,
+
+### g)
+
+71402) Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez zapewnienie właściwych warunków hydrologicznych i ograniczenie wtórnej sukcesji leśnej w wyniku wykaszania lub odkrzaczania,
+
+### h)
+
+72302) Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez zapewnienie właściwych warunków hydrologicznych i ograniczenie wtórnej sukcesji leśnej w wyniku wykaszania lub odkrzaczania,
+
+### i)
+
+81102) Piargi i gołoborza krzemianowe - utrzymanie powierzchni płatów siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### j)
+
+82102) Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### k)
+
+82202) Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii - utrzymanie powierzchni i składu gatunkowego płatów siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### l)
+
+91102) Kwaśne buczyny (Luzulo-Fagetum) - utrzymanie powierzchni oraz struktury i funkcji siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### m)
+
+91302) Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) - utrzymanie powierzchni oraz struktury i funkcji siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### n)
+
+91802),3) Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) - utrzymanie powierzchni oraz struktury i funkcji siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### o)
+
+91D02),3) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne - utrzymanie lub odtworzenie powierzchni oraz struktury i funkcji siedliska przez zapewnienie właściwych warunków hydrologicznych,
+
+### p)
+
+91E02),3) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe - utrzymanie powierzchni oraz struktury i funkcji siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych,
+
+### q)
+
+94102) Górskie bory świerkowe (Piceion abietis, część - zbiorowiska górskie) - zachowanie typowej postaci siedliska przez brak ingerencji człowieka, zapewniający niezakłócony przebieg procesów przyrodniczych;
+
+### 2)
+
+dla gatunków roślin: 40942),3) goryczuszka czeska (Gentianella bohemica) - utrzymanie stanowisk występowania gatunku przez wykaszanie i wertykulację oraz zachowanie zasobów genowych, w tym zbiór nasion do zasilania populacji macierzystej;
+
+### 3)
+
+dla gatunków zwierząt:
+
+### a)
+
+61772) modraszek telejus (Maculinea (Phengaris) teleius) - utrzymanie potencjalnych siedlisk gatunku przez wykaszanie,
+
+### b)
+
+61792) modraszek nausitous (Maculinea (Phengaris) nausithous) - utrzymanie potencjalnych siedlisk gatunku przez wykaszanie,
+
+### c)
+
+13032) podkowiec mały (Rhinolophus hipposideros) - zachowanie żerowisk: lasów bukowych i mieszanych porastających zbocza górskie i sąsiedztwo skał, przez brak ingerencji człowieka,
+
+### d)
+
+13082) mopek (Barbastella barbastellus) - zachowanie siedlisk: obszarów leśnych z dużym udziałem starodrzewów i obecnością starych drzew dziuplastych oraz rozwieszanie budek rozrodczych,
+
+### e)
+
+13232) nocek Bechsteina (Myotis bechsteinii) - zachowanie siedlisk: obszarów leśnych z dużym udziałem starodrzewów liściastych i mieszanych, z obecnością starych drzew dziuplastych,
+
+### f)
+
+13242) nocek duży (Myotis myotis) - zachowanie żerowisk: obszarów leśnych z dużym udziałem starodrzewów liściastych i mieszanych (głównie buczyn), o niewielkim zwarciu,
+
+### g)
+
+13522),3) wilk (Canislupus) - zachowanie obszarów leśnych ze starodrzewami i martwym drewnem spełniającym ważną rolę mikrosiedliskową, utrzymanie miejsc rozrodu oraz łączności przestrzennej między populacjami w innych kompleksach leśnych, zachowanie wysokich zagęszczeń jeleniowatych (Cervidae) i dzików (Sus scrofa), stanowiących bazę żerową gatunku,
+
+### h)
+
+A0304) bocian czarny (Ciconia nigra) - zachowanie obszarów leśnych z udziałem starodrzewów oraz wysokiego poziomu wód gruntowych i powierzchniowych,
+
+### i)
+
+A1034) sokół wędrowny (Falco peregrinus) - rozpoznanie miejsc gniazdowania i wytyczenie wokół nich stref ochronnych, ograniczenie prac odstrzałowych w kopalni piaskowca Radków w sezonie lęgowym,
+
+### j)
+
+A1224) derkacz (Crex crex) - utrzymanie siedlisk gatunku przez wykaszanie lub wypas,
+
+### k)
+
+A2154) puchacz (Bubo bubo) - rozpoznanie miejsc gniazdowania i wytyczenie wokół nich stref ochronnych, ograniczenie prac odstrzałowych w kopalni piaskowca Radków w sezonie lęgowym,
+
+### l)
+
+A2174) sóweczka (Glaucidium passerinum) - zachowanie obszarów leśnych z dużym udziałem starodrzewów oraz pozostawianie wszystkich drzew dziuplastych, w tym obumierających i martwych,
+
+### m)
+
+A2234) włochatka (Aegolius funereus) - zachowanie obszarów leśnych z dużym udziałem starodrzewów oraz pozostawianie wszystkich drzew dziuplastych, w tym obumierających i martwych,
+
+### n)
+
+A2344) dzięcioł zielonosiwy (Picus canus) - zachowanie obszarów leśnych z dużym udziałem starodrzewów oraz pozostawianie wszystkich drzew dziuplastych, w tym obumierających i martwych.
+
+### 2.
+
+Warunki zachowania integralności obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe oraz spójności sieci obszarów Natura 2000:
+
+### 1)
+
+utrzymanie we właściwym stanie ochrony siedlisk przyrodniczych i gatunków, występujących na obszarze Parku i będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku;
+
+### 2)
+
+uwzględnienie uwarunkowań przestrzennych i warunków zachowania właściwego stanu ochrony przedmiotów ochrony w dokumentach planistycznych gmin oraz planie zagospodarowania przestrzennego województwa dolnośląskiego;
+
+### 3)
+
+popularyzowanie wiedzy o siedliskach przyrodniczych oraz gatunkach, będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe;
+
+### 4)
+
+podjęcie działań na rzecz utrzymania lub odtworzenia korytarzy ekologicznych umożliwiających migrację gatunków z obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe do sąsiadujących obszarów Natura 2000: Grodczyn i Homole koło Dusznik (PLH020039), Piekielna Dolina koło Polanicy (PLH020010), Góry Orlickie (PLH020060), Torfowisko pod Zieleńcem (PLH020014), Dolina Bystrzycy Łomnickiej (PLH020083), Góry Kamienne (PLH020038), Sudety Wałbrzysko-Kamiennogórskie (PLB020010) i Ostoja Nietoperzy Gór Sowich (PLH020071) oraz ich łączność z innymi obszarami chronionymi.
+
+### Rozdział 6 WSKAŹNIKI WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH LUB GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+### 1.
+
+Wskaźniki właściwego stanu ochrony siedlisk przyrodniczych będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe w części pokrywającej się z obszarem Parku Lp. Nazwa siedliska przyrodniczego Kod siedliska przyrodniczego2) Wskaźnik właściwego stanu ochrony siedliska przyrodniczego Parametr lub wskaźnik stanu ochrony8) Cel ochrony9) 1 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) 4060 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 4,6 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Występowanie gatunków typowych dla siedliska powyżej 5% pokrycia Gatunki dominujące, w tym ekspansja borówki czarnej (Vaccinium myrtillus) Udział borówki czarnej w płacie poniżej50% Zniszczenia mechaniczne Brak śladów antropopresji Ekspansja kosodrzewinyPinus mugo Udział pojedynczych krzewów lub siewek kosodrzewiny (Pinus mugo) 2 Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) 62303) Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 22,5 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Występowanie powyżej 4 gatunków charakterystycznych dla siedliska i wyróżniających Gatunki dominujące Pokrycie bliźniczki psiej trawki (Nardus stricta) w transekcie powyżej 40% Obce gatunki inwazyjne Brak Rodzime gatunki ekspansywne roślin zielnych Łączne pokrycie gatunków ekspansywnych poniżej 30% Ekspansja krzewów i podrostu drzew Pokrycie warstwy B w transekcie poniżej 10-25% Eutrofizacja Brak oznak Struktura przestrzenna płatów siedliska Płaty siedliska zwarte i rozległe lub siedlisko z natury drobnopowierzchniowe, lecz wielkość płatów stabilna Bogactwo gatunkowe Występowanie powyżej 25 gatunków na transekcie 3 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) 6430 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 6,78 ha Gatunki charakterystyczne Występują co najmniej 4 gatunki charakterystyczne dla siedliska Gatunki ekspansywne roślin zielnych Nie występują lub występują na powierzchni mniejszej niż 10% Bogactwo gatunkowe Powyżej 20 gatunków w zdjęciu fitosocjologicznym Obce gatunki inwazyjne Brak Naturalność koryta rzecznego Brak regulacji Naturalny kompleks siedlisk W otoczeniu siedliska znajdują się zbiorowiska naturalne 4 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) 6510 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 16,16 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Występują co najmniej 3 gatunki charakterystyczne dla siedliska Gatunki dominujące Brak gatunków panujących lub status dominanta osiągają gatunki charakterystyczne dla siedliska Obce gatunki inwazyjne Brak lub pojedyncze osobniki gatunków o niskim stopniu inwazyjności Gatunki ekspansywne roślin zielnych Brak gatunków silnie ekspansywnych i łączne pokrycie gatunków ekspansywnych poniżej 50% Ekspansja krzewów i podrostu drzew Łączne pokrycie na transekcie poniżej 1% Udział dobrze zachowanych płatów siedliska Płaty dobrze zachowane stanowią nie mniej niż 80% powierzchni transektu Wojłok (martwa materia organiczna) Poniżej 2 cm Struktura przestrzenna płatów siedliska Brak fragmentacji lub fragmentacja nieznaczna 5 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono- -Trisetion) 6520 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 180,57 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Gatunki charakterystyczne dla związku (Polygono-Trisetion) i (Arrhenatherion) liczne (3-5) i obecne inne gatunki typowe dla łąk górskich Gatunki dominujące Współpanują gatunki typowo łąkowe i płaty siedliska bogate gatunkowo lub stan pośredni Obce gatunki inwazyjne Brak lub pojedyncze osobniki o niskim stopniu inwazyjności Gatunki ekspansywne roślin zielnych Brak lub gatunki w niewielkim pokryciu Ekspansja krzewów i podrostu drzew Łączne pokrycie na transekcie poniżej 1% Zachowanie strefy ekotonowej Brak ekotonu lub brak w ekotonie gatunków ekspansywnych Wojłok (martwa materia organiczna) Poniżej 2 cm Powierzchnia zajęta przez siedlisko na transekcie Procent powierzchni zajęty przez siedlisko na transekcie 80-100% Struktura przestrzenna płatów siedliska Brak fragmentacji lub fragmentacja nieznaczna 6 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 71103) Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 0,87 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Występują co najmniej 3 gatunki torfowców i 2 gatunki roślin naczyniowych spośród wymienionych gatunków charakterystycznych Pokrycie i struktura gatunkowa torfowców Całkowite pokrycie torfowców - ponad 50%, gatunki torfowców magellańskiego (Sphagnum magellanicum), brodawkowatego (Sphagnum papillosum), brunatnego (Sphagnum fuscum), czerwonego (Sphagnum rubellum), ostrolistnego (Sphagnum capillifolium) zajmują łącznie poniżej 40% całkowitej powierzchni zajmowanej przez wszystkie gatunki torfowców Obce gatunki inwazyjne Brak gatunków inwazyjnych Rodzime gatunki ekspansywne roślin zielnych Poniżej 5% powierzchni siedliska Odpowiednie uwodnienie Poziom wody mierzony w piezometrze poniżej 10 cm w stosunku do powierzchni torfowiska - warstwy torfowców Struktura powierzchni torfowiska (obecność dolinek i kęp) Średnio wykształcony mszar kępkowo-dolinkowy, gdzie w rejonie kęp występują torfowce (Sphagnum), w szczególności torfowiec brunatny (Sphagnum fuscum), torfowiec czerwony (Sphagnum rubellum), torfowiec ostrolistny (Sphagnum capillifolium), torfowiec Russowa (Sphagnum russowi) oraz mchy z rodzaju płonnik (Polytrichum), z dość licznym udziałem krzewinek oraz innych roślin naczyniowych, natomiast dolinki dobrze uwodnione zajęte przez różne gatunki torfowców oraz rośliny naczyniowe Pozyskanie torfu Melioracje odwadniające Brak pozyskania torfu Infrastruktura melioracyjna, na skutek podjętych działań ochronnych, w niewielkim stopniu oddziałuje na warunki wodne Obecność krzewów i drzew Pokrycie drzew poniżej 10%, krzewów poniżej 30% 7 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) 7140 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 19,18 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Procent powierzchni zajęty przez siedlisko na transekcie 80-100% powierzchni siedliska na transekcie Gatunki charakterystyczne Powyżej 4 gatunków charakterystycznych albo poniżej 4, przy pokryciu gatunków charakterystycznych na transekcie 20-50% Gatunki dominujące Dominują gatunki charakterystyczne dla siedliska lub brak dominanta, lecz przeważają gatunki charakterystyczne Pokrycie i struktura gatunkowa mchów Całkowite pokrycie mchów powyżej 50% i mchy torfowce zajmują łącznie powyżej 50% całkowitej powierzchni porośniętej przez wszystkie gatunki mchów Obce gatunki inwazyjne Brak gatunków inwazyjnych Gatunki ekspansywne roślin zielnych Zajmują do 5% powierzchni Obecność krzewów i podrostu drzew Brak lub pojedyncze Stopień uwodnienia Poziom wody mierzony w piezometrze -10-20 cm poniżej powierzchni torfowiska Pozyskanie torfu Brak Melioracje odwadniające Infrastruktura melioracyjna, na skutek podjętych działań ochronnych, w niewielkim stopniu oddziałuje na warunki wodne 8 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk 7230 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 0,23 ha Powierzchnia siedliska Powierzchnia siedliska na stanowisku nie podlega zmianom lub zwiększa się Procent powierzchni zajęty przez siedlisko na transekcie Powyżej 50% Gatunki charakterystyczne 4-8 gatunków charakterystycznych lub pokrycie na transekcie 20-50% Gatunki dominujące Dominują gatunki charakterystyczne dla siedliska lub brak dominanta, lecz przeważają gatunki charakterystyczne Pokrycie i struktura gatunkowa mchów Całkowite pokrycie mchów 20-50%, mchy brunatne zajmują powierzchnię od 20% do 70% całkowitej powierzchni zajmowanej przez wszystkie gatunki mchów Obce gatunki inwazyjne Brak Gatunki ekspansywne roślin zielnych Zajmują do 5% powierzchni Zakres pH Powyżej 7 Ekspansja krzewów i podrostu drzew Brak lub pojedyncze Stopień uwodnienia Poziom wody mierzony w piezometrze -do 2 cm, powyżej, równo lub do 10 cm poniżej powierzchni torfowiska Pozyskanie torfu Brak Melioracje odwadniające Infrastruktura melioracyjna w wystarczającym stopniu zneutralizowana na skutek podjętych działań ochronnych 9 Piargi i gołoborza krzemianowe 8110 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 1,29 ha Powierzchnia siedliska Powierzchnia siedliska nie podlega zmianom lub zwiększa się Gatunki typowe Powyżej 2 gatunków Obce gatunki inwazyjne Brak Pokrycie przez drzewa i krzewy Poniżej 5% Procent powierzchni siedliska na transekcie Powyżej 50% 10 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis 8210 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 2,94 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Procent powierzchni zajęty przez siedlisko na transekcie Wszystkie dostępne skały zajęte przez siedlisko Gatunki charakterystyczne Występowanie gatunków charakterystycznych we wszystkich płatach, z pokryciem minimum 5% Gatunki dominujące Gatunkami dominującymi roślin naczyniowych powinny być gatunki charakterystyczne siedliska, ewentualnie inne gatunki stale towarzyszące siedliskom naskalnym Obce gatunki inwazyjne Brak Pokrycie przez gatunki traw Pokrycie do 25% Martwa materia organiczna Poniżej 5% w podtypie światłolubnym, poniżej 10% w podtypie cieniolubnym Ekspansja krzewów i podrostu drzew W podtypie światłolubnym dopuszczalne pojedyncze osobniki juwenilne drzew lub krzewy ciepłolubne o zwarciu nieprzekraczającym w sumie 10%, w podtypie cieniolubnym dopuszczalny udział siewek drzew i cieniolubnych krzewów poniżej 20% Struktura przestrzenna płatów siedliska Wszystkie powierzchnie skalne zajęte przez siedlisko z wystąpieniem przynajmniej jednego gatunku charakterystycznego Siady wspinaczki lub wydeptywania Brak Siady ognisk w pobliżu ścian skalnych Brak Inne przypadki dewastacji siedliska Brak śladów dewastacji siedliska, w tym poboru kamienia ze ścian skalnych oraz drzew lub stosów gałęzi zrzuconych na skały 11 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii 8220 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 7,84 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Procent powierzchni zajęty przez siedlisko na transekcie Wszystkie dostępne skały zajęte przez siedlisko Gatunki charakterystyczne Występowanie gatunków charakterystycznych we wszystkich płatach, z pokryciem minimum 5% Gatunki dominujące Gatunkami dominującymi roślin naczyniowych powinny być gatunki charakterystyczne siedliska, ewentualnie inne gatunki stale towarzyszące siedliskom naskalnym Obce gatunki inwazyjne Brak Pokrycie przez gatunki traw Martwa materia organiczna Pokrycie do 25%Poniżej 5% powierzchni w przypadku naskalnych, szczelinowych zbiorowisk paproci serpentynitowych i naskalnych, światłolubnych i termofilnych zbiorowisk szczelinowych skał kwaśnych i obojętnych oraz poniżej 10% w przypadku mszysto-paprociowych zbiorowisk zacienionych skał kwaśnych i obojętnych Ekspansja krzewów i podrostu drzew Dla naskalnych, szczelinowych zbiorowisk paproci serpentynitowych i naskalnych, światłolubnych i termofilnych zbiorowisk szczelinowych skał kwaśnych i obojętnych, dopuszczalne pojedyncze osobniki juwenilne lub krzewy ciepłolubne o pokryciu poniżej 10%, dla mszysto-paprociowych zbiorowisk zacienionych skał kwaśnych i obojętnych dopuszczalny udział siewek drzew i cieniolubnych krzewów poniżej 20% Występowanie jeżyn, malin, dzikiego bzu czarnego i bzu koralowego Brak nitrofilnych gatunków krzewów, z wyjątkiem maliny do 5% pokrycia Siady ognisk w pobliżu ścian skalnych Brak Struktura przestrzenna płatów siedliska Wszystkie powierzchnie skalne zajęte przez siedlisko z wystąpieniem przynajmniej jednego gatunku charakterystycznego Siady wspinaczki lub wydeptywania Brak Inne przypadki dewastacji siedliska Brak 12 Kwaśne buczyny (Luzulo-Fagetum) 9110 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 497,76 ha Powierzchnia siedliska na stanowisku Powierzchnia siedliska nie podlega zmianom lub zwiększa się Charakterystyczna kombinacja florystyczna Typowa, właściwa dla siedliska Skład drzewostanu Drzewostan jedno- lub wielogatunkowy z dominującym udziałem buka, bez gatunków obcych ekologicznie lub geograficznie Inwazyjne gatunki obce w podszycie i runie Brak Ekspansywne gatunki rodzime w runie Brak gatunków ekspansywnych lub pojedyncze okazy gatunków nitrofilnych w runie Struktura pionowa i przestrzenna roślinności Zróżnicowana; drzewostan różnowiekowy, o zróżnicowanym przestrzennie zwarciu, zawsze z grupami i kępami starych drzew Wiek drzewostanu (obecność starodrzewu) Powyżej 10% udział drzew starszych niż 100 lat Naturalne odnowienie drzewostanu Obecne, o składzie odpowiadającym składowi drzewostanu Gatunki obce w drzewostanie Poniżej 5% udziału powierzchniowego Martwe drewno wielkowymiarowe Powyżej 5 sztuk/ha Martwe drewno (łączne zasoby) Powyżej 20 m3/ha Inne zniekształcenia, w tym zniszczenia runa i gleby związane z pozyskaniem drewna Brak Mikrosiedliska drzewne (drzewa biocenotyczne) Powyżej 20 sztuk/ha 13 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) 9130 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 92,00 ha Powierzchnia siedliska Powierzchnia siedliska nie zmniejsza się, nie jest antropogenicznie pofragmentowana Charakterystyczna kombinacja florystyczna Typowa, właściwa dla siedliska przyrodniczego Skład drzewostanu Gatunki obce buczynom stanowią poniżej 15% drzewostanu; drzewostan zdominowany (powyżej 50%) przez gatunki buczynowe Ekspansywne gatunki rodzime w runie Brak lub pojedyncze okazy gatunków nitrofilnych w runie Struktura pionowa i przestrzenna roślinności Zróżnicowana; drzewostan różnowiekowy, o zróżnicowanym przestrzennie zwarciu, zawsze z grupami i kępami starych drzew Wiek drzewostanu (udział starodrzewu) Powyżej 10% udział drzew starszych niż 100 lat Naturalne odnowienie drzewostanu Obecne, wypełniające dogodne do odnowienia miejsca, w szczególności naturalne luki i prześwietlenia Gatunki obce w drzewostanie Poniżej 5% Martwe drewno wielkowymiarowe Powyżej 5 sztuk/ha Martwe drewno (łączne zasoby) Powyżej 20 m3/ha Inne zniekształcenia, w tym zniszczenia runa i gleby związane z pozyskaniem drewna Brak Mikrosiedliska drzewne (drzewa biocenotyczne) Powyżej 20 sztuk/ha 14 Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) 91803) Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 16,14 ha Powierzchnia siedliska Powierzchnia siedliska na stanowisku nie podlega zmianom lub zwiększa się Gatunki charakterystyczne Powyżej 5 gatunków charakterystycznych dla warunków lokalnych, w tym minimum 2 w drzewostanie Gatunki dominujące Możliwe występowanie facjalne gatunków z klasy (Querco-Fagetea), sporadyczny udział gatunków porębowych i inwazyjnych Obce gatunki inwazyjne Brak Rodzime gatunki ekspansywne roślin zielnych Możliwe występowanie facjalne gatunków z klasy (Querco-Fagetea), sporadyczny udział gatunków porębowych i inwazyjnych Struktura drzewostanu Drzewostan zróżnicowany pod względem wysokości i pierśnicy drzew Pionowa struktura roślinności Występują wszystkie warstwy roślinności (al, a2, b, c, d) Gatunki obce w drzewostanie Brak Naturalne odnowienie drzewostanu Obecne odnowienie różnowiekowe, minimum 3 gatunki Przekształcenia związane z użytkowaniem Brak 15 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 91D03) Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 77,39 ha Powierzchnia siedliska Powierzchnia siedliska nie zmniejsza się, nie jest antropogenicznie pofragmentowana Gatunki charakterystyczne Obecnych powyżej 60% listy gatunków charakterystycznych Gatunki dominujące We wszystkich warstwach dominują gatunki, które dominują w naturalnym zbiorowisku roślinnym, ale są zachwiane stosunki ilościowe Inwazyjne gatunki obce w runie Brak Rodzime gatunki ekspansywne roślin zielnych Obecne, lecz najwyżej 1 gatunek, nie bardzo silnie ekspansywny Uwodnienie Właściwe uwodnienie bagienne do nieco przesuszonego Wiek drzewostanu Powyżej 20% udział objętości drzew starszych niż 100 lat Gatunki obce geograficznie w drzewostanie Poniżej 1% i nieodnawiające się Gatunki obce ekologicznie w drzewostanie Poniżej 10% Martwe drewno leżące lub stojące powyżej 3 m długości i 30 cm grubości Powyżej 1 sztuki/ha Naturalne odnowienie drzewostanu Obecne Występowanie mchów torfowców Dominują w runie, normalne zróżnicowanie gatunkowe Występowanie charakterystycznych krzewinek Występują z obfitością charakterystyczną dla lokalnych warunków Pionowa struktura roślinności Zróżnicowana Zniszczenia runa i gleby związane z pozyskaniem drewna Brak Inne zniekształcenia Brak 16 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 91E03) Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 75,01 ha Powierzchnia siedliska Powierzchnia siedliska nie zmniejsza się, nie jest antropogenicznie pofragmentowana Gatunki charakterystyczne Kombinacja florystyczna typowa dla łęgu Gatunki dominujące We wszystkich warstwach dominują gatunki typowe dla siedliska, przy czym są zachowane naturalne stosunki ilościowe Gatunki obce geograficznie w drzewostanie Poniżej 1% i nie odnawiają się Inwazyjne gatunki obce w podszycie i runie Obecny najwyżej 1 gatunek, nieliczny -sporadyczny Ekspansywne gatunki rodzime w runie Nie bardzo silnie ekspansywne Naturalność koryta rzecznego (stosować, tylko jeżeli występowanie łęgu jest związane z ciekiem) Brak regulacji lub ciek zdenaturalizowany po dawnej regulacji Reżim wodny (w tym rytm zalewów, jeżeli występują) Dynamika zalewów i przewodnienie podłoża normalne z punku widzenia odpowiedniego systemu/zbiorowiska roślinnego Wiek drzewostanu Poniżej 20% udział objętości drzew starszych niż 100 lat, ale powyżej 50% udział drzew starszych niż 50 lat Pionowa struktura roślinności Zróżnicowana, naturalna Naturalne odnowienie drzewostanu Tak, pojedyncze Zniszczenia runa i gleby związane z pozyskaniem drewna Brak Inne zniekształcenia Brak 17 Górskie bory świerkowe (Piceion abietis, część -zbiorowiska górskie) 9410 Utrzymanie stanu zachowania siedliska określonego według wskaźników metodyki Państwowego Monitoringu Środowiska, w tym zachowanie siedliska na powierzchni nie mniejszej niż 41,99 ha Typowe gatunki roślin Wśród gatunków o ilościowości 2 i więcej występują tylko gatunki typowe dla siedliska Ekspansywne gatunki obce w podszycie i runie Brak Ekspansywne gatunki rodzime (apofity) w runie Co najwyżej pojedynczo Gatunki obce w drzewostanie Brak Inne zniekształcenia (rozjeżdżanie, wydeptywanie, zaśmiecanie) Brak Martwe drewno (łączne zasoby) Powyżej 20 m3/ha Martwe drewno leżące lub stojące powyżej 3 m długości i powyżej 50 cm grubości Powyżej 5 sztuk/ha Naturalne odnowienie drzewostanu Tak, obfite, reagujące na luki i prześwietlenia Obecność kornika - posusz czynny Pojedyncze drzewa w transekcie i jego okolicy
+
+### 2.
+
+Wskaźniki właściwego stanu ochrony gatunków roślin i zwierząt będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe w części pokrywającej się z obszarem Parku Lp. Nazwa gatunkowa Kod2) Wskaźnik właściwego stanu ochrony gatunku Parametr lub wskaźnik stanu ochrony8) Cel ochrony9) 1 Goryczuszka czeska (Gentianella bohemica) 40943) Utrzymanie co najmniej 1 stanowiska, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Liczba osobników 50-100 Stan zdrowotny Brak uszkodzeń, objawów chorobowych lub śladów żerowania owadów Powierzchnia potencjalnego siedliska Taka sama lub większa Powierzchnia zajętego siedliska Taka sam lub większa Fragmentacja siedliska Brak Stopień zarośnięcia siedliska przez roślinność drzewiastą i krzewiastą (dla siedlisk otwartych) Poniżej 10% Gatunki ekspansywne -konkurencyjne Poniżej 5% powierzchni pokrycia siedliska Wysokość runi (średnia wysokość warstwy C) Poniżej 40 cm Wojłok (martwa materia organiczna) Poniżej 5 mm Miejsca do kiełkowania Więcej niż 3 miejsca o strukturze roślinności, uszkodzonej darni lub odsłoniętej glebie, zajmujące łącznie powyżej 3% powierzchni Wilgotność podłoża Gleba świeża do lekko suchej 2 Modraszek telejus (Maculinea (Phengaris) teleius) 6177 Utrzymanie co najmniej2 stanowisk, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Liczba obserwowanych osobników Powyżej 8 osobników/100 m Indeks liczebności Powyżej 20 osobników/100 m Powierzchnia 0,5-1 ha Dostępność roślin żywicielskich Powyżej 20% udziału rośliny pokarmowej w płacie siedliska Dostępność mrówek gospodarzy Powyżej 50% powierzchni penetrowanej przez mrówki Zarastanie ekspansywnymi bylinami Poniżej 25% powierzchni siedliska Zarastanie przez drzewa/krzewy Poniżej 25% powierzchni siedliska 3 Modraszek nausitous (Maculinea (Phengaris) nausithous) 6179 Utrzymanie co najmniej 1 stanowiska, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Liczba obserwowanych osobników Powyżej 4 osobników/100 m Indeks liczebności Powyżej 10 osobników/100 m Powierzchnia 0,5-1 ha Dostępność roślin żywicielskich Powyżej 20% udziału rośliny pokarmowej w płacie siedliska Dostępność mrówek gospodarzy Powyżej 50% powierzchni penetrowanej przez mrówkę (Myrmica rubra) Zarastanie ekspansywnymi bylinami Poniżej 25% powierzchni siedliska Zarastanie przez drzewa/krzewy Poniżej 25% powierzchni siedliska 4 Podkowiec mały (Rhinolophus hipposideros) 1303 Obecność gatunku, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Obecność gatunku Zarejestrowano przelot osobnika w okresie rozrodczym, stwierdzono samicę karmiącą lub osobnika młodocianego, potwierdzono istnienie wykazanych kolonii rozrodczych w otoczeniu Parku Powierzchnia zalesiona Powierzchnia kompleksu leśnego jest zbliżona do tej, jaka była w roku referencyjnym (rozpoczęcia monitoringu), lub uległa zwiększeniu 5 Mopek (Barbastella barbastellus) 1308 Rozród gatunku, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Stanowiska letnie Rozród gatunku Potwierdzono rozród gatunku, tzn. stwierdzono kolonię rozrodczą mopków (Barbastella barbastellus) na monitorowanej powierzchni lub w pobliżu jej granic (do 500 m) lub odłowiono minimum 1 karmiącą samicę mopka (Barbastella barbastellus) lub minimum 1 osobnika młodocianego Aktywność gatunku Liczba zarejestrowanych sygnałów echolokacyjnych mopków (Barbastella barbastellus) nie mniej sza niż 5 przelotów na godzinę, a jeśli niższa, to rozród gatunku oceniony na FV Powierzchnia zalesiona Powierzchnia kompleksu leśnego zbliżona do stanu z roku referencyjnego (rozpoczęcia monitoringu) lub większa Powierzchnia lasów liściastych Powierzchnia lasów liściastych zbliżona do stanu z roku referencyjnego (rozpoczęcia monitoringu) lub większa Powierzchnia starodrzewów Powierzchnia starodrzewów zbliżona do stanu z roku referencyjnego (rozpoczęcia monitoringu) lub większa Powierzchnia starodrzewów liściastych Powierzchnia starodrzewów liściastych zbliżona do stanu z roku referencyjnego (rozpoczęcia monitoringu) lub większa Liczba drzew obumierających i martwych Mediana powyżej 2 sztuk/1600 m2 Grubość drzew żywych zapewniających potencjalne kryjówki dzienne Mediana powyżej 40 cm 6 Nocek Bechsteina (Myotis bechsteinii) 1323 Obecność gatunku, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Stanowiska letnie Obecność gatunku Odłowiono karmiące samice lub osobniki młodociane nocka Bechsteina (Myotis bechsteinii) Powierzchnia i zasobność pokarmowa kompleksu leśnego Suma jednostek równowartych 1 ha lasów liściastych lub 38 ha lasów iglastych osiąga wartości powyżej 1100 Powierzchnia i struktura starodrzewów Suma jednostek równowartych 1 ha lasów liściastych lub 5 ha lasów iglastych i mieszanych osiąga wartości powyżej 1000 Liczba drzew obumierających i martwych Mediana powyżej 3 sztuk/1600 m2 Grubość drzew zapewniających potencjalne kryjówki dzienne Mediana powyżej 60 cm Zwarcie podszytu liściastego Mediana powyżej 50% Zwarcie okapu w drzewostanie 4-5 Liczba śródleśnych zbiorników wodnych Pojedyncze, małe zbiorniki lub pojedyncze rzeczki i rowy Powierzchnia śródleśnych zbiorników wodnych Między 1 ha wody na 1000 ha lasu i 1 ha wody na 500 ha lasu 7 Nocek duży (Myotis myotis) 1324 Obecność gatunku, zachowanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Obecność gatunku Odłowienie karmiącej samicy lub osobnika młodocianego w okresie rozrodczym lub potwierdzenie istnienia wykazanych kolonii rozrodczych w otoczeniu Parku Powierzchnia zalesiona Powierzchnia kompleksu leśnego jest zbliżona do tej, jaka była w roku referencyjnym (rozpoczęcia monitoringu), lub uległa zwiększeniu Powierzchnia użytkowanych łąk i pastwisk Powierzchnia użytkowanych łąk i pastwisk jest zbliżona do tej, jaka była w roku referencyjnym (rozpoczęcia monitoringu), lub uległa zwiększeniu 8 Wilk (Canis lupus) 1352 Utrzymanie co najmniej 1 grupy rodzinnej wilków, której zasięg terytorialny obejmuje przynajmniej część obszaru Parku, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań Zagęszczenie populacji Powyżej 2,5 osobnika/100 km2 Liczba watah Powyżej 0,5/100 km2 Lesistość Powyżej 40% Fragmentacja siedliska Poniżej 3 km/km2 Dostępność bazy pokarmowej Powyżej 100 kg/km2 Zagęszczenie dróg Poniżej 0,1 km/km2 Stopień izolacji siedlisk 1
+
+### 3.
+
+Wskaźniki właściwego stanu ochrony gatunków ptaków będących przedmiotami ochrony obszaru Natura 2000 PLB Góry Stołowe w części pokrywającej się z obszarem Parku Lp. Nazwa gatunkowa Kod4) Wskaźnik właściwego stanu ochrony gatunku 1 Bocian czarny (Ciconia nigrci) A030 Powyżej 3 par, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 2 Sokół wędrowny (Falco peregrinus) A103 Powyżej 1 pary, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 3 Derkacz (Crex crex) A122 Powyżej 10 samców, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 4 Puchacz (Bubo bubo) A215 Powyżej 4 par, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 5 Sóweczka (Glaucidium passerinum) A217 Powyżej 40 par, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 6 Włochatka (Aegolius funereus) A223 Powyżej 20 par, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań 7 Dzięcioł zielonosiwy (Picus canus) A234 Powyżej 20 par, utrzymanie siedlisk gatunku i zapewnienie braku istotnych negatywnych oddziaływań
+
+### Rozdział 7 OKREŚLENIE DZIAŁAŃ OCHRONNYCH NA OBSZARACH OCHRONY ŚCISŁEJ, CZYNNEJ I KRAJOBRAZOWEJ, Z PODANIEM RODZAJU, ZAKRESU I LOKALIZACJI TYCH DZIAŁAŃ, ORAZ OKREŚLENIE DZIAŁAŃ OCHRONNYCH DLA UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY PRZEDMIOTÓW OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU, ZE WSKAZANIEM PODMIOTÓW ODPOWIEDZIALNYCH ZA ICH REALIZACJĘ
+
+### I.
+
+Działania ochronne na obszarach ochrony ścisłej, czynnej i krajobrazowej
+
+### 1.
+
+Działania ochronne na obszarach ochrony ścisłej zapewniają nienaruszony, naturalny przebieg procesów i zjawisk przyrodniczych, i obejmują, w szczególności:
+
+### 1)
+
+monitoring stanu biotycznych i abiotycznych składników przyrody (ekosystemów) umożliwiający rozpoznanie dynamiki naturalnie zachodzących zmian w długiej perspektywie czasu;
+
+### 2)
+
+rozpoznanie stanu potencjalnych zagrożeń dla zasobów, tworów i składników przyrody;
+
+### 3)
+
+pobieranie generatywnych i wegetatywnych części roślin na potrzeby hodowli ex situ oraz realizowanych programów reintrodukcji gatunków;
+
+### 4)
+
+utrzymanie zbiorowisk roślinnych oraz siedlisk przyrodniczych będących przedmiotem zainteresowania Wspólnoty;
+
+### 5)
+
+utrzymywanie infrastruktury, w tym szlaków turystycznych, niezbędnych do udostępniania obszaru Parku dla celów turystycznych;
+
+### 6)
+
+usuwanie drzew stwarzających zagrożenie dla życia lub mienia, w szczególności uszkodzonych przez czynniki atmosferyczne, pochylonych lub spróchniałych, w związku z koniecznością zapewnienia bezpieczeństwa użytkowników szlaków turystycznych, ścieżek i odcinków dróg publicznych;
+
+### 7)
+
+ochronę przed nieuprawnionym przebywaniem ludzi i przed szkodnictwem;
+
+### 8)
+
+ochronę przeciwpożarową według planu ochrony przeciwpożarowej Parku zaliczającego obszar Parku do III kategorii zagrożenia pożarowego;
+
+### 9)
+
+minimalizację negatywnych skutków udostępniania obszaru Parku, w szczególności degradacji szaty roślinnej, niszczenia stanowisk porostów i bezkręgowców oraz erozji pokrywy glebowej na szlakach i w ich najbliższym otoczeniu;
+
+### 10)
+
+oznakowanie granic Parku.
+
+### 2.
+
+Działania ochronne na obszarach ochrony czynnej dopuszczające ingerencję w zasoby przyrodnicze, ukierunkowane na wspieranie przebiegu naturalnych procesów przyrodniczych, w tym procesów regeneracji, sukcesji i unaturalniania się ekosystemów, zgodnie z przyjętymi założeniami i wyznaczonymi celami ochrony, obejmują, w szczególności:
+
+### 1)
+
+monitoring stanu przyrody, w tym zagrożeń w postaci czynników mogących powodować zaburzenie przebiegu procesów przyrodniczych, na potrzeby ewentualnego podejmowania działań ochronnych;
+
+### 2)
+
+wykorzystywanie materiału roślinnego do tworzenia banków nasion i banków genów ex situ;
+
+### 3)
+
+spowalnianie i zatrzymywanie powierzchniowego odpływu wód, w celu zwiększenia zdolności retencyjnych ekosystemów;
+
+### 4)
+
+ochronę różnorodności biologicznej, w tym utrzymanie zbiorowisk roślinnych, siedlisk przyrodniczych będących przedmiotem zainteresowania Wspólnoty, populacji rzadkich, dziko występujących, zagrożonych oraz wymagających zabiegów ochrony czynnej gatunków roślin, grzybów i zwierząt, występujących na obszarze Parku;
+
+### 5)
+
+usuwanie obcych gatunków inwazyjnych zagrażających przedmiotom ochrony;
+
+### 6)
+
+ochronę przeciwpożarową według planu ochrony przeciwpożarowej Parku zaliczającego obszar Parku do III kategorii zagrożenia pożarowego;
+
+### 7)
+
+ochronę przed szkodami wyrządzanymi w ekosystemach przez człowieka;
+
+### 8)
+
+budowę, remonty i utrzymanie urządzeń turystycznych i ochronnych;
+
+### 9)
+
+utrzymywanie drożności dróg i szlaków turystycznych;
+
+### 10)
+
+minimalizację skutków udostępniania obszaru Parku, w szczególności degradacji szaty roślinnej, niszczenia stanowisk porostów i bezkręgowców oraz erozji pokrywy glebowej na szlakach i w ich najbliższym otoczeniu;
+
+### 11)
+
+renaturalizację ekosystemów leśnych o składzie gatunkowym drzewostanów niedostosowanym do siedliska, w szczególności drzewostanów świerkowych pochodzących z sadzenia;
+
+### 12)
+
+hamowanie procesu sukcesji wtórnej w ekosystemach nieleśnych przez usuwanie drzew i krzewów;
+
+### 13)
+
+utrzymywanie nieleśnych zbiorowisk roślinnych i nieleśnych siedlisk przyrodniczych będących przedmiotem zainteresowania Wspólnoty przez odkrzaczanie, wykaszanie lub wypas, stosownie do typu zbiorowiska roślinnego i biologicznych właściwości gatunków, będących przedmiotami ochrony;
+
+### 14)
+
+eliminowanie źródeł zanieczyszczania wód;
+
+### 15)
+
+budowa, utrzymanie i remonty infrastruktury Parku, w szczególności budynków i dróg, oraz oznakowanie granic Parku.
+
+###
+
+### 2.1.
+
+Działania ochronne na obszarach ochrony czynnej w stosunku do gatunków roślin, zwierząt i grzybów obejmują:
+
+### 1)
+
+odtwarzanie zdegradowanych bądź zanikających siedlisk gatunków roślin, zwierząt i grzybów;
+
+### 2)
+
+eliminację zagrożeń dla rzadkich i zagrożonych gatunków dziko występujących roślin, zwierząt i grzybów;
+
+### 3)
+
+monitoring liczebności i rozmieszczenia populacji gatunków roślin, zwierząt i grzybów;
+
+### 4)
+
+wspomaganie rozmnażania się roślin rzadkich i zagrożonych gatunków, występujących w warunkach naturalnych;
+
+### 5)
+
+ochronę gatunków ginących i zagrożonych wymarciem przez hodowlę ex situ;
+
+### 6)
+
+pobieranie materiału rozmnożeniowego do przechowywania w bankach nasion i bankach genów;
+
+### 7)
+
+zasilanie naturalnych populacji przez wprowadzanie osobników z hodowli ex situ oraz wymianę osobników między izolowanymi populacjami żyjącymi na wolności i hodowlami ex situ, z zachowaniem profilaktyki w zakresie zapobiegania chorobom zakaźnym i pasożytniczym;
+
+### 8)
+
+ochronę obszarów kluczowych dla zachowania ciągłości areałów występowania gatunków oraz korytarzy ekologicznych umożliwiających migracje zwierząt, roślin i grzybów między ich siedliskami na obszarze Parku oraz zapewniających połączenia przestrzenne z siedliskami roślin, zwierząt i grzybów położonymi poza obszarem Parku;
+
+### 9)
+
+eliminowanie gatunków obcych zagrażających populacjom rodzimych gatunków;
+
+### 10)
+
+utrzymywanie bazy pokarmowej zwierząt zagrożonych wyginięciem i rzadko występujących;
+
+### 11)
+
+wspieranie rozrodu populacji rzadkich gatunków zwierząt przez tworzenie siedlisk odpowiednich dla ich rozrodu.
+
+### 2.2.
+
+Działania ochronne na obszarach ochrony czynnej w stosunku do przyrody nieożywionej obejmują, w szczególności:
+
+### 1)
+
+zapobieganie czynnikom mogącym zaburzać procesy glebowe, w tym nadmiernej antropopresji oraz procesom erozyjnym;
+
+### 2)
+
+identyfikowanie czynników zanieczyszczania wód powierzchniowych i zapobieganie ich skażeniom;
+
+### 3)
+
+monitoring powierzchniowych ruchów masowych.
+
+### 2.3.
+
+Działania ochronne na obszarach ochrony czynnej w stosunku do walorów krajobrazowych obejmują, w szczególności:
+
+### 1)
+
+usuwanie roślinności, w tym wykaszanie, odkrzaczanie i wycinanie drzew, zasłaniających osie i punkty widokowe oraz otwarcia widokowe;
+
+### 2)
+
+dostosowanie infrastruktury turystycznej do lokalnych cech architektonicznych;
+
+### 3)
+
+racjonalizację oznakowania turystycznego i edukacyjnego przez unifikację stosowanych tablic informacyjnych wykonywanych według spójnego, estetycznego wzorca dostosowanego do lokalnych cech architektonicznych.
+
+### 2.4.
+
+Działania ochronne na obszarach ochrony czynnej w stosunku do obiektów kulturowych obejmują, w szczególności:
+
+### 1)
+
+utrzymywanie obiektów dawnej kultury materialnej przez realizację zabiegów pielęgnacyjnych i porządkowych;
+
+### 2)
+
+oznaczenie śladów istnienia wybranych obiektów historycznych udostępnionych do zwiedzania.
+
+### 3.
+
+Działania ochronne na obszarach ochrony krajobrazowej obejmują, w szczególności:
+
+### 1)
+
+ochronę walorów krajobrazu przyrodniczo-kulturowego;
+
+### 2)
+
+podejmowanie działań na rzecz rozpoznawania, monitorowania lub ograniczania czynników zagrożeń antropogenicznych związanych z urbanizacją krajobrazu kulturowego, a także z zanieczyszczeniem powietrza, gleb, wód i szaty roślinnej;
+
+### 3)
+
+monitoring stanu przyrody, w tym zagrożeń w postaci czynników mogących powodować zaburzenie przebiegu procesów przyrodniczych, na potrzeby podejmowania działań ochronnych;
+
+### 4)
+
+ochronę różnorodności biologicznej, w tym utrzymanie zbiorowisk roślinnych, siedlisk przyrodniczych będących przedmiotem zainteresowania Wspólnoty, populacji rzadkich lub dziko występujących, zagrożonych oraz wymagających zabiegów ochrony czynnej gatunków roślin, grzybów i zwierząt, występujących na obszarze Parku;
+
+### 5)
+
+utrzymywanie nieleśnych zbiorowisk roślinnych i nieleśnych siedlisk przyrodniczych będących przedmiotem zainteresowania Wspólnoty, przez odkrzaczanie, wykaszanie lub wypas, stosownie do typu zbiorowiska roślinnego i biologicznych właściwości gatunków będących przedmiotami ochrony;
+
+### 6)
+
+spowalnianie i zatrzymywanie powierzchniowego odpływu wód w celu zwiększenia zdolności retencyjnych ekosystemów;
+
+### 7)
+
+wykorzystanie materiału roślinnego do tworzenia banków nasion i banków genów ex situ;
+
+### 8)
+
+zasilanie naturalnych populacji przez wprowadzanie osobników z hodowli ex situ oraz wymianę osobników między izolowanymi populacjami żyjącymi na wolności i hodowlami ex situ;
+
+### 9)
+
+eliminowanie gatunków obcych zagrażających populacjom rodzimych gatunków;
+
+### 10)
+
+ochronę przed szkodami wyrządzanymi przez człowieka w ekosystemach;
+
+### 11)
+
+budowę, remonty i utrzymanie urządzeń turystycznych i ochronnych;
+
+### 12)
+
+eliminowanie źródeł zanieczyszczeń wód;
+
+### 13)
+
+minimalizację skutków udostępniania obszaru Parku, w szczególności degradacji szaty roślinnej oraz erozji pokrywy glebowej na szlakach i w ich najbliższym otoczeniu;
+
+### 14)
+
+budowę, utrzymanie i remonty obiektów infrastruktury, w tym budynków i dróg, oraz oznakowanie granic Parku.
+
+### II.
+
+Rodzaj, zakres i lokalizacja działań ochronnych na obszarze Parku oraz określenie działań ochronnych dla utrzymania lub odtworzenia właściwego stanu ochrony przedmiotów ochrony na obszarze Natura 2000 PLH Góry Stołowe oraz obszarze Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku, ze wskazaniem podmiotów odpowiedzialnych za ich realizację
+
+### 1.
+
+Rodzaj, zakres i lokalizacja działań ochronnych
+
+### 1.1.
+
+Działania ochronne wspólne dla obszarów ochrony ścisłej, czynnej i krajobrazowej Lp. Rodzaj działań ochronnych Sposób wykonania i zakres Lokalizacja6) 1 Zachowanie dziedzictwa geologicznego i geomorfologicznego Ochrona cennych stanowisk geologicznych i form rzeźby terenu, w szczególności przez ich zabezpieczanie przed antropopresją - według potrzeb Obszar Parku 2 Ograniczanie nasilenia procesów erozji wywołanych działalnością człowieka 1) monitoring natężenia ruchu turystycznego na szlakach turystycznych i ścieżkach edukacyjnych, w tym inwentaryzowanie występowania przejawów erozji,2) stosowanie zabezpieczeń przeciwerozyjnych w miejscach zerodowanych przy szlakach turystycznych i ścieżkach edukacyjnych - według potrzeb Obszar Parku 3 Ochrona cennych ekosystemów, w szczególności ekosystemów wodnych, torfowiskowych i innych zależnych od wód 1) inwentaryzacja cennych ekosystemów, w szczególności ekosystemów wodnych, torfowiskowych i innych zależnych od wód,2) realizacja działań ochronnych - według potrzeb Obszar Parku 4 Ochrona stanowisk roślin gatunków o szczególnym znaczeniu dla Parku lub objętych ochroną gatunkową 1) rozpoznanie stanowisk gatunków roślin o szczególnym znaczeniu dla Parku lub objętych ochroną gatunkową,2) realizacja działań ochronnych, w szczególności ochrona ich biotopów,3) zachowanie puli genowej przez ochronę ex situ, zbiór nasion, utrzymywanie hodowli i współpraca z bankami nasion- według potrzeb Obszar Parku 5 Eliminacja niepożądanych gatunków roślin, w szczególności gatunków obcych 1) monitoring występowania lub pojawiania się gatunków obcych, w tym inwazyjnych,2) eliminacja osobników gatunków obcych lub ograniczanie rozprzestrzeniania się gatunków niepożądanych- według potrzeb Obszar Parku 6 Ochrona grup i gatunków zwierząt o szczególnym znaczeniu dla Parku lub objętych ochroną gatunkową 1) inwentaryzacja miejsc występowania i rozrodu oraz rozpoznanie liczebności wybranych grup i gatunków zwierząt o szczególnym znaczeniu dla Parku, w szczególności: a) nietoperzy (Chiroptera), b) wydry (Lutra lutra), c) rysia (Lynx lynx), d) wilka (Canis lupus), e) koszatki (Dryomys nitedula), f) orzesznicy (Muscardinus avellanarius), g) popielicy (Glis glis), h) bociana czarnego (Ciconia nigra), i) jarząbka (Tetrastes bonasia), j) trzmielojada (Pernis apivorus), k) sokoła wędrownego (Falco peregrinus), l) derkacza (Crex crex), m) żurawia (Grus grus), n) puchacza (Bubo bubo), o) sóweczki (Glaucidium passerinum), p) włochatki (Aegolius funereus), q) dzięcioła czarnego (Dryocopus martius), r) dzięcioła zielonosiwego (Picus canus), s) czeczotki (Acanthis flammea), t) salamandry plamistej (Salamandra salamandra) u) głowacza białopłetwego (Cottus gobio), v) minoga strumieniowego (Lampetra planeri), w) modraszka telejusa (Maculinea (Phengaris) teleius), x) modraszka nausitousa (Maculinea (Phengaris) nausithous), y) miedziopiersi górskiej (Somatochlora alpestris), z) miedziopiersi północnej (Somatochlora arctica), za) poczwarówki zwężonej (Vertigo angustior), zb) świdrzyka kasztanowatego (Macrogastra badia), zc) ślimaka ostrokrawędzistego (Helicigona lapicida),2) monitoring wybranych grup i gatunków zwierząt o szczególnym znaczeniu dla Parku lub objętych ochroną gatunkową,3) czasowe wyłączanie z udostępniania oraz z realizacji zabiegów ochronnych miejsc ostoi gatunków zwierząt o szczególnym znaczeniu dla Parku lub objętych ochroną gatunkową- według potrzeb Obszar Parku 7 Ochrona siedlisk gatunków ssaków (Mammalia) o szczególnym znaczeniu dla Parku Utrzymanie lub odtwarzanie biotopów, miejsc stałego występowania i rozrodu gatunków ssaków o szczególnym znaczeniu dla Parku, w tym:1) nietoperzy (Chiroptera), 2) wydry (Lutra lutra),3) rysia (Lynx lynx),4) wilka (Canis lupus),5) popielicy (Glis glis),6) orzesznicy (Muscardinus avellanarius),7) koszatki (Dryomys nitedula) - według potrzeb Obszar Parku 8 Ochrona siedlisk gatunków ptaków (Aves) o szczególnym znaczeniu dla Parku 1) utrzymanie biotopów, miejsc stałego występowania i rozrodu gatunków ptaków o szczególnym znaczeniu dla Parku, w tym: a) sokoła wędrownego (Falco peregrinus), b) trzmielojada (Pernis apivorus), c) puchacza (Bubo bubo), d) sóweczki (Glaucidium passerinum), e) włochatki (Aegolius funereus), f) bociana czarnego (Ciconia nigra), g) jarząbka (Tetrastes bonasia), h) derkacza (Crex crex), i) żurawia (Grus grus), j) dzięcioła czarnego (Dryocopus martius), k) dzięcioła zielonosiwego (Picus canus), l) czeczotki (Acanthis flammea),2) całkowite wyłączanie lub ograniczanie prac leśnych w pobliżu miejsc gniazdowania bociana czarnego (Ciconia nigra), puchacza (Bubo bubo), sóweczki (Glaucidium passerinum), włochatki (Aegolius funereus) i sokoła wędrownego (Falco peregrinus),3) pozostawianie w drzewostanach i zadrzewieniach drzew obumierających i martwych, w szczególności drzew dziuplastych,4) monitoring sukcesu lęgowego: a) sokoła wędrownego (Falco peregrinus), b) bociana czarnego (Ciconia nigra), c) puchacza (Bubo bubo), d) sóweczki (Glaucidium passerinum), e) włochatki (Aegolius funereus), f) żurawia (Grus grus)- według potrzeb Obszar Parku 9 Ochrona siedlisk płazów (Amphibia) i gadów (Raptilia) 1) utrzymanie miejsc rozrodu,2) zabezpieczenie szlaków migracji w miejscach stwierdzonych zagrożeń, w szczególności budowa przejść dla płazów (Amphibia) w wybranych miejscach- według potrzeb Obszar Parku 10 Ochrona siedlisk ryb (Pisces) i smoczkoustych (Cyclostomata) Utrzymanie bądź przywracanie drożności potoków będących miejscem występowania minoga strumieniowego (Lampetra planeri) i głowacza białopłetwego (Cottus gobio) - według potrzeb Obszar Parku 11 Eliminacja niepożądanych gatunków zwierząt, w szczególności gatunków obcych Eliminacja lub ograniczenie populacji niepożądanych gatunków zwierząt, w szczególności jenota (Nyctereutes procyonoides)- według potrzeb Obszar Parku 12 Ochrona i opieka nad obiektami kultury materialnej 1) inwentaryzacja obiektów kultury materialnej, w tym ich dokumentacja fotograficzna,2) remont i konserwacja obiektów kultury materialnej,3) konserwacja bądź odtwarzanie dawnych historycznych napisów na skałach i pomnikach- według potrzeb Obszar Parku 13 Ochrona tradycji i zwyczajów lokalnych Tworzenie warunków dla podtrzymania regionalnych tradycji, w szczególności pielgrzymkowych, językowych i kulinarnych, w tym ich promocja - według potrzeb Obszar Parku 14 Zapobieganie zanieczyszczeniu środowiska przez odpady 1) likwidacja nielegalnych składowisk odpadów na obszarze Parku,2) regularne usuwanie odpadów, w szczególności przy szlakach turystycznych i parkingach- według potrzeb Obszar Parku 15 Zapobieganie zanieczyszczeniu środowiska przez ruch samochodowy Dążenie do ograniczenia samochodowego ruchu turystycznego na drodze do Błędnych Skał oraz wprowadzenia transportu zastępczego, w szczególności zbiorowego - według potrzeb Droga Polana YMCA-Błędne Skały 16 Zapobieganie zagrożeniom wynikającym z presji turystycznej 1) konserwacja, remonty lub uzupełnianie infrastruktury turystycznej w otoczeniu szlaków turystycznych,2) wprowadzanie zakrzewień z gatunków rodzimych, zapobiegających zejściu ze szlaków,3) konserwacja, remonty lub uzupełnianie oznakowania granic Parku i obszarów objętych ochroną ścisłą,4) edukacja przyrodnicza- według potrzeb Obszar Parku 17 Zapobieganie dewastacji skał i roślinności 1) kontrole Straży Parku,2) usuwanie skutków stwierdzonych aktów wandalizmu,3) uzupełnianie infrastruktury turystycznej w miejscach potencjalnej dewastacji skał, w szczególności wprowadzanie barierek i ogrodzeń,4) edukacja przyrodnicza- według potrzeb Obszar Parku 18 Utrzymanie, remont lub budowa obiektów infrastruktury turystycznej 1) konserwacja lub naprawa elementów infrastruktury turystycznej, w tym oznakowań, drogowskazów, tablic edukacyjnych i informacyjnych przy szlakach oraz miejscach odpoczynku, kładek i stanowisk edukacyjnych,2) naprawa i bieżąca konserwacja nawierzchni szlaków turystycznych i ścieżek edukacyjnych,3) bieżące remonty i naprawy wyposażenia i nawierzchni parkingów, w tym koszenie trawy na parkingach i w miejscach odpoczynku,4) udrażnianie przebiegu szlaków turystycznych, w szczególności przez usuwanie połamanych i wywróconych drzew,5) utrzymanie tras narciarstwa biegowego,6) usuwanie skutków wandalizmu na skałach i elementach infrastruktury turystycznej,7) ujednolicenie estetyki obiektów i elementów infrastruktury,8) kontrole Straży Parku zapobiegające dewastacji obiektów infrastruktury- według potrzeb Obszar Parku 19 Przystosowanie trasy turystycznej w obrębie Błędnych Skał dla potrzeb osób ze szczególnymi potrzebami Organizacja trasy turystycznej dla osób ze szczególnymi potrzebami w obrębie Błędnych Skał - według potrzeb Błędne Skały 20 Budowa i rozwój infrastruktury służącej edukacji przyrodniczej 1) działania zmierzające do rozbudowy zaplecza edukacyjnego,2) organizacja nowych ścieżek edukacyjnych w oparciu o istniejące szlaki turystyczne,3) ujednolicenie estetyki obiektów i elementów infrastruktury turystycznej i edukacyjnej,4) opracowanie tablic edukacyjnych w językach obcych,5) modernizacja i rozbudowa strony internetowej,6) oznakowanie wybranych formacji skalnych- według potrzeb Obszar Parku 21 Ochrona przeciwpożarowa 1) opracowanie i wdrożenie planu ochrony przeciwpożarowej Parku oraz instrukcji postępowania na wypadek powstania pożaru lasu w Parku,2) wykonywanie zabiegów profilaktycznych i ochronnych zapobiegających powstawaniu i rozprzestrzenianiu się pożarów,3) zapewnienie i utrzymywanie dróg lub dojazdów pożarowych, które umożliwiają dotarcie pojazdów gaśniczych, oraz dróg dojścia dla patroli interwencyjnych,4) zapewnienie i utrzymywanie odpowiedniego zaopatrzenia w wodę przeznaczoną do celów przeciwpożarowych, w tym utrzymywanie i monitoring źródeł wody gromadzonej w tym celu, stanowisk czerpania wody wraz z dojazdami oraz punktów poboru wody,5) zapewnienie baz sprzętu do gaszenia pożarów lasów i regularne kontrole jego sprawności,6) organizowanie obserwacji i patrolowania lasów w celu wykrycia pożarów oraz alarmowania o ich powstaniu,7) bieżąca współpraca z jednostkami Państwowej Straży Pożarnej,8) edukacja społeczeństwa w zakresie ochrony przeciwpożarowej- według potrzeb Obszar Parku 22 Monitoring skuteczności stosowanych zabiegów ochronnych 1) opracowanie metod monitoringu i prowadzenie monitoringu oraz ocena skutków prowadzonych działań ochronnych,2) założenie powierzchni kontrolnych do oceny skuteczności zabiegów ochrony czynnej- według potrzeb Obszar Parku 23 Monitoring zmian w środowisku 1) opracowanie projektu badań monitoringowych dla oceny zmian w środowisku będących wynikiem zanieczyszczeń komunikacyjnych,2) prowadzenie monitoringu stanu powietrza atmosferycznego, gleb, wód powierzchniowych, roślinności, porostów epifitycznych w otoczeniu dróg, w zakresie zanieczyszczeń komunikacyjnych, w szczególności zawartości rtęci, węglowodorów i tlenków azotu - według potrzeb Obszar Parku 24 Monitoring wód powierzchniowych Monitoring stanu wód, w tym badanie wybranych zanieczyszczeń wód powierzchniowych, w szczególności na odpływach z terenów Karłowa i Pasterki - według potrzeb Obszar Parku 25 Monitoring powierzchniowych ruchów masowych i procesów tektonicznych 1. Pomiary satelitarne GPS i grawimetryczne w geodynamicznej sieci punktów zlokalizowanych na obrzeżach Parku - co 3 lata.2. Monitoring przemieszczeń masowych bloków skalnych na Szczelińcu Wielkim (w trzech rejonach) oraz ruchów tektonicznych w dwóch miejscach (Ostra Góra i Wolany) - co miesiąc 1) Masyw Szczelińca;2) Pasterka;3) Ostra Góra;4) Bukowina;5) Jakubowic;6) Darnków;7) Narożnik;8) Skalne Baszty;9) Wambierzyce;10) Batorówek;11) Batorów 26 Monitoring przyrody nieożywionej, w szczególności warunków klimatycznych i hydrologicznych oraz pokrywy glebowej 1. Utworzenie sieci monitoringu opadów atmosferycznych.2. Utworzenie sieci monitoringu wód podziemnych.3. Monitoring gleb, ze szczególnym uwzględnieniem zasobów glebowej materii organicznej - co 10 lat Obszar Parku 27 Rozpoznanie występowania wybranych siedlisk wodnych i siedlisk zależnych od wód oraz gatunków roślin, zwierząt i grzybów, związanych z tymi siedliskami 1. Inwentaryzacja i skartowanie wszystkich torfowisk, utworzenie bazy obszarów torfowiskowych i podmokłych występujących na obszarze Parku.2. Monitoring obszarów torfowisk prowadzony na stałych, oznakowanych powierzchniach próbnych - co 3-4 lata.3. Instalacja automatycznych urządzeń rejestrujących poziom wody w celu określenia wieloletniego trendu nawodnienia torfowisk - według potrzeb Obszar Parku 28 Rozpoznanie występowania wybranych siedlisk nieleśnych i związanych z nimi gatunków roślin 1) rozpoznanie ekosystemów nieleśnych pod względem fitosocjologicznym, w szczególności fitocenoz łąkowych w rejonie Pasterki i Karłowa,2) monitoring stanu zbiorowisk trawiastych z występującymi rzadkimi i objętymi ochroną gatunkową gatunkami roślin,3) rozpoznanie siedlisk związanych ze zbiorowiskami naskalnymi,4) monitoring stanu zbiorowisk naskalnych z występującymi rzadkimi i objętymi ochroną gatunkową gatunkami roślin - według potrzeb Obszar Parku 29 Rozpoznanie i monitoring występowania wybranych gatunków roślin naczyniowych (Tracheophyta) 1) monitoring występowania i ocena stanu populacji rzadkich i objętych ochroną gatunkową gatunków roślin naczyniowych (Tracheophyta),2) ocena konieczności podjęcia działań ochronnych,3) aktualizacja listy gatunków występujących na obszarze Parku- według potrzeb Obszar Parku 30 Rozpoznanie i monitoring występowania wybranych gatunków mchów (Bryophyta), wątrobowców (Marchantiophyta) i glewików (Anthceratophyta) 1) monitoring występowania i ocena stanu populacji rzadkich i chronionych gatunków,2) ocena konieczności podjęcia działań ochronnych,3) aktualizacja listy gatunków występujących na obszarze Parku- według potrzeb Obszar Parku 31 Rozpoznanie i monitoring występowania wybranych gatunków śluzowców (Myxomycetes) 1) monitoring występowania i ocena stanu populacji rzadkich i objętych ochroną gatunkową gatunków śluzowców (Myxomycetes),2) ocena konieczności podjęcia działań ochronnych,3) aktualizacja listy gatunków występujących na obszarze Parku- według potrzeb Obszar Parku 32 Rozpoznanie występowania wybranych gatunków grzybów (Fungi) i ich siedlisk 1) inwentaryzacja stanowisk grzybów,2) wyłączenie obszarów, na których znajdują się siedliska grzybów rzadkich lub objętych ochroną gatunkową, z realizacji działań ochronnych,3) pozostawianie drzew martwych i obumierających stanowiących siedliska grzybów,4) monitoring stanu populacji rzadkich i objętych ochroną gatunkową grzybów - według potrzeb Obszar Parku 33 Rozpoznanie i monitoring występowania wybranych gatunków porostów (Lichenes) 1) uzupełnienie stanu wiedzy i aktualizacja rozpoznania stanowisk porostów objętych ochroną gatunkową ścisłą, ginących i endemicznych,2) monitoring składu gatunkowego i zmian w pokryciu porostów na powierzchniach kontrolnych- według potrzeb Obszar Parku 34 Monitoring występowania i pojawiania się obcych, w tym inwazyjnych, gatunków roślin 1) monitoring występowania obcych gatunków roślin, w szczególności: a) barszczu Sosnowskiego (Heracleum sosnowskyi), b) niecierpka gruczołowatego (Impatiens glandulifera), c) rdestowca ostrokończystego (Reynoutria japonica), d) rdestowca sachalińskiego (Reynoutria sachalinensis), e) łubinu trwałego (Lupinus polyphyllus),2) okresowe kontrole obszaru Parku dotyczące wykrywania zagrożeń związanych z pojawianiem się nowych gatunków obcych, w tym inwazyjnych,3) w przypadku stwierdzenia występowania inwazyjnych gatunków roślin: a) koszenie lub wyrywanie, b) wykopywanie, c) wywożenie poza obszar Parku i zniszczenie ich poza obszarem Parku- według potrzeb Obszar Parku 35 Monitoring występowania i pojawiania się obcych, w tym inwazyjnych, gatunków zwierząt 1) monitoring występowania obcych gatunków zwierząt, w szczególności jenota (Nyctereutes procyonoides) oraz obcych gatunków ryb (Pisces),2) okresowe kontrole obszaru Parku dotyczące wykrywania zagrożeń związanych z pojawianiem się nowych obcych gatunków zwierząt, w tym inwazyjnych,3) w przypadku stwierdzenia występowania inwazyjnych gatunków zwierząt: a) odłów, b) przekazywanie do przetrzymywania w azylu, c) usypianie lub odstrzał- według potrzeb Obszar Parku 36 Monitoring ruchu turystycznego 1) liczenie biletów sprzedanych w punktach kasowych w wybranych miejscach lub obiektach,2) liczenie turystów w wybranych punktach z użyciem elektronicznych urządzeń zliczających - według potrzeb Obszar Parku 37 Monitoring ruchu samochodowego Monitoring natężenia ruchu pojazdów, z użyciem elektronicznych urządzeń zliczających, we współpracy z zarządzającym drogą - według potrzeb Droga Stu Zakrętów 38 Monitoring postaw społecznych wobec problematyki ochrony przyrody, w tym działalności Parku Badania ankietowe, w szczególności w zakresie prowadzonych działań ochronnych i edukacyjnych Parku - według potrzeb Obszar Parku
+
+### 1.2.
+
+Działania ochronne na obszarach objętych ochroną ścisłą Lp. Rodzaj działań ochronnych Sposób wykonania i zakres Lokalizacja6) 1 Zapewnienie naturalnego rozwoju ekosystemów leśnych Pozostawienie ekosystemów leśnych naturalnemu rozwojowi, bez ingerencji człowieka - 1442,73 ha Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 1 2 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków roślin w ekosystemach torfowiskowych 1) monitoring występowania i liczebności populacji roślin gatunków rzadkich i objętych ochroną gatunkową, w szczególności sosny drzewokosej (Pinus x rhaetica),2) powiększenie populacji sosny drzewokosej (Pinus x rhaetica) przez zbiór nasion i pozyskiwanie zrazów do szczepień,3) bieżące utrzymanie uprawy sosny drzewokosej (Pinus x rhaetica)- według potrzeb 57b, 57c, 75k i 76 3 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków roślin w ekosystemach leśnych i nieleśnych 1) monitoring występowania roślin gatunków rzadkich i objętych ochroną gatunkową występujących w lasach, w szczególności: a) kukułki Fuchsa (Dactylorhiza fuchsii), b) wawrzynka wilczełyko (Daphne mezereum), c) wrońca widlastego (Huperzia selago), d) jałowca pospolitego (Juniperus communis), e) widłaka jałowcowatego (Lycopodium annotinum), f) widłaka goździstego (Lycopodium clavatum), g) gnieźnika leśnego (Neottia nidus-avis), h) paprotnika kolczystego (Polystichum aculeatum), i) liczydła górskiego (Streptopus amplexifolius), j) zaproci górskiej (Oreopteris limbosperma),2) monitoring występowania roślin gatunków rzadkich i objętych ochroną gatunkową w ekosystemach nieleśnych, w szczególności: a) skalnicy zwodniczej (Saxifraga decipiens), b) śnieżycy wiosennej (Leucojum vernum), c) lilii złotogłów (Lilium martagon) - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 1 4 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków zwierząt Monitoring występowania i liczebności populacji zwierząt gatunków rzadkich i objętych ochroną gatunkową, w szczególności:1) sokoła wędrownego (Falco peregrinus),2) bociana czarnego (Ciconia nigra),3) puchacza (Bubo bubo),4) sóweczki (Glaucidium passerinum),5) włochatki (Aegolius funereus),6) żurawia (Grus grus),7) nietoperzy (Chiroptera),8) wilka (Canis lupus),9) popielicy (Glis glis)- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 1
+
+### 1.3.
+
+Działania ochronne na obszarach objętych ochroną czynną Lp. Rodzaj działań ochronnych Sposób wykonania i zakres Lokalizacja6) 1 Zapobieganie niekorzystnym zmianom stosunków wodnych 1) ograniczenie nadmiernego odpływu wody, w tym zasypywanie rowów odwadniających oraz budowa zastawek na rowach odprowadzających wodę,2) usuwanie nalotów drzew na mokradłach,3) przywracanie naturalnych reżimów wód w potokach- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 2 Ochrona cennych obiektów skalnych 1) utrzymanie właściwego stanu oraz widoczności skał,2) ograniczanie lub eliminowanie pokrywy roślinnej, w szczególności drzew i krzewów na skałach i w ich najbliższym otoczeniu, w miejscach najbardziej atrakcyjnych turystycznie- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 3 Ochrona gleb zawodnionych przed osuszaniem 1) usuwanie zakrzewień i zadrzewień w miejscach zawodnionych,2) ograniczenie nadmiernego odpływu wody, w tym zasypywanie rowów odwadniających oraz budowa zastawek na rowach odprowadzających wodę,3) przywracanie naturalnych reżimów wód w potokach- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 4 Ochrona zachowawcza ekosystemów leśnych 1) pozostawienie ekosystemów leśnych naturalnemu rozwojowi,2) możliwość realizacji działań ochronnych, w szczególności w sytuacji zagrożenia trwałości ekosystemów leśnych- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 5 Renaturalizacja ekosystemów leśnych Zmiana składu gatunkowego drzewostanów przez:1) sadzenie w celu zapewnienia równomiernego odnowienia, z uwzględnieniem warunków siedliskowych, w ogrodzonych lukach i przerzedzeniach - o wielkości od 500 do 1500 m2, następujących gatunków: buk zwyczajny (Fagus syfoatica), jesion wyniosły (Fraxinus excelsior), lipa drobnolistna (Tilia cordata), wiąz górski (Ulmus glabra), jarząb pospolity (Sorbus aucuparia), jawor (Acer pseudoplatanus), olsza szara (Alnus incana), czereśnia ptasia (Prunus avium), jodła pospolita (Abies alba), sosna zwyczajna (Pinus sylvestris), dąb szypułkowy (Quercus robur), klon zwyczajny (Acer platanoides) i grab pospolity (Carpinus betulus) - docelowo 200-300 kęp lub zespołów kęp,2) cięcia rozluźniające i kształtujące skład gatunkowy w górnej warstwie drzewostanów, w których pod okapem drzewostanu występuje grodzenie młodego pokolenia,3) eliminację gatunków obcych, w szczególności daglezji (Pseudotsuga menziesii), dębu czerwonego (Quercus rubra) i sosny wejmutki (Pinus strobus),4) zabiegi o charakterze czyszczeń w drzewostanach w fazie inicjalnej i młodocianej,5) cięcia sanitarne, korowanie części drzew pozostawionych w ekosystemach do rozpadu, monitoring zagrożenia drzewostanów przez czynniki biotyczne oraz odnawianie gatunkami zgodnymi ze składem naturalnym zbiorowiska powstałych luk bez względu na ich wielkość, w drzewostanach zamierających w wyniku działania czynników biotycznych lub abiotycznych,6) ochronę upraw i młodników przed szkodami wyrządzanymi przez zwierzęta, w szczególności przez grodzenie upraw siatką leśną oraz smarowanie drzew środkiem odstraszającym- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 6 Przebudowa drzewostanów Działania związane z przebudową drzewostanów, w szczególności:1) regulacja składu gatunkowego drzewostanów z uwzględnieniem fazy rozwojowej drzewostanu, typu siedliska oraz typu zbiorowiska roślinnego i możliwych wariantów składu gatunkowego - zabiegi o charakterze czyszczeń wczesnych i czyszczeń późnych,2) przygotowanie powierzchni do odnawiania drzewostanu,3) odnawianie drzewostanu przez się w lub sadzenie drzew pod osłoną drzewostanu, w lukach, na gniazdach oraz w ramach poprawek i uzupełnień,4) składanie gałęzi w stosach na powierzchniach odnowieniowych, w przypadku gdy uniemożliwiają one odnowienie,5) wykaszanie roślinności zielnej w odnowieniach,6) prace szkółkarskie,7) zbiór nasion: buka zwyczajnego (Fagus sylvatica), lipy drobnolistnej (Tilia cordata), wiązu górskiego (Ulmus glabra), jarzębu pospolitego (Sorbus aucuparia), jawora (Acer pseudoplatanus), jodły pospolitej (Abies alba), głógów (Crataegus sp.) oraz tarniny (Prunus spinosa),8) opóźnienie rozpadu monokultur świerkowych przez cięcia sanitarne, w tym usuwanie powalonych, złamanych oraz zasiedlonych przez owady drzew, z pozostawieniem części drzew niezagrażających zdrowotności drzewostanów,9) zabezpieczanie drzewostanów przed szkodami wyrządzanymi przez zwierzęta, w szczególności przez grodzenie upraw siatką leśną oraz smarowanie drzew środkiem odstraszającym - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 7 Ochrona ekosystemów leśnych przed owadami Zachowanie właściwego stanu zdrowotnego drzewostanów przez:1) korowanie części drzew pozostawionych w ekosystemach do rozpadu, w szczególności zasiedlonych przez: kornika drukarza (Ips typographus), kornika drukarczyka (Ips amitinus), rytownika pospolitego (Pityogenes chalcographus) i czterooczaka świerkowca (Polygraphus poligraphus),2) jesienne poszukiwania larw owadów z rodzaju zasnuja (Cephalcia spp.),3) wywieszanie pułapek feromonowych, w szczególności na brudnicę mniszkę (Lymantria monacha) i wskaźnicę modrzewianeczkę (Zeiraphera griseana),4) wykładanie pułapek klasycznych i feromonowych, w szczególności na: kornika drukarza (Ips typographus), kornika drukarczyka (Ips amitinus), rytownika pospolitego (Pityogenes chalcographus) i czterooczaka świerkowca (Polygraphus poligraphus),5) wykładanie pułapek klasycznych na szeliniaka (Hylobius spp.)- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 8 Ochrona obszarów źródliskowych 1) rozpoznanie szczegółowych potrzeb ochrony w ramach badań naukowych lub monitoringu,2) zasypanie wybranych rowów odwadniających lub budowa zastawek z pni ściętych drzew na korytach źródliskowych potoków, w celu spowolnienia odpływu wody,3) usuwanie nalotu drzew- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 9 Ochrona ekosystemów torfowiskowych 1) rozpoznanie szczegółowych potrzeb ochrony w ramach badań naukowych lub monitoringu,2) zasypanie wybranych rowów odwadniających i zerodowanych koryt starych dróg lub budowa zastawek z pni ściętych drzew, w celu spowolnienia odpływu wody,3) usuwanie nalotu drzew,4) wykaszanie- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 10 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków roślin, w tym gatunków o szczególnym znaczeniu dla Parku 1) monitoring miejsc występowania i liczebności stanowisk,2) zabezpieczenie istniejących stanowisk przed zniszczeniem- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 11 Ochrona sosny drzewokosej (Pinus x rhaetica) 1) inwentaryzacja sosny drzewokosej (Pinus x rhaetica), w tym zbiór igieł do badań genetycznych (po 4 sztuki z osobnika),2) zachowanie zasobów genowych populacji z Gór Stołowych przez: a) zbiór nasion, zbiór zrazów do szczepień i hodowlę sadzonek oraz wprowadzenie sadzonek na wybrane stanowiska, b) bieżące utrzymanie plantacji drzew zachowawczych sosny drzewokosej (Pinus x rhaetica) przez pielęgnację jej powierzchni i bieżące naprawy ogrodzenia- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 12 Ochrona rzadkich i objętych ochroną gatunkową gatunków grzybów (Fungi) 1) szczegółowe rozpoznanie występowania gatunków grzybów (Fungi),2) pozostawianie drzew martwych i obumierających, stanowiących siedliska grzybów (Fungi),3) wyłączenie obszarów, na których znajdują się siedliska grzybów (Fungi) rzadkich lub objętych ochroną gatunkową, z realizacji działań ochronnych,4) zachowanie tradycyjnej gospodarki na łąkach kośnych i pastwiskach w miejscach występowania purchawicy olbrzymiej (Langermannia gigantea)- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 13 Ochrona cennych, rzadkich i chronionych gatunków porostów (Lichenes) 1) szczegółowe rozpoznanie występowania gatunków porostów (Lichenes), w tym inwentaryzacja drzew liściastych będących stanowiskami ich występowania, w szczególności jaworu (Acer pseudoplatanus), jesionu wyniosłego (Fraxinus exelsior) i lipy drobnolistnej (Tilia cordata),2) ochrona najcenniejszych stanowisk porostów naskalnych przez wyłączanie formacji skalnych z udostępniania do wspinaczki,3) uzupełnianie zadrzewień przydrożnych,4) zachowanie starodrzewów świerkowych ze stanowiskami porostów (Lichenes) objętych ochroną gatunkową - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 14 Ochrona siedlisk ssaków (Mammalia) 1) utrzymanie lub odtwarzanie biotopów, miejsc stałego występowania oraz rozrodu niektórych gatunków ssaków, w szczególności nietoperzy (Chiroptera), wydry (Lutra lutra), rysia (Lynx lynx), wilka (Canis lupus), popielicy (Glis glis), orzesznicy (Muscardinus avellanarius) i koszatki (Dryomys nitedula),2) pozostawianie w drzewostanach i zadrzewieniach drzew dziuplastych, martwych lub obumierających,3) rozwieszanie budek rozrodczych dla nietoperzy (Chiroptera) i popielicowatych (Gliridae) oraz ich czyszczenie i demontaż starych budek- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 15 Ochrona siedlisk ptaków (Aves) 1) ochrona biotopów oraz miejsc stałego występowania i rozrodu gatunków wykorzystujących dziuple, w szczególności sów (Strigiformes) i dzięciołów (Picinae), przez pozostawianie w drzewostanach i zadrzewieniach drzew dziuplastych, martwych lub obumierających,2) montaż platform gniazdowych dla bociana czarnego (Ciconia nigra)- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 16 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków zwierząt, w tym gatunków o szczególnym znaczeniu dla Parku Okresowe wyłączanie lub ograniczanie prac leśnych w pobliżu miejsc rozrodu rzadkich i objętych ochroną gatunkową zwierząt, w tym gatunków o szczególnym znaczeniu dla Parku - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 17 Wzbogacanie naturalnej bazy żerowej zwierząt Hodowla i sadzenie sadzonek dzikich drzew i krzewów owocowych oraz zabezpieczenie ich przed zgryzaniem i spałowaniem przez jeleniowate (Cervidae) - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 18 Ochrona lokalnych tradycji i zwyczajów sadowniczych 1) waloryzacja i zachowanie starych odmian drzew owocowych przez pielęgnowanie starych sadów i przydomowych drzew, 2) wegetatywne rozmnażanie drzew i krzewów owocowych z egzemplarzy rosnących na obszarze Parku- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 19 Ochrona populacji dzikich owadów zapylających, w szczególności pszczołowatych (Apidae) 1) szczegółowe rozpoznanie występowania gatunków owadów zapylających,2) utrzymanie lub odtwarzanie biotopów i miejsc rozrodu gatunków owadów zapylających,3) odtworzenie zbliżonego do naturalnego zespołu dzikich pszczół przez ich restytucję,4) edukacja przyrodnicza społeczeństwa na temat roli owadów zapylających w środowisku oraz promowanie tradycji pszczelarskich- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 20 Zapobieganie zagrożeniom dla przyrody wynikającym z presji turystycznej 1) korekta przebiegu szlaków turystycznych w celu skanalizowania ruchu turystycznego,2) podniesienie atrakcyjności szlaków turystycznych, w szczególności przez poprowadzenie ich przebiegu między skałami lub odsłonięcie wybranych form skalnych,3) umieszczenie tablic informacyjnych z nazwami atrakcji turystycznych i ich opisem,4) ograniczanie organizacji imprez masowych charakteryzujących się, w szczególności negatywnym oddziaływaniem na warunki bytowania dzikich zwierząt oraz formy rozwojowe roślin,5) edukacja przyrodnicza społeczeństwa, ze szczególnym zwróceniem uwagi na zagrożenia dla przyrody związane z presją turystyczną- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2
+
+### 1.4.
+
+Działania ochronne na obszarach objętych ochroną krajobrazową Lp. Rodzaj działań ochronnych Sposób wykonania i zakres Lokalizacja6) 1 Zapobieganie niekorzystnym zmianom stosunków wodnych 1) ograniczanie nadmiernego odpływu wody, w szczególności zasypywanie rowów oraz budowa zastawek na rowach odprowadzających wodę,2) usuwanie nalotów drzew na mokradłach,3) przywracanie naturalnych reżimów wód w potokach- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 2 Ochrona przed osuszaniem gleb zawodnionych 1) usuwanie zakrzewień i zadrzewień w miejscach zawodnionych,2) ograniczanie nadmiernego odpływu wody, w szczególności przez zasypywanie rowów oraz budowę zastawek na rowach odprowadzających wodę,3) przywracanie naturalnych reżimów wód w potokach- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 3 Ochrona ekosystemów torfowiskowych i obszarów źródliskowych 1) rozpoznanie szczegółowych potrzeb ochrony w ramach badań naukowych lub monitoringu,2) ograniczenie nadmiernego odpływu wody, w szczególności przez zasypywanie wybranych rowów odwadniających oraz budowę zastawek na rowach odprowadzających wodę,3) usuwanie nalotu drzew,4) wykaszanie,5) nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 4 Ochrona obszarów źródliskowych Nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu - według potrzeb 112Aa 5 Ochrona ekosystemów trawiastych 1) ekstensywna gospodarka rolna dostosowana do potrzeb ochrony siedlisk przyrodniczych i gatunków roślin, w tym koszenie, wypas zwierząt,2) usuwanie naturalnego odnowienia drzew i krzewów,3) usuwanie z przylegających do ekosystemów trawiastych zbiorowisk leśnych wywrotów drzew, które, leżąc na łąkach, uniemożliwiają ich koszenie mechaniczne,4) nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 6 Ochrona stanowisk rzadkich i objętych ochroną gatunkową gatunków roślin, w szczególności gatunków o szczególnym znaczeniu dla Parku 1) utrzymanie siedlisk gatunków roślin we właściwym stanie ochrony, w szczególności storczycy kulistej (Traunsteinera globosa) i goryczuszki czeskiej (Gentaniella bohemica),2) zbiór nasion do zasilenia populacji macierzystej,3) monitoring liczebności i struktury populacji oraz czynników abiotycznych na stanowiskach,4) zabezpieczanie stanowisk przed zniszczeniem,5) nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 7 Ochrona rzadkich i objętych ochroną gatunkową gatunków grzybów (Fungi), w szczególności gatunków o szczególnym znaczeniu dla Parku 1) szczegółowe rozpoznanie występowania gatunków grzybów (Fungi),2) zachowanie tradycyjnej gospodarki na łąkach kośnych i pastwiskach w miejscach występowania purchawicy olbrzymiej (Langermannia gigantea),3) nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 8 Ochrona siedlisk gatunków zwierząt występujących w ekosystemach nieleśnych 1) przeciwdziałanie procesom sukcesyjnym w ekosystemach trawiastych stanowiących rzeczywiste lub potencjalne siedliska rzadkich gatunków zwierząt, w tym derkacza (Crex crex), przepiórki (Coturnix coturnix) i motyli (Lepidopterci),2) koszenie łąk, muraw i pastwisk z usuwaniem biomasy lub ekstensywny wypas zwierząt,3) usuwanie naturalnego odnowienia drzew i krzewów,4) nabywanie gruntów niebędących w użytkowaniu wieczystym Parku albo niebędących jego własnością, w szczególności w drodze pierwokupu i wykupu- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 9 Ochrona biotopów oraz miejsc stałego występowania i rozrodu zwierząt wykorzystujących dziuple, w szczególności:1) sów (Strigiformes);2) popielicowatych (Gliridae);3) dzięciołów (Picinae);4) nietoperzy (Chiroptera) Pozostawianie w zadrzewieniach drzew dziuplastych, martwych lub obumierających, z wyłączeniem drzew zagrażających bezpieczeństwu osób lub mienia - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 10 Ochrona kolonii rozrodczych i schronień letnich nietoperzy (Chiroptera) w budynkach 1) współpraca z właścicielami budynków, w których znajdują się kolonie rozrodcze lub schronienia nietoperzy (Chiroptera), przy przeprowadzaniu remontów budynków,2) edukacja przyrodnicza społeczeństwa- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 11 Wzbogacanie naturalnej bazy żerowej zwierząt Hodowla i sadzenie sadzonek dzikich drzew i krzewów owocowych oraz zabezpieczenie ich przed zgryzaniem i spałowaniem przez jeleniowate (Cervidae) - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 12 Ochrona populacji dzikich owadów zapylających, w szczególności pszczołowatych (Apidae) 1) szczegółowe rozpoznanie występowania gatunków owadów zapylających,2) utrzymanie lub odtwarzanie biotopów i miejsc rozrodu gatunków owadów zapylających,3) odtworzenie zbliżonego do naturalnego zespołu dzikich pszczół przez ich restytucję,4) edukacja przyrodnicza społeczeństwa na temat roli owadów zapylających w środowisku oraz promowanie tradycji pszczelarskich- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 13 Ochrona lokalnych tradycji i zwyczajów pasterskich Promowanie tradycyjnego wypasu oraz tradycji i zwyczajów pasterskich, z wyłączeniem siedlisk łąkowych, na które wypas miałby niekorzystny wpływ - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 14 Zapobieganie zagrożeniom dla przyrody wynikającym z presji turystycznej 1) korekta przebiegu szlaków turystycznych w celu skanalizowania ruchu turystycznego,2) zapobieganie przed wydeptywaniem i niszczeniem roślinności przez ukierunkowanie ruchu turystycznego przy pomocy infrastruktury turystycznej,3) ograniczanie organizacji imprez masowych charakteryzujących się w szczególności negatywnym oddziaływaniem na warunki bytowania dzikich zwierząt oraz formy rozwojowe roślin - według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3
+
+### 2.
+
+Działania ochronne dla utrzymania lub odtworzenia właściwego stanu ochrony przedmiotów ochrony obszaru Natura 2000 PLH Góry Stołowe oraz obszaru Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku Podmiotem odpowiedzialnym za realizację działań ochronnych jest Dyrektor Parku jako sprawujący nadzór nad obszarem Natura 2000 na gruntach będących w użytkowaniu wieczystym Parku lub będących jego własnością lub na podstawie porozumienia z władającym nieruchomością na gruntach niebędących w użytkowaniu wieczystym Parku lub niebędących jego własnością.
+
+### 2.1.
+
+Działania ochronne dla utrzymania lub odtworzenia właściwego stanu siedlisk przyrodniczych oraz gatunków roślin i zwierząt stanowiących przedmioty ochrony obszaru Natura 2000 PLH Góry Stołowe Lp. Przedmiot ochrony2) Działanie ochronne Lokalizacja6) 1 Siedliska przyrodnicze 1.1 4060 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) 1. Zabezpieczenie przed wydeptywaniem i niszczeniem roślinności przez instalowanie barier ochronnych oraz patrole Służby Parku Narodowego.2. Ograniczenie działalności wspinaczkowej w miejscach występowania płatów siedliska Obszar Parku 1.2 62303) Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) 1. Działania obligatoryjne:1) zachowanie siedliska przyrodniczego i siedlisk gatunków stanowiących przedmioty ochrony, położonych na trwałych użytkach zielonych;2) ekstensywne użytkowanie kośne, kośno-pastwiskowe lub pastwiskowe trwałych użytków zielonych.2. Działania fakultatywne - użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 1.3 6430 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) Zachowanie siedliska przyrodniczego przez brak ingerencji człowieka Obszar Parku 1.4 6510 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) 1. Działania obligatoryjne:1) zachowanie siedliska przyrodniczego i siedlisk gatunków stanowiących przedmioty ochrony, położonych na trwałych użytkach zielonych;2) ekstensywne użytkowanie kośne, kośno-pastwiskowe lub pastwiskowe trwałych użytków zielonych.2. Działania fakultatywne:1) użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej;2) ograniczenie ekspansji łubinu trwałego (Lupinus polyphullus) przez wyrywanie, koszenie wraz z usuwaniem pozyskanej biomasy Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 1.5 6520 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) 1. Działania obligatoryjne:1) zachowanie siedliska przyrodniczego i siedlisk gatunków stanowiących przedmioty ochrony, położonych na trwałych użytkach zielonych;2) ekstensywne użytkowanie kośne, kośno-pastwiskowe lub pastwiskowe trwałych użytków zielonych.2. Działania fakultatywne:1) użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej;2) ograniczenie ekspansji łubinu trwałego (Lupinus polyphullus) przez wyrywanie, koszenie wraz z usuwaniem pozyskanej biomasy Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 1.6 71103) Torfowiska wysokie z roślinnością torfotwórczą (żywe) Utrzymanie ochrony ścisłej i zapewnienie funkcjonowania naturalnych procesów 76i 1.7 7140 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) 1. Działania obligatoryjne - zachowanie siedliska przyrodniczego i siedlisk gatunków stanowiących przedmioty ochrony.2. Działania fakultatywne:1) w przypadku siedliska położonego na trwałych użytkach zielonych - użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej;2) koszenie ręczne wraz z usuwaniem pozyskanej biomasy;3) usuwanie drzew i krzewów wraz z uprzątnięciem pozyskanej biomasy;4) utrzymywanie wysokiego poziomu wód gruntowych Obszar Parku 1.8 7230 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk 1. Działania obligatoryjne - zachowanie siedliska przyrodniczego i siedlisk gatunków stanowiących przedmioty ochrony.2. Działania fakultatywne:1) w przypadku siedliska położonego na trwałych użytkach zielonych - użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej;2) koszenie ręczne wraz z usuwaniem pozyskanej biomasy;3) usuwanie drzew i krzewów wraz z uprzątnięciem pozyskanej biomasy;4) utrzymywanie wysokiego poziomu wód gruntowych Obszar Parku 1.9 8110 Piargi i gołoborza krzemianowe Zabezpieczenie przed wydeptywaniem i niszczeniem roślinności przez ukierunkowanie ruchu turystycznego przy pomocy infrastruktury turystycznej oraz patrole Służby Parku Narodowego Obszar Parku 1.10 8210 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis Zabezpieczenie przed wydeptywaniem i niszczeniem roślinności przez ukierunkowanie ruchu turystycznego przy pomocy infrastruktury turystycznej oraz patrole Służby Parku Narodowego Obszar Parku 1.11 8220 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii Zabezpieczenie przed wydeptywaniem i niszczeniem roślinności przez ukierunkowanie ruchu turystycznego przy pomocy infrastruktury turystycznej oraz patrole Służby Parku Narodowego Obszar Parku 1.12 9110 Kwaśne buczyny (Luzulo-Fagetum) 1. Zapewnienie przebiegu naturalnych procesów przyrodniczych.2. Usuwanie roślin gatunków obcych Obszar Parku 1.13 9130 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) 1. Zapewnienie przebiegu naturalnych procesów przyrodniczych.2. Usuwanie roślin gatunków obcych Obszar Parku 1.14 91803) Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) 1. Zapewnienie przebiegu naturalnych procesów przyrodniczych.2. Usuwanie roślin gatunków obcych Obszar Parku 1.15 91D03) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 1. Zapewnienie przebiegu naturalnych procesów przyrodniczych.2. Przywrócenie pierwotnych lub zbliżonych do pierwotnych stosunków wodnych, przez budowę zastawek na rowach odwadniających lub zasypanie rowów odwadniających Obszar Parku 1.16 91E03) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 1. Zapewnienie przebiegu naturalnych procesów przyrodniczych.2. Usuwanie roślin gatunków obcych Obszar Parku 1.17 9410 Górskie bory świerkowe (Piceion abietis, część - zbiorowiska górskie) Zapewnienie przebiegu naturalnych procesów przyrodniczych Obszar Parku 2 Gatunki roślin 2.1 40943) goryczuszka czeska (Gentianella bohemica) 1. Zachowanie siedliska gatunku przez koszenie wraz z usuwaniem pozyskanej biomasy.2. Zastosowanie lokalnego wzruszenia darni łąkowej, w celu uzyskania miejsca do kiełkowania nasion (jesienna wertykulacja, wiosenne grabienie).3. Zbiór nasion i ich wysiew w celu zasilenia populacji macierzystej 137d i 138b 3 Gatunki zwierząt 3.1 6177 modraszek telejus (Maculinea (Phengaris) teleius) 1. Utrzymanie siedlisk gatunku przez koszenie wraz z usuwaniem pozyskanej biomasy i z pozostawianiem części płatów nieskoszonych (do 20%).2. Usuwanie drzew i krzewów wraz z usunięciem pozyskanej biomasy Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 3.2 6179 modraszek nausitous (Maculinea (Phengaris) nausithous) 1. Utrzymanie siedlisk gatunku przez koszenie wraz z usuwaniem pozyskanej biomasy i z pozostawianiem części płatów nieskoszonych (do 20%).2. Usuwanie drzew i krzewów wraz z usunięciem pozyskanej biomasy Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 3.3 1303 podkowiec mały (Rhinolophus hipposideros) 1. Zachowanie lasów bukowych i mieszanych porastających zbocza górskie i sąsiedztwo skał przez brak ingerencji człowieka.2. Adaptacja budynków dla potrzeb schronień nietoperzy (Chiroptera).3. Edukacja przyrodnicza społeczeństwa Obszar Parku 3.4 1308 mopek (Barbastella barbastellus) 1. Zachowanie obszarów leśnych z dużym udziałem starodrzewów i obecnością starych drzew z dziuplami przez brak ingerencji człowieka.2. Wywieszanie budek rozrodczych dla nietoperzy (Chiroptera).3. Adaptacja budynków dla potrzeb schronień dla nietoperzy (Chiroptera)4. Edukacja przyrodnicza społeczeństwa Obszar Parku 3.5 1323 nocek Bechsteina (Myotis bechsteinii) 1. Zachowanie obszarów leśnych z dużym udziałem starodrzewów liściastych i mieszanych, z obecnością starych drzew dziuplastych, przez brak ingerencji człowieka.2. Edukacja przyrodnicza społeczeństwa Obszar Parku 3.6 1324 nocek duży (Myotis myotis) 1. Zachowanie obszarów leśnych z dużym udziałem starodrzewów liściastych i mieszanych, w szczególności buczyn, o niewielkim zwarciu.2. Adaptacja budynków dla potrzeb schronień dla nietoperzy (Chiroptera).3. Edukacja przyrodnicza społeczeństwa Obszar Parku 3.7 13523) wilk (Canis lupus) 1. Utrzymanie właściwej liczebności ssaków kopytnych na poziomie pozwalającym na zabezpieczenie bazy żerowej drapieżników.2. Uwzględnianie relacji ekologicznej na poziomie drapieżnik-ofiara w opiniowaniu planów łowieckich w obwodach łowieckich utworzonych w otulinie Parku.3. Zachowanie ostoi rozrodczych gatunku przez brak ingerencji.4. Edukacja przyrodnicza społeczeństwa Obszar Parku i jego otuliny
+
+### 2.2.
+
+Działania ochronne dla utrzymania lub odtworzenia właściwego stanu gatunków ptaków stanowiących przedmioty ochrony obszaru Natura 2000 PLB Góry Stołowe Lp. Przedmiot ochrony4) Działanie ochronne Lokalizacja6) 1 A030 bocian czarny (Ciconia nigra) 1. Zachowanie siedlisk gatunku przez brak ingerencji człowieka.2. Całkowite wyłączanie lub ograniczanie realizacji działań ochronny czynnej w pobliżu miejsc rozrodu gatunku.3. Czyszczenie starych gniazd oraz zakładanie platform na nowe gniazda.4. Koszenie siedlisk łąkowych w dużych płatach systemem mozaikowym, z pozostawianiem części płatów nieskoszonych Obszar Parku 2 A103 sokół wędrowny (Falco peregrinus) 1. Ograniczenie wstępu w bezpośrednie sąsiedztwo gniazd w okresie lęgowym.2. Całkowite wyłączanie lub ograniczanie prowadzenia działań ochrony czynnej w pobliżu miejsc rozrodu gatunku Obszar Parku 3 A122 derkacz (Crex crex) 1. Działania obligatoryjne:1) zachowanie siedlisk gatunku, położonych na trwałych użytkach zielonych;2) ekstensywne użytkowanie kośne, kośno-pastwiskowe lub pastwiskowe trwałych użytków zielonych.2. Działania fakultatywne:1) użytkowanie zgodne z wymogami zobowiązań rolno-środowiskowo-klimatycznych Wspólnej Polityki Rolnej;2) koszenie mechaniczne lub ręczne siedlisk łąkowych w dużych płatach systemem mozaikowym, z pozostawianiem części płatów nieskoszonych i z usuwaniem pozyskanej biomasy;3) wypas ekstensywny siedlisk łąkowych jako alternatywa dla koszenia;4) usuwanie drzew i krzewów wraz z uprzątnięciem pozyskanej biomasy Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 3 4 A215 puchacz (Bubo bubo) 1. Ograniczanie wstępu w bezpośrednim sąsiedztwie gniazd, w tym ewentualna korekta przebiegu szlaków turystycznych i lokalizacji miejsc udostępnionych dla wspinaczki.2. Całkowite wyłączanie lub ograniczanie realizacji działań ochrony czynnej w pobliżu miejsc rozrodu gatunku.3. Koszenie siedlisk łąkowych w dużych płatach systemem mozaikowym, z pozostawianiem części płatów nieskoszonych.4. Wypas ekstensywny siedlisk łąkowych jako uzupełnienie lub alternatywa dla koszenia Obszar Parku 5 A217 sóweczka (Glaucidium passerinum) 1) zachowanie miejsc stałego występowania i rozrodu gatunku, przez pozostawianie w drzewostanach drzew dziuplastych, martwych lub obumierających,2) całkowite wyłączanie lub ograniczanie prac leśnych w pobliżu miejsc rozrodu gatunku,3) rozmieszczanie i czyszczenie budek lęgowych oraz likwidacja zniszczonych budek- według potrzeb Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 6 A223 włochatka (Aegolius funereus) 1. Zachowanie miejsc stałego występowania i rozrodu gatunku przez pozostawianie w drzewostanach drzew dziuplastych, martwych lub obumierających.2. Całkowite wyłączanie lub ograniczanie realizacji działań ochrony czynnej w pobliżu miejsc rozrodu gatunku.3. Wywieszanie lub czyszczenie budek lęgowych oraz likwidacja zniszczonych budek Zgodnie z podziałem w rozdziale 2 w tabeli w lp. 2 7 A234 dzięcioł zielonosiwy (Picus canus) 1. Pozostawianie w drzewostanach liściastych drzew dziuplastych, martwych lub obumierających.2. Zachowanie mozaikowej struktury krajobrazu obszarów nieleśnych Obszar Parku
+
+### Rozdział 8 OKREŚLENIE SPOSOBÓW MONITORINGU REALIZACJI ZADAŃ OCHRONNYCH ORAZ ICH SKUTKÓW NA OBSZARZE NATURA 2000 PLH GÓRY STOŁOWE ORAZ NA OBSZARZE NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+Lp. Rodzaj zadania ochronnego i przedmiot ochrony2)'4) Skutek realizacji działania ochronnego Sposób monitoringu źródło informacji częstotliwość zbierania informacji 1 Zachowanie siedliska przyrodniczego4060Wysokogórskie borówczyska bażynowe (Empetro- -Vaccinietum) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 4,60 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 2 Zachowanie siedliska przyrodniczego 62303) Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 22,50 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 3 Zachowanie siedliska przyrodniczego6430 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 6,78 ha Sprawozdanie Służby Parku Narodowego Co 4-5 lat 4 Zachowanie siedliska przyrodniczego 6510 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 16,16 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 5 Zachowanie siedliska przyrodniczego 6520 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 180,57 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 6 Zachowanie siedliska przyrodniczego 71103) Torfowiska wysokie z roślinnością torfotwórczą (żywe) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 0,87 ha Sprawozdanie Służby Parku Narodowego Co 3-5 lat 7 Zachowanie siedliska przyrodniczego 7140 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 19,18 ha Sprawozdanie Służby Parku Narodowego Co 3-5 lat 8 Zachowanie siedliska przyrodniczego7230 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 0,23 ha Sprawozdanie Służby Parku Narodowego Co 3-5 lat 9 Zachowanie siedliska przyrodniczego 8110 Piargi i gołoborza krzemianowe Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 1,29 ha Sprawozdanie Służby Parku Narodowego Co 6 lat 10 Zachowanie siedliska przyrodniczego 8210 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 2,94 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 11 Zachowanie siedliska przyrodniczego 8220 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 7,84 ha Sprawozdanie Służby Parku Narodowego Co 3-6 lat 12 Zachowanie siedliska przyrodniczego9110 Kwaśne buczyny (Luzulo-Fagetum) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 497,76 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 13 Zachowanie siedliska przyrodniczego9130 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 92,00 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 14 Zachowanie siedliska przyrodniczego 91803) Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 16,14 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 15 Zachowanie siedliska przyrodniczego 91D03) Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 77,39 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 16 Zachowanie siedliska przyrodniczego 91E03) Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 75,01 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 17 Zachowanie siedliska przyrodniczego9410 Górskie bory świerkowe(Piceion abietis, część - zbiorowiska górskie) Zachowanie siedliska przyrodniczego na powierzchni nie mniejszej niż 41,99 ha Sprawozdanie Służby Parku Narodowego Co 5-6 lat 18 Zachowanie siedliska gatunku40943)goryczuszka czeska (Gentianella bohemica) Utrzymanie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Corocznie 19 Zachowanie siedlisk gatunku 6177 modraszek telejus (Maculinea (Phengaris) teleius) Utrzymanie co najmniej 2 stanowisk gatunku Sprawozdanie Służby Parku Narodowego Co 2-3 lata 20 Zachowanie siedlisk gatunku 6179 modraszek nausitous (Maculinea (Phengaris) nausithous) Utrzymanie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Co 2-3 lata 21 Zachowanie siedlisk gatunku 1303 podkowiec mały (Rhinolophus hipposideros) Potwierdzenie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Co 5 lat 22 Zachowanie siedlisk gatunku 1308 mopek (Barbastella barbastellus) Potwierdzenie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Co 5 lat 23 Zachowanie siedlisk gatunku 1323 nocek Bechsteina (Myotis bechsteinii) Potwierdzenie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Co 5 lat 24 Zachowanie siedlisk gatunku1324 nocek duży(Myotis myotis) Potwierdzenie co najmniej 1 stanowiska gatunku Sprawozdanie Służby Parku Narodowego Co 5 lat 25 Utrzymanie populacji gatunku 13523) wilk (Canis lupus) Utrzymanie co najmniej 1 grupy rodzinnej Sprawozdanie Służby Parku Narodowego Co 1-5 lat 26 Zachowanie siedlisk gatunku A030 bocian czarny (Ciconia nigra) Utrzymanie populacji na poziomie powyżej 3 par Sprawozdanie Służby Parku Narodowego Corocznie 27 Zachowanie siedlisk gatunku A103 sokół wędrowny (Falco peregrinus) Utrzymanie populacji na poziomie powyżej 1 pary Sprawozdanie Służby Parku Narodowego Corocznie 28 Zachowanie siedlisk gatunku A122 derkacz (Crex crex) Utrzymanie populacji na poziomie powyżej 20 samców Sprawozdanie Służby Parku Narodowego Co 3 lata 29 Zachowanie siedlisk gatunku A215 puchacz (Bubo bubo) Utrzymanie populacji na poziomie powyżej 4 par Sprawozdanie Służby Parku Narodowego Co 3 lata 30 Zachowanie siedlisk gatunku A217 sóweczka(Glaucidium passerinum) Utrzymanie populacji na poziomie powyżej 40 par Sprawozdanie Służby Parku Narodowego Co 3 lata 31 Zachowanie siedlisk gatunku A223 włochatka(Aegolius funereus) Utrzymanie populacji na poziomie powyżej 20 par Sprawozdanie Służby Parku Narodowego Co 3 lata 32 Zachowanie siedlisk gatunku A234 dzięcioł zielonosiwy (Picus canus) Utrzymanie populacji na poziomie powyżej 20 par Sprawozdanie Służby Parku Narodowego Co 3 lata
+
+### Rozdział 9 OKREŚLENIE SPOSOBÓW MONITORINGU STANU OCHRONY SIEDLISK PRZYRODNICZYCH LUB GATUNKÓW ROŚLIN I ZWIERZĄT I ICH SIEDLISK, BĘDĄCYCH PRZEDMIOTAMI OCHRONY OBSZARU NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARU NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+### 1.
+
+Sposoby monitoringu stanu ochrony siedlisk przyrodniczych będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe Lp. Przedmiot ochrony Kod siedliska przyrodniczego2) Kontrolowany parametr/wskaźnik monitoringu Rodzaj powierzchni Częstotliwość kontroli Metoda i zakres monitoringu 1 Wysokogórskie borówczyska bażynowe (Empetro-Vaccinietum) 4060 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne Co 3-6 lat Ocena stanu ochrony siedliska przyrodniczego na stałych powierzchniach zgodnie z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 2 Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie) 62303) 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne Co 3-6 lat 3 Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) 6430 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne i leśne Co 4-5 lat 4 Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris) 6510 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na siedliskach świeżych Co 3-6 lat 5 Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion) 6520 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na siedliskach świeżych Co 3-6 lat 6 Torfowiska wysokie z roślinnością torfotwórczą (żywe) 71103) 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na torfach Co 3-5 lat 7 Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea) 7140 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na torfach Co 3-5 lat 8 Górskie i nizinne torfowiska zasadowe o charakterze młak, turzycowisk i mechowisk 7230 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na torfach Co 3-5 lat 9 Piargi i gołoborza krzemianowe 8110 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne Co 6 lat 10 Wapienne ściany skalne ze zbiorowiskami Potentilletalia caulescentis 8210 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne Co 3-6 lat 11 Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii 8220 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy nieleśne na krzemianowych ścianach skalnych Co 3-6 lat 12 Kwaśne buczyny (Luzulo-Fagetum) 9110 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat 13 Żyzne buczyny (Dentario glandulosae Fagenion, Galio odorati-Fagenion) 9130 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat 14 Jaworzyny i lasy klonowo-lipowe na stokach i zboczach (Tilio platyphyllis-Acerion pseudoplatani) 91803) 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat 15 Bory i lasy bagienne (Vaccinio uliginosi Betuletum pubescentis, Vaccinio uliginosi Pinetum, Pino mugo-Sphagnetum, Sphagno girgensohnii-Piceetum) i brzozowo-sosnowe bagienne lasy borealne 91D03) 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat 16 Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe 91E03) 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat 17 Górskie bory świerkowe (Piceion abietis, część - zbiorowiska górskie) 9410 1. Powierzchnia siedliska.2. Specyficzna struktura i funkcje.3. Perspektywy ochrony Ekosystemy leśne Co 5-6 lat
+
+### 2.
+
+Sposoby monitoringu stanu ochrony gatunków ptaków wymienionych w załączniku I do dyrektywy ptasiej oraz gatunków roślin i zwierząt wymienionych w załączniku II do dyrektywy siedliskowej, oraz ich siedlisk, będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe, w częściach pokrywających się z obszarem Parku Lp. Przedmiot ochrony Kod2),4) Wskaźnik monitoringu Siedlisko gatunku Częstotliwość kontroli Liczba kontroli Terminy kontroli Metoda i zakres monitoringu 1 Goryczuszka czeska (Gentianella bohemica) 40943) 1. Liczba stanowisk.2. Liczba osobników kwitnących.3. Wilgotność i temperatura gleby.4. Stan populacji gatunku.5. Stan siedliska gatunku.6. Perspektywy zachowania i ochrony gatunku na stanowisku Ekosystemy nieleśne na siedliskach świeżych Corocznie 1 Od sierpnia do października 1. Wyszukiwanie osobników kwitnących oraz całoroczny pomiar wilgotności i temperatury gleby na stanowiskach.2. Ocena stanu populacji zgodna z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 2 Modraszek telejus (Maculinea (Phengaris) teleius) 6177 1. Stan populacji gatunku.2. Stan siedliska gatunku.3. Perspektywy zachowania i ochrony gatunku na stanowisku Wilgotne łąki Co 2-3 lata 1 Od czerwca do sierpnia Ocena stanu populacji zgodna z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 3 Modraszek nausitous (Maculinea (Phengaris) nausithous) 6179 1. Stan populacji gatunku.2. Stan siedliska gatunku.3. Perspektywy zachowania i ochrony gatunku na stanowisku Wilgotne łąki Co 2-3 lata 1 Od czerwca do sierpnia Ocena stanu populacji zgodna z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 4 Podkowiec mały (Rhinolophus hipposideros) 1303 1. Obecność gatunku.2. Wielkość żerowisk Znane i potencjalne miejsca schronień oraz żerowiska Co 5 lat 5 Od czerwca do września 1. Monitoring obecności gatunku na żerowisku i dostępności żerowisk -nasłuchy detektorowe w okresie usamodzielniania się młodych (sierpień-wrzesień) przez 5 nocy w rejonie wcześniejszych stwierdzeń.2. Ocena powierzchni dostępnych żerowisk.3. Kontrola liczebności w wytypowanych schronieniach zgodnie z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 5 Mopek (Barbastella barbastellus) 1308 1. Rozród gatunku.2. Stan siedlisk Znane i potencjalne miejsca schronień oraz żerowiska Co 5 lat 2 Od czerwca do września Monitoring zgodny z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 6 Nocek Bechsteina (Myotis bechsteinii) 1323 1. Rozród gatunku.2. Stan siedlisk Znane i potencjalne miejsca schronień oraz żerowiska Co 5 lat 2 Od czerwca do września Monitoring zgodny z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska 7 Nocek duży (Myotis myotis) 1324 1. Obecność gatunku.2. Wielkość żerowisk Znane i potencjalne miejsca schronień oraz żerowiska Co 5 lat 5 Lato 1. Monitoring obecności gatunku na żerowisku i dostępności żerowisk -odłowy w sieci chiropterologiczne w okresie rozrodu (lipiec-sierpień) przez 5 nocy w rejonie wcześniejszych stwierdzeń.2. Ocena powierzchni dostępnych żerowisk 8 Wilk (Canis lupus) 13523) 1. Monitoring stanu populacji z wykorzystaniem:1) zagęszczenia populacji;2) liczby grup rodzinnych;3) lokalizacji miejsc rozrodu.2. Stan siedlisk.3. Monitoring dostępności bazy pokarmowej Ekosystemy leśne i nieleśne 1. Coroczne obserwacje śladów obecności wilków, ze szczególnym uwzględnieniem okresu zalegania pokrywy śnieżnej oraz okresu przebywania młodych przy norach.2. Co 5 lat monitoring stanu siedlisk.3. Co 2 lata monitoring dostępności bazy pokarmowej Cały rok 1. Tropienia przy zalegającej pokrywie śnieżnej, rejestracja za pomocą fotopułapek, wabienia nocne w okresie przebywania młodych przy norach.2. Ocena stanu populacji i stanu siedliska zgodnie z metodyką monitoringu przyjętą na potrzeby Państwowego Monitoringu Środowiska stosowaną przez Główny Inspektorat Ochrony Środowiska.3. Liczenie skupisk odchodów ssaków kopytnych na transektach 9 Bocian czarny (Ciconia nigra) A030 Liczba zajętych gniazd oraz sukces lęgowy Ekosystemy leśne Corocznie 2 Od maja do lipca Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 10 Sokół wędrowny (Falco peregrinus) A103 Liczba zajętych gniazd oraz sukces lęgowy Ekosystemy naskalne Corocznie 2 Od kwietnia do lipca Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 11 Derkacz (Crex crex) A122 Liczba odzywających się samców Ekosystemy nieleśne Co 3 lata 2 Od maja do czerwca Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 12 Puchacz (Bubo bubo) A215 Liczba zajętych gniazd oraz sukces lęgowy Ekosystemy leśne Co 3 lata 2 Od lutego do kwietnia Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 13 Sóweczka (Glaucidium passerinum) A217 Liczba terytorialnych samców Ekosystemy leśne Co 3 lata 2 Od marca do maja Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 14 Włochatka (Aegolius funereus) A223 Liczba terytorialnych samców Ekosystemy leśne Co 3 lata 2 Od marca do kwietnia Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska 15 Dzięcioł zielonosiwy (Picus canus) A234 Liczba samców wykazujących zachowanie terytorialne Ekosystemy leśne Co 3 lata 1 Od marca do kwietnia Monitoring zgodny z metodyką monitoringu ptaków lęgowych stosowaną przez Główny Inspektorat Ochrony Środowiska
+
+### Rozdział 10 WSKAZANIE OBSZARÓW I MIEJSC UDOSTĘPNIANYCH DLA CELÓW NAUKOWYCH, EDUKACYJNYCH, TURYSTYCZNYCH, REKREACYJNYCH I SPORTOWYCH ORAZ OKREŚLENIE SPOSOBÓW ICH UDOSTĘPNIANIA
+
+### 1.
+
+Obszary i miejsca udostępniane dla celów naukowych Lp. Obszary i miejsca udostępniane6) Sposoby udostępniania Maksymalna liczba osób mogących przebywać jednocześnie w jednym miejscu 1 Obszar Parku Prowadzenie badań naukowych i monitoringu przyrodniczego, za zgodą Dyrektora Parku, na podstawie analizy wpływu metodyki badań na przyrodę Parku 10 2 Obszar Parku Prowadzenie ćwiczeń terenowych i obozów naukowych, za zgodą Dyrektora Parku, na podstawie analizy wpływu metodyki badań na przyrodę Parku 50
+
+### 2.
+
+Obszary i miejsca udostępniane dla celów edukacyjnych Lp. Obszary i miejsca udostępniane6) Sposoby udostępniania Maksymalna liczba osób mogących przebywać jednocześnie w danym miejscu 1 Ekocentrum (151t) Zajęcia edukacyjne, warsztaty, konferencje i seminaria, zwiedzanie ekspozycji stałych i czasowych. Cały rok, indywidualnie i grupowo 50 2 Ośrodek edukacyjny w siedzibie Parku (151t) Zajęcia edukacyjne, warsztaty, konferencje i seminaria, zwiedzanie ekspozycji stałych i czasowych. Cały rok, indywidualnie i grupowo 40 3 Stanowiska edukacyjne „Geoatrakcje Gór Stołowych” (29a, 44d, 97f, 106d i 148c) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na warunki atmosferyczne lub potrzeby ochrony przyrody 20 osób/stanowisko 4 Stanowiska edukacyjne na ścieżce edukacyjnej „Płazy” (151t, 151w-151z i 151ax-151cx) Dostępne cały rok 5 osób/stanowisko 5 Stanowiska edukacyjne na ścieżce edukacyjnej „Niknąca Łąka” (57b) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na warunki atmosferyczne lub potrzeby ochrony przyrody 5 osób/stanowisko 6 Stanowiska edukacyjne na ścieżce edukacyjnej „Ścieżki Skalnej Rzeźby” (2, 4, 15-17, 17A, 19, 20A, 41, 41A, 42 i 157A) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na potrzeby ochrony przyrody 20 osób/stanowisko 7 Stanowiska edukacyjne na ścieżce edukacyjnej „Ochrona Ekosystemów w Parku Narodowym Gór Stołowych” (115-118, 120 i 121) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na potrzeby ochrony przyrody 20 osób/stanowisko 8 Stanowiska edukacyjne na ścieżce edukacyjnej „Ścieżka Skalnych Grzybów” (46, 47, 53-55 i 61) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na potrzeby ochrony przyrody 20 osób/stanowisko 9 Miejsce kultu religijnego Krucza Kopa (145) Dostępne cały rok, możliwość zamknięcia dojścia z uwagi na potrzeby ochrony przyrody 100 10 Budynki edukacyjne Parku (działki o numerach: 98, 100 i 102, obręb ewidencyjny Karłów, gmina Radków) Zajęcia edukacyjne, warsztaty, konferencje, seminaria i baza noclegowa 150
+
+### 3.
+
+Obszary i miejsca udostępniane dla celów turystycznych i rekreacyjnych Lp. Obszary i miejsca udostępniane6) Sposoby udostępniania Maksymalna liczba osób mogących przebywać jednocześnie w danym miejscu 1 Błędne Skały (116) Trasa turystyczna ogólnodostępna, w okresie od kwietnia do listopada 500 2 Szczeliniec Wielki (41 i 41A) Trasa turystyczna ogólnodostępna, w okresie od maja do listopada 500 3 Parking Czerwona Skała (148c) Ogólnodostępny Uwarunkowana pojemnością parkingu 4 Parking polana YMCA (133g) Ogólnodostępny Uwarunkowana pojemnością parkingu 5 Parking (121f) Ogólnodostępny, w okresie od kwietnia do października Uwarunkowana pojemnością parkingu 6 Parking przy Błędnych Skałach (116j) Ogólnodostępny, w okresie od kwietnia do października Uwarunkowana pojemnością parkingu 7 Parking Lisia Przełęcz I i II (79b, 106f i 106l) Ogólnodostępny Uwarunkowana pojemnością parkingu 8 Parking pod Szczelińcem (42g) Ogólnodostępny Uwarunkowana pojemnością parkingu 9 Parking Kształtna Łąka (50f) Ogólnodostępny Uwarunkowana pojemnością parkingu 10 Parking Droga nad Urwiskiem (31c) Ogólnodostępny Uwarunkowana pojemnością parkingu 11 Parking Wodospady Pośny (35f) Ogólnodostępny Uwarunkowana pojemnością parkingu 12 Parking Hutniczy Most (Batorówek) (62l i 62m) Ogólnodostępny Uwarunkowana pojemnością parkingu 13 Wiaty ogniskowe, odpoczynkowe, edukacyjne, obiekty sanitarne Ogólnodostępne Uwarunkowana pojemnością obiektu 14 Piesze i rowerowe szlaki turystyczne przebiegające przez obszary ochrony czynnej i krajobrazowej, z wyłączeniem wyznaczonych i przygotowanych tras narciarstwa biegowego Dopuszcza się wprowadzanie psów na smyczy i w kagańcu 10 osób prowadzących psy
+
+### 4.
+
+Obszary i miejsca udostępniane dla celów sportowych Obszary i miejsca udostępniane6) Sposoby udostępniania Maksymalna liczba osób mogących przebywać jednocześnie w danym miejscu 2-4, 6, 13, 15-20, 20A, 20B, 20D, 21, 22A, 24, 26-32, 35-38, 41, 43, 44, 44A, 45-50, 53-59, 61-69, 78, 79, 81, 83, 84, 87, 89, 90-93, 95-99, 101, 103, 105, 106, 109, 111-117, 120-124, 126-132, 135-138, 140, 141, 145, 146, 151-155, 157-159 i 161 Zawody biegowe i rowerowe po trasach zgodnych z istniejącymi szlakami turystycznymi przebiegającymi przez obszar Parku 500
+
+### Rozdział 11 WSKAZANIE MIEJSC, W KTÓRYCH MOŻE BYĆ PROWADZONA DZIAŁALNOŚĆ WYTWÓRCZA, HANDLOWA I ROLNICZA
+
+### 1.
+
+Wykaz miejsc, w których może być prowadzona działalność handlowa6):
+
+### 1)
+
+siedziba Parku (151t);
+
+### 2)
+
+Ekocentrum (151t);
+
+### 3)
+
+punkty kasowe przy Błędnych Skałach i Szczelińcu Wielkim (116f i 41i);
+
+### 4)
+
+parking (121f);
+
+### 5)
+
+parking polana YMCA (133g);
+
+### 6)
+
+Schronisko PTTK „Na Szczelińcu” (41A);
+
+### 7)
+
+miejscowości - Pasterka i Batorówek.
+
+### 2.
+
+Działalność rolnicza może być prowadzona na gruntach rolnych na obszarach objętych ochroną krajobrazową.
+
+### 3.
+
+Działalność wytwórcza może być prowadzona w miejscowości Pasterka.
+
+### Rozdział 12 USTALENIA DO PLANÓW OGÓLNYCH GMIN, MIEJSCOWYCH PLANÓW ZAGOSPODAROWANIA PRZESTRZENNEGO, PLANU ZAGOSPODAROWANIA PRZESTRZENNEGO WOJEWÓDZTWA DOLNOŚLĄSKIEGO, DOTYCZĄCE ELIMINACJI LUB OGRANICZANIA ZAGROŻEŃ WEWNĘTRZNYCH LUB ZEWNĘTRZNYCH NA OBSZARZE PARKU ORAZ NIEZBĘDNYCH DLA UTRZYMANIA LUB ODTWORZENIA WŁAŚCIWEGO STANU OCHRONY SIEDLISK PRZYRODNICZYCH ORAZ GATUNKÓW ROŚLIN I ZWIERZĄT NA OBSZARZE NATURA 2000 PLH GÓRY STOŁOWE ORAZ OBSZARZE NATURA 2000 PLB GÓRY STOŁOWE, W CZĘŚCIACH POKRYWAJĄCYCH SIĘ Z OBSZAREM PARKU
+
+Określa się następujące ustalenia do planów ogólnych oraz miejscowych planów zagospodarowania przestrzennego gmin: Duszniki-Zdrój, Kudowa-Zdrój, Lewin Kłodzki, Polanica-Zdrój, Radków i Szczytna, oraz planu zagospodarowania przestrzennego województwa dolnośląskiego, dotyczące eliminacji lub ograniczania zagrożeń wewnętrznych lub zewnętrznych, dla obszarów położonych na obszarze Parku i jego otuliny:
+
+### 1.
+
+Proponuje się przyjęcie podstawowych zasad kształtowania struktur przestrzennych:
+
+### 1)
+
+utrzymanie podstawowej ochronnej funkcji obszaru Parku, uzupełnionej funkcją turystyczną, edukacyjną i naukową;
+
+### 2)
+
+zachowanie i utrwalanie walorów krajobrazowych, przez ochronę lokalnych cech krajobrazu przyrodniczo-kulturowego Parku;
+
+### 3)
+
+ochronę i eksponowanie zasobów dziedzictwa przyrodniczego jako wartości priorytetowych dla ochrony obszaru Gór Stołowych;
+
+### 4)
+
+unikanie lokowania zabudowy na terenach rolniczych na obszarze Parku, w szczególności na łąkach i pastwiskach oraz na terenach leśnych, z wyjątkiem obiektów i urządzeń służących celom Parku; dopuszcza się lokalizowanie infrastruktury turystycznej w postaci miejsc odpoczynku i obiektów małej architektury, które nie będą inwazyjne dla krajobrazu i nie będą stanowiły dysharmonizujących dominant; konieczne - ze względów społeczno-gospodarczych - przekształcania naturalnych struktur przestrzennych, w tym zmiany w zagospodarowaniu terenów, powinny uwzględniać cele tworzenia parku narodowego;
+
+### 5)
+
+przekształcanie istniejących oraz wprowadzanie nowych form zagospodarowania, w szczególności osadniczego, turystycznego, rolniczego, leśnego lub komunikacyjnego, powinny odznaczać się wysokim standardem technicznym, funkcjonalnym, architektonicznym, ekonomicznym i ekologicznym, adekwatnym do wysokich walorów przyrodniczych i krajobrazowych Parku; rezygnacja z rozwiązań substandardowych i tymczasowych, w tym w zakresie gospodarki ściekowej i gospodarki odpadami, budownictwa lub usług turystycznych;
+
+### 6)
+
+poszukiwanie rozwiązań odciążających obszar Parku w zakresie form zagospodarowania przestrzennego, które wywierają szczególnie silną presję na cechy, procesy i walory przyrodnicze, krajobrazowe i kulturowe Parku, w szczególności przez alternatywne przejazdy tranzytowe oraz uatrakcyjnienie zagospodarowania turystycznego poza granicami Parku;
+
+### 7)
+
+niedopuszczanie do rozpraszania zabudowy; w rozwoju przestrzennym terenów osadniczych należy dążyć do dopełnienia istniejących układów, a następnie sukcesywnego dodawania kolejnych terenów zabudowanych w bezpośrednim sąsiedztwie terenów już zabudowanych;
+
+### 8)
+
+na obszarze otuliny Parku ograniczanie przeznaczania nowych gruntów pod zabudowę mieszkaniową na terenach bezpośrednio przylegających do granic Parku, w strefie o szerokości minimum 200 m;
+
+### 9)
+
+ograniczenie wprowadzania obiektów budowlanych i urządzeń technicznych mogących mieć negatywne oddziaływanie na zasoby przyrodnicze i krajobrazowe Parku, w szczególności na siedliska przyrodnicze oraz gatunki roślin i zwierząt chronionych, będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe;
+
+### 10)
+
+utrzymanie dotychczasowego sposobu zagospodarowania terenów i niepodejmowanie nowej eksploatacji surowców skalnych na obszarze Parku i jego otuliny oraz ograniczanie eksploatacji tych surowców w bezpośrednim sąsiedztwie Parku i otuliny.
+
+### 2.
+
+Ustalenia do planu zagospodarowania przestrzennego województwa dolnośląskiego, dotyczące eliminacji lub ograniczania zagrożeń wewnętrznych i zewnętrznych:
+
+### 1)
+
+określenie rangi Parku w krajowym (regionalnym i ponadregionalnym) oraz europejskim systemie powiązań ekologicznych oraz utrzymanie niezbędnych lokalnych korytarzy ekologicznych łączących Park z obszarem Natura 2000 PLH Góry Stołowe i obszarem Natura 2000 PLB Góry Stołowe, w częściach niepokrywających się z obszarem Parku, jak również powyższych obszarów z dalszym przyrodniczym ich otoczeniem, w układzie ponadlokalnych przestrzennych i zarazem funkcjonalnych powiązań ekologicznych;
+
+### 2)
+
+wskazywanie lokalizacji inwestycji celu publicznego o znaczeniu ponadlokalnym, w szczególności o liniowym charakterze, w tym dróg, linii kolejowych, magistralnych linii infrastruktury technicznej, przy maksymalnym uwzględnieniu regionalnych i ponadregionalnych powiązań ekologicznych;
+
+### 3)
+
+dążenie do alternatywnego, dla drogi wojewódzkiej nr 387 (Droga Stu Zakrętów), powiązania komunikacyjnego między Kudową-Zdrój oraz trasą drogi krajowej nr 8 a Radkowem, ograniczającego obciążenie ruchem samochodowym obszaru Parku i uwzględniającego powiązania ekologiczne Parku z innymi obszarami chronionymi lub obszarami cennymi przyrodniczo.
+
+### 3.
+
+Proponowane ustalenia do planów ogólnych gmin: Radków, Kudowa-Zdrój, Lewin Kłodzki, Szczytna, dotyczące eliminacji lub ograniczenia zagrożeń wewnętrznych:
+
+### 1)
+
+rozwój przestrzenny układu osadniczego Pasterki (gmina Radków) powinien być ograniczony do zasięgu układu historycznego, a układu osadniczego Karłowa - do zasięgu terenów osadniczych wyznaczonych w obowiązującym miejscowym planie zagospodarowania przestrzennego;
+
+### 2)
+
+preferowanie tradycyjnego, regionalnego stylu architektonicznego, w tym odtwarzanie zabudowy dawnej, uwzględniające rozplanowanie, skalę i uformowania architektoniczne tej zabudowy; także przy zmianie jej funkcji na inną, w szczególności turystyczną, oraz dostosowanie nowej zabudowy do historycznie ukształtowanego otoczenia;
+
+### 3)
+
+utrzymanie istniejącej zabudowy w dawnej kolonii Jeżowice (gmina Radków) oraz w Łężycach Górnych (gmina Szczytna), bez powiększania istniejących zespołów rozproszonej zabudowy;
+
+### 4)
+
+utrzymanie istniejącej zabudowy Ośrodka Szkolenia Piechoty Górskiej wraz z zagospodarowaniem terenu w Ostrej Górze (obręb Pasterka), bez odtwarzania zabudowy historycznego układu osadniczego;
+
+### 5)
+
+dążenie do osiągnięcia odpowiednich standardów ekologicznych i funkcjonalnych gospodarki wodno-ściekowej; ewentualna lokalizacja nowych ujęć wody na obszarze Parku może być dopuszczona pod warunkiem, że nie zostaną pogorszone warunki siedliskowe, w szczególności ekosystemów hydrogenicznych, oraz po przeprowadzeniu szczegółowych badań hydrogeologicznych określających obszary perspektywiczne do ujmowania wód podziemnych;
+
+### 6)
+
+rozwój zabudowy Pasterki i Karłowa (gmina Radków) powinien być warunkowany odpowiednim uporządkowaniem gospodarki ściekowej i gospodarki odpadami w tych układach osadniczych, gwarantującym pełną kontrolę nad strumieniami ścieków i odpadów (pełny i wysoki standard ekologiczny systemów odbioru, gromadzenia i unieszkodliwiania ścieków i innych odpadów);
+
+### 7)
+
+do ogrzewania obiektów powinny być stosowane systemy o niewielkiej emisji zanieczyszczeń powietrza, w szczególności systemy ogrzewania oparte na gazie, oleju, energii elektrycznej lub niekonwencjonalnych źródłach, z wyjątkiem energetyki wiatrowej;
+
+### 8)
+
+do zakładania zieleni ozdobnej na terenach planowanej zabudowy, nie należy wykorzystywać roślin gatunków obcych i inwazyjnych;
+
+### 9)
+
+niezalesione tereny pozaosadnicze powinny być wyłączone z zabudowy;
+
+### 10)
+
+określenie granic ochrony konserwatorskiej historycznych układów osadniczych oraz granic strefy ochrony krajobrazu kulturowego;
+
+### 11)
+
+wskazanie zespołów zabudowy i układów osadniczych Karłowa, Pasterki, kolonii Jeżowice, Łężyc Górnych i Ostrej Góry oraz niezalesionych terenów poza osadniczych, do objęcia miejscowymi planami zagospodarowania przestrzennego;
+
+### 12)
+
+wyłączenie z zalesiania gruntów stanowiących pastwiska i łąki; preferowane wykorzystanie tych gruntów w formie ekstensywnej gospodarki rolnej;
+
+### 13)
+
+wzdłuż potoku Czerwona Woda powinna zostać wyznaczona strefa ochrony biologicznej - 40 m od linii każdego z brzegów potoku bez zabudowy, z wyjątkiem obiektów służących ochronie środowiska przyrodniczego.
+
+### 4.
+
+Proponowane ustalenia do miejscowych planów zagospodarowania przestrzennego gmin: Kudowa-Zdrój, Lewin Kłodzki, Radków i Szczytna, dotyczące eliminacji lub ograniczenia zagrożeń wewnętrznych:
+
+### 1)
+
+dopuszczalne przeznaczenie terenów osadniczych w granicach Parku i w enklawie Karłowa:
+
+### a)
+
+tereny zabudowy mieszkaniowej jednorodzinnej (MN),
+
+### b)
+
+tereny zabudowy letniskowej lub rekreacji indywidualnej (ML),
+
+### c)
+
+tereny usług handlu detalicznego (UHD),
+
+### d)
+
+tereny usług turystyki (UT),
+
+### e)
+
+tereny usług gastronomii (UG),
+
+### f)
+
+tereny usług kultu religijnego (UR),
+
+### g)
+
+tereny komunikacji drogowej publicznej (KD), z wyłączeniem terenów autostrad (KDA), terenów dróg ekspresowych (KDS) i terenów dróg głównych ruchu przyspieszonego (KDR),
+
+### h)
+
+tereny komunikacji pieszo-rowerowej (KP),
+
+### i)
+
+tereny obsługi komunikacji (KO),
+
+### j)
+
+tereny infrastruktury technicznej (I), z wyjątkiem obiektów stanowiących dominanty w krajobrazie, w tym indywidualnych masztów telefonii komórkowej lub elektrowni wiatrowych oraz lokalizacji stacji paliw,
+
+### k)
+
+tereny zabudowy związanej z rolnictwem (RZ), z wyłączeniem terenów wielkotowarowej produkcji rolnej (RZW),
+
+### l)
+
+tereny wód powierzchniowych śródlądowych (WS),
+
+### m)
+
+tereny lasu (L),
+
+### n)
+
+tereny zieleni urządzonej (ZP),
+
+### o)
+
+tereny cmentarzy (C) istniejących z ograniczonym powiększeniem;
+
+### 2)
+
+dostosowanie zabudowy pod względem formy architektonicznej i intensywności do tradycyjnego budownictwa mikroregionu Ziemi Kłodzkiej, w szczególności w odniesieniu do rozplanowania budynków, ich gabarytów oraz form dachów;
+
+### 3)
+
+dla terenów wskazanych pod zabudowę:
+
+### 1)
+
+wysokość zabudowy nie powinna przekraczać 3 kondygnacji, w tym poddasze użytkowe;
+
+### 2)
+
+dachy spadziste (30-50°), symetryczne, kryte dachówką, gontem lub materiałem o podobnej fakturze;
+
+### 3)
+
+minimalny udział powierzchni terenów biologicznie czynnej:
+
+### a)
+
+30% w przypadku UT,
+
+### b)
+
+50% w przypadku MN,
+
+### c)
+
+70% w przypadku ML,
+
+### d)
+
+20% w przypadku KOP;
+
+### 4)
+
+dopuszczalna minimalna powierzchnia działek dla ML - 2000 m˛.
+
+### 5.
+
+Proponowane ustalenia do planów ogólnych gmin: Duszniki-Zdrój, Kudowa-Zdrój, Lewin Kłodzki, Polanica-Zdrój, Radków i Szczytna, w zakresie eliminacji lub ograniczania zagrożeń zewnętrznych:
+
+### 1)
+
+w otulinie Parku utworzenie strefy buforowej, w odległości 200 m od zewnętrznej granicy Parku, wyłączonej z zalesień oraz zabudowy;
+
+### 2)
+
+w odniesieniu do układów osadniczych: południowej części obrębu Radkowa (Leśna, Borek, Łąki, Osiedle Radkowskie), górnej części Wambierzyc, Studzienna, Batorowa i Ocieszowa (część miasta Szczytna), Łężyc (gmina Szczytna), Darnkowa, Dańczowa i Jerzykowic Wielkich (gmina Lewin Kłodzki) oraz Jakubowic i Pstrążnej (części miasta Kudowy-Zdroju):
+
+### a)
+
+rozwój funkcji obsługi ruchu turystycznego Parku, w tym bazy noclegowej, jako zagospodarowanie odciążające recepcyjność obszaru Parku,
+
+### b)
+
+ograniczenie terenów z zabudową do historycznego zasięgu układów osadniczych, z wyłączeniem obrębu miast Radkowa i Kudowy-Zdroju - bez Jakubowic i Pstrążnej; w uformowaniach architektonicznych uwzględnia się tradycyjne cechy wiejskiej zabudowy kulturowego mikroregionu Ziemi Kłodzkiej,
+
+### c)
+
+do ogrzewania obiektów zaleca się stosować systemy o niewielkiej emisji zanieczyszczeń powietrza, w szczególności systemy ogrzewania oparte na gazie, oleju, energii elektrycznej lub niekonwencjonalnych źródłach, z wyjątkiem energetyki wiatrowej,
+
+### d)
+
+do zakładania zieleni ozdobnej na terenach planowanej zabudowy nie należy wykorzystywać roślin gatunków obcych i inwazyjnych;
+
+### 3)
+
+wskazanie następujących układów osadniczych: południowa część obrębu Radkowa (Leśna, Borek, Łąki, Osiedle Radkowskie), górna część Wambierzyc, Studzienno, Batorów i Ocieszów (część miasta Szczytna), Łężyce (gmina Szczytna), Darnków, Dańczów i Jerzykowice Wielkie (gmina Lewin Kłodzki) oraz Jakubowice i Pstrążna (części miasta Kudowy-Zdroju), do objęcia miejscowymi planami zagospodarowania przestrzennego;
+
+### 4)
+
+liniowe elementy infrastruktury technicznej, w tym linie elektroenergetyczne i telekomunikacyjne, powinny być tam gdzie pozwalają na to warunki gruntowe, prowadzone pod ziemią, w miarę możliwości w liniach rozgraniczających dróg;
+
+### 5)
+
+tereny otwarte, w tym tereny pozaosadnicze i tereny nieleśne, powinny być określone jako tereny rolne bez możliwości zabudowy, z wyłączeniem zabudowy siedliskowej koniecznej do realizacji gospodarki rolnej;
+
+### 6)
+
+w odniesieniu do pozostałych terenów w zasięgu otuliny niedopuszczanie do zagospodarowania oraz lokalizacji przedsięwzięć, które mogłyby negatywnie oddziaływać na zasoby przyrodnicze i krajobrazowe Parku, w tym na siedliska przyrodnicze oraz gatunki roślin i zwierząt objętych ochroną gatunkową oraz będących przedmiotami ochrony obszaru Natura 2000 PLH Góry Stołowe i obszaru Natura 2000 PLB Góry Stołowe.
+
+### 6.
+
+Proponowane ustalenia do miejscowych planów zagospodarowania przestrzennego gmin: Kudowa-Zdrój, Radków, Lewin Kłodzki, Szczytna, Duszniki-Zdrój i Polanica-Zdrój, dotyczące eliminacji lub ograniczania zagrożeń zewnętrznych:
+
+### 1)
+
+dopuszczalne przeznaczenie następujących terenów osadniczych: południowa część obrębu Radkowa (Leśna, Borek, Łąki, Osiedle Radkowskie), górna część Wambierzyc, Studzienno, Batorów i Ocieszów (część miasta Szczytna), Łężyce (gmina Szczytna), Darnków, Dańczów i Jerzykowice Wielkie (gmina Lewin Kłodzki) oraz Jakubowice i Pstrążna (części miasta Kudowy-Zdroju):
+
+### a)
+
+tereny zabudowy mieszkaniowej jednorodzinnej (MN),
+
+### b)
+
+tereny zabudowy mieszkaniowej wielorodzinnej (MW), wyłącznie w granicach terenów istniejącej zabudowy mieszkaniowej wielorodzinnej,
+
+### c)
+
+tereny zabudowy letniskowej lub rekreacji indywidualnej (ML),
+
+### d)
+
+tereny usług handlu detalicznego (UHD),
+
+### e)
+
+tereny usług rzemieślniczych (UL),
+
+### f)
+
+tereny usług turystyki (UT),
+
+### g)
+
+tereny usług gastronomii (UG),
+
+### h)
+
+tereny usług kultu religijnego (UR),
+
+### i)
+
+tereny komunikacji drogowej publicznej (KD), z wyłączeniem terenów autostrad (KDA), terenów dróg ekspresowych (KDS) i terenów dróg głównych ruchu przyspieszonego (KDR),
+
+### j)
+
+tereny komunikacji pieszo-rowerowej (KP),
+
+### k)
+
+tereny obsługi komunikacji (KO),
+
+### l)
+
+tereny infrastruktury technicznej (I), z wyjątkiem obiektów stanowiących dominanty w krajobrazie, w tym indywidualnych masztów telefonii komórkowej lub elektrowni wiatrowych oraz lokalizacji stacji paliw,
+
+### m)
+
+tereny zabudowy związanej z rolnictwem (RZ), z wyłączeniem terenów wielkotowarowej produkcji rolnej (RZW),
+
+### n)
+
+tereny wód powierzchniowych śródlądowych (WS),
+
+### o)
+
+tereny lasu (L),
+
+### p)
+
+tereny zieleni urządzonej (ZP),
+
+### q)
+
+tereny ogrodów działkowych (ZD), w granicach istniejących ogrodów działkowych, z możliwością rozszerzenia przeznaczenia na terenach sąsiednich,
+
+### r)
+
+tereny cmentarzy (C) istniejących z ograniczonym powiększeniem;
+
+### 2)
+
+minimalny udział powierzchni biologicznie czynnej:
+
+### a)
+
+40% w przypadku UT,
+
+### b)
+
+50% w przypadku MN,
+
+### c)
+
+60% w przypadku ML,
+
+### d)
+
+10% w przypadku KOP;
+
+### 3)
+
+minimalna powierzchnia działki:
+
+### a)
+
+1000 m2 w przypadku MN,
+
+### b)
+
+2000 m2 w przypadku ML;
+
+### 4)
+
+liniowe elementy infrastruktury technicznej, w tym linie elektroenergetyczne i telekomunikacyjne, powinny być, tam gdzie pozwalają na to warunki gruntowe, prowadzone pod ziemią, w miarę możliwości w liniach rozgraniczających dróg.
+
+Objaśnienia: 1) W przypadku układów mozaikowych powierzchnie zbiorowisk podano według dominującego typu zbiorowiska. 2) Kody siedlisk przyrodniczych, nazwy siedlisk przyrodniczych oraz gatunków zwierząt lub roślin podano zgodnie z rozporządzeniem Ministra Środowiska z dnia 13 kwietnia 2010 r. w sprawie siedlisk przyrodniczych oraz gatunków będących przedmiotem zainteresowania Wspólnoty, a także kryteriów wyboru obszarów kwalifikujących się do uznania lub wyznaczania jako obszary Natura 2000 (Dz. U. z 2014 r. poz. 1713). 3) Siedlisko przyrodnicze lub gatunek o znaczeniu priorytetowym. 4) Kody gatunków ptaków zostały zaczerpnięte z portalu Eionet http://cdr.eionet.europa.eu/help/natura2000, będącego oficjalnym partnerem Europejskiej Agencji Środowiska (EEA). 5) Ocenę stanu ochrony podano na pierwszej pozycji. Zastosowano następujące oznaczenia parametrów stanu ochrony: FV - właściwy, U1 - niezadowalający, U2 - zły, XX - nieznany. Parametry stanu ochrony zostały określone na podstawie rozporządzenia Ministra Środowiska z dnia 17 lutego 2010 r. w sprawie sporządzania projektu planu zadań ochronnych dla obszaru Natura 2000 (Dz. U. poz. 186, z 2012 r. poz. 506 oraz z 2017 r. poz. 2310). 6) Podział na oddziały oznaczone liczbą podano zgodnie z mapą przeglądową Parku Narodowego Gór Stołowych, w skali 1:15 000, według stanu na 01.01.2010 r. Podział na pododdziały oznaczone literą oraz obszary objęte ochroną czynną przyjęto zgodnie z mapą obszarów ochronnych Parku Narodowego Gór Stołowych, w skali 1:15 000, według stanu na 01.01.2010 r. 7) Współrzędne punktów załamania granicy obszaru Natura 2000 zostały opracowane w układzie współrzędnych płaskich prostokątnych PL-1992, który jest jednym z układów tworzących państwowy system odniesień przestrzennych, o którym mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762). 8) Parametry lub wskaźniki stanu ochrony, odrębne dla każdego siedliska lub gatunku, zostały oparte na podstawie wskaźników stanu zachowania zawartych w metodyce monitoringu przyrodniczego, o którym mowa w art. 112 ust. 2 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2023 r. poz. 1336, 1688 i 1890), i raportów, o których mowa w art. 38 tej ustawy. 9) Cel ochrony uwzględnia najnowsze z dostępnych oceny stanu zachowania dla poszczególnych wskaźników.

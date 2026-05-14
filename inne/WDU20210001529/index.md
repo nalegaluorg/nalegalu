@@ -8,11 +8,9 @@ pos: 1529
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Państwowej Inspekcji Pracy
-
-*USTAWA z dnia 8 lipca 2021 r.*
+# Ustawa z dnia 8 lipca 2021 r. o zmianie ustawy o Państwowej Inspekcji Pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2021-07-08 |
 | Data wydania | 2021-08-20 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1529/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2021/1529/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2021/1529) |
 
-**Art. 1.** W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2019 r. poz. 1251) po art. 52 dodaje się art. 52a w brzmieniu: „Art. 52a. Inspektorowi pracy zatrudnionemu w Państwowej Inspekcji Pracy na stanowisku określonym w art. 38 ust. 2 przez okres nie krótszy niż 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach pracy – w wymiarze 12 dni roboczych.”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+### Art. 1.
 
+W ustawie z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy ([Dz. U. z 2019 r. poz. 1251](https://api.sejm.gov.pl/eli/acts/DU/2019/1251/text.html)) po art. 52 dodaje się art. 52a w brzmieniu:
+
+„
+
+### Art. 52a.
+
+Inspektorowi pracy zatrudnionemu w Państwowej Inspekcji Pracy na stanowisku określonym w art. 38 ust. 2 przez okres nie krótszy niż 10 lat przysługuje dodatkowy urlop wypoczynkowy w wymiarze 6 dni roboczych, a po 20 latach pracy - w wymiarze 12 dni roboczych.
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2022 r.

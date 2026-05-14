@@ -8,11 +8,9 @@ pos: 1375
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o prokuraturze oraz niektórych innych ustaw
-
-*USTAWA z dnia 9 października 2009 r.*
+# Ustawa z dnia 9 października 2009 r. o zmianie ustawy o prokuraturze oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 25 czerwca 1997 r. o świadku koronnym, ustawę z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym, ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawę z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych, ustawę z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,305 +22,2076 @@ domain: null
 | Data ogłoszenia | 2009-10-09 |
 | Data wydania | 2009-10-27 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091781375) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1375/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/1375/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/1375) |
 
-**Art. 1.** W ustawie z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. Nr 7, poz. 39, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 10b.**
+### Art. 1.
 
-1. Prokurator Generalny nie może pozostawać w innym stosunku służbowym lub stosunku pracy, ani też zajmować innego stanowiska, z wyjątkiem stanowiska naukowo-dydaktycznego lub naukowego w szkole wyższej, w Polskiej Akademii Nauk, instytucie naukowo-badawczym lub innej placówce naukowej, ani wykonywać innych zajęć zarobkowych.
+W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2008 r. Nr 7, poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2008/39/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157 i Nr 56, poz. 459.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-2. Prokurator Generalny nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej niedającej się pogodzić z godnością jego urzędu.
+### 1)
 
-**Art. 10c.**
+w art. 1:
 
-1. Prokurator Generalny nie może być bez uprzedniej zgody sądu dyscyplinarnego pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prokurator Generalny nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku popełnienia przestępstwa, jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie zawiadamia się Prezydenta Rzeczypospolitej Polskiej, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+### a)
 
-2. Za nadużycie wolności słowa przy wykonywaniu obowiązków służbowych, stanowiące ściganą z oskarżenia prywatnego zniewagę, oraz za wykroczenie Prokurator Generalny odpowiada tylko dyscyplinarnie.
+ust. 2 otrzymuje brzmienie:
 
-3. Z wnioskiem do sądu dyscyplinarnego o zezwolenie na pociągnięcie Prokuratora Generalnego do odpowiedzialności karnej albo do odpowiedzialności dyscyplinarnej może wystąpić Krajowa Rada Prokuratury lub Minister Sprawiedliwości.
+„
 
-4. Przed sądem dyscyplinarnym, w toku postępowania, o którym mowa w ust. 2 i 3, czynności rzecznika dyscyplinarnego wykonuje członek składającej wniosek Krajowej Rady Prokuratury lub przedstawiciel Ministra Sprawiedliwości.
+### 2.
 
-**Art. 10d.**
+Prokurator Generalny jest naczelnym organem prokuratury.
 
-1. Kadencja Prokuratora Generalnego wygasa w razie jego śmierci lub odwołania.
+” ,
 
-2. Prezydent Rzeczypospolitej Polskiej odwołuje Prokuratora Generalnego przed upływem kadencji, jeżeli:
+### b)
 
-- **1)** zrzekł się stanowiska;
-- **2)** stał się trwale niezdolny do pełnienia obowiązków Prokuratora Generalnego na skutek choroby lub utraty sił, stwierdzonej orzeczeniem lekarskim;
-- **3)** został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa lub przestępstwa skarbowego albo złożył niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
-- **4)** został prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 67 ust. 1 pkt 2-5.
+dodaje się ust. 3 w brzmieniu:
 
-3. W przypadku wskazanym w ust. 2 pkt 2, odwołanie następuje na wniosek Prezesa Rady Ministrów lub Krajowej Rady Prokuratury.
+„
 
-4. Przed złożeniem wniosku, o którym mowa w ust. 3, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.
+### 3.
 
-5. W przypadku odwołania Prokuratora Generalnego przed upływem kadencji, a także w razie jego śmierci, obowiązki jego pełni pierwszy zastępca Prokuratora Generalnego, do czasu objęcia stanowiska przez nowo powołanego Prokuratora Generalnego.
+Prokuratura jest organem ochrony prawnej.
 
-**Art. 10e.**
+” ;
 
-1. Prokurator Generalny przedstawia Prezesowi Rady Ministrów, nie później niż do końca pierwszego kwartału roku następnego, sprawozdanie z rocznej działalności prokuratury.
+### 2)
 
-2. Minister Sprawiedliwości przedstawia na piśmie swoje stanowisko do sprawozdania Prokuratora Generalnego.
+w art. 3 w ust. 1 pkt 5 i 5a otrzymują brzmienie:
 
-3. Prezes Rady Ministrów może w każdym czasie, niezależnie od sprawozdania rocznego, zażądać od Prokuratora Generalnego przedstawienia informacji na określony temat związany ze strzeżeniem praworządności oraz czuwaniem nad ściganiem przestępstw. Żądanie to nie może dotyczyć przedstawienia informacji o biegu postępowania w konkretnej sprawie. Przepis ust. 2 stosuje się odpowiednio.
+„
 
-4. Prezes Rady Ministrów może zażądać od Prokuratora Generalnego uzupełnienia przedstawionej informacji w terminie trzech miesięcy.
+### 5)
 
-5. Prezes Rady Ministrów przyjmuje albo odrzuca sprawozdanie, o którym mowa w ust. 1, mając na względzie realizację zadań przez Prokuratora Generalnego w zakresie strzeżenia praworządności oraz czuwania nad ściganiem przestępstw.
+współpracę z jednostkami naukowymi w zakresie prowadzenia badań dotyczących problematyki przestępczości, jej zwalczania i zapobiegania oraz kontroli;
 
-6. W przypadku odrzucenia sprawozdania Prokuratora Generalnego, Prezes Rady Ministrów może wystąpić do z wnioskiem o odwołanie Prokuratora Generalnego przed upływem kadencji. Sejm odwołuje Prokuratora Generalnego uchwałą podjętą większością dwóch trzecich głosów, w obecności co najmniej połowy ustawowej liczby posłów.
+### 5a)
 
-7. Przed złożeniem wniosku, o którym mowa w ust. 6, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.
+gromadzenie, przetwarzanie i analizowanie w systemach informatycznych danych, w tym danych osobowych, pochodzących z prowadzonych lub nadzorowanych na podstawie ustawy postępowań oraz z udziału w postępowaniu sądowym, administracyjnym, w sprawach o wykroczenia lub innych postępowaniach prowadzonych na podstawie ustawy, przekazywanie danych i wyników analiz właściwym organom, w tym organom innych państw, organizacjom międzynarodowym, w tym ponadnarodowym, oraz organom Unii Europejskiej, jeżeli przewiduje to ustawa lub umowa międzynarodowa ratyfikowana przez Rzeczpospolitą Polską lub jeżeli przekazywanie danych i wyników analiz tym organom i organizacjom wynika z odrębnych przepisów; administratorem tych danych, w rozumieniu przepisów ustawy o ochronie danych osobowych, gromadzonych i przetwarzanych w ogólnokrajowych systemach informatycznych prokuratury jest Prokurator Generalny;
 
-**Art. 10f.**
+” ;
 
-1. W przypadku gdy Prokurator Generalny sprzeniewierzył się złożonemu ślubowaniu, Prezes Rady Ministrów może wystąpić do z wnioskiem o odwołanie Prokuratora Generalnego przed upływem kadencji. Sejm odwołuje Prokuratora Generalnego uchwałą podjętą większością dwóch trzecich głosów, w obecności co najmniej połowy ustawowej liczby posłów.
+### 3)
 
-2. Przed złożeniem wniosku, o którym mowa w ust. 1, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.”;
+w art. 6 ust. 1 otrzymuje brzmienie:
 
-- **8)** w art. 11:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Prokuratorów powszechnych jednostek organizacyjnych prokuratury oraz prokuratorów wojskowych jednostek organizacyjnych prokuratury powołuje Prokurator Generalny na wniosek Krajowej Rady Prokuratury.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Prokurator Generalny zasięga od Komendanta Głównego Policji informacji o kandydatach do objęcia stanowiska prokuratorskiego zgłoszonych przez Krajową Radę Prokuratury, z zastrzeżeniem ust. 4. Informacje o kandydacie do objęcia stanowiska prokuratorskiego uzyskuje się i sporządza na zasadach określonych dla informacji o kandydacie do objęcia stanowiska sędziowskiego.”;
+„
 
-- **9)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Pierwszego zastępcę Prokuratora Generalnego oraz pozostałych zastępców Prokuratora Generalnego powołuje, spośród prokuratorów Prokuratury Generalnej, i odwołuje z tych stanowisk Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego.
+### 1.
 
-2. Zastępcą Prokuratora Generalnego jest Naczelny Prokurator Wojskowy, którego powołuje, spośród prokuratorów Naczelnej Prokuratury Wojskowej, i odwołuje z tego stanowiska Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego zgłoszony w porozumieniu z Ministrem Obrony Narodowej. Naczelny Prokurator Wojskowy kieruje w zastępstwie Prokuratora Generalnego działalnością wojskowych jednostek organizacyjnych prokuratury.
+Prokuratorami powszechnych jednostek organizacyjnych prokuratury są prokuratorzy Prokuratury Generalnej, prokuratur apelacyjnych, prokuratur okręgowych i rejonowych.
 
-3. Zastępcą Prokuratora Generalnego jest Dyrektor Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którego powołuje, spośród prokuratorów Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, i odwołuje z tego stanowiska Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego zgłoszony w porozumieniu z Prezesem Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. Dyrektor Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu kieruje Główną Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+” ;
 
-4. Liczbę pozostałych zastępców Prokuratora Generalnego określa Minister Sprawiedliwości, na wniosek Prokuratora Generalnego, w rozporządzeniu, o którym mowa w art. 18 ust. 1, mając na uwadze konieczność zapewnienia właściwej realizacji zadań Prokuratora Generalnego.”;
+### 4)
 
-- **10)** art. 13 otrzymuje brzmienie: „Art. 13. 1. Prokuratora apelacyjnego powołuje Prokurator Generalny spośród prokuratorów, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+w art. 8:
 
-2. Kandydata na prokuratora apelacyjnego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+### a)
 
-3. W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora apelacyjnego.
+ust. 1-3 otrzymują brzmienie:
 
-4. Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora apelacyjnego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+„
 
-5. W przypadku niepowołania do pełnienia funkcji prokuratora apelacyjnego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora apelacyjnego. Przepisy ust. 3 i 4 stosuje się.
+### 1.
 
-6. Zastępcę prokuratora apelacyjnego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora apelacyjnego, po zasięgnięciu opinii kolegium tej prokuratury.
+Prokurator przy wykonywaniu czynności określonych w ustawach jest niezależny, z zastrzeżeniem przepisów ust. 2 oraz art. 8a i 8b.
 
-7. Prokurator apelacyjny i zastępca prokuratora apelacyjnego są powoływani na sześcioletnią kadencję i nie mogą być ponownie powołani na bezpośrednio następującą kolejną kadencję do pełnienia tych samych funkcji.”;
+### 2.
 
-- **11)** po art. 13 dodaje się art. 13a-13d w brzmieniu: „Art. 13a. 1. Prokuratora okręgowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek właściwego prokuratora apelacyjnego, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+Prokurator jest obowiązany wykonywać zarządzenia, wytyczne i polecenia przełożonego prokuratora. Zarządzenia, wytyczne i polecenia nie mogą dotyczyć treści czynności procesowej.
 
-2. Kandydata na prokuratora okręgowego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+### 3.
 
-3. W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora okręgowego.
+Zarządzenia i wytyczne dotyczące konkretnie oznaczonej sprawy oraz polecenia są włączane do akt sprawy.
 
-4. Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora okręgowego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+” ,
 
-5. W przypadku niepowołania do pełnienia funkcji prokuratora okręgowego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora okręgowego. Przepisy ust. 3 i 4 stosuje się.
+### b)
 
-6. Zastępcę prokuratora okręgowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora okręgowego, po zasięgnięciu opinii właściwego prokuratora apelacyjnego oraz kolegium prokuratury apelacyjnej.
+uchyla się ust. 4 i 5;
 
-7. Prokurator okręgowy i zastępca prokuratora okręgowego są powoływani na sześcioletnią kadencję i nie mogą być ponownie powołani na bezpośrednio następującą kolejną kadencję do pełnienia tych samych funkcji.
+### 5)
 
-**Art. 13b.**
+w art. 8a ust. 1 otrzymuje brzmienie:
 
-1. Prokuratora rejonowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek właściwego prokuratora apelacyjnego, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+„
 
-2. Kandydata na prokuratora rejonowego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+### 1.
 
-3. W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora rejonowego.
+Prokurator bezpośrednio przełożony uprawniony jest do zmiany lub uchylenia decyzji prokuratora podległego. Zmiana lub uchylenie decyzji wymaga formy pisemnej i jest włączana do akt sprawy.
 
-4. Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora rejonowego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+” ;
 
-5. W przypadku niepowołania do pełnienia funkcji prokuratora rejonowego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora rejonowego. Przepisy ust. 3 i 4 stosuje się.
+### 6)
 
-6. Zastępcę prokuratora rejonowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora rejonowego, po zasięgnięciu opinii właściwego prokuratora okręgowego oraz kolegium prokuratury okręgowej.
+w art. 10:
 
-7. Kadencja prokuratora rejonowego i zastępcy prokuratora rejonowego trwa cztery lata.
+### a)
 
-**Art. 13c.**
+ust. 2a otrzymuje brzmienie:
 
-1. Prokurator Generalny może odwołać prokuratora apelacyjnego lub zastępcę prokuratora apelacyjnego przed upływem kadencji, jeżeli:
+„
 
-- **1)** zrzekł się pełnienia funkcji;
-- **2)** stał się trwale niezdolny do pełnienia funkcji na skutek choroby lub utraty sił, stwierdzonej orzeczeniem lekarskim;
-- **3)** został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa lub przestępstwa skarbowego albo złożył niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
-- **4)** w sposób nienależyty wypełnia obowiązki służbowe.
+### 2a.
 
-2. Prokurator Generalny, z urzędu lub na wniosek właściwego prokuratora apelacyjnego, może odwołać prokuratora okręgowego, prokuratora rejonowego lub ich zastępców, z przyczyn określonych w ust. 1, przed upływem kadencji.
+Prokurator Generalny, a na obszarze swego działania również prokurator apelacyjny, okręgowy i wojskowy prokurator okręgowy, może zarządzić wizytację jednostki organizacyjnej prokuratury w celu kontroli realizacji ustawowych zadań przez tę jednostkę w określonym zakresie.
 
-3. Odwołanie prokuratora apelacyjnego, prokuratora okręgowego i prokuratora rejonowego oraz ich zastępców, w przypadku, o którym mowa w ust. 1 pkt 4, następuje po podjęciu przez Krajową Radę Prokuratury uchwały zezwalającej na odwołanie.
+” ,
 
-**Art. 13d.**
+### b)
 
-1. Do pełnienia pozostałych funkcji w prokuraturze, z zastrzeżeniem ust. 2-4 oraz art. 111, powołuje spośród prokuratorów i odwołuje z pełnienia tych funkcji Prokurator Generalny.
+dotychczasową treść ust. 2a oznacza się jako ust. 2b;
 
-2. Prokurator Generalny może, w drodze zarządzenia, określić funkcje w prokuraturach apelacyjnych, okręgowych i rejonowych, do pełnienia których powołuje prokuratorów i odwołuje z ich pełnienia prokurator apelacyjny.
+### 7)
 
-3. Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej powołuje, spośród prokuratorów wojskowych jednostek organizacyjnych prokuratury, zastępcę Naczelnego Prokuratora Wojskowego, wojskowego prokuratora okręgowego i wojskowego prokuratora garnizonowego oraz ich zastępców, a także pełniących pozostałe funkcje w wojskowych jednostkach organizacyjnych prokuratury, oraz odwołuje ich z pełnienia tych funkcji.
+po art. 10 dodaje się art. 10a-10f w brzmieniu:
 
-4. Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej może, w drodze zarządzenia, określić funkcje w wojskowych prokuraturach okręgowych i wojskowych prokuraturach garnizonowych, do pełnienia których powołuje prokuratorów i odwołuje z pełnienia tych funkcji Naczelny Prokurator Wojskowy.”;
+„
 
-- **12)** art. 14a otrzymuje brzmienie: „Art. 14a. 1. Na stanowisko prokuratora Prokuratury Generalnej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej dziesięcioletni staż na stanowisku prokuratora lub sędziego, w tym nie mniej niż sześcioletni okres pracy na stanowisku prokuratora Prokuratury Krajowej, prokuratury apelacyjnej lub okręgowej, Naczelnej Prokuratury Wojskowej, prokuratora wojskowej prokuratury okręgowej lub prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu apelacyjnego lub okręgowego bądź wojskowego sądu okręgowego albo co najmniej przez okres dwunastu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+### Art. 10a.
 
-2. Na stanowisko prokuratora prokuratury apelacyjnej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej sześcioletni okres pracy na stanowisku prokuratora lub sędziego, w tym co najmniej trzyletni okres pracy na stanowisku prokuratora prokuratury okręgowej, prokuratora wojskowej prokuratury okręgowej lub prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu okręgowego lub wojskowego sądu okręgowego albo co najmniej przez okres ośmiu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+### 1.
 
-3. Na stanowisko prokuratora prokuratury okręgowej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej czteroletni okres pracy na stanowisku prokuratora prokuratury rejonowej, prokuratora wojskowej prokuratury garnizonowej, prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu powszechnego lub wojskowego albo co najmniej przez okres sześciu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+Prokuratora Generalnego powołuje Prezydent Rzeczypospolitej Polskiej nie później niż w ciągu trzech miesięcy przed upływem kadencji Prokuratora Generalnego albo w ciągu trzech miesięcy od jej wygaśnięcia spośród kandydatów zgłoszonych przez Krajową Radę Sądownictwa i Krajową Radę Prokuratury.
 
-4. Wymagany staż, o którym mowa w ust. 1-3, nie dotyczy osób wskazanych w art. 14 ust. 3 pkt 1.”;
+### 2.
 
-- **13)** po art. 14a dodaje się art. 14b w brzmieniu:
+Krajowa Rada Sądownictwa i Krajowa Rada Prokuratury zgłaszają po jednym kandydacie na Prokuratora Generalnego, nie później niż na cztery miesiące przed upływem kadencji Prokuratora Generalnego albo w ciągu dwóch miesięcy od jej wygaśnięcia.
 
-**Art. 14b¹.** W razie utworzenia stanowiska prokuratora lub zwolnienia się tego stanowiska Prokurator Generalny niezwłocznie obwieszcza o wolnym stanowisku prokuratorskim w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, chyba że obsadzenie tego stanowiska następuje w drodze przeniesienia służbowego prokuratora równorzędnej prokuratury. 2. Każdy, kto spełnia warunki do objęcia stanowiska prokuratora może zgłosić swoją kandydaturę na jedno wolne stanowisko prokuratorskie w ciągu miesiąca od obwieszczenia, o którym mowa w ust. 1. 3. Kandydaturę zgłasza się prokuratorowi okręgowemu – gdy zgłoszenie dotyczy stanowiska prokuratora prokuratury rejonowej, prokuratorowi apelacyjnemu – gdy zgłoszenie dotyczy stanowiska prokuratora prokuratury okręgowej albo prokuratora prokuratury apelacyjnej, Prokuratorowi Generalnemu – gdy zgłoszenie dotyczy stanowiska prokuratora Prokuratury Generalnej, Ministrowi Obrony Narodowej – gdy zgłoszenie dotyczy stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury oraz Prezesowi Instytutu Pamięci Narodowej – gdy zgłoszenie dotyczy stanowiska prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. 4. Jeżeli swoją kandydaturę zgłosiła osoba, która nie spełnia warunków do objęcia stanowiska prokuratora, o których mowa w art. 14 ust. 1 pkt 3-7, albo art. 14 ust. 2, albo zgłoszenie nastąpiło po upływie terminu, o którym mowa w ust. 2, lub nie spełnia wymogów formalnych określonych w art. 11 ust. 2 i 2a, właściwy prokurator, Minister Obrony Narodowej albo Prezes Instytutu Pamięci Narodowej zawiadamia zgłaszającego o pozostawieniu zgłoszenia bez rozpatrzenia, podając przyczynę. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia, może , w terminie 7 dni złożyć pisemne zastrzeżenie. Jeżeli właściwy prokurator, Minister Obrony Narodowej albo Prezes Instytutu Pamięci Narodowej nie uwzględni zastrzeżenia, niezwłocznie przekazuje je wraz ze zgłoszeniem Krajowej Radzie Prokuratury. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Prokuratury. 5. Prokurator okręgowy, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora prokuratury rejonowej przedstawia jego kandydaturę kolegium prokuratury okręgowej, wraz z oceną kwalifikacji sporządzoną przez wyznaczonego prokuratora prokuratury okręgowej. 6. Prokurator apelacyjny, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora prokuratury okręgowej albo prokuratora prokuratury apelacyjnej przedstawia jego kandydaturę kolegium prokuratury apelacyjnej, wraz z oceną kwalifikacji sporządzoną przez wyznaczonego prokuratora prokuratury apelacyjnej. 7. Prokurator Generalny, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora Prokuratury Generalnej zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Prokuratury Generalnej. 8. Minister Obrony Narodowej, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Naczelnej Prokuratury Wojskowej. 9. Prezes Instytutu Pamięci Narodowej, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Instytutu Pamięci Narodowej. 10. Prokurator okręgowy oraz prokurator apelacyjny przedstawiają Krajowej Radzie Prokuratury zgłoszenia kandydatów na stanowiska odpowiednio prokuratorów prokuratury rejonowej albo prokuratury okręgowej lub apelacyjnej wraz z opiniami odpowiednio kolegium prokuratury okręgowej albo kolegium prokuratury apelacyjnej wraz z ocenami sporządzonymi przez wyznaczonych prokuratorów. 11. Prokurator Generalny, Minister Obrony Narodowej i Prezes Instytutu Pamięci Narodowej przedstawiają Krajowej Radzie Prokuratury zgłoszenia kandydatów na stanowiska odpowiednio prokuratorów Prokuratury Generalnej, prokuratora wojskowej jednostki organizacyjnej prokuratury albo prokuratora Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu wraz z własnymi opiniami oraz z ocenami kwalifikacji sporządzonymi przez wyznaczonych prokuratorów.”;
+### 3.
 
-**Art. 22a.**
+Na stanowisko Prokuratora Generalnego może być powołana osoba będąca prokuratorem w stanie czynnym powszechnej lub wojskowej jednostki organizacyjnej prokuratury, Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, o co najmniej dziesięcioletnim stażu na stanowisku prokuratora, sędzią Izby Karnej lub Izby Wojskowej Sądu Najwyższego w stanie czynnym, sędzią sądu powszechnego lub sędzią sądu wojskowego w stanie czynnym, o co najmniej dziesięcioletnim stażu sędziowskim w sprawach karnych.
 
-1. Kolegium prokuratury okręgowej składa się z sześciu członków, z których czterech jest wybieranych przez zebranie prokuratorów prokuratury okręgowej i delegatów prokuratur rejonowych oraz z prokuratora okręgowego i powołanego przez niego prokuratora. Przewodniczącym kolegium prokuratury okręgowej jest prokurator okręgowy.
+### 4.
 
-2. Kadencja kolegium prokuratury okręgowej trwa dwa lata.
+Przed przystąpieniem do wykonywania obowiązków Prokurator Generalny składa przed Prezydentem Rzeczypospolitej Polskiej ślubowanie następującej treści: „Obejmując stanowisko Prokuratora Generalnego, uroczyście ślubuję stać na straży Konstytucji Rzeczypospolitej Polskiej i prawa, strzec praworządności, a powierzone mi obowiązki wypełniać sumiennie.”. Ślubowanie może być złożone z dodaniem zwrotu: „Tak mi dopomóż Bóg.”.
 
-3. Posiedzenia kolegium prokuratury okręgowej zwołuje prokurator okręgowy z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium.
+### 5.
 
-**Art. 22b.** Kolegium prokuratury okręgowej:
+Kadencja Prokuratora Generalnego trwa sześć lat, licząc od dnia złożenia ślubowania. Po upływie kadencji Prokurator Generalny pełni obowiązki do czasu objęcia stanowiska przez nowo powołanego Prokuratora Generalnego.
 
-**Art. 23.**
+### 6.
 
-1. Krajowa Rada Prokuratury składa się z dwudziestu pięciu członków. W jej skład wchodzą: Minister Sprawiedliwości, Prokurator Generalny, przedstawiciel Prezydenta Rzeczypospolitej Polskiej, czterech posłów, dwóch senatorów, prokurator wybrany przez zebranie prokuratorów Naczelnej Prokuratury Wojskowej, prokurator wybrany przez zebranie prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, trzech prokuratorów wybranych przez zebranie prokuratorów Prokuratury Generalnej oraz jedenastu prokuratorów, wybranych przez zgromadzenia prokuratorów w prokuraturach apelacyjnych.
+Prokurator Generalny, po zakończeniu kadencji, nie może być ponownie powołany na to stanowisko.
 
-2. Kadencja Krajowej Rady Prokuratury trwa 4 lata.
+### 7.
 
-3. Krajowa Rada Prokuratury działa na podstawie uchwalonego przez siebie regulaminu.
+Po zakończeniu kadencji Prokurator Generalny może przejść w stan spoczynku niezależnie od osiągniętego wieku.
 
-4. Osoba powołana przez Prezydenta Rzeczypospolitej Polskiej pełni swoją funkcję w Krajowej Radzie Prokuratury bez oznaczania okresu kadencji i może być odwołana w każdym czasie.
+### 8.
 
-5. Sejm Rzeczypospolitej Polskiej wybiera spośród posłów czterech członków Krajowej Rady Prokuratury na okres swojej kadencji. Senat Rzeczypospolitej Polskiej wybiera spośród senatorów dwóch członków Krajowej Rady Prokuratury na okres swojej kadencji.
+Osiągnięcie przez Prokuratora Generalnego wieku uprawniającego do przejścia w stan spoczynku nie ma wpływu na zakończenie kadencji.
 
-6. Prokurator może pełnić funkcję wybieranego członka Krajowej Rady Prokuratury tylko dwie kadencje.”;
+### Art. 10b.
 
-- **21)** po art. 23 dodaje się art. 23a w brzmieniu: „Art. 23a. 1. Mandat wybieranego członka Krajowej Rady Prokuratury wygasa przed upływem kadencji w razie:
-- **1)** śmierci;
-- **2)** zrzeczenia się mandatu;
-- **3)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzonego prawomocnym orzeczeniem sądu;
-- **4)** odwołania przez organ, który dokonał wyboru;
-- **5)** wygaśnięcia mandatu posła albo senatora;
-- **6)** wygaśnięcia albo rozwiązania stosunku służbowego prokuratora;
-- **7)** przeniesienia prokuratora w stan spoczynku.
+### 1.
 
-2. Mandat członków Krajowej Rady Prokuratury będących posłami albo senatorami, w razie upływu kadencji i Senatu, wygasa wraz z wyborem członków Krajowej Rady Prokuratury wybranych przez Sejm i Senat następnej kadencji.
+Prokurator Generalny nie może pozostawać w innym stosunku służbowym lub stosunku pracy, ani też zajmować innego stanowiska, z wyjątkiem stanowiska naukowo-dydaktycznego lub naukowego w szkole wyższej, w Polskiej Akademii Nauk, instytucie naukowo-badawczym lub innej placówce naukowej, ani wykonywać innych zajęć zarobkowych.
 
-3. Zrzeczenie się mandatu w Krajowej Radzie Prokuratury jest skuteczne z chwilą powiadomienia o tym na piśmie Przewodniczącego Krajowej Rady Prokuratury.”;
+### 2.
 
-- **22)** art. 24 otrzymuje brzmienie: „Art. 24. Krajowa Rada Prokuratury w szczególności:
-- **1)** stoi na straży niezależności prokuratorów;
-- **2)** opiniuje projekty aktów normatywnych dotyczących prokuratury;
-- **3)** wysłuchuje informacji Prokuratora Generalnego o działalności prokuratury i wyraża opinie w tym zakresie;
-- **4)** wybiera kandydata na stanowisko Prokuratora Generalnego;
-- **5)** występuje z wnioskiem do Prezydenta Rzeczypospolitej Polskiej o odwołanie ze stanowiska Prokuratora Generalnego w wypadku wskazanym w art. 10d ust. 2 pkt 2;
-- **6)** wyraża opinię w przedmiocie wniosku Prezesa Rady Ministrów o odwołanie Prokuratora Generalnego przed upływem kadencji w wypadkach wskazanych w art. 10d ust. 2 pkt 2, w art. 10e ust. 6 oraz w art. 10f ust. 1;
-- **7)** występuje do sądu dyscyplinarnego o pociągnięcie Prokuratora Generalnego do odpowiedzialności dyscyplinarnej oraz wyznacza przedstawiciela do występowania przed sądem dyscyplinarnym;
-- **8)** rozpatruje coroczne sprawozdania z działalności Rzecznika Dyscyplinarnego Prokuratora Generalnego;
-- **9)** rozpatruje i ocenia kandydatury do pełnienia stanowisk prokuratorskich oraz przedstawia Prokuratorowi Generalnemu wnioski o powołanie prokuratorów powszechnych jednostek organizacyjnych prokuratury, prokuratorów wojskowych jednostek organizacyjnych prokuratury oraz prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
-- **10)** zajmuje stanowisko w sprawie wyrażenia zgody na odwołanie w trakcie trwania kadencji z pełnienia funkcji prokuratora apelacyjnego, prokuratora okręgowego i prokuratora rejonowego oraz ich zastępców z powodów określonych w art. 13c ust. 1 pkt 4;
-- **11)** opiniuje wnioski o wyrażenie zgody na dalsze zajmowanie stanowiska prokuratora po ukończeniu przez prokuratora 65 roku życia;
-- **12)** opiniuje wystąpienia prokuratorów w stanie spoczynku o powrót na stanowisko prokuratorskie;
-- **13)** opiniuje zasady oceny pracy asesorów prokuratorskich;
-- **14)** wyraża stanowisko w sprawach dotyczących prokuratur i prokuratorów, wniesionych pod obrady Krajowej Rady Prokuratury przez Prezydenta Rzeczypospolitej Polskiej oraz inne organy władzy publicznej i organy kolegialne prokuratury;
-- **15)** uchwala zbiór zasad etyki zawodowej prokuratorów i czuwa nad ich przestrzeganiem;
-- **16)** opiniuje projekty wytycznych i zarządzeń Prokuratora Generalnego;
-- **17)** wypowiada się o stanie i rozwoju kadry prokuratorskiej oraz kierunkach szkolenia prokuratorów, asesorów i aplikantów;
-- **18)** wyraża stanowisko co do okresowych ocen realizacji zadań prokuratury;
-- **19)** wypowiada się co do kierunków działań podejmowanych w celu doskonalenia kwalifikacji zawodowych prokuratorów oraz poziomu ich pracy;
-- **20)** opiniuje kandydata na Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury;
-- **21)** wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury;
-- **22)** ustala ogólną liczbę członków sądów dyscyplinarnych oraz wskazuje liczbę członków sądów dyscyplinarnych wybieranych przez zebranie prokuratorów Prokuratury Generalnej i zgromadzenia prokuratorów w prokuraturach apelacyjnych.”;
-- **23)** po art. 24 dodaje się art. 24a i 24b w brzmieniu: „Art. 24a. 1. Krajowa Rada Prokuratury powołuje i odwołuje ze swego grona Przewodniczącego, dwóch wiceprzewodniczących i sekretarza. Przewodniczący i wiceprzewodniczący Krajowej Rady Prokuratury nie mogą pełnić swoich funkcji dłużej niż przez dwie kadencje.
+Prokurator Generalny nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej niedającej się pogodzić z godnością jego urzędu.
 
-2. Krajowa Rada Prokuratury obraduje na posiedzeniach. Posiedzenia Krajowej Rady Prokuratury zwołuje Przewodniczący Krajowej Rady Prokuratury z własnej inicjatywy co najmniej raz na dwa miesiące lub na wniosek jednej trzeciej jej członków albo na wniosek Prokuratora Generalnego.
+### Art. 10c.
 
-**Art. 24b.** Obsługę finansowo-administracyjną i kancelaryjną Krajowej Rady Prokuratury zapewnia Prokuratura Generalna.”;
+### 1.
 
-**Art. 54a.** Za wykroczenie prokurator odpowiada tylko dyscyplinarnie.”;
+Prokurator Generalny nie może być bez uprzedniej zgody sądu dyscyplinarnego pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prokurator Generalny nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku popełnienia przestępstwa, jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie zawiadamia się Prezydenta Rzeczypospolitej Polskiej, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
-**Art. 101b.**
+### 2.
 
-1. Dochody i wydatki powszechnych jednostek organizacyjnych prokuratury stanowią w budżecie państwa odrębną część, z zastrzeżeniem ust. 2.
+Za nadużycie wolności słowa przy wykonywaniu obowiązków służbowych, stanowiące ściganą z oskarżenia prywatnego zniewagę, oraz za wykroczenie Prokurator Generalny odpowiada tylko dyscyplinarnie.
 
-2. Wydatki na szkolenie i doskonalenie zawodowe kadr powszechnych jednostek organizacyjnych prokuratury realizowane przez Krajową Szkołę Sądownictwa i Prokuratury pokrywane są z budżetu państwa z części, której dysponentem jest Minister Sprawiedliwości.
+### 3.
 
-**Art. 101c.** Dysponentem części budżetowej odpowiadającej prokuraturze jest Prokurator Generalny, z zastrzeżeniem art. 108 ust. 1a niniejszej ustawy oraz art. 121 ust. 2 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych (Dz. U. Nr 249, poz. 2104, z późn. zm. ).”;
+Z wnioskiem do sądu dyscyplinarnego o zezwolenie na pociągnięcie Prokuratora Generalnego do odpowiedzialności karnej albo do odpowiedzialności dyscyplinarnej może wystąpić Krajowa Rada Prokuratury lub Minister Sprawiedliwości.
 
-**Art. 2.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2003 r. Nr 221, poz. 2199, z późn. zm. ) w art. 7b ust. 1 otrzymuje brzmienie: „1. Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.”.
+### 4.
 
-**Art. 3.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. Nr 89, poz. 555, z późn. zm. ) w art. 45 uchyla się § 1c.
+Przed sądem dyscyplinarnym, w toku postępowania, o którym mowa w ust. 2 i 3, czynności rzecznika dyscyplinarnego wykonuje członek składającej wniosek Krajowej Rady Prokuratury lub przedstawiciel Ministra Sprawiedliwości.
 
-**Art. 4.** W ustawie z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2007 r. Nr 36, poz. 232) wprowadza się następujące zmiany:
+### Art. 10d.
 
-**Art. 5.** W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z późn. zm. ) wprowadza się następujące zmiany:
+### 1.
 
-**Art. 6.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. Nr 216, poz. 1584 oraz z 2008 r. Nr 223, poz. 1428) w art. 8:
+Kadencja Prokuratora Generalnego wygasa w razie jego śmierci lub odwołania.
 
-**Art. 7.** W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury (Dz. U. Nr 162, poz. 1125, z późn. zm. ) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 8.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2007 r. Nr 63, poz. 424, z późn. zm. ) wprowadza się następujące zmiany:
+Prezydent Rzeczypospolitej Polskiej odwołuje Prokuratora Generalnego przed upływem kadencji, jeżeli:
 
-**Art. 9.** W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z 2005 r. Nr 196, poz. 1631, z późn. zm. ) w art. 53 w ust. 2 po wyrazach „Minister Sprawiedliwości,” dodaje się wyrazy „Prokurator Generalny, Pierwszy Prezes Sądu Najwyższego,”.
+### 1)
 
-**Art. 10.** W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) w art. 64 § 1a otrzymuje brzmienie: „§ 1a. Na stanowisko sędziego sądu apelacyjnego może być powołany również prokurator, który posiada co najmniej sześcioletni okres pracy na stanowisku prokuratora lub sędziego, w tym co najmniej trzyletni okres pracy na stanowisku prokuratora prokuratury okręgowej, prokuratora wojskowej prokuratury okręgowej, sędziego sądu okręgowego, sędziego wojskowego sądu okręgowego lub prokuratora prokuratury apelacyjnej, Prokuratury Krajowej, Prokuratury Generalnej, Naczelnej Prokuratury Wojskowej lub prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”.
+zrzekł się stanowiska;
 
-**Art. 11.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, Nr 214, poz. 1344 i Nr 237, poz. 1651) w art. 110 § 1 otrzymuje brzmienie: „§ 1. Kasację w sprawach o wykroczenia może wnieść wyłącznie Prokurator Generalny lub Rzecznik Praw Obywatelskich, a w sprawach podlegających orzecznictwu sądów wojskowych także Naczelny Prokurator Wojskowy. Kasację można wnieść od każdego prawomocnego orzeczenia kończącego postępowanie sądowe.”.
+### 2)
 
-**Art. 12.** W ustawie z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. Nr 153, poz. 1270, z późn. zm. ) art. 265 otrzymuje brzmienie: „Art. 265. W posiedzeniu całego składu Naczelnego Sądu Administracyjnego lub w posiedzeniu Izby udział Prokuratora Generalnego lub jego zastępcy jest obowiązkowy. W posiedzeniu składu siedmiu sędziów bierze udział prokurator Prokuratury Generalnej.”.
+stał się trwale niezdolny do pełnienia obowiązków Prokuratora Generalnego na skutek choroby lub utraty sił, stwierdzonej orzeczeniem lekarskim;
 
-**Art. 13.** W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym (Dz. U. Nr 240, poz. 2052, z późn. zm. ) w art. 61 § 3 otrzymuje brzmienie: „§ 3. O posiedzeniu pełnego składu Sądu Najwyższego, składu izby (izb) zawiadamia się Prokuratora Generalnego. Udział Prokuratora Generalnego lub jego zastępcy w tym posiedzeniu jest obowiązkowy. W posiedzeniach pozostałych składów Sądu Najwyższego może brać udział prokurator Prokuratury Generalnej, natomiast w Izbie Wojskowej – prokurator Naczelnej Prokuratury Wojskowej.”.
+### 3)
 
-**Art. 14.** W ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424, z późn. zm. ) w art. 16 w ust. 1 pkt 1 otrzymuje brzmienie: „1) Prokurator Generalny – w związku z toczącym się przeciwko osobie fizycznej postępowaniem karnym lub karnym skarbowym albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji albo w związku z toczącym się postępowaniem karnym lub postępowaniem w sprawie o przestępstwo skarbowe, dotyczącym czynu popełnionego w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;”.
+został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa lub przestępstwa skarbowego albo złożył niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
 
-**Art. 15.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm. ) w art. 22 w ust. 1 pkt 15 otrzymuje brzmienie: „15) Prokuratora Generalnego oraz prokuratorów Prokuratury Generalnej, Naczelnego Prokuratora Wojskowego oraz prokuratorów Naczelnej Prokuratury Wojskowej, prokuratora apelacyjnego oraz wojskowego prokuratora okręgowego, a także prokuratorów Instytutu Pamięci Narodowej;”.
+### 4)
 
-**Art. 16.** W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury (Dz. U. Nr 26, poz. 157 i Nr 56, poz. 459) wprowadza się następujące zmiany:
+został prawomocnie ukarany karą dyscyplinarną, o której mowa w art. 67 ust. 1 pkt 2-5.
 
-**Art. 17.**
+### 3.
 
-1. Znosi się Prokuraturę Krajową.
+W przypadku wskazanym w ust. 2 pkt 2, odwołanie następuje na wniosek Prezesa Rady Ministrów lub Krajowej Rady Prokuratury.
 
-2. Tworzy się Prokuraturę Generalną.
+### 4.
 
-**Art. 18.**
+Przed złożeniem wniosku, o którym mowa w ust. 3, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.
 
-1. Pierwszego powołania Prokuratora Generalnego Prezydent Rzeczypospolitej Polskiej dokonuje spośród dwóch kandydatów zgłoszonych przez Krajową Radę Sądownictwa w terminie 2 miesięcy od daty ich zgłoszenia, po zasięgnięciu opinii Rady Prokuratorów przy Prokuratorze Generalnym. Krajowa Rada Sądownictwa dokona zgłoszenia kandydatów w terminie 2 miesięcy od dnia wejścia w życie niniejszego artykułu, spośród osób wymienionych w art. 10a ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+### 5.
 
-2. Do czasu powołania Prokuratora Generalnego i zastępców Prokuratora Generalnego, ich zadania wykonują dotychczasowy Prokurator Generalny i jego zastępcy.
+W przypadku odwołania Prokuratora Generalnego przed upływem kadencji, a także w razie jego śmierci, obowiązki jego pełni pierwszy zastępca Prokuratora Generalnego, do czasu objęcia stanowiska przez nowo powołanego Prokuratora Generalnego.
 
-3. Do czasu powołania prokuratorów apelacyjnych, prokuratorów okręgowych i prokuratorów rejonowych oraz ich zastępców, funkcje te pełnią dotychczasowi prokuratorzy apelacyjni, okręgowi i rejonowi oraz ich zastępcy.
+### Art. 10e.
 
-**Art. 19.**
+### 1.
 
-1. Prokurator Generalny, po zasięgnięciu opinii Rady Prokuratorów przy Prokuratorze Generalnym, z dniem wejścia w życie niniejszej ustawy, powoła prokuratorów Prokuratury Generalnej spośród dotychczasowych prokuratorów Prokuratury Krajowej lub prokuratorów prokuratur apelacyjnych. Przepis art. 14a ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio. Prokuratorom Prokuratury Krajowej, którzy zostaną powołani na stanowiska prokuratorów Prokuratury Generalnej, okres pracy na stanowisku prokuratora Prokuratury Krajowej zalicza się do okresu pracy wymaganego do uzyskania wynagrodzenia zasadniczego w stawce
+Prokurator Generalny przedstawia Prezesowi Rady Ministrów, nie później niż do końca pierwszego kwartału roku następnego, sprawozdanie z rocznej działalności prokuratury.
 
-2. Prokurator awansowej. Generalny przenosi prokuratorów byłej Prokuratury Krajowej, których nie powołał do Prokuratury Generalnej na inne miejsce służbowe w prokuraturach apelacyjnych lub okręgowych z zachowaniem prawa do wynagrodzenia nabytego na dotychczas zajmowanym stanowisku.
+### 2.
 
-3. Prokurator byłej Prokuratury Krajowej może złożyć sprzeciw od decyzji, o której mowa w ust. 2, w terminie 14 dni od daty doręczenia decyzji Prokuratora Generalnego. Złożenie sprzeciwu oznacza przejście w stan spoczynku w terminie miesiąca od daty złożenia sprzeciwu.
+Minister Sprawiedliwości przedstawia na piśmie swoje stanowisko do sprawozdania Prokuratora Generalnego.
 
-4. Do prokuratorów, którzy zostali przeniesieni w stan spoczynku na podstawie przepisu ust. 3, przepis art. 62a ust. 1 ustawy, o której mowa w art. 1, w związku z art. 71 § 3 i art. 100 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, z późn. zm. ) stosuje się zgodnie ze statusem służbowym prokuratora w dniu poprzedzającym dzień wejścia w życie niniejszej ustawy.
+### 3.
 
-5. Uposażenie prokuratora Prokuratury Krajowej, który został przeniesiony w stan spoczynku w związku ze zmianą ustroju prokuratury, jest waloryzowane w terminach i wysokości odpowiadających zmianom wynagrodzenia sędziego Sądu Najwyższego.
+Prezes Rady Ministrów może w każdym czasie, niezależnie od sprawozdania rocznego, zażądać od Prokuratora Generalnego przedstawienia informacji na określony temat związany ze strzeżeniem praworządności oraz czuwaniem nad ściganiem przestępstw. Żądanie to nie może dotyczyć przedstawienia informacji o biegu postępowania w konkretnej sprawie. Przepis ust. 2 stosuje się odpowiednio.
 
-6. Urzędnicy i inni pracownicy Prokuratury Krajowej stają się pracownikami Prokuratury Generalnej.
+### 4.
 
-**Art. 20.** Do czasu powołania Krajowej Rady Prokuratury przewidziane dla niej obowiązki ustawowe realizuje Rada Prokuratorów przy Prokuratorze Generalnym, z wyjątkiem uprawnienia określonego w art. 24 pkt 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+Prezes Rady Ministrów może zażądać od Prokuratora Generalnego uzupełnienia przedstawionej informacji w terminie trzech miesięcy.
 
-**Art. 21.**
+### 5.
 
-1. Krajowa Rada Prokuratury na pierwszym posiedzeniu określi termin wyborów członków sądów dyscyplinarnych.
+Prezes Rady Ministrów przyjmuje albo odrzuca sprawozdanie, o którym mowa w ust. 1, mając na względzie realizację zadań przez Prokuratora Generalnego w zakresie strzeżenia praworządności oraz czuwania nad ściganiem przestępstw.
 
-2. Do czasu wyboru nowych członków sądów dyscyplinarnych na podstawie niniejszej ustawy, działają sądy dyscyplinarne utworzone na podstawie przepisów dotychczasowych.
+### 6.
 
-3. Niezakończone prawomocnie sprawy do dnia wyboru członków sądów dyscyplinarnych na podstawie niniejszej ustawy, toczące się w dotychczasowych sądach dyscyplinarnych, przekazuje się sądom dyscyplinarnym utworzonym na podstawie niniejszej ustawy.
+W przypadku odrzucenia sprawozdania Prokuratora Generalnego, Prezes Rady Ministrów może wystąpić do Sejmu z wnioskiem o odwołanie Prokuratora Generalnego przed upływem kadencji. Sejm odwołuje Prokuratora Generalnego uchwałą podjętą większością dwóch trzecich głosów, w obecności co najmniej połowy ustawowej liczby posłów.
 
-**Art. 22.** Przepisy wykonawcze wydane na podstawie art. 17 ust. 5, 5a, 6, 9 i art. 50 ust. 10 ustawy, o której mowa w art. 1, oraz art. 11a ust. 12 ustawy, o której mowa w art. 7, zachowują moc do czasu wydania przepisów wykonawczych na podstawie przepisów art. 17 ust. 13, 14, 15 i 25, art. 50 ust. 10 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 11a ust. 12 i art. 11b ust. 12 ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy, z tym że występujące w tych przepisach regulacje dotyczące Prokuratury Krajowej stosuje się do Prokuratury Generalnej.
+### 7.
 
-**Art. 23.** Minister Sprawiedliwości w terminie 14 dni od dnia wejścia w życie niniejszego artykułu określi i przekaże w drodze zarządzenia środki budżetowe i składniki majątkowe niezbędne do funkcjonowania prokuratury.
+Przed złożeniem wniosku, o którym mowa w ust. 6, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.
 
-**Art. 23a.** W celu realizacji ustawy Prezes Rady Ministrów dokonuje, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częścią 37 „Sprawiedliwość” a częścią odpowiadającą powszechnym jednostkom organizacyjnym prokuratury, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+### Art. 10f.
 
-**Art. 24.** Ustawa wchodzi w życie z dniem 31 marca 2010 r., z wyjątkiem art. 1 pkt 7, w zakresie dotyczącym art. 10a ust. 3 i 4, pkt 12, w zakresie dotyczącym art. 14a ust. 1, pkt 29, 30 i 32 oraz art. 18 i 23, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+### 1.
 
+W przypadku gdy Prokurator Generalny sprzeniewierzył się złożonemu ślubowaniu, Prezes Rady Ministrów może wystąpić do Sejmu z wnioskiem o odwołanie Prokuratora Generalnego przed upływem kadencji. Sejm odwołuje Prokuratora Generalnego uchwałą podjętą większością dwóch trzecich głosów, w obecności co najmniej połowy ustawowej liczby posłów.
+
+### 2.
+
+Przed złożeniem wniosku, o którym mowa w ust. 1, Prezes Rady Ministrów zasięga opinii Krajowej Rady Prokuratury, która powinna być wydana w terminie dwóch miesięcy. Wydaną opinię załącza się do wniosku. Brak opinii w tym terminie oznacza rezygnację z prawa do jej wyrażenia.
+
+” ;
+
+### 8)
+
+w art. 11:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prokuratorów powszechnych jednostek organizacyjnych prokuratury oraz prokuratorów wojskowych jednostek organizacyjnych prokuratury powołuje Prokurator Generalny na wniosek Krajowej Rady Prokuratury.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Prokurator Generalny zasięga od Komendanta Głównego Policji informacji o kandydatach do objęcia stanowiska prokuratorskiego zgłoszonych przez Krajową Radę Prokuratury, z zastrzeżeniem ust. 4. Informacje o kandydacie do objęcia stanowiska prokuratorskiego uzyskuje się i sporządza na zasadach określonych dla informacji o kandydacie do objęcia stanowiska sędziowskiego.
+
+” ;
+
+### 9)
+
+art. 12 otrzymuje brzmienie:
+
+„
+
+### Art. 12.
+
+### 1.
+
+Pierwszego zastępcę Prokuratora Generalnego oraz pozostałych zastępców Prokuratora Generalnego powołuje, spośród prokuratorów Prokuratury Generalnej, i odwołuje z tych stanowisk Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego.
+
+### 2.
+
+Zastępcą Prokuratora Generalnego jest Naczelny Prokurator Wojskowy, którego powołuje, spośród prokuratorów Naczelnej Prokuratury Wojskowej, i odwołuje z tego stanowiska Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego zgłoszony w porozumieniu z Ministrem Obrony Narodowej. Naczelny Prokurator Wojskowy kieruje w zastępstwie Prokuratora Generalnego działalnością wojskowych jednostek organizacyjnych prokuratury.
+
+### 3.
+
+Zastępcą Prokuratora Generalnego jest Dyrektor Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, którego powołuje, spośród prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, i odwołuje z tego stanowiska Prezydent Rzeczypospolitej Polskiej na wniosek Prokuratora Generalnego zgłoszony w porozumieniu z Prezesem Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu. Dyrektor Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu kieruje Główną Komisją Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+### 4.
+
+Liczbę pozostałych zastępców Prokuratora Generalnego określa Minister Sprawiedliwości, na wniosek Prokuratora Generalnego, w rozporządzeniu, o którym mowa w art. 18 ust. 1, mając na uwadze konieczność zapewnienia właściwej realizacji zadań Prokuratora Generalnego.
+
+” ;
+
+### 10)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+### 1.
+
+Prokuratora apelacyjnego powołuje Prokurator Generalny spośród prokuratorów, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+
+### 2.
+
+Kandydata na prokuratora apelacyjnego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+
+### 3.
+
+W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora apelacyjnego.
+
+### 4.
+
+Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora apelacyjnego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+
+### 5.
+
+W przypadku niepowołania do pełnienia funkcji prokuratora apelacyjnego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora apelacyjnego. Przepisy ust. 3 i 4 stosuje się.
+
+### 6.
+
+Zastępcę prokuratora apelacyjnego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora apelacyjnego, po zasięgnięciu opinii kolegium tej prokuratury.
+
+### 7.
+
+Prokurator apelacyjny i zastępca prokuratora apelacyjnego są powoływani na sześcioletnią kadencję i nie mogą być ponownie powołani na bezpośrednio następującą kolejną kadencję do pełnienia tych samych funkcji.
+
+” ;
+
+### 11)
+
+po art. 13 dodaje się art. 13a-13d w brzmieniu:
+
+„
+
+### Art. 13a.
+
+### 1.
+
+Prokuratora okręgowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek właściwego prokuratora apelacyjnego, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+
+### 2.
+
+Kandydata na prokuratora okręgowego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+
+### 3.
+
+W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora okręgowego.
+
+### 4.
+
+Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora okręgowego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+
+### 5.
+
+W przypadku niepowołania do pełnienia funkcji prokuratora okręgowego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora okręgowego. Przepisy ust. 3 i 4 stosuje się.
+
+### 6.
+
+Zastępcę prokuratora okręgowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora okręgowego, po zasięgnięciu opinii właściwego prokuratora apelacyjnego oraz kolegium prokuratury apelacyjnej.
+
+### 7.
+
+Prokurator okręgowy i zastępca prokuratora okręgowego są powoływani na sześcioletnią kadencję i nie mogą być ponownie powołani na bezpośrednio następującą kolejną kadencję do pełnienia tych samych funkcji.
+
+### Art. 13b.
+
+### 1.
+
+Prokuratora rejonowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek właściwego prokuratora apelacyjnego, po zasięgnięciu opinii zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+
+### 2.
+
+Kandydata na prokuratora rejonowego Prokurator Generalny przedstawia zgromadzeniu prokuratorów, w celu wydania opinii.
+
+### 3.
+
+W razie wydania negatywnej opinii o kandydacie, zgromadzenie prokuratorów może przedstawić Prokuratorowi Generalnemu własnego kandydata na prokuratora rejonowego.
+
+### 4.
+
+Po uzyskaniu opinii o kandydacie Prokurator Generalny podejmuje decyzję w przedmiocie powołania go do pełnienia funkcji prokuratora rejonowego bądź powołania do pełnienia tej funkcji kandydata przedstawionego przez zgromadzenie prokuratorów.
+
+### 5.
+
+W przypadku niepowołania do pełnienia funkcji prokuratora rejonowego żadnego z kandydatów, o których mowa w ust. 4, Prokurator Generalny przedstawia zgromadzeniu prokuratorów nowego kandydata na prokuratora rejonowego. Przepisy ust. 3 i 4 stosuje się.
+
+### 6.
+
+Zastępcę prokuratora rejonowego powołuje Prokurator Generalny spośród prokuratorów, na wniosek prokuratora rejonowego, po zasięgnięciu opinii właściwego prokuratora okręgowego oraz kolegium prokuratury okręgowej.
+
+### 7.
+
+Kadencja prokuratora rejonowego i zastępcy prokuratora rejonowego trwa cztery lata.
+
+### Art. 13c.
+
+### 1.
+
+Prokurator Generalny może odwołać prokuratora apelacyjnego lub zastępcę prokuratora apelacyjnego przed upływem kadencji, jeżeli:
+
+### 1)
+
+zrzekł się pełnienia funkcji;
+
+### 2)
+
+stał się trwale niezdolny do pełnienia funkcji na skutek choroby lub utraty sił, stwierdzonej orzeczeniem lekarskim;
+
+### 3)
+
+został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa lub przestępstwa skarbowego albo złożył niezgodne z prawdą oświadczenie lustracyjne, stwierdzone prawomocnym orzeczeniem sądu;
+
+### 4)
+
+w sposób nienależyty wypełnia obowiązki służbowe.
+
+### 2.
+
+Prokurator Generalny, z urzędu lub na wniosek właściwego prokuratora apelacyjnego, może odwołać prokuratora okręgowego, prokuratora rejonowego lub ich zastępców, z przyczyn określonych w ust. 1, przed upływem kadencji.
+
+### 3.
+
+Odwołanie prokuratora apelacyjnego, prokuratora okręgowego i prokuratora rejonowego oraz ich zastępców, w przypadku, o którym mowa w ust. 1 pkt 4, następuje po podjęciu przez Krajową Radę Prokuratury uchwały zezwalającej na odwołanie.
+
+### Art. 13d.
+
+### 1.
+
+Do pełnienia pozostałych funkcji w prokuraturze, z zastrzeżeniem ust. 2-4 oraz art. 111, powołuje spośród prokuratorów i odwołuje z pełnienia tych funkcji Prokurator Generalny.
+
+### 2.
+
+Prokurator Generalny może, w drodze zarządzenia, określić funkcje w prokuraturach apelacyjnych, okręgowych i rejonowych, do pełnienia których powołuje prokuratorów i odwołuje z ich pełnienia prokurator apelacyjny.
+
+### 3.
+
+Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej powołuje, spośród prokuratorów wojskowych jednostek organizacyjnych prokuratury, zastępcę Naczelnego Prokuratora Wojskowego, wojskowego prokuratora okręgowego i wojskowego prokuratora garnizonowego oraz ich zastępców, a także pełniących pozostałe funkcje w wojskowych jednostkach organizacyjnych prokuratury, oraz odwołuje ich z pełnienia tych funkcji.
+
+### 4.
+
+Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej może, w drodze zarządzenia, określić funkcje w wojskowych prokuraturach okręgowych i wojskowych prokuraturach garnizonowych, do pełnienia których powołuje prokuratorów i odwołuje z pełnienia tych funkcji Naczelny Prokurator Wojskowy.
+
+” ;
+
+### 12)
+
+art. 14a otrzymuje brzmienie:
+
+„
+
+### Art. 14a.
+
+### 1.
+
+Na stanowisko prokuratora Prokuratury Generalnej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej dziesięcioletni staż na stanowisku prokuratora lub sędziego, w tym nie mniej niż sześcioletni okres pracy na stanowisku prokuratora Prokuratury Krajowej, prokuratury apelacyjnej lub okręgowej, Naczelnej Prokuratury Wojskowej, prokuratora wojskowej prokuratury okręgowej lub prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu apelacyjnego lub okręgowego bądź wojskowego sądu okręgowego albo co najmniej przez okres dwunastu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+
+### 2.
+
+Na stanowisko prokuratora prokuratury apelacyjnej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej sześcioletni okres pracy na stanowisku prokuratora lub sędziego, w tym co najmniej trzyletni okres pracy na stanowisku prokuratora prokuratury okręgowej, prokuratora wojskowej prokuratury okręgowej lub prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu okręgowego lub wojskowego sądu okręgowego albo co najmniej przez okres ośmiu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+
+### 3.
+
+Na stanowisko prokuratora prokuratury okręgowej może być powołany ten, kto spełniając warunki do objęcia stanowiska prokuratora prokuratury powszechnej, ma co najmniej czteroletni okres pracy na stanowisku prokuratora prokuratury rejonowej, prokuratora wojskowej prokuratury garnizonowej, prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, sędziego sądu powszechnego lub wojskowego albo co najmniej przez okres sześciu lat przed powołaniem wykonywał zawód adwokata, radcy prawnego lub notariusza.
+
+### 4.
+
+Wymagany staż, o którym mowa w ust. 1-3, nie dotyczy osób wskazanych w art. 14 ust. 3 pkt 1.
+
+” ;
+
+### 13)
+
+po art. 14a dodaje się art. 14b w brzmieniu:
+
+„
+
+### Art. 14b.
+
+### 1.
+
+W razie utworzenia stanowiska prokuratora lub zwolnienia się tego stanowiska Prokurator Generalny niezwłocznie obwieszcza o wolnym stanowisku prokuratorskim w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, chyba że obsadzenie tego stanowiska następuje w drodze przeniesienia służbowego prokuratora równorzędnej prokuratury.
+
+### 2.
+
+Każdy, kto spełnia warunki do objęcia stanowiska prokuratora może zgłosić swoją kandydaturę na jedno wolne stanowisko prokuratorskie w ciągu miesiąca od obwieszczenia, o którym mowa w ust. 1.
+
+### 3.
+
+Kandydaturę zgłasza się prokuratorowi okręgowemu - gdy zgłoszenie dotyczy stanowiska prokuratora prokuratury rejonowej, prokuratorowi apelacyjnemu - gdy zgłoszenie dotyczy stanowiska prokuratora prokuratury okręgowej albo prokuratora prokuratury apelacyjnej, Prokuratorowi Generalnemu - gdy zgłoszenie dotyczy stanowiska prokuratora Prokuratury Generalnej, Ministrowi Obrony Narodowej - gdy zgłoszenie dotyczy stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury oraz Prezesowi Instytutu Pamięci Narodowej - gdy zgłoszenie dotyczy stanowiska prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+### 4.
+
+Jeżeli swoją kandydaturę zgłosiła osoba, która nie spełnia warunków do objęcia stanowiska prokuratora, o których mowa w art. 14 ust. 1 pkt 3-7, albo art. 14 ust. 2, albo zgłoszenie nastąpiło po upływie terminu, o którym mowa w ust. 2, lub nie spełnia wymogów formalnych określonych w art. 11 ust. 2 i 2a, właściwy prokurator, Minister Obrony Narodowej albo Prezes Instytutu Pamięci Narodowej zawiadamia zgłaszającego o pozostawieniu zgłoszenia bez rozpatrzenia, podając przyczynę. Osoba, której zgłoszenie pozostawiono bez rozpatrzenia, może, w terminie 7 dni złożyć pisemne zastrzeżenie. Jeżeli właściwy prokurator, Minister Obrony Narodowej albo Prezes Instytutu Pamięci Narodowej nie uwzględni zastrzeżenia, niezwłocznie przekazuje je wraz ze zgłoszeniem Krajowej Radzie Prokuratury. W przedmiocie pozostawienia zgłoszenia bez rozpatrzenia rozstrzyga Krajowa Rada Prokuratury.
+
+### 5.
+
+Prokurator okręgowy, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora prokuratury rejonowej przedstawia jego kandydaturę kolegium prokuratury okręgowej, wraz z oceną kwalifikacji sporządzoną przez wyznaczonego prokuratora prokuratury okręgowej.
+
+### 6.
+
+Prokurator apelacyjny, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora prokuratury okręgowej albo prokuratora prokuratury apelacyjnej przedstawia jego kandydaturę kolegium prokuratury apelacyjnej, wraz z oceną kwalifikacji sporządzoną przez wyznaczonego prokuratora prokuratury apelacyjnej.
+
+### 7.
+
+Prokurator Generalny, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora Prokuratury Generalnej zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Prokuratury Generalnej.
+
+### 8.
+
+Minister Obrony Narodowej, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora wojskowej jednostki organizacyjnej prokuratury zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Naczelnej Prokuratury Wojskowej.
+
+### 9.
+
+Prezes Instytutu Pamięci Narodowej, po stwierdzeniu spełnienia wymogów formalnych zgłoszenia złożonego w terminie oraz stwierdzeniu spełniania przez kandydata warunków do objęcia stanowiska prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu zarządza sporządzenie oceny kwalifikacji kandydata przez wyznaczonego prokuratora Instytutu Pamięci Narodowej.
+
+### 10.
+
+Prokurator okręgowy oraz prokurator apelacyjny przedstawiają Krajowej Radzie Prokuratury zgłoszenia kandydatów na stanowiska odpowiednio prokuratorów prokuratury rejonowej albo prokuratury okręgowej lub apelacyjnej wraz z opiniami odpowiednio kolegium prokuratury okręgowej albo kolegium prokuratury apelacyjnej wraz z ocenami sporządzonymi przez wyznaczonych prokuratorów.
+
+### 11.
+
+Prokurator Generalny, Minister Obrony Narodowej i Prezes Instytutu Pamięci Narodowej przedstawiają Krajowej Radzie Prokuratury zgłoszenia kandydatów na stanowiska odpowiednio prokuratorów Prokuratury Generalnej, prokuratora wojskowej jednostki organizacyjnej prokuratury albo prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu wraz z własnymi opiniami oraz z ocenami kwalifikacji sporządzonymi przez wyznaczonych prokuratorów.
+
+” ;
+
+### 14)
+
+w art. 16 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prokurator Generalny może odwołać prokuratora jednostki organizacyjnej prokuratury, jeżeli prokurator, mimo dwukrotnego ukarania przez sąd dyscyplinarny karą wymienioną w art. 67 ust. 1 pkt 2-4 lub art. 113 pkt 2-4, popełnił przewinienie służbowe, a w tym dopuścił się oczywistej obrazy przepisów prawa lub uchybił godności urzędu prokuratorskiego; przed podjęciem decyzji Prokurator Generalny wysłuchuje wyjaśnień prokuratora, chyba że nie jest to możliwe, oraz zasięga odpowiednio opinii zebrania prokuratorów Prokuratury Generalnej lub Naczelnej Prokuratury Wojskowej albo opinii właściwego zgromadzenia prokuratorów w prokuraturze apelacyjnej.
+
+” ;
+
+### 15)
+
+art. 17 otrzymuje brzmienie:
+
+„
+
+### Art. 17.
+
+### 1.
+
+Powszechnymi jednostkami organizacyjnymi prokuratury są: Prokuratura Generalna oraz prokuratury apelacyjne, okręgowe i rejonowe.
+
+### 2.
+
+Prokuratura Generalna zapewnia obsługę Prokuratora Generalnego, w szczególności w zakresie jego zadań w postępowaniach prowadzonych na podstawie ustawy. Do podstawowych zadań Prokuratury Generalnej należy również zapewnienie udziału prokuratora w postępowaniu przed Trybunałem Konstytucyjnym, Sądem Najwyższym i Naczelnym Sądem Administracyjnym, sprawowanie nadzoru instancyjnego i służbowego nad postępowaniami prowadzonymi w prokuraturach apelacyjnych i koordynacja nadzoru służbowego nad postępowaniem przygotowawczym prowadzonym przez pozostałe jednostki organizacyjne prokuratury, prowadzenie wizytacji prokuratur apelacyjnych oraz wykonywanie czynności w zakresie obrotu prawnego z zagranicą.
+
+### 3.
+
+Prokuraturą Generalną kieruje Prokurator Generalny, który jest prokuratorem przełożonym prokuratorów powszechnych i wojskowych jednostek organizacyjnych prokuratury oraz prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+### 4.
+
+Do podstawowych zadań prokuratury apelacyjnej należy zapewnienie udziału prokuratora w postępowaniach prowadzonych na podstawie ustawy przed sądem apelacyjnym i wojewódzkim sądem administracyjnym, prowadzenie i nadzorowanie postępowań przygotowawczych w sprawach ścigania przestępczości zorganizowanej i korupcji, sprawowanie nadzoru instancyjnego i służbowego nad postępowaniami prowadzonymi w prokuraturach okręgowych, a także prowadzenie wizytacji prokuratur okręgowych i rejonowych.
+
+### 5.
+
+Prokuraturą apelacyjną kieruje prokurator apelacyjny, który jest prokuratorem przełożonym prokuratorów prokuratury apelacyjnej, prokuratorów prokuratur okręgowych oraz prokuratorów prokuratur rejonowych na obszarze działania prokuratury apelacyjnej.
+
+### 6.
+
+Do podstawowych zadań prokuratury okręgowej należy zapewnienie udziału prokuratora w postępowaniach prowadzonych na podstawie ustawy przed sądem okręgowym, prowadzenie i nadzorowanie postępowań przygotowawczych w sprawach o poważne przestępstwa kryminalne i gospodarcze, a także sprawowanie nadzoru instancyjnego i służbowego nad postępowaniami prowadzonymi w prokuraturach rejonowych oraz prowadzenie wizytacji prokuratur rejonowych.
+
+### 7.
+
+Prokuraturą okręgową kieruje prokurator okręgowy. Prokurator okręgowy jest prokuratorem przełożonym prokuratorów prokuratury okręgowej oraz prokuratorów rejonowych i prokuratorów prokuratur rejonowych na obszarze działania prokuratury okręgowej.
+
+### 8.
+
+Do podstawowych zadań prokuratury rejonowej należy zapewnienie udziału prokuratora w postępowaniach prowadzonych na podstawie ustawy przed sądem rejonowym, a także prowadzenie i nadzorowanie postępowań przygotowawczych z wyłączeniem spraw wymienionych w ust. 4 i 6.
+
+### 9.
+
+Prokuraturą rejonową kieruje prokurator rejonowy. Prokurator rejonowy jest prokuratorem przełożonym prokuratorów pełniących czynności w prokuraturze rejonowej.
+
+### 10.
+
+Zastępca prokuratora apelacyjnego kieruje prokuraturą apelacyjną w zakresie ustalonym przez prokuratora apelacyjnego i w tym zakresie jest prokuratorem przełożonym prokuratorów prokuratury apelacyjnej, prokuratorów prokuratur okręgowych oraz prokuratorów prokuratur rejonowych na obszarze działania prokuratury apelacyjnej.
+
+### 11.
+
+Przepis ust. 10 stosuje się odpowiednio do zastępcy prokuratora okręgowego i zastępcy prokuratora rejonowego - na obszarze działania, odpowiednio, prokuratury okręgowej lub prokuratury rejonowej.
+
+### 12.
+
+Prokuraturę apelacyjną tworzy się dla obszaru właściwości co najmniej dwóch prokuratur okręgowych, odpowiadającego obszarowi właściwości odpowiedniego sądu apelacyjnego. Prokuraturę okręgową tworzy się dla obszaru właściwości co najmniej dwóch prokuratur rejonowych. Prokuraturę rejonową tworzy się dla jednej lub większej liczby gmin; w uzasadnionych wypadkach może być utworzona więcej niż jedna prokuratura rejonowa w obrębie tej samej gminy.
+
+### 13.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, w drodze rozporządzenia, tworzy i znosi prokuratury apelacyjne, okręgowe i rejonowe oraz ustala ich siedziby i obszary właściwości, mając na względzie zapewnienie właściwego funkcjonowania tych jednostek.
+
+### 14.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, w drodze rozporządzenia, określa właściwość powszechnych jednostek organizacyjnych prokuratury w sprawach o poszczególne rodzaje przestępstw niezależnie od miejsca ich popełnienia oraz w sprawach cywilnych, administracyjnych, w sprawach o wykroczenia, a także w innych postępowaniach prowadzonych na podstawie ustaw, mając na względzie skuteczne zwalczanie przestępczości i zapewnienie sprawności postępowań - niezależnie od ogólnej właściwości powszechnych jednostek organizacyjnych prokuratury.
+
+### 15.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, w drodze rozporządzenia, tworzy i znosi ośrodki zamiejscowe prokuratur okręgowych lub rejonowych poza siedzibą prokuratury, mając na względzie zapewnienie właściwego funkcjonowania tych jednostek.
+
+### 16.
+
+Pracownicy zniesionego ośrodka zamiejscowego przechodzą do prokuratury, której ośrodek zamiejscowy został zniesiony.
+
+### 17.
+
+W Prokuraturze Generalnej tworzy się, w zależności od potrzeb, departamenty i biura. W ramach departamentów i biur mogą być tworzone wydziały lub inne komórki organizacyjne. W prokuraturach apelacyjnych i okręgowych mogą być z zastrzeżeniem ust. 18 tworzone wydziały oraz - samodzielne lub wchodzące w skład wydziałów - działy. W prokuraturach rejonowych mogą być tworzone działy lub sekcje.
+
+### 18.
+
+W prokuraturach apelacyjnych tworzy się wydziały postępowania sądowego, wydziały do spraw wizytacji i okresowej oceny prokuratorów oraz wydziały do spraw przestępczości zorganizowanej i korupcji.
+
+### 19.
+
+Departamentami i biurami Prokuratury Generalnej kierują dyrektorzy, wydziałami departamentów i biur Prokuratury Generalnej oraz wydziałami w prokuraturach apelacyjnych i okręgowych - naczelnicy, a działami w prokuraturach apelacyjnych, okręgowych i rejonowych, sekcjami w prokuraturach rejonowych oraz ośrodkami zamiejscowymi prokuratur okręgowych i rejonowych - kierownicy. W zależności od potrzeb, dyrektorzy departamentów i biur Prokuratury Generalnej mogą mieć zastępców. W prokuraturach rejonowych o obsadzie kadrowej nieprzekraczającej sześciu prokuratorów komórkami organizacyjnymi kierują bezpośrednio prokurator rejonowy lub jego zastępca.
+
+### 20.
+
+Wojskowymi jednostkami organizacyjnymi prokuratury są: Naczelna Prokuratura Wojskowa, wojskowe prokuratury okręgowe oraz wojskowe prokuratury garnizonowe.
+
+### 21.
+
+Naczelną Prokuraturą Wojskową kieruje Naczelny Prokurator Wojskowy. Naczelny Prokurator Wojskowy jest prokuratorem przełożonym prokuratorów Naczelnej Prokuratury Wojskowej oraz pozostałych prokuratorów wojskowych jednostek organizacyjnych prokuratury.
+
+### 22.
+
+Wojskową prokuraturą okręgową kieruje wojskowy prokurator okręgowy. Wojskowy prokurator okręgowy jest prokuratorem przełożonym prokuratorów wojskowej prokuratury okręgowej oraz wojskowych prokuratorów garnizonowych i prokuratorów wojskowych prokuratur garnizonowych na obszarze działania wojskowej prokuratury okręgowej.
+
+### 23.
+
+Wojskową prokuraturą garnizonową kieruje wojskowy prokurator garnizonowy. Wojskowy prokurator garnizonowy jest prokuratorem przełożonym prokuratorów wojskowej prokuratury garnizonowej.
+
+### 24.
+
+Zastępca Naczelnego Prokuratora Wojskowego, wojskowego prokuratora okręgowego, wojskowego prokuratora garnizonowego i kierownika innej wojskowej jednostki organizacyjnej prokuratury kieruje daną jednostką w zakresie ustalonym przez jej kierownika i w tym zakresie jest prokuratorem przełożonym prokuratorów danej wojskowej jednostki organizacyjnej prokuratury oraz prokuratorów wojskowych jednostek organizacyjnych prokuratury niższego stopnia na obszarze działania danej jednostki.
+
+### 25.
+
+Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, w drodze rozporządzenia, tworzy i znosi wojskowe jednostki organizacyjne prokuratury oraz ustała ich siedziby i terytorialny zakres działania, mając na względzie zapewnienie właściwego funkcjonowania tych jednostek.
+
+” ;
+
+### 16)
+
+w art. 17a:
+
+### a)
+
+uchyla się ust. 1 i 2,
+
+### b)
+
+w ust. 3:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) Prokurator Generalny - w stosunku do swoich zastępców, prokuratorów pełniących czynności w Prokuraturze Generalnej oraz prokuratorów apelacyjnych; ” ,
+
+- - uchyla się pkt 2,
+
+- - pkt 3 otrzymuje brzmienie: „ 3) zastępcy Prokuratora Generalnego, z wyłączeniem Naczelnego Prokuratora Wojskowego i Dyrektora Głównej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu Instytutu Pamięci Narodowej, w zakresie zleconych czynności - w stosunku do prokuratorów pełniących czynności w Prokuraturze Generalnej oraz prokuratorów apelacyjnych; ” ;
+
+### 17)
+
+w art. 18:
+
+### a)
+
+ust. 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1.
+
+Minister Sprawiedliwości, po zasięgnięciu opinii Prokuratora Generalnego, ustala, w drodze rozporządzenia, regulamin wewnętrznego urzędowania powszechnych jednostek organizacyjnych prokuratury określający:
+
+### 1)
+
+wewnętrzną strukturę organizacyjną i zadania Prokuratury Generalnej, prokuratur apelacyjnych oraz pozostałych powszechnych jednostek organizacyjnych prokuratury, a także liczbę zastępców Prokuratora Generalnego, o których mowa w art. 12 ust. 4,
+
+### 2)
+
+organizację pracy i sposób kierowania pracą,
+
+### 3)
+
+dysponentów środków budżetowych,
+
+### 4)
+
+formy i tryb sprawowania nadzoru służbowego, w tym poprzez wizytacje i lustracje,
+
+### 5)
+
+tryb załatwiania spraw osobowych,
+
+### 6)
+
+organizację pracy organów kolegialnych,
+
+### 7)
+
+szczegółowy porządek wykonywania przez prokuratora czynności w sprawach karnych,
+
+### 8)
+
+sposób realizacji zadań związanych z udziałem prokuratora w sprawach cywilnych, rodzinnych, opiekuńczych oraz ze stosunku pracy,
+
+### 9)
+
+szczegółowy porządek wykonywania przez prokuratora czynności w postępowaniu administracyjnym i przed sądami administracyjnymi,
+
+### 10)
+
+tryb działań podejmowanych przez prokuratora w celu zapobieżenia naruszeniom prawa,
+
+### 11)
+
+tryb postępowania w sprawach skarg i wniosków,
+
+uwzględniając potrzebę zapewnienia skuteczności i sprawności postępowania we wszystkich rodzajach spraw, prowadzonych przez prokuratora lub z jego udziałem, w tym szybkość i efektywność działania, z uwzględnieniem funkcjonalności i racjonalności działań prokuratora.
+
+### 2.
+
+Prokurator Generalny określa, w drodze zarządzenia, organizację i zakres działania sekretariatów oraz innych działów administracji w powszechnych jednostkach organizacyjnych prokuratury, biorąc pod uwagę specyfikę zadań jednostek różnego stopnia i konieczność zapewnienia racjonalności funkcjonowania prokuratury.
+
+” ,
+
+### b)
+
+ust. 3a otrzymuje brzmienie:
+
+„
+
+### 3a.
+
+Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej określi, w drodze zarządzenia, organizację i zakres działania sekretariatów oraz innych działów administracji w wojskowych jednostkach organizacyjnych prokuratury, biorąc pod uwagę specyfikę zadań jednostek różnego stopnia i konieczność zapewnienia racjonalności funkcjonowania prokuratury.
+
+” ;
+
+### 18)
+
+w art. 19 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W prokuraturze apelacyjnej działa zgromadzenie prokuratorów, które składa się z prokuratorów prokuratury apelacyjnej oraz delegatów prokuratorów prokuratur okręgowych i rejonowych działających na obszarze właściwości prokuratury apelacyjnej. Delegatów prokuratorów prokuratur okręgowych i rejonowych, w liczbie równej liczbie prokuratorów prokuratury apelacyjnej, wybierają na okres dwóch lat, po połowie, zebrania prokuratorów prokuratur okręgowych i zebrania prokuratorów prokuratur rejonowych; Prokurator Generalny ustala regulamin wyboru delegatów.
+
+” ;
+
+### 19)
+
+art. 20 otrzymuje brzmienie:
+
+„
+
+### Art. 20.
+
+Zgromadzenie prokuratorów:
+
+### 1)
+
+wysłuchuje informacji prokuratora apelacyjnego o działalności prokuratury apelacyjnej oraz prokuratur okręgowych i rejonowych z obszaru działania danej jednostki oraz wyraża opinię w tym zakresie;
+
+### 2)
+
+ustala liczbę i wybiera dwie trzecie liczby członków kolegium prokuratury apelacyjnej;
+
+### 3)
+
+wybiera przedstawiciela do Krajowej Rady Prokuratury;
+
+### 4)
+
+wybiera członków sądów dyscyplinarnych;
+
+### 5)
+
+rozpatruje sprawozdania z działalności kolegium prokuratury apelacyjnej i coroczne sprawozdania z działalności rzecznika dyscyplinarnego prokuratora apelacyjnego;
+
+### 6)
+
+wyraża opinie o kandydatach na prokuratora apelacyjnego, prokuratorów okręgowych i rejonowych;
+
+### 7)
+
+wyraża opinie w innych sprawach przedstawionych przez prokuratora apelacyjnego lub kolegium prokuratury apelacyjnej.
+
+” ;
+
+### 20)
+
+art. 22-23 otrzymują brzmienie:
+
+„
+
+### Art. 22.
+
+Kolegium prokuratury apelacyjnej:
+
+### 1)
+
+rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+
+### 2)
+
+wyraża opinię o kandydatach na stanowiska prokuratora prokuratury apelacyjnej i prokuratora prokuratury okręgowej;
+
+### 3)
+
+wyraża opinię o kandydatach do pełnienia funkcji zastępcy prokuratora apelacyjnego i zastępcy prokuratora okręgowego;
+
+### 4)
+
+wyraża opinię o kandydacie do pełnienia funkcji rzecznika dyscyplinarnego prokuratora apelacyjnego;
+
+### 5)
+
+wyraża opinię w przedmiocie odwołania ze stanowiska prokuratora prokuratury apelacyjnej i prokuratora prokuratury okręgowej;
+
+### 6)
+
+wnosi do prokuratora apelacyjnego o zwołanie zgromadzenia prokuratorów;
+
+### 7)
+
+wyraża opinię w innych sprawach przedstawionych przez prokuratora apelacyjnego.
+
+### Art. 22a.
+
+### 1.
+
+Kolegium prokuratury okręgowej składa się z sześciu członków, z których czterech jest wybieranych przez zebranie prokuratorów prokuratury okręgowej i delegatów prokuratur rejonowych oraz z prokuratora okręgowego i powołanego przez niego prokuratora. Przewodniczącym kolegium prokuratury okręgowej jest prokurator okręgowy.
+
+### 2.
+
+Kadencja kolegium prokuratury okręgowej trwa dwa lata.
+
+### 3.
+
+Posiedzenia kolegium prokuratury okręgowej zwołuje prokurator okręgowy z własnej inicjatywy lub na wniosek jednej trzeciej liczby członków kolegium.
+
+### Art. 22b.
+
+Kolegium prokuratury okręgowej:
+
+### 1)
+
+rozpatruje wnioski wynikające z wizytacji i lustracji prokuratur;
+
+### 2)
+
+wyraża opinię o kandydatach na asesorów prokuratorskich;
+
+### 3)
+
+wyraża opinię o kandydatach na stanowiska prokuratorów prokuratur rejonowych;
+
+### 4)
+
+wyraża opinię o kandydacie do pełnienia funkcji zastępcy prokuratora rejonowego;
+
+### 5)
+
+wyraża opinię w przedmiocie odwołania ze stanowiska prokuratora prokuratury rejonowej;
+
+### 6)
+
+wnosi do prokuratora apelacyjnego o zwołanie zgromadzenia prokuratorów;
+
+### 7)
+
+wyraża opinię w innych sprawach przedstawionych przez prokuratora okręgowego.
+
+### Art. 23.
+
+### 1.
+
+Krajowa Rada Prokuratury składa się z dwudziestu pięciu członków. W jej skład wchodzą: Minister Sprawiedliwości, Prokurator Generalny, przedstawiciel Prezydenta Rzeczypospolitej Polskiej, czterech posłów, dwóch senatorów, prokurator wybrany przez zebranie prokuratorów Naczelnej Prokuratury Wojskowej, prokurator wybrany przez zebranie prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, trzech prokuratorów wybranych przez zebranie prokuratorów Prokuratury Generalnej oraz jedenastu prokuratorów, wybranych przez zgromadzenia prokuratorów w prokuraturach apelacyjnych.
+
+### 2.
+
+Kadencja Krajowej Rady Prokuratury trwa 4 lata.
+
+### 3.
+
+Krajowa Rada Prokuratury działa na podstawie uchwalonego przez siebie regulaminu.
+
+### 4.
+
+Osoba powołana przez Prezydenta Rzeczypospolitej Polskiej pełni swoją funkcję w Krajowej Radzie Prokuratury bez oznaczania okresu kadencji i może być odwołana w każdym czasie.
+
+### 5.
+
+Sejm Rzeczypospolitej Polskiej wybiera spośród posłów czterech członków Krajowej Rady Prokuratury na okres swojej kadencji. Senat Rzeczypospolitej Polskiej wybiera spośród senatorów dwóch członków Krajowej Rady Prokuratury na okres swojej kadencji.
+
+### 6.
+
+Prokurator może pełnić funkcję wybieranego członka Krajowej Rady Prokuratury tylko dwie kadencje.
+
+” ;
+
+### 21)
+
+po art. 23 dodaje się art. 23a w brzmieniu:
+
+„
+
+### Art. 23a.
+
+### 1.
+
+Mandat wybieranego członka Krajowej Rady Prokuratury wygasa przed upływem kadencji w razie:
+
+### 1)
+
+śmierci;
+
+### 2)
+
+zrzeczenia się mandatu;
+
+### 3)
+
+złożenia niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzonego prawomocnym orzeczeniem sądu;
+
+### 4)
+
+odwołania przez organ, który dokonał wyboru;
+
+### 5)
+
+wygaśnięcia mandatu posła albo senatora;
+
+### 6)
+
+wygaśnięcia albo rozwiązania stosunku służbowego prokuratora;
+
+### 7)
+
+przeniesienia prokuratora w stan spoczynku.
+
+### 2.
+
+Mandat członków Krajowej Rady Prokuratury będących posłami albo senatorami, w razie upływu kadencji Sejmu i Senatu, wygasa wraz z wyborem członków Krajowej Rady Prokuratury wybranych przez Sejm i Senat następnej kadencji.
+
+### 3.
+
+Zrzeczenie się mandatu w Krajowej Radzie Prokuratury jest skuteczne z chwilą powiadomienia o tym na piśmie Przewodniczącego Krajowej Rady Prokuratury.
+
+” ;
+
+### 22)
+
+art. 24 otrzymuje brzmienie:
+
+„
+
+### Art. 24.
+
+Krajowa Rada Prokuratury w szczególności:
+
+### 1)
+
+stoi na straży niezależności prokuratorów;
+
+### 2)
+
+opiniuje projekty aktów normatywnych dotyczących prokuratury;
+
+### 3)
+
+wysłuchuje informacji Prokuratora Generalnego o działalności prokuratury i wyraża opinie w tym zakresie;
+
+### 4)
+
+wybiera kandydata na stanowisko Prokuratora Generalnego;
+
+### 5)
+
+występuje z wnioskiem do Prezydenta Rzeczypospolitej Polskiej o odwołanie ze stanowiska Prokuratora Generalnego w wypadku wskazanym w art. 10d ust. 2 pkt 2;
+
+### 6)
+
+wyraża opinię w przedmiocie wniosku Prezesa Rady Ministrów o odwołanie Prokuratora Generalnego przed upływem kadencji w wypadkach wskazanych w art. 10d ust. 2 pkt 2, w art. 10e ust. 6 oraz w art. 10f ust. 1;
+
+### 7)
+
+występuje do sądu dyscyplinarnego o pociągnięcie Prokuratora Generalnego do odpowiedzialności dyscyplinarnej oraz wyznacza przedstawiciela do występowania przed sądem dyscyplinarnym;
+
+### 8)
+
+rozpatruje coroczne sprawozdania z działalności Rzecznika Dyscyplinarnego Prokuratora Generalnego;
+
+### 9)
+
+rozpatruje i ocenia kandydatury do pełnienia stanowisk prokuratorskich oraz przedstawia Prokuratorowi Generalnemu wnioski o powołanie prokuratorów powszechnych jednostek organizacyjnych prokuratury, prokuratorów wojskowych jednostek organizacyjnych prokuratury oraz prokuratorów Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;
+
+### 10)
+
+zajmuje stanowisko w sprawie wyrażenia zgody na odwołanie w trakcie trwania kadencji z pełnienia funkcji prokuratora apelacyjnego, prokuratora okręgowego i prokuratora rejonowego oraz ich zastępców z powodów określonych w art. 13c ust. 1 pkt 4;
+
+### 11)
+
+opiniuje wnioski o wyrażenie zgody na dalsze zajmowanie stanowiska prokuratora po ukończeniu przez prokuratora 65 roku życia;
+
+### 12)
+
+opiniuje wystąpienia prokuratorów w stanie spoczynku o powrót na stanowisko prokuratorskie;
+
+### 13)
+
+opiniuje zasady oceny pracy asesorów prokuratorskich;
+
+### 14)
+
+wyraża stanowisko w sprawach dotyczących prokuratur i prokuratorów, wniesionych pod obrady Krajowej Rady Prokuratury przez Prezydenta Rzeczypospolitej Polskiej oraz inne organy władzy publicznej i organy kolegialne prokuratury;
+
+### 15)
+
+uchwala zbiór zasad etyki zawodowej prokuratorów i czuwa nad ich przestrzeganiem;
+
+### 16)
+
+opiniuje projekty wytycznych i zarządzeń Prokuratora Generalnego;
+
+### 17)
+
+wypowiada się o stanie i rozwoju kadry prokuratorskiej oraz kierunkach szkolenia prokuratorów, asesorów i aplikantów;
+
+### 18)
+
+wyraża stanowisko co do okresowych ocen realizacji zadań prokuratury;
+
+### 19)
+
+wypowiada się co do kierunków działań podejmowanych w celu doskonalenia kwalifikacji zawodowych prokuratorów oraz poziomu ich pracy;
+
+### 20)
+
+opiniuje kandydata na Dyrektora Krajowej Szkoły Sądownictwa i Prokuratury;
+
+### 21)
+
+wskazuje trzech członków Rady Programowej Krajowej Szkoły Sądownictwa i Prokuratury;
+
+### 22)
+
+ustala ogólną liczbę członków sądów dyscyplinarnych oraz wskazuje liczbę członków sądów dyscyplinarnych wybieranych przez zebranie prokuratorów Prokuratury Generalnej i zgromadzenia prokuratorów w prokuraturach apelacyjnych.
+
+” ;
+
+### 23)
+
+po art. 24 dodaje się art. 24a i 24b w brzmieniu:
+
+„
+
+### Art. 24a.
+
+### 1.
+
+Krajowa Rada Prokuratury powołuje i odwołuje ze swego grona Przewodniczącego, dwóch wiceprzewodniczących i sekretarza. Przewodniczący i wiceprzewodniczący Krajowej Rady Prokuratury nie mogą pełnić swoich funkcji dłużej niż przez dwie kadencje.
+
+### 2.
+
+Krajowa Rada Prokuratury obraduje na posiedzeniach. Posiedzenia Krajowej Rady Prokuratury zwołuje Przewodniczący Krajowej Rady Prokuratury z własnej inicjatywy co najmniej raz na dwa miesiące lub na wniosek jednej trzeciej jej członków albo na wniosek Prokuratora Generalnego.
+
+### Art. 24b.
+
+Obsługę finansowo-administracyjną i kancelaryjną Krajowej Rady Prokuratury zapewnia Prokuratura Generalna.
+
+” ;
+
+### 24)
+
+art. 42a otrzymuje brzmienie:
+
+„
+
+### Art. 42a.
+
+### 1.
+
+Dane do składania podpisu elektronicznego na potrzeby elektronicznego postępowania upominawczego są udzielane prokuratorom po złożeniu stosownego wniosku za pośrednictwem odpowiednio właściwego prokuratora apelacyjnego lub Prokuratora Generalnego.
+
+### 2.
+
+Dopuszcza się również komunikowanie się prokuratora z sądem w elektronicznym postępowaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu.
+
+### 3.
+
+Wnioski prokuratorów o udzielenie danych wskazanych w ust. 1 złożone odpowiednio do właściwego prokuratora apelacyjnego lub Prokuratora Generalnego będą przesyłane właściwemu sądowi wraz z potwierdzeniem zatrudnienia prokuratora odpowiednio we właściwej podległej prokuratorowi apelacyjnemu prokuraturze lub w Prokuraturze Generalnej. Osoby zamierzające komunikować się z sądem w sposób wskazany w ust. 2 zawiadamiają o tym sąd za pośrednictwem odpowiednio właściwego prokuratora apelacyjnego lub Prokuratora Generalnego, podając dane do weryfikacji podpisu elektronicznego.
+
+### 4.
+
+Informacje, o których mowa w ust. 3, odpowiednio właściwy prokurator apelacyjny lub Prokurator Generalny przesyła sądowi w terminie czternastu dni od daty złożenia wniosku.
+
+” ;
+
+### 25)
+
+w art. 49 ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+O zamiarze podjęcia dodatkowego zatrudnienia, o którym mowa w ust. 1, a także o podjęciu innego zajęcia lub sposobu zarobkowania, prokurator prokuratury apelacyjnej oraz prokurator prokuratury okręgowej zawiadamia właściwego prokuratora apelacyjnego albo okręgowego, a prokuratorzy Prokuratury Generalnej, prokuratorzy apelacyjni i prokuratorzy okręgowi - Prokuratora Generalnego. Prokurator prokuratury rejonowej kieruje zawiadomienie, o którym mowa w zdaniu pierwszym, do właściwego prokuratora okręgowego.
+
+### 5.
+
+Właściwy prokurator apelacyjny albo okręgowy w stosunku do podległego mu prokuratora, a Prokurator Generalny w stosunku do prokuratora Prokuratury Generalnej, prokuratora apelacyjnego i prokuratora okręgowego wydaje decyzję o sprzeciwie wobec zamiaru podjęcia zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym w szkole wyższej, jeżeli uzna, że będzie ono przeszkadzało w pełnieniu obowiązków prokuratora, oraz wobec podejmowania lub kontynuowania innego zajęcia, które przeszkadza w pełnieniu obowiązków prokuratora albo przynosi ujmę godności jego urzędu lub osłabia zaufanie do jego bezstronności.
+
+” ;
+
+### 26)
+
+w art. 49a ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Naczelny Prokurator Wojskowy, Dyrektor Głównej Komisji, Dyrektor Biura Lustracyjnego, prokuratorzy Prokuratury Generalnej, prokuratorzy Naczelnej Prokuratury Wojskowej, prokuratorzy Głównej Komisji, prokuratorzy Biura Lustracyjnego, prokuratorzy apelacyjni, wojskowi prokuratorzy okręgowi oraz naczelnicy oddziałowych komisji i naczelnicy oddziałowych biur lustracyjnych oświadczenie, o którym mowa w ust. 1, składają Prokuratorowi Generalnemu, który dokonuje analizy danych zawartych w oświadczeniach w terminie do dnia 30 czerwca każdego roku.
+
+” ;
+
+### 27)
+
+w art. 50:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prokurator Generalny może delegować prokuratora powszechnej jednostki organizacyjnej prokuratury, a prokuratora wojskowej jednostki organizacyjnej prokuratury w porozumieniu z Ministrem Obrony Narodowej, do innej jednostki organizacyjnej prokuratury, a na wniosek Ministra Sprawiedliwości także do Ministerstwa Sprawiedliwości lub innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, zgodnie z kwalifikacjami prokuratora. Prokurator Generalny w porozumieniu z Ministrem Obrony Narodowej może również delegować prokuratora powszechnej jednostki organizacyjnej prokuratury do wojskowej jednostki organizacyjnej prokuratury. Delegowanie na okres dłuższy niż sześć miesięcy w ciągu roku może nastąpić tylko za zgodą prokuratora.
+
+” ,
+
+### b)
+
+uchyla się ust. 1a,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Prokurator delegowany do innej jednostki organizacyjnej prokuratury, z wyjątkiem Prokuratury Generalnej, po sześciu miesiącach delegowania uzyskuje na pozostały okres delegacji prawo do wynagrodzenia zasadniczego w stawce podstawowej, przewidzianego dla prokuratora tej jednostki.
+
+” ,
+
+### d)
+
+uchyla się ust. 4a,
+
+### e)
+
+ust. 6b otrzymuje brzmienie:
+
+„
+
+### 6b.
+
+Prokurator delegowany do Ministerstwa Sprawiedliwości lub do Prokuratury Generalnej ma prawo do wynagrodzenia zasadniczego przysługującego mu na zajmowanym stanowisku prokuratorskim oraz dodatku za długoletnią pracę. W okresie delegowania prokurator otrzymuje dodatek funkcyjny określony w rozporządzeniu wydanym na podstawie art. 62 ust. 2.
+
+” ,
+
+### f)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+W okresie delegowania, o którym mowa w ust. 6b, ze względu na charakter pracy i zakres wykonywanych zadań, prokuratorowi może być przyznany odpowiednio przez Ministra Sprawiedliwości lub Prokuratora Generalnego dodatek specjalny w kwocie nieprzekraczającej 40% łącznie wynagrodzenia zasadniczego i dodatku funkcyjnego. Dodatek przyznaje się na czas określony, a w indywidualnych wypadkach - także na czas nieokreślony.
+
+” ,
+
+### g)
+
+ust. 10 otrzymuje brzmienie:
+
+„
+
+### 10.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, tryb i szczegółowe warunki delegowania prokuratorów do pełnienia obowiązków w Prokuraturze Generalnej lub Ministerstwie Sprawiedliwości, a także pełnienia czynności administracyjnych lub prowadzenia zajęć szkoleniowych w Krajowej Szkole Sądownictwa i Prokuratury oraz tryb i szczegółowe warunki realizacji prawa do nieodpłatnego zakwaterowania i zwrotu kosztów zamieszkania w miejscu delegowania, w tym maksymalną wysokość zwrotu kosztów faktycznie poniesionych oraz wysokość miesięcznego ryczałtu, przy uwzględnieniu możliwości zróżnicowania jego wysokości w zależności od miejscowości delegowania, a także tryb, szczegółowe warunki 5 zakres innych świadczeń, mając na względzie zakres świadczeń przysługujących pracownikom odbywającym podróże służbowe i czasowo przenoszonym oraz konieczność zapewnienia warunków do prawidłowego wykonywania obowiązków i powierzonej prokuratorowi funkcji.
+
+” ;
+
+### 28)
+
+w art. 51a w ust. 2 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+Prokurator Generalny - z tytułu wypadku przy pracy lub choroby zawodowej prokuratora apelacyjnego, prokuratora Prokuratury Generalnej, Dyrektora Głównej Komisji, Dyrektora Biura Lustracyjnego, prokuratora delegowanego do wykonywania czynności w Ministerstwie Sprawiedliwości lub w Prokuraturze Generalnej oraz Naczelnego Prokuratora Wojskowego, w sytuacji gdy wymieniony nie jest uprawniony do odpowiednich świadczeń odszkodowawczych z tytułu pełnienia czynnej służby wojskowej;
+
+” ;
+
+### 29)
+
+art. 54 i art. 54a otrzymują brzmienie:
+
+„
+
+### Art. 54.
+
+### 1.
+
+Prokurator nie może być pociągnięty do odpowiedzialności karnej ani tymczasowo aresztowany bez zezwolenia sądu dyscyplinarnego, a zatrzymany - bez zgody przełożonego dyscyplinarnego. Nie dotyczy to zatrzymania na gorącym uczynku popełnienia przestępstwa. Do wydania zezwolenia na pociągnięcie prokuratora do odpowiedzialności karnej wolno przedsięwziąć tylko czynności niecierpiące zwłoki, zawiadamiając o tym niezwłocznie prokuratora przełożonego.
+
+### 2.
+
+Do czasu rozstrzygnięcia wniosku o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej lub łącznego wniosku o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej i tymczasowe aresztowanie prokuratora, sąd dyscyplinarny może polecić niezwłoczne zwolnienie prokuratora zatrzymanego na gorącym uczynku.
+
+### 3.
+
+Wniosek o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej, jeżeli nie pochodzi od prokuratora, powinien być sporządzony i podpisany przez adwokata albo radcę prawnego będącego pełnomocnikiem.
+
+### 4.
+
+Jeżeli wniosek o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej lub wniosek o zezwolenie na tymczasowe aresztowanie prokuratora nie odpowiada warunkom formalnym pisma procesowego określonym w Kodeksie postępowania karnego, przewodniczący sądu dyscyplinarnego odmawia jego przyjęcia. Na zarządzenie o odmowie przyjęcia wniosku przysługuje zażalenie do sądu dyscyplinarnego w terminie siedmiu dni od daty jego doręczenia.
+
+### 5.
+
+Uchwałę zezwalającą na pociągnięcie prokuratora do odpowiedzialności karnej oraz uchwałę zezwalającą na tymczasowe aresztowanie prokuratora wydaje się, jeżeli zachodzi dostatecznie uzasadnione podejrzenie popełnienia przez niego przestępstwa. Sąd dyscyplinarny rozpoznaje wniosek na posiedzeniu, w terminie czternastu dni od daty jego otrzymania.
+
+### 6.
+
+Sąd dyscyplinarny orzeka wyłącznie na podstawie treści wniosku i dowodów załączonych przez wnioskodawcę. Sąd dyscyplinarny wzywa prokuratora, którego wniosek dotyczy, do złożenia pisemnego oświadczenia lub do osobistego stawiennictwa celem odebrania od niego ustnego oświadczenia.
+
+### 7.
+
+Prokurator, którego dotyczy postępowanie, ma prawo wglądu do dokumentów, które zostały załączone do wniosku. Jeżeli prokurator, kierując wniosek do sądu dyscyplinarnego zastrzegł, że dokumenty te lub ich część nie mogą być udostępnione z uwagi na dobro postępowania przygotowawczego, w przedmiocie zastrzeżenia rozstrzyga sąd dyscyplinarny. Orzeczenie sądu dyscyplinarnego jest ostateczne.
+
+### 8.
+
+Rozstrzygając w przedmiocie wniosku o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej, wniosku o zezwolenie na tymczasowe aresztowanie prokuratora lub zastrzeżenia, o którym mowa w ust. 7 zdanie 2, sąd dyscyplinarny podejmuje uchwałę większością głosów. Uchwała zawiera rozstrzygnięcie wraz z uzasadnieniem.
+
+### 9.
+
+Uchwałę doręcza się niezwłocznie wnioskodawcy, prokuratorowi, którego wniosek dotyczy, i rzecznikowi dyscyplinarnemu.
+
+### 10.
+
+W terminie siedmiu dni od doręczenia uchwały odmawiającej zezwolenia na pociągnięcie prokuratora do odpowiedzialności karnej lub zastosowanie wobec niego tymczasowego aresztowania, wnioskodawcy oraz rzecznikowi dyscyplinarnemu przysługuje zażalenie do Odwoławczego Sądu Dyscyplinarnego, a w sprawie prokuratora wojskowej jednostki organizacyjnej prokuratury - do Sądu Dyscyplinarnego w Naczelnej Prokuraturze Wojskowej w drugiej instancji. W tym samym terminie prokuratorowi przysługuje zażalenie na uchwałę zezwalającą na pociągnięcie go do odpowiedzialności karnej lub zastosowanie wobec niego tymczasowego aresztowania.
+
+### 11.
+
+Przewodniczący Odwoławczego Sądu Dyscyplinarnego lub Sądu Dyscyplinarnego w Naczelnej Prokuraturze Wojskowej w drugiej instancji przesyła odpisy odwołań pozostałym podmiotom uczestniczącym w postępowaniu, którym przysługuje prawo do pisemnego ustosunkowania się do odwołania w terminie siedmiu dni od daty ich doręczenia.
+
+### 12.
+
+Odwoławczy Sąd Dyscyplinarny lub Sąd Dyscyplinarny w Naczelnej Prokuraturze Wojskowej w drugiej instancji orzeka na rozprawie z udziałem wnioskodawcy, prokuratora, którego wniosek dotyczy, oraz rzecznika dyscyplinarnego. Niestawiennictwo stron nie stanowi przeszkody do rozpoznania sprawy, chyba że Odwoławczy Sąd Dyscyplinarny lub Sąd Dyscyplinarny w Naczelnej Prokuraturze Wojskowej w drugiej instancji postanowi inaczej.
+
+### 13.
+
+W zakresie nieuregulowanym w niniejszym artykule, do postępowania przed sądem dyscyplinarnym i Odwoławczym Sądem Dyscyplinarnym lub Sądem Dyscyplinarnym w Naczelnej Prokuraturze Wojskowej w drugiej instancji w sprawach o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej oraz o zezwolenie na zastosowanie wobec niego tymczasowego aresztowania lub orzeczenia w przedmiocie zastrzeżenia, o którym mowa w ust. 7, stosuje się przepisy o postępowaniu dyscyplinarnym.
+
+### Art. 54a.
+
+Za wykroczenie prokurator odpowiada tylko dyscyplinarnie.
+
+” ;
+
+### 30)
+
+uchyla się art. 54b i art. 54c;
+
+### 31)
+
+uchyla się art. 59;
+
+### 32)
+
+w art. 62:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wynagrodzenie zasadnicze prokuratorów zajmujących równorzędne stanowiska prokuratorskie jest równe; wysokość wynagrodzenia prokuratorów zajmujących równorzędne stanowiska prokuratorskie różnicuje staż pracy lub pełnione funkcje. Wynagrodzenie zasadnicze prokuratorów jest równe wynagrodzeniu zasadniczemu sędziów w takich samych jednostkach organizacyjnych sądów powszechnych. Wynagrodzenie zasadnicze Prokuratora Generalnego i prokuratorów Prokuratury Generalnej jest równe wynagrodzeniu zasadniczemu sędziów Sądu Najwyższego. Stawki dodatków funkcyjnych Prokuratora Generalnego i jego zastępców są równe dodatkom funkcyjnym odpowiednio Pierwszego Prezesa Sądu Najwyższego i Prezesa Sądu Najwyższego.
+
+” ,
+
+### b)
+
+ust. 1l otrzymuje brzmienie:
+
+„
+
+### 1l.
+
+Przepisów ust. 1a, 1ba oraz ust. 1ea-1ee nie stosuje się do prokuratorów Prokuratury Generalnej.
+
+” ;
+
+### 33)
+
+w art. 62a ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Do prokuratorów stosuje się odpowiednio, z zastrzeżeniem ust. 2-5, przepisy art. 69-71, art. 73 i 74, art. 76, art. 85 § 4, art. 99-102 i art. 104 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 157, poz. 1241.](#gloss-0:3:)). Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, przewidziane w ustawie - Prawo o ustroju sądów powszechnych uprawnienia Krajowej Rady Sądownictwa i Ministra Sprawiedliwości przysługują w stosunku do prokuratorów odpowiednio Krajowej Radzie Prokuratury i Prokuratorowi Generalnemu, a uprawnienia kolegiów i prezesów właściwych sądów - właściwym prokuratorom przełożonym.
+
+” ;
+
+### 34)
+
+art. 64 otrzymuje brzmienie:
+
+„
+
+### Art. 64.
+
+Przepisów art. 45 ust. 1-3, art. 46, 47, art. 50 ust. 4 i 7-9, art. 51, 51a, 56 i 58 nie stosuje się do prokuratorów wojskowych jednostek organizacyjnych prokuratury, będących oficerami. W razie zbiegu prawa do urlopu, o którym mowa w art. 52, z prawem do dodatkowego urlopu wypoczynkowego, określonego w ustawie o służbie wojskowej żołnierzy zawodowych, przysługuje jeden urlop w najwyższym wymiarze.
+
+” ;
+
+### 35)
+
+w art. 67 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wymierzenie kary określonej w ust. 1 pkt 2-4 pociąga za sobą pozbawienie możliwości awansowania przez okres trzech lat oraz niemożność udziału w tym okresie w kolegium prokuratury okręgowej, w kolegium prokuratury apelacyjnej i w zgromadzeniu prokuratorów, w Krajowej Radzie Prokuratury i w sądzie dyscyplinarnym.
+
+” ;
+
+### 36)
+
+w art. 70 ust. 1a otrzymuje brzmienie:
+
+„
+
+### 1a.
+
+Sądy dyscyplinarne są ponadto właściwe do orzekania w sprawach, o których mowa w art. 8 ust. 7a oraz w art. 54 i art. 54a.
+
+” ;
+
+### 37)
+
+w art. 99 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Postanowienia o zawieszeniu postępowania, postanowienia kończące postępowanie przygotowawcze, akty oskarżenia oraz środki odwoławcze sporządzone przez asesora podlegają aprobacie prokuratora bezpośrednio przełożonego. Aprobata polega na akceptacji projektu decyzji.
+
+” ;
+
+### 38)
+
+w art. 100a:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Asystent prokuratora w Prokuraturze Generalnej wykonuje także inne czynności, zlecone przez przełożonego.
+
+” ,
+
+### b)
+
+ust. 13 otrzymuje brzmienie:
+
+„
+
+### 13.
+
+Asystenci prokuratora w Prokuraturze Generalnej są zatrudniani na zasadach określonych w art. 471 ust. 1 pkt 2 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ([Dz. U. z 2001 r. Nr 86, poz. 953](https://api.sejm.gov.pl/eli/acts/DU/2001/953/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1218, Nr 218, poz. 1592 i Nr 220, poz. 1600, z 2007 r. Nr 89, poz. 589 oraz z 2008 r. Nr 157, poz. 976 i Nr 227, poz. 1505.](#gloss-0:4:)).
+
+” ;
+
+### 39)
+
+po rozdziale 6a dodaje się rozdział 6b w brzmieniu:
+
+„
+
+### Rozdział 6b
+
+Budżet powszechnych jednostek organizacyjnych prokuratury
+
+### Art. 101b.
+
+### 1.
+
+Dochody i wydatki powszechnych jednostek organizacyjnych prokuratury stanowią w budżecie państwa odrębną część, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Wydatki na szkolenie i doskonalenie zawodowe kadr powszechnych jednostek organizacyjnych prokuratury realizowane przez Krajową Szkołę Sądownictwa i Prokuratury pokrywane są z budżetu państwa z części, której dysponentem jest Minister Sprawiedliwości.
+
+### Art. 101c.
+
+Dysponentem części budżetowej odpowiadającej prokuraturze jest Prokurator Generalny, z zastrzeżeniem art. 108 ust. 1a niniejszej ustawy oraz art. 121 ust. 2 ustawy z dnia 30 czerwca 2005 r. o finansach publicznych ([Dz. U. Nr 249, poz. 2104](https://api.sejm.gov.pl/eli/acts/DU/2005/2104/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619, Nr 79, poz. 666 i Nr 161, poz. 1277.](#gloss-0:5:)).
+
+” ;
+
+### 40)
+
+w art. 116:
+
+### a)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+Prokuraturze Generalnej i Naczelnej Prokuraturze Wojskowej;
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Okres służby lub pracy na stanowisku prokuratora Naczelnej Prokuratury Wojskowej jest równorzędny z okresem pracy na stanowisku prokuratora Prokuratury Generalnej lub prokuratora Prokuratury Krajowej i liczy się od dnia objęcia stanowiska prokuratora Naczelnej Prokuratury Wojskowej.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ([Dz. U. z 2003 r. Nr 221, poz. 2199](https://api.sejm.gov.pl/eli/acts/DU/2003/2199/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1202 i Nr 210, poz. 2135, z 2005 r. Nr 48, poz. 446 i Nr 169, poz. 1414, z 2006 r. Nr 104, poz. 708 oraz z 2009 r. Nr 144, poz. 1177.](#gloss-0:6:)) w art. 7b ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Wniosek o wyrażenie zgody na pociągnięcie posła lub senatora do odpowiedzialności karnej w sprawie o przestępstwo ścigane z oskarżenia publicznego składa się za pośrednictwem Prokuratora Generalnego.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ([Dz. U. Nr 89, poz. 555](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178 i Nr 168, poz. 1323.](#gloss-0:7:)) w art. 45 uchyla się § 1c.
+
+### Art. 4.
+
+W ustawie z dnia 25 czerwca 1997 r. o świadku koronnym ([Dz. U. z 2007 r. Nr 36, poz. 232](https://api.sejm.gov.pl/eli/acts/DU/2007/232/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 5 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Postanowienie w przedmiocie dopuszczenia dowodu z zeznań świadka koronnego wydaje sąd okręgowy właściwy dla miejsca prowadzenia postępowania przygotowawczego na wniosek prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, złożony po uzyskaniu zgody Prokuratora Generalnego.
+
+” ;
+
+### 2)
+
+w art. 18 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Zażalenie w przedmiocie wydania dokumentów, przeprowadzenia zabiegu chirurgicznego lub operacji plastycznej, o których mowa w art. 14, rozpoznaje Prokurator Generalny.
+
+” ;
+
+### 3)
+
+w art. 24 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Uprawnienia Prokuratora Generalnego, o których mowa w art. 5 ust. 1 i art. 18 ust. 5, przysługują odpowiednio Naczelnemu Prokuratorowi Wojskowemu.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym ([Dz. U. Nr 102, poz. 643](https://api.sejm.gov.pl/eli/acts/DU/1997/643/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 13 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W Zgromadzeniu Ogólnym mają prawo wziąć udział przewodniczący zainteresowanych komisji sejmowych, komisji senackich, Prezes Najwyższej Izby Kontroli, Minister Sprawiedliwości, Prokurator Generalny, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego, Rzecznik Praw Obywatelskich i Rzecznik Praw Dziecka.
+
+” ;
+
+### 2)
+
+w art. 29 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+W sprawach rozpoznawanych przez Trybunał w pełnym składzie uczestniczy Prokurator Generalny lub jego zastępca. W sprawach rozpoznawanych w innych składach uczestniczy prokurator Prokuratury Generalnej.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne ([Dz. U. z 2006 r. Nr 216, poz. 1584](https://api.sejm.gov.pl/eli/acts/DU/2006/1584/text.html) oraz z [2008 r. Nr 223, poz. 1458](https://api.sejm.gov.pl/eli/acts/DU/2008/1458/text.html)) w art. 8:
+
+### a)
+
+w ust. 3 po wyrazach „Prezes Najwyższej Izby Kontroli,” dodaje się wyrazy „Prokurator Generalny,”,
+
+### b)
+
+w ust. 4 po wyrazach „wiceprezesa Najwyższej Izby Kontroli,” dodaje się wyrazy „Prokuratora Generalnego,”.
+
+### Art. 7.
+
+W ustawie z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury ([Dz. U. Nr 162, poz. 1125](https://api.sejm.gov.pl/eli/acts/DU/1998/1125/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71, z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959 oraz z 2009 r. Nr 26, poz. 157.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 4 ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Prezes lub prokurator kierujący jednostką organizacyjną prokuratury, przed przyjęciem osoby na staż urzędniczy, zasięga informacji o niej z Krajowego Rejestru Karnego oraz zwraca się do właściwego organu Policji o nadesłanie informacji o tej osobie, zawierającej istotne dla oceny spełniania wymogu nieposzlakowanej opinii, dane o:
+
+### 1)
+
+zachowaniach świadczących o naruszaniu przez nią porządku prawnego,
+
+### 2)
+
+kontaktach ze środowiskami przestępczymi lub grupami środowiskowymi patologii społecznej i o charakterze tych kontaktów,
+
+### 3)
+
+okolicznościach wskazujących na uzależnienie od alkoholu, środków odurzających lub substancji psychotropowych.
+
+” ;
+
+### 2)
+
+w art. 5 pkt 4a otrzymuje brzmienie:
+
+„
+
+### 4a)
+
+Prokuraturze Generalnej - Prokurator Generalny,
+
+” ;
+
+### 3)
+
+art. 11a otrzymuje brzmienie:
+
+„
+
+### Art. 11a.
+
+### 1.
+
+Minister Sprawiedliwości może delegować urzędnika, za jego zgodą, do wykonywania obowiązków służbowych w innym sądzie, Ministerstwie Sprawiedliwości lub innej jednostce organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
+
+### 2.
+
+Minister Sprawiedliwości może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie lub Ministerstwie Sprawiedliwości, mających siedzibę w tej samej miejscowości, na czas określony, nie dłuższy niż dwa lata. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 3.
+
+Właściwy prezes sądu apelacyjnego może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie w obszarze danej apelacji, na warunkach określonych w ust. 1, na czas określony, nie dłuższy niż rok, a na warunkach określonych w ust. 2 - na czas określony, nie dłuższy niż sześć miesięcy. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 4.
+
+Minister Sprawiedliwości, jeżeli przemawiają za tym potrzeby sądownictwa, może delegować urzędnika do wykonywania obowiązków służbowych w innym sądzie lub Ministerstwie Sprawiedliwości, mających siedzibę w innej miejscowości, na czas określony, nie dłuższy niż sześć miesięcy w ciągu roku. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 5.
+
+Delegowaniu nie podlegają urzędnicy zajmujący w sądzie stanowiska: dyrektora sądu, zastępcy dyrektora sądu, kierownika sądu rejonowego, głównego księgowego, audytora wewnętrznego.
+
+### 6.
+
+Niedopuszczalne jest delegowanie, bez zgody zainteresowanego, do sądu lub Ministerstwa Sprawiedliwości, mającego siedzibę w innej miejscowości, kobiety w ciąży lub urzędnika sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika.
+
+### 7.
+
+Urzędnik delegowany na podstawie ust. 1, na czas nieokreślony, może być odwołany z delegowania, względnie z niego ustąpić za trzymiesięcznym uprzedzeniem.
+
+### 8.
+
+W okresie delegowania urzędnik ma prawo do wynagrodzenia przysługującego mu na dotychczas zajmowanym stanowisku i dodatku za wieloletnią pracę. W przypadku powierzenia pełnienia funkcji w okresie delegowania urzędnikowi przysługuje dodatek funkcyjny w stawce przewidzianej dla tej funkcji.
+
+### 9.
+
+W okresie delegowania do Ministerstwa Sprawiedliwości urzędnik otrzymuje także dodatek funkcyjny z tytułu delegowania.
+
+### 10.
+
+Jeżeli delegowanie następuje do innej miejscowości niż miejscowość będąca siedzibą sądu, w której urzędnik jest zatrudniony, przysługuje mu prawo do bezpłatnego zakwaterowania lub zwrotu kosztów zamieszkania w miejscu delegowania, a także świadczenia dodatkowe, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pracy: zwrot kosztów przejazdu, diety, zwrot kosztów noclegu lub ryczałt za nocleg, jednorazowy ryczałt z tytułu przeniesienia, zwrot kosztów przewozu urządzenia domowego.
+
+### 11.
+
+Świadczenia związane z delegowaniem urzędnika wypłaca odpowiednio sąd, do którego urzędnik został delegowany, albo Ministerstwo Sprawiedliwości.
+
+### 12.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe warunki delegowania urzędników do wykonywania obowiązków służbowych w Ministerstwie Sprawiedliwości, wysokość dodatku funkcyjnego z tytułu delegowania oraz szczegółowe warunki i zakres świadczeń dodatkowych związanych z delegowaniem urzędników poza stałe miejsce pracy, mając na względzie poziom świadczeń przysługujących pracownikom państwowych jednostek sfery budżetowej odbywającym podróże służbowe oraz czasowo przenoszonym.
+
+” ;
+
+### 4)
+
+po art. 11a dodaje się art. 11b w brzmieniu:
+
+„
+
+### Art. 11b.
+
+### 1.
+
+Prokurator Generalny może delegować urzędnika, za jego zgodą, do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury, a na wniosek Ministra Sprawiedliwości do Ministerstwa Sprawiedliwości lub innej jednostki organizacyjnej podległej Ministrowi Sprawiedliwości albo przez niego nadzorowanej, na czas określony, nie dłuższy niż dwa lata, albo na czas nieokreślony.
+
+### 2.
+
+Prokurator Generalny może delegować urzędnika do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury lub na wniosek Ministra Sprawiedliwości do Ministerstwa Sprawiedliwości, mających siedzibę w tej samej miejscowości, na czas określony, nie dłuższy niż dwa lata. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 3.
+
+Właściwy prokurator apelacyjny może delegować urzędnika do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury na obszarze danej apelacji, na warunkach określonych w ust. 1, na czas określony, nie dłuższy niż rok, a na warunkach określonych w ust. 2 - na czas określony, nie dłuższy niż sześć miesięcy. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 4.
+
+Prokurator Generalny, jeżeli przemawiają za tym potrzeby prokuratury, może delegować urzędnika do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury lub na wniosek Ministra Sprawiedliwości do Ministerstwa Sprawiedliwości, mających siedzibę w innej miejscowości, na czas określony, nie dłuższy niż sześć miesięcy w ciągu roku. Delegowanie urzędnika może być powtórzone, bez jego zgody, nie wcześniej niż po upływie dwóch lat.
+
+### 5.
+
+Delegowaniu nie podlegają urzędnicy zajmujący w prokuraturze stanowiska: dyrektora finansowo-administracyjnego, głównego księgowego i audytora wewnętrznego.
+
+### 6.
+
+Niedopuszczalne jest delegowanie, bez zgody zainteresowanego, do prokuratury lub Ministerstwa Sprawiedliwości, mającego siedzibę w innej miejscowości, kobiety w ciąży lub urzędnika sprawującego opiekę nad dzieckiem w wieku do czternastu lat, a także w wypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne urzędnika.
+
+### 7.
+
+Urzędnik delegowany na podstawie ust. 1, na czas nieokreślony, może być odwołany z delegowania, względnie z niego ustąpić za trzymiesięcznym uprzedzeniem.
+
+### 8.
+
+W okresie delegowania urzędnik ma prawo do wynagrodzenia przysługującego mu na dotychczas zajmowanym stanowisku i dodatku za wieloletnią pracę. W przypadku powierzenia pełnienia funkcji w okresie delegowania urzędnikowi przysługuje dodatek funkcyjny w stawce przewidzianej dla tej funkcji.
+
+### 9.
+
+W okresie delegowania do Prokuratury Generalnej lub Ministerstwa Sprawiedliwości urzędnik otrzymuje także dodatek funkcyjny z tytułu delegowania.
+
+### 10.
+
+Jeżeli delegowanie następuje do innej miejscowości niż miejscowość będąca siedzibą prokuratury, w której urzędnik jest zatrudniony, przysługuje mu prawo do bezpłatnego zakwaterowania lub zwrotu kosztów zamieszkania w miejscu delegowania, a także świadczenia dodatkowe, rekompensujące niedogodności wynikające z delegowania poza stałe miejsce pracy: zwrot kosztów przejazdu, diety, zwrot kosztów noclegu lub ryczałt za nocleg, jednorazowy ryczałt z tytułu przeniesienia, zwrot kosztów przewozu urządzenia domowego.
+
+### 11.
+
+Świadczenia związane z delegowaniem urzędnika wypłaca odpowiednio jednostka organizacyjna prokuratury, do której urzędnik został delegowany, albo Ministerstwo Sprawiedliwości.
+
+### 12.
+
+Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe warunki delegowania urzędników do wykonywania obowiązków służbowych w innej jednostce organizacyjnej prokuratury lub w Ministerstwie Sprawiedliwości, wysokość dodatku funkcyjnego z tytułu delegowania do Prokuratury Generalnej lub Ministerstwa Sprawiedliwości oraz szczegółowe warunki i zakres świadczeń dodatkowych związanych z delegowaniem urzędników poza stałe miejsce pracy, mając na względzie poziom świadczeń przysługujących pracownikom państwowych jednostek sfery budżetowej odbywającym podróże służbowe oraz czasowo przenoszonym.
+
+” .
+
+### Art. 8.
+
+W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu ([Dz. U. z 2007 r. Nr 63, poz. 424](https://api.sejm.gov.pl/eli/acts/DU/2007/424/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 432, Nr 83, poz. 561, Nr 85, poz. 571 i Nr 140, poz. 983.](#gloss-0:10:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 19:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prokuratorów Głównej Komisji oraz oddziałowych komisji powołuje Prokurator Generalny na wniosek Krajowej Rady Prokuratury oraz odwołuje na wniosek Prezesa Instytutu Pamięci.
+
+” ,
+
+### b)
+
+uchyla się ust. 4,
+
+### c)
+
+ust. 7 otrzymuje brzmienie:
+
+„
+
+### 7.
+
+Prokuratorów Biura Lustracyjnego i prokuratorów oddziałowych biur lustracyjnych powołuje Prokurator Generalny na wniosek Krajowej Rady Prokuratury oraz odwołuje na wniosek Prezesa Instytutu Pamięci.
+
+” ;
+
+### 2)
+
+w art. 47:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Polecenia Prokuratora Generalnego, wykraczające poza zakres zadań Instytutu Pamięci, mogą być wydawane prokuratorom Głównej Komisji i oddziałowych komisji tylko za zgodą Prezesa Instytutu Pamięci.
+
+” ,
+
+### b)
+
+uchyla się ust. 4a,
+
+### c)
+
+ust. 5 otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Wynagrodzenie prokuratorów Głównej Komisji określają przepisy o wynagrodzeniu prokuratorów Prokuratury Generalnej, zaś wynagrodzenie prokuratorów oddziałowych komisji określają przepisy o wynagrodzeniu prokuratorów prokuratury apelacyjnej. Wynagrodzenie to wraz ze związanymi z nim świadczeniami o charakterze osobowym finansowane jest ze środków Instytutu Pamięci.
+
+” .
+
+### Art. 9.
+
+W ustawie z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ([Dz. U. z 2005 r. Nr 196, poz. 1631](https://api.sejm.gov.pl/eli/acts/DU/2005/1631/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 149, poz. 1078, Nr 218, poz. 1592 i Nr 220, poz. 1600, z 2007 r. Nr 25, poz. 162 oraz z 2008 r. Nr 171, poz. 1056.](#gloss-0:11:)) w art. 53 w ust. 2 po wyrazach „Minister Sprawiedliwości,” dodaje się wyrazy „Prokurator Generalny, Pierwszy Prezes Sądu Najwyższego,”.
+
+### Art. 10.
+
+W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r., Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 157, poz. 1241.](#gloss-0:12:)) w art. 64 § 1a otrzymuje brzmienie:
+
+„
+
+### § 1a.
+
+Na stanowisko sędziego sądu apelacyjnego może być powołany również prokurator, który posiada co najmniej sześcioletni okres pracy na stanowisku prokuratora lub sędziego, w tym co najmniej trzyletni okres pracy na stanowisku prokuratora prokuratury okręgowej, prokuratora wojskowej prokuratury okręgowej, sędziego sądu okręgowego, sędziego wojskowego sądu okręgowego lub prokuratora prokuratury apelacyjnej, Prokuratury Krajowej, Prokuratury Generalnej, Naczelnej Prokuratury Wojskowej lub prokuratora Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.
+
+” .
+
+### Art. 11.
+
+W ustawie z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia ([Dz. U. z 2008 r. Nr 133, poz. 848](https://api.sejm.gov.pl/eli/acts/DU/2008/848/text.html), [Nr 214, poz. 1344](https://api.sejm.gov.pl/eli/acts/DU/2008/1344/text.html) i [Nr 237, poz. 1651](https://api.sejm.gov.pl/eli/acts/DU/2008/1651/text.html)) w art. 110 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Kasację w sprawach o wykroczenia może wnieść wyłącznie Prokurator Generalny lub Rzecznik Praw Obywatelskich, a w sprawach podlegających orzecznictwu sądów wojskowych także Naczelny Prokurator Wojskowy. Kasację można wnieść od każdego prawomocnego orzeczenia kończącego postępowanie sądowe.
+
+” .
+
+### Art. 12.
+
+W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ([Dz. U. Nr 153, poz. 1270](https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text.html), z późn. zm.[13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367 oraz z 2009 r. Nr 53, poz. 433 i Nr 144, poz. 1179.](#gloss-0:13:)) art. 265 otrzymuje brzmienie:
+
+„
+
+### Art. 265.
+
+W posiedzeniu całego składu Naczelnego Sądu Administracyjnego lub w posiedzeniu Izby udział Prokuratora Generalnego lub jego zastępcy jest obowiązkowy. W posiedzeniu składu siedmiu sędziów bierze udział prokurator Prokuratury Generalnej.
+
+” .
+
+### Art. 13.
+
+W ustawie z dnia 23 listopada 2002 r. o Sądzie Najwyższym ([Dz. U. Nr 240, poz. 2052](https://api.sejm.gov.pl/eli/acts/DU/2002/2052/text.html), z późn. zm.[14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 234, poz. 1571 oraz z 2009 r. Nr 56, poz. 459 i Nr 157, poz. 1241.](#gloss-0:14:)) w art. 61 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+O posiedzeniu pełnego składu Sądu Najwyższego, składu izby (izb) zawiadamia się Prokuratora Generalnego. Udział Prokuratora Generalnego lub jego zastępcy w tym posiedzeniu jest obowiązkowy. W posiedzeniach pozostałych składów Sądu Najwyższego może brać udział prokurator Prokuratury Generalnej, natomiast w Izbie Wojskowej - prokurator Naczelnej Prokuratury Wojskowej.
+
+” .
+
+### Art. 14.
+
+W ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych ([Dz. U. Nr 50, poz. 424](https://api.sejm.gov.pl/eli/acts/DU/2003/424/text.html), z późn. zm.[15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 68, poz. 623 i Nr 116, poz. 1203, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 192, poz. 1378, z 2008 r. Nr 134, poz. 850 oraz z 2009 r. Nr 166, poz. 1317.](#gloss-0:15:)) w art. 16 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+Prokurator Generalny - w związku z toczącym się przeciwko osobie fizycznej postępowaniem karnym lub karnym skarbowym albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji albo w związku z toczącym się postępowaniem karnym lub postępowaniem w sprawie o przestępstwo skarbowe, dotyczącym czynu popełnionego w związku z działaniem osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej;
+
+” .
+
+### Art. 15.
+
+W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów ([Dz. U. z 2007 r. Nr 63, poz. 425](https://api.sejm.gov.pl/eli/acts/DU/2007/425/text.html), z późn. zm.[16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242.](#gloss-0:16:)) w art. 22 w ust. 1 pkt 15 otrzymuje brzmienie:
+
+„
+
+### 15)
+
+Prokuratora Generalnego oraz prokuratorów Prokuratury Generalnej, Naczelnego Prokuratora Wojskowego oraz prokuratorów Naczelnej Prokuratury Wojskowej, prokuratora apelacyjnego oraz wojskowego prokuratora okręgowego, a także prokuratorów Instytutu Pamięci Narodowej;
+
+” .
+
+### Art. 16.
+
+W ustawie z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury ([Dz. U. Nr 26, poz. 157](https://api.sejm.gov.pl/eli/acts/DU/2009/157/text.html) i [Nr 56, poz. 459](https://api.sejm.gov.pl/eli/acts/DU/2009/459/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 6:
+
+### a)
+
+w ust. 2 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+3 członków wskazanych przez Krajową Radę Prokuratury;
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister Sprawiedliwości na 3 miesiące przed dniem upływu kadencji członków Rady zwraca się do Krajowej Rady Sądownictwa, Krajowej Rady Prokuratury, Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego oraz podstawowych jednostek organizacyjnych szkół wyższych prowadzących kształcenie na kierunku prawo o wskazanie kandydatów na członków Rady. Wskazanie kandydatów następuje najpóźniej na 30 dni przed dniem upływu kadencji członków Rady.
+
+” ;
+
+### 2)
+
+w art. 12:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Dyrektora Krajowej Szkoły powołuje Minister Sprawiedliwości na okres 5 lat, po zasięgnięciu opinii Krajowej Rady Sądownictwa i Krajowej Rady Prokuratury.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W przypadku powołania sędziego lub prokuratora do pełnienia funkcji Dyrektora Krajowej Szkoły, Minister Sprawiedliwości lub Prokurator Generalny na wniosek Ministra Sprawiedliwości deleguje odpowiednio sędziego lub prokuratora do Krajowej Szkoły na czas trwania kadencji na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241 i Nr 178, poz. 1375.](#gloss-0:17:)) lub w ustawie z dnia 20 czerwca 1985 r. o prokuraturze ([Dz. U. z 2008 r. Nr 7, poz. 39](https://api.sejm.gov.pl/eli/acts/DU/2008/39/text.html), z późn. zm.[18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 178, poz. 1375.](#gloss-0:18:)).
+
+” ;
+
+### 3)
+
+w art. 17 w ust. 12 pkt 6 otrzymuje brzmienie:
+
+„
+
+### 6)
+
+przedstawiciel Krajowej Rady Prokuratury.
+
+” ;
+
+### 4)
+
+w art. 36 w ust. 5:
+
+### a)
+
+zdanie wstępne otrzymuje brzmienie:
+
+„
+
+### 5.
+
+Komisja egzaminacyjna, powołana przez Ministra Sprawiedliwości do przeprowadzenia egzaminu prokuratorskiego, składa się z:
+
+” ,
+
+### b)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+przedstawiciela Krajowej Rady Prokuratury.
+
+” .
+
+### Art. 17.
+
+### 1.
+
+Znosi się Prokuraturę Krajową.
+
+### 2.
+
+Tworzy się Prokuraturę Generalną.
+
+### Art. 18.
+
+### 1.
+
+Pierwszego powołania Prokuratora Generalnego Prezydent Rzeczypospolitej Polskiej dokonuje spośród dwóch kandydatów zgłoszonych przez Krajową Radę Sądownictwa w terminie 2 miesięcy od daty ich zgłoszenia, po zasięgnięciu opinii Rady Prokuratorów przy Prokuratorze Generalnym. Krajowa Rada Sądownictwa dokona zgłoszenia kandydatów w terminie 2 miesięcy od dnia wejścia w życie niniejszego artykułu, spośród osób wymienionych w art. 10a ust. 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### 2.
+
+Do czasu powołania Prokuratora Generalnego i zastępców Prokuratora Generalnego, ich zadania wykonują dotychczasowy Prokurator Generalny i jego zastępcy.
+
+### 3.
+
+Do czasu powołania prokuratorów apelacyjnych, prokuratorów okręgowych i prokuratorów rejonowych oraz ich zastępców, funkcje te pełnią dotychczasowi prokuratorzy apelacyjni, okręgowi i rejonowi oraz ich zastępcy.
+
+### Art. 19.
+
+### 1.
+
+Prokurator Generalny, po zasięgnięciu opinii Rady Prokuratorów przy Prokuratorze Generalnym, z dniem wejścia w życie niniejszej ustawy, powoła prokuratorów Prokuratury Generalnej spośród dotychczasowych prokuratorów Prokuratury Krajowej lub prokuratorów prokuratur apelacyjnych. Przepis art. 14a ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się odpowiednio. Prokuratorom Prokuratury Krajowej, którzy zostaną powołani na stanowiska prokuratorów Prokuratury Generalnej, okres pracy na stanowisku prokuratora Prokuratury Krajowej zalicza się do okresu pracy wymaganego do uzyskania wynagrodzenia zasadniczego w stawce awansowej.
+
+### 2.
+
+Prokurator Generalny przenosi prokuratorów byłej Prokuratury Krajowej, których nie powołał do Prokuratury Generalnej na inne miejsce służbowe w prokuraturach apelacyjnych lub okręgowych z zachowaniem prawa do wynagrodzenia nabytego na dotychczas zajmowanym stanowisku.
+
+### 3.
+
+Prokurator byłej Prokuratury Krajowej może złożyć sprzeciw od decyzji, o której mowa w ust. 2, w terminie 14 dni od daty doręczenia decyzji Prokuratora Generalnego. Złożenie sprzeciwu oznacza przejście w stan spoczynku w terminie miesiąca od daty złożenia sprzeciwu.
+
+### 4.
+
+Do prokuratorów, którzy zostali przeniesieni w stan spoczynku na podstawie przepisu ust. 3, przepis art. 62a ust. 1 ustawy, o której mowa w art. 1, w związku z art. 71 § 3 i art. 100 § 1 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ([Dz. U. Nr 98, poz. 1070](https://api.sejm.gov.pl/eli/acts/DU/2001/1070/text.html), z późn. zm.[19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241 i Nr 178, poz. 1375.](#gloss-0:19:)) stosuje się zgodnie ze statusem służbowym prokuratora w dniu poprzedzającym dzień wejścia w życie niniejszej ustawy.
+
+### 5.
+
+Uposażenie prokuratora Prokuratury Krajowej, który został przeniesiony w stan spoczynku w związku ze zmianą ustroju prokuratury, jest waloryzowane w terminach i wysokości odpowiadających zmianom wynagrodzenia sędziego Sądu Najwyższego.
+
+### 6.
+
+Urzędnicy i inni pracownicy Prokuratury Krajowej stają się pracownikami Prokuratury Generalnej.
+
+### Art. 20.
+
+Do czasu powołania Krajowej Rady Prokuratury przewidziane dla niej obowiązki ustawowe realizuje Rada Prokuratorów przy Prokuratorze Generalnym, z wyjątkiem uprawnienia określonego w art. 24 pkt 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 21.
+
+### 1.
+
+Krajowa Rada Prokuratury na pierwszym posiedzeniu określi termin wyborów członków sądów dyscyplinarnych.
+
+### 2.
+
+Do czasu wyboru nowych członków sądów dyscyplinarnych na podstawie niniejszej ustawy, działają sądy dyscyplinarne utworzone na podstawie przepisów dotychczasowych.
+
+### 3.
+
+Niezakończone prawomocnie sprawy do dnia wyboru członków sądów dyscyplinarnych na podstawie niniejszej ustawy, toczące się w dotychczasowych sądach dyscyplinarnych, przekazuje się sądom dyscyplinarnym utworzonym na podstawie niniejszej ustawy.
+
+### Art. 22.
+
+Przepisy wykonawcze wydane na podstawie art. 17 ust. 5, 5a, 6, 9 i art. 50 ust. 10 ustawy, o której mowa w art. 1, oraz art. 11a ust. 12 ustawy, o której mowa w art. 7, zachowują moc do czasu wydania przepisów wykonawczych na podstawie przepisów art. 17 ust. 13, 14, 15 i 25, art. 50 ust. 10 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz art. 11a ust. 12 i art. 11b ust. 12 ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy, z tym że występujące w tych przepisach regulacje dotyczące Prokuratury Krajowej stosuje się do Prokuratury Generalnej.
+
+### Art. 23.
+
+Minister Sprawiedliwości w terminie 14 dni od dnia wejścia w życie niniejszego artykułu określi i przekaże w drodze zarządzenia środki budżetowe i składniki majątkowe niezbędne do funkcjonowania prokuratury.
+
+### Art. 24.
+
+Ustawa wchodzi w życie z dniem 31 marca 2010 r., z wyjątkiem art. 1 pkt 7, w zakresie dotyczącym art. 10a ust. 3 i 4, pkt 12, w zakresie dotyczącym art. 14a ust. 1, pkt 29, 30 i 32 oraz art. 18 i 23, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora, ustawę z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, ustawę z dnia 25 czerwca 1997 r. o świadku koronnym, ustawę z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym, ustawę z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne, ustawę z dnia 18 grudnia 1998 r. o pracownikach sądów i prokuratury, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawę z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych, ustawę z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia, ustawę z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi, ustawę z dnia 23 listopada 2002 r. o Sądzie Najwyższym, ustawę z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych, ustawę z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów oraz ustawę z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157 i Nr 56, poz. 459. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 157, poz. 1241. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1071, Nr 123, poz. 1353 i Nr 128, poz. 1403, z 2002 r. Nr 1, poz. 18, Nr 153, poz. 1271 i Nr 240, poz. 2052, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71 i Nr 169, poz. 1417, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1218, Nr 218, poz. 1592 i Nr 220, poz. 1600, z 2007 r. Nr 89, poz. 589 oraz z 2008 r. Nr 157, poz. 976 i Nr 227, poz. 1505. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2005 r. Nr 169, poz. 1420, z 2006 r. Nr 45, poz. 319, Nr 104, poz. 708, Nr 170, poz. 1217 i 1218, Nr 187, poz. 1381 i Nr 249, poz. 1832, z 2007 r. Nr 82, poz. 560, Nr 88, poz. 587, Nr 115, poz. 791 i Nr 140, poz. 984, z 2008 r. Nr 180, poz. 1112, Nr 209, poz. 1317, Nr 216, poz. 1370 i Nr 227, poz. 1505 oraz z 2009 r. Nr 19, poz. 100, Nr 62, poz. 504, Nr 72, poz. 619, Nr 79, poz. 666 i Nr 161, poz. 1277. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 116, poz. 1202 i Nr 210, poz. 2135, z 2005 r. Nr 48, poz. 446 i Nr 169, poz. 1414, z 2006 r. Nr 104, poz. 708 oraz z 2009 r. Nr 144, poz. 1177. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641, z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203, Nr 163, poz. 1363, Nr 169, poz. 1416 i Nr 178, poz. 1479, z 2006 r. Nr 15, poz. 118, Nr 66, poz. 467, Nr 95, poz. 659, Nr 104, poz. 708 i 711, Nr 141, poz. 1009 i 1013, Nr 167, poz. 1192 i Nr 226, poz. 1647 i 1648, z 2007 r. Nr 20, poz. 116, Nr 64, poz. 432, Nr 80, poz. 539, Nr 89, poz. 589, Nr 99, poz. 664, Nr 112, poz. 766, Nr 123, poz. 849 i Nr 128, poz. 903, z 2008 r. Nr 27, poz. 162, Nr 100, poz. 648, Nr 107, poz. 686, Nr 123, poz. 802, Nr 182, poz. 1133, Nr 208, poz. 1308, Nr 214, poz. 1344, Nr 225, poz. 1485, Nr 234, poz. 1571 i Nr 237, poz. 1651 oraz z 2009 r. Nr 8, poz. 39, Nr 20, poz. 104, Nr 28, poz. 171, Nr 68, poz. 585, Nr 85, poz. 716, Nr 127, poz. 1051, Nr 144, poz. 1178 i Nr 168, poz. 1323. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417 oraz z 2009 r. Nr 56, poz. 459. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 98, poz. 1070, z 2003 r. Nr 228, poz. 2256, z 2005 r. Nr 10, poz. 71, z 2007 r. Nr 64, poz. 432 i 433, Nr 102, poz. 690 i Nr 136, poz. 959 oraz z 2009 r. Nr 26, poz. 157. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 64, poz. 432, Nr 83, poz. 561, Nr 85, poz. 571 i Nr 140, poz. 983. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711, Nr 149, poz. 1078, Nr 218, poz. 1592 i Nr 220, poz. 1600, z 2007 r. Nr 25, poz. 162 oraz z 2008 r. Nr 171, poz. 1056. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r., Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 157, poz. 1241. 13) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650, z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367 oraz z 2009 r. Nr 53, poz. 433 i Nr 144, poz. 1179. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 25, poz. 219, z 2006 r. Nr 157, poz. 1119, z 2008 r. Nr 234, poz. 1571 oraz z 2009 r. Nr 56, poz. 459 i Nr 157, poz. 1241. 15) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 68, poz. 623 i Nr 116, poz. 1203, z 2006 r. Nr 157, poz. 1119, z 2007 r. Nr 192, poz. 1378, z 2008 r. Nr 134, poz. 850 oraz z 2009 r. Nr 166, poz. 1317. 16) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 83, poz. 561, Nr 85, poz. 571, Nr 115, poz. 789, Nr 165, poz. 1171 i Nr 176, poz. 1242. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241 i Nr 178, poz. 1375. 18) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 1, poz. 4, Nr 26, poz. 156 i 157, Nr 56, poz. 459 i Nr 178, poz. 1375. 19) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703, z 2005 r. Nr 13, poz. 98, Nr 131, poz. 1102, Nr 167, poz. 1398, Nr 169, poz. 1410, 1413 i 1417, Nr 178, poz. 1479 i Nr 249, poz. 2104, z 2006 r. Nr 144, poz. 1044 i Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, Nr 64, poz. 433, Nr 73, poz. 484, Nr 99, poz. 664, Nr 112, poz. 766, Nr 136, poz. 959, Nr 138, poz. 976, Nr 204, poz. 1482 i Nr 230, poz. 1698, z 2008 r. Nr 223, poz. 1457, Nr 228, poz. 1507 i Nr 234, poz. 1571 oraz z 2009 r. Nr 1, poz. 4, Nr 9, poz. 57, Nr 26, poz. 156 i 157, Nr 56, poz. 459, Nr 157, poz. 1241 i Nr 178, poz. 1375.

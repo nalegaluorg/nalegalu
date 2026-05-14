@@ -1,0 +1,688 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 2 marca 2023 r. w sprawie wprowadzenia \"Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)\" na 2023 r."
+address: WDU20230000505
+eli: DU/2023/505
+publisher: DU
+year: 2023
+pos: 505
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 2 marca 2023 r. w sprawie wprowadzenia „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)” na 2023 r. [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 505 |
+| ISAP | WDU20230000505 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-03-02 |
+| Data wydania | 2023-03-16 |
+| Wejście w życie | 2023-03-17 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/505/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/505) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik - Krajowy program zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura {Gallus gallus) na 2023 r.](#part_2)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 57 ust. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt ([Dz. U. z 2020 r. poz. 1421](https://api.sejm.gov.pl/eli/acts/DU/2020/1421/text.html) oraz [z 2022 r. poz. 1570](https://api.sejm.gov.pl/eli/acts/DU/2022/1570/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Na terytorium Rzeczypospolitej Polskiej wprowadza się „Krajowy program zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura ( Gallus gallus )” na 2023 r., stanowiący załącznik do rozporządzenia.
+
+### § 2.
+
+Program, o którym mowa w § 1, stosuje się od dnia 1 stycznia 2023 r.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1950).
+
+## Załącznik - Krajowy program zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura {Gallus gallus) na 2023 r.
+
+### 1.
+
+Zasady ogólne
+
+### 1.1.
+
+Cel „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)” Zgodnie z art. 5 ust. 1 rozporządzenia (WE) nr 2160/2003 Parlamentu Europejskiego i Rady z dnia 17 listopada 2003 r. w sprawie zwalczania salmonelli i innych określonych odzwierzęcych czynników chorobotwórczych przenoszonych przez żywność (Dz. Urz. UE L 325 z 12.12.2003, str. 1, z późn. zm. -Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 41, str. 328), zwanego dalej „rozporządzeniem nr 2160/2003”, zadaniem krajowego programu zwalczania choroby odzwierzęcej i odzwierzęcego czynnika chorobotwórczego jest osiągnięcie celu wspólnotowego ograniczenia rozprzestrzeniania się chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych wymienionych w kolumnie 1 załącznika I do rozporządzenia w populacjach zwierząt wymienionych w kolumnie 2 załącznika I do rozporządzenia nr 2160/2003. Od 2009 r. zwalczanie salmonellozy w stadach brojlerów w Rzeczypospolitej Polskiej prowadzono zgodnie z „Krajowym programem zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)” na lata 2009-2011. Założeniem do tego Krajowego programu było osiągnięcie celu wspólnotowego określonego w art. 1 rozporządzenia Komisji (WE) nr 646/2007 z dnia 12 czerwca 2007 r. wykonującego rozporządzenie (WE) nr 2160/2003 Parlamentu Europejskiego i Rady w odniesieniu do wspólnotowego celu ograniczenia częstości występowania Salmonella enteritidis i Salmonella typhimurium u brojlerów i uchylającego rozporządzenie (WE) nr 1091/2005 (Dz. Urz. WE L 151 z 13.06.2007, str. 21, z późn. zm.), zwanego dalej „rozporządzeniem nr 646/2007”. Cel wspólnotowy określony w rozporządzeniu nr 646/2007 został ustanowiony na okres przejściowy obejmujący trzy lata. Od dnia 12 marca 2012 r. obowiązuje rozporządzenie Komisji (UE) nr 200/2012 z dnia 8 marca 2012 r. w sprawie unijnego celu ograniczenia występowania Salmonella enteritidis i Salmonella typhimurium w stadach brojlerów zgodnie z rozporządzeniem (WE) nr 2160/2003 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 71 z 09.03.2012, str. 31, z późn. zm.), zwane dalej „rozporządzeniem nr 200/2012”, które określa cel unijny i system badawczy konieczny do sprawdzenia, czy osiągnięto cel unijny. Cel ten został osiągnięty w odniesieniu do stad brojlerów gatunku kura (Gallus gallus) na terytorium Rzeczypospolitej Polskiej w odniesieniu do ograniczenia maksymalnej wartości procentowej stad brojlerów z wynikiem dodatnim badania na obecność Salmonella Enteritidis i Salmonella Typhimurium, w tym jednofazowej Salmonella Typhimurium o wzorze antygenowym 1,4,[5],12: i:- do 1%. Obecnie celem programu jest utrzymanie osiągniętego poziomu zakażeń serotypami Salmonella objętymi programem lub obniżenie go poniżej tej wartości. aaa„Krajowy program zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)”, zwany dalej „programem”, został opracowany dla uzyskania współfinansowania unijnego zgodnie z wymaganiami określonymi w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2021/690 z dnia 28 kwietnia 2021 r. ustanawiającym program na rzecz rynku wewnętrznego, konkurencyjności przedsiębiorstw, w tym małych i średnich przedsiębiorstw, dziedziny roślin, zwierząt, żywności i paszy, oraz statystyk europejskich (Program na rzecz jednolitego rynku) oraz uchylającym rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 99/2013, (UE) nr 1287/2013, (UE) nr 254/2014 i (UE) nr 652/2014 (Dz. Urz. UE L 153 z 03.05.2021, str. 1). Cel unijny programu został określony w art. 1 rozporządzenia nr 200/2012 w odniesieniu do następujących serotypów pałeczek Salmonella:
+
+### 1)
+
+Salmonella Enteritidis;
+
+### 2)
+
+Salmonella Typhimurium, w tym jednofazowa Salmonella Typhimurium o wzorze antygenowym 1,4,[5],12: i:-.
+
+Cel unijny został osiągnięty w odniesieniu do stad brojlerów gatunku kura (Gallus gallus)w przypadku ograniczenia na terytorium Rzeczypospolitej Polskiej maksymalnej wartości procentowej stad brojlerów z dodatnim wynikiem badania na obecność serotypów Salmonella objętych programem do 1%. Stado zakażone w odniesieniu do celu unijnego jest to stado brojlerów gatunku kura (Gallus gallus), w którym, w wyniku badania laboratoryjnego próbek pobranych przez powiatowego lekarza weterynarii zgodnie z ust. 1 oraz ust. 2 załącznika do rozporządzenia nr 200/2012 lub próbek pobranych z inicjatywy producenta brojlerów gatunku kura (Gallus gallus), wykryto w jednej lub więcej liczbie próbek serotypy Salmonella objęte programem (inne niż szczepy szczepionkowe) lub stwierdzono efekt hamujący wzrost bakterii. Zgodnie z art. 1 ust. 3 rozporządzenia nr 2160/2003 program nie ma zastosowania przy produkcji mięsa pochodzącego z brojlerów gatunku kura (Gallus gallus)przeznaczonego do sprzedaży bezpośredniej lub na użytek własny.
+
+### 1.2.
+
+Populacja zwierząt i fazy produkcji, które muszą być objęte pobraniem próbek Pobieranie próbek będzie się odbywało na zasadach określonych w ust. 2 załącznika do rozporządzenia nr 200/2012, zgodnie z minimalnymi wymaganiami w zakresie pobierania próbek określonymi w części B załącznika II do rozporządzenia nr 2160/2003.
+
+### Tabela 1. Dane odnośnie liczby gospodarstw oraz liczby kurników, w których są utrzymywane stada brojlerów gatunku kura Gallus gallus w 2021 r.
+
+Łączna liczba gospodarstw utrzymujących stada brojlerów gatunku kura Gallus gallus 4050 Łączna liczba gospodarstw utrzymujących powyżej 5000 sztuk brojlerów gatunku kura Gallus gallus 3994 (źródło: Inspekcja Weterynaryjna)
+
+### 1.3.
+
+Obszary geograficzne i administracyjne, na których program będzie realizowany Program będzie realizowany na terytorium Rzeczypospolitej Polskiej.
+
+### 1.4.
+
+Zgodność programu ze szczególnymi wymaganiami określonymi w części C, D iE załącznika II do rozporządzenia nr 2160/2003 Zgodnie z przepisami części E ust. 1 załącznika II do rozporządzenia nr 2160/2003 świeże mięso drobiowe pozyskane z drobiu wymienionego w załączniku I do tego rozporządzenia (kury, indyki) nie może być wprowadzone do obrotu w celu spożycia przez ludzi, jeżeli nie zostanie spełnione kryterium bezpieczeństwa żywności określone w rozdziale 1 ust. 1.28 załącznika I do rozporządzenia Komisji (WE) nr 2073/2005 z dnia 15 listopada 2005 r. w sprawie kryteriów mikrobiologicznych dotyczących środków spożywczych (Dz. Urz. UE L 338 z 22.12.2005, str. 1, z późn. zm.).
+
+### 1.5.
+
+Występowanie serotypów Salmonella na terytorium Rzeczypospolitej Polskiej Od dnia 1 października 2005 r. do dnia 30 września 2006 r. na terytorium Rzeczypospolitej Polskiej przeprowadzono badania podstawowe dotyczące występowania pałeczek Salmonella w stadach brojlerów gatunku kura (Gallus gallus), zgodnie z decyzją Komisji 2005/636/WE z dnia 1 września 2005 r. w sprawie wkładu finansowego Wspólnoty na rzecz badania podstawowego dotyczącego występowania bakterii Salmonella spp. w stadach brojlerów gatunku Gallus gallus prowadzonego w Państwach Członkowskich (Dz. Urz. UE L 228 z 03.09.2005, str. 14). Do badania pobrano próbki w 383 gospodarstwach utrzymujących powyżej 5000 brojlerów gatunku kura (Gallus gallus). Odsetek stad brojlerów zakażonych pałeczkami Salmonella wyniósł 58,7% i wahał się w poszczególnych województwach od 37,5% (woj. podlaskie) do 77,3%) (woj. lubelskie). Najczęściej notowanymi serotypami Salmonella u brojlerów gatunku kura (Gallus gallus)były: Salmonella Enteritidis (55,6%), Salmonella Infantis (14,4%) i Salmonella Hadar (8,8%), natomiast Salmonella Typhimurium stwierdzono w 4,7%) zakażonych próbek. W 2008 r. przebadano 18 156 stad. Próbki do badań laboratoryjnych były pobierane przez producenta brojlerów gatunku kura (Gallus gallus). Stwierdzono wyniki dodatnie w 977 przypadkach, co stanowi 5,4% przebadanych stad, w tym: odsetek stad zakażonych Salmonella Enteritidis wyniósł 2,9%, Salmonella Typhimurium - 0,2%, a innymi serotypami Salmonella - 2,3%. Najczęściej stwierdzanymi serotypami Salmonella u brojlerów były: Salmonella Enteritidis 2,9%, Salmonella Seftenberg 0,9%, Salmonella Infantis 0,69%. Od 2009 r. na terytorium Rzeczypospolitej Polskiej jest realizowany „Krajowy program zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)”. Wyniki realizacji tego programu za lata 2014-2021 podano w tabeli 2.
+
+### Tabela 2. Wyniki realizacji krajowego programu zwalczania Salmonella w stadach brojlerów gatunku kura (Gallus gallus)w latach 2014-2021
+
+Rok Liczba stad zbadanych Procent stad zakażonych 2021 37 701 0,89% 2020 45 388 0,46% 2019 44 320 0,17% 2018 42 219 0,15% 2017 41 143 0,13% 2016 40 551 0,14% 2015 38 528 0,23% 2014 35 662 0,15% (źródło: Inspekcja Weterynaryjna) Głównym, pierwotnym rezerwuarem odzwierzęcych pałeczek Salmonella w Rzeczypospolitej Polskiej jest drób. Do zakażeń u ludzi w 2017 r., zgodnie z danymi z raportu Europejskiego Urzędu do spraw Bezpieczeństwa Żywności na temat tendencji i źródeł chorób odzwierzęcych, odzwierzęcych czynników chorobotwórczych oraz ognisk przenoszonych przez żywność z 2017 r., dochodziło najczęściej przez spożywanie skażonych produktów pochodzenia zwierzęcego, m.in. jaj i produktów jajecznych oraz mięsa i przetworów mięsnych, w tym drobiowych. Informacje o zachorowaniach na choroby zakaźne, zakażeniach i zatruciach w Polsce są zbierane przez Zakład Epidemiologii Narodowego Instytutu Zdrowia Publicznego - Państwowego Zakładu Higieny, a następnie publikowane na stronie internetowej Zakładu (www.pzh.gov.pl) w postaci dwutygodniowych meldunków o zachorowaniach na choroby zakaźne i zatruciach.
+
+### 1.6.
+
+Struktura i organizacja organów Inspekcji Weterynaryjnej Na terytorium Rzeczypospolitej Polskiej właściwą władzą wykonawczą w zakresie realizacji programów, o których mowa w art. 5 ust. 1 rozporządzenia nr 2160/2003, są organy Inspekcji Weterynaryjnej, tj. Główny Lekarz Weterynarii, wojewódzcy lekarze weterynarii oraz powiatowi lekarze weterynarii. Obecnie funkcjonuje 16 wojewódzkich inspektoratów weterynarii oraz 305 powiatowych inspektoratów weterynarii. Struktura oraz kompetencje organów Inspekcji Weterynaryjnej zostały określone w ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629, z późn. zm.). Zgodnie z art. 57 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2020 r. poz. 1421, z późn. zm.) Główny Lekarz Weterynarii jest odpowiedzialny za opracowanie programu, a następnie nadzoruje jego realizację oraz informuje Komisję Europejską o postępach w jego realizacji. Na poziomie województwa nadzór nad realizacją programu jest sprawowany przez wojewódzkiego lekarza weterynarii. Bezpośredni nadzór nad realizacją programu na poziomie powiatu sprawuje powiatowy lekarz weterynarii, który jest również odpowiedzialny za wykonywanie wszelkich czynności urzędowych w ramach programu. Organy Inspekcji Weterynaryjnej współdziałają przy wykonywaniu swoich zadań z organami Państwowej Inspekcji Sanitarnej, Państwowej Inspekcji Farmaceutycznej, Inspekcji Transportu Drogowego, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz z organami jednostek samorządu terytorialnego. Krajowe laboratorium referencyjne w zakresie badań określonych programem określa rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lipca 2022 r. w sprawie krajowych laboratoriów referencyjnych (Dz. U. poz. 1667).
+
+### 1.7.
+
+Laboratoria, w których przeprowadza się badania laboratoryjne próbek pobranych w ramach programu Badanie laboratoryjne próbek pobieranych w ramach programu przeprowadza się w laboratoriach urzędowych wyznaczonych przez Głównego Lekarza Weterynarii, zgodnie z art. 25 ust. 3 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. W przypadkach uzasadnionych ekonomicznie lub organizacyjnie próbki pobrane w ramach programu przez powiatowego lekarza weterynarii właściwego ze względu na miejsce prowadzenia przez podmiot działalności nadzorowanej, zwanego dalej „powiatowym lekarzem weterynarii”, mogą być przesłane do laboratorium urzędowego wyznaczonego przez Głównego Lekarza Weterynarii, zgodnie z art. 25 ust. 3 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, znajdującego się w innym województwie. Powiatowy lekarz weterynarii jest obowiązany do powiadomienia wojewódzkiego lekarza weterynarii o zamiarze przesłania tych próbek do innego województwa. Wojewódzki lekarz weterynarii właściwy dla powiatu, w którym są pobierane próbki, powiadamia wojewódzkiego lekarza weterynarii właściwego ze względu na położenie laboratorium o zamiarze przesłania próbek. Próbki pobrane z inicjatywy producenta brojlerów gatunku kura {Gallus gallus) mogą być badane również w laboratoriach urzędowych zatwierdzonych przez Głównego Lekarza Weterynarii w trybie art. 25a ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej do wykonywania badań metodą badawczą określoną w ust. 1.8. Wykaz laboratoriów zatwierdzonych przez Głównego Lekarza Weterynarii jest umieszczony na stronie internetowej administrowanej przez Główny Inspektorat Weterynarii (www.wetgiw.gov.pl) zgodnie z art. 25 ust. 8 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. Krajowym laboratorium referencyjnym, właściwym do badania próbek w ramach programu, jest zgodnie z przepisami rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 lipca 2022 r. w sprawie krajowych laboratoriów referencyjnych Laboratorium w Zakładzie Mikrobiologii Państwowego Instytutu Weterynaryjnego - Państwowego Instytutu Badawczego w Puławach. Do próbek przesyłanych do badań laboratoryjnych, pobranych w ramach kontroli urzędowych, dołącza się wypełnione pismo przewodnie, którego wzór jest określony w załączniku nr 7 do rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 4 lipca 2017 r. w sprawie sposobu prowadzenia dokumentacji związanej ze zwalczaniem chorób zakaźnych zwierząt (Dz. U. poz. 1388). W piśmie przewodnim, o którym mowa powyżej, które jest dołączone do próbek kierowanych do badania laboratoryjnego przez producenta brojlerów, umieszcza się informacje zawierające co najmniej następujące dane:
+
+### 1)
+
+imię i nazwisko oraz adres albo nazwę i adres producenta brojlerów;
+
+### 2)
+
+numer lub oznaczenie stada oraz weterynaryjny numer identyfikacyjny gospodarstwa, a w przypadku jego braku - numer z rejestru powiatowego lekarza weterynarii;
+
+### 3)
+
+wiek brojlerów oraz liczbę sztuk w stadzie;
+
+### 4)
+
+liczbę próbek oraz rodzaj pobranego materiału;
+
+### 5)
+
+datę i godzinę pobrania próbek oraz ich wysłania do laboratorium;
+
+### 6)
+
+nazwę i rodzaj zastosowanej szczepionki w stadzie brojlerów oraz datę jej podawania, jeżeli była stosowana;
+
+### 7)
+
+stosowanych środków przeciwdrobnoustrojowych i datę ich użycia, jeżeli były stosowane;
+
+### 8)
+
+imię i nazwisko oraz adres osoby pobierającej próbki.
+
+Laboratoria urzędowe wykonujące badania laboratoryjne w ramach programu, w ramach badania bakteriologicznego oceniają każdorazowo efekt hamujący wzrost bakterii. W przypadku wykrycia serotypu Salmonella innego niż objęły programem identyfikuje się ten serotyp i podaje jego nazwę. Z przeprowadzonych badań laboratoryjnych sporządza się sprawozdanie. W sprawozdaniu umieszcza się informacje o badanym stadzie (numer lub oznaczenie stada oraz weterynaryjny numer identyfikacyjny gospodarstwa, a w przypadku jego braku - numer z rejestru powiatowego lekarza weterynarii), rodzaju badanego materiału oraz wyniku badania każdej z badanych próbek, zgodnie z jednym z następujących sformułowań:
+
+### 1)
+
+Salmonella spp. niewykryte w próbce analitycznej x g (np. kału, kurzu, mekonium, narządów wewnętrznych) lub x par okładzin na buty lub x tamponów. Nie stwierdzono efektu hamującego wzrost bakterii;
+
+### 2)
+
+Salmonella spp. niewykryte w próbce analitycznej x g (np. kału, kurzu, mekonium, narządów wewnętrznych) lub x par okładzin na buty lub x tamponów. Stwierdzono efekt hamujący wzrost bakterii;
+
+### 3)
+
+Salmonella... (należy podać nazwę serotypu lub strukturę antygenową uzyskanego izolatu) wykryte w próbce analitycznej x g (np. kału, kurzu, mekonium, narządów wewnętrznych) lub x par okładzin na buty lub x tamponów. Nie stwierdzono efektu hamującego wzrost bakterii.
+
+W przypadku gdy:
+
+### 1)
+
+pismo przewodnie dołączone do próbek przesyłanych do badania laboratoryjnego nie zawiera co najmniej informacji wymaganych zgodnie z akapitem 7 niniejszego ustępu,
+
+### 2)
+
+ilość lub rodzaj materiału do badań nie spełnia wymogów ustanowionych w załączniku do rozporządzenia nr 200/2012,
+
+### 3)
+
+warunki transportu próbek do laboratorium nie spełniają wymagań ustanowionych w ust. 2.2.4 załącznika do rozporządzenia nr 200/2012
+
+- laboratorium informuje o tym producenta brojlerów przy przyjęciu próbek do badania laboratoryjnego. W przypadku gdy producent brojlerów zdecydował o przeprowadzeniu badania laboratoryjnego, to w sprawozdaniu z przeprowadzonych badań laboratoryjnych umieszcza się informację „Badanie laboratoryjne nie może być traktowane jako przeprowadzone zgodnie z wymaganiami „Krajowego programu zwalczania niektórych serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)” ”. Laboratoria urzędowe przeprowadzające badania laboratoryjne w ramach programu oraz producenci brojlerów po uzyskaniu dodatniego wyniku badań lub stwierdzeniu efektu hamującego wzrost bakterii niezwłocznie, jednak nie później niż do końca następnego dnia roboczego po dniu, w którym uzyskano wynik badania, informują o tym właściwego miejscowo dla lokalizacji stada powiatowego lekarza weterynarii oraz wojewódzkiego lekarza weterynarii. Sprawozdania z badań próbek pobranych zarówno z inicjatywy producenta brojlerów, jak i pobranych przez powiatowego lekarza weterynarii są przesyłane do powiatowego lekarza weterynarii. Laboratoria urzędowe przeprowadzające badania w ramach programu na koniec okresu sprawozdawczego, a także na każde pisemne żądanie wojewódzkiego lekarza weterynarii przekazują zestawienia ze sprawozdań dotyczące tych badań. Laboratoria urzędowe przeprowadzające badania w ramach programu przechowują wszystkie izolaty Salmonella wyizolowane w ramach programu przez okres co najmniej dwóch lat od dnia uzyskania wyniku badań. Ponadto spośród tych izolatów laboratorium przesyła do krajowego laboratorium referencyjnego jeden szczep reprezentujący każdy stwierdzony serotyp z każdego badanego stada wraz z kartą informacyjną, a jeżeli nie została wykonana pełna identyfikacja serotypu - typ serologiczny w celu wykonania badań potwierdzających. Laboratorium referencyjne, na wniosek organów Inspekcji Weterynaryjnej, przeprowadza sekwencjonowanie genomu przekazanych izolatów szczepów Salmonella oraz wykonuje analizę pokrewieństwa filogenetycznego w zakresie wskazanym przez wnioskujący organ Inspekcji Weterynaryjnej. Przesłane szczepy Salmonella są wykorzystywane w badaniach realizowanych zgodnie z decyzją wykonawczą Komisji (UE) 2020/1729 z dnia 17 listopada 2020 r. w sprawie monitorowania i sprawozdawczości w zakresie oporności na środki przeciwdrobnoustrojowe u bakterii zoonotycznych i komensalnych oraz w sprawie uchylenia decyzji wykonawczej 2013/652/UE (Dz. Urz. UE L 387 z 19.11.2020, str. 8).
+
+### 1.8.
+
+Metody stosowane do wykrywania serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus) Metody stosowane do wykrywania serotypów Salmonella w stadach brojlerów gatunku kura (Gallus gallus)są określone w ust. 3 załącznika do rozporządzenia nr 200/2012.
+
+### 1.9.
+
+Urzędowe kontrole stad brojlerów gatunku kura (Gallus gallus)oraz urzędowe kontrole pasz przeznaczonych dla tych stad Pobieranie próbek w ramach programu odbywa się w gospodarstwie. We wszystkich stadach brojlerów gatunku kura (Gallus gallus)pobranie próbek z inicjatywy producenta brojlerów gatunku kura (Gallus gallus)powinno nastąpić w ciągu 14 dni przed planowanym przemieszczeniem brojlerów gatunku kura (Gallus gallus)do rzeźni zgodnie z ust. 1 załącznika do rozporządzenia nr 200/2012. Wyniki badania próbek muszą być znane przed przemieszczeniem brojlerów gatunku kura (Gallus gallus)do rzeźni zgodnie z częścią B załącznika II do rozporządzenia nr 2160/2003. W przypadku zastosowania środków zwalczających drobnoustroje w stadzie brojlerów gatunku kura (Gallus gallus)pobranie próbek nie może mieć miejsca w okresie stosowania tych środków ani w okresie karencji. Procedura pobierania próbek została określona w ust. 2.2 załącznika do rozporządzenia nr 200/2012, a analiza laboratoryjna próbek jest określona w ust. 3 tego załącznika. Koszt pobrania, transportu oraz badania tych próbek w laboratorium ponosi producent brojlerów gatunku kura (Gallus gallus). Producent brojlerów jest obowiązany poinformować powiatowego lekarza weterynarii o każdej zmianie stanu prawnego lub faktycznego związanego z prowadzeniem działalności nadzorowanej, w zakresie dotyczącym wymagań weterynaryjnych, w szczególności o umieszczeniu nowego stada brojlerów w kurniku. Informację taką przekazuje się na piśmie lub za pośrednictwem platformy ePUAP w terminie 7 dni od dnia zaistnienia takiego zdarzenia. Producent brojlerów jest obowiązany do prowadzenia dokumentacji związanej z pobieraniem próbek do badań laboratoryjnych, zawierającej co najmniej informacje dotyczące:
+
+### 1)
+
+identyfikacji stada, w tym źródła pochodzenia jaj wylęgowych i piskląt, liczby sztuk brojlerów w każdym stadzie i ich wieku oraz zagęszczenia w kg na m2;
+
+### 2)
+
+wyniku ostatniego badania laboratoryjnego w kierunku Salmonella stada lub stad rodzicielskich, od których pochodziły jaja wylęgowe przeznaczone do wylęgu piskląt brojlera, którego kopię przekazuje się wraz z dokumentacją towarzyszącą przesyłce piskląt;
+
+### 3)
+
+rodzaju próbek, daty i godziny pobrania próbek;
+
+### 4)
+
+imienia i nazwiska oraz adresu osoby pobierającej próbki;
+
+### 5)
+
+daty i godziny wysłania próbek do laboratorium;
+
+### 6)
+
+nazwy i adresu laboratorium;
+
+### 7)
+
+wyników badań laboratoryjnych próbek pobranych w ramach programu. Dokumentację przechowuje się co najmniej przez 2 lata od dnia zbycia stada.
+
+Powiatowy lekarz weterynarii nadzoruje producenta brojlerów oraz kontroluje w szczególności:
+
+### 1)
+
+wymaganą przepisami dokumentację prowadzoną przez producenta brojlerów;
+
+### 2)
+
+sposób pobierania próbek;
+
+### 3)
+
+wdrożone w stadzie środki bioasekuracji mające na celu zapobieganie występowaniu zakażeń pałeczkami Salmonella objętymi programem;
+
+### 4)
+
+przestrzeganie zasad obsady brojlerów, zgodnie z odrębnymi przepisami.
+
+Kontrole, o których mowa powyżej, przeprowadza się w ramach kontroli urzędowych z częstotliwością zależną od analizy ryzyka dokonanej przez powiatowego lekarza weterynarii oraz w każdym przypadku, gdy powiatowy lekarz weterynarii uzna, że zachodzi taka konieczność. Czynności te wykonuje się zgodnie z przepisami art. 19 i art. 20 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej. Częstotliwość pobierania próbek do badania laboratoryjnego przez powiatowego lekarza weterynarii jest określona w ust. 2.1 lit. b załącznika do rozporządzenia nr 200/2012. Próbki, o których mowa w ust. 2.1 lit. b załącznika do rozporządzenia nr 200/2012, powiatowy lekarz weterynarii pobiera nie wcześniej niż 14 dni przed planowanym przemieszczeniem brojlerów do rzeźni. Opłaty związane z badaniem laboratoryjnym próbek pobranych przez powiatowego lekarza weterynarii, w przypadku stwierdzenia efektu hamującego wzrost bakterii, ponosi producent brojlerów gatunku kura {Gallus gallus). Opłata zawiera koszty:
+
+### 1)
+
+badania laboratoryjnego w wysokości określonej w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2022 r. w sprawie stawek opłat za czynności wykonywane przez Inspekcję Weterynaryjną (Dz. U. poz. 1672, z późn. zm.);
+
+### 2)
+
+dojazdu związanego z pobraniem próbek i koszty dowozu próbek do laboratorium, według stawek za 1 kilometr przebiegu pojazdu ustalonych zgodnie z przepisami w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy;
+
+### 3)
+
+użytych wyrobów medycznych stosowanych w medycynie weterynaryjnej.
+
+Urzędowe kontrole pasz przeznaczonych dla stad brojlerów w zakresie wykrywania serotypów Salmonella objętych programem są ujęte w krajowym planie kontroli urzędowej pasz, przygotowanym i wdrożonym zgodnie z art. 42 ustawy z dnia 22 lipca 2006 r. o paszach (Dz. U. z 2021 r. poz. 278, z późn. zm.) oraz art. 109 i art. 110 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/625 z dnia 15 marca 2017 r. w sprawie kontroli urzędowych i innych czynności urzędowych przeprowadzanych w celu zapewnienia stosowania prawa żywnościowego i paszowego oraz zasad dotyczących zdrowia i dobrostanu zwierząt, zdrowia roślin i środków ochrony roślin, zmieniającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 999/2001, (WE) nr 396/2005, (WE) nr 1069/2009, (WE) nr 1107/2009, (UE) nr 1151/2012, (UE) nr 652/2014, (UE) 2016/429 i (UE) 2016/2031, rozporządzenia Rady (WE) nr 1/2005 i (WE) nr 1099/2009 oraz dyrektywy Rady 98/58/WE, 1999/74/WE, 2007/43/WE, 2008/119/WE i 2008/120/WE, oraz uchylającego rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 854/2004 i (WE) nr 882/2004, dyrektywy Rady 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EWG, 96/23/WE, 96/93/WE i 97/78/WE oraz decyzję Rady 92/438/EWG (rozporządzenie w sprawie kontroli urzędowych) (Dz. Urz. UE L 95 z 07.04.2017, str. 1, z późn. zm.).
+
+### 2.
+
+Wymagania dotyczące przedsiębiorstw spożywczych i paszowych objętych programem
+
+### 2.1.
+
+Wytyczne dotyczące dobrych praktyk produkcji zwierzęcej oraz inne wytyczne w zakresie bezpieczeństwa biologicznego
+
+### 2.1.1.
+
+Zarządzanie w zakresie higieny w gospodarstwach W odniesieniu do stad brojlerów minimalne wymagania i sposób utrzymywania brojlerów są określone w: rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 18 września 2003 r. w sprawie szczegółowych warunków weterynaryjnych, jakie muszą spełniać gospodarstwa w przypadku, gdy zwierzęta lub środki spożywcze pochodzenia zwierzęcego pochodzące z tych gospodarstw są wprowadzane na rynek (Dz. U. poz. 1643), ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2022 r. poz. 572, z późn. zm.), rozdziale 1 i 5 rozporządzenia Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej (Dz. U. poz. 344, z późn. zm.) oraz w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 grudnia 2009 r. w sprawie sposobu ustalania poziomu obsady kurcząt brojlerów w kurniku, w którym są one utrzymywane (Dz. U. poz. 1784). Wymagania dotyczące zasad bioasekuracji są określone w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 31 marca 2022 r. w sprawie zarządzenia środków związanych z wystąpieniem wysoce zjadliwej grypy ptaków (Dz. U. poz. 768). W gospodarstwie utrzymującym brojlery gatunku kura {Gallus gallus) powinny być spełnione następujące środki bioasekuracji:
+
+### 1)
+
+wyłożenie przed wjazdem na teren gospodarstwa mat dezynfekcyjnych nasączonych środkiem odkażającym lub zainstalowanie niecek wypełnionych środkiem odkażającym, lub zastosowanie innych urządzeń w celu zapewnienia skutecznej dezynfekcji kół pojazdów wjeżdżających do gospodarstwa;
+
+### 2)
+
+wyłożenie przed wejściem do poszczególnych kurników mat dezynfekcyjnych nasączonych środkiem odkażającym;
+
+### 3)
+
+stosowanie zasady „cały kurnik pełen lub cały kurnik pusty”;
+
+### 4)
+
+zapewnienie odpowiednich warunków utrzymania w zakresie temperatury, wilgotności, wymiany powietrza, dostępu światła;
+
+### 5)
+
+stosowanie prawidłowej obsady kurnika;
+
+### 6)
+
+utrzymywanie w jednym kurniku, w obrębie jednego stada, brojlerów w jednakowym wieku;
+
+### 7)
+
+zapewnienie izolacji poszczególnych kurników przez zapewnienie osobnej obsługi, żywienia i narzędzi;
+
+### 8)
+
+prowadzenie i przechowywanie przez okres 12 miesięcy rejestru wykonywanych czynności mycia, odkażania, dezynsekcji i deratyzacji.
+
+Pomieszczenia, w których utrzymuje się brojlery, ich wyposażenie oraz sprzęt powinny być wykonane z materiałów nieszkodliwych dla zdrowia brojlerów nadających się do oczyszczania i odkażania oraz zapobiegających utrzymywaniu się i namnażaniu wektorów Salmonella. Wdrożone w gospodarstwie programy dobrych praktyk produkcyjnych i higienicznych powinny być dostosowane do lokalnych uwarunkowań w gospodarstwie i powinny uwzględniać:
+
+### 1)
+
+możliwość wykorzystania alternatywnych, dozwolonych narzędzi i środków pomagających ograniczyć występowanie zakażeń drobiu pałeczkami Salmonella, takich jak stosowanie preparatów zawierających fizjologiczną mikroflorę jelitową (preparaty konkurencyjnego wykluczania) w pierwszych dniach życia piskląt;
+
+### 2)
+
+planowanie przerwy technologicznej, pozwalającej na przeprowadzenie skutecznego oczyszczania i odkażania kurników, instalacji i urządzeń oraz weryfikacji skuteczności podejmowanych działań badaniami laboratoryjnymi.
+
+### 2.1.2.
+
+Środki zapobiegające zakażeniom przenoszonym przez pracowników gospodarstw Osoby zatrudnione do wykonywania czynności związanych z utrzymywaniem brojlerów powinny:
+
+### 1)
+
+przy obsłudze każdego stada używać osobnego kompletu odzieży ochronnej;
+
+### 2)
+
+stosować środki higieny osobistej, w tym regularnie myć ręce, czyścić i dezynfekować obuwie przy wejściu do budynków, w których utrzymywane są brojlery, pasza lub ściółka, oraz czyścić i odkażać odzież ochronną;
+
+### 3)
+
+posiadać aktualne badania na nosicielstwo pałeczek Salmonella;
+
+### 4)
+
+zostać przeszkolone w zakresie higieny osobistej oraz znajomości możliwych dróg przenoszenia zakażenia za pośrednictwem odzieży i sprzętu.
+
+Osoby, o których mowa powyżej, nie powinny utrzymywać drobiu oraz mieć kontaktu z żywym drobiem innym niż utrzymywany w gospodarstwie.
+
+### 2.1.3.
+
+Higiena transportu zwierząt do gospodarstw i z gospodarstw Transport brojlerów powinien odbywać się zgodnie z przepisami ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt oraz rozporządzenia Rady (WE) nr 1/2005 z dnia 22 grudnia 2004 r. w sprawie ochrony zwierząt podczas transportu i związanych z tym działań oraz zmieniającego dyrektywy 64/432/EWG i 93/119/WE oraz rozporządzenie (WE) nr 1255/97 (Dz. Urz. UE L 03 z 05.01.2005, str. 1, z późn. zm.), w szczególności:
+
+### 1)
+
+transport do gospodarstwa powinien odbywać się w pojazdach oraz w kontenerach lub pojemnikach transportowych, które zostały dokładnie oczyszczone i odkażone przed załadunkiem brojlerów przy użyciu dopuszczonego do obrotu środka dezynfekcyjnego w stężeniu umożliwiającym inaktywację pałeczek Salmonella;
+
+### 2)
+
+bezpośrednio po rozładunku brojlerów i pobraniu próbek w gospodarstwie albo w rzeźni pojazdy oraz kontenery lub pojemniki transportowe powinny zostać oczyszczone i odkażone przy użyciu dopuszczonego do obrotu środka dezynfekcyjnego w stężeniu umożliwiającym inaktywację pałeczek Salmonella.
+
+### 2.2.
+
+Nadzór weterynaryjny nad gospodarstwami rolnymi Ustawa z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt ustanawia nadzór organów Inspekcji Weterynaryjnej nad prowadzeniem działalności związanej z utrzymywaniem drobiu, określa warunki zapewniające odpowiedni poziom bezpieczeństwa epizootycznego dla prowadzenia tego rodzaju działalności oraz określa katalog środków nadzoru. Katalog ten obejmuje kompetencje Inspekcji Weterynaryjnej do wydawania aktów administracyjnych (decyzji administracyjnych) oraz prowadzenia działań faktycznych o charakterze materialno-technicznym. Podjęcie i prowadzenie działalności nadzorowanej w zakresie utrzymywania zwierząt gospodarskich, w celu umieszczenia tych zwierząt lub produktów pochodzących z tych zwierząt lub od tych zwierząt na rynku, jest dozwolone po uprzednim zgłoszeniu w formie pisemnej zamiaru prowadzenia takiej działalności powiatowemu lekarzowi weterynarii właściwemu ze względu na przewidywane miejsce jej prowadzenia. Podmioty prowadzące działalność nadzorowaną są obowiązane do poinformowania powiatowego lekarza weterynarii o zaprzestaniu prowadzenia określonego rodzaju działalności nadzorowanej, a także o każdej zmianie stanu prawnego lub faktycznego związanego z prowadzeniem tej działalności, w zakresie dotyczącym wymagań weterynaryjnych. Informacja taka powinna zostać przekazana, w formie pisemnej, w terminie 7 dni od dnia zaistnienia takiego zdarzenia. Podmioty prowadzące działalność podlegającą nadzorowi organów Inspekcji Weterynaryjnej są obowiązane zapewnić spełnienie wymagań weterynaryjnych, lokalizacyjnych, zdrowotnych, higienicznych, sanitarnych, organizacyjnych, technicznych lub technologicznych zabezpieczających przed zagrożeniem epizootycznym, epidemicznym lub zapewniających właściwą jakość produktów. W ramach nadzoru sprawowanego przez organy Inspekcji Weterynaryjnej nad działalnością związaną z utrzymywaniem brojlerów pracownikom tej Inspekcji, jak również osobom wyznaczonym do wykonywania w jej imieniu określonych zadań, przysługuje prawo przeprowadzenia w każdym czasie kontroli w zakresie spełniania przez podmioty nadzorowane wymagań weterynaryjnych. Uprawnienia kontrolne, oprócz prawa wstępu na teren prowadzenia przez podmiot działalności nadzorowanej, obejmują, zgodnie z art. 19 ust. 3 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, prawo do nieodpłatnego pobierania próbek do badań laboratoryjnych oraz żądania pisemnych lub ustnych informacji w zakresie objętym przedmiotem kontroli, w tym okazywania i udostępniania dokumentów lub danych informatycznych związanych z tą kontrolą. Jeżeli w wyniku kontroli zostaną stwierdzone uchybienia w spełnianiu wymagań weterynaryjnych przez podmioty nadzorowane, organy Inspekcji Weterynaryjnej mają kompetencje do doprowadzenia wadliwego stanu faktycznego do stanu określonego w przepisach prawa weterynaryjnego. Inspekcja Weterynaryjna działa w tym zakresie, łącząc realizację funkcji kontrolnych z uprawnieniami władczymi dającymi możliwość wydawania decyzji administracyjnych, w tym nakazów oraz zakazów. W przypadku stwierdzenia, że przy prowadzeniu działalności nadzorowanej są naruszone wymagania weterynaryjne, powiatowy lekarz weterynarii, zgodnie z art. 8 ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, wydaje jedną z następujących decyzji administracyjnych:
+
+### 1)
+
+nakazującą usunięcie uchybień w określonym terminie;
+
+### 2)
+
+nakazującą wstrzymanie działalności do czasu usunięcia uchybień;
+
+### 3)
+
+zakazującą umieszczania na rynku brojlerów będących przedmiotem działalności lub handlu tymi brojlerami albo zakazującą produkcji, umieszczania na rynku określonych produktów wytworzonych przy prowadzeniu tej działalności lub handlu tymi produktami.
+
+O zakresie przedmiotowym decyzji rozstrzyga powiatowy lekarz weterynarii. Nie jest to jednak uznanie swobodne. Dokonując bowiem rozstrzygnięcia, organ Inspekcji Weterynaryjnej ma na względzie zagrożenie zdrowia publicznego lub zdrowia zwierząt wynikające z naruszenia prawa weterynaryjnego.
+
+### 2.3.
+
+Wpis gospodarstw do rejestru Zgodnie z art. 11 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt powiatowy lekarz weterynarii prowadzi rejestr podmiotów prowadzących działalność nadzorowaną.
+
+### 2.4.
+
+Prowadzenie dokumentacji w gospodarstwach Zgodnie z art. 69 ust. 3 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301), jeżeli tkanki i produkty pochodzące od zwierząt są przeznaczone do spożycia przez ludzi, to posiadacze tych zwierząt lub osoby odpowiedzialne za te zwierzęta są obowiązani do posiadania dokumentacji w formie ewidencji nabycia, posiadania i stosowania produktów leczniczych weterynaryjnych oraz leczenia zwierząt prowadzonej zgodnie z przepisami ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt. Szczegółowy zakres i sposób prowadzenia przez lekarzy weterynarii dokumentacji lekarsko--weterynaryjnej wykonywanych czynności leczniczych i profilaktycznych oraz stosowanych produktów leczniczych, jak również zakres i sposób prowadzenia ewidencji leczenia zwierząt przez posiadacza zwierząt gospodarskich, a także tryb dokonywania wpisów w tej ewidencji przez lekarzy weterynarii leczących zwierzęta są określone w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 września 2011 r. w sprawie zakresu i sposobu prowadzenia dokumentacji lekarsko-- weterynaryjnej i ewidencji leczenia zwierząt oraz wzorów tej dokumentacji i ewidencji (Dz. U. poz. 1347). Wymienione wyżej dokumenty lekarz weterynarii, posiadacz zwierzęcia oraz osoba odpowiedzialna za zwierzęta przechowują przez okres 5 lat od dnia jej sporządzenia zgodnie z art. 69 ust. 4 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne. Wzór dokumentacji obrotu detalicznego produktami leczniczymi weterynaryjnymi jest określony w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 17 października 2008 r. w sprawie sposobu prowadzenia dokumentacji obrotu detalicznego produktami leczniczymi weterynaryjnymi i wzoru tej dokumentacji (Dz. U. z 2020 r. poz. 1512).
+
+### 2.5.
+
+Dokumenty towarzyszące zwierzętom w przypadku ich wysyłki W handlu, jak również w obrocie z państwami trzecimi dokumenty są wystawiane zgodnie z:
+
+### 1)
+
+rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/429 z dnia 9 marca 2016 r. w sprawie przenośnych chorób zwierząt oraz zmieniającym i uchylającym niektóre akty w dziedzinie zdrowia zwierząt („Prawo o zdrowiu zwierząt”) (Dz. Urz. UE L 84 z 31.03.2016, str. 1, z późn. zm.);
+
+### 2)
+
+rozporządzeniem wykonawczym Komisji (UE) 2020/2235 z dnia 16 grudnia 2020 r. ustanawiającym przepisy dotyczące stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429 i (UE) 2017/625 w odniesieniu do wzorów świadectw zdrowia zwierząt, wzorów świadectw urzędowych i wzorów świadectw zdrowia zwierząt/świadectw urzędowych do celów wprowadzania do Unii i przemieszczania w obrębie terytorium Unii przesyłek niektórych kategorii zwierząt i towarów oraz urzędowej certyfikacji dotyczącej takich świadectw i uchylającym rozporządzenie (WE) nr 599/2004, rozporządzenia wykonawcze (UE) nr 636/2014 i (UE) 2019/628, dyrektywę 98/68/WE oraz decyzje 2000/572/WE, 2003/779/WE i 2007/240/WE (Dz. Urz. UE L 442 z 30.12.2020, str. 1, z późn. zm.);
+
+### 3)
+
+rozporządzeniem delegowanym Komisji (UE) 2020/692 z dnia 30 stycznia 2020 r. uzupełniającym rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/429 -w odniesieniu do przepisów dotyczących wprowadzania do Unii przesyłek niektórych zwierząt, materiału biologicznego i produktów pochodzenia zwierzęcego oraz przemieszczania ich i postępowania z nimi po ich wprowadzeniu (Dz. Urz. UE L 174 z 03.06.2020, str. 379, z późn. zm.);
+
+### 4)
+
+ustawą z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+
+Zgodnie z art. 18 rozporządzenia (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 6, str. 463) podmioty działające na rynku powinny zapewnić możliwość monitorowania żywności, pasz, zwierząt hodowlanych oraz wszelkich substancji przeznaczonych do dodania do żywności lub pasz. W tym celu podmioty te tworzą systemy i procedury umożliwiające przekazanie takich informacji na żądanie właściwych władz. Zgodnie z art. 7 rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14) przesyłki produktów pochodzenia zwierzęcego są zaopatrywane w świadectwa lub inne dokumenty, które są określone w prawodawstwie unijnym. Wywóz zwierząt i produktów pochodzenia zwierzęcego odbywa się zgodnie z wymaganiami uzgodnionymi z władzami danego państwa. Dodatkowo dla każdej przesyłki brojlerów przemieszczanej na terytorium Unii Europejskiej, w tym podlegającej wywozowi, wystawia się w systemie TRACES.NT świadectwo zdrowia dla zwierząt w handlu wewnątrzwspólnotowym.
+
+### 2.6.
+
+Inne środki podejmowane w celu zapewnienia identyfikacji zwierząt W celu zapewnienia identyfikacji brojlerów przemieszczanych na terytorium Unii Europejskiej wystawia się w systemie TRACES.NT świadectwo zdrowia dla zwierząt w handlu zawierające szczegółowe dane dotyczące przesyłki tych brojlerów, w szczególności miejsce pochodzenia i przeznaczenia. W przypadku wywozu przesyłek dane dotyczące przesyłki są również wprowadzane do systemu TRACES.NT. W systemie jest odnotowywana również kontrola dobrostanu brojlerów na granicy. Przy przywozie zwierząt z państw trzecich do Unii Europejskiej jest wymagany wspólny zdrowotny dokument wejścia (CHED), generowany w systemie TRACES.NT, który jest częścią systemu IMSOC.
+
+### 3.
+
+Środki podejmowane w odniesieniu do zwierząt lub produktów, u których albo w których wykryto Salmonella spp., w szczególności środki podjęte w celu ochrony zdrowia publicznego, a także wszelkie podjęte środki zapobiegawcze, takie jak szczepienia
+
+### 3.1.
+
+Postępowanie producenta brojlerów gatunku kura (Gallus gallus)i powiatowego lekarza weterynarii w przypadku wykrycia serotypu Salmonella objętego programem lub efektu hamującego wzrost bakterii w próbkach pobranych z inicjatywy producenta brojlerów gatunku kura (Gallus gallus)w stadzie brojlerów gatunku kura (Gallus gallus).
+
+### 3.1.1.
+
+W przypadku gdy uzyskano dodatni wynik badań laboratoryjnych próbek pobranych z inicjatywy producenta brojlerów gatunku kura {Gallus gallus) lub wykryto efekt hamujący wzrost bakterii w okresie 14 dni przed przemieszczeniem brojlerów do rzeźni, producent brojlerów gatunku kura (Gallus gallus)na podstawie art. 42 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt jest obowiązany do:
+
+### 1)
+
+niezwłocznego zawiadomienia o tym powiatowego lekarza weterynarii;
+
+### 2)
+
+pozostawienia brojlerów w miejscu ich utrzymywania i niewprowadzania tam innego drobiu;
+
+### 3)
+
+uniemożliwienia osobom postronnym dostępu do kurnika lub miejsc utrzymywania brojlerów podejrzanych o zakażenie serotypem Salmonella objętym programem lub w których znajdują się ich zwłoki;
+
+### 4)
+
+wstrzymania się od wywożenia, wynoszenia, zbywania mięsa, zwłok brojlerów, paszy, odchodów, ściółki pochodzącej od drobiu oraz innych przedmiotów znajdujących się w miejscu utrzymywania brojlerów;
+
+### 5)
+
+udostępnienia organom Inspekcji Weterynaryjnej brojlerów do badań i zabiegów weterynaryjnych, a także udzielania pomocy przy wykonywaniu tych badań i zabiegów;
+
+### 6)
+
+udzielania powiatowemu lekarzowi weterynarii wyjaśnień i informacji, które mogą mieć znaczenie dla wykrycia Salmonella i źródeł zakażenia lub zapobiegania jej szerzeniu;
+
+### 7)
+
+udostępnienia powiatowemu lekarzowi weterynarii dokumentacji dotyczącej stada, w szczególności dokumentacji potwierdzającej zakup piskląt, ściółki, paszy, sprzedaży zwierząt oraz dokumentacji związanej z ewidencją leczenia;
+
+### 8)
+
+zwiększenia standardów zoohigienicznych.
+
+### 3.1.2.
+
+W przypadku gdy uzyskano dodatni wynik badań laboratoryjnych w kierunku serotypów Salmonella objętych programem (innych niż szczepy szczepionkowe) lub w przypadku gdy wykryto efekt hamujący wzrost bakterii w próbkach pobranych z inicjatywy producenta brojlerów gatunku kura (Gallus gallus)lub w próbkach pobranych przez powiatowego lekarza weterynarii, powiatowy lekarz weterynarii, zgodnie z art. 42 ust. 6 oraz z art. 44 ust. 1 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt:
+
+### 1)
+
+przeprowadza dochodzenie epizootyczne w zakresie, o którym mowa w art. 42 ust. 7 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+
+### 2)
+
+pobiera próbki do badań laboratoryjnych we wszystkich pozostałych stadach w gospodarstwie, które będą przemieszczone do rzeźni w ciągu 14 dni, w sposób, który jest określony w załączniku do rozporządzenia nr 200/2012;
+
+### 3)
+
+przeprowadza, w celu ustalenia źródła zakażenia stada serotypami Salmonella objętymi programem, badania:
+
+### a)
+
+paszy,
+
+### b)
+
+wody z ujęć własnych gospodarstwa;
+
+### 4)
+
+w toku prowadzonego dochodzenia epizootycznego może żądać okazania wyników badań na nosicielstwo pałeczek Salmonella w odniesieniu do osób zatrudnionych w gospodarstwie do obsługi zwierząt, a w przypadku braku takich badań - powiadomić o tym fakcie właściwego miejscowo państwowego powiatowego inspektora sanitarnego.
+
+### 3.1.3.
+
+W przypadku gdy uzyskano dodatni wynik badań laboratoryjnych w kierunku serotypów Salmonella objętych programem (innych niż szczepy szczepionkowe) lub w przypadku gdy wykryto efekt hamujący wzrost bakterii w próbkach pobranych z inicjatywy producenta brojlerów gatunku kura (Gallus gallus)lub w próbkach pobranych przez powiatowego lekarza weterynarii, powiatowy lekarz weterynarii, zgodnie z art. 44 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, w drodze decyzji administracyjnej:
+
+### 1)
+
+nakazuje:
+
+### a)
+
+unieszkodliwienie zwłok wszystkich sztuk padłego drobiu, zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) (Dz. Urz. UE L 300 z 14.11.2009, str. 1, z późn. zm.) oraz środkami wykonawczymi przyjętymi zgodnie z art. 40 tego rozporządzenia,
+
+### b)
+
+zniszczenie pasz lub ich zagospodarowanie, po obróbce gwarantującej zabicie pałeczek Salmonella, jeżeli uzyskano dodatnie wyniki badania próbek paszy w kierunku obecności serotypów Salmonella objętych programem,
+
+### c)
+
+zniszczenie lub zagospodarowanie ściółki oraz odchodów, które mogły ulec skażeniu, zgodnie z przepisami rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1069/2009 z dnia 21 października 2009 r. określającego przepisy sanitarne dotyczące produktów ubocznych pochodzenia zwierzęcego, nieprzeznaczonych do spożycia przez ludzi, i uchylającego rozporządzenie (WE) nr 1774/2002 (rozporządzenie o produktach ubocznych pochodzenia zwierzęcego) oraz środkami wykonawczymi przyjętymi zgodnie z art. 40 tego rozporządzenia,
+
+### d)
+
+zniszczenie lub poddanie odkażaniu pozostałych przedmiotów, które mogły ulec skażeniu,
+
+### e)
+
+dokładne oczyszczenie i odkażenie, pod nadzorem powiatowego lekarza weterynarii, kurników, w których był utrzymywany drób ze stada zakażonego w odniesieniu do celu unijnego, otoczenia budynków, środków transportu oraz pozostałych przedmiotów, które mogły ulec skażeniu, po wykonaniu czynności, o których mowa w lit. a-d,
+
+### f)
+
+podjęcie przez producenta brojlerów działań mających na celu poprawę warunków zoohigienicznych oraz bezpieczeństwa epizootycznego w gospodarstwie, określonych w ust. 2.1 w sposób zapewniający uniemożliwienie szerzenia się zakażenia na pozostałe w gospodarstwie stada;
+
+### 2)
+
+zakazuje przemieszczania drobiu ze stada zakażonego z gospodarstwa i do stada zakażonego w gospodarstwie oraz ze stada do stada w obrębie gospodarstwa, chyba że drób, na wniosek producenta brojlerów gatunku kura (Gallus gallus), zostanie przemieszczony bezpośrednio do rzeźni w celu poddania ubojowi.
+
+W przypadku dodatniego wyniku badań próbek pobranych przez powiatowego lekarza weterynarii lub próbek pobranych z inicjatywy producenta brojlerów gatunku kura (Gallus gallus)producent brojlerów gatunku kura (Gallus gallus)ponosi koszty:
+
+### 1)
+
+oczyszczenia i odkażenia kurników, w których był przetrzymywany drób ze stada brojlerów gatunku kura (Gallus gallus)zakażonego serotypem Salmonella objętym programem, ich otoczenia, środków transportu oraz pozostałych przedmiotów, które mogły ulec skażeniu;
+
+### 2)
+
+podjęcia działań mających na celu poprawę warunków zoohigienicznych oraz bezpieczeństwa epizootycznego w gospodarstwie.
+
+### 3.2.
+
+Przesyłki do rzeźni brojlerów, które poddano badaniu przedubojowemu na terenie gospodarstwa w tym brojlerów ze stada zakażonego serotypem Salmonella objętym programem, zaopatruje się w świadectwo zdrowia, którego wzór jest określony w rozdziale 1 załącznika IV do rozporządzenia wykonawczego Komisji (UE) 2020/2235 z dnia 16 grudnia 2020 r. ustanawiającego przepisy dotyczące stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429 i (UE) 2017/625 w odniesieniu do wzorów świadectw zdrowia zwierząt, wzorów świadectw urzędowych i wzorów świadectw zdrowia zwierząt/świadectw urzędowych do celów wprowadzania do Unii i przemieszczania w obrębie terytorium Unii przesyłek niektórych kategorii zwierząt i towarów oraz urzędowej certyfikacji dotyczącej takich świadectw i uchylającego rozporządzenie (WE) nr 599/2004, rozporządzenia wykonawcze (UE) nr 636/2014 i (UE) 2019/628, dyrektywę 98/68/WE oraz decyzje 2000/572/WE, 2003/779/WE i 2007/240/WE: W pkt 4 świadectwa zdrowia urzędowy lekarz weterynarii wystawiający świadectwo wpisuje:
+
+### 1)
+
+numer sprawozdania z badań w kierunku Salmonella;
+
+### 2)
+
+datę pobrania próbek do badań w kierunku Salmonella;
+
+### 3)
+
+stwierdzony serotyp Salmonella lub odpowiednią informację:
+
+### a)
+
+badanie dało wynik ujemny lub
+
+### b)
+
+nie stwierdzono efektu hamującego wzrost bakterii, lub
+
+### c)
+
+stwierdzono efekt hamujący wzrost bakterii.
+
+W związku z tym, że rozporządzenie Komisji (WE) nr 2073/2005 z dnia 15 listopada 2005 r. w sprawie kryteriów mikrobiologicznych dotyczących środków spożywczych (Dz. Urz. UE L 338 z 22.12.2005, str. 1, z późn. zm.) wskazuje Salmonella Enteritidis i Salmonella Typhimurium jako kryterium bezpieczeństwa żywności w odniesieniu do świeżego mięsa drobiowego oraz pałeczki Salmonella spp. jako kryterium bezpieczeństwa żywności w odniesieniu do mięsa mielonego i surowych wyrobów z mięsa drobiowego, drobiowego mięsa odkostnionego mechanicznie oraz produktów z mięsa drobiowego, producent brojlerów wpisuje informacje dotyczące łańcucha żywnościowego, o których mowa w rozporządzeniu (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającym szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego (Dz. Urz. UE L 139 z 30.04.2004, str. 55, z późn. zm. -Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14), w zakresie dodatnich wyników badań laboratoryjnych dotyczących wszystkich stwierdzonych serotypów Salmonella, w tym nieobjętych programem. Przy przemieszczaniu do rzeźni brojlerów, które nie były badane zgodnie z wymaganiami, o których mowa w rozporządzeniu nr 200/2012 oraz w programie, w przypadku przeprowadzenia badania przedubojowego na terenie gospodarstwa pochodzenia, w pkt 4 świadectwa zdrowia, którego wzór jest określony w rozdziale 1 załącznika IV do rozporządzenia wykonawczego Komisji (UE) 2020/2235 z dnia 16 grudnia 2020 r. ustanawiającego przepisy dotyczące stosowania rozporządzeń Parlamentu Europejskiego i Rady (UE) 2016/429 i (UE) 2017/625 w odniesieniu do wzorów świadectw zdrowia zwierząt, wzorów świadectw urzędowych i wzorów świadectw zdrowia zwierząt/świadectw urzędowych do celów wprowadzania do Unii i przemieszczania w obrębie terytorium Unii przesyłek niektórych kategorii zwierząt i towarów oraz urzędowej certyfikacji dotyczącej takich świadectw i uchylającego rozporządzenie (WE) nr 599/2004, rozporządzenia wykonawcze (UE) nr 636/2014 i (UE) 2019/628, dyrektywę 98/68/WE oraz decyzje 2000/572/WE, 2003/779/WE i 2007/240/WE, należy zaznaczyć fakt pochodzenia brojlerów ze stada brojlerów o nieznanym statusie zdrowotnym pod względem Salmonella. W przypadku gdy w badaniu laboratoryjnym próbek pobranych z inicjatywy hodowcy lub pobranych przez powiatowego lekarza weterynarii w stadzie brojlerów stwierdzono serotyp Salmonella objęty programem lub efekt hamujący wzrost bakterii lub w przypadku gdy brojlery pochodzą ze stada o nieznanym statusie zdrowotnym pod względem Salmonella:
+
+### 1)
+
+badanie przedubojowe brojlerów z takiego stada przeprowadza się zgodnie z art. 10 ust. 1 i 2 oraz art. 11 rozporządzenia wykonawczego Komisji (UE) 2019/627 z dnia 15 marca 2019 r. ustanawiającego jednolite praktyczne rozwiązania dotyczące przeprowadzania kontroli urzędowych produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2017/625 oraz zmieniającego rozporządzenie Komisji (WE) nr 2074/2005 w odniesieniu do kontroli urzędowych, (Dz. Urz. UE L 131 z 17.05.2019, str. 51, z późn. zm.), zwanego dalej „rozporządzeniem nr 2019/627”;
+
+### 2)
+
+ubój brojlerów z takiego stada przeprowadza się w sposób określony w art. 43 ust. 6 rozporządzenia nr 2019/627; powiatowy lekarz weterynarii właściwy dla rzeźni określa w decyzji administracyjnej warunki, w jakich tego rodzaju zwierzęta można poddać ubojowi; warunki, w jakich ptaki mają zostać poddane ubojowi, muszą być ukierunkowane na minimalizację zanieczyszczenia innych zwierząt oraz mięsa z innych zwierząt (ubój w osobnym cyklu produkcyjnym, przechowywanie mięsa w wydzielonych pomieszczeniach lub obszarach, czyszczenie i odkażanie po zakończonym procesie uboju i obróbki poubojowej, pobranie próbek do badań laboratoryjnych w celu potwierdzenia skuteczności mycia i dezynfekcji powierzchni mających kontakt z mięsem);
+
+### 3)
+
+należy, bezpośrednio po rozładunku brojlerów w rzeźni, przeprowadzić mycie i dezynfekcję środków transportu oraz urządzeń, sprzętu i narzędzi wykorzystywanych do transportu tych zwierząt;
+
+### 4)
+
+mięso pozyskane z drobiu pochodzącego ze stada brojlerów, w którym uzyskano dodatni wynik badania laboratoryjnego próbek pobranych z inicjatywy hodowcy lub pobranych przez powiatowego lekarza weterynarii, albo mięso pochodzące ze stad o nieznanym statusie epizootycznym pod względem Salmonella jest poddawane przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie pałeczek Salmonella; w przypadku gdy w rzeźni dokonującej uboju takich stad nie jest możliwe poddanie pozyskanego mięsa którejkolwiek z tych obróbek, mięso pozyskane z takich stad nie może zostać wprowadzone do obrotu w formie świeżej, z wyłączeniem:
+
+### a)
+
+przewozu tego mięsa do zakładu przetwórstwa zlokalizowanego na terenie Polski w celu poddania go przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie pałeczek Salmonella lub
+
+### b)
+
+przewozu tego mięsa do chłodni składowej zlokalizowanej na terenie Polski w celu czasowego składowania go przed poddaniem przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie pałeczek Salmonella w zakładzie przetwórstwa, o którym mowa w lit. a;
+
+### 5)
+
+przed wydaniem decyzji, o której mowa w pkt 2, powiatowy lekarz weterynarii weryfikuje, czy:
+
+### a)
+
+rzeźnia posiada procedury gwarantujące, że mięso pozyskane w ramach uboju brojlerów z ww. stad nie zostanie wprowadzone do obrotu w formie świeżej, z wyjątkiem przewiezienia go do chłodni składowej lub zakładu obróbki przemysłowej, jeżeli ma to zastosowanie; procedury powinny obejmować w szczególności rozliczenie ilości mięsa pozyskanego z takiego uboju, miejsce jego przechowywania (wskazanie oddzielnych pomieszczeń chłodniczych w zakładzie), sposób oznakowania i rozliczania ilości mięsa przekazywanego do przechowywania lub obróbki eliminującej Salmonella,
+
+### b)
+
+w rzeźni jest możliwość poddania pozyskanego mięsa przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie pałeczek Salmonella; w przypadku braku takiej możliwości powiatowy lekarz weterynarii właściwy dla rzeźni nakazuje w drodze decyzji:
+
+- - zamieszczenie na opakowaniu informacji: „mięso przeznaczone do przemysłowej obróbki cieplnej lub innej obróbki mającej na celu wyeliminowanie pałeczek Salmonella w zakładzie zlokalizowanym na terenie Polski”,
+
+- - dokonanie adnotacji w dokumentacji towarzyszącej przesyłce mięsa do innego zakładu, że zostało ono otrzymane z drobiu pochodzącego ze stada, w którym badania środowiskowe wskazywały na obecność serotypu Salmonella objętego programem, lub ze stada o nieznanym statusie epizootycznym pod względem Salmonella oraz musi ono zostać poddane przemysłowej obróbce cieplnej lub innej obróbce mającej na celu wyeliminowanie pałeczek Salmonella w zakładzie zlokalizowanym na terenie Polski;
+
+### 6)
+
+przemieszczanie mięsa pozyskanego z uboju takich stad z rzeźni do chłodni składowej lub zakładu przetwórstwa lub z chłodni składowej do zakładu przetwórstwa może odbywać się wyłącznie za zgodą powiatowego lekarza weterynarii właściwego dla zakładu wysyłki oraz powiatowego lekarza weterynarii właściwego dla zakładu, do którego mięso jest wysyłane; powiatowy lekarz weterynarii właściwy dla rzeźni informuje powiatowego lekarza weterynarii właściwego dla chłodni składowej lub zakładu przetwórstwa o przesyłce takiego mięsa i weryfikuje, czy jest zgoda organu na przyjęcie takiego mięsa; podobnie, powiatowy lekarz weterynarii właściwy dla chłodni składowej, informuje powiatowego lekarza weterynarii właściwego dla zakładu przetwórstwa o przesyłce takiego mięsa, jeżeli ma to zastosowanie, i weryfikuje, czy jest zgoda powiatowego lekarza weterynarii na przyjęcie takiego mięsa;
+
+### 7)
+
+przed wydaniem zgody, o której mowa w pkt 6, powiatowy lekarz weterynarii właściwy dla chłodni składowej weryfikuje, czy podmiot prowadzący ten zakład posiada procedury gwarantujące, że mięso pozyskane w ramach uboju brojlerów z ww. stad nie zostanie wprowadzone do obrotu w formie świeżej, z wyjątkiem przewiezienia go do zakładu przetwórstwa zlokalizowanego na terytorium Rzeczypospolitej Polskiej; procedury powinny obejmować w szczególności rozliczenie ilości mięsa wprowadzonego, będącego na stanie chłodni i wychodzącego z chłodni, miejsce jego przechowywania i sposób zabezpieczenia (wskazanie oddzielnych pomieszczeń chłodniczych w zakładzie) oraz sposób oznakowania mięsa i rozliczania ilości mięsa przekazywanego do obróbki eliminującej Salmonella; powiatowy lekarz weterynarii właściwy dla chłodni składowej w drodze decyzji:
+
+### a)
+
+zakazuje wprowadzania mięsa drobiowego do obrotu, z wyjątkiem przewiezienia go do zlokalizowanego na terytorium Rzeczypospolitej Polskiej zakładu dokonującego przemysłowej obróbki cieplnej lub innej obróbki tego mięsa mającej na celu wyeliminowanie pałeczek Salmonella,
+
+### b)
+
+nakazuje informowanie go o zamiarze wysyłki tego mięsa do zakładu przetwórstwa,
+
+### c)
+
+określa warunki składowania tego mięsa;
+
+### 8)
+
+powiatowy lekarz weterynarii właściwy dla zakładu dokonującego przemysłowej obróbki cieplnej lub innej obróbki tego mięsa mającej na celu wyeliminowanie pałeczek Salmonella weryfikuje, czy zakład ten posiada procedury gwarantujące, że takie mięso zostanie przetworzone w sposób gwarantujący wyeliminowanie pałeczek Salmonella, a także weryfikuje parametry zastosowanej obróbki pod kątem jej skuteczności dla wyeliminowania pałeczek Salmonella oraz zgodność ilości surowca wprowadzonego do zakładu przetwórstwa oraz ilości surowca poddanego tej obróbce.
+
+### 3.3.
+
+Powiatowy lekarz weterynarii pobiera próbki do badań skuteczności wykonanego oczyszczenia i odkażenia przed ponownym umieszczeniem brojlerów w kurniku. Próbki do badań stanowią pobrane:
+
+### 1)
+
+4 wymazy z powierzchni podłogi, w szczególności z miejsc popękanych, zagłębień lub połączeń konstrukcyjnych - w laboratorium łączone w jedną próbkę zbiorczą oraz
+
+### 2)
+
+4 wymazy z powierzchni badanego pomieszczenia pobrane od poziomu podłogi do wysokości jednego metra - w laboratorium łączone w jedną próbkę zbiorczą, oraz
+
+### 3)
+
+3 wymazy z powierzchni urządzenia służącego do karmienia - każdy wymaz pobrany z pięciu metrów taśmy lub rynienki paszowej lub 6 wybranych losowo karmideł - w laboratorium łączone w jedną próbkę zbiorczą, oraz
+
+### 4)
+
+2 wymazy z powierzchni systemu wentylacyjnego (każdy wymaz może być użyty do 3 wlotów lub wylotów tego systemu) - w laboratorium łączone w jedną próbkę zbiorczą.
+
+W przypadku uzyskania dodatniego wyniku badania koszty pobrania kolejnych próbek do badań skuteczności wykonanego oczyszczania i odkażania, dojazdu do gospodarstwa oraz do laboratorium, jak również badania próbek w laboratorium są ponoszone przez producenta brojlerów gatunku kura (Gallus gallus). Opłata zawiera koszty:
+
+### 1)
+
+badania laboratoryjnego w wysokości określonej w rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 29 lipca 2022 r. w sprawie stawek opłat za czynności wykonywane przez Inspekcję Weterynaryjną;
+
+### 2)
+
+dojazdu związanego z pobraniem próbek i koszty dowozu próbek do laboratorium, według stawek za 1 kilometr przebiegu pojazdu ustalonych zgodnie z przepisami w sprawie warunków ustalania oraz sposobu dokonywania zwrotu kosztów używania do celów służbowych samochodów osobowych, motocykli i motorowerów niebędących własnością pracodawcy;
+
+### 3)
+
+użytych wyrobów medycznych stosowanych w medycynie weterynaryjnej.
+
+Ponowne umieszczenie brojlerów w kurniku może nastąpić wyłącznie po potwierdzeniu skuteczności przeprowadzonego odkażania.
+
+### 3.4.
+
+Powiatowy lekarz weterynarii, zgodnie z art. 51 ust. 5 pkt 2 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt, powiadamia niezwłocznie państwowego powiatowego inspektora sanitarnego właściwego ze względu na miejsce prowadzenia działalności o uzyskaniu dodatniego wyniku badań laboratoryjnych próbek pobranych w stadzie brojlerów gatunku kura (Gallus gallus)w kierunku serotypu Salmonella objętego programem.
+
+### 3.5.
+
+Zasady stosowania środków zwalczających drobnoustroje, przeprowadzania szczepień oraz przyznawania odstępstw od obowiązku szczepień są określone w rozporządzeniu Komisji (WE) nr 1177/2006 z dnia 1 sierpnia 2006 r. w sprawie wykonania rozporządzenia (WE) nr 2160/2003 Parlamentu Europejskiego i Rady w odniesieniu do wymogów dotyczących stosowania szczególnych metod kontroli w ramach krajowych programów na rzecz zwalczania salmonelli u drobiu (Dz. Urz. UE L 212 z 02.08.2006, str. 3). Zakaz stosowania środków zwalczających drobnoustroje dotyczy serotypów Salmonella objętych programem, z wyjątkiem przypadków, o których mowa w art. 2 ust. 2 tego rozporządzenia.
+
+### 4.
+
+Środki wdrożone w ramach programu
+
+### 4.1.
+
+Środki i prawodawstwo w zakresie powiadomienia o chorobie Obowiązki w zakresie powiadamiania o chorobie wynikają z art. 42 ust. 1-9 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt. Zgodnie z przepisem art. 51 ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt organy Inspekcji Weterynaryjnej prowadzą system zbierania, przechowywania, analizowania, przetwarzania danych oraz informacji i przekazywania danych oraz informacji o chorobach zakaźnych zwierząt, w tym o chorobach objętych programem. Powiatowy lekarz weterynarii informuje sąsiednich powiatowych lekarzy weterynarii oraz wojewódzkiego lekarza weterynarii właściwego ze względu na miejsce prowadzenia przez podmiot działalności nadzorowanej o powzięciu podejrzenia lub potwierdzeniu wystąpienia serotypu Salmonella objętego programem w stadzie brojlerów gatunku kura (Gallus gallus). Wojewódzki lekarz weterynarii przekazuje te dane oraz informacje Głównemu Lekarzowi Weterynarii. Ponadto powiatowy lekarz weterynarii powiadamia państwowego powiatowego inspektora sanitarnego właściwego dla miejsca prowadzenia przez podmiot działalności nadzorowanej o wystąpieniu serotypu Salmonella objętego programem.
+
+### 4.2.
+
+Środki i prawodawstwo w zakresie kontroli choroby Środki w zakresie kontroli choroby zostały opisane w ust. 3. Prawodawstwo w zakresie kontroli choroby:
+
+### 1)
+
+rozporządzenie nr 2160/2003;
+
+### 2)
+
+ustawa z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt;
+
+### 3)
+
+rozporządzenie nr 200/2010.
+
+### 4.3.
+
+Środki i prawodawstwo w zakresie odszkodowania dla właścicieli zwierząt poddanych ubojowi lub zabiciu Odszkodowanie jest przyznawane zgodnie z art. 49 i art. 57c ustawy z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
+
+### 4.4.
+
+Środki i stosowne prawodawstwo w zakresie bezpieczeństwa biologicznego obowiązujące w gospodarstwach Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 15 lutego 2010 r. w sprawie wymagań i sposobu postępowania przy utrzymywaniu gatunków zwierząt gospodarskich, dla których normy ochrony zostały określone w przepisach Unii Europejskiej. Stosowanie w gospodarstwie środków bioasekuracji, o których mowa w ust. 2, jest obowiązkowe.
+
+### 5.
+
+Ogólny opis kosztów i korzyści wynikających z realizacji programu Zasadniczą korzyścią z realizacji programu dla producentów brojlerów gatunku kura (Gallus gallus)oraz podmiotów zajmujących się obrotem drobiem oraz mięsem drobiowym będzie możliwość prowadzenia swobodnego handlu oraz wywozu drobiu. Zgodnie z częścią E załącznika II do rozporządzenia nr 2160/2003 od dnia 1 grudnia 2011 r. świeże mięso drobiowe pozyskane z drobiu wymienionego w załączniku I do tego rozporządzenia (kury, indyki) nie może być wprowadzone do obrotu w celu spożycia przez ludzi, jeśli nie zostanie spełnione kryterium bezpieczeństwa żywności określone w rozdziale 1 ust. 1.28 załącznika I do rozporządzenia Komisji (WE) nr 2073/2005 z dnia 15 listopada 2005 r. w sprawie kryteriów mikrobiologicznych dotyczących środków spożywczych. Osiągnięcie celu unijnego polegającego na ograniczeniu liczby zakażonych stad brojlerów zwiększy konkurencyjność polskiego drobiu i mięsa drobiowego na rynku wspólnotowym, jak również na rynkach państw trzecich. Ponadto należy podkreślić, że salmonelloza jest najczęściej notowaną chorobą odzwierzęcą, a realizacja programu ograniczy liczbę zakażeń ludzi, w związku z czym zredukuje koszty leczenia tej choroby. Szacunkowe koszty realizacji programu w 2023 r. wyrażone w zł zostały przeliczone na euro według prognozowanego kursu euro zawartego w wytycznych Ministra Finansów (aktualizacja - październik 2022 r.) dotyczących stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw. Szacunkowe ogólne koszty realizacji programu w 2023 r. wyniosą 593 530,72 zł. Z ogólnej sumy szacowanych kosztów programu strona polska wystąpi z wnioskiem o współfinansowanie ze środków Unii Europejskiej, w odniesieniu do 75% kosztów kwalifikowalnych, tj. 379 758,85 zł. Są to szacunkowe koszty, które zostaną dostosowane do wielkości wydatków przewidzianych na zwalczanie chorób zakaźnych zwierząt w ustawie budżetowej na 2023 r. w ramach limitu wydatków właściwych części budżetowych. Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 -w ramach limitu rezerwy celowej przeznaczonej na zwalczanie chorób zakaźnych zwierząt oraz na realizację zadań ustawowych Inspekcji Weterynaryjnej oraz ze środków budżetowych określonych w części 85 - budżety wojewodów, dział 010 - rolnictwo i łowiectwo, rozdział 01022 - zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego.
+
+### 6.
+
+Założenia programu
+
+### 6.1.
+
+Założenia związane z badaniami
+
+### 6.1.1.
+
+Założenia w zakresie badań diagnostycznych Rok: 2023 Regiona) Rodzaj badaniab) Populacjac) Rodzaj próbkid) Cele) Liczba planowanych badań Rzeczpospolita Polska badanie bakteriologiczne w ramach urzędowego pobierania próbek stada brojlerów gatunku kura (Gallus gallus) kał / okładziny na obuwie / kurz wykrycie stada zakażonego 663 Rzeczpospolita Polska badanie serologiczne w ramach urzędowego pobierania próbek stada brojlerów gatunku kura (Gallus gallus) izolaty Salmonella z kału / okładzin na obuwie / kurzu określenie serotypu 743 Rzeczpospolita Polska badanie w kierunku stwierdzenia skuteczności przeprowadzonego odkażania stada brojlerów gatunku kura (Gallus gallus) wymazy czystościowe potwierdzenie skuteczności przeprowadzonego odkażania 1348 a) Region określony w zatwierdzonym programie zwalczania chorób państwa członkowskiego. b) Opis badania. c) Wyszczególnienie gatunków i kategorii zwierząt objętych programem, w razie potrzeby. d) Opis próbki (np. odchody). e) Opis celu (np. nadzór, monitorowanie, kontrola szczepień).
+
+### 6.1.2.
+
+Założenia w zakresie badania stad Rok: 2023 Region Rodzaj stada Łączna liczba stad Łączna liczba stad objętych programem Przewidywana liczba stad do zbadania Przewidywana liczba próbkobrań przez powiatowego lekarza weterynarii Przewidywana liczba próbek pobranych przez powiatowego lekarza weterynarii Serotyp Przewidywana liczba stad z dodatnim wynikiem badania Przewidywana liczba stad do likwidacji Łączna przewidywana liczba sztuk drobiu poddanych ubojowi lub zabitych Rzeczpospolita Polska Stada brojlerów gatunku Gallus gallus 44 174 44 174 442 779 663 Salmonella Enteritidis,Salmonella Typhimurium 337 337 8 199 547
+
+### 7.
+
+Szczegółowa analiza kosztów wynikających z realizacji programu Rok: 20231) Przeznaczenie kosztów Wyszczególnienie Szacunkowa liczba jednostek Szacunkowy jednostkowy koszt (w złotych) Szacunkowy jednostkowy koszt (w euro) Suma ogółem (w złotych) Suma ogółem (w euro) Finansowanie unijne 1. Badania laboratoryjne2) Koszt badań laboratoryjnych Badanie bakteriologiczne w ramach pobierania próbek przez powiatowego lekarza weterynarii 663 93,74 20,16 62 149,62 13 366,08 tak Koszt badań laboratoryjnych Badanie w kierunku stwierdzenia skuteczności przeprowadzonego odkażania 1348 188,05 40,44 253 491,40 54 513,12 tak Koszt badań laboratoryjnych Badanie w kierunku określenia serotypu odpowiednich izolatów 743 218,60 47,01 162 419,80 34 928,43 tak 2. Szczepienia Szczepienia Program nie przewiduje 3. Koszty zniszczenia lub unieszkodliwienia Koszty zniszczenia lub unieszkodliwienia Program nie przewiduje 4. Czyszczenie i odkażanie Czyszczenie i odkażanie Odkażanie jest rutynową czynnością wykonywaną zawsze przed wprowadzeniem kurcząt do kurnika, stąd jego koszty ponoszone są przez producenta brojlerów gatunku kura (Gallus gallus) 5. Wynagrodzenia (osoby zatrudnione do realizacji programu) Wynagrodzenia Koszt wyceny paszy (godz.) 8 55,37 11,91 442,96 95,28 nie 6. Towary konsumpcyjne i specjalny sprzęt Towary konsumpcyjne i specjalny sprzęt Nie dotyczy 7. Inne koszty Inne koszty Badanie laboratoryjne inne niż wymienione w pkt 1 (np. badania paszy i wody) 1011 43,06 9,26 43 533,66 9 361,86 nie Inne koszty Odszkodowanie za pasze (tony) 4 1860,00 400,00 7 440,00 1 600,00 nie Inne koszty Unieszkodliwienie odpadów laboratoryjnych (kg) 4470 8,00 1,72 35 760,00 7 688,40 nie 8. Koszt pobrania próbek2) Koszt pobrania próbek Koszt pobrania próbek 779 36,32 7,81 28 293,28 6 083,99 tak OGÓŁEM 593 530,72 127 637,16 OGÓŁEM (koszty kwalifikowalne) 506 354,10 108 891,62 1) Analiza obejmuje szacunki kosztów ponoszonych w ramach programu. Wszystkie wartości są podane bez VAT. Koszt programu obliczono według kursu euro 4,65 zgodnie z wytycznymi dotyczącymi stosowania jednolitych wskaźników makroekonomicznych będących podstawą oszacowania skutków finansowych projektowanych ustaw - aktualizacja: październik 2022 r. Są to szacunkowe koszty realizacji programu, które zostaną dostosowane do wielkości wydatków przewidzianych na zwalczanie chorób zakaźnych zwierząt w ustawie budżetowej na rok 2023 w ramach limitu wydatków określonych w części 83 - rezerwy celowe oraz w części 85 - budżety wojewodów. Finansowanie programu odbywa się ze środków budżetowych określonych w części 83 - w ramach limitów rezerw celowych przeznaczonych na zwalczanie chorób zakaźnych zwierząt oraz na realizację zadań ustawowych Inspekcji Weterynaryjnej oraz ze środków budżetowych określonych w części 85 - budżety wojewodów, dział 010 - rolnictwo i łowiectwo, rozdział 01022 - zwalczanie chorób zakaźnych zwierząt oraz badania monitoringowe pozostałości chemicznych i biologicznych w tkankach zwierząt i produktach pochodzenia zwierzęcego. 2) Szacunkowe koszty jednostkowe wyliczone na podstawie dokumentu „Single Market Programme (SMP Food) Invitation to submit a proposal SMP-FOOD-2022-VETPROGR-LS” z dnia 10 maja 2022 r.

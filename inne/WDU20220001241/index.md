@@ -1,0 +1,537 @@
+---
+title: "Obwieszczenie Ministra Finansów z dnia 25 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie służby przygotowawczej w Służbie Celno-Skarbowej"
+address: WDU20220001241
+eli: DU/2022/1241
+publisher: DU
+year: 2022
+pos: 1241
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Finansówz dnia 25 maja 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju i Finansów w sprawie służby przygotowawczej w Służbie Celno-Skarbowej [1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1241 |
+| ISAP | WDU20220001241 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-05-25 |
+| Data wydania | 2022-06-13 |
+| Ostatnia zmiana | 2025-11-21 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2022/1241/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2022/1241) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Tekst jednolity rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej](#part_2)
+
+- [Załącznik nr 1 - Rodzaje dokumentów potwierdzających znajomość języka obcego](#part_3)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej ([Dz. U. poz. 1396](https://api.sejm.gov.pl/eli/acts/DU/2017/1396/text.html)), z uwzględnieniem zmian wprowadzonych rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającym rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej ([Dz. U. poz. 1437](https://api.sejm.gov.pl/eli/acts/DU/2021/1437/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej ([Dz. U. poz. 1437](https://api.sejm.gov.pl/eli/acts/DU/2021/1437/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+Do:
+
+### 1)
+
+szkoleń wstępnych oraz zasadniczego kursu zawodowego,
+
+### 2)
+
+egzaminu kończącego zasadniczy kurs zawodowy oraz egzaminu zawodowego
+
+- rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Finansów kieruje działem administracji rządowej - finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+
+## Załącznik - Tekst jednolity rozporządzenia Ministra Rozwoju i Finansów z dnia 13 lipca 2017 r. w sprawie służby przygotowawczej w Służbie Celno-Skarbowej[1) Obecnie działem administracji rządowej - finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+Na podstawie art. 155 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej ([Dz. U. z 2022 r. poz. 813](https://api.sejm.gov.pl/eli/acts/DU/2022/813/text.html), [835](https://api.sejm.gov.pl/eli/acts/DU/2022/835/text.html) i [1079](https://api.sejm.gov.pl/eli/acts/DU/2022/1079/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+program i przebieg służby przygotowawczej w Służbie Celno-Skarbowej;
+
+### 2)
+
+obowiązki opiekuna;
+
+### 3)
+
+szczegółowe warunki i tryb przeprowadzania egzaminu:
+
+### a)
+
+kończącego zasadniczy kurs zawodowy, zwanego dalej „egzaminem”,
+
+### b)
+
+zawodowego,
+
+### c)
+
+potwierdzającego znajomość języka obcego w zakresie umożliwiającym wykonywanie obowiązków służbowych, zwanego dalej „egzaminem potwierdzającym znajomość języka obcego”;
+
+### 4)
+
+wykaz dokumentów potwierdzających znajomość języka obcego w zakresie umożliwiającym wykonywanie obowiązków służbowych;
+
+### 5)
+
+tryb opiniowania oraz rozpatrywania odwołań od opinii okresowych.
+
+### § 2.
+
+Program służby przygotowawczej obejmuje:
+
+### 1)
+
+szkolenie wstępne;
+
+### 2)
+
+zasadniczy kurs zawodowy;
+
+### 3)
+
+praktykę zawodową.
+
+### § 3.
+
+### 1.
+
+Funkcjonariusz Służby Celno-Skarbowej w służbie przygotowawczej, zwany dalej „funkcjonariuszem”, do czasu złożenia egzaminu lub egzaminu zawodowego, odbywa służbę przygotowawczą pod kierunkiem opiekuna.
+
+### 2.
+
+Do obowiązków opiekuna należy:
+
+### 1)
+
+zapoznanie funkcjonariusza z zadaniami wykonywanymi na stanowisku służbowym;
+
+### 2)
+
+służenie radą, udzielanie wsparcia i wskazywanie rozwiązań problemów przy realizacji zadań na stanowisku służbowym;
+
+### 3)
+
+wskazanie funkcjonariuszowi przepisów, których znajomość jest niezbędna do wykonywania zadań na stanowisku służbowym;
+
+### 4)
+
+nadzorowanie prawidłowości prowadzonego przez funkcjonariusza dziennika służby przygotowawczej.
+
+### § 4.
+
+### 1.
+
+Szkolenie wstępne polega na zapoznaniu funkcjonariusza z:
+
+### 1)
+
+zadaniami i strukturą organizacyjną Krajowej Administracji Skarbowej, zwanej dalej „KAS”;
+
+### 2)
+
+zadaniami wykonywanymi na stanowisku służbowym funkcjonariusza;
+
+### 3)
+
+prawami i obowiązkami funkcjonariusza;
+
+### 4)
+
+podstawami etyki zawodowej;
+
+### 5)
+
+(uchylony);[2) Przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437), które weszło w życie z dniem 24 sierpnia 2021 r.](#gloss-0:2:)
+
+### 6[3) Dodany przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:3:))
+
+podstawami wiedzy zawodowej.
+
+### 2[4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:4:).
+
+Szkolenie wstępne trwa do 3 miesięcy i odbywa się w jednostce organizacyjnej KAS, w której funkcjonariusz pełni służbę. W przypadku funkcjonariusza pełniącego służbę w komórce terenowej wchodzącej w skład komórek organizacyjnych urzędu obsługującego ministra właściwego do spraw finansów publicznych szkolenie wstępne może odbyć się również w innej jednostce organizacyjnej KAS.
+
+### 3.
+
+W trakcie szkolenia wstępnego funkcjonariusz jest zobowiązany do udziału w szkoleniu praktycznym, w co najmniej dwóch komórkach organizacyjnych jednostki, o której mowa w ust. 2.
+
+### § 5.
+
+### 1[5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+W ramach zasadniczego kursu zawodowego funkcjonariusz jest zapoznawany z zagadnieniami, których znajomość jest niezbędna do samodzielnego pełnienia służby, oraz nabywa umiejętności praktyczne w tym zakresie.
+
+### 2[5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:5:).
+
+Program zasadniczego kursu zawodowego obejmuje:
+
+### 1)
+
+część ogólną, jednolitą dla wszystkich funkcjonariuszy, w szczególności z zakresu psychologii w kontroli, taktyki i techniki interwencji, etyki zawodowej, ceremoniału Służby Celno-Skarbowej, musztry oraz pomocy przedmedycznej;
+
+### 2)
+
+część profilowaną, zgodną z zadaniami wykonywanymi przez funkcjonariusza na stanowisku służbowym, uwzględniającą w szczególności:
+
+### a)
+
+podstawy wiedzy z zakresu prawa celnego, prawa karnego, prawa karnego skarbowego, prawa podatkowego, postępowania administracyjnego, celnego i podatkowego,
+
+### b)
+
+nabycie wiedzy i umiejętności strzeleckich;
+
+### 3)
+
+zajęcia rozwijające sprawność fizyczną.
+
+### 3.
+
+Program, o którym mowa w ust. 2, zatwierdza Szef Krajowej Administracji Skarbowej, zwany dalej „Szefem KAS”.
+
+### § 6.
+
+### 1.
+
+Zasadniczy kurs zawodowy kończy się egzaminem składanym przed komisją egzaminacyjną powoływaną przez Szefa KAS.
+
+### 2.
+
+W skład komisji egzaminacyjnej wchodzą:
+
+### 1)
+
+przewodniczący;
+
+### 2)
+
+dwaj członkowie;
+
+### 3)
+
+sekretarz.
+
+### 3.
+
+Przewodniczący oraz członkowie komisji egzaminacyjnej są powoływani spośród funkcjonariuszy Służby Celno-Skarbowej w służbie stałej lub członków korpusu służby cywilnej posiadających wiedzę z zagadnień profilowanych będących przedmiotem programu zasadniczego kursu zawodowego oraz doświadczenie zawodowe, które dają rękojmię prawidłowego przebiegu egzaminu.
+
+### 4.
+
+Sekretarz komisji egzaminacyjnej jest powoływany spośród osób mających wiedzę z zakresu organizacji szkoleń i egzaminów.
+
+### 5.
+
+W skład komisji egzaminacyjnej nie mogą być powołane osoby, które były wykładowcami w trakcie zasadniczego kursu zawodowego.
+
+### § 7.
+
+Egzamin składa się z części pisemnej i ustnej.
+
+### § 8.
+
+### 1.
+
+Część pisemna egzaminu jest przeprowadzana w formie testu, zatwierdzanego przez Szefa KAS.
+
+### 2.
+
+Test składa się z 60 pytań obejmujących zagadnienia części profilowanej zasadniczego kursu zawodowego.[6) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2.](#gloss-0:6:) Na każde pytanie możliwa jest tylko jedna poprawna odpowiedź. Za każdą prawidłową odpowiedź na pytanie przyznaje się 1 punkt.
+
+### 3.
+
+Część pisemna egzaminu trwa 60 minut.
+
+### 4.
+
+Warunkiem zdania części pisemnej egzaminu jest uzyskanie co najmniej 45 punktów.
+
+### 5.
+
+W przypadku uzyskania z części pisemnej egzaminu mniej niż 45 punktów funkcjonariusz nie może przystąpić do części ustnej egzaminu.
+
+### § 9.
+
+### 1.
+
+Funkcjonariusz przed przystąpieniem do części pisemnej egzaminu losuje kopertę zawierającą kartę identyfikacyjną oznaczoną numerem. Na karcie identyfikacyjnej funkcjonariusz wpisuje imię i nazwisko, datę i miejsce urodzenia oraz miejsce pełnienia służby. Po wypełnieniu karty identyfikacyjnej funkcjonariusz wkłada ją do koperty i kopertę oddaje sekretarzowi komisji egzaminacyjnej, a test oznacza numerem karty identyfikacyjnej.
+
+### 2.
+
+Karta identyfikacyjna wyjmowana jest z koperty po ustaleniu wyniku testu.
+
+### § 10.
+
+Funkcjonariuszowi przysługuje prawo zapoznania się z ocenionym testem; oceniony test jest udostępniany do wglądu w obecności jednej z osób wchodzących w skład komisji egzaminacyjnej.
+
+### § 11.
+
+### 1.
+
+Część ustna egzaminu polega na udzieleniu odpowiedzi na 6 wybranych losowo pytań części profilowanej zasadniczego kursu zawodowego.
+
+### 2.
+
+Funkcjonariuszowi przysługuje nie więcej niż 30 minut na przygotowanie się do odpowiedzi.
+
+### 3.
+
+Komisja egzaminacyjna ocenia odpowiedzi udzielane przez funkcjonariusza na poszczególne pytania, biorąc pod uwagę poprawność i kompletność odpowiedzi. Za każdą odpowiedź przyznaje się od 0 do 10 punktów.
+
+### 4.
+
+Warunkiem zdania części ustnej egzaminu jest uzyskanie przez funkcjonariusza co najmniej 30 punktów.
+
+### § 12.
+
+W przypadku nieuzyskania przez funkcjonariusza wymaganej liczby punktów z części pisemnej lub z części ustnej egzaminu funkcjonariusz powtarza niezdaną część egzaminu tylko jeden raz, nie wcześniej niż po upływie miesiąca od dnia przeprowadzenia egzaminu.
+
+### § 13.
+
+Przy ustalaniu oceny z egzaminu stosuje się następującą skalę ocen, w zależności od uzyskanej przez funkcjonariusza łącznej liczby punktów z obu części egzaminu:
+
+### 1)
+
+ocena bardzo dobra (110 i więcej punktów);
+
+### 2)
+
+ocena dobra (91-109 punktów);
+
+### 3)
+
+ocena dostateczna (75-90 punktów);
+
+### 4)
+
+ocena niedostateczna (poniżej 75 punktów).
+
+### § 14.
+
+### 1.
+
+Z przeprowadzonego egzaminu sporządza się protokół zawierający datę i miejsce egzaminu, skład komisji egzaminacyjnej, liczbę osób przystępujących do egzaminu, uzyskane oceny oraz podpisy osób wchodzących w skład komisji egzaminacyjnej.
+
+### 2.
+
+Po zakończeniu egzaminu z wynikiem pozytywnym komisja egzaminacyjna wydaje zaświadczenie zawierające imię i nazwisko funkcjonariusza, datę i miejsce urodzenia, stanowisko służbowe i stopień służbowy funkcjonariusza, miejsce pełnienia służby oraz ocenę z egzaminu.
+
+### § 15.
+
+### 1.
+
+Egzamin zawodowy składa funkcjonariusz zwolniony przez Szefa KAS z obowiązku ukończenia zasadniczego kursu zawodowego.
+
+### 2.
+
+Przepisy § 6-14 stosuje się odpowiednio.
+
+### § 16.
+
+### 1.
+
+Egzamin potwierdzający znajomość języka obcego przeprowadzany jest po złożeniu przez funkcjonariusza egzaminu albo egzaminu zawodowego.
+
+### 2.
+
+Egzamin, o którym mowa w ust. 1, przeprowadza komisja egzaminacyjna powołana przez Szefa KAS.
+
+### 3.
+
+Przepisy § 6 ust. 2-5 stosuje się odpowiednio.
+
+### 4.
+
+Zwolnienie z obowiązku złożenia egzaminu potwierdzającego znajomość języka obcego następuje po przedłożeniu jednego z dokumentów potwierdzających znajomość języka obcego, w zakresie umożliwiającym wykonywanie obowiązków służbowych, wymienionych w załączniku do rozporządzenia.
+
+### § 17.
+
+### 1.
+
+Egzamin potwierdzający znajomość języka obcego składa się z części pisemnej i ustnej.
+
+### 2.
+
+Formularz egzaminacyjny zawierający 60 poleceń z zakresu znajomości gramatyki i słownictwa języka obcego zatwierdza Szef KAS.
+
+### 3.
+
+Za każde prawidłowo wykonane polecenie przyznaje się 1 punkt.
+
+### 4.
+
+Część pisemna egzaminu potwierdzającego znajomość języka obcego trwa 60 minut.
+
+### 5.
+
+Warunkiem zdania części pisemnej egzaminu potwierdzającego znajomość języka obcego jest uzyskanie co najmniej 45 punktów.
+
+### 6.
+
+W przypadku uzyskania z części pisemnej egzaminu potwierdzającego znajomość języka obcego mniej niż 45 punktów funkcjonariusz nie jest dopuszczany do części ustnej egzaminu.
+
+### 7.
+
+Przepisy § 9 i § 10 stosuje się odpowiednio.
+
+### § 18.
+
+### 1.
+
+Część ustna egzaminu potwierdzającego znajomość języka obcego polega na przedstawieniu scenki rodzajowej oraz na przeprowadzeniu rozmowy sprawdzającej umiejętność porozumiewania się w języku obcym w sytuacjach związanych z wykonywaną służbą.
+
+### 2.
+
+Komisja egzaminacyjna ocenia wypowiedź funkcjonariusza według następujących kryteriów:
+
+### 1)
+
+płynność wypowiedzi,
+
+### 2)
+
+poprawność gramatyczna wypowiedzi,
+
+### 3)
+
+zasób słownictwa fachowego
+
+- przyznając za każde kryterium od 0 do 10 punktów.
+
+### 3.
+
+Warunkiem zdania części ustnej egzaminu potwierdzającego znajomość języka obcego jest uzyskanie przez funkcjonariusza co najmniej 15 punktów.
+
+### § 19.
+
+W przypadku nieuzyskania przez funkcjonariusza wymaganej liczby punktów z egzaminu potwierdzającego znajomość języka obcego funkcjonariusz powtarza niezdaną część egzaminu tylko jeden raz, nie wcześniej niż po upływie miesiąca od dnia przeprowadzenia egzaminu.
+
+### § 20.
+
+Przy ustalaniu oceny z egzaminu potwierdzającego znajomość języka obcego stosuje się następującą skalę ocen, w zależności od uzyskanej przez funkcjonariusza łącznej liczby punktów z obu części egzaminu:
+
+### 1)
+
+ocena bardzo dobra (83 i więcej punktów);
+
+### 2)
+
+ocena dobra (71-82 punktów);
+
+### 3)
+
+ocena dostateczna (60-70 punktów);
+
+### 4)
+
+ocena niedostateczna (poniżej 60 punktów).
+
+### § 21.
+
+Z przeprowadzonego egzaminu potwierdzającego znajomość języka obcego sporządza się protokół. Przepis § 14 stosuje się odpowiednio.
+
+### § 22.
+
+Praktyka zawodowa trwa od dnia otrzymania zaświadczenia, o którym mowa w § 14 ust. 2, do dnia mianowania do służby stałej i ma na celu nabycie umiejętności wykorzystania posiadanej wiedzy teoretycznej w praktyce.
+
+### § 23.
+
+Opinia okresowa może zostać wydana po raz pierwszy po 3 miesiącach służby funkcjonariusza.
+
+### § 24.
+
+### 1.
+
+Bezpośredni przełożony, podczas rozmowy, w obecności opiekuna zapoznaje funkcjonariusza z opinią okresową.
+
+### 2.
+
+Jeden egzemplarz opinii okresowej wręcza się funkcjonariuszowi podczas rozmowy, o której mowa w ust. 1. Fakt zapoznania się z opinią funkcjonariusz potwierdza własnoręcznym podpisem na egzemplarzu opinii okresowej, która jest dołączana do jego akt osobowych.
+
+### 3.
+
+W przypadku odmowy złożenia podpisu bezpośredni przełożony sporządza na tę okoliczność adnotację na egzemplarzu opinii okresowej.
+
+### § 25.
+
+### 1.
+
+W przypadku uwzględnienia odwołania przez bezpośredniego przełożonego funkcjonariusza w całości wydaje on, w porozumieniu z opiekunem funkcjonariusza, nową opinię okresową.
+
+### 2.
+
+W przypadku nieuwzględnienia odwołania jest ono przesyłane, w terminie 7 dni od dnia otrzymania, do kierownika jednostki organizacyjnej, wraz z wydaną opinią okresową i dokumentacją przebiegu służby przygotowawczej oraz stanowiskiem w sprawie bezpośredniego przełożonego funkcjonariusza.
+
+### 3.
+
+Na wniosek funkcjonariusza, zawarty w odwołaniu od opinii okresowej, kierownik jednostki organizacyjnej zawiadamia o złożeniu odwołania związek zawodowy wskazany przez funkcjonariusza.
+
+### 4.
+
+Kierownik jednostki organizacyjnej rozpatruje odwołanie od opinii okresowej po wysłuchaniu funkcjonariusza.
+
+### 5.
+
+Kierownik jednostki organizacyjnej, po zapoznaniu się z całością sprawy:
+
+### 1)
+
+utrzymuje w mocy zaskarżoną opinię okresową albo
+
+### 2)
+
+uchyla zaskarżoną opinię okresową w całości i poleca wydanie nowej opinii okresowej, wskazując, jakie okoliczności należy wziąć pod uwagę przy jej wydawaniu, albo
+
+### 3)
+
+uchyla zaskarżoną opinię okresową w całości i wydaje nową opinię okresową, jeżeli dotyczy ona pracownika bezpośrednio jemu podległego.
+
+### 6.
+
+Kierownik jednostki organizacyjnej jest obowiązany rozpatrzyć odwołanie w terminie 30 dni od dnia jego otrzymania.
+
+### 7.
+
+W przypadku złożenia wniosku o ponowne rozpatrzenie sprawy przepisy ust. 1-6 stosuje się odpowiednio.
+
+### § 26.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[7) Rozporządzenie zostało ogłoszone w dniu 20 lipca 2017 r.](#gloss-0:7:).[8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2010 r. w sprawie służby przygotowawczej w Służbie Celnej (Dz. U. poz. 516), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).](#gloss-0:8:)
+
+1) Obecnie działem administracji rządowej - finanse publiczne kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Przez § 1 pkt 1 lit. a tiret pierwsze rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 22 lipca 2021 r. zmieniającego rozporządzenie w sprawie służby przygotowawczej w Służbie Celno-Skarbowej (Dz. U. poz. 1437), które weszło w życie z dniem 24 sierpnia 2021 r. 3) Dodany przez § 1 pkt 1 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 2. 4) W brzmieniu ustalonym przez § 1 pkt 1 lit. b rozporządzenia, o którym mowa w odnośniku 2. 5) W brzmieniu ustalonym przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2. 6) Zdanie pierwsze w brzmieniu ustalonym przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 2. 7) Rozporządzenie zostało ogłoszone w dniu 20 lipca 2017 r. 8) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 26 kwietnia 2010 r. w sprawie służby przygotowawczej w Służbie Celnej (Dz. U. poz. 516), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 256 pkt 3 ustawy z dnia 16 listopada 2016 r. - Przepisy wprowadzające ustawę o Krajowej Administracji Skarbowej (Dz. U. poz. 1948 i 2255 oraz z 2017 r. poz. 379).
+
+## Załącznik nr 1 - Rodzaje dokumentów potwierdzających znajomość języka obcego
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2022/1241/text.pdf)

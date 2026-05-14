@@ -1,0 +1,84 @@
+---
+title: "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 16 kwietnia 2024 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności"
+address: WDU20240000591
+eli: DU/2024/591
+publisher: DU
+year: 2024
+pos: 591
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 16 kwietnia 2024 r. zmieniające rozporządzenie w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności [1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 591 |
+| ISAP | WDU20240000591 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-04-16 |
+| Data wydania | 2024-04-18 |
+| Wejście w życie | 2024-04-19 |
+| Ostatnia zmiana | 2024-04-22 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/591/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/591) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 14lc ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju ([Dz. U. z 2024 r. poz. 324](https://api.sejm.gov.pl/eli/acts/DU/2024/324/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 5 września 2022 r. w sprawie szczegółowego przeznaczenia, warunków i trybu udzielania wsparcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach Krajowego Planu Odbudowy i Zwiększania Odporności ([Dz. U. poz. 1898](https://api.sejm.gov.pl/eli/acts/DU/2022/1898/text.html) oraz [z 2023 r. poz. 2171](https://api.sejm.gov.pl/eli/acts/DU/2023/2171/text.html) i [2665](https://api.sejm.gov.pl/eli/acts/DU/2023/2665/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 3:
+
+### a)
+
+w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+podlega ubezpieczeniu społecznemu rolników w pełnym zakresie z mocy ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ([Dz. U. z 2024 r. poz. 90](https://api.sejm.gov.pl/eli/acts/DU/2024/90/text.html)) jako rolnik lub małżonek rolnika lub przyznano jej płatności bezpośrednie w rozumieniu ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego ([Dz. U. z 2022 r. poz. 1775](https://api.sejm.gov.pl/eli/acts/DU/2022/1775/text.html) i [2727](https://api.sejm.gov.pl/eli/acts/DU/2022/2727/text.html)) lub o których mowa w przepisach ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 ([Dz. U. z 2024 r. poz. 261](https://api.sejm.gov.pl/eli/acts/DU/2024/261/text.html)) co najmniej w roku poprzedzającym rok złożenia wniosku o objęcie wsparciem - nie dotyczy osób, o których mowa w ust. 1 pkt 6;
+
+” ,
+
+### b)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Jeżeli na dzień złożenia wniosku o objęcie wsparciem nie była wydana decyzja o przyznaniu płatności bezpośrednich, o których mowa w ust. 2 pkt 2, za rok poprzedzający rok złożenia tego wniosku, co najmniej jeden z warunków, o których mowa w ust. 2 pkt 2, powinien być spełniony przed dniem udzielenia wsparcia.
+
+” ;
+
+### 2)
+
+w § 5 w pkt 1 lit. c otrzymuje brzmienie:
+
+„
+
+### c)
+
+Komisji (UE) 2023/2831 z dnia 13 grudnia 2023 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz. Urz. UE L 2023/2831 z 15.12.2023);
+
+” .
+
+### § 2.
+
+Do postępowań w sprawach dotyczących udzielania wsparcia na przedsięwzięcia w zakresie przetwarzania lub wprowadzania do obrotu produktów rolnych, spożywczych, rybołówstwa lub akwakultury w ramach inwestycji A1.4.1. „Inwestycje na rzecz dywersyfikacji i skracania łańcucha dostaw produktów rolnych i spożywczych oraz budowy odporności podmiotów uczestniczących w łańcuchu” objętej Krajowym Planem Odbudowy i Zwiększania Odporności, wszczętych i niezakończonych przed dniem wejścia w życie niniejszego rozporządzenia, stosuje się przepisy rozporządzenia zmienianego w § 1 w brzmieniu nadanym niniejszym rozporządzeniem.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej - rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).

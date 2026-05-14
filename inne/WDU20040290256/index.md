@@ -8,11 +8,9 @@ pos: 256
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie
-
-*USTAWA z dnia 9 stycznia 2004 r.*
+# Ustawa z dnia 9 stycznia 2004 r. o nadaniu Wyższej Szkole Morskiej w Szczecinie nazwy Akademia Morska w Szczecinie
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2004-01-09 |
 | Data wydania | 2004-02-26 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040290256) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/256/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/256/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/256) |
 
-**Art. 1.** Wyższej Szkole Morskiej w Szczecinie nadaje się nazwę Akademia Morska w Szczecinie.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Wyższej Szkole Morskiej w Szczecinie nadaje się nazwę Akademia Morska w Szczecinie.
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

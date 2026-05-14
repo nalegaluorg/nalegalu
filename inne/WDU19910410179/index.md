@@ -8,11 +8,9 @@ pos: 179
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o izbach aptekarskich
-
-*USTAWA z dnia 19 kwietnia 1991 r.*
+# Ustawa z dnia 19 kwietnia 1991 r. o izbach aptekarskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,687 +22,1246 @@ domain: null
 | Data ogłoszenia | 1991-04-19 |
 | Data wydania | 1991-05-14 |
 | Ostatnia zmiana | 2025-12-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910410179) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/179/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1991/179/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1991/179) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.**
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zadania i zasady działania samorządu aptekarskiego](#chpt_2) [Rozdział 3 - Okręgowe izby aptekarskie. Obowiązki i prawa członków](#chpt_3) [Rozdział 4 - Naczelna Izba Aptekarska](#chpt_4) [Rozdział 5 - Odpowiedzialność zawodowa](#chpt_5) [Rozdział 6 - Polubowne rozstrzyganie sporów](#chpt_6) [Rozdział 7 - Majątek i gospodarka finansowa](#chpt_7) [Rozdział 8 - Zmiany w przepisach obowiązujących](#chpt_8) [Rozdział 9 - Przepisy szczególne, przejściowe i końcowe](#chpt_9)
 
-1. Naczelna Izba Aptekarska i okręgowe izby aptekarskie stanowią samorząd zawodu farmaceuty, jako reprezentację zawodowych, społecznych i gospodarczych interesów tego zawodu.
+TOC
 
-2. Samorząd zawodu farmaceuty jest niezależny i podlega tylko ustawom.
+## Treść ustawy
 
-3. Naczelna Izba Aptekarska i okręgowe izby aptekarskie mają osobowość prawną.
+### Rozdział 1 Przepisy ogólne
 
-**Art. 1a.**
+### Art. 1.
 
-1. Użyte w ustawie określenia oznaczają:
+### 1.
 
-- **1)** państwo członkowskie Unii Europejskiej – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym, lub Konfederację Szwajcarską;
-- **2)** obywatele państwa członkowskiego Unii Europejskiej – obywateli państw członkowskich Unii Europejskiej, a także: o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2025 r. poz. 1164), 151b ust. 1, art. 157a ust. 1 lub art. 157g ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, da) obywateli państw trzecich posiadających wizę krajową w celu odbycia studiów pierwszego stopnia, studiów drugiego stopnia lub jednolitych studiów magisterskich albo kształcenia się w szkole doktorskiej, z adnotacją „student”, wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych, wizę krajową w celu odbycia stażu lub wizę krajową w celu udziału w programie wolontariatu europejskiego, db) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, dc) obywateli państw trzecich przebywających na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności studenta na warunkach określonych w art. 149b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, ustanawiającym jednolity wzór dokumentów pobytowych dla obywateli państw trzecich (Dz. Urz. UE L 157 z 15.06.2002, str. 1, z późn. zm.), oraz obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celu wykonywania pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym;
-    - **a)** obywateli polskich, którzy uzyskali kwalifikacje w państwie członkowskim Unii Europejskiej,
-    - **b)** członków ich rodzin w rozumieniu przepisów ustawy z dnia 14 lipca 2006 r.
-    - **c)** obywateli państw trzecich posiadających zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079),
-    - **d)** obywateli państw trzecich posiadających zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 151 ust. 1, art.
-    - **e)** cudzoziemców posiadających status uchodźcy lub objętych ochroną uzupełniającą,
-    - **f)** cudzoziemców, którzy przybywają na terytorium Rzeczypospolitej Polskiej lub przebywają na tym terytorium w celu połączenia się z rodziną i są członkami rodziny cudzoziemca zamieszkującego na terytorium Rzeczypospolitej Polskiej w związku z nadaniem mu statusu uchodźcy lub udzieleniem mu ochrony uzupełniającej,
-    - **g)** obywateli państw trzecich, którzy ubiegają się o przyjęcie na terytorium Rzeczypospolitej Polskiej w celu podjęcia pracy w zawodzie wymagającym wysokich kwalifikacji lub w celu mobilności długoterminowej posiadacza Niebieskiej Karty UE, w rozumieniu przepisów ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach,
-    - **h)** obywateli państw trzecich, którzy zostali przyjęci na terytorium Rzeczypospolitej Polskiej w celach innych niż wykonywanie pracy zgodnie z prawem Unii Europejskiej lub prawem krajowym i mają prawo do wykonywania pracy oraz posiadają dokument pobytowy wydany zgodnie z rozporządzeniem Rady (WE) nr 1030/2002 z dnia 13 czerwca 2002 r.
+Naczelna Izba Aptekarska i okręgowe izby aptekarskie stanowią samorząd zawodu aptekarskiego, jako reprezentację zawodowych, społecznych i gospodarczych interesów tego zawodu.
 
-- **3)** cudzoziemiec – obywatela państwa innego niż państwo członkowskie Unii Europejskiej.
+### 2.
 
-2. Ilekroć w ustawie jest mowa o „tytule magistra farmacji” należy przez to rozumieć również „tytuł magistra uzyskany na kierunku farmacja”.
+Samorząd zawodu aptekarskiego jest niezależny i podlega tylko ustawom.
 
-**Art. 2.**
+### 3.
 
-1. Siedzibą Naczelnej Izby Aptekarskiej i jej organów jest miasto stołeczne Warszawa.
+Naczelna Izba Aptekarska i okręgowe izby aptekarskie mają osobowość prawną.
 
-2. Obszar działania poszczególnych okręgowych izb aptekarskich oraz ich siedziby ustala Naczelna Rada Aptekarska, uwzględniając zasadniczy podział terytorialny państwa.
+### Art. 2.
 
-3. (uchylony)
+### 1.
 
-**Art. 2a.** (uchylony)
+Siedzibą Naczelnej Izby Aptekarskiej i jej organów jest miasto stołeczne Warszawa.
 
-**Art. 2b.** (uchylony)
+### 2.
 
-**Art. 2c.** (uchylony)
+Okręgowa izba aptekarska działa na obszarze jednego lub więcej województw.
 
-**Art. 3.** (uchylony)
+### 3.
 
-**Art. 4.** (uchylony)
+Obszar działania poszczególnych okręgowych izb aptekarskich oraz ich siedziby ustala, na wniosek okręgowych zjazdów aptekarzy, Krajowy Zjazd Aptekarzy, uwzględniając podział administracyjny kraju.
 
-**Art. 4a.** (uchylony)
+### Art. 3.
 
-**Art. 4b.** (uchylony)
+Osobą wykonującą zawód aptekarza, w rozumieniu przepisów ustawy, jest osoba, która wykonuje pracę w aptece lub hurtowni środków farmaceutycznych, zwanej dalej „hurtownią”, polegającą na:
 
-**Art. 4c.** (uchylony)
+### 1)
 
-**Art. 4d.** (uchylony)
+produkcji, dystrybucji, sporządzaniu, przechowywaniu, wydawaniu, sprawdzaniu tożsamości i jakości środków farmaceutycznych,
 
-**Art. 4e.** (uchylony)
+### 2)
 
-**Art. 4f.** (uchylony)
+udzielaniu informacji o środkach farmaceutycznych,
 
-**Art. 4g.** (uchylony)
+### 3)
 
-**Art. 4h.** (uchylony)
+kierowaniu apteką lub hurtownią.
 
-**Art. 5.** (uchylony)
+### Art. 4.
 
-**Art. 5a.** (uchylony)
+### 1.
 
-**Art. 5b.** (uchylony)
+Prawo samodzielnego wykonywania zawodu aptekarza, zwane dalej „prawem wykonywania zawodu”, w rozumieniu ustawy ma osoba, która:
 
-**Art. 6.** (uchylony)
+### 1)
 
-**Art. 6a.** (uchylony)
+posiada obywatelstwo polskie,
 
-**Art. 6b.** (uchylony)
+### 2)
 
-**Art. 6c.** (uchylony)
+uzyskała w kraju dyplom magistra farmacji bądź uzyskała za granicą dyplom uznany w kraju za równorzędny,
 
-**Art. 6d.** (uchylony)
+### 3)
 
-#### Rozdział 2 Zadania i zasady działania samorządu zawodu farmaceuty
+odbyła po uzyskaniu lub uznaniu dyplomu roczną praktykę w aptece,
 
-**Art. 7.**
+### 4)
 
-1. Zadaniami samorządu zawodu farmaceuty są w szczególności:
+nie jest ubezwłasnowolniona,
 
-- **1)** reprezentowanie zawodu farmaceuty i obrona jego interesów;
-- **2)** troska o zachowanie godności i niezależności zawodu;
-- **3)** kodyfikowanie, krzewienie i strzeżenie zasad etyki i deontologii zawodowej;
-- **4)** integracja środowiska zawodowego;
-- **5)** sprawowanie pieczy i nadzoru nad wykonywaniem zawodu;
-- **6)** współdziałanie z organami administracji publicznej, związkami zawodowymi i samorządami zawodowymi oraz innymi organizacjami społecznymi w sprawach związanych z wykonywaniem zawodu i innych dotyczących farmacji, a mających wpływ na ochronę zdrowia publicznego;
-- **7)** współpraca z towarzystwami naukowymi, szkołami wyższymi i jednostkami badawczo-rozwojowymi w kraju i za granicą;
-- **8)** prowadzenie działalności samopomocowej oraz innych form pomocy materialnej dla członków samorządu i ich rodzin;
-- **9)** zajmowanie stanowiska w sprawach organizacji ochrony zdrowia i gospodarki produktami leczniczymi;
-- **9a)** udzielanie informacji dotyczących zasad wykonywania zawodu, zasad etyki zawodowej, przepisów dotyczących ochrony zdrowia i ubezpieczeń społecznych;
-- **10)** wykonywanie innych zadań określonych odrębnymi przepisami.
+### 5)
 
-2. Zadania określone w ust. 1 samorząd zawodu farmaceuty wykonuje w szczególności przez:
+została wpisana na listę członków właściwej okręgowej izby aptekarskiej.
 
-- **1)** przyznawanie prawa wykonywania zawodu farmaceuty;
-- **1a)** zawieszanie i pozbawianie prawa wykonywania zawodu oraz ograniczanie w wykonywaniu zawodu;
-- **1b)** prowadzenie postępowania w przedmiocie niezdolności do wykonywania zawodu farmaceuty;
-- **2)** prowadzenie rejestru farmaceutów;
-- **3)** (uchylony)
-- **4)** współdziałanie w sprawach specjalizacji zawodowej;
-- **5)** udział w komisjach konkursowych na stanowiska określone w odrębnych przepisach;
-- **6)** opiniowanie projektów aktów normatywnych dotyczących produktów leczniczych, aptek i wykonywania zawodu farmaceuty oraz występowanie z wnioskiem o podjęcie inicjatywy ustawodawczej;
-- **7)** wydawanie opinii w sprawach udzielania lub cofania zezwoleń na prowadzenie aptek lub hurtowni;
-- **8)** (uchylony)
-- **9)** opiniowanie i wnioskowanie w sprawach kształcenia przed- i podyplomowego farmaceutów i techników farmaceutycznych;
-- **10)** prowadzenie badań dotyczących służb farmaceutycznych i wykonywania zawodu farmaceuty;
-- **11)** występowanie w obronie interesów indywidualnych i zbiorowych członków izb aptekarskich;
-- **12)** sprawowanie sądownictwa dyscyplinarnego w zakresie odpowiedzialności zawodowej farmaceutów oraz sądownictwa polubownego;
-- **12a)** współpracę z samorządami zawodów medycznych i innymi organizacjami reprezentującymi zawody medyczne w kraju i za granicą oraz organami państw członkowskich Unii Europejskiej w zakresie spraw określonych w ustawie;
-- **12b)** organizowanie doskonalenia zawodowego prowadzonego przez samorząd zawodu farmaceuty;
-- **13)** prowadzenie działalności gospodarczej, wydawniczej i zarządzanie majątkiem izby.
+### 2.
 
-3. Współpraca z organami państw członkowskich Unii Europejskiej jest realizowana za pośrednictwem Systemu Wymiany Informacji na Rynku Wewnętrznym IMI, zwanego dalej „systemem IMI”, w zakresie określonym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1024/2012 z dnia 25 października 2012 r. w sprawie współpracy administracyjnej za pośrednictwem systemu wymiany informacji na rynku wewnętrznym i uchylającym decyzję Komisji 2008/49/WE („rozporządzeniu w sprawie IMI”) (Dz. Urz. UE L 316 z 14.11.2012, str. 1, z późn. zm. ).
+Osobie nie posiadającej obywatelstwa polskiego, spełniającej warunki określone w ust. 1 pkt 2, 3 i 4 oraz wykazującej wystarczającą znajomość języka polskiego w mowie i piśmie, Minister Zdrowia i Opieki Społecznej w porozumieniu z Naczelną Radą Aptekarską może zezwolić na wykonywanie zawodu aptekarskiego na zasadach określonych w zezwoleniu.
 
-**Art. 7a.**
+### Art. 5.
 
-1. Farmaceuta podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez okręgową radę aptekarską, która przyznała prawo wykonywania zawodu farmaceuty.
+Osoba wykonująca zawód aptekarza nie może jednocześnie wykonywać praktyki lekarskiej, lekarsko-dentystycznej ani weterynaryjnej.
 
-2. Jeżeli farmaceuta wykonuje zawód na terenie innej izby niż izba, której rada przyznała prawo wykonywania zawodu, podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez radę okręgowej izby aptekarskiej, na terenie której farmaceuta wykonuje zawód.
+### Art. 6.
 
-3. Farmaceuta wykonujący zawód na terenie więcej niż jednej okręgowej izby aptekarskiej podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez wskazaną przez niego radę okręgowej izby aptekarskiej, na terenie której wykonuje zawód.
+Minister Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Naczelnej Rady Aptekarskiej, w drodze rozporządzenia określi:
 
-4. Kierownik apteki, punktu aptecznego, działu farmacji szpitalnej oraz farmaceuta sprawujący funkcję, o której mowa w art. 2 pkt 21a–21c ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne, podlega wpisowi do rejestru farmaceutów prowadzonego przez radę okręgowej izby aptekarskiej, na terenie której jest kierownikiem lub sprawuje funkcję.
+### 1)
 
-5. Farmaceuta, który po przyznaniu prawa wykonywania zawodu farmaceuty nie podejmuje zatrudnienia jako aptekarz, podlega obowiązkowi wpisu do rejestru farmaceutów prowadzonego przez okręgową radę aptekarską, która podjęła uchwałę o przyznaniu tego prawa.
+kwalifikacje fachowe wymagane od kierownika apteki lub hurtowni,
 
-6. Farmaceuta, który przestaje wykonywać zawód farmaceuty, pozostaje wpisany w rejestrze farmaceutów, do którego był ostatnio wpisany.
+### 2)
 
-7. Farmaceuta, który przestaje wykonywać zawód na terytorium Rzeczypospolitej Polskiej w związku z przeniesieniem do innego państwa członkowskiego Unii Europejskiej, pozostaje wpisany w rejestrze farmaceutów, do którego był ostatnio wpisany, chyba że przedstawi oświadczenie, że w czasie wykonywania zawodu farmaceuty w innym państwie członkowskim Unii Europejskiej podlegać będzie nadzorowi sprawowanemu przez właściwą organizację lub instytucję zawodową.
+czynności fachowe, które mogą być wykonywane w poszczególnych typach aptek przez osoby nie mające prawa samodzielnego wykonywania zawodu aptekarskiego,
 
-8. Właściwa okręgowa rada aptekarska podejmuje uchwałę o dokonaniu wpisu niezwłocznie, nie później niż w terminie 7 dni od dnia otrzymania wniosku o wpis.
+### 3)
 
-**Art. 8.**
+zasady odbywania rocznej praktyki w aptekach.
 
-1. Rejestr farmaceutów prowadzi okręgowa rada aptekarska.
+### Rozdział 2 Zadania i zasady działania samorządu aptekarskiego
 
-2. Rejestr farmaceutów zawiera następujące dane:
+### Art. 7.
 
-- **1)** imię i nazwisko, datę i miejsce urodzenia, imiona rodziców, obywatelstwo oraz miejsce zamieszkania;
-- **2)** dane dotyczące wykształcenia, w tym:
-    - **a)** numer dyplomu ukończenia studiów,
-    - **b)** nazwę szkoły wyższej i jej siedzibę,
-    - **c)** rok ukończenia studiów,
-    - **d)** datę i miejsce ukończenia rocznej praktyki w aptece,
-    - **e)** rodzaj i stopień posiadanej specjalizacji, datę jej uzyskania oraz nazwę jednostki szkolącej,
-    - **f)** rodzaj i datę uzyskania stopnia i tytułu naukowego oraz nazwę jednostki nadającej ten stopień i tytuł,
-    - **g)** informacje dotyczące dopełnienia obowiązku podnoszenia kwalifikacji zawodowych wynikającego z art. 107zf ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne;
+### 1.
 
-- **3)** dane dotyczące prawa wykonywania zawodu, w tym:
-    - **a)** numer prawa wykonywania zawodu,
-    - **b)** numer uchwały rady aptekarskiej przyznającej prawo wykonywania zawodu,
-    - **c)** informację o posiadaniu prawa wykonywania zawodu w innym państwie,
-    - **d)** informację o ograniczeniach w wykonywaniu zawodu;
+Zadaniem samorządu aptekarskiego jest w szczególności:
 
-- **4)** numer PESEL;
-- **5)** datę zgonu.
+### 1)
 
-3. Farmaceuta ma obowiązek informować niezwłocznie okręgową izbę aptekarską, o której mowa w ust. 1, o danych objętych rejestrem farmaceutów i każdej zmianie tych danych.
+reprezentowanie zawodu aptekarza i obrona jego interesów,
 
-4. Okręgowa rada aptekarska, za pośrednictwem Naczelnej Rady Aptekarskiej, jest obowiązana na żądanie ministra właściwego do spraw zdrowia przekazywać informacje objęte rejestrem farmaceutów.
+### 2)
 
-4a. Okręgowa rada aptekarska za pośrednictwem Naczelnej Rady Aptekarskiej udostępnia systemowi informacji w ochronie zdrowia, o którym mowa w ustawie z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302 i 779), dane objęte rejestrem farmaceutów.
+troska o zachowanie godności i niezależności zawodu,
 
-4b. Rejestr farmaceutów jest prowadzony w postaci elektronicznej.
+### 3)
 
-4c. Dane zawarte w rejestrze farmaceutów mogą zostać udostępnione podmiotom biorącym udział w procesie kształcenia podyplomowego farmaceuty:
+kodyfikowanie, krzewienie i strzeżenie zasad etyki i deontologii zawodowej,
 
-- **1)** uczelniom wyższym,
-- **2)** Centrum Medycznego Kształcenia Podyplomowego,
-- **3)** Centrum Egzaminów Medycznych,
-- **4)** szkołom wyższym prowadzącym studia na kierunku farmacja, które uzyskały akredytację określoną w art. 107a ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne,
-- **5)** wojewodom,
-- **6)** konsultantom krajowym w ochronie zdrowia – w związku z wykonywanymi przez nich zadaniami.
+### 4)
 
-5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia rejestru farmaceutów, uwzględniając w szczególności tryb dokonywania wpisów i zmian w rejestrze oraz wykreśleń z rejestru.
+integracja środowiska zawodowego,
 
-**Art. 8a.**
+### 5)
 
-1. Okręgowa rada aptekarska prowadzi rejestr uproszczony obywateli państw członkowskich Unii Europejskiej wykonujących na terenie tej izby tymczasowo i okazjonalnie czynności zawodowe farmaceuty.
+sprawowanie pieczy i nadzoru nad wykonywaniem zawodu,
 
-2. Rejestr uproszczony, o którym mowa w ust. 1, zawiera następujące dane:
+### 6)
 
-- **1)** imię (imiona) i nazwisko;
-- **2)** obywatelstwo (obywatelstwa);
-- **3)** miejsce i datę urodzenia;
-- **4)** nazwę i numer dokumentu potwierdzającego tożsamość;
-- **5)** adres miejsca zamieszkania w państwie, w którym na stałe wykonuje zawód farmaceuty;
-- **6)** adres pobytu farmaceuty na terytorium Rzeczypospolitej Polskiej;
-- **7)** cechy identyfikacyjne zaświadczenia wydanego przez właściwe organy państwa członkowskiego Unii Europejskiej, potwierdzającego wykonywanie czynności zawodowych farmaceuty w tym państwie oraz spełnienie wymagań dotyczących postawy etycznej do wykonywania zawodu farmaceuty;
-- **8)** cechy identyfikacyjne zaświadczenia wydanego przez właściwe organy państwa członkowskiego Unii Europejskiej lub innego dokumentu potwierdzającego posiadanie kwalifikacji do wykonywania zawodu farmaceuty;
-- **9)** czas, o ile jest to możliwe, miejsce i charakter zamierzonego tymczasowego i okazjonalnego wykonywania czynności zawodowych farmaceuty.
+współdziałanie z organami władzy i administracji państwowej, samorządu terytorialnego, związkami zawodowymi i samorządami zawodowymi oraz innymi organizacjami społecznymi w sprawach związanych z wykonywaniem zawodu i innych dotyczących farmacji, a mających wpływ na ochronę zdrowia publicznego,
 
-3. Wpis do rejestru uproszczonego, o którym mowa w ust. 1, jest bezpłatny i nie może powodować opóźnień i utrudnień w tymczasowym i okazjonalnym wykonywaniu czynności zawodowych farmaceuty.
+### 7)
 
-4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia rejestru uproszczonego, o którym mowa w ust. 1, uwzględniając w szczególności tryb dokonywania wpisów i zmian w rejestrze oraz wykreśleń z rejestru.
+współpraca z towarzystwami naukowymi, szkołami wyższymi i jednostkami badawczo-rozwojowymi w kraju i za granicą,
 
-**Art. 8b.**
+### 8)
 
-1. Okręgowa rada aptekarska informuje, w trybie ostrzeżenia w systemie IMI, właściwe organy państw członkowskich Unii Europejskiej o farmaceucie, wobec którego:
+prowadzenie działalności samopomocowej oraz innych form pomocy materialnej dla członków samorządu i ich rodzin,
 
-- **1)** rada aptekarska podjęła uchwałę o:
-    - **a)** zawieszeniu w prawie wykonywania zawodu,
-    - **b)** ograniczeniu w wykonywaniu określonych czynności,
+### 9)
 
-- **2)** sąd aptekarski wydał orzeczenie o:
-    - **a)** zawieszeniu prawa wykonywania zawodu,
-    - **b)** pozbawieniu prawa wykonywania zawodu,
-    - **c)** tymczasowym zawieszeniu w czynnościach zawodowych,
+zajmowanie stanowiska w sprawach organizacji ochrony zdrowia i gospodarki środkami farmaceutycznymi,
 
-- **3)** sąd powszechny orzekł zakaz wykonywania zawodu,
-- **4)** sąd powszechny albo prokurator tytułem środka zapobiegawczego zastosował zawieszenie w wykonywaniu zawodu – w terminie 3 dni od dnia uprawomocnienia się albo wykonalności uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego.
+### 10)
 
-2. Ostrzeżenie, o którym mowa w ust. 1, obejmuje:
+wykonywanie innych zadań określonych odrębnymi przepisami.
 
-- **1)** imię (imiona) i nazwisko farmaceuty oraz datę jego urodzenia;
-- **2)** tytuł zawodowy;
-- **3)** informację o organie, który nałożył sankcję, o której mowa w ust. 1;
-- **4)** zakres oraz okres obowiązywania ograniczenia, o którym mowa w ust. 1 pkt 1 lit. b;
-- **5)** okres obowiązywania zawieszenia albo zakazu, o których mowa w ust. 1;
-- **6)** informację o pozbawieniu prawa wykonywania zawodu.
+### 2.
 
-3. Okręgowa rada aptekarska informuje właściwe organy państw członkowskich Unii Europejskiej, w trybie ostrzeżenia w systemie IMI, o tożsamości farmaceuty, który w postępowaniu o uznanie kwalifikacji zawodowych posłużył się podrobionym lub przerobionym dokumentem potwierdzającym posiadanie kwalifikacji zawodowych, w terminie 3 dni od dnia uprawomocnienia się wyroku sądu w tej sprawie.
+Zadania określone w ust. 1 samorząd aptekarski wykonuje w szczególności przez:
 
-4. Okręgowa rada aptekarska niezwłocznie informuje właściwe organy państw członkowskich Unii Europejskiej, za pośrednictwem systemu IMI, o wygaśnięciu sankcji, o których mowa w ust. 1, oraz o wszelkich decyzjach wpływających na zmianę terminu ich wygaśnięcia.
+### 1)
 
-5. Okręgowa rada aptekarska niezwłocznie zawiadamia na piśmie farmaceutę, którego dotyczy ostrzeżenie, o którym mowa w ust. 1 lub 3, o jego przekazaniu, za pośrednictwem systemu IMI, właściwym organom państw członkowskich Unii Europejskiej oraz o możliwości złożenia wniosku o jego sprostowanie albo usunięcie.
+stwierdzenie prawa wykonywania zawodu aptekarza,
 
-6. W wyniku rozpatrzenia wniosku, o którym mowa w ust. 5, okręgowa rada aptekarska:
+### 2)
 
-- **1)** dokonuje sprostowania w systemie IMI informacji objętej wnioskiem i zawiadamia farmaceutę o sposobie jej sprostowania albo
-- **2)** usuwa informację objętą wnioskiem z systemu IMI i zawiadamia o tym farmaceutę, albo
-- **3)** odmawia sprostowania albo usunięcia z systemu IMI informacji objętej wnioskiem i zawiadamia o tym farmaceutę.
+prowadzenie rejestrów aptekarzy, aptek i hurtowni,
 
-7. Informacje przekazane w trybie ostrzeżenia, o którym mowa w ust. 1, mogą być przetwarzane w systemie IMI wyłącznie przez okres obowiązywania sankcji, o których mowa w ust. 1. Ostrzeżenia usuwa się z systemu IMI w terminie 3 dni od dnia wykonania albo uchylenia uchwały, orzeczenia albo postanowienia o zastosowaniu środka zapobiegawczego, o których mowa w ust. 1.
+### 3)
 
-**Art. 8c.**
+negocjowanie ogólnych warunków pracy i płac,
 
-1. W przypadku uzasadnionych wątpliwości dotyczących autentyczności dyplomów, świadectw lub innych dokumentów potwierdzających posiadanie kwalifikacji do wykonywania zawodu farmaceuty, wydanych przez właściwe organy państwa członkowskiego, lub dokumentów, o których mowa w art. 5 ust. 1 pkt 4, ust. 4 i 5 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty (Dz. U. z 2025 r. poz. 608), lub w przypadku uzasadnionych wątpliwości dotyczących spełnienia wymagań w zakresie kształcenia określonych w przepisach prawa Unii Europejskiej Naczelna Rada Aptekarska składa do właściwych organów państwa członkowskiego Unii Europejskiej wniosek o potwierdzenie ich autentyczności lub potwierdzenie spełnienia wymagań w zakresie kształcenia.
+### 4)
 
-2. Jeżeli Naczelna Rada Aptekarska albo okręgowa rada aptekarska posiadają informacje dotyczące postępowań dyscyplinarnych lub nałożonych sankcji karnych, lub innych okoliczności, które mogą wpływać na wykonywanie zawodu farmaceuty, informują o tym właściwe organy państwa członkowskiego Unii Europejskiej, w którym farmaceuta uzyskał uprawnienia do wykonywania zawodu lub w którym ten zawód wykonuje.
+współdziałanie w sprawach specjalizacji zawodowej,
 
-3. Naczelna Rada Aptekarska albo okręgowe rady aptekarskie mają obowiązek:
+### 5)
 
-- **1)** dokonania weryfikacji informacji, o których mowa w ust. 2, o które wnoszą właściwe organy państwa członkowskiego Unii Europejskiej;
-- **2)** informowania o wynikach weryfikacji, o której mowa w pkt 1, właściwych organów państwa członkowskiego Unii Europejskiej;
-- **3)** udzielania informacji dotyczących autentyczności dyplomów, świadectw lub innych dokumentów potwierdzających posiadanie kwalifikacji do wykonywania zawodu farmaceuty na terytorium Rzeczypospolitej Polskiej oraz potwierdzania spełniania wymagań w zakresie kształcenia.
+udział w komisjach konkursowych na stanowiska określone w odrębnych przepisach,
 
-**Art. 8d.** W przypadku uzasadnionych wątpliwości Naczelna Rada Aptekarska może wystąpić do właściwych organów państwa członkowskiego Unii Europejskiej o potwierdzenie faktu, że osoba, która złożyła wniosek o uznanie kwalifikacji w zawodzie farmaceuty, nie jest objęta zawieszeniem prawa wykonywania zawodu lub zakazem wykonywania zawodu. Naczelna Rada Aptekarska odpowiada na zapytania właściwych organów państw członkowskich Unii Europejskiej w tym zakresie odnoszące się do osób, które uzyskały prawo wykonywania zawodu farmaceuty.
+### 6)
 
-**Art. 8e.**
+opiniowanie projektów aktów normatywnych dotyczących środków farmaceutycznych, aptek i wykonywania zawodu aptekarza oraz występowanie z wnioskiem o podjęcie inicjatywy ustawodawczej,
 
-1. Okręgowa rada aptekarska w przypadku uzasadnionych wątpliwości może zwrócić się do właściwego organu państwa członkowskiego Unii Europejskiej, w którym farmaceuta, o którym mowa w art. 38 ust. 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, posiada prawo do wykonywania zawodu, o przedstawienie informacji potwierdzających, że farmaceuta prowadzi działalność zgodnie z prawem, jak również że nie zostały na niego nałożone kary dyscyplinarne lub sankcje karne związane z wykonywaniem zawodu, a także sama udziela informacji w tym zakresie w odniesieniu do farmaceutów posiadających prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej.
+### 7)
 
-2. Okręgowa rada aptekarska występuje do właściwego organu państwa członkowskiego Unii Europejskiej o informacje, a także na wniosek właściwego organu państwa członkowskiego Unii Europejskiej przekazuje informacje niezbędne do rozpatrywania skarg składanych na farmaceutów, o których mowa w art. 38 ust. 1 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty. Podmiot, który złożył skargę, jest informowany o sposobie rozpatrzenia skargi.
+wyrażanie zgody w sprawach udzielania lub cofania koncesji na prowadzenie aptek lub hurtowni,
 
-**Art. 8f.**
+### 8)
 
-1. Skreślenie z rejestru farmaceutów prowadzonego przez okręgową radę aptekarską następuje wskutek:
+negocjowanie marż i cen środków farmaceutycznych,
 
-- **1)** śmierci;
-- **2)** utraty prawa wykonywania zawodu farmaceuty w przypadkach określonych w art. 21 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty;
-- **3)** ustania przesłanek uzasadniających wpis do danego rejestru farmaceutów określonych w art. 7a, w szczególności przeniesienia się farmaceuty na teren innej okręgowej izby aptekarskiej;
-- **4)** wykonywania przez aptekarza zawodu lekarza, lekarza dentysty, felczera, starszego felczera, lekarza weterynarii, pielęgniarki lub położnej;
-- **5)** nieopłacenia składek członkowskich przez okres dłuższy niż 24 miesiące.
+### 9)
 
-2. W przypadkach, o których mowa w ust. 1 pkt 4 i 5, okręgowa rada aptekarska podejmuje uchwałę, od której przysługuje odwołanie do Naczelnej Rady Aptekarskiej, która podejmuje w tej sprawie uchwałę.
+opiniowanie i wnioskowanie w sprawach kształcenia przed- i podyplomowego farmaceutów i techników farmaceutycznych,
 
-**Art. 9.**
+### 10)
 
-1. Kadencja organów izb aptekarskich trwa 4 lata.
+prowadzenie badań dotyczących służb farmaceutycznych i wykonywania zawodu aptekarza,
 
-2. Funkcje prezesa rady aptekarskiej, wiceprezesa rady aptekarskiej, sekretarza rady aptekarskiej, skarbnika rady aptekarskiej, rzecznika odpowiedzialności zawodowej, przewodniczącego sądu aptekarskiego, przewodniczącego komisji rewizyjnej można nieprzerwanie pełnić nie dłużej niż przez 2 następujące po sobie kadencje. Jeżeli wyboru dokonano na skutek wygaśnięcia mandatu poprzednika przed upływem 24 miesięcy danej kadencji, pełnienie funkcji do końca tej kadencji uznaje się za pełnienie jej przez pełną kadencję.
+### 11)
 
-3. Wybory do organów izb aptekarskich odbywają się w głosowaniu tajnym, przy nieograniczonej liczbie kandydatów.
+występowanie w obronie interesów indywidualnych i zbiorowych członków izb aptekarskich,
 
-4. Czynne prawo wyborcze przysługuje wszystkim członkom izb aptekarskich, z wyłączeniem farmaceutów zawieszonych w prawie wykonywania zawodu.
+### 12)
 
-5. Bierne prawo wyborcze przysługuje wszystkim członkom izb aptekarskich, z wyłączeniem farmaceutów ukaranych karą wymienioną w art. 46 ust. 1 pkt 1–3.
+sprawowanie sądownictwa dyscyplinarnego w zakresie odpowiedzialności zawodowej aptekarzy oraz sądownictwa polubownego,
 
-6. Na członków sądów aptekarskich mogą kandydować farmaceuci mający co najmniej siedmioletni staż pracy w zawodzie.
+### 13)
 
-**Art. 10.**
+prowadzenie działalności gospodarczej, wydawniczej i zarządzanie majątkiem izby.
 
-1. Członkowie organów izb aptekarskich pełnią swoje obowiązki bezpłatnie.
+### Art. 8.
 
-2. Krajowy Zjazd Aptekarzy może ustalić wykaz stanowisk w organach izb aptekarskich, do których nie stosuje się przepisu ust. 1.
+Minister Zdrowia i Opieki Społecznej w uzgodnieniu z Naczelną Radą Aptekarską, w drodze rozporządzenia, określa tryb postępowania w sprawach stwierdzania prawa wykonywania zawodu aptekarza oraz prowadzenia rejestrów aptekarzy i aptek.
 
-3. Na wniosek okręgowej lub Naczelnej Rady Aptekarskiej pracodawca obowiązany jest zwolnić od pracy pracownika pełniącego określoną funkcję z wyboru w organach izb lub wykonującego czynności na rzecz izby, bez prawa do wynagrodzenia.
+### Art. 9.
 
-4. Izby aptekarskie określają zasady i tryb zwrotu kosztów podróży, utraconych zarobków oraz innych uzasadnionych wydatków poniesionych przez członków samorządu w związku z wykonywaniem czynności na rzecz izby.
+### 1.
 
-**Art. 11.** Mandat członka organu izby aptekarskiej wygasa wskutek:
+Kadencja organów izb aptekarskich trwa 4 lata.
 
-**Art. 12.** Uchwały organów samorządu zawodu farmaceuty podejmowane są zwykłą większością głosów, przy obecności co najmniej połowy członków danego organu.
+### 2.
 
-**Art. 13.**
+Tę samą funkcję w organach izb aptekarskich można pełnić nie dłużej niż przez dwie kolejne kadencje.
 
-1. Minister właściwy do spraw zdrowia może zaskarżyć do Sądu Najwyższego uchwałę organu okręgowej izby aptekarskiej lub Naczelnej Izby Aptekarskiej pod zarzutem niezgodności z prawem w terminie trzech miesięcy od dnia powzięcia wiadomości o uchwale. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy lub ją uchyla.
+### 3.
 
-2. Minister właściwy do spraw zdrowia może zwrócić się do Krajowego Zjazdu Aptekarzy lub do Naczelnej Rady Aptekarskiej o podjęcie uchwały w sprawie należącej do właściwości samorządu zawodu farmaceuty.
+Wybory do organów izb aptekarskich odbywają się w głosowaniu tajnym, przy nieograniczonej liczbie kandydatów.
 
-3. Wniosek, o którym mowa w ust. 2, powinien rozpatrzyć najbliższy Krajowy Zjazd Aptekarzy, Naczelna Rada Aptekarska zaś w terminie miesiąca od dnia jego wpływu.
+### 4.
 
-**Art. 14.** Naczelna Izba Aptekarska i okręgowe izby aptekarskie mają prawo używania pieczęci urzędowej.
+Czynne prawo wyborcze przysługuje wszystkim członkom izb aptekarskich, z wyłączeniem aptekarzy zawieszonych w prawie wykonywania zawodu.
 
-#### Rozdział 3 Okręgowe izby aptekarskie. Obowiązki i prawa członków
+### 5.
 
-**Art. 15.** Członkami okręgowej izby aptekarskiej są farmaceuci wpisani do rejestru farmaceutów prowadzonego przez radę tej okręgowej izby aptekarskiej.
+Bierne prawo wyborcze przysługuje wszystkim członkom izb aptekarskich, z wyłączeniem aptekarzy ukaranych karą wymienioną w art. 46 ust. 1 pkt 1-3.
 
-**Art. 16.** (uchylony)
+### 6.
 
-**Art. 17.** (uchylony)
+Na członków sądów aptekarskich mogą kandydować aptekarze mający co najmniej siedmioletni staż pracy w zawodzie.
 
-**Art. 18.** (uchylony)
+### Art. 10.
 
-**Art. 18a.** (uchylony)
+### 1.
 
-**Art. 19.** (uchylony)
+Członkowie organów izb aptekarskich pełnią swoje obowiązki bezpłatnie.
 
-**Art. 20.** (uchylony)
+### 2.
 
-**Art. 20a.** (uchylony)
+Krajowy Zjazd Aptekarzy może ustalić wykaz stanowisk w organach izb aptekarskich, do których nie stosuje się przepisu ust. 1.
 
-**Art. 21.** Członkowie samorządu zawodu farmaceuty są obowiązani:
+### 3.
 
-**Art. 22.** Członkowie samorządu zawodu farmaceuty mają prawo:
+Na wniosek okręgowej lub Naczelnej Rady Aptekarskiej zakład pracy obowiązany jest zwolnić od pracy pracownika pełniącego określoną funkcję z wyboru w organach izb lub wykonującego czynności na rzecz izby, bez prawa do wynagrodzenia.
 
-**Art. 23.**
+### 4.
 
-1. Pracodawca nie może wypowiedzieć umowy o pracę farmaceucie pełniącemu funkcję z wyboru w organach izb aptekarskich w czasie jej pełnienia bez uzyskania zgody właściwej rady aptekarskiej.
+Izby aptekarskie określają zasady i tryb zwrotu kosztów podróży, utraconych zarobków oraz innych uzasadnionych wydatków poniesionych przez członków samorządu w związku z wykonywaniem czynności na rzecz izby.
 
-2. Przepisu ust. 1 nie stosuje się w przypadkach określonych w art. 40 i 41 Kodeksu pracy.
+### Art. 11.
 
-3. Pracodawca nie może wypowiedzieć farmaceucie, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 Kodeksu pracy.
+Mandat członka organu izby aptekarskiej wygasa wskutek:
 
-**Art. 24.** Organami okręgowej izby aptekarskiej są:
+### 1)
 
-**Art. 25.**
+śmierci,
 
-1. Najwyższą władzą okręgowej izby aptekarskiej jest okręgowy zjazd aptekarzy. W okręgowym zjeździe uczestniczą członkowie okręgowych izb aptekarskich osobiście lub przez swoich delegatów.
+### 2)
 
-2. W okręgowym zjeździe sprawozdawczo-wyborczym uczestniczą także, z głosem doradczym, niebędący delegatami członkowie ustępujących organów izby.
+zrzeczenia się mandatu,
 
-3. Delegatów wybiera się i odwołuje na zebraniach zwoływanych w poszczególnych rejonach, obejmujących część obszaru działania izby. Zasady podziału izby na rejony ustala okręgowa rada aptekarska.
+### 3)
 
-4. Mandat delegata trwa 4 lata.
+skreślenia z listy członków izby aptekarskiej,
 
-**Art. 26.**
+### 4)
 
-1. Okręgowa rada aptekarska zwołuje corocznie okręgowy zjazd aptekarzy, a co 4 lata zjazd sprawozdawczo-wyborczy.
+odwołania przez organ, który dokonał wyboru,
 
-2. Nadzwyczajny okręgowy zjazd aptekarzy zwołuje okręgowa rada aptekarska:
+### 5)
 
-- **1)** z własnej inicjatywy;
-- **2)** na wniosek Naczelnej Rady Aptekarskiej;
-- **3)** na wniosek okręgowej komisji rewizyjnej;
-- **4)** na wniosek co najmniej 1/5 członków okręgowej izby aptekarskiej.
+ukarania prawomocnym orzeczeniem sądu aptekarskiego na kary określone w art. 46 ust. 1 pkt 3 i 4,
 
-3. Nadzwyczajny okręgowy zjazd aptekarzy powinien być zwołany w ciągu miesiąca od dnia wpływu wniosku w sprawie jego zwołania.
+### 6)
 
-**Art. 27.** Okręgowy zjazd aptekarzy w szczególności:
+skazania prawomocnym wyrokiem na karę dodatkową pozbawienia praw publicznych lub zakazu wykonywania zawodu aptekarza.
 
-**Art. 28.**
+### Art. 12.
 
-1. Okręgowa rada aptekarska wybiera spośród swoich członków prezydium. Prezydium okręgowej rady aptekarskiej stanowią: prezes oraz wybrani przez radę jego zastępcy, sekretarz, skarbnik i członkowie.
+Uchwały organów samorządu aptekarskiego podejmowane są zwykłą większością głosów, przy obecności co najmniej połowy członków danego organu.
 
-2. Prezydium okręgowej rady aptekarskiej działa w imieniu rady w sprawach określonych jej uchwałą.
+### Art. 13.
 
-3. Pracami okręgowej rady aptekarskiej kieruje prezes, który zwołuje jej posiedzenia i im przewodniczy, a także reprezentuje okręgową radę aptekarską na zewnątrz.
+### 1.
 
-**Art. 29.** Okręgowa rada aptekarska kieruje działalnością izby w okresie między okręgowymi zjazdami aptekarzy, a w szczególności:
+Minister Zdrowia i Opieki Społecznej może zaskarżyć do Sądu Najwyższego uchwałę organu okręgowej izby aptekarskiej lub Naczelnej Izby Aptekarskiej pod zarzutem niezgodności z prawem w terminie trzech miesięcy od dnia powzięcia wiadomości o uchwale. Sąd Najwyższy utrzymuje zaskarżoną uchwałę w mocy lub ją uchyla.
 
-**Art. 30.** Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu aptekarskiego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady aptekarskiej i jej prezydium.
+### 2.
 
-**Art. 31.** Okręgowa komisja rewizyjna:
+Minister Zdrowia i Opieki Społecznej może zwrócić się do Krajowego Zjazdu Aptekarzy lub do Naczelnej Rady Aptekarskiej o podjęcie uchwały w sprawie należącej do właściwości samorządu aptekarskiego.
 
-**Art. 32.** Okręgowy sąd aptekarski:
+### 3.
 
-**Art. 33.** Okręgowy rzecznik odpowiedzialności zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów.
+Wniosek, o którym mowa w ust. 2, powinien rozpatrzyć najbliższy Krajowy Zjazd Aptekarzy, Naczelna Rada Aptekarska zaś w terminie miesiąca od dnia jego wpływu.
 
-#### Rozdział 4 Naczelna Izba Aptekarska
+### Art. 14.
 
-**Art. 34.** Organami Naczelnej Izby Aptekarskiej są:
+Naczelna Izba Aptekarska i okręgowe izby aptekarskie mają prawo używania pieczęci urzędowej.
 
-**Art. 35.** Najwyższą władzą samorządu zawodu farmaceuty jest Krajowy Zjazd Aptekarzy.
+### Rozdział 3 Okręgowe izby aptekarskie. Obowiązki i prawa członków
 
-**Art. 36.**
+### Art. 15.
 
-1. W Krajowym Zjeździe Aptekarzy biorą udział delegaci wybrani przez okręgowe zjazdy aptekarzy oraz, z głosem doradczym, niebędący delegatami członkowie ustępujących organów Izby.
+### 1.
 
-2. Liczbę delegatów z poszczególnych izb aptekarskich określa Naczelna Rada Aptekarska zgodnie z regulaminem, o którym mowa w art. 37 pkt 3.
+Okręgową izbę aptekarską stanowią osoby wpisane na listę jej członków.
 
-3. Krajowy Zjazd Aptekarzy zwołuje Naczelna Rada Aptekarska co 4 lata.
+### 2.
 
-4. Nadzwyczajny Krajowy Zjazd Aptekarzy zwołuje Naczelna Rada Aptekarska:
+Wpisowi na listę członków okręgowej izby aptekarskiej podlegają wszystkie osoby wykonujące zawód aptekarza oraz odbywające praktykę aptekarską na terenie danej izby.
 
-- **1)** z własnej inicjatywy;
-- **2)** na wniosek Naczelnej Komisji Rewizyjnej;
-- **3)** na wniosek co najmniej 1/3 okręgowych rad aptekarskich.
+### 3.
 
-5. Nadzwyczajny Zjazd powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu.
+Osoba, która uzyskała koncesję na prowadzenie apteki lub hurtowni, lub kierownik państwowej jednostki organizacyjnej prowadzącej aptekę lub hurtownię są obowiązani zawiadomić właściwą okręgową izbę aptekarską, najpóźniej w ciągu 7 dni, o rozpoczęciu i zaprzestaniu pracy przez osobę wymienioną w ust. 2.
 
-**Art. 37.** Krajowy Zjazd Aptekarzy w szczególności:
+### 4.
 
-**Art. 38.**
+Osobę wykonującą zawód aptekarza na terenie więcej niż jednej izby wpisuje się na listę członków tej izby, na której terenie ma stałe miejsce zamieszkania.
 
-1. W skład Naczelnej Rady Aptekarskiej wchodzą: Prezes Naczelnej Rady Aptekarskiej, prezesi okręgowych rad aptekarskich oraz członkowie wybrani przez Krajowy Zjazd Aptekarzy.
+### 5.
 
-2. Naczelna Rada Aptekarska wybiera spośród swoich członków Prezydium. Prezydium Naczelnej Rady Aptekarskiej stanowią: Prezes oraz wybrani przez Radę wiceprezesi, sekretarz, skarbnik i członkowie.
+Osoby posiadające prawo wykonywania zawodu aptekarza, a z prawa tego nie korzystające, mogą być na swoją prośbę wpisane przez okręgową radę aptekarską na listę jej członków.
 
-3. Prezydium Naczelnej Rady Aptekarskiej działa w imieniu Rady w sprawach określonych jej uchwałą.
+### 6.
 
-4. Pracami Naczelnej Rady Aptekarskiej kieruje Prezes, który zwołuje jej posiedzenia i im przewodniczy, a także reprezentuje Naczelną Radę Aptekarską na zewnątrz.
+Osoby, które przestały wykonywać zawód aptekarza, obowiązane są w ciągu trzech miesięcy zawiadomić o tym okręgową radę aptekarską, a w razie ponownego zamiaru rozpoczęcia wykonywania zawodu aptekarza - najpóźniej w ciągu 30 dni od chwili rozpoczęcia pracy.
 
-**Art. 39.**
+### Art. 16.
 
-1. Naczelna Rada Aptekarska kieruje działalnością samorządu zawodu farmaceuty w okresie między Krajowymi Zjazdami Aptekarzy, a w szczególności:
+Osobie wpisanej na listę okręgowej izby aptekarskiej okręgowa rada aptekarska wydaje zaświadczenie o prawie wykonywania zawodu aptekarza, ważne na terenie całego kraju.
 
-- **1)** realizuje uchwały Krajowego Zjazdu Aptekarzy;
-- **2)** czuwa nad prawidłową realizacją zadań samorządu zawodu farmaceuty;
-- **3)** koordynuje i nadzoruje działalność okręgowych rad aptekarskich;
-- **4)** reprezentuje zawód farmaceuty;
-- **5)** opracowuje ramowe regulaminy organizacji i trybu działania organów okręgowych izb aptekarskich, z wyłączeniem okręgowych sądów aptekarskich;
-- **6)** przedstawia do zatwierdzenia Krajowemu Zjazdowi Aptekarzy regulaminy wyborów do organów samorządu zawodu farmaceuty oraz tryb odwoływania tych organów i ich członków;
-- **7)** określa zasady podejmowania uchwał przez organy samorządu zawodu farmaceuty;
-- **8)** przedstawia do zatwierdzenia Krajowemu Zjazdowi Aptekarzy zasady gospodarki finansowej samorządu zawodu farmaceuty;
-- **9)** wybiera Prezesa Naczelnej Rady Aptekarskiej oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej, jeśli ich mandat wygasł w czasie kadencji;
-- **10)** rozpatruje odwołania od uchwał okręgowych rad aptekarskich;
-- **11)** analizuje i opiniuje działalność w zakresie asortymentu, jakości, produkcji i dystrybucji produktów leczniczych;
-- **12)** opiniuje projekty aktów normatywnych dotyczące farmacji;
-- **13)** negocjuje warunki pracy i płacy pracowników aptek lub hurtowni;
-- **14)** uchwala budżet Naczelnej Izby Aptekarskiej oraz rozpatruje sprawozdanie z jego wykonania;
-- **15)** prowadzi Centralny Rejestr Farmaceutów Rzeczypospolitej Polskiej;
-- **16)** koordynuje doskonalenie zawodowe farmaceutów prowadzone przez samorząd zawodu farmaceuty;
-- **17)** ustala zasady gospodarki finansowej samorządu zawodu farmaceuty.
+### Art. 17.
 
-2. Naczelna Rada Aptekarska uchyla uchwały okręgowych rad aptekarskich sprzeczne z prawem lub z uchwałami i regulaminami wydanymi na podstawie ustawy.
+Osoba, która zgłosiła zamiar wykonywania zawodu aptekarza po upływie pięciu lat od ukończenia studiów farmaceutycznych lub która przerwała wykonywanie zawodu na okres dłuższy niż pięć lat i zgłosiła zamiar ponownego wykonywania zawodu, może być zobowiązana przez okręgową radę aptekarską do odbycia odpowiedniego przeszkolenia. Program i zasady przeszkolenia ustala rada.
 
-3. Naczelna Rada Aptekarska może zwrócić się do okręgowej rady aptekarskiej o podjęcie uchwały w określonej sprawie należącej do zakresu działania rady. Uchwała rady powinna być podjęta w ciągu miesiąca od dnia doręczenia wniosku Naczelnej Rady Aptekarskiej.
+### Art. 18.
 
-4. Naczelna Rada Aptekarska wydaje Biuletyn Aptekarski oraz może prowadzić inną działalność wydawniczą.
+### 1.
 
-**Art. 39a.**
+Aptekarz, ujawniający niezdolność do wykonywania zawodu ze względu na stan zdrowia, może być pozbawiony przez okręgową radę aptekarską prawa wykonywania zawodu na stałe bądź na okres trwania niezdolności, na podstawie orzeczenia komisji lekarskiej.
 
-1. Centralny Rejestr Farmaceutów Rzeczypospolitej Polskiej obejmuje dane uzyskiwane od okręgowych rad aptekarskich, o których mowa w art. 8 ust. 2 i art. 8a ust. 2.
+### 2.
 
-2. Naczelna Rada Aptekarska jest obowiązana, na żądanie ministra właściwego do spraw zdrowia, przekazywać informacje objęte Centralnym Rejestrem Farmaceutów Rzeczypospolitej Polskiej.
+W razie gdy aptekarz odmawia poddania się badaniu przez komisję lub gdy okręgowa rada aptekarska, na podstawie wyników postępowania wyjaśniającego, uzna, że dalsze wykonywanie przez niego zawodu stanowi zagrożenie dla zdrowia i życia osób korzystających ze świadczeń, okręgowa rada aptekarska może zawiesić aptekarza w prawie wykonywania zawodu.
 
-2a. Naczelna Rada Aptekarska udziela organowi innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej, na jego wniosek, informacji na temat prawa wykonywania zawodu farmaceuty osoby wskazanej we wniosku, do celów świadczenia transgranicznej opieki zdrowotnej. Informacji udziela się za pośrednictwem systemu IMI.
+### 3.
 
-3. Sposób przekazywania danych przez okręgową radę aptekarską do Centralnego Rejestru Farmaceutów Rzeczypospolitej Polskiej określa w formie uchwały Naczelna Rada Aptekarska.
+Postępowanie w sprawach pozbawienia lub zawieszenia prawa wykonywania zawodu jest poufne. Zastrzeżenie to nie dotyczy osoby, wobec której toczy się postępowanie.
 
-**Art. 40.** Naczelna Rada Aptekarska przedstawia ministrowi właściwemu do spraw zdrowia coroczne informacje o działalności samorządu zawodu farmaceuty.
+### 4.
 
-**Art. 41.** Przewodniczącemu Naczelnej Komisji Rewizyjnej, Przewodniczącemu Naczelnego Sądu Aptekarskiego oraz Naczelnemu Rzecznikowi Odpowiedzialności Zawodowej służy prawo udziału w posiedzeniach Naczelnej Rady Aptekarskiej i jej Prezydium.
+Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Aptekarskiej, w drodze rozporządzenia, określa szczegółowe zasady i tryb postępowania w sprawach dotyczących pozbawienia i zawieszenia prawa wykonywania zawodu.
 
-**Art. 42.** Naczelna Komisja Rewizyjna:
+### Art. 19.
 
-**Art. 43.** Naczelny Sąd Aptekarski:
+### 1.
 
-**Art. 44.** Naczelny Rzecznik Odpowiedzialności Zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej farmaceutów oraz sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej.
+W sprawach o stwierdzenie prawa wykonywania zawodu oraz o pozbawienie i zawieszenie tego prawa z przyczyn wymienionych w art. 18 ust. 1 stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-#### Rozdział 5 Odpowiedzialność zawodowa
+### 2.
 
-**Art. 45.** Członkowie samorządu zawodu farmaceuty podlegają odpowiedzialności zawodowej przed sądami aptekarskimi za postępowanie sprzeczne z zasadami etyki i deontologii zawodowej oraz przepisami prawnymi dotyczącymi wykonywania zawodu farmaceuty.
+Minister Zdrowia i Opieki Społecznej może zaskarżyć do Naczelnego Sądu Administracyjnego prawomocną uchwałę organów samorządu aptekarskiego w sprawach, o których mowa w ust. 1, z powodu jej niezgodności z prawem, w trybie określonym w Kodeksie postępowania administracyjnego.
 
-**Art. 45a.** Za obwinionego uważa się farmaceutę, wobec którego w toku postępowania wyjaśniającego rzecznik odpowiedzialności zawodowej wydał postanowienie o przedstawieniu zarzutów lub przeciwko któremu skierował do sądu aptekarskiego wniosek o ukaranie.
+### Art. 20.
 
-**Art. 46.**
+Skreślenie z listy członków okręgowej izby aptekarskiej następuje wskutek:
 
-1. Sąd aptekarski może orzekać kary:
+### 1)
 
-- **1)** upomnienia;
-- **2)** nagany;
-- **3)** zawieszenia prawa wykonywania zawodu farmaceuty na okres od trzech miesięcy do trzech lat;
-- **4)** pozbawienia prawa wykonywania zawodu farmaceuty.
+śmierci,
 
-2. (uchylony)
+### 2)
 
-3. (uchylony)
+pozbawienia prawa wykonywania zawodu z mocy orzeczenia sądu aptekarskiego lub wyroku sądowego,
 
-**Art. 46a.**
+### 3)
 
-1. Orzeczenia wydane przez Naczelny Sąd Aptekarski w drugiej instancji, kończące postępowanie w przedmiocie odpowiedzialności zawodowej, są prawomocne z chwilą ogłoszenia.
+zrzeczenia się prawa wykonywania zawodu,
 
-2. Orzeczenie Naczelnego Sądu Aptekarskiego doręcza się podmiotom, o których mowa w art. 46b ust. 1, w terminie 2 miesięcy od dnia jego ogłoszenia.
+### 4)
 
-**Art. 46b.**
+przeniesienia się na teren innej izby.
 
-1. Od prawomocnego orzeczenia wydanego przez Naczelny Sąd Aptekarski w drugiej instancji, kończącego postępowanie w przedmiocie odpowiedzialności zawodowej:
+### Art. 21.
 
-- **1)** osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, której dobro prawne zostało bezpośrednio naruszone lub zagrożone działaniem lub zaniechaniem farmaceuty i która wniosła skargę do rzecznika odpowiedzialności zawodowej,
-- **2)** obwinionemu farmaceucie,
-- **3)** Naczelnemu Rzecznikowi Odpowiedzialności Zawodowej,
-- **4)** ministrowi właściwemu do spraw zdrowia,
-- **5)** Prezesowi Naczelnej Rady Aptekarskiej – przysługuje kasacja do Sądu Najwyższego w terminie 2 miesięcy od dnia doręczenia orzeczenia.
+Członkowie samorządu aptekarskiego są obowiązani:
 
-2. Kasację w stosunku do tego samego obwinionego i od tego samego orzeczenia każdy uprawniony może wnieść tylko raz.
+### 1)
 
-**Art. 46c.**
+przestrzegać zasad etyki i deontologii zawodowej, godnie zachowywać się i sumiennie wykonywać swoje obowiązki zawodowe,
 
-1. Kasacja może być wniesiona z powodu uchybień wymienionych w art. 439 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) lub innego rażącego naruszenia prawa. Kasacja może być wniesiona również z powodu niewspółmierności kary.
+### 2)
 
-2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 6 miesięcy od dnia uprawomocnienia się orzeczenia.
+zachować w tajemnicy wiadomości dotyczące zdrowia pacjenta, uzyskane w związku z wykonywaniem zawodu.
 
-**Art. 46d.** Kasację wnosi się do Sądu Najwyższego za pośrednictwem Naczelnego Sądu Aptekarskiego.
+### Art. 22.
 
-**Art. 46e.**
+Członkowie samorządu aptekarskiego mają prawo:
 
-1. W kasacji należy podać, na czym polega zarzucane uchybienie.
+### 1)
 
-2. Kasacja wnoszona przez podmioty, o których mowa w art. 46b ust. 1 pkt 1– 3 powinna być sporządzona i podpisana przez obrońcę będącego adwokatem albo radcą prawnym albo pełnomocnika będącego adwokatem albo radcą prawnym.
+wybierać i być wybierani do organów samorządu aptekarskiego, z zastrzeżeniem art. 9 ust. 4 i 5,
 
-**Art. 47.**
+### 2)
 
-1. Farmaceuta, wobec którego sąd aptekarski orzekł w I instancji karę wymienioną w art. 46 ust. 1 pkt 3 i 4, może być przez ten sąd tymczasowo zawieszony w czynnościach zawodowych. Postanowienie o zawieszeniu wydaje sąd aptekarski z urzędu lub na wniosek rzecznika odpowiedzialności zawodowej.
+korzystać z pomocy izb aptekarskich w zakresie rozwijania kwalifikacji zawodowych oraz zapewniania właściwych warunków wykonywania zawodu,
 
-2. Postanowienie sądu aptekarskiego o tymczasowym zawieszeniu jest natychmiast wykonalne. Jeżeli okres tymczasowego zawieszenia trwa dłużej niż trzy miesiące, Naczelny Sąd Aptekarski bada z urzędu zasadność zawieszenia.
+### 3)
 
-**Art. 48.**
+korzystać z ochrony i pomocy prawnej organów izb aptekarskich,
 
-1. W razie uniewinnienia lub umorzenia postępowania w drodze rewizji nadzwyczajnej lub w wyniku wznowienia postępowania, farmaceucie przysługuje w stosunku do okręgowej izby aptekarskiej roszczenie o odszkodowanie.
+### 4)
 
-2. Roszczenie wygasa w razie niezłożenia wniosku w terminie rocznym od daty uprawomocnienia się orzeczenia.
+korzystać ze świadczeń instytucji izb aptekarskich i działalności samopomocowej.
 
-3. W sprawach roszczeń o odszkodowanie orzekają sądy powszechne.
+### Art. 23.
 
-**Art. 49.** Na wniosek zainteresowanego farmaceuty orzeczenie o uniewinnieniu lub umorzeniu postępowania w sprawie z zakresu odpowiedzialności zawodowej podlega opublikowaniu w organie prasowym samorządu zawodu farmaceuty.
+### 1.
 
-**Art. 50.**
+Zakład pracy nie może wypowiedzieć umowy o pracę aptekarzowi pełniącemu funkcję z wyboru w organach izb aptekarskich w czasie jej pełnienia bez uzyskania zgody właściwej rady aptekarskiej.
 
-1. Sprawy odpowiedzialności zawodowej farmaceutów rozpatrują okręgowe sądy aptekarskie i Naczelny Sąd Aptekarski.
+### 2.
 
-2. Okręgowe sądy aptekarskie orzekają we wszystkich sprawach jako I instancja, z zastrzeżeniem ust. 3 pkt 2, z tym że w sprawach odpowiedzialności zawodowej członków okręgowej rady aptekarskiej i okręgowej komisji rewizyjnej orzeka okręgowy sąd aptekarski wyznaczony przez Naczelny Sąd Aptekarski.
+Przepisu ust. 1 nie stosuje się w przypadkach określonych w art. 40 i 411 Kodeksu pracy.
 
-3. Naczelny Sąd Aptekarski:
+### 3.
 
-- **1)** rozpatruje odwołania od orzeczeń okręgowych sądów aptekarskich;
-- **2)** orzeka jako I instancja w sprawach odpowiedzialności zawodowej członków: Naczelnej Rady Aptekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Aptekarskiego, Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców, a także członków okręgowych sądów aptekarskich oraz okręgowych rzeczników odpowiedzialności zawodowej i ich zastępców;
-- **3)** rozpatruje w innym składzie odwołania od orzeczeń wydanych w trybie określonym w pkt 2.
+Zakład pracy nie może wypowiedzieć aptekarzowi, o którym mowa w ust. 1, warunków pracy i płacy na jego niekorzyść, chyba że zachodzą przyczyny określone w art. 43 Kodeksu pracy.
 
-**Art. 51.**
+### Art. 24.
 
-1. Kary: upomnienia, nagany i zawieszenia prawa wykonywania zawodu pociągają za sobą utratę prawa wybieralności do organów izb aptekarskich do czasu usunięcia z rejestru wzmianki o ukaraniu.
+Organami okręgowej izby aptekarskiej są:
 
-2. W razie prawomocnego ukarania karą wymienioną w art. 46 ust. 1 pkt 3 i 4, stosunek pracy farmaceuty wygasa z mocy prawa. Wygaśnięcie to pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy o pracę bez wypowiedzenia z winy pracownika.
+### 1)
 
-3. Kara pozbawienia prawa wykonywania zawodu farmaceuty powoduje skreślenie z listy członków okręgowej izby aptekarskiej bez prawa ubiegania się o ponowne uzyskanie prawa wykonywania zawodu przez okres dziesięciu lat od daty uprawomocnienia się orzeczenia o karze pozbawienia prawa wykonywania zawodu.
+okręgowy zjazd aptekarzy,
 
-**Art. 52.** Postępowanie w przedmiocie odpowiedzialności zawodowej o ten sam czyn toczy się niezależnie od postępowania karnego lub postępowania dyscyplinarnego wszczętego w jednostce organizacyjnej, w której przepisy szczególne przewidują takie postępowanie. Może jednak być ono zawieszone do czasu ukończenia postępowania karnego.
+### 2)
 
-**Art. 53.**
+okręgowa rada aptekarska,
 
-1. Jeżeli w postępowaniu w przedmiocie odpowiedzialności zawodowej świadek lub biegły nie stawił się na rozprawę bez usprawiedliwienia albo bezpodstawnie odmawia zeznań, sąd aptekarski może zwrócić się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby wezwanej o przesłuchanie jej w charakterze świadka lub biegłego na okoliczności wskazane przez sąd aptekarski. O terminie przesłuchania sąd rejonowy zawiadamia strony, a protokół przesłuchania przesyła sądowi aptekarskiemu.
+### 3)
 
-2. Przepis ust. 1 stosuje się odpowiednio, jeżeli świadek lub biegły nie stawił się bez usprawiedliwienia na wezwanie rzecznika odpowiedzialności zawodowej albo bezpodstawnie odmawia złożenia przed nim zeznań.
+okręgowa komisja rewizyjna,
 
-**Art. 54.**
+### 4)
 
-1. Postępowania w przedmiocie odpowiedzialności zawodowej nie wszczyna się, a wszczęte umarza, jeżeli zaszła okoliczność, która według Kodeksu postępowania karnego wyłącza ściganie.
+okręgowy sąd aptekarski,
 
-2. W razie śmierci obwinionego przed ukończeniem postępowania, toczy się ono nadal, jeżeli zażąda tego – w terminie dwumiesięcznym od dnia zgonu obwinionego – jego małżonek, krewny w linii prostej, brat lub siostra.
+### 5)
 
-**Art. 55.** (uchylony)
+okręgowy rzecznik odpowiedzialności zawodowej.
 
-**Art. 56.**
+### Art. 25.
 
-1. Nie można wszcząć postępowania w przedmiocie odpowiedzialności zawodowej, jeżeli od chwili popełnienia czynu upłynęły trzy lata.
+### 1.
 
-2. Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie odpowiedzialności zawodowej następuje nie wcześniej niż przedawnienie karne.
+Najwyższą władzą okręgowej izby aptekarskiej jest okręgowy zjazd aptekarzy. W okręgowym zjeździe uczestniczą członkowie okręgowych izb aptekarskich osobiście lub przez swoich delegatów.
 
-3. Karalność przewinienia ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat.
+### 2.
 
-**Art. 57.** Oskarżycielem w postępowaniu dotyczącym odpowiedzialności zawodowej jest rzecznik odpowiedzialności zawodowej.
+W okręgowym zjeździe sprawozdawczo-wyborczym uczestniczą także, z głosem doradczym, nie będący delegatami członkowie ustępujących organów izby.
 
-**Art. 58.** Farmaceuta, którego dotyczy postępowanie oraz obwiniony farmaceuta może przybrać w postępowaniu dotyczącym odpowiedzialności zawodowej nie więcej niż dwóch obrońców spośród członków izby aptekarskiej, adwokatów lub radców prawnych.
+### 3.
 
-**Art. 58a.**
+Delegatów wybiera się i odwołuje na zebraniach zwoływanych w poszczególnych rejonach, obejmujących część obszaru działania izby. Zasady podziału izby na rejony ustala okręgowa rada aptekarska.
 
-1. Osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, której dobro prawne zostało bezpośrednio naruszone lub zagrożone działaniem lub zaniechaniem farmaceuty i która wniosła skargę do rzecznika odpowiedzialności zawodowej, może ustanowić nie więcej niż dwóch pełnomocników spośród farmaceutów, adwokatów lub radców prawnych.
+### 4.
 
-2. W razie śmierci osoby, o której mowa w ust. 1, jej prawa w postępowaniu w przedmiocie odpowiedzialności zawodowej, w tym prawo dostępu do informacji medycznej oraz dokumentacji medycznej, może wykonywać małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.
+Mandat delegata trwa 4 lata.
 
-3. W przypadku gdy organ prowadzący postępowanie dysponuje informacjami o osobach, o których mowa w ust. 2, powinien pouczyć o przysługujących uprawnieniach co najmniej jedną z nich.
+### Art. 26.
 
-4. Organ prowadzący postępowanie w przedmiocie odpowiedzialności zawodowej może ograniczyć osobie, o której mowa w ust. 1, dostęp do akt sprawy w zakresie przewidzianym w ustawach.
+### 1.
 
-**Art. 59.** Członkowie sądów aptekarskich w zakresie orzekania są niezawiśli i podlegają tylko ustawom oraz zasadom etyki i deontologii zawodowej.
+Okręgowa rada aptekarska zwołuje corocznie okręgowy zjazd aptekarzy, a co 4 lata zjazd sprawozdawczo-wyborczy.
 
-**Art. 60.**
+### 2.
 
-1. Naczelna Rada Aptekarska prowadzi rejestr ukaranych.
+Nadzwyczajny okręgowy zjazd aptekarzy zwołuje okręgowa rada aptekarska:
 
-2. Informacji o ukaraniu udziela się organom izb aptekarskich oraz osobom i instytucjom posiadającym lub mogącym wykazać interes prawny w uzyskaniu takich informacji.
+### 1)
 
-2a. Informacji o ukaraniu okręgowa rada aptekarska jest obowiązana udzielić na wniosek odpowiednich władz lub organizacji innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej.
+z własnej inicjatywy,
 
-3. Usunięcie z rejestru wzmianki o ukaraniu następuje z urzędu po upływie:
+### 2)
 
-- **1)** roku od daty uprawomocnienia się orzeczenia o ukaraniu karą upomnienia,
-- **2)** dwóch lat od daty uprawomocnienia się orzeczenia o ukaraniu karą nagany,
-- **3)** pięciu lat od odbycia kary zawieszenia prawa wykonywania zawodu,
-- **4)** piętnastu lat od daty uprawomocnienia się orzeczenia o ukaraniu karą pozbawienia prawa wykonywania zawodu farmaceuty, jeżeli farmaceuta nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
+na wniosek Naczelnej Rady Aptekarskiej,
 
-4. (uchylony)
+### 3)
 
-**Art. 61.** (uchylony)
+na wniosek okręgowej komisji rewizyjnej,
 
-**Art. 62.**
+### 4)
 
-1. W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy:
+na wniosek co najmniej 1/5 członków okręgowej izby aptekarskiej.
 
-- **1)** ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego; nie stosuje się przepisów o oskarżycielu prywatnym, powodzie cywilnym, przedstawicielu społecznym, o postępowaniu przygotowawczym oraz środkach przymusu, z wyjątkiem przepisów o karze pieniężnej;
-- **2)** rozdziałów I–III i art. 53 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
+### 3.
 
-2. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia, postępowanie w sprawach odpowiedzialności zawodowej farmaceutów, uwzględniając właściwość i skład sądów aptekarskich, a także sposób postępowania wyjaśniającego, postępowania w I i II instancji, koszty postępowania oraz sposób wykonywania prawomocnych orzeczeń sądów aptekarskich.
+Nadzwyczajny okręgowy zjazd aptekarzy powinien być zwołany w ciągu miesiąca od dnia wpływu wniosku w sprawie jego zwołania.
 
-#### Rozdział 6 Polubowne rozstrzyganie sporów
+### Art. 27.
 
-**Art. 63.**
+Okręgowy zjazd aptekarzy w szczególności:
 
-1. Okręgowe sądy aptekarskie, za pisemną zgodą stron, mogą rozpatrywać – jako sąd polubowny – spory między farmaceutami oraz między farmaceutami a innymi pracownikami służby zdrowia, a także między farmaceutami a innymi osobami lub instytucjami, jeżeli spory te dotyczą wykonywania zawodu farmaceuty.
+### 1)
 
-2. W przypadkach, o których mowa w ust. 1, sądy aptekarskie stosują odpowiednio przepisy Kodeksu postępowania cywilnego o sądach polubownych.
+podejmuje uchwały w sprawach objętych zakresem działania izby,
 
-#### Rozdział 7 Majątek i gospodarka finansowa
+### 2)
 
-**Art. 64.**
+uchwala budżet i ustala zasady gospodarki finansowej izby,
 
-1. Dochodami izby aptekarskiej są:
+### 3)
 
-- **1)** składki członkowskie;
-- **2)** zapisy, darowizny, dotacje;
-- **3)** wpływy z działalności gospodarczej;
-- **4)** inne wpływy.
+rozpatruje i zatwierdza roczne i kadencyjne sprawozdania okręgowej rady aptekarskiej, okręgowej komisji rewizyjnej, okręgowego sądu aptekarskiego i okręgowego rzecznika odpowiedzialności zawodowej,
 
-2. Majątkiem i dochodami izby zarządza właściwa rada aptekarska.
+### 4)
 
-**Art. 65.**
+uchwala regulaminy organów izby, z wyłączeniem okręgowego sądu aptekarskiego,
 
-1. Izby aptekarskie mogą otrzymywać z budżetu państwa dotacje na pokrycie kosztów czynności:
+### 5)
 
-- **1)** stwierdzania prawa wykonywania zawodu i wydawania dokumentu „Prawo wykonywania zawodu farmaceuty”;
-- **2)** prowadzenia rejestru farmaceutów oraz Centralnego Rejestru Farmaceutów Rzeczypospolitej Polskiej;
-- **3)** prowadzenia spraw związanych z odpowiedzialnością zawodową, wykonywania czynności rzeczników odpowiedzialności zawodowej;
-- **4)** wykonywania czynności sądu aptekarskiego.
+ustala liczbę członków organów izby i zastępców rzecznika odpowiedzialności zawodowej,
 
-2. Środki finansowe, o których mowa w ust. 1, przeznaczone są także na pokrycie kosztów czynności samorządu zawodowego w odniesieniu do obywateli państw członkowskich Unii Europejskiej.
+### 6)
 
-3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób naliczania wysokości dotacji, o której mowa w ust. 1, uwzględniając w szczególności kryteria naliczania wysokości dotacji oraz tryb przekazywania dotacji.
+dokonuje wyboru prezesa i członków okręgowej rady aptekarskiej, członków okręgowej komisji rewizyjnej, członków okręgowego sądu aptekarskiego oraz okręgowego rzecznika odpowiedzialności zawodowej i jego zastępców,
 
-**Art. 66.** Nieopłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności zawodowej podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+### 7)
 
-#### Rozdział 8 Zmiany w przepisach obowiązujących
+dokonuje wyboru delegatów na Krajowy Zjazd Aptekarzy.
 
-**Art. 67.** (pominięty)
+### Art. 28.
 
-#### Rozdział 9 Przepisy szczególne, przejściowe i końcowe
+### 1.
 
-**Art. 68.**
+Okręgowa rada aptekarska wybiera spośród swoich członków prezydium. Prezydium okręgowej rady aptekarskiej stanowią: prezes oraz wybrani przez radę jego zastępcy, sekretarz, skarbnik i członkowie.
 
-1. Stosunek służbowy i wynikające z niego prawa i obowiązki członków izb aptekarskich pełniących zawodową lub okresową służbę wojskową, a także ich odpowiedzialność za przewinienia dyscyplinarne, określają odrębne przepisy.
+### 2.
 
-2. Żołnierze, o których mowa w ust. 1, nie mogą być pociągnięci do odpowiedzialności zawodowej przed sądami aptekarskimi za swoje czynności służbowe bez zgody Ministra Obrony Narodowej.
+Prezydium okręgowej rady aptekarskiej działa w imieniu rady w sprawach określonych jej uchwałą.
 
-3. (pominięty)
+### Art. 29.
 
-**Art. 69.** Uprawnienia ministra właściwego do spraw zdrowia, o których mowa w art. 13 ust. 1 i 2 niniejszej ustawy i art. 24 ust. 3 ustawy z dnia 10 grudnia 2020 r. o zawodzie farmaceuty, przysługują odpowiednio Ministrowi Obrony Narodowej.
+Okręgowa rada aptekarska kieruje działalnością izby w okresie między okręgowymi zjazdami aptekarzy, a w szczególności:
 
-**Art. 70.** Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”. Art. 71–77. (pominięte)
+### 1)
 
-**Art. 78.** (uchylony)
+wykonuje zadania i czynności określone w art. 7 ust. 2 pkt 1, 2, 4-11 i 13,
 
-**Art. 79.** Tracą moc art. 4 i 6 ustawy z dnia 8 stycznia 1951 r. o aptekach (Dz. U. poz. 2, z 1987 r. poz. 19 oraz z 1989 r. poz. 192).
+### 2)
 
-**Art. 80.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem przepisów art. 15–18, art. 45–63, art. 67, art. 78 i art. 79, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+wykonuje uchwały okręgowego zjazdu aptekarzy,
 
+### 3)
+
+określa wysokość składki członkowskiej,
+
+### 4)
+
+składa przed okręgowym zjazdem aptekarzy sprawozdanie z działalności i wykonania budżetu,
+
+### 5)
+
+wyraża zgodę w sprawach udzielania lub cofania koncesji na prowadzenie aptek lub hurtowni,
+
+### 6)
+
+współdziała z samorządem terytorialnym w sprawie rozmieszczenia aptek,
+
+### 7)
+
+prowadzi bieżące sprawy izby,
+
+### 8)
+
+wykonuje zadania zlecone przez Naczelną Radę Aptekarską.
+
+### Art. 30.
+
+Przewodniczącemu okręgowej komisji rewizyjnej, przewodniczącemu okręgowego sądu aptekarskiego oraz okręgowemu rzecznikowi odpowiedzialności zawodowej służy prawo do udziału w posiedzeniach okręgowej rady aptekarskiej i jej prezydium.
+
+### Art. 31.
+
+Okręgowa komisja rewizyjna:
+
+### 1)
+
+kontroluje działalność finansową i gospodarczą izby,
+
+### 2)
+
+przedstawia sprawozdania z działalności kontrolnej okręgowemu zjazdowi aptekarzy,
+
+### 3)
+
+występuje z wnioskiem o udzielenie absolutorium okręgowej radzie aptekarskiej.
+
+### Art. 32.
+
+Okręgowy sąd aptekarski:
+
+### 1)
+
+rozpatruje sprawy z zakresu odpowiedzialności zawodowej członków okręgowych izb aptekarskich oraz sprawuje sądownictwo polubowne,
+
+### 2)
+
+składa roczne i kadencyjne sprawozdania okręgowemu zjazdowi aptekarzy.
+
+### Art. 33.
+
+Okręgowy rzecznik odpowiedzialności zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej aptekarzy.
+
+### Rozdział 4 Naczelna Izba Aptekarska
+
+### Art. 34.
+
+Organami Naczelnej Izby Aptekarskiej są:
+
+### 1)
+
+Krajowy Zjazd Aptekarzy,
+
+### 2)
+
+Naczelna Rada Aptekarska,
+
+### 3)
+
+Naczelna Komisja Rewizyjna,
+
+### 4)
+
+Naczelny Sąd Aptekarski,
+
+### 5)
+
+Naczelny Rzecznik Odpowiedzialności Zawodowej.
+
+### Art. 35.
+
+Najwyższą władzą samorządu aptekarskiego jest Krajowy Zjazd Aptekarzy.
+
+### Art. 36.
+
+### 1.
+
+W Krajowym Zjeździe Aptekarzy biorą udział delegaci wybrani przez okręgowe zjazdy aptekarzy oraz, z głosem doradczym, nie będący delegatami członkowie ustępujących organów Izby.
+
+### 2.
+
+Liczbę delegatów z poszczególnych izb aptekarskich określa Naczelna Rada Aptekarska zgodnie z regulaminem, o którym mowa w art. 37 pkt 3.
+
+### 3.
+
+Krajowy Zjazd Aptekarzy zwołuje Naczelna Rada Aptekarska co 4 lata.
+
+### 4.
+
+Nadzwyczajny Krajowy Zjazd Aptekarzy zwołuje Naczelna Rada Aptekarska:
+
+### 1)
+
+z własnej inicjatywy,
+
+### 2)
+
+na wniosek Naczelnej Komisji Rewizyjnej,
+
+### 3)
+
+na wniosek co najmniej 1/3 okręgowych rad aptekarskich.
+
+### 5.
+
+Nadzwyczajny Zjazd powinien być zwołany w ciągu 3 miesięcy od dnia wpływu wniosku o zwołanie Zjazdu.
+
+### Art. 37.
+
+Krajowy Zjazd Aptekarzy w szczególności:
+
+### 1)
+
+opracowuje zasady etyki i deontologii zawodowej,
+
+### 2)
+
+uchwala program działalności samorządu aptekarskiego,
+
+### 3)
+
+zatwierdza regulaminy wyborów do organów samorządu,
+
+### 4)
+
+rozpatruje i zatwierdza sprawozdania Naczelnej Rady Aptekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Aptekarskiego i Naczelnego Rzecznika Odpowiedzialności Zawodowej,
+
+### 5)
+
+zatwierdza zasady gospodarki finansowej samorządu,
+
+### 6)
+
+uchwala regulaminy naczelnych organów Izby i ogólne wytyczne do regulaminu sądów aptekarskich,
+
+### 7)
+
+ustala liczbę członków organów Izby i zastępców Naczelnego Rzecznika Odpowiedzialności Zawodowej,
+
+### 8)
+
+wybiera Prezesa i członków Naczelnej Rady Aptekarskiej, członków Naczelnej Komisji Rewizyjnej, członków Naczelnego Sądu Aptekarskiego oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców.
+
+### 9)
+
+ustala zasady podziału składki członkowskiej.
+
+### Art. 38.
+
+### 1.
+
+W skład Naczelnej Rady Aptekarskiej wchodzą: Prezes Naczelnej Rady Aptekarskiej, prezesi okręgowych rad aptekarskich oraz członkowie wybrani przez Krajowy Zjazd Aptekarzy.
+
+### 2.
+
+Naczelna Rada Aptekarska wybiera spośród swoich członków Prezydium. Prezydium Naczelnej Rady Aptekarskiej stanowią: Prezes oraz wybrani przez Radę wiceprezesi, sekretarz, skarbnik i członkowie.
+
+### 3.
+
+Prezydium Naczelnej Rady Aptekarskiej działa w imieniu Rady w sprawach określonych jej uchwałą.
+
+### Art. 39.
+
+### 1.
+
+Naczelna Rada Aptekarska kieruje działalnością samorządu aptekarskiego w okresie między Krajowymi Zjazdami Aptekarzy, a w szczególności:
+
+### 1)
+
+realizuje uchwały Krajowego Zjazdu Aptekarzy,
+
+### 2)
+
+czuwa nad prawidłową realizacją zadań samorządu aptekarskiego,
+
+### 3)
+
+koordynuje i nadzoruje działalność okręgowych rad aptekarskich,
+
+### 4)
+
+reprezentuje zawód aptekarza,
+
+### 5)
+
+opracowuje ramowe regulaminy organizacji i trybu działania organów okręgowych izb aptekarskich, z wyłączeniem okręgowych sądów aptekarskich,
+
+### 6)
+
+przedstawia do zatwierdzenia Krajowemu Zjazdowi Aptekarzy regulaminy wyborów do organów samorządu aptekarskiego oraz tryb odwoływania tych organów i ich członków,
+
+### 7)
+
+określa zasady podejmowania uchwał przez organy samorządu aptekarskiego,
+
+### 8)
+
+przedstawia do zatwierdzenia Krajowemu Zjazdowi Aptekarzy zasady gospodarki finansowej samorządu aptekarskiego,
+
+### 9)
+
+wybiera Prezesa Naczelnej Rady Aptekarskiej oraz Naczelnego Rzecznika Odpowiedzialności Zawodowej, jeśli ich mandat wygasł w czasie kadencji,
+
+### 10)
+
+rozpatruje odwołania od uchwał okręgowych rad aptekarskich,
+
+### 11)
+
+analizuje i opiniuje działalność w zakresie asortymentu, jakości, produkcji i dystrybucji leków i środków farmaceutycznych,
+
+### 12)
+
+opiniuje projekty aktów normatywnych dotyczące farmacji,
+
+### 13)
+
+negocjuje warunki pracy i płacy pracowników aptek lub hurtowni,
+
+### 14)
+
+uchwala budżet Naczelnej Izby Aptekarskiej oraz rozpatruje sprawozdanie z jego wykonania.
+
+### 2.
+
+Naczelna Rada Aptekarska uchyla uchwały okręgowych rad aptekarskich sprzeczne z prawem lub z uchwałami i regulaminami wydanymi na podstawie ustawy.
+
+### 3.
+
+Naczelna Rada Aptekarska może zwrócić się do okręgowej rady aptekarskiej o podjęcie uchwały w określonej sprawie należącej do zakresu działania rady. Uchwała rady powinna być podjęta w ciągu miesiąca od dnia doręczenia wniosku Naczelnej Rady Aptekarskiej.
+
+### 4.
+
+Naczelna Rada Aptekarska wydaje Biuletyn Aptekarski oraz może prowadzić inną działalność wydawniczą.
+
+### Art. 40.
+
+Naczelna Rada Aptekarska przedstawia Ministrowi Zdrowia i Opieki Społecznej coroczne informacje o działalności samorządu aptekarskiego.
+
+### Art. 41.
+
+Przewodniczącemu Naczelnej Komisji Rewizyjnej, Przewodniczącemu Naczelnego Sądu Aptekarskiego oraz Naczelnemu Rzecznikowi Odpowiedzialności Zawodowej służy prawo udziału w posiedzeniach Naczelnej Rady Aptekarskiej i jej Prezydium.
+
+### Art. 42.
+
+Naczelna Komisja Rewizyjna:
+
+### 1)
+
+kontroluje finansową i gospodarczą działalność Naczelnej Izby Aptekarskiej,
+
+### 2)
+
+przedstawia sprawozdania z działalności kontrolnej Krajowemu Zjazdowi Aptekarzy,
+
+### 3)
+
+sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych,
+
+### 4)
+
+zgłasza wniosek o udzielenie absolutorium Naczelnej Radzie Aptekarskiej.
+
+### Art. 43.
+
+Naczelny Sąd Aptekarski:
+
+### 1)
+
+uchwala regulamin sądów aptekarskich,
+
+### 2)
+
+rozpatruje sprawy z zakresu odpowiedzialności zawodowej aptekarzy,
+
+### 3)
+
+sprawuje pieczę nad działalnością okręgowych sądów aptekarskich,
+
+### 4)
+
+składa Naczelnej Radzie Aptekarskiej okresowe informacje o stanie spraw z zakresu odpowiedzialności zawodowej,
+
+### 5)
+
+składa sprawozdania z działalności Krajowemu Zjazdowi Aptekarzy.
+
+### Art. 44.
+
+Naczelny Rzecznik Odpowiedzialności Zawodowej prowadzi postępowanie w sprawach odpowiedzialności zawodowej aptekarzy oraz sprawuje nadzór nad działalnością okręgowych rzeczników odpowiedzialności zawodowej.
+
+### Rozdział 5 Odpowiedzialność zawodowa
+
+### Art. 45.
+
+Członkowie samorządu aptekarskiego podlegają odpowiedzialności zawodowej przed sądami aptekarskimi za postępowanie sprzeczne z zasadami etyki i deontologii zawodowej oraz przepisami prawnymi dotyczącymi wykonywania zawodu aptekarza.
+
+### Art. 46.
+
+### 1.
+
+Sąd aptekarski może orzekać kary:
+
+### 1)
+
+upomnienia,
+
+### 2)
+
+nagany,
+
+### 3)
+
+zawieszenia prawa wykonywania zawodu aptekarza na okres od sześciu miesięcy do trzech lat,
+
+### 4)
+
+pozbawienia prawa wykonywania zawodu aptekarza.
+
+### 2.
+
+Od orzeczenie Naczelnego Sądu Aptekarskiego, w którym orzeczono lub utrzymano w mocy w II instancji karę wymienioną w ust. 1 pkt 3 i 4, aptekarzowi przysługuje prawo wniesienia odwołania do Sądu Najwyższego w terminie 14 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem.
+
+### 3.
+
+Sąd Najwyższy rozpatruje odwołanie, stosując odpowiednio przepisy Kodeksu postępowania karnego dotyczące rewizji.
+
+### Art. 47.
+
+### 1.
+
+Aptekarz, wobec którego sąd aptekarski orzekł w I instancji karę wymienioną w art. 46 ust. 1 pkt 3 i 4, może być przez ten sąd tymczasowo zawieszony w czynnościach zawodowych. Postanowienie o zawieszeniu wydaje sąd aptekarski z urzędu lub na wniosek rzecznika odpowiedzialności zawodowej.
+
+### 2.
+
+Postanowienie sądu aptekarskiego o tymczasowym zawieszeniu jest natychmiast wykonalne. Jeżeli okres tymczasowego zawieszenia trwa dłużej niż trzy miesiące, Naczelny Sąd Aptekarski bada z urzędu zasadność zawieszenia.
+
+### Art. 48.
+
+### 1.
+
+W razie uniewinnienia lub umorzenia postępowania w drodze rewizji nadzwyczajnej lub w wyniku wznowienia postępowania, aptekarzowi przysługuje w stosunku do okręgowej izby aptekarskiej roszczenie o odszkodowanie.
+
+### 2.
+
+Roszczenie wygasa w razie niezłożenia wniosku w terminie rocznym od daty uprawomocnienia się orzeczenia.
+
+### 3.
+
+W sprawach roszczeń o odszkodowanie orzekają sądy powszechne.
+
+### Art. 49.
+
+Na wniosek zainteresowanego aptekarza orzeczenie o uniewinnieniu lub umorzeniu postępowania w sprawie z zakresu odpowiedzialności zawodowej podlega opublikowaniu w organie prasowym samorządu aptekarskiego.
+
+### Art. 50.
+
+### 1.
+
+Sprawy odpowiedzialności zawodowej aptekarzy rozpatrują okręgowe sądy aptekarskie i Naczelny Sąd Aptekarski.
+
+### 2.
+
+Okręgowe sądy aptekarskie orzekają we wszystkich sprawach jako I instancja, z zastrzeżeniem ust. 3 pkt 2, z tym że w sprawach odpowiedzialności zawodowej członków okręgowej rady aptekarskiej i okręgowej komisji rewizyjnej orzeka okręgowy sąd aptekarski wyznaczony przez Naczelny Sąd Aptekarski.
+
+### 3.
+
+Naczelny Sąd Aptekarski:
+
+### 1)
+
+rozpatruje odwołania od orzeczeń okręgowych sądów aptekarskich,
+
+### 2)
+
+orzeka jako I instancja w sprawach odpowiedzialności zawodowej członków: Naczelnej Rady Aptekarskiej, Naczelnej Komisji Rewizyjnej, Naczelnego Sądu Aptekarskiego, Naczelnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców, a także członków okręgowych sądów aptekarskich oraz okręgowych rzeczników odpowiedzialności zawodowej i ich zastępców,
+
+### 3)
+
+rozpatruje w innym składzie odwołania od orzeczeń wydanych w trybie określonym w pkt 2.
+
+### Art. 51.
+
+### 1.
+
+Kary: upomnienia, nagany i zawieszenia prawa wykonywania zawodu pociągają za sobą utratę prawa wybieralności do organów izb aptekarskich do czasu usunięcia z rejestru wzmianki o ukaraniu.
+
+### 2.
+
+W razie prawomocnego ukarania karą wymienioną w art. 46 ust. 1 pkt 3 i 4, stosunek pracy aptekarza wygasa z mocy prawa. Wygaśnięcie to pociąga za sobą skutki, jakie przepisy prawa wiążą z rozwiązaniem umowy o pracę bez wypowiedzenia z winy pracownika.
+
+### Art. 52.
+
+Postępowanie w przedmiocie odpowiedzialności zawodowej o ten sam czyn toczy się niezależnie od postępowania karnego lub postępowania dyscyplinarnego wszczętego w jednostce organizacyjnej, w której przepisy szczególne przewidują takie postępowanie. Może jednak być ono zawieszone do czasu ukończenia postępowania karnego.
+
+### Art. 53.
+
+### 1.
+
+Jeżeli w postępowaniu w przedmiocie odpowiedzialności zawodowej świadek lub biegły nie stawił się na rozprawę bez usprawiedliwienia albo bezpodstawnie odmawia zeznań, sąd aptekarski może zwrócić się do sądu rejonowego właściwego ze względu na miejsce zamieszkania osoby wezwanej o przesłuchanie jej w charakterze świadka lub biegłego na okoliczności wskazane przez sąd aptekarski. O terminie przesłuchania sąd rejonowy zawiadamia strony, a protokół przesłuchania przesyła sądowi aptekarskiemu.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio, jeżeli świadek lub biegły nie stawił się bez usprawiedliwienia na wezwanie rzecznika odpowiedzialności zawodowej albo bezpodstawnie odmawia złożenia przed nim zeznań.
+
+### Art. 54.
+
+### 1.
+
+Postępowania w przedmiocie odpowiedzialności zawodowej nie wszczyna się, a wszczęte umarza, jeżeli zaszła okoliczność, która według Kodeksu postępowania karnego wyłącza ściganie.
+
+### 2.
+
+W razie śmierci obwinionego przed ukończeniem postępowania, toczy się ono nadal, jeżeli zażąda tego - w terminie dwumiesięcznym od dnia zgonu obwinionego - jego małżonek, krewny w linii prostej, brat lub siostra.
+
+### Art. 55.
+
+### 1.
+
+Od prawomocnego orzeczenia w przedmiocie odpowiedzialności zawodowej rewizję nadzwyczajną do Sądu Najwyższego mogą wnieść: Minister Sprawiedliwości, Minister Zdrowia i Opieki Społecznej, Rzecznik Praw Obywatelskich oraz Prezes Naczelnej Rady Aptekarskiej.
+
+### 2.
+
+Rewizja nadzwyczajna na niekorzyść ukaranego może być wniesiona w ciągu sześciu miesięcy od daty uprawomocnienia się orzeczenia.
+
+### Art. 56.
+
+### 1.
+
+Nie można wszcząć postępowania w przedmiocie odpowiedzialności zawodowej, jeżeli od chwili popełnienia czynu upłynęły trzy lata.
+
+### 2.
+
+Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie odpowiedzialności zawodowej następuje nie wcześniej niż przedawnienie karne.
+
+### 3.
+
+Karalność przewinienia ustaje, jeżeli od czasu jego popełnienia upłynęło pięć lat.
+
+### Art. 57.
+
+Oskarżycielem w postępowaniu dotyczącym odpowiedzialności zawodowej jest rzecznik odpowiedzialności zawodowej.
+
+### Art. 58.
+
+Obwiniony może przybrać w postępowaniu dotyczącym odpowiedzialności zawodowej obrońców spośród członków izby aptekarskiej lub adwokatów.
+
+### Art. 59.
+
+Członkowie sądów aptekarskich w zakresie orzekania są niezawiśli i podlegają tylko ustawom oraz zasadom etyki i deontologii zawodowej.
+
+### Art. 60.
+
+### 1.
+
+Naczelna Rada Aptekarska prowadzi rejestr ukaranych.
+
+### 2.
+
+Informacji o ukaraniu udziela się organom izb aptekarskich oraz osobom i instytucjom posiadającym lub mogącym wykazać interes prawny w uzyskaniu takich informacji.
+
+### 3.
+
+Usunięcie z rejestru wzmianki o ukaraniu następuje z urzędu po upływie:
+
+### 1)
+
+roku od daty uprawomocnienia się orzeczenia o ukaraniu karą upomnienia,
+
+### 2)
+
+dwóch lat od daty uprawomocnienia się orzeczenia o ukaraniu karą nagany,
+
+### 3)
+
+pięciu lat od odbycia kary zawieszenia prawa wykonywania zawodu,
+
+jeżeli aptekarz nie zostanie w tym czasie ukarany lub nie zostanie wszczęte przeciwko niemu postępowanie w przedmiocie odpowiedzialności zawodowej.
+
+### 4.
+
+Nie usuwa się wzmianki o karze pozbawienia prawa wykonywania zawodu.
+
+### Art. 61.
+
+W skład Naczelnego Sądu Aptekarskiego orzekającego w II instancji wchodzą sędziowie Sądu Najwyższego wskazani przez Pierwszego Prezesa Sądu Najwyższego.
+
+### Art. 62.
+
+### 1.
+
+W sprawach nie uregulowanych w niniejszej ustawie do postępowania w przedmiocie odpowiedzialności zawodowej stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
+
+### 2.
+
+Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Sprawiedliwości oraz w uzgodnieniu z Naczelną Radą Aptekarską, w drodze rozporządzenia, określa szczegółowe przepisy dotyczące postępowania w sprawach odpowiedzialności zawodowej aptekarzy.
+
+### Rozdział 6 Polubowne rozstrzyganie sporów
+
+### Art. 63.
+
+### 1.
+
+Okręgowe sądy aptekarskie, za pisemną zgodą stron, mogą rozpatrywać - jako sąd polubowny - spory między aptekarzami oraz między aptekarzami a innymi pracownikami służby zdrowia, a także między aptekarzami a innymi osobami lub instytucjami, jeżeli spory te dotyczą wykonywania zawodu aptekarza.
+
+### 2.
+
+W przypadkach, o których mowa w ust. 1, sądy aptekarskie stosują odpowiednio przepisy Kodeksu postępowania cywilnego o sądach polubownych.
+
+### Rozdział 7 Majątek i gospodarka finansowa
+
+### Art. 64.
+
+### 1.
+
+Dochodami izby aptekarskiej są:
+
+### 1)
+
+składki członkowskie,
+
+### 2)
+
+zapisy, darowizny, dotacje,
+
+### 3)
+
+wpływy z działalności gospodarczej,
+
+### 4)
+
+inne wpływy.
+
+### 2.
+
+Majątkiem i dochodami izby zarządza właściwa rada aptekarska.
+
+### Art. 65.
+
+Izby aptekarskie otrzymują z budżetu państwa środki finansowe na całkowite pokrycie kosztów tych czynności określonych w ustawie, które dotychczas wykonują organy administracji państwowej.
+
+### Art. 66.
+
+Nie opłacone w terminie składki członkowskie i koszty postępowania w przedmiocie odpowiedzialności zawodowej podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### Rozdział 8 Zmiany w przepisach obowiązujących
+
+### Art. 67.
+
+W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej ([Dz. U. Nr 41, poz. 324](https://api.sejm.gov.pl/eli/acts/DU/1988/324/text.html), z [1990 r. Nr 26, poz. 149](https://api.sejm.gov.pl/eli/acts/DU/1990/149/text.html), [Nr 34, poz. 198](https://api.sejm.gov.pl/eli/acts/DU/1990/198/text.html) i [Nr 86, poz. 504](https://api.sejm.gov.pl/eli/acts/DU/1990/504/text.html) oraz z [1991 r. Nr 31, poz. 128](https://api.sejm.gov.pl/eli/acts/DU/1991/128/text.html)) w art. 11 w ust. 1 po pkt 8 dodaje się pkt 8a w brzmieniu:
+
+„
+
+### 8a)
+
+obrotu hurtowego lekami gotowymi i surowcami farmaceutycznymi przeznaczonymi do produkcji lub sporządzania leków w aptekach oraz artykułami sanitarnymi,
+
+” .
+
+### Rozdział 9 Przepisy szczególne, przejściowe i końcowe
+
+### Art. 68.
+
+### 1.
+
+Stosunek służbowy i wynikające z niego prawa i obowiązki członków izb aptekarskich pełniących zawodową lub okresową służbę wojskową, a także ich odpowiedzialność za przewinienia dyscyplinarne, określają odrębne przepisy.
+
+### 2.
+
+Żołnierze, o których mowa w ust. 1, nie mogą być pociągnięci do odpowiedzialności zawodowej przed sądami aptekarskimi za swoje czynności służbowe bez zgody Ministra Obrony Narodowej.
+
+### 3.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do funkcjonariuszy resortowej służby zdrowia Ministerstwa Spraw Wewnętrznych pełniących obowiązki aptekarzy, którym Minister Spraw Wewnętrznych przedłużył służbę do dnia 31 grudnia 1991 r.
+
+### Art. 69.
+
+Uprawnienia Ministra Zdrowia i Opieki Społecznej, o których mowa w art. 13 ust. 1 i 2, art. 19 ust. 2 i art. 55 ust. 1, przysługują odpowiednio Ministrowi Obrony Narodowej.
+
+### Art. 70.
+
+Do czasu opracowania zasad etyki i deontologii zawodowej, o których mowa w art. 37 pkt 1, sądy aptekarskie stosują „Zbiór zasad etyczno-deontologicznych polskiego farmaceuty”.
+
+### Art. 71.
+
+### 1.
+
+Czyny aptekarzy popełnione przed wejściem w życie ustawy, a stanowiące w myśl przepisów dotychczasowych wykroczenie zawodowe, uważa się za przewinienie w zakresie odpowiedzialności zawodowej w rozumieniu ustawy.
+
+### 2.
+
+Sprawy wszczęte przez komisje kontroli zawodowej, a nie zakończone prawomocnie, są prowadzone dalej po ich przekazaniu sądom aptekarskim według zasad ustawy.
+
+### 3.
+
+Sprawy wszczęte przez rzeczników dobra służby zdrowia bądź prowadzone przed komisjami kontroli zawodowej ulegają przekazaniu właściwym rzecznikom odpowiedzialności zawodowej lub sądom aptekarskim w ciągu roku od dnia wejścia w życie ustawy i są prowadzone dalej według zasad w niej określonych.
+
+### Art. 72.
+
+Minister Zdrowia i Opieki Społecznej na wniosek Polskiego Towarzystwa Farmaceutycznego i związków zawodowych powoła, w terminie trzech miesięcy od dnia wejścia w życie ustawy, Komitet Organizacyjny Izb Aptekarskich.
+
+### Art. 73.
+
+### 1.
+
+Zadaniem Komitetu, o którym mowa w art. 72, jest:
+
+### 1)
+
+opracowanie regulaminów: wyboru delegatów na Krajowy Zjazd Aptekarzy i wyboru organów okręgowych izb aptekarskich oraz projektu regulaminu pierwszego Krajowego Zjazdu Aptekarzy,
+
+### 2)
+
+ustalenie liczby, obszaru i siedzib tymczasowych okręgowych izb aptekarskich,
+
+### 3)
+
+zwołanie, zgodnie z przepisami ustawy, pierwszych zjazdów tymczasowych okręgowych izb aptekarskich oraz Krajowego Zjazdu Aptekarzy.
+
+### 2.
+
+Do czasu wyboru krajowych organów samorządu aptekarskiego Komitet ma uprawnienia Naczelnej Rady Aptekarskiej.
+
+### 3.
+
+Do członków Komitetu, delegatów na pierwszy Krajowy Zjazd Aptekarzy oraz osób wykonujących czynności związane z organizacją izb aptekarskich stosuje się odpowiednio przepis art. 10 ust. 3.
+
+### 4.
+
+Prezydenci i burmistrzowie miast, na których terenie ustalono siedziby Naczelnej i okręgowych izb aptekarskich, zapewnią warunki lokalowe i techniczne niezbędne dla działalności izb.
+
+### 5.
+
+Koszty działania Komitetu pokrywa budżet państwa.
+
+### Art. 74.
+
+Farmaceutów, którzy w dniu wejścia w życie ustawy posiadali prawo wykonywania zawodu na podstawie dotychczas obowiązujących przepisów i zawód ten wykonywali w aptece lub hurtowni, wpisuje się na listę członków tymczasowej okręgowej izby aptekarskiej, na której obszarze wykonują zawód. Przepis art. 15 ust. 4 stosuje się odpowiednio.
+
+### Art. 75.
+
+Osoby posiadające koncesje na prowadzenie apteki oraz kierownicy jednostek organizacyjnych prowadzących apteki lub hurtownie są obowiązani zawiadomić, w terminie trzech miesięcy od dnia ogłoszenia ustawy, komisję organizacyjną tymczasowej okręgowej izby aptekarskiej o osobach wykonujących zawód aptekarza w prowadzonych przez siebie aptekach lub hurtowniach.
+
+### Art. 76.
+
+Podmioty gospodarcze prowadzące działalność w zakresie obrotu hurtowego lekami gotowymi i surowcami farmaceutycznymi przeznaczonymi do produkcji lub sporządzania leków w aptekach oraz artykułami sanitarnymi mogą prowadzić ją nadal pod warunkiem uzyskania koncesji na prowadzenie tej działalności w terminie sześciu miesięcy od dnia wejścia w życie ustawy.
+
+### Art. 77.
+
+Do czasu wydania przepisów wykonawczych przewidzianych w ustawie zachowują moc przepisy dotychczasowe, nie dłużej jednak niż przez okres roku od dnia wejścia ustawy w życie.
+
+### Art. 78.
+
+Do członków samorządu aptekarskiego nie mają zastosowania przepisy ustawy z dnia 18 lipca 1950 r. o odpowiedzialności zawodowej fachowych pracowników służby zdrowia ([Dz. U. Nr 36, poz. 332](https://api.sejm.gov.pl/eli/acts/DU/1950/332/text.html)).
+
+### Art. 79.
+
+Tracą moc art. 4 i 6 ustawy z dnia 8 stycznia 1951 r. o aptekach ([Dz. U. Nr 1, poz. 2](https://api.sejm.gov.pl/eli/acts/DU/1951/2/text.html) oraz z [1987 r. Nr 3, poz. 19](https://api.sejm.gov.pl/eli/acts/DU/1987/19/text.html)).
+
+### Art. 80.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem przepisów art. 15-18, art. 45-63, art. 67, art. 78 i art. 79, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.

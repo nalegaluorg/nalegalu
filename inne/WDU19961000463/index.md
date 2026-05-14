@@ -8,11 +8,9 @@ pos: 463
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie nazw niektórych wyższych szkół inżynierskich
-
-*USTAWA z dnia 4 lipca 1996 r.*
+# Ustawa z dnia 4 lipca 1996 r. o zmianie nazw niektórych wyższych szkół inżynierskich
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +22,26 @@ domain: null
 | Data ogłoszenia | 1996-07-04 |
 | Data wydania | 1996-08-14 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961000463) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/463/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1996/463/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1996/463) |
 
-**Art. 1.** Wyższej Szkole Inżynierskiej w Koszalinie nadaje się nazwę "Politechnika Koszalińska".
+## Treść ustawy
 
-**Art. 2.** Wyższej Szkole Inżynierskiej w Opolu nadaje się nazwę "Politechnika Opolska".
+### Art. 1.
 
-**Art. 3.** Wyższej Szkole Inżynierskiej im. Kazimierza Pułaskiego w Radomiu nadaje się nazwę "Politechnika Radomska im. Kazimierza Pułaskiego".
+Wyższej Szkole Inżynierskiej w Koszalinie nadaje się nazwę „Politechnika Koszalińska”.
 
-**Art. 4.** Wyższej Szkole Inżynierskiej im. Jurija Gagarina w Zielonej Górze nadaje się nazwę "Politechnika Zielonogórska".
+### Art. 2.
 
-**Art. 5.** Ustawa wchodzi w życie z dniem 1 września 1996 r.
+Wyższej Szkole Inżynierskiej w Opolu nadaje się nazwę „Politechnika Opolska”.
 
+### Art. 3.
+
+Wyższej Szkole Inżynierskiej im. Kazimierza Pułaskiego w Radomiu nadaje się nazwę „Politechnika Radomska im. Kazimierza Pułaskiego”.
+
+### Art. 4.
+
+Wyższej Szkole Inżynierskiej im. Jurija Gagarina w Zielonej Górze nadaje się nazwę „Politechnika Zielonogórska”.
+
+### Art. 5.
+
+Ustawa wchodzi w życie z dniem 1 września 1996 r.

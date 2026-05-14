@@ -8,11 +8,9 @@ pos: 465
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
-
-*USTAWA z dnia 15 stycznia 2015 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 27 stycznia 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,1103 +22,2878 @@ domain: null
 | Data ogłoszenia | 2023-01-27 |
 | Data wydania | 2023-03-10 |
 | Ostatnia zmiana | 2026-03-31 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000465) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/465/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2023/465/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2023/465) |
 
-Art. 73–76. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść obwieszczenia](#part_1)
 
-**Art. 1.**
+- [Załącznik - Tekst jednolity ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Zasady wykonywania procedur](#chpt_2) [Rozdział 3 - Wymagania dotyczące prowadzenia działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych](#chpt_3) [Rozdział 4 - Prowadzenie działalności przez hodowców, dostawców i użytkowników](#chpt_4) [Rozdział 5 - Komisje etyczne do spraw doświadczeń na zwierzętach](#chpt_5) [Rozdział 6 - Zasady przeprowadzania doświadczeń](#chpt_6) [Rozdział 7 - Kontrola](#chpt_7) [Rozdział 8 - Współpraca z Komisją Europejską i państwami członkowskimi Unii Europejskiej](#chpt_8) [Rozdział 9 - Przepisy karne](#chpt_9) [Rozdział 10 - Kary administracyjne](#chpt_10) [Rozdział 11 - Zmiany w przepisach obowiązujących](#chpt_11) [Rozdział 12 - Przepisy przejściowe i końcowe](#chpt_12)
 
-1. Ustawa określa zasady i warunki ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, w tym:
+TOC
 
-- **1)** zasady:
-    - **a)** wykonywania procedur i przeprowadzania doświadczeń,
-    - **b)** prowadzenia działalności przez hodowców, dostawców i użytkowników,
-    - **c)** przeprowadzania kontroli hodowców, dostawców i użytkowników;
+## Treść obwieszczenia
 
-- **2)** warunki utrzymywania zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz sposób postępowania z tymi zwierzętami;
-- **3)** zadania i kompetencje komisji etycznych do spraw doświadczeń na zwierzętach.
+### 1.
 
-2. Ustawy nie stosuje się do:
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych ([Dz. U. z 2021 r. poz. 1331](https://api.sejm.gov.pl/eli/acts/DU/2021/1331/text.html)), z uwzględnieniem zmian wprowadzonych:
 
-- **1)** usług weterynaryjnych w rozumieniu ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt (Dz. U. z 2019 r. poz. 24), a także czynności rolniczych, w tym chowu lub hodowli zwierząt prowadzonych zgodnie z przepisami o ochronie zwierząt, niemających na celu wykonywania procedur;
-- **2)** klinicznych badań weterynaryjnych prowadzonych zgodnie z art. 37ah–37ak ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301);
-- **3)** czynności wykonywanych w celu identyfikacji zwierząt;
-- **4)** chwytania zwierząt dzikich w celu wykonania pomiarów biometrycznych oraz określenia ich przynależności systematycznej;
-- **5)** czynności, które zgodnie ze sztuką lekarsko-weterynaryjną nie powodują u zwierzęcia bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym.
+### 1)
 
-**Art. 2.**
+ustawą z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych ([Dz. U. poz. 2338](https://api.sejm.gov.pl/eli/acts/DU/2021/2338/text.html)),
 
-1. Użyte w ustawie określenia oznaczają:
+### 2)
 
-- **1)** zwierzęta – żywe zwierzęta kręgowe, w tym formy larwalne zdolne do samodzielnego odżywiania i formy embrionalne ssaków w ostatniej jednej trzeciej życia płodowego albo znajdujące się we wcześniejszym stadium rozwoju, gdy w wyniku wykonanych procedur, po osiągnięciu ostatniej jednej trzeciej życia płodowego, mogą one odczuwać ból, cierpienie, dystres lub wystąpi u nich trwałe uszkodzenie organizmu, oraz żywe głowonogi;
-- **2)** zwierzęta laboratoryjne:
-    - **a)** zwierzęta należące do następujących gatunków: mysz domowa (Mus musculus), szczur wędrowny (Rattus norvegicus), kawia domowa (Cavia porcellus), chomik syryjski (Mesocricetus auratus), chomik chiński (Critetulus griseus), myszoskoczek mongolski (Meriones unguiculatus), królik europejski (Oryctolagus cuniculus), pies domowy (Canis familiaris), kot domowy (Felis catus), żaba trawna (Rana temporaria), żaba lamparcia (Rana pipiens), platana szponiasta (Xenopus laevis), platana tropikalna (Xenopus tropicalis), danio pręgowany (Danio rerio),
-    - **b)** zwierzęta z rzędu naczelnych stanowiące potomstwo zwierząt z rzędu naczelnych hodowanych w niewoli albo pozyskiwane z kolonii samowystarczalnych
-    - **c)** (uchylona) − które są hodowane wyłącznie do celów określonych w art. 3 lub których tkanki lub narządy są przeznaczone do wykorzystania w takich celach;
+ustawą z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw ([Dz. U. poz. 1117](https://api.sejm.gov.pl/eli/acts/DU/2022/1117/text.html))
 
-- **3)** zwierzęta dzikie – zwierzęta wolno żyjące (dzikie) w rozumieniu art. 4 pkt 21 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2022 r. poz. 572 i 2375);
-- **4)** zwierzęta gospodarskie – zwierzęta gospodarskie w rozumieniu art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36);
-- **5)** siedlisko przyrodnicze – siedlisko przyrodnicze w rozumieniu art. 5 pkt 17 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, 1726, 2185 i 2375);
-- **6)** procedura – każdą formę wykorzystania zwierząt do celów określonych w art. 3, która może spowodować u zwierzęcia ból, cierpienie, dystres lub trwałe uszkodzenie organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym, a także czynności mające na celu lub mogące spowodować urodzenie się lub wylęg zwierzęcia albo powstanie i utrzymanie genetycznie zmodyfikowanej linii zwierząt w warunkach bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym; nie jest procedurą uśmiercenie zwierzęcia wyłącznie po to, aby wykorzystać jego narządy lub tkanki do celów określonych w art. 3;
-- **7)** doświadczenie – program badawczy obejmujący procedurę lub procedury, mający określony cel naukowy lub edukacyjny;
-- **8)** ośrodek – budynek, tymczasowy obiekt budowlany lub miejsce, w którym są utrzymywane zwierzęta przeznaczone do wykorzystywania lub wykorzystywane w procedurze lub których tkanki lub narządy mają zostać wykorzystane do celów określonych w art. 3;
-- **9)** hodowca – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która hoduje zwierzęta laboratoryjne w celu wykorzystania ich w procedurach lub aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3 lub która hoduje inne zwierzęta głównie w tych celach;
-- **10)** dostawca – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, niebędącą hodowcą, która dostarcza zwierzęta w celu wykorzystania ich w procedurach lub aby wykorzystać tkanki lub narządy tych zwierząt do celów określonych w art. 3;
-- **11)** użytkownik – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która wykorzystuje zwierzęta w procedurach lub uśmierca zwierzęta, aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3;
-- **12)** kolonia samowystarczalna – kolonię, w której zwierzęta z rzędu naczelnych są hodowane wyłącznie w ramach kolonii lub są pozyskiwane z innych kolonii, ale nie są zwierzętami dzikimi, oraz w której zwierzęta są utrzymywane w sposób zapewniający ich przyzwyczajenie do ludzi.
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 19 stycznia 2023 r.
 
-2. Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć również państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym.
+### 2.
 
-3. (uchylony)
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 
-**Art. 3.** Procedury wykonuje się wyłącznie w celu:
+### 1)
 
-**Art. 3a.** Hodowca, dostawca i użytkownik zapewniają:
+art. 2-16 ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych ([Dz. U. poz. 2338](https://api.sejm.gov.pl/eli/acts/DU/2021/2338/text.html)), które stanowią:
 
-**Art. 3b.**
+„
 
-1. W przypadku konieczności uśmiercenia zwierzęcia przez hodowcę, dostawcę lub użytkownika zwierzę uśmierca osoba spełniająca wymagania określone w art. 20 ust. 2, wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33, z późn. zm. ).
+### Art. 2.
 
-2. Zwierzę uśmierca się w ośrodku. Zwierzę może zostać uśmiercone poza ośrodkiem jedynie wtedy, gdy procedura jest wykonywana poza ośrodkiem.
+Do dnia 10 listopada 2022 r. zwierzęta z rzędu naczelnych niestanowiące potomstwa zwierząt z rzędu naczelnych hodowanych w niewoli albo niepozyskiwane z kolonii samowystarczalnych, należące do gatunków wymienionych w załączniku nr II do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych, z wyłączeniem marmozety zwyczajnej (Callithrix jacchus), są zwierzętami laboratoryjnymi w rozumieniu art. 2 ust. 1 pkt 2 ustawy zmienianej w art. 1.
 
-3. Zwierzę uśmierca się w sposób ograniczający do minimum jego ból, cierpienie i dystres.
+### Art. 3.
 
-4. Przepisów ust. 1 i 2 nie stosuje się w przypadku nagłej konieczności uśmiercenia zwierzęcia ze względu na jego dobrostan lub zagrożenie dla zdrowia ludzi, zwierząt lub środowiska naturalnego.
+Do postępowań w sprawach:
 
-5. Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach może ustanawiać odstępstwa od wymagania uśmiercania zwierząt wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych i dopuścić stosowanie innej metody, jeżeli na podstawie dowodów naukowych uzna, że ta metoda jest co najmniej równie humanitarna.
+### 1)
 
-**Art. 4.** W zakresie nieuregulowanym ustawą do ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych stosuje się ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt.
+stwierdzania spełniania wymagań niezbędnych do prowadzenia działalności polegającej na hodowli, dostarczaniu zwierząt lub wykonywaniu procedur, o których mowa w art. 27 ust. 2 ustawy zmienianej w art. 1,
 
-#### Rozdział 2 Zasady wykonywania procedur
+### 2)
 
-**Art. 5.**
+udzielania zgody na przeprowadzenie doświadczenia, o którym mowa w art. 36 ust. 1 pkt 1 lit. a ustawy zmienianej w art. 1,
 
-1. Procedury są wykonywane zgodnie z zasadami zastąpienia, ograniczenia i udoskonalenia.
+### 3)
 
-2. Niedopuszczalne jest wykonanie procedury jeżeli wiąże się ona z dotkliwym bólem, cierpieniem lub dystresem, który może mieć długotrwały charakter i nie można go załagodzić.
+udzielania zgody na zmianę doświadczenia, o którym mowa w art. 36 ust. 1 pkt 1 lit. b ustawy zmienianej w art. 1,
 
-2a. Niedopuszczalne jest wykonanie procedury, jeżeli na mocy prawodawstwa Unii Europejskiej, w szczególności w zakresie pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, jest uznawana inna metoda lub strategia testowania, która pozwala na uzyskanie odpowiednich wyników bez wykorzystywania zwierząt.
+### 4)
 
-3. Niedopuszczalne jest wykonanie procedury w celu otrzymania danych, które zostały uzyskane w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej w wyniku wykonania procedur uznawanych przez prawodawstwo Unii Europejskiej, w szczególności w zakresie pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, chyba że potwierdzenie tych danych jest niezbędne, aby wykorzystać je do badań mających na celu ochronę zdrowia publicznego, bezpieczeństwa lub środowiska naturalnego.
+cofania udzielonej zgody na przeprowadzenie doświadczenia, o którym mowa w art. 36 ust. 1 pkt 2 ustawy zmienianej w art. 1
 
-4. W przypadku gdy istnieje możliwość wyboru między procedurami, dokonuje się go, biorąc pod uwagę, aby wybrana procedura:
+- wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-- **1)** zakładała wykorzystanie:
-    - **a)** najmniejszej liczby zwierząt,
-    - **b)** zwierząt z najniższą zdolnością odczuwania bólu, cierpienia, dystresu lub skutków trwałego uszkodzenia organizmu;
+### Art. 4.
 
-- **2)** powodowała jak najmniej bólu, cierpienia lub dystresu lub w najmniejszym stopniu stwarzała ryzyko trwałego uszkodzenia organizmu zwierząt;
-- **3)** dawała największe prawdopodobieństwo osiągnięcia planowanego wyniku procedury.
+Do ocen retrospektywnych, o których mowa w art. 36 ust. 1 pkt 3 ustawy zmienianej w art. 1, rozpoczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 6.**
+### Art. 5.
 
-1. Procedury planuje się i wykonuje tak, aby w największym możliwym zakresie unikać w ich wyniku śmierci zwierząt i zastępować ją wczesnym i humanitarnym zakończeniem tych procedur polegającym na jak najwcześniejszym uśmiercaniu zwierząt w przypadkach występowania objawów bólu, cierpienia lub dystresu, których nie można złagodzić, a których trwanie nie jest uzasadnione z naukowego i etycznego punktu widzenia.
+Wnioski o udostępnienie informacji publicznej złożone przed dniem wejścia w życie niniejszej ustawy rozpatruje się na podstawie przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku gdy uniknięcie śmierci zwierząt w wyniku procedury jest niemożliwe – procedurę planuje się i wykonuje tak, aby prowadziła do śmierci jak najmniejszej liczby wykorzystywanych zwierząt i skraca się do minimum okres oraz intensywność cierpienia tych zwierząt.
+### Art. 6.
 
-3. (uchylony)
+Z dniem wejścia w życie niniejszej ustawy zespoły doradcze do spraw dobrostanu zwierząt ustanowione na podstawie przepisów ustawy zmienianej w art. 1 stają się zespołami do spraw dobrostanu zwierząt w rozumieniu niniejszej ustawy.
 
-**Art. 7.** Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na wykorzystanie w procedurze zwierząt:
+### Art. 7.
 
-**Art. 8.**
+Kadencja Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach, o której mowa w art. 32 ust. 1 ustawy zmienianej w art. 1, rozpoczęta przed dniem wejścia w życie niniejszej ustawy trwa do dnia jej zakończenia.
 
-1. Nie wykonuje się procedur z wykorzystaniem:
+### Art. 8.
 
-- **1)** małp człekokształtnych;
-- **2)** zwierząt dzikich;
-- **3)** zwierząt bezdomnych w rozumieniu art. 4 pkt 16 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, z wyłączeniem zwierząt gospodarskich.
+Lokalne komisje etyczne do spraw doświadczeń na zwierzętach utworzone na podstawie art. 32 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, działają do dnia zakończenia ich kadencji.
 
-2. Lokalna komisja etyczna do spraw doświadczeń na zwierzętach, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, może:
+### Art. 9.
 
-- **1)** udzielić zgody na wykorzystanie w procedurze zwierząt, o których mowa w ust. 1 pkt 2, jeżeli celów określonych w art. 3 nie można osiągnąć z wykorzystaniem zwierząt laboratoryjnych;
-- **2)** udzielić, w wyjątkowych przypadkach, zgody na wykorzystanie w procedurze zwierząt, o których mowa w ust. 1 pkt 3, jeżeli celem procedury jest zbadanie zdrowia i dobrostanu tych zwierząt lub zapobieżenie poważnemu zagrożeniu powodowanemu przez te zwierzęta dla zdrowia ludzi lub zwierząt lub dla środowiska i cel ten można osiągnąć wyłącznie z wykorzystaniem tych zwierząt.
+Kadencji Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach i kadencji lokalnych komisji etycznych do spraw doświadczeń na zwierzętach rozpoczętych przed dniem wejścia w życie niniejszej ustawy nie wlicza się do liczby kadencji, o której mowa w art. 34 ust. 4 ustawy zmienianej w art. 1.
 
-3. Pozyskiwania zwierząt, o których mowa w ust. 1 pkt 2, dokonują osoby posiadające doświadczenie w zakresie pozyskiwania zwierząt dzikich z gatunków zaplanowanych do wykorzystania w procedurze za pomocą metod niepowodujących u zwierząt możliwych do uniknięcia: bólu, cierpienia, dystresu lub trwałego uszkodzenia ich organizmu.
+### Art. 10.
 
-4. Zwierzęta, o których mowa w ust. 1 pkt 2, u których w trakcie pozyskiwania lub po jego zakończeniu stwierdzono zranienie lub zły stan zdrowia, są poddawane badaniu przez lekarza weterynarii lub przez inną osobę posiadającą kwalifikacje w zakresie znajomości anatomii, fizjologii i zachowań właściwych dla gatunków tych zwierząt, a następnie czynnościom minimalizującym u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu. Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na niepodejmowanie tych czynności.
+Dokumentacja, o której mowa w art. 52 ust. 1 ustawy zmienianej w art. 1, dotycząca doświadczeń, na których przeprowadzenie uzyskano zgodę przed dniem wejścia w życie niniejszej ustawy, jest prowadzona i przechowywana na zasadach dotychczasowych.
 
-**Art. 9.**
+### Art. 11.
 
-1. Procedury wykonuje się wyłącznie:
+### 1.
 
-- **1)** w ramach doświadczenia;
-- **2)** w ośrodku użytkownika, który został wpisany do rejestru prowadzonego przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
+Kontrole, o których mowa w art. 54 ust. 1 i 2 ustawy zmienianej w art. 1, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, przeprowadza się na zasadach dotychczasowych.
 
-2. Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na wykonanie procedury w:
+### 2.
 
-- **1)** miejscu innym niż określone w ust. 1 pkt 2, jeżeli celu procedury nie da się osiągnąć, gdy wykonuje się ją w ośrodku użytkownika;
-- **2)** środowisku życia zwierzęcia dzikiego, jeżeli cel procedury może zostać osiągnięty przez jej wykonanie w tym środowisku i zmniejsza to stres zwierzęcia związany z jej wykonaniem.
+Do eksperta biorącego udział w kontroli, o której mowa w art. 55 ust. 1 ustawy zmienianej w art. 1, wszczętej i niezakończonej do dnia wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
 
-3. (uchylony)
+### Art. 12.
 
-**Art. 10.**
+Listę ekspertów biorących udział w przeprowadzaniu kontroli, o której mowa w art. 55 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się do dnia udostępnienia przez ministra właściwego do spraw szkolnictwa wyższego i nauki w Biuletynie Informacji Publicznej na jego stronie podmiotowej listy, o której mowa w art. 55 ust. 6 ustawy zmienianej w art. 1.
 
-1. Procedury, ze względu na ich dotkliwość przejawiającą się w intensywności bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, na które może być narażone zwierzę podczas ich wykonywania, kwalifikuje się do następujących kategorii:
+### Art. 13.
 
-- **1)** terminalna, bez odzyskania przytomności;
-- **2)** łagodna;
-- **3)** umiarkowana;
-- **4)** dotkliwa.
+Hodowcy i dostawcy w rozumieniu art. 2 ust. 1 pkt 9 i 10 ustawy zmienianej w art. 1 są obowiązani do spełnienia wymagań, o których mowa w art. 3b ust. 1 ustawy zmienianej w art. 1, nie później niż w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Procedury kwalifikuje się do kategorii wymienionych w ust. 1 zgodnie z załącznikiem nr VIII do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
+### Art. 14.
 
-**Art. 11.**
+Hodowcy, dostawcy i użytkownicy w rozumieniu art. 2 ust. 1 pkt 9-11 ustawy zmienianej w art. 1 opracowują programy, o których mowa w art. 24a ustawy zmienianej w art. 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-1. Procedurę:
+### Art. 15.
 
-- **1)** rozpoczyna się od przygotowania zwierzęcia do obserwacji;
-- **2)** kończy się, gdy zaprzestaje się obserwacji zwierzęcia, a w przypadku genetycznie zmodyfikowanej linii zwierząt – gdy nie przewiduje się, że u potomstwa tych zwierząt wystąpi trwałe uszkodzenie organizmu lub że będzie ono odczuwać ból, cierpienie lub dystres.
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 3 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19, art. 22, art. 41 i art. 55 ust. 11 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-2. Po zakończeniu procedury lekarz weterynarii podejmuje decyzję o:
+### Art. 16.
 
-- **1)** pozostawieniu wykorzystanego zwierzęcia przy życiu albo
-- **2)** uśmierceniu wykorzystanego zwierzęcia – w przypadku gdy istnieje uzasadnione przypuszczenie, że po zakończeniu doświadczenia u tego zwierzęcia wystąpi trwałe uszkodzenie organizmu lub będzie ono odczuwać nadal dotkliwy lub umiarkowany ból, cierpienie i dystres.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-3. W przypadku wykorzystywania w procedurze zwierząt innych niż laboratoryjne lub gospodarskie, decyzję, o której mowa w ust. 2, może podjąć osoba posiadająca kwalifikacje w zakresie znajomości anatomii, fizjologii i zachowań tych gatunków zwierząt.
+” ;
 
-**Art. 12.**
+### 2)
 
-1. Ponowne wykorzystanie zwierzęcia w procedurze, w celu uniknięcia wykorzystania innego zwierzęcia dotychczas niepoddanego procedurze, jest dopuszczalne pod warunkiem, że lekarz weterynarii po zbadaniu tego zwierzęcia, uwzględnieniu jego doświadczeń życiowych i stwierdzeniu, że u zwierzęcia doszło do pełnego powrotu ogólnego stanu zdrowia i dobrostanu, wyraził na to zgodę.
+art. 7, art. 8 i art. 10 ustawy z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw ([Dz. U. poz. 1117](https://api.sejm.gov.pl/eli/acts/DU/2022/1117/text.html)), które stanowią:
 
-2. Zwierzę, które było wykorzystane:
+„
 
-- **1)** w procedurze łagodnej lub umiarkowanej – może być ponownie wykorzystane w procedurze zakwalifikowanej do kategorii terminalna, bez odzyskania przytomności, łagodna albo umiarkowana;
-- **2)** raz w procedurze dotkliwej – może być w wyjątkowych przypadkach, po uzyskaniu zgody lokalnej komisji etycznej do spraw doświadczeń na zwierzętach, ponownie wykorzystane w procedurze zakwalifikowanej do kategorii terminalna, bez odzyskania przytomności, łagodna albo umiarkowana, na podstawie przedstawionego przez użytkownika uzasadnienia dla ponownego wykorzystania tego zwierzęcia.
+### Art. 7.
 
-**Art. 13.**
+Przewodniczący lokalnych komisji etycznych do spraw doświadczeń na zwierzętach, o których mowa w art. 32 ust. 1 ustawy zmienianej w art. 5, wybrani na podstawie przepisów dotychczasowych pełnią swoje funkcje do dnia zakończenia kadencji tych komisji.
 
-1. Procedury, które powodują poważne uszkodzenia organizmu wykorzystywanych zwierząt i dotkliwy ból, przeprowadza się w znieczuleniu ogólnym lub miejscowym oraz po zastosowaniu produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym.
+### Art. 8.
 
-2. Procedury inne niż określone w ust. 1 przeprowadza się w znieczuleniu ogólnym lub miejscowym oraz po zastosowaniu:
+Do uchwał, o których mowa w art. 40a ustawy zmienianej w art. 5, podjętych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-- **1)** produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym, lub
-- **2)** innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia i dystresu wykorzystywanych zwierząt.
+”
 
-3. W przypadku, o którym mowa w ust. 2, procedura może być wykonywana bez zastosowania znieczuleń, produktów lub metod, o których mowa w tym przepisie, jedynie wtedy, gdy ich zastosowanie:
+„
 
-- **1)** powodowałoby u zwierzęcia większy ból, cierpienie lub dystres niż sama procedura lub
-- **2)** jest nie do pogodzenia z celem procedury – po uzyskaniu zgody lokalnej komisji etycznej do spraw doświadczeń na zwierzętach, na podstawie przedstawionego przez użytkownika uzasadnienia naukowego dla odstąpienia od zastosowania takiego znieczulenia, takiego produktu lub takiej metody.
+### Art. 10.
 
-4. Jeżeli po ustaniu działania znieczulenia ogólnego lub miejscowego albo po zakończeniu procedury wykonanej w sposób określony w ust. 3 zwierzę może odczuwać ból, stosuje się produkty lecznicze lub produkty lecznicze weterynaryjne o działaniu przeciwbólowym lub inne metody, w szczególności środki uspokajające, zapewniające zmniejszenie bólu do minimum.
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi w życie z dniem 1 października 2022 r.
 
-**Art. 14.**
+” .
 
-1. Podanie zwierzęciu podczas wykorzystywania w procedurze produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu, jest dopuszczalne tylko wtedy, gdy:
+## Załącznik - Tekst jednolity ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych[1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33).](#gloss-0:1:)
 
-- **1)** jednocześnie zastosuje się u tego zwierzęcia właściwy poziom znieczulenia ogólnego, znieczulenie miejscowe, produkty lecznicze lub produkty lecznicze weterynaryjne o działaniu przeciwbólowym;
-- **2)** uzyska się zgodę lokalnej komisji etycznej do spraw doświadczeń na zwierzętach – na podstawie przedstawionego przez użytkownika uzasadnienia naukowego, do którego zostały dołączone dane dotyczące schematu zastosowania znieczulenia ogólnego lub miejscowego lub produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym.
+### Rozdział 1 Przepisy ogólne
 
-2. Zabrania się stosowania zabiegów uniemożliwiających zwierzętom poddawanym procedurom wydawanie głosu.
+### Art. 1.
 
-**Art. 15.**
+### 1.
 
-1. Zwierzęciu pozostawionemu przy życiu po zakończeniu procedury zapewnia się:
+Ustawa określa zasady i warunki ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, w tym:
 
-- **1)** opiekę, a w przypadku gdy jest to konieczne – także opiekę lekarsko-weterynaryjną;
-- **2)** warunki utrzymania odpowiednie do jego stanu zdrowia i gatunku.
+### 1)
 
-2. Hodowca, dostawca lub użytkownik może przywrócić zwierzę wykorzystane lub przeznaczone do wykorzystania w procedurze do właściwego dla gatunku tego zwierzęcia siedliska przyrodniczego albo miejsca chowu lub hodowli albo znaleźć dla niego nowego opiekuna jedynie wtedy, gdy:
+zasady:
 
-- **1)** pozwala na to stan zdrowia tego zwierzęcia;
-- **2)** nie istnieje zagrożenie zdrowia ludzi lub zwierząt lub środowiska naturalnego;
-- **3)** zwierzę to będzie miało zapewnione warunki utrzymania odpowiednie do jego stanu zdrowia i gatunku.
+### a)
 
-**Art. 16.** (uchylony)
+wykonywania procedur i przeprowadzania doświadczeń,
 
-**Art. 16a.** Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody:
+### b)
 
-#### Rozdział 3 Wymagania dotyczące prowadzenia działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych
+prowadzenia działalności przez hodowców, dostawców i użytkowników,
 
-**Art. 17.**
+### c)
 
-1. Hodowca, dostawca i użytkownik jest obowiązany utrzymywać takie zwierzęta w ośrodku:
+przeprowadzania kontroli hodowców, dostawców i użytkowników;
 
-- **1)** w którym zostały zapewnione odpowiednie dla danego gatunku zwierząt warunki środowiskowe, w tym możliwość zaspokajania potrzeb fizjologicznych i etologicznych utrzymywanych zwierząt;
-- **2)** który został wyposażony w urządzenia i sprzęt dostosowane do potrzeb i cech gatunków zwierząt w nim utrzymywanych.
+### 2)
 
-2. Podmiot, o którym mowa w ust. 1, jest obowiązany zapewnić zwierzętom utrzymywanym w ośrodku:
+warunki utrzymywania zwierząt wykorzystywanych do celów naukowych lub edukacyjnych oraz sposób postępowania z tymi zwierzętami;
 
-- **1)** opiekę gwarantującą dobrostan i utrzymanie prawidłowego stanu zdrowia, w tym:
-    - **a)** codzienną kontrolę warunków środowiskowych,
-    - **b)** niezwłoczne usuwanie nieprawidłowości stwierdzonych w zakresie warunków środowiskowych, dobrostanu i stanu zdrowia;
+### 3)
 
-- **2)** transport w warunkach odpowiednich dla danego gatunku, zgodnie z wymaganiami określonymi w przepisach o zdrowiu zwierząt.
+zadania i kompetencje komisji etycznych do spraw doświadczeń na zwierzętach.
 
-**Art. 18.** Użytkownik może prowadzić działalność w ośrodku, który oprócz spełniania wymagań określonych w art. 17, jest:
+### 2.
 
-**Art. 19.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, minimalne wymagania:
+Ustawy nie stosuje się do:
 
-**Art. 20.**
+### 1)
 
-1. Hodowca, dostawca i użytkownik wyznacza do sprawowania opieki nad zwierzętami utrzymywanymi w ośrodku osobę, która:
+usług weterynaryjnych w rozumieniu ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt ([Dz. U. z 2019 r. poz. 24](https://api.sejm.gov.pl/eli/acts/DU/2019/24/text.html)), a także czynności rolniczych, w tym chowu lub hodowli zwierząt prowadzonych zgodnie z przepisami o ochronie zwierząt, niemających na celu wykonywania procedur;
 
-- **1)** ma wykształcenie co najmniej zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe;
-- **2)** odbyła szkolenie w zakresie opieki nad zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach;
-- **3)** odbyła 3-miesięczną praktykę w zakresie opieki nad zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach, pod nadzorem lekarza weterynarii lub osoby wskazanej przez hodowcę, dostawcę lub użytkownika.
+### 2)
 
-2. Hodowca, dostawca i użytkownik wyznaczają do uśmiercania zwierząt osobę, która:
+klinicznych badań weterynaryjnych prowadzonych zgodnie z art. 37ah-37ak ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne ([Dz. U. z 2022 r. poz. 2301](https://api.sejm.gov.pl/eli/acts/DU/2022/2301/text.html));
 
-- **1)** ma wykształcenie co najmniej zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe;
-- **2)** odbyła szkolenie w zakresie metod uśmiercania zwierząt wykorzystywanych lub przeznaczonych do wykorzystania do celów naukowych lub edukacyjnych;
-- **3)** odbyła 3-miesięczną praktykę w zakresie wykonywania czynności związanych z uśmiercaniem zwierząt wykorzystywanych lub przeznaczonych do wykorzystania do celów naukowych lub edukacyjnych, pod nadzorem lekarza weterynarii lub osoby, która uśmierca te zwierzęta.
+### 3)
 
-**Art. 21.**
+czynności wykonywanych w celu identyfikacji zwierząt;
 
-1. Użytkownik wyznacza osobę odpowiedzialną za planowanie procedur i doświadczeń oraz za ich przeprowadzanie, która ma wiedzę na temat gatunków zwierząt wykorzystywanych w tych procedurach i posiada co najmniej stopień naukowy doktora w zakresie nauk:
+### 4)
 
-- **1)** biologicznych, nauk farmaceutycznych, nauk medycznych, rolnictwa i ogrodnictwa, technologii żywności i żywienia, weterynarii lub zootechniki i rybactwa, ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz co najmniej 3-letni staż pracy umożliwiający uzyskanie praktycznych umiejętności w tym zakresie albo
-- **2)** innych niż wymienione w pkt 1 albo dyplom ukończenia studiów na kierunku w zakresie nauk wymienionych w pkt 1, ukończone studia podyplomowe lub szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz co najmniej 4-letni staż pracy umożliwiający uzyskanie praktycznych umiejętności w tym zakresie.
+chwytania zwierząt dzikich w celu wykonania pomiarów biometrycznych oraz określenia ich przynależności systematycznej;
 
-2. Użytkownik wyznacza do wykonywania procedur osobę, która posiada:
+### 5)
 
-- **1)** dyplom ukończenia studiów na kierunku w zakresie nauk wymienionych w ust. 1 pkt 1 i ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez rok uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie albo
-- **2)** dyplom ukończenia studiów na kierunku w zakresie innym niż wymieniony w pkt 1 i ukończone studia podyplomowe lub szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez 2 lata uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie, albo
-- **3)** wykształcenie średnie lub średnie branżowe, przygotowanie zawodowe zgodne z zakresem wykonywanych procedur, ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez 2 lata uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie.
+czynności, które zgodnie ze sztuką lekarsko-weterynaryjną nie powodują u zwierzęcia bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym.
 
-3. Użytkownik wyznacza do uczestniczenia w wykonywaniu procedur osobę, która:
+### Art. 2.
 
-- **1)** jest studentem albo doktorantem lub
-- **2)** wykonuje czynności techniczne związane z obsługą zwierząt – i odbyła szkolenie w zakresie postępowania ze zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach.
+### 1.
 
-**Art. 21a.**
+Użyte w ustawie określenia oznaczają:
 
-1. Szkolenia, o których mowa w art. 20 ust. 1 pkt 2 i ust. 2 pkt 2, art. 21 oraz art. 24 ust. 2 pkt 2, można odbyć w państwie innym niż Rzeczpospolita Polska.
+### 1)
 
-2. Zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem programu szkolenia określonym w przepisach wydanych na podstawie art. 22 i zakres, w jakim jest konieczne uzupełnienie odbytego szkolenia, ustala hodowca, dostawca lub użytkownik.
+zwierzęta - żywe zwierzęta kręgowe, w tym formy larwalne zdolne do samodzielnego odżywiania i formy embrionalne ssaków w ostatniej jednej trzeciej życia płodowego albo znajdujące się we wcześniejszym stadium rozwoju, gdy w wyniku wykonanych procedur, po osiągnięciu ostatniej jednej trzeciej życia płodowego, mogą one odczuwać ból, cierpienie, dystres lub wystąpi u nich trwałe uszkodzenie organizmu, oraz żywe głowonogi;
 
-3. W przypadku konieczności uzupełnienia szkolenia odbytego w państwie innym niż Rzeczpospolita Polska osoba, która odbyła to szkolenie, jest obowiązana do jego uzupełnienia w zakresie ustalonym zgodnie z ust. 2.
+### 2)
 
-4. Hodowca, dostawca lub użytkownik potwierdza zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem programu szkolenia określonym w przepisach wydanych na podstawie art. 22, a także uzupełnienie szkolenia w przypadku, o którym mowa w ust. 3. Potwierdzenie może dotyczyć więcej niż jednego szkolenia.
+zwierzęta laboratoryjne:
 
-**Art. 21b.**
+### a[2) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret pierwsze ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 2338), która weszła w życie z dniem 1 stycznia 2022 r.](#gloss-0:2:))
 
-1. Hodowca, dostawca i użytkownik wyznaczają co najmniej jedną osobę odpowiedzialną za nadzór nad osobami, o których mowa w art. 20 i art. 21 ust. 2 i 3, podczas wykonywania przez nie czynności, o których mowa w tych przepisach.
+zwierzęta należące do następujących gatunków: mysz domowa (Mus musculus), szczur wędrowny (Rattus norvegicus), kawia domowa (Cavia porcellus), chomik syryjski (Mesocricetus auratus), chomik chiński (Critetulus griseus), myszoskoczek mongolski (Meriones unguiculatus), królik europejski (Oryctolagus cuniculus), pies domowy (Canis familiaris), kot domowy (Felis catus), żaba trawna (Rana temporaria), żaba lamparcia (Rana pipiens), platana szponiasta (Xenopus laevis), platana tropikalna (Xenopus tropicalis), danio pręgowany (Danio rerio),
 
-2. Do wykonywania nadzoru, o którym mowa w ust. 1, wyznacza się osobę, która spełnia wymagania określone w art. 21 ust. 1 lub art. 24 ust. 2.
+### b[3) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:3:))
 
-3. Nadzór, o którym mowa w ust. 1, jest wykonywany do czasu, aż osoba odpowiedzialna za nadzór stwierdzi, że osoba nadzorowana wykazuje się wymaganymi umiejętnościami praktycznymi niezbędnymi do prawidłowego wykonywania czynności, o których mowa odpowiednio w art. 20 i art. 21 ust. 2 i 3.
+zwierzęta z rzędu naczelnych stanowiące potomstwo zwierząt z rzędu naczelnych hodowanych w niewoli albo pozyskiwane z kolonii samowystarczalnych
 
-4. Osoba odpowiedzialna za nadzór, o którym mowa w ust. 1, potwierdza pisemnie, że osoba nadzorowana wykazuje się umiejętnościami praktycznymi niezbędnymi do prawidłowego wykonywania czynności, o których mowa odpowiednio w art. 20 i art. 21 ust. 2 i 3, oraz przekazuje to potwierdzenie osobie nadzorowanej oraz hodowcy, dostawcy lub użytkownikowi.
+### c)
 
-**Art. 22.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+(uchylona)[4) Przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret trzecie ustawy, o której mowa w odnośniku 2.](#gloss-0:4:)
 
-**Art. 23.** Hodowca, dostawca i użytkownik zawierają z lekarzem weterynarii umowę o świadczenie usług weterynaryjnych w rozumieniu art. 2 ust. 1 ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt lub, jeżeli jest to uzasadnione specyfiką działalności hodowcy, dostawcy lub użytkownika, w szczególności polegającą na przeprowadzaniu doświadczeń na zwierzętach dzikich, umowę o świadczenie usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika z ekspertem posiadającym doświadczenie niezbędne do świadczenia takich usług w odniesieniu do gatunków tych zwierząt.
+- które są hodowane wyłącznie do celów określonych w art. 3 lub których tkanki lub narządy są przeznaczone do wykorzystania w takich celach;
 
-**Art. 24.**
+### 3)
 
-1. Hodowca, dostawca i użytkownik wyznaczają osobę odpowiedzialną za:
+zwierzęta dzikie - zwierzęta wolno żyjące (dzikie) w rozumieniu art. 4 pkt 21 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt ([Dz. U. z 2022 r. poz. 572](https://api.sejm.gov.pl/eli/acts/DU/2022/572/text.html) i [2375](https://api.sejm.gov.pl/eli/acts/DU/2022/2375/text.html));
 
-- **1)** nadzór nad dobrostanem zwierząt utrzymywanych w ośrodku i opieką nad tymi zwierzętami;
-- **2)** zapewnienie osobom, o których mowa w art. 20 i art. 21, dostępu do informacji dotyczących gatunków zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych;
-- **3)** organizację szkoleń dla osób, o których mowa w art. 20 i art. 21;
-- **4)** zapewnienie, aby osoby, o których mowa w art. 20 i art. 21, posiadały wykształcenie, praktykę i staż pracy oraz odbyły szkolenia, zgodne z wymaganiami określonymi w tych przepisach oraz w przepisach wydanych na podstawie art. 22 pkt 1, a także posiadały oraz stale doskonaliły wiedzę i umiejętności praktyczne niezbędne do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21.
+### 4)
 
-2. Do wykonywania zadań, o których mowa w ust. 1, wyznacza się osobę, która:
+zwierzęta gospodarskie - zwierzęta gospodarskie w rozumieniu art. 2 pkt 1 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich ([Dz. U. z 2021 r. poz. 36](https://api.sejm.gov.pl/eli/acts/DU/2021/36/text.html));
 
-- **1)** posiada:
-    - **a)** wykształcenie wyższe albo
-    - **b)** co najmniej wykształcenie średnie lub średnie branżowe oraz tytuł zawodowy technika lub dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy – w zawodach związanych z chowem lub hodowlą zwierząt;
+### 5)
 
-- **2)** odbyła szkolenie w zakresie niezbędnym do sprawowania nadzoru nad dobrostanem zwierząt utrzymywanych w ośrodku i opieką nad tymi zwierzętami;
-- **3)** ma co najmniej 2-letni staż pracy na stanowisku związanym ze sprawowaniem opieki nad zwierzętami.
+siedlisko przyrodnicze - siedlisko przyrodnicze w rozumieniu art. 5 pkt 17 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody ([Dz. U. z 2022 r. poz. 916](https://api.sejm.gov.pl/eli/acts/DU/2022/916/text.html), [1726](https://api.sejm.gov.pl/eli/acts/DU/2022/1726/text.html), [2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html) i [2375](https://api.sejm.gov.pl/eli/acts/DU/2022/2375/text.html));
 
-**Art. 24a.** Hodowca, dostawca i użytkownik, w zakresie uzasadnionym rodzajem prowadzonej przez siebie działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych, opracowują programy:
+### 6)
 
-**Art. 25.**
+procedura - każdą formę wykorzystania zwierząt do celów określonych w art. 3, która może spowodować u zwierzęcia ból, cierpienie, dystres lub trwałe uszkodzenie organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym, a także czynności mające na celu lub mogące spowodować urodzenie się lub wylęg zwierzęcia albo powstanie i utrzymanie genetycznie zmodyfikowanej linii zwierząt w warunkach bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, w stopniu równym ukłuciu igłą lub intensywniejszym; nie jest procedurą uśmiercenie zwierzęcia wyłącznie po to, aby wykorzystać jego narządy lub tkanki do celów określonych w art. 3;
 
-1. Hodowca, dostawca i użytkownik ustanawiają zespół do spraw dobrostanu zwierząt, w którego skład wchodzą co najmniej osoba spełniająca albo osoby spełniające wymagania określone w art. 24 ust. 2, a w przypadku użytkownika – ponadto pracownik naukowy spełniający wymagania określone w art. 21 ust. 1.
+### 7)
 
-2. Do zadań zespołu do spraw dobrostanu zwierząt należy:
+doświadczenie - program badawczy obejmujący procedurę lub procedury, mający określony cel naukowy lub edukacyjny;
 
-- **1)** udzielanie porad:
-    - **a)** w sprawach: – związanych z zapewnieniem dobrostanu zwierząt, – znalezienia nowego opiekuna dla zwierząt, w tym ich właściwej socjalizacji, – prowadzenia rehabilitacji zwierząt dzikich przed przywróceniem ich do siedliska przyrodniczego, – związanych z organizowanymi szkoleniami,
-    - **b)** dotyczących stosowania zasad zastąpienia, ograniczenia i udoskonalenia, a także przekazywanie na bieżąco informacji o osiągnięciach technicznych i naukowych związanych ze stosowaniem tych zasad;
+### 8)
 
-- **2)** opracowywanie i dokonywanie przeglądu wewnętrznych zasad postępowania ze zwierzętami utrzymywanymi w ośrodku;
-- **3)** monitorowanie przypadków uśmiercania zwierząt w celu pozyskania narządów lub tkanek oraz ułatwianie wzajemnego udostępniania pozyskanych narządów lub tkanek między hodowcami, dostawcami i użytkownikami;
-- **4)** monitorowanie dobrostanu zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych;
-- **5)** zgłaszanie hodowcy, dostawcy lub użytkownikowi przypadków naruszenia dobrostanu zwierząt i określanie czynności, które należy podjąć w celu przywrócenia tego dobrostanu;
-- **6)** kontrola przeprowadzania doświadczeń i ich wyników, z uwzględnieniem wpływu tych doświadczeń na wykorzystywane w nich zwierzęta, oraz ocena zgodności przeprowadzanych doświadczeń z treścią uchwały o udzieleniu zgody na przeprowadzenie doświadczenia oraz z zasadami zastąpienia, ograniczenia i udoskonalenia;
-- **7)** opiniowanie lub zatwierdzanie wniosków o wyrażenie zgody na przeprowadzenie doświadczenia przed ich złożeniem do lokalnej komisji etycznej do spraw doświadczeń na zwierzętach.
+ośrodek - budynek, tymczasowy obiekt budowlany lub miejsce, w którym są utrzymywane zwierzęta przeznaczone do wykorzystywania lub wykorzystywane w procedurze lub których tkanki lub narządy mają zostać wykorzystane do celów określonych w art. 3;
 
-3. Hodowca, dostawca i użytkownik, ustanawiając zespół do spraw dobrostanu zwierząt:
+### 9[5) W brzmieniu ustalonym przez art. 1 pkt 1 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:5:))
 
-- **1)** wyznaczają osobę albo osoby do składu tego zespołu lub
-- **2)** zawierają z osobami wchodzącymi w skład tego zespołu umowę o wykonywanie zadań, o których mowa w ust. 2, w ramach tego zespołu.
+hodowca - osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która hoduje zwierzęta laboratoryjne w celu wykorzystania ich w procedurach lub aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3 lub która hoduje inne zwierzęta głównie w tych celach;
 
-4. Umowę, o której mowa w ust. 3 pkt 2, z tą samą osobą albo z tymi samymi osobami może zawrzeć nie więcej niż pięciu hodowców, dostawców lub użytkowników, którzy utrzymują zwierzęta w pomieszczeniach do ich utrzymywania o powierzchni nieprzekraczającej łącznie 100 m .
+### 10)
 
-5. Zespół do spraw dobrostanu zwierząt przy wykonywaniu zadań określonych w ust. 2 współpracuje z lekarzem weterynarii i ekspertem, o których mowa w art. 23.
+dostawca - osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, niebędącą hodowcą, która dostarcza zwierzęta w celu wykorzystania ich w procedurach lub aby wykorzystać tkanki lub narządy tych zwierząt do celów określonych w art. 3;
 
-6. Lekarz weterynarii i ekspert, o których mowa w art. 23, przekazują zespołowi do spraw dobrostanu zwierząt informacje dotyczące dobrostanu zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych.
+### 11[6) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret trzecie podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:6:))
 
-7. Zespół do spraw dobrostanu zwierząt sporządza dokumentację z realizacji zadań, o których mowa w ust. 2, obejmującą w szczególności wskazanie działań podjętych w celu usunięcia stwierdzonych nieprawidłowości, i przekazuje ją hodowcy, dostawcy lub użytkownikowi.
+użytkownik - osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która wykorzystuje zwierzęta w procedurach lub uśmierca zwierzęta, aby wykorzystać ich narządy lub tkanki do celów określonych w art. 3;
 
-8. Hodowca, dostawca i użytkownik:
+### 12[7) Dodany przez art. 1 pkt 1 lit. a tiret trzecie podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:7:))
 
-- **1)** przechowują dokumentację, o której mowa w ust. 7, przez 3 lata od dnia dokonania w niej ostatniego wpisu;
-- **2)** przekazują Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach corocznie, w terminie do dnia 31 marca, informacje dotyczące wykonywania zadań, o których mowa w ust. 2.
+kolonia samowystarczalna - kolonię, w której zwierzęta z rzędu naczelnych są hodowane wyłącznie w ramach kolonii lub są pozyskiwane z innych kolonii, ale nie są zwierzętami dzikimi, oraz w której zwierzęta są utrzymywane w sposób zapewniający ich przyzwyczajenie do ludzi.
 
-#### Rozdział 4 Prowadzenie działalności przez hodowców, dostawców i użytkowników
+### 2.
 
-**Art. 26.** Prowadzenie działalności polegającej na hodowli, dostarczaniu zwierząt lub wykonywaniu procedur wymaga uzyskania wpisu do rejestru hodowców, dostawców i użytkowników, zwanego dalej „rejestrem”.
+Ilekroć w ustawie jest mowa o państwach członkowskich Unii Europejskiej, należy przez to rozumieć również państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym.
 
-**Art. 27.**
+### 3.
 
-1. Podmiot zamierzający prowadzić działalność, o której mowa w art. 26, przed uzyskaniem wpisu do rejestru składa do powiatowego lekarza weterynarii wniosek o stwierdzenie spełniania wymagań niezbędnych do prowadzenia tej działalności.
+(uchylony)[8) Przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:8:)
 
-2. Powiatowy lekarz weterynarii, w drodze decyzji administracyjnej, stwierdza:
+### Art. 3.
 
-- **1)** spełnienie wymagań niezbędnych do prowadzenia działalności, o której mowa w art. 26, jeżeli są spełnione wymagania określone w art. 17, art. 18, art. 20, art. 21, art. 21b ust. 1 i 2, art. 23–24a, art. 25 ust. 1 i 3 oraz w przepisach wydanych na podstawie art. 19;
-- **2)** niespełnienie wymagań niezbędnych do prowadzenia działalności, o której mowa w art. 26, jeżeli nie są spełnione wymagania określone w art. 17, art. 18, art. 20, art. 21, art. 21b ust. 1 i 2, art. 23–24a, art. 25 ust. 1 lub 3 lub w przepisach wydanych na podstawie art. 19.
+Procedury wykonuje się wyłącznie w celu:
 
-3. Wniosek, o którym mowa w ust. 1, zawiera:
+### 1)
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **2)** określenie rodzaju planowanej działalności;
-- **3)** imię i nazwisko lekarza weterynarii lub eksperta, o których mowa w art. 23;
-- **4)** imię i nazwisko osoby, o której mowa w art. 24 ust. 1, oraz imię i nazwisko osoby albo imiona i nazwiska osób, o których mowa w art. 25 ust. 1;
-- **5)** wykaz gatunków zwierząt, które będą hodowane, dostarczane lub wykorzystywane w procedurach lub których tkanki lub narządy będą przeznaczone do wykorzystania w celach określonych w art. 3.
+prowadzenia badań:
 
-4. Podmiot zamierzający prowadzić działalność polegającą na wykonywaniu procedur do wniosku, o którym mowa w ust. 1, dołącza informację o spełnieniu wymagań określonych w art. 18.
+### a)
 
-5. Podmiot zamierzający prowadzić działalność polegającą na hodowli zwierząt z rzędu naczelnych we wniosku, o którym mowa w ust. 1, określa sposoby zwiększania odsetka zwierząt będących potomstwem zwierząt z rzędu naczelnych, które były hodowane w niewoli.
+podstawowych w rozumieniu art. 4 ust. 2 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ([Dz. U. z 2022 r. poz. 574](https://api.sejm.gov.pl/eli/acts/DU/2022/574/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306.](#gloss-0:9:)),
 
-6. Ostateczną decyzję, o której mowa w ust. 2 pkt 1, oraz wniosek, o którym mowa w ust. 1, powiatowy lekarz weterynarii przekazuje niezwłocznie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki.
+### b)
 
-**Art. 28.**
+aplikacyjnych w rozumieniu art. 4 ust. 2 pkt 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, w tym badań translacyjnych polegających na przeniesieniu wyników badań przeprowadzonych na zwierzętach do praktyki klinicznej, jeżeli ich celem jest:
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki:
+- - zapobieganie chorobom, diagnozowanie lub leczenie chorób lub dysfunkcji u ludzi, zwierząt lub roślin,
 
-- **1)** dokonuje wpisu hodowcy, dostawcy lub użytkownika do rejestru, w terminie 14 dni od dnia otrzymania od powiatowego lekarza weterynarii ostatecznej decyzji, o której mowa w art. 27 ust. 2 pkt 1;
-- **2)** wykreśla hodowcę, dostawcę lub użytkownika z rejestru:
-    - **a)** na wniosek powiatowego lekarza weterynarii w terminie 14 dni od dnia otrzymania ostatecznej decyzji stwierdzającej: – niespełnianie wymagań do prowadzenia działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 59 ust. 2, – rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 60a ust. 2,
-    - **b)** na wniosek hodowcy, dostawcy lub użytkownika – w przypadku zaprzestania wykonywania działalności objętej wpisem,
-    - **c)** z urzędu w przypadku: – uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego albo rejestru instytutów naukowych Polskiej Akademii Nauk o wykreśleniu z nich podmiotu, który był hodowcą, dostawcą lub użytkownikiem, – uzyskania od powiatowego lekarza weterynarii informacji o stwierdzeniu zaprzestania wykonywania działalności objętej wpisem w przypadku innym niż zawieszenie wykonywania tej działalności, – prawomocnego orzeczenia przez sąd zakazu na podstawie art. 35 ust. 4 lub 4a ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, – prawomocnego orzeczenia przez sąd zakazu: – – zajmowania stanowiska, – – wykonywania zawodu, – – prowadzenia działalności gospodarczej – które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie.
+- - ocena, wykrywanie, regulacja lub zmiana stanów fizjologicznych ludzi, zwierząt lub roślin,
 
-2. (uchylony)
+### c)
 
-**Art. 28a.** Hodowca, dostawca lub użytkownik, który został wykreślony z rejestru na podstawie art. 28 ust. 1 pkt 2 lit. a tiret drugie, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie roku od dnia, w którym decyzja, o której mowa w art. 60a ust. 1, stała się ostateczna i prawomocna.
+mających na celu zachowanie gatunku,
 
-**Art. 29.**
+### d)
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki prowadzi rejestr w postaci elektronicznej.
+z zakresu medycyny sądowej;
 
-2. W rejestrze umieszcza się:
+### 2)
 
-- **1)** imię i nazwisko albo nazwę hodowcy, dostawcy lub użytkownika;
-- **2)** adres i miejsce wykonywania działalności przez hodowcę, dostawcę lub użytkownika;
-- **3)** dane, o których mowa w art. 27 ust. 3 pkt 2–5.
+zapewnienia dobrostanu zwierząt lub poprawy warunków chowu lub hodowli zwierząt gospodarskich;
 
-3. Hodowca, dostawca lub użytkownik wpisany do rejestru informuje na piśmie ministra właściwego do spraw szkolnictwa wyższego i nauki o zmianie danych, o których mowa w art. 27 ust. 3 pkt 1 i 3–5, w terminie 7 dni od dnia wystąpienia tej zmiany.
+### 3)
 
-4. Do zmiany w zakresie miejsca wykonywania działalności, rodzaju wykonywanej działalności lub gatunków zwierząt hodowanych, dostarczanych lub wykorzystywanych w procedurach w ośrodku, stosuje się odpowiednio przepisy art. 27.
+opracowania i produkcji produktów leczniczych, środków spożywczych w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2022 r. poz. 2132](https://api.sejm.gov.pl/eli/acts/DU/2022/2132/text.html)), pasz lub innych substancji lub produktów, lub badań ich jakości, skuteczności lub bezpieczeństwa stosowania, przeprowadzanych w celach, o których mowa w pkt 1 lit. b i pkt 2;
 
-5. Dane zawarte w rejestrze, z wyłączeniem danych, o których mowa w art. 27 ust. 3 pkt 3 i 4, są udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+### 4)
 
-6. Minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia w formie dokumentu elektronicznego za pomocą elektronicznej platformy usług administracji publicznej dane zawarte w rejestrze, o których mowa w art. 27 ust. 3 pkt 3 i 4, powiatowemu lekarzowi weterynarii na jego wniosek w zakresie niezbędnym do przeprowadzenia przez niego kontroli hodowcy, dostawcy lub użytkownika.
+ochrony środowiska naturalnego w interesie zdrowia lub dobrostanu ludzi i zwierząt;
 
-**Art. 30.**
+### 5)
 
-1. W zakresie objętym prowadzoną działalnością hodowca, dostawca lub użytkownik prowadzi ewidencję zwierząt, do której wpisuje:
+kształcenia na poziomie szkolnictwa wyższego lub szkolenia w celu nabycia lub doskonalenia kompetencji zawodowych.
 
-- **1)** informacje o liczbie i gatunkach zwierząt utrzymywanych, hodowanych, nabywanych, dostarczanych, wykorzystywanych w procedurach, przywróconych do siedliska przyrodniczego albo którym znaleziono nowego opiekuna;
-- **2)** informacje o pochodzeniu zwierząt, ze wskazaniem, czy były one hodowane w celu wykorzystania w procedurach;
-- **3)** datę nabycia, dostarczenia, przywrócenia zwierzęcia do siedliska przyrodniczego albo znalezienia zwierzęciu nowego opiekuna;
-- **4)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, od którego zwierzęta zostały nabyte, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **5)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu będącego odbiorcą zwierząt, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **6)** informacje o liczbie i gatunkach zwierząt, które padły albo zostały uśmiercone, z wyodrębnieniem zwierząt uśmiercanych wyłącznie w celu pozyskania narządów lub tkanek, a w przypadku zwierząt padłych – także o przyczynie śmierci, chyba że nie jest znana;
-- **7)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu będącego nowym opiekunem zwierzęcia, o którym mowa w art. 15 ust. 2, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **8)** informacje o liczbie i rodzaju przeprowadzonych doświadczeń – w przypadku użytkowników;
-- **9)** informacje dotyczące psa, kota i zwierzęcia z rzędu naczelnych – niezwłocznie po ich urodzeniu albo w dniu ich pozyskania, w tym:
-    - **a)** datę i miejsce urodzenia psa, kota i zwierzęcia z rzędu naczelnych, jeżeli są znane,
-    - **b)** dane umieszczone w trwałym indywidualnym znaku identyfikacyjnym, którym znakuje się psa, kota i zwierzę z rzędu naczelnych,
-    - **c)** o hodowli, z której pochodzą pies, kot i zwierzę z rzędu naczelnych,
-    - **d)** o wyhodowaniu w celu wykorzystania w procedurach,
-    - **e)** o urodzeniu ze zwierząt wyhodowanych w niewoli – w przypadku zwierzęcia z rzędu naczelnych,
-    - **f)** reprodukcyjne i weterynaryjne oraz dotyczące zachowania danego psa, kota lub zwierzęcia z rzędu naczelnych wobec ludzi i zwierząt,
-    - **g)** o liczbie i rodzaju doświadczeń, w których dany pies, kot lub zwierzę z rzędu naczelnych było wykorzystane.
+### Art. 3a[10) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:10:).
 
-2. W zakresie objętym prowadzoną działalnością, hodowca, dostawca lub użytkownik przechowuje dane zawarte w ewidencji zwierząt przez:
+Hodowca, dostawca i użytkownik zapewniają:
 
-- **1)** 5 lat od dnia dokonania ostatniego wpisu – w przypadku danych, o których mowa w ust. 1 pkt 1–8;
-- **2)** 3 lata od śmierci zwierzęcia albo przywrócenia go do siedliska przyrodniczego właściwego dla danego gatunku albo znalezienia dla niego nowego opiekuna – w przypadku danych, o których mowa w ust. 1 pkt 9.
+### 1)
 
-3. Informacje, o których mowa w ust. 1 pkt 9 lit. f, przekazuje się nowemu opiekunowi zwierzęcia.
+stosowanie - zawsze, gdy jest to możliwe, zamiast danej procedury - metody lub strategii badawczej, która jest zadowalająca pod względem naukowym i nie obejmuje wykorzystywania zwierząt (zasada zastąpienia);
 
-4. Użytkownik, na podstawie danych zawartych w ewidencji, przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 marca, informacje dotyczące:
+### 2)
 
-- **1)** zwierząt wykorzystywanych w procedurach, w szczególności celów i kategorii procedur oraz przepisów, z których wynika obowiązek przeprowadzenia tych procedur;
-- **2)** zwierząt uśmiercanych wyłącznie w celu pobrania narządów lub tkanek.
+zredukowanie do minimum liczby zwierząt wykorzystywanych w procedurach, bez uszczerbku dla celów tych procedur (zasada ograniczenia);
 
-5. Hodowca i dostawca przekazują ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 marca, informacje dotyczące zwierząt przeznaczonych do wykorzystania w procedurach.
+### 3)
 
-**Art. 31.**
+udoskonalenie hodowli zwierząt, ich utrzymywania, opieki nad nimi i metod stosowanych w procedurach tak, aby u zwierząt zostały wyeliminowane lub ograniczone do minimum potencjalne: ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu (zasada udoskonalenia).
 
-1. Hodowca, dostawca lub użytkownik jest obowiązany oznakować psa, kota lub zwierzę z rzędu naczelnych trwałym indywidualnym znakiem identyfikacyjnym w sposób najmniej bolesny, nie później niż w dniu odstawienia od matki.
+### Art. 3b[10) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2.](#gloss-0:10:).
 
-2. W przypadku gdy pies, kot lub zwierzę z rzędu naczelnych są przenoszone do innego hodowcy, dostawcy lub użytkownika przed odstawieniem od matki, a nie jest możliwe oznakowanie ich przed przeniesieniem, hodowca, dostawca lub użytkownik przyjmujący zwierzę:
+### 1.
 
-- **1)** umieszcza dane umożliwiające identyfikację takiego zwierzęcia i jego matki w ewidencji, o której mowa w art. 30 ust. 1;
-- **2)** niezwłocznie dokonuje oznakowania takiego zwierzęcia trwałym indywidualnym znakiem identyfikacyjnym.
+W przypadku konieczności uśmiercenia zwierzęcia przez hodowcę, dostawcę lub użytkownika zwierzę uśmierca osoba spełniająca wymagania określone w art. 20 ust. 2, wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych ([Dz. Urz. UE L 276 z 20.10.2010, str. 33](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[11) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 170 z 25.06.2019, str. 115.](#gloss-0:11:).
 
-3. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób znakowania psów, kotów i zwierząt z rzędu naczelnych oraz dane umieszczane w trwałym indywidualnym znaku identyfikacyjnym, biorąc pod uwagę specyfikę znakowanych zwierząt oraz konieczność zapewnienia ich identyfikacji na podstawie danych umieszczonych w tym znaku.
+### 2.
 
-#### Rozdział 5 Komisje etyczne do spraw doświadczeń na zwierzętach
+Zwierzę uśmierca się w ośrodku. Zwierzę może zostać uśmiercone poza ośrodkiem jedynie wtedy, gdy procedura jest wykonywana poza ośrodkiem.
 
-**Art. 32.**
+### 3.
 
-1. Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach, zwana dalej „Komisją”, i lokalne komisje etyczne do spraw doświadczeń na zwierzętach, zwane dalej „lokalnymi komisjami”, są organami właściwymi w sprawach zgód na przeprowadzanie doświadczeń.
+Zwierzę uśmierca się w sposób ograniczający do minimum jego ból, cierpienie i dystres.
 
-2. Lokalne komisje tworzy się w liczbie nie większej niż 18.
+### 4.
 
-3. Komisja wskazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, które będą zapewniały obsługę lokalnych komisji. Podmioty te są administratorami danych osobowych przetwarzanych przez lokalne komisje w związku z realizacją zadań.
+Przepisów ust. 1 i 2 nie stosuje się w przypadku nagłej konieczności uśmiercenia zwierzęcia ze względu na jego dobrostan lub zagrożenie dla zdrowia ludzi, zwierząt lub środowiska naturalnego.
 
-**Art. 33.**
+### 5.
 
-1. Do zadań Komisji należy:
+Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach może ustanawiać odstępstwa od wymagania uśmiercania zwierząt wyłącznie z zastosowaniem metod określonych w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych i dopuścić stosowanie innej metody, jeżeli na podstawie dowodów naukowych uzna, że ta metoda jest co najmniej równie humanitarna.
 
-- **1)** formułowanie i przedstawianie:
-    - **a)** hodowcom, dostawcom i użytkownikom opinii i wniosków w sprawach ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych,
-    - **b)** użytkownikom opinii w sprawach współpracy w zakresie wzajemnego udostępniania narządów i tkanek pobranych od zwierząt,
-    - **c)** hodowcom wytycznych dotyczących zwiększania odsetka zwierząt będących potomstwem zwierząt z rzędu naczelnych, które były hodowane w niewoli;
+### Art. 4.
 
-- **2)** opracowywanie i udostępnianie użytkownikom dobrych praktyk, w szczególności w zakresie planowania i wykonywania procedur, stosowania zasad zastąpienia, ograniczenia i udoskonalenia oraz stosowanych metod alternatywnych;
-- **3)** przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz ministrowi właściwemu do spraw rolnictwa wniosków wynikających z rocznego sprawozdania podsumowującego wyniki kontroli hodowców, dostawców i użytkowników;
-- **3a)** przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki opinii w zakresie, o którym mowa w art. 70 ust. 2 pkt 2;
-- **4)** powoływanie i odwoływanie członków lokalnych komisji;
-- **5)** współpraca z Komisją Europejską przy:
-    - **a)** opracowywaniu i zatwierdzaniu metod badawczych zapewniających uzyskanie bez wykorzystania zwierząt lub przy wykorzystaniu mniejszej ich liczby, lub w sposób powodujący mniejszy ból u wykorzystywanych zwierząt takiego samego lub szerszego zakresu informacji, jaki zostałby uzyskany przy wykonywaniu procedur z wykorzystaniem zwierząt (metody alternatywne),
-    - **b)** wyznaczaniu laboratoriów wykonujących badania mające na celu zatwierdzenie metod alternatywnych na potrzeby unijnego laboratorium referencyjnego, będącego europejskim ośrodkiem walidacji metod alternatywnych;
+W zakresie nieuregulowanym ustawą do ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych stosuje się ustawę z dnia 21 sierpnia 1997 r. o ochronie zwierząt.
 
-- **6)** udostępnianie informacji o metodach alternatywnych i ich propagowanie;
-- **7)** przedstawianie organom administracji publicznej oraz osobie albo osobom, o których mowa w art. 25 ust. 1, opinii w sprawach związanych z pozyskiwaniem, hodowlą, utrzymywaniem i wykorzystywaniem w procedurach zwierząt oraz opieką nad tymi zwierzętami, a także zapewnianie wzajemnego udostępniania między tymi podmiotami dobrych praktyk w tym zakresie;
-- **8)** wymiana informacji z właściwymi organami innych państw członkowskich Unii Europejskiej w zakresie zadań należących do Komisji i lokalnych komisji oraz w zakresie dotyczącym wykonywania zadań określonych w art. 25 ust. 2, a także udostępniania dobrych praktyk w tym zakresie;
-- **9)** ustanawianie odstępstw, o których mowa w art. 3b ust. 5.
+### Rozdział 2 Zasady wykonywania procedur
 
-1a. W przypadku spraw, o których mowa w ust. 1 pkt 7, Komisja przedstawia lokalnej komisji opinie wyłącznie w tych sprawach, w których nie jest w stosunku do niej organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2022 r. poz. 2000 i 2185), zwanej dalej „Kodeksem postępowania administracyjnego”.
+### Art. 5.
 
-2. Komisja przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 30 czerwca, informacje o realizacji zadań lokalnych komisji, o których mowa w art. 36 ust. 1.
+### 1[12) W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:12:).
 
-3. Komisja jest organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do lokalnych komisji.
+Procedury są wykonywane zgodnie z zasadami zastąpienia, ograniczenia i udoskonalenia.
 
-4. Na uchwałę Komisji przysługuje skarga do sądu administracyjnego.
+### 2.
 
-5. Komisja działa na podstawie regulaminu zatwierdzanego przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
+Niedopuszczalne jest wykonanie procedury jeżeli wiąże się ona z dotkliwym bólem, cierpieniem lub dystresem, który może mieć długotrwały charakter i nie można go załagodzić.
 
-6. Dobre praktyki, o których mowa w ust. 1 pkt 2, informacje o metodach alternatywnych, sprawozdanie z przeprowadzonych kontroli, o którym mowa w art. 62, oraz uchwały ustanawiające odstępstwa, o których mowa w art. 3b ust. 5, są udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+### 2a[13) Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:13:).
 
-**Art. 34.**
+Niedopuszczalne jest wykonanie procedury, jeżeli na mocy prawodawstwa Unii Europejskiej, w szczególności w zakresie pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, jest uznawana inna metoda lub strategia testowania, która pozwala na uzyskanie odpowiednich wyników bez wykorzystywania zwierząt.
 
-1. W skład Komisji wchodzi 15 członków powoływanych i odwoływanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki, w tym:
+### 3.
 
-- **1)** 9 osób posiadających co najmniej stopień naukowy doktora w zakresie nauk medycznych, nauk farmaceutycznych, nauk o zdrowiu, inżynierii biomedycznej, rolnictwa i ogrodnictwa, technologii żywności i żywienia, weterynarii, zootechniki i rybactwa, nauk biologicznych, nauk chemicznych, nauk fizycznych lub nauk o Ziemi i środowisku oraz wiedzę lub doświadczenie w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **2)** 3 osoby posiadające co najmniej tytuł zawodowy magistra i dorobek naukowy lub zawodowy z zakresu filozofii, etyki lub prawa, w szczególności związany z etycznymi lub prawnymi aspektami wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **3)** 3 przedstawicieli organizacji społecznych, których statutowym celem działania jest ochrona zwierząt.
+Niedopuszczalne jest wykonanie procedury w celu otrzymania danych, które zostały uzyskane w innych niż Rzeczpospolita Polska państwach członkowskich Unii Europejskiej w wyniku wykonania procedur uznawanych przez prawodawstwo Unii Europejskiej, w szczególności w zakresie pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, chyba że potwierdzenie tych danych jest niezbędne, aby wykorzystać je do badań mających na celu ochronę zdrowia publicznego, bezpieczeństwa lub środowiska naturalnego.
 
-2. Członkiem Komisji nie może być osoba:
+### 4.
 
-- **1)** skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **2)** ukarana prawomocnym orzeczeniem komisji dyscyplinarnej lub sądu orzekającego w przedmiocie odpowiedzialności zawodowej.
+W przypadku gdy istnieje możliwość wyboru między procedurami, dokonuje się go, biorąc pod uwagę, aby wybrana procedura:
 
-2a. Zgłoszenie kandydata na członka Komisji, o którym mowa w ust. 1 pkt 1 i 2, składa kandydat albo podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+### 1)
 
-2b. Zgłoszenie kandydata na członka Komisji, o którym mowa w ust. 1 pkt 3, składa organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
+zakładała wykorzystanie:
 
-2c. Zgłoszenie kandydata na członka Komisji obejmuje:
+### a)
 
-- **1)** imię i nazwisko oraz datę urodzenia kandydata;
-- **2)** adres do korespondencji kandydata;
-- **3)** adres poczty elektronicznej lub numer telefonu kandydata;
-- **4)** stopień naukowy, tytuł profesora lub tytuł zawodowy kandydata;
-- **5)** opis wiedzy, doświadczenia, dorobku naukowego lub zawodowego kandydata lub opis działalności w zakresie ochrony zwierząt;
-- **6)** podpis kandydata;
-- **7)** dane zgłaszającej organizacji społecznej lub zgłaszającego podmiotu wraz z podpisem osoby uprawnionej do ich reprezentacji – w przypadku, gdy zgłoszenia dokonuje ta organizacja lub ten podmiot.
+najmniejszej liczby zwierząt,
 
-2d. Do zgłoszenia kandydata na członka Komisji dołącza się oświadczenie kandydata na członka Komisji o:
+### b)
 
-- **1)** wyrażeniu zgody na kandydowanie;
-- **2)** braku okoliczności, o których mowa w ust. 2.
+zwierząt z najniższą zdolnością odczuwania bólu, cierpienia, dystresu lub skutków trwałego uszkodzenia organizmu;
 
-2e. Organizacja społeczna, której statutowym celem działania jest ochrona zwierząt, do zgłoszenia kandydata na członka Komisji dołącza statut i aktualny odpis z Krajowego Rejestru Sądowego.
+### 2)
 
-3. Kadencja Komisji trwa 4 lata.
+powodowała jak najmniej bólu, cierpienia lub dystresu lub w najmniejszym stopniu stwarzała ryzyko trwałego uszkodzenia organizmu zwierząt;
 
-4. Członkiem Komisji można być nie dłużej niż przez dwie kolejne kadencje.
+### 3)
 
-5. W posiedzeniach Komisji bierze udział przedstawiciel ministra właściwego do spraw szkolnictwa wyższego i nauki.
+dawała największe prawdopodobieństwo osiągnięcia planowanego wyniku procedury.
 
-6. Minister właściwy do spraw szkolnictwa wyższego i nauki wyznacza przewodniczącego Komisji spośród jej członków oraz udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o powołanych członkach Komisji, podając ich imiona i nazwiska.
+### Art. 6.
 
-7. Komisja wybiera wiceprzewodniczącego Komisji spośród swoich członków.
+### 1[14) W brzmieniu ustalonym przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:14:).
 
-**Art. 35.**
+Procedury planuje się i wykonuje tak, aby w największym możliwym zakresie unikać w ich wyniku śmierci zwierząt i zastępować ją wczesnym i humanitarnym zakończeniem tych procedur polegającym na jak najwcześniejszym uśmiercaniu zwierząt w przypadkach występowania objawów bólu, cierpienia lub dystresu, których nie można złagodzić, a których trwanie nie jest uzasadnione z naukowego i etycznego punktu widzenia.
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki odwołuje członka Komisji w przypadku zaistnienia którejkolwiek z okoliczności, o których mowa w art. 34 ust. 2.
+### 2.
 
-2. O zaistnieniu okoliczności, o których mowa w art. 34 ust. 2, członek Komisji niezwłocznie informuje ministra właściwego do spraw szkolnictwa wyższego i nauki.
+W przypadku gdy uniknięcie śmierci zwierząt w wyniku procedury jest niemożliwe - procedurę planuje się i wykonuje tak, aby prowadziła do śmierci jak najmniejszej liczby wykorzystywanych zwierząt i skraca się do minimum okres oraz intensywność cierpienia tych zwierząt.
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki może odwołać członka Komisji w przypadku nieobecności na 4 kolejnych posiedzeniach Komisji.
+### 3.
 
-4. Kadencja członka Komisji wygasa w przypadku:
+(uchylony)[15) Przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:15:)
 
-- **1)** śmierci;
-- **2)** odwołania;
-- **3)** zrzeczenia się członkostwa w Komisji.
+### Art. 7.
 
-5. W przypadku konieczności uzupełnienia składu Komisji minister właściwy do spraw szkolnictwa wyższego i nauki powołuje nowego członka Komisji na okres do końca danej kadencji, z zachowaniem zasad, o których mowa w art. 34 ust. 1. Niepełnej kadencji nie wlicza się do okresu, o którym mowa w art. 34 ust. 4.
+Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na wykorzystanie w procedurze zwierząt:[16) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2.](#gloss-0:16:)
 
-**Art. 35a.**
+### 1)
 
-1. Obsługę Komisji zapewnia urząd obsługujący ministra właściwego do spraw szkolnictwa wyższego i nauki.
+z gatunków, o których mowa w art. 2 ust. 1 pkt 2 - w przypadku gdy celów procedury, określonych w art. 3, nie można osiągnąć z wykorzystaniem zwierząt laboratoryjnych;
 
-2. Minister właściwy do spraw szkolnictwa wyższego i nauki jest administratorem danych osobowych przetwarzanych przez Komisję w związku z realizacją ustawowych zadań.
+### 2)
 
-**Art. 36.**
+z rzędu naczelnych wymienionych w załączniku A do rozporządzenia Rady (WE) nr 338/97 z dnia 9 grudnia 1996 r. w sprawie ochrony gatunków dzikiej fauny i flory w drodze regulacji handlu nimi ([Dz. Urz. WE L 61 z 03.03.1997, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.; [Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 3, str. 136](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.), zwanego dalej „rozporządzeniem nr 338/97”, które nie są objęte zakresem stosowania art. 7 ust. 1 tego rozporządzenia - wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3:
 
-1. Do zadań lokalnej komisji należy:
+### a)
 
-- **1)** udzielanie zgody na:
-    - **a)** przeprowadzanie doświadczenia, w tym na: – ponowne wykorzystanie zwierzęcia w procedurze – w przypadku, o którym mowa w art. 12 ust. 2 pkt 2, – wykonanie procedury bez zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3, – podanie zwierzęciu produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu – w przypadku, o którym mowa w art. 14 ust. 1 pkt 2, – wykorzystanie w procedurze zwierząt, o których mowa w art. 7 oraz art. 8 ust. 1 pkt 2 i 3, – wykonanie procedury w miejscu innym niż ośrodek użytkownika – w przypadku, o którym mowa w art. 9 ust. 2 pkt 1, – wykonanie procedury w środowisku życia zwierzęcia dzikiego – w przypadku, o którym mowa w art. 9 ust. 2 pkt 2, – zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych – w przypadku, o którym mowa w art. 16a, – niepodejmowanie czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4,
-    - **b)** zmianę doświadczenia – w przypadku, o którym mowa w art. 51 ust. 1;
+pkt 1 lit. b tiret pierwsze lub pkt 3, służących przeciwdziałaniu, diagnozowaniu lub leczeniu niepełnosprawności fizycznej lub psychicznej, lub chorób zagrażających życiu ludzi,
 
-- **2)** cofanie udzielonej zgody na przeprowadzenie doświadczenia;
-- **3)** sprawdzanie doświadczenia według kryteriów określonych w art. 53 ust. 2, zwane dalej „oceną retrospektywną”, oraz przechowywanie wyników oceny retrospektywnej;
-- **4)** przekazywanie, na wniosek powiatowego lekarza weterynarii przeprowadzającego kontrolę użytkownika w zakresie doświadczeń, informacji niezbędnych do prawidłowego przeprowadzenia tej kontroli;
-- **5)** przedkładanie Komisji Europejskiej nietechnicznych streszczeń doświadczeń i ich aktualizacji.
+### b)
 
-2. Lokalna komisja, corocznie w terminie do dnia 31 marca, przekazuje:
+pkt 1 lit. c
 
-- **1)** Komisji informacje o realizacji zadań lokalnej komisji, o których mowa w ust. 1;
-- **2)** ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacje dotyczące przeprowadzonych ocen retrospektywnych i udostępnionych nietechnicznych streszczeń doświadczeń.
+- gdy celu procedury nie można osiągnąć z wykorzystaniem niewymienionego w tym załączniku gatunku zwierząt i gatunku nienależącego do zwierząt z rzędu naczelnych;
 
-2a. Lokalna komisja przedkłada Komisji Europejskiej nietechniczne streszczenia doświadczeń i ich aktualizacje zgodnie z art. 43 ust. 2–4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych oraz art. 53 ust. 4 pkt 2.
+### 3)
 
-3. Lokalna komisja działa na podstawie regulaminu zatwierdzanego przez Komisję.
+z rzędu naczelnych innych niż wymienione w pkt 2 - wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3:
 
-4. Do udostępniania nietechnicznych streszczeń doświadczeń i ich aktualizacji stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2022 r. poz. 2509) i ustawy z dnia 30 czerwca 2000 r. – Prawo własności przemysłowej (Dz. U. z 2021 r. poz. 324 oraz z 2022 r. poz. 2185).
+### a)
 
-**Art. 37.**
+pkt 1 lit. a lub c,
 
-1. Lokalna komisja składa się z 12 członków powoływanych i odwoływanych przez Komisję, w tym:
+### b)
 
-- **1)** 6 osób posiadających co najmniej stopień naukowy doktora w zakresie nauk wymienionych w art. 34 ust. 1 pkt 1 lub tytuł zawodowy lekarza weterynarii oraz wiedzę lub doświadczenie w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **2)** 3 osób posiadających co najmniej tytuł zawodowy magistra i dorobek naukowy lub zawodowy z zakresu filozofii, etyki lub prawa, w szczególności związany z etycznymi lub prawnymi aspektami wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **3)** 3 przedstawicieli organizacji społecznych, których statutowym celem działania jest ochrona zwierząt.
+pkt 1 lit. b tiret pierwsze lub pkt 3, służących przeciwdziałaniu, diagnozowaniu lub leczeniu niepełnosprawności fizycznej lub psychicznej, lub chorób zagrażających życiu ludzi
 
-2. Do członków lokalnej komisji stosuje się odpowiednio przepisy art. 34 ust. 2–4 i 7 oraz art. 35.
+- gdy celu procedury nie można osiągnąć z wykorzystaniem innego gatunku zwierząt niż gatunek z rzędu naczelnych;
 
-3. Kadencja członka lokalnej komisji wygasa również w przypadku powołania go do Komisji, z dniem rozpoczęcia jego kadencji.
+### 4)
 
-4. Komisja wyznacza przewodniczących lokalnych komisji spośród ich członków oraz udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki informację o powołanych członkach lokalnych komisji, podając ich imiona i nazwiska.
+z gatunków zagrożonych, z wyłączeniem zwierząt z rzędu naczelnych, wymienionych w załączniku A do rozporządzenia nr 338/97, które nie są objęte zakresem stosowania art. 7 ust. 1 tego rozporządzenia - wyłącznie w przypadku procedur mających na celu przeprowadzenie badań, o których mowa w art. 3 pkt 1 lit. b tiret pierwsze i lit. c oraz pkt 3 - gdy celu procedury nie można osiągnąć z wykorzystaniem niewymienionego w tym załączniku gatunku zwierząt.
 
-**Art. 38.**
+### Art. 8.
 
-1. Członkowie Komisji i lokalnych komisji w wykonywaniu swoich obowiązków są niezależni od organów administracji publicznej, hodowców, dostawców i użytkowników oraz organizacji, których statutowym celem jest ochrona zwierząt.
+### 1.
 
-2. Poza przypadkami określonymi w Kodeksie postępowania administracyjnego członek Komisji lub lokalnej komisji podlega wyłączeniu od udziału w postępowaniu w sprawach, o których mowa w art. 36 ust. 1 pkt 1–3, jeżeli jest osobą, która:
+Nie wykonuje się procedur z wykorzystaniem:
 
-- **1)** zaplanowała i jest lub była odpowiedzialna za przeprowadzenie doświadczenia objętego postępowaniem w tych sprawach;
-- **2)** wykonuje lub wykonywała doświadczenie objęte postępowaniem w tych sprawach albo uczestniczy lub uczestniczyła w przeprowadzaniu takiego doświadczenia.
+### 1)
 
-3. Do wyłączenia członka Komisji lub lokalnej komisji, o którym mowa w ust. 2, przepis art. 24 § 3 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+małp człekokształtnych;
 
-4. Członkowie Komisji i lokalnych komisji są obowiązani do nieujawniania informacji, które uzyskali w związku z wykonywaniem zadań określonych w art. 33 ust. 1 i art. 36 ust. 1 pkt 1 i 3. Obowiązek ten trwa także po ustaniu członkostwa w Komisji lub lokalnej komisji.
+### 2)
 
-**Art. 38a.** Wnioski składane do lokalnych komisji w sprawach, o których mowa w art. 36 ust. 1 pkt 1, oraz protokoły z posiedzeń Komisji i lokalnych komisji nie stanowią informacji publicznej.
+zwierząt dzikich;
 
-**Art. 39.**
+### 3)
 
-1. Działalność Komisji i lokalnych komisji jest finansowana z części budżetu państwa będącej w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki.
+zwierząt bezdomnych w rozumieniu art. 4 pkt 16 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt, z wyłączeniem zwierząt gospodarskich.
 
-2. Członkom Komisji i lokalnych komisji przysługuje:
+### 2[17) W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:17:).
 
-- **1)** wynagrodzenie za udział w posiedzeniu tych komisji;
-- **2)** zwrot kosztów podróży związanych z realizacją zadań tych komisji na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140).
+Lokalna komisja etyczna do spraw doświadczeń na zwierzętach, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, może:
 
-3. Finansowanie, o którym mowa w ust. 1, obejmuje koszty związane z realizacją zadań Komisji i lokalnych komisji, w tym koszty wynagrodzeń i podróży, o których mowa w ust. 2, oraz koszty obsługi Komisji i lokalnych komisji.
+### 1)
 
-**Art. 40.** W zakresie nieuregulowanym niniejszą ustawą do postępowań administracyjnych prowadzonych przez Komisję i przez lokalne komisje w sprawach, o których mowa w art. 36 ust. 1 pkt 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego.
+udzielić zgody na wykorzystanie w procedurze zwierząt, o których mowa w ust. 1 pkt 2, jeżeli celów określonych w art. 3 nie można osiągnąć z wykorzystaniem zwierząt laboratoryjnych;
 
-**Art. 40a.** Uchwały podjęte przez:
+### 2)
 
-**Art. 41.** Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+udzielić, w wyjątkowych przypadkach, zgody na wykorzystanie w procedurze zwierząt, o których mowa w ust. 1 pkt 3, jeżeli celem procedury jest zbadanie zdrowia i dobrostanu tych zwierząt lub zapobieżenie poważnemu zagrożeniu powodowanemu przez te zwierzęta dla zdrowia ludzi lub zwierząt lub dla środowiska i cel ten można osiągnąć wyłącznie z wykorzystaniem tych zwierząt.
 
-#### Rozdział 6 Zasady przeprowadzania doświadczeń
+### 3[18) Dodany przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:18:).
 
-**Art. 42.** Doświadczenia przeprowadza się po uzyskaniu zgody lokalnej komisji wydawanej na wniosek użytkownika.
+Pozyskiwania zwierząt, o których mowa w ust. 1 pkt 2, dokonują osoby posiadające doświadczenie w zakresie pozyskiwania zwierząt dzikich z gatunków zaplanowanych do wykorzystania w procedurze za pomocą metod niepowodujących u zwierząt możliwych do uniknięcia: bólu, cierpienia, dystresu lub trwałego uszkodzenia ich organizmu.
 
-**Art. 43.**
+### 4[18) Dodany przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:18:).
 
-1. Użytkownik składa wniosek o udzielenie zgody na przeprowadzenie doświadczenia do lokalnej komisji właściwej ze względu na lokalizację ośrodka, w którym ma być przeprowadzone doświadczenie.
+Zwierzęta, o których mowa w ust. 1 pkt 2, u których w trakcie pozyskiwania lub po jego zakończeniu stwierdzono zranienie lub zły stan zdrowia, są poddawane badaniu przez lekarza weterynarii lub przez inną osobę posiadającą kwalifikacje w zakresie znajomości anatomii, fizjologii i zachowań właściwych dla gatunków tych zwierząt, a następnie czynnościom minimalizującym u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu. Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na niepodejmowanie tych czynności.
 
-2. W przypadku doświadczenia przeprowadzanego w więcej niż jednym ośrodku lub poza ośrodkiem użytkownik składa wniosek do lokalnej komisji właściwej ze względu na lokalizację siedziby lub miejsca zamieszkania użytkownika, zatrudniającego osobę, która zaplanowała doświadczenie i jest odpowiedzialna za jego przeprowadzenie.
+### Art. 9.
 
-3. Wzór wniosku, opracowany przez Komisję, jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+### 1.
 
-**Art. 44.**
+Procedury wykonuje się wyłącznie:
 
-1. Wniosek o udzielenie zgody na przeprowadzenie doświadczenia zawiera:
+### 1)
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, z tym że w przypadku gdy użytkownikiem jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **2)** wskazanie ośrodka, w którym doświadczenie będzie przeprowadzane, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem – miejsca jego przeprowadzania, wraz z uzasadnieniem dla przeprowadzenia doświadczenia poza ośrodkiem;
-- **3)** opis doświadczenia ze wskazaniem celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku jego przeprowadzenia;
-- **4)** uzasadnienie wykorzystania zwierząt do przeprowadzenia doświadczenia, ze wskazaniem miejsca ich pochodzenia, liczby, gatunków, wieku lub stadiów rozwoju;
-- **5)** opis warunków, w jakich będą utrzymywane zwierzęta wykorzystywane w doświadczeniu;
-- **6)** opis planowanych procedur objętych doświadczeniem, uzasadnienie dla ich wykonania oraz proponowaną kategorię dotkliwości;
-- **7)** imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia, oraz jej kwalifikacje;
-- **8)** imiona i nazwiska osób przeprowadzających doświadczenie i uczestniczących w doświadczeniu oraz ich kwalifikacje;
-- **9)** opis sposobu uwzględnienia w doświadczeniu zasad zastąpienia, ograniczenia i udoskonalenia;
-- **10)** wskazanie planowanych do zastosowania u zwierząt wykorzystywanych w doświadczeniu:
-    - **a)** rodzajów znieczulenia,
-    - **b)** produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu;
+w ramach doświadczenia;
 
-- **11)** uzasadnienie naukowe dla odstąpienia od zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu – w przypadku, o którym mowa w art. 13 ust. 3;
-- **12)** uzasadnienie dla podania zwierzęciu podczas wykorzystywania w procedurze produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu – w przypadku, o którym mowa w art. 14 ust. 1;
-- **13)** wskazanie, czy będzie zastosowane wczesne i humanitarne zakończenie procedury – w przypadku, o którym mowa w art. 6 ust. 1;
-- **14)** wskazanie planowanych metod uśmiercenia zwierząt;
-- **14a)** uzasadnienie naukowe wyboru metody uśmiercenia – w przypadku, o którym mowa w art. 16a;
-- **15)** uzasadnienie planowanego ponownego wykorzystania zwierzęcia w procedurze – w przypadku określonym w art. 12 ust. 2 pkt 2;
-- **16)** uzasadnienie konieczności ponownego wykonania procedury objętej doświadczeniem – w przypadku, o którym mowa w art. 5 ust. 3;
-- **17)** uzasadnienie wykorzystania zwierząt, o których mowa w art. 7 oraz art. 8 ust. 1 pkt 2 i 3;
-- **18)** planowaną datę rozpoczęcia i zakończenia doświadczenia.
+### 2)
 
-2. W przypadku gdy:
+w ośrodku użytkownika, który został wpisany do rejestru prowadzonego przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
 
-- **1)** w planowanym doświadczeniu mają być wykorzystane zwierzęta dzikie:
-    - **a)** we wniosku podaje się imię i nazwisko oraz opis doświadczenia osoby, która pozyska te zwierzęta, oraz metody ich pozyskania,
-    - **b)** objęte ochroną gatunkową – do wniosku dołącza się oświadczenie o uzyskaniu zezwolenia, o którym mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
-    - **c)** do wniosku dołącza się uzasadnienie naukowe dla niepodejmowania czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu – w przypadku, o którym mowa w art. 8 ust. 4;
+### 2[19) W brzmieniu ustalonym przez art. 1 pkt 7 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:19:).
 
-- **2)** planowane doświadczenie ma być przeprowadzone z wykorzystaniem zwierzęcia w sposób określony w art. 12, do wniosku dołącza się zgodę lekarza weterynarii na ponowne wykorzystanie tego zwierzęcia.
+Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na wykonanie procedury w:
 
-**Art. 45.**
+### 1)
 
-1. Do wniosku o udzielenie zgody na przeprowadzenie doświadczenia dołącza się nietechniczne streszczenie doświadczenia, które zawiera:
+miejscu innym niż określone w ust. 1 pkt 2, jeżeli celu procedury nie da się osiągnąć, gdy wykonuje się ją w ośrodku użytkownika;
 
-- **1)** określenie:
-    - **a)** naukowych lub edukacyjnych celów doświadczenia, w tym przewidywanych szkód, jakie może ono spowodować u wykorzystywanych zwierząt, i korzyści, jakie przyniesie ono dla rozwoju nauki i dydaktyki, w zakresie określonym w art. 3,
-    - **b)** liczby i gatunków zwierząt, które mają być wykorzystane w tym doświadczeniu;
+### 2)
 
-- **2)** opis sposobu uwzględnienia w doświadczeniu zasad zastąpienia, ograniczenia i udoskonalenia.
+środowisku życia zwierzęcia dzikiego, jeżeli cel procedury może zostać osiągnięty przez jej wykonanie w tym środowisku i zmniejsza to stres zwierzęcia związany z jej wykonaniem.
 
-1a. Nietechniczne streszczenie doświadczenia i jego aktualizację sporządza się:
+### 3.
 
-- **1)** w sposób zrozumiały dla osoby nieposiadającej wiedzy i doświadczenia w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **2)** zgodnie ze wzorem określonym przez Komisję Europejską w przepisach wydanych na podstawie art. 43 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
+(uchylony)[20) Przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:20:)
 
-2. Wzór nietechnicznego streszczenia doświadczenia i jego aktualizacji, o którym mowa w ust. 1a pkt 2, jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+### Art. 10.
 
-**Art. 46.**
+### 1.
 
-1. W przypadku gdy doświadczenie obejmuje procedury, które spełniają łącznie następujące warunki:
+Procedury, ze względu na ich dotkliwość przejawiającą się w intensywności bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu, na które może być narażone zwierzę podczas ich wykonywania, kwalifikuje się do następujących kategorii:
 
-- **1)** zostały zakwalifikowane do kategorii terminalne, bez odzyskania przytomności, łagodne lub umiarkowane;
-- **2)** nie wykorzystuje się w nich zwierząt z rzędu naczelnych;
-- **3)** obowiązek ich przeprowadzenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, lub wykorzystuje się w nich zwierzęta do celów produkcyjnych lub diagnostycznych za pomocą ustalonych metod – użytkownik może złożyć uproszczony wniosek o udzielenie zgody na przeprowadzenie doświadczenia.
+### 1)
 
-2. Wniosek, o którym mowa w ust. 1, zawiera:
+terminalna, bez odzyskania przytomności;
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **2)** wskazanie ośrodka, w którym będzie przeprowadzane doświadczenie, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem – miejsce jego przeprowadzenia wraz z uzasadnieniem dla przeprowadzenia doświadczenia poza ośrodkiem;
-- **3)** opis doświadczenia ze wskazaniem celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku jego przeprowadzenia;
-- **4)** imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia, oraz jej kwalifikacje;
-- **5)** wskazanie przepisów, z których wynika obowiązek przeprowadzenia doświadczenia, lub celów produkcyjnych lub diagnostycznych uzasadniających jego przeprowadzenie;
-- **6)** informację o pochodzeniu, liczbie, gatunkach, wieku i stadiach rozwoju zwierząt planowanych do wykorzystania w doświadczeniu;
-- **7)** opis planowanych procedur objętych doświadczeniem oraz proponowaną kategorię ich dotkliwości;
-- **8)** planowaną datę rozpoczęcia i zakończenia doświadczenia;
-- **9)** informacje, o których mowa w art. 44 ust. 1 pkt 5 i 8–17.
+### 2)
 
-**Art. 46a.**
+łagodna;
 
-1. Lokalna komisja niezwłocznie potwierdza użytkownikowi złożenie wniosku o udzielenie zgody na przeprowadzenie doświadczenia.
+### 3)
 
-2. Potwierdzenie złożenia wniosku o udzielenie zgody na przeprowadzenie doświadczenia zawiera wskazanie:
+umiarkowana;
 
-- **1)** daty wpływu wniosku;
-- **2)** numeru wniosku;
-- **3)** terminu rozpatrzenia wniosku, z zastrzeżeniem że termin ten może ulec przedłużeniu w przypadku stwierdzenia, że złożony wniosek zawiera braki formalne.
+### 4)
 
-**Art. 47.**
+dotkliwa.
 
-1. Przed udzieleniem zgody na przeprowadzenie doświadczenia lokalna komisja ocenia, czy:
+### 2[21) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 2.](#gloss-0:21:).
 
-- **1)** cel naukowy lub edukacyjny uzasadnia przeprowadzenie tego doświadczenia lub obowiązek jego przeprowadzenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności;
-- **2)** doświadczenie będzie przeprowadzone zgodnie z zasadami zastąpienia, ograniczenia i udoskonalenia, w szczególności czy planowane wyniki przeprowadzenia tego doświadczenia uzasadniają wykorzystanie w nim zwierząt;
-- **3)** procedury objęte doświadczeniem zostały prawidłowo zakwalifikowane do kategorii wymienionych w art. 10 ust. 1;
-- **4)** informacje, o których mowa w art. 44 ust. 1 pkt 2, 11, 12 i 15–17, stanowią podstawę do udzielenia zgody na przeprowadzenie doświadczenia w miejscu lub w sposób określony we wniosku;
-- **5)** stosunek szkodliwości doświadczenia do ostatecznych korzyści z niego płynących dla ludzi, zwierząt lub środowiska jest uzasadniony, uwzględniając, czy cierpienie, ból i dystres u zwierząt są uzasadnione oczekiwanym wynikiem doświadczenia oraz biorąc pod uwagę względy etyczne;
-- **6)** doświadczenie powinno być poddane ocenie retrospektywnej i w jakim terminie;
-- **7)** doświadczenie jest zaplanowane tak, aby umożliwić wykonywanie procedur w sposób możliwie najbardziej humanitarny i przyjazny dla środowiska;
-- **8)** informacje zawarte w nietechnicznym streszczeniu doświadczenia są zgodne z informacjami zawartymi we wniosku o wyrażenie zgody na przeprowadzenie doświadczenia oraz czy nietechniczne streszczenie doświadczenia zostało sporządzone zgodnie z art. 45 ust. 1a.
+Procedury kwalifikuje się do kategorii wymienionych w ust. 1 zgodnie z załącznikiem nr VIII do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
 
-2. Lokalna komisja, przeprowadzając ocenę doświadczenia, kieruje się wiedzą specjalistyczną, w szczególności dotyczącą:
+### Art. 11.
 
-- **1)** dziedzin nauki, w ramach których jest planowane przeprowadzenie doświadczenia, w tym stosowania zasad zastąpienia, ograniczenia i udoskonalenia w tych dziedzinach;
-- **2)** planowania doświadczeń, z uwzględnieniem analizy statystycznej – w przypadku gdy jest to uzasadnione;
-- **3)** praktyki lekarsko-weterynaryjnej w zakresie zwierząt wykorzystywanych w doświadczeniu;
-- **4)** hodowli zwierząt wykorzystywanych w doświadczeniu i opieki nad nimi.
+### 1.
 
-3. (uchylony)
+Procedurę:
 
-**Art. 48.**
+### 1)
 
-1. Lokalna komisja, po dokonaniu oceny doświadczenia zgodnie z art. 47 ust. 1 i 2, podejmuje uchwałę o:
+rozpoczyna się od przygotowania zwierzęcia do obserwacji;
 
-- **1)** udzieleniu zgody na przeprowadzenie doświadczenia;
-- **2)** odmowie udzielenia zgody na przeprowadzenie doświadczenia.
+### 2)
 
-2. Lokalna komisja przekazuje wnioskodawcy uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia albo uchwałę o odmowie udzielenia zgody na przeprowadzenie doświadczenia w terminie 40 dni roboczych od dnia otrzymania wniosku spełniającego wymagania określone w art. 44 ust. 1 albo art. 46 ust. 2.
+kończy się, gdy zaprzestaje się obserwacji zwierzęcia, a w przypadku genetycznie zmodyfikowanej linii zwierząt - gdy nie przewiduje się, że u potomstwa tych zwierząt wystąpi trwałe uszkodzenie organizmu lub że będzie ono odczuwać ból, cierpienie lub dystres.
 
-3. Jeżeli jest to uzasadnione złożonością lub wielodyscyplinarnym charakterem doświadczenia, lokalna komisja może raz przedłużyć termin, o którym mowa w ust. 2, nie więcej jednak niż o 15 dni roboczych, zawiadamiając o tym wnioskodawcę przed upływem tego terminu i wskazując przyczyny uzasadniające to przedłużenie.
+### 2.
 
-4. Przepisu ust. 3 nie stosuje się do rozpatrywania wniosku, o którym mowa w art. 46 ust. 1.
+Po zakończeniu procedury lekarz weterynarii podejmuje decyzję o:
 
-5. Lokalna komisja podejmuje uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby członków.
+### 1)
 
-6. Jeżeli uchwała o udzieleniu zgody na przeprowadzenie doświadczenia nie uzyskała wymaganej większości głosów, lokalna komisja odmawia udzielenia zgody na przeprowadzenie doświadczenia.
+pozostawieniu wykorzystanego zwierzęcia przy życiu albo
 
-**Art. 49.**
+### 2)
 
-1. Uchwała o udzieleniu zgody na przeprowadzenie doświadczenia zawiera:
+uśmierceniu wykorzystanego zwierzęcia - w przypadku gdy istnieje uzasadnione przypuszczenie, że po zakończeniu doświadczenia u tego zwierzęcia wystąpi trwałe uszkodzenie organizmu lub będzie ono odczuwać nadal dotkliwy lub umiarkowany ból, cierpienie i dystres.
 
-- **1)** imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, który przeprowadzi to doświadczenie, z tym że w przypadku gdy użytkownikiem jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby – adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
-- **2)** imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia;
-- **3)** określenie warunków przeprowadzenia doświadczenia – zgodnie z opisem tego doświadczenia zawartym we wniosku o udzielenie zgody na jego przeprowadzenie;
-- **4)** wskazanie ośrodka, w którym będzie przeprowadzane doświadczenie, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem – miejsca jego przeprowadzenia;
-- **5)** określenie terminu, w jakim doświadczenie zostanie poddane ocenie retrospektywnej – w przypadku gdy doświadczenie będzie poddane takiej ocenie.
+### 3.
 
-2. W przypadku gdy w doświadczeniu mają być wykorzystane zwierzęta dzikie, w uchwale o udzieleniu zgody na przeprowadzenie doświadczenia podaje się imię i nazwisko osoby, która pozyska te zwierzęta, oraz sposób ich pozyskania.
+W przypadku wykorzystywania w procedurze zwierząt innych niż laboratoryjne lub gospodarskie, decyzję, o której mowa w ust. 2, może podjąć osoba posiadająca kwalifikacje w zakresie znajomości anatomii, fizjologii i zachowań tych gatunków zwierząt.
 
-3. Zgoda na przeprowadzenie doświadczenia jest udzielana na czas określony, nie dłuższy niż 5 lat.
+### Art. 12.
 
-**Art. 50.** W przypadku gdy obowiązek przeprowadzenia doświadczenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, lub gdy w doświadczeniu zwierzęta są wykorzystywane do celów produkcyjnych lub diagnostycznych za pomocą ustalonych metod, uchwała o udzieleniu zgody na przeprowadzenie doświadczenia może obejmować więcej niż jedno takie doświadczenie przeprowadzane przez tego samego użytkownika.
+### 1.
 
-**Art. 51.**
+Ponowne wykorzystanie zwierzęcia w procedurze, w celu uniknięcia wykorzystania innego zwierzęcia dotychczas niepoddanego procedurze, jest dopuszczalne pod warunkiem, że lekarz weterynarii po zbadaniu tego zwierzęcia, uwzględnieniu jego doświadczeń życiowych i stwierdzeniu, że u zwierzęcia doszło do pełnego powrotu ogólnego stanu zdrowia i dobrostanu, wyraził na to zgodę.
 
-1. Wprowadzenie w doświadczeniu zmiany, która może mieć negatywny wpływ na dobrostan wykorzystywanych zwierząt, wymaga uzyskania zgody lokalnej komisji, udzielanej na wniosek użytkownika zamierzającego ją wprowadzić, złożony do lokalnej komisji, która udzieliła zgody na przeprowadzenie tego doświadczenia.
+### 2.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera uzasadnienie dla dokonania zmiany określonej w ust. 1. Do wniosku dołącza się nietechniczne streszczenie doświadczenia uwzględniające zmiany planowane w doświadczeniu.
+Zwierzę, które było wykorzystane:
 
-3. Lokalna komisja dokonuje ponownej oceny doświadczenia zgodnie z art. 47 ust. 1 i 2, z uwzględnieniem wpływu zmiany, o której mowa w ust. 1, na dobrostan zwierząt. Do przechowywania wyników ponownej oceny doświadczenia stosuje się przepis art. 52a.
+### 1)
 
-4. W przypadku gdy lokalna komisja odmówi udzielenia zgody na wprowadzenie w doświadczeniu zmiany określonej w ust. 1, doświadczenie może być przeprowadzone zgodnie z wcześniej udzieloną zgodą.
+w procedurze łagodnej lub umiarkowanej - może być ponownie wykorzystane w procedurze zakwalifikowanej do kategorii terminalna, bez odzyskania przytomności, łagodna albo umiarkowana;
 
-**Art. 51a.**
+### 2)
 
-1. Członek lokalnej komisji, który przy podejmowaniu uchwały w sprawie zgody na przeprowadzenie albo zmianę doświadczenia zgłaszał zastrzeżenia i nie zgodził się z większością, może zgłosić zawierające te zastrzeżenia pisemne zdanie odrębne i, w terminie 3 dni roboczych od dnia podjęcia uchwały, dołączyć jego pisemne uzasadnienie. Zdanie odrębne może być zgłoszone wspólnie przez członków lokalnej komisji.
+raz w procedurze dotkliwej - może być w wyjątkowych przypadkach, po uzyskaniu zgody lokalnej komisji etycznej do spraw doświadczeń na zwierzętach, ponownie wykorzystane w procedurze zakwalifikowanej do kategorii terminalna, bez odzyskania przytomności, łagodna albo umiarkowana, na podstawie przedstawionego przez użytkownika uzasadnienia dla ponownego wykorzystania tego zwierzęcia.
 
-2. Uzasadnienie zdania odrębnego obejmuje wskazanie przyczyn jego zgłoszenia i przepisów, które w ocenie zgłaszającego zdanie odrębne zostały naruszone przez podjęcie uchwały w sprawie zgody na przeprowadzenie albo zmianę doświadczenia.
+### Art. 13.
 
-**Art. 51b.**
+### 1.
 
-1. Lokalna komisja, na wniosek powiatowego lekarza weterynarii, o którym mowa w art. 60, podejmuje uchwałę o cofnięciu udzielonej zgody na przeprowadzenie doświadczenia.
+Procedury, które powodują poważne uszkodzenia organizmu wykorzystywanych zwierząt i dotkliwy ból, przeprowadza się w znieczuleniu ogólnym lub miejscowym oraz po zastosowaniu produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym.
 
-2. W przypadku cofnięcia udzielonej zgody na przeprowadzenie doświadczenia do zwierząt wykorzystywanych lub przeznaczonych do wykorzystania w tym doświadczeniu stosuje się przepisy art. 3b, art. 11 ust. 2 i 3, art. 12 i art. 15.
+### 2.
 
-3. Zwierzęta, o których mowa w ust. 2, mogą być przeznaczone do wykorzystania w innych doświadczeniach.
+Procedury inne niż określone w ust. 1 przeprowadza się w znieczuleniu ogólnym lub miejscowym oraz po zastosowaniu:
 
-**Art. 52.**
+### 1)
 
-1. Użytkownik prowadzi dokumentację dotyczącą doświadczenia, w tym:
+produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym, lub
 
-- **1)** wniosek o udzielenie zgody na jego przeprowadzenie, wniosek, o którym mowa w art. 51 ust. 1, uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia, uchwałę o udzieleniu zgody na zmianę doświadczenia oraz uchwałę o odmowie udzielenia zgody na zmianę doświadczenia – i przechowuje tę dokumentację przez 3 lata od dnia wygaśnięcia zgody na przeprowadzenie doświadczenia, a w przypadku dokumentacji dotyczącej przeprowadzenia doświadczenia, które podlega ocenie retrospektywnej – do czasu zakończenia tej oceny, nie krócej jednak niż przez 3 lata od dnia wygaśnięcia zgody na jego przeprowadzenie;
-- **2)** uchwałę o cofnięciu zgody na przeprowadzenie doświadczenia i uchwałę o odmowie udzielenia zgody na przeprowadzenie doświadczenia – i przechowuje je przez 3 lata od dnia ich wydania.
+### 2)
 
-2. Po zakończeniu doświadczenia, które podlega ocenie retrospektywnej, użytkownik niezwłocznie przekazuje lokalnej komisji dokumentację, o której mowa w ust. 1.
+innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia i dystresu wykorzystywanych zwierząt.
 
-**Art. 52a.** Lokalna komisja przechowuje dokumentację rozpatrywanych spraw, w tym wyniki oceny, o której mowa w art. 47, uchwały o udzieleniu zgody na przeprowadzenie doświadczenia, uchwały o udzieleniu zgody na zmianę doświadczenia, uchwały o odmowie udzielenia zgody na zmianę doświadczenia i uchwały o cofnięciu zgody na przeprowadzenie doświadczenia, przez 3 lata od dnia wygaśnięcia zgody na przeprowadzenie doświadczenia, a w przypadku niewydania zgody na przeprowadzenie doświadczenia – od dnia zakończenia postępowania w sprawie jej udzielenia.
+### 3.
 
-**Art. 53.**
+W przypadku, o którym mowa w ust. 2, procedura może być wykonywana bez zastosowania znieczuleń, produktów lub metod, o których mowa w tym przepisie, jedynie wtedy, gdy ich zastosowanie:[22) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 9 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:22:)
 
-1. Lokalna komisja, na podstawie dokumentacji przekazanej przez użytkownika, przeprowadza ocenę retrospektywną w przypadku doświadczeń:
+### 1)
 
-- **1)** w których są wykorzystywane zwierzęta z rzędu naczelnych;
-- **2)** obejmujących procedurę zakwalifikowaną do kategorii dotkliwa.
+powodowałoby u zwierzęcia większy ból, cierpienie lub dystres niż sama procedura lub
 
-2. W ramach oceny retrospektywnej lokalna komisja ocenia:
+### 2)
 
-- **1)** czy zostały zrealizowane cele naukowe lub edukacyjne doświadczenia;
-- **2)** szkody wyrządzone wykorzystanym zwierzętom, uwzględniając liczby i gatunki tych zwierząt oraz dotkliwość procedur;
-- **3)** czy wnioski wynikające z przeprowadzonego doświadczenia mogą przyczynić się do dalszego wdrażania zasad zastąpienia, ograniczenia i udoskonalenia.
+jest nie do pogodzenia z celem procedury
 
-2a. Lokalna komisja może wystąpić do użytkownika o przedstawienie wyjaśnień dotyczących przekazanej dokumentacji, o której mowa w art. 52 ust. 1, w zakresie niezbędnym do przeprowadzenia oceny retrospektywnej.
+- po uzyskaniu zgody lokalnej komisji etycznej do spraw doświadczeń na zwierzętach, na podstawie przedstawionego przez użytkownika uzasadnienia naukowego dla odstąpienia od zastosowania takiego znieczulenia, takiego produktu lub takiej metody.[23) Część wspólna w brzmieniu ustalonym przez art. 1 pkt 9 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:23:)
 
-3. Lokalna komisja może przeprowadzić ocenę retrospektywną także w przypadkach innych niż określone w ust. 1, gdy wynika to z oceny wniosku o udzielenie zgody na przeprowadzenie doświadczenia, w tym planowanych procedur objętych doświadczeniem, proponowanej kategorii ich dotkliwości, celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku przeprowadzenia doświadczenia, a także liczby, gatunków, wieku i stadiów rozwoju zwierząt, które planuje się wykorzystać w doświadczeniu.
+### 4.
 
-4. Lokalna komisja:
+Jeżeli po ustaniu działania znieczulenia ogólnego lub miejscowego albo po zakończeniu procedury wykonanej w sposób określony w ust. 3 zwierzę może odczuwać ból, stosuje się produkty lecznicze lub produkty lecznicze weterynaryjne o działaniu przeciwbólowym lub inne metody, w szczególności środki uspokajające, zapewniające zmniejszenie bólu do minimum.
 
-- **1)** niezwłocznie po przeprowadzeniu oceny retrospektywnej:
-    - **a)** przekazuje użytkownikowi wyniki tej oceny,
-    - **b)** zwraca użytkownikowi dokumentację, o której mowa w ust. 1;
+### Art. 14.
 
-- **2)** przedkłada Komisji Europejskiej aktualizację nietechnicznego streszczenia ocenionego doświadczenia nie później niż w terminie 6 miesięcy od dnia przeprowadzenia oceny retrospektywnej.
+### 1.
 
-5. Lokalna komisja przechowuje wyniki oceny retrospektywnej przez 3 lata od dnia zakończenia tej oceny.
+Podanie zwierzęciu podczas wykorzystywania w procedurze produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu, jest dopuszczalne tylko wtedy, gdy:
 
-#### Rozdział 7 Kontrola
+### 1)
 
-**Art. 54.**
+jednocześnie zastosuje się u tego zwierzęcia właściwy poziom znieczulenia ogólnego, znieczulenie miejscowe, produkty lecznicze lub produkty lecznicze weterynaryjne o działaniu przeciwbólowym;
 
-1. Powiatowy lekarz weterynarii właściwy ze względu na lokalizację ośrodka przeprowadza kontrolę hodowców, dostawców i użytkowników w zakresie prowadzonej przez nich działalności objętej wpisem do rejestru.
+### 2)
 
-1a. W przypadku gdy hodowca, dostawca ani użytkownik nie posiadają ośrodka, ich kontrolę przeprowadza powiatowy lekarz weterynarii właściwy ze względu na siedzibę albo miejsce zamieszkania hodowcy, dostawcy lub użytkownika.
+uzyska się zgodę lokalnej komisji etycznej do spraw doświadczeń na zwierzętach - na podstawie przedstawionego przez użytkownika uzasadnienia naukowego, do którego zostały dołączone dane dotyczące schematu zastosowania znieczulenia ogólnego lub miejscowego lub produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym.
 
-2. W przypadku gdy doświadczenie jest przeprowadzane poza ośrodkiem, kontrolę użytkownika przeprowadza powiatowy lekarz weterynarii właściwy dla miejsca, w którym jest ono przeprowadzane.
+### 2.
 
-3. Przeprowadzenie kontroli, o której mowa w ust. 1–2, ma na celu sprawdzenie, czy działalność prowadzona przez hodowcę, dostawcę i użytkownika jest zgodna z zasadami określonymi w rozdziale 2 i wymaganiami określonymi w rozdziałach 3, 4 i 6.
+Zabrania się stosowania zabiegów uniemożliwiających zwierzętom poddawanym procedurom wydawanie głosu.
 
-4. Częstotliwość kontroli ustala się na podstawie analizy ryzyka, z tym że:
+### Art. 15.
 
-- **1)** hodowców, dostawców i użytkowników zwierząt z rzędu naczelnych poddaje się kontroli co najmniej raz w roku;
-- **2)** co roku:
-    - **a)** co najmniej jedną trzecią kontroli przeprowadza się bez uprzedzenia,
-    - **b)** poddaje się kontroli co najmniej jedną trzecią użytkowników.
+### 1.
 
-5. Analizę ryzyka, o której mowa w ust. 4, przeprowadza się z uwzględnieniem:
+Zwierzęciu pozostawionemu przy życiu po zakończeniu procedury zapewnia się:
 
-- **1)** liczby i gatunków zwierząt utrzymywanych w ośrodkach;
-- **2)** dotychczasowego przestrzegania przez hodowców, dostawców i użytkowników przepisów ustawy, w tym informacji o ich nieprzestrzeganiu;
-- **3)** liczby i rodzajów przeprowadzanych doświadczeń – w przypadku użytkowników.
+### 1)
 
-**Art. 55.**
+opiekę, a w przypadku gdy jest to konieczne - także opiekę lekarsko-weterynaryjną;
 
-1. Kontrolę użytkownika w zakresie doświadczeń powiatowy lekarz weterynarii może przeprowadzić z udziałem eksperta wybranego z listy ekspertów, o której mowa w ust. 6, posiadającego wykształcenie i wiedzę lub doświadczenie w zakresie ochrony zwierząt, psychologii zwierząt, dobrostanu zwierząt lub wykorzystywania zwierząt do celów naukowych lub edukacyjnych, które pozwolą na efektywne i prawidłowe przeprowadzenie kontroli. Do udziału eksperta w kontroli stosuje się przepisy art. 19 ust. 3 pkt 4 i 5 oraz ust. 4 i 5 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2022 r. poz. 2629 i 2727).
+### 2)
 
-2. Ekspertem, o którym mowa w ust. 1, może być osoba, która posiada co najmniej stopień naukowy doktora.
+warunki utrzymania odpowiednie do jego stanu zdrowia i gatunku.
 
-3. Ekspertem, o którym mowa w ust. 1, nie może być osoba:
+### 2.
 
-- **1)** skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **2)** ukarana prawomocnym orzeczeniem komisji dyscyplinarnej lub sądu orzekającego w przedmiocie odpowiedzialności zawodowej.
+Hodowca, dostawca lub użytkownik może przywrócić zwierzę wykorzystane lub przeznaczone do wykorzystania w procedurze do właściwego dla gatunku tego zwierzęcia siedliska przyrodniczego albo miejsca chowu lub hodowli albo znaleźć dla niego nowego opiekuna jedynie wtedy, gdy:[24) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 2.](#gloss-0:24:)
 
-4. Kandydat na eksperta, o którym mowa w ust. 1, składa ministrowi właściwemu do spraw szkolnictwa wyższego i nauki zgłoszenie zgodne ze wzorem określonym w przepisach wydanych na podstawie ust. 11 pkt 4 i dołącza do niego oświadczenie o braku okoliczności, o których mowa w ust. 3.
+### 1)
 
-5. Minister właściwy do spraw szkolnictwa wyższego i nauki wpisuje na listę ekspertów biorących udział w kontrolach osobę, która spełnia wymagania określone w ust. 1–3 oraz złoży zgłoszenie zgodnie z ust. 4.
+pozwala na to stan zdrowia tego zwierzęcia;
 
-6. Minister właściwy do spraw szkolnictwa wyższego i nauki prowadzi listę ekspertów biorących udział w kontrolach, zawierającą następujące dane eksperta:
+### 2)
 
-- **1)** imię i nazwisko;
-- **2)** określenie wykształcenia i wiedzy lub doświadczenia w zakresie ochrony zwierząt, psychologii zwierząt, dobrostanu zwierząt lub wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
-- **3)** adres poczty elektronicznej lub numer telefonu.
+nie istnieje zagrożenie zdrowia ludzi lub zwierząt lub środowiska naturalnego;
 
-7. Minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia listę, o której mowa w ust. 6, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, z wyłączeniem danych eksperta, o których mowa w ust. 6 pkt 3. Dane eksperta, o których mowa w ust. 6 pkt 3, minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia wyłącznie powiatowemu lekarzowi weterynarii, na jego wniosek, w celu przeprowadzenia kontroli użytkownika.
+### 3)
 
-8. Ekspert wpisany na listę, o której mowa w ust. 6, niezwłocznie informuje ministra właściwego do spraw szkolnictwa wyższego i nauki o zaistnieniu którejkolwiek z okoliczności, o których mowa w ust. 3, oraz o zmianie danych, o których mowa w ust. 6.
+zwierzę to będzie miało zapewnione warunki utrzymania odpowiednie do jego stanu zdrowia i gatunku.
 
-9. Minister właściwy do spraw szkolnictwa wyższego i nauki wykreśla eksperta z listy, o której mowa w ust. 6, na jego wniosek albo w przypadku uzyskania informacji o zaistnieniu którejkolwiek z okoliczności, o których mowa w ust. 3, lub o jego śmierci.
+### Art. 16.
 
-10. Ekspertowi za udział w kontroli przysługuje wynagrodzenie oraz zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie ust. 11 oraz art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy. Koszty związane z udziałem eksperta w kontroli są finansowane z budżetu państwa z części będącej w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki.
+(uchylony)[25) Przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 2.](#gloss-0:25:)
 
-11. Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+### Art. 16a[26) Dodany przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 2.](#gloss-0:26:).
 
-- **1)** sposób prowadzenia listy, o której mowa w ust. 6, mając na uwadze potrzebę zapewnienia jej aktualności;
-- **2)** wysokość wynagrodzenia ekspertów, o których mowa w ust. 1, mając na uwadze potrzebę uwzględnienia ich kwalifikacji i nakładu pracy;
-- **3)** sposób finansowania kosztów związanych z udziałem eksperta w kontroli, mając na uwadze potrzebę właściwego udokumentowania tych kosztów i przejrzystości ich finansowania;
-- **4)** wzór zgłoszenia kandydata na eksperta, o którym mowa w ust. 1, mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji zamieszczanych w zgłoszeniu.
+Lokalna komisja etyczna do spraw doświadczeń na zwierzętach może, na podstawie uzasadnienia naukowego przedstawionego przez użytkownika, udzielić zgody na zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody:
 
-**Art. 55a.** Minister właściwy do spraw szkolnictwa wyższego i nauki lub Komisja może wystąpić do powiatowego lekarza weterynarii z wnioskiem o przeprowadzenie kontroli, o której mowa w art. 54 ust. 1.
+### 1)
 
-**Art. 56.**
+określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych,
 
-1. Powiatowy lekarz weterynarii w zakresie wykonywanych zadań, o których mowa w art. 54, współpracuje z lokalną komisją, a w szczególności przed przeprowadzeniem kontroli, o której mowa w art. 55 ust. 1, może on wystąpić do lokalnej komisji z wnioskiem o przekazanie informacji niezbędnych do prawidłowego przeprowadzenia kontroli.
+### 2)
 
-2. Lokalna komisja może wystąpić do powiatowego lekarza weterynarii z wnioskiem o przeprowadzenie kontroli, o której mowa w art. 54 ust. 1.
+dopuszczone do stosowania zgodnie z art. 3b ust. 5
 
-**Art. 57.**
+- jeżeli cel procedury nie może zostać osiągnięty przez zastosowanie metod, o których mowa w pkt 1 i 2.
 
-1. Powiatowy lekarz weterynarii nakazuje, w drodze decyzji administracyjnej, wstrzymanie przeprowadzania doświadczenia w przypadku stwierdzenia w toku kontroli, że procedura, w której są wykorzystywane zwierzęta, nie jest objęta doświadczeniem, na którego przeprowadzenie została udzielona zgoda.
+### Rozdział 3 Wymagania dotyczące prowadzenia działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych
 
-2. W przypadku gdy użytkownik wykonuje procedury objęte doświadczeniem niezgodnie z warunkami określonymi w zgodzie na jego przeprowadzenie lub nie uzyskał zgody, o której mowa w art. 51 ust. 1, powiatowy lekarz weterynarii:
+### Art. 17.
 
-- **1)** wyznacza termin na usunięcie stwierdzonych nieprawidłowości;
-- **2)** nakazuje, w drodze decyzji administracyjnej, wstrzymanie wykonywania procedury albo przeprowadzania doświadczenia do czasu usunięcia stwierdzonych nieprawidłowości, jeżeli mogą one narażać zwierzęta na niepotrzebny ból, cierpienie lub dystres.
+### 1.
 
-3. Decyzje, o których mowa w ust. 1 i ust. 2 pkt 2, podlegają natychmiastowemu wykonaniu.
+Hodowca, dostawca i użytkownik jest obowiązany utrzymywać takie zwierzęta w ośrodku:[27) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2.](#gloss-0:27:)
 
-**Art. 58.** W przypadku gdy hodowca, dostawca lub użytkownik prowadzi działalność niezgodnie z wymaganiami określonymi w art. 17, art. 18, art. 20, art. 21, art. 21b, art. 23–25 lub w przepisach wydanych na podstawie art. 19, powiatowy lekarz weterynarii wyznacza termin na usunięcie stwierdzonych nieprawidłowości.
+### 1)
 
-**Art. 59.**
+w którym zostały zapewnione odpowiednie dla danego gatunku zwierząt warunki środowiskowe, w tym możliwość zaspokajania potrzeb fizjologicznych i etologicznych utrzymywanych zwierząt;
 
-1. W przypadku nieusunięcia przez hodowcę, dostawcę lub użytkownika w wyznaczonym terminie stwierdzonych nieprawidłowości, o których mowa w art. 58, powiatowy lekarz weterynarii wydaje decyzję administracyjną stwierdzającą niespełnianie wymagań do prowadzenia działalności, o której mowa w art. 26.
+### 2)
 
-2. Powiatowy lekarz weterynarii niezwłocznie przekazuje ostateczną decyzję, o której mowa w ust. 1, ministrowi właściwemu do spraw szkolnictwa wyższego i nauki wraz z wnioskiem o wykreślenie hodowcy, dostawcy lub użytkownika z rejestru.
+który został wyposażony w urządzenia i sprzęt dostosowane do potrzeb i cech gatunków zwierząt w nim utrzymywanych.
 
-**Art. 60.** W przypadku nieusunięcia przez użytkownika w wyznaczonym terminie stwierdzonych nieprawidłowości, o których mowa w art. 57 ust. 2 pkt 1, powiatowy lekarz weterynarii występuje do lokalnej komisji z wnioskiem o cofnięcie zgody, o której mowa w art. 48 ust. 1 pkt 1.
+### 2.
 
-**Art. 60a.**
+Podmiot, o którym mowa w ust. 1, jest obowiązany zapewnić zwierzętom utrzymywanym w ośrodku:
 
-1. Powiatowy lekarz weterynarii, w drodze decyzji administracyjnej, stwierdza rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem do rejestru, jeżeli w wyniku kontroli ustali:
+### 1)
 
-- **1)** trzy naruszenia wymagań określonych w art. 17, art. 18 lub w przepisach wydanych na podstawie art. 19 stwierdzone w czasie jednej kontroli albo w czasie co najmniej dwóch kontroli, mające znaczący negatywny wpływ na dobrostan zwierząt, lub
-- **2)** niespełnianie wymagania określonego w art. 23 przez co najmniej trzy miesiące w okresie objętym kontrolą, lub
-- **3)** przeprowadzenie doświadczenia bez uzyskania zgody na jego przeprowadzenie.
+opiekę gwarantującą dobrostan i utrzymanie prawidłowego stanu zdrowia, w tym:
 
-2. Powiatowy lekarz weterynarii niezwłocznie przekazuje ostateczną i prawomocną decyzję, o której mowa w ust. 1, ministrowi właściwemu do spraw szkolnictwa wyższego i nauki wraz z wnioskiem o wykreślenie hodowcy, dostawcy lub użytkownika z rejestru.
+### a)
 
-**Art. 60b.** Powiatowy lekarz weterynarii przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informację o zaprzestaniu wykonywania działalności przez hodowcę, dostawcę lub użytkownika w przypadku innym niż zawieszenie wykonywania tej działalności.
+codzienną kontrolę warunków środowiskowych,
 
-**Art. 61.** Powiatowy lekarz weterynarii przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki i Komisji informację o stwierdzonych naruszeniach będących podstawą do wymierzenia kary pieniężnej, o której mowa w art. 69 ust. 1 i 4, wraz z protokołem kontroli.
+### b)
 
-**Art. 62.** Główny Lekarz Weterynarii, na podstawie informacji przekazanych przez powiatowych lekarzy weterynarii, corocznie składa ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz Komisji sprawozdanie z przeprowadzonych kontroli, nie później niż do dnia 30 czerwca.
+niezwłoczne usuwanie nieprawidłowości stwierdzonych w zakresie warunków środowiskowych, dobrostanu i stanu zdrowia;
 
-**Art. 63.** W sprawach nieuregulowanych w ustawie do przeprowadzania kontroli stosuje się przepisy ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
+### 2)
 
-#### Rozdział 8 Współpraca z Komisją Europejską i państwami członkowskimi Unii Europejskiej
+transport w warunkach odpowiednich dla danego gatunku, zgodnie z wymaganiami określonymi w przepisach o ochronie zwierząt i o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.
 
-**Art. 64.** Minister właściwy do spraw szkolnictwa wyższego i nauki pełni rolę krajowego punktu kontaktowego i współpracuje z Komisją Europejską oraz organami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej w zakresie ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
+### Art. 18.
 
-**Art. 65.**
+Użytkownik może prowadzić działalność w ośrodku, który oprócz spełniania wymagań określonych w art. 17, jest:[28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 14 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:28:)
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki, na podstawie informacji przekazanych przez Komisję, lokalne komisje, hodowców, dostawców, użytkowników i Głównego Lekarza Weterynarii, przekazuje Komisji Europejskiej informacje, o których mowa w art. 54 ust. 1–3 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych, zgodnie z tymi przepisami i przepisami wydanymi na podstawie art. 54 ust. 4 tej dyrektywy.
+### 1)
 
-2. Minister właściwy do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 sierpnia, po zasięgnięciu opinii Komisji, zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informacje dotyczące:
+dostosowany do rodzaju i liczby wykonywanych procedur;
 
-- **1)** liczby, gatunków i pochodzenia zwierząt wykorzystywanych w procedurach;
-- **2)** celów i rodzajów doświadczeń, w których były wykorzystywane zwierzęta;
-- **3)** przypadków ponownego wykorzystania zwierząt w procedurach;
-- **4)** kategorii procedur i liczby zmian w zakresie ich kwalifikacji z podaniem przyczyny tych zmian.
+### 2)
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki corocznie określa oraz zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
+zaprojektowany i wyposażony tak, aby:
 
-- **1)** nie później niż przed rozpoczęciem okresu sprawozdawczego – szczegółowy zakres informacji, o których mowa w ust. 1,
-- **2)** nie później niż przed zakończeniem okresu sprawozdawczego – tryb przekazywania informacji, o których mowa w ust. 1, i wzory formularzy, na których te informacje będą przekazywane – mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji przekazywanych Komisji Europejskiej, a także przepisy wydane na podstawie art. 54 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
+### a[29) W brzmieniu ustalonym przez art. 1 pkt 14 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:29:))
 
-#### Rozdział 9 Przepisy karne
+zapewnić uzyskiwanie wiarygodnych wyników procedur z wykorzystaniem jak najmniejszej liczby zwierząt,
 
-**Art. 66.**
+### b)
 
-1. Kto w związku z prowadzoną działalnością w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych:
+przy wykonywaniu procedur ograniczyć do minimum ból, cierpienie, dystres lub możliwość trwałego uszkodzenia organizmu wykorzystywanych zwierząt.
 
-- **1)** naraża zwierzęta na niepotrzebny ból, cierpienie, dystres lub trwałe uszkodzenie organizmu,
-- **2)** wykorzystuje zwierzęta w procedurach objętych doświadczeniem bez uzyskania zgody na ich wykorzystanie podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+### Art. 19[30) W brzmieniu ustalonym przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 2.](#gloss-0:30:).
 
-2. Kto w przypadkach, o których mowa w ust. 1, powoduje śmierć zwierzęcia podlega karze pozbawienia wolności do lat 3.
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, minimalne wymagania:
 
-**Art. 67.**
+### 1)
 
-1. Kto uniemożliwia lub utrudnia przeprowadzenie kontroli na podstawie przepisów ustawy podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+jakie musi spełniać ośrodek,
 
-2. Tej samej karze podlega, kto wykorzystuje informacje uzyskane w związku z kontrolą do celów innych niż ochrona zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
+### 2)
 
-**Art. 68.** W sprawach o przestępstwa określone w art. 66 ust. 1 pkt 1, prawa pokrzywdzonego może wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
+w zakresie opieki nad zwierzętami utrzymywanymi w ośrodku, w tym pozyskanymi zwierzętami dzikimi,
 
-#### Rozdział 10 Kary administracyjne
+### 3)
 
-**Art. 69.**
+w zakresie transportu zwierząt dzikich
 
-1. Karze pieniężnej podlega hodowca, dostawca lub użytkownik, który:
+- biorąc pod uwagę potrzeby fizjologiczne i etologiczne gatunków zwierząt pozyskiwanych lub utrzymywanych w ośrodku oraz konieczność zapewnienia utrzymywanym w nim zwierzętom dobrostanu i prawidłowego stanu zdrowia, a także właściwych warunków opieki.
 
-- **1)** prowadzi działalność bez uzyskania wpisu do rejestru, o którym mowa w art. 26;
-- **2)** nie zapewnia zwierzętom utrzymywanym w ośrodku warunków określonych w art. 17, art. 18 lub w przepisach wydanych na podstawie art. 19;
-- **3)** nie wyznacza osób, o których mowa w art. 20 i art. 21, lub wyznacza osoby niespełniające wymagań określonych w art. 20 i art. 21, lub nie wyznacza osoby, o której mowa w art. 24 ust. 1, lub wyznacza osobę niespełniającą wymagań określonych w art. 24 ust. 2;
-- **4)** wbrew obowiązkowi określonemu w art. 23 nie zawiera z lekarzem weterynarii umowy o świadczenie usług weterynaryjnych lub z ekspertem posiadającym doświadczenie niezbędne do świadczenia usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika umowy o świadczenie takich usług w odniesieniu do gatunków tych zwierząt;
-- **5)** wbrew obowiązkowi określonemu w art. 25 ust. 1 nie ustanawia zespołu do spraw dobrostanu zwierząt albo wyznacza do tego zespołu osobę niespełniającą albo osoby niespełniające wymagań określonych w art. 21 ust. 1 lub art. 24 ust. 2, albo z takimi osobami zawiera umowę o wykonywanie zadań w ramach zespołu;
-- **6)** nie zapewnia sporządzenia lub przekazania dokumentacji, o której mowa w art. 25 ust. 7;
-- **7)** nie przechowuje dokumentacji, o której mowa w art. 25 ust. 7, przez okres wskazany w art. 25 ust. 8 pkt 1;
-- **8)** nie prowadzi ewidencji zwierząt, o której mowa w art. 30 ust. 1, prowadzi tę ewidencję niezgodnie z wymaganiami określonymi w tym przepisie lub nie przechowuje danych zawartych w tej ewidencji zgodnie z art. 30 ust. 2;
-- **9)** nie dokonuje oznakowania psa, kota lub zwierzęcia z rzędu naczelnych lub dokonuje tego oznakowania niezgodnie z wymaganiami określonymi w art. 31 ust. 1 i 2;
-- **10)** wbrew obowiązkowi określonemu w art. 25 ust. 8 pkt 2 nie przekazuje Komisji informacji dotyczących wykonywania zadań określonych w art. 25 ust. 2;
-- **11)** wbrew obowiązkom określonym w art. 30 ust. 4 albo 5 nie przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacji, o których mowa w tych przepisach;
-- **12)** uśmierca zwierzę niezgodnie z wymaganiami określonymi w art. 3b albo zgodą lokalnej komisji, o której mowa w art. 16a.
+### Art. 20.
 
-2. (uchylony)
+### 1[31) Oznaczenie ust. 1 nadane przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:31:).
 
-3. (uchylony)
+Hodowca, dostawca i użytkownik wyznacza do sprawowania opieki nad zwierzętami utrzymywanymi w ośrodku osobę, która:[32) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:32:)
 
-4. Karze pieniężnej podlega użytkownik, który:
+### 1)
 
-- **1)** przeprowadza doświadczenie bez uzyskania zgody na jego przeprowadzenie lub niezgodnie z warunkami określonymi w uchwale o udzieleniu zgody na przeprowadzenie doświadczenia;
-- **2)** nie prowadzi lub nie przechowuje dokumentacji dotyczącej przeprowadzania doświadczenia, o której mowa w art. 52 ust. 1, lub nie przekazuje tej dokumentacji lokalnej komisji w przypadku, o którym mowa w art. 52 ust. 2.
+ma wykształcenie co najmniej zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe;
 
-**Art. 70.**
+### 2)
 
-1. Karę pieniężną za naruszenia, o których mowa w art. 69, nakłada się w wysokości od 1000 zł do 50 000 zł.
+odbyła szkolenie w zakresie opieki nad zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach;
 
-2. Przy ustalaniu wysokości kary uwzględnia się:
+### 3)
 
-- **1)** rodzaj i okoliczności naruszenia;
-- **2)** wpływ naruszenia na powstanie u zwierząt niepotrzebnego bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu;
-- **3)** okres trwania naruszenia;
-- **4)** dotychczasową działalność hodowcy, dostawcy i użytkownika.
+odbyła 3-miesięczną praktykę w zakresie opieki nad zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach, pod nadzorem lekarza weterynarii lub osoby wskazanej przez hodowcę, dostawcę lub użytkownika.
 
-3. Minister właściwy do spraw szkolnictwa wyższego i nauki przy ustalaniu wysokości kary może zasięgnąć opinii Komisji w zakresie, o którym mowa w ust. 2 pkt 2.
+### 2[33) Dodany przez art. 1 pkt 16 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:33:).
 
-**Art. 71.**
+Hodowca, dostawca i użytkownik wyznaczają do uśmiercania zwierząt osobę, która:
 
-1. Kary pieniężne wymierza, w drodze decyzji administracyjnej, minister właściwy do spraw szkolnictwa wyższego i nauki.
+### 1)
 
-2. Kary pieniężne stanowią dochód budżetu państwa i są uiszczane na rachunek bankowy ministra właściwego do spraw szkolnictwa wyższego i nauki, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
+ma wykształcenie co najmniej zasadnicze zawodowe, zasadnicze branżowe, średnie lub średnie branżowe;
 
-3. Egzekucja wymierzonej kary pieniężnej wraz z odsetkami za zwłokę następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+### 2)
 
-4. W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651 i 2707).
+odbyła szkolenie w zakresie metod uśmiercania zwierząt wykorzystywanych lub przeznaczonych do wykorzystania do celów naukowych lub edukacyjnych;
 
-**Art. 72.** Nie można nałożyć kary pieniężnej, jeżeli od dnia popełnienia czynu, o którym mowa w art. 69 ust. 1 i 4, upłynęło 5 lat.
+### 3)
 
-#### Rozdział 11 Zmiany w przepisach obowiązujących
+odbyła 3-miesięczną praktykę w zakresie wykonywania czynności związanych z uśmiercaniem zwierząt wykorzystywanych lub przeznaczonych do wykorzystania do celów naukowych lub edukacyjnych, pod nadzorem lekarza weterynarii lub osoby, która uśmierca te zwierzęta.
 
-#### Rozdział 12 Przepisy przejściowe i końcowe
+### Art. 21[34) W brzmieniu ustalonym przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 2.](#gloss-0:34:).
 
-**Art. 77.**
+### 1.
 
-1. Z dniem wejścia w życie niniejszej ustawy wpisane do wykazów, o których mowa w art. 22 ustawy uchylanej w art. 83:
+Użytkownik wyznacza osobę odpowiedzialną za planowanie procedur i doświadczeń oraz za ich przeprowadzanie, która ma wiedzę na temat gatunków zwierząt wykorzystywanych w tych procedurach i posiada co najmniej stopień naukowy doktora w zakresie nauk:
 
-- **1)** jednostki hodowlane w rozumieniu art. 2 pkt 9 ustawy uchylanej w art. 83 stają się hodowcami w rozumieniu niniejszej ustawy;
-- **2)** jednostki doświadczalne w rozumieniu art. 2 pkt 10 ustawy uchylanej w art. 83 stają się użytkownikami w rozumieniu niniejszej ustawy;
-- **3)** dostawcy w rozumieniu art. 2 pkt 11 ustawy uchylanej w art. 83 stają się dostawcami w rozumieniu niniejszej ustawy.
+### 1)
 
-2. Minister właściwy do spraw nauki z urzędu wpisuje jednostki hodowlane, jednostki doświadczalne i dostawców, o których mowa w ust. 1, do rejestru, o którym mowa w art. 26.
+biologicznych, nauk farmaceutycznych, nauk medycznych, rolnictwa i ogrodnictwa, technologii żywności i żywienia, weterynarii lub zootechniki i rybactwa, ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz co najmniej 3-letni staż pracy umożliwiający uzyskanie praktycznych umiejętności w tym zakresie albo
 
-**Art. 78.**
+### 2)
 
-1. Doświadczenia, na których przeprowadzenie została wyrażona zgoda przed dniem wejścia w życie niniejszej ustawy, przeprowadza się na podstawie dotychczasowych przepisów, nie dłużej jednak niż do dnia 1 stycznia 2018 r.
+innych niż wymienione w pkt 1 albo dyplom ukończenia studiów na kierunku w zakresie nauk wymienionych w pkt 1, ukończone studia podyplomowe lub szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz co najmniej 4-letni staż pracy umożliwiający uzyskanie praktycznych umiejętności w tym zakresie.
 
-2. Dokumentację dotyczącą zwierząt, o których mowa w art. 11 ust. 3 ustawy uchylanej w art. 83, hodowca, dostawca lub użytkownik przechowuje przez 3 lata od dnia oznakowania tych zwierząt.
+### 2.
 
-3. Ewidencję zwierząt doświadczalnych prowadzoną na podstawie art. 19 ust. 1 ustawy uchylanej w art. 83 użytkownik przechowuje przez 3 lata od dnia dokonania w niej ostatniego wpisu.
+Użytkownik wyznacza do wykonywania procedur osobę, która posiada:
 
-4. Dokumentację dotyczącą doświadczeń, prowadzoną na podstawie art. 21 ustawy uchylanej w art. 83, użytkownik przechowuje przez 3 lata od dnia zakończenia przeprowadzania doświadczenia.
+### 1)
 
-**Art. 79.**
+dyplom ukończenia studiów na kierunku w zakresie nauk wymienionych w ust. 1 pkt 1 i ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez rok uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie albo
 
-1. Do postępowań w sprawie wydania zgody na przeprowadzenie doświadczenia, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+### 2)
 
-2. Doświadczenia, na których przeprowadzenie została wyrażona zgoda w postępowaniach, o których mowa w ust. 1, przeprowadza się na podstawie dotychczasowych przepisów, nie dłużej jednak niż do dnia 1 stycznia 2018 r.
+dyplom ukończenia studiów na kierunku w zakresie innym niż wymieniony w pkt 1 i ukończone studia podyplomowe lub szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez 2 lata uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie, albo
 
-**Art. 80.**
+### 3)
 
-1. Krajowa Komisja Etyczna i lokalne komisje etyczne powołane na podstawie przepisów ustawy uchylanej w art. 83, wykonują zadania Komisji i lokalnych komisji do czasu powołania członków tych komisji na podstawie przepisów niniejszej ustawy.
+wykształcenie średnie lub średnie branżowe, przygotowanie zawodowe zgodne z zakresem wykonywanych procedur, ukończone szkolenie w zakresie przeprowadzania doświadczeń na zwierzętach oraz która co najmniej przez 2 lata uczestniczyła w wykonywaniu procedur pod nadzorem osoby wyznaczonej przez użytkownika i uzyskała praktyczne umiejętności w tym zakresie.
 
-2. Minister właściwy do spraw nauki powoła członków Komisji w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 3.
 
-3. Komisja powoła członków lokalnych komisji w terminie 6 miesięcy od dnia powołania przez ministra właściwego do spraw nauki członków tej Komisji.
+Użytkownik wyznacza do uczestniczenia w wykonywaniu procedur osobę, która:
 
-4. Do okresu, o którym mowa w art. 34 ust. 4, nie wlicza się kadencji rozpoczętych przed dniem wejścia w życie niniejszej ustawy.
+### 1)
 
-5. Lokalne komisje etyczne powołane na podstawie przepisów ustawy uchylanej w art. 83 przekażą dokumentację:
+jest studentem albo doktorantem lub
 
-- **1)** dotyczącą wyrażenia zgody na przeprowadzenie doświadczeń,
-- **2)** związaną z nadzorem sprawowanym nad przeprowadzaniem doświadczeń – wskazanym przez Komisję powołaną na podstawie przepisów niniejszej ustawy lokalnym komisjom powołanym na podstawie przepisów niniejszej ustawy, w terminie miesiąca od dnia powołania tych lokalnych komisji.
+### 2)
 
-**Art. 81.**
+wykonuje czynności techniczne związane z obsługą zwierząt
 
-1. Minister właściwy do spraw szkolnictwa wyższego i nauki przekaże Komisji Europejskiej po raz pierwszy dane, o których mowa w art. 65 ust. 1:
+- i odbyła szkolenie w zakresie postępowania ze zwierzętami przeznaczonymi do wykorzystania lub wykorzystywanymi w procedurach.
 
-- **1)** pkt 1 – do dnia 10 listopada 2015 r.;
-- **2)** pkt 2 – do dnia 10 listopada 2018 r.
+### Art. 21a[35) Dodany przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 2.](#gloss-0:35:).
 
-2. Użytkownik przekaże ministrowi właściwemu do spraw nauki po raz pierwszy informacje, o których mowa w art. 30 ust. 4, do dnia 30 września 2015 r.
+### 1.
 
-**Art. 82.**
+Szkolenia, o których mowa w art. 20 ust. 1 pkt 2 i ust. 2 pkt 2, art. 21 oraz art. 24 ust. 2 pkt 2, można odbyć w państwie innym niż Rzeczpospolita Polska.
 
-1. Przepisy wykonawcze wydane na podstawie art. 11 ust. 7, art. 16 ust. 5 i art. 31 ust. 5 ustawy uchylanej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22, art. 31 ust. 3 i art. 41, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 2.
 
-2. Przepisy wykonawcze wydane na podstawie art. 10 ust. 5 pkt 1 ustawy uchylanej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19, jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+Zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem programu szkolenia określonym w przepisach wydanych na podstawie art. 22 i zakres, w jakim jest konieczne uzupełnienie odbytego szkolenia, ustala hodowca, dostawca lub użytkownik.
 
-**Art. 83.** Traci moc ustawa z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach (Dz. U. poz. 289, z późn. zm. ).
+### 3.
 
-**Art. 84.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+W przypadku konieczności uzupełnienia szkolenia odbytego w państwie innym niż Rzeczpospolita Polska osoba, która odbyła to szkolenie, jest obowiązana do jego uzupełnienia w zakresie ustalonym zgodnie z ust. 2.
 
+### 4.
+
+Hodowca, dostawca lub użytkownik potwierdza zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem programu szkolenia określonym w przepisach wydanych na podstawie art. 22, a także uzupełnienie szkolenia w przypadku, o którym mowa w ust. 3. Potwierdzenie może dotyczyć więcej niż jednego szkolenia.
+
+### Art. 21b[35) Dodany przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 2.](#gloss-0:35:).
+
+### 1.
+
+Hodowca, dostawca i użytkownik wyznaczają co najmniej jedną osobę odpowiedzialną za nadzór nad osobami, o których mowa w art. 20 i art. 21 ust. 2 i 3, podczas wykonywania przez nie czynności, o których mowa w tych przepisach.
+
+### 2.
+
+Do wykonywania nadzoru, o którym mowa w ust. 1, wyznacza się osobę, która spełnia wymagania określone w art. 21 ust. 1 lub art. 24 ust. 2.
+
+### 3.
+
+Nadzór, o którym mowa w ust. 1, jest wykonywany do czasu, aż osoba odpowiedzialna za nadzór stwierdzi, że osoba nadzorowana wykazuje się wymaganymi umiejętnościami praktycznymi niezbędnymi do prawidłowego wykonywania czynności, o których mowa odpowiednio w art. 20 i art. 21 ust. 2 i 3.
+
+### 4.
+
+Osoba odpowiedzialna za nadzór, o którym mowa w ust. 1, potwierdza pisemnie, że osoba nadzorowana wykazuje się umiejętnościami praktycznymi niezbędnymi do prawidłowego wykonywania czynności, o których mowa odpowiednio w art. 20 i art. 21 ust. 2 i 3, oraz przekazuje to potwierdzenie osobie nadzorowanej oraz hodowcy, dostawcy lub użytkownikowi.
+
+### Art. 22[36) W brzmieniu ustalonym przez art. 1 pkt 19 ustawy, o której mowa w odnośniku 2.](#gloss-0:36:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+### 1)
+
+zakres programów szkoleń i praktyk oraz zakres staży pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
+
+### 2)
+
+wzory dokumentów potwierdzających ukończenie szkolenia i praktyki oraz posiadany staż pracy, o których mowa w art. 20 ust. 1 pkt 2 i 3 oraz ust. 2 pkt 2 i 3, art. 21 oraz art. 24 ust. 2 pkt 2 i 3,
+
+### 3)
+
+wzór dokumentu potwierdzającego zgodność programu szkolenia odbytego w państwie innym niż Rzeczpospolita Polska z zakresem, o którym mowa w pkt 1, a także uzupełnienie szkolenia w przypadku, o którym mowa w art. 21a ust. 3
+
+- mając na względzie potrzebę zapewnienia osobom, o których mowa w art. 20, art. 21 i art. 24 ust. 2, możliwości uzyskania wiedzy i umiejętności praktycznych niezbędnych do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21, zadań, o których mowa w art. 24 ust. 1, a także potrzebę zapewnienia jednolitego dokumentowania ukończonych szkoleń i praktyk oraz posiadanego stażu pracy.
+
+### Art. 23[36) W brzmieniu ustalonym przez art. 1 pkt 19 ustawy, o której mowa w odnośniku 2.](#gloss-0:36:).
+
+Hodowca, dostawca i użytkownik zawierają z lekarzem weterynarii umowę o świadczenie usług weterynaryjnych w rozumieniu art. 2 ust. 1 ustawy z dnia 18 grudnia 2003 r. o zakładach leczniczych dla zwierząt lub, jeżeli jest to uzasadnione specyfiką działalności hodowcy, dostawcy lub użytkownika, w szczególności polegającą na przeprowadzaniu doświadczeń na zwierzętach dzikich, umowę o świadczenie usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika z ekspertem posiadającym doświadczenie niezbędne do świadczenia takich usług w odniesieniu do gatunków tych zwierząt.
+
+### Art. 24[36) W brzmieniu ustalonym przez art. 1 pkt 19 ustawy, o której mowa w odnośniku 2.](#gloss-0:36:).
+
+### 1.
+
+Hodowca, dostawca i użytkownik wyznaczają osobę odpowiedzialną za:
+
+### 1)
+
+nadzór nad dobrostanem zwierząt utrzymywanych w ośrodku i opieką nad tymi zwierzętami;
+
+### 2)
+
+zapewnienie osobom, o których mowa w art. 20 i art. 21, dostępu do informacji dotyczących gatunków zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych;
+
+### 3)
+
+organizację szkoleń dla osób, o których mowa w art. 20 i art. 21;
+
+### 4)
+
+zapewnienie, aby osoby, o których mowa w art. 20 i art. 21, posiadały wykształcenie, praktykę i staż pracy oraz odbyły szkolenia, zgodne z wymaganiami określonymi w tych przepisach oraz w przepisach wydanych na podstawie art. 22 pkt 1, a także posiadały oraz stale doskonaliły wiedzę i umiejętności praktyczne niezbędne do prawidłowego wykonywania czynności, o których mowa w art. 20 i art. 21.
+
+### 2.
+
+Do wykonywania zadań, o których mowa w ust. 1, wyznacza się osobę, która:
+
+### 1)
+
+posiada:
+
+### a)
+
+wykształcenie wyższe albo
+
+### b)
+
+co najmniej wykształcenie średnie lub średnie branżowe oraz tytuł zawodowy technika lub dyplom potwierdzający kwalifikacje zawodowe albo dyplom zawodowy - w zawodach związanych z chowem lub hodowlą zwierząt;
+
+### 2)
+
+odbyła szkolenie w zakresie niezbędnym do sprawowania nadzoru nad dobrostanem zwierząt utrzymywanych w ośrodku i opieką nad tymi zwierzętami;
+
+### 3)
+
+ma co najmniej 2-letni staż pracy na stanowisku związanym ze sprawowaniem opieki nad zwierzętami.
+
+### Art. 24a[37) Dodany przez art. 1 pkt 20 ustawy, o której mowa w odnośniku 2.](#gloss-0:37:).
+
+Hodowca, dostawca i użytkownik, w zakresie uzasadnionym rodzajem prowadzonej przez siebie działalności w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych, opracowują programy:
+
+### 1)
+
+znajdowania nowego opiekuna dla zwierząt, w tym przeprowadzenia przez hodowcę, dostawcę i użytkownika socjalizacji tych zwierząt w sposób odpowiedni dla ich gatunku;
+
+### 2)
+
+prowadzenia rehabilitacji zwierząt dzikich przed przywróceniem ich do siedliska przyrodniczego.
+
+### Art. 25[38) W brzmieniu ustalonym przez art. 1 pkt 21 ustawy, o której mowa w odnośniku 2.](#gloss-0:38:).
+
+### 1.
+
+Hodowca, dostawca i użytkownik ustanawiają zespół do spraw dobrostanu zwierząt, w którego skład wchodzą co najmniej osoba spełniająca albo osoby spełniające wymagania określone w art. 24 ust. 2, a w przypadku użytkownika - ponadto pracownik naukowy spełniający wymagania określone w art. 21 ust. 1.
+
+### 2.
+
+Do zadań zespołu do spraw dobrostanu zwierząt należy:
+
+### 1)
+
+udzielanie porad:
+
+### a)
+
+w sprawach:
+
+- - związanych z zapewnieniem dobrostanu zwierząt,
+
+- - znalezienia nowego opiekuna dla zwierząt, w tym ich właściwej socjalizacji,
+
+- - prowadzenia rehabilitacji zwierząt dzikich przed przywróceniem ich do siedliska przyrodniczego,
+
+- - związanych z organizowanymi szkoleniami,
+
+### b)
+
+dotyczących stosowania zasad zastąpienia, ograniczenia i udoskonalenia, a także przekazywanie na bieżąco informacji o osiągnięciach technicznych i naukowych związanych ze stosowaniem tych zasad;
+
+### 2)
+
+opracowywanie i dokonywanie przeglądu wewnętrznych zasad postępowania ze zwierzętami utrzymywanymi w ośrodku;
+
+### 3)
+
+monitorowanie przypadków uśmiercania zwierząt w celu pozyskania narządów lub tkanek oraz ułatwianie wzajemnego udostępniania pozyskanych narządów lub tkanek między hodowcami, dostawcami i użytkownikami;
+
+### 4)
+
+monitorowanie dobrostanu zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych;
+
+### 5)
+
+zgłaszanie hodowcy, dostawcy lub użytkownikowi przypadków naruszenia dobrostanu zwierząt i określanie czynności, które należy podjąć w celu przywrócenia tego dobrostanu;
+
+### 6)
+
+kontrola przeprowadzania doświadczeń i ich wyników, z uwzględnieniem wpływu tych doświadczeń na wykorzystywane w nich zwierzęta, oraz ocena zgodności przeprowadzanych doświadczeń z treścią uchwały o udzieleniu zgody na przeprowadzenie doświadczenia oraz z zasadami zastąpienia, ograniczenia i udoskonalenia;
+
+### 7)
+
+opiniowanie lub zatwierdzanie wniosków o wyrażenie zgody na przeprowadzenie doświadczenia przed ich złożeniem do lokalnej komisji etycznej do spraw doświadczeń na zwierzętach.
+
+### 3.
+
+Hodowca, dostawca i użytkownik, ustanawiając zespół do spraw dobrostanu zwierząt:
+
+### 1)
+
+wyznaczają osobę albo osoby do składu tego zespołu lub
+
+### 2)
+
+zawierają z osobami wchodzącymi w skład tego zespołu umowę o wykonywanie zadań, o których mowa w ust. 2, w ramach tego zespołu.
+
+### 4.
+
+Umowę, o której mowa w ust. 3 pkt 2, z tą samą osobą albo z tymi samymi osobami może zawrzeć nie więcej niż pięciu hodowców, dostawców lub użytkowników, którzy utrzymują zwierzęta w pomieszczeniach do ich utrzymywania o powierzchni nieprzekraczającej łącznie 100 m2.
+
+### 5.
+
+Zespół do spraw dobrostanu zwierząt przy wykonywaniu zadań określonych w ust. 2 współpracuje z lekarzem weterynarii i ekspertem, o których mowa w art. 23.
+
+### 6.
+
+Lekarz weterynarii i ekspert, o których mowa w art. 23, przekazują zespołowi do spraw dobrostanu zwierząt informacje dotyczące dobrostanu zwierząt utrzymywanych w ośrodku lub wykorzystywanych do celów naukowych lub edukacyjnych.
+
+### 7.
+
+Zespół do spraw dobrostanu zwierząt sporządza dokumentację z realizacji zadań, o których mowa w ust. 2, obejmującą w szczególności wskazanie działań podjętych w celu usunięcia stwierdzonych nieprawidłowości, i przekazuje ją hodowcy, dostawcy lub użytkownikowi.
+
+### 8.
+
+Hodowca, dostawca i użytkownik:
+
+### 1)
+
+przechowują dokumentację, o której mowa w ust. 7, przez 3 lata od dnia dokonania w niej ostatniego wpisu;
+
+### 2)
+
+przekazują Krajowej Komisji Etycznej do Spraw Doświadczeń na Zwierzętach corocznie, w terminie do dnia 31 marca, informacje dotyczące wykonywania zadań, o których mowa w ust. 2.
+
+### Rozdział 4 Prowadzenie działalności przez hodowców, dostawców i użytkowników
+
+### Art. 26.
+
+Prowadzenie działalności polegającej na hodowli, dostarczaniu zwierząt lub wykonywaniu procedur wymaga uzyskania wpisu do rejestru hodowców, dostawców i użytkowników, zwanego dalej „rejestrem”.
+
+### Art. 27.
+
+### 1.
+
+Podmiot zamierzający prowadzić działalność, o której mowa w art. 26, przed uzyskaniem wpisu do rejestru składa do powiatowego lekarza weterynarii wniosek o stwierdzenie spełniania wymagań niezbędnych do prowadzenia tej działalności.
+
+### 2[39) W brzmieniu ustalonym przez art. 1 pkt 22 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:39:).
+
+Powiatowy lekarz weterynarii, w drodze decyzji administracyjnej, stwierdza:
+
+### 1)
+
+spełnienie wymagań niezbędnych do prowadzenia działalności, o której mowa w art. 26, jeżeli są spełnione wymagania określone w art. 17, art. 18, art. 20, art. 21, art. 21b ust. 1 i 2, art. 23-24a, art. 25 ust. 1 i 3 oraz w przepisach wydanych na podstawie art. 19;
+
+### 2)
+
+niespełnienie wymagań niezbędnych do prowadzenia działalności, o której mowa w art. 26, jeżeli nie są spełnione wymagania określone w art. 17, art. 18, art. 20, art. 21, art. 21b ust. 1 i 2, art. 23-24a, art. 25 ust. 1 lub 3 lub w przepisach wydanych na podstawie art. 19.
+
+### 3.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę wnioskodawcy, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 2)
+
+określenie rodzaju planowanej działalności;
+
+### 3[40) W brzmieniu ustalonym przez art. 1 pkt 22 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:40:))
+
+imię i nazwisko lekarza weterynarii lub eksperta, o których mowa w art. 23;
+
+### 4[40) W brzmieniu ustalonym przez art. 1 pkt 22 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:40:))
+
+imię i nazwisko osoby, o której mowa w art. 24 ust. 1, oraz imię i nazwisko osoby albo imiona i nazwiska osób, o których mowa w art. 25 ust. 1;
+
+### 5)
+
+wykaz gatunków zwierząt, które będą hodowane, dostarczane lub wykorzystywane w procedurach lub których tkanki lub narządy będą przeznaczone do wykorzystania w celach określonych w art. 3.
+
+### 4.
+
+Podmiot zamierzający prowadzić działalność polegającą na wykonywaniu procedur do wniosku, o którym mowa w ust. 1, dołącza informację o spełnieniu wymagań określonych w art. 18.
+
+### 5.
+
+Podmiot zamierzający prowadzić działalność polegającą na hodowli zwierząt z rzędu naczelnych we wniosku, o którym mowa w ust. 1, określa sposoby zwiększania odsetka zwierząt będących potomstwem zwierząt z rzędu naczelnych, które były hodowane w niewoli.
+
+### 6.
+
+Ostateczną decyzję, o której mowa w ust. 2 pkt 1, oraz wniosek, o którym mowa w ust. 1, powiatowy lekarz weterynarii przekazuje niezwłocznie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki.
+
+### Art. 28.
+
+### 1.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki:
+
+### 1)
+
+dokonuje wpisu hodowcy, dostawcy lub użytkownika do rejestru, w terminie 14 dni od dnia otrzymania od powiatowego lekarza weterynarii ostatecznej decyzji, o której mowa w art. 27 ust. 2 pkt 1;
+
+### 2[41) W brzmieniu ustalonym przez art. 1 pkt 23 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:41:))
+
+wykreśla hodowcę, dostawcę lub użytkownika z rejestru:
+
+### a)
+
+na wniosek powiatowego lekarza weterynarii w terminie 14 dni od dnia otrzymania ostatecznej decyzji stwierdzającej:
+
+- - niespełnianie wymagań do prowadzenia działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 59 ust. 2,
+
+- - rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem, wraz z wnioskiem o wykreślenie, o których mowa w art. 60a ust. 2,
+
+### b)
+
+na wniosek hodowcy, dostawcy lub użytkownika - w przypadku zaprzestania wykonywania działalności objętej wpisem,
+
+### c)
+
+z urzędu w przypadku:
+
+- - uzyskania informacji z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Krajowego Rejestru Sądowego albo rejestru instytutów naukowych Polskiej Akademii Nauk o wykreśleniu z nich podmiotu, który był hodowcą, dostawcą lub użytkownikiem,
+
+- - uzyskania od powiatowego lekarza weterynarii informacji o stwierdzeniu zaprzestania wykonywania działalności objętej wpisem w przypadku innym niż zawieszenie wykonywania tej działalności,
+
+- - prawomocnego orzeczenia przez sąd zakazu na podstawie art. 35 ust. 4 lub 4a ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt,
+
+- - prawomocnego orzeczenia przez sąd zakazu: - - zajmowania stanowiska, - - wykonywania zawodu, - - prowadzenia działalności gospodarczej - które są związane z wykorzystywaniem zwierząt lub oddziaływaniem na nie.
+
+### 2.
+
+(uchylony)[42) Przez art. 1 pkt 23 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:42:)
+
+### Art. 28a[43) Dodany przez art. 1 pkt 24 ustawy, o której mowa w odnośniku 2.](#gloss-0:43:).
+
+Hodowca, dostawca lub użytkownik, który został wykreślony z rejestru na podstawie art. 28 ust. 1 pkt 2 lit. a tiret drugie, może uzyskać ponowny wpis do rejestru nie wcześniej niż po upływie roku od dnia, w którym decyzja, o której mowa w art. 60a ust. 1, stała się ostateczna i prawomocna.
+
+### Art. 29.
+
+### 1.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki prowadzi rejestr w postaci elektronicznej.
+
+### 2.
+
+W rejestrze umieszcza się:
+
+### 1)
+
+imię i nazwisko albo nazwę hodowcy, dostawcy lub użytkownika;
+
+### 2)
+
+adres i miejsce wykonywania działalności przez hodowcę, dostawcę lub użytkownika;
+
+### 3)
+
+dane, o których mowa w art. 27 ust. 3 pkt 2-5.
+
+### 3[44) Ze zmianą wprowadzoną przez art. 1 pkt 25 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:44:).
+
+Hodowca, dostawca lub użytkownik wpisany do rejestru informuje na piśmie ministra właściwego do spraw szkolnictwa wyższego i nauki o zmianie danych, o których mowa w art. 27 ust. 3 pkt 1 i 3-5, w terminie 7 dni od dnia wystąpienia tej zmiany.
+
+### 4[45) Ze zmianą wprowadzoną przez art. 1 pkt 25 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:45:).
+
+Do zmiany w zakresie miejsca wykonywania działalności, rodzaju wykonywanej działalności lub gatunków zwierząt hodowanych, dostarczanych lub wykorzystywanych w procedurach w ośrodku, stosuje się odpowiednio przepisy art. 27.
+
+### 5.
+
+Dane zawarte w rejestrze, z wyłączeniem danych, o których mowa w art. 27 ust. 3 pkt 3 i 4, są udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 6[46) Dodany przez art. 1 pkt 25 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:46:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia w formie dokumentu elektronicznego za pomocą elektronicznej platformy usług administracji publicznej dane zawarte w rejestrze, o których mowa w art. 27 ust. 3 pkt 3 i 4, powiatowemu lekarzowi weterynarii na jego wniosek w zakresie niezbędnym do przeprowadzenia przez niego kontroli hodowcy, dostawcy lub użytkownika.
+
+### Art. 30.
+
+### 1.
+
+W zakresie objętym prowadzoną działalnością hodowca, dostawca lub użytkownik prowadzi ewidencję zwierząt, do której wpisuje:
+
+### 1)
+
+informacje o liczbie i gatunkach zwierząt utrzymywanych, hodowanych, nabywanych, dostarczanych, wykorzystywanych w procedurach, przywróconych do siedliska przyrodniczego albo którym znaleziono nowego opiekuna;
+
+### 2)
+
+informacje o pochodzeniu zwierząt, ze wskazaniem, czy były one hodowane w celu wykorzystania w procedurach;
+
+### 3)
+
+datę nabycia, dostarczenia, przywrócenia zwierzęcia do siedliska przyrodniczego albo znalezienia zwierzęciu nowego opiekuna;
+
+### 4)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu, od którego zwierzęta zostały nabyte, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 5)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu będącego odbiorcą zwierząt, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 6[47) W brzmieniu ustalonym przez art. 1 pkt 26 ustawy, o której mowa w odnośniku 2.](#gloss-0:47:))
+
+informacje o liczbie i gatunkach zwierząt, które padły albo zostały uśmiercone, z wyodrębnieniem zwierząt uśmiercanych wyłącznie w celu pozyskania narządów lub tkanek, a w przypadku zwierząt padłych - także o przyczynie śmierci, chyba że nie jest znana;
+
+### 7)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę podmiotu będącego nowym opiekunem zwierzęcia, o którym mowa w art. 15 ust. 2, z tym że w przypadku gdy podmiotem tym jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 8)
+
+informacje o liczbie i rodzaju przeprowadzonych doświadczeń - w przypadku użytkowników;
+
+### 9)
+
+informacje dotyczące psa, kota i zwierzęcia z rzędu naczelnych - niezwłocznie po ich urodzeniu albo w dniu ich pozyskania, w tym:
+
+### a)
+
+datę i miejsce urodzenia psa, kota i zwierzęcia z rzędu naczelnych, jeżeli są znane,
+
+### b)
+
+dane umieszczone w trwałym indywidualnym znaku identyfikacyjnym, którym znakuje się psa, kota i zwierzę z rzędu naczelnych,
+
+### c)
+
+o hodowli, z której pochodzą pies, kot i zwierzę z rzędu naczelnych,
+
+### d)
+
+o wyhodowaniu w celu wykorzystania w procedurach,
+
+### e)
+
+o urodzeniu ze zwierząt wyhodowanych w niewoli - w przypadku zwierzęcia z rzędu naczelnych,
+
+### f)
+
+reprodukcyjne i weterynaryjne oraz dotyczące zachowania danego psa, kota lub zwierzęcia z rzędu naczelnych wobec ludzi i zwierząt,
+
+### g)
+
+o liczbie i rodzaju doświadczeń, w których dany pies, kot lub zwierzę z rzędu naczelnych było wykorzystane.
+
+### 2.
+
+W zakresie objętym prowadzoną działalnością, hodowca, dostawca lub użytkownik przechowuje dane zawarte w ewidencji zwierząt przez:
+
+### 1)
+
+5 lat od dnia dokonania ostatniego wpisu - w przypadku danych, o których mowa w ust. 1 pkt 1-8;
+
+### 2)
+
+3 lata od śmierci zwierzęcia albo przywrócenia go do siedliska przyrodniczego właściwego dla danego gatunku albo znalezienia dla niego nowego opiekuna - w przypadku danych, o których mowa w ust. 1 pkt 9.
+
+### 3.
+
+Informacje, o których mowa w ust. 1 pkt 9 lit. f, przekazuje się nowemu opiekunowi zwierzęcia.
+
+### 4.
+
+Użytkownik, na podstawie danych zawartych w ewidencji, przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 marca, informacje dotyczące:
+
+### 1)
+
+zwierząt wykorzystywanych w procedurach, w szczególności celów i kategorii procedur oraz przepisów, z których wynika obowiązek przeprowadzenia tych procedur;
+
+### 2)
+
+zwierząt uśmiercanych wyłącznie w celu pobrania narządów lub tkanek.
+
+### 5.
+
+Hodowca i dostawca przekazują ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 marca, informacje dotyczące zwierząt przeznaczonych do wykorzystania w procedurach.
+
+### Art. 31.
+
+### 1.
+
+Hodowca, dostawca lub użytkownik jest obowiązany oznakować psa, kota lub zwierzę z rzędu naczelnych trwałym indywidualnym znakiem identyfikacyjnym w sposób najmniej bolesny, nie później niż w dniu odstawienia od matki.
+
+### 2.
+
+W przypadku gdy pies, kot lub zwierzę z rzędu naczelnych są przenoszone do innego hodowcy, dostawcy lub użytkownika przed odstawieniem od matki, a nie jest możliwe oznakowanie ich przed przeniesieniem, hodowca, dostawca lub użytkownik przyjmujący zwierzę:
+
+### 1)
+
+umieszcza dane umożliwiające identyfikację takiego zwierzęcia i jego matki w ewidencji, o której mowa w art. 30 ust. 1;
+
+### 2)
+
+niezwłocznie dokonuje oznakowania takiego zwierzęcia trwałym indywidualnym znakiem identyfikacyjnym.
+
+### 3.
+
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sposób znakowania psów, kotów i zwierząt z rzędu naczelnych oraz dane umieszczane w trwałym indywidualnym znaku identyfikacyjnym, biorąc pod uwagę specyfikę znakowanych zwierząt oraz konieczność zapewnienia ich identyfikacji na podstawie danych umieszczonych w tym znaku.
+
+### Rozdział 5 Komisje etyczne do spraw doświadczeń na zwierzętach
+
+### Art. 32[48) W brzmieniu ustalonym przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 2.](#gloss-0:48:).
+
+### 1.
+
+Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach, zwana dalej „Komisją”, i lokalne komisje etyczne do spraw doświadczeń na zwierzętach, zwane dalej „lokalnymi komisjami”, są organami właściwymi w sprawach zgód na przeprowadzanie doświadczeń.
+
+### 2.
+
+Lokalne komisje tworzy się w liczbie nie większej niż 18.
+
+### 3.
+
+Komisja wskazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki podmioty, o których mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, które będą zapewniały obsługę lokalnych komisji. Podmioty te są administratorami danych osobowych przetwarzanych przez lokalne komisje w związku z realizacją zadań.
+
+### Art. 33.
+
+### 1.
+
+Do zadań Komisji należy:
+
+### 1)
+
+formułowanie i przedstawianie:
+
+### a)
+
+hodowcom, dostawcom i użytkownikom opinii i wniosków w sprawach ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych,
+
+### b)
+
+użytkownikom opinii w sprawach współpracy w zakresie wzajemnego udostępniania narządów i tkanek pobranych od zwierząt,
+
+### c)
+
+hodowcom wytycznych dotyczących zwiększania odsetka zwierząt będących potomstwem zwierząt z rzędu naczelnych, które były hodowane w niewoli;
+
+### 2)
+
+opracowywanie i udostępnianie użytkownikom dobrych praktyk, w szczególności w zakresie planowania i wykonywania procedur, stosowania zasad zastąpienia, ograniczenia i udoskonalenia oraz stosowanych metod alternatywnych;
+
+### 3)
+
+przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz ministrowi właściwemu do spraw rolnictwa wniosków wynikających z rocznego sprawozdania podsumowującego wyniki kontroli hodowców, dostawców i użytkowników;
+
+### 3a[49) Dodany przez art. 1 pkt 28 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:49:))
+
+przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego i nauki opinii w zakresie, o którym mowa w art. 70 ust. 2 pkt 2;
+
+### 4)
+
+powoływanie i odwoływanie członków lokalnych komisji;
+
+### 5)
+
+współpraca z Komisją Europejską przy:
+
+### a)
+
+opracowywaniu i zatwierdzaniu metod badawczych zapewniających uzyskanie bez wykorzystania zwierząt lub przy wykorzystaniu mniejszej ich liczby, lub w sposób powodujący mniejszy ból u wykorzystywanych zwierząt takiego samego lub szerszego zakresu informacji, jaki zostałby uzyskany przy wykonywaniu procedur z wykorzystaniem zwierząt (metody alternatywne),
+
+### b)
+
+wyznaczaniu laboratoriów wykonujących badania mające na celu zatwierdzenie metod alternatywnych na potrzeby unijnego laboratorium referencyjnego, będącego europejskim ośrodkiem walidacji metod alternatywnych;
+
+### 6)
+
+udostępnianie informacji o metodach alternatywnych i ich propagowanie;
+
+### 7[50) W brzmieniu ustalonym przez art. 1 pkt 28 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:50:))
+
+przedstawianie organom administracji publicznej oraz osobie albo osobom, o których mowa w art. 25 ust. 1, opinii w sprawach związanych z pozyskiwaniem, hodowlą, utrzymywaniem i wykorzystywaniem w procedurach zwierząt oraz opieką nad tymi zwierzętami, a także zapewnianie wzajemnego udostępniania między tymi podmiotami dobrych praktyk w tym zakresie;
+
+### 8[50) W brzmieniu ustalonym przez art. 1 pkt 28 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:50:))
+
+wymiana informacji z właściwymi organami innych państw członkowskich Unii Europejskiej w zakresie zadań należących do Komisji i lokalnych komisji oraz w zakresie dotyczącym wykonywania zadań określonych w art. 25 ust. 2, a także udostępniania dobrych praktyk w tym zakresie;
+
+### 9[51) Dodany przez art. 1 pkt 28 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2.](#gloss-0:51:))
+
+ustanawianie odstępstw, o których mowa w art. 3b ust. 5.
+
+### 1a[52) Dodany przez art. 1 pkt 28 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:52:).
+
+W przypadku spraw, o których mowa w ust. 1 pkt 7, Komisja przedstawia lokalnej komisji opinie wyłącznie w tych sprawach, w których nie jest w stosunku do niej organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ([Dz. U. z 2022 r. poz. 2000](https://api.sejm.gov.pl/eli/acts/DU/2022/2000/text.html) i [2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html)), zwanej dalej „Kodeksem postępowania administracyjnego”.
+
+### 2[53) W brzmieniu ustalonym przez art. 1 pkt 28 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:53:).
+
+Komisja przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 30 czerwca, informacje o realizacji zadań lokalnych komisji, o których mowa w art. 36 ust. 1.
+
+### 3[54) Ze zmianą wprowadzoną przez art. 1 pkt 28 lit. d ustawy, o której mowa w odnośniku 2.](#gloss-0:54:).
+
+Komisja jest organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do lokalnych komisji.
+
+### 4.
+
+Na uchwałę Komisji przysługuje skarga do sądu administracyjnego.
+
+### 5.
+
+Komisja działa na podstawie regulaminu zatwierdzanego przez ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 6[55) W brzmieniu ustalonym przez art. 1 pkt 28 lit. e ustawy, o której mowa w odnośniku 2.](#gloss-0:55:).
+
+Dobre praktyki, o których mowa w ust. 1 pkt 2, informacje o metodach alternatywnych, sprawozdanie z przeprowadzonych kontroli, o którym mowa w art. 62, oraz uchwały ustanawiające odstępstwa, o których mowa w art. 3b ust. 5, są udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### Art. 34.
+
+### 1.
+
+W skład Komisji wchodzi 15 członków powoływanych i odwoływanych przez ministra właściwego do spraw szkolnictwa wyższego i nauki, w tym:
+
+### 1[56) W brzmieniu ustalonym przez art. 1 pkt 29 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:56:))
+
+9 osób posiadających co najmniej stopień naukowy doktora w zakresie nauk medycznych, nauk farmaceutycznych, nauk o zdrowiu, inżynierii biomedycznej, rolnictwa i ogrodnictwa, technologii żywności i żywienia, weterynarii, zootechniki i rybactwa, nauk biologicznych, nauk chemicznych, nauk fizycznych lub nauk o Ziemi i środowisku oraz wiedzę lub doświadczenie w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 2[56) W brzmieniu ustalonym przez art. 1 pkt 29 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:56:))
+
+3 osoby posiadające co najmniej tytuł zawodowy magistra i dorobek naukowy lub zawodowy z zakresu filozofii, etyki lub prawa, w szczególności związany z etycznymi lub prawnymi aspektami wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 3)
+
+3 przedstawicieli organizacji społecznych, których statutowym celem działania jest ochrona zwierząt.
+
+### 2.
+
+Członkiem Komisji nie może być osoba:
+
+### 1[57) W brzmieniu ustalonym przez art. 1 pkt 29 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:57:))
+
+skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+
+### 2)
+
+ukarana prawomocnym orzeczeniem komisji dyscyplinarnej lub sądu orzekającego w przedmiocie odpowiedzialności zawodowej.
+
+### 2a[58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:58:).
+
+Zgłoszenie kandydata na członka Komisji, o którym mowa w ust. 1 pkt 1 i 2, składa kandydat albo podmiot systemu szkolnictwa wyższego i nauki, o którym mowa w art. 7 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
+
+### 2b[58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:58:).
+
+Zgłoszenie kandydata na członka Komisji, o którym mowa w ust. 1 pkt 3, składa organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
+
+### 2c[58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:58:).
+
+Zgłoszenie kandydata na członka Komisji obejmuje:
+
+### 1)
+
+imię i nazwisko oraz datę urodzenia kandydata;
+
+### 2)
+
+adres do korespondencji kandydata;
+
+### 3)
+
+adres poczty elektronicznej lub numer telefonu kandydata;
+
+### 4)
+
+stopień naukowy, tytuł profesora lub tytuł zawodowy kandydata;
+
+### 5)
+
+opis wiedzy, doświadczenia, dorobku naukowego lub zawodowego kandydata lub opis działalności w zakresie ochrony zwierząt;
+
+### 6)
+
+podpis kandydata;
+
+### 7)
+
+dane zgłaszającej organizacji społecznej lub zgłaszającego podmiotu wraz z podpisem osoby uprawnionej do ich reprezentacji - w przypadku, gdy zgłoszenia dokonuje ta organizacja lub ten podmiot.
+
+### 2d[58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:58:).
+
+Do zgłoszenia kandydata na członka Komisji dołącza się oświadczenie kandydata na członka Komisji o:
+
+### 1)
+
+wyrażeniu zgody na kandydowanie;
+
+### 2)
+
+braku okoliczności, o których mowa w ust. 2.
+
+### 2e[58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:58:).
+
+Organizacja społeczna, której statutowym celem działania jest ochrona zwierząt, do zgłoszenia kandydata na członka Komisji dołącza statut i aktualny odpis z Krajowego Rejestru Sądowego.
+
+### 3.
+
+Kadencja Komisji trwa 4 lata.
+
+### 4.
+
+Członkiem Komisji można być nie dłużej niż przez dwie kolejne kadencje.
+
+### 5.
+
+W posiedzeniach Komisji bierze udział przedstawiciel ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 6[59) Ze zmianą wprowadzoną przez art. 1 pkt 29 lit. d ustawy, o której mowa w odnośniku 2.](#gloss-0:59:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki wyznacza przewodniczącego Komisji spośród jej członków oraz udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację o powołanych członkach Komisji, podając ich imiona i nazwiska.
+
+### 7[60) Dodany przez art. 5 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), która weszła w życie z dniem 10 czerwca 2022 r.](#gloss-0:60:).
+
+Komisja wybiera wiceprzewodniczącego Komisji spośród swoich członków.
+
+### Art. 35.
+
+### 1.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki odwołuje członka Komisji w przypadku zaistnienia którejkolwiek z okoliczności, o których mowa w art. 34 ust. 2.
+
+### 2.
+
+O zaistnieniu okoliczności, o których mowa w art. 34 ust. 2, członek Komisji niezwłocznie informuje ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 3.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki może odwołać członka Komisji w przypadku nieobecności na 4 kolejnych posiedzeniach Komisji.
+
+### 4.
+
+Kadencja członka Komisji wygasa w przypadku:
+
+### 1)
+
+śmierci;
+
+### 2)
+
+odwołania;
+
+### 3)
+
+zrzeczenia się członkostwa w Komisji.
+
+### 5.
+
+W przypadku konieczności uzupełnienia składu Komisji minister właściwy do spraw szkolnictwa wyższego i nauki powołuje nowego członka Komisji na okres do końca danej kadencji, z zachowaniem zasad, o których mowa w art. 34 ust. 1. Niepełnej kadencji nie wlicza się do okresu, o którym mowa w art. 34 ust. 4.
+
+### Art. 35a[61) Dodany przez art. 1 pkt 30 ustawy, o której mowa w odnośniku 2.](#gloss-0:61:).
+
+### 1.
+
+Obsługę Komisji zapewnia urząd obsługujący ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 2.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki jest administratorem danych osobowych przetwarzanych przez Komisję w związku z realizacją ustawowych zadań.
+
+### Art. 36.
+
+### 1.
+
+Do zadań lokalnej komisji należy:
+
+### 1)
+
+udzielanie zgody na:
+
+### a)
+
+przeprowadzanie doświadczenia, w tym na:
+
+- - ponowne wykorzystanie zwierzęcia w procedurze - w przypadku, o którym mowa w art. 12 ust. 2 pkt 2,
+
+- - [62) W brzmieniu ustalonym przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:62:) wykonanie procedury bez zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu - w przypadku, o którym mowa w art. 13 ust. 3,
+
+- - podanie zwierzęciu produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu - w przypadku, o którym mowa w art. 14 ust. 1 pkt 2,
+
+- - wykorzystanie w procedurze zwierząt, o których mowa w art. 7 oraz art. 8 ust. 1 pkt 2 i 3,
+
+- - [63) Dodane przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:63:) wykonanie procedury w miejscu innym niż ośrodek użytkownika - w przypadku, o którym mowa w art. 9 ust. 2 pkt 1,
+
+- - [63) Dodane przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:63:) wykonanie procedury w środowisku życia zwierzęcia dzikiego - w przypadku, o którym mowa w art. 9 ust. 2 pkt 2,
+
+- - [63) Dodane przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:63:) zastosowanie innej metody uśmiercenia zwierzęcia wykorzystywanego w procedurze niż metody określone w załączniku nr IV do dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych - w przypadku, o którym mowa w art. 16a,
+
+- - [63) Dodane przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:63:) niepodejmowanie czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu - w przypadku, o którym mowa w art. 8 ust. 4,
+
+### b)
+
+zmianę doświadczenia - w przypadku, o którym mowa w art. 51 ust. 1;
+
+### 2)
+
+cofanie udzielonej zgody na przeprowadzenie doświadczenia;
+
+### 3)
+
+sprawdzanie doświadczenia według kryteriów określonych w art. 53 ust. 2, zwane dalej „oceną retrospektywną”, oraz przechowywanie wyników oceny retrospektywnej;
+
+### 4)
+
+przekazywanie, na wniosek powiatowego lekarza weterynarii przeprowadzającego kontrolę użytkownika w zakresie doświadczeń, informacji niezbędnych do prawidłowego przeprowadzenia tej kontroli;
+
+### 5[64) W brzmieniu ustalonym przez art. 1 pkt 31 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:64:))
+
+przedkładanie Komisji Europejskiej nietechnicznych streszczeń doświadczeń i ich aktualizacji.
+
+### 2.
+
+Lokalna komisja, corocznie w terminie do dnia 31 marca, przekazuje:
+
+### 1[65) W brzmieniu ustalonym przez art. 1 pkt 31 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:65:))
+
+Komisji informacje o realizacji zadań lokalnej komisji, o których mowa w ust. 1;
+
+### 2[66) Ze zmianą wprowadzoną przez art. 1 pkt 31 lit. b tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:66:))
+
+ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacje dotyczące przeprowadzonych ocen retrospektywnych i udostępnionych nietechnicznych streszczeń doświadczeń.
+
+### 2a[67) Dodany przez art. 1 pkt 31 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:67:).
+
+Lokalna komisja przedkłada Komisji Europejskiej nietechniczne streszczenia doświadczeń i ich aktualizacje zgodnie z art. 43 ust. 2-4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych oraz art. 53 ust. 4 pkt 2.
+
+### 3.
+
+Lokalna komisja działa na podstawie regulaminu zatwierdzanego przez Komisję.
+
+### 4[68) Ze zmianą wprowadzoną przez art. 1 pkt 31 lit. d ustawy, o której mowa w odnośniku 2.](#gloss-0:68:).
+
+Do udostępniania nietechnicznych streszczeń doświadczeń i ich aktualizacji stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ([Dz. U. z 2022 r. poz. 2509](https://api.sejm.gov.pl/eli/acts/DU/2022/2509/text.html)) i ustawy z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ([Dz. U. z 2021 r. poz. 324](https://api.sejm.gov.pl/eli/acts/DU/2021/324/text.html) oraz [z 2022 r. poz. 2185](https://api.sejm.gov.pl/eli/acts/DU/2022/2185/text.html)).
+
+### Art. 37.
+
+### 1.
+
+Lokalna komisja składa się z 12 członków powoływanych i odwoływanych przez Komisję, w tym:
+
+### 1[69) W brzmieniu ustalonym przez art. 1 pkt 32 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:69:))
+
+6 osób posiadających co najmniej stopień naukowy doktora w zakresie nauk wymienionych w art. 34 ust. 1 pkt 1 lub tytuł zawodowy lekarza weterynarii oraz wiedzę lub doświadczenie w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 2[69) W brzmieniu ustalonym przez art. 1 pkt 32 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:69:))
+
+3 osób posiadających co najmniej tytuł zawodowy magistra i dorobek naukowy lub zawodowy z zakresu filozofii, etyki lub prawa, w szczególności związany z etycznymi lub prawnymi aspektami wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 3)
+
+3 przedstawicieli organizacji społecznych, których statutowym celem działania jest ochrona zwierząt.
+
+### 2[70) W brzmieniu ustalonym przez art. 5 pkt 2 lit. a ustawy, o której mowa w odnośniku 60.](#gloss-0:70:).
+
+Do członków lokalnej komisji stosuje się odpowiednio przepisy art. 34 ust. 2-4 i 7 oraz art. 35.
+
+### 3[71) Dodany przez art. 1 pkt 32 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:71:).
+
+Kadencja członka lokalnej komisji wygasa również w przypadku powołania go do Komisji, z dniem rozpoczęcia jego kadencji.
+
+### 4[72) Dodany przez art. 1 pkt 32 lit. b ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 5 pkt 2 lit. b ustawy, o której mowa w odnośniku 60.](#gloss-0:72:).
+
+Komisja wyznacza przewodniczących lokalnych komisji spośród ich członków oraz udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki informację o powołanych członkach lokalnych komisji, podając ich imiona i nazwiska.
+
+### Art. 38.
+
+### 1[73) W brzmieniu ustalonym przez art. 1 pkt 33 ustawy, o której mowa w odnośniku 2.](#gloss-0:73:).
+
+Członkowie Komisji i lokalnych komisji w wykonywaniu swoich obowiązków są niezależni od organów administracji publicznej, hodowców, dostawców i użytkowników oraz organizacji, których statutowym celem jest ochrona zwierząt.
+
+### 2[73) W brzmieniu ustalonym przez art. 1 pkt 33 ustawy, o której mowa w odnośniku 2.](#gloss-0:73:).
+
+Poza przypadkami określonymi w Kodeksie postępowania administracyjnego członek Komisji lub lokalnej komisji podlega wyłączeniu od udziału w postępowaniu w sprawach, o których mowa w art. 36 ust. 1 pkt 1-3, jeżeli jest osobą, która:
+
+### 1)
+
+zaplanowała i jest lub była odpowiedzialna za przeprowadzenie doświadczenia objętego postępowaniem w tych sprawach;
+
+### 2)
+
+wykonuje lub wykonywała doświadczenie objęte postępowaniem w tych sprawach albo uczestniczy lub uczestniczyła w przeprowadzaniu takiego doświadczenia.
+
+### 3.
+
+Do wyłączenia członka Komisji lub lokalnej komisji, o którym mowa w ust. 2, przepis art. 24 § 3 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+
+### 4.
+
+Członkowie Komisji i lokalnych komisji są obowiązani do nieujawniania informacji, które uzyskali w związku z wykonywaniem zadań określonych w art. 33 ust. 1 i art. 36 ust. 1 pkt 1 i 3. Obowiązek ten trwa także po ustaniu członkostwa w Komisji lub lokalnej komisji.
+
+### Art. 38a[74) Dodany przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 2.](#gloss-0:74:).
+
+Wnioski składane do lokalnych komisji w sprawach, o których mowa w art. 36 ust. 1 pkt 1, oraz protokoły z posiedzeń Komisji i lokalnych komisji nie stanowią informacji publicznej.
+
+### Art. 39.
+
+### 1.
+
+Działalność Komisji i lokalnych komisji jest finansowana z części budżetu państwa będącej w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 2[75) W brzmieniu ustalonym przez art. 1 pkt 35 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:75:).
+
+Członkom Komisji i lokalnych komisji przysługuje:
+
+### 1)
+
+wynagrodzenie za udział w posiedzeniu tych komisji;
+
+### 2)
+
+zwrot kosztów podróży związanych z realizacją zadań tych komisji na zasadach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2022 r. poz. 1510](https://api.sejm.gov.pl/eli/acts/DU/2022/1510/text.html), [1700](https://api.sejm.gov.pl/eli/acts/DU/2022/1700/text.html) i [2140](https://api.sejm.gov.pl/eli/acts/DU/2022/2140/text.html)).
+
+### 3[76) Dodany przez art. 1 pkt 35 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:76:).
+
+Finansowanie, o którym mowa w ust. 1, obejmuje koszty związane z realizacją zadań Komisji i lokalnych komisji, w tym koszty wynagrodzeń i podróży, o których mowa w ust. 2, oraz koszty obsługi Komisji i lokalnych komisji.
+
+### Art. 40[77) W brzmieniu ustalonym przez art. 1 pkt 36 ustawy, o której mowa w odnośniku 2.](#gloss-0:77:).
+
+W zakresie nieuregulowanym niniejszą ustawą do postępowań administracyjnych prowadzonych przez Komisję i przez lokalne komisje w sprawach, o których mowa w art. 36 ust. 1 pkt 1 i 2, stosuje się przepisy Kodeksu postępowania administracyjnego.
+
+### Art. 40a[78) Dodany przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 60.](#gloss-0:78:).
+
+Uchwały podjęte przez:
+
+### 1)
+
+Komisję - podpisuje przewodniczący Komisji, a w przypadku jego nieobecności - wiceprzewodniczący Komisji;
+
+### 2)
+
+lokalną komisję - podpisuje przewodniczący lokalnej komisji, a w przypadku jego nieobecności - wiceprzewodniczący lokalnej komisji.
+
+### Art. 41[77) W brzmieniu ustalonym przez art. 1 pkt 36 ustawy, o której mowa w odnośniku 2.](#gloss-0:77:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+### 1)
+
+liczbę lokalnych komisji, ich siedziby i właściwość miejscową, mając na uwadze potrzebę zapewnienia sprawnej realizacji zadań tych komisji, liczbę i lokalizację użytkowników, a także liczbę przeprowadzanych przez nich doświadczeń;
+
+### 2)
+
+tryb zgłaszania kandydatów na członków Komisji i lokalnych komisji oraz powoływania ich członków, mając na uwadze wymagania określone dla kandydatów na członków tych komisji;
+
+### 3)
+
+wzór zgłoszenia kandydata na członka Komisji i lokalnej komisji, mając na uwadze potrzebę ujednolicenia informacji zawartych w tym zgłoszeniu;
+
+### 4)
+
+tryb funkcjonowania Komisji i lokalnych komisji, mając na uwadze zakres zadań tych komisji oraz potrzebę zapewnienia warunków do sprawnego wykonywania tych zadań;
+
+### 5)
+
+sposób finansowania działalności Komisji i lokalnych komisji, mając na uwadze potrzebę zapewnienia ich sprawnego działania;
+
+### 6)
+
+wysokość wynagrodzenia członków Komisji i lokalnych komisji oraz sposób jego wypłacania, mając na uwadze funkcje pełnione przez członków tych komisji oraz potrzebę zapewnienia sprawnej wypłaty wynagrodzeń.
+
+### Rozdział 6 Zasady przeprowadzania doświadczeń
+
+### Art. 42.
+
+Doświadczenia przeprowadza się po uzyskaniu zgody lokalnej komisji wydawanej na wniosek użytkownika.
+
+### Art. 43.
+
+### 1.
+
+Użytkownik składa wniosek o udzielenie zgody na przeprowadzenie doświadczenia do lokalnej komisji właściwej ze względu na lokalizację ośrodka, w którym ma być przeprowadzone doświadczenie.
+
+### 2[79) W brzmieniu ustalonym przez art. 1 pkt 37 ustawy, o której mowa w odnośniku 2.](#gloss-0:79:).
+
+W przypadku doświadczenia przeprowadzanego w więcej niż jednym ośrodku lub poza ośrodkiem użytkownik składa wniosek do lokalnej komisji właściwej ze względu na lokalizację siedziby lub miejsca zamieszkania użytkownika, zatrudniającego osobę, która zaplanowała doświadczenie i jest odpowiedzialna za jego przeprowadzenie.
+
+### 3.
+
+Wzór wniosku, opracowany przez Komisję, jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### Art. 44.
+
+### 1.
+
+Wniosek o udzielenie zgody na przeprowadzenie doświadczenia zawiera:
+
+### 1)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, z tym że w przypadku gdy użytkownikiem jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 2)
+
+wskazanie ośrodka, w którym doświadczenie będzie przeprowadzane, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem - miejsca jego przeprowadzania, wraz z uzasadnieniem dla przeprowadzenia doświadczenia poza ośrodkiem;
+
+### 3)
+
+opis doświadczenia ze wskazaniem celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku jego przeprowadzenia;
+
+### 4)
+
+uzasadnienie wykorzystania zwierząt do przeprowadzenia doświadczenia, ze wskazaniem miejsca ich pochodzenia, liczby, gatunków, wieku lub stadiów rozwoju;
+
+### 5)
+
+opis warunków, w jakich będą utrzymywane zwierzęta wykorzystywane w doświadczeniu;
+
+### 6)
+
+opis planowanych procedur objętych doświadczeniem, uzasadnienie dla ich wykonania oraz proponowaną kategorię dotkliwości;
+
+### 7)
+
+imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia, oraz jej kwalifikacje;
+
+### 8)
+
+imiona i nazwiska osób przeprowadzających doświadczenie i uczestniczących w doświadczeniu oraz ich kwalifikacje;
+
+### 9)
+
+opis sposobu uwzględnienia w doświadczeniu zasad zastąpienia, ograniczenia i udoskonalenia;
+
+### 10)
+
+wskazanie planowanych do zastosowania u zwierząt wykorzystywanych w doświadczeniu:
+
+### a)
+
+rodzajów znieczulenia,
+
+### b)
+
+produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu;
+
+### 11[80) W brzmieniu ustalonym przez art. 1 pkt 38 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:80:))
+
+uzasadnienie naukowe dla odstąpienia od zastosowania znieczulenia ogólnego lub miejscowego, produktów leczniczych lub produktów leczniczych weterynaryjnych o działaniu przeciwbólowym lub innych metod, w szczególności środków uspokajających, zapewniających zmniejszenie do minimum bólu, cierpienia lub dystresu - w przypadku, o którym mowa w art. 13 ust. 3;
+
+### 12)
+
+uzasadnienie dla podania zwierzęciu podczas wykorzystywania w procedurze produktów leczniczych lub produktów leczniczych weterynaryjnych, które uniemożliwiają lub utrudniają okazywanie bólu - w przypadku, o którym mowa w art. 14 ust. 1;
+
+### 13)
+
+wskazanie, czy będzie zastosowane wczesne i humanitarne zakończenie procedury - w przypadku, o którym mowa w art. 6 ust. 1;
+
+### 14)
+
+wskazanie planowanych metod uśmiercenia zwierząt;
+
+### 14a[81) Dodany przez art. 1 pkt 38 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:81:))
+
+uzasadnienie naukowe wyboru metody uśmiercenia - w przypadku, o którym mowa w art. 16a;
+
+### 15)
+
+uzasadnienie planowanego ponownego wykorzystania zwierzęcia w procedurze - w przypadku określonym w art. 12 ust. 2 pkt 2;
+
+### 16)
+
+uzasadnienie konieczności ponownego wykonania procedury objętej doświadczeniem - w przypadku, o którym mowa w art. 5 ust. 3;
+
+### 17)
+
+uzasadnienie wykorzystania zwierząt, o których mowa w art. 7 oraz art. 8 ust. 1 pkt 2 i 3;
+
+### 18)
+
+planowaną datę rozpoczęcia i zakończenia doświadczenia.
+
+### 2.
+
+W przypadku gdy:
+
+### 1)
+
+w planowanym doświadczeniu mają być wykorzystane zwierzęta dzikie:
+
+### a[82) W brzmieniu ustalonym przez art. 1 pkt 38 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:82:))
+
+we wniosku podaje się imię i nazwisko oraz opis doświadczenia osoby, która pozyska te zwierzęta, oraz metody ich pozyskania,
+
+### b)
+
+objęte ochroną gatunkową - do wniosku dołącza się oświadczenie o uzyskaniu zezwolenia, o którym mowa w art. 56 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody,
+
+### c[83) Dodana przez art. 1 pkt 38 lit. b tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:83:))
+
+do wniosku dołącza się uzasadnienie naukowe dla niepodejmowania czynności minimalizujących u zwierząt ból, cierpienie, dystres lub trwałe uszkodzenie ich organizmu - w przypadku, o którym mowa w art. 8 ust. 4;
+
+### 2)
+
+planowane doświadczenie ma być przeprowadzone z wykorzystaniem zwierzęcia w sposób określony w art. 12, do wniosku dołącza się zgodę lekarza weterynarii na ponowne wykorzystanie tego zwierzęcia.
+
+### Art. 45.
+
+### 1.
+
+Do wniosku o udzielenie zgody na przeprowadzenie doświadczenia dołącza się nietechniczne streszczenie doświadczenia, które zawiera:
+
+### 1)
+
+określenie:
+
+### a)
+
+naukowych lub edukacyjnych celów doświadczenia, w tym przewidywanych szkód, jakie może ono spowodować u wykorzystywanych zwierząt, i korzyści, jakie przyniesie ono dla rozwoju nauki i dydaktyki, w zakresie określonym w art. 3,
+
+### b)
+
+liczby i gatunków zwierząt, które mają być wykorzystane w tym doświadczeniu;
+
+### 2)
+
+opis sposobu uwzględnienia w doświadczeniu zasad zastąpienia, ograniczenia i udoskonalenia.
+
+### 1a[84) Dodany przez art. 1 pkt 39 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:84:).
+
+Nietechniczne streszczenie doświadczenia i jego aktualizację sporządza się:
+
+### 1)
+
+w sposób zrozumiały dla osoby nieposiadającej wiedzy i doświadczenia w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 2)
+
+zgodnie ze wzorem określonym przez Komisję Europejską w przepisach wydanych na podstawie art. 43 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
+
+### 2[85) W brzmieniu ustalonym przez art. 1 pkt 39 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:85:).
+
+Wzór nietechnicznego streszczenia doświadczenia i jego aktualizacji, o którym mowa w ust. 1a pkt 2, jest udostępniany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### Art. 46.
+
+### 1.
+
+W przypadku gdy doświadczenie obejmuje procedury, które spełniają łącznie następujące warunki:
+
+### 1)
+
+zostały zakwalifikowane do kategorii terminalne, bez odzyskania przytomności, łagodne lub umiarkowane;
+
+### 2)
+
+nie wykorzystuje się w nich zwierząt z rzędu naczelnych;
+
+### 3)
+
+obowiązek ich przeprowadzenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, lub wykorzystuje się w nich zwierzęta do celów produkcyjnych lub diagnostycznych za pomocą ustalonych metod
+
+- użytkownik może złożyć uproszczony wniosek o udzielenie zgody na przeprowadzenie doświadczenia.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera:
+
+### 1)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, z tym że w przypadku gdy wnioskodawcą jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 2)
+
+wskazanie ośrodka, w którym będzie przeprowadzane doświadczenie, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem - miejsce jego przeprowadzenia wraz z uzasadnieniem dla przeprowadzenia doświadczenia poza ośrodkiem;
+
+### 3)
+
+opis doświadczenia ze wskazaniem celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku jego przeprowadzenia;
+
+### 4)
+
+imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia, oraz jej kwalifikacje;
+
+### 5)
+
+wskazanie przepisów, z których wynika obowiązek przeprowadzenia doświadczenia, lub celów produkcyjnych lub diagnostycznych uzasadniających jego przeprowadzenie;
+
+### 6)
+
+informację o pochodzeniu, liczbie, gatunkach, wieku i stadiach rozwoju zwierząt planowanych do wykorzystania w doświadczeniu;
+
+### 7)
+
+opis planowanych procedur objętych doświadczeniem oraz proponowaną kategorię ich dotkliwości;
+
+### 8)
+
+planowaną datę rozpoczęcia i zakończenia doświadczenia;
+
+### 9[86) W brzmieniu ustalonym przez art. 1 pkt 40 ustawy, o której mowa w odnośniku 2.](#gloss-0:86:))
+
+informacje, o których mowa w art. 44 ust. 1 pkt 5 i 8-17.
+
+### Art. 46a[87) Dodany przez art. 1 pkt 41 ustawy, o której mowa w odnośniku 2.](#gloss-0:87:).
+
+### 1.
+
+Lokalna komisja niezwłocznie potwierdza użytkownikowi złożenie wniosku o udzielenie zgody na przeprowadzenie doświadczenia.
+
+### 2.
+
+Potwierdzenie złożenia wniosku o udzielenie zgody na przeprowadzenie doświadczenia zawiera wskazanie:
+
+### 1)
+
+daty wpływu wniosku;
+
+### 2)
+
+numeru wniosku;
+
+### 3)
+
+terminu rozpatrzenia wniosku, z zastrzeżeniem że termin ten może ulec przedłużeniu w przypadku stwierdzenia, że złożony wniosek zawiera braki formalne.
+
+### Art. 47.
+
+### 1.
+
+Przed udzieleniem zgody na przeprowadzenie doświadczenia lokalna komisja ocenia, czy:
+
+### 1)
+
+cel naukowy lub edukacyjny uzasadnia przeprowadzenie tego doświadczenia lub obowiązek jego przeprowadzenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności;
+
+### 2)
+
+doświadczenie będzie przeprowadzone zgodnie z zasadami zastąpienia, ograniczenia i udoskonalenia, w szczególności czy planowane wyniki przeprowadzenia tego doświadczenia uzasadniają wykorzystanie w nim zwierząt;
+
+### 3)
+
+procedury objęte doświadczeniem zostały prawidłowo zakwalifikowane do kategorii wymienionych w art. 10 ust. 1;
+
+### 4)
+
+informacje, o których mowa w art. 44 ust. 1 pkt 2, 11, 12 i 15-17, stanowią podstawę do udzielenia zgody na przeprowadzenie doświadczenia w miejscu lub w sposób określony we wniosku;
+
+### 5)
+
+stosunek szkodliwości doświadczenia do ostatecznych korzyści z niego płynących dla ludzi, zwierząt lub środowiska jest uzasadniony, uwzględniając, czy cierpienie, ból i dystres u zwierząt są uzasadnione oczekiwanym wynikiem doświadczenia oraz biorąc pod uwagę względy etyczne;
+
+### 6)
+
+doświadczenie powinno być poddane ocenie retrospektywnej i w jakim terminie;
+
+### 7[88) Dodany przez art. 1 pkt 42 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:88:))
+
+doświadczenie jest zaplanowane tak, aby umożliwić wykonywanie procedur w sposób możliwie najbardziej humanitarny i przyjazny dla środowiska;
+
+### 8[88) Dodany przez art. 1 pkt 42 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:88:))
+
+informacje zawarte w nietechnicznym streszczeniu doświadczenia są zgodne z informacjami zawartymi we wniosku o wyrażenie zgody na przeprowadzenie doświadczenia oraz czy nietechniczne streszczenie doświadczenia zostało sporządzone zgodnie z art. 45 ust. 1a.
+
+### 2.
+
+Lokalna komisja, przeprowadzając ocenę doświadczenia, kieruje się wiedzą specjalistyczną, w szczególności dotyczącą:
+
+### 1[89) W brzmieniu ustalonym przez art. 1 pkt 42 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:89:))
+
+dziedzin nauki, w ramach których jest planowane przeprowadzenie doświadczenia, w tym stosowania zasad zastąpienia, ograniczenia i udoskonalenia w tych dziedzinach;
+
+### 2)
+
+planowania doświadczeń, z uwzględnieniem analizy statystycznej - w przypadku gdy jest to uzasadnione;
+
+### 3)
+
+praktyki lekarsko-weterynaryjnej w zakresie zwierząt wykorzystywanych w doświadczeniu;
+
+### 4)
+
+hodowli zwierząt wykorzystywanych w doświadczeniu i opieki nad nimi.
+
+### 3.
+
+(uchylony)[90) Przez art. 1 pkt 42 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:90:)
+
+### Art. 48.
+
+### 1.
+
+Lokalna komisja, po dokonaniu oceny doświadczenia zgodnie z art. 47 ust. 1 i 2, podejmuje uchwałę o:
+
+### 1)
+
+udzieleniu zgody na przeprowadzenie doświadczenia;
+
+### 2)
+
+odmowie udzielenia zgody na przeprowadzenie doświadczenia.
+
+### 2.
+
+Lokalna komisja przekazuje wnioskodawcy uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia albo uchwałę o odmowie udzielenia zgody na przeprowadzenie doświadczenia w terminie 40 dni roboczych od dnia otrzymania wniosku spełniającego wymagania określone w art. 44 ust. 1 albo art. 46 ust. 2.
+
+### 3.
+
+Jeżeli jest to uzasadnione złożonością lub wielodyscyplinarnym charakterem doświadczenia, lokalna komisja może raz przedłużyć termin, o którym mowa w ust. 2, nie więcej jednak niż o 15 dni roboczych, zawiadamiając o tym wnioskodawcę przed upływem tego terminu i wskazując przyczyny uzasadniające to przedłużenie.
+
+### 4.
+
+Przepisu ust. 3 nie stosuje się do rozpatrywania wniosku, o którym mowa w art. 46 ust. 1.
+
+### 5.
+
+Lokalna komisja podejmuje uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby członków.
+
+### 6.
+
+Jeżeli uchwała o udzieleniu zgody na przeprowadzenie doświadczenia nie uzyskała wymaganej większości głosów, lokalna komisja odmawia udzielenia zgody na przeprowadzenie doświadczenia.
+
+### Art. 49.
+
+### 1.
+
+Uchwała o udzieleniu zgody na przeprowadzenie doświadczenia zawiera:
+
+### 1)
+
+imię i nazwisko oraz adres i miejsce zamieszkania albo nazwę oraz adres i siedzibę użytkownika, który przeprowadzi to doświadczenie, z tym że w przypadku gdy użytkownikiem jest osoba fizyczna wykonująca działalność gospodarczą, zamiast adresu i miejsca zamieszkania tej osoby - adres i miejsce wykonywania działalności, jeżeli są inne niż adres i miejsce zamieszkania tej osoby;
+
+### 2)
+
+imię i nazwisko osoby, która zaplanowała i jest odpowiedzialna za przeprowadzenie doświadczenia;
+
+### 3)
+
+określenie warunków przeprowadzenia doświadczenia - zgodnie z opisem tego doświadczenia zawartym we wniosku o udzielenie zgody na jego przeprowadzenie;
+
+### 4)
+
+wskazanie ośrodka, w którym będzie przeprowadzane doświadczenie, a w przypadku gdy doświadczenie będzie przeprowadzane poza ośrodkiem - miejsca jego przeprowadzenia;
+
+### 5)
+
+określenie terminu, w jakim doświadczenie zostanie poddane ocenie retrospektywnej - w przypadku gdy doświadczenie będzie poddane takiej ocenie.
+
+### 2.
+
+W przypadku gdy w doświadczeniu mają być wykorzystane zwierzęta dzikie, w uchwale o udzieleniu zgody na przeprowadzenie doświadczenia podaje się imię i nazwisko osoby, która pozyska te zwierzęta, oraz sposób ich pozyskania.
+
+### 3.
+
+Zgoda na przeprowadzenie doświadczenia jest udzielana na czas określony, nie dłuższy niż 5 lat.
+
+### Art. 50[91) Ze zmianą wprowadzoną przez art. 1 pkt 43 ustawy, o której mowa w odnośniku 2.](#gloss-0:91:).
+
+W przypadku gdy obowiązek przeprowadzenia doświadczenia wynika z przepisów, w szczególności dotyczących pasz, produktów biobójczych, produktów leczniczych, substancji chemicznych, środków ochrony roślin, wyrobów medycznych lub żywności, lub gdy w doświadczeniu zwierzęta są wykorzystywane do celów produkcyjnych lub diagnostycznych za pomocą ustalonych metod, uchwała o udzieleniu zgody na przeprowadzenie doświadczenia może obejmować więcej niż jedno takie doświadczenie przeprowadzane przez tego samego użytkownika.
+
+### Art. 51.
+
+### 1.
+
+Wprowadzenie w doświadczeniu zmiany, która może mieć negatywny wpływ na dobrostan wykorzystywanych zwierząt, wymaga uzyskania zgody lokalnej komisji, udzielanej na wniosek użytkownika zamierzającego ją wprowadzić, złożony do lokalnej komisji, która udzieliła zgody na przeprowadzenie tego doświadczenia.
+
+### 2.
+
+Wniosek, o którym mowa w ust. 1, zawiera uzasadnienie dla dokonania zmiany określonej w ust. 1. Do wniosku dołącza się nietechniczne streszczenie doświadczenia uwzględniające zmiany planowane w doświadczeniu.[92) Zdanie drugie dodane przez art. 1 pkt 44 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:92:)
+
+### 3[93) Ze zmianą wprowadzoną przez art. 1 pkt 44 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:93:).
+
+Lokalna komisja dokonuje ponownej oceny doświadczenia zgodnie z art. 47 ust. 1 i 2, z uwzględnieniem wpływu zmiany, o której mowa w ust. 1, na dobrostan zwierząt. Do przechowywania wyników ponownej oceny doświadczenia stosuje się przepis art. 52a.
+
+### 4.
+
+W przypadku gdy lokalna komisja odmówi udzielenia zgody na wprowadzenie w doświadczeniu zmiany określonej w ust. 1, doświadczenie może być przeprowadzone zgodnie z wcześniej udzieloną zgodą.
+
+### Art. 51a[94) Dodany przez art. 1 pkt 45 ustawy, o której mowa w odnośniku 2.](#gloss-0:94:).
+
+### 1.
+
+Członek lokalnej komisji, który przy podejmowaniu uchwały w sprawie zgody na przeprowadzenie albo zmianę doświadczenia zgłaszał zastrzeżenia i nie zgodził się z większością, może zgłosić zawierające te zastrzeżenia pisemne zdanie odrębne i, w terminie 3 dni roboczych od dnia podjęcia uchwały, dołączyć jego pisemne uzasadnienie. Zdanie odrębne może być zgłoszone wspólnie przez członków lokalnej komisji.
+
+### 2.
+
+Uzasadnienie zdania odrębnego obejmuje wskazanie przyczyn jego zgłoszenia i przepisów, które w ocenie zgłaszającego zdanie odrębne zostały naruszone przez podjęcie uchwały w sprawie zgody na przeprowadzenie albo zmianę doświadczenia.
+
+### Art. 51b[94) Dodany przez art. 1 pkt 45 ustawy, o której mowa w odnośniku 2.](#gloss-0:94:).
+
+### 1.
+
+Lokalna komisja, na wniosek powiatowego lekarza weterynarii, o którym mowa w art. 60, podejmuje uchwałę o cofnięciu udzielonej zgody na przeprowadzenie doświadczenia.
+
+### 2.
+
+W przypadku cofnięcia udzielonej zgody na przeprowadzenie doświadczenia do zwierząt wykorzystywanych lub przeznaczonych do wykorzystania w tym doświadczeniu stosuje się przepisy art. 3b, art. 11 ust. 2 i 3, art. 12 i art. 15.
+
+### 3.
+
+Zwierzęta, o których mowa w ust. 2, mogą być przeznaczone do wykorzystania w innych doświadczeniach.
+
+### Art. 52.
+
+### 1[95) W brzmieniu ustalonym przez art. 1 pkt 46 ustawy, o której mowa w odnośniku 2.](#gloss-0:95:).
+
+Użytkownik prowadzi dokumentację dotyczącą doświadczenia, w tym:
+
+### 1)
+
+wniosek o udzielenie zgody na jego przeprowadzenie, wniosek, o którym mowa w art. 51 ust. 1, uchwałę o udzieleniu zgody na przeprowadzenie doświadczenia, uchwałę o udzieleniu zgody na zmianę doświadczenia oraz uchwałę o odmowie udzielenia zgody na zmianę doświadczenia - i przechowuje tę dokumentację przez 3 lata od dnia wygaśnięcia zgody na przeprowadzenie doświadczenia, a w przypadku dokumentacji dotyczącej przeprowadzenia doświadczenia, które podlega ocenie retrospektywnej - do czasu zakończenia tej oceny, nie krócej jednak niż przez 3 lata od dnia wygaśnięcia zgody na jego przeprowadzenie;
+
+### 2)
+
+uchwałę o cofnięciu zgody na przeprowadzenie doświadczenia i uchwałę o odmowie udzielenia zgody na przeprowadzenie doświadczenia - i przechowuje je przez 3 lata od dnia ich wydania.
+
+### 2.
+
+Po zakończeniu doświadczenia, które podlega ocenie retrospektywnej, użytkownik niezwłocznie przekazuje lokalnej komisji dokumentację, o której mowa w ust. 1.
+
+### Art. 52a[96) Dodany przez art. 1 pkt 47 ustawy, o której mowa w odnośniku 2.](#gloss-0:96:).
+
+Lokalna komisja przechowuje dokumentację rozpatrywanych spraw, w tym wyniki oceny, o której mowa w art. 47, uchwały o udzieleniu zgody na przeprowadzenie doświadczenia, uchwały o udzieleniu zgody na zmianę doświadczenia, uchwały o odmowie udzielenia zgody na zmianę doświadczenia i uchwały o cofnięciu zgody na przeprowadzenie doświadczenia, przez 3 lata od dnia wygaśnięcia zgody na przeprowadzenie doświadczenia, a w przypadku niewydania zgody na przeprowadzenie doświadczenia - od dnia zakończenia postępowania w sprawie jej udzielenia.
+
+### Art. 53.
+
+### 1.
+
+Lokalna komisja, na podstawie dokumentacji przekazanej przez użytkownika, przeprowadza ocenę retrospektywną w przypadku doświadczeń:
+
+### 1)
+
+w których są wykorzystywane zwierzęta z rzędu naczelnych;
+
+### 2)
+
+obejmujących procedurę zakwalifikowaną do kategorii dotkliwa.
+
+### 2[97) W brzmieniu ustalonym przez art. 1 pkt 48 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:97:).
+
+W ramach oceny retrospektywnej lokalna komisja ocenia:
+
+### 1)
+
+czy zostały zrealizowane cele naukowe lub edukacyjne doświadczenia;
+
+### 2)
+
+szkody wyrządzone wykorzystanym zwierzętom, uwzględniając liczby i gatunki tych zwierząt oraz dotkliwość procedur;
+
+### 3)
+
+czy wnioski wynikające z przeprowadzonego doświadczenia mogą przyczynić się do dalszego wdrażania zasad zastąpienia, ograniczenia i udoskonalenia.
+
+### 2a[98) Dodany przez art. 1 pkt 48 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:98:).
+
+Lokalna komisja może wystąpić do użytkownika o przedstawienie wyjaśnień dotyczących przekazanej dokumentacji, o której mowa w art. 52 ust. 1, w zakresie niezbędnym do przeprowadzenia oceny retrospektywnej.
+
+### 3.
+
+Lokalna komisja może przeprowadzić ocenę retrospektywną także w przypadkach innych niż określone w ust. 1, gdy wynika to z oceny wniosku o udzielenie zgody na przeprowadzenie doświadczenia, w tym planowanych procedur objętych doświadczeniem, proponowanej kategorii ich dotkliwości, celu naukowego lub edukacyjnego, jaki planuje się osiągnąć w wyniku przeprowadzenia doświadczenia, a także liczby, gatunków, wieku i stadiów rozwoju zwierząt, które planuje się wykorzystać w doświadczeniu.
+
+### 4[99) W brzmieniu ustalonym przez art. 1 pkt 48 lit. c ustawy, o której mowa w odnośniku 2.](#gloss-0:99:).
+
+Lokalna komisja:
+
+### 1)
+
+niezwłocznie po przeprowadzeniu oceny retrospektywnej:
+
+### a)
+
+przekazuje użytkownikowi wyniki tej oceny,
+
+### b)
+
+zwraca użytkownikowi dokumentację, o której mowa w ust. 1;
+
+### 2)
+
+przedkłada Komisji Europejskiej aktualizację nietechnicznego streszczenia ocenionego doświadczenia nie później niż w terminie 6 miesięcy od dnia przeprowadzenia oceny retrospektywnej.
+
+### 5.
+
+Lokalna komisja przechowuje wyniki oceny retrospektywnej przez 3 lata od dnia zakończenia tej oceny.
+
+### Rozdział 7 Kontrola
+
+### Art. 54.
+
+### 1.
+
+Powiatowy lekarz weterynarii właściwy ze względu na lokalizację ośrodka przeprowadza kontrolę hodowców, dostawców i użytkowników w zakresie prowadzonej przez nich działalności objętej wpisem do rejestru.
+
+### 1a[100) Dodany przez art. 1 pkt 49 lit. a ustawy, o której mowa w odnośniku 2.](#gloss-0:100:).
+
+W przypadku gdy hodowca, dostawca ani użytkownik nie posiadają ośrodka, ich kontrolę przeprowadza powiatowy lekarz weterynarii właściwy ze względu na siedzibę albo miejsce zamieszkania hodowcy, dostawcy lub użytkownika.
+
+### 2.
+
+W przypadku gdy doświadczenie jest przeprowadzane poza ośrodkiem, kontrolę użytkownika przeprowadza powiatowy lekarz weterynarii właściwy dla miejsca, w którym jest ono przeprowadzane.
+
+### 3[101) Ze zmianą wprowadzoną przez art. 1 pkt 49 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:101:).
+
+Przeprowadzenie kontroli, o której mowa w ust. 1-2, ma na celu sprawdzenie, czy działalność prowadzona przez hodowcę, dostawcę i użytkownika jest zgodna z zasadami określonymi w rozdziale 2 i wymaganiami określonymi w rozdziałach 3, 4 i 6.
+
+### 4.
+
+Częstotliwość kontroli ustala się na podstawie analizy ryzyka, z tym że:
+
+### 1)
+
+hodowców, dostawców i użytkowników zwierząt z rzędu naczelnych poddaje się kontroli co najmniej raz w roku;
+
+### 2)
+
+co roku:
+
+### a)
+
+co najmniej jedną trzecią kontroli przeprowadza się bez uprzedzenia,
+
+### b)
+
+poddaje się kontroli co najmniej jedną trzecią użytkowników.
+
+### 5.
+
+Analizę ryzyka, o której mowa w ust. 4, przeprowadza się z uwzględnieniem:
+
+### 1)
+
+liczby i gatunków zwierząt utrzymywanych w ośrodkach;
+
+### 2)
+
+dotychczasowego przestrzegania przez hodowców, dostawców i użytkowników przepisów ustawy, w tym informacji o ich nieprzestrzeganiu;
+
+### 3)
+
+liczby i rodzajów przeprowadzanych doświadczeń - w przypadku użytkowników.
+
+### Art. 55[102) W brzmieniu ustalonym przez art. 1 pkt 50 ustawy, o której mowa w odnośniku 2.](#gloss-0:102:).
+
+### 1.
+
+Kontrolę użytkownika w zakresie doświadczeń powiatowy lekarz weterynarii może przeprowadzić z udziałem eksperta wybranego z listy ekspertów, o której mowa w ust. 6, posiadającego wykształcenie i wiedzę lub doświadczenie w zakresie ochrony zwierząt, psychologii zwierząt, dobrostanu zwierząt lub wykorzystywania zwierząt do celów naukowych lub edukacyjnych, które pozwolą na efektywne i prawidłowe przeprowadzenie kontroli. Do udziału eksperta w kontroli stosuje się przepisy art. 19 ust. 3 pkt 4 i 5 oraz ust. 4 i 5 ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej ([Dz. U. z 2022 r. poz. 2629](https://api.sejm.gov.pl/eli/acts/DU/2022/2629/text.html) i [2727](https://api.sejm.gov.pl/eli/acts/DU/2022/2727/text.html)).
+
+### 2.
+
+Ekspertem, o którym mowa w ust. 1, może być osoba, która posiada co najmniej stopień naukowy doktora.
+
+### 3.
+
+Ekspertem, o którym mowa w ust. 1, nie może być osoba:
+
+### 1)
+
+skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+
+### 2)
+
+ukarana prawomocnym orzeczeniem komisji dyscyplinarnej lub sądu orzekającego w przedmiocie odpowiedzialności zawodowej.
+
+### 4.
+
+Kandydat na eksperta, o którym mowa w ust. 1, składa ministrowi właściwemu do spraw szkolnictwa wyższego i nauki zgłoszenie zgodne ze wzorem określonym w przepisach wydanych na podstawie ust. 11 pkt 4 i dołącza do niego oświadczenie o braku okoliczności, o których mowa w ust. 3.
+
+### 5.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki wpisuje na listę ekspertów biorących udział w kontrolach osobę, która spełnia wymagania określone w ust. 1-3 oraz złoży zgłoszenie zgodnie z ust. 4.
+
+### 6.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki prowadzi listę ekspertów biorących udział w kontrolach, zawierającą następujące dane eksperta:
+
+### 1)
+
+imię i nazwisko;
+
+### 2)
+
+określenie wykształcenia i wiedzy lub doświadczenia w zakresie ochrony zwierząt, psychologii zwierząt, dobrostanu zwierząt lub wykorzystywania zwierząt do celów naukowych lub edukacyjnych;
+
+### 3)
+
+adres poczty elektronicznej lub numer telefonu.
+
+### 7.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia listę, o której mowa w ust. 6, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, z wyłączeniem danych eksperta, o których mowa w ust. 6 pkt 3. Dane eksperta, o których mowa w ust. 6 pkt 3, minister właściwy do spraw szkolnictwa wyższego i nauki udostępnia wyłącznie powiatowemu lekarzowi weterynarii, na jego wniosek, w celu przeprowadzenia kontroli użytkownika.
+
+### 8.
+
+Ekspert wpisany na listę, o której mowa w ust. 6, niezwłocznie informuje ministra właściwego do spraw szkolnictwa wyższego i nauki o zaistnieniu którejkolwiek z okoliczności, o których mowa w ust. 3, oraz o zmianie danych, o których mowa w ust. 6.
+
+### 9.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki wykreśla eksperta z listy, o której mowa w ust. 6, na jego wniosek albo w przypadku uzyskania informacji o zaistnieniu którejkolwiek z okoliczności, o których mowa w ust. 3, lub o jego śmierci.
+
+### 10.
+
+Ekspertowi za udział w kontroli przysługuje wynagrodzenie oraz zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie ust. 11 oraz art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy. Koszty związane z udziałem eksperta w kontroli są finansowane z budżetu państwa z części będącej w dyspozycji ministra właściwego do spraw szkolnictwa wyższego i nauki.
+
+### 11.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+
+### 1)
+
+sposób prowadzenia listy, o której mowa w ust. 6, mając na uwadze potrzebę zapewnienia jej aktualności;
+
+### 2)
+
+wysokość wynagrodzenia ekspertów, o których mowa w ust. 1, mając na uwadze potrzebę uwzględnienia ich kwalifikacji i nakładu pracy;
+
+### 3)
+
+sposób finansowania kosztów związanych z udziałem eksperta w kontroli, mając na uwadze potrzebę właściwego udokumentowania tych kosztów i przejrzystości ich finansowania;
+
+### 4)
+
+wzór zgłoszenia kandydata na eksperta, o którym mowa w ust. 1, mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji zamieszczanych w zgłoszeniu.
+
+### Art. 55a[103) Dodany przez art. 1 pkt 51 ustawy, o której mowa w odnośniku 2.](#gloss-0:103:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki lub Komisja może wystąpić do powiatowego lekarza weterynarii z wnioskiem o przeprowadzenie kontroli, o której mowa w art. 54 ust. 1.
+
+### Art. 56.
+
+### 1.
+
+Powiatowy lekarz weterynarii w zakresie wykonywanych zadań, o których mowa w art. 54, współpracuje z lokalną komisją, a w szczególności przed przeprowadzeniem kontroli, o której mowa w art. 55 ust. 1, może on wystąpić do lokalnej komisji z wnioskiem o przekazanie informacji niezbędnych do prawidłowego przeprowadzenia kontroli.
+
+### 2.
+
+Lokalna komisja może wystąpić do powiatowego lekarza weterynarii z wnioskiem o przeprowadzenie kontroli, o której mowa w art. 54 ust. 1.
+
+### Art. 57.
+
+### 1.
+
+Powiatowy lekarz weterynarii nakazuje, w drodze decyzji administracyjnej, wstrzymanie przeprowadzania doświadczenia w przypadku stwierdzenia w toku kontroli, że procedura, w której są wykorzystywane zwierzęta, nie jest objęta doświadczeniem, na którego przeprowadzenie została udzielona zgoda.
+
+### 2.
+
+W przypadku gdy użytkownik wykonuje procedury objęte doświadczeniem niezgodnie z warunkami określonymi w zgodzie na jego przeprowadzenie lub nie uzyskał zgody, o której mowa w art. 51 ust. 1, powiatowy lekarz weterynarii:
+
+### 1)
+
+wyznacza termin na usunięcie stwierdzonych nieprawidłowości;
+
+### 2)
+
+nakazuje, w drodze decyzji administracyjnej, wstrzymanie wykonywania procedury albo przeprowadzania doświadczenia do czasu usunięcia stwierdzonych nieprawidłowości, jeżeli mogą one narażać zwierzęta na niepotrzebny ból, cierpienie lub dystres.
+
+### 3.
+
+Decyzje, o których mowa w ust. 1 i ust. 2 pkt 2, podlegają natychmiastowemu wykonaniu.
+
+### Art. 58[104) W brzmieniu ustalonym przez art. 1 pkt 52 ustawy, o której mowa w odnośniku 2.](#gloss-0:104:).
+
+W przypadku gdy hodowca, dostawca lub użytkownik prowadzi działalność niezgodnie z wymaganiami określonymi w art. 17, art. 18, art. 20, art. 21, art. 21b, art. 23-25 lub w przepisach wydanych na podstawie art. 19, powiatowy lekarz weterynarii wyznacza termin na usunięcie stwierdzonych nieprawidłowości.
+
+### Art. 59.
+
+### 1.
+
+W przypadku nieusunięcia przez hodowcę, dostawcę lub użytkownika w wyznaczonym terminie stwierdzonych nieprawidłowości, o których mowa w art. 58, powiatowy lekarz weterynarii wydaje decyzję administracyjną stwierdzającą niespełnianie wymagań do prowadzenia działalności, o której mowa w art. 26.
+
+### 2.
+
+Powiatowy lekarz weterynarii niezwłocznie przekazuje ostateczną decyzję, o której mowa w ust. 1, ministrowi właściwemu do spraw szkolnictwa wyższego i nauki wraz z wnioskiem o wykreślenie hodowcy, dostawcy lub użytkownika z rejestru.
+
+### Art. 60.
+
+W przypadku nieusunięcia przez użytkownika w wyznaczonym terminie stwierdzonych nieprawidłowości, o których mowa w art. 57 ust. 2 pkt 1, powiatowy lekarz weterynarii występuje do lokalnej komisji z wnioskiem o cofnięcie zgody, o której mowa w art. 48 ust. 1 pkt 1.
+
+### Art. 60a[105) Dodany przez art. 1 pkt 53 ustawy, o której mowa w odnośniku 2.](#gloss-0:105:).
+
+### 1.
+
+Powiatowy lekarz weterynarii, w drodze decyzji administracyjnej, stwierdza rażące naruszenie wymagań określonych dla wykonywania danego rodzaju działalności objętej wpisem do rejestru, jeżeli w wyniku kontroli ustali:
+
+### 1)
+
+trzy naruszenia wymagań określonych w art. 17, art. 18 lub w przepisach wydanych na podstawie art. 19 stwierdzone w czasie jednej kontroli albo w czasie co najmniej dwóch kontroli, mające znaczący negatywny wpływ na dobrostan zwierząt, lub
+
+### 2)
+
+niespełnianie wymagania określonego w art. 23 przez co najmniej trzy miesiące w okresie objętym kontrolą, lub
+
+### 3)
+
+przeprowadzenie doświadczenia bez uzyskania zgody na jego przeprowadzenie.
+
+### 2.
+
+Powiatowy lekarz weterynarii niezwłocznie przekazuje ostateczną i prawomocną decyzję, o której mowa w ust. 1, ministrowi właściwemu do spraw szkolnictwa wyższego i nauki wraz z wnioskiem o wykreślenie hodowcy, dostawcy lub użytkownika z rejestru.
+
+### Art. 60b[105) Dodany przez art. 1 pkt 53 ustawy, o której mowa w odnośniku 2.](#gloss-0:105:).
+
+Powiatowy lekarz weterynarii przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informację o zaprzestaniu wykonywania działalności przez hodowcę, dostawcę lub użytkownika w przypadku innym niż zawieszenie wykonywania tej działalności.
+
+### Art. 61[106) Ze zmianą wprowadzoną przez art. 1 pkt 54 ustawy, o której mowa w odnośniku 2.](#gloss-0:106:).
+
+Powiatowy lekarz weterynarii przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki i Komisji informację o stwierdzonych naruszeniach będących podstawą do wymierzenia kary pieniężnej, o której mowa w art. 69 ust. 1 i 4, wraz z protokołem kontroli.
+
+### Art. 62.
+
+Główny Lekarz Weterynarii, na podstawie informacji przekazanych przez powiatowych lekarzy weterynarii, corocznie składa ministrowi właściwemu do spraw szkolnictwa wyższego i nauki oraz Komisji sprawozdanie z przeprowadzonych kontroli, nie później niż do dnia 30 czerwca.
+
+### Art. 63.
+
+W sprawach nieuregulowanych w ustawie do przeprowadzania kontroli stosuje się przepisy ustawy z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej.
+
+### Rozdział 8 Współpraca z Komisją Europejską i państwami członkowskimi Unii Europejskiej
+
+### Art. 64.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki pełni rolę krajowego punktu kontaktowego i współpracuje z Komisją Europejską oraz organami innych niż Rzeczpospolita Polska państw członkowskich Unii Europejskiej w zakresie ochrony zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
+
+### Art. 65[107) W brzmieniu ustalonym przez art. 1 pkt 55 ustawy, o której mowa w odnośniku 2.](#gloss-0:107:).
+
+### 1.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki, na podstawie informacji przekazanych przez Komisję, lokalne komisje, hodowców, dostawców, użytkowników i Głównego Lekarza Weterynarii, przekazuje Komisji Europejskiej informacje, o których mowa w art. 54 ust. 1-3 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych, zgodnie z tymi przepisami i przepisami wydanymi na podstawie art. 54 ust. 4 tej dyrektywy.
+
+### 2.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki corocznie, w terminie do dnia 31 sierpnia, po zasięgnięciu opinii Komisji, zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informacje dotyczące:
+
+### 1)
+
+liczby, gatunków i pochodzenia zwierząt wykorzystywanych w procedurach;
+
+### 2)
+
+celów i rodzajów doświadczeń, w których były wykorzystywane zwierzęta;
+
+### 3)
+
+przypadków ponownego wykorzystania zwierząt w procedurach;
+
+### 4)
+
+kategorii procedur i liczby zmian w zakresie ich kwalifikacji z podaniem przyczyny tych zmian.
+
+### 3.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki corocznie określa oraz zamieszcza w Biuletynie Informacji Publicznej na swojej stronie podmiotowej:
+
+### 1)
+
+nie później niż przed rozpoczęciem okresu sprawozdawczego - szczegółowy zakres informacji, o których mowa w ust. 1,
+
+### 2)
+
+nie później niż przed zakończeniem okresu sprawozdawczego - tryb przekazywania informacji, o których mowa w ust. 1, i wzory formularzy, na których te informacje będą przekazywane
+
+- mając na uwadze potrzebę zapewnienia prawidłowości i kompletności informacji przekazywanych Komisji Europejskiej, a także przepisy wydane na podstawie art. 54 ust. 4 dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych.
+
+### Rozdział 9 Przepisy karne
+
+### Art. 66.
+
+### 1.
+
+Kto w związku z prowadzoną działalnością w zakresie wykorzystywania zwierząt do celów naukowych lub edukacyjnych:
+
+### 1)
+
+naraża zwierzęta na niepotrzebny ból, cierpienie, dystres lub trwałe uszkodzenie organizmu,
+
+### 2)
+
+wykorzystuje zwierzęta w procedurach objętych doświadczeniem bez uzyskania zgody na ich wykorzystanie
+
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+### 2.
+
+Kto w przypadkach, o których mowa w ust. 1, powoduje śmierć zwierzęcia podlega karze pozbawienia wolności do lat 3.
+
+### Art. 67.
+
+### 1.
+
+Kto uniemożliwia lub utrudnia przeprowadzenie kontroli na podstawie przepisów ustawy podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+### 2.
+
+Tej samej karze podlega, kto wykorzystuje informacje uzyskane w związku z kontrolą do celów innych niż ochrona zwierząt wykorzystywanych do celów naukowych lub edukacyjnych.
+
+### Art. 68.
+
+W sprawach o przestępstwa określone w art. 66 ust. 1 pkt 1, prawa pokrzywdzonego może wykonywać organizacja społeczna, której statutowym celem działania jest ochrona zwierząt.
+
+### Rozdział 10 Kary administracyjne
+
+### Art. 69.
+
+### 1.
+
+Karze pieniężnej podlega hodowca, dostawca lub użytkownik, który:
+
+### 1)
+
+prowadzi działalność bez uzyskania wpisu do rejestru, o którym mowa w art. 26;
+
+### 2)
+
+nie zapewnia zwierzętom utrzymywanym w ośrodku warunków określonych w art. 17, art. 18 lub w przepisach wydanych na podstawie art. 19;
+
+### 3)
+
+nie wyznacza osób, o których mowa w art. 20 i art. 21, lub wyznacza osoby niespełniające wymagań określonych w art. 20 i art. 21, lub nie wyznacza osoby, o której mowa w art. 24 ust. 1, lub wyznacza osobę niespełniającą wymagań określonych w art. 24 ust. 2;
+
+### 4[108) W brzmieniu ustalonym przez art. 1 pkt 56 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:108:))
+
+wbrew obowiązkowi określonemu w art. 23 nie zawiera z lekarzem weterynarii umowy o świadczenie usług weterynaryjnych lub z ekspertem posiadającym doświadczenie niezbędne do świadczenia usług doradczych w zakresie dobrostanu i leczenia zwierząt utrzymywanych lub wykorzystywanych w ramach działalności hodowcy, dostawcy lub użytkownika umowy o świadczenie takich usług w odniesieniu do gatunków tych zwierząt;
+
+### 5[108) W brzmieniu ustalonym przez art. 1 pkt 56 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:108:))
+
+wbrew obowiązkowi określonemu w art. 25 ust. 1 nie ustanawia zespołu do spraw dobrostanu zwierząt albo wyznacza do tego zespołu osobę niespełniającą albo osoby niespełniające wymagań określonych w art. 21 ust. 1 lub art. 24 ust. 2, albo z takimi osobami zawiera umowę o wykonywanie zadań w ramach zespołu;
+
+### 6[108) W brzmieniu ustalonym przez art. 1 pkt 56 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:108:))
+
+nie zapewnia sporządzenia lub przekazania dokumentacji, o której mowa w art. 25 ust. 7;
+
+### 7[108) W brzmieniu ustalonym przez art. 1 pkt 56 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2.](#gloss-0:108:))
+
+nie przechowuje dokumentacji, o której mowa w art. 25 ust. 7, przez okres wskazany w art. 25 ust. 8 pkt 1;
+
+### 8)
+
+nie prowadzi ewidencji zwierząt, o której mowa w art. 30 ust. 1, prowadzi tę ewidencję niezgodnie z wymaganiami określonymi w tym przepisie lub nie przechowuje danych zawartych w tej ewidencji zgodnie z art. 30 ust. 2;
+
+### 9)
+
+nie dokonuje oznakowania psa, kota lub zwierzęcia z rzędu naczelnych lub dokonuje tego oznakowania niezgodnie z wymaganiami określonymi w art. 31 ust. 1 i 2;
+
+### 10[109) Dodany przez art. 1 pkt 56 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:109:))
+
+wbrew obowiązkowi określonemu w art. 25 ust. 8 pkt 2 nie przekazuje Komisji informacji dotyczących wykonywania zadań określonych w art. 25 ust. 2;
+
+### 11[109) Dodany przez art. 1 pkt 56 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:109:))
+
+wbrew obowiązkom określonym w art. 30 ust. 4 albo 5 nie przekazuje ministrowi właściwemu do spraw szkolnictwa wyższego i nauki informacji, o których mowa w tych przepisach;
+
+### 12[109) Dodany przez art. 1 pkt 56 lit. a tiret drugie ustawy, o której mowa w odnośniku 2.](#gloss-0:109:))
+
+uśmierca zwierzę niezgodnie z wymaganiami określonymi w art. 3b albo zgodą lokalnej komisji, o której mowa w art. 16a.
+
+### 2.
+
+(uchylony)[110) Przez art. 1 pkt 56 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:110:)
+
+### 3.
+
+(uchylony)[110) Przez art. 1 pkt 56 lit. b ustawy, o której mowa w odnośniku 2.](#gloss-0:110:)
+
+### 4.
+
+Karze pieniężnej podlega użytkownik, który:
+
+### 1)
+
+przeprowadza doświadczenie bez uzyskania zgody na jego przeprowadzenie lub niezgodnie z warunkami określonymi w uchwale o udzieleniu zgody na przeprowadzenie doświadczenia;
+
+### 2)
+
+nie prowadzi lub nie przechowuje dokumentacji dotyczącej przeprowadzania doświadczenia, o której mowa w art. 52 ust. 1, lub nie przekazuje tej dokumentacji lokalnej komisji w przypadku, o którym mowa w art. 52 ust. 2.
+
+### Art. 70.
+
+### 1.
+
+Karę pieniężną za naruszenia, o których mowa w art. 69, nakłada się w wysokości od 1000 zł do 50 000 zł.
+
+### 2.
+
+Przy ustalaniu wysokości kary uwzględnia się:
+
+### 1)
+
+rodzaj i okoliczności naruszenia;
+
+### 2)
+
+wpływ naruszenia na powstanie u zwierząt niepotrzebnego bólu, cierpienia, dystresu lub trwałego uszkodzenia organizmu;
+
+### 3)
+
+okres trwania naruszenia;
+
+### 4)
+
+dotychczasową działalność hodowcy, dostawcy i użytkownika.
+
+### 3[111) Dodany przez art. 1 pkt 57 ustawy, o której mowa w odnośniku 2.](#gloss-0:111:).
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki przy ustalaniu wysokości kary może zasięgnąć opinii Komisji w zakresie, o którym mowa w ust. 2 pkt 2.
+
+### Art. 71.
+
+### 1.
+
+Kary pieniężne wymierza, w drodze decyzji administracyjnej, minister właściwy do spraw szkolnictwa wyższego i nauki.
+
+### 2.
+
+Kary pieniężne stanowią dochód budżetu państwa i są uiszczane na rachunek bankowy ministra właściwego do spraw szkolnictwa wyższego i nauki, w terminie 14 dni od dnia, w którym decyzja o nałożeniu kary stała się ostateczna.
+
+### 3.
+
+Egzekucja wymierzonej kary pieniężnej wraz z odsetkami za zwłokę następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+
+### 4.
+
+W zakresie nieuregulowanym w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ([Dz. U. z 2022 r. poz. 2651](https://api.sejm.gov.pl/eli/acts/DU/2022/2651/text.html) i [2707](https://api.sejm.gov.pl/eli/acts/DU/2022/2707/text.html)).
+
+### Art. 72[112) Ze zmianą wprowadzoną przez art. 1 pkt 58 ustawy, o której mowa w odnośniku 2.](#gloss-0:112:).
+
+Nie można nałożyć kary pieniężnej, jeżeli od dnia popełnienia czynu, o którym mowa w art. 69 ust. 1 i 4, upłynęło 5 lat.
+
+### Rozdział 11 Zmiany w przepisach obowiązujących
+
+### Art. 73-76.
+
+(pominięte)
+
+### Rozdział 12 Przepisy przejściowe i końcowe
+
+### Art. 77.
+
+### 1.
+
+Z dniem wejścia w życie niniejszej ustawy wpisane do wykazów, o których mowa w art. 22 ustawy uchylanej w art. 83:
+
+### 1)
+
+jednostki hodowlane w rozumieniu art. 2 pkt 9 ustawy uchylanej w art. 83 stają się hodowcami w rozumieniu niniejszej ustawy;
+
+### 2)
+
+jednostki doświadczalne w rozumieniu art. 2 pkt 10 ustawy uchylanej w art. 83 stają się użytkownikami w rozumieniu niniejszej ustawy;
+
+### 3)
+
+dostawcy w rozumieniu art. 2 pkt 11 ustawy uchylanej w art. 83 stają się dostawcami w rozumieniu niniejszej ustawy.
+
+### 2.
+
+Minister właściwy do spraw nauki z urzędu wpisuje jednostki hodowlane, jednostki doświadczalne i dostawców, o których mowa w ust. 1, do rejestru, o którym mowa w art. 26.
+
+### Art. 78.
+
+### 1.
+
+Doświadczenia, na których przeprowadzenie została wyrażona zgoda przed dniem wejścia w życie niniejszej ustawy, przeprowadza się na podstawie dotychczasowych przepisów, nie dłużej jednak niż do dnia 1 stycznia 2018 r.
+
+### 2.
+
+Dokumentację dotyczącą zwierząt, o których mowa w art. 11 ust. 3 ustawy uchylanej w art. 83, hodowca, dostawca lub użytkownik przechowuje przez 3 lata od dnia oznakowania tych zwierząt.
+
+### 3.
+
+Ewidencję zwierząt doświadczalnych prowadzoną na podstawie art. 19 ust. 1 ustawy uchylanej w art. 83 użytkownik przechowuje przez 3 lata od dnia dokonania w niej ostatniego wpisu.
+
+### 4.
+
+Dokumentację dotyczącą doświadczeń, prowadzoną na podstawie art. 21 ustawy uchylanej w art. 83, użytkownik przechowuje przez 3 lata od dnia zakończenia przeprowadzania doświadczenia.
+
+### Art. 79.
+
+### 1.
+
+Do postępowań w sprawie wydania zgody na przeprowadzenie doświadczenia, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Doświadczenia, na których przeprowadzenie została wyrażona zgoda w postępowaniach, o których mowa w ust. 1, przeprowadza się na podstawie dotychczasowych przepisów, nie dłużej jednak niż do dnia 1 stycznia 2018 r.
+
+### Art. 80.
+
+### 1.
+
+Krajowa Komisja Etyczna i lokalne komisje etyczne powołane na podstawie przepisów ustawy uchylanej w art. 83, wykonują zadania Komisji i lokalnych komisji do czasu powołania członków tych komisji na podstawie przepisów niniejszej ustawy.
+
+### 2.
+
+Minister właściwy do spraw nauki powoła członków Komisji w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 3.
+
+Komisja powoła członków lokalnych komisji w terminie 6 miesięcy od dnia powołania przez ministra właściwego do spraw nauki członków tej Komisji.
+
+### 4.
+
+Do okresu, o którym mowa w art. 34 ust. 4, nie wlicza się kadencji rozpoczętych przed dniem wejścia w życie niniejszej ustawy.
+
+### 5.
+
+Lokalne komisje etyczne powołane na podstawie przepisów ustawy uchylanej w art. 83 przekażą dokumentację:
+
+### 1)
+
+dotyczącą wyrażenia zgody na przeprowadzenie doświadczeń,
+
+### 2)
+
+związaną z nadzorem sprawowanym nad przeprowadzaniem doświadczeń
+
+- wskazanym przez Komisję powołaną na podstawie przepisów niniejszej ustawy lokalnym komisjom powołanym na podstawie przepisów niniejszej ustawy, w terminie miesiąca od dnia powołania tych lokalnych komisji.
+
+### Art. 81.
+
+### 1.
+
+Minister właściwy do spraw szkolnictwa wyższego i nauki przekaże Komisji Europejskiej po raz pierwszy dane, o których mowa w art. 65 ust. 1:
+
+### 1)
+
+pkt 1 - do dnia 10 listopada 2015 r.;
+
+### 2)
+
+pkt 2 - do dnia 10 listopada 2018 r.
+
+### 2.
+
+Użytkownik przekaże ministrowi właściwemu do spraw nauki po raz pierwszy informacje, o których mowa w art. 30 ust. 4, do dnia 30 września 2015 r.
+
+### Art. 82.
+
+### 1.
+
+Przepisy wykonawcze wydane na podstawie art. 11 ust. 7, art. 16 ust. 5 i art. 31 ust. 5 ustawy uchylanej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 22, art. 31 ust. 3 i art. 41, jednak nie dłużej niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### 2.
+
+Przepisy wykonawcze wydane na podstawie art. 10 ust. 5 pkt 1 ustawy uchylanej w art. 83 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 19, jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+
+### Art. 83.
+
+Traci moc ustawa z dnia 21 stycznia 2005 r. o doświadczeniach na zwierzętach ([Dz. U. poz. 289](https://api.sejm.gov.pl/eli/acts/DU/2005/289/text.html), z późn. zm.[113) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 1225 i 1600, z 2009 r. poz. 97 oraz z 2011 r. poz. 322 i 622.](#gloss-0:113:)).
+
+### Art. 84.
+
+Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[114) Ustawa została ogłoszona w dniu 26 lutego 2015 r.](#gloss-0:114:).
+
+1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2010/63/UE z dnia 22 września 2010 r. w sprawie ochrony zwierząt wykorzystywanych do celów naukowych (Dz. Urz. UE L 276 z 20.10.2010, str. 33). 2) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret pierwsze ustawy z dnia 17 listopada 2021 r. o zmianie ustawy o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych (Dz. U. poz. 2338), która weszła w życie z dniem 1 stycznia 2022 r. 3) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2. 4) Przez art. 1 pkt 1 lit. a tiret pierwsze podwójne tiret trzecie ustawy, o której mowa w odnośniku 2. 5) W brzmieniu ustalonym przez art. 1 pkt 1 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 6) Ze zmianą wprowadzoną przez art. 1 pkt 1 lit. a tiret trzecie podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2. 7) Dodany przez art. 1 pkt 1 lit. a tiret trzecie podwójne tiret drugie ustawy, o której mowa w odnośniku 2. 8) Przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 2. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 583, 655, 682, 807, 1010, 1079, 1117, 1459, 2185 i 2306. 10) Dodany przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 2. 11) Zmiany wymienionej dyrektywy zostały ogłoszone w Dz. Urz. UE L 170 z 25.06.2019, str. 115. 12) W brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 2. 13) Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 2. 14) W brzmieniu ustalonym przez art. 1 pkt 4 lit. a ustawy, o której mowa w odnośniku 2. 15) Przez art. 1 pkt 4 lit. b ustawy, o której mowa w odnośniku 2. 16) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2. 17) W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 2. 18) Dodany przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 2. 19) W brzmieniu ustalonym przez art. 1 pkt 7 lit. a ustawy, o której mowa w odnośniku 2. 20) Przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 2. 21) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 2. 22) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 9 lit. a ustawy, o której mowa w odnośniku 2. 23) Część wspólna w brzmieniu ustalonym przez art. 1 pkt 9 lit. b ustawy, o której mowa w odnośniku 2. 24) Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 1 pkt 10 ustawy, o której mowa w odnośniku 2. 25) Przez art. 1 pkt 11 ustawy, o której mowa w odnośniku 2. 26) Dodany przez art. 1 pkt 12 ustawy, o której mowa w odnośniku 2. 27) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 13 ustawy, o której mowa w odnośniku 2. 28) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 14 lit. a ustawy, o której mowa w odnośniku 2. 29) W brzmieniu ustalonym przez art. 1 pkt 14 lit. b ustawy, o której mowa w odnośniku 2. 30) W brzmieniu ustalonym przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 2. 31) Oznaczenie ust. 1 nadane przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 2. 32) Wprowadzenie do wyliczenia ze zmianą wprowadzoną przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 2. 33) Dodany przez art. 1 pkt 16 lit. b ustawy, o której mowa w odnośniku 2. 34) W brzmieniu ustalonym przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 2. 35) Dodany przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 2. 36) W brzmieniu ustalonym przez art. 1 pkt 19 ustawy, o której mowa w odnośniku 2. 37) Dodany przez art. 1 pkt 20 ustawy, o której mowa w odnośniku 2. 38) W brzmieniu ustalonym przez art. 1 pkt 21 ustawy, o której mowa w odnośniku 2. 39) W brzmieniu ustalonym przez art. 1 pkt 22 lit. a ustawy, o której mowa w odnośniku 2. 40) W brzmieniu ustalonym przez art. 1 pkt 22 lit. b ustawy, o której mowa w odnośniku 2. 41) W brzmieniu ustalonym przez art. 1 pkt 23 lit. a ustawy, o której mowa w odnośniku 2. 42) Przez art. 1 pkt 23 lit. b ustawy, o której mowa w odnośniku 2. 43) Dodany przez art. 1 pkt 24 ustawy, o której mowa w odnośniku 2. 44) Ze zmianą wprowadzoną przez art. 1 pkt 25 lit. a ustawy, o której mowa w odnośniku 2. 45) Ze zmianą wprowadzoną przez art. 1 pkt 25 lit. b ustawy, o której mowa w odnośniku 2. 46) Dodany przez art. 1 pkt 25 lit. c ustawy, o której mowa w odnośniku 2. 47) W brzmieniu ustalonym przez art. 1 pkt 26 ustawy, o której mowa w odnośniku 2. 48) W brzmieniu ustalonym przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 2. 49) Dodany przez art. 1 pkt 28 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2. 50) W brzmieniu ustalonym przez art. 1 pkt 28 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 51) Dodany przez art. 1 pkt 28 lit. a tiret trzecie ustawy, o której mowa w odnośniku 2. 52) Dodany przez art. 1 pkt 28 lit. b ustawy, o której mowa w odnośniku 2. 53) W brzmieniu ustalonym przez art. 1 pkt 28 lit. c ustawy, o której mowa w odnośniku 2. 54) Ze zmianą wprowadzoną przez art. 1 pkt 28 lit. d ustawy, o której mowa w odnośniku 2. 55) W brzmieniu ustalonym przez art. 1 pkt 28 lit. e ustawy, o której mowa w odnośniku 2. 56) W brzmieniu ustalonym przez art. 1 pkt 29 lit. a ustawy, o której mowa w odnośniku 2. 57) W brzmieniu ustalonym przez art. 1 pkt 29 lit. b ustawy, o której mowa w odnośniku 2. 58) Dodany przez art. 1 pkt 29 lit. c ustawy, o której mowa w odnośniku 2. 59) Ze zmianą wprowadzoną przez art. 1 pkt 29 lit. d ustawy, o której mowa w odnośniku 2. 60) Dodany przez art. 5 pkt 1 ustawy z dnia 12 maja 2022 r. o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce oraz niektórych innych ustaw (Dz. U. poz. 1117), która weszła w życie z dniem 10 czerwca 2022 r. 61) Dodany przez art. 1 pkt 30 ustawy, o której mowa w odnośniku 2. 62) W brzmieniu ustalonym przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret pierwsze ustawy, o której mowa w odnośniku 2. 63) Dodane przez art. 1 pkt 31 lit. a tiret pierwsze podwójne tiret drugie ustawy, o której mowa w odnośniku 2. 64) W brzmieniu ustalonym przez art. 1 pkt 31 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 65) W brzmieniu ustalonym przez art. 1 pkt 31 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2. 66) Ze zmianą wprowadzoną przez art. 1 pkt 31 lit. b tiret drugie ustawy, o której mowa w odnośniku 2. 67) Dodany przez art. 1 pkt 31 lit. c ustawy, o której mowa w odnośniku 2. 68) Ze zmianą wprowadzoną przez art. 1 pkt 31 lit. d ustawy, o której mowa w odnośniku 2. 69) W brzmieniu ustalonym przez art. 1 pkt 32 lit. a ustawy, o której mowa w odnośniku 2. 70) W brzmieniu ustalonym przez art. 5 pkt 2 lit. a ustawy, o której mowa w odnośniku 60. 71) Dodany przez art. 1 pkt 32 lit. b ustawy, o której mowa w odnośniku 2. 72) Dodany przez art. 1 pkt 32 lit. b ustawy, o której mowa w odnośniku 2; w brzmieniu ustalonym przez art. 5 pkt 2 lit. b ustawy, o której mowa w odnośniku 60. 73) W brzmieniu ustalonym przez art. 1 pkt 33 ustawy, o której mowa w odnośniku 2. 74) Dodany przez art. 1 pkt 34 ustawy, o której mowa w odnośniku 2. 75) W brzmieniu ustalonym przez art. 1 pkt 35 lit. a ustawy, o której mowa w odnośniku 2. 76) Dodany przez art. 1 pkt 35 lit. b ustawy, o której mowa w odnośniku 2. 77) W brzmieniu ustalonym przez art. 1 pkt 36 ustawy, o której mowa w odnośniku 2. 78) Dodany przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 60. 79) W brzmieniu ustalonym przez art. 1 pkt 37 ustawy, o której mowa w odnośniku 2. 80) W brzmieniu ustalonym przez art. 1 pkt 38 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2. 81) Dodany przez art. 1 pkt 38 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 82) W brzmieniu ustalonym przez art. 1 pkt 38 lit. b tiret pierwsze ustawy, o której mowa w odnośniku 2. 83) Dodana przez art. 1 pkt 38 lit. b tiret drugie ustawy, o której mowa w odnośniku 2. 84) Dodany przez art. 1 pkt 39 lit. a ustawy, o której mowa w odnośniku 2. 85) W brzmieniu ustalonym przez art. 1 pkt 39 lit. b ustawy, o której mowa w odnośniku 2. 86) W brzmieniu ustalonym przez art. 1 pkt 40 ustawy, o której mowa w odnośniku 2. 87) Dodany przez art. 1 pkt 41 ustawy, o której mowa w odnośniku 2. 88) Dodany przez art. 1 pkt 42 lit. a ustawy, o której mowa w odnośniku 2. 89) W brzmieniu ustalonym przez art. 1 pkt 42 lit. b ustawy, o której mowa w odnośniku 2. 90) Przez art. 1 pkt 42 lit. c ustawy, o której mowa w odnośniku 2. 91) Ze zmianą wprowadzoną przez art. 1 pkt 43 ustawy, o której mowa w odnośniku 2. 92) Zdanie drugie dodane przez art. 1 pkt 44 lit. a ustawy, o której mowa w odnośniku 2. 93) Ze zmianą wprowadzoną przez art. 1 pkt 44 lit. b ustawy, o której mowa w odnośniku 2. 94) Dodany przez art. 1 pkt 45 ustawy, o której mowa w odnośniku 2. 95) W brzmieniu ustalonym przez art. 1 pkt 46 ustawy, o której mowa w odnośniku 2. 96) Dodany przez art. 1 pkt 47 ustawy, o której mowa w odnośniku 2. 97) W brzmieniu ustalonym przez art. 1 pkt 48 lit. a ustawy, o której mowa w odnośniku 2. 98) Dodany przez art. 1 pkt 48 lit. b ustawy, o której mowa w odnośniku 2. 99) W brzmieniu ustalonym przez art. 1 pkt 48 lit. c ustawy, o której mowa w odnośniku 2. 100) Dodany przez art. 1 pkt 49 lit. a ustawy, o której mowa w odnośniku 2. 101) Ze zmianą wprowadzoną przez art. 1 pkt 49 lit. b ustawy, o której mowa w odnośniku 2. 102) W brzmieniu ustalonym przez art. 1 pkt 50 ustawy, o której mowa w odnośniku 2. 103) Dodany przez art. 1 pkt 51 ustawy, o której mowa w odnośniku 2. 104) W brzmieniu ustalonym przez art. 1 pkt 52 ustawy, o której mowa w odnośniku 2. 105) Dodany przez art. 1 pkt 53 ustawy, o której mowa w odnośniku 2. 106) Ze zmianą wprowadzoną przez art. 1 pkt 54 ustawy, o której mowa w odnośniku 2. 107) W brzmieniu ustalonym przez art. 1 pkt 55 ustawy, o której mowa w odnośniku 2. 108) W brzmieniu ustalonym przez art. 1 pkt 56 lit. a tiret pierwsze ustawy, o której mowa w odnośniku 2. 109) Dodany przez art. 1 pkt 56 lit. a tiret drugie ustawy, o której mowa w odnośniku 2. 110) Przez art. 1 pkt 56 lit. b ustawy, o której mowa w odnośniku 2. 111) Dodany przez art. 1 pkt 57 ustawy, o której mowa w odnośniku 2. 112) Ze zmianą wprowadzoną przez art. 1 pkt 58 ustawy, o której mowa w odnośniku 2. 113) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. poz. 1225 i 1600, z 2009 r. poz. 97 oraz z 2011 r. poz. 322 i 622. 114) Ustawa została ogłoszona w dniu 26 lutego 2015 r.

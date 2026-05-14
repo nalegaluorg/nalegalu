@@ -8,11 +8,9 @@ pos: 1961
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników
-
-*USTAWA dnia 16 listopada 2016 o zmianie niektórych ustaw celu ułatwienia sprzedaży żywności przez rolników*
+# Ustawa z dnia 16 listopada 2016 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego oraz ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,82 +22,1212 @@ domain: null
 | Data ogłoszenia | 2016-11-16 |
 | Data wydania | 2016-12-05 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001961) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1961/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2016/1961/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2016/1961) |
 
-**Art. 1.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2012 361, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 2.** W ustawie dnia 4 września 1997 o działach administracji rządowej (Dz. U. 2016 543, późn. zm. ) 22 ust. 1 pkt 5 otrzymuje brzmienie: „5) nadzoru nad jakością zdrowotną:
+### Art. 1.
 
-**Art. 3.** W ustawie dnia 20 listopada 1998 o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 930, późn. zm. ) wprowadza się następujące zmiany:
+W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ([Dz. U. z 2012 r. poz. 361](https://api.sejm.gov.pl/eli/acts/DU/2012/361/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929, 1010, 1206, 1550, 1860, 1926, 1933 i 1948.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 21 grudnia 2000 o jakości handlowej artykułów rolno-spożywczych (Dz. U. 2016 1604 1948) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 5.** W ustawie dnia 29 stycznia 2004 o Inspekcji Weterynaryjnej (Dz. U. 2016 1077 1948) wprowadza się następujące zmiany:
+w art. 20:
 
-**Art. 6.** W ustawie dnia 16 grudnia 2005 o produktach pochodzenia zwierzęcego (Dz. U. 2014 1577, 1893 2016 1605) wprowadza się następujące zmiany:
+### a)
 
-**Art. 7.** W ustawie dnia 25 sierpnia 2006 o bezpieczeństwie żywności żywienia (Dz. U. 594, późn. zm. ) wprowadza się następujące zmiany:
+ust. 1c-1e otrzymują brzmienie:
 
-**Art. 44a.**
+„
 
-1. Produkcja zbywanie żywności ramach rolniczego handlu detalicznego:
+### 1c.
 
-- **1)** mogą być dokonywane ilościach dostosowanych do potrzeb konsumentów;
-- **2)** nie mogą stanowić zagrożenia dla bezpieczeństwa żywności wpływać niekorzystnie na ochronę zdrowia publicznego;
-- **3)** podlegają nadzorowi organów odpowiednio Państwowej Inspekcji Sanitarnej albo Inspekcji Weterynaryjnej;
-- **5)** nie mogą być dokonywane udziałem pośrednika, wyjątkiem zbywania takiej żywności podczas wystaw, festynów, targów lub kiermaszy, organizowanych celu promocji żywności, jeżeli pośrednik zbywa żywność:
-    - **a)** wyprodukowaną przez tego pośrednika ramach rolniczego handlu detalicznego,
-    - **b)** wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, którym pośrednik ten prowadzi produkcję żywności ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego tym powiatem.
+Za przychody z innych źródeł, o których mowa w art. 10 ust. 1 pkt 9, uważa się również przychody ze sprzedaży przetworzonych w sposób inny niż przemysłowy produktów roślinnych i zwierzęcych, z wyjątkiem przetworzonych produktów roślinnych i zwierzęcych uzyskanych w ramach prowadzonych działów specjalnych produkcji rolnej oraz produktów opodatkowanych podatkiem akcyzowym na podstawie odrębnych przepisów, jeżeli:
 
-2. W miejscu zbywania żywności ramach rolniczego handlu detalicznego umieszcza się sposób czytelny widoczny dla konsumenta:
+### 1)
 
-- **1)** napis „rolniczy handel detaliczny”;
-- **2)** dane obejmujące:
-    - **a)** imię nazwisko albo nazwę siedzibę podmiotu prowadzącego rolniczy handel detaliczny,
-    - **b)** adres miejsca prowadzenia produkcji tej żywności,
-    - **c)** weterynaryjny numer identyfikacyjny podmiotu prowadzącego rolniczy handel detaliczny, o ile taki numer został nadany.
+sprzedaż nie jest wykonywana na rzecz osób prawnych, jednostek organizacyjnych nieposiadających osobowości prawnej lub na rzecz osób fizycznych na potrzeby prowadzonej przez nie pozarolniczej działalności gospodarczej;
 
-3. Minister właściwy do spraw rolnictwa porozumieniu ministrem właściwym do spraw zdrowia określi, drodze rozporządzenia, maksymalną ilość żywności zbywaną ramach rolniczego handlu detalicznego zakres sposób dokumentowania tej ilości, mając na względzie potrzeby konsumentów, rodzaj zbywanej żywności ochronę zdrowia publicznego, tym zapewnienie bezpieczeństwa tej żywności.
+### 2)
 
-4. Minister właściwy do spraw rolnictwa porozumieniu ministrem właściwym do spraw zdrowia może określić, drodze rozporządzenia, szczegółowy sposób oznakowania miejsca zbywania żywności, ramach rolniczego handlu detalicznego, mając na względzie zapewnienie informacji o żywności zbywanej ramach rolniczego handlu detalicznego podmiotach prowadzących ten handel ochronę zdrowia publicznego.”;
+przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów przez rolnika prowadzącego działalność w ramach rolniczego handlu detalicznego;
 
-- **3)** 61 pkt 3 otrzymuje brzmienie: „3) produkują lub wprowadzają do obrotu żywność zawierającą jednocześnie środki spożywcze pochodzenia niezwierzęcego produkty pochodzenia zwierzęcego, o której mowa 1 ust. 2 rozporządzenia nr 853/2004, wyłączeniem zakładów prowadzących rolniczy handel detaliczny, zastrzeżeniem 73 ust. 6,”;
-- **4)** 63 ust. 2 pkt 12 kropkę zastępuje się średnikiem dodaje się pkt 13 brzmieniu: „13) podmiotów prowadzących rolniczy handel detaliczny żywnością pochodzenia niezwierzęcego.”;
-- **5)** 69 ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Minister właściwy do spraw zdrowia minister właściwy do spraw rolnictwa, każdy zakresie swojego działania, działając porozumieniu, mogą określić, drodze rozporządzenia, wymagania higieniczne w:”;
-- **6)** 73 ust. 1 pkt 1 lit. b c otrzymują brzmienie: „b) produktów pochodzenia zwierzęcego znajdujących się handlu detalicznym rozumieniu 3 pkt 7 rozporządzenia nr 178/2002, wyłączeniem produktów pochodzenia zwierzęcego znajdujących się rolniczym handlu detalicznym,
-    - **c)** żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego produkty pochodzenia zwierzęcego, o której mowa 1 ust. 2 rozporządzenia nr 853/2004, produkowanej wprowadzanej do obrotu lub wywożonej do państw trzecich, przywożonej tych państw zakresie nieobjętym decyzją Komisji 2007/275/WE dnia 17 kwietnia 2007 dotyczącą wykazu zwierząt produktów mających podlegać kontroli punktach kontroli granicznej na mocy dyrektyw Rady 91/496/EWG 97/78/WE (Dz. Urz. UE L 116
+### 3)
 
-04. 05.2007, str. 9, późn. zm. ) powrotnie wywożonej do tych państw, wyłączeniem żywności znajdującej się rolniczym handlu detalicznym,”;
+sprzedaż odbywa się wyłącznie w miejscach:
 
-- **7)** 88 ust. 2 otrzymuje brzmienie: „2. Nadzór nad przestrzeganiem przepisów prawa żywnościowego nad wykonywaniem urzędowych kontroli żywności, zakresie określonym 73 ust. 1 pkt 3, sprawują minister właściwy do spraw rolnictwa minister właściwy do spraw rynków rolnych, działając porozumieniu ministrem właściwym do spraw zdrowia.”;
-- **8)** 100 ust. 1 dodaje się pkt 17 brzmieniu: „17) nie umieszcza miejscu zbywania żywności ramach rolniczego handlu detalicznego oznaczenia, o którym mowa 44a ust. 2, lub podaje tym oznaczeniu informacje niepełne lub nieprawdziwe,”. ust. 5, 13 ust. 8 25d ust. 2 ustawy zmienianej 5, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 24 miesiące od dnia wejścia życie niniejszej ustawy.
+### a)
 
-**Art. 9.**
+w których produkty te zostały wytworzone, lub
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie 7 ust. 4, 19 ust. 5 21 ust. 5 ustawy zmienianej 6, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 7 ust. 4, 19 ust. 5 21 ust. 5 ustawy zmienianej 6, brzmieniu nadanym niniejszą ustawą mogą być zmieniane na podstawie tego przepisu.
+### b)
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie 16 ust. 5 26 ust. 2 ustawy zmienianej 6, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 16 ust. 5 26 ust. 2 ustawy zmienianej 6, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+przeznaczonych do prowadzenia handlu;
 
-**Art. 10.** Plany awaryjne, o których mowa 88 ust. 4 ustawy zmienianej 7, zachowują ważność do dnia opracowania nowych planów awaryjnych, nie dłużej jednak niż 6 miesięcy od dnia wejścia życie niniejszej ustawy.
+### 4)
 
-**Art. 11.**
+jest prowadzona ewidencja sprzedaży, o której mowa w ust. 1e;
 
-1. Maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustaw zmienianych 1–7, nie przekroczy:
+### 5)
 
-- **1)** 2017 kwoty 23 256 000 zł;
-- **2)** 2018 kwoty 23 558 000 zł;
-- **3)** 2019 kwoty 24 077 000 zł;
-- **4)** 2020 kwoty 24 678 000 zł;
-- **5)** 2021 kwoty 25 295 000 zł;
-- **6)** 2022 kwoty 25 928 000 zł;
-- **7)** 2023 kwoty 26 576 000 zł;
-- **8)** 2024 kwoty 27 240 000 zł;
-- **9)** 2025 kwoty 27 921 000 zł;
-- **10)** 2026 kwoty 28 619 000 zł.
+ilość produktów roślinnych lub zwierzęcych pochodzących z własnej uprawy, hodowli lub chowu, użytych do produkcji danego produktu stanowi co najmniej 50% tego produktu, z wyłączeniem wody.
 
-2. Minister właściwy do spraw rolnictwa monitoruje przekroczenie limitu wydatków, o których mowa ust. 1, a przypadku przekroczenia limitu wydatków danym województwie zaleca wojewodzie wdrożenie mechanizmu korygującego.
+### 1d.
 
-3. Mechanizm korygujący, o którym mowa ust. 2, polega na ograniczeniu danym województwie wydatków związanych realizacją przez Inspekcję Weterynaryjną zadań zakresu bezpieczeństwa żywności znajdującej się rolniczym handlu detalicznym rozumieniu 3 ust. 3 pkt 29b ustawy dnia 25 sierpnia 2006 o bezpieczeństwie żywności żywienia (Dz. U. 594, późn. zm. ).
+Za produkt roślinny pochodzący z własnej uprawy uważa się również mąkę, kaszę, płatki, otręby, oleje i soki wytworzone z surowców pochodzących z własnej uprawy.
 
-**Art. 12.** Ustawa wchodzi życie dniem 1 stycznia 2017 Prezydent Rzeczypospolitej Polskiej: A. Duda
+### 1e.
 
+Podatnicy osiągający przychody, o których mowa w ust. 1c, są obowiązani prowadzić odrębnie za każdy rok podatkowy ewidencję sprzedaży produktów roślinnych i zwierzęcych zawierającą co najmniej: numer kolejnego wpisu, datę uzyskania przychodu, kwotę przychodu, przychód narastająco od początku roku oraz ilość i rodzaj przetworzonych produktów. Dzienne przychody są ewidencjonowane w dniu sprzedaży.
+
+” ,
+
+### b)
+
+po ust. 1e dodaje się ust. 1ea w brzmieniu:
+
+„
+
+### 1ea.
+
+W ramach rolniczego handlu detalicznego dopuszcza się sprzedaż na rzecz podmiotów, o których mowa w ust. 1c pkt 1, do wysokości ilości żywności określonej w przepisach wydanych na podstawie art. 44a ust. 3 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.](#gloss-0:3:)).
+
+” ;
+
+### 2)
+
+w art. 21:
+
+### a)
+
+w ust. 1 po pkt 71 dodaje się pkt 71a w brzmieniu:
+
+„
+
+### 71a)
+
+przychody, o których mowa w art. 20 ust. 1c, do kwoty 20 000 zł rocznie, ze sprzedaży produktów nieprzekraczającej ilości, która może być zbywana w ramach rolniczego handlu detalicznego zgodnie z przepisami ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia;
+
+” ,
+
+### b)
+
+po ust. 15 dodaje się ust. 15a i 15b w brzmieniu:
+
+„
+
+### 15a.
+
+Uzyskany w roku podatkowym przychód powyżej limitów, o których mowa w ust. 1 pkt 71a, podatnik może opodatkować ryczałtem od przychodów ewidencjonowanych na zasadach określonych w ustawie o zryczałtowanym podatku dochodowym.
+
+### 15b.
+
+Zwolnienie, o którym mowa w ust. 1 pkt 71a, ma charakter pomocy de minimis i jest udzielane zgodnie z przepisami rozporządzenia Komisji (UE) nr 1407/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis ([Dz. Urz. UE L 352 z 24.12.2013, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2016 r. poz. 543](https://api.sejm.gov.pl/eli/acts/DU/2016/543/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948 i 1954.](#gloss-0:4:)) w art. 22 w ust. 1 pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+nadzoru nad jakością zdrowotną:
+
+### a)
+
+środków spożywczych pochodzenia zwierzęcego w miejscach ich pozyskiwania, wytwarzania, przetwarzania i składowania, a także w sprzedaży bezpośredniej, rolniczym handlu detalicznym oraz działalności marginalnej, lokalnej i ograniczonej,
+
+### b)
+
+żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego w rolniczym handlu detalicznym;
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne ([Dz. U. poz. 930](https://api.sejm.gov.pl/eli/acts/DU/1998/930/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1104 i 1324, z 2001 r. poz. 784, 961, 1363, 1369 i 1509, z 2002 r. poz. 1183, 1384, 1412 i 1679, z 2003 r. poz. 391, 874, 1268, 1302 i 1958, z 2004 r. poz. 2135 i 2619, z 2005 r. poz. 1199, 1366 i 1420, z 2006 r. poz. 1353 i 1588, z 2008 r. poz. 888, 894 i 1316, z 2009 r. poz. 1241 i 1541, z 2010 r. poz. 13, 146, 473, 1442 i 1478, z 2011 r. poz. 622 i 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563, z 2015 r. poz. 211, 699, 978, 1333, 1595 i 1893 oraz z 2016 r. poz. 1206.](#gloss-0:5:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 9 dodaje się ust. 6 w brzmieniu:
+
+„
+
+### 6.
+
+W przypadku przychodów, o których mowa w art. 21 ust. 15a ustawy o podatku dochodowym, pisemne oświadczenie o wyborze opodatkowania ryczałtem od przychodów ewidencjonowanych na dany rok podatkowy podatnik składa nie później niż do 20. dnia miesiąca następującego po miesiącu, w którym uzyskał te przychody, albo do końca roku podatkowego, jeżeli pierwszy taki przychód uzyskał w grudniu roku podatkowego.
+
+” ;
+
+### 2)
+
+art. 10 otrzymuje brzmienie:
+
+„
+
+### Art. 10.
+
+Zwolnienia od podatku dochodowego, o których mowa w art. 21 ust. 1 pkt 43, 46, 47a, 71a, 111, 114, 122, 125, 129, 136 i 137 ustawy o podatku dochodowym, stosuje się odpowiednio do podatników opłacających ryczałt od przychodów ewidencjonowanych.
+
+” ;
+
+### 3)
+
+w art. 15 ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Podatnicy osiągający przychody, o których mowa w art. 6 ust. 1d, są obowiązani prowadzić odrębnie za każdy rok podatkowy ewidencję sprzedaży produktów roślinnych i zwierzęcych zawierającą co najmniej: numer kolejnego wpisu, datę uzyskania przychodu, kwotę przychodu, przychód narastająco od początku roku oraz ilość i rodzaj przetworzonych produktów. Dzienne przychody są ewidencjonowane w dniu sprzedaży.
+
+” ;
+
+### 4)
+
+w art. 17 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W przypadku prowadzenia ewidencji sprzedaży, o której mowa w art. 15 ust. 8, niezgodnie z warunkami wymaganymi do uznania jej za dowód w postępowaniu podatkowym, organ podatkowy określi wartość niezewidencjonowanego przychodu, w tym również w formie oszacowania, i określi od tej kwoty ryczałt w wysokości pięciokrotności stawki, o której mowa w art. 12 ust. 1 pkt 6.
+
+” ;
+
+### 5)
+
+w art. 22 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Za utratę warunków do opodatkowania ryczałtem od przychodów ewidencjonowanych, o której mowa w ust. 1, uważa się również niespełnienie, w trakcie roku podatkowego, warunków określonych w art. 20 ust. 1c ustawy o podatku dochodowym. W przypadku gdy podatnik prowadzi równocześnie pozarolniczą działalność gospodarczą samodzielnie, utrata warunków dotyczy również przychodów osiąganych z działalności gospodarczej prowadzonej samodzielnie.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych ([Dz. U. z 2016 r. poz. 1604](https://api.sejm.gov.pl/eli/acts/DU/2016/1604/text.html) i [1948](https://api.sejm.gov.pl/eli/acts/DU/2016/1948/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 uchyla się pkt 3;
+
+### 2)
+
+w art. 17 w ust. 1 w pkt 1 w lit. h średnik zastępuje się przecinkiem i dodaje się lit. i w brzmieniu:
+
+„
+
+### i)
+
+kontrola żywności w rolniczym handlu detalicznym w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.](#gloss-0:6:));
+
+” ;
+
+### 3)
+
+art. 25 otrzymuje brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+Kontrolę działalności gospodarczej przedsiębiorcy przeprowadza pracownik Inspekcji po okazaniu legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli.
+
+### 2.
+
+Pracownik Inspekcji może także:
+
+### 1)
+
+przeprowadzić kontrolę jakości handlowej artykułów rolno-spożywczych przywożonych spoza państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym, w tym kontrolę graniczną tych artykułów,
+
+### 2)
+
+dokonać oceny jakości handlowej artykułów rolno-spożywczych,
+
+### 3)
+
+przeprowadzić kontrolę warunków składowania i transportu artykułów rolno-spożywczych
+
+- po okazaniu legitymacji służbowej oraz imiennego okresowego upoważnienia do przeprowadzenia kontroli.
+
+### 3.
+
+Imienne okresowe upoważnienie do przeprowadzenia kontroli zawiera:
+
+### 1)
+
+wskazanie podstawy prawnej do przeprowadzenia kontroli;
+
+### 2)
+
+oznaczenie organu przeprowadzającego kontrolę;
+
+### 3)
+
+datę i miejsce wystawienia tego upoważnienia;
+
+### 4)
+
+imię i nazwisko pracownika Inspekcji uprawnionego do przeprowadzenia kontroli oraz numer jego legitymacji służbowej;
+
+### 5)
+
+określenie zakresu przedmiotowego przeprowadzanej kontroli;
+
+### 6)
+
+oznaczenie okresu obowiązywania tego upoważnienia;
+
+### 7)
+
+podpis osoby udzielającej tego upoważnienia z podaniem zajmowanego stanowiska lub pełnionej funkcji.
+
+### 4.
+
+Do imiennego okresowego upoważnienia do przeprowadzenia kontroli nie stosuje się przepisów art. 79a ust. 6 pkt 5, 7 i 9 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2016 r. poz. 1829](https://api.sejm.gov.pl/eli/acts/DU/2016/1829/text.html) i [1948](https://api.sejm.gov.pl/eli/acts/DU/2016/1948/text.html)).
+
+### 5.
+
+Kontrola działalności gospodarczej przedsiębiorcy, o której mowa w art. 17 ust. 1 pkt 1 lit. a, odbywa się w obecności kierownika kontrolowanej jednostki, a w razie jego nieobecności - osoby przez niego upoważnionej.
+
+### 6.
+
+Przepisy ust. 1 i 2 stosuje się odpowiednio do kontroli działalności podmiotów niebędących przedsiębiorcami.
+
+### 7.
+
+Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, wzór imiennego okresowego upoważnienia, o którym mowa w ust. 3, mając na względzie zapewnienie rzetelnej kontroli artykułów rolno-spożywczych oraz spełnienie przez to upoważnienie wymagań dotyczących treści upoważnień do przeprowadzenia kontroli wynikających z przepisów dotyczących działalności gospodarczej.
+
+” ;
+
+### 4)
+
+art. 27a otrzymuje brzmienie:
+
+„
+
+### Art. 27a.
+
+Do kontroli działalności gospodarczej przedsiębiorcy w zakresie nieuregulowanym w art. 25-27 stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+
+” ;
+
+### 5)
+
+w art. 29 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Wykonując zadania, o których mowa w art. 17 ust. 1 pkt 1 lit. a i e-i, wojewódzki inspektor, w drodze decyzji, może: ” ;
+
+### 6)
+
+po art. 30b dodaje się art. 30c w brzmieniu:
+
+„
+
+### Art. 30c.
+
+Do kontroli jakości handlowej żywności w rolniczym handlu detalicznym stosuje się odpowiednio przepisy art. 23, art. 24, art. 25 ust. 2-6, art. 26-28 i art. 30b.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej ([Dz. U. z 2016 r. poz. 1077](https://api.sejm.gov.pl/eli/acts/DU/2016/1077/text.html) i [1948](https://api.sejm.gov.pl/eli/acts/DU/2016/1948/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+zasady współpracy organów Inspekcji z organami centralnymi państw członkowskich Unii Europejskiej odpowiedzialnymi za stosowanie prawodawstwa weterynaryjnego lub przepisów dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, lub organami, którym takie kompetencje zostały przekazane (właściwą władzą), oraz Komisją Europejską w zakresie realizacji zadań Inspekcji;
+
+” ;
+
+### 2)
+
+w art. 3:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Inspekcja realizuje, w celu zapewnienia ochrony zdrowia publicznego, zadania z zakresu:
+
+### 1)
+
+ochrony zdrowia zwierząt;
+
+### 2)
+
+bezpieczeństwa:
+
+### a)
+
+produktów pochodzenia zwierzęcego,
+
+### b)
+
+żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego znajdującej się w rolniczym handlu detalicznym, w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.](#gloss-0:7:)), zwanym dalej „rolniczym handlem detalicznym”.
+
+” ,
+
+### b)
+
+w ust. 2:
+
+- - pkt 2 i 3 otrzymują brzmienie: „ 2) monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe: a) u zwierząt, b) w produktach pochodzenia zwierzęcego, c) w żywności, o której mowa w ust. 1 pkt 2 lit. b, d) w paszach; 3) badanie zwierząt rzeźnych, produktów pochodzenia zwierzęcego i żywności, o której mowa w ust. 1 pkt 2 lit. b; ” ,
+
+- - w pkt 5: - - lit. a otrzymuje brzmienie: „ a) bezpieczeństwem produktów pochodzenia zwierzęcego, w tym przy ich produkcji i wprowadzaniu na rynek, w szczególności nad wymaganiami weterynaryjnymi w sprzedaży bezpośredniej, rolniczym handlu detalicznym oraz działalności marginalnej, lokalnej i ograniczonej, ” , - - po lit. a dodaje się lit. aa w brzmieniu: „ aa) bezpieczeństwem żywności, o której mowa w ust. 1 pkt 2 lit. b, ” , - pkt 6 otrzymuje brzmienie: „ 6) prowadzenie monitorowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych: a) u zwierząt, b) w wydzielinach i wydalinach zwierząt, c) w tkankach lub narządach zwierząt, d) w produktach pochodzenia zwierzęcego, e) w żywności, o której mowa w ust. 1 pkt 2 lit. b, f) w wodzie przeznaczonej do pojenia zwierząt, g) w paszach; ” , - pkt 8 otrzymuje brzmienie: „ 8) przyjmowanie informacji o niebezpiecznych produktach żywnościowych oraz o paszach od organów Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych - w zakresie kompetencji tych inspekcji, a od organów Inspekcji Handlowej - o niebezpiecznych produktach żywnościowych pochodzenia zwierzęcego i niebezpiecznej żywności, o której mowa w ust. 1 pkt 2 lit. b, a także ocena ryzyka i stopnia zagrożenia spowodowanego niebezpiecznym produktem żywnościowym lub paszą, a następnie przekazywanie tych informacji do kierującego siecią systemu RASFF, o którym mowa w art. 85 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. ” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Na terenach i w stosunku do jednostek organizacyjnych podległych Ministrowi Obrony Narodowej i przez niego nadzorowanych oraz jednostek wojsk obcych przebywających na tych terenach zadania określone w ust. 1, w zakresie ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego w celu zapewnienia ochrony zdrowia publicznego, wykonuje Szef Służby Weterynaryjnej - Inspektor Weterynaryjny Wojska Polskiego.
+
+” ;
+
+### 3)
+
+w art. 12:
+
+### a)
+
+w ust. 3 pkt 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3)
+
+monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe:
+
+### a)
+
+u zwierząt,
+
+### b)
+
+w produktach pochodzenia zwierzęcego,
+
+### c)
+
+w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
+
+### d)
+
+w paszach;
+
+### 4)
+
+prowadzenie monitorowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych:
+
+### a)
+
+u zwierząt,
+
+### b)
+
+w wydzielinach i wydalinach zwierząt,
+
+### c)
+
+w tkankach lub narządach zwierząt,
+
+### d)
+
+w produktach pochodzenia zwierzęcego,
+
+### e)
+
+w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
+
+### f)
+
+w wodzie przeznaczonej do pojenia zwierząt,
+
+### g)
+
+w paszach;
+
+” ,
+
+### b)
+
+w ust. 5 pkt 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3)
+
+monitorowanie chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych podlegających obowiązkowi monitorowania oraz związanej z nimi oporności na środki przeciwdrobnoustrojowe:
+
+### a)
+
+u zwierząt,
+
+### b)
+
+w produktach pochodzenia zwierzęcego,
+
+### c)
+
+w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
+
+### d)
+
+w paszach,
+
+### 4)
+
+prowadzenie monitorowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych:
+
+### a)
+
+u zwierząt,
+
+### b)
+
+w wydzielinach i wydalinach zwierząt,
+
+### c)
+
+w tkankach lub narządach zwierząt,
+
+### d)
+
+w produktach pochodzenia zwierzęcego,
+
+### e)
+
+w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b,
+
+### f)
+
+w wodzie przeznaczonej do pojenia zwierząt,
+
+### g)
+
+w paszach,
+
+” ;
+
+### 4)
+
+w art. 13:
+
+### a)
+
+w ust. 1:
+
+- - pkt 5 otrzymuje brzmienie: „ 5) dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, i wymagań weterynaryjnych przy produkcji tych produktów i tej żywności; ” ,
+
+- - pkt 9 otrzymuje brzmienie: „ 9) utrzymuje rezerwę szczepionek, biopreparatów i produktów biobójczych oraz innych środków niezbędnych do diagnozowania i zwalczania chorób zakaźnych zwierząt, w tym chorób odzwierzęcych, oraz monitorowania chorób odzwierzęcych i odzwierzęcych czynników chorobotwórczych, a także związanej z nimi oporności na środki przeciwdrobnoustrojowe: a) u zwierząt, b) w produktach pochodzenia zwierzęcego, c) w żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, d) w paszach; ” ,
+
+### b)
+
+w ust. 1a pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+jest odpowiedzialny za zbieranie informacji dotyczących wszystkich stwierdzonych przypadków niebezpiecznej żywności pochodzenia roślinnego i zwierzęcego oraz żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, i pasz - w zakresie objętym kompetencjami Inspekcji Weterynaryjnej, Państwowej Inspekcji Ochrony Roślin i Nasiennictwa, Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych oraz Inspekcji Handlowej - i za przekazywanie tych informacji do krajowego punktu kontaktowego sieci systemu RASFF.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Główny Lekarz Weterynarii współpracuje z organami, o których mowa w art. 1 pkt 2, oraz Komisją Europejską w zakresie nadzoru nad przestrzeganiem prawodawstwa weterynaryjnego i przepisów dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b. Informację o sposobie i zakresie tej współpracy minister właściwy do spraw rolnictwa przekazuje organom centralnym państw członkowskich Unii Europejskiej odpowiedzialnym za stosowanie prawodawstwa weterynaryjnego lub przepisów dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, oraz Komisji Europejskiej.
+
+” ,
+
+### d)
+
+w ust. 7 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+naruszających lub mogących naruszać prawodawstwo weterynaryjne lub przepisy dotyczące bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, w stopniu zagrażającym zdrowiu publicznemu lub
+
+” ,
+
+### e)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, zakres i tryb współpracy Głównego Lekarza Weterynarii z organami, o których mowa w art. 1 pkt 2, oraz Komisją Europejską, biorąc pod uwagę:
+
+### 1)
+
+prawidłowe stosowanie prawodawstwa weterynaryjnego i przepisów dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b;
+
+### 2)
+
+wykrywanie naruszeń prawodawstwa weterynaryjnego i przepisów dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, oraz zapobieganie tym naruszeniom;
+
+### 3)
+
+konieczność informowania o zawieranych z państwami trzecimi umowach lub porozumieniach w zakresie weterynarii.
+
+” ;
+
+### 5)
+
+w art. 14 w ust. 1 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+dokonuje, na obszarze województwa, analiz i ocen sytuacji epizootycznej lub bezpieczeństwa:
+
+### a)
+
+produktów pochodzenia zwierzęcego i pasz, w tym spełniania wymagań weterynaryjnych przy ich produkcji i wprowadzaniu na rynek,
+
+### b)
+
+żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b;
+
+” ;
+
+### 6)
+
+w art. 19 w ust. 3 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+przeprowadzania kontroli gospodarstw, centrów (organizacji), zakładów, w tym pomieszczeń lub urządzeń, o których mowa w załączniku II w rozdziale III rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych ([Dz. Urz. UE L 139 z 30.04.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)[8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114.](#gloss-0:8:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) , ośrodków w rozumieniu art. 2 ust. 1 pkt 8 ustawy z dnia 15 stycznia 2015 r. o ochronie zwierząt wykorzystywanych do celów naukowych lub edukacyjnych, instalacji, urządzeń lub środków transportu;
+
+### 2)
+
+kontrolowania przestrzegania wymagań określonych w prawodawstwie weterynaryjnym, w tym metod stosowanych do znakowania i identyfikacji zwierząt, i w przepisach dotyczących bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b;
+
+” ;
+
+### 7)
+
+w art. 20 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Uprawnienia, o których mowa w art. 19 ust. 3, przysługują przedstawicielom służb Unii Europejskiej oraz innych państw członkowskich, przeprowadzającym kontrole weterynaryjne i kontrole bezpieczeństwa żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, na terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 8)
+
+w art. 23 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Stwierdzenie albo wykluczenie choroby zakaźnej zwierzęcia, w tym choroby odzwierzęcej, wydanie oceny mięsa, oceny zdrowotnej jakości produktów pochodzenia zwierzęcego, żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, niejadalnych produktów pochodzenia zwierzęcego, produktów ubocznych pochodzenia zwierzęcego, produktów pochodnych oraz pasz może być poprzedzone przeprowadzeniem badań laboratoryjnych.
+
+” ;
+
+### 9)
+
+w art. 25 dodaje się ust. 9 w brzmieniu:
+
+„
+
+### 9.
+
+Badania laboratoryjne w zakresie oceny zdrowotnej jakości żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, wykonują laboratoria, o których mowa w art. 78 ust. 1 pkt 1 i 4 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia.
+
+” ;
+
+### 10)
+
+w art. 25d ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb gromadzenia, przetwarzania oraz przekazywania danych dotyczących wyników przeprowadzonych badań laboratoryjnych, a także sposób prowadzenia baz danych określonych w ust. 1, mając na względzie zapewnienie efektywnej kontroli stanu bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 3 ust. 1 pkt 2 lit. b, oraz stanu zdrowia zwierząt, a także szybkiego przepływu informacji dotyczących wyników tych badań.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego ([Dz. U. z 2014 r. poz. 1577](https://api.sejm.gov.pl/eli/acts/DU/2014/1577/text.html), [z 2015 r. poz. 1893](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.html) oraz [z 2016 r. poz. 1605](https://api.sejm.gov.pl/eli/acts/DU/2016/1605/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1:
+
+### a)
+
+w ust. 1:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) właściwość organów w zakresie higieny i kontroli produktów pochodzenia zwierzęcego, a także żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, znajdującej się w rolniczym handlu detalicznym, określonych w przepisach: a) rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie higieny środków spożywczych ([Dz. Urz. UE L 139 z 30.04.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)[9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114.](#gloss-0:9:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 34, str. 319) , zwanego dalej „rozporządzeniem nr 852/2004”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, b) rozporządzenia (WE) nr 853/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące higieny w odniesieniu do żywności pochodzenia zwierzęcego ([Dz. Urz. UE L 139 z 30.04.2004, str. 55](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 320 z 18.11.2006, str. 1, Dz. Urz. UE L 363 z 20.11.2006, str. 1, Dz. Urz. UE L 281 z 25.10.2007, str. 8, Dz. Urz. UE L 277 z 18.10.2008, str. 8, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 178 z 09.07.2009, str. 25, Dz. Urz. UE L 314 z 01.12.2009, str. 8, Dz. Urz. UE L 159 z 25.06.2010, str. 18, Dz. Urz. UE L 46 z 19.02.2011, str. 14, Dz. Urz. UE L 327 z 09.12.2011, str. 39, Dz. Urz. UE L 8 z 12.01.2012, str. 29, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 160 z 12.06.2013, str. 15, Dz. Urz. UE L 220 z 17.08.2013, str. 14, Dz. Urz. UE L 69 z 08.03.2014, str. 95, Dz. Urz. UE L 175 z 14.06.2014, str. 6, Dz. Urz. UE L 307 z 28.10.2014, str. 28 oraz Dz. Urz. UE L 67 z 12.03.2016, str. 22.](#gloss-0:10:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 14) , zwanego dalej „rozporządzeniem nr 853/2004”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, c) rozporządzenia (WE) nr 854/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. ustanawiającego szczególne przepisy dotyczące organizacji urzędowych kontroli w odniesieniu do produktów pochodzenia zwierzęcego przeznaczonych do spożycia przez ludzi ([Dz. Urz. UE L 139 z 30.04.2004, str. 206](https://api.sejm.gov.pl/eli/acts//text.html)[11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 160 z 30.04.2004, str. 24, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200, Dz. Urz. UE L 338 z 22.12.2005, str. 27, Dz. Urz. UE L 338 z 22.12.2005, str. 83, Dz. Urz. UE L 320 z 18.11.2006, str. 11, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 277 z 18.10.2008, str. 15, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 178 z 09.07.2009, str. 22, Dz. Urz. UE L 149 z 15.06.2010, str. 1, Dz. Urz. UE L 46 z 19.02.2011, str. 17, Dz. Urz. UE L 196 z 28.07.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 160 z 12.06.2013, str. 24, Dz. Urz. UE L 69 z 08.03.2014, str. 95, Dz. Urz. UE L 69 z 08.03.2014, str. 99, Dz. Urz. UE L 175 z 14.06.2014, str. 6 oraz Dz. Urz. UE L 323 z 09.12.2015, str. 2.](#gloss-0:11:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 75, z późn. zm.) , zwanego dalej „rozporządzeniem nr 854/2004”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, ” ,
+
+- - część wspólna otrzymuje brzmienie: „ - z uwzględnieniem zasad, obowiązków i wymagań określonych w rozporządzeniu (WE) nr 178/2002 Parlamentu Europejskiego i Rady z dnia 28 stycznia 2002 r. ustanawiającym ogólne zasady i wymagania prawa żywnościowego, powołującym Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającym procedury w zakresie bezpieczeństwa żywności ([Dz. Urz. WE L 31 z 01.02.2002, str. 1, z późn. zm.](https://api.sejm.gov.pl/eli/acts//text.html)[12) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 614, Dz. Urz. UE L 100 z 08.04.2006, str. 3, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9 oraz Dz. Urz. UE L 37 z 13.02.2015, str. 24.](#gloss-0:12:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 75), zwanym dalej „rozporządzeniem nr 178/2002”, i rozporządzeniu nr 852/2004. ” ,
+
+### b)
+
+w ust. 2 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+urzędowych kontroli produktów pochodzenia zwierzęcego, a także żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, znajdującej się w rolniczym handlu detalicznym, określonych w przepisach rozporządzenia (WE) nr 882/2004 Parlamentu Europejskiego i Rady z dnia 29 kwietnia 2004 r. w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt ([Dz. Urz. UE L 165 z 30.04.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[13) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 24.05.2006, str. 3, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 56 z 29.02.2008, str. 4, Dz. Urz. UE L 97 z 09.04.2008, str. 85, Dz. Urz. UE L 201 z 30.07.2008, str. 29, Dz. Urz. UE L 278 z 21.10.2008, str. 6, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 29 z 03.02.2011, str. 1, Dz. Urz. UE L 58 z 03.03.2011, str. 29, Dz. Urz. UE L 168 z 28.06.2012, str. 24, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 189 z 27.06.2014, str. 1.](#gloss-0:13:) - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200) , zwanego dalej „rozporządzeniem nr 882/2004”, oraz w przepisach Unii Europejskiej wydanych w trybie tego rozporządzenia, nieuregulowanym w przepisach o bezpieczeństwie żywności i żywienia;
+
+” ;
+
+### 2)
+
+w art. 5 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:
+
+„
+
+### 6)
+
+rolniczy handel detaliczny - rolniczy handel detaliczny w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.](#gloss-0:14:)).
+
+” ;
+
+### 3)
+
+w art. 6:
+
+### a)
+
+w ust. 1:
+
+- - pkt 2 otrzymuje brzmienie: „ 2) art. 2 pkt 4 rozporządzenia nr 882/2004, w zakresie urzędowych kontroli: a) produktów pochodzenia zwierzęcego, b) żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego znajdującej się w rolniczym handlu detalicznym ” ,
+
+- - część wspólna otrzymuje brzmienie: „ - chyba że prawodawstwo weterynaryjne lub przepisy dotyczące bezpieczeństwa żywności stanowią inaczej. ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Powiatowy lekarz weterynarii, w zakresie określonym w ustawie i nieuregulowanym w przepisach rozporządzenia nr 852/2004, rozporządzenia nr 853/2004, rozporządzenia nr 854/2004 i rozporządzenia nr 882/2004 oraz w przepisach wydanych w trybie tych rozporządzeń, wykonuje czynności związane ze sprawowaniem nadzoru nad bezpieczeństwem:
+
+### 1)
+
+produktów pochodzenia zwierzęcego, w tym nad spełnianiem wymagań określonych przez właściwe organy państw trzecich dla zakładów uprawnionych do wysyłki produktów pochodzenia zwierzęcego do tych państw,
+
+### 2)
+
+żywności, o której mowa w ust. 1 pkt 2 lit. b
+
+- chyba że prawodawstwo weterynaryjne lub przepisy dotyczące bezpieczeństwa żywności stanowią inaczej.
+
+” ;
+
+### 4)
+
+w art. 7:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Powiatowy lekarz weterynarii albo urzędowy lekarz weterynarii z upoważnienia powiatowego lekarza weterynarii wydają decyzje administracyjne lub wykonują czynności w celu realizacji zadań wynikających z przepisów rozporządzenia nr 852/2004, rozporządzenia nr 853/2004, rozporządzenia nr 854/2004 i rozporządzenia nr 882/2004 lub z przepisów Unii Europejskiej wydanych w trybie tych rozporządzeń.
+
+” ,
+
+### b)
+
+ust. 3 i 4 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Decyzje administracyjne, o których mowa w ust. 1, wydaje się z urzędu, chyba że prawodawstwo weterynaryjne lub przepisy dotyczące bezpieczeństwa żywności stanowią inaczej.
+
+### 4.
+
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, sprawy rozstrzygane w drodze decyzji administracyjnych przez powiatowego lekarza weterynarii albo urzędowego lekarza weterynarii z upoważnienia powiatowego lekarza weterynarii, wskazując, jakie decyzje są wydawane z urzędu, a jakie na wniosek, w tym treść tych wniosków, mając na względzie zapewnienie przeprowadzania urzędowych kontroli produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w jednolity sposób na obszarze całego kraju oraz realizację celów określonych w przepisach, o których mowa w ust. 1.
+
+” ;
+
+### 5)
+
+art. 8 otrzymuje brzmienie:
+
+„
+
+### Art. 8.
+
+Minister właściwy do spraw rolnictwa, w przypadku gdy z przepisów Unii Europejskiej wydanych w trybie art. 14 ust. 2 rozporządzenia nr 852/2004, art. 12 ust. 2 rozporządzenia nr 853/2004, art. 19 ust. 2 rozporządzenia nr 854/2004 lub art. 62 ust. 3 rozporządzenia nr 882/2004 wynika obowiązek podjęcia lub wykonania przez państwo członkowskie Unii Europejskiej, właściwy organ, urzędowego lekarza weterynarii lub zatwierdzonego lekarza weterynarii określonych zadań lub czynności w zakresie higieny lub kontroli produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, określa, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje zadań lub czynności określonych w tych przepisach, wykonywanych przez organy Inspekcji Weterynaryjnej lub urzędowego lekarza weterynarii, lub sposób ich wykonywania, lub
+
+### 2)
+
+szczegółowe wymagania dotyczące higieny lub kontroli produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w zakresie przekazanym do uregulowania przez Rzeczpospolitą Polską lub państwa członkowskie Unii Europejskiej
+
+- mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa żywności oraz skutecznej kontroli tej żywności, a także zapobieganie zagrożeniom dla zdrowia publicznego wynikającym z produkcji lub wprowadzania na rynek żywności oraz ograniczanie lub eliminowanie tych zagrożeń.
+
+” ;
+
+### 6)
+
+art. 8b otrzymuje brzmienie:
+
+„
+
+### Art. 8b.
+
+Minister właściwy do spraw rolnictwa, w przypadku gdy z przepisów Unii Europejskiej wydanych w trybie art. 14 ust. 2 rozporządzenia nr 852/2004, art. 12 ust. 2 rozporządzenia nr 853/2004, art. 19 ust. 2 rozporządzenia nr 854/2004 lub art. 62 ust. 3 rozporządzenia nr 882/2004 wynika możliwość podjęcia lub wykonania przez państwo członkowskie Unii Europejskiej, właściwy organ, urzędowego lekarza weterynarii lub zatwierdzonego lekarza weterynarii określonych zadań lub czynności w zakresie higieny lub kontroli produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, może określić, w drodze rozporządzenia:
+
+### 1)
+
+rodzaje zadań lub czynności wykonywanych przez organy Inspekcji Weterynaryjnej lub urzędowego lekarza weterynarii lub sposób ich wykonywania, lub
+
+### 2)
+
+szczegółowe wymagania dotyczące higieny lub kontroli produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w zakresie, w jakim dopuszcza się możliwość wprowadzenia regulacji przez państwo członkowskie Unii Europejskiej
+
+- mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa żywności oraz skutecznej kontroli tej żywności, a także zapobieganie zagrożeniom dla zdrowia publicznego wynikającym z produkcji lub wprowadzania na rynek żywności oraz ograniczanie lub eliminowanie tych zagrożeń.
+
+” ;
+
+### 7)
+
+w art. 15 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw rolnictwa, w zakresie nieuregulowanym w przepisach, o których mowa w ust. 1, może określić, w drodze rozporządzenia, rodzaje czynności wykonywanych przez organy Inspekcji Weterynaryjnej lub urzędowych lekarzy weterynarii w ramach urzędowej kontroli produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, i sposób przeprowadzania tej kontroli, w tym prowadzenia dokumentacji związanej z kontrolą, mając na względzie zapewnienie właściwego wykonywania czynności urzędowych.
+
+” ;
+
+### 8)
+
+w art. 16:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+W celu zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, prowadzi się monitorowanie substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych:
+
+### 1)
+
+u zwierząt;
+
+### 2)
+
+w wydzielinach i wydalinach zwierząt;
+
+### 3)
+
+w tkankach lub narządach zwierząt;
+
+### 4)
+
+w produktach pochodzenia zwierzęcego;
+
+### 5)
+
+w żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b;
+
+### 6)
+
+w wodzie przeznaczonej do pojenia zwierząt;
+
+### 7)
+
+w paszach.
+
+” ,
+
+### b)
+
+w ust. 5 część wspólna otrzymuje brzmienie:
+
+„
+
+- - mając na względzie ochronę zdrowia publicznego, w tym potrzebę zapewnienia bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, oraz przepisy Unii Europejskiej wydane w tym zakresie.
+
+” ;
+
+### 9)
+
+w art. 19 ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Przepisów ust. 1 i 2 nie stosuje się do statków rybackich, w tym statków przetwórni i statków zamrażalni, gospodarstw, na terenie których dokonuje się uboju zwierząt w celu pozyskania mięsa na użytek własny, oraz podmiotów zamierzających prowadzić działalność w zakresie transportu lub produkcji podstawowej, lub rolniczego handlu detalicznego produktami pochodzenia zwierzęcego lub żywnością, o której mowa w art. 6 ust. 1 pkt 2 lit. b.
+
+” ;
+
+### 10)
+
+w art. 20 w ust. 1 w pkt 1 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+rejestr zakładów obejmujący zakłady:
+
+- - będące gospodarstwami, na terenie których dokonuje się uboju zwierząt pochodzących z innych gospodarstw w celu pozyskania mięsa na użytek własny,
+
+- - prowadzące sprzedaż bezpośrednią produktów pochodzenia zwierzęcego,
+
+- - które podlegają rejestracji zgodnie z art. 6 ust. 2 rozporządzenia nr 852/2004, w tym prowadzących rolniczy handel detaliczny produktami pochodzenia zwierzęcego lub żywnością, o której mowa w art. 6 ust. 1 pkt 2 lit. b, i zakłady prowadzące działalność marginalną, lokalną i ograniczoną, oraz zakłady, dla których zatwierdzenie jest wymagane zgodnie z art. 6 ust. 3 lit. c rozporządzenia nr 852/2004, i zakłady zatwierdzone zgodnie z art. 4 ust. 2 rozporządzenia nr 853/2004, ze wskazaniem zakładów zatwierdzonych korzystających z krajowych środków dostosowujących, o których mowa w art. 10 ust. 3 rozporządzenia nr 853/2004,
+
+” ;
+
+### 11)
+
+w art. 21:
+
+### a)
+
+w ust. 2 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+określenie rodzaju i zakresu działalności, która ma być prowadzona, w tym rodzaju produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, które mają być produkowane w tym zakładzie;
+
+” ,
+
+### b)
+
+w ust. 5 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+ustalania weterynaryjnego numeru identyfikacyjnego, mając na względzie możliwość identyfikacji zakładu wpisanego do rejestru, o którym mowa w art. 20 ust. 1 pkt 1 lit. a, miejsca prowadzenia działalności i rodzaju produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b.
+
+” ;
+
+### 12)
+
+w art. 25 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+wprowadza na rynek produkty pochodzenia zwierzęcego lub żywność, o której mowa w art. 6 ust. 1 pkt 2 lit. b, w sposób niezgodny z rodzajem działalności określonej dla danego podmiotu w rejestrze prowadzonym przez powiatowego lekarza weterynarii,
+
+” ;
+
+### 13)
+
+w art. 26:
+
+### a)
+
+w ust. 1:
+
+- - w pkt 1 w lit. a: - - tiret pierwsze otrzymuje brzmienie: „ - w zakresie dotyczącym produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, określone w rozporządzeniu nr 852/2004 lub w przepisach Unii Europejskiej wydanych w trybie art. 14 ust. 2 tego rozporządzenia, lub ” , - - tiret trzecie otrzymuje brzmienie: „ - weterynaryjne lub dotyczące bezpieczeństwa żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, określone w art. 9, art. 9a ust. 1 i 2, art. 10 ust. 1, art. 11 ust. 1, art. 11a ust. 1, art. 12 ust. 1, art. 13 ust. 1, art. 14 ust. 1, art. 16 ust. 2a, art. 19 ust. 1 i 3, art. 21a ust. 6, art. 21b, art. 21c lub w przepisach wydanych na podstawie art. 8 pkt 2, art. 8b pkt 2, art. 10 ust. 2 pkt 2, art. 11 ust. 2, art. 11a ust. 2, art. 12 ust. 2, art. 13 ust. 2, art. 14 ust. 2 lub art. 16 ust. 5, lub ” , - - dodaje się tiret czwarte w brzmieniu: „ - określone w przepisach wydanych na podstawie art. 69 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia, lub ” , - pkt 2 otrzymuje brzmienie: „ 2) prowadząc produkcję produktów pochodzenia zwierzęcego lub żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, powoduje zagrożenie dla zdrowia publicznego, nie zapewniając spełniania: a) przez produkty pochodzenia zwierzęcego wprowadzane na rynek lub żywność, o której mowa w art. 6 ust. 1 pkt 2 lit. b, wymagań określonych dla tych produktów lub tej żywności lub b) wymagań weterynaryjnych lub wymagań dotyczących bezpieczeństwa żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b, określonych w art. 9, art. 10 ust. 1, art. 11 ust. 1, art. 11a ust. 1, art. 12 ust. 1, art. 13 ust. 1, art. 14 ust. 1 lub art. 16 ust. 2a lub w przepisach wydanych na podstawie art. 8 pkt 2, art. 8b pkt 2, art. 10 ust. 2 pkt 2, art. 11 ust. 2, art. 11a ust. 2, art. 12 ust. 2, art. 13 ust. 2 pkt 2, art. 14 ust. 2 lub art. 16 ust. 5, lub c) wymagań w zakresie obowiązkowego etykietowania mięsa wołowego określonych w tytule II rozporządzenia nr 1760/2000, lub d) wymagań higienicznych określonych w przepisach wydanych na podstawie art. 69 ust. 1 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ” ,
+
+### b)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wysokość kar pieniężnych za naruszenia, o których mowa w ust. 1, różnicując je w zależności od rodzaju tych naruszeń, społecznej szkodliwości czynu i stopnia zagrożenia dla bezpieczeństwa produktów pochodzenia zwierzęcego i żywności, o której mowa w art. 6 ust. 1 pkt 2 lit. b.
+
+” .
+
+### Art. 7.
+
+W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760 i 1948.](#gloss-0:15:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3 w ust. 3 po pkt 29a dodaje się pkt 29b w brzmieniu:
+
+„
+
+### 29b)
+
+rolniczy handel detaliczny - handel detaliczny w rozumieniu art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na zbywaniu konsumentowi finalnemu, o którym mowa w art. 3 ust. 18 rozporządzenia nr 178/2002, żywności pochodzącej w całości lub części z własnej uprawy, hodowli lub chowu podmiotu działającego na rynku spożywczym;
+
+” ;
+
+### 2)
+
+w dziale II po rozdziale 10 dodaje się rozdział 10a w brzmieniu:
+
+„
+
+### Rozdział 10a Rolniczy handel detaliczny
+
+### Art. 44a.
+
+### 1.
+
+Produkcja i zbywanie żywności w ramach rolniczego handlu detalicznego:
+
+### 1)
+
+mogą być dokonywane w ilościach dostosowanych do potrzeb konsumentów;
+
+### 2)
+
+nie mogą stanowić zagrożenia dla bezpieczeństwa żywności i wpływać niekorzystnie na ochronę zdrowia publicznego;
+
+### 3)
+
+podlegają nadzorowi organów odpowiednio Państwowej Inspekcji Sanitarnej albo Inspekcji Weterynaryjnej;
+
+### 4)
+
+są dokumentowane w sposób umożliwiający określenie ilości zbywanej żywności;
+
+### 5)
+
+nie mogą być dokonywane z udziałem pośrednika, z wyjątkiem zbywania takiej żywności podczas wystaw, festynów, targów lub kiermaszy, organizowanych w celu promocji żywności, jeżeli pośrednik zbywa żywność:
+
+### a)
+
+wyprodukowaną przez tego pośrednika w ramach rolniczego handlu detalicznego,
+
+### b)
+
+wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, w którym pośrednik ten prowadzi produkcję żywności w ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego z tym powiatem.
+
+### 2.
+
+W miejscu zbywania żywności w ramach rolniczego handlu detalicznego umieszcza się w sposób czytelny i widoczny dla konsumenta:
+
+### 1)
+
+napis „rolniczy handel detaliczny”;
+
+### 2)
+
+dane obejmujące:
+
+### a)
+
+imię i nazwisko albo nazwę i siedzibę podmiotu prowadzącego rolniczy handel detaliczny,
+
+### b)
+
+adres miejsca prowadzenia produkcji tej żywności,
+
+### c)
+
+weterynaryjny numer identyfikacyjny podmiotu prowadzącego rolniczy handel detaliczny, o ile taki numer został nadany.
+
+### 3.
+
+Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, maksymalną ilość żywności zbywaną w ramach rolniczego handlu detalicznego oraz zakres i sposób dokumentowania tej ilości, mając na względzie potrzeby konsumentów, rodzaj zbywanej żywności oraz ochronę zdrowia publicznego, w tym zapewnienie bezpieczeństwa tej żywności.
+
+### 4.
+
+Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy sposób oznakowania miejsca zbywania żywności, w ramach rolniczego handlu detalicznego, mając na względzie zapewnienie informacji o żywności zbywanej w ramach rolniczego handlu detalicznego i podmiotach prowadzących ten handel oraz ochronę zdrowia publicznego.
+
+” ;
+
+### 3)
+
+w art. 61 pkt 3 otrzymuje brzmienie:
+
+„
+
+### 3)
+
+produkują lub wprowadzają do obrotu żywność zawierającą jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, o której mowa w art. 1 ust. 2 rozporządzenia nr 853/2004, z wyłączeniem zakładów prowadzących rolniczy handel detaliczny, z zastrzeżeniem art. 73 ust. 6,
+
+” ;
+
+### 4)
+
+w art. 63 w ust. 2 w pkt 12 kropkę zastępuje się średnikiem i dodaje się pkt 13 w brzmieniu:
+
+„
+
+### 13)
+
+podmiotów prowadzących rolniczy handel detaliczny żywnością pochodzenia niezwierzęcego.
+
+” ;
+
+### 5)
+
+w art. 69 w ust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw zdrowia i minister właściwy do spraw rolnictwa, każdy w zakresie swojego działania, działając w porozumieniu, mogą określić, w drodze rozporządzenia, wymagania higieniczne w: ” ;
+
+### 6)
+
+w art. 73 w ust. 1 w pkt 1 lit. b i c otrzymują brzmienie:
+
+„
+
+### b)
+
+produktów pochodzenia zwierzęcego znajdujących się w handlu detalicznym w rozumieniu art. 3 pkt 7 rozporządzenia nr 178/2002, z wyłączeniem produktów pochodzenia zwierzęcego znajdujących się w rolniczym handlu detalicznym,
+
+### c)
+
+żywności zawierającej jednocześnie środki spożywcze pochodzenia niezwierzęcego i produkty pochodzenia zwierzęcego, o której mowa w art. 1 ust. 2 rozporządzenia nr 853/2004, produkowanej i wprowadzanej do obrotu lub wywożonej do państw trzecich, przywożonej z tych państw w zakresie nieobjętym decyzją Komisji 2007/275/WE z dnia 17 kwietnia 2007 r. dotyczącą wykazu zwierząt i produktów mających podlegać kontroli w punktach kontroli granicznej na mocy dyrektyw Rady 91/496/EWG i 97/78/WE ([Dz. Urz. UE L 116 z 04.05.2007, str. 9](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.[16) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 62 z 09.03.2011, str. 60, Dz. Urz. UE L 12 z 14.01.2012, str. 1, Dz. Urz. UE L 21 z 24.01.2012, str. 1 oraz Dz. Urz. UE L 197 z 22.07.2016, str. 10.](#gloss-0:16:)) oraz powrotnie wywożonej do tych państw, z wyłączeniem żywności znajdującej się w rolniczym handlu detalicznym,
+
+” ;
+
+### 7)
+
+w art. 88 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Nadzór nad przestrzeganiem przepisów prawa żywnościowego oraz nad wykonywaniem urzędowych kontroli żywności, w zakresie określonym w art. 73 ust. 1 pkt 3, sprawują minister właściwy do spraw rolnictwa oraz minister właściwy do spraw rynków rolnych, działając w porozumieniu z ministrem właściwym do spraw zdrowia.
+
+” ;
+
+### 8)
+
+w art. 100 w ust. 1 dodaje się pkt 17 w brzmieniu:
+
+„
+
+### 17)
+
+nie umieszcza w miejscu zbywania żywności w ramach rolniczego handlu detalicznego oznaczenia, o którym mowa w art. 44a ust. 2, lub podaje w tym oznaczeniu informacje niepełne lub nieprawdziwe,
+
+” .
+
+### Art. 8.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 12 ust. 5, art. 13 ust. 8 i art. 25d ust. 2 ustawy zmienianej w art. 5, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 12 ust. 5, art. 13 ust. 8 i art. 25d ust. 2 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 24 miesiące od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 9.
+
+### 1.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 4, art. 19 ust. 5 i art. 21 ust. 5 ustawy zmienianej w art. 6, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 7 ust. 4, art. 19 ust. 5 i art. 21 ust. 5 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą i mogą być zmieniane na podstawie tego przepisu.
+
+### 2.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 16 ust. 5 i art. 26 ust. 2 ustawy zmienianej w art. 6, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 16 ust. 5 i art. 26 ust. 2 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 10.
+
+Plany awaryjne, o których mowa w art. 88 ust. 4 ustawy zmienianej w art. 7, zachowują ważność do dnia opracowania nowych planów awaryjnych, nie dłużej jednak niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 11.
+
+### 1.
+
+Maksymalny limit wydatków z budżetu państwa, będących skutkiem finansowym ustaw zmienianych w art. 1-7, nie przekroczy:
+
+### 1)
+
+w 2017 r. kwoty 23 256 000 zł;
+
+### 2)
+
+w 2018 r. kwoty 23 558 000 zł;
+
+### 3)
+
+w 2019 r. kwoty 24 077 000 zł;
+
+### 4)
+
+w 2020 r. kwoty 24 678 000 zł;
+
+### 5)
+
+w 2021 r. kwoty 25 295 000 zł;
+
+### 6)
+
+w 2022 r. kwoty 25 928 000 zł;
+
+### 7)
+
+w 2023 r. kwoty 26 576 000 zł;
+
+### 8)
+
+w 2024 r. kwoty 27 240 000 zł;
+
+### 9)
+
+w 2025 r. kwoty 27 921 000 zł;
+
+### 10)
+
+w 2026 r. kwoty 28 619 000 zł.
+
+### 2.
+
+Minister właściwy do spraw rolnictwa monitoruje przekroczenie limitu wydatków, o których mowa w ust. 1, a w przypadku przekroczenia limitu wydatków w danym województwie zaleca wojewodzie wdrożenie mechanizmu korygującego.
+
+### 3.
+
+Mechanizm korygujący, o którym mowa w ust. 2, polega na ograniczeniu w danym województwie wydatków związanych z realizacją przez Inspekcję Weterynaryjną zadań z zakresu bezpieczeństwa żywności znajdującej się w rolniczym handlu detalicznym w rozumieniu art. 3 ust. 3 pkt 29b ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ([Dz. U. z 2015 r. poz. 594](https://api.sejm.gov.pl/eli/acts/DU/2015/594/text.html), z późn. zm.[17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.](#gloss-0:17:)).
+
+### Art. 12.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 2017 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, ustawę z dnia 4 września 1997 r. o działach administracji rządowej, ustawę z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne, ustawę z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych, ustawę z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej, ustawę z dnia 16 grudnia 2005 r. o produktach pochodzenia zwierzęcego oraz ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 362, 596, 769, 1278, 1342, 1448, 1529 i 1540, z 2013 r. poz. 888, 1027, 1036, 1287, 1304, 1387 i 1717, z 2014 r. poz. 223, 312, 567, 598, 773, 915, 1052, 1215, 1328, 1563, 1644, 1662 i 1863, z 2015 r. poz. 73, 211, 251, 478, 693, 699, 860, 933, 978, 1197, 1217, 1259, 1296, 1321, 1322, 1333, 1569, 1595, 1607, 1688, 1767, 1784, 1844, 1893, 1925, 1932, 1992 i 2299 oraz z 2016 r. poz. 188, 195, 615, 780, 823, 929, 1010, 1206, 1550, 1860, 1926, 1933 i 1948. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 749, 1020, 1250, 1579, 1923, 1948 i 1954. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. poz. 1104 i 1324, z 2001 r. poz. 784, 961, 1363, 1369 i 1509, z 2002 r. poz. 1183, 1384, 1412 i 1679, z 2003 r. poz. 391, 874, 1268, 1302 i 1958, z 2004 r. poz. 2135 i 2619, z 2005 r. poz. 1199, 1366 i 1420, z 2006 r. poz. 1353 i 1588, z 2008 r. poz. 888, 894 i 1316, z 2009 r. poz. 1241 i 1541, z 2010 r. poz. 13, 146, 473, 1442 i 1478, z 2011 r. poz. 622 i 764, z 2012 r. poz. 1529 i 1540, z 2014 r. poz. 223, 1328 i 1563, z 2015 r. poz. 211, 699, 978, 1333, 1595 i 1893 oraz z 2016 r. poz. 1206. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961. 8) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114. 9) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 153 z 12.06.2008, str. 42, Dz. Urz. UE L 277 z 18.10.2008, str. 7, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 160 z 12.06.2013, str. 19 oraz Dz. Urz. UE L 222 z 17.08.2016, str. 114. 10) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 320 z 18.11.2006, str. 1, Dz. Urz. UE L 363 z 20.11.2006, str. 1, Dz. Urz. UE L 281 z 25.10.2007, str. 8, Dz. Urz. UE L 277 z 18.10.2008, str. 8, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 178 z 09.07.2009, str. 25, Dz. Urz. UE L 314 z 01.12.2009, str. 8, Dz. Urz. UE L 159 z 25.06.2010, str. 18, Dz. Urz. UE L 46 z 19.02.2011, str. 14, Dz. Urz. UE L 327 z 09.12.2011, str. 39, Dz. Urz. UE L 8 z 12.01.2012, str. 29, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 160 z 12.06.2013, str. 15, Dz. Urz. UE L 220 z 17.08.2013, str. 14, Dz. Urz. UE L 69 z 08.03.2014, str. 95, Dz. Urz. UE L 175 z 14.06.2014, str. 6, Dz. Urz. UE L 307 z 28.10.2014, str. 28 oraz Dz. Urz. UE L 67 z 12.03.2016, str. 22. 11) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 160 z 30.04.2004, str. 24, z późn. zm. - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 45, str. 200, Dz. Urz. UE L 338 z 22.12.2005, str. 27, Dz. Urz. UE L 338 z 22.12.2005, str. 83, Dz. Urz. UE L 320 z 18.11.2006, str. 11, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 277 z 18.10.2008, str. 15, Dz. Urz. UE L 87 z 31.03.2009, str. 109, Dz. Urz. UE L 178 z 09.07.2009, str. 22, Dz. Urz. UE L 149 z 15.06.2010, str. 1, Dz. Urz. UE L 46 z 19.02.2011, str. 17, Dz. Urz. UE L 196 z 28.07.2011, str. 3, Dz. Urz. UE L 158 z 10.06.2013, str. 1, Dz. Urz. UE L 160 z 12.06.2013, str. 24, Dz. Urz. UE L 69 z 08.03.2014, str. 95, Dz. Urz. UE L 69 z 08.03.2014, str. 99, Dz. Urz. UE L 175 z 14.06.2014, str. 6 oraz Dz. Urz. UE L 323 z 09.12.2015, str. 2. 12) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 245 z 29.09.2003, str. 4 - Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 614, Dz. Urz. UE L 100 z 08.04.2006, str. 3, Dz. Urz. UE L 179 z 07.07.2007, str. 59, Dz. Urz. UE L 60 z 05.03.2008, str. 17, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 189 z 27.06.2014, str. 1, Dz. Urz. UE L 327 z 12.11.2014, str. 9 oraz Dz. Urz. UE L 37 z 13.02.2015, str. 24. 13) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 136 z 24.05.2006, str. 3, Dz. Urz. UE L 363 z 20.12.2006, str. 1, Dz. Urz. UE L 56 z 29.02.2008, str. 4, Dz. Urz. UE L 97 z 09.04.2008, str. 85, Dz. Urz. UE L 201 z 30.07.2008, str. 29, Dz. Urz. UE L 278 z 21.10.2008, str. 6, Dz. Urz. UE L 188 z 18.07.2009, str. 14, Dz. Urz. UE L 29 z 03.02.2011, str. 1, Dz. Urz. UE L 58 z 03.03.2011, str. 29, Dz. Urz. UE L 168 z 28.06.2012, str. 24, Dz. Urz. UE L 158 z 10.06.2013, str. 1 oraz Dz. Urz. UE L 189 z 27.06.2014, str. 1. 14) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760 i 1948. 16) Zmiany wymienionej decyzji zostały ogłoszone w Dz. Urz. UE L 62 z 09.03.2011, str. 60, Dz. Urz. UE L 12 z 14.01.2012, str. 1, Dz. Urz. UE L 21 z 24.01.2012, str. 1 oraz Dz. Urz. UE L 197 z 22.07.2016, str. 10. 17) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1893 oraz z 2016 r. poz. 65, 1228, 1579, 1760, 1948 i 1961.

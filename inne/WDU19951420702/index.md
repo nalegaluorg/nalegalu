@@ -8,11 +8,9 @@ pos: 702
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zasadach ewidencji i identyfikacji podatników i płatników
-
-*USTAWA z dnia 13 października 1995 r.*
+# Ustawa z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników
 
 | Pole | Wartość |
 |---|---|
@@ -24,388 +22,478 @@ domain: null
 | Data ogłoszenia | 1995-10-13 |
 | Data wydania | 1995-12-12 |
 | Ostatnia zmiana | 2026-05-06 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951420702) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/702/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1995/702/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1995/702) |
 
-#### Rozdział 1 Przepisy ogólne
+## Spis treści
 
-**Art. 1.** Ustawa określa:
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Postępowanie w sprawie nadania numeru identyfikacji podatkowej](#chpt_2) [Rozdział 3 - Zasady posługiwania się numerami identyfikacji podatkowej](#chpt_3) [Rozdział 4 - Rejestr podatników](#chpt_4) [Rozdział 5 - Przepisy karne](#chpt_5) [Rozdział 6 - Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe](#chpt_6)
 
-**Art. 2.**
+TOC
 
-1. Osoby fizyczne, osoby prawne oraz jednostki organizacyjne niemające osobowości prawnej, które na podstawie odrębnych ustaw są podatnikami, podlegają obowiązkowi ewidencyjnemu.
+## Treść ustawy
 
-2. Obowiązkowi ewidencyjnemu podlegają również inne podmioty niż wymienione w ust. 1, jeżeli na podstawie odrębnych ustaw są podatnikami, oraz płatnicy podatków.
+### Rozdział 1 Przepisy ogólne
 
-3. Obowiązkowi ewidencyjnemu podlegają także podmioty będące, na podstawie odrębnych ustaw, płatnikami składek ubezpieczeniowych.
+### Art. 1.
 
-4. Obowiązkowi ewidencyjnemu nie podlegają podatnicy, którzy posiadają numer identyfikacyjny nadany na podstawie art. 132 ust. 5, art. 134a ust. 4 oraz art. 138e ust. 7 pkt 1 i 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811).
+Ustawa określa zasady ewidencji podatników, zasady i tryb nadawania numerów identyfikacji podatkowej oraz zasady posługiwania się tymi numerami.
 
-5. Obowiązkowi ewidencyjnemu nie podlegają podatnicy, którzy korzystają ze zwolnienia od podatku od towarów i usług na podstawie art. 113a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, wyłącznie w zakresie korzystania z tego zwolnienia.
+### Art. 2.
 
-**Art. 3.**
+Osoby fizyczne, osoby prawne, jednostki organizacyjne nie mające osobowości prawnej oraz zakłady (oddziały) osób prawnych, które na podstawie odrębnych przepisów są podatnikami, podlegają obowiązkowi ewidencyjnemu oraz otrzymują numery identyfikacji podatkowej, zwane dalej „NIP”.
 
-1. Identyfikatorem podatkowym jest:
+### Art. 3.
 
-- **1)** numer PESEL – w przypadku podatników będących osobami fizycznymi:
-    - **a)** niebędącymi zarejestrowanymi podatnikami podatku od towarów i usług lub nieprowadzącymi działalności gospodarczej albo
-    - **b)** wykonującymi działalność, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826);
+### 1.
 
-- **2)** NIP – w przypadku pozostałych podmiotów podlegających obowiązkowi ewidencyjnemu, o którym mowa w art. 2.
+Ewidencji podatników dokonują urzędy skarbowe.
 
-1a. W przypadku, gdy osoba fizyczna wykonująca działalność, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców:
+### 2.
 
-- **1)** jest zarejestrowanym podatnikiem podatku od towarów i usług lub
-- **2)** prowadzi ewidencję sprzedaży przy zastosowaniu kas rejestrujących – identyfikatorem podatkowym jest NIP.
+Nadanie NIP następuje w drodze decyzji administracyjnej urzędu skarbowego.
 
-2. NIP nie może mieć ukrytego lub jawnego charakteru znaczącego, określającego pewne cechy podatnika, płatnika podatku albo płatnika składek ubezpieczeniowych.
+### 3.
 
-**Art. 3a.** W przypadku gdy z odrębnych przepisów wynika obowiązek podawania NIP, obowiązek ten dotyczy wyłącznie podmiotów, które są obowiązane posiadać NIP na podstawie przepisów niniejszej ustawy.
+NIP nie może mieć ukrytego lub jawnego charakteru znaczącego, określającego pewne cechy podatnika.
 
-**Art. 4.** W sprawach określonych w art. 5 ust. 1, art. 8b, art. 8c, art. 9 ust. 1 i art. 12 ust. 1c właściwymi naczelnikami urzędów skarbowych są:
+### Art. 4.
 
-#### Rozdział 2 Postępowanie w sprawie nadania numeru identyfikacji podatkowej
+W sprawach określonych w art. 3 właściwymi urzędami skarbowymi są:
 
-**Art. 5.**
+### 1)
 
-1. Podatnicy, z zastrzeżeniem ust. 2a, są obowiązani do dokonania zgłoszenia identyfikacyjnego do naczelnika urzędu skarbowego albo organu właściwego na podstawie odrębnych przepisów. Zgłoszenia identyfikacyjnego dokonuje się jednokrotnie, bez względu na rodzaj oraz liczbę opłacanych przez podatnika podatków, formę opodatkowania, liczbę oraz rodzaje prowadzonej działalności gospodarczej oraz liczbę prowadzonych przedsiębiorstw.
+dla podatników podatku od towarów i usług, nie korzystających ze zwolnienia od tego podatku - urząd skarbowy właściwy w sprawach podatku od towarów i usług,
 
-2. Zgłoszenie identyfikacyjne osób fizycznych zawiera nazwisko, imię (imiona), imiona rodziców, datę i miejsce urodzenia, płeć, nazwisko rodowe, obywatelstwo lub obywatelstwa, adres miejsca zamieszkania, rodzaj, serię i numer dokumentu tożsamości oraz numer PESEL, jeżeli został nadany.
+### 2)
 
-2a. Zgłoszenia identyfikacyjnego nie dokonują podatnicy, o których mowa w art. 3 ust. 1 pkt 1, z uwzględnieniem art. 3 ust. 1a.
+dla jednostek organizacyjnych nie mających osobowości prawnej, korzystających ze zwolnienia od podatku od towarów i usług - urząd skarbowy właściwy ze względu na siedzibę jednostki lub miejsce wykonywania działalności,
 
-2b. Zgłoszenie identyfikacyjne podatników wpisanych do Krajowego Rejestru Sądowego zawiera dane:
+### 3)
 
-- **1)** objęte treścią wpisu w Krajowym Rejestrze Sądowym, z wyłączeniem rejestru dłużników niewypłacalnych, przekazywane automatycznie za pośrednictwem systemu teleinformatycznego;
-- **2)** uzupełniające: skróconą nazwę (firmę), wykaz rachunków bankowych lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, z wyjątkiem rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, adresy miejsc prowadzenia działalności, dane prowadzącego dokumentację rachunkową, w tym jego NIP, adres miejsca przechowywania dokumentacji rachunkowej, dane kontaktowe, a w przypadku osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych – dane dotyczące poszczególnych wspólników, w tym ich identyfikatory podatkowe.
+dla pozostałych podatników:
 
-2c. Podatnicy wpisani do Krajowego Rejestru Sądowego dokonują zgłoszenia identyfikacyjnego wyłącznie w zakresie danych uzupełniających wskazanych w ust. 2b pkt 2, w terminie 21 dni od dnia dokonania wpisu podmiotu do Krajowego Rejestru Sądowego.
+### a)
 
-3. Zgłoszenie identyfikacyjne podatników niebędących osobami fizycznymi zawiera: pełną i skróconą nazwę (firmę), formę organizacyjno-prawną, adres siedziby, numer identyfikacyjny REGON, organ rejestrowy lub ewidencyjny i numer nadany przez ten organ, wykaz rachunków bankowych lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, z wyjątkiem rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, adresy miejsc prowadzenia działalności, dane prowadzącego dokumentację rachunkową, w tym jego NIP, adres miejsca przechowywania dokumentacji rachunkowej oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych, a ponadto:
+będących podatnikami podatku dochodowego - urząd skarbowy właściwy w sprawach tego podatku,
 
-- **1)** w przypadku zakładów (oddziałów) osób prawnych oraz innych wyodrębnionych jednostek wewnętrznych będących podatnikami – NIP oraz inne dane dotyczące jednostki macierzystej; [2) w przypadku spółek cywilnych, osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych – dane dotyczące wspólników, w tym również identyfikator podatkowy poszczególnych wspólników;] <2) w przypadku spółek cywilnych, o których informacje nie podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, osobowych spółek handlowych i podmiotów podlegających wpisowi do rejestru przedsiębiorców na zasadach określonych dla spółek osobowych – dane dotyczące wspólników, w tym również identyfikator podatkowy poszczególnych wspólników;>
-- **3)** w przypadku podatkowych grup kapitałowych – dane dotyczące spółek wchodzących w skład grupy, w tym również NIP nadane tym spółkom;
-- **4)** w przypadku grup VAT w rozumieniu przepisów o podatku od towarów i usług – dane dotyczące członków tej grupy.
+### b)
 
-4. Zgłoszenie identyfikacyjne podatników będących osobami fizycznymi wykonujących działalność gospodarczą zawiera dane, o których mowa w ust. 2, nazwę (firmę), adres stałego miejsca wykonywania działalności, o ile takie miejsce posiada, adresy dodatkowych miejsc wykonywania działalności, o ile takie miejsca posiada, numer identyfikacyjny REGON, o ile został nadany, organ ewidencyjny, wykaz rachunków bankowych lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, z wyjątkiem rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, dane prowadzącego dokumentację rachunkową, w tym jego NIP, adres miejsca przechowywania dokumentacji rachunkowej oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych.
+nie będących podatnikami podatku dochodowego - urząd skarbowy właściwy ze względu na miejsce zamieszkania lub siedzibę podatnika, a jeżeli podatnik nie ma miejsca zamieszkania lub siedziby w Polsce - Drugi Urząd Skarbowy Warszawa-Śródmieście.
 
-4a. W przypadku dokonywania zgłoszenia identyfikacyjnego przez pełnomocnika lub kuratora sądowego do zgłoszenia dołącza się uwierzytelnioną lub poświadczoną urzędowo kopię pełnomocnictwa lub postanowienia sądu. W przypadku udzielenia pełnomocnictwa wyłącznie do dokonania zgłoszenia identyfikacyjnego do zgłoszenia dołącza się oryginał pełnomocnictwa. Przepisy rozdziału 3a działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) stosuje się odpowiednio.
+### Rozdział 2 Postępowanie w sprawie nadania numeru identyfikacji podatkowej
 
-4b. (uchylony) <4c. Zgłoszenie identyfikacyjne podatników będących spółkami cywilnymi, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zawiera pełną i skróconą nazwę (firmę), formę organizacyjno-prawną, adres siedziby, numer identyfikacyjny REGON, o ile został nadany, wykaz rachunków bankowych lub imiennych rachunków w spółdzielczej kasie oszczędnościowo-kredytowej, z wyjątkiem rachunku VAT w rozumieniu art. 2 pkt 37 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, adresy miejsc prowadzenia działalności, dane prowadzącego dokumentację rachunkową, w tym jego NIP, adres miejsca przechowywania dokumentacji rachunkowej, przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych, dane dotyczące wspólników, w tym również identyfikator podatkowy poszczególnych wspólników.> [5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy zgłoszeń identyfikacyjnych i formularzy zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających, o których mowa w ust. 2b pkt 2, w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792) i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), z wyjątkiem zgłoszeń osób fizycznych będących przedsiębiorcami, biorąc pod uwagę kompletność przekazywanych danych niezbędnych do ewidencji i identyfikacji podatników i płatników oraz konieczność przekazywania danych uzupełniających do krajowego rejestru urzędowego podmiotów gospodarki narodowej oraz Centralnego Rejestru Płatników Składek.] <5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory formularzy zgłoszeń identyfikacyjnych i formularzy zgłoszeń aktualizacyjnych oraz zgłoszeń w zakresie danych uzupełniających, o których mowa w ust. 2b pkt 2, w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792 oraz z 2026 r. poz. 507) i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), z wyjątkiem zgłoszeń osób fizycznych będących przedsiębiorcami oraz spółek cywilnych, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, biorąc pod uwagę kompletność przekazywanych danych niezbędnych do ewidencji i identyfikacji podatników i płatników oraz konieczność przekazywania danych uzupełniających do krajowego rejestru urzędowego podmiotów gospodarki narodowej oraz Centralnego Rejestru Płatników Składek.> 5a. Do zgłoszeń identyfikacyjnych oraz zgłoszeń aktualizacyjnych podatników będących osobami fizycznymi wykonującymi działalność gospodarczą stosuje się formularz wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, zgodnie z ustawą z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30). <5b. Do zgłoszeń identyfikacyjnych oraz zgłoszeń aktualizacyjnych podatników będących spółkami cywilnymi, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, stosuje się formularz wniosku, o którym mowa w art. 42b ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
+### Art. 5.
 
-5c. W przypadku zgłoszenia aktualizacyjnego stanowiącego integralną część wniosku o publikację informacji o spółce cywilnej, naczelnik urzędu skarbowego przekazuje, za pośrednictwem systemu teleinformatycznego przez Centralny Rejestr Podmiotów – Krajowej Ewidencji Podatników, do Centralnej Ewidencji i Informacji o Działalności Gospodarczej informację o:
+### 1.
 
-- **1)** przyjęciu zgłoszenia aktualizacyjnego wraz z danymi objętymi tym zgłoszeniem albo
-- **2)** negatywnej weryfikacji danych niezbędnych do dokonania zgłoszenia aktualizacyjnego lub określonych w art. 42e ust. 2 pkt 3 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, wskazując te dane – w terminie 3 dni roboczych od dnia przekazania wniosku przez Centralną Ewidencję i Informację o Działalności Gospodarczej, przy czym przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie stosuje się.>
+Podatnicy obowiązani są do dokonania zgłoszenia identyfikacyjnego; zgłoszenia identyfikacyjnego dokonuje się jednokrotnie.
 
-6. Przepisy ust. 1, 2, 2b, 2c, 3–4a stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych.
+### 2.
 
-**Art. 5a.** [1. Podatnicy będący osobami fizycznymi rozpoczynającymi działalność gospodarczą w ramach wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej składają zgłoszenie identyfikacyjne albo aktualizacyjne.] <1. Podatnicy będący osobami fizycznymi rozpoczynającymi działalność gospodarczą w ramach wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz spółki cywilne, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej w ramach wniosku, o którym mowa w art. 42b ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, składają zgłoszenie identyfikacyjne albo aktualizacyjne.> 2. W przypadku określonym w ust. 1 podatnicy prowadzący działalność gospodarczą, zgodnie z art. 9, są obowiązani dokonać zgłoszenia aktualizacyjnego w celu uzupełnienia danych, w szczególności wykazu rachunków. 3. Naczelnik urzędu skarbowego jest obowiązany przekazać informację zwrotną o NIP nadanym przedsiębiorcy rozpoczynającemu działalność gospodarczą niezwłocznie po nadaniu sądowi prowadzącemu rejestr przedsiębiorców albo organowi prowadzącemu ewidencję działalności gospodarczej.
+Zgłoszenie identyfikacyjne osób fizycznych zawiera nazwisko, imiona, imiona rodziców, datę i miejsce urodzenia, płeć, nazwisko rodowe, obywatelstwo lub obywatelstwa, adres miejsca zamieszkania, adres miejsca zameldowania na pobyt stały lub czasowy, rodzaj i numer dowodu tożsamości oraz numer ewidencyjny PESEL.
 
-**Art. 6.**
+### 3.
 
-1. Podatnicy podatku od towarów i usług lub podatku akcyzowego są obowiązani dokonać zgłoszenia identyfikacyjnego przed dokonaniem pierwszej czynności podlegającej opodatkowaniu jednym z tych podatków, z tym że osoby fizyczne są obowiązane dokonać zgłoszenia identyfikacyjnego tylko w przypadku dokonywania zgłoszenia rejestracyjnego, o którym mowa w art. 96 ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług oraz w art. 16 ust. 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222, 340, 1813 i 1881). Zgłoszenia identyfikacyjnego dokonuje się niezależnie od zgłoszenia rejestracyjnego.
+Zgłoszenie identyfikacyjne podatników nie będących osobami fizycznymi zawiera w szczególności pełną i skróconą nazwę (firmę), formę organizacyjno-prawną, adres siedziby, numer REGON, organ rejestrowy lub ewidencyjny i numer nadany przez ten organ, wykaz rachunków bankowych, adres miejsca przechowywania dokumentacji rachunkowej oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych, a ponadto:
 
-1a. Podatnicy, z wyłączeniem podatników, o których mowa w art. 3 ust. 1 pkt 1, oraz płatnicy podatków podlegający obowiązkowi ewidencyjnemu są obowiązani dokonać zgłoszenia identyfikacyjnego niepóźniej niż w terminie przewidzianym do złożenia pierwszej deklaracji, zeznania, informacji bądź oświadczenia albo wraz z dokonaniem pierwszej wpłaty podatku lub zaliczki na podatek.
+### 1)
 
-2. (uchylony)
+w przypadku zakładów (oddziałów) osób prawnych - dane dotyczące jednostki macierzystej, w tym również NIP tej jednostki,
 
-3. (uchylony)
+### 2)
 
-4. (uchylony)
+w przypadku spółek cywilnych, jawnych oraz komandytowych - dane dotyczące wspólników, w tym również NIP nadany poszczególnym wspólnikom.
 
-5. (uchylony)
+### 4.
 
-6. (uchylony)
+Zgłoszenie identyfikacyjne podatników prowadzących działalność gospodarczą zawiera również informacje dotyczące prowadzonych przez te podmioty przedsiębiorstw; informacje zawierają dane, o których mowa w ust. 3.
 
-7. (uchylony)
+### 5.
 
-8. (uchylony)
+Minister Finansów, w drodze zarządzenia, określi wzory formularzy zgłoszeń identyfikacyjnych.
 
-9. (uchylony)
+### Art. 6.
 
-10. Płatnicy składek ubezpieczeniowych, niepodlegający obowiązkowi ewidencyjnemu jako podatnicy ani jako płatnicy podatków, dokonują zgłoszenia identyfikacyjnego niepóźniej niż w terminach przewidzianych w odrębnych przepisach dotyczących terminów zgłaszania do ubezpieczeń społecznych lub ubezpieczenia zdrowotnego.
+### 1.
 
-**Art. 7.** W przypadku gdy z przepisów prawa podatkowego wynikają różne terminy dokonania czynności, o których mowa w art. 6 ust. 1, 1a i 10, zgłoszenia identyfikacyjnego dokonuje się jeden raz, w terminie najwcześniejszym.
+Podatnicy podatku od towarów i usług lub podatku akcyzowego obowiązani są dokonać zgłoszenia identyfikacyjnego przed dokonaniem pierwszej czynności podlegającej opodatkowaniu jednym z tych podatków.
 
-**Art. 8.** (uchylony)
+### 2.
 
-**Art. 8a.**
+Podatnicy podatku dochodowego od osób prawnych obowiązani są dokonać zgłoszenia identyfikacyjnego nie później niż w terminie złożenia pierwszej, od dnia wejścia w życie ustawy, deklaracji dotyczącej zaliczki na ten podatek.
 
-1. Nadanie NIP następuje przy użyciu Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, zwanego dalej „CRP KEP”, po dokonaniu zgłoszenia identyfikacyjnego.
+### 3.
 
-2. Nadanie NIP podmiotom wpisanym do Krajowego Rejestru Sądowego następuje automatycznie, bezpośrednio po zamieszczeniu w CRP KEP za pośrednictwem systemu teleinformatycznego danych przekazanych z Krajowego Rejestru Sądowego, a w przypadku oddziału przedsiębiorcy zagranicznego – po zamieszczeniu w CRP KEP danych uzupełniających potwierdzających status płatnika składek ubezpieczeniowych.
+Przepis ust. 2 stosuje się odpowiednio do podatników, którzy na mocy odrębnych przepisów są zwolnieni z obowiązku składania deklaracji na podatek dochodowy od osób prawnych.
 
-3. Informacja w przedmiocie NIP jest przekazywana automatycznie za pośrednictwem systemu teleinformatycznego przez CRP KEP odpowiednio do Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej bezpośrednio po jego nadaniu, unieważnieniu, uchyleniu lub przywróceniu.
+### 4.
 
-4. Przekazanie do Krajowego Rejestru Sądowego informacji o NIP może nastąpić w terminie 3 dni, jeżeli w związku z nadaniem NIP zachodzi konieczność przeprowadzenia przez naczelnika urzędu skarbowego postępowania wyjaśniającego w przedmiocie ustalenia, czy podmiotowi nie został uprzednio nadany NIP – po jego zakończeniu w CRP KEP ustala się lub nadaje NIP.
+Jednostki organizacyjne nie mające osobowości prawnej, nie będące podatnikami podatku dochodowego od osób prawnych, które:
 
-5. Przekazanie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej informacji o nadaniu NIP następuje niepóźniej niż następnego dnia roboczego po dniu wpływu do naczelnika urzędu skarbowego poprawnego zgłoszenia identyfikacyjnego.
+### 1)
 
-**Art. 8b.**
+zatrudniają pracowników - dokonują zgłoszenia identyfikacyjnego nie później niż w terminie złożenia pierwszej, od dnia wejścia w życie ustawy, deklaracji dotyczącej zaliczek na podatek dochodowy od osób fizycznych,
 
-1. Naczelnik urzędu skarbowego wydaje potwierdzenie nadania NIP. W przypadku osób fizycznych mających nadany numer PESEL potwierdzenie nadania NIP zawiera również numer PESEL.
+### 2)
 
-2. Potwierdzenie nadania NIP jest wydawane niezwłocznie, niepóźniej niż w terminie 3 dni od dnia wpływu poprawnego zgłoszenia identyfikacyjnego do naczelnika urzędu skarbowego. [3. Potwierdzeniem nadania NIP dla podmiotów wpisanych do Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej jest ujawnienie tego numeru w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej.] <3. Potwierdzeniem nadania NIP dla podmiotów wpisanych do Krajowego Rejestru Sądowego lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz spółek cywilnych, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, jest ujawnienie tego numeru w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej.>
+nie zatrudniają pracowników - dokonują zgłoszenia identyfikacyjnego w terminie miesiąca od dnia dokonania wpisu w ewidencji działalności gospodarczej lub we właściwym rejestrze.
 
-**Art. 8c.**
+### 5.
 
-1. Naczelnik urzędu skarbowego wydaje decyzję o odmowie nadania NIP w przypadku:
+Podatnicy, o których mowa w ust. 4 pkt 2, wpisani do ewidencji działalności gospodarczej lub właściwego rejestru przed dniem wejścia w życie ustawy, składają zgłoszenie identyfikacyjne w terminie 5 miesięcy od dnia wejścia w życie ustawy.
 
-- **1)** braku możliwości potwierdzenia tożsamości lub istnienia podmiotu;
-- **2)** stwierdzenia, że dokonane zgłoszenie identyfikacyjne nie spełnia wymogów określonych dla tego zgłoszenia;
-- **3)** gdy podmiotowi został nadany NIP;
-- **4)** wystąpienia o nadanie NIP przez podatnika, o którym mowa w art. 5 ust. 2a.
+### 6.
 
-2. Naczelnik urzędu skarbowego unieważnia z urzędu, w drodze decyzji, NIP nadany podmiotowi, w przypadku:
+Podatnicy podatku dochodowego od osób fizycznych, którzy samodzielnie obliczają zaliczki na ten podatek lub opłacają go w formach zryczałtowanych, dokonują zgłoszenia identyfikacyjnego nie później niż w terminie złożenia pierwszej, od dnia wejścia w życie ustawy, deklaracji dotyczącej tej zaliczki albo dokonania wpłaty zryczałtowanego podatku.
 
-- **1)** wielokrotnego nadania NIP, biorąc pod uwagę interes prawny i gospodarczy podmiotu;
-- **2)** nadania NIP na podstawie fałszywych lub fikcyjnych danych.
+### 7.
 
-2a. Do podmiotów wpisanych do Krajowego Rejestru Sądowego ust. 1 i ust. 2 pkt 2 nie mają zastosowania. <2b. W przypadku zgłoszenia identyfikacyjnego stanowiącego integralną część wniosku o publikację informacji o spółce cywilnej naczelnik urzędu skarbowego przekazuje za pośrednictwem systemu teleinformatycznego przez Centralny Rejestr Podmiotów – Krajowej Ewidencji Podatników do Centralnej Ewidencji i Informacji o Działalności Gospodarczej informację o:
+Podatnicy podatku dochodowego od osób fizycznych nie wymienieni w ust. 6 dokonują zgłoszenia identyfikacyjnego nie później niż w terminie złożenia pierwszego, od dnia wejścia w życie ustawy, zeznania rocznego, z zastrzeżeniem art. 8.
 
-- **1)** nadaniu NIP wraz z danymi objętymi zgłoszeniem identyfikacyjnym albo
-- **2)** negatywnej weryfikacji danych niezbędnych do nadania NIP lub określonych w art. 42e ust. 2 pkt 3 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, wskazując te dane – w terminie 3 dni roboczych od dnia przekazania wniosku przez Centralną Ewidencję i Informację o Działalności Gospodarczej, przy czym przepisów ust. 1 oraz przepisów działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa nie stosuje się.>
+### 8.
 
-3. Nie można posługiwać się unieważnionym NIP, a unieważniony NIP nie może zostać ponownie nadany.
+Podatnicy będący wyłącznie podatnikami podatków stanowiących dochody budżetów gmin dokonują zgłoszenia identyfikacyjnego nie później niż w terminie:
 
-4. Naczelnik urzędu skarbowego uchyla z urzędu, w drodze decyzji NIP, jeżeli podatnik posługuje się fałszywymi lub fikcyjnymi danymi adresowymi swojej siedziby lub miejsca wykonywania działalności gospodarczej. Z chwilą ustania przesłanek uzasadniających uchylenie NIP na skutek zmiany danych adresowych w odpowiednim rejestrze lub ewidencji następuje przywrócenie NIP w CRP KEP. Do przywrócenia NIP stosuje się odpowiednio przepisy art. 8a.
+### 1)
 
-**Art. 8d.**
+złożenia pierwszej deklaracji na podatek rolny, leśny lub od nieruchomości,
 
-1. W zakresie nieuregulowanym w art. 8b i art. 8c do postępowań w sprawie odmowy nadania NIP, unieważnienia lub uchylenia nadanego NIP oraz do innych postępowań z zakresu ewidencji i identyfikacji podatników i płatników stosuje się odpowiednio przepisy działu IV ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa. W zakresie wydawania potwierdzeń nadania NIP oraz zaświadczeń i informacji o nadanym NIP stosuje się odpowiednio przepisy działu VIIIa ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+### 2)
 
-2. W przypadku ustalenia przez organ podatkowy, że dane adresowe siedziby lub miejsca wykonywania działalności gospodarczej podatnika są fałszywe lub fikcyjne, do postępowania w sprawie uchylenia NIP nie stosuje się art. 165 § 2 i 4 i art. 200 § 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+dokonania pierwszej wpłaty podatków wymienionych w pkt 1
 
-3. Decyzji o unieważnieniu lub o uchyleniu NIP nadaje się rygor natychmiastowej wykonalności.
+- od dnia wejścia w życie ustawy.
 
-**Art. 9.**
+### 9.
 
-1. Podmioty, o których mowa w art. 6 ust. 1, 1a i 10, oraz zarządca sukcesyjny mają obowiązek aktualizowania danych objętych zgłoszeniem identyfikacyjnym przez dokonanie zgłoszenia aktualizacyjnego do naczelnika urzędu skarbowego, niepóźniej niż w terminie 7 dni od dnia, w którym nastąpiła zmiana danych. W okresie od dnia śmierci przedsiębiorcy do dnia ustanowienia zarządu sukcesyjnego albo wygaśnięcia uprawnienia do powołania zarządcy sukcesyjnego, a także w okresie od dnia, w którym zarządca sukcesyjny przestał pełnić tę funkcję, do dnia powołania kolejnego zarządcy sukcesyjnego albo wygaśnięcia zarządu sukcesyjnego obowiązek aktualizowania danych za przedsiębiorstwo w spadku wykonują osoby, o których mowa w art. 14 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170), dokonujące czynności, o których mowa w art. 13 tej ustawy. Podmioty wpisane do Krajowego Rejestru Sądowego dokonują zgłoszenia aktualizacyjnego wyłącznie w zakresie danych uzupełniających wskazanych w art. 5 ust. 2b pkt 2.
+Minister Finansów może określić, w drodze rozporządzenia:
 
-1a. (uchylony) 1b. (uchylony) 1c. (uchylony) 1d. W przypadku zmiany adresu miejsca zamieszkania przez podatnika będącego osobą fizyczną mającą identyfikator podatkowy, o którym mowa w art. 3 ust. 1, nieprowadzącą działalności gospodarczej lub niebędącą zarejestrowanym podatnikiem podatku od towarów i usług albo wykonującą działalność, o której mowa w art. 5 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, za dokonanie aktualizacji uznaje się podanie przez tego podatnika aktualnego adresu miejsca zamieszkania w składanej deklaracji lub innym dokumencie związanym z obowiązkiem podatkowym. Podatnicy mogą również dokonać aktualizacji adresu miejsca zamieszkania według wzoru określonego na podstawie art. 5 ust. 5.
+### 1)
 
-2. (uchylony)
+inne, nie krótsze niż przewidziane w ustawie terminy dokonywania zgłoszenia identyfikacyjnego,
 
-3. Aktualizacji danych ewidencyjnych dotyczących podatkowych grup kapitałowych dokonuje wskazana w umowie spółka reprezentująca grupę. Obowiązek ten jest niezależny od obowiązku aktualizacji danych, który ciąży na każdej ze spółek wchodzących w skład podatkowej grupy kapitałowej.
+### 2)
 
-4. (uchylony)
+terminy zgłoszenia identyfikacyjnego przez podatników innych podatków niż wymienione w ust. 1-8.
 
-5. (uchylony)
+### Art. 7.
 
-6. Do aktualizacji danych objętych zgłoszeniem identyfikacyjnym stosuje się:
+W przypadku gdy z przepisów art. 6 ust. 1-7 wynikają różne terminy dokonania zgłoszenia identyfikacyjnego, podatnik dokonuje zgłoszenia jeden raz, w terminie najwcześniejszym.
 
-- **1)** odpowiednio przepisy art. 5 ust. 4a; [2) wzory formularzy zgłoszeń aktualizacyjnych określone w rozporządzeniu wydanym na podstawie art. 5 ust. 5 albo formularz wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.] <2) wzory formularzy zgłoszeń aktualizacyjnych określone w rozporządzeniu wydanym na podstawie art. 5 ust. 5, formularz wniosku o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej albo wniosek, o którym mowa w art. 42b ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.>
+### Art. 8.
 
-**Art. 10.** (uchylony)
+### 1.
 
-**Art. 10a.**
+Podatnicy podatku dochodowego od osób fizycznych, którym płatnik na podstawie przepisów o podatku dochodowym od osób fizycznych:
 
-1. Zgłoszenia identyfikacyjne oraz zgłoszenia aktualizacyjne mogą być składane za pomocą środków komunikacji elektronicznej.
+### 1)
 
-1a. Zgłoszenia, o których mowa w ust. 1, mogą być składane przez pełnomocnika za pomocą środków komunikacji elektronicznej, jeżeli zostało złożone do właściwego naczelnika urzędu skarbowego pełnomocnictwo, o którym mowa w art. 5 ust. 4a.
+pobiera zaliczki miesięczne, dokonując zmniejszenia kwot pobieranych zaliczek, lub
 
-1b. Zawiadomienie o odwołaniu pełnomocnictwa składa się do naczelnika urzędu skarbowego, zgodnie z art. 4.
+### 2)
 
-1c. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa ma zastosowanie odpowiednio do zgłoszeń, o których mowa w ust. 1.
+dokonuje rocznego rozliczenia podatku, a nie dokonywał zmniejszenia kwot zaliczek
 
-2. Naczelnik urzędu skarbowego lub elektroniczna skrzynka podawcza systemu teleinformatycznego administracji skarbowej potwierdza, w formie elektronicznej, złożenie zgłoszenia za pomocą środków komunikacji elektronicznej.
+- dokonują zgłoszenia identyfikacyjnego za pośrednictwem tego płatnika.
 
-3. (uchylony)
+### 2.
 
-**Art. 10b.**
+Przepisów ust. 1 nie stosuje się do podatników, którzy uprzednio dokonali zgłoszenia identyfikacyjnego.
 
-1. Zgłoszenie składane za pomocą środków komunikacji elektronicznej powinno zawierać:
+### 3.
 
-- **1)** dane w ustalonym formacie elektronicznym, zawarte we wzorze zgłoszenia określonym w rozporządzeniu wydanym na podstawie art. 5 ust. 5;
-- **2)** jeden podpis elektroniczny.
+Płatnicy, o których mowa w ust. 1, obowiązani są do zaopatrzenia się w formularze zgłoszeń w urzędzie skarbowym właściwym ze względu na ich siedzibę, w terminie wyznaczonym przez ten urząd.
 
-2. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw informatyzacji, określi, w drodze rozporządzenia:
+### 4.
 
-- **1)** (uchylony)
-- **2)** sposób przesyłania zgłoszeń za pomocą środków komunikacji elektronicznej;
-- **3)** rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy zgłoszeń.
+Płatnik dostarcza podatnikowi formularz zgłoszenia identyfikacyjnego w terminie 30 dni od dnia potrącenia pierwszej zaliczki na podatek dochodowy lub od dnia złożenia oświadczenia w sprawie rozliczenia rocznego, po upływie terminu określonego na podstawie ust. 3.
 
-3. Wydając rozporządzenie, o którym mowa w ust. 2, minister właściwy do spraw finansów publicznych uwzględni konieczność zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w zgłoszeniach oraz ich ochrony przed nieuprawnionym dostępem.
+### 5.
 
-#### Rozdział 3 Zasady posługiwania się identyfikatorem podatkowym
+Podatnik składa płatnikowi zgłoszenie identyfikacyjne w terminie 30 dni od dnia otrzymania formularza zgłoszenia.
 
-**Art. 11.**
+### 6.
 
-1. Podatnicy są obowiązani podawać identyfikator podatkowy na dokumentach związanych z wykonywaniem zobowiązań podatkowych oraz niepodatkowych należności budżetowych, do których poboru są obowiązane organy podatkowe lub celne.
+Płatnik obowiązany jest przekazać, w tym za pośrednictwem poczty, zgłoszenie identyfikacyjne urzędowi skarbowemu właściwemu dla podatnika, w terminie 14 dni od dnia złożenia formularza zgłoszenia przez podatnika.
 
-2. W sprawach dotyczących zobowiązań podatkowych oraz niepodatkowych należności budżetowych podatnicy mają obowiązek podawać identyfikator podatkowy na żądanie:
+### Art. 9.
 
-- **1)** organów administracji rządowej i samorządowej;
-- **2)** organów Krajowej Administracji Skarbowej;
-- **3)** przedstawicieli Najwyższej Izby Kontroli;
-- **4)** banków i spółdzielczych kas oszczędnościowo-kredytowych;
-- **5)** stron czynności cywilnoprawnych;
-- **6)** płatników oraz inkasentów podatków i niepodatkowych należności budżetowych.
+### 1.
 
-3. Płatnicy i inkasenci, o których mowa w ust. 2 pkt 6, są obowiązani żądać od podatników podania identyfikatora podatkowego i podawać go organom podatkowym na dokumentach związanych z wykonywaniem zobowiązań podatkowych oraz niepodatkowych należności budżetowych, do których poboru są obowiązane organy podatkowe lub celne.
+Podatnicy:
 
-4. Osoby fizyczne, osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz inne podmioty będące podatnikami na podstawie przepisów prawa polskiego oraz ratyfikowanych umów międzynarodowych, których Rzeczpospolita Polska jest stroną, w tym także mające miejsce zamieszkania, siedzibę lub zarząd za granicą, w przypadku uzyskania numeru służącego identyfikacji dla celów podatkowych lub ubezpieczeń społecznych w innym państwie, są obowiązane podawać ten numer na żądanie:
+### 1)
 
-- **1)** organów podatkowych;
-- **2)** (uchylony)
-- **3)** płatników podatków;
-- **4)** organów i instytucji ubezpieczeń społecznych;
-- **5)** podmiotów określonych w art. 42 ust. 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ).
+wymienieni w art. 6 ust. 1-6 obowiązani są do aktualizowania danych objętych zgłoszeniem identyfikacyjnym w terminie 60 dni od dnia, w którym nastąpiła zmiana danych; informację o zmianie danych podatnicy przekazują właściwemu urzędowi skarbowemu określonemu w art. 4,
 
-5. (uchylony)
+### 2)
 
-**Art. 12.**
+podatku dochodowego od osób fizycznych, którym płatnik dokonuje rocznego obliczenia podatku, mają obowiązek aktualizować dane objęte zgłoszeniem identyfikacyjnym za pośrednictwem płatnika; płatnik jest obowiązany przekazać informację o zmianie danych urzędowi skarbowemu właściwemu dla podatnika, wraz z rocznym obliczeniem podatku,
 
-1. NIP nadany podatnikowi nie przechodzi na następcę prawnego, z wyjątkiem:
+### 3)
 
-- **1)** przekształcenia przedsiębiorstwa państwowego w jednoosobową spółkę Skarbu Państwa lub przedsiębiorstwa komunalnego w jednoosobową spółkę gminy;
-- **2)** przekształcenia spółki cywilnej w spółkę handlową lub spółki handlowej w inną spółkę handlową;
-- **3)** przekształcenia stowarzyszenia zwykłego w stowarzyszenie.
+podatku dochodowego od osób fizycznych, nie wymienieni w pkt 1 i 2, składają informację o zmianie danych objętych zgłoszeniem identyfikacyjnym w terminie przewidzianym do złożenia zeznania rocznego.
 
-1a. Do celów identyfikacji podatkowej za przekształcenie, o którym mowa w ust. 1 pkt 2, uznaje się również wpis spółki cywilnej do rejestru na podstawie art. 26 § 4 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96).
+### 2.
 
-1b. NIP nadany przedsiębiorcy przechodzi na przedsiębiorstwo w spadku i wygasa wraz z wygaśnięciem zarządu sukcesyjnego, a jeżeli zarząd sukcesyjny nie został ustanowiony – wraz z wygaśnięciem uprawnienia do powołania zarządcy sukcesyjnego.
+Minister Finansów określi, w drodze zarządzenia, wzór formularza informacji o zmianie danych objętych zgłoszeniem identyfikacyjnym.
 
-1c. W przypadku gdy zarząd sukcesyjny nie został ustanowiony, przedsiębiorstwo w spadku może do dnia wygaśnięcia uprawnienia do powołania zarządcy sukcesyjnego podawać NIP przedsiębiorcy, jeżeli osoba, o której mowa w art. 14 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, kontynuuje prowadzenie przedsiębiorstwa pod firmą przedsiębiorcy i w terminie wskazanym w art. 12 ust. 10 tej ustawy dokona zgłoszenia do naczelnika urzędu skarbowego o kontynuowaniu prowadzenia tego przedsiębiorstwa.
+### Art. 10.
 
-1d. Jeżeli zarząd sukcesyjny nie został ustanowiony i nie dokonano zgłoszenia, o którym mowa w ust. 1c, podawanie NIP lub firmy przedsiębiorcy nie wywołuje skutków podatkowych dla przedsiębiorstwa w spadku.
+Minister Finansów określi, w drodze rozporządzenia, tryb składania zgłoszeń identyfikacyjnych oraz składania informacji o zmianie danych objętych tym zgłoszeniem przez podatników, o których mowa w art. 6 ust. 8.
 
-2. W przypadku zgonu lub ustania bytu prawnego podatnika nadany NIP wygasa, z wyjątkiem przypadków wymienionych w ust. 1–1b.
+### Rozdział 3 Zasady posługiwania się numerami identyfikacji podatkowej
 
-3. (uchylony) 3a. (uchylony)
+### Art. 11.
 
-**Art. 12a.** Przepisy niniejszego rozdziału, dotyczące podatników, stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych.
+### 1.
 
-#### Rozdział 4 Rejestr podatników
+Podatnicy podają NIP na wszelkich dokumentach związanych z wykonywaniem zobowiązań podatkowych oraz niepodatkowych należności budżetowych, do których poboru obowiązane są organy podatkowe lub celne.
 
-**Art. 13.**
+### 2.
 
-1. Dokumentacja związana z nadaniem NIP oraz aktualizowaniem danych zawartych w zgłoszeniach identyfikacyjnych jest gromadzona i przechowywana w urzędach skarbowych, a dokumentacja złożona za pomocą środków komunikacji elektronicznej lub za pośrednictwem systemu teleinformatycznego, jest gromadzona i przechowywana w CRP KEP.
+W sprawach dotyczących zobowiązań podatkowych oraz niepodatkowych należności budżetowych podatnicy mają obowiązek podawać NIP na żądanie:
 
-2. Dokumentacja, o której mowa w ust. 1, nie podlega przekazaniu do archiwów państwowych.
+### 1)
 
-3. Naczelnik urzędu skarbowego wydaje:
+organów administracji rządowej i samorządowej,
 
-- **1)** zaświadczenie o nadaniu NIP podmiotowi, który się nim posługuje, na wniosek tego podmiotu;
-- **2)** informację o nadanym NIP podmiotowi, na wniosek osoby trzeciej zawierający dane podmiotu, o którego NIP wystąpiono.
+### 2)
 
-3a. Szef Krajowej Administracji Skarbowej oraz naczelnicy urzędów skarbowych udostępniają NIP organom prowadzącym urzędowe rejestry na podstawie odrębnych przepisów, na ich wniosek zawierający dane niezbędne do identyfikacji podmiotu. Wniosek i NIP organy otrzymują za pośrednictwem elektronicznej platformy usług administracji publicznej (ePUAP), o której mowa w art. 19a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), lub innych środków komunikacji elektronicznej.
+organów kontroli skarbowej,
 
-3b. Wzory wniosków, o których mowa w ust. 3, udostępnia się w Biuletynie Informacji Publicznej ministra właściwego do spraw finansów publicznych.
+### 3)
 
-4. (uchylony)
+przedstawicieli Najwyższej Izby Kontroli,
 
-**Art. 14.**
+### 4)
 
-1. Szef Krajowej Administracji Skarbowej prowadzi w systemie teleinformatycznym CRP KEP i jest administratorem danych w nim zawartych.
+banków,
 
-2. CRP KEP służy:
+### 5)
 
-- **1)** gromadzeniu wybranych danych ewidencyjnych z rejestru PESEL dotyczących osób fizycznych objętych tym rejestrem oraz danych wynikających:
-    - **a)** ze zgłoszeń identyfikacyjnych i aktualizacyjnych podmiotów,
-    - **b)** z niektórych dokumentów związanych z obowiązkami wynikającymi z przepisów podatkowych;
+stron czynności cywilnoprawnych,
 
-- **2)** weryfikacji danych, o których mowa w pkt 1, oraz porównaniu ich z rejestrami urzędowymi i sądowymi prowadzonymi na podstawie odrębnych przepisów;
-- **3)** wymianie danych z rejestrem PESEL, Centralną Ewidencją i Informacją o Działalności Gospodarczej, krajowym rejestrem urzędowym podmiotów gospodarki narodowej, Krajowym Rejestrem Sądowym, Centralnym Rejestrem Płatników Składek.
+### 6)
 
-3. Naczelnicy urzędów skarbowych zamieszczają w CRP KEP dane zawarte w dokumentacji, o której mowa w art. 13 ust. 1, dane z dokumentów, o których mowa w ust. 2 pkt 1 lit. b, oraz dane uzupełniające, o których mowa w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, o ile nie są one zamieszczone za pomocą środków komunikacji elektronicznej lub za pośrednictwem systemu teleinformatycznego.
+płatników oraz inkasentów podatków i niepodatkowych należności budżetowych.
 
-3a. CRP KEP przekazuje automatycznie za pośrednictwem systemu teleinformatycznego dane uzupełniające podmiotu wpisanego do Krajowego Rejestru Sądowego, o których mowa w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, do krajowego rejestru urzędowego podmiotów gospodarki narodowej bezpośrednio po ich zamieszczeniu w CRP KEP. Przepis stosuje się odpowiednio do zmiany danych.
+### 3.
 
-3b. CRP KEP przekazuje automatycznie za pośrednictwem systemu teleinformatycznego dane objęte treścią wpisu w Krajowym Rejestrze Sądowym oraz dane uzupełniające podmiotu, o których mowa w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych, do Centralnego Rejestru Płatników Składek bezpośrednio po ich zamieszczeniu w CRP KEP. Przepis stosuje się odpowiednio do zmiany danych.
+Płatnicy i inkasenci, o których mowa w ust. 2 pkt 6, obowiązani są żądać od podatników podania NIP i przekazywać go organom podatkowym.
 
-4. Minister właściwy do spraw informatyzacji po zarejestrowaniu osoby fizycznej w rejestrze PESEL jest obowiązany przekazywać niezwłocznie z tego rejestru do CRP KEP następujące dane: nazwisko, imię, numer PESEL, informacje o dacie zgonu i dacie znalezienia zwłok, numery PESEL rodziców, jeżeli zostały im nadane, a w przypadku braku numerów PESEL – imiona i nazwiska rodowe rodziców.
+### Art. 12.
 
-5. Minister właściwy do spraw informatyzacji po otrzymaniu od Szefa Krajowej Administracji Skarbowej informacji o zaewidencjonowaniu osoby fizycznej objętej rejestrem PESEL w CRP KEP niezwłocznie przekazuje posiadane dane z rejestru PESEL w zakresie określonym w art. 5 ust. 2, dane, o których mowa w art. 8 pkt 12 i 13 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274, z późn. zm. ), oraz adres zameldowania na pobyt stały lub czasowy.
+### 1.
 
-6. W przypadku zmiany danych, o których mowa w ust. 4 i 5, minister właściwy do spraw informatyzacji niezwłocznie przekazuje zmienione dane.
+NIP nadany podatnikowi nie przechodzi na następcę prawnego, z wyjątkiem:
 
-7. Przekazywanie danych przez ministra właściwego do spraw informatyzacji następuje przy wykorzystaniu środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) i na zasadach określonych w ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne oraz w ustawie z dnia 24 września 2010 r. o ewidencji ludności.
+### 1)
 
-8. Szef Krajowej Administracji Skarbowej i naczelnik urzędu skarbowego uzupełniają lub aktualizują w CRP KEP dane dotyczące numeru podmiotu w Krajowym Rejestrze Sądowym, numeru identyfikacyjnego REGON, numeru PESEL oraz rodzaju i numeru dowodu tożsamości na podstawie informacji otrzymanych od organów prowadzących rejestry urzędowe i sądowe zawierające te dane lub informacji ujawnionych w tych rejestrach.
+przekształcenia przedsiębiorstwa państwowego w jednoosobową spółkę Skarbu Państwa lub przedsiębiorstwa komunalnego w jednoosobową spółkę gminy,
 
-9. Szef Krajowej Administracji Skarbowej i naczelnik urzędu skarbowego mogą aktualizować w CRP KEP nazwę podmiotu (firmę), adres jego siedziby, adres stałego miejsca wykonywania działalności gospodarczej i adresy dodatkowych stałych miejsc wykonywania działalności gospodarczej na podstawie danych zawartych w Krajowym Rejestrze Sądowym lub Centralnej Ewidencji i Informacji o Działalności Gospodarczej lub otrzymanych odpowiednio z tego rejestru lub tej ewidencji za pośrednictwem systemu teleinformatycznego.
+### 2)
 
-**Art. 14a.** CRP KEP jest wykorzystywany przez ministra właściwego do spraw finansów publicznych oraz organy Krajowej Administracji Skarbowej do realizacji celów i zadań ustawowych.
+przekształcenia spółki z ograniczoną odpowiedzialnością w spółkę akcyjną lub spółki akcyjnej w spółkę z ograniczoną odpowiedzialnością.
 
-**Art. 14b.** (uchylony)
+### 2.
 
-**Art. 15.**
+W przypadku zgonu lub ustania bytu prawnego podatnika, decyzja o nadaniu NIP wygasa, z wyjątkiem przypadków wymienionych w ust. 1.
 
-1. Dane zgromadzone w CRP KEP oraz zawarte w dokumentacji, o której mowa w art. 13 ust. 1, są objęte tajemnicą skarbową.
+### 3.
 
-1a. Do przestrzegania tajemnicy skarbowej, o której mowa w ust. 1, są obowiązane:
+Organy prowadzące ewidencję ludności obowiązane są, w terminie 60 dni od dnia otrzymania aktu zgonu, do przekazania pisemnej informacji o zgonie urzędowi skarbowemu właściwemu ze względu na ostatnie miejsce zamieszkania zmarłego podatnika.
 
-- **1)** osoby wymienione w art. 294 § 1 pkt 1, 4 i 5 Ordynacji podatkowej;
-- **2)** sędziowie i asesorzy sądowi;
-- **3)** pracownicy organów pośredniczących w składaniu zgłoszeń identyfikacyjnych i aktualizacyjnych;
-- **4)** organy wymienione w art. 14a i pracownicy urzędów obsługujących te organy. [1b. Tajemnicą skarbową nie są objęte dane z Krajowego Rejestru Sądowego, NIP, numer identyfikacyjny REGON, numer rachunku bankowego lub imiennego rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, dane przekazane na podstawie art. 14 ust. 3a i 3b przez CRP KEP za pośrednictwem systemu teleinformatycznego do krajowego rejestru urzędowego podmiotów gospodarki narodowej i do Centralnego Rejestru Płatników Składek, a w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą – również nazwa (firma), adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres stałego miejsca wykonywania działalności, a w przypadku nieposiadania stałego miejsca wykonywania działalności – adres miejsca zamieszkania, oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych.] <1b. Tajemnicą skarbową nie są objęte dane z Krajowego Rejestru Sądowego, NIP, numer identyfikacyjny REGON, numer rachunku bankowego lub imiennego rachunku w spółdzielczej kasie oszczędnościowo-kredytowej, dane przekazane na podstawie art. 14 ust. 3a i 3b przez CRP KEP za pośrednictwem systemu teleinformatycznego do krajowego rejestru urzędowego podmiotów gospodarki narodowej i do Centralnego Rejestru Płatników Składek oraz dodatkowo:
-- **1)** nazwa (firma), adresy, pod którymi jest wykonywana działalność gospodarcza, w tym adres stałego miejsca wykonywania działalności, a w przypadku nieposiadania stałego miejsca wykonywania działalności – adres miejsca zamieszkania, oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych – w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą;
-- **2)** pełna i skrócona nazwa (firma), adres siedziby, adres do doręczeń oraz adresy miejsc prowadzenia działalności, przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych, dane dotyczące wspólników, w tym identyfikator podatkowy poszczególnych wspólników, sposób reprezentacji spółki oraz dane wspólników uprawnionych do reprezentacji w przypadku spółek cywilnych, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, i wykonujących działalność gospodarczą.>
+### Rozdział 4 Rejestr podatników
 
-2. Dane zgromadzone w CRP KEP udostępnia się wyłącznie:
+### Art. 13.
 
-- **1)** sądom, prokuratorom, organom podatkowym, organom celnym, przedstawicielom Najwyższej Izby Kontroli, Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego i Żandarmerii Wojskowej – w związku z prowadzonym postępowaniem;
-- **1a)** Szefowi Krajowego Centrum Informacji Kryminalnych w celu realizacji jego zadań ustawowych;
-- **1b)** (uchylony) 1c) komornikom sądowym w związku z wykonywaniem zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26), oraz administracyjnym organom egzekucyjnym w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym;
-- **1d)** Inspektorowi Nadzoru Wewnętrznego w celu realizacji jego zadań ustawowych;
-- **1e)** (uchylony)
-- **2)** naczelnym i centralnym organom administracji rządowej – w związku z postępowaniem w sprawie udzielenia koncesji bądź zezwolenia na prowadzenie działalności gospodarczej;
-- **3)** podatnikowi – w zakresie dotyczącym jego numeru;
-- **4)** służbom statystyki publicznej w zakresie i dla potrzeb wynikających z przepisów o statystyce publicznej;
-- **5)** Zakładowi Ubezpieczeń Społecznych oraz Państwowemu Funduszowi Rehabilitacji Osób Niepełnosprawnych – do realizacji zadań i celów określonych w odrębnych ustawach;
-- **6)** (uchylony)
-- **7)** organom prowadzącym urzędowe rejestry na podstawie odrębnych przepisów, na wniosek zawierający dane niezbędne do identyfikacji podmiotów, o których mowa w art. 2, w zakresie NIP, w związku z realizacją ich zadań ustawowych;
-- **8)** izbie rozliczeniowej w rozumieniu art. 119zg pkt 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa – w zakresie i na zasadach określonych w ust. 5;
-- **9)** Przewodniczącemu Komisji Nadzoru Finansowego – w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640 i 1069);
-- **10)** ministrowi właściwemu do spraw informatyzacji – za pośrednictwem systemu teleinformatycznego w zakresie niezbędnym do zapewnienia funkcjonowania usług dostępnych w e-Urzędzie Skarbowym udostępnianych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019).
+### 1.
 
-2a. Obowiązek udostępniania danych zgromadzonych w CRP KEP nie dotyczy sytuacji, gdy podmiot, o którym w ust. 2, występuje o udostępnienie wyłącznie danych, o których mowa w art. 14 ust. 4.
+Dokumentacja związana z nadaniem NIP oraz aktualizowaniem danych zawartych w zgłoszeniach identyfikacyjnych jest gromadzona i przechowywana w urzędach skarbowych.
 
-2b. Obowiązek udostępniania danych zgromadzonych w CRP KEP nie dotyczy danych objętych treścią wpisu w Krajowym Rejestrze Sądowym oraz danych uzupełniających, o których mowa w art. 42 ust. 3a pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej i w art. 43 ust. 5b pkt 2 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych.
+### 2.
 
-2c. CRP KEP udostępnia za pośrednictwem systemu teleinformatycznego informację o nadanym podmiotowi NIP lub o jego unieważnieniu, uchyleniu lub przywróceniu krajowemu rejestrowi urzędowemu podmiotów gospodarki narodowej i Centralnemu Rejestrowi Płatników Składek.
+Dokumentacja, o której mowa w ust. 1, nie podlega przekazaniu do archiwów państwowych.
 
-3. Dane zgromadzone w CRP KEP są udostępniane przez:
+### 3.
 
-- **1)** Szefa Krajowej Administracji Skarbowej – w przypadku udostępniania danych komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym oraz ministrowi właściwemu do spraw informatyzacji;
-- **2)** naczelnika urzędu skarbowego – w przypadku udostępniania danych podatnikowi, organom egzekucyjnym innym niż komornicy sądowi, sądom i Straży Granicznej;
-- **3)** Szefa Krajowej Administracji Skarbowej i naczelnika urzędu skarbowego – w przypadku udostępniania danych podmiotom, o których mowa w ust. 2 pkt 1, z wyłączeniem sądów i Straży Granicznej, 1a, 1d, 2, 4, 5, i 7–9.
+Na wniosek zainteresowanego urząd skarbowy obowiązany jest do potwierdzenia faktu nadania NIP podmiotowi, który nim się posługuje.
 
-4. (uchylony) [5. CRP KEP przekazuje automatycznie do STIR w rozumieniu art. 119zg pkt 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dane z Krajowego Rejestru Sądowego, NIP, numer identyfikacyjny REGON oraz dane z wykazu, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług. W przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą CRP KEP przekazuje również firmę, adres stałego miejsca wykonywania działalności, adresy dodatkowych miejsc wykonywania działalności, a w przypadku nieposiadania stałego miejsca wykonywania działalności – adres miejsca zamieszkania oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych. Przepisu ust. 2b w zakresie danych objętych treścią wpisu w Krajowym Rejestrze Sądowym nie stosuje się.] <5. CRP KEP przekazuje automatycznie do STIR w rozumieniu art. 119zg pkt 6 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dane z Krajowego Rejestru Sądowego, NIP, numer identyfikacyjny REGON, dane z wykazu, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, oraz dodatkowo:
+### Art. 14.
 
-- **1)** firmę, adres stałego miejsca wykonywania działalności, adresy dodatkowych miejsc wykonywania działalności, a w przypadku nieposiadania stałego miejsca wykonywania działalności – adres miejsca zamieszkania oraz przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych w przypadku osób fizycznych wpisanych do Centralnej Ewidencji i Informacji o Działalności Gospodarczej i wykonujących działalność gospodarczą;
-- **2)** pełną i skróconą nazwę (firmę), adres siedziby, adres do doręczeń oraz adresy miejsc prowadzenia działalności, przedmiot wykonywanej działalności określony według obowiązujących standardów klasyfikacyjnych, dane dotyczące wspólników, w tym identyfikator podatkowy poszczególnych wspólników, sposób reprezentacji spółki oraz dane wspólników uprawnionych do reprezentacji w przypadku spółek cywilnych, o których informacje podlegają publikacji w Centralnej Ewidencji i Informacji o Działalności Gospodarczej, i wykonujących działalność gospodarczą – przy czym przepisu ust. 2b w zakresie danych objętych treścią wpisu w Krajowym Rejestrze Sądowym nie stosuje się.>
+### 1.
 
-6. Dane z CRP KEP, o których mowa w art. 14 ust. 2 pkt 1 i 2, są udostępniane ministrowi właściwemu do spraw gospodarki prowadzącemu Centralną Ewidencję i Informację o Działalności Gospodarczej.
+Tworzy się Krajową Ewidencję Podatników, prowadzoną przez Ministra Finansów.
 
-**Art. 15a.** Przepisy niniejszego rozdziału, dotyczące podatników, stosuje się odpowiednio do płatników podatków oraz płatników składek ubezpieczeniowych. Art. 15aa. 1. W związku z przetwarzaniem danych osobowych w celu nadania NIP wykonanie obowiązku, o którym mowa w art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm. ), następuje przez udostępnienie informacji, o których mowa w art. 13 ust. 1 i 2, tego rozporządzenia w miejscu publicznie dostępnym w siedzibie organu lub w Biuletynie Informacji Publicznej na stronie podmiotowej tego organu lub urzędu obsługującego ten organ oraz na jego stronie internetowej. W takim przypadku, pozyskując dane osobowe, organ przekazuje osobie, której dane dotyczą, informacje o sposobie wykonania tego obowiązku. 2. Organy, o których mowa w art. 14a, mogą upoważniać do przetwarzania danych osobowych osoby zatrudnione lub pełniące służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, w zakresie niezbędnym do realizacji zadań powierzonych tym osobom. Upoważnienie jest wydawane w formie pisemnej w drodze imiennego upoważnienia, upoważnienia stanowiskowego lub aktu wewnętrznego, chyba że przepis szczególny stanowi inaczej. Organy te prowadzą rejestr osób upoważnionych do przetwarzania danych osobowych. 3. Dane osobowe przetwarzane przez organy, o których mowa w art. 14a, podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+### 2.
 
-**Art. 15b.** W zakresie nieuregulowanym w art. 15 stosuje się przepisy art. 294 § 2–5 oraz działu VIII Ordynacji podatkowej.
+Krajowa Ewidencja Podatników służy:
 
-#### Rozdział 5 Przepisy karne
+### 1)
 
-**Art. 16.** (uchylony)
+gromadzeniu i weryfikacji danych wynikających ze zgłoszeń identyfikacyjnych podatników,
 
-**Art. 17.** (uchylony)
+### 2)
 
-#### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+porównaniu danych wynikających ze zgłoszeń identyfikacyjnych podatników z innymi rejestrami urzędowymi w celu ustalenia podatników, którzy naruszyli przepisy ustawy.
 
-**Art. 18.** (pominięty)
+### 3.
 
-**Art. 19.** (pominięty)
+Urzędy skarbowe obowiązane są niezwłocznie przekazywać do Krajowej Ewidencji Podatników dane zawarte w dokumentacji, o której mowa w art. 13 ust. 1.
 
-**Art. 20.** Numery identyfikacyjne nadane na podstawie ustawy wymienionej w art. 19 stają się NIP. Przepis art. 8 ust. 2 stosuje się odpowiednio.
+### Art. 15.
 
-**Art. 21.** (pominięty)
+### 1.
 
-**Art. 22.**
+Urzędy skarbowe obowiązane są do zachowania tajemnicy odnośnie do danych zawartych w dokumentacji, o której mowa w art. 13 ust. 1.
 
-1. (pominięty)
+### 2.
 
-2. Minister Finansów może, w drodze rozporządzenia, zwolnić na czas określony niektóre grupy podatników z obowiązku identyfikacyjnego.
+Dane, o których mowa w ust. 1, udostępnia się wyłącznie:
 
-3. Minister Finansów może, w drodze rozporządzenia, ze względu na ochronę informacji niejawnych, uregulować odrębnie tryb nadawania numerów identyfikacji podatkowej oraz warunki posługiwania się tymi numerami.
+### 1)
 
-**Art. 23.** Ustawa wchodzi w życie z dniem 1 stycznia 1996 r.
+sądom, prokuratorom, organom kontroli skarbowej, organom podatkowym, organom celnym, przedstawicielom Najwyższej Izby Kontroli, Policji, Urzędowi Ochrony Państwa, Żandarmerii Wojskowej i Wojskowym Służbom Informacyjnym - w związku z prowadzonym postępowaniem,
 
+### 2)
+
+naczelnym i centralnym organom administracji rządowej - w związku z postępowaniem w sprawie udzielenia koncesji bądź zezwolenia na prowadzenie działalności gospodarczej,
+
+### 3)
+
+podatnikowi - w zakresie dotyczącym jego numeru,
+
+### 4)
+
+służbom statystyki publicznej w zakresie i dla potrzeb wynikających z przepisów o statystyce publicznej.
+
+### 3.
+
+Dane zgromadzone w Krajowej Ewidencji Podatników udostępniane są przez Ministra Finansów. Przepis ust. 2 stosuje się odpowiednio.
+
+### Rozdział 5 Przepisy karne
+
+### Art. 16.
+
+### 1.
+
+Kto, wbrew obowiązkowi:
+
+### 1)
+
+w przewidzianym przepisami terminie nie dokonuje zgłoszenia identyfikacyjnego,
+
+### 2)
+
+dokonuje zgłoszenia identyfikacyjnego więcej niż jednokrotnie,
+
+### 3)
+
+nie podaje numeru identyfikacji podatkowej lub podaje numer fałszywy
+
+- podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega podatnik wymieniony w art. 6 ust. 1-6, który w przewidzianym przepisami terminie nie dokonuje aktualizacji danych objętych zgłoszeniem identyfikacyjnym.
+
+### Art. 17.
+
+### 1.
+
+Kto, będąc płatnikiem, nie dopełnia obowiązków określonych w art. 8 ust. 3, 4 lub 6 ustawy
+
+- - podlega karze grzywny.
+
+### 2.
+
+Tej samej karze podlega podatnik wymieniony w art. 6 ust. 7 i 8 ustawy, który w przewidzianym przepisami terminie nie dokonuje aktualizacji danych objętych zgłoszeniem identyfikacyjnym.
+
+### 3.
+
+Orzekanie w sprawach, o których mowa w ust. 1 i 2, następuje na zasadach i w trybie określonych w Kodeksie postępowania w sprawach o wykroczenia.
+
+### Rozdział 6 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+### Art. 18.
+
+W ustawie z dnia 29 grudnia 1982 r. o urzędzie Ministra Finansów oraz urzędach i izbach skarbowych ([Dz. U. z 1994 r. Nr 106, poz. 511](https://api.sejm.gov.pl/eli/acts/DU/1994/511/text.html)) w art. 2 po pkt 19 dodaje się pkt 19a w brzmieniu:
+
+„
+
+### 19a)
+
+prowadzenie Krajowej Ewidencji Podatników,
+
+” .
+
+### Art. 19.
+
+W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym ([Dz. U. Nr 11, poz. 50](https://api.sejm.gov.pl/eli/acts/DU/1993/50/text.html), [Nr 28, poz. 127](https://api.sejm.gov.pl/eli/acts/DU/1993/127/text.html) i [Nr 129, poz. 599](https://api.sejm.gov.pl/eli/acts/DU/1993/599/text.html), z [1994 r. Nr 132, poz. 670](https://api.sejm.gov.pl/eli/acts/DU/1994/670/text.html) oraz z [1995 r. Nr 44, poz. 231](https://api.sejm.gov.pl/eli/acts/DU/1995/231/text.html)) w art. 9:
+
+### 1)
+
+w ust. 2 skreśla się wyrazy „, i nadaje podatnikowi numer identyfikacyjny”;
+
+### 2)
+
+w ust. 3 skreśla się wyrazy „i uzyskać numer identyfikacyjny”;
+
+### 3)
+
+w ust. 5 skreśla się pierwsze zdanie;
+
+### 4)
+
+w ust. 5a po wyrazach „z rejestru” skreśla się przecinek i wyrazy „a w przypadkach określonych w ust. 5 następuje również unieważnienie numeru identyfikacyjnego”;
+
+### 5)
+
+w ust. 6 wyrazy „art. 14 ust. 1, 2 i 5” zastępuje się wyrazami „art. 14 ust. 1 i 5”;
+
+### 6)
+
+skreśla się ust. 7;
+
+### 7)
+
+ust. 8 otrzymuje brzmienie:
+
+„
+
+### 8.
+
+Podatnik zarejestrowany obowiązany jest umieszczać numer identyfikacji podatkowej na fakturach i rachunkach uproszczonych oraz w ofertach.
+
+” ;
+
+### 8)
+
+skreśla się ust. 10.
+
+### Art. 20.
+
+Numery identyfikacyjne nadane na podstawie ustawy wymienionej w art. 19 stają się NIP. Przepis art. 8 ust. 2 stosuje się odpowiednio.
+
+### Art. 21.
+
+Do zgłoszeń rejestracyjnych, o których mowa w art. 9 ustawy wymienionej w art. 19, wniesionych przed dniem wejścia w życie niniejszej ustawy, stosuje się dotychczasowe przepisy o podatku od towarów i usług oraz o podatku akcyzowym.
+
+### Art. 22.
+
+### 1.
+
+Zwalnia się z obowiązku ewidencyjnego, na okres 3 lat, podmioty będące wyłącznie podatnikami podatków stanowiących dochody budżetów gmin.
+
+### 2.
+
+Minister Finansów może, w drodze rozporządzenia, zwolnić na czas określony niektóre grupy podatników z obowiązku identyfikacyjnego.
+
+### 3.
+
+Minister Finansów może, w drodze zarządzenia, ze względu na ochronę tajemnicy państwowej, uregulować odrębnie tryb nadawania numerów identyfikacji podatkowej oraz warunki posługiwania się tymi numerami.
+
+### Art. 23.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1996 r.

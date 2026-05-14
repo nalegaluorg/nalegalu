@@ -8,11 +8,9 @@ pos: 59
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
-
-*USTAWA dnia 5 grudnia 2008 o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw*
+# Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym oraz ustawę z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,53 +22,414 @@ domain: null
 | Data ogłoszenia | 2008-12-05 |
 | Data wydania | 2009-01-26 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090110059) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/59/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2009/59/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2009/59) |
 
-**Art. 1.** W ustawie dnia 24 sierpnia 1991 o ochronie przeciwpożarowej (Dz. U. 2002 147, 1229, późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 14b.**
+### Art. 1.
 
-1. Dysponent jednostki, w rozumieniu ustawy dnia 8 września 2006 o Państwowym Ratownictwie Medycznym, zapewnia środki łączności umożliwiające komunikację centrum powiadamiania ratunkowego pomiędzy jednostkami systemu Państwowego Ratownictwa Medycznego oraz zatrudnienie dyspozytorów medycznych.
+W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ([Dz. U. z 2002 r. Nr 147, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2002/1229/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590 oraz z 2008 r. Nr 163, poz. 1015.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-2. Komendant wojewódzki Policji zapewnia jednostkom podległym środki łączności umożliwiające komunikację centrum powiadamiania ratunkowego.
+### 1)
 
-**Art. 14c.**
+art. 9 otrzymuje brzmienie:
 
-1. Wojewódzkie centrum powiadamiania ratunkowego oraz centra powiadamiania ratunkowego organizowane są odpowiednio przez komendantów wojewódzkich komendantów powiatowych (miejskich) Państwowej Straży Pożarnej, zastrzeżeniem ust. 3.
+„
 
-2. Komendant wojewódzki Państwowej Straży Pożarnej, w uzgodnieniu wojewodą, określi liczbę, lokalizację teren działania centrów powiadamiania ratunkowego oraz liczbę stanowisk dyspozytorów medycznych stanowisk operatorów numerów alarmowych.
+### Art. 9.
 
-3. Wojewoda może, w drodze porozumienia, powierzyć organizowanie centrów powiadamiania ratunkowego starostom lub prezydentom miast na prawach powiatów. Porozumienie określa prawa obowiązki stron oraz zasady współfinansowania centrów powiadamiania ratunkowego. wie porozumienia zawartego wojewodą. Porozumienie określa zakres zasady wykonywania zadań oraz ich finansowanie.
+Kto zauważy pożar, klęskę żywiołową lub inne miejscowe zagrożenie, jest obowiązany niezwłocznie zawiadomić osoby znajdujące się w strefie zagrożenia oraz: centrum powiadamiania ratunkowego lub jednostkę ochrony przeciwpożarowej albo Policję bądź wójta albo sołtysa.
 
-**Art. 14d.**
+” ;
 
-1. Wojewódzkie centra powiadamiania ratunkowego są finansowane budżetu państwa, części, której dysponentem jest właściwy wojewoda.
+### 2)
 
-2. Centra powiadamiania ratunkowego organizowane przez komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej są finansowane budżetu państwa w formie dotacji celowej na zadania zakresu administracji rządowej.
+art. 12 otrzymuje brzmienie:
 
-**Art. 14e.** Minister właściwy do spraw wewnętrznych, w porozumieniu ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia:
+„
 
-**Art. 2.** W ustawie dnia 18 kwietnia 2002 o stanie klęski żywiołowej (Dz. U. 62, 558, późn. zm. ) w art. 17 ust. 1 otrzymuje brzmienie: „1. W zapobieganiu skutkom klęski żywiołowej lub ich usuwaniu uczestniczą: Państwowa Straż Pożarna inne jednostki ochrony przeciwpożarowej oraz centra powiadamiania ratunkowego, o których mowa w art. 14a-14f ustawy dnia 24 sierpnia 1991 o ochronie przeciwpożarowej (Dz. U. 2002 147, 1229, późn. zm. ), Policja, jednostki systemu Państwowego Ratownictwa Medycznego, dyspozytorzy medyczni, jednostki ochrony zdrowia, Straż Graniczna, Morska Służba Poszukiwania Ratownictwa oraz inne właściwe w tych sprawach państwowe urzędy, agencje, inspekcje, straże służby.”.
+### Art. 12.
 
-**Art. 3.** W ustawie dnia 16 lipca 2004 – Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ) w art. 78 po ust. 7 dodaje się ust. 7a w brzmieniu: „7a. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, organizację funkcjonowanie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb, o których mowa w ust. 4 pkt 1, mając na uwadze zapewnienie sprawnej dystrybucji udostępnianych przez system, o którym mowa w ust. 4, informacji danych właściwym terytorialnie centrom powiadamiania ratunkowego, wojewódzkim centrom powiadamiania ratunkowego oraz jednostkom służb ustawowo powołanych do niesienia pomocy.”.
+Minister właściwy do spraw wewnętrznych pełni nadzór nad funkcjonowaniem krajowego systemu ratowniczo-gaśniczego i systemu powiadamiania ratunkowego.
 
-**Art. 4.** W ustawie dnia 8 września 2006 o Państwowym Ratownictwie Medycznym (Dz. U. 191, 1410, późn. zm. ) wprowadza się następujące zmiany:
+” ;
 
-**Art. 5.** W ustawie dnia 26 kwietnia 2007 o zarządzaniu kryzysowym (Dz. U. 89,
+### 3)
 
-**Art. 6.** W ustawie dnia 11 stycznia 2008 o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym (Dz. U. 17, 101) w art. 3 uchyla się ust. 3-5.
+w art. 14:
 
-**Art. 7.** Wojewoda może powierzyć, w drodze porozumienia, wykonywanie do dnia 31 grudnia 2013 zadań centrów powiadamiania ratunkowego innym podmiotom, w szczególności jednostkom organizacyjnym Państwowej Straży Pożarnej, Policji lub jednostkom samorządu terytorialnego.
+### a)
 
-**Art. 8.** Do dnia przekazania, o którym mowa w art. 3 ust. 1 ustawy dnia 11 stycznia 2008 o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym, centrum powiadamiania ratunkowego wojewódzkie centrum powiadamiania ratunkowego mają prawo uzyskać od przedsiębiorcy telekomunikacyjnego informacje dane, o których mowa w art. 14f ustawy zmienianej w art. 1.
+w ust. 1 pkt 6 otrzymuje brzmienie:
 
-**Art. 9.** Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2013 r., informacje dane, o których mowa w art. 78 ust. 1–3 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ), uzyskują również inne podmioty, którym właściwy miejscowo wojewoda, zgodnie art. 7, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+„
 
-**Art. 10.** Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2013 r., dostawca publicznie dostępnych usług telekomunikacyjnych jest obowiązany zapewnić kierowanie połączeń, o których mowa w art. 77 ust. 2 ustawy dnia 16 lipca 2004 – Prawo telekomunikacyjne, do podmiotów, którym właściwy miejscowo wojewoda, zgodnie art. 7, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+### 6)
 
-**Art. 11.** Do czasu utworzenia wojewódzkiego centrum powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2013 r., lekarze koordynatorzy ratownictwa medycznego działają w wojewódzkim centrum zarządzania kryzysowego, w liczbie niezbędnej do zapewnienia całodobowej realizacji zadań, o których mowa w art. 29 ust. 2 ustawy dnia 8 września 2006 o Państwowym Ratownictwie Medycznym (Dz. U. 191, 1410, późn. zm. ).
+współpracę z jednostkami systemu Państwowego Ratownictwa Medycznego, o których mowa w art. 32 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ([Dz. U. Nr 191, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653.](#gloss-0:3:)) oraz systemem powiadamiania ratunkowego.
 
-**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1, w jej wejścia w życie.
+” ,
 
-**Art. 13.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### b)
 
+w ust. 2 pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+organizacji stanowisk kierowania.
+
+” ;
+
+### 4)
+
+po art. 14 dodaje się art. 14a-14f w brzmieniu:
+
+„
+
+### Art. 14a.
+
+### 1.
+
+Tworzy się system powiadamiania ratunkowego integrujący krajowy system ratowniczo-gaśniczy i system Państwowego Ratownictwa Medycznego, w zakresie realizacji następujących zadań:
+
+### 1)
+
+bieżącej analizy zasobów ratowniczych,
+
+### 2)
+
+przyjmowania zgłoszeń alarmowych oraz obsługi numeru alarmowego 112,
+
+### 3)
+
+kwalifikacji zgłoszeń,
+
+### 4)
+
+podejmowania działań zgodnie z określonymi procedurami, w szczególności:
+
+### a)
+
+dysponowania sił ratowniczych i zespołów ratownictwa medycznego,
+
+### b)
+
+koordynowania oraz monitorowania działań ratowniczych i medycznych czynności ratunkowych,
+
+### c)
+
+powiadamiania o zdarzeniu szpitalnych oddziałów ratunkowych lub, jeżeli wymaga tego sytuacja na miejscu zdarzenia, jednostek organizacyjnych szpitali wyspecjalizowanych w zakresie udzielania świadczeń zdrowotnych niezbędnych dla ratownictwa medycznego,
+
+### d)
+
+inicjowania procedur reagowania kryzysowego.
+
+### 2.
+
+Zadania systemu powiadamiania ratunkowego wykonują na terenie województwa:
+
+### 1)
+
+wojewódzkie centrum powiadamiania ratunkowego, przez które rozumie się wspólne stanowisko kierowania, w skład którego wchodzą:
+
+### a)
+
+stanowisko kierowania komendanta wojewódzkiego Państwowej Straży Pożarnej,
+
+### b)
+
+stanowisko lekarza koordynatora ratownictwa medycznego, o którym mowa w art. 29 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym,
+
+### 2)
+
+centra powiadamiania ratunkowego, przez które rozumie się wspólne stanowiska kierowania, w skład których wchodzą:
+
+### a)
+
+stanowiska kierowania komendantów powiatowych (miejskich) Państwowej Straży Pożarnej,
+
+### b)
+
+dyspozytorzy medyczni zatrudnieni przez dysponentów jednostek określonych w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, funkcjonujących na terenie działania centrum powiadamiania ratunkowego,
+
+### 3)
+
+pozostałe stanowiska kierowania Państwowej Straży Pożarnej,
+
+### 4)
+
+stanowiska kierowania Policji obsługujące numery alarmowe, w zakresie określonym w ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170 oraz z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651.](#gloss-0:4:)).
+
+### 3.
+
+Jednostkami współpracującymi z systemem powiadamiania ratunkowego są ponadto, inne niż wymienione w ust. 2, służby ustawowo powołane do realizacji przedsięwzięć mających na celu ochronę życia, zdrowia oraz bezpieczeństwa obywateli, a także mienia i środowiska.
+
+### 4.
+
+Jednostkami współpracującymi z systemem powiadamiania ratunkowego mogą być społeczne organizacje ratownicze.
+
+### 5.
+
+W centrach powiadamiania ratunkowego i wojewódzkich centrach powiadamiania ratunkowego mogą być zatrudnieni operatorzy numerów alarmowych, do przyjmowania zgłoszeń alarmowych oraz podejmujący określone procedurami czynności.
+
+### 6.
+
+Centrum powiadamiania ratunkowego działa na terenie co najmniej jednego powiatu lub miasta na prawach powiatu, na obszarze którego wykonywane są zadania centrum powiadamiania ratunkowego.
+
+### 7.
+
+Komendant Główny Państwowej Straży Pożarnej koordynuje oraz kontroluje funkcjonowanie systemu powiadamiania ratunkowego, na obszarze kraju, w szczególności poprzez analizę funkcjonowania systemu powiadamiania ratunkowego w województwach oraz inicjowanie przedsięwzięć w zakresie systemu powiadamiania ratunkowego, z wyłączeniem świadczeń zdrowotnych, o których mowa w ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
+
+### 8.
+
+Wojewoda, przy pomocy komendanta wojewódzkiego Państwowej Straży Pożarnej oraz komendantów powiatowych (miejskich) Państwowej Straży Pożarnej, na obszarze województwa organizuje oraz koordynuje funkcjonowanie systemu powiadamiania ratunkowego.
+
+### 9.
+
+Wojewoda kontroluje oraz nadzoruje funkcjonowanie systemu powiadamiania ratunkowego na obszarze województwa.
+
+### Art. 14b.
+
+### 1.
+
+Dysponent jednostki, w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, zapewnia środki łączności umożliwiające komunikację z centrum powiadamiania ratunkowego i pomiędzy jednostkami systemu Państwowego Ratownictwa Medycznego oraz zatrudnienie dyspozytorów medycznych.
+
+### 2.
+
+Komendant wojewódzki Policji zapewnia jednostkom podległym środki łączności umożliwiające komunikację z centrum powiadamiania ratunkowego.
+
+### Art. 14c.
+
+### 1.
+
+Wojewódzkie centrum powiadamiania ratunkowego oraz centra powiadamiania ratunkowego organizowane są odpowiednio przez komendantów wojewódzkich i komendantów powiatowych (miejskich) Państwowej Straży Pożarnej, z zastrzeżeniem ust. 3.
+
+### 2.
+
+Komendant wojewódzki Państwowej Straży Pożarnej, w uzgodnieniu z wojewodą, określi liczbę, lokalizację i teren działania centrów powiadamiania ratunkowego oraz liczbę stanowisk dyspozytorów medycznych i stanowisk operatorów numerów alarmowych.
+
+### 3.
+
+Wojewoda może, w drodze porozumienia, powierzyć organizowanie centrów powiadamiania ratunkowego starostom lub prezydentom miast na prawach powiatów. Porozumienie określa prawa i obowiązki stron oraz zasady współfinansowania centrów powiadamiania ratunkowego.
+
+### 4.
+
+Centra powiadamiania ratunkowego w zakresie realizacji zadań, o których mowa w art. 14a ust. 1, mogą wykonywać zadania innych podmiotów oraz jednostek samorządu terytorialnego, na podstawie porozumienia zawartego z wojewodą. Porozumienie określa zakres i zasady wykonywania zadań oraz ich finansowanie.
+
+### Art. 14d.
+
+### 1.
+
+Wojewódzkie centra powiadamiania ratunkowego są finansowane z budżetu państwa, z części, której dysponentem jest właściwy wojewoda.
+
+### 2.
+
+Centra powiadamiania ratunkowego organizowane przez komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej są finansowane z budżetu państwa w formie dotacji celowej na zadania z zakresu administracji rządowej.
+
+### Art. 14e.
+
+Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia:
+
+### 1)
+
+szczegółową organizację, sposób funkcjonowania oraz realizacji zadań centrów powiadamiania ratunkowego i wojewódzkich centrów powiadamiania ratunkowego,
+
+### 2)
+
+ramowe procedury obsługi zgłoszeń przychodzących na numery alarmowe,
+
+### 3)
+
+kwalifikacje wymagane dla operatorów numerów alarmowych, o których mowa w art. 14a ust. 5,
+
+### 4)
+
+sposób i organizację przeprowadzania szkolenia operatorów numerów alarmowych,
+
+### 5)
+
+zakres, formę, sposób tworzenia i przekazywania informacji niezbędnych do funkcjonowania systemu powiadamiania ratunkowego,
+
+### 6)
+
+kryteria, do określenia liczby, lokalizacji i terenu działania centrum powiadamiania ratunkowego oraz liczby stanowisk dyspozytorów medycznych i stanowisk operatorów numerów alarmowych
+
+- uwzględniając potrzeby systemu powiadamiania ratunkowego, w zakresie jego sprawnego funkcjonowania.
+
+### Art. 14f.
+
+Centrum powiadamiania ratunkowego i wojewódzkie centrum powiadamiania ratunkowego mają prawo uzyskać, za pośrednictwem centralnego punktu systemu centrów powiadamiania ratunkowego albo własnego punktu centralnego, o których mowa w art. 78 ust. 4 pkt 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505.](#gloss-0:5:)), informacje dotyczące lokalizacji zakończenia sieci, z którego zostało wykonane połączenie do numeru alarmowego „112” albo innego numeru alarmowego oraz dane dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej, o których mowa w art. 169 ust. 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej ([Dz. U. Nr 62, poz. 558](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2006 r. Nr 50, poz. 360 i Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590.](#gloss-0:6:)) w art. 17 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W zapobieganiu skutkom klęski żywiołowej lub ich usuwaniu uczestniczą: Państwowa Straż Pożarna i inne jednostki ochrony przeciwpożarowej oraz centra powiadamiania ratunkowego, o których mowa w art. 14a-14f ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ([Dz. U. z 2002 r. Nr 147, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2002/1229/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59.](#gloss-0:7:)), Policja, jednostki systemu Państwowego Ratownictwa Medycznego, dyspozytorzy medyczni, jednostki ochrony zdrowia, Straż Graniczna, Morska Służba Poszukiwania i Ratownictwa oraz inne właściwe w tych sprawach państwowe urzędy, agencje, inspekcje, straże i służby.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne ([Dz. U. Nr 171, poz. 1800](https://api.sejm.gov.pl/eli/acts/DU/2004/1800/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505.](#gloss-0:8:)) w art. 78 po ust. 7 dodaje się ust. 7a w brzmieniu:
+
+„
+
+### 7a.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, organizację i funkcjonowanie centralnego punktu systemu centrów powiadamiania ratunkowego oraz punktów centralnych służb, o których mowa w ust. 4 pkt 1, mając na uwadze zapewnienie sprawnej dystrybucji udostępnianych przez system, o którym mowa w ust. 4, informacji i danych właściwym terytorialnie centrom powiadamiania ratunkowego, wojewódzkim centrom powiadamiania ratunkowego oraz jednostkom służb ustawowo powołanych do niesienia pomocy.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ([Dz. U. Nr 191, poz. 1410](https://api.sejm.gov.pl/eli/acts/DU/2006/1410/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653.](#gloss-0:9:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 21 w ust. 2 pkt 7 otrzymuje brzmienie
+
+„
+
+### 7)
+
+informacje o lokalizacji wojewódzkich centrów powiadamiania ratunkowego i centrów powiadamiania ratunkowego w rozumieniu ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej ([Dz. U. z 2002 r. Nr 147, poz. 1229](https://api.sejm.gov.pl/eli/acts/DU/2002/1229/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59.](#gloss-0:10:)) i przez nie obsługiwanych;
+
+” ;
+
+### 2)
+
+uchyla się art. 25;
+
+### 3)
+
+w art. 26 po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku organizacji centrum powiadamiania ratunkowego na obszarze działania kilku dysponentów jednostek, dyspozytora medycznego zatrudnia albo zawiera z nim umowę cywilnoprawną dysponent właściwy ze względu na lokalizację centrum powiadamiania ratunkowego.
+
+” ;
+
+### 4)
+
+uchyla się art. 28;
+
+### 5)
+
+w art. 29:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W wojewódzkim centrum powiadamiania ratunkowego działają lekarze koordynatorzy ratownictwa medycznego w liczbie niezbędnej do zapewnienia całodobowej realizacji zadań, o których mowa w ust. 2.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a w brzmieniu:
+
+„
+
+### 1a.
+
+Działalność lekarza koordynatora ratownictwa medycznego jest finansowana z budżetu państwa, z części, której dysponentem jest wojewoda.
+
+” ;
+
+### 6)
+
+w art. 38:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Oznaczenia systemu używają jednostki systemu, centrum powiadamiania ratunkowego, wojewódzkiego centrum powiadamiania ratunkowego i lekarz koordynator ratownictwa medycznego.
+
+” ,
+
+### b)
+
+w ust. 3 w pkt 2 lit. a otrzymuje brzmienie:
+
+„
+
+### a)
+
+jednostek systemu,
+
+” ;
+
+### 7)
+
+w art. 46 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+W przypadku gdy dysponent jednostki zatrudnia dyspozytora medycznego lub podpisuje z nim umowę cywilnoprawną, koszt medycznych czynności ratunkowych wykonywanych przez zespół ratownictwa medycznego uwzględnia koszty związane z funkcjonowaniem tego dyspozytora medycznego.
+
+” ;
+
+### 8)
+
+uchyla się art. 61.
+
+### Art. 5.
+
+W ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym ([Dz. U. Nr 89, poz. 590](https://api.sejm.gov.pl/eli/acts/DU/2007/590/text.html)) w art. 16 w ust. 2 uchyla się pkt 8.
+
+### Art. 6.
+
+W ustawie z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym ([Dz. U. Nr 17, poz. 101](https://api.sejm.gov.pl/eli/acts/DU/2008/101/text.html)) w art. 3 uchyla się ust. 3-5.
+
+### Art. 7.
+
+Wojewoda może powierzyć, w drodze porozumienia, wykonywanie do dnia 31 grudnia 2011 r. zadań centrów powiadamiania ratunkowego innym podmiotom, w szczególności jednostkom organizacyjnym Państwowej Straży Pożarnej, Policji lub jednostkom samorządu terytorialnego.
+
+### Art. 8.
+
+Do dnia przekazania, o którym mowa w art. 3 ust. 1 ustawy z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym, centrum powiadamiania ratunkowego i wojewódzkie centrum powiadamiania ratunkowego mają prawo uzyskać od przedsiębiorcy telekomunikacyjnego informacje i dane, o których mowa w art. 14f ustawy zmienianej w art. 1.
+
+### Art. 9.
+
+Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2011 r., informacje i dane, o których mowa w art. 78 ust. 1-3 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, uzyskują również inne podmioty, którym właściwy miejscowo wojewoda, zgodnie z art. 7, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+
+### Art. 10.
+
+Do czasu utworzenia centrów powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2011 r., dostawca publicznie dostępnych usług telekomunikacyjnych jest obowiązany zapewnić kierowanie połączeń, o których mowa w art. 77 ust. 2 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, do podmiotów, którym właściwy miejscowo wojewoda, zgodnie z art. 7, powierzył wykonywanie zadań centrum powiadamiania ratunkowego.
+
+### Art. 11.
+
+Do czasu utworzenia wojewódzkiego centrum powiadamiania ratunkowego, jednak nie później niż do dnia 31 grudnia 2011 r., lekarze koordynatorzy ratownictwa medycznego działają w wojewódzkim centrum zarządzania kryzysowego, w liczbie niezbędnej do zapewnienia całodobowej realizacji zadań, o których mowa w art. 29 ust. 2 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym.
+
+### Art. 12.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 14 ust. 2 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 24 miesiące od dnia jej wejścia w życie.
+
+### Art. 13.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej, ustawę z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne, ustawę z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym, ustawę z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym oraz ustawę z dnia 11 stycznia 2008 r. o zmianie ustawy - Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590 oraz z 2008 r. Nr 163, poz. 1015. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170 oraz z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676, z 2006 r. Nr 50, poz. 360 i Nr 191, poz. 1410 oraz z 2007 r. Nr 89, poz. 590. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 163, poz. 1362 i Nr 267, poz. 2258, z 2006 r. Nr 12, poz. 66, Nr 104, poz. 708 i 711, Nr 170, poz. 1217, Nr 220, poz. 1600, Nr 235, poz. 1700 i Nr 249, poz. 1834, z 2007 r. Nr 23, poz. 137, Nr 50, poz. 331 i Nr 82, poz. 556 oraz z 2008 r. Nr 17, poz. 101 i Nr 227, poz. 1505. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101 i Nr 237, poz. 1653. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 52, poz. 452, z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 100, poz. 835 i 836, z 2006 r. Nr 191, poz. 1410, z 2007 r. Nr 89, poz. 590, z 2008 r. Nr 163, poz. 1015 oraz z 2009 r. Nr 11, poz. 59.

@@ -8,11 +8,9 @@ pos: 1844
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu Wyższej Szkole Pedagogicznej w Częstochowie nazwy „Akademia im. Jana Długosza w Częstochowie”
-
-*USTAWA z dnia 1 lipca 2004 r.*
+# Ustawa z dnia 1 lipca 2004 r. o nadaniu Wyższej Szkole Pedagogicznej w Częstochowie nazwy „Akademia im. Jana Długosza w Częstochowie”
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2004-07-01 |
 | Data wydania | 2004-08-16 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041791844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1844/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/1844/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/1844) |
 
-**Art. 1.** Wyższej Szkole Pedagogicznej w Częstochowie nadaje się nazwę „Akademia im. Jana Długosza w Częstochowie”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2004 r.
+### Art. 1.
 
+Wyższej Szkole Pedagogicznej w Częstochowie nadaje się nazwę „Akademia im. Jana Długosza w Częstochowie”.
+
+### Art. 2.
+
+Ustawa wchodzi w życie z dniem 1 października 2004 r.

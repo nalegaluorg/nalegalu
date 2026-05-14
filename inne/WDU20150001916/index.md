@@ -8,11 +8,9 @@ pos: 1916
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "eli-html"
 ---
-
-# o zdrowiu publicznym
-
-*USTAWA z dnia 11 września 2015 r.*
+# Ustawa z dnia 11 września 2015 r. o zdrowiu publicznym [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawę z dnia 19 listopada 2009 r. o grach hazardowych.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,738 +22,1324 @@ domain: null
 | Data ogłoszenia | 2015-09-11 |
 | Data wydania | 2015-11-18 |
 | Ostatnia zmiana | 2026-02-17 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001916) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1916/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1916) |
 
-Art. 19–25. (pominięte)
+## Spis treści
 
-#### Rozdział 1 Przepisy ogólne
+- [Treść ustawy](#part_1) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - Koordynacja i opiniowanie realizacji zadań z zakresu zdrowia publicznego](#chpt_2) [Rozdział 3 - Narodowy Program Zdrowia i Komitet Sterujący Narodowego Programu Zdrowia](#chpt_3) [Rozdział 4 - Zasady finansowania zadań z zakresu zdrowia publicznego](#chpt_4) [Rozdział 5 - Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe](#chpt_5)
 
-**Art. 1.**
+TOC
 
-1. Ustawa określa zadania z zakresu zdrowia publicznego, podmioty uczestniczące realizacji tych zadań oraz zasady finansowania zadań z zakresu zdrowia publicznego.
+## Treść ustawy
 
-1a. Ustawa określa także zasady:
+### Rozdział 1 Przepisy ogólne
 
-- **1)** ustalania i pobierania opłaty od napojów z dodatkiem substancji o właściwościach słodzących, o których mowa art. 12a ust. 1 pkt 1, oraz kofeiny lub tauryny produkcie gotowym do spożycia;
-- **2)** sprzedaży i oznaczenia napojów z dodatkiem kofeiny lub tauryny produkcie gotowym do spożycia.
+### Art. 1.
 
-2. Przez zdrowie publiczne rozumie się zadania określone art. 2.
+### 1.
 
-**Art. 2.** Zadania z zakresu zdrowia publicznego obejmują:
+Ustawa określa zadania z zakresu zdrowia publicznego, podmioty uczestniczące w realizacji tych zadań oraz zasady finansowania zadań z zakresu zdrowia publicznego.
 
-**Art. 3.**
+### 2.
 
-1. Zadania z zakresu zdrowia publicznego realizują, współdziałając ze sobą, organy administracji rządowej, zgodnie z kompetencjami określonymi ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846), państwowe jednostki organizacyjne, tym agencje wykonawcze, a także jednostki samorządu terytorialnego, realizujące zadania własne polegające na promocji lub ochronie zdrowia.
+Przez zdrowie publiczne rozumie się zadania określone w art. 2.
 
-2. W realizacji zadań z zakresu zdrowia publicznego mogą uczestniczyć podmioty, których cele statutowe lub przedmiot działalności dotyczą spraw objętych zadaniami określonymi art. 2, tym organizacje pozarządowe i podmioty, o których mowa art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338).
+### Art. 2.
 
-3. W realizacji zadań, o których mowa art. 2 pkt 1, samorząd gminy oraz samorząd powiatu mogą współpracować z samorządem województwa.
+Zadania z zakresu zdrowia publicznego obejmują:
 
-4. W realizacji zadań, o których mowa art. 2 pkt 6, samorząd województwa współpracuje z wojewodą.
+### 1)
 
-5. Narodowy Fundusz Zdrowia realizuje zadania z zakresu zdrowia publicznego obejmujące finansowanie świadczeń opieki zdrowotnej na zasadach określonych ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26) oraz dofinansowanie programów polityki zdrowotnej na zasadach określonych art. 48d tej ustawy. Koordynacja i opiniowanie realizacji zadań z zakresu zdrowia publicznego
+monitorowanie i ocenę stanu zdrowia społeczeństwa, zagrożeń zdrowia oraz jakości życia związanej ze zdrowiem społeczeństwa;
 
-**Art. 4.**
+### 2)
 
-1. Zadania wynikające z ustawy koordynuje minister właściwy do spraw zdrowia.
+edukację zdrowotną dostosowaną do potrzeb różnych grup społeczeństwa, w szczególności dzieci, młodzieży i osób starszych;
 
-2. Do zadań ministra właściwego do spraw zdrowia zakresie koordynacji zadań z zakresu zdrowia publicznego należy:
+### 3)
 
-- **1)** przygotowanie projektu Narodowego Programu Zdrowia, o którym mowa art. 9 ust. 1;
-- **2)** monitorowanie realizacji zadań, o których mowa art. 2;
-- **3)** zapewnianie spójności zadań realizowanych przez organy i podmioty, o których mowa art. 3;
-- **4)** sygnalizowanie właściwym organom i podmiotom, o których mowa art. 3, potrzeby podjęcia określonych zadań z zakresu zdrowia publicznego;
-- **5)** gromadzenie i analizowanie informacji dotyczących sytuacji zdrowotnej społeczeństwa i rozpowszechnienia czynników ryzyka oraz udostępnianie tych informacji sposób uniemożliwiający identyfikację osób, których dotyczą;
-- **6)** analizowanie informacji, o których mowa art. 12;
-- **7)** sporządzanie informacji o zadaniach z zakresu zdrowia publicznego zrealizowanych lub podjętych danym roku, wraz z ich ewaluacją.
+promocję zdrowia;
 
-3. Do realizacji zadań, o których mowa ust. 2 pkt 1, 2 i 6, minister właściwy do spraw zdrowia może powoływać zespoły robocze składające się z osób posiadających wiedzę i doświadczenie związane z realizacją zadań z zakresu zdrowia publicznego. Działalność zespołów jest finansowana z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
+### 4)
 
-4. Rada Ministrów może, na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780), ustanowić Pełnomocnika Rządu do spraw zdrowia publicznego. Pełnomocnik, zakresie określonym przepisach o jego ustanowieniu, realizuje zadania ministra właściwego do spraw zdrowia z zakresu zdrowia publicznego wynikające z ustawy.
+profilaktykę chorób;
 
-**Art. 5.**
+### 5)
 
-1. Minister właściwy do spraw zdrowia współdziała z organami władzy publicznej, jednostkami podległymi lub nadzorowanymi przez ministra właściwego do spraw zdrowia, tym z Narodowym Funduszem Zdrowia, Narodowym Instytutem Zdrowia Publicznego – Państwowym Zakładem Higieny, Krajowym Centrum Przeciwdziałania Uzależnieniom, zwanym dalej „Centrum”, Instytutem Medycyny Pracy – Państwowym Instytutem Badawczym, Głównym Inspektorem Sanitarnym Wojska Polskiego oraz podmiotami, o których mowa art. 3 ust. 2.
+działania w celu rozpoznawania, eliminowania lub ograniczania zagrożeń i szkód dla zdrowia fizycznego i psychicznego w środowisku zamieszkania, nauki, pracy i rekreacji;
 
-2. Organy władzy publicznej oraz państwowe jednostki organizacyjne są obowiązane do współpracy i udzielania pomocy ministrowi właściwemu do spraw zdrowia, tym do bezpłatnego udostępniania mu informacji, dokumentów i danych, którymi dysponują, niezbędnych do realizacji jego zadań, terminie określonym przez ministra właściwego do spraw zdrowia. Dane są udostępniane postaci zbiorów danych jednostkowych uniemożliwiających identyfikację osób, których dotyczą.
+### 6)
 
-**Art. 6.**
+analizę adekwatności i efektywności udzielanych świadczeń opieki zdrowotnej w odniesieniu do rozpoznanych potrzeb zdrowotnych społeczeństwa;
 
-1. Tworzy się Radę do spraw Zdrowia Publicznego, zwaną dalej „Radą”, pełniącą funkcję opiniodawczo-doradczą dla ministra właściwego do spraw zdrowia.
+### 7)
 
-2. Do zadań Rady należy:
+inicjowanie i prowadzenie badań naukowych oraz współpracy międzynarodowej w zakresie zdrowia publicznego;
 
-- **1)** opiniowanie projektu Narodowego Programu Zdrowia, o którym mowa art. 9 ust. 1, i ewaluacja wdrażania tego programu;
-- **2)** przedstawianie ministrowi właściwemu do spraw zdrowia propozycji nowych zadań służących realizacji celów operacyjnych Narodowego Programu Zdrowia, o którym mowa art. 9 ust. 1;
-- **3)** wykonywanie innych zadań opiniodawczo-doradczych zakresie zdrowia publicznego powierzonych przez ministra właściwego do spraw zdrowia.
+### 8)
 
-3. Obsługę Rady zapewnia komórka organizacyjna urzędzie obsługującym ministra właściwego do spraw zdrowia.
+rozwój kadr uczestniczących w realizacji zadań z zakresu zdrowia publicznego;
 
-4. Koszty funkcjonowania Rady są pokrywane z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
+### 9)
 
-**Art. 7.**
+ograniczanie nierówności w zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
 
-1. Rada składa się z:
+### 10)
 
-- **1)** przedstawiciela Prezydenta Rzeczypospolitej Polskiej;
-- **2)** przedstawicieli każdego z ministrów kierujących działami administracji rządowej;
-- **3)** konsultantów krajowych dziedzinach: zdrowia publicznego, epidemiologii, chorób zakaźnych, kardiologii, onkologii klinicznej, diabetologii, psychiatrii, medycyny pracy, zdrowia środowiskowego oraz pielęgniarstwa;
-- **4)** niewięcej niż czterech przedstawicieli wskazanych przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego;
-- **5)** przedstawiciela Narodowego Funduszu Zdrowia; Zakładu Higieny;
-- **7)** (uchylony) 7a) przedstawiciela Centrum;
-- **8)** przedstawiciela Głównego Inspektora Sanitarnego;
-- **9)** (uchylony)
-- **10)** przedstawiciela Głównego Inspektora Sanitarnego Wojska Polskiego;
-- **11)** przedstawiciela Naczelnej Rady Pielęgniarek i Położnych;
-- **12)** przedstawiciela Naczelnej Rady Lekarskiej;
-- **13)** przedstawiciela Naczelnej Rady Aptekarskiej;
-- **14)** przedstawiciela Krajowej Rady Diagnostów Laboratoryjnych;
-- **14a)** przedstawiciela Krajowej Rady Fizjoterapeutów;
-- **15)** niewięcej niż dwóch przedstawicieli reprezentatywnych organizacji pracodawców;
-- **16)** przedstawiciela organizacji pozarządowych i podmiotów, o których mowa art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, których cele statutowe lub przedmiot działalności dotyczą spraw objętych zadaniami określonymi art. 2.
+działania w obszarze aktywności fizycznej.
 
-2. Członków Rady powołuje minister właściwy do spraw zdrowia:
+### Art. 3.
 
-- **1)** na wniosek właściwego organu, organizacji lub podmiotu, o których mowa ust. 1 pkt 1, 2 i 4–14a, z wyjątkiem członka powoływanego z własnej inicjatywy;
-- **2)** spośród osób zgłoszonych, terminie 14 dni od dnia publikacji na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia ogłoszenia o zamiarze powołania Rady lub zmian jej składzie, przez organizacje lub podmioty określone ust. 1 pkt 15 i 16.
+### 1.
 
-3. Minister właściwy do spraw zdrowia odwołuje członka Rady z własnej inicjatywy albo na wniosek właściwego organu, organizacji lub podmiotu, o których mowa ust. 1 pkt 1, 2 i 4–16. W przypadku odwołania członka Rady z własnej inicjatywy minister właściwy do spraw zdrowia niezwłocznie powiadamia o tym właściwy organ, organizację lub podmiot.
+Zadania z zakresu zdrowia publicznego realizują, współdziałając ze sobą, organy administracji rządowej, zgodnie z kompetencjami określonymi w ustawie z dnia 4 września 1997 r. o działach administracji rządowej ([Dz. U. z 2015 r. poz. 812](https://api.sejm.gov.pl/eli/acts/DU/2015/812/text.html), [1255](https://api.sejm.gov.pl/eli/acts/DU/2015/1255/text.html) i [1269](https://api.sejm.gov.pl/eli/acts/DU/2015/1269/text.html)), państwowe jednostki organizacyjne, w tym agencje wykonawcze, a także jednostki samorządu terytorialnego, realizujące zadania własne polegające na promocji lub ochronie zdrowia.
 
-4. Przewodniczącego Rady wyznacza minister właściwy do spraw zdrowia.
+### 2.
 
-5. Rada podejmuje uchwały zwykłą większością głosów obecności co najmniej połowy jej członków. W przypadku równej liczby głosów decyduje głos przewodniczącego Rady. zaproszone przez przewodniczącego Rady.
+W realizacji zadań z zakresu zdrowia publicznego mogą uczestniczyć podmioty, których cele statutowe lub przedmiot działalności dotyczą spraw objętych zadaniami określonymi w art. 2, w tym organizacje pozarządowe i podmioty, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie ([Dz. U. z 2014 r. poz. 1118](https://api.sejm.gov.pl/eli/acts/DU/2014/1118/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255, 1333, 1339 i 1777.](#gloss-0:2:)).
 
-7. W celu realizacji zadań określonych art. 6 ust. 2 Rada może tworzyć zespoły robocze.
+### 3.
 
-8. W skład zespołów, o których mowa ust. 7, mogą wchodzić osoby niebędące członkami Rady.
+W realizacji zadań, o których mowa w art. 2 pkt 1, samorząd gminy oraz samorząd powiatu mogą współpracować z samorządem województwa.
 
-9. Szczegółowy tryb pracy Rady określa regulamin pracy Rady uchwalony przez Radę i zatwierdzony przez ministra właściwego do spraw zdrowia.
+### 4.
 
-**Art. 8.**
+W realizacji zadań, o których mowa w art. 2 pkt 6, samorząd województwa współpracuje z wojewodą.
 
-1. Członkom Rady oraz osobom, o których mowa art. 7 ust. 6 i 8, związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807, 1423 i 1661 oraz z 2026 r. poz. 25).
+### 5.
 
-2. Pracodawca jest obowiązany zwolnić pracownika od pracy na czas niezbędny do wzięcia udziału posiedzeniach Rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu – wysokości przewidzianej zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
+Narodowy Fundusz Zdrowia realizuje zadania z zakresu zdrowia publicznego obejmujące finansowanie świadczeń opieki zdrowotnej na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2015 r. poz. 581](https://api.sejm.gov.pl/eli/acts/DU/2015/581/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893 i 1916.](#gloss-0:3:)) oraz dofinansowanie programów polityki zdrowotnej na zasadach określonych w art. 48d tej ustawy.
 
-3. Zwrot kosztów przejazdu oraz rekompensata, o których mowa ust. 1 i 2, są finansowane z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
+### Rozdział 2 Koordynacja i opiniowanie realizacji zadań z zakresu zdrowia publicznego
 
-#### Rozdział 2a Profilaktyka i rozwiązywanie problemów związanych z uzależnieniami
+### Art. 4.
 
-**Art. 8a.**
+### 1.
 
-1. Działalność zakresie profilaktyki i rozwiązywania problemów związanych z uzależnieniami prowadzi Centrum.
+Zadania wynikające z ustawy koordynuje minister właściwy do spraw zdrowia.
 
-2. Centrum jest państwową jednostką budżetową podległą ministrowi właściwemu do spraw zdrowia.
+### 2.
 
-3. Siedzibą Centrum jest miasto stołeczne Warszawa.
+Do zadań ministra właściwego do spraw zdrowia w zakresie koordynacji zadań z zakresu zdrowia publicznego należy:
 
-**Art. 8b.**
+### 1)
 
-1. Centrum realizuje zadania z zakresu:
+przygotowanie projektu Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1;
 
-- **1)** profilaktyki i rozwiązywania problemów alkoholowych;
-- **2)** przeciwdziałania narkomanii; Rozwiązywania Problemów Hazardowych.
+### 2)
 
-2. Do zadań Centrum należy:
+monitorowanie realizacji zadań, o których mowa w art. 2;
 
-- **1)** wykonywanie zadań zakresie profilaktyki i rozwiązywania problemów alkoholowych, przeciwdziałania narkomanii oraz uzależnieniom behawioralnym, które polegają na powierzaniu i wspieraniu wykonywania zadań publicznych, wraz z udzielaniem dotacji na finansowanie ich realizacji;
-- **2)** inicjowanie, wspieranie i prowadzenie działań, które zmierzają do ograniczenia używania alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych, szczególności wśród dzieci i młodzieży;
-- **3)** inicjowanie, wspieranie i prowadzenie działań zakresie przeciwdziałania przemocy domowej, tym rodzinach z problemem używania alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych oraz uzależnień behawioralnych;
-- **4)** inicjowanie, wspieranie i prowadzenie działań zakresie profilaktyki zaburzeń, które wynikają z prenatalnej ekspozycji na alkohol, środki odurzające, substancje psychotropowe, środki zastępcze lub nowe substancje psychoaktywne, oraz inicjowanie i wspieranie działań zakresie pomocy osobom ze spektrum płodowych zaburzeń alkoholowych (FASD) oraz ich rodzinom lub opiekunom;
-- **5)** prowadzenie działań, które zmierzają do podnoszenia jakości oddziaływań profilaktycznych kierowanych do dzieci i młodzieży;
-- **6)** inicjowanie działań, które zmierzają do poprawy dostępności i jakości pomocy na rzecz członków rodzin z problemem używania alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych oraz uzależnień behawioralnych, szczególności wśród dzieci i młodzieży;
-- **7)** współpraca z przedstawicielami instytucji i organizacji, które zajmują się przeciwdziałaniem przemocy rodzinie, profilaktyką i rozwiązywaniem problemów związanych z używaniem alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych, a także przeciwdziałaniem uzależnieniom behawioralnym;
-- **8)** współpraca z sądami powszechnymi sprawach rodzinnych i sprawach nieletnich zakresie realizacji zadań związanych z przeciwdziałaniem uzależnieniom oraz ich skutkom; o którym mowa pkt 1–7, oraz inicjowanie prac nad nowymi rozwiązaniami tym zakresie;
-- **10)** opracowywanie standardów i rekomendacji zakresie profilaktyki używania alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych oraz uzależnień behawioralnych, a także leczenia i rehabilitacji osób uzależnionych;
-- **11)** monitorowanie dostępności i jakości świadczeń opieki zdrowotnej z zakresu leczenia uzależnień;
-- **12)** udzielanie merytorycznej pomocy ramach współpracy z podmiotami, które realizują zadania zakresie przeciwdziałania uzależnieniom, tym z jednostkami samorządu terytorialnego, instytucjami, stowarzyszeniami i innymi podmiotami prowadzącymi działalność oświatowo-informacyjną, badawczą, profilaktyczną, leczniczą, rehabilitacyjną i reintegracyjną, a także osobami fizycznymi, które realizują zadania związane z profilaktyką i rozwiązywaniem problemów zakresie uzależnień, oraz zlecanie i finansowanie realizacji tych zadań;
-- **13)** współpraca z organizacjami międzynarodowymi, które prowadzą działalność zakresie przeciwdziałania uzależnieniom i ograniczenia szkód nimi wywołanych, tym udział pracach sprawozdawczych na rzecz tych organizacji;
-- **14)** zbieranie, gromadzenie, wymiana informacji i dokumentacji objętych badaniami statystycznymi statystyki publicznej zakresie problemów alkoholowych oraz dotyczących środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych i narkomanii oraz opracowywanie i przetwarzanie zebranych danych;
-- **15)** inicjowanie, wspieranie i prowadzenie analiz oraz badań naukowych zakresie problemów alkoholowych oraz problemów dotyczących środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych i narkomanii, tym sporządzanie ocen epidemiologicznych zagrożeń, oraz opracowywanie i udostępnianie ich wyników;
-- **16)** prowadzenie działalności informacyjno-edukacyjnej, opracowywanie ekspertyz oraz opracowywanie i wdrażanie nowych metod profilaktyki i rozwiązywania problemów zakresie uzależnień; o których mowa art. 4 ust. 3 i art. 4 ust. 2 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 2151), oraz z ekspertami zakresie uzależnień;
-- **18)** podejmowanie działań interwencyjnych sprawach skarg i wniosków kierowanych do Centrum;
-- **19)** monitorowanie i inicjowanie działań, które zwiększają skuteczność i dostępność lecznictwa uzależnień;
-- **20)** podejmowanie interwencji związku z naruszeniem przepisów art. 13 i art. 15 ustawy z dnia 26 października 1982 r. o wychowaniu trzeźwości i przeciwdziałaniu alkoholizmowi, jeżeli interwencji nie podejmuje gmina;
-- **21)** dokonywanie okresowych ocen programów profilaktycznych, leczniczych, rehabilitacyjnych i readaptacyjnych pod względem ich skuteczności zakresie ograniczenia używania alkoholu, środków odurzających, substancji psychotropowych, środków zastępczych lub nowych substancji psychoaktywnych;
-- **22)** prowadzenie krajowego systemu informacji o alkoholu, środkach odurzających, substancjach psychotropowych, środkach zastępczych oraz nowych substancjach psychoaktywnych, a także monitorowanie działań, które są podejmowane na rzecz rozwiązywania problemów alkoholowych i przeciwdziałania narkomanii na poziomie krajowym i międzynarodowym, szczególności:
-    - **a)** pełnienie roli punktu obserwacyjnego (Focal Point) Europejskiego Centrum Monitorowania Narkotyków i Narkomanii,
-    - **b)** współpraca z Europejskim Centrum Monitorowania Narkotyków i Narkomanii oraz Europejską Siecią Informacji o Narkotykach i Narkomanii (Reitox);
+### 3)
 
-- **23)** dofinansowywanie kosztów szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień, o którym mowa ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia (Dz. U. z 2025 r. poz. 342) oraz przepisach wydanych na podstawie art. 46 tej ustawy;
-- **24)** obsługa techniczno-organizacyjna Rady do Spraw Przeciwdziałania Uzależnieniom;
-- **25)** monitorowanie realizacji: alkoholowych oraz przeciwdziałania narkomanii,
-    - **b)** gminnych programów profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii;
+zapewnianie spójności zadań realizowanych przez organy i podmioty, o których mowa w art. 3;
 
-- **26)** opracowywanie analizy realizacji działań, które są podejmowane danym roku przez samorząd województwa oraz samorząd gminny ramach programu profilaktyki i rozwiązywania problemów alkoholowych oraz przeciwdziałania narkomanii;
-- **27)** wykonywanie innych zadań zleconych przez ministra właściwego do spraw zdrowia.
+### 4)
 
-3. Minister właściwy do spraw zdrowia nadaje, drodze zarządzenia, statut Centrum, który określa strukturę organizacyjną Centrum, mając na uwadze stworzenie optymalnych warunków do efektywnej realizacji zadań przez Centrum.
+sygnalizowanie właściwym organom i podmiotom, o których mowa w art. 3, potrzeby podjęcia określonych zadań z zakresu zdrowia publicznego;
 
-**Art. 8c.** Centrum ma prawo używania pieczęci okrągłej z wizerunkiem godła Rzeczypospolitej Polskiej pośrodku, z nazwą Centrum otoku.
+### 5)
 
-**Art. 8d.**
+gromadzenie i analizowanie informacji dotyczących sytuacji zdrowotnej społeczeństwa i rozpowszechnienia czynników ryzyka oraz udostępnianie tych informacji w sposób uniemożliwiający identyfikację osób, których dotyczą;
 
-1. Centrum jest kierowane i reprezentowane na zewnątrz przez Dyrektora Centrum.
+### 6)
 
-2. Dyrektora Centrum powołuje i odwołuje minister właściwy do spraw zdrowia.
+analizowanie informacji, o których mowa w art. 12;
 
-3. Stanowisko Dyrektora Centrum może zajmować osoba, która:
+### 7)
 
-- **1)** posiada wykształcenie wyższe magisterskie lub równorzędne;
-- **2)** jest obywatelem polskim;
-- **3)** korzysta z pełni praw publicznych;
-- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** posiada co najmniej 5-letni staż pracy, tym co najmniej 3-letni staż pracy na stanowisku kierowniczym lub samodzielnym;
-- **6)** posiada wiedzę z zakresu spraw należących do właściwości Centrum.
+sporządzanie informacji o zadaniach z zakresu zdrowia publicznego zrealizowanych lub podjętych w danym roku, wraz z ich ewaluacją.
 
-4. Zastępców Dyrektora Centrum, niewięcej niż trzech, powołuje i odwołuje Dyrektor Centrum po uzyskaniu pisemnej akceptacji ministra właściwego do spraw zdrowia.
+### 3.
 
-5. W przypadku śmierci albo odwołania Dyrektora Centrum jego zadania do czasu powołania nowego Dyrektora Centrum wykonuje zastępca Dyrektora Centrum wskazany przez ministra właściwego do spraw zdrowia. równoznaczne z nawiązaniem stosunku pracy na podstawie powołania rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+Do realizacji zadań, o których mowa w ust. 2 pkt 1, 2 i 6, minister właściwy do spraw zdrowia może powoływać zespoły robocze składające się z osób posiadających wiedzę i doświadczenie związane z realizacją zadań z zakresu zdrowia publicznego. Działalność zespołów jest finansowana z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia.
 
-**Art. 8f.**
+### 4.
 
-1. Nabór kandydatów, którzy mają być zatrudnieni na wolne stanowiska pracy Centrum, z wyłączeniem powołania na stanowiska pracy, o których mowa art. 8d ust. 1 i 4, jest otwarty i konkurencyjny.
+Rada Ministrów może, na podstawie art. 10 ust. 1 i 4 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ([Dz. U. z 2012 r. poz. 392](https://api.sejm.gov.pl/eli/acts/DU/2012/392/text.html) oraz [z 2015 r. poz. 1064](https://api.sejm.gov.pl/eli/acts/DU/2015/1064/text.html)), ustanowić Pełnomocnika Rządu do spraw zdrowia publicznego. Pełnomocnik, w zakresie określonym w przepisach o jego ustanowieniu, realizuje zadania ministra właściwego do spraw zdrowia z zakresu zdrowia publicznego wynikające z ustawy.
 
-2. Ogłoszenie o naborze zamieszcza się Biuletynie Informacji Publicznej, o którym mowa ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844), na stronie podmiotowej Centrum oraz miejscu powszechnie dostępnym siedzibie Centrum. Ogłoszenie o naborze zawiera co najmniej:
+### Art. 5.
 
-- **1)** nazwę i adres Centrum;
-- **2)** określenie stanowiska pracy;
-- **3)** wymagania związane ze stanowiskiem pracy, zgodnie z opisem danego stanowiska, ze wskazaniem, które z nich są niezbędne, a które dodatkowe;
-- **4)** zakres zadań wykonywanych na danym stanowisku;
-- **5)** informację o warunkach pracy na danym stanowisku;
-- **6)** informację, czy miesiącu poprzedzającym datę upublicznienia ogłoszenia wskaźnik zatrudnienia osób niepełnosprawnych Centrum, rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26), wynosi co najmniej 6 %;
-- **7)** wskazanie wymaganych dokumentów;
-- **8)** termin i określenie miejsca składania dokumentów;
-- **9)** informację o metodach i technikach naboru.
+### 1.
 
-3. Imiona i nazwiska kandydatów, którzy spełniają wymagania formalne, oraz wynik naboru stanowią informację publiczną zakresie objętym wymaganiami, które są określone ogłoszeniu o naborze.
+Minister właściwy do spraw zdrowia współdziała z organami władzy publicznej, jednostkami podległymi lub nadzorowanymi przez ministra właściwego do spraw zdrowia, w tym z Narodowym Funduszem Zdrowia, Narodowym Instytutem Zdrowia Publicznego - Państwowym Zakładem Higieny, jednostkami właściwymi w sprawach przeciwdziałania uzależnieniom, Instytutem Medycyny Wsi, Głównym Inspektorem Sanitarnym, a także Centralnym Instytutem Ochrony Pracy - Państwowym Instytutem Badawczym, Głównym Inspektorem Sanitarnym Ministerstwa Spraw Wewnętrznych, Głównym Inspektorem Sanitarnym Wojska Polskiego oraz podmiotami, o których mowa w art. 3 ust. 2.
 
-4. Termin składania dokumentów, który jest określony ogłoszeniu o naborze, nie może być krótszy niż 14 dni, licząc od dnia zamieszczenia tego ogłoszenia Biuletynie Informacji Publicznej na stronie podmiotowej Centrum.
+### 2.
 
-5. Po upływie terminu składania dokumentów, który jest określony ogłoszeniu o naborze, niezwłocznie upowszechnia się listę kandydatów, którzy spełniają wymagania formalne określone ogłoszeniu o naborze, przez umieszczenie jej miejscu powszechnie dostępnym siedzibie Centrum, której jest prowadzony podmiotowej Centrum.
+Organy władzy publicznej oraz państwowe jednostki organizacyjne są obowiązane do współpracy i udzielania pomocy ministrowi właściwemu do spraw zdrowia, w tym do bezpłatnego udostępniania mu informacji, dokumentów i danych, którymi dysponują, niezbędnych do realizacji jego zadań, w terminie określonym przez ministra właściwego do spraw zdrowia. Dane są udostępniane w postaci zbiorów danych jednostkowych uniemożliwiających identyfikację osób, których dotyczą.
 
-6. Lista, o której mowa ust. 5, zawiera imię i nazwisko kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+### Art. 6.
 
-7. Z przeprowadzonego naboru kandydatów do zatrudnienia na wolne stanowiska pracy Centrum sporządza się protokół oraz informację o wyniku naboru.
+### 1.
 
-8. Protokół, o którym mowa ust. 7, zawiera:
+Tworzy się Radę do spraw Zdrowia Publicznego, zwaną dalej „Radą”, pełniącą funkcję opiniodawczo-doradczą dla ministra właściwego do spraw zdrowia.
 
-- **1)** określenie stanowiska pracy, na które był prowadzony nabór, liczbę kandydatów oraz imię, nazwisko i określenie miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny niewięcej niż 5 najlepszych kandydatów uszeregowanych według poziomu spełniania przez nich wymagań określonych ogłoszeniu o naborze;
-- **2)** informację o zastosowanych metodach i technikach naboru;
-- **3)** uzasadnienie dokonanego wyboru.
+### 2.
 
-9. Informacja, o której mowa ust. 7, zawiera:
+Do zadań Rady należy:
 
-- **1)** nazwę i adres Centrum;
-- **2)** określenie stanowiska pracy;
-- **3)** imię i nazwisko wybranego kandydata oraz określenie jego miejsca zamieszkania rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny;
-- **4)** uzasadnienie dokonanego wyboru kandydata albo uzasadnienie niezatrudnienia żadnego kandydata.
+### 1)
 
-10. Informację, o której mowa ust. 7, zamieszcza się Biuletynie Informacji Publicznej na stronie podmiotowej Centrum i miejscu powszechnie dostępnym siedzibie Centrum, której był prowadzony nabór, terminie 14 dni od dnia zatrudnienia wybranego kandydata albo zakończenia naboru – przypadku gdy jego wyniku nie doszło do zatrudnienia żadnego kandydata.
+opiniowanie projektu Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1, i ewaluacja wdrażania tego programu;
 
-11. Jeżeli stosunek pracy osoby wyłonionej drodze naboru ustał terminie 3 miesięcy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowisku kolejnego najlepszego kandydata wymienionego protokole tego naboru. Przepisy ust. 9 i 10 stosuje się odpowiednio.
+### 2)
 
-**Art. 8g.**
+przedstawianie ministrowi właściwemu do spraw zdrowia propozycji nowych zadań służących realizacji celów operacyjnych Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1;
 
-1. Pracownik Centrum nie może wykonywać dodatkowych zajęć zarobkowych, tym podejmować dodatkowego zatrudnienia, bez zgody:
+### 3)
 
-- **1)** ministra właściwego do spraw zdrowia – przypadku Dyrektora Centrum;
+wykonywanie innych zadań opiniodawczo-doradczych w zakresie zdrowia publicznego powierzonych przez ministra właściwego do spraw zdrowia.
 
-2. Wykonywanie dodatkowych zajęć zarobkowych, tym podejmowanie dodatkowego zatrudnienia, przez osoby, o których mowa ust. 1, nie może pozostawać sprzeczności z ich obowiązkami lub wywoływać podejrzenia o ich stronniczość lub interesowność.
+### 3.
 
-3. Naruszenie zakazów, o których mowa ust. 1 i 2, stanowi podstawę do odwołania ze stanowiska albo rozwiązania stosunku pracy za wypowiedzeniem.
+Obsługę Rady zapewnia komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw zdrowia.
 
-**Art. 8h.**
+### 4.
 
-1. Dyrektor Centrum może upoważniać pracowników Centrum do podejmowania określonych czynności, tym do wydawania decyzji administracyjnych.
+Koszty funkcjonowania Rady są pokrywane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia.
 
-2. W postępowaniu administracyjnym organem wyższego stopnia rozumieniu ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691) stosunku do Dyrektora Centrum jest minister właściwy do spraw zdrowia.
+### Art. 7.
 
-**Art. 8i.** Koszty działalności Centrum i wykonywanych przez nie zadań są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
+### 1.
 
-**Art. 8j.**
+Rada składa się z:
 
-1. Przy Prezesie Rady Ministrów działa Rada do spraw Przeciwdziałania Uzależnieniom.
+### 1)
 
-2. Rada do spraw Przeciwdziałania Uzależnieniom jest organem koordynacyjno-doradczym sprawach z zakresu uzależnień.
+przedstawiciela Prezydenta Rzeczypospolitej Polskiej;
 
-3. Prezes Rady Ministrów określi, drodze zarządzenia, statut Rady do spraw Przeciwdziałania Uzależnieniom określający szczegółowe warunki i tryb jej działania, tym działania zespołów roboczych, o których mowa art. 8o, uwzględniając potrzebę zapewnienia sprawnego działania tej rady oraz efektywności realizowania przez nią zadań.
+### 2)
 
-**Art. 8k.**
+przedstawicieli każdego z ministrów kierujących działami administracji rządowej;
 
-1. Osoby wchodzące skład Rady do spraw Przeciwdziałania Uzależnieniom powołuje i odwołuje Prezes Rady Ministrów.
+### 3)
 
-2. W skład Rady do spraw Przeciwdziałania Uzależnieniom wchodzą:
+konsultantów krajowych w dziedzinach: zdrowia publicznego, epidemiologii, chorób zakaźnych, kardiologii, onkologii klinicznej, diabetologii, psychiatrii, medycyny pracy, zdrowia środowiskowego oraz pielęgniarstwa;
 
-- **1)** przewodniczący – przedstawiciel ministra właściwego do spraw zdrowia randze sekretarza lub podsekretarza stanu urzędzie obsługującym ministra właściwego do spraw zdrowia; wewnętrznych randze sekretarza lub podsekretarza stanu urzędzie obsługującym ministra właściwego do spraw wewnętrznych;
-- **3)** sekretarz – Dyrektor Centrum;
-- **4)** członkowie – przedstawiciele randze sekretarza lub podsekretarza stanu urzędach obsługujących:
-    - **a)** ministra właściwego do spraw finansów publicznych,
-    - **b)** ministra właściwego do spraw gospodarki,
-    - **c)** Ministra Obrony Narodowej,
-    - **d)** Ministra Sprawiedliwości,
-    - **e)** ministra właściwego do spraw rolnictwa,
-    - **f)** ministra właściwego do spraw szkolnictwa wyższego i nauki,
-    - **g)** ministra właściwego do spraw zabezpieczenia społecznego,
-    - **h)** ministra właściwego do spraw zagranicznych – wskazani przez właściwego ministra;
+### 4)
 
-- **5)** członek – przedstawiciel strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego, przez nią wskazany.
+nie więcej niż czterech przedstawicieli wskazanych przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego;
 
-3. Posiedzenia Rady do spraw Przeciwdziałania Uzależnieniom są zwoływane co najmniej 2 razy roku.
+### 5)
 
-**Art. 8l.**
+przedstawiciela Narodowego Funduszu Zdrowia;
 
-1. Prezes Rady Ministrów odwołuje osobę wchodzącą skład Rady do spraw Przeciwdziałania Uzależnieniom z powodu:
+### 6)
 
-- **1)** złożenia rezygnacji przez tę osobę;
-- **2)** złożenia wniosku o jej odwołanie przez podmiot, którego osoba ta jest przedstawicielem;
-- **3)** skazania jej prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+przedstawiciela Narodowego Instytutu Zdrowia Publicznego - Państwowego Zakładu Higieny;
 
-2. W przypadku odwołania albo śmierci osoby wchodzącej skład Rady do spraw Przeciwdziałania Uzależnieniom właściwy podmiot przedstawia wniosek o powołanie innego przedstawiciela.
+### 7)
 
-**Art. 8m.** Do zadań Rady do spraw Przeciwdziałania Uzależnieniom należy:
+przedstawiciela Instytutu Żywności i Żywienia;
 
-**Art. 8n.**
+### 8)
 
-1. Do udziału posiedzeniach Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może zapraszać specjalistów zajmujących się problematyką przeciwdziałania uzależnieniom.
+przedstawiciela Głównego Inspektora Sanitarnego;
 
-2. Rada do spraw Przeciwdziałania Uzależnieniom wydaje opinie i przedstawia wnioski formie uchwał podejmowanych większością głosów.
+### 9)
 
-**Art. 8o.** W celu wykonywania zadań Rady do spraw Przeciwdziałania Uzależnieniom jej przewodniczący może powoływać zespoły robocze, których skład wchodzą członkowie tej rady lub inne osoby, szczególności specjaliści zajmujący się problematyką przeciwdziałania uzależnieniom.
+przedstawiciela Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych;
 
-**Art. 8p.**
+### 10)
 
-1. Za udział pracach Rady do spraw Przeciwdziałania Uzależnieniom osobom wchodzącym jej skład nie przysługuje wynagrodzenie.
+przedstawiciela Głównego Inspektora Sanitarnego Wojska Polskiego;
 
-2. Osobom wchodzącym skład Rady do spraw Przeciwdziałania Uzależnieniom przysługuje zwrot kosztów przejazdu wysokości i na warunkach określonych przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+### 11)
 
-3. Obsługę techniczno-organizacyjną Rady do spraw Przeciwdziałania Uzależnieniom zapewnia Centrum.
+przedstawiciela Naczelnej Rady Pielęgniarek i Położnych;
 
-**Art. 8q.**
+### 12)
 
-1. Dyrektor Centrum może dofinansować koszty szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień, o którym mowa ustawie z dnia 24 lutego 2017 r. o uzyskiwaniu tytułu specjalisty dziedzinach mających zastosowanie ochronie zdrowia oraz przepisach wydanych na podstawie art. 46 tej ustawy, na wniosek uczestnika tego szkolenia po potwierdzeniu przez podmiocie prowadzącym rehabilitację lub psychoterapię osób uzależnionych zakresie uzależnień.
+przedstawiciela Naczelnej Rady Lekarskiej;
 
-2. Dyrektor Centrum wskazuje termin składania wniosków, o których mowa ust. 1, a także ustala corocznie maksymalną kwotę dofinansowania przypadającą na jednego uczestnika szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień oraz liczbę uczestników objętych dofinansowaniem, mając na względzie wysokość środków przewidzianych na ten cel planie finansowym Centrum.
+### 13)
 
-3. Dane, o których mowa ust. 2, Dyrektor Centrum zamieszcza niezwłocznie po ich ustaleniu Biuletynie Informacji Publicznej na stronie podmiotowej Centrum.
+przedstawiciela Naczelnej Rady Aptekarskiej;
 
-4. Wniosek, o którym mowa ust. 1, zawiera:
+### 14)
 
-- **1)** imię i nazwisko uczestnika szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień;
-- **2)** adres miejsca zamieszkania uczestnika szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień;
-- **3)** terminy rozpoczęcia szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień;
-- **4)** potwierdzenie rozpoczęcia szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień przez jednostkę szkolącą;
-- **5)** uzasadnienie dofinansowania kosztów szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień.
+przedstawiciela Krajowej Rady Diagnostów Laboratoryjnych;
 
-5. O dofinansowaniu kosztów szkolenia specjalizacyjnego dziedzinie psychoterapii uzależnień decyduje kolejność wpływu wniosków, do wyczerpania środków przewidzianych na ten cel planie finansowym Centrum.
+### 15)
 
-#### Rozdział 3 Narodowy Program Zdrowia i Komitet Sterujący Narodowego Programu Zdrowia
+nie więcej niż dwóch przedstawicieli reprezentatywnych organizacji pracodawców;
 
-**Art. 9.**
+### 16)
 
-1. Narodowy Program Zdrowia, zwany dalej „NPZ”, jest dokumentem ustanawianym celu realizacji polityki zdrowia publicznego i opiera się na współdziałaniu organów administracji rządowej, jednostek samorządu terytorialnego oraz podmiotów, o których mowa art. 3 ust. 2.
+przedstawiciela organizacji pozarządowych i podmiotów, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, których cele statutowe lub przedmiot działalności dotyczą spraw objętych zadaniami określonymi w art. 2.
 
-2. Rada Ministrów określi, drodze rozporządzenia, NPZ obejmujący: Rzeczypospolitej Polskiej i poprawę jakości życia związanej ze zdrowiem oraz ograniczanie społecznych nierówności zdrowiu,
+### 2.
 
-- **2)** cele operacyjne służące realizacji celu strategicznego ukierunkowane na zmniejszenie narażenia społeczeństwa na największe zagrożenia zdrowia,
-- **3)** zadania służące realizacji celów operacyjnych,
-- **4)** podmioty odpowiedzialne za realizację zadań,
-- **5)** realizatorów zadań,
-- **6)** tryb i wysokość finansowania zadań,
-- **7)** wskaźniki i sposób monitorowania i ewaluacji NPZ – mając na uwadze stan zdrowia społeczeństwa, skalę występowania czynników ryzyka zdrowotnego i czynników o działaniu ochronnym dla zdrowia oraz efektywność i skuteczność zadań podejmowanych na rzecz poprawy stanu zdrowia i jakości życia.
+Członków Rady powołuje minister właściwy do spraw zdrowia:
 
-3. NPZ sporządza się na okres niekrótszy niż 5 lat.
+### 1)
 
-4. Na realizację zadań określonych NPZ jednostki samorządu terytorialnego oraz podmioty, o których mowa art. 3 ust. 2, mogą otrzymywać dotacje celowe z budżetu państwa.
+na wniosek właściwego organu, organizacji lub podmiotu, o których mowa w ust. 1 pkt 1, 2 i 4-14, z wyjątkiem członka powoływanego z własnej inicjatywy;
 
-**Art. 10.**
+### 2)
 
-1. Tworzy się Komitet Sterujący Narodowego Programu Zdrowia, zwany dalej „Komitetem”. Do zadań Komitetu należy bieżąca koordynacja działań i rozwiązywanie problemów związanych z realizacją NPZ.
+spośród osób zgłoszonych, w terminie 14 dni od dnia publikacji na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia ogłoszenia o zamiarze powołania Rady lub zmian w jej składzie, przez organizacje lub podmioty określone w ust. 1 pkt 15 i 16.
 
-2. Komitet składa się z przedstawicieli ministrów wskazanych NPZ jako podmioty odpowiedzialne za realizację zadań nim określonych, randze sekretarza lub podsekretarza stanu, oraz z ministra właściwego do spraw zdrowia.
+### 3.
 
-3. Członków Komitetu powołuje i odwołuje minister właściwy do spraw zdrowia na wniosek właściwych ministrów.
+Minister właściwy do spraw zdrowia odwołuje członka Rady z własnej inicjatywy albo na wniosek właściwego organu, organizacji lub podmiotu, o których mowa w ust. 1 pkt 1, 2 i 4-16. W przypadku odwołania członka Rady z własnej inicjatywy minister właściwy do spraw zdrowia niezwłocznie powiadamia o tym właściwy organ, organizację lub podmiot.
 
-4. Przewodniczącym Komitetu jest minister właściwy do spraw zdrowia.
+### 4.
 
-5. Komitet podejmuje rozstrzygnięcia zwykłą większością głosów obecności co najmniej połowy jego członków. W przypadku równej liczby głosów decyduje głos przewodniczącego Komitetu.
+Przewodniczącego Rady wyznacza minister właściwy do spraw zdrowia.
 
-6. Członkowie Komitetu odpowiadają za wdrażanie zadań NPZ zakresie właściwym dla reprezentowanego ministra.
+### 5.
 
-7. Obsługę Komitetu zapewnia komórka organizacyjna urzędzie obsługującym ministra właściwego do spraw zdrowia. przysługuje wynagrodzenie.
+Rada podejmuje uchwały zwykłą większością głosów w obecności co najmniej połowy jej członków. W przypadku równej liczby głosów decyduje głos przewodniczącego Rady.
 
-9. Koszty funkcjonowania Komitetu są pokrywane z budżetu państwa z części pozostającej dyspozycji ministra właściwego do spraw zdrowia.
+### 6.
 
-10. Szczegółowy tryb pracy Komitetu określa regulamin pracy Komitetu uchwalony przez Komitet.
+W posiedzeniach Rady mogą brać udział z głosem doradczym osoby zaproszone przez przewodniczącego Rady.
 
-**Art. 11.**
+### 7.
 
-1. Minister właściwy do spraw zdrowia może zgłaszać do Prezesa Rady Ministrów wnioski dotyczące realizacji zadań z zakresu spraw wskazanych NPZ.
+W celu realizacji zadań określonych w art. 6 ust. 2 Rada może tworzyć zespoły robocze.
 
-2. Podmiot wskazany jako odpowiedzialny za realizację zadań z zakresu spraw wskazanych NPZ, dla osiągnięcia celów określonych tym programie, jest obowiązany współdziałać z ministrem właściwym do spraw zdrowia.
+### 8.
 
-**Art. 12.**
+W skład zespołów, o których mowa w ust. 7, mogą wchodzić osoby niebędące członkami Rady.
 
-1. Organy administracji rządowej, z wyłączeniem wojewody, agencje wykonawcze oraz inne państwowe jednostki organizacyjne uczestniczące realizacji zadań z zakresu zdrowia publicznego przekazują ministrowi właściwemu do spraw zdrowia, do dnia 30 kwietnia każdego roku, roczną informację o zrealizowanych lub podjętych ubiegłym roku zadaniach z zakresu zdrowia publicznego.
+### 9.
 
-2. Jednostki samorządu terytorialnego przekazują właściwemu wojewodzie, do dnia 31 marca każdego roku, roczną informację o zrealizowanych lub podjętych ubiegłym roku zadaniach z zakresu zdrowia publicznego.
+Szczegółowy tryb pracy Rady określa regulamin pracy Rady uchwalony przez Radę i zatwierdzony przez ministra właściwego do spraw zdrowia.
 
-3. Wojewoda weryfikuje informację, o której mowa ust. 2, pod względem:
+### Art. 8.
 
-- **1)** spełniania wymagań, o których mowa ust. 7;
-- **2)** zgodności realizowanych przez jednostkę samorządu terytorialnego celów i podjętych lub zrealizowanych zadań z celami operacyjnymi i zadaniami służącymi do ich realizacji, określonymi NPZ.
+### 1.
 
-4. W przypadku braku możliwości zweryfikowania informacji zakresie, o którym mowa ust. 3, wojewoda występuje do jednostki samorządu terytorialnego o jej uzupełnienie lub dostosowanie do wymagań, o których mowa ust. 7.
+Członkom Rady oraz osobom, o których mowa w art. 7 ust. 6 i 8, w związku z wykonywanymi czynnościami przysługuje zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 775 § 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2014 r. poz. 1502](https://api.sejm.gov.pl/eli/acts/DU/2014/1502/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735.](#gloss-0:4:)).
 
-5. Wojewoda na podstawie informacji, o których mowa ust. 2, przygotowuje informację zbiorczą wraz z opinią dotyczącą zgodności zrealizowanych lub podjętych zadań z krajowym planem transformacji, o którym mowa art. 95b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, i wojewódzkim planem transformacji, o którym mowa art. 95c ust. 1 tej ustawy. z informacjami o zadaniach zrealizowanych przez niego okresie objętym sprawozdaniem, przekazuje ministrowi właściwemu do spraw zdrowia do dnia 30 września każdego roku.
+### 2.
 
-7. Informacje, o których mowa ust. 1, 2 i 5, zawierają:
+Pracodawca jest obowiązany zwolnić pracownika od pracy na czas niezbędny do wzięcia udziału w posiedzeniach Rady. W przypadku skorzystania przez pracownika ze zwolnienia od pracy pracodawca wydaje zaświadczenie określające wysokość utraconego wynagrodzenia za czas tego zwolnienia w celu uzyskania przez pracownika od ministra właściwego do spraw zdrowia rekompensaty pieniężnej z tego tytułu - w wysokości przewidzianej w zaświadczeniu, chyba że obowiązujące u danego pracodawcy przepisy prawa pracy przewidują zachowanie przez pracownika prawa do wynagrodzenia za czas zwolnienia.
 
-- **1)** określenie odpowiednio organu sporządzającego informację lub ją przekazującego;
-- **2)** wskazanie realizowanego celu operacyjnego NPZ dla podjętych lub zrealizowanych zadań z zakresu zdrowia publicznego, jeżeli dotyczy;
-- **3)** opis zadań z zakresu zdrowia publicznego zrealizowanych lub podjętych ubiegłym roku;
-- **4)** wskazanie źródeł i wysokości finansowania zadań zrealizowanych lub podjętych ubiegłym roku;
-- **5)** inne informacje uznane przez dany organ za istotne zakresie zadań podjętych ubiegłym roku.
+### 3.
 
-8. Na podstawie informacji oraz opinii, o których mowa ust. 1, 2 i 5, minister właściwy do spraw zdrowia sporządza, co dwa lata, informację o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego, o której mowa art. 4 ust. 2 pkt 7, zawierającą ocenę zgodności zrealizowanych lub podjętych przez jednostki samorządu terytorialnego zadań z krajowym planem transformacji, o którym mowa art. 95b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, i wojewódzkim planem transformacji, o którym mowa art. 95c ust. 1 tej ustawy. Minister właściwy do spraw zdrowia przekazuje informację Radzie Ministrów do dnia 30 listopada roku następującego po ostatnim roku objętym informacją.
+Zwrot kosztów przejazdu oraz rekompensata, o których mowa w ust. 1 i 2, są finansowane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia.
 
-9. W przypadku stwierdzenia niezgodności zadań realizowanych przez jednostkę samorządu terytorialnego z krajowym planem transformacji, o którym mowa art. 95b ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, i wojewódzkim planem transformacji, o którym mowa art. 95c ust. 1 tej ustawy, wojewoda przekazuje swoją opinię tym zakresie organowi stanowiącemu danej jednostki.
+### Rozdział 3 Narodowy Program Zdrowia i Komitet Sterujący Narodowego Programu Zdrowia
 
-10. Rada Ministrów przekazuje Sejmowi informację, o której mowa ust. 8, niepóźniej niż terminie trzech miesięcy od dnia przyjęcia jej przez Radę Ministrów.
+### Art. 9.
 
-11. Minister właściwy do spraw zdrowia określi, drodze rozporządzenia, sposób przekazywania informacji, o których mowa ust. 1 i 2, oraz wzór dokumentu przeprowadzenia analizy uzyskanych informacji i ich przetworzenia celu sporządzenia informacji, o której mowa ust. 5.
+### 1.
 
-#### Rozdział 3a Opłata od środków spożywczych
+Narodowy Program Zdrowia, zwany dalej „NPZ”, jest dokumentem ustanawianym w celu realizacji polityki zdrowia publicznego i opiera się na współdziałaniu organów administracji rządowej, jednostek samorządu terytorialnego oraz podmiotów, o których mowa w art. 3 ust. 2.
 
-**Art. 12a.**
+### 2.
 
-1. Wprowadzanie na rynek krajowy napojów z dodatkiem:
+Rada Ministrów określi, w drodze rozporządzenia, NPZ obejmujący:
 
-- **1)** cukrów będących monosacharydami lub disacharydami oraz środków spożywczych zawierających te substancje oraz substancji słodzących, o których mowa rozporządzeniu Parlamentu Europejskiego i Rady (WE) nr 1333/2008 z dnia 16 grudnia 2008 r. sprawie dodatków do żywności (Dz. Urz. UE L 354 z 31.12.2008, str. 16, z późn. zm. ), zwanym dalej „rozporządzeniem nr 1333/2008”,
-- **2)** kofeiny lub tauryny – podlega opłacie, zwanej dalej „opłatą”.
+### 1)
 
-2. Przez wprowadzenie na rynek krajowy napojów, o których mowa ust. 1, rozumie się sprzedaż napojów przez podmioty obowiązane do zapłaty opłaty, sprzedaż detaliczna oraz sprzedaż detaliczna napojów przez: producenta, podmiot, o którym mowa art. 12d ust. 1 pkt 2, podmiot nabywający napoje ramach wewnątrzwspólnotowego nabycia towarów lub importera napoju, albo sprzedaż przypadku, o którym mowa art. 12e ust. 3.
+cel strategiczny NPZ ukierunkowany na wydłużenie życia w zdrowiu ludności Rzeczypospolitej Polskiej i poprawę jakości życia związanej ze zdrowiem oraz ograniczanie społecznych nierówności w zdrowiu,
 
-3. Przez sprzedaż detaliczną, o której mowa ust. 2, rozumie się dokonywanie na terytorium Rzeczypospolitej Polskiej, ramach działalności gospodarczej zbywcy, odpłatnego zbywania towarów konsumentom na podstawie umowy zawartej:
+### 2)
 
-- **1)** lokalu przedsiębiorstwa rozumieniu art. 2 pkt 3 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796 oraz z 2025 r. poz.
-- **1172)** ,
-- **2)** poza lokalem przedsiębiorstwa rozumieniu art. 2 pkt 2 ustawy z dnia 30 maja 2014 r. o prawach konsumenta – także przypadku, gdy zbywaniu towaru towarzyszy świadczenie usługi odrębnie niezaewidencjonowanej.
+cele operacyjne służące realizacji celu strategicznego ukierunkowane na zmniejszenie narażenia społeczeństwa na największe zagrożenia zdrowia,
 
-**Art. 12b.**
+### 3)
 
-1. Za napój, o którym mowa art. 12a ust. 1, uważa się wyrób postaci napoju oraz syrop będący środkiem spożywczym, ujęty Polskiej Klasyfikacji Wyrobów i Usług klasach 10.32 i 10.89 oraz dziale 11, którego składzie znajduje się co najmniej jedna z substancji, o których mowa art. 12a ust. 1, z wyłączeniem substancji występujących nich naturalnie.
+zadania służące realizacji celów operacyjnych,
 
-2. Opłacie nie podlega wprowadzenie na rynek krajowy napojów:
+### 4)
 
-- **1)** będących wyrobami medycznymi rozumieniu art. 2 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. );
-- **2)** będących suplementami diety rozumieniu art. 3 ust. 3 pkt 39 ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2023 r. poz. 1448 oraz z 2025 r. poz. 1424);
-- **3)** będących żywnością specjalnego przeznaczenia medycznego, preparatami do początkowego żywienia niemowląt, preparatami do dalszego żywienia (UE) nr 609/2013 z dnia 12 czerwca 2013 r. sprawie żywności przeznaczonej dla niemowląt i małych dzieci oraz żywności specjalnego przeznaczenia medycznego i środków spożywczych zastępujących całodzienną dietę, do kontroli masy ciała oraz uchylającym dyrektywę Rady 92/52/EWG, dyrektywy Komisji 96/8/WE, 1999/21/WE, 2006/125/WE i 2006/141/WE, dyrektywę Parlamentu Europejskiego i Rady 2009/39/WE oraz rozporządzenia Komisji (WE) nr 41/2009 i (WE) nr 953/2009 (Dz. Urz. UE L 181 z 29.06.2013, str. 35, z późn. zm. );
-- **4)** będących wyrobami akcyzowymi rozumieniu art. 2 ust. 1 pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222, 340, 1813 i 1881);
-- **5)** których udział masowy soku owocowego, warzywnego lub owocowo-warzywnego wynosi niemniej niż 20 % składu surowcowego oraz zawartość cukrów jest mniejsza lub równa 5 g przeliczeniu na 100 ml napoju;
-- **6)** będących roztworami węglowodanowo-elektrolitowymi, o których mowa rozporządzeniu Komisji (UE) nr 432/2012 z dnia 16 maja 2012 r. ustanawiającym wykaz dopuszczonych oświadczeń zdrowotnych dotyczących żywności, innych niż oświadczenia odnoszące się do zmniejszenia ryzyka choroby oraz rozwoju i zdrowia dzieci (Dz. Urz. UE L 136 z 25.05.2012, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem nr 432/2012”, których zawartość cukrów jest mniejsza lub równa 5 g przeliczeniu na 100 ml napoju;
-- **7)** będących wyrobami, których na pierwszym miejscu wykazie składników znajduje się mleko albo jego przetwory, niezależnie od ich sklasyfikowania Polskiej Klasyfikacji Wyrobów i Usług.
+podmioty odpowiedzialne za realizację zadań,
 
-**Art. 12c.**
+### 5)
 
-1. Opłata oraz dodatkowa opłata, o której mowa art. 12i ust. 1 i 1a, stanowią wysokości:
+realizatorów zadań,
 
-- **1)** 96,5 % przychód Narodowego Funduszu Zdrowia; właściwy do spraw finansów publicznych.
+### 6)
 
-2. Narodowy Fundusz Zdrowia przeznacza środki, o których mowa ust. 1 pkt 1, na działania o charakterze edukacyjnym i profilaktycznym oraz na świadczenia opieki zdrowotnej związane z utrzymaniem i poprawą stanu zdrowia świadczeniobiorców z chorobami rozwiniętymi na tle niewłaściwych wyborów i zachowań zdrowotnych, szczególności z nadwagą i otyłością.
+tryb i wysokość finansowania zadań,
 
-**Art. 12d.**
+### 7)
 
-1. Obowiązek zapłaty opłaty ciąży na osobie fizycznej, osobie prawnej oraz jednostce organizacyjnej nieposiadającej osobowości prawnej będącej:
+wskaźniki i sposób monitorowania i ewaluacji NPZ
 
-- **1)** podmiotem sprzedającym napoje do punktów sprzedaży detalicznej albo prowadzącym sprzedaż detaliczną napojów przypadku: producenta, podmiotu nabywającego napoje ramach wewnątrzwspólnotowego nabycia towarów lub importera napoju;
-- **2)** zamawiającym, przypadku gdy skład napoju objętego opłatą stanowi element umowy zawartej przez producenta a dotyczącej produkcji tego napoju dla zamawiającego.
+- mając na uwadze stan zdrowia społeczeństwa, skalę występowania czynników ryzyka zdrowotnego i czynników o działaniu ochronnym dla zdrowia oraz efektywność i skuteczność zadań podejmowanych na rzecz poprawy stanu zdrowia i jakości życia.
 
-2. W przypadku powstania obowiązku zapłaty opłaty na podstawie ust. 1 pkt 2 obowiązek ten spoczywa wyłącznie na zamawiającym, o którym mowa ust. 1 pkt 2.
+### 3.
 
-3. Informację o zawarciu umowy, o której mowa ust. 1 pkt 2, producent zgłasza do organu właściwego sprawie opłaty na piśmie niepóźniej niż dniu powstania obowiązku zapłaty opłaty.
+NPZ sporządza się na okres nie krótszy niż 5 lat.
 
-4. Informacja o zawarciu umowy zawiera następujące dane:
+### 4.
 
-- **1)** dane producenta oraz podmiotu obowiązanego do zapłaty opłaty:
-    - **a)** nazwę (firmę) albo imię i nazwisko,
-    - **b)** adres siedziby albo miejsce zamieszkania,
-    - **c)** NIP,
-    - **d)** imię i nazwisko, numer telefonu lub adres poczty elektronicznej osoby wskazanej do kontaktu;
+Na realizację zadań określonych w NPZ jednostki samorządu terytorialnego oraz podmioty, o których mowa w art. 3 ust. 2, mogą otrzymywać dotacje celowe z budżetu państwa.
 
-- **2)** informacje o składzie napojów będących przedmiotem umowy, tym o dodatku kofeiny lub tauryny, substancji słodzących, o których mowa art. 12a ust. 1 pkt 1, oraz o zawartości cukrów przeliczeniu na objętość napojów, zakresie niezbędnym do obliczenia opłaty, zgodnie z ich etykietą;
-- **3)** datę i podpis producenta lub osoby przez niego upoważnionej. krajowy napoju, o którym mowa art. 12a ust. 1.
+### Art. 10.
 
-2. Producent, o którym mowa art. 12d ust. 1 pkt 2, ma obowiązek przekazywać podmiotowi obowiązanemu do zapłaty opłaty informacje, o których mowa art. 12d ust. 4, terminie pozwalającym na wypełnienie obowiązków, o których mowa art. 12g ust. 1.
+### 1.
 
-3. Obowiązek zapłaty opłaty ciąży na podmiocie sprzedającym napoje, o których mowa art. 12a ust. 1, podmiotowi prowadzącemu jednocześnie sprzedaż detaliczną oraz hurtową. W takim przypadku opłatę odprowadza się od wszystkich sprzedanych temu podmiotowi napojów objętych opłatą.
+Tworzy się Komitet Sterujący Narodowego Programu Zdrowia, zwany dalej „Komitetem”. Do zadań Komitetu należy bieżąca koordynacja działań i rozwiązywanie problemów związanych z realizacją NPZ.
 
-4. W przypadku, o którym mowa ust. 3, pozostałe podmioty wprowadzające na rynek napoje, o których mowa art. 12a ust. 1, za których wprowadzenie została zapłacona opłata, nie uwzględniają tych napojów informacji, o której mowa art. 12g ust. 1 pkt 1.
+### 2.
 
-5. Organem właściwym sprawie opłaty jest naczelnik urzędu skarbowego właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu obowiązanego do zapłaty opłaty, o którym mowa art. 12d ust. 1.
+Komitet składa się z przedstawicieli ministrów wskazanych w NPZ jako podmioty odpowiedzialne za realizację zadań w nim określonych, w randze sekretarza lub podsekretarza stanu, oraz z ministra właściwego do spraw zdrowia.
 
-**Art. 12f.**
+### 3.
 
-1. Na wysokość opłaty składają się następujące części:
+Członków Komitetu powołuje i odwołuje minister właściwy do spraw zdrowia na wniosek właściwych ministrów.
 
-- **1)** 0,50 zł za zawartość cukrów ilości równej lub mniejszej niż 5 g 100 ml napoju, lub za zawartość jakiejkolwiek ilości co najmniej jednej substancji słodzącej, o których mowa rozporządzeniu nr 1333/2008,
-- **2)** 0,05 zł za każdy gram cukrów powyżej 5 g 100 ml napoju – przeliczeniu na litr napoju.
+### 4.
 
-2. Wysokość opłaty dla napojów zawierających powyżej 5 g cukrów 100 ml napoju stanowi sumę części, o których mowa ust. 1 pkt 1 i 2, z wyłączeniem ust. 7.
+Przewodniczącym Komitetu jest minister właściwy do spraw zdrowia.
 
-3. Napoje zawierające dodatek kofeiny lub tauryny są objęte opłatą wysokości 0,10 zł przeliczeniu na litr napoju.
+### 5.
 
-4. Wysokość opłaty dla napojów zawierających substancje, o których mowa ust. 1 pkt 1 lub 2, oraz kofeinę lub taurynę stanowi odpowiednio sumę części, o których mowa ust. 1 pkt 1 lub 2, oraz opłaty, o której mowa ust. 3.
+Komitet podejmuje rozstrzygnięcia zwykłą większością głosów w obecności co najmniej połowy jego członków. W przypadku równej liczby głosów decyduje głos przewodniczącego Komitetu.
 
-5. Do obliczenia opłaty zawartość cukrów 100 ml napoju jest zaokrąglana górę do pełnego grama.
+### 6.
 
-6. Maksymalna wysokość opłaty wynosi 1,2 zł przeliczeniu na 1 litr napoju.
+Członkowie Komitetu odpowiadają za wdrażanie zadań NPZ w zakresie właściwym dla reprezentowanego ministra.
 
-7. Napoje: -warzywnego wynosi niemniej niż 20 % składu surowcowego,
+### 7.
 
-- **2)** będące roztworami węglowodanowo-elektrolitowymi, o których mowa rozporządzeniu nr 432/2012 – zawierające powyżej 5 g cukrów 100 ml napoju są objęte wyłącznie częścią opłaty, o której mowa ust. 1 pkt 2.
+Obsługę Komitetu zapewnia komórka organizacyjna w urzędzie obsługującym ministra właściwego do spraw zdrowia.
 
-8. Kwotę należnej opłaty pomniejsza się o kwotę opłaty naliczonej od napojów zwróconych podmiotowi obowiązanemu do zapłaty opłaty.
+### 8.
 
-**Art. 12g.**
+Członkom Komitetu, w związku z wykonywanymi czynnościami, nie przysługuje wynagrodzenie.
 
-1. Podmioty obowiązane do zapłaty opłaty, o których mowa art. 12d ust. 1, są obowiązane:
+### 9.
 
-- **1)** składać postaci elektronicznej informację, opatrzoną podpisem kwalifikowanym, według wzoru, o którym mowa ust. 3, organowi właściwemu sprawie opłaty za pośrednictwem systemu informatycznego ministra właściwego do spraw finansów publicznych,
-- **2)** obliczać i wpłacać opłatę – terminie do 25. dnia miesiąca następującego po miesiącu, którego dotyczy informacja, na rachunek organu właściwego sprawie opłaty.
+Koszty funkcjonowania Komitetu są pokrywane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia.
 
-2. Informacja, o której mowa ust. 1 pkt 1, zawiera następujące dane:
+### 10.
 
-- **1)** okres, za który jest składana;
-- **2)** miejsce składania informacji: nazwę właściwego urzędu skarbowego;
-- **3)** cel składania informacji:
-    - **a)** złożenie informacji,
-    - **b)** korekta informacji;
+Szczegółowy tryb pracy Komitetu określa regulamin pracy Komitetu uchwalony przez Komitet.
 
-- **4)** dane podmiotu obowiązanego do zapłaty opłaty:
-    - **a)** nazwę (firmę) albo imię i nazwisko,
-    - **b)** NIP,
-    - **c)** imię i nazwisko, numer telefonu lub adres poczty elektronicznej osoby wskazanej do kontaktu;
+### Art. 11.
 
-- **5)** kwotę opłaty ustaloną na podstawie art. 12f;
-- **5a)** kwotę opłaty naliczonej od napojów zwróconych, pomniejszającą kwotę należnej opłaty zgodnie z art. 12f ust. 8;
-- **6)** kwotę opłaty do zapłaty;
-- **7)** informacje o opłacie:
-    - **a)** łączną kwotę opłaty,
-    - **b)** kwotę opłaty za poszczególne napoje określone art. 12f ust. 1 i 3, danym okresie – podziale na poszczególne napoje określone art. 12f ust. 1 i 3 wraz z informacją o dodatku składzie kofeiny lub tauryny, lub substancji słodzących, o których mowa art. 12a ust. 1 pkt 1, oraz o zawartości cukrów 100 ml napoju,
-    - **d)** numery faktur, daty ich wystawienia, odpowiednio NIP dostawcy albo nabywcy oraz numery partii towaru, jeżeli nie są zawarte na fakturze;
+### 1.
 
-- **8)** datę i podpis podmiotu obowiązanego do zapłaty opłaty lub osoby przez niego upoważnionej;
-- **9)** pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego na podstawie ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2025 r. poz. 132, 620 i 1302).
+Minister właściwy do spraw zdrowia może zgłaszać do Prezesa Rady Ministrów wnioski dotyczące realizacji zadań z zakresu spraw wskazanych w NPZ.
 
-3. Minister właściwy do spraw finansów publicznych określi i udostępni na elektronicznej platformie usług administracji publicznej wzór dokumentu elektronicznego informacji, o której mowa ust. 1 pkt 1.
+### 2.
 
-**Art. 12h.**
+Podmiot wskazany jako odpowiedzialny za realizację zadań z zakresu spraw wskazanych w NPZ, dla osiągnięcia celów określonych w tym programie, jest obowiązany współdziałać z ministrem właściwym do spraw zdrowia.
 
-1. Organ właściwy sprawie opłaty przekazuje 96,5 % kwoty pobranej opłaty oraz dodatkowej opłaty, o której mowa art. 12i ust. 1 i 1a, na rachunek bankowy Narodowego Funduszu Zdrowia terminie 30 dni od dnia wpływu środków na rachunek organu właściwego sprawie opłaty albo przekazania jej na ten rachunek przez organ egzekucyjny.
+### Art. 12.
 
-2. W przypadku powstania nadpłaty opłacie organ właściwy sprawie opłaty dokonuje zwrotu nadpłaty ze środków należnych Narodowemu Funduszowi Zdrowia.
+### 1.
 
-**Art. 12i.**
+Organy administracji rządowej, z wyłączeniem wojewody, agencje wykonawcze oraz inne państwowe jednostki organizacyjne uczestniczące w realizacji zadań z zakresu zdrowia publicznego przekazują ministrowi właściwemu do spraw zdrowia, do dnia 30 kwietnia każdego roku, roczną informację o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego.
 
-1. W przypadku gdy podmiot obowiązany do zapłaty opłaty, o którym mowa art. 12d ust. 1:
+### 2.
 
-- **1)** informacji, o której mowa art. 12g ust. 1 pkt 1, nie wykazał opłaty należnej wysokości ani nie wpłacił terminie opłaty należnej wysokości,
-- **2)** informacji, o której mowa art. 12g ust. 1 pkt 1, wykazał opłatę należnej wysokości, lecz nie wpłacił terminie opłaty należnej wysokości,
-- **3)** nie złożył terminie informacji, o której mowa art. 12g ust. 1 pkt 1, ani nie wpłacił terminie opłaty należnej wysokości – organ właściwy sprawie opłaty, drodze decyzji, określa wysokość należnej opłaty oraz ustala dodatkową opłatę wysokości do 50 % podstawy ustalenia wysokości dodatkowej opłaty. ust. 1, okresie 14 dni po zakończeniu kontroli podatkowej, przypadku, o którym mowa ust. 1:
-- **1)** pkt 1 – złożył korektę informacji, o której mowa art. 12g ust. 1 pkt 1, z wykazaną opłatą należnej wysokości i najpóźniej dniu jej złożenia wpłacił opłatę należnej wysokości wraz z odsetkami za zwłokę,
-- **2)** pkt 2 – wpłacił opłatę należnej wysokości wraz z odsetkami za zwłokę,
-- **3)** pkt 3 – złożył informację, o której mowa art. 12g ust. 1 pkt 1, z wykazaną opłatą należnej wysokości i najpóźniej dniu jej złożenia wpłacił opłatę należnej wysokości wraz z odsetkami za zwłokę – organ właściwy sprawie opłaty, drodze decyzji, ustala dodatkową opłatę wysokości do 25 % podstawy ustalenia wysokości dodatkowej opłaty.
+Jednostki samorządu terytorialnego przekazują właściwemu wojewodzie, do dnia 31 marca każdego roku, roczną informację o zrealizowanych lub podjętych w ubiegłym roku zadaniach z zakresu zdrowia publicznego.
 
-1b. Podstawą ustalenia wysokości dodatkowej opłaty jest wysokość niewpłaconej należnej opłaty, a przypadku wpłacenia opłaty wysokości niższej od należnej – wysokość zaniżenia należnej opłaty.
+### 3.
 
-1c. Ustalając wysokość dodatkowej opłaty, organ właściwy sprawie opłaty bierze pod uwagę:
+Wojewoda weryfikuje informację, o której mowa w ust. 2, pod względem:
 
-- **1)** okoliczności powstania nieprawidłowości;
-- **2)** rodzaj i stopień naruszenia ciążącego na podmiocie obowiązanym do zapłaty opłaty, o którym mowa art. 12d ust. 1, obowiązku, które skutkowało powstaniem nieprawidłowości;
-- **3)** rodzaj, stopień i częstotliwość stwierdzonych dotychczas nieprawidłowości dotyczących opłaty;
-- **4)** wysokość niewpłaconej należnej opłaty albo wysokość zaniżenia należnej opłaty;
-- **5)** działania podjęte przez podmiot obowiązany do zapłaty opłaty, o którym mowa art. 12d ust. 1, po stwierdzeniu nieprawidłowości celu usunięcia skutków nieprawidłowości.
+### 1)
 
-1d. Dodatkowej opłaty nie ustala się:
+spełniania wymagań, o których mowa w ust. 7;
 
-- **1)** jeżeli przed dniem wszczęcia kontroli podatkowej podmiot obowiązany do zapłaty opłaty, o którym mowa art. 12d ust. 1, przypadku, o którym mowa ust. 1:
-    - **a)** pkt 1 – złożył korektę informacji, o której mowa art. 12g ust. 1 pkt 1, z wykazaną opłatą należnej wysokości oraz wpłacił opłatę należnej wysokości wraz z odsetkami za zwłokę,
-    - **c)** pkt 3 – złożył informację, o której mowa art. 12g ust. 1 pkt 1, z wykazaną opłatą należnej wysokości oraz wpłacił opłatę należnej wysokości wraz z odsetkami za zwłokę;
+### 2)
 
-- **2)** wobec osób fizycznych, które za ten sam czyn ponoszą odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe.
+zgodności realizowanych przez jednostkę samorządu terytorialnego celów i podjętych lub zrealizowanych zadań z celami operacyjnymi i zadaniami służącymi do ich realizacji, określonymi w NPZ.
 
-2. Dodatkową opłatę wnosi się na rachunek organu właściwego sprawie opłaty.
+### 4.
 
-3. Do dodatkowej opłaty przepisy art. 12c oraz art. 12h ust. 2 stosuje się odpowiednio.
+W przypadku braku możliwości zweryfikowania informacji w zakresie, o którym mowa w ust. 3, wojewoda występuje do jednostki samorządu terytorialnego o jej uzupełnienie lub dostosowanie do wymagań, o których mowa w ust. 7.
 
-**Art. 12j.**
+### 5.
 
-1. Do opłaty i dodatkowej opłaty, o której mowa art. 12i ust. 1 i 1a, stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), przy czym uprawnienia organów podatkowych przysługują odpowiednio naczelnikowi urzędu skarbowego, dyrektorowi izby administracji skarbowej, Dyrektorowi Krajowej Informacji Skarbowej, Szefowi Krajowej Administracji Skarbowej i ministrowi właściwemu do spraw finansów publicznych.
+Wojewoda na podstawie informacji, o których mowa w ust. 2, przygotowuje informację zbiorczą wraz z opinią dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa w art. 95c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-2. Organ właściwy sprawie interpretacji ogólnych, objaśnień i interpretacji indywidualnych przepisów dotyczących opłaty i dodatkowej opłaty, o której mowa art. 12i ust. 1 i 1a, może wystąpić do ministra właściwego do spraw zdrowia z wnioskiem o zajęcie stanowiska sprawie. W przypadku interpretacji ogólnych wydawanych na wniosek i interpretacji indywidualnych minister właściwy do spraw zdrowia zajmuje stanowisko terminie 21 dni od dnia doręczenia wniosku o zajęcie stanowiska, przy czym do terminu do wydania interpretacji ogólnej i interpretacji indywidualnej nie wlicza się okresu od dnia doręczenia tego wniosku do dnia otrzymania stanowiska.
+### 6.
 
-**Art. 12k.** Prezes Narodowego Funduszu Zdrowia, niepóźniej niż do dnia 15 kwietnia, przedstawia ministrowi właściwemu do spraw zdrowia informację o sposobie wykorzystania środków, o których mowa art. 12c ust. 1 pkt 1, poprzednim roku kalendarzowym.
+Informację zbiorczą oraz opinię, o których mowa w ust. 5, wojewoda, wraz z informacjami o zadaniach zrealizowanych przez niego w okresie objętym sprawozdaniem, przekazuje ministrowi właściwemu do spraw zdrowia do dnia 30 września każdego roku.
 
-#### Rozdział 3b Sprzedaż i oznaczenie napojów z dodatkiem kofeiny lub tauryny
+### 7.
 
-**Art. 12o.** Za napój z dodatkiem kofeiny lub tauryny rozumieniu niniejszego rozdziału uważa się wyrób postaci napoju będący środkiem spożywczym, ujęty Polskiej Klasyfikacji Wyrobów i Usług klasie 10.89 oraz dziale 11, którego składzie znajduje się kofeina proporcji przewyższającej 150 mg/l lub tauryna, z wyłączeniem substancji występujących nim naturalnie.
+Informacje, o których mowa w ust. 1, 2 i 5, zawierają:
 
-**Art. 12p.**
+### 1)
 
-1. Zabrania się sprzedaży napojów z dodatkiem kofeiny lub tauryny:
+określenie odpowiednio organu sporządzającego informację lub ją przekazującego;
 
-- **1)** osobom poniżej 18. roku życia;
-- **2)** na terenie jednostek systemu oświaty, o których mowa art. 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837);
-- **3)** automatach.
+### 2)
 
-2. W przypadku wątpliwości co do pełnoletności kupującego sprzedawca może żądać okazania dokumentu potwierdzającego wiek kupującego.
+wskazanie realizowanego celu operacyjnego NPZ dla podjętych lub zrealizowanych zadań z zakresu zdrowia publicznego, jeżeli dotyczy;
 
-**Art. 12q.** Producent lub importer napoju z dodatkiem kofeiny lub tauryny jest obowiązany do oznaczenia opakowania jednostkowego wyrobu widoczną, czytelną oraz umieszczoną sposób nieusuwalny i trwały informacją o treści „Napój energetyzujący” lub „Napój energetyczny”.
+### 3)
 
-#### Rozdział 4 Zasady finansowania zadań z zakresu zdrowia publicznego
+opis zadań z zakresu zdrowia publicznego zrealizowanych lub podjętych w ubiegłym roku;
 
-**Art. 13.** Zadania z zakresu zdrowia publicznego są finansowane ze środków pozostających dyspozycji:
+### 4)
 
-**Art. 14.**
+wskazanie źródeł i wysokości finansowania zadań zrealizowanych lub podjętych w ubiegłym roku;
 
-1. Powierzenie realizacji zadań z zakresu zdrowia publicznego przez odpowiedniego dysponenta środków, o których mowa art. 13, odbywa się trybie konkursu ofert ogłaszanego przez tego dysponenta. realizację zadania, o którym mowa ust. 1, jeżeli NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków.
+### 5)
 
-3. Na realizację powierzonego zadania trybie, o którym mowa ust. 1 i 2, odpowiedni dysponent przekazuje środki na podstawie umowy zawartej z realizatorem zadania.
+inne informacje uznane przez dany organ za istotne w zakresie zadań podjętych w ubiegłym roku.
 
-4. Do wyboru realizatorów zadań nie stosuje się przepisów o zamówieniach publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
+### 8.
 
-5. Przepisów ustawy nie stosuje się do trybu powierzania realizacji zadań finansowanych ze środków państwowych funduszy celowych.
+Na podstawie informacji oraz opinii, o których mowa w ust. 1, 2 i 5, minister właściwy do spraw zdrowia sporządza, co dwa lata, informację o zrealizowanych lub podjętych zadaniach z zakresu zdrowia publicznego, o której mowa w art. 4 ust. 2 pkt 7, zawierającą ocenę zgodności zrealizowanych lub podjętych przez jednostki samorządu terytorialnego zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa w art. 95c ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. Minister właściwy do spraw zdrowia przekazuje informację Radzie Ministrów do dnia 30 listopada roku następującego po ostatnim roku objętym informacją.
 
-**Art. 15.**
+### 9.
 
-1. W ogłoszeniu o konkursie ofert określa się:
+W przypadku stwierdzenia niezgodności zadań realizowanych przez jednostkę samorządu terytorialnego z priorytetami dla regionalnej polityki zdrowotnej wojewoda przekazuje swoją opinię w tym zakresie organowi stanowiącemu danej jednostki.
 
-- **1)** zadanie będące przedmiotem konkursu ofert;
-- **2)** wysokość środków przeznaczonych na realizację zadania;
-- **3)** terminy i warunki realizacji zadania;
-- **4)** kryteria oceny ofert;
-- **5)** miejsce i termin składania ofert;
-- **6)** termin rozstrzygnięcia konkursu ofert;
-- **7)** termin i sposób ogłoszenia wyników konkursu ofert;
-- **8)** sposób odwołania się od rozstrzygnięcia konkursu ofert;
-- **9)** poziom i sposób obliczania minimalnego współfinansowania zadania przez podmiot ogłaszający konkurs, jeżeli współfinansowanie zadania jest warunkiem otrzymania środków;
-- **10)** wykaz dokumentów, które należy dołączyć do oferty;
-- **11)** informację o możliwości odwołania konkursu ofert przed upływem terminu na złożenie ofert oraz możliwości przedłużenia terminu złożenia ofert i terminu rozstrzygnięcia konkursu ofert;
-- **12)** sposób złożenia oferty i dokumentów, o których mowa pkt 10.
+### 10.
 
-2. Ogłoszenie o konkursie ofert może zawierać dodatkowo:
+Rada Ministrów przekazuje Sejmowi informację, o której mowa w ust. 8, nie później niż w terminie trzech miesięcy od dnia przyjęcia jej przez Radę Ministrów.
 
-- **1)** opis sposobu oceny ofert zakresie każdego z kryteriów oceny ofert;
-- **2)** sposób i terminy przekazania środków na rzecz realizatorów zadań. zgodnie z którym realizator zadania składa ofertę.
+### 11.
 
-4. Ogłoszenie o konkursie ofert umieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu ogłaszającego konkurs oraz jego siedzibie.
+Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób przekazywania informacji, o których mowa w ust. 1 i 2, oraz wzór dokumentu zawierającego taką informację, uwzględniając możliwość sprawnego przeprowadzenia analizy uzyskanych informacji i ich przetworzenia w celu sporządzenia informacji, o której mowa w ust. 5.
 
-5. Oferta złożona konkursie ofert zawiera:
+### Rozdział 4 Zasady finansowania zadań z zakresu zdrowia publicznego
 
-- **1)** szczegółowy sposób realizacji zadania;
-- **2)** termin i miejsce realizacji zadania;
-- **3)** harmonogram działań zakresie realizacji zadania;
-- **4)** informację o wysokości wnioskowanych środków;
-- **5)** informację o wysokości współfinansowania realizacji zadania, jeżeli dotyczy;
-- **6)** informację o wcześniejszej działalności podmiotu składającego ofertę, jeżeli działalność ta dotyczy zadania określonego ogłoszeniu o konkursie ofert;
-- **7)** informację o posiadanych zasobach rzeczowych oraz zasobie kadrowym i kompetencjach osób zapewniających wykonanie zadania, a także o zakresie obowiązków tych osób;
-- **8)** informację o wysokości środków przeznaczonych na realizację zadania oraz kosztorys wykonania zadania, szczególności uwzględniający koszty administracyjne.
+### Art. 13.
 
-6. Do oferty dołącza się:
+Zadania z zakresu zdrowia publicznego są finansowane ze środków pozostających w dyspozycji:
 
-- **1)** aktualny odpis z odpowiedniego rejestru lub inne dokumenty informujące o statusie prawnym podmiotu składającego ofertę i umocowanie osób go reprezentujących;
-- **2)** oświadczenie potwierdzające, że stosunku do podmiotu składającego ofertę nie stwierdzono niezgodnego z przeznaczeniem wykorzystania środków publicznych;
-- **3)** oświadczenie osoby uprawnionej do reprezentowania podmiotu składającego ofertę o niekaralności zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi oraz niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **4)** oświadczenie, że podmiot składający ofertę jest jedynym posiadaczem rachunku, na który zostaną przekazane środki, i zobowiązuje się go utrzymywać do chwili zaakceptowania rozliczenia tych środków pod względem finansowym i rzeczowym;
-- **5)** oświadczenie osoby upoważnionej do reprezentacji podmiotu składającego ofertę wskazujące, że kwota środków przeznaczona zostanie na realizację z innych źródeł.
+### 1)
 
-**Art. 16.** Wniosek, o którym mowa art. 14 ust. 2, zawiera informacje, o których mowa art. 15 ust. 5 pkt 1–5 i 8. Do wniosku dołącza się dokumenty, o których mowa art. 15 ust. 6.
+ministra właściwego do spraw zdrowia, w tym ze środków państwowych funduszy celowych;
 
-**Art. 17.**
+### 2)
 
-1. Realizatorzy zadań, z którymi została zawarta umowa, o której mowa art. 14 ust. 3, są obowiązani do prowadzenia wyodrębnionej ewidencji księgowej otrzymanych środków oraz dokonywanych z tych środków wydatków.
+realizujących zadania z zakresu zdrowia publicznego:
 
-2. Odpowiedni dysponent środków nadzoruje prawidłowość wydatkowania przekazanych środków pod względem racjonalności, celowości, gospodarności i legalności ich wydatkowania oraz spełnienia zasad, o których mowa art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846).
+### a)
 
-3. Dysponentowi środków przysługuje prawo przeprowadzenia kontroli siedzibie realizatora zadań, który otrzymał środki, oraz odbierania ramach przeprowadzanej kontroli oświadczeń.
+innych ministrów lub centralnych organów administracji rządowej, w tym ze środków państwowych funduszy celowych,
 
-4. Oświadczenia, o których mowa ust. 3 oraz art. 15 ust. 6 pkt 2–5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+### b)
 
-5. Do środków przekazywanych na podstawie umowy zawartej na podstawie art. 14 ust. 3, zakresie nieuregulowanym ustawie, stosuje się przepisy o finansach publicznych dotyczące dotacji.
+agencji wykonawczych i innych państwowych jednostek organizacyjnych, w tym Narodowego Funduszu Zdrowia;
 
-**Art. 18.** Niemniej niż 10 % środków przeznaczonych na realizację zadań NPZ przeznacza się na zadania z zakresu:
+### 3)
 
-#### Rozdział 4a
+jednostek samorządu terytorialnego.
 
-#### Rozdział 4b Przepisy karne
+### Art. 14.
 
-**Art. 18d.**
+### 1.
 
-1. Kto, wbrew postanowieniom art. 12p ust. 1, sprzedaje napoje z dodatkiem kofeiny lub tauryny, podlega karze grzywny do 2000 zł.
+Powierzenie realizacji zadań z zakresu zdrowia publicznego przez odpowiedniego dysponenta środków, o których mowa w art. 13, odbywa się w trybie konkursu ofert ogłaszanego przez tego dysponenta.
 
-2. Tej samej karze podlega kierownik zakładu handlowego lub gastronomicznego, który nie dopełnia obowiązku nadzoru i przez to dopuszcza do popełnienia tym zakładzie wykroczenia określonego ust. 1.
+### 2.
 
-3. W razie popełnienia wykroczenia określonego ust. 1 albo 2 sąd może orzec przepadek napojów z dodatkiem kofeiny lub tauryny, chociażby nie stanowiły one własności sprawcy.
+Dysponent środków, o których mowa w art. 13, nie ogłasza konkursu ofert na realizację zadania, o którym mowa w ust. 1, jeżeli w NPZ określono podmiot właściwy do realizacji tego zadania oraz wskazano, że powierzenie jego realizacji następuje na wniosek tego podmiotu składany do odpowiedniego dysponenta środków.
 
-**Art. 18e.**
+### 3.
 
-1. Kto produkuje lub importuje napoje z dodatkiem kofeiny lub tauryny opakowaniach jednostkowych niespełniających wymogów, o których mowa art. 12q, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
+Na realizację powierzonego zadania w trybie, o którym mowa w ust. 1 i 2, odpowiedni dysponent przekazuje środki na podstawie umowy zawartej z realizatorem zadania.
 
-2. Jeżeli czyn określony ust. 1 został popełniony zakresie działalności przedsiębiorcy, za sprawcę czynu zabronionego uznaje się osobę odpowiedzialną za produkcję lub import napojów z dodatkiem kofeiny lub tauryny.
+### 4.
 
-**Art. 18f.**
+Do wyboru realizatorów zadań nie stosuje się przepisów o zamówieniach publicznych oraz przepisów o prowadzeniu działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych, o których mowa w rozdziale 2 działu II ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie.
 
-1. Orzekanie sprawach o czyny, o których mowa art. 18d, następuje trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, 1178, 1661, 1814, 1818 i 1872). przepisów ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178, 1420 i 1872).
+### 5.
 
-#### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
+Przepisów ustawy nie stosuje się do trybu powierzania realizacji zadań finansowanych ze środków państwowych funduszy celowych.
 
-**Art. 26.** Wojewoda po raz pierwszy dołącza opinię dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa art. 95c ustawy zmienianej art. 22 , do:
+### Art. 15.
 
-**Art. 27.**
+### 1.
 
-1. Do zadań z zakresu zdrowia publicznego, których realizacja rozpoczęła się przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe.
+W ogłoszeniu o konkursie ofert określa się:
 
-2. Do postępowań dotyczących realizacji zadań z zakresu zdrowia publicznego wszczętych i niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy dotychczasowe.
+### 1)
 
-**Art. 28.**
+zadanie będące przedmiotem konkursu ofert;
 
-1. Na 2016 r. następujące programy:
+### 2)
 
-- **1)** wojewódzki program profilaktyki i rozwiązywania problemów alkoholowych oraz gminny program profilaktyki i rozwiązywania problemów alkoholowych, o których mowa art. 4 ust. 1 oraz art. 4 ust. 2 ustawy zmienianej art. 19 ,
-- **2)** Wojewódzki Program Przeciwdziałania Narkomanii oraz Gminny Program Przeciwdziałania Narkomanii, o których mowa art. 9 ust. 1 oraz art. 10 ust. 2 ustawy zmienianej art. 23 – są uchwalane i realizowane na dotychczasowych zasadach. zakresie ochrony zdrowia psychicznego są realizowane na dotychczasowych zasadach.
+wysokość środków przeznaczonych na realizację zadania;
 
-**Art. 29.**
+### 3)
 
-1. W latach 2016–2025 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustawy, wynosi roku:
+terminy i warunki realizacji zadania;
 
-- **1)** 2016 – 70,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **2)** 2017 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **3)** 2018 – 40,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **4)** 2019 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **5)** 2020 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **6)** 2021 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **7)** 2022 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **8)** 2023 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **9)** 2024 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów;
-- **10)** 2025 – 80,7 mln zł, tym 0,7 mln zł budżetach wojewodów.
+### 4)
 
-2. W latach 2016–2025 maksymalny limit wydatków Funduszu Rozwiązywania Problemów Hazardowych, Funduszu Rozwoju Kultury Fizycznej i Funduszu Zajęć Sportowych dla Uczniów, będących skutkiem finansowym ustawy, wynosi roku:
+kryteria oceny ofert;
 
-- **1)** 2016 – 70 mln zł;
-- **2)** 2017 – 60 mln zł;
-- **3)** 2018 – 100 mln zł;
-- **4)** 2019 – 60 mln zł;
-- **5)** 2020 – 147,75 mln zł;
-- **6)** 2021 – 177 mln zł;
-- **7)** 2022 – 177 mln zł;
-- **8)** 2023 – 177 mln zł;
-- **9)** 2024 – 177 mln zł;
-- **10)** 2025 – 177 mln zł.
+### 5)
 
-3. W przypadku gdy wielkość wydatków, o których mowa ust. 1 i 2, po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65 % limitu wydatków przewidzianych na dany rok, wielkość przyznanych środków przeznaczonych na wydatki obniża się drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków. W pierwszej kolejności ogranicza się wydatki na zadania, o których mowa art. 2 pkt 1, 5, 7 i 8. o których mowa ust. 1 i 2, jest minister właściwy do spraw zdrowia, a organami właściwymi do wdrożenia mechanizmu korygującego, o którym mowa ust. 3, są odpowiednio minister właściwy do spraw zdrowia, minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań Narodowym Programie Zdrowia oraz wojewodowie.
+miejsce i termin składania ofert;
 
-5. Minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań Narodowym Programie Zdrowia oraz wojewodowie są obowiązani do przekazywania ministrowi właściwemu do spraw zdrowia informacji o stopniu realizacji zadań z zakresu zdrowia publicznego, umożliwiających monitorowanie limitu wydatków, o których mowa ust. 1 i 2, terminie umożliwiającym wdrożenie mechanizmu korygującego.
+### 6)
 
-**Art. 30.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia , z wyjątkiem:
+termin rozstrzygnięcia konkursu ofert;
 
+### 7)
+
+termin i sposób ogłoszenia wyników konkursu ofert;
+
+### 8)
+
+sposób odwołania się od rozstrzygnięcia konkursu ofert;
+
+### 9)
+
+poziom i sposób obliczania minimalnego współfinansowania zadania przez podmiot ogłaszający konkurs, jeżeli współfinansowanie zadania jest warunkiem otrzymania środków;
+
+### 10)
+
+wykaz dokumentów, które należy dołączyć do oferty;
+
+### 11)
+
+informację o możliwości odwołania konkursu ofert przed upływem terminu na złożenie ofert oraz możliwości przedłużenia terminu złożenia ofert i terminu rozstrzygnięcia konkursu ofert;
+
+### 12)
+
+sposób złożenia oferty i dokumentów, o których mowa w pkt 10.
+
+### 2.
+
+Ogłoszenie o konkursie ofert może zawierać dodatkowo:
+
+### 1)
+
+opis sposobu oceny ofert w zakresie każdego z kryteriów oceny ofert;
+
+### 2)
+
+sposób i terminy przekazania środków na rzecz realizatorów zadań.
+
+### 3.
+
+Wraz z ogłoszeniem o konkursie ofert zamieszcza się wzór formularza oferty, zgodnie z którym realizator zadania składa ofertę.
+
+### 4.
+
+Ogłoszenie o konkursie ofert umieszcza się na stronie podmiotowej Biuletynu Informacji Publicznej podmiotu ogłaszającego konkurs oraz w jego siedzibie.
+
+### 5.
+
+Oferta złożona w konkursie ofert zawiera:
+
+### 1)
+
+szczegółowy sposób realizacji zadania;
+
+### 2)
+
+termin i miejsce realizacji zadania;
+
+### 3)
+
+harmonogram działań w zakresie realizacji zadania;
+
+### 4)
+
+informację o wysokości wnioskowanych środków;
+
+### 5)
+
+informację o wysokości współfinansowania realizacji zadania, jeżeli dotyczy;
+
+### 6)
+
+informację o wcześniejszej działalności podmiotu składającego ofertę, jeżeli działalność ta dotyczy zadania określonego w ogłoszeniu o konkursie ofert;
+
+### 7)
+
+informację o posiadanych zasobach rzeczowych oraz zasobie kadrowym i kompetencjach osób zapewniających wykonanie zadania, a także o zakresie obowiązków tych osób;
+
+### 8)
+
+informację o wysokości środków przeznaczonych na realizację zadania oraz kosztorys wykonania zadania, w szczególności uwzględniający koszty administracyjne.
+
+### 6.
+
+Do oferty dołącza się:
+
+### 1)
+
+aktualny odpis z odpowiedniego rejestru lub inne dokumenty informujące o statusie prawnym podmiotu składającego ofertę i umocowanie osób go reprezentujących;
+
+### 2)
+
+oświadczenie potwierdzające, że w stosunku do podmiotu składającego ofertę nie stwierdzono niezgodnego z przeznaczeniem wykorzystania środków publicznych;
+
+### 3)
+
+oświadczenie osoby uprawnionej do reprezentowania podmiotu składającego ofertę o niekaralności zakazem pełnienia funkcji związanych z dysponowaniem środkami publicznymi oraz niekaralności za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+
+### 4)
+
+oświadczenie, że podmiot składający ofertę jest jedynym posiadaczem rachunku, na który zostaną przekazane środki, i zobowiązuje się go utrzymywać do chwili zaakceptowania rozliczenia tych środków pod względem finansowym i rzeczowym;
+
+### 5)
+
+oświadczenie osoby upoważnionej do reprezentacji podmiotu składającego ofertę wskazujące, że kwota środków przeznaczona zostanie na realizację zadania zgodnie z ofertą i że w tym zakresie zadanie nie będzie finansowane z innych źródeł.
+
+### Art. 16.
+
+Wniosek, o którym mowa w art. 14 ust. 2, zawiera informacje, o których mowa w art. 15 ust. 5 pkt 1-5 i 8. Do wniosku dołącza się dokumenty, o których mowa w art. 15 ust. 6.
+
+### Art. 17.
+
+### 1.
+
+Realizatorzy zadań, z którymi została zawarta umowa, o której mowa w art. 14 ust. 3, są obowiązani do prowadzenia wyodrębnionej ewidencji księgowej otrzymanych środków oraz dokonywanych z tych środków wydatków.
+
+### 2.
+
+Odpowiedni dysponent środków nadzoruje prawidłowość wydatkowania przekazanych środków pod względem racjonalności, celowości, gospodarności i legalności ich wydatkowania oraz spełnienia zasad, o których mowa w art. 44 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2013 r. poz. 885](https://api.sejm.gov.pl/eli/acts/DU/2013/885/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854 i 1890.](#gloss-0:5:)).
+
+### 3.
+
+Dysponentowi środków przysługuje prawo przeprowadzenia kontroli w siedzibie realizatora zadań, który otrzymał środki, oraz odbierania w ramach przeprowadzanej kontroli oświadczeń.
+
+### 4.
+
+Oświadczenia, o których mowa w ust. 3 oraz w art. 15 ust. 6 pkt 2-5, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+### 5.
+
+Do środków przekazywanych na podstawie umowy zawartej na podstawie art. 14 ust. 3, w zakresie nieuregulowanym w ustawie, stosuje się przepisy o finansach publicznych dotyczące dotacji.
+
+### Art. 18.
+
+Nie mniej niż 10% środków przeznaczonych na realizację zadań NPZ przeznacza się na zadania z zakresu:
+
+### 1)
+
+monitorowania i oceny stanu zdrowia i związanej z nim jakości życia społeczeństwa;
+
+### 2)
+
+identyfikacji i analizy rozpowszechnienia czynników stanowiących zagrożenie stanu zdrowia społeczeństwa;
+
+### 3)
+
+identyfikacji przyczyn nierówności w zdrowiu wynikających z uwarunkowań społeczno-ekonomicznych;
+
+### 4)
+
+inicjowania i prowadzenia badań naukowych:
+
+### a)
+
+zmierzających do oceny związku między potencjalnymi czynnikami szkodliwymi dla zdrowia lub innymi czynnikami ryzyka a stanem zdrowia ludności,
+
+### b)
+
+dotyczących oceny skuteczności i efektywności działań z zakresu zdrowia publicznego, obejmujących testowanie skuteczności zadań z zakresu zdrowia publicznego polegających na promocji zdrowia lub profilaktyce chorób innych niż określone w NPZ.
+
+### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe, dostosowujące i końcowe
+
+### Art. 19.
+
+W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi ([Dz. U. z 2015 r. poz. 1286](https://api.sejm.gov.pl/eli/acts/DU/2015/1286/text.html) i [1893](https://api.sejm.gov.pl/eli/acts/DU/2015/1893/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zadania, o których mowa w ust. 1, są realizowane zgodnie z Narodowym Programem Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym ([Dz. U. poz. 1916](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.html)), zwanym dalej „Narodowym Programem Zdrowia”.
+
+” ;
+
+### 2)
+
+w art. 3 w ust. 3 uchyla się pkt 1;
+
+### 3)
+
+w art. 4 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Samorząd województwa realizuje zadania, o których mowa w art. 1 i 2, w postaci wojewódzkiego programu profilaktyki i rozwiązywania problemów alkoholowych stanowiącego część strategii wojewódzkiej w zakresie polityki społecznej, uwzględniającego cele operacyjne dotyczące przeciwdziałania uzależnieniu od alkoholu, określone w Narodowym Programie Zdrowia.
+
+” ;
+
+### 4)
+
+w art. 41 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Realizacja zadań, o których mowa w ust. 1, jest prowadzona w postaci gminnego programu profilaktyki i rozwiązywania problemów alkoholowych stanowiącego część strategii rozwiązywania problemów społecznych, uchwalanego corocznie przez radę gminy, uwzględniającego cele operacyjne dotyczące profilaktyki i rozwiązywania problemów alkoholowych, określone w Narodowym Programie Zdrowia. Gminny program jest realizowany przez ośrodek pomocy społecznej, o którym mowa w przepisach o pomocy społecznej, lub inną jednostkę wskazaną w tym programie. W celu realizacji gminnego programu wójt (burmistrz, prezydent miasta) może powołać pełnomocnika.
+
+” ;
+
+### 5)
+
+uchyla się art. 11;
+
+### 6)
+
+w art. 133ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+Środki Funduszu przeznacza się na dofinansowanie zajęć sportowych dla uczniów, prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe, które w ramach swojej statutowej działalności realizują zadania z zakresu upowszechniania kultury fizycznej wśród dzieci i młodzieży, a także organizowanych przez jednostki samorządu terytorialnego, oraz na zadania określone w przepisach o zdrowiu publicznym w zakresie aktywności fizycznej.
+
+### 5.
+
+Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+
+### 1)
+
+warunki i tryb przyznawania środków z Funduszu na dofinansowanie zajęć sportowych dla uczniów oraz na zadania określone w przepisach o zdrowiu publicznym,
+
+### 2)
+
+tryb składania wniosków i dane, jakie powinien zawierać wniosek o przyznanie środków Funduszu, uwzględniając zakres niezbędnych danych dotyczących podmiotu ubiegającego się o te środki, a także informacje o zajęciach sportowych dla uczniów albo realizowanych zadaniach określonych w przepisach o zdrowiu publicznym,
+
+### 3)
+
+tryb przekazywania środków Funduszu, uwzględniając terminy, w jakich zostało zaplanowane przeprowadzenie zajęć sportowych dla uczniów albo realizacja zadań określonych w przepisach o zdrowiu publicznym,
+
+### 4)
+
+wysokość dofinansowania zajęć sportowych dla uczniów, z tym że maksymalna wysokość tego dofinansowania w przypadku zajęć prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe nie może przekroczyć 80%, a w przypadku zajęć organizowanych przez jednostki samorządu terytorialnego - 50% planowanych kosztów realizacji zajęć
+
+- kierując się koniecznością zapewnienia efektywnego wykorzystania środków Funduszu.
+
+” .
+
+### Art. 20.
+
+W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego ([Dz. U. z 2011 r. Nr 231, poz. 1375](https://api.sejm.gov.pl/eli/acts/DU/2011/1375/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zadania, o których mowa w ust. 1 pkt 1, są realizowane w ramach Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym ([Dz. U. poz. 1916](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.html)), zwanego dalej „Narodowym Programem Zdrowia”, a zadania, o których mowa w ust. 1 pkt 2 i 3, poprzez działania określone w Narodowym Programie Ochrony Zdrowia Psychicznego.
+
+” ;
+
+### 2)
+
+po art. 5 dodaje się art. 5a w brzmieniu:
+
+„
+
+### Art. 5a.
+
+Podmiot leczniczy prowadzący centrum zdrowia psychicznego zapewnia kompleksową opiekę zdrowotną nad osobami z zaburzeniami psychicznymi na określonym obszarze terytorialnym w formie pomocy doraźnej, ambulatoryjnej, dziennej, szpitalnej i środowiskowej.
+
+” .
+
+### Art. 21.
+
+W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych ([Dz. U. z 2015 r. poz. 298](https://api.sejm.gov.pl/eli/acts/DU/2015/298/text.html)) uchyla się art. 4.
+
+### Art. 22.
+
+W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2015 r. poz. 581](https://api.sejm.gov.pl/eli/acts/DU/2015/581/text.html), z późn. zm.[6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735,](#gloss-0:6:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 7 w ust. 1 uchyla się pkt 2;
+
+### 2)
+
+w art. 8 uchyla się pkt 2;
+
+### 3)
+
+w art. 9 uchyla się pkt 2;
+
+### 4)
+
+w art. 10:
+
+### a)
+
+w ust. 1 uchyla się pkt 2,
+
+### b)
+
+uchyla się ust. 2 i 3;
+
+### 5)
+
+po art. 48b dodaje się art. 48c i art. 48d w brzmieniu:
+
+„
+
+### Art. 48c.
+
+### 1.
+
+Jednostka samorządu terytorialnego, w ramach realizacji zadań własnych, może dofinansowywać programy zdrowotne i programy polityki zdrowotnej, o których mowa w art. 48 ust. 1, inne niż realizowane przez tę jednostkę, polegające na profilaktyce chorób.
+
+### 2.
+
+Dofinansowanie, o którym mowa w ust. 1, polega na udzieleniu realizatorowi programu wybranemu w trybie określonym w art. 48b dotacji celowej w rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ([Dz. U. z 2013 r. poz. 885](https://api.sejm.gov.pl/eli/acts/DU/2013/885/text.html), z późn. zm.[7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854 i 1890.](#gloss-0:7:)).
+
+### Art. 48d.
+
+### 1.
+
+Fundusz może przekazać środki na dofinansowanie programów polityki zdrowotnej realizowanych przez jednostkę samorządu terytorialnego w zakresie udzielania świadczeń zdrowotnych innych niż określone w wykazach świadczeń gwarantowanych określonych w przepisach wydanych na podstawie art. 31d, w kwocie nieprzekraczającej:
+
+### 1)
+
+80% środków przewidzianych na realizację programu jednostki samorządu terytorialnego o liczbie mieszkańców nieprzekraczającej 5 tys.;
+
+### 2)
+
+40% środków przewidzianych na realizację programu jednostki samorządu terytorialnego innej niż wymieniona w pkt 1.
+
+### 2.
+
+W celu uzyskania dofinansowania, o którym mowa w ust. 1, organ wykonawczy jednostki samorządu terytorialnego składa wniosek do dyrektora oddziału wojewódzkiego Funduszu. Do wniosku dołącza się pozytywną opinię Agencji wydaną w trybie, o którym mowa w art. 48a ust. 3 pkt 2, oraz pozytywną opinię wojewody dotyczącą zgodności planowanego programu z priorytetami dla regionalnej polityki zdrowotnej, o których mowa w art. 95c, oraz zgodności z celami operacyjnymi Narodowego Programu Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym ([Dz. U. poz. 1916](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.html)).
+
+### 3.
+
+Dyrektor oddziału wojewódzkiego Funduszu dokonuje oceny wniosku oraz załączonych dokumentów oraz podejmuje decyzję o dofinansowaniu programu, którego wniosek dotyczy, uwzględniając wpływ planowanych działań na poprawę stanu zdrowia populacji objętej programem oraz możliwości finansowe oddziału wojewódzkiego Funduszu.
+
+### 4.
+
+Przekazanie środków w ramach dofinansowania, o którym mowa w ust. 1, odbywa się na podstawie umowy zawartej przez dyrektora oddziału wojewódzkiego Funduszu z organem wykonawczym jednostki samorządu terytorialnego. Jednostka samorządu terytorialnego zwraca oddziałowi wojewódzkiemu Funduszu środki niewykorzystane lub wykorzystane niezgodnie z przeznaczeniem.
+
+### 5.
+
+Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, tryb składania i rozpatrywania wniosków o dofinansowanie, o których mowa w ust. 2, oraz tryb rozliczania przekazanych środków i zwrotu, o którym mowa w ust. 4, uwzględniając konieczność równego traktowania jednostek samorządu terytorialnego składających wnioski oraz efektywne rozliczanie tych środków.
+
+” ;
+
+### 6)
+
+w art. 50 ust. 22 otrzymuje brzmienie:
+
+„
+
+### 22.
+
+Dyrektor oddziału wojewódzkiego Funduszu może umorzyć w całości albo w części spłatę należności ustalonej w decyzji, o której mowa w ust. 18, lub odroczyć spłatę tej należności, lub rozłożyć ją na raty, stosując odpowiednio zasady określone w art. 56-58 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+” ;
+
+### 7)
+
+w art. 97 w ust. 3 pkt 7 otrzymuje brzmienie:
+
+„
+
+### 7)
+
+promocja zdrowia i profilaktyka chorób, w tym dofinansowanie programów polityki zdrowotnej na podstawie art. 48d;
+
+” ;
+
+### 8)
+
+w art. 117 w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+koszty świadczeń opieki zdrowotnej, uwzględniające koszty promocji zdrowia i profilaktyki chorób w wysokości nie mniejszej niż 1,5% kosztów świadczeń opieki zdrowotnej, w tym dofinansowanie programów polityki zdrowotnej na podstawie art. 48d;
+
+” ;
+
+### 9)
+
+w art. 118:
+
+### a)
+
+w ust. 2 w pkt 2 w lit. c średnik zastępuje się przecinkiem i dodaje się lit. d w brzmieniu:
+
+„
+
+### d)
+
+rezerwy na dofinansowanie programów polityki zdrowotnej na podstawie art. 48d, w kwocie nie większej niż 0,5% kosztów świadczeń opieki zdrowotnej określonych dla danego oddziału w projekcie planu finansowego, o którym mowa w art. 121, na rok poprzedni;
+
+” ,
+
+### b)
+
+po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+„
+
+### 5a.
+
+Utworzenie rezerwy, o której mowa w ust. 2 pkt 2 lit. d, nie może powodować obniżenia kosztów finansowania przez oddziały wojewódzkie Funduszu świadczeń opieki zdrowotnej dla ubezpieczonych określonych dla tych oddziałów w projekcie planu finansowego, o którym mowa w art. 121, na rok poprzedni.
+
+” .
+
+### Art. 23.
+
+W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii ([Dz. U. z 2012 r. poz. 124](https://api.sejm.gov.pl/eli/acts/DU/2012/124/text.html), z późn. zm.[8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875 i 1893.](#gloss-0:8:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zadania, o których mowa w ust. 1 pkt 1-3, są finansowane ze środków własnych podmiotów wykonujących zadania w zakresie przeciwdziałania narkomanii, środków przeznaczonych na realizację programów, o których mowa w art. 48 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2015 r. poz. 581](https://api.sejm.gov.pl/eli/acts/DU/2015/581/text.html), z późn. zm.[9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893 i 1916.](#gloss-0:9:)), oraz środków Narodowego Funduszu Zdrowia innych niż przeznaczone na realizację programów zdrowotnych.
+
+” ;
+
+### 2)
+
+w art. 6 w ust. 3:
+
+### a)
+
+uchyla się pkt 1 i 2,
+
+### b)
+
+w pkt 12 uchyla się lit. k;
+
+### 3)
+
+art. 7 otrzymuje brzmienie:
+
+„
+
+### Art. 7.
+
+Podstawę do działań w zakresie przeciwdziałania narkomanii stanowi Narodowy Program Zdrowia, o którym mowa w art. 9 ust. 1 ustawy z dnia 11 września 2015 r. o zdrowiu publicznym ([Dz. U. poz. 1916](https://api.sejm.gov.pl/eli/acts/DU/2015/1916/text.html)), zwany dalej „Narodowym Programem Zdrowia”.
+
+” ;
+
+### 4)
+
+uchyla się art. 8;
+
+### 5)
+
+w art. 9 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ wykonawczy samorządu województwa opracowuje projekt Wojewódzkiego Programu Przeciwdziałania Narkomanii, zwanego dalej „Wojewódzkim Programem”, biorąc pod uwagę cele operacyjne dotyczące przeciwdziałania narkomanii, określone w Narodowym Programie Zdrowia. Wojewódzki Program stanowi część strategii wojewódzkiej w zakresie polityki społecznej.
+
+” ;
+
+### 6)
+
+w art. 10 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Wójt (burmistrz, prezydent miasta) w celu realizacji zadań, o których mowa w ust. 1, opracowuje projekt Gminnego Programu Przeciwdziałania Narkomanii, zwanego dalej „Gminnym Programem”, biorąc pod uwagę cele operacyjne dotyczące przeciwdziałania narkomanii, określone w Narodowym Programie Zdrowia. Gminny Program stanowi część gminnej strategii rozwiązywania problemów społecznych.
+
+” ;
+
+### 7)
+
+w art. 15 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+monitorowanie realizacji Narodowego Programu Zdrowia w zakresie działań dotyczących przeciwdziałania narkomanii;
+
+” ;
+
+### 8)
+
+w art. 19 ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Szczegółowe zadania z zakresu działalności wychowawczej, edukacyjnej, informacyjnej i profilaktycznej określa Narodowy Program Zdrowia.
+
+” .
+
+### Art. 24.
+
+W ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ([Dz. U. z 2013 r. poz. 947](https://api.sejm.gov.pl/eli/acts/DU/2013/947/text.html), z późn. zm.[10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 619 i 1138 oraz z 2015 r. poz. 1365.](#gloss-0:10:)) w załączniku:
+
+### 1)
+
+po pkt 6 dodaje się pkt 6a w brzmieniu:
+
+„
+
+### 6a)
+
+Chikungunya;
+
+” ;
+
+### 2)
+
+po pkt 9 dodaje się pkt 9a w brzmieniu:
+
+„
+
+### 9a)
+
+choroba wirusowa Ebola (EVD);
+
+” ;
+
+### 3)
+
+pkt 53 otrzymuje brzmienie:
+
+„
+
+### 53)
+
+zakażenia szpitalne oraz zakażenia biologicznymi czynnikami chorobotwórczymi opornymi na antybiotyki kluczowe dla leczenia;
+
+” ;
+
+### 4)
+
+pkt 58 otrzymuje brzmienie:
+
+„
+
+### 58)
+
+zespoły ciężkiej ostrej niewydolności oddechowej (SARI) lub innej niewydolności narządowej o etiologii infekcyjnej lub nieustalonej;
+
+” .
+
+### Art. 25.
+
+W ustawie z dnia 19 listopada 2009 r. o grach hazardowych ([Dz. U. z 2015 r. poz. 612](https://api.sejm.gov.pl/eli/acts/DU/2015/612/text.html), z późn. zm.[11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1201, 1639 i 1830.](#gloss-0:11:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 86:
+
+### a)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Wydatki Funduszu Rozwoju Kultury Fizycznej są przeznaczone na przebudowę, remonty i dofinansowanie inwestycji obiektów sportowych, rozwijanie sportu wśród dzieci, młodzieży i osób niepełnosprawnych oraz zadania określone w przepisach o zdrowiu publicznym w zakresie aktywności fizycznej.
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, o których mowa w ust. 4, tryb składania wniosków oraz przekazywania środków, z uwzględnieniem racjonalności i ciągłości finansowania zadań.
+
+” ;
+
+### 2)
+
+w art. 88 w ust. 4 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+zadania określone w przepisach o zdrowiu publicznym.
+
+” .
+
+### Art. 26.
+
+Wojewoda po raz pierwszy dołącza opinię dotyczącą zgodności zrealizowanych lub podjętych zadań z priorytetami dla regionalnej polityki zdrowotnej, o których mowa w art. 95c ustawy zmienianej w art. 22, do:
+
+### 1)
+
+informacji zbiorczej, o której mowa w art. 12 ust. 5, za 2017 r.;
+
+### 2)
+
+wniosku, o którym mowa w art. 48d ust. 2 ustawy zmienianej w art. 22, składanego w 2017 r.
+
+### Art. 27.
+
+### 1.
+
+Do zadań z zakresu zdrowia publicznego, których realizacja rozpoczęła się przed dniem wejścia w życie ustawy, stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do postępowań dotyczących realizacji zadań z zakresu zdrowia publicznego wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe.
+
+### Art. 28.
+
+### 1.
+
+Na 2016 r. następujące programy:
+
+### 1)
+
+wojewódzki program profilaktyki i rozwiązywania problemów alkoholowych oraz gminny program profilaktyki i rozwiązywania problemów alkoholowych, o których mowa w art. 4 ust. 1 oraz art. 41 ust. 2 ustawy zmienianej w art. 19,
+
+### 2)
+
+Wojewódzki Program Przeciwdziałania Narkomanii oraz Gminny Program Przeciwdziałania Narkomanii, o których mowa w art. 9 ust. 1 oraz art. 10 ust. 2 ustawy zmienianej w art. 23
+
+- są uchwalane i realizowane na dotychczasowych zasadach.
+
+### 2.
+
+Działania podejmowane przez jednostki samorządu terytorialnego w 2016 r. w zakresie ochrony zdrowia psychicznego są realizowane na dotychczasowych zasadach.
+
+### Art. 29.
+
+### 1.
+
+W latach 2016-2025 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustawy, wynosi w roku:
+
+### 1)
+
+2016 - 70,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 2)
+
+2017 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 3)
+
+2018 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 4)
+
+2019 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 5)
+
+2020 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 6)
+
+2021 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 7)
+
+2022 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 8)
+
+2023 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 9)
+
+2024 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów;
+
+### 10)
+
+2025 - 80,7 mln zł, w tym 0,7 mln zł w budżetach wojewodów.
+
+### 2.
+
+W latach 2016-2025 maksymalny limit wydatków Funduszu Rozwiązywania Problemów Hazardowych, Funduszu Rozwoju Kultury Fizycznej i Funduszu Zajęć Sportowych dla Uczniów, będących skutkiem finansowym ustawy, wynosi w roku:
+
+### 1)
+
+2016 - 70 mln zł;
+
+### 2)
+
+2017 - 60 mln zł;
+
+### 3)
+
+2018 - 60 mln zł;
+
+### 4)
+
+2019 - 60 mln zł;
+
+### 5)
+
+2020 - 60 mln zł;
+
+### 6)
+
+2021 - 60 mln zł;
+
+### 7)
+
+2022 - 60 mln zł;
+
+### 8)
+
+2023 - 60 mln zł;
+
+### 9)
+
+2024 - 60 mln zł;
+
+### 10)
+
+2025 - 60 mln zł.
+
+### 3.
+
+W przypadku gdy wielkość wydatków, o których mowa w ust. 1 i 2, po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, wielkość przyznanych środków przeznaczonych na wydatki obniża się w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków. W pierwszej kolejności ogranicza się wydatki na zadania, o których mowa w art. 2 pkt 1, 5, 7 i 8.
+
+### 4.
+
+Organem właściwym do monitorowania wykorzystania limitów wydatków, o których mowa w ust. 1 i 2, jest minister właściwy do spraw zdrowia, a organami właściwymi do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, są odpowiednio minister właściwy do spraw zdrowia, minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań w Narodowym Programie Zdrowia oraz wojewodowie.
+
+### 5.
+
+Minister właściwy do spraw kultury fizycznej, inni właściwi ministrowie wskazani jako podmioty odpowiedzialne za realizację zadań w Narodowym Programie Zdrowia oraz wojewodowie są obowiązani do przekazywania ministrowi właściwemu do spraw zdrowia informacji o stopniu realizacji zadań z zakresu zdrowia publicznego, umożliwiających monitorowanie limitu wydatków, o których mowa w ust. 1 i 2, w terminie umożliwiającym wdrożenie mechanizmu korygującego.
+
+### Art. 30.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 4 ust. 2 pkt 7, który wchodzi w życie z dniem 1 października 2017 r.;
+
+### 2)
+
+art. 9, art. 19 pkt 1, 3, 4 i 6, art. 20, art. 23 i art. 25 pkt 1, które wchodzą w życie z dniem 1 stycznia 2016 r.;
+
+### 3)
+
+art. 12 i art. 22, które wchodzą w życie z dniem 1 stycznia 2017 r.;
+
+### 4)
+
+art. 21, który wchodzi w życie z dniem 1 stycznia 2018 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych, ustawę z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, ustawę z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii, ustawę z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi oraz ustawę z dnia 19 listopada 2009 r. o grach hazardowych. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1138 i 1146 oraz z 2015 r. poz. 1255, 1333, 1339 i 1777. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893 i 1916. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1662 oraz z 2015 r. poz. 1066, 1220, 1224, 1240, 1268 i 1735. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854 i 1890. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130, 1189, 1190, 1269, 1358, 1513, 1830, 1854 i 1890. 8) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 28, 875 i 1893. 9) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1240, 1269, 1365, 1569, 1692, 1735, 1830, 1844, 1893 i 1916. 10) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 619 i 1138 oraz z 2015 r. poz. 1365. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 1201, 1639 i 1830.

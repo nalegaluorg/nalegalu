@@ -8,11 +8,9 @@ pos: 1699
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy – Kodeks postępowania cywilnego oraz niektórych innych ustaw
-
-*USTAWA z dnia 16 listopada 2006 r.*
+# Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks postępowania cywilnego oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawę z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,27 +22,684 @@ domain: null
 | Data ogłoszenia | 2006-11-16 |
 | Data wydania | 2006-12-19 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062351699) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1699/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/1699/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/1699) |
 
-**Art. 1.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. 43, 296, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 479¹⁴b.** Dowód z przesłuchania stron sąd może dopuścić jedynie na wniosek. Przepisy art. 479 § 1 i art. 479 § 2 stosuje się odpowiednio.”;
+### Art. 1.
 
-**Art. 2.** W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych (Dz. U. 33, 175, z późn. zm. ) wprowadza się następujące zmiany:
+W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540 i Nr 226, poz. 1656.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. 173, 1807, z późn. zm. ) w art. 29 w ust. 3 po pkt 4 dodaje się pkt 5 w brzmieniu: „5) pouczenie o skutkach zaniedbania ujawnienia w ewidencji zmian określonych w art. 139 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. 43, 296, z późn. zm. ).”.
+### 1)
 
-**Art. 4.**
+w art. 17:
 
-1. W sprawach wszczętych przed dniem wejścia w życie ustawy stosuje się, do czasu zakończenia postępowania w danej instancji, przepisy dotychczasowe, chyba że przepisy poniższe stanowią inaczej.
+### a)
 
-2. Przepisy art. 108 , art. 123 § 2, art. 364, art. 394, art. 398 § 1 i 2, art. 479 , art. 479 , art. 497 , art. 509 , art. 781, art. 795 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy.
+pkt 4 otrzymuje brzmienie:
 
-3. Przepisy art. 174 i art. 182 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy, przy czym, jeżeli zdarzenie, o którym mowa w art. 182 § 2 ustawy, o której mowa w art. 1, nastąpiło przed dniem wejścia w życie ustawy, termin trzymiesięczny przewidziany w tym przepisie rozpoczyna bieg od dnia wejścia w życie ustawy.
+„
 
-4. Przepis art. 479 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do postępowań zawieszonych po dniu wejścia w życie ustawy.
+### 4)
 
-5. Przepisy art. 214 § 2 i 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do zdarzeń, które nastąpiły po dniu wejścia w życie ustawy.
+o prawa majątkowe, w których wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych, a w postępowaniu w sprawach gospodarczych sto tysięcy złotych, oprócz spraw o alimenty, o naruszenie posiadania i o zniesienie wspólności majątkowej między małżonkami oraz spraw o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym,
 
-**Art. 5.** Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+” ,
 
+### b)
+
+po pkt 41 dodaje się pkt 42 i 43 w brzmieniu:
+
+„
+
+### 42)
+
+o uchylenie, stwierdzenie nieważności albo o ustalenie nieistnienia uchwał organów osób prawnych lub jednostek organizacyjnych niebędących osobami prawnymi, którym ustawa przyznaje zdolność prawną,
+
+### 43)
+
+o zapobieganie i zwalczanie nieuczciwej konkurencji.
+
+” ;
+
+### 2)
+
+art. 1081 otrzymuje brzmienie:
+
+„
+
+### Art. 1081.
+
+Jeżeli w toku postępowania sąd nie orzekł o obowiązku poniesienia kosztów sądowych lub orzeczeniem nie objął całej kwoty należnej z tego tytułu, postanowienie w tym przedmiocie wydaje na posiedzeniu niejawnym sąd, przed którym sprawa toczyła się w pierwszej instancji.
+
+” ;
+
+### 3)
+
+art. 123 otrzymuje brzmienie:
+
+„
+
+### Art. 123.
+
+### § 1.
+
+Postanowienie o ustanowieniu, odmowie ustanowienia i cofnięciu ustanowienia adwokata lub radcy prawnego oraz o skazaniu na grzywnę i nałożeniu na stronę obowiązku uiszczenia ich wynagrodzenia sąd może wydać na posiedzeniu niejawnym.
+
+### § 2.
+
+Postanowienie o ustanowieniu albo odmowie ustanowienia adwokata lub radcy prawnego może wydać także referendarz sądowy.
+
+” ;
+
+### 4)
+
+po art. 1304 dodaje się art. 1305 w brzmieniu:
+
+„
+
+### Art. 1305.
+
+W wypadkach, o których mowa w art. 130-1304, zarządzenia może wydać także referendarz sądowy.
+
+” ;
+
+### 5)
+
+w art. 139 § 3 otrzymuje brzmienie:
+
+„
+
+### § 3.
+
+Pisma dla osób prawnych, organizacji, osób fizycznych podlegających wpisowi do rejestru albo ewidencji na podstawie odrębnych przepisów - w razie niemożności doręczenia w sposób przewidziany w artykułach poprzedzających z uwagi na nieujawnienie w rejestrze albo w ewidencji zmiany adresu, a w przypadku osób fizycznych miejsca zamieszkania i adresu - pozostawia się w aktach sprawy ze skutkiem doręczenia, chyba że nowe miejsce zamieszkania i adres są sądowi znane.
+
+” ;
+
+### 6)
+
+w art. 174:
+
+### a)
+
+w § 1 pkt 4 otrzymuje brzmienie:
+
+„
+
+### 4)
+
+jeżeli postępowanie dotyczy masy upadłości i ogłoszono upadłość z możliwością zawarcia układu, a strona pozbawiona została prawa zarządu masą upadłości, albo ogłoszono upadłość obejmującą likwidację majątku powoda.
+
+” ,
+
+### b)
+
+dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+W wypadku, o którym mowa w § 1 pkt 4, sąd zawiadamia syndyka albo zarządcę o trwającym postępowaniu, wyznaczając mu odpowiedni termin do wstąpienia do tego postępowania. Brak oświadczenia syndyka albo zarządcy w wyznaczonym terminie uznaje się za odmowę wstąpienia do postępowania.
+
+” ;
+
+### 7)
+
+w art. 180 w § 1 dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+jeżeli postępowanie dotyczy masy upadłości i ogłoszenia upadłości z możliwością zawarcia układu, a strona pozbawiona została prawa zarządu masą upadłości, albo ogłoszono upadłość obejmującą likwidację majątku powoda - z chwilą złożenia przez syndyka lub zarządcę oświadczenia w przedmiocie wstąpienia do postępowania. W razie odmowy wstąpienia przez nich do postępowania, sprawa toczy się z udziałem upadłego.
+
+” ;
+
+### 8)
+
+w art. 182 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd umarza postępowanie zawieszone na zgodny wniosek stron lub na wniosek spadkobiercy, jak również z przyczyn wskazanych w art. 177 § 1 pkt 5 i 6, jeżeli wniosek o podjęcie postępowania nie został zgłoszony w ciągu roku od daty postanowienia o zawieszeniu. Ponadto sąd umorzy postępowanie w razie stwierdzenia braku następcy prawnego strony, która utraciła zdolność sądową, a w każdym razie po upływie roku od daty postanowienia o zawieszeniu z tej przyczyny. Sąd także umorzy postępowanie w razie śmierci strony po upływie lat pięciu od daty postanowienia o zawieszeniu postępowania z tej przyczyny.
+
+” ;
+
+### 9)
+
+po art. 182 dodaje się art. 1821 w brzmieniu:
+
+„
+
+### Art. 1821.
+
+### § 1.
+
+Jeżeli ogłoszono upadłość obejmującą likwidację majątku pozwanego, a postępowanie dotyczy masy upadłości, sąd wydaje postanowienie o umorzeniu postępowania. Postanowienie może zapaść na posiedzeniu niejawnym. Przepisu art. 108 § 1 nie stosuje się.
+
+### § 2.
+
+W przypadku ponownego wytoczenia powództwa w terminie trzech miesięcy po prawomocnej odmowie uznania wierzytelności, uchyleniu, prawomocnym zakończeniu albo umorzeniu postępowania upadłościowego, zachowane zostają skutki, jakie ustawa wiąże z poprzednio wytoczonym powództwem. Postępowanie dowodowe nie wymaga powtórzenia.
+
+### § 3.
+
+Przepis § 2 stosuje się odpowiednio w przypadku zmiany postanowienia o ogłoszeniu upadłości obejmującej likwidację majątku pozwanego na postanowienie o ogłoszeniu upadłości z możliwością zawarcia układu.
+
+” ;
+
+### 10)
+
+art. 202 otrzymuje brzmienie:
+
+„
+
+### Art. 202.
+
+Niewłaściwość sądu dającą się usunąć za pomocą umowy stron sąd bierze pod rozwagę tylko na zarzut pozwanego, zgłoszony i należycie uzasadniony przed wdaniem się w spór co do istoty sprawy. Sąd nie bada z urzędu tej niewłaściwości również przed doręczeniem pozwu. Jeżeli przepis szczególny nie stanowi inaczej, okoliczności, które uzasadniają odrzucenie pozwu, jak również niewłaściwy tryb postępowania, brak należytego umocowania pełnomocnika, brak zdolności procesowej pozwanego, brak w składzie jego organów lub niedziałanie jego przedstawiciela ustawowego sąd bierze pod rozwagę z urzędu w każdym stanie sprawy.
+
+” ;
+
+### 11)
+
+w art. 214 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu:
+
+„
+
+### § 2.
+
+Sąd może skazać na grzywnę stronę, jeżeli powołała się w złej wierze na nieprawdziwe okoliczności, które skutkowały odroczeniem rozprawy.
+
+### § 3.
+
+Jeżeli nieprawdziwe okoliczności, które skutkowały odroczeniem rozprawy, zostały powołane w złej wierze przez pełnomocnika strony, sąd może go skazać na grzywnę.
+
+” ;
+
+### 12)
+
+w art. 364 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu:
+
+„
+
+### § 2.
+
+Postanowienia w sprawie, o której mowa w § 1, może wydać także referendarz sądowy.
+
+” ;
+
+### 13)
+
+w art. 394 w § 1:
+
+### a)
+
+po pkt 41 dodaje się pkt 42 w brzmieniu:
+
+„
+
+### 42)
+
+stwierdzenie prawomocności orzeczenia,
+
+” ,
+
+### b)
+
+pkt 5 otrzymuje brzmienie:
+
+„
+
+### 5)
+
+skazanie świadka, biegłego, strony, jej pełnomocnika oraz osoby trzeciej na grzywnę, zarządzenie przymusowego sprowadzenia i aresztowania świadka oraz odmowa zwolnienia świadka i biegłego od grzywny i świadka od przymusowego sprowadzenia,
+
+” ;
+
+### 14)
+
+w art. 39822 § 1 i 2 otrzymują brzmienie:
+
+„
+
+### § 1.
+
+Na orzeczenie referendarza sądowego, co do istoty sprawy, orzeczenie kończące postępowanie, orzeczenia, o których mowa w art. 394 § 1 pkt 1, 2, 42, 5, 6, 7, 8 i 9, a także orzeczenie co do nadania klauzuli wykonalności, przysługuje skarga, chyba że przepis szczególny stanowi inaczej. Skargę rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
+
+### § 2.
+
+W razie wniesienia skargi orzeczenie referendarza sądowego traci moc, z wyjątkiem orzeczenia co do nadania klauzuli wykonalności.
+
+” ;
+
+### 15)
+
+art. 4791 otrzymuje brzmienie:
+
+„
+
+### Art. 4791.
+
+### § 1.
+
+Przepisy niniejszego działu stosuje się w sprawach ze stosunków cywilnych między przedsiębiorcami, w zakresie prowadzonej przez nich działalności gospodarczej (sprawy gospodarcze). Zaprzestanie prowadzenia działalności gospodarczej przez którąkolwiek ze stron stosunku cywilnego po jego powstaniu nie wyłącza zastosowania przepisów niniejszego działu.
+
+### § 2.
+
+Sprawami gospodarczymi, w rozumieniu niniejszego działu, są także sprawy:
+
+### 1)
+
+ze stosunku spółki oraz dotyczące roszczeń, o których mowa w art. 291-300 i art. 479-490 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), z późn. zm.[3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540.](#gloss-0:3:)),
+
+### 2)
+
+przeciwko przedsiębiorcom o zaniechanie naruszania środowiska i przywrócenie do stanu poprzedniego lub naprawienie szkody z tym związanej oraz zakazanie lub ograniczenie działalności zagrażającej środowisku,
+
+### 3)
+
+należące do właściwości sądów na podstawie przepisów o ochronie konkurencji, prawa energetycznego, prawa telekomunikacyjnego, prawa pocztowego oraz przepisów o transporcie kolejowym,
+
+### 4)
+
+przeciwko przedsiębiorcom o uznanie postanowień wzorca umowy za niedozwolone.
+
+” ;
+
+### 16)
+
+po art. 4791 dodaje się art. 4791a w brzmieniu:
+
+„
+
+### Art. 4791a.
+
+W sprawach gospodarczych rozpoznawanych według przepisów niniejszego działu, przepisy o innych postępowaniach odrębnych stosuje się w zakresie, w którym nie są one sprzeczne z przepisami tego działu.
+
+” ;
+
+### 17)
+
+art. 4792 otrzymuje brzmienie:
+
+„
+
+### Art. 4792.
+
+### § 1.
+
+Przedsiębiorcą jest osoba fizyczna, osoba prawna albo jednostka organizacyjna niebędąca osobą prawną, której ustawa przyznaje zdolność prawną, prowadząca we własnym imieniu działalność gospodarczą lub zawodową.
+
+### § 2.
+
+Przepisów niniejszego działu nie stosuje się w sprawach dotyczących działalności wytwórczej osób fizycznych w rolnictwie w zakresie upraw rolnych oraz chowu i hodowli zwierząt, ogrodnictwa, warzywnictwa, leśnictwa i rybactwa śródlądowego, a także wynajmowania przez rolników pokoi, sprzedaży posiłków domowych i świadczenia w gospodarstwach rolnych innych usług związanych z pobytem turystów.
+
+” ;
+
+### 18)
+
+uchyla się art. 4793;
+
+### 19)
+
+w art. 4794 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 i 3 w brzmieniu:
+
+„
+
+### § 2.
+
+W toku postępowania nie można występować z nowymi roszczeniami zamiast lub obok dotychczasowych. Jednakże w razie zmiany okoliczności powód może żądać, zamiast pierwotnego przedmiotu sporu, jego wartości lub innego przedmiotu, a w sprawach o świadczenie powtarzające się może nadto rozszerzyć żądanie pozwu o świadczenia za dalsze okresy. Przepisów art. 194-196 i art. 198 nie stosuje się.
+
+### § 3.
+
+Przepisów art. 5, art. 177 § 1 pkt 5, art. 178, art. 205, art. 212 zdanie drugie i trzecie, art. 4921 § 1, art. 499 pkt 4 i art. 5021 § 1 nie stosuje się.
+
+” ;
+
+### 20)
+
+uchyla się art. 4797;
+
+### 21)
+
+po art. 4798 dodaje się art. 4798a w brzmieniu:
+
+„
+
+### Art. 4798a.
+
+### § 1.
+
+Jeżeli pismo wszczynające postępowanie nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych, przewodniczący zwraca stronie pismo bez wzywania do jego poprawienia lub uzupełnienia. Mylne oznaczenie pisma procesowego lub inne oczywiste niedokładności nie stanowią przeszkody do nadania pismu biegu i rozpoznania go w trybie właściwym.
+
+### § 2.
+
+Zarządzenie o zwrocie pisma powinno zawierać wskazanie braków, jakimi pismo było dotknięte, oraz pouczenie o skutkach jego ponownego wniesienia.
+
+### § 3.
+
+W terminie tygodniowym od dnia doręczenia zarządzenia o zwrocie pisma strona może wnieść je ponownie. Jeżeli pismo to nie jest dotknięte brakami, wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu pisma, chyba że zwrot nastąpił na skutek braków uprzednio niewskazanych.
+
+### § 4.
+
+Przepisu § 2 w zakresie pouczenia o skutkach ponownego wniesienia pisma i przepisu § 3 nie stosuje się w wypadku, gdy strona reprezentowana jest przez adwokata, radcę prawnego, rzecznika patentowego lub Prokuratorię Generalną Skarbu Państwa.
+
+### § 5.
+
+Inne pisma procesowe złożone w postępowaniu przed sądem pierwszej instancji, które nie mogą otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych, wniesione przez stronę reprezentowaną przez adwokata, radcę prawnego, rzecznika patentowego lub Prokuratorię Generalną Skarbu Państwa podlegają zwrotowi bez wzywania do ich poprawienia lub uzupełnienia. Sprzeciw od wyroku zaocznego, zarzuty od nakazu zapłaty, sprzeciw od nakazu zapłaty sąd odrzuca.
+
+### § 6.
+
+W wypadkach, o których mowa w § 1 i 5, zarządzenia może wydać także referendarz sądowy.
+
+” ;
+
+### 22)
+
+w art. 4799 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+W toku sprawy strona reprezentowana przez adwokata, radcę prawnego, rzecznika patentowego lub Prokuratorię Generalną Skarbu Państwa jest obowiązana doręczać odpisy pism procesowych z załącznikami bezpośrednio stronie przeciwnej. Do pisma procesowego wniesionego do sądu strona dołącza dowód doręczenia drugiej stronie odpisu pisma albo dowód wysłania go przesyłką poleconą. Pisma, do których nie dołączono dowodu doręczenia albo dowodu wysłania przesyłką poleconą, podlegają zwrotowi bez wzywania do usunięcia tego braku.
+
+” ;
+
+### 23)
+
+art. 47910 otrzymuje brzmienie:
+
+„
+
+### Art. 47910.
+
+Sąd na wniosek strony zarządza odbycie posiedzenia lub jego części przy drzwiach zamkniętych także wtedy, gdy mogą być ujawnione okoliczności stanowiące tajemnicę jej przedsiębiorstwa.
+
+” ;
+
+### 24)
+
+art. 47911 otrzymuje brzmienie:
+
+„
+
+### Art. 47911.
+
+Sąd umarza postępowanie zawieszone z przyczyn wskazanych w art. 177 § 1 pkt 6, jeżeli wniosek o podjęcie postępowania nie został zgłoszony w ciągu sześciu miesięcy od daty postanowienia o zawieszeniu.
+
+” ;
+
+### 25)
+
+art. 47912 otrzymuje brzmienie:
+
+„
+
+### Art. 47912.
+
+### § 1.
+
+W pozwie powód jest obowiązany podać wszystkie twierdzenia oraz dowody na ich poparcie pod rygorem utraty prawa powoływania ich w toku postępowania, chyba że wykaże, że ich powołanie w pozwie nie było możliwe albo że potrzeba powołania wynikła później. W tym przypadku dalsze twierdzenia i dowody na ich poparcie powinny być powołane w terminie dwutygodniowym od dnia, w którym powołanie ich stało się możliwe lub wynikła potrzeba ich powołania.
+
+### § 2.
+
+Powód powinien dołączyć do pozwu odpis reklamacji lub wezwania do dobrowolnego spełnienia żądania wraz z dowodem doręczenia albo wysłania go pozwanemu przesyłką poleconą oraz odpisy pism świadczących o próbie wyjaśnienia spornych kwestii w drodze rokowań.
+
+### § 3.
+
+W razie niezłożenia odpisu wezwania do dobrowolnego spełnienia żądania lub reklamacji wraz z dowodem doręczenia albo wysłania go pozwanemu przesyłką poleconą, stosuje się przepis art. 4798a.
+
+### § 4.
+
+Niezależnie od wyniku sprawy sąd może obciążyć kosztami procesu w całości lub w części tę stronę, która przez zaniechanie czynności wymienionych w § 2 przyczyniła się do zbędnego wytoczenia sprawy lub wadliwego określenia jej zakresu.
+
+” ;
+
+### 26)
+
+w art. 47913 § 1 otrzymuje brzmienie:
+
+„
+
+### § 1.
+
+Sąd może uznać za niedopuszczalne cofnięcie pozwu, zrzeczenie się lub ograniczenie roszczenia tylko wtedy, gdy okoliczności sprawy wskazują, że wymienione czynności są wynikiem niedozwolonych praktyk ograniczających konkurencję lub samodzielność przedsiębiorców, albo gdy wymaga tego ochrona produkcji należytej jakości.
+
+” ;
+
+### 27)
+
+art. 47914 otrzymuje brzmienie:
+
+„
+
+### Art. 47914.
+
+### § 1.
+
+W sprawach, w których sąd nie wydał nakazu zapłaty w postępowaniu nakazowym lub upominawczym, pozwany jest obowiązany do wniesienia odpowiedzi na pozew w terminie dwutygodniowym od dnia otrzymania pozwu. Odpowiedź na pozew wniesiona po terminie podlega zwrotowi.
+
+### § 2.
+
+W odpowiedzi na pozew pozwany jest obowiązany podać wszystkie twierdzenia, zarzuty oraz dowody na ich poparcie pod rygorem utraty prawa powoływania ich w toku postępowania, chyba że wykaże, że ich powołanie w odpowiedzi na pozew nie było możliwe albo że potrzeba powołania wynikła później. W tym przypadku dalsze twierdzenia i dowody na ich poparcie powinny być powołane w terminie dwutygodniowym od dnia, w którym powołanie ich stało się możliwe lub powstała potrzeba ich powołania. Przepis art. 47912 § 4 stosuje się odpowiednio.
+
+### § 3.
+
+Powództwo wzajemne jest niedopuszczalne.
+
+### § 4.
+
+Do potrącenia w toku postępowania mogą być przedstawione tylko wierzytelności udowodnione dokumentami.
+
+” ;
+
+### 28)
+
+po art. 47914 dodaje się art. 47914a i art. 47914b w brzmieniu:
+
+„
+
+### Art. 47914a.
+
+Do zarzutów lub sprzeciwu od nakazu zapłaty przepis art. 47914 § 2 stosuje się odpowiednio.
+
+### Art. 47914b.
+
+Dowód z przesłuchania stron sąd może dopuścić jedynie na wniosek. Przepisy art. 47912 § 1 i art. 47914 § 2 stosuje się odpowiednio.
+
+” ;
+
+### 29)
+
+art. 47917 otrzymuje brzmienie:
+
+„
+
+### Art. 47917.
+
+### § 1.
+
+Sąd może wydać wyrok na posiedzeniu niejawnym, gdy pozwany uznał powództwo oraz gdy po złożeniu przez strony pism procesowych i dokumentów, w tym również po wniesieniu zarzutów lub sprzeciwu od nakazu zapłaty albo sprzeciwu od wyroku zaocznego, sąd uzna - mając na względzie całokształt przytoczonych twierdzeń, zgłoszonych wniosków dowodowych i zarzutów - że przeprowadzenie rozprawy nie jest konieczne.
+
+### § 2.
+
+Wydanie wyroku na posiedzeniu niejawnym jest niedopuszczalne, jeżeli strona w pierwszym piśmie procesowym złożyła wniosek o przeprowadzenie rozprawy, chyba że pozwany uznał powództwo.
+
+### § 3.
+
+W przypadkach, o których mowa w § 1, postanowienia dowodowe sąd wydaje na posiedzeniu niejawnym.
+
+” ;
+
+### 30)
+
+po art. 47919 dodaje się art. 47919a w brzmieniu:
+
+„
+
+### Art. 47919a.
+
+W sprawach o roszczenia pieniężne albo świadczenia innych rzeczy zamiennych wyrok sądu pierwszej instancji z chwilą wydania stanowi tytuł zabezpieczenia, wykonalny bez nadawania mu klauzuli wykonalności. Kwota zasądzona wyrokiem wraz z wymagalnymi odsetkami stanowi sumę, której złożenie przez dłużnika do depozytu sądowego wystarczy do zabezpieczenia. Jeżeli wyrok zobowiązuje do wydania rzeczy zamiennych, do zabezpieczenia wystarczy złożenie sumy równej wartości przedmiotu sporu. Przepis art. 492 § 2 stosuje się odpowiednio.
+
+” ;
+
+### 31)
+
+w art. 4971 dodaje się § 3 w brzmieniu:
+
+„
+
+### § 3.
+
+Zarządzenia może wydać także referendarz sądowy.
+
+” ;
+
+### 32)
+
+w art. 50514 uchyla się § 2;
+
+### 33)
+
+w art. 5091 § 2 otrzymuje brzmienie:
+
+„
+
+### § 2.
+
+Czynności w postępowaniu rejestrowym może wykonywać referendarz sądowy, z wyłączeniem prowadzenia rozprawy.
+
+” ;
+
+### 34)
+
+w art. 781:
+
+### a)
+
+po § 1 dodaje się § 11 w brzmieniu:
+
+„
+
+### § 11.
+
+Tytułom egzekucyjnym, o których mowa w art. 777 § 1 pkt 1, 11, 3-6 i § 3, klauzulę wykonalności może nadać także referendarz sądowy, z wyłączeniem przypadków wymienionych w art. 7781, 787, 7871, 788, 789.
+
+” ,
+
+### b)
+
+uchyla się § 3 i 31.
+
+### Art. 2.
+
+W ustawie z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych ([Dz. U. Nr 33, poz. 175](https://api.sejm.gov.pl/eli/acts/DU/1989/175/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 41, poz. 229, z 1990 r. Nr 14, poz. 88 oraz z 1997 r. Nr 121, poz. 769 i 770.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 1 otrzymuje brzmienie:
+
+„
+
+### Art. 1.
+
+Rozpoznawanie spraw gospodarczych powierza się sądom rejonowym i sądom okręgowym, w których tworzy się odrębne jednostki organizacyjne (sądy gospodarcze).
+
+” ;
+
+### 2)
+
+art. 2 otrzymuje brzmienie:
+
+„
+
+### Art. 2.
+
+### 1.
+
+Sprawami gospodarczymi są sprawy ze stosunków cywilnych między przedsiębiorcami prowadzącymi działalność gospodarczą na zasadach określonych w odrębnych przepisach, w zakresie prowadzonej przez nich działalności gospodarczej.
+
+### 2.
+
+Ponadto sprawami gospodarczymi są sprawy:
+
+### 1)
+
+ze stosunku spółki oraz dotyczące roszczeń, o których mowa w art. 291-300 i art. 479-490 ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych ([Dz. U. Nr 94, poz. 1037](https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text.html), z późn. zm.[5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540.](#gloss-0:5:)),
+
+### 2)
+
+przeciwko przedsiębiorcom o zaniechanie naruszania środowiska i przywrócenie do stanu poprzedniego lub o naprawienie szkody z tym związanej oraz o zakazanie albo ograniczenie działalności zagrażającej środowisku,
+
+### 3)
+
+między organami przedsiębiorstwa państwowego,
+
+### 4)
+
+między przedsiębiorstwem państwowym lub jego organami a jego organem założycielskim lub organem sprawującym nadzór,
+
+### 5)
+
+z zakresu postępowania o poprawie gospodarki przedsiębiorstwa państwowego oraz jego upadłości,
+
+### 6)
+
+z zakresu prawa upadłościowego i naprawczego,
+
+### 7)
+
+o nadanie klauzuli wykonalności tytułom egzekucyjnym, którymi są orzeczenia sądu gospodarczego prawomocne lub podlegające natychmiastowemu wykonaniu albo ugoda zawarta przed tym sądem,
+
+### 8)
+
+inne, przekazane przez odrębne przepisy.
+
+### 3.
+
+Nie są sprawami gospodarczymi sprawy o podział majątku wspólnego wspólników po rozwiązaniu spółki cywilnej.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. Nr 173, poz. 1807](https://api.sejm.gov.pl/eli/acts/DU/2004/1807/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121 i Nr 171, poz. 1225.](#gloss-0:6:)) w art. 29 w ust. 3 po pkt 4 dodaje się pkt 5 w brzmieniu:
+
+„
+
+### 5)
+
+pouczenie o skutkach zaniedbania ujawnienia w ewidencji zmian określonych w art. 139 § 3 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ([Dz. U. Nr 43, poz. 296](https://api.sejm.gov.pl/eli/acts/DU/1964/296/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699.](#gloss-0:7:)).
+
+” .
+
+### Art. 4.
+
+### 1.
+
+W sprawach wszczętych przed dniem wejścia w życie ustawy stosuje się, do czasu zakończenia postępowania w danej instancji, przepisy dotychczasowe, chyba że przepisy poniższe stanowią inaczej.
+
+### 2.
+
+Przepisy art. 1081, art. 123 § 2, art. 364, art. 394, art. 39822 § 1 i 2, art. 47910, art. 47913, art. 4971, art. 5091, art. 781, art. 7951 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy.
+
+### 3.
+
+Przepisy art. 174 i art. 1821 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem wejścia w życie ustawy, przy czym, jeżeli zdarzenie, o którym mowa w art. 1821 § 2 ustawy, o której mowa w art. 1, nastąpiło przed dniem wejścia w życie ustawy, termin trzymiesięczny przewidziany w tym przepisie rozpoczyna bieg od dnia wejścia w życie ustawy.
+
+### 4.
+
+Przepis art. 47911 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do postępowań zawieszonych po dniu wejścia w życie ustawy.
+
+### 5.
+
+Przepisy art. 214 § 2 i 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się do zdarzeń, które nastąpiły po dniu wejścia w życie ustawy.
+
+### Art. 5.
+
+Ustawa wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawę z dnia 24 maja 1989 r. o rozpoznawaniu przez sądy spraw gospodarczych oraz ustawę z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540 i Nr 226, poz. 1656. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1989 r. Nr 41, poz. 229, z 1990 r. Nr 14, poz. 88 oraz z 1997 r. Nr 121, poz. 769 i 770. 5) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1117, z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276, z 2005 r. Nr 132, poz. 1108, Nr 183, poz. 1538 i Nr 184, poz. 1539 oraz z 2006 r. Nr 133, poz. 935 i Nr 208, poz. 1540. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 281, poz. 2777, z 2005 r. Nr 33, poz. 289, Nr 94, poz. 788, Nr 143, poz. 1199, Nr 175, poz. 1460, Nr 177, poz. 1468, Nr 178, poz. 1480, Nr 179, poz. 1485, Nr 180, poz. 1494 i Nr 183, poz. 1538 oraz z 2006 r. Nr 17, poz. 127, Nr 144, poz. 1043 i 1045, Nr 158, poz. 1121 i Nr 171, poz. 1225. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384, z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199, Nr 150, poz. 1239, Nr 167, poz. 1398, Nr 169, poz. 1413 i 1417, Nr 172, poz. 1438, Nr 178, poz. 1478, Nr 183, poz. 1538, Nr 264, poz. 2205 i Nr 267, poz. 2258 oraz z 2006 r. Nr 12, poz. 66, Nr 66, poz. 466, Nr 104, poz. 708 i 711, Nr 186, poz. 1379, Nr 208, poz. 1537 i 1540, Nr 226, poz. 1656 i Nr 235, poz. 1699.

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **98** aktów
+Łącznie: **104** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -39,10 +39,13 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20170001596](WDU20170001596/index.md) | Ustawa z dnia 20 lipca 2017 r. o zmianie ustawy o spółdzielniach mieszkanio | Ustawa | obowiązujący |  |
 | [WDU20170001136](WDU20170001136/index.md) | Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący |  |
 | [WDU20170001133](WDU20170001133/index.md) | Ustawa z dnia 21 kwietnia 2017 r. o zmianie ustawy - Kodeks spółek handlowy | Ustawa | obowiązujący |  |
+| [WDU20160000394](WDU20160000394/index.md) | Ustawa z dnia 17 marca 2016 r. o zmianie ustawy o pracownikach sądów i prok | Ustawa | obowiązujący |  |
 | [WDU20160001358](WDU20160001358/index.md) | Ustawa z dnia 22 lipca 2016 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący |  |
+| [WDU20160001271](WDU20160001271/index.md) | Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o gospodarce nieruchomośc | Ustawa | obowiązujący |  |
 | [WDU20160001177](WDU20160001177/index.md) | Ustawa z dnia 10 czerwca 2016 r. o zmianie ustawy - Kodeks rodzinny i opiek | Ustawa | obowiązujący |  |
 | [WDU20150000539](WDU20150000539/index.md) | Ustawa z dnia 20 marca 2015 r. o zmianie ustawy - Kodeks cywilny oraz niekt | Ustawa | obowiązujący |  |
 | [WDU20150000218](WDU20150000218/index.md) | Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący | [tak](WDU20150000218/orzecznictwo.md) |
+| [WDU20150000002](WDU20150000002/index.md) | Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy - Kodeks postępowania cywi | Ustawa | obowiązujący |  |
 | [WDU20150001830](WDU20150001830/index.md) | Ustawa z dnia 9 października 2015 r. o zmianie ustawy o terminach zapłaty w | Ustawa | obowiązujący |  |
 | [WDU20150001587](WDU20150001587/index.md) | Ustawa z dnia 5 sierpnia 2015 r. o zmianie ustawy o państwowej kompensacie  | Ustawa | obowiązujący |  |
 | [WDU20150001311](WDU20150001311/index.md) | Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy - Kodeks cywilny, ustawy -  | Ustawa | obowiązujący |  |
@@ -98,6 +101,9 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19911150496](WDU19911150496/index.md) | Ustawa z dnia 25 października 1991 r. o zmianie ustawy - Kodeks cywilny ora | Ustawa | obowiązujący | [tak](WDU19911150496/orzecznictwo.md) |
 | [WDU19900550318](WDU19900550318/index.md) | Ustawa z dnia 13 lipca 1990 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU19900550318/orzecznictwo.md) |
 | [WDU19900530306](WDU19900530306/index.md) | Ustawa z dnia 13 lipca 1990 r. o powołaniu sądów apelacyjnych oraz o zmiani | Ustawa | obowiązujący | [tak](WDU19900530306/orzecznictwo.md) |
+| [WDU19850200086](WDU19850200086/index.md) | Ustawa z dnia 18 kwietnia 1985 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący |  |
+| [WDU19820110081](WDU19820110081/index.md) | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks cywilny oraz o uch | Ustawa | obowiązujący |  |
+| [WDU19750450234](WDU19750450234/index.md) | Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rodzinny i opiekuń | Ustawa | obowiązujący |  |
 | [WDU19640160094](WDU19640160094/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19640160094/orzecznictwo.md) |
 | [WDU19640160093](WDU19640160093/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640160093/orzecznictwo.md) |
 | [WDU19640090060](WDU19640090060/index.md) | Ustawa z dnia 25 lutego 1964 r. - Przepisy wprowadzające kodeks rodzinny i  | Ustawa | obowiązujący | [tak](WDU19640090060/orzecznictwo.md) |
@@ -105,4 +111,4 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19640430297](WDU19640430297/index.md) | Ustawa z dnia 17 listopada 1964 r. - Przepisy wprowadzające Kodeks postępow | Ustawa | obowiązujący | [tak](WDU19640430297/orzecznictwo.md) |
 | [WDU19640430296](WDU19640430296/index.md) | Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640430296/orzecznictwo.md) |
 
-*98 aktów • [← Powrót do spisu głównego](../README.md)*
+*104 aktów • [← Powrót do spisu głównego](../README.md)*

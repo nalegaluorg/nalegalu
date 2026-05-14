@@ -8,11 +8,9 @@ pos: 1598
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw
-
-*USTAWA z dnia 28 maja 2004 r.*
+# Ustawa z dnia 28 maja 2004 r. o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o pożyczkach i kredytach studenckich oraz o zmianie niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej, ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte, ustawę z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,237 +22,1018 @@ domain: null
 | Data ogłoszenia | 2004-05-28 |
 | Data wydania | 2004-07-02 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041521598) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1598/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2004/1598/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2004/1598) |
 
-**Art. 1.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 152b.**
+### Art. 1.
 
-1. W uczelni bezwydziałowej świadczenia, o których mowa art. 152 ust. 1 pkt 1, 2 i 5, są przyznawane na wniosek studenta przez rektora, przy czym stypendium za wyniki nauce może być także przyznane bez konieczności składania wniosku przez studenta.
+W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-2. Od decyzji rektora studentowi przysługuje wniosek o ponowne rozpatrzenie sprawy.
+### 1)
 
-3. Na wniosek uczelnianego organu samorządu studenckiego rektor przekazuje uprawnienie, o którym mowa ust. 1, komisji stypendialnej, a zakresie prawa odwołania od decyzji tej komisji, odwoławczej komisji stypendialnej. działający z ich upoważnienia wiceprzewodniczący.
+w art. 24:
 
-5. Komisje, o których mowa ust. 3, powołuje rektor spośród studentów delegowanych przez uczelniany organ samorządu studenckiego i pracowników uczelni, przy czym studenci stanowią większość składu komisji.
+### a)
 
-6. Nadzór nad działalnością komisji, o których mowa ust. 3, sprawuje rektor.
+ust. 3 otrzymuje brzmienie:
 
-7. W ramach nadzoru, o którym mowa ust. 6, rektor może uchylić decyzję komisji stypendialnej lub odwoławczej komisji stypendialnej niezgodną z przepisami ustawy lub regulaminem, o którym mowa art. 152h ust. 1.
+„
 
-**Art. 152c.**
+### 3.
 
-1. Stypendium socjalne może otrzymać student znajdujący się trudnej sytuacji materialnej.
+Dotacje, o których mowa w ust. 1 pkt 1, 1a i 2, przyznaje właściwy minister.
 
-2. Wysokość dochodu uprawniającego studenta do ubiegania się o stypendium socjalne ustala rektor porozumieniu z uczelnianym organem samorządu studenckiego, z tym że miesięczna wysokość dochodu na osobę rodzinie studenta nie może być większa niż suma kwot określonych art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz.U. Nr 228, poz. 2255 oraz z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593 i Nr 99, poz. 1001).
+” ,
 
-3. Miesięczną wysokość dochodu na osobę rodzinie studenta uprawniającą do ubiegania się o stypendium socjalne ustala się na zasadach określonych ustawie, o której mowa ust. 2, z zastrzeżeniem, że do dochodu nie wlicza się świadczeń, o których mowa art. 152 ust. 1.
+### b)
 
-4. Kwota stypendium socjalnego może zostać zwiększona związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, a przypadku studentów studiów dziennych ponadto z tytułu:
+dodaje się ust. 7 i 8 w brzmieniu:
 
-- **1)** zakwaterowania domu studenckim lub obiekcie innym niż dom studencki, jeżeli codzienny dojazd z miejsca stałego zamieszkania do uczelni uniemożliwiałby lub znacznym stopniu utrudniał studiowanie,
-- **2)** zakwaterowania domu studenckim lub obiekcie innym niż dom studencki przypadkach, o których mowa pkt 1, niepracującego małżonka lub dziecka studenta.
+„
 
-**Art. 152d.**
+### 7.
 
-1. Pierwszeństwo uzyskaniu zakwaterowania domu studenckim uczelni państwowej przysługuje studentowi tej uczelni, któremu codzienny dojazd do uczelni uniemożliwiałby lub znacznym stopniu utrudniał studiowanie i który znajduje się trudnej sytuacji materialnej.
+Rektor w porozumieniu z uczelnianym organem samorządu studenckiego dokonuje podziału dotacji, o której mowa w ust. 1 pkt 1a.
 
-2. Pierwszeństwo korzystaniu z wyżywienia stołówce studenckiej przysługuje studentowi, o którym mowa ust. 1. gnął wysokie wyniki sportowe we współzawodnictwie międzynarodowym lub krajowym.
+### 8.
 
-2. Stypendium ministra za osiągnięcia nauce może być przyznane studentowi szczególnie wyróżniającemu się nauce oraz posiadającemu osiągnięcia naukowe, a stypendium ministra za wybitne osiągnięcia sportowe, studentowi, który osiągnął wysoki wynik sportowy we współzawodnictwie międzynarodowym lub krajowym i zaliczył kolejny rok studiów.
+W nowo utworzonej uczelni podziału dotacji dokonuje na okres roku rektor.
 
-3. O przyznanie stypendiów, o których mowa ust. 1 i 2, student może ubiegać się nie wcześniej niż po zaliczeniu pierwszego roku studiów.
+” ;
 
-4. Student może otrzymywać stypendium za wyniki sporcie, o którym mowa art. 152 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa art. 152 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz.U. z 2001 r. Nr 81, poz. 889, z późn. zm. ).
+### 2)
 
-**Art. 152f.**
+po art. 24 dodaje się art. 24a w brzmieniu:
 
-1. Zapomoga może być przyznana studentowi, który z przyczyn losowych znalazł się przejściowo trudnej sytuacji materialnej.
+„
 
-2. Student może otrzymać zapomogę, o której mowa ust. 1, dwa razy roku akademickim.
+### Art. 24a.
 
-**Art. 152g.**
+Uczelnia państwowa w ramach dotacji, o której mowa w art. 24 ust. 1 pkt 1a, może dofinansować remonty domów i stołówek studenckich.
 
-1. Student może otrzymywać stypendia, o których mowa art. 152 ust. 1 pkt 1-4, danym roku akademickim przez okres do 10 miesięcy.
+” ;
 
-2. Stypendium socjalne przyznawane jest na semestr lub na rok akademicki, a stypendium za wyniki nauce lub sporcie i stypendia ministra, o których mowa art. 152 ust. 1 pkt 3 i 4, na rok akademicki, z wyjątkiem przypadku gdy ostatni rok studiów, zgodnie z planem studiów, trwa jeden semestr.
+### 3)
 
-3. Stypendia, o których mowa ust. 2, wypłacane są co miesiąc.
+w art. 25 ust. 2 otrzymuje brzmienie:
 
-4. Student studiujący równocześnie na kilku kierunkach studiów może otrzymać stypendia, o których mowa art. 152 ust. 1 pkt 1, pkt 2 zakresie stypendium za wyniki sporcie oraz pkt 3 i 4, na jednym z kierunków, według własnego wyboru, a stypendium za wyniki nauce na każdym z kierunków.
+„
 
-5. Studentowi, który po ukończeniu jednego kierunku studiów kontynuuje naukę na drugim kierunku studiów, stypendium socjalne nie przysługuje, chyba że kontynuuje on studia po ukończeniu wyższych studiów zawodowych celu uzyskania tytułu zawodowego magistra, jednakże nie dłużej niż przez okres 2,5 roku. 90% najniższego wynagrodzenia zasadniczego asystenta poprzednim miesiącu, ustalonego przepisach o wynagradzaniu nauczycieli akademickich, z wyłączeniem zwiększenia kwoty stypendium socjalnego związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności, o którym mowa art. 152c ust. 4.
+### 2.
 
-**Art. 152h.**
+Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki i tryb występowania uczelni niepaństwowej o dotacje, o których mowa w art. 24, uwzględniając w szczególności liczbę jej własnej kadry dydaktycznej, liczbę kształconych studentów, zaangażowanie własnych środków w rozwój bazy materialnej uczelni oraz osiągnięcia uczelni w dotychczasowym kształceniu, a w przypadku dotacji na pomoc materialną - również liczbę studentów znajdujących się w trudnej sytuacji materialnej.
 
-1. Szczegółowy regulamin ustalania wysokości, przyznawania i wypłacania świadczeń pomocy materialnej dla studentów, o których mowa art. 152 ust. 1 pkt 1, 2 i 5, tym szczegółowe kryteria i tryb udzielania świadczeń pomocy materialnej dla studentów, wzór wniosku o przyznanie stypendium socjalnego oraz sposób udokumentowania sytuacji materialnej ustala rektor porozumieniu z uczelnianym organem samorządu studenckiego.
+” ;
 
-2. W nowo utworzonej uczelni regulamin, o którym mowa ust. 1, ustala na okres roku rektor.
+### 4)
 
-**Art. 152i.** Minister właściwy do spraw szkolnictwa wyższego określi, drodze rozporządzenia, szczegółowe warunki, tryb przyznawania i wypłacania stypendiów ministra, o których mowa art. 152 ust. 1 pkt 3 i 4, maksymalną wysokość tych stypendiów oraz wzór wniosku o przyznanie stypendium ministra, uwzględniając szczególności:
+po art. 27 dodaje się art. 27a w brzmieniu:
 
-**Art. 2.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590, z późn. zm. ) wprowadza się następujące zmiany:
+„
 
-**Art. 23b.**
+### Art. 27a.
 
-1. Rektor porozumieniu z uczelnianym organem samorządu studenckiego dokonuje podziału dotacji, o której mowa art. 23 ust. 1 pkt 2.
+### 1.
 
-2. W nowo utworzonej uczelni zawodowej podziału dotacji dokonuje na okres roku rektor.”;
+Uczelnia tworzy fundusz pomocy materialnej dla studentów.
 
-- **2)** art. 24 ust. 2 otrzymuje brzmienie: „2. Minister właściwy do spraw szkolnictwa wyższego określi, drodze rozporządzenia, warunki i tryb występowania niepaństwowej uczelni zawodowej o dotacje, o których mowa art. 23, uwzględniając szczególności liczbę jej własnej kadry dydaktycznej, liczbę kształconych studentów, zaangażowanie własnych środków rozwój bazy materialnej uczelni oraz osiągnięcia uczelni dotychczasowym kształceniu, a przypadku dotacji na pomoc materialną również liczbę studentów znajdujących się trudnej sytuacji materialnej.”;
-- **3)** po art. 24 dodaje się art. 24a brzmieniu: „Art. 24a. 1. Uczelnia tworzy fundusz pomocy materialnej dla studentów.
+### 2.
 
-2. Fundusz, o którym mowa ust. 1, tworzy się z:
+Fundusz, o którym mowa w ust. 1, tworzy się z:
 
-- **1)** dotacji, o której mowa art. 23 ust. 1 pkt 2, z wyłączeniem środków na stypendia ministra, o których mowa art. 75 ust. 1 pkt 3 i 4,
-- **2)** opłat za korzystanie z domu studenckiego,
-- **3)** opłat za korzystanie ze stołówki studenckiej,
+### 1)
 
-3. Fundusz pomocy materialnej dla studentów części, o której mowa ust. 2 pkt 1, przeznacza się na wypłaty stypendiów i zapomóg oraz na remonty domów i stołówek studenckich.
+dotacji, o której mowa w art. 24 ust. 1 pkt 1a, z wyłączeniem środków na stypendia ministra, o których mowa w art. 152 ust. 1 pkt 3 i 4,
 
-4. Fundusz pomocy materialnej dla studentów części, o której mowa ust. 2 pkt 2-4, przeznacza się na pokrycie kosztów utrzymania domów i stołówek studenckich, a przypadku uczelni państwowej także na wynagrodzenia pracowników uczelni zatrudnionych tych domach i stołówkach oraz na odpis na zakładowy fundusz świadczeń socjalnych, o którym mowa art. 67 pkt 5, dla tych pracowników.
+### 2)
 
-5. Fundusz pomocy materialnej dla studentów części, o której mowa ust. 2 pkt 2-4, może być również przeznaczony na wypłatę stypendiów i zapomóg oraz remonty i modernizację domów i stołówek studenckich.
+opłat za korzystanie z domu studenckiego,
 
-6. Niewykorzystane danym roku budżetowym środki funduszu pomocy materialnej dla studentów pochodzące ze źródła, o którym mowa ust. 2 pkt 1, przechodzą na rok następny do wykorzystania na cele określone ust. 3, a środki pochodzące ze źródeł określonych ust. 2 pkt 2- 4, na cele określone ust. 4 i 5.”;
+### 3)
 
-- **4)** art. 75 otrzymuje brzmienie: „Art. 75. 1. Student może ubiegać się o pomoc materialną ze środków przeznaczonych na ten cel budżecie państwa formie:
-- **1)** stypendium socjalnego,
-- **2)** stypendium za wyniki nauce lub sporcie,
-- **3)** stypendium ministra za osiągnięcia nauce,
-- **4)** stypendium ministra za wybitne osiągnięcia sportowe,
-- **5)** zapomogi.
+opłat za korzystanie ze stołówki studenckiej,
 
-2. Student może ubiegać się o zakwaterowanie domu studenckim uczelni i wyżywienie stołówce studenckiej uczelni.
+### 4)
 
-3. Student może ubiegać się o zakwaterowanie domu studenckim uczelni małżonka i dziecka.”;
+innych przychodów, w tym z opłat za wynajem pomieszczeń w domach i stołówkach studenckich.
 
-- **5)** po art. 75 dodaje się art. 75a-75h brzmieniu: „Art. 75a. 1. Świadczenia, o których mowa art. 75 ust. 1 pkt 1, 2 i 5, są przyznawane przez rektora.
+### 3.
 
-2. Świadczenia, o których mowa art. 75 ust. 1 pkt 1 i 5, są przyznawane na wniosek studenta, a stypendium za wyniki nauce lub sporcie na wniosek senatu lub innego organu wskazanego statucie uczelni.
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 1, przeznacza się na wypłaty stypendiów i zapomóg oraz na remonty domów i stołówek studenckich.
 
-3. Od decyzji rektora studentowi przysługuje wniosek o ponowne rozpatrzenie sprawy.
+### 4.
 
-4. Na wniosek uczelnianego organu samorządu studenckiego rektor przekazuje uprawnienie, o którym mowa ust. 1, komisji sty5. Decyzje wydane przez komisję stypendialną i odwoławczą komisję stypendialną podpisują przewodniczący tych komisji lub działający z ich upoważnienia wiceprzewodniczący.
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 2-4, przeznacza się na pokrycie kosztów utrzymania domów i stołówek studenckich, a w przypadku uczelni państwowej także na wynagrodzenia pracowników uczelni zatrudnionych w tych domach i stołówkach oraz na odpis na zakładowy fundusz świadczeń socjalnych, o którym mowa w art. 122, dla tych pracowników.
 
-6. Komisję stypendialną powołuje dziekan, a odwoławczą komisję stypendialną rektor, spośród studentów delegowanych przez odpowiednio wydziałowy lub uczelniany organ samorządu studenckiego i pracowników uczelni, przy czym studenci stanowią większość składu komisji. W uczelni bezwydziałowej komisję stypendialną i odwoławczą komisję stypendialną powołuje rektor.
+### 5.
 
-7. Nadzór nad działalnością komisji stypendialnej i odwoławczej komisji stypendialnej sprawują odpowiednio dziekan albo rektor. W uczelni bezwydziałowej nadzór nad działalnością komisji stypendialnej i odwoławczej komisji stypendialnej sprawuje rektor.
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 2-4, może być również przeznaczony na wypłatę stypendiów i zapomóg oraz remonty i modernizację domów i stołówek studenckich.
 
-8. W ramach nadzoru dziekan albo rektor mogą uchylić decyzję odpowiednio komisji stypendialnej lub odwoławczej komisji stypendialnej niezgodną z przepisami ustawy lub regulaminem, o którym mowa art. 75g.
+### 6.
 
-**Art. 75b.**
+Niewykorzystane w danym roku budżetowym środki funduszu pomocy materialnej dla studentów pochodzące ze źródła, o którym mowa w ust. 2 pkt 1, przechodzą na rok następny do wykorzystania na cele określone w ust. 3, a środki pochodzące ze źródeł określonych w ust. 2 pkt 2-4, na cele określone w ust. 4 i 5.
 
-1. Stypendium socjalne może otrzymać student znajdujący się trudnej sytuacji materialnej.
+” ;
 
-2. Wysokość dochodu uprawniającego studenta do ubiegania się o stypendium socjalne ustala rektor porozumieniu z uczelnianym organem samorządu studenckiego, z tym że miesięczna wysokość dochodu na osobę rodzinie studenta nie może być większa niż suma kwot określonych art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz.U. Nr 228, poz. 2255 oraz z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593 i Nr 99, poz. 1001).
+### 5)
 
-3. Miesięczną wysokość dochodu na osobę rodzinie studenta, uprawniającą do ubiegania się o stypendium socjalne, ustala się na zasadach określonych ustawie, o której mowa ust. 2, z zastrzeżeniem, że do dochodu nie wlicza się świadczeń, o których mowa art. 75 ust. 1.
+art. 152 otrzymuje brzmienie:
 
-4. Kwota stypendium socjalnego może zostać zwiększona związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, a przypadku studentów studiów dziennych ponadto z tytułu:
+„
 
-- **1)** zakwaterowania domu studenckim lub obiekcie innym niż dom studencki, jeżeli codzienny dojazd z miejsca stałego zamieszkania do uczelni uniemożliwiałby lub znacznym stopniu utrudniał studiowanie,
-- **2)** zakwaterowania domu studenckim lub obiekcie innym niż dom studencki przypadkach, o których mowa pkt 1, niepracującego małżonka lub dziecka studenta. ni, któremu codzienny dojazd do uczelni uniemożliwiałby lub znacznym stopniu utrudniał studiowanie i który znajduje się trudnej sytuacji materialnej.
+### Art. 152.
 
-2. Pierwszeństwo korzystaniu z wyżywienia stołówce studenckiej przysługuje studentowi, o którym mowa ust. 1.
+### 1.
 
-**Art. 75d.**
+Student może ubiegać się o pomoc materialną ze środków przeznaczonych na ten cel w budżecie państwa w formie:
 
-1. Stypendium za wyniki nauce lub sporcie może otrzymać student, który uzyskał za rok studiów wysoką średnią ocen lub osiągnął wysokie wyniki sportowe we współzawodnictwie międzynarodowym lub krajowym.
+### 1)
 
-2. O przyznanie stypendium, o którym mowa ust. 1, student może ubiegać się nie wcześniej niż po zaliczeniu pierwszego roku studiów.
+stypendium socjalnego,
 
-**Art. 75e.**
+### 2)
 
-1. Zapomoga może być przyznana studentowi, który z przyczyn losowych znalazł się przejściowo trudnej sytuacji materialnej.
+stypendium za wyniki w nauce lub sporcie,
 
-2. Student może otrzymać zapomogę, o której mowa ust. 1, dwa razy roku akademickim.
+### 3)
 
-**Art. 75f.**
+stypendium ministra za osiągnięcia w nauce,
 
-1. Student może otrzymywać stypendia, o których mowa art. 75 ust. 1 pkt 1-4, danym roku akademickim przez okres do 10 miesięcy.
+### 4)
 
-2. Stypendium socjalne przyznawane jest na semestr lub rok akademicki, a stypendium za wyniki nauce lub sporcie i stypendia ministra, o których mowa art. 75 ust. 1 pkt 3 i 4, na rok akademicki, z wyjątkiem przypadku, gdy ostatni rok studiów, zgodnie z planem studiów, trwa jeden semestr.
+stypendium ministra za wybitne osiągnięcia sportowe,
 
-3. Świadczenia, o których mowa ust. 2, wypłacane są co miesiąc.
+### 5)
 
-4. Student studiujący równocześnie na kilku kierunkach studiów może otrzymać stypendia, o których mowa art. 75 ust. 1 pkt 1, pkt 2 zakresie stypendium za wyniki sporcie oraz pkt 3 i 4, na jednym z kierunków, według własnego wyboru, a stypendium za wyniki nauce na każdym z kierunków.
+zapomogi.
 
-5. Studentowi, który po ukończeniu jednego kierunku studiów kontynuuje naukę na drugim kierunku studiów, stypendium socjalne nie przysługuje.
+### 2.
 
-6. Łączna miesięczna wysokość stypendium socjalnego i stypendium za wyniki nauce lub sporcie nie może być większa niż 90% najniższego wynagrodzenia zasadniczego asystenta poprzednim miesiącu, ustalonego przepisach o wynagradzaniu nauczycieli akademickich, z wyłączeniem zwiększenia kwoty stypendium socjalnego związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, o którym mowa art. 75b ust. 4.
+Student może ubiegać się o zakwaterowanie w domu studenckim uczelni i wyżywienie w stołówce studenckiej uczelni.
 
-**Art. 75g.**
+### 3.
 
-1. Szczegółowy regulamin ustalania wysokości, przyznawania i wypłacania świadczeń pomocy materialnej dla studentów, o których mowa art. 75 ust. 1 pkt 1, 2 i 5, tym szczegółowe kryteria i udokumentowania sytuacji materialnej ustala rektor porozumieniu z uczelnianym organem samorządu studenckiego.
+Student może ubiegać się o zakwaterowanie w domu studenckim uczelni małżonka i dziecka.
 
-2. W nowo utworzonej uczelni zawodowej regulamin, o którym mowa ust. 1, ustala na okres roku rektor.
+” ;
 
-**Art. 75h.**
+### 6)
 
-1. Stypendia ministra, o których mowa art. 75 ust. 1 pkt 3 i 4, przyznaje minister na wniosek senatu lub innego organu wskazanego statucie uczelni przedstawiony przez rektora uczelni.
+po art. 152 dodaje się art. 152a-152i w brzmieniu:
 
-2. Do stypendiów ministra, o których mowa art. 75 ust. 1 pkt 3 i 4, stosuje się odpowiednio przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym oraz przepisy wykonawcze wydane na podstawie art. 152i tej ustawy.
+„
 
-3. Student może otrzymywać stypendium za wyniki sporcie, o którym mowa art. 75 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa art. 75 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz.U. z 2001 r. Nr 81, poz. 889, z późn. zm. ).”;
+### Art. 152a.
 
-- **6)** art. 85 otrzymuje brzmienie: „Art. 85. 1. Do decyzji podjętych przez organ uczelni zawodowej indywidualnych sprawach studenckich, a także sprawach nadzoru nad działalnością uczelnianych organizacji studenckich oraz samorządu studenckiego stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego oraz przepisy o zaskarżaniu decyzji do sądu administracyjnego. Decyzje wydane przez rektora pierwszej instancji są ostateczne.
+### 1.
 
-2. Przepis ust. 1 zdanie pierwsze stosuje się także do decyzji podjętych przez komisję stypendialną i odwoławczą komisję stypendialną, o których mowa art. 75a ust. 4.”.
+Świadczenia, o których mowa w art. 152 ust. 1 pkt 1, 2 i 5, są przyznawane na wniosek studenta przez dziekana, przy czym stypendium za wyniki w nauce może być także przyznane bez konieczności składania wniosku przez studenta.
 
-**Art. 3.** W ustawie z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz.U. Nr 108, poz. 685, z 2000 r. Nr 48, poz. 550 oraz z 2004 r. Nr 146, poz. 1546) wprowadza się następujące zmiany:
+### 2.
 
-**Art. 4.** W ustawie z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej (Dz.U. Nr 56, poz. 496) wprowadza się następujące zmiany:
+Od decyzji dziekana studentowi przysługuje odwołanie do rektora.
 
-**Art. 5.** W ustawie z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte (Dz.U. Nr 60, poz. 533) wprowadza się następujące zmiany:
+### 3.
 
-**Art. 6.** W ustawie z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego (Dz.U. Nr 60, poz. 534) wprowadza się następujące zmiany:
+Na wniosek uczelnianego organu samorządu studenckiego dziekan oraz rektor uprawnienia, o których mowa w ust. 1 i 2, przekazują odpowiednio komisji stypendialnej i odwoławczej komisji stypendialnej.
 
-**Art. 7.**
+### 4.
 
-1. Do dnia 30 września 2004 r. studenci lub słuchacze studiów wieczorowych, zaocznych i eksternistycznych:
+Decyzje wydane przez komisję stypendialną i odwoławczą komisję stypendialną podpisują przewodniczący tych komisji lub działający z ich upoważnienia wiceprzewodniczący.
 
-- **1)** uczelni, o których mowa ustawie wymienionej art. 1, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej art. 1;
-- **2)** uczelni, o których mowa ustawie wymienionej art. 2, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej art. 2;
-- **3)** uczelni, o których mowa ustawach wymienionych art. 4-6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej art. 1 - z zastrzeżeniem ust. 2.
+### 5.
 
-2. Świadczenia pomocy materialnej przyznawane na podstawie ust. 1 nie obejmują dopłat do zakwaterowania, dopłat do posiłków oraz stypendium ministra za osiągnięcia nauce.
+Komisję stypendialną powołuje dziekan, a odwoławczą komisję stypendialną rektor, spośród studentów delegowanych przez odpowiednio wydziałowy lub uczelniany organ samorządu studenckiego i pracowników uczelni, przy czym studenci stanowią większość składu komisji.
 
-3. Do dnia 30 września 2004 r. osoby cywilne będące studentami lub słuchaczami studiów dziennych uczelniach, o których mowa ustawach wymienionych art. 4-6, mogą otrzymywać świadczenia pomocy materialnej, o których mowa ustawie wymienionej art. 1. Świadczenia pomocy materialnej nie obejmują stypendium ministra za osiągnięcia nauce.
+### 6.
 
-4. Do dnia 30 września 2004 r. studentom studiów dziennych uczelni niepaństwowych mogą być wypłacane dopłaty do zakwaterowania, dopłaty do posiłków, stypendia za wyniki nauce oraz stypendia specjalne dla osób niepełnosprawnych.
+Nadzór nad działalnością komisji stypendialnej i odwoławczej komisji stypendialnej sprawują odpowiednio dziekan albo rektor.
 
-**Art. 8.** Do dnia 30 września 2004 r. do przyznawania, wypłacania i określania wysokości świadczeń pomocy materialnej, dla studentów, o których mowa:
+### 7.
 
-**Art. 9.**
+W ramach nadzoru, o którym mowa w ust. 6, odpowiednio dziekan albo rektor mogą uchylić decyzję komisji stypendialnej lub odwoławczej komisji stypendialnej niezgodną z przepisami ustawy lub regulaminem, o którym mowa w art. 152h ust. 1.
 
-1. Do dnia 30 września 2004 r. świadczenia pomocy materialnej dla studentów, przyznawane na wniosek osób uprawnionych, o których mowa art. 7, mogą być wypłacane za okres od dnia 1 stycznia 2004 r.
+### 8.
 
-2. Do dnia 30 września 2004 r. świadczenia pomocy materialnej, o których mowa ust. 1, mogą być przyznane na okres do 7 miesięcy.
+Stypendium ministra za osiągnięcia w nauce lub za wybitne osiągnięcia sportowe przyznaje właściwy minister na wniosek rady wydziału, a w przypadku uczelni bezwydziałowej - na wniosek senatu uczelni przedstawiony przez rektora tej uczelni.
 
-**Art. 10.**
+### Art. 152b.
 
-1. W roku 2004 nie przyznaje się pożyczek studenckich, o których mowa ustawie wymienionej art. 3.
+### 1.
 
-2. Osobie uprawnionej do otrzymania kredytu studenckiego na podstawie ustawy wymienionej art. 3 brzmieniu nadanym niniejszą ustawą kredyt ten wypłaca się roku akademickim 2003/2004 za okres od dnia 1 stycznia 2004 r.
+W uczelni bezwydziałowej świadczenia, o których mowa w art. 152 ust. 1 pkt 1, 2 i 5, są przyznawane na wniosek studenta przez rektora, przy czym stypendium za wyniki w nauce może być także przyznane bez konieczności składania wniosku przez studenta.
 
-3. Wysokość miesięcznej raty kredytu studenckiego, o której mowa art. 15 ust. 2 pkt 2 ustawy wymienionej art. 3, roku akademickim 2003/2004, od dnia 1 stycznia 2004 r. do dnia 30 września 2004 r., wynosi 600 zł.
+### 2.
 
-**Art. 11.**
+Od decyzji rektora studentowi przysługuje wniosek o ponowne rozpatrzenie sprawy.
 
-1. Do umów o kredyt studencki zawartych przed dniem wejścia życie ustawy stosuje się przepisy ustawy wymienionej art. 3 brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem ust. 2.
+### 3.
 
-2. Do kredytobiorców, którzy do dnia wejścia życie ustawy, nie rozpoczęli spłaty kredytu, stosuje się art. 9 ust. 1 ustawy wymienionej art. 3 brzmieniu nadanym niniejszą ustawą.
+Na wniosek uczelnianego organu samorządu studenckiego rektor przekazuje uprawnienie, o którym mowa w ust. 1, komisji stypendialnej, a w zakresie prawa odwołania od decyzji tej komisji - odwoławczej komisji stypendialnej.
 
-**Art. 12.**
+### 4.
 
-1. W 2004 r. uczelnia państwowa przeznacza ramach dotacji, o której mowa art. 24 ust. 1 pkt 1a ustawy wymienionej art. 1, środki na podwyższenie wysokości przeciętnych wynagrodzeń pracowników uczelni zatrudnionych domach i stołówkach studenckich uczelni, o których mowa art. 117a ust. 1 pkt 1 lit. c czwartym tiret ustawy wymienionej art. 1.
+Decyzje wydane przez komisję stypendialną i odwoławczą komisję stypendialną podpisują przewodniczący tych komisji lub działający z ich upoważnienia wiceprzewodniczący.
 
-2. W 2004 r. państwowa uczelnia zawodowa przeznacza ramach dotacji, o której mowa art. 23 ust. 1 pkt 2 ustawy wymienionej art. 2, środki na podwyższenie wysokości przeciętnych wynagrodzeń pracowników uczelni zatrudnionych domach i stołówkach studenckich uczelni, o których mowa art. 66a ust. 1 pkt 1 lit. c trzecim tiret ustawy wymienionej art. 2.
+### 5.
 
-3. Decyzję sprawie, o której mowa ust. 1 i 2, podejmuje rektor.
+Komisje, o których mowa w ust. 3, powołuje rektor spośród studentów delegowanych przez uczelniany organ samorządu studenckiego i pracowników uczelni, przy czym studenci stanowią większość składu komisji.
 
-**Art. 13.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+### 6.
 
-**Art. 14.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+Nadzór nad działalnością komisji, o których mowa w ust. 3, sprawuje rektor.
 
+### 7.
+
+W ramach nadzoru, o którym mowa w ust. 6, rektor może uchylić decyzję komisji stypendialnej lub odwoławczej komisji stypendialnej niezgodną z przepisami ustawy lub regulaminem, o którym mowa w art. 152h ust. 1.
+
+### Art. 152c.
+
+### 1.
+
+Stypendium socjalne może otrzymać student znajdujący się w trudnej sytuacji materialnej.
+
+### 2.
+
+Wysokość dochodu uprawniającego studenta do ubiegania się o stypendium socjalne ustala rektor w porozumieniu z uczelnianym organem samorządu studenckiego, z tym że miesięczna wysokość dochodu na osobę w rodzinie studenta nie może być większa niż suma kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. Nr 228, poz. 2255](https://api.sejm.gov.pl/eli/acts/DU/2003/2255/text.html) oraz z [2004 r. Nr 35, poz. 305](https://api.sejm.gov.pl/eli/acts/DU/2004/305/text.html), [Nr 64, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.html) i [Nr 99, poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2004/1001/text.html)).
+
+### 3.
+
+Miesięczną wysokość dochodu na osobę w rodzinie studenta uprawniającą do ubiegania się o stypendium socjalne ustala się na zasadach określonych w ustawie, o której mowa w ust. 2, z zastrzeżeniem, że do dochodu nie wlicza się świadczeń, o których mowa w art. 152 ust. 1.
+
+### 4.
+
+Kwota stypendium socjalnego może zostać zwiększona w związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, a w przypadku studentów studiów dziennych ponadto z tytułu:
+
+### 1)
+
+zakwaterowania w domu studenckim lub w obiekcie innym niż dom studencki, jeżeli codzienny dojazd z miejsca stałego zamieszkania do uczelni uniemożliwiałby lub w znacznym stopniu utrudniał studiowanie,
+
+### 2)
+
+zakwaterowania w domu studenckim lub w obiekcie innym niż dom studencki w przypadkach, o których mowa w pkt 1, niepracującego małżonka lub dziecka studenta.
+
+### Art. 152d.
+
+### 1.
+
+Pierwszeństwo w uzyskaniu zakwaterowania w domu studenckim uczelni państwowej przysługuje studentowi tej uczelni, któremu codzienny dojazd do uczelni uniemożliwiałby lub w znacznym stopniu utrudniał studiowanie i który znajduje się w trudnej sytuacji materialnej.
+
+### 2.
+
+Pierwszeństwo w korzystaniu z wyżywienia w stołówce studenckiej przysługuje studentowi, o którym mowa w ust. 1.
+
+### Art. 152e.
+
+### 1.
+
+Stypendium za wyniki w nauce lub sporcie może otrzymać student, który uzyskał za rok studiów wysoką średnią ocen lub osiągnął wysokie wyniki sportowe we współzawodnictwie międzynarodowym lub krajowym.
+
+### 2.
+
+Stypendium ministra za osiągnięcia w nauce może być przyznane studentowi szczególnie wyróżniającemu się w nauce oraz posiadającemu osiągnięcia naukowe, a stypendium ministra za wybitne osiągnięcia sportowe - studentowi, który osiągnął wysoki wynik sportowy we współzawodnictwie międzynarodowym lub krajowym i zaliczył kolejny rok studiów.
+
+### 3.
+
+O przyznanie stypendiów, o których mowa w ust. 1 i 2, student może ubiegać się nie wcześniej niż po zaliczeniu pierwszego roku studiów.
+
+### 4.
+
+Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 152 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 152 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej ([Dz. U. z 2001 r. Nr 81, poz. 889](https://api.sejm.gov.pl/eli/acts/DU/2001/889/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:3:)).
+
+### Art. 152f.
+
+### 1.
+
+Zapomoga może być przyznana studentowi, który z przyczyn losowych znalazł się przejściowo w trudnej sytuacji materialnej.
+
+### 2.
+
+Student może otrzymać zapomogę, o której mowa w ust. 1, dwa razy w roku akademickim.
+
+### Art. 152g.
+
+### 1.
+
+Student może otrzymywać stypendia, o których mowa w art. 152 ust. 1 pkt 1-4, w danym roku akademickim przez okres do 10 miesięcy.
+
+### 2.
+
+Stypendium socjalne przyznawane jest na semestr lub na rok akademicki, a stypendium za wyniki w nauce lub sporcie i stypendia ministra, o których mowa w art. 152 ust. 1 pkt 3 i 4, na rok akademicki, z wyjątkiem przypadku gdy ostatni rok studiów, zgodnie z planem studiów, trwa jeden semestr.
+
+### 3.
+
+Stypendia, o których mowa w ust. 2, wypłacane są co miesiąc.
+
+### 4.
+
+Student studiujący równocześnie na kilku kierunkach studiów może otrzymać stypendia, o których mowa w art. 152 ust. 1 pkt 1, pkt 2 w zakresie stypendium za wyniki w sporcie oraz pkt 3 i 4, na jednym z kierunków, według własnego wyboru, a stypendium za wyniki w nauce na każdym z kierunków.
+
+### 5.
+
+Studentowi, który po ukończeniu jednego kierunku studiów kontynuuje naukę na drugim kierunku studiów, stypendium socjalne nie przysługuje, chyba że kontynuuje on studia po ukończeniu wyższych studiów zawodowych w celu uzyskania tytułu zawodowego magistra, jednakże nie dłużej niż przez okres 2,5 roku.
+
+### 6.
+
+Łączna miesięczna wysokość stypendium socjalnego i stypendium za wyniki w nauce lub sporcie nie może być większa niż 90% najniższego wynagrodzenia zasadniczego asystenta w poprzednim miesiącu, ustalonego w przepisach o wynagradzaniu nauczycieli akademickich, z wyłączeniem zwiększenia kwoty stypendium socjalnego w związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności, o którym mowa w art. 152c ust. 4.
+
+### Art. 152h.
+
+### 1.
+
+Szczegółowy regulamin ustalania wysokości, przyznawania i wypłacania świadczeń pomocy materialnej dla studentów, o których mowa w art. 152 ust. 1 pkt 1, 2 i 5, w tym szczegółowe kryteria i tryb udzielania świadczeń pomocy materialnej dla studentów, wzór wniosku o przyznanie stypendium socjalnego oraz sposób udokumentowania sytuacji materialnej, ustala rektor w porozumieniu z uczelnianym organem samorządu studenckiego.
+
+### 2.
+
+W nowo utworzonej uczelni regulamin, o którym mowa w ust. 1, ustala na okres roku rektor.
+
+### Art. 152i.
+
+Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, szczegółowe warunki, tryb przyznawania i wypłacania stypendiów ministra, o których mowa w art. 152 ust. 1 pkt 3 i 4, maksymalną wysokość tych stypendiów oraz wzór wniosku o przyznanie stypendium ministra, uwzględniając w szczególności:
+
+### 1)
+
+minimalną średnią ocen uprawniającą do ubiegania się o stypendium ministra, uwzględniając oceny ze wszystkich lat studiów oraz zróżnicowanie skali ocen w uczelni,
+
+### 2)
+
+rodzaje osiągnięć naukowych i aktywności naukowej, które brane są pod uwagę przy ubieganiu się o stypendium ministra, takich jak praca w kole naukowym, publikacje, opracowania, referaty, udział w konferencjach, praca naukowa, udział w pracach naukowo-badawczych, współpraca z innymi ośrodkami akademickimi lub naukowymi, nagrody i wyróżnienia, studia na drugim kierunku studiów, indywidualny program studiów, praktyki, staże, potwierdzona znajomość języków obcych, olimpiady,
+
+### 3)
+
+rodzaje osiągnięć sportowych, które brane są pod uwagę przy ubieganiu się o stypendium ministra za wybitne osiągnięcia w sporcie, w tym udział w igrzyskach olimpijskich, mistrzostwach świata, mistrzostwach Europy, uniwersjadach, akademickich mistrzostwach świata, akademickich mistrzostwach Europy,
+
+### 4)
+
+terminy przekazywania wniosków,
+
+### 5)
+
+sposób wypłacania stypendium ministra, w tym w przypadku wcześniejszego ukończenia studiów, a także podjęcia studiów w innej uczelni.
+
+” ;
+
+### 7)
+
+art. 161 otrzymuje brzmienie:
+
+„
+
+### Art. 161.
+
+### 1.
+
+Do decyzji podjętych przez organ uczelni w indywidualnych sprawach studenckich, a także w sprawach nadzoru nad działalnością uczelnianych organizacji studenckich oraz samorządu studenckiego stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego oraz przepisy o zaskarżaniu decyzji do sądu administracyjnego. Decyzje wydane przez rektora w pierwszej instancji są ostateczne.
+
+### 2.
+
+Przepis ust. 1 zdanie pierwsze stosuje się także do decyzji podjętych przez komisję stypendialną i odwoławczą komisję stypendialną, o których mowa w art. 152a ust. 3 i art. 152b ust. 3.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych ([Dz. U. Nr 96, poz. 590](https://api.sejm.gov.pl/eli/acts/DU/1997/590/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206.](#gloss-0:4:)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 23 dodaje się art. 23a i 23b w brzmieniu:
+
+„
+
+### Art. 23a.
+
+Państwowa uczelnia zawodowa w ramach dotacji, o której mowa w art. 23 ust. 1 pkt 2, może dofinansować remonty domów i stołówek studenckich.
+
+### Art. 23b.
+
+### 1.
+
+Rektor w porozumieniu z uczelnianym organem samorządu studenckiego dokonuje podziału dotacji, o której mowa w art. 23 ust. 1 pkt 2.
+
+### 2.
+
+W nowo utworzonej uczelni zawodowej podziału dotacji dokonuje na okres roku rektor.
+
+” ;
+
+### 2)
+
+w art. 24 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki i tryb występowania niepaństwowej uczelni zawodowej o dotacje, o których mowa w art. 23, uwzględniając w szczególności liczbę jej własnej kadry dydaktycznej, liczbę kształconych studentów, zaangażowanie własnych środków w rozwój bazy materialnej uczelni oraz osiągnięcia uczelni w dotychczasowym kształceniu, a w przypadku dotacji na pomoc materialną również liczbę studentów znajdujących się w trudnej sytuacji materialnej.
+
+” ;
+
+### 3)
+
+po art. 24 dodaje się art. 24a w brzmieniu:
+
+„
+
+### Art. 24a.
+
+### 1.
+
+Uczelnia tworzy fundusz pomocy materialnej dla studentów.
+
+### 2.
+
+Fundusz, o którym mowa w ust. 1, tworzy się z:
+
+### 1)
+
+dotacji, o której mowa w art. 23 ust. 1 pkt 2, z wyłączeniem środków na stypendia ministra, o których mowa w art. 75 ust. 1 pkt 3 i 4,
+
+### 2)
+
+opłat za korzystanie z domu studenckiego,
+
+### 3)
+
+opłat za korzystanie ze stołówki studenckiej,
+
+### 4)
+
+innych przychodów, w tym z opłat za wynajem pomieszczeń w domach i stołówkach studenckich.
+
+### 3.
+
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 1, przeznacza się na wypłaty stypendiów i zapomóg oraz na remonty domów i stołówek studenckich.
+
+### 4.
+
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 2-4, przeznacza się na pokrycie kosztów utrzymania domów i stołówek studenckich, a w przypadku uczelni państwowej także na wynagrodzenia pracowników uczelni zatrudnionych w tych domach i stołówkach oraz na odpis na zakładowy fundusz świadczeń socjalnych, o którym mowa w art. 67 pkt 5, dla tych pracowników.
+
+### 5.
+
+Fundusz pomocy materialnej dla studentów w części, o której mowa w ust. 2 pkt 2-4, może być również przeznaczony na wypłatę stypendiów i zapomóg oraz remonty i modernizację domów i stołówek studenckich.
+
+### 6.
+
+Niewykorzystane w danym roku budżetowym środki funduszu pomocy materialnej dla studentów pochodzące ze źródła, o którym mowa w ust. 2 pkt 1, przechodzą na rok następny do wykorzystania na cele określone w ust. 3, a środki pochodzące ze źródeł określonych w ust. 2 pkt 2-4, na cele określone w ust. 4 i 5.
+
+” ;
+
+### 4)
+
+art. 75 otrzymuje brzmienie:
+
+„
+
+### Art. 75.
+
+### 1.
+
+Student może ubiegać się o pomoc materialną ze środków przeznaczonych na ten cel w budżecie państwa w formie:
+
+### 1)
+
+stypendium socjalnego,
+
+### 2)
+
+stypendium za wyniki w nauce lub sporcie,
+
+### 3)
+
+stypendium ministra za osiągnięcia w nauce,
+
+### 4)
+
+stypendium ministra za wybitne osiągnięcia sportowe,
+
+### 5)
+
+zapomogi.
+
+### 2.
+
+Student może ubiegać się o zakwaterowanie w domu studenckim uczelni i wyżywienie w stołówce studenckiej uczelni.
+
+### 3.
+
+Student może ubiegać się o zakwaterowanie w domu studenckim uczelni małżonka i dziecka.
+
+” ;
+
+### 5)
+
+po art. 75 dodaje się art. 75a-75h w brzmieniu:
+
+„
+
+### Art. 75a.
+
+### 1.
+
+Świadczenia, o których mowa w art. 75 ust. 1 pkt 1, 2 i 5, są przyznawane przez rektora.
+
+### 2.
+
+Świadczenia, o których mowa w art. 75 ust. 1 pkt 1 i 5, są przyznawane na wniosek studenta, a stypendium za wyniki w nauce lub sporcie na wniosek senatu lub innego organu wskazanego w statucie uczelni.
+
+### 3.
+
+Od decyzji rektora studentowi przysługuje wniosek o ponowne rozpatrzenie sprawy.
+
+### 4.
+
+Na wniosek uczelnianego organu samorządu studenckiego rektor przekazuje uprawnienie, o którym mowa w ust. 1, komisji stypendialnej, a w zakresie prawa odwołania od decyzji tej komisji - odwoławczej komisji stypendialnej.
+
+### 5.
+
+Decyzje wydane przez komisję stypendialną i odwoławczą komisję stypendialną podpisują przewodniczący tych komisji lub działający z ich upoważnienia wiceprzewodniczący.
+
+### 6.
+
+Komisję stypendialną powołuje dziekan, a odwoławczą komisję stypendialną rektor, spośród studentów delegowanych przez odpowiednio wydziałowy lub uczelniany organ samorządu studenckiego i pracowników uczelni, przy czym studenci stanowią większość składu komisji. W uczelni bezwydziałowej komisję stypendialną i odwoławczą komisję stypendialną powołuje rektor.
+
+### 7.
+
+Nadzór nad działalnością komisji stypendialnej i odwoławczej komisji stypendialnej sprawują odpowiednio dziekan albo rektor. W uczelni bezwydziałowej nadzór nad działalnością komisji stypendialnej i odwoławczej komisji stypendialnej sprawuje rektor.
+
+### 8.
+
+W ramach nadzoru dziekan albo rektor mogą uchylić decyzję odpowiednio komisji stypendialnej lub odwoławczej komisji stypendialnej niezgodną z przepisami ustawy lub regulaminem, o którym mowa w art. 75g.
+
+### Art. 75b.
+
+### 1.
+
+Stypendium socjalne może otrzymać student znajdujący się w trudnej sytuacji materialnej.
+
+### 2.
+
+Wysokość dochodu uprawniającego studenta do ubiegania się o stypendium socjalne ustala rektor w porozumieniu z uczelnianym organem samorządu studenckiego, z tym że miesięczna wysokość dochodu na osobę w rodzinie studenta nie może być większa niż suma kwot określonych w art. 5 ust. 1 i art. 6 ust. 2 pkt 3 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ([Dz. U. Nr 228, poz. 2255](https://api.sejm.gov.pl/eli/acts/DU/2003/2255/text.html) oraz z [2004 r. Nr 35, poz. 305](https://api.sejm.gov.pl/eli/acts/DU/2004/305/text.html), [Nr 64, poz. 593](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.html) i [Nr 99, poz. 1001](https://api.sejm.gov.pl/eli/acts/DU/2004/1001/text.html)).
+
+### 3.
+
+Miesięczną wysokość dochodu na osobę w rodzinie studenta, uprawniającą do ubiegania się o stypendium socjalne, ustala się na zasadach określonych w ustawie, o której mowa w ust. 2, z zastrzeżeniem, że do dochodu nie wlicza się świadczeń, o których mowa w art. 75 ust. 1.
+
+### 4.
+
+Kwota stypendium socjalnego może zostać zwiększona w związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, a w przypadku studentów studiów dziennych ponadto z tytułu:
+
+### 1)
+
+zakwaterowania w domu studenckim lub w obiekcie innym niż dom studencki, jeżeli codzienny dojazd z miejsca stałego zamieszkania do uczelni uniemożliwiałby lub w znacznym stopniu utrudniał studiowanie,
+
+### 2)
+
+zakwaterowania w domu studenckim lub w obiekcie innym niż dom studencki w przypadkach, o których mowa w pkt 1, niepracującego małżonka lub dziecka studenta.
+
+### Art. 75c.
+
+### 1.
+
+Pierwszeństwo w uzyskaniu zakwaterowania w domu studenckim państwowej uczelni zawodowej przysługuje studentowi tej uczelni, któremu codzienny dojazd do uczelni uniemożliwiałby lub w znacznym stopniu utrudniał studiowanie i który znajduje się w trudnej sytuacji materialnej.
+
+### 2.
+
+Pierwszeństwo w korzystaniu z wyżywienia w stołówce studenckiej przysługuje studentowi, o którym mowa w ust. 1.
+
+### Art. 75d.
+
+### 1.
+
+Stypendium za wyniki w nauce lub sporcie może otrzymać student, który uzyskał za rok studiów wysoką średnią ocen lub osiągnął wysokie wyniki sportowe we współzawodnictwie międzynarodowym lub krajowym.
+
+### 2.
+
+O przyznanie stypendium, o którym mowa w ust. 1, student może ubiegać się nie wcześniej niż po zaliczeniu pierwszego roku studiów.
+
+### Art. 75e.
+
+### 1.
+
+Zapomoga może być przyznana studentowi, który z przyczyn losowych znalazł się przejściowo w trudnej sytuacji materialnej.
+
+### 2.
+
+Student może otrzymać zapomogę, o której mowa w ust. 1, dwa razy w roku akademickim.
+
+### Art. 75f.
+
+### 1.
+
+Student może otrzymywać stypendia, o których mowa w art. 75 ust. 1 pkt 1-4, w danym roku akademickim przez okres do 10 miesięcy.
+
+### 2.
+
+Stypendium socjalne przyznawane jest na semestr lub rok akademicki, a stypendium za wyniki w nauce lub sporcie i stypendia ministra, o których mowa w art. 75 ust. 1 pkt 3 i 4, na rok akademicki, z wyjątkiem przypadku, gdy ostatni rok studiów, zgodnie z planem studiów, trwa jeden semestr.
+
+### 3.
+
+Świadczenia, o których mowa w ust. 2, wypłacane są co miesiąc.
+
+### 4.
+
+Student studiujący równocześnie na kilku kierunkach studiów może otrzymać stypendia, o których mowa w art. 75 ust. 1 pkt 1, pkt 2 w zakresie stypendium za wyniki w sporcie oraz pkt 3 i 4, na jednym z kierunków, według własnego wyboru, a stypendium za wyniki w nauce na każdym z kierunków.
+
+### 5.
+
+Studentowi, który po ukończeniu jednego kierunku studiów kontynuuje naukę na drugim kierunku studiów, stypendium socjalne nie przysługuje.
+
+### 6.
+
+Łączna miesięczna wysokość stypendium socjalnego i stypendium za wyniki w nauce lub sporcie nie może być większa niż 90% najniższego wynagrodzenia zasadniczego asystenta w poprzednim miesiącu, ustalonego w przepisach o wynagradzaniu nauczycieli akademickich, z wyłączeniem zwiększenia kwoty stypendium socjalnego w związku z ponoszeniem dodatkowych kosztów z tytułu niepełnosprawności potwierdzonej orzeczeniem właściwego organu, o którym mowa w art. 75b ust. 4.
+
+### Art. 75g.
+
+### 1.
+
+Szczegółowy regulamin ustalania wysokości, przyznawania i wypłacania świadczeń pomocy materialnej dla studentów, o których mowa w art. 75 ust. 1 pkt 1, 2 i 5, w tym szczegółowe kryteria i tryb udzielania świadczeń pomocy materialnej dla studentów, wzór wniosku o przyznanie stypendium socjalnego oraz sposób udokumentowania sytuacji materialnej, ustala rektor w porozumieniu z uczelnianym organem samorządu studenckiego.
+
+### 2.
+
+W nowo utworzonej uczelni zawodowej regulamin, o którym mowa w ust. 1, ustala na okres roku rektor.
+
+### Art. 75h.
+
+### 1.
+
+Stypendia ministra, o których mowa w art. 75 ust. 1 pkt 3 i 4, przyznaje minister na wniosek senatu lub innego organu wskazanego w statucie uczelni przedstawiony przez rektora uczelni.
+
+### 2.
+
+Do stypendiów ministra, o których mowa w art. 75 ust. 1 pkt 3 i 4, stosuje się odpowiednio przepisy ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym oraz przepisy wykonawcze wydane na podstawie art. 152i tej ustawy.
+
+### 3.
+
+Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 75 ust. 1 pkt 2, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 75 ust. 1 pkt 4, albo stypendium przyznawane na podstawie art. 22 ust. 3 ustawy z dnia 18 stycznia 1996 r. o kulturze fizycznej ([Dz. U. z 2001 r. Nr 81, poz. 889](https://api.sejm.gov.pl/eli/acts/DU/2001/889/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959.](#gloss-0:5:)).
+
+” ;
+
+### 6)
+
+art. 85 otrzymuje brzmienie:
+
+„
+
+### Art. 85.
+
+### 1.
+
+Do decyzji podjętych przez organ uczelni zawodowej w indywidualnych sprawach studenckich, a także w sprawach nadzoru nad działalnością uczelnianych organizacji studenckich oraz samorządu studenckiego stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego oraz przepisy o zaskarżaniu decyzji do sądu administracyjnego. Decyzje wydane przez rektora w pierwszej instancji są ostateczne.
+
+### 2.
+
+Przepis ust. 1 zdanie pierwsze stosuje się także do decyzji podjętych przez komisję stypendialną i odwoławczą komisję stypendialną, o których mowa w art. 75a ust. 4.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich ([Dz. U. Nr 108, poz. 685](https://api.sejm.gov.pl/eli/acts/DU/1998/685/text.html), z [2000 r. Nr 48, poz. 550](https://api.sejm.gov.pl/eli/acts/DU/2000/550/text.html) oraz z [2004 r. Nr 146, poz. 1546](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Prawo do otrzymania pożyczek i kredytów, zwanych dalej „pożyczkami studenckimi” i „kredytami studenckimi”, na zasadach określonych w ustawie, mają:
+
+### 1)
+
+studenci szkół wyższych, o których mowa w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.](#gloss-0:6:)) oraz ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych ([Dz. U. Nr 96, poz. 590](https://api.sejm.gov.pl/eli/acts/DU/1997/590/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.](#gloss-0:7:)),
+
+### 2)
+
+słuchacze i studenci Akademii Obrony Narodowej, Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego, Akademii Marynarki Wojennej im. Bohaterów Westerplatte, będący osobami cywilnymi,
+
+### 3)
+
+słuchacze Szkoły Głównej Służby Pożarniczej będący osobami cywilnymi,
+
+### 4)
+
+uczestnicy studiów doktoranckich, o których mowa w ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki ([Dz. U. Nr 65, poz. 595](https://api.sejm.gov.pl/eli/acts/DU/2003/595/text.html))
+
+- zwani dalej „studentami”.
+
+” ;
+
+### 2)
+
+w art. 6 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pierwszeństwo w otrzymaniu pożyczki studenckiej lub kredytu studenckiego mają studenci o niskich dochodach na osobę w rodzinie.
+
+” ;
+
+### 3)
+
+w art. 7:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Pożyczki studenckie i kredyty studenckie udzielane są na okres nie dłuższy niż okres studiów, przy czym okres ten nie może przekroczyć łącznie 6 lat, z zastrzeżeniem ust. 2a.
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Okres, na jaki udzielane są pożyczki studenckie i kredyty studenckie, o których mowa w ust. 2, może być w przypadku studentów studiów doktoranckich przedłużony o okres studiów doktoranckich, nie dłuższy niż 4 lata.
+
+” ;
+
+### 4)
+
+w art. 8:
+
+### a)
+
+w ust. 1 pkt 1 otrzymuje brzmienie:
+
+„
+
+### 1)
+
+całą kwotę odsetek należnych w okresie studiów, w tym również studiów doktoranckich, oraz w okresie ustalonym zgodnie z art. 9 ust. 1,
+
+” ,
+
+### b)
+
+ust. 6 otrzymuje brzmienie:
+
+„
+
+### 6.
+
+Odsetki od udzielonej pożyczki studenckiej płacone są przez pożyczkobiorcę od momentu rozpoczęcia spłaty pożyczki, z wyjątkiem okresu odbywania przez pożyczkobiorcę służby wojskowej.
+
+” ;
+
+### 5)
+
+w art. 9 ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Spłata kredytu studenckiego lub pożyczki studenckiej przez kredytobiorcę lub pożyczkobiorcę rozpoczyna się nie później niż po upływie 2 lat od zakończenia studiów, w tym również studiów doktoranckich, i trwa nie krócej niż dwukrotność okresu, na jaki zostały udzielone, chyba że kredytobiorca lub pożyczkobiorca wnioskuje o krótszy termin spłaty.
+
+” ;
+
+### 6)
+
+w art. 11 w ust. 2 po pkt 3 dodaje się pkt 3a w brzmieniu:
+
+„
+
+### 3a)
+
+kierownik jednostki organizacyjnej prowadzącej studia doktoranckie, o której mowa w ustawie z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki, innej niż jednostka organizacyjna szkoły wyższej, powołany spośród kandydatów zgłoszonych przez kierowników jednostek organizacyjnych prowadzących studia doktoranckie, innych niż jednostki organizacyjne szkoły wyższej,
+
+” ;
+
+### 7)
+
+w art. 15:
+
+### a)
+
+w ust. 1 uchyla się pkt 5,
+
+### b)
+
+w ust. 2:
+
+- - pkt 1 otrzymuje brzmienie: „ 1) okres, na jaki może być udzielony kredyt studencki lub pożyczka studencka, nie dłuższy niż 6 lat, a w przypadku studentów studiów doktoranckich nie dłuższy niż łącznie 10 lat, ” ,
+
+- - pkt 3 otrzymuje brzmienie: „ 3) rozpoczęcie spłaty kredytu studenckiego lub pożyczki studenckiej nie później niż 2 lata od daty ukończenia studiów, ” ,
+
+- - dodaje się pkt 7 i 8 w brzmieniu: „ 7) warunki i tryb zawieszania spłaty pożyczki studenckiej i kredytu studenckiego, 8) wzory zaświadczeń szkół wyższych, a w przypadku studiów doktoranckich szkół wyższych lub innych jednostek organizacyjnych prowadzących studia doktoranckie, potwierdzające, że osoba ubiegająca się o pożyczkę studencką lub kredyt studencki jest studentem. ” .
+
+### Art. 4.
+
+W ustawie z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej ([Dz. U. Nr 56, poz. 496](https://api.sejm.gov.pl/eli/acts/DU/2003/496/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.](#gloss-0:8:)).
+
+” ;
+
+### 2)
+
+w art. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Dotacje na pomoc materialną dla osób cywilnych, o których mowa w ust. 2, ustala i przyznaje minister właściwy do spraw szkolnictwa wyższego.
+
+” .
+
+### Art. 5.
+
+W ustawie z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte ([Dz. U. Nr 60, poz. 533](https://api.sejm.gov.pl/eli/acts/DU/2003/533/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.](#gloss-0:9:)).
+
+” ;
+
+### 2)
+
+w art. 3 dodaje się ust. 5 w brzmieniu:
+
+„
+
+### 5.
+
+Dotacje na pomoc materialną dla osób cywilnych, o których mowa w ust. 3, ustala i przyznaje minister właściwy do spraw szkolnictwa wyższego.
+
+” .
+
+### Art. 6.
+
+W ustawie z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego ([Dz. U. Nr 60, poz. 534](https://api.sejm.gov.pl/eli/acts/DU/2003/534/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 2 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Tworzenie i prowadzenie kierunków studiów dotyczących innych nauk niż wojskowe oraz przyznawanie pomocy materialnej dla osób cywilnych kształcących się w Akademii odbywa się na zasadach i w trybie określonych w ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ([Dz. U. Nr 65, poz. 385](https://api.sejm.gov.pl/eli/acts/DU/1990/385/text.html), z późn. zm.[10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.](#gloss-0:10:)).
+
+” ;
+
+### 2)
+
+w art. 3 dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Dotacje na pomoc materialną dla osób cywilnych, o których mowa w ust. 2, ustala i przyznaje minister właściwy do spraw szkolnictwa wyższego.
+
+” .
+
+### Art. 7.
+
+### 1.
+
+Do dnia 30 września 2004 r. studenci lub słuchacze studiów wieczorowych, zaocznych i eksternistycznych:
+
+### 1)
+
+uczelni, o których mowa w ustawie wymienionej w art. 1, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1,
+
+### 2)
+
+uczelni, o których mowa w ustawie wymienionej w art. 2, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 2,
+
+### 3)
+
+uczelni, o których mowa w ustawach wymienionych w art. 4-6, będący osobami cywilnymi mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1
+
+- z zastrzeżeniem ust. 2.
+
+### 2.
+
+Świadczenia pomocy materialnej przyznawane na podstawie ust. 1 nie obejmują dopłat do zakwaterowania, dopłat do posiłków oraz stypendium ministra za osiągnięcia w nauce.
+
+### 3.
+
+Do dnia 30 września 2004 r. osoby cywilne będące studentami lub słuchaczami studiów dziennych w uczelniach, o których mowa w ustawach wymienionych w art. 4-6, mogą otrzymywać świadczenia pomocy materialnej, o których mowa w ustawie wymienionej w art. 1. Świadczenia pomocy materialnej nie obejmują stypendium ministra za osiągnięcia w nauce.
+
+### 4.
+
+Do dnia 30 września 2004 r. studentom studiów dziennych uczelni niepaństwowych mogą być wypłacane dopłaty do zakwaterowania, dopłaty do posiłków, stypendia za wyniki w nauce oraz stypendia specjalne dla osób niepełnosprawnych.
+
+### Art. 8.
+
+Do dnia 30 września 2004 r. do przyznawania, wypłacania i określania wysokości świadczeń pomocy materialnej, dla studentów, o których mowa:
+
+### 1)
+
+w art. 7 ust. 1 pkt 1 i 3 oraz ust. 3 i 4, stosuje się przepisy wydane na podstawie art. 152 ust. 3 ustawy wymienionej w art. 1;
+
+### 2)
+
+w art. 7 ust. 1 pkt 2, stosuje się przepisy wydane na podstawie art. 75 ust. 3 ustawy wymienionej w art. 2.
+
+### Art. 9.
+
+### 1.
+
+Do dnia 30 września 2004 r. świadczenia pomocy materialnej dla studentów, przyznawane na wniosek osób uprawnionych, o których mowa w art. 7, mogą być wypłacane za okres od dnia 1 stycznia 2004 r.
+
+### 2.
+
+Do dnia 30 września 2004 r. świadczenia pomocy materialnej, o których mowa w ust. 1, mogą być przyznane na okres do 7 miesięcy.
+
+### Art. 10.
+
+### 1.
+
+W roku 2004 nie przyznaje się pożyczek studenckich, o których mowa w ustawie wymienionej w art. 3.
+
+### 2.
+
+Osobie uprawnionej do otrzymania kredytu studenckiego na podstawie ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą kredyt ten wypłaca się w roku akademickim 2003/2004 za okres od dnia 1 stycznia 2004 r.
+
+### 3.
+
+Wysokość miesięcznej raty kredytu studenckiego, o której mowa w art. 15 ust. 2 pkt 2 ustawy wymienionej w art. 3, w roku akademickim 2003/2004, od dnia 1 stycznia 2004 r. do dnia 30 września 2004 r., wynosi 600 zł.
+
+### Art. 11.
+
+### 1.
+
+Do umów o kredyt studencki zawartych przed dniem wejścia w życie ustawy stosuje się przepisy ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem ust. 2.
+
+### 2.
+
+Do kredytobiorców, którzy do dnia wejścia w życie ustawy nie rozpoczęli spłaty kredytu, stosuje się art. 9 ust. 1 ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą.
+
+### Art. 12.
+
+### 1.
+
+W 2004 r. uczelnia państwowa przeznacza w ramach dotacji, o której mowa w art. 24 ust. 1 pkt 1a ustawy wymienionej w art. 1, środki na podwyższenie wysokości przeciętnych wynagrodzeń pracowników uczelni zatrudnionych w domach i stołówkach studenckich uczelni, o których mowa w art. 117a ust. 1 pkt 1 lit. c czwartym tiret ustawy wymienionej w art. 1.
+
+### 2.
+
+W 2004 r. państwowa uczelnia zawodowa przeznacza w ramach dotacji, o której mowa w art. 23 ust. 1 pkt 2 ustawy wymienionej w art. 2, środki na podwyższenie wysokości przeciętnych wynagrodzeń pracowników uczelni zatrudnionych w domach i stołówkach studenckich uczelni, o których mowa w art. 66a ust. 1 pkt 1 lit. c trzecim tiret ustawy wymienionej w art. 2.
+
+### 3.
+
+Decyzję w sprawie, o której mowa w ust. 1 i 2, podejmuje rektor.
+
+### Art. 13.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie:
+
+### 1)
+
+art. 25 ust. 2 ustawy wymienionej w art. 1 zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 25 ust. 2 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą;
+
+### 2)
+
+art. 24 ust. 2 ustawy wymienionej w art. 2 zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 24 ust. 2 ustawy wymienionej w art. 2 w brzmieniu nadanym niniejszą ustawą;
+
+### 3)
+
+art. 15 ustawy wymienionej w art. 3 zachowują moc do czasu wydania przepisów wykonawczych na podstawie art. 15 ustawy wymienionej w art. 3 w brzmieniu nadanym niniejszą ustawą, z wyjątkiem przepisów określających wysokość raty kredytu studenckiego.
+
+### Art. 14.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+### 1)
+
+art. 1 pkt 1 lit. b oraz pkt 2-4, pkt 5, w zakresie dotyczącym art. 152 ust. 1 pkt 1-3 i 5, oraz pkt 6 i 7 oraz art. 2 pkt 1-3, pkt 4, w zakresie dotyczącym art. 75 ust. 1 pkt 1-3 i 5, oraz pkt 5 i 6, które wchodzą w życie z dniem 1 października 2004 r.;
+
+### 2)
+
+art. 1 pkt 5, w zakresie dotyczącym art. 152 ust. 1 pkt 4, oraz art. 2 pkt 4, w zakresie dotyczącym art. 75 ust. 1 pkt 4, które wchodzą w życie z dniem 1 stycznia 2005 r.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Obrony Narodowej, ustawę z dnia 27 lutego 2003 r. o utworzeniu Akademii Marynarki Wojennej im. Bohaterów Westerplatte, ustawę z dnia 27 lutego 2003 r. o utworzeniu Wojskowej Akademii Technicznej im. Jarosława Dąbrowskiego. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1206. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 102, poz. 1115, z 2002 r. Nr 4, poz. 31, Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 207, poz. 1752, z 2003 r. Nr 203, poz. 1966 oraz z 2004 r. Nr 96, poz. 959. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194, z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239, z 2003 r. Nr 65, poz. 595, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383, z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683, z 2003 r. Nr 65, poz. 595, Nr 128, poz. 1176, Nr 137, poz. 1304 i Nr 213, poz. 2081 oraz z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1206 i Nr 152, poz. 1598.

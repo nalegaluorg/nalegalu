@@ -8,11 +8,9 @@ pos: 553
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie
-
-*USTAWA z dnia 14 marca 2002 r.*
+# Ustawa z dnia 14 marca 2002 r. o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,14 @@ domain: null
 | Data ogłoszenia | 2002-03-14 |
 | Data wydania | 2002-05-22 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620553) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/553/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2002/553/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2002/553) |
 
-**Art. 1.** Uchyla się ustawę z dnia 14 grudnia 1994 r. o Radiofonicznym Ośrodku Nadawczym w Konstantynowie (Dz.U. z 1995 r. Nr 2, poz. 4).
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 1.
 
+Uchyla się ustawę z dnia 14 grudnia 1994 r. o Radiofonicznym Ośrodku Nadawczym w Konstantynowie ([Dz. U. z 1995 r. Nr 2, poz. 4](https://api.sejm.gov.pl/eli/acts/DU/1995/4/text.html)).
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

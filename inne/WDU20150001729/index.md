@@ -1,0 +1,98 @@
+---
+title: Rozporządzenie Rady Ministrów z dnia 6 października 2015 r. zmieniające rozporządzenie w sprawie pomorskiej specjalnej strefy ekonomicznej
+address: WDU20150001729
+eli: DU/2015/1729
+publisher: DU
+year: 2015
+pos: 1729
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Rady Ministrówz dnia 6 października 2015 r. zmieniające rozporządzenie w sprawie pomorskiej specjalnej strefy ekonomicznej
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1729 |
+| ISAP | WDU20150001729 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2015-10-06 |
+| Data wydania | 2015-10-28 |
+| Wejście w życie | 2015-11-12 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2015/1729/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2015/1729) |
+
+## Treść rozporządzenia
+
+Na podstawie art. 4 ust. 1 i art. 5a ust. 1 ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ([Dz. U. z 2015 r. poz. 282](https://api.sejm.gov.pl/eli/acts/DU/2015/282/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+W rozporządzeniu Rady Ministrów z dnia 15 grudnia 2008 r. w sprawie pomorskiej specjalnej strefy ekonomicznej ([Dz. U. z 2015 r. poz. 758](https://api.sejm.gov.pl/eli/acts/DU/2015/758/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+w § 1 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Strefa obejmuje grunty o powierzchni 2039,9903 ha, położone na terenach miast Brodnica, Bydgoszcz, Czarnków, Gdańsk, Gdynia, Grudziądz, Inowrocław, Kwidzyn, Lipno, Łeba, Malbork, Piła, Rypin, Stargard Szczeciński, Starogard Gdański, Tczew, Toruń i Włocławek oraz gmin: Barcin, Chojnice, Czarna Woda, Człuchów, Gniewino, Janikowo, Kowalewo Pomorskie, Krokowa, Liniewo, Lipno, Łysomice, Pakość, Sztum, Świecie, Tczew i Wąbrzeźno.
+
+” ;
+
+### 2)
+
+w załączniku do rozporządzenia SZCZEGÓŁOWY OPIS GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ:
+
+### a)
+
+w Podstrefie Starogard Gdański opis granic i terenu Kompleksu 2 otrzymuje brzmienie: „ Kompleks 2 Obręby ewidencyjne 24 i 25, karta mapy 1 Granica biegnie od pkt 1, położonego w północno-zachodnim narożniku działki 10, w kierunku wschodnim wzdłuż granicy działki 10 do pkt 2. Tu skręca w kierunku północno-wschodnim i biegnie wzdłuż granicy działki 3/24 do pkt 3, w którym skręca na wschód, i biegnie wzdłuż granic działek: 3/24 i 3/33 przez pkt 4 do pkt 5, stanowiącego północno-wschodni narożnik działki 3/33. Stąd biegnie na południe wzdłuż granic działek: 3/33, 3/34 i 3/36 do pkt 6, w którym skręca na południowy zachód, i biegnie wzdłuż granic działek: 3/36, 3/39 i 3/50 przez pkt: 7 i 8 do pkt 9. Tu skręca na południe i biegnie wzdłuż granic działek: 3/50 i 3/49 do pkt 10, stanowiącego południowy narożnik działki 3/49. Stąd biegnie w kierunku północno-zachodnim wzdłuż granic działek: 3/49, 3/47, 3/45 i 3/43 do pkt 11, w którym skręca w kierunku północno-wschodnim, i wzdłuż granic działek: 3/43, 3/44 i 3/62 dochodzi do pkt 12. Tu skręca na zachód i biegnie wzdłuż granicy działki 17/1 do pkt 13, stanowiącego jej południowo-zachodni narożnik. Stąd biegnie na północny wschód wzdłuż granic działek: 17/1, 16, 15/1, 15/2, 14/2, 14/1, 13/1, 13/2, 12, 11 i 10 do pkt 1, od którego rozpoczęto opis. ” ,
+
+### b)
+
+w Podstrefie Gdańsk dodaje się opisy granic i terenów Kompleksów: 6 i 7 w brzmieniu: „ Kompleks 6 Obręb ewidencyjny Gdańsk 69 Granica biegnie od pkt 1, położonego w zachodnim narożniku działki 74/8, w kierunku północno-wschodnim do pkt 2, gdzie skręca na południowy wschód, i biegnie przez pkt: 3 i 4 do pkt 5, położonego u zbiegu działki 65 z ulicą Doki. Tu skręca w kierunku południowo-zachodnim i biegnie wzdłuż granic działek: 65, 74/10, 66, 74/45 i 68 do pkt 6, położonego w południowo-wschodnim narożniku działki 68. Stąd biegnie w kierunku północno-zachodnim wzdłuż działki 67 do pkt 7 i dalej wzdłuż granic działek 61, 60, 54/1 i 74/8 do pkt 1, od którego rozpoczęto opis. Kompleks 7 Obręb ewidencyjny Gdańsk 69 Granica biegnie od pkt 1, położonego w południowo-zachodnim narożniku działki 74/16, w kierunku północno-wschodnim wzdłuż granic działek: 74/16, 74/15, 74/14 i 74/13 do pkt 2, gdzie skręca na wschód, i biegnie wzdłuż granic działek: 74/13, 74/19 i 74/20 przez pkt 3 do pkt 4. Tu skręca na południe i biegnie wzdłuż granicy działki 74/40 do pkt 5. Stąd biegnie w kierunku północno-zachodnim wzdłuż granic działek: 74/21, 74/48 i 74/16 przez pkt: 6 i 7 do pkt 1, od którego rozpoczęto opis. ” ,
+
+### c)
+
+opis granic i terenu Podstrefy Brodnica otrzymuje brzmienie: „ Podstrefa Brodnica Kompleks 1 Obręb ewidencyjny Brodnica 28, karta mapy 5 Granica biegnie od pkt 1, położonego w zachodnim narożniku działki 2452/17, w kierunku północno-wschodnim wzdłuż ulicy Władysława Sikorskiego przez pkt 2 do pkt 3. Tu skręca na południowy wschód i biegnie wzdłuż granicy działki 2452/18 przez pkt: 4, 5, 6 i 7 do pkt 8. Stąd biegnie w kierunku południowo-zachodnim wzdłuż granic działek: 2452/18, 2452/17 i 3643/1 przez pkt: 9 i 10 do pkt 11. Tu skręca na północny zachód i biegnie przez pkt 12 do pkt 13, gdzie skręca na północny wschód, i biegnie wzdłuż granicy z ulicą Władysława Sikorskiego przez pkt 14 do pkt 1, od którego rozpoczęto opis. Kompleks 2 Obręb ewidencyjny Brodnica 28, arkusz mapy 3 Granica biegnie od pkt 1, położonego w zachodnim narożniku działki 92/2, w kierunku północno-wschodnim wzdłuż granic działek: 92/2, 93/2 i 94/6 do pkt 2, gdzie skręca na południowy wschód, i wzdłuż granicy działki 94/6 dochodzi do pkt 3. Tu skręca w kierunku południowo-zachodnim i biegnie wzdłuż granic działek: 94/6, 93/2 i 92/2 do pkt 4, stanowiącego południowy narożnik działki 92/2. Stąd biegnie w kierunku północno-zachodnim wzdłuż granicy działki 92/2 do pkt 1, od którego rozpoczęto opis. Kompleks 3 Obręb ewidencyjny Brodnica 28, arkusz mapy 2 Granica biegnie od pkt 1, położonego w zachodnim narożniku działki 81/4, w kierunku północno-wschodnim wzdłuż granic działek: 81/4, 78/2, 77/2, 74/2 i 68/4 do pkt 2. Stąd biegnie na południowy wschód wzdłuż granicy działki 68/4 do pkt 3. Tu skręca w kierunku południowo-zachodnim i biegnie wzdłuż granicy działki 68/4 do pkt 4. Stąd biegnie na południowy wschód wzdłuż granicy działki 75/3 do pkt 5. Tu skręca na południowy zachód i wzdłuż granic działek: 75/3, 76/3, 79/3 i 80/3 dochodzi do pkt 6. Stąd biegnie w kierunku północno-zachodnim wzdłuż granic działek: 80/3 i 81/4 do pkt 1, od którego rozpoczęto opis. ” ,
+
+### d)
+
+na końcu SZCZEGÓŁOWEGO OPISU GRANIC I TERENU POMORSKIEJ SPECJALNEJ STREFY EKONOMICZNEJ dodaje się opisy granic i terenów Podstref: Łeba, Liniewo, Lipno, Toruń, Janikowo i Czarnków w brzmieniu:
+
+„
+
+Podstrefa Łeba Obręb ewidencyjny Łeba 1 Granica biegnie od pkt 1, położonego w północno-zachodnim narożniku działki 932/3, w kierunku wschodnim do pkt 2. Tu skręca w kierunku południowo-wschodnim i wzdłuż granic działek: 932/3, 933/3 i 934/3 dochodzi do pkt 3. Stąd biegnie na zachód wzdłuż granicy działki 934/3 do pkt 4, w którym skręca na północ, i wzdłuż granic działek: 934/3, 933/3 i 932/3 dochodzi do pkt 1, od którego rozpoczęto opis. Podstrefa Liniewo Obręb ewidencyjny Płachty Kompleks 1 Granica biegnie od pkt 1, położonego w zachodnim narożniku działki 131/15, na północ wzdłuż granic działek: 131/15 i 131/14 do pkt 2. Tu skręca w kierunku południowo-wschodnim i biegnie wzdłuż granicy działki 131/14 do pkt 3. Stąd biegnie w kierunku południowo-zachodnim do pkt 4, w którym skręca na południowy wschód, i wzdłuż granic działek: 131/15, 131/16 i 131/17 dochodzi do pkt 5. Tu skręca w kierunku południowo-zachodnim i biegnie wzdłuż granicy działki 131/17 do pkt 6. Stad biegnie na północny zachód wzdłuż granic działek: 131/17, 131/16 i 131/15 do pkt 1, od którego rozpoczęto opis. Kompleks 2 Granica biegnie od pkt 1, położonego w północno-zachodnim narożniku działki 131/21, w kierunku wschodnim do pkt 2, w którym zmienia kierunek na południowo-wschodni, i wzdłuż granic działek: 131/20, 131/19 i 131/18 dochodzi do pkt 3. Tu skręca na południowy zachód i biegnie wzdłuż granicy działki 131/18 do pkt 4, położonego w południowym narożniku działki 131/18. Stąd biegnie w kierunku północno-zachodnim wzdłuż granicy działki 131/18 do pkt 5. Tu skręca na południowy zachód i biegnie do pkt 6, w którym skręca w kierunku północno-zachodnim, i wzdłuż granicy działki 131/10 dochodzi do pkt 7. Stąd biegnie na północny wschód wzdłuż granicy działki 131/10 do pkt 8, gdzie skręca na północny zachód, i granicą tej samej działki dochodzi do pkt 9. Tu skręca na północ i biegnie wzdłuż granic działek: 131/10 i 131/21 do pkt 1, od którego rozpoczęto opis. Podstrefa Lipno Kompleks 1 Obręb ewidencyjny Lipno 2 Granica biegnie od pkt 1, położonego w południowo-zachodnim narożniku działki 3036/3, na północ wzdłuż granicy działki 3036/3 przez pkt: 2, 3, 4, 5, 6 i 7 do pkt 8. Tu skręca w kierunku północno-wschodnim i biegnie wzdłuż granic działek: 3036/3, 694/2 i 702/1 przez pkt: 9 i 10 do pkt 11. Stąd biegnie na południe wzdłuż granic działek: 702/1 i 694/2 przez pkt 12 do pkt 13. Tu skręca na zachód i biegnie wzdłuż granic działek: 694/2, 696/1, 3037 i 3036/3 do pkt 1, od którego rozpoczęto opis. Kompleks 2 Obręb ewidencyjny Kolankowo Obszar 1 Granica biegnie wzdłuż granic działki 177/3 od pkt 1, położonego w jej północno-zachodnim narożniku, w kierunku północno-wschodnim do pkt 2. Tu skręca w kierunku południowo-wschodnim i dochodzi do pkt 3, w którym zmienia kierunek na północno-zachodni, i dochodzi do pkt 4. Stąd biegnie na północ i dochodzi do pkt 1, od którego rozpoczęto opis. Obszar 2 Granica biegnie wzdłuż granic działki 179 od pkt 1, położonego w jej północno-zachodnim narożniku, w kierunku północno-wschodnim do pkt 2. Tu skręca na południe i biegnie do pkt 3. Stąd biegnie w kierunku południowo-zachodnim do pkt 4, w którym załamuje się na północ, i dochodzi do pkt 1, od którego rozpoczęto opis. Podstrefa Toruń Obręb ewidencyjny Toruń 45, arkusz mapy 1 Granica biegnie wzdłuż granic działki 216/3 od pkt 1, położonego w jej północno-wschodnim narożniku, w kierunku południowym do pkt 2. Tu skręca na zachód i biegnie do pkt 3, w którym skręca na północ, i dochodzi do pkt 4. Stąd biegnie na wschód do pkt 1, od którego rozpoczęto opis. Podstrefa Janikowo Obręby ewidencyjne: 7 i 8 Janikowo oraz Giebnia 2 Granica biegnie od pkt 1, położonego w północno-wschodnim narożniku działki 6/23, w kierunku północnym do pkt 2, gdzie skręca na wschód, i biegnie wzdłuż granic działek: 86/4 i 86/3 do pkt 3. Tu skręca na południe i biegnie wzdłuż granicy działki 86/3 do pkt 4. Stąd biegnie na wschód wzdłuż granicy działki 6/4 do pkt 5, następnie na południe granicą tej samej działki do pkt 6. Tu skręca na zachód i biegnie wzdłuż granicy działki 6/4 do pkt 7. Stąd biegnie na południe wzdłuż granic działek: 6/8 i 6/36 do pkt 8. Tu zmienia kierunek na zachodni i biegnie wzdłuż granicy działki 6/36 do pkt 9. Stąd biegnie na północ wzdłuż granicy tej samej działki do pkt 10, w którym skręca na zachód, i nadal wzdłuż granicy działki 6/36 dochodzi do pkt 11. Tu skręca na południowy wschód i biegnie wzdłuż granicy działki 6/36 do pkt 12. Stąd biegnie na zachód wzdłuż granicy tej samej działki do pkt 13. Tu skręca w kierunku południowo-wschodnim i biegnie wzdłuż granic działek: 1/46 i 1/69 do pkt 14. Stąd biegnie na południowy zachód wzdłuż granic działek: 1/69, 1/71 i 1/78 do pkt 15, w którym skręca na wschód, i wzdłuż granicy działki 1/78 dochodzi do pkt 16. Tu skręca w kierunku południowym i wzdłuż granicy tej samej działki biegnie pkt 17. Stąd biegnie na północny zachód wzdłuż granicy działki 1/78 do pkt 18, w którym skręca na południowy zachód, i dochodzi do pkt 19. Tu załamuje się na południowy wschód i nadal biegnie wzdłuż granicy działki 1/78 do pkt 20, w którym skręca na południowy zachód, i dochodzi do pkt 21. Stąd biegnie na północny zachód do pkt 22, z którego biegnie wzdłuż granicy działki 1/78 początkowo na północny zachód, a następnie na północny zachód przez pkt 23 do pkt 24. Tu skręca na północny zachód i wzdłuż granicy działki 1/78 dochodzi do pkt 25. Stąd biegnie na północny wschód wzdłuż granicy tej samej działki do pkt 26. Tu załamuje się na północny zachód i biegnie wzdłuż granicy działki 1/78 do pkt 27. Stąd biegnie na południowy zachód wzdłuż granicy tej samej działki do pkt 28. Tu skręca na północny zachód i biegnie wzdłuż granic działek: 1/78, 1/53 i 1/67 przez pkt: 29, 30, 31 i 32 do pkt 33. Stąd biegnie na północny wschód wzdłuż granicy działki 1/67 do pkt 34, w którym skręca na południowy wschód, i wzdłuż granicy działki 1/67 dochodzi do pkt 35. Stąd biegnie na północny wschód wzdłuż granicy tej samej działki do pkt 36. Tu załamuje się na północny zachód i biegnie wzdłuż granicy działki 1/67 do pkt 37. Stąd biegnie na południowy zachód do pkt 38, w którym skręca na północny zachód, i wzdłuż granicy działki 1/67 dochodzi do pkt 39. Tu skręca na południowy zachód i dochodzi do pkt 40, z którego biegnie na północny zachód wzdłuż granicy działki 1/67 do pkt 41. Stąd biegnie na wschód wzdłuż granicy działki 1/67 do pkt 42. Tu skręca na północny zachód i biegnie wzdłuż granic działek: 1/67 i 1/14 do pkt 43. Stąd biegnie początkowo na północny wschód, a następnie na północny zachód wzdłuż granic działek: 1/14, 3/10 i 3/8 do pkt 44. Tu załamuje się na wschód i biegnie wzdłuż granicy działki 3/8 do pkt 45. Stąd biegnie na północ wzdłuż granicy działki 3/5 do pkt 46, stanowiącego północny narożnik tej działki. Tu skręca na południowy wschód i biegnie wzdłuż granicy działki 3/5 do pkt 47. Stąd biegnie na południowy zachód wzdłuż granic działek: 3/5 i 3/8 do pkt 48. Tu skręca na wschód i wzdłuż granicy działki 1/14 dochodzi do pkt 49, z którego biegnie na południowy wschód wzdłuż granicy tej samej działki do pkt 50. Stąd biegnie początkowo na północny wschód, następnie na południowy zachód i dalej na wschód do pkt 51, w którym skręca na południe, i wzdłuż granic działek: 5/5 i 5/10 i 5/5 dochodzi do pkt 52. Stąd biegnie na wschód wzdłuż granic działek: 6/6 i 6/8 do pkt 53, w którym skręca na północ, i biegnie wzdłuż granic działek: 6/8, 6/2 i 6/23 do pkt 54. Tu skręca na południowy wschód i biegnie wzdłuż granicy działki 6/23 do pkt 1, od którego rozpoczęto opis. Wewnątrz kompleksu znajdują się działki: 1/18, 1/21, 1/23, 1/26, 1/31, 1/33, 1/45 i 1/48, które nie wchodzą w obszar strefy, tworząc 5 enklaw:
+
+### 1)
+
+działka 1/18 oznaczona pkt: 71, 72, 73 i 74,
+
+### 2)
+
+działki: 1/21, 1/23 i 1/26 oznaczone pkt: 59, 60, 61 i 62,
+
+### 3)
+
+działka 1/31 oznaczona pkt: 67, 68, 69 i 70,
+
+### 4)
+
+działka 1/33 oznaczona pkt: 63, 64, 65 i 66,
+
+### 5)
+
+działki: 1/45 i 1/48 oznaczone pkt: 55, 56, 57 i 58.
+
+Podstrefa Czarnków Obręb ewidencyjny 1 Miasto Czarnków, arkusze mapy: 1, 38, 39 i 43 Kompleks 1 Granica biegnie od pkt 1, położonego w południowo-zachodnim narożniku działki 1/16, w kierunku północnym wzdłuż granicy działki: 1/16 do pkt 2. Tu skręca na wschód i biegnie wzdłuż granicy działki 1/16 do pkt 3. Stąd biegnie na północ wzdłuż granicy działki 2683 do pkt 4, w którym skręca na północny wschód, i biegnie wzdłuż granic działek: 2683, 2684, 2685, 2686, 2731, 2732, 2733, 2734, 2735, 2737, 2738 i 2740 do pkt 5. Stąd biegnie początkowo na północny zachód, następnie na północny wschód i dalej na południowy wschód wzdłuż granic działek: 2739 i 2741 przez pkt: 6 i 7 do pkt 8. Tu skręca na północny wschód i dochodzi do pkt 9, z którego biegnie na północny zachód wzdłuż granic działek: 2743, 2742, 2730 i 2725/1 do pkt 10. Tu skręca na północny wschód i biegnie wzdłuż granic działek: 2725/1 i 2729/3 do pkt 11. Stąd biegnie na południowy wschód wzdłuż granic działek: 2729/3, 2729/2, 2730 i 2736 przez pkt 12 do pkt 13. Tu skręca na północny wschód i biegnie wzdłuż granic działek: 2/24 i 2/12 przez pkt 14 do pkt 15. Stąd biegnie na południowy wschód wzdłuż granicy działki 2/24 przez pkt 16 do pkt 17, a następnie załamuje się na północny wschód i wzdłuż granicy tej samej działki dochodzi do pkt 18. Tu skręca na południowy wschód i biegnie granicą działki 2/24 do pkt 19, w którym załamuje się na południowy zachód, i wzdłuż granic działek: 2/24 i 1/15 dochodzi do pkt 20. Stąd biegnie na północ wzdłuż granicy działki 1/15 do pkt 21, w którym skręca na południowy zachód, i biegnie wzdłuż granicy działki 1/16 przez pkt: 22, 23, 24, 25 i 26 do pkt 1, od którego rozpoczęto opis. Kompleks 2 Granica biegnie od pkt 1, położonego w północno-zachodnim narożniku działki 11, w kierunku północno-wschodnim wzdłuż granic działek: 11 i 12 do pkt 2. Tu skręca na południowy wschód i biegnie wzdłuż granicy działki 12 do pkt 3. Stąd biegnie na południowy zachód wzdłuż granic działek: 12 i 11 do pkt 4, w którym skręca na północ, i wzdłuż granicy działki 11 dochodzi do pkt 1, od którego rozpoczęto opis.
+
+” .
+
+### § 2.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

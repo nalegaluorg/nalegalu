@@ -8,11 +8,9 @@ pos: 477
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
-
-*USTAWA z dnia 14 marca 2014 r.*
+# Ustawa z dnia 14 marca 2014 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,22 @@ domain: null
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-14 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000477) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/477/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2014/477/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2014/477) |
 
-**Art. 1.** W ustawie z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie (Dz. U. Nr 39, poz. 440) po art. 3 dodaje się art. 3a w brzmieniu: „Art. 3a. Minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych może udzielić Akademii dotacji podmiotowej na działalność bieżącą.”.
+## Treść ustawy
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+### Art. 1.
 
+W ustawie z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie ([Dz. U. Nr 39, poz. 440](https://api.sejm.gov.pl/eli/acts/DU/2000/440/text.html)) po art. 3 dodaje się art. 3a w brzmieniu:
+
+„
+
+### Art. 3a.
+
+Minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych może udzielić Akademii dotacji podmiotowej na działalność bieżącą.
+
+” .
+
+### Art. 2.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

@@ -8,11 +8,9 @@ pos: 310
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:3)(cid:9)(cid:10)(cid:11)
-
-*USTAWA z dnia 20 lipca 1990 r.*
+# Ustawa z dnia 20 lipca 1990 r. o wliczaniu okresów pracy w indywidualnym gospodarstwie rolnym do pracowniczego stażu pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,50 @@ domain: null
 | Data ogłoszenia | 1990-07-20 |
 | Data wydania | 1990-08-17 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900540310) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/310/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1990/310/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1990/310) |
 
-**Art. 1.** (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:3)(cid:11)(cid:8)(cid:12)(cid:6)(cid:11)(cid:13)(cid:14)(cid:15)(cid:3)(cid:11)(cid:8)(cid:16)(cid:17)(cid:16)(cid:3)(cid:5)(cid:18)(cid:19)(cid:3)(cid:11)(cid:9)(cid:14)(cid:20)(cid:16)(cid:21)(cid:9)(cid:17)(cid:13)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:18)(cid:7)(cid:22)(cid:16)(cid:23)(cid:18)(cid:3)(cid:12)(cid:19)(cid:13)(cid:9)(cid:8)(cid:9)(cid:17)(cid:6)(cid:24)(cid:9)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:3)(cid:16)(cid:5)(cid:19)(cid:9)(cid:3)(cid:11)(cid:9)(cid:8)(cid:9)(cid:12)(cid:18)(cid:26)(cid:13)(cid:6)(cid:21)(cid:13)(cid:6)(cid:3)(cid:17) (cid:14)(cid:11)(cid:8)(cid:16)(cid:17)(cid:13)(cid:6)(cid:3)(cid:12)(cid:16)(cid:7)(cid:22)(cid:16)(cid:23)(cid:9)(cid:17)(cid:6)(cid:24)(cid:9)(cid:3)(cid:14)(cid:15)(cid:14)(cid:20)(cid:6)(cid:26)(cid:18)(cid:3)(cid:17)(cid:15)(cid:21)(cid:16)(cid:24)(cid:8)(cid:16)(cid:23)(cid:12)(cid:16)(cid:21)(cid:13)(cid:16)(cid:3)(cid:11)(cid:8)(cid:12)(cid:6)(cid:17)(cid:13)(cid:23)(cid:18)(cid:27)(cid:28)(cid:3)(cid:17)(cid:5)(cid:13)(cid:25)(cid:12)(cid:16)(cid:21)(cid:13)(cid:6)(cid:3)(cid:23)(cid:9)(cid:3)(cid:14)(cid:20)(cid:16)(cid:29)(cid:18)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:30)(cid:3)(cid:9)(cid:23) (cid:7)(cid:20)(cid:31)(cid:8)(cid:6)(cid:24)(cid:9)(cid:3)(cid:12)(cid:16)(cid:5)(cid:6)(cid:29)(cid:28)(cid:3)(cid:18)(cid:11)(cid:8)(cid:16)(cid:17)(cid:21)(cid:13)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:9)(cid:17)(cid:21)(cid:13)(cid:7)(cid:16)(cid:3)(cid:17)(cid:15)(cid:21)(cid:13)(cid:7)(cid:16)(cid:27)(cid:28)(cid:25)(cid:6)(cid:3)(cid:12)(cid:6)(cid:3)(cid:14)(cid:20)(cid:9)(cid:14)(cid:18)(cid:21)(cid:7)(cid:18)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:30)(cid:3)(cid:9)(cid:7)(cid:8)(cid:6)(cid:14)(cid:31)(cid:17) (cid:12)(cid:16)(cid:20)(cid:8)(cid:18)(cid:23)(cid:21)(cid:13)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:17)(cid:3)(cid:13)(cid:21)(cid:21)(cid:15)(cid:25) (cid:3)(cid:12)(cid:16)(cid:7)(cid:22)(cid:16)(cid:23)(cid:16)(cid:25) (cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:30)(cid:3)(cid:23)(cid:9)(cid:3)(cid:14)(cid:20)(cid:16)(cid:29)(cid:18)(cid:3)(cid:20)(cid:6)(cid:24)(cid:9)(cid:3)(cid:17)(cid:5)(cid:13)(cid:25)(cid:12)(cid:16)(cid:3)(cid:14)(cid:13)!(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:9)(cid:17)(cid:21)(cid:13)(cid:7)(cid:9)(cid:17)(cid:13)(cid:3)(cid:20)(cid:16)(cid:7)(cid:29)(cid:6)"
+## Treść ustawy
 
-**Art. 2.** Okresów pracy w indywidualnym gospodarstwie rolnym, o których mowa w art. 1, nie wlicza (cid:14)(cid:13)!(cid:3)(cid:9)(cid:7)(cid:8)(cid:6)(cid:14)(cid:18)(cid:3)(cid:12)(cid:16)(cid:20)(cid:8)(cid:18)(cid:23)(cid:21)(cid:13)(cid:6)(cid:21)(cid:13)(cid:16)(cid:30)(cid:3)(cid:9)(cid:23)(cid:3)(cid:7)(cid:20)(cid:31)(cid:8)(cid:6)(cid:24)(cid:9)(cid:3)(cid:12)(cid:16)(cid:5)(cid:6)(cid:29)(cid:15)(cid:3)(cid:21)(cid:16)(cid:19)(cid:15)(cid:25)(cid:13)(cid:6)(cid:3)(cid:11)(cid:8)(cid:16)(cid:17)(cid:16)(cid:3)(cid:23)(cid:9)(cid:3)(cid:18)(cid:8)(cid:5)(cid:9)(cid:11)(cid:18)(cid:3)(cid:17)(cid:15)(cid:11)(cid:9)(cid:25)(cid:12)(cid:15)(cid:21)(cid:7)(cid:9)(cid:17)(cid:6)(cid:24)(cid:9)(cid:3)(cid:5)(cid:18)(cid:19) (cid:13)(cid:21)(cid:21)(cid:6)(cid:24)(cid:9)(cid:3)*(cid:17)(cid:13)(cid:16)(cid:23)(cid:25)(cid:12)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:11)(cid:8)(cid:12)(cid:15)(cid:14)(cid:22)(cid:18)(cid:24)(cid:18)(cid:27)(cid:28)(cid:25)(cid:6)(cid:24)(cid:9)(cid:3)(cid:12)(cid:3)(cid:18)(cid:11)(cid:22)(cid:15)(cid:17)(cid:6)(cid:26)(cid:3)(cid:8)(cid:9)(cid:7)(cid:18)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:3)(cid:5)(cid:18)(cid:19)(cid:3)(cid:9)(cid:7)(cid:8)(cid:6)(cid:14)(cid:18)(cid:3)(cid:7)(cid:8)(cid:31)(cid:20)(cid:14)(cid:12)(cid:6)(cid:24)(cid:9)(cid:3)(cid:21)(cid:13)(cid:29)(cid:3)(cid:27)(cid:6)(cid:23)(cid:6)(cid:21) rok.
+### Art. 1.
 
-**Art. 3.** (cid:1)(cid:2)(cid:3),(cid:16)(cid:3)(cid:17)(cid:21)(cid:13)(cid:9)(cid:14)(cid:6)(cid:7)(cid:3)(cid:12)(cid:16)(cid:13)(cid:21)(cid:20)(cid:6)(cid:8)(cid:6)(cid:14)(cid:9)(cid:17)(cid:16)(cid:21)(cid:6)(cid:27)(cid:3)(cid:9)(cid:14)(cid:9)(cid:19)(cid:15)(cid:3)(cid:17)(cid:22)(cid:16)*(cid:25)(cid:13)(cid:17)(cid:15)(cid:3)(cid:18)(cid:8)(cid:12)(cid:28)(cid:23)(cid:3)(cid:24)(cid:26)(cid:13)(cid:21)(cid:15)(cid:3)(cid:27)(cid:6)(cid:14)(cid:20)(cid:3)(cid:9)(cid:19)(cid:9)(cid:17)(cid:13)(cid:28)(cid:12)(cid:16)(cid:21)(cid:15)(cid:3)(cid:14)(cid:20)(cid:17)(cid:13)(cid:6)(cid:8)(cid:23)(cid:12)(cid:13)(cid:10)(cid:30) (cid:12)(cid:24)(cid:9)(cid:23)(cid:21)(cid:13)(cid:6)(cid:3)(cid:12)(cid:3)(cid:16)(cid:8)(cid:20)(cid:2)(cid:3)(cid:1)(cid:30)(cid:3)(cid:9)(cid:7)(cid:8)(cid:6)(cid:14)(cid:15)(cid:3)(cid:27)(cid:6)(cid:27)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:3)(cid:17)(cid:3)(cid:13)(cid:21)(cid:23)(cid:15)(cid:17)(cid:13)(cid:23)(cid:18)(cid:16)(cid:5)(cid:21)(cid:15)(cid:26)(cid:3)(cid:24)(cid:9)(cid:14)(cid:11)(cid:9)(cid:23)(cid:16)(cid:8)(cid:14)(cid:20)(cid:17)(cid:13)(cid:6)(cid:3)(cid:8)(cid:9)(cid:5)(cid:21)(cid:15)(cid:26)(cid:30)(cid:3)(cid:17)(cid:15)(cid:23)(cid:16)(cid:27)(cid:28)(cid:25) (cid:14)(cid:20)(cid:9)(cid:14)(cid:9)(cid:17)(cid:21)(cid:6)(cid:3)(cid:12)(cid:16)*(cid:17)(cid:13)(cid:16)(cid:23)(cid:25)(cid:12)(cid:6)(cid:21)(cid:13)(cid:6)(cid:3)(cid:17)(cid:3)(cid:25)(cid:6)(cid:5)(cid:18)(cid:3)(cid:11)(cid:8)(cid:12)(cid:6)(cid:23)(cid:22)(cid:9)(cid:29)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:17)(cid:3)(cid:12)(cid:16)(cid:7)(cid:22)(cid:16)(cid:23)(cid:12)(cid:13)(cid:6)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:2) #(cid:2)(cid:3)-(cid:6)(cid:29)(cid:6)(cid:5)(cid:13)(cid:3)(cid:9)(cid:8)(cid:24)(cid:16)(cid:21)(cid:30)(cid:3)(cid:9)(cid:3)(cid:7)(cid:20)(cid:31)(cid:8)(cid:15)(cid:26)(cid:3)(cid:26)(cid:9)(cid:17)(cid:16)(cid:3)(cid:17)(cid:3)(cid:18)(cid:14)(cid:20)(cid:2)(cid:3)(cid:1)(cid:30)(cid:3)(cid:21)(cid:13)(cid:6)(cid:3)(cid:23)(cid:15)(cid:14)(cid:11)(cid:9)(cid:21)(cid:18)(cid:27)(cid:6)(cid:3)(cid:23)(cid:9)(cid:7)(cid:18)(cid:26)(cid:6)(cid:21)(cid:20)(cid:16)(cid:26)(cid:13)(cid:3)(cid:18)(cid:12)(cid:16)(cid:14)(cid:16)(cid:23)(cid:21)(cid:13)(cid:16)(cid:27)(cid:28)(cid:25)(cid:15)(cid:26)(cid:13) (cid:17)(cid:15)(cid:23)(cid:16)(cid:21)(cid:13)(cid:6)(cid:3)(cid:12)(cid:16)*(cid:17)(cid:13)(cid:16)(cid:23)(cid:25)(cid:12)(cid:6)(cid:21)(cid:13)(cid:16)(cid:3)(cid:9)(cid:3)(cid:11)(cid:8)(cid:16)(cid:25)(cid:15)(cid:3)(cid:12)(cid:16)(cid:13)(cid:21)(cid:20)(cid:6)(cid:8)(cid:6)(cid:14)(cid:9)(cid:17)(cid:16)(cid:21)(cid:6)(cid:27)(cid:3)(cid:9)(cid:14)(cid:9)(cid:19)(cid:15)(cid:3)(cid:17)(cid:3)(cid:13)(cid:21)(cid:23)(cid:15)(cid:17)(cid:13)(cid:23)(cid:18)(cid:16)(cid:5)(cid:21)(cid:15)(cid:26)(cid:3)(cid:24)(cid:9)(cid:14)(cid:11)(cid:9)(cid:23)(cid:16)(cid:8)(cid:14)(cid:20)(cid:17)(cid:13)(cid:6) (cid:8)(cid:9)(cid:5)(cid:21)(cid:15)(cid:26)(cid:30)(cid:3)(cid:12)(cid:16)(cid:17)(cid:13)(cid:16)(cid:23)(cid:16)(cid:26)(cid:13)(cid:16)(cid:3)(cid:27)(cid:28)(cid:3)(cid:9)(cid:3)(cid:20)(cid:6)(cid:27)(cid:3)(cid:9)(cid:7)(cid:9)(cid:5)(cid:13)(cid:25)(cid:12)(cid:21)(cid:9)*(cid:25)(cid:13)(cid:3)(cid:21)(cid:16)(cid:3)(cid:11)(cid:13)*(cid:26)(cid:13)(cid:6)(cid:2) 3. W wypadku, o którym mowa w ust. 2, okresy pracy w indywidualnym gospodarstwie (cid:8)(cid:9)(cid:5)(cid:21)(cid:15)(cid:26)(cid:3)(cid:26)(cid:9)(cid:24)(cid:28)(cid:3)(cid:19)(cid:15)(cid:10)(cid:3)(cid:18)(cid:23)(cid:9)(cid:17)(cid:9)(cid:23)(cid:21)(cid:13)(cid:9)(cid:21)(cid:6)(cid:3)(cid:12)(cid:6)(cid:12)(cid:21)(cid:16)(cid:21)(cid:13)(cid:6)(cid:26)(cid:3)(cid:25)(cid:9)(cid:3)(cid:21)(cid:16)(cid:27)(cid:26)(cid:21)(cid:13)(cid:6)(cid:27)(cid:3)(cid:23)(cid:17)(cid:31)(cid:25) (cid:3)*(cid:17)(cid:13)(cid:16)(cid:23)(cid:7)(cid:31)(cid:17) (cid:12)(cid:16)(cid:26)(cid:13)(cid:6)(cid:14)(cid:12)(cid:7)(cid:18)(cid:27)(cid:28)(cid:25)(cid:15)(cid:25) (cid:3)(cid:17)(cid:3)(cid:20)(cid:15)(cid:26)(cid:3)(cid:25)(cid:12)(cid:16)(cid:14)(cid:13)(cid:6)(cid:3)(cid:21)(cid:16)(cid:3)(cid:20)(cid:6)(cid:8)(cid:6)(cid:21)(cid:13)(cid:6)(cid:30)(cid:3)(cid:21)(cid:16)(cid:3)(cid:7)(cid:20)(cid:31)(cid:8)(cid:15)(cid:26)(cid:3)(cid:27)(cid:6)(cid:14)(cid:20)(cid:3)(cid:11)(cid:9)(cid:22)(cid:9)(cid:29)(cid:9)(cid:21)(cid:6)(cid:3)(cid:20)(cid:9)(cid:3)(cid:24)(cid:9)(cid:14)(cid:11)(cid:9)(cid:23)(cid:16)(cid:8)(cid:14)(cid:20)(cid:17)(cid:9)(cid:3)(cid:8)(cid:9)(cid:5)(cid:21)(cid:6)(cid:2)
+### 1.
 
-**Art. 4.** .(cid:14)(cid:20)(cid:16)(cid:17)(cid:16)(cid:3)(cid:17)(cid:25) (cid:9)(cid:23)(cid:12)(cid:13)(cid:3)(cid:17)(cid:3)(cid:29)(cid:15)(cid:25)(cid:13)(cid:6)(cid:3)(cid:12)(cid:3)(cid:23)(cid:21)(cid:13)(cid:6)(cid:26)(cid:3)(cid:1)(cid:3)(cid:14)(cid:20)(cid:15)(cid:25)(cid:12)(cid:21)(cid:13)(cid:16)(cid:3)(cid:1)%%(cid:1)(cid:3)(cid:8)(cid:2)
+Ilekroć przepisy prawa lub postanowienia układu zbiorowego pracy albo porozumienia w sprawie zakładowego systemu wynagradzania przewidują wliczanie do stażu pracy, od którego zależą uprawnienia pracownika wynikające ze stosunku pracy, okresów zatrudnienia w innych zakładach pracy, do stażu tego wlicza się pracownikowi także:
 
+### 1)
+
+okresy prowadzenia indywidualnego gospodarstwa rolnego lub pracy w takim gospodarstwie, prowadzonym przez współmałżonka,
+
+### 2)
+
+przypadające przed dniem 1 stycznia 1983 r. okresy pracy po ukończeniu 16 roku życia w gospodarstwie rolnym prowadzonym przez rodziców lub teściów, poprzedzające objęcie tego gospodarstwa i rozpoczęcie jego prowadzenia osobiście lub wraz ze współmałżonkiem,
+
+### 3)
+
+przypadające po dniu 31 grudnia 1982 r. okresy pracy w indywidualnym gospodarstwie rolnym w charakterze domownika w rozumieniu przepisów o ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin.
+
+### 2.
+
+Przepisu ust. 1 nie stosuje się, jeżeli w myśl danego przepisu lub postanowienia do stażu pracy wlicza się tylko okresy zatrudnienia w danym zakładzie pracy, w określonej branży albo okresy pracy na określonych stanowiskach lub pracy wykonywanej w szczególnych warunkach.
+
+### Art. 2.
+
+Okresów pracy w indywidualnym gospodarstwie rolnym, o których mowa w art. 1, nie wlicza się do okresu zatrudnienia, od którego zależy nabycie prawa do urlopu wypoczynkowego lub innego świadczenia przysługującego z upływem roku pracy lub okresu krótszego niż jeden rok.
+
+### Art. 3.
+
+### 1.
+
+Na wniosek zainteresowanej osoby właściwy urząd gminy jest obowiązany stwierdzić, zgodnie z art. 1, okresy jej pracy w indywidualnym gospodarstwie rolnym, wydając stosowne zaświadczenie w celu przedłożenia w zakładzie pracy.
+
+### 2.
+
+Jeżeli organ, o którym mowa w ust. 1, nie dysponuje dokumentami uzasadniającymi wydanie zaświadczenia o pracy zainteresowanej osoby w indywidualnym gospodarstwie rolnym, zawiadamia ją o tej okoliczności na piśmie.
+
+### 3.
+
+W wypadku, o którym mowa w ust. 2, okresy pracy w indywidualnym gospodarstwie rolnym mogą być udowodnione zeznaniami co najmniej dwóch świadków zamieszkujących w tym czasie na terenie, na którym jest położone to gospodarstwo rolne.
+
+### Art. 4.
+
+Ustawa wchodzi w życie z dniem 1 stycznia 1991 r.

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo pracy**.
 
-Łącznie: **49** aktów
+Łącznie: **51** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -29,6 +29,7 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20102491655](WDU20102491655/index.md) | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy - Kodeks pracy | Ustawa | obowiązujący |  |
 | [WDU20102241459](WDU20102241459/index.md) | Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący | [tak](WDU20102241459/orzecznictwo.md) |
 | [WDU20090990825](WDU20090990825/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy - Kodeks pracy oraz o zmiani | Ustawa | obowiązujący |  |
+| [WDU20081390876](WDU20081390876/index.md) | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o społeczno-zawodowych or | Ustawa | obowiązujący |  |
 | [WDU20080930586](WDU20080930586/index.md) | Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę - Kodeks pracy oraz ustawę  | Ustawa | obowiązujący |  |
 | [WDU20080860523](WDU20080860523/index.md) | Ustawa z dnia 28 marca 2008 r. zmieniająca ustawę o zmianie ustawy - Kodeks | Ustawa | obowiązujący |  |
 | [WDU20082371654](WDU20082371654/index.md) | Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący | [tak](WDU20082371654/orzecznictwo.md) |
@@ -52,8 +53,9 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19950160077](WDU19950160077/index.md) | Ustawa z dnia 3 lutego 1995 r. o zmianie ustawy o świadczeniach pieniężnych | Ustawa | obowiązujący | [tak](WDU19950160077/orzecznictwo.md) |
 | [WDU19941130547](WDU19941130547/index.md) | Ustawa z dnia 29 września 1994 r. o zmianie ustawy - Kodeks pracy oraz o zm | Ustawa | obowiązujący | [tak](WDU19941130547/orzecznictwo.md) |
 | [WDU19910550234](WDU19910550234/index.md) | Ustawa z dnia 23 maja 1991 r. o związkach zawodowych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910550234/orzecznictwo.md) |
+| [WDU19890200107](WDU19890200107/index.md) | Ustawa z dnia 7 kwietnia 1989 r. o zmianie ustawy - Kodeks pracy oraz o zmi | Ustawa | obowiązujący |  |
 | [WDU19890200106](WDU19890200106/index.md) | Ustawa z dnia 7 kwietnia 1989 r. o związkach zawodowych rolników indywidual | Ustawa | akt posiada tekst jednolity | [tak](WDU19890200106/orzecznictwo.md) |
 | [WDU19740240142](WDU19740240142/index.md) | Ustawa z dnia 26 czerwca 1974 r. - Przepisy wprowadzające Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU19740240142/orzecznictwo.md) |
 | [WDU19740240141](WDU19740240141/index.md) | Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19740240141/orzecznictwo.md) |
 
-*49 aktów • [← Powrót do spisu głównego](../README.md)*
+*51 aktów • [← Powrót do spisu głównego](../README.md)*

@@ -8,11 +8,9 @@ pos: 707
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw
-
-*USTAWA z dnia 25 maja 2012 r.*
+# Ustawa z dnia 25 maja 2012 r. o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz niektórych innych ustaw [1) Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Rady (WE) nr 428/2009 z dnia 5 maja 2009 r. ustanawiające wspólnotowy system kontroli wywozu, transferu, pośrednictwa i tranzytu w odniesieniu do produktów podwójnego zastosowania (Dz. Urz. UE L 134 z 29.05.2009, str. 1) i postanowienia wspólnego stanowiska Rady 2008/944/WPZiB z dnia 8 grudnia 2008 r. określające wspólne zasady kontroli wywozu technologii wojskowych i sprzętu wojskowego (Dz. Urz. UE L 335 z 13.12.2008, str. 99) oraz wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1).](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,392 +22,1812 @@ domain: null
 | Data ogłoszenia | 2012-05-25 |
 | Data wydania | 2012-06-22 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/707/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2012/707/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2012/707) |
 
-**Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315 oraz z 2009 r. Nr 18, poz. 97) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 6b.** Rada Ministrów określi, w drodze rozporządzenia, listę krajów, z którymi obrót określonymi towarami o znaczeniu strategicznym jest zakazany lub ograniczony, uwzględniając bezpieczeństwo publiczne oraz prawa człowieka, a w przypadku uzbrojenia również potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej oraz zobowiązania Rzeczypospolitej Polskiej wynikające z umów i porozumień międzynarodowych oraz ze zobowiązań sojuszniczych, w tym porozumień, o których mowa w art. 16 ust. 1 pkt 2 lit. b i c.
+[2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej.](#gloss-0:2:)
 
-**Art. 6c.** Przywóz lub transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania nie wymaga uzyskania zezwolenia.”;
+### Art. 1.
 
-**Art. 8.**
+W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ([Dz. U. z 2004 r. Nr 229, poz. 2315](https://api.sejm.gov.pl/eli/acts/DU/2004/2315/text.html) oraz z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html)) wprowadza się następujące zmiany:
 
-1. W zakresie, w którym zostało udzielone krajowe zezwolenie generalne na obrót towarami o znaczeniu strategicznym nie jest wymagane zezwolenie indywidualne lub zezwolenie globalne.
+### 1)
 
-2. Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, przypadki, a w szczególności kraje, podmioty oraz towary o znaczeniu strategicznym, w odniesieniu do których udziela krajowego zezwolenia generalnego, oraz szczegółowe warunki, na jakich dokonywany może być obrót objęty krajowym zezwoleniem generalnym, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa obrotu towarami o znaczeniu strategicznym.
+uchyla się art. 1a;
 
-3. Prowadzenie obrotu na podstawie krajowego zezwolenia generalnego wymaga złożenia oświadczenia o terminie jego rozpoczęcia. Oświadczenie należy złożyć organowi kontroli obrotu co najmniej na miesiąc przed rozpoczęciem obrotu.
+### 2)
 
-**Art. 9.**
+art. 2 otrzymuje brzmienie:
 
-1. Zezwolenie indywidualne lub zezwolenie globalne wydaje organ kontroli obrotu na wniosek podmiotu zamieszkującego albo posiadającego siedzibę na terytorium Rzeczypospolitej Polskiej, zwany dalej „wnioskiem o zezwolenie”.
+„
 
-2. Wniosek o zezwolenie zawiera:
+### Art. 2.
 
-- **1)** oznaczenie wnioskodawcy w tym jego nazwę, adres siedziby albo adres zamieszkania na terytorium Rzeczypospolitej Polskiej;
-- **2)** numer identyfikacji podatkowej (NIP);
-- **3)** określenie rodzaju i zakresu wykonywanej przez wnioskodawcę działalności gospodarczej, jeżeli jest przedsiębiorcą;
-- **4)** oznaczenie podmiotów będących partnerami handlowymi wnioskodawcy przy realizacji wnioskowanego obrotu, w tym ich nazwy, adresy siedzib albo adresy zamieszkania, oraz ich roli w tym obrocie;
-- **5)** określenie towarów o znaczeniu strategicznym będących przedmiotem obrotu, w tym ich wartość, ilość oraz numer kontrolny, określony w wykazie określonym w przepisach wydanych na podstawie art. 6a ust. 3 lub w załącznikach do rozporządzenia nr 428/2009;
-- **6)** oznaczenie producenta towarów o znaczeniu strategicznym, które będą przedmiotem obrotu oraz końcowych użytkowników, w tym ich nazw i adresów;
-- **7)** informację o sposobie wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika;
-- **8)** określenie kraju końcowego przeznaczenia;
-- **9)** w przypadku wywozu lub transferu wewnątrzunijnego – oświadczenie, że wnioskodawca podejmie niezbędne działania, aby towary o znaczeniu strategicznym, które będą przedmiotem obrotu, dotarły do końcowego użytkownika;
-- **10)** numer poświadczenia oświadczenia końcowego użytkownika wydanego przez organ kontroli obrotu, jeśli importer lub końcowy użytkownik zobowiązał się do uzyskania uprzedniej zgody właściwego zagranicznego organu na określone dysponowanie towarem o znaczeniu strategicznym będącym przedmiotem wniosku lub jego częścią składową.
+Obrót z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa jest dozwolony na zasadach określonych w rozporządzeniu Rady (WE) nr 428/2009 z dnia 5 maja 2009 r. ustanawiającym wspólnotowy system kontroli wywozu, transferu, pośrednictwa i tranzytu w odniesieniu do produktów podwójnego zastosowania ([Dz. Urz. UE L 134 z 29.05.2009, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanym dalej „rozporządzeniem nr 428/2009”, ustawach oraz umowach i innych zobowiązaniach międzynarodowych.
 
-3. Wniosek o zezwolenie na wywóz zawiera także oznaczenie:
+” ;
 
-- **1)** kraju pochodzenia towaru o znaczeniu strategicznym;
-- **2)** państwa członkowskiego Unii Europejskiej, w którym znajduje się lub będzie umiejscowiony produkt podwójnego zastosowania;
-- **3)** państwa członkowskiego Unii Europejskiej, w którym zostanie nadane przeznaczenie celne produktowi podwójnego zastosowania.
+### 3)
 
-4. Wniosek o zezwolenie na usługi pośrednictwa zawiera także:
+w art. 3:
 
-- **1)** określenie usługi pośrednictwa;
-- **2)** informację o umiejscowieniu towaru o znaczeniu strategicznym w kraju trzecim.
+### a)
 
-5. Wniosek o zezwolenie na pomoc techniczną zawiera dodatkowo określenie rodzaju pomocy technicznej.
+pkt 1-3 otrzymują brzmienie:
 
-6. Do wniosku o zezwolenie na obrót towarami o znaczeniu strategicznym wnioskodawca jest obowiązany dołączyć:
+„
 
-- **1)** oświadczenie o posiadaniu koncesji lub zezwoleń uprawniających do posiadania towaru o znaczeniu strategicznym lub prowadzenia działalności związanej z wnioskowanym obrotem, jeżeli posiadanie takich koncesji lub zezwoleń jest wymagane na podstawie przepisów innych ustaw, wraz z dokładnymi cechami identyfikacyjnymi tych dokumentów;
-- **2)** projekt umowy lub umowę dotyczącą obrotu, jeśli taka umowa jest wymagana w odniesieniu do danego obrotu albo list intencyjny lub zapytanie ofertowe;
-- **3)** kopię certyfikatu, o którym mowa w art. 11 ust. 5, w przypadku gdy jego posiadanie jest wymagane;
-- **4)** certyfikat importowy lub oświadczenie końcowego użytkownika w przypadku wywozu lub transferu wewnątrzunijnego; nie dotyczy to przypadków, gdy krajem końcowego przeznaczenia towaru jest Rzeczpospolita Polska;
-- **5)** zgodę właściwego zagranicznego organu na określone dysponowanie towarem, w przypadku gdy importer lub końcowy użytkownik zobowiązał się do uzyskania takiej zgody albo oświadczenie, że wnioskodawca nie posiada wiedzy w zakresie zobowiązania, o którym mowa w ust. 2 pkt 10.
+### 1)
 
-7. Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski sporządzone przez tłumacza przysięgłego.
+produkty podwójnego zastosowania - produkty podwójnego zastosowania w rozumieniu art. 2 pkt 1 rozporządzenia nr 428/2009;
 
-8. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+### 2)
 
-- **1)** wzory wniosków o zezwolenie na wywóz, transfer wewnątrzunijny, na usługę pośrednictwa i na pomoc techniczną w zakresie towarów o znaczeniu strategicznym, a także na przywóz i tranzyt uzbrojenia, oraz wzory wniosków o wydanie certyfikatu importowego i poświadczenia oświadczenia końcowego użytkownika,
-- **2)** wzory zezwoleń indywidualnych i zezwoleń globalnych na wywóz, na usługę pośrednictwa, na przywóz i na tranzyt uzbrojenia oraz na pomoc techniczną i na transfer wewnątrzunijny w zakresie towarów o znaczeniu strategicznym – mając na uwadze rodzaje towarów oraz formy obrotu.
+uzbrojenie - broń, amunicję, materiały wybuchowe, wyroby, ich części i technologie, wskazane w wykazie określonym w przepisach wydanych na podstawie art. 6a ust. 3;
 
-**Art. 10.**
+### 3)
 
-1. Organ kontroli obrotu, na wniosek podmiotu, udziela wiążącego wyjaśnienia w sprawie konieczności uzyskania zezwolenia na określony obrót towarami o znaczeniu strategicznym w terminie 3 miesięcy od dnia złożenia wniosku. W uzasadnionych przypadkach termin ten może zostać przedłużony do 6 miesięcy.
+towary o znaczeniu strategicznym - towary o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa, będące produktami podwójnego zastosowania lub uzbrojeniem;
 
-2. Przed udzieleniem wyjaśnienia, o którym mowa w ust. 1, organ kontroli obrotu może wystąpić do organów opiniujących o zajęcie stanowiska. Do stanowiska organów opiniujących stosuje się odpowiednio art. 12 ust. 2 i art. 12a.
+” ,
 
-3. Organ kontroli obrotu może zażądać od wnioskodawcy przekazania dodatkowych wyjaśnień lub dokumentów w celu wyjaśnienia okoliczności związanych z przedmiotem wniosku.
+### b)
 
-**Art. 11.**
+pkt 4b-5a otrzymują brzmienie:
 
-1. Przedsiębiorca wnioskujący o zezwolenie na obrót uzbrojeniem lub korzystający z krajowego zezwolenia generalnego na obrót uzbrojeniem jest obowiązany utworzyć i stosować wewnętrzny system kontroli i zarządzania obrotem uzbrojeniem, zwany dalej „wewnętrznym systemem kontroli”.
+„
 
-2. W ramach wewnętrznego systemu kontroli należy określić w szczególności zadania organów przedsiębiorstwa, podstawowe zadania na stanowiskach pracy w zakresie kontroli i zarządzania obrotem, zasady doboru pracowników, archiwizacji danych, kontroli wewnętrznej, realizacji zamówień oraz szkolenia.
+### 4b)
 
-3. Wewnętrzny system kontroli podlega certyfikacji zgodności z wymaganiami międzynarodowych norm ISO 9000 i wymaganiami określonymi w ust. 2.
+obszar celny Unii Europejskiej - obszar celny w rozumieniu art. 3 Wspólnotowego Kodeksu Celnego;
 
-4. Certyfikację, o której mowa w ust. 3, przeprowadzają upoważnione jednostki kontrolujące posiadające akredytację w ramach krajowego systemu akredytacji utworzonego na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2010 r. Nr 138, poz. 935 oraz z 2011 r. Nr 102, poz. 586 i Nr 227, poz. 1367).
+### 4c)
 
-5. Certyfikat zgodności stwierdzający zgodność funkcjonowania wewnętrznego systemu kontroli z wymaganiami określonymi w ust. 2, wydają upoważnione jednostki, o których mowa w ust. 4.
+kraj trzeci - państwo, którego terytorium znajduje się poza obszarem celnym Unii Europejskiej;
 
-6. Certyfikat zgodności jest ważny przez okres 3 lat.
+### 5)
 
-7. W okresie ważności certyfikatu zgodności upoważnione jednostki, o których mowa w ust. 4, przeprowadzają w siedzibie przedsiębiorcy 3 kontrole zgodności funkcjonowania wewnętrznego systemu kontroli z wymaganiami określonymi w ust. 2.
+wywóz - wywóz w rozumieniu art. 2 pkt 2 rozporządzenia nr 428/2009;
 
-8. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wykaz jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli, spośród jednostek akredytowanych w krajowym systemie akredytacji, mając na uwadze zapewnienie jednolitości wewnętrznych systemów kontroli przedsiębiorców.
+### 5a)
 
-**Art. 12.**
+usługa pośrednictwa - usługę pośrednictwa w rozumieniu art. 2 pkt 5 rozporządzenia nr 428/2009 lub - w przypadku uzbrojenia - działania dotyczące przemieszczania uzbrojenia pomiędzy dwoma państwami, przy czym żadnym z tych państw nie jest Rzeczpospolita Polska, polegające na:
 
-1. Wydanie zezwolenia indywidualnego lub zezwolenia globalnego następuje w drodze decyzji administracyjnej.
+### a)
 
-2. Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego występuje, w formie pisemnej lub za pośrednictwem systemu elektronicznego, do organów opiniujących o zajęcie stanowiska co do istnienia przeciwwskazań do wydania takiego zezwolenia. O wystąpieniu do organów opiniujących organ kontroli obrotu informuje wnioskodawcę.
+negocjowaniu, doradztwie handlowym oraz pomocy w zawieraniu umów,
 
-3. Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego może zażądać od wnioskodawcy informacji umożliwiających weryfikację danych zawartych we wniosku o zezwolenie.
+### b)
 
-4. Wnioskodawca jest obowiązany zgłaszać organowi kontroli obrotu wszelkie zmiany dotyczące danych zawartych we wniosku, w terminie 14 dni od dnia ich powstania.”;
+uczestnictwie, w jakiejkolwiek formie, w czynnościach związanych z wywozem, przywozem, tranzytem lub zawarciem umowy leasingu, darowizny, pożyczki, użyczenia oraz wniesieniem aportu do spółki,
 
-- **7)** po art. 12 dodaje się art. 12a i art. 12b w brzmieniu: „Art. 12a. 1. Stanowisko, o którym mowa w art. 12 ust. 2, organy opiniujące przekazują organowi kontroli obrotu, w formie pisemnej lub za pośrednictwem systemu elektronicznego pozwalającego na identyfikację osoby upoważnionej do wydania takiego stanowiska, w terminie 14 dni od dnia wystąpienia o to stanowisko przez organ kontroli obrotu.
+### c)
 
-2. Jeżeli szczególny charakter sprawy będącej przedmiotem stanowiska, o którym mowa w art. 12 ust. 2, nie pozwala na jego wydanie przez organy opiniujące w terminie określonym w ust. 1, stosuje się odpowiednio przepisy art. 36–38 Kodeksu postępowania administracyjnego.
+zakupie, sprzedaży lub transferze;
 
-3. Terminu na zajęcie przez organy opiniujące stanowiska, o którym mowa w art. 12 ust. 2, nie wlicza się do terminu na wydanie decyzji w sprawie wydania zezwolenia indywidualnego lub zezwolenia globalnego.
+” ,
 
-4. Organy opiniujące, przygotowując stanowisko, o którym mowa w art. 12 ust. 2, uwzględniają przesłanki odmowy, zmiany lub cofnięcia zezwolenia, o których mowa w art. 15, art. 16 ust. 1 i 2 oraz art. 17 ust. 1 pkt 3.
+### c)
 
-5. Przepis art. 12 ust. 3 stosuje się odpowiednio do organów opiniujących.
+pkt 6 i 7 otrzymują brzmienie:
 
-6. Stanowisko organów opiniujących nie wymaga formy postanowienia i nie podlega zaskarżeniu.
+„
 
-**Art. 12b.** Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego ustala, czy w ciągu ostatnich 3 lat właściwy organ innego państwa lub państw członkowskich Unii Europejskiej odmówił wydania zezwolenia na obrót towarem o znaczeniu strategicznym o zasadniczo identycznych parametrach oraz do tego samego końcowego użytkownika lub odbiorcy co we wniosku o zezwolenie. W takim przypadku organ kontroli obrotu konsultuje się z właściwym organem państwa członkowskiego Unii Europejskiej, który odmówił wydania takiego zezwolenia, a jeżeli organ kontroli obrotu wyda zezwolenie – informuje o tym ten organ, dołączając szczegółowe uzasadnienie swojej decyzji.”;
+### 6)
 
-**Art. 16.**
+przywóz - wprowadzenie towaru o znaczeniu strategicznym na terytorium Rzeczypospolitej Polskiej z kraju trzeciego;
 
-1. Organ kontroli obrotu odmawia, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót uzbrojeniem, jeżeli:
+### 7)
 
-- **1)** wymagają tego potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej;
-- **2)** jego udzielenie byłoby niezgodne z międzynarodowymi zobowiązaniami Rzeczypospolitej Polskiej, wynikającymi z umów i porozumień międzynarodowych, a w szczególności z międzynarodowymi zobowiązaniami:
-    - **a)** do wprowadzania embarga na broń lub sankcji nałożonych przez Organizację Narodów Zjednoczonych, Unię Europejską oraz Organizację Bezpieczeństwa i Współpracy w Europie,
-    - **b)** w ramach Układu o nierozprzestrzenianiu broni jądrowej, sporządzonego w Moskwie, Waszyngtonie i Londynie dnia 1 lipca 1968 r. (Dz. U. z 1970 r. Nr 8, poz.
+tranzyt - tranzyt w rozumieniu art. 2 pkt 7 rozporządzenia 428/2009 lub - w przypadku uzbrojenia - przemieszczanie pomiędzy państwem członkowskim Unii Europejskiej, z wyłączeniem Rzeczypospolitej Polskiej, i krajem trzecim lub pomiędzy krajami trzecimi, przez terytorium Rzeczypospolitej Polskiej;
 
-- **60)** , Konwencji o zakazie prowadzenia badań, produkcji i gromadzenia zapasów broni bakteriologicznej (biologicznej) i toksycznej oraz o ich zniszczeniu, sporządzonej w Moskwie, Londynie i Waszyngtonie dnia 10 kwietnia 1972 r. (Dz. U. z 1976 r. Nr 1, poz. 1) oraz Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów, sporządzonej w Paryżu dnia 13 stycznia 1993 r. (Dz. U. z 1999 r. Nr 63, poz. 703),
-    - **c)** w ramach Grupy Australijskiej, Reżimu Kontroli Technologii Rakietowych, Komitetu Zanggera, Grupy Dostawców Jądrowych, Porozumienia z Wassenaar i Haskiego kodeksu postępowania przeciwko proliferacji rakiet balistycznych;
+” ,
 
-- **3)** istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby zostać użyte do:
-    - **a)** represji wewnętrznych,
-    - **b)** działań stanowiących naruszenie międzynarodowego prawa humanitarnego;
+### d)
 
-- **4)** istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby zostać użyte w celu wywołania lub przedłużenia konfliktu zbrojnego lub zaostrzenia istniejących napięć lub konfliktów w państwie końcowego użytkownika;
-- **5)** istnieje ryzyko, że przeznaczone do wywozu uzbrojenie będzie używane przez państwo zagranicznego odbiorcy przeciwko innemu państwu, w szczególności gdy istnieje konflikt zbrojny między państwem zagranicznego odbiorcy a innym państwem lub istnieje prawdopodobieństwo zaistnienia takiego konfliktu, lub państwo zagranicznego odbiorcy ma roszczenia terytorialne przeciwko innemu państwu, które w przeszłości próbowało zrealizować lub groziło ich zrealizowaniem za pomocą siły;
-- **6)** podmiot nie daje rękojmi zgodnego z prawem prowadzenia obrotu;
-- **7)** istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby być w całości lub w części wykorzystane do nielegalnej lub sprzecznej z interesem Rzeczypospolitej Polskiej produkcji, eksploatacji, obsługi, konserwacji, przechowywania lub identyfikacji uzbrojenia.
+po pkt 7 dodaje się pkt 7a w brzmieniu:
 
-2. Organ kontroli obrotu może odmówić, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót uzbrojeniem, jeżeli:
+„
 
-- **1)** jego udzielenie miałoby negatywny wpływ na:
-    - **a)** interesy związane z obroną i bezpieczeństwem Rzeczypospolitej Polskiej, innych państw członkowskich Unii Europejskiej oraz państw sojuszniczych i sprzymierzonych,
-    - **b)** poszanowanie praw człowieka,
-    - **c)** pokój, bezpieczeństwo i stabilność w regionie;
+### 7a)
 
-- **2)** istnieje ryzyko, że przeznaczone do wywozu uzbrojenie zostanie użyte przeciwko siłom zbrojnym państw członkowskich Unii Europejskiej oraz państw sojuszniczych i sprzymierzonych;
-- **3)** państwo końcowego użytkownika:
-    - **a)** popiera terroryzm lub międzynarodową przestępczość zorganizowaną,
-    - **b)** nie przestrzega międzynarodowych zobowiązań, w szczególności dotyczących niestosowania siły oraz międzynarodowego prawa humanitarnego,
-    - **c)** nie jest zaangażowane w sprawy nierozprzestrzeniania broni jądrowej oraz kontroli zbrojeń i rozbrojenia, w szczególności nie podpisało, nie ratyfikowało lub nie wprowadziło w życie Układu o nierozprzestrzenianiu broni jądrowej i konwencji, o których mowa w ust. 1 pkt 1 lit. b;
+transfer wewnątrzunijny - przekazanie lub przemieszczenie towaru o znaczeniu strategicznym od podmiotu w jednym państwie członkowskim do podmiotu w innym państwie członkowskim bez opuszczania obszaru celnego Unii Europejskiej;
 
-- **4)** istnieje ryzyko, że nastąpi zmiana końcowego użytkownika i końcowego przeznaczenia lub ponownego wywozu uzbrojenia na niepożądanych warunkach;
-- **5)** przeznaczone do wywozu uzbrojenie nie odpowiada technicznym i ekonomicznym możliwościom państwa odbiorcy;
-- **6)** podmiot naruszył przepisy dotyczące obrotu towarami o znaczeniu strategicznym.
+” ,
 
-3. Organ kontroli obrotu informuje właściwe organy państw członkowskich Unii Europejskiej o odmowie wydania zezwolenia na obrót uzbrojeniem z przyczyn określonych w ust. 1 i 2, dołączając uzasadnienie odmowy jego wydania.
+### e)
 
-**Art. 17.**
+pkt 8 otrzymuje brzmienie:
 
-1. Organ kontroli obrotu może, w drodze decyzji administracyjnej, cofnąć lub zmienić zezwolenie indywidualne lub zezwolenie globalne, jeżeli:
+„
 
-- **1)** zaistnieją przesłanki, o których mowa w art. 15 i art. 16 ust. 1 i 2;
-- **2)** podmiot dokonuje obrotu wbrew warunkom określonym w zezwoleniu indywidualnym lub zezwoleniu globalnym;
-- **3)** podmiot utracił rękojmię zgodnego z prawem prowadzenia obrotu.
+### 8)
 
-2. Przed wydaniem decyzji w sprawie cofnięcia lub zmiany zezwolenia indywidualnego lub zezwolenia globalnego organ kontroli obrotu może wystąpić do organów opiniujących o zajęcie stanowiska. Do stanowiska stosuje się odpowiednio art. 12 ust. 2 i art.
+obrót:
 
-12a.
+### a)
 
-3. Cofnięcie lub zmiana zezwolenia indywidualnego lub zezwolenia globalnego z przyczyn leżących po stronie podmiotu następuje bez odszkodowania.”;
+wywóz,
 
-- **11)** po art. 17 dodaje się art. 17a w brzmieniu: „Art. 17a. 1. Organ kontroli obrotu jest organem właściwym w zakresie:
-- **1)** wykonywania obowiązków informacyjnych określonych w art. 4 ust. 1–3 i 6, art. 5 ust. 1, art. 8 ust. 2 i 3, art. 9 ust. 4 lit. b i c i ust. 6, art. 11 ust. 2, art. 13, art. 17 ust. 2 i art. 25 rozporządzenia nr 428/2009;
-- **2)** rozstrzygania o konieczności uzyskania zezwolenia na wywóz produktów podwójnego zastosowania niewymienionych w załączniku I do rozporządzenia nr 428/2009 w przypadku, o którym mowa w art. 4 ust. 4 rozporządzenia nr 428/2009;
-- **3)** wydawania zakazu tranzytu w przypadku, o którym mowa w art. 6 ust. 1 rozporządzenia nr 428/2009;
-- **4)** przedstawienia Komisji Europejskiej wykazu, o którym mowa w art. 10 ust. 4 rozporządzenia nr 428/2009;
-- **5)** zasięgania i wydawania opinii w przypadku, o którym mowa w art. 11 ust. 1 rozporządzenia nr 428/2009;
-- **6)** występowania do właściwego organu państwa członkowskiego Unii Europejskiej o nieudzielanie zezwolenia albo jego unieważnienie, zawieszenie, modyfikację lub odwołanie w przypadku, o którym mowa w art. 11 ust. 2 zdanie pierwsze rozporządzenia nr 428/2009, a także prowadzenia konsultacji, zgodnie z art. 11 ust. 2 zdanie drugie rozporządzenia nr 428/2009, z właściwym organem państwa członkowskiego Unii Europejskiej, który wystąpił do organu kontroli obrotu o nieudzielanie zezwolenia, jego unieważnienie, zawieszenie, modyfikację lub odwołanie;
-- **7)** wykonywania zadań, o których mowa w art. 13 ust. 2 rozporządzenia nr 428/2009;
-- **8)** podejmowania decyzji o zawieszeniu wywozu z terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania wymienionych w załączniku I do rozporządzenia nr 428/2009 objętych ważnym zezwoleniem w przypadku spełnienia przesłanek, o których mowa w art. 16 ust. 3 lit. a i b rozporządzenia nr 428/2009;
-- **9)** zasięgania opinii właściwego organu innego państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 16 ust. 4 rozporządzenia nr 428/2009;
-- **10)** wzywania:
-    - **a)** eksportera lub pośrednika zgodnie z art. 20 ust. 3 rozporządzenia nr 428/2009 do okazania, w trybie Kodeksu postępowania administracyjnego, zapisów lub rejestrów oraz dokumentów określonych w art. 20 ust. 1 i 2 rozporządzenia nr 428/2009,
-    - **b)** podmiotu dokonującego transferu wewnątrzunijnego do okazania, w trybie Kodeksu postępowania administracyjnego, dokumentów i rejestrów, o których mowa w art. 22 ust. 8 rozporządzenia nr 428/2009;
+### b)
 
-- **11)** udzielania dodatkowych informacji w przypadku określonym w art. 22 ust. 9 rozporządzenia nr 428/2009;
-- **12)** informowania Komisji Europejskiej i właściwych organów państw członkowskich Unii Europejskiej o podjętych środkach zgodnie z art. 22 ust. 5 rozporządzenia nr 428/2009;
-- **13)** wyznaczania przedstawiciela Rzeczypospolitej Polskiej do Grupy Koordynacyjnej do spraw Produktów Podwójnego Zastosowania, o której mowa w art. 23 rozporządzenia nr 428/2009.
+transfer wewnątrzunijny,
 
-2. Organ kontroli obrotu przed wydaniem decyzji w sprawie konieczności uzyskania zezwolenia na wywóz produktów podwójnego zastosowania niewymienionych w załączniku I do rozporządzenia nr 428/2009 w przypadku, o którym mowa w art. 4 ust. 4 rozporządzenia nr 428/2009, oraz w sprawie zakazu tranzytu, o którym mowa w art. 6 ust. 1 rozporządzenia nr 428/2009, może wystąpić do organów opiniujących o zajęcie stanowiska. Przepisy art. 12 ust. 2 i art.12a stosuje się odpowiednio.”;
+### c)
 
-- **12)** uchyla się art. 18 i art. 19;
-- **13)** art. 20 otrzymuje brzmienie: „Art. 20. 1. Wywóz, przywóz lub tranzyt towarów o znaczeniu strategicznym jest realizowany w wyznaczonych urzędach celnych.
+usługę pośrednictwa,
 
-2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz urzędów celnych, o których mowa w ust. 1, mając na względzie zapewnienie właściwej kontroli wywozu, przywozu i tranzytu towarów o znaczeniu strategicznym.
+### d)
 
-3. Organ kontroli obrotu informuje Komisję Europejską o urzędach celnych upoważnionych do dokonywania czynności celnych w zakresie wywozu, przywozu i tranzytu towarów o znaczeniu strategicznym.”;
+pomoc techniczną,
 
-- **14)** w art. 21:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Organ kontroli obrotu prowadzi rejestr udzielonych zezwoleń indywidualnych i zezwoleń globalnych oraz podmiotów korzystających z zezwoleń generalnych, zwany dalej „rejestrem”.”,
-    - **b)** uchyla się ust. 2,
-    - **c)** w ust. 3 zdanie drugie otrzymuje brzmienie: „Wpisu podmiotu dokonuje się niezwłocznie po złożeniu oświadczenia, o którym mowa w art. 8 ust. 3.”;
+### e)
 
-- **15)** rozdział 2a otrzymuje brzmienie: „Rozdział 2a Monitorowanie przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
+przywóz,
 
-**Art. 21a.** Przywóz lub transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej wykorzystywanych w telekomunikacji lub do ochrony informacji produktów podwójnego zastosowania określonych w części 1 „Telekomunikacja” poz. 5A001a lub 5A001b4 lub w części 2 „Ochrona informacji” kategorii 5 załącznika nr I do rozporządzenia nr 428/2009 podlega monitorowaniu przez organ monitorujący.
+### f)
 
-**Art. 21b.**
+tranzyt;
 
-1. Podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej przed dokonaniem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania określonych w art. 21a, jest obowiązany zgłosić organowi monitorującemu, w formie pisemnej, zamiar dokonania przywozu lub transferu wewnątrzunijnego tych produktów, zwany dalej „zgłoszeniem”.
+” ,
 
-2. Przepis ust. 1 stosuje się odpowiednio do podmiotów zagranicznych.
+### f)
 
-3. Jednostka organizacyjna podległa Ministrowi Obrony Narodowej, jest obowiązana dokonać zgłoszenia również Szefowi Służby Kontrwywiadu Wojskowego.
+po pkt 8 dodaje się pkt 8a-8i w brzmieniu:
 
-4. Zgłoszenie doręcza się organowi monitorującemu nie później niż na 14 dni przed przewidywanym dniem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej.
+### 8a)
 
-5. Dokonane zgłoszenie jest dokumentem mającym znaczenie dla kontroli wykonywanej przez organy Służby Celnej.
+podmiot - osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, o ile posiada zdolność prawną;
 
-**Art. 21c.**
+### 8b)
 
-1. Zgłoszenie zawiera:
+dostawca - podmiot uprawniony do przekazania uzbrojenia;
 
-- **1)** oznaczenie podmiotu zgłaszającego, określenie adresu siedziby albo adresu miejsca zamieszkania;
-- **2)** oznaczenie podmiotu uprawnionego do odbioru produktu podwójnego zastosowania, określenie adresu siedziby albo adresu miejsca zamieszkania;
-- **3)** oznaczenie producenta i końcowego użytkownika, określenie adresu siedziby albo adresu miejsca zamieszkania;
-- **4)** określenie produktu podwójnego zastosowania, który będzie przedmiotem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej, jego opis, określenie ilości i wartości;
-- **5)** informację o sposobie wykorzystania produktu podwójnego zastosowania przez końcowego użytkownika;
-- **6)** określenie kraju końcowego przeznaczenia;
-- **7)** oświadczenie, że podmiot podejmie niezbędne działania, aby produkt, o którym mowa w zgłoszeniu, dotarł do końcowego użytkownika.
+### 8c)
 
-2. Podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany powiadamiać organ monitorujący o każdej zmianie danych, o których mowa w ust. 1, w terminie 14 dni od dnia jej powstania.
+odbiorca - podmiot uprawniony do odbioru uzbrojenia;
 
-3. Przepis ust. 2 stosuje się odpowiednio do nabywcy w przypadku przeniesienia na niego prawa własności produktu podwójnego zastosowania określonego w zgłoszeniu.
+### 8d)
 
-4. W przypadku przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej towarów i technologii związanych z ochroną informacji niejawnych podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany dołączyć do zgłoszenia kopię koncesji na wykonywanie działalności w zakresie obrotu towarami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. Nr 67, poz. 679, z późn. zm. ), o ile jest wymagana.
+eksporter - eksportera w rozumieniu art. 2 pkt 3 rozporządzenia nr 428/2009 lub - w przypadku uzbrojenia:
 
-5. W przypadku braków formalnych zgłoszenia organ monitorujący wzywa podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej do ich usunięcia w terminie 7 dni od dnia doręczenia wezwania.
+### a)
 
-6. Termin, o którym mowa w ust. 5, może zostać przedłużony na uzasadniony wniosek podmiotu zamieszkującego albo mającego siedzibę na terytorium Rzeczypospolitej Polskiej złożony przed jego upływem.
+podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, który:
 
-7. W przypadku nieusunięcia braków formalnych zgłoszenia w terminie, o którym mowa w ust. 5 lub 6, organ monitorujący uznaje to zgłoszenie za niedokonane.
+- - w momencie przyjmowania deklaracji wywozowej pozostaje w stosunku umownym z odbiorcą w kraju trzecim i jest uprawniony do wywozu uzbrojenia lub
 
-8. Do dokumentu załączonego do zgłoszenia sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski.
+- - jest uprawniony do wywozu uzbrojenia, w sytuacji gdy nie została zawarta umowa eksportowa lub strona umowy nie działa we własnym imieniu,
 
-9. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór zgłoszenia, mając na względzie dane, o których mowa w ust. 1, oraz rodzaje produktów podlegających przywozowi lub transferowi wewnątrzunijnemu na terytorium Rzeczypospolitej Polskiej.
+### b)
 
-**Art. 21d.** Organ monitorujący informuje Szefa Agencji Wywiadu o przywozie lub transferze wewnątrzunijnym na terytorium Rzeczypospolitej Polskiej urządzeń kryptograficznych, przekazując informację o importerze lub odbiorcy oraz rodzaju przywożonych lub transferowanych urządzeń.”;
+umawiającą się stronę zamieszkującą albo mającą siedzibę na terytorium Rzeczypospolitej Polskiej, w przypadku gdy prawo dysponowania uzbrojeniem przynależy podmiotowi zamieszkującemu albo posiadającemu siedzibę poza Rzecząpospolitą Polską, na podstawie umowy, na której opiera się wywóz;
 
-**Art. 21e.** Wiarygodność przedsiębiorcy zamieszkującego albo mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego odbiorcą uzbrojenia przekazywanego w ramach zezwoleń generalnych na transfer wewnątrzunijny wydanych przez właściwe organy innych państw członkowskich Unii Europejskiej, poświadcza świadectwo wiarygodności odbiorcy wydawane przez Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „Szefem ABW”, w drodze decyzji administracyjnej.
+### 8e)
 
-**Art. 21f.** Świadectwo wiarygodności odbiorcy wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej jest ważne na terytorium Rzeczypospolitej Polskiej.
+importer - podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej, który jest uprawniony do odbioru towaru o znaczeniu strategicznym z kraju trzeciego;
 
-**Art. 21g.**
+### 8f)
 
-1. Świadectwo wiarygodności odbiorcy wydaje się na wniosek przedsiębiorcy, o którym mowa w art. 21e.
+pośrednik - pośrednika w rozumieniu art. 2 pkt 6 rozporządzenia 428/2009 lub - w przypadku uzbrojenia - podmiot wykonujący usługę pośrednictwa w odniesieniu do uzbrojenia;
 
-2. Wniosek o wydanie świadectwa wiarygodności odbiorcy zawiera:
+### 8g)
 
-- **1)** dane identyfikujące odbiorcę;
-- **2)** oświadczenie o strukturze kapitałowej i powiązaniach kapitałowych odbiorcy;
-- **3)** numer koncesji na obrót uzbrojeniem, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+użytkownik końcowy - podmiot deklarujący wykorzystanie towaru o znaczeniu strategicznym do własnej działalności;
 
-3. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór wniosku o wydanie świadectwa wiarygodności odbiorcy, mając na uwadze dane, o których mowa w ust. 2, oraz rodzaje uzbrojenia.
+### 8h)
 
-**Art. 21h.**
+zezwolenie indywidualne - zezwolenie w rozumieniu art. 2 pkt 8 rozporządzenia nr 428/2009 lub, w przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania, zezwolenie udzielone jednemu podmiotowi w odniesieniu do jednego końcowego użytkownika, importera lub odbiorcy w innym państwie, dotyczące określonej ilości i wartości jednoznacznie określonych towarów o znaczeniu strategicznym;
 
-1. Świadectwo wiarygodności odbiorcy wydaje się, jeżeli przedsiębiorca:
+### 8i)
 
-- **1)** prowadzi na obszarze Unii Europejskiej działalność gospodarczą związaną z uzbrojeniem, w szczególności związaną z integracją systemów i podsystemów;
-- **2)** wyznaczy pracownika wykonującego czynności kierownicze, odpowiedzialnego za transfery wewnątrzunijne i wywóz uzbrojenia;
-- **3)** dołączy do wniosku, o którym mowa w art. 21g ust. 1:
-    - **a)** pisemne zobowiązanie do przestrzegania i egzekwowania warunków związanych z końcowym zastosowaniem i wywozem lub transferem wewnątrzunijnym uzbrojenia,
-    - **b)** pisemne zobowiązanie do przekazania Szefowi ABW dokumentów niezbędnych do weryfikacji informacji, o których mowa w lit. d oraz w art. 21g ust. 2, i potwierdzenia spełnienia warunków, o których mowa w pkt 1 i 2, oraz do dostarczenia informacji dotyczących końcowych użytkowników i ostatecznego przeznaczenia uzbrojenia będącego przedmiotem wywozu lub transferu wewnątrzunijnego z terytorium i na terytorium Rzeczypospolitej Polskiej,
-    - **c)** kopię certyfikatu zgodności, o którym mowa w art. 11 ust. 5,
-    - **d)** wykaz umów na obrót uzbrojeniem zawartych w okresie 6 miesięcy poprzedzających złożenie wniosku,
-    - **e)** pisemne zobowiązanie do informowania Szefa ABW o zmianach danych objętych wnioskiem.
+zezwolenie globalne - zezwolenie w rozumieniu art. 2 pkt 10 rozporządzenia nr 428/2009 lub, w przypadku uzbrojenia, a także innych niż wywóz form obrotu produktami podwójnego zastosowania, zezwolenie udzielone jednemu podmiotowi w odniesieniu do jednego lub większej liczby końcowych użytkowników, importerów lub odbiorców w innym państwie lub państwach, dotyczące określonych typów lub kategorii towarów o znaczeniu strategicznym;
 
-2. Szef ABW, przed wydaniem świadectwa wiarygodności odbiorcy, może wystąpić do organu kontroli obrotu, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego, Szefa Służby Wywiadu Wojskowego, Szefa Służby Kontrwywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw finansów publicznych o przekazanie stanowiska o braku przeciwwskazań do wydania świadectwa wiarygodności odbiorcy. Przepisy art. 12 ust. 2 i art. 12a stosuje się odpowiednio.
+” ,
 
-3. Szef ABW, wydając świadectwo wiarygodności odbiorcy, może odstąpić od uzasadnienia decyzji albo ograniczyć uzasadnienie, ze względu na interes bezpieczeństwa państwa lub porządek publiczny.
+### g)
 
-**Art. 21i.** Organy administracji rządowej, organy państwowe, organy samorządu terytorialnego, sądy oraz przedsiębiorcy prowadzący działalność w zakresie użyteczności publicznej, na żądanie Szefa ABW, udzielają informacji w zakresie niezbędnym do wydania lub cofnięcia świadectwa wiarygodności odbiorcy.
+pkt 11 i 12 otrzymują brzmienie:
 
-**Art. 21j.** Świadectwo wiarygodności odbiorcy jest wydawane na okres 5 lat.
+„
 
-**Art. 21k.**
+### 11)
 
-1. Świadectwo wiarygodności odbiorcy zawiera:
+organy opiniujące - ministra właściwego do spraw zagranicznych, ministra właściwego do spraw wewnętrznych, ministra właściwego do spraw finansów publicznych, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, a w odniesieniu do materiałów jądrowych, technologii jądrowych oraz innych produktów podwójnego zastosowania, w zakresie których jest właściwy ze względu na zakres swojego działania - także Prezesa Państwowej Agencji Atomistyki;
 
-- **1)** oznaczenie organu, który wystawił świadectwo;
-- **2)** nazwę i adres odbiorcy;
-- **3)** poświadczenie wiarygodności odbiorcy wydane na podstawie art. 21h ust. 1;
-- **4)** datę wydania i okres ważności świadectwa.
+### 12)
 
-2. Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór świadectwa wiarygodności odbiorcy, uwzględniając dane, o których mowa w ust. 1.
+organ monitorujący - Szefa Agencji Bezpieczeństwa Wewnętrznego;
 
-**Art. 21l.** Szef ABW prowadzi kontrolę w zakresie spełniania przez odbiorcę warunków i zobowiązań określonych w art. 21h ust. 1. Przepisy art. 30 i art. 32 stosuje się odpowiednio.
+” ,
 
-**Art. 21m.** Szef ABW, w drodze decyzji administracyjnej, odmawia wydania świadectwa wiarygodności odbiorcy albo cofa świadectwo wiarygodności odbiorcy, gdy odbiorca nie spełnia warunków określonych w art. 21h ust. 1 lub naruszył przepisy dotyczące obrotu towarami o znaczeniu strategicznym. Przepis art. 21h ust. 3 stosuje się odpowiednio.
+### h)
 
-**Art. 21n.** Kopię decyzji o cofnięciu świadectwa wiarygodności odbiorcy Szef ABW przekazuje organowi kontroli obrotu.
+dodaje się pkt 13 w brzmieniu:
 
-**Art. 21o.** Organ kontroli obrotu informuje Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej o przypadkach cofnięcia świadectwa wiarygodności odbiorcy.
+„
 
-**Art. 21p.**
+### 13)
 
-1. Szef ABW prowadzi wykaz certyfikowanych odbiorców mających miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej.
+przedsiębiorca - przedsiębiorcę w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ([Dz. U. z 2010 r. Nr 220, poz. 1447](https://api.sejm.gov.pl/eli/acts/DU/2010/1447/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378.](#gloss-0:3:)).
 
-2. Wykaz, o którym mowa w ust. 1, Szef ABW przesyła organowi kontroli obrotu, który przesyła go Komisji Europejskiej, Parlamentowi Europejskiemu oraz właściwym organom państw członkowskich Unii Europejskiej.
+” ;
 
-**Art. 21q.** Minister właściwy do spraw zagranicznych informuje właściwe organy państw członkowskich Unii Europejskiej o zagrożeniu nieprzestrzeganiem warunków krajowego zezwolenia generalnego na transfer wewnątrzunijny uzbrojenia przez odbiorcę w innym państwie, który uzyskał świadectwo wiarygodności odbiorcy, lub o naruszeniu przez niego bezpieczeństwa publicznego lub istotnych interesów w zakresie bezpieczeństwa państwa oraz, o ile to konieczne, zwraca się do tych organów o wyjaśnienia w tej sprawie.”;
+### 4)
 
-**Art. 26.**
+art. 6 otrzymuje brzmienie:
 
-1. Podmiot dokonujący obrotu w ramach zezwoleń generalnych jest obowiązany przekazać organowi kontroli obrotu coroczną informację o realizacji tego obrotu, w terminie do końca I kwartału następnego roku .
+„
 
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres informacji, o których mowa w ust. 1, uwzględniając dane zawarte w ewidencji, o których mowa w art. 25 ust. 2, oraz rodzaje towarów o znaczeniu strategicznym.”;
+### Art. 6.
 
-- **21)** po art. 27 dodaje się art. 27a–27c w brzmieniu: „Art. 27a. 1. Podmiot dokonujący wywozu uzbrojenia jest obowiązany przekazać ministrowi właściwemu do spraw zagranicznych roczny raport z faktycznego wykonania tego wywozu, w terminie do końca kwietnia następnego roku .
+### 1.
 
-2. Raport, o którym mowa w ust. 1, zawiera w szczególności:
+Pomoc techniczna w zakresie produktów podwójnego zastosowania może być świadczona na podstawie i w zakresie określonym w zezwoleniu.
 
-- **1)** nazwę, ilość i wartość uzbrojenia będącego przedmiotem wywozu;
-- **2)** kategorię kontrolną;
-- **3)** numery wykorzystanych zezwoleń;
-- **4)** kraj końcowego użytkownika.
+### 2.
 
-**Art. 27b.** Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia, wzór raportu, o którym mowa w art. 27a ust. 1, uwzględniając informacje, o których mowa w art. 27a ust. 2, oraz rodzaje uzbrojenia.
+Zezwolenie na pomoc techniczną nie jest wymagane, gdy pomoc ta jest świadczona na rzecz podmiotu zamieszkującego albo posiadającego siedzibę na terytorium Rzeczypospolitej Polskiej, lub gdy pomoc dotyczy towarów o znaczeniu strategicznym, na których transfer wewnątrzunijny rozpoczynający się z terytorium Rzeczypospolitej Polskiej nie jest wymagane zezwolenie.
 
-**Art. 27c.**
+” ;
 
-1. Minister właściwy do spraw zagranicznych sporządza roczne sprawozdanie dotyczące wywozu uzbrojenia, które przekazuje właściwym organom państw członkowskich Unii Europejskiej, w terminie do końca III kwartału następnego roku .
+### 5)
 
-2. Minister właściwy do spraw zagranicznych publikuje sprawozdanie, o którym mowa w ust. 1, w terminie do końca III kwartału następnego roku.”;
+po art. 6 dodaje się art. 6a-6c w brzmieniu:
 
-- **22)** w art. 29 ust. 2 otrzymuje brzmienie: „2. Na wniosek organu kontroli obrotu organy opiniujące delegują do prac w zespole funkcjonariuszy, żołnierzy lub pracowników podległych albo nadzorowanych jednostek organizacyjnych. W skład zespołu organ kontroli obrotu może także powołać biegłych i ekspertów, za ich zgodą.”;
-- **23)** w art. 30:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Kierownik zespołu przekazuje kontrolowanemu protokół pokontrolny, do którego kontrolowany ma prawo zgłosić uwagi, w terminie 14 dni od dnia jego otrzymania.”,
-    - **b)** dodaje się ust. 4 w brzmieniu: „4. Protokół pokontrolny wraz z uwagami zgłoszonymi przez kontrolowanego kierownik zespołu przekazuje organowi kontroli obrotu.”;
+„
 
-- **24)** art. 31 i art. 32 otrzymują brzmienie: „Art. 31. 1. W przypadku stwierdzenia nieprawidłowości w obrocie, organ kontroli obrotu wzywa podmiot do przywrócenia stanu zgodnego z ustawą w terminie miesiąca od dnia doręczenia wezwania.
+### Art. 6a.
 
-2. Po bezskutecznym upływie terminu, o którym mowa w ust. 1, organ kontroli obrotu cofa, w drodze decyzji administracyjnej, zezwolenia indywidualne lub zezwolenia globalne. W przypadku zezwoleń generalnych organ kontroli obrotu wydaje decyzję administracyjną zakazującą podmiotowi korzystania z zezwolenia. O wydaniu decyzji organ kontroli obrotu informuje organy opiniujące.
+### 1.
 
-3. W przypadku, o którym mowa w ust. 2, podmiot może otrzymać następne zezwolenie indywidualne lub zezwolenie globalne lub skorzystać z zezwolenia generalnego nie wcześniej niż po upływie roku odpowiednio od dnia, w którym decyzja o cofnięciu zezwolenia indywidualnego lub zezwolenia globalnego lub decyzja o zakazie korzystania z zezwolenia generalnego stała się ostateczna.
+Obrót uzbrojeniem może być dokonywany na podstawie i w zakresie określonym w zezwoleniu.
 
-**Art. 32.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.”;
+### 2.
 
-**Art. 37a.** Podmiotowi dokonującemu przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania określonych w art. 21a, bez zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej organowi monitorującemu, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 100 000 zł.”;
+Zezwolenie na transfer wewnątrzunijny uzbrojenia wydane przez właściwe organy państw członkowskich Unii Europejskiej jest ważne na terytorium Rzeczypospolitej Polskiej. W przypadku wydania takiego zezwolenia nie jest wymagane zezwolenie na transfer wewnątrzunijny uzbrojenia przez terytorium Rzeczypospolitej Polskiej.
 
-**Art. 39.** Osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, o ile posiada zdolność prawną, która nie wypełnia obowiązków lub warunków, o których mowa w art. 26 ust. 1, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 50 000 zł.”;
+### 3.
 
-**Art. 2.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. Nr 163, poz. 1711, z późn. zm. ) art. 4c otrzymuje brzmienie: „Art. 4c. Minister Obrony Narodowej, na podstawie umów międzynarodowych, może przekazywać nieodpłatnie siłom zbrojnym państw będących stronami tych umów uzbrojenie i produkty podwójnego zastosowania, określone w art. 3 pkt 1 i 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315, z 2009 r. Nr 18, poz. 97 oraz z 2012 r. poz. 707).”.
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wykaz uzbrojenia, na obrót którym jest wymagane zezwolenie, uwzględniając przy jego sporządzaniu formy obrotu określone w art. 3 pkt 8 oraz wykazy międzynarodowe, w szczególności wspólny wykaz uzbrojenia przyjęty przez Radę Unii Europejskiej.
 
-**Art. 3.** W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego (Dz. U. Nr 104, poz. 709, z późn. zm. ) w art. 5 w ust. 1 w pkt 1 lit. f otrzymuje brzmienie: „f) określonych w art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315, z 2009 r. Nr 18, poz. 97 oraz z 2012 r. poz. 707),”.
+### Art. 6b.
 
-**Art. 4.** W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U. Nr 168, poz. 1323, z późn. zm. ) w art. 2 w ust. 1 w pkt 6 lit. f otrzymuje brzmienie: „f) ograniczeniom obrotu towarami i technologiami o znaczeniu strategicznym, określonym w art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 r. Nr 229, poz. 2315, z 2009 r. Nr 18, poz. 97 oraz z 2012 r. poz. 707)”.
+Rada Ministrów określi, w drodze rozporządzenia, listę krajów, z którymi obrót określonymi towarami o znaczeniu strategicznym jest zakazany lub ograniczony, uwzględniając bezpieczeństwo publiczne oraz prawa człowieka, a w przypadku uzbrojenia również potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej oraz zobowiązania Rzeczypospolitej Polskiej wynikające z umów i porozumień międzynarodowych oraz ze zobowiązań sojuszniczych, w tym porozumień, o których mowa w art. 16 ust. 1 pkt 2 lit. b i c.
 
-**Art. 5.**
+### Art. 6c.
 
-1. Zezwolenia indywidualne i zezwolenia globalne wydane na podstawie przepisów ustawy zmienianej w art. 1 przed dniem wejścia w życie niniejszej ustawy zachowują ważność do czasu ich wygaśnięcia.
+Przywóz lub transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania nie wymaga uzyskania zezwolenia.
 
-2. Potwierdzone oświadczenia końcowego użytkownika, certyfikaty importowe i certyfikaty weryfikacji dostawy wydane na podstawie przepisów ustawy zmienianej w art. 1 przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
+” ;
 
-**Art. 6.**
+### 6)
 
-1. Do spraw wszczętych na podstawie przepisów ustawy zmienianej w art. 1 i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+art. 7-12 otrzymują brzmienie:
 
-2. Do spraw wszczętych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+„
 
-**Art. 7.**
+### Art. 7.
 
-1. Certyfikat zgodności, o którym mowa w art. 11 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydany przed dniem wejścia w życie niniejszej ustawy, zachowuje ważność do czasu jego wygaśnięcia.
+### 1.
 
-2. U przedsiębiorcy, w stosunku do którego, w okresie ważności certyfikatu zgodności rozpoczynającym się przed dniem wejścia w życie niniejszej ustawy, przeprowadzono co najmniej 3 kontrole na podstawie art. 11 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do czasu upływu tego okresu nie przeprowadza się kontroli.
+Na wywóz produktów podwójnego zastosowania, transfer wewnątrzunijny produktów wymienionych w załączniku IV do rozporządzenia nr 428/2009 oraz pomoc techniczną wydaje się zezwolenie indywidualne, zezwolenie globalne lub krajowe zezwolenie generalne. Na usługi pośrednictwa w zakresie produktów podwójnego zastosowania wydaje się zezwolenie indywidualne.
 
-**Art. 8.** Kontrolę, o której mowa w art. 28 ustawy zmienianej w art. 1, wszczętą i niezakończoną do dnia wejścia w życie niniejszej ustawy, prowadzi się według przepisów dotychczasowych.
+### 2.
 
-**Art. 9.** Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy w zakresie wpisu do rejestru, o którym mowa w art. 21 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
+Na obrót uzbrojeniem wydaje się zezwolenie indywidualne lub krajowe zezwolenie generalne. Na transfer wewnątrzunijny uzbrojenia, usługi pośrednictwa i pomoc techniczną w zakresie uzbrojenia może zostać wydane także zezwolenie globalne.
 
-**Art. 10.**
+### Art. 8.
 
-1. Podmiot – w stosunku do którego obowiązek przekazania organowi kontroli obrotu informacji, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, powstał przed dniem wejścia w życie niniejszej ustawy – przekazuje tę informację na zasadach dotychczasowych.
+### 1.
 
-2. Podmiot – w stosunku do którego obowiązek przekazania organowi kontroli obrotu informacji, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, powstał po dniu wejścia w życie niniejszej ustawy – przekazuje organowi kontroli obrotu pierwszą informację, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 do końca I kwartału 2014 r.
+W zakresie, w którym zostało udzielone krajowe zezwolenie generalne na obrót towarami o znaczeniu strategicznym nie jest wymagane zezwolenie indywidualne lub zezwolenie globalne.
 
-3. Podmiot sporządza pierwszy raport, o którym mowa w art. 27a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 i przekazuje ministrowi właściwemu do spraw zagranicznych do końca kwietnia 2014 r.
+### 2.
 
-4. Minister właściwy do spraw zagranicznych sporządza pierwsze sprawozdanie, o którym mowa w art. 27c ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 i przekazuje właściwym organom państw członkowskich Unii Europejskiej oraz publikuje do końca III kwartału 2014 r.
+Minister właściwy do spraw gospodarki może określić, w drodze rozporządzenia, przypadki, a w szczególności kraje, podmioty oraz towary o znaczeniu strategicznym, w odniesieniu do których udziela krajowego zezwolenia generalnego, oraz szczegółowe warunki, na jakich dokonywany może być obrót objęty krajowym zezwoleniem generalnym, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa obrotu towarami o znaczeniu strategicznym.
 
-**Art. 11.** Przepisy wykonawcze wydane na podstawie art. 6 ust. 5 i 6, art. 9 ust. 6, art. 11 ust. 7, art. 20 ust. 2, art. 21c ust. 8, art. 22 ust. 7, art. 24 ust. 4, art. 25 ust. 2 i art. 26 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, pozostają w mocy do czasu wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 6a ust. 3, art. 6b, art. 9 ust. 8, art. 11 ust. 8, art. 20 ust. 2, art. 21c ust. 9, art. 22 ust. 7, art. 24 ust. 5, art. 25 ust. 4 i art. 26 ust. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+### 3.
 
-**Art. 12.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Prowadzenie obrotu na podstawie krajowego zezwolenia generalnego wymaga złożenia oświadczenia o terminie jego rozpoczęcia. Oświadczenie należy złożyć organowi kontroli obrotu co najmniej na miesiąc przed rozpoczęciem obrotu.
 
+### Art. 9.
+
+### 1.
+
+Zezwolenie indywidualne lub zezwolenie globalne wydaje organ kontroli obrotu na wniosek podmiotu zamieszkującego albo posiadającego siedzibę na terytorium Rzeczypospolitej Polskiej, zwany dalej „wnioskiem o zezwolenie”.
+
+### 2.
+
+Wniosek o zezwolenie zawiera:
+
+### 1)
+
+oznaczenie wnioskodawcy w tym jego nazwę, adres siedziby albo adres zamieszkania na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+numer identyfikacji podatkowej (NIP);
+
+### 3)
+
+określenie rodzaju i zakresu wykonywanej przez wnioskodawcę działalności gospodarczej, jeżeli jest przedsiębiorcą;
+
+### 4)
+
+oznaczenie podmiotów będących partnerami handlowymi wnioskodawcy przy realizacji wnioskowanego obrotu, w tym ich nazwy, adresy siedzib albo adresy zamieszkania, oraz ich roli w tym obrocie;
+
+### 5)
+
+określenie towarów o znaczeniu strategicznym będących przedmiotem obrotu, w tym ich wartość, ilość oraz numer kontrolny, określony w wykazie określonym w przepisach wydanych na podstawie art. 6a ust. 3 lub w załącznikach do rozporządzenia nr 428/2009;
+
+### 6)
+
+oznaczenie producenta towarów o znaczeniu strategicznym, które będą przedmiotem obrotu oraz końcowych użytkowników, w tym ich nazw i adresów;
+
+### 7)
+
+informację o sposobie wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika;
+
+### 8)
+
+określenie kraju końcowego przeznaczenia;
+
+### 9)
+
+w przypadku wywozu lub transferu wewnątrzunijnego - oświadczenie, że wnioskodawca podejmie niezbędne działania, aby towary o znaczeniu strategicznym, które będą przedmiotem obrotu, dotarły do końcowego użytkownika;
+
+### 10)
+
+numer poświadczenia oświadczenia końcowego użytkownika wydanego przez organ kontroli obrotu, jeśli importer lub końcowy użytkownik zobowiązał się do uzyskania uprzedniej zgody właściwego zagranicznego organu na określone dysponowanie towarem o znaczeniu strategicznym będącym przedmiotem wniosku lub jego częścią składową.
+
+### 3.
+
+Wniosek o zezwolenie na wywóz zawiera także oznaczenie:
+
+### 1)
+
+kraju pochodzenia towaru o znaczeniu strategicznym;
+
+### 2)
+
+państwa członkowskiego Unii Europejskiej, w którym znajduje się lub będzie umiejscowiony produkt podwójnego zastosowania;
+
+### 3)
+
+państwa członkowskiego Unii Europejskiej, w którym zostanie nadane przeznaczenie celne produktowi podwójnego zastosowania.
+
+### 4.
+
+Wniosek o zezwolenie na usługi pośrednictwa zawiera także:
+
+### 1)
+
+określenie usługi pośrednictwa;
+
+### 2)
+
+informację o umiejscowieniu towaru o znaczeniu strategicznym w kraju trzecim.
+
+### 5.
+
+Wniosek o zezwolenie na pomoc techniczną zawiera dodatkowo określenie rodzaju pomocy technicznej.
+
+### 6.
+
+Do wniosku o zezwolenie na obrót towarami o znaczeniu strategicznym wnioskodawca jest obowiązany dołączyć:
+
+### 1)
+
+oświadczenie o posiadaniu koncesji lub zezwoleń uprawniających do posiadania towaru o znaczeniu strategicznym lub prowadzenia działalności związanej z wnioskowanym obrotem, jeżeli posiadanie takich koncesji lub zezwoleń jest wymagane na podstawie przepisów innych ustaw, wraz z dokładnymi cechami identyfikacyjnymi tych dokumentów;
+
+### 2)
+
+projekt umowy lub umowę dotyczącą obrotu, jeśli taka umowa jest wymagana w odniesieniu do danego obrotu albo list intencyjny lub zapytanie ofertowe;
+
+### 3)
+
+kopię certyfikatu, o którym mowa w art. 11 ust. 5, w przypadku gdy jego posiadanie jest wymagane;
+
+### 4)
+
+certyfikat importowy lub oświadczenie końcowego użytkownika w przypadku wywozu lub transferu wewnątrzunijnego; nie dotyczy to przypadków, gdy krajem końcowego przeznaczenia towaru jest Rzeczpospolita Polska;
+
+### 5)
+
+zgodę właściwego zagranicznego organu na określone dysponowanie towarem, w przypadku gdy importer lub końcowy użytkownik zobowiązał się do uzyskania takiej zgody albo oświadczenie, że wnioskodawca nie posiada wiedzy w zakresie zobowiązania, o którym mowa w ust. 2 pkt 10.
+
+### 7.
+
+Do dokumentu sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski sporządzone przez tłumacza przysięgłego.
+
+### 8.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
+
+### 1)
+
+wzory wniosków o zezwolenie na wywóz, transfer wewnątrzunijny, na usługę pośrednictwa i na pomoc techniczną w zakresie towarów o znaczeniu strategicznym, a także na przywóz i tranzyt uzbrojenia, oraz wzory wniosków o wydanie certyfikatu importowego i poświadczenia oświadczenia końcowego użytkownika,
+
+### 2)
+
+wzory zezwoleń indywidualnych i zezwoleń globalnych na wywóz, na usługę pośrednictwa, na przywóz i na tranzyt uzbrojenia oraz na pomoc techniczną i na transfer wewnątrzunijny w zakresie towarów o znaczeniu strategicznym
+
+- mając na uwadze rodzaje towarów oraz formy obrotu.
+
+### Art. 10.
+
+### 1.
+
+Organ kontroli obrotu, na wniosek podmiotu, udziela wiążącego wyjaśnienia w sprawie konieczności uzyskania zezwolenia na określony obrót towarami o znaczeniu strategicznym w terminie 3 miesięcy od dnia złożenia wniosku. W uzasadnionych przypadkach termin ten może zostać przedłużony do 6 miesięcy.
+
+### 2.
+
+Przed udzieleniem wyjaśnienia, o którym mowa w ust. 1, organ kontroli obrotu może wystąpić do organów opiniujących o zajęcie stanowiska. Do stanowiska organów opiniujących stosuje się odpowiednio art. 12 ust. 2 i art. 12a.
+
+### 3.
+
+Organ kontroli obrotu może zażądać od wnioskodawcy przekazania dodatkowych wyjaśnień lub dokumentów w celu wyjaśnienia okoliczności związanych z przedmiotem wniosku.
+
+### Art. 11.
+
+### 1.
+
+Przedsiębiorca wnioskujący o zezwolenie na obrót uzbrojeniem lub korzystający z krajowego zezwolenia generalnego na obrót uzbrojeniem jest obowiązany utworzyć i stosować wewnętrzny system kontroli i zarządzania obrotem uzbrojeniem, zwany dalej „wewnętrznym systemem kontroli”.
+
+### 2.
+
+W ramach wewnętrznego systemu kontroli należy określić w szczególności zadania organów przedsiębiorstwa, podstawowe zadania na stanowiskach pracy w zakresie kontroli i zarządzania obrotem, zasady doboru pracowników, archiwizacji danych, kontroli wewnętrznej, realizacji zamówień oraz szkolenia.
+
+### 3.
+
+Wewnętrzny system kontroli podlega certyfikacji zgodności z wymaganiami międzynarodowych norm ISO 9000 i wymaganiami określonymi w ust. 2.
+
+### 4.
+
+Certyfikację, o której mowa w ust. 3, przeprowadzają upoważnione jednostki kontrolujące posiadające akredytację w ramach krajowego systemu akredytacji utworzonego na podstawie ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności ([Dz. U. z 2010 r. Nr 138, poz. 935](https://api.sejm.gov.pl/eli/acts/DU/2010/935/text.html) oraz z [2011 r. Nr 102, poz. 586](https://api.sejm.gov.pl/eli/acts/DU/2011/586/text.html) i [Nr 227, poz. 1367](https://api.sejm.gov.pl/eli/acts/DU/2011/1367/text.html)).
+
+### 5.
+
+Certyfikat zgodności stwierdzający zgodność funkcjonowania wewnętrznego systemu kontroli z wymaganiami określonymi w ust. 2, wydają upoważnione jednostki, o których mowa w ust. 4.
+
+### 6.
+
+Certyfikat zgodności jest ważny przez okres 3 lat.
+
+### 7.
+
+W okresie ważności certyfikatu zgodności upoważnione jednostki, o których mowa w ust. 4, przeprowadzają w siedzibie przedsiębiorcy 3 kontrole zgodności funkcjonowania wewnętrznego systemu kontroli z wymaganiami określonymi w ust. 2.
+
+### 8.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wykaz jednostek certyfikujących upoważnionych do prowadzenia certyfikacji zgodności i kontroli zgodności funkcjonowania wewnętrznego systemu kontroli, spośród jednostek akredytowanych w krajowym systemie akredytacji, mając na uwadze zapewnienie jednolitości wewnętrznych systemów kontroli przedsiębiorców.
+
+### Art. 12.
+
+### 1.
+
+Wydanie zezwolenia indywidualnego lub zezwolenia globalnego następuje w drodze decyzji administracyjnej.
+
+### 2.
+
+Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego występuje, w formie pisemnej lub za pośrednictwem systemu elektronicznego, do organów opiniujących o zajęcie stanowiska co do istnienia przeciwwskazań do wydania takiego zezwolenia. O wystąpieniu do organów opiniujących organ kontroli obrotu informuje wnioskodawcę.
+
+### 3.
+
+Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego może zażądać od wnioskodawcy informacji umożliwiających weryfikację danych zawartych we wniosku o zezwolenie.
+
+### 4.
+
+Wnioskodawca jest obowiązany zgłaszać organowi kontroli obrotu wszelkie zmiany dotyczące danych zawartych we wniosku, w terminie 14 dni od dnia ich powstania.
+
+” ;
+
+### 7)
+
+po art. 12 dodaje się art. 12a i art. 12b w brzmieniu:
+
+„
+
+### Art. 12a.
+
+### 1.
+
+Stanowisko, o którym mowa w art. 12 ust. 2, organy opiniujące przekazują organowi kontroli obrotu, w formie pisemnej lub za pośrednictwem systemu elektronicznego pozwalającego na identyfikację osoby upoważnionej do wydania takiego stanowiska, w terminie 14 dni od dnia wystąpienia o to stanowisko przez organ kontroli obrotu.
+
+### 2.
+
+Jeżeli szczególny charakter sprawy będącej przedmiotem stanowiska, o którym mowa w art. 12 ust. 2, nie pozwala na jego wydanie przez organy opiniujące w terminie określonym w ust. 1, stosuje się odpowiednio przepisy art. 36-38 Kodeksu postępowania administracyjnego.
+
+### 3.
+
+Terminu na zajęcie przez organy opiniujące stanowiska, o którym mowa w art. 12 ust. 2, nie wlicza się do terminu na wydanie decyzji w sprawie wydania zezwolenia indywidualnego lub zezwolenia globalnego.
+
+### 4.
+
+Organy opiniujące, przygotowując stanowisko, o którym mowa w art. 12 ust. 2, uwzględniają przesłanki odmowy, zmiany lub cofnięcia zezwolenia, o których mowa w art. 15, art. 16 ust. 1 i 2 oraz art. 17 ust. 1 pkt 3.
+
+### 5.
+
+Przepis art. 12 ust. 3 stosuje się odpowiednio do organów opiniujących.
+
+### 6.
+
+Stanowisko organów opiniujących nie wymaga formy postanowienia i nie podlega zaskarżeniu.
+
+### Art. 12b.
+
+Organ kontroli obrotu przed wydaniem zezwolenia indywidualnego lub zezwolenia globalnego ustala, czy w ciągu ostatnich 3 lat właściwy organ innego państwa lub państw członkowskich Unii Europejskiej odmówił wydania zezwolenia na obrót towarem o znaczeniu strategicznym o zasadniczo identycznych parametrach oraz do tego samego końcowego użytkownika lub odbiorcy co we wniosku o zezwolenie. W takim przypadku organ kontroli obrotu konsultuje się z właściwym organem państwa członkowskiego Unii Europejskiej, który odmówił wydania takiego zezwolenia, a jeżeli organ kontroli obrotu wyda zezwolenie - informuje o tym ten organ, dołączając szczegółowe uzasadnienie swojej decyzji.
+
+” ;
+
+### 8)
+
+art. 13 otrzymuje brzmienie:
+
+„
+
+### Art. 13.
+
+W przypadku gdy podmiot uzyska informację lub ma uzasadnione podstawy do przypuszczenia, że wystąpiły lub mogą wystąpić nieprawidłowości w obrocie towarami o znaczeniu strategicznym jest obowiązany podjąć wszelkie możliwe czynności mające na celu przywrócenie stanu zgodnego z prawem lub zapobiegnięcie nieprawidłowościom oraz zawiadomić organ kontroli obrotu o nieprawidłowościach.
+
+” ;
+
+### 9)
+
+w art. 14:
+
+### a)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Zezwolenie indywidualne oraz zezwolenie globalne są dokumentami mającymi znaczenie dla kontroli wykonywanych przez organy Służby Celnej.
+
+” ,
+
+### b)
+
+ust. 4 i 5 otrzymują brzmienie:
+
+„
+
+### 4.
+
+Wydanie zezwolenia indywidualnego lub zezwolenia globalnego na obrót może być uzależnione od spełnienia dodatkowych wymagań i warunków określonych przez organ kontroli obrotu, a w szczególności od złożenia przez zagranicznego końcowego użytkownika oświadczenia końcowego użytkownika lub przedstawienia certyfikatu importowego, o których mowa w art. 23.
+
+### 5.
+
+W zezwoleniu indywidualnym lub zezwoleniu globalnym określa się termin jego ważności. Zezwolenie indywidualne jest ważne nie dłużej niż rok, a zezwolenie globalne nie dłużej niż 3 lata.
+
+” ;
+
+### 10)
+
+art. 15-17 otrzymują brzmienie:
+
+„
+
+### Art. 15.
+
+### 1.
+
+Organ kontroli obrotu odmawia, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót produktami podwójnego zastosowania, jeżeli:
+
+### 1)
+
+wymagają tego potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej;
+
+### 2)
+
+wymagają tego zobowiązania Rzeczypospolitej Polskiej wynikające z umów międzynarodowych i porozumień sojuszniczych;
+
+### 3)
+
+podmiot nie daje rękojmi zgodnego z prawem prowadzenia obrotu;
+
+### 4)
+
+produkty te mogą być, w całości lub w części, wykorzystane do nielegalnego lub sprzecznego z interesem Rzeczypospolitej Polskiej wdrażania, produkcji, eksploatacji, obsługi, utrzymania, przechowywania, wykrywania, identyfikacji lub rozprzestrzeniania broni masowego rażenia, a w szczególności broni chemicznej, biologicznej lub jądrowej, a także wdrażania, produkcji, utrzymania i przechowywania środków zdolnych do przenoszenia takiej broni.
+
+### 2.
+
+Organ kontroli obrotu może odmówić, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót produktami podwójnego zastosowania, jeżeli:
+
+### 1)
+
+istnieje ryzyko zmiany końcowego użycia lub miejsca przeznaczenia tych produktów;
+
+### 2)
+
+podmiot naruszył przepisy dotyczące obrotu towarami o znaczeniu strategicznym.
+
+### Art. 16.
+
+### 1.
+
+Organ kontroli obrotu odmawia, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót uzbrojeniem, jeżeli:
+
+### 1)
+
+wymagają tego potrzeby obronności lub bezpieczeństwa Rzeczypospolitej Polskiej;
+
+### 2)
+
+jego udzielenie byłoby niezgodne z międzynarodowymi zobowiązaniami Rzeczypospolitej Polskiej, wynikającymi z umów i porozumień międzynarodowych, a w szczególności z międzynarodowymi zobowiązaniami:
+
+### a)
+
+do wprowadzania embarga na broń lub sankcji nałożonych przez Organizację Narodów Zjednoczonych, Unię Europejską oraz Organizację Bezpieczeństwa i Współpracy w Europie,
+
+### b)
+
+w ramach Układu o nierozprzestrzenianiu broni jądrowej, sporządzonego w Moskwie, Waszyngtonie i Londynie dnia 1 lipca 1968 r. ([Dz. U. z 1970 r. Nr 8, poz. 60](https://api.sejm.gov.pl/eli/acts/DU/1970/60/text.html)), Konwencji o zakazie prowadzenia badań, produkcji i gromadzenia zapasów broni bakteriologicznej (biologicznej) i toksycznej oraz o ich zniszczeniu, sporządzonej w Moskwie, Londynie i Waszyngtonie dnia 10 kwietnia 1972 r. ([Dz. U. z 1976 r. Nr 1, poz. 1](https://api.sejm.gov.pl/eli/acts/DU/1976/1/text.html)) oraz Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz o zniszczeniu jej zapasów, sporządzonej w Paryżu dnia 13 stycznia 1993 r. ([Dz. U. z 1999 r. Nr 63, poz. 703](https://api.sejm.gov.pl/eli/acts/DU/1999/703/text.html)),
+
+### c)
+
+w ramach Grupy Australijskiej, Reżimu Kontroli Technologii Rakietowych, Komitetu Zanggera, Grupy Dostawców Jądrowych, Porozumienia z Wassenaar i Haskiego kodeksu postępowania przeciwko proliferacji rakiet balistycznych;
+
+### 3)
+
+istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby zostać użyte do:
+
+### a)
+
+represji wewnętrznych,
+
+### b)
+
+działań stanowiących naruszenie międzynarodowego prawa humanitarnego;
+
+### 4)
+
+istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby zostać użyte w celu wywołania lub przedłużenia konfliktu zbrojnego lub zaostrzenia istniejących napięć lub konfliktów w państwie końcowego użytkownika;
+
+### 5)
+
+istnieje ryzyko, że przeznaczone do wywozu uzbrojenie będzie używane przez państwo zagranicznego odbiorcy przeciwko innemu państwu, w szczególności gdy istnieje konflikt zbrojny między państwem zagranicznego odbiorcy a innym państwem lub istnieje prawdopodobieństwo zaistnienia takiego konfliktu, lub państwo zagranicznego odbiorcy ma roszczenia terytorialne przeciwko innemu państwu, które w przeszłości próbowało zrealizować lub groziło ich zrealizowaniem za pomocą siły;
+
+### 6)
+
+podmiot nie daje rękojmi zgodnego z prawem prowadzenia obrotu;
+
+### 7)
+
+istnieje ryzyko, że przeznaczone do wywozu uzbrojenie mogłoby być w całości lub w części wykorzystane do nielegalnej lub sprzecznej z interesem Rzeczypospolitej Polskiej produkcji, eksploatacji, obsługi, konserwacji, przechowywania lub identyfikacji uzbrojenia.
+
+### 2.
+
+Organ kontroli obrotu może odmówić, w drodze decyzji administracyjnej, wydania zezwolenia indywidualnego lub zezwolenia globalnego na obrót uzbrojeniem, jeżeli:
+
+### 1)
+
+jego udzielenie miałoby negatywny wpływ na:
+
+### a)
+
+interesy związane z obroną i bezpieczeństwem Rzeczypospolitej Polskiej, innych państw członkowskich Unii Europejskiej oraz państw sojuszniczych i sprzymierzonych,
+
+### b)
+
+poszanowanie praw człowieka,
+
+### c)
+
+pokój, bezpieczeństwo i stabilność w regionie;
+
+### 2)
+
+istnieje ryzyko, że przeznaczone do wywozu uzbrojenie zostanie użyte przeciwko siłom zbrojnym państw członkowskich Unii Europejskiej oraz państw sojuszniczych i sprzymierzonych;
+
+### 3)
+
+państwo końcowego użytkownika:
+
+### a)
+
+popiera terroryzm lub międzynarodową przestępczość zorganizowaną,
+
+### b)
+
+nie przestrzega międzynarodowych zobowiązań, w szczególności dotyczących niestosowania siły oraz międzynarodowego prawa humanitarnego,
+
+### c)
+
+nie jest zaangażowane w sprawy nierozprzestrzeniania broni jądrowej oraz kontroli zbrojeń i rozbrojenia, w szczególności nie podpisało, nie ratyfikowało lub nie wprowadziło w życie Układu o nierozprzestrzenianiu broni jądrowej i konwencji, o których mowa w ust. 1 pkt 1 lit. b;
+
+### 4)
+
+istnieje ryzyko, że nastąpi zmiana końcowego użytkownika i końcowego przeznaczenia lub ponownego wywozu uzbrojenia na niepożądanych warunkach;
+
+### 5)
+
+przeznaczone do wywozu uzbrojenie nie odpowiada technicznym i ekonomicznym możliwościom państwa odbiorcy;
+
+### 6)
+
+podmiot naruszył przepisy dotyczące obrotu towarami o znaczeniu strategicznym.
+
+### 3.
+
+Organ kontroli obrotu informuje właściwe organy państw członkowskich Unii Europejskiej o odmowie wydania zezwolenia na obrót uzbrojeniem z przyczyn określonych w ust. 1 i 2, dołączając uzasadnienie odmowy jego wydania.
+
+### Art. 17.
+
+### 1.
+
+Organ kontroli obrotu może, w drodze decyzji administracyjnej, cofnąć lub zmienić zezwolenie indywidualne lub zezwolenie globalne, jeżeli:
+
+### 1)
+
+zaistnieją przesłanki, o których mowa w art. 15 i art. 16 ust. 1 i 2;
+
+### 2)
+
+podmiot dokonuje obrotu wbrew warunkom określonym w zezwoleniu indywidualnym lub zezwoleniu globalnym;
+
+### 3)
+
+podmiot utracił rękojmię zgodnego z prawem prowadzenia obrotu.
+
+### 2.
+
+Przed wydaniem decyzji w sprawie cofnięcia lub zmiany zezwolenia indywidualnego lub zezwolenia globalnego organ kontroli obrotu może wystąpić do organów opiniujących o zajęcie stanowiska. Do stanowiska stosuje się odpowiednio art. 12 ust. 2 i art. 12a.
+
+### 3.
+
+Cofnięcie lub zmiana zezwolenia indywidualnego lub zezwolenia globalnego z przyczyn leżących po stronie podmiotu następuje bez odszkodowania.
+
+” ;
+
+### 11)
+
+po art. 17 dodaje się art. 17a w brzmieniu:
+
+„
+
+### Art. 17a.
+
+### 1.
+
+Organ kontroli obrotu jest organem właściwym w zakresie:
+
+### 1)
+
+wykonywania obowiązków informacyjnych określonych w art. 4 ust. 1-3 i 6, art. 5 ust. 1, art. 8 ust. 2 i 3, art. 9 ust. 4 lit. b i c i ust. 6, art. 11 ust. 2, art. 13, art. 17 ust. 2 i art. 25 rozporządzenia nr 428/2009;
+
+### 2)
+
+rozstrzygania o konieczności uzyskania zezwolenia na wywóz produktów podwójnego zastosowania niewymienionych w załączniku I do rozporządzenia nr 428/2009 w przypadku, o którym mowa w art. 4 ust. 4 rozporządzenia nr 428/2009;
+
+### 3)
+
+wydawania zakazu tranzytu w przypadku, o którym mowa w art. 6 ust. 1 rozporządzenia nr 428/2009;
+
+### 4)
+
+przedstawienia Komisji Europejskiej wykazu, o którym mowa w art. 10 ust. 4 rozporządzenia nr 428/2009;
+
+### 5)
+
+zasięgania i wydawania opinii w przypadku, o którym mowa w art. 11 ust. 1 rozporządzenia nr 428/2009;
+
+### 6)
+
+występowania do właściwego organu państwa członkowskiego Unii Europejskiej o nieudzielanie zezwolenia albo jego unieważnienie, zawieszenie, modyfikację lub odwołanie w przypadku, o którym mowa w art. 11 ust. 2 zdanie pierwsze rozporządzenia nr 428/2009, a także prowadzenia konsultacji, zgodnie z art. 11 ust. 2 zdanie drugie rozporządzenia nr 428/2009, z właściwym organem państwa członkowskiego Unii Europejskiej, który wystąpił do organu kontroli obrotu o nieudzielanie zezwolenia, jego unieważnienie, zawieszenie, modyfikację lub odwołanie;
+
+### 7)
+
+wykonywania zadań, o których mowa w art. 13 ust. 2 rozporządzenia nr 428/2009;
+
+### 8)
+
+podejmowania decyzji o zawieszeniu wywozu z terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania wymienionych w załączniku I do rozporządzenia nr 428/2009 objętych ważnym zezwoleniem w przypadku spełnienia przesłanek, o których mowa w art. 16 ust. 3 lit. a i b rozporządzenia nr 428/2009;
+
+### 9)
+
+zasięgania opinii właściwego organu innego państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 16 ust. 4 rozporządzenia nr 428/2009;
+
+### 10)
+
+wzywania:
+
+### a)
+
+eksportera lub pośrednika zgodnie z art. 20 ust. 3 rozporządzenia nr 428/2009 do okazania, w trybie Kodeksu postępowania administracyjnego, zapisów lub rejestrów oraz dokumentów określonych w art. 20 ust. 1 i 2 rozporządzenia nr 428/2009,
+
+### b)
+
+podmiotu dokonującego transferu wewnątrzunijnego do okazania, w trybie Kodeksu postępowania administracyjnego, dokumentów i rejestrów, o których mowa w art. 22 ust. 8 rozporządzenia nr 428/2009;
+
+### 11)
+
+udzielania dodatkowych informacji w przypadku określonym w art. 22 ust. 9 rozporządzenia nr 428/2009;
+
+### 12)
+
+informowania Komisji Europejskiej i właściwych organów państw członkowskich Unii Europejskiej o podjętych środkach zgodnie z art. 22 ust. 5 rozporządzenia nr 428/2009;
+
+### 13)
+
+wyznaczania przedstawiciela Rzeczypospolitej Polskiej do Grupy Koordynacyjnej do spraw Produktów Podwójnego Zastosowania, o której mowa w art. 23 rozporządzenia nr 428/2009.
+
+### 2.
+
+Organ kontroli obrotu przed wydaniem decyzji w sprawie konieczności uzyskania zezwolenia na wywóz produktów podwójnego zastosowania niewymienionych w załączniku I do rozporządzenia nr 428/2009 w przypadku, o którym mowa w art. 4 ust. 4 rozporządzenia nr 428/2009, oraz w sprawie zakazu tranzytu, o którym mowa w art. 6 ust. 1 rozporządzenia nr 428/2009, może wystąpić do organów opiniujących o zajęcie stanowiska. Przepisy art. 12 ust. 2 i art. 12a stosuje się odpowiednio.
+
+” ;
+
+### 12)
+
+uchyla się art. 18 i art. 19;
+
+### 13)
+
+art. 20 otrzymuje brzmienie:
+
+„
+
+### Art. 20.
+
+### 1.
+
+Wywóz, przywóz lub tranzyt towarów o znaczeniu strategicznym jest realizowany w wyznaczonych urzędach celnych.
+
+### 2.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wykaz urzędów celnych, o których mowa w ust. 1, mając na względzie zapewnienie właściwej kontroli wywozu, przywozu i tranzytu towarów o znaczeniu strategicznym.
+
+### 3.
+
+Organ kontroli obrotu informuje Komisję Europejską o urzędach celnych upoważnionych do dokonywania czynności celnych w zakresie wywozu, przywozu i tranzytu towarów o znaczeniu strategicznym.
+
+” ;
+
+### 14)
+
+w art. 21:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Organ kontroli obrotu prowadzi rejestr udzielonych zezwoleń indywidualnych i zezwoleń globalnych oraz podmiotów korzystających z zezwoleń generalnych, zwany dalej „rejestrem”.
+
+” ,
+
+### b)
+
+uchyla się ust. 2,
+
+### c)
+
+w ust. 3 zdanie drugie otrzymuje brzmienie: „ Wpisu podmiotu dokonuje się niezwłocznie po złożeniu oświadczenia, o którym mowa w art. 8 ust. 3. ” ;
+
+### 15)
+
+rozdział 2a otrzymuje brzmienie:
+
+„
+
+### Rozdział 2a Monitorowanie przywozu lub transferu wewnątrzunijnego produktów podwójnego zastosowania wykorzystywanych w telekomunikacji lub do ochrony informacji
+
+### Art. 21a.
+
+Przywóz lub transfer wewnątrzunijny na terytorium Rzeczypospolitej Polskiej wykorzystywanych w telekomunikacji lub do ochrony informacji produktów podwójnego zastosowania określonych w części 1 „Telekomunikacja” poz. 5A001a lub 5A001b4 lub w części 2 „Ochrona informacji” kategorii 5 załącznika nr I do rozporządzenia nr 428/2009 podlega monitorowaniu przez organ monitorujący.
+
+### Art. 21b.
+
+### 1.
+
+Podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej przed dokonaniem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania określonych w art. 21a, jest obowiązany zgłosić organowi monitorującemu, w formie pisemnej, zamiar dokonania przywozu lub transferu wewnątrzunijnego tych produktów, zwany dalej „zgłoszeniem”.
+
+### 2.
+
+Przepis ust. 1 stosuje się odpowiednio do podmiotów zagranicznych.
+
+### 3.
+
+Jednostka organizacyjna podległa Ministrowi Obrony Narodowej, jest obowiązana dokonać zgłoszenia również Szefowi Służby Kontrwywiadu Wojskowego.
+
+### 4.
+
+Zgłoszenie doręcza się organowi monitorującemu nie później niż na 14 dni przed przewidywanym dniem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej.
+
+### 5.
+
+Dokonane zgłoszenie jest dokumentem mającym znaczenie dla kontroli wykonywanej przez organy Służby Celnej.
+
+### Art. 21c.
+
+### 1.
+
+Zgłoszenie zawiera:
+
+### 1)
+
+oznaczenie podmiotu zgłaszającego, określenie adresu siedziby albo adresu miejsca zamieszkania;
+
+### 2)
+
+oznaczenie podmiotu uprawnionego do odbioru produktu podwójnego zastosowania, określenie adresu siedziby albo adresu miejsca zamieszkania;
+
+### 3)
+
+oznaczenie producenta i końcowego użytkownika, określenie adresu siedziby albo adresu miejsca zamieszkania;
+
+### 4)
+
+określenie produktu podwójnego zastosowania, który będzie przedmiotem przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej, jego opis, określenie ilości i wartości;
+
+### 5)
+
+informację o sposobie wykorzystania produktu podwójnego zastosowania przez końcowego użytkownika;
+
+### 6)
+
+określenie kraju końcowego przeznaczenia;
+
+### 7)
+
+oświadczenie, że podmiot podejmie niezbędne działania, aby produkt, o którym mowa w zgłoszeniu, dotarł do końcowego użytkownika.
+
+### 2.
+
+Podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany powiadamiać organ monitorujący o każdej zmianie danych, o których mowa w ust. 1, w terminie 14 dni od dnia jej powstania.
+
+### 3.
+
+Przepis ust. 2 stosuje się odpowiednio do nabywcy w przypadku przeniesienia na niego prawa własności produktu podwójnego zastosowania określonego w zgłoszeniu.
+
+### 4.
+
+W przypadku przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej towarów i technologii związanych z ochroną informacji niejawnych podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej jest obowiązany dołączyć do zgłoszenia kopię koncesji na wykonywanie działalności w zakresie obrotu towarami i technologiami o przeznaczeniu wojskowym lub policyjnym, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym ([Dz. U. Nr 67, poz. 679](https://api.sejm.gov.pl/eli/acts/DU/2001/679/text.html), z późn. zm.[4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347, z 2009 r. Nr 18, poz. 97 i Nr 125, poz. 1036, z 2010 r. Nr 47, poz. 278 i Nr 155, poz. 1039 oraz z 2011 r. Nr 22, poz. 114, Nr 38, poz. 195 i Nr 106, poz. 622.](#gloss-0:4:)), o ile jest wymagana.
+
+### 5.
+
+W przypadku braków formalnych zgłoszenia organ monitorujący wzywa podmiot zamieszkujący albo mający siedzibę na terytorium Rzeczypospolitej Polskiej do ich usunięcia w terminie 7 dni od dnia doręczenia wezwania.
+
+### 6.
+
+Termin, o którym mowa w ust. 5, może zostać przedłużony na uzasadniony wniosek podmiotu zamieszkującego albo mającego siedzibę na terytorium Rzeczypospolitej Polskiej złożony przed jego upływem.
+
+### 7.
+
+W przypadku nieusunięcia braków formalnych zgłoszenia w terminie, o którym mowa w ust. 5 lub 6, organ monitorujący uznaje to zgłoszenie za niedokonane.
+
+### 8.
+
+Do dokumentu załączonego do zgłoszenia sporządzonego w języku obcym należy dołączyć tłumaczenie tego dokumentu na język polski.
+
+### 9.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór zgłoszenia, mając na względzie dane, o których mowa w ust. 1, oraz rodzaje produktów podlegających przywozowi lub transferowi wewnątrzunijnemu na terytorium Rzeczypospolitej Polskiej.
+
+### Art. 21d.
+
+Organ monitorujący informuje Szefa Agencji Wywiadu o przywozie lub transferze wewnątrzunijnym na terytorium Rzeczypospolitej Polskiej urządzeń kryptograficznych, przekazując informację o importerze lub odbiorcy oraz rodzaju przywożonych lub transferowanych urządzeń.
+
+” ;
+
+### 16)
+
+po rozdziale 2a dodaje się rozdział 2b w brzmieniu:
+
+„
+
+### Rozdział 2b Świadectwo wiarygodności odbiorcy
+
+### Art. 21e.
+
+Wiarygodność przedsiębiorcy zamieszkującego albo mającego siedzibę na terytorium Rzeczypospolitej Polskiej, będącego odbiorcą uzbrojenia przekazywanego w ramach zezwoleń generalnych na transfer wewnątrzunijny wydanych przez właściwe organy innych państw członkowskich Unii Europejskiej, poświadcza świadectwo wiarygodności odbiorcy wydawane przez Szefa Agencji Bezpieczeństwa Wewnętrznego, zwanego dalej „Szefem ABW”, w drodze decyzji administracyjnej.
+
+### Art. 21f.
+
+Świadectwo wiarygodności odbiorcy wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej jest ważne na terytorium Rzeczypospolitej Polskiej.
+
+### Art. 21g.
+
+### 1.
+
+Świadectwo wiarygodności odbiorcy wydaje się na wniosek przedsiębiorcy, o którym mowa w art. 21e.
+
+### 2.
+
+Wniosek o wydanie świadectwa wiarygodności odbiorcy zawiera:
+
+### 1)
+
+dane identyfikujące odbiorcę;
+
+### 2)
+
+oświadczenie o strukturze kapitałowej i powiązaniach kapitałowych odbiorcy;
+
+### 3)
+
+numer koncesji na obrót uzbrojeniem, o której mowa w ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
+
+### 3.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór wniosku o wydanie świadectwa wiarygodności odbiorcy, mając na uwadze dane, o których mowa w ust. 2, oraz rodzaje uzbrojenia.
+
+### Art. 21h.
+
+### 1.
+
+Świadectwo wiarygodności odbiorcy wydaje się, jeżeli przedsiębiorca:
+
+### 1)
+
+prowadzi na obszarze Unii Europejskiej działalność gospodarczą związaną z uzbrojeniem, w szczególności związaną z integracją systemów i podsystemów;
+
+### 2)
+
+wyznaczy pracownika wykonującego czynności kierownicze, odpowiedzialnego za transfery wewnątrzunijne i wywóz uzbrojenia;
+
+### 3)
+
+dołączy do wniosku, o którym mowa w art. 21g ust. 1:
+
+### a)
+
+pisemne zobowiązanie do przestrzegania i egzekwowania warunków związanych z końcowym zastosowaniem i wywozem lub transferem wewnątrzunijnym uzbrojenia,
+
+### b)
+
+pisemne zobowiązanie do przekazania Szefowi ABW dokumentów niezbędnych do weryfikacji informacji, o których mowa w lit. d oraz w art. 21g ust. 2, i potwierdzenia spełnienia warunków, o których mowa w pkt 1 i 2, oraz do dostarczenia informacji dotyczących końcowych użytkowników i ostatecznego przeznaczenia uzbrojenia będącego przedmiotem wywozu lub transferu wewnątrzunijnego z terytorium i na terytorium Rzeczypospolitej Polskiej,
+
+### c)
+
+kopię certyfikatu zgodności, o którym mowa w art. 11 ust. 5,
+
+### d)
+
+wykaz umów na obrót uzbrojeniem zawartych w okresie 6 miesięcy poprzedzających złożenie wniosku,
+
+### e)
+
+pisemne zobowiązanie do informowania Szefa ABW o zmianach danych objętych wnioskiem.
+
+### 2.
+
+Szef ABW, przed wydaniem świadectwa wiarygodności odbiorcy, może wystąpić do organu kontroli obrotu, Szefa Agencji Wywiadu, Szefa Centralnego Biura Antykorupcyjnego, Szefa Służby Wywiadu Wojskowego, Szefa Służby Kontrwywiadu Wojskowego, Komendanta Głównego Policji, Komendanta Głównego Straży Granicznej, ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw finansów publicznych o przekazanie stanowiska o braku przeciwwskazań do wydania świadectwa wiarygodności odbiorcy. Przepisy art. 12 ust. 2 i art. 12a stosuje się odpowiednio.
+
+### 3.
+
+Szef ABW, wydając świadectwo wiarygodności odbiorcy, może odstąpić od uzasadnienia decyzji albo ograniczyć uzasadnienie, ze względu na interes bezpieczeństwa państwa lub porządek publiczny.
+
+### Art. 21i.
+
+Organy administracji rządowej, organy państwowe, organy samorządu terytorialnego, sądy oraz przedsiębiorcy prowadzący działalność w zakresie użyteczności publicznej, na żądanie Szefa ABW, udzielają informacji w zakresie niezbędnym do wydania lub cofnięcia świadectwa wiarygodności odbiorcy.
+
+### Art. 21j.
+
+Świadectwo wiarygodności odbiorcy jest wydawane na okres 5 lat.
+
+### Art. 21k.
+
+### 1.
+
+Świadectwo wiarygodności odbiorcy zawiera:
+
+### 1)
+
+oznaczenie organu, który wystawił świadectwo;
+
+### 2)
+
+nazwę i adres odbiorcy;
+
+### 3)
+
+poświadczenie wiarygodności odbiorcy wydane na podstawie art. 21h ust. 1;
+
+### 4)
+
+datę wydania i okres ważności świadectwa.
+
+### 2.
+
+Prezes Rady Ministrów określi, w drodze rozporządzenia, wzór świadectwa wiarygodności odbiorcy, uwzględniając dane, o których mowa w ust. 1.
+
+### Art. 21l.
+
+Szef ABW prowadzi kontrolę w zakresie spełniania przez odbiorcę warunków i zobowiązań określonych w art. 21h ust. 1. Przepisy art. 30 i art. 32 stosuje się odpowiednio.
+
+### Art. 21m.
+
+Szef ABW, w drodze decyzji administracyjnej, odmawia wydania świadectwa wiarygodności odbiorcy albo cofa świadectwo wiarygodności odbiorcy, gdy odbiorca nie spełnia warunków określonych w art. 21h ust. 1 lub naruszył przepisy dotyczące obrotu towarami o znaczeniu strategicznym. Przepis art. 21h ust. 3 stosuje się odpowiednio.
+
+### Art. 21n.
+
+Kopię decyzji o cofnięciu świadectwa wiarygodności odbiorcy Szef ABW przekazuje organowi kontroli obrotu.
+
+### Art. 21o.
+
+Organ kontroli obrotu informuje Komisję Europejską oraz właściwe organy państw członkowskich Unii Europejskiej o przypadkach cofnięcia świadectwa wiarygodności odbiorcy.
+
+### Art. 21p.
+
+### 1.
+
+Szef ABW prowadzi wykaz certyfikowanych odbiorców mających miejsce zamieszkania albo siedzibę na terytorium Rzeczypospolitej Polskiej.
+
+### 2.
+
+Wykaz, o którym mowa w ust. 1, Szef ABW przesyła organowi kontroli obrotu, który przesyła go Komisji Europejskiej, Parlamentowi Europejskiemu oraz właściwym organom państw członkowskich Unii Europejskiej.
+
+### Art. 21q.
+
+Minister właściwy do spraw zagranicznych informuje właściwe organy państw członkowskich Unii Europejskiej o zagrożeniu nieprzestrzeganiem warunków krajowego zezwolenia generalnego na transfer wewnątrzunijny uzbrojenia przez odbiorcę w innym państwie, który uzyskał świadectwo wiarygodności odbiorcy, lub o naruszeniu przez niego bezpieczeństwa publicznego lub istotnych interesów w zakresie bezpieczeństwa państwa oraz, o ile to konieczne, zwraca się do tych organów o wyjaśnienia w tej sprawie.
+
+” ;
+
+### 17)
+
+w art. 22:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+W przypadku gdy właściwe organy kraju zagranicznego eksportera tego wymagają, organ kontroli obrotu, na wniosek podmiotu, może wydać certyfikat importowy lub poświadczyć oświadczenie końcowego użytkownika.
+
+” ,
+
+### b)
+
+po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:
+
+„
+
+### 1a.
+
+W przypadku gdy właściwe organy kraju zagranicznego eksportera tego wymagają, organ kontroli obrotu, w ramach poświadczenia oświadczenia końcowego użytkownika, może zobowiązać się do uznania ograniczeń i warunków związanych z obrotem towarami o znaczeniu strategicznym określonych przez te organy.
+
+### 1b.
+
+Organ kontroli obrotu może odmówić wydania zezwolenia na obrót z zagranicą towarami o znaczeniu strategicznym objęty oświadczeniem końcowego użytkownika mającego siedzibę albo miejsce zamieszkania w Rzeczypospolitej Polskiej, jeżeli nie zostaną spełnione warunki i ograniczenia określone przez właściwe organy kraju zagranicznego eksportera.
+
+” ,
+
+### c)
+
+ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Do wniosku o wydanie certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika stosuje się odpowiednio przepisy art. 9 ust. 2, 6 i 7.
+
+” ,
+
+### d)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Organ kontroli obrotu przed wydaniem certyfikatu importowego lub poświadczeniem oświadczenia końcowego użytkownika może wystąpić do organów opiniujących o zajęcie stanowiska. Przepisy art. 12 ust. 2 i art. 12a stosuje się odpowiednio.
+
+” ,
+
+### e)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Certyfikat importowy oraz poświadczone oświadczenie końcowego użytkownika są dokumentami przeznaczonymi do okazania właściwym władzom poza granicami Rzeczypospolitej Polskiej i zaświadczają o wiarygodności podmiotu i o objęciu kontrolą przez właściwe organy Rzeczypospolitej Polskiej transakcji w zakresie przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym.
+
+” ,
+
+### f)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Podmioty dostarczające towary o znaczeniu strategicznym mające siedzibę albo miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej są obowiązane do udokumentowanego informowania podmiotów odbierających towary o znaczeniu strategicznym o warunkach zezwolenia na obrót towarami o znaczeniu strategicznym, w tym o ograniczeniach w zakresie dysponowania towarem o znaczeniu strategicznym. W przypadku wydanego przez organ kontroli obrotu poświadczenia oświadczenia końcowego użytkownika w odniesieniu do towaru o znaczeniu strategicznym lub jego części stanowiących przedmiot obrotu, do informacji należy dołączyć numer i datę poświadczenia oraz nazwę końcowego użytkownika.
+
+” ,
+
+### g)
+
+ust. 6-8 otrzymują brzmienie:
+
+„
+
+### 6.
+
+Organ kontroli obrotu może odmówić wydania certyfikatu importowego lub odmówić poświadczenia oświadczenia końcowego użytkownika, jeżeli nie jest możliwe potwierdzenie faktów, o których mowa w ust. 3, z powodu braku rękojmi zgodnego z prawem prowadzenia obrotu towarami o znaczeniu strategicznym lub niestosowania przez podmiot wewnętrznego systemu kontroli.
+
+### 7.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzór certyfikatu importowego, uwzględniając dane, o których mowa w ust. 8.
+
+### 8.
+
+Wzór certyfikatu, o którym mowa w ust. 7, zawiera w szczególności: nazwę importera lub odbiorcy, nazwę zagranicznego eksportera, ich siedziby i adresy, nazwę i opis towaru o znaczeniu strategicznym, numer kontrolny, ilość i wartość, opis ostatecznego wykorzystania towaru o znaczeniu strategicznym oraz oświadczenie, że importer lub odbiorca:
+
+### 1)
+
+zobowiązał się, iż wprowadzi wymienione w certyfikacie towary o znaczeniu strategicznym na terytorium Rzeczypospolitej Polskiej i niezwłocznie powiadomi organ kontroli obrotu o zmianach w warunkach kontraktu;
+
+### 2)
+
+złożył oświadczenie, że jest świadomy, że dalszy wywóz lub transfer wewnątrzunijny z terytorium Rzeczypospolitej Polskiej, zmiana końcowego użytkownika lub deklarowanego końcowego wykorzystania towaru o znaczeniu strategicznym wymagają uprzedniej zgody organu kontroli obrotu;
+
+### 3)
+
+w uzgodnieniu z końcowym użytkownikiem zobowiązał się do umożliwienia przeprowadzenia przez organ kontroli obrotu, przy ewentualnym udziale przedstawicieli władz kraju zagranicznego eksportera, kontroli zgodności wykorzystania towarów o znaczeniu strategicznym z warunkami zezwolenia w miejscu ich wykorzystania w całym okresie pozostawania na terytorium Rzeczypospolitej Polskiej.
+
+” ;
+
+### 18)
+
+w art. 23:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Na potrzeby wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym organ kontroli obrotu żąda od podmiotu dostarczenia certyfikatu importowego lub oświadczenia końcowego użytkownika poświadczonego przez właściwe organy kraju zagranicznego importera lub odbiorcy.
+
+” ,
+
+### b)
+
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+
+„
+
+### 3a.
+
+Oświadczenie, o którym mowa w ust. 2, jest dokumentem, w którym zagraniczny końcowy użytkownik oraz importer lub odbiorca zobowiązuje się do przestrzegania postanowień w zakresie dysponowania oraz wykorzystywania towarów o znaczeniu strategicznym objętych oświadczeniem.
+
+” ,
+
+### c)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+Oświadczenie, o którym mowa w ust. 2, zawiera w szczególności:
+
+### 1)
+
+nazwę i adres eksportera lub dostawcy;
+
+### 2)
+
+określenie towaru o znaczeniu strategicznym, jego opis, oznaczenie, ilość i wartość oraz numer kontrolny;
+
+### 3)
+
+opis końcowego zastosowania towaru o znaczeniu strategicznym;
+
+### 4)
+
+określenie kraju końcowego przeznaczenia;
+
+### 5)
+
+nazwę i adres zagranicznego końcowego użytkownika;
+
+### 6)
+
+zobowiązanie końcowego użytkownika do nieprzekazywania uzbrojenia odbiorcom w kraju objętym embargiem na broń, jeżeli przedmiotem obrotu jest uzbrojenie;
+
+### 7)
+
+zobowiązanie końcowego użytkownika do nieprzekazywania towaru o znaczeniu strategicznym żadnemu innemu podmiotowi bez uprzedniej zgody organu kontroli obrotu;
+
+### 8)
+
+poświadczenie przez właściwy organ kraju końcowego użytkownika przyjęcia przez końcowego użytkownika zobowiązań, o których mowa w pkt 6 lub 7, oraz oświadczenie właściwego organu kraju końcowego użytkownika, że końcowy użytkownik jest upoważniony do posiadania towarów o znaczeniu strategicznym;
+
+### 9)
+
+zobowiązanie właściwego organu kraju końcowego użytkownika, że bez wcześniejszej zgody tego organu nie zostanie udzielone zezwolenie na: wywóz, sprzedaż, pożyczenie lub dysponowanie towarami o znaczeniu strategicznym objętymi oświadczeniem w inny sposób niż określony w oświadczeniu końcowego użytkownika;
+
+### 10)
+
+nazwę i adres zagranicznego importera lub odbiorcy;
+
+### 11)
+
+zobowiązanie importera lub odbiorcy do nieprzekazywania uzbrojenia odbiorcom z kraju przeznaczenia objętego embargiem na broń, jeżeli przedmiotem obrotu jest uzbrojenie;
+
+### 12)
+
+zobowiązanie importera lub odbiorcy do nieprzekazywania towaru o znaczeniu strategicznym żadnemu innemu odbiorcy niż końcowy użytkownik bez uprzedniej zgody organu kontroli obrotu;
+
+### 13)
+
+poświadczenie przez właściwy organ kraju importera lub odbiorcy przyjęcia przez importera lub odbiorcę zobowiązań, o których mowa w pkt 11 lub 12, oraz oświadczenie właściwego organu kraju importera lub odbiorcy, że importer lub odbiorca jest upoważniony do posiadania towarów o znaczeniu strategicznym;
+
+### 14)
+
+wskazanie pośrednich nabywców, o ile występują.
+
+” ,
+
+### d)
+
+dodaje się ust. 5 i 6 w brzmieniu:
+
+„
+
+### 5.
+
+Oświadczenie, o którym mowa w ust. 2, może nie zawierać jednego lub więcej elementów wymienionych w ust. 4 pkt 7-9, 12 i 13, w przypadku gdy państwo końcowego użytkownika lub importera posiada system kontroli obrotu, w szczególności jest członkiem międzynarodowych porozumień, o których mowa w art. 16 ust. 1 pkt 2 lit. b i c, oraz jeżeli:
+
+### 1)
+
+stopień zaawansowania technologicznego towaru o znaczeniu strategicznym jest niski i towar o znaczeniu strategicznym nie jest śmiercionośny lub nie jest kluczową częścią składową lub komponentem takiego towaru lub
+
+### 2)
+
+końcowy użytkownik ma status organu lub podmiotu państwowego.
+
+### 6.
+
+W przypadku wywozu uzbrojenia do końcowych użytkowników posiadających siedzibę poza obszarem Unii Europejskiej, z wyłączeniem końcowych użytkowników posiadających siedzibę w krajach określonych w części 2 załącznika IIa do rozporządzenia nr 428/2009, polskie przedstawicielstwo dyplomatyczne lub urząd konsularny potwierdzają autentyczność podpisu osoby reprezentującej zagraniczny organ właściwy do spraw kontroli obrotu, poświadczającej oświadczenie, o którym mowa w ust. 2, oraz zgodność tego oświadczenia z prawem miejsca jego wystawienia.
+
+” ;
+
+### 19)
+
+w art. 24:
+
+### a)
+
+ust. 1 otrzymuje brzmienie:
+
+„
+
+### 1.
+
+Podmiot, który otrzymał certyfikat importowy, jest uprawniony, w terminie 30 dni od dnia zwolnienia lub odbioru towaru o znaczeniu strategicznym, wystąpić do naczelnika urzędu celnego właściwego ze względu na siedzibę końcowego użytkownika tego towaru z wnioskiem o wydanie certyfikatu weryfikacji dostawy stwierdzającego, że towar objęty certyfikatem został przez ten podmiot faktycznie i w sposób zgodny z przepisami prawa wprowadzony na terytorium Rzeczypospolitej Polskiej.
+
+” ,
+
+### b)
+
+ust. 3-6 otrzymują brzmienie:
+
+„
+
+### 3.
+
+Podmiot jest obowiązany zwrócić właściwemu organowi Służby Celnej koszty poniesione przez ten organ w toku postępowania w sprawie wydania certyfikatu weryfikacji dostawy.
+
+### 4.
+
+Certyfikat weryfikacji dostawy zawiera w szczególności:
+
+### 1)
+
+nazwę importera lub odbiorcy, nazwę eksportera lub dostawcy, ich siedziby i adresy;
+
+### 2)
+
+nazwę i opis towaru o znaczeniu strategicznym;
+
+### 3)
+
+numer kontrolny, ilość i wartość, opis ostatecznego wykorzystania towaru o znaczeniu strategicznym;
+
+### 4)
+
+numer zgłoszenia celnego, numer konosamentu, listu przewozowego lub innego dokumentu potwierdzającego przywóz towarów o znaczeniu strategicznym oraz potwierdzenie, że importer lub odbiorca przedstawił wiarygodne dowody dokonania dostawy i wprowadził wymienione w certyfikacie towary o znaczeniu strategicznym na terytorium Rzeczypospolitej Polskiej zgodnie z obowiązującymi przepisami prawa.
+
+### 5.
+
+Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór certyfikatu weryfikacji dostawy oraz sposób ewidencjonowania wydanych certyfikatów, uwzględniając elementy określone w ust. 4 oraz mając na uwadze zapewnienie możliwości weryfikacji zaewidencjonowanych danych.
+
+### 6.
+
+W przypadku wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej towarów o znaczeniu strategicznym, organ kontroli obrotu może żądać od podmiotu dostarczenia certyfikatu weryfikacji dostawy wydawanego przez właściwe organy kraju importera lub odbiorcy.
+
+” ;
+
+### 20)
+
+art. 25 i art. 26 otrzymują brzmienie:
+
+„
+
+### Art. 25.
+
+### 1.
+
+Podmiot dokonujący obrotu towarami o znaczeniu strategicznym jest obowiązany do prowadzenia ewidencji tego obrotu.
+
+### 2.
+
+Ewidencja, o której mowa w ust. 1, zawiera w szczególności następujące dane:
+
+### 1)
+
+opis towaru o znaczeniu strategicznym oraz jego oznaczenie;
+
+### 2)
+
+ilość i wartość towaru o znaczeniu strategicznym;
+
+### 3)
+
+daty obrotu;
+
+### 4)
+
+nazwę i adres eksportera lub dostawcy oraz importera lub odbiorcy;
+
+### 5)
+
+końcowe przeznaczenie i oznaczenie końcowego użytkownika;
+
+### 6)
+
+dowód, że informacja na temat ograniczeń eksportowych związanych z zezwoleniem na transfer została przekazana odbiorcy towarów o znaczeniu strategicznym.
+
+### 3.
+
+Podmiot dokonujący obrotu towarami o znaczeniu strategicznym, jest obowiązany do przechowywania zapisów, rejestrów oraz dokumentów gromadzonych w ramach ewidencji, o której mowa w ust. 1, przez okres 5 lat, licząc od końca roku kalendarzowego, w którym dokonano obrotu.
+
+### 4.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe informacje gromadzone w ewidencji, o której mowa w ust. 1, oraz sposób jej prowadzenia, mając na względzie warunki, jakim powinien odpowiadać wewnętrzny system kontroli oraz zakres danych, o których mowa w ust. 2.
+
+### Art. 26.
+
+### 1.
+
+Podmiot dokonujący obrotu w ramach zezwoleń generalnych jest obowiązany przekazać organowi kontroli obrotu coroczną informację o realizacji tego obrotu, w terminie do końca I kwartału następnego roku.
+
+### 2.
+
+Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres informacji, o których mowa w ust. 1, uwzględniając dane zawarte w ewidencji, o których mowa w art. 25 ust. 2, oraz rodzaje towarów o znaczeniu strategicznym.
+
+” ;
+
+### 21)
+
+po art. 27 dodaje się art. 27a-27c w brzmieniu:
+
+„
+
+### Art. 27a.
+
+### 1.
+
+Podmiot dokonujący wywozu uzbrojenia jest obowiązany przekazać ministrowi właściwemu do spraw zagranicznych roczny raport z faktycznego wykonania tego wywozu, w terminie do końca kwietnia następnego roku.
+
+### 2.
+
+Raport, o którym mowa w ust. 1, zawiera w szczególności:
+
+### 1)
+
+nazwę, ilość i wartość uzbrojenia będącego przedmiotem wywozu;
+
+### 2)
+
+kategorię kontrolną;
+
+### 3)
+
+numery wykorzystanych zezwoleń;
+
+### 4)
+
+kraj końcowego użytkownika.
+
+### Art. 27b.
+
+Minister właściwy do spraw zagranicznych określi, w drodze rozporządzenia, wzór raportu, o którym mowa w art. 27a ust. 1, uwzględniając informacje, o których mowa w art. 27a ust. 2, oraz rodzaje uzbrojenia.
+
+### Art. 27c.
+
+### 1.
+
+Minister właściwy do spraw zagranicznych sporządza roczne sprawozdanie dotyczące wywozu uzbrojenia, które przekazuje właściwym organom państw członkowskich Unii Europejskiej, w terminie do końca III kwartału następnego roku.
+
+### 2.
+
+Minister właściwy do spraw zagranicznych publikuje sprawozdanie, o którym mowa w ust. 1, w terminie do końca III kwartału następnego roku.
+
+” ;
+
+### 22)
+
+w art. 29 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Na wniosek organu kontroli obrotu organy opiniujące delegują do prac w zespole funkcjonariuszy, żołnierzy lub pracowników podległych albo nadzorowanych jednostek organizacyjnych. W skład zespołu organ kontroli obrotu może także powołać biegłych i ekspertów, za ich zgodą.
+
+” ;
+
+### 23)
+
+w art. 30:
+
+### a)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Kierownik zespołu przekazuje kontrolowanemu protokół pokontrolny, do którego kontrolowany ma prawo zgłosić uwagi, w terminie 14 dni od dnia jego otrzymania.
+
+” ,
+
+### b)
+
+dodaje się ust. 4 w brzmieniu:
+
+„
+
+### 4.
+
+Protokół pokontrolny wraz z uwagami zgłoszonymi przez kontrolowanego kierownik zespołu przekazuje organowi kontroli obrotu.
+
+” ;
+
+### 24)
+
+art. 31 i art. 32 otrzymują brzmienie:
+
+„
+
+### Art. 31.
+
+### 1.
+
+W przypadku stwierdzenia nieprawidłowości w obrocie, organ kontroli obrotu wzywa podmiot do przywrócenia stanu zgodnego z ustawą w terminie miesiąca od dnia doręczenia wezwania.
+
+### 2.
+
+Po bezskutecznym upływie terminu, o którym mowa w ust. 1, organ kontroli obrotu cofa, w drodze decyzji administracyjnej, zezwolenia indywidualne lub zezwolenia globalne. W przypadku zezwoleń generalnych organ kontroli obrotu wydaje decyzję administracyjną zakazującą podmiotowi korzystania z zezwolenia. O wydaniu decyzji organ kontroli obrotu informuje organy opiniujące.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, podmiot może otrzymać następne zezwolenie indywidualne lub zezwolenie globalne lub skorzystać z zezwolenia generalnego nie wcześniej niż po upływie roku odpowiednio od dnia, w którym decyzja o cofnięciu zezwolenia indywidualnego lub zezwolenia globalnego lub decyzja o zakazie korzystania z zezwolenia generalnego stała się ostateczna.
+
+### Art. 32.
+
+Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+
+” ;
+
+### 25)
+
+w art. 33:
+
+### a)
+
+po ust. 2 dodaje się ust. 2a w brzmieniu:
+
+„
+
+### 2a.
+
+Kto zamieszcza nieprawdziwe lub niepełne informacje we wniosku o wydanie zezwolenia na obrót podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+
+” ,
+
+### b)
+
+ust. 4 otrzymuje brzmienie:
+
+„
+
+### 4.
+
+W razie skazania za przestępstwo określone w ust. 1, 2 lub 3 sąd może orzec przepadek towarów o znaczeniu strategicznym lub innych przedmiotów służących lub przeznaczonych do popełnienia albo pochodzących bezpośrednio lub pośrednio z przestępstwa, w tym środków płatniczych i papierów wartościowych, chociażby nie stanowiły one własności sprawcy.
+
+” ;
+
+### 26)
+
+art. 34 otrzymuje brzmienie:
+
+„
+
+### Art. 34.
+
+Kto nie wypełnia obowiązku, o którym mowa w art. 26 ust. 1, podlega karze grzywny.
+
+” ;
+
+### 27)
+
+art. 37 i art. 37a otrzymują brzmienie:
+
+„
+
+### Art. 37.
+
+Osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, o ile posiada zdolność prawną, która dokonuje obrotu bez ważnego zezwolenia, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 200 000 zł.
+
+### Art. 37a.
+
+Podmiotowi dokonującemu przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej produktów podwójnego zastosowania określonych w art. 21a, bez zgłoszenia zamiaru dokonania przywozu lub transferu wewnątrzunijnego na terytorium Rzeczypospolitej Polskiej organowi monitorującemu, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 100 000 zł.
+
+” ;
+
+### 28)
+
+po art. 37a dodaje się art. 37b w brzmieniu:
+
+„
+
+### Art. 37b.
+
+Podmiotowi, który nie wypełnia obowiązków, o których mowa w art. 8 ust. 3, art. 22 ust. 3a, art. 25 ust. 1 i art. 27a ust. 1, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 100 000 zł.
+
+” ;
+
+### 29)
+
+art. 38 i art. 39 otrzymują brzmienie:
+
+„
+
+### Art. 38.
+
+Osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, o ile posiada zdolność prawną, która dokonuje obrotu wbrew warunkom określonym w zezwoleniu lub zamieszcza nieprawdziwe lub niepełne informacje we wniosku o wydanie zezwolenia organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 100 000 zł.
+
+### Art. 39.
+
+Osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej, o ile posiada zdolność prawną, która nie wypełnia obowiązków lub warunków, o których mowa w art. 26 ust. 1, organ kontroli obrotu wymierza, w drodze decyzji administracyjnej, karę pieniężną w wysokości do 50 000 zł.
+
+” ;
+
+### 30)
+
+art. 42 otrzymuje brzmienie:
+
+„
+
+### Art. 42.
+
+W przypadku gdy zapłata wymierzonej kary pieniężnej w terminie określonym w art. 41 ust. 1 znacznie ograniczy lub uniemożliwi dalsze prowadzenie działalności gospodarczej przez podmiot, organ kontroli obrotu może na wniosek podmiotu wydać decyzję administracyjną o odroczeniu terminu płatności lub rozłożeniu kary pieniężnej na raty, na okres nie dłuższy niż rok.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego ([Dz. U. z 2004 r. Nr 163, poz. 1711](https://api.sejm.gov.pl/eli/acts/DU/2004/1711/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398, z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217, Nr 227, poz. 1658 i Nr 249, poz. 1832 oraz z 2008 r. Nr 144, poz. 901 i Nr 227, poz. 1505.](#gloss-0:5:)) art. 4c otrzymuje brzmienie:
+
+„
+
+### Art. 4c.
+
+Minister Obrony Narodowej, na podstawie umów międzynarodowych, może przekazywać nieodpłatnie siłom zbrojnym państw będących stronami tych umów uzbrojenie i produkty podwójnego zastosowania, określone w art. 3 pkt 1 i 2 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ([Dz. U. z 2004 r. Nr 229, poz. 2315](https://api.sejm.gov.pl/eli/acts/DU/2004/2315/text.html), z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html) oraz z [2012 r. poz. 707](https://api.sejm.gov.pl/eli/acts/DU/2012/707/text.html)).
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego ([Dz. U. Nr 104, poz. 709](https://api.sejm.gov.pl/eli/acts/DU/2006/709/text.html), z późn. zm.[6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455.](#gloss-0:6:)) w art. 5 w ust. 1 w pkt 1 lit. f otrzymuje brzmienie:
+
+„
+
+### f)
+
+określonych w art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ([Dz. U. z 2004 r. Nr 229, poz. 2315](https://api.sejm.gov.pl/eli/acts/DU/2004/2315/text.html), z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html) oraz z [2012 r. poz. 707](https://api.sejm.gov.pl/eli/acts/DU/2012/707/text.html)),
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 27 sierpnia 2009 r. o Służbie Celnej ([Dz. U. Nr 168, poz. 1323](https://api.sejm.gov.pl/eli/acts/DU/2009/1323/text.html), z późn. zm.[7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016 oraz z 2012 r. poz. 362 i 627.](#gloss-0:7:)) w art. 2 w ust. 1 w pkt 6 lit. f otrzymuje brzmienie:
+
+„
+
+### f)
+
+ograniczeniom obrotu towarami i technologiami o znaczeniu strategicznym, określonym w art. 33 ust. 1, 2 i 3 ustawy z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa ([Dz. U. z 2004 r. Nr 229, poz. 2315](https://api.sejm.gov.pl/eli/acts/DU/2004/2315/text.html), z [2009 r. Nr 18, poz. 97](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.html) oraz z [2012 r. poz. 707](https://api.sejm.gov.pl/eli/acts/DU/2012/707/text.html))
+
+” .
+
+### Art. 5.
+
+### 1.
+
+Zezwolenia indywidualne i zezwolenia globalne wydane na podstawie przepisów ustawy zmienianej w art. 1 przed dniem wejścia w życie niniejszej ustawy zachowują ważność do czasu ich wygaśnięcia.
+
+### 2.
+
+Potwierdzone oświadczenia końcowego użytkownika, certyfikaty importowe i certyfikaty weryfikacji dostawy wydane na podstawie przepisów ustawy zmienianej w art. 1 przed dniem wejścia w życie niniejszej ustawy zachowują ważność.
+
+### Art. 6.
+
+### 1.
+
+Do spraw wszczętych na podstawie przepisów ustawy zmienianej w art. 1 i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### 2.
+
+Do spraw wszczętych na podstawie art. 24 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
+
+### Art. 7.
+
+### 1.
+
+Certyfikat zgodności, o którym mowa w art. 11 ust. 4 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, wydany przed dniem wejścia w życie niniejszej ustawy, zachowuje ważność do czasu jego wygaśnięcia.
+
+### 2.
+
+U przedsiębiorcy, w stosunku do którego, w okresie ważności certyfikatu zgodności rozpoczynającym się przed dniem wejścia w życie niniejszej ustawy, przeprowadzono co najmniej 3 kontrole na podstawie art. 11 ust. 6 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, do czasu upływu tego okresu nie przeprowadza się kontroli.
+
+### Art. 8.
+
+Kontrolę, o której mowa w art. 28 ustawy zmienianej w art. 1, wszczętą i niezakończoną do dnia wejścia w życie niniejszej ustawy, prowadzi się według przepisów dotychczasowych.
+
+### Art. 9.
+
+Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy w zakresie wpisu do rejestru, o którym mowa w art. 21 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
+
+### Art. 10.
+
+### 1.
+
+Podmiot - w stosunku do którego obowiązek przekazania organowi kontroli obrotu informacji, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, powstał przed dniem wejścia w życie niniejszej ustawy - przekazuje tę informację na zasadach dotychczasowych.
+
+### 2.
+
+Podmiot - w stosunku do którego obowiązek przekazania organowi kontroli obrotu informacji, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, powstał po dniu wejścia w życie niniejszej ustawy - przekazuje organowi kontroli obrotu pierwszą informację, o której mowa w art. 26 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 do końca I kwartału 2014 r.
+
+### 3.
+
+Podmiot sporządza pierwszy raport, o którym mowa w art. 27a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 i przekazuje ministrowi właściwemu do spraw zagranicznych do końca kwietnia 2014 r.
+
+### 4.
+
+Minister właściwy do spraw zagranicznych sporządza pierwsze sprawozdanie, o którym mowa w art. 27c ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, za rok 2013 i przekazuje właściwym organom państw członkowskich Unii Europejskiej oraz publikuje do końca III kwartału 2014 r.
+
+### Art. 11.
+
+Przepisy wykonawcze wydane na podstawie art. 6 ust. 5 i 6, art. 9 ust. 6, art. 11 ust. 7, art. 20 ust. 2, art. 21c ust. 8, art. 22 ust. 7, art. 24 ust. 4, art. 25 ust. 2 i art. 26 ust. 2 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, pozostają w mocy do czasu wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 6a ust. 3, art. 6b, art. 9 ust. 8, art. 11 ust. 8, art. 20 ust. 2, art. 21c ust. 9, art. 22 ust. 7, art. 24 ust. 5, art. 25 ust. 4 i art. 26 ust. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 12.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Przepisy niniejszej ustawy wykonują postanowienia rozporządzenia Rady (WE) nr 428/2009 z dnia 5 maja 2009 r. ustanawiające wspólnotowy system kontroli wywozu, transferu, pośrednictwa i tranzytu w odniesieniu do produktów podwójnego zastosowania (Dz. Urz. UE L 134 z 29.05.2009, str. 1) i postanowienia wspólnego stanowiska Rady 2008/944/WPZiB z dnia 8 grudnia 2008 r. określające wspólne zasady kontroli wywozu technologii wojskowych i sprzętu wojskowego (Dz. Urz. UE L 335 z 13.12.2008, str. 99) oraz wdrażają postanowienia dyrektywy Parlamentu Europejskiego i Rady 2009/43/WE z dnia 6 maja 2009 r. w sprawie uproszczenia warunków transferów produktów związanych z obronnością we Wspólnocie (Dz. Urz. UE L 146 z 10.06.2009, str. 1). 2) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę z dnia 27 sierpnia 2009 r. o Służbie Celnej. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 239, poz. 1593 oraz z 2011 r. Nr 85, poz. 459, Nr 106, poz. 622, Nr 112, poz. 654, Nr 120, poz. 690, Nr 131, poz. 764, Nr 132, poz. 766, Nr 153, poz. 902, Nr 163, poz. 981, Nr 171, poz. 1016, Nr 199, poz. 1175, Nr 204, poz. 1195 i Nr 232, poz. 1378. 4) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 74, poz. 676 i Nr 117, poz. 1007, z 2003 r. Nr 210, poz. 2036, z 2004 r. Nr 96, poz. 959, Nr 116, poz. 1203, Nr 173, poz. 1808 i Nr 222, poz. 2249, z 2005 r. Nr 94, poz. 788 i Nr 184, poz. 1539, z 2006 r. Nr 133, poz. 935 i Nr 235, poz. 1700, z 2008 r. Nr 180, poz. 1112 i Nr 214, poz. 1347, z 2009 r. Nr 18, poz. 97 i Nr 125, poz. 1036, z 2010 r. Nr 47, poz. 278 i Nr 155, poz. 1039 oraz z 2011 r. Nr 22, poz. 114, Nr 38, poz. 195 i Nr 106, poz. 622. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703, z 2005 r. Nr 132, poz. 1110 i Nr 167, poz. 1398, z 2006 r. Nr 141, poz. 997, Nr 170, poz. 1217, Nr 227, poz. 1658 i Nr 249, poz. 1832 oraz z 2008 r. Nr 144, poz. 901 i Nr 227, poz. 1505. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162, z 2009 r. Nr 85, poz. 716, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 22, poz. 114, Nr 53, poz. 273 i Nr 84, poz. 455. 7) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 201, poz. 1540, z 2010 r. Nr 182, poz. 1228, z 2011 r. Nr 63, poz. 322, Nr 73, poz. 390, Nr 117, poz. 677, Nr 134, poz. 779 i Nr 171, poz. 1016 oraz z 2012 r. poz. 362 i 627.

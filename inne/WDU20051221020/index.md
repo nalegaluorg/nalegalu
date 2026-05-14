@@ -8,9 +8,9 @@ pos: 1020
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# zmianie pracownikach samorządowych, samorządowych kolegiach odwoławczych systemie oświaty
+# Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o pracownikach samorządowych, ustawy o samorządowych kolegiach odwoławczych i ustawy o systemie oświaty
 
 | Pole | Wartość |
 |---|---|
@@ -22,60 +22,294 @@ domain: null
 | Data ogłoszenia | 2005-05-06 |
 | Data wydania | 2005-07-07 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051221020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1020/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2005/1020/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2005/1020) |
 
-1.
-W ustawie 22 marca 1990 pracownikach samorządowych (Dz. U. 2001 142, 1593, późn. zm. ) wprowadza się następujące zmiany:
-1) 3:
-a) ust. 1 pkt 2 otrzymuje brzmienie: „2) posiada kwalifikacje zawodowe wymagane wykonywania pracy określonym stanowisku,”,
-b) po ust. 2 dodaje się ust. 3-6 brzmieniu: „3. Pracownikiem samorządowym zatrudnionym stanowisku urzędniczym może być osoba zatrudniana podstawie 2 pkt 2 4, która spełnia wymagania określone ust. 1 dodatkowo:
-1) posiada co najmniej wykształcenie średnie,
-2) była karana za przestępstwo popełnione umyślnie,
-3) cieszy się nieposzlakowaną opinią.
-4. Pracownikiem samorządowym zatrudnionym kierowniczym stanowisku urzędniczym może być osoba zatrudniana podstawie 2 pkt 2-4, która spełnia wymagania określone ust. 1 ust. 3 pkt 2 3 dodatkowo:
-1) posiada łącznie co najmniej dwuletni staż pracy:
-a) stanowiskach urzędniczych jednostkach, których mowa lub
-b) służbie cywilnej, lub
-c) służbie zagranicznej, wyjątkiem stanowisk obsługi, lub
-d) innych urzędach państwowych, wyjątkiem stanowisk pomocniczych obsługi, lub
-e) kierowniczych stanowiskach państwowych gania kwalifikacyjne pracowników samorządowych. Rada Ministrów, ustalając szczegółowe wymagania kwalifikacyjne określonych stanowiskach pracowniczych, uwzględnia szczególności wymagania wynikające ust. 1-4 potrzebę posiadania przez pracownika samorządowego kierunkowego przygotowania zawodowego, szczególnych doświadczeń lub umiejętności zawodowych, a także szczególne wymagania zakresie stażu pracy.”;
-2) po 3 dodaje się 3a-3e brzmieniu: „Art. 3a. 1. Nabór kandydatów wolne stanowiska urzędnicze, tym kierownicze stanowiska urzędnicze, zatrudnianych podstawie 2 pkt 2 4, zwane dalej „stanowiskami urzędniczymi”, jest otwarty konkurencyjny.
-2. Nabór kandydatów stanowiska urzędnicze jednostkach, których mowa organizują kierownicy tych jednostek.
-3. Nabór kandydatów wolne stanowiska kierowników jednostek, których mowa wyjątkiem urzędu marszałkowskiego, starostwa powiatowego, urzędu gminy albo biura związku, organizują odpowiednio marszałek województwa, starosta, wójt (burmistrz, prezydent miasta) albo przewodniczący zarządu związku.
-4. Ogłoszenie stanowisku urzędniczym naborze kandydatów to stanowisko umieszcza się Biuletynie Informacji Publicznej, którym mowa ustawie 6 września 2001 dostępie informacji publicznej (Dz. U. 112, 1198, 2002 153, 1271, 2004 240, 2407 64, 565), zwanym dalej „Biuletynem”, tablicy informacyjnej jednostce, której jest prowadzony nabór.
-5. Ogłoszenie naborze powinno zawierać:
-1) nazwę adres jednostki,
-2) określenie stanowiska urzędniczego,
-3) określenie wymagań związanych ze stanowiskiem urzędniczym zgodnie opisem danego stanowiska, ze wskazaniem, które nich są niezbędne, a które są dodatkowe,
-4) wskazanie zakresu zadań wykonywanych stanowisku urzędniczym,
-5) wskazanie wymaganych dokumentów,
-6) określenie terminu miejsca składania dokumentów.
-datów ich miejsce zamieszkania rozumieniu przepisów Kodeksu cywilnego.
-3. Informacje kandydatach, którzy zgłosili się naboru, stanowią informację publiczną zakresie objętym wymaganiami związanymi ze stanowiskiem urzędniczym, określonymi ogłoszeniu naborze.
-3c. 1. Sporządza się protokół przeprowadzonego naboru kandydatów stanowisko urzędnicze.
-2. Protokół zawiera szczególności:
-1) określenie stanowiska urzędniczego, które był prowadzony nabór, liczbę kandydatów imiona, nazwiska adresy więcej niż 5 najlepszych kandydatów uszeregowanych według spełniania przez nich poziomu wymagań określonych ogłoszeniu naborze,
-2) informację zastosowanych metodach technikach naboru,
-3) uzasadnienie dokonanego wyboru.
-3d. 1. Informację wyniku naboru upowszechnia się terminie 14 dni od zatrudnienia wybranego kandydata albo zakończenia procedury naboru, przypadku gdy jego wyniku doszło zatrudnienia żadnego kandydata.
-2. Informacja, której mowa ust. zawiera:
-1) nazwę adres jednostki,
-2) określenie stanowiska urzędniczego,
-3) imię nazwisko wybranego kandydata jego miejsce zamieszkania rozumieniu przepisów Kodeksu cywilnego,
-4) uzasadnienie dokonanego wyboru kandydata albo uzasadnieniezatrudnienia żadnego kandydata stanowisko urzędnicze.
-3. Informację wyniku naboru upowszechnia się Biuletynie tablicy informacyjnej jednostce, której był prowadzony nabór, przez okres co najmniej 3 miesięcy.
-3e. Jeżeli stosunek pracy osoby wyłonionej drodze naboru ustał ciągu 3 miesięcy od nawiązania stosunku pracy, możliwe jest zatrudnienie tym samym stanowisku kolejnej osoby spośród najlepszych kandydatów wymienionych protokole tego naboru.
-Przepisy 3d stosuje się odpowiednio.”;
-miast), odrębnie dla każdego stopnia zasadniczego podziału terytorialnego, uwzględnia liczbę mieszkańców jednostki samorządu terytorialnego.”;
-5) po 27 dodaje się 27a brzmieniu: „Art. 27a. 1. Od orzeczeń komisji dyscyplinarnych II instancji stronom służy odwołanie właściwego ze względu miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy ubezpieczeń społecznych.
-2. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna przysługuje.”.
-2.
-W ustawie 7 września 1991 systemie oświaty (Dz. U. 2004 256, 2572, późn. zm. ) po 5c dodaje się 5d brzmieniu: „Art. 5d. Status prawny pracowników niebędących nauczycielami zatrudnionych szkołach placówkach prowadzonych przez jednostki samorządu terytorialnego określają przepisy pracownikach samorządowych.”.
-3.
-W ustawie 12 października 1994 samorządowych kolegiach odwoławczych (Dz. U. 2001 79, 856 154, 1799, 2002 153, 1271 33, 288) 16d po ust. 6 dodaje się ust. 7 8 brzmieniu: „7. Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie właściwego ze względu miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy ubezpieczeń społecznych.
-8. Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjprzysługuje.”.
-których mowa 1 ustawy, której mowa wszczęte podstawie dotychczasowych przepisów niezakończone wejścia życie niniejszej ulegają zakończeniu. Ogłoszenie nowego naboru kandydatów wolne stanowisko następuje podstawie przepisów niniejszej ustawy.
-6.
-Ustawa wchodzi życie po upływie 30 dni od ogłoszenia.
-PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
+## Treść ustawy
 
+### Art. 1.
+
+W ustawie z dnia 22 marca 1990 r. o pracownikach samorządowych ([Dz. U. z 2001 r. Nr 142, poz. 1593](https://api.sejm.gov.pl/eli/acts/DU/2001/1593/text.html), z późn. zm.[1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 192.](#gloss-0:1:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 3:
+
+### a)
+
+w ust. 1 pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+posiada kwalifikacje zawodowe wymagane do wykonywania pracy na określonym stanowisku,
+
+” ,
+
+### b)
+
+po ust. 2 dodaje się ust. 3-6 w brzmieniu:
+
+„
+
+### 3.
+
+Pracownikiem samorządowym zatrudnionym na stanowisku urzędniczym może być osoba zatrudniana na podstawie art. 2 pkt 2 i 4, która spełnia wymagania określone w ust. 1 oraz dodatkowo:
+
+### 1)
+
+posiada co najmniej wykształcenie średnie,
+
+### 2)
+
+nie była karana za przestępstwo popełnione umyślnie,
+
+### 3)
+
+cieszy się nieposzlakowaną opinią.
+
+### 4.
+
+Pracownikiem samorządowym zatrudnionym na kierowniczym stanowisku urzędniczym może być osoba zatrudniana na podstawie art. 2 pkt 2-4, która spełnia wymagania określone w ust. 1 i ust. 3 pkt 2 i 3 oraz dodatkowo:
+
+### 1)
+
+posiada łącznie co najmniej dwuletni staż pracy:
+
+### a)
+
+na stanowiskach urzędniczych w jednostkach, o których mowa w art. 1, lub
+
+### b)
+
+w służbie cywilnej, lub
+
+### c)
+
+w służbie zagranicznej, z wyjątkiem stanowisk obsługi, lub
+
+### d)
+
+w innych urzędach państwowych, z wyjątkiem stanowisk pomocniczych i obsługi, lub
+
+### e)
+
+na kierowniczych stanowiskach państwowych oraz
+
+### 2)
+
+posiada wykształcenie wyższe.
+
+### 5.
+
+Rada Ministrów określi, w drodze rozporządzenia, wykaz stanowisk pracowniczych, uwzględniając stanowiska urzędnicze, w tym kierownicze stanowiska urzędnicze, w jednostkach, o których mowa w art. 1, oraz biorąc pod uwagę rodzaj zadań realizowanych przez poszczególne jednostki i charakter czynności wykonywanych na poszczególnych stanowiskach pracy w tych jednostkach.
+
+### 6.
+
+Rada Ministrów określi, w drodze rozporządzenia, szczegółowe wymagania kwalifikacyjne pracowników samorządowych. Rada Ministrów, ustalając szczegółowe wymagania kwalifikacyjne na określonych stanowiskach pracowniczych, uwzględnia w szczególności wymagania wynikające z ust. 1-4 oraz potrzebę posiadania przez pracownika samorządowego kierunkowego przygotowania zawodowego, szczególnych doświadczeń lub umiejętności zawodowych, a także szczególne wymagania w zakresie stażu pracy.
+
+” ;
+
+### 2)
+
+po art. 3 dodaje się art. 3a-3e w brzmieniu:
+
+„
+
+### Art. 3a.
+
+### 1.
+
+Nabór kandydatów na wolne stanowiska urzędnicze, w tym na kierownicze stanowiska urzędnicze, zatrudnianych na podstawie art. 2 pkt 2 i 4, zwane dalej „stanowiskami urzędniczymi”, jest otwarty i konkurencyjny.
+
+### 2.
+
+Nabór kandydatów na stanowiska urzędnicze w jednostkach, o których mowa w art. 1, organizują kierownicy tych jednostek.
+
+### 3.
+
+Nabór kandydatów na wolne stanowiska kierowników jednostek, o których mowa w art. 1, z wyjątkiem urzędu marszałkowskiego, starostwa powiatowego, urzędu gminy albo biura związku, organizują odpowiednio marszałek województwa, starosta, wójt (burmistrz, prezydent miasta) albo przewodniczący zarządu związku.
+
+### 4.
+
+Ogłoszenie o stanowisku urzędniczym oraz naborze kandydatów na to stanowisko umieszcza się w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej ([Dz. U. Nr 112, poz. 1198](https://api.sejm.gov.pl/eli/acts/DU/2001/1198/text.html), z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html), z [2004 r. Nr 240, poz. 2407](https://api.sejm.gov.pl/eli/acts/DU/2004/2407/text.html) oraz z [2005 r. Nr 64, poz. 565](https://api.sejm.gov.pl/eli/acts/DU/2005/565/text.html)), zwanym dalej „Biuletynem”, oraz na tablicy informacyjnej w jednostce, w której jest prowadzony nabór.
+
+### 5.
+
+Ogłoszenie o naborze powinno zawierać:
+
+### 1)
+
+nazwę i adres jednostki,
+
+### 2)
+
+określenie stanowiska urzędniczego,
+
+### 3)
+
+określenie wymagań związanych ze stanowiskiem urzędniczym zgodnie z opisem danego stanowiska, ze wskazaniem, które z nich są niezbędne, a które są dodatkowe,
+
+### 4)
+
+wskazanie zakresu zadań wykonywanych na stanowisku urzędniczym,
+
+### 5)
+
+wskazanie wymaganych dokumentów,
+
+### 6)
+
+określenie terminu i miejsca składania dokumentów.
+
+### 6.
+
+Termin do składania dokumentów, określony w ogłoszeniu o naborze, nie może być krótszy niż 14 dni od dnia opublikowania tego ogłoszenia w Biuletynie.
+
+### Art. 3b.
+
+### 1.
+
+Po upływie terminu do złożenia dokumentów, określonego w ogłoszeniu o naborze, upowszechnia się w Biuletynie listę kandydatów, którzy spełniają wymagania formalne określone w ogłoszeniu o naborze.
+
+### 2.
+
+Lista, o której mowa w ust. 1, zawiera imiona i nazwiska kandydatów oraz ich miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego.
+
+### 3.
+
+Informacje o kandydatach, którzy zgłosili się do naboru, stanowią informację publiczną w zakresie objętym wymaganiami związanymi ze stanowiskiem urzędniczym, określonymi w ogłoszeniu o naborze.
+
+### Art. 3c.
+
+### 1.
+
+Sporządza się protokół przeprowadzonego naboru kandydatów na stanowisko urzędnicze.
+
+### 2.
+
+Protokół zawiera w szczególności:
+
+### 1)
+
+określenie stanowiska urzędniczego, na które był prowadzony nabór, liczbę kandydatów oraz imiona, nazwiska i adresy nie więcej niż 5 najlepszych kandydatów uszeregowanych według spełniania przez nich poziomu wymagań określonych w ogłoszeniu o naborze,
+
+### 2)
+
+informację o zastosowanych metodach i technikach naboru,
+
+### 3)
+
+uzasadnienie dokonanego wyboru.
+
+### Art. 3d.
+
+### 1.
+
+Informację o wyniku naboru upowszechnia się w terminie 14 dni od dnia zatrudnienia wybranego kandydata albo zakończenia procedury naboru, w przypadku gdy w jego wyniku nie doszło do zatrudnienia żadnego kandydata.
+
+### 2.
+
+Informacja, o której mowa w ust. 1, zawiera:
+
+### 1)
+
+nazwę i adres jednostki,
+
+### 2)
+
+określenie stanowiska urzędniczego,
+
+### 3)
+
+imię i nazwisko wybranego kandydata oraz jego miejsce zamieszkania w rozumieniu przepisów Kodeksu cywilnego,
+
+### 4)
+
+uzasadnienie dokonanego wyboru kandydata albo uzasadnienie niezatrudnienia żadnego kandydata na stanowisko urzędnicze.
+
+### 3.
+
+Informację o wyniku naboru upowszechnia się w Biuletynie i na tablicy informacyjnej w jednostce, w której był prowadzony nabór, przez okres co najmniej 3 miesięcy.
+
+### Art. 3e.
+
+Jeżeli stosunek pracy osoby wyłonionej w drodze naboru ustał w ciągu 3 miesięcy od dnia nawiązania stosunku pracy, możliwe jest zatrudnienie na tym samym stanowisku kolejnej osoby spośród najlepszych kandydatów wymienionych w protokole tego naboru. Przepisy art. 3d stosuje się odpowiednio.
+
+” ;
+
+### 3)
+
+w art. 4 zdanie wstępne otrzymuje brzmienie: „ Czynności w sprawach z zakresu prawa pracy za jednostki, o których mowa w art. 1, zwane dalej „pracodawcami samorządowymi”, dokonują: ” ;
+
+### 4)
+
+w art. 20 ust. 2 otrzymuje brzmienie:
+
+„
+
+### 2.
+
+Rada Ministrów, z zastrzeżeniem ust. 3 i 4, określa w drodze rozporządzenia zasady wynagradzania pracowników samorządowych. Rada Ministrów przy ustalaniu zasad wynagradzania członków zarządu jednostek samorządu terytorialnego oraz wójtów (burmistrzów, prezydentów miast), odrębnie dla każdego stopnia zasadniczego podziału terytorialnego, uwzględnia liczbę mieszkańców jednostki samorządu terytorialnego.
+
+” ;
+
+### 5)
+
+po art. 27 dodaje się art. 27a w brzmieniu:
+
+„
+
+### Art. 27a.
+
+### 1.
+
+Od orzeczeń komisji dyscyplinarnych II instancji stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy i ubezpieczeń społecznych.
+
+### 2.
+
+Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 7 września 1991 r. o systemie oświaty ([Dz. U. z 2004 r. Nr 256, poz. 2572](https://api.sejm.gov.pl/eli/acts/DU/2004/2572/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788.](#gloss-0:2:)) po art. 5c dodaje się art. 5d w brzmieniu:
+
+„
+
+### Art. 5d.
+
+Status prawny pracowników niebędących nauczycielami zatrudnionych w szkołach i placówkach prowadzonych przez jednostki samorządu terytorialnego określają przepisy o pracownikach samorządowych.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 12 października 1994 r. o samorządowych kolegiach odwoławczych ([Dz. U. z 2001 r. Nr 79, poz. 856](https://api.sejm.gov.pl/eli/acts/DU/2001/856/text.html) i [Nr 154, poz. 1799](https://api.sejm.gov.pl/eli/acts/DU/2001/1799/text.html), z [2002 r. Nr 153, poz. 1271](https://api.sejm.gov.pl/eli/acts/DU/2002/1271/text.html) oraz z [2005 r. Nr 33, poz. 288](https://api.sejm.gov.pl/eli/acts/DU/2005/288/text.html)) w art. 16d po ust. 6 dodaje się ust. 7 i 8 w brzmieniu:
+
+„
+
+### 7.
+
+Od orzeczeń komisji dyscyplinarnej przy Krajowej Reprezentacji Samorządowych Kolegiów Odwoławczych stronom służy odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego - sądu pracy i ubezpieczeń społecznych.
+
+### 8.
+
+Do rozpatrzenia odwołania stosuje się przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
+
+” .
+
+### Art. 4.
+
+Pracownicy samorządowi, którzy w dniu wejścia w życie niniejszej ustawy nie spełniają wymagań przewidzianych w ustawie, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, do zajmowanego przez nich stanowiska, mogą nadal być zatrudniani na tych stanowiskach.
+
+### Art. 5.
+
+Postępowania dotyczące naboru na wolne stanowiska urzędnicze w jednostkach, o których mowa w art. 1 ustawy, o której mowa w art. 1, wszczęte na podstawie dotychczasowych przepisów i niezakończone do dnia wejścia w życie niniejszej ustawy ulegają zakończeniu. Ogłoszenie nowego naboru kandydatów na wolne stanowisko następuje na podstawie przepisów niniejszej ustawy.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia.
+
+1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 214, poz. 1806 oraz z 2005 r. Nr 10, poz. 71 i Nr 23, poz. 192. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 273, poz. 2703 i Nr 281, poz. 2781 oraz z 2005 r. Nr 17, poz. 141 i Nr 94, poz. 788.

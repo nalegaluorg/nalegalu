@@ -8,11 +8,9 @@ pos: 1483
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
-
-*USTAWA z dnia 18 października 2006 r.*
+# Ustawa z dnia 18 października 2006 r. o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +22,22 @@ domain: null
 | Data ogłoszenia | 2006-10-18 |
 | Data wydania | 2006-11-08 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1483/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2006/1483/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2006/1483) |
 
-**Art. 1.** Akademii Techniczno-Rolniczej im. Jana i Jędrzeja Śniadeckich w Bydgoszczy nadaje się nazwę „Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy”.
+## Treść ustawy
 
-**Art. 2.** Akademii Rolniczej we Wrocławiu nadaje się nazwę „Uniwersytet Przyrodniczy we Wrocławiu”.
+### Art. 1.
 
-**Art. 3.** Pomorskiej Akademii Pedagogicznej w Słupsku nadaje się nazwę „Akademia Pomorska w Słupsku”.
+Akademii Techniczno-Rolniczej im. Jana i Jędrzeja Śniadeckich w Bydgoszczy nadaje się nazwę „Uniwersytet Technologiczno-Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy”.
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+### Art. 2.
 
+Akademii Rolniczej we Wrocławiu nadaje się nazwę „Uniwersytet Przyrodniczy we Wrocławiu”.
+
+### Art. 3.
+
+Pomorskiej Akademii Pedagogicznej w Słupsku nadaje się nazwę „Akademia Pomorska w Słupsku”.
+
+### Art. 4.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

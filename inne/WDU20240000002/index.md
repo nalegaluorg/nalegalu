@@ -1,0 +1,3823 @@
+---
+title: "Obwieszczenie Ministra Finansów z dnia 15 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych"
+address: WDU20240000002
+eli: DU/2024/2
+publisher: DU
+year: 2024
+pos: 2
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Obwieszczenie Ministra Finansówz dnia 15 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych [1) Minister Finansów kieruje działem administracji rządowej - instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 2 |
+| ISAP | WDU20240000002 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-11-15 |
+| Data wydania | 2024-01-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2024/2/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2024/2) |
+
+## Spis treści
+
+- [Treść obwieszczenia](#part_1)
+
+- [Załącznik - Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych](#part_2) [Rozdział 1 - Przepisy ogólne](#chpt_1) [Rozdział 2 - System kontroli wewnętrznej](#chpt_2) [Rozdział 3 - Konflikty interesów](#chpt_3) [Rozdział 4 - Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu](#chpt_4) [Rozdział 5 - Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo](#chpt_5) [Rozdział 6 - Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych](#chpt_6) [Rozdział 7 - Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa](#chpt_7) [Rozdział 8 - Warunki techniczne i organizacyjne prowadzenia działalności](#chpt_8) [Rozdział 9 - Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia](#chpt_9) [Rozdział 10 - Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia](#chpt_10) [Rozdział 11 - Przepis przejściowy i przepis końcowy](#chpt_11)
+
+- [Załącznik nr 1 - Obliczanie całkowitej ekspozycji metodą zaangażowania](#part_3)
+
+- [Załącznik nr 2 - Obliczanie całkowitej ekspozycji metodą absolutnej wartości zagrożonej oraz metodą względnej wartości zagrożonej](#part_4)
+
+- [Załącznik nr 3 - Wykaz danych objętych ewidencją zawartych transakcji w przypadku transakcji, które mają za przedmiot instrumenty pochodne](#part_5)
+
+- [Załącznik nr 4 - Wykaz danych objętych ewidencją zawartych transakcji, w przypadku transakcji innych niż transakcje, które mają za przedmiot instrumenty pochodne](#part_6)
+
+TOC
+
+## Treść obwieszczenia
+
+### 1.
+
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ([Dz. U. z 2019 r. poz. 1461](https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html)) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 2103](https://api.sejm.gov.pl/eli/acts/DU/2020/2103/text.html)), z uwzględnieniem zmian wprowadzonych:
+
+### 1)
+
+rozporządzeniem Ministra Finansów z dnia 26 lipca 2022 r. zmieniającym rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 1605](https://api.sejm.gov.pl/eli/acts/DU/2022/1605/text.html));
+
+### 2)
+
+rozporządzeniem Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającym rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 1303](https://api.sejm.gov.pl/eli/acts/DU/2023/1303/text.html)).
+
+### 2.
+
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+
+### 1)
+
+§ 114 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 2103](https://api.sejm.gov.pl/eli/acts/DU/2020/2103/text.html)), który stanowi:
+
+„
+
+### § 114.
+
+Towarzystwa prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do § 3 ust. 1 pkt 7, w terminie do dnia 31 maja 2021 r.
+
+” ;
+
+### 2)
+
+odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 1605](https://api.sejm.gov.pl/eli/acts/DU/2022/1605/text.html)), które stanowią:
+
+„
+
+2) Niniejsze rozporządzenie:
+
+### 1)
+
+w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141);
+
+### 2)
+
+wdraża dyrektywę delegowaną Komisji (UE) 2021/1270 z dnia 21 kwietnia 2021 r. zmieniającą dyrektywę 2010/43/UE w odniesieniu do ryzyk dla zrównoważonego rozwoju i czynników zrównoważonego rozwoju, które należy uwzględniać w przypadku przedsiębiorstw zbiorowego inwestowania w zbywalne papiery wartościowe (UCITS) (Dz. Urz. UE L 277 z 02.08.2021, str. 141).
+
+”
+
+„
+
+### § 2.
+
+Towarzystwa funduszy inwestycyjnych prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia w życie niniejszego rozporządzenia są obowiązane do dostosowania prowadzonej działalności do przepisów § 69a, § 76a i § 108 ust. 1 pkt 4a rozporządzenia zmienianego w § 1 oraz § 78 i § 88 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 3 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie z dniem 1 sierpnia 2022 r.
+
+” ;
+
+### 3)
+
+§ 2 i § 3 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych ([Dz. U. poz. 1303](https://api.sejm.gov.pl/eli/acts/DU/2023/1303/text.html)), które stanowią:
+
+„
+
+### § 2.
+
+### 1.
+
+Towarzystwo funduszy inwestycyjnych prowadzące działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo w dniu wejścia w życie niniejszego rozporządzenia jest obowiązane do dostosowania prowadzonej działalności do przepisów rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, w terminie 6 miesięcy od dnia wejścia w życie niniejszego rozporządzenia.
+
+### 2.
+
+Przepisy § 52 ust. 2 oraz § 53 ust. 3a, 3b, ust. 4 pkt 5 i ust. 11 rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się również w odniesieniu do jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo funduszy inwestycyjnych przed terminem na dostosowanie, o którym mowa w ust. 1, które są zbywane po tym terminie.
+
+### § 3.
+
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+” .
+
+1) Minister Finansów kieruje działem administracji rządowej - instytucje finansowe, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).
+
+## Załącznik - Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 18 listopada 2020 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych[1) Obecnie działem administracji rządowej - instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939).](#gloss-0:1:)
+
+[2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10). [I] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r.](#gloss-0:2:) Na podstawie art. 48a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi ([Dz. U. z 2023 r. poz. 681](https://api.sejm.gov.pl/eli/acts/DU/2023/681/text.html), [825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1941](https://api.sejm.gov.pl/eli/acts/DU/2023/1941/text.html)) zarządza się, co następuje:
+
+### Rozdział 1 Przepisy ogólne
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+sposób, warunki i szczegółowy zakres działania systemu kontroli wewnętrznej, w tym systemu nadzoru zgodności działalności z prawem, systemu zarządzania ryzykiem oraz systemu audytu wewnętrznego w towarzystwie;
+
+### 2)
+
+sposób prowadzenia ewidencji transakcji zawartych przez fundusze inwestycyjne otwarte oraz transakcji zawartych na rachunek własny towarzystwa lub rachunek własny towarzystwa prowadzony dla zbiorczego portfela papierów wartościowych, ewidencji zleceń składanych przez uczestników funduszy inwestycyjnych otwartych, a także ewidencji transakcji zawartych przez towarzystwo w ramach wykonywania usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+
+### 3)
+
+pojęcie konfliktu interesów oraz szczegółowe wymagania dotyczące postępowania w zakresie konfliktów interesów, w tym zawierania transakcji przez pracowników, członków zarządu oraz rady nadzorczej towarzystwa albo przez inne osoby fizyczne pozostające z towarzystwem w stosunku zlecenia albo innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi doradztwa inwestycyjnego albo zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+
+### 4)
+
+sposób dokumentowania źródeł będących podstawą decyzji inwestycyjnych oraz przechowywania i archiwizowania dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa;
+
+### 5)
+
+szczegółowe wymagania w zakresie działania towarzystwa w najlepiej pojętym interesie funduszu inwestycyjnego otwartego oraz uczestników funduszu inwestycyjnego otwartego, w tym w zakresie wykonywania decyzji inwestycyjnych w zarządzaniu portfelami inwestycyjnymi funduszy inwestycyjnych oraz w zakresie składania zleceń nabycia lub zbycia instrumentów finansowych łącznie dla różnych funduszy inwestycyjnych zarządzanych przez towarzystwo oraz łącznie z innymi zleceniami składanymi przez towarzystwo, oraz przeprowadzania analiz przy doborze lokat funduszu inwestycyjnego;
+
+### 6)
+
+tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w tym w zakresie świadczenia usług, promowania świadczonych usług oraz kontaktów z klientami;
+
+### 7)
+
+warunki techniczne i organizacyjne prowadzenia przez towarzystwo działalności, o której mowa w art. 48 ust. 2a ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, zwanej dalej „ustawą”;
+
+### 8)
+
+szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji;
+
+### 9)
+
+tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy;
+
+### 10)
+
+szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia;
+
+### 11)
+
+tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób;
+
+### 12)
+
+szczegółowe kryteria w zakresie spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4 ustawy;
+
+### 13)
+
+tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej towarzystwa wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa w art. 42 ust. 4 ustawy, oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób, o których mowa w art. 42 ust. 5 ustawy.
+
+### § 2.
+
+Ilekroć w rozporządzeniu jest mowa o:
+
+### 1)
+
+ustawie o obrocie instrumentami finansowymi - rozumie się przez to ustawę z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi ([Dz. U. z 2023 r. poz. 646](https://api.sejm.gov.pl/eli/acts/DU/2023/646/text.html), [825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1941](https://api.sejm.gov.pl/eli/acts/DU/2023/1941/text.html));
+
+### 1a[3) Dodany przez § 1 pkt 2 lit. a rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r.](#gloss-0:3:))
+
+rozporządzeniu 2019/2088 - rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych ([Dz. Urz. UE L 317 z 09.12.2019, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10.](#gloss-0:4:);
+
+### 2)
+
+funduszu - rozumie się przez to fundusz inwestycyjny niebędący funduszem inwestycyjnym z wydzielonymi subfunduszami lub subfundusz wydzielony w ramach funduszu inwestycyjnego z wydzielonymi subfunduszami;
+
+### 3)
+
+informacji poufnej - rozumie się przez to informację poufną w rozumieniu art. 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 596/2014 z dnia 16 kwietnia 2014 r. w sprawie nadużyć na rynku (rozporządzenie w sprawie nadużyć na rynku) oraz uchylającego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady i dyrektywy Komisji 2003/124/WE, 2003/125/WE i 2004/72/WE ([Dz. Urz. UE L 173 z 12.06.2014, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320, Dz. Urz. UE L 254 z 10.10.2018, str. 19, Dz. Urz. UE L 320 z 11.12.2019, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 15.](#gloss-0:5:);
+
+### 4)
+
+wartości zagrożonej - rozumie się przez to przewidywaną wielkość strat funduszu inwestycyjnego otwartego z tytułu zmian parametrów cenowych pozycji wchodzących w skład aktywów funduszu inwestycyjnego otwartego, oszacowaną na podstawie modelu statystycznego będącego modelem wartości zagrożonej, o parametrach szacowanych na podstawie obserwacji tych zmian, której przekroczenie w ustalonym okresie prognozy może wystąpić z prawdopodobieństwem równym założonemu poziomowi istotności;
+
+### 5)
+
+transakcji przy zobowiązaniu się funduszu do odkupu - rozumie się przez to umowę, w której fundusz zobowiązuje się do przeniesienia praw majątkowych do papierów wartościowych i ich odkupu po uzgodnionej cenie w ustalonym przyszłym dniu, a druga strona zobowiązuje się do ich nabycia i zwrotu po uzgodnionej cenie w ustalonym przyszłym dniu;
+
+### 6)
+
+ryzyku kontrahenta - rozumie się przez to wartość ustalonego przez fundusz inwestycyjny otwarty niezrealizowanego zysku na transakcjach, których przedmiotem są niewystandaryzowane instrumenty pochodne, bez uwzględniania opłat i świadczeń ponoszonych przez fundusz inwestycyjny otwarty przy zawarciu transakcji, w szczególności premii zapłaconej przy zakupie opcji;
+
+### 7)
+
+ryzyku płynności - rozumie się przez to ryzyko polegające na braku możliwości sprzedaży, likwidacji lub zamknięcia pozycji w aktywach funduszu inwestycyjnego otwartego przy ograniczonych kosztach i w odpowiednio krótkim czasie, na skutek czego jest zagrożona zdolność funduszu inwestycyjnego otwartego do stałego spełniania warunków określonych w art. 82 ustawy;
+
+### 8)
+
+ryzyku rynkowym - rozumie się przez to ryzyko poniesienia przez fundusz inwestycyjny otwarty straty wynikającej z wahań wartości rynkowych pozycji wchodzących w skład aktywów funduszu inwestycyjnego otwartego na skutek fluktuacji zmiennych rynkowych, takich jak stopy procentowe, kursy walutowe, ceny akcji i towarów lub zdolność kredytowa emitenta, obejmujące ogólne ryzyko rynkowe i szczególne ryzyko rynkowe;
+
+### 9)
+
+ogólnym ryzyku rynkowym - rozumie się przez to ryzyko poniesienia przez fundusz inwestycyjny otwarty straty wynikającej ze zmian poziomu cen na rynku, które w podobnym zakresie dotyczy innych podmiotów rynku finansowego, obejmujące w szczególności ryzyko stopy procentowej, ryzyko cen instrumentów kapitałowych i ryzyko walutowe;
+
+### 10)
+
+szczególnym ryzyku rynkowym - rozumie się przez to ryzyko poniesienia przez fundusz inwestycyjny otwarty straty wynikającej ze szczególnych właściwości instrumentów finansowych lub cech emitentów tych instrumentów, ryzyko nietypowych zdarzeń i ryzyko niewywiązania się drugiej strony umowy z zobowiązania;
+
+### 11)
+
+ryzyku operacyjnym - rozumie się przez to ryzyko poniesienia przez fundusz inwestycyjny otwarty straty wynikającej z nieodpowiednich procesów wewnętrznych i nieprawidłowości dotyczących systemów towarzystwa, zasobów ludzkich lub wynikającej ze zdarzeń zewnętrznych, obejmujące ryzyko prawne i dokumentacyjne oraz ryzyko wynikające ze stosowanych w imieniu funduszu procedur zawierania transakcji, rozliczania i wyceny;
+
+### 12)
+
+ryzyku prawnym i dokumentacyjnym - rozumie się przez to ryzyko niewykonania przez fundusz inwestycyjny otwarty uprawnienia lub obowiązku wynikającego z umowy z kontrahentem, powstałe na skutek niewykonania lub nienależytego wykonania zobowiązania przez kontrahenta lub sporu z kontrahentem wynikającego z tego zobowiązania;
+
+### 12a[6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:6:))
+
+ryzyku dla zrównoważonego rozwoju - rozumie się przez to ryzyko dla zrównoważonego rozwoju, o którym mowa w art. 2 pkt 22 rozporządzenia 2019/2088;
+
+### 12b[6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:6:))
+
+czynnikach zrównoważonego rozwoju - rozumie się przez to czynniki zrównoważonego rozwoju, o których mowa w art. 2 pkt 24 rozporządzenia 2019/2088;
+
+### 13[7) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:7:))
+
+ryzyku całkowitym - rozumie się przez to ryzyko: kontrahenta, płynności, rynkowe, operacyjne, dla zrównoważonego rozwoju oraz inne rodzaje ryzyka, na które fundusz inwestycyjny otwarty jest lub może być narażony;
+
+### 14)
+
+osobach obowiązanych - rozumie się przez to osoby, o których mowa w art. 48 ust. 2 ustawy;
+
+### 15)
+
+transakcji własnej - rozumie się przez to transakcję, której przedmiotem są instrumenty finansowe, zawieraną przez osobę obowiązaną lub na jej rachunek, pod warunkiem że:
+
+### a)
+
+zawarcie tej transakcji wykracza poza zwykły tryb wykonywania przez tę osobę czynności w ramach jej zatrudnienia w towarzystwie lub wykonywania przez nią z innego tytułu obowiązków w zakresie działalności prowadzonej przez towarzystwo albo
+
+### b)
+
+transakcja jest zawierana na rachunek osoby obowiązanej lub:
+
+- - jej małżonka,
+
+- - dziecka pozostającego na jej utrzymaniu,
+
+- - osoby z nią związanej z tytułu przysposobienia, rodzinnej pieczy zastępczej, opieki lub kurateli,
+
+- - osoby będącej jej krewną lub powinowatą pozostającej z nią we wspólnym gospodarstwie domowym przez okres co najmniej roku przed datą zawarcia transakcji lub
+
+- - innej osoby pozostającej z nią w stosunkach powodujących, że osoba obowiązana ma istotny interes w zawarciu danej transakcji na rzecz tej innej osoby, z wyłączeniem zwykłych opłat i prowizji należnych z tytułu zawarcia transakcji;
+
+### 16)
+
+usługach - rozumie się przez to wykonywane przez towarzystwo funduszy inwestycyjnych na rzecz klienta czynności:
+
+### a)
+
+zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, o którym mowa w art. 45 ust. 2 pkt 1 ustawy,
+
+### b)
+
+doradztwa inwestycyjnego, o którym mowa w art. 45 ust. 2 pkt 2 oraz ust. 3 pkt 1a ustawy,
+
+### c)
+
+przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych, o którym mowa w art. 45 ust. 2a oraz ust. 3 pkt 1 ustawy;
+
+### 17)
+
+kliencie - rozumie się przez to klienta profesjonalnego albo klienta detalicznego;
+
+### 18)
+
+miejscu wykonania - rozumie się przez to podmiot wykonujący zlecenie przekazane przez towarzystwo w ramach zarządzania funduszem inwestycyjnym otwartym, wykonywania usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych lub w ramach zarządzania zbiorczym portfelem papierów wartościowych;
+
+### 19)
+
+standardowych instrumentach pochodnych - rozumie się przez to instrumenty pochodne będące przedmiotem obrotu na rynku zorganizowanym i niewystandaryzowane instrumenty pochodne, w przypadku których jest możliwe wyznaczenie ich ekspozycji na ryzyko za pomocą metody zaangażowania, w szczególności kontrakty terminowe i opcje na obligacje, stopy procentowe, kursy walut, akcje oraz indeksy, warranty subskrypcyjne i inne prawa umożliwiające nabycie instrumentów finansowych, forwardy i swapy na stopy procentowe i waluty, opcje na swapy oraz instrumenty pochodne dotyczące ryzyka kredytowego;
+
+### 20)
+
+niestandardowych instrumentach pochodnych - rozumie się przez to instrumenty pochodne inne niż wskazane w pkt 19;
+
+### 21)
+
+dokumencie strategii inwestycyjnej - rozumie się przez to dokument zawierający opis strategii inwestycyjnej funduszu, strategii inwestycyjnej portfela lub strategii inwestycyjnej zbiorczego portfela;
+
+### 22)
+
+strategii inwestycyjnej funduszu - rozumie się przez to wytyczne dotyczące zasad alokacji aktywów funduszu, sporządzone zgodnie z polityką inwestycyjną funduszu, o której mowa w art. 18 ust. 2 pkt 11 ustawy, określające w szczególności kryteria podejmowania decyzji inwestycyjnych, w tym kryteria doboru papierów wartościowych i innych instrumentów finansowych, zakres dozwolonych inwestycji w poszczególne rodzaje instrumentów, limity inwestycyjne, inne limity odnoszące się do ryzyka rynkowego, ryzyka kredytowego, ryzyka płynności oraz innych ryzyk dotyczących funduszu, a także benchmark, o ile został przyjęty;
+
+### 23)
+
+strategii inwestycyjnej portfela - rozumie się przez to wytyczne dotyczące zasad alokacji środków pieniężnych oraz instrumentów finansowych pozostawionych do dyspozycji towarzystwa przez klienta, dla którego jest świadczona usługa zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, określające w szczególności kryteria podejmowania decyzji inwestycyjnych, w tym kryteria doboru papierów wartościowych i innych instrumentów finansowych, zakres dozwolonych inwestycji w poszczególne rodzaje instrumentów, limity inwestycyjne, inne limity odnoszące się do ryzyka rynkowego, ryzyka kredytowego, ryzyka płynności oraz innych ryzyk dotyczących portfela, a także benchmark, jeżeli został przyjęty;
+
+### 24)
+
+strategii inwestycyjnej zbiorczego portfela - rozumie się przez to wytyczne dotyczące zasad alokacji aktywów zbiorczego portfela sporządzone zgodnie z polityką inwestycyjną zbiorczego portfela, o której mowa w art. 214 ust. 2 pkt 8 ustawy, określające w szczególności kryteria podejmowania decyzji inwestycyjnych, w tym kryteria doboru papierów wartościowych i innych instrumentów finansowych, zakres dozwolonych inwestycji w poszczególne rodzaje instrumentów, limity inwestycyjne, inne limity odnoszące się do ryzyka rynkowego, ryzyka kredytowego, ryzyka płynności oraz innych ryzyk dotyczących zbiorczego portfela, a także benchmark, jeżeli został przyjęty;
+
+### 25)
+
+systemie zarządzania bezpieczeństwem środowiska teleinformatycznego - rozumie się przez to zbiór zasad i mechanizmów odnoszących się do procesów mających na celu zapewnienie odpowiedniego poziomu bezpieczeństwa środowiska teleinformatycznego;
+
+### 26)
+
+bezpieczeństwie informacji - rozumie się przez to zachowanie poufności, integralności, dostępności i autentyczności informacji oraz rozliczalności i niezaprzeczalności działań;
+
+### 27)
+
+rozliczalności działań - rozumie się przez to możliwość przypisania w sposób jednoznaczny działania użytkownika tylko temu użytkownikowi;
+
+### 28)
+
+niezaprzeczalności działań - rozumie się przez to brak możliwości zanegowania uczestnictwa w całości lub w części działań przez uczestnika tych działań;
+
+### 29)
+
+właścicielu procesu - rozumie się przez to osobę odpowiedzialną za zapewnienie, by proces, o którym mowa w § 77 ust. 2, był zgodny z przeznaczeniem i przepisami prawa oraz procedurami i regulaminami wewnętrznymi obowiązującymi w towarzystwie;
+
+### 30)
+
+grupie docelowej - rozumie się przez to określoną przez towarzystwo grupę nabywców jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, z których potrzebami, cechami lub celami te jednostki uczestnictwa są zgodne;
+
+### 31)
+
+kliencie docelowym - rozumie się przez to klienta należącego do grupy docelowej;
+
+### 32)
+
+strategii dystrybucji - rozumie się przez to zamierzony przez towarzystwo sposób, w jaki jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo mogą być nabyte przez grupę docelową.
+
+### Rozdział 2 System kontroli wewnętrznej
+
+### Oddział 1 System nadzoru zgodności działalności z prawem
+
+### § 3.
+
+### 1.
+
+System nadzoru zgodności działalności z prawem służy zapewnieniu zgodności działalności towarzystwa oraz osób działających na jego rzecz z obowiązującymi przepisami prawa oraz procedurami i regulaminami wewnętrznymi obowiązującymi w towarzystwie. System zapewnia:
+
+### 1)
+
+nadzór nad przepływem informacji poufnych oraz informacji stanowiących tajemnicę zawodową, zabezpieczenie dostępu do tych informacji i przeciwdziałanie ich wykorzystywaniu przez osoby obowiązane;
+
+### 2)
+
+przestrzeganie procedur i regulaminów wewnętrznych obowiązujących w towarzystwie;
+
+### 3)
+
+prawidłowość dokumentowania źródeł będących podstawą decyzji inwestycyjnych;
+
+### 4)
+
+terminowość i kompletność przekazywanych sprawozdań finansowych sporządzanych przez towarzystwo i zarządzane przez nie fundusze;
+
+### 5)
+
+terminowość, kompletność, prawidłowość i jakość raportów oraz informacji przekazywanych przez towarzystwo i zarządzane przez nie fundusze, innych niż wskazane w pkt 4;
+
+### 6)
+
+nadzór nad przestrzeganiem zasad postępowania w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+
+### 7)
+
+nadzór nad przestrzeganiem zasad postępowania w zakresie przeciwdziałania unikaniu opodatkowania.
+
+### 2.
+
+System nadzoru zgodności działalności z prawem powinien uwzględniać rodzaj i zakres działalności prowadzonej przez towarzystwo, w szczególności rodzaj zarządzanych przez nie funduszy i wielkość ich aktywów netto.
+
+### 3.
+
+W ramach systemu nadzoru zgodności działalności z prawem towarzystwo prowadzi i aktualizuje książkę procedur zawierającą procedury i regulaminy wewnętrzne obowiązujące w towarzystwie. Książka procedur może być prowadzona w postaci elektronicznej.
+
+### 4.
+
+Zasady systemu nadzoru zgodności działalności z prawem zawiera uchwalany przez zarząd albo radę nadzorczą towarzystwa regulamin systemu nadzoru zgodności działalności z prawem, który określa w szczególności:
+
+### 1)
+
+zakres kompetencji inspektora nadzoru oraz zasady działania komórki nadzoru zgodności działalności z prawem, w tym zasady wyznaczania osoby wykonującej obowiązki inspektora nadzoru w przypadku jego czasowej nieobecności;
+
+### 2)
+
+cel i zakres przeprowadzanych kontroli;
+
+### 3)
+
+szczegółowe zasady i tryb przeprowadzania kontroli oraz założenia dotyczące ich częstotliwości;
+
+### 4)
+
+zakres obowiązków osoby przeprowadzającej kontrolę;
+
+### 5)
+
+zasady sporządzania raportów z kontroli;
+
+### 6)
+
+zasady sprawozdawania o wynikach kontroli;
+
+### 7)
+
+tryb postępowania w przypadku ujawnienia podczas kontroli nieprawidłowości w zakresie działania towarzystwa lub osób obowiązanych.
+
+### 5[8) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:8:).
+
+Przy uchwalaniu regulaminu, o którym mowa w ust. 4, odpowiednio zarząd albo rada nadzorcza towarzystwa uwzględnia również ryzyka dla zrównoważonego rozwoju.
+
+### § 4.
+
+### 1.
+
+Towarzystwo wydziela w strukturze organizacyjnej komórkę nadzoru zgodności działalności z prawem, którą kieruje inspektor nadzoru. Inspektorem nadzoru może być wyłącznie pracownik towarzystwa. Jeżeli uzasadnia to rodzaj i zakres działalności prowadzonej przez towarzystwo oraz nie zagraża to interesom klientów i uczestników funduszy, czynności nadzoru zgodności działalności z prawem mogą być wykonywane przez inspektora nadzoru w ramach stanowiska jednoosobowego; do stanowiska jednoosobowego stosuje się przepisy dotyczące komórki nadzoru zgodności działalności z prawem. Członek zarządu towarzystwa nie może pełnić funkcji inspektora nadzoru.
+
+### 2.
+
+Inspektor nadzoru podlega bezpośrednio prezesowi zarządu towarzystwa albo innemu wskazanemu przez radę nadzorczą towarzystwa członkowi zarządu towarzystwa, a w przypadku gdy prezes zarządu towarzystwa nie został powołany lub inny członek zarządu towarzystwa nie został wskazany przez radę nadzorczą towarzystwa - zarządowi towarzystwa. Odpowiednio prezes zarządu towarzystwa, wskazany członek zarządu towarzystwa lub zarząd towarzystwa zapewnia komórce nadzoru zgodności działalności z prawem niezależność organizacyjną umożliwiającą prawidłowe wykonywanie obowiązków.
+
+### 3.
+
+Osoba pełniąca funkcję inspektora nadzoru nie może pełnić jednocześnie tej funkcji w więcej niż jednym towarzystwie.
+
+### 4.
+
+Do zakresu działania komórki nadzoru zgodności działalności z prawem należy:
+
+### 1)
+
+ujawnianie i zapobieganie naruszaniu przez towarzystwo i zarządzane przez nie fundusze obowiązków wynikających z przepisów prawa regulujących ich działalność;
+
+### 2)
+
+sprawowanie nadzoru nad działalnością towarzystwa oraz osób w nim zatrudnionych według kryterium zgodności z przepisami prawa oraz procedurami i regulaminami wewnętrznymi obowiązującymi w towarzystwie;
+
+### 3)
+
+przeprowadzanie kontroli działalności towarzystwa oraz osób w nim zatrudnionych według kryteriów określonych w pkt 2;
+
+### 4)
+
+nadzór nad przepływem informacji poufnych i informacji stanowiących tajemnicę zawodową, zabezpieczeniem dostępu do tych informacji oraz przeciwdziałaniem ich wykorzystywaniu przez osoby obowiązane w sposób niezgodny z przepisami prawa lub procedurami i regulaminami wewnętrznymi obowiązującymi w towarzystwie;
+
+### 5)
+
+nadzór nad załatwianiem reklamacji uczestników funduszy zarządzanych przez towarzystwo i klientów towarzystwa oraz kontrolowanie sposobu prowadzenia rejestru reklamacji;
+
+### 6)
+
+kontrola sposobu prowadzenia ewidencji, o których mowa w § 59 ust. 1 i § 63 ust. 1;
+
+### 7)
+
+kontrola prawidłowości dokumentowania źródeł będących podstawą decyzji inwestycyjnych;
+
+### 8)
+
+monitorowanie dokonanych przez fundusze zarządzane przez towarzystwo przekroczeń i dostosowań ograniczeń inwestycyjnych wynikających z przepisów prawa lub statutu funduszu, spowodowanych przez zmiany:
+
+### a)
+
+cen, kursów lub wartości składników lokat funduszu,
+
+### b)
+
+wartości aktywów funduszy w okresie pomiędzy zawarciem transakcji nabycia składnika lokat innego niż składnik lub składniki, których dotyczy przekroczenie albo zwiększenie przekroczenia, a jej rozliczeniem, związane z obowiązkiem ujęcia tej wartości w księgach rachunkowych w dacie zawarcia umowy,
+
+### c)
+
+wartości aktywów funduszy wynikające z transakcji przy zobowiązaniu się funduszu do odkupu składnika lokat innego niż składnik lub składniki, których dotyczy przekroczenie albo zwiększenie przekroczenia,
+
+### d)
+
+wartości aktywów funduszu wywołane przez zmiany w kapitale wpłaconym lub wypłaconym
+
+- oraz analiza przyczyn ich występowania;
+
+### 9)
+
+badanie i regularna ocena adekwatności i skuteczności przyjętego systemu nadzoru zgodności działalności z prawem oraz działań podejmowanych w celu wykonywania przez towarzystwo i zarządzane przez nie fundusze obowiązków wynikających z przepisów prawa;
+
+### 10)
+
+wyjaśnianie osobom wykonującym czynności w ramach prowadzonej przez towarzystwo działalności kryteriów wypełniania przez te osoby obowiązków zgodnie z przepisami prawa oraz procedurami i regulaminami wewnętrznymi obowiązującymi w towarzystwie;
+
+### 11)
+
+sprawowanie nadzoru nad działalnością podmiotu, o którym mowa w art. 45a ust. 1 ustawy, w zakresie wykonywania przez ten podmiot powierzonych przez towarzystwo czynności zgodnie z przepisami prawa oraz umową, o której mowa w art. 45a ust. 1 ustawy, o ile przedmiotem umowy nie są czynności niemające istotnego znaczenia dla prawidłowego wykonywania przez towarzystwo obowiązków określonych przepisami prawa, sytuacji finansowej towarzystwa, ciągłości lub stabilności prowadzenia przez towarzystwo działalności, o której mowa w art. 45 ustawy;
+
+### 12)
+
+ocena zgodności postępowania towarzystwa z przepisami § 78-97 oraz § 99-113.
+
+### 5.
+
+Komórka nadzoru zgodności działalności z prawem odpowiednio dokumentuje wyniki przeprowadzonych kontroli oraz przedstawia je właściwym organom towarzystwa.
+
+### 6.
+
+Osoby wykonujące zadania z zakresu nadzoru zgodności działalności z prawem, w tym inspektor nadzoru, powinny posiadać odpowiednią wiedzę i kompetencje w zakresie niezbędnym do ich wykonywania.
+
+### 7.
+
+Towarzystwo monitoruje wiedzę i kompetencje posiadane przez osoby, o których mowa w ust. 6, w szczególności w przypadku wystąpienia zmian w przepisach prawa lub innych okoliczności mających wpływ na wykonywane przez nich czynności, a w przypadku zaistnienia takiej potrzeby, podejmuje działania niezbędne do przestrzegania przez osoby, o których mowa w ust. 6, wprowadzonych zmian w przepisach prawa bądź uzupełnienia braków wiedzy i kompetencji.
+
+### 8.
+
+Towarzystwo jest obowiązane podejmować działania mające na celu utrzymanie oraz pogłębianie przez osoby, o których mowa w ust. 6, posiadanej wiedzy i kompetencji, w szczególności przez ich uczestnictwo w regularnym doskonaleniu zawodowym lub szkoleniach, a także w szkoleniach wymaganych przed rozpoczęciem świadczenia przez towarzystwo nowych usług lub rozszerzenia przedmiotu świadczonych usług o nowe instrumenty finansowe.
+
+### 9.
+
+Towarzystwo zapewnia osobom, o których mowa w ust. 6, stosowne uprawnienia, środki oraz dostęp do niezbędnych informacji i pomieszczeń.
+
+### 10.
+
+Towarzystwo zapewnia, aby osoby, o których mowa w ust. 6, nie brały udziału w wykonywaniu czynności z zakresu działalności, która jest przedmiotem sprawowanego przez nie nadzoru zgodności działalności z prawem, a sposób wynagradzania tych osób umożliwiał zapewnienie ich obiektywizmu.
+
+### § 5.
+
+### 1.
+
+W przypadku stwierdzenia w trakcie kontroli naruszenia przepisów prawa lub istotnych postanowień procedur lub regulaminów wewnętrznych obowiązujących w towarzystwie, inspektor nadzoru lub upoważniony pracownik komórki nadzoru wewnętrznego sporządza raport i przekazuje go niezwłocznie zarządowi towarzystwa.
+
+### 2.
+
+Inspektor nadzoru przekazuje niezwłocznie zarządowi oraz radzie nadzorczej towarzystwa informację o naruszeniu przez członka zarządu lub rady nadzorczej towarzystwa przepisów prawa lub istotnych postanowień procedur lub regulaminów wewnętrznych obowiązujących w towarzystwie.
+
+### § 6.
+
+### 1.
+
+Inspektor nadzoru prowadzi dziennik kontroli zawierający informacje o kontrolach wewnętrznych przeprowadzanych w towarzystwie i kontrolach przeprowadzanych przez towarzystwo w podmiotach, o których mowa w art. 45a ust. 1 ustawy, w roku kalendarzowym, który zawiera:
+
+### 1)
+
+oznaczenie podmiotu kontrolowanego;
+
+### 2)
+
+zakres kontroli;
+
+### 3)
+
+datę rozpoczęcia kontroli;
+
+### 4)
+
+datę zakończenia kontroli;
+
+### 5)
+
+wnioski z kontroli lub zalecenia pokontrolne.
+
+### 2.
+
+Dane, o których mowa w ust. 1 pkt 1-3, podlegają wpisowi do dziennika kontroli nie później niż w dniu rozpoczęcia kontroli, a dane, o których mowa w ust. 1 pkt 4 i 5 - niezwłocznie po jej zakończeniu.
+
+### § 7.
+
+Inspektor nadzoru, nie rzadziej niż raz do roku, sporządza sprawozdanie z funkcjonowania systemu nadzoru zgodności działalności z prawem i przekazuje je zarządowi oraz radzie nadzorczej towarzystwa. Sprawozdanie zawiera w szczególności zestawienie wyników kontroli działalności towarzystwa oraz osób zatrudnionych w towarzystwie według kryterium zgodności z przepisami prawa oraz procedurami i regulaminami wewnętrznymi, obowiązującymi w towarzystwie, a także ocenę adekwatności, o której mowa w § 4 ust. 4 pkt 9, oraz zestawienie wyników kontroli działalności podmiotów, o których mowa w art. 45a ust. 1 ustawy, według kryterium zgodności z przepisami prawa oraz z umową, o której mowa w art. 45a ust. 1 ustawy.
+
+### § 8.
+
+Inspektor nadzoru odbiera od firmy audytorskiej dokonującej badania lub przeglądu sprawozdań finansowych funduszy zarządzanych przez towarzystwo:
+
+### 1)
+
+coroczne oświadczenie potwierdzające jej niezależność i niezależność biegłych rewidentów dokonujących badania lub przeglądu;
+
+### 2)
+
+coroczne informacje dotyczące innych usług świadczonych przez firmę audytorską na rzecz funduszy zarządzanych przez towarzystwo;
+
+### 3)
+
+informacje o zagrożeniach niezależności firmy audytorskiej oraz czynnościach zastosowanych w celu ograniczenia tych zagrożeń.
+
+### Oddział 2 System audytu wewnętrznego
+
+### § 9.
+
+### 1.
+
+System audytu wewnętrznego służy weryfikacji systemów oraz procedur i regulaminów wewnętrznych obowiązujących w towarzystwie, według kryterium prawidłowości i skuteczności wypełniania przez towarzystwo obowiązków wynikających z przepisów, oraz działaniu mającemu na celu eliminację nieprawidłowości.
+
+### 2.
+
+W strukturze organizacyjnej towarzystwa wydziela się odrębną i niezależną komórkę audytu wewnętrznego, którą kieruje audytor wewnętrzny. Jeżeli uzasadnia to rodzaj i zakres działalności prowadzonej przez towarzystwo oraz nie zagraża to interesom klientów i uczestników funduszy, czynności audytu wewnętrznego mogą być wykonywane przez audytora wewnętrznego w ramach stanowiska jednoosobowego; do stanowiska jednoosobowego stosuje się przepisy dotyczące komórki audytu wewnętrznego. Członek zarządu towarzystwa nie może pełnić funkcji audytora wewnętrznego.
+
+### 3.
+
+Towarzystwo zapewnia, aby osoby wykonujące zadania z zakresu audytu wewnętrznego:
+
+### 1)
+
+nie łączyły ich z funkcją nadzoru zgodności działalności z prawem lub funkcją zarządzania ryzykiem;
+
+### 2)
+
+nie brały udziału w wykonywaniu czynności operacyjnych dotyczących ustalania poziomu i rodzaju ryzyka ponoszonego przez fundusz inwestycyjny otwarty - w przypadku gdyby prowadziło to do sytuacji, w której osoby te jednocześnie nadzorowałyby wykonywane przez siebie czynności;
+
+### 3)
+
+posiadały odpowiednią wiedzę i kompetencje w zakresie procedur audytowych oraz działalności prowadzonej przez towarzystwo.
+
+### 4.
+
+Towarzystwo monitoruje wiedzę i kompetencje posiadane przez osoby, o których mowa w ust. 3, w szczególności w przypadku wystąpienia zmian w przepisach prawa lub innych okoliczności mających wpływ na wykonywane przez nich czynności, a w przypadku zaistnienia takiej potrzeby, podejmuje działania niezbędne do przestrzegania przez osoby, o których mowa w ust. 3, wprowadzonych zmian w przepisach prawa bądź uzupełnienia braków wiedzy i kompetencji.
+
+### 5.
+
+Towarzystwo jest obowiązane podejmować działania mające na celu utrzymanie oraz pogłębianie przez osoby, o których mowa w ust. 3, posiadanej wiedzy i kompetencji, w szczególności przez ich uczestnictwo w regularnym doskonaleniu zawodowym lub szkoleniach, a także w szkoleniach wymaganych przed rozpoczęciem świadczenia przez towarzystwo nowych usług lub rozszerzenia przedmiotu świadczonych usług o nowe instrumenty finansowe.
+
+### 6.
+
+Towarzystwo zapewnia osobom, o których mowa w ust. 3, stosowne uprawnienia, środki oraz dostęp do niezbędnych informacji i pomieszczeń.
+
+### 7.
+
+Towarzystwo zapewnia, aby osoby, o których mowa w ust. 3, nie brały udziału w wykonywaniu czynności z zakresu działalności, która jest przedmiotem audytu wewnętrznego.
+
+### 8.
+
+Komórka audytu wewnętrznego:
+
+### 1)
+
+opracowuje plan audytu wewnętrznego i go wykonuje;
+
+### 2)
+
+wydaje zalecenia wynikające z działań podejmowanych w ramach wykonywania planu audytu wewnętrznego i ocenia ich wykonanie;
+
+### 3)
+
+sporządza nie rzadziej niż raz na rok pisemny raport z wykonywania zadań w zakresie audytu wewnętrznego, zawierający w szczególności wskazanie środków podejmowanych w ramach wykonywania planu audytu wewnętrznego.
+
+### 9.
+
+Raport, o którym mowa w ust. 8 pkt 3, jest przekazywany przez komórkę audytu wewnętrznego zarządowi towarzystwa.
+
+### 10.
+
+Rada nadzorcza oraz komitet audytu, o ile został powołany, otrzymują regularne, nie rzadziej niż raz w roku, pisemne sprawozdania dotyczące wykonywania zadań powierzonych komórce audytu wewnętrznego, zawierające w szczególności wskazanie środków podejmowanych w ramach wykonywania planu audytu wewnętrznego.
+
+### 11.
+
+Po każdym audycie wewnętrznym sporządza się protokół audytu wewnętrznego zawierający w szczególności cel, zakres i przedmiot audytu wewnętrznego oraz wydane zalecenia wynikające z działań podejmowanych w ramach wykonywania zadania wynikającego z planu audytu wewnętrznego.
+
+### 12.
+
+W przypadku ujawnienia w toku audytu wewnętrznego okoliczności wskazujących na popełnienie przestępstwa, wykroczenia lub rażącego naruszenia obowiązków pracowniczych, audytor wewnętrzny niezwłocznie przekazuje informację w formie pisemnej radzie nadzorczej towarzystwa.
+
+### Oddział 3 System zarządzania ryzykiem
+
+### § 10.
+
+### 1.
+
+W ramach systemu zarządzania ryzykiem towarzystwo ustanawia, wdraża i zapewnia stosowanie polityki zarządzania ryzykiem. Polityka zarządzania ryzykiem obejmuje w szczególności pisemne procedury oceny narażenia każdego zarządzanego przez towarzystwo funduszu inwestycyjnego otwartego na poszczególne rodzaje ryzyka wchodzące w skład ryzyka całkowitego, które mogą być istotne dla tego funduszu.
+
+### 2.
+
+Polityka zarządzania ryzykiem powinna określać:
+
+### 1)
+
+procesy, metody i procedury umożliwiające pomiar i zarządzanie ryzykiem oraz obliczanie całkowitej ekspozycji;
+
+### 2)
+
+podział obowiązków w zakresie zarządzania ryzykiem w towarzystwie;
+
+### 3)
+
+zakres oraz warunki i częstotliwość sporządzania sprawozdań przedkładanych przez jednostkę do spraw zarządzania ryzykiem zarządowi oraz radzie nadzorczej towarzystwa.
+
+### § 11.
+
+### 1.
+
+Towarzystwo wydziela w strukturze odrębną i niezależną, w szczególności pod względem podległości służbowej i pełnionych funkcji, od jednostek operacyjnych towarzystwa odpowiedzialnych za podejmowanie decyzji inwestycyjnych funduszy inwestycyjnych otwartych, komórkę do spraw zarządzania ryzykiem, którą kieruje zarządzający ryzykiem. Jeżeli uzasadnia to charakter, zakres i stopień złożoności czynności wykonywanych przez towarzystwo oraz zarządzanych przez nie funduszy inwestycyjnych otwartych, czynności z zakresu zarządzania ryzykiem mogą być wykonywane w ramach stanowiska jednoosobowego; do stanowiska jednoosobowego stosuje się przepisy dotyczące komórki do spraw zarządzania ryzykiem. Członek zarządu towarzystwa nie może pełnić funkcji zarządzającego ryzykiem.
+
+### 2.
+
+Osoba pełniąca funkcję zarządzającego ryzykiem nie może pełnić jednocześnie tej funkcji w więcej niż jednym towarzystwie.
+
+### 3.
+
+W odniesieniu do zarządzania przez towarzystwo funduszami inwestycyjnymi otwartymi do zakresu działania komórki do spraw zarządzania ryzykiem należy:
+
+### 1)
+
+wdrożenie procesów, metod i procedur zarządzania ryzykiem mających na celu skuteczne i ostrożne zarządzanie funduszami inwestycyjnymi zarządzanymi przez towarzystwo w sposób zgodny z ich polityką inwestycyjną określoną w statutach tych funduszy oraz z obowiązującymi przepisami prawa;
+
+### 2)
+
+zapewnienie zgodności działania każdego zarządzanego funduszu inwestycyjnego otwartego z systemem limitów ryzyka ustalonym dla tego funduszu, w tym z limitem całkowitej ekspozycji oraz limitami ryzyka kontrahenta określonymi w przepisach wydanych na podstawie art. 94 ust. 7 ustawy;
+
+### 3)
+
+przedstawianie zarządowi towarzystwa propozycji w zakresie określenia profilu ryzyka każdego zarządzanego funduszu inwestycyjnego otwartego lub opiniowanie takich propozycji;
+
+### 4)
+
+przedkładanie zarządowi oraz radzie nadzorczej towarzystwa nie rzadziej niż raz na kwartał sprawozdań w zakresie:
+
+### a)
+
+aktualnego poziomu ryzyka ponoszonego przez każdy zarządzany fundusz inwestycyjny otwarty oraz przekroczenia albo prawdopodobnego przekroczenia ustalonych dla niego limitów ryzyka,
+
+### b)
+
+spójności między aktualnym poziomem ponoszonego ryzyka a profilem ryzyka ustalonym dla każdego zarządzanego funduszu inwestycyjnego otwartego,
+
+### c)
+
+zgodności działania każdego zarządzanego funduszu inwestycyjnego otwartego z systemem limitów ryzyka,
+
+### d)
+
+przebiegu procesu zarządzania ryzykiem, wraz z informacją, czy w przypadku stwierdzenia nieprawidłowości w jego działaniu podjęto działania naprawcze, ze wskazaniem tych działań;
+
+### 5)
+
+przegląd i opiniowanie procedur wyceny niewystandaryzowanych instrumentów pochodnych.
+
+### 4[9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:9:).
+
+W odniesieniu do zarządzania przez towarzystwo funduszami inwestycyjnymi otwartymi osoby wykonujące zadania z zakresu zarządzania ryzykiem powinny posiadać odpowiednie kwalifikacje i doświadczenie w zakresie niezbędnym do ich wykonywania oraz wiedzę umożliwiającą uwzględnianie ryzyka dla zrównoważonego rozwoju przy wykonywaniu tych zadań.
+
+### 5.
+
+Towarzystwo monitoruje wiedzę i kompetencje posiadane przez osoby, o których mowa w ust. 4, w szczególności w przypadku wystąpienia zmian w przepisach prawa lub innych okoliczności mających wpływ na wykonywane przez nich czynności, a w przypadku zaistnienia takiej potrzeby, podejmuje działania niezbędne do przestrzegania przez osoby, o których mowa w ust. 4, wprowadzonych zmian w przepisach prawa bądź uzupełnienia braków wiedzy i kompetencji.
+
+### 6.
+
+Towarzystwo jest obowiązane podejmować działania mające na celu utrzymanie oraz pogłębianie przez osoby, o których mowa w ust. 4, posiadanej wiedzy i kompetencji, w szczególności przez ich uczestnictwo w regularnym doskonaleniu zawodowym lub szkoleniach, a także w szkoleniach wymaganych przed rozpoczęciem świadczenia przez towarzystwo nowych usług lub rozszerzenia przedmiotu świadczonych usług o nowe instrumenty finansowe.
+
+### 7.
+
+Towarzystwo zapewnia osobom wykonującym zadania z zakresu zarządzania ryzykiem stosowne uprawnienia, środki oraz dostęp do niezbędnych informacji i pomieszczeń.
+
+### 8.
+
+Towarzystwo zapewnia, aby osoby wykonujące zadania z zakresu zarządzania ryzykiem w odniesieniu do zarządzania przez towarzystwo funduszami inwestycyjnymi otwartymi:
+
+### 1)
+
+nie łączyły funkcji zarządzania ryzykiem z funkcją nadzoru zgodności działalności z prawem lub audytu wewnętrznego,
+
+### 2)
+
+nie brały udziału w wykonywaniu czynności operacyjnych dotyczących ustalania poziomu i rodzaju ryzyka ponoszonego przez fundusz inwestycyjny otwarty - w przypadku gdyby prowadziło to do sytuacji, w której osoby te jednocześnie nadzorowałyby wykonywane przez siebie czynności
+
+- oraz wdraża w tym celu procedury zapobiegające konfliktom interesów w zakresie zarządzania ryzykiem.
+
+### § 12.
+
+### 1.
+
+Towarzystwo opracowuje i wdraża procedury, które umożliwiają:
+
+### 1)
+
+pomiar ryzyka i zarządzanie nim, w tym ograniczanie ryzyka, na które jest lub może być narażony każdy zarządzany fundusz inwestycyjny otwarty;
+
+### 2)
+
+przestrzeganie limitu całkowitej ekspozycji oraz limitów ryzyka kontrahenta określonych w przepisach wydanych na podstawie art. 94 ust. 7 ustawy.
+
+### 2.
+
+Procedury, o których mowa w ust. 1, powinny uwzględniać rodzaj i zakres działalności prowadzonej przez towarzystwo, w szczególności łączną wartość aktywów zarządzanych przez nie funduszy inwestycyjnych otwartych, rodzaj aktywów i stopień złożoności polityki inwestycyjnej zarządzanych przez nie funduszy inwestycyjnych otwartych.
+
+### 3.
+
+Towarzystwo odrębnie dla każdego zarządzanego funduszu inwestycyjnego otwartego:
+
+### 1)
+
+w ramach procedur, o których mowa w ust. 1, wdraża procesy i metody pomiaru ryzyka w celu zapewnienia, że poszczególne rodzaje ryzyka całkowitego, na które jest narażony fundusz inwestycyjny otwarty, oraz ich wkład do ogólnego profilu ryzyka są mierzone dokładnie na podstawie rzetelnych i wiarygodnych danych;
+
+### 2)
+
+regularnie, jednak nie rzadziej niż raz na pół roku, przeprowadza ocenę poprawności funkcjonowania procesów i metod, o których mowa w pkt 1, oraz dokonuje weryfikacji historycznej stosowanych modeli pomiaru i zarządzania ryzykiem;
+
+### 3)
+
+w przypadku funduszy inwestycyjnych otwartych stosujących techniki inwestycyjne skutkujące powstaniem dźwigni finansowej oraz innych funduszy inwestycyjnych otwartych wskazanych w polityce zarządzania ryzykiem, regularnie, jednak nie rzadziej niż raz na kwartał, przeprowadza analizę wpływu skrajnie niekorzystnych warunków na wynik na pozycjach wchodzących w skład aktywów funduszu inwestycyjnego otwartego (testy warunków skrajnych funduszu), w szczególności uwzględniając skrajne zakłócenia:
+
+### a)
+
+poziomu płynności rynków,
+
+### b)
+
+parametrów cenowych i ich zmienności,
+
+### c)
+
+korelacji pomiędzy zmianami parametrów cenowych,
+
+### d)
+
+struktury i wielkości pozycji wchodzących w skład aktywów funduszu inwestycyjnego otwartego i innych szczególnych uwarunkowań działalności funduszu inwestycyjnego otwartego w zakresie ryzyka rynkowego;
+
+### 4)
+
+w ramach procedur, o których mowa w ust. 1, ustanawia, wdraża i zapewnia przestrzeganie systemu wewnętrznych limitów na ryzyka, który obejmuje środki stosowane w zarządzaniu oraz kontroli poszczególnych rodzajów ryzyka całkowitego, przy uwzględnieniu rodzajów ryzyk, które są lub mogą być istotne dla funduszu inwestycyjnego otwartego, oraz przy zapewnieniu spójności faktycznego poziomu ryzyka całkowitego z profilem ryzyka funduszu inwestycyjnego otwartego;
+
+### 5)
+
+zapewnia, aby faktyczny poziom poszczególnych rodzajów ryzyka całkowitego, które są lub mogą być istotne dla funduszu inwestycyjnego otwartego, był zgodny z systemem wewnętrznych limitów na ryzyka, o którym mowa w pkt 4;
+
+### 6)
+
+w ramach procedur, o których mowa w ust. 1, ustanawia i wdraża procesy oraz metody, które w przypadku naruszenia lub przewidywanego naruszenia systemu wewnętrznych limitów na ryzyka danego funduszu inwestycyjnego otwartego pozwolą na niezwłoczne podjęcie działań naprawczych wobec funduszu inwestycyjnego otwartego w najlepiej pojętym interesie uczestników tego funduszu inwestycyjnego otwartego.
+
+### 4.
+
+W przypadkach przewidzianych w polityce zarządzania ryzykiem, przed podjęciem decyzji inwestycyjnej dotyczącej danego funduszu inwestycyjnego otwartego towarzystwo sporządza prognozy i analizy mające na celu ocenę wpływu tej decyzji na strukturę i płynność aktywów funduszu inwestycyjnego otwartego oraz profil ryzyka do zysku funduszu inwestycyjnego otwartego. Prognozy i analizy powinny być dokonane na podstawie wiarygodnych i aktualnych informacji. Prognozy i analizy powinny uwzględniać ryzyka dla zrównoważonego rozwoju, a w przypadkach, o których mowa w art. 4 ust. 1 lit. a oraz ust. 3 i 4 rozporządzenia 2019/2088, także główne niekorzystne skutki decyzji inwestycyjnych dla czynników zrównoważonego rozwoju.[10) Zdanie trzecie dodane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:10:)
+
+### § 13.
+
+### 1.
+
+Towarzystwo, odrębnie dla każdego zarządzanego funduszu inwestycyjnego otwartego, opracowuje i wdraża procedury zarządzania ryzykiem płynności funduszu w celu zapewnienia zgodności działania tego funduszu z przepisami art. 82 i art. 84 ustawy.
+
+### 2.
+
+Towarzystwo opracowuje i wdraża procedury przeprowadzania testów warunków skrajnych obszaru płynności funduszu inwestycyjnego otwartego.
+
+### 3.
+
+Towarzystwo zapewnia zgodność profilu płynności lokat zarządzanego funduszu inwestycyjnego otwartego z przepisami art. 82 i art. 84 ustawy.
+
+### 4.
+
+W przypadku towarzystwa zarządzającego co najmniej jednym specjalistycznym funduszem inwestycyjnym otwartym ust. 1-3 stosuje się również w odniesieniu do każdego specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo.
+
+### § 14.
+
+### 1.
+
+Towarzystwo, odrębnie dla każdego zarządzanego funduszu inwestycyjnego otwartego, oblicza całkowitą ekspozycję funduszu inwestycyjnego otwartego, przy zastosowaniu jednej z następujących metod:
+
+### 1)
+
+metody zaangażowania;
+
+### 2)
+
+metody absolutnej wartości zagrożonej;
+
+### 3)
+
+metody względnej wartości zagrożonej.
+
+### 2.
+
+Sposób obliczania całkowitej ekspozycji metodą zaangażowania określa załącznik nr 1 do rozporządzenia.
+
+### 3.
+
+Sposób obliczania całkowitej ekspozycji metodą absolutnej wartości zagrożonej oraz metodą względnej wartości zagrożonej określa załącznik nr 2 do rozporządzenia.
+
+### § 15.
+
+### 1.
+
+Towarzystwo opracowuje procedurę wyboru metody pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego oraz zapewnia jej wdrożenie i stosowanie.
+
+### 2.
+
+Procedura określa czynniki, od których jest uzależniony wybór metody pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego, w szczególności:
+
+### 1)
+
+stopień złożoności strategii inwestycyjnej funduszu inwestycyjnego otwartego oraz zróżnicowanie instrumentów pochodnych stosowanych przez ten fundusz;
+
+### 2)
+
+udział instrumentów pochodnych, w tym niestandardowych instrumentów pochodnych, w aktywach netto funduszu inwestycyjnego otwartego;
+
+### 3)
+
+płynność lokat funduszu inwestycyjnego otwartego.
+
+### 3.
+
+Zmiana wybranej metody pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego jest możliwa wyłącznie w przypadkach wskazanych w procedurze, o której mowa w ust. 1.
+
+### § 16.
+
+### 1.
+
+Wartość całkowitej ekspozycji funduszu inwestycyjnego otwartego oblicza się w każdym dniu roboczym, co najmniej raz dziennie.
+
+### 2.
+
+System zarządzania ryzykiem w towarzystwie zapewnia, aby w żadnym momencie całkowita ekspozycja funduszu inwestycyjnego otwartego wyliczona przy zastosowaniu metody zaangażowania nie przekraczała wartości aktywów netto funduszu.
+
+### 3.
+
+System zarządzania ryzykiem w towarzystwie zapewnia, aby w żadnym momencie całkowita ekspozycja funduszu inwestycyjnego otwartego wyliczona przy zastosowaniu metody absolutnej wartości zagrożonej nie przekraczała 20% wartości aktywów netto funduszu.
+
+### 4.
+
+System zarządzania ryzykiem w towarzystwie zapewnia, aby w żadnym momencie całkowita ekspozycja funduszu inwestycyjnego otwartego wyliczona przy zastosowaniu metody względnej wartości zagrożonej nie przekraczała 200% wartości zagrożonej portfela referencyjnego, o którym mowa w § 18 załącznika nr 2 do rozporządzenia.
+
+### § 17.
+
+### 1.
+
+W przypadku wyboru metody zaangażowania towarzystwo stosuje tę metodę do wszystkich pozycji aktywów funduszu inwestycyjnego otwartego uwzględnianych przy obliczaniu całkowitej ekspozycji funduszu inwestycyjnego otwartego.
+
+### 2.
+
+Towarzystwo, stosując metodę zaangażowania, może przy obliczaniu całkowitej ekspozycji funduszu inwestycyjnego otwartego nie uwzględnić ekspozycji z tytułu pożyczek i kredytów, o których mowa w art. 108 ustawy.
+
+### 3.
+
+Instrument pochodny może być wyłączony z pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego metodą zaangażowania w przypadkach i na warunkach określonych w polityce zarządzania ryzykiem, jeżeli jednocześnie instrument pochodny:
+
+### 1)
+
+zamienia wyniki osiągane przez jedną lub więcej lokat znajdujących się w portfelu inwestycyjnym funduszu inwestycyjnego otwartego na wyniki osiągane przez inne aktywa w ten sposób, że lokaty te nie mają wpływu na wyniki tego funduszu;
+
+### 2)
+
+nie zawiera dodatkowych rozwiązań opcjonalnych, elementów dźwigni finansowej ani nie jest źródłem dodatkowych ryzyk w porównaniu do ryzyk generowanych przez instrument stanowiący bazę instrumentu pochodnego po zamianie.
+
+### 4.
+
+Instrument pochodny może być wyłączony z dokonywanego metodą zaangażowania pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego także w przypadku, gdy ten fundusz wykorzystuje instrument pochodny w celu określonym w art. 99 ust. 1 ustawy.
+
+### § 18.
+
+### 1.
+
+Towarzystwo może stosować techniki redukcji całkowitej ekspozycji funduszu inwestycyjnego otwartego wyznaczonej metodą zaangażowania, o których mowa w § 4-6 załącznika nr 1 do rozporządzenia, jeżeli transakcje mające za przedmiot instrumenty podlegające tym technikom zostały zawarte wyłącznie w celu redukcji ryzyka funduszu.
+
+### 2.
+
+Towarzystwo opracowuje, wdraża i stosuje procedurę określającą zasady stosowania technik redukcji całkowitej ekspozycji funduszu inwestycyjnego otwartego wyznaczonej metodą zaangażowania, o których mowa w § 4-6 załącznika nr 1 do rozporządzenia.
+
+### § 19.
+
+### 1.
+
+W przypadku wyboru metody absolutnej wartości zagrożonej albo metody względnej wartości zagrożonej towarzystwo stosuje tę metodę do wszystkich pozycji aktywów funduszu uwzględnianych przy obliczaniu całkowitej ekspozycji funduszu inwestycyjnego otwartego.
+
+### 2.
+
+Metoda wartości zagrożonej powinna być stosowana do określania co najmniej poziomu ogólnego ryzyka rynkowego obejmującego ryzyko stopy procentowej, ryzyko cen instrumentów kapitałowych i ryzyko walutowe. W polityce zarządzania ryzykiem towarzystwo wskazuje i uzasadnia przypadki, w których przy pomiarze całkowitej ekspozycji funduszu inwestycyjnego otwartego metodą wartości zagrożonej nie identyfikuje i nie uwzględnia innych ryzyk związanych z inwestowaniem w jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego lub certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego.
+
+### 3.
+
+Metoda wartości zagrożonej może być stosowana do określenia poziomu szczególnego ryzyka rynkowego aktywów funduszu inwestycyjnego otwartego, jeżeli towarzystwo opracowało, wdrożyło i zapewniło stosowanie modelu wartości zagrożonej do pomiaru poszczególnych rodzajów ryzyka szczególnego; w przeciwnym wypadku towarzystwo przeprowadza testy warunków skrajnych dla poszczególnych rodzajów ryzyka szczególnego.
+
+### § 20.
+
+Metoda wartości zagrożonej może być stosowana, jeżeli:
+
+### 1)
+
+towarzystwo dokonało wyboru między metodą absolutnej wartości zagrożonej a metodą względnej wartości zagrożonej, z uwzględnieniem dodatkowo:
+
+### a)
+
+docelowej alokacji aktywów funduszu inwestycyjnego otwartego,
+
+### b)
+
+realizowania przez fundusz inwestycyjny otwarty polityki inwestycyjnej polegającej na odzwierciedlaniu składu uznanego indeksu,
+
+### c)
+
+posiadania przez fundusz inwestycyjny otwarty wzorca służącego do oceny efektywności inwestycji w jednostki uczestnictwa funduszu (benchmark),
+
+### d)
+
+konstrukcji wzorca, o którym mowa w lit. c, oraz jego ewentualnej zawartości obejmującej instrumenty generujące dźwignię finansową lub pozycje krótkie;
+
+### 2)
+
+towarzystwo sporządziło na piśmie szczegółowe uzasadnienie wyboru określonego wariantu metody wartości zagrożonej funduszu inwestycyjnego otwartego;
+
+### 3)
+
+towarzystwo sporządziło na piśmie ocenę polityki inwestycyjnej i profilu ryzyka funduszu inwestycyjnego otwartego w celu określenia maksymalnego limitu całkowitej ekspozycji funduszu inwestycyjnego otwartego, z uwzględnieniem § 16 ust. 3 lub 4;
+
+### 4)
+
+do zakresu działania jednostki do spraw zarządzania ryzykiem należy dodatkowo:
+
+### a)
+
+projektowanie, wdrożenie oraz zapewnienie stosowania modelu wartości zagrożonej w każdym dniu roboczym,
+
+### b)
+
+regularne weryfikowanie modelu wartości zagrożonej, obejmujące w szczególności przeprowadzanie weryfikacji historycznych oraz testów warunków skrajnych,
+
+### c)
+
+wstępna akceptacja oraz przedstawianie do akceptacji zarządu towarzystwa zmian w modelu wartości zagrożonej oraz zmian w zakresie pozostałych procesów i metod wykorzystywanych do zarządzania ryzykiem funduszu inwestycyjnego otwartego wraz z uzasadnieniem oraz wynikami przeprowadzonych weryfikacji i testów,
+
+### d)
+
+zapewnienie dostosowania modelu wartości zagrożonej do polityki inwestycyjnej funduszu inwestycyjnego otwartego,
+
+### e)
+
+identyfikacja oraz obliczanie wartości zagrożonej portfela referencyjnego, jeżeli towarzystwo w odniesieniu do funduszu inwestycyjnego otwartego stosuje model względnej wartości zagrożonej,
+
+### f)
+
+wprowadzenie systemu wewnętrznych limitów na wartość zagrożoną, wyznaczoną przy uwzględnieniu wszystkich istotnych rodzajów ryzyka objętych modelem wartości zagrożonej, który podlega zatwierdzeniu przez zarząd towarzystwa,
+
+### g)
+
+monitorowanie przestrzegania systemu wewnętrznych limitów na wartość zagrożoną,
+
+### h)
+
+uwzględnianie w modelu wartości zagrożonej wszelkich transakcji, które mogą powodować wzrost dźwigni finansowej funduszu inwestycyjnego otwartego, w szczególności ryzyka związane z:
+
+- - zawieraniem transakcji przy zobowiązaniu się funduszu do odkupu,
+
+- - zawieraniem umów pożyczki, o której mowa w art. 102 ustawy,
+
+- - zawieraniem umów pożyczek lub kredytów,
+
+### i)
+
+monitorowanie ryzyk związanych ze stosowaniem przez fundusz inwestycyjny otwarty niewystandaryzowanych instrumentów pochodnych,
+
+### j)
+
+monitorowanie ryzyk związanych ze stosowaniem przez fundusz inwestycyjny otwarty niestandardowych instrumentów pochodnych,
+
+### k)
+
+opracowywanie i analizowanie dziennych raportów o wynikach modelu wartości zagrożonej oraz podejmowanie odpowiednich działań w celu zapewnienia przestrzegania limitów całkowitej ekspozycji funduszu inwestycyjnego otwartego,
+
+### l)
+
+regularne przekazywanie do zarządu towarzystwa raportów o poziomie wartości zagrożonej funduszu inwestycyjnego otwartego, wynikach weryfikacji historycznych oraz wynikach testów warunków skrajnych,
+
+### m)
+
+zapewnienie kompletności dokumentacji, o której mowa w § 15 załącznika nr 2 do rozporządzenia;
+
+### 5)
+
+model wartości zagrożonej funduszu inwestycyjnego otwartego jest zintegrowany z procesem zarządzania ryzykiem tego funduszu oraz procesem podejmowania decyzji inwestycyjnych;
+
+### 6)
+
+jednostka niezależna od jednostki odpowiedzialnej za budowę modelu wartości zagrożonej przeprowadziła testy weryfikacyjne, które wykazały, że założenia przyjęte w tym modelu są prawidłowe oraz że przy uwzględnieniu struktury ryzyka aktywów funduszu inwestycyjnego otwartego nie nastąpiło jego niedoszacowanie lub zawyżenie;
+
+### 7)
+
+testy, o których mowa w pkt 6, są przeprowadzane również w przypadku istotnych zmian w funkcjonowaniu modelu wartości zagrożonej, w szczególności:
+
+### a)
+
+zmiany polityki inwestycyjnej funduszu inwestycyjnego otwartego,
+
+### b)
+
+zidentyfikowania nowych istotnych ryzyk, na które jest narażony fundusz inwestycyjny otwarty oraz które powinny być objęte modelem wartości zagrożonej,
+
+### c)
+
+zmian wynikających z konieczności poprawy precyzji modelu wartości zagrożonej zidentyfikowanych w trakcie weryfikacji historycznych modelu;
+
+### 8)
+
+towarzystwo dokonuje regularnej weryfikacji spójności, terminowości i rzetelności źródeł danych używanych do zasilania modelu wartości zagrożonej, w tym niezależności takich źródeł danych;
+
+### 9)
+
+pracownicy towarzystwa posiadają odpowiednie, udokumentowane kwalifikacje i wiedzę w zakresie wpływu stosowania modelu wartości zagrożonej na powierzony im zakres działalności;
+
+### 10)
+
+zarząd towarzystwa i osoby zajmujące stanowiska kierownicze w towarzystwie aktywnie uczestniczą w procesie zarządzania ryzykiem funduszu inwestycyjnego otwartego, w szczególności przez:
+
+### a)
+
+analizę raportów o poziomie wartości zagrożonej funduszu inwestycyjnego otwartego, wynikach weryfikacji historycznych oraz wynikach testów warunków skrajnych,
+
+### b)
+
+akceptację zmian w modelu wartości zagrożonej oraz w zakresie pozostałych procesów i metod wykorzystywanych do zarządzania ryzykiem funduszu inwestycyjnego otwartego, zgodnie z procedurą, o której mowa w § 21 ust. 2,
+
+### c)
+
+zlecanie wykonania dodatkowych testów lub weryfikacji modelu wartości zagrożonej oraz pozostałych procesów i metod wykorzystywanych do zarządzania ryzykiem funduszu inwestycyjnego otwartego, w przypadku gdy zmiany proponowane przez jednostkę do spraw zarządzania ryzykiem mogą być nieadekwatne;
+
+### 11)
+
+co najmniej raz w roku w ramach przeglądu, o którym mowa w § 21 ust. 1, towarzystwo dokonuje przeglądu całego systemu zarządzania ryzykiem oraz działalności jednostki do spraw zarządzania ryzykiem w zakresie oceny elementów, o których mowa w pkt 1-10, oraz wprowadza zmiany, jeżeli jest to uzasadnione.
+
+### § 21.
+
+### 1.
+
+Towarzystwo monitoruje oraz w każdym czasie, gdy jest to w jego opinii uzasadnione, jednak nie rzadziej niż raz na pół roku, ocenia i przeprowadza przegląd:
+
+### 1)
+
+skuteczności i zgodności polityki zarządzania ryzykiem, w tym procedur, procesów i metod, o których mowa w § 11-13, oraz metod wyznaczania całkowitej ekspozycji, z profilami ryzyka funduszy inwestycyjnych otwartych;
+
+### 2)
+
+przestrzegania przez fundusze inwestycyjne otwarte polityki zarządzania ryzykiem, w tym procedur, procesów i metod, o których mowa w § 11-13, oraz metod wyznaczania całkowitej ekspozycji;
+
+### 3)
+
+skuteczności środków zastosowanych w celu wyeliminowania nieprawidłowości w funkcjonowaniu procesu zarządzania ryzykiem funduszy inwestycyjnych otwartych i zgodności z obowiązującymi przepisami.
+
+### 2.
+
+Towarzystwo opracowuje, wdraża i stosuje procedurę wprowadzania zmian w procesie zarządzania ryzykiem określającą warunki uzasadniające ich wprowadzenie.
+
+### § 22.
+
+### 1.
+
+Towarzystwo zamieszcza informacje o aktualnie stosowanej metodzie pomiaru całkowitej ekspozycji funduszu inwestycyjnego otwartego w sprawozdaniu finansowym oraz w prospekcie informacyjnym.
+
+### 2.
+
+W przypadku stosowania metody absolutnej wartości zagrożonej albo metody względnej wartości zagrożonej towarzystwo dodatkowo ujawnia w sprawozdaniu finansowym oraz w prospekcie informacyjnym oczekiwaną wartość wskaźnika dźwigni finansowej oraz prawdopodobieństwo przekroczenia tej wartości. Wskaźnik dźwigni finansowej powinien być obliczany jako iloraz sumy wartości referencyjnych wykorzystywanych instrumentów pochodnych i wartości aktywów netto.
+
+### 3.
+
+W przypadku stosowania metody względnej wartości zagrożonej towarzystwo dodatkowo zamieszcza w sprawozdaniu finansowym oraz w prospekcie informacyjnym informacje na temat składu portfela referencyjnego.
+
+### 4.
+
+W przypadku stosowania metody absolutnej wartości zagrożonej, metody względnej wartości zagrożonej albo metody zaangażowania towarzystwo dodatkowo ujawnia w rocznym sprawozdaniu finansowym wartość całkowitej ekspozycji funduszu inwestycyjnego otwartego wyznaczoną przy zastosowaniu tej metody. Ujawnieniu podlegają dane wykorzystane do obliczeń oraz co najmniej najniższa, najwyższa i przeciętna wartość całkowitej ekspozycji funduszu inwestycyjnego otwartego w okresie sprawozdawczym.
+
+### § 23[11) Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:11:).
+
+W przypadku powierzenia na podstawie umowy, o której mowa w art. 46b ust. 1 ustawy, innemu podmiotowi zarządzania ryzykiem funduszu, towarzystwo zachowuje należytą staranność przy zawieraniu takiej umowy oraz ustanawia odpowiednie procedury pozwalające na bieżącą ocenę jakości czynności wykonywanych przez ten podmiot, w tym w zakresie określonym w § 12 ust. 4 zdanie trzecie.
+
+### Rozdział 3 Konflikty interesów
+
+### § 24.
+
+### 1.
+
+Towarzystwo powinno zapobiegać powstawaniu konfliktów interesów, w szczególności poprzez zapewnienie odpowiedniej struktury organizacyjnej, a w przypadku powstania konfliktu interesów - zapewnić ochronę interesów uczestników funduszy lub zbiorczych portfeli papierów wartościowych lub klientów towarzystwa przed jego szkodliwym wpływem.
+
+### 2.
+
+W przypadku zawarcia przez towarzystwo umowy, o której mowa w art. 45a ust. 1 ustawy, towarzystwo powinno zapobiegać powstawaniu konfliktów interesów, które mogą powstać w związku z wykonaniem umowy, a w przypadku powstania konfliktu interesów - zapewnić ochronę interesów uczestników funduszy lub zbiorczych portfeli papierów wartościowych lub klientów towarzystwa przed jego szkodliwym wpływem.
+
+### 3[12) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:12:).
+
+Przez konflikt interesów rozumie się znane towarzystwu okoliczności, w tym związane z ryzykiem dla zrównoważonego rozwoju, które mogą doprowadzić do powstania sprzeczności między interesem towarzystwa, podmiotu, o którym mowa w art. 45a ust. 1 ustawy, w przypadku zawarcia umowy, o której mowa w art. 45a ust. 1 ustawy, akcjonariusza towarzystwa lub osoby obowiązanej a obowiązkiem działania przez towarzystwo w sposób rzetelny, z uwzględnieniem najlepiej pojętego interesu uczestników funduszu lub zbiorczego portfela papierów wartościowych oraz klientów towarzystwa oraz okoliczności, które mogą doprowadzić do sprzeczności pomiędzy interesami uczestników funduszu lub zbiorczego portfela papierów wartościowych lub klientów towarzystwa.
+
+### 4.
+
+Konflikt interesów może powstać w szczególności w przypadku, gdy towarzystwo, podmiot, o którym mowa w art. 45a ust. 1 ustawy, akcjonariusz towarzystwa lub osoba obowiązana:
+
+### 1)
+
+może uzyskać korzyść lub uniknąć straty na skutek poniesienia straty lub nieuzyskania korzyści przez co najmniej jednego klienta tego towarzystwa, uczestnika funduszu, fundusz lub zbiorczy portfel papierów wartościowych;
+
+### 2)
+
+posiada powód, aby udzielać klientowi, uczestnikowi funduszu, grupie klientów lub uczestników funduszu, funduszowi lub zbiorczemu portfelowi papierów wartościowych preferencji w stosunku do innego klienta, uczestnika funduszu, grupy klientów lub uczestników funduszu, funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 3)
+
+posiada interes rozbieżny z interesem klienta, uczestnika funduszu, funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 4)
+
+prowadzi taką samą działalność jak działalność prowadzona przez klienta towarzystwa;
+
+### 5)
+
+otrzyma od osoby innej niż klient, uczestnik funduszu, fundusz lub zbiorczy portfel papierów wartościowych korzyść majątkową, inną niż standardowe prowizje i opłaty, w związku z usługą świadczoną na rzecz klienta, uczestnika funduszu lub zarządzaniem funduszem lub zbiorczym portfelem papierów wartościowych.
+
+### § 25.
+
+### 1.
+
+Sposób postępowania towarzystwa w celu przeciwdziałania powstawaniu konfliktów interesów określa regulamin zarządzania konfliktami interesów uchwalany przez zarząd albo radę nadzorczą towarzystwa. Regulamin ten uwzględnia organizację wewnętrzną towarzystwa oraz rodzaj i zakres prowadzonej przez nie działalności oraz czynności związanych z działalnością prowadzoną przez towarzystwo, które zostały powierzone podmiotowi, o których mowa w art. 45a ust. 1 ustawy, na podstawie umowy, o której mowa w art. 45a ust. 1 ustawy. W towarzystwie, które wchodzi w skład grupy kapitałowej, regulamin określa sposób postępowania towarzystwa w celu przeciwdziałania powstawaniu konfliktów interesów dostosowany do struktury grupy kapitałowej oraz rodzaju działalności prowadzonej przez innych członków tej grupy kapitałowej.
+
+### 2.
+
+Regulamin zarządzania konfliktami interesów określa w szczególności:
+
+### 1)
+
+okoliczności, które w odniesieniu do poszczególnych czynności z zakresu działalności towarzystwa powodują lub mogą powodować powstanie konfliktu interesów związanego z istotnym ryzykiem naruszenia interesów klientów towarzystwa lub uczestników funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 2)
+
+okoliczności związane z czynnościami z zakresu działalności towarzystwa powierzonymi podmiotowi, o których mowa w art. 45a ust. 1 ustawy, na podstawie umowy, o której mowa w art. 45a ust. 1 ustawy, które powodują lub mogą powodować powstanie konfliktu interesów związanego z istotnym ryzykiem naruszenia interesów klientów towarzystwa lub uczestników funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 3)
+
+sposób zarządzania konfliktami interesów.
+
+### 3.
+
+Jeżeli jest to uzasadnione rodzajem i rozmiarem prowadzonej działalności oraz poziomem ryzyka naruszenia interesów klientów lub uczestników funduszu inwestycyjnego lub zbiorczego portfela papierów wartościowych, sposób zarządzania konfliktami interesów powinien w szczególności:
+
+### 1)
+
+zapobiegać przepływowi informacji pomiędzy osobami wykonującymi poszczególne czynności z zakresu działalności towarzystwa, które mogą powodować powstanie konfliktu interesów, lub zapewniać nadzór nad przepływem takich informacji, jeżeli jest on konieczny;
+
+### 2)
+
+zapewniać nadzór nad osobami wykonującymi czynności z zakresu działalności towarzystwa, których interesy są sprzeczne z interesem klientów, uczestników funduszu lub zbiorczego portfela papierów wartościowych, lub które mogą reprezentować interesy sprzeczne z interesem klientów, uczestników funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 3)
+
+zapewniać nadzór nad sposobem wykonywania powierzonych czynności przez podmioty, o których mowa w art. 45a ust. 1 ustawy, których interesy mogą być sprzeczne z interesem towarzystwa, klientów towarzystwa, uczestników funduszu lub zbiorczego portfela papierów wartościowych;
+
+### 4)
+
+zapobiegać powstaniu bezpośredniej zależności wysokości wynagrodzenia osób wykonujących czynności z zakresu działalności towarzystwa od wynagrodzenia lub zysków osiąganych przez osoby wykonujące czynności innego rodzaju, które powodują lub mogą powodować powstanie konfliktu interesów;
+
+### 5)
+
+zapobiegać możliwości wywierania niekorzystnego wpływu na sposób wykonywania przez osobę obowiązaną czynności z zakresu działalności towarzystwa;
+
+### 6)
+
+zapobiegać przypadkom jednoczesnego lub w krótkim odstępie czasu wykonywania przez tę samą osobę obowiązaną czynności z zakresu działalności towarzystwa, jeżeli mogłoby to wywrzeć niekorzystny wpływ na prawidłowe zarządzanie konfliktami interesów, lub zapewniać nadzór nad sposobem wykonywania tych czynności, jeżeli jest on konieczny;
+
+### 7)
+
+jeżeli jest to niezbędne do prawidłowego wykonywania obowiązków - zapewnić osobom obowiązanym zaangażowanym w wykonywanie działalności towarzystwa niezależność wykonywania ich czynności;
+
+### 8)
+
+określać zasady zawierania transakcji pomiędzy:
+
+### a)
+
+funduszami zarządzanymi przez towarzystwo,
+
+### b)
+
+towarzystwem działającym na rachunek własny albo zbiorczego portfela papierów wartościowych a klientami towarzystwa, akcjonariuszem towarzystwa oraz podmiotem, o którym mowa w art. 45a ust. 1 ustawy,
+
+### c)
+
+funduszem zarządzanym przez towarzystwo a klientami towarzystwa lub uczestnikami funduszy zarządzanych przez towarzystwo lub podmiotem, o którym mowa w art. 45a ust. 1 ustawy,
+
+### d)
+
+towarzystwem działającym na rachunek zbiorczego portfela papierów wartościowych a funduszem zarządzanym przez towarzystwo;
+
+### 9)
+
+zapobiegać wykorzystaniu lub ujawnianiu przez osoby obowiązane wykonujące czynności z zakresu działalności towarzystwa lub osoby obowiązane posiadające dostęp do informacji poufnych lub stanowiących tajemnicę zawodową informacji, które powodują lub mogą powodować powstanie konfliktu interesów przez:
+
+### a)
+
+zawieranie transakcji własnych, które:
+
+- - stanowią manipulację lub są związane z wykorzystaniem informacji poufnej,
+
+- - są związane z ujawnieniem lub wykorzystaniem informacji stanowiącej tajemnicę zawodową lub
+
+- - stanowią naruszenie przepisów dotyczących prowadzenia działalności przez towarzystwo lub fundusze,
+
+### b)
+
+doradzanie innej osobie lub jej nakłanianie do zawarcia transakcji spełniającej warunki określone w lit. a lub do zawarcia transakcji z wykorzystaniem informacji dotyczących zleceń składanych przez klientów towarzystwa będących w posiadaniu tej osoby obowiązanej,
+
+### c)
+
+ujawnianie innej osobie informacji, których wynikiem jest lub może być podjęcie przez tę osobę decyzji o zawarciu transakcji, o której mowa w lit. b, lub doradzanie przez tę osobę lub nakłanianie do zawarcia transakcji, o której mowa w lit. b.
+
+### 4.
+
+Regulamin zarządzania konfliktami interesów określa ponadto:
+
+### 1)
+
+zasady informowania osób obowiązanych o istniejących ograniczeniach zawierania transakcji własnych oraz o sposobie postępowania w związku z zawieraniem przez nie takich transakcji;
+
+### 2)
+
+obowiązek informowania towarzystwa przez osoby obowiązane o zawieranych transakcjach własnych;
+
+### 3)
+
+zasady prowadzenia rejestru transakcji własnych zawieranych przez osoby obowiązane oraz rejestru zgód udzielonych na zawarcie takich transakcji.
+
+### 5.
+
+Ograniczenia w zawieraniu transakcji własnych nie dotyczą transakcji własnych lub transakcji na rachunek innych osób zawieranych przez osoby obowiązane, jeżeli:
+
+### 1)
+
+transakcje te są zawierane przez podmiot prowadzący działalność maklerską, któremu ta osoba obowiązana zleciła zarządzanie portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, w sposób wyłączający jej wpływ na decyzje inwestycyjne podejmowane na jej rachunek lub
+
+### 2)
+
+przedmiotem tych transakcji są jednostki uczestnictwa funduszy inwestycyjnych otwartych, specjalistycznych funduszy inwestycyjnych otwartych lub tytuły uczestnictwa funduszy zagranicznych.
+
+### § 26.
+
+### 1.
+
+Towarzystwo opracowuje i wdraża procedurę zapobiegającą ujawnieniu lub wykorzystaniu informacji poufnych lub stanowiących tajemnicę zawodową w celu zapobieżenia wykorzystywaniu lub ujawnianiu takich informacji przez osoby kierujące działalnością towarzystwa i osoby uczestniczące w świadczeniu usług bądź działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo lub osoby posiadające dostęp do tych informacji.
+
+### 2.
+
+Procedura zawiera w szczególności:
+
+### 1)
+
+wskazanie stanowisk, na których są zatrudnione osoby objęte obowiązkiem zachowania tajemnicy zawodowej lub zakazem ujawniania i wykorzystywania informacji poufnych, oraz wyraźny zakaz ujawniania i wykorzystywania przez te osoby takich informacji;
+
+### 2)
+
+określenie wyjątków od zakazu ujawniania informacji stanowiących tajemnicę zawodową lub informacji poufnych;
+
+### 3)
+
+sposób postępowania z dokumentami zawierającymi informacje stanowiące tajemnicę zawodową lub informacje poufne.
+
+### § 27.
+
+### 1.
+
+Towarzystwo prowadzi rejestr transakcji własnych zawieranych przez osoby obowiązane oraz rejestr zgód udzielonych na zawarcie takich transakcji.
+
+### 2.
+
+Towarzystwo prowadzi rejestr rodzajów działalności wykonywanej przez towarzystwo w imieniu własnym lub działalności wykonywanej przez inny podmiot na rzecz towarzystwa, w związku z którymi powstał lub może powstać konflikt interesów związany z istotnym ryzykiem naruszenia interesów klienta, funduszu lub uczestników funduszu.
+
+### Rozdział 4 Działanie w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników tego funduszu
+
+### § 28.
+
+Towarzystwo działa w najlepiej pojętym interesie uczestników zarządzanych przez siebie funduszy inwestycyjnych otwartych, dbając o ich równe traktowanie, w szczególności powstrzymuje się od działań, które powodują lub mogą powodować uprzywilejowanie interesów jakiejkolwiek grupy uczestników zarządzanego przez nie funduszu lub funduszy w stosunku do interesów innej grupy takich uczestników.
+
+### § 29.
+
+### 1.
+
+Sposób prowadzenia przez towarzystwo działalności w zakresie zarządzania funduszami inwestycyjnymi otwartymi z uwzględnieniem działania w najlepiej pojętym interesie funduszu inwestycyjnego otwartego i uczestników funduszu inwestycyjnego otwartego określa uchwalony przez zarząd albo radę nadzorczą towarzystwa regulamin, który określa w szczególności:
+
+### 1)
+
+sposób zapobiegania praktykom, które mogłyby wpłynąć niekorzystnie na stabilność i integralność rynku finansowego;
+
+### 2)
+
+model i system wyceny zapewniający prawidłowe i przejrzyste ustalanie wartości jednostek uczestnictwa funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 3)
+
+procedurę podejmowania i wykonywania decyzji inwestycyjnych w imieniu funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, zapewniającą podejmowanie decyzji zgodnie z celami inwestycyjnymi i polityką inwestycyjną, przy uwzględnieniu limitów ryzyka dotyczących funduszu inwestycyjnego otwartego;
+
+### 4)
+
+politykę składania i realizacji zleceń funduszy inwestycyjnych otwartych;
+
+### 5)
+
+politykę alokacji zleceń, jeżeli towarzystwo zamierza dokonywać łączenia zleceń, o którym mowa w § 34;
+
+### 6)
+
+strategię wykonywania prawa głosu z instrumentów finansowych wchodzących w skład portfeli inwestycyjnych funduszy inwestycyjnych otwartych.
+
+### 1a[13) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:13:).
+
+Przy uchwalaniu regulaminu, o którym mowa w ust. 1, w zakresie, o którym mowa w ust. 1 pkt 3, odpowiednio zarząd albo rada nadzorcza towarzystwa uwzględnia również ryzyka dla zrównoważonego rozwoju.
+
+### 2.
+
+Towarzystwo, które na podstawie umowy, o której mowa w art. 45a ust. 1 ustawy, powierzyło innemu podmiotowi zarządzanie całością portfeli inwestycyjnych wszystkich zarządzanych przez siebie funduszy inwestycyjnych, zapewnia przyjęcie przez ten podmiot regulaminu w zakresie, o którym mowa w ust. 1. W takim przypadku przepisów ust. 1 nie stosuje się do towarzystwa.
+
+### 3.
+
+Towarzystwo, które na podstawie umowy, o której mowa w art. 45a ust. 1 ustawy, powierzyło innemu podmiotowi zarządzanie całością portfeli inwestycyjnych wszystkich zarządzanych przez siebie funduszy inwestycyjnych otwartych, zapewnia przyjęcie przez ten podmiot regulaminu w zakresie, o którym mowa w ust. 1. W takim przypadku przepisów ust. 1 nie stosuje się do towarzystwa.
+
+### 4.
+
+Towarzystwo ustanawia odpowiednie procedury pozwalające na bieżącą ocenę jakości czynności wykonywanych przez podmiot, któremu powierzono zarządzanie portfelami inwestycyjnymi funduszy inwestycyjnych otwartych.
+
+### § 30.
+
+Towarzystwo zapewnia, aby zarządzane przez nie fundusze inwestycyjne otwarte oraz ich uczestnicy nie byli obciążani nieuzasadnionymi kosztami.
+
+### § 31.
+
+### 1[14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:14:).
+
+Towarzystwo dochowuje szczególnej staranności przy wyborze i dokonywaniu lokat w imieniu zarządzanych przez siebie funduszy inwestycyjnych otwartych, w szczególności:
+
+### 1)
+
+zapewnia, aby osoby odpowiedzialne za wybór i dokonywanie lokat posiadały odpowiednią wiedzę o aktywach będących ich przedmiotem, oraz
+
+### 2)
+
+uwzględnia ryzyko dla zrównoważonego rozwoju, a w przypadkach, o których mowa w art. 4 ust. 1 lit. a oraz ust. 3 i 4 rozporządzenia 2019/2088, także główne niekorzystne skutki decyzji inwestycyjnych dla czynników zrównoważonego rozwoju.
+
+### 2.
+
+Towarzystwo jest obowiązane poprzedzić wybór i dokonanie lokaty w imieniu zarządzanych przez siebie funduszy inwestycyjnych otwartych odpowiednią analizą uwarunkowań rynkowych i prawnych oraz ryzyk związanych z planowaną lokatą.
+
+### 3.
+
+Towarzystwo opracowuje i wdraża procedurę dokonywania analiz, o których mowa w ust. 2, określającą w szczególności sposób ich przeprowadzania.
+
+### § 32.
+
+Towarzystwo przeciwdziała nieuprawnionemu wykorzystywaniu informacji dotyczących niezrealizowanych zleceń zarządzanego przez nie funduszu inwestycyjnego otwartego oraz zapobiega nieuprawnionemu wykorzystywaniu takich informacji przez osoby obowiązane.
+
+### § 33.
+
+### 1.
+
+Towarzystwo przygotowuje i wdraża politykę składania i realizacji zleceń funduszy inwestycyjnych otwartych, uwzględniając cenę instrumentu finansowego, koszty związane z wykonaniem zlecenia, czas zawarcia transakcji, prawdopodobieństwo zawarcia transakcji i jej rozliczenia, wielkość zlecenia, jego charakter oraz inne czynniki, które mają istotny wpływ na świadczoną usługę.
+
+### 2.
+
+Towarzystwo ustala wagę przypisywaną poszczególnym czynnikom wskazanym w ust. 1 albo wdraża procedurę określającą sposób jej ustalania, z uwzględnieniem:
+
+### 1)
+
+celów inwestycyjnych, polityki inwestycyjnej oraz ryzyka właściwego dla danego funduszu inwestycyjnego otwartego;
+
+### 2)
+
+specyfiki składanego zlecenia;
+
+### 3)
+
+cech instrumentu finansowego będącego przedmiotem zlecenia;
+
+### 4)
+
+rodzaju i specyfiki możliwych miejsc wykonania.
+
+### 3.
+
+Polityka składania i realizacji zleceń funduszy inwestycyjnych otwartych umożliwia zarządzanym funduszom inwestycyjnym otwartym uzyskiwanie najkorzystniejszych wyników oraz zapewnia, że składanie i realizacja zleceń przez towarzystwo jest dokonywane w najlepiej pojętym interesie zarządzanych przez nie funduszy inwestycyjnych otwartych.
+
+### 4.
+
+Polityka składania i realizacji zleceń funduszy inwestycyjnych otwartych umożliwia niezwłoczną, należytą i sprawną realizację zleceń oraz zapewnia, że:
+
+### 1)
+
+zlecenia realizowane w imieniu funduszu inwestycyjnego otwartego są prawidłowo rejestrowane i alokowane;
+
+### 2)
+
+realizacja porównywalnych zleceń funduszu inwestycyjnego otwartego odbywa się kolejno i niezwłocznie, chyba że uniemożliwia to charakter danego zlecenia lub warunki rynkowe lub jest to sprzeczne z interesem funduszu inwestycyjnego otwartego;
+
+### 3)
+
+instrumenty finansowe lub kwoty pieniężne uzyskane z tytułu rozliczenia zrealizowanych zleceń są niezwłocznie i prawidłowo przekazywane na rachunek właściwego funduszu inwestycyjnego otwartego.
+
+### 5.
+
+Towarzystwo regularnie monitoruje skuteczność polityki składania i realizacji zleceń funduszy inwestycyjnych otwartych, a w razie potrzeby eliminuje jej nieprawidłowości. Towarzystwo dokonuje przeglądu tej polityki nie rzadziej niż raz na rok, a ponadto w każdym przypadku wystąpienia istotnej zmiany, która trwale wpływa na zdolność towarzystwa do dalszego uzyskiwania możliwie najlepszych wyników funduszu inwestycyjnego otwartego w miejscach wykonania ustalonych zgodnie z tą polityką.
+
+### 6.
+
+Towarzystwo udostępnia uczestnikowi funduszu inwestycyjnego otwartego bezpłatnie, na jego żądanie, szczegółowe informacje na temat polityki składania i realizacji zleceń funduszy inwestycyjnych otwartych.
+
+### 7.
+
+Towarzystwo powinno w każdym czasie wykazać, że działało zgodnie z polityką składania i realizacji zleceń funduszy inwestycyjnych otwartych.
+
+### § 34.
+
+### 1.
+
+Łączenie przez towarzystwo zleceń dotyczących portfeli inwestycyjnych funduszy inwestycyjnych otwartych lub zleceń związanych ze świadczeniem usług na rzecz różnych klientów lub zleceń własnych towarzystwa jest dopuszczalne wyłącznie w przypadku, gdy połączenie zleceń nie działa na niekorzyść któregokolwiek funduszu lub klienta.
+
+### 2.
+
+Jeżeli towarzystwo łączy zlecenie funduszu inwestycyjnego otwartego z jednym lub kilkoma zleceniami innego funduszu inwestycyjnego otwartego lub klienta lub zleceniem na rachunek własny towarzystwa, a połączone zlecenie jest realizowane transzami, polityka alokacji zleceń określa sposób, w jaki świadczenia wynikające z połączonego zlecenia są przydzielane poszczególnym podmiotom.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, towarzystwo nie może przydzielać świadczeń wynikających z połączonego zlecenia w sposób niekorzystny dla innego funduszu lub klienta.
+
+### 4.
+
+Jeżeli w przypadku, o którym mowa w ust. 2, następuje częściowa realizacja połączonego zlecenia, pierwszeństwo w przydziale świadczeń wynikających z połączonego zlecenia przysługuje funduszowi inwestycyjnemu otwartemu lub klientowi, chyba że towarzystwo jest w stanie wykazać uczestnikom funduszu inwestycyjnego otwartego lub klientom, że bez połączenia zleceń nie można byłoby ich zrealizować na tak korzystnych warunkach albo w całości; w takim przypadku towarzystwo dokonuje przydziału świadczeń wynikających z połączonego zlecenia proporcjonalnie, w sposób zgodny z polityką alokacji zleceń.
+
+### § 35.
+
+### 1.
+
+Towarzystwo ustala strategię wykonywania prawa głosu z instrumentów finansowych wchodzących w skład portfeli inwestycyjnych funduszy inwestycyjnych otwartych, która zawiera w szczególności postanowienia:
+
+### 1)
+
+dotyczące sposobu monitorowania przez towarzystwo istotnych zmian w spółkach, w których przysługuje prawo głosu funduszom inwestycyjnym otwartym zarządzanym przez towarzystwo;
+
+### 2)
+
+zapewniające, że prawo głosu jest wykonywane zgodnie z celami inwestycyjnymi i polityką inwestycyjną poszczególnych funduszy inwestycyjnych otwartych;
+
+### 3)
+
+dotyczące zapobiegania konfliktom interesów wynikającym z wykonywania prawa głosu oraz zarządzania nimi.
+
+### 2.
+
+Towarzystwo udostępnia na swojej stronie internetowej skrócony opis strategii wykonywania prawa głosu z instrumentów finansowych wchodzących w skład portfeli inwestycyjnych funduszy inwestycyjnych otwartych.
+
+### 3.
+
+Towarzystwo udostępnia uczestnikowi funduszu inwestycyjnego otwartego bezpłatnie, na jego żądanie, szczegółowe informacje na temat sposobu wykonania prawa głosu przysługującego funduszowi inwestycyjnemu otwartemu, którego jest uczestnikiem, z tytułu instrumentów finansowych wchodzących w skład portfela inwestycyjnego tego funduszu.
+
+### Rozdział 5 Tryb i warunki postępowania towarzystwa w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+### Oddział 1 Kontakty z klientami w zakresie prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+### § 36.
+
+### 1.
+
+Towarzystwo, prowadząc działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, może, na wniosek klienta profesjonalnego, złożony w formie pisemnej albo w postaci elektronicznej, albo mimo braku takiego wniosku traktować klienta profesjonalnego jak klienta detalicznego.
+
+### 2.
+
+Towarzystwo informuje klienta profesjonalnego przed przyjęciem od niego pierwszego zlecenia nabycia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo o zasadach traktowania klientów profesjonalnych i o przysługującym mu uprawnieniu do złożenia wniosku, o którym mowa w ust. 1.
+
+### § 37.
+
+W przypadku traktowania klienta profesjonalnego jak klienta detalicznego stosuje się odpowiednio przepisy rozporządzenia określające zasady traktowania przez towarzystwo klientów detalicznych.
+
+### § 38.
+
+### 1.
+
+Towarzystwo, w zakresie działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, może, na wniosek podmiotu innego niż klient profesjonalny, o którym mowa w art. 2 pkt 13a lit. a-m ustawy, złożony w formie pisemnej albo w postaci elektronicznej, traktować go jak klienta profesjonalnego, jeżeli podmiot ten wykaże, że posiada wiedzę i doświadczenie pozwalające na podejmowanie właściwych decyzji inwestycyjnych oraz właściwą ocenę ryzyka związanego z tymi decyzjami.
+
+### 2.
+
+Warunek, o którym mowa w ust. 1, uważa się za zachowany, w przypadku gdy dany podmiot spełnia co najmniej dwa z poniższych wymogów:
+
+### 1)
+
+zawierał transakcje nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych o znacznej wartości, ze średnią częstotliwością co najmniej 10 transakcji na kwartał w ciągu czterech ostatnich kwartałów;
+
+### 2)
+
+wartość portfela jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych posiadanych przez tego klienta łącznie ze środkami pieniężnymi wchodzącymi w jego skład wynosi co najmniej równowartość w złotych 500 000 euro;
+
+### 3)
+
+pracuje lub pracował w sektorze finansowym przez co najmniej rok na stanowisku, które wymaga wiedzy zawodowej dotyczącej jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, lub dotyczącej działalności pośrednictwa w zbywaniu i odkupywaniu takich jednostek uczestnictwa.
+
+### 3.
+
+Zarząd towarzystwa pisemnie określa kryteria ustalenia znacznej wartości, o której mowa w ust. 2 pkt 1, uwzględniając co najmniej:
+
+### 1)
+
+wartość transakcji nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zawieranych przez danego klienta oraz wartość takich transakcji zawieranych przez wszystkich klientów tego towarzystwa;
+
+### 2)
+
+strukturę klientów towarzystwa zawierających transakcje nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych;
+
+### 3)
+
+ocenę, czy wartość transakcji nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zawieranych przez danego klienta jest wystarczająca, aby dawać podstawy, poprzez odpowiednią ekspozycję na ryzyko, do zdobycia przez tego klienta wiedzy i doświadczenia w zakresie zawierania transakcji nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, które będą istotnie wykraczały poza doświadczenie i wiedzę klientów detalicznych zawierających takie transakcje;
+
+### 4)
+
+charakter i rodzaj jednostek uczestnictwa, których dotyczą zawierane transakcje;
+
+### 5)
+
+konieczność zapewnienia, aby ustalona znaczna wartość nie stanowiła nadmiernej zachęty dla klientów detalicznych do zmiany statusu na klienta profesjonalnego.
+
+### 4.
+
+Towarzystwo dokumentuje analizy będące podstawą ustalenia znacznej wartości na podstawie kryteriów, o których mowa w ust. 3, oraz sposób uwzględnienia przez towarzystwo czynników wymienionych w tym przepisie.
+
+### 5.
+
+Kryteria, o których mowa w ust. 3, oraz ustalona na ich podstawie znaczna wartość, podlegają okresowemu przeglądowi, co najmniej raz w roku, celem weryfikacji ich aktualności i adekwatności. Towarzystwo dokumentuje wyniki przeprowadzanych przeglądów.
+
+### 6.
+
+Równowartość kwoty wyrażonej w euro, o której mowa w ust. 2 pkt 2, jest ustalana przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego w dniu poprzedzającym datę złożenia wniosku.
+
+### 7.
+
+Towarzystwo przed uwzględnieniem wniosku, o którym mowa w ust. 1, jest obowiązane poinformować klienta występującego z wnioskiem o zasadach traktowania klientów profesjonalnych.
+
+### 8.
+
+Warunkiem uwzględnienia przez towarzystwo wniosku, o którym mowa w ust. 1, jest złożenie przez podmiot występujący z wnioskiem, pisemnego oświadczenia o znajomości zasad traktowania przez towarzystwo klientów profesjonalnych oraz o skutkach zastosowania tych zasad.
+
+### 9.
+
+Towarzystwo zobowiązuje swoich klientów do przekazywania informacji o zmianach danych, które mają wpływ na możliwość traktowania danego klienta jak klienta profesjonalnego.
+
+### 10.
+
+W przypadku powzięcia informacji, że klient przestał spełniać wymogi, o których mowa w ust. 2, towarzystwo podejmuje działania zmierzające do zmiany statusu tego klienta na potrzeby działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
+
+### 11.
+
+W przypadku powzięcia informacji, że klient przestał spełniać warunki pozwalające na uznanie go jako klienta profesjonalnego, zgodnie z art. 2 pkt 13a lit. a-m ustawy, towarzystwo podejmuje działania zmierzające do zmiany statusu klienta, chyba że klient złoży wniosek, o którym mowa w ust. 1, i spełnia warunki, o których mowa w tym przepisie. Towarzystwo niezwłocznie informuje klienta przy użyciu trwałego nośnika informacji, iż przestaje go traktować jak klienta profesjonalnego.
+
+### § 39.
+
+### 1.
+
+Towarzystwo opracowuje i wdraża pisemną procedurę postępowania w przypadkach złożenia wniosków, o których mowa w § 36 ust. 1 i § 38 ust. 1, oraz w przypadkach, o których mowa w § 38 ust. 10 i 11.
+
+### 2.
+
+Towarzystwo informuje klienta lub potencjalnego klienta przy użyciu trwałego nośnika informacji o uprawnieniu do wystąpienia z wnioskami, o których mowa w § 36 ust. 1 i § 38 ust. 1.
+
+### § 40.
+
+### 1.
+
+W przypadku gdy towarzystwo przekazuje klientowi informacje przy użyciu trwałego nośnika informacji, użycie nośnika innego niż papier jest dopuszczalne, jeżeli klient, mając możliwość wyboru pomiędzy przekazaniem informacji na papierze albo za pomocą innego trwałego nośnika informacji, wskazuje wyraźnie ten drugi sposób.
+
+### 2.
+
+W przypadku gdy towarzystwo przekazuje klientom informacje za pośrednictwem strony internetowej towarzystwa, nie kierując ich indywidualnie do klienta, korzystanie z tego sposobu przekazu jest dopuszczalne, jeżeli są spełnione następujące warunki:
+
+### 1)
+
+klient posiada regularny dostęp do Internetu; podanie przez klienta jego adresu poczty elektronicznej na potrzeby prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo uważa się za posiadanie przez niego takiego dostępu;
+
+### 2)
+
+klient udzielił wyraźnej zgody na przekazywanie informacji w taki sposób;
+
+### 3)
+
+jednocześnie z zamieszczeniem informacji na stronie internetowej towarzystwa klient zostanie powiadomiony w postaci elektronicznej o adresie strony internetowej towarzystwa oraz o miejscu na tej stronie, gdzie jest opublikowana informacja;
+
+### 4)
+
+towarzystwo zapewni aktualność przekazywanej informacji;
+
+### 5)
+
+informacja będzie dostępna na stronie internetowej towarzystwa przez czas niezbędny do tego, aby klient mógł się z nią zapoznać.
+
+### § 41.
+
+### 1.
+
+Informacje kierowane przez towarzystwo do klientów lub potencjalnych klientów w związku z prowadzeniem działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, powinny być rzetelne, nie mogą budzić wątpliwości ani wprowadzać w błąd.
+
+### 2.
+
+Informacje, o których mowa w ust. 1, kierowane do klienta detalicznego lub potencjalnego klienta detalicznego albo rozpowszechniane w sposób umożliwiający takim klientom zapoznanie się z nimi:
+
+### 1)
+
+zawierają firmę towarzystwa oraz nazwę organu nadzoru, który udzielił towarzystwu zezwolenia na wykonywanie działalności polegającej na pośrednictwie w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 2)
+
+są przedstawione w sposób zrozumiały dla przeciętnego odbiorcy, do którego są kierowane lub który może się z nimi zapoznać;
+
+### 3)
+
+nie mogą ukrywać, umniejszać ani przedstawiać w sposób niejasny istotnych elementów, stwierdzeń lub ostrzeżeń ani prezentować potencjalnych korzyści płynących z danej działalności pośrednictwa lub danych jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, jeżeli jednocześnie w sposób uczciwy i wyraźny nie wskazują zagrożeń, jakie są związane z daną działalnością pośrednictwa lub danymi jednostkami uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 4)
+
+zawierają informację o kosztach i opłatach związanych z działalnością pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa danego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, a w przypadku gdy informacje te odnoszą się do konkretnego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez to towarzystwo także informację o wysokości maksymalnego wynagrodzenia tego towarzystwa za zarządzanie danym funduszem inwestycyjnym otwartym lub specjalistycznym funduszem inwestycyjnym otwartym.
+
+### 3.
+
+Informacje, o których mowa w ust. 1, nie mogą wykorzystywać nazwy żadnego organu nadzoru w sposób, który może wskazywać lub sugerować, że organ nadzoru zatwierdził lub zaakceptował sposób prowadzenia przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo lub dane jednostki uczestnictwa.
+
+### 4.
+
+Informacje, o których mowa w ust. 1, mogą się odnosić do konkretnego przypadku opodatkowania, jeżeli wyraźnie wskazują, że takie opodatkowanie zależy od indywidualnej sytuacji klienta i może ulec zmianie.
+
+### 5.
+
+Informacje, o których mowa w ust. 1, nie mogą być sprzeczne z informacjami zawartymi w prospekcie informacyjnym oraz odpowiednio w kluczowych informacjach dla inwestorów, w informacji dla klienta alternatywnego funduszu inwestycyjnego albo w dokumencie zawierającym kluczowe informacje, bądź umniejszać znaczenia informacji zawartych w tych dokumentach.
+
+### 6.
+
+Informacje, o których mowa w ust. 1, powinny wskazywać miejsce i sposób, w jaki klienci lub potencjalni klienci mogą uzyskać prospekt informacyjny oraz odpowiednio kluczowe informacje dla inwestorów, informację dla klienta alternatywnego funduszu inwestycyjnego albo dokument zawierający kluczowe informacje, a także język, w którym dane dokumenty są dostępne.
+
+### § 42.
+
+### 1.
+
+Towarzystwo w zakresie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo zamieszcza na stronie internetowej towarzystwa informacje dotyczące towarzystwa oraz prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo obejmujące:
+
+### 1)
+
+firmę towarzystwa;
+
+### 2)
+
+oświadczenie potwierdzające, że towarzystwo posiada zezwolenie na prowadzenie działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, oraz nazwę organu nadzoru, który udzielił mu takiego zezwolenia;
+
+### 3)
+
+sposoby komunikowania się klienta z towarzystwem;
+
+### 4)
+
+dane teleadresowe pozwalające na bezpośredni kontakt klienta z towarzystwem;
+
+### 5)
+
+podstawowe zasady składania reklamacji przez klientów i sposób ich załatwiania przez towarzystwo;
+
+### 6)
+
+podstawowe zasady postępowania towarzystwa w przypadku powstania konfliktu interesów oraz informację, że na żądanie klienta mogą mu zostać przekazane szczegółowe informacje o tych zasadach;
+
+### 7)
+
+koszty i opłaty związane z działalnością pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 8)
+
+wysokość maksymalnego wynagrodzenia towarzystwa za zarządzanie danym funduszem inwestycyjnym oraz zasady naliczania i pobierania wynagrodzenia uzależnionego od wyniku funduszu inwestycyjnego jeżeli takie wynagrodzenie jest przewidziane w statucie danego funduszu;
+
+### 9)
+
+sposoby przekazywania zleceń nabycia lub odkupienia jednostek uczestnictwa, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu do towarzystwa;
+
+### 10)
+
+podstawowe zasady prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
+
+### 2.
+
+Na żądanie klienta zgłoszone przed przyjęciem pierwszego zlecenia nabycia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, towarzystwo przekazuje temu klientowi informacje, o których mowa w ust. 1, przy użyciu trwałego nośnika informacji.
+
+### 3.
+
+W przypadku, o którym mowa w ust. 2, informacje, o których mowa w ust. 1, mogą być przekazane klientowi także po przyjęciu zlecenia, w przypadku gdy na wniosek klienta zlecenie zostało przyjęte przy użyciu środków porozumiewania się na odległość, które uniemożliwiają przekazanie informacji określonych w ust. 1 przed przyjęciem zlecenia.
+
+### § 43.
+
+Towarzystwo przed przyjęciem zlecenia nabycia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo informuje klienta przy użyciu trwałego nośnika informacji o istniejących konfliktach interesów związanych z prowadzeniem działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, chyba że struktura organizacyjna towarzystwa oraz jego regulacje wewnętrzne zapewniają, że w przypadku powstania konfliktu interesów nie dojdzie do naruszenia interesu klienta. Informacja zawiera dane pozwalające klientowi na podjęcie świadomej decyzji o złożeniu zlecenia lub o skorzystaniu z działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo w przyszłości.
+
+### § 44.
+
+Towarzystwo, niezwłocznie po dokonaniu zmian, informuje klienta o istotnych zmianach w informacjach, o których mowa w § 42 ust. 1, jeżeli zmiany te są istotne ze względu na charakter prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo. Jeżeli informacja, której zmiana dotyczy, została przekazana przy użyciu trwałego nośnika informacji, zawiadomienie o zmianie przekazuje się na takim nośniku.
+
+### Oddział 2 Promowanie prowadzonej działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+### § 45.
+
+### 1.
+
+Informacje upowszechniane przez towarzystwo w celu reklamy lub promocji prowadzonej przez nie działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo są w sposób niebudzący wątpliwości oznaczane jako informacje upowszechniane w celu reklamy lub promocji.
+
+### 2.
+
+Informacje, o których mowa w ust. 1, kierowane przez towarzystwo do klientów lub potencjalnych klientów powinny być przedstawione w sposób przejrzysty oraz spełniać wymogi, o których mowa w § 41 ust. 1, a w przypadku gdy są kierowane do klienta detalicznego lub potencjalnego klienta detalicznego albo rozpowszechniane w sposób umożliwiający takim klientom zapoznanie się z nimi także wymogi, o których mowa w § 41 ust. 2.
+
+### 3.
+
+Jeżeli informacje, o których mowa w ust. 1, wskazują korzyści, które można osiągnąć w związku z nabyciem jednostek uczestnictwa danego funduszu, to w sposób równorzędny powinny także wskazywać na poziom ryzyka inwestycyjnego związanego z tymi jednostkami uczestnictwa.
+
+### 4.
+
+Jeżeli informacje, o których mowa w ust. 1, mogą stanowić podstawę podjęcia przez klientów decyzji o skorzystaniu z działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, powinny one zawierać taki zakres danych oraz zostać przedstawione w taki sposób, aby mogli oni zrozumieć specyfikę tej działalności oraz jednostek uczestnictwa będących jej przedmiotem a także ryzyko związane z nimi. Informacje takie mogą być przekazywane w formie ujednoliconej i powinny zawierać w szczególności dane o:
+
+### 1)
+
+towarzystwie oraz prowadzonej przez nie działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 2)
+
+jednostkach uczestnictwa będących przedmiotem takiej działalności;
+
+### 3)
+
+kosztach i opłatach związanych z taką działalnością.
+
+### 5.
+
+Informacje, o których mowa w ust. 1, nie mogą być sprzeczne z informacjami zawartymi w prospekcie informacyjnym oraz odpowiednio w kluczowych informacjach dla inwestorów, w informacji dla klienta alternatywnego funduszu inwestycyjnego albo w dokumencie zawierającym kluczowe informacje, bądź umniejszać znaczenia informacji zawartych w tych dokumentach.
+
+### 6.
+
+Informacje, o których mowa w ust. 1, powinny wskazywać miejsce i sposób, w jaki klienci lub potencjalni klienci mogą uzyskać prospekt informacyjny oraz odpowiednio kluczowe informacje dla inwestorów, informację dla klienta alternatywnego funduszu inwestycyjnego albo dokument zawierający kluczowe informacje, a także język, w którym dane dokumenty są dostępne.
+
+### § 46.
+
+### 1.
+
+Informacje, o których mowa w § 45 ust. 1, mogą obejmować porównanie prowadzonej przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo bądź porównanie jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w zbywaniu i odkupywaniu których towarzystwo pośredniczy, z innymi podobnymi usługami, instrumentami finansowymi lub indeksami, jeżeli:
+
+### 1)
+
+porównanie jest miarodajne i przedstawione w sposób rzetelny;
+
+### 2)
+
+zostały wskazane źródła informacji wykorzystanych do porównania;
+
+### 3)
+
+zostały wskazane główne fakty i założenia wykorzystane przy dokonywaniu porównania;
+
+### 4)
+
+porównanie jest uzasadnione między innymi celem inwestycyjnym funduszu, jego polityką inwestycyjną lub zasadami naliczania i pobierania wynagrodzenia za zarządzanie funduszem.
+
+### 2.
+
+Informacje, o których mowa w § 45 ust. 1, mogą wskazywać wyniki osiągnięte w przeszłości w związku z inwestowaniem w dany instrument finansowy lub w związku z określonym indeksem lub z prowadzeniem określonej działalności, jeżeli:
+
+### 1)
+
+wskazane wyniki nie są najważniejszym elementem informacji;
+
+### 2)
+
+są rzetelne i obejmują dane za okres ostatnich 5 lat lub za cały okres, w którym umożliwiano nabycie danego instrumentu finansowego, ustalano dany indeks lub prowadzono daną działalność, jeżeli jest to okres krótszy niż 5 lat lub też okres dłuższy, wybrany według uznania towarzystwa; w każdym przypadku jednak informacje o wynikach muszą być oparte o pełne okresy dwunastomiesięczne;
+
+### 3)
+
+w sposób wyraźny wskazują okres, za jaki dane są przedstawiane, oraz źródło tych danych;
+
+### 4)
+
+zawierają wyraźne ostrzeżenie, że przedstawione dane odnoszą się do wyników w przeszłości i że wyniki te nie stanowią gwarancji ich osiągnięcia w przyszłości;
+
+### 5)
+
+wskazują walutę obcą wraz z ostrzeżeniem, że ewentualne zyski mogą ulec zwiększeniu lub zmniejszeniu wskutek zmian kursu walutowego - w przypadku gdy wskazanie opiera się na kwotach wyrażonych w walucie obcej;
+
+### 6)
+
+opisany jest wpływ, jaki na ten wynik mają prowizje, opłaty i inne obciążenia związane z daną działalnością - w przypadku gdy wskazanie opiera się na wynikach brutto.
+
+### 3.
+
+Informacje, o których mowa w § 45 ust. 1, mogą się odnosić do symulacji wyników osiągniętych w przeszłości, jeżeli dotyczą określonego instrumentu finansowego lub indeksu oraz:
+
+### 1)
+
+symulacja wyników osiągniętych w przeszłości opiera się na rzeczywistych wynikach osiągniętych w przeszłości w związku z inwestowaniem w jeden lub w kilka instrumentów finansowych lub w związku z indeksami, które są tożsame lub stanowią podstawę instrumentu finansowego, którego informacje dotyczą;
+
+### 2)
+
+w stosunku do rzeczywistych wyników w przeszłości, o których mowa w pkt 1, są spełnione warunki określone w ust. 2 pkt 1-3, 5 i 6;
+
+### 3)
+
+zawierają wyraźne ostrzeżenie, że dane odnoszą się do symulacji wyników w przeszłości i że wyniki te nie stanowią gwarancji ich osiągnięcia w przyszłości.
+
+### 4.
+
+Informacje, o których mowa w § 45 ust. 1, mogą się odnosić do wyników przyszłych, jeżeli:
+
+### 1)
+
+nie są oparte na symulacji wyników w przeszłości ani nie odwołują się do takiej symulacji;
+
+### 2)
+
+są oparte na uzasadnionych założeniach wynikających z obiektywnych danych;
+
+### 3)
+
+są oparte na wynikach brutto i ujawniają wpływ, jaki na te wyniki będą miały prowizje, opłaty i inne obciążenia związane z daną działalnością;
+
+### 4)
+
+zawierają wyraźne ostrzeżenie, że przedstawiane prognozy nie stanowią gwarancji przyszłych wyników.
+
+### Oddział 3 Prowadzenie przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo
+
+### § 47.
+
+Towarzystwo prowadzi działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo na podstawie regulaminu określającego sposób i warunki prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w szczególności:
+
+### 1)
+
+sposób identyfikacji klientów;
+
+### 2)
+
+sposób postępowania w kontaktach z klientami osób pozostających z towarzystwem w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze;
+
+### 3)
+
+sposób przekazywania klientom informacji dotyczących funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych, w związku z którymi jest prowadzona działalność;
+
+### 4)
+
+sposób prowadzenia działalności w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo oraz wskazanie miejsc prowadzenia przez towarzystwo tej działalności;
+
+### 5)
+
+tryb i warunki składania zleceń nabycia lub odkupienia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, dyspozycji i innych oświadczeń woli związanych z uczestnictwem w funduszu inwestycyjnym otwartym lub specjalistycznym funduszu inwestycyjnym otwartym zarządzanym przez towarzystwo za pośrednictwem telefonu, telefaksu oraz w postaci elektronicznej, w szczególności sposób identyfikacji osób składających takie zlecenia, dyspozycje lub oświadczenia woli związane z uczestnictwem w funduszu oraz sposób potwierdzania takich zleceń, dyspozycji lub oświadczeń woli związanych z uczestnictwem w funduszu;
+
+### 6)
+
+terminy przekazywania zleceń nabycia lub odkupienia jednostek uczestnictwa do funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo;
+
+### 7)
+
+sposób wykonywania działalności przez osoby, o których mowa w art. 33 ust. 1 ustawy, uwzględniający obowiązki towarzystwa w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 8)
+
+sposoby i terminy wnoszenia przez klienta opłat i prowizji związanych z pośrednictwem w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo wykonywanym na rzecz klienta oraz sposób i tryb określania ich wysokości;
+
+### 9)
+
+sposoby i terminy załatwiania skarg składanych przez klienta;
+
+### 10)
+
+tryb, terminy i warunki zmiany regulaminu, a także sposób informowania klienta o tych zmianach.
+
+### § 48.
+
+### 1.
+
+Towarzystwo przyjmujące zlecenia nabycia lub odkupienia jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, dyspozycje lub inne oświadczenie woli związane z uczestnictwem w funduszu inwestycyjnym otwartym lub specjalistycznym funduszu inwestycyjnym otwartym zarządzanym przez towarzystwo klientów przekazywane za pomocą telefonu, telefaksu oraz w postaci elektronicznej zapewnia:
+
+### 1)
+
+poufność składanych zleceń, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu, w szczególności ich zabezpieczenie przed odsłuchaniem lub odczytaniem przez osoby nieuprawnione;
+
+### 2)
+
+integralność składanych zleceń, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu, w szczególności ich zabezpieczenie przed modyfikacją lub usunięciem przez osoby nieuprawnione;
+
+### 3)
+
+zabezpieczenie przed możliwością ich składania przez osoby nieuprawnione, w szczególności przez ustalenie odrębnego identyfikatora lub hasła dla każdego klienta;
+
+### 4)
+
+rejestrację daty i czasu otrzymania zlecenia, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu;
+
+### 5)
+
+możliwość potwierdzenia klientowi faktu złożenia zlecenia, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu - z wyłączeniem zleceń, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu składanych za pośrednictwem telefonu.
+
+### 2.
+
+Towarzystwo dokłada należytej staranności w celu zapewnienia sprawnej obsługi klientów w zakresie przyjmowania zleceń, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu w sposób określony w ust. 1, w szczególności towarzystwo może przyjmować takie zlecenia, dyspozycje lub inne oświadczenia woli związane z uczestnictwem w funduszu po uprzedniej identyfikacji osoby składającej zlecenie, dyspozycję lub inne oświadczenie woli związane z uczestnictwem w funduszu zgodnej z zasadami ustalonymi między towarzystwem a tym klientem.
+
+### § 49.
+
+### 1.
+
+Towarzystwo w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo przyjmuje zlecenia nabycia lub odkupienia jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, dyspozycje lub inne oświadczenia woli związane z uczestnictwem w funduszu inwestycyjnym otwartym lub specjalistycznym funduszu inwestycyjnym otwartym zarządzanym przez towarzystwo zawierające w szczególności:
+
+### 1)
+
+dane, ustalone z klientem, umożliwiające jednoznaczną identyfikację klienta;
+
+### 2)
+
+datę i czas wystawienia;
+
+### 3)
+
+oznaczenie funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo oraz liczbę jednostek uczestnictwa tego funduszu inwestycyjnego będących przedmiotem zlecenia nabycia lub odkupienia jednostek uczestnictwa albo kwoty brutto, za jaką mają zostać nabyte jednostki uczestnictwa, albo jaka ma zostać uzyskana w ramach realizacji zlecenia odkupienia jednostek uczestnictwa funduszu otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo;
+
+### 4)
+
+oznaczenie funduszu oraz przedmiot dyspozycji lub innego oświadczenia woli związanego z uczestnictwem w funduszu inwestycyjnym otwartym lub specjalistycznym funduszu inwestycyjnym otwartym zarządzanym przez towarzystwo;
+
+### 5)
+
+podpis klienta lub jego pełnomocnika, z zastrzeżeniem ust. 3 - w przypadku zleceń, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu w formie pisemnej.
+
+### 2.
+
+Upoważniony pracownik towarzystwa potwierdza przyjęcie przez towarzystwo zlecenia nabycia lub odkupienia jednostek uczestnictwa, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu, o których mowa w ust. 1, w sposób określony w regulaminie, o którym mowa w § 47, z zastrzeżeniem, iż w przypadku zleceń nabycia lub odkupienia jednostek uczestnictwa, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu składanych w formie pisemnej potwierdzenie następuje poprzez złożenie przez upoważnionego pracownika towarzystwa podpisu na dokumencie zawierającym zlecenie nabycia lub odkupienia jednostek uczestnictwa, dyspozycję lub inne oświadczenie woli związane z uczestnictwem w funduszu.
+
+### 3.
+
+Jeżeli w jednym dokumencie zamieszczono więcej niż jedno zlecenie nabycia lub odkupienia jednostek uczestnictwa, o którym mowa w ust. 1, powinien on zawierać wyraźne określenie liczby zleceń. W takim przypadku wystarczające jest złożenie jednego podpisu klienta lub jego pełnomocnika.
+
+### 4.
+
+W przypadku gdy zlecenie nabycia lub odkupienia jednostek uczestnictwa, dyspozycja lub inne oświadczenie woli związane z uczestnictwem w funduszu, o którym mowa w ust. 1, jest składane przez pełnomocnika klienta, powinno ono również zawierać wskazanie danych umożliwiających jednoznaczną identyfikację osoby składającej takie zlecenie, dyspozycję lub inne oświadczenie woli związane z uczestnictwem w funduszu.
+
+### 5.
+
+Obowiązek potwierdzenia klientowi przyjęcia zlecenia, o którym mowa w ust. 2, nie ma zastosowania do zleceń, dyspozycji i innych oświadczeń woli związanych z uczestnictwem w funduszu składanych za pośrednictwem telefonu.
+
+### § 50.
+
+Towarzystwo prowadzi rejestr zleceń nabycia lub odkupienia jednostek uczestnictwa funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, dyspozycji lub innych oświadczeń woli związanych z uczestnictwem w funduszu inwestycyjnym otwartym lub specjalistycznym funduszu inwestycyjnym otwartym zarządzanym przez towarzystwo złożonych przez klientów, na rzecz których prowadzi działalność pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
+
+### § 51.
+
+### 1.
+
+Towarzystwo przed przyjęciem zlecenia nabycia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo uzyskuje od klienta informacje o:
+
+### 1)
+
+poziomie jego wiedzy i doświadczenia inwestycyjnego, w zakresie niezbędnym do oceny, czy jednostki uczestnictwa oferowane w ramach działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo są dla niego odpowiednie, obejmującym:
+
+### a)
+
+specyfikę inwestowania w jednostki uczestnictwa oraz ryzyka związanego z inwestowaniem w te instrumenty finansowe,
+
+### b)
+
+charakter, wielkość i częstotliwość dokonywania transakcji instrumentami finansowymi dokonywanych przez klienta oraz okres, w którym były dokonywane,
+
+### c)
+
+poziom wykształcenia, zawód wykonywany obecnie lub zawód wykonywany poprzednio, jeżeli jest to istotne dla dokonania oceny;
+
+### 2)
+
+sytuacji finansowej klienta, w tym zdolności do ponoszenia strat, z uwzględnieniem określonej wartości procentowej wysokości straty, jaką klient jest w stanie ponieść;
+
+### 3)
+
+celach inwestycyjnych klienta, w tym poziomie akceptowanego ryzyka.
+
+### 2.
+
+Jeżeli na podstawie informacji uzyskanych od klienta towarzystwo oceni, że jednostki uczestnictwa oferowane w ramach działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo nie są odpowiednie dla klienta, niezwłocznie informuje o tym klienta.
+
+### 3.
+
+W przypadku gdy klient nie przedstawia informacji, o których mowa w ust. 1, lub przedstawia informacje niewystarczające, towarzystwo informuje klienta, że klient uniemożliwia mu dokonanie oceny, czy jednostki uczestnictwa oferowane w ramach działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo są dla niego odpowiednie.
+
+### 4.
+
+Towarzystwo nie może bezpośrednio lub pośrednio zachęcać klienta do odmowy przekazania informacji, o których mowa w ust. 1.
+
+### 5.
+
+Przepisy ust. 1-4 nie mają zastosowania w przypadku gdy:
+
+### 1)
+
+spełnione zostały łącznie następujące warunki:
+
+### a)
+
+przedmiotem zlecenia nabycia będą wyłącznie jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez dane towarzystwo,
+
+### b)
+
+zlecenie nabycia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo zostało złożone z wyłącznej inicjatywy klienta,
+
+### c)
+
+przed przyjęciem przez towarzystwo zlecenia nabycia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo klient został poinformowany o możliwości dokonania przez nie oceny, czy taki instrument finansowy oferowany w ramach działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo jest odpowiedni dla klienta i klient wyraził zgodę na odstąpienie od dokonania takiej oceny, albo
+
+### 2)
+
+towarzystwo pozyskało od klienta informacje, o których mowa w ust. 1, w ramach świadczenia usługi na rzecz tego klienta i informacje te pozostają aktualne.
+
+### 6.
+
+Przepisów ust. 1-5 nie stosuje się, w przypadku gdy towarzystwo uzna, że składający zlecenie nabycia jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo klient profesjonalny posiada niezbędne doświadczenie i wiedzę pozwalające na zrozumienie i dokonanie oceny ryzyka związanego z danymi jednostkami uczestnictwa oferowanymi w ramach działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
+
+### § 52.
+
+### 1.
+
+Towarzystwo pośrednicząc w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, stosując rozwiązania przewidziane w niniejszym oddziale, uwzględnia charakter jednostek uczestnictwa oraz grupy docelowej.
+
+### 2[15) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1303), które weszło w życie z dniem 22 lipca 2023 r.](#gloss-0:15:).
+
+Towarzystwo opracowuje, wdraża, stosuje oraz poddaje regularnym przeglądom rozwiązania i procedury zapewniające zgodność jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo z potrzebami, cechami i celami określonej grupy docelowej, a w przypadku gdy jednostki uczestnictwa uwzględniają czynniki zrównoważonego rozwoju - również z celami związanymi ze zrównoważonym rozwojem, a także odpowiedniość zamierzonej strategii dystrybucji dla określonej grupy docelowej.
+
+### 3.
+
+Towarzystwo opracowuje, wdraża, stosuje oraz poddaje przeglądowi rozwiązania i procedury służące zapewnieniu zgodności procesu pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo z wymogami dotyczącymi właściwego zarządzania konfliktami interesów, w tym stosowaną polityką wynagrodzeń, o której mowa w art. 47a ust. 1 ustawy, w szczególności towarzystwo zapewnia, aby jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w których zbywaniu i odkupywaniu pośredniczy, nie miały negatywnego wpływu na grupę docelową ani nie stanowiły zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
+
+### 4.
+
+Towarzystwo pośredniczące w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo dokonuje analizy możliwości wystąpienia ewentualnych konfliktów interesów, w szczególności ocenia, czy w wyniku nabycia lub odkupienia jednostek uczestnictwa mogą wystąpić negatywne skutki dla klienta należącego do grupy docelowej.
+
+### 5.
+
+Przed podjęciem decyzji o pośredniczeniu w zbywaniu jednostek uczestnictwa danego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, towarzystwo ocenia, czy dane jednostki uczestnictwa mogą stanowić zagrożenie dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
+
+### § 53.
+
+### 1.
+
+Towarzystwo określa grupę docelową w odniesieniu do jednostek uczestnictwa każdego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo na etapie ustalania celów biznesowych i strategii dystrybucji, przed rozpoczęciem prowadzenia działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa danego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego.
+
+### 2.
+
+Towarzystwo określa grupę docelową w odniesieniu do jednostek uczestnictwa każdego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, w zbywaniu i odkupywaniu jednostek uczestnictwa, którego pośredniczy.
+
+### 3.
+
+W ramach procesu, o którym mowa w ust. 2, towarzystwo określa także wszystkie grupy klientów, których potrzebom, cechom i celom dane jednostki uczestnictwa nie odpowiadają, ustalając w ten sposób negatywną grupę docelową.
+
+### 3a[16) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 15.](#gloss-0:16:).
+
+Towarzystwo, ustalając negatywną grupę docelową, nie bierze pod uwagę kryteriów obejmujących czynniki zrównoważonego rozwoju.
+
+### 3b[16) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 15.](#gloss-0:16:).
+
+W przypadku jednostek uczestnictwa uwzględniających czynniki zrównoważonego rozwoju towarzystwo uznaje, że odpowiadają one celom i potrzebom inwestycyjnym również tych klientów docelowych, których cele i potrzeby inwestycyjne nie są związane ze zrównoważonym rozwojem, pod warunkiem, że ich pozostałe cele i potrzeby inwestycyjne są spełnione przez te jednostki uczestnictwa.
+
+### 4.
+
+Towarzystwo przy określaniu grupy docelowej uwzględnia kryteria obejmujące co najmniej:
+
+### 1)
+
+rodzaj klientów, do których dane jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo są skierowane, z uwzględnieniem podziału klientów na klienta profesjonalnego i klienta detalicznego;
+
+### 2)
+
+wiedzę i doświadczenie w odniesieniu do inwestowania w jednostki uczestnictwa, właściwości tego instrumentu finansowego lub zagadnień związanych z jednostkami uczestnictwa, które powinni posiadać klienci docelowi, aby zrozumieć cechy i ryzyka związane z tym instrumentem finansowym;
+
+### 3)
+
+sytuację finansową klienta docelowego, w tym zdolność do ponoszenia strat, z uwzględnieniem określonej wartości procentowej wysokości straty, jaką klient ten jest w stanie ponieść;
+
+### 4)
+
+tolerancję ryzyka oraz zgodności wskaźnika zysku do ryzyka związanego z danymi jednostkami uczestnictwa oraz zakładanej stopy zwrotu z grupą docelową, z uwzględnieniem:
+
+### a)
+
+ustalenia i precyzyjnego opisania przez towarzystwo kategorii ryzyka związanego z jednostkami uczestnictwa,
+
+### b)
+
+określenia przez towarzystwo ogólnego podejścia klienta docelowego do ryzyka związanego z inwestycją w jednostki uczestnictwa, poprzez przypisanie klienta docelowego do kategorii ryzyka, o których mowa w lit. a,
+
+### c)
+
+zastosowania wskaźnika syntetycznego przewidzianego w rozporządzeniu Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej ([Dz. Urz. UE L 176 z 10.07.2010, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)) lub w przypadku gdy dany fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty zarządzany przez towarzystwo jest obowiązany do sporządzania dokumentu zawierającego kluczowe informacje zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1286/2014 z dnia 26 listopada 2014 r. w sprawie dokumentów zawierających kluczowe informacje, dotyczących detalicznych produktów zbiorowego inwestowania i ubezpieczeniowych produktów inwestycyjnych (PRIIP) ([Dz. Urz. UE L 352 z 09.12.2014, str. 1](https://api.sejm.gov.pl/eli/acts//text.html), z późn. zm.)[17) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55 oraz Dz. Urz. UE L 455 z 20.12.2021, str. 1.](#gloss-0:17:), ogólnego wskaźnika ryzyka przewidzianego w tym rozporządzeniu;
+
+### 5[18) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 15.](#gloss-0:18:))
+
+cele inwestycyjne, w tym cele związane z czynnikami zrównoważonego rozwoju, i potrzeby inwestycyjne klientów, które mają być zaspokojone przez dane jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, z uwzględnieniem ogólnej strategii inwestycyjnej klienta docelowego, obejmującej w szczególności horyzont czasowy inwestycji, przy czym cele i potrzeby klienta mogą zostać uszczegółowione poprzez określenie konkretnych aspektów inwestycji oraz oczekiwań klientów docelowych w odniesieniu do tych aspektów szczegółowych.
+
+### 5.
+
+Towarzystwo jest obowiązane do oceny znaczenia każdego z kryteriów i dostosowania szczegółowości określenia grupy docelowej odpowiednio do danych jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, uwzględniając zależności pomiędzy poszczególnymi kryteriami.
+
+### 6.
+
+Towarzystwo jest obowiązane do precyzyjnego zdefiniowania pojęć i terminologii zastosowanej przy określaniu grupy docelowej na podstawie kryteriów, o których mowa w ust. 4.
+
+### 7.
+
+Towarzystwo określa grupę docelową w sposób odpowiedni i proporcjonalny, z uwzględnieniem charakteru funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, w którego zbywaniu i odkupywaniu jednostek uczestnictwa pośredniczy uwzględniając także koszty ponoszone przez ten fundusz oraz strukturę opłat ponoszonych w związku z nabyciem lub odkupieniem jednostek uczestnictwa danego funduszu inwestycyjnego otwartego albo specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo.
+
+### 8.
+
+W przypadku nieskomplikowanych i łatwo dostępnych jednostek uczestnictwa towarzystwo może określić grupę docelową w sposób mniej szczegółowy, w szczególności:
+
+### 1)
+
+w przypadku niektórych rodzajów jednostek uczestnictwa wystarczająco porównywalnych pod kątem cech tych jednostek uczestnictwa możliwe jest określenie grupy docelowej na podstawie wspólnego podejścia dotyczącego jednego rodzaju jednostek uczestnictwa;
+
+### 2)
+
+opis jednego lub więcej kryteriów, o których mowa w ust. 4, może być dokonany w sposób ogólny.
+
+### 9.
+
+Przez nieskomplikowane jednostki uczestnictwa rozumie się jednostki uczestnictwa funduszy inwestycyjnych z wyłączeniem jednostek uczestnictwa oraz tytułów uczestnictwa funduszy, o których mowa w art. 36 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić w przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej.
+
+### 10.
+
+Towarzystwo określa grupę docelową na wystarczająco szczegółowym poziomie, aby uniknąć uwzględnienia w grupie docelowej jakichkolwiek klientów lub grup klientów, z których potrzebami, cechami i celami dane jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo nie są zgodne.
+
+### 11[19) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 15.](#gloss-0:19:).
+
+W procesie ustalania negatywnej grupy docelowej stosuje odpowiednio przepisy ust. 2 i 3b-10.
+
+### § 54.
+
+Przepisów § 51-53 nie stosuje się do jednostek uczestnictwa, w które inwestowane są środki finansowe gromadzone w pracowniczych planach kapitałowych, o których mowa w ustawie z dnia 4 października 2018 r. o pracowniczych planach kapitałowych ([Dz. U. z 2023 r. poz. 46](https://api.sejm.gov.pl/eli/acts/DU/2023/46/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1941](https://api.sejm.gov.pl/eli/acts/DU/2023/1941/text.html)) oraz w celu realizacji pracowniczych programów emerytalnych, o których mowa w ustawie z dnia 20 kwietnia 2004 r. o pracowniczych programach emerytalnych ([Dz. U. z 2023 r. poz. 710](https://api.sejm.gov.pl/eli/acts/DU/2023/710/text.html) i [1941](https://api.sejm.gov.pl/eli/acts/DU/2023/1941/text.html)).
+
+### § 55.
+
+Towarzystwo świadczące na rzecz klienta usługę zarządzania portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, jest zwolnione z wykonywania obowiązków, o których mowa w § 42, § 43 i § 51, wobec tego klienta w zakresie, w jakim obowiązki te zostały wykonane w związku ze świadczeniem tej usługi, jeżeli w ramach usługi zarządzania portfelem, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, do portfela klienta mogą być nabywane jednostki uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
+
+### § 56.
+
+### 1.
+
+Towarzystwo pośredniczące w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo jest obowiązane przeprowadzać analizę scenariuszową danych jednostek uczestnictwa, w ramach której ocenia związane z tym instrumentem finansowym ryzyko niskich wyników dla klientów oraz okoliczności, w jakich takie wyniki mogą wystąpić.
+
+### 2.
+
+Analiza, o której mowa w ust. 1, obejmuje opis negatywnych zjawisk rynkowych, ich wpływu na ryzyko niskich wyników dla klientów oraz przewidywanych działań w szczególności, gdyby:
+
+### 1)
+
+otoczenie rynkowe uległo pogorszeniu;
+
+### 2)
+
+fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty zarządzany przez towarzystwo zbywający i odkupujący dane jednostki uczestnictwa znalazł się w trudnej sytuacji finansowej lub gdyby pojawiło się inne ryzyko związane z tym funduszem;
+
+### 3)
+
+inwestycja w dane jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo okazała się nieopłacalna z ekonomicznego punktu widzenia;
+
+### 4)
+
+popyt na jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo był znacznie większy niż przewidywano;
+
+### 5)
+
+znacznie wzrosła skala składanych zleceń odkupienia jednostek uczestnictwa danego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo.
+
+### 3.
+
+Towarzystwo określa, czy dane jednostki uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo spełniają rozpoznane potrzeby, cechy i cele grupy docelowej, w szczególności poprzez zbadanie, czy:
+
+### 1)
+
+profil ryzyka i zysku tych jednostek uczestnictwa jest zgodny z grupą docelową oraz
+
+### 2)
+
+zamiar pośrednictwa w zbywaniu i odkupywaniu danych jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo jest zdeterminowany przez cechy tych jednostek uczestnictwa przynoszące korzyści grupie docelowej, a nie przez stosowany przez towarzystwo model biznesowy.
+
+### 4.
+
+Towarzystwo analizuje strukturę kosztów i opłat proponowaną w odniesieniu do danych jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, w szczególności poprzez zbadanie, czy struktura kosztów lub opłat związanych z jednostkami uczestnictwa jest odpowiednio przejrzysta w odniesieniu do grupy docelowej, w tym czy nie prowadzi do ukrycia kosztów lub opłat lub ich rzeczywistej wysokości lub czy nie jest zbyt skomplikowana.
+
+### 5.
+
+Towarzystwo jest obowiązane do określenia strategii dystrybucji w taki sposób, aby strategia dystrybucji zapewniała dotarcie danych jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo do grupy docelowej. Towarzystwo pośredniczące w zbywaniu i odkupywaniu jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo może określić w strategii dystrybucji preferowany sposób składania przez klientów zleceń nabycia lub odkupienia jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, z zastrzeżeniem § 48.
+
+### § 57.
+
+### 1.
+
+Towarzystwo pośredniczące w zbywaniu i odkupywaniu jednostek uczestnictwa funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo, do wykonywania tej działalności zatrudnia osoby posiadające fachową wiedzę niezbędną do zrozumienia właściwości i czynników ryzyka związanych z jednostkami uczestnictwa.
+
+### 2.
+
+Towarzystwo przeprowadza regularne, nie rzadziej niż raz w roku, przeglądy jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w których zbywaniu i odkupywaniu pośredniczy, z uwzględnieniem wszystkich zdarzeń, które mogłyby w znaczący sposób wpłynąć na potencjalne ryzyko dla określonej grupy docelowej. Towarzystwo w szczególności analizuje, czy jednostki uczestnictwa:
+
+### 1)
+
+pozostają spójne z potrzebami, cechami i celami grupy docelowej;
+
+### 2)
+
+są zbywane grupie docelowej;
+
+### 3)
+
+są zbywane w sposób, który nie jest zgodny z potrzebami, cechami i celami grupy docelowej;
+
+### 4)
+
+ze względu na cechy lub koszty lub opłaty z nimi związane nie mają negatywnego wpływu na grupę docelową ani nie stanowią zagrożenia dla prawidłowego funkcjonowania lub stabilności rynków finansowych.
+
+### 3.
+
+Towarzystwo przeprowadza przegląd jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo w każdym przypadku, gdy jest w posiadaniu informacji o jakimkolwiek zdarzeniu, które mogłoby w znaczący sposób wpłynąć na potencjalne ryzyko dla grupy docelowej.
+
+### 4.
+
+Towarzystwo ustanawia i wdraża procedurę, w której określa częstotliwość przeprowadzania przeglądów, o których mowa w ust. 2, uwzględniając w szczególności politykę inwestycyjną prowadzoną przez dany fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty zarządzany przez towarzystwo.
+
+### 5.
+
+W procedurze, o której mowa w ust. 4, towarzystwo określa kluczowe zdarzenia, które mogą wpłynąć na potencjalne ryzyko lub oczekiwaną rentowność jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w szczególności biorąc pod uwagę:
+
+### 1)
+
+przekroczenie określonego progu wartości aktywów funduszu, który wpłynie na rentowność jednostek uczestnictwa, lub
+
+### 2)
+
+wysokość aktywów płynnych mogącą wpłynąć na realizację zlecenia odkupienia jednostek uczestnictwa danego funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zarządzanego przez towarzystwo.
+
+### 6.
+
+W przypadku wystąpienia kluczowych zdarzeń, o których mowa w ust. 5, towarzystwo podejmuje działania zaradcze, które w szczególności mogą obejmować:
+
+### 1)
+
+przekazanie istotnych informacji dotyczących zdarzenia i jego konsekwencji dla jednostek uczestnictwa klientom;
+
+### 2)
+
+dokonanie zmian w procesie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo;
+
+### 3)
+
+dokonanie zmiany strategii dystrybucji.
+
+### § 58.
+
+### 1.
+
+Zarząd towarzystwa sprawuje kontrolę nad prawidłowym wypełnianiem przez towarzystwo obowiązków określonych w niniejszym oddziale, oraz zapewnia, aby sprawozdania dotyczące przestrzegania tych przepisów systematycznie składane zarządowi zawierały informacje na temat pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych lub specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo, w tym informacje dotyczące strategii dystrybucji.
+
+### 2.
+
+Rada nadzorcza towarzystwa monitoruje zmiany w procedurach dotyczących prowadzonej przez towarzystwo działalności pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych otwartych i specjalistycznych funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo i dokonuje okresowych przeglądów tych procedur w celu wykrycia ryzyka niewywiązania się przez towarzystwo z obowiązków określonych w niniejszym oddziale.
+
+### Rozdział 6 Ewidencja zawartych transakcji oraz ewidencja zleceń składanych przez uczestników funduszy inwestycyjnych otwartych
+
+### § 59.
+
+### 1.
+
+Towarzystwo prowadzi ewidencje transakcji zawartych przez fundusz inwestycyjny otwarty, transakcji zawartych na rachunek własny towarzystwa, transakcji dotyczących portfela, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych, lub transakcji dotyczących zbiorczego portfela papierów wartościowych.
+
+### 2.
+
+Wykaz danych:
+
+### 1)
+
+objętych ewidencją zawartych transakcji w przypadku transakcji, które mają za przedmiot instrumenty pochodne, określa załącznik nr 3 do rozporządzenia;
+
+### 2)
+
+objętych ewidencją zawartych transakcji, w przypadku transakcji innych niż transakcje, które mają za przedmiot instrumenty pochodne, określa załącznik nr 4 do rozporządzenia.
+
+### § 60.
+
+### 1.
+
+Ewidencje, o których mowa w § 59 ust. 1, są prowadzone w postaci elektronicznej albo papierowej.
+
+### 2.
+
+Ewidencjonowanie zawartych transakcji może być prowadzone za pomocą systemu teleinformatycznego służącego do zarządzania aktywami lub prowadzenia księgowości; w takim przypadku powinno umożliwiać uzyskanie informacji o zawartych transakcjach, w zakresie wskazanym w załącznikach nr 3 i 4 do rozporządzenia, oraz umożliwiać ich niezwłoczny odczyt i wydruk, a także wygenerowanie dokumentu elektronicznego zapisanego w jednym z następujących formatów:
+
+### 1)
+
+Rich Text Format (RTF);
+
+### 2)
+
+Adobe Portable Document Format (PDF), z wyłączeniem dokumentów elektronicznych szyfrowanych;
+
+### 3)
+
+Extensible Markup Language (XML).
+
+### 3.
+
+System teleinformatyczny wykorzystywany do prowadzenia ewidencji zawartych transakcji powinien uniemożliwiać usunięcie lub zmianę wprowadzonych zapisów elektronicznych oraz umożliwiać identyfikację osoby, która dokonała wpisu w ewidencji. Stwierdzone błędy powinny być poprawiane za pomocą zapisów korygujących, które nie zmieniają i nie usuwają zapisów wcześniejszych.
+
+### 4.
+
+Ewidencjonowanie zawartych transakcji w postaci papierowej powinno być prowadzone w sposób czytelny i trwały, umożliwiający identyfikację osoby, która dokonała wpisu w ewidencji. Stwierdzone błędy powinny być poprawiane z zachowaniem czytelności błędnego zapisu oraz umieszczeniem daty i czytelnego podpisu osoby dokonującej poprawki.
+
+### § 61.
+
+### 1.
+
+Towarzystwo dokonuje wpisów do ewidencji zawartych transakcji nie później niż następnego dnia roboczego po dniu, w którym otrzymało potwierdzenie zawarcia transakcji objętej ewidencjonowaniem.
+
+### 2.
+
+Ewidencja zawartych transakcji jest prowadzona odrębnie dla transakcji zawartych przez:
+
+### 1)
+
+fundusz inwestycyjny otwarty - z wyjątkiem funduszu z wydzielonymi subfunduszami;
+
+### 2)
+
+fundusz inwestycyjny otwarty z wydzielonymi subfunduszami na rzecz każdego z subfunduszy;
+
+### 3)
+
+towarzystwo na rachunek własny;
+
+### 4)
+
+towarzystwo na rachunek portfela, w skład którego wchodzi jeden lub większa liczba instrumentów finansowych;
+
+### 5)
+
+towarzystwo na rachunek zbiorczego portfela papierów wartościowych.
+
+### § 62.
+
+Jeżeli towarzystwo zleciło zarządzanie portfelem inwestycyjnym funduszu inwestycyjnego otwartego lub jego częścią podmiotowi, o którym mowa w art. 45a ust. 1 ustawy, ewidencja zawartych transakcji jest prowadzona przez towarzystwo lub przez ten podmiot. Prowadzenie ewidencji zawartych transakcji może być także powierzone przez towarzystwo podmiotowi prowadzącemu księgi rachunkowe funduszu inwestycyjnego otwartego; w takim przypadku ewidencja ta powinna być prowadzona zgodnie z § 60 oraz w sposób zapewniający niezwłoczny oraz umożliwiający skuteczną kontrolę i nadzór nad prowadzeniem ewidencji, stały dostęp towarzystwa do informacji, o których mowa w § 59 ust. 1.
+
+### § 63.
+
+### 1.
+
+Towarzystwo prowadzi ewidencje zleceń obejmujące zlecenia składane przez uczestników zarządzanych funduszy inwestycyjnych otwartych.
+
+### 2.
+
+W ewidencji zleceń są rejestrowane co najmniej następujące dane dotyczące zlecenia:
+
+### 1)
+
+nazwa funduszu inwestycyjnego otwartego;
+
+### 2)
+
+nazwa podmiotu składającego zlecenie lub przekazującego je do realizacji;
+
+### 3)
+
+nazwa podmiotu otrzymującego zlecenie - funduszu inwestycyjnego otwartego albo podmiotu prowadzącego rejestr uczestników funduszu inwestycyjnego otwartego otrzymującego zlecenie;
+
+### 4)
+
+data i godzina otrzymania zlecenia przez podmiot, o którym mowa w pkt 3;
+
+### 5)
+
+warunki i sposób płatności;
+
+### 6)
+
+rodzaj zlecenia;
+
+### 7)
+
+data zbycia lub odkupienia jednostek uczestnictwa;
+
+### 8)
+
+wartość nabytych albo odkupionych jednostek uczestnictwa w związku ze złożonym zleceniem;
+
+### 9)
+
+liczba nabytych albo odkupionych jednostek uczestnictwa;
+
+### 10)
+
+cena nabycia albo odkupienia jednostki uczestnictwa;
+
+### 11)
+
+kwota wpłacona przez uczestnika w związku ze złożeniem zlecenia nabycia jednostek uczestnictwa albo kwota wypłacona uczestnikowi w związku ze złożeniem zlecenia ich odkupu.
+
+### 3.
+
+W ewidencji zleceń są rejestrowane także informacje o zleceniach nieprawidłowych lub odrzuconych, o ile dostępne dane umożliwiają taką rejestrację.
+
+### § 64.
+
+### 1.
+
+Ewidencja zleceń jest prowadzona w postaci elektronicznej albo papierowej.
+
+### 2.
+
+Ewidencjonowanie złożonych zleceń może być prowadzone za pomocą systemu teleinformatycznego służącego do prowadzenia rejestru uczestników funduszu inwestycyjnego otwartego; w takim przypadku powinno umożliwiać uzyskanie informacji o złożonych zleceniach oraz umożliwiać ich niezwłoczny odczyt i wydruk.
+
+### 3.
+
+Do ewidencji zleceń stosuje się odpowiednio § 60 ust. 3 i 4.
+
+### § 65.
+
+Towarzystwo dokonuje wpisów do ewidencji zleceń nie później niż następnego dnia roboczego po dniu, w którym otrzymało takie zlecenie.
+
+### § 66.
+
+Prowadzenie ewidencji zleceń może być powierzone podmiotowi prowadzącemu rejestr uczestników funduszu inwestycyjnego otwartego. W przypadku powierzenia prowadzenia ewidencji zleceń, ewidencja ta powinna być prowadzona zgodnie z § 63-65 oraz w sposób zapewniający niezwłoczny oraz umożliwiający skuteczną kontrolę i nadzór nad prowadzeniem ewidencji, stały dostęp towarzystwa do informacji, o których mowa w § 63 ust. 2 i 3.
+
+### Rozdział 7 Dokumentowanie źródeł będących podstawą decyzji inwestycyjnych oraz przechowywanie i archiwizowanie dokumentów i innych nośników informacji związanych z działalnością funduszy inwestycyjnych i towarzystwa
+
+### § 67.
+
+### 1.
+
+Towarzystwo dokumentuje źródła będące podstawą decyzji inwestycyjnych dotyczących funduszy, zbiorczego portfela papierów wartościowych, towarzystwa oraz portfeli klientów, dla których świadczy usługę zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, w szczególności przez:
+
+### 1)
+
+określenie dokumentu strategii inwestycyjnej, o ile transakcja została zawarta w ramach tej strategii, lub
+
+### 2)
+
+przechowywanie decyzji jednostek organizacyjnych towarzystwa, które biorą udział w procesie podejmowania decyzji inwestycyjnych, oraz innych dokumentów służących podjęciu takich decyzji, w szczególności analiz, danych o ratingach, raportów, w tym sporządzonych przez towarzystwo lub na jego zlecenie.
+
+### 2.
+
+Dokumenty, o których mowa w ust. 1 pkt 2, powinny być wystarczające do udokumentowania i uzasadnienia decyzji inwestycyjnych podjętych przez towarzystwo.
+
+### 3.
+
+W przypadku transakcji, które nie zostały zawarte w ramach przyjętej strategii inwestycyjnej funduszu, strategii inwestycyjnej zbiorczego portfela lub strategii inwestycyjnej portfela, dokumentowanie źródeł będących podstawą decyzji inwestycyjnej następuje w sposób wskazany w ust. 1 pkt 2.
+
+### 4.
+
+Dokument strategii inwestycyjnej i jego zmiany są zatwierdzane przez upoważnioną jednostkę organizacyjną towarzystwa, w sposób zgodny z procedurami wewnętrznymi, z wyłączeniem przypadku gdy dokument strategii inwestycyjnej został sporządzony na potrzeby świadczenia przez towarzystwo usługi zarządzania portfelami, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, a dokument ten oraz jego zmiany są zatwierdzane przez klienta, na rzecz którego towarzystwo świadczy tę usługę.
+
+### § 68.
+
+Jeżeli towarzystwo zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią podmiotowi, o którym mowa w art. 45a ust. 1 ustawy, dokumentowanie źródeł będących podstawą decyzji inwestycyjnych prowadzone jest przez towarzystwo lub ten podmiot w sposób zapewniający stały dostęp towarzystwa do informacji, o których mowa w § 67 ust. 1.
+
+### § 69.
+
+### 1.
+
+Dokumenty powinny być przechowywane na takim nośniku informacji, na jakim zostały sporządzone lub otrzymane przez towarzystwo, z tym że dokumenty sporządzone lub otrzymane za pomocą informatycznych nośników danych powinny być przechowywane na informatycznych nośnikach danych umożliwiających odczytanie treści informacji zawartych w tych dokumentach przez cały okres ich przechowywania.
+
+### 2.
+
+W przypadku gdy dokumenty stanowiące źródła będące podstawą jakiejkolwiek decyzji inwestycyjnej oraz pozostała dokumentacja związana z podejmowaniem decyzji inwestycyjnych są przetwarzane w strumieniach informacyjnych poczty elektronicznej, archiwizowaniu i przechowywaniu podlegają kompletne pliki magazynów poczty elektronicznej zawierające przedmiotową korespondencję.
+
+### 3.
+
+Dokumenty oraz inne nośniki informacji zawierające dane, które towarzystwo ma obowiązek przechowywać i archiwizować, powinny być przechowywane w sposób zapewniający bezpieczeństwo informacji, uniemożliwiający dostęp do nich przez osoby nieupoważnione oraz umożliwiający kontrolę dostępu, zapewniającą możliwość śledzenia zmian i przetwarzania danych.
+
+### § 69a[20) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:20:).
+
+Towarzystwo przechowuje i archiwizuje dokumenty i inne nośniki informacji związane z działalnością towarzystwa, w tym dokumenty regulaminów i procedur, w uporządkowany sposób zapewniający ich łatwe odszukiwanie.
+
+### § 70.
+
+### 1.
+
+Sposób prowadzenia archiwum powinien zapewniać bezpieczeństwo przechowywania w nim dokumentów i innych nośników informacji.
+
+### 2.
+
+Towarzystwo zapewnia należyte zabezpieczenie pomieszczeń, w których jest prowadzone archiwum, prowadzi ewidencję korzystania z archiwum oraz wyznacza osobę odpowiedzialną za prowadzenie archiwum.
+
+### § 71.
+
+Towarzystwo zapewnia osobom upoważnionym niezwłoczny wgląd do dokumentów oraz danych, o których mowa w § 69 ust. 3.
+
+### Rozdział 8 Warunki techniczne i organizacyjne prowadzenia działalności
+
+### § 72.
+
+### 1.
+
+Towarzystwo umożliwia klientom oraz uczestnikom funduszy bezpłatne składanie reklamacji w związku z działalnością prowadzoną przez towarzystwo, fundusz lub podmiot działający na rzecz funduszu.
+
+### 2.
+
+Towarzystwo opracowuje i wdraża procedurę określającą sposób i termin załatwiania reklamacji składanych przez klientów oraz uczestników funduszy. Procedura ta jest udostępniana klientowi oraz uczestnikowi funduszu bezpłatnie na jego żądanie.
+
+### § 73.
+
+### 1.
+
+Towarzystwo prowadzi rejestr otrzymanych reklamacji zawierający informacje o reklamacjach w związku z działalnością prowadzoną przez towarzystwo, fundusz lub podmiot działający na rzecz funduszu złożonych w danym roku kalendarzowym oraz o sposobie i terminie ich załatwienia.
+
+### 2.
+
+W rejestrze reklamacji umieszcza się następujące dane:
+
+### 1)
+
+imię i nazwisko lub firmę (nazwę) składającego reklamację;
+
+### 2)
+
+datę złożenia reklamacji;
+
+### 3)
+
+przedmiot reklamacji;
+
+### 4)
+
+środki podjęte w celu załatwienia reklamacji;
+
+### 5)
+
+termin załatwienia reklamacji;
+
+### 6)
+
+opis ostatecznego rozstrzygnięcia.
+
+### § 74.
+
+### 1.
+
+Pomieszczenia, w których towarzystwo prowadzi działalność, powinny być zabezpieczone przed niekontrolowanym dostępem osób nieuprawnionych.
+
+### 2.
+
+Pomieszczenia, w których jest prowadzona obsługa klientów i uczestników funduszu, powinny być wydzielone w sposób uniemożliwiający osobom nieuprawnionym niekontrolowany dostęp do pozostałych pomieszczeń towarzystwa.
+
+### 3.
+
+Sposób organizacji towarzystwa powinien gwarantować bezpieczeństwo obsługi klientów i uczestników funduszy oraz przechowywanych dokumentów i danych.
+
+### § 75.
+
+### 1.
+
+W towarzystwie funkcjonuje sformalizowany system zarządzania bezpieczeństwem środowiska teleinformatycznego, zapewniający adekwatny do poziomu ryzyka poziom bezpieczeństwa informacji.
+
+### 2.
+
+Towarzystwo wprowadza zabezpieczenia urządzeń uniemożliwiające nieuprawniony dostęp do systemów teleinformatycznych i przetwarzania danych.
+
+### 3.
+
+Systemy teleinformatyczne towarzystwa powinny być zabezpieczone przed nieuprawnionym dostępem do danych przetwarzanych przez te systemy.
+
+### 4.
+
+Towarzystwo opracowuje i wdraża wewnętrzne procedury dostępu do jego systemów teleinformatycznych oraz posiada odpowiednie zasady oraz mechanizmy techniczne zapewniające właściwy poziom kontroli dostępu logicznego do danych i informacji oraz dostępu fizycznego do kluczowych elementów infrastruktury teleinformatycznej, umożliwiające jego odtworzenie wraz z historią modyfikacji i przetwarzania danych.
+
+### 5.
+
+Urządzenia i systemy teleinformatyczne towarzystwa powinny być zabezpieczone przed utratą danych spowodowaną awarią, zakłóceniami lub zdarzeniami losowymi. W celu zapewnienia ciągłości obsługi i pracy systemów informatycznych towarzystwo, co najmniej raz dziennie, tworzy kopię bazy danych lub stosuje inne środki techniczne umożliwiające odtworzenie danych oraz podjęcie pracy systemów teleinformatycznych w przypadku awarii lub utraty części lub całości danych w podstawowych bazach danych. Kopie bazy danych przechowywane są w innej lokalizacji niż podstawowe centrum przetwarzania danych.
+
+### § 76.
+
+### 1.
+
+Miejsca, w których jest prowadzona działalność, powinny posiadać urządzenia telekomunikacyjne umożliwiające stały i bezpośredni kontakt z centralą towarzystwa, a także zapewniające sprawną obsługę klientów i uczestników funduszy.
+
+### 2.
+
+Pomieszczenie, w którym jest prowadzona działalność, powinno posiadać wyodrębnione miejsce umożliwiające klientom złożenie zlecenia z zachowaniem poufności.
+
+### § 76a[21) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:21:).
+
+### 1.
+
+Towarzystwo zapewnia, aby osoby wykonujące czynności z zakresu działalności towarzystwa potwierdzały zapoznanie się z przyjętymi przez towarzystwo procedurami, do których przestrzegania osoby te są obowiązane.
+
+### 2.
+
+Towarzystwo opracowuje i wdraża system sprawozdawczości wewnętrznej oraz przepływu informacji w towarzystwie oraz z podmiotami, o których mowa w art. 45a ust. 1 ustawy.
+
+### 3.
+
+Towarzystwo wypełnia wymagania organizacyjne, o których mowa w ust. 1 i 2, § 69a oraz art. 48 ust. 2b pkt 3 ustawy, z uwzględnieniem ryzyka dla zrównoważonego rozwoju, biorąc pod uwagę charakter, skalę i stopień złożoności prowadzonej przez siebie działalności, a także charakter i zakres usług oraz działań wykonywanych w jej ramach.
+
+### § 77.
+
+### 1.
+
+Towarzystwo ustanawia odpowiednie procedury regulujące funkcjonowanie procesów zarządzania ciągłością działania towarzystwa, uwzględniające szczególne uwarunkowania związane ze specyfiką jego działalności oraz środowiskiem teleinformatycznym i przetwarzanymi w nim danymi.
+
+### 2.
+
+Towarzystwo identyfikuje w obrębie jego działalności procesy, które warunkują możliwość prowadzenia działalności przez towarzystwo (procesy kluczowe), oraz procesy, w przypadku których szybkie odzyskanie sprawności działania może mieć istotne znaczenie z punktu widzenia ciągłości działania towarzystwa (procesy krytyczne).
+
+### 3.
+
+Towarzystwo identyfikując procesy uwzględnia w ramach tych procesów także czynności związane z działalnością prowadzoną przez towarzystwo powierzone do wykonywania podmiotom, o których mowa w art. 45a ust. 1 ustawy.
+
+### 4.
+
+Towarzystwo wyznacza właściciela procesu dla każdego procesu oraz opracowuje dokumentację procesów kluczowych i krytycznych.
+
+### 5.
+
+Towarzystwo powinno posiadać system regularnego monitorowania procesów, umożliwiający ich skuteczną kontrolę i stały dostęp do informacji przetwarzanych w ramach tych procesów oraz zapewniający bieżący nadzór nad czynnościami wykonywanymi w ich ramach, w tym także nad czynnościami, których wykonanie zostało powierzone podmiotom, o których mowa w art. 45a ust. 1 ustawy.
+
+### 6.
+
+W ramach systemu regularnego monitorowania procesów, o którym mowa w ust. 5, towarzystwo zapewnia, aby sposób realizacji procesów umożliwiał jednoznaczną identyfikację podmiotów, o których mowa w art. 45a ust. 1 ustawy, oraz pracowników towarzystwa i pracowników podmiotów, o których mowa w art. 45a ust. 1 ustawy, którzy wykonali poszczególne czynności w ramach procesów kluczowych i krytycznych oraz określenie czasu wykonania tych czynności.
+
+### 7.
+
+Za prawidłowy przebieg procesu odpowiada właściciel procesu, w szczególności sprawuje on bieżący nadzór nad czynnościami wykonywanymi w ramach danego procesu.
+
+### 8.
+
+W odniesieniu do procesów kluczowych i krytycznych towarzystwo powinno posiadać opracowane i wprowadzone:
+
+### 1)
+
+plany utrzymania ciągłości działania zapewniające ciągłe i niezakłócone działanie towarzystwa oraz świadczenie usług na rzecz klientów,
+
+### 2)
+
+plany awaryjne służące zapewnieniu możliwości prowadzenia bieżącej działalności towarzystwa i świadczenia usług oraz ograniczeniu strat w przypadku wystąpienia niekorzystnych zdarzeń wewnętrznych i zewnętrznych mogących poważnie zakłócić tę działalność
+
+- zapewniające nieprzerwane, należyte działanie towarzystwa w obrębie procesów kluczowych i procesów krytycznych.
+
+### 9.
+
+W przypadku procesów kluczowych i krytycznych, w ramach których wykonywane są czynności, których wykonywanie zostało powierzone podmiotom, o których mowa w art. 45a ust. 1 ustawy, towarzystwo jest obowiązane do weryfikacji jakości i skuteczności planów ciągłości działania i planów awaryjnych tych podmiotów, w szczególności czy zapewniają one ciągłe i niezakłócone prowadzenie działalności w zakresie dotyczącym wykonywania czynności powierzonych przez towarzystwo.
+
+### 10.
+
+W przypadku, o którym mowa w ust. 9, jeżeli jest to istotne dla prawidłowego wykonywania przez towarzystwo obowiązków określonych przepisami prawa lub ciągłości i stabilności prowadzenia przez towarzystwo działalności, plany utrzymania ciągłości działania i plany awaryjne towarzystwa, o których mowa w ust. 8, powinny przewidywać możliwość niezwłocznego wykonywania przez towarzystwo czynności powierzonych podmiotom, o których mowa w art. 45a ust. 1 ustawy, lub powierzenia wykonywania tych czynności innym podmiotom, o których mowa w art. 45a ust. 1 ustawy, na wypadek zaprzestania wykonywania czynności wykonywanych w ramach procesów kluczowych lub krytycznych przez podmioty, którym wykonywanie tych czynności zostało powierzone.
+
+### 11.
+
+Do procesów obejmujących wyłącznie czynności, o których mowa w art. 45a ust. 8 ustawy, niemających istotnego znaczenia dla prawidłowego wykonywania przez towarzystwo obowiązków określonych przepisami prawa, sytuacji finansowej towarzystwa, ciągłości lub stabilności prowadzenia przez towarzystwo działalności oraz niebędących procesami kluczowymi albo krytycznymi, nie stosuje się przepisów ust. 3-7.
+
+### Rozdział 9 Szczegółowe kryteria w zakresie spełniania wymogów posiadania odpowiedniej wiedzy i kompetencji lub wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania odpowiednich wymogów oraz ich utrzymywania i doskonalenia
+
+### Oddział 1 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów posiadania odpowiedniej wiedzy i kompetencji
+
+### § 78[22) Ze zmianą wprowadzoną przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:22:).
+
+Towarzystwo jest obowiązane zapewnić, aby pracownicy upoważnieni przez towarzystwo do wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, posiadali adekwatny do zakresu i charakteru wykonywanych czynności poziom wiedzy i kompetencji, pozwalający na przestrzeganie właściwych wymogów prawnych, zaleceń właściwego organu nadzoru, standardów etycznych, uwzględnianie ryzyka dla zrównoważonego rozwoju w czynnościach, które mają wykonywać, oraz działanie zgodne z zasadami uczciwego obrotu oraz w najlepiej pojętym interesie klienta.
+
+### § 79.
+
+### 1.
+
+Towarzystwo upoważnia pracownika do wykonywania czynności, o których mowa w art. 45 ust. 4a pkt 1 ustawy, jeżeli posiada on, w zależności od rodzaju powierzonych obowiązków, odpowiednią wiedzę i kompetencje w zakresie:
+
+### 1)
+
+głównych cech, ryzyka i specyfiki instrumentów finansowych będących przedmiotem usług świadczonych przez towarzystwo, adekwatnie do stopnia ich skomplikowania;
+
+### 2)
+
+kosztów i opłat, w tym należności publicznoprawnych, jakie klient może ponieść w związku z nabyciem lub zbyciem albo zawarciem lub rozwiązaniem umowy dotyczącej instrumentu finansowego bądź też z wykonywaniem na jego rzecz danej usługi;
+
+### 3)
+
+cech charakterystycznych oraz zasad świadczenia poszczególnych usług przez towarzystwo;
+
+### 4)
+
+funkcjonowania rynku finansowego oraz wpływu wydarzeń zachodzących na tym rynku na wartość lub wycenę instrumentu finansowego, będącego przedmiotem informacji udzielanej klientowi lub potencjalnemu klientowi;
+
+### 5)
+
+wpływu danych o gospodarce światowej, regionalnej lub narodowej na rynek finansowy lub wartość lub wycenę instrumentu finansowego, będącego przedmiotem informacji udzielanej klientowi lub potencjalnemu klientowi;
+
+### 6)
+
+różnic pomiędzy wynikami osiąganymi w przeszłości, w związku z inwestowaniem w dany instrument finansowy lub w związku z określonym indeksem lub ze świadczeniem określonej usługi, a prognozami przyszłych wyników, w tym ograniczeń wynikających z prognozowania wyników;
+
+### 7)
+
+problematyki zasad ochrony informacji poufnych i manipulacji na rynku (nadużyć na rynku) oraz przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu;
+
+### 8)
+
+oceny istotnych danych związanych z instrumentem finansowym, zawartych w prospekcie emisyjnym, memorandum informacyjnym, sprawozdaniu finansowym, dokumencie zawierającym kluczowe informacje dla inwestorów lub innym dokumencie o podobnym charakterze;
+
+### 9)
+
+specyfiki funkcjonowania rynków, na których jest prowadzony obrót instrumentem finansowym, w tym odpowiednich systemów obrotu instrumentami finansowymi;
+
+### 10)
+
+podstawowej znajomości zasad wyceny instrumentów finansowych będących przedmiotem usług;
+
+### 11[23) Dodany przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:23:))
+
+uwzględniania ryzyka dla zrównoważonego rozwoju w czynnościach, które mają wykonywać.
+
+### 2.
+
+Towarzystwo upoważnia pracownika do wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 ustawy, jeżeli posiada on odpowiednią wiedzę i kompetencje w zakresie:
+
+### 1[24) Ze zmianą wprowadzoną przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:24:))
+
+elementów wskazanych w ust. 1 pkt 1, 2 i 4-11;
+
+### 2)
+
+dokonywania oceny odpowiedniości instrumentów finansowych będących przedmiotem usługi, o której mowa w art. 45 ust. 2 pkt 2 ustawy, świadczonej przez towarzystwo na podstawie adekwatnych, wiarygodnych i aktualnych informacji na temat wiedzy, doświadczenia, sytuacji finansowej oraz celów inwestycyjnych klienta;
+
+### 3)
+
+możliwości dokonywania zmiany w ocenie odpowiedniości danego instrumentu finansowego dla klienta, jaka mogłaby ewentualnie zaistnieć od momentu zgromadzenia odpowiednich informacji o kliencie;
+
+### 4)
+
+podstawowych zasad zarządzania portfelem instrumentów finansowych, w tym zasad dywersyfikacji portfela z uwzględnieniem alternatywnych wariantów inwestowania.
+
+### § 80.
+
+Za osobę posiadającą odpowiednią wiedzę i kompetencje w zakresie, o którym mowa w art. 45 ust. 4a pkt 1 ustawy, uznaje się:
+
+### 1)
+
+osobę, o której mowa w art. 45 ust. 4b ustawy;
+
+### 2)
+
+osobę, która posiada odpowiedni tytuł naukowy lub zawodowy, zgodnie z wykazem określonym w rozporządzeniu ministra właściwego do spraw instytucji finansowych wydanego na podstawie art. 94 ust. 3 ustawy o obrocie instrumentami finansowymi, w zakresie określonym przez to rozporządzenie.
+
+### Oddział 2 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4a ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy i kompetencji oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa w art. 45 ust. 4b ustawy
+
+### § 81.
+
+### 1.
+
+Towarzystwo jest obowiązane uzyskać od osoby, która ma wykonywać czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, niezbędne dokumenty i informacje w celu ustalenia posiadanego przez tę osobę poziomu wiedzy i kompetencji.
+
+### 2.
+
+W przypadku nieotrzymania dokumentów i informacji, o których mowa w ust. 1, towarzystwo nie dopuszcza osoby do samodzielnego wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy.
+
+### § 82.
+
+### 1.
+
+W przypadku nieposiadania odpowiedniej wiedzy i kompetencji przez osobę, która ma wykonywać czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, osoba może wykonywać te czynności wyłącznie pod nadzorem upoważnionego pracownika, o którym mowa w § 78.
+
+### 2.
+
+Pracownik, o którym mowa w ust. 1, powinien posiadać odpowiednie zasoby czasowe, aby móc efektywnie sprawować powierzony mu nadzór.
+
+### 3.
+
+Zakres nadzoru wykonywanego przez pracownika, o którym mowa w ust. 1, powinien być dostosowany do zakresu i charakteru czynności, które ma wykonywać osoba, o której mowa w ust. 1, oraz posiadanych przez nią wiedzy i kompetencji.
+
+### 4.
+
+Pracownik, o którym mowa w ust. 1, nadzorujący osobę, o której mowa w ust. 1, ponosi odpowiedzialność za wykonanie przez tę osobę czynności objętych nadzorem w sposób prawidłowy, w tym zgodny z przepisami prawa i regulacjami wewnętrznymi towarzystwa.
+
+### 5.
+
+W przypadku gdy osoba, o której mowa w ust. 1, pozostająca pod nadzorem sporządza raport odpowiedniości, o którym mowa w art. 83g ust. 3 ustawy o obrocie instrumentami finansowymi, pracownik, o którym mowa w ust. 1, nadzorujący tę osobę podpisuje ten raport.
+
+### 6.
+
+Osoba, o której mowa w ust. 1, nie może wykonywać czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, pod nadzorem przez łączny okres dłuższy niż 4 lata.
+
+### § 83.
+
+### 1.
+
+W przypadku gdy osoba wykonująca czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, nie posiada odpowiedniej wiedzy bądź kompetencji, w celu ich uzyskania towarzystwo kieruje tę osobę na szkolenie organizowane:
+
+### 1)
+
+w ramach struktury towarzystwa (szkolenie wewnętrzne) lub
+
+### 2)
+
+przez właściwy podmiot inny niż towarzystwo (szkolenie zewnętrzne).
+
+### 2.
+
+Ukończenie szkolenia, o którym mowa w ust. 1, powinno zostać potwierdzone dokumentem potwierdzającym pozytywną weryfikację wiedzy bądź kompetencji z zakresu objętego szkoleniem (certyfikat). Na podstawie takiego certyfikatu towarzystwo uznaje, że pracownik posiada odpowiednią wiedzę bądź kompetencje do wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się, w przypadku gdy osoba, o której mowa w ust. 1:
+
+### 1)
+
+odbędzie szkolenie we własnym zakresie oraz
+
+### 2)
+
+uzyska certyfikat, o którym mowa w ust. 2.
+
+### 4.
+
+W przypadku gdy osoba, która ma wykonywać czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, nie posiada odpowiedniego doświadczenia:
+
+### 1)
+
+w zakresie wykonywania czynności, o których mowa w art. 45 ust. 4a pkt 1 ustawy, dotyczących obligacji skarbowych oraz instrumentów finansowych wskazanych w art. 83h ust. 6 ustawy o obrocie instrumentami finansowymi, osoba ta w celu osiągnięcia odpowiedniego poziomu doświadczenia wykonuje czynności pod nadzorem przez okres co najmniej 6 miesięcy;
+
+### 2)
+
+w zakresie wykonywania czynności, o których mowa w art. 45 ust. 4a pkt 1 ustawy, dotyczących instrumentów finansowych innych niż wskazane w pkt 1, osoba ta w celu osiągnięcia odpowiedniego poziomu doświadczenia wykonuje czynności pod nadzorem przez okres co najmniej 12 miesięcy;
+
+### 3)
+
+w zakresie wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 ustawy, dotyczących obligacji skarbowych oraz instrumentów finansowych wskazanych w art. 83h ust. 6 ustawy o obrocie instrumentami finansowymi, osoba ta w celu osiągnięcia odpowiedniego poziomu doświadczenia wykonuje czynności pod nadzorem przez okres co najmniej 18 miesięcy;
+
+### 4)
+
+w zakresie wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 ustawy, dotyczących instrumentów finansowych innych niż wskazane w pkt 3, osoba ta w celu osiągnięcia odpowiedniego poziomu doświadczenia wykonuje czynności pod nadzorem przez okres co najmniej 24 miesięcy.
+
+### 5.
+
+Okresy wykonywania czynności pod nadzorem w różnych towarzystwach świadczących usługi lub firmach inwestycyjnych łączą się, o ile przerwa pomiędzy tymi okresami nie jest dłuższa niż 6 miesięcy.
+
+### § 84.
+
+### 1.
+
+Towarzystwo jest obowiązane w sposób pisemny określić zakres obowiązków i uprawnień pracowników, o których mowa w § 78, oraz osób wykonujących czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, pod ich nadzorem.
+
+### 2.
+
+Towarzystwo jest obowiązane zapewnić wyodrębnienie organizacyjne pracowników, o których mowa w § 79 ust. 1, oraz osób wykonujących czynności, o których mowa w art. 45 ust. 4a pkt 1 ustawy, od pracowników, o których mowa w § 79 ust. 2, oraz osób wykonujących czynności, o których mowa w art. 45 ust. 2 pkt 2 ustawy.
+
+### § 85.
+
+### 1.
+
+Towarzystwo jest obowiązane zapewnić, aby pracownicy, o których mowa w § 78 po rozpoczęciu wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy, znali i stosowali przez cały okres wykonywania tych czynności odpowiednie regulacje prawne oraz wewnętrzne regulacje tego towarzystwa związane z wykonywanymi czynnościami.
+
+### 2.
+
+W celu realizacji wymogu, o którym mowa w ust. 1, towarzystwo jest obowiązane zapewnić w szczególności:
+
+### 1)
+
+regularny udział pracowników, o których mowa w § 78, w doskonaleniu zawodowym lub szkoleniach w zakresie zasad i trybu wykonywania usług wynikających z przepisów ustawy, ustawy o obrocie instrumentami finansowymi lub innych ustaw mających zastosowanie do działalności towarzystwa, przepisów wydanych na ich podstawie, a także przepisów rozporządzenia 596/2014, rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 173 z 12.06.2014, str. 84, z późn. zm.[25) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 131 z 05.05.2022, str. 11, Dz. Urz. UE L 151 z 02.06.2022, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 17.](#gloss-0:25:)) lub innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do działalności towarzystwa;
+
+### 2)
+
+regularny udział pracowników, o których mowa w § 78, w szkoleniach dotyczących cech i charakterystyki instrumentów finansowych będących przedmiotem usług świadczonych przez towarzystwo;
+
+### 3)
+
+regularną ocenę wiedzy i kompetencji posiadanych przez pracowników, o których mowa w § 78, w tym również przez monitorowanie sposobu wykonywania czynności, o których mowa w art. 45 ust. 2 pkt 2 lub ust. 4a pkt 1 ustawy.
+
+### § 86.
+
+Towarzystwo w zależności od potrzeb, nie rzadziej niż raz w roku, jest obowiązane przeprowadzać przegląd wiedzy i kompetencji posiadanych przez pracowników, o których mowa w § 78, uwzględniając ich rozwój i zdobyte doświadczenie oraz wprowadzone zmiany w przepisach prawa mających zastosowanie do wykonywanych przez nich czynności, a w przypadku zaistnienia takiej potrzeby, podejmować działania niezbędne do przestrzegania przez tych pracowników wprowadzonych zmian w przepisach prawa bądź uzupełnienia braków wiedzy i kompetencji.
+
+### § 87.
+
+### 1.
+
+Towarzystwo jest obowiązane ustanowić i wdrożyć politykę w zakresie:
+
+### 1)
+
+przeprowadzania szkoleń i potwierdzania wiedzy i kompetencji;
+
+### 2)
+
+zasad i kryteriów wyboru podmiotu, o którym mowa w § 83 ust. 1 pkt 2.
+
+### 2.
+
+Polityka, o której mowa w ust. 1, zawiera co najmniej:
+
+### 1)
+
+określenie środków finansowych oraz zasobów kadrowych przeznaczonych na potrzeby dokonywania weryfikacji wiedzy;
+
+### 2)
+
+procedurę i sposoby identyfikacji potrzeb szkoleniowych pracowników będące podstawą kierowania ich na szkolenie, o którym mowa w § 83 ust. 1.
+
+### 3.
+
+Zakres i procedura przeprowadzania szkolenia, o którym mowa w § 83 ust. 1, oraz potwierdzania wiedzy pracowników powinny obejmować co najmniej obszary wskazane odpowiednio w § 79 ust. 1 lub 2. Forma, czas przeznaczony na szkolenie oraz sposób jego przeprowadzenia powinny być dostosowane do zakresu objętego szkoleniem.
+
+### 4.
+
+Potwierdzanie wiedzy pracowników powinno odbywać się w sposób obiektywny, gwarantujący sprawdzenie wiedzy z obszarów wskazanych odpowiednio w § 79 ust. 1 lub 2, przy zachowaniu poufności pytań i anonimowości osób, których wiedza podlega weryfikacji.
+
+### 5.
+
+Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez zarząd towarzystwa.
+
+### 6.
+
+Towarzystwo jest obowiązane podejmować działania mające na celu utrzymanie oraz doskonalenie przez pracowników, o których mowa w § 78, posiadanej wiedzy i kompetencji, w szczególności przez ich uczestnictwo w regularnym doskonaleniu zawodowym lub szkoleniach, a także w szkoleniach wymaganych przed rozpoczęciem świadczenia przez towarzystwo nowych usług lub nowych instrumentów finansowych będących ich przedmiotem.
+
+### 7.
+
+Towarzystwo jest obowiązane podejmować działania, o których mowa w ust. 6, niezależnie od działań, które byłyby podejmowane w następstwie przeglądu, o którym mowa w § 86.
+
+### Oddział 3 Szczegółowe kryteria w zakresie spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów posiadania odpowiedniej wiedzy, kompetencji i doświadczenia
+
+### § 88[26) Ze zmianą wprowadzoną przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:26:).
+
+Towarzystwo jest obowiązane zapewnić, aby osoby, o których mowa w art. 45 ust. 4d ustawy, posiadały adekwatny do zakresu i charakteru wykonywanych czynności poziom wiedzy i kompetencji oraz doświadczenia pozwalający na przestrzeganie właściwych wymogów prawnych, zaleceń właściwego organu nadzoru, standardów etycznych, uwzględnianie ryzyka dla zrównoważonego rozwoju w czynnościach, które mają wykonywać, oraz działanie zgodne z zasadami uczciwego obrotu oraz w najlepiej pojętym interesie klienta.
+
+### § 89.
+
+### 1.
+
+Towarzystwo dopuszcza osobę, o której mowa w art. 45 ust. 4d ustawy, do samodzielnego świadczenia na jego rzecz pracy wymaganej do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2 oraz ust. 3 pkt 1a ustawy, jeżeli posiada ona odpowiednią wiedzę, kompetencje i doświadczenie w zakresie:
+
+### 1[27) Ze zmianą wprowadzoną przez § 1 pkt 15 lit. a rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:27:))
+
+elementów wskazanych w § 79 ust. 1 pkt 1, 2 oraz 4-11;
+
+### 2)
+
+dokonywania oceny odpowiedniości instrumentów finansowych będących przedmiotem usług świadczonych przez towarzystwo na podstawie adekwatnych, wiarygodnych i aktualnych informacji na temat wiedzy, doświadczenia, sytuacji finansowej oraz celów inwestycyjnych klienta;
+
+### 3)
+
+możliwości dokonywania zmiany w ocenie dalszej odpowiedniości danego instrumentu finansowego dla klienta, jaka mogłaby ewentualnie zaistnieć od momentu zgromadzenia odpowiednich informacji o kliencie klienta;
+
+### 4)
+
+zasad zarządzania portfelem instrumentów finansowych, w tym zasad dywersyfikacji portfela z uwzględnieniem alternatywnych wariantów inwestowania.
+
+### 2[28) Ze zmianą wprowadzoną przez § 1 pkt 15 lit. b rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:28:).
+
+Towarzystwo dopuszcza osobę, o której mowa w art. 45 ust. 4d ustawy, do samodzielnego świadczenia na jego rzecz pracy wymaganej do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2a i ust. 3 pkt 1 ustawy, jeżeli posiada ona odpowiednią wiedzę, kompetencje i doświadczenie w zakresie elementów wskazanych w § 79 ust. 1 pkt 2, 3 i 11.
+
+### Oddział 4 Tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez osoby, o których mowa w art. 45 ust. 4d ustawy, wymogów w zakresie posiadania odpowiedniej wiedzy, kompetencji i doświadczenia oraz tryb i warunki postępowania w zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób
+
+### § 90.
+
+### 1.
+
+Towarzystwo jest obowiązane uzyskać od osoby, o której mowa w art. 45 ust. 4d ustawy, która ma świadczyć na jego rzecz pracę wymaganą do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2 i ust. 3 pkt 1a albo art. 45 ust. 2a i ust. 3 pkt 1 ustawy, niezbędne dokumenty i informacje w celu ustalenia posiadanego przez tę osobę poziomu wiedzy, kompetencji i doświadczenia, odpowiednio w zakresie wskazanym w § 89 ust. 1 albo 2.
+
+### 2.
+
+W przypadku nieotrzymania dokumentów i informacji, o których mowa w ust. 1, towarzystwo nie dopuszcza osoby do samodzielnego świadczenia na jego rzecz pracy wymaganej do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2 i ust. 3 pkt 1a albo art. 45 ust. 2a i ust. 3 pkt 1 ustawy.
+
+### § 91.
+
+### 1.
+
+W przypadku nieposiadania odpowiedniej wiedzy, kompetencji bądź doświadczenia przez osobę, o której mowa w art. 45 ust. 4d ustawy, osoba ta może świadczyć pracę wymaganą do prawidłowego świadczenia usług wyłącznie pod nadzorem upoważnionej osoby, o której mowa w art. 45 ust. 4d ustawy, posiadającej odpowiednią wiedzę, kompetencje oraz doświadczenie.
+
+### 2.
+
+Osoba upoważniona do sprawowania nadzoru, o którym mowa w ust. 1, powinna posiadać odpowiednie zasoby czasowe, aby móc efektywnie sprawować powierzony jej nadzór.
+
+### 3.
+
+Zakres nadzoru, o którym mowa w ust. 1, powinien być dostosowany do zakresu i charakteru czynności, które ma wykonywać osoba nieposiadająca odpowiedniej wiedzy, kompetencji bądź doświadczenia, oraz posiadanych przez nią wiedzy, kompetencji oraz dotychczasowego doświadczenia.
+
+### 4.
+
+Osoba upoważniona do sprawowania nadzoru, o którym mowa w ust. 1, ponosi odpowiedzialność za wykonanie przez osobę świadczącą pod jej nadzorem pracę wymaganą do prawidłowego świadczenia usług, czynności w sposób prawidłowy, w tym zgodny z przepisami prawa i regulacjami wewnętrznymi towarzystwa.
+
+### 5.
+
+W przypadku gdy osoba nieposiadająca odpowiedniej wiedzy, kompetencji bądź doświadczenia pozostająca pod nadzorem sporządza raport odpowiedniości, o którym mowa w art. 83g ust. 3 ustawy o obrocie instrumentami finansowymi, osoba upoważniona do sprawowania nad tą osobą nadzoru, o którym mowa w ust. 1, podpisuje ten raport.
+
+### 6.
+
+Osoba nieposiadająca odpowiedniej wiedzy, kompetencji bądź doświadczenia nie może świadczyć pracy wymaganej do prawidłowego świadczenia usług, pod nadzorem przez łączny okres dłuższy niż 4 lata.
+
+### § 92.
+
+### 1.
+
+W przypadku gdy osoba, o której mowa w art. 45 ust. 4d ustawy, nie posiada odpowiedniej wiedzy bądź kompetencji, w celu ich uzyskania towarzystwo kieruje tę osobę na szkolenie organizowane:
+
+### 1)
+
+w ramach struktury towarzystwa (szkolenie wewnętrzne) lub
+
+### 2)
+
+przez właściwy podmiot inny niż towarzystwo (szkolenie zewnętrzne).
+
+### 2.
+
+Ukończenie szkolenia, o którym mowa w ust. 1, powinno zostać potwierdzone dokumentem potwierdzającym pozytywną weryfikację wiedzy bądź kompetencji z zakresu objętego szkoleniem (certyfikat). Na podstawie takiego certyfikatu towarzystwo uznaje, że osoba posiada odpowiednią wiedzę bądź kompetencje do świadczenia pracy wymaganej do prawidłowego świadczenia usług.
+
+### 3.
+
+Przepisu ust. 1 nie stosuje się, w przypadku gdy osoba, o której mowa w ust. 1:
+
+### 1)
+
+odbędzie szkolenie we własnym zakresie oraz
+
+### 2)
+
+uzyska certyfikat, o którym mowa w ust. 2.
+
+### § 93.
+
+W przypadku gdy osoba, o której mowa w art. 45 ust. 4d ustawy, nie posiada odpowiedniego doświadczenia w zakresie świadczenia pracy wymaganej do prawidłowego:
+
+### 1)
+
+świadczenia usług, o których mowa w art. 45 ust. 2a oraz ust. 3 pkt 1 i 1a ustawy, dotyczących obligacji skarbowych oraz instrumentów finansowych wskazanych w art. 83h ust. 6 ustawy o obrocie instrumentami finansowymi, osoba ta, w celu osiągnięcia odpowiedniego poziomu doświadczenia, świadczy pracę pod nadzorem przez okres co najmniej 6 miesięcy;
+
+### 2)
+
+świadczenia usług, o których mowa w art. 45 ust. 2a oraz ust. 3 pkt 1 i 1a ustawy, dotyczących instrumentów finansowych innych niż wskazane w pkt 1, osoba ta, w celu osiągnięcia odpowiedniego poziomu doświadczenia, świadczy pracę pod nadzorem przez okres co najmniej 12 miesięcy;
+
+### 3)
+
+świadczenia usług, o których mowa w art. 45 ust. 2 ustawy, dotyczących obligacji skarbowych oraz instrumentów finansowych wskazanych w art. 83h ust. 6 ustawy o obrocie instrumentami finansowymi, osoba ta, w celu osiągnięcia odpowiedniego poziomu doświadczenia, świadczy pracę pod nadzorem przez okres co najmniej 18 miesięcy;
+
+### 4)
+
+świadczenia usług, o których mowa w art. 45 ust. 2 ustawy, dotyczących instrumentów finansowych innych niż wskazane w pkt 3, osoba ta, w celu osiągnięcia odpowiedniego poziomu doświadczenia, świadczy pracę pod nadzorem przez okres co najmniej 24 miesięcy.
+
+### § 94.
+
+### 1.
+
+Towarzystwo jest obowiązane w sposób pisemny określić zakres obowiązków osób, o których mowa w art. 45 ust. 4d ustawy, sprawujących nadzór, o którym mowa w § 91 ust. 1, oraz osób, o których mowa w art. 45 ust. 4d ustawy, świadczących pracę pod takim nadzorem.
+
+### 2.
+
+Towarzystwo jest obowiązane zapewnić wyodrębnienie organizacyjne osób, o których mowa w art. 45 ust. 4d ustawy, świadczących pracę na rzecz towarzystwa, wymaganą do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2 pkt 2 i ust. 3 pkt 1a ustawy, od osób, o których mowa w art. 45 ust. 4d ustawy, świadczących pracę na rzecz towarzystwa, wymaganą do prawidłowego świadczenia usług, o których mowa w art. 45 ust. 2 pkt 1, ust. 2a oraz ust. 3 pkt 1 ustawy.
+
+### § 95.
+
+### 1.
+
+Towarzystwo jest obowiązane zapewnić, aby osoby, o których mowa w art. 45 ust. 4d ustawy, znały, rozumiały i stosowały przez cały okres ich wykonywania odpowiednie regulacje prawne oraz wewnętrzne regulacje tego towarzystwa związane z wykonywanymi czynnościami.
+
+### 2.
+
+W celu realizacji wymogu, o którym mowa w ust. 1, towarzystwo jest obowiązane zapewnić w szczególności:
+
+### 1)
+
+regularny udział osób, o których mowa w art. 45 ust. 4d ustawy, w doskonaleniu zawodowym lub szkoleniach w zakresie zasad i trybu wykonywania usług wynikających z przepisów ustawy, ustawy o obrocie instrumentami finansowymi lub innych ustaw mających zastosowanie do działalności towarzystwa, przepisów wydanych na ich podstawie, a także przepisów rozporządzenia 596/2014, rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 600/2014 z dnia 15 maja 2014 r. w sprawie rynków instrumentów finansowych oraz zmieniającego rozporządzenie (UE) nr 648/2012 lub innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do działalności towarzystwa;
+
+### 2)
+
+regularny udział osób, o których mowa w art. 45 ust. 4d ustawy, w szkoleniach dotyczących cech i charakterystyki instrumentów finansowych będących przedmiotem usług świadczonych przez towarzystwo;
+
+### 3)
+
+regularną ocenę wiedzy i kompetencji posiadanych przez osoby, o których mowa w art. 45 ust. 4d ustawy, w tym również przez monitorowanie sposobu wykonywania czynności z zakresu świadczenia usług.
+
+### § 96.
+
+Towarzystwo w zależności od potrzeb, nie rzadziej niż raz w roku, jest obowiązane przeprowadzać przegląd wiedzy i kompetencji posiadanych przez osoby, o których mowa w art. 45 ust. 4d ustawy, uwzględniając ich rozwój i zdobyte doświadczenie oraz wprowadzone zmiany w przepisach prawa mających zastosowanie do wykonywanych przez nie czynności, a w przypadku zaistnienia takiej potrzeby, podejmować działania niezbędne do przestrzegania przez te osoby wprowadzonych zmian w przepisach prawa bądź uzupełnienia braków wiedzy i kompetencji.
+
+### § 97.
+
+### 1.
+
+Towarzystwo jest obowiązane ustanowić i wdrożyć politykę w zakresie:
+
+### 1)
+
+przeprowadzania szkoleń i potwierdzania wiedzy i kompetencji;
+
+### 2)
+
+zasad i kryteriów wyboru podmiotu, o którym mowa w § 92 ust. 1 pkt 2.
+
+### 2.
+
+Polityka, o której mowa w ust. 1, zawiera co najmniej:
+
+### 1)
+
+określenie środków finansowych oraz zasobów kadrowych przeznaczonych na potrzeby dokonywania weryfikacji wiedzy;
+
+### 2)
+
+procedurę i sposoby identyfikacji potrzeb szkoleniowych osób, o których mowa w art. 45 ust. 4d ustawy, będące podstawą kierowania ich na szkolenie, o którym mowa w § 92 ust. 1.
+
+### 3.
+
+Zakres i procedura przeprowadzania szkolenia, o którym mowa w § 92 ust. 1, oraz potwierdzania wiedzy osoby, o której mowa w art. 45 ust. 4d ustawy, powinny obejmować co najmniej obszary wskazane w § 89 ust. 1. Forma, czas przeznaczony na szkolenie oraz sposób jego przeprowadzenia powinny być dostosowane do zakresu objętego szkoleniem.
+
+### 4.
+
+Potwierdzanie wiedzy powinno odbywać się w sposób obiektywny, gwarantujący sprawdzenie wiedzy z obszarów wskazanych w § 89 ust. 1, przy zachowaniu poufności pytań i anonimowości osób, których wiedza podlega weryfikacji.
+
+### 5.
+
+Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez zarząd towarzystwa.
+
+### 6.
+
+Towarzystwo jest obowiązane podejmować działania mające na celu utrzymanie oraz doskonalenie przez osoby, o których mowa w art. 45 ust. 4d ustawy, posiadanej wiedzy i kompetencji, w szczególności przez ich uczestnictwo w regularnym doskonaleniu zawodowym lub szkoleniach, a także w szkoleniach wymaganych przed rozpoczęciem świadczenia przez towarzystwo nowych usług lub nowych instrumentów finansowych będących ich przedmiotem.
+
+### 7.
+
+Towarzystwo jest obowiązane podejmować działania, o których mowa w ust. 6, niezależnie od działań, które byłyby podejmowane w następstwie przeglądu, o którym mowa w § 96.
+
+### § 98.
+
+Przepisy niniejszego rozdziału nie mają zastosowania do osób, które na rzecz towarzystwa:
+
+### 1)
+
+wyłącznie udzielają klientom lub potencjalnym klientom informacji, gdzie mogą oni zapoznać się z informacjami na temat usług świadczonych przez towarzystwo i instrumentów finansowych będących ich przedmiotem, lub
+
+### 2)
+
+wyłącznie dystrybuują materiały promocyjne i reklamowe dotyczące usług świadczonych przez towarzystwo lub instrumentów finansowych będących ich przedmiotem, lub
+
+### 3)
+
+wyłącznie przekazują na żądanie klienta lub potencjalnego klienta dokumenty dotyczące usług świadczonych przez towarzystwo lub instrumentów finansowych będących ich przedmiotem, lub
+
+### 4)
+
+nie wykonują czynności stanowiących przedmiot usług i nie mają bezpośredniego kontaktu z klientem lub potencjalnym klientem, w tym również telefonicznie lub przez wykorzystywanie elektronicznych kanałów komunikacji.
+
+### Rozdział 10 Szczegółowe kryteria w zakresie spełniania wymogów przez członków zarządu i rady nadzorczej towarzystwa oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania tych wymogów oraz postępowania w zakresie ich utrzymywania i doskonalenia
+
+### § 99.
+
+Wymóg posiadania nieposzlakowanej opinii przez członka zarządu albo rady nadzorczej towarzystwa jest spełniony, w przypadku gdy w związku ze sprawowanymi funkcjami nie dopuścił się on zachowań rażąco sprzecznych z zawodowymi normami etycznymi i prawnymi, które mogłyby wpływać na zaufanie do niego jako członka zarządu albo rady nadzorczej.
+
+### § 100.
+
+Wymóg posiadania wiedzy przez członka zarządu albo rady nadzorczej towarzystwa jest spełniony, w przypadku gdy wykazuje on udokumentowaną znajomość zagadnień związanych z zakresem obowiązków, które mają być przez niego wykonywane, w stopniu niezbędnym do prawidłowego wykonywania odpowiednio czynności zarządczych albo czynności nadzorczych, oraz zrozumienie zasad prowadzonej przez towarzystwo działalności i ryzyka związanego z tą działalnością.
+
+### § 101.
+
+Wymóg posiadania kompetencji przez członka zarządu albo rady nadzorczej towarzystwa jest spełniony, w przypadku gdy posiada on zdobytą w wyniku doświadczenia, o którym mowa w § 102, umiejętność praktycznego zastosowania wiedzy, o której mowa w § 100.
+
+### § 102.
+
+### 1.
+
+Wymóg posiadania doświadczenia przez członka zarządu albo rady nadzorczej towarzystwa jest spełniony, w przypadku gdy wykonywał on czynności związane z działalnością instytucji rynku finansowego na kierowniczym lub samodzielnym stanowisku lub pełnił on funkcje w organach tych instytucji.
+
+### 2.
+
+Wymóg posiadania doświadczenia przez członka zarządu, o którym mowa w art. 42a ust. 1 pkt 1 ustawy, jest spełniony, w przypadku gdy wykonywał on na kierowniczym lub samodzielnym stanowisku lub w ramach pełnionej funkcji członka zarządu czynności związane z zarządzaniem ryzykiem w instytucji rynku finansowego, w tym czynności związane z zarządzaniem ryzykiem w towarzystwie na kierowniczym lub samodzielnym stanowisku, albo w ramach pełnionej funkcji członka zarządu towarzystwa nadzorował on czynności związane z zarządzaniem ryzykiem.
+
+### 3.
+
+Wymóg posiadania doświadczenia przez członka zarządu, o którym mowa w art. 42a ust. 1 pkt 2 ustawy, jest spełniony, w przypadku gdy wykonywał on na kierowniczym lub samodzielnym stanowisku lub w ramach pełnionej funkcji członka zarządu czynności związane z podejmowaniem decyzji inwestycyjnych oraz stosowaniem strategii inwestycyjnych w instytucji rynku finansowego, w tym podejmował, na kierowniczym lub samodzielnym stanowisku, decyzje inwestycyjne dotyczące portfeli inwestycyjnych funduszy zarządzanych przez towarzystwo lub portfeli, w skład których wchodzi jeden lub większa liczba instrumentów finansowych, zarządzanych przez towarzystwo, albo w ramach pełnionej funkcji członka zarządu towarzystwa nadzorował czynności związane z podejmowaniem decyzji inwestycyjnych.
+
+### § 103.
+
+### 1.
+
+Towarzystwo dokonuje oceny oraz weryfikacji spełniania wymogów, o których mowa w art. 42 ust. 4 ustawy, przez poszczególne osoby wchodzące w skład zarządu albo rady nadzorczej w szczególności w przypadku:
+
+### 1)
+
+powołania nowego członka do zarządu albo rady nadzorczej towarzystwa;
+
+### 2)
+
+zmiany wymagań wobec towarzystwa skutkującej zmianą wymogów dla danej funkcji członka zarządu albo rady nadzorczej;
+
+### 3)
+
+powołania członka zarządu albo rady nadzorczej do pełnienia nowej funkcji w danym organie;
+
+### 4)
+
+wystąpienia uzasadnionych obaw, że członek zarządu albo rady nadzorczej nie spełnia wymogów, o których mowa w art. 42 ust. 4 ustawy;
+
+### 5)
+
+zmiany okoliczności będących podstawą dokonanej oceny albo zaistnienia nowych okoliczności, które mogą mieć wpływ na dokonaną ocenę;
+
+### 6)
+
+powołania członka zarządu albo rady nadzorczej na kolejną kadencję.
+
+### 2.
+
+Ocena oraz weryfikacja, o których mowa w ust. 1, następują:
+
+### 1)
+
+w przypadkach, o których mowa w ust. 1 pkt 1, 3 i 6 - przed powołaniem członka zarządu albo rady nadzorczej albo przed rozpoczęciem pełnienia przez niego nowej funkcji;
+
+### 2)
+
+w przypadku, o którym mowa w ust. 1 pkt 2 - niezwłocznie, nie później jednak niż w terminie miesiąca od dnia zmiany wymagań dla danej funkcji członka zarządu albo rady nadzorczej;
+
+### 3)
+
+w przypadkach, o których mowa w ust. 1 pkt 4 i 5 - niezwłocznie, nie później jednak niż w terminie miesiąca od dnia powzięcia wiadomości o wystąpieniu okoliczności, o których mowa w tych przepisach.
+
+### 3.
+
+O wynikach oceny, o której mowa w ust. 1, towarzystwo niezwłocznie informuje członka zarządu albo rady nadzorczej, którego dotyczy ocena.
+
+### § 104.
+
+Ocena spełniania wymogów określonych w art. 42 ust. 4 ustawy w związku z funkcją członka zarządu, o której mowa w art. 42a ust. 1 ustawy, jest dokonywana przez radę nadzorczą przed złożeniem do Komisji Nadzoru Finansowego wniosku o wyrażenie zgody, o której mowa w art. 42b ust. 1 ustawy.
+
+### § 105.
+
+### 1.
+
+Towarzystwo zobowiązuje członków zarządu i rady nadzorczej do niezwłocznego przekazywania mu informacji o zmianie okoliczności będących podstawą dokonanej oceny i zaistnieniu nowych okoliczności, które mogą mieć wpływ na dokonaną ocenę.
+
+### 2.
+
+Towarzystwo regularnie ocenia spełnianie wymogów, o których mowa w art. 42 ust. 4 ustawy, przez poszczególne osoby wchodzące w skład zarządu albo rady nadzorczej, na podstawie dostępnych informacji, w tym przekazanych przez oceniane osoby.
+
+### 3.
+
+W przypadku stwierdzenia, że członek zarządu albo rady nadzorczej przestał spełniać wymogi, o których mowa w art. 42 ust. 4 ustawy, towarzystwo niezwłocznie podejmuje działania mające na celu doprowadzenie do ich spełnienia.
+
+### 4.
+
+Towarzystwo niezwłocznie informuje Komisję Nadzoru Finansowego, jeżeli stwierdzi, że członek zarządu albo rady nadzorczej przestał spełniać wymogi, o których mowa w art. 42 ust. 4 ustawy. Do informacji towarzystwo dołącza opis działań, o których mowa w ust. 3.
+
+### 5.
+
+Towarzystwo prowadzi dokumentację w postaci odrębnego zbioru chronologicznie uporządkowanych dokumentów dla każdej ocenianej osoby.
+
+### § 106.
+
+### 1.
+
+W celu dokonania oceny spełniania wymogów określonych w art. 42 ust. 4 ustawy towarzystwo gromadzi i weryfikuje następujące dokumenty dotyczące ocenianej osoby:
+
+### 1)
+
+oświadczenie o danych osobowych zawierające imię, nazwisko, datę i miejsce urodzenia oraz miejsce aktualnego zamieszkania;
+
+### 2)
+
+życiorys, dokumenty poświadczające wykształcenie, kwalifikacje i doświadczenie zawodowe, w tym zawierające:
+
+### a)
+
+przebieg pracy zawodowej, w tym informacje o ukończonych szkoleniach zawodowych,
+
+### b)
+
+kopie świadectw pracy oraz opinii z miejsc pracy - w przypadku posiadania takich opinii,
+
+### c)
+
+oświadczenie o przyznanych nagrodach i wyróżnieniach związanych z rynkiem finansowym - w przypadku ich przyznania,
+
+### d)
+
+oświadczenie dotyczące wykształcenia zawierające dane o:
+
+- - ukończonych studiach wyższych, ze wskazaniem nazwy uczelni, wydziału i kierunku, trybu (studia dzienne, wieczorowe, zaoczne), stopnia (studia I stopnia - licencjat, studia II stopnia - magisterskie), uzyskanego tytułu zawodowego i roku ukończenia,
+
+- - ukończonych studiach III stopnia lub uzyskanych tytułach i stopniach naukowych, ze wskazaniem nazwy uczelni lub instytutu naukowego, wydziału i kierunku, uzyskanego tytułu lub stopnia naukowego, roku ukończenia studiów albo roku uzyskania tytułu lub stopnia naukowego,
+
+- - ukończonych studiach podyplomowych, aplikacjach, szkoleniach specjalistycznych i innych formach kształcenia uzupełniającego, ze wskazaniem nazwy uczelni lub instytucji organizującej kształcenie, przedmiotu i roku ukończenia kształcenia;
+
+### 3)
+
+informację o osobie z Krajowego Rejestru Karnego wydaną nie później niż 3 miesiące przed dniem dokonania oceny, a w przypadku osób, które w okresie 10 lat poprzedzających ten dzień miały miejsce zamieszkania, prowadzenia działalności gospodarczej lub świadczenia pracy poza Rzeczpospolitą Polską - także odpowiedni dokument wydany przez właściwe organy państw, w których osoby te miały miejsce zamieszkania, prowadzenia działalności gospodarczej, lub świadczenia pracy w okresie 10 lat poprzedzających dzień dokonania oceny;
+
+### 4)
+
+oświadczenie o toczących się lub o zakończonych ukaraniem postępowaniach administracyjnych w zakresie nałożenia sankcji administracyjnej, w których oceniana osoba występowała lub występuje w charakterze strony, oraz toczących się lub zakończonych ukaraniem postępowaniach administracyjnych w zakresie nałożenia sankcji administracyjnej na instytucję rynku finansowego, w której oceniana osoba pełniła funkcje w organach lub wykonywała funkcje na stanowiskach kierowniczych, w związku z pełnieniem lub wykonywaniem tych funkcji;
+
+### 5)
+
+oświadczenie o toczących się lub o zakończonych ukaraniem postępowaniach dyscyplinarnych w zakresie nałożenia sankcji, w których oceniana osoba występowała albo występuje w charakterze strony;
+
+### 6)
+
+oświadczenie o toczących się lub o zakończonych w trakcie pełnienia funkcji lub w ciągu trzech lat po zaprzestaniu jej pełnienia postępowaniach sądowych w sprawach gospodarczych, postępowaniach związanych z likwidacją, upadłością, likwidacją majątku upadłego, postępowaniem naprawczym lub postępowaniem restrukturyzacyjnym, dotyczących podmiotu, w którym oceniana osoba pełni albo pełniła funkcje w organach lub wykonuje albo wykonywała funkcje na stanowiskach kierowniczych;
+
+### 7)
+
+oświadczenie o toczących się przeciwko ocenianej osobie postępowaniach, o których mowa w § 107 ust. 1 pkt 2;
+
+### 8)
+
+oświadczenie o przypadkach odmowy uzyskania lub cofnięcia zezwolenia, o których mowa w § 107 ust. 1 pkt 3, w związku z wykonywaną lub planowaną działalnością albo pełnieniem funkcji w instytucji rynku finansowego, z podaniem przyczyn;
+
+### 9)
+
+oświadczenie o przypadkach braku udzielenia absolutorium z wykonania obowiązków w związku z pełnieniem funkcji w organach spółek kapitałowych, z podaniem przyczyn;
+
+### 10)
+
+oświadczenie o przypadkach zawieszenia w pełnieniu funkcji w organizacjach zawodowych, zwolnienia z pełnionych funkcji w organizacjach zawodowych lub nałożenia innej kary związanej z pełnieniem funkcji w organizacjach zawodowych, w związku z popełnieniem przestępstwa oszustwa lub sprzeniewierzenia lub nieprawidłowym świadczeniem usług finansowych lub usług dotyczących przetwarzania danych;
+
+### 11)
+
+oświadczenie zawierające firmy spółek kapitałowych i osobowych, w których oceniana osoba była albo jest członkiem organów lub prokurentem albo wspólnikiem lub akcjonariuszem;
+
+### 12)
+
+oświadczenie o przypadkach ustania zatrudnienia, o których mowa w § 107 ust. 1 pkt 6, z podaniem przyczyn.
+
+### 2.
+
+W przypadku wskazywania w dokumentach, o których mowa w ust. 1 pkt 2 i 4-12, firm albo nazw podmiotów nadzorowanych przez instytucje Europejskiego System Nadzoru Finansowego albo inne właściwe organy nadzoru, oceniana osoba wskazuje instytucję nadzorującą te podmioty.
+
+### 3.
+
+Przepisy ust. 1 pkt 4-12 stosuje się odpowiednio do dokumentów dotyczących ocenianej osoby, w przypadku prowadzenia przez nią działalności gospodarczej albo świadczenia pracy poza Rzeczpospolitą Polską.
+
+### 4.
+
+Ocena spełniania wymogów określonych w art. 42 ust. 4 ustawy uwzględnia dostępne informacje dotyczące:
+
+### 1)
+
+niewypłacalności podmiotu, w którym oceniana osoba pełni albo pełniła funkcję w zarządzie albo radzie nadzorczej;
+
+### 2)
+
+okoliczności wskazujących, że oceniana osoba w sposób nieuzasadniony odmawiała współpracy lub utrudniała współpracę z organami nadzoru;
+
+### 3)
+
+innych okoliczności wskazujących na niezachowanie przez ocenianą osobę wysokich standardów postępowania w związku ze sprawowanymi funkcjami.
+
+### § 107.
+
+### 1.
+
+Dokonując oceny oraz weryfikacji spełniania przez członka zarządu albo rady nadzorczej wymogu posiadania nieposzlakowanej opinii, o którym mowa w § 99, towarzystwo uwzględnia w szczególności, czy:
+
+### 1)
+
+na ocenianą osobę lub na instytucje rynku finansowego, w związku z zakresem odpowiedzialności tej osoby wynikającym z funkcji pełnionych w organach tych instytucji albo wykonywanych funkcji kierowniczych, została nałożona sankcja administracyjna lub jest prowadzone postępowanie o nałożenie takiej sankcji;
+
+### 2)
+
+przeciwko ocenianej osobie jest prowadzone postępowanie w związku z podejrzeniem popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego w art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ([Dz. U. z 2023 r. poz. 1170](https://api.sejm.gov.pl/eli/acts/DU/2023/1170/text.html)), przestępstwa określonego w art. 522 lub art. 523 ustawy z dnia 28 lutego 2003 r. - Prawo upadłościowe ([Dz. U. z 2022 r. poz. 1520](https://api.sejm.gov.pl/eli/acts/DU/2022/1520/text.html) oraz [z 2023 r. poz. 825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html), [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html) i [1860](https://api.sejm.gov.pl/eli/acts/DU/2023/1860/text.html)), przestępstwa określonego w przepisach, o których mowa w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym ([Dz. U. z 2023 r. poz. 753](https://api.sejm.gov.pl/eli/acts/DU/2023/753/text.html), [825](https://api.sejm.gov.pl/eli/acts/DU/2023/825/text.html), [1705](https://api.sejm.gov.pl/eli/acts/DU/2023/1705/text.html), [1723](https://api.sejm.gov.pl/eli/acts/DU/2023/1723/text.html) i [1843](https://api.sejm.gov.pl/eli/acts/DU/2023/1843/text.html)), oraz przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących w państwach innych niż Rzeczpospolita Polska;
+
+### 3)
+
+oceniana osoba pełni albo pełniła funkcje w organach lub wykonywała funkcje na stanowiskach kierowniczych w podmiocie, któremu w związku z pełnieniem lub wykonywaniem tych funkcji:
+
+### a)
+
+cofnięto zezwolenie na prowadzenie działalności na rynku finansowym z uwagi na naruszenie przez ten podmiot przepisów prawa regulujących prowadzenie tej działalności, otrzymanie zezwolenia na podstawie fałszywych oświadczeń lub dokumentów poświadczających nieprawdę, nieprzestrzeganie zasad uczciwego obrotu lub naruszenie interesów uczestników obrotu,
+
+### b)
+
+odmówiono udzielenia zezwolenia na prowadzenie działalności na rynku finansowym z uwagi na fakt, że podmiot ten nie zapewniał prowadzenia działalności w sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu lub klientów tego podmiotu;
+
+### 4)
+
+oceniana osoba pełniła funkcje w organach lub wykonywała funkcje na stanowiskach kierowniczych w podmiocie, wobec którego, w następstwie ich nienależytego pełnienia lub wykonywania, ogłoszono upadłość w czasie pełnienia lub wykonywania tych funkcji albo w ciągu roku po zaprzestaniu ich pełnienia lub wykonywania;
+
+### 5)
+
+decyzją organizacji zawodowej oceniana osoba została zawieszona w pełnieniu funkcji w tej organizacji, zwolniona z pełnionych funkcji lub została nałożona na tę osobę inna kara w związku z popełnieniem przestępstwa oszustwa lub sprzeniewierzenia lub nieprawidłowym świadczeniem usług finansowych lub usług dotyczących przetwarzania danych;
+
+### 6)
+
+z ocenianą osobą została rozwiązana umowa o pracę, umowa zlecenia, umowa o dzieło lub inna umowa o podobnym charakterze z powodu ciężkiego naruszenia przez tę osobę podstawowych obowiązków wynikających z tych umów lub popełnienia przez tę osobę w czasie trwania umowy przestępstwa, które uniemożliwiało dalsze zatrudnienie na zajmowanym stanowisku ze względu na to, że przestępstwo było oczywiste albo zostało stwierdzone prawomocnym wyrokiem;
+
+### 7)
+
+wobec ocenianej osoby Komisja Nadzoru Finansowego zastosowała środki nadzorcze w związku z pełnieniem przez tę osobę funkcji członka zarządu albo rady nadzorczej w podmiocie podlegającym nadzorowi Komisji;
+
+### 8)
+
+wobec ocenianej osoby podjęto uchwałę o braku udzielenia absolutorium z wykonania obowiązków w związku z pełnieniem funkcji w organach spółek kapitałowych z przyczyn mających wpływ na prowadzenie przez towarzystwo stabilnej działalności;
+
+### 9)
+
+oceniana osoba została zawieszona w czynnościach członka zarządu instytucji rynku finansowego;
+
+### 10)
+
+wystąpiły inne okoliczności wskazujące, że oceniana osoba wykonywała powierzone obowiązki związane z pełnieniem funkcji w organach lub wykonywaniem funkcji na stanowiskach kierowniczych w podmiocie podlegającym nadzorowi Komisji Nadzoru Finansowego w sposób naruszający zasady uczciwego obrotu lub sprzeczny z zakresem udzielonego zezwolenia.
+
+### 2.
+
+Dokonując oceny towarzystwo uwzględnia informacje zawarte w Krajowym Rejestrze Karnym, a w przypadku osób, które w okresie 10 lat poprzedzających dzień dokonania oceny miały miejsce zamieszkania, prowadziły działalność gospodarczą lub świadczyły pracę poza Rzeczpospolitą Polską - także w odpowiednim dokumencie wydanym przez właściwe organy państw, w których osoby te miały miejsce zamieszkania, prowadzenia działalności gospodarczej lub świadczenia pracy w tym okresie.
+
+### 3.
+
+W przypadku gdy w odniesieniu do ocenianej osoby zachodzą okoliczności, o których mowa w ust. 1 lub 2, towarzystwo, dokonując oceny, uwzględnia rodzaj wyroku lub oskarżenia, etap postępowania sądowego, wysokość i rodzaj zastosowanej kary, a także okoliczności towarzyszące danemu naruszeniu lub decyzji administracyjnej, w tym okoliczności łagodzące i formalne, wagę naruszenia, okres, jaki upłynął od dnia naruszenia lub dnia wydania decyzji, przebieg dalszej kariery zawodowej tej osoby oraz znaczenie przestępstwa lub naruszenia dla pełnionej funkcji.
+
+### § 108.
+
+### 1.
+
+Dokonując oceny oraz weryfikacji spełniania przez członka zarządu albo rady nadzorczej wymogu posiadania wiedzy, o którym mowa w § 100, towarzystwo uwzględnia w szczególności, czy oceniana osoba posiada wiedzę w co najmniej jednym z następujących zakresów:
+
+### 1)
+
+istotne obszary działalności prowadzonej przez towarzystwo oraz główne ryzyka, które są z nimi związane;
+
+### 2)
+
+rachunkowość i sprawozdawczość finansowa;
+
+### 3)
+
+zarządzanie aktywami;
+
+### 4)
+
+zarządzanie ryzykiem;
+
+### 4a[29) Dodany przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 3.](#gloss-0:29:))
+
+ryzyko dla zrównoważonego rozwoju;
+
+### 5)
+
+zgodność działalności towarzystwa z prawem i audyt wewnętrzny;
+
+### 6)
+
+technologie i bezpieczeństwo informatyczne;
+
+### 7)
+
+lokalne, regionalne lub globalne rynki aktywów finansowych - w przypadku prowadzenia przez towarzystwo działalności na tych rynkach;
+
+### 8)
+
+otoczenie regulacyjne;
+
+### 9)
+
+planowanie strategiczne;
+
+### 10)
+
+zarządzanie spółką lub organizacją;
+
+### 11)
+
+zarządzanie krajowymi lub międzynarodowymi grupami kapitałowymi oraz czynniki ryzyka związane ze strukturą takich grup - w przypadku prowadzenia przez towarzystwo działalności w ramach takiej struktury.
+
+### 2.
+
+Towarzystwo zapewnia, aby w przypadku gdy członek zarządu albo rady nadzorczej nie posiada wiedzy w jednym z zakresów, o których mowa w ust. 1, wiedzę w tym zakresie posiadał inny członek zarządu albo rady nadzorczej.
+
+### 3.
+
+W przypadku członka zarządu, o którym mowa w art. 42a ust. 1 pkt 1 ustawy, wymóg posiadania wiedzy jest spełniony, jeżeli oceniana osoba posiada wiedzę w zakresie zarządzania ryzykiem, w szczególności w zakresie identyfikacji, pomiaru albo szacowania, monitorowania, kontrolowania oraz ograniczania ryzyka.
+
+### 4.
+
+W przypadku członka zarządu, o którym mowa w art. 42a ust. 1 pkt 2 ustawy, wymóg posiadania wiedzy jest spełniony, jeżeli oceniana osoba posiada w szczególności wiedzę w zakresie instrumentów finansowych, zarządzania aktywami i portfelami inwestycyjnymi, działalności inwestycyjnej, rekomendacji inwestycyjnych, doradztwa inwestycyjnego, strategii inwestycyjnych oraz analiz rynku, w tym analizy ekonomicznej, fundamentalnej i technicznej.
+
+### 5.
+
+Towarzystwo, przeprowadzając ocenę, może uznać, że członek zarządu albo rady nadzorczej posiada wiedzę w zakresie, o którym mowa w ust. 1, w przypadku gdy:
+
+### 1)
+
+posiada stopień naukowy doktora nauk ekonomicznych lub prawnych;
+
+### 2)
+
+posiada tytuł zawodowy radcy prawnego lub adwokata lub tytuł biegłego rewidenta;
+
+### 3)
+
+posiada tytuł zawodowy doradcy inwestycyjnego lub maklera papierów wartościowych;
+
+### 4)
+
+ukończył studia Master of Business Administration (MBA);
+
+### 5)
+
+posiada certyfikat Chartered Financial Analyst (CFA);
+
+### 6)
+
+posiada certyfikat Certified International Investment Analyst (CIIA);
+
+### 7)
+
+posiada certyfikat Association of Chartered Certified Accountants (ACCA);
+
+### 8)
+
+złożył egzamin dla kandydatów na członków organów nadzorczych przed komisją egzaminacyjną wyznaczoną przez Prezesa Rady Ministrów lub ministra właściwego do spraw aktywów państwowych.
+
+### § 109.
+
+Dokonując oceny oraz weryfikacji spełniania przez członka zarządu albo rady nadzorczej wymogu posiadania kompetencji, o którym mowa w § 101, towarzystwo uwzględnia poziom i profil wykształcenia ocenianej osoby, w szczególności czy jest ono związane z usługami finansowymi lub działalnością finansową, szkolenia, staże i konferencje, które odbyła oceniana osoba, a także umiejętności osiągnięte w drodze praktycznego doświadczenia zdobytego na poprzednich stanowiskach.
+
+### § 110.
+
+### 1.
+
+Dokonując oceny oraz weryfikacji spełniania przez członka zarządu albo rady nadzorczej wymogu posiadania doświadczenia, o którym mowa w § 102, towarzystwo uwzględnia w szczególności rodzaj oraz typ instytucji rynku finansowego, w których członek zarządu albo rady nadzorczej wykonywał czynności lub pełnił funkcje w organach, zakres obowiązków oraz czas pełnienia tych funkcji.
+
+### 2.
+
+Dokonując oceny oraz weryfikacji spełnienia wymogu posiadania doświadczenia przez osobę powołaną na członka zarządu, o którym mowa w art. 42a ust. 1 pkt 1 ustawy, towarzystwo uwzględnia także rodzaj, typ oraz szczególne konstrukcje funduszy, którymi towarzystwo zarządza oraz przyjęty w towarzystwie system zarządzania ryzykiem, w szczególności określone w polityce zarządzania ryzykiem, o której mowa w § 10 ust. 1, procesy, metody i procedury umożliwiające pomiar i zarządzanie ryzykiem oraz obliczanie całkowitej ekspozycji.
+
+### 3.
+
+Dokonując oceny oraz weryfikacji spełnienia wymogu posiadania doświadczenia przez osobę powołaną na członka zarządu, o który mowa w art. 42a ust. 1 pkt 2 ustawy, towarzystwo uwzględnia także przyjęty w towarzystwie regulamin, o którym mowa w § 29, a także zasady polityki inwestycyjnej oraz strategii inwestycyjnej funduszy inwestycyjnych z uwzględnieniem rodzajów, typów oraz szczególnych konstrukcji funduszy, którymi zarządza towarzystwo.
+
+### § 111.
+
+### 1.
+
+W celu oceny oraz weryfikacji spełniania przez osoby wchodzące w skład zarządu i rady nadzorczej wymogów określonych w § 99-102, towarzystwo ustanawia i wdraża politykę dotyczącą tej oceny oraz weryfikacji.
+
+### 2.
+
+Polityka, o której mowa w ust. 1, określa w szczególności zakres i tryb dokonywania oceny oraz weryfikacji spełniania wymogów określonych w § 99-102.
+
+### 3.
+
+Polityka, o której mowa w ust. 1, jest sporządzana przez zarząd albo radę nadzorczą towarzystwa i przyjmowana przez walne zgromadzenie.
+
+### 4.
+
+Polityka, o której mowa w ust. 1, jest jawna dla pracowników towarzystwa.
+
+### § 112.
+
+### 1.
+
+Towarzystwo umożliwia członkom zarządu i rady nadzorczej utrzymywanie i doskonalenie wiedzy i kompetencji, o których mowa w § 100 i § 101, w szczególności przez zapewnienie:
+
+### 1)
+
+szkoleń odpowiednich do zakresu wykonywanych obowiązków;
+
+### 2)
+
+udziału w konferencjach, seminariach i innych wydarzeniach o podobnym charakterze.
+
+### 2.
+
+Szkolenia mogą być organizowane w ramach struktury towarzystwa lub przez podmiot zewnętrzny.
+
+### 3.
+
+Towarzystwo zapewnia dostosowanie formy szkolenia, czasu przeznaczonego na szkolenie oraz sposobu jego przeprowadzenia do zakresu szkolenia.
+
+### § 113.
+
+### 1.
+
+Towarzystwo ustanawia i wdraża politykę w zakresie utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej, która zawiera co najmniej:
+
+### 1)
+
+wskazanie celów szkoleniowych, odrębnie dla zarządu i rady nadzorczej, a w odpowiednich przypadkach odrębnie dla danej funkcji;
+
+### 2)
+
+określenie zasobów kadrowych towarzystwa realizujących zadania związane z zapewnieniem utrzymywania i doskonalenia wiedzy i kompetencji członków zarządu i rady nadzorczej oraz środków finansowych przeznaczonych na ten cel, w szczególności opracowanie szczegółowego programu szkoleniowego;
+
+### 3)
+
+tryb zgłaszania przez członka zarządu i rady nadzorczej potrzeby udziału w procesie szkoleniowym;
+
+### 4)
+
+sposób identyfikacji potrzeb szkoleniowych członków zarządu i rady nadzorczej;
+
+### 5)
+
+kryteria wyboru organizowanych szkoleń i przyjęte metody oceny ich skuteczności.
+
+### 2.
+
+Polityka, o której mowa w ust. 1, podlega aktualizacji.
+
+### 3.
+
+Polityka, o której mowa w ust. 1, podlega zatwierdzeniu przez zarząd i radę nadzorczą towarzystwa.
+
+### Rozdział 11 Przepis przejściowy i przepis końcowy
+
+### § 114.
+
+(pominięty).[30) Zamieszczony w obwieszczeniu.](#gloss-0:30:)
+
+### § 115.
+
+Rozporządzenie wchodzi w życie z dniem 30 listopada 2020 r.[31) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 2 lipca 2019 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1312), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 4 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).](#gloss-0:31:)
+
+1) Obecnie działem administracji rządowej - instytucje finansowe kieruje Minister Finansów, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 29 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 939). 2) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10). [I] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r. 3) Dodany przez § 1 pkt 2 lit. a rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r. 4) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10. 5) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 171 z 29.06.2016, str. 1, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 287 z 21.10.2016, str. 320, Dz. Urz. UE L 254 z 10.10.2018, str. 19, Dz. Urz. UE L 320 z 11.12.2019, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 15. 6) Dodany przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 3. 7) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 3. 8) Dodany przez § 1 pkt 3 rozporządzenia, o którym mowa w odnośniku 3. 9) Ze zmianą wprowadzoną przez § 1 pkt 4 rozporządzenia, o którym mowa w odnośniku 3. 10) Zdanie trzecie dodane przez § 1 pkt 5 rozporządzenia, o którym mowa w odnośniku 3. 11) Ze zmianą wprowadzoną przez § 1 pkt 6 rozporządzenia, o którym mowa w odnośniku 3. 12) Ze zmianą wprowadzoną przez § 1 pkt 7 rozporządzenia, o którym mowa w odnośniku 3. 13) Dodany przez § 1 pkt 8 rozporządzenia, o którym mowa w odnośniku 3. 14) W brzmieniu ustalonym przez § 1 pkt 9 rozporządzenia, o którym mowa w odnośniku 3. 15) Ze zmianą wprowadzoną przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 29 czerwca 2023 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1303), które weszło w życie z dniem 22 lipca 2023 r. 16) Dodany przez § 1 pkt 2 lit. a rozporządzenia, o którym mowa w odnośniku 15. 17) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 358 z 13.12.2014, str. 50, Dz. Urz. UE L 354 z 23.12.2016, str. 35, Dz. Urz. UE L 40 z 12.02.2019, str. 109, Dz. Urz. UE L 188 z 12.07.2019, str. 55 oraz Dz. Urz. UE L 455 z 20.12.2021, str. 1. 18) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 15. 19) Ze zmianą wprowadzoną przez § 1 pkt 2 lit. c rozporządzenia, o którym mowa w odnośniku 15. 20) Dodany przez § 1 pkt 10 rozporządzenia, o którym mowa w odnośniku 3. 21) Dodany przez § 1 pkt 11 rozporządzenia, o którym mowa w odnośniku 3. 22) Ze zmianą wprowadzoną przez § 1 pkt 12 rozporządzenia, o którym mowa w odnośniku 3. 23) Dodany przez § 1 pkt 13 lit. a rozporządzenia, o którym mowa w odnośniku 3. 24) Ze zmianą wprowadzoną przez § 1 pkt 13 lit. b rozporządzenia, o którym mowa w odnośniku 3. 25) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 270 z 15.10.2015, str. 4, Dz. Urz. UE L 175 z 30.06.2016, str. 1, Dz. Urz. UE L 314 z 05.12.2019, str. 1, Dz. Urz. UE L 334 z 27.12.2019, str. 1, Dz. Urz. UE L 20 z 24.01.2020, str. 26, Dz. Urz. UE L 405 z 02.12.2020, str. 79, Dz. Urz. UE L 22 z 22.01.2021, str. 1, Dz. Urz. UE L 131 z 05.05.2022, str. 11, Dz. Urz. UE L 151 z 02.06.2022, str. 1 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 17. 26) Ze zmianą wprowadzoną przez § 1 pkt 14 rozporządzenia, o którym mowa w odnośniku 3. 27) Ze zmianą wprowadzoną przez § 1 pkt 15 lit. a rozporządzenia, o którym mowa w odnośniku 3. 28) Ze zmianą wprowadzoną przez § 1 pkt 15 lit. b rozporządzenia, o którym mowa w odnośniku 3. 29) Dodany przez § 1 pkt 16 rozporządzenia, o którym mowa w odnośniku 3. 30) Zamieszczony w obwieszczeniu. 31) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Finansów z dnia 2 lipca 2019 r. w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1312), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 45 pkt 4 ustawy z dnia 16 października 2019 r. o zmianie ustawy o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych oraz niektórych innych ustaw (Dz. U. poz. 2217 oraz z 2020 r. poz. 288 i 695).
+
+## Załącznik nr 1 - Obliczanie całkowitej ekspozycji metodą zaangażowania
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 2 - Obliczanie całkowitej ekspozycji metodą absolutnej wartości zagrożonej oraz metodą względnej wartości zagrożonej
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 3 - Wykaz danych objętych ewidencją zawartych transakcji w przypadku transakcji, które mają za przedmiot instrumenty pochodne
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts//text.pdf)
+
+## Załącznik nr 4 - Wykaz danych objętych ewidencją zawartych transakcji, w przypadku transakcji innych niż transakcje, które mają za przedmiot instrumenty pochodne
+
+Dane umieszczane w ewidencji zawartych transakcji:
+
+### 1)
+
+numer transakcji; w przypadku transakcji przy zobowiązaniu się do odkupu oraz transakcji pożyczki papierów wartościowych numer kolejny należy rozszerzyć o numer transakcji inicjującej;
+
+### 2)
+
+typ transakcji (kupno, sprzedaż, kupno w transakcji przy zobowiązaniu się do odkupu, sprzedaż w transakcji przy zobowiązaniu się do odkupu, pożyczka papierów wartościowych, inne[1) W przypadku wystąpienia tej kategorii należy odpowiednio określić typ transakcji, stosując nadaną nazwę jednolicie w odniesieniu do pozostałych transakcji danego typu.](#gloss-0:1:));
+
+### 3)
+
+identyfikator składnika lokat zawierający indywidualny kod (w szczególności kod ISIN) nadany przez właściwy organ (jeżeli taki istnieje), identyfikujący składnik lokat będący przedmiotem transakcji, a w przypadku gdy dany składnik lokat nie posiada indywidualnego kodu identyfikacyjnego - jego nazwa oraz nazwa skrócona;
+
+### 4)
+
+rodzaj składnika lokat (akcja, obligacja, bon skarbowy, inne[2b) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10). [I] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r.](#gloss-0:2b:));
+
+### 5)
+
+nazwa emitenta (wystawcy) lub innego podmiotu kreującego składnik lokat odpowiednio do charakteru składnika lokat; w przypadku walut - oznaczenie waluty, w przypadku lokat bankowych - nazwa banku;
+
+### 6)
+
+oznaczenie strony transakcji; w przypadku gdy:
+
+### a)
+
+stroną transakcji jest firma inwestycyjna, należy podać indywidualny kod tej firmy lub oznaczyć w inny sposób pozwalający na jej jednoznaczną identyfikację,
+
+### b)
+
+stroną transakcji jest rynek regulowany lub alternatywny system obrotu, należy podać indywidualny ujednolicony kod identyfikacyjny tego rynku lub alternatywnego systemu obrotu,
+
+### c)
+
+stroną transakcji jest podmiot inny niż wskazany w lit. a i b, podmiot taki należy oznaczyć w sposób pozwalający na jego jednoznaczną identyfikację;
+
+### 7)
+
+oznaczenie podmiotu pośredniczącego w transakcji pozwalające na jego jednoznaczną identyfikację;
+
+### 8)
+
+wskazanie imienia, nazwiska i pełnionej funkcji osoby fizycznej zatrudnionej w towarzystwie, która zrealizowała transakcję lub która odpowiada za jej realizację;
+
+### 9)
+
+data podjęcia decyzji o przekazaniu zlecenia do realizacji;
+
+### 10)
+
+data złożenia zlecenia;
+
+### 11)
+
+godzina złożenia zlecenia według czasu obowiązującego w Rzeczypospolitej Polskiej;
+
+### 12)
+
+data zawarcia transakcji;
+
+### 13)
+
+godzina zawarcia transakcji według czasu obowiązującego w Rzeczypospolitej Polskiej;
+
+### 14)
+
+data rozliczenia transakcji;
+
+### 15)
+
+cena jednostkowa bez uwzględnienia kosztów transakcyjnych, wyrażona w walucie, w której zawarto transakcję, lub walucie, w której są prowadzone księgi rachunkowe funduszu inwestycyjnego otwartego, ze wskazaniem kursu, po jakim dokonano przeliczenia;
+
+### 16)
+
+liczba składników lokat będących przedmiotem transakcji;
+
+### 17)
+
+całkowita cena transakcji, stanowiąca iloczyn wartości wskazanej w pkt 15 i 16;
+
+### 18)
+
+całkowita wartość transakcji z uwzględnieniem kosztów transakcyjnych;
+
+### 19)
+
+całkowita wartość kosztów transakcyjnych.
+
+1) W przypadku wystąpienia tej kategorii należy odpowiednio określić typ transakcji, stosując nadaną nazwę jednolicie w odniesieniu do pozostałych transakcji danego typu. 2b) Niniejsze rozporządzenie: 1) w zakresie swojej regulacji wdraża dyrektywę Komisji 2010/43/UE z dnia 1 lipca 2010 r. w sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE w zakresie wymogów organizacyjnych, konfliktów interesów, prowadzenia działalności, zarządzania ryzykiem i treści umowy pomiędzy depozytariuszem a spółką zarządzającą (Dz. Urz. UE L 176 z 10.07.2010, str. 42 oraz Dz. Urz. UE L 277 z 02.08.2021, str. 141); 2) służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2088 z dnia 27 listopada 2019 r. w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych (Dz. Urz. UE L 317 z 09.12.2019, str. 1, Dz. Urz. UE L 198 z 22.06.2020, str. 13 oraz Dz. Urz. UE L 48 z 11.02.2021, str. 10). [I] Odnośnik nr 2 w brzmieniu ustalonym przez § 1 pkt 1 rozporządzenia Ministra Finansów z dnia 26 lipca 2022 r. zmieniającego rozporządzenie w sprawie sposobu, trybu oraz warunków prowadzenia działalności przez towarzystwa funduszy inwestycyjnych (Dz. U. poz. 1605), które weszło w życie z dniem 1 sierpnia 2022 r.

@@ -1,0 +1,176 @@
+---
+title: Rozporządzenie Ministra Zdrowia z dnia 24 czerwca 2020 r. w sprawie zgłaszania wyników badań w kierunku biologicznych czynników chorobotwórczych u ludzi
+address: WDU20200001118
+eli: DU/2020/1118
+publisher: DU
+year: 2020
+pos: 1118
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Zdrowiaz dnia 24 czerwca 2020 r. w sprawie zgłaszania wyników badań w kierunku biologicznych czynników chorobotwórczych u ludzi [1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1118 |
+| ISAP | WDU20200001118 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2020-06-24 |
+| Data wydania | 2020-06-26 |
+| Wejście w życie | 2020-06-27 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2020/1118/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2020/1118) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia oraz przesłanki dokonywania zgłoszenia wyników badań w kierunku biologicznych czynników chorobotwórczych](#part_2)
+
+- [Załącznik nr 2 - Formularz zgłoszenia wyniku badania w kierunku biologicznych czynników chorobotwórczych (wzór)](#part_3)
+
+- [Załącznik nr 3 - Formularz zgłoszenia wyniku badania w kierunku gruźlicy (wzór)](#part_4)
+
+- [Załącznik nr 4 - Formularz zgłoszenia wyniku badania w kierunku ludzkiego wirusa niedoboru odporności (HIV) (wzór)](#part_5)
+
+TOC
+
+## Treść rozporządzenia
+
+Na podstawie art. 29 ust. 7 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ([Dz. U. z 2019 r. poz. 1239](https://api.sejm.gov.pl/eli/acts/DU/2019/1239/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875.](#gloss-0:2:)) zarządza się, co następuje:
+
+### § 1.
+
+Rozporządzenie określa:
+
+### 1)
+
+biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia, o którym mowa w art. 29 ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, zwanego dalej „zgłoszeniem”, oraz przesłanki dokonywania zgłoszeń, z uwzględnieniem zgłoszeń wyników dodatnich i ujemnych;
+
+### 2)
+
+sposób dokonywania zgłoszeń oraz właściwych państwowych inspektorów sanitarnych, którym są przekazywane zgłoszenia;
+
+### 3)
+
+wzory formularzy zgłoszeń.
+
+### § 2.
+
+### 1.
+
+Biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia oraz przesłanki dokonywania zgłoszenia, z uwzględnieniem zgłoszeń wyników dodatnich i ujemnych, określa załącznik nr 1 do rozporządzenia.
+
+### 2.
+
+Wzór formularza zgłoszenia wyniku badania w kierunku:
+
+### 1)
+
+biologicznych czynników chorobotwórczych określa załącznik nr 2 do rozporządzenia;
+
+### 2)
+
+gruźlicy określa załącznik nr 3 do rozporządzenia;
+
+### 3)
+
+ludzkiego wirusa niedoboru odporności (HIV) określa załącznik nr 4 do rozporządzenia.
+
+### § 3.
+
+### 1.
+
+Zgłoszenie jest dokonywane w postaci:
+
+### 1)
+
+elektronicznej - w formie dokumentu elektronicznego:
+
+### a)
+
+sporządzonego w systemie teleinformatycznym, w którym medyczne laboratorium diagnostyczne, zwane dalej „laboratorium”, gromadzi wyniki badań laboratoryjnych w kierunku biologicznych czynników chorobotwórczych, zwanych dalej „badaniami”, i przesłanego bezpośrednio do prowadzonego w systemie teleinformatycznym rejestru chorób zakaźnych o którym mowa w art. 30 ust. 1 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi - jeżeli pozwalają na to możliwości techniczne nadawcy i odbiorcy, albo
+
+### b)
+
+przesłanego za pomocą środków komunikacji elektronicznej w postaci zaszyfrowanej - jeżeli pozwalają na to możliwości techniczne nadawcy i odbiorcy, albo
+
+### 2)
+
+papierowej - przesyłką poleconą lub bezpośrednio, za pokwitowaniem w kopercie opatrzonej wyraźnym adresem zwrotnym nadawcy i oznaczeniem „ZLB”.
+
+### 2.
+
+W przypadku braku dostępu do systemów teleinformatycznych przeznaczonych do zgłaszania wyników badań w kierunku wirusa SARS-CoV-2 zgłoszenia dokonuje się w sposób określony w ust. 1 pkt 1 lit. b lub § 5 ust. 1.
+
+### § 4.
+
+### 1.
+
+Zgłoszenie:
+
+### 1)
+
+w postaci elektronicznej, o którym mowa w § 3 ust. 1 pkt 1 lit. a, jest przekazywane państwowemu powiatowemu inspektorowi sanitarnemu właściwemu ze względu na miejsce zamieszkania osoby, u której uzyskano wynik badania;
+
+### 2)
+
+w postaci elektronicznej, o którym mowa w § 3 ust. 1 pkt 1 lit. b, lub w postaci papierowej, o którym mowa w § 3 ust. 1 pkt 2, jest przekazywane państwowemu powiatowemu inspektorowi sanitarnemu właściwemu ze względu na miejsce wykonania badania.
+
+### 2.
+
+W przypadku gdy laboratorium nie posiada adresu miejsca zamieszkania osoby, u której uzyskano wynik badania, zgłoszenie jest przekazywane państwowemu powiatowemu inspektorowi sanitarnemu właściwemu dla miejsca wystawienia zlecenia lekarskiego, a w przypadku braku zlecenia lekarskiego - państwowemu powiatowemu inspektorowi sanitarnemu właściwemu dla miejsca pobrania próbki.
+
+### § 5.
+
+### 1.
+
+W przypadku wyniku badania wskazanego w części I załącznika nr 1 do rozporządzenia zgłoszenie jest dokonywane telefonicznie, a następnie nie później niż w ciągu 24 godzin od jego dokonania jest potwierdzane zgłoszeniem w postaci elektronicznej albo papierowej, o których mowa w § 3.
+
+### 2.
+
+W sposób określony w ust. 1 zgłasza się również wyniki badań wskazane w części II załącznika nr 1 do rozporządzenia, jeżeli w ocenie osoby zgłaszającej okoliczności wymagają lub mogą wymagać podjęcia przez organy Państwowej Inspekcji Sanitarnej natychmiastowych działań mających na celu ochronę zdrowia publicznego.
+
+### 3.
+
+Zgłoszenie telefoniczne jest dokonywane państwowemu powiatowemu inspektorowi sanitarnemu właściwemu ze względu na miejsce wykonania badania, na numer telefonu alarmowego opublikowany na stronie podmiotowej Biuletynu Informacji Publicznej właściwej stacji sanitarno-epidemiologicznej lub na inny numer telefonu wskazany podmiotom wykonującym działalność leczniczą przez państwowego powiatowego inspektora sanitarnego jako numer właściwy do zgłaszania wyników badania w kierunku biologicznych czynników chorobotwórczych.
+
+### 4.
+
+Zgłoszenie telefoniczne obejmuje dane, o których mowa w art. 29 ust. 3 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w zakresie koniecznym do podjęcia działań zapobiegawczych lub przeciwepidemicznych przez organy Państwowej Inspekcji Sanitarnej.
+
+### § 6.
+
+W przypadku wykonywania w laboratorium wielu badań materiału pobranego od pacjenta w czasie trwania tego samego zakażenia, zgłoszeniu podlega wyłącznie pierwszy wynik badania, chyba że wynik dotyczy badania potwierdzającego, badania polegającego na genotypowej lub fenotypowej charakterystyce biologicznego czynnika chorobotwórczego lub gdy przesłanki dokonywania zgłoszenia wymagają udokumentowania sekwencji badań.
+
+### § 7.
+
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.[3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 grudnia 2019 r. w sprawie zgłaszania dodatnich wyników badań w kierunku biologicznych czynników chorobotwórczych u ludzi (Dz. U. poz. 2465), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 20 ustawy z dnia 31 marca 2020 r. o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 567 i 695).](#gloss-0:3:)
+
+1) Minister Zdrowia kieruje działem administracji rządowej - zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 2269). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1495 oraz z 2020 r. poz. 284, 322, 374, 567 i 875. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Zdrowia z dnia 16 grudnia 2019 r. w sprawie zgłaszania dodatnich wyników badań w kierunku biologicznych czynników chorobotwórczych u ludzi (Dz. U. poz. 2465), które traci moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 20 ustawy z dnia 31 marca 2020 r. o zmianie niektórych ustaw w zakresie systemu ochrony zdrowia związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19 (Dz. U. poz. 567 i 695).
+
+## Załącznik nr 1 - Biologiczne czynniki chorobotwórcze podlegające obowiązkowi zgłoszenia oraz przesłanki dokonywania zgłoszenia wyników badań w kierunku biologicznych czynników chorobotwórczych
+
+### Część I. Biologiczne czynniki chorobotwórcze, których zgłoszenia są dokonywane telefonicznie i potwierdzane w postaci papierowej albo elektronicznej:
+
+Lp. Biologiczny czynnik chorobotwórczy podlegający obowiązkowi zgłoszenia Przesłanki dokonywania zgłoszenia wyników badań w kierunku biologicznych czynników chorobotwórczych Zgłoszenie wyniku dodatniego (D), ujemnego (U)Dołączenie sprawozdania z badań (S) 1 Bacillus anthracis(laseczka wąglika) - izolacja Bacillus anthracis z materiału klinicznego- wykrycie kwasu nukleinowego Bacillus anthracis w materiale klinicznym D, S 2 Brucella spp. - izolacja patogenicznego szczepu Brucella spp. z materiału klinicznego- wykazanie obecności swoistych przeciwciał przeciw patogenicznemu szczepowi Brucella spp.- wykrycie kwasu nukleinowego patogenicznego szczepu Brucella spp. D, S 3 Corynebacterium diphtheriaeCorynebacterium ulceransCorynebacterium pseudotuberculosis(maczugowiec błonicy) - izolacja z materiału klinicznego maczugowców wytwarzających toksynę błoniczą (wykazane testem potwierdzenia) D, S 4 Coxiella burnetii - wykazanie obecności swoistych przeciwciał przeciw Coxiella burnetii (IgG lub IgM faza II)- izolacja Coxiella burnetii w materiale klinicznym- wykrycie kwasu nukleinowego Coxiella burnetii w materiale klinicznym D, S 5 Wirus MERS - wykrycie kwasu nukleinowego wirusa w materiale klinicznym D, S 6 Neisseria meningitidis(dwoinka zapalenia opon mózgowo-rdzeniowych) - izolacja Neisseria meningitidis z każdego materiału klinicznego z wyjątkiem wymazu z nosogardła- wykrycie kwasu nukleinowego Neisseria meningitidis w każdym materiale klinicznym z wyjątkiem wymazu z nosogardła- wykrycie antygenu Neisseria meningitidis w płynie mózgowo-rdzeniowym- wykrycie dwoinek Gram-ujemnych w płynie mózgowo-rdzeniowym (preparat bezpośredni) D, S 7 Vibrio cholerae(przecinkowiec cholery) - izolacja Vibrio cholerae O1 lub O139 z materiału klinicznego i potwierdzenie jego toksynotwórczości- wykrycie w kwasie nukleinowym Vibrio cholerae genu warunkującego toksynotwórczość szczepu D, S 8 Wirus Ebola - izolacja wirusa Ebola z materiału klinicznego- wykrycie kwasu nukleinowego wirusa Ebola w materiale klinicznym D, S 9 Wirus grypy - szczep nowy lub niesubtypowalny - wykrycie kwasu nukleinowego niesubtypowalnego wirusa grypy typu A lub typu B w materiale klinicznym D, S 10 Wirus grypy ptaków u ludzi - izolacja podtypów H5 lub H7 wirusów grypy ptaków (H5N1, H7N9, H5N6, H5N8) z materiału klinicznego- wykrycie kwasu nukleinowego podtypów H5 lub H7 wirusów grypy ptaków (H5N1, H7N9, H5N6, H5N8) w materiale klinicznym- wzrost miana swoistych przeciwciał przeciw podtypom H5 lub H7 wirusów grypy (H5N1, H7N9, H5N6, H5N8) (co najmniej czterokrotny wzrost poziomu swoistych przeciwciał lub wysokie miano swoistych przeciwciał w pojedynczym oznaczeniu) D, S 11 Wirus odry - izolacja wirusa odry z materiału klinicznego- wykrycie kwasu nukleinowego wirusa odry w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw wirusowi odry w klasie IgM- wykrycie w materiale klinicznym antygenu wirusa odry metodą immunofluorescencji bezpośredniej z użyciem swoistych przeciwciał monoklonalnych odry D, S 12 Wirusy polio - izolacja wirusa polio z materiału klinicznego D, S 13 Wirus SARS-CoV-2 - wykrycie kwasu nukleinowego wirusa SARS-CoV-2 w materiale klinicznym potwierdzone badaniem molekularnym ukierunkowanym na inny obszar genomu wirusa w przypadku określonym w § 3 ust. 2 rozporządzenia - D 14 Wirusy wywołujące wirusowe gorączki krwotoczne - izolacja określonego wirusa z materiału klinicznego- wykrycie kwasu nukleinowego określonego wirusa w materiale klinicznym D, S 15 Yersinia pestis(pałeczka dżumy) - izolacja Yersinia pestis z materiału klinicznego- wykrycie kwasu nukleinowego Yersinia pestis w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw Yersinia pestis D, S
+
+### Część II. Biologiczne czynniki chorobotwórcze, których zgłoszenia są dokonywane w postaci elektronicznej albo papierowej, a w przypadku gdy w ocenie osoby zgłaszającej okoliczności wymagają lub mogą wymagać podjęcia przez organy Państwowej Inspekcji Sanitarnej natychmiastowych działań mających na celu ochronę zdrowia publicznego - telefonicznie:
+
+Lp. Biologiczny czynnik chorobotwórczy podlegający obowiązkowi zgłoszenia Przesłanki dokonywania zgłoszenia dodatnich wyników badań w kierunku biologicznych czynników chorobotwórczych Zgłoszenie wyniku dodatniego (D)Dołączenie sprawozdania z badań (S) 1 Anaplasma sp. - wykazanie znamiennej dynamiki swoistych przeciwciał przeciw Anaplasma sp. lub wykrycie ich na poziomie diagnostycznie znamiennym- wykrycie kwasu nukleinowego Anaplasma sp. we krwi D 2 Bordetella pertussis(pałeczka krztuśca) - izolacja Bordetella pertusiss z materiału klinicznego- wykrycie kwasu nukleinowego Bordetella pertusiss w materiale klinicznym- wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw toksynie krztuścowej D 3 Borrelia burgdorferi sensu lato - wykazanie w płynie mózgowo-rdzeniowym obecności swoistych przeciwciał przeciw Borrelia burgdorferi lub materiału genetycznego D, S 4 Burkholderia mallei - izolacja Burkholderia mallei z materiału klinicznego- wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw Burkholderia mallei lub wykrycie ich na poziomie diagnostycznie znamiennym D 5 Campylobacter spp. - izolacja patogenicznego szczepu Campylobacter spp. z materiału klinicznego- wykrycie kwasu nukleinowego Campylobacter spp. w materiale klinicznym D 6 Chlamydia trachomatis - izolacja Chlamydia trachomatis z materiału klinicznego pobranego z układu moczowo-płciowego, z okolic odbytu, ze spojówek lub gardła- wykrycie Chlamydia trachomatis w materiale klinicznym metodą immunofluoroscencji bezpośredniej- wykrycie kwasu nukleinowego Chlamydia trachomatis w materiale klinicznym D 7 Clostridium botulinum(laseczka jadu kiełbasianego) - wykrycie toksyny botulinowej w materiale klinicznym w próbie biologicznej lub badaniu immunologicznym- wykrycie genów kodujących neurotoksyny botulinowe w materiale klinicznym- izolacja Clostridium wytwarzającego neurotoksyny botulinowe z materiału klinicznego D 8 Clostridium difficile - wykrycie toksyny A lub B Clostridium difficile w materiale klinicznym- izolacja toksynotwórczego szczepu Clostridium difficile z materiału klinicznego- wykrycie genu kodującego wytwarzanie toksyny A lub B Clostridium difficile w materiale klinicznym D 9 Clostridium perfringens(laseczka zgorzeli gazowej) - izolacja Clostridium perfringens z materiału klinicznego D 10 Cryptosporidium(kryptosporydium - pierwotniak układu pokarmowego) - wykrycie oocyst Cryptosporidium w kale- wykrycie antygenu Cryptosporidium w kale- wykrycie kwasu nukleinowego Cryptosporidium w kale- wykrycie Cryptosporidium w treści jelitowej lub w materiale pobranym z biopsji jelita cienkiego D 11 Echinococcus granulosus(zarażenie postacią larwalną tasiemca bąblowcowego tworzącego torbiele jednojamowe) - wykrycie elementów Echinococcus granulosus w materiale klinicznym w badaniu parazytologicznym lub histopatologicznym - wykazanie obecności swoistych przeciwciał przeciw Echinococcus granulosus testem potwierdzenia western-blot- wykrycie kwasu nukleinowego Echinococcus granulosus w materiale klinicznym D, S 12 Echinococcus multilocularis(zarażenie postacią larwalną tasiemca bąblowcowego tworzącego torbiele wielojamowe) - wykrycie elementów Echinococcus multilocularis w materiale klinicznym w badaniu parazytologicznym lub histopatologicznym- wykazanie obecności swoistych przeciwciał przeciw Echinococcus multilocularis testem potwierdzenia western-blot- wykrycie kwasu nukleinowego Echinococcus multilocularis w materiale klinicznym D, S 13 Enterobacterales produkujące karbapenemazy (CPE) - wykrycie CPE w materiale klinicznym D 14 Escherichia coli(werotoksyczne pałeczki okrężnicy - STEC/VTEC) - izolacja pałeczki okrężnicy z materiału klinicznego i uzyskanie wyniku dodatniego testu immunologicznego wykrywającego werotoksyny (niezależnie od tego, czy rozpoznano typ serologiczny szczepu)- wykrycie w kwasie nukleinowym szczepu Escherichia coli genu kodującego wytwarzanie werotoksyny- wykrycie wolnej werotoksyny w bezpośrednim badaniu kału testem immunologicznym lub na linii komórkowej Vero, potwierdzone testem neutralizacji D 15 Francisella tularensis(pałeczka tularemii) - izolacja Francisella tularensis z materiału klinicznego- wykrycie kwasu nukleinowego Francisella tularensis w materiale klinicznym- wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw Francisella tularensis lub wykrycie ich na poziomie diagnostycznie znamiennym D 16 Giardia lamblia(giardia - pierwotniak układu pokarmowego) - wykrycie obecności cyst/trofozoitów Giardia lamblia w kale- wykrycie antygenu Giardia lamblia w kale- wykrycie kwasu nukleinowego Giardia lamblia w kale- wykrycie obecności form rozwojowych lub kwasu nukleinowego Giardia lamblia w treści dwunastniczej lub materiale z biopsji jelita cienkiego D 17 Haemophilus influenzae - izolacja Haemophilus infuenzae z materiału klinicznego pobranego z miejsca, które w warunkach prawidłowych jest jałowe- wykrycie kwasu nukleinowego Haemophilus infuenzae w materiale klinicznym pobranym z miejsca, które w warunkach prawidłowych jest jałowe D 18 HIV typ 1 i 2 - ludzki wirus niedoboru odporności - izolacja wirusa z materiału klinicznego- wykrycie kwasu nukleinowego RNA wirusa w materiale klinicznym- wykazanie swoistych przeciwciał w teście potwierdzenia (niezależne od tego, czy rozpoznano typ wirusa)- dodatni wynik dwóch testów na przeciwciała EIA, potwierdzony dodatnim wynikiem kolejnego testu EIA innego typu u osoby powyżej 24 miesiąca życia D, S 19 Legionella pneumophila(pałeczka legionelozy) - izolacja pałeczek z rodzaju Legionella spp. z wydzieliny drzewa oskrzelowego lub miejsca, które w warunkach prawidłowych jest jałowe- wykrycie kwasu nukleinowego Legionella spp. w materiale klinicznym- wykrycie antygenu Legionella pneumophila w moczu- wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw pałeczkom z rodzaju Legionella pneumophila lub wykrycie ich na poziomie diagnostycznie znamiennym D, S 20 Leptospira spp. - izolacja Leptospira interrogans lub dowolnego innego patogenicznego szczepu Leptospira spp. z materiału klinicznego- wykrycie kwasu nukleinowego Leptospira interrogans lub dowolnego innego patogenicznego szczepu Leptospira spp. w materiale klinicznym- wykazanie obecności Leptospira interrogans lub dowolnego innego patogenicznego szczepu Leptospira spp. w materiale klinicznym metodą immunofluoroscencji- wykazanie obecności swoistych przeciwciał przeciw Leptospira spp. D 21 Listeria monocytogenes(pałeczka listeriozy) - izolacja Listeria monocytogenes z materiału klinicznego pobranego z miejsca, które w warunkach prawidłowych jest jałowe, lub z miejsca, które w warunkach prawidłowych nie jest jałowe, od płodu, płodu martwo urodzonego, niemowlęcia lub matki w ciągu 24 godzin od porodu- wykrycie kwasu nukleinowego Listeria monocytogenes w materiale klinicznym pobranym z miejsca, które w warunkach prawidłowych jest jałowe, lub z miejsca, które w warunkach prawidłowych nie jest jałowe, od płodu, płodu martwo urodzonego, niemowlęcia lub matki w ciągu 24 godzin od porodu D 22 Mycobacterium tuberculosis complex - wykrycie prątków kwasoopornych w plwocinie lub innym materiale klinicznym pobranym z dróg oddechowych chorego i wykazanie badaniem molekularnym przynależności prątków do kompleksu Mycobacterium tuberculosis (gruźlica w okresie prątkowania)- izolacja z materiału klinicznego prątków należących do kompleksu Mycobacterium tuberculosis- wykrycie wielolekooporności typu MDR prątków należących do kompleksu Mycobacterium tuberculosis D, S 23 Neisseria gonorrhoeae(dwoinka rzeżączki) - wykrycie Neisseria gonorrhoeae w materiale klinicznym (preparat bezpośredni)- izolacja Neisseria gonorrhoeae z materiału klinicznego- wykrycie kwasu nukleinowego Neisseria gonorrhoeae w materiale klinicznym D 24 Norowirusy - wykrycie antygenu norowirusa w materiale klinicznym- wykrycie kwasu nukleinowego norowirusa w materiale klinicznym D 25 Plasmodium spp.(zarodźce malarii) - wykrycie obecności zarodźców malarii w rozmazach krwi metodą mikroskopii świetlnej - należy podać gatunek Plasmodium- wykrycie kwasu nukleinowego zarodźców malarii we krwi - należy podać gatunek Plasmodium- wykrycie antygenu zarodźców malarii we krwi - jeżeli to możliwe należy wykonać dalsze badania w celu potwierdzenia/określenia gatunku Plasmodium D 26 Priony - postać CJD - stwierdzenie typowych zmian neuropatologicznych w badaniu histopatologicznym lub immunocytochemicznym materiału klinicznego pochodzącego z biopsji mózgu lub pobranego post mortem lub stwierdzenie tych zmian w badaniu mikroskopem elektronowym- wykrycie białka 14-3-3 w płynie mózgowo--rdzeniowym D 27 Priony - postać v-CJD - stwierdzenie typowych zmian neuropatologicznych w badaniu histopatologicznym lub immunocytochemicznym materiału klinicznego pochodzącego z biopsji mózgu lub pobranego post mortem lub stwierdzenie tych zmian w badaniu mikroskopem elektronowym D 28 Rickettsia prowazekii - wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw riketsjom z grupy duru wysypkowego lub wykrycie ich na poziomie diagnostycznie znamiennym- wykrycie kwasu nukleinowego Rickettsia prowazekii w materiale klinicznym pobranym ze zmian na skórze lub wykrycie go we krwi D 29 Rickettsia spp. - wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw riketsjom z grupy gorączek plamistych lub wykrycie ich na poziomie diagnostycznie znamiennym- wykrycie kwasu nukleinowego Rickettsia spp. w materiale klinicznym pobranym ze zmiany pierwotnej na skórze lub wykrycie go we krwi D 30 Rotawirusy - wykrycie antygenu rotawirusa w materiale klinicznym- wykrycie kwasu nukleinowego rotawirusa w materiale klinicznym- izolacja rotawirusa z materiału klinicznego D 31 Salmonella spp.(odzwierzęce typy serologiczne) - izolacja pałeczek Salmonella nie-Typhi i nie-Paratyphi A, B, C z materiału klinicznego- wykrycie kwasu nukleinowego Salmonella nie-Typhi i nie-Paratyphi A,B, C w materiale klinicznym- typowanie serologiczne D 32 Salmonella Typhi(pałeczka duru brzusznego) - izolacja pałeczek duru brzusznego z materiału klinicznego- wykrycie materiału genetycznego pałeczek duru brzusznego w materiale klinicznym- typowanie serologiczne D 33 Salmonella Paratyphi A, B i C(pałeczki durów rzekomych A, B i C) - izolacja pałeczek durów rzekomych z materiału klinicznego- wykrycie materiału genetycznego pałeczek duru brzusznego w materiale klinicznym- typowanie serologiczne D 34 Shigella spp. (pałeczka czerwonki) - izolacja pałeczek czerwonki z materiału klinicznego- wykrycie kwasu nukleinowego pałeczek czerwonki w materiale klinicznym- typowanie serologiczne D 35 Streptococcus pneumoniae(dwoinka zapalenia płuc) - izolacja Streptococcus pneumoniae z materiału klinicznego pobranego z miejsca, które w warunkach prawidłowych jest jałowe- wykrycie kwasu nukleinowego Streptococcus pneumoniae w materiale klinicznym pobranym z miejsca, które w warunkach prawidłowych jest jałowe- wykrycie antygenu Streptococcus pneumoniae w materiale klinicznym pobranym z miejsca, które w warunkach prawidłowych jest jałowe D 36 Streptococcus pyogenes - izolacja Streptococcus pyogenes z materiału klinicznego pobranego z miejsca, które w warunkach prawidłowych jest jałowe- wykrycie kwasu nukleinowego Streptococcus pyogenes w materiale klinicznym pobranym z miejsca, które w warunkach prawidłowych jest jałowe D 37 Taenia solium(forma tkankowa zarażenia tasiemcem T. solium - wągrzyca) - wykrycie kwasu nukleinowego Taenia solium w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw Teania solium D 38 Toxoplasma gondii(przypadki zarażenia wrodzonego pierwotniakiem T. gondii) - wykrycie kwasu nukleinowego Toxoplasma gondii w płynie owodniowym u matki- wykrycie obecności Toxoplasma gondii w płynie mózgowo-rdzeniowym płodu/noworodka- wykazanie obecności swoistych przeciwciał IgM lub IgA przeciw Toxoplasma gondii u noworodka- wykazanie różnego profilu swoistych przeciwciał IgG przeciw Toxoplasma gondii u noworodka i matki w testach westen-blot i ELIFA- wykazanie w prowadzonym od urodzenia monitoringu serologicznym dziecka w wieku 11-12 miesięcy życia utrzymywania się swoistych przeciwciał IgG przeciw Toxoplasma gondii D 39 Trichinella spp.(włośnie, larwy nicieni gatunków Trichinella) - wykazanie obecności larw Trichinella spp. w bioptacie mięśnia- wykazanie obecności swoistych przeciwciał przeciw Trichinella spp. testem IFA, ELISA lub western-blot D 40 Wirus chikungunya - izolacja wirusa chikungunya z materiału klinicznego- wykrycie kwasu nukleinowego wirusa chikungunya w materiale klinicznym- wykazanie obecności swoistych przeciwciał IgM przeciw wirusowi chikungunya w pojedynczej próbce surowicy oraz potwierdzenie w drodze neutralizacji- stwierdzenie serokonwersji lub czterokrotnego wzrostu miana swoistych przeciwciał przeciw wirusowi chikungunya w dwukrotnych próbkach surowicy D, S 41 Wirus denga - izolacja wirusa dengi z materiału klinicznego- wykrycie antygenu wirusa dengi w materiale klinicznym- wykrycie kwasu nukleinowego wirusa dengi w materiale klinicznym- wykazanie obecności swoistych przeciwciał IgM przeciw wirusowi dengi w pojedynczej próbce surowicy- potwierdzenie obecności swoistych przeciwciał IgM przeciw wirusowi dengi w teście neutralizacji- stwierdzenie serokonwersji lub czterokrotnego wzrostu miana swoistych przeciwciał przeciw wirusowi dengi w dwukrotnych próbkach surowicy D, S 42 Wirus gorączki Zachodniego Nilu - izolacja wirusa gorączki Zachodniego Nilu z krwi lub płynu mózgowo-rdzeniowego- wykrycie kwasu nukleinowego wirusa gorączki Zachodniego Nilu w moczu, krwi lub płynie mózgowo-rdzeniowym- wykazanie obecności swoistych przeciwciał IgM przeciw wirusowi gorączki Zachodniego Nilu w płynie mózgowo--rdzeniowym- wysokie miano swoistych przeciwciał IgM przeciw wirusowi gorączki Zachodniego Nilu oraz wykrycie swoistych przeciwciał IgG przeciw wirusowi gorączki Zachodniego Nilu w surowicy oraz potwierdzenie testem neutralizacji D, S 43 Wirus grypy - izolacja wirusa grypy typu A lub typu B z materiału klinicznego- wykrycie kwasu nukleinowego wirusa grypy typu A lub typu B w materiale klinicznym- wykrycie antygenu wirusa grypy metodą immunofluorescencji bezpośredniej w materiale klinicznym D 44 Wirus kleszczowego zapalenia mózgu (KZM) - izolacja wirusa KZM z materiału klinicznego- wykrycie kwasu nukleinowego wirusa KZM w materiale klinicznym- wykazanie obecności swoistych przeciwciał IgM oraz IgG przeciw wirusowi KZM we krwi- wykazanie obecności swoistych przeciwciał IgM przeciw wirusowi KZM w płynie mózgowo-rdzeniowym- wykazanie serokonwersji lub czterokrotnego wzrostu miana swoistych przeciwciał przeciw wirusowi KZM w badaniu dwóch próbek surowicy D 45 Wirus różyczki - izolacja wirusa różyczki z materiału klinicznego- wykrycie kwasu nukleinowego wirusa różyczki w materiale klinicznym- wykazanie obecności swoistych przeciwciał w klasie IgM przeciw wirusowi różyczki- serokonwersja lub wykazanie znamiennego wzrostu poziomu swoistych przeciwciał przeciw wirusowi różyczki w klasie IgG D, S 46 Wirus świnki (nagminnego zapalenia przyusznic) - izolacja wirusa świnki z materiału klinicznego- wykrycie kwasu nukleinowego wirusa świnki w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw wirusowi świnki w klasie IgM w surowicy lub ślinie- wykazanie znamiennej dynamiki poziomu swoistych przeciwciał przeciw wirusowi świnki D 47 Wirus wścieklizny - izolacja wirusa wścieklizny z materiału klinicznego- wykrycie kwasu nukleinowego wirusa wścieklizny w materiale klinicznym- wykrycie antygenu wirusa wścieklizny metodą immunofluorescencji bezpośredniej w materiale klinicznym- wykazanie testem neutralizacji obecności swoistych przeciwciał przeciw wirusowi wścieklizny w surowicy krwi lub płynie mózgowo-rdzeniowym u osób, które nie były szczepione lub nie otrzymały immunoglobuliny D, S 48 Wirus zapalenia wątroby typu A (WZW A) - wykrycie kwasu nukleinowego wirusa WZW A w materiale klinicznym (surowicy krwi lub stolcu)- wykazanie obecności swoistych przeciwciał w klasie IgM przeciw wirusowi WZW A- wykazanie obecności swoistych przeciwciał łącznie w klasach IgM i IgG przeciw wirusowi WZW A- wzrost miana swoistych przeciwciał przeciw wirusowi WZW A- wykrycie antygenu wirusa WZW A w stolcu D 49 Wirus zapalenia wątroby typu B (WZW B) - wykrycie kwasu nukleinowego wirusa WZW B w materiale klinicznym- wykazanie obecności swoistych przeciwciał w klasie IgM przeciw antygenowi rdzeniowemu wirusa WZW B (anti-HBc IgM)- wykrycie antygenu powierzchniowego wirusa WZW B (HBsAg)- wykrycie antygenu e wirusa WZW B (HBeAg) D 50 Wirus zapalenia wątroby typu C (WZW C) - wykrycie kwasu nukleinowego wirusa WZW C w materiale klinicznym- wykrycie antygenu rdzeniowego wirusa WZW C w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw wirusowi WZW C, potwierdzone testem potwierdzającym obecność swoistych przeciwciał przeciw wirusowi WZW C u osób starszych niż 18 miesięcy D 51 Wirus żółtej gorączki - izolacja wirusa żółtej gorączki z materiału klinicznego- wykrycie kwasu nukleinowego wirusa żółtej gorączki w materiale klinicznym- wykrycie antygenu wirusa żółtej gorączki w materiale klinicznym- wykazanie obecności swoistych przeciwciał przeciw wirusowi żółtej gorączki w materiale klinicznym D, S 52 Yersinia enterocolitica Yersinia pseudotuberculosis(pałeczki jersiniozy) - izolacja Yersinia pseudotuberculosis lub patogenicznego szczepu pałeczki Yersinia enterocolitica z materiału klinicznego- wykrycie genów patogenności Yersinia enterocolitica lub Yersinia pseudotuberculosis w materiale klinicznym D 53 Treponema pallidum(krętek blady) - wykrycie Treponema pallidum w wydzielinie lub tkance pobranej ze zmiany pierwotnej lub wykwitów kiły II-rzędowej w badaniu mikroskopowym w ciemnym polu widzenia (preparat bezpośredni)- wykrycie Treponema pallidum w materiale klinicznym (wydzielinie lub tkance pobranej ze zmiany pierwotnej) metodą immunofluorescencji- wykrycie kwasu nukleinowego Treponema pallidum w wydzielinie lub tkance pobranej ze zmiany- wykazanie obecności swoistych przeciwciał przeciw Treponema pallidum metodą testu przesiewowego (krętkowego lub niekrętkowego) oraz dodatkowo wykazanie swoistych przeciwciał przeciw Treponema pallidum innym testem D
+
+## Załącznik nr 2 - Formularz zgłoszenia wyniku badania w kierunku biologicznych czynników chorobotwórczych (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2020/1118/text.pdf)
+
+## Załącznik nr 3 - Formularz zgłoszenia wyniku badania w kierunku gruźlicy (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2020/1118/text.pdf)
+
+## Załącznik nr 4 - Formularz zgłoszenia wyniku badania w kierunku ludzkiego wirusa niedoboru odporności (HIV) (wzór)
+
+[patrz oryginał](https://api.sejm.gov.pl/eli/acts/DU/2020/1118/text.pdf)

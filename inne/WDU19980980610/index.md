@@ -8,11 +8,9 @@ pos: 610
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o pracowniczych programach emerytalnych oraz o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
-
-*USTAWA z dnia 24 lipca 1998 r.*
+# Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy o pracowniczych programach emerytalnych oraz o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +22,62 @@ domain: null
 | Data ogłoszenia | 1998-07-24 |
 | Data wydania | 1998-07-31 |
 | Ostatnia zmiana | 2024-03-15 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980980610) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/610/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/1998/610/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/1998/610) |
 
-**Art. 1.** W ustawie z dnia 22 sierpnia 1997 r. o pracowniczych programach emerytalnych (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:3)(cid:4)(cid:6)(cid:11)(cid:10)(cid:15)(cid:16)(cid:6)(cid:17)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:20)(cid:21)(cid:6)(cid:17)(cid:22)(cid:8)(cid:18)(cid:3)(cid:22)(cid:6)(cid:23)(cid:3)(cid:6)(cid:24)(cid:25)(cid:26)(cid:27)(cid:28)(cid:6)(cid:9)(cid:6)(cid:29)(cid:19)(cid:22)(cid:30)(cid:3)(cid:25)(cid:26)(cid:18)(cid:6)(cid:9)(cid:11)(cid:11)(cid:11)(cid:6)(cid:8)(cid:4)(cid:23)(cid:6)(cid:3)(cid:18)(cid:29)(cid:19)(cid:31)(cid:13) !(cid:27)(cid:6)(cid:29)(cid:26)(cid:31) wyrazami "z dniem 1 kwietnia 1999 r.".
+## Treść ustawy
 
-**Art. 2.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy eme(cid:8)(cid:22)(cid:19)(cid:18)"(cid:25)(cid:22)(cid:30)#(cid:6)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:4)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:3)(cid:4)(cid:6)(cid:11)(cid:10)(cid:20)(cid:16)(cid:6)(cid:17)(cid:13)(cid:8)(cid:14)(cid:17)(cid:18)(cid:24)(cid:3)(cid:18)(cid:6)(cid:29)(cid:26)(cid:31)(cid:6)(cid:25)(cid:18)(cid:29)(cid:19)(cid:31)(cid:13) !$ce zmiany: (cid:9)(cid:16)(cid:6)(cid:13)(cid:14)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:6)(cid:24)(cid:14)(cid:24)(cid:18)!(cid:27)(cid:6)(cid:29)(cid:26)(cid:31)(cid:6)(cid:18)(cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:18)(cid:6)(cid:17)(cid:6)&(cid:8)(cid:3)(cid:28)(cid:26)(cid:27)(cid:25)(cid:26) ’ (cid:23)((cid:8)(cid:19)(cid:4)(cid:6)(cid:15)(cid:10)%(cid:18)(cid:4)(cid:6)(cid:2)(cid:14)(cid:6)(cid:24)(cid:25)(cid:26)(cid:18)(cid:6)(cid:9))(cid:6)" (cid:19)(cid:27)*(cid:14)(cid:6)(cid:9)(cid:11)(cid:11)(cid:11)(cid:6)(cid:8)(cid:4)(cid:6)!(cid:27)(cid:29)(cid:19)(cid:6)(cid:3)(cid:18)&(cid:8)(cid:14)(cid:25)(cid:26)(cid:14)(cid:25)(cid:27)(cid:6)(cid:13)(cid:8)(cid:14)(cid:17)(cid:18)(cid:24)(cid:3)(cid:27)(cid:25)(cid:26)(cid:27)(cid:6)(cid:24)(cid:3)(cid:26)(cid:18)+(cid:18)"(cid:25)o,(cid:30)(cid:26)(cid:6)(cid:18)-(cid:17)(cid:26)(cid:3)(cid:22)(cid:30)(cid:22)!(cid:25)(cid:27)!(cid:12)(cid:6)(cid:17)(cid:6)(cid:19)(cid:22)(cid:28)(cid:6)(cid:8)(cid:27)-"(cid:18)(cid:28)(cid:14)(cid:17)(cid:27)!(cid:12)(cid:6)(cid:25)(cid:18)(cid:6)(cid:8)(cid:3)(cid:27)(cid:30)(cid:3)(cid:6)(cid:14)(cid:19)(cid:17)(cid:18)(cid:8)(cid:19)(cid:22)(cid:30)#(cid:6). (cid:25)(cid:24)u(cid:29)(cid:3)(cid:22)(cid:6)(cid:27)(cid:28)(cid:27)(cid:8)(cid:22)(cid:19)(cid:18)"(cid:25)(cid:22)(cid:30)#(cid:6)(cid:14)(cid:8)(cid:18)(cid:3)(cid:6)(cid:17)(cid:22)-(cid:14)(cid:25)(cid:22)(cid:17)(cid:18)(cid:25)(cid:26)(cid:27)(cid:6)(cid:30)(cid:3)(cid:22)(cid:25)(cid:25)(cid:14),(cid:30)(cid:26)(cid:6)(cid:18)-(cid:17)(cid:26)(cid:3)(cid:22)(cid:30)(cid:22)!(cid:25)(cid:22)(cid:30)#(cid:6)(cid:25)(cid:18) rzecz tych funduszy.";
+### Art. 1.
 
+W ustawie z dnia 22 sierpnia 1997 r. o pracowniczych programach emerytalnych ([Dz. U. Nr 139, poz. 932](https://api.sejm.gov.pl/eli/acts/DU/1997/932/text.html)) w art. 46 wyrazy „z dniem 1 stycznia 1999 r.” zastępuje się wyrazami „z dniem 1 kwietnia 1999 r.”
+
+### Art. 2.
+
+W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych ([Dz. U. Nr 139, poz. 934](https://api.sejm.gov.pl/eli/acts/DU/1997/934/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+po art. 230 dodaje się art. 230a w brzmieniu:
+
+„
+
+### Art. 230a.
+
+Do dnia 15 lutego 1999 r. jest zabronione prowadzenie działalności akwizycyjnej, w tym reklamowej, na rzecz otwartych funduszy emerytalnych oraz wykonywania czynności akwizycyjnych na rzecz tych funduszy.
+
+” ;
+
+### 2)
+
+w art. 231:
+
+### a)
+
+wyrazy „z dniem 1 stycznia 1999 r.” zastępuje się wyrazami „z dniem 1 kwietnia 1999 r.”,
+
+### b)
+
+pkt 2 otrzymuje brzmienie:
+
+„
+
+### 2)
+
+art. 1-60, art. 92-94, art. 152, art. 157-164, art. 197, art. 215-222 i art. 230a, które wchodzą w życie z dniem 1 sierpnia 1998 r.,
+
+”
+
+### c)
+
+po pkt 2 dodaje się pkt 3 w brzmieniu:
+
+„
+
+### 3)
+
+art. 81-85, art. 90, art. 98 i art. 189-190, które wchodzą w życie z dniem 1 marca 1999 r.
+
+”
+
+### Art. 3.
+
+Ustawa wchodzi w życie z dniem ogłoszenia.

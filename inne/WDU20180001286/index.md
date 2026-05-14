@@ -1,0 +1,496 @@
+---
+title: "Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 12 czerwca 2018 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy"
+address: WDU20180001286
+eli: DU/2018/1286
+publisher: DU
+year: 2018
+pos: 1286
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "eli-html"
+---
+# Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznejz dnia 12 czerwca 2018 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy [1) Obecnie działem administracji rządowej - praca kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329).](#gloss-0:1:)
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1286 |
+| ISAP | WDU20180001286 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-06-12 |
+| Data wydania | 2018-07-03 |
+| Wejście w życie | 2018-08-21 |
+| Ostatnia zmiana | 2026-04-01 |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2018/1286/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2018/1286) |
+
+## Spis treści
+
+- [Treść rozporządzenia](#part_1)
+
+- [Załącznik nr 1 - Wykaz wartości najwyższych dopuszczalnych stężeń chemicznych i pyłowych czynników szkodliwych dla zdrowia w środowisku pracy](#part_2)
+
+- [Załącznik nr 2 - Wykaz wartości najwyższych dopuszczalnych natężeń fizycznych czynników szkodliwych dla zdrowia w środowisku pracy](#part_3)
+
+TOC
+
+## Treść rozporządzenia
+
+[2) Niniejsze rozporządzenie: 1) wdraża dyrektywę Komisji (UE) 2017/164 z dnia 31 stycznia 2017 r. ustanawiającą czwarty wykaz wskaźnikowych dopuszczalnych wartości narażenia zawodowego zgodnie z dyrektywą Rady 98/24/WE oraz zmieniającą dyrektywy Komisji 91/322/EWG, 2000/39/WE i 2009/161/UE (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 27 z 1.02.2017, str. 115-120); 2) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2398 z dnia 12 grudnia 2017 r. zmieniającą dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 345 z 27.12.2017, str. 87-95).](#gloss-0:2:) Na podstawie art. 228 § 3 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ([Dz. U. z 2018 r. poz. 917](https://api.sejm.gov.pl/eli/acts/DU/2018/917/text.html), [1000](https://api.sejm.gov.pl/eli/acts/DU/2018/1000/text.html) i [1076](https://api.sejm.gov.pl/eli/acts/DU/2018/1076/text.html)) zarządza się, co następuje:
+
+### § 1.
+
+### 1.
+
+Ustala się wartości najwyższych dopuszczalnych stężeń chemicznych i pyłowych czynników szkodliwych dla zdrowia w środowisku pracy, określone w wykazie stanowiącym załącznik nr 1 do rozporządzenia.
+
+### 2.
+
+Ustala się wartości najwyższych dopuszczalnych natężeń fizycznych czynników szkodliwych dla zdrowia w środowisku pracy, określone w wykazie stanowiącym załącznik nr 2 do rozporządzenia.
+
+### § 2.
+
+Wartości, o których mowa w § 1 ust. 1, określają najwyższe dopuszczalne stężenia czynników szkodliwych dla zdrowia, ustalone jako:
+
+### 1)
+
+najwyższe dopuszczalne stężenie (NDS) - wartość średnia ważona stężenia, którego oddziaływanie na pracownika w ciągu 8-godzinnego dobowego i przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy, przez okres jego aktywności zawodowej nie powinno spowodować ujemnych zmian w jego stanie zdrowia oraz w stanie zdrowia jego przyszłych pokoleń;
+
+### 2)
+
+najwyższe dopuszczalne stężenie chwilowe (NDSCh) - wartość średnia stężenia, które nie powinno spowodować ujemnych zmian w stanie zdrowia pracownika, jeżeli występuje w środowisku pracy nie dłużej niż 15 minut i nie częściej niż 2 razy w czasie zmiany roboczej, w odstępie czasu nie krótszym niż 1 godzina;
+
+### 3)
+
+najwyższe dopuszczalne stężenie pułapowe (NDSP) - wartość stężenia, która ze względu na zagrożenie zdrowia lub życia pracownika nie może być w środowisku pracy przekroczona w żadnym momencie.
+
+### § 3.
+
+Wartości, o których mowa w § 1 ust. 2, określają najwyższe dopuszczalne natężenia fizycznego czynnika szkodliwego dla zdrowia, ustalone jako poziomy ekspozycji odpowiednio do właściwości poszczególnych czynników, których oddziaływanie na pracownika w okresie jego aktywności zawodowej nie powinno spowodować ujemnych zmian w jego stanie zdrowia oraz w stanie zdrowia jego przyszłych pokoleń.
+
+### § 4.
+
+Dla sektora górnictwa podziemnego i budowy tuneli, do dnia 21 sierpnia 2023 r., dla tlenku azotu obowiązują wartości NDS - 3,5 mg/m3 i NDSCh - 7 mg/m3.
+
+### § 5.
+
+Traci moc rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 6 czerwca 2014 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy ([Dz. U. z 2017 r. poz. 1348](https://api.sejm.gov.pl/eli/acts/DU/2017/1348/text.html)).
+
+### § 6.
+
+Rozporządzenie wchodzi w życie z dniem 21 sierpnia 2018 r.
+
+1) Obecnie działem administracji rządowej - praca kieruje Minister Rodziny, Pracy i Polityki Społecznej, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Rodziny, Pracy i Polityki Społecznej (Dz. U. poz. 2329). 2) Niniejsze rozporządzenie: 1) wdraża dyrektywę Komisji (UE) 2017/164 z dnia 31 stycznia 2017 r. ustanawiającą czwarty wykaz wskaźnikowych dopuszczalnych wartości narażenia zawodowego zgodnie z dyrektywą Rady 98/24/WE oraz zmieniającą dyrektywy Komisji 91/322/EWG, 2000/39/WE i 2009/161/UE (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 27 z 1.02.2017, str. 115-120); 2) w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2017/2398 z dnia 12 grudnia 2017 r. zmieniającą dyrektywę 2004/37/WE w sprawie ochrony pracowników przed zagrożeniem dotyczącym narażenia na działanie czynników rakotwórczych lub mutagenów podczas pracy (tekst mający znaczenie dla EOG) (Dz. Urz. UE L 345 z 27.12.2017, str. 87-95).
+
+## Załącznik nr 1 - Wykaz wartości najwyższych dopuszczalnych stężeń chemicznych i pyłowych czynników szkodliwych dla zdrowia w środowisku pracy
+
+Lp. Nazwa i numer CAS substancji chemicznej Najwyższe dopuszczalne stężenie (w mg/m) w zależności od czasu narażenia w ciągu zmiany roboczej Liczba włókien w cm Uwagi: Oznakowanie substancji notacją „skóra”3) NDS NDSCh NDSP 1 2 3 4 5 6 7 1 Acetaldehyd[75-07-0] - - 45 - - 2 Acetanilid- frakcja wdychalna4)[103-84-4] 6 - - - - 3 Acetofenon[98-86-2] 50 100 - - - 4 Aceton[67-64-1] 600 1800 - - - 5 Acetonitryl[75-05-8] 70 140 - - skóra 6 Adypinian bis(2-etyloheksylu)[103-23-1] 400 - - - - 7 Akrylaldehyd[107-02-8] 0,05 0,1 - -- skóra 8 Akrylamid[79-06-1] 0,07 - - - skóra 9 Akrylan butylu[141-32-2] 11 30 - - - 10 Akrylan 2-etyloheksylu[103-11-7] 35 70 - - skóra 11 Akrylan etylu[140-88-5] 20 40 - - skóra 12 Akrylan hydroksypropylu - mieszanina izomerów[25584-83-2] 2,8 6 - - skóra 13 Akrylan 2-hydroksypropylu[999-61-1] 2,8 6 - - skóra 14 Akrylan 2-hydroksy-1-metyloetylu[2918-23-2] 2,8 6 - - skóra 15 Akrylan metylu[96-33-3] 14 28 - - skóra 16 Akrylonitryl[107-13-1] 2 10 - - skóra 17 Aldryna5)-rel-(1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-heksachloro-1,4,4a,5,8,8a-heksahydro-l,4:5,8-dimetanonaftalen[309-00-2] 0,01 0,08 - - skóra 18 Alfa-cypermetryna- frakcja wdychalna4), mieszanina izomerów:(1S,3S)-3-(2,2-dichlorowinylo)-2,2-dimetylocyklopropano-karboksylan(R)-cyj ano-(3-fenoksyfenylo)metylu;(1R,3R)-3-(2,2-dichlorowinylo)-2,2-dimetylocyklopropano-karboksylan(S)-cyjano-(3-fenoksyfenylo)metylu[67375-30-8] 1 - - - - 19 Amidosiarczan (VI) amonu- frakcja wdychalna4)[7773-06-0] 10 - - -- - 20 2-Aminoetanol[141-43-5] 2,5 7,5 - - skóra 21 4-Aminofenol- frakcja wdychalna[123-30-8] 5 - - - - 22 3-Amino-1,2,4-triazol (amitrol)[61-82-5] 0,15 - - - - 23 N, N' -bis(2-aminoetylo)etylenodiamina[112-24-3] 1 3 - - skóra 24 Amoniak[7664-41-7] 14 28 - - - 25 Anilina[62-53-3] 1,9 3,8 - - skóra 26 Antymon [7440-36-0] i jego związki nieorganiczne, z wyjątkiem stibanu -w przeliczeniu na Sb 0,5 - - - - 27 Apatyty i fosforyty - - - - - - frakcja wdychalna 6 - - - - - frakcja respirabilna6),7) 2 - - - - 28 Arsan[7784-42-1] 0,02 - - - - 29 Arsen [7440-38-2] i jego związki nieorganiczne - w przeliczeniu na As 0,01 - - - - 30 Asfalt naftowy - frakcja wdychalna4)[8052-42-4] 5 10 - - - 31 Atrazyna -2-chloro-4-etyloamino-6-izo-propyloamino-1, 3, 5-triazyna[1912-24-9] 5 - - - - 32 Azbest (jeden lub więcej rodzajów azbestu wymienionych poniżej):- aktynolit [77536-66-4]- antofilit [77536-67-5]- chryzotyl [12001-29-5; 132207-32-0]- amozyt [12172-73-5]- krokidolit [12001-28-4]- tremolit [77536-68-6]- włókna respirabilne8) - - - 0,1 - 33 Azirydyna[151-56-4] 0,62 - - - skóra 34 Azotan 2-etyloheksylu[27247-96-7] 3,5 7 - - - 35 Azotan(V) propylu[627-13-4] 30 100 - - - 36 Azydek sodu[26628-22-8] 0,1 0,3 - - skóra 37 Bar [7440-39-3] i jego związki rozpuszczalne - w przeliczeniu na Ba 0,5 - - - - 38 Benzaldehyd[100-52-7] 10 40 - - - 39 Benzen[71-43-2] 1,6 - - - skóra 40 Benzenotiol[108-98-5] CM - - - skóra 41 Benzo[a]piren[50-32-8] 0,002 - - - - 42 p-Benzochinon[106-51-4] 0,1 0,4 - - - 43 Benzotiazol[95-16-9] 20 - - - skóra 44 Benzydyna[92-87-5] 0 0 - - skóra 45 Benzyna: - - - - - a) ekstrakcyjna[8032-32-4; 8006-61-9; 64742-49-0; 93763-33-8; 101316-56-7] 500 1500 - - - ta) do lakierów[8052-41-3; 64742-82-1; 64741-92-0; 64742-48-9] 300 900 - - - 46 Beryl [7440-41-7] i jego związki nieorganiczne - w przeliczeniu na Be 0,0002 - - - - 47 Bezwodnik ftalowy - pary i frakcja wdychalna4)[85-44-9] 1 2 - - - 48 Bezwodnik maleinowy[108-31-6] 0,5 1 - - skóra 49 Bezwodnik octowy[108-24-7] 12 24 - - - 50 Bezwodnik trimelitowy[552-30-7] 0,04 0,08 - - - 51 Bicyklo[4.4.0]dekan[91-17-8] 100 300 - - - 52 Bifenyl[92-52-4] 1 2 - - skóra 53 Bifenylo-4-amina[92-67-1] 0,001 - - - - 54 2,2-Bis(4-hydroksyfenylo)propan(Bisfenol A) - frakcja wdychalna4)[80-05-7] 2 - - -- - 55 Brom[7726-95-6] 0,7 1,4 - - - 56 Bromfenwinfos - fosforan(V) 2-taromo-1-(2,4-di chiorofenylo) winylo-dietylu[33399-00-7] 0,01 - - - skóra 57 Bromochlorometan[74-97-5] 1000 1300 - - - 58 2-Bromo-2-chloro-1,1,1-trifluoroetan[151-67-7] 40 100 - - - 59 Bromoetan[74-96-4] 50 100 - - skóra 60 Bromoeten[593-60-2] 0,4 - - - - 61 Bromoform[75-25-2] 5 - - - skóra 62 Bromometan[74-83-9] 5 15 - - skóra 63 1 -Bromopropan[106-94-5] 42 - - - - 64 Bromowodór[10035-10-6] - - 6,5 - - 65 Buta-1,3-dien[106-99-0] 4,4 - - - - 66 Butan[106-97-8] 1900 3000 - - - 67 Butan-2-ol[78-92-2] 300 450 - - - 68 Butan-1-ol[71-36-3] 50 150 - - skóra 69 Butan-2-on[78-93-3] 450 900 - - skóra 70 Butano-2,3-dion (diacetyl)[431-03-8] 0,07 0,36 - - - 71 Butano-1-tiol[109-79-5] 1 2 - - - 72 But-2-enal - mieszanina izomerów [4170-30-3](E) -but-2-enal[123-73-9](Z)-but-2-enal[157 9 8-64-8] 1 2 - - skóra 73 1-Butoksy-2,3-epoksypropan[2426-08-6] 30 60 - - - 74 2-Butoksyetanol[111-76-2] 98 200 - - skóra 75 2-(2-Butoksyetoksy)etanol[112-34-5] 67 100 - - - 76 Butyloamina[109-73-9] - - 10 - skóra 77 4 - tert-Butylotoluen[98-51-1] 30 - - - skóra 78 But-2-yno-l,4-diol[110-65-6] 0,25 0,5 - - skóra 79 Cement portlandzki [65997-15-1] - - - - - - frakcja wdychalna4) 6 - - - - - frakcja respirabilna6),7) 2 - - - - 80 Chlor[7782-50-5] 0,7 1,5 - - - 81 Chlorek allilu[107-05-1] 2 - - - - 82 Chlorek amonu - pary i frakcja wdychalna[12125-02-9] 10 20 - - - 83 Chlorek benzoilu[98-88-4] - - 2,8 - - 84 Chlorek chloroacetylu[79-04-9] 0,2 0,6 - - skóra 85 Chlorek tionylu[7719-09-7] 1,8 3,6 - - - 86 Chlorfenwinfos -fosforan(V) 2-chloro-l-(2,4-dichlorofenylo)winylo-dietylu[470-90-6] 0,01 0,1 - - skóra 87 Chloroacetaldehyd[107-20-0] 1 3 - - - 88 Chloroaceton[78-95-5] - - 4 - skóra 89 2-Chloroanilina[95-51-2] 3 10 - - skóra 90 3-Chloroanilina[108-42-9] 3 10 - - skóra 91 4-Chloroanilina[106-47-8] 3 10 - - skóra 92 Chlorobenzen[108-90-7] 23 70 - - - 93 2-Chlorobuta-1,3-dien[126-99-8] 2 6 - - - 94 Chlorodifluorometan[75-45-6] 3000 - - -- - 95 Chlorodinitrobenzen - mieszanina izomerów[25567-67-3] 1 3 - - - 96 l-Chloro-2,3-epoksypropan[106-89-8] 1 - - - skóra 97 1-Chloro-4-nitrobenzen[100-00-5] 0,6 - - - skóra 98 Chloroetan[75-00-3] 200 - - - skóra 99 2-Chloroetanol[107-07-3] 1 3 - - skóra 100 Chloroeten[75-01-4] 5 30 - - - 101 4-Chlorofenol[106-48-9] 0,5 1,5 - - skóra 102 Chloromekwatu chlorek[999-81-5] 15 - - - skóra 103 Chloro(fenylo)metan[100-44-7] 3 9 - - skóra 104 Chloroform[67-66-3] 8 - - - skóra 105 Chlorometan[74-87-3] 20 - - - - 106 Chloronitrobenzen - mieszanina izomerów[25167-93-5] 1 3 - - - 107 4-Chloro-3-metylofenol- frakcja wdychalna4)[59-50-7] 5 - - - - 108 1-Chloro-l-nitropropan[600-25-9] 10 - - - - 109 Chlorooctan metylu[96-34-4] 5 10 - - skóra 110 Chloropiryfos - tiofosforan(V) O ,O-dietylo-O-3,5,6-trichloro-2-pirydylu [2921-88-2] 0,2 0,6 - - skóra 111 4-Chlorostyren[1073-67-2] 50 400 - - - 112 2-Chlorotoluen[95-49-8] 100 250 - - - 113 Chlorowodór[7647-01-0] 5 10 - - - 114 Chrom metaliczny [7440-47-3] Związki chromu (II) -w przeliczeniu na Cr(II) Związki chromu (III) - w przeliczeniu na Cr(III) 0,5 - - - - 115 Cyjanamid[420-04-2] 0,9 1,8 - - skóra 116 Cyjanamid wapnia[156-62-7] 1 - - - - 117 2-Cyjanoakrylan etylu[7085-85-0] 1 2 - - - 118 2-Cyjanoakrylan metylu[137-05-3] 2 4 - - - 119 Cyjanowodór i cyjanki - w przeliczeniu na CN~Cyjanowodór [74-90-8]Cyjanek sodu [143-33-9] - frakcja wdychalnaCyjanek potasu [151-50-8] - frakcja wdychalna4)Cyjanek wapnia [592-01-8] - frakcja wdychalna4) 1 - 5 - skóra 120 Cyklofosfamid[50-18-0] 0,01 - - - skóra 121 Cykloheksan[110-82-7] 300 1000 - - skóra 122 Cykloheksanol[108-93-0] 10 - - - skóra 123 Cykloheksanon[108-94-1] 40 80 - - skóra 124 Cykloheksen[110-83-8] 300 900 - - - 125 Cykloheksyloamina[108-91-8] 40 80 - - skóra 126 Cyklopenta-1,3-dien[542-92-7] 200 - - - - 127 Cyna [7440-31-5] i jej związki nieorganiczne, z wyjątkiem stannanu -w przeliczeniu na Sn- frakcja wdychalna4) 2 - - - - 128 Cyrkon [7440-67-7] i jego związki -w przeliczeniu na Zr 5 10 - - - 129 2,4-D - kwas (2,4-dichlorofenoksy) octowy[94-75-7] 7 - - - - 130 DDT - 1,1, l-trichloro-2,2-bis(4-chlorofenylo)etan[50-29-3] 0,1 0,8 - - skóra 131 Dekaboran(14)[17702-41-9] 0,3 0,9 - - skóra 132 Dekasiarczek tetrafosforu[1314-80-3] 1 3 - - - 133 Dekatlenek tetrafosforu[1314-56-3] 1 2 - - - 134 Demeton - izomery: demeton-O, demeton-5[8065-48-3] 0,1 - - - skóra 135 Demeton-S metylowy - tiofosforan(V) S-(2-etylo-sulfanylo)etylu-O,O-dimetylu[8022-00-2] 0,1 0,8 - - skóra 136 Dezfluran[57041-67-5] 125 - - - - 137 Diazotan(V) glikolu etylenowego[628-96-6] 0,3 0,4 - - skóra 138 Dibenzo[a, h]antracen[53-70-3] 0,004 - - - - 139 Dibenzo-1,4-tiazyna[92-84-2] 4 - - - - 140 Diboran(6)[19287-45-7] 0,1 0,2 - - - 141 1,2-Dibromoetan[106-93-4] 0,01 - - - skóra 142 2-(Dibutyloamino)etanol[102-81-8] 14 - - - skóra 143 Dibromodifluorometan[75-61-6] 600 1200 - - - 144 Dichlorek cynku- frakcja wdychalna4)[7646-85-7] 1 2 - - -- 145 Dichlorek disiarki[10025-67-9] 5 15 - - - 146 Dichlorfos - fosforan(V) 2,2-dichlorowinylo-dimetylu (DDVP)[62-73-7] 1 3 - - skóra 147 3,4-Dichloroanilina[95-76-1] 5,6 - - - skóra 148 1,2-Dichlorobenzen[95-50-1] 90 180 - - skóra 149 1,4-Dichlorobenzen[106-46-7] 12 36 - - skóra 150 Dichlorodifluorometan[75-71-8] 4000 6200 - - - 151 1,1-Dichloroetan[75-34-3] 400 - - - skóra 152 1,2-Dichloroetan[107-06-2] 50 - - - skóra 153 1,1-Dichloroeten[75-35-4] 8 20 - - - 154 1,2-Dichloroeten - izomerysym- [540-59-0], cis- [156-59-2], trans-[156-60-5] 700 - - - - 155 Dichlorofluorometan[75-43-4] 40 200 - - - 156 Dichlorometan[75-09-2] 88 353 - - skóra 157 2,2'-Dichloro-4,4'-metylenodianilina[101-14-4] 0,02 - - - skóra 158 1,1-Dichloro-1-nitroetan[594-72-9] 30 60 - - - 159 1,2-Dichloropropan[78-87-5] 50 - - - - 160 1,2-Dichloro-l,1,2,2-tetrafluoroetan[76-14-2] 5000 8750 - - - 161 (1,2-Dichlorowinylo)benzen[6607-45-0] 50 150 - - - 162 Dieldryna -rel- (1B, 4S, 4aS, 5R, 6R, 7S, 8S, 8aR) -1,2,3,4,10,10-heksachloro-l,4,4a,5,6,7,8, 8a-oktahydro-6, 7-epoksy-1,4:5, 8-dimetanonaftalen[60-57-1] 0,01 0,08 - - skóra 163 Dietyloamina[109-89-7] 15 30 - - skóra 164 2-(Dietyloamino)etanol[100-37-8] 13 26 - - skóra 165 Dietylobenzen - mieszanina izomerów[25340-17-4] 100 400 - - skóra 166 Difenyloamina- frakcja wdychalna4)[122-39-4] 8 - - - - 167 Diizocyjanian heksano-1,6-diylu[822-06-0] 0,04 0,08 - - skóra 168 Diizocyjanian 2,2'-metylenodifenylu[2536-05-2] 0,03 0,09 - - - 169 Diizocyjanian 2,4'-metylenodifenylu[5873-54-1] 0,03 0,09 - - - 170 Diizocyjanian metylenodifenylu -mieszanina izomerów[26447-40-5] 0,03 0,09 - - - 171 Diizocyjanian tolueno-2,4-diylu[584-84-9] 0,007 0,021 - - - 172 Diizocyjanian tolueno-2,6-diylu[91-08-7] 0,007 0,021 - - - 173 Diizocyjanian toluenodiylu - mieszanina izomerów 2,4- i 2,6-[26471-62-5] 0,007 0,021 - - - 174 Dikwatu dibromek - dibromek 1,1'-etyleno-2,2'-dipirydylowy - frakcja wdychalna4)[85-00-7] 0,1 0,3 - - skóra 175 1,2 -Dimetoksyetan[110-71-4] 10 - - - skóra 176 Dimetoat - ditiofosforan(V) S-metylo-karbamoilometylu-O,O-dimetylu[60-51-5] 0,2 0,6 - - skóra 177 3,3'-Dimetoksybenzydyna[119-90-4] 0,2 - - - - 178 Dimetoksymetan[109-87-5] 1000 3500 - - - 179 N, N-Dimetyloacetamid[127-19-5] 35 70 - - skóra 180 Dimetyloamina[124-40-3] 3 9 - - skóra 181 Dimetyloanilina - mieszanina izomerów: 2,3-; 2,4-; 2,5-; 2,6-; 3,4-; 3,5-[1300-73-8] 10 - - - skóra 182 N, N-Dimetyloanilina[121-69-7] 12 40 - - skóra 183 N, N-Dimetyloformamid[68-12-2] 15 30 - - skóra 184 2,6-Dimetyloheptan-4-on[108-83-8] 150 300 - - - 185 1,1-Dimetylohydrazyna[57-14-7] 0,1 - - - skóra 186 3,7-Dimetylookta-2, 6-dienal[5392-40-5] 27 54 - - - 187 Dinitrobenzen - mieszanina izomerów[25154-54-5] 1 3 - - skóra 188 Dinitrofenol - mieszanina izomerów[25550-58-7] 0,5 - - - skóra 189 Dinitrotoluen - mieszanina izomerów[25321-14-6] 0,33 - - - skóra 190 1,4-Dioksan[123-91-1] 50 - - - - 191 1,3-Dioksolan[646-06-0] 10 50 - - - 192 Disiarczek dimetylu[624-92-0] 2,5 5 -- - - 193 Disiarczek węgla[75-15-0] 12,5 - - - skóra 194 Disulfid allilowo-propylowy[2179-59-1] 12 18 - - - 195 Ditlenek azotu[10102-44-0] 0,7 1,5 - - - 196 Ditlenek chloru[10049-04-4] 0,3 0,9 - - - 197 Ditlenek siarki[7446-09-5] 1,3 2,7 - - - 198 Ditlenek tytanu[13463-67-7]- frakcja wdychalna4), 7) 10 - - - - 199 Ditlenek węgla[124-38-9] 9000 27000 - - - 200 Diwinylobenzen[1321-74-0] 50 - - - - 201 Endosulfan -(3-tlenek-6,7,8,9,10,10-heksachloro-1,5,5a,6,9,9a-heksahydro-6,9-metano-2,3,4-benzodioksatiepinu)[115-29-7] 0,1 0,3 - - skóra 2 02 Endryna -rel- [1R, AS, 4aS, 5S, 6S, 7R, 8R, 8aR) 1,2,3,4,10,10-heksachloro-l,4,4a,5,6,7,8,8a-oktahydro-6,7-epoksy-1,4:5,8-dimetanonaftalen[72-20-8] 0,01 0,08 - - skóra 203 Epoksyetan[75-21-8] 1 - - - skóra 204 1,2-Epoksy-3-fenoksypropan[122-60-1] 0,6 3 - - skóra 205 1,2-Epoksy-4-(epoksyetylo)cykloheksan[106-87-6] 60 - - - skóra 206 1,2-Epoksy-3-izopropoksypropan[4016-14-2] 240 360 - - - 207 1,2-Epoksypropan[75-56-9] 9 - - - - 208 2,3-Epoksypropanol[556-52-5] 6 - - - - 209 3-(2,3-Epoksypropoksy)propen[106-92-3] 6 12 - - - 210 Etanodinitryl[460-19-5] 8 20 - - - 211 Etanol[64-17-5] 1900 - - - - 212 Etanotiol[75-08-1] 1 2 - - - 213 Eter bis(2-chloroetylowy)[111-44-4] 10 30 - - skóra 214 Eter bis(2,3-epoksypropylowy)[2238-07-5] 0,05 - - - skóra 215 Eter bis (2-metoksyetylowy)[111-96-6] 10 - - - skóra 216 Eter dietylowy[60-29-7] 300 600 - - - 217 Eter difenylowy[101-84-8] 7 14 - - - 218 Eter diizopropylowy[108-20-3] 1000 - - - - 219 Eter dimetylowy[115-10-6] 1000 - - - - 220 Eter oktabromodifenylowy - mieszanina izomerów: 2,2',3,3',4,4',5',6-; 2,2', 3,3', 4,4', 6,6'-; 2,2',3,4,4',5,5',6-[446255-38-5; 117964-21-3; 337513-72-1; 32536-52-0]- frakcja wdychalna4) 0,1 - - - - 221 Eter pentabromodifenylowy - pochodne pentataromowe eteru difenylowego -mieszanina izomerów[32534-81-9] 0,7 - - - - 222 Eter tert-butylometylowy[1634-04-4] 180 270 - - - 223 Eter tert-butyloetylowy[637-92-3] 100 200 - - - 224 4'-Etoksyacetanilid- frakcja wdychalna4) [62-44-2] 5 - - - - 225 2-Etoksyetanol[110-80-5] 8 - - - skóra 226 Etylenodiamina[107-15-3] 20 50 - - skóra 227 1,3-Etylenotiomocznik[96-45-7] 0,1 - - - - 228 Etyloamina[75-04-7] 9,4 18 - - skóra 229 Etylobenzen[100-41-4] 200 400 - - skóra 230 2-Etyloheksan-l-ol[104-76-7] 5,4 10,8 - - - 231 N-Etylornorfolina[100-74-3] 23 46 - - skóra 232 Etylotoluen - mieszanina izomerów [25550-14-5] 100 - - - - 233 Fenitrotion - tiofosforan(V) 0-3-metylo-4-nitrofenylu-O,O-dimetylu[122-14-5] 0,02 0,1 - - - 234 2-Fenoksyetanol[122-99-6] 230 - - - - 235 Fenol[108-95-2] 7,8 16 - - skóra 236 Fention - tiofosforan(V) O-3-metylo-4(metylosulfanylo) fenylu-O,O-dimetylu[55-38-9] 0,2 - - - skóra 237 1,4-Fenylenodiamina[106-50-3] 0,1 - - - skóra 238 Fenylohydrazyna[100-63-0] 20 - - - skóra 239 Fenylometanol[100-51-6] 240 - - - - 240 Fenylo(2-naftyło)amina[135-88-6] 0,02 - - - - 241 2-Fenylopropen[98-83-9] 240 480 - - - 242 Fluor[7782-41-4] 0,05 0,4 - - - 243 Fluorek boru[7637-07-2] - - 3 - - 244 Fluorki - w przeliczeniu na F[-] 2 - - - - 245 Fluorooctan sodu[62-74-8] 0,05 0,15 - - skóra 246 Fluorowodór[7664-39-3] 0,5 2 - - - 247 Fonofos -etyloditiofosfonian O-etylu-S-fenylu[944-22-9] 0,1 - - - skóra 248 Formaldehyd[50-00-0] 0,37 0,74 - - skóra 249 Formamid[75-12-7] 23 - - - skóra 250 Fosfan[7803-51-2] 0,14 0,28 - - - 251 Fosforan(V) tris(2-tolilu)[78-30-8] 0, 1 0,3 - - - 252 Fosgen[75-44-5] 0,08 0,16 - - - 253 Ftalan benzylu butylu[85-68-7] 5 - - - - 254 Ftalan dibutylu- frakcja wdychalna4)[84-74-2] 5 - - - - 255 Ftalan dietylu- frakcja wdychalna4)[84-66-2] 3 - - - - 256 Ftalan dimetylu- frakcja wdychalna4)[131-11-3] 5 - - - - 257 Ftalan bis(2-etyloheksylu)[117-81-7] 1 5 - - - 258 2 -Furaldehyd[98-01-1] 10 25 - - skóra 259 2-Furylometanol[98-00-0] 30 60 - - skóra 260 Glicerol- frakcja wdychalna4)[56-81-5] 10 - - - - 261 Glifosat[1071-83-6] 10 - - - - 262 Glikol etylenowy[107-21-1] 15 50 - - skóra 263 Glin metaliczny, glin proszek(nlestabilizowany) [7429-90-5] - - - - - - frakcja wdychalna 2,5 - - - - - frakcja respiratailna6) 1,2 - - - - 264 Glutaraldehyd[111-30-8] 0,4 0,6 - - - 265 Grafit - - - - - a) grafit naturalny[7782-42-5] - - - - - - frakcja wdychalna4) 4 - - - - - frakcja respirabilna6) 1 - - - - b) grafit syntetyczny[7440-44-0] - - - - - - frakcja wdychalna4) 6 - - - - 266 Hafn [7440-58-6] i jego związki -w przeliczeniu na Hf 0,5 - - - - 267 Heksachlorobenzen - frakcja wdychalna4)[118-74-1] 0,003 - - - skóra 268 1,2,3,4,5,6-Heksachloro-cykloheksan(techniczny)[608-73-1] 0,17 - - - skóra 269 Heksachlorocyklopentadien[77-47-4] 0,1 - - - skóra 270 Heksachloroetan[67-72-1] 10 30 - - skóra 271 Heksafluorek siarki[2551-62-4] 6000 - - - - 272 Heksafluoropropen[116-15-4] 8 - - - - 273 Heksametylotriamid kwasu fosforowego(V)[680-31-9] 0,05 - - - - 274 Heksan[110-54-3] 72 - - - skóra 275 n-Heksanal[66-25-1] 40 80 - - - 276 Heksanu izomery acykliczne nasycone, z wyjątkiem heksanu - - - - - 2,2-Dimetylobutan[75-83-2] 400 1200 - - - 2,3-Dimetylobutan[79-29-8] 400 1200 - - - 3-Metylopentan[96-14-0] 400 1200 - - - 2-Metylopentan[107-83-5] 400 1200 - - - 277 Heksano-6-laktam - pary i frakcja wdychalna4)[105-60-2] 5 15 - - - 278 Heksan-2-on[591-78-6] 10 - - - skóra 279 Heptan[142-82-5] 1200 2000 - - - 280 Heptan-2-on[110-43-0] 238 475 - - s-kóra 281 Heptan-3-on[106-35-4] 95 - - - - 282 Heptan-4-on[123-19-3] 230 - - - - 283 10 •Hydrat heptaoksotetraboranu sodu- frakcja wdychalna4)[1303-96-4] 0,5 2 - - - 284 Hydrazyna[302-01-2] 0,013 0,039 - - skóra 285 Hydrochinon[123-31-9] 1 2 - - - 286 4-Hydroksy-4-metylopentan-2-on[123-42-2] 240 - - - - 287 2,2' -Iminobis (etyloamina)[111-40-0] 4 12 - - skóra 288 2,2'-Iminodietanol[111-42-2] 9 - - - skóra 289 Itr [7440-65-5] i jego związki -w przeliczeniu na Y 1 - - - - 290 Izobutyroaldehyd[78-84-2] 100 - - - - 291 Izocyjanian cykloheksylu[3173-53-3] 0,04 - - - - 2 92 Izocyjanian 3-izocyjanianometylo-3,5,5-trimetylocykloheksylu[4098-71-9] 0,04 - - - - 293 Izocyjanian metylu[624-83-9] 0,03 0,047 - - skóra 294 Izofluran[26675-46-7] 32 - - - - 295 Izooktan-1-ol - mieszanina izomerów[26952-21-6] 220 440 - - skóra 296 Izopentan[78-78-4] 3000 - - - - 297 Izopren[78-79-5] 100 300 - - - 298 2-Izopropoksyetanol[109-59-1] 20 - - - skóra 299 Izopropyloamina[75-31-0] 12 24 - - - 300 2-Izopropylo-4,6-dinitrofenol[118-95-6] 0,05 0,15 - - skóra 301 Jod[7553-56-2] 0,5 1 - - - 302 Jodometan[74-88-4] 7 20 - - skóra 303 Kadm [7440-43-9] i jego związki nieorganiczne - w przeliczeniu na Cd: - - - - - - frakcja wdychalna4) 0,01 - - - - - frakcja respirabilna6) 0,002 - - - - 304 Kamfora syntetyczna - bornan-2-on [76-22-2] 12 18 - - - 305 Kaolin[1332-58-7]- frakcja wdychalna4),7) 10 - - - - 306 Kaptan -N- (trichlorometylosulfanylo) cykloheks-4-eno-l,2-dikarboksy-imid [133-06-2] 5 - - - - 307 Karbaminian etylu (uretan) [51-79-6] 0,001 - - - skóra 308 Karbaryl -metylokarbaminian 1-naftylu [63-25-22] 1 8 - - - 309 Karbendazym -lH-benzimidazol-2-ilokarbamian metylu [10605-21-7] 10 - - - - 310 Karbofuran -metylokarbaminian 2,2-dimetylo-2, 3-dihydrobenzo[b] furan-7-ylu [1563-66-2] 0,1 - - - skóra 311 Keten[463-51-4] 0,5 1,5 - - - 312 Kobalt [7440-48-4] i jego związki nieorganiczne - w przeliczeniu na Co 0,02 - - - - 313 Krezol - mieszanina izomerów [95-48-7; 108-39-4; 106-44-5; 1319-77-3] 22 - - - skóra 314 Krzemionka bezpostaciowa i syntetyczna - - - - - a) ziemia okrzemkowa (diatomit) niekalcynowana[61790 53-2] - - - - - - frakcja wdychalna4) 10 - - - - - frakcja respirabilna6) 2 - - - - b) ziemia okrzemkowa (diatomit) kalcynowana12)[68855 54-9] - - - - - - frakcja wdychalna4) 2 - - - - - frakcja respirabilna6) 1 - - - - c) krzemionka bezpostaciowa syntetyczna (strącona i żel) [112926-00-8] - - - - - - frakcja wdychalna4) 10 - - - - - frakcja respirabilna6) 2 - - - - d) krzemionka stopiona (szkło kwarcowe) [60676-86-0] - - - - - - frakcja wdychalna4) 2 - - - - - frakcja respirabilna6) 1 - - - - 315 Krzemionka krystaliczna -kwarc [14808-60-7]; krystobalit [14464-46-1] - frakcja respirabilna6) 0,1 - - - - 316 Ksylen - mieszanina izomerów: 1,2-; 1,3-; 1,4-[95-47-6,10 8-3 8-3,10 6-42-3, 133 0-2 0-7] 100 200 - - skóra 317 Kumen[98-82-8] 50 250 - - skóra 318 Kwas adypinowy- frakcja wdychalna4)[124-04-9] 5 10 - - - 319 Kwas akrylowy[79-10-7] 10 29,5 - - skóra 320 Kwas azotowy(V)[7697-37-2] 1,4 2,6 - - - 321 Kwas chlorooctowy[79-11-8] CM 4 - - - 322 Kwas chlorowy(VII)[7601-90-3] 1 3 - - - 323 Kwas 2,2-dichloropropionowy i jego sól sodowa[75-99-0] 6 12 - - - 324 Kwas fosforowy(V)[7664-38-2] 1 CM - - - 325 Kwas mrówkowy[64-18-6] 5 15 - - - 326 Kwas nadoctowy[79-21-0] 0,8 1,6 - - - 327 Kwas octowy[64-19-7] 25 50 - - - 328 Kwas pikrynowy[88-89-1] 0,1 - - - skóra 329 Kwas propionowy[79-09-4] 30 45 - - - 330 Kwas siarkowy(VI)- frakcja torakalna13)[7664-93-9] 0,05 - - - - 331 Kwas szczawiowy[144-62-7] 1 CM - - - 332 Kwas 2-tioglikolowy[68-11-1] 4 8 - - skóra 333 Kwas trichlorooctowy[76-03-9] 2 4 - - - 334 Malation -dltlofosforan(V) S-1,2-bis(etoksykarbonylo)etylu-0,0-dimetylu[121-75-5] 1 10 - - skóra 335 Mangan [7439-96-5] i jego związki nieorganiczne - w przeliczeniu na Mn - - - - - - frakcja wdychalna4) 0,2 - - - - - frakcja respirabilna6) 0,05 - - - - 336 MCPA - kwas (4-chloro-2-raetylofenoksy)octowy[94-74-6] 1 5 - - skóra 337 Metakrylan butylu[97-88-1] 100 300 - - - 338 Metakrylan metylu[80-62-6] 100 300 - - - 339 Metanol[67-56-1] 100 300 - - skóra 340 Metanotiol[74-93-1] 1 2 - - - 341 2-Metoksyanilina[90-04-0] 0,5 1 - - skóra 342 4-Metoksyanilina[104-94-9] 0,5 1 - - skóra 343 Metoksychlor- frakcja wdychalna4)[72-43-5] 10 - - - - 344 2-Metoksyetanol[109-86-4] 3 - - - skóra 345 2-(2-Metoksyetoksy)etanol[111-77-3] 50 - - - skóra 346 4-Metoksyfenol[150-76-5] 5 - - - skóra 347 (2-Metoksymetyloetoksy)propanol -mieszanina izomerów: 1-(2-metoksy-1-metyloetoksy) -propan-2-ol, 1-(2-metoksy-2-metyloetoksy)propan-2-ol, 2-(2-metoksy-l-metyloetoksy)-propan-1-ol[34590-94-8] 240 480 - - skóra 348 l-Metoksypropan-2 -ol[107-98-2] 180 360 - - skóra 349 Metotreksat -kwas (S)-2-(4-{ [ (2,4-diamino-pterydyn-6-ylo)metylo]metyloamino} benzamido)-pentanodiowy- frakcja wdychalna4)[59-05-2] 0,001 - - - skóra 350 Metylenobis(fenyloizocyjanian)[101-68-8] 0,03 0,09 - - - 351 Metyloamina[74-89-5] 5 15 - - - 352 4,4'-Metylenodianilina[101-77-9] 0, 08 - - - skóra 353 N-Metyloanilina[100-61-8] 2 4 - - skóra 354 2 -Metyloazirydyna[75-55-8] 4,7 - - - skóra 355 3-Metylobutan-1-ol[123-51-3] 200 400 - - - 356 Metylocykloheksan[108-87-2] 1600 3000 - - - 357 Metylocykloheksanol - mieszanina izomerów[25639-42-3] 70 - - - - 358 2-Metylocykloheksanon[583-60-8] 50 340 - - skóra 359 2-Metylo-4,6-dinitrofenol[534-52-1] 0,05 0,4 - - skóra 360 5-Metyloheksan-2-on[110-12-3] 95 - - - - 361 5-Metyloheptan-3-on[541-85-5] 50 100 - - - 362 Metylohydrazyna[60-34-4] 0,02 0,1 - - skóra 363 N-Metylomorfolina[109-02-4] 15 30 - - - 364 1-Metylonaftalen[90-12-0] 30 - - - - 365 2-Metylonaftalen[91-57-6] 25 50 - - skóra 366 2-Metylopentano-2,4-diol - pary i frakcja wdychalna4)[107-41-5] 50 100 - - - 367 4-Metylopentan-2-ol[108-11-2] 100 160 - - skóra 368 4-Metylopentan-2-on[108-10-1] 83 200 - - - 369 4-Metylopent-3-en-2-on[141-79-7] 20 40 - - - 370 l-Metylo-2-pirolidon[872-50-4] 40 80 - - skóra 371 2-Metylopropan-1-ol[78-83-1] 100 200 - - skóra 372 2-Metylopropan-2-ol[75-65-0] 300 450 - - - 373 Miedź[7440-50-8] i jej związki nieorganiczne - w przeliczeniu na Cu 0,2 - - - - 374 Molibden[7439-98-7] i jego związki -w przeliczeniu na Mo 4 10 - - - 375 Morfolina[110-91-8] 36 72 - - skóra 376 Mrówczan etylu[109-94-4] 250 500 - - - 377 Mrówczan metylu[107-31-3] 100 200 - - skóra 378 Nadtlenek dibenzoilowy[94-36-0] 5 10 - - - 379 Nadtlenek wodoru[7722-84-1] 0,4 0,8 - - - 380 Nafta[8008-20-6] 100 300 - - - 381 Naftalen[91-20-3] 20 50 - - skóra 382 Naftalenu pochodne chlorowane[-] 0,5 1,5 - - - 383 1-Naftyloamina[134-32-7] 0 0 - - - 384 2-Naftyloamina[91-59-8] 0 0 - - - 385 Neopentan[463-82-1] 3000 - - - - 386 Nikiel[7440-02-0] i jego związki, z wyjątkiem tetrakarbonylku niklu -w przeliczeniu na Ni 0,25 - - - - 387 Nikotyna[54-11-5] 0,5 - - - skóra 388 2-Nitroanilina[88-74-4] 3 10 - - skóra 389 3-Nitroanilina[99-09-2] 3 10 - - skóra 390 4-Nitroanilina[100-01-6] 3 10 - - skóra 391 Nitrobenzen[98-95-3] 1 - - - skóra 392 Nitroetan[79-24-3] 62 186 - - skóra 393 Nitrometan[75-52-5] 30 240 - - - 394 2-Nitropropan[79-46-9] 18 - - - skóra 395 Nitrotoluen - mieszanina izomerów[1321-12-6] 11 - - - skóra 396 2-Nitrotoluen[88-72-2] 11 - - - skóra 397 3-Nitrotoluen[99-08-1] 11 - - - skóra 398 4-Nitrotoluen[99-99-0] 11 - - - skóra 399 Octan 2-butoksyetylu[112-07-2] 100 300 - - skóra 400 Octan n-butylu[123-86-4] 240 720 - - - 401 Octan sec-butylu[105-46-4] 240 720 - - - 4 02 Octan tert-butylu[540-88-5] 900 900 - - - 403 Octan 1, 3 -dimetylobutylu[108-84-9] 300 - - - - 404 Octan 2-etoksyetylu[111-15-9] 11 - - - skóra 405 Octan etylu[141-78-6] 734 1468 - - - 406 Octan izobutylu[110-19-0] 240 720 - - - 407 Octan izopentylu[123-92-2] 250 500 - - - 408 Octan izopropylu[108-21-4] 600 1000 - - - 409 Octan 2-metoksyetylu[110-49-6] 5 - - - skóra 410 Octan 2-metoksy-1-metyloetylu[108-65-6] 260 520 - - skóra 411 Octan 2-metoksypropylu[70657-70-4] 100 200 - - - 412 Octan metylu[79-20-9] 250 600 - - - 413 Octan pentan-2-ylu[626-38-0] 250 500 - - - 414 Octan pentan-3-ylu[620-11-1] 250 500 - - - 415 Octan pentylu[628-63-7] 250 500 - - - 416 Octan tert-pentylu[625-16-1] 250 500 - - - 417 Octan propylu[109-60-4] 200 400 - - - 418 Octan winylu[108-05-4] 10 30 - - - 419 Ogniotrwałe włókna ceramiczne14)[-] - - - 0,3 - Ogniotrwałe włókna ceramiczne14) w mieszaninie z innymi sztucznymi włóknami mineralnymi [ - ] - - - 0,3 - 420 2,2'-Oksydietanol- frakcja wdychalna4)[111-46-6] 10 - - - - 421 Oktan[111-65-9] 1000 1800 - - - 422 Oleje mineralne wysokorafinowane z wyłączeniem cieczy obróbkowych15)- frakcja wdychalna[-] 5 - - - - Oleje mineralne użyte wcześniej w silnikach spalinowych wewnętrznego spalania w celu smarowania lub schładzania części ruchomych silnika [-] - - - - skóra 423 Ołów [7439-92-1] i jego związki nieorganiczne, z wyjątkiem arsenianu(V) ołowiu(II) oraz chromianu(VI) ołowiu(II) -w przeliczeniu na Pb - frakcja wdychalna4) 0,05 - - - - 424 Ortokrzemian tetraetylu[78-10-4] 44 - - - -- 425 Ozon[10028-15-6] 0,15 - - - - 426 Parafina stała - frakcja wdychalna4)[8002-74-2] 2 - - - - 427 Paration metylowy - tiofosforan(V) O,O-dimetylo-O-4-nitro fenylu (metyloparation)[298-00-0] 0,1 0,6 - - skóra 428 Pentachlorek fosforu[10026-13-8] 0,7 1,4 - - - 429 Pentachlorofenol[87-86-5] 0,5 1,5 - - skóra 430 Pentafluorek bromu[7789-30-2] 0,5 1 - - - 431 Pentan[109-66-0] 3000 - - - - 432 Pentan-l-ol16)[71-41-0] 100 450 - - - 433 Pentan-2-on[107-87-9] 100 800 - - - 434 Pentanal[110-62-3] 118 300 - - - 435 Pentatlenek wanadu- frakcja wdychalna[1314-62-1] 0,05 - - - - 436 Peroksoboran(III) sodu i jego hydraty - frakcja wdychalna4)[11138-47-9; 15120-21-5; 10332-33-9;10486-00-7;13517-20-9; 7632-04-4] 4 8 - - - 437 Peroksodisiarczan(VI) potasu - frakcja wdychalna4)[7727-21-1] 0,1 - - - - 438 Piperazyna[110-85-0] 0,1 0,3 - - - 439 2-Pirydyloamina[504-29-0] 2 - - - skóra 440 Pirydyna[110-86-1] 5 - - - skóra 441 Platyna metaliczna[7440-06-4] 1 - - - - 442 Polichlorowane bifenyle[1336-36-3] 1 - - - skóra 443 Propan[74-98-6] 1800 - - - - 444 Propano-1,2-diol - pary i frakcja wdychalna[57-55-6] 100 - - - - 445 Propano-1,3-sulton[1120-71-4] 0,007 - - - skóra 446 Propan-1-ol[71-23-8] 200 600 - - skóra 447 Propan-2-ol[67-63-0] 900 1200 - - skóra 448 Propano-3-lakton[57-57-8] 1 - - - skóra 449 Propen[115-07-1] 2000 8600 - - - 450 Prop-2-en-l-ol[107-18-6] 2 10 - - skóra 451 Propoksur - metylokarbaminian 2-izopropo-ksyfenylu[114-26-1] 0,5 2 - - skóra 452 Propyn[74-99-7] 1500 2000 - - - 453 Prop-2-yn-l-ol[107-19-7] 3 - - - skóra 454 Pyły drewna17)[-]-frakcja wdychalna4) 3 - - - - 455 Pyły mąki[-]- frakcja wdychalna4) 2 - - - - 456 Pyły niesklasyfikowane ze względu na toksyczność[-]- frakcja wdychalna4),7) 10 - - - - 457 Pyły organiczne pochodzenia zwierzęcego i roślinnego z wyjątkiem pyłów drewna oraz mąki[-] - - - - - - frakcja wdychalna4) 4 -_ -_ - - - frakcja respirabilna6) 2 - - - - 458 Pyretryny[8003-34-7] 1 - - - - 459 Rezorcynol[108-46-3] 45 90 - - skóra 460 Rtęć [7439-97-6], pary i jej związki nieorganiczne - w przeliczeniu na Hg 0,02 - - - skóra 461 Sadza techniczna[1333-86-4]- frakcja wdychalna4) 4 - - - - 4 62 Selan - w przeliczeniu na Se[7783-07-5] 0,05 0,1 - - - 463 Selen [7782-49-2] i jego związki, z wyjątkiem selanu - w przeliczeniu na Se 0,1 0,3 - - - 464 Sewofluran[28523-86-6] 55 - - - - 465 Siarczan(VI) dimetylu[77-78-1] 0,5 1 - - skóra 466 Siarczan(VI) wapnia (gips) [7778-18-9]-frakcja wdychalna4),7) 10 - - - - 467 Siarkowodór[7783-06-4] 7 14 - - - 468 Spaliny silnika Diesla - frakcja respirabilna6) [-] 0,5 - - - - 469 Srebro [7440-22-4] - frakcja wdychalna4) 0,05 - - - - 470 Srebra związki nierozpuszczalne -w przeliczeniu na Ag[-] 0,05 - - - - 471 Srebra związki rozpuszczalne -w przeliczeniu na Ag[-] 0,01 - - - - 472 Stiban[7803-52-3] 0,5 1,5 - - - 473 Strychnina[57-24-9] 0,15 - - - - 474 Styren[100-42-5] 50 100 - - - 475 Sulfotep -ditiopirofosforan O,O,O,O-tetraetylu[3689-24-5] 0,1 - - - skóra 476 Sztuczne włókna mineralne, z wyjątkiem ogniotrwałych włókien ceramicznych- włókna respirabilne8)[-] - - - 1 - 477 Tal [7440-28-0] i jego związki -w przeliczeniu na TI 0,1 0,3 - - - 478 Talk [14807-96-6] - - - - - - frakcja wdychalna4) 4 - - - - - trakcja respirabilna6),18) 1 - - - - 479 Tantal[7440-25-7] 5 - - - - 480 Tellur [13494-80-9] i jego związki -w przeliczeniu na Te 0,01 0,03 - - - 481 Terpentyna[8006-64-2] 112 300 - - - 482 1,3,5,7-Tetraazaadamantan[100-97-0] 4 - - - - 483 1,1,2,2-Tetrabromoetan[79-27-6] 4 - - - - 484 Tetrachlorek węgla[56-23-5] 6,4 32 - - skóra 485 1,1,2,2-Tetrachloroetan[79-34-5] 5 35 - - skóra 486 Tetrachloroeten[127-18-4] 85 170 - - skóra 487 Tetraetyloplumban[78-00-2] 0,05 0,1 - - skóra 488 Tetrafluorek siarki[7783-60-0] 0,5 1 - - - 489 Tetrafosfor - fosfor biały, fosfor żółty[12185-10-3] 0,03 0,24 - - - 490 Tetrahydrofuran[109-99-9] 150 300 - - skóra 491 3a,4,7,7a-Tetrahydro-4,7-metanoinden[77-73-6] 10 - - - - 492 1,2,3,4-Tetrahydronaftalen[119-64-2] 100 300 - - - 493 Tetramętylosukcynonitryl[3333-52-6] 2,6 - - - skóra 494 Tetranitrometan[509-14-8] 0,04 - - - - 495 Tetratlenek osmu - w przeliczeniu na Os[20816-12-0] 0,002 0,006 - - - 496 4,4' -Tiobis (6-tert-butylo-3-metylofenol) - frakcja wdychalna4)[96-69-5] 10 - - - - 497 Tiuram - disulfid tetrametylotiuramu - frakcja wdychalna4)[137-26-8] 0,5 - - - - 498 Tlenek azotu[10102-43-9] 2,5 - - - - 499 Tlenek diazotu[10024-97-2] 90 - - - - 500 Tlenek cynku [1314-13-2] -w przeliczeniu na Zn - frakcja wdychalna4) 5 10 - - - 501 Tlenek magnezu [1309-48-4]- frakcja wdychalna4) 10 - - - - 502 Tlenek wapnia [1305-78-8] - - - - - - frakcja wdychalna 2 6 - - - - frakcja respiratailna6) 1 4 - - - 503 Tlenek węgla[630-08-0] 23 117 - -- - 504 Tlenki żelaza - w przeliczeniu na FeTlenek żelaza(III)[1309-37-1]Tlenek żelaza(II)[1345-25-1]Tetratlenek triżelaza[1309-38-2; 1317-61-9] - - - - - - frakcja wdychalna 5 10 - - - - frakcja respiratailna 2,5 5 - - - 505 2-Toliloamina[95-53-4] 3 - - - skóra 506 4-Toliloamina[106-49-0] 8 - - - skóra 507 Toluen[108-88-3] 100 200 - - skóra 508 Tolueno-2,4-diamina[95-80-7] 0,04 0,1 - - - 509 1,3,5-Triazinano-2,4,6-trion; 1,3,5-triazyno-2,4,6-triol - frakcja wdychalna4)[108-80-5] 10 - - - - 510 Triazotan(V)-propano-1,2,3-triylu[55-63-0] 0,095 0,19 - - skóra 511 Tribromek boru[10294-33-4] - - 10 - - 512 Trichlorek fosforu[7719-12-2] 1 2 - - - 513 Trichlorek fosforylu[10025-87-3] 1 2 - - - 514 Trichlorfon - 2,2,2-trichloro-1-hydroksy-etylofosfonian dimetylu[52-68-6] 0,5 2 - - skóra 515 Trichlorobenzen - mieszanina izomerów (1,2,3-,-1,2,4- i 1,3,5-)[87-61-6; 120-82-1; 108-70-3] 15 30 - - skóra 516 1,1,1-Trichloroetan[71-55-6] 300 600 - - skóra 517 1,1,2-Trichloroetan[79-00-5] 40 - - - skóra 518 Trichloroeten[79-01-6] 50 100 - - skóra 519 Trichlorofluorometan[75-69-4] - - 5600 - - 52 0 Trichloronaftalen - mieszanina izomerów[1321-65-9] 5 - - - skóra 521 Trichloronitrornetan[76-06-2] 0,5 1,5 - - - 522 1,2,3-Trichloropropan[96-18-4] 7 - - - skóra 523 2,4,6-Trichloro-l,3,5-triazyna - pary i frakcja wdychalna4)[108-77-0] 0, 05 0,1 - - - 524 Trietyloamina[121-44-8] 3 9 - - skóra 525 Trimetoksyfosfan[121-45-9] 5 10 - - skóra 52 6 Trimetyloamina[75-50-3] 12 24 - - - 527 Trimetylobenzen - mieszanina izomerów (1,2,3-, 1,2,4- i 1,3,5-)[526-73-8; 95-63-6; 108-67-8; 25551-13-7] 100 170 - - skóra 52 8 2,5,5-Trimetylocykloheks-2-en-l-on[78-59-1] 5 10 - - - 52 9 2,4,6-Trinitrotoluen[118-96-7] 1 3 - - skóra 530 1,3,5-Trinitro-l,3,5-triazinan[121-82-4] 1 3 - - - 531 1,3,5-Trioksan[110-88-3] 15 75 - - - 532 Tritlenek diboru [13 03-8 6-2]- frakcja wdychalna 10 - - - - 533 Tritlenek glinu [1344-28-1]-w przeliczeniu na A1: - - - - - - frakcja wdychalna4) 2,5 - - - - - frakcja respiratailna6) 1,2 - - - - 534 Tritlenek siarki[7446-11-9] 1 3 - - - 535 Tytan [7440-32-6] i jego związki -w przeliczeniu na Ti 10 30 - - - 536 Uran [7440-61-1] i jego związki -w przeliczeniu na U: - - - - - a) związki nierozpuszczalne 0,075 0,6 - - - ta) związki rozpuszczalne 0,015 0,12 - - - 537 Uwodornione terfenyle[61788-32-7] 12,5 48 - - - 538 Węgiel (kamienny, brunatny): - - - - - - frakcja wdychalna4) 10 - - - - - frakcja respiratailna6),7) 2 - - - - 539 Węglan magnezu wapnia (dolomit) [16389-88-1]- frakcja wdychalna4),7) 10 - - - - 540 Węglan wapnia[471-34-1]- frakcja wdychalna4) 10 - - - - 541 Węglik krzemu, niewłóknisty[409-21-2]-frakcja wdychalna4),7) 10 - - - - 542 Wielopierścieniowe węglowodory aromatyczne (WWA) - jako suma iloczynów stężeń i współczynników rakotwórczości 9 rakotwórczych WWA20) [-] 0,002 - - - skóra 543 4-Winylocykloheksen[100-40-3] 10 - - - - 544 Winylotoluen - mieszanina izomerów[25013-15-4] 100 300 - - - 545 Wodorek litu[7580-67-8]- frakcja wdychalna4) 0,01 0,02 - - - 546 Wodorotlenek glinu [21645-51-2]- - - - - - w przeliczeniu na Al: -frakcja wdychalna4) 2,5 - - - - -frakcja respiratailna 1,2 - - - - 547 Wodorotlenek potasu[1310-58-3] 0,5 1 - - - 548 Wodorotlenek sodu[1310-73-2] 0,5 1 - - - 549 Wodorotlenek wapnia[1305-62-0] - - - - - - frakcja wdychalna4) 2 6 - - - - frakcja respiratailna6) 1 4 - - - 550 Wolfram [7440-33-7]- frakcja wdychalna4) 5 - - - - 551 Wolframu związki nierozpuszczalne -w przeliczeniu na W[-] 5 - - - - 552 Wolframu związki rozpuszczalne -w przeliczeniu na W[-] 1 - - - - 553 Zieleń kwasowa V(1-[4-(dietyloamino) fenylo][4-(dietyloimino)cykloheksa-2,5-dien-l-ylideno]metylo-6-sulfonianonaftaleno-3-sulfonian sodu)[12768-78-4] 10 - - - - 554 Związki chromu(VI) - w przeliczeniu na Cr(VI)[-] 0, 01 - - - - 555 Związki tributylocyny(IV)[-] 0, 02 - - - skóra 556 Żelazowanad- frakcja wdychalna4)[12604-58-9] 1 3 - - - 1) CAS (Chemical Abstracts Service Registry Number) jest oznaczeniem numerycznym substancji pozwalającym jednoznacznie zidentyfikować substancję chemiczną. 2) mg/m3 -jednostka miligramy na metr sześcienny powietrza odnosząca się do pomiaru wykonywanego w temperaturze 20şC i przy ciśnieniu 101,3 KPa (760 mm słupa rtęci). 3) Oznakowanie substancji notacją „skóra” oznacza, że wchłanianie substancji przez skórę może być tak samo istotne jak przy narażeniu drogą oddechową. 4) Frakcja wdychania - frakcja aerozolu wnikająca przez nos i usta, która po zdeponowaniu w drogach oddechowych stwarza zagrożenie dla zdrowia, określona zgodnie z normą PN-EN 481. 5) Czysta substancja ma nazwę zwyczajową HHDN, a produkt zawierający 85% HHDN nosi nazwę „aldryna”. 6) Frakcja respirabilna - frakcja aerozolu wnikająca do dróg oddechowych, która stwarza zagrożenie dla zdrowia po zdeponowaniu w obszarze wymiany gazowej, określona zgodnie z normą PN-EN 481. 7) Obowiązuje jednoczesne oznaczanie stężeń frakcji respirabilnej krzemionki krystalicznej. 8) Włókna respirabilne - włókna o długości powyżej 5µm, o maksymalnej średnicy poniżej 3 urn i o stosunku długości do średnicy > 3. 9) Obowiązuje równoległe oznaczanie stężeń benzenu w powietrzu. 10) Czysta substancja ma nazwę zwyczajową HEOD, a produkt zawierający 85% HEOD nosi nazwę „dieldryna”. 11) NDS dotyczy mieszaniny izomerów; w przypadku występowania w środowisku pracy jednego z nich, należy stosować tę samą wartość NDS (podany numer CAS dotyczy mieszaniny). 12) Poddana obróbce termicznej powyżej 800şC. 13) Frakcja torakalna - frakcja aerozolu wnikająca do dróg oddechowych w obrębie klatki piersiowej, która stwarza zagrożenie dla zdrowia po zdeponowaniu w obszarze tchawiczo-oskrzelowym i obszarze wymiany gazowej, określona zgodnie z normą PN-EN 481. 14) Ogniotrwałe włókna ceramiczne, które są czynnikami rakotwórczymi kategorii l.B w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającego i uchylającego dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającego rozporządzenie (WE) nr 1907/2006 i rozporządzenia Ministra Zdrowia z dnia 24 lipca 2012 r. w sprawie substancji chemicznych, ich mieszanin, czynników lub procesów technologicznych o działaniu rakotwórczym lub mutagennym w środowisku pracy (Dz. U. z 2016 r. poz. 1117), których średnia geometryczna średnica włókien ważona długością pomniejszona o dwa standardowe błędy geometryczne jest mniejsza niż 6 µm. 15) Oleje mineralne wysokorafinowane to oleje z nieistotną zawartością WWA, które nie są sklasyfikowane jako rakotwórcze w UE. 16) NDS dotyczy również 3-metylobutan-l-olu (alkoholu izoamylowego) [123-51-3] oraz pozostałych izomerycznych alkoholi. 17) Wartość NDS dotyczy wszystkich rodzajów pyłów drewna. Substancja rakotwórcza kategorii 1 zgodnie z klasyfikacją Międzynarodowej Organizacji Badań nad Rakiem, IARC (Monografia IARC t. 100C, 2012). 18) Obowiązuje jednoczesne oznaczanie stężeń włókien respirabilnych azbestu. 19) W przypadku obecności w miejscu pracy także diazotanu glikolu etylenowego (nitroglikolu, EGDN), związku o takim samym mechanizmie działania jak nitrogliceryna, jest konieczne uwzględnienie sumy ilorazu średnich stężeń ważonych obu związków do ich wartości NDS, która nie może przekroczyć wartości równej 1. 20) Wartości współczynników rakotwórczości (k) wynoszą dla: dibenzo[a, h]antracenu - 5, benzo[a]pirenu - 1, benzo[a]antracenu - 0,1, benzo[b]fluoroantenu - 0,1, benzo[k]fluoroantenu - 0,1, indeno[l,2,3-c, d]pirenu - 0,1, antracenu - 0,01, benzo[g, h, i]perylenu - 0,01 i chryzenu- 0,01. UWAGA: Jeżeli NDS dotyczy mieszaniny izomerów, to w przypadku występowania w środowisku pracy jednego z nich, należy stosować tę samą wartość NDS (podany numer CAS dotyczy mieszaniny).
+
+## Załącznik nr 2 - Wykaz wartości najwyższych dopuszczalnych natężeń fizycznych czynników szkodliwych dla zdrowia w środowisku pracy
+
+### A.
+
+Hałas i hałas ultradźwiękowy
+
+### 1.
+
+Hałas
+
+### 1.1.
+
+Hałas w środowisku pracy jest charakteryzowany przez:
+
+### a)
+
+poziom ekspozycji na hałas odniesiony do 8-godzinnego dobowego wymiaru czasu pracy i odpowiadającą mu ekspozycję dzienną lub poziom ekspozycji na hałas odniesiony do przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy, i odpowiadającą mu ekspozycję tygodniową (wyjątkowo w przypadku hałasu oddziałującego na organizm człowieka w sposób nierównomierny w poszczególnych dniach w tygodniu),
+
+### b)
+
+maksymalny poziom dźwięku A,
+
+### c)
+
+szczytowy poziom dźwięku C.
+
+### 1.2.
+
+Dopuszczalne ze względu na ochronę słuchu wartości hałasu obowiązują jednocześnie i nie mogą przekraczać wartości podanych w pkt 1.3-1.5.
+
+### 1.3.
+
+Poziom ekspozycji na hałas odniesiony do 8-godzinnego dobowego wymiaru czasu pracy nie może przekraczać 85 dB, a odpowiadająca mu ekspozycja dzienna nie może przekraczać wartości 3,64 x 103 Pa2 x s lub poziom ekspozycji na hałas odniesiony do przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy, nie może przekraczać wartości 85 dB, a odpowiadająca mu ekspozycja tygodniowa nie może przekraczać wartości 18,2 x 103 Pa2 x s.
+
+### 1.4.
+
+Maksymalny poziom dźwięku A nie może przekraczać wartości 115 dB.
+
+### 1.5.
+
+Szczytowy poziom dźwięku C nie może przekraczać wartości 135 dB.
+
+### 1.6.
+
+Wartości podane w pkt 1.3-1.5 stosuje się, jeżeli inne szczegółowe przepisy nie określają wartości niższych.
+
+### 1.7.
+
+Definicje pojęć i metody pomiaru hałasu określają Polskie Normy.
+
+### 2.
+
+Hałas ultradźwiękowy
+
+### 2.1.
+
+Hałas ultradźwiękowy na stanowiskach pracy jest charakteryzowany przez:
+
+### a)
+
+równoważne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 do 40 kHz odniesione do 8-godzinnego dobowego wymiaru czasu pracy lub równoważne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 do 40 kHz odniesione do przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (wyjątkowo w przypadku oddziaływania hałasu ultradźwiękowego na organizm człowieka w sposób nierównomierny w poszczególnych dniach w tygodniu),
+
+### b)
+
+maksymalne poziomy ciśnienia akustycznego w pasmach tercjowych o częstotliwościach środkowych od 10 do 40 kHz.
+
+### 2.2.
+
+Równoważne poziomy ciśnienia akustycznego na stanowiskach pracy, odniesione do 8-godzinnego dobowego wymiaru czasu pracy lub przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy, oraz maksymalny poziom ciśnienia akustycznego nie mogą przekraczać wartości podanych w tabeli 1. Tabela 1. Częstotliwość środkowa pasm tercjowych [kHz] Równoważny poziom ciśnienia akustycznego odniesiony do 8-godzinnego dobowego wymiaru czasu pracy lub przeciętnego tygodniowego wymiaru czasu pracy, określonego w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy [dB] Maksymalny poziom ciśnienia akustycznego [dB] 10; 12,5; 16 80 100 20 90 110 25 105 125 31,5; 40 110 130
+
+### 2.3.
+
+Wartości podane w tabeli 1 obowiązują jednocześnie.
+
+### 2.4.
+
+Wartości podane w tabeli 1 stosuje się, jeżeli inne szczegółowe przepisy nie określają wartości niższych.
+
+### 2.5.
+
+Definicje pojęć i metody pomiaru hałasu ultradźwiękowego określają Polskie Normy.
+
+### B.
+
+Drgania działające na organizm człowieka przez kończyny górne i drgania o ogólnym działaniu na organizm człowieka
+
+### 1.
+
+Drgania działające na organizm człowieka przez kończyny górne
+
+### 1.1.
+
+Drgania na stanowisku pracy działające na organizm człowieka przez kończyny górne są charakteryzowane przez:
+
+### a)
+
+ekspozycję dzienną, wyrażoną w postaci równoważnej energetycznie dla 8 godzin działania sumy wektorowej skutecznych, skorygowanych częstotliwościowo przyspieszeń drgań, wyznaczonych dla trzech składowych kierunkowych (ahwx, ahwy, ahwz),
+
+### b)
+
+ekspozycję trwającą 30 minut i krócej, wyrażoną w postaci sumy wektorowej skutecznych, ważonych częstotliwościowo przyspieszeń drgań wyznaczonych dla trzech składowych kierunkowych (ahwx, ahwy, ahwz).
+
+### 1.2.
+
+Wartość ekspozycji dziennej nie może przekraczać 2,8 m/s2.
+
+### 1.3.
+
+Wartość ekspozycji trwającej 30 minut i krócej nie może przekraczać 11,2 m/s2.
+
+### 1.4.
+
+Wartości podane w pkt 1.2 i 1.3 stosuje się, jeżeli inne szczegółowe przepisy nie określają wartości niższych.
+
+### 1.5.
+
+Definicje pojęć i metody pomiaru drgań działających na organizm człowieka przez kończyny górne określają Polskie Normy.
+
+### 2.
+
+Drgania o ogólnym działaniu na organizm człowieka
+
+### 2.1.
+
+Drgania na stanowisku pracy o ogólnym działaniu na organizm człowieka są charakteryzowane przez:
+
+### a)
+
+ekspozycję dzienną, wyrażoną w postaci równoważnego energetycznie dla 8 godzin działania skutecznego, skorygowanego częstotliwościowo przyspieszenia drgań, dominującego wśród przyspieszeń drgań, wyznaczonych dla trzech składowych kierunkowych z uwzględnieniem właściwych współczynników (1,4awx, 1,4awy, awz),
+
+### b)
+
+ekspozycję trwającą 30 minut i krócej, wyrażoną w postaci skutecznego, ważonego częstotliwościowo przyspieszenia drgań, dominującego wśród przyspieszeń drgań, wyznaczonych dla trzech składowych kierunkowych z uwzględnieniem właściwych współczynników (1,4awx, 1,4awy, awz).
+
+### 2.2.
+
+Wartość ekspozycji dziennej nie może przekraczać 0,8 m/s2.
+
+### 2.3.
+
+Wartość ekspozycji trwającej 30 minut i krócej nie może przekraczać 3,2 m/s2.
+
+### 2.4.
+
+Wartości podane w pkt 2.2 i 2.3 stosuje się, jeżeli inne szczegółowe przepisy nie określają wartości niższych.
+
+### 2.5.
+
+Definicje pojęć i metody pomiaru drgań o ogólnym działaniu na organizm człowieka określają Polskie Normy.
+
+### C.
+
+Mikroklimat
+
+### 1.
+
+Mikroklimat gorący
+
+### 1.1.
+
+Kryterium klasyfikacji środowiska termicznego do obszaru mikroklimatu gorącego jest wartość wskaźnika PMV (przewidywana ocena średnia) w zakresie powyżej +2,0.
+
+### 1.2.
+
+Obciążenie termiczne w mikroklimacie gorącym określa się za pomocą wskaźnika WBGT wyrażonego w stopniach Celsjusza [şC].
+
+### 1.3.
+
+Wartości WBGT nie mogą przekraczać w ciągu 8-godzinnego dobowego wymiaru czasu pracy wartości dopuszczalnych podanych w tabeli 2. Tabela 2. Klasa tempa metabolizmu Tempo metabolizmu Wartości dopuszczalne WBGT Odniesienie do jednostki powierzchni skóry, [W/m2] Całkowite (przy średniej powierzchni skóry 1,8 m2),[W] Osoba zaaklimatyzowana w środowisku gorącym[şC] Osoba niezaaklimatyzowana w środowisku gorącym[şC] 0(spoczynek) M ≤ 65 M ≤ 117 33 32 1(praca lekka) 65 <M ≤ 130 117 < M ≤ 234 30 29 2(praca średnio ciężka) 130 < M ≤ 200 234 < M ≤ 360 28 26 3(praca ciężka) 200 < M ≤ 260 360 < M ≤ 468 nieodczuwalny ruch powietrza25 odczuwalny ruch powietrza26 nieodczuwalny ruch powietrza22 odczuwalny ruch powietrza23 4(praca bardzo ciężka) M > 260 M > 468 23 25 18 20
+
+### 1.4.
+
+Definicje pojęć i metody pomiaru mikroklimatu gorącego określają Polskie Normy.
+
+### 2.
+
+Mikroklimat zimny
+
+### 2.1.
+
+Mikroklimat zimny odnosi się do warunków środowiska termicznego, dla których temperatura powietrza wynosi poniżej 10şC, a prędkość ruchu powietrza i jego wilgotność względna są większe odpowiednio od 0,1 ms-1 i 5%.
+
+### 2.2.
+
+Dopuszczalne wychłodzenie ogólne organizmu określa wartość wskaźnika IREQmin i IREQneutral [m2⋅K⋅W-1], które zależą od warunków środowiska termicznego, metabolizmu (wydatku energetycznego) oraz parametrów odzieży (izolacyjności i przepuszczalności powietrza).
+
+### 2.3.
+
+Dopuszczalne wychłodzenie miejscowe organizmu określa wskaźnik tWC [şC]. Wartości dopuszczalne czasu narażenia w zależności od wskaźnika tWC określono w tabeli 3. Tabela 3. Wartości dopuszczalne tWC Temperatura chłodzenia powietrzem tWC [şC] Dopuszczalny czas ekspozycji [min] tWC > -24 Ekspozycja ciągła -24 ≥ tWC > -34 Ekspozycja skrócona, określana zgodnie z równaniem:Czas ekspozycji = 50 ⋅ tWC + 1730 -34 ≥ tWC > -59 Ekspozycja skrócona, określana zgodnie z równaniem:Czas ekspozycji = 0,8 ⋅ tWC + 57,2 tWC ≤ -59 Ekspozycja zabroniona
+
+### 2.4.
+
+Definicje pojęć oraz metody pomiaru i oceny mikroklimatu zimnego określają Polskie Normy.
+
+### D.
+
+Promieniowanie optyczne
+
+### 1.
+
+Promieniowanie nielaserowe
+
+### 1.1.
+
+Maksymalna dopuszczalna ekspozycja (MDE) - poziom promieniowania, na który w normalnych warunkach pracy mogą być eksponowane osoby bez doznawania szkodliwych skutków dla zdrowia; wartości MDE wyrażane są wielkościami wymienionymi w pkt 1.4.
+
+### 1.2.
+
+Wartości MDE zależą od:
+
+### a)
+
+długości fali promieniowania,
+
+### b)
+
+czasu trwania ekspozycji,
+
+### c)
+
+rodzaju narażonego narządu (oko lub skóra),
+
+### d)
+
+kąta widzenia źródła promieniowania (w przypadku MDE dla oka i promieniowania z zakresu 300-1400 nm).
+
+### 1.3.
+
+Wartości MDE na nielaserowe promieniowanie optyczne określa tabela 4.
+
+### 1.4.
+
+Wielkości przyjęte do określania wartości MDE: Hs- skuteczne napromienienie (dla oka i skóry w zakresie długości fali 180-400 nm); HUVA- napromienienie (dla oka w zakresie długości fali 315-400 nm); LB- skuteczna luminancja energetyczna (dla oka w zakresie długości fali 300-700 nm); EB- skuteczne natężenie napromienienia (dla oka w zakresie długości fali 300-700 nm); LR- skuteczna luminancja energetyczna (dla oka w zakresie długości fali 380-1400 nm); EIR- natężenie napromienienia (dla oka w zakresie długości fali 780-3000 nm); Hskóra - napromienienie (dla skóry w zakresie długości fali 380-3000 nm). Definicje wyżej wymienionych pojęć oraz wzory przeliczeniowe wielkości występujących w tabeli 4 określają przepisy rozporządzenia w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z ekspozycją na promieniowanie optyczne.
+
+### 1.5.
+
+Określenie czasu trwania ekspozycji:
+
+### a)
+
+w przypadku zagrożenia fotochemicznego (lp. 1-6 w tabeli 4) należy określić całkowity czas ekspozycji w ciągu zmiany roboczej, bez względu na długość jej trwania,
+
+### b)
+
+w przypadku zagrożenia termicznego (lp. 7-15 w tabeli 4) należy określić czas jednorazowej ekspozycji.
+
+Definicje pojęć i metody wyznaczania czasu trwania ekspozycji na promieniowanie nielaserowe określają przepisy rozporządzenia w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z ekspozycją na promieniowanie optyczne. Tabela 4. Wartości maksymalnych dopuszczalnych ekspozycji (MDE) na nielaserowe promieniowanie optyczne Lp. Długość fali Λ [nm] Wartości MDE Czas ekspozycji do wyznaczania wartości MDEt [s] Kąt widzenia α [mrad]albowspółcz. Cα [bezwymiarowy] Narząd Rozpatrywane zagrożenie 1 180÷400(UVA, UVB i UVC) Hs= 30 [Jm2] całkowity czas ekspozycji - Oko (rogówka, spojówka, soczewka)Skóra Oddziaływanie fotochemiczne 2 315÷400 (UVA) HUVA= 104 [J m-2] - Oko (soczewka) 3 300÷700(światło niebieskie)1) LB = (106 / t) [W m-2 sr-1] dlaf< 10 000f- całkowity czas ekspozycji α ≥ 11 Oko (siatkówka) 4 LB= 100 [W m-2 sr-1] dlaf> 10 000f- całkowity czas ekspozycji 5 EB =(100 / t) [W m-2 ] dlaf< 10 000f- całkowity czas ekspozycji a< 112) 6 Eb= 0,01 [W m-2] dla t >10 000f- całkowity czas ekspozycji 7 380÷1400(VIS i IRA) Lr=(2,8-107/Cα)[Wm-2sr-1] dlaf > 10t - jednorazowy czas ekspozycji Cα = 1,7 dlaα ≤ 1,7Cα = α dla1,7 ≤ α ≤100Cα = 100 dlaα ≥ 100 Oko (siatkówka) Oddziaływanie termiczne 8 LR = (5-107 / Cαt0 25,)[W m-2 sr-1 ] dla10-6 < f < 10t -jednorazowy czas ekspozycji 9 LR = (8,89 108 / Cα)[W m-2 sr-1 ] dlaf < 10-6t -jednorazowy czas ekspozycji 10 780÷1400(IRA) LR = (6 106 / Cα)[W m-2 sr-1 ] dlaf > 10 st -jednorazowy czas ekspozycji Cα = 11 dlaα ≤ 11Cα = α dla11 ≤ α ≤ 100Cα = 100 dlaα> 100(pomiarowe pole widzenia: 11 mrad)3) 11 LR = (5 107 / Cα)[W m-2 sr-1 ] dla10-6 < f < 10t - jednorazowy czas ekspozycji 12 LR = (8,89 107 / Cα)[W m-2 sr-1 ] dlaf < 10-6t -jednorazowy czas ekspozycji 13 780÷3000 (IRA i IRB) EIR= 18 000 t-0.75 [W m-2] dla f ≤ 1000t -jednorazowy czas ekspozycji - Oko (rogówka, soczewka) 14 EIR= 100 [W m-2] dla t > 1000t -jednorazowy czas ekspozycji 15 380÷3 000 (VIS, IRA i IRB) Hskóra = 20 000 t-0.25 [J m-2] dla t < 10t -jednorazowy czas ekspozycji - Skóra 1) Zakres od 300 do 700 nm obejmuje część promieniowania UVB, całe promieniowanie UVA i większość promieniowania widzialnego, jednakże związane z nim zagrożenie określa się powszechnie mianem zagrożenia światłem niebieskim. Światło niebieskie w wąskim znaczeniu obejmuje jedynie zakres w przybliżeniu od 400 do 490 nm. 2) W odniesieniu do stałej obserwacji bardzo małych źródeł, których kąt widzenia < 11 mrad, można przekształcić skuteczną luminację energetyczną LBna skuteczne natężenie napromienienia EB, Zwykle dotyczy to jedynie sytuacji stosowania narzędzi okulistycznych lub unieruchomienia oka podczas znieczulenia. Maksymalny czas patrzenia oblicza się za pomocą wzoru: fmax = 100 / EB, gdzie EBjest wyrażone w W m2. Ze względu na ruch oczu podczas wykonywania zwykłych zadań wzrokowych, wartość ta nie przekracza 100 s. 3) Pomiarowe pole widzenia - kąt przestrzenny widziany przez detektor (kąt odbioru), taki jak radiometr/spektroradiometr, z którego detektor odbiera promieniowanie, wyrażany w steradianach [sr], którego nie należy mylić z kątem widzenia α(rozmiarem kątowym źródła obserwowalnego). Do opisu kąta przestrzennego pola widzenia o symetrii kołowej stosuje się nieraz kąt płaski [mrad].
+
+### 2.
+
+Promieniowanie laserowe
+
+### 2.1.
+
+Maksymalna dopuszczalna ekspozycja (MDE) - poziom promieniowania laserowego, na który w normalnych warunkach pracy urządzenia laserowego mogą być eksponowane osoby bez doznawania szkodliwych skutków; wartości MDE wyrażane są jako natężenie napromienienia (E) albo napromienienie (H).
+
+### 2.2.
+
+Wartości MDE zależą od:
+
+### a)
+
+długości fali promieniowania laserowego,
+
+### b)
+
+czasu trwania ekspozycji lub impulsu,
+
+### c)
+
+rodzaju narażonego narządu (oko, skóra),
+
+### d)
+
+kąta widzenia źródła promieniowania (w przypadku MDE dla oka i promieniowania z zakresu 400÷1400 nm).
+
+### 2.3.
+
+Wartości MDE dla:
+
+### a)
+
+oka i skóry na promieniowanie laserowe z zakresu 180÷400 nm określa tabela 5,
+
+### b)
+
+oka na promieniowanie laserowe z zakresu 400÷1400 nm dla czasów trwania ekspozycji < 10 s określa tabela 6,
+
+### c)
+
+oka na promieniowanie laserowe z zakresu 400÷1400 nm dla czasów trwania ekspozycji ≥ 10 s określa tabela 7,
+
+### d)
+
+skóry na promieniowanie laserowe z zakresu 400÷1400 nm określa tabela 8,
+
+### e)
+
+oka i skóry na promieniowanie laserowe z zakresu 1400÷106 nm określa tabela 9.
+
+### 2.4.
+
+Jeżeli dla danej długości fali promieniowania laserowego istnieje więcej niż jedna wartość MDE, stosuje się wartość bardziej restrykcyjną.
+
+### 2.5.
+
+Określenie czasu trwania ekspozycji. W zależności od analizowanego zagrożenia oraz trybu pracy lasera są to: czas trwania impulsu, czas jednorazowej ekspozycji (dla zagrożenia termicznego) lub całkowity czas ekspozycji w ciągu zmiany roboczej (dla zagrożenia fotochemicznego).
+
+### 2.6.
+
+Mierzone wartości napromienienia lub natężenia napromienienia powinny być uśredniane w kołowej aperturze ograniczającej zgodnie z aperturami ograniczającymi określonymi w tabeli 10. Definicje pojęć i metody pomiaru określają odpowiednie Polskie Normy.
+
+### 2.7.
+
+Wartości stosowanych współczynników korekcyjnych i innych parametrów obliczeniowych określa tabela 11.
+
+### 2.8.
+
+W przypadku źródeł laserowych emitujących promieniowanie impulsowe powtarzalne, niezależnie od długości fali, należy określić wartości MDE oka i skóry dla każdego z poniższych warunków:
+
+### a)
+
+zagrożenie pojedynczym impulsem - należy określić MDE na pojedynczy impuls promieniowania (MDEpoj); ekspozycja na dowolny pojedynczy impuls w ciągu impulsów nie może przekraczać MDEpoj o tym czasie trwania impulsu,
+
+### b)
+
+zagrożenie ciągiem impulsów w czasie trwania ekspozycji - należy określić MDE na ciąg impulsów w czasie trwania ekspozycji; ekspozycja na dowolną grupę (lub podgrupę impulsów w ciągu impulsów) dostarczonych w czasie trwania ekspozycji nie może przekraczać MDE dla tego czasu trwania ekspozycji,
+
+### c)
+
+zagrożenie termiczne ciągiem impulsów, których oddziaływanie ma charakter addytywny:
+
+- - należy określić wartość skumulowanego termicznego współczynnika korekcyjnego Cp= N-0,25, gdzie N oznacza liczbę impulsów w czasie trwania ekspozycji, a następnie przemnożyć przez wyznaczoną wartość MDE dla pojedynczego impulsu MDEpoj i do analizy przyjąć wartość wynikową nowego MDET MDET= Cp⋅ MDEpoj,
+
+- - dla danej długości fali rozpatrywanego promieniowania laserowego, gdy czas trwania pojedynczego impulsu jest krótszy od czasu Tmin określonego w tabeli 12, należy do obliczeń MDE przyjąć czas trwania impulsu równy Tmin, natomiast gdy czas trwania pojedynczego impulsu jest dłuższy od Tmin, należy do obliczeń przyjąć rzeczywisty czas trwania impulsu.
+
+Tabela 5. Wartości maksymalnych dopuszczalnych ekspozycji (natężenia napromienienia E lub napromienienia H) oka oraz skóry na promieniowanie laserowe z zakresu 180÷400 nm Długość fali [nm] Czas trwania ekspozycji t [s] 10-13÷10-9 <2,6-10-9 < 1,3 10-8 < 1,0 ⋅ 10-7 < 6,7 ⋅ 10-7 < 4,0 ⋅ 10"6 < 2,6 ⋅ 10-5 <1,6 ⋅ 10-4 <1,0 ⋅ 10"3 < 6,7 ⋅ 10-3 < 4,0 ⋅ 10-2 < 2,6 ⋅ 10"1 < 1,6 ⋅ 10ş < 10 10÷3 ⋅ 104 UVC 180÷280 E=3-1010[Wm-2] H = 30 [J m-2] UVB 280÷302 303 H = 40 [J m-2] 304 H = 60 [J m-2] 305 H = 5,6-103t0,25 [J m-2]*) H = 100 [J m-2] 306 H = 160 [J m-2] 307 H = 250 [J m-2] 308 H = 400 [J m-2] 309 H = 630 [J m-2] 310 H = 103 [J m-2] 311 H = 1,6-103 [J m-2] 312 H = 2,5-10 3 [J m-2] 313 H = 4,0-103 [J m-2] 314 H = 6,3-103[J m-2] UVA 315÷400 H = 5,6 ⋅ 103t0,25 [J m-2] H = 104 [J m-2] *) Wartości napromienienia określone dla pojedynczych impulsów laserowych. W przypadku ciągu impulsów, z których każdy charakteryzuje się czasem trwania impulsu mniejszym od Tmin (wymienione w tabeli 12), przy wyznaczaniu MDE należy dodać wartości czasów trwania impulsów, a będącą wynikiem wartość czasu należy podstawić w miejsce t we wzorze: 5,6 ⋅ 103 t0,25. Tabela 6. Wartości maksymalnych dopuszczalnych ekspozycji (napromienienia H) oka na promieniowanie laserowe - czas trwania ekspozycji < 10 s Długość fali [nm] Czas trwania ekspozycji r [s] 10-13÷10-11 10-11÷10-9 10-9÷1.8 10-5 1.8 ⋅ 10-5÷5 ⋅ 10-5 5 ⋅ 10-5÷101 Widzialne i IRA 400÷1050 H=1,5 - 10-4 CACE [Jm-2] H = 2,7 ⋅ 104 t0,75CA CE[Jm-2] H = 5 ⋅ 10-3CA CE[Jm-2] H = 18 ⋅ t 0,75 CACE [Jm-2] 1050÷1400 H=1,5- 10-3 CcCE [Jm-2] H = 2,7-105t0,75CcCE[Jm-2] H = 5 ⋅ 10-2 Cc CE [J m-2] H = 90 - t0,75 CcCE[J m-2] Wartości współczynników korekcyjnych CA, CC, CEpodano w tabeli 11. Tabela 7. Wartości maksymalnych dopuszczalnych ekspozycji (natężenia napromienienia E lub napromienienia H) oka na promieniowanie laserowe - czas trwania ekspozycji >10s Długość fali [nm] Czas trwania ekspozycji r [s] 101÷102 102÷104 104÷3 ⋅ 104 Widzialne 400÷600 fotochemiczne uszkodzenie siatkówki3) H = 100 CB [J m-2] (γ = 11 mrad)3) E=1CB[W m2];(γ = 1,1 t 0,5 mrad)3) E = 1 CB [W m-2](γ = 110 mrad)3) 400÷7001) 400+700 termiczne uszkodzenie siatkówki jeżeli α < 1,5 mrad, to E = 10 [W m-2]jeżeli α > 1,5 mrad i r ≤ T2, to H = 18CE t0,75 [J m-2]jeżeli α > 1,5 mrad i r > T2, to E = 18CE T2-0,25 [W m-2] IRA2) 700+1400 jeżeli α < 1,5 mrad, to E = 10 CA Cc[W m2]jeżeli α > 1,5 mrad i r ≤ T2, to H = 18 CA CCCE t0,75 [J m-2]jeżeli α > 1,5 mrad i r > T2, to E = 18 CACCCE T2-0,25 [W m-2] (maksymalnie 1000 W m-2) Wartości współczynników korekcyjnych CA, CB, CC, CE, parametru T2, kąta widzenia źródła promieniowania α oraz kąta odbioru y podano w tabeli 11.Uwaga: MDE dla zagrożenia fotochemicznego siatkówki oka może bvć wyrażone również poprzez zintegrowana luminancję energetyczna G = 106 CB [J m-2 sr-1] dla r > 10 s do r = 10000 soraz poprzez luminancję energetyczną L = 100 CB [W m-2 sr-1] dla t > 10 000 s. 1) Dla małych źródeł, których kąt widzenia wynosi co najwyżej 1,5 mrad, podwójne wartości MDE od 400 nm do 600 nm ograniczają się do termicznych wartości granicznych dla 10 s ≤ t < T1oraz do fotochemicznych wartości granicznych dla dłuższych czasów. 2) Oficjalna granica między promieniowaniem widzialnym a podczerwonym wynosi 780 nm, jak określa CIE (Międzynarodowy Komitet Oświetleniowy). Kolumna zawierająca nazwy zakresów długości fali ma jedynie zapewnić użytkownikowi lepszy ogólny przegląd. 3) Dla pomiaru wartości ekspozycji uwzględnienie γ jest określone w następujący sposób: Jeżeli α (kąt widzenia źródła) > y (stożkowy kąt ograniczający pomiarowe pole widzenia, wskazany w nawiasie w odpowiedniej kolumnie), to pomiarowe pole widzenia γmpowinno przyjmować wartość γ. Przy użyciu większego pomiarowego pola widzenia zagrożenie byłoby przeszacowane. Jeżeli α < γ, to pomiarowe pole widzenia γmmusi być wystarczająco duże, żeby całkowicie obejmować źródło, ale nie jest ograniczone w żaden inny sposób i może być większe niż γ. Tabela 8. Wartości maksymalnych dopuszczalnych ekspozycji (natężenia napromienienia E lub napromienienia H) skóry na promieniowanie laserowe z zakresu 400÷1400 nm Długość fali [nm] Czas trwania ekspozycji t [s] 10-13÷10-9 10-9÷10-7 10-7÷101 101÷3-104 Widzialne i IRA 400÷1400 E = 2 - 1011CA [W m-2] H = 200 CA [J m-2] H = 1,1 ⋅ 104CA t0,25 [J m -2] E = 2 ⋅ 103CA [W m-2] Wartości współczynnika korekcyjnegoCApodano w tabeli 11. Tabela 9. Wartości maksymalnych dopuszczalnych ekspozycji (natężenia napromienienia E lub napromienienia H) oka i skóry na promieniowanie laserowe z zakresu 1400÷106 nm Długość fali [nm] Czas trwania ekspozycji t [s] 10-13÷10-9 10-13÷10-9 10-7÷10-3 101÷3 104 101÷3-104 IRBiIRC 1400÷1500 E = 1012 [W m-2] H = 103 [J m-2] H = 5,6-103 - t0,25 [J m-2] E = 1 000 [W m-2] 1500-1800 E = 1013 [W m-2] H = 104 [J m-2] 1800-2600 E = 1012 [W m-2] H = 103 [J m-2] H = 5,6-103-t0,25 [J m-2] 2600-10 6 E = 1011 [W m-2] H = 100 [J m-2] H = 5,6-103-t0,25 [J m-2] Tabela 10. Wartości średnicy apertury ograniczającej w poszczególnych zakresach widmowych dla zagrożenia oka oraz skóry Długość fali Średnica apertury ograniczającej przy pomiarze Oko Skóra 180÷400 nm 1 mm dla t < 0,3 s1,5 ⋅ t0,375 mm dla 0,3 s < t< 10 s3,5 mm dla t>10 s 3,5 mm 400÷1400 nm 7 mm 3,5 mm 1400÷105 nm 1 mm dla t < 0,3 s1,5 ⋅ t0,375 mm dla 0,3 s < t < 10 s3,5 mm dla t ≥ 10 s 3,5 mm 105÷106 nm 11 mm 3,5 mm Tabela 11. Wartości stosowanych współczynników korekcyjnych i innych parametrów obliczeniowych Parametr Obowiązujący zakres widmowy [nm] Wartość CA λ< 700 CA= 1,0 700÷1050 CA= 10 0,002(λ- 700) 1050÷1400 CA= 5,0 Cb 400÷450 CB = 1,0 450÷700 CB=100,02(λ- 450) Cc 700÷1150 CC= 1,0 1150÷1200 CC= 100,018(λ- 1150) 1200÷1400 CC= 8,0 T1 λ < 450 T1= 10 s 450÷500 T1= 10-[100,02(λ- 450) ] s λ > 500 T1 = 100 s Parametr Obowiązujący zakres widmowy [nm] Wartość Parametr Obowiązujący zakres kątowy [mrad] Wartość CE α < 1,5 CE= 1,0 1,5 < α < 100 CE= α /1,5 α > 100 CE= α2 / 150 mrad T2 α < 1,5 T2= 10 s 1,5 < α < 100 T2 = 10-[10 (α - 1,5) / 98,5 ] s α > 100 72 = 100 s Parametr Obowiązujący zakres widmowy [nm] Wartość Parametr Obowiązujący zakres czasu trwania ekspozycji [s] Wartość Y t ≤ 100 γ = 11 [mrad] 100 < t < 104 γ = 1,1 t 0,5 [mrad] t > 104 Y= 110 [mrad] gdzie: CA- współczynnik korekcyjny ze względu na absorpcję promieniowania w melaninie (uwzględnia zmianę wartości widmowego współczynnika absorpcji promieniowania z zakresu 400÷1400 nm w melaninie) - zwiększa wartość MDE oka i skóry wraz ze wzrostem długości fali. CB- współczynnik korekcyjny ze względu na zagrożenie fotochemiczne siatkówki oka światłem niebieskim - zwiększa wartość MDE oka na promieniowanie z zakresu 400÷700 nm; w praktyce współczynnik CB stosowany jest w zakresie 400÷600 nm. CC- współczynnik korekcyjny ze względu na absorpcję promieniowania z zakresu długości fal 700÷1400 nm w rogówce - zwiększa wartość MDE oka na promieniowanie o długości fali powyżej 1150 nm. CE - współczynnik korekcyjny dla źródeł rozciągłych emitujących promieniowanie z zakresu długości fal 400÷1400 nm - zwiększa wartość MDE oka dla kątów widzenia źródła promieniowania α > 1,5 mrad. T1- parametr określający wartości czasów trwania ekspozycji powyżej których MDE dla zagrożenia fotochemicznego oka jest bardziej restrykcyjne (mniejsze wartości MDE) od MDE dla zagrożenia termicznego oka; stosowany jest w zakresie długości fal 400÷600 nm; dotyczy czasów trwania ekspozycji t ≥ 10 s i punktowych źródeł promieniowania laserowego. T2- parametr decydujący o wyborze MDE oka dla źródeł rozciągłych (stosowany dla zakresu długości fal 400÷1400 nm) w zależności od spełnienia warunku t > T2; w przypadku spełnienia warunku należy przy wyznaczaniu MDE korzystać z wartości czasu T2, natomiast w przypadku niespełnienia (t < T2) należy korzystać z czasu trwania ekspozycji t. γ - kąt płaski, zazwyczaj liczony w radianach, w obrębie którego detektor odbiera promieniowanie optyczne. Tabela 12. Wartości czasu Tmin dla poszczególnych zakresów widmowych Zakres widmowy [nm] Wartość Tmin 315 < λ ≤ 400 10-9 s (= 1 ns) 400 <A≤ 1050 18 ⋅ 10-6 s (= 18 µs) 1050 <A≤ 1400 50 ⋅ 10-6 s (= 50 µs) 1400 < λ ≤ 1500 10 -3 s (= 1 ms) 1500 < λ ≤ 1800 10 s 1800 < λ ≤ 2600 10 -3 s (= 1 ms) 2600 < λ ≤ 10 6 10-7 s (= 100 ns) Tmin - minimalny czas trwania impulsu przyjmowany do obliczeń.
+
+### E.
+
+Pole elektromagnetyczne
+
+###
+
+### 1.1.
+
+Pole elektromagnetyczne, zwane dalej „polem-EM”, którego składowymi są pole elektryczne i pole magnetyczne, zwane dalej odpowiednio „polem-E” i „polem-M”, oznacza czynnik fizyczny w środowisku pracy w postaci pola lub promieniowania elektromagnetycznego o częstotliwości z zakresu 0 Hz - 300 ×109 Hz.
+
+### 1.2.
+
+Wielkościami charakteryzującymi pole-EM na potrzeby oceny ekspozycji lub narażenia w przestrzeni pracy są: E - natężenie pola-E - wielkość wektorowa charakteryzująca pole-E w określonym miejscu, wyrażona w woltach na metr [V/m]; alternatywną wielkością charakteryzującą pole-E o częstotliwości f < 5 Hz jest ładunek elektryczny indukowany na ciele, Q, wyrażony w kulombach [C]; H - natężenie pola-M - wielkość wektorowa charakteryzująca pole-M w określonym miejscu, wyrażona w amperach na metr [A/m]; alternatywną wielkością charakteryzującą pole-M jest indukcja magnetyczna, B, wyrażona w teslach [T]; f - częstotliwość - wielkość skalarna charakteryzująca okresową zmienność pola-EM w czasie, wyrażona w hercach [Hz].
+
+### 2.
+
+Ustala się limity Interwencyjnych Poziomów Narażenia, zwane dalej „limitami IPN”, obowiązujące łącznie i podane w tabelach 13 i 14, jako:
+
+- - limity operacyjne: bazowe (IPNob), górne (IPNog) i dolne (IPNod),
+
+- - limity uzupełniające: pomocnicze (IPNp), szczytowe (IPNm) i miejscowe (IPNk).
+
+### 3.
+
+Do limitów narażenia na pole-EM określonych w tabelach 13 i 14 zastosowano oznaczenia: IPNob-E, IPNob-H - odnoszące się do limitów operacyjnych bazowych, rozumianych jako poziom natężenia, odpowiednio pola-E i pola-M; IPNog-E, IPNog-H - odnoszące się do limitów operacyjnych górnych, rozumianych jako poziom natężenia, odpowiednio pola-E i pola-M, określający górny limit pola-EM strefy zagrożenia; IPNod-E, IPNod-H - odnoszące się do limitów operacyjnych dolnych, rozumianych jako poziom natężenia, odpowiednio pola-E i pola-M, określający dolny limit pola-EM strefy zagrożenia; IPNp-E, IPNp-H - odnoszące się do limitów pomocniczych, rozumianych jako poziom natężenia, odpowiednio pola-E i pola-M, określający dolny limit pola-EM strefy pośredniej; IPNm-E, IPNm-H - odnoszące się do limitów szczytowych, rozumianych jako poziom natężenia, odpowiednio pola-E i pola-M, określający limit dotyczący pola-EM modulowanego; IPNk-H - odnoszące się do limitów miejscowych, rozumianych jako poziom natężenia pola-M, określający limit miejscowego narażenia kończyn.
+
+### 4.
+
+Limity IPN w przestrzeni pracy dotyczą miar narażenia na pole-EM strefy bliskiej, określonych jako maksymalne miejscowe wartości natężenia pola-E i natężenia pola-M, uśrednionego w przestrzeni o kształcie sześcianu o długości krawędzi 10 cm, jako ekwiwalent wyniku pomiaru bezkierunkowego.
+
+### 5.
+
+W dziedzinie czasu limity IPN dotyczą zróżnicowanych miar narażenia, określonych jako:
+
+- - wartość szczytowa (P) - maksymalna wartość chwilowa wybranego parametru charakteryzującego pole-EM w określonym miejscu w ciągu określonego przedziału czasu (7); w szczególności dla jednego okresu zmian harmonicznego pola-EM o częstotliwości f = 1 / T, wartość szczytowa jego natężenia pola E(P) lub H(P) jest równa amplitudzie odpowiednio natężenia pola-E (Ef) lub pola-M (Hf),
+
+- - wartość równoważna (WR) - wartość międzyszczytowa wybranego parametru charakteryzującego pole-EM, czyli różnica między maksymalną a minimalną wartością chwilową tego parametru w ciągu określonego przedziału czasu (7), podzielona przez 2√2; w szczególności dla jednego okresu zmian harmonicznego pola-EM, wartość równoważna jego natężenia pola E(WR) lub H(WR) jest równa jego wartości skutecznej (RMS),
+
+- - wartość skuteczna (RMS) - wartość wybranego parametru charakteryzującego pole-EM definiowana zgodnie z uśrednioną w czasie zależnością całkową, reprezentującą ekwiwalent ciepła wydzielonego podczas przepływu prądu, wyrażana liczbowo zależnością: gdzie: \( X_{RMS} = \sqrt {{1 \over {T_{RMS} }}\mathop \smallint \limits_0^{T_{RMS} } } x^2 (t)dt \) x(t) - wartość chwilowa wybranego parametru charakteryzującego pole-EM w rozpatrywanym momencie czasu t, TRMS - przedział czasu, w którym obliczana jest wartość skuteczna; jeżeli TRMS = 1 / f, to jest to okres zmian w czasie wartości chwilowej wybranego parametru; dla pól harmonicznych wartość skuteczna (RMS) równa jest wartości szczytowej (P) podzielonej przez √2; podczas oceny zagrożeń wynikających ze skutków termicznych oddziaływania pola-EM o częstotliwości z zakresu 100 × 103 Hz < f < 6 × 109 Hz przyjmuje się TRMS = 6 minut.
+
+###
+
+### 6.1.
+
+Pole-EM stref ochronnych, na podstawie wartości E i H w danym miejscu, określono następująco:
+
+### a)
+
+pole-EM strefy niebezpiecznej występuje, jeżeli: E ≥ IPNog-E lub H ≥ IPNog-H albo E ≥ IPNm-E lub H ≥ IPNm-H, w przypadku pola-EM modulowanego,
+
+### b)
+
+pole-EM strefy zagrożenia występuje, jeżeli: {E ≥ IPNod-E lub H ≥ IPNod-H} i {E < IPNog-E i H < IPNog-H},
+
+### c)
+
+pole-EM strefy pośredniej występuje, jeżeli: {E ≥ IPNp-E lub H ≥ IPNp-H} i {E < IPNod-E i H < IPNod-H}.
+
+### 6.2.
+
+Pole-EM poza strefami ochronnymi, występujące, jeżeli w danym miejscu: E < IPNp-E i H < IPNp-H, określono jako pole-EM strefy bezpiecznej.
+
+### 7.
+
+Wartości ładunku elektrycznego Q, o których mowa w objaśnieniu nr 2 do tabeli 13, nie dotyczą oceny zagrożenia wynikającego z zapłonu atmosfer wybuchowych, w rozumieniu przepisów rozporządzenia Ministra Gospodarki z dnia 8 lipca 2010 r. w sprawie minimalnych wymagań, dotyczących bezpieczeństwa i higieny pracy, związanych z możliwością wystąpienia w miejscu pracy atmosfery wybuchowej (Dz. U. poz. 931).
+
+### 8.
+
+Definicje pojęć stosowanych w odniesieniu do pola-EM oraz wymagania dotyczące oceny pola-EM i środków ochronnych w przypadku narażenia na pole-EM stref ochronnych określają przepisy rozporządzenia Ministra Rodziny, Pracy i Polityki Społecznej z dnia 29 czerwca 2016 r. w sprawie bezpieczeństwa i higieny pracy przy pracach związanych z narażeniem na pole elektromagnetyczne (Dz. U. z 2018 r. poz. 331). Tabela 13. Limity Interwencyjnych Poziomów Narażenia na pole-E Lp. Częstotliwość Limity IPN dotyczące natężenia pola-E1), 2), 3) f IPNog-E1) IPNob-E1) IPNod-E1) IPNp-E1) IPNm-E3) Hz V/m(WR) V/m(WR) V/m(WR) V/m(WR) V/m(P) 1 2 3 4 5 6 7 1 f < 5 (w tym pole elektrostatyczne)2) 6 x 104 6 x 104 2 x 104 1,5 x 104 Nie określono 2 5 ≤ f < 25 2 x 104 2 x 104 2 x 104 / 3 103 3 25 ≤ f < 50 2 x 104 5 x 105 / f 5 x 105/(3 x f) 103 4 50 ≤ f < 100 2 x 104 5 x 105 / f 5 x 105 /(3 x f) 5 x 104 / f 5 100 ≤ f < 2,5 x103 2 x 106/ f 5 x 105 / f 5 x 105 /(3 x f) 5 x 104 / f 6 2,5 x 103 ≤ f < 3 x 106 8 x 102 2 x 102 2 x 102 / 3 20 7 3 x 106 ≤ f < 10 x106 2,4 x 109 / f 6 x 108 / f 2 x 108 / f 7 2 x 102 8 10 x 106 ≤ f <100 x 106 2,4 x 102 60 20 7 Nie określono 9 100 x 106 ≤ f < 3 x 109 2,4 x 102 60 20 7 4,5 x 103 10 3 x 109 ≤ f < 10 x109 2,4 x 102 60 20 7 (3,2 + 4,3 x f / 1010) x 103 11 10 x 109 ≤ f < 300 x 109 2,4 x 102 60 20 7 7,5 x 103 Tabela 14. Limity Interwencyjnych Poziomów Narażenia na pole-M Lp. Częstotliwość Limity IPN dotyczące natężenie pola-M1),3),4) f IPNog-H1) IPNob-H1) IPNod-H1) IPNp-H1) IPNk-H1) IPNm-H3) Hz A/m(WR) A/m(WR) A/m(WR) A/m(WR) A/m(WR) A/m(P) 1 2 3 4 5 6 7 8 1 f < 5 (w tym pole magnetostatyczne)4) 3,2 x 105 1,6 x 105 2,4 x 103 4 x 102 8 x 105 Nie określono 2 5 ≤ f < 50 3,2 x 103 1,6 x 103 1,6 x 103/3 60 8 x 103 3 50 ≤ f < 103 1,6 x 105 / f 0,8 x 105 / f 0,8 x 105 / (3 x f) 3 x 103 / f 4 x 105 / f 4 103 ≤ f < 20 x 103 1,6 x 102 80 80/3 3 4 x 102 5 20 x 103 ≤ f < 3 x 106 3,2 x 106 / f 1,6 x 106 / f 1,6 x 106 / (3 x f) 6 x 104 / f 8 x 106 / f 80 6 3 x106 ≤ f < 10 x106 3,2 x 106 / f 1,6 x 106 / f 1,6 x 106 / (3 x f) 2 x 10-2 8 x 106 / f 80 7 10 x 106 ≤ f < 300 x 109 0,32 0,16 0,16/3 2 x 10-2 Nie określono Nie określono Objaśnienia do tabel 13 i 14: 1) Wartości IPNob, IPNog, IPNod, IPNp, IPNk oznaczają wartości równoważne (WR) odnoszące się do przedziału czasu T= 1 / f. 2) Alternatywnie stosuje się: IPNob-E = IPNog-E = 6 x 104 V/m i IPNob-Q = IPNog-Q = 7 x 10-7 C; IPNod-E = 2 x 104 V/m i IPNod-Q = 2,3 x 10-7 C oraz IPNp-E = 1,5 x 104 V/m i IPNp-Q = 1,6 x 10-7C. 3) Wartości IPNm-E i IPNm-H określone dla pola-EM modulowanego oznaczają wartości szczytowe (P) natężenia pola-E i natężenia pola-M, odnoszące się do przedziału czasu T= 1 / f dla częstotliwości f < 10 x 106 Hz, a odnoszące się do przedziału czasu T= dowolne 6 minut dla częstotliwości f > 100 x 106 Hz. 4) Alternatywnie stosuje się m.in: IPNog-H = 3,2 x 105 A/m i IPNog-B = 400 mT; IPNob-H = 1,6 x 105 A/m i IPNob-B = 200 mT; IPNod-H = 2,4 x 103 A/m i IPNod-B = 3 mT; IPNp-H =4 x 102A/mi IPNp-B = 0,5 mT oraz IPNk-H = 8 x 105 A/m i IPNk-B = 1 T.

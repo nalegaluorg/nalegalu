@@ -8,11 +8,9 @@ pos: 1108
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "eli-html"
 ---
-
-# o zmianie ustawy o Policji oraz niektórych innych ustaw
-
-*USTAWA z dnia 6 sierpnia 2010 r.*
+# Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o Policji oraz niektórych innych ustaw [1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji.](#gloss-0:1:)
 
 | Pole | Wartość |
 |---|---|
@@ -24,70 +22,434 @@ domain: null
 | Data ogłoszenia | 2010-08-06 |
 | Data wydania | 2010-09-07 |
 | Ostatnia zmiana | 2024-03-14 |
-| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101641108) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1108/text.pdf) |
+| Źródło | [ELI HTML](https://eli.gov.pl/api/acts/DU/2010/1108/text.html) · [ELI API](https://api.sejm.gov.pl/eli/acts/DU/2010/1108) |
 
-**Art. 1.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. 43, 277, z późn. zm. ) wprowadza się następujące zmiany:
+## Treść ustawy
 
-**Art. 145h.** Policjanci pracownicy Policji są uprawnieni do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej, celu realizacji zadań:
+### Art. 1.
 
-**Art. 145i.** O wykonywaniu obowiązków służbowych przez policjantów lub pracowników Policji na terytorium innego państwa członkowskiego Unii Europejskiej, oraz określeniu warunków wykonywania tych obowiązków postanawia:
+W ustawie z dnia 6 kwietnia 1990 r. o Policji ([Dz. U. z 2007 r. Nr 43, poz. 277](https://api.sejm.gov.pl/eli/acts/DU/2007/277/text.html), z późn. zm.[2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777 oraz z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842 i Nr 127, poz. 857.](#gloss-0:2:)) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. 234, 1997, z późn. zm. ) wprowadza się następujące zmiany:
+### 1)
 
-**Art. 147o.**
+w art. 1:
 
-1. Funkcjonariusze wchodzący skład krajowej rezerwy ekspertów mogą zostać delegowani do:
+### a)
 
-- **1)** zespołów szybkiej interwencji na granicy utworzonych działających zgodnie z rozporządzeniem (WE) nr 863/2007 Parlamentu Europejskiego Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 odniesieniu do tego mechanizmu określającym uprawnienia zadania zaproszonych funkcjonariuszy (Dz. Urz. UE L 199 z 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 863/2007”;
-- **2)** udziału we wspólnych operacjach przeprowadzanych zgodnie z rozporządzeniem Rady (WE) nr 2007/2004 z dnia 26 października 2004 r. ustanawiającym Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej (Dz. Urz. UE L 349 z 25.11.2004, str. 1), zmienionym rozporządzeniem (WE) Parlamentu Europejskiego Rady nr 863/2007 (Dz. Urz. UE L 199 z 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 2007/2004”.
+w ust. 2 pkt 7 otrzymuje brzmienie:
 
-3. Komendant Główny Straży Granicznej, na zasadach określonych rozporządzeniu nr 863/2007, deleguje lub odmawia delegowania funkcjonariusza do wykonywania zadań zespołach szybkiej interwencji na granicy oraz we wspólnych operacjach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej, zwaną dalej „Agencją Frontex”.
+„
 
-**Art. 147p.**
+### 7)
 
-1. Komendant Główny Straży Granicznej może udostępnić Agencji Frontex sprzęt techniczny będący zarządzie Straży Granicznej celu włączenia do centralnego rejestru dostępnego wyposażenia technicznego CRATE oraz wykorzystania trakcie wspólnych działań koordynowanych przez Agencję Frontex, zgodnie z rozporządzeniem 2007/2004, tym poza granicami państwa.
+współdziałanie z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z organami i instytucjami Unii Europejskiej na podstawie umów i porozumień międzynarodowych oraz odrębnych przepisów;
 
-2. Komendant Główny Straży Granicznej może delegować funkcjonariuszy lub pracowników do obsługi sprzętu, o którym mowa ust. 1.
+” ,
 
-**Art. 147r.**
+### b)
 
-1. W czasie delegowania funkcjonariusze pracownicy wykonują polecenia właściwych przełożonych przyjmującego państwa członkowskiego Unii Europejskiej.
+ust. 3 otrzymuje brzmienie:
 
-2. Do delegowanych funkcjonariuszy przepisy art. 147h art. 147j ust. 2 stosuje się odpowiednio.
+„
 
-3. Delegowanie pracownika do wykonywania zajęć poza siedzibą urzędu, którym wykonuje on pracę, następuje na podstawie odrębnych przepisów.”;
+### 3.
 
-- **7)** po rozdziale 14b dodaje się rozdział 14c brzmieniu: „Rozdział 14c Udział Straży Granicznej we współpracy transgranicznej państw członkowskich Unii Europejskiej
+Policja realizuje także zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i porozumień międzynarodowych na zasadach i w zakresie w nich określonych.
 
-**Art. 147s.** Funkcjonariusze pracownicy Straży Granicznej mogą zostać delegowani do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej celu realizacji zadań:
+” ;
 
-**Art. 147t.**
+### 2)
 
-1. Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej, po uzyskaniu pisemnej zgody Komendanta Głównego Straży Granicznej, podejmuje decyzje sprawie realizacji przez Straż Graniczną:
+po rozdziale 10a dodaje się rozdział 10b w brzmieniu:
 
-- **1)** zadań, o których mowa art. 147s pkt 1, oraz określa warunki prowadzenia tych działań, zgodnie z art. 17 ust. 3 decyzji Rady 2008/616/WSiSW z dnia 23 czerwca 2008 r. sprawie wdrożenia decyzji 2008/615/WSiSW sprawie intensyfikacji współpracy transgranicznej, szczególnie zwalczaniu terroryzmu przestępczości transgranicznej (Dz. Urz. UE L 210 z 06.08.2008, str. 12);
-- **2)** zadań, o których mowa art. 147s pkt 2, oraz określa warunki prowadzenia tych działań.
+„
 
-2. W sprawach, o których mowa ust. 1, właściwym jest:
+### Rozdział 10b Realizacja wspólnych działań na terytorium państw członkowskich Unii Europejskiej
 
-- **1)** Komendant Główny Straży Granicznej, przypadku gdy zadania wykonują funkcjonariusze Komendy Głównej Straży Granicznej lub funkcjonariusze więcej niż jednego oddziału Straży Granicznej lub gdy Komendant Główny Straży Granicznej tak zdecyduje;
-- **2)** komendant oddziału Straży Granicznej, przypadku gdy zadania wykonują podlegli mu funkcjonariusze.
+### Art. 145h.
 
-**Art. 147u.**
+Policjanci i pracownicy Policji są uprawnieni do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej, w celu realizacji zadań:
 
-1. Komendant Główny Straży Granicznej, na zasadach określonych art. 40, deleguje lub odmawia delegowania funkcjonariuszy pracowników do wykonywania zadań na terytorium innego państwa członkowskiego Unii Europejskiej.
+### 1)
 
-2. W czasie delegowania, o którym mowa ust. 1, funkcjonariusze pracownicy wykonują polecenia właściwych przełożonych przyjmującego państwa członkowskiego Unii Europejskiej.
+w formie wspólnych patroli lub innego rodzaju wspólnych operacji w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o których mowa w art. 17 decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej ([Dz. Urz. UE L 210 z 06.08.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanej dalej „decyzją Rady 2008/615/WSiSW”;
 
-3. Do funkcjonariuszy delegowanych do wykonywania zadań na terytorium innego państwa członkowskiego Unii Europejskiej przepisy art. 147h art. 147j ust. 2 stosuje się odpowiednio.
+### 2)
 
-4. Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, którym wykonuje on pracę, następuje na podstawie odrębnych przepisów.”.
+w formie udzielania wsparcia w związku ze zgromadzeniami, imprezami masowymi lub podobnymi wydarzeniami, klęskami żywiołowymi oraz poważnymi wypadkami w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o którym mowa w art. 18 decyzji Rady 2008/615/WSiSW;
 
-**Art. 3.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2009 r. 12, 67) wprowadza się następujące zmiany:
+### 3)
 
-**Art. 17e.** Komendant Główny Straży Granicznej zakresie dotyczącym:
+w ramach udzielania pomocy przez specjalną jednostkę interwencyjną, o której mowa w decyzji Rady 2008/617/WSiSW z dnia 23 czerwca 2008 r. w sprawie usprawnienia współpracy pomiędzy specjalnymi jednostkami interwencyjnymi państw członkowskich Unii Europejskiej w sytuacjach kryzysowych ([Dz. Urz. UE L 210 z 06.08.2008, str. 73](https://api.sejm.gov.pl/eli/acts//text.html)).
 
-**Art. 4.** W ustawie z dnia 21 maja 1999 r. o broni amunicji (Dz. U. z 2004 r. 52, 525, z późn. zm. ) art. 3 pkt 2a otrzymuje brzmienie: „2a) broni amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej związku z wykonywaniem, za zgodą właściwych organów RzeArt. 5. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40 ust. 3 4 ustawy, o której mowa art. 2, zachowują moc do czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 7 ustawy, o której mowa art. 2, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+### Art. 145i.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+O wykonywaniu obowiązków służbowych przez policjantów lub pracowników Policji na terytorium innego państwa członkowskiego Unii Europejskiej, oraz określeniu warunków wykonywania tych obowiązków postanawia:
 
+### 1)
+
+Komendant Główny Policji - decyzją, w przypadku, o którym mowa w art. 145h pkt 1;
+
+### 2)
+
+minister właściwy do spraw wewnętrznych - zarządzeniem, w przypadkach, o których mowa w art. 145h pkt 2 i 3.
+
+” .
+
+### Art. 2.
+
+W ustawie z dnia 12 października 1990 r. o Straży Granicznej ([Dz. U. z 2005 r. Nr 234, poz. 1997](https://api.sejm.gov.pl/eli/acts/DU/2005/1997/text.html), z późn. zm.[3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558, z 2008 r. Nr 86, poz. 521, Nr 195, poz. 1199, Nr 216, poz. 1367 i Nr 227, poz. 1505, z 2009 r. Nr 22, poz. 120, Nr 85, poz. 716, Nr 98, poz. 817, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 127, poz. 857.](#gloss-0:3:)) wprowadza się następujące zmiany:
+
+### 1)
+
+w art. 1:
+
+### a)
+
+ust. 2b otrzymuje brzmienie:
+
+„
+
+### 2b.
+
+Straż Graniczna realizuje zadania wynikające z przepisów prawa Unii Europejskiej oraz umów i porozumień międzynarodowych na zasadach i w zakresie w nich określonych.
+
+” ,
+
+### b)
+
+ust. 3 otrzymuje brzmienie:
+
+„
+
+### 3.
+
+Straż Graniczna w zakresie ochrony granicy państwowej i kontroli ruchu granicznego współdziała z właściwymi organami i instytucjami Unii Europejskiej oraz organami ochrony granic innych państw.
+
+” ;
+
+### 2)
+
+w art. 3a pkt 8 otrzymuje brzmienie:
+
+„
+
+### 8)
+
+prowadzenie współpracy z organami i instytucjami Unii Europejskiej oraz z organami i instytucjami innych państw właściwymi w sprawach ochrony granic państwowych i kontroli ruchu granicznego.
+
+” ;
+
+### 3)
+
+w art. 9 w ust. 7 pkt 1 i 2 otrzymują brzmienie:
+
+„
+
+### 1)
+
+metody i formy wykonywania zadań Straży Granicznej w zakresie nieobjętym innymi przepisami wydanymi na podstawie ustawy, w tym zadań wykonywanych poza terytorium Rzeczypospolitej Polskiej w zakresie nieobjętym innymi przepisami wydanymi na podstawie ustawy oraz przepisami prawa Unii Europejskiej;
+
+### 2)
+
+sposób pełnienia służby w zakresie nieobjętym innymi przepisami wydanymi na podstawie ustawy, w tym sposób pełnienia służby poza terytorium Rzeczypospolitej Polskiej w zakresie nieobjętym innymi przepisami wydanymi na podstawie ustawy oraz przepisami prawa Unii Europejskiej;
+
+” ;
+
+### 4)
+
+w art. 37 ust. 2a otrzymuje brzmienie:
+
+„
+
+### 2a.
+
+Przepisu ust. 2 nie stosuje się do funkcjonariuszy skierowanych na szkolenie w systemie skoszarowanym, przebywających w podróży służbowej, delegowanych do czasowego pełnienia służby poza granicami państwa w przypadkach, o których mowa w art. 40 ust. 2, a także delegowanych do pełnienia służby poza granicami państwa w kontyngencie Straży Granicznej.
+
+” ;
+
+### 5)
+
+art. 40 otrzymuje brzmienie:
+
+„
+
+### Art. 40.
+
+### 1.
+
+Funkcjonariusz może być przeniesiony do pełnienia służby albo delegowany do czasowego pełnienia służby w innej jednostce organizacyjnej Straży Granicznej lub innej miejscowości z urzędu lub na własną prośbę.
+
+### 2.
+
+Funkcjonariusz może być delegowany do czasowego pełnienia służby:
+
+### 1)
+
+na terytorium innego państwa członkowskiego Unii Europejskiej w ramach wykonywania zadań określonych w przepisach prawa Unii Europejskiej lub umowach międzynarodowych wiążących Rzeczpospolitą Polską;
+
+### 2)
+
+na terytorium państw nienależących do Unii Europejskiej w ramach wykonywania zadań określonych w umowach międzynarodowych wiążących Rzeczpospolitą Polską, za jego pisemną zgodą.
+
+### 3.
+
+Delegowanie, o którym mowa w ust. 1 i ust. 2 pkt 1, nie może przekraczać 6 miesięcy. W okresie 2 lat od przeniesienia do pełnienia służby albo od zakończenia delegowania do czasowego pełnienia służby w innej jednostce organizacyjnej Straży Granicznej lub innej miejscowości, funkcjonariusz może być, po raz kolejny, przeniesiony do pełnienia służby albo delegowany do czasowego pełnienia służby w innej jednostce organizacyjnej Straży Granicznej albo innej miejscowości, tylko za jego pisemną zgodą.
+
+### 4.
+
+Do przenoszenia lub delegowania funkcjonariusza właściwi są:
+
+### 1)
+
+Komendant Główny Straży Granicznej:
+
+### a)
+
+na terytorium Rzeczypospolitej Polskiej,
+
+### b)
+
+na terytorium innych państw członkowskich Unii Europejskiej w ramach wykonywania zadań, o których mowa w ust. 2 pkt 1, w przypadku gdy zadania te wykonują funkcjonariusze pełniący służbę w Komendzie Głównej Straży Granicznej, funkcjonariusze więcej niż jednego oddziału Straży Granicznej lub gdy Komendant Główny Straży Granicznej tak zdecyduje,
+
+### c)
+
+na terytorium państw nienależących do Unii Europejskiej w ramach wykonywania zadań, o których mowa w ust. 2 pkt 2;
+
+### 2)
+
+komendant oddziału Straży Granicznej:
+
+### a)
+
+w ramach terytorialnego zasięgu działania oddziału Straży Granicznej,
+
+### b)
+
+na terytorium innych państw członkowskich Unii Europejskiej w ramach wykonywania zadań, o których mowa w ust. 2 pkt 1, w przypadku gdy zadania te wykonują podlegli mu funkcjonariusze.
+
+### 5.
+
+Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, należności i świadczenia przysługujące funkcjonariuszom delegowanym do pełnienia służby poza granicami państwa, uwzględniając:
+
+### 1)
+
+charakter lub zakres zadań wykonywanych przez funkcjonariusza;
+
+### 2)
+
+rodzaje, warunki przyznawania oraz wysokość dodatkowych świadczeń związanych z delegowaniem;
+
+### 3)
+
+możliwość ograniczenia w całości albo w części należności przysługujących funkcjonariuszowi z tytułu odbywania zagranicznych podróży służbowych w przypadku otrzymywania ze źródła zagranicznego wynagrodzenia lub innych świadczeń bądź należności przeznaczonych na pokrycie kosztów delegowania;
+
+### 4)
+
+szczegółowe prawa i obowiązki delegowanego, w tym wymóg zapewnienia po zakończeniu delegowania warunków służby co najmniej równorzędnych do istniejących przed delegowaniem;
+
+### 5)
+
+tryb postępowania i właściwość przełożonych w tych sprawach, w szczególności w zakresie wnioskowania o delegowanie, odwołania z delegowania, a także wypłaty należności przysługujących delegowanemu, oraz podmioty zagraniczne, które mogą inicjować postępowanie w tych sprawach.
+
+### 6.
+
+Rozporządzenie, o którym mowa w ust. 5, powinno uzależnić zakres uprawnień delegowanego od charakteru lub rodzaju wykonywanych zadań, czasu trwania delegowania, warunków bytowych i kosztów związanych z delegowaniem oraz zakresu uprawnień i świadczeń przyznanych przez podmiot zagraniczny.
+
+### 7.
+
+Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ([Dz. U. z 2008 r. Nr 164, poz. 1027](https://api.sejm.gov.pl/eli/acts/DU/2008/1027/text.html), z późn. zm.[4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857.](#gloss-0:4:)), przez funkcjonariuszy, o których mowa w ust. 2 oraz w art. 147e ust. 1, w związku z urazami nabytymi podczas wykonywania zadań poza granicami państwa oraz sposób i tryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych.
+
+” ;
+
+### 6)
+
+rozdział 14b otrzymuje brzmienie:
+
+„
+
+### Rozdział 14b Udział Straży Granicznej we wspólnych działaniach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej
+
+### Art. 147o.
+
+### 1.
+
+Funkcjonariusze wchodzący w skład krajowej rezerwy ekspertów mogą zostać delegowani do:
+
+### 1)
+
+zespołów szybkiej interwencji na granicy utworzonych i działających zgodnie z rozporządzeniem (WE) nr 863/2007 Parlamentu Europejskiego i Rady z dnia 11 lipca 2007 r. ustanawiającym mechanizm tworzenia zespołów szybkiej interwencji na granicy oraz zmieniającym rozporządzenie Rady (WE) nr 2007/2004 w odniesieniu do tego mechanizmu i określającym uprawnienia i zadania zaproszonych funkcjonariuszy ([Dz. Urz. UE L 199 z 31.07.2007, str. 30](https://api.sejm.gov.pl/eli/acts//text.html)), zwanym dalej „rozporządzeniem nr 863/2007”;
+
+### 2)
+
+udziału we wspólnych operacjach przeprowadzanych zgodnie z rozporządzeniem Rady (WE) nr 2007/2004 z dnia 26 października 2004 r. ustanawiającym Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej ([Dz. Urz. UE L 349 z 25.11.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zmienionym rozporządzeniem (WE) Parlamentu Europejskiego i Rady nr 863/2007 (Dz. Urz. UE L 199 z 31.07.2007, str. 30), zwanym dalej „rozporządzeniem nr 2007/2004”.
+
+### 2.
+
+Komendant Główny Straży Granicznej określa, w drodze decyzji, skład krajowej rezerwy ekspertów, o której mowa w ust. 1.
+
+### 3.
+
+Komendant Główny Straży Granicznej, na zasadach określonych w rozporządzeniu nr 863/2007, deleguje lub odmawia delegowania funkcjonariusza do wykonywania zadań w zespołach szybkiej interwencji na granicy oraz we wspólnych operacjach koordynowanych przez Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej, zwaną dalej „Agencją Frontex”.
+
+### Art. 147p.
+
+### 1.
+
+Komendant Główny Straży Granicznej może udostępnić Agencji Frontex sprzęt techniczny będący w zarządzie Straży Granicznej w celu włączenia do centralnego rejestru dostępnego wyposażenia technicznego CRATE oraz wykorzystania w trakcie wspólnych działań koordynowanych przez Agencję Frontex, zgodnie z rozporządzeniem 2007/2004, w tym poza granicami państwa.
+
+### 2.
+
+Komendant Główny Straży Granicznej może delegować funkcjonariuszy lub pracowników do obsługi sprzętu, o którym mowa w ust. 1.
+
+### Art. 147r.
+
+### 1.
+
+W czasie delegowania funkcjonariusze i pracownicy wykonują polecenia właściwych przełożonych przyjmującego państwa członkowskiego Unii Europejskiej.
+
+### 2.
+
+Do delegowanych funkcjonariuszy przepisy art. 147h i art. 147j ust. 2 stosuje się odpowiednio.
+
+### 3.
+
+Delegowanie pracownika do wykonywania zajęć poza siedzibą urzędu, w którym wykonuje on pracę, następuje na podstawie odrębnych przepisów.
+
+” ;
+
+### 7)
+
+po rozdziale 14b dodaje się rozdział 14c w brzmieniu:
+
+„
+
+### Rozdział 14c Udział Straży Granicznej we współpracy transgranicznej państw członkowskich Unii Europejskiej
+
+### Art. 147s.
+
+Funkcjonariusze i pracownicy Straży Granicznej mogą zostać delegowani do wykonywania obowiązków służbowych na terytorium innego państwa członkowskiego Unii Europejskiej w celu realizacji zadań:
+
+### 1)
+
+w formie wspólnych patroli i innego rodzaju wspólnych operacji służących ochronie porządku i bezpieczeństwa publicznego oraz zapobieganiu przestępczości, o których mowa w art. 17 ust. 1 decyzji Rady 2008/615/WSiSW z dnia 23 czerwca 2008 r. w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej ([Dz. Urz. UE L 210 z 06.08.2008, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)), zwanej dalej „decyzją Rady 2008/615/WSiSW”;
+
+### 2)
+
+w formie udzielania wsparcia w związku ze zgromadzeniami, imprezami masowymi lub podobnymi wydarzeniami, klęskami żywiołowymi oraz poważnymi wypadkami, w celu ochrony porządku i bezpieczeństwa publicznego oraz zapobiegania przestępczości, o których mowa w art. 18 decyzji Rady 2008/615/WSiSW.
+
+### Art. 147t.
+
+### 1.
+
+Komendant Główny Straży Granicznej lub komendant oddziału Straży Granicznej, po uzyskaniu pisemnej zgody Komendanta Głównego Straży Granicznej, podejmuje decyzje w sprawie realizacji przez Straż Graniczną:
+
+### 1)
+
+zadań, o których mowa w art. 147s pkt 1, oraz określa warunki prowadzenia tych działań, zgodnie z art. 17 ust. 3 decyzji Rady 2008/616/WSiSW z dnia 23 czerwca 2008 r. w sprawie wdrożenia decyzji 2008/615/WSiSW w sprawie intensyfikacji współpracy transgranicznej, szczególnie w zwalczaniu terroryzmu i przestępczości transgranicznej ([Dz. Urz. UE L 210 z 06.08.2008, str. 12](https://api.sejm.gov.pl/eli/acts//text.html));
+
+### 2)
+
+zadań, o których mowa w art. 147s pkt 2, oraz określa warunki prowadzenia tych działań.
+
+### 2.
+
+W sprawach, o których mowa w ust. 1, właściwym jest:
+
+### 1)
+
+Komendant Główny Straży Granicznej, w przypadku gdy zadania wykonują funkcjonariusze Komendy Głównej Straży Granicznej lub funkcjonariusze więcej niż jednego oddziału Straży Granicznej lub gdy Komendant Główny Straży Granicznej tak zdecyduje;
+
+### 2)
+
+komendant oddziału Straży Granicznej, w przypadku gdy zadania wykonują podlegli mu funkcjonariusze.
+
+### Art. 147u.
+
+### 1.
+
+Komendant Główny Straży Granicznej, na zasadach określonych w art. 40, deleguje lub odmawia delegowania funkcjonariuszy i pracowników do wykonywania zadań na terytorium innego państwa członkowskiego Unii Europejskiej.
+
+### 2.
+
+W czasie delegowania, o którym mowa w ust. 1, funkcjonariusze i pracownicy wykonują polecenia właściwych przełożonych przyjmującego państwa członkowskiego Unii Europejskiej.
+
+### 3.
+
+Do funkcjonariuszy delegowanych do wykonywania zadań na terytorium innego państwa członkowskiego Unii Europejskiej przepisy art. 147h i art. 147j ust. 2 stosuje się odpowiednio.
+
+### 4.
+
+Delegowanie pracownika do wykonywania zadań poza siedzibą urzędu, w którym wykonuje on pracę, następuje na podstawie odrębnych przepisów.
+
+” .
+
+### Art. 3.
+
+W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej ([Dz. U. z 2009 r. Nr 12, poz. 67](https://api.sejm.gov.pl/eli/acts/DU/2009/67/text.html)) wprowadza się następujące zmiany:
+
+### 1)
+
+art. 17d i 17e otrzymują brzmienie:
+
+„
+
+### Art. 17d.
+
+Funkcjonariusze straży granicznych, w rozumieniu rozporządzenia nr 863/2007, państw członkowskich Unii Europejskiej na granicy państwowej stanowiącej granicę zewnętrzną w rozumieniu kodeksu granicznego Schengen wykonują zadania w ramach:
+
+### 1)
+
+zespołów szybkiej interwencji na granicy zgodnie z przepisami krajowymi odnoszącymi się do funkcjonariuszy Straży Granicznej w zakresie określonym w rozporządzeniu nr 863/2007;
+
+### 2)
+
+wspólnych operacji zgodnie z przepisami krajowymi odnoszącymi się do funkcjonariuszy Straży Granicznej w zakresie określonym w rozporządzeniu Rady (WE) nr 2007/2004 z dnia 26 października 2004 r. ustanawiającym Europejską Agencję Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej ([Dz. Urz. UE L 349 z 25.11.2004, str. 1](https://api.sejm.gov.pl/eli/acts//text.html)).
+
+### Art. 17e.
+
+Komendant Główny Straży Granicznej w zakresie dotyczącym:
+
+### 1)
+
+zespołów szybkiej interwencji na granicy - wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej oraz uzgadnia plan operacyjny określający szczegółowe warunki oddelegowania zespołów szybkiej interwencji na granicy na terytorium Rzeczypospolitej Polskiej;
+
+### 2)
+
+wspólnych operacji - wykonuje zadania krajowego punktu kontaktowego właściwego w sprawach komunikacji z Europejską Agencją Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej.
+
+” ;
+
+### 2)
+
+po art. 17e dodaje się art. 17f w brzmieniu:
+
+„
+
+### Art. 17f.
+
+Do funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej wykonujących na terytorium Rzeczypospolitej Polskiej, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadania określone w przepisach prawa Unii Europejskiej, w zakresie transportowania, przewozu oraz przesyłania broni i amunicji, stosuje się przepisy obowiązujące funkcjonariuszy Straży Granicznej.
+
+” .
+
+### Art. 4.
+
+W ustawie z dnia 21 maja 1999 r. o broni i amunicji ([Dz. U. z 2004 r. Nr 52, poz. 525](https://api.sejm.gov.pl/eli/acts/DU/2004/525/text.html), z późn. zm.[5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 195, poz. 1199, z 2009 r. Nr 168, poz. 1323 oraz z 2010 r. Nr 127, poz. 857.](#gloss-0:5:)) w art. 3 pkt 2a otrzymuje brzmienie:
+
+„
+
+### 2a)
+
+broni i amunicji stanowiących uzbrojenie funkcjonariuszy straży granicznych państw członkowskich Unii Europejskiej przebywających na terytorium Rzeczypospolitej Polskiej w związku z wykonywaniem, za zgodą właściwych organów Rzeczypospolitej Polskiej, zadań określonych w przepisach prawa Unii Europejskiej;
+
+” .
+
+### Art. 5.
+
+Dotychczasowe przepisy wykonawcze wydane na podstawie art. 40 ust. 3 i 4 ustawy, o której mowa w art. 2, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 40 ust. 5 i 7 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
+
+### Art. 6.
+
+Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 12 października 1990 r. o Straży Granicznej, ustawę z dnia 12 października 1990 r. o ochronie granicy państwowej oraz ustawę z dnia 21 maja 1999 r. o broni i amunicji. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 57, poz. 390, Nr 120, poz. 818, Nr 140, poz. 981 i Nr 165, poz. 1170, z 2008 r. Nr 86, poz. 521, Nr 171, poz. 1065 i Nr 237, poz. 1651, z 2009 r. Nr 22, poz. 120, Nr 62, poz. 504, Nr 85, poz. 716, Nr 97, poz. 803, Nr 98, poz. 817, Nr 115, poz. 959, Nr 157, poz. 1241, Nr 168, poz. 1323, Nr 195, poz. 1502, Nr 201, poz. 1540, Nr 206, poz. 1589 i Nr 223, poz. 1777 oraz z 2010 r. Nr 34, poz. 190, Nr 96, poz. 620, Nr 98, poz. 626, Nr 125, poz. 842 i Nr 127, poz. 857. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708 i 711 i Nr 170, poz. 1218, z 2007 r. Nr 57, poz. 390 i Nr 82, poz. 558, z 2008 r. Nr 86, poz. 521, Nr 195, poz. 1199, Nr 216, poz. 1367 i Nr 227, poz. 1505, z 2009 r. Nr 22, poz. 120, Nr 85, poz. 716, Nr 98, poz. 817, Nr 157, poz. 1241, Nr 168, poz. 1323 i Nr 201, poz. 1540 oraz z 2010 r. Nr 127, poz. 857. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374 oraz z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842 i Nr 127, poz. 857. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 176, poz. 1238, z 2008 r. Nr 195, poz. 1199, z 2009 r. Nr 168, poz. 1323 oraz z 2010 r. Nr 127, poz. 857.
